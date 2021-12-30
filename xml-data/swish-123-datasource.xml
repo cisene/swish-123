@@ -1,0 +1,794 @@
+﻿<?xml version="1.1" encoding="UTF-8"?>
+<root xmlns:xs="http://www.w3.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="./swish-123-datasource.xsd">
+  <entries>
+    <entry number="1230712752">
+      <organization>
+        <name>Teskedsorden</name>
+        <number/>
+      </organization>
+      <web>https://teskedsorden.se/</web>
+    </entry>
+
+    <entry number="1236071302">
+      <organization>
+        <name>Save the Orangutan</name>
+        <number/>
+      </organization>
+      <web>http://savetheorangutan.se/</web>
+    </entry>
+
+    <entry number="1239000068">
+      <organization>
+        <name>Personskadeförbundet RTP</name>
+        <number/>
+      </organization>
+      <web>https://rtp.se/</web>
+    </entry>
+
+    <entry number="1239000209">
+      <organization>
+        <name>Clowner utan Gränser</name>
+        <number/>
+      </organization>
+      <web>https://www.skratt.nu/</web>
+    </entry>
+
+    <entry number="1239000316">
+      <organization>
+        <name>Kristna Fredsrörelsen</name>
+        <number/>
+      </organization>
+      <web>https://www.krf.se</web>
+    </entry>
+
+    <entry number="1239000506">
+      <organization>
+        <name>PMU</name>
+        <number/>
+      </organization>
+      <web>https://pmu.se/</web>
+    </entry>
+
+    <entry number="1239000548">
+      <organization>
+        <name>Ersta Diakoni</name>
+        <number/>
+      </organization>
+      <web>http://www.erstadiakoni.se/</web>
+    </entry>
+
+    <entry number="1239000597">
+      <organization>
+        <name>Barndiabetesfonden</name>
+        <number/>
+      </organization>
+      <web/>
+    </entry>
+
+    <entry number="1239000670">
+      <organization>
+        <name>Insamlingsstiftelsen Akademiska sjukhusets barnfond</name>
+        <number>802424-9289</number>
+      </organization>
+      <categories>
+        <category type="insamling"/>
+        <category type="välgörenhet"/>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://akademiskasbarnfond.se/</web>
+    </entry>
+
+    <entry number="1239001090">
+      <organization>
+        <name>Läkare i Världen</name>
+        <number/>
+      </organization>
+      <web>https://www.lakareivarlden.se/</web>
+    </entry>
+
+    <entry number="1239001298">
+      <organization>
+        <name>Civil Rights Defenders</name>
+        <number/>
+      </organization>
+      <web>https://crd.org/sv/</web>
+    </entry>
+
+    <entry number="1239001561">
+      <organization>
+        <name>Sällsynta Diagnoser</name>
+        <number/>
+      </organization>
+      <web>https://www.sallsyntadiagnoser.se</web>
+    </entry>
+
+    <entry number="1239001629">
+      <organization>
+        <name>Insamlingsstiftelsen WaterAid Sverige</name>
+        <number/>
+      </organization>
+      <web>https://www.wateraid.org/se/</web>
+    </entry>
+
+    <entry number="1239001702">
+      <organization>
+        <name>Göteborgs Stadsmission</name>
+        <number/>
+      </organization>
+      <web>https://www.stadsmissionen.org</web>
+    </entry>
+
+    <entry number="1239001744">
+      <organization>
+        <name>World Animal Protection Sverige</name>
+        <number/>
+      </organization>
+      <web>https://www.worldanimalprotection.se/</web>
+    </entry>
+
+    <entry number="1239001819">
+      <organization>
+        <name>Islamic Relief</name>
+        <number/>
+      </organization>
+      <web>https://islamic-relief.se/</web>
+    </entry>
+
+    <entry number="1239002171">
+      <organization>
+        <name>ALEF, Adult Learning and Empowerment Faciliators</name>
+        <number>802452-4681</number>
+      </organization>
+      <categories>
+        <category type="insamling"/>
+        <category type="välgörenhet"/>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.alef.org/</web>
+    </entry>
+
+    <entry number="1239002189">
+      <organization>
+        <name>Framtidsjorden</name>
+        <number/>
+      </organization>
+      <web>https://www.framtidsjorden.se</web>
+    </entry>
+
+    <entry number="1239002262">
+      <organization>
+        <name>Svenska Livräddningssällskapet</name>
+        <number/>
+      </organization>
+      <web>https://svenskalivraddningssallskapet.se/</web>
+    </entry>
+
+    <entry number="1239002296">
+      <organization>
+        <name>SOS Barnbyar</name>
+        <number/>
+      </organization>
+      <web>http://www.sosbarnbyar.se/</web>
+    </entry>
+
+    <entry number="1239002320">
+      <organization>
+        <name>Involvaid</name>
+        <number/>
+      </organization>
+      <web>https://involvaid.com/</web>
+    </entry>
+
+    <entry number="1239002437">
+      <organization>
+        <name>Yennenga Progress</name>
+        <number/>
+      </organization>
+      <web>https://www.yennengaprogress.se/</web>
+    </entry>
+
+    <entry number="1239002494">
+      <organization>
+        <name>Right Livelihood-stiftelsen</name>
+        <number/>
+      </organization>
+      <web>https://rightlivelihoodaward.org/</web>
+    </entry>
+
+    <entry number="1239002536">
+      <organization>
+        <name>Hoppets stjärna</name>
+        <number/>
+      </organization>
+      <web>https://www.starofhope.se/</web>
+    </entry>
+
+    <entry number="1239003377">
+      <organization>
+        <name>Afrikagrupperna</name>
+        <number>802007-2446</number>
+      </organization>
+      <categories>
+        <category type="insamling"/>
+        <category type="välgörenhet"/>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://afrikagrupperna.se/</web>
+    </entry>
+
+    <entry number="1239003419">
+      <organization>
+        <name>Sam-Hjälp</name>
+        <number/>
+      </organization>
+      <web>http://www.samhjalp.se/</web>
+    </entry>
+
+    <entry number="1239003443">
+      <organization>
+        <name>Brottsofferjouren</name>
+        <number/>
+      </organization>
+      <web>https://www.brottsofferjouren.se/</web>
+    </entry>
+
+    <entry number="1239003609">
+      <organization>
+        <name>Cancer- och Allergifonden</name>
+        <number/>
+      </organization>
+      <web>https://www.cancerochallergifonden.se/</web>
+    </entry>
+
+    <entry number="1239003666">
+      <organization>
+        <name>Insamlingsstiftelsen till minne av Gustav Whitefield</name>
+        <number/>
+      </organization>
+      <web>https://www.gustavwhitefield.com/</web>
+    </entry>
+
+    <entry number="1239003674">
+      <organization>
+        <name>Njurfonden</name>
+        <number/>
+      </organization>
+      <web>https://www.njurfonden.se/</web>
+    </entry>
+
+    <entry number="1239003831">
+      <organization>
+        <name>Insamlingsstiftelsen Skiers Left – Mikaelas minne</name>
+        <number/>
+      </organization>
+      <web>https://www.skiersleft.com/</web>
+    </entry>
+
+    <entry number="1239004011">
+      <organization>
+        <name>Insamlingsstiftelsen Gatubarn</name>
+        <number/>
+      </organization>
+      <web>https://www.stiftelsengatubarn.se/</web>
+    </entry>
+
+    <entry number="1239004375">
+      <organization>
+        <name>Cancerhjälpen</name>
+        <number/>
+      </organization>
+      <web>https://www.cancerhjalpen.se/</web>
+    </entry>
+
+    <entry number="1239004441">
+      <organization>
+        <name>Räddningsmissionen</name>
+        <number/>
+      </organization>
+      <web>https://raddningsmissionen.se/</web>
+    </entry>
+
+    <entry number="1239004540">
+      <organization>
+        <name>Human Rights Watch</name>
+        <number/>
+      </organization>
+      <web>http://www.hrw.se</web>
+    </entry>
+
+    <entry number="1239004656">
+      <organization>
+        <name>Help Kurdistan insamlingsstiftelse</name>
+        <number/>
+      </organization>
+      <web>http://www.helpkurdistan.se/</web>
+    </entry>
+
+    <entry number="1239004805">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number/>
+      </organization>
+      <web>https://www.fralsningsarmen.se/</web>
+    </entry>
+
+    <entry number="1239004870">
+      <organization>
+        <name>Jontefonden</name>
+        <number/>
+      </organization>
+      <web>https://www.jontefonden.se/</web>
+    </entry>
+
+    <entry number="1239005000">
+      <organization>
+        <name>Sjöräddningssällskapet</name>
+        <number/>
+      </organization>
+      <web>https://www.sjoraddning.se/</web>
+    </entry>
+
+    <entry number="1239005083">
+      <organization>
+        <name>Vi-skogen</name>
+        <number/>
+      </organization>
+      <web>https://www.viskogen.se/</web>
+    </entry>
+
+    <entry number="1239005133">
+      <organization>
+        <name>Min Stora Dag</name>
+        <number/>
+      </organization>
+      <web>https://www.minstoradag.org/</web>
+    </entry>
+
+    <entry number="1239005547">
+      <organization>
+        <name>War Child</name>
+        <number/>
+      </organization>
+      <web>https://www.warchild.se/</web>
+    </entry>
+
+    <entry number="1239005604">
+      <organization>
+        <name>Stiftelsen Sällsyntafonden</name>
+        <number>802479-8202</number>
+      </organization>
+      <categories>
+        <category type="insamling"/>
+        <category type="välgörenhet"/>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.agrenska.se/sallsyntafonden/</web>
+    </entry>
+
+    <entry number="1239005745">
+      <organization>
+        <name>Ung Cancer</name>
+        <number/>
+      </organization>
+      <web>https://ungcancer.se/</web>
+    </entry>
+
+    <entry number="1239005802">
+      <organization>
+        <name>Unite 2 Learn</name>
+        <number/>
+      </organization>
+      <web>http://www.unite2learn.org/</web>
+    </entry>
+
+    <entry number="1239005877">
+      <organization>
+        <name>Hjärtebarnsfonden</name>
+        <number/>
+      </organization>
+      <web>http://www.hjartebarnsfonden.se/</web>
+    </entry>
+
+    <entry number="1239005919">
+      <organization>
+        <name>Bröstcancerförbundet</name>
+        <number/>
+      </organization>
+      <web>http://bröstcancerförbundet.se/</web>
+    </entry>
+
+    <entry number="1239006099">
+      <organization>
+        <name>RFSU Insamlingsstiftelse</name>
+        <number/>
+      </organization>
+      <web>https://www.rfsuinsamling.se/</web>
+    </entry>
+
+    <entry number="1239006453">
+      <organization>
+        <name>Anhörigas Riksförbund</name>
+        <number/>
+      </organization>
+      <web/>
+    </entry>
+
+    <entry number="1239006602">
+      <organization>
+        <name>Barncancerfonden Västra</name>
+        <number/>
+      </organization>
+      <web/>
+    </entry>
+
+    <entry number="1239007063">
+      <organization>
+        <name>Individuell Människohjälp</name>
+        <number/>
+      </organization>
+      <web>https://www.imsweden.org/</web>
+    </entry>
+
+    <entry number="1239007071">
+      <organization>
+        <name>Barncancerfonden Östra</name>
+        <number/>
+      </organization>
+      <web/>
+    </entry>
+
+    <entry number="1239007311">
+      <organization>
+        <name>Plan International</name>
+        <number/>
+      </organization>
+      <web>https://plansverige.org/</web>
+    </entry>
+
+    <entry number="1239007808">
+      <organization>
+        <name>Svenska Afghanistankommittén</name>
+        <number/>
+      </organization>
+      <web>https://www.sak.se/</web>
+    </entry>
+
+    <entry number="1239007949">
+      <organization>
+        <name>Stiftelsen ParkinsonFörbundets Forskningsfond</name>
+        <number/>
+      </organization>
+      <web>https://www.parkinsonfonden.se/</web>
+    </entry>
+
+    <entry number="1239009010">
+      <organization>
+        <name>Diabetesfonden</name>
+        <number/>
+      </organization>
+      <web>https://www.diabetes.se/diabetesfonden</web>
+    </entry>
+
+    <entry number="1239009085">
+      <organization>
+        <name>Goda Nyheter – för livet</name>
+        <number/>
+      </organization>
+      <web>http://www.godanyheter.org/</web>
+    </entry>
+
+    <entry number="1239009283">
+      <organization>
+        <name>Insamlingsstiftelsen Erikshjälpen</name>
+        <number/>
+      </organization>
+      <web>https://www.erikshjalpen.se/</web>
+    </entry>
+
+    <entry number="1239009697">
+      <organization>
+        <name>Riksföreningen Aktiva Synskadade</name>
+        <number>802005-7926</number>
+      </organization>
+      <categories>
+        <category type="insamling"/>
+        <category type="välgörenhet"/>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.aktivasynskadade.org/</web>
+    </entry>
+
+    <entry number="1239009796">
+      <organization>
+        <name>Jubileumsklinikens Cancerfond</name>
+        <number/>
+      </organization>
+      <web>http://www.jubileumsklinikenscancerfond.se/</web>
+    </entry>
+
+    <entry number="1239009903">
+      <organization>
+        <name>EFS</name>
+        <number/>
+      </organization>
+      <web>https://www.efs.nu/</web>
+    </entry>
+
+    <entry number="1239010018">
+      <organization>
+        <name>We Effect</name>
+        <number/>
+      </organization>
+      <web>https://www.weeffect.se/</web>
+    </entry>
+
+    <entry number="1239010075">
+      <organization>
+        <name>Neuroförbundet</name>
+        <number/>
+      </organization>
+      <web>https://neuro.se/</web>
+    </entry>
+
+    <entry number="1239010109">
+      <organization>
+        <name>Riksförbundet HjärtLung</name>
+        <number/>
+      </organization>
+      <web>https://www.hjart-lung.se/</web>
+    </entry>
+
+    <entry number="1239010174">
+      <organization>
+        <name>Latinamerikagrupperna</name>
+        <number/>
+      </organization>
+      <web>http://www.latinamerikagrupperna.se/</web>
+    </entry>
+
+    <entry number="1239010851">
+      <organization>
+        <name>Svenska Freds- och Skiljedomsföreningen</name>
+        <number/>
+      </organization>
+      <web>https://www.svenskafreds.se/</web>
+    </entry>
+
+    <entry number="1239010877">
+      <organization>
+        <name>Djurens rätt</name>
+        <number/>
+      </organization>
+      <web>https://www.djurensratt.se/</web>
+    </entry>
+
+    <entry number="1239010901">
+      <organization>
+        <name>Svenska Läkare mot Kärnvapen</name>
+        <number/>
+      </organization>
+      <web>https://www.slmk.org/</web>
+    </entry>
+
+    <entry number="1239011115">
+      <organization>
+        <name>Barnens RäddningsArk</name>
+        <number/>
+      </organization>
+      <web/>
+    </entry>
+
+    <entry number="1239011172">
+      <organization>
+        <name>Naturarvet</name>
+        <number/>
+      </organization>
+      <web>https://www.naturarvet.se/</web>
+    </entry>
+
+    <entry number="1239011198">
+      <organization>
+        <name>Insamlingsstiftelsen Alzheimerfonden</name>
+        <number>845001-8844</number>
+      </organization>
+      <categories>
+        <category type="insamling"/>
+        <category type="välgörenhet"/>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.alzheimerfonden.se/</web>
+    </entry>
+
+    <entry number="1239011255">
+      <organization>
+        <name>Hjärnfonden</name>
+        <number/>
+      </organization>
+      <web>https://www.hjarnfonden.se/</web>
+    </entry>
+
+    <entry number="1239011305">
+      <organization>
+        <name>Insamlingsstiftelsen BarnSamariten</name>
+        <number/>
+      </organization>
+      <web>https://www.barnsamariten.se/</web>
+    </entry>
+
+    <entry number="1239011545">
+      <organization>
+        <name>Mission Possible Sweden</name>
+        <number/>
+      </organization>
+      <web>https://www.mp.org/</web>
+    </entry>
+
+    <entry number="1239011883">
+      <organization>
+        <name>New Hope</name>
+        <number/>
+      </organization>
+      <web>https://newhope.se/</web>
+    </entry>
+
+    <entry number="1239014010">
+      <organization>
+        <name>Ankarstiftelsen</name>
+        <number/>
+      </organization>
+      <web/>
+    </entry>
+
+    <entry number="1239016965">
+      <organization>
+        <name>LP-Verksamhetens Insamlingsstiftelse</name>
+        <number/>
+      </organization>
+      <web>http://www.lp-verksamheten.se/</web>
+    </entry>
+
+    <entry number="1239017047">
+      <organization>
+        <name>Unga Reumatiker</name>
+        <number/>
+      </organization>
+      <web>https://ungareumatiker.se/</web>
+    </entry>
+
+    <entry number="1239018003">
+      <organization>
+        <name>Kvinna till Kvinna</name>
+        <number/>
+      </organization>
+      <web>https://www.kvinnatillkvinna.se/</web>
+    </entry>
+
+    <entry number="1239018557">
+      <organization>
+        <name>KFUM</name>
+        <number/>
+      </organization>
+      <web>https://kfum.se/</web>
+    </entry>
+
+    <entry number="1239019076">
+      <organization>
+        <name>Majblommans Riksförbund</name>
+        <number/>
+      </organization>
+      <web>http://www.majblomman.se/</web>
+    </entry>
+
+    <entry number="1239019092">
+      <organization>
+        <name>Naturskyddsföreningen</name>
+        <number/>
+      </organization>
+      <web>https://www.naturskyddsforeningen.se/</web>
+    </entry>
+
+    <entry number="1239019506">
+      <organization>
+        <name>Stiftelsen Radiohjälpen</name>
+        <number>802007-9755</number>
+      </organization>
+      <categories>
+        <category type="insamling"/>
+        <category type="välgörenhet"/>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.radiohjalpen.se/</web>
+    </entry>
+
+    <entry number="1239019514">
+      <organization>
+        <name>Cancerfonden</name>
+        <number/>
+      </organization>
+      <web>https://www.cancerfonden.se/</web>
+    </entry>
+
+    <entry number="1239019746">
+      <organization>
+        <name>Världsnaturfonden WWF</name>
+        <number/>
+      </organization>
+      <web>https://www.wwf.se/</web>
+    </entry>
+
+    <entry number="1239019977">
+      <organization>
+        <name>The Hunger Project</name>
+        <number/>
+      </organization>
+      <web>https://thehungerproject.se/</web>
+    </entry>
+
+    <entry number="1239020017">
+      <organization>
+        <name>UNICEF Sverige</name>
+        <number/>
+      </organization>
+      <web>https://www.unicef.se/</web>
+    </entry>
+
+    <entry number="1239020033">
+      <organization>
+        <name>Rädda Barnen</name>
+        <number/>
+      </organization>
+      <web>https://www.raddabarnen.se</web>
+    </entry>
+
+    <entry number="1239030800">
+      <organization>
+        <name>Barncancerfonden Norra</name>
+        <number/>
+      </organization>
+      <web/>
+    </entry>
+
+    <entry number="1239034349">
+      <organization>
+        <name>ECPAT</name>
+        <number/>
+      </organization>
+      <web>https://www.ecpat.se</web>
+    </entry>
+
+    <entry number="1239040452">
+      <organization>
+        <name>Insamlingsstiftelsen För Abrigo Rainha Silvia</name>
+        <number>855100-5161</number>
+      </organization>
+      <categories>
+        <category type="insamling"/>
+        <category type="välgörenhet"/>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.abrigo.se/</web>
+    </entry>
+
+    <entry number="1239091109">
+      <organization>
+        <name>Ågrenska vänskapsföreningen</name>
+        <number>857209-4152</number>
+      </organization>
+      <categories>
+        <category type="insamling"/>
+        <category type="välgörenhet"/>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.agrenska.se/</web>
+    </entry>
+
+    <entry number="1239091927">
+      <organization>
+        <name>Hjärt-Lungfonden</name>
+        <number/>
+      </organization>
+      <web>https://www.hjart-lungfonden.se</web>
+    </entry>
+
+  </entries>
+</root>
