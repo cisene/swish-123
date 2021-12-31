@@ -16,4 +16,4 @@ Det är endast organisationer, föreningar och företag som kan få Swish 123-nu
 
 
 
-Initiativet startades meda huvudet var fullt med snor, 2021-12-30 12:30 ungefär efter att ha letat på nätet efter Swish nummer att skicka betalning till.
+Initiativet startades medan huvudet var fullt med snor och lätt febrig, 2021-12-30 12:30 ungefär efter att ha letat på nätet efter Swish nummer att skicka betalning till.
