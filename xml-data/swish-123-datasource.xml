@@ -89,7 +89,7 @@
     <entry number="1239000068">
       <organization>
         <name>Personskadeförbundet RTP</name>
-        <number/>
+        <number>815200-4134</number>
       </organization>
       <categories/>
       <web>https://rtp.se/</web>
@@ -120,7 +120,7 @@
     <entry number="1239000316">
       <organization>
         <name>Kristna Fredsrörelsen</name>
-        <number/>
+        <number>826000-8696</number>
       </organization>
       <categories/>
       <web>https://www.krf.se</web>
@@ -148,11 +148,13 @@
 
     <entry number="1239000597">
       <organization>
-        <name>Barndiabetesfonden</name>
-        <number/>
+        <name>Stiftelsen Barndiabetesfonden</name>
+        <number>822001-9072</number>
       </organization>
-      <categories/>
-      <web/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.barndiabetesfonden.se/</web>
     </entry>
 
     <entry number="1239000670">
@@ -226,7 +228,7 @@
     <entry number="1239001090">
       <organization>
         <name>Läkare i Världen</name>
-        <number/>
+        <number>802016-1306</number>
       </organization>
       <categories/>
       <web>https://www.lakareivarlden.se/</web>
@@ -301,9 +303,11 @@
     <entry number="1239001561">
       <organization>
         <name>Sällsynta Diagnoser</name>
-        <number/>
+        <number>802408-4934</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.sallsyntadiagnoser.se</web>
     </entry>
 
@@ -423,10 +427,12 @@
     <entry number="1239002296">
       <organization>
         <name>SOS Barnbyar</name>
-        <number/>
+        <number>802405-7815</number>
       </organization>
-      <categories/>
-      <web>http://www.sosbarnbyar.se/</web>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://sos-barnbyar.se/</web>
     </entry>
 
     <entry number="1239002320">

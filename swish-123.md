@@ -11,27 +11,27 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236071302 | 6071302 | Save the Orangutan | 802435-6613 | [Save the Orangutan](http://savetheorangutan.se/) |
 | 1236284616 | 6284616 | Föreningen Rädda Regnskog, Sverige | 802427-9112 | [Föreningen Rädda Regnskog, Sverige](http://www.raddaregnskog.se/) |
 | 1239000035 | 9000035 | Children Need Help | 802416-7192 | [Children Need Help](http://www.childrenneedhelp.org/) |
-| 1239000068 | 9000068 | Personskadeförbundet RTP |  -  | [Personskadeförbundet RTP](https://rtp.se/) |
+| 1239000068 | 9000068 | Personskadeförbundet RTP | 815200-4134 | [Personskadeförbundet RTP](https://rtp.se/) |
 | 1239000100 | 9000100 | Barncancerfonden Mellansverige | 817601-9316 | [Barncancerfonden Mellansverige](http://www.barncancerfonden.se/mellansverige) |
 | 1239000209 | 9000209 | Clowner utan Gränser | 802402-6521 | [Clowner utan Gränser](http://www.clownerutangranser.se/) |
-| 1239000316 | 9000316 | Kristna Fredsrörelsen |  -  | [Kristna Fredsrörelsen](https://www.krf.se) |
+| 1239000316 | 9000316 | Kristna Fredsrörelsen | 826000-8696 | [Kristna Fredsrörelsen](https://www.krf.se) |
 | 1239000506 | 9000506 | PMU |  -  | [PMU](https://pmu.se/) |
 | 1239000548 | 9000548 | Ersta Diakonisällskap | 802000-6717 | [Ersta Diakonisällskap](http://www.erstadiakoni.se/) |
-| 1239000597 | 9000597 | Barndiabetesfonden |  -  | [Barndiabetesfonden](None) |
+| 1239000597 | 9000597 | Stiftelsen Barndiabetesfonden | 822001-9072 | [Stiftelsen Barndiabetesfonden](https://www.barndiabetesfonden.se/) |
 | 1239000670 | 9000670 | Insamlingsstiftelsen Akademiska sjukhusets barnfond | 802424-9289 | [Insamlingsstiftelsen Akademiska sjukhusets barnfond](https://akademiskasbarnfond.se/) |
 | 1239000720 | 9000720 | Amnesty International, svenska sektionen | 802004-0401 | [Amnesty International, svenska sektionen](http://www.amnesty.se/) |
 | 1239000837 | 9000837 | Action Aid International Sweden | 802431-3044 | [Action Aid International Sweden](http://www.actionaid.se/) |
 | 1239000878 | 9000878 | Frisk & Fri - Riksföreningen mot ätstörningar | 802012-8925 | [Frisk & Fri - Riksföreningen mot ätstörningar](http://www.friskfri.se/) |
 | 1239000910 | 9000910 | Föreningen Hand in Hand Sweden | 814000-8643 | [Föreningen Hand in Hand Sweden](http://www.handinhandsweden.se/) |
 | 1239001066 | 9001066 | Djurskyddet Sverige | 802000-6832 | [Djurskyddet Sverige](http://www.djurskyddet.se/) |
-| 1239001090 | 9001090 | Läkare i Världen |  -  | [Läkare i Världen](https://www.lakareivarlden.se/) |
+| 1239001090 | 9001090 | Läkare i Världen | 802016-1306 | [Läkare i Världen](https://www.lakareivarlden.se/) |
 | 1239001181 | 9001181 | Föreningen Kampi Ya Moto:s Barn | 802435-8619 | [Föreningen Kampi Ya Moto:s Barn](http://www.kampiyamotosbarn.se/) |
 | 1239001215 | 9001215 | Assyrier utan Gränser | 802436-5481 | [Assyrier utan Gränser](http://www.assyrierutangranser.se/) |
 | 1239001298 | 9001298 | Civil Rights Defenders | 802011-1442 | [Civil Rights Defenders](https://crd.org/sv/) |
 | 1239001397 | 9001397 | Biståndsföreningen Sri Lankas Barns Vänner | 898800-8796 | [Biståndsföreningen Sri Lankas Barns Vänner](http://www.slbv.se/) |
 | 1239001538 | 9001538 | Centrum för rättvisa, en insamlingsstiftelse | 802412-1215 | [Centrum för rättvisa, en insamlingsstiftelse](http://www.centrumforrattvisa.se/) |
 | 1239001553 | 9001553 | Föreningen Lilla Barnets Fond | 802425-9981 | [Föreningen Lilla Barnets Fond](http://www.lillabarnet.se/) |
-| 1239001561 | 9001561 | Sällsynta Diagnoser |  -  | [Sällsynta Diagnoser](https://www.sallsyntadiagnoser.se) |
+| 1239001561 | 9001561 | Sällsynta Diagnoser | 802408-4934 | [Sällsynta Diagnoser](https://www.sallsyntadiagnoser.se) |
 | 1239001579 | 9001579 | Autism- och Aspergerförbundet | 802008-1348 | [Autism- och Aspergerförbundet](http://www.autism.se/) |
 | 1239001629 | 9001629 | Insamlingsstiftelsen WaterAid Sverige |  -  | [Insamlingsstiftelsen WaterAid Sverige](https://www.wateraid.org/se/) |
 | 1239001702 | 9001702 | Göteborgs Stadsmission |  -  | [Göteborgs Stadsmission](https://www.stadsmissionen.org) |
@@ -43,7 +43,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239002189 | 9002189 | Föreningen Framtidsjorden | 802400-5046 | [Föreningen Framtidsjorden](https://www.framtidsjorden.se) |
 | 1239002247 | 9002247 | Föreningen Kattstallet | 802411-6066 | [Föreningen Kattstallet](http://www.kattstallet.se/) |
 | 1239002262 | 9002262 | Svenska Livräddningssällskapet |  -  | [Svenska Livräddningssällskapet](https://svenskalivraddningssallskapet.se/) |
-| 1239002296 | 9002296 | SOS Barnbyar |  -  | [SOS Barnbyar](http://www.sosbarnbyar.se/) |
+| 1239002296 | 9002296 | SOS Barnbyar | 802405-7815 | [SOS Barnbyar](https://sos-barnbyar.se/) |
 | 1239002320 | 9002320 | Involvaid |  -  | [Involvaid](https://involvaid.com/) |
 | 1239002437 | 9002437 | Yennenga Progress |  -  | [Yennenga Progress](https://www.yennengaprogress.se/) |
 | 1239002452 | 9002452 | Föreningen Mutomoprojektet | 802456-7417 | [Föreningen Mutomoprojektet](http://www.swedenmutomo.com/) |
