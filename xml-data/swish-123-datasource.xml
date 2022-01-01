@@ -1,4 +1,4 @@
-﻿ml version="1.0" ?>
+﻿<?xml version="1.0" ?>
 <root>
   <entries>
 
@@ -958,7 +958,7 @@
 
     <entry number="1239004755">
       <organization>
-        <name>Insamlingsstiftelsen ”Mag-tarmfonden” för Gastroenterologisk och Hepatologisk Forskning</name>
+        <name>Insamlingsstiftelsen &quot;Mag-tarmfonden&quot; för Gastroenterologisk och Hepatologisk Forskning</name>
         <number>802426-4577</number>
       </organization>
       <categories>
