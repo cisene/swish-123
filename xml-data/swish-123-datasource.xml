@@ -32,6 +32,17 @@
       </categories>
       <web>http://www.1000mojligheter.se/</web>
     </entry>
+    
+
+    <entry number="1233444957">
+      <organization>
+        <name>Föreningen - Neuro Malmö</name>
+        <number>846001-3942</number>
+      </organization>
+      <categories/>
+      <web>https://neuro.se/</web>
+    </entry>
+    
 
     <entry number="1233605003">
       <organization>
@@ -148,10 +159,12 @@
 
     <entry number="1239000506">
       <organization>
-        <name>PMU</name>
-        <number/>
+        <name>PMU (Pingstmissionens utvecklingssamarbete)</name>
+        <number>556429-1119</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://pmu.se/</web>
     </entry>
 
@@ -398,27 +411,33 @@
     <entry number="1239001629">
       <organization>
         <name>Insamlingsstiftelsen WaterAid Sverige</name>
-        <number/>
+        <number>802426-1268</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.wateraid.org/se/</web>
     </entry>
 
     <entry number="1239001702">
       <organization>
         <name>Göteborgs Stadsmission</name>
-        <number/>
+        <number>556746-3038</number>
       </organization>
-      <categories/>
-      <web>https://www.stadsmissionen.org</web>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.stadsmissionen.org/</web>
     </entry>
 
     <entry number="1239001744">
       <organization>
         <name>World Animal Protection Sverige</name>
-        <number/>
+        <number>802447-4481</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.worldanimalprotection.se/</web>
     </entry>
 
@@ -436,9 +455,11 @@
     <entry number="1239001819">
       <organization>
         <name>Islamic Relief</name>
-        <number/>
+        <number>802017-3251</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://islamic-relief.se/</web>
     </entry>
 
@@ -459,8 +480,6 @@
         <number>802452-4681</number>
       </organization>
       <categories>
-        <category type="insamling"/>
-        <category type="välgörenhet"/>
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.alef.org/</web>
@@ -491,9 +510,11 @@
     <entry number="1239002262">
       <organization>
         <name>Svenska Livräddningssällskapet</name>
-        <number/>
+        <number>802004-9683</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://svenskalivraddningssallskapet.se/</web>
     </entry>
 
@@ -511,9 +532,11 @@
     <entry number="1239002320">
       <organization>
         <name>Involvaid</name>
-        <number/>
+        <number>802431-9470</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://involvaid.com/</web>
     </entry>
 
@@ -531,9 +554,11 @@
     <entry number="1239002437">
       <organization>
         <name>Yennenga Progress</name>
-        <number/>
+        <number>802445-9987</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.yennengaprogress.se/</web>
     </entry>
 
@@ -551,10 +576,12 @@
     <entry number="1239002494">
       <organization>
         <name>Right Livelihood-stiftelsen</name>
-        <number/>
+        <number>802015-5670</number>
       </organization>
-      <categories/>
-      <web>https://rightlivelihoodaward.org/</web>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://rightlivelihood.org/</web>
     </entry>
 
     <entry number="1239002536">
@@ -683,9 +710,11 @@
     <entry number="1239003419">
       <organization>
         <name>Sam-Hjälp</name>
-        <number/>
+        <number>826002-2630</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>http://www.samhjalp.se/</web>
     </entry>
 
@@ -736,18 +765,22 @@
     <entry number="1239003666">
       <organization>
         <name>Insamlingsstiftelsen till minne av Gustav Whitefield</name>
-        <number/>
+        <number>802477-7495</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.gustavwhitefield.com/</web>
     </entry>
 
     <entry number="1239003674">
       <organization>
         <name>Njurfonden</name>
-        <number/>
+        <number>802477-9202</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.njurfonden.se/</web>
     </entry>
 
@@ -765,9 +798,11 @@
     <entry number="1239003831">
       <organization>
         <name>Insamlingsstiftelsen Skiers Left – Mikaelas minne</name>
-        <number/>
+        <number>802477-8352</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.skiersleft.com/</web>
     </entry>
 
@@ -796,9 +831,11 @@
     <entry number="1239004011">
       <organization>
         <name>Insamlingsstiftelsen Gatubarn</name>
-        <number/>
+        <number>855100-2002</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.stiftelsengatubarn.se/</web>
     </entry>
 
@@ -981,18 +1018,22 @@
     <entry number="1239004870">
       <organization>
         <name>Jontefonden</name>
-        <number/>
+        <number>802478-1950</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.jontefonden.se/</web>
     </entry>
 
     <entry number="1239005000">
       <organization>
-        <name>Sjöräddningssällskapet</name>
-        <number/>
+        <name>Svenska Sjöräddningssällskapet SSRS</name>
+        <number>857201-7179</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.sjoraddning.se/</web>
     </entry>
 
@@ -1010,9 +1051,11 @@
     <entry number="1239005083">
       <organization>
         <name>Vi-skogen</name>
-        <number/>
+        <number>802012-8081</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.viskogen.se/</web>
     </entry>
 
@@ -1030,9 +1073,11 @@
     <entry number="1239005133">
       <organization>
         <name>Min Stora Dag</name>
-        <number/>
+        <number>802409-8264</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.minstoradag.org/</web>
     </entry>
 
@@ -1072,9 +1117,11 @@
     <entry number="1239005547">
       <organization>
         <name>War Child</name>
-        <number/>
+        <number>802479-5828</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.warchild.se/</web>
     </entry>
 
@@ -1138,9 +1185,11 @@
     <entry number="1239005745">
       <organization>
         <name>Ung Cancer</name>
-        <number/>
+        <number>802456-7763</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://ungcancer.se/</web>
     </entry>
 
@@ -1169,9 +1218,11 @@
     <entry number="1239005802">
       <organization>
         <name>Unite 2 Learn</name>
-        <number/>
+        <number>802501-4732</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>http://www.unite2learn.org/</web>
     </entry>
 
@@ -1244,9 +1295,11 @@
     <entry number="1239006099">
       <organization>
         <name>RFSU Insamlingsstiftelse</name>
-        <number/>
+        <number>802002-8133</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.rfsuinsamling.se/</web>
     </entry>
 
@@ -1484,9 +1537,11 @@
     <entry number="1239007311">
       <organization>
         <name>Plan International</name>
-        <number/>
+        <number>802404-9150</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://plansverige.org/</web>
     </entry>
 
@@ -1570,9 +1625,11 @@
     <entry number="1239007808">
       <organization>
         <name>Svenska Afghanistankommittén</name>
-        <number/>
+        <number>802010-4850</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.sak.se/</web>
     </entry>
 
@@ -1590,9 +1647,11 @@
     <entry number="1239007949">
       <organization>
         <name>Stiftelsen ParkinsonFörbundets Forskningsfond</name>
-        <number/>
+        <number>855101-4874</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.parkinsonfonden.se/</web>
     </entry>
 
@@ -1610,9 +1669,11 @@
     <entry number="1239009010">
       <organization>
         <name>Diabetesfonden</name>
-        <number/>
+        <number>802007-6520</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.diabetes.se/diabetesfonden</web>
     </entry>
 
@@ -1655,8 +1716,6 @@
         <number>802005-7926</number>
       </organization>
       <categories>
-        <category type="insamling"/>
-        <category type="välgörenhet"/>
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.aktivasynskadade.org/</web>
@@ -1665,9 +1724,11 @@
     <entry number="1239009796">
       <organization>
         <name>Jubileumsklinikens Cancerfond</name>
-        <number/>
+        <number>857200-8244</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>http://www.jubileumsklinikenscancerfond.se/</web>
     </entry>
 
@@ -1696,36 +1757,44 @@
     <entry number="1239010018">
       <organization>
         <name>We Effect</name>
-        <number/>
+        <number>802004-1524</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.weeffect.se/</web>
     </entry>
 
     <entry number="1239010075">
       <organization>
         <name>Neuroförbundet</name>
-        <number/>
+        <number>802002–3605</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://neuro.se/</web>
     </entry>
 
     <entry number="1239010109">
       <organization>
         <name>Riksförbundet HjärtLung</name>
-        <number/>
+        <number>802000-6410</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.hjart-lung.se/</web>
     </entry>
 
     <entry number="1239010174">
       <organization>
         <name>Latinamerikagrupperna</name>
-        <number/>
+        <number>802004-5681</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>http://www.latinamerikagrupperna.se/</web>
     </entry>
 
@@ -1743,9 +1812,11 @@
     <entry number="1239010851">
       <organization>
         <name>Svenska Freds- och Skiljedomsföreningen</name>
-        <number/>
+        <number>802001-0602</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.svenskafreds.se/</web>
     </entry>
 
@@ -1763,9 +1834,11 @@
     <entry number="1239010901">
       <organization>
         <name>Svenska Läkare mot Kärnvapen</name>
-        <number/>
+        <number>812000-2202</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.slmk.org/</web>
     </entry>
 
@@ -1783,18 +1856,22 @@
     <entry number="1239011115">
       <organization>
         <name>Barnens RäddningsArk</name>
-        <number/>
+        <number>897001-2392</number>
       </organization>
-      <categories/>
-      <web/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.barnensraddningsark.se/</web>
     </entry>
 
     <entry number="1239011172">
       <organization>
         <name>Naturarvet</name>
-        <number/>
+        <number>802424-1393</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.naturarvet.se/</web>
     </entry>
 
@@ -1823,9 +1900,11 @@
     <entry number="1239011255">
       <organization>
         <name>Hjärnfonden</name>
-        <number/>
+        <number>802017-8664</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.hjarnfonden.se/</web>
     </entry>
 
@@ -1843,18 +1922,22 @@
     <entry number="1239011545">
       <organization>
         <name>Mission Possible Sweden</name>
-        <number/>
+        <number>802403-3857</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.mp.org/</web>
     </entry>
 
     <entry number="1239011883">
       <organization>
         <name>New Hope</name>
-        <number/>
+        <number>802014-8550</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://newhope.se/</web>
     </entry>
 
@@ -1949,54 +2032,66 @@
     <entry number="1239016965">
       <organization>
         <name>LP-Verksamhetens Insamlingsstiftelse</name>
-        <number/>
+        <number>802404-3716</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>http://www.lp-verksamheten.se/</web>
     </entry>
 
     <entry number="1239017047">
       <organization>
-        <name>Unga Reumatiker</name>
-        <number/>
+        <name>Riksorganisationen Unga Reumatiker</name>
+        <number>802401-0251</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://ungareumatiker.se/</web>
     </entry>
 
     <entry number="1239018003">
       <organization>
-        <name>Kvinna till Kvinna</name>
-        <number/>
+        <name>Insamlingsstiftelsen Kvinna till Kvinna</name>
+        <number>802401-6134</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.kvinnatillkvinna.se/</web>
     </entry>
 
     <entry number="1239018557">
       <organization>
-        <name>KFUM</name>
-        <number/>
+        <name>KFUM-KFUK</name>
+        <number>802004-2290</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://kfum.se/</web>
     </entry>
 
     <entry number="1239019076">
       <organization>
         <name>Majblommans Riksförbund</name>
-        <number/>
+        <number>857200-5083</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>http://www.majblomman.se/</web>
     </entry>
 
     <entry number="1239019092">
       <organization>
-        <name>Naturskyddsföreningen</name>
-        <number/>
+        <name>Svenska Naturskyddsföreningen</name>
+        <number>802002-4280</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.naturskyddsforeningen.se/</web>
     </entry>
 
@@ -2006,8 +2101,6 @@
         <number>802007-9755</number>
       </organization>
       <categories>
-        <category type="insamling"/>
-        <category type="välgörenhet"/>
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.radiohjalpen.se/</web>
@@ -2038,36 +2131,44 @@
     <entry number="1239019746">
       <organization>
         <name>Världsnaturfonden WWF</name>
-        <number/>
+        <number>802005-9823</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.wwf.se/</web>
     </entry>
 
     <entry number="1239019977">
       <organization>
         <name>The Hunger Project</name>
-        <number/>
+        <number>802010-8315</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://thehungerproject.se/</web>
     </entry>
 
     <entry number="1239020017">
       <organization>
         <name>UNICEF Sverige</name>
-        <number/>
+        <number>802401-4386</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.unicef.se/</web>
     </entry>
 
     <entry number="1239020033">
       <organization>
         <name>Rädda Barnen</name>
-        <number/>
+        <number>802002-8638</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.raddabarnen.se</web>
     </entry>
 
@@ -2182,6 +2283,7 @@
       </categories>
       <web>https://www.hjart-lungfonden.se/</web>
     </entry>
+    
 
   </entries>
 </root>
