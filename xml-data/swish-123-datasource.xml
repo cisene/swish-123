@@ -1,6 +1,29 @@
 ﻿<?xml version="1.0" ?>
 <root>
   <entries>
+    <entry number="1232169449">
+      <organization>
+        <name>Insamlingsstiftelsen Rättvis Skatteprocess</name>
+        <number>802480-0164</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.rattvisskatteprocess.se/</web>
+    </entry>
+    
+
+    <entry number="1232193811">
+      <organization>
+        <name>Linköpings Moskéstiftelse</name>
+        <number>822003-7918</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.linkopingmoske.se/</web>
+    </entry>
+    
 
     <entry number="1232391183">
       <organization>
@@ -55,6 +78,18 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>http://www.dandelionafrica.se/</web>
+    </entry>
+    
+
+    <entry number="1234795613">
+      <organization>
+        <name>Intacts Vänner</name>
+        <number>875003-0846</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.intactsvanner.com/</web>
     </entry>
     
 
@@ -187,8 +222,22 @@
         <name>Kristna Fredsrörelsen</name>
         <number>826000-8696</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
       <web>https://www.krf.se</web>
+    </entry>
+    
+
+    <entry number="1239000464">
+      <organization>
+        <name>Johan Janssons Stiftelse för tumörforskning och Cancerskadade</name>
+        <number>857500-9496</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.jj-stiftelse.org/</web>
     </entry>
     
 
@@ -204,6 +253,18 @@
     </entry>
     
 
+    <entry number="1239000514">
+      <organization>
+        <name>Kids Future</name>
+        <number>802412-3948</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.kidsfuture.se/</web>
+    </entry>
+    
+
     <entry number="1239000548">
       <organization>
         <name>Ersta Diakonisällskap</name>
@@ -216,6 +277,18 @@
     </entry>
     
 
+    <entry number="1239000589">
+      <organization>
+        <name>Insamlingsstiftelsen The Chiparamba Foundation</name>
+        <number>802424-7002</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.chiparamba.com/</web>
+    </entry>
+    
+
     <entry number="1239000597">
       <organization>
         <name>Stiftelsen Barndiabetesfonden</name>
@@ -225,6 +298,18 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.barndiabetesfonden.se/</web>
+    </entry>
+    
+
+    <entry number="1239000654">
+      <organization>
+        <name>Insamlingsstiftelsen Världsinfektionsfonden</name>
+        <number>802424-8224</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.vif.se/</web>
     </entry>
     
 
@@ -540,7 +625,7 @@
 
     <entry number="1239001819">
       <organization>
-        <name>Islamic Relief</name>
+        <name>Islamic Relief Sverige</name>
         <number>802017-3251</number>
       </organization>
       <categories>
@@ -595,6 +680,18 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>http://www.cancerrehabfonden.se/</web>
+    </entry>
+    
+
+    <entry number="1239002155">
+      <organization>
+        <name>Insamlingsstiftelsen School by School</name>
+        <number>802426-3280</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.schoolbyschool.org/</web>
     </entry>
     
 
@@ -679,6 +776,18 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://involvaid.com/</web>
+    </entry>
+    
+
+    <entry number="1239002361">
+      <organization>
+        <name>Lions Forskningsfond mot Folksjukdomar</name>
+        <number>822002-5780</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.lionsforskningsfond.se/</web>
     </entry>
     
 
@@ -826,6 +935,18 @@
     </entry>
     
 
+    <entry number="1239002973">
+      <organization>
+        <name>Insamlingsstiftelsen Rotary Hjälper</name>
+        <number>802425-6086</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.rotaryhjalper.se/</web>
+    </entry>
+    
+
     <entry number="1239003286">
       <organization>
         <name>Equmeniakyrkan</name>
@@ -900,6 +1021,18 @@
     </entry>
     
 
+    <entry number="1239003526">
+      <organization>
+        <name>Insamlingsstiftelsen Stödfonden för hemlösa i Helsingborg</name>
+        <number>843003-3160</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.stodfondenhemlosa.se/</web>
+    </entry>
+    
+
     <entry number="1239003609">
       <organization>
         <name>Insamlingsstiftelsen Cancer- och Allergifonden</name>
@@ -909,6 +1042,30 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.cancerochallergifonden.se/</web>
+    </entry>
+    
+
+    <entry number="1239003625">
+      <organization>
+        <name>Ljus i Öster</name>
+        <number>802003-0972</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.ljusioster.se/</web>
+    </entry>
+    
+
+    <entry number="1239003633">
+      <organization>
+        <name>Insamlingsstiftelsen Sightsavers International, Sverige</name>
+        <number>802477-8188</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.sightsavers.se/</web>
     </entry>
     
 
@@ -996,6 +1153,18 @@
     </entry>
     
 
+    <entry number="1239003930">
+      <organization>
+        <name>Lepramissionen Sverige</name>
+        <number>875001-4063</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.lepramissionen.se/</web>
+    </entry>
+    
+
     <entry number="1239003971">
       <organization>
         <name>Emmaus Stockholm</name>
@@ -1056,6 +1225,18 @@
     </entry>
     
 
+    <entry number="1239004086">
+      <organization>
+        <name>Insamlingsstiftelsen RFSL</name>
+        <number>802477-8196</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.insamlingsstiftelsen.se/</web>
+    </entry>
+    
+
     <entry number="1239004102">
       <organization>
         <name>Insamlingsstiftelsen JLOF (Jeremiah Lucas Opira Foundation) Sweden</name>
@@ -1101,6 +1282,18 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>http://www.humanbridge.se/</web>
+    </entry>
+    
+
+    <entry number="1239004243">
+      <organization>
+        <name>Kostfonden</name>
+        <number>802489-3532</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.kostfonden.se/</web>
     </entry>
     
 
@@ -1260,15 +1453,75 @@
     </entry>
     
 
+    <entry number="1239004813">
+      <organization>
+        <name>Insamlingsstiftelsen Våra Barn</name>
+        <number>802477-3650</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.varabarn.nu/</web>
+    </entry>
+    
+
+    <entry number="1239004821">
+      <organization>
+        <name>Insamlingsstiftelsen WONSA</name>
+        <number>802478-2727</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.wonsa.se/</web>
+    </entry>
+    
+
+    <entry number="1239004839">
+      <organization>
+        <name>Insamlingsstiftelsen Teach for Sweden</name>
+        <number>802477-9103</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.teachforsweden.se/</web>
+    </entry>
+    
+
     <entry number="1239004870">
       <organization>
-        <name>Jontefonden</name>
+        <name>Jontefondens Insamlingsstiftelse</name>
         <number>802478-1950</number>
       </organization>
       <categories>
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.jontefonden.se/</web>
+    </entry>
+    
+
+    <entry number="1239004896">
+      <organization>
+        <name>LP-Verksamhetens Ideella Riksförening</name>
+        <number>802404-3716</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.lp-verksamheten.se/</web>
+    </entry>
+    
+
+    <entry number="1239004946">
+      <organization>
+        <name>IT for Children</name>
+        <number>802493-7735</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.itforchildren.org/</web>
     </entry>
     
 
@@ -1281,6 +1534,18 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.sjoraddning.se/</web>
+    </entry>
+    
+
+    <entry number="1239005067">
+      <organization>
+        <name>Love and Hope</name>
+        <number>802420-5968</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.loveandhope.org/</web>
     </entry>
     
 
@@ -1298,7 +1563,7 @@
 
     <entry number="1239005083">
       <organization>
-        <name>Vi-skogen</name>
+        <name>Insamlingsstiftelsen Vi planterar träd – Vi-Skogen</name>
         <number>802012-8081</number>
       </organization>
       <categories>
@@ -1344,6 +1609,18 @@
     </entry>
     
 
+    <entry number="1239005190">
+      <organization>
+        <name>IOGT-NTO-rörelsen Ideell förening</name>
+        <number>802497-7434</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.iogtntororelsen.se/</web>
+    </entry>
+    
+
     <entry number="1239005331">
       <organization>
         <name>Föreningen Ny Gemenskap</name>
@@ -1380,6 +1657,18 @@
     </entry>
     
 
+    <entry number="1239005448">
+      <organization>
+        <name>Insamlingsstiftelsen Willefonden</name>
+        <number>802409-3737</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.willefonden.se/</web>
+    </entry>
+    
+
     <entry number="1239005521">
       <organization>
         <name>Insamlingsstiftelsen Regnbågsfonden</name>
@@ -1392,7 +1681,7 @@
 
     <entry number="1239005547">
       <organization>
-        <name>War Child</name>
+        <name>Insamlingsstiftelsen War Child</name>
         <number>802479-5828</number>
       </organization>
       <categories>
@@ -1644,6 +1933,18 @@
     </entry>
     
 
+    <entry number="1239006248">
+      <organization>
+        <name>Loza Foundation Insamlingsstiftelse</name>
+        <number>802480-2558</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.lozafoundation.org/</web>
+    </entry>
+    
+
     <entry number="1239006321">
       <organization>
         <name>Insamlingsstiftelsen Desert Flower Foundation Scandinavia</name>
@@ -1812,6 +2113,18 @@
     </entry>
     
 
+    <entry number="1239006883">
+      <organization>
+        <name>Insamlingsstiftelsen Zelmerlöw &amp; Björkman Foundation</name>
+        <number>802477-8832</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.zbfoundation.se/</web>
+    </entry>
+    
+
     <entry number="1239006891">
       <organization>
         <name>Föreningen Medveten Konsumtion Sverige</name>
@@ -1896,6 +2209,18 @@
     </entry>
     
 
+    <entry number="1239007113">
+      <organization>
+        <name>Kompis Sverige</name>
+        <number>802473-9701</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.kompissverige.se/</web>
+    </entry>
+    
+
     <entry number="1239007121">
       <organization>
         <name>Freezonen, Kvinno-,Tjej- och Brottsofferjour</name>
@@ -1941,6 +2266,30 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://plansverige.org/</web>
+    </entry>
+    
+
+    <entry number="1239007345">
+      <organization>
+        <name>Insamlingsstiftelsen Svenska Musikfonden</name>
+        <number>802481-6509</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.svenskamusikfonden.org/</web>
+    </entry>
+    
+
+    <entry number="1239007352">
+      <organization>
+        <name>Kväkarhjälpen</name>
+        <number>802527-2041</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.kvakare.se/kvakarhjalpen</web>
     </entry>
     
 
@@ -2097,6 +2446,30 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>http://www.muskelfonden.com/</web>
+    </entry>
+    
+
+    <entry number="1239008459">
+      <organization>
+        <name>Insamlingsstiftelsen Svenska Barnhjälpen</name>
+        <number>826500-5010</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.svenskabarnhjalpen.se/</web>
+    </entry>
+    
+
+    <entry number="1239008780">
+      <organization>
+        <name>Linköpings Stadsmission</name>
+        <number>822001-0022</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.linkopingsstadsmission.se/</web>
     </entry>
     
 
@@ -2376,6 +2749,18 @@
     </entry>
     
 
+    <entry number="1239011388">
+      <organization>
+        <name>Kalmar Stadsmission</name>
+        <number>832401-8376</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.kalmarstadsmission.se/</web>
+    </entry>
+    
+
     <entry number="1239011545">
       <organization>
         <name>Mission Possible Sweden</name>
@@ -2532,9 +2917,21 @@
     </entry>
     
 
+    <entry number="1239018474">
+      <organization>
+        <name>Liberia Dujar Association – Sweden</name>
+        <number>802400-9709</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.liberiadujar.org/</web>
+    </entry>
+    
+
     <entry number="1239018557">
       <organization>
-        <name>KFUM-KFUK</name>
+        <name>KFUK – KFUM Sverige</name>
         <number>802004-2290</number>
       </organization>
       <categories>
@@ -2565,6 +2962,18 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.naturskyddsforeningen.se/</web>
+    </entry>
+    
+
+    <entry number="1239019480">
+      <organization>
+        <name>Insamlingsstiftelsen Sveriges Lions Hjälpfond</name>
+        <number>802405-0406</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.hjalpfonden.lions.se/</web>
     </entry>
     
 
@@ -2625,6 +3034,18 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://thehungerproject.se/</web>
+    </entry>
+    
+
+    <entry number="1239020009">
+      <organization>
+        <name>Insamlingsstiftelsen Vaggan</name>
+        <number>802412-5638</number>
+      </organization>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>http://www.vaggan.se/</web>
     </entry>
     
 
@@ -2754,8 +3175,6 @@
         <number>855100-5161</number>
       </organization>
       <categories>
-        <category type="insamling"/>
-        <category type="välgörenhet"/>
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.abrigo.se/</web>
