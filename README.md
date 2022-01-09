@@ -2,7 +2,9 @@
 
 *(This concerns Swedes and people living in Sweden, hence written in Swedish)*
 
-Detta är ett försök att skapa en datakälla med alla kända och okända Swish 123-nummer, för att kunna bygga API eller bara kunna kolla vem/vilka som har ett Swish 123-nummer. Detta drivs på fritiden av en privatperson och på hobby-basis.
+Detta är ett försök att skapa en datakälla med alla kända och okända Swish 123-nummer, enligt Swish använder [306 234](https://www.swish.nu/about-swish#Swish_in_numbers) företag/organisationer Swish-platformen för betalningar. Det vore därför trevligt att kunna bygga API eller bara kunna kolla vem/vilka som har ett Swish 123-nummer.
+
+Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 Önskar du tillägg eller förändringar, skapa en PR så infogas detta "ASAP" (när jag har tid) - var vänlig gör endast en förändring per PR för att göra det överskådligt och enkelt för mig att verifiera förändringar.
 
