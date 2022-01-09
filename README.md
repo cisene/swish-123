@@ -10,6 +10,10 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 
 
+[Aktuell lista med Swish 123-nummer](https://github.com/cisene/swish-123/blob/master/swish-123.md) (Eye-candy)
+
+[Aktuell XML med Swish 123-nummer](https://github.com/cisene/swish-123/blob/master/xml-data/swish-123-datasource.xml) (Rådata)
+
 
 
 ## Vad är ett Swish 123-nummer?
@@ -20,13 +24,13 @@ Listan innehåller Swish 123-nummer som samlats och kunnat knytas till en organi
 
 ## Swish 1239XX
 
-Speciella serier av 1239XX (900-999) är allokerade till organisationer med så kallade 90-konton genom Insammlingskontroll.
+Speciella serier av 1239XX (900-999) är allokerade till organisationer med så kallade 90-konton genom [Insammlingskontroll](https://www.insamlingskontroll.se/90-konto-organisationer/).
 
 Några populära exempel:
 
-* Radio Hjälpen, Plusgiro 90 1950-6, med Swish nummer 1239019506 ibland uttryckt som 901 95 06
-* Läkare Utan Gränser, Plusgiro 90 0603-2, med Swish nummer 1239006032 ibland uttryckt som 900 60 32
-* Human Rights Watch Scandinavia, Plusgiro 90 0454-0, med Swish nummer 1239004540 ibland uttryckt som 900 45 40
+* Radio Hjälpen, Plusgiro 90 1950-6, med Swish nummer **1239019506** ibland uttryckt som 901 95 06
+* Läkare Utan Gränser, Plusgiro 90 0603-2, med Swish nummer **1239006032** ibland uttryckt som 900 60 32
+* Human Rights Watch Scandinavia, Plusgiro 90 0454-0, med Swish nummer **1239004540** ibland uttryckt som 900 45 40
 
 
 
