@@ -31,6 +31,36 @@
     </entry>
     
 
+    <entry number="1231493980">
+      <organization>
+        <name>Gula Änglarna</name>
+        <number>802412-9630</number>
+      </organization>
+      <categories/>
+      <web>https://gulaanglarna.se/</web>
+    </entry>
+    
+
+    <entry number="1231745918">
+      <organization>
+        <name>Göteborgs Stigcyklister</name>
+        <number>802476-0509</number>
+      </organization>
+      <categories/>
+      <web>https://www.goteborgsstigcyklister.com/</web>
+    </entry>
+    
+
+    <entry number="1231769546">
+      <organization>
+        <name>Sofialäktaren TIFO</name>
+        <number>802529-7923</number>
+      </organization>
+      <categories/>
+      <web>https://www.jarnkaminerna.se/sofialaktaren-tifo/</web>
+    </entry>
+    
+
     <entry number="1231961531">
       <organization>
         <name>Avesta OK - Orientering</name>
@@ -160,6 +190,16 @@
       </organization>
       <categories/>
       <web>https://www.laget.se/YIFFF/</web>
+    </entry>
+    
+
+    <entry number="1233443496">
+      <organization>
+        <name>AIK-Tifo</name>
+        <number>802410-3072</number>
+      </organization>
+      <categories/>
+      <web>http://aiktifo.se/</web>
     </entry>
     
 
@@ -1898,7 +1938,9 @@
         <name>-</name>
         <number>-</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="terminated"/>
+      </categories>
       <web>-</web>
     </entry>
     
@@ -2590,7 +2632,9 @@
         <name>-</name>
         <number>-</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="terminated"/>
+      </categories>
       <web>-</web>
     </entry>
     
@@ -3556,7 +3600,9 @@
         <name>-</name>
         <number>-</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="terminated"/>
+      </categories>
       <web>-</web>
     </entry>
     
@@ -3764,7 +3810,9 @@
         <name>-</name>
         <number>-</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="terminated"/>
+      </categories>
       <web>-</web>
     </entry>
     
@@ -6918,7 +6966,9 @@
         <name>-</name>
         <number>-</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="terminated"/>
+      </categories>
       <web>-</web>
     </entry>
     
@@ -7580,7 +7630,9 @@
         <name>-</name>
         <number>-</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="terminated"/>
+      </categories>
       <web>-</web>
     </entry>
     
@@ -16312,7 +16364,9 @@
         <name>-</name>
         <number>-</number>
       </organization>
-      <categories/>
+      <categories>
+        <category type="terminated"/>
+      </categories>
       <web>-</web>
     </entry>
     
@@ -21403,7 +21457,6 @@
       </categories>
       <web>https://www.hjart-lungfonden.se/</web>
     </entry>
-    
 
   </entries>
 </root>

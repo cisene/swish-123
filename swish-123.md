@@ -6,6 +6,9 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230411132 | 0411132 | 817000-8893 | Hela Människan RIA Enköping | - |
 | 1230835884 | 0835884 | 802013-9286 | Al-Anon Familjegrupper i Sverige | [Link](https://www.al-anon.se/) |
 | 1231290410 | 1290410 | 844001-0422 | Bosnisk Islamiska Kultur Föreningen-Landskrona | [Link](https://www.izblandskrona.se/) |
+| 1231493980 | 1493980 | 802412-9630 | Gula Änglarna | [Link](https://gulaanglarna.se/) |
+| 1231745918 | 1745918 | 802476-0509 | Göteborgs Stigcyklister | [Link](https://www.goteborgsstigcyklister.com/) |
+| 1231769546 | 1769546 | 802529-7923 | Sofialäktaren TIFO | [Link](https://www.jarnkaminerna.se/sofialaktaren-tifo/) |
 | 1231961531 | 1961531 | 882000-5075 | Avesta OK - Orientering | - |
 | 1232031755 | 2031755 | 802003-1178 | Sociala Missionen | [Link](http://www.socialamissionen.se/) |
 | 1232169449 | 2169449 | 802480-0164 | Insamlingsstiftelsen Rättvis Skatteprocess | [Link](http://www.rattvisskatteprocess.se/) |
@@ -18,6 +21,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232918522 | 2918522 | 802505-9208 | Nema Problema | [Link](http://www.nemaproblema.se/) |
 | 1233260858 | 3260858 | 878001-2996 | Västerås Skidklubb | [Link](https://www.svenskalag.se/vasterasskidklubb) |
 | 1233352309 | 3352309 | 848001-0407 | Ystads IF FF | [Link](https://www.laget.se/YIFFF/) |
+| 1233443496 | 3443496 | 802410-3072 | AIK-Tifo | [Link](http://aiktifo.se/) |
 | 1233444957 | 3444957 | 846001-3942 | Föreningen - Neuro Malmö | [Link](https://neuro.se/) |
 | 1233511409 | 3511409 | 819500-5239 | Åkers Hembygdsförening | [Link](https://www.akershembygd.se/) |
 | 1233513132 | 3513132 | 817600-9473 | Riksförbundet Cystisk Fibros | [Link](http://www.rfcf.se/) |

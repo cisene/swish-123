@@ -24,7 +24,7 @@ Listan innehåller Swish 123-nummer som samlats och kunnat knytas till en organi
 
 ## Swish 1239XX
 
-Speciella serier av 1239XX (900-999) är allokerade till organisationer med så kallade 90-konton genom [Insammlingskontroll](https://www.insamlingskontroll.se/90-konto-organisationer/).
+Speciella serier av 1239XX (900-999) är allokerade till organisationer med så kallade 90-konton genom [Insammlingskontroll](https://www.insamlingskontroll.se/90-konto-organisationer/). För tillfället är 445 organisationer under kontroll.
 
 Några populära exempel:
 
