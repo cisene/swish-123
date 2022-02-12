@@ -3028,7 +3028,7 @@ entries:
   web: https://www.rbu.se/
 
 - entry: 1239000720
-  orgName: Amnesty International, svenska sektionen
+  orgName: Amnesty International, Svenska sektionen
   orgNumber: 802004-0401
   comment: null
   categories:
@@ -3389,7 +3389,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  web: https://www.wateraid.org/se/
+  web: https://www.wateraid.se/
 
 - entry: 1239001645
   orgName: Sverige för UNHCR Insamlingsstiftelse
@@ -3948,13 +3948,13 @@ entries:
   web: https://www.lffs.se/
 
 - entry: 1239002882
-  orgName: INDIVIDUELL MÄNNISKOHJÄLP BOX 45 22100, LUND
-  orgNumber: null
-  comment: 1239002882 - pg 900288-2
+  orgName: IM Individuell Människohjälp/Swedish Development Partner
+  orgNumber: 845000-0768
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.imsweden.org/
 
 - entry: 1239002908
   orgName: Barncancerfonden Stockholm Gotland
@@ -3966,13 +3966,13 @@ entries:
   web: https://www.barncancerfonden.se/lokala-foreningar/stockholm-gotland
 
 - entry: 1239002924
-  orgName: STIFTELSEN AKADEMISKA BOX 45 75103, UPPSALA
-  orgNumber: null
-  comment: 1239002924 - pg 900292-4
+  orgName: Stiftelsen Akademiska Sjukhusets utvecklingsfond
+  orgNumber: 817603-9256
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.akademiska.se/om-oss/om-akademiska-sjukhuset/fonder-och-stiftelser/
 
 - entry: 1239002932
   orgName: UN Women Sverige
@@ -3984,13 +3984,13 @@ entries:
   web: https://www.unwomen.se/
 
 - entry: 1239002940
-  orgName: ALLM SJUKH I MALMÖ STIFT JAN WALDENSTRÖMSG 59 20502, MALMÖ
-  orgNumber: null
-  comment: 1239002940 - pg 900294-0
+  orgName: Allmänna Sjukhusets i Malmö stiftelse för bekämpande av cancer
+  orgNumber: 846001-3488
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.mascancerstiftelse.se/
 
 - entry: 1239002965
   orgName: Stiftelsen Fistulasjukhuset
@@ -4035,13 +4035,13 @@ entries:
   web: https://www.open-doors.se/
 
 - entry: 1239003070
-  orgName: MEDIEMISSION INTERNATIONA BOX 50 68360, EKSHÄRAD
-  orgNumber: null
-  comment: 1239003070 - pg 900307-0
+  orgName: MedieMission International
+  orgNumber: 802423-0248
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.mediemission.se/
 
 - entry: 1239003104
   orgName: Stiftelsen World's Children's Prize Foundation
@@ -4053,22 +4053,22 @@ entries:
   web: https://www.worldschildrensprize.org/
 
 - entry: 1239003146
-  orgName: HÖRSELSKADADES RIKSFÖRBUN BOX 1068 16425, KISTA
-  orgNumber: null
-  comment: 1239003146 - pg 900314-6
+  orgName: Hörselskadades Riksförbund
+  orgNumber: 802004-4510
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.hrf.se/
 
 - entry: 1239003161
-  orgName: SCOUTERNA BOX 420 34 ATT KATARINA HEDBERG 12612, STOCKHOLM
-  orgNumber: null
-  comment: 1239003161 - pg 900316-1
+  orgName: Scouterna
+  orgNumber: 802006-2942
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.scouterna.se/
 
 - entry: 1239003179
   orgName: Stiftelsen Radiohjälpen
@@ -4104,13 +4104,13 @@ entries:
   web: https://www.nordiskhjalp.com/
 
 - entry: 1239003245
-  orgName: STIFTELSEN SKÅNE STADSMIS KORSGATAN 14 21132, MALMÖ
-  orgNumber: null
-  comment: 1239003245 - pg 900324-5
+  orgName: Stiftelsen Skåne Stadsmission
+  orgNumber: 846004-8716
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.skanestadsmission.se/
 
 - entry: 1239003252
   orgName: Stiftelsen Skåne Stadsmission
@@ -4145,31 +4145,31 @@ entries:
   web: https://www.barncancerfonden.se/sodra
 
 - entry: 1239003336
-  orgName: DJURSKYDDET SVERIGE VIRKESVÄGEN 10 12030, STOCKHOLM
-  orgNumber: null
-  comment: 1239003336 - pg 900333-6
+  orgName: Djurskyddet Sverige
+  orgNumber: 802000-6832
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.djurskyddet.se/
 
 - entry: 1239003344
-  orgName: INSAMLINGSSTIFTELSEN ALZH VEGAGATAN 9 11329, STOCKHOLM
-  orgNumber: null
-  comment: 1239003344 - pg 900334-4
+  orgName: Insamlingsstiftelsen Alzheimerfonden
+  orgNumber: 845001-8844
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.alzheimerfonden.se/
 
 - entry: 1239003369
-  orgName: FÖR BARNENS BÄSTA SOLDAT SKALKS GATA 10 22651, LUND
-  orgNumber: null
-  comment: 1239003369 - pg 900336-9
+  orgName: Föreningen För Barnens Bästa
+  orgNumber: 838201-5777
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.ffbb.se/
 
 - entry: 1239003377
   orgName: Afrikagrupperna
@@ -4190,13 +4190,13 @@ entries:
   web: https://www.savasbarnfond.com/
 
 - entry: 1239003401
-  orgName: STIFTELSEN FORSKA UTAN DJ VIRKESVÄGEN 10 12030, STOCKHOLM
-  orgNumber: null
-  comment: 1239003401 - pg 900340-1
+  orgName: Stiftelsen Forska utan djurförsök
+  orgNumber: 802004-1441
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.forskautandjurforsok.se/
 
 - entry: 1239003419
   orgName: Sam-Hjälp
@@ -4240,13 +4240,13 @@ entries:
   web: https://www.stodfondenhemlosa.se/
 
 - entry: 1239003583
-  orgName: FÖRENINGEN EMMAUS ÅKVARN ASK 1790 26890, SVALÖV
-  orgNumber: null
-  comment: 1239003583 - pg 900358-3
+  orgName: Föreningen Emmaus Åkvarn
+  orgNumber: 802436-7248
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.emmausakvarn.se/
 
 - entry: 1239003609
   orgName: Insamlingsstiftelsen Cancer- och Allergifonden
@@ -4330,13 +4330,13 @@ entries:
   web: https://www.astamaoallergiforbundet.se/forskning
 
 - entry: 1239003757
-  orgName: HUNDSTALLET ÅKESHOVS GÅRDSVÄG 10 16838, BROMMA
-  orgNumber: null
-  comment: 1239003757 - pg 900375-7
+  orgName: Svenska Hundskyddsföreningen
+  orgNumber: 802001-4968
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.hundstallet.se/
 
 - entry: 1239003799
   orgName: Dreamcenter Ideell Förening
@@ -4347,13 +4347,13 @@ entries:
   web: https://www.dreamcenter.se/
 
 - entry: 1239003815
-  orgName: INSAMLINGSSTIFTELSEN HANNEBERGSGATAN33, 2TR 17168, SOLNA
-  orgNumber: null
-  comment: 1239003815 - pg 900381-5
+  orgName: Insamlingsstiftelsen WaterAid Sverige
+  orgNumber: 802426-1268
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.wateraid.se/
 
 - entry: 1239003831
   orgName: Insamlingsstiftelsen Skiers Left - Mikaelas minne
@@ -4364,13 +4364,13 @@ entries:
   web: https://www.skiersleft.com/
 
 - entry: 1239003849
-  orgName: LINKÖPINGS STADSMISSION ÅGATAN 3 58222, LINKÖPING
-  orgNumber: null
-  comment: 1239003849 - pg 900384-9
+  orgName: Linköpings Stadsmission
+  orgNumber: 822001-0022
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.linkopingsstadsmission.se/
 
 - entry: 1239003880
   orgName: The Perfect World Foundation
@@ -4430,13 +4430,13 @@ entries:
   web: https://www.fibromyalgi.se/
 
 - entry: 1239004003
-  orgName: AMNESTY INTERNATIONAL SV BOX 4719 11692, STOCKHOLM
-  orgNumber: null
-  comment: 1239004003 - pg 900400-3
+  orgName: Amnesty International, Svenska sektionen
+  orgNumber: 802004-0401
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.amnesty.se/
 
 - entry: 1239004011
   orgName: Insamlingsstiftelsen Gatubarn
@@ -4480,13 +4480,13 @@ entries:
   web: https://www.jlof.net/
 
 - entry: 1239004128
-  orgName: INSAMLINGSSTIFTELSEN GATU STIGBERGSLIDEN 5 41463, GÖTEBORG
-  orgNumber: null
-  comment: 1239004128 - pg 900412-8
+  orgName: Insamlingsstiftelsen Gatubarn
+  orgNumber: 855100-2002
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.stiftelsengatubarn.se/
 
 - entry: 1239004136
   orgName: FVBU, Föreningen för Värdefulla Barn och Ungdomar
@@ -4505,13 +4505,13 @@ entries:
   web: https://www.bissenbrainwalk.se/
 
 - entry: 1239004177
-  orgName: SVERIGES DÖVAS RIKSFÖRBUN RISSNELEDEN 138 17457, SUNDBYBERG
-  orgNumber: null
-  comment: 1239004177 - pg 900417-7
+  orgName: Sveriges Dövas Riksförbund
+  orgNumber: 882600-2282
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.sdr.org/
 
 - entry: 1239004185
   orgName: Human Bridge Stiftelse
@@ -4522,13 +4522,13 @@ entries:
   web: https://www.humanbridge.se/
 
 - entry: 1239004193
-  orgName: SVENSKA FREDS OCH POLHEMSGATAN 4 BV 11236, STOCKHOLM
-  orgNumber: null
-  comment: 1239004193 - pg 900419-3
+  orgName: Svenska Freds- och Skiljedomsföreningen
+  orgNumber: 802001-0602
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.svenskafreds.se/
 
 - entry: 1239004201
   orgName: Stiftelsen Brödet
@@ -4571,13 +4571,13 @@ entries:
   web: https://www.bllf.se/
 
 - entry: 1239004292
-  orgName: INSAMLINGSSTIFTELSEN SÄVARE JUTAGÅRDEN 53191, VINNINGA
-  orgNumber: null
-  comment: 1239004292 - pg 900429-2
+  orgName: Insamlingsstiftelsen Hope For Children Tanzania
+  orgNumber: 802425-5757
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.hopeforchildren.se/
 
 - entry: 1239004300
   orgName: EFI Fadder Insamlingsstiftelse
@@ -4588,13 +4588,13 @@ entries:
   web: https://www.efifadder.se/
 
 - entry: 1239004342
-  orgName: SYNSKADADES RIKSFÖRBUND SANDSBORGSVÄGEN 52 12288, ENSKEDE
-  orgNumber: null
-  comment: 1239004342 - pg 900434-2
+  orgName: Synskadades Riksförbund
+  orgNumber: 802007-3436
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.srf.nu/
 
 - entry: 1239004367
   orgName: Insamlingsstiftelsen Good Foundation
@@ -4613,13 +4613,13 @@ entries:
   web: https://www.cancerhjalpen.se/
 
 - entry: 1239004391
-  orgName: OPERATION SMILE UPPLANDSGATAN 3 11123, STOCKHOLM
-  orgNumber: null
-  comment: 1239004391 - pg 900439-1
+  orgName: Insamlingsstiftelsen Operation Smile Sverige
+  orgNumber: 802426-4734
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.operationsmile.se/
 
 - entry: 1239004409
   orgName: Stödföreningen för Martaskolan i Uganda
@@ -4654,31 +4654,31 @@ entries:
   web: https://raddningsmissionen.se/
 
 - entry: 1239004490
-  orgName: REPORTRAR UTAN GRÄNSER SV TEGELVIKSGATAN 40 11641, STOCKHOLM
-  orgNumber: null
-  comment: 1239004490 - pg 900449-0
+  orgName: Reportrar utan Gränser
+  orgNumber: 802400-5418
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.reportrarutangranser.se/
 
 - entry: 1239004516
-  orgName: REPORTRAR UTAN GRÄNSER SV TEGELVIKSGATAN 40 11641, STOCKHOLM
-  orgNumber: null
-  comment: 1239004516 - pg 900451-6
+  orgName: Reportrar utan Gränser
+  orgNumber: 802400-5418
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.reportrarutangranser.se/
 
 - entry: 1239004524
-  orgName: EFI FADDER INSAMLINGSSTIF SLOTTSVÄGEN 2 33151, VÄRNAMO
-  orgNumber: null
-  comment: 1239004524 - pg 900452-4
+  orgName: EFI Fadder Insamlingsstiftelse
+  orgNumber: 802478-1281
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.efifadder.se/
 
 - entry: 1239004540
   orgName: Human Rights Watch Scandinavia Insamlingsstiftelsen
@@ -4714,22 +4714,22 @@ entries:
   web: https://wwww.nordensark.se/
 
 - entry: 1239004615
-  orgName: FÖRENINGEN FÖR DEN RIDDARGATAN 13 11451, STOCKHOLM
-  orgNumber: null
-  comment: 1239004615 - pg 900461-5
+  orgName: Föreningen för den Beridna Högvakten
+  orgNumber: 802013-1671
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.beridnahogvakten.se/
 
 - entry: 1239004623
-  orgName: INSAMLINGSSTIFTELSEN NJUR DRAKENBERGSGATAN 6 BV 11741, STOCKHOLM
-  orgNumber: null
-  comment: 1239004623 - pg 900462-3
+  orgName: Njurfonden
+  orgNumber: 802477-9202
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.njurfonden.se/
 
 - entry: 1239004656
   orgName: Help Kurdistan insamlingsstiftelse
@@ -4813,13 +4813,13 @@ entries:
   web: https://www.katolskakyrkan.se/
 
 - entry: 1239004797
-  orgName: JORDENS VÄNNER BOX 7048 40231, GÖTEBORG
-  orgNumber: null
-  comment: 1239004797 - pg 900479-7
+  orgName: Riksföreningen Jordens Vänner
+  orgNumber: 855100-9882
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.jordensvanner.se/
 
 - entry: 1239004805
   orgName: Frälsningsarmén
@@ -5028,13 +5028,13 @@ entries:
   web: https://www.bufff.se/
 
 - entry: 1239005158
-  orgName: SJÖRÄDDNINGSSÄLLSKAPET BOX 5025 42605, VÄSTRA FRÖLUNDA
-  orgNumber: null
-  comment: 1239005158 - pg 900515-8
+  orgName: Svenska Sjöräddningssällskapet SSRS
+  orgNumber: 857201-7179
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.sjoraddning.se/
 
 - entry: 1239005190
   orgName: IOGT-NTO-rörelsen Ideell förening
@@ -5053,13 +5053,13 @@ entries:
   web: https://www.scouterna.se/
 
 - entry: 1239005232
-  orgName: LOVE AND HOPE BOX 163 57624, SÄVSJÖ
-  orgNumber: null
-  comment: 1239005232 - pg 900523-2
+  orgName: Love and Hope
+  orgNumber: 802420-5968
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.loveandhope.org/
 
 - entry: 1239005265
   orgName: Sepsisfonden Insamlingsstiftelse
@@ -5110,13 +5110,13 @@ entries:
   web: https://www.nygemenskap.org/
 
 - entry: 1239005349
-  orgName: SVENSKA HUNDSKYDDSFÖRENIN ÅKESHOVS GÅRDSVÄG 10 16838, BROMMA
-  orgNumber: null
-  comment: 1239005349 - pg 900534-9
+  orgName: Svenska Hundskyddsföreningen
+  orgNumber: 802001-4968
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.hundstallet.se/
 
 - entry: 1239005406
   orgName: Insamlingsstiftelsen Help to Help
@@ -5151,13 +5151,13 @@ entries:
   web: https://www.willefonden.se/
 
 - entry: 1239005455
-  orgName: EVANGELISKA FRIKYRKAN BOX 1624 70116, ÖREBRO
-  orgNumber: null
-  comment: 1239005455 - pg 900545-5
+  orgName: Evangeliska Frikyrkan
+  orgNumber: 875002-7271
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.efk.se/
 
 - entry: 1239005471
   orgName: Sigvard och Marianne Bernadottes Forskningsstiftelse för Barnögonvård
@@ -5208,7 +5208,7 @@ entries:
   web: https://www.convictus.org/
 
 - entry: 1239005570
-  orgName: Hundstallet - Svenska Hundskyddsföreningen
+  orgName: Svenska Hundskyddsföreningen
   orgNumber: 802001-4968
   comment: null
   categories:
@@ -5234,13 +5234,13 @@ entries:
   web: https://www.agrenska.se/sallsyntafonden/
 
 - entry: 1239005612
-  orgName: STIFTELSEN NEW LIFE HESTRAVÄGEN 10 57395, YDRE
-  orgNumber: null
-  comment: 1239005612 - pg 900561-2
+  orgName: Stiftelsen New Life Mission
+  orgNumber: 802478-3410
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.newlifemission.se/
 
 - entry: 1239005620
   orgName: Missing People Sweden

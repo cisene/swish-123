@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-02-12-rev-180926
+Date:     2022-02-12-rev-192047
 ...
 
 # Swish 123 Nummer
@@ -389,7 +389,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239000662 | 802002-7283 | Psoriasisförbundet                                                                                   | [Link](https://www.psoriasisforbundet.se/) |
 | 1239000670 | 802424-9289 | Insamlingsstiftelsen Akademiska sjukhusets barnfond                                                  | [Link](https://akademiskasbarnfond.se/) |
 | 1239000712 | 802002-8125 | Riksförbundet för Rörelsehindrade Barn och Ungdomar, RBU                                             | [Link](https://www.rbu.se/) |
-| 1239000720 | 802004-0401 | Amnesty International, svenska sektionen                                                             | [Link](https://www.amnesty.se/) |
+| 1239000720 | 802004-0401 | Amnesty International, Svenska sektionen                                                             | [Link](https://www.amnesty.se/) |
 | 1239000738 | 802004-4510 | Hörselskadades Riksförbund                                                                           | [Link](https://www.hrf.se/) |
 | 1239000761 | 802006-7131 | IBRA Radio Federation                                                                                | [Link](https://www.ibra.se/) |
 | 1239000779 | 857202-7483 | Stiftelsen Svenskt Internationellt Hjälparbete - Våra Bröder, SIRA                                   | [Link](https://www.sira.se/) |
@@ -423,7 +423,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239001587 | 802445-2248 | Peace Parks Foundation - Sweden                                                                      | [Link](https://www.peaceparks.se/) |
 | 1239001603 | 802444-3866 | Västerås stadsmission                                                                                | [Link](https://vasterasstadsmission.se/) |
 | 1239001611 | 802425-7134 | Star for Life Insamlingsstiftelse                                                                    | [Link](https://www.starforlife.org/) |
-| 1239001629 | 802426-1268 | Insamlingsstiftelsen WaterAid Sverige                                                                | [Link](https://www.wateraid.org/se/) |
+| 1239001629 | 802426-1268 | Insamlingsstiftelsen WaterAid Sverige                                                                | [Link](https://www.wateraid.se/) |
 | 1239001645 | 802426-1250 | Sverige för UNHCR Insamlingsstiftelse                                                                | [Link](https://www.sverigeforunhcr.se/) |
 | 1239001660 | 817602-1106 | Stiftelsen Livets Ord                                                                                | [Link](https://www.livetsord.se/) |
 | 1239001702 | 802426-0195 | Stiftelsen Göteborgs Kyrkliga Stadsmission                                                           | [Link](https://www.stadsmissionen.org/) |
@@ -579,7 +579,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239005547 | 802479-5828 | Insamlingsstiftelsen War Child                                                                       | [Link](https://www.warchild.se/) |
 | 1239005554 | 802425-9999 | Insamlingsstiftelsen Läxhjälpen                                                                      | [Link](https://www.laxhjalpen.se/) |
 | 1239005562 | 802012-1581 | Convictus                                                                                            | [Link](https://www.convictus.org/) |
-| 1239005570 | 802001-4968 | Hundstallet - Svenska Hundskyddsföreningen                                                           | [Link](https://www.hundstallet.se/) |
+| 1239005570 | 802001-4968 | Svenska Hundskyddsföreningen                                                                         | [Link](https://www.hundstallet.se/) |
 | 1239005588 | 875002-7271 | Evangeliska Frikyrkan                                                                                | [Link](https://www.efk.se/) |
 | 1239005604 | 802479-8202 | Stiftelsen Sällsyntafonden                                                                           | [Link](https://www.agrenska.se/sallsyntafonden/) |
 | 1239005620 | 802463-5867 | Missing People Sweden                                                                                | [Link](https://www.missingpeople.se/) |
