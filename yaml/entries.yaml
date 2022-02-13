@@ -42,6 +42,14 @@ entries:
   - apotek
   web: https://www.husapoteket.eu/
 
+- entry: 1230134486
+  orgName: Donnez
+  orgNumber: null
+  comment: null
+  categories:
+  - dansband
+  web: https://www.donnez.se/
+
 - entry: 1230157024
   orgName: Diabetesorganisationen i Sverige, DIOS
   orgNumber: 802451-0391
@@ -57,6 +65,16 @@ entries:
   comment: Medlems & Deltagaravgifter
   categories: null
   web: http://www.sandviksik.se/
+
+- entry: 1230186734
+  orgName: GAIS, Göteborgs Atlet- & Idrottssällskap
+  orgNumber: 857200-0860
+  comment: null
+  categories:
+  - sport
+  - fotboll
+  - idrottsförening
+  web: https://www.gais.se/
 
 - entry: 1230190694
   orgName: Josefssons Trafikskola
@@ -204,6 +222,23 @@ entries:
   comment: null
   categories: null
   web: https://www.brottsofferjouren.se/
+
+- entry: 1230716464
+  orgName: Drabbrikan / Frantzwagner Sällskapet - Sinti Kettanepa
+  orgNumber: 802476-8452
+  comment: null
+  categories:
+  - e-tidskrift
+  - nyhetsbrev
+  web: https://www.drabbrikan.se/
+
+- entry: 1230720037
+  orgName: Sannex
+  orgNumber: null
+  comment: null
+  categories:
+  - dansband
+  web: https://www.sannex.nu/
 
 - entry: 1230741454
   orgName: Kamratföreningen Bodenartilleristen
@@ -586,6 +621,14 @@ entries:
   categories: null
   web: https://gulaanglarna.se/
 
+- entry: 1231509884
+  orgName: Larz Kristerz
+  orgNumber: null
+  comment: null
+  categories:
+  - dansband
+  web: http://larzkristerz.com/
+
 - entry: 1231522085
   orgName: Frösö Hästgård AB
   orgNumber: 559168-1480
@@ -644,6 +687,14 @@ entries:
   comment: null
   categories: null
   web: null
+
+- entry: 1231629666
+  orgName: Södertälje Båtsällskap
+  orgNumber: 815600-2548
+  comment: null
+  categories:
+  - båtklubb
+  web: https://sodertaljebs.se/
 
 - entry: 1231650142
   orgName: SK4KO - Siljanbygdens Sändareamatörer - 7S4VL
@@ -958,12 +1009,37 @@ entries:
   - donation
   web: https://www.centrumkyrkan-norrkoping.se/
 
+- entry: 1232213981
+  orgName: Jipåt AB
+  orgNumber: 556959-7908
+  comment: null
+  categories:
+  - friskvård
+  - massage
+  web: https://jipt.se/
+
 - entry: 1232227478
   orgName: Sällskapet Börsdamerna
   orgNumber: null
   comment: null
   categories: null
   web: https://www.borsdamerna.se/
+
+- entry: 1232228039
+  orgName: Aldrig Ensam
+  orgNumber: 802520-0091
+  comment: null
+  categories:
+  - psykisk hälsa
+  web: http://aldrigensam.com/
+
+- entry: 1232251684
+  orgName: Akeauktioner
+  orgNumber: 556771-7664
+  comment: null
+  categories:
+  - auktioner
+  web: https://akeauktioner.se/
 
 - entry: 1232361699
   orgName: Piteå IF Orienteringsklubb - Orientering
@@ -1265,6 +1341,15 @@ entries:
   comment: null
   categories: null
   web: https://flammor.com/
+
+- entry: 1233114667
+  orgName: Docksta Bordtennisklubb (DBTK)
+  orgNumber: 888400-7287
+  comment: null
+  categories:
+  - bordtennis
+  - pingis
+  web: http://www.dbtk.se/
 
 - entry: 1233143492
   orgName: Öxabäcks Fiskevårdsområdesförening
@@ -2113,6 +2198,14 @@ entries:
   categories: null
   web: https://idrottonline.se/GarphyttansIF/
 
+- entry: 1235245006
+  orgName: Perikles
+  orgNumber: null
+  comment: null
+  categories:
+  - dansband
+  web: https://www.perikles.se/
+
 - entry: 1235278387
   orgName: One Heart Church
   orgNumber: 802491-9931
@@ -2129,6 +2222,15 @@ entries:
   - tandläkare
   - tandkirurgi
   web: http://www.tandlakaresandbacka.se/
+
+- entry: 1235283122
+  orgName: Docksta Bordtennisklubb (DBTK)
+  orgNumber: 888400-7287
+  comment: Medlemsavgift
+  categories:
+  - bordtennis
+  - pingis
+  web: http://www.dbtk.se/
 
 - entry: 1235299938
   orgName: Fenix Skärmflygklubb
@@ -2465,6 +2567,15 @@ entries:
   - podcast
   web: https://lappis.libsyn.com/
 
+- entry: 1236096333
+  orgName: Örebro Klätterklubb
+  orgNumber: 875003-5886
+  comment: null
+  categories:
+  - klätterklubb
+  - klättring
+  web: http://www.orebroklatterklubb.com/
+
 - entry: 1236096606
   orgName: Glommens Båtklubb
   orgNumber: 849000-9183
@@ -2522,6 +2633,15 @@ entries:
   comment: null
   categories: null
   web: https://www.borasbouleallians.se/
+
+- entry: 1236212757
+  orgName: Docksta Bordtennisklubb (DBTK)
+  orgNumber: 888400-7287
+  comment: null
+  categories:
+  - bordtennis
+  - pingis
+  web: http://www.dbtk.se/
 
 - entry: 1236230718
   orgName: Yousse Bilcenter AB
@@ -2640,6 +2760,15 @@ entries:
   - cafe
   web: https://www.allebergcafeorestaurang.se/
 
+- entry: 1236521637
+  orgName: Snabb Grus Sverige AB
+  orgNumber: 556967-8310
+  comment: null
+  categories:
+  - grus
+  - sand
+  web: https://www.snabbgrus.se/
+
 - entry: 1236527121
   orgName: Nordvärmlandspodden med Torleif Styffe
   orgNumber: null
@@ -2746,6 +2875,13 @@ entries:
   comment: Träning
   categories: null
   web: https://www.piteaifok.se/
+
+- entry: 1236948798
+  orgName: Skånes Änglar
+  orgNumber: 802517-6499
+  comment: null
+  categories: null
+  web: https://www.skanesanglar.se/
 
 - entry: 1239000001
   orgName: Svensk Insamlingskontroll
