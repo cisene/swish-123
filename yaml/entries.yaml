@@ -326,6 +326,14 @@ entries:
   categories: null
   web: https://strokeride.se/
 
+- entry: 1230879379
+  orgName: Årsunda IF
+  orgNumber: 885500-2088
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.arsundaif.se/
+
 - entry: 1230898841
   orgName: Worship Sweden Production
   orgNumber: 601206-XXXX
@@ -1065,6 +1073,14 @@ entries:
   - religion
   web: https://www.brannkyrka.org/
 
+- entry: 1232375319
+  orgName: Föreningen Bota FA!
+  orgNumber: 802445-7510
+  comment: null
+  categories:
+  - hälsa
+  web: http://www.bota-fa.se/
+
 - entry: 1232383222
   orgName: Birgittasystrarna i Vadstena
   orgNumber: 252002-8610
@@ -1140,6 +1156,14 @@ entries:
   comment: null
   categories: null
   web: https://skane.naturskyddsforeningen.se/
+
+- entry: 1232525384
+  orgName: OCD-föreningen Göteborgsregionen
+  orgNumber: 857209-3030
+  comment: null
+  categories:
+  - mental hälsa
+  web: https://goteborg.ocdforbundet.se/
 
 - entry: 1232588085
   orgName: Brottsofferjouren Östra Värmland
@@ -2300,6 +2324,15 @@ entries:
   categories: null
   web: https://crevoice.se/
 
+- entry: 1235417282
+  orgName: Dellenbygdens fiskevårdsområde
+  orgNumber: 802600-3668
+  comment: null
+  categories:
+  - fiskeklubb
+  - sportfiske
+  web: https://dellenbygdens-fvo.se/
+
 - entry: 1235431788
   orgName: Hågelby 4H-gård
   orgNumber: null
@@ -2708,6 +2741,14 @@ entries:
   categories: null
   web: https://www.dystoni.se/
 
+- entry: 1236387112
+  orgName: CMK - Christianstads MotorbåtsKlubb
+  orgNumber: 838201-3905
+  comment: null
+  categories:
+  - motorbåtsklubb
+  web: http://kristianstadsbatklubb.se/
+
 - entry: 1236406466
   orgName: Föreningen För Lotsbåten Ilse
   orgNumber: 802490-3976
@@ -2776,6 +2817,15 @@ entries:
   categories:
   - podcast
   web: https://nordvarmlandspodden.podbean.com/
+
+- entry: 1236535314
+  orgName: Backia
+  orgNumber: 630909-XXXX
+  comment: null
+  categories:
+  - försäljning
+  - motorer
+  web: http://backia.se/
 
 - entry: 1236537898
   orgName: Förslövs IF
@@ -3477,7 +3527,7 @@ entries:
   web: https://www.lillabarnet.se/
 
 - entry: 1239001561
-  orgName: Sällsynta Diagnoser
+  orgName: Riksförbundet Sällsynta diagnoser
   orgNumber: 802408-4934
   comment: null
   categories:
@@ -5837,13 +5887,13 @@ entries:
   web: https://www.prostatacancerforbundet.se/
 
 - entry: 1239006537
-  orgName: LINKÖPINGS MOSKéSTIFTELSE BOX 374 58103, LINKÖPING
-  orgNumber: null
-  comment: 1239006537 - pg 900653-7
+  orgName: Linköpings Moskéstiftelse
+  orgNumber: 822003-7918
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.linkopingmoske.se/
 
 - entry: 1239006545
   orgName: RAV - Riksorganisationen för anhöriga till våldsdödade
@@ -5870,13 +5920,13 @@ entries:
   web: https://www.hospice.se/
 
 - entry: 1239006594
-  orgName: DANDELION AFRICA SUNDSPROMENADEN 15 21116, MALMÖ
-  orgNumber: null
-  comment: 1239006594 - pg 900659-4
+  orgName: Dandelion Africa Sverige
+  orgNumber: 802467-4544
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.dandelionafrica.se/
 
 - entry: 1239006602
   orgName: Barncancerfonden Västra
@@ -5903,13 +5953,13 @@ entries:
   web: https://www.umeastadsmission.se/
 
 - entry: 1239006636
-  orgName: INSAMLINGSSTIFTELSEN REWI BOX 248 46223, VÄNERSBORG
-  orgNumber: null
-  comment: 1239006636 - pg 900663-6
+  orgName: Insamlingsstiftelsen Rewilding Europe - Sweden
+  orgNumber: 802480-9967
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.rewilding-sweden.com/
 
 - entry: 1239006669
   orgName: Svensk-Tibetanska Skol- och Kulturföreningen
@@ -5921,67 +5971,67 @@ entries:
   web: https://www.tibet-school.org/
 
 - entry: 1239006685
-  orgName: AMREF NORDIC OLOF PALMES GATA 29, 4 TRAPPOR 11122, STOCKHOLM
-  orgNumber: null
-  comment: 1239006685 - pg 900668-5
+  orgName: Stiftelsen Amref Nordic
+  orgNumber: 802009-6627
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.amref.se/
 
 - entry: 1239006693
-  orgName: WE EFFECT FRANZENGATAN 6 10533, STOCKHOLM
-  orgNumber: null
-  comment: 1239006693 - pg 900669-3
+  orgName: We Effect
+  orgNumber: 802004-1524
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.weeffect.se/
 
 - entry: 1239006701
-  orgName: WE EFFECT FRANZENGATAN 6 10533, STOCKHOLM
-  orgNumber: null
-  comment: 1239006701 - pg 900670-1
+  orgName: We Effect
+  orgNumber: 802004-1524
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.weeffect.se/
 
 - entry: 1239006719
-  orgName: WE EFFECT FRANZéNGATAN 6 10533, STOCKHOLM
-  orgNumber: null
-  comment: 1239006719 - pg 900671-9
+  orgName: We Effect
+  orgNumber: 802004-1524
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.weeffect.se/
 
 - entry: 1239006727
-  orgName: INSAMLINGSSTIFT. VI PLANT BOX 11175 10061, STOCKHOLM
-  orgNumber: null
-  comment: 1239006727 - pg 900672-7
+  orgName: Insamlingsstiftelsen Vi planterar träd - Vi-Skogen
+  orgNumber: 802012-8081
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.viskogen.se/
 
 - entry: 1239006735
-  orgName: INSAMLINGSSTIFT. VI PLANT BOX 11175 10061, STOCKHOLM
-  orgNumber: null
-  comment: 1239006735 - pg 900673-5
+  orgName: Insamlingsstiftelsen Vi planterar träd - Vi-Skogen
+  orgNumber: 802012-8081
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.viskogen.se/
 
 - entry: 1239006743
-  orgName: INSAMLINGSSTIFT. VI PLANT BOX 11175 10061, STOCKHOLM
-  orgNumber: null
-  comment: 1239006743 - pg 900674-3
+  orgName: Insamlingsstiftelsen Vi planterar träd - Vi-Skogen
+  orgNumber: 802012-8081
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.viskogen.se/
 
 - entry: 1239006776
   orgName: Help at Hand
@@ -6768,22 +6818,22 @@ entries:
   web: https://www.diabetes.se/diabetesfonden
 
 - entry: 1239009028
-  orgName: RIKSFÖRENINGEN AKTIVA SYN BOX 42122 12615, STOCKHOLM
-  orgNumber: null
-  comment: 1239009028 - pg 900902-8
+  orgName: Riksföreningen Aktiva Synskadade
+  orgNumber: 802005-7926
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.aktivasynskadade.org/
 
 - entry: 1239009069
-  orgName: ASTMA OCH ALLERGI FÖRBUND BOX 17069 10462, STOCKHOLM
-  orgNumber: null
-  comment: 1239009069 - pg 900906-9
+  orgName: Astma- och Allergiförbundet
+  orgNumber: 802005-7512
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.astmaoallergiforbundet.se/
 
 - entry: 1239009085
   orgName: Goda Nyheter - för livet
@@ -6826,22 +6876,22 @@ entries:
   web: https://www.erikshjalpen.se/
 
 - entry: 1239009325
-  orgName: ASTMA- OCH BOX 17069 10432, STOCKHOLM
-  orgNumber: null
-  comment: 1239009325 - pg 900932-5
+  orgName: Astma- och Allergiförbundet
+  orgNumber: 802005-7512
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.astmaoallergiforbundet.se/
 
 - entry: 1239009358
-  orgName: SOCIALA MISSIONEN HÖGBERGSGATAN 31 A 11620, STOCKHOLM
-  orgNumber: null
-  comment: 1239009358 - pg 900935-8
+  orgName: Sociala Missionen
+  orgNumber: 802003-1178
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.socialamissionen.se/
 
 - entry: 1239009697
   orgName: Riksföreningen Aktiva Synskadade
@@ -6932,22 +6982,22 @@ entries:
   web: https://www.latinamerikagrupperna.se/
 
 - entry: 1239010257
-  orgName: RÄDDA BARNENS RIKSFÖRBUND 10788, STOCKHOLM
-  orgNumber: null
-  comment: 1239010257 - pg 901025-7
+  orgName: Rädda Barnen
+  orgNumber: 802002-8638
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.raddabarnen.se/
 
 - entry: 1239010455
-  orgName: INSAML.STIFT. LILLE HANS VÄSTMANNAGATAN 95 11343, STOCKHOLM
-  orgNumber: null
-  comment: 1239010455 - pg 901045-5
+  orgName: Insamlingsstiftelsen Lille Hans
+  orgNumber: 802402-3742
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.lillehans.se/
 
 - entry: 1239010646
   orgName: Barnens Hopp
@@ -7014,7 +7064,7 @@ entries:
   web: https://www.ssmf.se/
 
 - entry: 1239011115
-  orgName: Barnens RäddningsArk
+  orgName: Stiftelsen Barnens RäddningsArk
   orgNumber: 897001-2392
   comment: null
   categories:
@@ -7079,13 +7129,13 @@ entries:
   web: https://www.barnsamariten.se/
 
 - entry: 1239011313
-  orgName: INTACTS VÄNNER ANNEDALSVÄGEN 53 LGH 1501 16870, BROMMA
-  orgNumber: null
-  comment: 1239011313 - pg 901131-3
+  orgName: Intacts Vänner
+  orgNumber: 875003-0846
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.intactsvanner.com/
 
 - entry: 1239011388
   orgName: Kalmar Stadsmission
@@ -7201,13 +7251,13 @@ entries:
   web: https://www.greenpeace.se/
 
 - entry: 1239013012
-  orgName: BARNFONDEN INSAMLINGSSTIF BOX 4100 20312, MALMÖ
-  orgNumber: null
-  comment: 1239013012 - pg 901301-2
+  orgName: Barnfondens Insamlingsstiftelse
+  orgNumber: 846003-9020
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.barnfonden.se/
 
 - entry: 1239013020
   orgName: Barnfondens Insamlingsstiftelse
@@ -7226,13 +7276,13 @@ entries:
   web: https://www.naturskyddsforeningen.se/
 
 - entry: 1239013046
-  orgName: LÄKARE UTAN GRÄNSER BOX 47021 10074, STOCKHOLM
-  orgNumber: null
-  comment: 1239013046 - pg 901304-6
+  orgName: Läkare utan Gränser
+  orgNumber: 802017-2360
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.lakareutangranser.se/
 
 - entry: 1239013202
   orgName: Stiftelsen Team Mission
@@ -7251,13 +7301,13 @@ entries:
   web: https://www.ankarstiftelsen.se/
 
 - entry: 1239014036
-  orgName: FÖRENINGEN FÖR DEN BERIDN RIDDARGATAN 13 11451, STOCKHOLM
-  orgNumber: null
-  comment: 1239014036 - pg 901403-6
+  orgName: Föreningen för den Beridna Högvakten
+  orgNumber: 802013-1671
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.beridnahogvakten.se/
 
 - entry: 1239014077
   orgName: Cancerföreningen Gävleborg
@@ -7316,13 +7366,13 @@ entries:
   web: https://ungareumatiker.se/
 
 - entry: 1239017187
-  orgName: LÄKARMISSIONEN - STIFTELS SIKTGATAN 8 16288, VÄLLINGBY
-  orgNumber: null
-  comment: 1239017187 - pg 901718-7
+  orgName: Läkarmissionen - stiftelse för filantropisk verksamhet
+  orgNumber: 802005-9989
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.lakarmissionen.se/
 
 - entry: 1239018003
   orgName: Insamlingsstiftelsen Kvinna till Kvinna
@@ -7333,22 +7383,22 @@ entries:
   web: https://www.kvinnatillkvinna.se/
 
 - entry: 1239018037
-  orgName: FÖRBUNDET DJURENS RÄTT BOX 17132 10462, STOCKHOLM
-  orgNumber: null
-  comment: 1239018037 - pg 901803-7
+  orgName: Förbundet Djurens Rätt
+  orgNumber: 802002-4496
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.djurensratt.se/
 
 - entry: 1239018045
-  orgName: RIKSORGANISATIONEN FÖR NORRA ALLEG 2,6VÅN 41301, GÖTEBORG
-  orgNumber: null
-  comment: 1239018045 - pg 901804-5
+  orgName: Riksorganisationen för ett Drogfritt Sverige
+  orgNumber: 857206-8701
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.droginformation.nu/
 
 - entry: 1239018474
   orgName: Liberia Dujar Association - Sweden
@@ -7367,13 +7417,13 @@ entries:
   web: https://kfum.se/
 
 - entry: 1239019027
-  orgName: STOCKHOLMS STADSMISSION BOX 47073 10074, STOCKHOLM
-  orgNumber: null
-  comment: 1239019027 - pg 901902-7
+  orgName: Stockholms Stadsmission
+  orgNumber: 802003-1954
+  comment: null
   categories:
   - overifierad
   - insamlingskontroll
-  web: null
+  web: https://www.stadsmissionen.se/
 
 - entry: 1239019076
   orgName: Majblommans Riksförbund
@@ -7570,7 +7620,7 @@ entries:
   web: https://www.diakonia.se/
 
 - entry: 1239034349
-  orgName: ECPAT
+  orgName: ECPAT Sverige
   orgNumber: 802402-5499
   comment: null
   categories:

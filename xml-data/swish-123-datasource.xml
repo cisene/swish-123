@@ -516,6 +516,19 @@
     </entry>
     
 
+    <entry number="1230879379">
+      <organization>
+        <name>Årsunda IF</name>
+        <number>885500-2088</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://www.arsundaif.se/</web>
+    </entry>
+    
+
     <entry number="1230898841">
       <organization>
         <name>Worship Sweden Production</name>
@@ -1678,6 +1691,19 @@
     </entry>
     
 
+    <entry number="1232375319">
+      <organization>
+        <name>Föreningen Bota FA!</name>
+        <number>802445-7510</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hälsa"/>
+      </categories>
+      <web>http://www.bota-fa.se/</web>
+    </entry>
+    
+
     <entry number="1232383222">
       <organization>
         <name>Birgittasystrarna i Vadstena</name>
@@ -1796,6 +1822,19 @@
       <comment/>
       <categories/>
       <web>https://skane.naturskyddsforeningen.se/</web>
+    </entry>
+    
+
+    <entry number="1232525384">
+      <organization>
+        <name>OCD-föreningen Göteborgsregionen</name>
+        <number>857209-3030</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="mental hälsa"/>
+      </categories>
+      <web>https://goteborg.ocdforbundet.se/</web>
     </entry>
     
 
@@ -3639,6 +3678,20 @@
     </entry>
     
 
+    <entry number="1235417282">
+      <organization>
+        <name>Dellenbygdens fiskevårdsområde</name>
+        <number>802600-3668</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fiskeklubb"/>
+        <category type="sportfiske"/>
+      </categories>
+      <web>https://dellenbygdens-fvo.se/</web>
+    </entry>
+    
+
     <entry number="1235431788">
       <organization>
         <name>Hågelby 4H-gård</name>
@@ -4278,6 +4331,19 @@
     </entry>
     
 
+    <entry number="1236387112">
+      <organization>
+        <name>CMK - Christianstads MotorbåtsKlubb</name>
+        <number>838201-3905</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="motorbåtsklubb"/>
+      </categories>
+      <web>http://kristianstadsbatklubb.se/</web>
+    </entry>
+    
+
     <entry number="1236406466">
       <organization>
         <name>Föreningen För Lotsbåten Ilse</name>
@@ -4382,6 +4448,20 @@
         <category type="podcast"/>
       </categories>
       <web>https://nordvarmlandspodden.podbean.com/</web>
+    </entry>
+    
+
+    <entry number="1236535314">
+      <organization>
+        <name>Backia</name>
+        <number>630909-XXXX</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="försäljning"/>
+        <category type="motorer"/>
+      </categories>
+      <web>http://backia.se/</web>
     </entry>
     
 
@@ -5256,7 +5336,7 @@
 
     <entry number="1239001561">
       <organization>
-        <name>Sällsynta Diagnoser</name>
+        <name>Riksförbundet Sällsynta diagnoser</name>
         <number>802408-4934</number>
       </organization>
       <comment/>
@@ -9106,7 +9186,7 @@
 
     <entry number="1239011115">
       <organization>
-        <name>Barnens RäddningsArk</name>
+        <name>Stiftelsen Barnens RäddningsArk</name>
         <number>897001-2392</number>
       </organization>
       <comment/>
@@ -9848,7 +9928,7 @@
 
     <entry number="1239034349">
       <organization>
-        <name>ECPAT</name>
+        <name>ECPAT Sverige</name>
         <number>802402-5499</number>
       </organization>
       <comment/>
