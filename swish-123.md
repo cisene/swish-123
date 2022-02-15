@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-02-14-rev-224841
+Date:     2022-02-15-rev-230713
 ...
 
 # Swish 123 Nummer
@@ -69,6 +69,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231008457 | 857200-3666 | Församlingsfakulteten                                                                                | [Link](https://ffg.se/) |
 | 1231033885 | 802534-3578 | Svenska Dvärgkaninklubben                                                                            | [Link](http://www.dvargkaninklubben.se/) |
 | 1231043041 | 802433-8553 | Hillsong Church Sweden                                                                               | [Link](https://hillsong.com/sweden/) |
+| 1231052372 | 556805-5411 | Fiskfoder.se                                                                                         | [Link](https://www.fiskfoder.se/) |
 | 1231063056 |       -     | Jennebo Radio                                                                                        | [Link](https://www.jenneboradio.se/) |
 | 1231073642 | 874001-9461 | Säffle Trollingklubb                                                                                 | [Link](https://www.saffletrollingklubb.com/) |
 | 1231079128 |       -     | Immanuelskyrkan i Örebro                                                                             | [Link](https://www.imkorebro.se/) |
@@ -246,6 +247,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233770146 | 894000-2952 | EFS Västerbotten                                                                                     | [Link](https://efsvasterbotten.se/) |
 | 1233795390 | 825003-1567 | Djurskyddet Fiahemmet Norrköping                                                                     | [Link](https://www.fiahemmet.se/) |
 | 1233797040 | 802409-7639 | Stödföreningen för Barbro Johanssons fond för utbildning av flickor i Tanzania, JOHAfonden           | [Link](http://www.johafonden.com/) |
+| 1233819158 | 883202-1177 | Leksands Fågelklubb                                                                                  | [Link](http://www.leksandsfagelklubb.se/) |
 | 1233827615 | 252000-6343 | Urshults Församling                                                                                  | -                   |
 | 1233851631 | 556558-9743 | Pinocchio Massage &amp; Friskvård AB                                                                 | [Link](http://pinocchio.se/) |
 | 1233878436 | 802471-9547 | Adelsö Hembygdslag                                                                                   | [Link](http://www.adelsohembygdslag.se/) |
@@ -329,6 +331,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235292974 | 802529-0704 | Djurens Vänner Värnamo                                                                               | [Link](https://www.djurensvanner.se/varnamo) |
 | 1235299938 | 802420-2593 | Fenix Skärmflygklubb                                                                                 | [Link](https://fenixflyg.se/) |
 | 1235311626 | 556298-9755 | Varuhuset Rönneshytta AB                                                                             | [Link](http://varuhuset.se/) |
+| 1235332846 | 969785-0742 | Grottans blommor                                                                                     | [Link](http://grottansblommor.se/) |
 | 1235345004 | 556512-6512 | Reklambyrån Stt AB                                                                                   | [Link](https://stthuset.com/) |
 | 1235358692 | 559074-2184 | Svensk Webbtelevision AB                                                                             | [Link](https://swebbtv.se/) |
 | 1235369996 | 556561-1174 | Flashback Media Group Aktiebolag                                                                     | [Link](https://www.flashback.org/) |
@@ -336,6 +339,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235390539 | 894700-5842 | Skellefteå CK - Curling                                                                              | [Link](https://www.curlingklubben.se/) |
 | 1235394036 | 817603-6583 | Hyresgästföreningen Djäknegatan                                                                      | [Link](https://www.djaknegatan.org/) |
 | 1235399720 | 556794-8400 | Crevoice AB                                                                                          | [Link](https://crevoice.se/) |
+| 1235414164 | 825000-8177 | Finspångs Golfklubb och Stugby                                                                       | [Link](https://www.finspangsgk.se/) |
 | 1235417282 | 802600-3668 | Dellenbygdens fiskevårdsområde                                                                       | [Link](https://dellenbygdens-fvo.se/) |
 | 1235431788 |       -     | Hågelby 4H-gård                                                                                      | [Link](https://www.4h.se/hagelby/) |
 | 1235455407 | 827000-8900 | Djurens Vänner Nässjö                                                                                | [Link](https://www.djurensvanner.se/nassjo) |

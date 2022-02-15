@@ -629,7 +629,6 @@
       <comment/>
       <categories>
         <category type="religion"/>
-        <category type="worship"/>
         <category type="donation"/>
       </categories>
       <web>https://www.stefanjernsand.se/</web>
@@ -764,6 +763,20 @@
         <category type="donation"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
+    </entry>
+    
+
+    <entry number="1231052372">
+      <organization>
+        <name>Fiskfoder.se</name>
+        <number>556805-5411</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fiskfoder"/>
+        <category type="akvariefisk"/>
+      </categories>
+      <web>https://www.fiskfoder.se/</web>
     </entry>
     
 
@@ -2938,6 +2951,20 @@
     </entry>
     
 
+    <entry number="1233819158">
+      <organization>
+        <name>Leksands Fågelklubb</name>
+        <number>883202-1177</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fågelklubb"/>
+        <category type="naturskydd"/>
+      </categories>
+      <web>http://www.leksandsfagelklubb.se/</web>
+    </entry>
+    
+
     <entry number="1233827615">
       <organization>
         <name>Urshults Församling</name>
@@ -3939,6 +3966,20 @@
     </entry>
     
 
+    <entry number="1235332846">
+      <organization>
+        <name>Grottans blommor</name>
+        <number>969785-0742</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="blommor"/>
+        <category type="blomarrangemang"/>
+      </categories>
+      <web>http://grottansblommor.se/</web>
+    </entry>
+    
+
     <entry number="1235345004">
       <organization>
         <name>Reklambyrån Stt AB</name>
@@ -4022,6 +4063,21 @@
       <comment/>
       <categories/>
       <web>https://crevoice.se/</web>
+    </entry>
+    
+
+    <entry number="1235414164">
+      <organization>
+        <name>Finspångs Golfklubb och Stugby</name>
+        <number>825000-8177</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="golf"/>
+        <category type="golfklubb"/>
+        <category type="green fee"/>
+      </categories>
+      <web>https://www.finspangsgk.se/</web>
     </entry>
     
 

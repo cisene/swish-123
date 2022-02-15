@@ -397,7 +397,6 @@ entries:
   comment: null
   categories:
   - religion
-  - worship
   - donation
   web: https://www.stefanjernsand.se/
 
@@ -485,6 +484,15 @@ entries:
   - worship
   - donation
   web: https://hillsong.com/sweden/
+
+- entry: 1231052372
+  orgName: Fiskfoder.se
+  orgNumber: 556805-5411
+  comment: null
+  categories:
+  - fiskfoder
+  - akvariefisk
+  web: https://www.fiskfoder.se/
 
 - entry: 1231063056
   orgName: Jennebo Radio
@@ -1858,6 +1866,15 @@ entries:
   categories: null
   web: http://www.johafonden.com/
 
+- entry: 1233819158
+  orgName: Leksands Fågelklubb
+  orgNumber: 883202-1177
+  comment: null
+  categories:
+  - fågelklubb
+  - naturskydd
+  web: http://www.leksandsfagelklubb.se/
+
 - entry: 1233827615
   orgName: Urshults Församling
   orgNumber: 252000-6343
@@ -2487,6 +2504,15 @@ entries:
   categories: null
   web: http://varuhuset.se/
 
+- entry: 1235332846
+  orgName: Grottans blommor
+  orgNumber: 969785-0742
+  comment: null
+  categories:
+  - blommor
+  - blomarrangemang
+  web: http://grottansblommor.se/
+
 - entry: 1235345004
   orgName: Reklambyrån Stt AB
   orgNumber: 556512-6512
@@ -2540,6 +2566,16 @@ entries:
   comment: null
   categories: null
   web: https://crevoice.se/
+
+- entry: 1235414164
+  orgName: Finspångs Golfklubb och Stugby
+  orgNumber: 825000-8177
+  comment: null
+  categories:
+  - golf
+  - golfklubb
+  - green fee
+  web: https://www.finspangsgk.se/
 
 - entry: 1235417282
   orgName: Dellenbygdens fiskevårdsområde
