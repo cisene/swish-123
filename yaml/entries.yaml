@@ -91,6 +91,15 @@ entries:
   - museum
   web: https://www.hasseotagemuseet.se/
 
+- entry: 1230214676
+  orgName: MC Proffsen i Jönköping AB
+  orgNumber: 556466-2087
+  comment: null
+  categories:
+  - motorsport
+  - motorcykel
+  web: https://mc-proffsen.se/
+
 - entry: 1230226555
   orgName: Norrtälje Katthem
   orgNumber: 802456-5734
@@ -114,6 +123,15 @@ entries:
   - supporterklubb
   web: http://aia.nu/
 
+- entry: 1230259804
+  orgName: Together for Better
+  orgNumber: 802477-8113
+  comment: null
+  categories:
+  - donation
+  - utbildning
+  web: https://www.togetherforbetter.se/
+
 - entry: 1230300657
   orgName: Pingstkyrkan Västra Frölunda
   orgNumber: 857200-4094
@@ -129,6 +147,15 @@ entries:
   categories:
   - religion
   web: https://betaniaskara.se/
+
+- entry: 1230331488
+  orgName: Katthemmet Oskarshamn
+  orgNumber: 832801-0155
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://katthemmetoskarshamn.se/
 
 - entry: 1230365882
   orgName: Kronobergs Dreverklubb
@@ -407,6 +434,14 @@ entries:
   categories: null
   web: http://www.sandviksik.se/
 
+- entry: 1230923334
+  orgName: Frälsningsarmén i Skillingaryd
+  orgNumber: 802006-1688
+  comment: null
+  categories:
+  - donation
+  web: https://www.fralsningsarmen.se/skillingaryd/
+
 - entry: 1230923631
   orgName: Modiga Människor
   orgNumber: 750221-XXXX
@@ -616,6 +651,15 @@ entries:
   - podcast
   web: https://www.hurkanvi.se/
 
+- entry: 1231251412
+  orgName: Seriesam AB
+  orgNumber: 556306-9151
+  comment: null
+  categories:
+  - serietidningar
+  - tecknat
+  web: https://www.seriesam.com/
+
 - entry: 1231268283
   orgName: Elins Glashus
   orgNumber: null
@@ -795,7 +839,8 @@ entries:
   orgName: Hundar Utan Hem
   orgNumber: 802432-7630
   comment: Gåva
-  categories: null
+  categories:
+  - djurskydd
   web: https://hundarutanhem.se/
 
 - entry: 1231619501
@@ -903,6 +948,14 @@ entries:
   - ridsport
   web: https://www.ljungbyridklubb.org.se/
 
+- entry: 1231807379
+  orgName: Bifrostorden Logen 28 Gondler
+  orgNumber: 332407-6342
+  comment: null
+  categories:
+  - orden
+  web: https://www.bifrostorden.se/
+
 - entry: 1231813138
   orgName: Hrimfaxi Islandshästklubb - Islandshäst
   orgNumber: 875002-6380
@@ -1002,6 +1055,15 @@ entries:
   categories: null
   web: https://www.faltbiologerna.se/
 
+- entry: 1231998467
+  orgName: Polhemskliniken / Fortunatus AB
+  orgNumber: 556903-7921
+  comment: null
+  categories:
+  - friskvård
+  - massage
+  web: http://www.polhemskliniken.se/
+
 - entry: 1232001782
   orgName: Linneryds Församling
   orgNumber: 252000-6319
@@ -1025,6 +1087,14 @@ entries:
   categories:
   - insamlingskontroll
   web: http://www.socialamissionen.se/
+
+- entry: 1232044204
+  orgName: Bifrostorden Logen nr 12 Nicopia
+  orgNumber: 819001-0697
+  comment: null
+  categories:
+  - orden
+  web: https://www.bifrostorden.se/
 
 - entry: 1232055309
   orgName: HairAgain Nordic AB
@@ -1166,6 +1236,15 @@ entries:
   - djurskydd
   web: https://www.djurensvanner.se/goteborg
 
+- entry: 1232261121
+  orgName: MC-Kompaniet i Väring AB
+  orgNumber: 556131-6026
+  comment: null
+  categories:
+  - motorsport
+  - motorcykel
+  web: https://mc-kompaniet.se/
+
 - entry: 1232277739
   orgName: Angel Island Army, AIA
   orgNumber: 802510-0614
@@ -1182,6 +1261,14 @@ entries:
   - körkort
   - bilskola
   web: https://www.ringensbilskola.se/
+
+- entry: 1232342988
+  orgName: Skånes Auktionsverk AB
+  orgNumber: 556550-6622
+  comment: null
+  categories:
+  - auktioner
+  web: https://www.skanesauktionsverk.se/
 
 - entry: 1232361699
   orgName: Piteå IF Orienteringsklubb - Orientering
@@ -1355,6 +1442,14 @@ entries:
   - donation
   web: https://www.pingstlidkoping.se/
 
+- entry: 1232710127
+  orgName: Islamakademin
+  orgNumber: 802472-9934
+  comment: null
+  categories:
+  - religion
+  web: https://islamakademin.se/
+
 - entry: 1232710259
   orgName: Stiftelsen Expo
   orgNumber: 802401-2463
@@ -1463,6 +1558,16 @@ entries:
   categories: null
   web: https://www.brottsofferjouren.se/
 
+- entry: 1232905578
+  orgName: JP Hästveda
+  orgNumber: 556837-1933
+  comment: null
+  categories:
+  - laboratorier
+  - analyser
+  - trikiner
+  web: http://www.jphastveda.com/
+
 - entry: 1232909695
   orgName: Insamlingsstiftelsen 1000 Möjligheter
   orgNumber: 802478-3436
@@ -1492,7 +1597,8 @@ entries:
   orgName: Hundar Utan Hem
   orgNumber: 802432-7630
   comment: Adoptionsavgift
-  categories: null
+  categories:
+  - djurskydd
   web: https://hundarutanhem.se/
 
 - entry: 1233034196
@@ -1516,6 +1622,15 @@ entries:
   comment: null
   categories: null
   web: https://flammor.com/
+
+- entry: 1233088846
+  orgName: Arbetskraftförmedlingen
+  orgNumber: 802530-1006
+  comment: null
+  categories:
+  - förmedling
+  - arbetskraft
+  web: https://arbetskraftsformedlingen.se/
 
 - entry: 1233114667
   orgName: Docksta Bordtennisklubb (DBTK)
@@ -1554,6 +1669,15 @@ entries:
   comment: null
   categories: null
   web: https://www.clubhouse-restaurant.se/
+
+- entry: 1233233111
+  orgName: Education4Future
+  orgNumber: 802529-1363
+  comment: null
+  categories:
+  - intresseorganisation
+  - utbildning
+  web: https://education4future.se/
 
 - entry: 1233244779
   orgName: Armeniska riksförbundet i Sverige (ARS)
@@ -1919,12 +2043,28 @@ entries:
   categories: null
   web: https://www.piteaifok.se/
 
+- entry: 1233894276
+  orgName: White Lions
+  orgNumber: 822001-7571
+  comment: null
+  categories:
+  - supporterklubb
+  web: http://www.whitelions.se/
+
 - entry: 1233908522
   orgName: Kils Hästcenter Hannäs (KHH)
   orgNumber: 802476-0764
   comment: null
   categories: null
   web: https://www.hastcenterhannas.se/
+
+- entry: 1233930344
+  orgName: IKHP Huskvarna
+  orgNumber: 8260001535
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://ikhp.se/
 
 - entry: 1233930955
   orgName: EFS - Evangeliska Fosterlandsstiftelsen
@@ -2030,6 +2170,16 @@ entries:
   - fiskeklubb
   - sportfiske
   web: https://www.sjulsmarks-skoterfiske.se/
+
+- entry: 1234138210
+  orgName: Rossöns Fiskevårdsområdesförening
+  orgNumber: 893202-4808
+  comment: null
+  categories:
+  - fiskeklubb
+  - fiskekort
+  - fiskevård
+  web: http://rossonfvo.se/
 
 - entry: 1234149258
   orgName: Sandviks IK
@@ -2185,6 +2335,23 @@ entries:
   - religion
   web: https://www.brannkyrka.org/
 
+- entry: 1234523361
+  orgName: Axmarby Intresseförening
+  orgNumber: 885001-3833
+  comment: null
+  categories:
+  - idrottsförening
+  web: http://axmarby.se/
+
+- entry: 1234524187
+  orgName: Bibeln idag
+  orgNumber: 853300-3961
+  comment: null
+  categories:
+  - religion
+  - donation
+  web: https://www.bibelnidag.org/
+
 - entry: 1234536819
   orgName: EFS Västerbotten
   orgNumber: 894000-2952
@@ -2303,6 +2470,14 @@ entries:
   categories: null
   web: https://www.lerumsscoutkar.se/
 
+- entry: 1234986915
+  orgName: Bensinupproret 2.0 / Föreningen Uppror
+  orgNumber: 802525-0310
+  comment: null
+  categories:
+  - folkrörelse
+  web: https://www.bransleupproret.se/
+
 - entry: 1234995015
   orgName: Pensionärernas BTK - Bordtennis
   orgNumber: 855100-6771
@@ -2388,6 +2563,14 @@ entries:
   - grottforskning
   - förbund
   web: https://speleo.se/
+
+- entry: 1235122296
+  orgName: Clownkliniken
+  orgNumber: 857209-6173
+  comment: null
+  categories:
+  - barnsjukvård
+  web: https://clownkliniken.se/
 
 - entry: 1235161229
   orgName: Insamlingsstiftelsen Rewilding Europe - Sweden
@@ -2626,6 +2809,14 @@ entries:
   - donation
   web: https://www.pingstlidkoping.se/
 
+- entry: 1235577523
+  orgName: Food2Change
+  orgNumber: 802501-4187
+  comment: null
+  categories:
+  - donation
+  web: https://www.food2change.se/
+
 - entry: 1235597125
   orgName: Skärgårdsstiftelsen I Stockholms Län
   orgNumber: 802405-0216
@@ -2703,6 +2894,15 @@ entries:
   comment: null
   categories: null
   web: https://helamanniskan.se/falkoping/
+
+- entry: 1235763453
+  orgName: Drakbergsskolan / Kannebäcks friskoleförening
+  orgNumber: 857206-9568
+  comment: null
+  categories:
+  - friskola
+  - skola
+  web: http://www.drakbergsskolan.se/
 
 - entry: 1235780515
   orgName: Motorförarnas Helnykterhetsförbund, MHF
@@ -3213,6 +3413,15 @@ entries:
   comment: null
   categories: null
   web: https://www.hembygd.se/gillberga-lista
+
+- entry: 1236764203
+  orgName: Föreningen Hjälp Utsatta Katter få Hem
+  orgNumber: 802502-0671
+  comment: null
+  categories:
+  - katthem
+  - djurskydd
+  web: https://www.hukh.se/
 
 - entry: 1236779300
   orgName: Himlen TV7 (Korsets Stöd R.F.)

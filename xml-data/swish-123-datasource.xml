@@ -145,6 +145,20 @@
     </entry>
     
 
+    <entry number="1230214676">
+      <organization>
+        <name>MC Proffsen i Jönköping AB</name>
+        <number>556466-2087</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="motorsport"/>
+        <category type="motorcykel"/>
+      </categories>
+      <web>https://mc-proffsen.se/</web>
+    </entry>
+    
+
     <entry number="1230226555">
       <organization>
         <name>Norrtälje Katthem</name>
@@ -182,6 +196,20 @@
     </entry>
     
 
+    <entry number="1230259804">
+      <organization>
+        <name>Together for Better</name>
+        <number>802477-8113</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+        <category type="utbildning"/>
+      </categories>
+      <web>https://www.togetherforbetter.se/</web>
+    </entry>
+    
+
     <entry number="1230300657">
       <organization>
         <name>Pingstkyrkan Västra Frölunda</name>
@@ -205,6 +233,20 @@
         <category type="religion"/>
       </categories>
       <web>https://betaniaskara.se/</web>
+    </entry>
+    
+
+    <entry number="1230331488">
+      <organization>
+        <name>Katthemmet Oskarshamn</name>
+        <number>832801-0155</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurskydd"/>
+        <category type="katthem"/>
+      </categories>
+      <web>https://katthemmetoskarshamn.se/</web>
     </entry>
     
 
@@ -646,6 +688,19 @@
     </entry>
     
 
+    <entry number="1230923334">
+      <organization>
+        <name>Frälsningsarmén i Skillingaryd</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/skillingaryd/</web>
+    </entry>
+    
+
     <entry number="1230923631">
       <organization>
         <name>Modiga Människor</name>
@@ -971,6 +1026,20 @@
     </entry>
     
 
+    <entry number="1231251412">
+      <organization>
+        <name>Seriesam AB</name>
+        <number>556306-9151</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="serietidningar"/>
+        <category type="tecknat"/>
+      </categories>
+      <web>https://www.seriesam.com/</web>
+    </entry>
+    
+
     <entry number="1231268283">
       <organization>
         <name>Elins Glashus</name>
@@ -1255,7 +1324,9 @@
         <number>802432-7630</number>
       </organization>
       <comment>Gåva</comment>
-      <categories/>
+      <categories>
+        <category type="djurskydd"/>
+      </categories>
       <web>https://hundarutanhem.se/</web>
     </entry>
     
@@ -1426,6 +1497,19 @@
     </entry>
     
 
+    <entry number="1231807379">
+      <organization>
+        <name>Bifrostorden Logen 28 Gondler</name>
+        <number>332407-6342</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="orden"/>
+      </categories>
+      <web>https://www.bifrostorden.se/</web>
+    </entry>
+    
+
     <entry number="1231813138">
       <organization>
         <name>Hrimfaxi Islandshästklubb - Islandshäst</name>
@@ -1582,6 +1666,20 @@
     </entry>
     
 
+    <entry number="1231998467">
+      <organization>
+        <name>Polhemskliniken / Fortunatus AB</name>
+        <number>556903-7921</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="friskvård"/>
+        <category type="massage"/>
+      </categories>
+      <web>http://www.polhemskliniken.se/</web>
+    </entry>
+    
+
     <entry number="1232001782">
       <organization>
         <name>Linneryds Församling</name>
@@ -1618,6 +1716,19 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>http://www.socialamissionen.se/</web>
+    </entry>
+    
+
+    <entry number="1232044204">
+      <organization>
+        <name>Bifrostorden Logen nr 12 Nicopia</name>
+        <number>819001-0697</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="orden"/>
+      </categories>
+      <web>https://www.bifrostorden.se/</web>
     </entry>
     
 
@@ -1840,6 +1951,20 @@
     </entry>
     
 
+    <entry number="1232261121">
+      <organization>
+        <name>MC-Kompaniet i Väring AB</name>
+        <number>556131-6026</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="motorsport"/>
+        <category type="motorcykel"/>
+      </categories>
+      <web>https://mc-kompaniet.se/</web>
+    </entry>
+    
+
     <entry number="1232277739">
       <organization>
         <name>Angel Island Army, AIA</name>
@@ -1864,6 +1989,19 @@
         <category type="bilskola"/>
       </categories>
       <web>https://www.ringensbilskola.se/</web>
+    </entry>
+    
+
+    <entry number="1232342988">
+      <organization>
+        <name>Skånes Auktionsverk AB</name>
+        <number>556550-6622</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="auktioner"/>
+      </categories>
+      <web>https://www.skanesauktionsverk.se/</web>
     </entry>
     
 
@@ -2141,6 +2279,19 @@
     </entry>
     
 
+    <entry number="1232710127">
+      <organization>
+        <name>Islamakademin</name>
+        <number>802472-9934</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://islamakademin.se/</web>
+    </entry>
+    
+
     <entry number="1232710259">
       <organization>
         <name>Stiftelsen Expo</name>
@@ -2313,6 +2464,21 @@
     </entry>
     
 
+    <entry number="1232905578">
+      <organization>
+        <name>JP Hästveda</name>
+        <number>556837-1933</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="laboratorier"/>
+        <category type="analyser"/>
+        <category type="trikiner"/>
+      </categories>
+      <web>http://www.jphastveda.com/</web>
+    </entry>
+    
+
     <entry number="1232909695">
       <organization>
         <name>Insamlingsstiftelsen 1000 Möjligheter</name>
@@ -2359,7 +2525,9 @@
         <number>802432-7630</number>
       </organization>
       <comment>Adoptionsavgift</comment>
-      <categories/>
+      <categories>
+        <category type="djurskydd"/>
+      </categories>
       <web>https://hundarutanhem.se/</web>
     </entry>
     
@@ -2396,6 +2564,20 @@
       <comment/>
       <categories/>
       <web>https://flammor.com/</web>
+    </entry>
+    
+
+    <entry number="1233088846">
+      <organization>
+        <name>Arbetskraftförmedlingen</name>
+        <number>802530-1006</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förmedling"/>
+        <category type="arbetskraft"/>
+      </categories>
+      <web>https://arbetskraftsformedlingen.se/</web>
     </entry>
     
 
@@ -2456,6 +2638,20 @@
       <comment/>
       <categories/>
       <web>https://www.clubhouse-restaurant.se/</web>
+    </entry>
+    
+
+    <entry number="1233233111">
+      <organization>
+        <name>Education4Future</name>
+        <number>802529-1363</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseorganisation"/>
+        <category type="utbildning"/>
+      </categories>
+      <web>https://education4future.se/</web>
     </entry>
     
 
@@ -3035,6 +3231,19 @@
     </entry>
     
 
+    <entry number="1233894276">
+      <organization>
+        <name>White Lions</name>
+        <number>822001-7571</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="supporterklubb"/>
+      </categories>
+      <web>http://www.whitelions.se/</web>
+    </entry>
+    
+
     <entry number="1233908522">
       <organization>
         <name>Kils Hästcenter Hannäs (KHH)</name>
@@ -3043,6 +3252,19 @@
       <comment/>
       <categories/>
       <web>https://www.hastcenterhannas.se/</web>
+    </entry>
+    
+
+    <entry number="1233930344">
+      <organization>
+        <name>IKHP Huskvarna</name>
+        <number>8260001535</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://ikhp.se/</web>
     </entry>
     
 
@@ -3209,6 +3431,21 @@
         <category type="sportfiske"/>
       </categories>
       <web>https://www.sjulsmarks-skoterfiske.se/</web>
+    </entry>
+    
+
+    <entry number="1234138210">
+      <organization>
+        <name>Rossöns Fiskevårdsområdesförening</name>
+        <number>893202-4808</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fiskeklubb"/>
+        <category type="fiskekort"/>
+        <category type="fiskevård"/>
+      </categories>
+      <web>http://rossonfvo.se/</web>
     </entry>
     
 
@@ -3459,6 +3696,33 @@
     </entry>
     
 
+    <entry number="1234523361">
+      <organization>
+        <name>Axmarby Intresseförening</name>
+        <number>885001-3833</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>http://axmarby.se/</web>
+    </entry>
+    
+
+    <entry number="1234524187">
+      <organization>
+        <name>Bibeln idag</name>
+        <number>853300-3961</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+        <category type="donation"/>
+      </categories>
+      <web>https://www.bibelnidag.org/</web>
+    </entry>
+    
+
     <entry number="1234536819">
       <organization>
         <name>EFS Västerbotten</name>
@@ -3647,6 +3911,19 @@
     </entry>
     
 
+    <entry number="1234986915">
+      <organization>
+        <name>Bensinupproret 2.0 / Föreningen Uppror</name>
+        <number>802525-0310</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="folkrörelse"/>
+      </categories>
+      <web>https://www.bransleupproret.se/</web>
+    </entry>
+    
+
     <entry number="1234995015">
       <organization>
         <name>Pensionärernas BTK - Bordtennis</name>
@@ -3781,6 +4058,19 @@
         <category type="förbund"/>
       </categories>
       <web>https://speleo.se/</web>
+    </entry>
+    
+
+    <entry number="1235122296">
+      <organization>
+        <name>Clownkliniken</name>
+        <number>857209-6173</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="barnsjukvård"/>
+      </categories>
+      <web>https://clownkliniken.se/</web>
     </entry>
     
 
@@ -4159,6 +4449,19 @@
     </entry>
     
 
+    <entry number="1235577523">
+      <organization>
+        <name>Food2Change</name>
+        <number>802501-4187</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+      </categories>
+      <web>https://www.food2change.se/</web>
+    </entry>
+    
+
     <entry number="1235597125">
       <organization>
         <name>Skärgårdsstiftelsen I Stockholms Län</name>
@@ -4278,6 +4581,20 @@
       <comment/>
       <categories/>
       <web>https://helamanniskan.se/falkoping/</web>
+    </entry>
+    
+
+    <entry number="1235763453">
+      <organization>
+        <name>Drakbergsskolan / Kannebäcks friskoleförening</name>
+        <number>857206-9568</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="friskola"/>
+        <category type="skola"/>
+      </categories>
+      <web>http://www.drakbergsskolan.se/</web>
     </entry>
     
 
@@ -5077,6 +5394,20 @@
       <comment/>
       <categories/>
       <web>https://www.hembygd.se/gillberga-lista</web>
+    </entry>
+    
+
+    <entry number="1236764203">
+      <organization>
+        <name>Föreningen Hjälp Utsatta Katter få Hem</name>
+        <number>802502-0671</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="katthem"/>
+        <category type="djurskydd"/>
+      </categories>
+      <web>https://www.hukh.se/</web>
     </entry>
     
 
