@@ -59,6 +59,17 @@ entries:
   - diabetes
   web: https://diabetesorg.se/
 
+- entry: 1230182063
+  orgName: Bälinge Ryttarförening
+  orgNumber: 817603-1568
+  comment: null
+  categories:
+  - hästsport
+  - förening
+  - ryttarförening
+  - ridklubb
+  web: http://www.balingerf.se/
+
 - entry: 1230184374
   orgName: Sandviks IK
   orgNumber: 894000-1558
@@ -115,6 +126,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/tingsryd/tingsas
 
+- entry: 1230240838
+  orgName: Svenska Reimpregnerings AB Lavtox
+  orgNumber: 556062-5021
+  comment: null
+  categories:
+  - träskyddsmedel
+  web: https://www.boracol.nu/
+
 - entry: 1230243188
   orgName: Angel Island Army, AIA
   orgNumber: 802510-0614
@@ -131,6 +150,17 @@ entries:
   - donation
   - utbildning
   web: https://www.togetherforbetter.se/
+
+- entry: 1230290213
+  orgName: Svenska Finnjolleförbundet
+  orgNumber: 802442-1219
+  comment: null
+  categories:
+  - finnjolle
+  - segling
+  - segelklubb
+  - förbund
+  web: https://www.finnjolle.se/
 
 - entry: 1230300657
   orgName: Pingstkyrkan Västra Frölunda
@@ -220,6 +250,15 @@ entries:
   categories:
   - stiftelse
   web: https://www.stralskyddsstiftelsen.se/
+
+- entry: 1230498436
+  orgName: Friskis & Svettis Vellinge
+  orgNumber: 847000-4733
+  comment: null
+  categories:
+  - gym§
+  - friskvård
+  web: https://www.friskissvettis.se/vellinge/
 
 - entry: 1230509182
   orgName: Nynäshamns Katthemsförening
@@ -434,6 +473,16 @@ entries:
   categories: null
   web: http://www.sandviksik.se/
 
+- entry: 1230916320
+  orgName: Insamlingsstiftelsen för Muskeldystrofiforskning
+  orgNumber: 822003-3552
+  comment: null
+  categories:
+  - muskeldystrofi
+  - donation
+  - forskning
+  web: https://www.smdf.se/
+
 - entry: 1230923334
   orgName: Frälsningsarmén i Skillingaryd
   orgNumber: 802006-1688
@@ -485,6 +534,13 @@ entries:
   categories:
   - djurskydd
   web: https://www.djurensvanner.se/vaxjo
+
+- entry: 1230993253
+  orgName: Himlabacken Skoter
+  orgNumber: 802440-1443
+  comment: null
+  categories: null
+  web: https://himlabackenskoter.se/
 
 - entry: 1231001601
   orgName: Rahmqvist Serama, Eric Rahmqvist AB
@@ -804,6 +860,16 @@ entries:
   categories:
   - museum
   web: https://www.hasseotagemuseet.se/
+
+- entry: 1231568229
+  orgName: Katthjälpen
+  orgNumber: 846502-5305
+  comment: null
+  categories:
+  - katthem
+  - djurskydd
+  - husdjur
+  web: http://katthjalpen.nu/
 
 - entry: 1231574268
   orgName: Skarpa Kvinns
@@ -1551,6 +1617,15 @@ entries:
   - religion
   web: null
 
+- entry: 1232881662
+  orgName: Samuelsson & Partner AB
+  orgNumber: 556943-9838
+  comment: null
+  categories:
+  - säkerhet
+  - lås
+  web: https://samuelssonpartner.se/
+
 - entry: 1232894830
   orgName: Brottsofferjouren Örebro Län
   orgNumber: 802430-4498
@@ -1640,6 +1715,15 @@ entries:
   - bordtennis
   - pingis
   web: http://www.dbtk.se/
+
+- entry: 1233139763
+  orgName: Båt & Byggnadsvård i Roslagen
+  orgNumber: 769612-9373
+  comment: null
+  categories:
+  - båtvård
+  - byggnadsvård
+  web: http://www.bbviroslagen.se/
 
 - entry: 1233143492
   orgName: Öxabäcks Fiskevårdsområdesförening
@@ -2204,6 +2288,18 @@ entries:
   - donation
   web: https://ftm-mission.org/
 
+- entry: 1234197026
+  orgName: Djurhemmet Tassebo / Stiftelsen Djurhemmet I Helsingborg
+  orgNumber: 843001-2776
+  comment: null
+  categories:
+  - stiftelse
+  - djurskydd
+  - katthem
+  - hundhem
+  - djurhem
+  web: http://djurhemmet-tassebo.se/
+
 - entry: 1234216891
   orgName: EFS - Evangeliska Fosterlandsstiftelsen
   orgNumber: 802000-8184
@@ -2572,6 +2668,15 @@ entries:
   - barnsjukvård
   web: https://clownkliniken.se/
 
+- entry: 1235148010
+  orgName: Älgskadefondsföreningen
+  orgNumber: 833200-4624
+  comment: null
+  categories:
+  - trafiksäkerhet
+  - skadeförening
+  web: https://www.algen.se/
+
 - entry: 1235161229
   orgName: Insamlingsstiftelsen Rewilding Europe - Sweden
   orgNumber: 802480-9967
@@ -2777,6 +2882,14 @@ entries:
   - 4h
   web: https://www.4h.se/hagelby/
 
+- entry: 1235442892
+  orgName: Nidingens Fågelstation
+  orgNumber: 857203-1725
+  comment: null
+  categories:
+  - fågelklubb
+  web: https://nidingen.gof.nu/
+
 - entry: 1235455407
   orgName: Djurens Vänner Nässjö
   orgNumber: 827000-8900
@@ -2784,6 +2897,14 @@ entries:
   categories:
   - djurskydd
   web: https://www.djurensvanner.se/nassjo
+
+- entry: 1235458013
+  orgName: Framnäs Hamnförening
+  orgNumber: 869000-7623
+  comment: null
+  categories:
+  - hamnförening
+  web: https://www.framnashamnen.se/
 
 - entry: 1235526215
   orgName: Huddinge Gymnastikförening
@@ -3112,6 +3233,15 @@ entries:
   - media
   web: https://nyadagbladet.se/
 
+- entry: 1236145056
+  orgName: Wattholma Golfklubb
+  orgNumber: 802445-6785
+  comment: null
+  categories:
+  - golf
+  - golfklubb
+  web: https://www.wattholmagk.se/
+
 - entry: 1236156558
   orgName: Brottsofferjouren Norra Dalarna
   orgNumber: 884402-0217
@@ -3126,6 +3256,15 @@ entries:
   categories:
   - insamlingskontroll
   web: http://www.berattarministeriet.se/
+
+- entry: 1236158935
+  orgName: Riksorganisationen UFO-Sverige
+  orgNumber: 879500-4004
+  comment: null
+  categories:
+  - intresseorganisation
+  - ufo
+  web: https://www.ufo.se/
 
 - entry: 1236161301
   orgName: Hillsong Church Sweden
@@ -3423,6 +3562,14 @@ entries:
   - djurskydd
   web: https://www.hukh.se/
 
+- entry: 1236773683
+  orgName: Liv i Sverige
+  orgNumber: 802010-5139
+  comment: null
+  categories:
+  - intresseorganisation
+  web: https://livisverige.org/
+
 - entry: 1236779300
   orgName: Himlen TV7 (Korsets Stöd R.F.)
   orgNumber: 802470-6767
@@ -3445,6 +3592,15 @@ entries:
   comment: null
   categories: null
   web: https://www.tyresoradion.se/
+
+- entry: 1236811707
+  orgName: Eskilstuna Sushi Bar / Spicy Soup AB
+  orgNumber: 559110-8625
+  comment: null
+  categories:
+  - restaurant
+  - sushi
+  web: https://www.eskilstunasushibar.se/
 
 - entry: 1236888416
   orgName: Brottsofferjouren Storgöteborg
