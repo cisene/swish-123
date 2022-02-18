@@ -97,15 +97,15 @@ def loadYamlIntoDb(filepath):
         cursor.execute(query)
         conn.commit()
 
-  if len(values_list) > 0:
-    vl = ",".join(values_list)
-    buffer.append(vl)
-    buffer.append(";")
-    query = "".join(buffer)
-    buffer = []
-    values_list = []
-    cursor.execute(query)
-    conn.commit()
+    if len(values_list) > 0:
+      vl = ",".join(values_list)
+      buffer.append(vl)
+      buffer.append(";")
+      query = "".join(buffer)
+      buffer = []
+      values_list = []
+      cursor.execute(query)
+      conn.commit()
 
   return
 
