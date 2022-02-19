@@ -1544,6 +1544,20 @@
     </entry>
     
 
+    <entry number="1231615608">
+      <organization>
+        <name>Sävarådalens Snöskoterklubb</name>
+        <number>894002-8791</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="skoterklubb"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://www.savarskoterklubb.se/</web>
+    </entry>
+    
+
     <entry number="1231616226">
       <organization>
         <name>Hundar Utan Hem</name>
@@ -3177,6 +3191,19 @@
     </entry>
     
 
+    <entry number="1233453610">
+      <organization>
+        <name>Musikföreningen Garaget</name>
+        <number>802432-2045</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+      </categories>
+      <web>http://blog.kulturgaraget.se/</web>
+    </entry>
+    
+
     <entry number="1233456399">
       <organization>
         <name>Skärgårdsstiftelsen I Stockholms Län</name>
@@ -3307,6 +3334,20 @@
       <comment/>
       <categories/>
       <web>https://klaramarie.se/</web>
+    </entry>
+    
+
+    <entry number="1233567344">
+      <organization>
+        <name>Burmaklubben</name>
+        <number>802406-8184</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kattklubb"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://burmaklubben.com/</web>
     </entry>
     
 
@@ -3583,6 +3624,20 @@
     </entry>
     
 
+    <entry number="1233907292">
+      <organization>
+        <name>Föreningen för Höörs Hemlösa Katter</name>
+        <number>802462-7765</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="katthem"/>
+        <category type="djurskydd"/>
+      </categories>
+      <web>https://fhhk.se/</web>
+    </entry>
+    
+
     <entry number="1233908522">
       <organization>
         <name>Kils Hästcenter Hannäs (KHH)</name>
@@ -3783,6 +3838,20 @@
         <category type="sportfiske"/>
       </categories>
       <web>https://www.sjulsmarks-skoterfiske.se/</web>
+    </entry>
+    
+
+    <entry number="1234133484">
+      <organization>
+        <name>Grundfors Byaförening</name>
+        <number>895401-2202</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+        <category type="förening"/>
+      </categories>
+      <web>http://grundfors.com/</web>
     </entry>
     
 
@@ -4202,6 +4271,20 @@
     </entry>
     
 
+    <entry number="1234627238">
+      <organization>
+        <name>Teaterkören</name>
+        <number>802412-6883</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kör"/>
+        <category type="teater"/>
+      </categories>
+      <web>https://teaterkoren.se/</web>
+    </entry>
+    
+
     <entry number="1234629143">
       <organization>
         <name>Miljömagasinet Alternativet Aktiebolag</name>
@@ -4286,6 +4369,20 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>http://www.intactsvanner.com/</web>
+    </entry>
+    
+
+    <entry number="1234819769">
+      <organization>
+        <name>Partille Golfklubb</name>
+        <number>863500-4255</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="golfklubb"/>
+        <category type="golf"/>
+      </categories>
+      <web>https://www.partillegk.se/</web>
     </entry>
     
 
@@ -4542,6 +4639,21 @@
       <comment/>
       <categories/>
       <web>https://www.brottsofferjouren.se/</web>
+    </entry>
+    
+
+    <entry number="1235190467">
+      <organization>
+        <name>Beso Ur &amp; Antik AB</name>
+        <number>556184-6089</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="urmakeri"/>
+        <category type="klockor"/>
+        <category type="reparationer"/>
+      </categories>
+      <web>http://www.besour.se/</web>
     </entry>
     
 

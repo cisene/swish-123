@@ -982,6 +982,15 @@ entries:
   categories: null
   web: https://kattcenter.se/
 
+- entry: 1231615608
+  orgName: Sävarådalens Snöskoterklubb
+  orgNumber: 894002-8791
+  comment: null
+  categories:
+  - skoterklubb
+  - förening
+  web: https://www.savarskoterklubb.se/
+
 - entry: 1231616226
   orgName: Hundar Utan Hem
   orgNumber: 802432-7630
@@ -2015,6 +2024,14 @@ entries:
   categories: null
   web: https://idrottonline.se/AspebodaRidklubb-Ridsport/
 
+- entry: 1233453610
+  orgName: Musikföreningen Garaget
+  orgNumber: 802432-2045
+  comment: null
+  categories:
+  - förening
+  web: http://blog.kulturgaraget.se/
+
 - entry: 1233456399
   orgName: Skärgårdsstiftelsen I Stockholms Län
   orgNumber: 802405-0216
@@ -2098,6 +2115,15 @@ entries:
   comment: null
   categories: null
   web: https://klaramarie.se/
+
+- entry: 1233567344
+  orgName: Burmaklubben
+  orgNumber: 802406-8184
+  comment: null
+  categories:
+  - kattklubb
+  - förening
+  web: https://burmaklubben.com/
 
 - entry: 1233575842
   orgName: Boden Hockey AB
@@ -2271,6 +2297,15 @@ entries:
   - supporterklubb
   web: http://www.whitelions.se/
 
+- entry: 1233907292
+  orgName: Föreningen för Höörs Hemlösa Katter
+  orgNumber: 802462-7765
+  comment: null
+  categories:
+  - katthem
+  - djurskydd
+  web: https://fhhk.se/
+
 - entry: 1233908522
   orgName: Kils Hästcenter Hannäs (KHH)
   orgNumber: 802476-0764
@@ -2398,6 +2433,15 @@ entries:
   - fiskeklubb
   - sportfiske
   web: https://www.sjulsmarks-skoterfiske.se/
+
+- entry: 1234133484
+  orgName: Grundfors Byaförening
+  orgNumber: 895401-2202
+  comment: null
+  categories:
+  - hembygdsförening
+  - förening
+  web: http://grundfors.com/
 
 - entry: 1234138210
   orgName: Rossöns Fiskevårdsområdesförening
@@ -2661,6 +2705,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/SkeneIF/
 
+- entry: 1234627238
+  orgName: Teaterkören
+  orgNumber: 802412-6883
+  comment: null
+  categories:
+  - kör
+  - teater
+  web: https://teaterkoren.se/
+
 - entry: 1234629143
   orgName: Miljömagasinet Alternativet Aktiebolag
   orgNumber: 556455-7774
@@ -2715,6 +2768,15 @@ entries:
   categories:
   - insamlingskontroll
   web: http://www.intactsvanner.com/
+
+- entry: 1234819769
+  orgName: Partille Golfklubb
+  orgNumber: 863500-4255
+  comment: null
+  categories:
+  - golfklubb
+  - golf
+  web: https://www.partillegk.se/
 
 - entry: 1234937587
   orgName: Svenska Heinrich Schütz-sällskapet
@@ -2876,6 +2938,16 @@ entries:
   comment: null
   categories: null
   web: https://www.brottsofferjouren.se/
+
+- entry: 1235190467
+  orgName: Beso Ur & Antik AB
+  orgNumber: 556184-6089
+  comment: null
+  categories:
+  - urmakeri
+  - klockor
+  - reparationer
+  web: http://www.besour.se/
 
 - entry: 1235215520
   orgName: RenOptik
