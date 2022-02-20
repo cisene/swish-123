@@ -14,6 +14,34 @@
     </entry>
     
 
+    <entry number="1230020289">
+      <organization>
+        <name>Föreningen Gagnefs Bio</name>
+        <number>802522-4927</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="biograf"/>
+      </categories>
+      <web>https://gagnefsbio.se/</web>
+    </entry>
+    
+
+    <entry number="1230053587">
+      <organization>
+        <name>Åstorpsortens RF - Ridsport</name>
+        <number>837600-2245</number>
+      </organization>
+      <comment>Tävling</comment>
+      <categories>
+        <category type="ridklubb"/>
+        <category type="hästsport"/>
+      </categories>
+      <web>https://www.astorprf.nu/</web>
+    </entry>
+    
+
     <entry number="1230064006">
       <organization>
         <name>Nya Scandinavia SSB Club Sweden</name>
@@ -490,6 +518,19 @@
     </entry>
     
 
+    <entry number="1230561621">
+      <organization>
+        <name>Pantbanken Trollhättan</name>
+        <number>556548-0406</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="pantbank"/>
+      </categories>
+      <web>https://panta.nu/</web>
+    </entry>
+    
+
     <entry number="1230610824">
       <organization>
         <name>Fasching</name>
@@ -649,6 +690,20 @@
         <category type="curling"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
+    </entry>
+    
+
+    <entry number="1230779447">
+      <organization>
+        <name>Ljungskileortens Hembygdsförening</name>
+        <number>858500-5393</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://www.ljungskileorten.se/</web>
     </entry>
     
 
@@ -854,6 +909,20 @@
     </entry>
     
 
+    <entry number="1230927400">
+      <organization>
+        <name>Mandorla Spa / Danijel Bajric</name>
+        <number>870719-XXXX</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="spa"/>
+        <category type="massage"/>
+      </categories>
+      <web>https://www.mandorla.se/</web>
+    </entry>
+    
+
     <entry number="1230928366">
       <organization>
         <name>Ragunda Skoterklubb</name>
@@ -1022,6 +1091,21 @@
     </entry>
     
 
+    <entry number="1231134840">
+      <organization>
+        <name>Brunnsbo Musikklassförening</name>
+        <number>857205-6045</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseorganisation"/>
+        <category type="musik"/>
+        <category type="sång"/>
+      </categories>
+      <web>https://brunnsbomusikklasser.wordpress.com/</web>
+    </entry>
+    
+
     <entry number="1231137603">
       <organization>
         <name>Friskis &amp; Svettis Säffle</name>
@@ -1062,6 +1146,34 @@
     </entry>
     
 
+    <entry number="1231154764">
+      <organization>
+        <name>Östergötlands Fjordhästförening</name>
+        <number>802442-2332</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hästsport"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://www.ostergotlandsfjord.eu/</web>
+    </entry>
+    
+
+    <entry number="1231155811">
+      <organization>
+        <name>Amningshjälpen</name>
+        <number>813200-2737</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="amningshjälp"/>
+        <category type="donation"/>
+      </categories>
+      <web>https://www.amningshjalpen.se/</web>
+    </entry>
+    
+
     <entry number="1231161330">
       <organization>
         <name>Djurens Vänner Karlshamn</name>
@@ -1072,6 +1184,19 @@
         <category type="djurskydd"/>
       </categories>
       <web>https://www.djurensvanner.se/karlshamn</web>
+    </entry>
+    
+
+    <entry number="1231169630">
+      <organization>
+        <name>Sundbergs Busstrafik AB</name>
+        <number>559082-7084</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="busstrafik"/>
+      </categories>
+      <web>http://www.sundbergsbuss.se/</web>
     </entry>
     
 
@@ -1113,6 +1238,35 @@
         <category type="religion"/>
       </categories>
       <web>https://www.brannkyrka.org/</web>
+    </entry>
+    
+
+    <entry number="1231222751">
+      <organization>
+        <name>LG-Produkter AB</name>
+        <number>556339-2769</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurvård"/>
+        <category type="stallutrustrning"/>
+        <category type="ladugårdsutrustning"/>
+      </categories>
+      <web>https://www.lgprodukter.se/</web>
+    </entry>
+    
+
+    <entry number="1231224666">
+      <organization>
+        <name>Mälarbadens Golfklubb</name>
+        <number>818001-2844</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="golfklubb"/>
+        <category type="golf"/>
+      </categories>
+      <web>https://www.malarbadensgk.se/</web>
     </entry>
     
 
@@ -1324,6 +1478,35 @@
       <comment/>
       <categories/>
       <web>https://kallkritikbyran.se/</web>
+    </entry>
+    
+
+    <entry number="1231451103">
+      <organization>
+        <name>Trollhättans Kattsluss</name>
+        <number>863001-0810</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseorganisation"/>
+        <category type="katthem"/>
+        <category type="djurskydd"/>
+      </categories>
+      <web>http://www.kattslussen.se/</web>
+    </entry>
+    
+
+    <entry number="1231452119">
+      <organization>
+        <name>Bergs Lås AB</name>
+        <number>556148-0970</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="lås"/>
+        <category type="säkerhet"/>
+      </categories>
+      <web>https://www.bergslas.se/</web>
     </entry>
     
 
@@ -2114,6 +2297,21 @@
     </entry>
     
 
+    <entry number="1232182590">
+      <organization>
+        <name>Heliga Hjärtas Kloster / Mariadättrarna OSB</name>
+        <number>824000-1035</number>
+      </organization>
+      <comment>gåvor till klostret</comment>
+      <categories>
+        <category type="religion"/>
+        <category type="kloster"/>
+        <category type="donation"/>
+      </categories>
+      <web>https://heligahjartaskloster.se/</web>
+    </entry>
+    
+
     <entry number="1232193811">
       <organization>
         <name>Linköpings Moskéstiftelse</name>
@@ -2229,6 +2427,20 @@
         <category type="supporterklubb"/>
       </categories>
       <web>http://aia.nu/</web>
+    </entry>
+    
+
+    <entry number="1232285021">
+      <organization>
+        <name>Pingstförsamlingen I Trollhättan</name>
+        <number>8559009389</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+        <category type="donation"/>
+      </categories>
+      <web>https://www.trollhattanpingst.se/</web>
     </entry>
     
 
@@ -2837,6 +3049,20 @@
     </entry>
     
 
+    <entry number="1233052230">
+      <organization>
+        <name>Svenska Livräddningssällskapet</name>
+        <number>802004-9683</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="livräddning"/>
+        <category type="simkunnighet"/>
+      </categories>
+      <web>https://svenskalivraddningssallskapet.se/</web>
+    </entry>
+    
+
     <entry number="1233054525">
       <organization>
         <name>Falu Vildvattenpark</name>
@@ -2859,6 +3085,20 @@
       <comment/>
       <categories/>
       <web>https://flammor.com/</web>
+    </entry>
+    
+
+    <entry number="1233059953">
+      <organization>
+        <name>WT-Metall Norden AB</name>
+        <number>556788-3789</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundkärror"/>
+        <category type="hundburar"/>
+      </categories>
+      <web>https://www.wtmetall.se/</web>
     </entry>
     
 
@@ -2915,6 +3155,20 @@
     </entry>
     
 
+    <entry number="1233149408">
+      <organization>
+        <name>Tidaholms Pensionärers Bowlingklubb</name>
+        <number>802505-6444</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="pensionärsklubb"/>
+        <category type="bowling"/>
+      </categories>
+      <web>https://ulfwetterstrand.wixsite.com/tpbk/</web>
+    </entry>
+    
+
     <entry number="1233170289">
       <organization>
         <name>Hembygdsföreningen Noraskog</name>
@@ -2936,6 +3190,19 @@
         <category type="reiki"/>
       </categories>
       <web>https://secourong.com/</web>
+    </entry>
+    
+
+    <entry number="1233214327">
+      <organization>
+        <name>Elsas Blommor i Östercentrum</name>
+        <number>559042-8024</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="blommor"/>
+      </categories>
+      <web>https://www.elsasblommor.se/</web>
     </entry>
     
 
@@ -3016,6 +3283,20 @@
     </entry>
     
 
+    <entry number="1233266756">
+      <organization>
+        <name>Svenska Newfoundlandshundklubben</name>
+        <number>802468-3149</number>
+      </organization>
+      <comment>Södra</comment>
+      <categories>
+        <category type="hundsport"/>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://snkinfo.wordpress.com/</web>
+    </entry>
+    
+
     <entry number="1233268257">
       <organization>
         <name>Finspångs Solvärme AB</name>
@@ -3086,6 +3367,20 @@
     </entry>
     
 
+    <entry number="1233349594">
+      <organization>
+        <name>Eskilstuna Pistolskytteklubb</name>
+        <number>818000-5392</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="pistolskytteklubb"/>
+        <category type="skytte"/>
+      </categories>
+      <web>https://eskilstuna-epk.com/</web>
+    </entry>
+    
+
     <entry number="1233352309">
       <organization>
         <name>Ystads IF FF</name>
@@ -3153,6 +3448,20 @@
         <category type="lokaltidning"/>
       </categories>
       <web>https://www.markbladet.se/</web>
+    </entry>
+    
+
+    <entry number="1233431483">
+      <organization>
+        <name>Skövde HYRTEC AB</name>
+        <number>559061-6578</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hyrsläp"/>
+        <category type="släpvagnar"/>
+      </categories>
+      <web>https://hyrtec.com/</web>
     </entry>
     
 
@@ -3287,6 +3596,20 @@
     </entry>
     
 
+    <entry number="1233514312">
+      <organization>
+        <name>Iggesunds IK</name>
+        <number>887500-9295</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://www.iggesundsik.se/</web>
+    </entry>
+    
+
     <entry number="1233517844">
       <organization>
         <name>Hillsong Church Sweden</name>
@@ -3299,6 +3622,21 @@
         <category type="donation"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
+    </entry>
+    
+
+    <entry number="1233527835">
+      <organization>
+        <name>Skärgårdens Trafikantförening</name>
+        <number>802004-6952</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="trafikantförening"/>
+        <category type="skärgård"/>
+      </categories>
+      <web>http://www.skargardstrafikanten.se/</web>
     </entry>
     
 
@@ -3624,6 +3962,33 @@
     </entry>
     
 
+    <entry number="1233894508">
+      <organization>
+        <name>Pantbanken Vänersborg</name>
+        <number>556548-0406</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="pantbank"/>
+      </categories>
+      <web>https://panta.nu/</web>
+    </entry>
+    
+
+    <entry number="1233907268">
+      <organization>
+        <name>Hundens Hus AB</name>
+        <number>556797-5254</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundsport"/>
+        <category type="hundkurser"/>
+      </categories>
+      <web>https://stockholm.hundenshus.se/</web>
+    </entry>
+    
+
     <entry number="1233907292">
       <organization>
         <name>Föreningen för Höörs Hemlösa Katter</name>
@@ -3710,6 +4075,20 @@
     </entry>
     
 
+    <entry number="1233969789">
+      <organization>
+        <name>Heliga Hjärtas Kloster / Mariadättrarna OSB</name>
+        <number>824000-1035</number>
+      </organization>
+      <comment>köp i boden</comment>
+      <categories>
+        <category type="religion"/>
+        <category type="kloster"/>
+      </categories>
+      <web>https://heligahjartaskloster.se/</web>
+    </entry>
+    
+
     <entry number="1233987427">
       <organization>
         <name>KIV - Konstvetenskapliga Institutionens Vänner i Uppsala</name>
@@ -3731,6 +4110,19 @@
         <category type="donation"/>
       </categories>
       <web>https://vhek.se/</web>
+    </entry>
+    
+
+    <entry number="1234016986">
+      <organization>
+        <name>Torups Pistolklubb</name>
+        <number>802497-4944</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="pistolskytteklubb"/>
+      </categories>
+      <web>http://www.torupspistolklubb.org/</web>
     </entry>
     
 
@@ -3826,6 +4218,20 @@
     </entry>
     
 
+    <entry number="1234101572">
+      <organization>
+        <name>Vännäs Brukshundklubb</name>
+        <number>894002-7827</number>
+      </organization>
+      <comment>Kurser</comment>
+      <categories>
+        <category type="brukshundsklubb"/>
+        <category type="hundsport"/>
+      </categories>
+      <web>http://vannasbhk.weebly.com/</web>
+    </entry>
+    
+
     <entry number="1234105698">
       <organization>
         <name>Sjulsmarks Skoter Och Fiskevårdsförening</name>
@@ -3852,6 +4258,20 @@
         <category type="förening"/>
       </categories>
       <web>http://grundfors.com/</web>
+    </entry>
+    
+
+    <entry number="1234133682">
+      <organization>
+        <name>Vännäs Brukshundklubb</name>
+        <number>894002-7827</number>
+      </organization>
+      <comment>Fika</comment>
+      <categories>
+        <category type="brukshundsklubb"/>
+        <category type="hundsport"/>
+      </categories>
+      <web>http://vannasbhk.weebly.com/</web>
     </entry>
     
 
@@ -3935,6 +4355,19 @@
     </entry>
     
 
+    <entry number="1234218129">
+      <organization>
+        <name>Finspångs Missionsförsamling</name>
+        <number>825000-0919</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://missionskyrkanfinspang.se/</web>
+    </entry>
+    
+
     <entry number="1234248183">
       <organization>
         <name>Boden Handboll IF</name>
@@ -3995,6 +4428,34 @@
       <comment/>
       <categories/>
       <web>https://helamanniskan.se/jonkoping/</web>
+    </entry>
+    
+
+    <entry number="1234279618">
+      <organization>
+        <name>Svenska Newfoundlandshundklubben</name>
+        <number>802468-3149</number>
+      </organization>
+      <comment>HS</comment>
+      <categories>
+        <category type="hundsport"/>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://snkinfo.wordpress.com/</web>
+    </entry>
+    
+
+    <entry number="1234300521">
+      <organization>
+        <name>Vännäs Brukshundklubb</name>
+        <number>894002-7827</number>
+      </organization>
+      <comment>Tävlingar</comment>
+      <categories>
+        <category type="brukshundsklubb"/>
+        <category type="hundsport"/>
+      </categories>
+      <web>http://vannasbhk.weebly.com/</web>
     </entry>
     
 
@@ -4083,6 +4544,20 @@
     </entry>
     
 
+    <entry number="1234391983">
+      <organization>
+        <name>Vasatorps Golfklubb</name>
+        <number>843000-7990</number>
+      </organization>
+      <comment>Restaurang/Kiosk</comment>
+      <categories>
+        <category type="golfklubb"/>
+        <category type="golf"/>
+      </categories>
+      <web>https://www.vasatorp.golf/</web>
+    </entry>
+    
+
     <entry number="1234396305">
       <organization>
         <name>Länsföreningen Hjärnkoll Västerbotten</name>
@@ -4093,6 +4568,34 @@
         <category type="donation"/>
       </categories>
       <web>https://hjarnkollvasterbotten.se/</web>
+    </entry>
+    
+
+    <entry number="1234407748">
+      <organization>
+        <name>Åstorpsortens RF - Ridsport</name>
+        <number>837600-2245</number>
+      </organization>
+      <comment>Träning</comment>
+      <categories>
+        <category type="ridklubb"/>
+        <category type="hästsport"/>
+      </categories>
+      <web>https://www.astorprf.nu/</web>
+    </entry>
+    
+
+    <entry number="1234407755">
+      <organization>
+        <name>Mölndals Bildemontering AB</name>
+        <number>556305-5481</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bildelar"/>
+        <category type="bildemontering"/>
+      </categories>
+      <web>https://www.molndalsbildemo.se/</web>
     </entry>
     
 
@@ -4158,6 +4661,20 @@
         <category type="orkester"/>
       </categories>
       <web>https://mickeahlgrens.se/</web>
+    </entry>
+    
+
+    <entry number="1234489324">
+      <organization>
+        <name>Marknadsföreningen i Halland MiH</name>
+        <number>802457-5915</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="marknadsföring"/>
+        <category type="näringsliv"/>
+      </categories>
+      <web>https://mih.nu/</web>
     </entry>
     
 
@@ -4296,6 +4813,21 @@
     </entry>
     
 
+    <entry number="1234640686">
+      <organization>
+        <name>Romfartuna Ved AB</name>
+        <number>556926-6132</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="ved"/>
+        <category type="björkved"/>
+        <category type="bränsle"/>
+      </categories>
+      <web>https://www.romfartunaved.se/</web>
+    </entry>
+    
+
     <entry number="1234643565">
       <organization>
         <name>Brännkyrka Församling</name>
@@ -4359,6 +4891,20 @@
     </entry>
     
 
+    <entry number="1234778650">
+      <organization>
+        <name>Soldathemmet / Stiftelsen Sällskapet Hälsinge regemente</name>
+        <number>885001-7230</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="stiftelse"/>
+        <category type="intresseorganisation"/>
+      </categories>
+      <web>http://www.soldathemmet.se/</web>
+    </entry>
+    
+
     <entry number="1234795613">
       <organization>
         <name>Intacts Vänner</name>
@@ -4383,6 +4929,20 @@
         <category type="golf"/>
       </categories>
       <web>https://www.partillegk.se/</web>
+    </entry>
+    
+
+    <entry number="1234894598">
+      <organization>
+        <name>Sönner och Mellantjärns FVOF</name>
+        <number>802502-6975</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fiskeklubb"/>
+        <category type="friskvård"/>
+      </categories>
+      <web>https://www.facebook.com/mellantjarn/</web>
     </entry>
     
 
@@ -4453,6 +5013,37 @@
       <comment/>
       <categories/>
       <web>https://www.pbk-gbg.se/</web>
+    </entry>
+    
+
+    <entry number="1235024658">
+      <organization>
+        <name>Atracco AB</name>
+        <number>556130-4519</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bildelar"/>
+        <category type="reservdelar"/>
+        <category type="bilvård"/>
+      </categories>
+      <web>http://www.bildelonline.se/</web>
+    </entry>
+    
+
+    <entry number="1235026794">
+      <organization>
+        <name>Sparrens Natur- och vattenvårdsförening</name>
+        <number>802516-4552</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseorganisation"/>
+        <category type="förening"/>
+        <category type="vattenvård"/>
+        <category type="naturvård"/>
+      </categories>
+      <web>http://sparren.net/</web>
     </entry>
     
 
@@ -4541,6 +5132,19 @@
     </entry>
     
 
+    <entry number="1235100128">
+      <organization>
+        <name>Pantbanken Skövde</name>
+        <number>556548-0406</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="pantbank"/>
+      </categories>
+      <web>https://panta.nu/</web>
+    </entry>
+    
+
     <entry number="1235111349">
       <organization>
         <name>Equmeniakyrkan Gråbo</name>
@@ -4579,6 +5183,20 @@
         <category type="förbund"/>
       </categories>
       <web>https://speleo.se/</web>
+    </entry>
+    
+
+    <entry number="1235118542">
+      <organization>
+        <name>Solanderföreningen</name>
+        <number>898801-2723</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="intresseorganisation"/>
+      </categories>
+      <web>https://danielsolander.se/</web>
     </entry>
     
 
@@ -4628,6 +5246,20 @@
       <comment/>
       <categories/>
       <web>https://www.brottsofferjouren.se/</web>
+    </entry>
+    
+
+    <entry number="1235188438">
+      <organization>
+        <name>Nordvästran - Flygbladet / Hans-Göran Björk</name>
+        <number/>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="lokaltidning"/>
+        <category type="annonsblad"/>
+      </categories>
+      <web>https://www.nordvastran.se/</web>
     </entry>
     
 
@@ -4807,6 +5439,19 @@
     </entry>
     
 
+    <entry number="1235331913">
+      <organization>
+        <name>Rönås Byakrog AB</name>
+        <number>556880-4636</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="restaurant"/>
+      </categories>
+      <web>https://www.ronasbyakrog.com/</web>
+    </entry>
+    
+
     <entry number="1235332846">
       <organization>
         <name>Grottans blommor</name>
@@ -4947,6 +5592,20 @@
         <category type="sportfiske"/>
       </categories>
       <web>https://dellenbygdens-fvo.se/</web>
+    </entry>
+    
+
+    <entry number="1235422654">
+      <organization>
+        <name>Vasatorps Golfklubb</name>
+        <number>843000-7990</number>
+      </organization>
+      <comment>Reception/Shop/Greenfee</comment>
+      <categories>
+        <category type="golfklubb"/>
+        <category type="golf"/>
+      </categories>
+      <web>https://www.vasatorp.golf/</web>
     </entry>
     
 
@@ -5151,6 +5810,20 @@
     </entry>
     
 
+    <entry number="1235691365">
+      <organization>
+        <name>Radio Haninge Direkt!</name>
+        <number>802410-2405</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="lokalradio"/>
+        <category type="närradiostation"/>
+      </categories>
+      <web>http://www.radiohaninge.se/</web>
+    </entry>
+    
+
     <entry number="1235731021">
       <organization>
         <name>FMK Tre Vapen</name>
@@ -5226,6 +5899,20 @@
         <category type="charity"/>
       </categories>
       <web>https://korskyrkanumea.se/</web>
+    </entry>
+    
+
+    <entry number="1235801105">
+      <organization>
+        <name>Bullaregårdens Byggnadsförening</name>
+        <number>855900-4356</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="byggnadsförening"/>
+      </categories>
+      <web>https://bullaregarden.webnode.se/</web>
     </entry>
     
 
@@ -5476,6 +6163,22 @@
     </entry>
     
 
+    <entry number="1236095871">
+      <organization>
+        <name>Eskilstuna Djurskyddsförening och Kälby Djurhem</name>
+        <number>818000-5913</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurskydd"/>
+        <category type="katthem"/>
+        <category type="hundhem"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://www.djurskyddet-eskilstuna.se/</web>
+    </entry>
+    
+
     <entry number="1236096333">
       <organization>
         <name>Örebro Klätterklubb</name>
@@ -5512,6 +6215,34 @@
         <category type="media"/>
       </categories>
       <web>https://nyadagbladet.se/</web>
+    </entry>
+    
+
+    <entry number="1236120901">
+      <organization>
+        <name>Cleos Tarot / Angelina Elander</name>
+        <number>700116-XXXX</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="tarot"/>
+        <category type="spådomar"/>
+      </categories>
+      <web>https://cleostarot.wordpress.com/</web>
+    </entry>
+    
+
+    <entry number="1236127120">
+      <organization>
+        <name>Svenska Newfoundlandshundklubben</name>
+        <number>802468-3149</number>
+      </organization>
+      <comment>Östra</comment>
+      <categories>
+        <category type="hundsport"/>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://snkinfo.wordpress.com/</web>
     </entry>
     
 
@@ -5942,6 +6673,20 @@
     </entry>
     
 
+    <entry number="1236613368">
+      <organization>
+        <name>Andras Novak instrumentmakare AB</name>
+        <number>559266-5771</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="instrument"/>
+        <category type="reparationer"/>
+      </categories>
+      <web>https://www.andrasnovak.se/</web>
+    </entry>
+    
+
     <entry number="1236620215">
       <organization>
         <name>Lillöringen Fiskeklubb</name>
@@ -6170,6 +6915,20 @@
     </entry>
     
 
+    <entry number="1236917892">
+      <organization>
+        <name>Kiruna Brukshundklubb</name>
+        <number>897300-3109</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="brukshundsklubb"/>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://kirunabhk.wordpress.com/</web>
+    </entry>
+    
+
     <entry number="1236918064">
       <organization>
         <name>Almundsryds Församling</name>
@@ -6191,6 +6950,20 @@
       <comment>Träning</comment>
       <categories/>
       <web>https://www.piteaifok.se/</web>
+    </entry>
+    
+
+    <entry number="1236947279">
+      <organization>
+        <name>Djurens Chans</name>
+        <number>802453-4037</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurskydd"/>
+        <category type="intresseorganisation"/>
+      </categories>
+      <web>https://www.djurenschans.se/</web>
     </entry>
     
 
