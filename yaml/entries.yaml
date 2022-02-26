@@ -913,6 +913,16 @@ entries:
   - sång
   web: https://brunnsbomusikklasser.wordpress.com/
 
+- entry: 1231137520
+  orgName: Lillpite Fiske Fiskevårdsförening
+  orgNumber: 898800-8762
+  comment: null
+  categories:
+  - fiskekort
+  - fiskevård
+  - sportfiske
+  web: https://lillpitefiske.se/
+
 - entry: 1231137603
   orgName: Friskis & Svettis Säffle
   orgNumber: 874400-8494
@@ -921,6 +931,15 @@ entries:
   - health
   - membership-fee
   web: https://www.friskissvettis.se/saffle
+
+- entry: 1231146596
+  orgName: Islandshästföreningen Glaumur - Islandshäst
+  orgNumber: 874001-8117
+  comment: null
+  categories:
+  - hästsport
+  - ryttarförening
+  web: https://www.glaumur.se/
 
 - entry: 1231148410
   orgName: Sjulsmarks Skoter Och Fiskevårdsförening
@@ -1015,6 +1034,15 @@ entries:
   - hundklubb
   - hundsport
   web: http://www.aktivahundar.org/
+
+- entry: 1231222496
+  orgName: Sveriges Kaninvälfärdsförening
+  orgNumber: 802496-4655
+  comment: null
+  categories:
+  - djurvård
+  - husdjur
+  web: https://skvf.se/
 
 - entry: 1231222751
   orgName: LG-Produkter AB
@@ -1744,6 +1772,15 @@ entries:
   categories: null
   web: https://skargardsstiftelsen.se/
 
+- entry: 1231979434
+  orgName: Vinslövs IF
+  orgNumber: 837000-2928
+  comment: null
+  categories:
+  - fotboll
+  - idrottsförening
+  web: https://vinslovsif.sportadmin.se/
+
 - entry: 1231988302
   orgName: Hela Människan Jönköping
   orgNumber: 826000-6625
@@ -1827,6 +1864,14 @@ entries:
   categories:
   - insamlingskontroll
   web: http://www.socialamissionen.se/
+
+- entry: 1232039543
+  orgName: Levande Önneköp
+  orgNumber: 802520-2675
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.levandeonnekop.se/
 
 - entry: 1232041044
   orgName: Elektronikföreningen Admittansen
@@ -2611,6 +2656,14 @@ entries:
   - djurskydd
   web: https://hundarutanhem.se/
 
+- entry: 1233031168
+  orgName: Föreningen M 20
+  orgNumber: 802428-4088
+  comment: null
+  categories:
+  - intresseförening
+  web: https://minsveparen.se/
+
 - entry: 1233031887
   orgName: Pingst Vaggeryd
   orgNumber: 828000-0467
@@ -2864,6 +2917,16 @@ entries:
   - religion
   web: https://www.brannkyrka.org/
 
+- entry: 1233276862
+  orgName: Borgeby Fotbollsklubb
+  orgNumber: 846002-5276
+  comment: null
+  categories:
+  - fotboll
+  - fotbollsklubb
+  - idrottsförening
+  web: http://www.borgebyfk.se/
+
 - entry: 1233278561
   orgName: Svensk Förening för Socialmedicin och Folkhälsa
   orgNumber: 817600-8889
@@ -2939,6 +3002,15 @@ entries:
   categories: null
   web: http://www.berget.se/
 
+- entry: 1233377447
+  orgName: Svenska Psykoanalytiska Föreningen
+  orgNumber: 802002-7317
+  comment: null
+  categories:
+  - mentalhälsa
+  - psykoanalys
+  web: https://www.psykoanalys.se/
+
 - entry: 1233378015
   orgName: IFS Centrala Stockholm
   orgNumber: 802400-8701
@@ -2971,6 +3043,14 @@ entries:
   categories:
   - lokaltidning
   web: https://www.markbladet.se/
+
+- entry: 1233409380
+  orgName: Zambian Association for Sustainable Projects, ZASP
+  orgNumber: 874001-5865
+  comment: null
+  categories:
+  - humanitär hjälpverksamhet
+  web: https://zasp.se/
 
 - entry: 1233431483
   orgName: Skövde HYRTEC AB
@@ -3033,6 +3113,15 @@ entries:
   - donation
   web: https://www.pingstlidkoping.se/
 
+- entry: 1233467545
+  orgName: Malmö Floorball Club
+  orgNumber: 802439-1164
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandy
+  web: https://www.malmofbc.se/
+
 - entry: 1233474350
   orgName: Växjöortens Folkdanslag
   orgNumber: 829501-9627
@@ -3044,7 +3133,7 @@ entries:
   web: https://www.vaxjofolkdans.se/
 
 - entry: 1233505278
-  orgName: Femörefortet
+  orgName: Föreningen Femörefortet
   orgNumber: 802422-8424
   comment: null
   categories:
@@ -3860,6 +3949,15 @@ entries:
   - sports
   web: https://www.curlingklubben.se/
 
+- entry: 1234425708
+  orgName: Skaraborgs Godman och Förvaltarförening
+  orgNumber: 802419-1887
+  comment: null
+  categories:
+  - förening
+  - godman
+  web: https://godmaniskaraborg.webnode.se/
+
 - entry: 1234432548
   orgName: Hammarby IF Ishockeyförening
   orgNumber: 802442-1623
@@ -4079,6 +4177,15 @@ entries:
   categories: null
   web: http://www.animalprotection.se/
 
+- entry: 1234673380
+  orgName: Höviksnäs Båtförening
+  orgNumber: 857209-9243
+  comment: null
+  categories:
+  - båtklubb
+  - båtvård
+  web: http://www.hovik.se/
+
 - entry: 1234718177
   orgName: Skövdehem Arena AB / Billingen Skövde
   orgNumber: 559158-2290
@@ -4208,6 +4315,15 @@ entries:
   comment: null
   categories: null
   web: https://www.pbk-gbg.se/
+
+- entry: 1235009519
+  orgName: Göta Bollklubb
+  orgNumber: 863000-5299
+  comment: null
+  categories:
+  - fotboll
+  - idrottsförening
+  web: https://www.svenskalag.se/gotabk
 
 - entry: 1235013727
   orgName: Sollerö Sockenförening
@@ -5044,6 +5160,14 @@ entries:
   categories: null
   web: https://dcl.se/
 
+- entry: 1235809066
+  orgName: Gymmet i Vissefjärda / Vissefjärda Samhällsförening
+  orgNumber: 832401-8145
+  comment: null
+  categories:
+  - hembygdsförening
+  web: http://gymmet.org/
+
 - entry: 1235820105
   orgName: Burundi-hjälpen
   orgNumber: 802439-8797
@@ -5059,6 +5183,14 @@ entries:
   - curling
   - sports
   web: https://www.curlingklubben.se/
+
+- entry: 1235867619
+  orgName: Enköpings Biodlare
+  orgNumber: 810607-0822
+  comment: null
+  categories:
+  - biodling
+  web: http://enkopingsbiodlare.se/
 
 - entry: 1235883905
   orgName: Mariedalskyrkan Equmeniakyrkan
@@ -5108,6 +5240,15 @@ entries:
   - cancer
   - healthcare
   web: https://jonkoping.brostcancerforbundet.se/
+
+- entry: 1235934708
+  orgName: Herrviks Motorförening
+  orgNumber: 802449-8167
+  comment: null
+  categories:
+  - förening
+  - motorklubb
+  web: https://www.herrvikmotor.se/
 
 - entry: 1235948427
   orgName: Karlskoga Enduroklubb
@@ -5448,6 +5589,14 @@ entries:
   - sports
   web: https://www.curlingklubben.se/
 
+- entry: 1236269799
+  orgName: Hela Rättvik Rullar
+  orgNumber: 802493-3569
+  comment: null
+  categories:
+  - förening
+  web: https://www.helarattvikrullar.se/
+
 - entry: 1236284152
   orgName: Göingebygdens Biologiska Förening
   orgNumber: 837000-9899
@@ -5778,6 +5927,14 @@ entries:
   - skalmodeller
   web: https://www.srmodell.se/
 
+- entry: 1236758874
+  orgName: Föreningen Svenska Tonsättare, FST
+  orgNumber: 802003-5369
+  comment: null
+  categories:
+  - musik
+  web: https://fst.se/
+
 - entry: 1236761647
   orgName: Gillberga-Lista Hembygdsförening
   orgNumber: 818001-5177
@@ -5841,6 +5998,14 @@ entries:
   - restaurant
   - sushi
   web: https://www.eskilstunasushibar.se/
+
+- entry: 1236884522
+  orgName: Tierps Matcentral
+  orgNumber: 802533-1920
+  comment: null
+  categories:
+  - humanitär hjälpverksamhet
+  web: null
 
 - entry: 1236888416
   orgName: Brottsofferjouren Storgöteborg

@@ -1382,6 +1382,21 @@
     </entry>
     
 
+    <entry number="1231137520">
+      <organization>
+        <name>Lillpite Fiske Fiskevårdsförening</name>
+        <number>898800-8762</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fiskekort"/>
+        <category type="fiskevård"/>
+        <category type="sportfiske"/>
+      </categories>
+      <web>https://lillpitefiske.se/</web>
+    </entry>
+    
+
     <entry number="1231137603">
       <organization>
         <name>Friskis &amp; Svettis Säffle</name>
@@ -1393,6 +1408,20 @@
         <category type="membership-fee"/>
       </categories>
       <web>https://www.friskissvettis.se/saffle</web>
+    </entry>
+    
+
+    <entry number="1231146596">
+      <organization>
+        <name>Islandshästföreningen Glaumur - Islandshäst</name>
+        <number>874001-8117</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hästsport"/>
+        <category type="ryttarförening"/>
+      </categories>
+      <web>https://www.glaumur.se/</web>
     </entry>
     
 
@@ -1541,6 +1570,20 @@
         <category type="hundsport"/>
       </categories>
       <web>http://www.aktivahundar.org/</web>
+    </entry>
+    
+
+    <entry number="1231222496">
+      <organization>
+        <name>Sveriges Kaninvälfärdsförening</name>
+        <number>802496-4655</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurvård"/>
+        <category type="husdjur"/>
+      </categories>
+      <web>https://skvf.se/</web>
     </entry>
     
 
@@ -2628,6 +2671,20 @@
     </entry>
     
 
+    <entry number="1231979434">
+      <organization>
+        <name>Vinslövs IF</name>
+        <number>837000-2928</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fotboll"/>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://vinslovsif.sportadmin.se/</web>
+    </entry>
+    
+
     <entry number="1231988302">
       <organization>
         <name>Hela Människan Jönköping</name>
@@ -2748,6 +2805,19 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>http://www.socialamissionen.se/</web>
+    </entry>
+    
+
+    <entry number="1232039543">
+      <organization>
+        <name>Levande Önneköp</name>
+        <number>802520-2675</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+      </categories>
+      <web>https://www.levandeonnekop.se/</web>
     </entry>
     
 
@@ -3939,6 +4009,19 @@
     </entry>
     
 
+    <entry number="1233031168">
+      <organization>
+        <name>Föreningen M 20</name>
+        <number>802428-4088</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://minsveparen.se/</web>
+    </entry>
+    
+
     <entry number="1233031887">
       <organization>
         <name>Pingst Vaggeryd</name>
@@ -4311,6 +4394,21 @@
     </entry>
     
 
+    <entry number="1233276862">
+      <organization>
+        <name>Borgeby Fotbollsklubb</name>
+        <number>846002-5276</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fotboll"/>
+        <category type="fotbollsklubb"/>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>http://www.borgebyfk.se/</web>
+    </entry>
+    
+
     <entry number="1233278561">
       <organization>
         <name>Svensk Förening för Socialmedicin och Folkhälsa</name>
@@ -4428,6 +4526,20 @@
     </entry>
     
 
+    <entry number="1233377447">
+      <organization>
+        <name>Svenska Psykoanalytiska Föreningen</name>
+        <number>802002-7317</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="mentalhälsa"/>
+        <category type="psykoanalys"/>
+      </categories>
+      <web>https://www.psykoanalys.se/</web>
+    </entry>
+    
+
     <entry number="1233378015">
       <organization>
         <name>IFS Centrala Stockholm</name>
@@ -4478,6 +4590,19 @@
         <category type="lokaltidning"/>
       </categories>
       <web>https://www.markbladet.se/</web>
+    </entry>
+    
+
+    <entry number="1233409380">
+      <organization>
+        <name>Zambian Association for Sustainable Projects, ZASP</name>
+        <number>874001-5865</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="humanitär hjälpverksamhet"/>
+      </categories>
+      <web>https://zasp.se/</web>
     </entry>
     
 
@@ -4578,6 +4703,20 @@
     </entry>
     
 
+    <entry number="1233467545">
+      <organization>
+        <name>Malmö Floorball Club</name>
+        <number>802439-1164</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+        <category type="innebandy"/>
+      </categories>
+      <web>https://www.malmofbc.se/</web>
+    </entry>
+    
+
     <entry number="1233474350">
       <organization>
         <name>Växjöortens Folkdanslag</name>
@@ -4595,7 +4734,7 @@
 
     <entry number="1233505278">
       <organization>
-        <name>Femörefortet</name>
+        <name>Föreningen Femörefortet</name>
         <number>802422-8424</number>
       </organization>
       <comment/>
@@ -5871,6 +6010,20 @@
     </entry>
     
 
+    <entry number="1234425708">
+      <organization>
+        <name>Skaraborgs Godman och Förvaltarförening</name>
+        <number>802419-1887</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="godman"/>
+      </categories>
+      <web>https://godmaniskaraborg.webnode.se/</web>
+    </entry>
+    
+
     <entry number="1234432548">
       <organization>
         <name>Hammarby IF Ishockeyförening</name>
@@ -6218,6 +6371,20 @@
     </entry>
     
 
+    <entry number="1234673380">
+      <organization>
+        <name>Höviksnäs Båtförening</name>
+        <number>857209-9243</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="båtklubb"/>
+        <category type="båtvård"/>
+      </categories>
+      <web>http://www.hovik.se/</web>
+    </entry>
+    
+
     <entry number="1234718177">
       <organization>
         <name>Skövdehem Arena AB / Billingen Skövde</name>
@@ -6420,6 +6587,20 @@
       <comment/>
       <categories/>
       <web>https://www.pbk-gbg.se/</web>
+    </entry>
+    
+
+    <entry number="1235009519">
+      <organization>
+        <name>Göta Bollklubb</name>
+        <number>863000-5299</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fotboll"/>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://www.svenskalag.se/gotabk</web>
     </entry>
     
 
@@ -7693,6 +7874,19 @@
     </entry>
     
 
+    <entry number="1235809066">
+      <organization>
+        <name>Gymmet i Vissefjärda / Vissefjärda Samhällsförening</name>
+        <number>832401-8145</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+      </categories>
+      <web>http://gymmet.org/</web>
+    </entry>
+    
+
     <entry number="1235820105">
       <organization>
         <name>Burundi-hjälpen</name>
@@ -7715,6 +7909,19 @@
         <category type="sports"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
+    </entry>
+    
+
+    <entry number="1235867619">
+      <organization>
+        <name>Enköpings Biodlare</name>
+        <number>810607-0822</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="biodling"/>
+      </categories>
+      <web>http://enkopingsbiodlare.se/</web>
     </entry>
     
 
@@ -7793,6 +8000,20 @@
         <category type="healthcare"/>
       </categories>
       <web>https://jonkoping.brostcancerforbundet.se/</web>
+    </entry>
+    
+
+    <entry number="1235934708">
+      <organization>
+        <name>Herrviks Motorförening</name>
+        <number>802449-8167</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="motorklubb"/>
+      </categories>
+      <web>https://www.herrvikmotor.se/</web>
     </entry>
     
 
@@ -8324,6 +8545,19 @@
     </entry>
     
 
+    <entry number="1236269799">
+      <organization>
+        <name>Hela Rättvik Rullar</name>
+        <number>802493-3569</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+      </categories>
+      <web>https://www.helarattvikrullar.se/</web>
+    </entry>
+    
+
     <entry number="1236284152">
       <organization>
         <name>Göingebygdens Biologiska Förening</name>
@@ -8799,6 +9033,19 @@
     </entry>
     
 
+    <entry number="1236758874">
+      <organization>
+        <name>Föreningen Svenska Tonsättare, FST</name>
+        <number>802003-5369</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="musik"/>
+      </categories>
+      <web>https://fst.se/</web>
+    </entry>
+    
+
     <entry number="1236761647">
       <organization>
         <name>Gillberga-Lista Hembygdsförening</name>
@@ -8897,6 +9144,19 @@
         <category type="sushi"/>
       </categories>
       <web>https://www.eskilstunasushibar.se/</web>
+    </entry>
+    
+
+    <entry number="1236884522">
+      <organization>
+        <name>Tierps Matcentral</name>
+        <number>802533-1920</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="humanitär hjälpverksamhet"/>
+      </categories>
+      <web/>
     </entry>
     
 
