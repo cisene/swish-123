@@ -34,10 +34,25 @@
       </organization>
       <comment/>
       <categories>
-        <category type="förening"/>
         <category type="biograf"/>
+        <category type="förening"/>
       </categories>
       <web>https://gagnefsbio.se/</web>
+    </entry>
+    
+
+    <entry number="1230053074">
+      <organization>
+        <name>Malmö Civila Ryttareförening, MCR</name>
+        <number>846001-5368</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hästsport"/>
+        <category type="ridklubb"/>
+        <category type="ryttarförening"/>
+      </categories>
+      <web>https://malmocivilaryttare.nu/</web>
     </entry>
     
 
@@ -48,8 +63,8 @@
       </organization>
       <comment>Tävling</comment>
       <categories>
-        <category type="ridklubb"/>
         <category type="hästsport"/>
+        <category type="ridklubb"/>
       </categories>
       <web>https://www.astorprf.nu/</web>
     </entry>
@@ -114,8 +129,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="healthcare"/>
         <category type="diabetes"/>
+        <category type="healthcare"/>
       </categories>
       <web>https://diabetesorg.se/</web>
     </entry>
@@ -128,10 +143,10 @@
       </organization>
       <comment/>
       <categories>
-        <category type="hästsport"/>
         <category type="förening"/>
-        <category type="ryttarförening"/>
+        <category type="hästsport"/>
         <category type="ridklubb"/>
+        <category type="ryttarförening"/>
       </categories>
       <web>http://www.balingerf.se/</web>
     </entry>
@@ -155,9 +170,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sport"/>
         <category type="fotboll"/>
         <category type="idrottsförening"/>
+        <category type="sport"/>
       </categories>
       <web>https://www.gais.se/</web>
     </entry>
@@ -194,8 +209,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="motorsport"/>
         <category type="motorcykel"/>
+        <category type="motorsport"/>
       </categories>
       <web>https://mc-proffsen.se/</web>
     </entry>
@@ -273,9 +288,9 @@
       <comment/>
       <categories>
         <category type="finnjolle"/>
-        <category type="segling"/>
-        <category type="segelklubb"/>
         <category type="förbund"/>
+        <category type="segelklubb"/>
+        <category type="segling"/>
       </categories>
       <web>https://www.finnjolle.se/</web>
     </entry>
@@ -291,6 +306,19 @@
         <category type="religion"/>
       </categories>
       <web>https://frolunda.pingst.se/</web>
+    </entry>
+    
+
+    <entry number="1230313833">
+      <organization>
+        <name>Brf Pinnpojken</name>
+        <number>769606-2228</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bostadsrättsförening"/>
+      </categories>
+      <web>https://www.brfpinnpojken.se/</web>
     </entry>
     
 
@@ -328,11 +356,25 @@
       </organization>
       <comment>Båt</comment>
       <categories>
+        <category type="förening"/>
         <category type="rcbil"/>
         <category type="rcbåt"/>
-        <category type="förening"/>
       </categories>
       <web>https://www.eksjorck.se/</web>
+    </entry>
+    
+
+    <entry number="1230362046">
+      <organization>
+        <name>Millesgårdens Vänner</name>
+        <number>813600-4085</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://millesgardensvanner.se/</web>
     </entry>
     
 
@@ -394,8 +436,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="intresseorganisation"/>
         <category type="förening"/>
+        <category type="intresseorganisation"/>
       </categories>
       <web>https://svenskaolframjandet.se/</web>
     </entry>
@@ -448,8 +490,8 @@
       </organization>
       <comment>Fika, mat</comment>
       <categories>
-        <category type="sports"/>
         <category type="curling"/>
+        <category type="sports"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
     </entry>
@@ -501,8 +543,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="gym§"/>
         <category type="friskvård"/>
+        <category type="gym"/>
       </categories>
       <web>https://www.friskissvettis.se/vellinge/</web>
     </entry>
@@ -609,6 +651,33 @@
     </entry>
     
 
+    <entry number="1230624320">
+      <organization>
+        <name>Dalarnas Ornitologiska Förening</name>
+        <number>882601-2703</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="ornitologi"/>
+      </categories>
+      <web>https://dalafaglar.se/</web>
+    </entry>
+    
+
+    <entry number="1230631382">
+      <organization>
+        <name>Föreningen Nordsvenska Hästen, FNH</name>
+        <number>802437-8757</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hästsport"/>
+      </categories>
+      <web>https://nordsvensken.org/</web>
+    </entry>
+    
+
     <entry number="1230631689">
       <organization>
         <name>Brottsofferjouren Mellersta Skåne</name>
@@ -647,6 +716,19 @@
     </entry>
     
 
+    <entry number="1230655332">
+      <organization>
+        <name>Föreningen Sinnen &amp; Perception</name>
+        <number>802519-9335</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+      </categories>
+      <web>https://www.sinnenperception.se/</web>
+    </entry>
+    
+
     <entry number="1230656728">
       <organization>
         <name>Kiruna jakt- och fiskevårdsförening</name>
@@ -654,9 +736,9 @@
       </organization>
       <comment>Kurser</comment>
       <categories>
+        <category type="förening"/>
         <category type="naturvård"/>
         <category type="viltvård"/>
-        <category type="förening"/>
       </categories>
       <web>https://www.kirunajaktochfiske.se/</web>
     </entry>
@@ -670,8 +752,8 @@
       <comment/>
       <categories>
         <category type="förbund"/>
-        <category type="sportskytte"/>
         <category type="skytte"/>
+        <category type="sportskytte"/>
       </categories>
       <web>https://www.skyttesport.se/</web>
     </entry>
@@ -748,8 +830,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="ornitologi"/>
         <category type="fågelklubb"/>
+        <category type="ornitologi"/>
       </categories>
       <web>http://www.rofnet.se/</web>
     </entry>
@@ -810,10 +892,23 @@
       </organization>
       <comment>Klubbafton</comment>
       <categories>
-        <category type="sports"/>
         <category type="curling"/>
+        <category type="sports"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
+    </entry>
+    
+
+    <entry number="1230772277">
+      <organization>
+        <name>SPF Seniorerna - Plogen Linghem</name>
+        <number>822003-2109</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="pensionärsklubb"/>
+      </categories>
+      <web>https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/plogenlinghem/</web>
     </entry>
     
 
@@ -824,8 +919,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="hembygdsförening"/>
         <category type="förening"/>
+        <category type="hembygdsförening"/>
       </categories>
       <web>https://www.ljungskileorten.se/</web>
     </entry>
@@ -838,8 +933,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="ridklubb"/>
         <category type="hästsport"/>
+        <category type="ridklubb"/>
       </categories>
       <web>https://www.arvikaridklubb.com/</web>
     </entry>
@@ -923,9 +1018,9 @@
       </organization>
       <comment>Jönköping</comment>
       <categories>
+        <category type="donation"/>
         <category type="religion"/>
         <category type="worship"/>
-        <category type="donation"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -939,10 +1034,23 @@
       <comment/>
       <categories>
         <category type="idrottsförening"/>
-        <category type="sport"/>
         <category type="längdskidåkning"/>
+        <category type="sport"/>
       </categories>
       <web>http://tasjoif.se/</web>
+    </entry>
+    
+
+    <entry number="1230854042">
+      <organization>
+        <name>Värmdö Gymnastikakademi</name>
+        <number>802505-6691</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="gymnastikförening"/>
+      </categories>
+      <web>https://varmdogymnastikakademi.se/</web>
     </entry>
     
 
@@ -991,8 +1099,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
         <category type="donation"/>
+        <category type="religion"/>
       </categories>
       <web>https://www.stefanjernsand.se/</web>
     </entry>
@@ -1016,9 +1124,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="muskeldystrofi"/>
         <category type="donation"/>
         <category type="forskning"/>
+        <category type="muskeldystrofi"/>
       </categories>
       <web>https://www.smdf.se/</web>
     </entry>
@@ -1068,8 +1176,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sportskytte"/>
         <category type="skytte"/>
+        <category type="sportskytte"/>
       </categories>
       <web>https://www.ka2skf.se/</web>
     </entry>
@@ -1082,8 +1190,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="spa"/>
         <category type="massage"/>
+        <category type="spa"/>
       </categories>
       <web>https://www.mandorla.se/</web>
     </entry>
@@ -1112,9 +1220,9 @@
       <categories>
         <category type="hästsport"/>
         <category type="islandshästar"/>
-        <category type="turridning"/>
-        <category type="ridskola"/>
         <category type="ridläger"/>
+        <category type="ridskola"/>
+        <category type="turridning"/>
       </categories>
       <web>https://kalvbergsasen.se/</web>
     </entry>
@@ -1151,8 +1259,8 @@
       </organization>
       <comment>Deltagaravgift innebandy</comment>
       <categories>
-        <category type="innebandy"/>
         <category type="idrottsförening"/>
+        <category type="innebandy"/>
       </categories>
       <web>https://www.laget.se/CIF/</web>
     </entry>
@@ -1187,9 +1295,9 @@
       </organization>
       <comment/>
       <categories>
+        <category type="dvärgkanin"/>
         <category type="husdjur"/>
         <category type="kanin"/>
-        <category type="dvärgkanin"/>
       </categories>
       <web>http://www.dvargkaninklubben.se/</web>
     </entry>
@@ -1202,9 +1310,9 @@
       </organization>
       <comment>Göteborg</comment>
       <categories>
+        <category type="donation"/>
         <category type="religion"/>
         <category type="worship"/>
-        <category type="donation"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -1217,8 +1325,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="fiskfoder"/>
         <category type="akvariefisk"/>
+        <category type="fiskfoder"/>
       </categories>
       <web>https://www.fiskfoder.se/</web>
     </entry>
@@ -1295,8 +1403,8 @@
       </organization>
       <comment>Lillbrännträsk</comment>
       <categories>
-        <category type="skoterklubb"/>
         <category type="fiskeklubb"/>
+        <category type="skoterklubb"/>
         <category type="sportfiske"/>
       </categories>
       <web>https://www.sjulsmarks-skoterfiske.se/</web>
@@ -1321,8 +1429,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="hästsport"/>
         <category type="förening"/>
+        <category type="hästsport"/>
       </categories>
       <web>https://www.ostergotlandsfjord.eu/</web>
     </entry>
@@ -1422,6 +1530,20 @@
     </entry>
     
 
+    <entry number="1231220037">
+      <organization>
+        <name>Föreningen Aktiva Hundar i Linköping</name>
+        <number>802433-2192</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundklubb"/>
+        <category type="hundsport"/>
+      </categories>
+      <web>http://www.aktivahundar.org/</web>
+    </entry>
+    
+
     <entry number="1231222751">
       <organization>
         <name>LG-Produkter AB</name>
@@ -1430,8 +1552,8 @@
       <comment/>
       <categories>
         <category type="djurvård"/>
-        <category type="stallutrustrning"/>
         <category type="ladugårdsutrustning"/>
+        <category type="stallutrustrning"/>
       </categories>
       <web>https://www.lgprodukter.se/</web>
     </entry>
@@ -1444,8 +1566,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="golfklubb"/>
         <category type="golf"/>
+        <category type="golfklubb"/>
       </categories>
       <web>https://www.malarbadensgk.se/</web>
     </entry>
@@ -1473,8 +1595,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="stiftelse"/>
         <category type="forskning"/>
+        <category type="stiftelse"/>
       </categories>
       <web>http://www.cancerstiftelsen-kronoberg.se/</web>
     </entry>
@@ -1581,6 +1703,20 @@
     </entry>
     
 
+    <entry number="1231332303">
+      <organization>
+        <name>Föreningen Vendelsjön</name>
+        <number>817301-4906</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="naturskydd"/>
+        <category type="naturvård"/>
+      </categories>
+      <web>http://www.vendelsjon.se/</web>
+    </entry>
+    
+
     <entry number="1231355189">
       <organization>
         <name>Kiruna jakt- och fiskevårdsförening</name>
@@ -1588,11 +1724,24 @@
       </organization>
       <comment>Arkarrende</comment>
       <categories>
+        <category type="förening"/>
         <category type="naturvård"/>
         <category type="viltvård"/>
-        <category type="förening"/>
       </categories>
       <web>https://www.kirunajaktochfiske.se/</web>
+    </entry>
+    
+
+    <entry number="1231358860">
+      <organization>
+        <name>Kungsleden Hiking Society</name>
+        <number>802535-1399</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+      </categories>
+      <web>https://kungsledenhiking.se/</web>
     </entry>
     
 
@@ -1661,6 +1810,19 @@
     </entry>
     
 
+    <entry number="1231402551">
+      <organization>
+        <name>Aktiva Seniorer i Alingsås</name>
+        <number>862501-2300</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="pensionärsklubb"/>
+      </categories>
+      <web>https://alingsas.aktivaseniorer.com/</web>
+    </entry>
+    
+
     <entry number="1231410257">
       <organization>
         <name>Restaurang Thai Corner AB</name>
@@ -1683,8 +1845,8 @@
       <comment/>
       <categories>
         <category type="motorcykelklubb"/>
-        <category type="snöskoterklubb"/>
         <category type="motorsport"/>
+        <category type="snöskoterklubb"/>
       </categories>
       <web>https://www.solshestersmck.se/</web>
     </entry>
@@ -1719,9 +1881,9 @@
       </organization>
       <comment/>
       <categories>
+        <category type="djurskydd"/>
         <category type="intresseorganisation"/>
         <category type="katthem"/>
-        <category type="djurskydd"/>
       </categories>
       <web>http://www.kattslussen.se/</web>
     </entry>
@@ -1741,6 +1903,19 @@
     </entry>
     
 
+    <entry number="1231471879">
+      <organization>
+        <name>Bygdemuseet Ornö Sockenstuga</name>
+        <number>812400-8809</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bygdegårdsförening"/>
+      </categories>
+      <web>https://www.orno.se/</web>
+    </entry>
+    
+
     <entry number="1231477074">
       <organization>
         <name>Kroatiska Föreningen VELEBIT</name>
@@ -1748,8 +1923,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="kulturförening"/>
         <category type="idrottsförening"/>
+        <category type="kulturförening"/>
       </categories>
       <web>http://www.velebit.se/</web>
     </entry>
@@ -1812,8 +1987,8 @@
       <comment/>
       <categories>
         <category type="hundklubb"/>
-        <category type="taxklubb"/>
         <category type="hundsport"/>
+        <category type="taxklubb"/>
       </categories>
       <web>https://www.kronobergstaxklubb.se/</web>
     </entry>
@@ -1895,6 +2070,20 @@
     </entry>
     
 
+    <entry number="1231568088">
+      <organization>
+        <name>Fiskevårdsföreningen Öringen Väja</name>
+        <number>802504-3517</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fiskevård"/>
+        <category type="förening"/>
+      </categories>
+      <web>http://fvforingen.bloggplatsen.se/</web>
+    </entry>
+    
+
     <entry number="1231568229">
       <organization>
         <name>Katthjälpen</name>
@@ -1902,9 +2091,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="katthem"/>
         <category type="djurskydd"/>
         <category type="husdjur"/>
+        <category type="katthem"/>
       </categories>
       <web>http://katthjalpen.nu/</web>
     </entry>
@@ -1968,8 +2157,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="mentalhälsa"/>
         <category type="medmänniska"/>
+        <category type="mentalhälsa"/>
       </categories>
       <web>https://www.jourhavande-medmanniska.se/</web>
     </entry>
@@ -1999,6 +2188,20 @@
     </entry>
     
 
+    <entry number="1231612365">
+      <organization>
+        <name>Hunnebostrands Bildarkiv</name>
+        <number>854600-8593</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bildarkiv"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://www.hunnebostrandsbildarkiv.se/</web>
+    </entry>
+    
+
     <entry number="1231613801">
       <organization>
         <name>Föreningen till minne av Jocke Nyberg</name>
@@ -2007,10 +2210,24 @@
       <comment/>
       <categories>
         <category type="fjällsäkerhet"/>
-        <category type="minnesfond"/>
         <category type="förening"/>
+        <category type="minnesfond"/>
       </categories>
       <web/>
+    </entry>
+    
+
+    <entry number="1231615079">
+      <organization>
+        <name>Håbro IF - Fotboll</name>
+        <number>817000-1013</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fotboll"/>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://www.habroif.se/</web>
     </entry>
     
 
@@ -2021,8 +2238,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="skoterklubb"/>
         <category type="förening"/>
+        <category type="skoterklubb"/>
       </categories>
       <web>https://www.savarskoterklubb.se/</web>
     </entry>
@@ -2062,6 +2279,19 @@
       <comment/>
       <categories/>
       <web>https://www.sk4ko.com/</web>
+    </entry>
+    
+
+    <entry number="1231670793">
+      <organization>
+        <name>MCACA - Many Cares Against Child Abuse</name>
+        <number>802537-4557</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseorganisation"/>
+      </categories>
+      <web>http://mcaca.se/</web>
     </entry>
     
 
@@ -2161,6 +2391,19 @@
     </entry>
     
 
+    <entry number="1231730332">
+      <organization>
+        <name>Södertälje-Nykvarn Orientering</name>
+        <number>815600-0344</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>http://www.tvetafriluftsgard.se/</web>
+    </entry>
+    
+
     <entry number="1231734037">
       <organization>
         <name>Hagakyrkan Sundsvall / Haga Baptistförsamling</name>
@@ -2168,8 +2411,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
         <category type="donation"/>
+        <category type="religion"/>
       </categories>
       <web>http://www.hagakyrkan.nu/</web>
     </entry>
@@ -2197,6 +2440,35 @@
     </entry>
     
 
+    <entry number="1231747146">
+      <organization>
+        <name>Svensk Förening för Resemedicin</name>
+        <number>802452-7254</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="hälsa"/>
+        <category type="medicin"/>
+      </categories>
+      <web>http://www.sefr.se/</web>
+    </entry>
+    
+
+    <entry number="1231757111">
+      <organization>
+        <name>Hjåggsjödrakarna</name>
+        <number>894002-3495</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+        <category type="intresseorganisation"/>
+      </categories>
+      <web>http://www.hjaggsjodrakarna.se/</web>
+    </entry>
+    
+
     <entry number="1231769546">
       <organization>
         <name>Sofialäktaren TIFO</name>
@@ -2215,8 +2487,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="ridklubb"/>
         <category type="hästsport"/>
+        <category type="ridklubb"/>
         <category type="ridsport"/>
       </categories>
       <web>https://www.ljungbyridklubb.org.se/</web>
@@ -2254,9 +2526,9 @@
       </organization>
       <comment>Älgbanan(kula)</comment>
       <categories>
+        <category type="förening"/>
         <category type="naturvård"/>
         <category type="viltvård"/>
-        <category type="förening"/>
       </categories>
       <web>https://www.kirunajaktochfiske.se/</web>
     </entry>
@@ -2306,6 +2578,20 @@
     </entry>
     
 
+    <entry number="1231951243">
+      <organization>
+        <name>Sigtunabygdens Ryttarförening</name>
+        <number>814800-7647</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="ridklubb"/>
+        <category type="ryttarförening"/>
+      </categories>
+      <web>https://www.sigtunaridskola.com/</web>
+    </entry>
+    
+
     <entry number="1231961531">
       <organization>
         <name>Avesta OK - Orientering</name>
@@ -2314,6 +2600,20 @@
       <comment/>
       <categories/>
       <web/>
+    </entry>
+    
+
+    <entry number="1231963024">
+      <organization>
+        <name>Imam Ali Islamic Center</name>
+        <number>802465-6913</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.imamalicenter.se/</web>
     </entry>
     
 
@@ -2336,6 +2636,19 @@
       <comment>DeLa-verksamheten</comment>
       <categories/>
       <web>https://helamanniskan.se/jonkoping/</web>
+    </entry>
+    
+
+    <entry number="1231993716">
+      <organization>
+        <name>Future with Hope - For children in EastAfrica</name>
+        <number>802489-1015</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+      </categories>
+      <web>http://futurewithhope.se/</web>
     </entry>
     
 
@@ -2494,9 +2807,9 @@
       </organization>
       <comment>Stockholm Södra</comment>
       <categories>
+        <category type="donation"/>
         <category type="religion"/>
         <category type="worship"/>
-        <category type="donation"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -2545,10 +2858,10 @@
       </organization>
       <comment/>
       <categories>
-        <category type="kredittjänster"/>
+        <category type="betaltjänster"/>
         <category type="enkonomi"/>
         <category type="inkasso"/>
-        <category type="betaltjänster"/>
+        <category type="kredittjänster"/>
       </categories>
       <web>https://sergel.se/</web>
     </entry>
@@ -2574,8 +2887,8 @@
       </organization>
       <comment>Medlemsavgift</comment>
       <categories>
-        <category type="skoterklubb"/>
         <category type="fiskeklubb"/>
+        <category type="skoterklubb"/>
         <category type="sportfiske"/>
       </categories>
       <web>https://www.sjulsmarks-skoterfiske.se/</web>
@@ -2600,9 +2913,9 @@
       </organization>
       <comment>gåvor till klostret</comment>
       <categories>
-        <category type="religion"/>
-        <category type="kloster"/>
         <category type="donation"/>
+        <category type="kloster"/>
+        <category type="religion"/>
       </categories>
       <web>https://heligahjartaskloster.se/</web>
     </entry>
@@ -2655,8 +2968,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
         <category type="donation"/>
+        <category type="religion"/>
       </categories>
       <web>https://www.centrumkyrkan-norrkoping.se/</web>
     </entry>
@@ -2690,6 +3003,20 @@
     </entry>
     
 
+    <entry number="1232222966">
+      <organization>
+        <name>SHEDO - Self Harm and Eating Disorder Organisation</name>
+        <number>802442-4569</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hälsa"/>
+        <category type="mentalhälsa"/>
+      </categories>
+      <web>https://www.shedo.se/</web>
+    </entry>
+    
+
     <entry number="1232228039">
       <organization>
         <name>Aldrig Ensam</name>
@@ -2697,6 +3024,7 @@
       </organization>
       <comment/>
       <categories>
+        <category type="mentalhälsa"/>
         <category type="psykisk hälsa"/>
       </categories>
       <web>http://aldrigensam.com/</web>
@@ -2716,6 +3044,19 @@
     </entry>
     
 
+    <entry number="1232252286">
+      <organization>
+        <name>Föreningen Svenskbyborna</name>
+        <number>834000-9201</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+      </categories>
+      <web>http://www.svenskbyborna.se/</web>
+    </entry>
+    
+
     <entry number="1232255115">
       <organization>
         <name>Laholms Ryttarförening</name>
@@ -2723,8 +3064,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="ryttarförening"/>
         <category type="hästsport"/>
+        <category type="ryttarförening"/>
       </categories>
       <web>https://www.laholmsrf.se/</web>
     </entry>
@@ -2750,10 +3091,24 @@
       </organization>
       <comment/>
       <categories>
-        <category type="motorsport"/>
         <category type="motorcykel"/>
+        <category type="motorsport"/>
       </categories>
       <web>https://mc-kompaniet.se/</web>
+    </entry>
+    
+
+    <entry number="1232267730">
+      <organization>
+        <name>Kallinge Museum</name>
+        <number>802498-8928</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="museum"/>
+      </categories>
+      <web>http://www.kallingemuseum.se/</web>
     </entry>
     
 
@@ -2777,8 +3132,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="körkort"/>
         <category type="bilskola"/>
+        <category type="körkort"/>
       </categories>
       <web>https://www.ringensbilskola.se/</web>
     </entry>
@@ -2934,6 +3289,19 @@
     </entry>
     
 
+    <entry number="1232406643">
+      <organization>
+        <name>Reumatikerföreningen Stockholm</name>
+        <number>802008-7949</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+      </categories>
+      <web>https://stockholm.reumatiker.se/</web>
+    </entry>
+    
+
     <entry number="1232410587">
       <organization>
         <name>Förtroende - Sätta de sista först</name>
@@ -3029,9 +3397,9 @@
       </organization>
       <comment>Medlemsavgift</comment>
       <categories>
+        <category type="förening"/>
         <category type="naturvård"/>
         <category type="viltvård"/>
-        <category type="förening"/>
       </categories>
       <web>https://www.kirunajaktochfiske.se/</web>
     </entry>
@@ -3055,10 +3423,23 @@
       </organization>
       <comment/>
       <categories>
-        <category type="massage"/>
         <category type="friskvård"/>
+        <category type="massage"/>
       </categories>
       <web>https://www.roshanspa.info/</web>
+    </entry>
+    
+
+    <entry number="1232610939">
+      <organization>
+        <name>Inlandsbanans Vänner IBV</name>
+        <number>802436-7289</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://www.inlandsbanansvanner.se/</web>
     </entry>
     
 
@@ -3128,6 +3509,19 @@
     </entry>
     
 
+    <entry number="1232681773">
+      <organization>
+        <name>Bergs Bygdegård</name>
+        <number>866600-0065</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bygdegårdsförening"/>
+      </categories>
+      <web>https://bergsbygdegard.se/</web>
+    </entry>
+    
+
     <entry number="1232692697">
       <organization>
         <name>Wikimedia Sverige</name>
@@ -3151,6 +3545,21 @@
         <category type="donation"/>
       </categories>
       <web>https://www.pingstlidkoping.se/</web>
+    </entry>
+    
+
+    <entry number="1232698884">
+      <organization>
+        <name>Torvalla IP / IFK Haninge</name>
+        <number>812400-4774</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fotboll"/>
+        <category type="förening"/>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://ifkhaninge.se/</web>
     </entry>
     
 
@@ -3229,6 +3638,20 @@
     </entry>
     
 
+    <entry number="1232721694">
+      <organization>
+        <name>Uppsala Katthem / Föreningen Samvetet</name>
+        <number>802417-4925</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurskydd"/>
+        <category type="katthem"/>
+      </categories>
+      <web>https://www.uppsalakatthem.com/</web>
+    </entry>
+    
+
     <entry number="1232751899">
       <organization>
         <name>Eksjö RC Klubb - Bilsport</name>
@@ -3236,9 +3659,9 @@
       </organization>
       <comment>Bil</comment>
       <categories>
+        <category type="förening"/>
         <category type="rcbil"/>
         <category type="rcbåt"/>
-        <category type="förening"/>
       </categories>
       <web>https://www.eksjorck.se/</web>
     </entry>
@@ -3277,8 +3700,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="intresseorganisation"/>
         <category type="förening"/>
+        <category type="intresseorganisation"/>
       </categories>
       <web>http://www.famy.se/</web>
     </entry>
@@ -3291,8 +3714,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sport"/>
         <category type="skoterklubb"/>
+        <category type="sport"/>
       </categories>
       <web>http://nvssk.se/</web>
     </entry>
@@ -3357,6 +3780,19 @@
     </entry>
     
 
+    <entry number="1232873057">
+      <organization>
+        <name>Råtthjälpen</name>
+        <number>802435-0038</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurvård"/>
+      </categories>
+      <web>https://www.ratthjalpen.com/</web>
+    </entry>
+    
+
     <entry number="1232873990">
       <organization>
         <name>Linneryds Församling</name>
@@ -3377,10 +3813,36 @@
       </organization>
       <comment/>
       <categories>
-        <category type="säkerhet"/>
         <category type="lås"/>
+        <category type="säkerhet"/>
       </categories>
       <web>https://samuelssonpartner.se/</web>
+    </entry>
+    
+
+    <entry number="1232885267">
+      <organization>
+        <name>Fjärilsfonden / Dravets Syndrome Association Sweden, DSAS</name>
+        <number>802471-5107</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hälsa"/>
+      </categories>
+      <web>http://www.dravetssweden.se/</web>
+    </entry>
+    
+
+    <entry number="1232887446">
+      <organization>
+        <name>Hulterstads AIK</name>
+        <number>832000-3059</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://albylen.se/</web>
     </entry>
     
 
@@ -3402,8 +3864,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="laboratorier"/>
         <category type="analyser"/>
+        <category type="laboratorier"/>
         <category type="trikiner"/>
       </categories>
       <web>http://www.jphastveda.com/</web>
@@ -3443,8 +3905,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="intresseorganisation"/>
         <category type="förening"/>
+        <category type="intresseorganisation"/>
       </categories>
       <web>https://kallslatten.se/</web>
     </entry>
@@ -3457,8 +3919,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
         <category type="donation"/>
+        <category type="religion"/>
       </categories>
       <web>http://www.tenstakyrkan.se/</web>
     </entry>
@@ -3548,8 +4010,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="forspaddling"/>
         <category type="camping"/>
+        <category type="forspaddling"/>
       </categories>
       <web>https://faluvildvattenpark.se/</web>
     </entry>
@@ -3573,10 +4035,24 @@
       </organization>
       <comment/>
       <categories>
-        <category type="hundkärror"/>
         <category type="hundburar"/>
+        <category type="hundkärror"/>
       </categories>
       <web>https://www.wtmetall.se/</web>
+    </entry>
+    
+
+    <entry number="1233086170">
+      <organization>
+        <name>Sigtunabygdens Ryttarförening</name>
+        <number>814800-7647</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="ridklubb"/>
+        <category type="ryttarförening"/>
+      </categories>
+      <web>https://www.sigtunaridskola.com/</web>
     </entry>
     
 
@@ -3587,8 +4063,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="förmedling"/>
         <category type="arbetskraft"/>
+        <category type="förmedling"/>
       </categories>
       <web>https://arbetskraftsformedlingen.se/</web>
     </entry>
@@ -3628,8 +4104,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="båtvård"/>
         <category type="byggnadsvård"/>
+        <category type="båtvård"/>
       </categories>
       <web>http://www.bbviroslagen.se/</web>
     </entry>
@@ -3653,8 +4129,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="pensionärsklubb"/>
         <category type="bowling"/>
+        <category type="pensionärsklubb"/>
       </categories>
       <web>https://ulfwetterstrand.wixsite.com/tpbk/</web>
     </entry>
@@ -3681,6 +4157,20 @@
         <category type="reiki"/>
       </categories>
       <web>https://secourong.com/</web>
+    </entry>
+    
+
+    <entry number="1233212370">
+      <organization>
+        <name>Föreningen Rädda Björndammsdalen och Finngösaravinen</name>
+        <number>802510-6751</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="intresseorganisation"/>
+      </categories>
+      <web>https://www.finngosaravinen.se/</web>
     </entry>
     
 
@@ -3718,8 +4208,8 @@
       <comment/>
       <categories>
         <category type="bildelar"/>
-        <category type="reservdelar"/>
         <category type="bilvård"/>
+        <category type="reservdelar"/>
       </categories>
       <web>https://frejbildelar.se/</web>
     </entry>
@@ -3746,9 +4236,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="hembygdsförening"/>
         <category type="bygdegårdsförening"/>
         <category type="förening"/>
+        <category type="hembygdsförening"/>
       </categories>
       <web>https://kraklingbobf.se/</web>
     </entry>
@@ -3760,7 +4250,10 @@
         <number>817602-9596</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="förening"/>
+        <category type="hemlandsförening"/>
+      </categories>
       <web>https://armeniska.se/</web>
     </entry>
     
@@ -3783,8 +4276,8 @@
       </organization>
       <comment>Södra</comment>
       <categories>
-        <category type="hundsport"/>
         <category type="hundklubb"/>
+        <category type="hundsport"/>
       </categories>
       <web>https://snkinfo.wordpress.com/</web>
     </entry>
@@ -3825,8 +4318,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="förening"/>
         <category type="folkhälsa"/>
+        <category type="förening"/>
       </categories>
       <web>https://svensksocialmedicin.wordpress.com/</web>
     </entry>
@@ -3866,9 +4359,9 @@
       </organization>
       <comment/>
       <categories>
+        <category type="gym"/>
         <category type="health"/>
         <category type="wellness"/>
-        <category type="gym"/>
       </categories>
       <web>https://wellness4life.nu/</web>
     </entry>
@@ -3932,6 +4425,20 @@
       <comment/>
       <categories/>
       <web>http://www.berget.se/</web>
+    </entry>
+    
+
+    <entry number="1233378015">
+      <organization>
+        <name>IFS Centrala Stockholm</name>
+        <number>802400-8701</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hälsa"/>
+        <category type="mentalhälsa"/>
+      </categories>
+      <web>https://ifscs.se/</web>
     </entry>
     
 
@@ -4141,8 +4648,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="idrottsförening"/>
         <category type="förening"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://www.iggesundsik.se/</web>
     </entry>
@@ -4155,11 +4662,25 @@
       </organization>
       <comment>Stockholm City</comment>
       <categories>
+        <category type="donation"/>
         <category type="religion"/>
         <category type="worship"/>
-        <category type="donation"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
+    </entry>
+    
+
+    <entry number="1233527157">
+      <organization>
+        <name>Föreningen Dalkarlsvägen</name>
+        <number>802434-2951</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="intresseorganisation"/>
+      </categories>
+      <web>https://www.dalkarlsvagen.se/</web>
     </entry>
     
 
@@ -4171,8 +4692,8 @@
       <comment/>
       <categories>
         <category type="förening"/>
-        <category type="trafikantförening"/>
         <category type="skärgård"/>
+        <category type="trafikantförening"/>
       </categories>
       <web>http://www.skargardstrafikanten.se/</web>
     </entry>
@@ -4208,7 +4729,10 @@
         <number>838800-7554</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="segelklubb"/>
+        <category type="segling"/>
+      </categories>
       <web>https://klaramarie.se/</web>
     </entry>
     
@@ -4220,8 +4744,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="kattklubb"/>
         <category type="förening"/>
+        <category type="kattklubb"/>
       </categories>
       <web>https://burmaklubben.com/</web>
     </entry>
@@ -4234,8 +4758,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sport"/>
         <category type="hockey"/>
+        <category type="sport"/>
       </categories>
       <web>https://www.bodenhockey.se/</web>
     </entry>
@@ -4248,8 +4772,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sportfiske"/>
         <category type="fiskekort"/>
+        <category type="sportfiske"/>
       </categories>
       <web>https://hasttjarn.se/</web>
     </entry>
@@ -4288,8 +4812,8 @@
       </organization>
       <comment>Fika</comment>
       <categories>
-        <category type="innebandy"/>
         <category type="idrottsförening"/>
+        <category type="innebandy"/>
       </categories>
       <web>https://www.laget.se/CIF/</web>
     </entry>
@@ -4352,8 +4876,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="trädgårdsförening"/>
         <category type="förening"/>
+        <category type="trädgårdsförening"/>
       </categories>
       <web>http://solvesborgstradgardsforening.se/</web>
     </entry>
@@ -4380,8 +4904,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="ridklubb"/>
         <category type="hästsport"/>
+        <category type="ridklubb"/>
       </categories>
       <web>https://www.ridklubbenudden.com/</web>
     </entry>
@@ -4407,10 +4931,24 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sportskytte"/>
         <category type="skytte"/>
+        <category type="sportskytte"/>
       </categories>
       <web>https://idrottonline.se/HebySkF-Skyttesport/</web>
+    </entry>
+    
+
+    <entry number="1233747771">
+      <organization>
+        <name>Värmdö Nattvandrare</name>
+        <number>802438-4888</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="intresseorganisation"/>
+      </categories>
+      <web>https://www.nattvandra.nu/</web>
     </entry>
     
 
@@ -4604,8 +5142,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="hundsport"/>
         <category type="hundkurser"/>
+        <category type="hundsport"/>
       </categories>
       <web>https://stockholm.hundenshus.se/</web>
     </entry>
@@ -4618,10 +5156,23 @@
       </organization>
       <comment/>
       <categories>
-        <category type="katthem"/>
         <category type="djurskydd"/>
+        <category type="katthem"/>
       </categories>
       <web>https://fhhk.se/</web>
+    </entry>
+    
+
+    <entry number="1233907565">
+      <organization>
+        <name>Svenska Schäferhundklubben</name>
+        <number>802401-2927</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://schaferhundklubben.com/</web>
     </entry>
     
 
@@ -4693,8 +5244,8 @@
       </organization>
       <comment>köp i boden</comment>
       <categories>
-        <category type="religion"/>
         <category type="kloster"/>
+        <category type="religion"/>
       </categories>
       <web>https://heligahjartaskloster.se/</web>
     </entry>
@@ -4817,9 +5368,9 @@
       </organization>
       <comment/>
       <categories>
+        <category type="förening"/>
         <category type="skytte"/>
         <category type="sportskytte"/>
-        <category type="förening"/>
       </categories>
       <web>http://www.backamoskjutbana.n.nu/</web>
     </entry>
@@ -4879,8 +5430,8 @@
       </organization>
       <comment>Nävertjärn</comment>
       <categories>
-        <category type="skoterklubb"/>
         <category type="fiskeklubb"/>
+        <category type="skoterklubb"/>
         <category type="sportfiske"/>
       </categories>
       <web>https://www.sjulsmarks-skoterfiske.se/</web>
@@ -4907,8 +5458,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="hembygdsförening"/>
         <category type="förening"/>
+        <category type="hembygdsförening"/>
       </categories>
       <web>http://grundfors.com/</web>
     </entry>
@@ -4987,11 +5538,11 @@
       </organization>
       <comment/>
       <categories>
-        <category type="stiftelse"/>
-        <category type="djurskydd"/>
-        <category type="katthem"/>
-        <category type="hundhem"/>
         <category type="djurhem"/>
+        <category type="djurskydd"/>
+        <category type="hundhem"/>
+        <category type="katthem"/>
+        <category type="stiftelse"/>
       </categories>
       <web>http://djurhemmet-tassebo.se/</web>
     </entry>
@@ -5021,6 +5572,20 @@
     </entry>
     
 
+    <entry number="1234229852">
+      <organization>
+        <name>Hammarby IF Ishockeyförening</name>
+        <number>802442-1623</number>
+      </organization>
+      <comment>Ungdom</comment>
+      <categories>
+        <category type="idrottsförening"/>
+        <category type="ishockey"/>
+      </categories>
+      <web>https://www.hammarbyhockey.se/</web>
+    </entry>
+    
+
     <entry number="1234247896">
       <organization>
         <name>Säve Rödbo Hembygdsförening</name>
@@ -5028,8 +5593,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="hembygdsförening"/>
         <category type="förening"/>
+        <category type="hembygdsförening"/>
       </categories>
       <web>https://www.hembygd.se/save-rodbo</web>
     </entry>
@@ -5105,8 +5670,8 @@
       </organization>
       <comment>HS</comment>
       <categories>
-        <category type="hundsport"/>
         <category type="hundklubb"/>
+        <category type="hundsport"/>
       </categories>
       <web>https://snkinfo.wordpress.com/</web>
     </entry>
@@ -5187,6 +5752,19 @@
     </entry>
     
 
+    <entry number="1234363883">
+      <organization>
+        <name>Föreningen Autisterna</name>
+        <number>802534-2125</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+      </categories>
+      <web>https://autisterna.se/</web>
+    </entry>
+    
+
     <entry number="1234364659">
       <organization>
         <name>Staden på Berget</name>
@@ -5218,8 +5796,8 @@
       </organization>
       <comment>Restaurang/Kiosk</comment>
       <categories>
-        <category type="golfklubb"/>
         <category type="golf"/>
+        <category type="golfklubb"/>
       </categories>
       <web>https://www.vasatorp.golf/</web>
     </entry>
@@ -5245,8 +5823,8 @@
       </organization>
       <comment>Träning</comment>
       <categories>
-        <category type="ridklubb"/>
         <category type="hästsport"/>
+        <category type="ridklubb"/>
       </categories>
       <web>https://www.astorprf.nu/</web>
     </entry>
@@ -5286,10 +5864,24 @@
       </organization>
       <comment>Prova på</comment>
       <categories>
-        <category type="sports"/>
         <category type="curling"/>
+        <category type="sports"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
+    </entry>
+    
+
+    <entry number="1234432548">
+      <organization>
+        <name>Hammarby IF Ishockeyförening</name>
+        <number>802442-1623</number>
+      </organization>
+      <comment>Junior</comment>
+      <categories>
+        <category type="idrottsförening"/>
+        <category type="ishockey"/>
+      </categories>
+      <web>https://www.hammarbyhockey.se/</web>
     </entry>
     
 
@@ -5300,9 +5892,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="förening"/>
         <category type="diabetes"/>
         <category type="diabetesvård"/>
+        <category type="förening"/>
       </categories>
       <web>https://www.swenurse.se/sektionerochnatverk/svenskforeningforsjukskoterskorinomdiabetesvard.4.17badfa01722c2fa1731011e.html</web>
     </entry>
@@ -5393,10 +5985,23 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
         <category type="donation"/>
+        <category type="religion"/>
       </categories>
       <web>https://www.bibelnidag.org/</web>
+    </entry>
+    
+
+    <entry number="1234524302">
+      <organization>
+        <name>Mariedalskyrkan Equmeniakyrkan</name>
+        <number>835000-1320</number>
+      </organization>
+      <comment>Ungdomsverksamheten</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://mariedalskyrkan.se/</web>
     </entry>
     
 
@@ -5419,6 +6024,19 @@
       <comment>Bingolotto</comment>
       <categories/>
       <web>http://www.sandviksik.se/</web>
+    </entry>
+    
+
+    <entry number="1234542304">
+      <organization>
+        <name>Föreningen Backamo Vänner</name>
+        <number>858501-0781</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bygdegårdsförening"/>
+      </categories>
+      <web>http://backamovanner.se/</web>
     </entry>
     
 
@@ -5456,6 +6074,19 @@
         <category type="ornitologi"/>
       </categories>
       <web>https://stof.nu/</web>
+    </entry>
+    
+
+    <entry number="1234595658">
+      <organization>
+        <name>Pennyfonden / Dravets Syndrome Association Sweden, DSAS</name>
+        <number>802471-5107</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hälsa"/>
+      </categories>
+      <web>http://www.dravetssweden.se/</web>
     </entry>
     
 
@@ -5515,9 +6146,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="ved"/>
         <category type="björkved"/>
         <category type="bränsle"/>
+        <category type="ved"/>
       </categories>
       <web>https://www.romfartunaved.se/</web>
     </entry>
@@ -5563,6 +6194,19 @@
     </entry>
     
 
+    <entry number="1234665501">
+      <organization>
+        <name>Dravets Syndrome Association Sweden, DSAS</name>
+        <number>802471-5107</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hälsa"/>
+      </categories>
+      <web>http://www.dravetssweden.se/</web>
+    </entry>
+    
+
     <entry number="1234665675">
       <organization>
         <name>Animal Protection Network (APN)</name>
@@ -5592,9 +6236,9 @@
       </organization>
       <comment/>
       <categories>
+        <category type="intresseorganisation"/>
         <category type="raggarklubb"/>
         <category type="veteranbilar"/>
-        <category type="intresseorganisation"/>
       </categories>
       <web>https://www.nkpgraggare.nu/</web>
     </entry>
@@ -5633,8 +6277,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="stiftelse"/>
         <category type="intresseorganisation"/>
+        <category type="stiftelse"/>
       </categories>
       <web>http://www.soldathemmet.se/</web>
     </entry>
@@ -5660,8 +6304,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="golfklubb"/>
         <category type="golf"/>
+        <category type="golfklubb"/>
       </categories>
       <web>https://www.partillegk.se/</web>
     </entry>
@@ -5800,8 +6444,8 @@
       <comment/>
       <categories>
         <category type="bildelar"/>
-        <category type="reservdelar"/>
         <category type="bilvård"/>
+        <category type="reservdelar"/>
       </categories>
       <web>http://www.bildelonline.se/</web>
     </entry>
@@ -5814,10 +6458,10 @@
       </organization>
       <comment/>
       <categories>
-        <category type="intresseorganisation"/>
         <category type="förening"/>
-        <category type="vattenvård"/>
+        <category type="intresseorganisation"/>
         <category type="naturvård"/>
+        <category type="vattenvård"/>
       </categories>
       <web>http://sparren.net/</web>
     </entry>
@@ -5921,6 +6565,20 @@
     </entry>
     
 
+    <entry number="1235100300">
+      <organization>
+        <name>Norrtälje Släktforskarförening</name>
+        <number>814401-0496</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="genealogi"/>
+        <category type="släktforskning"/>
+      </categories>
+      <web>http://old.norrtelje-sff.se/</web>
+    </entry>
+    
+
     <entry number="1235111034">
       <organization>
         <name>Gotlands Brukshästförening - JUF</name>
@@ -5928,8 +6586,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="hästsport"/>
         <category type="brukshäst"/>
+        <category type="hästsport"/>
       </categories>
       <web>https://brukshast.se/</web>
     </entry>
@@ -5942,8 +6600,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
         <category type="donation"/>
+        <category type="religion"/>
       </categories>
       <web>http://www.equmeniakyrkangrabo.se/</web>
     </entry>
@@ -5969,8 +6627,8 @@
       </organization>
       <comment>Nedåt</comment>
       <categories>
-        <category type="grottforskning"/>
         <category type="förbund"/>
+        <category type="grottforskning"/>
       </categories>
       <web>https://speleo.se/</web>
     </entry>
@@ -6010,9 +6668,9 @@
       </organization>
       <comment>Hagelbanan</comment>
       <categories>
+        <category type="förening"/>
         <category type="naturvård"/>
         <category type="viltvård"/>
-        <category type="förening"/>
       </categories>
       <web>https://www.kirunajaktochfiske.se/</web>
     </entry>
@@ -6025,8 +6683,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="trafiksäkerhet"/>
         <category type="skadeförening"/>
+        <category type="trafiksäkerhet"/>
       </categories>
       <web>https://www.algen.se/</web>
     </entry>
@@ -6050,8 +6708,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="intresseorganisation"/>
         <category type="förening"/>
+        <category type="intresseorganisation"/>
       </categories>
       <web>https://www.lillaarkosundet.se/</web>
     </entry>
@@ -6065,6 +6723,33 @@
       <comment/>
       <categories/>
       <web>https://www.brottsofferjouren.se/</web>
+    </entry>
+    
+
+    <entry number="1235175906">
+      <organization>
+        <name>Grönby Byalag</name>
+        <number>802416-6582</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="byalag"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://gronby.se/</web>
+    </entry>
+    
+
+    <entry number="1235177530">
+      <organization>
+        <name>Linköpings GMF</name>
+        <number>822003-0665</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+      </categories>
+      <web>https://godmanlinkoping.se/</web>
     </entry>
     
 
@@ -6086,9 +6771,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="urmakeri"/>
         <category type="klockor"/>
         <category type="reparationer"/>
+        <category type="urmakeri"/>
       </categories>
       <web>http://www.besour.se/</web>
     </entry>
@@ -6150,8 +6835,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
         <category type="församling"/>
+        <category type="religion"/>
       </categories>
       <web>https://mariakyrkaniuddevalla.se/</web>
     </entry>
@@ -6177,8 +6862,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="tandläkare"/>
         <category type="tandkirurgi"/>
+        <category type="tandläkare"/>
       </categories>
       <web>http://www.tandlakaresandbacka.se/</web>
     </entry>
@@ -6218,9 +6903,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="skärmflygning"/>
         <category type="fallskärm"/>
         <category type="idrottsförening"/>
+        <category type="skärmflygning"/>
       </categories>
       <web>https://fenixflyg.se/</web>
     </entry>
@@ -6257,10 +6942,24 @@
       </organization>
       <comment/>
       <categories>
-        <category type="blommor"/>
         <category type="blomarrangemang"/>
+        <category type="blommor"/>
       </categories>
       <web>http://grottansblommor.se/</web>
+    </entry>
+    
+
+    <entry number="1235333372">
+      <organization>
+        <name>Hammarby IF Ishockeyförening</name>
+        <number>802442-1623</number>
+      </organization>
+      <comment>Damlag</comment>
+      <categories>
+        <category type="idrottsförening"/>
+        <category type="ishockey"/>
+      </categories>
+      <web>https://www.hammarbyhockey.se/</web>
     </entry>
     
 
@@ -6335,8 +7034,8 @@
       </organization>
       <comment>Medlemsavgift</comment>
       <categories>
-        <category type="sports"/>
         <category type="curling"/>
+        <category type="sports"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
     </entry>
@@ -6400,8 +7099,8 @@
       </organization>
       <comment>Reception/Shop/Greenfee</comment>
       <categories>
-        <category type="golfklubb"/>
         <category type="golf"/>
+        <category type="golfklubb"/>
       </categories>
       <web>https://www.vasatorp.golf/</web>
     </entry>
@@ -6414,8 +7113,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="intresseorganisation"/>
         <category type="barnlöshet"/>
+        <category type="intresseorganisation"/>
       </categories>
       <web>https://www.barnloshetsverige.se/</web>
     </entry>
@@ -6468,12 +7167,12 @@
       </organization>
       <comment/>
       <categories>
-        <category type="idrottsförening"/>
-        <category type="parasport"/>
-        <category type="innebandy"/>
-        <category type="ishockey"/>
         <category type="boccia"/>
         <category type="fotboll"/>
+        <category type="idrottsförening"/>
+        <category type="innebandy"/>
+        <category type="ishockey"/>
+        <category type="parasport"/>
       </categories>
       <web>https://www.luleahandikappidrott.se/</web>
     </entry>
@@ -6499,8 +7198,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="ridsport"/>
         <category type="ridklubb"/>
+        <category type="ridsport"/>
         <category type="ryttarförening"/>
       </categories>
       <web>https://www.asedaryttarforening.se/</web>
@@ -6514,8 +7213,8 @@
       </organization>
       <comment>CIF-tipset</comment>
       <categories>
-        <category type="innebandy"/>
         <category type="idrottsförening"/>
+        <category type="innebandy"/>
       </categories>
       <web>https://www.laget.se/CIF/</web>
     </entry>
@@ -6553,8 +7252,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="idrottsförening"/>
         <category type="hockey"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://www.hockeyettan.se/grums-ik-hockey/</web>
     </entry>
@@ -6641,8 +7340,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="bridgeklubb"/>
         <category type="bridge"/>
+        <category type="bridgeklubb"/>
       </categories>
       <web>https://www.svenskbridge.se/abb-bk</web>
     </entry>
@@ -6673,6 +7372,19 @@
     </entry>
     
 
+    <entry number="1235622113">
+      <organization>
+        <name>Dalarnas Ridsportförbund</name>
+        <number>883201-1533</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="ridsport"/>
+      </categories>
+      <web>https://www.ridsport.se/Distrikt/dalarnasridsportforbund/</web>
+    </entry>
+    
+
     <entry number="1235624606">
       <organization>
         <name>Trönö Fiskevårdsförening</name>
@@ -6697,6 +7409,20 @@
         <category type="förening"/>
       </categories>
       <web>https://dissociation.nu/</web>
+    </entry>
+    
+
+    <entry number="1235664628">
+      <organization>
+        <name>Uppsala Biodlareförening</name>
+        <number>817600-5307</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="biodling"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://uppsalabiodlare.se/</web>
     </entry>
     
 
@@ -6743,9 +7469,9 @@
       </organization>
       <comment>Örebro</comment>
       <categories>
+        <category type="donation"/>
         <category type="religion"/>
         <category type="worship"/>
-        <category type="donation"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -6762,6 +7488,20 @@
         <category type="närradiostation"/>
       </categories>
       <web>http://www.radiohaninge.se/</web>
+    </entry>
+    
+
+    <entry number="1235719380">
+      <organization>
+        <name>Huskatten Västerås</name>
+        <number>878001-2640</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurskydd"/>
+        <category type="katthem"/>
+      </categories>
+      <web>https://www.huskatten.com/</web>
     </entry>
     
 
@@ -6809,8 +7549,8 @@
       </organization>
       <comment>Klubbline</comment>
       <categories>
-        <category type="innebandy"/>
         <category type="idrottsförening"/>
+        <category type="innebandy"/>
       </categories>
       <web>https://www.laget.se/CIF/</web>
     </entry>
@@ -6837,8 +7577,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="idrottsförening"/>
         <category type="handbollsklubb"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://www.edsbynsifhandboll.se/</web>
     </entry>
@@ -6851,9 +7591,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="museum"/>
         <category type="förening"/>
         <category type="intresseorganisation"/>
+        <category type="museum"/>
       </categories>
       <web>https://www.nilssonsmuseum.se/</web>
     </entry>
@@ -6877,9 +7617,9 @@
       </organization>
       <comment>Jägarexamen</comment>
       <categories>
+        <category type="förening"/>
         <category type="naturvård"/>
         <category type="viltvård"/>
-        <category type="förening"/>
       </categories>
       <web>https://www.kirunajaktochfiske.se/</web>
     </entry>
@@ -6906,8 +7646,8 @@
       </organization>
       <comment>Årsmöte</comment>
       <categories>
-        <category type="grottforskning"/>
         <category type="förbund"/>
+        <category type="grottforskning"/>
       </categories>
       <web>https://speleo.se/</web>
     </entry>
@@ -6920,9 +7660,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
-        <category type="donation"/>
         <category type="charity"/>
+        <category type="donation"/>
+        <category type="religion"/>
       </categories>
       <web>https://korskyrkanumea.se/</web>
     </entry>
@@ -6935,8 +7675,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="förening"/>
         <category type="byggnadsförening"/>
+        <category type="förening"/>
       </categories>
       <web>https://bullaregarden.webnode.se/</web>
     </entry>
@@ -6971,10 +7711,23 @@
       </organization>
       <comment>Seniors</comment>
       <categories>
-        <category type="sports"/>
         <category type="curling"/>
+        <category type="sports"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
+    </entry>
+    
+
+    <entry number="1235883905">
+      <organization>
+        <name>Mariedalskyrkan Equmeniakyrkan</name>
+        <number>835000-1320</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://mariedalskyrkan.se/</web>
     </entry>
     
 
@@ -7009,8 +7762,8 @@
       </organization>
       <comment>Ungdomsverksamheten</comment>
       <categories>
-        <category type="religion"/>
         <category type="donation"/>
+        <category type="religion"/>
       </categories>
       <web>https://www.forshedamission.se/</web>
     </entry>
@@ -7036,8 +7789,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="healthcare"/>
         <category type="cancer"/>
+        <category type="healthcare"/>
       </categories>
       <web>https://jonkoping.brostcancerforbundet.se/</web>
     </entry>
@@ -7054,6 +7807,20 @@
     </entry>
     
 
+    <entry number="1235954243">
+      <organization>
+        <name>Musketörerna i Sollentuna</name>
+        <number>802448-7483</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+        <category type="intresseorganisation"/>
+      </categories>
+      <web>https://www.musketorernaisollentuna.se/</web>
+    </entry>
+    
+
     <entry number="1235959903">
       <organization>
         <name>Forsheda Missionsförsamling</name>
@@ -7061,8 +7828,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
         <category type="donation"/>
+        <category type="religion"/>
       </categories>
       <web>https://www.forshedamission.se/</web>
     </entry>
@@ -7110,8 +7877,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="trafikskola"/>
         <category type="körkort"/>
+        <category type="trafikskola"/>
       </categories>
       <web>https://sundsvallstrafikskola.se/</web>
     </entry>
@@ -7125,6 +7892,20 @@
       <comment>EFS internationella mission</comment>
       <categories/>
       <web>https://www.efs.nu/</web>
+    </entry>
+    
+
+    <entry number="1236033260">
+      <organization>
+        <name>Linnébygdens Hundägarförening</name>
+        <number>802448-9414</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://linnebygdenshf.se/</web>
     </entry>
     
 
@@ -7181,9 +7962,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="utbildning"/>
         <category type="förening"/>
         <category type="intresseorganisation"/>
+        <category type="utbildning"/>
       </categories>
       <web>https://kisumu.se/</web>
     </entry>
@@ -7196,8 +7977,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
         <category type="podcast"/>
+        <category type="religion"/>
       </categories>
       <web>https://lappis.libsyn.com/</web>
     </entry>
@@ -7210,8 +7991,8 @@
       </organization>
       <comment>Medlemsavgifter</comment>
       <categories>
-        <category type="grottforskning"/>
         <category type="förbund"/>
+        <category type="grottforskning"/>
       </categories>
       <web>https://speleo.se/</web>
     </entry>
@@ -7225,9 +8006,9 @@
       <comment/>
       <categories>
         <category type="djurskydd"/>
-        <category type="katthem"/>
-        <category type="hundhem"/>
         <category type="förening"/>
+        <category type="hundhem"/>
+        <category type="katthem"/>
       </categories>
       <web>https://www.djurskyddet-eskilstuna.se/</web>
     </entry>
@@ -7258,6 +8039,20 @@
     </entry>
     
 
+    <entry number="1236098172">
+      <organization>
+        <name>Arsenal FC Official Supporters Club Sweden</name>
+        <number>825003-9610</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="supporterklubb"/>
+      </categories>
+      <web>https://www.arsenal.se/</web>
+    </entry>
+    
+
     <entry number="1236113021">
       <organization>
         <name>Nya Dagbladet, NyD / Aeon Media AB</name>
@@ -7279,8 +8074,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="tarot"/>
         <category type="spådomar"/>
+        <category type="tarot"/>
       </categories>
       <web>https://cleostarot.wordpress.com/</web>
     </entry>
@@ -7320,10 +8115,24 @@
       </organization>
       <comment>Östra</comment>
       <categories>
-        <category type="hundsport"/>
         <category type="hundklubb"/>
+        <category type="hundsport"/>
       </categories>
       <web>https://snkinfo.wordpress.com/</web>
+    </entry>
+    
+
+    <entry number="1236142301">
+      <organization>
+        <name>Hammarby IF Ishockeyförening</name>
+        <number>802442-1623</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+        <category type="ishockey"/>
+      </categories>
+      <web>https://www.hammarbyhockey.se/</web>
     </entry>
     
 
@@ -7386,9 +8195,9 @@
       </organization>
       <comment>Stockholm Norra</comment>
       <categories>
+        <category type="donation"/>
         <category type="religion"/>
         <category type="worship"/>
-        <category type="donation"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -7402,8 +8211,8 @@
       <comment/>
       <categories>
         <category type="fiske"/>
-        <category type="sportfiske"/>
         <category type="fiskekort"/>
+        <category type="sportfiske"/>
       </categories>
       <web>https://sportfiskarnaskane.se/</web>
     </entry>
@@ -7416,8 +8225,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="education"/>
         <category type="donation"/>
+        <category type="education"/>
       </categories>
       <web>https://utbildningsfonden.org/</web>
     </entry>
@@ -7462,6 +8271,19 @@
     </entry>
     
 
+    <entry number="1236218598">
+      <organization>
+        <name>Ale-Skövdeortens bygdegårdsförening</name>
+        <number>863000-4086</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bygdegårdsförening"/>
+      </categories>
+      <web>https://www.alegarden.se/</web>
+    </entry>
+    
+
     <entry number="1236230718">
       <organization>
         <name>Yousse Bilcenter AB</name>
@@ -7480,9 +8302,9 @@
       </organization>
       <comment/>
       <categories>
+        <category type="gym"/>
         <category type="rehab"/>
         <category type="träning"/>
-        <category type="gym"/>
       </categories>
       <web>http://rehabhuset.com/</web>
     </entry>
@@ -7495,10 +8317,24 @@
       </organization>
       <comment>Övrigt</comment>
       <categories>
-        <category type="sports"/>
         <category type="curling"/>
+        <category type="sports"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
+    </entry>
+    
+
+    <entry number="1236284152">
+      <organization>
+        <name>Göingebygdens Biologiska Förening</name>
+        <number>837000-9899</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="naturskydd"/>
+        <category type="naturvård"/>
+      </categories>
+      <web>https://www.gbfnatur.se/</web>
     </entry>
     
 
@@ -7523,8 +8359,8 @@
       <comment/>
       <categories>
         <category type="djurskydd"/>
-        <category type="katthem"/>
         <category type="förbund"/>
+        <category type="katthem"/>
       </categories>
       <web>https://www.vilse.nu/</web>
     </entry>
@@ -7537,8 +8373,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="political-party"/>
         <category type="donation"/>
+        <category type="political-party"/>
       </categories>
       <web>https://www.nyframtid.se/</web>
     </entry>
@@ -7588,9 +8424,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="transport"/>
         <category type="frakt"/>
         <category type="lager"/>
+        <category type="transport"/>
       </categories>
       <web>https://ostervarnsexpress.se/</web>
     </entry>
@@ -7652,10 +8488,10 @@
       <comment/>
       <categories>
         <category type="hundhotell"/>
-        <category type="katthotell"/>
         <category type="hundpensionat"/>
-        <category type="kattpensionat"/>
         <category type="inackordering"/>
+        <category type="katthotell"/>
+        <category type="kattpensionat"/>
       </categories>
       <web>https://www.harkebergahundhotell.se/</web>
     </entry>
@@ -7692,10 +8528,24 @@
       </organization>
       <comment/>
       <categories>
-        <category type="restaurant"/>
         <category type="cafe"/>
+        <category type="restaurant"/>
       </categories>
       <web>https://www.allebergcafeorestaurang.se/</web>
+    </entry>
+    
+
+    <entry number="1236510838">
+      <organization>
+        <name>Saltö-Ekholmens Trädgårdsförening &amp; Intresseförening</name>
+        <number>802507-9313</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseförening"/>
+        <category type="trädgårdsförening"/>
+      </categories>
+      <web>http://salto-ekholmen.se/</web>
     </entry>
     
 
@@ -7710,6 +8560,20 @@
         <category type="förening"/>
       </categories>
       <web>http://www.luleadiscgolf.se/</web>
+    </entry>
+    
+
+    <entry number="1236520068">
+      <organization>
+        <name>Hammarby IF Ishockeyförening</name>
+        <number>802442-1623</number>
+      </organization>
+      <comment>Lotterier</comment>
+      <categories>
+        <category type="idrottsförening"/>
+        <category type="ishockey"/>
+      </categories>
+      <web>https://www.hammarbyhockey.se/</web>
     </entry>
     
 
@@ -7748,8 +8612,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sports"/>
         <category type="soccer"/>
+        <category type="sports"/>
       </categories>
       <web>http://www.fif.se/</web>
     </entry>
@@ -7762,10 +8626,23 @@
       </organization>
       <comment/>
       <categories>
-        <category type="släktforskning"/>
         <category type="förening"/>
+        <category type="släktforskning"/>
       </categories>
       <web>https://www.hallandsslaktforskare.se/</web>
+    </entry>
+    
+
+    <entry number="1236581888">
+      <organization>
+        <name>Ödeshögs Kennelklubb</name>
+        <number>823000-8206</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundklubb"/>
+      </categories>
+      <web>http://www.odeshogskennelklubb.se/</web>
     </entry>
     
 
@@ -7790,8 +8667,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sportfiske"/>
         <category type="fiskeklubb"/>
+        <category type="sportfiske"/>
       </categories>
       <web>http://lilloringen.se/</web>
     </entry>
@@ -7804,8 +8681,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="intresseorganisation"/>
         <category type="förening"/>
+        <category type="intresseorganisation"/>
       </categories>
       <web>http://www.eketsframtid.se/</web>
     </entry>
@@ -7818,8 +8695,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="religion"/>
         <category type="församling"/>
+        <category type="religion"/>
       </categories>
       <web>https://lekerydsforsamling.se/</web>
     </entry>
@@ -7887,9 +8764,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="noveller"/>
         <category type="böcker"/>
         <category type="e-handel"/>
+        <category type="noveller"/>
       </categories>
       <web>https://novellix.se/</web>
     </entry>
@@ -7915,8 +8792,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="skalmodeller"/>
         <category type="modelljärnväg"/>
+        <category type="skalmodeller"/>
       </categories>
       <web>https://www.srmodell.se/</web>
     </entry>
@@ -7940,8 +8817,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="katthem"/>
         <category type="djurskydd"/>
+        <category type="katthem"/>
       </categories>
       <web>https://www.hukh.se/</web>
     </entry>
@@ -7957,6 +8834,19 @@
         <category type="intresseorganisation"/>
       </categories>
       <web>https://livisverige.org/</web>
+    </entry>
+    
+
+    <entry number="1236779201">
+      <organization>
+        <name>Föreningen För Katekumenatet</name>
+        <number>802450-5987</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://katekumenatet.se/</web>
     </entry>
     
 
@@ -7978,8 +8868,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sport"/>
         <category type="handbollsklubb"/>
+        <category type="sport"/>
       </categories>
       <web/>
     </entry>
@@ -8063,9 +8953,9 @@
       </organization>
       <comment/>
       <categories>
+        <category type="förening"/>
         <category type="koloniförening"/>
         <category type="trädgårdsförening"/>
-        <category type="förening"/>
       </categories>
       <web>https://prastakullen.com/</web>
     </entry>
@@ -8883,9 +9773,9 @@
       <comment/>
       <categories>
         <category type="donation"/>
-        <category type="välgörenhet"/>
-        <category type="verified"/>
         <category type="insamlingskontroll"/>
+        <category type="verified"/>
+        <category type="välgörenhet"/>
       </categories>
       <web>https://vasterasstadsmission.se/</web>
     </entry>
@@ -9563,8 +10453,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
         <category type="donation"/>
+        <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.unwomen.se/</web>
     </entry>
@@ -9722,8 +10612,8 @@
       <comment/>
       <categories>
         <category type="insamling"/>
-        <category type="välgörenhet"/>
         <category type="insamlingskontroll"/>
+        <category type="välgörenhet"/>
       </categories>
       <web>https://afrikagrupperna.se/</web>
     </entry>
@@ -10975,8 +11865,8 @@
       <comment/>
       <categories>
         <category type="insamling"/>
-        <category type="välgörenhet"/>
         <category type="insamlingskontroll"/>
+        <category type="välgörenhet"/>
       </categories>
       <web>https://www.agrenska.se/sallsyntafonden/</web>
     </entry>
@@ -12367,8 +13257,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
         <category type="donation"/>
+        <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.diabetes.se/diabetesfonden</web>
     </entry>
@@ -12758,8 +13648,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
         <category type="donation"/>
+        <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.hjarnfonden.se/</web>
     </entry>
@@ -13448,8 +14338,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
         <category type="donation"/>
+        <category type="insamlingskontroll"/>
         <category type="verifierad"/>
       </categories>
       <web>https://www.abrigo.se/</web>
