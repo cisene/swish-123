@@ -351,11 +351,12 @@ entries:
   web: https://www.granopingst.se/
 
 - entry: 1230485730
-  orgName: null
-  orgNumber: null
+  orgName: Östergötlands Taxklubb
+  orgNumber: 822002-1755
   comment: null
-  categories: null
-  web: null
+  categories:
+  - hundklubb
+  web: http://ostergotlandstaxklubb.dinstudio.se/
 
 - entry: 1230492983
   orgName: Strålskyddsstiftelsen
@@ -423,11 +424,12 @@ entries:
   web: https://panta.nu/
 
 - entry: 1230563098
-  orgName: null
-  orgNumber: null
+  orgName: Upplands Taxklubb
+  orgNumber: 802453-5828
   comment: null
-  categories: null
-  web: null
+  categories:
+  - hundklubb
+  web: http://upplandstaxklubb.com/
 
 - entry: 1230594143
   orgName: Höganäs GF, HGF
@@ -3300,11 +3302,12 @@ entries:
   web: https://burmaklubben.com/
 
 - entry: 1233568474
-  orgName: null
-  orgNumber: null
+  orgName: Bohuslän-Dals Taxklubb
+  orgNumber: 868401-3157
   comment: null
-  categories: null
-  web: null
+  categories:
+  - hundklubb
+  web: http://www.bohuslandalstaxklubb.se/
 
 - entry: 1233575842
   orgName: Boden Hockey AB
