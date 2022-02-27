@@ -470,6 +470,20 @@
     </entry>
     
 
+    <entry number="1230460634">
+      <organization>
+        <name>Ljusfallshammars Byaråd</name>
+        <number>825003-8448</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="byalag"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://ljusfallshammar.nu/</web>
+    </entry>
+    
+
     <entry number="1230470971">
       <organization>
         <name>Österåkers Konsthall på Länsmansgården / Österåkers Konstförening</name>
@@ -1345,6 +1359,20 @@
     </entry>
     
 
+    <entry number="1231073550">
+      <organization>
+        <name>Holmsvedenbygdens Intresseförening</name>
+        <number>886000-6090</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://www.holmsveden.se/</web>
+    </entry>
+    
+
     <entry number="1231073642">
       <organization>
         <name>Säffle Trollingklubb</name>
@@ -1966,6 +1994,7 @@
       </organization>
       <comment/>
       <categories>
+        <category type="hemlandsförening"/>
         <category type="idrottsförening"/>
         <category type="kulturförening"/>
       </categories>
@@ -2110,6 +2139,19 @@
         <category type="museum"/>
       </categories>
       <web>https://www.hasseotagemuseet.se/</web>
+    </entry>
+    
+
+    <entry number="1231552074">
+      <organization>
+        <name>Norra Taxklubben</name>
+        <number>802494-8674</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://www.norrataxklubben.se/</web>
     </entry>
     
 
@@ -2472,6 +2514,19 @@
     </entry>
     
 
+    <entry number="1231742485">
+      <organization>
+        <name>Föreningen Orusts Släktforskare</name>
+        <number>858501-0377</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="genealogi"/>
+      </categories>
+      <web>https://orustgenealogi.se/</web>
+    </entry>
+    
+
     <entry number="1231745918">
       <organization>
         <name>Göteborgs Stigcyklister</name>
@@ -2720,6 +2775,19 @@
     </entry>
     
 
+    <entry number="1231994151">
+      <organization>
+        <name>Sotenäs Hundklubb</name>
+        <number>012469-6816</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://sotenashundklubb.com/</web>
+    </entry>
+    
+
     <entry number="1231994490">
       <organization>
         <name>Degerfors Golf AB (publ)</name>
@@ -2934,6 +3002,20 @@
         <category type="kredittjänster"/>
       </categories>
       <web>https://sergel.se/</web>
+    </entry>
+    
+
+    <entry number="1232163632">
+      <organization>
+        <name>Storasystrarna</name>
+        <number>802522-3945</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="utbildning"/>
+        <category type="vuxenstöd"/>
+      </categories>
+      <web>https://www.storasystrarna.se/</web>
     </entry>
     
 
@@ -4904,6 +4986,19 @@
     </entry>
     
 
+    <entry number="1233580289">
+      <organization>
+        <name>Husarö Lotsmuseum och HembygdsFörening</name>
+        <number>802410-8527</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+      </categories>
+      <web>http://hlhf.se/</web>
+    </entry>
+    
+
     <entry number="1233600822">
       <organization>
         <name>Hästtjärns Fiske Handelsbolag</name>
@@ -5161,6 +5256,19 @@
         <category type="religion"/>
       </categories>
       <web/>
+    </entry>
+    
+
+    <entry number="1233850666">
+      <organization>
+        <name>KFUM Gården Vidablick</name>
+        <number>826000-1816</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://vidablick.org/</web>
     </entry>
     
 
@@ -5512,6 +5620,19 @@
         <category type="sportskytte"/>
       </categories>
       <web>http://www.backamoskjutbana.n.nu/</web>
+    </entry>
+    
+
+    <entry number="1234068078">
+      <organization>
+        <name>Smålands Taxklubb</name>
+        <number>802466-4644</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://smalandstaxklubb.se/</web>
     </entry>
     
 
@@ -5891,6 +6012,19 @@
     </entry>
     
 
+    <entry number="1234349361">
+      <organization>
+        <name>Gävleborgs Taxklubb</name>
+        <number>802516-5575</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundklubb"/>
+      </categories>
+      <web>http://www.gavleborgtaxklubb.se/</web>
+    </entry>
+    
+
     <entry number="1234363883">
       <organization>
         <name>Föreningen Autisterna</name>
@@ -6088,6 +6222,19 @@
         <category type="orkester"/>
       </categories>
       <web>https://mickeahlgrens.se/</web>
+    </entry>
+    
+
+    <entry number="1234482675">
+      <organization>
+        <name>Jämtland/Härjedalens Taxklubb</name>
+        <number>893201-4742</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://www.jhtk.se/</web>
     </entry>
     
 
@@ -7169,6 +7316,19 @@
     </entry>
     
 
+    <entry number="1235350525">
+      <organization>
+        <name>Föreningen kultur vid Örbyhus Slott</name>
+        <number>817301-4989</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kulturförening"/>
+      </categories>
+      <web>https://www.orbyhusslott.se/</web>
+    </entry>
+    
+
     <entry number="1235358692">
       <organization>
         <name>Svensk Webbtelevision AB</name>
@@ -7539,6 +7699,19 @@
     </entry>
     
 
+    <entry number="1235619044">
+      <organization>
+        <name>Brf Akallahöjden</name>
+        <number>716416-6493</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bostadsrättsförening"/>
+      </categories>
+      <web>http://www.akallahojden.se/</web>
+    </entry>
+    
+
     <entry number="1235619572">
       <organization>
         <name>Wermlands Ornitologiska Förening</name>
@@ -7871,6 +8044,21 @@
       <comment/>
       <categories/>
       <web>https://dcl.se/</web>
+    </entry>
+    
+
+    <entry number="1235808852">
+      <organization>
+        <name>Alvastraryttarna Föreningen - Ridsport</name>
+        <number>823000-9949</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hästsport"/>
+        <category type="ridklubb"/>
+        <category type="ryttarförening"/>
+      </categories>
+      <web>https://www.alvastraryttarna.se/</web>
     </entry>
     
 
@@ -8811,6 +8999,19 @@
     </entry>
     
 
+    <entry number="1236520399">
+      <organization>
+        <name>Föreningen Genesis</name>
+        <number>829501-9791</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://genesis.nu/</web>
+    </entry>
+    
+
     <entry number="1236521637">
       <organization>
         <name>Snabb Grus Sverige AB</name>
@@ -9003,6 +9204,19 @@
         <category type="noveller"/>
       </categories>
       <web>https://novellix.se/</web>
+    </entry>
+    
+
+    <entry number="1236718365">
+      <organization>
+        <name>Lindesbergs Hembygdsförening</name>
+        <number>877100-1750</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+      </categories>
+      <web>https://www.hembygd.se/linde</web>
     </entry>
     
 

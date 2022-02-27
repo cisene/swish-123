@@ -316,6 +316,15 @@ entries:
   - spiritualism
   web: http://www.spiranlinkoping.se/
 
+- entry: 1230460634
+  orgName: Ljusfallshammars Byaråd
+  orgNumber: 825003-8448
+  comment: null
+  categories:
+  - byalag
+  - förening
+  web: https://ljusfallshammar.nu/
+
 - entry: 1230470971
   orgName: Österåkers Konsthall på Länsmansgården / Österåkers Konstförening
   orgNumber: 812000-4521
@@ -340,6 +349,13 @@ entries:
   categories:
   - religion
   web: https://www.granopingst.se/
+
+- entry: 1230485730
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1230492983
   orgName: Strålskyddsstiftelsen
@@ -405,6 +421,13 @@ entries:
   categories:
   - pantbank
   web: https://panta.nu/
+
+- entry: 1230563098
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1230594143
   orgName: Höganäs GF, HGF
@@ -882,6 +905,15 @@ entries:
   - naturvård
   web: http://www.nordicarea.se/
 
+- entry: 1231073550
+  orgName: Holmsvedenbygdens Intresseförening
+  orgNumber: 886000-6090
+  comment: null
+  categories:
+  - hembygdsförening
+  - intresseförening
+  web: https://www.holmsveden.se/
+
 - entry: 1231073642
   orgName: Säffle Trollingklubb
   orgNumber: 874001-9461
@@ -1310,6 +1342,7 @@ entries:
   orgNumber: 857204-0544
   comment: null
   categories:
+  - hemlandsförening
   - idrottsförening
   - kulturförening
   web: http://www.velebit.se/
@@ -1402,6 +1435,14 @@ entries:
   categories:
   - museum
   web: https://www.hasseotagemuseet.se/
+
+- entry: 1231552074
+  orgName: Norra Taxklubben
+  orgNumber: 802494-8674
+  comment: null
+  categories:
+  - hundklubb
+  web: https://www.norrataxklubben.se/
 
 - entry: 1231568088
   orgName: Fiskevårdsföreningen Öringen Väja
@@ -1637,6 +1678,14 @@ entries:
   categories: null
   web: http://www.childrenaid-now.com/
 
+- entry: 1231742485
+  orgName: Föreningen Orusts Släktforskare
+  orgNumber: 858501-0377
+  comment: null
+  categories:
+  - genealogi
+  web: https://orustgenealogi.se/
+
 - entry: 1231745918
   orgName: Göteborgs Stigcyklister
   orgNumber: 802476-0509
@@ -1810,6 +1859,14 @@ entries:
   categories: null
   web: https://www.imkorebro.se/
 
+- entry: 1231994151
+  orgName: Sotenäs Hundklubb
+  orgNumber: 012469-6816
+  comment: null
+  categories:
+  - hundklubb
+  web: https://sotenashundklubb.com/
+
 - entry: 1231994490
   orgName: Degerfors Golf AB (publ)
   orgNumber: 556675-6705
@@ -1947,6 +2004,15 @@ entries:
   - inkasso
   - kredittjänster
   web: https://sergel.se/
+
+- entry: 1232163632
+  orgName: Storasystrarna
+  orgNumber: 802522-3945
+  comment: null
+  categories:
+  - utbildning
+  - vuxenstöd
+  web: https://www.storasystrarna.se/
 
 - entry: 1232169449
   orgName: Insamlingsstiftelsen Rättvis Skatteprocess
@@ -3233,6 +3299,13 @@ entries:
   - kattklubb
   web: https://burmaklubben.com/
 
+- entry: 1233568474
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1233575842
   orgName: Boden Hockey AB
   orgNumber: 559256-1103
@@ -3241,6 +3314,14 @@ entries:
   - hockey
   - sport
   web: https://www.bodenhockey.se/
+
+- entry: 1233580289
+  orgName: Husarö Lotsmuseum och HembygdsFörening
+  orgNumber: 802410-8527
+  comment: null
+  categories:
+  - hembygdsförening
+  web: http://hlhf.se/
 
 - entry: 1233600822
   orgName: Hästtjärns Fiske Handelsbolag
@@ -3406,6 +3487,14 @@ entries:
   categories:
   - religion
   web: null
+
+- entry: 1233850666
+  orgName: KFUM Gården Vidablick
+  orgNumber: 826000-1816
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://vidablick.org/
 
 - entry: 1233851631
   orgName: Pinocchio Massage & Friskvård AB
@@ -3634,6 +3723,14 @@ entries:
   - skytte
   - sportskytte
   web: http://www.backamoskjutbana.n.nu/
+
+- entry: 1234068078
+  orgName: Smålands Taxklubb
+  orgNumber: 802466-4644
+  comment: null
+  categories:
+  - hundklubb
+  web: https://smalandstaxklubb.se/
 
 - entry: 1234074902
   orgName: Ystad Skyttegille
@@ -3874,6 +3971,14 @@ entries:
   - djurskydd
   web: https://hundhjalpen.se/
 
+- entry: 1234349361
+  orgName: Gävleborgs Taxklubb
+  orgNumber: 802516-5575
+  comment: null
+  categories:
+  - hundklubb
+  web: http://www.gavleborgtaxklubb.se/
+
 - entry: 1234363883
   orgName: Föreningen Autisterna
   orgNumber: 802534-2125
@@ -4000,6 +4105,14 @@ entries:
   - dansband
   - orkester
   web: https://mickeahlgrens.se/
+
+- entry: 1234482675
+  orgName: Jämtland/Härjedalens Taxklubb
+  orgNumber: 893201-4742
+  comment: null
+  categories:
+  - hundklubb
+  web: https://www.jhtk.se/
 
 - entry: 1234489324
   orgName: Marknadsföreningen i Halland MiH
@@ -4701,6 +4814,14 @@ entries:
   categories: null
   web: https://stthuset.com/
 
+- entry: 1235350525
+  orgName: Föreningen kultur vid Örbyhus Slott
+  orgNumber: 817301-4989
+  comment: null
+  categories:
+  - kulturförening
+  web: https://www.orbyhusslott.se/
+
 - entry: 1235358692
   orgName: Svensk Webbtelevision AB
   orgNumber: 559074-2184
@@ -4945,6 +5066,14 @@ entries:
   categories: null
   web: https://www.videdalsgif.se/
 
+- entry: 1235619044
+  orgName: Brf Akallahöjden
+  orgNumber: 716416-6493
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: http://www.akallahojden.se/
+
 - entry: 1235619572
   orgName: Wermlands Ornitologiska Förening
   orgNumber: 873201-8273
@@ -5159,6 +5288,16 @@ entries:
   comment: null
   categories: null
   web: https://dcl.se/
+
+- entry: 1235808852
+  orgName: Alvastraryttarna Föreningen - Ridsport
+  orgNumber: 823000-9949
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://www.alvastraryttarna.se/
 
 - entry: 1235809066
   orgName: Gymmet i Vissefjärda / Vissefjärda Samhällsförening
@@ -5768,6 +5907,14 @@ entries:
   - ishockey
   web: https://www.hammarbyhockey.se/
 
+- entry: 1236520399
+  orgName: Föreningen Genesis
+  orgNumber: 829501-9791
+  comment: null
+  categories:
+  - religion
+  web: https://genesis.nu/
+
 - entry: 1236521637
   orgName: Snabb Grus Sverige AB
   orgNumber: 556967-8310
@@ -5909,6 +6056,14 @@ entries:
   - e-handel
   - noveller
   web: https://novellix.se/
+
+- entry: 1236718365
+  orgName: Lindesbergs Hembygdsförening
+  orgNumber: 877100-1750
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/linde
 
 - entry: 1236721575
   orgName: Mellbystrandsföreningen
