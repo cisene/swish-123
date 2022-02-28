@@ -463,6 +463,16 @@ entries:
   - ornitologi
   web: https://dalafaglar.se/
 
+- entry: 1230630194
+  orgName: Disability Rights Defenders Sweden, DRDS
+  orgNumber: 802495-0068
+  comment: null
+  categories:
+  - diskriminering
+  - funktionsnedsättning
+  - juridik
+  web: https://lagensomverktyg.se/
+
 - entry: 1230631382
   orgName: Föreningen Nordsvenska Hästen, FNH
   orgNumber: 802437-8757
@@ -1414,6 +1424,15 @@ entries:
   - swingersklubb
   web: https://www.sjundehimmelen.se/
 
+- entry: 1231507706
+  orgName: Paradisets Fastighetsägareförening, PFF
+  orgNumber: 802432-0130
+  comment: null
+  categories:
+  - fastighetsägarförening
+  - förening
+  web: https://www.ppff.se/
+
 - entry: 1231509884
   orgName: Larz-Kristerz Orkester AB
   orgNumber: 556777-2511
@@ -2170,6 +2189,15 @@ entries:
   - motorsport
   web: https://mc-kompaniet.se/
 
+- entry: 1232262046
+  orgName: Stockholm Bulgarienturkarnas Kulturförening
+  orgNumber: 802416-6343
+  comment: null
+  categories:
+  - hemlandsförening
+  - kulturförening
+  web: https://sbtkf.blogspot.com/
+
 - entry: 1232267730
   orgName: Kallinge Museum
   orgNumber: 802498-8928
@@ -2904,6 +2932,14 @@ entries:
   categories: null
   web: https://www.clubhouse-restaurant.se/
 
+- entry: 1233232709
+  orgName: Brf Staven
+  orgNumber: 775000-2102
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.brfstaven.se/
+
 - entry: 1233233079
   orgName: Frej Bildelar AB
   orgNumber: 559249-8728
@@ -3103,6 +3139,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.ifkkiruna.se/
+
+- entry: 1233395175
+  orgName: Söderhamnsortens RF - Ridsport
+  orgNumber: 886000-3907
+  comment: null
+  categories:
+  - ridklubb
+  - ryttarförening
+  web: https://www.soderhamnsortensrf.com/
 
 - entry: 1233398500
   orgName: Markbladet AB
@@ -3613,7 +3658,9 @@ entries:
   orgName: EFS - Evangeliska Fosterlandsstiftelsen
   orgNumber: 802000-8184
   comment: Salt – barn och unga i EFS
-  categories: null
+  categories:
+  - donation
+  - religion
   web: https://www.efs.nu/
 
 - entry: 1233940087
@@ -3833,6 +3880,14 @@ entries:
   categories:
   - donation
   web: https://ftm-mission.org/
+
+- entry: 1234195012
+  orgName: EFS Missionsförening Hammarbykyrkan
+  orgNumber: 802004-7067
+  comment: null
+  categories:
+  - religion
+  web: http://www.hammarbykyrkan.nu/
 
 - entry: 1234197026
   orgName: Djurhemmet Tassebo / Stiftelsen Djurhemmet I Helsingborg
@@ -4319,6 +4374,14 @@ entries:
   - veteranbilar
   web: https://www.nkpgraggare.nu/
 
+- entry: 1234749925
+  orgName: Bromma Hembygdsförening
+  orgNumber: 802016-4243
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://brommahembygd.se/
+
 - entry: 1234759817
   orgName: SPF Seniorerna Kvarnen
   orgNumber: 849201-6418
@@ -4448,6 +4511,15 @@ entries:
   categories:
   - förening
   web: https://www.solleron.se/
+
+- entry: 1235016159
+  orgName: Föreningen Träibatn
+  orgNumber: 834001-3724
+  comment: null
+  categories:
+  - båtvård
+  - intresseförening
+  web: http://traibatn.se/
 
 - entry: 1235024658
   orgName: Atracco AB
@@ -5086,6 +5158,14 @@ entries:
   - ornitologi
   web: https://varmlandsornitologiska.se/
 
+- entry: 1235619762
+  orgName: Fredrikshofs IF
+  orgNumber: 802406-4258
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.fredrikshof.org/
+
 - entry: 1235622113
   orgName: Dalarnas Ridsportförbund
   orgNumber: 883201-1533
@@ -5643,6 +5723,14 @@ entries:
   - ufo
   web: https://www.ufo.se/
 
+- entry: 1236160675
+  orgName: Norra Hallands Konstförening
+  orgNumber: 849400-4537
+  comment: null
+  categories:
+  - konstförening
+  web: https://nhkf.se/
+
 - entry: 1236161301
   orgName: Hillsong Church Sweden
   orgNumber: 802433-8553
@@ -5791,6 +5879,14 @@ entries:
   - religion
   web: https://www.brannkyrka.org/
 
+- entry: 1236357594
+  orgName: Yankee Car Club Borlänge
+  orgNumber: 982600-4492
+  comment: null
+  categories:
+  - bilklubb
+  web: https://www.ycc.nu/
+
 - entry: 1236359798
   orgName: Engelholms Volleybollsällskap, EVS
   orgNumber: 839400-8851
@@ -5856,6 +5952,25 @@ entries:
   comment: Fika
   categories: null
   web: https://www.piteaifok.se/
+
+- entry: 1236429401
+  orgName: Svenska Epilepsiförbundet
+  orgNumber: 802406-2898
+  comment: null
+  categories:
+  - förbund
+  - neurohälsa
+  web: https://www.epilepsi.se/
+
+- entry: 1236441927
+  orgName: Svenska Gospelverkstaden
+  orgNumber: 802444-2405
+  comment: null
+  categories:
+  - förening
+  - gospel
+  - körsång
+  web: https://www.gospelverkstaden.se/
 
 - entry: 1236464960
   orgName: Gluggen - Smart Svensk Mat
@@ -6049,6 +6164,16 @@ entries:
   - boule
   - pensionärsklubb
   web: https://sites.google.com/site/fkpulspantrar/
+
+- entry: 1236695357
+  orgName: Strokeföreningen Tranås
+  orgNumber: 802429-5878
+  comment: null
+  categories:
+  - förening
+  - hälsa
+  - stroke
+  web: http://www.strokeforeningentranas.n.nu/
 
 - entry: 1236712244
   orgName: Novellix AB

@@ -705,6 +705,21 @@
     </entry>
     
 
+    <entry number="1230630194">
+      <organization>
+        <name>Disability Rights Defenders Sweden, DRDS</name>
+        <number>802495-0068</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="diskriminering"/>
+        <category type="funktionsnedsättning"/>
+        <category type="juridik"/>
+      </categories>
+      <web>https://lagensomverktyg.se/</web>
+    </entry>
+    
+
     <entry number="1230631382">
       <organization>
         <name>Föreningen Nordsvenska Hästen, FNH</name>
@@ -2130,6 +2145,20 @@
     </entry>
     
 
+    <entry number="1231507706">
+      <organization>
+        <name>Paradisets Fastighetsägareförening, PFF</name>
+        <number>802432-0130</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fastighetsägarförening"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://www.ppff.se/</web>
+    </entry>
+    
+
     <entry number="1231509884">
       <organization>
         <name>Larz-Kristerz Orkester AB</name>
@@ -3276,6 +3305,20 @@
     </entry>
     
 
+    <entry number="1232262046">
+      <organization>
+        <name>Stockholm Bulgarienturkarnas Kulturförening</name>
+        <number>802416-6343</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hemlandsförening"/>
+        <category type="kulturförening"/>
+      </categories>
+      <web>https://sbtkf.blogspot.com/</web>
+    </entry>
+    
+
     <entry number="1232267730">
       <organization>
         <name>Kallinge Museum</name>
@@ -4391,6 +4434,19 @@
     </entry>
     
 
+    <entry number="1233232709">
+      <organization>
+        <name>Brf Staven</name>
+        <number>775000-2102</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bostadsrättsförening"/>
+      </categories>
+      <web>https://www.brfstaven.se/</web>
+    </entry>
+    
+
     <entry number="1233233079">
       <organization>
         <name>Frej Bildelar AB</name>
@@ -4685,6 +4741,20 @@
         <category type="idrottsförening"/>
       </categories>
       <web>https://www.ifkkiruna.se/</web>
+    </entry>
+    
+
+    <entry number="1233395175">
+      <organization>
+        <name>Söderhamnsortens RF - Ridsport</name>
+        <number>886000-3907</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="ridklubb"/>
+        <category type="ryttarförening"/>
+      </categories>
+      <web>https://www.soderhamnsortensrf.com/</web>
     </entry>
     
 
@@ -5492,7 +5562,10 @@
         <number>802000-8184</number>
       </organization>
       <comment>Salt – barn och unga i EFS</comment>
-      <categories/>
+      <categories>
+        <category type="donation"/>
+        <category type="religion"/>
+      </categories>
       <web>https://www.efs.nu/</web>
     </entry>
     
@@ -5827,6 +5900,19 @@
         <category type="donation"/>
       </categories>
       <web>https://ftm-mission.org/</web>
+    </entry>
+    
+
+    <entry number="1234195012">
+      <organization>
+        <name>EFS Missionsförening Hammarbykyrkan</name>
+        <number>802004-7067</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>http://www.hammarbykyrkan.nu/</web>
     </entry>
     
 
@@ -6597,6 +6683,19 @@
     </entry>
     
 
+    <entry number="1234749925">
+      <organization>
+        <name>Bromma Hembygdsförening</name>
+        <number>802016-4243</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+      </categories>
+      <web>https://brommahembygd.se/</web>
+    </entry>
+    
+
     <entry number="1234759817">
       <organization>
         <name>SPF Seniorerna Kvarnen</name>
@@ -6800,6 +6899,20 @@
         <category type="förening"/>
       </categories>
       <web>https://www.solleron.se/</web>
+    </entry>
+    
+
+    <entry number="1235016159">
+      <organization>
+        <name>Föreningen Träibatn</name>
+        <number>834001-3724</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="båtvård"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>http://traibatn.se/</web>
     </entry>
     
 
@@ -7765,6 +7878,19 @@
     </entry>
     
 
+    <entry number="1235619762">
+      <organization>
+        <name>Fredrikshofs IF</name>
+        <number>802406-4258</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://www.fredrikshof.org/</web>
+    </entry>
+    
+
     <entry number="1235622113">
       <organization>
         <name>Dalarnas Ridsportförbund</name>
@@ -8636,6 +8762,19 @@
     </entry>
     
 
+    <entry number="1236160675">
+      <organization>
+        <name>Norra Hallands Konstförening</name>
+        <number>849400-4537</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="konstförening"/>
+      </categories>
+      <web>https://nhkf.se/</web>
+    </entry>
+    
+
     <entry number="1236161301">
       <organization>
         <name>Hillsong Church Sweden</name>
@@ -8867,6 +9006,19 @@
     </entry>
     
 
+    <entry number="1236357594">
+      <organization>
+        <name>Yankee Car Club Borlänge</name>
+        <number>982600-4492</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bilklubb"/>
+      </categories>
+      <web>https://www.ycc.nu/</web>
+    </entry>
+    
+
     <entry number="1236359798">
       <organization>
         <name>Engelholms Volleybollsällskap, EVS</name>
@@ -8966,6 +9118,35 @@
       <comment>Fika</comment>
       <categories/>
       <web>https://www.piteaifok.se/</web>
+    </entry>
+    
+
+    <entry number="1236429401">
+      <organization>
+        <name>Svenska Epilepsiförbundet</name>
+        <number>802406-2898</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förbund"/>
+        <category type="neurohälsa"/>
+      </categories>
+      <web>https://www.epilepsi.se/</web>
+    </entry>
+    
+
+    <entry number="1236441927">
+      <organization>
+        <name>Svenska Gospelverkstaden</name>
+        <number>802444-2405</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="gospel"/>
+        <category type="körsång"/>
+      </categories>
+      <web>https://www.gospelverkstaden.se/</web>
     </entry>
     
 
@@ -9228,6 +9409,21 @@
         <category type="religion"/>
       </categories>
       <web>https://www.brannkyrka.org/</web>
+    </entry>
+    
+
+    <entry number="1236695357">
+      <organization>
+        <name>Strokeföreningen Tranås</name>
+        <number>802429-5878</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="hälsa"/>
+        <category type="stroke"/>
+      </categories>
+      <web>http://www.strokeforeningentranas.n.nu/</web>
     </entry>
     
 
