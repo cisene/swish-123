@@ -23,6 +23,14 @@ def safeSQL(data):
 def loadYamlIntoDb(filepath):
   global conn
 
+  category_block = [
+    'overifierad',
+    'suspended',
+    'terminated',
+    'verified',
+    'verifierad',
+  ]
+
   cursor = conn.cursor()
 
   contents = None
@@ -43,6 +51,9 @@ def loadYamlIntoDb(filepath):
 
     buffer = []
     values_list = []
+
+    categories_list = []
+
     for VO in data['entries']:
 
       if len(buffer) == 0:
@@ -87,6 +98,27 @@ def loadYamlIntoDb(filepath):
         values = f"({entry}, '{orgName}', '{orgNumber}', '{web}')"
         values_list.append(values)
 
+        if categories != None:
+          for category in categories:
+
+            if category == 'overifierad':
+              continue
+
+            if category in category_block:
+              continue
+
+            values = f"({entry}, '{category}')"
+            if values not in categories_list:
+              categories_list.append(values)
+
+            if len(categories_list) == 500:
+              cl = ",".join(categories_list)
+              categories_list = []
+              query = "INSERT INTO categories (entry, category) VALUES " + cl + ";"
+              cursor.execute(query)
+              conn.commit()
+
+
       if len(values_list) == 500:
         vl = ",".join(values_list)
         buffer.append(vl)
@@ -97,6 +129,9 @@ def loadYamlIntoDb(filepath):
         cursor.execute(query)
         conn.commit()
 
+
+
+
     if len(values_list) > 0:
       vl = ",".join(values_list)
       buffer.append(vl)
@@ -106,6 +141,14 @@ def loadYamlIntoDb(filepath):
       values_list = []
       cursor.execute(query)
       conn.commit()
+
+    if len(categories_list) > 0:
+      cl = ",".join(categories_list)
+      categories_list = []
+      query = "INSERT INTO categories (entry, category) VALUES " + cl + ";"
+      cursor.execute(query)
+      conn.commit()
+
 
   return
 
@@ -122,17 +165,40 @@ def initiate_database():
 
   }
 
+  categories_object = {
+    "entry": "INTEGER NOT NULL",
+    "category": "TEXT NOT NULL"
+  }
+
+  # Create Swish objects
   elements = []
-
   elements.append("CREATE TABLE IF NOT EXISTS swish (")
-
 
   for field in swish_object.keys():
     field = f"{field} {str(swish_object[field])}, "
     elements.append(field)
 
-
   elements.append("PRIMARY KEY (entry)")
+  elements.append(") WITHOUT ROWID;")
+
+  query = "".join(elements)
+  query = re.sub(r"\x2c\x20\x29", ")", str(query), flags=re.IGNORECASE)
+
+  try:
+    c = conn.cursor()
+    c.execute(query)
+  except Error as e:
+    print(e)
+
+  # Create Categories
+  elements = []
+  elements.append("CREATE TABLE IF NOT EXISTS categories (")
+
+  for field in categories_object.keys():
+    field = f"{field} {str(categories_object[field])}, "
+    elements.append(field)
+
+  elements.append("PRIMARY KEY (entry, category)")
   elements.append(") WITHOUT ROWID;")
 
   query = "".join(elements)
@@ -144,6 +210,8 @@ def initiate_database():
     c.execute(query)
   except Error as e:
     print(e)
+
+
 
   return
 
