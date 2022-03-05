@@ -1,6 +1,45 @@
 <?xml version="1.0" ?>
 <root>
   <entries>
+    <entry number="1230004648">
+      <organization>
+        <name>Svenska Röda Korset</name>
+        <number>802002-8711</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+      </categories>
+      <web>https://www.rodakorset.se/</web>
+    </entry>
+    
+
+    <entry number="1230004655">
+      <organization>
+        <name>Svenska Röda Korset</name>
+        <number>802002-8711</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+      </categories>
+      <web>https://www.rodakorset.se/</web>
+    </entry>
+    
+
+    <entry number="1230004663">
+      <organization>
+        <name>Svenska Röda Korset</name>
+        <number>802002-8711</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+      </categories>
+      <web>https://www.rodakorset.se/</web>
+    </entry>
+    
+
     <entry number="1230009019">
       <organization>
         <name>Ättekulla lunchen / Fortuna Strandkrog / Fortuna by the Sea AB</name>
@@ -152,6 +191,20 @@
     </entry>
     
 
+    <entry number="1230182188">
+      <organization>
+        <name>ATSUB/Göteborg - Föreningen Anhöriga Till Sexuellt Utnyttjade Barn Och Ungdomar</name>
+        <number>857209-3444</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>http://www.atsubgbg.nu/</web>
+    </entry>
+    
+
     <entry number="1230184374">
       <organization>
         <name>Sandviks IK</name>
@@ -160,6 +213,20 @@
       <comment>Medlems &amp; Deltagaravgifter</comment>
       <categories/>
       <web>http://www.sandviksik.se/</web>
+    </entry>
+    
+
+    <entry number="1230184994">
+      <organization>
+        <name>Frida Kvinnojour Hässleholm</name>
+        <number>837001-3602</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>http://fridakvinnojour.se/</web>
     </entry>
     
 
@@ -656,6 +723,20 @@
     </entry>
     
 
+    <entry number="1230555508">
+      <organization>
+        <name>Rise - Riksföreningen mot incest och andra sexuella övergrepp i barndomen</name>
+        <number>802011-0386</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://rise-sverige.se/</web>
+    </entry>
+    
+
     <entry number="1230561621">
       <organization>
         <name>Pantbanken Trollhättan</name>
@@ -995,6 +1076,20 @@
     </entry>
     
 
+    <entry number="1230769745">
+      <organization>
+        <name>STHLM VÄST Tjej- och kvinnojour</name>
+        <number>802428-1308</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>http://sthlmvastjour.se/</web>
+    </entry>
+    
+
     <entry number="1230772277">
       <organization>
         <name>SPF Seniorerna - Plogen Linghem</name>
@@ -1122,6 +1217,20 @@
     </entry>
     
 
+    <entry number="1230844851">
+      <organization>
+        <name>Eksjö Tjejjour</name>
+        <number>802421-1073</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/eksjotjejjour/</web>
+    </entry>
+    
+
     <entry number="1230851584">
       <organization>
         <name>Tåsjö IF</name>
@@ -1161,6 +1270,20 @@
         <category type="innebandyklubb"/>
       </categories>
       <web>https://www.laget.se/FBCBOLLNAS/</web>
+    </entry>
+    
+
+    <entry number="1230866335">
+      <organization>
+        <name>Tjej och Transjouren Lina</name>
+        <number>802476-6027</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>http://tjosa.se/</web>
     </entry>
     
 
@@ -1210,6 +1333,20 @@
       <comment>Kiosken</comment>
       <categories/>
       <web>http://www.sandviksik.se/</web>
+    </entry>
+    
+
+    <entry number="1230912287">
+      <organization>
+        <name>Kvinnors Rätt</name>
+        <number>802411-3667</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://kvinnorsratt.se/</web>
     </entry>
     
 
@@ -1337,6 +1474,20 @@
     </entry>
     
 
+    <entry number="1230987982">
+      <organization>
+        <name>Kvinnojouren Lund</name>
+        <number>845001-7788</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://kvinnojourenlund.se/</web>
+    </entry>
+    
+
     <entry number="1230993253">
       <organization>
         <name>Himlabacken Skoter</name>
@@ -1428,6 +1579,20 @@
     </entry>
     
 
+    <entry number="1231063916">
+      <organization>
+        <name>Lidingö Kvinnojour</name>
+        <number>802455-2138</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/lidingokvinnojour/</web>
+    </entry>
+    
+
     <entry number="1231069558">
       <organization>
         <name>Nordic Area</name>
@@ -1463,6 +1628,20 @@
       <comment/>
       <categories/>
       <web>https://www.saffletrollingklubb.com/</web>
+    </entry>
+    
+
+    <entry number="1231095561">
+      <organization>
+        <name>Kvinnojouren i Stenungsund</name>
+        <number>802487-8806</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>http://kvinnojouren-stenungsund.se/</web>
     </entry>
     
 
@@ -1792,6 +1971,20 @@
     </entry>
     
 
+    <entry number="1231235522">
+      <organization>
+        <name>Kvinnojouren Online</name>
+        <number>802512-2402</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourenonline/</web>
+    </entry>
+    
+
     <entry number="1231237841">
       <organization>
         <name>Cancerstiftelsen i Kronobergs län</name>
@@ -1916,6 +2109,20 @@
         <category type="forskning"/>
       </categories>
       <web>https://www.sca-network.com/</web>
+    </entry>
+    
+
+    <entry number="1231307099">
+      <organization>
+        <name>Kvinnojouren Nässjö</name>
+        <number>827001-1839</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://kvinnojourennassjo.se/</web>
     </entry>
     
 
@@ -2064,6 +2271,34 @@
         <category type="thaimat"/>
       </categories>
       <web>https://thaicorner.se/</web>
+    </entry>
+    
+
+    <entry number="1231413020">
+      <organization>
+        <name>Kvinnojouren Helsingborg</name>
+        <number>843001-5639</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/helsingborgskvinnojour/</web>
+    </entry>
+    
+
+    <entry number="1231413046">
+      <organization>
+        <name>Värnamo Kvinno- och tjejjour</name>
+        <number>828001-0227</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/varnamokvinnojour/</web>
     </entry>
     
 
@@ -2277,6 +2512,20 @@
     </entry>
     
 
+    <entry number="1231508589">
+      <organization>
+        <name>Kvinnojouren Moa</name>
+        <number>818000-8008</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourenmoa/</web>
+    </entry>
+    
+
     <entry number="1231509884">
       <organization>
         <name>Larz-Kristerz Orkester AB</name>
@@ -2288,6 +2537,20 @@
         <category type="orkester"/>
       </categories>
       <web>http://larzkristerz.com/</web>
+    </entry>
+    
+
+    <entry number="1231520428">
+      <organization>
+        <name>Kvinnojouren Embla / Kvinnojouren I Sölvesborg</name>
+        <number>836201-2406</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.kvinnojourenembla.se/</web>
     </entry>
     
 
@@ -2537,6 +2800,7 @@
       <comment/>
       <categories>
         <category type="kvinnojour"/>
+        <category type="tjejjour"/>
       </categories>
       <web>https://www.kvinnojourenanna.se/</web>
     </entry>
@@ -2552,6 +2816,20 @@
         <category type="båtklubb"/>
       </categories>
       <web>https://sodertaljebs.se/</web>
+    </entry>
+    
+
+    <entry number="1231639962">
+      <organization>
+        <name>Väsby Tjejjour</name>
+        <number>802489-9877</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/vasbytjejjour/</web>
     </entry>
     
 
@@ -2585,7 +2863,9 @@
         <number>802455-9927</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="religion"/>
+      </categories>
       <web>https://ortsforsamlingen.com/</web>
     </entry>
     
@@ -2596,7 +2876,9 @@
         <number>829502-0815</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
       <web>https://www.brottsofferjouren.se/</web>
     </entry>
     
@@ -2633,7 +2915,9 @@
         <number>826000-3739</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="hundklubb"/>
+      </categories>
       <web>https://www.smstk.se/</web>
     </entry>
     
@@ -2644,7 +2928,9 @@
         <number>878001-4349</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
       <web>https://www.brottsofferjouren.se/</web>
     </entry>
     
@@ -2704,11 +2990,13 @@
 
     <entry number="1231742469">
       <organization>
-        <name>Children Aid-Now. Filadelfiaförsamling</name>
+        <name>Children Aid-Now / Filadelfiaförsamling</name>
         <number>874400-0210</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="donation"/>
+      </categories>
       <web>http://www.childrenaid-now.com/</web>
     </entry>
     
@@ -2732,7 +3020,10 @@
         <number>802476-0509</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="cykelsport"/>
+        <category type="förening"/>
+      </categories>
       <web>https://www.goteborgsstigcyklister.com/</web>
     </entry>
     
@@ -2772,7 +3063,9 @@
         <number>802529-7923</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="supporterklubb"/>
+      </categories>
       <web>https://www.jarnkaminerna.se/sofialaktaren-tifo/</web>
     </entry>
     
@@ -2811,8 +3104,26 @@
         <number>875002-6380</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="islandshästar"/>
+        <category type="ridklubb"/>
+        <category type="ryttarförening"/>
+      </categories>
       <web>https://www.hrimfaxi.se/</web>
+    </entry>
+    
+
+    <entry number="1231824796">
+      <organization>
+        <name>Kvinnojouren I Österåker</name>
+        <number>802408-9602</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>http://www.kvinnojoureniosteraker.se/</web>
     </entry>
     
 
@@ -2837,7 +3148,9 @@
         <number>802513-8150</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="stiftelse"/>
+      </categories>
       <web>https://www.blaljusisamverkan.se/</web>
     </entry>
     
@@ -2848,7 +3161,9 @@
         <number>863000-0167</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="religion"/>
+      </categories>
       <web>https://equmeniakyrkan.se/grafsnassollebrunn/</web>
     </entry>
     
@@ -2859,7 +3174,9 @@
         <number>802000-8184</number>
       </organization>
       <comment>Johannelunds teologiska högskola</comment>
-      <categories/>
+      <categories>
+        <category type="religion"/>
+      </categories>
       <web>https://www.efs.nu/</web>
     </entry>
     
@@ -2883,7 +3200,9 @@
         <number>802012-9022</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="mansjour"/>
+      </categories>
       <web>https://www.mansjouren.se/</web>
     </entry>
     
@@ -2908,7 +3227,9 @@
         <number>882000-5075</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="idrottsförening"/>
+      </categories>
       <web/>
     </entry>
     
@@ -2933,7 +3254,9 @@
         <number>802405-0216</number>
       </organization>
       <comment>Arholma Bastu</comment>
-      <categories/>
+      <categories>
+        <category type="förening"/>
+      </categories>
       <web>https://skargardsstiftelsen.se/</web>
     </entry>
     
@@ -2982,7 +3305,9 @@
         <number>802405-0216</number>
       </organization>
       <comment>Träskö-Storö Bastu</comment>
-      <categories/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
       <web>https://skargardsstiftelsen.se/</web>
     </entry>
     
@@ -2995,6 +3320,7 @@
       <comment/>
       <categories>
         <category type="hundklubb"/>
+        <category type="hundsport"/>
       </categories>
       <web>https://sotenashundklubb.com/</web>
     </entry>
@@ -3019,7 +3345,10 @@
         <number>802406-5446</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="båtklubb"/>
+        <category type="segelklubb"/>
+      </categories>
       <web>https://www.qss.nu/</web>
     </entry>
     
@@ -3030,7 +3359,11 @@
         <number>802004-2738</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="intresseförening"/>
+        <category type="naturskydd"/>
+        <category type="naturvård"/>
+      </categories>
       <web>https://www.faltbiologerna.se/</web>
     </entry>
     
@@ -3101,6 +3434,19 @@
     </entry>
     
 
+    <entry number="1232028132">
+      <organization>
+        <name>PRO Stala</name>
+        <number>802430-7491</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="pensionärsklubb"/>
+      </categories>
+      <web>https://pro.se/distrikt/distrikt-bohuslan/samorganisationer/samorganisation-orust/foreningar/stala.html</web>
+    </entry>
+    
+
     <entry number="1232031755">
       <organization>
         <name>Sociala Missionen</name>
@@ -3165,13 +3511,29 @@
     </entry>
     
 
+    <entry number="1232073310">
+      <organization>
+        <name>Kvinnojouren Olivia</name>
+        <number>802468-9559</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourenolivia/</web>
+    </entry>
+    
+
     <entry number="1232088953">
       <organization>
         <name>Brottsofferjouren Nacka-Tyresö-Värmdö</name>
         <number>814000-0301</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
       <web>https://www.brottsofferjouren.se/</web>
     </entry>
     
@@ -3188,6 +3550,20 @@
         <category type="worship"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
+    </entry>
+    
+
+    <entry number="1232098689">
+      <organization>
+        <name>Clarajouren - Kvinnojouren i Årjäng</name>
+        <number>802466-2713</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>http://www.clarajouren.n.nu/</web>
     </entry>
     
 
@@ -3208,7 +3584,9 @@
         <number>849600-6514</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
       <web>https://www.brottsofferjouren.se/</web>
     </entry>
     
@@ -3277,7 +3655,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="intresseförening"/>
       </categories>
       <web>http://www.rattvisskatteprocess.se/</web>
     </entry>
@@ -3311,7 +3689,7 @@
 
     <entry number="1232182590">
       <organization>
-        <name>Heliga Hjärtas Kloster / Mariadättrarna OSB</name>
+        <name>Heliga Hjärtas Kloster / Mariadöttrarna OSB</name>
         <number>824000-1035</number>
       </organization>
       <comment>gåvor till klostret</comment>
@@ -3375,6 +3753,20 @@
         <category type="religion"/>
       </categories>
       <web>https://www.centrumkyrkan-norrkoping.se/</web>
+    </entry>
+    
+
+    <entry number="1232206977">
+      <organization>
+        <name>Falkenbergs Kvinnojour</name>
+        <number>849000-9316</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/falkenbergskvinnojour/</web>
     </entry>
     
 
@@ -3727,7 +4119,6 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
-        <category type="verified"/>
       </categories>
       <web>http://www.drivkraftmalmo.se/</web>
     </entry>
@@ -3862,6 +4253,20 @@
     </entry>
     
 
+    <entry number="1232527943">
+      <organization>
+        <name>Kraftbyrån</name>
+        <number>802513-4282</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kraftbyran/</web>
+    </entry>
+    
+
     <entry number="1232538593">
       <organization>
         <name>Kiruna jakt- och fiskevårdsförening</name>
@@ -3874,6 +4279,20 @@
         <category type="viltvård"/>
       </categories>
       <web>https://www.kirunajaktochfiske.se/</web>
+    </entry>
+    
+
+    <entry number="1232541613">
+      <organization>
+        <name>Tjejjouren Luleå</name>
+        <number>802523-4066</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/tjejjourenlulea/</web>
     </entry>
     
 
@@ -4136,6 +4555,20 @@
         <category type="rcbåt"/>
       </categories>
       <web>https://www.eksjorck.se/</web>
+    </entry>
+    
+
+    <entry number="1232753010">
+      <organization>
+        <name>Tjej- &amp; Kvinnojouren Nordvärmland</name>
+        <number>874000-8134</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourennordvarmland/</web>
     </entry>
     
 
@@ -4411,6 +4844,20 @@
     </entry>
     
 
+    <entry number="1233022688">
+      <organization>
+        <name>Kvinnojouren Annfrid</name>
+        <number>815600-7562</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourenannfrid/</web>
+    </entry>
+    
+
     <entry number="1233031168">
       <organization>
         <name>Föreningen M 20</name>
@@ -4555,6 +5002,20 @@
     </entry>
     
 
+    <entry number="1233093044">
+      <organization>
+        <name>Kvinnojouren Boden</name>
+        <number>802422-2161</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.kvinnojourenboden.se/</web>
+    </entry>
+    
+
     <entry number="1233111879">
       <organization>
         <name>Jönköpings Filatelist-Förening</name>
@@ -4579,6 +5040,20 @@
         <category type="bordtennisklubb"/>
       </categories>
       <web>http://www.dbtk.se/</web>
+    </entry>
+    
+
+    <entry number="1233115557">
+      <organization>
+        <name>Agera Kvinnojour</name>
+        <number>802491-4494</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/agerakvinnojour/</web>
     </entry>
     
 
@@ -4629,6 +5104,33 @@
       <comment/>
       <categories/>
       <web>https://www.hembygd.se/hembygdsforeningen-noraskog</web>
+    </entry>
+    
+
+    <entry number="1233192168">
+      <organization>
+        <name>Kvinnojouren Kullan</name>
+        <number>802461-0639</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourenkullan/</web>
+    </entry>
+    
+
+    <entry number="1233198405">
+      <organization>
+        <name>Republikanska Föreningen</name>
+        <number>802411-5654</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://www.republikanskaforeningen.se/</web>
     </entry>
     
 
@@ -5163,6 +5665,20 @@
     </entry>
     
 
+    <entry number="1233500188">
+      <organization>
+        <name>Guldstadens kvinnojour &amp; Guldstadens tjejjour</name>
+        <number>802436-3866</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/guldstaden/</web>
+    </entry>
+    
+
     <entry number="1233505278">
       <organization>
         <name>Föreningen Femörefortet</name>
@@ -5465,6 +5981,20 @@
     </entry>
     
 
+    <entry number="1233678802">
+      <organization>
+        <name>Existera</name>
+        <number>802495-9697</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.existera.org/</web>
+    </entry>
+    
+
     <entry number="1233703493">
       <organization>
         <name>Sölvesborgs Trädgårdsförening</name>
@@ -5569,6 +6099,20 @@
       <comment/>
       <categories/>
       <web>https://efsvasterbotten.se/</web>
+    </entry>
+    
+
+    <entry number="1233785854">
+      <organization>
+        <name>Kvinno- och Tjejjouren Miranda</name>
+        <number>818501-2385</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://jourmiranda.se/</web>
     </entry>
     
 
@@ -6184,6 +6728,20 @@
     </entry>
     
 
+    <entry number="1234181657">
+      <organization>
+        <name>Kvinnojouren Sigtuna</name>
+        <number>814801-0815</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourensigtuna/</web>
+    </entry>
+    
+
     <entry number="1234183307">
       <organization>
         <name>Djurens Vänner Mönsterås</name>
@@ -6345,6 +6903,20 @@
     </entry>
     
 
+    <entry number="1234272308">
+      <organization>
+        <name>Kvinnojouren Huddinge</name>
+        <number>812800-0794</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://kvinnojourenhuddinge.se/</web>
+    </entry>
+    
+
     <entry number="1234275962">
       <organization>
         <name>Stiftelsemedel.se</name>
@@ -6481,6 +7053,20 @@
         <category type="hundklubb"/>
       </categories>
       <web>http://www.gavleborgtaxklubb.se/</web>
+    </entry>
+    
+
+    <entry number="1234357000">
+      <organization>
+        <name>Kvinno- och tjejjouren Pax</name>
+        <number>802495-9655</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/pax/</web>
     </entry>
     
 
@@ -6977,6 +7563,20 @@
     </entry>
     
 
+    <entry number="1234671772">
+      <organization>
+        <name>Solrosen Kvinnojour</name>
+        <number>802465-8836</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/solrosenkvinnojour/</web>
+    </entry>
+    
+
     <entry number="1234673380">
       <organization>
         <name>Höviksnäs Båtförening</name>
@@ -7203,6 +7803,20 @@
     </entry>
     
 
+    <entry number="1234955407">
+      <organization>
+        <name>Kvinnojouren Enköping</name>
+        <number>817001-5864</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourenenkoping/</web>
+    </entry>
+    
+
     <entry number="1234962924">
       <organization>
         <name>Lerums Scoutkår</name>
@@ -7224,6 +7838,20 @@
         <category type="folkrörelse"/>
       </categories>
       <web>https://www.bransleupproret.se/</web>
+    </entry>
+    
+
+    <entry number="1234987541">
+      <organization>
+        <name>Kvinnojouren och Ungdomsjouren Kalmar</name>
+        <number>832401-3807</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourenkalmar/</web>
     </entry>
     
 
@@ -7514,6 +8142,34 @@
         <category type="barnsjukvård"/>
       </categories>
       <web>https://clownkliniken.se/</web>
+    </entry>
+    
+
+    <entry number="1235124144">
+      <organization>
+        <name>Nog Nu - Nu får det vara nog!</name>
+        <number>802504-7617</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://nognu.org/</web>
+    </entry>
+    
+
+    <entry number="1235146840">
+      <organization>
+        <name>Novahuset</name>
+        <number>802443-9203</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.novahuset.com/</web>
     </entry>
     
 
@@ -7973,6 +8629,33 @@
     </entry>
     
 
+    <entry number="1235402292">
+      <organization>
+        <name>Ungdomsjouren Fria</name>
+        <number>802514-4653</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/fria/</web>
+    </entry>
+    
+
+    <entry number="1235406327">
+      <organization>
+        <name>TROTS Kvinnojour</name>
+        <number>802467-6747</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+      </categories>
+      <web>http://trotskvinnojour.se/</web>
+    </entry>
+    
+
     <entry number="1235414164">
       <organization>
         <name>Finspångs Golfklubb och Stugby</name>
@@ -8115,6 +8798,20 @@
     </entry>
     
 
+    <entry number="1235502059">
+      <organization>
+        <name>Kvinnojouren I Sundberg</name>
+        <number>802494-5928</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.kvinnojourenisundbyberg.com/</web>
+    </entry>
+    
+
     <entry number="1235503222">
       <organization>
         <name>Åseda Ryttarförening - Ridsport</name>
@@ -8207,6 +8904,32 @@
         <category type="psykisk hälsa"/>
       </categories>
       <web>http://www.kungoverlivet.se/</web>
+    </entry>
+    
+
+    <entry number="1235557764">
+      <organization>
+        <name>Svenska Röda Korset</name>
+        <number>802002-8711</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+      </categories>
+      <web>https://www.rodakorset.se/</web>
+    </entry>
+    
+
+    <entry number="1235557772">
+      <organization>
+        <name>Svenska Röda Korset</name>
+        <number>802002-8711</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="donation"/>
+      </categories>
+      <web>https://www.rodakorset.se/</web>
     </entry>
     
 
@@ -8465,6 +9188,20 @@
         <category type="närradiostation"/>
       </categories>
       <web>http://www.radiohaninge.se/</web>
+    </entry>
+    
+
+    <entry number="1235708714">
+      <organization>
+        <name>Varbergs Kvinnojour</name>
+        <number>849600-7413</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.varbergskvinnojour.se/</web>
     </entry>
     
 
@@ -8762,6 +9499,19 @@
     </entry>
     
 
+    <entry number="1235909379">
+      <organization>
+        <name>Hälleforsnäs Bygderåd</name>
+        <number>802520-5520</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+      </categories>
+      <web>https://halleforsnas.org/</web>
+    </entry>
+    
+
     <entry number="1235923123">
       <organization>
         <name>Malmö Fotbollförening</name>
@@ -8913,6 +9663,20 @@
         <category type="trafikskola"/>
       </categories>
       <web>https://sundsvallstrafikskola.se/</web>
+    </entry>
+    
+
+    <entry number="1236022289">
+      <organization>
+        <name>Kvinnojouren Mira</name>
+        <number>819000-8949</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourenmira/</web>
     </entry>
     
 
@@ -9263,6 +10027,19 @@
     </entry>
     
 
+    <entry number="1236177422">
+      <organization>
+        <name>Kvinnojouren i Sandviken</name>
+        <number>885500-7715</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+      </categories>
+      <web>http://kvinnojourensandviken.se/</web>
+    </entry>
+    
+
     <entry number="1236181820">
       <organization>
         <name>Svenska Utbildningsfonden för Liberia</name>
@@ -9421,6 +10198,20 @@
         <category type="utbildning"/>
       </categories>
       <web>https://spraklararna.se/</web>
+    </entry>
+    
+
+    <entry number="1236275275">
+      <organization>
+        <name>Kvinnohuset Örebro</name>
+        <number>875001-2224</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnohusetorebro/</web>
     </entry>
     
 
@@ -9787,6 +10578,20 @@
     </entry>
     
 
+    <entry number="1236536544">
+      <organization>
+        <name>Sollentuna Kvinnojour</name>
+        <number>802411-4343</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://sollentunakvinnojour.se/</web>
+    </entry>
+    
+
     <entry number="1236537898">
       <organization>
         <name>Förslövs IF</name>
@@ -10022,6 +10827,20 @@
     </entry>
     
 
+    <entry number="1236731624">
+      <organization>
+        <name>Kvinnojouren Amanda</name>
+        <number>834001-4490</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.unizonjourer.se/kvinnojourenamanda/</web>
+    </entry>
+    
+
     <entry number="1236732903">
       <organization>
         <name>SR Modell</name>
@@ -10071,6 +10890,20 @@
         <category type="katthem"/>
       </categories>
       <web>https://www.hukh.se/</web>
+    </entry>
+    
+
+    <entry number="1236765242">
+      <organization>
+        <name>Kvinnojouren Karlskrona</name>
+        <number>835001-3093</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://kvinnojourenkarlskrona.se/</web>
     </entry>
     
 
@@ -10174,6 +11007,20 @@
     </entry>
     
 
+    <entry number="1236896708">
+      <organization>
+        <name>Alltid Sedd</name>
+        <number>802521-6279</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.alltidsedd.se/</web>
+    </entry>
+    
+
     <entry number="1236901557">
       <organization>
         <name>Brf Ingebäckslyckan 1</name>
@@ -10195,6 +11042,20 @@
       <comment/>
       <categories/>
       <web>https://ctvc.se/</web>
+    </entry>
+    
+
+    <entry number="1236902092">
+      <organization>
+        <name>Malmö Kvinnojour</name>
+        <number>846003-4013</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.malmokvinnojour.se/</web>
     </entry>
     
 
@@ -10272,6 +11133,20 @@
         <category type="förening"/>
       </categories>
       <web>https://www.vagkorset.se/</web>
+    </entry>
+    
+
+    <entry number="1236946214">
+      <organization>
+        <name>ATSUB - Föreningen Anhöriga till sexuellt utnyttjade barn</name>
+        <number>814000-9799</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
+      <web>https://www.atsub.se/</web>
     </entry>
     
 
@@ -11050,7 +11925,6 @@
       <categories>
         <category type="donation"/>
         <category type="insamlingskontroll"/>
-        <category type="verified"/>
         <category type="välgörenhet"/>
       </categories>
       <web>https://vasterasstadsmission.se/</web>
@@ -11403,7 +12277,6 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
-        <category type="verifierad"/>
       </categories>
       <web>https://svenskalivraddningssallskapet.se/</web>
     </entry>
@@ -11716,7 +12589,6 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
-        <category type="verified"/>
       </categories>
       <web>https://www.barncancerfonden.se/lokala-foreningar/stockholm-gotland</web>
     </entry>
@@ -11757,7 +12629,6 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
-        <category type="verified"/>
       </categories>
       <web>https://www.rotaryhjalper.se/</web>
     </entry>
@@ -12150,7 +13021,6 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
-        <category type="verified"/>
       </categories>
       <web>https://www.merorgandonation.se/</web>
     </entry>
@@ -12203,7 +13073,6 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
-        <category type="verified"/>
       </categories>
       <web>https://www.stiftelsengatubarn.se/</web>
     </entry>
@@ -12581,7 +13450,6 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
-        <category type="verified"/>
       </categories>
       <web>https://www.magtarmfonden.se/</web>
     </entry>
@@ -13741,6 +14609,8 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
       </categories>
       <web>https://www.foreningenstorasyster.se/</web>
     </entry>
@@ -13973,7 +14843,11 @@
         <number>848001-1843</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="insamlingskontroll"/>
+        <category type="kvinnojour"/>
+        <category type="tjejjour"/>
+      </categories>
       <web>https://www.brottsofferjouren.se/</web>
     </entry>
     
@@ -14051,7 +14925,6 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
-        <category type="verifierad"/>
       </categories>
       <web>https://www.folk.se/</web>
     </entry>
@@ -14364,13 +15237,25 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
-        <category type="verifierad"/>
       </categories>
       <web>https://www.parkinsonfonden.se/</web>
     </entry>
     
 
     <entry number="1239008004">
+      <organization>
+        <name>Svenska Röda Korset</name>
+        <number>802002-8711</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.rodakorset.se/</web>
+    </entry>
+    
+
+    <entry number="1239008012">
       <organization>
         <name>Svenska Röda Korset</name>
         <number>802002-8711</number>
@@ -14393,6 +15278,19 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.fub.se/</web>
+    </entry>
+    
+
+    <entry number="1239008079">
+      <organization>
+        <name>Svenska Röda Korset</name>
+        <number>802002-8711</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.rodakorset.se/</web>
     </entry>
     
 
@@ -15616,7 +16514,6 @@
       <categories>
         <category type="donation"/>
         <category type="insamlingskontroll"/>
-        <category type="verifierad"/>
       </categories>
       <web>https://www.abrigo.se/</web>
     </entry>
@@ -15656,7 +16553,6 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
-        <category type="verified"/>
       </categories>
       <web>https://www.agrenska.se/</web>
     </entry>
