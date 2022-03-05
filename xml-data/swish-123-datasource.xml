@@ -597,10 +597,9 @@
         <name>Skellefteå CK - Curling</name>
         <number>894700-5842</number>
       </organization>
-      <comment>Fika, mat</comment>
+      <comment>Fika - mat</comment>
       <categories>
         <category type="curling"/>
-        <category type="sports"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
     </entry>
@@ -2045,8 +2044,9 @@
       <comment/>
       <categories>
         <category type="kvinnojour"/>
+        <category type="tjejjour"/>
       </categories>
-      <web/>
+      <web>https://www.unizonjourer.se/kvinnojourenornskoldsvik/</web>
     </entry>
     
 
@@ -2747,7 +2747,7 @@
         <category type="förening"/>
         <category type="minnesfond"/>
       </categories>
-      <web/>
+      <web>https://www.jockenybergsminnesfond.se/</web>
     </entry>
     
 
@@ -2789,6 +2789,19 @@
         <category type="djurskydd"/>
       </categories>
       <web>https://hundarutanhem.se/</web>
+    </entry>
+    
+
+    <entry number="1231619501">
+      <organization>
+        <name>Lions Simrishamn</name>
+        <number>838800-6150</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+      </categories>
+      <web>https://e-clubhouse.org/sites/simrishamn/</web>
     </entry>
     
 
@@ -3230,7 +3243,7 @@
       <categories>
         <category type="idrottsförening"/>
       </categories>
-      <web/>
+      <web>https://www.avestaok.se/</web>
     </entry>
     
 
@@ -4318,6 +4331,20 @@
         <category type="massage"/>
       </categories>
       <web>https://www.roshanspa.info/</web>
+    </entry>
+    
+
+    <entry number="1232603686">
+      <organization>
+        <name>IF Väster</name>
+        <number>857203-6690</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fotbollsklubb"/>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://www.svenskalag.se/ifvaster/</web>
     </entry>
     
 
@@ -8601,7 +8628,6 @@
       <comment>Medlemsavgift</comment>
       <categories>
         <category type="curling"/>
-        <category type="sports"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
     </entry>

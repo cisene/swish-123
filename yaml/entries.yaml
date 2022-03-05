@@ -396,10 +396,9 @@ entries:
 - entry: 1230473231
   orgName: Skellefteå CK - Curling
   orgNumber: 894700-5842
-  comment: Fika, mat
+  comment: Fika - mat
   categories:
   - curling
-  - sports
   web: https://www.curlingklubben.se/
 
 - entry: 1230474304
@@ -1345,7 +1344,8 @@ entries:
   comment: null
   categories:
   - kvinnojour
-  web: null
+  - tjejjour
+  web: https://www.unizonjourer.se/kvinnojourenornskoldsvik/
 
 - entry: 1231259183
   orgName: Svenska RP-föreningen
@@ -1807,7 +1807,7 @@ entries:
   - fjällsäkerhet
   - förening
   - minnesfond
-  web: null
+  web: https://www.jockenybergsminnesfond.se/
 
 - entry: 1231615079
   orgName: Håbro IF - Fotboll
@@ -1837,10 +1837,11 @@ entries:
 
 - entry: 1231619501
   orgName: Lions Simrishamn
-  orgNumber: null
+  orgNumber: 838800-6150
   comment: null
-  categories: null
-  web: null
+  categories:
+  - förening
+  web: https://e-clubhouse.org/sites/simrishamn/
 
 - entry: 1231626001
   orgName: Kvinnojouren Anna
@@ -2127,7 +2128,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  web: null
+  web: https://www.avestaok.se/
 
 - entry: 1231963024
   orgName: Imam Ali Islamic Center
@@ -2843,11 +2844,13 @@ entries:
   web: https://www.roshanspa.info/
 
 - entry: 1232603686
-  orgName: null
-  orgNumber: null
+  orgName: IF Väster
+  orgNumber: 857203-6690
   comment: null
-  categories: null
-  web: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ifvaster/
 
 - entry: 1232610939
   orgName: Inlandsbanans Vänner IBV
@@ -5627,7 +5630,6 @@ entries:
   comment: Medlemsavgift
   categories:
   - curling
-  - sports
   web: https://www.curlingklubben.se/
 
 - entry: 1235394036
