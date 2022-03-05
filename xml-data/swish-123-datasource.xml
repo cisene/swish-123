@@ -1668,6 +1668,20 @@
     </entry>
     
 
+    <entry number="1231131119">
+      <organization>
+        <name>Föreningen Sesam</name>
+        <number>802439-8474</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fritidsodling"/>
+        <category type="trädgårdsförening"/>
+      </categories>
+      <web>https://foreningensesam.se/</web>
+    </entry>
+    
+
     <entry number="1231134840">
       <organization>
         <name>Brunnsbo Musikklassförening</name>
@@ -3529,6 +3543,20 @@
     </entry>
     
 
+    <entry number="1232039451">
+      <organization>
+        <name>Hemmaodlat</name>
+        <number>802488-7849</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fritidsodling"/>
+        <category type="utbildning"/>
+      </categories>
+      <web>https://www.hemmaodlat.se/</web>
+    </entry>
+    
+
     <entry number="1232039543">
       <organization>
         <name>Levande Önneköp</name>
@@ -3962,6 +3990,20 @@
     </entry>
     
 
+    <entry number="1232256436">
+      <organization>
+        <name>Nässjö Dansförening</name>
+        <number>827000-4545</number>
+      </organization>
+      <comment>Servering</comment>
+      <categories>
+        <category type="dansförening"/>
+        <category type="förening"/>
+      </categories>
+      <web>http://www.nassjodansforening.se/</web>
+    </entry>
+    
+
     <entry number="1232258689">
       <organization>
         <name>Djurens Vänner Götegorg</name>
@@ -4044,6 +4086,20 @@
     </entry>
     
 
+    <entry number="1232302016">
+      <organization>
+        <name>Nässjö Dansförening</name>
+        <number>827000-4545</number>
+      </organization>
+      <comment>Entré</comment>
+      <categories>
+        <category type="dansförening"/>
+        <category type="förening"/>
+      </categories>
+      <web>http://www.nassjodansforening.se/</web>
+    </entry>
+    
+
     <entry number="1232304418">
       <organization>
         <name>Ringens Bilskola AB</name>
@@ -4055,6 +4111,20 @@
         <category type="körkort"/>
       </categories>
       <web>https://www.ringensbilskola.se/</web>
+    </entry>
+    
+
+    <entry number="1232313039">
+      <organization>
+        <name>Hemmaodlat</name>
+        <number>802488-7849</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fritidsodling"/>
+        <category type="utbildning"/>
+      </categories>
+      <web>https://www.hemmaodlat.se/</web>
     </entry>
     
 
@@ -4256,6 +4326,19 @@
         <category type="donation"/>
       </categories>
       <web>https://www.leksaksbiblioteket.se/</web>
+    </entry>
+    
+
+    <entry number="1232423374">
+      <organization>
+        <name>Halmstads Makalösa Föräldrar</name>
+        <number>802534-5243</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="föräldraskap"/>
+      </categories>
+      <web>https://makalosa.org/</web>
     </entry>
     
 
@@ -5678,6 +5761,20 @@
     </entry>
     
 
+    <entry number="1233383080">
+      <organization>
+        <name>Motala Ryttarförening</name>
+        <number>824000-1134</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hästsport"/>
+        <category type="ryttarförening"/>
+      </categories>
+      <web>https://www.motalarf.com/</web>
+    </entry>
+    
+
     <entry number="1233395175">
       <organization>
         <name>Söderhamnsortens RF - Ridsport</name>
@@ -5702,6 +5799,20 @@
         <category type="lokaltidning"/>
       </categories>
       <web>https://www.markbladet.se/</web>
+    </entry>
+    
+
+    <entry number="1233398534">
+      <organization>
+        <name>Serik Fans</name>
+        <number>882601-9567</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="insamlingskontroll"/>
+        <category type="supporterklubb"/>
+      </categories>
+      <web>https://serikfans.wordpress.com/</web>
     </entry>
     
 
@@ -6555,6 +6666,8 @@
       <comment/>
       <categories>
         <category type="idrottsförening"/>
+        <category type="längdskidåkning"/>
+        <category type="skidor"/>
       </categories>
       <web>https://ikhp.se/</web>
     </entry>
@@ -7632,6 +7745,21 @@
     </entry>
     
 
+    <entry number="1234572525">
+      <organization>
+        <name>Fjugesta Motorsällskap</name>
+        <number>875001-1176</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="motorcykel"/>
+        <category type="motorsport"/>
+        <category type="snöskoterklubb"/>
+      </categories>
+      <web>http://www.fjugestams.com/</web>
+    </entry>
+    
+
     <entry number="1234578258">
       <organization>
         <name>Stockholms Ornitologiska Förening, StOF</name>
@@ -7811,6 +7939,19 @@
         <category type="båtvård"/>
       </categories>
       <web>http://www.hovik.se/</web>
+    </entry>
+    
+
+    <entry number="1234676060">
+      <organization>
+        <name>Örebro Boulesällskap</name>
+        <number>802443-0327</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="boule"/>
+      </categories>
+      <web>http://oreboule.se/</web>
     </entry>
     
 
@@ -8100,6 +8241,19 @@
         <category type="idrottsförening"/>
       </categories>
       <web>https://www.svenskalag.se/gotabk</web>
+    </entry>
+    
+
+    <entry number="1235009683">
+      <organization>
+        <name>Focus On Africa, FONA</name>
+        <number>802467-4676</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hjälporganisation"/>
+      </categories>
+      <web>http://www.focusonafrica.nu/</web>
     </entry>
     
 
@@ -8461,6 +8615,19 @@
     </entry>
     
 
+    <entry number="1235172457">
+      <organization>
+        <name>Lunds Makalösa Föräldrar</name>
+        <number>845003-3215</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="föräldraskap"/>
+      </categories>
+      <web>https://makalosa.org/</web>
+    </entry>
+    
+
     <entry number="1235175906">
       <organization>
         <name>Grönby Byalag</name>
@@ -8525,6 +8692,21 @@
         <category type="idrottsförening"/>
       </categories>
       <web>http://tbif.se/</web>
+    </entry>
+    
+
+    <entry number="1235205588">
+      <organization>
+        <name>TED STRÖM KONST &amp; MUSIK</name>
+        <number>441119-XXXX</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="konst"/>
+        <category type="musik"/>
+        <category type="skapande"/>
+      </categories>
+      <web>https://www.tedstrom.se/</web>
     </entry>
     
 
@@ -9360,6 +9542,21 @@
     </entry>
     
 
+    <entry number="1235666698">
+      <organization>
+        <name>TED STRÖM KONST &amp; MUSIK</name>
+        <number>441119-XXXX</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="konst"/>
+        <category type="musik"/>
+        <category type="skapande"/>
+      </categories>
+      <web>https://www.tedstrom.se/</web>
+    </entry>
+    
+
     <entry number="1235672381">
       <organization>
         <name>Föreningen Nepals Vänner - Friends Of Nepal</name>
@@ -9944,6 +10141,19 @@
     </entry>
     
 
+    <entry number="1236025449">
+      <organization>
+        <name>Södertörnkyrkan</name>
+        <number>802436-6422</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://sodertornkyrkan.nu/</web>
+    </entry>
+    
+
     <entry number="1236025662">
       <organization>
         <name>EFS - Evangeliska Fosterlandsstiftelsen</name>
@@ -10041,6 +10251,19 @@
         <category type="religion"/>
       </categories>
       <web>https://lappis.libsyn.com/</web>
+    </entry>
+    
+
+    <entry number="1236083521">
+      <organization>
+        <name>Sveriges Makalösa Föräldrar</name>
+        <number>802402-8709</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="föräldraskap"/>
+      </categories>
+      <web>https://makalosa.org/</web>
     </entry>
     
 
@@ -10524,6 +10747,19 @@
     </entry>
     
 
+    <entry number="1236312037">
+      <organization>
+        <name>Kristianstads Makalösa Föräldrar</name>
+        <number>838202-2328</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="föräldraskap"/>
+      </categories>
+      <web>https://makalosa.org/</web>
+    </entry>
+    
+
     <entry number="1236322432">
       <organization>
         <name>NyFramtid</name>
@@ -10535,6 +10771,32 @@
         <category type="political-party"/>
       </categories>
       <web>https://www.nyframtid.se/</web>
+    </entry>
+    
+
+    <entry number="1236333041">
+      <organization>
+        <name>Uppsala Makalösa Föräldrar</name>
+        <number>802490-1863</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="föräldraskap"/>
+      </categories>
+      <web>https://makalosa.org/</web>
+    </entry>
+    
+
+    <entry number="1236335061">
+      <organization>
+        <name>Internationella Kyrkan / Södertälje Finska Pingstförsamling</name>
+        <number>815600-2639</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.internationellakyrkan.se/</web>
     </entry>
     
 
@@ -10856,6 +11118,20 @@
         <category type="tjejjour"/>
       </categories>
       <web>https://sollentunakvinnojour.se/</web>
+    </entry>
+    
+
+    <entry number="1236537138">
+      <organization>
+        <name>Brastad Golfklubb</name>
+        <number>802456-2780</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="golf"/>
+        <category type="golfklubb"/>
+      </categories>
+      <web>http://www.brastadgk.se/</web>
     </entry>
     
 
@@ -12923,6 +13199,7 @@
       </organization>
       <comment/>
       <categories>
+        <category type="hjälporganisation"/>
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.rotaryhjalper.se/</web>

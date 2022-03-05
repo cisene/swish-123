@@ -1094,6 +1094,15 @@ entries:
   - förening
   web: https://vadtorp.bokamera.se/
 
+- entry: 1231131119
+  orgName: Föreningen Sesam
+  orgNumber: 802439-8474
+  comment: null
+  categories:
+  - fritidsodling
+  - trädgårdsförening
+  web: https://foreningensesam.se/
+
 - entry: 1231134840
   orgName: Brunnsbo Musikklassförening
   orgNumber: 857205-6045
@@ -2316,6 +2325,15 @@ entries:
   - insamlingskontroll
   web: http://www.socialamissionen.se/
 
+- entry: 1232039451
+  orgName: Hemmaodlat
+  orgNumber: 802488-7849
+  comment: null
+  categories:
+  - fritidsodling
+  - utbildning
+  web: https://www.hemmaodlat.se/
+
 - entry: 1232039543
   orgName: Levande Önneköp
   orgNumber: 802520-2675
@@ -2600,6 +2618,15 @@ entries:
   - ryttarförening
   web: https://www.laholmsrf.se/
 
+- entry: 1232256436
+  orgName: Nässjö Dansförening
+  orgNumber: 827000-4545
+  comment: Servering
+  categories:
+  - dansförening
+  - förening
+  web: http://www.nassjodansforening.se/
+
 - entry: 1232258689
   orgName: Djurens Vänner Götegorg
   orgNumber: 857200-3211
@@ -2661,6 +2688,15 @@ entries:
   - religion
   web: https://www.trollhattanpingst.se/
 
+- entry: 1232302016
+  orgName: Nässjö Dansförening
+  orgNumber: 827000-4545
+  comment: Entré
+  categories:
+  - dansförening
+  - förening
+  web: http://www.nassjodansforening.se/
+
 - entry: 1232304418
   orgName: Ringens Bilskola AB
   orgNumber: 556872-9999
@@ -2669,6 +2705,15 @@ entries:
   - bilskola
   - körkort
   web: https://www.ringensbilskola.se/
+
+- entry: 1232313039
+  orgName: Hemmaodlat
+  orgNumber: 802488-7849
+  comment: null
+  categories:
+  - fritidsodling
+  - utbildning
+  web: https://www.hemmaodlat.se/
 
 - entry: 1232342988
   orgName: Skånes Auktionsverk AB
@@ -2795,6 +2840,14 @@ entries:
   categories:
   - donation
   web: https://www.leksaksbiblioteket.se/
+
+- entry: 1232423374
+  orgName: Halmstads Makalösa Föräldrar
+  orgNumber: 802534-5243
+  comment: null
+  categories:
+  - föräldraskap
+  web: https://makalosa.org/
 
 - entry: 1232426773
   orgName: Tjalve Friidrott
@@ -3721,6 +3774,15 @@ entries:
   - idrottsförening
   web: https://www.ifkkiruna.se/
 
+- entry: 1233383080
+  orgName: Motala Ryttarförening
+  orgNumber: 824000-1134
+  comment: null
+  categories:
+  - hästsport
+  - ryttarförening
+  web: https://www.motalarf.com/
+
 - entry: 1233395175
   orgName: Söderhamnsortens RF - Ridsport
   orgNumber: 886000-3907
@@ -3737,6 +3799,15 @@ entries:
   categories:
   - lokaltidning
   web: https://www.markbladet.se/
+
+- entry: 1233398534
+  orgName: Serik Fans
+  orgNumber: 882601-9567
+  comment: null
+  categories:
+  - insamlingskontroll
+  - supporterklubb
+  web: https://serikfans.wordpress.com/
 
 - entry: 1233409380
   orgName: Zambian Association for Sustainable Projects, ZASP
@@ -4287,6 +4358,8 @@ entries:
   comment: null
   categories:
   - idrottsförening
+  - längdskidåkning
+  - skidor
   web: https://ikhp.se/
 
 - entry: 1233930955
@@ -4975,6 +5048,16 @@ entries:
   categories: null
   web: https://www.polisforbundet.se/om-oss/polisforbundets-stiftelser-och-fonder/
 
+- entry: 1234572525
+  orgName: Fjugesta Motorsällskap
+  orgNumber: 875001-1176
+  comment: null
+  categories:
+  - motorcykel
+  - motorsport
+  - snöskoterklubb
+  web: http://www.fjugestams.com/
+
 - entry: 1234578258
   orgName: Stockholms Ornitologiska Förening, StOF
   orgNumber: 802404-8459
@@ -5089,6 +5172,14 @@ entries:
   - båtklubb
   - båtvård
   web: http://www.hovik.se/
+
+- entry: 1234676060
+  orgName: Örebro Boulesällskap
+  orgNumber: 802443-0327
+  comment: null
+  categories:
+  - boule
+  web: http://oreboule.se/
 
 - entry: 1234705265
   orgName: Smådjurschansen
@@ -5273,6 +5364,14 @@ entries:
   - fotboll
   - idrottsförening
   web: https://www.svenskalag.se/gotabk
+
+- entry: 1235009683
+  orgName: Focus On Africa, FONA
+  orgNumber: 802467-4676
+  comment: null
+  categories:
+  - hjälporganisation
+  web: http://www.focusonafrica.nu/
 
 - entry: 1235013727
   orgName: Sollerö Sockenförening
@@ -5509,6 +5608,14 @@ entries:
   categories: null
   web: https://www.brottsofferjouren.se/
 
+- entry: 1235172457
+  orgName: Lunds Makalösa Föräldrar
+  orgNumber: 845003-3215
+  comment: null
+  categories:
+  - föräldraskap
+  web: https://makalosa.org/
+
 - entry: 1235175906
   orgName: Grönby Byalag
   orgNumber: 802416-6582
@@ -5560,6 +5667,16 @@ entries:
   - bygdegårdsförening
   - idrottsförening
   web: http://tbif.se/
+
+- entry: 1235205588
+  orgName: TED STRÖM KONST & MUSIK
+  orgNumber: 441119-XXXX
+  comment: null
+  categories:
+  - konst
+  - musik
+  - skapande
+  web: https://www.tedstrom.se/
 
 - entry: 1235215520
   orgName: RenOptik
@@ -6104,6 +6221,16 @@ entries:
   categories: null
   web: https://themaineclub.se/
 
+- entry: 1235666698
+  orgName: TED STRÖM KONST & MUSIK
+  orgNumber: 441119-XXXX
+  comment: null
+  categories:
+  - konst
+  - musik
+  - skapande
+  web: https://www.tedstrom.se/
+
 - entry: 1235672381
   orgName: Föreningen Nepals Vänner - Friends Of Nepal
   orgNumber: 802468-2877
@@ -6477,6 +6604,14 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/kvinnojourenmira/
 
+- entry: 1236025449
+  orgName: Södertörnkyrkan
+  orgNumber: 802436-6422
+  comment: null
+  categories:
+  - religion
+  web: https://sodertornkyrkan.nu/
+
 - entry: 1236025662
   orgName: EFS - Evangeliska Fosterlandsstiftelsen
   orgNumber: 802000-8184
@@ -6540,6 +6675,14 @@ entries:
   - podcast
   - religion
   web: https://lappis.libsyn.com/
+
+- entry: 1236083521
+  orgName: Sveriges Makalösa Föräldrar
+  orgNumber: 802402-8709
+  comment: null
+  categories:
+  - föräldraskap
+  web: https://makalosa.org/
 
 - entry: 1236084065
   orgName: Sveriges Speleologförbund SSF
@@ -6856,6 +6999,14 @@ entries:
   - katthem
   web: https://www.vilse.nu/
 
+- entry: 1236312037
+  orgName: Kristianstads Makalösa Föräldrar
+  orgNumber: 838202-2328
+  comment: null
+  categories:
+  - föräldraskap
+  web: https://makalosa.org/
+
 - entry: 1236322432
   orgName: NyFramtid
   orgNumber: 802513-2336
@@ -6864,6 +7015,22 @@ entries:
   - donation
   - political-party
   web: https://www.nyframtid.se/
+
+- entry: 1236333041
+  orgName: Uppsala Makalösa Föräldrar
+  orgNumber: 802490-1863
+  comment: null
+  categories:
+  - föräldraskap
+  web: https://makalosa.org/
+
+- entry: 1236335061
+  orgName: Internationella Kyrkan / Södertälje Finska Pingstförsamling
+  orgNumber: 815600-2639
+  comment: null
+  categories:
+  - religion
+  web: https://www.internationellakyrkan.se/
 
 - entry: 1236335830
   orgName: Sverige-Nepalföreningen, The Sweden Nepal Society
@@ -7086,6 +7253,15 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://sollentunakvinnojour.se/
+
+- entry: 1236537138
+  orgName: Brastad Golfklubb
+  orgNumber: 802456-2780
+  comment: null
+  categories:
+  - golf
+  - golfklubb
+  web: http://www.brastadgk.se/
 
 - entry: 1236537898
   orgName: Förslövs IF
@@ -8740,6 +8916,7 @@ entries:
   orgNumber: 802425-6086
   comment: null
   categories:
+  - hjälporganisation
   - insamlingskontroll
   web: https://www.rotaryhjalper.se/
 
