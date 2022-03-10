@@ -377,6 +377,20 @@
     </entry>
     
 
+    <entry number="1230295196">
+      <organization>
+        <name>Enskede Ridsällskap</name>
+        <number>802003-3869</number>
+      </organization>
+      <comment>Tävlingar</comment>
+      <categories>
+        <category type="hästsport"/>
+        <category type="ridklubb"/>
+      </categories>
+      <web>http://www.enskederidsallskap.se/</web>
+    </entry>
+    
+
     <entry number="1230300657">
       <organization>
         <name>Pingstkyrkan Västra Frölunda</name>
@@ -549,6 +563,20 @@
         <category type="intresseorganisation"/>
       </categories>
       <web>https://svenskaolframjandet.se/</web>
+    </entry>
+    
+
+    <entry number="1230417832">
+      <organization>
+        <name>Enskede Ridsällskap</name>
+        <number>802003-3869</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hästsport"/>
+        <category type="ridklubb"/>
+      </categories>
+      <web>http://www.enskederidsallskap.se/</web>
     </entry>
     
 
@@ -5557,6 +5585,19 @@
     </entry>
     
 
+    <entry number="1233131265">
+      <organization>
+        <name>Crêperiet i Lund</name>
+        <number>559096-1131</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="restaurant"/>
+      </categories>
+      <web>http://www.creperiet.nu/</web>
+    </entry>
+    
+
     <entry number="1233138781">
       <organization>
         <name>Kvinnojouren Blenda</name>
@@ -6435,6 +6476,20 @@
     </entry>
     
 
+    <entry number="1233553435">
+      <organization>
+        <name>Malmö Lyftarklubb</name>
+        <number>802454-6106</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+        <category type="sportklubb"/>
+      </categories>
+      <web>https://www.malmolyftarklubb.se/</web>
+    </entry>
+    
+
     <entry number="1233556248">
       <organization>
         <name>Föreningen Partrederiet Klara Marie</name>
@@ -6978,6 +7033,19 @@
         <category type="pantbank"/>
       </categories>
       <web>https://panta.nu/</web>
+    </entry>
+    
+
+    <entry number="1233894573">
+      <organization>
+        <name>Pingstförsamlingen Huskvarna</name>
+        <number>826000-0719</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>http://www.huskvarna.pingst.se/</web>
     </entry>
     
 
@@ -8062,6 +8130,20 @@
     </entry>
     
 
+    <entry number="1234513115">
+      <organization>
+        <name>Asylgruppen i Malmö</name>
+        <number>802436-3981</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="flyktingstöd"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://asylgruppenimalmo.se/</web>
+    </entry>
+    
+
     <entry number="1234522207">
       <organization>
         <name>Brännkyrka Församling</name>
@@ -8977,6 +9059,20 @@
     </entry>
     
 
+    <entry number="1235116033">
+      <organization>
+        <name>Nordiska Veteranbilstv AB</name>
+        <number>556980-7661</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bilvård"/>
+        <category type="veteranbil"/>
+      </categories>
+      <web>http://www.veteranbilstv.se/</web>
+    </entry>
+    
+
     <entry number="1235116629">
       <organization>
         <name>Sveriges Speleologförbund SSF</name>
@@ -9029,6 +9125,20 @@
         <category type="tjejjour"/>
       </categories>
       <web>https://nognu.org/</web>
+    </entry>
+    
+
+    <entry number="1235142161">
+      <organization>
+        <name>Afasiförbundet i Sverige</name>
+        <number>802010-2441</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förbund"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://afasi.se/</web>
     </entry>
     
 
@@ -9279,6 +9389,19 @@
         <category type="orkester"/>
       </categories>
       <web>https://www.perikles.se/</web>
+    </entry>
+    
+
+    <entry number="1235266697">
+      <organization>
+        <name>Adventkyrkan i Malmö</name>
+        <number>846004-1711</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://adventkyrkan.se/</web>
     </entry>
     
 
@@ -10282,6 +10405,20 @@
     </entry>
     
 
+    <entry number="1235763271">
+      <organization>
+        <name>Afasiförbundet i Sverige</name>
+        <number>802010-2441</number>
+      </organization>
+      <comment>Afasifonden</comment>
+      <categories>
+        <category type="förbund"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://afasi.se/</web>
+    </entry>
+    
+
     <entry number="1235763453">
       <organization>
         <name>Drakbergsskolan / Kannebäcks friskoleförening</name>
@@ -11184,6 +11321,19 @@
         <category type="boule"/>
       </categories>
       <web>https://www.borasbouleallians.se/</web>
+    </entry>
+    
+
+    <entry number="1236212179">
+      <organization>
+        <name>Kontext Press</name>
+        <number>802518-5904</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="journalistik"/>
+      </categories>
+      <web>https://www.kontextpress.se/</web>
     </entry>
     
 

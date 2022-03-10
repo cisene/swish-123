@@ -249,6 +249,15 @@ entries:
   - segling
   web: https://www.finnjolle.se/
 
+- entry: 1230295196
+  orgName: Enskede Ridsällskap
+  orgNumber: 802003-3869
+  comment: Tävlingar
+  categories:
+  - hästsport
+  - ridklubb
+  web: http://www.enskederidsallskap.se/
+
 - entry: 1230300657
   orgName: Pingstkyrkan Västra Frölunda
   orgNumber: 857200-4094
@@ -367,6 +376,15 @@ entries:
   - förening
   - intresseorganisation
   web: https://svenskaolframjandet.se/
+
+- entry: 1230417832
+  orgName: Enskede Ridsällskap
+  orgNumber: 802003-3869
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: http://www.enskederidsallskap.se/
 
 - entry: 1230419903
   orgName: Lerums Luftgevärsskytteförening
@@ -3624,6 +3642,14 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/agerakvinnojour/
 
+- entry: 1233131265
+  orgName: Crêperiet i Lund
+  orgNumber: 559096-1131
+  comment: null
+  categories:
+  - restaurant
+  web: http://www.creperiet.nu/
+
 - entry: 1233138781
   orgName: Kvinnojouren Blenda
   orgNumber: 829501-7050
@@ -4201,6 +4227,15 @@ entries:
   categories: null
   web: https://www.cmbk.se/
 
+- entry: 1233553435
+  orgName: Malmö Lyftarklubb
+  orgNumber: 802454-6106
+  comment: null
+  categories:
+  - idrottsförening
+  - sportklubb
+  web: https://www.malmolyftarklubb.se/
+
 - entry: 1233556248
   orgName: Föreningen Partrederiet Klara Marie
   orgNumber: 838800-7554
@@ -4554,6 +4589,14 @@ entries:
   categories:
   - pantbank
   web: https://panta.nu/
+
+- entry: 1233894573
+  orgName: Pingstförsamlingen Huskvarna
+  orgNumber: 826000-0719
+  comment: null
+  categories:
+  - religion
+  web: http://www.huskvarna.pingst.se/
 
 - entry: 1233907268
   orgName: Hundens Hus AB
@@ -5248,6 +5291,15 @@ entries:
   - näringsliv
   web: https://mih.nu/
 
+- entry: 1234513115
+  orgName: Asylgruppen i Malmö
+  orgNumber: 802436-3981
+  comment: null
+  categories:
+  - flyktingstöd
+  - intresseförening
+  web: https://asylgruppenimalmo.se/
+
 - entry: 1234522207
   orgName: Brännkyrka Församling
   orgNumber: 252000-0650
@@ -5834,6 +5886,15 @@ entries:
   - religion
   web: https://bonetaget.se/
 
+- entry: 1235116033
+  orgName: Nordiska Veteranbilstv AB
+  orgNumber: 556980-7661
+  comment: null
+  categories:
+  - bilvård
+  - veteranbil
+  web: http://www.veteranbilstv.se/
+
 - entry: 1235116629
   orgName: Sveriges Speleologförbund SSF
   orgNumber: 802010-4892
@@ -5868,6 +5929,15 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://nognu.org/
+
+- entry: 1235142161
+  orgName: Afasiförbundet i Sverige
+  orgNumber: 802010-2441
+  comment: null
+  categories:
+  - förbund
+  - intresseförening
+  web: https://afasi.se/
 
 - entry: 1235146840
   orgName: Novahuset
@@ -6044,6 +6114,14 @@ entries:
   - dansband
   - orkester
   web: https://www.perikles.se/
+
+- entry: 1235266697
+  orgName: Adventkyrkan i Malmö
+  orgNumber: 846004-1711
+  comment: null
+  categories:
+  - religion
+  web: https://adventkyrkan.se/
 
 - entry: 1235278106
   orgName: Mariakyrkans församling Uddevalla
@@ -6689,6 +6767,15 @@ entries:
   - religion
   web: http://www.baptistkyrkan.com/
 
+- entry: 1235763271
+  orgName: Afasiförbundet i Sverige
+  orgNumber: 802010-2441
+  comment: Afasifonden
+  categories:
+  - förbund
+  - intresseförening
+  web: https://afasi.se/
+
 - entry: 1235763453
   orgName: Drakbergsskolan / Kannebäcks friskoleförening
   orgNumber: 857206-9568
@@ -7266,6 +7353,14 @@ entries:
   categories:
   - boule
   web: https://www.borasbouleallians.se/
+
+- entry: 1236212179
+  orgName: Kontext Press
+  orgNumber: 802518-5904
+  comment: null
+  categories:
+  - journalistik
+  web: https://www.kontextpress.se/
 
 - entry: 1236212757
   orgName: Docksta Bordtennisklubb (DBTK)
