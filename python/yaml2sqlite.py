@@ -57,13 +57,14 @@ def loadYamlIntoDb(filepath):
     for VO in data['entries']:
 
       if len(buffer) == 0:
-        buffer.append("INSERT INTO swish (entry, orgName, orgNumber, web) VALUES ")
+        buffer.append("INSERT INTO swish (entry, orgName, orgNumber, web, comment) VALUES ")
 
       entry = None
       orgName = None
       orgNumber = None
       web = None
       categories = None
+      comment = None
 
       if "entry" in VO:
         entry = VO['entry']
@@ -80,6 +81,10 @@ def loadYamlIntoDb(filepath):
         if VO['web'] != None:
           web = safeSQL(VO['web'])
 
+      if "comment" in VO:
+        if VO['comment'] != None:
+          comment = safeSQL(VO['comment'])
+
       if "categories" in VO:
         categories = VO['categories']
 
@@ -95,7 +100,7 @@ def loadYamlIntoDb(filepath):
         entry != None
       ):
 
-        values = f"({entry}, '{orgName}', '{orgNumber}', '{web}')"
+        values = f"({entry}, '{orgName}', '{orgNumber}', '{web}', '{comment}')"
         values_list.append(values)
 
         if categories != None:
@@ -161,7 +166,8 @@ def initiate_database():
     "entry": "INTEGER NOT NULL",
     "orgName": "TEXT NOT NULL",
     "orgNumber": "TEXT NOT NULL",
-    "web": "TEXT NOT NULL"
+    "web": "TEXT NOT NULL",
+    "comment": "TEXT NOT NULL",
 
   }
 
