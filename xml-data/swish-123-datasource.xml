@@ -1367,7 +1367,6 @@
       <categories>
         <category type="donation"/>
         <category type="religion"/>
-        <category type="worship"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -1752,7 +1751,6 @@
       <categories>
         <category type="donation"/>
         <category type="religion"/>
-        <category type="worship"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -3964,7 +3962,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="hjälporganisation"/>
       </categories>
       <web>http://www.socialamissionen.se/</web>
     </entry>
@@ -4085,7 +4083,6 @@
       <categories>
         <category type="donation"/>
         <category type="religion"/>
-        <category type="worship"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -4288,7 +4285,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="religion"/>
       </categories>
       <web>http://www.linkopingmoske.se/</web>
     </entry>
@@ -4785,6 +4782,19 @@
     </entry>
     
 
+    <entry number="1232395639">
+      <organization>
+        <name>Föreningen Yari</name>
+        <number>817605-2507</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="utbildning"/>
+      </categories>
+      <web>https://www.yari.nu/</web>
+    </entry>
+    
+
     <entry number="1232404507">
       <organization>
         <name>Drivkraft Malmö idéell förening</name>
@@ -4792,7 +4802,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="förening"/>
       </categories>
       <web>http://www.drivkraftmalmo.se/</web>
     </entry>
@@ -5606,7 +5616,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="stiftelse"/>
       </categories>
       <web>http://www.1000mojligheter.se/</web>
     </entry>
@@ -5619,7 +5629,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="förening"/>
       </categories>
       <web>http://www.nemaproblema.se/</web>
     </entry>
@@ -6630,7 +6640,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="förening"/>
         <category type="supporterklubb"/>
       </categories>
       <web>https://serikfans.wordpress.com/</web>
@@ -6823,7 +6833,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="intresseorganisation"/>
+        <category type="patientförening"/>
       </categories>
       <web>http://www.rfcf.se/</web>
     </entry>
@@ -6863,7 +6874,6 @@
       <categories>
         <category type="donation"/>
         <category type="religion"/>
-        <category type="worship"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -7038,7 +7048,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="hjälporganisation"/>
       </categories>
       <web>http://www.dandelionafrica.se/</web>
     </entry>
@@ -7107,7 +7117,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="hjälporganisation"/>
       </categories>
       <web>https://sverigeforunhcr.se/</web>
     </entry>
@@ -7458,7 +7468,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="stiftelse"/>
       </categories>
       <web>http://www.sjomanskyrkan.se/</web>
     </entry>
@@ -8905,7 +8915,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="hjälporganisation"/>
       </categories>
       <web>http://www.mediemission.se/</web>
     </entry>
@@ -9333,7 +9343,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="förening"/>
       </categories>
       <web>http://www.intactsvanner.com/</web>
     </entry>
@@ -9479,7 +9489,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="förbund"/>
+        <category type="intresseorganisation"/>
       </categories>
       <web>http://www.astmaoallergiforbundet.se/</web>
     </entry>
@@ -11158,7 +11169,6 @@
       <categories>
         <category type="donation"/>
         <category type="religion"/>
-        <category type="worship"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -11743,7 +11753,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="förening"/>
       </categories>
       <web>http://www.terapikolonier.se/</web>
     </entry>
@@ -12139,7 +12149,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="stiftelse"/>
       </categories>
       <web>http://www.berattarministeriet.se/</web>
     </entry>
@@ -12181,7 +12191,6 @@
       <categories>
         <category type="donation"/>
         <category type="religion"/>
-        <category type="worship"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
     </entry>
@@ -12467,7 +12476,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="insamlingskontroll"/>
+        <category type="förening"/>
+        <category type="intresseorganisation"/>
       </categories>
       <web>http://www.raddaregnskog.se/</web>
     </entry>

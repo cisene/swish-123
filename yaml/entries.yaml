@@ -886,7 +886,6 @@ entries:
   categories:
   - donation
   - religion
-  - worship
   web: https://hillsong.com/sweden/
 
 - entry: 1230844851
@@ -1135,7 +1134,6 @@ entries:
   categories:
   - donation
   - religion
-  - worship
   web: https://hillsong.com/sweden/
 
 - entry: 1231052372
@@ -2596,7 +2594,7 @@ entries:
   orgNumber: 802003-1178
   comment: null
   categories:
-  - insamlingskontroll
+  - hjälporganisation
   web: http://www.socialamissionen.se/
 
 - entry: 1232039451
@@ -2673,7 +2671,6 @@ entries:
   categories:
   - donation
   - religion
-  - worship
   web: https://hillsong.com/sweden/
 
 - entry: 1232098689
@@ -2803,7 +2800,7 @@ entries:
   orgNumber: 822003-7918
   comment: null
   categories:
-  - insamlingskontroll
+  - religion
   web: http://www.linkopingmoske.se/
 
 - entry: 1232196038
@@ -3143,12 +3140,20 @@ entries:
   - reiki
   web: https://secourong.com/
 
+- entry: 1232395639
+  orgName: Föreningen Yari
+  orgNumber: 817605-2507
+  comment: null
+  categories:
+  - utbildning
+  web: https://www.yari.nu/
+
 - entry: 1232404507
   orgName: Drivkraft Malmö idéell förening
   orgNumber: 802463-2484
   comment: null
   categories:
-  - insamlingskontroll
+  - förening
   web: http://www.drivkraftmalmo.se/
 
 - entry: 1232406643
@@ -3670,7 +3675,7 @@ entries:
   orgNumber: 802478-3436
   comment: null
   categories:
-  - insamlingskontroll
+  - stiftelse
   web: http://www.1000mojligheter.se/
 
 - entry: 1232918522
@@ -3678,7 +3683,7 @@ entries:
   orgNumber: 802505-9208
   comment: null
   categories:
-  - insamlingskontroll
+  - förening
   web: http://www.nemaproblema.se/
 
 - entry: 1232931913
@@ -4348,7 +4353,7 @@ entries:
   orgNumber: 882601-9567
   comment: null
   categories:
-  - insamlingskontroll
+  - förening
   - supporterklubb
   web: https://serikfans.wordpress.com/
 
@@ -4471,7 +4476,8 @@ entries:
   orgNumber: 817600-9473
   comment: null
   categories:
-  - insamlingskontroll
+  - intresseorganisation
+  - patientförening
   web: http://www.rfcf.se/
 
 - entry: 1233513595
@@ -4497,7 +4503,6 @@ entries:
   categories:
   - donation
   - religion
-  - worship
   web: https://hillsong.com/sweden/
 
 - entry: 1233527157
@@ -4608,7 +4613,7 @@ entries:
   orgNumber: 802467-4544
   comment: null
   categories:
-  - insamlingskontroll
+  - hjälporganisation
   web: http://www.dandelionafrica.se/
 
 - entry: 1233634227
@@ -4652,7 +4657,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
-  - insamlingskontroll
+  - hjälporganisation
   web: https://sverigeforunhcr.se/
 
 - entry: 1233664539
@@ -4884,7 +4889,7 @@ entries:
   orgNumber: 857201-9936
   comment: null
   categories:
-  - insamlingskontroll
+  - stiftelse
   web: http://www.sjomanskyrkan.se/
 
 - entry: 1233879806
@@ -5807,7 +5812,7 @@ entries:
   orgNumber: 802423-0248
   comment: null
   categories:
-  - insamlingskontroll
+  - hjälporganisation
   web: http://www.mediemission.se/
 
 - entry: 1234559597
@@ -6079,7 +6084,7 @@ entries:
   orgNumber: 875003-0846
   comment: null
   categories:
-  - insamlingskontroll
+  - förening
   web: http://www.intactsvanner.com/
 
 - entry: 1234795688
@@ -6172,7 +6177,8 @@ entries:
   orgNumber: 802005-7512
   comment: null
   categories:
-  - insamlingskontroll
+  - förbund
+  - intresseorganisation
   web: http://www.astmaoallergiforbundet.se/
 
 - entry: 1234948782
@@ -7272,7 +7278,6 @@ entries:
   categories:
   - donation
   - religion
-  - worship
   web: https://hillsong.com/sweden/
 
 - entry: 1235691365
@@ -7644,7 +7649,7 @@ entries:
   orgNumber: 802411-0309
   comment: null
   categories:
-  - insamlingskontroll
+  - förening
   web: http://www.terapikolonier.se/
 
 - entry: 1236004303
@@ -7897,7 +7902,7 @@ entries:
   orgNumber: 802426-7042
   comment: null
   categories:
-  - insamlingskontroll
+  - stiftelse
   web: http://www.berattarministeriet.se/
 
 - entry: 1236158935
@@ -7924,7 +7929,6 @@ entries:
   categories:
   - donation
   - religion
-  - worship
   web: https://hillsong.com/sweden/
 
 - entry: 1236162655
@@ -8113,7 +8117,8 @@ entries:
   orgNumber: 802427-9112
   comment: null
   categories:
-  - insamlingskontroll
+  - förening
+  - intresseorganisation
   web: http://www.raddaregnskog.se/
 
 - entry: 1236286462
