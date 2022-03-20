@@ -344,6 +344,14 @@ entries:
   - kulturförening
   web: http://www.edit.n.nu/
 
+- entry: 1230375899
+  orgName: S:t Stefanus Koinonia
+  orgNumber: 802434-5632
+  comment: null
+  categories:
+  - religion
+  web: https://www.stefanuskoinonia.org/
+
 - entry: 1230376467
   orgName: ON Training AB
   orgNumber: 559085-2033
@@ -1927,6 +1935,15 @@ entries:
   categories: null
   web: http://www.frosohastgard.se/
 
+- entry: 1231530492
+  orgName: Scoutkåren Vikingarna
+  orgNumber: 802007-1331
+  comment: null
+  categories:
+  - intresseförening
+  - scoutkår
+  web: https://vikingarna.scout.se/
+
 - entry: 1231531029
   orgName: Stiftelsen Uppåkra Arkeologiska Center
   orgNumber: 802426-3165
@@ -2795,6 +2812,15 @@ entries:
   - tjejjour
   web: https://ikkr.org/
 
+- entry: 1232193084
+  orgName: Gävle Travsällskap
+  orgNumber: 885000-0913
+  comment: null
+  categories:
+  - hästsport
+  - travsport
+  web: https://www.gavletravet.se/
+
 - entry: 1232193811
   orgName: Linköpings Moskéstiftelse
   orgNumber: 822003-7918
@@ -2862,6 +2888,7 @@ entries:
   comment: null
   categories:
   - mentalhälsa
+  - minnesinsamling
   - psykisk hälsa
   web: http://aldrigensam.com/
 
@@ -3287,6 +3314,16 @@ entries:
   comment: null
   categories: null
   web: https://www.brottsofferjouren.se/
+
+- entry: 1232589729
+  orgName: Allmogens Norden AB
+  orgNumber: 559236-8053
+  comment: null
+  categories:
+  - försäljning
+  - kartor
+  - trycksaker
+  web: https://allmogens.se/
 
 - entry: 1232593796
   orgName: Roshan SPA och Friskvård
@@ -3864,6 +3901,15 @@ entries:
   - hundkärror
   web: https://www.wtmetall.se/
 
+- entry: 1233079696
+  orgName: Neuro Ung Med MS
+  orgNumber: 802521-7467
+  comment: null
+  categories:
+  - förening
+  - patientförening
+  web: https://ungmedms.com/
+
 - entry: 1233086170
   orgName: Sigtunabygdens Ryttarförening
   orgNumber: 814800-7647
@@ -4025,6 +4071,16 @@ entries:
   categories:
   - blommor
   web: https://www.elsasblommor.se/
+
+- entry: 1233216371
+  orgName: Björn Thomasson Design
+  orgNumber: 490507-4656
+  comment: null
+  categories:
+  - kajak
+  - kanot
+  - paddling
+  web: https://www.thomassondesign.com/
 
 - entry: 1233222734
   orgName: Lantmäteriet - Samfällighetsföreningsregistret
@@ -4211,6 +4267,14 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://fempowerment.se/
+
+- entry: 1233311560
+  orgName: Hallstahammars Tennisklubb
+  orgNumber: 878001-0891
+  comment: null
+  categories:
+  - tennisklubb
+  web: http://www.hallstatennis.se/
 
 - entry: 1233317047
   orgName: Elektronikföreningen Admittansen
@@ -5742,6 +5806,15 @@ entries:
   - marknadsföring
   - näringsliv
   web: https://mih.nu/
+
+- entry: 1234492682
+  orgName: Strömsholms Kanalaktiebolag
+  orgNumber: 556001-2238
+  comment: null
+  categories:
+  - intresseorganisation
+  - slussning
+  web: https://www.stromsholmskanal.se/
 
 - entry: 1234513115
   orgName: Asylgruppen i Malmö
@@ -7738,6 +7811,15 @@ entries:
   categories: null
   web: http://savetheorangutan.se/
 
+- entry: 1236071310
+  orgName: Ingelstad IBK
+  orgNumber: 829502-4825
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandy
+  web: https://www.laget.se/Ingelstad/
+
 - entry: 1236072698
   orgName: Föreningen Kisumu
   orgNumber: 802412-1025
@@ -7941,6 +8023,16 @@ entries:
   - sportfiske
   web: https://sportfiskarnaskane.se/
 
+- entry: 1236172373
+  orgName: ECO Butiken
+  orgNumber: 559068-0467
+  comment: null
+  categories:
+  - ekologiskt
+  - försäljning
+  - hudvård
+  web: https://www.eco-butiken.se/
+
 - entry: 1236177422
   orgName: Kvinnojouren i Sandviken
   orgNumber: 885500-7715
@@ -8102,6 +8194,15 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://www.unizonjourer.se/kvinnohusetorebro/
+
+- entry: 1236280424
+  orgName: Ukrainas Museer / Stiftelsen Nordiska Museet
+  orgNumber: 802002-4686
+  comment: 'Märkes: Insamling till Ukraina'
+  categories:
+  - insamling
+  - museum
+  web: https://www.nordiskamuseet.se/
 
 - entry: 1236284152
   orgName: Göingebygdens Biologiska Förening
@@ -8757,6 +8858,16 @@ entries:
   categories: null
   web: https://www.tyresoradion.se/
 
+- entry: 1236800650
+  orgName: Anderstorp Racing Club, ARC
+  orgNumber: 828500-5933
+  comment: null
+  categories:
+  - bilsport
+  - motorsport
+  - racing
+  web: https://www.arc.nu/sv/klubben/banan/
+
 - entry: 1236811707
   orgName: Eskilstuna Sushi Bar / Spicy Soup AB
   orgNumber: 559110-8625
@@ -8774,6 +8885,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/Skepplanda/
+
+- entry: 1236883268
+  orgName: Kojbyns naturcamping / Stina Torén AB
+  orgNumber: 556885-7063
+  comment: null
+  categories:
+  - camping
+  web: https://kojbyn.com/
 
 - entry: 1236884522
   orgName: Tierps Matcentral
@@ -11028,6 +11147,8 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - utbildning
+  - utbildningsstöd
   web: https://www.itforchildren.org/
 
 - entry: 1239004953

@@ -514,6 +514,19 @@
     </entry>
     
 
+    <entry number="1230375899">
+      <organization>
+        <name>S:t Stefanus Koinonia</name>
+        <number>802434-5632</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.stefanuskoinonia.org/</web>
+    </entry>
+    
+
     <entry number="1230376467">
       <organization>
         <name>ON Training AB</name>
@@ -2934,6 +2947,20 @@
     </entry>
     
 
+    <entry number="1231530492">
+      <organization>
+        <name>Scoutkåren Vikingarna</name>
+        <number>802007-1331</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseförening"/>
+        <category type="scoutkår"/>
+      </categories>
+      <web>https://vikingarna.scout.se/</web>
+    </entry>
+    
+
     <entry number="1231531029">
       <organization>
         <name>Stiftelsen Uppåkra Arkeologiska Center</name>
@@ -4278,6 +4305,20 @@
     </entry>
     
 
+    <entry number="1232193084">
+      <organization>
+        <name>Gävle Travsällskap</name>
+        <number>885000-0913</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hästsport"/>
+        <category type="travsport"/>
+      </categories>
+      <web>https://www.gavletravet.se/</web>
+    </entry>
+    
+
     <entry number="1232193811">
       <organization>
         <name>Linköpings Moskéstiftelse</name>
@@ -4369,6 +4410,7 @@
       <comment/>
       <categories>
         <category type="mentalhälsa"/>
+        <category type="minnesinsamling"/>
         <category type="psykisk hälsa"/>
       </categories>
       <web>http://aldrigensam.com/</web>
@@ -5014,6 +5056,21 @@
       <comment/>
       <categories/>
       <web>https://www.brottsofferjouren.se/</web>
+    </entry>
+    
+
+    <entry number="1232589729">
+      <organization>
+        <name>Allmogens Norden AB</name>
+        <number>559236-8053</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="försäljning"/>
+        <category type="kartor"/>
+        <category type="trycksaker"/>
+      </categories>
+      <web>https://allmogens.se/</web>
     </entry>
     
 
@@ -5916,6 +5973,20 @@
     </entry>
     
 
+    <entry number="1233079696">
+      <organization>
+        <name>Neuro Ung Med MS</name>
+        <number>802521-7467</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="patientförening"/>
+      </categories>
+      <web>https://ungmedms.com/</web>
+    </entry>
+    
+
     <entry number="1233086170">
       <organization>
         <name>Sigtunabygdens Ryttarförening</name>
@@ -6153,6 +6224,21 @@
         <category type="blommor"/>
       </categories>
       <web>https://www.elsasblommor.se/</web>
+    </entry>
+    
+
+    <entry number="1233216371">
+      <organization>
+        <name>Björn Thomasson Design</name>
+        <number>490507-4656</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="kajak"/>
+        <category type="kanot"/>
+        <category type="paddling"/>
+      </categories>
+      <web>https://www.thomassondesign.com/</web>
     </entry>
     
 
@@ -6417,6 +6503,19 @@
         <category type="tjejjour"/>
       </categories>
       <web>https://fempowerment.se/</web>
+    </entry>
+    
+
+    <entry number="1233311560">
+      <organization>
+        <name>Hallstahammars Tennisklubb</name>
+        <number>878001-0891</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="tennisklubb"/>
+      </categories>
+      <web>http://www.hallstatennis.se/</web>
     </entry>
     
 
@@ -8803,6 +8902,20 @@
         <category type="näringsliv"/>
       </categories>
       <web>https://mih.nu/</web>
+    </entry>
+    
+
+    <entry number="1234492682">
+      <organization>
+        <name>Strömsholms Kanalaktiebolag</name>
+        <number>556001-2238</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseorganisation"/>
+        <category type="slussning"/>
+      </categories>
+      <web>https://www.stromsholmskanal.se/</web>
     </entry>
     
 
@@ -11895,6 +12008,20 @@
     </entry>
     
 
+    <entry number="1236071310">
+      <organization>
+        <name>Ingelstad IBK</name>
+        <number>829502-4825</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="idrottsförening"/>
+        <category type="innebandy"/>
+      </categories>
+      <web>https://www.laget.se/Ingelstad/</web>
+    </entry>
+    
+
     <entry number="1236072698">
       <organization>
         <name>Föreningen Kisumu</name>
@@ -12211,6 +12338,21 @@
     </entry>
     
 
+    <entry number="1236172373">
+      <organization>
+        <name>ECO Butiken</name>
+        <number>559068-0467</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="ekologiskt"/>
+        <category type="försäljning"/>
+        <category type="hudvård"/>
+      </categories>
+      <web>https://www.eco-butiken.se/</web>
+    </entry>
+    
+
     <entry number="1236177422">
       <organization>
         <name>Kvinnojouren i Sandviken</name>
@@ -12452,6 +12594,20 @@
         <category type="tjejjour"/>
       </categories>
       <web>https://www.unizonjourer.se/kvinnohusetorebro/</web>
+    </entry>
+    
+
+    <entry number="1236280424">
+      <organization>
+        <name>Ukrainas Museer / Stiftelsen Nordiska Museet</name>
+        <number>802002-4686</number>
+      </organization>
+      <comment>Märkes: Insamling till Ukraina</comment>
+      <categories>
+        <category type="insamling"/>
+        <category type="museum"/>
+      </categories>
+      <web>https://www.nordiskamuseet.se/</web>
     </entry>
     
 
@@ -13441,6 +13597,21 @@
     </entry>
     
 
+    <entry number="1236800650">
+      <organization>
+        <name>Anderstorp Racing Club, ARC</name>
+        <number>828500-5933</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bilsport"/>
+        <category type="motorsport"/>
+        <category type="racing"/>
+      </categories>
+      <web>https://www.arc.nu/sv/klubben/banan/</web>
+    </entry>
+    
+
     <entry number="1236811707">
       <organization>
         <name>Eskilstuna Sushi Bar / Spicy Soup AB</name>
@@ -13466,6 +13637,19 @@
         <category type="idrottsförening"/>
       </categories>
       <web>https://www.laget.se/Skepplanda/</web>
+    </entry>
+    
+
+    <entry number="1236883268">
+      <organization>
+        <name>Kojbyns naturcamping / Stina Torén AB</name>
+        <number>556885-7063</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="camping"/>
+      </categories>
+      <web>https://kojbyn.com/</web>
     </entry>
     
 
@@ -16081,6 +16265,8 @@
       <comment/>
       <categories>
         <category type="insamlingskontroll"/>
+        <category type="utbildning"/>
+        <category type="utbildningsstöd"/>
       </categories>
       <web>https://www.itforchildren.org/</web>
     </entry>
