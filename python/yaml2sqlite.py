@@ -65,6 +65,8 @@ def loadYamlIntoDb(filepath):
       web = None
       categories = None
       comment = None
+      skip_out = False
+
 
       if "entry" in VO:
         entry = VO['entry']
@@ -89,15 +91,18 @@ def loadYamlIntoDb(filepath):
         categories = VO['categories']
 
         if categories != None:
-          for cat in categories:
-            if cat == "overifierad":
-              continue
+
+          for cb in category_block:
+            if cb in categories:
+              skip_out = True
+
 
       if(
         web != None and
         orgNumber != None and
         orgName != None and
-        entry != None
+        entry != None and
+        skip_out == False
       ):
 
         values = f"({entry}, '{orgName}', '{orgNumber}', '{web}', '{comment}')"
