@@ -9830,7 +9830,10 @@
         <number>769621-8747</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="förening"/>
+        <category type="syntolkning"/>
+      </categories>
       <web>https://alltomsyntolkning.nu/</web>
     </entry>
     
@@ -9841,7 +9844,10 @@
         <number>802516-5096</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="förening"/>
+        <category type="scoutkår"/>
+      </categories>
       <web>https://www.lerumsscoutkar.se/</web>
     </entry>
     
@@ -9866,7 +9872,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="Western Riding"/>
+        <category type="western riding"/>
       </categories>
       <web>https://wras.horse/</web>
     </entry>
@@ -9878,7 +9884,9 @@
         <number>556645-9482</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="trädgårdsodling"/>
+      </categories>
       <web>https://tagarpstradgard.se/</web>
     </entry>
     
@@ -10281,7 +10289,9 @@
         <number>802425-8918</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="tankesmedja"/>
+      </categories>
       <web>https://fores.se/</web>
     </entry>
     
@@ -10305,7 +10315,9 @@
         <number>875001-2505</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="idrottsförening"/>
+      </categories>
       <web>https://idrottonline.se/GarphyttansIF/</web>
     </entry>
     
@@ -10454,7 +10466,9 @@
         <number>556298-9755</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="försäljning"/>
+      </categories>
       <web>http://varuhuset.se/</web>
     </entry>
     
@@ -11815,6 +11829,8 @@
       </organization>
       <comment/>
       <categories>
+        <category type="friskvård"/>
+        <category type="gym"/>
         <category type="motion"/>
       </categories>
       <web>https://www.friskissvettis.se/helsingborg/</web>
@@ -11894,7 +11910,9 @@
         <number>556597-5744</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="trycksaker"/>
+      </categories>
       <web>https://www.tidningenproffs.se/</web>
     </entry>
     
@@ -11932,7 +11950,9 @@
         <number>770507-XXXX</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="konsult"/>
+      </categories>
       <web/>
     </entry>
     
@@ -12057,7 +12077,11 @@
         <number>802435-6613</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="djurskydd"/>
+        <category type="djurvård"/>
+        <category type="intresseförening"/>
+      </categories>
       <web>http://savetheorangutan.se/</web>
     </entry>
     
@@ -12318,7 +12342,9 @@
         <number>884402-0217</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
       <web>https://www.brottsofferjouren.se/</web>
     </entry>
     

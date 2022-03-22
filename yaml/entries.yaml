@@ -6403,14 +6403,18 @@ entries:
   orgName: Syntolkning Nu i Sverige Ekonomisk förening
   orgNumber: 769621-8747
   comment: null
-  categories: null
+  categories:
+  - förening
+  - syntolkning
   web: https://alltomsyntolkning.nu/
 
 - entry: 1235049648
   orgName: Lerums Scoutkår
   orgNumber: 802516-5096
   comment: null
-  categories: null
+  categories:
+  - förening
+  - scoutkår
   web: https://www.lerumsscoutkar.se/
 
 - entry: 1235056387
@@ -6426,14 +6430,15 @@ entries:
   orgNumber: 834001-1330
   comment: null
   categories:
-  - Western Riding
+  - western riding
   web: https://wras.horse/
 
 - entry: 1235079751
   orgName: Tågarps Trädgård
   orgNumber: 556645-9482
   comment: null
-  categories: null
+  categories:
+  - trädgårdsodling
   web: https://tagarpstradgard.se/
 
 - entry: 1235082672
@@ -6706,14 +6711,16 @@ entries:
   orgName: RenOptik
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - optik
   web: https://www.renoptik.se/
 
 - entry: 1235218763
   orgName: Tankesmedjan Fores
   orgNumber: 802425-8918
   comment: null
-  categories: null
+  categories:
+  - tankesmedja
   web: https://fores.se/
 
 - entry: 1235218896
@@ -6728,7 +6735,8 @@ entries:
   orgName: Garphyttans IF
   orgNumber: 875001-2505
   comment: null
-  categories: null
+  categories:
+  - idrottsförening
   web: https://idrottonline.se/GarphyttansIF/
 
 - entry: 1235232822
@@ -6823,7 +6831,8 @@ entries:
   orgName: Varuhuset Rönneshytta AB
   orgNumber: 556298-9755
   comment: null
-  categories: null
+  categories:
+  - försäljning
   web: http://varuhuset.se/
 
 - entry: 1235331913
@@ -6999,6 +7008,8 @@ entries:
   comment: null
   categories:
   - 4h
+  - djurvård
+  - utbildning
   web: https://www.4h.se/hagelby/
 
 - entry: 1235439864
@@ -7697,6 +7708,8 @@ entries:
   orgNumber: 843001-2081
   comment: null
   categories:
+  - friskvård
+  - gym
   - motion
   web: https://www.friskissvettis.se/helsingborg/
 
@@ -7747,7 +7760,8 @@ entries:
   orgName: Vägpress AB/Tidningen Proffs
   orgNumber: 556597-5744
   comment: null
-  categories: null
+  categories:
+  - trycksaker
   web: https://www.tidningenproffs.se/
 
 - entry: 1235991534
@@ -7771,7 +7785,8 @@ entries:
   orgName: Idda Consulting
   orgNumber: 770507-XXXX
   comment: null
-  categories: null
+  categories:
+  - konsult
   web: null
 
 - entry: 1236006084
@@ -7850,7 +7865,10 @@ entries:
   orgName: Save the Orangutan
   orgNumber: 802435-6613
   comment: null
-  categories: null
+  categories:
+  - djurskydd
+  - djurvård
+  - intresseförening
   web: http://savetheorangutan.se/
 
 - entry: 1236071310
@@ -8018,7 +8036,8 @@ entries:
   orgName: Brottsofferjouren Norra Dalarna
   orgNumber: 884402-0217
   comment: null
-  categories: null
+  categories:
+  - intresseförening
   web: https://www.brottsofferjouren.se/
 
 - entry: 1236158893
