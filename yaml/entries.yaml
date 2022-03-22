@@ -110,6 +110,15 @@ entries:
   - dansband
   web: https://www.donnez.se/
 
+- entry: 1230154724
+  orgName: Silyns Massage o Fotvård
+  orgNumber: 820114-XXXX
+  comment: null
+  categories:
+  - fotvård
+  - massage
+  web: https://www.bokadirekt.se/places/silyns-massage-o-fotv%C3%A5rd--37757
+
 - entry: 1230157024
   orgName: Diabetesorganisationen i Sverige, DIOS
   orgNumber: 802451-0391
@@ -2280,6 +2289,14 @@ entries:
   - genealogi
   web: https://orustgenealogi.se/
 
+- entry: 1231745298
+  orgName: Järnkaminerna
+  orgNumber: 802410-8501
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.jarnkaminerna.se/
+
 - entry: 1231745918
   orgName: Göteborgs Stigcyklister
   orgNumber: 802476-0509
@@ -3758,6 +3775,15 @@ entries:
   - intresseorganisation
   web: https://kallslatten.se/
 
+- entry: 1232963148
+  orgName: Period Pack Sweden AB
+  orgNumber: 559200-1084
+  comment: null
+  categories:
+  - försäljning
+  - sanitetsprodukter
+  web: https://periodpack.se/
+
 - entry: 1232980456
   orgName: Skepplanda BTK
   orgNumber: 863500-3802
@@ -4081,6 +4107,14 @@ entries:
   - kanot
   - paddling
   web: https://www.thomassondesign.com/
+
+- entry: 1233219839
+  orgName: Smoothcomp
+  orgNumber: null
+  comment: null
+  categories:
+  - overifierad
+  web: https://smoothcomp.com/
 
 - entry: 1233222734
   orgName: Lantmäteriet - Samfällighetsföreningsregistret
@@ -7032,6 +7066,14 @@ entries:
   - djurskydd
   - hundhem
   web: https://www.dogrescue.se/
+
+- entry: 1235457239
+  orgName: NK-VILLANS VÄNNER
+  orgNumber: 802446-1041
+  comment: null
+  categories:
+  - intresseförening
+  web: https://nkvillan.se/
 
 - entry: 1235458013
   orgName: Framnäs Hamnförening
