@@ -1743,6 +1743,26 @@
     </entry>
     
 
+    <entry number="1231007913">
+      <organization>
+        <name>Svaide Roma SOK</name>
+        <number>834002-0505</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="friidrott"/>
+        <category type="idrottsförening"/>
+        <category type="längdåkning"/>
+        <category type="orientering"/>
+        <category type="parasport"/>
+        <category type="rullskidor"/>
+        <category type="skidor"/>
+        <category type="skidskytte"/>
+      </categories>
+      <web>https://www.svaideroma.se/</web>
+    </entry>
+    
+
     <entry number="1231008457">
       <organization>
         <name>Församlingsfakulteten</name>
@@ -2562,6 +2582,20 @@
         <category type="ridsport"/>
       </categories>
       <web>https://naasridcenter.se/</web>
+    </entry>
+    
+
+    <entry number="1231371012">
+      <organization>
+        <name>Stiftelsen Ronald McDonald Barnfond Lund</name>
+        <number>846502-0140</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hjälporganisation"/>
+        <category type="stiftelse"/>
+      </categories>
+      <web>https://lund.ronaldmcdonaldhus.se/</web>
     </entry>
     
 
@@ -3590,6 +3624,20 @@
     </entry>
     
 
+    <entry number="1231780501">
+      <organization>
+        <name>Stiftelsen Ronald McDonald Barnfond Göteborg</name>
+        <number>857500-7698</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hjälporganisation"/>
+        <category type="stiftelse"/>
+      </categories>
+      <web>https://goteborg.ronaldmcdonaldhus.se/</web>
+    </entry>
+    
+
     <entry number="1231793108">
       <organization>
         <name>Ljungby RK - Ridsport</name>
@@ -3993,6 +4041,20 @@
         <category type="kulturförening"/>
       </categories>
       <web>https://vasaplan.nu/</web>
+    </entry>
+    
+
+    <entry number="1232023208">
+      <organization>
+        <name>Karolinska Institutet, Fondförvaltning</name>
+        <number>202100-2973</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="institut"/>
+        <category type="stiftelse"/>
+      </categories>
+      <web>https://ki.se/samverkan/stod-karolinska-institutets-forskning</web>
     </entry>
     
 
@@ -4619,6 +4681,19 @@
     </entry>
     
 
+    <entry number="1232300457">
+      <organization>
+        <name>Turistbyrån Arvika</name>
+        <number>212000-1892</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="turistbyrå"/>
+      </categories>
+      <web>https://visitvarmland.com/arvika/</web>
+    </entry>
+    
+
     <entry number="1232302016">
       <organization>
         <name>Nässjö Dansförening</name>
@@ -4913,6 +4988,20 @@
         <category type="släktforskning"/>
       </categories>
       <web>https://www.snbs.se/</web>
+    </entry>
+    
+
+    <entry number="1232412443">
+      <organization>
+        <name>Belt and Road Institute in Sweden, BRIX</name>
+        <number>802531-9966</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="föredrag"/>
+        <category type="näringsliv"/>
+      </categories>
+      <web>https://www.brixsweden.org/</web>
     </entry>
     
 
@@ -5326,6 +5415,20 @@
     </entry>
     
 
+    <entry number="1232711612">
+      <organization>
+        <name>Lions Club I Vimmerby</name>
+        <number>833200-5332</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://sites.google.com/site/lionsclubvimmerby/</web>
+    </entry>
+    
+
     <entry number="1232713436">
       <organization>
         <name>Jämtdykarna</name>
@@ -5458,6 +5561,20 @@
         <category type="intresseorganisation"/>
       </categories>
       <web>http://www.famy.se/</web>
+    </entry>
+    
+
+    <entry number="1232765964">
+      <organization>
+        <name>Stiftelsen Ronald McDonald Barnfond Linköping</name>
+        <number>802425-9874</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hjälporganisation"/>
+        <category type="stiftelse"/>
+      </categories>
+      <web>https://linkoping.ronaldmcdonaldhus.se/</web>
     </entry>
     
 
@@ -7154,6 +7271,21 @@
     </entry>
     
 
+    <entry number="1233578507">
+      <organization>
+        <name>Kvarnvikens Båtsällskap</name>
+        <number>802008-7329</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="båtklubb"/>
+        <category type="segelklubb"/>
+        <category type="segling"/>
+      </categories>
+      <web>http://www.kvarnviken.com/</web>
+    </entry>
+    
+
     <entry number="1233580289">
       <organization>
         <name>Husarö Lotsmuseum och HembygdsFörening</name>
@@ -8389,6 +8521,22 @@
     </entry>
     
 
+    <entry number="1234228284">
+      <organization>
+        <name>Formcraft / Marianne Ljungström</name>
+        <number>610214-XXXX</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="design"/>
+        <category type="försäljning"/>
+        <category type="heminredning"/>
+        <category type="keramik"/>
+      </categories>
+      <web>https://formcraft.se/</web>
+    </entry>
+    
+
     <entry number="1234229852">
       <organization>
         <name>Hammarby IF Ishockeyförening</name>
@@ -9033,7 +9181,9 @@
         <number>894000-2952</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="religion"/>
+      </categories>
       <web>https://efsvasterbotten.se/</web>
     </entry>
     
@@ -9044,7 +9194,9 @@
         <number>894000-1558</number>
       </organization>
       <comment>Bingolotto</comment>
-      <categories/>
+      <categories>
+        <category type="idrottsförening"/>
+      </categories>
       <web>http://www.sandviksik.se/</web>
     </entry>
     
@@ -9343,6 +9495,20 @@
     </entry>
     
 
+    <entry number="1234677431">
+      <organization>
+        <name>Stiftelsen Ronald McDonald Barnfond Huddinge</name>
+        <number>802015-8476</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hjälporganisation"/>
+        <category type="stiftelse"/>
+      </categories>
+      <web>https://huddinge.ronaldmcdonaldhus.se/</web>
+    </entry>
+    
+
     <entry number="1234705265">
       <organization>
         <name>Smådjurschansen</name>
@@ -9620,7 +9786,9 @@
         <number>817603-3804</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
       <web>http://www.svenskaschuetz.se/</web>
     </entry>
     
@@ -9631,7 +9799,10 @@
         <number>893201-9717</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="hästsport"/>
+        <category type="ridklubb"/>
+      </categories>
       <web>https://www.stromsundsrk.se/</web>
     </entry>
     
@@ -9872,6 +10043,7 @@
       </organization>
       <comment/>
       <categories>
+        <category type="hästsport"/>
         <category type="western riding"/>
       </categories>
       <web>https://wras.horse/</web>
@@ -10135,6 +10307,20 @@
         <category type="trafiksäkerhet"/>
       </categories>
       <web>https://www.algen.se/</web>
+    </entry>
+    
+
+    <entry number="1235158217">
+      <organization>
+        <name>Stiftelsen Ronald McDonald Barnfond Uppsala</name>
+        <number>802426-5947</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hjälporganisation"/>
+        <category type="stiftelse"/>
+      </categories>
+      <web>https://uppsala.ronaldmcdonaldhus.se/</web>
     </entry>
     
 

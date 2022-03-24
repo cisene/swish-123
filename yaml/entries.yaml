@@ -1127,6 +1127,21 @@ entries:
   - kontorsinredning
   web: https://www.rahmqvistserama.se/
 
+- entry: 1231007913
+  orgName: Svaide Roma SOK
+  orgNumber: 834002-0505
+  comment: null
+  categories:
+  - friidrott
+  - idrottsförening
+  - längdåkning
+  - orientering
+  - parasport
+  - rullskidor
+  - skidor
+  - skidskytte
+  web: https://www.svaideroma.se/
+
 - entry: 1231008457
   orgName: Församlingsfakulteten
   orgNumber: 857200-3666
@@ -1682,6 +1697,15 @@ entries:
   - ridklubb
   - ridsport
   web: https://naasridcenter.se/
+
+- entry: 1231371012
+  orgName: Stiftelsen Ronald McDonald Barnfond Lund
+  orgNumber: 846502-0140
+  comment: null
+  categories:
+  - hjälporganisation
+  - stiftelse
+  web: https://lund.ronaldmcdonaldhus.se/
 
 - entry: 1231371921
   orgName: Pingstkyrkan Lidköping
@@ -2341,6 +2365,15 @@ entries:
   - supporterklubb
   web: https://www.jarnkaminerna.se/sofialaktaren-tifo/
 
+- entry: 1231780501
+  orgName: Stiftelsen Ronald McDonald Barnfond Göteborg
+  orgNumber: 857500-7698
+  comment: null
+  categories:
+  - hjälporganisation
+  - stiftelse
+  web: https://goteborg.ronaldmcdonaldhus.se/
+
 - entry: 1231793108
   orgName: Ljungby RK - Ridsport
   orgNumber: 929000-6841
@@ -2614,6 +2647,15 @@ entries:
   categories:
   - kulturförening
   web: https://vasaplan.nu/
+
+- entry: 1232023208
+  orgName: Karolinska Institutet, Fondförvaltning
+  orgNumber: 202100-2973
+  comment: null
+  categories:
+  - institut
+  - stiftelse
+  web: https://ki.se/samverkan/stod-karolinska-institutets-forskning
 
 - entry: 1232028132
   orgName: PRO Stala
@@ -3028,6 +3070,14 @@ entries:
   - religion
   web: https://www.tyresopingst.se/
 
+- entry: 1232300457
+  orgName: Turistbyrån Arvika
+  orgNumber: 212000-1892
+  comment: null
+  categories:
+  - turistbyrå
+  web: https://visitvarmland.com/arvika/
+
 - entry: 1232302016
   orgName: Nässjö Dansförening
   orgNumber: 827000-4545
@@ -3224,6 +3274,15 @@ entries:
   - genealogi
   - släktforskning
   web: https://www.snbs.se/
+
+- entry: 1232412443
+  orgName: Belt and Road Institute in Sweden, BRIX
+  orgNumber: 802531-9966
+  comment: null
+  categories:
+  - föredrag
+  - näringsliv
+  web: https://www.brixsweden.org/
 
 - entry: 1232416964
   orgName: Leksaksbiblioteket - Allmänna Arvsfonden
@@ -3484,6 +3543,15 @@ entries:
   - körkort
   web: https://kringlanstrafikskola.se/
 
+- entry: 1232711612
+  orgName: Lions Club I Vimmerby
+  orgNumber: 833200-5332
+  comment: null
+  categories:
+  - förening
+  - intresseförening
+  web: https://sites.google.com/site/lionsclubvimmerby/
+
 - entry: 1232713436
   orgName: Jämtdykarna
   orgNumber: 893201-8131
@@ -3569,6 +3637,15 @@ entries:
   - förening
   - intresseorganisation
   web: http://www.famy.se/
+
+- entry: 1232765964
+  orgName: Stiftelsen Ronald McDonald Barnfond Linköping
+  orgNumber: 802425-9874
+  comment: null
+  categories:
+  - hjälporganisation
+  - stiftelse
+  web: https://linkoping.ronaldmcdonaldhus.se/
 
 - entry: 1232766269
   orgName: Nordvärmlands Snöskoterklubb
@@ -4689,6 +4766,16 @@ entries:
   - sport
   web: https://www.bodenhockey.se/
 
+- entry: 1233578507
+  orgName: Kvarnvikens Båtsällskap
+  orgNumber: 802008-7329
+  comment: null
+  categories:
+  - båtklubb
+  - segelklubb
+  - segling
+  web: http://www.kvarnviken.com/
+
 - entry: 1233580289
   orgName: Husarö Lotsmuseum och HembygdsFörening
   orgNumber: 802410-8527
@@ -5489,6 +5576,17 @@ entries:
   - religion
   web: https://www.ywamtransform.se/
 
+- entry: 1234228284
+  orgName: Formcraft / Marianne Ljungström
+  orgNumber: 610214-XXXX
+  comment: null
+  categories:
+  - design
+  - försäljning
+  - heminredning
+  - keramik
+  web: https://formcraft.se/
+
 - entry: 1234229852
   orgName: Hammarby IF Ishockeyförening
   orgNumber: 802442-1623
@@ -5896,14 +5994,16 @@ entries:
   orgName: EFS Västerbotten
   orgNumber: 894000-2952
   comment: null
-  categories: null
+  categories:
+  - religion
   web: https://efsvasterbotten.se/
 
 - entry: 1234537494
   orgName: Sandviks IK
   orgNumber: 894000-1558
   comment: Bingolotto
-  categories: null
+  categories:
+  - idrottsförening
   web: http://www.sandviksik.se/
 
 - entry: 1234542304
@@ -6093,6 +6193,15 @@ entries:
   - boule
   web: http://oreboule.se/
 
+- entry: 1234677431
+  orgName: Stiftelsen Ronald McDonald Barnfond Huddinge
+  orgNumber: 802015-8476
+  comment: null
+  categories:
+  - hjälporganisation
+  - stiftelse
+  web: https://huddinge.ronaldmcdonaldhus.se/
+
 - entry: 1234705265
   orgName: Smådjurschansen
   orgNumber: 802517-9014
@@ -6269,14 +6378,17 @@ entries:
   orgName: Svenska Heinrich Schütz-sällskapet
   orgNumber: 817603-3804
   comment: null
-  categories: null
+  categories:
+  - intresseförening
   web: http://www.svenskaschuetz.se/
 
 - entry: 1234941647
   orgName: Strömsunds RK - Ridsport
   orgNumber: 893201-9717
   comment: null
-  categories: null
+  categories:
+  - hästsport
+  - ridklubb
   web: https://www.stromsundsrk.se/
 
 - entry: 1234946059
@@ -6430,6 +6542,7 @@ entries:
   orgNumber: 834001-1330
   comment: null
   categories:
+  - hästsport
   - western riding
   web: https://wras.horse/
 
@@ -6604,6 +6717,15 @@ entries:
   - skadeförening
   - trafiksäkerhet
   web: https://www.algen.se/
+
+- entry: 1235158217
+  orgName: Stiftelsen Ronald McDonald Barnfond Uppsala
+  orgNumber: 802426-5947
+  comment: null
+  categories:
+  - hjälporganisation
+  - stiftelse
+  web: https://uppsala.ronaldmcdonaldhus.se/
 
 - entry: 1235161229
   orgName: Insamlingsstiftelsen Rewilding Europe - Sweden
