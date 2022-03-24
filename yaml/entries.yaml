@@ -541,8 +541,8 @@ entries:
   orgNumber: 556517-4231
   comment: Söderby Golf - Greenfee, Shop, Inomhushall, Lodge, City Butiken
   categories:
+  - försäljning
   - golf
-  - purchase
   web: https://www.golfuppsala.se/
 
 - entry: 1230555508
@@ -2786,8 +2786,8 @@ entries:
   orgNumber: 838201-8813
   comment: null
   categories:
+  - försäljning
   - golf
-  - purchase
   web: https://dwgolfklubb.se/
 
 - entry: 1232148765
@@ -3159,8 +3159,8 @@ entries:
   orgNumber: 556517-4231
   comment: Edenhof Golf - Greenfee, Shop
   categories:
+  - försäljning
   - golf
-  - purchase
   web: https://www.golfuppsala.se/
 
 - entry: 1232371045
@@ -8862,8 +8862,8 @@ entries:
   orgNumber: 556517-4231
   comment: Söderby Golf - Kiosk, Restaurant
   categories:
+  - försäljning
   - golf
-  - purchase
   web: https://www.golfuppsala.se/
 
 - entry: 1236687305

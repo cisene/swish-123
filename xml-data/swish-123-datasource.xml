@@ -826,8 +826,8 @@
       </organization>
       <comment>Söderby Golf - Greenfee, Shop, Inomhushall, Lodge, City Butiken</comment>
       <categories>
+        <category type="försäljning"/>
         <category type="golf"/>
-        <category type="purchase"/>
       </categories>
       <web>https://www.golfuppsala.se/</web>
     </entry>
@@ -4262,8 +4262,8 @@
       </organization>
       <comment/>
       <categories>
+        <category type="försäljning"/>
         <category type="golf"/>
-        <category type="purchase"/>
       </categories>
       <web>https://dwgolfklubb.se/</web>
     </entry>
@@ -4821,8 +4821,8 @@
       </organization>
       <comment>Edenhof Golf - Greenfee, Shop</comment>
       <categories>
+        <category type="försäljning"/>
         <category type="golf"/>
-        <category type="purchase"/>
       </categories>
       <web>https://www.golfuppsala.se/</web>
     </entry>
@@ -13593,8 +13593,8 @@
       </organization>
       <comment>Söderby Golf - Kiosk, Restaurant</comment>
       <categories>
+        <category type="försäljning"/>
         <category type="golf"/>
-        <category type="purchase"/>
       </categories>
       <web>https://www.golfuppsala.se/</web>
     </entry>
