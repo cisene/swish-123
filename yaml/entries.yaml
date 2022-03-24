@@ -125,7 +125,7 @@ entries:
   comment: null
   categories:
   - diabetes
-  - healthcare
+  - hälsovård
   web: https://diabetesorg.se/
 
 - entry: 1230182063
@@ -1300,8 +1300,8 @@ entries:
   orgNumber: 874400-8494
   comment: null
   categories:
-  - health
-  - membership-fee
+  - friskvård
+  - hälsa
   web: https://www.friskissvettis.se/saffle
 
 - entry: 1231146596
@@ -3432,8 +3432,8 @@ entries:
   orgNumber: 769620-1172
   comment: null
   categories:
-  - charity
   - donation
+  - välgörenhet
   web: http://www.solskankt.se/
 
 - entry: 1232620144
@@ -4401,8 +4401,9 @@ entries:
   orgNumber: 780302-XXXX
   comment: null
   categories:
+  - friskvård
   - gym
-  - health
+  - hälsa
   - wellness
   web: https://wellness4life.nu/
 
@@ -6534,7 +6535,8 @@ entries:
   orgNumber: 212000-0068
   comment: Vux Huddinge
   categories:
-  - education
+  - utbildning
+  - utbildningsstöd
   web: https://huddinge.alvis.se/
 
 - entry: 1235069950
@@ -7688,9 +7690,9 @@ entries:
   orgNumber: 894000-0303
   comment: null
   categories:
-  - charity
   - donation
   - religion
+  - välgörenhet
   web: https://korskyrkanumea.se/
 
 - entry: 1235801105
@@ -7841,7 +7843,7 @@ entries:
   comment: null
   categories:
   - cancer
-  - healthcare
+  - hälsovård
   web: https://jonkoping.brostcancerforbundet.se/
 
 - entry: 1235934708
@@ -8231,7 +8233,7 @@ entries:
   comment: null
   categories:
   - donation
-  - education
+  - utbildning
   web: https://utbildningsfonden.org/
 
 - entry: 1236188247

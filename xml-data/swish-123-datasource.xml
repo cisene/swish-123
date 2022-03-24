@@ -183,7 +183,7 @@
       <comment/>
       <categories>
         <category type="diabetes"/>
-        <category type="healthcare"/>
+        <category type="hälsovård"/>
       </categories>
       <web>https://diabetesorg.se/</web>
     </entry>
@@ -1984,8 +1984,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="health"/>
-        <category type="membership-fee"/>
+        <category type="friskvård"/>
+        <category type="hälsa"/>
       </categories>
       <web>https://www.friskissvettis.se/saffle</web>
     </entry>
@@ -5238,8 +5238,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="charity"/>
         <category type="donation"/>
+        <category type="välgörenhet"/>
       </categories>
       <web>http://www.solskankt.se/</web>
     </entry>
@@ -6698,8 +6698,9 @@
       </organization>
       <comment/>
       <categories>
+        <category type="friskvård"/>
         <category type="gym"/>
-        <category type="health"/>
+        <category type="hälsa"/>
         <category type="wellness"/>
       </categories>
       <web>https://wellness4life.nu/</web>
@@ -10030,7 +10031,8 @@
       </organization>
       <comment>Vux Huddinge</comment>
       <categories>
-        <category type="education"/>
+        <category type="utbildning"/>
+        <category type="utbildningsstöd"/>
       </categories>
       <web>https://huddinge.alvis.se/</web>
     </entry>
@@ -11791,9 +11793,9 @@
       </organization>
       <comment/>
       <categories>
-        <category type="charity"/>
         <category type="donation"/>
         <category type="religion"/>
+        <category type="välgörenhet"/>
       </categories>
       <web>https://korskyrkanumea.se/</web>
     </entry>
@@ -12031,7 +12033,7 @@
       <comment/>
       <categories>
         <category type="cancer"/>
-        <category type="healthcare"/>
+        <category type="hälsovård"/>
       </categories>
       <web>https://jonkoping.brostcancerforbundet.se/</web>
     </entry>
@@ -12641,7 +12643,7 @@
       <comment/>
       <categories>
         <category type="donation"/>
-        <category type="education"/>
+        <category type="utbildning"/>
       </categories>
       <web>https://utbildningsfonden.org/</web>
     </entry>
