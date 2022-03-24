@@ -812,7 +812,7 @@ entries:
   comment: Klubbafton
   categories:
   - curling
-  - sports
+  - idrottsförening
   web: https://www.curlingklubben.se/
 
 - entry: 1230757914
@@ -5679,7 +5679,8 @@ entries:
   orgNumber: 802447-3053
   comment: null
   categories:
-  - sports
+  - handbollsklubb
+  - idrottsförening
   web: https://www.bodenhandboll.se/
 
 - entry: 1234260980
@@ -5911,7 +5912,7 @@ entries:
   comment: Prova på
   categories:
   - curling
-  - sports
+  - idrottsförening
   web: https://www.curlingklubben.se/
 
 - entry: 1234417838
@@ -6343,7 +6344,7 @@ entries:
   orgNumber: 837000-2654
   comment: null
   categories:
-  - sports
+  - idrottsförening
   web: https://www.laget.se/TYRINGEIF_/
 
 - entry: 1234778650
@@ -7596,7 +7597,7 @@ entries:
   comment: null
   categories:
   - badminton
-  - sports
+  - idrottsförening
   web: https://idrottonline.se/ArvikaBMK-Badminton/
 
 - entry: 1235686811
@@ -7829,7 +7830,7 @@ entries:
   comment: Seniors
   categories:
   - curling
-  - sports
+  - idrottsförening
   web: https://www.curlingklubben.se/
 
 - entry: 1235856729
@@ -8429,7 +8430,7 @@ entries:
   comment: Övrigt
   categories:
   - curling
-  - sports
+  - idrottsförening
   web: https://www.curlingklubben.se/
 
 - entry: 1236269799
@@ -8835,8 +8836,8 @@ entries:
   orgNumber: 839400-3043
   comment: null
   categories:
-  - soccer
-  - sports
+  - fotbollsklubb
+  - idrottsförening
   web: http://www.fif.se/
 
 - entry: 1236552780

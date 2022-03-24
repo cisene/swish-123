@@ -1252,7 +1252,7 @@
       <comment>Klubbafton</comment>
       <categories>
         <category type="curling"/>
-        <category type="sports"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
     </entry>
@@ -8676,7 +8676,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sports"/>
+        <category type="handbollsklubb"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://www.bodenhandboll.se/</web>
     </entry>
@@ -9044,7 +9045,7 @@
       <comment>Prova på</comment>
       <categories>
         <category type="curling"/>
-        <category type="sports"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
     </entry>
@@ -9726,7 +9727,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="sports"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://www.laget.se/TYRINGEIF_/</web>
     </entry>
@@ -11642,7 +11643,7 @@
       <comment/>
       <categories>
         <category type="badminton"/>
-        <category type="sports"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://idrottonline.se/ArvikaBMK-Badminton/</web>
     </entry>
@@ -12006,7 +12007,7 @@
       <comment>Seniors</comment>
       <categories>
         <category type="curling"/>
-        <category type="sports"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
     </entry>
@@ -12937,7 +12938,7 @@
       <comment>Övrigt</comment>
       <categories>
         <category type="curling"/>
-        <category type="sports"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://www.curlingklubben.se/</web>
     </entry>
@@ -13547,8 +13548,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="soccer"/>
-        <category type="sports"/>
+        <category type="fotbollsklubb"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>http://www.fif.se/</web>
     </entry>
