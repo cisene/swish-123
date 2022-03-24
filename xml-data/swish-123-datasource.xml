@@ -109,6 +109,20 @@
     </entry>
     
 
+    <entry number="1230068205">
+      <organization>
+        <name>Hjälptransporten Filippus</name>
+        <number>889601-1296</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hjälporganisation"/>
+        <category type="stiftelse"/>
+      </categories>
+      <web>http://www.filippus.se/</web>
+    </entry>
+    
+
     <entry number="1230081257">
       <organization>
         <name>Gottnebygdens Samhällsförening - Gottne Byskola</name>
@@ -1514,6 +1528,20 @@
     </entry>
     
 
+    <entry number="1230878629">
+      <organization>
+        <name>Svenska Epilepsiförbundet</name>
+        <number>802006-7750</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förbund"/>
+        <category type="neurohälsa"/>
+      </categories>
+      <web>https://www.epilepsi.se/</web>
+    </entry>
+    
+
     <entry number="1230879379">
       <organization>
         <name>Årsunda IF</name>
@@ -2486,6 +2514,22 @@
     </entry>
     
 
+    <entry number="1231323435">
+      <organization>
+        <name>Segelsällskapet FRAM</name>
+        <number>857200-4557</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="båtklubb"/>
+        <category type="segelklubb"/>
+        <category type="segelsällskap"/>
+        <category type="segling"/>
+      </categories>
+      <web>http://www.ssfram.com/</web>
+    </entry>
+    
+
     <entry number="1231323724">
       <organization>
         <name>Bergslagens Älghundsklubb</name>
@@ -2781,6 +2825,21 @@
         <category type="säkerhet"/>
       </categories>
       <web>https://www.bergslas.se/</web>
+    </entry>
+    
+
+    <entry number="1231464981">
+      <organization>
+        <name>Varbergs Konståkningsklubb</name>
+        <number>802495-9838</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="idrottsförening"/>
+        <category type="konståkning"/>
+      </categories>
+      <web>https://idrottonline.se/VarbergsKonstakningsklubb-Konstakning/</web>
     </entry>
     
 
@@ -4965,6 +5024,20 @@
     </entry>
     
 
+    <entry number="1232409357">
+      <organization>
+        <name>Adrianas Danshus AB</name>
+        <number>556829-5421</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="danskurser"/>
+        <category type="dansundervisning"/>
+      </categories>
+      <web>https://www.adrianasdanshus.se/</web>
+    </entry>
+    
+
     <entry number="1232410587">
       <organization>
         <name>Förtroende - Sätta de sista först</name>
@@ -6942,6 +7015,7 @@
       <categories>
         <category type="donation"/>
         <category type="idrottsförening"/>
+        <category type="supporterklubb"/>
       </categories>
       <web>http://aiktifo.se/</web>
     </entry>
@@ -6966,6 +7040,20 @@
       <comment/>
       <categories/>
       <web>https://idrottonline.se/AspebodaRidklubb-Ridsport/</web>
+    </entry>
+    
+
+    <entry number="1233453594">
+      <organization>
+        <name>Top of Arjeplog / Midsommarviken Maria Söderberg AB</name>
+        <number>556440-0827</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="fjällvandring"/>
+        <category type="turism"/>
+      </categories>
+      <web>https://topofarjeplog.blogspot.com/</web>
     </entry>
     
 
@@ -7253,6 +7341,7 @@
       <comment/>
       <categories>
         <category type="intresseförening"/>
+        <category type="satir"/>
       </categories>
       <web>https://folkhemseliten.se/</web>
     </entry>
@@ -10471,6 +10560,19 @@
     </entry>
     
 
+    <entry number="1235217690">
+      <organization>
+        <name>Sackeuskyrkan / Evangelisk luthersk församling Umeå</name>
+        <number>802487-7568</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.sackeuskyrkan.se/</web>
+    </entry>
+    
+
     <entry number="1235218763">
       <organization>
         <name>Tankesmedjan Fores</name>
@@ -10751,6 +10853,20 @@
         <category type="neurohälsa"/>
       </categories>
       <web>https://www.fasportalen.se/</web>
+    </entry>
+    
+
+    <entry number="1235356662">
+      <organization>
+        <name>Roslagens Antik och Auktionsverk AB</name>
+        <number>559095-0688</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="auktioner"/>
+        <category type="auktionsverk"/>
+      </categories>
+      <web>https://roslagensauktionsverk.se/</web>
     </entry>
     
 
@@ -11321,6 +11437,20 @@
     </entry>
     
 
+    <entry number="1235607312">
+      <organization>
+        <name>Tails Rescue Sweden</name>
+        <number>802521-2104</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurskydd"/>
+        <category type="hundhem"/>
+      </categories>
+      <web>https://tailsrescuesweden.org/</web>
+    </entry>
+    
+
     <entry number="1235607395">
       <organization>
         <name>Wilhelm Stenhammar-Sällskapet</name>
@@ -11860,7 +11990,10 @@
         <number>802439-8797</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="donation"/>
+        <category type="hjälporganisation"/>
+      </categories>
       <web>http://burundihjalpen.se/</web>
     </entry>
     
@@ -13094,6 +13227,21 @@
     </entry>
     
 
+    <entry number="1236365860">
+      <organization>
+        <name>Föreningen Gräsgårds Bastu / Gräsgårds Badhus</name>
+        <number>832000-4123</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="badkultur"/>
+        <category type="bastukultur"/>
+        <category type="förening"/>
+      </categories>
+      <web>https://sites.google.com/site/graesgaardsbastu/</web>
+    </entry>
+    
+
     <entry number="1236372577">
       <organization>
         <name>SDF - Svensk Dystoni-Förening</name>
@@ -13623,6 +13771,20 @@
         <category type="religion"/>
       </categories>
       <web>https://www.brannkyrka.org/</web>
+    </entry>
+    
+
+    <entry number="1236691018">
+      <organization>
+        <name>Koranpodden</name>
+        <number>802514-6708</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="podcast"/>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.koranpodden.se/</web>
     </entry>
     
 

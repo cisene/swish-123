@@ -78,6 +78,15 @@ entries:
   - ssb
   web: https://radioklubbenscandinavia.se/
 
+- entry: 1230068205
+  orgName: Hjälptransporten Filippus
+  orgNumber: 889601-1296
+  comment: null
+  categories:
+  - hjälporganisation
+  - stiftelse
+  web: http://www.filippus.se/
+
 - entry: 1230081257
   orgName: Gottnebygdens Samhällsförening - Gottne Byskola
   orgNumber: 889601-1528
@@ -980,6 +989,15 @@ entries:
   - religion
   web: https://www.ywam.se/
 
+- entry: 1230878629
+  orgName: Svenska Epilepsiförbundet
+  orgNumber: 802006-7750
+  comment: null
+  categories:
+  - förbund
+  - neurohälsa
+  web: https://www.epilepsi.se/
+
 - entry: 1230879379
   orgName: Årsunda IF
   orgNumber: 885500-2088
@@ -1634,6 +1652,17 @@ entries:
   - hundsport
   web: https://jamihundsport.se/
 
+- entry: 1231323435
+  orgName: Segelsällskapet FRAM
+  orgNumber: 857200-4557
+  comment: null
+  categories:
+  - båtklubb
+  - segelklubb
+  - segelsällskap
+  - segling
+  web: http://www.ssfram.com/
+
 - entry: 1231323724
   orgName: Bergslagens Älghundsklubb
   orgNumber: 802488-8599
@@ -1824,6 +1853,16 @@ entries:
   - lås
   - säkerhet
   web: https://www.bergslas.se/
+
+- entry: 1231464981
+  orgName: Varbergs Konståkningsklubb
+  orgNumber: 802495-9838
+  comment: null
+  categories:
+  - förening
+  - idrottsförening
+  - konståkning
+  web: https://idrottonline.se/VarbergsKonstakningsklubb-Konstakning/
 
 - entry: 1231471879
   orgName: Bygdemuseet Ornö Sockenstuga
@@ -3258,6 +3297,15 @@ entries:
   - förening
   web: https://stockholm.reumatiker.se/
 
+- entry: 1232409357
+  orgName: Adrianas Danshus AB
+  orgNumber: 556829-5421
+  comment: null
+  categories:
+  - danskurser
+  - dansundervisning
+  web: https://www.adrianasdanshus.se/
+
 - entry: 1232410587
   orgName: Förtroende - Sätta de sista först
   orgNumber: 802533-8909
@@ -4558,6 +4606,7 @@ entries:
   categories:
   - donation
   - idrottsförening
+  - supporterklubb
   web: http://aiktifo.se/
 
 - entry: 1233444957
@@ -4573,6 +4622,15 @@ entries:
   comment: null
   categories: null
   web: https://idrottonline.se/AspebodaRidklubb-Ridsport/
+
+- entry: 1233453594
+  orgName: Top of Arjeplog / Midsommarviken Maria Söderberg AB
+  orgNumber: 556440-0827
+  comment: null
+  categories:
+  - fjällvandring
+  - turism
+  web: https://topofarjeplog.blogspot.com/
 
 - entry: 1233453610
   orgName: Musikföreningen Garaget
@@ -4756,6 +4814,7 @@ entries:
   comment: null
   categories:
   - intresseförening
+  - satir
   web: https://folkhemseliten.se/
 
 - entry: 1233575842
@@ -6839,6 +6898,14 @@ entries:
   - optik
   web: https://www.renoptik.se/
 
+- entry: 1235217690
+  orgName: Sackeuskyrkan / Evangelisk luthersk församling Umeå
+  orgNumber: 802487-7568
+  comment: null
+  categories:
+  - religion
+  web: https://www.sackeuskyrkan.se/
+
 - entry: 1235218763
   orgName: Tankesmedjan Fores
   orgNumber: 802425-8918
@@ -7017,6 +7084,15 @@ entries:
   - hälsa
   - neurohälsa
   web: https://www.fasportalen.se/
+
+- entry: 1235356662
+  orgName: Roslagens Antik och Auktionsverk AB
+  orgNumber: 559095-0688
+  comment: null
+  categories:
+  - auktioner
+  - auktionsverk
+  web: https://roslagensauktionsverk.se/
 
 - entry: 1235358692
   orgName: Svensk Webbtelevision AB
@@ -7389,6 +7465,15 @@ entries:
   - förening
   web: http://radiofysik.org/
 
+- entry: 1235607312
+  orgName: Tails Rescue Sweden
+  orgNumber: 802521-2104
+  comment: null
+  categories:
+  - djurskydd
+  - hundhem
+  web: https://tailsrescuesweden.org/
+
 - entry: 1235607395
   orgName: Wilhelm Stenhammar-Sällskapet
   orgNumber: 802503-4813
@@ -7733,7 +7818,9 @@ entries:
   orgName: Burundi-hjälpen
   orgNumber: 802439-8797
   comment: null
-  categories: null
+  categories:
+  - donation
+  - hjälporganisation
   web: http://burundihjalpen.se/
 
 - entry: 1235821301
@@ -8525,6 +8612,16 @@ entries:
   - transport
   web: https://ostervarnsexpress.se/
 
+- entry: 1236365860
+  orgName: Föreningen Gräsgårds Bastu / Gräsgårds Badhus
+  orgNumber: 832000-4123
+  comment: null
+  categories:
+  - badkultur
+  - bastukultur
+  - förening
+  web: https://sites.google.com/site/graesgaardsbastu/
+
 - entry: 1236372577
   orgName: SDF - Svensk Dystoni-Förening
   orgNumber: 878001-9215
@@ -8881,6 +8978,15 @@ entries:
   categories:
   - religion
   web: https://www.brannkyrka.org/
+
+- entry: 1236691018
+  orgName: Koranpodden
+  orgNumber: 802514-6708
+  comment: null
+  categories:
+  - podcast
+  - religion
+  web: https://www.koranpodden.se/
 
 - entry: 1236691141
   orgName: Kvinnojouren Nina
