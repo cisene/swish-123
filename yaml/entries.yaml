@@ -87,6 +87,14 @@ entries:
   - stiftelse
   web: http://www.filippus.se/
 
+- entry: 1230069963
+  orgName: Sverigedemokraterna
+  orgNumber: 802018-1791
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://sd.se/
+
 - entry: 1230081257
   orgName: Gottnebygdens Samhällsförening - Gottne Byskola
   orgNumber: 889601-1528
@@ -102,6 +110,14 @@ entries:
   categories:
   - religion
   web: https://www.kungsporten.com/
+
+- entry: 1230127076
+  orgName: Partiet Vändpunkt
+  orgNumber: 802521-4621
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://partietvandpunkt.se/
 
 - entry: 1230130526
   orgName: Husapoteket.eu
@@ -388,6 +404,14 @@ entries:
   - trycksaker
   web: https://www.bjellefors.se/
 
+- entry: 1230410191
+  orgName: Vänsterpartiet
+  orgNumber: 802005-9716
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://www.vansterpartiet.se/
+
 - entry: 1230411132
   orgName: Hela Människan RIA Enköping
   orgNumber: 817000-8893
@@ -446,6 +470,14 @@ entries:
   categories:
   - spiritualism
   web: http://www.spiranlinkoping.se/
+
+- entry: 1230438077
+  orgName: Feministiskt Initiativ
+  orgNumber: 802422-9497
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://feministisktinitiativ.se/
 
 - entry: 1230460634
   orgName: Ljusfallshammars Byaråd
@@ -1126,6 +1158,14 @@ entries:
   comment: null
   categories: null
   web: https://himlabackenskoter.se/
+
+- entry: 1230994095
+  orgName: Ostkustens Framtid
+  orgNumber: 802515-5139
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://ostkustensframtid.se/
 
 - entry: 1230999011
   orgName: Clemensnäs IF
@@ -1898,6 +1938,14 @@ entries:
   - bygdegårdsförening
   web: https://www.havensbgf.se/
 
+- entry: 1231481241
+  orgName: Liberalerna
+  orgNumber: 819500-5825
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://www.liberalerna.se/
+
 - entry: 1231481852
   orgName: Josefssons Trafikskola
   orgNumber: 556192-2971
@@ -2412,6 +2460,14 @@ entries:
   - hjälporganisation
   - stiftelse
   web: https://goteborg.ronaldmcdonaldhus.se/
+
+- entry: 1231792159
+  orgName: Piratpartiet
+  orgNumber: 802430-4514
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://piratpartiet.se/
 
 - entry: 1231793108
   orgName: Ljungby RK - Ridsport
@@ -3243,6 +3299,14 @@ entries:
   categories: null
   web: https://usif.se/
 
+- entry: 1232386639
+  orgName: Demokraterna
+  orgNumber: 802506-2400
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://demokraterna.se/
+
 - entry: 1232386753
   orgName: Stiftsgården Tallnäs
   orgNumber: 769613-8648
@@ -3773,6 +3837,14 @@ entries:
   categories:
   - religion
   web: https://varnamoallians.se/
+
+- entry: 1232824282
+  orgName: Feministiskt Initiativ
+  orgNumber: 802422-9497
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://feministisktinitiativ.se/
 
 - entry: 1232825263
   orgName: Järfälla Kvinnojour
@@ -4480,6 +4552,14 @@ entries:
   categories: null
   web: https://www.laget.se/YIFFF/
 
+- entry: 1233360070
+  orgName: Moderata Samlingspartiet Riksorganisationen
+  orgNumber: 802001-5452
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://moderaterna.se/
+
 - entry: 1233371952
   orgName: Josefssons Trafikskola
   orgNumber: 556192-2971
@@ -4493,6 +4573,14 @@ entries:
   comment: null
   categories: null
   web: http://www.berget.se/
+
+- entry: 1233373149
+  orgName: Timråpartiet
+  orgNumber: 802488-5538
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://www.timrapartiet.se/
 
 - entry: 1233377447
   orgName: Svenska Psykoanalytiska Föreningen
@@ -5218,6 +5306,15 @@ entries:
   - katthem
   web: https://fhhk.se/
 
+- entry: 1233907490
+  orgName: Marxist / Tidskriftsföreningen Revolution
+  orgNumber: 802452-3295
+  comment: null
+  categories:
+  - förening
+  - intresseförening
+  web: https://www.marxist.se/
+
 - entry: 1233907565
   orgName: Svenska Schäferhundklubben
   orgNumber: 802401-2927
@@ -5266,6 +5363,14 @@ entries:
   categories:
   - hundsport
   web: https://nykvarnshundhall.se/
+
+- entry: 1233951381
+  orgName: Skifte För Sverige
+  orgNumber: 802461-8087
+  comment: null
+  categories:
+  - folkrörelse
+  web: https://skiftet.org/
 
 - entry: 1233962404
   orgName: Blomsterhuset Ullånger
@@ -5350,6 +5455,14 @@ entries:
   categories:
   - pistolskytteklubb
   web: http://www.torupspistolklubb.org/
+
+- entry: 1234029088
+  orgName: Medborgerlig Samling
+  orgNumber: 802488-3467
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://www.medborgerligsamling.se/
 
 - entry: 1234029575
   orgName: Linedanceföreningen Thunderboots
@@ -5635,6 +5748,14 @@ entries:
   - hjälporganisation
   - religion
   web: https://www.ywamtransform.se/
+
+- entry: 1234218533
+  orgName: Centerpartiets Riksorganisation
+  orgNumber: 802000-5420
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://www.centerpartiet.se/
 
 - entry: 1234228284
   orgName: Formcraft / Marianne Ljungström
@@ -6051,6 +6172,14 @@ entries:
   - religion
   web: https://mariedalskyrkan.se/
 
+- entry: 1234535050
+  orgName: Miljöpartiet De Gröna
+  orgNumber: 802009-9811
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://www.mp.se/
+
 - entry: 1234536819
   orgName: EFS Västerbotten
   orgNumber: 894000-2952
@@ -6380,6 +6509,14 @@ entries:
   - golf
   - golfklubb
   web: https://www.partillegk.se/
+
+- entry: 1234832069
+  orgName: Alternativ för Sverige
+  orgNumber: 8025140123
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://alternativforsverige.se/
 
 - entry: 1234836995
   orgName: Sveriges entomologiska förening
@@ -6780,6 +6917,14 @@ entries:
   - trafiksäkerhet
   web: https://www.algen.se/
 
+- entry: 1235157003
+  orgName: Kristdemokraterna Riksorganisationen
+  orgNumber: 802006-3940
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://kristdemokraterna.se/
+
 - entry: 1235158217
   orgName: Stiftelsen Ronald McDonald Barnfond Uppsala
   orgNumber: 802426-5947
@@ -7136,6 +7281,14 @@ entries:
   - tjejjour
   web: https://somaya.se/
 
+- entry: 1235383740
+  orgName: Direktdemokraterna
+  orgNumber: 802420-0241
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://direktdemokraterna.se/
+
 - entry: 1235390539
   orgName: Skellefteå CK - Curling
   orgNumber: 894700-5842
@@ -7424,6 +7577,14 @@ entries:
   categories:
   - donation
   web: https://www.pingstlidkoping.se/
+
+- entry: 1235570015
+  orgName: Sveriges Kommunistiska Parti
+  orgNumber: 815201-3598
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://riktpunkt.nu/
 
 - entry: 1235571666
   orgName: Ängsö Trail Run / Race ID
@@ -8315,6 +8476,14 @@ entries:
   - tjejjour
   web: http://kvinnojourensandviken.se/
 
+- entry: 1236177976
+  orgName: Sveriges Socialdemokratiska Arbetareparti
+  orgNumber: 802003-1145
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://www.socialdemokraterna.se/
+
 - entry: 1236181820
   orgName: Svenska Utbildningsfonden för Liberia
   orgNumber: 802466-3430
@@ -8526,8 +8695,7 @@ entries:
   orgNumber: 802513-2336
   comment: null
   categories:
-  - donation
-  - political-party
+  - politiskt parti
   web: https://www.nyframtid.se/
 
 - entry: 1236333041
