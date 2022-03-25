@@ -1867,6 +1867,20 @@
     </entry>
     
 
+    <entry number="1231030758">
+      <organization>
+        <name>Kerstins Trafikskola i Åkersberga / Kerstins Trafikskola AB</name>
+        <number>556802-4656</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="trafikskola"/>
+        <category type="utbildning"/>
+      </categories>
+      <web>https://kerstinstrafikskola.se/</web>
+    </entry>
+    
+
     <entry number="1231033885">
       <organization>
         <name>Svenska Dvärgkaninklubben</name>
@@ -2524,6 +2538,19 @@
     </entry>
     
 
+    <entry number="1231295021">
+      <organization>
+        <name>Sverige för UNHCR</name>
+        <number>802426-1250</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hjälporganisation"/>
+      </categories>
+      <web>https://sverigeforunhcr.se/</web>
+    </entry>
+    
+
     <entry number="1231301340">
       <organization>
         <name>Skillingaryds Pistolskytteklubb PSK</name>
@@ -2735,6 +2762,19 @@
     </entry>
     
 
+    <entry number="1231376524">
+      <organization>
+        <name>Giving People</name>
+        <number>802475-9436</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hjälporganisation"/>
+      </categories>
+      <web>https://givingpeople.se/</web>
+    </entry>
+    
+
     <entry number="1231376961">
       <organization>
         <name>Beyond-X / B-stedt of Sweden AB</name>
@@ -2905,6 +2945,22 @@
         <category type="konståkning"/>
       </categories>
       <web>https://idrottonline.se/VarbergsKonstakningsklubb-Konstakning/</web>
+    </entry>
+    
+
+    <entry number="1231465368">
+      <organization>
+        <name>KFUM Östersund Basket</name>
+        <number>802420-4607</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="basketboll"/>
+        <category type="basketbollklubb"/>
+        <category type="förening"/>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>http://www.ostersundbasket.se/</web>
     </entry>
     
 
@@ -3276,6 +3332,19 @@
         <category type="sportfiske"/>
       </categories>
       <web>https://navsjon.nu/</web>
+    </entry>
+    
+
+    <entry number="1231590231">
+      <organization>
+        <name>AnnonsMarknan / Markbladet AB</name>
+        <number>556927-6214</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="annonsblad"/>
+      </categories>
+      <web>https://annonsmarknan.se/</web>
     </entry>
     
 
@@ -4272,6 +4341,19 @@
         <category type="utbildning"/>
       </categories>
       <web>https://admittansen.se/</web>
+    </entry>
+    
+
+    <entry number="1232043438">
+      <organization>
+        <name>Sverige för UNHCR</name>
+        <number>802426-1250</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hjälporganisation"/>
+      </categories>
+      <web>https://sverigeforunhcr.se/</web>
     </entry>
     
 
@@ -5341,6 +5423,20 @@
     </entry>
     
 
+    <entry number="1232580041">
+      <organization>
+        <name>Gävle JazzClub</name>
+        <number>885001-1910</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="jazzclub"/>
+        <category type="kulturförening"/>
+      </categories>
+      <web>https://www.gavlejazz.se/</web>
+    </entry>
+    
+
     <entry number="1232588085">
       <organization>
         <name>Brottsofferjouren Östra Värmland</name>
@@ -5484,6 +5580,22 @@
         <category type="bygdegårdsförening"/>
       </categories>
       <web>https://bergsbygdegard.se/</web>
+    </entry>
+    
+
+    <entry number="1232686905">
+      <organization>
+        <name>Stockholms Hundhälsa</name>
+        <number>760624-XXXX</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurvård"/>
+        <category type="friskvård"/>
+        <category type="husdjur"/>
+        <category type="rehab"/>
+      </categories>
+      <web>https://stockholmshundhalsa.se/</web>
     </entry>
     
 
@@ -7993,6 +8105,21 @@
     </entry>
     
 
+    <entry number="1233881109">
+      <organization>
+        <name>Tortuna Golfklubb</name>
+        <number>878001-5197</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="golf"/>
+        <category type="golfklubb"/>
+        <category type="green fee"/>
+      </categories>
+      <web>https://www.tortunagk.se/</web>
+    </entry>
+    
+
     <entry number="1233881448">
       <organization>
         <name>Flykälens byalag</name>
@@ -8001,6 +8128,19 @@
       <comment/>
       <categories/>
       <web>https://www.flykalen.se/</web>
+    </entry>
+    
+
+    <entry number="1233881778">
+      <organization>
+        <name>Flatö-Malö Hembygdsförening</name>
+        <number>802433-8702</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+      </categories>
+      <web>https://www.flaton.se/</web>
     </entry>
     
 
@@ -8172,6 +8312,19 @@
         <category type="religion"/>
       </categories>
       <web>https://www.efs.nu/</web>
+    </entry>
+    
+
+    <entry number="1233951019">
+      <organization>
+        <name>Pingstkyrkan Kaxholmen</name>
+        <number>826000-3614</number>
+      </organization>
+      <comment>Församlingskassan</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://pingstkaxholmen.se/</web>
     </entry>
     
 
@@ -9661,6 +9814,19 @@
     </entry>
     
 
+    <entry number="1234641221">
+      <organization>
+        <name>Pingstkyrkan Mullsjö-Nyhem</name>
+        <number>867200-0455</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://mullsjopingst.se/</web>
+    </entry>
+    
+
     <entry number="1234643565">
       <organization>
         <name>Brännkyrka Församling</name>
@@ -9765,6 +9931,19 @@
         <category type="båtvård"/>
       </categories>
       <web>http://www.hovik.se/</web>
+    </entry>
+    
+
+    <entry number="1234673760">
+      <organization>
+        <name>Flatö Kyrkas Vänner</name>
+        <number>802443-4873</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.flaton.se/</web>
     </entry>
     
 
@@ -11736,6 +11915,19 @@
     </entry>
     
 
+    <entry number="1235615794">
+      <organization>
+        <name>Dalarnas Dreverklubb</name>
+        <number>642732-6233</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundklubb"/>
+      </categories>
+      <web>https://dalarnasdk.se/</web>
+    </entry>
+    
+
     <entry number="1235619044">
       <organization>
         <name>Brf Akallahöjden</name>
@@ -11800,6 +11992,20 @@
         <category type="förening"/>
       </categories>
       <web>https://tronofiske.se/</web>
+    </entry>
+    
+
+    <entry number="1235625165">
+      <organization>
+        <name>Föreningen Flatön</name>
+        <number>858500-6292</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://www.flaton.se/</web>
     </entry>
     
 
@@ -13055,6 +13261,19 @@
         <category type="djurvård"/>
       </categories>
       <web>https://www.svenskadjurambulansen.se/</web>
+    </entry>
+    
+
+    <entry number="1236191506">
+      <organization>
+        <name>Lotus Education / Jenny Damm</name>
+        <number>780821-XXXX</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundsport"/>
+      </categories>
+      <web>https://lotuseducation.se/</web>
     </entry>
     
 
@@ -14533,6 +14752,19 @@
       <comment/>
       <categories/>
       <web>https://www.skanesanglar.se/</web>
+    </entry>
+    
+
+    <entry number="1236991160">
+      <organization>
+        <name>Pingstkyrkan Kaxholmen</name>
+        <number>826000-3614</number>
+      </organization>
+      <comment>Missionskassan</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://pingstkaxholmen.se/</web>
     </entry>
     
 
