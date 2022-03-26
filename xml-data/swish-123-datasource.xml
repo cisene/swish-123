@@ -527,6 +527,19 @@
     </entry>
     
 
+    <entry number="1230339358">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Nyköping</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Nykoping/</web>
+    </entry>
+    
+
     <entry number="1230362046">
       <organization>
         <name>Millesgårdens Vänner</name>
@@ -606,6 +619,19 @@
         <category type="trycksaker"/>
       </categories>
       <web>https://www.bjellefors.se/</web>
+    </entry>
+    
+
+    <entry number="1230401851">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Falun</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Falun/</web>
     </entry>
     
 
@@ -1663,12 +1689,12 @@
 
     <entry number="1230923334">
       <organization>
-        <name>Frälsningsarmén i Skillingaryd</name>
+        <name>Frälsningsarmén</name>
         <number>802006-1688</number>
       </organization>
-      <comment/>
+      <comment>Skillingaryd</comment>
       <categories>
-        <category type="donation"/>
+        <category type="religion"/>
       </categories>
       <web>https://www.fralsningsarmen.se/skillingaryd/</web>
     </entry>
@@ -1973,6 +1999,19 @@
       <comment/>
       <categories/>
       <web>https://www.saffletrollingklubb.com/</web>
+    </entry>
+    
+
+    <entry number="1231095017">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Kalmar</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://fakalmar.se/</web>
     </entry>
     
 
@@ -2992,6 +3031,19 @@
     </entry>
     
 
+    <entry number="1231477678">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Trollhättan</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Trollhattan/</web>
+    </entry>
+    
+
     <entry number="1231478189">
       <organization>
         <name>Håvens Bygdegårdförening</name>
@@ -3900,6 +3952,19 @@
     </entry>
     
 
+    <entry number="1231818475">
+      <organization>
+        <name>Kyrklig Samling</name>
+        <number>802001-9371</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://kyrkligsamling.se/</web>
+    </entry>
+    
+
     <entry number="1231824796">
       <organization>
         <name>Kvinnojouren I Österåker</name>
@@ -4287,6 +4352,19 @@
         <category type="pensionärsklubb"/>
       </categories>
       <web>https://pro.se/distrikt/distrikt-bohuslan/samorganisationer/samorganisation-orust/foreningar/stala.html</web>
+    </entry>
+    
+
+    <entry number="1232029361">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Eskilstuna</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/eskilstuna/</web>
     </entry>
     
 
@@ -6020,6 +6098,19 @@
     </entry>
     
 
+    <entry number="1232870459">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Helsingborg</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Helsingborg/</web>
+    </entry>
+    
+
     <entry number="1232873057">
       <organization>
         <name>Råtthjälpen</name>
@@ -6094,6 +6185,19 @@
       <comment/>
       <categories/>
       <web>https://www.brottsofferjouren.se/</web>
+    </entry>
+    
+
+    <entry number="1232903136">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Sala</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Sala/</web>
     </entry>
     
 
@@ -8168,6 +8272,19 @@
     </entry>
     
 
+    <entry number="1233893765">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Strängnäs</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Strangnas/</web>
+    </entry>
+    
+
     <entry number="1233894276">
       <organization>
         <name>White Lions</name>
@@ -9123,6 +9240,19 @@
     </entry>
     
 
+    <entry number="1234279139">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Sundsvall</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/sundsvall/</web>
+    </entry>
+    
+
     <entry number="1234279618">
       <organization>
         <name>Svenska Newfoundlandshundklubben</name>
@@ -9134,6 +9264,19 @@
         <category type="hundsport"/>
       </categories>
       <web>https://snkinfo.wordpress.com/</web>
+    </entry>
+    
+
+    <entry number="1234296513">
+      <organization>
+        <name>Rotary Distrikt 2360</name>
+        <number>802496-6379</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseförening"/>
+      </categories>
+      <web>https://rotary2360.se/</web>
     </entry>
     
 
@@ -9237,6 +9380,19 @@
         <category type="djurskydd"/>
       </categories>
       <web>https://hundhjalpen.se/</web>
+    </entry>
+    
+
+    <entry number="1234344040">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Borlänge</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Borlange/</web>
     </entry>
     
 
@@ -9345,6 +9501,19 @@
     </entry>
     
 
+    <entry number="1234407375">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Luleå</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Lulea/</web>
+    </entry>
+    
+
     <entry number="1234407748">
       <organization>
         <name>Åstorpsortens RF - Ridsport</name>
@@ -9383,6 +9552,19 @@
         <category type="religion"/>
       </categories>
       <web>http://luleafridsforbund.com/</web>
+    </entry>
+    
+
+    <entry number="1234408217">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Skellefteå</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/skelleftea/</web>
     </entry>
     
 
@@ -9707,6 +9889,19 @@
         <category type="snöskoterklubb"/>
       </categories>
       <web>http://www.fjugestams.com/</web>
+    </entry>
+    
+
+    <entry number="1234578126">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Sociala Centret</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/sociala-centret/</web>
     </entry>
     
 
@@ -10158,6 +10353,19 @@
         <category type="medicinskt laboratorie"/>
       </categories>
       <web>https://medilab.se/</web>
+    </entry>
+    
+
+    <entry number="1234803334">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Öckerö Öarna</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/faockerooarna/</web>
     </entry>
     
 
@@ -11041,6 +11249,19 @@
     </entry>
     
 
+    <entry number="1235264031">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Östersund</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/ostersund/</web>
+    </entry>
+    
+
     <entry number="1235266697">
       <organization>
         <name>Adventkyrkan i Malmö</name>
@@ -11121,6 +11342,19 @@
         <category type="bordtennisklubb"/>
       </categories>
       <web>http://www.dbtk.se/</web>
+    </entry>
+    
+
+    <entry number="1235288600">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Krokek</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Krokek/</web>
     </entry>
     
 
@@ -11255,6 +11489,19 @@
         <category type="neurohälsa"/>
       </categories>
       <web>https://www.fasportalen.se/</web>
+    </entry>
+    
+
+    <entry number="1235354956">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Mora</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Mora/</web>
     </entry>
     
 
@@ -11453,6 +11700,19 @@
         <category type="golfklubb"/>
       </categories>
       <web>https://www.vasatorp.golf/</web>
+    </entry>
+    
+
+    <entry number="1235430186">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Södertälje</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Sodertalje/</web>
     </entry>
     
 
@@ -11837,6 +12097,19 @@
     </entry>
     
 
+    <entry number="1235597257">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Gävle</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Gavle/</web>
+    </entry>
+    
+
     <entry number="1235599410">
       <organization>
         <name>Ecodive Stockholm</name>
@@ -12153,6 +12426,19 @@
         <category type="tjejjour"/>
       </categories>
       <web>https://www.varbergskvinnojour.se/</web>
+    </entry>
+    
+
+    <entry number="1235714829">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Borås</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Boras/</web>
     </entry>
     
 
@@ -12744,6 +13030,32 @@
         <category type="trafikskola"/>
       </categories>
       <web>https://sundsvallstrafikskola.se/</web>
+    </entry>
+    
+
+    <entry number="1236010227">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Alingsås</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Alingsas/</web>
+    </entry>
+    
+
+    <entry number="1236011654">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Trollhättan Ungdomskåren</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Trollhattan/</web>
     </entry>
     
 
@@ -14752,6 +15064,19 @@
       <comment/>
       <categories/>
       <web>https://www.skanesanglar.se/</web>
+    </entry>
+    
+
+    <entry number="1236955496">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Templet</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Templet/</web>
     </entry>
     
 
@@ -18367,6 +18692,19 @@
         <category type="insamlingskontroll"/>
       </categories>
       <web>https://www.impande.com/sv</web>
+    </entry>
+    
+
+    <entry number="1239006990">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="insamlingskontroll"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/</web>
     </entry>
     
 

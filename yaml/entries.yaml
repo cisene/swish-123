@@ -344,6 +344,14 @@ entries:
   - rcbåt
   web: https://www.eksjorck.se/
 
+- entry: 1230339358
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Nyköping
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Nykoping/
+
 - entry: 1230362046
   orgName: Millesgårdens Vänner
   orgNumber: 813600-4085
@@ -403,6 +411,14 @@ entries:
   - kontorsmaterial
   - trycksaker
   web: https://www.bjellefors.se/
+
+- entry: 1230401851
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Falun
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Falun/
 
 - entry: 1230410191
   orgName: Vänsterpartiet
@@ -1074,11 +1090,11 @@ entries:
   web: https://www.smdf.se/
 
 - entry: 1230923334
-  orgName: Frälsningsarmén i Skillingaryd
+  orgName: Frälsningsarmén
   orgNumber: 802006-1688
-  comment: null
+  comment: Skillingaryd
   categories:
-  - donation
+  - religion
   web: https://www.fralsningsarmen.se/skillingaryd/
 
 - entry: 1230923631
@@ -1292,6 +1308,14 @@ entries:
   comment: kyrkfonden
   categories: null
   web: https://www.imkorebro.se/
+
+- entry: 1231095017
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Kalmar
+  categories:
+  - religion
+  web: https://fakalmar.se/
 
 - entry: 1231095561
   orgName: Kvinnojouren i Stenungsund
@@ -1966,6 +1990,14 @@ entries:
   - kulturförening
   web: http://www.velebit.se/
 
+- entry: 1231477678
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Trollhättan
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Trollhattan/
+
 - entry: 1231478189
   orgName: Håvens Bygdegårdförening
   orgNumber: 883201-9742
@@ -2550,6 +2582,14 @@ entries:
   - förening
   web: https://www.sverigesveteranforbund.se/
 
+- entry: 1231818475
+  orgName: Kyrklig Samling
+  orgNumber: 802001-9371
+  comment: null
+  categories:
+  - religion
+  web: https://kyrkligsamling.se/
+
 - entry: 1231824796
   orgName: Kvinnojouren I Österåker
   orgNumber: 802408-9602
@@ -2803,6 +2843,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-bohuslan/samorganisationer/samorganisation-orust/foreningar/stala.html
+
+- entry: 1232029361
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Eskilstuna
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/eskilstuna/
 
 - entry: 1232031755
   orgName: Sociala Missionen
@@ -3927,6 +3975,14 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/jarfallakvinnojour/
 
+- entry: 1232870459
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Helsingborg
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Helsingborg/
+
 - entry: 1232873057
   orgName: Råtthjälpen
   orgNumber: 802435-0038
@@ -3982,6 +4038,14 @@ entries:
   comment: null
   categories: null
   web: https://www.brottsofferjouren.se/
+
+- entry: 1232903136
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Sala
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Sala/
 
 - entry: 1232905578
   orgName: JP Hästveda
@@ -5346,6 +5410,14 @@ entries:
   - ridsport
   web: https://naasridcenter.se/
 
+- entry: 1233893765
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Strängnäs
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Strangnas/
+
 - entry: 1233894276
   orgName: White Lions
   orgNumber: 822001-7571
@@ -5959,6 +6031,14 @@ entries:
   categories: null
   web: https://helamanniskan.se/jonkoping/
 
+- entry: 1234279139
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Sundsvall
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/sundsvall/
+
 - entry: 1234279618
   orgName: Svenska Newfoundlandshundklubben
   orgNumber: 802468-3149
@@ -5967,6 +6047,14 @@ entries:
   - hundklubb
   - hundsport
   web: https://snkinfo.wordpress.com/
+
+- entry: 1234296513
+  orgName: Rotary Distrikt 2360
+  orgNumber: 802496-6379
+  comment: null
+  categories:
+  - intresseförening
+  web: https://rotary2360.se/
 
 - entry: 1234300521
   orgName: Vännäs Brukshundklubb
@@ -6032,6 +6120,14 @@ entries:
   categories:
   - djurskydd
   web: https://hundhjalpen.se/
+
+- entry: 1234344040
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Borlänge
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Borlange/
 
 - entry: 1234349361
   orgName: Gävleborgs Taxklubb
@@ -6099,6 +6195,14 @@ entries:
   - donation
   web: https://hjarnkollvasterbotten.se/
 
+- entry: 1234407375
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Luleå
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Lulea/
+
 - entry: 1234407748
   orgName: Åstorpsortens RF - Ridsport
   orgNumber: 837600-2245
@@ -6124,6 +6228,14 @@ entries:
   categories:
   - religion
   web: http://luleafridsforbund.com/
+
+- entry: 1234408217
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Skellefteå
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/skelleftea/
 
 - entry: 1234415568
   orgName: Skellefteå CK - Curling
@@ -6329,6 +6441,14 @@ entries:
   - motorsport
   - snöskoterklubb
   web: http://www.fjugestams.com/
+
+- entry: 1234578126
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Sociala Centret
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/sociala-centret/
 
 - entry: 1234578258
   orgName: Stockholms Ornitologiska Förening, StOF
@@ -6614,6 +6734,14 @@ entries:
   categories:
   - medicinskt laboratorie
   web: https://medilab.se/
+
+- entry: 1234803334
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Öckerö Öarna
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/faockerooarna/
 
 - entry: 1234819769
   orgName: Partille Golfklubb
@@ -7207,6 +7335,14 @@ entries:
   - orkester
   web: https://www.perikles.se/
 
+- entry: 1235264031
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Östersund
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/ostersund/
+
 - entry: 1235266697
   orgName: Adventkyrkan i Malmö
   orgNumber: 846004-1711
@@ -7259,6 +7395,14 @@ entries:
   - bordtennis
   - bordtennisklubb
   web: http://www.dbtk.se/
+
+- entry: 1235288600
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Krokek
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Krokek/
 
 - entry: 1235292974
   orgName: Djurens Vänner Värnamo
@@ -7344,6 +7488,14 @@ entries:
   - hälsa
   - neurohälsa
   web: https://www.fasportalen.se/
+
+- entry: 1235354956
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Mora
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Mora/
 
 - entry: 1235356662
   orgName: Roslagens Antik och Auktionsverk AB
@@ -7469,6 +7621,14 @@ entries:
   - golf
   - golfklubb
   web: https://www.vasatorp.golf/
+
+- entry: 1235430186
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Södertälje
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Sodertalje/
 
 - entry: 1235431788
   orgName: Hågelby 4H-gård
@@ -7723,6 +7883,14 @@ entries:
   categories: null
   web: https://skargardsstiftelsen.se/
 
+- entry: 1235597257
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Gävle
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Gavle/
+
 - entry: 1235599410
   orgName: Ecodive Stockholm
   orgNumber: 556737-5653
@@ -7925,6 +8093,14 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://www.varbergskvinnojour.se/
+
+- entry: 1235714829
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Borås
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Boras/
 
 - entry: 1235716402
   orgName: Föreningen S:t Mikael
@@ -8301,6 +8477,22 @@ entries:
   - körkort
   - trafikskola
   web: https://sundsvallstrafikskola.se/
+
+- entry: 1236010227
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Alingsås
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Alingsas/
+
+- entry: 1236011654
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Trollhättan Ungdomskåren
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Trollhattan/
 
 - entry: 1236022289
   orgName: Kvinnojouren Mira
@@ -9614,6 +9806,14 @@ entries:
   comment: null
   categories: null
   web: https://www.skanesanglar.se/
+
+- entry: 1236955496
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Templet
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Templet/
 
 - entry: 1236991160
   orgName: Pingstkyrkan Kaxholmen
@@ -12894,7 +13094,6 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - overifierad
   web: https://www.fralsningsarmen.se/
 
 - entry: 1239007014
