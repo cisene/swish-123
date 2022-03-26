@@ -915,6 +915,14 @@ entries:
   - mode
   web: https://delbornpreisler.se/
 
+- entry: 1230759712
+  orgName: Pingst Fria Församlingar i samverkan
+  orgNumber: 802004-0575
+  comment: null
+  categories:
+  - religion
+  web: https://www.pingst.se/forsamling/natverk/pastor/
+
 - entry: 1230769745
   orgName: STHLM VÄST Tjej- och kvinnojour
   orgNumber: 802428-1308
@@ -2717,6 +2725,14 @@ entries:
   - mansjour
   web: https://www.mansjouren.se/
 
+- entry: 1231933027
+  orgName: Pingst Umeå
+  orgNumber: 894000-0345
+  comment: Framtidens mötesplats
+  categories:
+  - religion
+  web: https://umea.pingst.se/
+
 - entry: 1231951243
   orgName: Sigtunabygdens Ryttarförening
   orgNumber: 814800-7647
@@ -3316,6 +3332,14 @@ entries:
   categories:
   - supporterklubb
   web: http://aia.nu/
+
+- entry: 1232278307
+  orgName: Pingst Umeå
+  orgNumber: 894000-0345
+  comment: Socialt arbete
+  categories:
+  - religion
+  web: https://umea.pingst.se/
 
 - entry: 1232285021
   orgName: Pingstförsamlingen I Trollhättan
@@ -4797,6 +4821,14 @@ entries:
   categories:
   - politiskt parti
   web: https://moderaterna.se/
+
+- entry: 1233366812
+  orgName: Pingstförsamlingen i Kinna
+  orgNumber: 865000-5096
+  comment: Församlingskassan
+  categories:
+  - religion
+  web: https://kinna.pingst.se/
 
 - entry: 1233371952
   orgName: Josefssons Trafikskola
@@ -6769,6 +6801,14 @@ entries:
   - trädgårdsförening
   web: http://www.alvtomtakoloni.se/
 
+- entry: 1234676003
+  orgName: Pingstkyrkan Mjölby
+  orgNumber: 823000-0377
+  comment: null
+  categories:
+  - religion
+  web: https://www.pingstmjolby.se/
+
 - entry: 1234676060
   orgName: Örebro Boulesällskap
   orgNumber: 802443-0327
@@ -6947,6 +6987,14 @@ entries:
   - ridsport
   web: https://naturlarahs.se/
 
+- entry: 1234862041
+  orgName: Pingst Umeå
+  orgNumber: 894000-0345
+  comment: Pingst Holmsund
+  categories:
+  - religion
+  web: https://umea.pingst.se/
+
 - entry: 1234891636
   orgName: Nässjö Järnvägsmuseum
   orgNumber: 827001-0492
@@ -7118,6 +7166,14 @@ entries:
   categories:
   - religion
   web: https://elvorochjanne.se/
+
+- entry: 1235036348
+  orgName: Pingstkyrkan Mjölby
+  orgNumber: 823000-0377
+  comment: Ung Pingst
+  categories:
+  - religion
+  web: https://www.pingstmjolby.se/
 
 - entry: 1235047709
   orgName: Syntolkning Nu i Sverige Ekonomisk förening
@@ -7900,6 +7956,14 @@ entries:
   - intresseförening
   web: https://nkvillan.se/
 
+- entry: 1235457429
+  orgName: Pingstförsamlingen i Arboga
+  orgNumber: 878500-0343
+  comment: null
+  categories:
+  - religion
+  web: https://www.arboga.pingst.se/
+
 - entry: 1235458013
   orgName: Framnäs Hamnförening
   orgNumber: 869000-7623
@@ -7907,6 +7971,14 @@ entries:
   categories:
   - hamnförening
   web: https://www.framnashamnen.se/
+
+- entry: 1235469929
+  orgName: Pingst Umeå
+  orgNumber: 894000-0345
+  comment: Event och deltagaravgifter
+  categories:
+  - religion
+  web: https://umea.pingst.se/
 
 - entry: 1235476056
   orgName: Nålbolaget Fahlgren AB
@@ -7961,6 +8033,14 @@ entries:
   - idrottsförening
   - innebandy
   web: https://www.laget.se/CIF/
+
+- entry: 1235516026
+  orgName: Pingstförsamlingen i Kinna
+  orgNumber: 865000-5096
+  comment: Missionskassan
+  categories:
+  - religion
+  web: https://kinna.pingst.se/
 
 - entry: 1235517487
   orgName: Finska Bastun / Jönköpings Finska Förening
@@ -9377,6 +9457,14 @@ entries:
   - swingersklubb
   web: https://www.sjundehimmelen.se/
 
+- entry: 1236406110
+  orgName: Pingst Umeå
+  orgNumber: 894000-0345
+  comment: Grace Children
+  categories:
+  - religion
+  web: https://umea.pingst.se/
+
 - entry: 1236406466
   orgName: Föreningen För Lotsbåten Ilse
   orgNumber: 802490-3976
@@ -10070,6 +10158,14 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Templet/
+
+- entry: 1236956536
+  orgName: Pingst Umeå
+  orgNumber: 894000-0345
+  comment: Donationer och kyrkfika
+  categories:
+  - religion
+  web: https://umea.pingst.se/
 
 - entry: 1236991160
   orgName: Pingstkyrkan Kaxholmen
