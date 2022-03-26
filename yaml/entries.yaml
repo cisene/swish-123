@@ -173,6 +173,14 @@ entries:
   - tjejjour
   web: http://www.atsubgbg.nu/
 
+- entry: 1230184119
+  orgName: Evangelisk-Luthersk Samling
+  orgNumber: 894700-6006
+  comment: null
+  categories:
+  - religion
+  web: https://els.nu/
+
 - entry: 1230184374
   orgName: Sandviks IK
   orgNumber: 894000-1558
@@ -361,6 +369,15 @@ entries:
   - intresseförening
   web: https://millesgardensvanner.se/
 
+- entry: 1230365288
+  orgName: Marias Logi AB
+  orgNumber: 556768-8337
+  comment: null
+  categories:
+  - hotell
+  - logi
+  web: https://mariaslogi.se/
+
 - entry: 1230365882
   orgName: Kronobergs Dreverklubb
   orgNumber: null
@@ -495,6 +512,15 @@ entries:
   - politiskt parti
   web: https://feministisktinitiativ.se/
 
+- entry: 1230451765
+  orgName: Amigos Mios
+  orgNumber: 802505-7657
+  comment: null
+  categories:
+  - djurskydd
+  - hundhem
+  web: https://www.amigosmios.se/
+
 - entry: 1230460634
   orgName: Ljusfallshammars Byaråd
   orgNumber: 825003-8448
@@ -626,6 +652,14 @@ entries:
   categories:
   - hundklubb
   web: http://upplandstaxklubb.com/
+
+- entry: 1230579458
+  orgName: Hanviksens SK Ishockey T06
+  orgNumber: 812400-3412
+  comment: null
+  categories:
+  - ishockeyklubb
+  web: https://hanvikenssk.myclub.se/ishockey/thhteam06
 
 - entry: 1230594143
   orgName: Höganäs GF, HGF
@@ -846,6 +880,14 @@ entries:
   categories:
   - religion
   web: https://www.ostermalmskyrkan.nu/
+
+- entry: 1230747899
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Ystad
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Ystad/
 
 - entry: 1230750257
   orgName: SPF Seniorerna Havsörnen
@@ -1557,6 +1599,14 @@ entries:
   - ladugårdsutrustning
   - stallutrustrning
   web: https://www.lgprodukter.se/
+
+- entry: 1231223775
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Visby
+  categories:
+  - religion
+  web: http://www.krukmakarenshus.org/
 
 - entry: 1231224666
   orgName: Mälarbadens Golfklubb
@@ -2362,6 +2412,14 @@ entries:
   - motorcykel
   web: https://motormedlarna.se/
 
+- entry: 1231667633
+  orgName: Dala Padel
+  orgNumber: 559122-8209
+  comment: null
+  categories:
+  - padelspel
+  web: https://www.dalapadel.se/
+
 - entry: 1231670793
   orgName: MCACA - Many Cares Against Child Abuse
   orgNumber: 802537-4557
@@ -2640,6 +2698,7 @@ entries:
   comment: Johannelunds teologiska högskola
   categories:
   - religion
+  - utbildning
   web: https://www.efs.nu/
 
 - entry: 1231896323
@@ -3119,6 +3178,16 @@ entries:
   - skidlöparklubb
   web: https://xn--borssk-kua.se/
 
+- entry: 1232222404
+  orgName: Stättareds 4H-gård
+  orgNumber: 802428-8550
+  comment: null
+  categories:
+  - 4h
+  - djurvård
+  - utbildning
+  web: https://www.4h.se/stattared/
+
 - entry: 1232222966
   orgName: SHEDO - Self Harm and Eating Disorder Organisation
   orgNumber: 802442-4569
@@ -3289,6 +3358,7 @@ entries:
   categories:
   - bilskola
   - körkort
+  - trafikskola
   web: https://www.ringensbilskola.se/
 
 - entry: 1232306611
@@ -3717,6 +3787,14 @@ entries:
   - donation
   web: https://wikimedia.se/
 
+- entry: 1232694057
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Tranås
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Tranas/
+
 - entry: 1232695989
   orgName: Pingstkyrkan Lidköping
   orgNumber: 869000-0495
@@ -4056,6 +4134,14 @@ entries:
   - laboratorier
   - trikiner
   web: http://www.jphastveda.com/
+
+- entry: 1232906733
+  orgName: Restaurang Schnitzelplatz Lagerhuset AB
+  orgNumber: 556850-8625
+  comment: null
+  categories:
+  - restaurant
+  web: https://schnitzelplatz.se/
 
 - entry: 1232909695
   orgName: Insamlingsstiftelsen 1000 Möjligheter
@@ -4397,6 +4483,22 @@ entries:
   categories:
   - intresseförening
   web: https://www.republikanskaforeningen.se/
+
+- entry: 1233199254
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Västerås
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Vasteras/
+
+- entry: 1233200714
+  orgName: SOS Barnbyar
+  orgNumber: 802405-7815
+  comment: Katastroffond
+  categories:
+  - hjälporganisation
+  web: https://sos-barnbyar.se/
 
 - entry: 1233205499
   orgName: SHOE4AFRICA SWEDEN
@@ -5161,6 +5263,15 @@ entries:
   - restaurant
   web: https://www.malins-skafferi.se/
 
+- entry: 1233700366
+  orgName: Stockholms Byggnadsförening
+  orgNumber: 802000-4902
+  comment: null
+  categories:
+  - byggnadskonst
+  - utbildning
+  web: https://www.sthbyggnadsforening.se/
+
 - entry: 1233703493
   orgName: Sölvesborgs Trädgårdsförening
   orgNumber: 836201-1853
@@ -5178,6 +5289,14 @@ entries:
   - genealogi
   - släktforskning
   web: https://jbgf.se/
+
+- entry: 1233716628
+  orgName: Föreningen Antoniosgården
+  orgNumber: 802499-4553
+  comment: null
+  categories:
+  - religion
+  web: https://antoniosgarden.se/
 
 - entry: 1233716875
   orgName: Ridklubben Udden
@@ -5237,6 +5356,14 @@ entries:
   comment: null
   categories: null
   web: https://efsvasterbotten.se/
+
+- entry: 1233771318
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Uppsala, Kåren
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Uppsala/
 
 - entry: 1233785854
   orgName: Kvinno- och Tjejjouren Miranda
@@ -5927,6 +6054,14 @@ entries:
   - politiskt parti
   web: https://www.centerpartiet.se/
 
+- entry: 1234218889
+  orgName: Förenade Israelinsamlingen / Keren Hayesod
+  orgNumber: 802006-1738
+  comment: null
+  categories:
+  - religion
+  web: https://www.israelinsamlingen.org/
+
 - entry: 1234228284
   orgName: Formcraft / Marianne Ljungström
   orgNumber: 610214-XXXX
@@ -6246,6 +6381,15 @@ entries:
   - idrottsförening
   web: https://www.curlingklubben.se/
 
+- entry: 1234416665
+  orgName: Föreningen Umeå RadioAmatörer, FURA
+  orgNumber: 802487-3468
+  comment: null
+  categories:
+  - förening
+  - radioklubb
+  web: http://www.fura.se/
+
 - entry: 1234417838
   orgName: Svenska Prazsky Krysarik klubben, SPKK
   orgNumber: 802434-6804
@@ -6458,6 +6602,14 @@ entries:
   - ornitologi
   web: https://stof.nu/
 
+- entry: 1234589610
+  orgName: Unnaryd-Jälluntofta-Hembygdsförening
+  orgNumber: 828500-1320
+  comment: null
+  categories:
+  - hembygdsförening
+  web: http://ujh.se/
+
 - entry: 1234595658
   orgName: Pennyfonden / Dravets Syndrome Association Sweden, DSAS
   orgNumber: 802471-5107
@@ -6523,6 +6675,14 @@ entries:
   categories:
   - religion
   web: https://mullsjopingst.se/
+
+- entry: 1234642393
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Uppsala, Sociala Arbetet
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Uppsala/
 
 - entry: 1234643565
   orgName: Brännkyrka Församling
@@ -6786,6 +6946,14 @@ entries:
   - ridklubb
   - ridsport
   web: https://naturlarahs.se/
+
+- entry: 1234891636
+  orgName: Nässjö Järnvägsmuseum
+  orgNumber: 827001-0492
+  comment: null
+  categories:
+  - museum
+  web: https://nassjojarnvagsmuseum.se/
 
 - entry: 1234894598
   orgName: Sönner och Mellantjärns FVOF
@@ -7343,6 +7511,14 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/ostersund/
 
+- entry: 1235266168
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Varberg
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Varberg/
+
 - entry: 1235266697
   orgName: Adventkyrkan i Malmö
   orgNumber: 846004-1711
@@ -7395,6 +7571,16 @@ entries:
   - bordtennis
   - bordtennisklubb
   web: http://www.dbtk.se/
+
+- entry: 1235284385
+  orgName: Lagg & Hoj AB
+  orgNumber: 559113-4605
+  comment: null
+  categories:
+  - cykelsport
+  - skidutrustning
+  - uthyrning
+  web: https://lagghoj.se/
 
 - entry: 1235288600
   orgName: Frälsningsarmén
@@ -8143,6 +8329,15 @@ entries:
   - religion
   web: https://www.bibelskolan.com/
 
+- entry: 1235750104
+  orgName: Anhörigas Riksförbund
+  orgNumber: 802402-4831
+  comment: null
+  categories:
+  - intresseorganisation
+  - riksförbund
+  web: https://anhorigasriksforbund.se/
+
 - entry: 1235752407
   orgName: Hela Människan RIA Falköping
   orgNumber: 867800-4121
@@ -8418,6 +8613,16 @@ entries:
   categories: null
   web: http://karlskogaek.com/
 
+- entry: 1235949516
+  orgName: Eolshälls 4H-gård
+  orgNumber: 802014-0144
+  comment: null
+  categories:
+  - 4h
+  - djurvård
+  - utbildning
+  web: https://www.4h.se/eolshall/
+
 - entry: 1235954243
   orgName: Musketörerna i Sollentuna
   orgNumber: 802448-7483
@@ -8435,6 +8640,15 @@ entries:
   - donation
   - religion
   web: https://www.forshedamission.se/
+
+- entry: 1235964184
+  orgName: Rid och Musik Föreningen Lindebolarna
+  orgNumber: 839400-5220
+  comment: null
+  categories:
+  - musikförening
+  - ridklubb
+  web: http://lindebolarna.se/
 
 - entry: 1235978424
   orgName: Vägpress AB/Tidningen Proffs
@@ -8493,6 +8707,14 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Trollhattan/
+
+- entry: 1236021844
+  orgName: Kristianstads Brukshundklubb
+  orgNumber: 838201-9464
+  comment: null
+  categories:
+  - brukshundsklubb
+  web: http://www.kristianstadsbk.se/
 
 - entry: 1236022289
   orgName: Kvinnojouren Mira
@@ -8779,6 +9001,16 @@ entries:
   - fiskekort
   - sportfiske
   web: https://sportfiskarnaskane.se/
+
+- entry: 1236162796
+  orgName: Butiken Förr i Skövde AB
+  orgNumber: 556788-4688
+  comment: null
+  categories:
+  - butikshandel
+  - heminredning
+  - inredningstextilier
+  web: https://www.forr.se/
 
 - entry: 1236172373
   orgName: ECO Butiken
@@ -9207,6 +9439,14 @@ entries:
   - körsång
   web: https://www.gospelverkstaden.se/
 
+- entry: 1236449318
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Umeå
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Umea/Umea/
+
 - entry: 1236464960
   orgName: Gluggen - Smart Svensk Mat
   orgNumber: null
@@ -9436,6 +9676,14 @@ entries:
   - utbildning
   web: https://www.4h.se/naturhjaltarna/
 
+- entry: 1236678262
+  orgName: American Akita Klubb Sverige
+  orgNumber: 802432-2078
+  comment: null
+  categories:
+  - hundklubb
+  web: null
+
 - entry: 1236682900
   orgName: Exoteriska Fonden
   orgNumber: 802419-0236
@@ -9658,6 +9906,14 @@ entries:
   - motorsport
   - racing
   web: https://www.arc.nu/sv/klubben/banan/
+
+- entry: 1236805592
+  orgName: Föreningen Nyhemsveckan
+  orgNumber: 802427-6738
+  comment: null
+  categories:
+  - religion
+  web: https://nyhemsveckan.se/
 
 - entry: 1236811707
   orgName: Eskilstuna Sushi Bar / Spicy Soup AB

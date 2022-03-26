@@ -259,6 +259,19 @@
     </entry>
     
 
+    <entry number="1230184119">
+      <organization>
+        <name>Evangelisk-Luthersk Samling</name>
+        <number>894700-6006</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://els.nu/</web>
+    </entry>
+    
+
     <entry number="1230184374">
       <organization>
         <name>Sandviks IK</name>
@@ -554,6 +567,20 @@
     </entry>
     
 
+    <entry number="1230365288">
+      <organization>
+        <name>Marias Logi AB</name>
+        <number>556768-8337</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hotell"/>
+        <category type="logi"/>
+      </categories>
+      <web>https://mariaslogi.se/</web>
+    </entry>
+    
+
     <entry number="1230366930">
       <organization>
         <name>Cityidrott Landskrona</name>
@@ -751,6 +778,20 @@
         <category type="politiskt parti"/>
       </categories>
       <web>https://feministisktinitiativ.se/</web>
+    </entry>
+    
+
+    <entry number="1230451765">
+      <organization>
+        <name>Amigos Mios</name>
+        <number>802505-7657</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="djurskydd"/>
+        <category type="hundhem"/>
+      </categories>
+      <web>https://www.amigosmios.se/</web>
     </entry>
     
 
@@ -962,6 +1003,19 @@
         <category type="hundklubb"/>
       </categories>
       <web>http://upplandstaxklubb.com/</web>
+    </entry>
+    
+
+    <entry number="1230579458">
+      <organization>
+        <name>Hanviksens SK Ishockey T06</name>
+        <number>812400-3412</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="ishockeyklubb"/>
+      </categories>
+      <web>https://hanvikenssk.myclub.se/ishockey/thhteam06</web>
     </entry>
     
 
@@ -1308,6 +1362,19 @@
         <category type="religion"/>
       </categories>
       <web>https://www.ostermalmskyrkan.nu/</web>
+    </entry>
+    
+
+    <entry number="1230747899">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Ystad</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Ystad/</web>
     </entry>
     
 
@@ -2390,6 +2457,19 @@
         <category type="stallutrustrning"/>
       </categories>
       <web>https://www.lgprodukter.se/</web>
+    </entry>
+    
+
+    <entry number="1231223775">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Visby</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>http://www.krukmakarenshus.org/</web>
     </entry>
     
 
@@ -3616,6 +3696,19 @@
     </entry>
     
 
+    <entry number="1231667633">
+      <organization>
+        <name>Dala Padel</name>
+        <number>559122-8209</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="padelspel"/>
+      </categories>
+      <web>https://www.dalapadel.se/</web>
+    </entry>
+    
+
     <entry number="1231670793">
       <organization>
         <name>MCACA - Many Cares Against Child Abuse</name>
@@ -4042,6 +4135,7 @@
       <comment>Johannelunds teologiska högskola</comment>
       <categories>
         <category type="religion"/>
+        <category type="utbildning"/>
       </categories>
       <web>https://www.efs.nu/</web>
     </entry>
@@ -4787,6 +4881,21 @@
     </entry>
     
 
+    <entry number="1232222404">
+      <organization>
+        <name>Stättareds 4H-gård</name>
+        <number>802428-8550</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="4h"/>
+        <category type="djurvård"/>
+        <category type="utbildning"/>
+      </categories>
+      <web>https://www.4h.se/stattared/</web>
+    </entry>
+    
+
     <entry number="1232222966">
       <organization>
         <name>SHEDO - Self Harm and Eating Disorder Organisation</name>
@@ -5027,6 +5136,7 @@
       <categories>
         <category type="bilskola"/>
         <category type="körkort"/>
+        <category type="trafikskola"/>
       </categories>
       <web>https://www.ringensbilskola.se/</web>
     </entry>
@@ -5690,6 +5800,19 @@
     </entry>
     
 
+    <entry number="1232694057">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Tranås</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Tranas/</web>
+    </entry>
+    
+
     <entry number="1232695989">
       <organization>
         <name>Pingstkyrkan Lidköping</name>
@@ -6216,6 +6339,19 @@
     </entry>
     
 
+    <entry number="1232906733">
+      <organization>
+        <name>Restaurang Schnitzelplatz Lagerhuset AB</name>
+        <number>556850-8625</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="restaurant"/>
+      </categories>
+      <web>https://schnitzelplatz.se/</web>
+    </entry>
+    
+
     <entry number="1232909695">
       <organization>
         <name>Insamlingsstiftelsen 1000 Möjligheter</name>
@@ -6735,6 +6871,32 @@
         <category type="intresseförening"/>
       </categories>
       <web>https://www.republikanskaforeningen.se/</web>
+    </entry>
+    
+
+    <entry number="1233199254">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Västerås</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Vasteras/</web>
+    </entry>
+    
+
+    <entry number="1233200714">
+      <organization>
+        <name>SOS Barnbyar</name>
+        <number>802405-7815</number>
+      </organization>
+      <comment>Katastroffond</comment>
+      <categories>
+        <category type="hjälporganisation"/>
+      </categories>
+      <web>https://sos-barnbyar.se/</web>
     </entry>
     
 
@@ -7894,6 +8056,20 @@
     </entry>
     
 
+    <entry number="1233700366">
+      <organization>
+        <name>Stockholms Byggnadsförening</name>
+        <number>802000-4902</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="byggnadskonst"/>
+        <category type="utbildning"/>
+      </categories>
+      <web>https://www.sthbyggnadsforening.se/</web>
+    </entry>
+    
+
     <entry number="1233703493">
       <organization>
         <name>Sölvesborgs Trädgårdsförening</name>
@@ -7919,6 +8095,19 @@
         <category type="släktforskning"/>
       </categories>
       <web>https://jbgf.se/</web>
+    </entry>
+    
+
+    <entry number="1233716628">
+      <organization>
+        <name>Föreningen Antoniosgården</name>
+        <number>802499-4553</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://antoniosgarden.se/</web>
     </entry>
     
 
@@ -8012,6 +8201,19 @@
       <comment/>
       <categories/>
       <web>https://efsvasterbotten.se/</web>
+    </entry>
+    
+
+    <entry number="1233771318">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Uppsala, Kåren</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Uppsala/</web>
     </entry>
     
 
@@ -9077,6 +9279,19 @@
     </entry>
     
 
+    <entry number="1234218889">
+      <organization>
+        <name>Förenade Israelinsamlingen / Keren Hayesod</name>
+        <number>802006-1738</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.israelinsamlingen.org/</web>
+    </entry>
+    
+
     <entry number="1234228284">
       <organization>
         <name>Formcraft / Marianne Ljungström</name>
@@ -9582,6 +9797,20 @@
     </entry>
     
 
+    <entry number="1234416665">
+      <organization>
+        <name>Föreningen Umeå RadioAmatörer, FURA</name>
+        <number>802487-3468</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="förening"/>
+        <category type="radioklubb"/>
+      </categories>
+      <web>http://www.fura.se/</web>
+    </entry>
+    
+
     <entry number="1234417838">
       <organization>
         <name>Svenska Prazsky Krysarik klubben, SPKK</name>
@@ -9918,6 +10147,19 @@
     </entry>
     
 
+    <entry number="1234589610">
+      <organization>
+        <name>Unnaryd-Jälluntofta-Hembygdsförening</name>
+        <number>828500-1320</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hembygdsförening"/>
+      </categories>
+      <web>http://ujh.se/</web>
+    </entry>
+    
+
     <entry number="1234595658">
       <organization>
         <name>Pennyfonden / Dravets Syndrome Association Sweden, DSAS</name>
@@ -10019,6 +10261,19 @@
         <category type="religion"/>
       </categories>
       <web>https://mullsjopingst.se/</web>
+    </entry>
+    
+
+    <entry number="1234642393">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Uppsala, Sociala Arbetet</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Uppsala/</web>
     </entry>
     
 
@@ -10422,6 +10677,19 @@
         <category type="ridsport"/>
       </categories>
       <web>https://naturlarahs.se/</web>
+    </entry>
+    
+
+    <entry number="1234891636">
+      <organization>
+        <name>Nässjö Järnvägsmuseum</name>
+        <number>827001-0492</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="museum"/>
+      </categories>
+      <web>https://nassjojarnvagsmuseum.se/</web>
     </entry>
     
 
@@ -11262,6 +11530,19 @@
     </entry>
     
 
+    <entry number="1235266168">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Varberg</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Varberg/</web>
+    </entry>
+    
+
     <entry number="1235266697">
       <organization>
         <name>Adventkyrkan i Malmö</name>
@@ -11342,6 +11623,21 @@
         <category type="bordtennisklubb"/>
       </categories>
       <web>http://www.dbtk.se/</web>
+    </entry>
+    
+
+    <entry number="1235284385">
+      <organization>
+        <name>Lagg &amp; Hoj AB</name>
+        <number>559113-4605</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="cykelsport"/>
+        <category type="skidutrustning"/>
+        <category type="uthyrning"/>
+      </categories>
+      <web>https://lagghoj.se/</web>
     </entry>
     
 
@@ -12508,6 +12804,20 @@
     </entry>
     
 
+    <entry number="1235750104">
+      <organization>
+        <name>Anhörigas Riksförbund</name>
+        <number>802402-4831</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="intresseorganisation"/>
+        <category type="riksförbund"/>
+      </categories>
+      <web>https://anhorigasriksforbund.se/</web>
+    </entry>
+    
+
     <entry number="1235752407">
       <organization>
         <name>Hela Människan RIA Falköping</name>
@@ -12938,6 +13248,21 @@
     </entry>
     
 
+    <entry number="1235949516">
+      <organization>
+        <name>Eolshälls 4H-gård</name>
+        <number>802014-0144</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="4h"/>
+        <category type="djurvård"/>
+        <category type="utbildning"/>
+      </categories>
+      <web>https://www.4h.se/eolshall/</web>
+    </entry>
+    
+
     <entry number="1235954243">
       <organization>
         <name>Musketörerna i Sollentuna</name>
@@ -12963,6 +13288,20 @@
         <category type="religion"/>
       </categories>
       <web>https://www.forshedamission.se/</web>
+    </entry>
+    
+
+    <entry number="1235964184">
+      <organization>
+        <name>Rid och Musik Föreningen Lindebolarna</name>
+        <number>839400-5220</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="musikförening"/>
+        <category type="ridklubb"/>
+      </categories>
+      <web>http://lindebolarna.se/</web>
     </entry>
     
 
@@ -13056,6 +13395,19 @@
         <category type="religion"/>
       </categories>
       <web>https://www.fralsningsarmen.se/Trollhattan/</web>
+    </entry>
+    
+
+    <entry number="1236021844">
+      <organization>
+        <name>Kristianstads Brukshundklubb</name>
+        <number>838201-9464</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="brukshundsklubb"/>
+      </categories>
+      <web>http://www.kristianstadsbk.se/</web>
     </entry>
     
 
@@ -13503,6 +13855,21 @@
         <category type="sportfiske"/>
       </categories>
       <web>https://sportfiskarnaskane.se/</web>
+    </entry>
+    
+
+    <entry number="1236162796">
+      <organization>
+        <name>Butiken Förr i Skövde AB</name>
+        <number>556788-4688</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="butikshandel"/>
+        <category type="heminredning"/>
+        <category type="inredningstextilier"/>
+      </categories>
+      <web>https://www.forr.se/</web>
     </entry>
     
 
@@ -14166,6 +14533,19 @@
     </entry>
     
 
+    <entry number="1236449318">
+      <organization>
+        <name>Frälsningsarmén</name>
+        <number>802006-1688</number>
+      </organization>
+      <comment>Umeå</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://www.fralsningsarmen.se/Umea/Umea/</web>
+    </entry>
+    
+
     <entry number="1236478283">
       <organization>
         <name>HSB BRF Tåget</name>
@@ -14495,6 +14875,19 @@
         <category type="utbildning"/>
       </categories>
       <web>https://www.4h.se/naturhjaltarna/</web>
+    </entry>
+    
+
+    <entry number="1236678262">
+      <organization>
+        <name>American Akita Klubb Sverige</name>
+        <number>802432-2078</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hundklubb"/>
+      </categories>
+      <web/>
     </entry>
     
 
@@ -14831,6 +15224,19 @@
         <category type="racing"/>
       </categories>
       <web>https://www.arc.nu/sv/klubben/banan/</web>
+    </entry>
+    
+
+    <entry number="1236805592">
+      <organization>
+        <name>Föreningen Nyhemsveckan</name>
+        <number>802427-6738</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://nyhemsveckan.se/</web>
     </entry>
     
 
