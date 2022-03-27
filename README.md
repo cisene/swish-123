@@ -2,7 +2,7 @@
 
 *(This concerns Swedes and people living in Sweden, hence written in Swedish)*
 
-Detta är ett försök att skapa en datakälla med alla kända och okända Swish 123-nummer, enligt Swish använder [306 234](https://www.swish.nu/about-swish#Swish_in_numbers) företag/organisationer Swish-platformen för betalningar. Det vore därför trevligt att kunna bygga API eller bara kunna kolla vem/vilka som har ett Swish 123-nummer.
+Detta är ett försök att skapa en datakälla med alla kända och okända Swish 123-nummer, enligt Swish använder runt [250000](https://www.swish.nu/about-swish#Swish_in_numbers) företag/organisationer Swish-platformen för betalningar. Det vore därför trevligt att kunna bygga API eller bara kunna kolla vem/vilka som har ett Swish 123-nummer.
 
 Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
@@ -16,7 +16,15 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 
 
+## Användning av information från Swish 123
+
+Användning av [Swish 123](https://github.com/cisene/swish-123) data kan skådas på bland annat [Swish-Katalogen](https://b19.se/swish-katalogen) där dessa data exponeras i en enkel söktjänst genom tagg-moln och fritext sökning.
+
+
+
 ## Vad är ett Swish 123-nummer?
+
+Swish 123-nummer är 10-ställiga nummer som har begynnelsesiffror "123". Detta ger en nummer-rymd om 9999999, nära 10 miljoner nummer. Bland dessa nummer finns serier allokerade för specifika ändamål. 
 
 Listan innehåller Swish 123-nummer som samlats och kunnat knytas till en organisation med organisationsnummer - i de fall 123-nummret innehas av enskild företagare to utelämnas detta eftersom det då skulle utgöra problem med GDPR på grund av företagarens personnummer.
 
@@ -28,9 +36,11 @@ Speciella serier av 1239XX (900-909) är allokerade till organisationer med så 
 
 Några populära exempel:
 
-* Radio Hjälpen, Plusgiro 90 1950-6, med Swish nummer **1239019506** ibland uttryckt som 901 95 06
-* Läkare Utan Gränser, Plusgiro 90 0603-2, med Swish nummer **1239006032** ibland uttryckt som 900 60 32
-* Human Rights Watch Scandinavia, Plusgiro 90 0454-0, med Swish nummer **1239004540** ibland uttryckt som 900 45 40
+* Radio Hjälpen, Plusgiro 90 1950-6, med Swish nummer **[1239019506](https://b19.se/swish-katalogen/1239019506)** ibland uttryckt som 901 95 06
+* Läkare Utan Gränser, Plusgiro 90 0603-2, med Swish nummer **[1239006032](https://b19.se/swish-katalogen/1239006032)** ibland uttryckt som 900 60 32
+* Human Rights Watch Scandinavia, Plusgiro 90 0454-0, med Swish nummer **[1239004540](https://b19.se/swish-katalogen/1239004540)** ibland uttryckt som 900 45 40
+
+Dessa kan även hittas i Swish-Katalogen under kategorin [insamlingskontroll](https://b19.se/swish-katalogen/k/insamlingskontroll).
 
 
 
