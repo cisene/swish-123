@@ -1235,7 +1235,6 @@ entries:
   comment: null
   categories:
   - hästsport
-  - islandshästar
   - ridläger
   - ridskola
   - turridning
@@ -1262,7 +1261,8 @@ entries:
   orgName: Himlabacken Skoter
   orgNumber: 802440-1443
   comment: null
-  categories: null
+  categories:
+  - skoterklubb
   web: https://himlabackenskoter.se/
 
 - entry: 1230994095
@@ -2706,7 +2706,6 @@ entries:
   orgNumber: 875002-6380
   comment: null
   categories:
-  - islandshästar
   - ridklubb
   - ryttarförening
   web: https://www.hrimfaxi.se/
@@ -5630,8 +5629,8 @@ entries:
   orgNumber: 802000-2369
   comment: null
   categories:
-  - ardennerhästar
-  - hästavel
+  - avel
+  - hästuppfödning
   web: https://www.ardennerforeningen.nu/
 
 - entry: 1233819158
@@ -7704,7 +7703,7 @@ entries:
   web: http://tbif.se/
 
 - entry: 1235205588
-  orgName: TED STRÖM KONST & MUSIK
+  orgName: Ted Ström Konst & Musik
   orgNumber: 441119-XXXX
   comment: null
   categories:
@@ -8510,7 +8509,7 @@ entries:
   web: https://themaineclub.se/
 
 - entry: 1235666698
-  orgName: TED STRÖM KONST & MUSIK
+  orgName: Ted Ström Konst & Musik
   orgNumber: 441119-XXXX
   comment: null
   categories:

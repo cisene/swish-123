@@ -1906,7 +1906,6 @@
       <comment/>
       <categories>
         <category type="hästsport"/>
-        <category type="islandshästar"/>
         <category type="ridläger"/>
         <category type="ridskola"/>
         <category type="turridning"/>
@@ -1948,7 +1947,9 @@
         <number>802440-1443</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="skoterklubb"/>
+      </categories>
       <web>https://himlabackenskoter.se/</web>
     </entry>
     
@@ -4141,7 +4142,6 @@
       </organization>
       <comment/>
       <categories>
-        <category type="islandshästar"/>
         <category type="ridklubb"/>
         <category type="ryttarförening"/>
       </categories>
@@ -8589,8 +8589,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="ardennerhästar"/>
-        <category type="hästavel"/>
+        <category type="avel"/>
+        <category type="hästuppfödning"/>
       </categories>
       <web>https://www.ardennerforeningen.nu/</web>
     </entry>
@@ -11792,7 +11792,7 @@
 
     <entry number="1235205588">
       <organization>
-        <name>TED STRÖM KONST &amp; MUSIK</name>
+        <name>Ted Ström Konst &amp; Musik</name>
         <number>441119-XXXX</number>
       </organization>
       <comment/>
@@ -13037,7 +13037,7 @@
 
     <entry number="1235666698">
       <organization>
-        <name>TED STRÖM KONST &amp; MUSIK</name>
+        <name>Ted Ström Konst &amp; Musik</name>
         <number>441119-XXXX</number>
       </organization>
       <comment/>
