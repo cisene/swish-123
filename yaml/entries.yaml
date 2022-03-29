@@ -1321,6 +1321,14 @@ entries:
   categories: null
   web: https://ffg.se/
 
+- entry: 1231022490
+  orgName: Pingstförsamlingen Kungsör
+  orgNumber: 878500-0350
+  comment: Byggnadskassan
+  categories:
+  - religion
+  web: https://kungsor.pingst.se/
+
 - entry: 1231030758
   orgName: Kerstins Trafikskola i Åkersberga / Kerstins Trafikskola AB
   orgNumber: 556802-4656
@@ -1348,6 +1356,14 @@ entries:
   - donation
   - religion
   web: https://hillsong.com/sweden/
+
+- entry: 1231051804
+  orgName: Pingstförsamlingen Kungsör
+  orgNumber: 878500-0350
+  comment: Församlingskassan
+  categories:
+  - religion
+  web: https://kungsor.pingst.se/
 
 - entry: 1231052372
   orgName: Fiskfoder.se
@@ -1474,6 +1490,15 @@ entries:
   - sång
   web: https://brunnsbomusikklasser.wordpress.com/
 
+- entry: 1231135987
+  orgName: Eskilstuna Golfklubb
+  orgNumber: 818000-0567
+  comment: null
+  categories:
+  - golf
+  - golfklubb
+  web: https://www.eskilstunagk.se/
+
 - entry: 1231137520
   orgName: Lillpite Fiske Fiskevårdsförening
   orgNumber: 898800-8762
@@ -1516,7 +1541,9 @@ entries:
   orgName: Lerums Fotoklubb
   orgNumber: 802440-7507
   comment: Höstutställning
-  categories: null
+  categories:
+  - förening
+  - intresseförening
   web: https://www.lerumsfotoklubb.se/
 
 - entry: 1231153048
@@ -1575,6 +1602,7 @@ entries:
   comment: null
   categories:
   - golf
+  - golfklubb
   web: https://www.hulta-bollebygdgk.se/
 
 - entry: 1231188051
@@ -3377,6 +3405,14 @@ entries:
   - ryttarförening
   web: https://www.laholmsrf.se/
 
+- entry: 1232255313
+  orgName: Pingstförsamlingen Köping
+  orgNumber: 878500-0921
+  comment: null
+  categories:
+  - religion
+  web: https://kopingpingst.se/
+
 - entry: 1232256436
   orgName: Nässjö Dansförening
   orgNumber: 827000-4545
@@ -4181,6 +4217,14 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://www.unizonjourer.se/familjefridsjouren/
+
+- entry: 1232817641
+  orgName: Pingstförsamlingen Åsenhöga - Marieholm
+  orgNumber: 828000-0392
+  comment: null
+  categories:
+  - religion
+  web: http://asenhogamarieholm.pingst.se/
 
 - entry: 1232818581
   orgName: Värnamo Alliansförsamling
@@ -5836,6 +5880,14 @@ entries:
   comment: null
   categories: null
   web: https://www.hastcenterhannas.se/
+
+- entry: 1233928132
+  orgName: Pingstförsamlingen Kungsör
+  orgNumber: 878500-0350
+  comment: Missionskassan
+  categories:
+  - religion
+  web: https://kungsor.pingst.se/
 
 - entry: 1233930344
   orgName: IKHP Huskvarna

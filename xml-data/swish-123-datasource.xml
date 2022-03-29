@@ -2026,6 +2026,19 @@
     </entry>
     
 
+    <entry number="1231022490">
+      <organization>
+        <name>Pingstförsamlingen Kungsör</name>
+        <number>878500-0350</number>
+      </organization>
+      <comment>Byggnadskassan</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://kungsor.pingst.se/</web>
+    </entry>
+    
+
     <entry number="1231030758">
       <organization>
         <name>Kerstins Trafikskola i Åkersberga / Kerstins Trafikskola AB</name>
@@ -2066,6 +2079,19 @@
         <category type="religion"/>
       </categories>
       <web>https://hillsong.com/sweden/</web>
+    </entry>
+    
+
+    <entry number="1231051804">
+      <organization>
+        <name>Pingstförsamlingen Kungsör</name>
+        <number>878500-0350</number>
+      </organization>
+      <comment>Församlingskassan</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://kungsor.pingst.se/</web>
     </entry>
     
 
@@ -2241,6 +2267,20 @@
     </entry>
     
 
+    <entry number="1231135987">
+      <organization>
+        <name>Eskilstuna Golfklubb</name>
+        <number>818000-0567</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="golf"/>
+        <category type="golfklubb"/>
+      </categories>
+      <web>https://www.eskilstunagk.se/</web>
+    </entry>
+    
+
     <entry number="1231137520">
       <organization>
         <name>Lillpite Fiske Fiskevårdsförening</name>
@@ -2305,7 +2345,10 @@
         <number>802440-7507</number>
       </organization>
       <comment>Höstutställning</comment>
-      <categories/>
+      <categories>
+        <category type="förening"/>
+        <category type="intresseförening"/>
+      </categories>
       <web>https://www.lerumsfotoklubb.se/</web>
     </entry>
     
@@ -2397,6 +2440,7 @@
       <comment/>
       <categories>
         <category type="golf"/>
+        <category type="golfklubb"/>
       </categories>
       <web>https://www.hulta-bollebygdgk.se/</web>
     </entry>
@@ -5149,6 +5193,19 @@
     </entry>
     
 
+    <entry number="1232255313">
+      <organization>
+        <name>Pingstförsamlingen Köping</name>
+        <number>878500-0921</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://kopingpingst.se/</web>
+    </entry>
+    
+
     <entry number="1232256436">
       <organization>
         <name>Nässjö Dansförening</name>
@@ -6389,6 +6446,19 @@
         <category type="tjejjour"/>
       </categories>
       <web>https://www.unizonjourer.se/familjefridsjouren/</web>
+    </entry>
+    
+
+    <entry number="1232817641">
+      <organization>
+        <name>Pingstförsamlingen Åsenhöga - Marieholm</name>
+        <number>828000-0392</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>http://asenhogamarieholm.pingst.se/</web>
     </entry>
     
 
@@ -8917,6 +8987,19 @@
       <comment/>
       <categories/>
       <web>https://www.hastcenterhannas.se/</web>
+    </entry>
+    
+
+    <entry number="1233928132">
+      <organization>
+        <name>Pingstförsamlingen Kungsör</name>
+        <number>878500-0350</number>
+      </organization>
+      <comment>Missionskassan</comment>
+      <categories>
+        <category type="religion"/>
+      </categories>
+      <web>https://kungsor.pingst.se/</web>
     </entry>
     
 
