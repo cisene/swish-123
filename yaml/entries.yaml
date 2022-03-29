@@ -612,6 +612,14 @@ entries:
   - gym
   web: https://www.friskissvettis.se/vellinge/
 
+- entry: 1230499368
+  orgName: Elimförsamlingen i Örebro
+  orgNumber: 875000-0674
+  comment: Böcker, biljetter
+  categories:
+  - religion
+  web: https://orebro.pingst.se/
+
 - entry: 1230509182
   orgName: Nynäshamns Katthemsförening
   orgNumber: 802438-6800
@@ -2528,6 +2536,14 @@ entries:
   - religion
   web: https://ortsforsamlingen.com/
 
+- entry: 1231674456
+  orgName: Härjedalens Pingstförsamling
+  orgNumber: 892600-0418
+  comment: null
+  categories:
+  - religion
+  web: https://www.kyrktorget.se/herjedalen.pingst
+
 - entry: 1231686997
   orgName: Brottsofferjouren Växjö
   orgNumber: 829502-0815
@@ -2685,6 +2701,14 @@ entries:
   - hembygdsförening
   - intresseorganisation
   web: http://www.hjaggsjodrakarna.se/
+
+- entry: 1231758945
+  orgName: Pingstförsamlingen i Eskilstuna
+  orgNumber: 818000-0815
+  comment: null
+  categories:
+  - religion
+  web: https://pingsteskilstunaweb.se/
 
 - entry: 1231769546
   orgName: Sofialäktaren TIFO
@@ -3957,6 +3981,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bergsbygdegard.se/
+
+- entry: 1232684090
+  orgName: Pingstförsamlingen I Värnamo
+  orgNumber: 828000-0384
+  comment: null
+  categories:
+  - religion
+  web: https://arkenvmo.se/
 
 - entry: 1232686905
   orgName: Stockholms Hundhälsa
@@ -7003,6 +7035,14 @@ entries:
   - religion
   web: https://nimbuskyrkan.se/
 
+- entry: 1234653143
+  orgName: Pingstkyrkan i Norrköping
+  orgNumber: 825000-4390
+  comment: null
+  categories:
+  - religion
+  web: https://www.pingstnorrkoping.se/
+
 - entry: 1234661120
   orgName: TPs Hundbutik / Linda Ling
   orgNumber: 760511-XXXX
@@ -7421,6 +7461,14 @@ entries:
   - vattenvård
   web: http://sparren.net/
 
+- entry: 1235030408
+  orgName: Pingstkyrkan i Rottne
+  orgNumber: 829500-0379
+  comment: null
+  categories:
+  - religion
+  web: https://www.pingstkyrkanrottne.se/
+
 - entry: 1235031505
   orgName: Predikan & Undervisning - Elvor & Janne
   orgNumber: 802473-0841
@@ -7608,6 +7656,14 @@ entries:
   - tjejjour
   web: https://nognu.org/
 
+- entry: 1235138573
+  orgName: Pingstförsamlingen Hallstahammar
+  orgNumber: 878000-0421
+  comment: null
+  categories:
+  - religion
+  web: https://www.kyrktorget.se/
+
 - entry: 1235142161
   orgName: Afasiförbundet i Sverige
   orgNumber: 802010-2441
@@ -7771,6 +7827,14 @@ entries:
   categories:
   - religion
   web: http://nasviken.pingst.se/
+
+- entry: 1235215215
+  orgName: Elimförsamlingen i Örebro
+  orgNumber: 875000-0674
+  comment: Café
+  categories:
+  - religion
+  web: https://orebro.pingst.se/
 
 - entry: 1235215520
   orgName: RenOptik
@@ -8470,6 +8534,14 @@ entries:
   - bridgeklubb
   web: https://www.svenskbridge.se/abb-bk
 
+- entry: 1235615133
+  orgName: Nordupplandskyrkan
+  orgNumber: 817300-0178
+  comment: null
+  categories:
+  - religion
+  web: http://nordupplandskyrkan.se/
+
 - entry: 1235615588
   orgName: Videdals GIF
   orgNumber: 846501-6510
@@ -8620,6 +8692,14 @@ entries:
   - lokalradio
   - närradiostation
   web: http://www.radiohaninge.se/
+
+- entry: 1235704168
+  orgName: Sionförsamlingen I Linköping
+  orgNumber: 822000-3811
+  comment: null
+  categories:
+  - religion
+  web: http://pingstlinkoping.se/
 
 - entry: 1235708714
   orgName: Varbergs Kvinnojour
@@ -8927,6 +9007,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://halleforsnas.org/
+
+- entry: 1235922364
+  orgName: Elimförsamlingen i Örebro
+  orgNumber: 875000-0674
+  comment: Kollekt
+  categories:
+  - religion
+  web: https://orebro.pingst.se/
 
 - entry: 1235923123
   orgName: Malmö Fotbollförening
