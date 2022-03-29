@@ -3035,7 +3035,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="member-fee"/>
+        <category type="förening"/>
+        <category type="scoutkår"/>
       </categories>
       <web>https://www.a-sjo.se/</web>
     </entry>
@@ -4882,8 +4883,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="försäljning"/>
         <category type="golf"/>
+        <category type="golfklubb"/>
       </categories>
       <web>https://dwgolfklubb.se/</web>
     </entry>
@@ -5799,7 +5800,7 @@
       </organization>
       <comment/>
       <categories>
-        <category type="member-fee"/>
+        <category type="idrottsförening"/>
       </categories>
       <web>https://www.svenskalag.se/tjalvefriidrott</web>
     </entry>
@@ -7604,7 +7605,8 @@
       </organization>
       <comment/>
       <categories>
-        <category type="membership-fee"/>
+        <category type="förening"/>
+        <category type="scoutkår"/>
       </categories>
       <web>https://tuve.scout.se/</web>
     </entry>
@@ -15667,8 +15669,8 @@
       </organization>
       <comment>Söderby Golf - Kiosk, Restaurant</comment>
       <categories>
-        <category type="försäljning"/>
         <category type="golf"/>
+        <category type="golfklubb"/>
       </categories>
       <web>https://www.golfuppsala.se/</web>
     </entry>

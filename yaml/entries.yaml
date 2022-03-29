@@ -1996,7 +1996,8 @@ entries:
   orgNumber: 857203-7342
   comment: null
   categories:
-  - member-fee
+  - förening
+  - scoutkår
   web: https://www.a-sjo.se/
 
 - entry: 1231388982
@@ -3189,8 +3190,8 @@ entries:
   orgNumber: 838201-8813
   comment: null
   categories:
-  - försäljning
   - golf
+  - golfklubb
   web: https://dwgolfklubb.se/
 
 - entry: 1232136877
@@ -3806,7 +3807,7 @@ entries:
   orgNumber: 802531-7374
   comment: null
   categories:
-  - member-fee
+  - idrottsförening
   web: https://www.svenskalag.se/tjalvefriidrott
 
 - entry: 1232441079
@@ -4992,7 +4993,8 @@ entries:
   orgNumber: 802439-1610
   comment: null
   categories:
-  - membership-fee
+  - förening
+  - scoutkår
   web: https://tuve.scout.se/
 
 - entry: 1233311107
@@ -10204,8 +10206,8 @@ entries:
   orgNumber: 556517-4231
   comment: Söderby Golf - Kiosk, Restaurant
   categories:
-  - försäljning
   - golf
+  - golfklubb
   web: https://www.golfuppsala.se/
 
 - entry: 1236687305
