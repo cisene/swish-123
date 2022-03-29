@@ -36,9 +36,9 @@ Speciella serier av 1239XX (900-909) är allokerade till organisationer med så 
 
 Några populära exempel:
 
-* Radio Hjälpen, Plusgiro 90 1950-6, med Swish nummer **[1239019506](https://b19.se/swish-katalogen/1239019506)** ibland uttryckt som 901 95 06
-* Läkare Utan Gränser, Plusgiro 90 0603-2, med Swish nummer **[1239006032](https://b19.se/swish-katalogen/1239006032)** ibland uttryckt som 900 60 32
-* Human Rights Watch Scandinavia, Plusgiro 90 0454-0, med Swish nummer **[1239004540](https://b19.se/swish-katalogen/1239004540)** ibland uttryckt som 900 45 40
+* Radio Hjälpen, pg 90 1950-6, med Swish nummer **[1239019506](https://b19.se/swish-katalogen/1239019506)** ibland uttryckt som 901 95 06
+* Läkare Utan Gränser, pg 90 0603-2, med Swish nummer **[1239006032](https://b19.se/swish-katalogen/1239006032)** ibland uttryckt som 900 60 32
+* Human Rights Watch Scandinavia, pg 90 0454-0, med Swish nummer **[1239004540](https://b19.se/swish-katalogen/1239004540)** ibland uttryckt som 900 45 40
 
 Dessa kan även hittas i Swish-Katalogen under kategorin [insamlingskontroll](https://b19.se/swish-katalogen/k/insamlingskontroll).
 
@@ -54,3 +54,11 @@ Initiativet startades medan huvudet var fullt med snor och lätt febrig, 2021-12
 
 * Bryta upp listor i separata filer med "grupp nummer", ex. swish-123-901.xml för nummer som börjar med 123901*
 * Komplettera kategoriseringar för stöd i tex. filtreringar.
+
+
+### Support/Stöd
+
+Att bidra till projektet uppskattas, det betalar lite av kostnaderna att hålla servrar igång, domännamn och annat.
+
+Några som bidragit är:
+* Maria B
