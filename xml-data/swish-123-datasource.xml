@@ -998,8 +998,8 @@
       </organization>
       <comment>Söderby Golf - Greenfee, Shop, Inomhushall, Lodge, City Butiken</comment>
       <categories>
-        <category type="försäljning"/>
         <category type="golf"/>
+        <category type="golfklubb"/>
       </categories>
       <web>https://www.golfuppsala.se/</web>
     </entry>
@@ -4521,6 +4521,7 @@
       <comment/>
       <categories>
         <category type="golf"/>
+        <category type="golfklubb"/>
       </categories>
       <web>https://www.degerforsgolf.se/</web>
     </entry>
@@ -4841,7 +4842,9 @@
         <number>556686-0242</number>
       </organization>
       <comment/>
-      <categories/>
+      <categories>
+        <category type="försäljning"/>
+      </categories>
       <web>http://www.schtunk.se/</web>
     </entry>
     
@@ -5510,6 +5513,7 @@
       </organization>
       <comment/>
       <categories>
+        <category type="byggnadskonst"/>
         <category type="förening"/>
       </categories>
       <web>https://bebyggelsehistoriska.se/</web>
@@ -5522,7 +5526,10 @@
         <number>802505-5495</number>
       </organization>
       <comment>Tävling</comment>
-      <categories/>
+      <categories>
+        <category type="idrottsförening"/>
+        <category type="orientering"/>
+      </categories>
       <web>https://www.piteaifok.se/</web>
     </entry>
     
@@ -5534,8 +5541,8 @@
       </organization>
       <comment>Edenhof Golf - Greenfee, Shop</comment>
       <categories>
-        <category type="försäljning"/>
         <category type="golf"/>
+        <category type="golfklubb"/>
       </categories>
       <web>https://www.golfuppsala.se/</web>
     </entry>
@@ -8857,7 +8864,6 @@
       <categories>
         <category type="golf"/>
         <category type="golfklubb"/>
-        <category type="green fee"/>
       </categories>
       <web>https://www.tortunagk.se/</web>
     </entry>
@@ -12532,7 +12538,6 @@
       <categories>
         <category type="golf"/>
         <category type="golfklubb"/>
-        <category type="green fee"/>
       </categories>
       <web>https://www.finspangsgk.se/</web>
     </entry>
