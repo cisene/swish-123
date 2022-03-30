@@ -173,6 +173,14 @@ entries:
   - tjejjour
   web: http://www.atsubgbg.nu/
 
+- entry: 1230183822
+  orgName: Pingstförsamlingen I Kumla
+  orgNumber: 875700-0818
+  comment: null
+  categories:
+  - religion
+  web: https://www.kumlapingst.se/
+
 - entry: 1230184119
   orgName: Evangelisk-Luthersk Samling
   orgNumber: 894700-6006
@@ -467,6 +475,14 @@ entries:
   comment: null
   categories: null
   web: https://helamanniskan.se/enkoping
+
+- entry: 1230413203
+  orgName: Filadelfiaförsamlingen I Hultsfred
+  orgNumber: 833200-0317
+  comment: null
+  categories:
+  - religion
+  web: https://www.hultsfredpingst.se/
 
 - entry: 1230416065
   orgName: Youth With A Mission - YWAM Stockholm
@@ -1840,6 +1856,14 @@ entries:
   categories:
   - hjälporganisation
   web: https://sverigeforunhcr.se/
+
+- entry: 1231295203
+  orgName: Smyrnaförsamlingen I Ed
+  orgNumber: 862000-1332
+  comment: Millgate Slumskola
+  categories:
+  - religion
+  web: http://www.pingsted.se/
 
 - entry: 1231301340
   orgName: Skillingaryds Pistolskytteklubb PSK
@@ -4017,6 +4041,14 @@ entries:
   - donation
   web: https://wikimedia.se/
 
+- entry: 1232692945
+  orgName: Pingstförsamlingen Kristinehamn
+  orgNumber: 873600-0087
+  comment: null
+  categories:
+  - religion
+  web: https://pingstkristinehamn.se/
+
 - entry: 1232694057
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -4133,6 +4165,14 @@ entries:
   - djurskydd
   - katthem
   web: https://www.uppsalakatthem.com/
+
+- entry: 1232725364
+  orgName: Pingstförsamlingen i Halmstad
+  orgNumber: 849200-3283
+  comment: null
+  categories:
+  - religion
+  web: https://www.halmstad.pingst.se/
 
 - entry: 1232751899
   orgName: Eksjö RC Klubb - Bilsport
@@ -4291,6 +4331,14 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/jarfallakvinnojour/
 
+- entry: 1232844892
+  orgName: Filadelfia Kvillsfors / Filadelfiaförsamlingen Vetlanda
+  orgNumber: 827500-0506
+  comment: null
+  categories:
+  - religion
+  web: http://www.pingstkvillsfors.se/
+
 - entry: 1232870459
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -4347,6 +4395,14 @@ entries:
   categories:
   - hälsa
   web: http://www.dravetssweden.se/
+
+- entry: 1232887404
+  orgName: Smyrnaförsamlingen I Ed
+  orgNumber: 862000-1332
+  comment: Församlingskassan
+  categories:
+  - religion
+  web: http://www.pingsted.se/
 
 - entry: 1232887446
   orgName: Hulterstads AIK
@@ -5211,6 +5267,13 @@ entries:
   - religion
   web: http://www.lulea.pingst.se/
 
+- entry: 1233431475
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://umea.pingst.se/
+
 - entry: 1233431483
   orgName: Skövde HYRTEC AB
   orgNumber: 559061-6578
@@ -5846,6 +5909,14 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Strangnas/
+
+- entry: 1233894177
+  orgName: Sävaråkyrkan
+  orgNumber: 894000-0360
+  comment: null
+  categories:
+  - religion
+  web: https://www.savarakyrkan.se/
 
 - entry: 1233894276
   orgName: White Lions
@@ -7205,6 +7276,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-kvarnen/
 
+- entry: 1234760682
+  orgName: Pingstförsamlingen Kungälv
+  orgNumber: 853300-1163
+  comment: null
+  categories:
+  - religion
+  web: https://www.pingstkungalv.se/
+
 - entry: 1234760773
   orgName: Pingst Jönköping
   orgNumber: 826000-0784
@@ -7673,6 +7752,14 @@ entries:
   - religion
   web: https://www.kyrktorget.se/
 
+- entry: 1235138706
+  orgName: Smyrnaförsamlingen I Ed
+  orgNumber: 862000-1332
+  comment: Missionskassan
+  categories:
+  - religion
+  web: http://www.pingsted.se/
+
 - entry: 1235142161
   orgName: Afasiförbundet i Sverige
   orgNumber: 802010-2441
@@ -7902,6 +7989,14 @@ entries:
   - musik
   - orkester
   web: https://www.perikles.se/
+
+- entry: 1235261805
+  orgName: EFS Missionsförening i Sävar
+  orgNumber: 894001-0427
+  comment: null
+  categories:
+  - religion
+  web: https://www.savarakyrkan.se/
 
 - entry: 1235264031
   orgName: Frälsningsarmén
@@ -8967,6 +9062,14 @@ entries:
   categories:
   - biodling
   web: http://enkopingsbiodlare.se/
+
+- entry: 1235881057
+  orgName: EFS Missionsförening i Sävar
+  orgNumber: 894001-0427
+  comment: Salt
+  categories:
+  - religion
+  web: https://www.savarakyrkan.se/
 
 - entry: 1235883905
   orgName: Mariedalskyrkan Equmeniakyrkan
