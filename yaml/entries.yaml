@@ -651,6 +651,13 @@ entries:
   categories: null
   web: http://mrmab.se/
 
+- entry: 1230509844
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230537001
   orgName: Insamlingsstiftelsen Fogelstad
   orgNumber: 802481-2110
@@ -1382,6 +1389,14 @@ entries:
   - religion
   web: https://hillsong.com/sweden/
 
+- entry: 1231047984
+  orgName: Happy Picnic AB
+  orgNumber: 559264-5054
+  comment: null
+  categories:
+  - catering
+  web: https://happypicnic.se/
+
 - entry: 1231051804
   orgName: Pingstförsamlingen Kungsör
   orgNumber: 878500-0350
@@ -1890,6 +1905,14 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://kvinnojourennassjo.se/
+
+- entry: 1231312776
+  orgName: Gränna Pingst
+  orgNumber: 826000-0735
+  comment: null
+  categories:
+  - religion
+  web: https://grannapingst.se/
 
 - entry: 1231314095
   orgName: Jami Hundsport AB
@@ -2842,6 +2865,14 @@ entries:
   - stiftelse
   web: https://www.blaljusisamverkan.se/
 
+- entry: 1231870229
+  orgName: Pingstförsamlingen i Lindesberg
+  orgNumber: 877100-0521
+  comment: null
+  categories:
+  - religion
+  web: https://www.pingstlindesberg.se/
+
 - entry: 1231870765
   orgName: Equmeniakyrkan Gräfsnäs Sollebrunn
   orgNumber: 863000-0167
@@ -3691,6 +3722,14 @@ entries:
   - hälsa
   web: http://www.bota-fa.se/
 
+- entry: 1232377018
+  orgName: Pingstförsamlingen i Skövde
+  orgNumber: 866600-0461
+  comment: null
+  categories:
+  - religion
+  web: https://skovdepingst.se/
+
 - entry: 1232383222
   orgName: Birgittasystrarna i Vadstena
   orgNumber: 252002-8610
@@ -3802,6 +3841,15 @@ entries:
   - genealogi
   - släktforskning
   web: https://www.snbs.se/
+
+- entry: 1232411270
+  orgName: Rekarne Folkdans Gille
+  orgNumber: 818000-5814
+  comment: null
+  categories:
+  - folkdansgille
+  - spelmansgille
+  web: http://www.spelmansgillet.se/
 
 - entry: 1232412443
   orgName: Belt and Road Institute in Sweden, BRIX
@@ -5233,6 +5281,14 @@ entries:
   - ryttarförening
   web: https://www.soderhamnsortensrf.com/
 
+- entry: 1233397619
+  orgName: Stocksbergskyrkan i Korsberga
+  orgNumber: 827500-0795
+  comment: null
+  categories:
+  - religion
+  web: https://www.kyrktorget.se/stocksbergskyrkan
+
 - entry: 1233398500
   orgName: Markbladet AB
   orgNumber: 556927-6214
@@ -5441,6 +5497,14 @@ entries:
   - skärgård
   - trafikantförening
   web: http://www.skargardstrafikanten.se/
+
+- entry: 1233542065
+  orgName: Eskilstuna Trafikskola AB
+  orgNumber: 559196-7970
+  comment: null
+  categories:
+  - trafikskola
+  web: https://eskilstunatrafikskolan.se/
 
 - entry: 1233549151
   orgName: Djurens Vänners Riksorganisation
@@ -6009,6 +6073,14 @@ entries:
   - längdskidåkning
   - skidor
   web: https://ikhp.se/
+
+- entry: 1233930658
+  orgName: Pingstförsamlingen i Sundsvall
+  orgNumber: 889200-0640
+  comment: null
+  categories:
+  - religion
+  web: https://www.sundsvall.pingst.se/
 
 - entry: 1233930955
   orgName: EFS - Evangeliska Fosterlandsstiftelsen
@@ -7291,6 +7363,14 @@ entries:
   categories:
   - religion
   web: https://pingstjonkoping.se/
+
+- entry: 1234763686
+  orgName: Långasjö-Emmaboda Pingstförsamling
+  orgNumber: 832400-3139
+  comment: null
+  categories:
+  - religion
+  web: https://www.kyrktorget.se/pingstkyrkan.emmaboda
 
 - entry: 1234778353
   orgName: Tyringe IF
