@@ -653,6 +653,21 @@
     </entry>
     
 
+    <entry number="1230369421">
+      <organization>
+        <name>Västerås BK - Brottning</name>
+        <number>878000-5321</number>
+      </organization>
+      <comment>Medlemsavgift</comment>
+      <categories>
+        <category type="brottning"/>
+        <category type="brottningsklubb"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>http://www.vasterasbrottarklubb.se/</web>
+    </entry>
+    
+
     <entry number="1230375576">
       <organization>
         <name>Fiskebåten Edit KN18 Karlshamn / Kulturföreningen Edits Vänner</name>
@@ -2258,6 +2273,21 @@
     </entry>
     
 
+    <entry number="1231089556">
+      <organization>
+        <name>Västerås BK - Brottning</name>
+        <number>878000-5321</number>
+      </organization>
+      <comment>Café</comment>
+      <categories>
+        <category type="brottning"/>
+        <category type="brottningsklubb"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>http://www.vasterasbrottarklubb.se/</web>
+    </entry>
+    
+
     <entry number="1231095017">
       <organization>
         <name>Frälsningsarmén</name>
@@ -2348,6 +2378,20 @@
         <category type="trädgårdsförening"/>
       </categories>
       <web>https://foreningensesam.se/</web>
+    </entry>
+    
+
+    <entry number="1231132919">
+      <organization>
+        <name>Västerås Cablepark Förening</name>
+        <number>802472-0735</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="sup"/>
+        <category type="wakeboard"/>
+      </categories>
+      <web>https://www.vasterascablepark.se/</web>
     </entry>
     
 
@@ -2780,6 +2824,21 @@
     </entry>
     
 
+    <entry number="1231243450">
+      <organization>
+        <name>Yogalistic AB</name>
+        <number>559150-8311</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="mental hälsa"/>
+        <category type="utbildning"/>
+        <category type="yoga"/>
+      </categories>
+      <web>http://www.yogalistic.se/</web>
+    </entry>
+    
+
     <entry number="1231251412">
       <organization>
         <name>Seriesam AB</name>
@@ -2869,6 +2928,21 @@
       <comment/>
       <categories/>
       <web>https://jkbprodukter.se/</web>
+    </entry>
+    
+
+    <entry number="1231294933">
+      <organization>
+        <name>Västerås BK - Brottning</name>
+        <number>878000-5321</number>
+      </organization>
+      <comment>Mälarcupen</comment>
+      <categories>
+        <category type="brottning"/>
+        <category type="brottningsklubb"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>http://www.vasterasbrottarklubb.se/</web>
     </entry>
     
 
@@ -3652,6 +3726,21 @@
         <category type="museum"/>
       </categories>
       <web>https://www.hasseotagemuseet.se/</web>
+    </entry>
+    
+
+    <entry number="1231550433">
+      <organization>
+        <name>Bosniakiska Islamiska Församling och Kulturcenter</name>
+        <number>817001-4990</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="hemlandsförening"/>
+        <category type="kulturförening"/>
+        <category type="religion"/>
+      </categories>
+      <web>http://bizv.se/</web>
     </entry>
     
 
@@ -5103,6 +5192,21 @@
         <category type="myndighet"/>
       </categories>
       <web>https://www.grastorp.se/uppleva-och-gora/bibliotek.html</web>
+    </entry>
+    
+
+    <entry number="1232141091">
+      <organization>
+        <name>Västerås BK - Brottning</name>
+        <number>878000-5321</number>
+      </organization>
+      <comment>Övrigt</comment>
+      <categories>
+        <category type="brottning"/>
+        <category type="brottningsklubb"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>http://www.vasterasbrottarklubb.se/</web>
     </entry>
     
 
@@ -9040,6 +9144,21 @@
     </entry>
     
 
+    <entry number="1233737889">
+      <organization>
+        <name>Västerås BK - Brottning</name>
+        <number>878000-5321</number>
+      </organization>
+      <comment>Stödmedlem/Wresfit</comment>
+      <categories>
+        <category type="brottning"/>
+        <category type="brottningsklubb"/>
+        <category type="intresseförening"/>
+      </categories>
+      <web>http://www.vasterasbrottarklubb.se/</web>
+    </entry>
+    
+
     <entry number="1233747771">
       <organization>
         <name>Värmdö Nattvandrare</name>
@@ -11330,6 +11449,20 @@
         <category type="religion"/>
       </categories>
       <web>https://www.brannkyrka.org/</web>
+    </entry>
+    
+
+    <entry number="1234645289">
+      <organization>
+        <name>Västerås Bordtennisklubb</name>
+        <number>878000-5032</number>
+      </organization>
+      <comment/>
+      <categories>
+        <category type="bordtennis"/>
+        <category type="idrottsförening"/>
+      </categories>
+      <web>https://www.vasterasbtk.se/</web>
     </entry>
     
 

@@ -430,6 +430,16 @@ entries:
   - idrott
   web: https://cityidrott.se/
 
+- entry: 1230369421
+  orgName: Västerås BK - Brottning
+  orgNumber: 878000-5321
+  comment: Medlemsavgift
+  categories:
+  - brottning
+  - brottningsklubb
+  - intresseförening
+  web: http://www.vasterasbrottarklubb.se/
+
 - entry: 1230375576
   orgName: Fiskebåten Edit KN18 Karlshamn / Kulturföreningen Edits Vänner
   orgNumber: 802512-6163
@@ -1489,6 +1499,16 @@ entries:
   - religion
   web: https://www.imkorebro.se/
 
+- entry: 1231089556
+  orgName: Västerås BK - Brottning
+  orgNumber: 878000-5321
+  comment: Café
+  categories:
+  - brottning
+  - brottningsklubb
+  - intresseförening
+  web: http://www.vasterasbrottarklubb.se/
+
 - entry: 1231095017
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -1546,6 +1566,15 @@ entries:
   - fritidsodling
   - trädgårdsförening
   web: https://foreningensesam.se/
+
+- entry: 1231132919
+  orgName: Västerås Cablepark Förening
+  orgNumber: 802472-0735
+  comment: null
+  categories:
+  - sup
+  - wakeboard
+  web: https://www.vasterascablepark.se/
 
 - entry: 1231134840
   orgName: Brunnsbo Musikklassförening
@@ -1822,6 +1851,16 @@ entries:
   - skidlöparklubb
   web: http://www.persåsbacken.se/
 
+- entry: 1231243450
+  orgName: Yogalistic AB
+  orgNumber: 559150-8311
+  comment: null
+  categories:
+  - mental hälsa
+  - utbildning
+  - yoga
+  web: http://www.yogalistic.se/
+
 - entry: 1231247733
   orgName: Hur kan vi?
   orgNumber: null
@@ -1895,6 +1934,16 @@ entries:
   comment: null
   categories: null
   web: https://jkbprodukter.se/
+
+- entry: 1231294933
+  orgName: Västerås BK - Brottning
+  orgNumber: 878000-5321
+  comment: Mälarcupen
+  categories:
+  - brottning
+  - brottningsklubb
+  - intresseförening
+  web: http://www.vasterasbrottarklubb.se/
 
 - entry: 1231295021
   orgName: Sverige för UNHCR
@@ -2404,6 +2453,16 @@ entries:
   categories:
   - museum
   web: https://www.hasseotagemuseet.se/
+
+- entry: 1231550433
+  orgName: Bosniakiska Islamiska Församling och Kulturcenter
+  orgNumber: 817001-4990
+  comment: null
+  categories:
+  - hemlandsförening
+  - kulturförening
+  - religion
+  web: http://bizv.se/
 
 - entry: 1231552074
   orgName: Norra Taxklubben
@@ -3335,6 +3394,16 @@ entries:
   - kommun
   - myndighet
   web: https://www.grastorp.se/uppleva-och-gora/bibliotek.html
+
+- entry: 1232141091
+  orgName: Västerås BK - Brottning
+  orgNumber: 878000-5321
+  comment: Övrigt
+  categories:
+  - brottning
+  - brottningsklubb
+  - intresseförening
+  web: http://www.vasterasbrottarklubb.se/
 
 - entry: 1232148765
   orgName: Sergel Kredittjänster AB
@@ -5910,6 +5979,16 @@ entries:
   - sportskytte
   web: https://idrottonline.se/HebySkF-Skyttesport/
 
+- entry: 1233737889
+  orgName: Västerås BK - Brottning
+  orgNumber: 878000-5321
+  comment: Stödmedlem/Wresfit
+  categories:
+  - brottning
+  - brottningsklubb
+  - intresseförening
+  web: http://www.vasterasbrottarklubb.se/
+
 - entry: 1233747771
   orgName: Värmdö Nattvandrare
   orgNumber: 802438-4888
@@ -7388,6 +7467,15 @@ entries:
   categories:
   - religion
   web: https://www.brannkyrka.org/
+
+- entry: 1234645289
+  orgName: Västerås Bordtennisklubb
+  orgNumber: 878000-5032
+  comment: null
+  categories:
+  - bordtennis
+  - idrottsförening
+  web: https://www.vasterasbtk.se/
 
 - entry: 1234651980
   orgName: Sveriges Akademiska Etologer
