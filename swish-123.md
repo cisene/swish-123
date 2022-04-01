@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-04-01-rev-224848
+Date:     2022-04-02-rev-003250
 ...
 
 # Swish 123 Nummer
@@ -20,10 +20,12 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230068205 | 889601-1296 | Hjälptransporten Filippus                                                                            | [Link](http://www.filippus.se/) |
 | 1230069963 | 802018-1791 | Sverigedemokraterna                                                                                  | [Link](https://sd.se/) |
 | 1230081257 | 889601-1528 | Gottnebygdens Samhällsförening - Gottne Byskola                                                      | [Link](https://www.gottnebyskola.se/) |
+| 1230086223 | 559361-5254 | Tailzone AB                                                                                          | [Link](https://tailzone.se/) |
 | 1230124206 | 826000-3648 | Kungsportskyrkan                                                                                     | [Link](https://www.kungsporten.com/) |
 | 1230127076 | 802521-4621 | Partiet Vändpunkt                                                                                    | [Link](https://partietvandpunkt.se/) |
 | 1230130526 | 700804-1902 | Husapoteket.eu                                                                                       | [Link](https://www.husapoteket.eu/) |
 | 1230134486 | 556815-5666 | Donnez Orkester AB                                                                                   | [Link](https://www.donnez.se/) |
+| 1230135434 | 878000-5313 | Västerås BK30 / Västerås Bollklubb av ÅR 1930                                                        | [Link](https://www.bk30.se/) |
 | 1230141374 | 849600-0236 | Pingstförsamlingen i Varberg                                                                         | [Link](https://www.pingstvarberg.se/) |
 | 1230154724 | 820114-XXXX | Silyns Massage o Fotvård                                                                             | [Link](https://www.bokadirekt.se/places/silyns-massage-o-fotv%C3%A5rd--37757) |
 | 1230157024 | 802451-0391 | Diabetesorganisationen i Sverige, DIOS                                                               | [Link](https://diabetesorg.se/) |
@@ -167,11 +169,13 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231008457 | 857200-3666 | Församlingsfakulteten                                                                                | [Link](https://ffg.se/) |
 | 1231022490 | 878500-0350 | Pingstförsamlingen Kungsör                                                                           | [Link](https://kungsor.pingst.se/) |
 | 1231030758 | 556802-4656 | Kerstins Trafikskola i Åkersberga / Kerstins Trafikskola AB                                          | [Link](https://kerstinstrafikskola.se/) |
+| 1231033554 | 559120-3483 | Bierkeller AB                                                                                        | [Link](https://bierkeller.se/) |
 | 1231033885 | 802534-3578 | Svenska Dvärgkaninklubben                                                                            | [Link](http://www.dvargkaninklubben.se/) |
 | 1231043041 | 802433-8553 | Hillsong Church Sweden                                                                               | [Link](https://hillsong.com/sweden/) |
 | 1231047984 | 559264-5054 | Happy Picnic AB                                                                                      | [Link](https://happypicnic.se/) |
 | 1231051804 | 878500-0350 | Pingstförsamlingen Kungsör                                                                           | [Link](https://kungsor.pingst.se/) |
 | 1231052372 | 556805-5411 | Fiskfoder.se                                                                                         | [Link](https://www.fiskfoder.se/) |
+| 1231053677 | 802462-3061 | Pannkakskyrkan / Reach                                                                               | [Link](http://pannkakskyrkan.se/) |
 | 1231063916 | 802455-2138 | Lidingö Kvinnojour                                                                                   | [Link](https://www.unizonjourer.se/lidingokvinnojour/) |
 | 1231069558 | 769617-5103 | Nordic Area                                                                                          | [Link](http://www.nordicarea.se/) |
 | 1231073550 | 886000-6090 | Holmsvedenbygdens Intresseförening                                                                   | [Link](https://www.holmsveden.se/) |
@@ -304,6 +308,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231619501 | 838800-6150 | Lions Simrishamn                                                                                     | [Link](https://e-clubhouse.org/sites/simrishamn/) |
 | 1231625664 | 559098-9132 | Easy Gym / PT-Team Haparanda AB                                                                      | [Link](https://easygym.fi/) |
 | 1231626001 | 802412-4623 | Kvinnojouren Anna                                                                                    | [Link](https://www.kvinnojourenanna.se/) |
+| 1231629211 | 802490-7480 | Team One Taekwondo                                                                                   | [Link](https://www.sporttaekwondo.se/) |
 | 1231629666 | 815600-2548 | Södertälje Båtsällskap                                                                               | [Link](https://sodertaljebs.se/) |
 | 1231639962 | 802489-9877 | Väsby Tjejjour                                                                                       | [Link](https://www.unizonjourer.se/vasbytjejjour/) |
 | 1231650142 | 802520-1966 | SK4KO - Siljanbygdens Sändareamatörer - 7S4VL                                                        | [Link](https://www.sk4ko.com/) |
@@ -340,6 +345,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231813138 | 875002-6380 | Hrimfaxi Islandshästklubb - Islandshäst                                                              | [Link](https://www.hrimfaxi.se/) |
 | 1231818475 | 802001-9371 | Kyrklig Samling                                                                                      | [Link](https://kyrkligsamling.se/) |
 | 1231824796 | 802408-9602 | Kvinnojouren I Österåker                                                                             | [Link](http://www.kvinnojoureniosteraker.se/) |
+| 1231835420 | 878000-6428 | Nygammal Dansförening, NGDF                                                                          | [Link](http://www.ngdf.se/) |
 | 1231839760 | 897300-0261 | Kiruna jakt- och fiskevårdsförening                                                                  | [Link](https://www.kirunajaktochfiske.se/) |
 | 1231845494 | 814000-0756 | Kvinnojouren Nacka Värmdö                                                                            | [Link](https://www.unizonjourer.se/kvinnojourennackavarmdo/) |
 | 1231849173 | 802513-8150 | Insamlingsstiftelsen Blåljus i samv                                                                  | [Link](https://www.blaljusisamverkan.se/) |
@@ -378,6 +384,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232039451 | 802488-7849 | Hemmaodlat                                                                                           | [Link](https://www.hemmaodlat.se/) |
 | 1232039543 | 802520-2675 | Levande Önneköp                                                                                      | [Link](https://www.levandeonnekop.se/) |
 | 1232041044 | 822002-6929 | Elektronikföreningen Admittansen                                                                     | [Link](https://admittansen.se/) |
+| 1232041473 | 802442-4676 | Ideella bildelareföreningen Sambil                                                                   | [Link](https://www.sambil.se/) |
 | 1232043438 | 802426-1250 | Sverige för UNHCR                                                                                    | [Link](https://sverigeforunhcr.se/) |
 | 1232044204 | 819001-0697 | Bifrostorden Logen nr 12 Nicopia                                                                     | [Link](https://www.bifrostorden.se/) |
 | 1232055309 | 559284-9854 | HairAgain Nordic AB                                                                                  | [Link](https://www.hairagain.se/) |
@@ -390,6 +397,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232132256 | 849600-6514 | Brottsofferjouren Varberg                                                                            | [Link](https://www.brottsofferjouren.se/) |
 | 1232132728 | 802503-2478 | Blodcancerförbundet KBS                                                                              | [Link](https://blodsjukdom.se/) |
 | 1232136059 | 838201-8813 | Degeberga-Widsköfle Golfklubb                                                                        | [Link](https://dwgolfklubb.se/) |
+| 1232136067 | 878000-3532 | Korskyrkan i Västerås / Baptistförsamlingen Filadelfia                                               | [Link](https://www.korskyrkanvasteras.se/) |
 | 1232136877 | 212000-1595 | Grästorps Kommun                                                                                     | [Link](https://www.grastorp.se/uppleva-och-gora/bibliotek.html) |
 | 1232141091 | 878000-5321 | Västerås BK - Brottning                                                                              | [Link](http://www.vasterasbrottarklubb.se/) |
 | 1232148765 | 556264-8310 | Sergel Kredittjänster AB                                                                             | [Link](https://sergel.se/) |
@@ -419,6 +427,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232255313 | 878500-0921 | Pingstförsamlingen Köping                                                                            | [Link](https://kopingpingst.se/) |
 | 1232256436 | 827000-4545 | Nässjö Dansförening                                                                                  | [Link](http://www.nassjodansforening.se/) |
 | 1232258069 | 802471-9372 | Awesome People                                                                                       | [Link](https://www.awesomepeople.se/) |
+| 1232258259 | 878000-5370 | Västerås Golfklubb                                                                                   | [Link](https://vasterasgk.se/) |
 | 1232258689 | 857200-3211 | Djurens Vänner Götegorg                                                                              | [Link](https://www.djurensvanner.se/goteborg) |
 | 1232261121 | 556131-6026 | MC-Kompaniet i Väring AB                                                                             | [Link](https://mc-kompaniet.se/) |
 | 1232262012 | 864501-6562 | Föreningen för Olympisk Kortdistansskjutning FOK Borås                                               | [Link](https://www.fokboras.se/) |
@@ -433,6 +442,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232304418 | 556872-9999 | Ringens Bilskola AB                                                                                  | [Link](https://www.ringensbilskola.se/) |
 | 1232306611 | 802464-9827 | Strandstädarna                                                                                       | [Link](https://www.strandstadarna.se/) |
 | 1232313039 | 802488-7849 | Hemmaodlat                                                                                           | [Link](https://www.hemmaodlat.se/) |
+| 1232313906 | 802457-8356 | SOS Church Västerås / New Life Västerås                                                              | [Link](http://soschurchvasteras.se/) |
 | 1232318673 | 556345-8156 | Billdals Blommor AB                                                                                  | [Link](https://www.billdalsblommor.se/) |
 | 1232327906 | 556660-9862 | Scuba Travel Scandinavia AB                                                                          | [Link](https://scubatravel.se/) |
 | 1232342988 | 556550-6622 | Skånes Auktionsverk AB                                                                               | [Link](https://www.skanesauktionsverk.se/) |
@@ -486,6 +496,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232681773 | 866600-0065 | Bergs Bygdegård                                                                                      | [Link](https://bergsbygdegard.se/) |
 | 1232684090 | 828000-0384 | Pingstförsamlingen I Värnamo                                                                         | [Link](https://arkenvmo.se/) |
 | 1232686905 | 760624-XXXX | Stockholms Hundhälsa                                                                                 | [Link](https://stockholmshundhalsa.se/) |
+| 1232689321 | 878001-0636 | Västerås Segelflygklubb                                                                              | [Link](https://vasterassegelflyg.se/) |
 | 1232692697 | 802437-8310 | Wikimedia Sverige                                                                                    | [Link](https://wikimedia.se/) |
 | 1232692945 | 873600-0087 | Pingstförsamlingen Kristinehamn                                                                      | [Link](https://pingstkristinehamn.se/) |
 | 1232694057 | 802006-1688 | Frälsningsarmén                                                                                      | [Link](https://www.fralsningsarmen.se/Tranas/) |
@@ -559,6 +570,8 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233037389 | 556735-7081 | EAD Sweden AB                                                                                        | [Link](https://www.eadsweden.com/) |
 | 1233037777 | 819000-8766 | Nyköpings Konstförening                                                                              | [Link](https://www.nykopingskonstforening.nu/) |
 | 1233045234 | 878000-0413 | Pingstförsamlingen I Västerås                                                                        | [Link](https://vasteras.pingst.se/) |
+| 1233045937 | 817606-5517 | Hässlö Flygförening                                                                                  | [Link](https://hasslo.org/) |
+| 1233048204 | 802474-6011 | Allianskyrkan i Västerås                                                                             | [Link](https://kyrktorget.se/allianskyrkanvasteras) |
 | 1233049582 | 802491-3082 | Fatta! Stockholm                                                                                     | [Link](https://fatta.nu/) |
 | 1233052230 | 802004-9683 | Svenska Livräddningssällskapet                                                                       | [Link](https://svenskalivraddningssallskapet.se/) |
 | 1233053352 | 802479-8863 | Voices4Change                                                                                        | [Link](http://www.voices4change.se/) |
@@ -604,12 +617,14 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233268257 | 556911-0322 | Finspångs Solvärme AB                                                                                | [Link](http://www.finspangssolvarme.se/) |
 | 1233275039 | 252000-0650 | Brännkyrka Församling                                                                                | [Link](https://www.brannkyrka.org/) |
 | 1233275575 | 802424-7721 | Stiftelsen Gapminder                                                                                 | [Link](https://www.gapminder.org/) |
+| 1233275815 | 830501-XXXX | MD Hund / Marlene Ådin Dunbäck                                                                       | [Link](https://www.mdhund.se/) |
 | 1233276862 | 846002-5276 | Borgeby Fotbollsklubb                                                                                | [Link](http://www.borgebyfk.se/) |
 | 1233278561 | 817600-8889 | Svensk Förening för Socialmedicin och Folkhälsa                                                      | [Link](https://svensksocialmedicin.wordpress.com/) |
 | 1233289840 | 802439-1610 | Tuve Scoutkår                                                                                        | [Link](https://tuve.scout.se/) |
 | 1233311107 | 802429-5472 | Fempowerment                                                                                         | [Link](https://fempowerment.se/) |
 | 1233311560 | 878001-0891 | Hallstahammars Tennisklubb                                                                           | [Link](http://www.hallstatennis.se/) |
 | 1233317047 | 822002-6929 | Elektronikföreningen Admittansen                                                                     | [Link](https://admittansen.se/) |
+| 1233319746 | 556959-6223 | Lastar & Kastar / Px3 Entreprenad & Konsult AB                                                       | [Link](https://www.lastarkastar.se/) |
 | 1233334661 | 780302-XXXX | Wellness 4 Life Sweden AB                                                                            | [Link](https://wellness4life.nu/) |
 | 1233337011 | 802533-2142 | Jönköpings Biljardklubb                                                                              | [Link](https://www.xn--jnkpingsbiljardklubb-39bc.org/) |
 | 1233349594 | 818000-5392 | Eskilstuna Pistolskytteklubb                                                                         | [Link](https://eskilstuna-epk.com/) |
@@ -618,6 +633,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233366812 | 865000-5096 | Pingstförsamlingen i Kinna                                                                           | [Link](https://kinna.pingst.se/) |
 | 1233371952 | 556192-2971 | Josefssons Trafikskola                                                                               | [Link](https://www.josefssonstrafikskola.se/) |
 | 1233372075 | 883200-5949 | Stiftelsen Berget                                                                                    | [Link](http://www.berget.se/) |
+| 1233372174 | 878001-4513 | Västerås Basket                                                                                      | [Link](https://www.vasterasbasket.se/) |
 | 1233373149 | 802488-5538 | Timråpartiet                                                                                         | [Link](https://www.timrapartiet.se/) |
 | 1233377447 | 802002-7317 | Svenska Psykoanalytiska Föreningen                                                                   | [Link](https://www.psykoanalys.se/) |
 | 1233378015 | 802400-8701 | IFS Centrala Stockholm                                                                               | [Link](https://ifscs.se/) |
@@ -626,6 +642,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233381241 | 559000-1284 | Lenoa AB                                                                                             | [Link](https://www.actionpics.se/) |
 | 1233383072 | 897300-0097 | IFK Kiruna                                                                                           | [Link](https://www.ifkkiruna.se/) |
 | 1233383080 | 824000-1134 | Motala Ryttarförening                                                                                | [Link](https://www.motalarf.com/) |
+| 1233384062 | 878000-4803 | Svenska Hundklubben Västerås                                                                         | [Link](https://www.shkvasteras.se/) |
 | 1233387859 | 875000-2522 | Stora Mellösa Baptistförsamling                                                                      | [Link](http://www.baptistkyrkan.com/) |
 | 1233395175 | 886000-3907 | Söderhamnsortens RF - Ridsport                                                                       | [Link](https://www.soderhamnsortensrf.com/) |
 | 1233397619 | 827500-0795 | Stocksbergskyrkan i Korsberga                                                                        | [Link](https://www.kyrktorget.se/stocksbergskyrkan) |
@@ -751,6 +768,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234068078 | 802466-4644 | Smålands Taxklubb                                                                                    | [Link](https://smalandstaxklubb.se/) |
 | 1234074902 | 848000-1794 | Ystad Skyttegille                                                                                    | [Link](http://idrottonline.se/YstadsSG-Sportskytte/) |
 | 1234078218 | 559284-2644 | Advokatbyrån Advocatum AB                                                                            | [Link](http://www.advocatum.se/) |
+| 1234090619 | 878000-6055 | Västerås IK Ungdom Team 09 (U13)                                                                     | [Link](https://www.laget.se/VIKHockey09/) |
 | 1234100004 | 556432-3599 | Potatisbilarna AB                                                                                    | [Link](http://www.potatisbilarna.se/) |
 | 1234101572 | 894002-7827 | Vännäs Brukshundklubb                                                                                | [Link](http://vannasbhk.weebly.com/) |
 | 1234104014 | 802453-1876 | Ungdomsjouren Animo                                                                                  | [Link](https://www.unizonjourer.se/animo/) |
@@ -786,6 +804,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234262374 | 814800-7399 | Sollentuna Hockey Club                                                                               | [Link](https://sollentunahockey.myclub.se/) |
 | 1234263471 | 556848-6285 | 24meter AB                                                                                           | [Link](https://www.24meter.se/) |
 | 1234272308 | 812800-0794 | Kvinnojouren Huddinge                                                                                | [Link](https://kvinnojourenhuddinge.se/) |
+| 1234272456 | 556957-3602 | Mälarstadens Trafikskola AB                                                                          | [Link](https://malarstadenstrafikskola.se/) |
 | 1234274205 | 252002-7281 | Ljungby Maria församling                                                                             | [Link](http://www.svenskakyrkan.se/ljungby) |
 | 1234275962 | 802492-7231 | Stiftelsemedel.se                                                                                    | [Link](https://stiftelsemedel.se/) |
 | 1234277349 | 826000-3648 | Kungsportskyrkan                                                                                     | [Link](https://www.kungsporten.com/) |
@@ -845,6 +864,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234578258 | 802404-8459 | Stockholms Ornitologiska Förening, StOF                                                              | [Link](https://stof.nu/) |
 | 1234589610 | 828500-1320 | Unnaryd-Jälluntofta-Hembygdsförening                                                                 | [Link](http://ujh.se/) |
 | 1234595658 | 802471-5107 | Pennyfonden / Dravets Syndrome Association Sweden, DSAS                                              | [Link](http://www.dravetssweden.se/) |
+| 1234596854 | 978000-0221 | Västerås Musiksällskap                                                                               | [Link](https://vastmanlandsmusiken.se/) |
 | 1234599817 | 822004-9376 | Sankt Markus i Linköping                                                                             | [Link](https://stmarkus.se/) |
 | 1234611182 | 865000-2150 | Skene IF                                                                                             | [Link](https://www.laget.se/SkeneIF/) |
 | 1234627238 | 802412-6883 | Teaterkören                                                                                          | [Link](https://teaterkoren.se/) |
@@ -959,6 +979,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235218763 | 802425-8918 | Tankesmedjan Fores                                                                                   | [Link](https://fores.se/) |
 | 1235218896 | 857200-7600 | Hönökonferensen / Hönö Missionsförsamling                                                            | [Link](https://www.honokonferensen.se/) |
 | 1235219662 | 875001-2505 | Garphyttans IF                                                                                       | [Link](https://idrottonline.se/GarphyttansIF/) |
+| 1235231790 | 802530-5890 | Lokala Hjälpen - Tillsammans för Västerås                                                            | [Link](https://www.lokalahjalpen.se/) |
 | 1235232822 | 802508-4925 | Pride Lysekil                                                                                        | [Link](https://www.pridelysekil.se/) |
 | 1235245006 | 556424-2245 | Perikles Nöjes Aktiebolag                                                                            | [Link](https://www.perikles.se/) |
 | 1235261805 | 894001-0427 | EFS Missionsförening i Sävar                                                                         | [Link](https://www.savarakyrkan.se/) |
@@ -1023,6 +1044,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235517511 | 878001-0131 | Västerås Moskén / Västerås Islamiska Kulturcentrum                                                   | [Link](https://www.vasterasmosken.se/) |
 | 1235526215 | 812800-1388 | Huddinge Gymnastikförening                                                                           | [Link](http://www.huddingegf.se/) |
 | 1235526900 | 935000-3928 | Senorens Missionshus                                                                                 | [Link](http://www.senorensmissionshus.se/) |
+| 1235528237 | 878000-8432 | Västerås IK Fotboll                                                                                  | [Link](https://www.vik-fotboll.com/) |
 | 1235531041 | 556259-5875 | WIP i Borlänge AB                                                                                    | [Link](https://wipomatic.nu/) |
 | 1235532064 | 873201-9602 | Grums IK Hockey                                                                                      | [Link](https://www.hockeyettan.se/grums-ik-hockey/) |
 | 1235533393 | 802467-1201 | Kung Över Livet                                                                                      | [Link](http://www.kungoverlivet.se/) |
@@ -1106,6 +1128,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235923990 | 843001-2081 | IF Friskis&Svettis Helsingborg                                                                       | [Link](https://www.friskissvettis.se/helsingborg/) |
 | 1235931605 | 826001-9487 | Jönköpings Läns Bröstcancerförening                                                                  | [Link](https://jonkoping.brostcancerforbundet.se/) |
 | 1235934708 | 802449-8167 | Herrviks Motorförening                                                                               | [Link](https://www.herrvikmotor.se/) |
+| 1235936844 | 802476-2026 | Hilti BJJ Västerås                                                                                   | [Link](https://hiltivästerås.se/) |
 | 1235948427 | 876400-3946 | Karlskoga Enduroklubb                                                                                | [Link](http://karlskogaek.com/) |
 | 1235949516 | 802014-0144 | Eolshälls 4H-gård                                                                                    | [Link](https://www.4h.se/eolshall/) |
 | 1235954243 | 802448-7483 | Musketörerna i Sollentuna                                                                            | [Link](https://www.musketorernaisollentuna.se/) |
@@ -1146,6 +1169,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236123160 | 559023-4729 | NAV Sweden                                                                                           | [Link](https://navsweden.se/) |
 | 1236127120 | 802468-3149 | Svenska Newfoundlandshundklubben                                                                     | [Link](https://snkinfo.wordpress.com/) |
 | 1236142301 | 802442-1623 | Hammarby IF Ishockeyförening                                                                         | [Link](https://www.hammarbyhockey.se/) |
+| 1236142855 | 802476-6654 | Föreningen Camerata Incantus                                                                         | [Link](http://incantus.se/) |
 | 1236145056 | 802445-6785 | Wattholma Golfklubb                                                                                  | [Link](https://www.wattholmagk.se/) |
 | 1236156558 | 884402-0217 | Brottsofferjouren Norra Dalarna                                                                      | [Link](https://www.brottsofferjouren.se/) |
 | 1236158893 | 802426-7042 | Stiftelsen Berättarministeriet                                                                       | [Link](http://www.berattarministeriet.se/) |
@@ -1171,6 +1195,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236244214 | 556622-0272 | Rehabhuset Tomelilla AB                                                                              | [Link](http://rehabhuset.com/) |
 | 1236249437 | 559303-6436 | StartupTools Europe AB                                                                               | [Link](https://startuptools.org/) |
 | 1236265342 | 894700-5842 | Skellefteå CK - Curling                                                                              | [Link](https://www.curlingklubben.se/) |
+| 1236269567 | 802438-5794 | Västerås Trädgårdssällskap                                                                           | [Link](https://vasterastradgard.se/) |
 | 1236269799 | 802493-3569 | Hela Rättvik Rullar                                                                                  | [Link](https://www.helarattvikrullar.se/) |
 | 1236271449 | 559049-6757 | Sixtydays AB                                                                                         | [Link](https://sixtydays.com/) |
 | 1236272868 | 802002-2029 | Språklärarnas Riksförbund                                                                            | [Link](https://spraklararna.se/) |
@@ -1249,6 +1274,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236732903 | 969793-6855 | SR Modell                                                                                            | [Link](https://www.srmodell.se/) |
 | 1236758874 | 802003-5369 | Föreningen Svenska Tonsättare, FST                                                                   | [Link](https://fst.se/) |
 | 1236760763 | 802007-2743 | Sveriges Hundungdom                                                                                  | [Link](https://www.skk.se/sv/SHU/) |
+| 1236761464 | 802515-2003 | Junos Kamp                                                                                           | [Link](https://junoskamp.se/) |
 | 1236761647 | 818001-5177 | Gillberga-Lista Hembygdsförening                                                                     | [Link](https://www.hembygd.se/gillberga-lista) |
 | 1236764203 | 802502-0671 | Föreningen Hjälp Utsatta Katter få Hem                                                               | [Link](https://www.hukh.se/) |
 | 1236765242 | 835001-3093 | Kvinnojouren Karlskrona                                                                              | [Link](https://kvinnojourenkarlskrona.se/) |
@@ -1265,6 +1291,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236883268 | 556885-7063 | Kojbyns naturcamping / Stina Torén AB                                                                | [Link](https://kojbyn.com/) |
 | 1236884522 | 802533-1920 | Tierps Matcentral                                                                                    | -                   |
 | 1236888416 | 802489-7525 | Brottsofferjouren Storgöteborg                                                                       | [Link](https://www.brottsofferjouren.se/) |
+| 1236888747 | 802523-7796 | Västerås Taekwondoklubb                                                                              | [Link](https://www.vasterastaekwondo.se/) |
 | 1236896708 | 802521-6279 | Alltid Sedd                                                                                          | [Link](https://www.alltidsedd.se/) |
 | 1236899603 | 802469-3288 | Aisha Center                                                                                         | [Link](https://aishacenter.se/) |
 | 1236901557 | 769612-0976 | Brf Ingebäckslyckan 1                                                                                | [Link](https://www.brfingebackslyckan.se/) |

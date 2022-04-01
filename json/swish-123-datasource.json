@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-01-rev-224848",
+    "date": "2022-04-02-rev-003250",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -112,6 +112,16 @@
       "web": "https://www.gottnebyskola.se/"
     },
     {
+      "entry": 1230086223,
+      "orgNumber": "559361-5254",
+      "orgName": "Tailzone AB",
+      "categories": [
+        "hundsport",
+        "hundsporthall"
+      ],
+      "web": "https://tailzone.se/"
+    },
+    {
       "entry": 1230124206,
       "orgNumber": "826000-3648",
       "orgName": "Kungsportskyrkan",
@@ -147,6 +157,16 @@
         "dansband"
       ],
       "web": "https://www.donnez.se/"
+    },
+    {
+      "entry": 1230135434,
+      "orgNumber": "878000-5313",
+      "orgName": "V\u00e4ster\u00e5s BK30 / V\u00e4ster\u00e5s Bollklubb av \u00c5R 1930",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.bk30.se/"
     },
     {
       "entry": 1230141374,
@@ -1546,6 +1566,15 @@
       "web": "https://kerstinstrafikskola.se/"
     },
     {
+      "entry": 1231033554,
+      "orgNumber": "559120-3483",
+      "orgName": "Bierkeller AB",
+      "categories": [
+        "restaurant"
+      ],
+      "web": "https://bierkeller.se/"
+    },
+    {
       "entry": 1231033885,
       "orgNumber": "802534-3578",
       "orgName": "Svenska Dv\u00e4rgkaninklubben",
@@ -1595,6 +1624,15 @@
         "fiskfoder"
       ],
       "web": "https://www.fiskfoder.se/"
+    },
+    {
+      "entry": 1231053677,
+      "orgNumber": "802462-3061",
+      "orgName": "Pannkakskyrkan / Reach",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://pannkakskyrkan.se/"
     },
     {
       "entry": 1231063916,
@@ -2786,7 +2824,7 @@
       "orgName": "Jourhavande Medm\u00e4nniska",
       "categories": [
         "medm\u00e4nniska",
-        "mentalh\u00e4lsa"
+        "mental h\u00e4lsa"
       ],
       "web": "https://www.jourhavande-medmanniska.se/"
     },
@@ -2890,6 +2928,17 @@
         "tjejjour"
       ],
       "web": "https://www.kvinnojourenanna.se/"
+    },
+    {
+      "entry": 1231629211,
+      "orgNumber": "802490-7480",
+      "orgName": "Team One Taekwondo",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "taekwondo"
+      ],
+      "web": "https://www.sporttaekwondo.se/"
     },
     {
       "entry": 1231629666,
@@ -3230,6 +3279,16 @@
         "tjejjour"
       ],
       "web": "http://www.kvinnojoureniosteraker.se/"
+    },
+    {
+      "entry": 1231835420,
+      "orgNumber": "878000-6428",
+      "orgName": "Nygammal Dansf\u00f6rening, NGDF",
+      "categories": [
+        "dansf\u00f6rening",
+        "motionsdans"
+      ],
+      "web": "http://www.ngdf.se/"
     },
     {
       "entry": 1231839760,
@@ -3597,6 +3656,17 @@
       "web": "https://admittansen.se/"
     },
     {
+      "entry": 1232041473,
+      "orgNumber": "802442-4676",
+      "orgName": "Ideella bildelaref\u00f6reningen Sambil",
+      "categories": [
+        "bildelning",
+        "f\u00f6rening",
+        "sam\u00e5kning"
+      ],
+      "web": "https://www.sambil.se/"
+    },
+    {
       "entry": 1232043438,
       "orgNumber": "802426-1250",
       "orgName": "Sverige f\u00f6r UNHCR",
@@ -3706,6 +3776,15 @@
         "golfklubb"
       ],
       "web": "https://dwgolfklubb.se/"
+    },
+    {
+      "entry": 1232136067,
+      "orgNumber": "878000-3532",
+      "orgName": "Korskyrkan i V\u00e4ster\u00e5s / Baptistf\u00f6rsamlingen Filadelfia",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.korskyrkanvasteras.se/"
     },
     {
       "entry": 1232136877,
@@ -3907,7 +3986,7 @@
       "orgName": "SHEDO - Self Harm and Eating Disorder Organisation",
       "categories": [
         "h\u00e4lsa",
-        "mentalh\u00e4lsa"
+        "mental h\u00e4lsa"
       ],
       "web": "https://www.shedo.se/"
     },
@@ -3925,7 +4004,7 @@
       "orgNumber": "802520-0091",
       "orgName": "Aldrig Ensam",
       "categories": [
-        "mentalh\u00e4lsa",
+        "mental h\u00e4lsa",
         "minnesinsamling",
         "psykisk h\u00e4lsa"
       ],
@@ -3996,6 +4075,16 @@
         "f\u00f6rening"
       ],
       "web": "https://www.awesomepeople.se/"
+    },
+    {
+      "entry": 1232258259,
+      "orgNumber": "878000-5370",
+      "orgName": "V\u00e4ster\u00e5s Golfklubb",
+      "categories": [
+        "golf",
+        "golfklubb"
+      ],
+      "web": "https://vasterasgk.se/"
     },
     {
       "entry": 1232258689,
@@ -4135,6 +4224,15 @@
         "utbildning"
       ],
       "web": "https://www.hemmaodlat.se/"
+    },
+    {
+      "entry": 1232313906,
+      "orgNumber": "802457-8356",
+      "orgName": "SOS Church V\u00e4ster\u00e5s / New Life V\u00e4ster\u00e5s",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://soschurchvasteras.se/"
     },
     {
       "entry": 1232318673,
@@ -4642,6 +4740,16 @@
         "rehab"
       ],
       "web": "https://stockholmshundhalsa.se/"
+    },
+    {
+      "entry": 1232689321,
+      "orgNumber": "878001-0636",
+      "orgName": "V\u00e4ster\u00e5s Segelflygklubb",
+      "categories": [
+        "flygklubb",
+        "segelflyg"
+      ],
+      "web": "https://vasterassegelflyg.se/"
     },
     {
       "entry": 1232692697,
@@ -5340,6 +5448,27 @@
       "web": "https://vasteras.pingst.se/"
     },
     {
+      "entry": 1233045937,
+      "orgNumber": "817606-5517",
+      "orgName": "H\u00e4ssl\u00f6 Flygf\u00f6rening",
+      "categories": [
+        "flygskola",
+        "f\u00f6rening",
+        "sportflyg",
+        "utbildning"
+      ],
+      "web": "https://hasslo.org/"
+    },
+    {
+      "entry": 1233048204,
+      "orgNumber": "802474-6011",
+      "orgName": "Allianskyrkan i V\u00e4ster\u00e5s",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://kyrktorget.se/allianskyrkanvasteras"
+    },
+    {
       "entry": 1233049582,
       "orgNumber": "802491-3082",
       "orgName": "Fatta! Stockholm",
@@ -5781,6 +5910,18 @@
       "web": "https://www.gapminder.org/"
     },
     {
+      "entry": 1233275815,
+      "orgNumber": "830501-XXXX",
+      "orgName": "MD Hund / Marlene \u00c5din Dunb\u00e4ck",
+      "categories": [
+        "hundf\u00f6rskola",
+        "hundkurser",
+        "hundsport",
+        "utbildning"
+      ],
+      "web": "https://www.mdhund.se/"
+    },
+    {
       "entry": 1233276862,
       "orgNumber": "846002-5276",
       "orgName": "Borgeby Fotbollsklubb",
@@ -5840,6 +5981,16 @@
         "utbildning"
       ],
       "web": "https://admittansen.se/"
+    },
+    {
+      "entry": 1233319746,
+      "orgNumber": "556959-6223",
+      "orgName": "Lastar & Kastar / Px3 Entreprenad & Konsult AB",
+      "categories": [
+        "transporttj\u00e4nst",
+        "\u00e5tervinning"
+      ],
+      "web": "https://www.lastarkastar.se/"
     },
     {
       "entry": 1233334661,
@@ -5921,6 +6072,17 @@
       "web": "http://www.berget.se/"
     },
     {
+      "entry": 1233372174,
+      "orgNumber": "878001-4513",
+      "orgName": "V\u00e4ster\u00e5s Basket",
+      "categories": [
+        "basketboll",
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.vasterasbasket.se/"
+    },
+    {
       "entry": 1233373149,
       "orgNumber": "802488-5538",
       "orgName": "Timr\u00e5partiet",
@@ -5934,7 +6096,7 @@
       "orgNumber": "802002-7317",
       "orgName": "Svenska Psykoanalytiska F\u00f6reningen",
       "categories": [
-        "mentalh\u00e4lsa",
+        "mental h\u00e4lsa",
         "psykoanalys"
       ],
       "web": "https://www.psykoanalys.se/"
@@ -5945,7 +6107,7 @@
       "orgName": "IFS Centrala Stockholm",
       "categories": [
         "h\u00e4lsa",
-        "mentalh\u00e4lsa"
+        "mental h\u00e4lsa"
       ],
       "web": "https://ifscs.se/"
     },
@@ -5996,6 +6158,16 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.motalarf.com/"
+    },
+    {
+      "entry": 1233384062,
+      "orgNumber": "878000-4803",
+      "orgName": "Svenska Hundklubben V\u00e4ster\u00e5s",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://www.shkvasteras.se/"
     },
     {
       "entry": 1233387859,
@@ -7196,6 +7368,17 @@
       "web": "http://www.advocatum.se/"
     },
     {
+      "entry": 1234090619,
+      "orgNumber": "878000-6055",
+      "orgName": "V\u00e4ster\u00e5s IK Ungdom Team 09 (U13)",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockey",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/VIKHockey09/"
+    },
+    {
       "entry": 1234100004,
       "orgNumber": "556432-3599",
       "orgName": "Potatisbilarna AB",
@@ -7541,6 +7724,16 @@
         "tjejjour"
       ],
       "web": "https://kvinnojourenhuddinge.se/"
+    },
+    {
+      "entry": 1234272456,
+      "orgNumber": "556957-3602",
+      "orgName": "M\u00e4larstadens Trafikskola AB",
+      "categories": [
+        "trafikskola",
+        "yrkesf\u00f6rarutbildning"
+      ],
+      "web": "https://malarstadenstrafikskola.se/"
     },
     {
       "entry": 1234274205,
@@ -8100,6 +8293,16 @@
         "h\u00e4lsa"
       ],
       "web": "http://www.dravetssweden.se/"
+    },
+    {
+      "entry": 1234596854,
+      "orgNumber": "978000-0221",
+      "orgName": "V\u00e4ster\u00e5s Musiks\u00e4llskap",
+      "categories": [
+        "musik",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://vastmanlandsmusiken.se/"
     },
     {
       "entry": 1234599817,
@@ -8981,7 +9184,8 @@
       "orgName": "Afasif\u00f6rbundet i Sverige",
       "categories": [
         "f\u00f6rbund",
-        "intressef\u00f6rening"
+        "intressef\u00f6rening",
+        "mental h\u00e4lsa"
       ],
       "web": "https://afasi.se/"
     },
@@ -9197,6 +9401,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://idrottonline.se/GarphyttansIF/"
+    },
+    {
+      "entry": 1235231790,
+      "orgNumber": "802530-5890",
+      "orgName": "Lokala Hj\u00e4lpen - Tillsammans f\u00f6r V\u00e4ster\u00e5s",
+      "categories": [
+        "donation",
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.lokalahjalpen.se/"
     },
     {
       "entry": 1235232822,
@@ -9818,6 +10032,16 @@
       "orgNumber": "935000-3928",
       "orgName": "Senorens Missionshus",
       "web": "http://www.senorensmissionshus.se/"
+    },
+    {
+      "entry": 1235528237,
+      "orgNumber": "878000-8432",
+      "orgName": "V\u00e4ster\u00e5s IK Fotboll",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.vik-fotboll.com/"
     },
     {
       "entry": 1235531041,
@@ -10611,6 +10835,17 @@
       "web": "https://www.herrvikmotor.se/"
     },
     {
+      "entry": 1235936844,
+      "orgNumber": "802476-2026",
+      "orgName": "Hilti BJJ V\u00e4ster\u00e5s",
+      "categories": [
+        "brasiliansk jiu-jitsu",
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://hiltiv\u00e4ster\u00e5s.se/"
+    },
+    {
       "entry": 1235948427,
       "orgNumber": "876400-3946",
       "orgName": "Karlskoga Enduroklubb",
@@ -11006,6 +11241,16 @@
       "web": "https://www.hammarbyhockey.se/"
     },
     {
+      "entry": 1236142855,
+      "orgNumber": "802476-6654",
+      "orgName": "F\u00f6reningen Camerata Incantus",
+      "categories": [
+        "f\u00f6rening",
+        "k\u00f6rs\u00e5ng"
+      ],
+      "web": "http://incantus.se/"
+    },
+    {
       "entry": 1236145056,
       "orgNumber": "802445-6785",
       "orgName": "Wattholma Golfklubb",
@@ -11250,6 +11495,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.curlingklubben.se/"
+    },
+    {
+      "entry": 1236269567,
+      "orgNumber": "802438-5794",
+      "orgName": "V\u00e4ster\u00e5s Tr\u00e4dg\u00e5rdss\u00e4llskap",
+      "categories": [
+        "fritidsodling",
+        "tr\u00e4dg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://vasterastradgard.se/"
     },
     {
       "entry": 1236269799,
@@ -12022,6 +12277,16 @@
       "web": "https://www.skk.se/sv/SHU/"
     },
     {
+      "entry": 1236761464,
+      "orgNumber": "802515-2003",
+      "orgName": "Junos Kamp",
+      "categories": [
+        "barnsjukv\u00e5rd",
+        "cancer"
+      ],
+      "web": "https://junoskamp.se/"
+    },
+    {
       "entry": 1236761647,
       "orgNumber": "818001-5177",
       "orgName": "Gillberga-Lista Hembygdsf\u00f6rening",
@@ -12172,6 +12437,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.brottsofferjouren.se/"
+    },
+    {
+      "entry": 1236888747,
+      "orgNumber": "802523-7796",
+      "orgName": "V\u00e4ster\u00e5s Taekwondoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "taekwondo"
+      ],
+      "web": "https://www.vasterastaekwondo.se/"
     },
     {
       "entry": 1236896708,

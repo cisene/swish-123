@@ -103,6 +103,15 @@ entries:
   - donation
   web: https://www.gottnebyskola.se/
 
+- entry: 1230086223
+  orgName: Tailzone AB
+  orgNumber: 559361-5254
+  comment: null
+  categories:
+  - hundsport
+  - hundsporthall
+  web: https://tailzone.se/
+
 - entry: 1230124206
   orgName: Kungsportskyrkan
   orgNumber: 826000-3648
@@ -134,6 +143,15 @@ entries:
   categories:
   - dansband
   web: https://www.donnez.se/
+
+- entry: 1230135434
+  orgName: Västerås BK30 / Västerås Bollklubb av ÅR 1930
+  orgNumber: 878000-5313
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.bk30.se/
 
 - entry: 1230141374
   orgName: Pingstförsamlingen i Varberg
@@ -1404,6 +1422,14 @@ entries:
   - utbildning
   web: https://kerstinstrafikskola.se/
 
+- entry: 1231033554
+  orgName: Bierkeller AB
+  orgNumber: 559120-3483
+  comment: null
+  categories:
+  - restaurant
+  web: https://bierkeller.se/
+
 - entry: 1231033885
   orgName: Svenska Dvärgkaninklubben
   orgNumber: 802534-3578
@@ -1447,6 +1473,14 @@ entries:
   - akvariefisk
   - fiskfoder
   web: https://www.fiskfoder.se/
+
+- entry: 1231053677
+  orgName: Pannkakskyrkan / Reach
+  orgNumber: 802462-3061
+  comment: null
+  categories:
+  - religion
+  web: http://pannkakskyrkan.se/
 
 - entry: 1231063056
   orgName: Jennebo Radio
@@ -2553,7 +2587,7 @@ entries:
   comment: null
   categories:
   - medmänniska
-  - mentalhälsa
+  - mental hälsa
   web: https://www.jourhavande-medmanniska.se/
 
 - entry: 1231610286
@@ -2643,6 +2677,16 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://www.kvinnojourenanna.se/
+
+- entry: 1231629211
+  orgName: Team One Taekwondo
+  orgNumber: 802490-7480
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - taekwondo
+  web: https://www.sporttaekwondo.se/
 
 - entry: 1231629666
   orgName: Södertälje Båtsällskap
@@ -2955,6 +2999,15 @@ entries:
   - kvinnojour
   - tjejjour
   web: http://www.kvinnojoureniosteraker.se/
+
+- entry: 1231835420
+  orgName: Nygammal Dansförening, NGDF
+  orgNumber: 878000-6428
+  comment: null
+  categories:
+  - dansförening
+  - motionsdans
+  web: http://www.ngdf.se/
 
 - entry: 1231839760
   orgName: Kiruna jakt- och fiskevårdsförening
@@ -3285,6 +3338,16 @@ entries:
   - utbildning
   web: https://admittansen.se/
 
+- entry: 1232041473
+  orgName: Ideella bildelareföreningen Sambil
+  orgNumber: 802442-4676
+  comment: null
+  categories:
+  - bildelning
+  - förening
+  - samåkning
+  web: https://www.sambil.se/
+
 - entry: 1232043438
   orgName: Sverige för UNHCR
   orgNumber: 802426-1250
@@ -3384,6 +3447,14 @@ entries:
   - golf
   - golfklubb
   web: https://dwgolfklubb.se/
+
+- entry: 1232136067
+  orgName: Korskyrkan i Västerås / Baptistförsamlingen Filadelfia
+  orgNumber: 878000-3532
+  comment: null
+  categories:
+  - religion
+  web: https://www.korskyrkanvasteras.se/
 
 - entry: 1232136877
   orgName: Grästorps Kommun
@@ -3571,7 +3642,7 @@ entries:
   comment: null
   categories:
   - hälsa
-  - mentalhälsa
+  - mental hälsa
   web: https://www.shedo.se/
 
 - entry: 1232223212
@@ -3595,7 +3666,7 @@ entries:
   orgNumber: 802520-0091
   comment: null
   categories:
-  - mentalhälsa
+  - mental hälsa
   - minnesinsamling
   - psykisk hälsa
   web: http://aldrigensam.com/
@@ -3657,6 +3728,15 @@ entries:
   categories:
   - förening
   web: https://www.awesomepeople.se/
+
+- entry: 1232258259
+  orgName: Västerås Golfklubb
+  orgNumber: 878000-5370
+  comment: null
+  categories:
+  - golf
+  - golfklubb
+  web: https://vasterasgk.se/
 
 - entry: 1232258689
   orgName: Djurens Vänner Götegorg
@@ -3786,6 +3866,14 @@ entries:
   - fritidsodling
   - utbildning
   web: https://www.hemmaodlat.se/
+
+- entry: 1232313906
+  orgName: SOS Church Västerås / New Life Västerås
+  orgNumber: 802457-8356
+  comment: null
+  categories:
+  - religion
+  web: http://soschurchvasteras.se/
 
 - entry: 1232318673
   orgName: Billdals Blommor AB
@@ -4247,6 +4335,15 @@ entries:
   - husdjur
   - rehab
   web: https://stockholmshundhalsa.se/
+
+- entry: 1232689321
+  orgName: Västerås Segelflygklubb
+  orgNumber: 878001-0636
+  comment: null
+  categories:
+  - flygklubb
+  - segelflyg
+  web: https://vasterassegelflyg.se/
 
 - entry: 1232692697
   orgName: Wikimedia Sverige
@@ -4868,6 +4965,25 @@ entries:
   - religion
   web: https://vasteras.pingst.se/
 
+- entry: 1233045937
+  orgName: Hässlö Flygförening
+  orgNumber: 817606-5517
+  comment: null
+  categories:
+  - flygskola
+  - förening
+  - sportflyg
+  - utbildning
+  web: https://hasslo.org/
+
+- entry: 1233048204
+  orgName: Allianskyrkan i Västerås
+  orgNumber: 802474-6011
+  comment: null
+  categories:
+  - religion
+  web: https://kyrktorget.se/allianskyrkanvasteras
+
 - entry: 1233049582
   orgName: Fatta! Stockholm
   orgNumber: 802491-3082
@@ -5295,6 +5411,17 @@ entries:
   - stiftelse
   web: https://www.gapminder.org/
 
+- entry: 1233275815
+  orgName: MD Hund / Marlene Ådin Dunbäck
+  orgNumber: 830501-XXXX
+  comment: null
+  categories:
+  - hundförskola
+  - hundkurser
+  - hundsport
+  - utbildning
+  web: https://www.mdhund.se/
+
 - entry: 1233276862
   orgName: Borgeby Fotbollsklubb
   orgNumber: 846002-5276
@@ -5348,6 +5475,15 @@ entries:
   - förening
   - utbildning
   web: https://admittansen.se/
+
+- entry: 1233319746
+  orgName: Lastar & Kastar / Px3 Entreprenad & Konsult AB
+  orgNumber: 556959-6223
+  comment: null
+  categories:
+  - transporttjänst
+  - återvinning
+  web: https://www.lastarkastar.se/
 
 - entry: 1233334661
   orgName: Wellness 4 Life Sweden AB
@@ -5418,6 +5554,16 @@ entries:
   - stiftelse
   web: http://www.berget.se/
 
+- entry: 1233372174
+  orgName: Västerås Basket
+  orgNumber: 878001-4513
+  comment: null
+  categories:
+  - basketboll
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.vasterasbasket.se/
+
 - entry: 1233373149
   orgName: Timråpartiet
   orgNumber: 802488-5538
@@ -5431,7 +5577,7 @@ entries:
   orgNumber: 802002-7317
   comment: null
   categories:
-  - mentalhälsa
+  - mental hälsa
   - psykoanalys
   web: https://www.psykoanalys.se/
 
@@ -5441,7 +5587,7 @@ entries:
   comment: null
   categories:
   - hälsa
-  - mentalhälsa
+  - mental hälsa
   web: https://ifscs.se/
 
 - entry: 1233379450
@@ -5486,6 +5632,15 @@ entries:
   - hästsport
   - ryttarförening
   web: https://www.motalarf.com/
+
+- entry: 1233384062
+  orgName: Svenska Hundklubben Västerås
+  orgNumber: 878000-4803
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://www.shkvasteras.se/
 
 - entry: 1233387859
   orgName: Stora Mellösa Baptistförsamling
@@ -6578,6 +6733,16 @@ entries:
   - juridisk hjälp
   web: http://www.advocatum.se/
 
+- entry: 1234090619
+  orgName: Västerås IK Ungdom Team 09 (U13)
+  orgNumber: 878000-6055
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockey
+  - ishockeyklubb
+  web: https://www.laget.se/VIKHockey09/
+
 - entry: 1234100004
   orgName: Potatisbilarna AB
   orgNumber: 556432-3599
@@ -6883,6 +7048,15 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://kvinnojourenhuddinge.se/
+
+- entry: 1234272456
+  orgName: Mälarstadens Trafikskola AB
+  orgNumber: 556957-3602
+  comment: null
+  categories:
+  - trafikskola
+  - yrkesförarutbildning
+  web: https://malarstadenstrafikskola.se/
 
 - entry: 1234274205
   orgName: Ljungby Maria församling
@@ -7392,6 +7566,15 @@ entries:
   categories:
   - hälsa
   web: http://www.dravetssweden.se/
+
+- entry: 1234596854
+  orgName: Västerås Musiksällskap
+  orgNumber: 978000-0221
+  comment: null
+  categories:
+  - musik
+  - musikförening
+  web: https://vastmanlandsmusiken.se/
 
 - entry: 1234599817
   orgName: Sankt Markus i Linköping
@@ -8190,6 +8373,7 @@ entries:
   categories:
   - förbund
   - intresseförening
+  - mental hälsa
   web: https://afasi.se/
 
 - entry: 1235146840
@@ -8397,6 +8581,15 @@ entries:
   categories:
   - idrottsförening
   web: https://idrottonline.se/GarphyttansIF/
+
+- entry: 1235231790
+  orgName: Lokala Hjälpen - Tillsammans för Västerås
+  orgNumber: 802530-5890
+  comment: null
+  categories:
+  - donation
+  - hjälporganisation
+  web: https://www.lokalahjalpen.se/
 
 - entry: 1235232822
   orgName: Pride Lysekil
@@ -8955,6 +9148,15 @@ entries:
   comment: null
   categories: null
   web: http://www.senorensmissionshus.se/
+
+- entry: 1235528237
+  orgName: Västerås IK Fotboll
+  orgNumber: 878000-8432
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.vik-fotboll.com/
 
 - entry: 1235531041
   orgName: WIP i Borlänge AB
@@ -9660,6 +9862,16 @@ entries:
   - motorklubb
   web: https://www.herrvikmotor.se/
 
+- entry: 1235936844
+  orgName: Hilti BJJ Västerås
+  orgNumber: 802476-2026
+  comment: null
+  categories:
+  - brasiliansk jiu-jitsu
+  - idrottsförening
+  - kampsportsförening
+  web: https://hiltivästerås.se/
+
 - entry: 1235948427
   orgName: Karlskoga Enduroklubb
   orgNumber: 876400-3946
@@ -10010,6 +10222,15 @@ entries:
   - ishockey
   web: https://www.hammarbyhockey.se/
 
+- entry: 1236142855
+  orgName: Föreningen Camerata Incantus
+  orgNumber: 802476-6654
+  comment: null
+  categories:
+  - förening
+  - körsång
+  web: http://incantus.se/
+
 - entry: 1236145056
   orgName: Wattholma Golfklubb
   orgNumber: 802445-6785
@@ -10234,6 +10455,15 @@ entries:
   - curling
   - idrottsförening
   web: https://www.curlingklubben.se/
+
+- entry: 1236269567
+  orgName: Västerås Trädgårdssällskap
+  orgNumber: 802438-5794
+  comment: null
+  categories:
+  - fritidsodling
+  - trädgårdsförening
+  web: https://vasterastradgard.se/
 
 - entry: 1236269799
   orgName: Hela Rättvik Rullar
@@ -10940,6 +11170,15 @@ entries:
   - hundsport
   web: https://www.skk.se/sv/SHU/
 
+- entry: 1236761464
+  orgName: Junos Kamp
+  orgNumber: 802515-2003
+  comment: null
+  categories:
+  - barnsjukvård
+  - cancer
+  web: https://junoskamp.se/
+
 - entry: 1236761647
   orgName: Gillberga-Lista Hembygdsförening
   orgNumber: 818001-5177
@@ -11076,6 +11315,16 @@ entries:
   categories:
   - intresseförening
   web: https://www.brottsofferjouren.se/
+
+- entry: 1236888747
+  orgName: Västerås Taekwondoklubb
+  orgNumber: 802523-7796
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - taekwondo
+  web: https://www.vasterastaekwondo.se/
 
 - entry: 1236896708
   orgName: Alltid Sedd
