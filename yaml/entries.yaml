@@ -232,6 +232,15 @@ entries:
   - tjejjour
   web: http://fridakvinnojour.se/
 
+- entry: 1230186684
+  orgName: Peter o Susanne BOWLING AB
+  orgNumber: 556712-8805
+  comment: null
+  categories:
+  - bowling
+  - försäljning
+  web: http://www.psbowling.se/
+
 - entry: 1230186734
   orgName: GAIS, Göteborgs Atlet- & Idrottssällskap
   orgNumber: 857200-0860
@@ -257,6 +266,17 @@ entries:
   categories:
   - museum
   web: https://www.hasseotagemuseet.se/
+
+- entry: 1230204438
+  orgName: VIK Västerås Hockeyklubb
+  orgNumber: 817605-3166
+  comment: null
+  categories:
+  - hockeyklubb
+  - idrottsförening
+  - ishockey
+  - ishockeyklubb
+  web: https://www.vik.se/
 
 - entry: 1230214676
   orgName: MC Proffsen i Jönköping AB
@@ -1043,6 +1063,17 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/plogenlinghem/
 
+- entry: 1230772905
+  orgName: Västerås Shukokai Karateklubb
+  orgNumber: 802417-8058
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - karate
+  - karateklubb
+  web: https://vasterasshukokai.se/
+
 - entry: 1230779447
   orgName: Ljungskileortens Hembygdsförening
   orgNumber: 858500-5393
@@ -1210,6 +1241,14 @@ entries:
   categories:
   - idrottsförening
   web: https://www.arsundaif.se/
+
+- entry: 1230883116
+  orgName: Deila och dåtiden AB
+  orgNumber: 5592204092
+  comment: null
+  categories:
+  - guidade turer
+  web: https://deilaochdatiden.se/
 
 - entry: 1230898692
   orgName: Filadelfiaförsamlingen Avesta
@@ -2408,6 +2447,16 @@ entries:
   categories: null
   web: https://gulaanglarna.se/
 
+- entry: 1231506567
+  orgName: Västerås Kattklubb
+  orgNumber: 878001-0511
+  comment: null
+  categories:
+  - förening
+  - intresseförening
+  - kattklubb
+  web: https://www.vasteraskattklubb.se/
+
 - entry: 1231507573
   orgName: Sjundehimmelen / 33:ans i Malmö Ekonomiska förening
   orgNumber: 769629-3583
@@ -2820,6 +2869,17 @@ entries:
   - idrottsförening
   - intresseförening
   web: https://sportforlife.se/
+
+- entry: 1231727627
+  orgName: Levád Fysiotherapi AB
+  orgNumber: 556599-7318
+  comment: null
+  categories:
+  - akupunktur
+  - fysioterapi
+  - massage
+  - sjukgymnastik
+  web: https://levad.se/
 
 - entry: 1231730332
   orgName: Södertälje-Nykvarn Orientering
@@ -3514,6 +3574,18 @@ entries:
   - sportfiske
   web: https://www.sjulsmarks-skoterfiske.se/
 
+- entry: 1232177574
+  orgName: Hälsinglands Fordonshistoriker HFH
+  orgNumber: 802521-6568
+  comment: null
+  categories:
+  - fordonhistoria
+  - förening
+  - historia
+  - veteranbilar
+  - veteranfordon
+  web: http://www.fordonshistoriker.se/
+
 - entry: 1232180578
   orgName: Nya Vingar
   orgNumber: 802503-8103
@@ -4143,6 +4215,16 @@ entries:
   - religion
   web: http://www.azech.se/
 
+- entry: 1232454080
+  orgName: Västerås IK Ungdom Team 08 (U14)
+  orgNumber: 878000-6055
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockey
+  - ishockeyklubb
+  web: https://www.laget.se/VIKHockey08/
+
 - entry: 1232454494
   orgName: Naturskyddsföreningen i Skåne
   orgNumber: 845000-4174
@@ -4249,6 +4331,15 @@ entries:
   - massage
   web: https://www.roshanspa.info/
 
+- entry: 1232598225
+  orgName: Krägga Herrgård AB
+  orgNumber: 556837-4150
+  comment: null
+  categories:
+  - hotell
+  - konferens
+  web: https://www.kragga.se/
+
 - entry: 1232603686
   orgName: IF Väster
   orgNumber: 857203-6690
@@ -4300,6 +4391,16 @@ entries:
   - förening
   - intresseorganisation
   web: https://batlife-sweden.se/
+
+- entry: 1232661726
+  orgName: Västerås Bouleklubb
+  orgNumber: 802448-9984
+  comment: null
+  categories:
+  - boule
+  - bouleklubb
+  - idrottsförening
+  web: https://www.laget.se/VasterasBouleklubb/
 
 - entry: 1232670552
   orgName: Sankt Ansgar
@@ -5275,6 +5376,15 @@ entries:
   - restaurant
   web: https://www.clubhouse-restaurant.se/
 
+- entry: 1233228160
+  orgName: Västerås Friidrottsklubb
+  orgNumber: 878001-3879
+  comment: null
+  categories:
+  - friidrott
+  - idrottsförening
+  web: https://www.vasterasfriidrott.se/
+
 - entry: 1233232709
   orgName: Brf Staven
   orgNumber: 775000-2102
@@ -5784,6 +5894,15 @@ entries:
   - donation
   web: https://www.pingstlidkoping.se/
 
+- entry: 1233461845
+  orgName: Surahammars Skytteförening
+  orgNumber: 878001-6625
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - sportskytte
+  web: http://surahammarsskytteforening.se/
+
 - entry: 1233467545
   orgName: Malmö Floorball Club
   orgNumber: 802439-1164
@@ -5994,6 +6113,26 @@ entries:
   categories:
   - hjälporganisation
   web: http://www.dandelionafrica.se/
+
+- entry: 1233605219
+  orgName: Västerås SportDykarKlubb Mollusca
+  orgNumber: 878001-9553
+  comment: null
+  categories:
+  - dykning
+  - sportdykning
+  - utbildning
+  web: https://vsdk-mollusca.org/
+
+- entry: 1233626710
+  orgName: Västerås Ki-Aikido
+  orgNumber: 802440-5451
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - ki-aikido
+  web: http://vasteras.ki-aikido.se/
 
 - entry: 1233634227
   orgName: WT Trailer AB
@@ -6609,6 +6748,15 @@ entries:
   categories:
   - donation
   web: https://vhek.se/
+
+- entry: 1233991197
+  orgName: Charterbuss Resetjänst i Kristinehamn AB
+  orgNumber: 556621-4135
+  comment: null
+  categories:
+  - charterbuss
+  - passagerar transport
+  web: https://www.charterbuss.se/
 
 - entry: 1233998358
   orgName: Tjejjouren Rut
@@ -7434,6 +7582,14 @@ entries:
   - intresseförening
   web: https://asylgruppenimalmo.se/
 
+- entry: 1234513297
+  orgName: ATTENTION Västerås
+  orgNumber: 817605-8827
+  comment: null
+  categories:
+  - intresseförening
+  web: https://attention-vasteras.se/
+
 - entry: 1234522207
   orgName: Brännkyrka Församling
   orgNumber: 252000-0650
@@ -8083,6 +8239,19 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/kvinnojourenkalmar/
 
+- entry: 1234993895
+  orgName: Carlsson Ring Fastighetsmäklare AB
+  orgNumber: 556614-4621
+  comment: null
+  categories:
+  - fastighetsauktioner
+  - fastighetsförmedling
+  - fastighetsmäklare
+  - fastighetsvärdering
+  - lantbruksauktioner
+  - lösöreauktioner
+  web: https://carlssonring.se/
+
 - entry: 1234995015
   orgName: Pensionärernas BTK - Bordtennis
   orgNumber: 855100-6771
@@ -8322,6 +8491,7 @@ entries:
   categories:
   - förbund
   - grottforskning
+  - speleologi
   web: https://speleo.se/
 
 - entry: 1235118542
@@ -9637,6 +9807,7 @@ entries:
   categories:
   - förbund
   - grottforskning
+  - speleologi
   web: https://speleo.se/
 
 - entry: 1235792924
@@ -10035,6 +10206,15 @@ entries:
   - religion
   web: https://molndal.pingst.se/
 
+- entry: 1236034953
+  orgName: IngelaVocalis
+  orgNumber: 878001-7987
+  comment: null
+  categories:
+  - körsång
+  - sång
+  web: https://www.ingelavocalis.se/
+
 - entry: 1236039820
   orgName: Studebakerklubben Sweden
   orgNumber: 802417-9155
@@ -10097,6 +10277,15 @@ entries:
   - religion
   web: https://lappis.libsyn.com/
 
+- entry: 1236083448
+  orgName: Svartådalens Bygdeutveckling Ekonomisk Förening
+  orgNumber: 769608-1897
+  comment: null
+  categories:
+  - turism
+  - turistförening
+  web: https://svartadalen.se/
+
 - entry: 1236083521
   orgName: Sveriges Makalösa Föräldrar
   orgNumber: 802402-8709
@@ -10112,7 +10301,17 @@ entries:
   categories:
   - förbund
   - grottforskning
+  - speleologi
   web: https://speleo.se/
+
+- entry: 1236086706
+  orgName: Frösåker Golf & Country Club AB
+  orgNumber: 556301-2490
+  comment: null
+  categories:
+  - golf
+  - golfklubb
+  web: https://fgcc.se/
 
 - entry: 1236090625
   orgName: Bowenpraktiken i Osby / Christel Falk
@@ -10421,6 +10620,15 @@ entries:
   - bilvård
   web: null
 
+- entry: 1236243729
+  orgName: CH Anderssons Trafikskola AB
+  orgNumber: 556743-6968
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://gelinderstrafikskola.se/
+
 - entry: 1236244016
   orgName: Skultorps Vagn & LokVerkstad
   orgNumber: 640803-6033
@@ -10465,6 +10673,15 @@ entries:
   - trädgårdsförening
   web: https://vasterastradgard.se/
 
+- entry: 1236269633
+  orgName: Stiftelsen Biblicum
+  orgNumber: 829500-7440
+  comment: null
+  categories:
+  - religion
+  - stiftelse
+  web: https://www.biblicum.se/
+
 - entry: 1236269799
   orgName: Hela Rättvik Rullar
   orgNumber: 802493-3569
@@ -10501,7 +10718,7 @@ entries:
   web: https://www.unizonjourer.se/kvinnohusetorebro/
 
 - entry: 1236280424
-  orgName: Ukrainas Museer / Stiftelsen Nordiska Museet
+  orgName: Stiftelsen Nordiska Museet
   orgNumber: 802002-4686
   comment: 'Märkes: Insamling till Ukraina'
   categories:
@@ -10584,6 +10801,17 @@ entries:
   categories:
   - religion
   web: https://www.internationellakyrkan.se/
+
+- entry: 1236335426
+  orgName: Gyncancerföreningen Västmanland
+  orgNumber: 802417-7282
+  comment: null
+  categories:
+  - cancer
+  - gynekologisk cancer
+  - intresseförening
+  - patientförening
+  web: http://www.gcfmariarosen.se/
 
 - entry: 1236335830
   orgName: Sverige-Nepalföreningen, The Sweden Nepal Society
@@ -10830,6 +11058,14 @@ entries:
   - discgolf
   - förening
   web: http://www.luleadiscgolf.se/
+
+- entry: 1236516736
+  orgName: Postbox24 Entreprenad Handelsbolag
+  orgNumber: 969745-9015
+  comment: null
+  categories:
+  - postboxar
+  web: https://postbox24.se/
 
 - entry: 1236520068
   orgName: Hammarby IF Ishockeyförening
@@ -11154,6 +11390,16 @@ entries:
   - skalmodeller
   web: https://www.srmodell.se/
 
+- entry: 1236741789
+  orgName: Simon Advokatbyrå AB
+  orgNumber: 559181-2309
+  comment: null
+  categories:
+  - advokatbyrå
+  - juridik
+  - juridiska tjänster
+  web: https://advokatsimon.se/
+
 - entry: 1236758874
   orgName: Föreningen Svenska Tonsättare, FST
   orgNumber: 802003-5369
@@ -11195,6 +11441,16 @@ entries:
   - djurskydd
   - katthem
   web: https://www.hukh.se/
+
+- entry: 1236764526
+  orgName: Karmaklubben
+  orgNumber: 690917-XXXX
+  comment: null
+  categories:
+  - healing
+  - hypnos
+  - reiki
+  web: https://www.karmaklubben.se/
 
 - entry: 1236765242
   orgName: Kvinnojouren Karlskrona
@@ -13787,6 +14043,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - scoutkår
   web: https://www.scouterna.se/
 
 - entry: 1239005232
