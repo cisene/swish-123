@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-03-rev-165700",
+    "date": "2022-04-04-rev-120053",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -701,6 +701,27 @@
         "politiskt parti"
       ],
       "web": "https://feministisktinitiativ.se/"
+    },
+    {
+      "entry": 1230440917,
+      "orgNumber": "556404-6018",
+      "orgName": "Zerillas Hundcenter AB",
+      "categories": [
+        "hundkurser",
+        "hundsport",
+        "utbildning"
+      ],
+      "web": "http://www.zerillas.se/"
+    },
+    {
+      "entry": 1230451054,
+      "orgNumber": "802493-4070",
+      "orgName": "Torps Bygdeg\u00e5rd ideell f\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "f\u00f6rening"
+      ],
+      "web": "https://torpsbygdegard.se/"
     },
     {
       "entry": 1230451765,
@@ -2144,6 +2165,18 @@
         "stiftelse"
       ],
       "web": "http://www.cancerstiftelsen-kronoberg.se/"
+    },
+    {
+      "entry": 1231239862,
+      "orgNumber": "883201-4768",
+      "orgName": "M\u00e4starregistret / Stiftelsen Hantverk och Utbildning",
+      "categories": [
+        "ges\u00e4llbrev",
+        "stiftelse",
+        "utbildning",
+        "yrkesutbildning"
+      ],
+      "web": "https://mastarregistret.se/"
     },
     {
       "entry": 1231241306,
@@ -4084,6 +4117,15 @@
       "web": "https://www.gavletravet.se/"
     },
     {
+      "entry": 1232193241,
+      "orgNumber": "802463-6386",
+      "orgName": "Betaniaf\u00f6rsamlingen M\u00f6klinta",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://betaniaforsamlingen.se/"
+    },
+    {
       "entry": 1232193811,
       "orgNumber": "822003-7918",
       "orgName": "Link\u00f6pings Mosk\u00e9stiftelse",
@@ -4181,6 +4223,18 @@
         "psykisk h\u00e4lsa"
       ],
       "web": "http://aldrigensam.com/"
+    },
+    {
+      "entry": 1232232213,
+      "orgNumber": "556907-1599",
+      "orgName": "Crossfit Bifrost / Knutshyttan AB",
+      "categories": [
+        "crossfit",
+        "friskv\u00e5rd",
+        "gym",
+        "styrketr\u00e4ning"
+      ],
+      "web": "http://www.crossfitbifrost.com/"
     },
     {
       "entry": 1232240356,
@@ -4828,6 +4882,17 @@
       "web": "https://allmogens.se/"
     },
     {
+      "entry": 1232592426,
+      "orgNumber": "802472-0800",
+      "orgName": "Svenska Ridtravarf\u00f6reningen Uppland V\u00e4stmanland",
+      "categories": [
+        "f\u00f6rening",
+        "h\u00e4stsport",
+        "travsport"
+      ],
+      "web": "https://uppvast.se/"
+    },
+    {
       "entry": 1232593796,
       "orgNumber": "671115-XXXX",
       "orgName": "Roshan SPA och Friskv\u00e5rd",
@@ -4943,6 +5008,16 @@
         "religion"
       ],
       "web": "https://arkenvmo.se/"
+    },
+    {
+      "entry": 1232684116,
+      "orgNumber": "802438-6222",
+      "orgName": "Saltvattensguiden.se Ideell F\u00f6rening",
+      "categories": [
+        "akvariefisk",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://saltvattensguiden.se/"
     },
     {
       "entry": 1232686905,
@@ -9306,6 +9381,16 @@
       "web": "https://www.pbk-gbg.se/"
     },
     {
+      "entry": 1234997243,
+      "orgNumber": "802509-4148",
+      "orgName": "F\u00f6reningen Turf V\u00e4stmanland",
+      "categories": [
+        "friluftsliv",
+        "f\u00f6rening"
+      ],
+      "web": "https://www.uturf.se/"
+    },
+    {
       "entry": 1235009519,
       "orgNumber": "863000-5299",
       "orgName": "G\u00f6ta Bollklubb",
@@ -12637,6 +12722,16 @@
       "web": "https://lekerydsforsamling.se/"
     },
     {
+      "entry": 1236660682,
+      "orgNumber": "802435-9161",
+      "orgName": "F\u00f6reningen V\u00e5rdnad Boende Umg\u00e4nge i Sverige, VBU",
+      "categories": [
+        "f\u00f6r\u00e4ldraskap",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://vardnad.se/"
+    },
+    {
       "entry": 1236662381,
       "orgNumber": "802449-6427",
       "orgName": "Kamratf\u00f6reningen F\u00f6rsvarets Tekniska Officerare / KamraToff",
@@ -15828,7 +15923,8 @@
       "orgNumber": "857205-5237",
       "orgName": "Schizofrenif\u00f6rbundet, Intressef\u00f6rbundet f\u00f6r personer med schizofreni och liknande psykoser",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "mental h\u00e4lsa"
       ],
       "web": "https://www.schizofreniforbundet.se/"
     },

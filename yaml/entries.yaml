@@ -632,6 +632,25 @@ entries:
   - politiskt parti
   web: https://feministisktinitiativ.se/
 
+- entry: 1230440917
+  orgName: Zerillas Hundcenter AB
+  orgNumber: 556404-6018
+  comment: null
+  categories:
+  - hundkurser
+  - hundsport
+  - utbildning
+  web: http://www.zerillas.se/
+
+- entry: 1230451054
+  orgName: Torps Bygdegård ideell förening
+  orgNumber: 802493-4070
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - förening
+  web: https://torpsbygdegard.se/
+
 - entry: 1230451765
   orgName: Amigos Mios
   orgNumber: 802505-7657
@@ -1960,6 +1979,17 @@ entries:
   - forskning
   - stiftelse
   web: http://www.cancerstiftelsen-kronoberg.se/
+
+- entry: 1231239862
+  orgName: Mästarregistret / Stiftelsen Hantverk och Utbildning
+  orgNumber: 883201-4768
+  comment: null
+  categories:
+  - gesällbrev
+  - stiftelse
+  - utbildning
+  - yrkesutbildning
+  web: https://mastarregistret.se/
 
 - entry: 1231241306
   orgName: Sigfrids - Bageri, Bistro & Bar AB
@@ -3745,6 +3775,14 @@ entries:
   - travsport
   web: https://www.gavletravet.se/
 
+- entry: 1232193241
+  orgName: Betaniaförsamlingen Möklinta
+  orgNumber: 802463-6386
+  comment: null
+  categories:
+  - religion
+  web: https://betaniaforsamlingen.se/
+
 - entry: 1232193811
   orgName: Linköpings Moskéstiftelse
   orgNumber: 822003-7918
@@ -3841,6 +3879,17 @@ entries:
   - minnesinsamling
   - psykisk hälsa
   web: http://aldrigensam.com/
+
+- entry: 1232232213
+  orgName: Crossfit Bifrost / Knutshyttan AB
+  orgNumber: 556907-1599
+  comment: null
+  categories:
+  - crossfit
+  - friskvård
+  - gym
+  - styrketräning
+  web: http://www.crossfitbifrost.com/
 
 - entry: 1232240356
   orgName: Folket i Bild/Kulturfront
@@ -4431,6 +4480,16 @@ entries:
   - trycksaker
   web: https://allmogens.se/
 
+- entry: 1232592426
+  orgName: Svenska Ridtravarföreningen Uppland Västmanland
+  orgNumber: 802472-0800
+  comment: null
+  categories:
+  - förening
+  - hästsport
+  - travsport
+  web: https://uppvast.se/
+
 - entry: 1232593796
   orgName: Roshan SPA och Friskvård
   orgNumber: 671115-XXXX
@@ -4534,6 +4593,15 @@ entries:
   categories:
   - religion
   web: https://arkenvmo.se/
+
+- entry: 1232684116
+  orgName: Saltvattensguiden.se Ideell Förening
+  orgNumber: 802438-6222
+  comment: null
+  categories:
+  - akvariefisk
+  - intresseförening
+  web: https://saltvattensguiden.se/
 
 - entry: 1232686905
   orgName: Stockholms Hundhälsa
@@ -8495,6 +8563,15 @@ entries:
   - pensionärsklubb
   web: https://www.pbk-gbg.se/
 
+- entry: 1234997243
+  orgName: Föreningen Turf Västmanland
+  orgNumber: 802509-4148
+  comment: null
+  categories:
+  - friluftsliv
+  - förening
+  web: https://www.uturf.se/
+
 - entry: 1235009519
   orgName: Göta Bollklubb
   orgNumber: 863000-5299
@@ -11507,6 +11584,15 @@ entries:
   - församling
   - religion
   web: https://lekerydsforsamling.se/
+
+- entry: 1236660682
+  orgName: Föreningen Vårdnad Boende Umgänge i Sverige, VBU
+  orgNumber: 802435-9161
+  comment: null
+  categories:
+  - föräldraskap
+  - intresseförening
+  web: https://vardnad.se/
 
 - entry: 1236662381
   orgName: Kamratföreningen Försvarets Tekniska Officerare / KamraToff
@@ -15508,6 +15594,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - mental hälsa
   web: https://www.schizofreniforbundet.se/
 
 - entry: 1239007287
