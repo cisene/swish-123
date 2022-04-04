@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-04-rev-120053",
+    "date": "2022-04-04-rev-173135",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -772,6 +772,16 @@
       "web": "https://www.granopingst.se/"
     },
     {
+      "entry": 1230483651,
+      "orgNumber": "878001-3077",
+      "orgName": "Hallstahammars SK Fotbollsklubb",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.hsk-fotboll.nu/"
+    },
+    {
       "entry": 1230485730,
       "orgNumber": "822002-1755",
       "orgName": "\u00d6sterg\u00f6tlands Taxklubb",
@@ -988,6 +998,16 @@
       "web": "https://www.brottsofferjouren.se/"
     },
     {
+      "entry": 1230633370,
+      "orgNumber": "802435-1689",
+      "orgName": "Kulturens Bildningsverksamhet",
+      "categories": [
+        "kultur",
+        "utbildning"
+      ],
+      "web": "https://www.kulturens.se/"
+    },
+    {
       "entry": 1230637173,
       "orgNumber": "802524-8165",
       "orgName": "V\u00e4rmlands dreverklubb",
@@ -1042,6 +1062,7 @@
       "entry": 1230704635,
       "orgNumber": "828001-0359",
       "orgName": "Sveriges Veteranf\u00f6rbund (SVF)",
+      "comment": "Gula bandet",
       "categories": [
         "f\u00f6rbund"
       ],
@@ -2352,6 +2373,16 @@
       "web": "https://jamihundsport.se/"
     },
     {
+      "entry": 1231318336,
+      "orgNumber": "802518-2257",
+      "orgName": "Svenska Sm\u00e5landsst\u00f6varef\u00f6reningen",
+      "categories": [
+        "f\u00f6rening",
+        "hundklubb"
+      ],
+      "web": "http://www.smalandsstovaren.se/"
+    },
+    {
       "entry": 1231323435,
       "orgNumber": "857200-4557",
       "orgName": "Segels\u00e4llskapet FRAM",
@@ -2705,6 +2736,15 @@
         "museum"
       ],
       "web": "https://www.orsaslipsten.se/"
+    },
+    {
+      "entry": 1231483783,
+      "orgNumber": "802503-4060",
+      "orgName": "Z-BATALJONEN",
+      "categories": [
+        "intresseorganisation"
+      ],
+      "web": "https://www.sverigesveteranforbund.se/z-bataljonen"
     },
     {
       "entry": 1231485341,
@@ -3292,7 +3332,9 @@
       "orgNumber": "858501-0377",
       "orgName": "F\u00f6reningen Orusts Sl\u00e4ktforskare",
       "categories": [
-        "genealogi"
+        "f\u00f6rening",
+        "genealogi",
+        "sl\u00e4ktforskning"
       ],
       "web": "https://orustgenealogi.se/"
     },
@@ -4471,6 +4513,17 @@
       "web": "https://www.billdalsblommor.se/"
     },
     {
+      "entry": 1232325611,
+      "orgNumber": "559110-4608",
+      "orgName": "Jonas Vildmark Bushcraftcenter - Lienshyttans Herrg\u00e5rd AB",
+      "categories": [
+        "bushcraft",
+        "friluftsliv",
+        "utbildning"
+      ],
+      "web": "https://www.jonasvildmark.com/"
+    },
+    {
       "entry": 1232327906,
       "orgNumber": "556660-9862",
       "orgName": "Scuba Travel Scandinavia AB",
@@ -4860,6 +4913,17 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.gavlejazz.se/"
+    },
+    {
+      "entry": 1232581189,
+      "orgNumber": "556722-0974",
+      "orgName": "Anders Andersson Text & Konsult AB",
+      "categories": [
+        "fotograf",
+        "f\u00f6rfattare",
+        "konst"
+      ],
+      "web": "https://www.andersandersson.se/"
     },
     {
       "entry": 1232588085,
@@ -5581,6 +5645,16 @@
         "religion"
       ],
       "web": "https://pingst.be/"
+    },
+    {
+      "entry": 1232930527,
+      "orgNumber": "854600-5219",
+      "orgName": "Soten\u00e4s Biodlaref\u00f6rening",
+      "categories": [
+        "biodling",
+        "f\u00f6rening"
+      ],
+      "web": "https://sotenas.biodlarna.se/"
     },
     {
       "entry": 1232931913,
@@ -7250,6 +7324,16 @@
       ]
     },
     {
+      "entry": 1233837028,
+      "orgNumber": "232100-0172",
+      "orgName": "Regional Kulturskola i V\u00e4stmanland / Region V\u00e4stmanland",
+      "categories": [
+        "kultur",
+        "utbildning"
+      ],
+      "web": "https://regionalkulturskola.se/"
+    },
+    {
       "entry": 1233849213,
       "orgNumber": "878000-5412",
       "orgName": "V\u00e4ster\u00e5s RS - Ridsport",
@@ -8479,6 +8563,16 @@
       "web": "http://spkk.se/"
     },
     {
+      "entry": 1234419883,
+      "orgNumber": "837600-5859",
+      "orgName": "\u00d6stra Ljungby Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "f\u00f6rening"
+      ],
+      "web": "https://ostraljungbybygdegard.se/"
+    },
+    {
       "entry": 1234425708,
       "orgNumber": "802419-1887",
       "orgName": "Skaraborgs Godman och F\u00f6rvaltarf\u00f6rening",
@@ -8759,6 +8853,16 @@
       "web": "https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/marsta-sigtuna/"
     },
     {
+      "entry": 1234586947,
+      "orgNumber": "886501-1632",
+      "orgName": "S\u00f6r\u00e4ngs Byalag",
+      "categories": [
+        "byalag",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.sorang.se/"
+    },
+    {
       "entry": 1234589610,
       "orgNumber": "828500-1320",
       "orgName": "Unnaryd-J\u00e4lluntofta-Hembygdsf\u00f6rening",
@@ -8803,6 +8907,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/SkeneIF/"
+    },
+    {
+      "entry": 1234611398,
+      "orgNumber": "826001-7028",
+      "orgName": "Sm\u00e5lands Innebandyf\u00f6rbund",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandy"
+      ],
+      "web": "https://www.innebandy.se/smaland/"
     },
     {
       "entry": 1234627238,
@@ -9107,6 +9221,17 @@
         "religion"
       ],
       "web": "https://pingstjonkoping.se/"
+    },
+    {
+      "entry": 1234763397,
+      "orgNumber": "802008-3641",
+      "orgName": "Entomologiska F\u00f6reningen i Stockholm",
+      "categories": [
+        "entomologi",
+        "f\u00f6rening",
+        "sm\u00e5kryp"
+      ],
+      "web": "http://www.ento.se/"
     },
     {
       "entry": 1234763686,
@@ -11437,6 +11562,18 @@
       "web": "https://www.4h.se/eolshall/"
     },
     {
+      "entry": 1235953088,
+      "orgNumber": "817607-1135",
+      "orgName": "Skinnsbergs Atletklubb",
+      "categories": [
+        "friskv\u00e5rd",
+        "gym",
+        "idrottsf\u00f6rening",
+        "styrketr\u00e4ning"
+      ],
+      "web": "https://skinnsbergsak.se/"
+    },
+    {
       "entry": 1235954243,
       "orgNumber": "802448-7483",
       "orgName": "Musket\u00f6rerna i Sollentuna",
@@ -11474,6 +11611,16 @@
         "trycksaker"
       ],
       "web": "https://www.tidningenproffs.se/"
+    },
+    {
+      "entry": 1235979901,
+      "orgNumber": "864500-8510",
+      "orgName": "Gingri Bygdeg\u00e5rd",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "f\u00f6rening"
+      ],
+      "web": "https://gingribygdegard.se/"
     },
     {
       "entry": 1235991534,
@@ -12339,6 +12486,18 @@
         "bilklubb"
       ],
       "web": "https://www.ycc.nu/"
+    },
+    {
+      "entry": 1236357925,
+      "orgNumber": "802005-7967",
+      "orgName": "Svenska Bl\u00e5 Stj\u00e4rnan Riksorganisationen",
+      "categories": [
+        "civilf\u00f6rsvar",
+        "intressef\u00f6rening",
+        "krisberedskap",
+        "utbildning"
+      ],
+      "web": "https://svenskablastjarnan.se/"
     },
     {
       "entry": 1236359798,

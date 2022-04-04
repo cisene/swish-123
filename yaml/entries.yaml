@@ -693,6 +693,15 @@ entries:
   - religion
   web: https://www.granopingst.se/
 
+- entry: 1230483651
+  orgName: Hallstahammars SK Fotbollsklubb
+  orgNumber: 878001-3077
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.hsk-fotboll.nu/
+
 - entry: 1230485730
   orgName: Östergötlands Taxklubb
   orgNumber: 822002-1755
@@ -893,6 +902,15 @@ entries:
   - intresseorganisation
   web: https://www.brottsofferjouren.se/
 
+- entry: 1230633370
+  orgName: Kulturens Bildningsverksamhet
+  orgNumber: 802435-1689
+  comment: null
+  categories:
+  - kultur
+  - utbildning
+  web: https://www.kulturens.se/
+
 - entry: 1230637173
   orgName: Värmlands dreverklubb
   orgNumber: 802524-8165
@@ -941,7 +959,7 @@ entries:
 - entry: 1230704635
   orgName: Sveriges Veteranförbund (SVF)
   orgNumber: 828001-0359
-  comment: null
+  comment: Gula bandet
   categories:
   - förbund
   web: http://www.gulabandet.se/
@@ -2162,6 +2180,15 @@ entries:
   - hundsport
   web: https://jamihundsport.se/
 
+- entry: 1231318336
+  orgName: Svenska Smålandsstövareföreningen
+  orgNumber: 802518-2257
+  comment: null
+  categories:
+  - förening
+  - hundklubb
+  web: http://www.smalandsstovaren.se/
+
 - entry: 1231323435
   orgName: Segelsällskapet FRAM
   orgNumber: 857200-4557
@@ -2488,6 +2515,14 @@ entries:
   - förening
   - museum
   web: https://www.orsaslipsten.se/
+
+- entry: 1231483783
+  orgName: Z-BATALJONEN
+  orgNumber: 802503-4060
+  comment: null
+  categories:
+  - intresseorganisation
+  web: https://www.sverigesveteranforbund.se/z-bataljonen
 
 - entry: 1231485341
   orgName: Aspeboda Hembygdsförening
@@ -3012,7 +3047,9 @@ entries:
   orgNumber: 858501-0377
   comment: null
   categories:
+  - förening
   - genealogi
+  - släktforskning
   web: https://orustgenealogi.se/
 
 - entry: 1231745298
@@ -3676,6 +3713,16 @@ entries:
   - kredittjänster
   web: https://sergel.se/
 
+- entry: 1232156578
+  orgName: Föreningen Fjärilar i Pite Lappmark
+  orgNumber: 8025179865
+  comment: null
+  categories:
+  - entomologi
+  - förening
+  - småkryp
+  web: https://ffpl.weebly.com/
+
 - entry: 1232163632
   orgName: Storasystrarna
   orgNumber: 802522-3945
@@ -4104,6 +4151,16 @@ entries:
   - florist
   web: https://www.billdalsblommor.se/
 
+- entry: 1232325611
+  orgName: Jonas Vildmark Bushcraftcenter - Lienshyttans Herrgård AB
+  orgNumber: 559110-4608
+  comment: null
+  categories:
+  - bushcraft
+  - friluftsliv
+  - utbildning
+  web: https://www.jonasvildmark.com/
+
 - entry: 1232327906
   orgName: Scuba Travel Scandinavia AB
   orgNumber: 556660-9862
@@ -4461,6 +4518,16 @@ entries:
   - jazzclub
   - kulturförening
   web: https://www.gavlejazz.se/
+
+- entry: 1232581189
+  orgName: Anders Andersson Text & Konsult AB
+  orgNumber: 556722-0974
+  comment: null
+  categories:
+  - fotograf
+  - författare
+  - konst
+  web: https://www.andersandersson.se/
 
 - entry: 1232588085
   orgName: Brottsofferjouren Östra Värmland
@@ -5106,6 +5173,15 @@ entries:
   categories:
   - religion
   web: https://pingst.be/
+
+- entry: 1232930527
+  orgName: Sotenäs Biodlareförening
+  orgNumber: 854600-5219
+  comment: null
+  categories:
+  - biodling
+  - förening
+  web: https://sotenas.biodlarna.se/
 
 - entry: 1232931913
   orgName: Flyttfirman Säkra Händer AB
@@ -6641,6 +6717,15 @@ entries:
   - religion
   web: null
 
+- entry: 1233837028
+  orgName: Regional Kulturskola i Västmanland / Region Västmanland
+  orgNumber: 232100-0172
+  comment: null
+  categories:
+  - kultur
+  - utbildning
+  web: https://regionalkulturskola.se/
+
 - entry: 1233849213
   orgName: Västerås RS - Ridsport
   orgNumber: 878000-5412
@@ -7746,6 +7831,15 @@ entries:
   - hundklubb
   web: http://spkk.se/
 
+- entry: 1234419883
+  orgName: Östra Ljungby Bygdegårdsförening
+  orgNumber: 837600-5859
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - förening
+  web: https://ostraljungbybygdegard.se/
+
 - entry: 1234425708
   orgName: Skaraborgs Godman och Förvaltarförening
   orgNumber: 802419-1887
@@ -8002,6 +8096,15 @@ entries:
   - friluftsliv
   web: https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/marsta-sigtuna/
 
+- entry: 1234586947
+  orgName: Sörängs Byalag
+  orgNumber: 886501-1632
+  comment: null
+  categories:
+  - byalag
+  - hembygdsförening
+  web: https://www.sorang.se/
+
 - entry: 1234589610
   orgName: Unnaryd-Jälluntofta-Hembygdsförening
   orgNumber: 828500-1320
@@ -8042,6 +8145,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.laget.se/SkeneIF/
+
+- entry: 1234611398
+  orgName: Smålands Innebandyförbund
+  orgNumber: 826001-7028
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandy
+  web: https://www.innebandy.se/smaland/
 
 - entry: 1234627238
   orgName: Teaterkören
@@ -8313,6 +8425,16 @@ entries:
   categories:
   - religion
   web: https://pingstjonkoping.se/
+
+- entry: 1234763397
+  orgName: Entomologiska Föreningen i Stockholm
+  orgNumber: 802008-3641
+  comment: null
+  categories:
+  - entomologi
+  - förening
+  - småkryp
+  web: http://www.ento.se/
 
 - entry: 1234763686
   orgName: Långasjö-Emmaboda Pingstförsamling
@@ -10422,6 +10544,17 @@ entries:
   - utbildning
   web: https://www.4h.se/eolshall/
 
+- entry: 1235953088
+  orgName: Skinnsbergs Atletklubb
+  orgNumber: 817607-1135
+  comment: null
+  categories:
+  - friskvård
+  - gym
+  - idrottsförening
+  - styrketräning
+  web: https://skinnsbergsak.se/
+
 - entry: 1235954243
   orgName: Musketörerna i Sollentuna
   orgNumber: 802448-7483
@@ -10456,6 +10589,15 @@ entries:
   categories:
   - trycksaker
   web: https://www.tidningenproffs.se/
+
+- entry: 1235979901
+  orgName: Gingri Bygdegård
+  orgNumber: 864500-8510
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - förening
+  web: https://gingribygdegard.se/
 
 - entry: 1235991534
   orgName: PON Unionen
@@ -11229,6 +11371,17 @@ entries:
   categories:
   - bilklubb
   web: https://www.ycc.nu/
+
+- entry: 1236357925
+  orgName: Svenska Blå Stjärnan Riksorganisationen
+  orgNumber: 802005-7967
+  comment: null
+  categories:
+  - civilförsvar
+  - intresseförening
+  - krisberedskap
+  - utbildning
+  web: https://svenskablastjarnan.se/
 
 - entry: 1236359798
   orgName: Engelholms Volleybollsällskap, EVS
