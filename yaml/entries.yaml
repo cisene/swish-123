@@ -1198,6 +1198,16 @@ entries:
   - intresseförening
   web: https://www.al-anon.se/
 
+- entry: 1230837476
+  orgName: Östra SK Jönköping
+  orgNumber: 826001-1609
+  comment: Café
+  categories:
+  - fotboll
+  - idrottsförening
+  - innebandy
+  web: https://www.ostra.nu/
+
 - entry: 1230838482
   orgName: Rengsjö SK - Fotboll
   orgNumber: 886500-1302
@@ -2465,6 +2475,20 @@ entries:
   - längdskidåkning
   web: null
 
+- entry: 1231476142
+  orgName: Ölmstad IS
+  orgNumber: 826000-4901
+  comment: null
+  categories:
+  - bordtennis
+  - fotboll
+  - gym
+  - gymnastik
+  - idrottsförening
+  - innebandy
+  - skidor
+  web: https://www.olmstad-is.se/
+
 - entry: 1231477074
   orgName: Kroatiska Föreningen VELEBIT
   orgNumber: 857204-0544
@@ -2674,6 +2698,14 @@ entries:
   categories:
   - hundklubb
   web: https://www.norrataxklubben.se/
+
+- entry: 1231557545
+  orgName: Fjellfotografen Tomas Johansson HB
+  orgNumber: 916472-0220
+  comment: null
+  categories:
+  - fotograf
+  web: http://www.fjellfotografen.se/
 
 - entry: 1231561703
   orgName: Svenska Lundehundsällskapet
@@ -7004,6 +7036,16 @@ entries:
   - folkrörelse
   web: https://skiftet.org/
 
+- entry: 1233956570
+  orgName: Östra SK Jönköping
+  orgNumber: 826001-1609
+  comment: Ungdom
+  categories:
+  - fotboll
+  - idrottsförening
+  - innebandy
+  web: https://www.ostra.nu/
+
 - entry: 1233962404
   orgName: Blomsterhuset Ullånger
   orgNumber: 556725-8537
@@ -7097,6 +7139,16 @@ entries:
   categories:
   - pistolskytteklubb
   web: http://www.torupspistolklubb.org/
+
+- entry: 1234018909
+  orgName: Östra SK Jönköping
+  orgNumber: 826001-1609
+  comment: Dam
+  categories:
+  - fotboll
+  - idrottsförening
+  - innebandy
+  web: https://www.ostra.nu/
 
 - entry: 1234029088
   orgName: Medborgerlig Samling
@@ -8884,6 +8936,15 @@ entries:
   - religion
   web: http://www.equmeniakyrkangrabo.se/
 
+- entry: 1235111638
+  orgName: Växjö IBK Utveckling
+  orgNumber: 829502-7471
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/VaxjoIBKU/
+
 - entry: 1235111828
   orgName: Bönetåget
   orgNumber: 802420-3021
@@ -9606,6 +9667,16 @@ entries:
   categories:
   - fågelklubb
   web: https://nidingen.gof.nu/
+
+- entry: 1235444757
+  orgName: Östra SK Jönköping
+  orgNumber: 826001-1609
+  comment: Herr
+  categories:
+  - fotboll
+  - idrottsförening
+  - innebandy
+  web: https://www.ostra.nu/
 
 - entry: 1235446422
   orgName: Svensk Förening för Obesitasforskning - SFO
@@ -11799,6 +11870,15 @@ entries:
   - förening
   web: https://exoteriska.se/
 
+- entry: 1236683445
+  orgName: Gamla Upsala Hembygdsförening
+  orgNumber: 817602-9117
+  comment: null
+  categories:
+  - förening
+  - hembygdsförening
+  web: https://www.hembygd.se/gamla-upsala
+
 - entry: 1236683726
   orgName: Föreningen för Olympisk Kortdistansskjutning FOK Borås
   orgNumber: 864501-6562
@@ -12070,6 +12150,16 @@ entries:
   - restaurant
   - sushi
   web: https://www.eskilstunasushibar.se/
+
+- entry: 1236827851
+  orgName: Östra SK Jönköping
+  orgNumber: 826001-1609
+  comment: Marknad
+  categories:
+  - fotboll
+  - idrottsförening
+  - innebandy
+  web: https://www.ostra.nu/
 
 - entry: 1236873228
   orgName: Skepplanda BTK

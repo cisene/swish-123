@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-04-rev-173135",
+    "date": "2022-04-04-rev-230108",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1331,6 +1331,18 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.al-anon.se/"
+    },
+    {
+      "entry": 1230837476,
+      "orgNumber": "826001-1609",
+      "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
+      "comment": "Caf\u00e9",
+      "categories": [
+        "fotboll",
+        "idrottsf\u00f6rening",
+        "innebandy"
+      ],
+      "web": "https://www.ostra.nu/"
     },
     {
       "entry": 1230838482,
@@ -2679,6 +2691,21 @@
       "web": "https://hedemorapingst.se/"
     },
     {
+      "entry": 1231476142,
+      "orgNumber": "826000-4901",
+      "orgName": "\u00d6lmstad IS",
+      "categories": [
+        "bordtennis",
+        "fotboll",
+        "gym",
+        "gymnastik",
+        "idrottsf\u00f6rening",
+        "innebandy",
+        "skidor"
+      ],
+      "web": "https://www.olmstad-is.se/"
+    },
+    {
       "entry": 1231477074,
       "orgNumber": "857204-0544",
       "orgName": "Kroatiska F\u00f6reningen VELEBIT",
@@ -2914,6 +2941,15 @@
         "hundklubb"
       ],
       "web": "https://www.norrataxklubben.se/"
+    },
+    {
+      "entry": 1231557545,
+      "orgNumber": "916472-0220",
+      "orgName": "Fjellfotografen Tomas Johansson HB",
+      "categories": [
+        "fotograf"
+      ],
+      "web": "http://www.fjellfotografen.se/"
     },
     {
       "entry": 1231561703,
@@ -7641,6 +7677,18 @@
       "web": "https://skiftet.org/"
     },
     {
+      "entry": 1233956570,
+      "orgNumber": "826001-1609",
+      "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
+      "comment": "Ungdom",
+      "categories": [
+        "fotboll",
+        "idrottsf\u00f6rening",
+        "innebandy"
+      ],
+      "web": "https://www.ostra.nu/"
+    },
+    {
       "entry": 1233962404,
       "orgNumber": "556725-8537",
       "orgName": "Blomsterhuset Ull\u00e5nger",
@@ -7745,6 +7793,18 @@
         "pistolskytteklubb"
       ],
       "web": "http://www.torupspistolklubb.org/"
+    },
+    {
+      "entry": 1234018909,
+      "orgNumber": "826001-1609",
+      "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
+      "comment": "Dam",
+      "categories": [
+        "fotboll",
+        "idrottsf\u00f6rening",
+        "innebandy"
+      ],
+      "web": "https://www.ostra.nu/"
     },
     {
       "entry": 1234029088,
@@ -9722,6 +9782,16 @@
       "web": "http://www.equmeniakyrkangrabo.se/"
     },
     {
+      "entry": 1235111638,
+      "orgNumber": "829502-7471",
+      "orgName": "V\u00e4xj\u00f6 IBK Utveckling",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.laget.se/VaxjoIBKU/"
+    },
+    {
       "entry": 1235111828,
       "orgNumber": "802420-3021",
       "orgName": "B\u00f6net\u00e5get",
@@ -10508,6 +10578,18 @@
         "f\u00e5gelklubb"
       ],
       "web": "https://nidingen.gof.nu/"
+    },
+    {
+      "entry": 1235444757,
+      "orgNumber": "826001-1609",
+      "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
+      "comment": "Herr",
+      "categories": [
+        "fotboll",
+        "idrottsf\u00f6rening",
+        "innebandy"
+      ],
+      "web": "https://www.ostra.nu/"
     },
     {
       "entry": 1235446422,
@@ -12949,6 +13031,16 @@
       "web": "https://exoteriska.se/"
     },
     {
+      "entry": 1236683445,
+      "orgNumber": "817602-9117",
+      "orgName": "Gamla Upsala Hembygdsf\u00f6rening",
+      "categories": [
+        "f\u00f6rening",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/gamla-upsala"
+    },
+    {
       "entry": 1236683726,
       "orgNumber": "864501-6562",
       "orgName": "F\u00f6reningen f\u00f6r Olympisk Kortdistansskjutning FOK Bor\u00e5s",
@@ -13244,6 +13336,18 @@
         "sushi"
       ],
       "web": "https://www.eskilstunasushibar.se/"
+    },
+    {
+      "entry": 1236827851,
+      "orgNumber": "826001-1609",
+      "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
+      "comment": "Marknad",
+      "categories": [
+        "fotboll",
+        "idrottsf\u00f6rening",
+        "innebandy"
+      ],
+      "web": "https://www.ostra.nu/"
     },
     {
       "entry": 1236873228,
