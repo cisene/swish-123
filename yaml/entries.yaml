@@ -380,6 +380,14 @@ entries:
   - utbildning
   web: https://www.togetherforbetter.se/
 
+- entry: 1230263103
+  orgName: Stiftelsen Hemmet Vid Vägen
+  orgNumber: 802012-0880
+  comment: null
+  categories:
+  - stiftelse
+  web: https://hemmetvidvagen.se/
+
 - entry: 1230279372
   orgName: Starlight Psykologi AB
   orgNumber: 559293-8251
@@ -459,6 +467,15 @@ entries:
   - katthem
   web: https://katthemmetoskarshamn.se/
 
+- entry: 1230336289
+  orgName: Föreningen Förvildade Katter, FFK
+  orgNumber: 802439-0984
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://forvildadekatter.se/
+
 - entry: 1230337048
   orgName: Eksjö RC Klubb - Bilsport
   orgNumber: 802456-7581
@@ -476,6 +493,16 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Nykoping/
+
+- entry: 1230350033
+  orgName: Insamlingsstiftelsen Midnattssolens Trädgård
+  orgNumber: 802481-8802
+  comment: null
+  categories:
+  - intresseorganisation
+  - naturvård
+  - stiftelse
+  web: https://linnesamfundetpolcirkeln.se/
 
 - entry: 1230362046
   orgName: Millesgårdens Vänner
@@ -989,6 +1016,16 @@ entries:
   - förbund
   web: http://www.gulabandet.se/
 
+- entry: 1230712232
+  orgName: Mitt Livs Val Insamlingsstiftelse
+  orgNumber: 802479-0183
+  comment: null
+  categories:
+  - stiftelse
+  - utbildning
+  - yrkesutbildning
+  web: https://www.mittlivsval.com/
+
 - entry: 1230714378
   orgName: Alvesta SOK - Skidor
   orgNumber: 829501-4313
@@ -1421,6 +1458,15 @@ entries:
   - stiftelse
   web: https://www.smdf.se/
 
+- entry: 1230919860
+  orgName: Svensk-Albanska Nätverket, SAN
+  orgNumber: 802516-2655
+  comment: null
+  categories:
+  - hemlandsförening
+  - intresseförening
+  web: https://www.svenskalbanska.se/
+
 - entry: 1230923334
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -1565,10 +1611,11 @@ entries:
   web: http://www.tenhult.pingst.se/
 
 - entry: 1231008457
-  orgName: Församlingsfakulteten
+  orgName: Församlingsfakulteten, FFG
   orgNumber: 857200-3666
   comment: null
-  categories: null
+  categories:
+  - religion
   web: https://ffg.se/
 
 - entry: 1231022490
@@ -1706,6 +1753,15 @@ entries:
   categories:
   - religion
   web: https://www.imkorebro.se/
+
+- entry: 1231083948
+  orgName: Mäster Olofsgården
+  orgNumber: 802006-0730
+  comment: null
+  categories:
+  - barnverksamhet
+  - ungdomsverksamhet
+  web: https://www.masterolofsgarden.se/
 
 - entry: 1231089556
   orgName: Västerås BK - Brottning
@@ -3456,6 +3512,24 @@ entries:
   - idrottsförening
   web: https://www.avestaok.se/
 
+- entry: 1231961747
+  orgName: Föreningen Valhalla-Lokalen
+  orgNumber: 889600-6882
+  comment: null
+  categories:
+  - förening
+  web: http://dromme.se/
+
+- entry: 1231962489
+  orgName: Rengsjö Fiskevårdsområdesförening
+  orgNumber: 886500-2946
+  comment: null
+  categories:
+  - förening
+  - naturvård
+  - sportfiske
+  web: http://www.rengsjofiske.se/
+
 - entry: 1231963024
   orgName: Imam Ali Islamic Center
   orgNumber: 802465-6913
@@ -3626,6 +3700,15 @@ entries:
   categories:
   - religion
   web: null
+
+- entry: 1232011104
+  orgName: Föreningen End Ecocide
+  orgNumber: 802499-8067
+  comment: null
+  categories:
+  - förening
+  - naturvård
+  web: https://endecocide.se/
 
 - entry: 1232014462
   orgName: Kulturföreningen Vasaplan
@@ -4171,6 +4254,14 @@ entries:
   - djurskydd
   web: https://www.djurensvanner.se/goteborg
 
+- entry: 1232259224
+  orgName: Föreningen Gotlands Fornvänner
+  orgNumber: 834000-1042
+  comment: null
+  categories:
+  - förening
+  web: https://www.gotlandsmuseum.se/
+
 - entry: 1232261121
   orgName: MC-Kompaniet i Väring AB
   orgNumber: 556131-6026
@@ -4353,6 +4444,14 @@ entries:
   - idrottsförening
   - orientering
   web: https://www.piteaifok.se/
+
+- entry: 1232363422
+  orgName: Plexus Vänner
+  orgNumber: 802467-0567
+  comment: null
+  categories:
+  - förening
+  web: https://plexusvanner.se/
 
 - entry: 1232370112
   orgName: GolfUppsala AB
@@ -4621,6 +4720,15 @@ entries:
   - trafikskola
   web: https://www.staffanstrafikskola.se/
 
+- entry: 1232512077
+  orgName: Älekulla Bygdegårdsförening-Byalag
+  orgNumber: 802532-4578
+  comment: null
+  categories:
+  - byalag
+  - bygdegårdsförening
+  web: http://alekullabyalag.hemsida24.se/
+
 - entry: 1232523140
   orgName: Brf Linero I Lund
   orgNumber: 745000-3871
@@ -4781,6 +4889,15 @@ entries:
   - innebandy
   - innebandyklubb
   web: https://www.laget.se/FBCBOLLNAS/
+
+- entry: 1232634244
+  orgName: Stiftelsen Spinalis
+  orgNumber: 802016-8285
+  comment: null
+  categories:
+  - neurohälsa
+  - stiftelse
+  web: https://spinalis.se/
 
 - entry: 1232658102
   orgName: Roslagens MHF Ungdom
@@ -5281,11 +5398,13 @@ entries:
   web: https://dorotea.pingst.se/
 
 - entry: 1232885267
-  orgName: Fjärilsfonden / Dravets Syndrome Association Sweden, DSAS
+  orgName: Dravets Syndrome Association Sweden, DSAS
   orgNumber: 802471-5107
-  comment: null
+  comment: Fjärilsfonden
   categories:
+  - forskning
   - hälsa
+  - intresseförening
   web: http://www.dravetssweden.se/
 
 - entry: 1232887404
@@ -6061,6 +6180,15 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://fempowerment.se/
+
+- entry: 1233311487
+  orgName: Stiftelsen Claphaminstitutet
+  orgNumber: 802426-0922
+  comment: null
+  categories:
+  - religion
+  - stiftelse
+  web: https://claphaminstitutet.se/
 
 - entry: 1233311560
   orgName: Hallstahammars Tennisklubb
@@ -7453,6 +7581,15 @@ entries:
   - juridisk hjälp
   web: http://www.advocatum.se/
 
+- entry: 1234088282
+  orgName: Sigvard och Marianne Bernadottes Forskningsstiftelse för Barnögonvård
+  orgNumber: 802016-7246
+  comment: null
+  categories:
+  - forskning
+  - stiftelse
+  web: https://www.bernadottestiftelsen.se/
+
 - entry: 1234090619
   orgName: Västerås IK Ungdom Team 09 (U13)
   orgNumber: 878000-6055
@@ -7567,6 +7704,14 @@ entries:
   categories:
   - idrottsförening
   web: http://www.sandviksik.se/
+
+- entry: 1234149811
+  orgName: Limmud Stockholm
+  orgNumber: 802438-6941
+  comment: null
+  categories:
+  - intresseorganisation
+  web: https://limmud.se/
 
 - entry: 1234170551
   orgName: Lena Prästgård Ridhus / Ove Stenson
@@ -7806,6 +7951,16 @@ entries:
   - naturvård
   - stiftelse
   web: https://www.lansstyrelsen.se/ostergotland/bo-och-leva/om-pengar/stiftelser/takernfonden.html
+
+- entry: 1234275723
+  orgName: Grönahögs IK
+  orgNumber: 865500-5703
+  comment: null
+  categories:
+  - fotboll
+  - idrottsförening
+  - skidor
+  web: https://www.gronahogsik.com/
 
 - entry: 1234275962
   orgName: Stiftelsemedel.se
@@ -8400,11 +8555,13 @@ entries:
   web: http://ujh.se/
 
 - entry: 1234595658
-  orgName: Pennyfonden / Dravets Syndrome Association Sweden, DSAS
+  orgName: Dravets Syndrome Association Sweden, DSAS
   orgNumber: 802471-5107
-  comment: null
+  comment: Pennyfonden
   categories:
+  - forskning
   - hälsa
+  - intresseförening
   web: http://www.dravetssweden.se/
 
 - entry: 1234596854
@@ -8558,6 +8715,7 @@ entries:
   comment: null
   categories:
   - hälsa
+  - intresseförening
   web: http://www.dravetssweden.se/
 
 - entry: 1234665675
@@ -9238,6 +9396,14 @@ entries:
   - grottforskning
   - speleologi
   web: https://speleo.se/
+
+- entry: 1235118500
+  orgName: Förebildarna / Ung Handlingskraft Göteborg
+  orgNumber: 802498-6146
+  comment: null
+  categories:
+  - utbildning
+  web: https://forebildarna.se/
 
 - entry: 1235118542
   orgName: Solanderföreningen
@@ -10128,7 +10294,8 @@ entries:
   orgName: Senorens Missionshus
   orgNumber: 935000-3928
   comment: null
-  categories: null
+  categories:
+  - religion
   web: http://www.senorensmissionshus.se/
 
 - entry: 1235528237
@@ -10155,8 +10322,8 @@ entries:
   orgNumber: 873201-9602
   comment: null
   categories:
-  - hockey
   - idrottsförening
+  - ishockeyklubb
   web: https://www.hockeyettan.se/grums-ik-hockey/
 
 - entry: 1235533393
@@ -10164,6 +10331,7 @@ entries:
   orgNumber: 802467-1201
   comment: null
   categories:
+  - npf-diagnoser
   - psykisk hälsa
   web: http://www.kungoverlivet.se/
 
@@ -10297,7 +10465,8 @@ entries:
   orgName: Wilhelm Stenhammar-Sällskapet
   orgNumber: 802503-4813
   comment: null
-  categories: null
+  categories:
+  - förening
   web: https://stenhammarsallskapet.com/
 
 - entry: 1235614268
@@ -10321,7 +10490,9 @@ entries:
   orgName: Videdals GIF
   orgNumber: 846501-6510
   comment: null
-  categories: null
+  categories:
+  - gymnastik
+  - idrottsförening
   web: https://www.videdalsgif.se/
 
 - entry: 1235615794
@@ -10364,6 +10535,15 @@ entries:
   categories:
   - ridsport
   web: https://www.ridsport.se/Distrikt/dalarnasridsportforbund/
+
+- entry: 1235624390
+  orgName: Barnombudet i Uppsala län
+  orgNumber: 817602-5198
+  comment: null
+  categories:
+  - barnkonventionen
+  - barns rättigheter
+  web: https://boiu.se/
 
 - entry: 1235624606
   orgName: Trönö Fiskevårdsförening
@@ -10946,6 +11126,14 @@ entries:
   - utbildning
   web: https://www.4h.se/eolshall/
 
+- entry: 1235952239
+  orgName: Sverige-Amerika Stiftelsen
+  orgNumber: 802006-3676
+  comment: null
+  categories:
+  - stiftelse
+  web: https://sweamfo.se/
+
 - entry: 1235953088
   orgName: Skinnsbergs Atletklubb
   orgNumber: 817607-1135
@@ -11439,6 +11627,24 @@ entries:
   - donation
   - utbildning
   web: https://utbildningsfonden.org/
+
+- entry: 1236182463
+  orgName: Insamlingsstiftelsen för medicinsk forskning vid Umeå universitet
+  orgNumber: 894003-1977
+  comment: Infektionsforskning
+  categories:
+  - forskning
+  - stiftelse
+  web: https://stodforskning.umu.se/
+
+- entry: 1236182521
+  orgName: Insamlingsstiftelsen för medicinsk forskning vid Umeå universitet
+  orgNumber: 894003-1977
+  comment: Medicinsk forskning
+  categories:
+  - forskning
+  - stiftelse
+  web: https://stodforskning.umu.se/
 
 - entry: 1236188247
   orgName: Svenska Djurambulansen
@@ -12453,6 +12659,14 @@ entries:
   - bilvård
   web: http://www.ctaservice.se/
 
+- entry: 1236777494
+  orgName: Stiftelsen Torghuset
+  orgNumber: 828500-5321
+  comment: null
+  categories:
+  - stiftelse
+  web: https://www.torghuset.se/
+
 - entry: 1236779201
   orgName: Föreningen För Katekumenatet
   orgNumber: 802450-5987
@@ -12922,6 +13136,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.uppsalacancerfond.se/
 
 - entry: 1239000548
@@ -12947,6 +13162,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.chiparamba.com/
 
 - entry: 1239000597
@@ -12955,6 +13171,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.barndiabetesfonden.se/
 
 - entry: 1239000621
@@ -13810,6 +14027,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.hjartfonden.com/
 
 - entry: 1239002635
@@ -14509,6 +14727,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.humanbridge.se/
 
 - entry: 1239004193
@@ -14526,6 +14745,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.stiftelsenbrodet.se/
 
 - entry: 1239004219
@@ -14534,6 +14754,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.blodcancerforbundet.se/blodcancerfonden
 
 - entry: 1239004243
@@ -14550,6 +14771,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.childfriend.se/
 
 - entry: 1239004284
@@ -15156,7 +15378,9 @@ entries:
   orgNumber: 802016-7246
   comment: null
   categories:
+  - forskning
   - insamlingskontroll
+  - stiftelse
   web: https://www.bernadottestiftelsen.se/
 
 - entry: 1239005505
@@ -15166,6 +15390,7 @@ entries:
   categories:
   - cancer
   - insamlingskontroll
+  - stiftelse
   web: https://www.vastmanlandscancerfond.se/
 
 - entry: 1239005521
@@ -15174,6 +15399,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.regnbagsfonden.org/
 
 - entry: 1239005547
@@ -15182,6 +15408,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.warchild.se/
 
 - entry: 1239005554
@@ -15190,6 +15417,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.laxhjalpen.se/
 
 - entry: 1239005562
@@ -15223,6 +15451,7 @@ entries:
   categories:
   - insamling
   - insamlingskontroll
+  - stiftelse
   - välgörenhet
   web: https://www.agrenska.se/sallsyntafonden/
 
@@ -15233,6 +15462,7 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
+  - stiftelse
   web: https://www.newlifemission.se/
 
 - entry: 1239005620
@@ -15248,6 +15478,7 @@ entries:
   orgNumber: 802000-9232
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
   web: https://www.fn.se/
 
@@ -15265,6 +15496,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.stiftelsenchoice.se/
 
 - entry: 1239005703
@@ -15273,6 +15505,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.espersenfoundation.se/
 
 - entry: 1239005729
@@ -15299,6 +15532,7 @@ entries:
   categories:
   - hjälporganisation
   - insamlingskontroll
+  - stiftelse
   web: https://www.barninod.com/
 
 - entry: 1239005760
@@ -15307,6 +15541,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.perusvanner.se/
 
 - entry: 1239005778
@@ -15325,6 +15560,7 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
+  - stiftelse
   web: https://www.fryshuset.se/
 
 - entry: 1239005794
@@ -15349,6 +15585,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.nrc.se/
 
 - entry: 1239005836
@@ -15380,6 +15617,7 @@ entries:
   orgNumber: 802010-4264
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
   web: https://bröstcancerförbundet.se/
 
@@ -15390,6 +15628,7 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
+  - stiftelse
   web: https://www.baltcsalmonfund.com/
 
 - entry: 1239005943
@@ -15422,6 +15661,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.dispurse.org/
 
 - entry: 1239006008
@@ -15438,6 +15678,7 @@ entries:
   orgNumber: 802002-6806
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
   - overifierad
   web: https://www.tradgard.org/
@@ -15463,6 +15704,7 @@ entries:
   orgNumber: 802452-1786
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
   web: https://www.noaksark.org/
 
@@ -15489,6 +15731,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.rfsuinsamling.se/
 
 - entry: 1239006107
@@ -15496,6 +15739,7 @@ entries:
   orgNumber: 802006-2181
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
   - overifierad
   web: https://www.hembygd.se/
@@ -15515,6 +15759,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.einhornfoundation.se/
 
 - entry: 1239006172
@@ -15559,6 +15804,7 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
+  - stiftelse
   web: https://www.rfsuinsamling.se/
 
 - entry: 1239006222
@@ -15568,6 +15814,7 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
+  - stiftelse
   web: https://www.rfsuinsamling.se/
 
 - entry: 1239006248
@@ -15576,6 +15823,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.lozafoundation.org/
 
 - entry: 1239006255
@@ -15610,6 +15858,7 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
+  - stiftelse
   web: https://wwww.nordensark.se/
 
 - entry: 1239006305
@@ -15627,6 +15876,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.desertflower.se/
 
 - entry: 1239006347
@@ -15635,6 +15885,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.musikbojen.org/
 
 - entry: 1239006362
@@ -15662,6 +15913,7 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
+  - stiftelse
   web: https://www.berattarministeriet.se/
 
 - entry: 1239006404
@@ -15686,6 +15938,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.caminulfelix.se/
 
 - entry: 1239006503
@@ -15693,6 +15946,7 @@ entries:
   orgNumber: 857209-1422
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
   web: https://www.prostatacancerforbundet.se/
 
@@ -15727,6 +15981,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.hospice.se/
 
 - entry: 1239006594
@@ -15769,6 +16024,7 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
+  - stiftelse
   web: https://www.rewilding-sweden.com/
 
 - entry: 1239006669
