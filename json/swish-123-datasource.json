@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-06-rev-212039",
+    "date": "2022-04-07-rev-014026",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -587,6 +587,16 @@
         "logi"
       ],
       "web": "https://mariaslogi.se/"
+    },
+    {
+      "entry": 1230365882,
+      "orgNumber": "012070-9027",
+      "orgName": "Kronobergs Dreverklubb",
+      "categories": [
+        "hund",
+        "hundklubb"
+      ],
+      "web": "https://kronobergsdk.se/"
     },
     {
       "entry": 1230366930,
@@ -1566,6 +1576,15 @@
       "web": "https://www.arsundaif.se/"
     },
     {
+      "entry": 1230883116,
+      "orgNumber": "559220-4092",
+      "orgName": "Deila och d\u00e5tiden AB",
+      "categories": [
+        "guidade turer"
+      ],
+      "web": "https://deilaochdatiden.se/"
+    },
+    {
       "entry": 1230898692,
       "orgNumber": "882000-0407",
       "orgName": "Filadelfiaf\u00f6rsamlingen Avesta",
@@ -1682,6 +1701,16 @@
       "web": "https://www.ragundaskoterklubb.com/"
     },
     {
+      "entry": 1230938324,
+      "orgNumber": "826000-0743",
+      "orgName": "Pingstf\u00f6rsamlingen Tenhult",
+      "comment": "Fika, l\u00e4ger, \u00f6vrigt",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.tenhult.pingst.se/"
+    },
+    {
       "entry": 1230941179,
       "orgNumber": "690131-XXXX",
       "orgName": "Kalvbergs\u00e5sens Islandsh\u00e4star",
@@ -1766,6 +1795,16 @@
         "skidskytte"
       ],
       "web": "https://www.svaideroma.se/"
+    },
+    {
+      "entry": 1231008192,
+      "orgNumber": "826000-0743",
+      "orgName": "Pingstf\u00f6rsamlingen Tenhult",
+      "comment": "F\u00f6rsamlingskassan",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.tenhult.pingst.se/"
     },
     {
       "entry": 1231008457,
@@ -1875,6 +1914,16 @@
       "web": "http://pannkakskyrkan.se/"
     },
     {
+      "entry": 1231063056,
+      "orgNumber": "551215-XXXX",
+      "orgName": "Jennebo Radio / Stenskott Productions",
+      "categories": [
+        "lokalradio",
+        "podcast"
+      ],
+      "web": "https://www.jenneboradio.se/"
+    },
+    {
       "entry": 1231063916,
       "orgNumber": "802455-2138",
       "orgName": "Liding\u00f6 Kvinnojour",
@@ -1911,6 +1960,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.saffletrollingklubb.com/"
+    },
+    {
+      "entry": 1231079128,
+      "orgNumber": "875000-4502",
+      "orgName": "Baptistf\u00f6rsamlingen Immanuel",
+      "comment": "kyrkfonden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.imkorebro.se/"
     },
     {
       "entry": 1231083948,
@@ -2381,6 +2440,15 @@
       "web": "http://www.yogalistic.se/"
     },
     {
+      "entry": 1231247733,
+      "orgNumber": "769619-2181",
+      "orgName": "Hur kan vi? / Navid Modiri & Gudarna Ekonomisk f\u00f6rening",
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://www.hurkanvi.se/"
+    },
+    {
       "entry": 1231251412,
       "orgNumber": "556306-9151",
       "orgName": "Seriesam AB",
@@ -2418,6 +2486,16 @@
         "intresseorganisation"
       ],
       "web": "https://retinanytt.se/"
+    },
+    {
+      "entry": 1231268283,
+      "orgNumber": "780302-XXXX",
+      "orgName": "Elins Glashus / Sensibelle",
+      "categories": [
+        "musik",
+        "s\u00e5ng"
+      ],
+      "web": "https://elinorebrand.se/elins-glashus/"
     },
     {
       "entry": 1231290329,
@@ -2836,6 +2914,19 @@
         "religion"
       ],
       "web": "https://hedemorapingst.se/"
+    },
+    {
+      "entry": 1231476001,
+      "orgNumber": "874000-1279",
+      "orgName": "V\u00e4stra \u00c4mterviks IF",
+      "categories": [
+        "cykelbana",
+        "idrottsf\u00f6rening",
+        "innebandy",
+        "l\u00e4ngdskid\u00e5kning",
+        "tennis",
+        "volleyboll"
+      ]
     },
     {
       "entry": 1231476142,
@@ -3667,6 +3758,16 @@
       "web": "https://www.hrimfaxi.se/"
     },
     {
+      "entry": 1231814482,
+      "orgNumber": "828001-0359",
+      "orgName": "Sveriges Veteranf\u00f6rbund, SVF",
+      "categories": [
+        "f\u00f6rbund",
+        "f\u00f6rening"
+      ],
+      "web": "https://www.sverigesveteranforbund.se/"
+    },
+    {
       "entry": 1231818475,
       "orgNumber": "802001-9371",
       "orgName": "Kyrklig Samling",
@@ -3966,6 +4067,16 @@
       "web": "https://skargardsstiftelsen.se/"
     },
     {
+      "entry": 1231993955,
+      "orgNumber": "875000-4502",
+      "orgName": "Immanuelskyrkan i \u00d6rebro",
+      "comment": "f\u00f6rsamlingsverksamheten",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.imkorebro.se/"
+    },
+    {
       "entry": 1231994151,
       "orgNumber": "012469-6816",
       "orgName": "Soten\u00e4s Hundklubb",
@@ -4236,6 +4347,16 @@
       "web": "https://hillsong.com/sweden/"
     },
     {
+      "entry": 1232095313,
+      "orgNumber": "802498-6377",
+      "orgName": "Centrala Soldatregistret / Soldatregistrets St\u00f6df\u00f6rening",
+      "categories": [
+        "genealogi",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://www.soldatreg.se/"
+    },
+    {
       "entry": 1232098689,
       "orgNumber": "802466-2713",
       "orgName": "Clarajouren - Kvinnojouren i \u00c5rj\u00e4ng",
@@ -4328,6 +4449,17 @@
       "web": "https://sergel.se/"
     },
     {
+      "entry": 1232156578,
+      "orgNumber": "802517-9865",
+      "orgName": "F\u00f6reningen Fj\u00e4rilar i Pite Lappmark",
+      "categories": [
+        "entomologi",
+        "f\u00f6rening",
+        "sm\u00e5kryp"
+      ],
+      "web": "https://ffpl.weebly.com/"
+    },
+    {
       "entry": 1232163632,
       "orgNumber": "802522-3945",
       "orgName": "Storasystrarna",
@@ -4388,6 +4520,15 @@
         "religion"
       ],
       "web": "https://heligahjartaskloster.se/"
+    },
+    {
+      "entry": 1232183515,
+      "orgNumber": "864500-2125",
+      "orgName": "Pingstf\u00f6rsamlingen Filadelfia Bor\u00e5s",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://boraspingst.se/"
     },
     {
       "entry": 1232183887,
@@ -4714,6 +4855,16 @@
       "web": "https://umea.pingst.se/"
     },
     {
+      "entry": 1232285021,
+      "orgNumber": "855900-9389",
+      "orgName": "Pingstf\u00f6rsamlingen I Trollh\u00e4ttan",
+      "categories": [
+        "donation",
+        "religion"
+      ],
+      "web": "https://www.trollhattanpingst.se/"
+    },
+    {
       "entry": 1232289437,
       "orgNumber": "802000-8713",
       "orgName": "Tyres\u00f6 Pingstkyrka",
@@ -4872,6 +5023,17 @@
         "religion"
       ],
       "web": "https://www.brannkyrka.org/"
+    },
+    {
+      "entry": 1232371508,
+      "orgNumber": "894000-4792",
+      "orgName": "Idrottsklubben Studenterna I Ume\u00e5 IKSU",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "l\u00e4gerverksamhet",
+        "l\u00e4ngdskid\u00e5kning"
+      ],
+      "web": "https://www.iksu.se/"
     },
     {
       "entry": 1232375319,
@@ -6370,6 +6532,17 @@
       "web": "https://kvinnojourenblenda.se/"
     },
     {
+      "entry": 1233139581,
+      "orgNumber": "556459-4280",
+      "orgName": "Gremo Maskinservice AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "serviceverkstad",
+        "skogsmaskiner"
+      ],
+      "web": "http://www.gremo.se/"
+    },
+    {
       "entry": 1233139763,
       "orgNumber": "769612-9373",
       "orgName": "B\u00e5t & Byggnadsv\u00e5rd i Roslagen",
@@ -7040,6 +7213,15 @@
         "religion"
       ],
       "web": "http://www.lulea.pingst.se/"
+    },
+    {
+      "entry": 1233431475,
+      "orgNumber": "894000-0345",
+      "orgName": "Pingst Ume\u00e5",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://umea.pingst.se/"
     },
     {
       "entry": 1233431483,
@@ -8754,6 +8936,16 @@
       "web": "https://www.fralsningsarmen.se/sundsvall/"
     },
     {
+      "entry": 1234279600,
+      "orgNumber": "826000-0743",
+      "orgName": "Pingstf\u00f6rsamlingen Tenhult",
+      "comment": "Fastighetskassan",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.tenhult.pingst.se/"
+    },
+    {
       "entry": 1234279618,
       "orgNumber": "802468-3149",
       "orgName": "Svenska Newfoundlandshundklubben",
@@ -9282,6 +9474,16 @@
       "web": "http://www.sandviksik.se/"
     },
     {
+      "entry": 1234537676,
+      "orgNumber": "826000-0743",
+      "orgName": "Pingstf\u00f6rsamlingen Tenhult",
+      "comment": "Missionskassan",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.tenhult.pingst.se/"
+    },
+    {
       "entry": 1234542304,
       "orgNumber": "858501-0781",
       "orgName": "F\u00f6reningen Backamo V\u00e4nner",
@@ -9802,6 +10004,15 @@
       "web": "https://www.partillegk.se/"
     },
     {
+      "entry": 1234832069,
+      "orgNumber": "802514-0123",
+      "orgName": "Alternativ f\u00f6r Sverige",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://alternativforsverige.se/"
+    },
+    {
       "entry": 1234834370,
       "orgNumber": "802454-7682",
       "orgName": "Rydaholms Frikyrka",
@@ -10123,6 +10334,16 @@
         "religion"
       ],
       "web": "https://www.pingstmjolby.se/"
+    },
+    {
+      "entry": 1235039789,
+      "orgNumber": "846003-5879",
+      "orgName": "Handelsbankens Fadderbarnsfond",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "utbildning"
+      ],
+      "web": "http://fadderbarnsfonden.se/"
     },
     {
       "entry": 1235047709,

@@ -524,10 +524,11 @@ entries:
 
 - entry: 1230365882
   orgName: Kronobergs Dreverklubb
-  orgNumber: null
+  orgNumber: 012070-9027
   comment: null
   categories:
   - hund
+  - hundklubb
   web: https://kronobergsdk.se/
 
 - entry: 1230366930
@@ -822,7 +823,8 @@ entries:
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - overifierad
   web: null
 
 - entry: 1230537001
@@ -1407,7 +1409,7 @@ entries:
 
 - entry: 1230883116
   orgName: Deila och dåtiden AB
-  orgNumber: 5592204092
+  orgNumber: 559220-4092
   comment: null
   categories:
   - guidade turer
@@ -1519,7 +1521,7 @@ entries:
 
 - entry: 1230938324
   orgName: Pingstförsamlingen Tenhult
-  orgNumber: 8260000743
+  orgNumber: 826000-0743
   comment: Fika, läger, övrigt
   categories:
   - religion
@@ -1604,7 +1606,7 @@ entries:
 
 - entry: 1231008192
   orgName: Pingstförsamlingen Tenhult
-  orgNumber: 8260000743
+  orgNumber: 826000-0743
   comment: Församlingskassan
   categories:
   - religion
@@ -1704,12 +1706,12 @@ entries:
   web: http://pannkakskyrkan.se/
 
 - entry: 1231063056
-  orgName: Jennebo Radio
-  orgNumber: null
+  orgName: Jennebo Radio / Stenskott Productions
+  orgNumber: 551215-XXXX
   comment: null
   categories:
+  - lokalradio
   - podcast
-  - radio
   web: https://www.jenneboradio.se/
 
 - entry: 1231063916
@@ -1747,8 +1749,8 @@ entries:
   web: https://www.saffletrollingklubb.com/
 
 - entry: 1231079128
-  orgName: Immanuelskyrkan i Örebro
-  orgNumber: null
+  orgName: Baptistförsamlingen Immanuel
+  orgNumber: 875000-4502
   comment: kyrkfonden
   categories:
   - religion
@@ -2170,8 +2172,8 @@ entries:
   web: http://www.yogalistic.se/
 
 - entry: 1231247733
-  orgName: Hur kan vi?
-  orgNumber: null
+  orgName: Hur kan vi? / Navid Modiri & Gudarna Ekonomisk förening
+  orgNumber: 769619-2181
   comment: null
   categories:
   - podcast
@@ -2213,11 +2215,12 @@ entries:
   web: https://retinanytt.se/
 
 - entry: 1231268283
-  orgName: Elins Glashus
-  orgNumber: null
+  orgName: Elins Glashus / Sensibelle
+  orgNumber: 780302-XXXX
   comment: null
   categories:
   - musik
+  - sång
   web: https://elinorebrand.se/elins-glashus/
 
 - entry: 1231290329
@@ -2598,11 +2601,16 @@ entries:
   web: https://hedemorapingst.se/
 
 - entry: 1231476001
-  orgName: Fryksdalshöjden
-  orgNumber: null
+  orgName: Västra Ämterviks IF
+  orgNumber: 874000-1279
   comment: null
   categories:
+  - cykelbana
+  - idrottsförening
+  - innebandy
   - längdskidåkning
+  - tennis
+  - volleyboll
   web: null
 
 - entry: 1231476142
@@ -3345,8 +3353,8 @@ entries:
   web: https://www.hrimfaxi.se/
 
 - entry: 1231814482
-  orgName: Sveriges Veteranförbund (SVF)
-  orgNumber: null
+  orgName: Sveriges Veteranförbund, SVF
+  orgNumber: 828001-0359
   comment: null
   categories:
   - förbund
@@ -3616,7 +3624,7 @@ entries:
 
 - entry: 1231993955
   orgName: Immanuelskyrkan i Örebro
-  orgNumber: null
+  orgNumber: 875000-4502
   comment: församlingsverksamheten
   categories:
   - religion
@@ -3866,7 +3874,7 @@ entries:
 
 - entry: 1232095313
   orgName: Centrala Soldatregistret / Soldatregistrets Stödförening
-  orgNumber: 8024986377
+  orgNumber: 802498-6377
   comment: null
   categories:
   - genealogi
@@ -3956,7 +3964,7 @@ entries:
 
 - entry: 1232156578
   orgName: Föreningen Fjärilar i Pite Lappmark
-  orgNumber: 8025179865
+  orgNumber: 802517-9865
   comment: null
   categories:
   - entomologi
@@ -4022,7 +4030,7 @@ entries:
 
 - entry: 1232183515
   orgName: Pingstförsamlingen Filadelfia Borås
-  orgNumber: 8645002125
+  orgNumber: 864500-2125
   comment: null
   categories:
   - religion
@@ -4324,7 +4332,7 @@ entries:
 
 - entry: 1232285021
   orgName: Pingstförsamlingen I Trollhättan
-  orgNumber: 8559009389
+  orgNumber: 855900-9389
   comment: null
   categories:
   - donation
@@ -4472,7 +4480,7 @@ entries:
 
 - entry: 1232371508
   orgName: Idrottsklubben Studenterna I Umeå IKSU
-  orgNumber: 8940004792
+  orgNumber: 894000-4792
   comment: null
   categories:
   - idrottsförening
@@ -5819,7 +5827,7 @@ entries:
 
 - entry: 1233139581
   orgName: Gremo Maskinservice AB
-  orgNumber: 5564594280
+  orgNumber: 556459-4280
   comment: null
   categories:
   - försäljning
@@ -6449,10 +6457,11 @@ entries:
   web: http://www.lulea.pingst.se/
 
 - entry: 1233431475
-  orgName: null
-  orgNumber: null
+  orgName: Pingst Umeå
+  orgNumber: 894000-0345
   comment: null
-  categories: null
+  categories:
+  - religion
   web: https://umea.pingst.se/
 
 - entry: 1233431483
@@ -7995,7 +8004,7 @@ entries:
 
 - entry: 1234279600
   orgName: Pingstförsamlingen Tenhult
-  orgNumber: 8260000743
+  orgNumber: 826000-0743
   comment: Fastighetskassan
   categories:
   - religion
@@ -8470,7 +8479,7 @@ entries:
 
 - entry: 1234537676
   orgName: Pingstförsamlingen Tenhult
-  orgNumber: 8260000743
+  orgNumber: 826000-0743
   comment: Missionskassan
   categories:
   - religion
@@ -8940,7 +8949,7 @@ entries:
 
 - entry: 1234832069
   orgName: Alternativ för Sverige
-  orgNumber: 8025140123
+  orgNumber: 802514-0123
   comment: null
   categories:
   - politiskt parti
@@ -9232,6 +9241,15 @@ entries:
   categories:
   - religion
   web: https://www.pingstmjolby.se/
+
+- entry: 1235039789
+  orgName: Handelsbankens Fadderbarnsfond
+  orgNumber: 846003-5879
+  comment: null
+  categories:
+  - hjälporganisation
+  - utbildning
+  web: http://fadderbarnsfonden.se/
 
 - entry: 1235047709
   orgName: Syntolkning Nu i Sverige Ekonomisk förening
