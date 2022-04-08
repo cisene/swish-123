@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-07-rev-014026",
+    "date": "2022-04-09-rev-013821",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -536,6 +536,17 @@
       "web": "https://forvildadekatter.se/"
     },
     {
+      "entry": 1230336826,
+      "orgNumber": "818000-1029",
+      "orgName": "Eskilstuna GUIF IF",
+      "comment": "Garderob",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.guif.nu/"
+    },
+    {
       "entry": 1230337048,
       "orgNumber": "802456-7581",
       "orgName": "Eksj\u00f6 RC Klubb - Bilsport",
@@ -659,6 +670,15 @@
       "web": "http://ontraining.se/"
     },
     {
+      "entry": 1230394775,
+      "orgNumber": "556680-5528",
+      "orgName": "E-biljett / AXS Sweden AB",
+      "categories": [
+        "eventarrang\u00f6r"
+      ],
+      "web": "https://solutions.axs.com/"
+    },
+    {
       "entry": 1230395517,
       "orgNumber": "556557-5130",
       "orgName": "Bjelleforsgruppen Kontor AB",
@@ -686,6 +706,16 @@
         "politiskt parti"
       ],
       "web": "https://www.vansterpartiet.se/"
+    },
+    {
+      "entry": 1230410589,
+      "orgNumber": "818000-0468",
+      "orgName": "Eskilstuna Motorb\u00e5tsklubb, EMBK",
+      "categories": [
+        "f\u00f6rening",
+        "motorb\u00e5tsklubb"
+      ],
+      "web": "https://embk.se/"
     },
     {
       "entry": 1230411132,
@@ -1585,6 +1615,17 @@
       "web": "https://deilaochdatiden.se/"
     },
     {
+      "entry": 1230886192,
+      "orgNumber": "818000-1029",
+      "orgName": "Eskilstuna GUIF IF",
+      "comment": "Supportershop",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.guif.nu/"
+    },
+    {
       "entry": 1230898692,
       "orgNumber": "882000-0407",
       "orgName": "Filadelfiaf\u00f6rsamlingen Avesta",
@@ -1912,6 +1953,17 @@
         "religion"
       ],
       "web": "http://pannkakskyrkan.se/"
+    },
+    {
+      "entry": 1231056571,
+      "orgNumber": "818000-1029",
+      "orgName": "Eskilstuna GUIF IF",
+      "comment": "Lotterier",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.guif.nu/"
     },
     {
       "entry": 1231063056,
@@ -2704,6 +2756,17 @@
       "web": "https://naasridcenter.se/"
     },
     {
+      "entry": 1231370840,
+      "orgNumber": "818000-1029",
+      "orgName": "Eskilstuna GUIF IF",
+      "comment": "Marknadsaktivitet",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.guif.nu/"
+    },
+    {
       "entry": 1231371012,
       "orgNumber": "846502-0140",
       "orgName": "Stiftelsen Ronald McDonald Barnfond Lund",
@@ -2826,6 +2889,16 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/varnamokvinnojour/"
+    },
+    {
+      "entry": 1231432814,
+      "orgNumber": "802430-1452",
+      "orgName": "Eskilstuna Friidrottsf\u00f6rening",
+      "categories": [
+        "friidrott",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eskilstunafriidrott.se/"
     },
     {
       "entry": 1231436377,
@@ -3768,6 +3841,18 @@
       "web": "https://www.sverigesveteranforbund.se/"
     },
     {
+      "entry": 1231816495,
+      "orgNumber": "818000-5798",
+      "orgName": "Eskilstuna Motorflygklubb, EMFK",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening",
+        "motorflygklubb",
+        "sportflyg"
+      ],
+      "web": "https://www.emfk.se/"
+    },
+    {
       "entry": 1231818475,
       "orgNumber": "802001-9371",
       "orgName": "Kyrklig Samling",
@@ -4039,6 +4124,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.rengsjosk.se/"
+    },
+    {
+      "entry": 1231981703,
+      "orgNumber": "802413-3640",
+      "orgName": "Share Music & Performing Arts",
+      "categories": [
+        "kultur",
+        "musik"
+      ],
+      "web": "https://www.sharemusic.se/"
     },
     {
       "entry": 1231988302,
@@ -5392,6 +5487,19 @@
       "web": "https://www.gavlejazz.se/"
     },
     {
+      "entry": 1232580819,
+      "orgNumber": "818000-0476",
+      "orgName": "Eskilstuna Simklubb, ESK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "simklubb",
+        "simkunnighet",
+        "utbildning",
+        "vattenpolo"
+      ],
+      "web": "https://www.eskilstunasimklubb.se/"
+    },
+    {
       "entry": 1232581189,
       "orgNumber": "556722-0974",
       "orgName": "Anders Andersson Text & Konsult AB",
@@ -6002,6 +6110,16 @@
       "web": "https://www.unizonjourer.se/jarfallakvinnojour/"
     },
     {
+      "entry": 1232838936,
+      "orgNumber": "802006-4112",
+      "orgName": "Sveriges Bilk\u00e5rers Riksf\u00f6rbund",
+      "categories": [
+        "intressef\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://bilkaren.se/"
+    },
+    {
       "entry": 1232844892,
       "orgNumber": "827500-0506",
       "orgName": "Filadelfia Kvillsfors / Filadelfiaf\u00f6rsamlingen Vetlanda",
@@ -6244,6 +6362,17 @@
         "djurskydd"
       ],
       "web": "https://hundarutanhem.se/"
+    },
+    {
+      "entry": 1232990687,
+      "orgNumber": "818000-1029",
+      "orgName": "Eskilstuna GUIF IF",
+      "comment": "\u00c5-loppet",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.guif.nu/"
     },
     {
       "entry": 1233022688,
@@ -6779,6 +6908,15 @@
         "tjejjour"
       ],
       "web": "https://www.kvinnojourenlinnean.se/"
+    },
+    {
+      "entry": 1233236726,
+      "orgNumber": "827500-0662",
+      "orgName": "Stiftelsen Hjelmseryds Pr\u00e4stg\u00e5rd",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.hjelmserydsstiftelsen.nu/"
     },
     {
       "entry": 1233244779,
@@ -7444,7 +7582,8 @@
       "orgNumber": "559196-7970",
       "orgName": "Eskilstuna Trafikskola AB",
       "categories": [
-        "trafikskola"
+        "trafikskola",
+        "utbildning"
       ],
       "web": "https://eskilstunatrafikskolan.se/"
     },
@@ -7831,6 +7970,17 @@
       "web": "https://pingst.org/"
     },
     {
+      "entry": 1233791936,
+      "orgNumber": "818000-1029",
+      "orgName": "Eskilstuna GUIF IF",
+      "comment": "Entr\u00e9",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.guif.nu/"
+    },
+    {
       "entry": 1233795390,
       "orgNumber": "825003-1567",
       "orgName": "Djurskyddet Fiahemmet Norrk\u00f6ping",
@@ -8185,6 +8335,15 @@
         "religion"
       ],
       "web": "https://www.efs.nu/"
+    },
+    {
+      "entry": 1233943230,
+      "orgNumber": "802440-4371",
+      "orgName": "Sisters International",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://sisters.nu/"
     },
     {
       "entry": 1233951019,
@@ -9994,6 +10153,16 @@
       "web": "https://www.fralsningsarmen.se/faockerooarna/"
     },
     {
+      "entry": 1234805123,
+      "orgNumber": "818000-0674",
+      "orgName": "Eskilstuna Basket",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/EskilstunaBasket/"
+    },
+    {
       "entry": 1234819769,
       "orgNumber": "863500-4255",
       "orgName": "Partille Golfklubb",
@@ -10223,6 +10392,7 @@
       "orgNumber": "855100-6771",
       "orgName": "Pension\u00e4rernas BTK - Bordtennis",
       "categories": [
+        "bordtennis",
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.pbk-gbg.se/"
@@ -10242,6 +10412,7 @@
       "orgNumber": "802424-3472",
       "orgName": "Stiftelsen H\u00e4stforskning",
       "categories": [
+        "forskning",
         "stiftelse"
       ],
       "web": "https://hastforskning.se/"
@@ -10405,6 +10576,17 @@
       "web": "https://www.djurensvanner.se/boras"
     },
     {
+      "entry": 1235089966,
+      "orgNumber": "818000-1029",
+      "orgName": "Eskilstuna GUIF IF",
+      "comment": "Servering SSA",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.guif.nu/"
+    },
+    {
       "entry": 1235100128,
       "orgNumber": "556548-0406",
       "orgName": "Pantbanken Sk\u00f6vde",
@@ -10441,6 +10623,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://detfriasverige.se/"
+    },
+    {
+      "entry": 1235110358,
+      "orgNumber": "802003-5393",
+      "orgName": "Bilk\u00e5rernas Stipendie Fond RTLM-Fond",
+      "comment": "Totos fond",
+      "categories": [
+        "intressef\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://bilkaren.se/"
     },
     {
       "entry": 1235111034,
@@ -13812,6 +14005,16 @@
       "web": "http://lilloringen.se/"
     },
     {
+      "entry": 1236629273,
+      "orgNumber": "817606-9832",
+      "orgName": "Eskilstuna United DFF",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://eskilstunaunited.se/"
+    },
+    {
       "entry": 1236641807,
       "orgNumber": "802451-9277",
       "orgName": "F\u00f6reningen Ekets Framtid",
@@ -14295,6 +14498,17 @@
       "web": "https://www.alltidsedd.se/"
     },
     {
+      "entry": 1236896740,
+      "orgNumber": "556509-7341",
+      "orgName": "D\u00e4ckgubben / Transport & Lager Eskilstuna Aktiebolag",
+      "categories": [
+        "fordonsutrustning",
+        "f\u00f6rs\u00e4ljning",
+        "f\u00f6rvaring"
+      ],
+      "web": "https://www.dackgubben.net/"
+    },
+    {
       "entry": 1236899603,
       "orgNumber": "802469-3288",
       "orgName": "Aisha Center",
@@ -14446,6 +14660,17 @@
         "religion"
       ],
       "web": "https://umea.pingst.se/"
+    },
+    {
+      "entry": 1236972020,
+      "orgNumber": "818000-1029",
+      "orgName": "Eskilstuna GUIF IF",
+      "comment": "Rosabandetkampanjen",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.guif.nu/"
     },
     {
       "entry": 1236991160,
@@ -17697,6 +17922,7 @@
       "orgNumber": "815200-8317",
       "orgName": "Svenska S\u00e4llskapet f\u00f6r Medicinsk forskning",
       "categories": [
+        "forskning",
         "insamlingskontroll"
       ],
       "web": "https://www.ssmf.se/"
