@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-09-rev-013821",
+    "date": "2022-04-10-rev-124130",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1028,6 +1028,16 @@
       "web": "http://www.hoganasgf.se/"
     },
     {
+      "entry": 1230594234,
+      "orgNumber": "812800-9498",
+      "orgName": "Riksf\u00f6rbundet Ehlers-Danlos Syndrom",
+      "categories": [
+        "patientf\u00f6rbund",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://ehlers-danlos.se/"
+    },
+    {
       "entry": 1230610824,
       "orgNumber": "556632-3258",
       "orgName": "Fasching",
@@ -1037,6 +1047,16 @@
         "restaurant"
       ],
       "web": "https://www.fasching.se/"
+    },
+    {
+      "entry": 1230612176,
+      "orgNumber": "825001-4779",
+      "orgName": "Synskadades Riksf\u00f6rbund \u00d6sterg\u00f6tland",
+      "categories": [
+        "riksf\u00f6rbund",
+        "synskadad"
+      ],
+      "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/srf-ostergotland/"
     },
     {
       "entry": 1230622019,
@@ -1065,6 +1085,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://climatelive.se/"
+    },
+    {
+      "entry": 1230627174,
+      "orgNumber": "846002-3925",
+      "orgName": "Riksf\u00f6rbundet f\u00f6r Social och Mental H\u00e4lsa Mittpunkten Malm\u00f6, RSMH",
+      "categories": [
+        "mental h\u00e4lsa",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://www.rsmh-malmo.se/"
     },
     {
       "entry": 1230630194,
@@ -1374,6 +1404,16 @@
         "karateklubb"
       ],
       "web": "https://vasterasshukokai.se/"
+    },
+    {
+      "entry": 1230778050,
+      "orgNumber": "846001-9089",
+      "orgName": "Synskadades Riksf\u00f6rbund Malm\u00f6",
+      "categories": [
+        "riksf\u00f6rbund",
+        "synskadad"
+      ],
+      "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/srf-malmo/"
     },
     {
       "entry": 1230778688,
@@ -2252,6 +2292,16 @@
       "web": "https://ocdforbundet.se/"
     },
     {
+      "entry": 1231168707,
+      "orgNumber": "855100-2846",
+      "orgName": "Synskadades Riksf\u00f6rbund G\u00f6teborg",
+      "categories": [
+        "riksf\u00f6rbund",
+        "synskadad"
+      ],
+      "web": "http://www.synskadadesriksforbund.se/om-oss/distrikt-och-lokalforeningar/goteborg/"
+    },
+    {
       "entry": 1231169630,
       "orgNumber": "559082-7084",
       "orgName": "Sundbergs Busstrafik AB",
@@ -2723,6 +2773,15 @@
         "s\u00e4kerhetsutrustning"
       ],
       "web": "https://stallningsprodukter.se/"
+    },
+    {
+      "entry": 1231344498,
+      "orgNumber": "838201-5470",
+      "orgName": "Kristinehamns N\u00e4mndemannaf\u00f6rening",
+      "categories": [
+        "f\u00f6rening"
+      ],
+      "web": "https://kristianstad.nmrf.se/"
     },
     {
       "entry": 1231355189,
@@ -3514,6 +3573,17 @@
       "web": "https://www.sk4ko.com/"
     },
     {
+      "entry": 1231659978,
+      "orgNumber": "883800-2973",
+      "orgName": "Riksf\u00f6rbundet H\u00e4lsofr\u00e4mjandet",
+      "categories": [
+        "folkh\u00e4lsa",
+        "h\u00e4lsa",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://halsoframjandet.se/"
+    },
+    {
       "entry": 1231665405,
       "orgNumber": "559179-3517",
       "orgName": "Motormedlarna AB",
@@ -3752,6 +3822,15 @@
         "intresseorganisation"
       ],
       "web": "http://www.hjaggsjodrakarna.se/"
+    },
+    {
+      "entry": 1231758663,
+      "orgNumber": "822000-2805",
+      "orgName": "Link\u00f6pings Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkanlinkoping.se/"
     },
     {
       "entry": 1231758945,
@@ -5418,6 +5497,16 @@
       "web": "https://www.hsb.se/skane/brf/linero-i-lund/"
     },
     {
+      "entry": 1232523504,
+      "orgNumber": "829500-8570",
+      "orgName": "Synskadades Riksf\u00f6rbund Kronoberg",
+      "categories": [
+        "riksf\u00f6rbund",
+        "synskadad"
+      ],
+      "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/kronoberg/"
+    },
+    {
       "entry": 1232525384,
       "orgNumber": "857209-3030",
       "orgName": "OCD-f\u00f6reningen G\u00f6teborgsregionen",
@@ -5600,6 +5689,15 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/FBCBOLLNAS/"
+    },
+    {
+      "entry": 1232620292,
+      "orgNumber": "690420-XXXX",
+      "orgName": "Amrit Yoga / Jessica Ekl\u00f6f",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://amrit.se/"
     },
     {
       "entry": 1232634244,
@@ -6207,6 +6305,18 @@
       "web": "https://albylen.se/"
     },
     {
+      "entry": 1232887768,
+      "orgNumber": "883202-4668",
+      "orgName": "K\u00e4ringbergets Bystugef\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "bystuga",
+        "f\u00f6rening",
+        "lokaluthyrning"
+      ],
+      "web": "https://karingberget.se/"
+    },
+    {
       "entry": 1232894830,
       "orgNumber": "802430-4498",
       "orgName": "Brottsofferjouren \u00d6rebro L\u00e4n",
@@ -6642,6 +6752,16 @@
       "web": "https://www.filadelfiakyrkan.se/"
     },
     {
+      "entry": 1233126299,
+      "orgNumber": "846001-9790",
+      "orgName": "Synskadades Riksf\u00f6rbund Sk\u00e5ne",
+      "categories": [
+        "riksf\u00f6rbund",
+        "synskadad"
+      ],
+      "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/skane/"
+    },
+    {
       "entry": 1233131265,
       "orgNumber": "559096-1131",
       "orgName": "Cr\u00eaperiet i Lund",
@@ -6919,6 +7039,16 @@
       "web": "https://www.hjelmserydsstiftelsen.nu/"
     },
     {
+      "entry": 1233244621,
+      "orgNumber": "802005-7058",
+      "orgName": "Riksf\u00f6rbundet Vi Som Inte R\u00f6ker, Visir",
+      "categories": [
+        "folkh\u00e4lsa",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://visominteroker.se/"
+    },
+    {
       "entry": 1233244779,
       "orgNumber": "817602-9596",
       "orgName": "Armeniska riksf\u00f6rbundet i Sverige (ARS)",
@@ -7189,6 +7319,15 @@
         "politiskt parti"
       ],
       "web": "https://www.timrapartiet.se/"
+    },
+    {
+      "entry": 1233375672,
+      "orgNumber": "812400-9484",
+      "orgName": "El\u00f6verk\u00e4nsligas Riksf\u00f6rbund",
+      "categories": [
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://eloverkanslig.org/"
     },
     {
       "entry": 1233377447,
@@ -8424,6 +8563,15 @@
         "religion"
       ],
       "web": "https://heligahjartaskloster.se/"
+    },
+    {
+      "entry": 1233978145,
+      "orgNumber": "802443-5300",
+      "orgName": "Kinesiska Riksf\u00f6rbundet i Sverige",
+      "categories": [
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://www.huaren.se/"
     },
     {
       "entry": 1233984671,
@@ -11084,6 +11232,16 @@
       "web": "https://adventkyrkan.se/"
     },
     {
+      "entry": 1235267570,
+      "orgNumber": "855100-0907",
+      "orgName": "FF Synskadade Barn och Ungdomar - Parasport, FSBU",
+      "categories": [
+        "parasport",
+        "synskadad"
+      ],
+      "web": "https://www.fsbu.org/"
+    },
+    {
       "entry": 1235278106,
       "orgNumber": "869001-2318",
       "orgName": "Mariakyrkans f\u00f6rsamling Uddevalla",
@@ -11595,6 +11753,16 @@
         "religion"
       ],
       "web": "https://umea.pingst.se/"
+    },
+    {
+      "entry": 1235475389,
+      "orgNumber": "838200-3351",
+      "orgName": "Oppmanna V\u00e5nga bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "f\u00f6rening"
+      ],
+      "web": "https://brunnen.nu/"
     },
     {
       "entry": 1235476056,
@@ -12614,6 +12782,16 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://hiltiv\u00e4ster\u00e5s.se/"
+    },
+    {
+      "entry": 1235942826,
+      "orgNumber": "873201-9172",
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund Kristinehamn",
+      "categories": [
+        "h\u00f6rselskadad",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/kristinehamn/"
     },
     {
       "entry": 1235948427,
@@ -13817,6 +13995,16 @@
       "web": "https://www.hsb.se/malardalarna/brf/taget/"
     },
     {
+      "entry": 1236492466,
+      "orgNumber": "857203-8480",
+      "orgName": "Synskadades Riksf\u00f6rbund Bohusl\u00e4n",
+      "categories": [
+        "riksf\u00f6rbund",
+        "synskadad"
+      ],
+      "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/bohuslan/"
+    },
+    {
       "entry": 1236497051,
       "orgNumber": "857205-4875",
       "orgName": "\u00c5lleberg Cafe och Lunchrestaurang",
@@ -13957,6 +14145,17 @@
       "web": "https://www.hallandsslaktforskare.se/"
     },
     {
+      "entry": 1236559694,
+      "orgNumber": "802535-2835",
+      "orgName": "Gatujuristerna",
+      "categories": [
+        "f\u00f6rening",
+        "juridik",
+        "r\u00e5dgivning"
+      ],
+      "web": "https://www.gatujuristerna.com/"
+    },
+    {
       "entry": 1236581888,
       "orgNumber": "823000-8206",
       "orgName": "\u00d6desh\u00f6gs Kennelklubb",
@@ -14003,6 +14202,17 @@
         "sportfiske"
       ],
       "web": "http://lilloringen.se/"
+    },
+    {
+      "entry": 1236627285,
+      "orgNumber": "802436-6968",
+      "orgName": "Kavalleri- och J\u00e4garf\u00f6rbundet, KAVJF",
+      "categories": [
+        "f\u00f6rsvarsorganisation",
+        "riksf\u00f6rbund",
+        "utbildning"
+      ],
+      "web": "http://www.kavjf.se/"
     },
     {
       "entry": 1236629273,
@@ -14183,6 +14393,16 @@
         "tjejjour"
       ],
       "web": "https://ikkr.org/"
+    },
+    {
+      "entry": 1236692529,
+      "orgNumber": "864501-1308",
+      "orgName": "Synskadades Riksf\u00f6rbund Bor\u00e5s",
+      "categories": [
+        "riksf\u00f6rbund",
+        "synskadad"
+      ],
+      "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/boras/"
     },
     {
       "entry": 1236695357,
@@ -14466,6 +14686,17 @@
       "categories": [
         "humanit\u00e4r hj\u00e4lpverksamhet"
       ]
+    },
+    {
+      "entry": 1236886519,
+      "orgNumber": "802521-7814",
+      "orgName": "Kristinehamns  Artillerif\u00f6rening",
+      "categories": [
+        "f\u00f6rening",
+        "f\u00f6rsvarsorganisation",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://kristinehamnsartilleriforening.se/"
     },
     {
       "entry": 1236888416,
@@ -15695,7 +15926,8 @@
       "orgNumber": "802016-3153",
       "orgName": "Stiftelsen Fistulasjukhuset",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.fistulasjukhuset.org/"
     },
@@ -18249,7 +18481,8 @@
       "orgNumber": "857200-5083",
       "orgName": "Majblommans Riksf\u00f6rbund",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "riksf\u00f6rbund"
       ],
       "web": "https://www.majblomman.se/"
     },
@@ -18258,6 +18491,7 @@
       "orgNumber": "802002-4280",
       "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.naturskyddsforeningen.se/"
@@ -18267,7 +18501,8 @@
       "orgNumber": "802405-0406",
       "orgName": "Insamlingsstiftelsen Sveriges Lions Hj\u00e4lpfond",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.hjalpfonden.lions.se/"
     },
@@ -18276,7 +18511,8 @@
       "orgNumber": "802007-9755",
       "orgName": "Stiftelsen Radiohj\u00e4lpen",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.radiohjalpen.se/"
     },

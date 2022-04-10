@@ -921,6 +921,15 @@ entries:
   - gymnastikförening
   web: http://www.hoganasgf.se/
 
+- entry: 1230594234
+  orgName: Riksförbundet Ehlers-Danlos Syndrom
+  orgNumber: 812800-9498
+  comment: null
+  categories:
+  - patientförbund
+  - riksförbund
+  web: https://ehlers-danlos.se/
+
 - entry: 1230610824
   orgName: Fasching
   orgNumber: 556632-3258
@@ -930,6 +939,15 @@ entries:
   - musikförening
   - restaurant
   web: https://www.fasching.se/
+
+- entry: 1230612176
+  orgName: Synskadades Riksförbund Östergötland
+  orgNumber: 825001-4779
+  comment: null
+  categories:
+  - riksförbund
+  - synskadad
+  web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/srf-ostergotland/
 
 - entry: 1230622019
   orgName: Backatorp IF
@@ -955,6 +973,15 @@ entries:
   categories:
   - intresseförening
   web: https://climatelive.se/
+
+- entry: 1230627174
+  orgName: Riksförbundet för Social och Mental Hälsa Mittpunkten Malmö, RSMH
+  orgNumber: 846002-3925
+  comment: null
+  categories:
+  - mental hälsa
+  - riksförbund
+  web: https://www.rsmh-malmo.se/
 
 - entry: 1230630194
   orgName: Disability Rights Defenders Sweden, DRDS
@@ -1229,6 +1256,15 @@ entries:
   - karate
   - karateklubb
   web: https://vasterasshukokai.se/
+
+- entry: 1230778050
+  orgName: Synskadades Riksförbund Malmö
+  orgNumber: 846001-9089
+  comment: null
+  categories:
+  - riksförbund
+  - synskadad
+  web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/srf-malmo/
 
 - entry: 1230778688
   orgName: Insamlingsstiftelsen Hudfonden
@@ -2002,6 +2038,15 @@ entries:
   categories: null
   web: https://ocdforbundet.se/
 
+- entry: 1231168707
+  orgName: Synskadades Riksförbund Göteborg
+  orgNumber: 855100-2846
+  comment: null
+  categories:
+  - riksförbund
+  - synskadad
+  web: http://www.synskadadesriksforbund.se/om-oss/distrikt-och-lokalforeningar/goteborg/
+
 - entry: 1231169630
   orgName: Sundbergs Busstrafik AB
   orgNumber: 559082-7084
@@ -2423,6 +2468,14 @@ entries:
   - ställningar
   - säkerhetsutrustning
   web: https://stallningsprodukter.se/
+
+- entry: 1231344498
+  orgName: Kristinehamns Nämndemannaförening
+  orgNumber: 838201-5470
+  comment: null
+  categories:
+  - förening
+  web: https://kristianstad.nmrf.se/
 
 - entry: 1231355189
   orgName: Kiruna jakt- och fiskevårdsförening
@@ -3131,6 +3184,16 @@ entries:
   - radioklubb
   web: https://www.sk4ko.com/
 
+- entry: 1231659978
+  orgName: Riksförbundet Hälsofrämjandet
+  orgNumber: 883800-2973
+  comment: null
+  categories:
+  - folkhälsa
+  - hälsa
+  - riksförbund
+  web: https://halsoframjandet.se/
+
 - entry: 1231665405
   orgName: Motormedlarna AB
   orgNumber: 559179-3517
@@ -3344,6 +3407,14 @@ entries:
   - hembygdsförening
   - intresseorganisation
   web: http://www.hjaggsjodrakarna.se/
+
+- entry: 1231758663
+  orgName: Linköpings Missionsförsamling
+  orgNumber: 822000-2805
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkanlinkoping.se/
 
 - entry: 1231758945
   orgName: Pingstförsamlingen i Eskilstuna
@@ -4828,6 +4899,15 @@ entries:
   - förening
   web: https://www.hsb.se/skane/brf/linero-i-lund/
 
+- entry: 1232523504
+  orgName: Synskadades Riksförbund Kronoberg
+  orgNumber: 829500-8570
+  comment: null
+  categories:
+  - riksförbund
+  - synskadad
+  web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/kronoberg/
+
 - entry: 1232525384
   orgName: OCD-föreningen Göteborgsregionen
   orgNumber: 857209-3030
@@ -4991,6 +5071,14 @@ entries:
   - innebandy
   - innebandyklubb
   web: https://www.laget.se/FBCBOLLNAS/
+
+- entry: 1232620292
+  orgName: Amrit Yoga / Jessica Eklöf
+  orgNumber: 690420-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://amrit.se/
 
 - entry: 1232634244
   orgName: Stiftelsen Spinalis
@@ -5534,6 +5622,17 @@ entries:
   - idrottsförening
   web: https://albylen.se/
 
+- entry: 1232887768
+  orgName: Käringbergets Bystugeförening
+  orgNumber: 883202-4668
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - bystuga
+  - förening
+  - lokaluthyrning
+  web: https://karingberget.se/
+
 - entry: 1232894830
   orgName: Brottsofferjouren Örebro Län
   orgNumber: 802430-4498
@@ -5920,6 +6019,15 @@ entries:
   - religion
   web: https://www.filadelfiakyrkan.se/
 
+- entry: 1233126299
+  orgName: Synskadades Riksförbund Skåne
+  orgNumber: 846001-9790
+  comment: null
+  categories:
+  - riksförbund
+  - synskadad
+  web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/skane/
+
 - entry: 1233131265
   orgName: Crêperiet i Lund
   orgNumber: 559096-1131
@@ -6039,6 +6147,14 @@ entries:
   categories:
   - reiki
   web: https://secourong.com/
+
+- entry: 1233208220
+  orgName: Linköpnings Nämndemannaförening
+  orgNumber: 8024476874
+  comment: null
+  categories:
+  - förening
+  web: https://linkoping.nmrf.se/
 
 - entry: 1233212370
   orgName: Föreningen Rädda Björndammsdalen och Finngösaravinen
@@ -6181,6 +6297,15 @@ entries:
   categories:
   - stiftelse
   web: https://www.hjelmserydsstiftelsen.nu/
+
+- entry: 1233244621
+  orgName: Riksförbundet Vi Som Inte Röker, Visir
+  orgNumber: 802005-7058
+  comment: null
+  categories:
+  - folkhälsa
+  - riksförbund
+  web: https://visominteroker.se/
 
 - entry: 1233244779
   orgName: Armeniska riksförbundet i Sverige (ARS)
@@ -6430,6 +6555,14 @@ entries:
   categories:
   - politiskt parti
   web: https://www.timrapartiet.se/
+
+- entry: 1233375672
+  orgName: Elöverkänsligas Riksförbund
+  orgNumber: 812400-9484
+  comment: null
+  categories:
+  - riksförbund
+  web: https://eloverkanslig.org/
 
 - entry: 1233377447
   orgName: Svenska Psykoanalytiska Föreningen
@@ -6961,6 +7094,13 @@ entries:
   categories:
   - hemlandsförening
   web: https://www.izblandskrona.se/
+
+- entry: 1233669348
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1233678505
   orgName: Brottsofferjouren Stockholm-Gotland
@@ -7543,6 +7683,14 @@ entries:
   - kloster
   - religion
   web: https://heligahjartaskloster.se/
+
+- entry: 1233978145
+  orgName: Kinesiska Riksförbundet i Sverige
+  orgNumber: 802443-5300
+  comment: null
+  categories:
+  - riksförbund
+  web: https://www.huaren.se/
 
 - entry: 1233984671
   orgName: Glommens Samhällsförening
@@ -9924,6 +10072,15 @@ entries:
   - religion
   web: https://adventkyrkan.se/
 
+- entry: 1235267570
+  orgName: FF Synskadade Barn och Ungdomar - Parasport, FSBU
+  orgNumber: 855100-0907
+  comment: null
+  categories:
+  - parasport
+  - synskadad
+  web: https://www.fsbu.org/
+
 - entry: 1235278106
   orgName: Mariakyrkans församling Uddevalla
   orgNumber: 869001-2318
@@ -10202,6 +10359,13 @@ entries:
   - intresseförening
   web: https://www.djaknegatan.org/
 
+- entry: 1235394671
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1235399720
   orgName: Crevoice AB
   orgNumber: 556794-8400
@@ -10386,6 +10550,15 @@ entries:
   categories:
   - religion
   web: https://umea.pingst.se/
+
+- entry: 1235475389
+  orgName: Oppmanna Vånga bygdegårdsförening
+  orgNumber: 838200-3351
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - förening
+  web: https://brunnen.nu/
 
 - entry: 1235476056
   orgName: Nålbolaget Fahlgren AB
@@ -11290,6 +11463,15 @@ entries:
   - idrottsförening
   - kampsportsförening
   web: https://hiltivästerås.se/
+
+- entry: 1235942826
+  orgName: Hörselskadades Riksförbund Kristinehamn
+  orgNumber: 873201-9172
+  comment: null
+  categories:
+  - hörselskadad
+  - riksförbund
+  web: https://hrf.se/kristinehamn/
 
 - entry: 1235948427
   orgName: Karlskoga Enduroklubb
@@ -12370,6 +12552,15 @@ entries:
   - bostadsrättsförening
   web: https://www.hsb.se/malardalarna/brf/taget/
 
+- entry: 1236492466
+  orgName: Synskadades Riksförbund Bohuslän
+  orgNumber: 857203-8480
+  comment: null
+  categories:
+  - riksförbund
+  - synskadad
+  web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/bohuslan/
+
 - entry: 1236497051
   orgName: Ålleberg Cafe och Lunchrestaurang
   orgNumber: 857205-4875
@@ -12503,6 +12694,16 @@ entries:
   - släktforskning
   web: https://www.hallandsslaktforskare.se/
 
+- entry: 1236559694
+  orgName: Gatujuristerna
+  orgNumber: 802535-2835
+  comment: null
+  categories:
+  - förening
+  - juridik
+  - rådgivning
+  web: https://www.gatujuristerna.com/
+
 - entry: 1236581888
   orgName: Ödeshögs Kennelklubb
   orgNumber: 823000-8206
@@ -12544,6 +12745,16 @@ entries:
   - fiskeklubb
   - sportfiske
   web: http://lilloringen.se/
+
+- entry: 1236627285
+  orgName: Kavalleri- och Jägarförbundet, KAVJF
+  orgNumber: 802436-6968
+  comment: null
+  categories:
+  - försvarsorganisation
+  - riksförbund
+  - utbildning
+  web: http://www.kavjf.se/
 
 - entry: 1236629273
   orgName: Eskilstuna United DFF
@@ -12701,6 +12912,15 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://ikkr.org/
+
+- entry: 1236692529
+  orgName: Synskadades Riksförbund Borås
+  orgNumber: 864501-1308
+  comment: null
+  categories:
+  - riksförbund
+  - synskadad
+  web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/boras/
 
 - entry: 1236693642
   orgName: FK Puls Pantrar
@@ -12964,6 +13184,16 @@ entries:
   categories:
   - humanitär hjälpverksamhet
   web: null
+
+- entry: 1236886519
+  orgName: Kristinehamns  Artilleriförening
+  orgNumber: 802521-7814
+  comment: null
+  categories:
+  - förening
+  - försvarsorganisation
+  - riksförbund
+  web: https://kristinehamnsartilleriforening.se/
 
 - entry: 1236888416
   orgName: Brottsofferjouren Storgöteborg
@@ -14417,6 +14647,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.fistulasjukhuset.org/
 
 - entry: 1239002973
@@ -17721,6 +17952,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - riksförbund
   web: https://www.majblomman.se/
 
 - entry: 1239019092
@@ -17728,6 +17960,7 @@ entries:
   orgNumber: 802002-4280
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.naturskyddsforeningen.se/
 
@@ -17737,6 +17970,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.hjalpfonden.lions.se/
 
 - entry: 1239019506
@@ -17745,6 +17979,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.radiohjalpen.se/
 
 - entry: 1239019514
