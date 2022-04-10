@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-10-rev-131559",
+    "date": "2022-04-10-rev-193200",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3424,6 +3424,18 @@
       "web": "https://www.brannkyrka.org/"
     },
     {
+      "entry": 1231611326,
+      "orgNumber": "802000-0371",
+      "orgName": "Riksf\u00f6rbundet Sveriges 4H",
+      "categories": [
+        "4h",
+        "barnverksamhet",
+        "riksf\u00f6rbund",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://www.4h.se/"
+    },
+    {
       "entry": 1231612001,
       "orgNumber": "802456-5734",
       "orgName": "Norrt\u00e4lje Katthem",
@@ -4682,6 +4694,17 @@
       "orgNumber": "802503-8103",
       "orgName": "Nya Vingar",
       "web": "http://www.nyavingar.com/"
+    },
+    {
+      "entry": 1232181477,
+      "orgNumber": "883202-1342",
+      "orgName": "Sveriges D\u00f6vas Ungdomsf\u00f6rbund, SDUF",
+      "categories": [
+        "f\u00f6rbund",
+        "h\u00f6rselskadad",
+        "ungdomsverksamhet"
+      ],
+      "web": "http://sduf.se/"
     },
     {
       "entry": 1232182590,
@@ -7637,6 +7660,19 @@
       "web": "https://www.unizonjourer.se/guldstaden/"
     },
     {
+      "entry": 1233500451,
+      "orgNumber": "556605-9134",
+      "orgName": "Engstr\u00f6ms Artstudio AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "hobbykeramik",
+        "kortmakeri",
+        "porslinsdockor",
+        "scrapbooking"
+      ],
+      "web": "http://www.engstroms.se/"
+    },
+    {
       "entry": 1233505278,
       "orgNumber": "802422-8424",
       "orgName": "F\u00f6reningen Fem\u00f6refortet",
@@ -8863,6 +8899,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laholmsif.se/"
+    },
+    {
+      "entry": 1234123840,
+      "orgNumber": "863500-6730",
+      "orgName": "Oasr\u00f6relsen i Sverige",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://oasrorelsen.se/"
     },
     {
       "entry": 1234133484,
@@ -11120,6 +11165,16 @@
       "web": "http://www.sbakno.se/"
     },
     {
+      "entry": 1235200407,
+      "orgNumber": "838200-9887",
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund Kristianstad",
+      "categories": [
+        "h\u00f6rselskadad",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/kristianstad/"
+    },
+    {
       "entry": 1235203401,
       "orgNumber": "866000-9450",
       "orgName": "Tors\u00f6 Bygdeg\u00e5rds & Idrottsf\u00f6rening, TBIF",
@@ -12835,6 +12890,15 @@
         "motorsport"
       ],
       "web": "http://karlskogaek.com/"
+    },
+    {
+      "entry": 1235949144,
+      "orgNumber": "882600-2985",
+      "orgName": "Borl\u00e4nge Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.equmeniakyrkanborlange.se/"
     },
     {
       "entry": 1235949516,

@@ -3052,6 +3052,17 @@ entries:
   - religion
   web: https://www.brannkyrka.org/
 
+- entry: 1231611326
+  orgName: Riksförbundet Sveriges 4H
+  orgNumber: 802000-0371
+  comment: null
+  categories:
+  - 4h
+  - barnverksamhet
+  - riksförbund
+  - ungdomsverksamhet
+  web: https://www.4h.se/
+
 - entry: 1231612001
   orgName: Norrtälje Katthem
   orgNumber: 802456-5734
@@ -4170,6 +4181,16 @@ entries:
   comment: null
   categories: null
   web: http://www.nyavingar.com/
+
+- entry: 1232181477
+  orgName: Sveriges Dövas Ungdomsförbund, SDUF
+  orgNumber: 883202-1342
+  comment: null
+  categories:
+  - förbund
+  - hörselskadad
+  - ungdomsverksamhet
+  web: http://sduf.se/
 
 - entry: 1232182590
   orgName: Heliga Hjärtas Kloster / Mariadöttrarna OSB
@@ -6839,6 +6860,18 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/guldstaden/
 
+- entry: 1233500451
+  orgName: Engströms Artstudio AB
+  orgNumber: 556605-9134
+  comment: null
+  categories:
+  - försäljning
+  - hobbykeramik
+  - kortmakeri
+  - porslinsdockor
+  - scrapbooking
+  web: http://www.engstroms.se/
+
 - entry: 1233505278
   orgName: Föreningen Femörefortet
   orgNumber: 802422-8424
@@ -7954,6 +7987,14 @@ entries:
   categories:
   - idrottsförening
   web: https://www.laholmsif.se/
+
+- entry: 1234123840
+  orgName: Oasrörelsen i Sverige
+  orgNumber: 863500-6730
+  comment: null
+  categories:
+  - religion
+  web: https://oasrorelsen.se/
 
 - entry: 1234133484
   orgName: Grundfors Byaförening
@@ -9967,6 +10008,15 @@ entries:
   - hundsport
   web: http://www.sbakno.se/
 
+- entry: 1235200407
+  orgName: Hörselskadades Riksförbund Kristianstad
+  orgNumber: 838200-9887
+  comment: null
+  categories:
+  - hörselskadad
+  - riksförbund
+  web: https://hrf.se/kristianstad/
+
 - entry: 1235203401
   orgName: Torsö Bygdegårds & Idrottsförening, TBIF
   orgNumber: 866000-9450
@@ -11511,6 +11561,14 @@ entries:
   - motorcykel
   - motorsport
   web: http://karlskogaek.com/
+
+- entry: 1235949144
+  orgName: Borlänge Missionsförsamling
+  orgNumber: 882600-2985
+  comment: null
+  categories:
+  - religion
+  web: https://www.equmeniakyrkanborlange.se/
 
 - entry: 1235949516
   orgName: Eolshälls 4H-gård
