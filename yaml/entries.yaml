@@ -4881,6 +4881,15 @@ entries:
   - trafikskola
   web: https://www.staffanstrafikskola.se/
 
+- entry: 1232488773
+  orgName: Naturskyddsföreningen Borlänge
+  orgNumber: 882601-3784
+  comment: null
+  categories:
+  - förening
+  - naturskydd
+  web: https://borlange.naturskyddsforeningen.se/
+
 - entry: 1232512077
   orgName: Älekulla Bygdegårdsförening-Byalag
   orgNumber: 802532-4578
@@ -8313,6 +8322,16 @@ entries:
   - intresseförening
   web: https://rotary2360.se/
 
+- entry: 1234296786
+  orgName: Nacka-Värmdö Trädgårdssällskap, NVTS
+  orgNumber: 802414-5065
+  comment: null
+  categories:
+  - förening
+  - trädgårdsförening
+  - trädgårdsodling
+  web: https://nvts.se/
+
 - entry: 1234300521
   orgName: Vännäs Brukshundklubb
   orgNumber: 894002-7827
@@ -8662,6 +8681,16 @@ entries:
   - marknadsföring
   - näringsliv
   web: https://mih.nu/
+
+- entry: 1234492211
+  orgName: Kamratföreningen Flottans Män i Stockholm
+  orgNumber: 802018-3094
+  comment: null
+  categories:
+  - förening
+  - försvarsorganisation
+  - riksförbund
+  web: https://flottansman.se/stockholm/
 
 - entry: 1234492682
   orgName: Strömsholms Kanalaktiebolag
@@ -11861,6 +11890,15 @@ entries:
   - lärande
   web: https://navsweden.se/
 
+- entry: 1236123194
+  orgName: Enångers Bygdegårdsförening
+  orgNumber: 887500-0641
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - förening
+  web: https://enangersbygdegard.se/
+
 - entry: 1236127120
   orgName: Svenska Newfoundlandshundklubben
   orgNumber: 802468-3149
@@ -11985,6 +12023,15 @@ entries:
   categories:
   - politiskt parti
   web: https://www.socialdemokraterna.se/
+
+- entry: 1236178040
+  orgName: Riksförbundet Narkotikafritt Samhälle, RNS
+  orgNumber: 802006-8881
+  comment: null
+  categories:
+  - intresseförening
+  - riksförbund
+  web: https://www.rns.se/
 
 - entry: 1236181820
   orgName: Svenska Utbildningsfonden för Liberia
@@ -12335,6 +12382,7 @@ entries:
   orgNumber: 802411-5761
   comment: null
   categories:
+  - förening
   - intresseförening
   web: https://www.svenskadownforeningen.se/
 
@@ -12765,6 +12813,16 @@ entries:
   - idrottsförening
   web: https://eskilstunaunited.se/
 
+- entry: 1236638373
+  orgName: Meningsfull fritid - Riksförbundet Attention
+  orgNumber: 833600-9686
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - npf-diagnoser
+  - riksförbund
+  web: https://fritid.attention.se/
+
 - entry: 1236641807
   orgName: Föreningen Ekets Framtid
   orgNumber: 802451-9277
@@ -12816,6 +12874,17 @@ entries:
   categories:
   - religion
   web: https://pingstjonkoping.se/
+
+- entry: 1236674022
+  orgName: Riksförbundet Veterinär Omtanke Om Våldsutsatta, VOOV
+  orgNumber: 802446-8160
+  comment: null
+  categories:
+  - djurskydd
+  - hundhem
+  - jourhem
+  - katthem
+  web: https://voov.nu/
 
 - entry: 1236675474
   orgName: Naturhjältarnas 4H-klubb

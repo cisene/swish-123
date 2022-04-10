@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-10-rev-124130",
+    "date": "2022-04-10-rev-131559",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5477,6 +5477,16 @@
       "web": "https://www.staffanstrafikskola.se/"
     },
     {
+      "entry": 1232488773,
+      "orgNumber": "882601-3784",
+      "orgName": "Naturskyddsf\u00f6reningen Borl\u00e4nge",
+      "categories": [
+        "f\u00f6rening",
+        "naturskydd"
+      ],
+      "web": "https://borlange.naturskyddsforeningen.se/"
+    },
+    {
       "entry": 1232512077,
       "orgNumber": "802532-4578",
       "orgName": "\u00c4lekulla Bygdeg\u00e5rdsf\u00f6rening-Byalag",
@@ -9273,6 +9283,17 @@
       "web": "https://rotary2360.se/"
     },
     {
+      "entry": 1234296786,
+      "orgNumber": "802414-5065",
+      "orgName": "Nacka-V\u00e4rmd\u00f6 Tr\u00e4dg\u00e5rdss\u00e4llskap, NVTS",
+      "categories": [
+        "f\u00f6rening",
+        "tr\u00e4dg\u00e5rdsf\u00f6rening",
+        "tr\u00e4dg\u00e5rdsodling"
+      ],
+      "web": "https://nvts.se/"
+    },
+    {
       "entry": 1234300521,
       "orgNumber": "894002-7827",
       "orgName": "V\u00e4nn\u00e4s Brukshundklubb",
@@ -9664,6 +9685,17 @@
         "n\u00e4ringsliv"
       ],
       "web": "https://mih.nu/"
+    },
+    {
+      "entry": 1234492211,
+      "orgNumber": "802018-3094",
+      "orgName": "Kamratf\u00f6reningen Flottans M\u00e4n i Stockholm",
+      "categories": [
+        "f\u00f6rening",
+        "f\u00f6rsvarsorganisation",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://flottansman.se/stockholm/"
     },
     {
       "entry": 1234492682,
@@ -13230,6 +13262,16 @@
       "web": "https://navsweden.se/"
     },
     {
+      "entry": 1236123194,
+      "orgNumber": "887500-0641",
+      "orgName": "En\u00e5ngers Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "f\u00f6rening"
+      ],
+      "web": "https://enangersbygdegard.se/"
+    },
+    {
       "entry": 1236127120,
       "orgNumber": "802468-3149",
       "orgName": "Svenska Newfoundlandshundklubben",
@@ -13369,6 +13411,16 @@
         "politiskt parti"
       ],
       "web": "https://www.socialdemokraterna.se/"
+    },
+    {
+      "entry": 1236178040,
+      "orgNumber": "802006-8881",
+      "orgName": "Riksf\u00f6rbundet Narkotikafritt Samh\u00e4lle, RNS",
+      "categories": [
+        "intressef\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://www.rns.se/"
     },
     {
       "entry": 1236181820,
@@ -13758,6 +13810,7 @@
       "orgNumber": "802411-5761",
       "orgName": "Svenska Downf\u00f6reningen",
       "categories": [
+        "f\u00f6rening",
         "intressef\u00f6rening"
       ],
       "web": "https://www.svenskadownforeningen.se/"
@@ -14225,6 +14278,17 @@
       "web": "https://eskilstunaunited.se/"
     },
     {
+      "entry": 1236638373,
+      "orgNumber": "833600-9686",
+      "orgName": "Meningsfull fritid - Riksf\u00f6rbundet Attention",
+      "categories": [
+        "funktionsneds\u00e4ttning",
+        "npf-diagnoser",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://fritid.attention.se/"
+    },
+    {
       "entry": 1236641807,
       "orgNumber": "802451-9277",
       "orgName": "F\u00f6reningen Ekets Framtid",
@@ -14282,6 +14346,18 @@
         "religion"
       ],
       "web": "https://pingstjonkoping.se/"
+    },
+    {
+      "entry": 1236674022,
+      "orgNumber": "802446-8160",
+      "orgName": "Riksf\u00f6rbundet Veterin\u00e4r Omtanke Om V\u00e5ldsutsatta, VOOV",
+      "categories": [
+        "djurskydd",
+        "hundhem",
+        "jourhem",
+        "katthem"
+      ],
+      "web": "https://voov.nu/"
     },
     {
       "entry": 1236675474,
