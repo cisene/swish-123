@@ -178,6 +178,15 @@ entries:
   - religion
   web: https://www.pingstvarberg.se/
 
+- entry: 1230142927
+  orgName: MorrRingens AB
+  orgNumber: 559177-2198
+  comment: null
+  categories:
+  - meditation
+  - spiritualism
+  web: https://morrringens.se/
+
 - entry: 1230154724
   orgName: Silyns Massage o Fotvård
   orgNumber: 820114-XXXX
@@ -291,6 +300,16 @@ entries:
   categories:
   - museum
   web: https://www.hasseotagemuseet.se/
+
+- entry: 1230192724
+  orgName: Lucky Tarot / Tarotlink I Stockholm / Aaryan Paras Sharma
+  orgNumber: 810707-XXXX
+  comment: null
+  categories:
+  - horoskop
+  - medium
+  - spiritualism
+  web: https://luckytarot.se/
 
 - entry: 1230204438
   orgName: VIK Västerås Hockeyklubb
@@ -503,6 +522,15 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/Nykoping/
 
+- entry: 1230348094
+  orgName: Mimmi Design
+  orgNumber: 590125-XXXX
+  comment: null
+  categories:
+  - design
+  - kläder
+  web: https://mimmidesign.se/
+
 - entry: 1230350033
   orgName: Insamlingsstiftelsen Midnattssolens Trädgård
   orgNumber: 802481-8802
@@ -639,7 +667,9 @@ entries:
   orgName: Hela Människan RIA Enköping
   orgNumber: 817000-8893
   comment: null
-  categories: null
+  categories:
+  - hjälporganisation
+  - religion
   web: https://helamanniskan.se/enkoping
 
 - entry: 1230413203
@@ -719,6 +749,15 @@ entries:
   - hundsport
   - utbildning
   web: http://www.zerillas.se/
+
+- entry: 1230450973
+  orgName: Camp Sweden TIFO
+  orgNumber: 802430-7962
+  comment: null
+  categories:
+  - fotboll
+  - supporterklubb
+  web: http://campsweden.se/
 
 - entry: 1230451054
   orgName: Torps Bygdegård ideell förening
@@ -1202,6 +1241,16 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/havsornen/
 
+- entry: 1230751487
+  orgName: Sportfiskebolaget / Sportfiske & VVS Bolaget i Hässleholm AB
+  orgNumber: 556778-2882
+  comment: null
+  categories:
+  - försäljning
+  - sportfiske
+  - utrustning
+  web: https://www.sportfiskebolaget.se/
+
 - entry: 1230754754
   orgName: Skellefteå CK - Curling
   orgNumber: 894700-5842
@@ -1339,6 +1388,16 @@ entries:
   categories:
   - intresseförening
   web: https://www.al-anon.se/
+
+- entry: 1230835983
+  orgName: Annikas Mediala och Kreativa Center / Annika Vikingsson
+  orgNumber: 530524-XXXX
+  comment: null
+  categories:
+  - medium
+  - reiki
+  - spiritualism
+  web: https://www.annikaw.se/
 
 - entry: 1230837476
   orgName: Östra SK Jönköping
@@ -1895,6 +1954,18 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/spf-seniorerna-bjorkekarr-/
+
+- entry: 1231102508
+  orgName: Önskestjärnan
+  orgNumber: 556532-9090
+  comment: null
+  categories:
+  - horoskop
+  - medium
+  - reiki
+  - sierska
+  - spiritualism
+  web: https://önskestjärnan.se/
 
 - entry: 1231122357
   orgName: Fibromyalgi Förbundet
@@ -3288,6 +3359,15 @@ entries:
   - intresseförening
   web: https://www.brottsofferjouren.se/
 
+- entry: 1231704337
+  orgName: Karlskoga Agilitysports Kennelklubb
+  orgNumber: 802445-3733
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://kaskagility.se/
+
 - entry: 1231706134
   orgName: Urshults Församling
   orgNumber: 252000-6343
@@ -3479,6 +3559,15 @@ entries:
   - ridsport
   web: https://www.ljungbyridklubb.org.se/
 
+- entry: 1231794601
+  orgName: Söderköpings Gästabud Ekonomisk förening
+  orgNumber: 769621-5354
+  comment: null
+  categories:
+  - kulturförening
+  - underhållning
+  web: https://gastabud.se/
+
 - entry: 1231807379
   orgName: Bifrostorden Logen 28 Gondler
   orgNumber: 332407-6342
@@ -3617,6 +3706,15 @@ entries:
   - stiftelse
   web: https://www.kronprinsessparetsstiftelse.se/
 
+- entry: 1231884758
+  orgName: Camp Sweden TIFO
+  orgNumber: 802430-7962
+  comment: null
+  categories:
+  - fotboll
+  - supporterklubb
+  web: http://campsweden.se/
+
 - entry: 1231886977
   orgName: EFS - Evangeliska Fosterlandsstiftelsen
   orgNumber: 802000-8184
@@ -3744,6 +3842,17 @@ entries:
   - fotboll
   - idrottsförening
   web: https://vinslovsif.sportadmin.se/
+
+- entry: 1231979616
+  orgName: Margarethas Livsrum / Margareta Härnlund
+  orgNumber: 621013-XXXX
+  comment: null
+  categories:
+  - healing
+  - homeopati
+  - meditation
+  - spiritualism
+  web: http://www.margarethaslivsrum.se/
 
 - entry: 1231981497
   orgName: Rengsjö SK - Fotboll
@@ -4115,6 +4224,15 @@ entries:
   - intresseförening
   web: http://www.vasterasbrottarklubb.se/
 
+- entry: 1232143949
+  orgName: Johan Landbergs Trafikskola AB
+  orgNumber: 559200-3825
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://www.johanstrafikskola.com/
+
 - entry: 1232148765
   orgName: Sergel Kredittjänster AB
   orgNumber: 556264-8310
@@ -4470,6 +4588,17 @@ entries:
   - hemlandsförening
   - kulturförening
   web: https://sbtkf.blogspot.com/
+
+- entry: 1232266922
+  orgName: Dalarnas Andlig Healingcenter / Anna-Karin Berg
+  orgNumber: 661225-XXXX
+  comment: null
+  categories:
+  - healing
+  - medium
+  - seans
+  - spiritualism
+  web: https://andlig-healing-center.se/
 
 - entry: 1232267730
   orgName: Kallinge Museum
@@ -4953,6 +5082,16 @@ entries:
   categories:
   - kvinnojour
   web: https://www.qjourenvast.se/
+
+- entry: 1232527869
+  orgName: Skellefteå Baseboll Softboll Klubb, SBSK
+  orgNumber: 894700-9539
+  comment: null
+  categories:
+  - baseboll
+  - idrottsförening
+  - softboll
+  web: https://skellefteabsk.se/
 
 - entry: 1232527943
   orgName: Kraftbyrån
@@ -5446,6 +5585,17 @@ entries:
   - religion
   web: http://www.vetlandamissionskyrka.com/
 
+- entry: 1232771665
+  orgName: Medium Hannu Koskinen
+  orgNumber: 560427-XXXX
+  comment: null
+  categories:
+  - husrensningar
+  - medial vägledning
+  - medium
+  - seans
+  web: https://www.mediumhannukoskinen.se/
+
 - entry: 1232787927
   orgName: Lerums Fotoklubb
   orgNumber: 802440-7507
@@ -5662,6 +5812,16 @@ entries:
   - förening
   - lokaluthyrning
   web: https://karingberget.se/
+
+- entry: 1232890226
+  orgName: AD-Konsult / Tomas Hell
+  orgNumber: 720227-XXXX
+  comment: null
+  categories:
+  - produktblad
+  - reklam material
+  - trycksaker
+  web: https://ad-konsult.se/
 
 - entry: 1232894830
   orgName: Brottsofferjouren Örebro Län
@@ -7085,6 +7245,16 @@ entries:
   - ki-aikido
   web: http://vasteras.ki-aikido.se/
 
+- entry: 1233631017
+  orgName: Helhetens Kraft / Katharina Johansson
+  orgNumber: 660324-XXXX
+  comment: null
+  categories:
+  - medium
+  - seans
+  - spiritualism
+  web: https://www.helhetenskraft.com/
+
 - entry: 1233634227
   orgName: WT Trailer AB
   orgNumber: 556910-8813
@@ -7300,6 +7470,14 @@ entries:
   - tjejjour
   web: https://jourmiranda.se/
 
+- entry: 1233790698
+  orgName: Konstnärstryck Andreas Krook
+  orgNumber: 710506-XXXX
+  comment: null
+  categories:
+  - konst
+  web: https://konstnarstryck.se/
+
 - entry: 1233791183
   orgName: Sionförsamlingen i Hallstavik
   orgNumber: 814400-1818
@@ -7351,6 +7529,15 @@ entries:
   - insamling
   - stiftelse
   web: https://www.regnbågshjärtan.se/
+
+- entry: 1233804986
+  orgName: Your Light / Yonova - Birgitta Olsson
+  orgNumber: 560216-XXXX
+  comment: null
+  categories:
+  - medium
+  - spiritualism
+  web: https://yourlight.se/
 
 - entry: 1233811296
   orgName: Pingst Ung Bromma
@@ -8058,6 +8245,16 @@ entries:
   - intresseorganisation
   web: https://limmud.se/
 
+- entry: 1234162988
+  orgName: Mediumförbundet
+  orgNumber: 802535-7305
+  comment: null
+  categories:
+  - förbund
+  - medium
+  - spiritualism
+  web: https://mediumforbundet.se/
+
 - entry: 1234170551
   orgName: Lena Prästgård Ridhus / Ove Stenson
   orgNumber: 530530-XXXX
@@ -8314,6 +8511,15 @@ entries:
   categories:
   - stiftelsekatalog
   web: https://stiftelsemedel.se/
+
+- entry: 1234277166
+  orgName: EKO Bowling Ball Center AB
+  orgNumber: 556119-9760
+  comment: null
+  categories:
+  - bowling
+  - försäljning
+  web: https://ekobowling.mysitoo.com/
 
 - entry: 1234277349
   orgName: Kungsportskyrkan
@@ -9843,6 +10049,15 @@ entries:
   - hästtransport
   web: https://www.rhtc.se/
 
+- entry: 1235127519
+  orgName: Linas Trafikskola
+  orgNumber: 556846-1288
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://linastrafikskola.se/
+
 - entry: 1235136544
   orgName: Stiftelse Coelho Growth Foundation
   orgNumber: 802479-5943
@@ -10306,6 +10521,16 @@ entries:
   - idrottsförening
   - ishockey
   web: https://www.hammarbyhockey.se/
+
+- entry: 1235334818
+  orgName: Armystuff / Norrbottens Skogsteknik Handelsbolag
+  orgNumber: 916480-5039
+  comment: null
+  categories:
+  - friluftsliv
+  - kläder
+  - utrustning
+  web: https://armystuff.se/
 
 - entry: 1235339791
   orgName: Svenska Älghundsklubben
@@ -11029,7 +11254,8 @@ entries:
   orgName: The Maine Club
   orgNumber: 802428-5606
   comment: null
-  categories: null
+  categories:
+  - kattklubb
   web: https://themaineclub.se/
 
 - entry: 1235666698
@@ -11103,6 +11329,15 @@ entries:
   - lokalradio
   - närradiostation
   web: http://www.radiohaninge.se/
+
+- entry: 1235703657
+  orgName: Sadelmakarna i Stockholm AB
+  orgNumber: 556067-9564
+  comment: null
+  categories:
+  - försäljning
+  - reparationer
+  web: https://sadelmakarna.com/
 
 - entry: 1235704168
   orgName: Sionförsamlingen I Linköping
@@ -11183,7 +11418,8 @@ entries:
   orgName: Hela Människan RIA Falköping
   orgNumber: 867800-4121
   comment: null
-  categories: null
+  categories:
+  - hjälporganisation
   web: https://helamanniskan.se/falkoping/
 
 - entry: 1235763040
@@ -11221,6 +11457,15 @@ entries:
   - skola
   web: http://www.drakbergsskolan.se/
 
+- entry: 1235764410
+  orgName: Gräppås GK
+  orgNumber: 849400-7001
+  comment: null
+  categories:
+  - golf
+  - golfklubb
+  web: https://www.grappasgk.se/
+
 - entry: 1235770318
   orgName: Västmanlands Ornitologiska Förening
   orgNumber: 878001-6047
@@ -11254,7 +11499,9 @@ entries:
   orgName: Motorförarnas Helnykterhetsförbund, MHF
   orgNumber: 802002-3399
   comment: null
-  categories: null
+  categories:
+  - förbund
+  - intresseorganisation
   web: https://www.mhf.se/
 
 - entry: 1235782479
@@ -11317,7 +11564,9 @@ entries:
   orgName: DCL Data Centrum Linköping AB
   orgNumber: 556287-3777
   comment: null
-  categories: null
+  categories:
+  - dator support
+  - försäljning
   web: https://dcl.se/
 
 - entry: 1235808852
@@ -11768,6 +12017,15 @@ entries:
   - veteranbilar
   web: https://www.studebakerklubben.se/
 
+- entry: 1236056204
+  orgName: Rattens Internationella Trafikskola
+  orgNumber: 556767-5367
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://www.rattenstrafikskola.se/
+
 - entry: 1236059927
   orgName: Brottsofferjouren i Västerort
   orgNumber: 802015-4822
@@ -11911,6 +12169,7 @@ entries:
   comment: null
   categories:
   - betaltjänster
+  - förening
   web: https://amalsweden.com/
 
 - entry: 1236113021
@@ -11927,6 +12186,8 @@ entries:
   orgNumber: 700116-XXXX
   comment: null
   categories:
+  - medium
+  - spiritualism
   - spådomar
   - tarot
   web: https://cleostarot.wordpress.com/
@@ -12367,6 +12628,14 @@ entries:
   - religion
   web: https://www.tyresopingst.se/
 
+- entry: 1236311401
+  orgName: Holistic Makeover Angelius / Anna Angelius
+  orgNumber: 760821-XXXX
+  comment: null
+  categories:
+  - medium
+  web: https://holisticmakeover.se/
+
 - entry: 1236311518
   orgName: Gullmarsplans Trafikskola
   orgNumber: 556670-7823
@@ -12529,7 +12798,9 @@ entries:
   orgName: SDF - Svensk Dystoni-Förening
   orgNumber: 878001-9215
   comment: null
-  categories: null
+  categories:
+  - förening
+  - rörelsehindrad
   web: https://www.dystoni.se/
 
 - entry: 1236372890
@@ -13279,6 +13550,15 @@ entries:
   - innebandy
   web: https://www.ostra.nu/
 
+- entry: 1236837249
+  orgName: Göteborgs Symfonikers Vänner
+  orgNumber: 857204-7291
+  comment: null
+  categories:
+  - intresseförening
+  - musik
+  web: http://gsvanner.se/
+
 - entry: 1236873228
   orgName: Skepplanda BTK
   orgNumber: 863500-3802
@@ -13392,6 +13672,16 @@ entries:
   - tjejjour
   web: https://www.malmokvinnojour.se/
 
+- entry: 1236915177
+  orgName: Morrhåret Hundsport AB
+  orgNumber: 556531-1700
+  comment: null
+  categories:
+  - försäljning
+  - hundsport
+  - utrustning
+  web: https://morrharethundsport.se/
+
 - entry: 1236916738
   orgName: Lötsjö Trafikskola
   orgNumber: 556560-9509
@@ -13476,7 +13766,10 @@ entries:
   orgName: Skånes Änglar
   orgNumber: 802517-6499
   comment: null
-  categories: null
+  categories:
+  - barnkonventionen
+  - förening
+  - hjälporganisation
   web: https://www.skanesanglar.se/
 
 - entry: 1236955496
