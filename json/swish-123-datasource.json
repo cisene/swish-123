@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-14-rev-124144",
+    "date": "2022-04-14-rev-200531",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3475,6 +3475,16 @@
       "web": "https://annonsmarknan.se/"
     },
     {
+      "entry": 1231591817,
+      "orgNumber": "559113-2559",
+      "orgName": "Yoga & V\u00e4nner AB",
+      "categories": [
+        "utbildning",
+        "yoga"
+      ],
+      "web": "https://yogavanner.se/"
+    },
+    {
       "entry": 1231604560,
       "orgNumber": "866601-2938",
       "orgName": "Kvinnohuset Tranan / Skaraborgs Kvinnohusf\u00f6rening",
@@ -4928,6 +4938,15 @@
       "web": "https://www.centrumkyrkan-norrkoping.se/"
     },
     {
+      "entry": 1232203941,
+      "orgNumber": "640914-XXXX",
+      "orgName": "Yoga Resan i Lerum / Lena Johansson",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.yogaresan.se/"
+    },
+    {
       "entry": 1232206977,
       "orgNumber": "849000-9316",
       "orgName": "Falkenbergs Kvinnojour",
@@ -5586,6 +5605,16 @@
       "web": "https://www.svenskalag.se/tjalvefriidrott"
     },
     {
+      "entry": 1232427342,
+      "orgNumber": "556979-2962",
+      "orgName": "Everywhere yoga / Jenny S\u00f6rling Kommunikation AB",
+      "categories": [
+        "reiki",
+        "yoga"
+      ],
+      "web": "https://everywhereyoga.se/"
+    },
+    {
       "entry": 1232428340,
       "orgNumber": "559245-3764",
       "orgName": "Magasin Dikko AB",
@@ -5896,6 +5925,15 @@
         "stiftelse"
       ],
       "web": "https://spinalis.se/"
+    },
+    {
+      "entry": 1232639904,
+      "orgNumber": "780510-XXXX",
+      "orgName": "Yoga 121 / Maria Nahringbauer",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://yoga121.se/"
     },
     {
       "entry": 1232658102,
@@ -6277,6 +6315,15 @@
         "seans"
       ],
       "web": "https://www.mediumhannukoskinen.se/"
+    },
+    {
+      "entry": 1232787802,
+      "orgNumber": "671223-XXXX",
+      "orgName": "PT Cam / Camilla \u00c5str\u00f6m",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.ptcam.se/"
     },
     {
       "entry": 1232787927,
@@ -6779,6 +6826,16 @@
         "konstf\u00f6rening"
       ],
       "web": "https://www.nykopingskonstforening.nu/"
+    },
+    {
+      "entry": 1233044484,
+      "orgNumber": "559158-9212",
+      "orgName": "MOWE H\u00e4lso- & Yogacenter AB",
+      "categories": [
+        "massage",
+        "yoga"
+      ],
+      "web": "https://mowehalsayoga.se/"
     },
     {
       "entry": 1233045234,
@@ -8856,6 +8913,15 @@
       "web": "https://vhek.se/"
     },
     {
+      "entry": 1233991163,
+      "orgNumber": "681021-XXXX",
+      "orgName": "Yoga Med Helen / Helen K\u00e5sel\u00f6v",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.yogamedhelen.se/"
+    },
+    {
       "entry": 1233991197,
       "orgNumber": "556621-4135",
       "orgName": "Charterbuss Resetj\u00e4nst i Kristinehamn AB",
@@ -9039,6 +9105,17 @@
         "stiftelse"
       ],
       "web": "https://www.bernadottestiftelsen.se/"
+    },
+    {
+      "entry": 1234088563,
+      "orgNumber": "802001-8266",
+      "orgName": "Konserthuset Stockholm / Stockholms Konserthusstiftelse",
+      "categories": [
+        "kultur",
+        "musik",
+        "stiftelse"
+      ],
+      "web": "https://www.konserthuset.se/"
     },
     {
       "entry": 1234090619,
@@ -10715,6 +10792,15 @@
       "web": "https://skargardshotellethono.se/"
     },
     {
+      "entry": 1234914453,
+      "orgNumber": "559303-7160",
+      "orgName": "Sannas Yoga / Sanna Hagman Communication AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.sannasyoga.se/"
+    },
+    {
       "entry": 1234925095,
       "orgNumber": "769634-8130",
       "orgName": "Brf Idrottsplatsen",
@@ -11760,6 +11846,16 @@
       "orgNumber": "556512-6512",
       "orgName": "Reklambyr\u00e5n Stt AB",
       "web": "https://stthuset.com/"
+    },
+    {
+      "entry": 1235347224,
+      "orgNumber": "559242-4690",
+      "orgName": "Feel free by nature AB",
+      "categories": [
+        "tr\u00e4dg\u00e5rdsodling",
+        "yoga"
+      ],
+      "web": "https://www.feelfreebynature.se/yoga-i-saro/"
     },
     {
       "entry": 1235348701,
@@ -13510,6 +13606,15 @@
       "web": "https://speleo.se/"
     },
     {
+      "entry": 1236085807,
+      "orgNumber": "630503-XXXX",
+      "orgName": "Yoga NU Nacka - Stockholm",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://yoganu.nu/"
+    },
+    {
       "entry": 1236086706,
       "orgNumber": "556301-2490",
       "orgName": "Fr\u00f6s\u00e5ker Golf & Country Club AB",
@@ -14041,6 +14146,16 @@
       "web": "https://www.nordiskamuseet.se/"
     },
     {
+      "entry": 1236280663,
+      "orgNumber": "556995-9694",
+      "orgName": "Linneo Yoga AB",
+      "categories": [
+        "soma move",
+        "yoga"
+      ],
+      "web": "http://linneo.se/"
+    },
+    {
       "entry": 1236283394,
       "orgNumber": "802004-6457",
       "orgName": "Stiftelsen Rotarys Ungdomsutbyte i Sverige & Lettland",
@@ -14079,6 +14194,15 @@
         "katthem"
       ],
       "web": "https://www.vilse.nu/"
+    },
+    {
+      "entry": 1236291322,
+      "orgNumber": "620807-XXXX",
+      "orgName": "Helenes M.Y Balance p\u00e5 R\u00e5\u00e5 / Helene Kroll",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://mybalanceyoga.se/"
     },
     {
       "entry": 1236299754,
@@ -14822,6 +14946,17 @@
         "religion"
       ],
       "web": "https://www.klovertraskpingst.com/"
+    },
+    {
+      "entry": 1236689962,
+      "orgNumber": "556894-9266",
+      "orgName": "Kollbergg\u00e5rden / \u00d6lands YogaStudio & Islandsh\u00e4star AB",
+      "categories": [
+        "ridl\u00e4ger",
+        "stuguthyrning",
+        "yoga"
+      ],
+      "web": "https://www.kollberggarden.se/yogawellness/"
     },
     {
       "entry": 1236691018,
