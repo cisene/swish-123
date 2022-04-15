@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="entries"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="entries">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="entry" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="entry">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="organization" minOccurs="1"/>
+        <xs:element ref="categories" minOccurs="0"/>
+        <xs:element name="web" minOccurs="1" type="xs:string"/>
+      </xs:sequence>
+      <xs:attribute name="number" type="xs:integer" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="organization">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="name" minOccurs="1" type="xs:string"/>
+        <xs:element name="number" minOccurs="1" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="categories">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="category" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="category">
+    <xs:complexType>
+      <xs:attribute name="type" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
