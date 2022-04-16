@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-16-rev-115532",
+    "date": "2022-04-16-rev-154717",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -439,6 +439,17 @@
       "web": "http://aia.nu/"
     },
     {
+      "entry": 1230248872,
+      "orgNumber": "559115-9594",
+      "orgName": "Yoga i \u00c5kersberga AB",
+      "categories": [
+        "massage",
+        "utbildning",
+        "yoga"
+      ],
+      "web": "https://www.yogaiakersberga.se/"
+    },
+    {
       "entry": 1230259804,
       "orgNumber": "802477-8113",
       "orgName": "Together for Better",
@@ -456,6 +467,15 @@
         "stiftelse"
       ],
       "web": "https://hemmetvidvagen.se/"
+    },
+    {
+      "entry": 1230263343,
+      "orgNumber": "760815-XXXX",
+      "orgName": "Yogafarmen / Linn\u00e9a El-Solh",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.yogafarmen.se/"
     },
     {
       "entry": 1230279372,
@@ -526,6 +546,16 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://www.brfpinnpojken.se/"
+    },
+    {
+      "entry": 1230316760,
+      "orgNumber": "750811-XXXX",
+      "orgName": "Yoganathi / Kundaliniyoga med Nathalie Parkvall / Nathalie Parkvall",
+      "categories": [
+        "meditation",
+        "yoga"
+      ],
+      "web": "http://yoganathi.se/"
     },
     {
       "entry": 1230321976,
@@ -924,6 +954,27 @@
       "web": "https://www.granopingst.se/"
     },
     {
+      "entry": 1230481606,
+      "orgNumber": "556811-3541",
+      "orgName": "Pilgrimage Yoga / Action Port AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://pilgrimage.se/"
+    },
+    {
+      "entry": 1230482364,
+      "orgNumber": "802413-6361",
+      "orgName": "Br\u00f6stcancerf\u00f6reningen P\u00e4rlan Helsingborg",
+      "categories": [
+        "cancer",
+        "f\u00f6rbund",
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://helsingborg.brostcancerforbundet.se/"
+    },
+    {
       "entry": 1230483651,
       "orgNumber": "878001-3077",
       "orgName": "Hallstahammars SK Fotbollsklubb",
@@ -1219,6 +1270,15 @@
       "web": "https://www.sinnenperception.se/"
     },
     {
+      "entry": 1230655753,
+      "orgNumber": "600912-XXXX",
+      "orgName": "Yogak\u00e4llan Bommen-Junisk\u00e4r / Monica Gustafsson",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.yogakallan.nu/"
+    },
+    {
       "entry": 1230656728,
       "orgNumber": "897300-0261",
       "orgName": "Kiruna jakt- och fiskev\u00e5rdsf\u00f6rening",
@@ -1229,6 +1289,19 @@
         "viltv\u00e5rd"
       ],
       "web": "https://www.kirunajaktochfiske.se/"
+    },
+    {
+      "entry": 1230692855,
+      "orgNumber": "559010-7131",
+      "orgName": "Helhetsh\u00e4lsan i \u00d6sterg\u00f6tland AB",
+      "categories": [
+        "friskv\u00e5rd",
+        "gym",
+        "massage",
+        "tr\u00e4ning",
+        "yoga"
+      ],
+      "web": "https://www.helhetshalsanshus.se/gym/"
     },
     {
       "entry": 1230702068,
@@ -2148,6 +2221,17 @@
         "religion"
       ],
       "web": "https://www.imkorebro.se/"
+    },
+    {
+      "entry": 1231079706,
+      "orgNumber": "559093-5127",
+      "orgName": "Charity Yoga / Marie Mallmin AB",
+      "categories": [
+        "utbildning",
+        "v\u00e4lg\u00f6renhet",
+        "yoga"
+      ],
+      "web": "https://www.charityyoga.se/"
     },
     {
       "entry": 1231083948,
@@ -3273,6 +3357,17 @@
       "web": "https://www.kronobergstaxklubb.se/"
     },
     {
+      "entry": 1231492370,
+      "orgNumber": "830308-XXXX",
+      "orgName": "Solna Yogaskola / Siddha Vidya Harlin",
+      "categories": [
+        "massage",
+        "utbildning",
+        "yoga"
+      ],
+      "web": "https://www.trideviyoga.se/"
+    },
+    {
       "entry": 1231493444,
       "orgNumber": "802429-2420",
       "orgName": "Bor\u00e5s Skidl\u00f6parklubb",
@@ -3449,6 +3544,15 @@
         "katthem"
       ],
       "web": "http://katthjalpen.nu/"
+    },
+    {
+      "entry": 1231569177,
+      "orgNumber": "556921-6509",
+      "orgName": "G\u00e4vle Yogaskola AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.gavleyogaskola.se/"
     },
     {
       "entry": 1231574268,
@@ -4061,6 +4165,21 @@
       "web": "https://www.sverigesveteranforbund.se/"
     },
     {
+      "entry": 1231814706,
+      "orgNumber": "670602-XXXX",
+      "orgName": "Livet Och Sj\u00e4len i Varberg / Ann H\u00e4ggebrant",
+      "categories": [
+        "healing",
+        "meditation",
+        "par-terapi",
+        "reiki",
+        "spiritualism",
+        "tarot",
+        "yoga"
+      ],
+      "web": "https://www.livetochsjalen.se/"
+    },
+    {
       "entry": 1231816495,
       "orgNumber": "818000-5798",
       "orgName": "Eskilstuna Motorflygklubb, EMFK",
@@ -4378,6 +4497,15 @@
       "web": "https://www.sharemusic.se/"
     },
     {
+      "entry": 1231983725,
+      "orgNumber": "590627-XXXX",
+      "orgName": "Yogak\u00e4llan Friskv\u00e5rd i Bor\u00e5s / Anne L\u00f6tj\u00f6nen Sund",
+      "categories": [
+        "yoga"
+      ],
+      "web": "http://yogakallan.se/"
+    },
+    {
       "entry": 1231988302,
       "orgNumber": "826000-6625",
       "orgName": "Hela M\u00e4nniskan J\u00f6nk\u00f6ping",
@@ -4626,6 +4754,16 @@
         "orden"
       ],
       "web": "https://www.bifrostorden.se/"
+    },
+    {
+      "entry": 1232045060,
+      "orgNumber": "701010-XXXX",
+      "orgName": "Yoga med L8 / Lotta Fr\u00f6jdfeldt",
+      "categories": [
+        "meditation",
+        "yoga"
+      ],
+      "web": "https://www.yogamedl8.se/priser"
     },
     {
       "entry": 1232055309,
@@ -4966,6 +5104,14 @@
       "web": "https://www.centrumkyrkan-norrkoping.se/"
     },
     {
+      "entry": 1232200038,
+      "orgNumber": "610302-XXXX",
+      "orgName": "Enskild Firma / Maria Jonsson",
+      "categories": [
+        "yoga"
+      ]
+    },
+    {
       "entry": 1232203941,
       "orgNumber": "640914-XXXX",
       "orgName": "Yoga Resan i Lerum / Lena Johansson",
@@ -5074,6 +5220,16 @@
         "f\u00f6rening"
       ],
       "web": "https://fib.se/"
+    },
+    {
+      "entry": 1232243541,
+      "orgNumber": "701023-XXXX",
+      "orgName": "Jenny Str\u00f6m",
+      "categories": [
+        "utbildning",
+        "yoga"
+      ],
+      "web": "https://www.jennystrom.se/"
     },
     {
       "entry": 1232251684,
@@ -5806,9 +5962,21 @@
       "orgNumber": "802424-1948",
       "orgName": "Stiftelsen Ekolsunds Slott och Park",
       "categories": [
-        "stiftelse"
+        "stiftelse",
+        "yoga"
       ],
       "web": "https://www.ekolsundsslott.se/"
+    },
+    {
+      "entry": 1232579696,
+      "orgNumber": "651221-XXXX",
+      "orgName": "Annas Veranda / Anna Jakobsson",
+      "categories": [
+        "hantverk",
+        "konst",
+        "yoga"
+      ],
+      "web": "https://www.annasveranda.se/"
     },
     {
       "entry": 1232580041,
@@ -6373,6 +6541,16 @@
       "web": "https://www.lerumsfotoklubb.se/"
     },
     {
+      "entry": 1232789600,
+      "orgNumber": "556501-3280",
+      "orgName": "House of Zen i S\u00f6derk\u00f6ping AB",
+      "categories": [
+        "meditation",
+        "yoga"
+      ],
+      "web": "https://houseofzen.se/"
+    },
+    {
       "entry": 1232799351,
       "orgNumber": "802479-3518",
       "orgName": "Insamlingsstiftelsen Sk\u00e5nsk MTB Utveckling",
@@ -6781,6 +6959,15 @@
       "web": "https://www.guif.nu/"
     },
     {
+      "entry": 1232991826,
+      "orgNumber": "630222-XXXX",
+      "orgName": "Maingat Yoga V\u00e4stervik / Kerstin Severin",
+      "categories": [
+        "yoga"
+      ],
+      "web": "http://www.maingatyoga.se/"
+    },
+    {
       "entry": 1233022688,
       "orgNumber": "815600-7562",
       "orgName": "Kvinnojouren Annfrid",
@@ -7136,6 +7323,14 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://ulfwetterstrand.wixsite.com/tpbk/"
+    },
+    {
+      "entry": 1233158128,
+      "orgNumber": "556666-0410",
+      "orgName": "Emilia Lo\u0308f Karlsson / Exlabs AB",
+      "categories": [
+        "yoga"
+      ]
     },
     {
       "entry": 1233170289,
@@ -7567,6 +7762,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/YIFFF/"
+    },
+    {
+      "entry": 1233352622,
+      "orgNumber": "790426-XXXX",
+      "orgName": "Mindful Training i V\u00e4rnamo / Maria Mode\u00e9",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.mindfultraining.se/"
     },
     {
       "entry": 1233360070,
@@ -8044,6 +8248,15 @@
         "utbildning"
       ],
       "web": "https://eskilstunatrafikskolan.se/"
+    },
+    {
+      "entry": 1233548807,
+      "orgNumber": "556979-6997",
+      "orgName": "Saran Yoga AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://saranyoga.se/"
     },
     {
       "entry": 1233549151,
@@ -8810,7 +9023,8 @@
       "categories": [
         "idrottsf\u00f6rening",
         "l\u00e4ngdskid\u00e5kning",
-        "skidor"
+        "skidor",
+        "yoga"
       ],
       "web": "https://ikhp.se/"
     },
@@ -9535,6 +9749,16 @@
       "web": "https://www.bodenhandboll.se/"
     },
     {
+      "entry": 1234248480,
+      "orgNumber": "556588-3427",
+      "orgName": "Anna Fahlgren / Anna \u00c5hlgren / GoMobile nu AB",
+      "categories": [
+        "utbildning",
+        "yoga"
+      ],
+      "web": "https://www.annafahlgren.se/"
+    },
+    {
       "entry": 1234260980,
       "orgNumber": "817000-9222",
       "orgName": "Lions Club B\u00e5lsta",
@@ -10152,6 +10376,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://attention-vasteras.se/"
+    },
+    {
+      "entry": 1234520219,
+      "orgNumber": "720613-XXXX",
+      "orgName": "Iyengaryogacenter \u00d6stra G\u00f6teborg / Ingrid Engstr\u00f6m",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://iyengaryogacenter.se/"
     },
     {
       "entry": 1234522207,
@@ -10934,6 +11167,15 @@
       "web": "https://www.elmbv.se/"
     },
     {
+      "entry": 1234957999,
+      "orgNumber": "811207-XXXX",
+      "orgName": "Zoloz Yoga / Pia Burman",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://zoloz.se/"
+    },
+    {
       "entry": 1234962924,
       "orgNumber": "802516-5096",
       "orgName": "Lerums Scoutk\u00e5r",
@@ -11351,6 +11593,15 @@
       "web": "https://nognu.org/"
     },
     {
+      "entry": 1235126149,
+      "orgNumber": "820927-XXXX",
+      "orgName": "Therese Lind",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://thereselind.se/"
+    },
+    {
       "entry": 1235126479,
       "orgNumber": "556794-7352",
       "orgName": "Rydg\u00e5rds H\u00e4sttransport Center - RHTC AB",
@@ -11680,6 +11931,16 @@
         "religion"
       ],
       "web": "https://www.savarakyrkan.se/"
+    },
+    {
+      "entry": 1235263512,
+      "orgNumber": "556823-3836",
+      "orgName": "VIYoga AB",
+      "categories": [
+        "massage",
+        "yoga"
+      ],
+      "web": "https://www.viyoga.se/"
     },
     {
       "entry": 1235264031,
@@ -12308,6 +12569,16 @@
       "web": "https://chalmersalternativesports.com/"
     },
     {
+      "entry": 1235476700,
+      "orgNumber": "969787-4049",
+      "orgName": "WRP Sweden",
+      "categories": [
+        "fordonsutrustning",
+        "f\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://www.wrpshop.se/"
+    },
+    {
       "entry": 1235502059,
       "orgNumber": "802494-5928",
       "orgName": "Kvinnojouren I Sundberg",
@@ -12919,6 +13190,16 @@
       "web": "https://helamanniskan.se/falkoping/"
     },
     {
+      "entry": 1235753645,
+      "orgNumber": "751206-XXXX",
+      "orgName": "Yoga by Sandra Adrian / Sandra Adrian",
+      "categories": [
+        "meditation",
+        "yoga"
+      ],
+      "web": "https://www.yogabysandraadrian.se/"
+    },
+    {
       "entry": 1235763040,
       "orgNumber": "894700-5958",
       "orgName": "Clemensn\u00e4s IF",
@@ -13361,6 +13642,14 @@
       "web": "https://hrf.se/kristinehamn/"
     },
     {
+      "entry": 1235943659,
+      "orgNumber": "690618-XXXX",
+      "orgName": "Anna Redin Yoga / Anna Redin",
+      "categories": [
+        "yoga"
+      ]
+    },
+    {
       "entry": 1235948427,
       "orgNumber": "876400-3946",
       "orgName": "Karlskoga Enduroklubb",
@@ -13566,6 +13855,15 @@
       "web": "https://www.efs.nu/"
     },
     {
+      "entry": 1236027593,
+      "orgNumber": "556797-6195",
+      "orgName": "Holistic Traning AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://holistictraining.se/"
+    },
+    {
       "entry": 1236033260,
       "orgNumber": "802448-9414",
       "orgName": "Linn\u00e9bygdens Hund\u00e4garf\u00f6rening",
@@ -13612,6 +13910,16 @@
         "utbildning"
       ],
       "web": "https://www.rattenstrafikskola.se/"
+    },
+    {
+      "entry": 1236059356,
+      "orgNumber": "700507-XXXX",
+      "orgName": "Yoga & Body Organics / Ulrika Corneliusson",
+      "categories": [
+        "utbildning",
+        "yoga"
+      ],
+      "web": "https://www.yogabodyorganics.se/"
     },
     {
       "entry": 1236059927,
@@ -14058,6 +14366,15 @@
         "boule"
       ],
       "web": "https://www.borasbouleallians.se/"
+    },
+    {
+      "entry": 1236204325,
+      "orgNumber": "740321-XXXX",
+      "orgName": "Lila shala / Kim Mariancila",
+      "categories": [
+        "yoga"
+      ],
+      "web": "http://www.lilashala.se/"
     },
     {
       "entry": 1236207088,
@@ -14618,6 +14935,7 @@
       "entry": 1236429401,
       "orgNumber": "802406-2898",
       "orgName": "Svenska Epilepsif\u00f6rbundet",
+      "comment": "Epilepsifonden",
       "categories": [
         "f\u00f6rbund",
         "neuroh\u00e4lsa"
@@ -14817,6 +15135,15 @@
       "web": "https://www.hallandsslaktforskare.se/"
     },
     {
+      "entry": 1236558779,
+      "orgNumber": "559237-9811",
+      "orgName": "Health in Balance by Christa AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.healthinbalance.se/"
+    },
+    {
       "entry": 1236559694,
       "orgNumber": "802535-2835",
       "orgName": "Gatujuristerna",
@@ -14874,6 +15201,16 @@
         "sportfiske"
       ],
       "web": "http://lilloringen.se/"
+    },
+    {
+      "entry": 1236624449,
+      "orgNumber": "556998-1375",
+      "orgName": "Purusa AB",
+      "categories": [
+        "massage",
+        "yoga"
+      ],
+      "web": "https://purusa.nu/"
     },
     {
       "entry": 1236627285,
@@ -15151,6 +15488,15 @@
       "web": "https://www.hembygd.se/linde"
     },
     {
+      "entry": 1236720445,
+      "orgNumber": "650120-XXXX",
+      "orgName": "Bor\u00e5s Yoga centrum / Kristina Andersson",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://borasyogacentrum.se/"
+    },
+    {
       "entry": 1236721575,
       "orgNumber": "849201-6350",
       "orgName": "Mellbystrandsf\u00f6reningen",
@@ -15310,7 +15656,9 @@
       "orgName": "Himlen TV7 (Korsets St\u00f6d R.F.)",
       "categories": [
         "lokaltelevision",
-        "religion"
+        "meditation",
+        "religion",
+        "yoga"
       ],
       "web": "https://www.himlentv7.se/"
     },
@@ -15663,6 +16011,15 @@
         "religion"
       ],
       "web": "https://umea.pingst.se/"
+    },
+    {
+      "entry": 1236968424,
+      "orgNumber": "751029-XXXX",
+      "orgName": "The Light of My Soul / Ulrika Knutsdotter",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.thelightofmysoul.se/"
     },
     {
       "entry": 1236972020,

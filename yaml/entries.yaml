@@ -390,6 +390,16 @@ entries:
   - supporterklubb
   web: http://aia.nu/
 
+- entry: 1230248872
+  orgName: Yoga i Åkersberga AB
+  orgNumber: 559115-9594
+  comment: null
+  categories:
+  - massage
+  - utbildning
+  - yoga
+  web: https://www.yogaiakersberga.se/
+
 - entry: 1230259804
   orgName: Together for Better
   orgNumber: 802477-8113
@@ -406,6 +416,14 @@ entries:
   categories:
   - stiftelse
   web: https://hemmetvidvagen.se/
+
+- entry: 1230263343
+  orgName: Yogafarmen / Linnéa El-Solh
+  orgNumber: 760815-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://www.yogafarmen.se/
 
 - entry: 1230279372
   orgName: Starlight Psykologi AB
@@ -468,6 +486,15 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://www.brfpinnpojken.se/
+
+- entry: 1230316760
+  orgName: Yoganathi / Kundaliniyoga med Nathalie Parkvall / Nathalie Parkvall
+  orgNumber: 750811-XXXX
+  comment: null
+  categories:
+  - meditation
+  - yoga
+  web: http://yoganathi.se/
 
 - entry: 1230321976
   orgName: Skara Baptistförsamling
@@ -819,6 +846,25 @@ entries:
   - religion
   web: https://www.granopingst.se/
 
+- entry: 1230481606
+  orgName: Pilgrimage Yoga / Action Port AB
+  orgNumber: 556811-3541
+  comment: null
+  categories:
+  - yoga
+  web: https://pilgrimage.se/
+
+- entry: 1230482364
+  orgName: Bröstcancerföreningen Pärlan Helsingborg
+  orgNumber: 802413-6361
+  comment: null
+  categories:
+  - cancer
+  - förbund
+  - förening
+  - intresseförening
+  web: https://helsingborg.brostcancerforbundet.se/
+
 - entry: 1230483651
   orgName: Hallstahammars SK Fotbollsklubb
   orgNumber: 878001-3077
@@ -1091,6 +1137,14 @@ entries:
   - förening
   web: https://www.sinnenperception.se/
 
+- entry: 1230655753
+  orgName: Yogakällan Bommen-Juniskär / Monica Gustafsson
+  orgNumber: 600912-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://www.yogakallan.nu/
+
 - entry: 1230656728
   orgName: Kiruna jakt- och fiskevårdsförening
   orgNumber: 897300-0261
@@ -1100,6 +1154,18 @@ entries:
   - naturvård
   - viltvård
   web: https://www.kirunajaktochfiske.se/
+
+- entry: 1230692855
+  orgName: Helhetshälsan i Östergötland AB
+  orgNumber: 559010-7131
+  comment: null
+  categories:
+  - friskvård
+  - gym
+  - massage
+  - träning
+  - yoga
+  web: https://www.helhetshalsanshus.se/gym/
 
 - entry: 1230702068
   orgName: Svenska Skyttesportförbundet
@@ -1562,6 +1628,13 @@ entries:
   - idrottsförening
   web: https://www.guif.nu/
 
+- entry: 1230892901
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230898692
   orgName: Filadelfiaförsamlingen Avesta
   orgNumber: 882000-0407
@@ -1911,6 +1984,16 @@ entries:
   categories:
   - religion
   web: https://www.imkorebro.se/
+
+- entry: 1231079706
+  orgName: Charity Yoga / Marie Mallmin AB
+  orgNumber: 559093-5127
+  comment: null
+  categories:
+  - utbildning
+  - välgörenhet
+  - yoga
+  web: https://www.charityyoga.se/
 
 - entry: 1231083948
   orgName: Mäster Olofsgården
@@ -2916,6 +2999,16 @@ entries:
   - taxklubb
   web: https://www.kronobergstaxklubb.se/
 
+- entry: 1231492370
+  orgName: Solna Yogaskola / Siddha Vidya Harlin
+  orgNumber: 830308-XXXX
+  comment: null
+  categories:
+  - massage
+  - utbildning
+  - yoga
+  web: https://www.trideviyoga.se/
+
 - entry: 1231493444
   orgName: Borås Skidlöparklubb
   orgNumber: 802429-2420
@@ -3074,6 +3167,14 @@ entries:
   - husdjur
   - katthem
   web: http://katthjalpen.nu/
+
+- entry: 1231569177
+  orgName: Gävle Yogaskola AB
+  orgNumber: 556921-6509
+  comment: null
+  categories:
+  - yoga
+  web: https://www.gavleyogaskola.se/
 
 - entry: 1231574268
   orgName: Skarpa Kvinns
@@ -3620,6 +3721,20 @@ entries:
   - förening
   web: https://www.sverigesveteranforbund.se/
 
+- entry: 1231814706
+  orgName: Livet Och Själen i Varberg / Ann Häggebrant
+  orgNumber: 670602-XXXX
+  comment: null
+  categories:
+  - healing
+  - meditation
+  - par-terapi
+  - reiki
+  - spiritualism
+  - tarot
+  - yoga
+  web: https://www.livetochsjalen.se/
+
 - entry: 1231816495
   orgName: Eskilstuna Motorflygklubb, EMFK
   orgNumber: 818000-5798
@@ -3898,6 +4013,14 @@ entries:
   - musik
   web: https://www.sharemusic.se/
 
+- entry: 1231983725
+  orgName: Yogakällan Friskvård i Borås / Anne Lötjönen Sund
+  orgNumber: 590627-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: http://yogakallan.se/
+
 - entry: 1231988302
   orgName: Hela Människan Jönköping
   orgNumber: 826000-6625
@@ -4119,6 +4242,15 @@ entries:
   categories:
   - orden
   web: https://www.bifrostorden.se/
+
+- entry: 1232045060
+  orgName: Yoga med L8 / Lotta Fröjdfeldt
+  orgNumber: 701010-XXXX
+  comment: null
+  categories:
+  - meditation
+  - yoga
+  web: https://www.yogamedl8.se/priser
 
 - entry: 1232055309
   orgName: HairAgain Nordic AB
@@ -4422,6 +4554,14 @@ entries:
   - religion
   web: https://www.centrumkyrkan-norrkoping.se/
 
+- entry: 1232200038
+  orgName: Enskild Firma / Maria Jonsson
+  orgNumber: 610302-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: null
+
 - entry: 1232203941
   orgName: Yoga Resan i Lerum / Lena Johansson
   orgNumber: 640914-XXXX
@@ -4528,6 +4668,15 @@ entries:
   categories:
   - förening
   web: https://fib.se/
+
+- entry: 1232243541
+  orgName: Jenny Ström
+  orgNumber: 701023-XXXX
+  comment: null
+  categories:
+  - utbildning
+  - yoga
+  web: https://www.jennystrom.se/
 
 - entry: 1232251684
   orgName: Akeauktioner
@@ -5178,7 +5327,18 @@ entries:
   comment: null
   categories:
   - stiftelse
+  - yoga
   web: https://www.ekolsundsslott.se/
+
+- entry: 1232579696
+  orgName: Annas Veranda / Anna Jakobsson
+  orgNumber: 651221-XXXX
+  comment: null
+  categories:
+  - hantverk
+  - konst
+  - yoga
+  web: https://www.annasveranda.se/
 
 - entry: 1232580041
   orgName: Gävle JazzClub
@@ -5680,6 +5840,15 @@ entries:
   - förening
   web: https://www.lerumsfotoklubb.se/
 
+- entry: 1232789600
+  orgName: House of Zen i Söderköping AB
+  orgNumber: 556501-3280
+  comment: null
+  categories:
+  - meditation
+  - yoga
+  web: https://houseofzen.se/
+
 - entry: 1232799351
   orgName: Insamlingsstiftelsen Skånsk MTB Utveckling
   orgNumber: 802479-3518
@@ -6045,6 +6214,14 @@ entries:
   - idrottsförening
   web: https://www.guif.nu/
 
+- entry: 1232991826
+  orgName: Maingat Yoga Västervik / Kerstin Severin
+  orgNumber: 630222-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: http://www.maingatyoga.se/
+
 - entry: 1233022688
   orgName: Kvinnojouren Annfrid
   orgNumber: 815600-7562
@@ -6365,6 +6542,14 @@ entries:
   - bowling
   - pensionärsklubb
   web: https://ulfwetterstrand.wixsite.com/tpbk/
+
+- entry: 1233158128
+  orgName: Emilia Löf Karlsson / Exlabs AB
+  orgNumber: 556666-0410
+  comment: null
+  categories:
+  - yoga
+  web: null
 
 - entry: 1233170289
   orgName: Hembygdsföreningen Noraskog
@@ -6780,6 +6965,14 @@ entries:
   categories:
   - idrottsförening
   web: https://www.laget.se/YIFFF/
+
+- entry: 1233352622
+  orgName: Mindful Training i Värnamo / Maria Modeé
+  orgNumber: 790426-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://www.mindfultraining.se/
 
 - entry: 1233360070
   orgName: Moderata Samlingspartiet Riksorganisationen
@@ -7205,6 +7398,14 @@ entries:
   - trafikskola
   - utbildning
   web: https://eskilstunatrafikskolan.se/
+
+- entry: 1233548807
+  orgName: Saran Yoga AB
+  orgNumber: 556979-6997
+  comment: null
+  categories:
+  - yoga
+  web: https://saranyoga.se/
 
 - entry: 1233549151
   orgName: Djurens Vänners Riksorganisation
@@ -7903,6 +8104,7 @@ entries:
   - idrottsförening
   - längdskidåkning
   - skidor
+  - yoga
   web: https://ikhp.se/
 
 - entry: 1233930658
@@ -8551,6 +8753,15 @@ entries:
   - idrottsförening
   web: https://www.bodenhandboll.se/
 
+- entry: 1234248480
+  orgName: Anna Fahlgren / Anna Åhlgren / GoMobile nu AB
+  orgNumber: 556588-3427
+  comment: null
+  categories:
+  - utbildning
+  - yoga
+  web: https://www.annafahlgren.se/
+
 - entry: 1234260980
   orgName: Lions Club Bålsta
   orgNumber: 817000-9222
@@ -9101,6 +9312,14 @@ entries:
   categories:
   - intresseförening
   web: https://attention-vasteras.se/
+
+- entry: 1234520219
+  orgName: Iyengaryogacenter Östra Göteborg / Ingrid Engström
+  orgNumber: 720613-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://iyengaryogacenter.se/
 
 - entry: 1234522207
   orgName: Brännkyrka Församling
@@ -9791,6 +10010,14 @@ entries:
   - religion
   web: https://www.elmbv.se/
 
+- entry: 1234957999
+  orgName: Zoloz Yoga / Pia Burman
+  orgNumber: 811207-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://zoloz.se/
+
 - entry: 1234962924
   orgName: Lerums Scoutkår
   orgNumber: 802516-5096
@@ -10168,6 +10395,14 @@ entries:
   - tjejjour
   web: https://nognu.org/
 
+- entry: 1235126149
+  orgName: Therese Lind
+  orgNumber: 820927-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://thereselind.se/
+
 - entry: 1235126479
   orgName: Rydgårds Hästtransport Center - RHTC AB
   orgNumber: 556794-7352
@@ -10478,6 +10713,15 @@ entries:
   categories:
   - religion
   web: https://www.savarakyrkan.se/
+
+- entry: 1235263512
+  orgName: VIYoga AB
+  orgNumber: 556823-3836
+  comment: null
+  categories:
+  - massage
+  - yoga
+  web: https://www.viyoga.se/
 
 - entry: 1235264031
   orgName: Frälsningsarmén
@@ -11048,6 +11292,15 @@ entries:
   - studentkår
   web: https://chalmersalternativesports.com/
 
+- entry: 1235476700
+  orgName: WRP Sweden
+  orgNumber: 969787-4049
+  comment: null
+  categories:
+  - fordonsutrustning
+  - försäljning
+  web: https://www.wrpshop.se/
+
 - entry: 1235502059
   orgName: Kvinnojouren I Sundberg
   orgNumber: 802494-5928
@@ -11588,6 +11841,15 @@ entries:
   - hjälporganisation
   web: https://helamanniskan.se/falkoping/
 
+- entry: 1235753645
+  orgName: Yoga by Sandra Adrian / Sandra Adrian
+  orgNumber: 751206-XXXX
+  comment: null
+  categories:
+  - meditation
+  - yoga
+  web: https://www.yogabysandraadrian.se/
+
 - entry: 1235763040
   orgName: Clemensnäs IF
   orgNumber: 894700-5958
@@ -11976,6 +12238,14 @@ entries:
   - riksförbund
   web: https://hrf.se/kristinehamn/
 
+- entry: 1235943659
+  orgName: Anna Redin Yoga / Anna Redin
+  orgNumber: 690618-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: null
+
 - entry: 1235948427
   orgName: Karlskoga Enduroklubb
   orgNumber: 876400-3946
@@ -12158,6 +12428,14 @@ entries:
   - religion
   web: https://www.efs.nu/
 
+- entry: 1236027593
+  orgName: Holistic Traning AB
+  orgNumber: 556797-6195
+  comment: null
+  categories:
+  - yoga
+  web: https://holistictraining.se/
+
 - entry: 1236033260
   orgName: Linnébygdens Hundägarförening
   orgNumber: 802448-9414
@@ -12200,6 +12478,15 @@ entries:
   - trafikskola
   - utbildning
   web: https://www.rattenstrafikskola.se/
+
+- entry: 1236059356
+  orgName: Yoga & Body Organics / Ulrika Corneliusson
+  orgNumber: 700507-XXXX
+  comment: null
+  categories:
+  - utbildning
+  - yoga
+  web: https://www.yogabodyorganics.se/
 
 - entry: 1236059927
   orgName: Brottsofferjouren i Västerort
@@ -12596,6 +12883,14 @@ entries:
   categories:
   - boule
   web: https://www.borasbouleallians.se/
+
+- entry: 1236204325
+  orgName: Lila shala / Kim Mariancila
+  orgNumber: 740321-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: http://www.lilashala.se/
 
 - entry: 1236207088
   orgName: Stödföreningen för Svenska Kulturstiftelsen
@@ -13097,7 +13392,7 @@ entries:
 - entry: 1236429401
   orgName: Svenska Epilepsiförbundet
   orgNumber: 802406-2898
-  comment: null
+  comment: Epilepsifonden
   categories:
   - förbund
   - neurohälsa
@@ -13228,6 +13523,14 @@ entries:
   - sand
   web: https://www.snabbgrus.se/
 
+- entry: 1236526594
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - yoga
+  web: null
+
 - entry: 1236527121
   orgName: Nordvärmlandspodden med Torleif Styffe
   orgNumber: null
@@ -13290,6 +13593,14 @@ entries:
   - släktforskning
   web: https://www.hallandsslaktforskare.se/
 
+- entry: 1236558779
+  orgName: Health in Balance by Christa AB
+  orgNumber: 559237-9811
+  comment: null
+  categories:
+  - yoga
+  web: https://www.healthinbalance.se/
+
 - entry: 1236559694
   orgName: Gatujuristerna
   orgNumber: 802535-2835
@@ -13341,6 +13652,15 @@ entries:
   - fiskeklubb
   - sportfiske
   web: http://lilloringen.se/
+
+- entry: 1236624449
+  orgName: Purusa AB
+  orgNumber: 556998-1375
+  comment: null
+  categories:
+  - massage
+  - yoga
+  web: https://purusa.nu/
 
 - entry: 1236627285
   orgName: Kavalleri- och Jägarförbundet, KAVJF
@@ -13594,6 +13914,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/linde
 
+- entry: 1236720445
+  orgName: Borås Yoga centrum / Kristina Andersson
+  orgNumber: 650120-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://borasyogacentrum.se/
+
 - entry: 1236721575
   orgName: Mellbystrandsföreningen
   orgNumber: 849201-6350
@@ -13738,7 +14066,9 @@ entries:
   comment: null
   categories:
   - lokaltelevision
+  - meditation
   - religion
+  - yoga
   web: https://www.himlentv7.se/
 
 - entry: 1236779607
@@ -14052,6 +14382,14 @@ entries:
   categories:
   - religion
   web: https://umea.pingst.se/
+
+- entry: 1236968424
+  orgName: The Light of My Soul / Ulrika Knutsdotter
+  orgNumber: 751029-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://www.thelightofmysoul.se/
 
 - entry: 1236972020
   orgName: Eskilstuna GUIF IF
