@@ -24,6 +24,14 @@ entries:
   - donation
   web: https://www.rodakorset.se/
 
+- entry: 1230007344
+  orgName: SkrattYoga / HT Helhetstanken
+  orgNumber: 530728-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://skrattyoga.se/
+
 - entry: 1230009019
   orgName: Ättekulla lunchen / Fortuna Strandkrog / Fortuna by the Sea AB
   orgNumber: 556800-6893
@@ -223,6 +231,17 @@ entries:
   - ridklubb
   - ryttarförening
   web: http://www.balingerf.se/
+
+- entry: 1230182121
+  orgName: Föreningen för Tibetansk Buddhism i Göteborg
+  orgNumber: 855100-3679
+  comment: null
+  categories:
+  - healing
+  - meditation
+  - religion
+  - yoga
+  web: https://www.tibetanskbuddhism.se/
 
 - entry: 1230182188
   orgName: ATSUB/Göteborg - Föreningen Anhöriga Till Sexuellt Utnyttjade Barn Och Ungdomar
@@ -1239,6 +1258,15 @@ entries:
   - intresseförening
   web: http://fkvf.se/
 
+- entry: 1230729285
+  orgName: West Coast Pole & Dance Studio AB
+  orgNumber: 559277-9382
+  comment: null
+  categories:
+  - danskurser
+  - poledance
+  web: https://wcps.se/
+
 - entry: 1230729335
   orgName: Roslagens Ornitologiska Förening, ROF
   orgNumber: 802415-8175
@@ -2100,6 +2128,19 @@ entries:
   - sup
   - wakeboard
   web: https://www.vasterascablepark.se/
+
+- entry: 1231133107
+  orgName: Lymf- och lipödemföreningen Stockholms län
+  orgNumber: 8024519145
+  comment: null
+  categories:
+  - egenvårdsaktiviteter
+  - föreläsningar
+  - förening
+  - intresseförening
+  - patientförening
+  - påverkansarbete
+  web: https://lymfs.se/
 
 - entry: 1231134840
   orgName: Brunnsbo Musikklassförening
@@ -5330,6 +5371,14 @@ entries:
   - yoga
   web: https://www.ekolsundsslott.se/
 
+- entry: 1232566313
+  orgName: Villa Sunshine AB
+  orgNumber: 559207-8553
+  comment: null
+  categories:
+  - uthyrning
+  web: https://www.villasunshine.nu/
+
 - entry: 1232579696
   orgName: Annas Veranda / Anna Jakobsson
   orgNumber: 651221-XXXX
@@ -5683,6 +5732,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-hokerum/
 
+- entry: 1232717171
+  orgName: Funktionsmedicin / Eva-Lotta Ryd
+  orgNumber: 730506-XXXX
+  comment: null
+  categories:
+  - hälsorådgivning
+  - yoga
+  web: https://funktionsmed.se/
+
 - entry: 1232721223
   orgName: NXTME
   orgNumber: 802470-2725
@@ -5734,6 +5792,14 @@ entries:
   - rcbil
   - rcbåt
   web: https://www.eksjorck.se/
+
+- entry: 1232752517
+  orgName: Ebba Pettersson
+  orgNumber: 890313-XXXX
+  comment: null
+  categories:
+  - massage
+  web: null
 
 - entry: 1232753010
   orgName: Tjej- & Kvinnojouren Nordvärmland
@@ -5988,6 +6054,14 @@ entries:
   - djurvård
   web: https://www.ratthjalpen.com/
 
+- entry: 1232873172
+  orgName: Karin Fagerblom Pilates / Karin Fagerblom
+  orgNumber: 860828-XXXX
+  comment: null
+  categories:
+  - pilates
+  web: null
+
 - entry: 1232873990
   orgName: Linneryds Församling
   orgNumber: 252000-6319
@@ -6178,6 +6252,14 @@ entries:
   - försäljning
   - sanitetsprodukter
   web: https://periodpack.se/
+
+- entry: 1232980191
+  orgName: Formenca AB
+  orgNumber: 559054-5553
+  comment: null
+  categories:
+  - pilates
+  web: null
 
 - entry: 1232980456
   orgName: Skepplanda BTK
@@ -7747,6 +7829,25 @@ entries:
   - stiftelse
   web: https://www.ellenkey.se/
 
+- entry: 1233784972
+  orgName: IK VAVD
+  orgNumber: 817300-6258
+  comment: null
+  categories:
+  - bastu
+  - boule
+  - box
+  - eljusspår
+  - gym
+  - hund
+  - idrottsförening
+  - tabata
+  - tennis
+  - triathlon
+  - volleyboll
+  - yoga
+  web: http://www.ik-vavd.se/
+
 - entry: 1233785854
   orgName: Kvinno- och Tjejjouren Miranda
   orgNumber: 818501-2385
@@ -8044,6 +8145,18 @@ entries:
   categories:
   - hundsport
   web: https://www.hundtrixet.se/
+
+- entry: 1233899150
+  orgName: Habo Gymnastikförening
+  orgNumber: 802429-6777
+  comment: null
+  categories:
+  - friskvård
+  - gym
+  - gymnastikförening
+  - hälsa
+  - motion
+  web: https://www.gymmixhabo.se/
 
 - entry: 1233907268
   orgName: Hundens Hus AB
@@ -8716,6 +8829,16 @@ entries:
   - heminredning
   - keramik
   web: https://formcraft.se/
+
+- entry: 1234229415
+  orgName: Brahma Kumaris Andliga Världsuniversitet
+  orgNumber: 802015-5324
+  comment: null
+  categories:
+  - meditation
+  - religion
+  - yoga
+  web: https://www.brahmakumaris.se/
 
 - entry: 1234229852
   orgName: Hammarby IF Ishockeyförening
@@ -10091,6 +10214,15 @@ entries:
   - stiftelse
   web: https://hastforskning.se/
 
+- entry: 1234999272
+  orgName: Locktorps Festplats & Kulturförening
+  orgNumber: 8025213896
+  comment: null
+  categories:
+  - event
+  - kulturförening
+  web: https://locktorp.com/
+
 - entry: 1235009519
   orgName: Göta Bollklubb
   orgNumber: 863000-5299
@@ -10604,6 +10736,18 @@ entries:
   - riksförbund
   web: https://hrf.se/kristianstad/
 
+- entry: 1235200860
+  orgName: Lilla Götafors / Malin Och Simon Färg och Form AB
+  orgNumber: 556513-1207
+  comment: null
+  categories:
+  - bröllop
+  - event
+  - fester
+  - konferenser
+  - möten
+  web: https://lillagotafors.se/
+
 - entry: 1235203401
   orgName: Torsö Bygdegårds & Idrottsförening, TBIF
   orgNumber: 866000-9450
@@ -10884,6 +11028,15 @@ entries:
   - hundrehab
   - hundsim
   web: https://www.hundfysen.se/
+
+- entry: 1235322789
+  orgName: Westcoast Evolution Training AB
+  orgNumber: 556994-2138
+  comment: null
+  categories:
+  - personlig träning
+  - pt
+  web: null
 
 - entry: 1235331913
   orgName: Rönås Byakrog AB
@@ -11300,6 +11453,14 @@ entries:
   - fordonsutrustning
   - försäljning
   web: https://www.wrpshop.se/
+
+- entry: 1235482138
+  orgName: Låke 109 AB
+  orgNumber: 559297-0619
+  comment: null
+  categories:
+  - massage
+  web: null
 
 - entry: 1235502059
   orgName: Kvinnojouren I Sundberg
@@ -12015,6 +12176,14 @@ entries:
   - hembygdsförening
   web: http://gymmet.org/
 
+- entry: 1235811724
+  orgName: Anna Anderberg
+  orgNumber: null
+  comment: null
+  categories:
+  - massage
+  web: null
+
 - entry: 1235820105
   orgName: Burundi-hjälpen
   orgNumber: 802439-8797
@@ -12478,6 +12647,15 @@ entries:
   - trafikskola
   - utbildning
   web: https://www.rattenstrafikskola.se/
+
+- entry: 1236059059
+  orgName: Din Kiropraktor Falkenberg AB
+  orgNumber: 559091-0260
+  comment: null
+  categories:
+  - kiropraktik
+  - kiropraktor
+  web: https://dinkiropraktor.se/
 
 - entry: 1236059356
   orgName: Yoga & Body Organics / Ulrika Corneliusson
