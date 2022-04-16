@@ -4,8 +4,8 @@
 import os
 import re
 
-#import yaml
 import json
+import datetime
 
 import sqlite3
 from sqlite3 import Error
@@ -15,7 +15,7 @@ SQLITE_FILE = '../swish-123-data.sqlite'
 JSON_CATEGORIES_WEIGHTED_FILE = '../json/categories-weighted.json'
 JSON_CATEGORIES_UNIQUE_FILE = '../json/categories-unique.json'
 JSON_SEARCHDICTIONARY_FILE = '../json/search-dictionary.json'
-
+JSON_STATISTICS_FILE = '../json/statistics.json'
 
 global conn
 global cursor
@@ -236,6 +236,38 @@ def getCategoriesUnique():
     categories['data'].append(obj)
   return categories
 
+def getEntriesCount():
+  global conn
+  global cursor
+
+  result = 0
+
+  query = "SELECT COUNT(*) AS cnt FROM swish;"
+
+  cursor.execute(query)
+  records = cursor.fetchall()
+  for row in records:
+    result = int(row[0])
+
+  return result
+
+def getCategoriesCount():
+  global conn
+  global cursor
+
+  result = 0
+
+  query = "SELECT DISTINCT category AS cnt FROM categories;"
+
+  cursor.execute(query)
+  records = cursor.fetchall()
+  #for row in records:
+  #  result = int(row[0])
+  result = len(records)
+
+  return result
+
+
 
 def getCategoriesByCount():
   global conn
@@ -312,14 +344,35 @@ def renderCategoriesUnique():
   writeFile(file_contents, fullpath)
   print("Wrote {0} ..".format(str(fullpath)))
 
+def renderStatistics():
+  fullpath = JSON_STATISTICS_FILE
+
+  entries_count = getEntriesCount()
+  categories_count = getCategoriesCount()
+
+  updated = datetime.datetime.now().astimezone().replace(microsecond=0).isoformat()
+
+  obj = {
+    'entries': entries_count,
+    'categories': categories_count,
+    'updated': updated,
+  }
+
+  file_contents = json.dumps(obj, indent=2)
+  writeFile(file_contents, fullpath)
+  print("Wrote {0} ..".format(str(fullpath)))
+
+
 
 
 def main():
   create_connection(SQLITE_FILE)
 
-  renderCategoriesWeighted()
-  renderCategoriesUnique()
-  renderFilterDictionary()
+  #renderCategoriesWeighted()
+  #renderCategoriesUnique()
+  #renderFilterDictionary()
+
+  renderStatistics()
 
   destroy_connection()
 
