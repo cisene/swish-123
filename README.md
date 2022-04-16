@@ -12,13 +12,16 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 [Aktuell lista med Swish 123-nummer](https://github.com/cisene/swish-123/blob/master/swish-123.md) (Eye-candy)
 
-[Aktuell XML med Swish 123-nummer](https://github.com/cisene/swish-123/blob/master/xml-data/swish-123-datasource.xml) (Rådata)
+[JSON](https://github.com/cisene/swish-123/blob/master/json/swish-123-datasource.json)
+[TSV](https://github.com/cisene/swish-123/blob/master/text/swish-123-datasource.tsv)
+[CSV](https://github.com/cisene/swish-123/blob/master/text/swish-123-datasource.csv)
+[XML](https://github.com/cisene/swish-123/blob/master/xml-data/swish-123-datasource.xml)
 
 
 
 ## Användning av information från Swish 123
 
-Användning av [Swish 123](https://github.com/cisene/swish-123) data kan skådas på bland annat [Swish-Katalogen](https://b19.se/swish-katalogen) där dessa data exponeras i en enkel söktjänst genom tagg-moln och fritext sökning.
+Användning av [Swish 123](https://github.com/cisene/swish-123) data kan skådas på bland annat [Swish-Katalogen](https://b19.se/swish-katalogen/) där dessa data exponeras i en enkel söktjänst genom tagg-moln och fritext sökning.
 
 
 

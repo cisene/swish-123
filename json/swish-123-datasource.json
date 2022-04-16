@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-14-rev-200531",
+    "date": "2022-04-16-rev-115532",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -699,6 +699,16 @@
         "tr\u00e4ning"
       ],
       "web": "http://ontraining.se/"
+    },
+    {
+      "entry": 1230392142,
+      "orgNumber": "969650-4647",
+      "orgName": "Yoga i Hagen / Male & Female Production HB",
+      "categories": [
+        "massage",
+        "yoga"
+      ],
+      "web": "https://www.yogaihagen.se/"
     },
     {
       "entry": 1230394775,
@@ -1517,6 +1527,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.umeavastra.se/"
+    },
+    {
+      "entry": 1230811828,
+      "orgNumber": "559128-3675",
+      "orgName": "HoliBeYoga / Holistic Being AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://holibeyoga.se/"
     },
     {
       "entry": 1230821868,
@@ -4743,6 +4762,15 @@
       "web": "https://www.grastorp.se/uppleva-och-gora/bibliotek.html"
     },
     {
+      "entry": 1232139350,
+      "orgNumber": "559012-0639",
+      "orgName": "Naturn\u00e4ra Kundalini Yoga center / Tenth Gate Sweden AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.nkyc.se/"
+    },
+    {
       "entry": 1232141091,
       "orgNumber": "878000-5321",
       "orgName": "V\u00e4ster\u00e5s BK - Brottning",
@@ -5934,6 +5962,16 @@
         "yoga"
       ],
       "web": "https://yoga121.se/"
+    },
+    {
+      "entry": 1232656189,
+      "orgNumber": "559100-1952",
+      "orgName": "Fridens H\u00e4lsa AB",
+      "categories": [
+        "massage",
+        "yoga"
+      ],
+      "web": "http://www.fridenshalsa.se/"
     },
     {
       "entry": 1232658102,
@@ -8623,6 +8661,16 @@
       "web": "https://www.flaton.se/"
     },
     {
+      "entry": 1233884046,
+      "orgNumber": "830121-XXXX",
+      "orgName": "YogaJoy / Jennie Carlsson",
+      "categories": [
+        "healing",
+        "yoga"
+      ],
+      "web": "https://yogajoy.nu/"
+    },
+    {
       "entry": 1233884285,
       "orgNumber": "802505-5495",
       "orgName": "Pite\u00e5 IF Orienteringsklubb - Orientering",
@@ -9375,6 +9423,15 @@
         "utbildning"
       ],
       "web": "https://www.uppakra.se/"
+    },
+    {
+      "entry": 1234215471,
+      "orgNumber": "660220-XXXX",
+      "orgName": "Yoga Jajaja / Hel\u00e9ne Clemensson",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://yogajajaja.se/"
     },
     {
       "entry": 1234216891,
@@ -11490,6 +11547,16 @@
       "web": "http://www.sbakno.se/"
     },
     {
+      "entry": 1235192851,
+      "orgNumber": "556605-7997",
+      "orgName": "Yogakliniken - Corobar AB",
+      "categories": [
+        "massage",
+        "yoga"
+      ],
+      "web": "https://yogakliniken.se/"
+    },
+    {
       "entry": 1235200407,
       "orgNumber": "838200-9887",
       "orgName": "H\u00f6rselskadades Riksf\u00f6rbund Kristianstad",
@@ -11748,6 +11815,15 @@
         "djurskydd"
       ],
       "web": "https://www.djurensvanner.se/varnamo"
+    },
+    {
+      "entry": 1235294756,
+      "orgNumber": "860702-XXXX",
+      "orgName": "Sacred Spine Yoga Therapy / Petra Kalla",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.sacredspine.se/"
     },
     {
       "entry": 1235299938,
@@ -12032,6 +12108,20 @@
         "sportfiske"
       ],
       "web": "https://dellenbygdens-fvo.se/"
+    },
+    {
+      "entry": 1235419122,
+      "orgNumber": "829000-5688",
+      "orgName": "Stiftelsen Skandinavisk Yoga och Meditationsskola",
+      "comment": "H\u00e5 Kursg\u00e5rd",
+      "categories": [
+        "meditation",
+        "skola",
+        "stiftelse",
+        "utbildning",
+        "yoga"
+      ],
+      "web": "https://www.yoga.se/"
     },
     {
       "entry": 1235419205,
@@ -13122,6 +13212,16 @@
       "web": "http://aia.nu/"
     },
     {
+      "entry": 1235890405,
+      "orgNumber": "790212-XXXX",
+      "orgName": "Matildas Profylax & Gravidmassage / Matilda Hagg\u00e4rde",
+      "categories": [
+        "massage",
+        "yoga"
+      ],
+      "web": "https://www.matildasprofylax.se/"
+    },
+    {
       "entry": 1235890975,
       "orgNumber": "802004-1565",
       "orgName": "Svensk-Kubanska F\u00f6reningen",
@@ -13646,6 +13746,17 @@
         "katthem"
       ],
       "web": "https://www.djurskyddet-eskilstuna.se/"
+    },
+    {
+      "entry": 1236096325,
+      "orgNumber": "556932-6266",
+      "orgName": "TaudienTraining Aktiebolag",
+      "categories": [
+        "tr\u00e4ning",
+        "utbildning",
+        "yoga"
+      ],
+      "web": "https://taudientraining.se/"
     },
     {
       "entry": 1236096333,
@@ -14300,6 +14411,16 @@
       "web": "http://www.sverigenepal.se/"
     },
     {
+      "entry": 1236341259,
+      "orgNumber": "670713-XXXX",
+      "orgName": "Yoga & H\u00e4lsa \u00d6land / Tina Petersson",
+      "categories": [
+        "meditation",
+        "yoga"
+      ],
+      "web": "http://yogaochhalsa.se/"
+    },
+    {
       "entry": 1236345235,
       "orgNumber": "802411-5761",
       "orgName": "Svenska Downf\u00f6reningen",
@@ -14836,6 +14957,15 @@
       "web": "https://www.unizonjourer.se/kvinnoochtjejjourenjonkoping/"
     },
     {
+      "entry": 1236664551,
+      "orgNumber": "570327-XXXX",
+      "orgName": "Yoga-\u00c5sa, Kropp och sj\u00e4l / \u00c5sa Hansson",
+      "categories": [
+        "yoga"
+      ],
+      "web": "http://www.yogaasa.se/"
+    },
+    {
       "entry": 1236672174,
       "orgNumber": "826000-0784",
       "orgName": "Pingst J\u00f6nk\u00f6ping",
@@ -15119,6 +15249,15 @@
       "web": "https://www.karmaklubben.se/"
     },
     {
+      "entry": 1236764807,
+      "orgNumber": "560803-XXXX",
+      "orgName": "YOGA VEDA i Hamburgsund",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://yogaveda.se/"
+    },
+    {
       "entry": 1236765242,
       "orgNumber": "835001-3093",
       "orgName": "Kvinnojouren Karlskrona",
@@ -15244,6 +15383,19 @@
         "musik"
       ],
       "web": "http://gsvanner.se/"
+    },
+    {
+      "entry": 1236840896,
+      "orgNumber": "829000-5688",
+      "orgName": "Stiftelsen Skandinavisk Yoga och Meditationsskola",
+      "categories": [
+        "meditation",
+        "skola",
+        "stiftelse",
+        "utbildning",
+        "yoga"
+      ],
+      "web": "https://www.yoga.se/"
     },
     {
       "entry": 1236873228,
@@ -15431,6 +15583,15 @@
         "orientering"
       ],
       "web": "https://www.piteaifok.se/"
+    },
+    {
+      "entry": 1236934947,
+      "orgNumber": "660704-XXXX",
+      "orgName": "YOGAVI / Ulrika Wee-Ellis",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://yogavi.se/"
     },
     {
       "entry": 1236935126,
