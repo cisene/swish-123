@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-16-rev-171740",
+    "date": "2022-04-17-rev-021227",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1015,6 +1015,17 @@
       "web": "http://ostergotlandstaxklubb.dinstudio.se/"
     },
     {
+      "entry": 1230486738,
+      "orgNumber": "802017-3954",
+      "orgName": "Stiftelsen Livsuniversitetet",
+      "categories": [
+        "lokaluthyrning",
+        "stiftelse",
+        "yoga"
+      ],
+      "web": "https://livsuniversitetet.se/"
+    },
+    {
       "entry": 1230489542,
       "orgNumber": "556645-6728",
       "orgName": "L\u00e5ngbergets Sporthotell AB",
@@ -1203,6 +1214,17 @@
         "ornitologi"
       ],
       "web": "https://dalafaglar.se/"
+    },
+    {
+      "entry": 1230624999,
+      "orgNumber": "559165-5534",
+      "orgName": "N\u00f6tbackens TerapiDjurg\u00e5rd AB",
+      "categories": [
+        "events",
+        "kurser",
+        "meditation"
+      ],
+      "web": "https://n\u00f6tbacken.se/"
     },
     {
       "entry": 1230626697,
@@ -2166,6 +2188,15 @@
       "web": "https://kungsor.pingst.se/"
     },
     {
+      "entry": 1231052364,
+      "orgNumber": "832000-1962",
+      "orgName": "B\u00f6da Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/boda-hembygdsforening"
+    },
+    {
       "entry": 1231052372,
       "orgNumber": "556805-5411",
       "orgName": "Fiskfoder.se",
@@ -2905,6 +2936,16 @@
         "religion"
       ],
       "web": "https://grannapingst.se/"
+    },
+    {
+      "entry": 1231312990,
+      "orgNumber": "802011-5484",
+      "orgName": "Buddhistiska Gemenskapen Triratna",
+      "categories": [
+        "meditation",
+        "religion"
+      ],
+      "web": "https://stockholmsbuddhistcenter.se/"
     },
     {
       "entry": 1231314095,
@@ -4039,6 +4080,15 @@
         "sl\u00e4ktforskning"
       ],
       "web": "https://orustgenealogi.se/"
+    },
+    {
+      "entry": 1231744036,
+      "orgNumber": "802429-2586",
+      "orgName": "Ryd\u00f6bruks Samh\u00e4llsf\u00f6rening",
+      "categories": [
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/rydogarden/"
     },
     {
       "entry": 1231745298,
@@ -5221,6 +5271,16 @@
       "web": "http://www.styrsopingst.se/"
     },
     {
+      "entry": 1232223535,
+      "orgNumber": "631122-XXXX",
+      "orgName": "Gongiversum Sadhana Yoga & meditationsskola i Motala / Ildiko Kasza",
+      "categories": [
+        "meditation",
+        "yoga"
+      ],
+      "web": "https://www.gongiversum.com/"
+    },
+    {
       "entry": 1232228039,
       "orgNumber": "802520-0091",
       "orgName": "Aldrig Ensam",
@@ -5261,6 +5321,15 @@
         "yoga"
       ],
       "web": "https://www.jennystrom.se/"
+    },
+    {
+      "entry": 1232244721,
+      "orgNumber": "802401-7041",
+      "orgName": "International Buddhist Progress Society Sweden, IBPS Sweden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.ibpssweden.se/"
     },
     {
       "entry": 1232251684,
@@ -5428,6 +5497,16 @@
         "religion"
       ],
       "web": "https://umea.pingst.se/"
+    },
+    {
+      "entry": 1232280261,
+      "orgNumber": "559275-4534",
+      "orgName": "Ikigaivision of Sweden AB",
+      "categories": [
+        "akupunktur",
+        "yoga"
+      ],
+      "web": "https://ikigaiyoga.se/"
     },
     {
       "entry": 1232285021,
@@ -6801,6 +6880,17 @@
         "religion"
       ],
       "web": "https://dorotea.pingst.se/"
+    },
+    {
+      "entry": 1232884336,
+      "orgNumber": "556941-7370",
+      "orgName": "Willow H\u00e4lsa / Villa Cosmos AB / Helena Lundvik",
+      "categories": [
+        "reiki",
+        "shamanism",
+        "spiritualism"
+      ],
+      "web": "https://willow.se/"
     },
     {
       "entry": 1232885267,
@@ -9254,6 +9344,15 @@
       "web": "https://www.huaren.se/"
     },
     {
+      "entry": 1233983889,
+      "orgNumber": "621027-XXXX",
+      "orgName": "Nina Fox Stark",
+      "categories": [
+        "utbildning"
+      ],
+      "web": "https://www.ninafoxstark.se/"
+    },
+    {
       "entry": 1233984671,
       "orgNumber": "802419-2307",
       "orgName": "Glommens Samh\u00e4llsf\u00f6rening",
@@ -10477,6 +10576,15 @@
       "web": "https://vetlanda.pingst.se/"
     },
     {
+      "entry": 1234512224,
+      "orgNumber": "802002-4892",
+      "orgName": "Norrmalms baptistf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.norrmalmskyrkan.se/"
+    },
+    {
       "entry": 1234513115,
       "orgNumber": "802436-3981",
       "orgName": "Asylgruppen i Malm\u00f6",
@@ -11025,6 +11133,15 @@
       "web": "https://pingstjonkoping.se/"
     },
     {
+      "entry": 1234762985,
+      "orgNumber": "895400-5552",
+      "orgName": "BIF f\u00f6reningshus",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.blattnicksele.se/"
+    },
+    {
       "entry": 1234763397,
       "orgNumber": "802008-3641",
       "orgName": "Entomologiska F\u00f6reningen i Stockholm",
@@ -11472,6 +11589,16 @@
         "utbildning"
       ],
       "web": "http://fadderbarnsfonden.se/"
+    },
+    {
+      "entry": 1235046131,
+      "orgNumber": "760519-XXXX",
+      "orgName": "Alivio Massageterapi / Anette Ling",
+      "categories": [
+        "massage",
+        "reiki"
+      ],
+      "web": "https://www.bokadirekt.se/places/alivio-massageterapi-23180"
     },
     {
       "entry": 1235047709,
@@ -12826,6 +12953,15 @@
       "web": "https://www.vik-fotboll.com/"
     },
     {
+      "entry": 1235528724,
+      "orgNumber": "849600-1424",
+      "orgName": "Valinge IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/ValingeIF/"
+    },
+    {
       "entry": 1235531041,
       "orgNumber": "556259-5875",
       "orgName": "WIP i Borl\u00e4nge AB",
@@ -13899,6 +14035,15 @@
       "web": "https://gingribygdegard.se/"
     },
     {
+      "entry": 1235981436,
+      "orgNumber": "730614-XXXX",
+      "orgName": "Ma Deva Lina / Lina Ahlqvist",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://madevalina.se/"
+    },
+    {
       "entry": 1235991534,
       "orgNumber": "802523-9131",
       "orgName": "PON Unionen",
@@ -14544,6 +14689,15 @@
       "web": "https://www.svenskakulturstiftelsen.se/"
     },
     {
+      "entry": 1236212062,
+      "orgNumber": "490720-XXXX",
+      "orgName": "Reikicentrum Lidk\u00f6ping / Lilian Gustavsson",
+      "categories": [
+        "reiki"
+      ],
+      "web": "https://www.reikicentrum.se/"
+    },
+    {
       "entry": 1236212179,
       "orgNumber": "802518-5904",
       "orgName": "Kontext Press",
@@ -14799,6 +14953,16 @@
         "religion"
       ],
       "web": "https://www.tyresopingst.se/"
+    },
+    {
+      "entry": 1236310494,
+      "orgNumber": "760309-XXXX",
+      "orgName": "Sj\u00e4laGott / Kajsa Sj\u00f6gren",
+      "categories": [
+        "healing",
+        "yoga"
+      ],
+      "web": "https://www.sjalagott.com/"
     },
     {
       "entry": 1236311401,
@@ -15646,6 +15810,18 @@
       "web": "https://www.hembygd.se/linde"
     },
     {
+      "entry": 1236718472,
+      "orgNumber": "680902-XXXX",
+      "orgName": "LightTransmission / Karin \u00c5berg",
+      "categories": [
+        "healing",
+        "meditation",
+        "reiki",
+        "yoga"
+      ],
+      "web": "https://lighttransmission.se/"
+    },
+    {
       "entry": 1236720445,
       "orgNumber": "650120-XXXX",
       "orgName": "Bor\u00e5s Yoga centrum / Kristina Andersson",
@@ -15662,6 +15838,17 @@
         "intresseorganisation"
       ],
       "web": "http://www.mellbystrand.se/"
+    },
+    {
+      "entry": 1236731269,
+      "orgNumber": "860121-XXXX",
+      "orgName": "Lula Wellbeing / Cecilia Vintesn\u00f6",
+      "categories": [
+        "meditation",
+        "reiki",
+        "spiritualism"
+      ],
+      "web": "https://lulawellbeing.se/"
     },
     {
       "entry": 1236731624,
@@ -15902,6 +16089,17 @@
         "yoga"
       ],
       "web": "https://www.yoga.se/"
+    },
+    {
+      "entry": 1236866040,
+      "orgNumber": "660522-XXXX",
+      "orgName": "Rotbrunna h\u00e4st och kursg\u00e5rd / Claes Eningsj\u00f6",
+      "categories": [
+        "h\u00e4stg\u00e5rd",
+        "kursg\u00e5rd",
+        "reiki"
+      ],
+      "web": "https://www.rotbrunna.se/"
     },
     {
       "entry": 1236873228,
