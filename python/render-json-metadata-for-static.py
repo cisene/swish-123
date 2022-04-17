@@ -368,9 +368,9 @@ def renderStatistics():
 def main():
   create_connection(SQLITE_FILE)
 
-  #renderCategoriesWeighted()
-  #renderCategoriesUnique()
-  #renderFilterDictionary()
+  renderCategoriesWeighted()
+  renderCategoriesUnique()
+  renderFilterDictionary()
 
   renderStatistics()
 
