@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-17-rev-161435",
+    "date": "2022-04-19-rev-193134",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1134,7 +1134,6 @@
       "orgName": "GolfUppsala AB",
       "comment": "S\u00f6derby Golf - Greenfee, Shop, Inomhushall, Lodge, City Butiken",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.golfuppsala.se/"
@@ -2501,7 +2500,6 @@
       "orgNumber": "818000-0567",
       "orgName": "Eskilstuna Golfklubb",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.eskilstunagk.se/"
@@ -2630,7 +2628,6 @@
       "orgNumber": "559211-2055",
       "orgName": "Hulta Golf AB",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.hulta-bollebygdgk.se/"
@@ -2758,7 +2755,6 @@
       "orgNumber": "818001-2844",
       "orgName": "M\u00e4larbadens Golfklubb",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.malarbadensgk.se/"
@@ -3175,7 +3171,6 @@
       "orgNumber": "838201-1354",
       "orgName": "Skepparsl\u00f6vs Golfklubb",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.skepparslovsgk.se/"
@@ -3497,6 +3492,17 @@
         "taxklubb"
       ],
       "web": "https://www.kronobergstaxklubb.se/"
+    },
+    {
+      "entry": 1231489079,
+      "orgNumber": "969668-2245",
+      "orgName": "GameManiacs HB",
+      "categories": [
+        "datorspel",
+        "pyssel",
+        "rollspel"
+      ],
+      "web": "https://www.gamemaniacs.se/"
     },
     {
       "entry": 1231492370,
@@ -4748,7 +4754,6 @@
       "orgNumber": "556675-6705",
       "orgName": "Degerfors Golf AB (publ)",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.degerforsgolf.se/"
@@ -5053,6 +5058,15 @@
       "web": "http://www.schtunk.se/"
     },
     {
+      "entry": 1232129070,
+      "orgNumber": "846003-5291",
+      "orgName": "Malm\u00f6 S\u00f6dra Rotaryklubb",
+      "categories": [
+        "f\u00f6rening"
+      ],
+      "web": "https://malmo-sodra.rotary2390.se/"
+    },
+    {
       "entry": 1232132256,
       "orgNumber": "849600-6514",
       "orgName": "Brottsofferjouren Varberg",
@@ -5075,7 +5089,6 @@
       "orgNumber": "838201-8813",
       "orgName": "Degeberga-Widsk\u00f6fle Golfklubb",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://dwgolfklubb.se/"
@@ -5514,7 +5527,6 @@
       "orgNumber": "878000-5370",
       "orgName": "V\u00e4ster\u00e5s Golfklubb",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://vasterasgk.se/"
@@ -5749,6 +5761,15 @@
       "web": "https://scubatravel.se/"
     },
     {
+      "entry": 1232328607,
+      "orgNumber": "815600-9147",
+      "orgName": "Viksbergs Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://viksbergsgolf.se/"
+    },
+    {
       "entry": 1232342988,
       "orgNumber": "556550-6622",
       "orgName": "Sk\u00e5nes Auktionsverk AB",
@@ -5793,7 +5814,6 @@
       "orgName": "GolfUppsala AB",
       "comment": "Edenhof Golf - Greenfee, Shop",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.golfuppsala.se/"
@@ -6056,6 +6076,15 @@
         "stiftelse"
       ],
       "web": "http://linneasstiftelse.se/"
+    },
+    {
+      "entry": 1232440469,
+      "orgNumber": "832800-5122",
+      "orgName": "Oskarshamns Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://oskarshamnsgk.se/"
     },
     {
       "entry": 1232441079,
@@ -7825,7 +7854,6 @@
       "orgNumber": "802416-8216",
       "orgName": "Sundbyviks Golfklubb",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "http://www.sundbyvikgolf.se/"
@@ -8042,6 +8070,16 @@
         "f\u00f6rening"
       ],
       "web": "https://svensksocialmedicin.wordpress.com/"
+    },
+    {
+      "entry": 1233278983,
+      "orgNumber": "882601-5466",
+      "orgName": "Flyktinggruppernas Riksr\u00e5d, FARR",
+      "categories": [
+        "f\u00f6rening",
+        "riksorganisation"
+      ],
+      "web": "https://farr.se/"
     },
     {
       "entry": 1233289840,
@@ -8619,6 +8657,15 @@
       "web": "https://hillsong.com/sweden/"
     },
     {
+      "entry": 1233526787,
+      "orgNumber": "802414-4969",
+      "orgName": "Svenska Hoyas\u00e4llskapet",
+      "categories": [
+        "fritidsodling"
+      ],
+      "web": "http://www.swedishhoyasociety.com/"
+    },
+    {
       "entry": 1233527157,
       "orgNumber": "802434-2951",
       "orgName": "F\u00f6reningen Dalkarlsv\u00e4gen",
@@ -8838,6 +8885,15 @@
         "innebandy"
       ],
       "web": "https://www.laget.se/CIF/"
+    },
+    {
+      "entry": 1233635067,
+      "orgNumber": "873201-3753",
+      "orgName": "Kils Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.kilsgk.se/"
     },
     {
       "entry": 1233635463,
@@ -9281,7 +9337,6 @@
       "orgNumber": "878001-5197",
       "orgName": "Tortuna Golfklubb",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.tortunagk.se/"
@@ -10613,7 +10668,6 @@
       "orgName": "Vasatorps Golfklubb",
       "comment": "Restaurang/Kiosk",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.vasatorp.golf/"
@@ -10686,6 +10740,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.hbgjaguars.com/"
+    },
+    {
+      "entry": 1234410809,
+      "orgNumber": "802525-7828",
+      "orgName": "Divers Against Ghost Nets",
+      "categories": [
+        "dykning",
+        "havsv\u00e5rd",
+        "intressef\u00f6rening",
+        "naturv\u00e5rd"
+      ],
+      "web": "https://diversagainstghostnets.com/"
     },
     {
       "entry": 1234412763,
@@ -10930,6 +10996,15 @@
       "web": "http://axmarby.se/"
     },
     {
+      "entry": 1234523676,
+      "orgNumber": "895400-9000",
+      "orgName": "Lycksele Goldfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.lyckselegolf.com/"
+    },
+    {
       "entry": 1234524187,
       "orgNumber": "853300-3961",
       "orgName": "Bibeln idag",
@@ -11055,6 +11130,15 @@
         "friluftsliv"
       ],
       "web": "https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/marsta-sigtuna/"
+    },
+    {
+      "entry": 1234584314,
+      "orgNumber": "898200-4999",
+      "orgName": "Kalix Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "http://www.kalixgolfklubb.se/"
     },
     {
       "entry": 1234586947,
@@ -11440,6 +11524,15 @@
       "web": "https://www.blattnicksele.se/"
     },
     {
+      "entry": 1234763090,
+      "orgNumber": "829502-1565",
+      "orgName": "Glasrikets Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.glasriketsgk.se/"
+    },
+    {
       "entry": 1234763397,
       "orgNumber": "802008-3641",
       "orgName": "Entomologiska F\u00f6reningen i Stockholm",
@@ -11521,7 +11614,6 @@
       "orgNumber": "863500-4255",
       "orgName": "Partille Golfklubb",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.partillegk.se/"
@@ -11563,6 +11655,15 @@
         "religion"
       ],
       "web": "http://www.vetlandamissionskyrka.com/"
+    },
+    {
+      "entry": 1234852976,
+      "orgNumber": "863500-5179",
+      "orgName": "Ale Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.alegk.se/"
     },
     {
       "entry": 1234856308,
@@ -12324,6 +12425,15 @@
       "web": "https://gronby.se/"
     },
     {
+      "entry": 1235175955,
+      "orgNumber": "846003-5291",
+      "orgName": "Malm\u00f6 S\u00f6dra Rotaryklubb",
+      "categories": [
+        "f\u00f6rening"
+      ],
+      "web": "https://malmo-sodra.rotary2390.se/"
+    },
+    {
       "entry": 1235177530,
       "orgNumber": "822003-0665",
       "orgName": "Link\u00f6pings GMF",
@@ -12956,11 +13066,19 @@
       "web": "http://trotskvinnojour.se/"
     },
     {
+      "entry": 1235407614,
+      "orgNumber": "802432-4496",
+      "orgName": "H\u00f6gan\u00e4s Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://hoganasgk.se/"
+    },
+    {
       "entry": 1235414164,
       "orgNumber": "825000-8177",
       "orgName": "Finsp\u00e5ngs Golfklubb och Stugby",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.finspangsgk.se/"
@@ -13005,7 +13123,6 @@
       "orgName": "Vasatorps Golfklubb",
       "comment": "Reception/Shop/Greenfee",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.vasatorp.golf/"
@@ -13915,7 +14032,6 @@
       "orgNumber": "849400-7001",
       "orgName": "Gr\u00e4pp\u00e5s GK",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.grappasgk.se/"
@@ -14467,6 +14583,15 @@
       ]
     },
     {
+      "entry": 1236005615,
+      "orgNumber": "012615-0168",
+      "orgName": "Svenska Miniature American Shepherdklubben",
+      "categories": [
+        "hundklubb"
+      ],
+      "web": "https://www.miniatureamericanshepherd.se/"
+    },
+    {
       "entry": 1236006084,
       "orgNumber": "556838-1056",
       "orgName": "Sundsvalls Trafikskola AB",
@@ -14726,7 +14851,6 @@
       "orgNumber": "556301-2490",
       "orgName": "Fr\u00f6s\u00e5ker Golf & Country Club AB",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://fgcc.se/"
@@ -14867,6 +14991,15 @@
       "web": "https://snkinfo.wordpress.com/"
     },
     {
+      "entry": 1236141337,
+      "orgNumber": "858500-9684",
+      "orgName": "Uddevalla Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.ugk.nu/"
+    },
+    {
       "entry": 1236142301,
       "orgNumber": "802442-1623",
       "orgName": "Hammarby IF Ishockeyf\u00f6rening",
@@ -14900,7 +15033,6 @@
       "orgNumber": "802445-6785",
       "orgName": "Wattholma Golfklubb",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.wattholmagk.se/"
@@ -15828,6 +15960,15 @@
       "web": "https://www.snabbgrus.se/"
     },
     {
+      "entry": 1236525570,
+      "orgNumber": "893201-7109",
+      "orgName": "\u00c5re Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://aregolfklubb.com/"
+    },
+    {
       "entry": 1236527428,
       "orgNumber": "846502-8812",
       "orgName": "Real Fighter",
@@ -15861,7 +16002,6 @@
       "orgNumber": "802456-2780",
       "orgName": "Brastad Golfklubb",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "http://www.brastadgk.se/"
@@ -15964,6 +16104,15 @@
         "yoga"
       ],
       "web": "https://purusa.nu/"
+    },
+    {
+      "entry": 1236625628,
+      "orgNumber": "556220-6887",
+      "orgName": "Hen\u00e5ns st\u00e4llplats / Orust Yachtservice AB",
+      "categories": [
+        "st\u00e4llplats"
+      ],
+      "web": "https://www.henansstallplats.com/"
     },
     {
       "entry": 1236627285,
@@ -16133,7 +16282,6 @@
       "orgName": "GolfUppsala AB",
       "comment": "S\u00f6derby Golf - Kiosk, Restaurant",
       "categories": [
-        "golf",
         "golfklubb"
       ],
       "web": "https://www.golfuppsala.se/"
@@ -16746,6 +16894,15 @@
         "f\u00f6rening"
       ],
       "web": "https://www.vagkorset.se/"
+    },
+    {
+      "entry": 1236936819,
+      "orgNumber": "802517-4809",
+      "orgName": "Heart of Evengelism",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://heartofevangelism.com/"
     },
     {
       "entry": 1236946214,
@@ -17580,7 +17737,9 @@
       "orgNumber": "802452-4681",
       "orgName": "ALEF, Adult Learning and Empowerment Faciliators",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "skola",
+        "utbildning"
       ],
       "web": "https://www.alef.org/"
     },

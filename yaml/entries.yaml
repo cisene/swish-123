@@ -1026,7 +1026,6 @@ entries:
   orgNumber: 556517-4231
   comment: Söderby Golf - Greenfee, Shop, Inomhushall, Lodge, City Butiken
   categories:
-  - golf
   - golfklubb
   web: https://www.golfuppsala.se/
 
@@ -2257,7 +2256,6 @@ entries:
   orgNumber: 818000-0567
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://www.eskilstunagk.se/
 
@@ -2372,7 +2370,6 @@ entries:
   orgNumber: 559211-2055
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://www.hulta-bollebygdgk.se/
 
@@ -2485,7 +2482,6 @@ entries:
   orgNumber: 818001-2844
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://www.malarbadensgk.se/
 
@@ -2856,7 +2852,6 @@ entries:
   orgNumber: 838201-1354
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://www.skepparslovsgk.se/
 
@@ -3148,6 +3143,16 @@ entries:
   - hundsport
   - taxklubb
   web: https://www.kronobergstaxklubb.se/
+
+- entry: 1231489079
+  orgName: GameManiacs HB
+  orgNumber: 969668-2245
+  comment: null
+  categories:
+  - datorspel
+  - pyssel
+  - rollspel
+  web: https://www.gamemaniacs.se/
 
 - entry: 1231492370
   orgName: Solna Yogaskola / Siddha Vidya Harlin
@@ -4261,7 +4266,6 @@ entries:
   orgNumber: 556675-6705
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://www.degerforsgolf.se/
 
@@ -4533,6 +4537,14 @@ entries:
   - försäljning
   web: http://www.schtunk.se/
 
+- entry: 1232129070
+  orgName: Malmö Södra Rotaryklubb
+  orgNumber: 846003-5291
+  comment: null
+  categories:
+  - förening
+  web: https://malmo-sodra.rotary2390.se/
+
 - entry: 1232132256
   orgName: Brottsofferjouren Varberg
   orgNumber: 849600-6514
@@ -4554,7 +4566,6 @@ entries:
   orgNumber: 838201-8813
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://dwgolfklubb.se/
 
@@ -4954,7 +4965,6 @@ entries:
   orgNumber: 878000-5370
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://vasterasgk.se/
 
@@ -5159,6 +5169,14 @@ entries:
   - researrangör
   web: https://scubatravel.se/
 
+- entry: 1232328607
+  orgName: Viksbergs Golfklubb
+  orgNumber: 815600-9147
+  comment: null
+  categories:
+  - golfklubb
+  web: https://viksbergsgolf.se/
+
 - entry: 1232342988
   orgName: Skånes Auktionsverk AB
   orgNumber: 556550-6622
@@ -5198,7 +5216,6 @@ entries:
   orgNumber: 556517-4231
   comment: Edenhof Golf - Greenfee, Shop
   categories:
-  - golf
   - golfklubb
   web: https://www.golfuppsala.se/
 
@@ -5433,6 +5450,14 @@ entries:
   categories:
   - stiftelse
   web: http://linneasstiftelse.se/
+
+- entry: 1232440469
+  orgName: Oskarshamns Golfklubb
+  orgNumber: 832800-5122
+  comment: null
+  categories:
+  - golfklubb
+  web: https://oskarshamnsgk.se/
 
 - entry: 1232441079
   orgName: S:ta Marias Syrisk Ortodoxa Kyrka / Azech SYRIANSKA Föreningen
@@ -7048,7 +7073,6 @@ entries:
   orgNumber: 802416-8216
   comment: null
   categories:
-  - golf
   - golfklubb
   web: http://www.sundbyvikgolf.se/
 
@@ -7250,6 +7274,15 @@ entries:
   - folkhälsa
   - förening
   web: https://svensksocialmedicin.wordpress.com/
+
+- entry: 1233278983
+  orgName: Flyktinggruppernas Riksråd, FARR
+  orgNumber: 882601-5466
+  comment: null
+  categories:
+  - förening
+  - riksorganisation
+  web: https://farr.se/
 
 - entry: 1233289840
   orgName: Tuve Scoutkår
@@ -7763,6 +7796,14 @@ entries:
   - religion
   web: https://hillsong.com/sweden/
 
+- entry: 1233526787
+  orgName: Svenska Hoyasällskapet
+  orgNumber: 802414-4969
+  comment: null
+  categories:
+  - fritidsodling
+  web: http://www.swedishhoyasociety.com/
+
 - entry: 1233527157
   orgName: Föreningen Dalkarlsvägen
   orgNumber: 802434-2951
@@ -7960,6 +8001,14 @@ entries:
   - idrottsförening
   - innebandy
   web: https://www.laget.se/CIF/
+
+- entry: 1233635067
+  orgName: Kils Golfklubb
+  orgNumber: 873201-3753
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.kilsgk.se/
 
 - entry: 1233635463
   orgName: Virserums Konsthall ideell förening
@@ -8372,7 +8421,6 @@ entries:
   orgNumber: 878001-5197
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://www.tortunagk.se/
 
@@ -9563,7 +9611,6 @@ entries:
   orgNumber: 843000-7990
   comment: Restaurang/Kiosk
   categories:
-  - golf
   - golfklubb
   web: https://www.vasatorp.golf/
 
@@ -9625,6 +9672,17 @@ entries:
   - amerikansk fotboll
   - idrottsförening
   web: https://www.hbgjaguars.com/
+
+- entry: 1234410809
+  orgName: Divers Against Ghost Nets
+  orgNumber: 802525-7828
+  comment: null
+  categories:
+  - dykning
+  - havsvård
+  - intresseförening
+  - naturvård
+  web: https://diversagainstghostnets.com/
 
 - entry: 1234412763
   orgName: Svenska Bassetklubben Väst
@@ -9842,6 +9900,14 @@ entries:
   - idrottsförening
   web: http://axmarby.se/
 
+- entry: 1234523676
+  orgName: Lycksele Goldfklubb
+  orgNumber: 895400-9000
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.lyckselegolf.com/
+
 - entry: 1234524187
   orgName: Bibeln idag
   orgNumber: 853300-3961
@@ -9951,6 +10017,14 @@ entries:
   - barnverksamhet
   - friluftsliv
   web: https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/marsta-sigtuna/
+
+- entry: 1234584314
+  orgName: Kalix Golfklubb
+  orgNumber: 898200-4999
+  comment: null
+  categories:
+  - golfklubb
+  web: http://www.kalixgolfklubb.se/
 
 - entry: 1234586947
   orgName: Sörängs Byalag
@@ -10293,6 +10367,14 @@ entries:
   - intresseförening
   web: https://www.blattnicksele.se/
 
+- entry: 1234763090
+  orgName: Glasrikets Golfklubb
+  orgNumber: 829502-1565
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.glasriketsgk.se/
+
 - entry: 1234763397
   orgName: Entomologiska Föreningen i Stockholm
   orgNumber: 802008-3641
@@ -10366,7 +10448,6 @@ entries:
   orgNumber: 863500-4255
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://www.partillegk.se/
 
@@ -10402,6 +10483,14 @@ entries:
   categories:
   - religion
   web: http://www.vetlandamissionskyrka.com/
+
+- entry: 1234852976
+  orgName: Ale Golfklubb
+  orgNumber: 863500-5179
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.alegk.se/
 
 - entry: 1234856308
   orgName: Naturläras Hästsällskap
@@ -11093,6 +11182,14 @@ entries:
   - förening
   web: https://gronby.se/
 
+- entry: 1235175955
+  orgName: Malmö Södra Rotaryklubb
+  orgNumber: 846003-5291
+  comment: null
+  categories:
+  - förening
+  web: https://malmo-sodra.rotary2390.se/
+
 - entry: 1235177530
   orgName: Linköpings GMF
   orgNumber: 822003-0665
@@ -11681,12 +11778,19 @@ entries:
   - kvinnojour
   web: http://trotskvinnojour.se/
 
+- entry: 1235407614
+  orgName: Höganäs Golfklubb
+  orgNumber: 802432-4496
+  comment: null
+  categories:
+  - golfklubb
+  web: https://hoganasgk.se/
+
 - entry: 1235414164
   orgName: Finspångs Golfklubb och Stugby
   orgNumber: 825000-8177
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://www.finspangsgk.se/
 
@@ -11724,7 +11828,6 @@ entries:
   orgNumber: 843000-7990
   comment: Reception/Shop/Greenfee
   categories:
-  - golf
   - golfklubb
   web: https://www.vasatorp.golf/
 
@@ -12537,7 +12640,6 @@ entries:
   orgNumber: 849400-7001
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://www.grappasgk.se/
 
@@ -13033,6 +13135,14 @@ entries:
   - konsult
   web: null
 
+- entry: 1236005615
+  orgName: Svenska Miniature American Shepherdklubben
+  orgNumber: 012615-0168
+  comment: null
+  categories:
+  - hundklubb
+  web: https://www.miniatureamericanshepherd.se/
+
 - entry: 1236006084
   orgName: Sundsvalls Trafikskola AB
   orgNumber: 556838-1056
@@ -13262,7 +13372,6 @@ entries:
   orgNumber: 556301-2490
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://fgcc.se/
 
@@ -13387,6 +13496,14 @@ entries:
   - hundsport
   web: https://snkinfo.wordpress.com/
 
+- entry: 1236141337
+  orgName: Uddevalla Golfklubb
+  orgNumber: 858500-9684
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.ugk.nu/
+
 - entry: 1236142301
   orgName: Hammarby IF Ishockeyförening
   orgNumber: 802442-1623
@@ -13418,7 +13535,6 @@ entries:
   orgNumber: 802445-6785
   comment: null
   categories:
-  - golf
   - golfklubb
   web: https://www.wattholmagk.se/
 
@@ -14251,6 +14367,14 @@ entries:
   - sand
   web: https://www.snabbgrus.se/
 
+- entry: 1236525570
+  orgName: Åre Golfklubb
+  orgNumber: 893201-7109
+  comment: null
+  categories:
+  - golfklubb
+  web: https://aregolfklubb.com/
+
 - entry: 1236526594
   orgName: null
   orgNumber: null
@@ -14298,7 +14422,6 @@ entries:
   orgNumber: 802456-2780
   comment: null
   categories:
-  - golf
   - golfklubb
   web: http://www.brastadgk.se/
 
@@ -14389,6 +14512,14 @@ entries:
   - massage
   - yoga
   web: https://purusa.nu/
+
+- entry: 1236625628
+  orgName: Henåns ställplats / Orust Yachtservice AB
+  orgNumber: 556220-6887
+  comment: null
+  categories:
+  - ställplats
+  web: https://www.henansstallplats.com/
 
 - entry: 1236627285
   orgName: Kavalleri- och Jägarförbundet, KAVJF
@@ -14540,7 +14671,6 @@ entries:
   orgNumber: 556517-4231
   comment: Söderby Golf - Kiosk, Restaurant
   categories:
-  - golf
   - golfklubb
   web: https://www.golfuppsala.se/
 
@@ -15103,6 +15233,14 @@ entries:
   categories:
   - förening
   web: https://www.vagkorset.se/
+
+- entry: 1236936819
+  orgName: Heart of Evengelism
+  orgNumber: 802517-4809
+  comment: null
+  categories:
+  - religion
+  web: https://heartofevangelism.com/
 
 - entry: 1236946214
   orgName: ATSUB - Föreningen Anhöriga till sexuellt utnyttjade barn
@@ -16122,6 +16260,8 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - skola
+  - utbildning
   web: https://www.alef.org/
 
 - entry: 1239002189
