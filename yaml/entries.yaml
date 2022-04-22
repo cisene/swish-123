@@ -4157,6 +4157,14 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/grafsnassollebrunn/
 
+- entry: 1231881994
+  orgName: Sommaro Golf AB
+  orgNumber: 556347-5515
+  comment: null
+  categories:
+  - golfklubb
+  web: http://www.sommarogolf.se/
+
 - entry: 1231883396
   orgName: Kronprinsessparets Stiftelse
   orgNumber: 802426-3702
@@ -6413,6 +6421,14 @@ entries:
   - stiftelse
   web: https://www.stockholmssjukhem.se/
 
+- entry: 1232811362
+  orgName: Ystad Golfklubb
+  orgNumber: 848000-1695
+  comment: null
+  categories:
+  - golfklubb
+  web: http://www.ystadgk.se/
+
 - entry: 1232811487
   orgName: Lidingö Golfklubb
   orgNumber: 813600-0414
@@ -6900,6 +6916,14 @@ entries:
   - yoga
   web: https://mowehalsayoga.se/
 
+- entry: 1233045226
+  orgName: Umeå Golfklubb
+  orgNumber: 894000-0543
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.umgk.se/
+
 - entry: 1233045234
   orgName: Pingstförsamlingen I Västerås
   orgNumber: 878000-0413
@@ -6926,6 +6950,14 @@ entries:
   categories:
   - religion
   web: https://kyrktorget.se/allianskyrkanvasteras
+
+- entry: 1233048469
+  orgName: Norråva Golfklubb
+  orgNumber: 802412-6016
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.norravagk.se/
 
 - entry: 1233049582
   orgName: Fatta! Stockholm
@@ -11518,6 +11550,14 @@ entries:
   - politiskt parti
   web: https://kristdemokraterna.se/
 
+- entry: 1235157532
+  orgName: Falkenbergs Golfklubb
+  orgNumber: 849000-0315
+  comment: Tävlingsavgift
+  categories:
+  - golfklubb
+  web: https://www.falkenbergsgolfklubb.se/
+
 - entry: 1235158217
   orgName: Stiftelsen Ronald McDonald Barnfond Uppsala
   orgNumber: 802426-5947
@@ -12581,6 +12621,15 @@ entries:
   - donation
   web: https://www.rodakorset.se/
 
+- entry: 1235557780
+  orgName: Apotek Hjärtat AB
+  orgNumber: 556773-8249
+  comment: Ukraina-insamling
+  categories:
+  - apotek
+  - försäljning
+  web: https://www.apotekhjartat.se/
+
 - entry: 1235558077
   orgName: Pingstkyrkan Lidköping
   orgNumber: 869000-0495
@@ -12937,6 +12986,13 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Boras/
+
+- entry: 1235715867
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1235716402
   orgName: Föreningen S:t Mikael
@@ -14945,6 +15001,14 @@ entries:
   - idrottsförening
   web: http://www.fif.se/
 
+- entry: 1236548390
+  orgName: Trummenäs Golfklubb
+  orgNumber: 835000-7954
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.trummenasgk.se/
+
 - entry: 1236552780
   orgName: Hallands Släktforskarförening
   orgNumber: 849202-3471
@@ -15646,6 +15710,14 @@ entries:
   - kampsportsförening
   - taekwondo
   web: https://www.vasterastaekwondo.se/
+
+- entry: 1236895858
+  orgName: Botkyrka Golfklubb
+  orgNumber: 812800-5942
+  comment: null
+  categories:
+  - golfklubb
+  web: http://www.botkyrkagk.se/
 
 - entry: 1236896708
   orgName: Alltid Sedd

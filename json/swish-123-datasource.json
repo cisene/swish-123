@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-21-rev-002705",
+    "date": "2022-04-22-rev-210317",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4630,6 +4630,15 @@
       "web": "https://equmeniakyrkan.se/grafsnassollebrunn/"
     },
     {
+      "entry": 1231881994,
+      "orgNumber": "556347-5515",
+      "orgName": "Sommaro Golf AB",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "http://www.sommarogolf.se/"
+    },
+    {
       "entry": 1231883396,
       "orgNumber": "802426-3702",
       "orgName": "Kronprinsessparets Stiftelse",
@@ -7159,6 +7168,15 @@
       "web": "https://www.stockholmssjukhem.se/"
     },
     {
+      "entry": 1232811362,
+      "orgNumber": "848000-1695",
+      "orgName": "Ystad Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "http://www.ystadgk.se/"
+    },
+    {
       "entry": 1232811487,
       "orgNumber": "813600-0414",
       "orgName": "Liding\u00f6 Golfklubb",
@@ -7701,6 +7719,15 @@
       "web": "https://mowehalsayoga.se/"
     },
     {
+      "entry": 1233045226,
+      "orgNumber": "894000-0543",
+      "orgName": "Ume\u00e5 Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.umgk.se/"
+    },
+    {
       "entry": 1233045234,
       "orgNumber": "878000-0413",
       "orgName": "Pingstf\u00f6rsamlingen I V\u00e4ster\u00e5s",
@@ -7729,6 +7756,15 @@
         "religion"
       ],
       "web": "https://kyrktorget.se/allianskyrkanvasteras"
+    },
+    {
+      "entry": 1233048469,
+      "orgNumber": "802412-6016",
+      "orgName": "Norr\u00e5va Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.norravagk.se/"
     },
     {
       "entry": 1233049582,
@@ -12809,6 +12845,16 @@
       "web": "https://kristdemokraterna.se/"
     },
     {
+      "entry": 1235157532,
+      "orgNumber": "849000-0315",
+      "orgName": "Falkenbergs Golfklubb",
+      "comment": "T\u00e4vlingsavgift",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.falkenbergsgolfklubb.se/"
+    },
+    {
       "entry": 1235158217,
       "orgNumber": "802426-5947",
       "orgName": "Stiftelsen Ronald McDonald Barnfond Uppsala",
@@ -13965,6 +14011,17 @@
         "donation"
       ],
       "web": "https://www.rodakorset.se/"
+    },
+    {
+      "entry": 1235557780,
+      "orgNumber": "556773-8249",
+      "orgName": "Apotek Hj\u00e4rtat AB",
+      "comment": "Ukraina-insamling",
+      "categories": [
+        "apotek",
+        "f\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://www.apotekhjartat.se/"
     },
     {
       "entry": 1235558077,
@@ -16598,6 +16655,15 @@
       "web": "http://www.fif.se/"
     },
     {
+      "entry": 1236548390,
+      "orgNumber": "835000-7954",
+      "orgName": "Trummen\u00e4s Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.trummenasgk.se/"
+    },
+    {
       "entry": 1236552780,
       "orgNumber": "849202-3471",
       "orgName": "Hallands Sl\u00e4ktforskarf\u00f6rening",
@@ -17365,6 +17431,15 @@
         "taekwondo"
       ],
       "web": "https://www.vasterastaekwondo.se/"
+    },
+    {
+      "entry": 1236895858,
+      "orgNumber": "812800-5942",
+      "orgName": "Botkyrka Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "http://www.botkyrkagk.se/"
     },
     {
       "entry": 1236896708,
