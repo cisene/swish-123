@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-22-rev-210317",
+    "date": "2022-04-23-rev-150200",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -214,6 +214,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.bk30.se/"
+    },
+    {
+      "entry": 1230135525,
+      "orgNumber": "559009-7969",
+      "orgName": "Sebastian C Hansson AB",
+      "categories": [
+        "golftr\u00e4nare",
+        "personlig tr\u00e4ning"
+      ]
     },
     {
       "entry": 1230138727,
@@ -1165,6 +1174,15 @@
       "web": "https://fogelstadsstiftelse.se/"
     },
     {
+      "entry": 1230553099,
+      "orgNumber": "843002-2064",
+      "orgName": "Allerum Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.allerumgk.nu/"
+    },
+    {
       "entry": 1230554170,
       "orgNumber": "556517-4231",
       "orgName": "GolfUppsala AB",
@@ -1878,6 +1896,15 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/eksjotjejjour/"
+    },
+    {
+      "entry": 1230845453,
+      "orgNumber": "839400-2946",
+      "orgName": "Torekovs Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "http://www.togk.se/"
     },
     {
       "entry": 1230851071,
@@ -3409,6 +3436,15 @@
       "web": "https://www.bergslas.se/"
     },
     {
+      "entry": 1231460179,
+      "orgNumber": "822000-5808",
+      "orgName": "\u00c5tvidabergs Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.atvidabergsgk.se/"
+    },
+    {
       "entry": 1231464981,
       "orgNumber": "802495-9838",
       "orgName": "Varbergs Konst\u00e5kningsklubb",
@@ -3793,6 +3829,15 @@
         "yoga"
       ],
       "web": "https://www.gavleyogaskola.se/"
+    },
+    {
+      "entry": 1231569888,
+      "orgNumber": "894002-5391",
+      "orgName": "Norrmj\u00f6le Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.nmgk.se/"
     },
     {
       "entry": 1231574268,
@@ -4785,6 +4830,15 @@
       "web": "https://www.skiljebosk.nu/"
     },
     {
+      "entry": 1231973395,
+      "orgNumber": "556715-0148",
+      "orgName": "Backa S\u00e4teri Golf",
+      "categories": [
+        "golfbana"
+      ],
+      "web": "https://backasaterigolf.se/"
+    },
+    {
       "entry": 1231973817,
       "orgNumber": "802501-3932",
       "orgName": "Ungdomsjouren Tigerlilja",
@@ -4867,6 +4921,15 @@
         "yoga"
       ],
       "web": "http://yogakallan.se/"
+    },
+    {
+      "entry": 1231986355,
+      "orgNumber": "556628-3288",
+      "orgName": "\u00c4ppelg\u00e5rdens Golfklubb / \u00c4ppelg\u00e5rdens Golf AB",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.appelgarden.se/"
     },
     {
       "entry": 1231988302,
@@ -6680,6 +6743,15 @@
       "web": "https://www.laget.se/VasterasBouleklubb/"
     },
     {
+      "entry": 1232667376,
+      "orgNumber": "846002-4360",
+      "orgName": "Malm\u00f6 Burl\u00f6v Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.malmoburlovgk.com/"
+    },
+    {
       "entry": 1232668556,
       "orgNumber": "802420-1363",
       "orgName": "Transparency International Sverige",
@@ -7594,6 +7666,15 @@
         "yoga"
       ],
       "web": "http://www.maingatyoga.se/"
+    },
+    {
+      "entry": 1232992840,
+      "orgNumber": "802471-1817",
+      "orgName": "Wasa Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.wasagolf.se/"
     },
     {
       "entry": 1233022688,
@@ -8549,6 +8630,15 @@
       "web": "https://moderaterna.se/"
     },
     {
+      "entry": 1233365699,
+      "orgNumber": "874000-8514",
+      "orgName": "Torsby Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.torsbygolfklubb.se/"
+    },
+    {
       "entry": 1233366390,
       "orgNumber": "842000-4502",
       "orgName": "Bosj\u00f6kloster GK",
@@ -8663,6 +8753,15 @@
         "motorsport"
       ],
       "web": "https://www.actionpics.se/"
+    },
+    {
+      "entry": 1233381969,
+      "orgNumber": "982000-3268",
+      "orgName": "Avesta Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.avestagk.se/"
     },
     {
       "entry": 1233383072,
@@ -8825,6 +8924,15 @@
         "ridklubb"
       ],
       "web": "https://idrottonline.se/AspebodaRidklubb-Ridsport/"
+    },
+    {
+      "entry": 1233450442,
+      "orgNumber": "556902-0356",
+      "orgName": "HG Golf Glumsl\u00f6v / HG Golf AB",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.glumslovgolf.com/"
     },
     {
       "entry": 1233453594,
@@ -10098,6 +10206,15 @@
       "web": "https://www.charterbuss.se/"
     },
     {
+      "entry": 1233996865,
+      "orgNumber": "556888-1279",
+      "orgName": "Hills Golf & Sports Club / Hills Golf AB",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.hillsgolfclub.se/"
+    },
+    {
       "entry": 1233997996,
       "orgNumber": "556611-6694",
       "orgName": "Magazin24 / Earton Media AB",
@@ -10569,6 +10686,17 @@
         "motorcykelklubb"
       ],
       "web": "https://www.omcc.se/"
+    },
+    {
+      "entry": 1234205258,
+      "orgNumber": "802420-3948",
+      "orgName": "Prostatacancerf\u00f6reningen V\u00e4rmland",
+      "categories": [
+        "cancer",
+        "patientf\u00f6rening",
+        "prostatacancer"
+      ],
+      "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/varmland/prostatacancerforeningen-varmland/"
     },
     {
       "entry": 1234206280,
@@ -11234,6 +11362,17 @@
         "f\u00f6rening"
       ],
       "web": "https://ostraljungbybygdegard.se/"
+    },
+    {
+      "entry": 1234425534,
+      "orgNumber": "878001-4299",
+      "orgName": "Fuller\u00f6 Golfklubb",
+      "comment": "St\u00e4llplats",
+      "categories": [
+        "golfklubb",
+        "st\u00e4llplats"
+      ],
+      "web": "https://www.fullerogk.se/"
     },
     {
       "entry": 1234425708,
@@ -12186,6 +12325,15 @@
       "web": "http://gwu-sweden.org/"
     },
     {
+      "entry": 1234933966,
+      "orgNumber": "873200-1345",
+      "orgName": "Karlstad Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.karlstadgk.se/"
+    },
+    {
       "entry": 1234937587,
       "orgNumber": "817603-3804",
       "orgName": "Svenska Heinrich Sch\u00fctz-s\u00e4llskapet",
@@ -12241,6 +12389,15 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenenkoping/"
+    },
+    {
+      "entry": 1234955761,
+      "orgNumber": "802438-7949",
+      "orgName": "Boa GK Olofstr\u00f6m",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "http://boagk.se/"
     },
     {
       "entry": 1234956595,
@@ -12569,6 +12726,15 @@
       "web": "http://old.norrtelje-sff.se/"
     },
     {
+      "entry": 1235102488,
+      "orgNumber": "819000-6604",
+      "orgName": "Trosa Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.trosagk.se/"
+    },
+    {
       "entry": 1235104658,
       "orgNumber": "556817-7751",
       "orgName": "Sundsvalls Squash Club Arena AB",
@@ -12863,6 +13029,17 @@
         "stiftelse"
       ],
       "web": "https://uppsala.ronaldmcdonaldhus.se/"
+    },
+    {
+      "entry": 1235158571,
+      "orgNumber": "802430-4407",
+      "orgName": "Ullared Fl\u00e4dje Golfklubb",
+      "comment": "Caf\u00e9",
+      "categories": [
+        "cafe",
+        "golfklubb"
+      ],
+      "web": "http://www.ullaredfladjegk.se/se/cafe"
     },
     {
       "entry": 1235161229,
@@ -14137,6 +14314,16 @@
         "f\u00f6rening"
       ],
       "web": "http://radiofysik.org/"
+    },
+    {
+      "entry": 1235606199,
+      "orgNumber": "825001-7327",
+      "orgName": "Lind\u00f6 Minigolf och Haga Bangolfklubb",
+      "categories": [
+        "golfklubb",
+        "minigolf"
+      ],
+      "web": "https://hagabgk.se/"
     },
     {
       "entry": 1235607312,
@@ -16517,6 +16704,15 @@
         "restaurant"
       ],
       "web": "https://www.allebergcafeorestaurang.se/"
+    },
+    {
+      "entry": 1236507206,
+      "orgNumber": "874400-8015",
+      "orgName": "\u00c5rj\u00e4ngs Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://arjangsgk.se/"
     },
     {
       "entry": 1236507578,
