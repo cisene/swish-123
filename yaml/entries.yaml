@@ -40,6 +40,16 @@ entries:
   - yoga
   web: https://skrattyoga.se/
 
+- entry: 1230007922
+  orgName: Riksföreningen för SLE
+  orgNumber: 802508-1186
+  comment: null
+  categories:
+  - intresseförening
+  - patientförening
+  - reumatism
+  web: https://sle.reumatiker.se/
+
 - entry: 1230009019
   orgName: Ättekulla lunchen / Fortuna Strandkrog / Fortuna by the Sea AB
   orgNumber: 556800-6893
@@ -264,6 +274,15 @@ entries:
   categories:
   - stiftelse
   web: https://www.stallkungsgarden.se/
+
+- entry: 1230159699
+  orgName: Parkinsonförbundet - Norrbotten
+  orgNumber: 898801-0925
+  comment: null
+  categories:
+  - förening
+  - intresseförening
+  web: http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Norrbotten.html
 
 - entry: 1230182063
   orgName: Bälinge Ryttarförening
@@ -855,6 +874,16 @@ entries:
   - politiskt parti
   web: https://feministisktinitiativ.se/
 
+- entry: 1230438093
+  orgName: Bröstcancerföreningen Uppsala Län
+  orgNumber: 817602-0637
+  comment: null
+  categories:
+  - bröstcancer
+  - cancer
+  - förening
+  web: https://uppsala.brostcancerforbundet.se/
+
 - entry: 1230440917
   orgName: Zerillas Hundcenter AB
   orgNumber: 556404-6018
@@ -938,6 +967,7 @@ entries:
   orgNumber: 802413-6361
   comment: null
   categories:
+  - bröstcancer
   - cancer
   - förbund
   - förening
@@ -1141,6 +1171,7 @@ entries:
   orgNumber: 812800-9498
   comment: null
   categories:
+  - ehlers-danlos
   - patientförbund
   - riksförbund
   web: https://ehlers-danlos.se/
@@ -1180,6 +1211,15 @@ entries:
   - förening
   - ornitologi
   web: https://dalafaglar.se/
+
+- entry: 1230624403
+  orgName: Parkinsonförbundet - Skåne
+  orgNumber: 846006-5637
+  comment: null
+  categories:
+  - förening
+  - intresseförening
+  web: http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Sk%E5ne.html
 
 - entry: 1230624999
   orgName: Nötbackens TerapiDjurgård AB
@@ -1514,6 +1554,14 @@ entries:
   - mode
   web: https://delbornpreisler.se/
 
+- entry: 1230757948
+  orgName: George Graham Foundation ideell förening
+  orgNumber: 802508-0840
+  comment: null
+  categories:
+  - kulturförening
+  web: https://ggfsweden.org/
+
 - entry: 1230759712
   orgName: Pingst Fria Församlingar i samverkan
   orgNumber: 802004-0575
@@ -1521,6 +1569,15 @@ entries:
   categories:
   - religion
   web: https://www.pingst.se/forsamling/natverk/pastor/
+
+- entry: 1230766998
+  orgName: Föreningen Alternativ till Psykofarmaka, FAP
+  orgNumber: 802519-3817
+  comment: null
+  categories:
+  - förening
+  - psykisk hälsa
+  web: http://www.alternativ-till-psykofarmaka.se/
 
 - entry: 1230769745
   orgName: STHLM VÄST Tjej- och kvinnojour
@@ -1786,6 +1843,16 @@ entries:
   - hjälporganisation
   - religion
   web: https://www.ywam.se/
+
+- entry: 1230876417
+  orgName: Trans Fest Stockholm
+  orgNumber: 802496-2220
+  comment: null
+  categories:
+  - festival
+  - kultur
+  - transsexualitet
+  web: https://transfeststockholm.org/
 
 - entry: 1230878629
   orgName: Svenska Epilepsiförbundet
@@ -2297,6 +2364,7 @@ entries:
   orgNumber: 826001-9503
   comment: null
   categories:
+  - fibromyalgi
   - förbund
   web: https://www.fibromyalgi.se/
 
@@ -2462,6 +2530,15 @@ entries:
   categories:
   - busstrafik
   web: http://www.sundbergsbuss.se/
+
+- entry: 1231170109
+  orgName: AyuEmy / Emy Ekholm
+  orgNumber: 881028-XXXX
+  comment: null
+  categories:
+  - ayur veda
+  - healing
+  web: https://www.ayuemy.com/
 
 - entry: 1231175751
   orgName: Hulta Golf AB
@@ -3814,6 +3891,14 @@ entries:
   - religion
   web: null
 
+- entry: 1231707181
+  orgName: Tilia
+  orgNumber: 802467-5772
+  comment: null
+  categories:
+  - psykisk hälsa
+  web: https://teamtilia.se/
+
 - entry: 1231709310
   orgName: IF Väster
   orgNumber: 857203-6690
@@ -4247,6 +4332,15 @@ entries:
   categories:
   - mansjour
   web: https://www.mansjouren.se/
+
+- entry: 1231910140
+  orgName: Assistanskoll / Independent Living Institute, ILI
+  orgNumber: 802017-5090
+  comment: null
+  categories:
+  - förening
+  - intresseförening
+  web: https://assistanskoll.se/
 
 - entry: 1231926344
   orgName: Pingstkyrkan Degerfors
@@ -4697,6 +4791,15 @@ entries:
   - musik
   - underhållning
   web: https://www.ceciliakyllinge.se/
+
+- entry: 1232085116
+  orgName: Mamma till Mamma
+  orgNumber: 802509-5822
+  comment: null
+  categories:
+  - graviditet
+  - psykisk hälsa
+  web: https://mammatillmamma.com/
 
 - entry: 1232088953
   orgName: Brottsofferjouren Nacka-Tyresö-Värmdö
@@ -5469,7 +5572,9 @@ entries:
   orgNumber: 802445-7510
   comment: null
   categories:
-  - hälsa
+  - friedreichs ataxi
+  - förening
+  - patientförening
   web: http://www.bota-fa.se/
 
 - entry: 1232377018
@@ -5582,6 +5687,7 @@ entries:
   comment: null
   categories:
   - förening
+  - reumatism
   web: https://stockholm.reumatiker.se/
 
 - entry: 1232409357
@@ -5809,6 +5915,14 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://www.unizonjourer.se/kraftbyran/
+
+- entry: 1232532307
+  orgName: Phoenixmottagningen / Stiftelsen Vidarkliniken
+  orgNumber: 815600-6168
+  comment: null
+  categories:
+  - antroposofisk medicin
+  web: https://www.phoenixmottagningen.nu/
 
 - entry: 1232538593
   orgName: Kiruna jakt- och fiskevårdsförening
@@ -6074,6 +6188,8 @@ entries:
   orgNumber: 802477-6158
   comment: null
   categories:
+  - cancer
+  - forskning
   - stiftelse
   web: https://transplantationsstiftelsen.se/
 
@@ -6421,6 +6537,23 @@ entries:
   - seans
   web: https://www.mediumhannukoskinen.se/
 
+- entry: 1232771707
+  orgName: Ångestförbundet ÅSS
+  orgNumber: 802016-7915
+  comment: null
+  categories:
+  - depression
+  - fobier
+  - förbund
+  - generaliserad ångest
+  - högkänslighet
+  - krisreaktioner
+  - panikångest
+  - social ångest
+  - stressreaktioner
+  - utmattningstillstånd
+  web: https://www.angest.se/
+
 - entry: 1232787802
   orgName: PT Cam / Camilla Åström
   orgNumber: 671223-XXXX
@@ -6485,6 +6618,14 @@ entries:
   categories:
   - stiftelse
   web: https://www.stockholmssjukhem.se/
+
+- entry: 1232811198
+  orgName: Gårdakvarnen
+  orgNumber: 802533-5251
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.gardakvarnen.se/
 
 - entry: 1232811362
   orgName: Ystad Golfklubb
@@ -6872,6 +7013,15 @@ entries:
   - yoga
   web: http://www.maingatyoga.se/
 
+- entry: 1232992022
+  orgName: Riksförbundet HjärtLung Piteå
+  orgNumber: 898800-4746
+  comment: null
+  categories:
+  - förening
+  - patientförening
+  web: https://www.hjart-lung.se/pitea/
+
 - entry: 1232992840
   orgName: Wasa Golfklubb
   orgNumber: 802471-1817
@@ -7073,6 +7223,18 @@ entries:
   - lokaltidning
   web: https://flammor.com/
 
+- entry: 1233056710
+  orgName: Prostatacancerföreningen Skaraborg
+  orgNumber: 802518-3602
+  comment: null
+  categories:
+  - cancer
+  - forskning
+  - förening
+  - patientförening
+  - prostatacancer
+  web: https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/prostatacancerforeningen-skaraborg/
+
 - entry: 1233057908
   orgName: Ingarö Golfklubb
   orgNumber: 814000-0467
@@ -7133,6 +7295,14 @@ entries:
   - ridklubb
   - ryttarförening
   web: https://www.sigtunaridskola.com/
+
+- entry: 1233088317
+  orgName: Borrelia och TBE föreningen
+  orgNumber: 802429-2735
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.borrelia-tbe.se/
 
 - entry: 1233088846
   orgName: Arbetskraftförmedlingen
@@ -8168,8 +8338,10 @@ entries:
   orgNumber: 817600-9473
   comment: null
   categories:
+  - förbund
   - intresseorganisation
   - patientförening
+  - riksförbund
   web: http://www.rfcf.se/
 
 - entry: 1233513595
@@ -8296,6 +8468,15 @@ entries:
   - segling
   web: https://klaramarie.se/
 
+- entry: 1233566874
+  orgName: Markus Holst
+  orgNumber: 600908-XXXX
+  comment: null
+  categories:
+  - hästsport
+  - utbildning
+  web: https://markusholst.com/
+
 - entry: 1233567344
   orgName: Burmaklubben
   orgNumber: 802406-8184
@@ -8357,6 +8538,14 @@ entries:
   - hembygdsförening
   web: http://hlhf.se/
 
+- entry: 1233600699
+  orgName: Sipples Patientförening - Patienter med MEN 2A
+  orgNumber: 012696-2349
+  comment: null
+  categories:
+  - patientförening
+  web: https://sipples.wordpress.com/
+
 - entry: 1233600822
   orgName: Hästtjärns Fiske Handelsbolag
   orgNumber: 969710-1500
@@ -8383,6 +8572,16 @@ entries:
   - sportdykning
   - utbildning
   web: https://vsdk-mollusca.org/
+
+- entry: 1233623212
+  orgName: Stockholm 12
+  orgNumber: 802488-4655
+  comment: null
+  categories:
+  - alkoholproblematik
+  - beroendeproblematik
+  - donation
+  web: https://www.stockholm12.se/
 
 - entry: 1233626710
   orgName: Västerås Ki-Aikido
@@ -8531,6 +8730,14 @@ entries:
   categories:
   - golfklubb
   web: https://www.mariestadsgk.se/
+
+- entry: 1233716602
+  orgName: Patientförening för Integrativ Medicin / Förening för Integrativ Medicin och Hälsa
+  orgNumber: 802444-2876
+  comment: null
+  categories:
+  - patientförening
+  web: https://integrativ-medicin.se/
 
 - entry: 1233716628
   orgName: Föreningen Antoniosgården
@@ -8704,6 +8911,15 @@ entries:
   - förening
   - skoterklubb
   web: https://skoterdararna.blogspot.com/
+
+- entry: 1233800190
+  orgName: Melanomföreningen
+  orgNumber: 802467-4122
+  comment: null
+  categories:
+  - förening
+  - melanom
+  web: https://melanomforeningen.se/
 
 - entry: 1233802865
   orgName: Stiftelsen Regnbågshjärtan
@@ -9177,6 +9393,14 @@ entries:
   - donation
   web: https://vhek.se/
 
+- entry: 1233990801
+  orgName: Gåvan Sverige
+  orgNumber: 802510-1760
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://gavansverige.se/
+
 - entry: 1233991163
   orgName: Yoga Med Helen / Helen Kåselöv
   orgNumber: 681021-XXXX
@@ -9301,6 +9525,15 @@ entries:
   categories:
   - stiftelse
   web: https://www.rosendalstradgard.se/
+
+- entry: 1234042891
+  orgName: Centrum För Urbankonst, CFUK
+  orgNumber: 802527-8618
+  comment: null
+  categories:
+  - konstförening
+  - ungdomsverksamhet
+  web: https://cfuk.nu/
 
 - entry: 1234043436
   orgName: Enkel Teknik / Christoffer Orre
@@ -9792,6 +10025,14 @@ entries:
   - hockey
   web: https://sollentunahockey.myclub.se/
 
+- entry: 1234263190
+  orgName: Stefanushjälpen
+  orgNumber: 802489-8481
+  comment: null
+  categories:
+  - hjälporganisation
+  web: http://www.stefanushjalpen.se/
+
 - entry: 1234263208
   orgName: Mjölby Golfklubb
   orgNumber: 556657-0643
@@ -10008,6 +10249,15 @@ entries:
   - djurskydd
   web: https://hundhjalpen.se/
 
+- entry: 1234326351
+  orgName: Patientföreningen CarpaNet
+  orgNumber: 817602-7517
+  comment: null
+  categories:
+  - neuroendokrina tumörsjukdomar
+  - patientförening
+  web: http://www.carpanet.se/
+
 - entry: 1234328548
   orgName: Insamlingsstiftelsen Bohus Fästning
   orgNumber: 802481-9099
@@ -10115,6 +10365,23 @@ entries:
   categories:
   - donation
   web: https://hjarnkollvasterbotten.se/
+
+- entry: 1234397287
+  orgName: Tennisportalen / Tennisportalen Media Sweden
+  orgNumber: 930302-XXXX
+  comment: null
+  categories:
+  - tennis
+  web: https://tennisportalen.se/
+
+- entry: 1234406823
+  orgName: Nätverket för Spinal Muskelatrofi, NSMA
+  orgNumber: 802475-2332
+  comment: null
+  categories:
+  - förening
+  - patientförening
+  web: http://nsma.nu/
 
 - entry: 1234407375
   orgName: Frälsningsarmén
@@ -10590,6 +10857,15 @@ entries:
   - innebandy
   web: https://www.innebandy.se/smaland/
 
+- entry: 1234615449
+  orgName: Skarv Sthlm / Sofia Sjöqvist
+  orgNumber: 840510-XXXX
+  comment: null
+  categories:
+  - psykiska hälsa
+  - samtalsterapi
+  web: https://www.skarvsthlm.com/
+
 - entry: 1234627238
   orgName: Teaterkören
   orgNumber: 802412-6883
@@ -10718,6 +10994,15 @@ entries:
   - intresseförening
   web: http://www.animalprotection.se/
 
+- entry: 1234665816
+  orgName: Narkolepsiföreningen i Sverige
+  orgNumber: 802460-6967
+  comment: null
+  categories:
+  - förening
+  - intresseförening
+  web: https://www.narkolepsiforeningen.se/
+
 - entry: 1234671772
   orgName: Solrosen Kvinnojour
   orgNumber: 802465-8836
@@ -10727,6 +11012,14 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/solrosenkvinnojour/
 
+- entry: 1234673182
+  orgName: eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning / Efolkets Vänner
+  orgNumber: 802498-1287
+  comment: null
+  categories:
+  - lokaltidning
+  web: https://efolket.eu/
+
 - entry: 1234673380
   orgName: Höviksnäs Båtförening
   orgNumber: 857209-9243
@@ -10735,6 +11028,14 @@ entries:
   - båtklubb
   - båtvård
   web: http://www.hovik.se/
+
+- entry: 1234673455
+  orgName: Maskrosbarn
+  orgNumber: 802434-6846
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://maskrosbarn.org/
 
 - entry: 1234673760
   orgName: Flatö Kyrkas Vänner
@@ -12121,6 +12422,15 @@ entries:
   - skärmflygning
   web: https://fenixflyg.se/
 
+- entry: 1235310974
+  orgName: Parkinsonförbundet - Skaraborg
+  orgNumber: 868401-2514
+  comment: null
+  categories:
+  - förening
+  - intresseförening
+  web: http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Skaraborg.html
+
 - entry: 1235311600
   orgName: Brukarföreningen Stockholm
   orgNumber: 802416-2219
@@ -12559,6 +12869,16 @@ entries:
   categories:
   - hamnförening
   web: https://www.framnashamnen.se/
+
+- entry: 1235467923
+  orgName: Svenska Epidermolysis Bullosa-föreningen/DEBRA Sweden
+  orgNumber: 802418-2530
+  comment: null
+  categories:
+  - epidermolysis
+  - förening
+  - intresseförening
+  web: https://ebforeningen.se/
 
 - entry: 1235469929
   orgName: Pingst Umeå
@@ -13152,6 +13472,14 @@ entries:
   - tjejjour
   web: https://www.varbergskvinnojour.se/
 
+- entry: 1235709696
+  orgName: Susedalens Hälsocenter / Susedalen Health & Consulting AB
+  orgNumber: 559029-6447
+  comment: null
+  categories:
+  - hälsa
+  web: https://www.susedalenshalsocenter.com/
+
 - entry: 1235714829
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -13652,6 +13980,17 @@ entries:
   - hörselskadad
   - riksförbund
   web: https://hrf.se/kristinehamn/
+
+- entry: 1235943246
+  orgName: Prostatacancerföreningen i Uppsala län
+  orgNumber: 802427-8361
+  comment: null
+  categories:
+  - cancer
+  - förening
+  - patientförening
+  - prostatacancer
+  web: https://prostatacancerforbundet.se/om-oss/patientforeningar/uppsala/prostatacancerforeningen-i-uppsala-lan/
 
 - entry: 1235943659
   orgName: Anna Redin Yoga / Anna Redin
@@ -14484,6 +14823,15 @@ entries:
   - bilvård
   web: null
 
+- entry: 1236235840
+  orgName: Nya Riksföreningen hepatit C - och andra leversjukdomar
+  orgNumber: 802406-8507
+  comment: null
+  categories:
+  - förening
+  - patientförening
+  web: https://rhep.se/
+
 - entry: 1236243729
   orgName: CH Anderssons Trafikskola AB
   orgNumber: 556743-6968
@@ -15268,6 +15616,17 @@ entries:
   - sportfiske
   web: http://lilloringen.se/
 
+- entry: 1236624415
+  orgName: Lungcancerföreningen
+  orgNumber: 802417-7076
+  comment: null
+  categories:
+  - cancer
+  - förening
+  - intresseförening
+  - lungcancer
+  web: https://lungcancerforeningen.se/
+
 - entry: 1236624449
   orgName: Purusa AB
   orgNumber: 556998-1375
@@ -15437,6 +15796,14 @@ entries:
   - pistolskytteklubb
   - skytte
   web: https://www.fokboras.se/
+
+- entry: 1236685754
+  orgName: Barnendometriosfonden
+  orgNumber: 802508-2002
+  comment: null
+  categories:
+  - endometrios
+  web: http://www.barnendometriosfonden.se/
 
 - entry: 1236686133
   orgName: GolfUppsala AB
@@ -16302,7 +16669,9 @@ entries:
   orgNumber: 802424-7192
   comment: null
   categories:
+  - forskning
   - insamlingskontroll
+  - stiftelse
   web: https://www.ullacarinstiftelse.se/
 
 - entry: 1239000506
@@ -16729,6 +17098,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.centrumforrattvisa.se/
 
 - entry: 1239001553
@@ -16752,6 +17122,7 @@ entries:
   orgNumber: 802008-1348
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
   web: https://www.autism.se/
 
@@ -17485,6 +17856,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - reumatism
   web: https://www.reumatiker.se/
 
 - entry: 1239003211
@@ -17825,6 +18197,7 @@ entries:
   orgNumber: 802425-9189
   comment: null
   categories:
+  - fibromyalgi
   - insamlingskontroll
   - stiftelse
   web: https://www.fibromyalgi.se/
@@ -19640,7 +20013,9 @@ entries:
   orgNumber: 802012-4999
   comment: null
   categories:
+  - forskning
   - insamlingskontroll
+  - stiftelse
   web: https://www.ogonfonden.se/
 
 - entry: 1239007238
@@ -19666,6 +20041,7 @@ entries:
   orgNumber: 857205-5237
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
   - mental hälsa
   web: https://www.schizofreniforbundet.se/
@@ -19960,7 +20336,9 @@ entries:
   orgNumber: 855101-4874
   comment: null
   categories:
+  - forskning
   - insamlingskontroll
+  - stiftelse
   web: https://www.parkinsonfonden.se/
 
 - entry: 1239008004
@@ -20634,6 +21012,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - reumatism
   web: https://ungareumatiker.se/
 
 - entry: 1239017187

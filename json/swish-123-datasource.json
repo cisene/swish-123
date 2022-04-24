@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-23-rev-150200",
+    "date": "2022-04-24-rev-171515",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -50,6 +50,17 @@
         "yoga"
       ],
       "web": "https://skrattyoga.se/"
+    },
+    {
+      "entry": 1230007922,
+      "orgNumber": "802508-1186",
+      "orgName": "Riksf\u00f6reningen f\u00f6r SLE",
+      "categories": [
+        "intressef\u00f6rening",
+        "patientf\u00f6rening",
+        "reumatism"
+      ],
+      "web": "https://sle.reumatiker.se/"
     },
     {
       "entry": 1230009019,
@@ -292,6 +303,16 @@
         "stiftelse"
       ],
       "web": "https://www.stallkungsgarden.se/"
+    },
+    {
+      "entry": 1230159699,
+      "orgNumber": "898801-0925",
+      "orgName": "Parkinsonf\u00f6rbundet - Norrbotten",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Norrbotten.html"
     },
     {
       "entry": 1230182063,
@@ -962,6 +983,17 @@
       "web": "https://feministisktinitiativ.se/"
     },
     {
+      "entry": 1230438093,
+      "orgNumber": "817602-0637",
+      "orgName": "Br\u00f6stcancerf\u00f6reningen Uppsala L\u00e4n",
+      "categories": [
+        "br\u00f6stcancer",
+        "cancer",
+        "f\u00f6rening"
+      ],
+      "web": "https://uppsala.brostcancerforbundet.se/"
+    },
+    {
       "entry": 1230440917,
       "orgNumber": "556404-6018",
       "orgName": "Zerillas Hundcenter AB",
@@ -1054,6 +1086,7 @@
       "orgNumber": "802413-6361",
       "orgName": "Br\u00f6stcancerf\u00f6reningen P\u00e4rlan Helsingborg",
       "categories": [
+        "br\u00f6stcancer",
         "cancer",
         "f\u00f6rbund",
         "f\u00f6rening",
@@ -1262,6 +1295,7 @@
       "orgNumber": "812800-9498",
       "orgName": "Riksf\u00f6rbundet Ehlers-Danlos Syndrom",
       "categories": [
+        "ehlers-danlos",
         "patientf\u00f6rbund",
         "riksf\u00f6rbund"
       ],
@@ -1306,6 +1340,16 @@
         "ornitologi"
       ],
       "web": "https://dalafaglar.se/"
+    },
+    {
+      "entry": 1230624403,
+      "orgNumber": "846006-5637",
+      "orgName": "Parkinsonf\u00f6rbundet - Sk\u00e5ne",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Sk%E5ne.html"
     },
     {
       "entry": 1230624999,
@@ -1683,6 +1727,15 @@
       "web": "https://delbornpreisler.se/"
     },
     {
+      "entry": 1230757948,
+      "orgNumber": "802508-0840",
+      "orgName": "George Graham Foundation ideell f\u00f6rening",
+      "categories": [
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://ggfsweden.org/"
+    },
+    {
       "entry": 1230759712,
       "orgNumber": "802004-0575",
       "orgName": "Pingst Fria F\u00f6rsamlingar i samverkan",
@@ -1690,6 +1743,16 @@
         "religion"
       ],
       "web": "https://www.pingst.se/forsamling/natverk/pastor/"
+    },
+    {
+      "entry": 1230766998,
+      "orgNumber": "802519-3817",
+      "orgName": "F\u00f6reningen Alternativ till Psykofarmaka, FAP",
+      "categories": [
+        "f\u00f6rening",
+        "psykisk h\u00e4lsa"
+      ],
+      "web": "http://www.alternativ-till-psykofarmaka.se/"
     },
     {
       "entry": 1230769745,
@@ -1988,6 +2051,17 @@
         "religion"
       ],
       "web": "https://www.ywam.se/"
+    },
+    {
+      "entry": 1230876417,
+      "orgNumber": "802496-2220",
+      "orgName": "Trans Fest Stockholm",
+      "categories": [
+        "festival",
+        "kultur",
+        "transsexualitet"
+      ],
+      "web": "https://transfeststockholm.org/"
     },
     {
       "entry": 1230878629,
@@ -2560,6 +2634,7 @@
       "orgNumber": "826001-9503",
       "orgName": "Fibromyalgi F\u00f6rbundet",
       "categories": [
+        "fibromyalgi",
         "f\u00f6rbund"
       ],
       "web": "https://www.fibromyalgi.se/"
@@ -2731,6 +2806,16 @@
         "busstrafik"
       ],
       "web": "http://www.sundbergsbuss.se/"
+    },
+    {
+      "entry": 1231170109,
+      "orgNumber": "881028-XXXX",
+      "orgName": "AyuEmy / Emy Ekholm",
+      "categories": [
+        "ayur veda",
+        "healing"
+      ],
+      "web": "https://www.ayuemy.com/"
     },
     {
       "entry": 1231175751,
@@ -4243,6 +4328,15 @@
       ]
     },
     {
+      "entry": 1231707181,
+      "orgNumber": "802467-5772",
+      "orgName": "Tilia",
+      "categories": [
+        "psykisk h\u00e4lsa"
+      ],
+      "web": "https://teamtilia.se/"
+    },
+    {
       "entry": 1231709310,
       "orgNumber": "857203-6690",
       "orgName": "IF V\u00e4ster",
@@ -4730,6 +4824,16 @@
         "mansjour"
       ],
       "web": "https://www.mansjouren.se/"
+    },
+    {
+      "entry": 1231910140,
+      "orgNumber": "802017-5090",
+      "orgName": "Assistanskoll / Independent Living Institute, ILI",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://assistanskoll.se/"
     },
     {
       "entry": 1231926344,
@@ -5236,6 +5340,16 @@
         "underh\u00e5llning"
       ],
       "web": "https://www.ceciliakyllinge.se/"
+    },
+    {
+      "entry": 1232085116,
+      "orgNumber": "802509-5822",
+      "orgName": "Mamma till Mamma",
+      "categories": [
+        "graviditet",
+        "psykisk h\u00e4lsa"
+      ],
+      "web": "https://mammatillmamma.com/"
     },
     {
       "entry": 1232088953,
@@ -6099,7 +6213,9 @@
       "orgNumber": "802445-7510",
       "orgName": "F\u00f6reningen Bota FA!",
       "categories": [
-        "h\u00e4lsa"
+        "friedreichs ataxi",
+        "f\u00f6rening",
+        "patientf\u00f6rening"
       ],
       "web": "http://www.bota-fa.se/"
     },
@@ -6225,7 +6341,8 @@
       "orgNumber": "802008-7949",
       "orgName": "Reumatikerf\u00f6reningen Stockholm",
       "categories": [
-        "f\u00f6rening"
+        "f\u00f6rening",
+        "reumatism"
       ],
       "web": "https://stockholm.reumatiker.se/"
     },
@@ -6478,6 +6595,15 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/kraftbyran/"
+    },
+    {
+      "entry": 1232532307,
+      "orgNumber": "815600-6168",
+      "orgName": "Phoenixmottagningen / Stiftelsen Vidarkliniken",
+      "categories": [
+        "antroposofisk medicin"
+      ],
+      "web": "https://www.phoenixmottagningen.nu/"
     },
     {
       "entry": 1232538593,
@@ -6774,6 +6900,8 @@
       "orgNumber": "802477-6158",
       "orgName": "Stiftelsen f\u00f6r transplantations- och cancerforskning",
       "categories": [
+        "cancer",
+        "forskning",
         "stiftelse"
       ],
       "web": "https://transplantationsstiftelsen.se/"
@@ -7166,6 +7294,24 @@
       "web": "https://www.mediumhannukoskinen.se/"
     },
     {
+      "entry": 1232771707,
+      "orgNumber": "802016-7915",
+      "orgName": "\u00c5ngestf\u00f6rbundet \u00c5SS",
+      "categories": [
+        "depression",
+        "fobier",
+        "f\u00f6rbund",
+        "generaliserad \u00e5ngest",
+        "h\u00f6gk\u00e4nslighet",
+        "krisreaktioner",
+        "panik\u00e5ngest",
+        "social \u00e5ngest",
+        "stressreaktioner",
+        "utmattningstillst\u00e5nd"
+      ],
+      "web": "https://www.angest.se/"
+    },
+    {
       "entry": 1232787802,
       "orgNumber": "671223-XXXX",
       "orgName": "PT Cam / Camilla \u00c5str\u00f6m",
@@ -7238,6 +7384,15 @@
         "stiftelse"
       ],
       "web": "https://www.stockholmssjukhem.se/"
+    },
+    {
+      "entry": 1232811198,
+      "orgNumber": "802533-5251",
+      "orgName": "G\u00e5rdakvarnen",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.gardakvarnen.se/"
     },
     {
       "entry": 1232811362,
@@ -7668,6 +7823,16 @@
       "web": "http://www.maingatyoga.se/"
     },
     {
+      "entry": 1232992022,
+      "orgNumber": "898800-4746",
+      "orgName": "Riksf\u00f6rbundet Hj\u00e4rtLung Pite\u00e5",
+      "categories": [
+        "f\u00f6rening",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.hjart-lung.se/pitea/"
+    },
+    {
       "entry": 1232992840,
       "orgNumber": "802471-1817",
       "orgName": "Wasa Golfklubb",
@@ -7892,6 +8057,19 @@
       "web": "https://flammor.com/"
     },
     {
+      "entry": 1233056710,
+      "orgNumber": "802518-3602",
+      "orgName": "Prostatacancerf\u00f6reningen Skaraborg",
+      "categories": [
+        "cancer",
+        "forskning",
+        "f\u00f6rening",
+        "patientf\u00f6rening",
+        "prostatacancer"
+      ],
+      "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/prostatacancerforeningen-skaraborg/"
+    },
+    {
       "entry": 1233057908,
       "orgNumber": "814000-0467",
       "orgName": "Ingar\u00f6 Golfklubb",
@@ -7958,6 +8136,15 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.sigtunaridskola.com/"
+    },
+    {
+      "entry": 1233088317,
+      "orgNumber": "802429-2735",
+      "orgName": "Borrelia och TBE f\u00f6reningen",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.borrelia-tbe.se/"
     },
     {
       "entry": 1233088846,
@@ -9076,8 +9263,10 @@
       "orgNumber": "817600-9473",
       "orgName": "Riksf\u00f6rbundet Cystisk Fibros",
       "categories": [
+        "f\u00f6rbund",
         "intresseorganisation",
-        "patientf\u00f6rening"
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
       ],
       "web": "http://www.rfcf.se/"
     },
@@ -9221,6 +9410,16 @@
       "web": "https://klaramarie.se/"
     },
     {
+      "entry": 1233566874,
+      "orgNumber": "600908-XXXX",
+      "orgName": "Markus Holst",
+      "categories": [
+        "h\u00e4stsport",
+        "utbildning"
+      ],
+      "web": "https://markusholst.com/"
+    },
+    {
       "entry": 1233567344,
       "orgNumber": "802406-8184",
       "orgName": "Burmaklubben",
@@ -9289,6 +9488,15 @@
       "web": "http://hlhf.se/"
     },
     {
+      "entry": 1233600699,
+      "orgNumber": "012696-2349",
+      "orgName": "Sipples Patientf\u00f6rening - Patienter med MEN 2A",
+      "categories": [
+        "patientf\u00f6rening"
+      ],
+      "web": "https://sipples.wordpress.com/"
+    },
+    {
       "entry": 1233600822,
       "orgNumber": "969710-1500",
       "orgName": "H\u00e4sttj\u00e4rns Fiske Handelsbolag",
@@ -9317,6 +9525,17 @@
         "utbildning"
       ],
       "web": "https://vsdk-mollusca.org/"
+    },
+    {
+      "entry": 1233623212,
+      "orgNumber": "802488-4655",
+      "orgName": "Stockholm 12",
+      "categories": [
+        "alkoholproblematik",
+        "beroendeproblematik",
+        "donation"
+      ],
+      "web": "https://www.stockholm12.se/"
     },
     {
       "entry": 1233626710,
@@ -9475,6 +9694,15 @@
         "golfklubb"
       ],
       "web": "https://www.mariestadsgk.se/"
+    },
+    {
+      "entry": 1233716602,
+      "orgNumber": "802444-2876",
+      "orgName": "Patientf\u00f6rening f\u00f6r Integrativ Medicin / F\u00f6rening f\u00f6r Integrativ Medicin och H\u00e4lsa",
+      "categories": [
+        "patientf\u00f6rening"
+      ],
+      "web": "https://integrativ-medicin.se/"
     },
     {
       "entry": 1233716628,
@@ -9660,6 +9888,16 @@
         "utbildning"
       ],
       "web": "http://www.johafonden.com/"
+    },
+    {
+      "entry": 1233800190,
+      "orgNumber": "802467-4122",
+      "orgName": "Melanomf\u00f6reningen",
+      "categories": [
+        "f\u00f6rening",
+        "melanom"
+      ],
+      "web": "https://melanomforeningen.se/"
     },
     {
       "entry": 1233802865,
@@ -10187,6 +10425,15 @@
       "web": "https://vhek.se/"
     },
     {
+      "entry": 1233990801,
+      "orgNumber": "802510-1760",
+      "orgName": "G\u00e5van Sverige",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://gavansverige.se/"
+    },
+    {
       "entry": 1233991163,
       "orgNumber": "681021-XXXX",
       "orgName": "Yoga Med Helen / Helen K\u00e5sel\u00f6v",
@@ -10324,6 +10571,16 @@
         "stiftelse"
       ],
       "web": "https://www.rosendalstradgard.se/"
+    },
+    {
+      "entry": 1234042891,
+      "orgNumber": "802527-8618",
+      "orgName": "Centrum F\u00f6r Urbankonst, CFUK",
+      "categories": [
+        "konstf\u00f6rening",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://cfuk.nu/"
     },
     {
       "entry": 1234043436,
@@ -10878,6 +11135,15 @@
       "web": "https://sollentunahockey.myclub.se/"
     },
     {
+      "entry": 1234263190,
+      "orgNumber": "802489-8481",
+      "orgName": "Stefanushj\u00e4lpen",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "http://www.stefanushjalpen.se/"
+    },
+    {
       "entry": 1234263208,
       "orgNumber": "556657-0643",
       "orgName": "Mj\u00f6lby Golfklubb",
@@ -11120,6 +11386,16 @@
       "web": "https://hundhjalpen.se/"
     },
     {
+      "entry": 1234326351,
+      "orgNumber": "817602-7517",
+      "orgName": "Patientf\u00f6reningen CarpaNet",
+      "categories": [
+        "neuroendokrina tum\u00f6rsjukdomar",
+        "patientf\u00f6rening"
+      ],
+      "web": "http://www.carpanet.se/"
+    },
+    {
       "entry": 1234328548,
       "orgNumber": "802481-9099",
       "orgName": "Insamlingsstiftelsen Bohus F\u00e4stning",
@@ -11240,6 +11516,25 @@
         "donation"
       ],
       "web": "https://hjarnkollvasterbotten.se/"
+    },
+    {
+      "entry": 1234397287,
+      "orgNumber": "930302-XXXX",
+      "orgName": "Tennisportalen / Tennisportalen Media Sweden",
+      "categories": [
+        "tennis"
+      ],
+      "web": "https://tennisportalen.se/"
+    },
+    {
+      "entry": 1234406823,
+      "orgNumber": "802475-2332",
+      "orgName": "N\u00e4tverket f\u00f6r Spinal Muskelatrofi, NSMA",
+      "categories": [
+        "f\u00f6rening",
+        "patientf\u00f6rening"
+      ],
+      "web": "http://nsma.nu/"
     },
     {
       "entry": 1234407375,
@@ -11781,6 +12076,16 @@
       "web": "https://www.innebandy.se/smaland/"
     },
     {
+      "entry": 1234615449,
+      "orgNumber": "840510-XXXX",
+      "orgName": "Skarv Sthlm / Sofia Sj\u00f6qvist",
+      "categories": [
+        "psykiska h\u00e4lsa",
+        "samtalsterapi"
+      ],
+      "web": "https://www.skarvsthlm.com/"
+    },
+    {
       "entry": 1234627238,
       "orgNumber": "802412-6883",
       "orgName": "Teaterk\u00f6ren",
@@ -11926,6 +12231,16 @@
       "web": "http://www.animalprotection.se/"
     },
     {
+      "entry": 1234665816,
+      "orgNumber": "802460-6967",
+      "orgName": "Narkolepsif\u00f6reningen i Sverige",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.narkolepsiforeningen.se/"
+    },
+    {
       "entry": 1234671772,
       "orgNumber": "802465-8836",
       "orgName": "Solrosen Kvinnojour",
@@ -11936,6 +12251,15 @@
       "web": "https://www.unizonjourer.se/solrosenkvinnojour/"
     },
     {
+      "entry": 1234673182,
+      "orgNumber": "802498-1287",
+      "orgName": "eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning / Efolkets V\u00e4nner",
+      "categories": [
+        "lokaltidning"
+      ],
+      "web": "https://efolket.eu/"
+    },
+    {
       "entry": 1234673380,
       "orgNumber": "857209-9243",
       "orgName": "H\u00f6viksn\u00e4s B\u00e5tf\u00f6rening",
@@ -11944,6 +12268,15 @@
         "b\u00e5tv\u00e5rd"
       ],
       "web": "http://www.hovik.se/"
+    },
+    {
+      "entry": 1234673455,
+      "orgNumber": "802434-6846",
+      "orgName": "Maskrosbarn",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://maskrosbarn.org/"
     },
     {
       "entry": 1234673760,
@@ -13470,6 +13803,16 @@
       "web": "https://fenixflyg.se/"
     },
     {
+      "entry": 1235310974,
+      "orgNumber": "868401-2514",
+      "orgName": "Parkinsonf\u00f6rbundet - Skaraborg",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Skaraborg.html"
+    },
+    {
       "entry": 1235311600,
       "orgNumber": "802416-2219",
       "orgName": "Brukarf\u00f6reningen Stockholm",
@@ -13943,6 +14286,17 @@
         "hamnf\u00f6rening"
       ],
       "web": "https://www.framnashamnen.se/"
+    },
+    {
+      "entry": 1235467923,
+      "orgNumber": "802418-2530",
+      "orgName": "Svenska Epidermolysis Bullosa-f\u00f6reningen/DEBRA Sweden",
+      "categories": [
+        "epidermolysis",
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://ebforeningen.se/"
     },
     {
       "entry": 1235469929,
@@ -14606,6 +14960,15 @@
       "web": "https://www.varbergskvinnojour.se/"
     },
     {
+      "entry": 1235709696,
+      "orgNumber": "559029-6447",
+      "orgName": "Susedalens H\u00e4lsocenter / Susedalen Health & Consulting AB",
+      "categories": [
+        "h\u00e4lsa"
+      ],
+      "web": "https://www.susedalenshalsocenter.com/"
+    },
+    {
       "entry": 1235714829,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -15159,6 +15522,18 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://hrf.se/kristinehamn/"
+    },
+    {
+      "entry": 1235943246,
+      "orgNumber": "802427-8361",
+      "orgName": "Prostatacancerf\u00f6reningen i Uppsala l\u00e4n",
+      "categories": [
+        "cancer",
+        "f\u00f6rening",
+        "patientf\u00f6rening",
+        "prostatacancer"
+      ],
+      "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/uppsala/prostatacancerforeningen-i-uppsala-lan/"
     },
     {
       "entry": 1235943659,
@@ -16090,6 +16465,16 @@
       ]
     },
     {
+      "entry": 1236235840,
+      "orgNumber": "802406-8507",
+      "orgName": "Nya Riksf\u00f6reningen hepatit C - och andra leversjukdomar",
+      "categories": [
+        "f\u00f6rening",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://rhep.se/"
+    },
+    {
       "entry": 1236243729,
       "orgNumber": "556743-6968",
       "orgName": "CH Anderssons Trafikskola AB",
@@ -16948,6 +17333,18 @@
       "web": "http://lilloringen.se/"
     },
     {
+      "entry": 1236624415,
+      "orgNumber": "802417-7076",
+      "orgName": "Lungcancerf\u00f6reningen",
+      "categories": [
+        "cancer",
+        "f\u00f6rening",
+        "intressef\u00f6rening",
+        "lungcancer"
+      ],
+      "web": "https://lungcancerforeningen.se/"
+    },
+    {
       "entry": 1236624449,
       "orgNumber": "556998-1375",
       "orgName": "Purusa AB",
@@ -17136,6 +17533,15 @@
         "skytte"
       ],
       "web": "https://www.fokboras.se/"
+    },
+    {
+      "entry": 1236685754,
+      "orgNumber": "802508-2002",
+      "orgName": "Barnendometriosfonden",
+      "categories": [
+        "endometrios"
+      ],
+      "web": "http://www.barnendometriosfonden.se/"
     },
     {
       "entry": 1236686133,
@@ -18042,7 +18448,9 @@
       "orgNumber": "802424-7192",
       "orgName": "Ulla-Carin Lindquists Stiftelse f\u00f6r ALS-forskning",
       "categories": [
-        "insamlingskontroll"
+        "forskning",
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.ullacarinstiftelse.se/"
     },
@@ -18389,7 +18797,8 @@
       "orgNumber": "802412-1215",
       "orgName": "Centrum f\u00f6r r\u00e4ttvisa, en insamlingsstiftelse",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.centrumforrattvisa.se/"
     },
@@ -18416,6 +18825,7 @@
       "orgNumber": "802008-1348",
       "orgName": "Autism- och Aspergerf\u00f6rbundet",
       "categories": [
+        "f\u00f6rbund",
         "insamlingskontroll"
       ],
       "web": "https://www.autism.se/"
@@ -18955,7 +19365,8 @@
       "orgNumber": "802002-7838",
       "orgName": "Reumatikerf\u00f6rbundet",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "reumatism"
       ],
       "web": "https://www.reumatiker.se/"
     },
@@ -19227,6 +19638,7 @@
       "orgNumber": "802425-9189",
       "orgName": "Fibromyalgif\u00f6rbundets forskningsstiftelse",
       "categories": [
+        "fibromyalgi",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -20553,7 +20965,9 @@
       "orgNumber": "802012-4999",
       "orgName": "\u00d6gonfonden/Stiftelsen Synfr\u00e4mjandets Forskningsfond",
       "categories": [
-        "insamlingskontroll"
+        "forskning",
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.ogonfonden.se/"
     },
@@ -20562,6 +20976,7 @@
       "orgNumber": "857205-5237",
       "orgName": "Schizofrenif\u00f6rbundet, Intressef\u00f6rbundet f\u00f6r personer med schizofreni och liknande psykoser",
       "categories": [
+        "f\u00f6rbund",
         "insamlingskontroll",
         "mental h\u00e4lsa"
       ],
@@ -20791,7 +21206,9 @@
       "orgNumber": "855101-4874",
       "orgName": "Stiftelsen ParkinsonF\u00f6rbundets Forskningsfond",
       "categories": [
-        "insamlingskontroll"
+        "forskning",
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.parkinsonfonden.se/"
     },
@@ -21436,7 +21853,8 @@
       "orgNumber": "802401-0251",
       "orgName": "Riksorganisationen Unga Reumatiker",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "reumatism"
       ],
       "web": "https://ungareumatiker.se/"
     },
