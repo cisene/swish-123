@@ -515,6 +515,15 @@ entries:
   - yoga
   web: https://www.yogafarmen.se/
 
+- entry: 1230266445
+  orgName: Deer light healing / Anna Näsén
+  orgNumber: 751008-XXXX
+  comment: null
+  categories:
+  - healing
+  - reiki
+  web: https://deerlighthealing.se/
+
 - entry: 1230279372
   orgName: Starlight Psykologi AB
   orgNumber: 559293-8251
@@ -3702,6 +3711,13 @@ entries:
   - djurskydd
   web: https://hundarutanhem.se/
 
+- entry: 1231617562
+  orgName: Helhetens Hus / Malin
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.helhetenshus.se/
+
 - entry: 1231619501
   orgName: Lions Simrishamn
   orgNumber: 838800-6150
@@ -5617,6 +5633,14 @@ entries:
   - stiftelse
   web: https://tallnas.se/
 
+- entry: 1232389161
+  orgName: Equmeniakyrkan
+  orgNumber: 252004-7131
+  comment: Gåvor
+  categories:
+  - religion
+  web: http://equmeniakyrkan.se/
+
 - entry: 1232389823
   orgName: Pingst Jönköping
   orgNumber: 826000-0784
@@ -5645,6 +5669,7 @@ entries:
   orgNumber: 559355-4818
   comment: null
   categories:
+  - healing
   - reiki
   web: https://secourong.com/
 
@@ -6055,6 +6080,16 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/ifvaster/
+
+- entry: 1232604973
+  orgName: För-Festivalen / Alla ska få mat
+  orgNumber: 802531-0007
+  comment: null
+  categories:
+  - festival
+  - kultur
+  - musik
+  web: https://forfestivalen.se/
 
 - entry: 1232610939
   orgName: Inlandsbanans Vänner IBV
@@ -11013,7 +11048,7 @@ entries:
   web: https://www.unizonjourer.se/solrosenkvinnojour/
 
 - entry: 1234673182
-  orgName: eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning / Efolkets Vänner
+  orgName: eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning / eFolkets Vänner
   orgNumber: 802498-1287
   comment: null
   categories:
@@ -11721,6 +11756,15 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.guif.nu/
+
+- entry: 1235093414
+  orgName: YuBe AB
+  orgNumber: 559156-5402
+  comment: null
+  categories:
+  - psykisk hästsport
+  - ungdomsverksamhet
+  web: https://www.yube.se/
 
 - entry: 1235099825
   orgName: Swedish Elephant AB
@@ -14754,6 +14798,7 @@ entries:
   orgNumber: 490720-XXXX
   comment: null
   categories:
+  - healing
   - reiki
   web: https://www.reikicentrum.se/
 
@@ -15279,6 +15324,15 @@ entries:
   - katthotell
   - kattpensionat
   web: https://www.harkebergahundhotell.se/
+
+- entry: 1236409635
+  orgName: TjejJouren Väst
+  orgNumber: 802460-9284
+  comment: null
+  categories:
+  - kvinnojour
+  - tjejjour
+  web: https://www.tjejjourenvast.se/
 
 - entry: 1236417299
   orgName: Piteå IF Orienteringsklubb - Orientering

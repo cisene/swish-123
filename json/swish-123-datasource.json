@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-04-24-rev-171515",
+    "date": "2022-05-02-rev-193712",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -575,6 +575,16 @@
         "yoga"
       ],
       "web": "https://www.yogafarmen.se/"
+    },
+    {
+      "entry": 1230266445,
+      "orgNumber": "751008-XXXX",
+      "orgName": "Deer light healing / Anna N\u00e4s\u00e9n",
+      "categories": [
+        "healing",
+        "reiki"
+      ],
+      "web": "https://deerlighthealing.se/"
     },
     {
       "entry": 1230279372,
@@ -6265,6 +6275,16 @@
       "web": "https://tallnas.se/"
     },
     {
+      "entry": 1232389161,
+      "orgNumber": "252004-7131",
+      "orgName": "Equmeniakyrkan",
+      "comment": "G\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://equmeniakyrkan.se/"
+    },
+    {
       "entry": 1232389823,
       "orgNumber": "826000-0784",
       "orgName": "Pingst J\u00f6nk\u00f6ping",
@@ -6294,6 +6314,7 @@
       "orgNumber": "559355-4818",
       "orgName": "Reiki-kliniken i G\u00f6teborg AB / Secourong F\u00f6rlag",
       "categories": [
+        "healing",
         "reiki"
       ],
       "web": "https://secourong.com/"
@@ -6751,6 +6772,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/ifvaster/"
+    },
+    {
+      "entry": 1232604973,
+      "orgNumber": "802531-0007",
+      "orgName": "F\u00f6r-Festivalen / Alla ska f\u00e5 mat",
+      "categories": [
+        "festival",
+        "kultur",
+        "musik"
+      ],
+      "web": "https://forfestivalen.se/"
     },
     {
       "entry": 1232610939,
@@ -12253,7 +12285,7 @@
     {
       "entry": 1234673182,
       "orgNumber": "802498-1287",
-      "orgName": "eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning / Efolkets V\u00e4nner",
+      "orgName": "eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning / eFolkets V\u00e4nner",
       "categories": [
         "lokaltidning"
       ],
@@ -13029,6 +13061,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.guif.nu/"
+    },
+    {
+      "entry": 1235093414,
+      "orgNumber": "559156-5402",
+      "orgName": "YuBe AB",
+      "categories": [
+        "psykisk h\u00e4stsport",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://www.yube.se/"
     },
     {
       "entry": 1235099825,
@@ -16392,6 +16434,7 @@
       "orgNumber": "490720-XXXX",
       "orgName": "Reikicentrum Lidk\u00f6ping / Lilian Gustavsson",
       "categories": [
+        "healing",
         "reiki"
       ],
       "web": "https://www.reikicentrum.se/"
@@ -16978,6 +17021,16 @@
         "kattpensionat"
       ],
       "web": "https://www.harkebergahundhotell.se/"
+    },
+    {
+      "entry": 1236409635,
+      "orgNumber": "802460-9284",
+      "orgName": "TjejJouren V\u00e4st",
+      "categories": [
+        "kvinnojour",
+        "tjejjour"
+      ],
+      "web": "https://www.tjejjourenvast.se/"
     },
     {
       "entry": 1236417299,
