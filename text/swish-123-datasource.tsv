@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-05-02-rev-193712
+# Date: 2022-05-02-rev-220258
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -179,6 +179,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230746859	838202-3151	Östermalmskyrkans församling	https://www.ostermalmskyrkan.nu/	religion	
 1230747899	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/Ystad/	religion	Ystad
 1230750257	817301-4294	SPF Seniorerna Havsörnen	https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/havsornen/	pensionärsklubb	
+1230751115	559284-8781	Footnet AB	https://footnet.se/	fotvård,försäljning	
 1230751487	556778-2882	Sportfiskebolaget / Sportfiske & VVS Bolaget i Hässleholm AB	https://www.sportfiskebolaget.se/	försäljning,sportfiske,utrustning	
 1230754754	894700-5842	Skellefteå CK - Curling	https://www.curlingklubben.se/	curling,idrottsförening	Klubbafton
 1230757914	559143-2959	Delborn & Preisler	https://delbornpreisler.se/	heminredning,kläder,mode	
@@ -265,6 +266,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231073642	874001-9461	Säffle Trollingklubb	https://www.saffletrollingklubb.com/	intresseförening	
 1231079128	875000-4502	Baptistförsamlingen Immanuel	https://www.imkorebro.se/	religion	kyrkfonden
 1231079706	559093-5127	Charity Yoga / Marie Mallmin AB	https://www.charityyoga.se/	utbildning,välgörenhet,yoga	
+1231083401	559141-8438	Fotvalvet / EC Moments AB	https://www.fotvalvet.nu/	fotvård,friskvård	
 1231083948	802006-0730	Mäster Olofsgården	https://www.masterolofsgarden.se/	barnverksamhet,ungdomsverksamhet	
 1231089556	878000-5321	Västerås BK - Brottning	http://www.vasterasbrottarklubb.se/	brottning,brottningsklubb,intresseförening	Café
 1231095017	802006-1688	Frälsningsarmén	https://fakalmar.se/	religion	Kalmar
@@ -424,6 +426,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231615079	817000-1013	Håbro IF - Fotboll	https://www.habroif.se/	fotboll,idrottsförening	
 1231615608	894002-8791	Sävarådalens Snöskoterklubb	https://www.savarskoterklubb.se/	förening,skoterklubb	
 1231616226	802432-7630	Hundar Utan Hem	https://hundarutanhem.se/	djurskydd	Gåva
+1231617562	556778-3377	Helhetens Hus AB	https://www.helhetenshus.se/	healing,kinesiologi,massage,osteopati,qigong,reiki,yoga	
 1231619501	838800-6150	Lions Simrishamn	https://e-clubhouse.org/sites/simrishamn/	förening	
 1231625664	559098-9132	Easy Gym / PT-Team Haparanda AB	https://easygym.fi/	gym,träning	
 1231626001	802412-4623	Kvinnojouren Anna	https://www.kvinnojourenanna.se/	kvinnojour,tjejjour	
@@ -595,6 +598,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232223535	631122-XXXX	Gongiversum Sadhana Yoga & meditationsskola i Motala / Ildiko Kasza	https://www.gongiversum.com/	meditation,yoga	
 1232228039	802520-0091	Aldrig Ensam	http://aldrigensam.com/	mental hälsa,minnesinsamling,psykisk hälsa	
 1232232213	556907-1599	Crossfit Bifrost / Knutshyttan AB	http://www.crossfitbifrost.com/	crossfit,friskvård,gym,styrketräning	
+1232234904	559076-7520	Hypéns Fotvård AB	https://www.hypensfotvard.se/	fotvård	
 1232240356	815200-4076	Folket i Bild/Kulturfront	https://fib.se/	förening	
 1232243541	701023-XXXX	Jenny Ström	https://www.jennystrom.se/	utbildning,yoga	
 1232244721	802401-7041	International Buddhist Progress Society Sweden, IBPS Sweden	https://www.ibpssweden.se/	religion	
@@ -1041,6 +1045,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233884285	802505-5495	Piteå IF Orienteringsklubb - Orientering	https://www.piteaifok.se/	idrottsförening,orientering	Övrigt
 1233892122	559030-3425	HS Häst	https://naasridcenter.se/	ridsport	
 1233893765	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/Strangnas/	religion	Strängnäs
+1233893880	814400-9902	Freija Roslagens företagarkvinnor	https://freija.se/	företagande	
 1233894177	894000-0360	Sävaråkyrkan	https://www.savarakyrkan.se/	religion	
 1233894276	822001-7571	White Lions	http://www.whitelions.se/	supporterklubb	
 1233894508	556548-0406	Pantbanken Vänersborg	https://panta.nu/	pantbank	
@@ -1317,6 +1322,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234971941	802481-1419	Idrottsgalans Insamlingsstiftelse	https://www.fairplaysverige.se/	stiftelse	
 1234986915	802525-0310	Bensinupproret 2.0 / Föreningen Uppror	https://www.bransleupproret.se/	folkrörelse	
 1234987541	832401-3807	Kvinnojouren och Ungdomsjouren Kalmar	https://www.unizonjourer.se/kvinnojourenkalmar/	kvinnojour,tjejjour	
+1234992582	559084-1515	Cityfötter i Borås AB	https://cityfotter.se/	fotvård	
 1234993895	556614-4621	Carlsson Ring Fastighetsmäklare AB	https://carlssonring.se/	fastighetsauktioner,fastighetsförmedling,fastighetsmäklare,fastighetsvärdering,lantbruksauktioner,lösöreauktioner	
 1234995015	855100-6771	Pensionärernas BTK - Bordtennis	https://www.pbk-gbg.se/	bordtennis,pensionärsklubb	
 1234997243	802509-4148	Föreningen Turf Västmanland	https://www.uturf.se/	friluftsliv,förening	
@@ -1571,8 +1577,10 @@ entry	orgNumber	orgName	web	categories	comment
 1235809066	832401-8145	Gymmet i Vissefjärda / Vissefjärda Samhällsförening	http://gymmet.org/	hembygdsförening	
 1235812268	802480-7797	IOCA ARMA NOSTRA Insamlingsstiftelse	https://beetroot.co/aid-for-ukraine/	humanitär hjälpverksamhet	Aid for Ukraine
 1235820105	802439-8797	Burundi-hjälpen	http://burundihjalpen.se/	donation,hjälporganisation	
+1235820725	701026-XXXX	Himmelska Fötter i Hölö / Helena Johansson	https://www.himmelskafotter.se/	fotvård,massage	
 1235821301	894700-5842	Skellefteå CK - Curling	https://www.curlingklubben.se/	curling,idrottsförening	Seniors
 1235822523	802481-5592	Insamlingsstiftelsen Her House Foundation	https://www.herhouse.se/	stiftelse	
+1235841366	700528-XXXX	Hos Malin - Medicinsk fotvård / Malin Danielsson	https://www.hosmalin.se/	fotvård	
 1235843248	876400-0355	Pingstkyrkan Degerfors	http://degerfors.pingst.se/	religion	Missionskassan
 1235856729	886000-5696	Kvinnojouren Stöttan	http://www.kvinnojourenstottan.se/	kvinnojour,tjejjour	
 1235857842	817606-8677	Västerås Moské	https://aishacenter.se/	religion	
@@ -1654,6 +1662,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236111744	769608-9247	AMAL Sweden / Amal Express Ekonomisk Förening	https://amalsweden.com/	betaltjänster,förening	
 1236112767	556705-3524	Chalmers Golfklubb	https://www.chgk.se/	golfklubb,restaurant	Restaurant
 1236113021	559287-6063	Nya Dagbladet, NyD / Aeon Media AB	https://nyadagbladet.se/	dagstidning,media	
+1236119788	791011-XXXX	Ältas medicinska fotvård & ReflexRummet	https://www.bokadirekt.se/places/%C3%A4ltas-medicinska-fotv%C3%A5rd-&-reflexrummet-13606	fotvårt	
 1236120901	700116-XXXX	Cleos Tarot / Angelina Elander	https://cleostarot.wordpress.com/	medium,spiritualism,spådomar,tarot	
 1236122634	802011-4289	Föreningen Nyckelharpan	https://nyckelharpan.org/	intresseorganisation	
 1236123160	559023-4729	NAV Sweden	https://navsweden.se/	innovation,lärande	

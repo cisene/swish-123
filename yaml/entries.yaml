@@ -1534,6 +1534,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/havsornen/
 
+- entry: 1230751115
+  orgName: Footnet AB
+  orgNumber: 559284-8781
+  comment: null
+  categories:
+  - fotvård
+  - försäljning
+  web: https://footnet.se/
+
 - entry: 1230751487
   orgName: Sportfiskebolaget / Sportfiske & VVS Bolaget i Hässleholm AB
   orgNumber: 556778-2882
@@ -2295,6 +2304,15 @@ entries:
   - välgörenhet
   - yoga
   web: https://www.charityyoga.se/
+
+- entry: 1231083401
+  orgName: Fotvalvet / EC Moments AB
+  orgNumber: 559141-8438
+  comment: null
+  categories:
+  - fotvård
+  - friskvård
+  web: https://www.fotvalvet.nu/
 
 - entry: 1231083948
   orgName: Mäster Olofsgården
@@ -3712,10 +3730,17 @@ entries:
   web: https://hundarutanhem.se/
 
 - entry: 1231617562
-  orgName: Helhetens Hus / Malin
-  orgNumber: null
+  orgName: Helhetens Hus AB
+  orgNumber: 556778-3377
   comment: null
-  categories: null
+  categories:
+  - healing
+  - kinesiologi
+  - massage
+  - osteopati
+  - qigong
+  - reiki
+  - yoga
   web: https://www.helhetenshus.se/
 
 - entry: 1231619501
@@ -5214,6 +5239,14 @@ entries:
   - gym
   - styrketräning
   web: http://www.crossfitbifrost.com/
+
+- entry: 1232234904
+  orgName: Hypéns Fotvård AB
+  orgNumber: 559076-7520
+  comment: null
+  categories:
+  - fotvård
+  web: https://www.hypensfotvard.se/
 
 - entry: 1232240356
   orgName: Folket i Bild/Kulturfront
@@ -9153,6 +9186,14 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/Strangnas/
 
+- entry: 1233893880
+  orgName: Freija Roslagens företagarkvinnor
+  orgNumber: 814400-9902
+  comment: null
+  categories:
+  - företagande
+  web: https://freija.se/
+
 - entry: 1233894177
   orgName: Sävaråkyrkan
   orgNumber: 894000-0360
@@ -11525,6 +11566,14 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/kvinnojourenkalmar/
 
+- entry: 1234992582
+  orgName: Cityfötter i Borås AB
+  orgNumber: 559084-1515
+  comment: null
+  categories:
+  - fotvård
+  web: https://cityfotter.se/
+
 - entry: 1234993895
   orgName: Carlsson Ring Fastighetsmäklare AB
   orgNumber: 556614-4621
@@ -13811,6 +13860,15 @@ entries:
   - hjälporganisation
   web: http://burundihjalpen.se/
 
+- entry: 1235820725
+  orgName: Himmelska Fötter i Hölö / Helena Johansson
+  orgNumber: 701026-XXXX
+  comment: null
+  categories:
+  - fotvård
+  - massage
+  web: https://www.himmelskafotter.se/
+
 - entry: 1235821301
   orgName: Skellefteå CK - Curling
   orgNumber: 894700-5842
@@ -13827,6 +13885,14 @@ entries:
   categories:
   - stiftelse
   web: https://www.herhouse.se/
+
+- entry: 1235841366
+  orgName: Hos Malin - Medicinsk fotvård / Malin Danielsson
+  orgNumber: 700528-XXXX
+  comment: null
+  categories:
+  - fotvård
+  web: https://www.hosmalin.se/
 
 - entry: 1235843248
   orgName: Pingstkyrkan Degerfors
@@ -14531,6 +14597,14 @@ entries:
   - dagstidning
   - media
   web: https://nyadagbladet.se/
+
+- entry: 1236119788
+  orgName: Ältas medicinska fotvård & ReflexRummet
+  orgNumber: 791011-XXXX
+  comment: null
+  categories:
+  - fotvårt
+  web: https://www.bokadirekt.se/places/%C3%A4ltas-medicinska-fotv%C3%A5rd-&-reflexrummet-13606
 
 - entry: 1236120901
   orgName: Cleos Tarot / Angelina Elander
