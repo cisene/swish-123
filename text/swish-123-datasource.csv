@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-05-02-rev-220257
+# Date: 2022-05-15-rev-212803
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -621,6 +621,7 @@
 "1232277739","802510-0614","Angel Island Army, AIA","http://aia.nu/","supporterklubb","bussresor"
 "1232278307","894000-0345","Pingst Umeå","https://umea.pingst.se/","religion","Socialt arbete"
 "1232280261","559275-4534","Ikigaivision of Sweden AB","https://ikigaiyoga.se/","akupunktur,yoga",""
+"1232283216","630521-XXXX","Synnove Nylin Helande Dimensioner","https://www.synnovenylin.se/","healing,reiki,seans",""
 "1232284321","802512-4762","Swedish Arkani Rohingya Organisation","http://www.saro.one/","hjälporganisation",""
 "1232285021","855900-9389","Pingstförsamlingen I Trollhättan","https://www.trollhattanpingst.se/","donation,religion",""
 "1232289437","802000-8713","Tyresö Pingstkyrka","https://www.tyresopingst.se/","religion","Församlingskassan"
@@ -630,6 +631,7 @@
 "1232306611","802464-9827","Strandstädarna","https://www.strandstadarna.se/","naturvård",""
 "1232313039","802488-7849","Hemmaodlat","https://www.hemmaodlat.se/","fritidsodling,utbildning",""
 "1232313906","802457-8356","SOS Church Västerås / New Life Västerås","http://soschurchvasteras.se/","religion",""
+"1232314375","740203-XXXX","Victoria Säker","https://www.victoriasaker.se/","healing,reiki",""
 "1232318673","556345-8156","Billdals Blommor AB","https://www.billdalsblommor.se/","blommor,florist",""
 "1232325611","559110-4608","Jonas Vildmark Bushcraftcenter - Lienshyttans Herrgård AB","https://www.jonasvildmark.com/","bushcraft,friluftsliv,utbildning",""
 "1232327906","556660-9862","Scuba Travel Scandinavia AB","https://scubatravel.se/","dykning,researrangör",""
@@ -708,6 +710,7 @@
 "1232634244","802016-8285","Stiftelsen Spinalis","https://spinalis.se/","neurohälsa,stiftelse",""
 "1232639771","836201-3040","Pastor Tommy Lilja Ministries / PTL-Ministries","https://tommylilja.org/","religion",""
 "1232639904","780510-XXXX","Yoga 121 / Maria Nahringbauer","https://yoga121.se/","yoga",""
+"1232649390","650413-XXXX","Åsa Kjellsdotter Nilsson","http://www.kjellsdotternilsson.com/","healing,hypnos,hypnoterapi,reiki",""
 "1232656189","559100-1952","Fridens Hälsa AB","http://www.fridenshalsa.se/","massage,yoga",""
 "1232658102","802492-3057","Roslagens MHF Ungdom","https://www.mhf.se/regioner/mhf-roslagen/","förening",""
 "1232660306","802523-5204","BatLife Sweden","https://batlife-sweden.se/","förening,intresseorganisation",""
