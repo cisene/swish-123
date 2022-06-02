@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-05-15-rev-212803
+# Date: 2022-06-02-rev-091508
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -65,6 +65,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230259804	802477-8113	Together for Better	https://www.togetherforbetter.se/	donation,utbildning	
 1230263103	802012-0880	Stiftelsen Hemmet Vid Vägen	https://hemmetvidvagen.se/	stiftelse	
 1230263343	760815-XXXX	Yogafarmen / Linnéa El-Solh	https://www.yogafarmen.se/	yoga	
+1230263723	559247-5718	Insikt24 / Exakt24 / Svensk nätmedia AB	https://insikt24.se/	alternativa nyheter	
 1230266445	751008-XXXX	Deer light healing / Anna Näsén	https://deerlighthealing.se/	healing,reiki	
 1230279372	559293-8251	Starlight Psykologi AB	https://www.starlightpsykologi.com/	parterapi,psykologi,terapisamtal	
 1230290213	802442-1219	Svenska Finnjolleförbundet	https://www.finnjolle.se/	finnjolle,förbund,segelklubb,segling	
@@ -1030,6 +1031,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233811296	827000-9528	Pingst Ung Bromma	https://pingstung.se/	religion	
 1233818648	802000-2369	Avelsföreningen Svenska Ardennerhästen	https://www.ardennerforeningen.nu/	avel,hästuppfödning	
 1233819158	883202-1177	Leksands Fågelklubb	http://www.leksandsfagelklubb.se/	fågelklubb,naturskydd	
+1233824877	802481-2169	Insamlingsstiftelsen Ellas Hjältar	https://www.ellashjaltar.se/	stiftelse	
 1233827615	252000-6343	Urshults Församling		religion	Bokbord
 1233837028	232100-0172	Regional Kulturskola i Västmanland / Region Västmanland	https://regionalkulturskola.se/	kultur,utbildning	
 1233849213	878000-5412	Västerås RS - Ridsport	https://www.vrs.se/	ridklubb,ridsport	
@@ -1101,6 +1103,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234046462	761012-XXXX	Lidija Dokuzovic	https://www.lidija.se/	musik,sång	
 1234054359	802515-8802	AjaBajaCancer	http://www.ajabajacancer.se/		
 1234056495	817300-1622	Tierps IF	https://www.laget.se/TierpsIFFotbollHerr/	fotbollsklubb,idrottsförening	
+1234065165	889200-5870	Timrå IK	https://www.laget.se/TIK11/	idrottsförening	
 1234066387	802428-2736	Bettna Hembygdsförening	https://www.hembygd.se/bettna	hembygdsförening	
 1234066395	858501-0518	Föreningen Backamo Skjutbana	http://www.backamoskjutbana.n.nu/	förening,skytte,sportskytte	
 1234068078	802466-4644	Smålands Taxklubb	https://smalandstaxklubb.se/	hundklubb	

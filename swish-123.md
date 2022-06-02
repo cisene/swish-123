@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-05-15-rev-212803
+Date:     2022-06-02-rev-091508
 ...
 
 # Swish 123 Nummer
@@ -67,6 +67,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230259804 | 802477-8113 | Together for Better                                                                                  | [Link](https://www.togetherforbetter.se/) |
 | 1230263103 | 802012-0880 | Stiftelsen Hemmet Vid Vägen                                                                          | [Link](https://hemmetvidvagen.se/) |
 | 1230263343 | 760815-XXXX | Yogafarmen / Linnéa El-Solh                                                                          | [Link](https://www.yogafarmen.se/) |
+| 1230263723 | 559247-5718 | Insikt24 / Exakt24 / Svensk nätmedia AB                                                              | [Link](https://insikt24.se/) |
 | 1230266445 | 751008-XXXX | Deer light healing / Anna Näsén                                                                      | [Link](https://deerlighthealing.se/) |
 | 1230279372 | 559293-8251 | Starlight Psykologi AB                                                                               | [Link](https://www.starlightpsykologi.com/) |
 | 1230290213 | 802442-1219 | Svenska Finnjolleförbundet                                                                           | [Link](https://www.finnjolle.se/) |
@@ -1032,6 +1033,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233811296 | 827000-9528 | Pingst Ung Bromma                                                                                    | [Link](https://pingstung.se/) |
 | 1233818648 | 802000-2369 | Avelsföreningen Svenska Ardennerhästen                                                               | [Link](https://www.ardennerforeningen.nu/) |
 | 1233819158 | 883202-1177 | Leksands Fågelklubb                                                                                  | [Link](http://www.leksandsfagelklubb.se/) |
+| 1233824877 | 802481-2169 | Insamlingsstiftelsen Ellas Hjältar                                                                   | [Link](https://www.ellashjaltar.se/) |
 | 1233827615 | 252000-6343 | Urshults Församling                                                                                  | -                   |
 | 1233837028 | 232100-0172 | Regional Kulturskola i Västmanland / Region Västmanland                                              | [Link](https://regionalkulturskola.se/) |
 | 1233849213 | 878000-5412 | Västerås RS - Ridsport                                                                               | [Link](https://www.vrs.se/) |
@@ -1103,6 +1105,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234046462 | 761012-XXXX | Lidija Dokuzovic                                                                                     | [Link](https://www.lidija.se/) |
 | 1234054359 | 802515-8802 | AjaBajaCancer                                                                                        | [Link](http://www.ajabajacancer.se/) |
 | 1234056495 | 817300-1622 | Tierps IF                                                                                            | [Link](https://www.laget.se/TierpsIFFotbollHerr/) |
+| 1234065165 | 889200-5870 | Timrå IK                                                                                             | [Link](https://www.laget.se/TIK11/) |
 | 1234066387 | 802428-2736 | Bettna Hembygdsförening                                                                              | [Link](https://www.hembygd.se/bettna) |
 | 1234066395 | 858501-0518 | Föreningen Backamo Skjutbana                                                                         | [Link](http://www.backamoskjutbana.n.nu/) |
 | 1234068078 | 802466-4644 | Smålands Taxklubb                                                                                    | [Link](https://smalandstaxklubb.se/) |
