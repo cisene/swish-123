@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-06-02-rev-091508",
+    "date": "2022-06-03-rev-004211",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -538,6 +538,16 @@
       "web": "http://aia.nu/"
     },
     {
+      "entry": 1230243337,
+      "orgNumber": "802409-3075",
+      "orgName": "Kattfonden - Insamlingsstiftelsen f\u00f6r heml\u00f6sa katter",
+      "categories": [
+        "djurskydd",
+        "stiftelse"
+      ],
+      "web": "https://kattfonden.se/"
+    },
+    {
       "entry": 1230248872,
       "orgNumber": "559115-9594",
       "orgName": "Yoga i \u00c5kersberga AB",
@@ -554,6 +564,7 @@
       "orgName": "Together for Better",
       "categories": [
         "donation",
+        "stiftelse",
         "utbildning"
       ],
       "web": "https://www.togetherforbetter.se/"
@@ -1163,6 +1174,16 @@
       "web": "https://www.stralskyddsstiftelsen.se/"
     },
     {
+      "entry": 1230494906,
+      "orgNumber": "802480-5726",
+      "orgName": "Bl\u00e5ljuspersonalens Insamlingsstiftelse",
+      "categories": [
+        "bl\u00e5ljus",
+        "stiftelse"
+      ],
+      "web": "https://bl\u00e5ljusstiftelsen.se/"
+    },
+    {
       "entry": 1230498303,
       "orgNumber": "802461-5364",
       "orgName": "Bosses Hundhj\u00e4lp",
@@ -1214,6 +1235,15 @@
         "golfklubb"
       ],
       "web": "https://arjangsgk.se/"
+    },
+    {
+      "entry": 1230521989,
+      "orgNumber": "802481-2953",
+      "orgName": "International Rescue Committee Sverige Insamlingsstiftelse",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://se.rescue.org/"
     },
     {
       "entry": 1230537001,
@@ -1290,6 +1320,15 @@
         "religion"
       ],
       "web": "https://www.bottnarydpingst.se/"
+    },
+    {
+      "entry": 1230576884,
+      "orgNumber": "556187-3299",
+      "orgName": "Insamlingsstilftelsen Stadium",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.stadium.se/sustainability/sustainability-collaborations-and-initiative/sustainability-initiativ-stadium-foundation"
     },
     {
       "entry": 1230579458,
@@ -3208,6 +3247,16 @@
       "web": "https://www.laget.se/SPSK/"
     },
     {
+      "entry": 1231305481,
+      "orgNumber": "802477-6067",
+      "orgName": "Insamlingsstiftelsen Brandm\u00e4nnens Cancerfond",
+      "categories": [
+        "bl\u00e5ljus",
+        "stiftelse"
+      ],
+      "web": "https://brandmannenscancerfond.se/"
+    },
+    {
       "entry": 1231305937,
       "orgNumber": "802474-7910",
       "orgName": "SCA Network",
@@ -3885,6 +3934,15 @@
         "museum"
       ],
       "web": "https://www.hasseotagemuseet.se/"
+    },
+    {
+      "entry": 1231543974,
+      "orgNumber": "898500-8096",
+      "orgName": "Samesl\u00f6jdstiftelsen S\u00e1mi Duodji",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://sameslojdstiftelsen.com/"
     },
     {
       "entry": 1231550433,
@@ -4622,6 +4680,16 @@
       "web": "https://goteborg.ronaldmcdonaldhus.se/"
     },
     {
+      "entry": 1231782531,
+      "orgNumber": "802482-0808",
+      "orgName": "Insamlingsstiftelsen Naturstiftelsen",
+      "categories": [
+        "naturv\u00e5rd",
+        "stiftelse"
+      ],
+      "web": "https://www.naturstiftelsen.se/"
+    },
+    {
       "entry": 1231792159,
       "orgNumber": "802430-4514",
       "orgName": "Piratpartiet",
@@ -5064,10 +5132,11 @@
     {
       "entry": 1231981703,
       "orgNumber": "802413-3640",
-      "orgName": "Share Music & Performing Arts",
+      "orgName": "ShareMusic & Performing Arts insamlingsstiftelse",
       "categories": [
         "kultur",
-        "musik"
+        "musik",
+        "stiftelse"
       ],
       "web": "https://www.sharemusic.se/"
     },
@@ -5268,6 +5337,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "http://www.socialamissionen.se/"
+    },
+    {
+      "entry": 1232032704,
+      "orgNumber": "802480-4117",
+      "orgName": "Madinah insamlingsstiftelse",
+      "categories": [
+        "religion",
+        "stiftelse"
+      ],
+      "web": "https://www.madinahinsamlingsstiftelse.se/"
     },
     {
       "entry": 1232037968,
@@ -5818,6 +5897,15 @@
         "yoga"
       ],
       "web": "https://www.gongiversum.com/"
+    },
+    {
+      "entry": 1232227205,
+      "orgNumber": "846005-6933",
+      "orgName": "Njurf\u00f6rbundet Sydsverige",
+      "categories": [
+        "f\u00f6rbund"
+      ],
+      "web": "https://njurforbundet.se/"
     },
     {
       "entry": 1232228039,
@@ -6545,6 +6633,15 @@
       "web": "http://linneasstiftelse.se/"
     },
     {
+      "entry": 1232438398,
+      "orgNumber": "802481-3381",
+      "orgName": "Insamlingsstiftelsen Mot Barncancer",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://motbarncancer.se/"
+    },
+    {
       "entry": 1232440469,
       "orgNumber": "832800-5122",
       "orgName": "Oskarshamns Golfklubb",
@@ -6740,6 +6837,15 @@
         "uthyrning"
       ],
       "web": "https://www.villasunshine.nu/"
+    },
+    {
+      "entry": 1232570844,
+      "orgNumber": "802480-9470",
+      "orgName": "Insamlingsstiftelsen DOKU",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://doku.nu/"
     },
     {
       "entry": 1232579696,
@@ -7958,6 +8064,15 @@
         "golfklubb"
       ],
       "web": "https://www.wasagolf.se/"
+    },
+    {
+      "entry": 1232994523,
+      "orgNumber": "857210-0199",
+      "orgName": "Lars och Britta Johanssons Insamlingsstiftelse",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.larsobritta.se/"
     },
     {
       "entry": 1233022688,
@@ -9327,6 +9442,15 @@
       "web": "https://www.vaxjofolkdans.se/"
     },
     {
+      "entry": 1233489846,
+      "orgNumber": "802477-7552",
+      "orgName": "Insamlingsstiftelsen Alois Alzheim",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.alzheimerstiftelsen.com/"
+    },
+    {
       "entry": 1233500188,
       "orgNumber": "802436-3866",
       "orgName": "Guldstadens kvinnojour & Guldstadens tjejjour",
@@ -9606,6 +9730,15 @@
       "web": "http://hlhf.se/"
     },
     {
+      "entry": 1233592144,
+      "orgNumber": "802481-2037",
+      "orgName": "NISIU - N\u00e4ringslivets Insamlingsstiftelse i Ume\u00e5",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.nisiu.se/"
+    },
+    {
       "entry": 1233600699,
       "orgNumber": "012696-2349",
       "orgName": "Sipples Patientf\u00f6rening - Patienter med MEN 2A",
@@ -9716,6 +9849,16 @@
         "museum"
       ],
       "web": "https://www.virserumskonsthall.com/"
+    },
+    {
+      "entry": 1233645272,
+      "orgNumber": "802478-3865",
+      "orgName": "Insamlingsstiftelsen Bygdens Fond",
+      "categories": [
+        "intressef\u00f6rening",
+        "stiftelse"
+      ],
+      "web": "https://bygdensfond.se/"
     },
     {
       "entry": 1233646262,
@@ -10083,6 +10226,15 @@
       "categories": [
         "religion"
       ]
+    },
+    {
+      "entry": 1233829207,
+      "orgNumber": "802480-9959",
+      "orgName": "Insamlingsstiftelsen f\u00f6r Kevins Minne",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://kevinstiftelsen.se/"
     },
     {
       "entry": 1233837028,
@@ -10698,6 +10850,15 @@
       "categories": [
         "religion"
       ]
+    },
+    {
+      "entry": 1234041299,
+      "orgNumber": "802481-1666",
+      "orgName": "Insamlingsstiftelsen Trust",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.trustfund.se/"
     },
     {
       "entry": 1234041927,
@@ -11545,7 +11706,9 @@
       "orgNumber": "802481-9099",
       "orgName": "Insamlingsstiftelsen Bohus F\u00e4stning",
       "categories": [
-        "stiftelse"
+        "kulturf\u00f6rening",
+        "stiftelse",
+        "turism"
       ],
       "web": "https://www.stiftelsenbohusfastning.se/"
     },
@@ -12696,6 +12859,15 @@
       "web": "http://www.rydaholmsfrikyrka.se/"
     },
     {
+      "entry": 1234836649,
+      "orgNumber": "802009-5348",
+      "orgName": "Humanisterna",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "http://humanisterna.se/"
+    },
+    {
       "entry": 1234836995,
       "orgNumber": "857203-8530",
       "orgName": "Sveriges entomologiska f\u00f6rening",
@@ -12907,7 +13079,7 @@
     {
       "entry": 1234971941,
       "orgNumber": "802481-1419",
-      "orgName": "Idrottsgalans Insamlingsstiftelse",
+      "orgName": "Idrottsgalans Insamlingsstiftelse Fair Play",
       "categories": [
         "stiftelse"
       ],
@@ -14176,6 +14348,15 @@
       ]
     },
     {
+      "entry": 1235380985,
+      "orgNumber": "802479-1967",
+      "orgName": "One Hope Village Sweden",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://onehopevillage.se/"
+    },
+    {
       "entry": 1235382841,
       "orgNumber": "802409-0287",
       "orgName": "Somaya kvinno- och tjejjour",
@@ -14968,6 +15149,24 @@
       "web": "https://www.flaton.se/"
     },
     {
+      "entry": 1235625363,
+      "orgNumber": "802425-6227",
+      "orgName": "Insamlingsstiftelsen S\u00e4llskapsdjurens Forskningsfond vid SLU, SFF",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.slu.se/fakulteter/vh/forskning/sallskapsdjurens_forskningsfond/"
+    },
+    {
+      "entry": 1235638648,
+      "orgNumber": "802477-5218",
+      "orgName": "Ramstrand Foundation Insamlingsstiftelse",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://ramstrandfoundation.com/"
+    },
+    {
       "entry": 1235640073,
       "orgNumber": "855100-9981",
       "orgName": "Smyrnakyrkan G\u00f6teborg",
@@ -15500,6 +15699,15 @@
         "tjejjour"
       ],
       "web": "http://www.kvinnojourenstottan.se/"
+    },
+    {
+      "entry": 1235857081,
+      "orgNumber": "802538-4770",
+      "orgName": "Insamlingsstiftelsen Upplev Billesholm",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.upplevbillesholm.se/"
     },
     {
       "entry": 1235857842,
@@ -17931,6 +18139,15 @@
       "web": "https://advokatsimon.se/"
     },
     {
+      "entry": 1236750251,
+      "orgNumber": "559085-8576",
+      "orgName": "UpplevVadstena AB",
+      "categories": [
+        "turism"
+      ],
+      "web": "https://www.upplevvadstena.se/"
+    },
+    {
       "entry": 1236758874,
       "orgNumber": "802003-5369",
       "orgName": "F\u00f6reningen Svenska Tons\u00e4ttare, FST",
@@ -19471,6 +19688,16 @@
       "web": "https://www.barnifokus.se/"
     },
     {
+      "entry": 1239002791,
+      "orgNumber": "802477-4195",
+      "orgName": "HumanistHj\u00e4lpen",
+      "categories": [
+        "insamlingskontroll",
+        "stiftelse"
+      ],
+      "web": "https://www.humanisthjalpen.se/"
+    },
+    {
       "entry": 1239002817,
       "orgNumber": "802010-9180",
       "orgName": "Stiftelsen H\u00e5ll Sverige Rent",
@@ -20339,7 +20566,8 @@
       "orgName": "Scouterna",
       "categories": [
         "insamlingskontroll",
-        "scoutk\u00e5r"
+        "scoutk\u00e5r",
+        "stiftelse"
       ],
       "web": "https://www.scouterna.se/"
     },
@@ -21510,7 +21738,8 @@
       "orgNumber": "802403-4442",
       "orgName": "Stiftelsen Demensfonden",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.demensfonden.se/"
     },

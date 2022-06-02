@@ -480,6 +480,15 @@ entries:
   - supporterklubb
   web: http://aia.nu/
 
+- entry: 1230243337
+  orgName: Kattfonden - Insamlingsstiftelsen för hemlösa katter
+  orgNumber: 802409-3075
+  comment: null
+  categories:
+  - djurskydd
+  - stiftelse
+  web: https://kattfonden.se/
+
 - entry: 1230248872
   orgName: Yoga i Åkersberga AB
   orgNumber: 559115-9594
@@ -496,6 +505,7 @@ entries:
   comment: null
   categories:
   - donation
+  - stiftelse
   - utbildning
   web: https://www.togetherforbetter.se/
 
@@ -1035,6 +1045,15 @@ entries:
   - stiftelse
   web: https://www.stralskyddsstiftelsen.se/
 
+- entry: 1230494906
+  orgName: Blåljuspersonalens Insamlingsstiftelse
+  orgNumber: 802480-5726
+  comment: null
+  categories:
+  - blåljus
+  - stiftelse
+  web: https://blåljusstiftelsen.se/
+
 - entry: 1230498303
   orgName: Bosses Hundhjälp
   orgNumber: 802461-5364
@@ -1099,6 +1118,14 @@ entries:
   categories:
   - golfklubb
   web: https://arjangsgk.se/
+
+- entry: 1230521989
+  orgName: International Rescue Committee Sverige Insamlingsstiftelse
+  orgNumber: 802481-2953
+  comment: null
+  categories:
+  - stiftelse
+  web: https://se.rescue.org/
 
 - entry: 1230537001
   orgName: Insamlingsstiftelsen Fogelstad
@@ -1166,6 +1193,14 @@ entries:
   categories:
   - religion
   web: https://www.bottnarydpingst.se/
+
+- entry: 1230576884
+  orgName: Insamlingsstilftelsen Stadium
+  orgNumber: 556187-3299
+  comment: null
+  categories:
+  - stiftelse
+  web: https://www.stadium.se/sustainability/sustainability-collaborations-and-initiative/sustainability-initiativ-stadium-foundation
 
 - entry: 1230579458
   orgName: Hanviksens SK Ishockey T06
@@ -2887,6 +2922,15 @@ entries:
   - pistolskytteklubb
   web: https://www.laget.se/SPSK/
 
+- entry: 1231305481
+  orgName: Insamlingsstiftelsen Brandmännens Cancerfond
+  orgNumber: 802477-6067
+  comment: null
+  categories:
+  - blåljus
+  - stiftelse
+  web: https://brandmannenscancerfond.se/
+
 - entry: 1231305937
   orgName: SCA Network
   orgNumber: 802474-7910
@@ -3496,6 +3540,14 @@ entries:
   categories:
   - museum
   web: https://www.hasseotagemuseet.se/
+
+- entry: 1231543974
+  orgName: Sameslöjdstiftelsen Sámi Duodji
+  orgNumber: 898500-8096
+  comment: null
+  categories:
+  - stiftelse
+  web: https://sameslojdstiftelsen.com/
 
 - entry: 1231550433
   orgName: Bosniakiska Islamiska Församling och Kulturcenter
@@ -4153,6 +4205,15 @@ entries:
   - stiftelse
   web: https://goteborg.ronaldmcdonaldhus.se/
 
+- entry: 1231782531
+  orgName: Insamlingsstiftelsen Naturstiftelsen
+  orgNumber: 802482-0808
+  comment: null
+  categories:
+  - naturvård
+  - stiftelse
+  web: https://www.naturstiftelsen.se/
+
 - entry: 1231792159
   orgName: Piratpartiet
   orgNumber: 802430-4514
@@ -4543,12 +4604,13 @@ entries:
   web: https://www.rengsjosk.se/
 
 - entry: 1231981703
-  orgName: Share Music & Performing Arts
+  orgName: ShareMusic & Performing Arts insamlingsstiftelse
   orgNumber: 802413-3640
   comment: null
   categories:
   - kultur
   - musik
+  - stiftelse
   web: https://www.sharemusic.se/
 
 - entry: 1231983725
@@ -4725,6 +4787,15 @@ entries:
   categories:
   - hjälporganisation
   web: http://www.socialamissionen.se/
+
+- entry: 1232032704
+  orgName: Madinah insamlingsstiftelse
+  orgNumber: 802480-4117
+  comment: null
+  categories:
+  - religion
+  - stiftelse
+  web: https://www.madinahinsamlingsstiftelse.se/
 
 - entry: 1232037968
   orgName: Hugos Stiftelse
@@ -5218,6 +5289,14 @@ entries:
   - meditation
   - yoga
   web: https://www.gongiversum.com/
+
+- entry: 1232227205
+  orgName: Njurförbundet Sydsverige
+  orgNumber: 846005-6933
+  comment: null
+  categories:
+  - förbund
+  web: https://njurforbundet.se/
 
 - entry: 1232227478
   orgName: Sällskapet Börsdamerna
@@ -5869,6 +5948,14 @@ entries:
   - stiftelse
   web: http://linneasstiftelse.se/
 
+- entry: 1232438398
+  orgName: Insamlingsstiftelsen Mot Barncancer
+  orgNumber: 802481-3381
+  comment: null
+  categories:
+  - stiftelse
+  web: https://motbarncancer.se/
+
 - entry: 1232440469
   orgName: Oskarshamns Golfklubb
   orgNumber: 832800-5122
@@ -6044,6 +6131,14 @@ entries:
   categories:
   - uthyrning
   web: https://www.villasunshine.nu/
+
+- entry: 1232570844
+  orgName: Insamlingsstiftelsen DOKU
+  orgNumber: 802480-9470
+  comment: null
+  categories:
+  - stiftelse
+  web: https://doku.nu/
 
 - entry: 1232579696
   orgName: Annas Veranda / Anna Jakobsson
@@ -7135,6 +7230,14 @@ entries:
   categories:
   - golfklubb
   web: https://www.wasagolf.se/
+
+- entry: 1232994523
+  orgName: Lars och Britta Johanssons Insamlingsstiftelse
+  orgNumber: 857210-0199
+  comment: null
+  categories:
+  - stiftelse
+  web: https://www.larsobritta.se/
 
 - entry: 1233022688
   orgName: Kvinnojouren Annfrid
@@ -8394,6 +8497,14 @@ entries:
   - intresseorganisation
   web: https://www.vaxjofolkdans.se/
 
+- entry: 1233489846
+  orgName: Insamlingsstiftelsen Alois Alzheim
+  orgNumber: 802477-7552
+  comment: null
+  categories:
+  - stiftelse
+  web: https://www.alzheimerstiftelsen.com/
+
 - entry: 1233500188
   orgName: Guldstadens kvinnojour & Guldstadens tjejjour
   orgNumber: 802436-3866
@@ -8644,6 +8755,14 @@ entries:
   - hembygdsförening
   web: http://hlhf.se/
 
+- entry: 1233592144
+  orgName: NISIU - Näringslivets Insamlingsstiftelse i Umeå
+  orgNumber: 802481-2037
+  comment: null
+  categories:
+  - stiftelse
+  web: https://www.nisiu.se/
+
 - entry: 1233600699
   orgName: Sipples Patientförening - Patienter med MEN 2A
   orgNumber: 012696-2349
@@ -8743,6 +8862,15 @@ entries:
   - konsthall
   - museum
   web: https://www.virserumskonsthall.com/
+
+- entry: 1233645272
+  orgName: Insamlingsstiftelsen Bygdens Fond
+  orgNumber: 802478-3865
+  comment: null
+  categories:
+  - intresseförening
+  - stiftelse
+  web: https://bygdensfond.se/
 
 - entry: 1233646262
   orgName: HepCat AB
@@ -9086,6 +9214,14 @@ entries:
   categories:
   - religion
   web: null
+
+- entry: 1233829207
+  orgName: Insamlingsstiftelsen för Kevins Minne
+  orgNumber: 802480-9959
+  comment: null
+  categories:
+  - stiftelse
+  web: https://kevinstiftelsen.se/
 
 - entry: 1233837028
   orgName: Regional Kulturskola i Västmanland / Region Västmanland
@@ -9639,6 +9775,14 @@ entries:
   categories:
   - religion
   web: null
+
+- entry: 1234041299
+  orgName: Insamlingsstiftelsen Trust
+  orgNumber: 802481-1666
+  comment: null
+  categories:
+  - stiftelse
+  web: https://www.trustfund.se/
 
 - entry: 1234041927
   orgName: Stiftelsen Rosendals Trädgård
@@ -10393,7 +10537,9 @@ entries:
   orgNumber: 802481-9099
   comment: null
   categories:
+  - kulturförening
   - stiftelse
+  - turism
   web: https://www.stiftelsenbohusfastning.se/
 
 - entry: 1234340022
@@ -11409,6 +11555,14 @@ entries:
   - religion
   web: http://www.rydaholmsfrikyrka.se/
 
+- entry: 1234836649
+  orgName: Humanisterna
+  orgNumber: 802009-5348
+  comment: null
+  categories:
+  - intresseförening
+  web: http://humanisterna.se/
+
 - entry: 1234836995
   orgName: Sveriges entomologiska förening
   orgNumber: 857203-8530
@@ -11596,7 +11750,7 @@ entries:
   web: https://www.lerumsscoutkar.se/
 
 - entry: 1234971941
-  orgName: Idrottsgalans Insamlingsstiftelse
+  orgName: Idrottsgalans Insamlingsstiftelse Fair Play
   orgNumber: 802481-1419
   comment: null
   categories:
@@ -12757,6 +12911,14 @@ entries:
   - religion
   web: null
 
+- entry: 1235380985
+  orgName: One Hope Village Sweden
+  orgNumber: 802479-1967
+  comment: null
+  categories:
+  - stiftelse
+  web: https://onehopevillage.se/
+
 - entry: 1235382841
   orgName: Somaya kvinno- och tjejjour
   orgNumber: 802409-0287
@@ -13481,6 +13643,22 @@ entries:
   - intresseförening
   web: https://www.flaton.se/
 
+- entry: 1235625363
+  orgName: Insamlingsstiftelsen Sällskapsdjurens Forskningsfond vid SLU, SFF
+  orgNumber: 802425-6227
+  comment: null
+  categories:
+  - stiftelse
+  web: https://www.slu.se/fakulteter/vh/forskning/sallskapsdjurens_forskningsfond/
+
+- entry: 1235638648
+  orgName: Ramstrand Foundation Insamlingsstiftelse
+  orgNumber: 802477-5218
+  comment: null
+  categories:
+  - stiftelse
+  web: https://ramstrandfoundation.com/
+
 - entry: 1235640073
   orgName: Smyrnakyrkan Göteborg
   orgNumber: 855100-9981
@@ -13964,6 +14142,14 @@ entries:
   - kvinnojour
   - tjejjour
   web: http://www.kvinnojourenstottan.se/
+
+- entry: 1235857081
+  orgName: Insamlingsstiftelsen Upplev Billesholm
+  orgNumber: 802538-4770
+  comment: null
+  categories:
+  - stiftelse
+  web: https://www.upplevbillesholm.se/
 
 - entry: 1235857842
   orgName: Västerås Moské
@@ -16158,6 +16344,14 @@ entries:
   - juridiska tjänster
   web: https://advokatsimon.se/
 
+- entry: 1236750251
+  orgName: UpplevVadstena AB
+  orgNumber: 559085-8576
+  comment: null
+  categories:
+  - turism
+  web: https://www.upplevvadstena.se/
+
 - entry: 1236754048
   orgName: null
   orgNumber: null
@@ -17856,7 +18050,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - overifierad
+  - stiftelse
   web: https://www.humanisthjalpen.se/
 
 - entry: 1239002817
@@ -19013,6 +19207,7 @@ entries:
   categories:
   - insamlingskontroll
   - scoutkår
+  - stiftelse
   web: https://www.scouterna.se/
 
 - entry: 1239005232
@@ -20609,6 +20804,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.demensfonden.se/
 
 - entry: 1239008780
