@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-06-03-rev-004211",
+    "date": "2022-06-25-rev-150830",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -15670,6 +15670,15 @@
         "stiftelse"
       ],
       "web": "https://www.herhouse.se/"
+    },
+    {
+      "entry": 1235836366,
+      "orgNumber": "559309-0425",
+      "orgName": "Arvika Idrottscenter AB",
+      "categories": [
+        "idrott"
+      ],
+      "web": "https://arvikaidrottscenter.se/"
     },
     {
       "entry": 1235841366,
