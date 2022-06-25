@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-06-03-rev-004211
+# Date: 2022-06-25-rev-151458
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1607,6 +1607,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235820725	701026-XXXX	Himmelska Fötter i Hölö / Helena Johansson	https://www.himmelskafotter.se/	fotvård,massage	
 1235821301	894700-5842	Skellefteå CK - Curling	https://www.curlingklubben.se/	curling,idrottsförening	Seniors
 1235822523	802481-5592	Insamlingsstiftelsen Her House Foundation	https://www.herhouse.se/	stiftelse	
+1235836366	559309-0425	Arvika Idrottscenter AB	https://arvikaidrottscenter.se/	idrott	
 1235841366	700528-XXXX	Hos Malin - Medicinsk fotvård / Malin Danielsson	https://www.hosmalin.se/	fotvård	
 1235843248	876400-0355	Pingstkyrkan Degerfors	http://degerfors.pingst.se/	religion	Missionskassan
 1235856729	886000-5696	Kvinnojouren Stöttan	http://www.kvinnojourenstottan.se/	kvinnojour,tjejjour	

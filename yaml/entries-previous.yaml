@@ -1,13 +1,5 @@
 entries:
 
-- entry: 1235836366
-  orgName: Arvika Idrottscenter AB
-  orgNumber: 559309-0425
-  comment: null
-  categories:
-  - idrott
-  web: https://arvikaidrottscenter.se/
-
 - entry: 1230003194
   orgName: Kungälv Kode Golfklubb
   orgNumber: 556323-9663
@@ -14125,6 +14117,14 @@ entries:
   categories:
   - stiftelse
   web: https://www.herhouse.se/
+
+- entry: 1235836366
+  orgName: Arvika Idrottscenter AB
+  orgNumber: 559309-0425
+  comment: null
+  categories:
+  - idrott
+  web: https://arvikaidrottscenter.se/
 
 - entry: 1235841366
   orgName: Hos Malin - Medicinsk fotvård / Malin Danielsson

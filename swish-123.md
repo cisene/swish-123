@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-06-03-rev-004211
+Date:     2022-06-25-rev-151458
 ...
 
 # Swish 123 Nummer
@@ -1609,6 +1609,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235820725 | 701026-XXXX | Himmelska Fötter i Hölö / Helena Johansson                                                           | [Link](https://www.himmelskafotter.se/) |
 | 1235821301 | 894700-5842 | Skellefteå CK - Curling                                                                              | [Link](https://www.curlingklubben.se/) |
 | 1235822523 | 802481-5592 | Insamlingsstiftelsen Her House Foundation                                                            | [Link](https://www.herhouse.se/) |
+| 1235836366 | 559309-0425 | Arvika Idrottscenter AB                                                                              | [Link](https://arvikaidrottscenter.se/) |
 | 1235841366 | 700528-XXXX | Hos Malin - Medicinsk fotvård / Malin Danielsson                                                     | [Link](https://www.hosmalin.se/) |
 | 1235843248 | 876400-0355 | Pingstkyrkan Degerfors                                                                               | [Link](http://degerfors.pingst.se/) |
 | 1235856729 | 886000-5696 | Kvinnojouren Stöttan                                                                                 | [Link](http://www.kvinnojourenstottan.se/) |
