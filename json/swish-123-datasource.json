@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-06-25-rev-151458",
+    "date": "2022-06-27-rev-170417",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -61,6 +61,16 @@
         "reumatism"
       ],
       "web": "https://sle.reumatiker.se/"
+    },
+    {
+      "entry": 1230008854,
+      "orgNumber": "802000-2336",
+      "orgName": "Kungliga Automobil Klubben, KAK",
+      "categories": [
+        "ideell f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://kak.se/"
     },
     {
       "entry": 1230009019,
@@ -5292,6 +5302,16 @@
       "web": "https://endecocide.se/"
     },
     {
+      "entry": 1232013365,
+      "orgNumber": "833600-2996",
+      "orgName": "V\u00e4sterviksortens Ryttaref\u00f6rening",
+      "comment": "Caf\u00e9",
+      "categories": [
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://vasterviksrf.se/"
+    },
+    {
       "entry": 1232014462,
       "orgNumber": "802449-5213",
       "orgName": "Kulturf\u00f6reningen Vasaplan",
@@ -5437,6 +5457,15 @@
         "yoga"
       ],
       "web": "https://www.yogamedl8.se/priser"
+    },
+    {
+      "entry": 1232047231,
+      "orgNumber": "802523-3845",
+      "orgName": "V\u00e4nf\u00f6reningen Fogelstad",
+      "categories": [
+        "f\u00f6rening"
+      ],
+      "web": "https://fogelstadsvanforening.se/"
     },
     {
       "entry": 1232055309,
@@ -6913,6 +6942,15 @@
       "web": "https://allmogens.se/"
     },
     {
+      "entry": 1232590024,
+      "orgNumber": "802480-7409",
+      "orgName": "Insamlingsstiftelsen 2022 Initiative Foundation",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "http://www.hallbart.nu/"
+    },
+    {
       "entry": 1232592426,
       "orgNumber": "802472-0800",
       "orgName": "Svenska Ridtravarf\u00f6reningen Uppland V\u00e4stmanland",
@@ -7917,6 +7955,16 @@
         "f\u00f6rening"
       ],
       "web": "http://www.nemaproblema.se/"
+    },
+    {
+      "entry": 1232919397,
+      "orgNumber": "802479-7337",
+      "orgName": "Stiftelsen Pharos",
+      "categories": [
+        "intressef\u00f6rening",
+        "stiftelse"
+      ],
+      "web": "https://stiftelsen-pharos.org/"
     },
     {
       "entry": 1232929421,
@@ -9543,6 +9591,16 @@
       "web": "https://www.timraik.se/"
     },
     {
+      "entry": 1233516820,
+      "orgNumber": "826001-2920",
+      "orgName": "Lyftidrottens Ungdomsfond",
+      "comment": "Tyngdlyftning",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://ungdomsfonden.org/"
+    },
+    {
       "entry": 1233517844,
       "orgNumber": "802433-8553",
       "orgName": "Hillsong Church Sweden",
@@ -9838,6 +9896,16 @@
         "golfklubb"
       ],
       "web": "https://www.kilsgk.se/"
+    },
+    {
+      "entry": 1233635224,
+      "orgNumber": "826001-2920",
+      "orgName": "Lyftidrottens ungdomsfond",
+      "comment": "Styrkelyft",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://ungdomsfonden.org/"
     },
     {
       "entry": 1233635463,
@@ -12680,6 +12748,15 @@
       "web": "https://www.nkpgraggare.nu/"
     },
     {
+      "entry": 1234734331,
+      "orgNumber": "802477-9673",
+      "orgName": "Insamlingsstiftelsen Nanne Network",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "http://nannenetwork.com/"
+    },
+    {
       "entry": 1234745303,
       "orgNumber": "559022-3672",
       "orgName": "Gardenize AB",
@@ -12772,6 +12849,15 @@
         "religion"
       ],
       "web": "https://www.kyrktorget.se/pingstkyrkan.emmaboda"
+    },
+    {
+      "entry": 1234763983,
+      "orgNumber": "802477-9715",
+      "orgName": "Insamlingsstiftelsen Emma & Therese Children\u2019s Project",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.etcpuganda.se/"
     },
     {
       "entry": 1234778353,
@@ -14128,6 +14214,16 @@
       "web": "https://www.sacredspine.se/"
     },
     {
+      "entry": 1235297718,
+      "orgNumber": "802478-2727",
+      "orgName": "Insamlingsstiftelsen WONSA",
+      "categories": [
+        "intressef\u00f6rening",
+        "stiftelse"
+      ],
+      "web": "https://www.wonsa.se/"
+    },
+    {
       "entry": 1235299938,
       "orgNumber": "802420-2593",
       "orgName": "Fenix Sk\u00e4rmflygklubb",
@@ -14919,6 +15015,15 @@
       "web": "https://riktpunkt.nu/"
     },
     {
+      "entry": 1235570742,
+      "orgNumber": "802480-6922",
+      "orgName": "Trygghetsboende Resele",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://reselekids.se/"
+    },
+    {
       "entry": 1235571666,
       "orgNumber": "559058-5989",
       "orgName": "\u00c4ngs\u00f6 Trail Run / Race ID",
@@ -15183,6 +15288,16 @@
         "f\u00f6rening"
       ],
       "web": "https://dissociation.nu/"
+    },
+    {
+      "entry": 1235662069,
+      "orgNumber": "833600-2996",
+      "orgName": "V\u00e4sterviksortens Ryttaref\u00f6rening",
+      "comment": "T\u00e4vling",
+      "categories": [
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://vasterviksrf.se/"
     },
     {
       "entry": 1235664628,
@@ -16241,6 +16356,15 @@
       "web": "https://www.saxagk.se/"
     },
     {
+      "entry": 1236039069,
+      "orgNumber": "839401-1202",
+      "orgName": "Insamlingsstiftelsen R\u00e4ttst\u00f6dsfonden f\u00f6r uppfinnare och sm\u00e5f\u00f6retagare",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.srsf.se/"
+    },
+    {
       "entry": 1236039820,
       "orgNumber": "802417-9155",
       "orgName": "Studebakerklubben Sweden",
@@ -16408,6 +16532,15 @@
         "seans"
       ],
       "web": "http://bowenpraktiken.com/"
+    },
+    {
+      "entry": 1236094866,
+      "orgNumber": "833600-2996",
+      "orgName": "V\u00e4sterviksortens Ryttaref\u00f6rening",
+      "categories": [
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://vasterviksrf.se/"
     },
     {
       "entry": 1236095871,

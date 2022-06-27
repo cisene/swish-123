@@ -1,5 +1,121 @@
 entries:
 
+- entry: 1234734331
+  orgName: Insamlingsstiftelsen Nanne Network
+  orgNumber: 802477-9673
+  comment:
+  categories:
+  - stiftelse
+  web: http://nannenetwork.com/
+
+- entry: 1232590024
+  orgName: Insamlingsstiftelsen 2022 Initiative Foundation
+  orgNumber: 802480-7409
+  comment:
+  categories:
+  - stiftelse
+  web: http://www.hallbart.nu/
+
+- entry: 1232919397
+  orgName: Stiftelsen Pharos
+  orgNumber: 802479-7337
+  comment:
+  categories:
+  - intresseförening
+  - stiftelse
+  web: https://stiftelsen-pharos.org/
+
+- entry: 1235570742
+  orgName: Trygghetsboende Resele
+  orgNumber: 802480-6922
+  comment:
+  categories:
+  - stiftelse
+  web: https://reselekids.se/
+
+- entry: 1233635224
+  orgName: Lyftidrottens ungdomsfond
+  orgNumber: 826001-2920
+  comment: Styrkelyft
+  categories:
+  - stiftelse
+  web: https://ungdomsfonden.org/
+
+
+- entry: 1233516820
+  orgName: Lyftidrottens Ungdomsfond
+  orgNumber: 826001-2920
+  comment: Tyngdlyftning
+  categories:
+  - stiftelse
+  web: https://ungdomsfonden.org/
+
+- entry: 1230008854
+  orgName: Kungliga Automobil Klubben, KAK
+  orgNumber: 802000-2336
+  comment:
+  categories:
+  - ideell förening
+  - intresseförening
+  web: https://kak.se/
+
+- entry: 1236039069
+  orgName: Insamlingsstiftelsen Rättstödsfonden för uppfinnare och småföretagare 
+  orgNumber: 839401-1202
+  comment:
+  categories:
+  - stiftelse
+  web: https://www.srsf.se/
+
+- entry: 1232047231
+  orgName: Vänföreningen Fogelstad
+  orgNumber: 802523-3845
+  comment:
+  categories:
+  - förening
+  web: https://fogelstadsvanforening.se/
+
+- entry: 1234763983
+  orgName: Insamlingsstiftelsen Emma & Therese Children’s Project
+  orgNumber: 802477-9715
+  comment:
+  categories:
+  - stiftelse
+  web: https://www.etcpuganda.se/
+
+- entry: 1235297718
+  orgName: Insamlingsstiftelsen WONSA
+  orgNumber: 802478-2727
+  comment:
+  categories:
+  - stiftelse
+  - intresseförening
+  web: https://www.wonsa.se/
+
+- entry: 1232013365
+  orgName: Västerviksortens Ryttareförening
+  orgNumber: 833600-2996
+  comment: Café
+  categories:
+  - ryttarförening
+  web: https://vasterviksrf.se/
+
+- entry: 1235662069
+  orgName: Västerviksortens Ryttareförening
+  orgNumber: 833600-2996
+  comment: Tävling
+  categories:
+  - ryttarförening
+  web: https://vasterviksrf.se/
+
+- entry: 1236094866
+  orgName: Västerviksortens Ryttareförening
+  orgNumber: 833600-2996
+  comment:
+  categories:
+  - ryttarförening
+  web: https://vasterviksrf.se/
+
 - entry: 1230003194
   orgName: Kungälv Kode Golfklubb
   orgNumber: 556323-9663
