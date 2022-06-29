@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-06-29-rev-122020",
+    "date": "2022-06-29-rev-122238",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -89,6 +89,16 @@
         "religion"
       ],
       "web": "https://jfst.se/"
+    },
+    {
+      "entry": 1230019513,
+      "orgNumber": "839400-9545",
+      "orgName": "Stiftelsen B\u00e5stadsfont\u00e4nen",
+      "categories": [
+        "psykisk h\u00e4lsa",
+        "stiftelse"
+      ],
+      "web": "https://www.fhb.nu/"
     },
     {
       "entry": 1230020289,
@@ -651,6 +661,17 @@
       "web": "http://www.enskederidsallskap.se/"
     },
     {
+      "entry": 1230299131,
+      "orgNumber": "012001-3396",
+      "orgName": "Stora Tolvsbo Jaktskytteklubb",
+      "categories": [
+        "f\u00f6rening",
+        "jakt",
+        "skytteklubb"
+      ],
+      "web": "https://www.stolvsbojaktskytte.se/"
+    },
+    {
       "entry": 1230300392,
       "orgNumber": "832400-0499",
       "orgName": "Pingstkyrkan Nybro",
@@ -667,6 +688,16 @@
         "religion"
       ],
       "web": "https://frolunda.pingst.se/"
+    },
+    {
+      "entry": 1230304816,
+      "orgNumber": "556931-5970",
+      "orgName": "Vallentuna Kattcenter AB",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "http://vallentunakattcenter.se/"
     },
     {
       "entry": 1230305607,
@@ -2557,6 +2588,15 @@
       "web": "https://www.guif.nu/"
     },
     {
+      "entry": 1231059328,
+      "orgNumber": "556171-5003",
+      "orgName": "Helens f\u00f6r k\u00f6rkort AB",
+      "categories": [
+        "trafikskola"
+      ],
+      "web": "https://helensforkorkort.se/"
+    },
+    {
       "entry": 1231063056,
       "orgNumber": "551215-XXXX",
       "orgName": "Jennebo Radio / Stenskott Productions",
@@ -3348,6 +3388,15 @@
       "web": "http://bergslagen.alghundklubben.com/"
     },
     {
+      "entry": 1231324987,
+      "orgNumber": "556861-7988",
+      "orgName": "Fru\u00e4ngens Bilskola AB",
+      "categories": [
+        "trafikskola"
+      ],
+      "web": "https://fruangensbilskola.se/"
+    },
+    {
       "entry": 1231325323,
       "orgNumber": "812800-0646",
       "orgName": "Botkyrka Pingstf\u00f6rsamling",
@@ -3355,6 +3404,16 @@
         "religion"
       ],
       "web": "https://www.botkyrkapingst.se/"
+    },
+    {
+      "entry": 1231326842,
+      "orgNumber": "814401-0850",
+      "orgName": "Bergshamra Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/bergshamra/"
     },
     {
       "entry": 1231332303,
@@ -4386,6 +4445,16 @@
       "web": "https://www.kyrktorget.se/herjedalen.pingst"
     },
     {
+      "entry": 1231676956,
+      "orgNumber": "837600-1767",
+      "orgName": "Wemmentorp-\u00d6rkelljunga Skyttef\u00f6rening",
+      "categories": [
+        "f\u00f6rening",
+        "skyttef\u00f6rening"
+      ],
+      "web": "https://idrottonline.se/Wemmentorp-OrkelljungaSkF-Skyttesport/"
+    },
+    {
       "entry": 1231686997,
       "orgNumber": "829502-0815",
       "orgName": "Brottsofferjouren V\u00e4xj\u00f6",
@@ -5292,6 +5361,15 @@
       ]
     },
     {
+      "entry": 1232007201,
+      "orgNumber": "556105-5798",
+      "orgName": "N\u00e4ssj\u00f6 Trafikskola AB",
+      "categories": [
+        "trafikskola"
+      ],
+      "web": "https://www.nassjotrafikskola.se/"
+    },
+    {
       "entry": 1232011104,
       "orgNumber": "802499-8067",
       "orgName": "F\u00f6reningen End Ecocide",
@@ -6054,6 +6132,15 @@
       "web": "http://www.nassjodansforening.se/"
     },
     {
+      "entry": 1232257186,
+      "orgNumber": "822001-9734",
+      "orgName": "Ydrefors Samh\u00e4llsf\u00f6rening",
+      "categories": [
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/ydrefors/"
+    },
+    {
       "entry": 1232258069,
       "orgNumber": "802471-9372",
       "orgName": "Awesome People",
@@ -6299,6 +6386,17 @@
         "florist"
       ],
       "web": "https://www.billdalsblommor.se/"
+    },
+    {
+      "entry": 1232325231,
+      "orgNumber": "802480-0958",
+      "orgName": "Alpha & Omega School InsamlingsStiftelse",
+      "categories": [
+        "barnverksamhet",
+        "stiftelse",
+        "utbildning"
+      ],
+      "web": "https://www.alphaandomegaschool.com/"
     },
     {
       "entry": 1232325611,
@@ -7495,6 +7593,15 @@
         "intresseorganisation"
       ],
       "web": "http://www.famy.se/"
+    },
+    {
+      "entry": 1232761104,
+      "orgNumber": "802411-1497",
+      "orgName": "Situation Stockholm",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.situationsthlm.se/"
     },
     {
       "entry": 1232765279,
@@ -9039,6 +9146,15 @@
       "web": "https://www.lastarkastar.se/"
     },
     {
+      "entry": 1233320033,
+      "orgNumber": "894002-7702",
+      "orgName": "Ume\u00e5 N\u00e4mndemannaf\u00f6rening",
+      "categories": [
+        "f\u00f6rening"
+      ],
+      "web": "https://umea.nmrf.se/"
+    },
+    {
       "entry": 1233334661,
       "orgNumber": "780302-XXXX",
       "orgName": "Wellness 4 Life Sweden AB",
@@ -9939,6 +10055,16 @@
       "web": "https://www.hepcat.se/"
     },
     {
+      "entry": 1233648961,
+      "orgNumber": "802490-8314",
+      "orgName": "Riksf\u00f6rbundet Hj\u00e4rnkoll",
+      "categories": [
+        "psykisk h\u00e4lsa",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hjarnkoll.se/"
+    },
+    {
       "entry": 1233657848,
       "orgNumber": "802426-1250",
       "orgName": "Sverige f\u00f6r UNHCR",
@@ -9959,7 +10085,7 @@
     {
       "entry": 1233678505,
       "orgNumber": "802490-7720",
-      "orgName": "Brottsofferjouren Stockholm-Gotland",
+      "orgName": "Brottsofferjouren Stockholm - Gotland",
       "categories": [
         "intressef\u00f6rening"
       ],
@@ -13481,6 +13607,24 @@
       "web": "http://old.norrtelje-sff.se/"
     },
     {
+      "entry": 1235101159,
+      "orgNumber": "700922-XXXX",
+      "orgName": "Veber\u00f6ds Trafikskola",
+      "categories": [
+        "trafikskola"
+      ],
+      "web": "https://www.veberodstrafikskola.se/"
+    },
+    {
+      "entry": 1235101670,
+      "orgNumber": "882600-2282",
+      "orgName": "Sveriges D\u00f6vas Riksf\u00f6rbund",
+      "categories": [
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://sdr.org/"
+    },
+    {
       "entry": 1235102488,
       "orgNumber": "819000-6604",
       "orgName": "Trosa Golfklubb",
@@ -13720,7 +13864,7 @@
       "categories": [
         "f\u00f6rbund",
         "intressef\u00f6rening",
-        "mental h\u00e4lsa"
+        "psykisk h\u00e4lsa"
       ],
       "web": "https://afasi.se/"
     },
@@ -14284,6 +14428,15 @@
       ]
     },
     {
+      "entry": 1235325824,
+      "orgNumber": "556677-9244",
+      "orgName": "Sj\u00f6lin & Lantz AB",
+      "categories": [
+        "trafikskola"
+      ],
+      "web": "https://www.sjolinlantz.se/"
+    },
+    {
       "entry": 1235331913,
       "orgNumber": "556880-4636",
       "orgName": "R\u00f6n\u00e5s Byakrog AB",
@@ -14806,6 +14959,16 @@
         "tjejjour"
       ],
       "web": "https://www.kvinnojourenisundbyberg.com/"
+    },
+    {
+      "entry": 1235502349,
+      "orgNumber": "802464-4653",
+      "orgName": "Sveriges Skateboardf\u00f6rbund",
+      "categories": [
+        "f\u00f6rbund",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://sverigesskateboardforbund.se/"
     },
     {
       "entry": 1235503222,
@@ -15568,7 +15731,8 @@
       "comment": "Afasifonden",
       "categories": [
         "f\u00f6rbund",
-        "intressef\u00f6rening"
+        "intressef\u00f6rening",
+        "psykisk h\u00e4lsa"
       ],
       "web": "https://afasi.se/"
     },
@@ -15785,6 +15949,16 @@
         "stiftelse"
       ],
       "web": "https://www.herhouse.se/"
+    },
+    {
+      "entry": 1235825880,
+      "orgNumber": "822001-9734",
+      "orgName": "Ydrefors Samh\u00e4llsf\u00f6rening",
+      "comment": "Camping",
+      "categories": [
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/ydrefors/"
     },
     {
       "entry": 1235836366,
@@ -17048,6 +17222,15 @@
       "web": "http://rehabhuset.com/"
     },
     {
+      "entry": 1236248595,
+      "orgNumber": "556882-3461",
+      "orgName": "Krylbo Trafikskola AB",
+      "categories": [
+        "trafikskola"
+      ],
+      "web": "https://krylbotrafikskola.se/"
+    },
+    {
       "entry": 1236249437,
       "orgNumber": "559303-6436",
       "orgName": "StartupTools Europe AB",
@@ -17130,7 +17313,7 @@
       "entry": 1236280424,
       "orgNumber": "802002-4686",
       "orgName": "Stiftelsen Nordiska Museet",
-      "comment": "M\u00e4rkes: Insamling till Ukraina",
+      "comment": "M\u00e4rkes 'Insamling till Ukraina'",
       "categories": [
         "insamling",
         "museum"
@@ -17309,6 +17492,16 @@
         "intressef\u00f6rening"
       ],
       "web": "http://www.sverigenepal.se/"
+    },
+    {
+      "entry": 1236336184,
+      "orgNumber": "802440-6293",
+      "orgName": "J\u00e4garnas Riksf\u00f6rbund S\u00f6derk\u00f6ping",
+      "categories": [
+        "jakt",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://www.jagarnasriksforbund.se/ostergotland/soderkoping/"
     },
     {
       "entry": 1236341259,
@@ -17777,6 +17970,16 @@
         "golfklubb"
       ],
       "web": "http://www.brastadgk.se/"
+    },
+    {
+      "entry": 1236537682,
+      "orgNumber": "846001-7380",
+      "orgName": "J\u00e4garnas Riksf\u00f6rbund Malm\u00f6",
+      "categories": [
+        "jakt",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://www.jagarnasriksforbund.se/skane/malmojk/"
     },
     {
       "entry": 1236537898,
@@ -18508,6 +18711,15 @@
       "web": "https://www.yoga.se/"
     },
     {
+      "entry": 1236847289,
+      "orgNumber": "802477-9293",
+      "orgName": "Solvatten Insamlingsstiftelse",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://solvatten.org/"
+    },
+    {
       "entry": 1236866040,
       "orgNumber": "660522-XXXX",
       "orgName": "Rotbrunna h\u00e4st och kursg\u00e5rd / Claes Eningsj\u00f6",
@@ -18702,6 +18914,15 @@
         "tr\u00e4dg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://prastakullen.com/"
+    },
+    {
+      "entry": 1236917033,
+      "orgNumber": "818000-7570",
+      "orgName": "Eskilstunaortens J\u00e4garklubb, EOJK",
+      "categories": [
+        "jakt"
+      ],
+      "web": "https://www.svenskalag.se/eojk"
     },
     {
       "entry": 1236917892,
@@ -19122,6 +19343,7 @@
       "entry": 1239000738,
       "orgNumber": "802004-4510",
       "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "comment": "Spontang\u00e5va",
       "categories": [
         "insamlingskontroll"
       ],
@@ -21169,16 +21391,6 @@
       "web": "https://www.gapf.se/"
     },
     {
-      "entry": 1239006321,
-      "orgNumber": "802479-4623",
-      "orgName": "Insamlingsstiftelsen Desert Flower Foundation Scandinavia",
-      "categories": [
-        "insamlingskontroll",
-        "stiftelse"
-      ],
-      "web": "https://www.desertflower.se/"
-    },
-    {
       "entry": 1239006347,
       "orgNumber": "802480-4679",
       "orgName": "Stiftelsen Musikbojen",
@@ -21222,7 +21434,8 @@
       "orgNumber": "802402-4831",
       "orgName": "Anh\u00f6rigas Riksf\u00f6rbund",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "riksf\u00f6rbund"
       ],
       "web": "https://www.anhorigasriksforbund.se/"
     },
@@ -21721,6 +21934,15 @@
       "web": "https://www.ajabajacancer.se/"
     },
     {
+      "entry": 1239007600,
+      "orgNumber": "802411-0309",
+      "orgName": "F\u00f6reningen f\u00f6r terapikolonier",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.terapikolonier.se/"
+    },
+    {
       "entry": 1239007642,
       "orgNumber": "802481-6749",
       "orgName": "Stiftelsen Lean On Me",
@@ -21739,6 +21961,15 @@
       "web": "https://www.spes.se/"
     },
     {
+      "entry": 1239007683,
+      "orgNumber": "802478-3436",
+      "orgName": "Insamlingsstiftelsen 1000 M\u00f6jligheter",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.1000mojligheter.se/"
+    },
+    {
       "entry": 1239007725,
       "orgNumber": "802532-0808",
       "orgName": "Br\u00e4nnskadefonden - Swedish Burn Care Foundation",
@@ -21746,6 +21977,52 @@
         "insamlingskontroll"
       ],
       "web": "https://www.brannskadefonden.se/"
+    },
+    {
+      "entry": 1239007741,
+      "orgNumber": "802007-6512",
+      "orgName": "Svenska Diabetesf\u00f6rbundet",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.diabetes.se/"
+    },
+    {
+      "entry": 1239007766,
+      "orgNumber": "802400-7620",
+      "orgName": "ForumCiv",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.forumciv.org/"
+    },
+    {
+      "entry": 1239007774,
+      "orgNumber": "802001-6047",
+      "orgName": "Internationella Kvinnof\u00f6rbundet f\u00f6r Fred och Frihet, IKFF",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://ikff.se/"
+    },
+    {
+      "entry": 1239007782,
+      "orgNumber": "857209-6173",
+      "orgName": "Clownkliniken",
+      "categories": [
+        "barnsjukv\u00e5rd",
+        "insamlingskontroll"
+      ],
+      "web": "https://clownkliniken.se/"
+    },
+    {
+      "entry": 1239007790,
+      "orgNumber": "802481-5956",
+      "orgName": "Insamlingsstiftelsen Baltic Waters 2030",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://balticwaters2030.org/"
     },
     {
       "entry": 1239007808,
@@ -21757,6 +22034,27 @@
       "web": "https://www.sak.se/"
     },
     {
+      "entry": 1239007816,
+      "orgNumber": "802001-8613",
+      "orgName": "Korpen Svenska Motionsidrottsf\u00f6rbundet",
+      "categories": [
+        "friskv\u00e5rd",
+        "insamlingskontroll"
+      ],
+      "web": "https://www.korpen.se/"
+    },
+    {
+      "entry": 1239007832,
+      "orgNumber": "802525-0963",
+      "orgName": "Insamlingsstiftelsen Framtidens Natur & Kulturarv",
+      "categories": [
+        "insamlingskontroll",
+        "naturskydd",
+        "naturv\u00e5rd"
+      ],
+      "web": "https://framtidensnatur.se/"
+    },
+    {
       "entry": 1239007857,
       "orgNumber": "822002-0187",
       "orgName": "Bist\u00e5ndsorganisationen Hj\u00e4rta till Hj\u00e4rta",
@@ -21764,6 +22062,25 @@
         "insamlingskontroll"
       ],
       "web": "https://www.hearttoheart.se/"
+    },
+    {
+      "entry": 1239007865,
+      "orgNumber": "802477-9293",
+      "orgName": "Solvatten Insamlingsstiftelse",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "insamlingskontroll"
+      ],
+      "web": "https://solvatten.org/"
+    },
+    {
+      "entry": 1239007873,
+      "orgNumber": "802481-1922",
+      "orgName": "Lena W\u00e4ppling's Foundation",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.lenawfoundation.com/"
     },
     {
       "entry": 1239007931,
