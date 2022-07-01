@@ -491,6 +491,14 @@ entries:
   - sportfiske
   web: https://www.nedrehelgean.se/
 
+- entry: 1230239681
+  orgName: Falu Massage & Hälsa / Anna Gellner
+  orgNumber: 751014-XXXX
+  comment: null
+  categories:
+  - massage
+  web: https://falumassagehalsa.se/
+
 - entry: 1230240838
   orgName: Svenska Reimpregnerings AB Lavtox
   orgNumber: 556062-5021
@@ -1483,6 +1491,16 @@ entries:
   - förbund
   web: http://www.gulabandet.se/
 
+- entry: 1230711184
+  orgName: Provitae Östra Skånes Prostataförening
+  orgNumber: 838201-9910
+  comment: null
+  categories:
+  - cancer
+  - patientförening
+  - prostatacancer
+  web: http://www.provitae.se/
+
 - entry: 1230712232
   orgName: Mitt Livs Val Insamlingsstiftelse
   orgNumber: 802479-0183
@@ -2249,6 +2267,14 @@ entries:
   categories:
   - religion
   web: https://kungsor.pingst.se/
+
+- entry: 1231023092
+  orgName: Mabel Massage / Mabel Morales
+  orgNumber: 671002-XXXX
+  comment: null
+  categories:
+  - massage
+  web: https://falumassagehalsa.se/
 
 - entry: 1231030758
   orgName: Kerstins Trafikskola i Åkersberga / Kerstins Trafikskola AB
@@ -5147,6 +5173,13 @@ entries:
   - patientförening
   web: https://blodsjukdom.se/
 
+- entry: 1232134781
+  orgName: Uppsala Fritid
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1232136059
   orgName: Degeberga-Widsköfle Golfklubb
   orgNumber: 838201-8813
@@ -5372,6 +5405,16 @@ entries:
   - intresseförening
   web: http://skorped.se/
 
+- entry: 1232202869
+  orgName: ProLivskvalitet Patientförening för Prostatacancer
+  orgNumber: 843003-3004
+  comment: null
+  categories:
+  - cancer
+  - patientförening
+  - prostatacancer
+  web: https://prostatacancerforbundet.se/om-oss/patientforeningar/skane/prolivskvalitet/
+
 - entry: 1232203941
   orgName: Yoga Resan i Lerum / Lena Johansson
   orgNumber: 640914-XXXX
@@ -5495,6 +5538,14 @@ entries:
   categories:
   - fotvård
   web: https://www.hypensfotvard.se/
+
+- entry: 1232235695
+  orgName: PRO Lysekils
+  orgNumber: 854600-5235
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-bohuslan/samorganisationer/samradsgrupp-lysekil/foreningar/lysekil/var-forening.html
 
 - entry: 1232240356
   orgName: Folket i Bild/Kulturfront
@@ -5919,6 +5970,14 @@ entries:
   - religion
   web: https://skovdepingst.se/
 
+- entry: 1232380111
+  orgName: PRO Kvarnsveden
+  orgNumber: 882601-3859
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-borlange/foreningar/kvarnsveden.html
+
 - entry: 1232383081
   orgName: Aktiespararnas Ledningsgrupp
   orgNumber: 839400-5873
@@ -6291,6 +6350,14 @@ entries:
   categories:
   - antroposofisk medicin
   web: https://www.phoenixmottagningen.nu/
+
+- entry: 1232534527
+  orgName: Örbyhus Golfklubb
+  orgNumber: 817301-3577
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.orbyhusgolf.se/
 
 - entry: 1232538593
   orgName: Kiruna jakt- och fiskevårdsförening
@@ -7436,6 +7503,14 @@ entries:
   - religion
   web: http://www.tenstakyrkan.se/
 
+- entry: 1232981710
+  orgName: metmask.com / Animal-A Alltjänst AB
+  orgNumber: 559350-3799
+  comment: null
+  categories:
+  - fiske
+  web: https://metmask.com/
+
 - entry: 1232990513
   orgName: Hundar Utan Hem
   orgNumber: 802432-7630
@@ -7469,6 +7544,16 @@ entries:
   - förening
   - patientförening
   web: https://www.hjart-lung.se/pitea/
+
+- entry: 1232992691
+  orgName: Indianen i Västerås AB
+  orgNumber: 556570-2445
+  comment: permanently closed?
+  categories:
+  - catering
+  - restaurant
+  - terminated
+  web: null
 
 - entry: 1232992840
   orgName: Wasa Golfklubb
@@ -8270,6 +8355,14 @@ entries:
   - utbildning
   web: https://www.mdhund.se/
 
+- entry: 1233276656
+  orgName: Föreningen Hyttan, Axmar Bruk
+  orgNumber: 885001-3973
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://axmarbruk.se/
+
 - entry: 1233276862
   orgName: Borgeby Fotbollsklubb
   orgNumber: 846002-5276
@@ -8377,6 +8470,14 @@ entries:
   - hälsa
   - wellness
   web: https://wellness4life.nu/
+
+- entry: 1233335270
+  orgName: PRO Öregrund
+  orgNumber: 817300-7058
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samradsgrupp-osthammar/foreningar/oregrund.html
 
 - entry: 1233337011
   orgName: Jönköpings Biljardklubb
@@ -9203,6 +9304,14 @@ entries:
   - kläder
   web: https://www.hepcat.se/
 
+- entry: 1233647039
+  orgName: Kjula Dragway Ekonomisk förening
+  orgNumber: 769636-9524
+  comment: null
+  categories:
+  - bilsport
+  web: https://www.kjuladragway.com/
+
 - entry: 1233648961
   orgName: Riksförbundet Hjärnkoll
   orgNumber: 802490-8314
@@ -9546,6 +9655,14 @@ entries:
   categories:
   - stiftelse
   web: https://www.ellashjaltar.se/
+
+- entry: 1233825643
+  orgName: PRO Järna Vårdinge
+  orgNumber: 815600-5715
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-sodertalje/foreningar/jarna-vardinge.html
 
 - entry: 1233827615
   orgName: Urshults Församling
@@ -11394,6 +11511,14 @@ entries:
   - stiftelse
   web: https://www.polisforbundet.se/om-oss/polisforbundets-stiftelser-och-fonder/
 
+- entry: 1234563235
+  orgName: Johannas Golfshop Aktiebolag
+  orgNumber: 556308-5140
+  comment: null
+  categories:
+  - golfutrustning
+  web: https://www.mollegk.se/
+
 - entry: 1234572525
   orgName: Fjugesta Motorsällskap
   orgNumber: 875001-1176
@@ -12751,6 +12876,16 @@ entries:
   - kultur
   web: https://saava.se/
 
+- entry: 1235151311
+  orgName: Prostatacancerföreningen ProLiv Väst
+  orgNumber: 855100-0683
+  comment: null
+  categories:
+  - cancer
+  - patientförening
+  - prostatacancer
+  web: https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/proliv-vast/
+
 - entry: 1235157003
   orgName: Kristdemokraterna Riksorganisationen
   orgNumber: 802006-3940
@@ -13819,6 +13954,15 @@ entries:
   - religion
   web: http://www.senorensmissionshus.se/
 
+- entry: 1235527098
+  orgName: Föreningen Folkets Park Örebro
+  orgNumber: 775000-0734
+  comment: null
+  categories:
+  - folkrörelse
+  - trivseldans
+  web: https://www.brunnsparken.com/
+
 - entry: 1235528237
   orgName: Västerås IK Fotboll
   orgNumber: 878000-8432
@@ -14271,6 +14415,14 @@ entries:
   - lokalradio
   - närradiostation
   web: http://www.radiohaninge.se/
+
+- entry: 1235696356
+  orgName: PRO Svärdsjö
+  orgNumber: 883201-8959
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-falun/foreningar/svardsjo.html
 
 - entry: 1235703657
   orgName: Sadelmakarna i Stockholm AB
@@ -15433,6 +15585,15 @@ entries:
   - tarot
   web: https://cleostarot.wordpress.com/
 
+- entry: 1236122139
+  orgName: Axmar Brygga Havskrog / Scandinavian Fine Food AB
+  orgNumber: 556752-5547
+  comment: null
+  categories:
+  - restaurant
+  - ställplats
+  web: https://axmarbrygga.se/
+
 - entry: 1236122634
   orgName: Föreningen Nyckelharpan
   orgNumber: 802011-4289
@@ -15682,6 +15843,15 @@ entries:
   categories:
   - boule
   web: https://www.borasbouleallians.se/
+
+- entry: 1236202592
+  orgName: Millennia Animal Project
+  orgNumber: 802513-7061
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  web: https://milanipro.org/
 
 - entry: 1236204325
   orgName: Lila shala / Kim Mariancila
@@ -16236,6 +16406,14 @@ entries:
   categories:
   - intresseförening
   web: http://ilse.se/
+
+- entry: 1236407662
+  orgName: Rätans Hembygdsförening
+  orgNumber: 892600-7165
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://ratan.nu/
 
 - entry: 1236408520
   orgName: EKHO Sydöst

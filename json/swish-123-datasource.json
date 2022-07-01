@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-06-29-rev-161338",
+    "date": "2022-07-01-rev-114850",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -538,6 +538,15 @@
         "sportfiske"
       ],
       "web": "https://www.nedrehelgean.se/"
+    },
+    {
+      "entry": 1230239681,
+      "orgNumber": "751014-XXXX",
+      "orgName": "Falu Massage & H\u00e4lsa / Anna Gellner",
+      "categories": [
+        "massage"
+      ],
+      "web": "https://falumassagehalsa.se/"
     },
     {
       "entry": 1230240838,
@@ -1636,6 +1645,17 @@
       "web": "http://www.gulabandet.se/"
     },
     {
+      "entry": 1230711184,
+      "orgNumber": "838201-9910",
+      "orgName": "Provitae \u00d6stra Sk\u00e5nes Prostataf\u00f6rening",
+      "categories": [
+        "cancer",
+        "patientf\u00f6rening",
+        "prostatacancer"
+      ],
+      "web": "http://www.provitae.se/"
+    },
+    {
       "entry": 1230712232,
       "orgNumber": "802479-0183",
       "orgName": "Mitt Livs Val Insamlingsstiftelse",
@@ -2491,6 +2511,15 @@
         "religion"
       ],
       "web": "https://kungsor.pingst.se/"
+    },
+    {
+      "entry": 1231023092,
+      "orgNumber": "671002-XXXX",
+      "orgName": "Mabel Massage / Mabel Morales",
+      "categories": [
+        "massage"
+      ],
+      "web": "https://falumassagehalsa.se/"
     },
     {
       "entry": 1231030758,
@@ -5982,6 +6011,17 @@
       "web": "http://skorped.se/"
     },
     {
+      "entry": 1232202869,
+      "orgNumber": "843003-3004",
+      "orgName": "ProLivskvalitet Patientf\u00f6rening f\u00f6r Prostatacancer",
+      "categories": [
+        "cancer",
+        "patientf\u00f6rening",
+        "prostatacancer"
+      ],
+      "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/skane/prolivskvalitet/"
+    },
+    {
       "entry": 1232203941,
       "orgNumber": "640914-XXXX",
       "orgName": "Yoga Resan i Lerum / Lena Johansson",
@@ -6109,6 +6149,15 @@
         "fotv\u00e5rd"
       ],
       "web": "https://www.hypensfotvard.se/"
+    },
+    {
+      "entry": 1232235695,
+      "orgNumber": "854600-5235",
+      "orgName": "PRO Lysekils",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-bohuslan/samorganisationer/samradsgrupp-lysekil/foreningar/lysekil/var-forening.html"
     },
     {
       "entry": 1232240356,
@@ -6592,6 +6641,15 @@
       "web": "https://skovdepingst.se/"
     },
     {
+      "entry": 1232380111,
+      "orgNumber": "882601-3859",
+      "orgName": "PRO Kvarnsveden",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-borlange/foreningar/kvarnsveden.html"
+    },
+    {
       "entry": 1232383081,
       "orgNumber": "839400-5873",
       "orgName": "Aktiespararnas Ledningsgrupp",
@@ -7006,6 +7064,15 @@
         "antroposofisk medicin"
       ],
       "web": "https://www.phoenixmottagningen.nu/"
+    },
+    {
+      "entry": 1232534527,
+      "orgNumber": "817301-3577",
+      "orgName": "\u00d6rbyhus Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.orbyhusgolf.se/"
     },
     {
       "entry": 1232538593,
@@ -8284,6 +8351,15 @@
       "web": "http://www.tenstakyrkan.se/"
     },
     {
+      "entry": 1232981710,
+      "orgNumber": "559350-3799",
+      "orgName": "metmask.com / Animal-A Alltj\u00e4nst AB",
+      "categories": [
+        "fiske"
+      ],
+      "web": "https://metmask.com/"
+    },
+    {
       "entry": 1232990513,
       "orgNumber": "802432-7630",
       "orgName": "Hundar Utan Hem",
@@ -9177,6 +9253,15 @@
       "web": "https://www.mdhund.se/"
     },
     {
+      "entry": 1233276656,
+      "orgNumber": "885001-3973",
+      "orgName": "F\u00f6reningen Hyttan, Axmar Bruk",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://axmarbruk.se/"
+    },
+    {
       "entry": 1233276862,
       "orgNumber": "846002-5276",
       "orgName": "Borgeby Fotbollsklubb",
@@ -9296,6 +9381,15 @@
         "wellness"
       ],
       "web": "https://wellness4life.nu/"
+    },
+    {
+      "entry": 1233335270,
+      "orgNumber": "817300-7058",
+      "orgName": "PRO \u00d6regrund",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samradsgrupp-osthammar/foreningar/oregrund.html"
     },
     {
       "entry": 1233337011,
@@ -10224,6 +10318,15 @@
       "web": "https://www.hepcat.se/"
     },
     {
+      "entry": 1233647039,
+      "orgNumber": "769636-9524",
+      "orgName": "Kjula Dragway Ekonomisk f\u00f6rening",
+      "categories": [
+        "bilsport"
+      ],
+      "web": "https://www.kjuladragway.com/"
+    },
+    {
       "entry": 1233648961,
       "orgNumber": "802490-8314",
       "orgName": "Riksf\u00f6rbundet Hj\u00e4rnkoll",
@@ -10590,6 +10693,15 @@
         "stiftelse"
       ],
       "web": "https://www.ellashjaltar.se/"
+    },
+    {
+      "entry": 1233825643,
+      "orgNumber": "815600-5715",
+      "orgName": "PRO J\u00e4rna V\u00e5rdinge",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-sodertalje/foreningar/jarna-vardinge.html"
     },
     {
       "entry": 1233827615,
@@ -12657,6 +12769,15 @@
       "web": "https://www.polisforbundet.se/om-oss/polisforbundets-stiftelser-och-fonder/"
     },
     {
+      "entry": 1234563235,
+      "orgNumber": "556308-5140",
+      "orgName": "Johannas Golfshop Aktiebolag",
+      "categories": [
+        "golfutrustning"
+      ],
+      "web": "https://www.mollegk.se/"
+    },
+    {
       "entry": 1234572525,
       "orgNumber": "875001-1176",
       "orgName": "Fjugesta Motors\u00e4llskap",
@@ -14167,6 +14288,17 @@
       "web": "https://saava.se/"
     },
     {
+      "entry": 1235151311,
+      "orgNumber": "855100-0683",
+      "orgName": "Prostatacancerf\u00f6reningen ProLiv V\u00e4st",
+      "categories": [
+        "cancer",
+        "patientf\u00f6rening",
+        "prostatacancer"
+      ],
+      "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/proliv-vast/"
+    },
+    {
       "entry": 1235157003,
       "orgNumber": "802006-3940",
       "orgName": "Kristdemokraterna Riksorganisationen",
@@ -15325,6 +15457,16 @@
       "web": "http://www.senorensmissionshus.se/"
     },
     {
+      "entry": 1235527098,
+      "orgNumber": "775000-0734",
+      "orgName": "F\u00f6reningen Folkets Park \u00d6rebro",
+      "categories": [
+        "folkr\u00f6relse",
+        "trivseldans"
+      ],
+      "web": "https://www.brunnsparken.com/"
+    },
+    {
       "entry": 1235528237,
       "orgNumber": "878000-8432",
       "orgName": "V\u00e4ster\u00e5s IK Fotboll",
@@ -15836,6 +15978,15 @@
         "n\u00e4rradiostation"
       ],
       "web": "http://www.radiohaninge.se/"
+    },
+    {
+      "entry": 1235696356,
+      "orgNumber": "883201-8959",
+      "orgName": "PRO Sv\u00e4rdsj\u00f6",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-falun/foreningar/svardsjo.html"
     },
     {
       "entry": 1235703657,
@@ -17134,6 +17285,16 @@
       "web": "https://cleostarot.wordpress.com/"
     },
     {
+      "entry": 1236122139,
+      "orgNumber": "556752-5547",
+      "orgName": "Axmar Brygga Havskrog / Scandinavian Fine Food AB",
+      "categories": [
+        "restaurant",
+        "st\u00e4llplats"
+      ],
+      "web": "https://axmarbrygga.se/"
+    },
+    {
       "entry": 1236122634,
       "orgNumber": "802011-4289",
       "orgName": "F\u00f6reningen Nyckelharpan",
@@ -17415,6 +17576,16 @@
         "boule"
       ],
       "web": "https://www.borasbouleallians.se/"
+    },
+    {
+      "entry": 1236202592,
+      "orgNumber": "802513-7061",
+      "orgName": "Millennia Animal Project",
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd"
+      ],
+      "web": "https://milanipro.org/"
     },
     {
       "entry": 1236204325,
@@ -18033,6 +18204,15 @@
         "intressef\u00f6rening"
       ],
       "web": "http://ilse.se/"
+    },
+    {
+      "entry": 1236407662,
+      "orgNumber": "892600-7165",
+      "orgName": "R\u00e4tans Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://ratan.nu/"
     },
     {
       "entry": 1236408520,
