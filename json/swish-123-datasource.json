@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-04-rev-173108",
+    "date": "2022-07-04-rev-190614",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2299,6 +2299,15 @@
         "tjejjour"
       ],
       "web": "https://kvinnorsratt.se/"
+    },
+    {
+      "entry": 1230912972,
+      "orgNumber": "884400-8469",
+      "orgName": "S\u00e4rna Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.sarnahembygdsforening.se/"
     },
     {
       "entry": 1230916320,
@@ -5850,6 +5859,16 @@
       "web": "https://www.korskyrkanvasteras.se/"
     },
     {
+      "entry": 1232136216,
+      "orgNumber": "825000-7534",
+      "orgName": "S\u00f6derk\u00f6pings stads hembygdsf\u00f6rening, S:t Ragnhilds Gille i S\u00f6derk\u00f6ping",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://www.stragnhildsgille.se/"
+    },
+    {
       "entry": 1232136877,
       "orgNumber": "212000-1595",
       "orgName": "Gr\u00e4storps Kommun",
@@ -6848,6 +6867,15 @@
         "religion"
       ],
       "web": "http://www.rydaholmsfrikyrka.se/"
+    },
+    {
+      "entry": 1232403657,
+      "orgNumber": "865500-6164",
+      "orgName": "G\u00e4llstads Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://ghf.swedenroots.se/"
     },
     {
       "entry": 1232404507,
@@ -10064,6 +10092,15 @@
       "web": "https://furudalsgolf.com/"
     },
     {
+      "entry": 1233504693,
+      "orgNumber": "882000-8707",
+      "orgName": "Ingvallsbenning Turbo hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://ingturhbf.se/"
+    },
+    {
       "entry": 1233505278,
       "orgNumber": "802422-8424",
       "orgName": "F\u00f6reningen Fem\u00f6refortet",
@@ -12862,6 +12899,15 @@
       "web": "https://iyengaryogacenter.se/"
     },
     {
+      "entry": 1234520243,
+      "orgNumber": "882600-0609",
+      "orgName": "Floda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.flodahembygd.se/"
+    },
+    {
       "entry": 1234522207,
       "orgNumber": "252000-0650",
       "orgName": "Br\u00e4nnkyrka F\u00f6rsamling",
@@ -12975,6 +13021,15 @@
         "stiftelse"
       ],
       "web": "https://www.polisforbundet.se/om-oss/polisforbundets-stiftelser-och-fonder/"
+    },
+    {
+      "entry": 1234563151,
+      "orgNumber": "829502-2530",
+      "orgName": "S\u00f6dra Sandsj\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://sodrasandsjohf.se/"
     },
     {
       "entry": 1234563235,
@@ -14965,6 +15020,16 @@
       "web": "https://laxavilla.se/"
     },
     {
+      "entry": 1235282132,
+      "orgNumber": "817301-2215",
+      "orgName": "Ramh\u00e4lls Bygdeg\u00e5rds- och Hembygdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/ramhall/"
+    },
+    {
       "entry": 1235283122,
       "orgNumber": "888400-3172",
       "orgName": "Docksta Bordtennisklubb (DBTK)",
@@ -15409,6 +15474,15 @@
         "religion"
       ],
       "web": "http://www.rydaholmsfrikyrka.se/"
+    },
+    {
+      "entry": 1235419312,
+      "orgNumber": "802475-8818",
+      "orgName": "Malma Intressef\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.malmaintresseforening.se/"
     },
     {
       "entry": 1235422654,
@@ -16200,6 +16274,15 @@
         "skapande"
       ],
       "web": "https://www.tedstrom.se/"
+    },
+    {
+      "entry": 1235668876,
+      "orgNumber": "882601-6571",
+      "orgName": "Tuna-H\u00e4stbergs Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.tunahastberg.se/"
     },
     {
       "entry": 1235669296,
@@ -18142,6 +18225,15 @@
       "web": "https://www.unizonjourer.se/kvinnohusetorebro/"
     },
     {
+      "entry": 1236276398,
+      "orgNumber": "883800-2635",
+      "orgName": "S\u00f6derb\u00e4rke Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://s\u00f6derb\u00e4rkehembygdsf\u00f6rening.se/"
+    },
+    {
       "entry": 1236280424,
       "orgNumber": "802002-4686",
       "orgName": "Stiftelsen Nordiska Museet",
@@ -19534,6 +19626,15 @@
       "web": "https://nyhemsveckan.se/"
     },
     {
+      "entry": 1236807259,
+      "orgNumber": "888400-2372",
+      "orgName": "Nora Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://norabygden.com/"
+    },
+    {
       "entry": 1236811707,
       "orgNumber": "559110-8625",
       "orgName": "Eskilstuna Sushi Bar / Spicy Soup AB",
@@ -19542,6 +19643,15 @@
         "sushi"
       ],
       "web": "https://www.eskilstunasushibar.se/"
+    },
+    {
+      "entry": 1236825376,
+      "orgNumber": "854600-5615",
+      "orgName": "Bovallstrands Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://bovallstrand.com/"
     },
     {
       "entry": 1236827851,
@@ -19751,6 +19861,15 @@
         "tjejjour"
       ],
       "web": "https://www.malmokvinnojour.se/"
+    },
+    {
+      "entry": 1236910459,
+      "orgNumber": "868400-5880",
+      "orgName": "Malma Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.malmabygden.se/"
     },
     {
       "entry": 1236915177,
