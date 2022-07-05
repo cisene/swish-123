@@ -1027,6 +1027,14 @@ entries:
   - förening
   web: https://ljusfallshammar.nu/
 
+- entry: 1230469361
+  orgName: Lekvattnets Hembygdsförening
+  orgNumber: 874000-1543
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.lekvattnet.se/
+
 - entry: 1230470971
   orgName: Österåkers Konsthall på Länsmansgården / Österåkers Konstförening
   orgNumber: 812000-4521
@@ -2202,6 +2210,14 @@ entries:
   - tjejjour
   web: https://kvinnojourenlund.se/
 
+- entry: 1230988303
+  orgName: Sundals Ryrs Byalag
+  orgNumber: 862501-3324
+  comment: null
+  categories:
+  - byalag
+  web: http://sundalsryr.se/
+
 - entry: 1230990010
   orgName: Millas Villa AB / CHECKINN AB
   orgNumber: 559105-6550
@@ -2551,6 +2567,15 @@ entries:
   - spiritualism
   web: https://önskestjärnan.se/
 
+- entry: 1231104090
+  orgName: Katrineholm-Flen-Vingåkers Släktforskarförening
+  orgNumber: 802417-3638
+  comment: null
+  categories:
+  - genealogi
+  - släktforskning
+  web: https://kfvslakt.se/
+
 - entry: 1231122357
   orgName: Fibromyalgi Förbundet
   orgNumber: 826001-9503
@@ -2731,6 +2756,15 @@ entries:
   - ayur veda
   - healing
   web: https://www.ayuemy.com/
+
+- entry: 1231173939
+  orgName: Engsö Hembygds- och Intresseförening
+  orgNumber: 878001-6278
+  comment: null
+  categories:
+  - hembygdsförening
+  - intresseförening
+  web: https://engsohembygdsforening.se/
 
 - entry: 1231175751
   orgName: Hulta Golf AB
@@ -5222,6 +5256,15 @@ entries:
   - tjejjour
   web: http://www.clarajouren.n.nu/
 
+- entry: 1232110864
+  orgName: Morjärvs Sportklubb
+  orgNumber: 898200-1185
+  comment: null
+  categories:
+  - idrottsförening
+  - sportklubb
+  web: https://idrottonline.se/MorjarvSK-Friidrott/
+
 - entry: 1232126779
   orgName: 1 2 3 SCHTUNK Aktiebolag
   orgNumber: 556686-0242
@@ -6803,6 +6846,14 @@ entries:
   - podcast
   web: http://minimalismonwheels.com/
 
+- entry: 1232680270
+  orgName: Kulturföreningen Gösta Johanssons Varv
+  orgNumber: 8024277066
+  comment: null
+  categories:
+  - kulturförening
+  web: https://www.gostasvarv.se/
+
 - entry: 1232681773
   orgName: Bergs Bygdegård
   orgNumber: 866600-0065
@@ -7343,6 +7394,14 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://www.unizonjourer.se/jarfallakvinnojour/
+
+- entry: 1232829588
+  orgName: Löberöds Hembygdsförening
+  orgNumber: 842000-7794
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://loberod.se/
 
 - entry: 1232838936
   orgName: Sveriges Bilkårers Riksförbund
@@ -9135,6 +9194,14 @@ entries:
   - hembygdsförening
   web: https://www.akershembygd.se/
 
+- entry: 1233511938
+  orgName: Lekvattnets Skoterklubb
+  orgNumber: 874000-7839
+  comment: null
+  categories:
+  - skoterklubb
+  web: http://www.lekvattnetsskoterklubb.se/
+
 - entry: 1233513132
   orgName: Riksförbundet Cystisk Fibros
   orgNumber: 817600-9473
@@ -9259,6 +9326,15 @@ entries:
   categories:
   - båtklubb
   web: https://www.cmbk.se/
+
+- entry: 1233551298
+  orgName: Stiftelsen Backamo Lägerplats
+  orgNumber: 858500-9668
+  comment: null
+  categories:
+  - lokaluthyrning
+  - stiftelse
+  web: http://backamolagerplats.se/
 
 - entry: 1233553435
   orgName: Malmö Lyftarklubb
@@ -10353,6 +10429,15 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/tjejjourenrut/
 
+- entry: 1234006334
+  orgName: Kalix Basket
+  orgNumber: 898200-6549
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.kalixbasket.se/
+
 - entry: 1234011201
   orgName: Segerstads Hembygsförening
   orgNumber: 873202-1301
@@ -10876,6 +10961,14 @@ entries:
   categories:
   - religion
   web: https://www.israelinsamlingen.org/
+
+- entry: 1234226551
+  orgName: Hemsjö Hembygdsförening
+  orgNumber: 868401-2449
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hemsjobygden.se/
 
 - entry: 1234228284
   orgName: Formcraft / Marianne Ljungström
@@ -12655,6 +12748,14 @@ entries:
   - hjälporganisation
   web: http://www.focusonafrica.nu/
 
+- entry: 1235013412
+  orgName: Brålanda IF
+  orgNumber: 862500-0172
+  comment: null
+  categories:
+  - idrottsförening
+  web: http://bralandaif.se/
+
 - entry: 1235013727
   orgName: Sollerö Sockenförening
   orgNumber: 884401-7221
@@ -13599,6 +13700,14 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Krokek/
+
+- entry: 1235292131
+  orgName: Ängsö Röda Korskrets
+  orgNumber: 878001-5684
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.rodakorset.se/ort/vastmanland/vasteras-stad/
 
 - entry: 1235292974
   orgName: Djurens Vänner Värnamo
@@ -14934,6 +15043,14 @@ entries:
   - skola
   web: http://www.drakbergsskolan.se/
 
+- entry: 1235763594
+  orgName: Lovö Hembygdsförening
+  orgNumber: 815200-5636
+  comment: null
+  categories:
+  - hembygdsförening
+  web: http://www.lovohembygd.com/
+
 - entry: 1235764410
   orgName: Gräppås GK
   orgNumber: 849400-7001
@@ -15148,6 +15265,14 @@ entries:
   - idrottsförening
   web: https://www.curlingklubben.se/
 
+- entry: 1235821509
+  orgName: Kinneveds Hembygdsförening
+  orgNumber: 802436-8220
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.kinneved.se/
+
 - entry: 1235822523
   orgName: Insamlingsstiftelsen Her House Foundation
   orgNumber: 802481-5592
@@ -15244,6 +15369,14 @@ entries:
   categories:
   - religion
   web: https://mariedalskyrkan.se/
+
+- entry: 1235884267
+  orgName: SK Granan
+  orgNumber: 862500-6039
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.skgranan.com/
 
 - entry: 1235890082
   orgName: Angel Island Army, AIA
@@ -15501,6 +15634,14 @@ entries:
   - musikförening
   - ridklubb
   web: http://lindebolarna.se/
+
+- entry: 1235978218
+  orgName: Runmarö Hembygdsförening
+  orgNumber: 814000-7686
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://runmaro.org/
 
 - entry: 1235978424
   orgName: Vägpress AB/Tidningen Proffs
@@ -16028,6 +16169,14 @@ entries:
   categories:
   - religion
   web: https://eotcs.se/
+
+- entry: 1236148746
+  orgName: Åsele Hembygdsförening
+  orgNumber: 896100-4358
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://aselehembygdsforening.nu/
 
 - entry: 1236155352
   orgName: Svedala Trafikskola AB

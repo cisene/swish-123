@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-04-rev-190614",
+    "date": "2022-07-05-rev-022531",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1133,6 +1133,15 @@
         "f\u00f6rening"
       ],
       "web": "https://ljusfallshammar.nu/"
+    },
+    {
+      "entry": 1230469361,
+      "orgNumber": "874000-1543",
+      "orgName": "Lekvattnets Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.lekvattnet.se/"
     },
     {
       "entry": 1230470971,
@@ -2428,6 +2437,15 @@
       "web": "https://kvinnojourenlund.se/"
     },
     {
+      "entry": 1230988303,
+      "orgNumber": "862501-3324",
+      "orgName": "Sundals Ryrs Byalag",
+      "categories": [
+        "byalag"
+      ],
+      "web": "http://sundalsryr.se/"
+    },
+    {
       "entry": 1230990010,
       "orgNumber": "559105-6550",
       "orgName": "Millas Villa AB / CHECKINN AB",
@@ -2826,6 +2844,16 @@
       "web": "https://\u00f6nskestj\u00e4rnan.se/"
     },
     {
+      "entry": 1231104090,
+      "orgNumber": "802417-3638",
+      "orgName": "Katrineholm-Flen-Ving\u00e5kers Sl\u00e4ktforskarf\u00f6rening",
+      "categories": [
+        "genealogi",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://kfvslakt.se/"
+    },
+    {
       "entry": 1231122357,
       "orgNumber": "826001-9503",
       "orgName": "Fibromyalgi F\u00f6rbundet",
@@ -3012,6 +3040,16 @@
         "healing"
       ],
       "web": "https://www.ayuemy.com/"
+    },
+    {
+      "entry": 1231173939,
+      "orgNumber": "878001-6278",
+      "orgName": "Engs\u00f6 Hembygds- och Intressef\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://engsohembygdsforening.se/"
     },
     {
       "entry": 1231175751,
@@ -5805,6 +5843,16 @@
       "web": "http://www.clarajouren.n.nu/"
     },
     {
+      "entry": 1232110864,
+      "orgNumber": "898200-1185",
+      "orgName": "Morj\u00e4rvs Sportklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sportklubb"
+      ],
+      "web": "https://idrottonline.se/MorjarvSK-Friidrott/"
+    },
+    {
       "entry": 1232126779,
       "orgNumber": "556686-0242",
       "orgName": "1 2 3 SCHTUNK Aktiebolag",
@@ -8171,6 +8219,15 @@
       "web": "https://www.unizonjourer.se/jarfallakvinnojour/"
     },
     {
+      "entry": 1232829588,
+      "orgNumber": "842000-7794",
+      "orgName": "L\u00f6ber\u00f6ds Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://loberod.se/"
+    },
+    {
       "entry": 1232838936,
       "orgNumber": "802006-4112",
       "orgName": "Sveriges Bilk\u00e5rers Riksf\u00f6rbund",
@@ -10119,6 +10176,15 @@
       "web": "https://www.akershembygd.se/"
     },
     {
+      "entry": 1233511938,
+      "orgNumber": "874000-7839",
+      "orgName": "Lekvattnets Skoterklubb",
+      "categories": [
+        "skoterklubb"
+      ],
+      "web": "http://www.lekvattnetsskoterklubb.se/"
+    },
+    {
       "entry": 1233513132,
       "orgNumber": "817600-9473",
       "orgName": "Riksf\u00f6rbundet Cystisk Fibros",
@@ -10258,6 +10324,16 @@
         "b\u00e5tklubb"
       ],
       "web": "https://www.cmbk.se/"
+    },
+    {
+      "entry": 1233551298,
+      "orgNumber": "858500-9668",
+      "orgName": "Stiftelsen Backamo L\u00e4gerplats",
+      "categories": [
+        "lokaluthyrning",
+        "stiftelse"
+      ],
+      "web": "http://backamolagerplats.se/"
     },
     {
       "entry": 1233553435,
@@ -11464,6 +11540,16 @@
       "web": "https://www.unizonjourer.se/tjejjourenrut/"
     },
     {
+      "entry": 1234006334,
+      "orgNumber": "898200-6549",
+      "orgName": "Kalix Basket",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kalixbasket.se/"
+    },
+    {
       "entry": 1234011201,
       "orgNumber": "873202-1301",
       "orgName": "Segerstads Hembygsf\u00f6rening",
@@ -12039,6 +12125,15 @@
         "religion"
       ],
       "web": "https://www.israelinsamlingen.org/"
+    },
+    {
+      "entry": 1234226551,
+      "orgNumber": "868401-2449",
+      "orgName": "Hemsj\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hemsjobygden.se/"
     },
     {
       "entry": 1234228284,
@@ -14036,6 +14131,15 @@
       "web": "http://www.focusonafrica.nu/"
     },
     {
+      "entry": 1235013412,
+      "orgNumber": "862500-0172",
+      "orgName": "Br\u00e5landa IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://bralandaif.se/"
+    },
+    {
       "entry": 1235013727,
       "orgNumber": "884401-7221",
       "orgName": "Soller\u00f6 Sockenf\u00f6rening",
@@ -15074,6 +15178,15 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Krokek/"
+    },
+    {
+      "entry": 1235292131,
+      "orgNumber": "878001-5684",
+      "orgName": "\u00c4ngs\u00f6 R\u00f6da Korskrets",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.rodakorset.se/ort/vastmanland/vasteras-stad/"
     },
     {
       "entry": 1235292974,
@@ -16548,6 +16661,15 @@
       "web": "http://www.drakbergsskolan.se/"
     },
     {
+      "entry": 1235763594,
+      "orgNumber": "815200-5636",
+      "orgName": "Lov\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.lovohembygd.com/"
+    },
+    {
       "entry": 1235764410,
       "orgNumber": "849400-7001",
       "orgName": "Gr\u00e4pp\u00e5s GK",
@@ -16781,6 +16903,15 @@
       "web": "https://www.curlingklubben.se/"
     },
     {
+      "entry": 1235821509,
+      "orgNumber": "802436-8220",
+      "orgName": "Kinneveds Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.kinneved.se/"
+    },
+    {
       "entry": 1235822523,
       "orgNumber": "802481-5592",
       "orgName": "Insamlingsstiftelsen Her House Foundation",
@@ -16891,6 +17022,15 @@
         "religion"
       ],
       "web": "https://mariedalskyrkan.se/"
+    },
+    {
+      "entry": 1235884267,
+      "orgNumber": "862500-6039",
+      "orgName": "SK Granan",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.skgranan.com/"
     },
     {
       "entry": 1235890082,
@@ -17179,6 +17319,15 @@
         "ridklubb"
       ],
       "web": "http://lindebolarna.se/"
+    },
+    {
+      "entry": 1235978218,
+      "orgNumber": "814000-7686",
+      "orgName": "Runmar\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://runmaro.org/"
     },
     {
       "entry": 1235978424,
@@ -17773,6 +17922,15 @@
         "religion"
       ],
       "web": "https://eotcs.se/"
+    },
+    {
+      "entry": 1236148746,
+      "orgNumber": "896100-4358",
+      "orgName": "\u00c5sele Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://aselehembygdsforening.nu/"
     },
     {
       "entry": 1236155352,
