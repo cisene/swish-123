@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-05-rev-022531",
+    "date": "2022-07-05-rev-025109",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -838,6 +838,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://millesgardensvanner.se/"
+    },
+    {
+      "entry": 1230363531,
+      "orgNumber": "802426-1250",
+      "orgName": "Sverige f\u00f6r UNHCR",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://sverigeforunhcr.se/"
     },
     {
       "entry": 1230365288,
@@ -1924,6 +1933,15 @@
       "web": "http://sthlmvastjour.se/"
     },
     {
+      "entry": 1230771931,
+      "orgNumber": "802426-1250",
+      "orgName": "Sverige f\u00f6r UNHCR",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://sverigeforunhcr.se/"
+    },
+    {
       "entry": 1230772277,
       "orgNumber": "822003-2109",
       "orgName": "SPF Seniorerna - Plogen Linghem",
@@ -2260,6 +2278,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.guif.nu/"
+    },
+    {
+      "entry": 1230888966,
+      "orgNumber": "802426-1250",
+      "orgName": "Sverige f\u00f6r UNHCR",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://sverigeforunhcr.se/"
     },
     {
       "entry": 1230898692,
@@ -4029,6 +4056,15 @@
       "web": "https://www.vasteraskattklubb.se/"
     },
     {
+      "entry": 1231507557,
+      "orgNumber": "802426-1250",
+      "orgName": "Sverige f\u00f6r UNHCR",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://sverigeforunhcr.se/"
+    },
+    {
       "entry": 1231507573,
       "orgNumber": "769629-3583",
       "orgName": "Sjundehimmelen / 33:ans i Malm\u00f6 Ekonomiska f\u00f6rening",
@@ -5047,6 +5083,15 @@
       "web": "https://kyrkligsamling.se/"
     },
     {
+      "entry": 1231822899,
+      "orgNumber": "252003-9203",
+      "orgName": "Frostvikens f\u00f6rsamling / Str\u00f6msunds pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/stromsund/frostvikens-forsamling"
+    },
+    {
       "entry": 1231823772,
       "orgNumber": "802004-1565",
       "orgName": "Svensk-Kubanska F\u00f6reningen",
@@ -5853,6 +5898,15 @@
       "web": "https://idrottonline.se/MorjarvSK-Friidrott/"
     },
     {
+      "entry": 1232126274,
+      "orgNumber": "252003-9203",
+      "orgName": "T\u00e5sj\u00f6 f\u00f6rsamling / Str\u00f6msunds pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/stromsund/tasjo-forsamling"
+    },
+    {
       "entry": 1232126779,
       "orgNumber": "556686-0242",
       "orgName": "1 2 3 SCHTUNK Aktiebolag",
@@ -5948,6 +6002,15 @@
         "intressef\u00f6rening"
       ],
       "web": "http://www.vasterasbrottarklubb.se/"
+    },
+    {
+      "entry": 1232142321,
+      "orgNumber": "252003-9203",
+      "orgName": "Hammerdals f\u00f6rsamling / Str\u00f6msunds pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/stromsund/gaxsjo/hammerdal-forsamlingar"
     },
     {
       "entry": 1232143949,
@@ -7346,6 +7409,15 @@
       "web": "https://www.andersandersson.se/"
     },
     {
+      "entry": 1232587244,
+      "orgNumber": "252003-9203",
+      "orgName": "G\u00e5xsj\u00f6 f\u00f6rsamling / Str\u00f6msunds pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/stromsund/gaxsjo/hammerdal-forsamlingar"
+    },
+    {
       "entry": 1232588085,
       "orgNumber": "874000-9983",
       "orgName": "Brottsofferjouren \u00d6stra V\u00e4rmland",
@@ -7394,6 +7466,15 @@
         "massage"
       ],
       "web": "https://www.roshanspa.info/"
+    },
+    {
+      "entry": 1232595296,
+      "orgNumber": "252003-9203",
+      "orgName": "Bodums f\u00f6rsamling / Str\u00f6msunds pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar"
     },
     {
       "entry": 1232598225,
@@ -11550,6 +11631,15 @@
       "web": "https://www.kalixbasket.se/"
     },
     {
+      "entry": 1234009692,
+      "orgNumber": "802421-0935",
+      "orgName": "Melodifestivalklubben",
+      "categories": [
+        "musik"
+      ],
+      "web": "https://melodifestivalklubben.se/"
+    },
+    {
       "entry": 1234011201,
       "orgNumber": "873202-1301",
       "orgName": "Segerstads Hembygsf\u00f6rening",
@@ -13157,6 +13247,15 @@
       "web": "https://www.fralsningsarmen.se/sociala-centret/"
     },
     {
+      "entry": 1234578233,
+      "orgNumber": "252003-9203",
+      "orgName": "Fj\u00e4llsj\u00f6 f\u00f6rsamling / Str\u00f6msunds pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar"
+    },
+    {
       "entry": 1234578258,
       "orgNumber": "802404-8459",
       "orgName": "Stockholms Ornitologiska F\u00f6rening, StOF",
@@ -13603,6 +13702,15 @@
         "tr\u00e4dg\u00e5rdsodling"
       ],
       "web": "https://www.gardenize.com/"
+    },
+    {
+      "entry": 1234745816,
+      "orgNumber": "252003-9203",
+      "orgName": "Diakonala fonden / Str\u00f6msunds pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/stromsund/stromsunds-pastorat"
     },
     {
       "entry": 1234749925,
@@ -14267,6 +14375,15 @@
         "scoutk\u00e5r"
       ],
       "web": "https://www.lerumsscoutkar.se/"
+    },
+    {
+      "entry": 1235053947,
+      "orgNumber": "802426-1250",
+      "orgName": "Sverige f\u00f6r UNHCR",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://sverigeforunhcr.se/"
     },
     {
       "entry": 1235056387,
@@ -15616,6 +15733,15 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Sodertalje/"
+    },
+    {
+      "entry": 1235437553,
+      "orgNumber": "252003-9203",
+      "orgName": "Str\u00f6m-Alan\u00e4s f\u00f6rsamling / Str\u00f6msunds pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/stromsund/strom---alanas"
     },
     {
       "entry": 1235438957,
