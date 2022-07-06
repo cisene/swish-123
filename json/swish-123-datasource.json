@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-06-rev-132935",
+    "date": "2022-07-06-rev-155823",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -578,6 +578,24 @@
       "web": "https://kattfonden.se/"
     },
     {
+      "entry": 1230244871,
+      "orgNumber": "252004-7669",
+      "orgName": "Hyltebruks pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hyltebruk"
+    },
+    {
+      "entry": 1230244897,
+      "orgNumber": "252001-3430",
+      "orgName": "L\u00e5ngaryds F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/Hyltebruks%20pastorat/langaryd"
+    },
+    {
       "entry": 1230248872,
       "orgNumber": "559115-9594",
       "orgName": "Yoga i \u00c5kersberga AB",
@@ -898,6 +916,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.vgf.nu/"
+    },
+    {
+      "entry": 1230375493,
+      "orgNumber": "252000-1278",
+      "orgName": "Riala F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/riala-forsamling"
     },
     {
       "entry": 1230375576,
@@ -1795,6 +1822,15 @@
       "web": "https://www.econordica.se/"
     },
     {
+      "entry": 1230731570,
+      "orgNumber": "252000-1823",
+      "orgName": "\u00c4rentuna F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vattholma/arentuna"
+    },
+    {
       "entry": 1230734707,
       "orgNumber": "559194-3823",
       "orgName": "Optimal Hundgl\u00e4dje",
@@ -1842,6 +1878,15 @@
         "intressef\u00f6rening"
       ],
       "web": "http://www.bodenartilleristen.se/"
+    },
+    {
+      "entry": 1230741876,
+      "orgNumber": "252000-1252",
+      "orgName": "Blid\u00f6 F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/blido-forsamling"
     },
     {
       "entry": 1230746859,
@@ -2298,6 +2343,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.guif.nu/"
+    },
+    {
+      "entry": 1230888610,
+      "orgNumber": "252000-1237",
+      "orgName": "R\u00e5dmans\u00f6 F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/radmanso-forsamling"
     },
     {
       "entry": 1230888966,
@@ -3548,6 +3602,15 @@
       "web": "https://stockholmsbuddhistcenter.se/"
     },
     {
+      "entry": 1231314087,
+      "orgNumber": "252000-6988",
+      "orgName": "Lidhults F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/lidhult-forsamling"
+    },
+    {
       "entry": 1231314095,
       "orgNumber": "556672-6260",
       "orgName": "Jami Hundsport AB",
@@ -3626,6 +3689,15 @@
         "naturv\u00e5rd"
       ],
       "web": "http://www.vendelsjon.se/"
+    },
+    {
+      "entry": 1231335785,
+      "orgNumber": "252000-1245",
+      "orgName": "Fr\u00f6tuna F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/frotunafors"
     },
     {
       "entry": 1231336692,
@@ -3718,6 +3790,16 @@
         "donation"
       ],
       "web": "https://www.pingstlidkoping.se/"
+    },
+    {
+      "entry": 1231374511,
+      "orgNumber": "252002-7273",
+      "orgName": "Ljungby F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/ljungby-forsamling"
     },
     {
       "entry": 1231374701,
@@ -3920,6 +4002,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.ostersundbasket.se/"
+    },
+    {
+      "entry": 1231470400,
+      "orgNumber": "252000-1187",
+      "orgName": "Loh\u00e4rads F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/loharads-forsamling"
     },
     {
       "entry": 1231471879,
@@ -5336,6 +5427,15 @@
       "web": "https://sydkatten.se/"
     },
     {
+      "entry": 1231896828,
+      "orgNumber": "252000-6939",
+      "orgName": "Angelstads F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/angelstads-forsamling"
+    },
+    {
       "entry": 1231898899,
       "orgNumber": "802012-9022",
       "orgName": "Mansjouren i Stockholms l\u00e4n",
@@ -6452,6 +6552,15 @@
         "styrketr\u00e4ning"
       ],
       "web": "http://www.crossfitbifrost.com/"
+    },
+    {
+      "entry": 1232232304,
+      "orgNumber": "252001-3448",
+      "orgName": "F\u00e4rgaryds F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/Hyltebruks%20pastorat/fargaryd"
     },
     {
       "entry": 1232234904,
@@ -7870,6 +7979,15 @@
       "web": "https://www.fralsningsarmen.se/Tranas/"
     },
     {
+      "entry": 1232695047,
+      "orgNumber": "252002-7091",
+      "orgName": "Lena F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vattholma/lena"
+    },
+    {
       "entry": 1232695989,
       "orgNumber": "869000-0495",
       "orgName": "Pingstkyrkan Lidk\u00f6ping",
@@ -7935,6 +8053,26 @@
         "intresseorganisation"
       ],
       "web": "https://expo.se/"
+    },
+    {
+      "entry": 1232710556,
+      "orgNumber": "252000-6947",
+      "orgName": "Annerstads F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/annerstads-forsamling"
+    },
+    {
+      "entry": 1232710564,
+      "orgNumber": "252000-6962",
+      "orgName": "Torpa F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/torpa-kyrka"
     },
     {
       "entry": 1232710846,
@@ -8616,6 +8754,16 @@
         "stiftelse"
       ],
       "web": "http://www.1000mojligheter.se/"
+    },
+    {
+      "entry": 1232909729,
+      "orgNumber": "252000-6939",
+      "orgName": "Angelstads F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/angelstads-forsamling"
     },
     {
       "entry": 1232918522,
@@ -10096,6 +10244,15 @@
       "web": "https://serikfans.wordpress.com/"
     },
     {
+      "entry": 1233398583,
+      "orgNumber": "252001-3455",
+      "orgName": "Femsj\u00f6 F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/Hyltebruks%20pastorat/femsjo"
+    },
+    {
       "entry": 1233409380,
       "orgNumber": "874001-5865",
       "orgName": "Zambian Association for Sustainable Projects, ZASP",
@@ -10480,6 +10637,15 @@
       "web": "https://eskilstunatrafikskolan.se/"
     },
     {
+      "entry": 1233546678,
+      "orgNumber": "252002-7273",
+      "orgName": "Ljungby F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/ljungby-forsamling"
+    },
+    {
       "entry": 1233548807,
       "orgNumber": "556979-6997",
       "orgName": "Saran Yoga AB",
@@ -10555,6 +10721,15 @@
         "kattklubb"
       ],
       "web": "https://burmaklubben.com/"
+    },
+    {
+      "entry": 1233568094,
+      "orgNumber": "252000-1021",
+      "orgName": "Norrt\u00e4lje-Malsta F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/norrtalje-malsta-forsamling"
     },
     {
       "entry": 1233568474,
@@ -10997,6 +11172,16 @@
       "web": "https://www.ellenkey.se/"
     },
     {
+      "entry": 1233784345,
+      "orgNumber": "252000-6939",
+      "orgName": "Angelstads F\u00f6rsamling",
+      "comment": "Bokbord",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/angelstads-forsamling"
+    },
+    {
       "entry": 1233784972,
       "orgNumber": "817300-6258",
       "orgName": "IK VAVD",
@@ -11083,6 +11268,16 @@
         "melanom"
       ],
       "web": "https://melanomforeningen.se/"
+    },
+    {
+      "entry": 1233801909,
+      "orgNumber": "252003-8734",
+      "orgName": "Tingsryds pastorat",
+      "comment": "Gravljus",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tingsryd"
     },
     {
       "entry": 1233802865,
@@ -11692,6 +11887,15 @@
       "web": "https://www.charterbuss.se/"
     },
     {
+      "entry": 1233991296,
+      "orgNumber": "252004-7446",
+      "orgName": "V\u00e4dd\u00f6 F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/vaddo-forsamling"
+    },
+    {
       "entry": 1233996865,
       "orgNumber": "556888-1279",
       "orgName": "Hills Golf & Sports Club / Hills Golf AB",
@@ -12188,6 +12392,16 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourensigtuna/"
+    },
+    {
+      "entry": 1234183190,
+      "orgNumber": "252000-6996",
+      "orgName": "Odensj\u00f6 F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/odensjo-forsamling"
     },
     {
       "entry": 1234183307,
@@ -13972,6 +14186,15 @@
       "web": "https://www.fralsningsarmen.se/faockerooarna/"
     },
     {
+      "entry": 1234804357,
+      "orgNumber": "252000-6962",
+      "orgName": "Torpa F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/torpa-kyrka"
+    },
+    {
       "entry": 1234805123,
       "orgNumber": "818000-0674",
       "orgName": "Eskilstuna Basket",
@@ -14476,6 +14699,15 @@
       "web": "https://www.bokadirekt.se/places/alivio-massageterapi-23180"
     },
     {
+      "entry": 1235047436,
+      "orgNumber": "252000-1260",
+      "orgName": "L\u00e4nna F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/lanna"
+    },
+    {
       "entry": 1235047709,
       "orgNumber": "769621-8747",
       "orgName": "Syntolkning Nu i Sverige Ekonomisk f\u00f6rening",
@@ -14846,6 +15078,15 @@
       "web": "https://linastrafikskola.se/"
     },
     {
+      "entry": 1235127592,
+      "orgNumber": "252000-6947",
+      "orgName": "Annerstads F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/annerstads-forsamling"
+    },
+    {
       "entry": 1235136544,
       "orgNumber": "802479-5943",
       "orgName": "Stiftelse Coelho Growth Foundation",
@@ -15027,6 +15268,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.brottsofferjouren.se/"
+    },
+    {
+      "entry": 1235166319,
+      "orgNumber": "252004-0961",
+      "orgName": "Estuna-S\u00f6derbykarls f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/estuna-soderbykarls-forsamling"
     },
     {
       "entry": 1235172457,
@@ -15783,6 +16033,24 @@
       "web": "http://trotskvinnojour.se/"
     },
     {
+      "entry": 1235407416,
+      "orgNumber": "252002-7281",
+      "orgName": "Ljungby Maria F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/ljungby-maria-forsamling"
+    },
+    {
+      "entry": 1235407457,
+      "orgNumber": "252000-6970",
+      "orgName": "Vr\u00e5 F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/vra-forsamling"
+    },
+    {
       "entry": 1235407614,
       "orgNumber": "802432-4496",
       "orgName": "H\u00f6gan\u00e4s Golfklubb",
@@ -15894,6 +16162,16 @@
       "web": "https://www.massagehalsa.se/"
     },
     {
+      "entry": 1235440953,
+      "orgNumber": "252000-6988",
+      "orgName": "Lidhults F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/lidhult-forsamling"
+    },
+    {
       "entry": 1235442256,
       "orgNumber": "802011-9338",
       "orgName": "Riksf\u00f6rbundet Ofrivillig Barnl\u00f6shet",
@@ -15975,6 +16253,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://nkvillan.se/"
+    },
+    {
+      "entry": 1235457262,
+      "orgNumber": "252004-1803",
+      "orgName": "Unnaryds F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/Hyltebruks%20pastorat/unnaryd"
     },
     {
       "entry": 1235457270,
@@ -16758,6 +17045,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-falun/foreningar/svardsjo.html"
+    },
+    {
+      "entry": 1235703301,
+      "orgNumber": "252000-6996",
+      "orgName": "Odensj\u00f6 F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/odensjo-forsamling"
     },
     {
       "entry": 1235703657,
@@ -19434,6 +19730,25 @@
       "web": "https://www.gatujuristerna.com/"
     },
     {
+      "entry": 1236570154,
+      "orgNumber": "252000-6970",
+      "orgName": "Vr\u00e5 F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby/vra-forsamling"
+    },
+    {
+      "entry": 1236571301,
+      "orgNumber": "252000-1807",
+      "orgName": "Tensta F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vattholma/tensta"
+    },
+    {
       "entry": 1236571343,
       "orgNumber": "872000-2743",
       "orgName": "Arvika Golfklubb",
@@ -19511,6 +19826,15 @@
         "yoga"
       ],
       "web": "https://purusa.nu/"
+    },
+    {
+      "entry": 1236624852,
+      "orgNumber": "252004-1704",
+      "orgName": "Roslagsbro-V\u00e4t\u00f6 F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/roslagsbro-vato-forsamling"
     },
     {
       "entry": 1236625628,
