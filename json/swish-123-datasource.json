@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-06-rev-021118",
+    "date": "2022-07-06-rev-132935",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -929,6 +929,16 @@
       "web": "http://ontraining.se/"
     },
     {
+      "entry": 1230379362,
+      "orgNumber": "252003-1382",
+      "orgName": "Karlstads Pastorat",
+      "comment": "Musikverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/karlstadspastorat"
+    },
+    {
       "entry": 1230392142,
       "orgNumber": "969650-4647",
       "orgName": "Yoga i Hagen / Male & Female Production HB",
@@ -1398,6 +1408,16 @@
         "religion"
       ],
       "web": "https://www.bottnarydpingst.se/"
+    },
+    {
+      "entry": 1230567289,
+      "orgNumber": "252003-1382",
+      "orgName": "Karlstads Pastorat",
+      "comment": "S\u00f6ndagens kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/karlstadspastorat"
     },
     {
       "entry": 1230576884,
@@ -12029,6 +12049,16 @@
       "web": "https://oasrorelsen.se/"
     },
     {
+      "entry": 1234126017,
+      "orgNumber": "252003-1382",
+      "orgName": "Karlstads Pastorat",
+      "comment": "Nattcaf\u00e9 Vinterv\u00e4rme",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/karlstadspastorat"
+    },
+    {
       "entry": 1234133484,
       "orgNumber": "895401-2202",
       "orgName": "Grundfors Byaf\u00f6rening",
@@ -14670,6 +14700,16 @@
       "web": "https://bonetaget.se/"
     },
     {
+      "entry": 1235111984,
+      "orgNumber": "252003-1382",
+      "orgName": "Karlstads Pastorat",
+      "comment": "Barnverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/karlstadspastorat"
+    },
+    {
       "entry": 1235114285,
       "orgNumber": "802001-1964",
       "orgName": "Genealogiska F\u00f6reningen",
@@ -16152,6 +16192,15 @@
       "web": "https://www.brunnsparken.com/"
     },
     {
+      "entry": 1235527619,
+      "orgNumber": "802465-3092",
+      "orgName": "\u00c4nglakatten",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "http://www.anglakatten.se/"
+    },
+    {
       "entry": 1235528179,
       "orgNumber": "894000-4040",
       "orgName": "V\u00e4nn\u00e4sbygdens Hembygdsf\u00f6rening",
@@ -16218,6 +16267,16 @@
         "psykisk h\u00e4lsa"
       ],
       "web": "http://www.kungoverlivet.se/"
+    },
+    {
+      "entry": 1235537113,
+      "orgNumber": "252003-1382",
+      "orgName": "Karlstads Pastorat",
+      "comment": "Ungdomsbussen & Jul\u00e4nglarna",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/karlstadspastorat"
     },
     {
       "entry": 1235544168,
@@ -16718,6 +16777,16 @@
         "religion"
       ],
       "web": "http://pingstlinkoping.se/"
+    },
+    {
+      "entry": 1235704317,
+      "orgNumber": "252003-1382",
+      "orgName": "Karlstads Pastorat",
+      "comment": "Diakonalt arbete",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/karlstadspastorat"
     },
     {
       "entry": 1235705215,

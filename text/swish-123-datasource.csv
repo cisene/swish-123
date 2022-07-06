@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-07-06-rev-021118
+# Date: 2022-07-06-rev-132935
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -100,6 +100,7 @@
 "1230375576","802512-6163","Fiskebåten Edit KN18 Karlshamn / Kulturföreningen Edits Vänner","http://www.edit.n.nu/","intresseförening,kulturförening",""
 "1230375899","802434-5632","S:t Stefanus Koinonia","https://www.stefanuskoinonia.org/","religion",""
 "1230376467","559085-2033","ON Training AB","http://ontraining.se/","gym,träning",""
+"1230379362","252003-1382","Karlstads Pastorat","https://www.svenskakyrkan.se/karlstadspastorat","religion","Musikverksamhet"
 "1230392142","969650-4647","Yoga i Hagen / Male & Female Production HB","https://www.yogaihagen.se/","massage,yoga",""
 "1230394775","556680-5528","E-biljett / AXS Sweden AB","https://solutions.axs.com/","eventarrangör",""
 "1230395517","556557-5130","Bjelleforsgruppen Kontor AB","https://www.bjellefors.se/","kontorsmaterial,trycksaker",""
@@ -149,6 +150,7 @@
 "1230563098","802453-5828","Upplands Taxklubb","http://upplandstaxklubb.com/","hundklubb,hundsport",""
 "1230564641","878002-0338","Surahammars Golfklubb","https://surahammarsgk.se/","golfklubb",""
 "1230565622","826000-0230","Pingstförsamlingen Bottnaryd","https://www.bottnarydpingst.se/","religion",""
+"1230567289","252003-1382","Karlstads Pastorat","https://www.svenskakyrkan.se/karlstadspastorat","religion","Söndagens kollekt"
 "1230576884","556187-3299","Insamlingsstilftelsen Stadium","https://www.stadium.se/sustainability/sustainability-collaborations-and-initiative/sustainability-initiativ-stadium-foundation","stiftelse",""
 "1230579458","812400-3412","Hanviksens SK Ishockey T06","https://hanvikenssk.myclub.se/ishockey/thhteam06","ishockeyklubb",""
 "1230594143","843000-6067","Höganäs GF, HGF","http://www.hoganasgf.se/","gymnastikförening",""
@@ -1237,6 +1239,7 @@
 "1234106720","559303-8218","Zakrisdal Outdoor Padel AB","https://www.matchi.se/facilities/ZakrisdalOutdoorPadel","padelspel",""
 "1234106902","802534-8619","Laholm IF FIK - Friidrott","https://www.laholmsif.se/","idrottsförening",""
 "1234123840","863500-6730","Oasrörelsen i Sverige","https://oasrorelsen.se/","religion",""
+"1234126017","252003-1382","Karlstads Pastorat","https://www.svenskakyrkan.se/karlstadspastorat","religion","Nattcafé Vintervärme"
 "1234133484","895401-2202","Grundfors Byaförening","http://grundfors.com/","förening,hembygdsförening",""
 "1234133682","894002-7827","Vännäs Brukshundklubb","http://vannasbhk.weebly.com/","brukshundsklubb,hundsport","Fika"
 "1234134482","802407-2251","Kvinnojouren Täby/Danderyd","https://kvinnojourentabydanderyd.se/","kvinnojour,tjejjour",""
@@ -1510,6 +1513,7 @@
 "1235111349","863500-0956","Equmeniakyrkan Gråbo","http://www.equmeniakyrkangrabo.se/","donation,religion",""
 "1235111638","829502-7471","Växjö IBK Utveckling","https://www.laget.se/VaxjoIBKU/","idrottsförening,innebandyklubb",""
 "1235111828","802420-3021","Bönetåget","https://bonetaget.se/","religion",""
+"1235111984","252003-1382","Karlstads Pastorat","https://www.svenskakyrkan.se/karlstadspastorat","religion","Barnverksamhet"
 "1235114285","802001-1964","Genealogiska Föreningen","https://www.genealogi.net/","genealogi,släktforskning",""
 "1235115829","802444-8717","Greksåsars Byalag","http://www.greksasar.org/","byalag,förening",""
 "1235116033","556980-7661","Nordiska Veteranbilstv AB","http://www.veteranbilstv.se/","bilvård,veteranbil",""
@@ -1661,6 +1665,7 @@
 "1235526215","812800-1388","Huddinge Gymnastikförening","http://www.huddingegf.se/","gymnastikförening,truppgymnastik",""
 "1235526900","935000-3928","Senorens Missionshus","http://www.senorensmissionshus.se/","religion",""
 "1235527098","775000-0734","Föreningen Folkets Park Örebro","https://www.brunnsparken.com/","folkrörelse,trivseldans",""
+"1235527619","802465-3092","Änglakatten","http://www.anglakatten.se/","djurskydd",""
 "1235528179","894000-4040","Vännäsbygdens Hembygdsförening","http://www.vannasbygdenshembygdsforening.se/","hembygdsförening",""
 "1235528237","878000-8432","Västerås IK Fotboll","https://www.vik-fotboll.com/","fotbollsklubb,idrottsförening",""
 "1235528724","849600-1424","Valinge IF","https://www.laget.se/ValingeIF/","idrottsförening",""
@@ -1668,6 +1673,7 @@
 "1235532064","873201-9602","Grums IK Hockey","https://www.hockeyettan.se/grums-ik-hockey/","idrottsförening,ishockeyklubb",""
 "1235532304","802430-3375","Åsele Nya Golfklubb","https://aselegk.com/","golfklubb",""
 "1235533393","802467-1201","Kung Över Livet","http://www.kungoverlivet.se/","npf-diagnoser,psykisk hälsa",""
+"1235537113","252003-1382","Karlstads Pastorat","https://www.svenskakyrkan.se/karlstadspastorat","religion","Ungdomsbussen & Julänglarna"
 "1235544168","802013-4642","Cornelis Vreeswijksällskapet","https://www.cornelis.se/","intresseförening,kultur,musik",""
 "1235557756","556921-8059","Tillman Entertainment AB","https://helasverigeskramlar.nu/","event,underhållning",""
 "1235557764","802002-8711","Svenska Röda Korset","https://www.rodakorset.se/","donation",""
@@ -1720,6 +1726,7 @@
 "1235696356","883201-8959","PRO Svärdsjö","https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-falun/foreningar/svardsjo.html","pensionärsklubb",""
 "1235703657","556067-9564","Sadelmakarna i Stockholm AB","https://sadelmakarna.com/","försäljning,reparationer",""
 "1235704168","822000-3811","Sionförsamlingen I Linköping","http://pingstlinkoping.se/","religion",""
+"1235704317","252003-1382","Karlstads Pastorat","https://www.svenskakyrkan.se/karlstadspastorat","religion","Diakonalt arbete"
 "1235705215","802005-6050","Björkhagens Golfklubb","https://www.bjgk.se/","golfklubb",""
 "1235708714","849600-7413","Varbergs Kvinnojour","https://www.varbergskvinnojour.se/","kvinnojour,tjejjour",""
 "1235709696","559029-6447","Susedalens Hälsocenter / Susedalen Health & Consulting AB","https://www.susedalenshalsocenter.com/","hälsa",""

@@ -843,6 +843,14 @@ entries:
   - träning
   web: http://ontraining.se/
 
+- entry: 1230379362
+  orgName: Karlstads Pastorat
+  orgNumber: 252003-1382
+  comment: Musikverksamhet
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/karlstadspastorat
+
 - entry: 1230392142
   orgName: Yoga i Hagen / Male & Female Production HB
   orgNumber: 969650-4647
@@ -1279,6 +1287,14 @@ entries:
   categories:
   - religion
   web: https://www.bottnarydpingst.se/
+
+- entry: 1230567289
+  orgName: Karlstads Pastorat
+  orgNumber: 252003-1382
+  comment: Söndagens kollekt
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/karlstadspastorat
 
 - entry: 1230576884
   orgName: Insamlingsstilftelsen Stadium
@@ -10869,6 +10885,14 @@ entries:
   - religion
   web: https://oasrorelsen.se/
 
+- entry: 1234126017
+  orgName: Karlstads Pastorat
+  orgNumber: 252003-1382
+  comment: Nattcafé Vintervärme
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/karlstadspastorat
+
 - entry: 1234133484
   orgName: Grundfors Byaförening
   orgNumber: 895401-2202
@@ -13234,6 +13258,14 @@ entries:
   - religion
   web: https://bonetaget.se/
 
+- entry: 1235111984
+  orgName: Karlstads Pastorat
+  orgNumber: 252003-1382
+  comment: Barnverksamhet
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/karlstadspastorat
+
 - entry: 1235114285
   orgName: Genealogiska Föreningen
   orgNumber: 802001-1964
@@ -14590,6 +14622,14 @@ entries:
   - trivseldans
   web: https://www.brunnsparken.com/
 
+- entry: 1235527619
+  orgName: Änglakatten
+  orgNumber: 802465-3092
+  comment: null
+  categories:
+  - djurskydd
+  web: http://www.anglakatten.se/
+
 - entry: 1235528179
   orgName: Vännäsbygdens Hembygdsförening
   orgNumber: 894000-4040
@@ -14650,6 +14690,14 @@ entries:
   - npf-diagnoser
   - psykisk hälsa
   web: http://www.kungoverlivet.se/
+
+- entry: 1235537113
+  orgName: Karlstads Pastorat
+  orgNumber: 252003-1382
+  comment: Ungdomsbussen & Julänglarna
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/karlstadspastorat
 
 - entry: 1235544168
   orgName: Cornelis Vreeswijksällskapet
@@ -15091,6 +15139,14 @@ entries:
   categories:
   - religion
   web: http://pingstlinkoping.se/
+
+- entry: 1235704317
+  orgName: Karlstads Pastorat
+  orgNumber: 252003-1382
+  comment: Diakonalt arbete
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/karlstadspastorat
 
 - entry: 1235705215
   orgName: Björkhagens Golfklubb
