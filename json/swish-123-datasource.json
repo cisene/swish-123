@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-05-rev-025109",
+    "date": "2022-07-06-rev-021118",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2327,6 +2327,16 @@
       "web": "https://www.oresundsgk.se/"
     },
     {
+      "entry": 1230910877,
+      "orgNumber": "802503-2700",
+      "orgName": "Kvibergskatterna",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://kvibergskatterna.se/"
+    },
+    {
       "entry": 1230912287,
       "orgNumber": "802411-3667",
       "orgName": "Kvinnors R\u00e4tt",
@@ -2799,6 +2809,16 @@
       "web": "https://www.masterolofsgarden.se/"
     },
     {
+      "entry": 1231089549,
+      "orgNumber": "802514-0446",
+      "orgName": "Heml\u00f6sa Tassar",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "http://hemlosatassar.se/"
+    },
+    {
       "entry": 1231089556,
       "orgNumber": "878000-5321",
       "orgName": "V\u00e4ster\u00e5s BK - Brottning",
@@ -2847,6 +2867,16 @@
         "f\u00f6rening"
       ],
       "web": "https://vadtorp.bokamera.se/"
+    },
+    {
+      "entry": 1231099548,
+      "orgNumber": "802468-3859",
+      "orgName": "Fisks\u00e4tra Kattf\u00f6rening",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "http://www.fisksatrakatthem.se/"
     },
     {
       "entry": 1231102086,
@@ -3153,6 +3183,16 @@
         "stiftelse"
       ],
       "web": "http://www.stiftelsenyoung.se/"
+    },
+    {
+      "entry": 1231217421,
+      "orgNumber": "802506-8050",
+      "orgName": "Mussehj\u00e4lpen - Hj\u00e4lper Katter i N\u00f6d",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://mussehjalpen.com/"
     },
     {
       "entry": 1231218163,
@@ -3467,6 +3507,15 @@
         "religion"
       ],
       "web": "https://grannapingst.se/"
+    },
+    {
+      "entry": 1231312883,
+      "orgNumber": "802406-7103",
+      "orgName": "#claravintern / F\u00f6reningen S:TA Clara Kyrka",
+      "categories": [
+        "humanit\u00e4r hj\u00e4lpverksamhet"
+      ],
+      "web": "https://claravintern.nu/"
     },
     {
       "entry": 1231312990,
@@ -4913,6 +4962,16 @@
       "web": "https://pingsteskilstunaweb.se/"
     },
     {
+      "entry": 1231766211,
+      "orgNumber": "802529-3344",
+      "orgName": "Heml\u00f6sa Katter Kalmar",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://hkkalmar.se/"
+    },
+    {
       "entry": 1231766708,
       "orgNumber": "570312-XXXX",
       "orgName": "Darin Trafikskola",
@@ -5110,6 +5169,17 @@
         "tjejjour"
       ],
       "web": "http://www.kvinnojoureniosteraker.se/"
+    },
+    {
+      "entry": 1231825603,
+      "orgNumber": "802480-9223",
+      "orgName": "Insamlingsstiftelsen Kattjouren",
+      "categories": [
+        "djurskydd",
+        "katthem",
+        "stiftelse"
+      ],
+      "web": "https://kattjouren.nu/"
     },
     {
       "entry": 1231829738,
@@ -5798,6 +5868,16 @@
       "orgNumber": "559284-9854",
       "orgName": "HairAgain Nordic AB",
       "web": "https://www.hairagain.se/"
+    },
+    {
+      "entry": 1232072312,
+      "orgNumber": "802513-6576",
+      "orgName": "ADA-Hundar En Andra Chans",
+      "categories": [
+        "djurskydd",
+        "hundhem"
+      ],
+      "web": "http://www.enandrachans.org/"
     },
     {
       "entry": 1232073310,
@@ -12051,6 +12131,15 @@
       "web": "https://ansgarsforsamlingen.se/"
     },
     {
+      "entry": 1234171690,
+      "orgNumber": "873200-3432",
+      "orgName": "Djurskyddet Karlstad",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "https://www.djurskyddet.se/karlstad/"
+    },
+    {
       "entry": 1234171799,
       "orgNumber": "817602-3805",
       "orgName": "Stiftelsen Dynamis V\u00e4rldsevangelisation",
@@ -16332,6 +16421,15 @@
         "f\u00f6rening"
       ],
       "web": "https://stenhammarsallskapet.com/"
+    },
+    {
+      "entry": 1235607965,
+      "orgNumber": "857202-3045",
+      "orgName": "Caf\u00e9 Trappan\u00e9r / G\u00f6teborgs Baptistf\u00f6rsamling",
+      "categories": [
+        "cafe"
+      ],
+      "web": "http://www.cafetrappaner.se/"
     },
     {
       "entry": 1235614268,
@@ -21541,7 +21639,8 @@
       "orgNumber": "843003-3160",
       "orgName": "Insamlingsstiftelsen St\u00f6dfonden f\u00f6r heml\u00f6sa i Helsingborg",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.stodfondenhemlosa.se/"
     },

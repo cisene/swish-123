@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-07-05-rev-025110
+# Date: 2022-07-06-rev-021118
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -242,6 +242,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230898841	601206-XXXX	Worship Sweden Production	https://www.stefanjernsand.se/	donation,religion	
 1230899302	894000-1558	Sandviks IK	http://www.sandviksik.se/	idrottsförening	Kiosken
 1230904508	559237-1883	Öresunds Golf / Nya Öresundsgolf i Häljarp AB	https://www.oresundsgk.se/	golfklubb	
+1230910877	802503-2700	Kvibergskatterna	https://kvibergskatterna.se/	djurskydd,katthem	
 1230912287	802411-3667	Kvinnors Rätt	https://kvinnorsratt.se/	kvinnojour,tjejjour	
 1230912972	884400-8469	Särna Hembygdsförening	http://www.sarnahembygdsforening.se/	hembygdsförening	
 1230916320	822003-3552	Insamlingsstiftelsen för Muskeldystrofiforskning	https://www.smdf.se/	donation,forskning,muskeldystrofi,stiftelse	
@@ -290,11 +291,13 @@ entry	orgNumber	orgName	web	categories	comment
 1231079706	559093-5127	Charity Yoga / Marie Mallmin AB	https://www.charityyoga.se/	utbildning,välgörenhet,yoga	
 1231083401	559141-8438	Fotvalvet / EC Moments AB	https://www.fotvalvet.nu/	fotvård,friskvård	
 1231083948	802006-0730	Mäster Olofsgården	https://www.masterolofsgarden.se/	barnverksamhet,ungdomsverksamhet	
+1231089549	802514-0446	Hemlösa Tassar	http://hemlosatassar.se/	djurskydd,katthem	
 1231089556	878000-5321	Västerås BK - Brottning	http://www.vasterasbrottarklubb.se/	brottning,brottningsklubb,intresseförening	Café
 1231095017	802006-1688	Frälsningsarmén	https://fakalmar.se/	religion	Kalmar
 1231095561	802487-8806	Kvinnojouren i Stenungsund	http://kvinnojouren-stenungsund.se/	kvinnojour,tjejjour	
 1231096536	823000-9709	Brottsofferjouren Västra Östergötland	https://www.brottsofferjouren.se/	intresseförening	
 1231098391	802494-6504	Föreningen Vadtorps Vänner	https://vadtorp.bokamera.se/	förening	
+1231099548	802468-3859	Fisksätra Kattförening	http://www.fisksatrakatthem.se/	djurskydd,katthem	
 1231102086	802489-0082	SPF Seniorerna Björkekärr	https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/spf-seniorerna-bjorkekarr-/	pensionärsklubb	
 1231102508	556532-9090	Önskestjärnan	https://önskestjärnan.se/	horoskop,medium,reiki,sierska,spiritualism	
 1231104090	802417-3638	Katrineholm-Flen-Vingåkers Släktforskarförening	https://kfvslakt.se/	genealogi,släktforskning	
@@ -326,6 +329,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231203454	875000-2522	Stora Mellösa Baptistförsamling	http://www.baptistkyrkan.com/	religion	
 1231204114	252000-0650	Brännkyrka Församling	https://www.brannkyrka.org/	religion	Söndagens kollekt Brännkyrka kyrka
 1231206432	802479-8327	Insamlingsstiftelsen Y.O.U.N.G.	http://www.stiftelsenyoung.se/	stiftelse	
+1231217421	802506-8050	Mussehjälpen - Hjälper Katter i Nöd	https://mussehjalpen.com/	djurskydd,katthem	
 1231218163	802504-5249	HOPE FOR THIS NATION, Sweden	https://www.hopeforthisnation.com/	hjälporganisation,religion	
 1231220037	802433-2192	Föreningen Aktiva Hundar i Linköping	http://www.aktivahundar.org/	hundklubb,hundsport	
 1231222496	802496-4655	Sveriges Kaninvälfärdsförening	https://skvf.se/	djurvård,husdjur	
@@ -358,6 +362,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231305937	802474-7910	SCA Network	https://www.sca-network.com/	donation,forskning	
 1231307099	827001-1839	Kvinnojouren Nässjö	https://kvinnojourennassjo.se/	kvinnojour,tjejjour	
 1231312776	826000-0735	Gränna Pingst	https://grannapingst.se/	religion	
+1231312883	802406-7103	#claravintern / Föreningen S:TA Clara Kyrka	https://claravintern.nu/	humanitär hjälpverksamhet	
 1231312990	802011-5484	Buddhistiska Gemenskapen Triratna	https://stockholmsbuddhistcenter.se/	meditation,religion	
 1231314095	556672-6260	Jami Hundsport AB	https://jamihundsport.se/	försäljning,hundsport	
 1231318336	802518-2257	Svenska Smålandsstövareföreningen	http://www.smalandsstovaren.se/	förening,hundklubb	
@@ -505,6 +510,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231757111	894002-3495	Hjåggsjödrakarna	http://www.hjaggsjodrakarna.se/	hembygdsförening,intresseorganisation	
 1231758663	822000-2805	Linköpings Missionsförsamling	https://equmeniakyrkanlinkoping.se/	religion	
 1231758945	818000-0815	Pingstförsamlingen i Eskilstuna	https://pingsteskilstunaweb.se/	religion	
+1231766211	802529-3344	Hemlösa Katter Kalmar	https://hkkalmar.se/	djurskydd,katthem	
 1231766708	570312-XXXX	Darin Trafikskola	https://darintrafikskola.se/	trafikskola,utbildning	
 1231767656	721211-XXXX	Kinds Golfrestaurang	https://kindsgolfrestaurang.se/	restaurant	
 1231769546	802529-7923	Sofialäktaren TIFO	https://www.jarnkaminerna.se/sofialaktaren-tifo/	supporterklubb	
@@ -525,6 +531,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231822899	252003-9203	Frostvikens församling / Strömsunds pastorat	https://www.svenskakyrkan.se/stromsund/frostvikens-forsamling	religion	
 1231823772	802004-1565	Svensk-Kubanska Föreningen	https://svensk-kubanska.se/	intresseförening	Insamlingskontot Mediciner för Kuba
 1231824796	802408-9602	Kvinnojouren I Österåker	http://www.kvinnojoureniosteraker.se/	kvinnojour,tjejjour	
+1231825603	802480-9223	Insamlingsstiftelsen Kattjouren	https://kattjouren.nu/	djurskydd,katthem,stiftelse	
 1231829738	827500-4730	Missionssällskapet Fackelbärarna	https://www.holsby.org/	religion	
 1231835420	878000-6428	Nygammal Dansförening, NGDF	http://www.ngdf.se/	dansförening,motionsdans	
 1231839760	897300-0261	Kiruna jakt- och fiskevårdsförening	https://www.kirunajaktochfiske.se/	förening,naturvård,viltvård	Älgbanan(kula)
@@ -596,6 +603,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232045060	701010-XXXX	Yoga med L8 / Lotta Fröjdfeldt	https://www.yogamedl8.se/priser	meditation,yoga	
 1232047231	802523-3845	Vänföreningen Fogelstad	https://fogelstadsvanforening.se/	förening	
 1232055309	559284-9854	HairAgain Nordic AB	https://www.hairagain.se/		
+1232072312	802513-6576	ADA-Hundar En Andra Chans	http://www.enandrachans.org/	djurskydd,hundhem	
 1232073310	802468-9559	Kvinnojouren Olivia	https://www.unizonjourer.se/kvinnojourenolivia/	kvinnojour,tjejjour	
 1232074235	916671-3934	Carl von Linnékliniken	https://www.linne.se/	fertilitetsklinik,hälsa	
 1232080620	559166-0294	Cecilia Kyllinge Humor, Musik & Allvar AB	https://www.ceciliakyllinge.se/	musik,underhållning	
@@ -1239,6 +1247,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234162988	802535-7305	Mediumförbundet	https://mediumforbundet.se/	förbund,medium,spiritualism	
 1234170551	530530-XXXX	Lena Prästgård Ridhus / Ove Stenson	https://www.lenaprastgard.se/	ridhus,stallplats	
 1234170890	878000-8499	Equmenia Ansgarskyrkan Västerås	https://ansgarsforsamlingen.se/	religion	
+1234171690	873200-3432	Djurskyddet Karlstad	https://www.djurskyddet.se/karlstad/	djurskydd	
 1234171799	817602-3805	Stiftelsen Dynamis Världsevangelisation	https://www.dynamisworldministries.com/swedish-svenska	religion,stiftelse	
 1234181657	814801-0815	Kvinnojouren Sigtuna	https://www.unizonjourer.se/kvinnojourensigtuna/	kvinnojour,tjejjour	
 1234183307	802465-8414	Djurens Vänner Mönsterås	https://www.djurensvanner.se/monsteras	djurskydd	
@@ -1680,6 +1689,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235606199	825001-7327	Lindö Minigolf och Haga Bangolfklubb	https://hagabgk.se/	golfklubb,minigolf	
 1235607312	802521-2104	Tails Rescue Sweden	https://tailsrescuesweden.org/	djurskydd,hundhem	
 1235607395	802503-4813	Wilhelm Stenhammar-Sällskapet	https://stenhammarsallskapet.com/	förening	
+1235607965	857202-3045	Café Trappanér / Göteborgs Baptistförsamling	http://www.cafetrappaner.se/	cafe	
 1235614268	878002-3035	ABB Bridge Klubb	https://www.svenskbridge.se/abb-bk	bridge,bridgeklubb	
 1235615133	817300-0178	Nordupplandskyrkan	http://nordupplandskyrkan.se/	religion	
 1235615588	846501-6510	Videdals GIF	https://www.videdalsgif.se/	gymnastik,idrottsförening	
@@ -2219,7 +2229,7 @@ entry	orgNumber	orgName	web	categories	comment
 1239003419	826002-2630	Sam-Hjälp	https://www.samhjalp.se/	insamlingskontroll	
 1239003443	815600-8784	Brottsofferjouren	https://www.brottsofferjouren.se/	insamlingskontroll	
 1239003518	802003-1954	Stockholms Stadsmission	https://www.stadsmissionen.se/	insamlingskontroll	
-1239003526	843003-3160	Insamlingsstiftelsen Stödfonden för hemlösa i Helsingborg	https://www.stodfondenhemlosa.se/	insamlingskontroll	
+1239003526	843003-3160	Insamlingsstiftelsen Stödfonden för hemlösa i Helsingborg	https://www.stodfondenhemlosa.se/	insamlingskontroll,stiftelse	
 1239003609	802407-4125	Insamlingsstiftelsen Cancer- och Allergifonden	https://www.cancerochallergifonden.se/	insamlingskontroll	
 1239003625	802003-0972	Ljus i Öster	https://www.ljusioster.se/	insamlingskontroll	
 1239003633	802477-8188	Insamlingsstiftelsen Sightsavers International, Sverige	https://www.sightsavers.se/	insamlingskontroll	

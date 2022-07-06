@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-07-06-rev-021021
+Date:     2022-07-06-rev-021118
 ...
 
 # Swish 123 Nummer
@@ -364,7 +364,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231305937 | 802474-7910 | SCA Network                                                                                          | [Link](https://www.sca-network.com/) |
 | 1231307099 | 827001-1839 | Kvinnojouren Nässjö                                                                                  | [Link](https://kvinnojourennassjo.se/) |
 | 1231312776 | 826000-0735 | Gränna Pingst                                                                                        | [Link](https://grannapingst.se/) |
-| 1231312883 | 802406-7103 | \#claravintern / Föreningen S:TA Clara Kyrka                                                         | [Link](https://claravintern.nu/) |
+| 1231312883 | 802406-7103 | #claravintern / Föreningen S:TA Clara Kyrka                                                          | [Link](https://claravintern.nu/) |
 | 1231312990 | 802011-5484 | Buddhistiska Gemenskapen Triratna                                                                    | [Link](https://stockholmsbuddhistcenter.se/) |
 | 1231314095 | 556672-6260 | Jami Hundsport AB                                                                                    | [Link](https://jamihundsport.se/) |
 | 1231318336 | 802518-2257 | Svenska Smålandsstövareföreningen                                                                    | [Link](http://www.smalandsstovaren.se/) |
