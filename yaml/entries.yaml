@@ -2111,6 +2111,15 @@ entries:
   - golfklubb
   web: https://www.oresundsgk.se/
 
+- entry: 1230910877
+  orgName: Kvibergskatterna
+  orgNumber: 802503-2700
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://kvibergskatterna.se/
+
 - entry: 1230912287
   orgName: Kvinnors Rätt
   orgNumber: 802411-3667
@@ -2528,6 +2537,15 @@ entries:
   - ungdomsverksamhet
   web: https://www.masterolofsgarden.se/
 
+- entry: 1231089549
+  orgName: Hemlösa Tassar
+  orgNumber: 802514-0446
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: http://hemlosatassar.se/
+
 - entry: 1231089556
   orgName: Västerås BK - Brottning
   orgNumber: 878000-5321
@@ -2570,6 +2588,15 @@ entries:
   categories:
   - förening
   web: https://vadtorp.bokamera.se/
+
+- entry: 1231099548
+  orgName: Fisksätra Kattförening
+  orgNumber: 802468-3859
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: http://www.fisksatrakatthem.se/
 
 - entry: 1231102086
   orgName: SPF Seniorerna Björkekärr
@@ -2857,6 +2884,15 @@ entries:
   - stiftelse
   web: http://www.stiftelsenyoung.se/
 
+- entry: 1231217421
+  orgName: Mussehjälpen - Hjälper Katter i Nöd
+  orgNumber: 802506-8050
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://mussehjalpen.com/
+
 - entry: 1231218163
   orgName: HOPE FOR THIS NATION, Sweden
   orgNumber: 802504-5249
@@ -3136,6 +3172,14 @@ entries:
   categories:
   - religion
   web: https://grannapingst.se/
+
+- entry: 1231312883
+  orgName: \#claravintern / Föreningen S:TA Clara Kyrka
+  orgNumber: 802406-7103
+  comment: null
+  categories:
+  - humanitär hjälpverksamhet
+  web: https://claravintern.nu/
 
 - entry: 1231312990
   orgName: Buddhistiska Gemenskapen Triratna
@@ -4430,6 +4474,15 @@ entries:
   - religion
   web: https://pingsteskilstunaweb.se/
 
+- entry: 1231766211
+  orgName: Hemlösa Katter Kalmar
+  orgNumber: 802529-3344
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://hkkalmar.se/
+
 - entry: 1231766708
   orgName: Darin Trafikskola
   orgNumber: 570312-XXXX
@@ -4607,6 +4660,16 @@ entries:
   - kvinnojour
   - tjejjour
   web: http://www.kvinnojoureniosteraker.se/
+
+- entry: 1231825603
+  orgName: Insamlingsstiftelsen Kattjouren
+  orgNumber: 802480-9223
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  - stiftelse
+  web: https://kattjouren.nu/
 
 - entry: 1231829738
   orgName: Missionssällskapet Fackelbärarna
@@ -5217,6 +5280,15 @@ entries:
   comment: null
   categories: null
   web: https://www.hairagain.se/
+
+- entry: 1232072312
+  orgName: ADA-Hundar En Andra Chans
+  orgNumber: 802513-6576
+  comment: null
+  categories:
+  - djurskydd
+  - hundhem
+  web: http://www.enandrachans.org/
 
 - entry: 1232073310
   orgName: Kvinnojouren Olivia
@@ -10886,6 +10958,14 @@ entries:
   - religion
   web: https://ansgarsforsamlingen.se/
 
+- entry: 1234171690
+  orgName: Djurskyddet Karlstad
+  orgNumber: 873200-3432
+  comment: null
+  categories:
+  - djurskydd
+  web: https://www.djurskyddet.se/karlstad/
+
 - entry: 1234171799
   orgName: Stiftelsen Dynamis Världsevangelisation
   orgNumber: 817602-3805
@@ -14748,6 +14828,14 @@ entries:
   categories:
   - förening
   web: https://stenhammarsallskapet.com/
+
+- entry: 1235607965
+  orgName: Café Trappanér / Göteborgs Baptistförsamling
+  orgNumber: 857202-3045
+  comment: null
+  categories:
+  - cafe
+  web: http://www.cafetrappaner.se/
 
 - entry: 1235614268
   orgName: ABB Bridge Klubb
@@ -19899,6 +19987,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.stodfondenhemlosa.se/
 
 - entry: 1239003583
