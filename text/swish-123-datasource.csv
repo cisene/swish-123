@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-07-08-rev-132551
+# Date: 2022-07-09-rev-185245
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -265,6 +265,7 @@
 "1230928366","802443-7371","Ragunda Skoterklubb","https://www.ragundaskoterklubb.com/","skoterklubb,sport",""
 "1230938324","826000-0743","Pingstförsamlingen Tenhult","http://www.tenhult.pingst.se/","religion","Fika, läger, övrigt"
 "1230941179","690131-XXXX","Kalvbergsåsens Islandshästar","https://kalvbergsasen.se/","hästsport,ridläger,ridskola,turridning",""
+"1230961656","252000-8083","Visby Domkyrkoförsamling","https://www.svenskakyrkan.se/visby","religion","Natthärberget Birkagården"
 "1230970475","829502-6853","Djurens Vänner Växjö","https://www.djurensvanner.se/vaxjo","djurskydd",""
 "1230987982","845001-7788","Kvinnojouren Lund","https://kvinnojourenlund.se/","kvinnojour,tjejjour",""
 "1230988303","862501-3324","Sundals Ryrs Byalag","http://sundalsryr.se/","byalag",""
@@ -409,6 +410,7 @@
 "1231410257","556540-0289","Restaurang Thai Corner AB","https://thaicorner.se/","restaurant,thaimat",""
 "1231413020","843001-5639","Kvinnojouren Helsingborg","https://www.unizonjourer.se/helsingborgskvinnojour/","kvinnojour,tjejjour",""
 "1231413046","828001-0227","Värnamo Kvinno- och tjejjour","https://www.unizonjourer.se/varnamokvinnojour/","kvinnojour,tjejjour",""
+"1231432749","802010-4876","Hobby & Leksaksmuseum Stiftelsen","https://www.leksaksmuseet.se/","leksaker,museum,stiftelse",""
 "1231432814","802430-1452","Eskilstuna Friidrottsförening","https://www.eskilstunafriidrott.se/","friidrott,idrottsförening",""
 "1231436377","802508-5112","Solshesters MCK - Motorcykel och Snöskoter","https://www.solshestersmck.se/","motorcykelklubb,motorsport,snöskoterklubb",""
 "1231438100","833600-5478","Djurskyddet Västervik","https://www.djurskyddetvastervik.se/","djurskydd",""
@@ -527,6 +529,7 @@
 "1231747039","814000-6613","Boo Folkets Hus Föreningen","https://www.boofolketshus.se/","förening",""
 "1231747146","802452-7254","Svensk Förening för Resemedicin","http://www.sefr.se/","förening,hälsa,medicin",""
 "1231757111","894002-3495","Hjåggsjödrakarna","http://www.hjaggsjodrakarna.se/","hembygdsförening,intresseorganisation",""
+"1231757533","252000-8083","Visby Domkyrkoförsamling","https://www.svenskakyrkan.se/visby","religion","Gåva"
 "1231758663","822000-2805","Linköpings Missionsförsamling","https://equmeniakyrkanlinkoping.se/","religion",""
 "1231758945","818000-0815","Pingstförsamlingen i Eskilstuna","https://pingsteskilstunaweb.se/","religion",""
 "1231766211","802529-3344","Hemlösa Katter Kalmar","https://hkkalmar.se/","djurskydd,katthem",""
@@ -1458,6 +1461,7 @@
 "1234709598","559165-9437","Naitisport AB","https://www.naitisport.se/","kosttillskott,styrketräning",""
 "1234718177","559158-2290","Skövdehem Arena AB / Billingen Skövde","https://www.vastsverige.com/billingen/","",""
 "1234718243","802442-7737","Älvräddarna","https://alvraddarna.se/","intresseförening",""
+"1234729968","252000-8083","Visby Domkyrkoförsamling","https://www.svenskakyrkan.se/visby","religion","Familj till Familj"
 "1234731154","802504-0810","Norrköpings Raggarklubb","https://www.nkpgraggare.nu/","intresseorganisation,raggarklubb,veteranbilar",""
 "1234734059","842000-4908","Höörs GDF Glada Gänget, Höörs Gammaldansförening","http://svenopias.se/dansen/","dansförening",""
 "1234734331","802477-9673","Insamlingsstiftelsen Nanne Network","http://nannenetwork.com/","stiftelse",""
@@ -2058,6 +2062,7 @@
 "1236570154","252000-6970","Vrå Församling","https://www.svenskakyrkan.se/ljungby/vra-forsamling","religion","Kollekt"
 "1236571301","252000-1807","Tensta Församling","https://www.svenskakyrkan.se/vattholma/tensta","religion",""
 "1236571343","872000-2743","Arvika Golfklubb","https://www.arvikagk.com/","golfklubb",""
+"1236571905","252000-8083","Visby Domkyrkoförsamling","https://www.svenskakyrkan.se/visby","religion","Diakonalt arbete"
 "1236581888","823000-8206","Ödeshögs Kennelklubb","http://www.odeshogskennelklubb.se/","hundklubb",""
 "1236613087","802481-5360","HFA Sverige","http://www.hf-a.org/","naturvård",""
 "1236613368","559266-5771","Andras Novak instrumentmakare AB","https://www.andrasnovak.se/","instrument,reparationer",""
@@ -2105,7 +2110,7 @@
 "1236741789","559181-2309","Simon Advokatbyrå AB","https://advokatsimon.se/","advokatbyrå,juridik,juridiska tjänster",""
 "1236750251","559085-8576","UpplevVadstena AB","https://www.upplevvadstena.se/","turism",""
 "1236758874","802003-5369","Föreningen Svenska Tonsättare, FST","https://fst.se/","musik",""
-"1236760763","802007-2743","Sveriges Hundungdom","https://www.skk.se/sv/SHU/","hundsport",""
+"1236760763","802007-2743","Sveriges Hundungdom","https://www.skk.se/sv/SHU/","hundsport,ungdomsverksamhet",""
 "1236761464","802515-2003","Junos Kamp","https://junoskamp.se/","barnsjukvård,cancer",""
 "1236761647","818001-5177","Gillberga-Lista Hembygdsförening","https://www.hembygd.se/gillberga-lista","hembygdsförening",""
 "1236764203","802502-0671","Föreningen Hjälp Utsatta Katter få Hem","https://www.hukh.se/","djurskydd,katthem",""

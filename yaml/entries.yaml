@@ -2308,6 +2308,14 @@ entries:
   - turridning
   web: https://kalvbergsasen.se/
 
+- entry: 1230961656
+  orgName: Visby Domkyrkoförsamling
+  orgNumber: 252000-8083
+  comment: Natthärberget Birkagården
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/visby
+
 - entry: 1230970475
   orgName: Djurens Vänner Växjö
   orgNumber: 829502-6853
@@ -3575,6 +3583,16 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/varnamokvinnojour/
 
+- entry: 1231432749
+  orgName: Hobby & Leksaksmuseum Stiftelsen
+  orgNumber: 802010-4876
+  comment: null
+  categories:
+  - leksaker
+  - museum
+  - stiftelse
+  web: https://www.leksaksmuseet.se/
+
 - entry: 1231432814
   orgName: Eskilstuna Friidrottsförening
   orgNumber: 802430-1452
@@ -4612,6 +4630,14 @@ entries:
   - hembygdsförening
   - intresseorganisation
   web: http://www.hjaggsjodrakarna.se/
+
+- entry: 1231757533
+  orgName: Visby Domkyrkoförsamling
+  orgNumber: 252000-8083
+  comment: Gåva
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/visby
 
 - entry: 1231758663
   orgName: Linköpings Missionsförsamling
@@ -12754,6 +12780,14 @@ entries:
   - intresseförening
   web: https://alvraddarna.se/
 
+- entry: 1234729968
+  orgName: Visby Domkyrkoförsamling
+  orgNumber: 252000-8083
+  comment: Familj till Familj
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/visby
+
 - entry: 1234731154
   orgName: Norrköpings Raggarklubb
   orgNumber: 802504-0810
@@ -18047,6 +18081,14 @@ entries:
   - golfklubb
   web: https://www.arvikagk.com/
 
+- entry: 1236571905
+  orgName: Visby Domkyrkoförsamling
+  orgNumber: 252000-8083
+  comment: Diakonalt arbete
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/visby
+
 - entry: 1236581888
   orgName: Ödeshögs Kennelklubb
   orgNumber: 823000-8206
@@ -18486,6 +18528,7 @@ entries:
   comment: null
   categories:
   - hundsport
+  - ungdomsverksamhet
   web: https://www.skk.se/sv/SHU/
 
 - entry: 1236761464

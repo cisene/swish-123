@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-08-rev-132550",
+    "date": "2022-07-09-rev-185245",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2549,6 +2549,16 @@
       "web": "https://kalvbergsasen.se/"
     },
     {
+      "entry": 1230961656,
+      "orgNumber": "252000-8083",
+      "orgName": "Visby Domkyrkof\u00f6rsamling",
+      "comment": "Natth\u00e4rberget Birkag\u00e5rden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/visby"
+    },
+    {
       "entry": 1230970475,
       "orgNumber": "829502-6853",
       "orgName": "Djurens V\u00e4nner V\u00e4xj\u00f6",
@@ -3963,6 +3973,17 @@
       "web": "https://www.unizonjourer.se/varnamokvinnojour/"
     },
     {
+      "entry": 1231432749,
+      "orgNumber": "802010-4876",
+      "orgName": "Hobby & Leksaksmuseum Stiftelsen",
+      "categories": [
+        "leksaker",
+        "museum",
+        "stiftelse"
+      ],
+      "web": "https://www.leksaksmuseet.se/"
+    },
+    {
       "entry": 1231432814,
       "orgNumber": "802430-1452",
       "orgName": "Eskilstuna Friidrottsf\u00f6rening",
@@ -5120,6 +5141,16 @@
         "intresseorganisation"
       ],
       "web": "http://www.hjaggsjodrakarna.se/"
+    },
+    {
+      "entry": 1231757533,
+      "orgNumber": "252000-8083",
+      "orgName": "Visby Domkyrkof\u00f6rsamling",
+      "comment": "G\u00e5va",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/visby"
     },
     {
       "entry": 1231758663,
@@ -14162,6 +14193,16 @@
       "web": "https://alvraddarna.se/"
     },
     {
+      "entry": 1234729968,
+      "orgNumber": "252000-8083",
+      "orgName": "Visby Domkyrkof\u00f6rsamling",
+      "comment": "Familj till Familj",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/visby"
+    },
+    {
       "entry": 1234731154,
       "orgNumber": "802504-0810",
       "orgName": "Norrk\u00f6pings Raggarklubb",
@@ -20006,6 +20047,16 @@
       "web": "https://www.arvikagk.com/"
     },
     {
+      "entry": 1236571905,
+      "orgNumber": "252000-8083",
+      "orgName": "Visby Domkyrkof\u00f6rsamling",
+      "comment": "Diakonalt arbete",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/visby"
+    },
+    {
       "entry": 1236581888,
       "orgNumber": "823000-8206",
       "orgName": "\u00d6desh\u00f6gs Kennelklubb",
@@ -20480,7 +20531,8 @@
       "orgNumber": "802007-2743",
       "orgName": "Sveriges Hundungdom",
       "categories": [
-        "hundsport"
+        "hundsport",
+        "ungdomsverksamhet"
       ],
       "web": "https://www.skk.se/sv/SHU/"
     },
