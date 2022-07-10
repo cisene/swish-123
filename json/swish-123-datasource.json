@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-10-rev-024458",
+    "date": "2022-07-10-rev-134520",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -987,6 +987,16 @@
       "web": "https://www.yogaihagen.se/"
     },
     {
+      "entry": 1230393983,
+      "orgNumber": "530111-5035",
+      "orgName": "Citrus Advokatbyr\u00e5",
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://cadvokat.se/"
+    },
+    {
       "entry": 1230394775,
       "orgNumber": "556680-5528",
       "orgName": "E-biljett / AXS Sweden AB",
@@ -1687,6 +1697,15 @@
       "web": "https://www.timberglingfoundation.org/"
     },
     {
+      "entry": 1230681866,
+      "orgNumber": "802466-5062",
+      "orgName": "Ingen M\u00e4nniska \u00e4r Illegal - Ume\u00e5",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.ingenillegal.org/umea/"
+    },
+    {
       "entry": 1230692855,
       "orgNumber": "559010-7131",
       "orgName": "Helhetsh\u00e4lsan i \u00d6sterg\u00f6tland AB",
@@ -2343,6 +2362,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.arsundaif.se/"
+    },
+    {
+      "entry": 1230879569,
+      "orgNumber": "802466-8900",
+      "orgName": "Boo & L\u00e4nnersta Villa\u00e4garef\u00f6rening",
+      "categories": [
+        "f\u00f6rening",
+        "villa\u00e4garef\u00f6rening"
+      ],
+      "web": "http://www.boovilla.se/"
     },
     {
       "entry": 1230883116,
@@ -3289,6 +3318,17 @@
       "web": "http://www.stiftelsenyoung.se/"
     },
     {
+      "entry": 1231209998,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby Lund",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1231217421,
       "orgNumber": "802506-8050",
       "orgName": "Mussehj\u00e4lpen - Hj\u00e4lper Katter i N\u00f6d",
@@ -3367,6 +3407,17 @@
         "religion"
       ],
       "web": "https://www.fiskebackskyrkan.se/"
+    },
+    {
+      "entry": 1231229731,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby Sjuh\u00e4rad",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231234848,
@@ -3891,6 +3942,15 @@
       "web": "https://www.vasterastrafikovningsplats.se/"
     },
     {
+      "entry": 1231376490,
+      "orgNumber": "802430-3755",
+      "orgName": "Ingen M\u00e4nniska \u00e4r Illegal - \u00d6stersund",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.ingenillegal.org/ostersund/"
+    },
+    {
       "entry": 1231376524,
       "orgNumber": "802475-9436",
       "orgName": "Giving People",
@@ -4372,6 +4432,15 @@
         "stallplats"
       ],
       "web": "http://www.frosohastgard.se/"
+    },
+    {
+      "entry": 1231524958,
+      "orgNumber": "802432-2292",
+      "orgName": "Ingen M\u00e4nniska \u00e4r Illegal - Stockholm",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.ingenillegal.org/stockholm/"
     },
     {
       "entry": 1231530492,
@@ -6570,6 +6639,16 @@
       "web": "https://www.kramforspingst.se/"
     },
     {
+      "entry": 1232212033,
+      "orgNumber": "894003-4138",
+      "orgName": "Sveriges Vapen\u00e4gares F\u00f6rbund",
+      "categories": [
+        "f\u00f6rbund",
+        "intresseorganisation"
+      ],
+      "web": "https://vapenagaren.se/"
+    },
+    {
       "entry": 1232213981,
       "orgNumber": "556959-7908",
       "orgName": "Jip\u00e5t AB",
@@ -7638,6 +7717,16 @@
         "antroposofisk medicin"
       ],
       "web": "https://www.phoenixmottagningen.nu/"
+    },
+    {
+      "entry": 1232532455,
+      "orgNumber": "559233-8783",
+      "orgName": "Advokatfirman Nodby AB",
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://www.advokatnodby.se/"
     },
     {
       "entry": 1232534527,
@@ -8832,6 +8921,15 @@
       "web": "https://karingberget.se/"
     },
     {
+      "entry": 1232888352,
+      "orgNumber": "846003-5150",
+      "orgName": "Rotary Doctors Sweden",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.rotarydoctors.se/"
+    },
+    {
       "entry": 1232890226,
       "orgNumber": "720227-XXXX",
       "orgName": "AD-Konsult / Tomas Hell",
@@ -9505,6 +9603,15 @@
       "web": "https://www.hogbogk.com/"
     },
     {
+      "entry": 1233124922,
+      "orgNumber": "822003-6316",
+      "orgName": "Chinese Crested Club",
+      "categories": [
+        "hundklubb"
+      ],
+      "web": "https://ccclub.se/"
+    },
+    {
       "entry": 1233126299,
       "orgNumber": "846001-9790",
       "orgName": "Synskadades Riksf\u00f6rbund Sk\u00e5ne",
@@ -9637,6 +9744,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.republikanskaforeningen.se/"
+    },
+    {
+      "entry": 1233199114,
+      "orgNumber": "802477-0987",
+      "orgName": "Shelterbox Sverige",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.shelterboxsweden.org/"
     },
     {
       "entry": 1233199254,
@@ -10122,6 +10238,16 @@
         "pool"
       ],
       "web": "https://www.xn--jnkpingsbiljardklubb-39bc.org/"
+    },
+    {
+      "entry": 1233349420,
+      "orgNumber": "559193-6546",
+      "orgName": "Appeal Advokatbyr\u00e5 AB",
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://www.appealadvokat.se/"
     },
     {
       "entry": 1233349594,
@@ -10650,6 +10776,17 @@
       "web": "https://furudalsgolf.com/"
     },
     {
+      "entry": 1233503364,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby Dalarna",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233504693,
       "orgNumber": "882000-8707",
       "orgName": "Ingvallsbenning Turbo hembygdsf\u00f6rening",
@@ -11084,6 +11221,17 @@
       "web": "https://www.virserumskonsthall.com/"
     },
     {
+      "entry": 1233636016,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby G\u00f6teborg",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233645272,
       "orgNumber": "802478-3865",
       "orgName": "Insamlingsstiftelsen Bygdens Fond",
@@ -11111,6 +11259,16 @@
         "bilsport"
       ],
       "web": "https://www.kjuladragway.com/"
+    },
+    {
+      "entry": 1233648714,
+      "orgNumber": "802511-3047",
+      "orgName": "St\u00f6ttepelaren - St\u00f6df\u00f6rening f\u00f6r Ensamkommande Barn och Ungdomar",
+      "categories": [
+        "intressef\u00f6rening",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://stottepelaren.se/"
     },
     {
       "entry": 1233648961,
@@ -11661,6 +11819,15 @@
       "web": "https://www.norlbygda.com/"
     },
     {
+      "entry": 1233881752,
+      "orgNumber": "802494-6520",
+      "orgName": "Ingen M\u00e4nniska \u00e4r Illegal - Trollh\u00e4ttan och V\u00e4nersborg",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.ingenillegal.org/trollhattan-vanersborg/"
+    },
+    {
       "entry": 1233881778,
       "orgNumber": "802433-8702",
       "orgName": "Flat\u00f6-Mal\u00f6 Hembygdsf\u00f6rening",
@@ -11934,6 +12101,15 @@
       "web": "https://www.ostra.nu/"
     },
     {
+      "entry": 1233956620,
+      "orgNumber": "857209-6405",
+      "orgName": "Ingen M\u00e4nniska \u00e4r Illegal - G\u00f6teborg",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.ingenillegal.org/goteborg/"
+    },
+    {
       "entry": 1233959533,
       "orgNumber": "812800-5769",
       "orgName": "Svensk-irl\u00e4ndska f\u00f6reningen",
@@ -12135,6 +12311,16 @@
       "web": "http://segerstadshembygd.se/"
     },
     {
+      "entry": 1234011631,
+      "orgNumber": "556778-8996",
+      "orgName": "Advokatbyr\u00e5 Z & Co",
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://zeijersborger.se/"
+    },
+    {
       "entry": 1234014023,
       "orgNumber": "802011-5484",
       "orgName": "Buddhistiska Gemenskapen Triratna",
@@ -12160,6 +12346,17 @@
         "golfklubb"
       ],
       "web": "https://akersbergagk.se/"
+    },
+    {
+      "entry": 1234018198,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby Skaraborg",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234018909,
@@ -12872,6 +13069,17 @@
       "web": "https://sollentunahockey.myclub.se/"
     },
     {
+      "entry": 1234262945,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby J\u00f6nk\u00f6ping",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234263190,
       "orgNumber": "802489-8481",
       "orgName": "Stefanushj\u00e4lpen",
@@ -12927,6 +13135,17 @@
         "religion"
       ],
       "web": "http://www.svenskakyrkan.se/ljungby"
+    },
+    {
+      "entry": 1234274569,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby Malm\u00f6",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234275129,
@@ -14428,6 +14647,17 @@
       "web": "https://www.svenskakyrkan.se/ljungby/torpa-kyrka"
     },
     {
+      "entry": 1234804878,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby Halland/Kalmar L\u00e4n",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234805123,
       "orgNumber": "818000-0674",
       "orgName": "Eskilstuna Basket",
@@ -14870,6 +15100,16 @@
         "golfutrustning"
       ],
       "web": "https://teeview.se/"
+    },
+    {
+      "entry": 1235025432,
+      "orgNumber": "559171-5031",
+      "orgName": "Advokatbyr\u00e5n Mats Cederqvist",
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://www.matscederqvist.se/"
     },
     {
       "entry": 1235026794,
@@ -16110,6 +16350,15 @@
       "web": "https://stthuset.com/"
     },
     {
+      "entry": 1235347216,
+      "orgNumber": "969783-8945",
+      "orgName": "Pizzeria Happy Time",
+      "categories": [
+        "pizzeria"
+      ],
+      "web": "https://happytimetidaholm.se/"
+    },
+    {
       "entry": 1235347224,
       "orgNumber": "559242-4690",
       "orgName": "Feel free by nature AB",
@@ -17319,6 +17568,17 @@
       "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-falun/foreningar/svardsjo.html"
     },
     {
+      "entry": 1235703020,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby T\u00e4by",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235703301,
       "orgNumber": "252000-6996",
       "orgName": "Odensj\u00f6 F\u00f6rsamling",
@@ -17487,6 +17747,17 @@
         "religion"
       ],
       "web": "https://hillsong.com/sweden/"
+    },
+    {
+      "entry": 1235760020,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby V\u00e4rmland",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235763040,
@@ -17799,6 +18070,16 @@
         "samh\u00e4llsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/ydrefors/"
+    },
+    {
+      "entry": 1235831904,
+      "orgNumber": "802511-3047",
+      "orgName": "St\u00f6ttepelaren - St\u00f6df\u00f6rening f\u00f6r Ensamkommande Barn och Ungdomar",
+      "categories": [
+        "intressef\u00f6rening",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://stottepelaren.se/"
     },
     {
       "entry": 1235836366,
@@ -18831,6 +19112,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://aselehembygdsforening.nu/"
+    },
+    {
+      "entry": 1236152425,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby Kristianstad",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236155352,
@@ -20738,6 +21030,17 @@
       ]
     },
     {
+      "entry": 1236789424,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby Link\u00f6ping",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236791321,
       "orgNumber": "898800-6980",
       "orgName": "Yttersta Hembygdsf\u00f6rening",
@@ -20802,6 +21105,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://bovallstrand.com/"
+    },
+    {
+      "entry": 1236827703,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby Helsingborg",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236827851,
@@ -20878,6 +21192,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/Skepplanda/"
+    },
+    {
+      "entry": 1236876833,
+      "orgNumber": "840613-XXXX",
+      "orgName": "Advokatbyr\u00e5n Jenny Persdotter",
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "http://www.advokatjennypersdotter.se/"
     },
     {
       "entry": 1236883268,
@@ -23346,7 +23670,8 @@
       "orgNumber": "802401-8213",
       "orgName": "Asylr\u00e4ttscentrum",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "juridiska tj\u00e4nster"
       ],
       "web": "https://www.sweref.org/"
     },
