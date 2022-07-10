@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-07-10-rev-134520
+Date:     2022-07-10-rev-135313
 ...
 
 # Swish 123 Nummer
@@ -65,6 +65,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230230300 | 864501-5200 | Kvinno- och tjejjouren Borås                                                                         | [Link](https://ktjboras.se/) |
 | 1230234310 | 838201-7062 | Nedre Helgeåns FVO                                                                                   | [Link](https://www.nedrehelgean.se/) |
 | 1230239681 | 751014-XXXX | Falu Massage & Hälsa / Anna Gellner                                                                  | [Link](https://falumassagehalsa.se/) |
+| 1230240085 | 802535-4211 | Team Rynkeby Kalmar                                                                                  | [Link](https://www.team-rynkeby.se/) |
 | 1230240838 | 556062-5021 | Svenska Reimpregnerings AB Lavtox                                                                    | [Link](https://www.boracol.nu/) |
 | 1230243188 | 802510-0614 | Angel Island Army, AIA                                                                               | [Link](http://aia.nu/) |
 | 1230243337 | 802409-3075 | Kattfonden - Insamlingsstiftelsen för hemlösa katter                                                 | [Link](https://kattfonden.se/) |

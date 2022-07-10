@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-10-rev-134520",
+    "date": "2022-07-10-rev-135313",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -558,6 +558,17 @@
         "massage"
       ],
       "web": "https://falumassagehalsa.se/"
+    },
+    {
+      "entry": 1230240085,
+      "orgNumber": "802535-4211",
+      "orgName": "Team Rynkeby Kalmar",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230240838,

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-07-10-rev-134520
+# Date: 2022-07-10-rev-135313
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -63,6 +63,7 @@
 "1230230300","864501-5200","Kvinno- och tjejjouren Borås","https://ktjboras.se/","kvinnojour,tjejjour",""
 "1230234310","838201-7062","Nedre Helgeåns FVO","https://www.nedrehelgean.se/","fiskevård,sportfiske",""
 "1230239681","751014-XXXX","Falu Massage & Hälsa / Anna Gellner","https://falumassagehalsa.se/","massage",""
+"1230240085","802535-4211","Team Rynkeby Kalmar","https://www.team-rynkeby.se/","cykelsport,friskvård,intresseförening",""
 "1230240838","556062-5021","Svenska Reimpregnerings AB Lavtox","https://www.boracol.nu/","träskyddsmedel",""
 "1230243188","802510-0614","Angel Island Army, AIA","http://aia.nu/","supporterklubb","Medlemsavgift"
 "1230243337","802409-3075","Kattfonden - Insamlingsstiftelsen för hemlösa katter","https://kattfonden.se/","djurskydd,stiftelse",""
