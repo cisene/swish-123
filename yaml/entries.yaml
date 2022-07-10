@@ -4742,7 +4742,7 @@ entries:
   web: https://www.ljungbyridklubb.org.se/
 
 - entry: 1231794601
-  orgName: Söderköpings Gästabud Ekonomisk förening
+  orgName: Söderköpings Gästabud Ekonomisk Förening
   orgNumber: 769621-5354
   comment: null
   categories:
@@ -11080,6 +11080,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/TierpsIFFotbollHerr/
 
+- entry: 1234058251
+  orgName: Specialklubben för Bearded Collie
+  orgNumber: 853300-8721
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://sbc-beardedcollie.com/
+
 - entry: 1234062634
   orgName: Advokatfirman INTER AB
   orgNumber: 559216-0328
@@ -12839,6 +12848,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/stromsund/stromsunds-pastorat
 
+- entry: 1234748695
+  orgName: Gimdalsprojektets Ekonomiska förening
+  orgNumber: 716461-8469
+  comment: null
+  categories:
+  - intresseförening
+  web: https://gimdalen.com/
+
 - entry: 1234749925
   orgName: Bromma Hembygdsförening
   orgNumber: 802016-4243
@@ -13649,6 +13666,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/karlstadspastorat
 
+- entry: 1235112628
+  orgName: God Moves Dansskola
+  orgNumber: 802451-8360
+  comment: null
+  categories:
+  - dansundervisning
+  web: https://godmoves.se/
+
 - entry: 1235114285
   orgName: Genealogiska Föreningen
   orgNumber: 802001-1964
@@ -14137,6 +14162,15 @@ entries:
   categories:
   - religion
   web: https://www.honokonferensen.se/
+
+- entry: 1235219167
+  orgName: Stiftelsen Estniska Skolan i Stockholm
+  orgNumber: 802005-8908
+  comment: null
+  categories:
+  - stiftelse
+  - utbildning
+  web: https://estniskaskolan.se/sv/
 
 - entry: 1235219662
   orgName: Garphyttans IF
@@ -15129,6 +15163,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/karlstadspastorat
+
+- entry: 1235543541
+  orgName: Blank Spot Project AB
+  orgNumber: 559002-4617
+  comment: null
+  categories:
+  - alternativa media
+  - journalistik
+  web: https://blankspot.se/
 
 - entry: 1235544168
   orgName: Cornelis Vreeswijksällskapet
@@ -16209,6 +16252,15 @@ entries:
   - motion
   web: https://www.friskissvettis.se/helsingborg/
 
+- entry: 1235931316
+  orgName: Stockholms Klätterförbund
+  orgNumber: 802501-0730
+  comment: null
+  categories:
+  - förbund
+  - klättring
+  web: https://stkf.se/
+
 - entry: 1235931605
   orgName: Jönköpings Läns Bröstcancerförening
   orgNumber: 826001-9487
@@ -16956,6 +17008,15 @@ entries:
   - konstförening
   web: https://nhkf.se/
 
+- entry: 1236161277
+  orgName: Liljeholmens folkhögskola
+  orgNumber: 823902-0020
+  comment: null
+  categories:
+  - folkhögskola
+  - utbildning
+  web: https://liljeholmen.nu/
+
 - entry: 1236161301
   orgName: Hillsong Church Sweden
   orgNumber: 802433-8553
@@ -17650,6 +17711,14 @@ entries:
   categories:
   - motorbåtsklubb
   web: http://kristianstadsbatklubb.se/
+
+- entry: 1236388094
+  orgName: Vegeå Båtklubb
+  orgNumber: 802525-2092
+  comment:
+  - båtklubb
+  categories: null
+  web: https://vegeabatklubb.se/
 
 - entry: 1236394373
   orgName: Nybro Golfklubb

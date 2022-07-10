@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-09-rev-185245",
+    "date": "2022-07-10-rev-024458",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5269,7 +5269,7 @@
     {
       "entry": 1231794601,
       "orgNumber": "769621-5354",
-      "orgName": "S\u00f6derk\u00f6pings G\u00e4stabud Ekonomisk f\u00f6rening",
+      "orgName": "S\u00f6derk\u00f6pings G\u00e4stabud Ekonomisk F\u00f6rening",
       "categories": [
         "kulturf\u00f6rening",
         "underh\u00e5llning"
@@ -12280,6 +12280,16 @@
       "web": "https://www.laget.se/TierpsIFFotbollHerr/"
     },
     {
+      "entry": 1234058251,
+      "orgNumber": "853300-8721",
+      "orgName": "Specialklubben f\u00f6r Bearded Collie",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://sbc-beardedcollie.com/"
+    },
+    {
       "entry": 1234062634,
       "orgNumber": "559216-0328",
       "orgName": "Advokatfirman INTER AB",
@@ -14260,6 +14270,15 @@
       "web": "https://www.svenskakyrkan.se/stromsund/stromsunds-pastorat"
     },
     {
+      "entry": 1234748695,
+      "orgNumber": "716461-8469",
+      "orgName": "Gimdalsprojektets Ekonomiska f\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://gimdalen.com/"
+    },
+    {
       "entry": 1234749925,
       "orgNumber": "802016-4243",
       "orgName": "Bromma Hembygdsf\u00f6rening",
@@ -15156,6 +15175,15 @@
       "web": "https://www.svenskakyrkan.se/karlstadspastorat"
     },
     {
+      "entry": 1235112628,
+      "orgNumber": "802451-8360",
+      "orgName": "God Moves Dansskola",
+      "categories": [
+        "dansundervisning"
+      ],
+      "web": "https://godmoves.se/"
+    },
+    {
       "entry": 1235114285,
       "orgNumber": "802001-1964",
       "orgName": "Genealogiska F\u00f6reningen",
@@ -15685,6 +15713,16 @@
         "religion"
       ],
       "web": "https://www.honokonferensen.se/"
+    },
+    {
+      "entry": 1235219167,
+      "orgNumber": "802005-8908",
+      "orgName": "Stiftelsen Estniska Skolan i Stockholm",
+      "categories": [
+        "stiftelse",
+        "utbildning"
+      ],
+      "web": "https://estniskaskolan.se/sv/"
     },
     {
       "entry": 1235219662,
@@ -16778,6 +16816,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/karlstadspastorat"
+    },
+    {
+      "entry": 1235543541,
+      "orgNumber": "559002-4617",
+      "orgName": "Blank Spot Project AB",
+      "categories": [
+        "alternativa media",
+        "journalistik"
+      ],
+      "web": "https://blankspot.se/"
     },
     {
       "entry": 1235544168,
@@ -17992,6 +18040,16 @@
       "web": "https://www.friskissvettis.se/helsingborg/"
     },
     {
+      "entry": 1235931316,
+      "orgNumber": "802501-0730",
+      "orgName": "Stockholms Kl\u00e4tterf\u00f6rbund",
+      "categories": [
+        "f\u00f6rbund",
+        "kl\u00e4ttring"
+      ],
+      "web": "https://stkf.se/"
+    },
+    {
       "entry": 1235931605,
       "orgNumber": "826001-9487",
       "orgName": "J\u00f6nk\u00f6pings L\u00e4ns Br\u00f6stcancerf\u00f6rening",
@@ -18830,6 +18888,16 @@
       "web": "https://nhkf.se/"
     },
     {
+      "entry": 1236161277,
+      "orgNumber": "823902-0020",
+      "orgName": "Liljeholmens folkh\u00f6gskola",
+      "categories": [
+        "folkh\u00f6gskola",
+        "utbildning"
+      ],
+      "web": "https://liljeholmen.nu/"
+    },
+    {
       "entry": 1236161301,
       "orgNumber": "802433-8553",
       "orgName": "Hillsong Church Sweden",
@@ -19595,6 +19663,13 @@
         "motorb\u00e5tsklubb"
       ],
       "web": "http://kristianstadsbatklubb.se/"
+    },
+    {
+      "entry": 1236388094,
+      "orgNumber": "802525-2092",
+      "orgName": "Vege\u00e5 B\u00e5tklubb",
+      "comment": "['b\u00e5tklubb']",
+      "web": "https://vegeabatklubb.se/"
     },
     {
       "entry": 1236394373,
