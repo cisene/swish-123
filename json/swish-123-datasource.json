@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-11-rev-145921",
+    "date": "2022-07-13-rev-154747",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -468,6 +468,15 @@
         "spiritualism"
       ],
       "web": "https://luckytarot.se/"
+    },
+    {
+      "entry": 1230199364,
+      "orgNumber": "819500-1121",
+      "orgName": "Str\u00e4ngn\u00e4s scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://strangnas.scout.se/"
     },
     {
       "entry": 1230201194,
@@ -1733,6 +1742,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.ingenillegal.org/umea/"
+    },
+    {
+      "entry": 1230691097,
+      "orgNumber": "885001-9079",
+      "orgName": "Rudsj\u00f6 Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://rudsjo.scout.se/"
     },
     {
       "entry": 1230692855,
@@ -4156,6 +4174,15 @@
         "sportklubb"
       ],
       "web": "https://idrottonline.se/VarmskogsSK/"
+    },
+    {
+      "entry": 1231461656,
+      "orgNumber": "853300-7194",
+      "orgName": "Kode Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://kode.scout.se/"
     },
     {
       "entry": 1231464981,
@@ -8091,6 +8118,15 @@
       "web": "https://spinalis.se/"
     },
     {
+      "entry": 1232638278,
+      "orgNumber": "836201-3057",
+      "orgName": "Kyrkhults Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://kyrkhult.scout.se/"
+    },
+    {
       "entry": 1232639771,
       "orgNumber": "836201-3040",
       "orgName": "Pastor Tommy Lilja Ministries / PTL-Ministries",
@@ -9820,6 +9856,15 @@
       "web": "https://ulfwetterstrand.wixsite.com/tpbk/"
     },
     {
+      "entry": 1233157427,
+      "orgNumber": "847000-2059",
+      "orgName": "Trelleborgs Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://trelleborg.scout.se/"
+    },
+    {
       "entry": 1233158128,
       "orgNumber": "556666-0410",
       "orgName": "Emilia Lo\u0308f Karlsson / Exlabs AB",
@@ -10526,6 +10571,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/tabergs-bergslags"
+    },
+    {
+      "entry": 1233380458,
+      "orgNumber": "812800-3475",
+      "orgName": "Sanct Botvids Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://stb.scout.se/"
     },
     {
       "entry": 1233380847,
@@ -11463,6 +11517,15 @@
         "restaurant"
       ],
       "web": "https://www.malins-skafferi.se/"
+    },
+    {
+      "entry": 1233680998,
+      "orgNumber": "826001-4678",
+      "orgName": "Kristina Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://kristinascoutkar.scout.se/"
     },
     {
       "entry": 1233700366,
@@ -13002,6 +13065,15 @@
         "religion"
       ],
       "web": "http://www.hammarbykyrkan.nu/"
+    },
+    {
+      "entry": 1234195319,
+      "orgNumber": "802008-6255",
+      "orgName": "\u00d6rnsbergs Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://www.ornsberg.org/"
     },
     {
       "entry": 1234197026,
@@ -15828,6 +15900,15 @@
       "web": "http://coelhogrowth.com/"
     },
     {
+      "entry": 1235136775,
+      "orgNumber": "894700-9505",
+      "orgName": "Skellefte\u00e5 Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://skellefte.scout.se/"
+    },
+    {
       "entry": 1235138573,
       "orgNumber": "878000-0421",
       "orgName": "Pingstf\u00f6rsamlingen Hallstahammar",
@@ -17663,6 +17744,15 @@
       "web": "https://www.slu.se/fakulteter/vh/forskning/sallskapsdjurens_forskningsfond/"
     },
     {
+      "entry": 1235636527,
+      "orgNumber": "857203-7490",
+      "orgName": "Kortedala Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://kortedala.scout.se/"
+    },
+    {
       "entry": 1235638648,
       "orgNumber": "802477-5218",
       "orgName": "Ramstrand Foundation Insamlingsstiftelse",
@@ -19364,6 +19454,15 @@
       "web": "https://www.wattholmagk.se/"
     },
     {
+      "entry": 1236145155,
+      "orgNumber": "802008-5976",
+      "orgName": "Sk\u00f6ndals Land- och Sj\u00f6scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://tusenforstahjalpen.se/"
+    },
+    {
       "entry": 1236146765,
       "orgNumber": "252004-8790",
       "orgName": "Eritreanska Ortodoxa Tewahedo Kyrkan I Skandinavien (koptiska patriarkatet), EOTCS",
@@ -20409,6 +20508,15 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Umea/Umea/"
+    },
+    {
+      "entry": 1236459390,
+      "orgNumber": "818000-8735",
+      "orgName": "Husby-Rekarne Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://husby-rekarne.scout.se/"
     },
     {
       "entry": 1236466320,
