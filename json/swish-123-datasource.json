@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-14-rev-160226",
+    "date": "2022-07-15-rev-160358",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -30,7 +30,8 @@
       "orgNumber": "802002-8711",
       "orgName": "Svenska R\u00f6da Korset",
       "categories": [
-        "donation"
+        "donation",
+        "hj\u00e4lporganisation"
       ],
       "web": "https://www.rodakorset.se/"
     },
@@ -39,7 +40,8 @@
       "orgNumber": "802002-8711",
       "orgName": "Svenska R\u00f6da Korset",
       "categories": [
-        "donation"
+        "donation",
+        "hj\u00e4lporganisation"
       ],
       "web": "https://www.rodakorset.se/"
     },
@@ -110,6 +112,15 @@
         "f\u00f6rening"
       ],
       "web": "https://gagnefsbio.se/"
+    },
+    {
+      "entry": 1230045567,
+      "orgNumber": "802538-4457",
+      "orgName": "Partiet MoD",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://partietmod.se/"
     },
     {
       "entry": 1230052092,
@@ -945,6 +956,15 @@
       "web": "https://sverigeforunhcr.se/"
     },
     {
+      "entry": 1230364281,
+      "orgNumber": "802006-9392",
+      "orgName": "Medborgarr\u00e4ttsr\u00f6relsen i Sverige, MRRS",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://mrrs.se/"
+    },
+    {
       "entry": 1230365288,
       "orgNumber": "556768-8337",
       "orgName": "Marias Logi AB",
@@ -1719,6 +1739,15 @@
       "web": "https://www.brottsofferjouren.se/"
     },
     {
+      "entry": 1230633297,
+      "orgNumber": "802497-5453",
+      "orgName": "PRO Liljeholmen",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "http://www.pro.se/liljeholmen"
+    },
+    {
       "entry": 1230633370,
       "orgNumber": "802435-1689",
       "orgName": "Kulturens Bildningsverksamhet",
@@ -1911,6 +1940,15 @@
         "nyhetsbrev"
       ],
       "web": "https://www.drabbrikan.se/"
+    },
+    {
+      "entry": 1230716597,
+      "orgNumber": "846000-4404",
+      "orgName": "PRO Malm\u00f6 Centrum",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/malmocentrum.html"
     },
     {
       "entry": 1230718734,
@@ -2166,6 +2204,15 @@
         "tjejjour"
       ],
       "web": "http://sthlmvastjour.se/"
+    },
+    {
+      "entry": 1230771758,
+      "orgNumber": "802537-9978",
+      "orgName": "Kommissionen f\u00f6r skattenytta",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://skattenytta.se/"
     },
     {
       "entry": 1230771931,
@@ -2490,6 +2537,16 @@
         "religion"
       ],
       "web": "https://www.ywam.se/"
+    },
+    {
+      "entry": 1230875161,
+      "orgNumber": "818000-7190",
+      "orgName": "Eskilstuna Hunddressyrklubb",
+      "comment": "K\u00f6ket",
+      "categories": [
+        "hundklubb"
+      ],
+      "web": "https://www.ehdk.se/"
     },
     {
       "entry": 1230876417,
@@ -2963,6 +3020,16 @@
       "web": "https://hillsong.com/sweden/"
     },
     {
+      "entry": 1231043314,
+      "orgNumber": "802507-1179",
+      "orgName": "Klar\u00e4lvens Lokala Kennelklubb",
+      "categories": [
+        "hundsport",
+        "kennelklubb"
+      ],
+      "web": "https://www.klkk.hundpoolen.se/"
+    },
+    {
       "entry": 1231043496,
       "orgNumber": "814400-0042",
       "orgName": "Axel, Julia och Torsten Nordstr\u00f6ms Stiftelse",
@@ -3319,6 +3386,15 @@
       "web": "https://www.friskissvettis.se/saffle"
     },
     {
+      "entry": 1231137629,
+      "orgNumber": "857201-7245",
+      "orgName": "S\u00e4vedalens AIK",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.savedalensaik.se/"
+    },
+    {
       "entry": 1231146596,
       "orgNumber": "874001-8117",
       "orgName": "Islandsh\u00e4stf\u00f6reningen Glaumur - Islandsh\u00e4st",
@@ -3360,6 +3436,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.lerumsfotoklubb.se/"
+    },
+    {
+      "entry": 1231149764,
+      "orgNumber": "802495-9366",
+      "orgName": "Tankarnas Tr\u00e4dg\u00e5rd i V\u00e4xj\u00f6",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://tankarnastradgardvaxjo.se/"
     },
     {
       "entry": 1231153048,
@@ -3504,6 +3589,16 @@
       "web": "http://www.baptistkyrkan.com/"
     },
     {
+      "entry": 1231203595,
+      "orgNumber": "802445-9706",
+      "orgName": "Bjurholms Lokala Kennelklubb",
+      "categories": [
+        "hundsport",
+        "kennelklubb"
+      ],
+      "web": "https://blkk.webs.com/"
+    },
+    {
       "entry": 1231204114,
       "orgNumber": "252000-0650",
       "orgName": "Br\u00e4nnkyrka F\u00f6rsamling",
@@ -3546,7 +3641,7 @@
     {
       "entry": 1231218163,
       "orgNumber": "802504-5249",
-      "orgName": "HOPE FOR THIS NATION, Sweden",
+      "orgName": "Hope For This Nation, Sweden",
       "categories": [
         "hj\u00e4lporganisation",
         "religion"
@@ -4085,6 +4180,15 @@
       "web": "https://kungsledenhiking.se/"
     },
     {
+      "entry": 1231366038,
+      "orgNumber": "802538-0513",
+      "orgName": "Svenska Rikslagen",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://svenskarikslagen.se/"
+    },
+    {
       "entry": 1231370170,
       "orgNumber": "802497-0116",
       "orgName": "N\u00e4\u00e4s Ridf\u00f6rening",
@@ -4297,6 +4401,16 @@
         "djurskydd"
       ],
       "web": "https://www.djurskyddetvastervik.se/"
+    },
+    {
+      "entry": 1231448182,
+      "orgNumber": "802521-7475",
+      "orgName": "Norrt\u00e4lje Lokala Kennelklubb",
+      "categories": [
+        "hundsport",
+        "kennelklubb"
+      ],
+      "web": "https://nlkk.se/"
     },
     {
       "entry": 1231448430,
@@ -5264,7 +5378,7 @@
     {
       "entry": 1231704337,
       "orgNumber": "802445-3733",
-      "orgName": "Karlskoga Agilitysports Kennelklubb",
+      "orgName": "Karlskoga Agilitysports Kennelklubb, KASK",
       "categories": [
         "hundklubb",
         "hundsport"
@@ -5919,6 +6033,16 @@
         "mansjour"
       ],
       "web": "https://www.mansjouren.se/"
+    },
+    {
+      "entry": 1231902956,
+      "orgNumber": "802461-7717",
+      "orgName": "Storfors Hundklubb Lokala Kennelklubb,",
+      "categories": [
+        "hundsport",
+        "kennelklubb"
+      ],
+      "web": "https://storforshundklubb.se/"
     },
     {
       "entry": 1231910140,
@@ -7133,7 +7257,7 @@
     {
       "entry": 1232235695,
       "orgNumber": "854600-5235",
-      "orgName": "PRO Lysekils",
+      "orgName": "PRO Lysekil",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -7966,7 +8090,7 @@
     {
       "entry": 1232441079,
       "orgNumber": "825002-1709",
-      "orgName": "S:ta Marias Syrisk Ortodoxa Kyrka / Azech SYRIANSKA F\u00f6reningen",
+      "orgName": "S:ta Marias Syrisk Ortodoxa Kyrka / Azech Syrianska F\u00f6reningen",
       "categories": [
         "religion"
       ],
@@ -8233,6 +8357,15 @@
         "konst"
       ],
       "web": "https://www.andersandersson.se/"
+    },
+    {
+      "entry": 1232585792,
+      "orgNumber": "802004-4924",
+      "orgName": "Old English Sheepdogs\u00e4llskapet, OESS",
+      "categories": [
+        "hundklubb"
+      ],
+      "web": "https://www.oessallskapet.com/"
     },
     {
       "entry": 1232586444,
@@ -9386,6 +9519,15 @@
       "web": "http://www.dravetssweden.se/"
     },
     {
+      "entry": 1232886893,
+      "orgNumber": "802011-2275",
+      "orgName": "Svenska Kommitt\u00e9n Mot Antisemitism, SKMA",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://skma.se/"
+    },
+    {
       "entry": 1232887404,
       "orgNumber": "862000-1332",
       "orgName": "Smyrnaf\u00f6rsamlingen I Ed",
@@ -10155,6 +10297,15 @@
       "web": "http://www.creperiet.nu/"
     },
     {
+      "entry": 1233133717,
+      "orgNumber": "802515-8752",
+      "orgName": "Porrfri Barndom",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.porrfribarndom.se/"
+    },
+    {
       "entry": 1233134293,
       "orgNumber": "802522-1840",
       "orgName": "Partipolitiskt Obundna i Svenska Kyrkan, POSK, Lundby F\u00f6rsamling",
@@ -10531,6 +10682,15 @@
         "motorsport"
       ],
       "web": "https://www.adestam.se/"
+    },
+    {
+      "entry": 1233258928,
+      "orgNumber": "846001-3033",
+      "orgName": "PRO Bara",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.probara.se/"
     },
     {
       "entry": 1233260858,
@@ -10920,6 +11080,16 @@
         "politiskt parti"
       ],
       "web": "https://www.timrapartiet.se/"
+    },
+    {
+      "entry": 1233375359,
+      "orgNumber": "802436-5853",
+      "orgName": "Rasklubben f\u00f6r Gos D'atura Catal\u00e1",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://gosdaturacatala.se/"
     },
     {
       "entry": 1233375672,
@@ -11904,6 +12074,15 @@
       "web": "https://sandared.scout.se/"
     },
     {
+      "entry": 1233662541,
+      "orgNumber": "882601-7074",
+      "orgName": "Stiftelsen Estoniaoffren och Anh\u00f6riga, SEA",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.seainfo.se/"
+    },
+    {
       "entry": 1233664539,
       "orgNumber": "844001-0422",
       "orgName": "Bosnisk Islamiska Kultur F\u00f6reningen-Landskrona",
@@ -12055,6 +12234,15 @@
         "scoutk\u00e5r"
       ],
       "web": "http://hedemorascout.se/"
+    },
+    {
+      "entry": 1233729001,
+      "orgNumber": "818500-6676",
+      "orgName": "PRO Flen",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-sodermanland/samorganisationer/samorganisation-flen/foreningar/flen.html"
     },
     {
       "entry": 1233736527,
@@ -12299,6 +12487,15 @@
         "spiritualism"
       ],
       "web": "https://yourlight.se/"
+    },
+    {
+      "entry": 1233809654,
+      "orgNumber": "802536-3238",
+      "orgName": "Folkliberalerna",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://folkliberalerna.se/"
     },
     {
       "entry": 1233811296,
@@ -12828,6 +13025,16 @@
       "web": "https://redbergslid.scout.se/"
     },
     {
+      "entry": 1233957255,
+      "orgNumber": "894702-1344",
+      "orgName": "\u00d6vre Norrlands Taxklubb, \u00d6NTK",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://www.ontk.se/"
+    },
+    {
       "entry": 1233959533,
       "orgNumber": "812800-5769",
       "orgName": "Svensk-irl\u00e4ndska f\u00f6reningen",
@@ -12990,6 +13197,15 @@
       "web": "https://www.hillsgolfclub.se/"
     },
     {
+      "entry": 1233997632,
+      "orgNumber": "855100-2671",
+      "orgName": "V\u00e4nsterpartiet Partille",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://partille.vansterpartiet.se/"
+    },
+    {
       "entry": 1233997996,
       "orgNumber": "556611-6694",
       "orgName": "Magazin24 / Earton Media AB",
@@ -13106,6 +13322,16 @@
         "innebandy"
       ],
       "web": "https://www.ostra.nu/"
+    },
+    {
+      "entry": 1234026894,
+      "orgNumber": "559367-0671",
+      "orgName": "Bulletin Media Sverige AB",
+      "categories": [
+        "alternativa media",
+        "alternativa nyheter"
+      ],
+      "web": "https://bulletin.nu/"
     },
     {
       "entry": 1234029088,
@@ -13389,6 +13615,16 @@
       "web": "https://www.laholmsif.se/"
     },
     {
+      "entry": 1234109336,
+      "orgNumber": "818000-7190",
+      "orgName": "Eskilstuna Hunddressyrklubb",
+      "comment": "T\u00e4vling, Kurs",
+      "categories": [
+        "hundklubb"
+      ],
+      "web": "https://www.ehdk.se/"
+    },
+    {
       "entry": 1234123519,
       "orgNumber": "827501-1412",
       "orgName": "Holsby Frikyrka",
@@ -13611,6 +13847,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://www.ornsberg.org/"
+    },
+    {
+      "entry": 1234196754,
+      "orgNumber": "819500-5106",
+      "orgName": "Str\u00e4ngn\u00e4s Lokala Kennelklubb",
+      "categories": [
+        "hundsport",
+        "kennelklubb"
+      ],
+      "web": "http://www.slkk.se/"
     },
     {
       "entry": 1234197026,
@@ -13950,6 +14196,15 @@
       "web": "https://malarstadenstrafikskola.se/"
     },
     {
+      "entry": 1234273876,
+      "orgNumber": "802498-6740",
+      "orgName": "Westbopartiet - det lokala partiet f\u00f6r hela Gislaveds kommun",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "http://www.westbopartiet.se/"
+    },
+    {
       "entry": 1234274205,
       "orgNumber": "252002-7281",
       "orgName": "Ljungby Maria f\u00f6rsamling",
@@ -14067,6 +14322,15 @@
         "hundsport"
       ],
       "web": "https://snkinfo.wordpress.com/"
+    },
+    {
+      "entry": 1234295671,
+      "orgNumber": "302616-8686",
+      "orgName": "M\u00f6klinta Kennelklubb",
+      "categories": [
+        "kennelklubb"
+      ],
+      "web": "http://moklintakennelklubb.se/"
     },
     {
       "entry": 1234296513,
@@ -15315,6 +15579,16 @@
       "web": "https://www.naitisport.se/"
     },
     {
+      "entry": 1234714317,
+      "orgNumber": "802492-3164",
+      "orgName": "Tornedalens Lokala Kennelklubb",
+      "categories": [
+        "hundsport",
+        "kennelklubb"
+      ],
+      "web": "https://www.tlkk.hundpoolen.se/"
+    },
+    {
       "entry": 1234717344,
       "orgNumber": "895400-3235",
       "orgName": "\u00d6re-L\u00e5ngsele Fiskev\u00e5rdsf\u00f6rening",
@@ -15525,6 +15799,15 @@
         "stiftelse"
       ],
       "web": "http://www.soldathemmet.se/"
+    },
+    {
+      "entry": 1234781826,
+      "orgNumber": "814000-9294",
+      "orgName": "PRO Gustavsberg-Ingar\u00f6",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-varmdo/foreningar/gustavsberg-ingaro.html"
     },
     {
       "entry": 1234795613,
@@ -15850,6 +16133,16 @@
         "golfklubb"
       ],
       "web": "http://boagk.se/"
+    },
+    {
+      "entry": 1234956355,
+      "orgNumber": "802469-5093",
+      "orgName": "S\u00f6dert\u00e4lje Lokala Kennelklubb",
+      "categories": [
+        "hundsport",
+        "kennelklubb"
+      ],
+      "web": "https://www.sodertaljekk.se/"
     },
     {
       "entry": 1234956595,
@@ -17457,6 +17750,15 @@
       "web": "https://www.flashback.org/"
     },
     {
+      "entry": 1235370382,
+      "orgNumber": "818500-6866",
+      "orgName": "PRO Katrineholm",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "http://www.pro.se/katrineholm"
+    },
+    {
       "entry": 1235371323,
       "orgNumber": "252000-6335",
       "orgName": "V\u00e4ckels\u00e5ngs F\u00f6rsamling",
@@ -17473,6 +17775,15 @@
         "stiftelse"
       ],
       "web": "https://onehopevillage.se/"
+    },
+    {
+      "entry": 1235381371,
+      "orgNumber": "846002-8676",
+      "orgName": "PRO Husie",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/husie.html"
     },
     {
       "entry": 1235382841,
@@ -17636,6 +17947,15 @@
       "web": "https://www.vasatorp.golf/"
     },
     {
+      "entry": 1235427042,
+      "orgNumber": "893201-4858",
+      "orgName": "Arbetarr\u00f6relsens hyllnings- och blomsterfond i J\u00e4mtland",
+      "categories": [
+        "fond"
+      ],
+      "web": "https://socialdemokraternajamtland.se/vart-parti/arbetarrorelsens-hyllnings-och-blomsterfond/"
+    },
+    {
       "entry": 1235430186,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -17748,6 +18068,16 @@
         "parasport"
       ],
       "web": "https://www.luleahandikappidrott.se/"
+    },
+    {
+      "entry": 1235456637,
+      "orgNumber": "835000-8317",
+      "orgName": "R\u00f6deby Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://rodebybrukshundklubb.se/"
     },
     {
       "entry": 1235457106,
@@ -18173,10 +18503,11 @@
       "entry": 1235570015,
       "orgNumber": "815201-3598",
       "orgName": "Sveriges Kommunistiska Parti",
+      "comment": "Kampfonden",
       "categories": [
         "politiskt parti"
       ],
-      "web": "https://riktpunkt.nu/"
+      "web": "https://skp.se/"
     },
     {
       "entry": 1235570742,
@@ -19382,7 +19713,7 @@
     {
       "entry": 1235923214,
       "orgNumber": "827000-0105",
-      "orgName": "EKSJ\u00d6 PINGSTF\u00d6RSAMLING",
+      "orgName": "Eksj\u00f6 Pingstf\u00f6rsamling",
       "categories": [
         "religion"
       ],
@@ -19559,6 +19890,15 @@
         "styrketr\u00e4ning"
       ],
       "web": "https://skinnsbergsak.se/"
+    },
+    {
+      "entry": 1235953492,
+      "orgNumber": "817605-6144",
+      "orgName": "PRO B\u00e4linge",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-uppsala/foreningar/balinge.html"
     },
     {
       "entry": 1235954243,
@@ -21291,6 +21631,15 @@
       "web": "https://www.gospelverkstaden.se/"
     },
     {
+      "entry": 1236446249,
+      "orgNumber": "012159-3917",
+      "orgName": "PRO Vinsl\u00f6v",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-hassleholm/foreningar/vinslov.html"
+    },
+    {
       "entry": 1236447148,
       "orgNumber": "857201-0992",
       "orgName": "Lundby Egnahemsf\u00f6rening",
@@ -21330,7 +21679,7 @@
     {
       "entry": 1236466320,
       "orgNumber": "802424-2656",
-      "orgName": "Haninge Islamiska KulturCenter / STIFTELSEN HANINGE KULTUR CENTER",
+      "orgName": "Haninge Islamiska KulturCenter / Stiftelsen Haninge Kultur Center",
       "categories": [
         "religion"
       ],
@@ -22437,6 +22786,15 @@
       "web": "http://gsvanner.se/"
     },
     {
+      "entry": 1236837496,
+      "orgNumber": "802423-9637",
+      "orgName": "Stiftelsen Anna Lindhs Minnesfond",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.annalindhsminnesfond.se/"
+    },
+    {
       "entry": 1236840896,
       "orgNumber": "829000-5688",
       "orgName": "Stiftelsen Skandinavisk Yoga och Meditationsskola",
@@ -22457,6 +22815,15 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://solvatten.org/"
+    },
+    {
+      "entry": 1236861330,
+      "orgNumber": "802527-8527",
+      "orgName": "Malmk\u00f6pings Tr\u00e4dg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "tr\u00e4dg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/groups/180614848768314"
     },
     {
       "entry": 1236866040,
