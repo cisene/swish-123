@@ -13,8 +13,11 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 [Aktuell lista med Swish 123-nummer](https://github.com/cisene/swish-123/blob/master/swish-123.md) (Eye-candy)
 
 [JSON](https://github.com/cisene/swish-123/blob/master/json/swish-123-datasource.json)
+
 [TSV](https://github.com/cisene/swish-123/blob/master/text/swish-123-datasource.tsv)
+
 [CSV](https://github.com/cisene/swish-123/blob/master/text/swish-123-datasource.csv)
+
 [XML](https://github.com/cisene/swish-123/blob/master/xml-data/swish-123-datasource.xml)
 
 
@@ -55,8 +58,7 @@ Initiativet startades medan huvudet var fullt med snor och lätt febrig, 2021-12
 
 ### TODO:
 
-* Bryta upp listor i separata filer med "grupp nummer", ex. swish-123-901.xml för nummer som börjar med 123901*
-* Komplettera kategoriseringar för stöd i tex. filtreringar.
+* Skapa script för QA-kontroller av information (saknade eller felaktigt formatterade uppgifter)
 
 
 ### Support/Stöd

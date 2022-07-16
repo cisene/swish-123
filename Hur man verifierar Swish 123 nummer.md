@@ -16,6 +16,7 @@ Får man träff, samla in uppgifter som Organisationens namn, organisationsnumme
 * I de fall man endast hitta Plusgiro nummer: sök på tex. [Plusgirot](https://kontoutdrag.plusgirot.se/ku/html/sokkto.htm)
 * I de fall man kan misstänka att Organisationen är en stiftelse: sök på tex [Stiftelsemedel.se](https://stiftelsemedel.se/companylist/) eller [Länsstyrelsernas Stiftelseregister](https://stiftelser.lansstyrelsen.se/S%C3%B6k)
 * Googla "<organisationsnamn> organisationsnummer" .. Allabolag, Eniro och Hitta.se resultat kan innehålla organisationsnummer
+* I de fall man endast hittar person med enskild firma, är [Birthday](https://birthday.se/) till hjälp
 
 
 
