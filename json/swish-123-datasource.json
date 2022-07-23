@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-19-rev-080233",
+    "date": "2022-07-23-rev-190244",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2679,7 +2679,6 @@
       "orgNumber": "601206-XXXX",
       "orgName": "Worship Sweden Production",
       "categories": [
-        "donation",
         "religion"
       ],
       "web": "https://www.stefanjernsand.se/"
@@ -3598,6 +3597,15 @@
         "konstf\u00f6rening"
       ],
       "web": "https://www.westmanniakonst.se/"
+    },
+    {
+      "entry": 1231181189,
+      "orgNumber": "559016-5261",
+      "orgName": "ZignSec AB",
+      "categories": [
+        "betaltj\u00e4nster"
+      ],
+      "web": "https://www.zignsec.com/"
     },
     {
       "entry": 1231188051,
@@ -4768,6 +4776,15 @@
       "orgNumber": "802412-9630",
       "orgName": "Gula \u00c4nglarna",
       "web": "https://gulaanglarna.se/"
+    },
+    {
+      "entry": 1231499144,
+      "orgNumber": "252002-8867",
+      "orgName": "Vineyard Norden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.vineyardnordic.org/"
     },
     {
       "entry": 1231506567,
@@ -12720,6 +12737,15 @@
       "web": "https://yourlight.se/"
     },
     {
+      "entry": 1233809522,
+      "orgNumber": "802476-1341",
+      "orgName": "Svenska R\u00e4ddare / Nayifs Charity Project",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://swedishrescuers.se/"
+    },
+    {
       "entry": 1233809654,
       "orgNumber": "802536-3238",
       "orgName": "Folkliberalerna",
@@ -15507,6 +15533,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://ujh.se/"
+    },
+    {
+      "entry": 1234595237,
+      "orgNumber": "802475-0039",
+      "orgName": "Rusty P\u00b4s Kulturf\u00f6rening",
+      "categories": [
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://rustyphiphop.blogspot.com/"
     },
     {
       "entry": 1234595658,
@@ -19769,6 +19804,7 @@
       "orgName": "IOCA ARMA NOSTRA Insamlingsstiftelse",
       "comment": "Aid for Ukraine",
       "categories": [
+        "hj\u00e4lporganisation",
         "humanit\u00e4r hj\u00e4lpverksamhet"
       ],
       "web": "https://beetroot.co/aid-for-ukraine/"
@@ -20037,6 +20073,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://halleforsnas.org/"
+    },
+    {
+      "entry": 1235920590,
+      "orgNumber": "823000-5798",
+      "orgName": "Malexanders Sportfiskeklubb",
+      "categories": [
+        "f\u00f6rening",
+        "sportfiskeklubb"
+      ],
+      "web": "https://malexandersfk.blogspot.com/"
     },
     {
       "entry": 1235922364,

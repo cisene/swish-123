@@ -2424,7 +2424,6 @@ entries:
   orgNumber: 601206-XXXX
   comment: null
   categories:
-  - donation
   - religion
   web: https://www.stefanjernsand.se/
 
@@ -3250,6 +3249,14 @@ entries:
   - förening
   - konstförening
   web: https://www.westmanniakonst.se/
+
+- entry: 1231181189
+  orgName: ZignSec AB
+  orgNumber: 559016-5261
+  comment: null
+  categories:
+  - betaltjänster
+  web: https://www.zignsec.com/
 
 - entry: 1231188051
   orgName: Kvinnojouren Liljan
@@ -4297,6 +4304,14 @@ entries:
   comment: null
   categories: null
   web: https://gulaanglarna.se/
+
+- entry: 1231499144
+  orgName: Vineyard Norden
+  orgNumber: 252002-8867
+  comment: null
+  categories:
+  - religion
+  web: https://www.vineyardnordic.org/
 
 - entry: 1231506567
   orgName: Västerås Kattklubb
@@ -11497,6 +11512,14 @@ entries:
   - spiritualism
   web: https://yourlight.se/
 
+- entry: 1233809522
+  orgName: Svenska Räddare / Nayifs Charity Project
+  orgNumber: 802476-1341
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://swedishrescuers.se/
+
 - entry: 1233809654
   orgName: Folkliberalerna
   orgNumber: 802536-3238
@@ -13992,6 +14015,14 @@ entries:
   categories:
   - hembygdsförening
   web: http://ujh.se/
+
+- entry: 1234595237
+  orgName: Rusty P´s Kulturförening
+  orgNumber: 802475-0039
+  comment: null
+  categories:
+  - kulturförening
+  web: https://rustyphiphop.blogspot.com/
 
 - entry: 1234595658
   orgName: Dravets Syndrome Association Sweden, DSAS
@@ -17847,6 +17878,7 @@ entries:
   orgNumber: 802480-7797
   comment: Aid for Ukraine
   categories:
+  - hjälporganisation
   - humanitär hjälpverksamhet
   web: https://beetroot.co/aid-for-ukraine/
 
@@ -18081,6 +18113,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://halleforsnas.org/
+
+- entry: 1235920590
+  orgName: Malexanders Sportfiskeklubb
+  orgNumber: 823000-5798
+  comment: null
+  categories:
+  - förening
+  - sportfiskeklubb
+  web: https://malexandersfk.blogspot.com/
 
 - entry: 1235922364
   orgName: Elimförsamlingen i Örebro
