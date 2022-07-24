@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-24-rev-140330",
+    "date": "2022-07-24-rev-180903",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1593,6 +1593,17 @@
       "web": "http://upplandstaxklubb.com/"
     },
     {
+      "entry": 1230564146,
+      "orgNumber": "802501-2884",
+      "orgName": "Musethica Sverige",
+      "categories": [
+        "konsert",
+        "musik",
+        "utbildning"
+      ],
+      "web": "https://sweden.musethica.org/"
+    },
+    {
       "entry": 1230564641,
       "orgNumber": "878002-0338",
       "orgName": "Surahammars Golfklubb",
@@ -2666,6 +2677,13 @@
       "web": "https://sverigeforunhcr.se/"
     },
     {
+      "entry": 1230892299,
+      "orgNumber": "802463-6543",
+      "orgName": "Frihet och H\u00e4lsa / Nuidag.se",
+      "comment": "Mitt arbete",
+      "web": "https://frihetochhalsa.se/"
+    },
+    {
       "entry": 1230898692,
       "orgNumber": "882000-0407",
       "orgName": "Filadelfiaf\u00f6rsamlingen Avesta",
@@ -3124,6 +3142,16 @@
       "web": "http://pannkakskyrkan.se/"
     },
     {
+      "entry": 1231055888,
+      "orgNumber": "849201-2938",
+      "orgName": "Sl\u00e4tt\u00e5krag\u00e5rden F\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://slattakra.com/"
+    },
+    {
       "entry": 1231056571,
       "orgNumber": "818000-1029",
       "orgName": "Eskilstuna GUIF IF",
@@ -3451,6 +3479,15 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.glaumur.se/"
+    },
+    {
+      "entry": 1231147222,
+      "orgNumber": "769622-7334",
+      "orgName": "P\u00e5 Limhamn Ekonomisk F\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://polimhamn.se/"
     },
     {
       "entry": 1231148410,
@@ -4546,6 +4583,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.ostersundbasket.se/"
+    },
+    {
+      "entry": 1231466549,
+      "orgNumber": "802436-1100",
+      "orgName": "Jazz i H\u00e4llevik",
+      "categories": [
+        "festival",
+        "konsert",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://jazzen.nu/"
     },
     {
       "entry": 1231470400,
@@ -6590,6 +6638,16 @@
       "web": "https://www.fralsningsarmen.se/eskilstuna/"
     },
     {
+      "entry": 1232030807,
+      "orgNumber": "802532-7456",
+      "orgName": "Timr\u00e5 Kustvandring",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://timrakustvandring.se/"
+    },
+    {
       "entry": 1232031755,
       "orgNumber": "802003-1178",
       "orgName": "Sociala Missionen",
@@ -7233,6 +7291,16 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/falkenbergskvinnojour/"
+    },
+    {
+      "entry": 1232208064,
+      "orgNumber": "802493-5648",
+      "orgName": "F\u00f6reningen Kulturbojen",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://kulturbojen.webs.com/"
     },
     {
       "entry": 1232208916,
@@ -8440,6 +8508,16 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/tjejjourenlulea/"
+    },
+    {
+      "entry": 1232545861,
+      "orgNumber": "802535-6026",
+      "orgName": "V\u00e4xj\u00f6 OCR F\u00f6rening",
+      "categories": [
+        "hinderbana",
+        "tr\u00e4ning"
+      ],
+      "web": "https://www.vaxjoocr.se/"
     },
     {
       "entry": 1232556009,
@@ -10025,6 +10103,16 @@
         "f\u00f6rening"
       ],
       "web": "https://gratistidningarna.se/"
+    },
+    {
+      "entry": 1232993574,
+      "orgNumber": "802506-2715",
+      "orgName": "QRUT - Aktivt F\u00f6r\u00e4drast\u00f6d",
+      "categories": [
+        "f\u00f6r\u00e4ldraskap",
+        "f\u00f6r\u00e4ldrast\u00f6d"
+      ],
+      "web": "http://qrut.se/"
     },
     {
       "entry": 1232994523,
@@ -11737,6 +11825,15 @@
         "m\u00f6drav\u00e5rd"
       ],
       "web": "https://eezer.org/"
+    },
+    {
+      "entry": 1233498664,
+      "orgNumber": "802513-8143",
+      "orgName": "Gnosjo Global Association",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.gnosjoglobal.com/"
     },
     {
       "entry": 1233500188,
@@ -14090,6 +14187,15 @@
       "web": "https://www.lenaprastgard.se/"
     },
     {
+      "entry": 1234170734,
+      "orgNumber": "802449-1162",
+      "orgName": "Liljeholmens BJJ & MMA",
+      "categories": [
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "http://www.liljeholmensbjj.se/"
+    },
+    {
       "entry": 1234170890,
       "orgNumber": "878000-8499",
       "orgName": "Equmenia Ansgarskyrkan V\u00e4ster\u00e5s",
@@ -15729,6 +15835,16 @@
       "web": "https://www.fralsningsarmen.se/Uppsala/"
     },
     {
+      "entry": 1234642518,
+      "orgNumber": "802435-9005",
+      "orgName": "H\u00e5bo Internationella Kvinnors F\u00f6rening - Systerskap utan gr\u00e4nser",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://hikf.weebly.com/"
+    },
+    {
       "entry": 1234643565,
       "orgNumber": "252000-0650",
       "orgName": "Br\u00e4nnkyrka F\u00f6rsamling",
@@ -16574,6 +16690,13 @@
         "stiftelse"
       ],
       "web": "https://www.fairplaysverige.se/"
+    },
+    {
+      "entry": 1234980496,
+      "orgNumber": "802463-6543",
+      "orgName": "Frihet och H\u00e4lsa / Nuidag.se",
+      "comment": "Skola",
+      "web": "https://frihetochhalsa.se/"
     },
     {
       "entry": 1234986915,
@@ -19674,6 +19797,16 @@
       "web": "http://www.lovohembygd.com/"
     },
     {
+      "entry": 1235763750,
+      "orgNumber": "802434-8735",
+      "orgName": "TangoJamt",
+      "categories": [
+        "danskurser",
+        "dansundervisning"
+      ],
+      "web": "https://tangojamt.com/"
+    },
+    {
       "entry": 1235764410,
       "orgNumber": "849400-7001",
       "orgName": "Gr\u00e4pp\u00e5s GK",
@@ -21265,7 +21398,8 @@
       "orgName": "Svenska Djurambulansen",
       "categories": [
         "djurskydd",
-        "djurv\u00e5rd"
+        "djurv\u00e5rd",
+        "f\u00f6rening"
       ],
       "web": "https://www.svenskadjurambulansen.se/"
     },
