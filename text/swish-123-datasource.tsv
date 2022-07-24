@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-07-23-rev-190245
+# Date: 2022-07-24-rev-140330
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -734,6 +734,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232183515	864500-2125	Pingstförsamlingen Filadelfia Borås	https://boraspingst.se/	religion	
 1232183887	857200-2569	Chalmersska Ingenjörsföreningen - Göteborg	https://avancez.se/	förening	
 1232184778	889202-2255	Timrå KK - Konståkning	https://idrottonline.se/TimraKK-Konstakning/	idrottsförening,konståkning	
+1232189322	802514-2285	Halmstad University Solar Team	http://www.husolarteam.com/	forskning,studentorganisation	
 1232189744	802411-4129	Kvinnojouren Nina	https://ikkr.org/	kvinnojour,tjejjour	Medlemsavgift
 1232193084	885000-0913	Gävle Travsällskap	https://www.gavletravet.se/	hästsport,travsport	
 1232193241	802463-6386	Betaniaförsamlingen Möklinta	https://betaniaforsamlingen.se/	religion	
@@ -1138,6 +1139,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233278983	882601-5466	Flyktinggruppernas Riksråd, FARR	https://farr.se/	förening,riksorganisation	
 1233289469	802476-9195	Fredrika Framtid		intresseförening	
 1233289840	802439-1610	Tuve Scoutkår	https://tuve.scout.se/	förening,scoutkår	
+1233291846	559277-7709	Skitenkelt AB	https://www.skitenkelt.com/	försäljning,hemleverans	
 1233301371	559113-3672	SkyMining AB	https://www.skymining.com/	naturvård	
 1233311107	802429-5472	Fempowerment	https://fempowerment.se/	kvinnojour,tjejjour	
 1233311487	802426-0922	Stiftelsen Claphaminstitutet	https://claphaminstitutet.se/	religion,stiftelse	
@@ -1176,6 +1178,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233383072	897300-0097	IFK Kiruna	https://www.ifkkiruna.se/	idrottsförening	
 1233383080	824000-1134	Motala Ryttarförening	https://www.motalarf.com/	hästsport,ryttarförening	
 1233384062	878000-4803	Svenska Hundklubben Västerås	https://www.shkvasteras.se/	hundklubb,hundsport	
+1233384765	835600-2082	KRIF Hockey	https://www.hockeyettan.se/krifhockey/	förening,ishockeyklubb	
 1233385531	802488-4465	Children's Home	https://www.childrenshome.se/	stiftelse	
 1233387859	875000-2522	Stora Mellösa Baptistförsamling	http://www.baptistkyrkan.com/	religion	
 1233388840	802480-6310	Stiftelsen Waldos Wänner	https://waldoswanner.se/	stiftelse	
@@ -1207,6 +1210,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233469293	556707-2334	Hallberg-Rassy Varvs AB	https://www.hallberg-rassy.com/	båttillverkning,båtvarv,segling	
 1233474350	829501-9627	Växjöortens Folkdanslag	https://www.vaxjofolkdans.se/	folkdans,förening,intresseorganisation	
 1233489846	802477-7552	Insamlingsstiftelsen Alois Alzheim	https://www.alzheimerstiftelsen.com/	stiftelse	
+1233495926	802515-4066	Eezer Sverige Ideell Förening	https://eezer.org/	hälsovård,mödravård	
 1233500188	802436-3866	Guldstadens kvinnojour & Guldstadens tjejjour	https://www.unizonjourer.se/guldstaden/	kvinnojour,tjejjour	
 1233500451	556605-9134	Engströms Artstudio AB	http://www.engstroms.se/	försäljning,hobbykeramik,kortmakeri,porslinsdockor,scrapbooking	
 1233501798	883201-8470	Furudals Bruks Golfklubb	https://furudalsgolf.com/	golfklubb	
@@ -1625,6 +1629,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234653143	825000-4390	Pingstkyrkan i Norrköping	https://www.pingstnorrkoping.se/	religion	
 1234654158	849600-0236	Pingstförsamlingen i Varberg	https://www.pingstvarberg.se/	religion	Församlingskassan
 1234661120	760511-XXXX	TPs Hundbutik / Linda Ling	http://www.tpshundbutik.se/	djurvård,hundsport,husdjur	
+1234665063	556722-7789	Charlie's House - Fredagskassen / Christian & Louise i Båstad AB	https://fredagskassen.storedo.com/	bageri	
 1234665501	802471-5107	Dravets Syndrome Association Sweden, DSAS	http://www.dravetssweden.se/	hälsa,intresseförening	
 1234665675	802418-6812	Animal Protection Network (APN)	http://www.animalprotection.se/	intresseförening	
 1234665816	802460-6967	Narkolepsiföreningen i Sverige	https://www.narkolepsiforeningen.se/	förening,intresseförening	
@@ -1713,6 +1718,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234995015	855100-6771	Pensionärernas BTK - Bordtennis	https://www.pbk-gbg.se/	bordtennis,pensionärsklubb	
 1234997243	802509-4148	Föreningen Turf Västmanland	https://www.uturf.se/	friluftsliv,förening	
 1234999199	802424-3472	Stiftelsen Hästforskning	https://hastforskning.se/	forskning,stiftelse	
+1235009410	556440-0827	Top of Skellefteå / Midsommarviken AB	https://topofskelleftea.blogspot.com/	kulturförening	
 1235009519	863000-5299	Göta Bollklubb	https://www.svenskalag.se/gotabk	fotboll,idrottsförening	
 1235009683	802467-4676	Focus On Africa, FONA	http://www.focusonafrica.nu/	hjälporganisation	
 1235013412	862500-0172	Brålanda IF	http://bralandaif.se/	idrottsförening	
@@ -1982,6 +1988,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235638648	802477-5218	Ramstrand Foundation Insamlingsstiftelse	https://ramstrandfoundation.com/	stiftelse	
 1235640073	855100-9981	Smyrnakyrkan Göteborg	https://www.smyrna.se/	religion	
 1235653175	802531-4033	Föreningen Om dissociation	https://dissociation.nu/	förening	
+1235653803	560730-XXXX	Myter & Mysterier / Diakrino - urskillning i mångfald	https://www.myterochmysterier.se/	podcast	
 1235662069	833600-2996	Västerviksortens Ryttareförening	https://vasterviksrf.se/	ryttarförening	Tävling
 1235664628	817600-5307	Uppsala Biodlareförening	https://uppsalabiodlare.se/	biodling,förening	
 1235666680	802428-5606	The Maine Club	https://themaineclub.se/	kattklubb	
@@ -2195,6 +2202,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236212062	490720-XXXX	Reikicentrum Lidköping / Lilian Gustavsson	https://www.reikicentrum.se/	healing,reiki	
 1236212179	802518-5904	Kontext Press	https://www.kontextpress.se/	journalistik	
 1236212757	888400-3172	Docksta Bordtennisklubb (DBTK)	http://www.dbtk.se/	bordtennis,bordtennisklubb	888400-7287
+1236213086	802524-9353	Kattpatrullen	https://www.kattpatrullen.com/	djurskydd,katthem	
 1236215230	864501-6562	Föreningen för Olympisk Kortdistansskjutning FOK Borås	https://www.fokboras.se/	pistolskytteklubb,skytte	Trap
 1236215636	802004-1524	We Effect	https://weeffect.se/	hjälporganisation	LRFs insamling
 1236218598	863000-4086	Ale-Skövdeortens bygdegårdsförening	https://www.alegarden.se/	bygdegårdsförening	

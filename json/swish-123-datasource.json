@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-23-rev-190244",
+    "date": "2022-07-24-rev-140330",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7128,6 +7128,16 @@
       "web": "https://idrottonline.se/TimraKK-Konstakning/"
     },
     {
+      "entry": 1232189322,
+      "orgNumber": "802514-2285",
+      "orgName": "Halmstad University Solar Team",
+      "categories": [
+        "forskning",
+        "studentorganisation"
+      ],
+      "web": "http://www.husolarteam.com/"
+    },
+    {
       "entry": 1232189744,
       "orgNumber": "802411-4129",
       "orgName": "Kvinnojouren Nina",
@@ -11039,6 +11049,16 @@
       "web": "https://tuve.scout.se/"
     },
     {
+      "entry": 1233291846,
+      "orgNumber": "559277-7709",
+      "orgName": "Skitenkelt AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "hemleverans"
+      ],
+      "web": "https://www.skitenkelt.com/"
+    },
+    {
       "entry": 1233301371,
       "orgNumber": "559113-3672",
       "orgName": "SkyMining AB",
@@ -11405,6 +11425,16 @@
       "web": "https://www.shkvasteras.se/"
     },
     {
+      "entry": 1233384765,
+      "orgNumber": "835600-2082",
+      "orgName": "KRIF Hockey",
+      "categories": [
+        "f\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.hockeyettan.se/krifhockey/"
+    },
+    {
       "entry": 1233385531,
       "orgNumber": "802488-4465",
       "orgName": "Children's Home",
@@ -11697,6 +11727,16 @@
         "stiftelse"
       ],
       "web": "https://www.alzheimerstiftelsen.com/"
+    },
+    {
+      "entry": 1233495926,
+      "orgNumber": "802515-4066",
+      "orgName": "Eezer Sverige Ideell F\u00f6rening",
+      "categories": [
+        "h\u00e4lsov\u00e5rd",
+        "m\u00f6drav\u00e5rd"
+      ],
+      "web": "https://eezer.org/"
     },
     {
       "entry": 1233500188,
@@ -15758,6 +15798,15 @@
       "web": "http://www.tpshundbutik.se/"
     },
     {
+      "entry": 1234665063,
+      "orgNumber": "556722-7789",
+      "orgName": "Charlie's House - Fredagskassen / Christian & Louise i B\u00e5stad AB",
+      "categories": [
+        "bageri"
+      ],
+      "web": "https://fredagskassen.storedo.com/"
+    },
+    {
       "entry": 1234665501,
       "orgNumber": "802471-5107",
       "orgName": "Dravets Syndrome Association Sweden, DSAS",
@@ -16597,6 +16646,15 @@
         "stiftelse"
       ],
       "web": "https://hastforskning.se/"
+    },
+    {
+      "entry": 1235009410,
+      "orgNumber": "556440-0827",
+      "orgName": "Top of Skellefte\u00e5 / Midsommarviken AB",
+      "categories": [
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://topofskelleftea.blogspot.com/"
     },
     {
       "entry": 1235009519,
@@ -19216,6 +19274,15 @@
       "web": "https://dissociation.nu/"
     },
     {
+      "entry": 1235653803,
+      "orgNumber": "560730-XXXX",
+      "orgName": "Myter & Mysterier / Diakrino - urskillning i m\u00e5ngfald",
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://www.myterochmysterier.se/"
+    },
+    {
       "entry": 1235662069,
       "orgNumber": "833600-2996",
       "orgName": "V\u00e4sterviksortens Ryttaref\u00f6rening",
@@ -21296,6 +21363,16 @@
         "bordtennisklubb"
       ],
       "web": "http://www.dbtk.se/"
+    },
+    {
+      "entry": 1236213086,
+      "orgNumber": "802524-9353",
+      "orgName": "Kattpatrullen",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://www.kattpatrullen.com/"
     },
     {
       "entry": 1236215230,
