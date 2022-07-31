@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-07-31-rev-165614",
+    "date": "2022-07-31-rev-165756",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -206,7 +206,7 @@
       "orgNumber": "802501-9483",
       "orgName": "Rotary Nyk\u00f6ping \u00d6ster",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://nykoping-oster.rotary2370.se/"
     },
@@ -869,7 +869,7 @@
       "orgNumber": "802418-1524",
       "orgName": "Rotary Vadstena Kloster",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://portal.clubrunner.ca/16256/"
     },
@@ -1468,7 +1468,7 @@
       "orgNumber": "802496-6379",
       "orgName": "Rotary Distrikt 2360",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://rotary2360.builder.hemsida24.se/"
     },
@@ -1523,7 +1523,7 @@
       "orgNumber": "802475-3892",
       "orgName": "Rotary \u00c4ngelholm-Bj\u00e4re",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://angelholm-bjare.rotary2400.se/"
     },
@@ -1642,7 +1642,7 @@
       "orgNumber": "802017-6098",
       "orgName": "Rotary Stockholm Strand",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://stockholmstrand.org/"
     },
@@ -2783,7 +2783,7 @@
       "orgNumber": "002100-4619",
       "orgName": "Rotary Lomma-Bj\u00e4rred",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://lomma-bjarred.rotary2390.se/"
     },
@@ -2942,7 +2942,7 @@
       "orgNumber": "842001-2406",
       "orgName": "Rotary Esl\u00f6v",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://eslov.rotary2390.se/"
     },
@@ -3571,7 +3571,7 @@
       "orgNumber": "844000-9887",
       "orgName": "Rotary Landskrona Citadell",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://landskrona-citadell.rotary2390.se/"
     },
@@ -4344,7 +4344,7 @@
       "orgNumber": "642384-1888",
       "orgName": "Rotary Simrishamn",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://simrishamn.rotary2390.se/"
     },
@@ -7116,7 +7116,7 @@
       "orgNumber": "802495-5794",
       "orgName": "Rotary Kivik",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://kivik.rotary2390.se/"
     },
@@ -7454,7 +7454,7 @@
       "orgNumber": "846003-5291",
       "orgName": "Rotary Malm\u00f6 S\u00f6dra",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://malmo-sodra.rotary2390.se/"
     },
@@ -8926,7 +8926,7 @@
       "orgNumber": "802517-4460",
       "orgName": "Rotary Stenungsund",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://rotarystenungsund.com/"
     },
@@ -9746,7 +9746,7 @@
       "orgNumber": "818500-7856",
       "orgName": "Rotary Katrineholm",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://rotarykatrineholm.se/"
     },
@@ -10524,7 +10524,7 @@
       "orgName": "Rotary Doctors Sweden",
       "categories": [
         "hj\u00e4lporganisation",
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://www.rotarydoctors.se/"
     },
@@ -11369,7 +11369,7 @@
       "orgNumber": "802005-3214",
       "orgName": "Rotary Distrikt 2370",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://rotary2370.se/"
     },
@@ -13215,7 +13215,7 @@
       "orgNumber": "802453-9960",
       "orgName": "Rotary Landskrona-Glumsl\u00f6v",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://landskrona-glumslov.rotary2390.se/"
     },
@@ -13665,7 +13665,7 @@
       "orgNumber": "802508-5617",
       "orgName": "Rotary Helsingborg K\u00e4rnan",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://helsingborg-karnan.rotary2390.se/"
     },
@@ -15846,7 +15846,7 @@
       "orgNumber": "802496-6379",
       "orgName": "Rotary Distrikt 2360",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://rotary2360.se/"
     },
@@ -17716,7 +17716,7 @@
       "orgNumber": "846000-4339",
       "orgName": "Rotary Malm\u00f6",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://malmo.rotary2390.se/"
     },
@@ -18857,7 +18857,7 @@
       "orgNumber": "846003-5291",
       "orgName": "Rotary Malm\u00f6 S\u00f6dra",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://malmo-sodra.rotary2390.se/"
     },
@@ -21079,7 +21079,7 @@
       "orgNumber": "802506-9736",
       "orgName": "Rotary Esl\u00f6v-Sallerup",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://eslov-sallerup.rotary2390.se/"
     },
@@ -22548,7 +22548,7 @@
       "orgNumber": "802441-6730",
       "orgName": "Rotary Kristianstad Nova",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://kristianstad-nova.rotary2400.se/"
     },
@@ -23191,7 +23191,7 @@
       "orgNumber": "802004-6457",
       "orgName": "Stiftelsen Rotarys Ungdomsutbyte i Sverige & Lettland",
       "categories": [
-        "rotary",
+        "rotaryklubb",
         "stiftelse"
       ],
       "web": "https://www.rotarystudent.se/information-georgiastipendiet"
@@ -23904,7 +23904,7 @@
       "orgNumber": "642384-1888",
       "orgName": "Rotary Simrishamn",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://simrishamn.rotary2390.se/"
     },
@@ -24393,7 +24393,7 @@
       "orgNumber": "802525-9261",
       "orgName": "Rotaryklubb Trollh\u00e4ttan",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://www.trollhattanrk.se/"
     },
@@ -25370,7 +25370,7 @@
       "orgNumber": "802506-9991",
       "orgName": "Rotary Nybro Glasriket",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ]
     },
     {
@@ -25426,7 +25426,7 @@
       "orgNumber": "802497-6311",
       "orgName": "Rotary Staffanstorp",
       "categories": [
-        "rotary"
+        "rotaryklubb"
       ],
       "web": "https://staffanstorp.rotary2390.se/"
     },
