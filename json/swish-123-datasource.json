@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-08-05-rev-004444",
+    "date": "2022-08-05-rev-013048",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1489,6 +1489,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.lekvattnet.se/"
+    },
+    {
+      "entry": 1230470963,
+      "orgNumber": "848000-9037",
+      "orgName": "Lions Club Romele\u00e5sen",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/romeleasen/"
     },
     {
       "entry": 1230470971,
@@ -4720,6 +4729,15 @@
       "web": "https://lund.ronaldmcdonaldhus.se/"
     },
     {
+      "entry": 1231371327,
+      "orgNumber": "882000-6214",
+      "orgName": "Lions Club Avesta",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://avesta.lions.se/"
+    },
+    {
       "entry": 1231371921,
       "orgNumber": "869000-0495",
       "orgName": "Pingstkyrkan Lidk\u00f6ping",
@@ -5654,6 +5672,15 @@
       "web": "https://www.jourhavande-medmanniska.se/"
     },
     {
+      "entry": 1231605161,
+      "orgNumber": "802463-7186",
+      "orgName": "Lions Club L\u00f6ddek\u00f6pinge",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.lionslodde.se/"
+    },
+    {
       "entry": 1231610286,
       "orgNumber": "252000-0650",
       "orgName": "Br\u00e4nnkyrka F\u00f6rsamling",
@@ -6063,6 +6090,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/ifvaster/"
+    },
+    {
+      "entry": 1231720440,
+      "orgNumber": "865500-6511",
+      "orgName": "Lions Club Tranemo",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://tranemolion.se/"
     },
     {
       "entry": 1231721497,
@@ -8622,6 +8658,16 @@
       "web": "https://skovdepingst.se/"
     },
     {
+      "entry": 1232377539,
+      "orgNumber": "868401-0716",
+      "orgName": "Lions Club Nossebro",
+      "comment": "Aktivitetskassan",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://lionsclubnossebro.nu/"
+    },
+    {
       "entry": 1232380111,
       "orgNumber": "882601-3859",
       "orgName": "PRO Kvarnsveden",
@@ -8766,6 +8812,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://ghf.swedenroots.se/"
+    },
+    {
+      "entry": 1232404283,
+      "orgNumber": "832800-4216",
+      "orgName": "Lions Club H\u00f6gsby",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://lions.hogsby.net/"
     },
     {
       "entry": 1232404507,
@@ -10009,6 +10064,15 @@
       "web": "https://www.eksjorck.se/"
     },
     {
+      "entry": 1232752459,
+      "orgNumber": "824000-4450",
+      "orgName": "Lions Club Borensberg",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://www.lionsborensberg.se/"
+    },
+    {
       "entry": 1232752517,
       "orgNumber": "890313-XXXX",
       "orgName": "Ebba Pettersson",
@@ -10987,6 +11051,16 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenannfrid/"
+    },
+    {
+      "entry": 1233024494,
+      "orgNumber": "012641-6445",
+      "orgName": "Little Lions",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "utbildning"
+      ],
+      "web": "http://www.littlelions.se/"
     },
     {
       "entry": 1233024932,
@@ -12745,6 +12819,15 @@
       "web": "http://blog.kulturgaraget.se/"
     },
     {
+      "entry": 1233455607,
+      "orgNumber": "802493-0375",
+      "orgName": "Lions Club Nybro",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://www.lionsnybro.se/"
+    },
+    {
       "entry": 1233456399,
       "orgNumber": "802405-0216",
       "orgName": "Sk\u00e4rg\u00e5rdsstiftelsen I Stockholms L\u00e4n",
@@ -13340,6 +13423,16 @@
         "sport"
       ],
       "web": "https://sverigerunt.org/"
+    },
+    {
+      "entry": 1233622925,
+      "orgNumber": "868401-0716",
+      "orgName": "Lions Club Nossebro",
+      "comment": "Klubbkassan",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://lionsclubnossebro.nu/"
     },
     {
       "entry": 1233623212,
@@ -15760,7 +15853,7 @@
       "orgNumber": "817000-9222",
       "orgName": "Lions Club B\u00e5lsta",
       "categories": [
-        "intressef\u00f6rening"
+        "lionsklubb"
       ],
       "web": "https://boesha.se/"
     },
@@ -15811,6 +15904,15 @@
         "reservdelar"
       ],
       "web": "https://www.24meter.se/"
+    },
+    {
+      "entry": 1234264222,
+      "orgNumber": "849201-4371",
+      "orgName": "Lions Club Oskarstr\u00f6m",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://lions.oskarstrom.com/"
     },
     {
       "entry": 1234272308,
@@ -19795,6 +19897,15 @@
       "web": "https://efsovik.se/"
     },
     {
+      "entry": 1235383591,
+      "orgNumber": "837000-8305",
+      "orgName": "Lions Club Tyringe",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://www.tyringe.nu/lions/"
+    },
+    {
       "entry": 1235383740,
       "orgNumber": "802420-0241",
       "orgName": "Direktdemokraterna",
@@ -21396,6 +21507,15 @@
       "web": "https://www.grappasgk.se/"
     },
     {
+      "entry": 1235767876,
+      "orgNumber": "883201-8116",
+      "orgName": "Lions Club R\u00e4ttvik",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.lionsrattvik.se/"
+    },
+    {
       "entry": 1235770144,
       "orgNumber": "815600-2043",
       "orgName": "S\u00f6dert\u00e4lje Teateramat\u00f6rer",
@@ -21869,6 +21989,15 @@
         "intresseorganisation"
       ],
       "web": "https://changeattitude.org/"
+    },
+    {
+      "entry": 1235894472,
+      "orgNumber": "825001-5834",
+      "orgName": "Lions Club Finsp\u00e5ng",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://www.lionsfinspang.se/"
     },
     {
       "entry": 1235909379,
@@ -24884,6 +25013,15 @@
       "web": "http://www.mellbystrand.se/"
     },
     {
+      "entry": 1236722052,
+      "orgNumber": "835600-7677",
+      "orgName": "Lions Club Karlskrona - Jarramas",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.lionsjarramas.se/"
+    },
+    {
       "entry": 1236731269,
       "orgNumber": "860121-XXXX",
       "orgName": "Lula Wellbeing / Cecilia Vintesn\u00f6",
@@ -25786,6 +25924,15 @@
         "religion"
       ],
       "web": "https://pingstkaxholmen.se/"
+    },
+    {
+      "entry": 1236991509,
+      "orgNumber": "866601-0395",
+      "orgName": "Lions Club Tibro",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://lionsclubitibro.n.nu/"
     },
     {
       "entry": 1236991988,
