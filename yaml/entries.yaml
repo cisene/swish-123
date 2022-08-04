@@ -1290,6 +1290,13 @@ entries:
   - utbildning
   web: http://www.zerillas.se/
 
+- entry: 1230442046
+  orgName: Strömsbro kyrka
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230450973
   orgName: Camp Sweden TIFO
   orgNumber: 802430-7962
@@ -2131,6 +2138,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/roslagens-ostra-pastorat/blido-forsamling
+
+- entry: 1230743591
+  orgName: Lions Club Karlskrona
+  orgNumber: 935000-4223
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://www.lionskarlskrona.org/
 
 - entry: 1230746859
   orgName: Östermalmskyrkans församling
@@ -3548,6 +3563,13 @@ entries:
   - djurskydd
   web: https://www.djurensvanner.se/karlshamn
 
+- entry: 1231162601
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1231166966
   orgName: Svenska OCD-förbundet
   orgNumber: 878001-4687
@@ -4628,6 +4650,14 @@ entries:
   - trafikskola
   web: https://www.josefssonstrafikskola.se/
 
+- entry: 1231482355
+  orgName: Lions Barnfond Hjärtat
+  orgNumber: 802415-8498
+  comment: null
+  categories:
+  - välgörenhet
+  web: http://pitea.lions.se/p-o/gava-till-lions-barnmfond-hjartat/
+
 - entry: 1231482363
   orgName: Orsa Slipstensförening
   orgNumber: 884402-0449
@@ -4707,6 +4737,14 @@ entries:
   - utbildning
   - yoga
   web: https://www.trideviyoga.se/
+
+- entry: 1231492941
+  orgName: Lions Club Falkenberg
+  orgNumber: 849000-5140
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://www.lions-club.se/falkenberg/
 
 - entry: 1231493444
   orgName: Borås Skidlöparklubb
@@ -5043,6 +5081,14 @@ entries:
   - golfklubb
   web: http://www.stjernforsgk.com/
 
+- entry: 1231604446
+  orgName: Lions Club Piteå-Öjebyn
+  orgNumber: 802415-8498
+  comment: null
+  categories:
+  - lionsklubb
+  web: http://pitea.lions.se/
+
 - entry: 1231604560
   orgName: Kvinnohuset Tranan / Skaraborgs Kvinnohusförening
   orgNumber: 866601-2938
@@ -5156,11 +5202,11 @@ entries:
   web: https://www.helhetenshus.se/
 
 - entry: 1231619501
-  orgName: Lions Simrishamn
+  orgName: Lions Club Simrishamn
   orgNumber: 838800-6150
   comment: null
   categories:
-  - förening
+  - lionsklubb
   web: https://e-clubhouse.org/sites/simrishamn/
 
 - entry: 1231625607
@@ -6667,6 +6713,14 @@ entries:
   - idrottsförening
   web: https://forsby-idrottsplats.webnode.se/
 
+- entry: 1232106854
+  orgName: Lions Club Täby
+  orgNumber: 816000-6071
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://taby.lions.se/
+
 - entry: 1232110864
   orgName: Morjärvs Sportklubb
   orgNumber: 898200-1185
@@ -6920,6 +6974,14 @@ entries:
   categories:
   - förening
   web: https://avancez.se/
+
+- entry: 1232184067
+  orgName: Lions Club Piteå
+  orgNumber: 898800-2187
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://www.e-clubhouse.org/sites/pitea/
 
 - entry: 1232184778
   orgName: Timrå KK - Konståkning
@@ -7657,6 +7719,14 @@ entries:
   - golfklubb
   web: https://www.golfuppsala.se/
 
+- entry: 1232370906
+  orgName: Lions Club Gnesta
+  orgNumber: 802507-5147
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://e-clubhouse.org/sites/gnesta/
+
 - entry: 1232371045
   orgName: Brännkyrka Församling
   orgNumber: 252000-0650
@@ -7804,6 +7874,14 @@ entries:
   categories:
   - utbildning
   web: https://www.yari.nu/
+
+- entry: 1232403285
+  orgName: Rättvisepartiet Socialisterna
+  orgNumber: 802404-0308
+  comment: Valfonden
+  categories:
+  - politiskt parti
+  web: https://www.socialisterna.org/
 
 - entry: 1232403590
   orgName: Rydaholms Frikyrka
@@ -8077,6 +8155,13 @@ entries:
   categories:
   - intresseförening
   web: https://www.canwetalkaboutit.org/
+
+- entry: 1232512606
+  orgName: Staffans kyrka
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1232520476
   orgName: Limhams Shotokan Karateklubb
@@ -8849,12 +8934,11 @@ entries:
   web: https://kringlanstrafikskola.se/
 
 - entry: 1232711612
-  orgName: Lions Club I Vimmerby
+  orgName: Lions Club Vimmerby
   orgNumber: 833200-5332
   comment: null
   categories:
-  - förening
-  - intresseförening
+  - lionsklubb
   web: https://sites.google.com/site/lionsclubvimmerby/
 
 - entry: 1232713436
@@ -9460,6 +9544,14 @@ entries:
   - idrottsförening
   web: https://albylen.se/
 
+- entry: 1232887719
+  orgName: Lions Club Wä
+  orgNumber: 838201-4853
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://sites.google.com/a/lionsclubwa.se/
+
 - entry: 1232887768
   orgName: Käringbergets Bystugeförening
   orgNumber: 883202-4668
@@ -9796,6 +9888,13 @@ entries:
   categories:
   - stiftelse
   web: https://www.larsobritta.se/
+
+- entry: 1232999357
+  orgName: Björsjökyrkan
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1233010212
   orgName: Svenska Avdelningen av Internationella Juristkommissionen, ICJ-Sweden
@@ -10147,6 +10246,14 @@ entries:
   - filateli
   web: http://www.junefil.se/
 
+- entry: 1233114048
+  orgName: Rättvisepartiet Socialisterna
+  orgNumber: 802404-0308
+  comment: Valfonden
+  categories:
+  - politiskt parti
+  web: https://www.socialisterna.org/
+
 - entry: 1233114667
   orgName: Docksta Bordtennisklubb (DBTK)
   orgNumber: 888400-3172
@@ -10195,6 +10302,16 @@ entries:
   categories:
   - golfklubb
   web: https://www.hogbogk.com/
+
+- entry: 1233123999
+  orgName: Ssenyange Education Project
+  orgNumber: 802447-7294
+  comment: null
+  categories:
+  - hjälporganisation
+  - utbildning
+  - välgörenhet
+  web: https://ssenyange.org/
 
 - entry: 1233124922
   orgName: Chinese Crested Club
@@ -10867,6 +10984,13 @@ entries:
   categories:
   - tennisklubb
   web: http://www.hallstatennis.se/
+
+- entry: 1233315470
+  orgName: Tomaskyrkan
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1233317047
   orgName: Elektronikföreningen Admittansen
@@ -11573,6 +11697,14 @@ entries:
   categories:
   - scoutkår
   web: https://www.utbyscout.se/
+
+- entry: 1233510575
+  orgName: Lions Club Mölndal
+  orgNumber: 802506-3697
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://e-clubhouse.org/sites/molndalse/
 
 - entry: 1233511409
   orgName: Åkers Hembygdsförening
@@ -12401,6 +12533,14 @@ entries:
   - konst
   web: https://konstnarstryck.se/
 
+- entry: 1233790813
+  orgName: Lions Club Lerum
+  orgNumber: 863500-2291
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://www.e-clubhouse.org/sites/lerum/
+
 - entry: 1233791167
   orgName: Åhls Hembygdsförening
   orgNumber: 883200-7895
@@ -12572,6 +12712,13 @@ entries:
   - ornitologi
   web: http://www.leksandsfagelklubb.se/
 
+- entry: 1233820172
+  orgName: Mariakyrkan
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1233824877
   orgName: Insamlingsstiftelsen Ellas Hjältar
   orgNumber: 802481-2169
@@ -12681,6 +12828,14 @@ entries:
   - intresseförening
   web: https://arkitekturensvanner.se/
 
+- entry: 1233861044
+  orgName: Stiftelsen Lööf Foundation
+  orgNumber: 802478-0861
+  comment: null
+  categories:
+  - stiftelse
+  web: http://looffoundation.org/
+
 - entry: 1233864444
   orgName: Kvinnojouren Nike / Segergudinnan I Gällivare
   orgNumber: 802437-9284
@@ -12714,6 +12869,14 @@ entries:
   categories:
   - stiftelse
   web: http://www.sjomanskyrkan.se/
+
+- entry: 1233879061
+  orgName: Lions Club Arvika
+  orgNumber: 802458-8488
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://www.e-clubhouse.org/sites/arvika/
 
 - entry: 1233879715
   orgName: FSK Lodjuret Älvsbyns kommuns Skoterklubb
@@ -14751,6 +14914,14 @@ entries:
   - skadeförening
   web: https://www.nrhtrauma.se/
 
+- entry: 1234431201
+  orgName: Rotary Distrikt 2390
+  orgNumber: 842000-8776
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://rotary2390.se/
+
 - entry: 1234432548
   orgName: Hammarby IF Ishockeyförening
   orgNumber: 802442-1623
@@ -14988,6 +15159,14 @@ entries:
   - politiskt parti
   web: https://www.mp.se/
 
+- entry: 1234536207
+  orgName: Rotary Landvetter-Råda
+  orgNumber: 852000-6852
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/16263/
+
 - entry: 1234536819
   orgName: EFS Västerbotten
   orgNumber: 894000-2952
@@ -15061,6 +15240,14 @@ entries:
   categories:
   - golfutrustning
   web: https://www.mollegk.se/
+
+- entry: 1234567848
+  orgName: Lions Club Lomma
+  orgNumber: 846002-1101
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://lomma.lions.se/
 
 - entry: 1234572525
   orgName: Fjugesta Motorsällskap
@@ -15751,6 +15938,14 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/faockerooarna/
+
+- entry: 1234804092
+  orgName: Lions Club Uddevalla
+  orgNumber: 858500-4628
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://lionsuddevalla.se/
 
 - entry: 1234804357
   orgName: Torpa Församling
@@ -16849,6 +17044,14 @@ entries:
   - psykisk hälsa
   web: https://afasi.se/
 
+- entry: 1235144761
+  orgName: Lions Club Båstad Skåne
+  orgNumber: 802498-6112
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://e-clubhouse.org/sites/bastad/
+
 - entry: 1235146840
   orgName: Novahuset
   orgNumber: 802443-9203
@@ -17208,6 +17411,13 @@ entries:
   categories:
   - intresseförening
   web: https://www.pridelysekil.se/
+
+- entry: 1235240718
+  orgName: Heliga Trefaldighets kyrka
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1235245006
   orgName: Perikles Nöjes Aktiebolag
@@ -18269,6 +18479,14 @@ entries:
   - kamerasystem
   web: https://wipomatic.nu/
 
+- entry: 1235531116
+  orgName: Lions Club Skurup
+  orgNumber: 848000-8740
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://lionsskurup.se/
+
 - entry: 1235532064
   orgName: Grums IK Hockey
   orgNumber: 873201-9602
@@ -18716,6 +18934,14 @@ entries:
   categories:
   - religion
   web: https://www.smyrna.se/
+
+- entry: 1235640438
+  orgName: Lions Club Distrikt 101M
+  orgNumber: 802524-5815
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://www.lions101m.se/
 
 - entry: 1235653175
   orgName: Föreningen Om dissociation
@@ -19676,6 +19902,14 @@ entries:
   - kampsportsförening
   web: https://hiltivästerås.se/
 
+- entry: 1235936901
+  orgName: Lions Club Laholm
+  orgNumber: 849201-3514
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://lionslaholm.se/
+
 - entry: 1235942826
   orgName: Hörselskadades Riksförbund Kristinehamn
   orgNumber: 873201-9172
@@ -20249,6 +20483,14 @@ entries:
   - supporterklubb
   web: https://www.arsenal.se/
 
+- entry: 1236098818
+  orgName: Lions Club Sjöbo
+  orgNumber: 848000-4483
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://lions.sjobo.nu/
+
 - entry: 1236111744
   orgName: AMAL Sweden / Amal Express Ekonomisk Förening
   orgNumber: 769608-9247
@@ -20480,6 +20722,14 @@ entries:
   - intresseorganisation
   - ufo
   web: https://www.ufo.se/
+
+- entry: 1236160667
+  orgName: Rotary Svedala
+  orgNumber: 802496-0927
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://svedala.rotary2390.se/
 
 - entry: 1236160675
   orgName: Norra Hallands Konstförening
@@ -21490,6 +21740,14 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/Umea/Umea/
 
+- entry: 1236449896
+  orgName: Lions Club Kinna-Skene
+  orgNumber: 865000-5856
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://www.lionsclubkinnaskene.se/
+
 - entry: 1236459390
   orgName: Husby-Rekarne Scoutkår
   orgNumber: 818000-8735
@@ -21815,6 +22073,14 @@ entries:
   - rådgivning
   web: https://www.gatujuristerna.com/
 
+- entry: 1236569479
+  orgName: Lions Club Mölndal
+  orgNumber: 802506-3697
+  comment: Bakluckeloppis
+  categories:
+  - lionsklubb
+  web: https://e-clubhouse.org/sites/molndalse/
+
 - entry: 1236570154
   orgName: Vrå Församling
   orgNumber: 252000-6970
@@ -21861,6 +22127,13 @@ entries:
   categories:
   - hundklubb
   web: http://www.odeshogskennelklubb.se/
+
+- entry: 1236590566
+  orgName: Bomhus kyrka
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1236613087
   orgName: HFA Sverige
