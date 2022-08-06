@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-08-05-rev-013048",
+    "date": "2022-08-06-rev-170226",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -717,7 +717,7 @@
     {
       "entry": 1230244871,
       "orgNumber": "252004-7669",
-      "orgName": "Hyltebruks pastorat",
+      "orgName": "Hyltebruks Pastorat",
       "categories": [
         "religion"
       ],
@@ -1042,6 +1042,17 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Nykoping/"
+    },
+    {
+      "entry": 1230345801,
+      "orgNumber": "814400-4853",
+      "orgName": "Ridklubben Norrt\u00e4lje Ryttare",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.ridklubbennorrtaljeryttare.se/"
     },
     {
       "entry": 1230348094,
@@ -2620,6 +2631,15 @@
       "web": "https://holibeyoga.se/"
     },
     {
+      "entry": 1230813451,
+      "orgNumber": "865000-5849",
+      "orgName": "Lions Club Svenljunga",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://lionssvenljunga.se/"
+    },
+    {
       "entry": 1230821223,
       "orgNumber": "252004-0755",
       "orgName": "Lugn\u00e5s f\u00f6rsamling",
@@ -2646,6 +2666,15 @@
         "kiosk",
         "restaurant"
       ]
+    },
+    {
+      "entry": 1230833186,
+      "orgNumber": "883800-2999",
+      "orgName": "Lions Club Ludvika",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.laget.se/Lions_Club_Ludvika/"
     },
     {
       "entry": 1230833269,
@@ -2889,6 +2918,16 @@
       "web": "https://www.epilepsi.se/"
     },
     {
+      "entry": 1230878835,
+      "orgNumber": "802508-1947",
+      "orgName": "Fanatic Fusion Vi Unga",
+      "categories": [
+        "dansf\u00f6rening",
+        "ungdomsverksamhet"
+      ],
+      "web": "http://fanaticfusion.com/"
+    },
+    {
       "entry": 1230879379,
       "orgNumber": "885500-2088",
       "orgName": "\u00c5rsunda IF",
@@ -3103,6 +3142,17 @@
         "spa"
       ],
       "web": "https://www.mandorla.se/"
+    },
+    {
+      "entry": 1230927913,
+      "orgNumber": "802465-1393",
+      "orgName": "St\u00f6df\u00f6reningen Mama Norah Education Centre",
+      "categories": [
+        "f\u00f6rening",
+        "st\u00f6df\u00f6rening",
+        "utbildning"
+      ],
+      "web": "https://mamanorah.com/"
     },
     {
       "entry": 1230928366,
@@ -3575,6 +3625,15 @@
       "web": "https://www.saffletrollingklubb.com/"
     },
     {
+      "entry": 1231077395,
+      "orgNumber": "849201-3985",
+      "orgName": "F\u00f6reningen Gamla Halmstad",
+      "categories": [
+        "f\u00f6rening"
+      ],
+      "web": "https://gamlahalmstad.se/"
+    },
+    {
       "entry": 1231079128,
       "orgNumber": "875000-4502",
       "orgName": "Baptistf\u00f6rsamlingen Immanuel",
@@ -4001,6 +4060,15 @@
       "web": "https://www.hulta-bollebygdgk.se/"
     },
     {
+      "entry": 1231175785,
+      "orgNumber": "865000-5849",
+      "orgName": "Lions Club Svenljunga",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://lionssvenljunga.se/"
+    },
+    {
       "entry": 1231178623,
       "orgNumber": "802508-4347",
       "orgName": "Konstf\u00f6reningen Westmannia",
@@ -4187,6 +4255,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231229764,
+      "orgNumber": "814801-1201",
+      "orgName": "Lions Club Sigtuna",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://www.sigtuna-lionsclub.se/"
     },
     {
       "entry": 1231234848,
@@ -4850,6 +4927,15 @@
       "web": "https://alingsas.aktivaseniorer.com/"
     },
     {
+      "entry": 1231403625,
+      "orgNumber": "836200-2985",
+      "orgName": "Olofstr\u00f6ms Tennisklubb",
+      "categories": [
+        "tennisklubb"
+      ],
+      "web": "https://idrottonline.se/OlofstromsTK-Tennis/"
+    },
+    {
       "entry": 1231410257,
       "orgNumber": "556540-0289",
       "orgName": "Restaurang Thai Corner AB",
@@ -5037,6 +5123,15 @@
         "ornitologi"
       ],
       "web": "http://karsund.se/"
+    },
+    {
+      "entry": 1231471127,
+      "orgNumber": "834001-6719",
+      "orgName": "Lions Club Visby",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/visbyse/"
     },
     {
       "entry": 1231471879,
@@ -5681,6 +5776,15 @@
       "web": "https://www.lionslodde.se/"
     },
     {
+      "entry": 1231605567,
+      "orgNumber": "883201-7597",
+      "orgName": "Lions Club Sundborn",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.sundborn.com/lions-club"
+    },
+    {
       "entry": 1231610286,
       "orgNumber": "252000-0650",
       "orgName": "Br\u00e4nnkyrka F\u00f6rsamling",
@@ -6069,6 +6173,7 @@
       "orgNumber": "822000-1922",
       "orgName": "Kisa-V\u00e4stra Eneby Hembygdsf\u00f6rening",
       "categories": [
+        "f\u00f6rening",
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.kisahembygdsgard.se/"
@@ -6253,6 +6358,17 @@
         "supporterklubb"
       ],
       "web": "https://www.jarnkaminerna.se/"
+    },
+    {
+      "entry": 1231745306,
+      "orgNumber": "828500-6113",
+      "orgName": "Klubb Energi",
+      "categories": [
+        "f\u00f6rening",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://idrottonline.se/KlubbEnergi-Traningforalla-Gymnastik/"
     },
     {
       "entry": 1231745918,
@@ -6447,6 +6563,14 @@
         "orden"
       ],
       "web": "https://www.bifrostorden.se/"
+    },
+    {
+      "entry": 1231807809,
+      "orgNumber": "802510-2016",
+      "orgName": "Tallparkens V\u00e4nner",
+      "categories": [
+        "intressef\u00f6rening"
+      ]
     },
     {
       "entry": 1231812296,
@@ -6837,7 +6961,9 @@
       "orgNumber": "832401-0019",
       "orgName": "Sk\u00e4lby 4H-g\u00e5rd i Kalmar",
       "categories": [
-        "4h"
+        "4h",
+        "barnverksamhet",
+        "ungdomsverksamhet"
       ],
       "web": "https://www.skalby4h.se/"
     },
@@ -6899,6 +7025,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.skiljebosk.nu/"
+    },
+    {
+      "entry": 1231973148,
+      "orgNumber": "802455-9430",
+      "orgName": "Lions Club Motala Bl\u00e5klinten",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://www.lionsblaklinten.se/"
     },
     {
       "entry": 1231973395,
@@ -6993,6 +7128,16 @@
         "stiftelse"
       ],
       "web": "https://www.sharemusic.se/"
+    },
+    {
+      "entry": 1231983311,
+      "orgNumber": "817301-1506",
+      "orgName": "Kvinnojouren Freja",
+      "categories": [
+        "kvinnojour",
+        "tjejjour"
+      ],
+      "web": "https://kvinnojourenfreja.se/"
     },
     {
       "entry": 1231983725,
@@ -9841,6 +9986,15 @@
       "web": "https://www.svenskakyrkan.se/vattholma/lena"
     },
     {
+      "entry": 1232695419,
+      "orgNumber": "802438-2866",
+      "orgName": "Lions Club Ljugarn",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/ljugarn/"
+    },
+    {
       "entry": 1232695989,
       "orgNumber": "869000-0495",
       "orgName": "Pingstkyrkan Lidk\u00f6ping",
@@ -10714,6 +10868,15 @@
       "web": "http://bostonterrierklubben.se/"
     },
     {
+      "entry": 1232904241,
+      "orgNumber": "845001-3357",
+      "orgName": "Lions Club Staffanstorp",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.lionsstaffanstorp.se/"
+    },
+    {
       "entry": 1232904274,
       "orgNumber": "886000-7841",
       "orgName": "Sisam Kult / Sisam-Sandarne i Samverkan",
@@ -10780,6 +10943,15 @@
         "scoutk\u00e5r"
       ],
       "web": "https://harnosand.scout.se/"
+    },
+    {
+      "entry": 1232918282,
+      "orgNumber": "846002-1531",
+      "orgName": "Lions Club Svedala",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/svedala/"
     },
     {
       "entry": 1232918522,
@@ -10868,6 +11040,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.stradelangan.se/"
+    },
+    {
+      "entry": 1232961100,
+      "orgNumber": "822002-7737",
+      "orgName": "F\u00f6reningshuset Font\u00e4nen",
+      "categories": [
+        "cafe",
+        "f\u00f6rening"
+      ],
+      "web": "https://www.fontanen.se/"
     },
     {
       "entry": 1232963148,
@@ -11176,6 +11358,15 @@
       "web": "https://mowehalsayoga.se/"
     },
     {
+      "entry": 1233044823,
+      "orgNumber": "849202-3018",
+      "orgName": "Rotary Laholm-H\u00f6k",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://laholm-hok.rotary2400.se/"
+    },
+    {
       "entry": 1233045226,
       "orgNumber": "894000-0543",
       "orgName": "Ume\u00e5 Golfklubb",
@@ -11454,6 +11645,15 @@
       "web": "https://www.unizonjourer.se/agerakvinnojour/"
     },
     {
+      "entry": 1233115664,
+      "orgNumber": "802002-8638",
+      "orgName": "R\u00e4dda Barnen Uppsala",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.raddabarnen-uppsala.se/"
+    },
+    {
       "entry": 1233115896,
       "orgNumber": "556640-5634",
       "orgName": "Sj\u00f6bo Golfklubb",
@@ -11470,6 +11670,15 @@
         "religion"
       ],
       "web": "https://www.filadelfiakyrkan.se/"
+    },
+    {
+      "entry": 1233123734,
+      "orgNumber": "838200-8731",
+      "orgName": "Lions Club Tollarp",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://www.tollarplions.se/"
     },
     {
       "entry": 1233123890,
@@ -11692,6 +11901,16 @@
       "web": "https://www.kungsbackatillsammansodling.se/"
     },
     {
+      "entry": 1233179538,
+      "orgNumber": "252003-1242",
+      "orgName": "Partille Pastorat",
+      "comment": "Ukraina",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/partille/"
+    },
+    {
       "entry": 1233192168,
       "orgNumber": "802461-0639",
       "orgName": "Kvinnojouren Kullan",
@@ -11728,6 +11947,15 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Vasteras/"
+    },
+    {
+      "entry": 1233200250,
+      "orgNumber": "982000-2260",
+      "orgName": "Lions Club Hedemora",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://fsl.kund.dalnet.se/lionsweb.htm"
     },
     {
       "entry": 1233200714,
@@ -12090,6 +12318,7 @@
       "orgNumber": "885001-3973",
       "orgName": "F\u00f6reningen Hyttan, Axmar Bruk",
       "categories": [
+        "f\u00f6rening",
         "hembygdsf\u00f6rening"
       ],
       "web": "https://axmarbruk.se/"
@@ -14275,6 +14504,17 @@
       "web": "https://www.tumbatrafikskola.se/"
     },
     {
+      "entry": 1233873718,
+      "orgNumber": "824001-0606",
+      "orgName": "Naturskyddsf\u00f6reningen i Motala",
+      "categories": [
+        "f\u00f6rening",
+        "naturskydd",
+        "naturv\u00e5rd"
+      ],
+      "web": "https://motala.naturskyddsforeningen.se/"
+    },
+    {
       "entry": 1233878436,
       "orgNumber": "802471-9547",
       "orgName": "Adels\u00f6 Hembygdslag",
@@ -14365,6 +14605,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.flaton.se/"
+    },
+    {
+      "entry": 1233883790,
+      "orgNumber": "252004-8469",
+      "orgName": "Tuna-Attmars F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tuna-attmar"
     },
     {
       "entry": 1233884046,
@@ -14670,6 +14919,15 @@
       "web": "https://skiftet.org/"
     },
     {
+      "entry": 1233952850,
+      "orgNumber": "802456-3762",
+      "orgName": "Lions Club Sundbyberg",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://lionsclubsundbyberg.org/"
+    },
+    {
       "entry": 1233956570,
       "orgNumber": "826001-1609",
       "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
@@ -14777,6 +15035,14 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://www.huaren.se/"
+    },
+    {
+      "entry": 1233981230,
+      "orgNumber": "802511-0548",
+      "orgName": "Lions Club \u00c4lvsbyn",
+      "categories": [
+        "lionsklubb"
+      ]
     },
     {
       "entry": 1233983889,
@@ -15257,6 +15523,15 @@
         "hundsport"
       ],
       "web": "http://vannasbhk.weebly.com/"
+    },
+    {
+      "entry": 1234102646,
+      "orgNumber": "832800-8555",
+      "orgName": "Lions Club M\u00f6nster\u00e5s",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.lionsmonsteras.se/"
     },
     {
       "entry": 1234104014,
@@ -15858,6 +16133,15 @@
       "web": "https://boesha.se/"
     },
     {
+      "entry": 1234262341,
+      "orgNumber": "817603-1592",
+      "orgName": "Lions Club Upsala Disa",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://www.lions-club-upsala-disa.se/"
+    },
+    {
       "entry": 1234262374,
       "orgNumber": "814800-7399",
       "orgName": "Sollentuna Hockey Club",
@@ -16156,6 +16440,15 @@
       "web": "https://edsbrukshundklubb.se/"
     },
     {
+      "entry": 1234313904,
+      "orgNumber": "802521-0884",
+      "orgName": "K\u00e5llereds Boxningsklubb",
+      "categories": [
+        "boxningsklubb",
+        "idrottsf\u00f6rening"
+      ]
+    },
+    {
       "entry": 1234315776,
       "orgNumber": "867200-8805",
       "orgName": "Marks F\u00e5gelklubb",
@@ -16384,6 +16677,15 @@
         "tennis"
       ],
       "web": "https://tennisportalen.se/"
+    },
+    {
+      "entry": 1234406666,
+      "orgNumber": "823000-5467",
+      "orgName": "Lions Club Mj\u00f6lby",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://lionsmjolby.se/"
     },
     {
       "entry": 1234406823,
@@ -17009,6 +17311,15 @@
       "web": "https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/marsta-sigtuna/"
     },
     {
+      "entry": 1234580965,
+      "orgNumber": "928500-5485",
+      "orgName": "Lions Club Sm\u00e5landsstenar",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://lionsclubsmalandsstenar.se/"
+    },
+    {
       "entry": 1234582466,
       "orgNumber": "802462-3392",
       "orgName": "Supporterf\u00f6reningen North Power",
@@ -17121,6 +17432,15 @@
         "kredittj\u00e4nster"
       ],
       "web": "http://www.deltainkasso.se/"
+    },
+    {
+      "entry": 1234609921,
+      "orgNumber": "902005-1893",
+      "orgName": "Embassy of Ukraine in Sweden / Ukrainska Ambassaden",
+      "categories": [
+        "ambassad"
+      ],
+      "web": "https://sweden.mfa.gov.ua/"
     },
     {
       "entry": 1234611182,
@@ -17468,6 +17788,15 @@
         "kennelklubb"
       ],
       "web": "https://www.tlkk.hundpoolen.se/"
+    },
+    {
+      "entry": 1234714796,
+      "orgNumber": "827000-6128",
+      "orgName": "Lions Club N\u00e4ssj\u00f6",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://lionsnassjo.se/"
     },
     {
       "entry": 1234717344,
@@ -18404,6 +18733,15 @@
       "web": "https://elvorochjanne.se/"
     },
     {
+      "entry": 1235031703,
+      "orgNumber": "819000-9558",
+      "orgName": "Lions Club Oxel\u00f6sund",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://oxelosundlions.se/"
+    },
+    {
       "entry": 1235031737,
       "orgNumber": "802421-4572",
       "orgName": "Njurunda Byavakt F\u00f6rening",
@@ -18823,6 +19161,16 @@
       "web": "https://danielsolander.se/"
     },
     {
+      "entry": 1235120456,
+      "orgNumber": "864500-3404",
+      "orgName": "Hj\u00e4rtLung Bor\u00e5s-Ulricehamn",
+      "categories": [
+        "f\u00f6rening",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.hjart-lung.se/riksforbundet/vastragotaland/lokalforeningar2/boras/"
+    },
+    {
       "entry": 1235122296,
       "orgNumber": "857209-6173",
       "orgName": "Clownkliniken",
@@ -19005,6 +19353,15 @@
         "stiftelse"
       ],
       "web": "https://www.autism.se/om-oss/organisation/stiftelsen-autism/"
+    },
+    {
+      "entry": 1235148663,
+      "orgNumber": "817601-8599",
+      "orgName": "Lions Club Uppsala",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://www.uppsala.lions.se/"
     },
     {
       "entry": 1235151253,
@@ -19640,6 +19997,16 @@
         "trafikskola"
       ],
       "web": "https://www.sjolinlantz.se/"
+    },
+    {
+      "entry": 1235331210,
+      "orgNumber": "252004-8469",
+      "orgName": "Tuna-Attmars F\u00f6rsamling",
+      "comment": "Diakonala g\u00e5vomedel",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tuna-attmar"
     },
     {
       "entry": 1235331913,
@@ -20753,6 +21120,15 @@
       "web": "https://www.intressegruppen.info/"
     },
     {
+      "entry": 1235592092,
+      "orgNumber": "825002-6070",
+      "orgName": "Lions Club S\u00f6derk\u00f6ping",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.lionssoderkoping.se/"
+    },
+    {
       "entry": 1235594189,
       "orgNumber": "802513-5263",
       "orgName": "Kungsholmens Folkfotboll",
@@ -21341,6 +21717,15 @@
       "web": "https://www.huskatten.com/"
     },
     {
+      "entry": 1235724059,
+      "orgNumber": "802463-7186",
+      "orgName": "Lions Club L\u00f6ddek\u00f6pinge",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.lionslodde.se/"
+    },
+    {
       "entry": 1235731021,
       "orgNumber": "802468-4188",
       "orgName": "FMK Tre Vapen",
@@ -21668,6 +22053,15 @@
         "f\u00f6rs\u00e4ljning"
       ],
       "web": "https://dcl.se/"
+    },
+    {
+      "entry": 1235807318,
+      "orgNumber": "802454-6593",
+      "orgName": "Lions Club Hind\u00e5s",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://lionsclub-hindas.se/"
     },
     {
       "entry": 1235808852,
@@ -21998,6 +22392,15 @@
         "lionsklubb"
       ],
       "web": "http://www.lionsfinspang.se/"
+    },
+    {
+      "entry": 1235896436,
+      "orgNumber": "802497-5024",
+      "orgName": "Lions Club Ulricehamn",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://lionsulricehamn.se/"
     },
     {
       "entry": 1235909379,
@@ -22495,6 +22898,16 @@
       "web": "https://holistictraining.se/"
     },
     {
+      "entry": 1236027783,
+      "orgNumber": "868400-1780",
+      "orgName": "Nossebro IF",
+      "categories": [
+        "f\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.nossebroif.se/"
+    },
+    {
       "entry": 1236033260,
       "orgNumber": "802448-9414",
       "orgName": "Linn\u00e9bygdens Hund\u00e4garf\u00f6rening",
@@ -22779,6 +23192,16 @@
         "supporterklubb"
       ],
       "web": "https://www.arsenal.se/"
+    },
+    {
+      "entry": 1236098487,
+      "orgNumber": "842000-6325",
+      "orgName": "Ludvigsborgs Byf\u00f6rening",
+      "categories": [
+        "byf\u00f6rening",
+        "f\u00f6rening"
+      ],
+      "web": "http://ludvigsborg.com/"
     },
     {
       "entry": 1236098818,
@@ -23139,6 +23562,15 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://www.rns.se/"
+    },
+    {
+      "entry": 1236178339,
+      "orgNumber": "802438-2866",
+      "orgName": "Lions Club Ljugarn",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/ljugarn/"
     },
     {
       "entry": 1236181820,
@@ -24715,6 +25147,15 @@
       "web": "https://vardnad.se/"
     },
     {
+      "entry": 1236661516,
+      "orgNumber": "849201-3514",
+      "orgName": "Lions Club Laholm",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://lionslaholm.se/"
+    },
+    {
       "entry": 1236662381,
       "orgNumber": "802449-6427",
       "orgName": "Kamratf\u00f6reningen F\u00f6rsvarets Tekniska Officerare / KamraToff",
@@ -24935,6 +25376,15 @@
       "web": "http://www.strokeforeningentranas.n.nu/"
     },
     {
+      "entry": 1236701171,
+      "orgNumber": "814400-3046",
+      "orgName": "\u00d6regrunds Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/oregrund"
+    },
+    {
       "entry": 1236704241,
       "orgNumber": "829502-4734",
       "orgName": "Sl\u00e4tth\u00f6gs Hembygdsf\u00f6rening",
@@ -25015,7 +25465,7 @@
     {
       "entry": 1236722052,
       "orgNumber": "835600-7677",
-      "orgName": "Lions Club Karlskrona - Jarramas",
+      "orgName": "Lions Club Karlskrona Jarramas",
       "categories": [
         "lionsklubb"
       ],
@@ -25355,6 +25805,15 @@
       "web": "https://bovallstrand.com/"
     },
     {
+      "entry": 1236826002,
+      "orgNumber": "864501-5622",
+      "orgName": "Lions Club Bor\u00e5s",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.lionsboras.se/"
+    },
+    {
       "entry": 1236827513,
       "orgNumber": "889201-4195",
       "orgName": "Njurunda Brukshundklubb",
@@ -25554,6 +26013,15 @@
         "kampsport"
       ],
       "web": "https://dotzsky.se/"
+    },
+    {
+      "entry": 1236887780,
+      "orgNumber": "887500-3496",
+      "orgName": "Lions Club Hudiksvall",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://lionshudiksvall.se/"
     },
     {
       "entry": 1236888416,
@@ -25795,6 +26263,15 @@
         "religion"
       ],
       "web": "https://heartofevangelism.com/"
+    },
+    {
+      "entry": 1236943351,
+      "orgNumber": "802492-7371",
+      "orgName": "Lions Club M\u00e4rsta-Arlanda",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/marstaarlanda/"
     },
     {
       "entry": 1236946214,
@@ -26590,7 +27067,8 @@
       "orgNumber": "802426-3090",
       "orgName": "Insamlingsstiftelsen Lions Cancerforskningsfond i V\u00e4stra Sverige",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.lionscancerfond.se/"
     },
@@ -27443,6 +27921,7 @@
       "orgNumber": "802411-0333",
       "orgName": "St\u00f6df\u00f6reningen f\u00f6r Martaskolan i Uganda",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.martaskolan.com/"
@@ -27470,6 +27949,7 @@
       "orgNumber": "857202-5974",
       "orgName": "F\u00f6reningen G\u00f6teborgs R\u00e4ddningsmission",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://raddningsmissionen.se/"
@@ -27479,7 +27959,8 @@
       "orgNumber": "802478-1885",
       "orgName": "Human Rights Watch Scandinavia Insamlingsstiftelsen",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.hrw.org/sv/about/get-local/sweden"
     },
@@ -27488,6 +27969,7 @@
       "orgNumber": "802016-5463",
       "orgName": "F\u00f6reningen Alla Kvinnors Hus",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.allakvinnorshus.org/"
@@ -28351,7 +28833,8 @@
       "orgNumber": "822003-6191",
       "orgName": "Vision for All",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://www.visionforall.org/"
     },
@@ -28378,7 +28861,8 @@
       "orgNumber": "802481-2359",
       "orgName": "Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-\u00d6rebro",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.lcfm.se/"
     },
