@@ -4605,6 +4605,14 @@ entries:
   - idrottsförening
   web: http://www.ostersundbasket.se/
 
+- entry: 1231466036
+  orgName: Rotary Riddarfjärden
+  orgNumber: 802475-4015
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://riddarfjarden.org/
+
 - entry: 1231466549
   orgName: Jazz i Hällevik
   orgNumber: 802436-1100
@@ -5633,6 +5641,14 @@ entries:
   - sjukgymnastik
   web: https://levad.se/
 
+- entry: 1231728385
+  orgName: Lions Club Bergsjö
+  orgNumber: 802510-5183
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://www.lionsbergsjo.se/
+
 - entry: 1231730332
   orgName: Södertälje-Nykvarn Orientering
   orgNumber: 815600-0344
@@ -5820,6 +5836,14 @@ entries:
   - trafikskola
   - utbildning
   web: https://darintrafikskola.se/
+
+- entry: 1231766716
+  orgName: Rotary Trosa
+  orgNumber: 802527-1423
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/15601/
 
 - entry: 1231767656
   orgName: Kinds Golfrestaurang
@@ -7613,6 +7637,14 @@ entries:
   - religion
   web: https://nybro.pingst.se/
 
+- entry: 1232277663
+  orgName: Oskarströms Hembygdsförening
+  orgNumber: 849202-1467
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/oskarstroms-hembygdsforening
+
 - entry: 1232277739
   orgName: Angel Island Army, AIA
   orgNumber: 802510-0614
@@ -8475,6 +8507,14 @@ entries:
   - stiftelse
   - yoga
   web: https://www.ekolsundsslott.se/
+
+- entry: 1232558757
+  orgName: Rotary Söderköping
+  orgNumber: 802506-0768
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/17254/
 
 - entry: 1232566313
   orgName: Villa Sunshine AB
@@ -10803,7 +10843,7 @@ entries:
   web: https://sos-barnbyar.se/
 
 - entry: 1233205499
-  orgName: SHOE4AFRICA SWEDEN
+  orgName: Shoe4Africa Sweden
   orgNumber: 802511-3799
   comment: null
   categories:
@@ -10815,12 +10855,13 @@ entries:
   orgNumber: 559355-4818
   comment: Eventuellt tidigare Swish nummer
   categories:
+  - förlag
   - reiki
   web: https://secourong.com/
 
 - entry: 1233208220
   orgName: Linköpnings Nämndemannaförening
-  orgNumber: 8024476874
+  orgNumber: 802447-6874
   comment: null
   categories:
   - förening
@@ -16016,6 +16057,16 @@ entries:
   - religion
   web: https://www.flaton.se/
 
+- entry: 1234675047
+  orgName: Indo-Swedish Rheumatology Foundation, ISRF
+  orgNumber: 802478-1414
+  comment: null
+  categories:
+  - hälsovård
+  - reumatism
+  - stiftelse
+  web: https://shakuntalahospital.com/
+
 - entry: 1234675617
   orgName: Älvtomta koloni 055
   orgNumber: 875001-4436
@@ -17385,6 +17436,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/ljungby/annerstads-forsamling
+
+- entry: 1235127857
+  orgName: Nya Åhusparken
+  orgNumber: 802495-4789
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://nyaahusparken.se/
 
 - entry: 1235136544
   orgName: Stiftelse Coelho Growth Foundation
@@ -19182,6 +19242,14 @@ entries:
   categories:
   - förening
   web: http://radiofysik.org/
+
+- entry: 1235604731
+  orgName: Rotary Malmö Öresund
+  orgNumber: 802503-4763
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://malmo-oresund.rotary2390.se/
 
 - entry: 1235606199
   orgName: Lindö Minigolf och Haga Bangolfklubb

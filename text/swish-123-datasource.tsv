@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-08-06-rev-170226
+# Date: 2022-08-06-rev-200333
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -527,6 +527,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231461656	853300-7194	Kode Scoutkår	https://kode.scout.se/	scoutkår	
 1231464981	802495-9838	Varbergs Konståkningsklubb	https://idrottonline.se/VarbergsKonstakningsklubb-Konstakning/	förening,idrottsförening,konståkning	
 1231465368	802420-4607	KFUM Östersund Basket	http://www.ostersundbasket.se/	basketboll,basketbollklubb,förening,idrottsförening	
+1231466036	802475-4015	Rotary Riddarfjärden	https://riddarfjarden.org/	rotaryklubb	
 1231466549	802436-1100	Jazz i Hällevik	https://jazzen.nu/	festival,konsert,musikförening	
 1231470400	252000-1187	Lohärads Församling	https://www.svenskakyrkan.se/roslagens-ostra-pastorat/loharads-forsamling	religion	
 1231470533	802512-8052	Ornitologisk Förening, Tjörn	http://karsund.se/	ornitologi	Kårsundskretsen
@@ -645,6 +646,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231724327	802519-6406	Sport for Life	https://sportforlife.se/	idrottsförening,intresseförening	
 1231727247	846002-5078	Djupadals Scoutkår	https://djupadal.scout.se/	scoutkår	
 1231727627	556599-7318	Levád Fysiotherapi AB	https://levad.se/	akupunktur,fysioterapi,massage,sjukgymnastik	
+1231728385	802510-5183	Lions Club Bergsjö	https://www.lionsbergsjo.se/	lionsklubb	
 1231730332	815600-0344	Södertälje-Nykvarn Orientering	http://www.tvetafriluftsgard.se/	idrottsförening	
 1231730811	869000-9975	Lidköpings Brukshundklubb	http://lidkopingbk.se/	brukshundsklubb,hundsport	
 1231731397	826000-0784	Pingst Jönköping	https://pingstjonkoping.se/	religion	LP
@@ -667,6 +669,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231758945	818000-0815	Pingstförsamlingen i Eskilstuna	https://pingsteskilstunaweb.se/	religion	
 1231766211	802529-3344	Hemlösa Katter Kalmar	https://hkkalmar.se/	djurskydd,katthem	
 1231766708	570312-XXXX	Darin Trafikskola	https://darintrafikskola.se/	trafikskola,utbildning	
+1231766716	802527-1423	Rotary Trosa	https://portal.clubrunner.ca/15601/	rotaryklubb	
 1231767656	721211-XXXX	Kinds Golfrestaurang	https://kindsgolfrestaurang.se/	restaurant	
 1231769546	802529-7923	Sofialäktaren TIFO	https://www.jarnkaminerna.se/sofialaktaren-tifo/	supporterklubb	
 1231776665	556898-9254	Sverige Runt AB	https://sverigerunt.org/	frågesport,nöje,sport	
@@ -871,6 +874,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232267730	802498-8928	Kallinge Museum	http://www.kallingemuseum.se/	förening,museum	
 1232267920	812800-3897	Botkyrka Brukshundklubb	https://www.botkyrkabk.se/	brukshundsklubb,hundsport	
 1232268357	832400-0499	Pingstkyrkan Nybro	https://nybro.pingst.se/	religion	
+1232277663	849202-1467	Oskarströms Hembygdsförening	https://www.hembygd.se/oskarstroms-hembygdsforening	hembygdsförening	
 1232277739	802510-0614	Angel Island Army, AIA	http://aia.nu/	supporterklubb	bussresor
 1232278307	894000-0345	Pingst Umeå	https://umea.pingst.se/	religion	Socialt arbete
 1232279719	883201-9221	Vika Scoutkår	https://vika.scout.se/	scoutkår	
@@ -969,6 +973,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232541936	701212-XXXX	Lyrestads Hundcenter / Eva Gustavsson	http://lyrestadshundcenter.se/	djurskydd,hundhem	
 1232545861	802535-6026	Växjö OCR Förening	https://www.vaxjoocr.se/	hinderbana,träning	
 1232556009	802424-1948	Stiftelsen Ekolsunds Slott och Park	https://www.ekolsundsslott.se/	stiftelse,yoga	
+1232558757	802506-0768	Rotary Söderköping	https://portal.clubrunner.ca/17254/	rotaryklubb	
 1232566313	559207-8553	Villa Sunshine AB	https://www.villasunshine.nu/	uthyrning	
 1232570844	802480-9470	Insamlingsstiftelsen DOKU	https://doku.nu/	stiftelse	
 1232579696	651221-XXXX	Annas Veranda / Anna Jakobsson	https://www.annasveranda.se/	hantverk,konst,yoga	
@@ -1236,8 +1241,9 @@ entry	orgNumber	orgName	web	categories	comment
 1233199254	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/Vasteras/	religion	Västerås
 1233200250	982000-2260	Lions Club Hedemora	http://fsl.kund.dalnet.se/lionsweb.htm	lionsklubb	
 1233200714	802405-7815	SOS Barnbyar	https://sos-barnbyar.se/	hjälporganisation	Katastroffond
-1233205499	802511-3799	SHOE4AFRICA SWEDEN	http://shoe4africa.se/	hjälporganisation	
-1233207669	559355-4818	Reiki-kliniken i Göteborg AB / Secourong Förlag	https://secourong.com/	reiki	Eventuellt tidigare Swish nummer
+1233205499	802511-3799	Shoe4Africa Sweden	http://shoe4africa.se/	hjälporganisation	
+1233207669	559355-4818	Reiki-kliniken i Göteborg AB / Secourong Förlag	https://secourong.com/	förlag,reiki	Eventuellt tidigare Swish nummer
+1233208220	802447-6874	Linköpnings Nämndemannaförening	https://linkoping.nmrf.se/	förening	
 1233212370	802510-6751	Föreningen Rädda Björndammsdalen och Finngösaravinen	https://www.finngosaravinen.se/	förening,intresseorganisation	
 1233214327	559042-8024	Elsas Blommor i Östercentrum	https://www.elsasblommor.se/	blommor	
 1233216371	490507-4656	Björn Thomasson Design	https://www.thomassondesign.com/	kajak,kanot,paddling	
@@ -1829,6 +1835,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234673380	857209-9243	Höviksnäs Båtförening	http://www.hovik.se/	båtklubb,båtvård	
 1234673455	802434-6846	Maskrosbarn	https://maskrosbarn.org/	hjälporganisation	
 1234673760	802443-4873	Flatö Kyrkas Vänner	https://www.flaton.se/	religion	
+1234675047	802478-1414	Indo-Swedish Rheumatology Foundation, ISRF	https://shakuntalahospital.com/	hälsovård,reumatism,stiftelse	
 1234675617	875001-4436	Älvtomta koloni 055	http://www.alvtomtakoloni.se/	koloniförening,trädgårdsförening	
 1234676003	823000-0377	Pingstkyrkan Mjölby	https://www.pingstmjolby.se/	religion	
 1234676060	802443-0327	Örebro Boulesällskap	http://oreboule.se/	boule	
@@ -1988,6 +1995,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235127501	852000-3446	Landvetter Scoutkår	https://landvetter.scout.se/	scoutkår	
 1235127519	556846-1288	Linas Trafikskola	https://linastrafikskola.se/	trafikskola,utbildning	
 1235127592	252000-6947	Annerstads Församling	https://www.svenskakyrkan.se/ljungby/annerstads-forsamling	religion	
+1235127857	802495-4789	Nya Åhusparken	https://nyaahusparken.se/	intresseförening,kulturförening	
 1235136544	802479-5943	Stiftelse Coelho Growth Foundation	http://coelhogrowth.com/	stiftelse	
 1235136775	894700-9505	Skellefteå Scoutkår	https://skellefte.scout.se/	scoutkår	
 1235138573	878000-0421	Pingstförsamlingen Hallstahammar	https://www.kyrktorget.se/	religion	
@@ -2190,6 +2198,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235600119	875700-8621	Askersunds Brukshundklubb	https://www.askersundsbk.se/	brukshundsklubb,hundsport	
 1235600945	857200-7600	Hönö Missionsförsamling	https://www.honomissionskyrka.se/	religion	
 1235604491	815201-2822	Svensk Förening för Radiofysik	http://radiofysik.org/	förening	
+1235604731	802503-4763	Rotary Malmö Öresund	https://malmo-oresund.rotary2390.se/	rotaryklubb	
 1235606199	825001-7327	Lindö Minigolf och Haga Bangolfklubb	https://hagabgk.se/	golfklubb,minigolf	
 1235607312	802521-2104	Tails Rescue Sweden	https://tailsrescuesweden.org/	djurskydd,hundhem	
 1235607395	802503-4813	Wilhelm Stenhammar-Sällskapet	https://stenhammarsallskapet.com/	förening	

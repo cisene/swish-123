@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-08-06-rev-170226",
+    "date": "2022-08-06-rev-200333",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5095,6 +5095,15 @@
       "web": "http://www.ostersundbasket.se/"
     },
     {
+      "entry": 1231466036,
+      "orgNumber": "802475-4015",
+      "orgName": "Rotary Riddarfj\u00e4rden",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://riddarfjarden.org/"
+    },
+    {
       "entry": 1231466549,
       "orgNumber": "802436-1100",
       "orgName": "Jazz i H\u00e4llevik",
@@ -6246,6 +6255,15 @@
       "web": "https://levad.se/"
     },
     {
+      "entry": 1231728385,
+      "orgNumber": "802510-5183",
+      "orgName": "Lions Club Bergsj\u00f6",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.lionsbergsjo.se/"
+    },
+    {
       "entry": 1231730332,
       "orgNumber": "815600-0344",
       "orgName": "S\u00f6dert\u00e4lje-Nykvarn Orientering",
@@ -6457,6 +6475,15 @@
         "utbildning"
       ],
       "web": "https://darintrafikskola.se/"
+    },
+    {
+      "entry": 1231766716,
+      "orgNumber": "802527-1423",
+      "orgName": "Rotary Trosa",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/15601/"
     },
     {
       "entry": 1231767656,
@@ -8447,6 +8474,15 @@
       "web": "https://nybro.pingst.se/"
     },
     {
+      "entry": 1232277663,
+      "orgNumber": "849202-1467",
+      "orgName": "Oskarstr\u00f6ms Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/oskarstroms-hembygdsforening"
+    },
+    {
       "entry": 1232277739,
       "orgNumber": "802510-0614",
       "orgName": "Angel Island Army, AIA",
@@ -9391,6 +9427,15 @@
         "yoga"
       ],
       "web": "https://www.ekolsundsslott.se/"
+    },
+    {
+      "entry": 1232558757,
+      "orgNumber": "802506-0768",
+      "orgName": "Rotary S\u00f6derk\u00f6ping",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/17254/"
     },
     {
       "entry": 1232566313,
@@ -11970,7 +12015,7 @@
     {
       "entry": 1233205499,
       "orgNumber": "802511-3799",
-      "orgName": "SHOE4AFRICA SWEDEN",
+      "orgName": "Shoe4Africa Sweden",
       "categories": [
         "hj\u00e4lporganisation"
       ],
@@ -11982,9 +12027,19 @@
       "orgName": "Reiki-kliniken i G\u00f6teborg AB / Secourong F\u00f6rlag",
       "comment": "Eventuellt tidigare Swish nummer",
       "categories": [
+        "f\u00f6rlag",
         "reiki"
       ],
       "web": "https://secourong.com/"
+    },
+    {
+      "entry": 1233208220,
+      "orgNumber": "802447-6874",
+      "orgName": "Link\u00f6pnings N\u00e4mndemannaf\u00f6rening",
+      "categories": [
+        "f\u00f6rening"
+      ],
+      "web": "https://linkoping.nmrf.se/"
     },
     {
       "entry": 1233212370,
@@ -17712,6 +17767,17 @@
       "web": "https://www.flaton.se/"
     },
     {
+      "entry": 1234675047,
+      "orgNumber": "802478-1414",
+      "orgName": "Indo-Swedish Rheumatology Foundation, ISRF",
+      "categories": [
+        "h\u00e4lsov\u00e5rd",
+        "reumatism",
+        "stiftelse"
+      ],
+      "web": "https://shakuntalahospital.com/"
+    },
+    {
       "entry": 1234675617,
       "orgNumber": "875001-4436",
       "orgName": "\u00c4lvtomta koloni 055",
@@ -19235,6 +19301,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/ljungby/annerstads-forsamling"
+    },
+    {
+      "entry": 1235127857,
+      "orgNumber": "802495-4789",
+      "orgName": "Nya \u00c5husparken",
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://nyaahusparken.se/"
     },
     {
       "entry": 1235136544,
@@ -21206,6 +21282,15 @@
         "f\u00f6rening"
       ],
       "web": "http://radiofysik.org/"
+    },
+    {
+      "entry": 1235604731,
+      "orgNumber": "802503-4763",
+      "orgName": "Rotary Malm\u00f6 \u00d6resund",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://malmo-oresund.rotary2390.se/"
     },
     {
       "entry": 1235606199,
