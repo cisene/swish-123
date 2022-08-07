@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-08-06-rev-200333",
+    "date": "2022-08-07-rev-140831",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3735,6 +3735,15 @@
       "web": "https://www.brottsofferjouren.se/"
     },
     {
+      "entry": 1231098243,
+      "orgNumber": "002865-0273",
+      "orgName": "Rotary Mariefred",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/15598/"
+    },
+    {
       "entry": 1231098391,
       "orgNumber": "802494-6504",
       "orgName": "F\u00f6reningen Vadtorps V\u00e4nner",
@@ -3893,6 +3902,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.savedalensaik.se/"
+    },
+    {
+      "entry": 1231143841,
+      "orgNumber": "858500-8231",
+      "orgName": "Rotary Uddevalla-Byfjorden",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://www.uddevalla-byfjordenrotary.se/"
     },
     {
       "entry": 1231146596,
@@ -4395,6 +4413,15 @@
         "intresseorganisation"
       ],
       "web": "https://retinanytt.se/"
+    },
+    {
+      "entry": 1231266352,
+      "orgNumber": "802472-9629",
+      "orgName": "Rotary E-Club 2410",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://rotaryeclub.se/"
     },
     {
       "entry": 1231267673,
@@ -7618,6 +7645,15 @@
       "web": "https://www.brottsofferjouren.se/"
     },
     {
+      "entry": 1232091551,
+      "orgNumber": "802477-9129",
+      "orgName": "Rotary Uppsala Peace Center",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://stockholmrotary.se/uppsala-peace-center/"
+    },
+    {
       "entry": 1232092088,
       "orgNumber": "802433-8553",
       "orgName": "Hillsong Church Sweden",
@@ -8590,6 +8626,15 @@
         "f\u00f6rening"
       ],
       "web": "http://www.nassjodansforening.se/"
+    },
+    {
+      "entry": 1232302537,
+      "orgNumber": "002865-0273",
+      "orgName": "Rotary Mariefred",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/15598"
     },
     {
       "entry": 1232304418,
@@ -10772,6 +10817,15 @@
       "web": "https://www.norrskenlodge.com/"
     },
     {
+      "entry": 1232881183,
+      "orgNumber": "802517-9618",
+      "orgName": "Rotary Stockholm Global City",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://globalcityr3.org/"
+    },
+    {
       "entry": 1232881662,
       "orgNumber": "556943-9838",
       "orgName": "Samuelsson & Partner AB",
@@ -10930,6 +10984,15 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.sisamkult.se/"
+    },
+    {
+      "entry": 1232905362,
+      "orgNumber": "829502-1243",
+      "orgName": "Rotary V\u00e4xj\u00f6 S:t Sigfrid",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://vaxjo-st-sigfrid.rotary2400.se/"
     },
     {
       "entry": 1232905578,
@@ -13344,6 +13407,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.iggesundsik.se/"
+    },
+    {
+      "entry": 1233514684,
+      "orgNumber": "802452-3493",
+      "orgName": "Rotary Saltsj\u00f6baden",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/15685/"
     },
     {
       "entry": 1233515277,
@@ -17166,6 +17238,15 @@
       "web": "https://www.brannkyrka.org/"
     },
     {
+      "entry": 1234522801,
+      "orgNumber": "802460-1661",
+      "orgName": "Kasubi Friends",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://kasubifriends.com/"
+    },
+    {
       "entry": 1234523361,
       "orgNumber": "885001-3833",
       "orgName": "Axmarby Intressef\u00f6rening",
@@ -18188,6 +18269,15 @@
         "politiskt parti"
       ],
       "web": "https://alternativforsverige.se/"
+    },
+    {
+      "entry": 1234832077,
+      "orgNumber": "802513-7731",
+      "orgName": "Rotary Lerum Aspen",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://lerumaspenrk.se/"
     },
     {
       "entry": 1234832499,
@@ -21762,6 +21852,17 @@
         "h\u00e4lsa"
       ],
       "web": "https://www.susedalenshalsocenter.com/"
+    },
+    {
+      "entry": 1235714795,
+      "orgNumber": "802013-2521",
+      "orgName": "Stiftelsen Skota Hem",
+      "categories": [
+        "funktionsneds\u00e4ttning",
+        "parasport",
+        "stiftelse"
+      ],
+      "web": "https://www.skotahem.se/"
     },
     {
       "entry": 1235714829,
@@ -29574,7 +29675,8 @@
       "orgNumber": "857209-4004",
       "orgName": "Insamlingsstiftelsen Drottning Silvias Barn- och Ungdomssjukhus",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.barnsjukhuset.nu/"
     },
@@ -29592,6 +29694,7 @@
       "orgNumber": "827500-9234",
       "orgName": "Skandinaviska L\u00e4karbanken - ideell f\u00f6rening",
       "categories": [
+        "ideell f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.skandinaviskalakarbanken.se/"
@@ -29601,7 +29704,8 @@
       "orgNumber": "826500-5010",
       "orgName": "Insamlingsstiftelsen Svenska Barnhj\u00e4lpen",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.svenskabarnhjalpen.se/"
     },
@@ -29638,7 +29742,8 @@
       "orgNumber": "802005-0947",
       "orgName": "Stiftelsen Konung Gustaf V:s Jubileumsfond, Radiumhemmets Forskningsfonder",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.rahfo.se/"
     },
@@ -29684,7 +29789,9 @@
       "orgNumber": "802005-8619",
       "orgName": "Riksf\u00f6reningen Den \u00d6ppna D\u00f6rren",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "riksf\u00f6rbund",
+        "riksf\u00f6rening"
       ],
       "web": "https://www.denoppnadorren.se/"
     },
@@ -29693,6 +29800,8 @@
       "orgNumber": "898800-8341",
       "orgName": "Bharat Indien-Bist\u00e5nd",
       "categories": [
+        "bist\u00e5nd",
+        "hj\u00e4lporganisation",
         "insamlingskontroll"
       ],
       "web": "https://www.bharat-bistand.org/"
@@ -29702,7 +29811,8 @@
       "orgNumber": "827500-4789",
       "orgName": "Insamlingsstiftelsen Erikshj\u00e4lpen, Farbror Eriks barn- och hj\u00e4lpverksamhet",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.erikshjalpen.se/"
     },
@@ -29711,6 +29821,7 @@
       "orgNumber": "802005-7926",
       "orgName": "Riksf\u00f6reningen Aktiva Synskadade",
       "categories": [
+        "funktionsneds\u00e4ttning",
         "insamlingskontroll"
       ],
       "web": "https://www.aktivasynskadade.org/"
@@ -29720,7 +29831,8 @@
       "orgNumber": "857200-8244",
       "orgName": "Stiftelsen Jubileumsklinikens forskningsfond mot cancer",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.jubileumsklinikenscancerfond.se/"
     },
@@ -29729,7 +29841,8 @@
       "orgNumber": "802406-2559",
       "orgName": "F\u00f6r\u00e4ldral\u00f6sa barn, Insamlingsstiftelse",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.foraldralosabarn.se/"
     },
@@ -29738,7 +29851,9 @@
       "orgNumber": "802000-8184",
       "orgName": "EFS - Evangeliska Fosterlandsstiftelsen",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "religion",
+        "stiftelse"
       ],
       "web": "https://www.efs.nu/"
     },
@@ -29747,7 +29862,8 @@
       "orgNumber": "802010-4462",
       "orgName": "Riksf\u00f6rbundet F\u00f6r\u00e4ldraf\u00f6reningen mot Narkotika, FMN Riks",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "riksf\u00f6rbund"
       ],
       "web": "https://www.fmn.se/"
     },
@@ -29767,7 +29883,8 @@
       "orgName": "EFS - Evangeliska Fosterlandsstiftelsen",
       "categories": [
         "insamlingskontroll",
-        "religion"
+        "religion",
+        "stiftelse"
       ],
       "web": "https://www.efs.nu/"
     },
@@ -29776,7 +29893,8 @@
       "orgNumber": "802016-5687",
       "orgName": "Tobias Stiftelsen",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.tobiasstiftelsen.com/"
     },
@@ -29794,7 +29912,8 @@
       "orgNumber": "802000-6410",
       "orgName": "Riksf\u00f6rbundet Hj\u00e4rtLung",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "riksf\u00f6rbund"
       ],
       "web": "https://www.hjart-lung.se/"
     },
@@ -29831,7 +29950,8 @@
       "orgNumber": "846002-8734",
       "orgName": "Stiftelsen Skandinaviska Barnmissionen",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.barnmissionen.se/"
     },
@@ -29840,6 +29960,7 @@
       "orgNumber": "802001-0602",
       "orgName": "Svenska Freds- och Skiljedomsf\u00f6reningen",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.svenskafreds.se/"
@@ -29849,6 +29970,7 @@
       "orgNumber": "802002-4496",
       "orgName": "F\u00f6rbundet Djurens R\u00e4tt",
       "categories": [
+        "f\u00f6rbund",
         "insamlingskontroll"
       ],
       "web": "https://www.djurensratt.se/"
@@ -29886,7 +30008,8 @@
       "orgNumber": "897001-2392",
       "orgName": "Stiftelsen Barnens R\u00e4ddningsArk",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.barnensraddningsark.se/"
     },
@@ -29895,7 +30018,8 @@
       "orgNumber": "885001-2496",
       "orgName": "Stiftelsen G\u00e4vle Cancerfond",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.gavlecancerfond.com/"
     },
@@ -29905,7 +30029,8 @@
       "orgName": "Insamlingsstiftelsen Naturarvet",
       "categories": [
         "insamlingskontroll",
-        "naturv\u00e5rd"
+        "naturv\u00e5rd",
+        "stiftelse"
       ],
       "web": "https://www.naturarvet.se/"
     },
@@ -29914,7 +30039,8 @@
       "orgNumber": "845001-8844",
       "orgName": "Insamlingsstiftelsen Alzheimerfonden",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.alzheimerfonden.se/"
     },
@@ -29951,7 +30077,8 @@
       "orgNumber": "862000-4344",
       "orgName": "Insamlingsstiftelsen BarnSamariten",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.barnsamariten.se/"
     },
@@ -29987,7 +30114,8 @@
       "orgNumber": "802014-8550",
       "orgName": "Stiftelsen New Hope Reseindustrins Barnfond",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://newhope.se/"
     },
@@ -30005,6 +30133,7 @@
       "orgNumber": "802002-4280",
       "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.naturskyddsforeningen.se/"
@@ -30014,6 +30143,7 @@
       "orgNumber": "802002-4280",
       "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.naturskyddsforeningen.se/"
@@ -30023,6 +30153,7 @@
       "orgNumber": "802002-4280",
       "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.naturskyddsforeningen.se/"
@@ -30032,6 +30163,7 @@
       "orgNumber": "802002-4280",
       "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.naturskyddsforeningen.se/"
@@ -30068,6 +30200,7 @@
       "orgNumber": "857204-4280",
       "orgName": "F\u00f6reningen Greenpeace Norden",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.greenpeace.se/"
@@ -30113,6 +30246,7 @@
       "orgNumber": "885001-7404",
       "orgName": "Cancerf\u00f6reningen G\u00e4vleborg",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.cancerforeningen.se/"
@@ -30122,7 +30256,8 @@
       "orgNumber": "802013-3420",
       "orgName": "Riksf\u00f6rbundet BRIS - Barnens R\u00e4tt i Samh\u00e4llet",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "riksf\u00f6rbund"
       ],
       "web": "https://www.bris.se/"
     },
@@ -30140,7 +30275,8 @@
       "orgNumber": "252002-6135",
       "orgName": "Trossamfundet Svenska Kyrkan",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "religion"
       ],
       "web": "https://www.svenskakyrkan.se/"
     },
@@ -30149,6 +30285,7 @@
       "orgNumber": "802002-4280",
       "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.naturskyddsforeningen.se/"
@@ -30177,7 +30314,8 @@
       "orgNumber": "802401-6134",
       "orgName": "Insamlingsstiftelsen Kvinna till Kvinna",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.kvinnatillkvinna.se/"
     },

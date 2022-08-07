@@ -3370,6 +3370,14 @@ entries:
   - intresseförening
   web: https://www.brottsofferjouren.se/
 
+- entry: 1231098243
+  orgName: Rotary Mariefred
+  orgNumber: 002865-0273
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/15598/
+
 - entry: 1231098391
   orgName: Föreningen Vadtorps Vänner
   orgNumber: 802494-6504
@@ -3526,6 +3534,14 @@ entries:
   categories:
   - idrottsförening
   web: http://www.savedalensaik.se/
+
+- entry: 1231143841
+  orgName: Rotary Uddevalla-Byfjorden
+  orgNumber: 858500-8231
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://www.uddevalla-byfjordenrotary.se/
 
 - entry: 1231146596
   orgName: Islandshästföreningen Glaumur - Islandshäst
@@ -3980,6 +3996,14 @@ entries:
   categories:
   - intresseorganisation
   web: https://retinanytt.se/
+
+- entry: 1231266352
+  orgName: Rotary E-Club 2410
+  orgNumber: 802472-9629
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://rotaryeclub.se/
 
 - entry: 1231267673
   orgName: Öxabäcks Församling
@@ -6858,6 +6882,14 @@ entries:
   - intresseförening
   web: https://www.brottsofferjouren.se/
 
+- entry: 1232091551
+  orgName: Rotary Uppsala Peace Center
+  orgNumber: 802477-9129
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://stockholmrotary.se/uppsala-peace-center/
+
 - entry: 1232092088
   orgName: Hillsong Church Sweden
   orgNumber: 802433-8553
@@ -7747,6 +7779,14 @@ entries:
   - dansförening
   - förening
   web: http://www.nassjodansforening.se/
+
+- entry: 1232302537
+  orgName: Rotary Mariefred
+  orgNumber: 002865-0273
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/15598
 
 - entry: 1232304418
   orgName: Ringens Bilskola AB
@@ -9710,6 +9750,14 @@ entries:
   - stuguthyrning
   web: https://www.norrskenlodge.com/
 
+- entry: 1232881183
+  orgName: Rotary Stockholm Global City
+  orgNumber: 802517-9618
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://globalcityr3.org/
+
 - entry: 1232881662
   orgName: Samuelsson & Partner AB
   orgNumber: 556943-9838
@@ -9858,6 +9906,14 @@ entries:
   - intresseförening
   - kulturförening
   web: https://www.sisamkult.se/
+
+- entry: 1232905362
+  orgName: Rotary Växjö S:t Sigfrid
+  orgNumber: 829502-1243
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://vaxjo-st-sigfrid.rotary2400.se/
 
 - entry: 1232905578
   orgName: JP Hästveda
@@ -12069,6 +12125,14 @@ entries:
   - förening
   - idrottsförening
   web: https://www.iggesundsik.se/
+
+- entry: 1233514684
+  orgName: Rotary Saltsjöbaden
+  orgNumber: 802452-3493
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/15685/
 
 - entry: 1233515277
   orgName: Timrå IK
@@ -15520,6 +15584,14 @@ entries:
   - religion
   web: https://www.brannkyrka.org/
 
+- entry: 1234522801
+  orgName: Kasubi Friends
+  orgNumber: 802460-1661
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://kasubifriends.com/
+
 - entry: 1234523361
   orgName: Axmarby Intresseförening
   orgNumber: 885001-3833
@@ -16433,6 +16505,14 @@ entries:
   categories:
   - politiskt parti
   web: https://alternativforsverige.se/
+
+- entry: 1234832077
+  orgName: Rotary Lerum Aspen
+  orgNumber: 802513-7731
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://lerumaspenrk.se/
 
 - entry: 1234832499
   orgName: Turinge Scoutkår
@@ -19668,6 +19748,16 @@ entries:
   categories:
   - hälsa
   web: https://www.susedalenshalsocenter.com/
+
+- entry: 1235714795
+  orgName: Stiftelsen Skota Hem
+  orgNumber: 802013-2521
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - parasport
+  - stiftelse
+  web: https://www.skotahem.se/
 
 - entry: 1235714829
   orgName: Frälsningsarmén
@@ -27992,6 +28082,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.barnsjukhuset.nu/
 
 - entry: 1239008392
@@ -28007,6 +28098,7 @@ entries:
   orgNumber: 827500-9234
   comment: null
   categories:
+  - ideell förening
   - insamlingskontroll
   web: https://www.skandinaviskalakarbanken.se/
 
@@ -28016,6 +28108,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.svenskabarnhjalpen.se/
 
 - entry: 1239008533
@@ -28049,6 +28142,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.rahfo.se/
 
 - entry: 1239008913
@@ -28108,6 +28202,8 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - riksförbund
+  - riksförening
   web: https://www.denoppnadorren.se/
 
 - entry: 1239009192
@@ -28115,6 +28211,8 @@ entries:
   orgNumber: 898800-8341
   comment: null
   categories:
+  - bistånd
+  - hjälporganisation
   - insamlingskontroll
   web: https://www.bharat-bistand.org/
 
@@ -28124,6 +28222,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.erikshjalpen.se/
 
 - entry: 1239009325
@@ -28149,6 +28248,7 @@ entries:
   orgNumber: 802005-7926
   comment: null
   categories:
+  - funktionsnedsättning
   - insamlingskontroll
   web: https://www.aktivasynskadade.org/
 
@@ -28158,6 +28258,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.jubileumsklinikenscancerfond.se/
 
 - entry: 1239009895
@@ -28166,6 +28267,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.foraldralosabarn.se/
 
 - entry: 1239009903
@@ -28174,6 +28276,8 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - religion
+  - stiftelse
   web: https://www.efs.nu/
 
 - entry: 1239010000
@@ -28182,6 +28286,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - riksförbund
   web: https://www.fmn.se/
 
 - entry: 1239010018
@@ -28200,6 +28305,7 @@ entries:
   categories:
   - insamlingskontroll
   - religion
+  - stiftelse
   web: https://www.efs.nu/
 
 - entry: 1239010042
@@ -28208,6 +28314,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.tobiasstiftelsen.com/
 
 - entry: 1239010075
@@ -28224,6 +28331,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - riksförbund
   web: https://www.hjart-lung.se/
 
 - entry: 1239010174
@@ -28275,6 +28383,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.barnmissionen.se/
 
 - entry: 1239010851
@@ -28282,6 +28391,7 @@ entries:
   orgNumber: 802001-0602
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.svenskafreds.se/
 
@@ -28290,6 +28400,7 @@ entries:
   orgNumber: 802002-4496
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
   web: https://www.djurensratt.se/
 
@@ -28324,6 +28435,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.barnensraddningsark.se/
 
 - entry: 1239011123
@@ -28332,6 +28444,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.gavlecancerfond.com/
 
 - entry: 1239011172
@@ -28341,6 +28454,7 @@ entries:
   categories:
   - insamlingskontroll
   - naturvård
+  - stiftelse
   web: https://www.naturarvet.se/
 
 - entry: 1239011198
@@ -28349,6 +28463,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.alzheimerfonden.se/
 
 - entry: 1239011206
@@ -28382,6 +28497,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.barnsamariten.se/
 
 - entry: 1239011313
@@ -28423,6 +28539,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://newhope.se/
 
 - entry: 1239011917
@@ -28438,6 +28555,7 @@ entries:
   orgNumber: 802002-4280
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.naturskyddsforeningen.se/
 
@@ -28446,6 +28564,7 @@ entries:
   orgNumber: 802002-4280
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.naturskyddsforeningen.se/
 
@@ -28454,6 +28573,7 @@ entries:
   orgNumber: 802002-4280
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.naturskyddsforeningen.se/
 
@@ -28462,6 +28582,7 @@ entries:
   orgNumber: 802002-4280
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.naturskyddsforeningen.se/
 
@@ -28503,6 +28624,7 @@ entries:
   orgNumber: 857204-4280
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.greenpeace.se/
 
@@ -28570,6 +28692,7 @@ entries:
   orgNumber: 885001-7404
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.cancerforeningen.se/
 
@@ -28579,6 +28702,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - riksförbund
   web: https://www.bris.se/
 
 - entry: 1239015504
@@ -28595,6 +28719,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - religion
   web: https://www.svenskakyrkan.se/
 
 - entry: 1239016834
@@ -28602,6 +28727,7 @@ entries:
   orgNumber: 802002-4280
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.naturskyddsforeningen.se/
 
@@ -28637,6 +28763,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   web: https://www.kvinnatillkvinna.se/
 
 - entry: 1239018037
