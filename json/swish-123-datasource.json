@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-08-07-rev-140831",
+    "date": "2022-08-07-rev-190757",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -823,6 +823,15 @@
         "segling"
       ],
       "web": "https://www.finnjolle.se/"
+    },
+    {
+      "entry": 1230291302,
+      "orgNumber": "817601-5819",
+      "orgName": "Vassunda IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.vassundaif.se/"
     },
     {
       "entry": 1230295196,
@@ -6396,6 +6405,16 @@
       "web": "https://bygdegardarna.se/rydogarden/"
     },
     {
+      "entry": 1231744713,
+      "orgNumber": "827500-2189",
+      "orgName": "Vrigstads IF",
+      "comment": "Medlemsavgift",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.vrigstad.nu/"
+    },
+    {
       "entry": 1231745298,
       "orgNumber": "802410-8501",
       "orgName": "J\u00e4rnkaminerna",
@@ -8755,6 +8774,15 @@
         "golfklubb"
       ],
       "web": "https://viksbergsgolf.se/"
+    },
+    {
+      "entry": 1232328755,
+      "orgNumber": "818500-3202",
+      "orgName": "Valla Idrottsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://vallaidrottsforening.se/"
     },
     {
       "entry": 1232329860,
@@ -11530,6 +11558,16 @@
         "golfklubb"
       ],
       "web": "https://www.norravagk.se/"
+    },
+    {
+      "entry": 1233049459,
+      "orgNumber": "827500-2189",
+      "orgName": "Vrigstads IF",
+      "comment": "Damklubben kiosk",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.vrigstad.nu/"
     },
     {
       "entry": 1233049582,
@@ -16548,6 +16586,15 @@
       "web": "https://nsph.se/"
     },
     {
+      "entry": 1234309563,
+      "orgNumber": "843000-3098",
+      "orgName": "R\u00e5\u00e5 IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.raaif.se/"
+    },
+    {
       "entry": 1234310108,
       "orgNumber": "559074-2184",
       "orgName": "SwebbTube / Svensk Webbtelevision AB",
@@ -17655,6 +17702,15 @@
       "web": "https://mullsjopingst.se/"
     },
     {
+      "entry": 1234641361,
+      "orgNumber": "884400-3031",
+      "orgName": "Soller\u00f6 IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.solleroif.se/"
+    },
+    {
       "entry": 1234641429,
       "orgNumber": "886500-3175",
       "orgName": "Undersviks Hembygdsf\u00f6rening",
@@ -18251,6 +18307,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-trollhattan/foreningar/trollhattan.html"
+    },
+    {
+      "entry": 1234817615,
+      "orgNumber": "802421-1792",
+      "orgName": "Gryts IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.gryt.se/foreningar/gryts-idrottsforening/"
     },
     {
       "entry": 1234819769,
@@ -21429,6 +21494,15 @@
         "bridgeklubb"
       ],
       "web": "https://www.svenskbridge.se/abb-bk"
+    },
+    {
+      "entry": 1235615026,
+      "orgNumber": "834000-0655",
+      "orgName": "Ethelhelms Idrottsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.etelhem.nu/idrottsf%C3%B6rening-37749329"
     },
     {
       "entry": 1235615133,
@@ -24902,6 +24976,16 @@
       "web": "https://arjangsgk.se/"
     },
     {
+      "entry": 1236507511,
+      "orgNumber": "827500-2189",
+      "orgName": "Vrigstads IF",
+      "comment": "S\u00e5ll-lotteri",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.vrigstad.nu/"
+    },
+    {
       "entry": 1236507578,
       "orgNumber": "556542-6847",
       "orgName": "Escape Outdoors / Solid Skills AB",
@@ -24949,6 +25033,16 @@
         "postboxar"
       ],
       "web": "https://postbox24.se/"
+    },
+    {
+      "entry": 1236519946,
+      "orgNumber": "827500-2189",
+      "orgName": "Vrigstads IF",
+      "comment": "VIF Damfotboll lotteri",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.vrigstad.nu/"
     },
     {
       "entry": 1236520068,
@@ -25656,6 +25750,15 @@
         "lionsklubb"
       ],
       "web": "https://www.lionsjarramas.se/"
+    },
+    {
+      "entry": 1236722730,
+      "orgNumber": "802533-3603",
+      "orgName": "Move Idrottsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.moveif.se/"
     },
     {
       "entry": 1236731269,
