@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-08-13-rev-165933",
+    "date": "2022-08-13-rev-175146",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -44,6 +44,15 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.rodakorset.se/"
+    },
+    {
+      "entry": 1230004945,
+      "orgNumber": "849000-3574",
+      "orgName": "L\u00e5ngasands Idrottsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.langasandsif.com/"
     },
     {
       "entry": 1230007344,
@@ -2707,6 +2716,16 @@
       ]
     },
     {
+      "entry": 1230832709,
+      "orgNumber": "849600-2562",
+      "orgName": "Tv\u00e5\u00e5kers IF",
+      "comment": "Kiosken",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tvaakersif.se/"
+    },
+    {
       "entry": 1230833186,
       "orgNumber": "883800-2999",
       "orgName": "Lions Club Ludvika",
@@ -2813,6 +2832,15 @@
         "golfklubb"
       ],
       "web": "http://www.togk.se/"
+    },
+    {
+      "entry": 1230845875,
+      "orgNumber": "845003-0864",
+      "orgName": "Bj\u00f6rnstorps IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.bjornstorpsif.se/"
     },
     {
       "entry": 1230851071,
@@ -3050,6 +3078,17 @@
       "web": "https://frihetochhalsa.se/"
     },
     {
+      "entry": 1230896407,
+      "orgNumber": "857208-8857",
+      "orgName": "Svenska Brand och R\u00e4ddningstj\u00e4nst Idrottsf\u00f6rbund, SBRIF",
+      "categories": [
+        "bl\u00e5ljus",
+        "idrottsf\u00f6rbund",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.brandsm.se/"
+    },
+    {
       "entry": 1230898692,
       "orgNumber": "882000-0407",
       "orgName": "Filadelfiaf\u00f6rsamlingen Avesta",
@@ -3181,6 +3220,15 @@
         "spa"
       ],
       "web": "https://www.mandorla.se/"
+    },
+    {
+      "entry": 1230927871,
+      "orgNumber": "864500-8205",
+      "orgName": "Kron\u00e4ngs IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kronangsif.se/"
     },
     {
       "entry": 1230927913,
@@ -4807,6 +4855,16 @@
         "kennelklubb"
       ],
       "web": "https://www.vastervikskennelklubb.se/"
+    },
+    {
+      "entry": 1231346071,
+      "orgNumber": "802530-6070",
+      "orgName": "Kungsbacka MMA Klubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://kungsbackamma.se/"
     },
     {
       "entry": 1231347871,
@@ -6897,6 +6955,16 @@
       "web": "http://www.ngdf.se/"
     },
     {
+      "entry": 1231838036,
+      "orgNumber": "849600-2562",
+      "orgName": "Tv\u00e5\u00e5kers IF",
+      "comment": "Matlotteri",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tvaakersif.se/"
+    },
+    {
       "entry": 1231839760,
       "orgNumber": "897300-0261",
       "orgName": "Kiruna jakt- och fiskev\u00e5rdsf\u00f6rening",
@@ -7067,6 +7135,16 @@
         "mansjour"
       ],
       "web": "https://www.mansjouren.se/"
+    },
+    {
+      "entry": 1231901487,
+      "orgNumber": "849600-2562",
+      "orgName": "Tv\u00e5\u00e5kers IF",
+      "comment": "Lotter vid arrangemang",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tvaakersif.se/"
     },
     {
       "entry": 1231902956,
@@ -7819,6 +7897,15 @@
       "web": "https://stockholmrotary.se/uppsala-peace-center/"
     },
     {
+      "entry": 1232091791,
+      "orgNumber": "827000-0840",
+      "orgName": "Forserums IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.forserumsif.com/"
+    },
+    {
       "entry": 1232092088,
       "orgNumber": "802433-8553",
       "orgName": "Hillsong Church Sweden",
@@ -8030,6 +8117,15 @@
         "kredittj\u00e4nster"
       ],
       "web": "https://sergel.se/"
+    },
+    {
+      "entry": 1232155505,
+      "orgNumber": "802520-1628",
+      "orgName": "Ulricehamns IHS",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ulricehamnihs.se/"
     },
     {
       "entry": 1232155547,
@@ -10242,6 +10338,7 @@
       "entry": 1232692598,
       "orgNumber": "865500-3385",
       "orgName": "Ulricehamns IF",
+      "comment": "Skidskytte",
       "categories": [
         "idrottsf\u00f6rening"
       ],
@@ -12370,6 +12467,15 @@
       "web": "https://linkoping.nmrf.se/"
     },
     {
+      "entry": 1233212198,
+      "orgNumber": "867200-4119",
+      "orgName": "Fr\u00f6jereds IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.frojeredsif.se/"
+    },
+    {
       "entry": 1233212370,
       "orgNumber": "802510-6751",
       "orgName": "F\u00f6reningen R\u00e4dda Bj\u00f6rndammsdalen och Finng\u00f6saravinen",
@@ -13468,6 +13574,15 @@
         "stiftelse"
       ],
       "web": "https://skargardsstiftelsen.se/"
+    },
+    {
+      "entry": 1233456589,
+      "orgNumber": "843000-7966",
+      "orgName": "Helsingborg \u00d6stra IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.hbgostraif.se/"
     },
     {
       "entry": 1233457678,
@@ -17224,6 +17339,13 @@
       "web": "https://www.fralsningsarmen.se/skelleftea/"
     },
     {
+      "entry": 1234408290,
+      "orgNumber": "865500-3385",
+      "orgName": "Ulricehamns IF",
+      "comment": "Skidsektionen",
+      "web": "https://www.uif.se/"
+    },
+    {
       "entry": 1234410692,
       "orgNumber": "802462-1099",
       "orgName": "Helsingborg Jaguars American Football Club - HJ AFC",
@@ -20171,6 +20293,15 @@
       "web": "https://lillagotafors.se/"
     },
     {
+      "entry": 1235202742,
+      "orgNumber": "868400-8009",
+      "orgName": "Varnhems IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.varnhemsif.se/"
+    },
+    {
       "entry": 1235203401,
       "orgNumber": "866000-9450",
       "orgName": "Tors\u00f6 Bygdeg\u00e5rds & Idrottsf\u00f6rening, TBIF",
@@ -23047,6 +23178,16 @@
       "web": "https://lionsulricehamn.se/"
     },
     {
+      "entry": 1235900949,
+      "orgNumber": "849600-2562",
+      "orgName": "Tv\u00e5\u00e5kers IF",
+      "comment": "Entr\u00e9 och parkering",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tvaakersif.se/"
+    },
+    {
       "entry": 1235909379,
       "orgNumber": "802520-5520",
       "orgName": "H\u00e4lleforsn\u00e4s Bygder\u00e5d",
@@ -24949,6 +25090,15 @@
       "web": "https://svenskablastjarnan.se/"
     },
     {
+      "entry": 1236358071,
+      "orgNumber": "849600-2562",
+      "orgName": "Tv\u00e5\u00e5kers IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tvaakersif.se/"
+    },
+    {
       "entry": 1236359210,
       "orgNumber": "810308-XXXX",
       "orgName": "Sundbergs Hundtj\u00e4nst / Frida Wall\u00e9n",
@@ -25303,6 +25453,15 @@
         "fiskev\u00e5rd"
       ],
       "web": "https://svensbyfiske.se/"
+    },
+    {
+      "entry": 1236484273,
+      "orgNumber": "849600-2562",
+      "orgName": "Tv\u00e5\u00e5kers IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tvaakersif.se/"
     },
     {
       "entry": 1236492466,
@@ -25809,6 +25968,15 @@
         "intresseorganisation"
       ],
       "web": "http://www.eketsframtid.se/"
+    },
+    {
+      "entry": 1236643274,
+      "orgNumber": "802468-6688",
+      "orgName": "Drop In Sporta",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://dropinsporta.se/"
     },
     {
       "entry": 1236643324,
@@ -29327,6 +29495,7 @@
       "orgNumber": "838200-5281",
       "orgName": "F\u00f6reningen Furuboda",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.furuboda.org/"
@@ -29336,6 +29505,7 @@
       "orgNumber": "857210-1361",
       "orgName": "F\u00f6reningen Afrikas Barn, FAB",
       "categories": [
+        "f\u00f6rening",
         "insamlingskontroll"
       ],
       "web": "https://www.afrikasbarn.se/"

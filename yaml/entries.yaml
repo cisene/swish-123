@@ -35,6 +35,14 @@ entries:
   - hjälporganisation
   web: https://www.rodakorset.se/
 
+- entry: 1230004945
+  orgName: Långasands Idrottsförening
+  orgNumber: 849000-3574
+  comment: null
+  categories:
+  - idrottsförening
+  web: http://www.langasandsif.com/
+
 - entry: 1230007344
   orgName: SkrattYoga / HT Helhetstanken
   orgNumber: 530728-XXXX
@@ -2455,6 +2463,14 @@ entries:
   - restaurant
   web: null
 
+- entry: 1230832709
+  orgName: Tvååkers IF
+  orgNumber: 849600-2562
+  comment: Kiosken
+  categories:
+  - idrottsförening
+  web: https://www.tvaakersif.se/
+
 - entry: 1230833186
   orgName: Lions Club Ludvika
   orgNumber: 883800-2999
@@ -2549,6 +2565,14 @@ entries:
   categories:
   - golfklubb
   web: http://www.togk.se/
+
+- entry: 1230845875
+  orgName: Björnstorps IF
+  orgNumber: 845003-0864
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.bjornstorpsif.se/
 
 - entry: 1230851071
   orgName: Rossöns Golfklubb
@@ -2765,6 +2789,16 @@ entries:
   categories: null
   web: null
 
+- entry: 1230896407
+  orgName: Svenska Brand och Räddningstjänst Idrottsförbund, SBRIF
+  orgNumber: 857208-8857
+  comment: null
+  categories:
+  - blåljus
+  - idrottsförbund
+  - idrottsförening
+  web: https://www.brandsm.se/
+
 - entry: 1230898692
   orgName: Filadelfiaförsamlingen Avesta
   orgNumber: 882000-0407
@@ -2883,6 +2917,14 @@ entries:
   - massage
   - spa
   web: https://www.mandorla.se/
+
+- entry: 1230927871
+  orgName: Kronängs IF
+  orgNumber: 864500-8205
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.kronangsif.se/
 
 - entry: 1230927913
   orgName: Stödföreningen Mama Norah Education Centre
@@ -4346,6 +4388,15 @@ entries:
   - hundsport
   - kennelklubb
   web: https://www.vastervikskennelklubb.se/
+
+- entry: 1231346071
+  orgName: Kungsbacka MMA Klubb
+  orgNumber: 802530-6070
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  web: https://kungsbackamma.se/
 
 - entry: 1231347871
   orgName: FMK Höglandet
@@ -6209,6 +6260,14 @@ entries:
   - motionsdans
   web: http://www.ngdf.se/
 
+- entry: 1231838036
+  orgName: Tvååkers IF
+  orgNumber: 849600-2562
+  comment: Matlotteri
+  categories:
+  - idrottsförening
+  web: https://www.tvaakersif.se/
+
 - entry: 1231839760
   orgName: Kiruna jakt- och fiskevårdsförening
   orgNumber: 897300-0261
@@ -6360,6 +6419,14 @@ entries:
   categories:
   - mansjour
   web: https://www.mansjouren.se/
+
+- entry: 1231901487
+  orgName: Tvååkers IF
+  orgNumber: 849600-2562
+  comment: Lotter vid arrangemang
+  categories:
+  - idrottsförening
+  web: https://www.tvaakersif.se/
 
 - entry: 1231902956
   orgName: Storfors Hundklubb Lokala Kennelklubb,
@@ -7033,6 +7100,14 @@ entries:
   - rotaryklubb
   web: https://stockholmrotary.se/uppsala-peace-center/
 
+- entry: 1232091791
+  orgName: Forserums IF
+  orgNumber: 827000-0840
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.forserumsif.com/
+
 - entry: 1232092088
   orgName: Hillsong Church Sweden
   orgNumber: 802433-8553
@@ -7227,6 +7302,14 @@ entries:
   - inkasso
   - kredittjänster
   web: https://sergel.se/
+
+- entry: 1232155505
+  orgName: Ulricehamns IHS
+  orgNumber: 802520-1628
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.ulricehamnihs.se/
 
 - entry: 1232155547
   orgName: Vendelsö Scoutkår
@@ -9237,7 +9320,7 @@ entries:
 - entry: 1232692598
   orgName: Ulricehamns IF
   orgNumber: 865500-3385
-  comment: null
+  comment: Skidskytte
   categories:
   - idrottsförening
   web: https://www.uif.se/
@@ -11154,6 +11237,14 @@ entries:
   - förening
   web: https://linkoping.nmrf.se/
 
+- entry: 1233212198
+  orgName: Fröjereds IF
+  orgNumber: 867200-4119
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.frojeredsif.se/
+
 - entry: 1233212370
   orgName: Föreningen Rädda Björndammsdalen och Finngösaravinen
   orgNumber: 802510-6751
@@ -11746,6 +11837,13 @@ entries:
   - ideell förening
   web: https://amnestysapmi.se/
 
+- entry: 1233357589
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1233360070
   orgName: Moderata Samlingspartiet Riksorganisationen
   orgNumber: 802001-5452
@@ -12171,6 +12269,14 @@ entries:
   categories:
   - stiftelse
   web: https://skargardsstiftelsen.se/
+
+- entry: 1233456589
+  orgName: Helsingborg Östra IF
+  orgNumber: 843000-7966
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.hbgostraif.se/
 
 - entry: 1233457678
   orgName: IBF Falun Utveckling
@@ -15568,6 +15674,13 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/skelleftea/
 
+- entry: 1234408290
+  orgName: Ulricehamns IF
+  orgNumber: 865500-3385
+  comment: Skidsektionen
+  categories: null
+  web: https://www.uif.se/
+
 - entry: 1234410692
   orgName: Helsingborg Jaguars American Football Club - HJ AFC
   orgNumber: 802462-1099
@@ -18221,6 +18334,14 @@ entries:
   - möten
   web: https://lillagotafors.se/
 
+- entry: 1235202742
+  orgName: Varnhems IF
+  orgNumber: 868400-8009
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.varnhemsif.se/
+
 - entry: 1235203401
   orgName: Torsö Bygdegårds & Idrottsförening, TBIF
   orgNumber: 866000-9450
@@ -20829,6 +20950,14 @@ entries:
   - lionsklubb
   web: https://lionsulricehamn.se/
 
+- entry: 1235900949
+  orgName: Tvååkers IF
+  orgNumber: 849600-2562
+  comment: Entré och parkering
+  categories:
+  - idrottsförening
+  web: https://www.tvaakersif.se/
+
 - entry: 1235909379
   orgName: Hälleforsnäs Bygderåd
   orgNumber: 802520-5520
@@ -22542,6 +22671,14 @@ entries:
   - utbildning
   web: https://svenskablastjarnan.se/
 
+- entry: 1236358071
+  orgName: Tvååkers IF
+  orgNumber: 849600-2562
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.tvaakersif.se/
+
 - entry: 1236359210
   orgName: Sundbergs Hundtjänst / Frida Wallén
   orgNumber: 810308-XXXX
@@ -22874,6 +23011,14 @@ entries:
   - fiskekort
   - fiskevård
   web: https://svensbyfiske.se/
+
+- entry: 1236484273
+  orgName: Tvååkers IF
+  orgNumber: 849600-2562
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.tvaakersif.se/
 
 - entry: 1236492466
   orgName: Synskadades Riksförbund Bohuslän
@@ -23359,6 +23504,14 @@ entries:
   - förening
   - intresseorganisation
   web: http://www.eketsframtid.se/
+
+- entry: 1236643274
+  orgName: Drop In Sporta
+  orgNumber: 802468-6688
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://dropinsporta.se/
 
 - entry: 1236643324
   orgName: Lekeryds Församling
@@ -27309,6 +27462,7 @@ entries:
   orgNumber: 838200-5281
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.furuboda.org/
 
@@ -27317,6 +27471,7 @@ entries:
   orgNumber: 857210-1361
   comment: null
   categories:
+  - förening
   - insamlingskontroll
   web: https://www.afrikasbarn.se/
 
