@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-08-13-rev-175146",
+    "date": "2022-08-14-rev-022220",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -14,6 +14,16 @@
         "golfklubb"
       ],
       "web": "http://kkgk.se/"
+    },
+    {
+      "entry": 1230004275,
+      "orgNumber": "889601-3219",
+      "orgName": "Nolaskogs Bist\u00e5ndscenter, NBC",
+      "comment": "Hj\u00e4lpverksamhet",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.nbcgottne.se/"
     },
     {
       "entry": 1230004648,
@@ -2331,6 +2341,15 @@
       "web": "https://www.econordica.se/"
     },
     {
+      "entry": 1230730986,
+      "orgNumber": "817601-4986",
+      "orgName": "Norrlands nations idrottsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.nnif.se/"
+    },
+    {
       "entry": 1230731570,
       "orgNumber": "252000-1823",
       "orgName": "\u00c4rentuna F\u00f6rsamling",
@@ -2369,6 +2388,15 @@
         "intresseorganisation"
       ],
       "web": "https://maketrade.se/"
+    },
+    {
+      "entry": 1230740068,
+      "orgNumber": "838202-3466",
+      "orgName": "Huar\u00f6ds Byalag",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://huarod.nu/"
     },
     {
       "entry": 1230740712,
@@ -2975,6 +3003,15 @@
       "web": "https://transfeststockholm.org/"
     },
     {
+      "entry": 1230877464,
+      "orgNumber": "332401-0937",
+      "orgName": "Risb\u00e4cks Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://risback-vastsjo.se/"
+    },
+    {
       "entry": 1230878629,
       "orgNumber": "802006-7750",
       "orgName": "Svenska Epilepsif\u00f6rbundet",
@@ -3153,6 +3190,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://www.sarnahembygdsforening.se/"
+    },
+    {
+      "entry": 1230915223,
+      "orgNumber": "802421-7948",
+      "orgName": "Idrottens Idrottsf\u00f6rening - Korpen",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.idrottensif.rf.se/"
     },
     {
       "entry": 1230916320,
@@ -7110,6 +7156,15 @@
       "web": "https://www.efs.nu/"
     },
     {
+      "entry": 1231895358,
+      "orgNumber": "862500-4141",
+      "orgName": "F\u00e4rgelanda IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.fargelandaif.se/"
+    },
+    {
       "entry": 1231896323,
       "orgNumber": "846003-2033",
       "orgName": "Sydkatten F\u00f6rening",
@@ -8287,6 +8342,15 @@
         "tjejjour"
       ],
       "web": "https://ikkr.org/"
+    },
+    {
+      "entry": 1232189934,
+      "orgNumber": "802415-4372",
+      "orgName": "Gryts Sockenf\u00f6rening",
+      "categories": [
+        "f\u00f6rening"
+      ],
+      "web": "https://www.gryt.se/"
     },
     {
       "entry": 1232193084,
@@ -12813,6 +12877,15 @@
       "web": "https://axmarbruk.se/"
     },
     {
+      "entry": 1233276706,
+      "orgNumber": "829500-8315",
+      "orgName": "Hovmantorp GoIF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.landvetteris.com/"
+    },
+    {
       "entry": 1233276862,
       "orgNumber": "846002-5276",
       "orgName": "Borgeby Fotbollsklubb",
@@ -16248,6 +16321,16 @@
       "web": "http://rossonfvo.se/"
     },
     {
+      "entry": 1234138822,
+      "orgNumber": "889601-3219",
+      "orgName": "Nolaskogs Bist\u00e5ndscenter, NBC",
+      "comment": "Fraktbidrag",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.nbcgottne.se/"
+    },
+    {
       "entry": 1234149258,
       "orgNumber": "894000-1558",
       "orgName": "Sandviks IK",
@@ -18241,6 +18324,16 @@
       "web": "https://www.pingstvarberg.se/"
     },
     {
+      "entry": 1234657532,
+      "orgNumber": "802406-2096",
+      "orgName": "Stockholms Kajak Klubb, SKK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kajak"
+      ],
+      "web": "https://www.kajak.org/"
+    },
+    {
       "entry": 1234661120,
       "orgNumber": "760511-XXXX",
       "orgName": "TPs Hundbutik / Linda Ling",
@@ -19207,6 +19300,15 @@
       "web": "https://frihetochhalsa.se/"
     },
     {
+      "entry": 1234984647,
+      "orgNumber": "769621-0421",
+      "orgName": "Karbenning Bygdeg\u00e5rdf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/karbenning/"
+    },
+    {
       "entry": 1234986915,
       "orgNumber": "802525-0310",
       "orgName": "Bensinupproret 2.0 / F\u00f6reningen Uppror",
@@ -19512,6 +19614,15 @@
         "utbildningsst\u00f6d"
       ],
       "web": "https://huddinge.alvis.se/"
+    },
+    {
+      "entry": 1235059688,
+      "orgNumber": "832800-9090",
+      "orgName": "IF \u00c5sen",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.drageryd.se/"
     },
     {
       "entry": 1235064043,
@@ -20062,6 +20173,15 @@
         "lionsklubb"
       ],
       "web": "http://www.uppsala.lions.se/"
+    },
+    {
+      "entry": 1235149182,
+      "orgNumber": "897300-1533",
+      "orgName": "Abisko Intressef\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://abiskointresseforening.weebly.com/"
     },
     {
       "entry": 1235151253,
@@ -21151,6 +21271,15 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Sodertalje/"
+    },
+    {
+      "entry": 1235430780,
+      "orgNumber": "832000-0840",
+      "orgName": "M\u00f6rbyl\u00e5nga GoIF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.morbylangagoif.com/"
     },
     {
       "entry": 1235437553,
@@ -22520,6 +22649,17 @@
       "web": "https://anhorigasriksforbund.se/"
     },
     {
+      "entry": 1235751193,
+      "orgNumber": "802494-5027",
+      "orgName": "Fightclub Freestyle Stockholm IF",
+      "categories": [
+        "boxning",
+        "kampsport",
+        "tr\u00e4ning"
+      ],
+      "web": "https://www.fightclubstockholm.se/"
+    },
+    {
       "entry": 1235752407,
       "orgNumber": "867800-4121",
       "orgName": "Hela M\u00e4nniskan RIA Falk\u00f6ping",
@@ -22983,6 +23123,16 @@
         "fotv\u00e5rd"
       ],
       "web": "https://www.hosmalin.se/"
+    },
+    {
+      "entry": 1235841580,
+      "orgNumber": "802415-6518",
+      "orgName": "Hilti Brazilian Jiu-Jitsu Stockholm",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.hiltibjj.com/"
     },
     {
       "entry": 1235843248,
@@ -24356,6 +24506,15 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://www.rns.se/"
+    },
+    {
+      "entry": 1236178255,
+      "orgNumber": "802001-5627",
+      "orgName": "RF-SISU Stockholm",
+      "categories": [
+        "idrott"
+      ],
+      "web": "https://www.rfsisu.se/Stockholm"
     },
     {
       "entry": 1236178339,
@@ -26295,6 +26454,15 @@
       "web": "https://kfumalnas.se/"
     },
     {
+      "entry": 1236713572,
+      "orgNumber": "834000-3469",
+      "orgName": "Sanda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.sandagotland.se/"
+    },
+    {
       "entry": 1236713630,
       "orgNumber": "869001-0056",
       "orgName": "G\u00f6tene Brukshundklubb",
@@ -26303,6 +26471,16 @@
         "hundsport"
       ],
       "web": "http://www.gotenebk.com/"
+    },
+    {
+      "entry": 1236713903,
+      "orgNumber": "802478-3816",
+      "orgName": "Viggo Foundation - Insamlingsstifte",
+      "categories": [
+        "npf-diagnoser",
+        "stiftelse"
+      ],
+      "web": "https://www.viggofoundation.se/"
     },
     {
       "entry": 1236718365,
