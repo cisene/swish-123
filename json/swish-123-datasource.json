@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-08-14-rev-022220",
+    "date": "2022-08-17-rev-003334",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5933,6 +5933,17 @@
       "web": "https://annonsmarknan.se/"
     },
     {
+      "entry": 1231590793,
+      "orgNumber": "842000-7521",
+      "orgName": "H\u00f6\u00f6rs HK H65",
+      "comment": "P 09/10",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.h65.se/"
+    },
+    {
       "entry": 1231591817,
       "orgNumber": "559113-2559",
       "orgName": "Yoga & V\u00e4nner AB",
@@ -7737,6 +7748,16 @@
         "stiftelse"
       ],
       "web": "https://hugosstiftelse.se/"
+    },
+    {
+      "entry": 1232039162,
+      "orgNumber": "802474-6649",
+      "orgName": "Kramfors BK",
+      "categories": [
+        "bowlingklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kramforsbk.se/"
     },
     {
       "entry": 1232039451,
@@ -12275,6 +12296,15 @@
       "web": "http://www.creperiet.nu/"
     },
     {
+      "entry": 1233131919,
+      "orgNumber": "802477-2991",
+      "orgName": "Mannaminnes V\u00e4nner",
+      "categories": [
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.mannaminne.se/"
+    },
+    {
       "entry": 1233132768,
       "orgNumber": "785500-1009",
       "orgName": "J\u00e4rbo Folkets Hus",
@@ -15535,6 +15565,16 @@
         "folkr\u00f6relse"
       ],
       "web": "https://skiftet.org/"
+    },
+    {
+      "entry": 1233952397,
+      "orgNumber": "853300-8788",
+      "orgName": "Kung\u00e4lvs Bowlingklubb",
+      "categories": [
+        "bowlingklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/kungalvsbowlingklubb/"
     },
     {
       "entry": 1233952850,
@@ -19273,6 +19313,16 @@
       "web": "https://www.lerumsscoutkar.se/"
     },
     {
+      "entry": 1234964730,
+      "orgNumber": "844001-1271",
+      "orgName": "BK M\u00f6llan",
+      "categories": [
+        "bowlingklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.bkm\u00f6llan.se/"
+    },
+    {
       "entry": 1234971040,
       "orgNumber": "802451-8261",
       "orgName": "Tj\u00f6rns Sl\u00e4ktforskare",
@@ -19603,6 +19653,15 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://sverigeforunhcr.se/"
+    },
+    {
+      "entry": 1235055793,
+      "orgNumber": "802417-0675",
+      "orgName": "SPF Seniorerna Vreta Kloster",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/vretakloster/"
     },
     {
       "entry": 1235056387,
@@ -20145,6 +20204,15 @@
         "viltv\u00e5rd"
       ],
       "web": "https://www.kirunajaktochfiske.se/"
+    },
+    {
+      "entry": 1235147715,
+      "orgNumber": "846003-9459",
+      "orgName": "SPF Seniorerna Djupadal",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://spfdjupadal.se/"
     },
     {
       "entry": 1235148010,
@@ -21782,6 +21850,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/karlstadspastorat"
+    },
+    {
+      "entry": 1235537410,
+      "orgNumber": "883800-6933",
+      "orgName": "Ludvika BK",
+      "categories": [
+        "bowlingklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://idrottonline.se/LudvikaBK-Bowling/"
     },
     {
       "entry": 1235543541,
@@ -23899,6 +23977,15 @@
       "web": "https://www.srsf.se/"
     },
     {
+      "entry": 1236039408,
+      "orgNumber": "802507-0213",
+      "orgName": "Tyft Arena Idrottsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://idrottonline.se/TyftArenaIF-Friidrott/"
+    },
+    {
       "entry": 1236039820,
       "orgNumber": "802417-9155",
       "orgName": "Studebakerklubben Sweden",
@@ -25585,6 +25672,16 @@
       "web": "https://husby-rekarne.scout.se/"
     },
     {
+      "entry": 1236460729,
+      "orgNumber": "818001-3768",
+      "orgName": "Eskilstuna Pension\u00e4rernas Motions Klubb, PMK",
+      "categories": [
+        "bowlingklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eskilstunabowling.se/sportbowling/seniorer/seniorklubbar/pmk"
+    },
+    {
       "entry": 1236466320,
       "orgNumber": "802424-2656",
       "orgName": "Haninge Islamiska KulturCenter / Stiftelsen Haninge Kultur Center",
@@ -25716,6 +25813,15 @@
         "utbildning"
       ],
       "web": "https://escapeoutdoors.se/"
+    },
+    {
+      "entry": 1236510614,
+      "orgNumber": "802417-6425",
+      "orgName": "SPF Seniorerna Nykvarn",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/nykvarn/"
     },
     {
       "entry": 1236510838,
@@ -26821,6 +26927,15 @@
         "podcast"
       ],
       "web": "https://www.tyresoradion.se/"
+    },
+    {
+      "entry": 1236796064,
+      "orgNumber": "642387-0713",
+      "orgName": "SPF Seniorerna Klubb 67 Tomelilla",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-tomelilla-klubb-67/"
     },
     {
       "entry": 1236800650,
