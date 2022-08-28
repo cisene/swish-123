@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-08-28-rev-135010",
+    "date": "2022-08-28-rev-160105",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1307,6 +1307,15 @@
         "trycksaker"
       ],
       "web": "https://www.bjellefors.se/"
+    },
+    {
+      "entry": 1230399717,
+      "orgNumber": "556655-1718",
+      "orgName": "Faktum Sk\u00e5ne AB",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.faktum.se/"
     },
     {
       "entry": 1230401851,
@@ -2702,6 +2711,16 @@
       "web": "https://www.rimboif.com/"
     },
     {
+      "entry": 1230795567,
+      "orgNumber": "802474-0105",
+      "orgName": "Grosshamns F\u00e4ltstation",
+      "categories": [
+        "f\u00f6rening",
+        "ornitologi"
+      ],
+      "web": "https://grosshamn.se/"
+    },
+    {
       "entry": 1230798546,
       "orgNumber": "872000-0143",
       "orgName": "Arvika Ridklubb",
@@ -2969,6 +2988,15 @@
         "rotaryklubb"
       ],
       "web": "https://lomma-bjarred.rotary2390.se/"
+    },
+    {
+      "entry": 1230857391,
+      "orgNumber": "556120-9098",
+      "orgName": "Hedengrens Bokhandel AB",
+      "categories": [
+        "bokhandel"
+      ],
+      "web": "http://hedengrens.se/"
     },
     {
       "entry": 1230866335,
@@ -5749,6 +5777,16 @@
       "web": "http://larzkristerz.com/"
     },
     {
+      "entry": 1231510395,
+      "orgNumber": "885500-2153",
+      "orgName": "\u00d6sterf\u00e4rnebo IF",
+      "comment": "Orientering",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.ofiffotboll.se/"
+    },
+    {
       "entry": 1231510841,
       "orgNumber": "864501-3999",
       "orgName": "S:t \u00d6rjans Scoutk\u00e5r",
@@ -6673,6 +6711,16 @@
       "web": "https://www.hogbogk.com/"
     },
     {
+      "entry": 1231732932,
+      "orgNumber": "802488-2873",
+      "orgName": "Homeless Foundation",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "ideell f\u00f6rening"
+      ],
+      "web": "https://hemlosa.se/"
+    },
+    {
       "entry": 1231734037,
       "orgNumber": "889200-2786",
       "orgName": "Hagakyrkan Sundsvall / Haga Baptistf\u00f6rsamling",
@@ -6835,6 +6883,17 @@
         "religion"
       ],
       "web": "https://pingsteskilstunaweb.se/"
+    },
+    {
+      "entry": 1231765700,
+      "orgNumber": "802405-0273",
+      "orgName": "Williams Syndromf\u00f6rening i Sverige",
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "f\u00f6rening",
+        "syndromf\u00f6rening"
+      ],
+      "web": "http://williamssyndrom.se/"
     },
     {
       "entry": 1231766211,
@@ -9481,6 +9540,16 @@
       "web": "http://djurgardenshembygdsforening.se/"
     },
     {
+      "entry": 1232384683,
+      "orgNumber": "885500-2153",
+      "orgName": "\u00d6sterf\u00e4rnebo IF",
+      "comment": "Orientering",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.ofiffotboll.se/"
+    },
+    {
       "entry": 1232386639,
       "orgNumber": "802506-2400",
       "orgName": "Demokraterna",
@@ -11209,6 +11278,18 @@
         "golfklubb"
       ],
       "web": "https://www.lidingogk.se/"
+    },
+    {
+      "entry": 1232811958,
+      "orgNumber": "802499-5774",
+      "orgName": "Stockholms Vildf\u00e5gel Rehab",
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "f\u00f6rening",
+        "ideell f\u00f6rening"
+      ],
+      "web": "https://svr.nu/"
     },
     {
       "entry": 1232812881,
@@ -18374,6 +18455,15 @@
       "web": "http://www.kalixgolfklubb.se/"
     },
     {
+      "entry": 1234586798,
+      "orgNumber": "848001-2718",
+      "orgName": "SPF Seniorerna Ystad",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://spfystad.se/"
+    },
+    {
       "entry": 1234586947,
       "orgNumber": "886501-1632",
       "orgName": "S\u00f6r\u00e4ngs Byalag",
@@ -18833,6 +18923,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.uif.se/"
+    },
+    {
+      "entry": 1234701819,
+      "orgNumber": "556414-7972",
+      "orgName": "Ventin.se / GOIN AB",
+      "categories": [
+        "luftbehandling",
+        "ventialtion"
+      ],
+      "web": "http://ventin.se/"
     },
     {
       "entry": 1234705265,
@@ -24926,6 +25026,15 @@
       "web": "https://www.eco-butiken.se/"
     },
     {
+      "entry": 1236172985,
+      "orgNumber": "556399-7468",
+      "orgName": "Taxi Lilla Edet AB",
+      "categories": [
+        "persontransport"
+      ],
+      "web": "https://www.lillaedetbuss.se/taxi/"
+    },
+    {
       "entry": 1236174957,
       "orgNumber": "897000-3490",
       "orgName": "R\u00e5ne\u00e5 Hembygdsf\u00f6rening",
@@ -26615,6 +26724,16 @@
       "web": "https://eskilstunaunited.se/"
     },
     {
+      "entry": 1236632269,
+      "orgNumber": "835000-1130",
+      "orgName": "KA2 IF",
+      "categories": [
+        "f\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ka2if.sportadmin.se/"
+    },
+    {
       "entry": 1236638373,
       "orgNumber": "833600-9686",
       "orgName": "Meningsfull fritid - Riksf\u00f6rbundet Attention",
@@ -27211,6 +27330,15 @@
         "intresseorganisation"
       ],
       "web": "https://livisverige.org/"
+    },
+    {
+      "entry": 1236773865,
+      "orgNumber": "802466-6193",
+      "orgName": "SPF Seniorerna Tibro",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://tibrospf.n.nu/"
     },
     {
       "entry": 1236773949,
@@ -29593,6 +29721,19 @@
       "web": "https://www.ftms.se/"
     },
     {
+      "entry": 1239004607,
+      "orgNumber": "854600-6191",
+      "orgName": "Stiftelsen Nordens Ark",
+      "categories": [
+        "forskning",
+        "insamlingskontroll",
+        "naturv\u00e5rd",
+        "stiftelse",
+        "utbildning"
+      ],
+      "web": "https://wwww.nordensark.se/"
+    },
+    {
       "entry": 1239004656,
       "orgNumber": "802478-2842",
       "orgName": "Help Kurdistan insamlingsstiftelse",
@@ -31207,6 +31348,16 @@
       "web": "https://www.diabetes.se/diabetesfonden"
     },
     {
+      "entry": 1239009069,
+      "orgNumber": "802005-7512",
+      "orgName": "Astma- och Allergif\u00f6rbundet",
+      "categories": [
+        "f\u00f6rbund",
+        "insamlingskontroll"
+      ],
+      "web": "https://www.astmaoallergiforbundet.se/"
+    },
+    {
       "entry": 1239009085,
       "orgNumber": "802002-7762",
       "orgName": "Goda Nyheter - f\u00f6r livet",
@@ -31255,6 +31406,16 @@
         "stiftelse"
       ],
       "web": "https://www.erikshjalpen.se/"
+    },
+    {
+      "entry": 1239009325,
+      "orgNumber": "802005-7512",
+      "orgName": "Astma- och Allergif\u00f6rbundet",
+      "comment": "Blomsterfonden",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.astmaoallergiforbundet.se/"
     },
     {
       "entry": 1239009697,

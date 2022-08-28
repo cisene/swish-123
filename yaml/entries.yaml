@@ -1187,6 +1187,14 @@ entries:
   categories: null
   web: https://www.cykelregister.se/
 
+- entry: 1230399717
+  orgName: Faktum Skåne AB
+  orgNumber: 556655-1718
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.faktum.se/
+
 - entry: 1230401851
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -2442,6 +2450,15 @@ entries:
   - idrottsförening
   web: https://www.rimboif.com/
 
+- entry: 1230795567
+  orgName: Grosshamns Fältstation
+  orgNumber: 802474-0105
+  comment: null
+  categories:
+  - förening
+  - ornitologi
+  web: https://grosshamn.se/
+
 - entry: 1230798546
   orgName: Arvika Ridklubb
   orgNumber: 872000-0143
@@ -2678,6 +2695,14 @@ entries:
   categories:
   - rotaryklubb
   web: https://lomma-bjarred.rotary2390.se/
+
+- entry: 1230857391
+  orgName: Hedengrens Bokhandel AB
+  orgNumber: 556120-9098
+  comment: null
+  categories:
+  - bokhandel
+  web: http://hedengrens.se/
 
 - entry: 1230866335
   orgName: Tjej och Transjouren Lina
@@ -5179,6 +5204,14 @@ entries:
   - orkester
   web: http://larzkristerz.com/
 
+- entry: 1231510395
+  orgName: Österfärnebo IF
+  orgNumber: 885500-2153
+  comment: Orientering
+  categories:
+  - idrottsförening
+  web: http://www.ofiffotboll.se/
+
 - entry: 1231510841
   orgName: S:t Örjans Scoutkår
   orgNumber: 864501-3999
@@ -6008,6 +6041,15 @@ entries:
   - golfklubb
   web: https://www.hogbogk.com/
 
+- entry: 1231732932
+  orgName: Homeless Foundation
+  orgNumber: 802488-2873
+  comment: null
+  categories:
+  - hjälporganisation
+  - ideell förening
+  web: https://hemlosa.se/
+
 - entry: 1231734037
   orgName: Hagakyrkan Sundsvall / Haga Baptistförsamling
   orgNumber: 889200-2786
@@ -6152,6 +6194,16 @@ entries:
   categories:
   - religion
   web: https://pingsteskilstunaweb.se/
+
+- entry: 1231765700
+  orgName: Williams Syndromförening i Sverige
+  orgNumber: 802405-0273
+  comment: null
+  categories:
+  - anhörigorganisation
+  - förening
+  - syndromförening
+  web: http://williamssyndrom.se/
 
 - entry: 1231766211
   orgName: Hemlösa Katter Kalmar
@@ -8528,6 +8580,14 @@ entries:
   - hembygdsförening
   web: http://djurgardenshembygdsforening.se/
 
+- entry: 1232384683
+  orgName: Österfärnebo IF
+  orgNumber: 885500-2153
+  comment: Orientering
+  categories:
+  - idrottsförening
+  web: http://www.ofiffotboll.se/
+
 - entry: 1232386639
   orgName: Demokraterna
   orgNumber: 802506-2400
@@ -10082,6 +10142,17 @@ entries:
   categories:
   - golfklubb
   web: https://www.lidingogk.se/
+
+- entry: 1232811958
+  orgName: Stockholms Vildfågel Rehab
+  orgNumber: 802499-5774
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - förening
+  - ideell förening
+  web: https://svr.nu/
 
 - entry: 1232812881
   orgName: Forserums Brukshundklubb
@@ -16576,6 +16647,14 @@ entries:
   - golfklubb
   web: http://www.kalixgolfklubb.se/
 
+- entry: 1234586798
+  orgName: SPF Seniorerna Ystad
+  orgNumber: 848001-2718
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://spfystad.se/
+
 - entry: 1234586947
   orgName: Sörängs Byalag
   orgNumber: 886501-1632
@@ -16992,6 +17071,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.uif.se/
+
+- entry: 1234701819
+  orgName: Ventin.se / GOIN AB
+  orgNumber: 556414-7972
+  comment: null
+  categories:
+  - luftbehandling
+  - ventialtion
+  web: http://ventin.se/
 
 - entry: 1234705265
   orgName: Smådjurschansen
@@ -22502,6 +22590,14 @@ entries:
   - hudvård
   web: https://www.eco-butiken.se/
 
+- entry: 1236172985
+  orgName: Taxi Lilla Edet AB
+  orgNumber: 556399-7468
+  comment: null
+  categories:
+  - persontransport
+  web: https://www.lillaedetbuss.se/taxi/
+
 - entry: 1236174957
   orgName: Råneå Hembygdsförening
   orgNumber: 897000-3490
@@ -24051,6 +24147,15 @@ entries:
   - idrottsförening
   web: https://eskilstunaunited.se/
 
+- entry: 1236632269
+  orgName: KA2 IF
+  orgNumber: 835000-1130
+  comment: null
+  categories:
+  - förening
+  - idrottsförening
+  web: https://ka2if.sportadmin.se/
+
 - entry: 1236638373
   orgName: Meningsfull fritid - Riksförbundet Attention
   orgNumber: 833600-9686
@@ -24612,6 +24717,14 @@ entries:
   categories:
   - intresseorganisation
   web: https://livisverige.org/
+
+- entry: 1236773865
+  orgName: SPF Seniorerna Tibro
+  orgNumber: 802466-6193
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://tibrospf.n.nu/
 
 - entry: 1236773949
   orgName: Samuelsdal Golfklubb
@@ -27349,8 +27462,11 @@ entries:
   orgNumber: 854600-6191
   comment: null
   categories:
+  - forskning
   - insamlingskontroll
-  - overifierad
+  - naturvård
+  - stiftelse
+  - utbildning
   web: https://wwww.nordensark.se/
 
 - entry: 1239004615
@@ -29442,8 +29558,8 @@ entries:
   orgNumber: 802005-7512
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
-  - overifierad
   web: https://www.astmaoallergiforbundet.se/
 
 - entry: 1239009085
@@ -29494,10 +29610,9 @@ entries:
 - entry: 1239009325
   orgName: Astma- och Allergiförbundet
   orgNumber: 802005-7512
-  comment: null
+  comment: Blomsterfonden
   categories:
   - insamlingskontroll
-  - overifierad
   web: https://www.astmaoallergiforbundet.se/
 
 - entry: 1239009358
