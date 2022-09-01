@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-08-28-rev-160105",
+    "date": "2022-09-01-rev-200938",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1835,6 +1835,16 @@
       "web": "https://www.linkopingfc.com/"
     },
     {
+      "entry": 1230540377,
+      "orgNumber": "883202-3264",
+      "orgName": "Svenska Rovdjursf\u00f6reningen",
+      "categories": [
+        "intressef\u00f6rening",
+        "rovdjur"
+      ],
+      "web": "https://rovdjur.se/"
+    },
+    {
       "entry": 1230550111,
       "orgNumber": "802462-7278",
       "orgName": "Tos\u00e4ters Byhistoriska F\u00f6rening",
@@ -2839,6 +2849,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://samnytt.se/"
+    },
+    {
+      "entry": 1230835025,
+      "orgNumber": "845000-7474",
+      "orgName": "Simklubben Triton",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "simklubb"
+      ],
+      "web": "https://www.sktriton.se/"
     },
     {
       "entry": 1230835884,
@@ -10114,6 +10134,16 @@
       "web": "https://portal.clubrunner.ca/17254/"
     },
     {
+      "entry": 1232561371,
+      "orgNumber": "802420-0043",
+      "orgName": "Upplands V\u00e4sby Pistolskytteklubb",
+      "categories": [
+        "f\u00f6rening",
+        "pistolskytteklubb"
+      ],
+      "web": "http://www.uvpsk.se/"
+    },
+    {
       "entry": 1232566313,
       "orgNumber": "559207-8553",
       "orgName": "Villa Sunshine AB",
@@ -10409,6 +10439,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/alno"
+    },
+    {
+      "entry": 1232631455,
+      "orgNumber": "556736-2453",
+      "orgName": "Beach Center / Ipanema Beach AB",
+      "categories": [
+        "beachvolleyhall",
+        "f\u00f6retagsevent",
+        "idrottsarena",
+        "volleyboll"
+      ],
+      "web": "https://beachcenter.se/"
     },
     {
       "entry": 1232634244,
@@ -15057,6 +15099,19 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Uppsala/"
+    },
+    {
+      "entry": 1233771656,
+      "orgNumber": "559000-7612",
+      "orgName": "Kungsbygget \u00c4ventyrspark AB",
+      "categories": [
+        "cykelsport",
+        "friluftsliv",
+        "f\u00f6retagsevent",
+        "kl\u00e4ttring",
+        "\u00e4ventyr"
+      ],
+      "web": "https://kungsbygget.com/cykelpark"
     },
     {
       "entry": 1233772225,
@@ -27164,6 +27219,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.moveif.se/"
+    },
+    {
+      "entry": 1236730170,
+      "orgNumber": "802001-6492",
+      "orgName": "Svenska Journalistf\u00f6rbundets Insamlingsfond",
+      "categories": [
+        "f\u00f6rbund",
+        "journalistik"
+      ],
+      "web": "https://www.sjf.se/"
     },
     {
       "entry": 1236731269,

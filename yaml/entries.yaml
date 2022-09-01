@@ -1673,6 +1673,15 @@ entries:
   - förening
   web: https://www.linkopingfc.com/
 
+- entry: 1230540377
+  orgName: Svenska Rovdjursföreningen
+  orgNumber: 883202-3264
+  comment: null
+  categories:
+  - intresseförening
+  - rovdjur
+  web: https://rovdjur.se/
+
 - entry: 1230550111
   orgName: Tosäters Byhistoriska Förening
   orgNumber: 802462-7278
@@ -2564,6 +2573,15 @@ entries:
   categories:
   - intresseförening
   web: https://samnytt.se/
+
+- entry: 1230835025
+  orgName: Simklubben Triton
+  orgNumber: 845000-7474
+  comment: null
+  categories:
+  - idrottsförening
+  - simklubb
+  web: https://www.sktriton.se/
 
 - entry: 1230835884
   orgName: Al-Anon Familjegrupper i Sverige
@@ -9100,6 +9118,15 @@ entries:
   - rotaryklubb
   web: https://portal.clubrunner.ca/17254/
 
+- entry: 1232561371
+  orgName: Upplands Väsby Pistolskytteklubb
+  orgNumber: 802420-0043
+  comment: null
+  categories:
+  - förening
+  - pistolskytteklubb
+  web: http://www.uvpsk.se/
+
 - entry: 1232566313
   orgName: Villa Sunshine AB
   orgNumber: 559207-8553
@@ -9363,6 +9390,17 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/alno
+
+- entry: 1232631455
+  orgName: Beach Center / Ipanema Beach AB
+  orgNumber: 556736-2453
+  comment: null
+  categories:
+  - beachvolleyhall
+  - företagsevent
+  - idrottsarena
+  - volleyboll
+  web: https://beachcenter.se/
 
 - entry: 1232634244
   orgName: Stiftelsen Spinalis
@@ -13594,6 +13632,18 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Uppsala/
+
+- entry: 1233771656
+  orgName: Kungsbygget Äventyrspark AB
+  orgNumber: 559000-7612
+  comment: null
+  categories:
+  - cykelsport
+  - friluftsliv
+  - företagsevent
+  - klättring
+  - äventyr
+  web: https://kungsbygget.com/cykelpark
 
 - entry: 1233772225
   orgName: Rotary Helsingborg Kärnan
@@ -24562,6 +24612,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.moveif.se/
+
+- entry: 1236730170
+  orgName: Svenska Journalistförbundets Insamlingsfond
+  orgNumber: 802001-6492
+  comment: null
+  categories:
+  - förbund
+  - journalistik
+  web: https://www.sjf.se/
 
 - entry: 1236731269
   orgName: Lula Wellbeing / Cecilia Vintesnö

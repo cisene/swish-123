@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-08-28-rev-160105
+# Date: 2022-09-01-rev-200938
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -194,6 +194,7 @@
 "1230537001","802481-2110","Insamlingsstiftelsen Fogelstad","https://fogelstadsstiftelse.se/","feminism,stiftelse",""
 "1230539502","870719-XXXX","Vanlife Sverige / Isabel Waite","https://www.vanlifesverige.se/","camping,livsstil",""
 "1230540146","822003-8916","Linköping Football Club","https://www.linkopingfc.com/","fotbollsklubb,förening",""
+"1230540377","883202-3264","Svenska Rovdjursföreningen","https://rovdjur.se/","intresseförening,rovdjur",""
 "1230550111","802462-7278","Tosäters Byhistoriska Förening","https://www.facebook.com/tosatter/","förening,historia",""
 "1230553099","843002-2064","Allerum Golfklubb","https://www.allerumgk.nu/","golfklubb",""
 "1230554170","556517-4231","GolfUppsala AB","https://www.golfuppsala.se/","golfklubb","Söderby Golf - Greenfee, Shop, Inomhushall, Lodge, City Butiken"
@@ -297,6 +298,7 @@
 "1230833186","883800-2999","Lions Club Ludvika","https://www.laget.se/Lions_Club_Ludvika/","lionsklubb",""
 "1230833269","556059-8434","Svenska Standardbolag AB","https://www.standardbolag.se/","företagande",""
 "1230833350","802474-0410","Föreningen för sverigevänliga intressen, SamNytt","https://samnytt.se/","intresseförening",""
+"1230835025","845000-7474","Simklubben Triton","https://www.sktriton.se/","idrottsförening,simklubb",""
 "1230835884","802013-9286","Al-Anon Familjegrupper i Sverige","https://www.al-anon.se/","intresseförening",""
 "1230835983","530524-XXXX","Annikas Mediala och Kreativa Center / Annika Vikingsson","https://www.annikaw.se/","medium,reiki,spiritualism",""
 "1230837476","826001-1609","Östra SK Jönköping","https://www.ostra.nu/","fotboll,idrottsförening,innebandy","Café"
@@ -1044,6 +1046,7 @@
 "1232545861","802535-6026","Växjö OCR Förening","https://www.vaxjoocr.se/","hinderbana,träning",""
 "1232556009","802424-1948","Stiftelsen Ekolsunds Slott och Park","https://www.ekolsundsslott.se/","stiftelse,yoga",""
 "1232558757","802506-0768","Rotary Söderköping","https://portal.clubrunner.ca/17254/","rotaryklubb",""
+"1232561371","802420-0043","Upplands Väsby Pistolskytteklubb","http://www.uvpsk.se/","förening,pistolskytteklubb",""
 "1232566313","559207-8553","Villa Sunshine AB","https://www.villasunshine.nu/","uthyrning",""
 "1232570844","802480-9470","Insamlingsstiftelsen DOKU","https://doku.nu/","stiftelse",""
 "1232579696","651221-XXXX","Annas Veranda / Anna Jakobsson","https://www.annasveranda.se/","hantverk,konst,yoga",""
@@ -1074,6 +1077,7 @@
 "1232620359","252004-2884","Havdhems Församling","https://www.svenskakyrkan.se/sudrets-pastorat","religion","Kollekt"
 "1232625986","828000-9716","Lanna Golfklubb","https://www.lannagk.se/","golfklubb",""
 "1232631299","889201-3221","Alnö Hembygdsförening","https://www.hembygd.se/alno","hembygdsförening",""
+"1232631455","556736-2453","Beach Center / Ipanema Beach AB","https://beachcenter.se/","beachvolleyhall,företagsevent,idrottsarena,volleyboll",""
 "1232634244","802016-8285","Stiftelsen Spinalis","https://spinalis.se/","neurohälsa,stiftelse",""
 "1232636884","817604-9073","Knivsta Scoutkår","https://knivsta.scout.se/","scoutkår",""
 "1232638278","836201-3057","Kyrkhults Scoutkår","https://kyrkhult.scout.se/","scoutkår",""
@@ -1554,6 +1558,7 @@
 "1233755824","252000-6335","Väckelsångs Församling","","religion","Bokbord"
 "1233770146","894000-2952","EFS Västerbotten","https://efsvasterbotten.se/","religion",""
 "1233771318","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/Uppsala/","religion","Uppsala, Kåren"
+"1233771656","559000-7612","Kungsbygget Äventyrspark AB","https://kungsbygget.com/cykelpark","cykelsport,friluftsliv,företagsevent,klättring,äventyr",""
 "1233772225","802508-5617","Rotary Helsingborg Kärnan","https://helsingborg-karnan.rotary2390.se/","rotaryklubb",""
 "1233780079","802006-0110","Ellen Keys Stiftelse Strand","https://www.ellenkey.se/","stiftelse",""
 "1233784345","252000-6939","Angelstads Församling","https://www.svenskakyrkan.se/ljungby/angelstads-forsamling","religion","Bokbord"
@@ -2804,6 +2809,7 @@
 "1236721575","849201-6350","Mellbystrandsföreningen","http://www.mellbystrand.se/","intresseorganisation",""
 "1236722052","835600-7677","Lions Club Karlskrona Jarramas","https://www.lionsjarramas.se/","lionsklubb",""
 "1236722730","802533-3603","Move Idrottsförening","https://www.moveif.se/","idrottsförening",""
+"1236730170","802001-6492","Svenska Journalistförbundets Insamlingsfond","https://www.sjf.se/","förbund,journalistik",""
 "1236731269","860121-XXXX","Lula Wellbeing / Cecilia Vintesnö","https://lulawellbeing.se/","meditation,reiki,spiritualism",""
 "1236731624","834001-4490","Kvinnojouren Amanda","https://www.unizonjourer.se/kvinnojourenamanda/","kvinnojour,tjejjour",""
 "1236732903","969793-6855","SR Modell","https://www.srmodell.se/","modelljärnväg,skalmodeller",""
