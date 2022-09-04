@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-09-01-rev-200938",
+    "date": "2022-09-05-rev-011029",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -247,6 +247,16 @@
         "hundsporthall"
       ],
       "web": "https://tailzone.se/"
+    },
+    {
+      "entry": 1230094268,
+      "orgNumber": "802002-7309",
+      "orgName": "Svenska Psykiatriska F\u00f6reningen, SPF",
+      "categories": [
+        "f\u00f6rening",
+        "psykiatri"
+      ],
+      "web": "http://www.svenskpsykiatri.se/"
     },
     {
       "entry": 1230109991,
@@ -2493,6 +2503,15 @@
         "lionsklubb"
       ],
       "web": "https://www.lionskarlskrona.org/"
+    },
+    {
+      "entry": 1230743674,
+      "orgNumber": "802446-8855",
+      "orgName": "SPF Seniorerna Ume\u00e5 Norra",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-umea-norra-/"
     },
     {
       "entry": 1230746859,
@@ -10934,6 +10953,15 @@
       "web": "https://jamtdykarna.com/"
     },
     {
+      "entry": 1232715498,
+      "orgNumber": "883201-9023",
+      "orgName": "SPF Seniorerna Leksand",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/leksand/"
+    },
+    {
       "entry": 1232716066,
       "orgNumber": "865500-9085",
       "orgName": "SPF-H\u00f6kerum",
@@ -11719,6 +11747,17 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.sisamkult.se/"
+    },
+    {
+      "entry": 1232904944,
+      "orgNumber": "845000-4174",
+      "orgName": "Naturskyddsf\u00f6reningen i Sk\u00e5ne",
+      "comment": "Storkprojektet",
+      "categories": [
+        "f\u00f6rening",
+        "naturskydd"
+      ],
+      "web": "https://www.storkprojektet.se/"
     },
     {
       "entry": 1232905362,
@@ -12838,6 +12877,15 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenkullan/"
+    },
+    {
+      "entry": 1233196094,
+      "orgNumber": "802474-5328",
+      "orgName": "V\u00e5rd f\u00f6r Pengarna",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://www.vardforpengarna.se/"
     },
     {
       "entry": 1233198405,
@@ -15827,6 +15875,13 @@
         "religion"
       ],
       "web": "http://www.kyrktorget.se/fjallkyrkan.kiruna"
+    },
+    {
+      "entry": 1233912409,
+      "orgNumber": "802010-4264",
+      "orgName": "Ekwall Rullar / Br\u00f6stcancerf\u00f6rbundet",
+      "comment": "Ekwall Rullar",
+      "web": "https://www.ekwallrullar.se/"
     },
     {
       "entry": 1233926128,
@@ -19383,6 +19438,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/VOXIF/"
+    },
+    {
+      "entry": 1234821310,
+      "orgNumber": "845003-1060",
+      "orgName": "SPF Gillh\u00f6g Bowling",
+      "categories": [
+        "bowlingklubb",
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.laget.se/SPFGillhogBowling/"
     },
     {
       "entry": 1234832069,
@@ -22951,6 +23016,15 @@
       "web": "https://uppsalabiodlare.se/"
     },
     {
+      "entry": 1235666243,
+      "orgNumber": "817300-6720",
+      "orgName": "PRO Vendel",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-tierp/foreningar/vendel.html"
+    },
+    {
       "entry": 1235666680,
       "orgNumber": "802428-5606",
       "orgName": "The Maine Club",
@@ -24329,6 +24403,16 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Alingsas/"
+    },
+    {
+      "entry": 1236011290,
+      "orgNumber": "802462-0562",
+      "orgName": "S\u00e4llskapet f\u00f6r Parapsykologisk Forskning, SPF",
+      "categories": [
+        "forskning",
+        "parapsykologi"
+      ],
+      "web": "https://parapsykologi.se/"
     },
     {
       "entry": 1236011654,
@@ -26716,6 +26800,16 @@
         "sportfiske"
       ],
       "web": "http://lilloringen.se/"
+    },
+    {
+      "entry": 1236621684,
+      "orgNumber": "838800-8933",
+      "orgName": "Smedstorps Byalag och Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://smedstorp.se/"
     },
     {
       "entry": 1236624415,

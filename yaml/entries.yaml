@@ -225,6 +225,15 @@ entries:
   - hundsporthall
   web: https://tailzone.se/
 
+- entry: 1230094268
+  orgName: Svenska Psykiatriska Föreningen, SPF
+  orgNumber: 802002-7309
+  comment: null
+  categories:
+  - förening
+  - psykiatri
+  web: http://www.svenskpsykiatri.se/
+
 - entry: 1230109991
   orgName: Friluftsfrämjandet Västerås
   orgNumber: 878000-1528
@@ -2259,6 +2268,14 @@ entries:
   categories:
   - lionsklubb
   web: https://www.lionskarlskrona.org/
+
+- entry: 1230743674
+  orgName: SPF Seniorerna Umeå Norra
+  orgNumber: 802446-8855
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-umea-norra-/
 
 - entry: 1230746859
   orgName: Östermalmskyrkans församling
@@ -9835,6 +9852,14 @@ entries:
   - dykning
   web: https://jamtdykarna.com/
 
+- entry: 1232715498
+  orgName: SPF Seniorerna Leksand
+  orgNumber: 883201-9023
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/leksand/
+
 - entry: 1232716066
   orgName: SPF-Hökerum
   orgNumber: 865500-9085
@@ -10543,6 +10568,15 @@ entries:
   - intresseförening
   - kulturförening
   web: https://www.sisamkult.se/
+
+- entry: 1232904944
+  orgName: Naturskyddsföreningen i Skåne
+  orgNumber: 845000-4174
+  comment: Storkprojektet
+  categories:
+  - förening
+  - naturskydd
+  web: https://www.storkprojektet.se/
 
 - entry: 1232905362
   orgName: Rotary Växjö S:t Sigfrid
@@ -11559,6 +11593,14 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://www.unizonjourer.se/kvinnojourenkullan/
+
+- entry: 1233196094
+  orgName: Vård för Pengarna
+  orgNumber: 802474-5328
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://www.vardforpengarna.se/
 
 - entry: 1233198405
   orgName: Republikanska Föreningen
@@ -14297,6 +14339,13 @@ entries:
   categories:
   - religion
   web: http://www.kyrktorget.se/fjallkyrkan.kiruna
+
+- entry: 1233912409
+  orgName: Ekwall Rullar / Bröstcancerförbundet
+  orgNumber: 802010-4264
+  comment: Ekwall Rullar
+  categories: null
+  web: https://www.ekwallrullar.se/
 
 - entry: 1233926128
   orgName: Fröjereds IF
@@ -17482,6 +17531,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.laget.se/VOXIF/
+
+- entry: 1234821310
+  orgName: SPF Gillhög Bowling
+  orgNumber: 845003-1060
+  comment: null
+  categories:
+  - bowlingklubb
+  - pensionärsklubb
+  web: https://www.laget.se/SPFGillhogBowling/
 
 - entry: 1234832069
   orgName: Alternativ för Sverige
@@ -20713,6 +20771,14 @@ entries:
   - förening
   web: https://uppsalabiodlare.se/
 
+- entry: 1235666243
+  orgName: PRO Vendel
+  orgNumber: 817300-6720
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-tierp/foreningar/vendel.html
+
 - entry: 1235666680
   orgName: The Maine Club
   orgNumber: 802428-5606
@@ -21956,6 +22022,15 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Alingsas/
+
+- entry: 1236011290
+  orgName: Sällskapet för Parapsykologisk Forskning, SPF
+  orgNumber: 802462-0562
+  comment: null
+  categories:
+  - forskning
+  - parapsykologi
+  web: https://parapsykologi.se/
 
 - entry: 1236011654
   orgName: Frälsningsarmén
@@ -24141,6 +24216,15 @@ entries:
   - fiskeklubb
   - sportfiske
   web: http://lilloringen.se/
+
+- entry: 1236621684
+  orgName: Smedstorps Byalag och Bygdegårdsförening
+  orgNumber: 838800-8933
+  comment: null
+  categories:
+  - byalag
+  - bygdegårdsförening
+  web: https://smedstorp.se/
 
 - entry: 1236624415
   orgName: Lungcancerföreningen
