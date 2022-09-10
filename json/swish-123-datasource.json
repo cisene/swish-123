@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-09-05-rev-011029",
+    "date": "2022-09-10-rev-160212",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -734,6 +734,15 @@
       "web": "https://www.boracol.nu/"
     },
     {
+      "entry": 1230241539,
+      "orgNumber": "857203-4042",
+      "orgName": "Supporterklubben \u00c4nglarna",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://anglarna.se/"
+    },
+    {
       "entry": 1230243188,
       "orgNumber": "802510-0614",
       "orgName": "Angel Island Army, AIA",
@@ -873,6 +882,15 @@
       "web": "https://www.vassundaif.se/"
     },
     {
+      "entry": 1230294827,
+      "orgNumber": "862501-2979",
+      "orgName": "Guliganerna",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://guliganerna.se/"
+    },
+    {
       "entry": 1230295196,
       "orgNumber": "802003-3869",
       "orgName": "Enskede Rids\u00e4llskap",
@@ -942,6 +960,15 @@
         "sport"
       ],
       "web": "https://sverigerunt.org/"
+    },
+    {
+      "entry": 1230304733,
+      "orgNumber": "802410-3072",
+      "orgName": "AIK-Tifo",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://aiktifo.se/"
     },
     {
       "entry": 1230304816,
@@ -1745,6 +1772,15 @@
       "web": "https://www.friskissvettis.se/vellinge"
     },
     {
+      "entry": 1230498824,
+      "orgNumber": "894001-3280",
+      "orgName": "Green Devils, Bj\u00f6rkl\u00f6vens Supporterklubb",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://www.greendevils.nu/"
+    },
+    {
       "entry": 1230499020,
       "orgNumber": "802017-6098",
       "orgName": "Rotary Stockholm Strand",
@@ -2235,6 +2271,15 @@
         "scoutk\u00e5r"
       ],
       "web": "https://rudsjo.scout.se/"
+    },
+    {
+      "entry": 1230691212,
+      "orgNumber": "825003-3209",
+      "orgName": "Peking Fanz",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://pekingfanz.nu/"
     },
     {
       "entry": 1230692855,
@@ -2769,6 +2814,15 @@
       "web": "http://autoklartrafikskola.se/"
     },
     {
+      "entry": 1230802835,
+      "orgNumber": "802453-9366",
+      "orgName": "Bryn\u00e4s Support G\u00e4vle",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://gavle.brynassupport.se/"
+    },
+    {
       "entry": 1230803536,
       "orgNumber": "802500-6803",
       "orgName": "Ume\u00e5 V\u00e4stra IF",
@@ -3075,6 +3129,15 @@
         "lokaltidning"
       ],
       "web": "https://www.battrestadsdel.se/"
+    },
+    {
+      "entry": 1230868380,
+      "orgNumber": "802472-1519",
+      "orgName": "GAIS Tifo / KJIG",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.gaistifo.org/"
     },
     {
       "entry": 1230871970,
@@ -3551,6 +3614,15 @@
         "kontorsinredning"
       ],
       "web": "https://www.rahmqvistserama.se/"
+    },
+    {
+      "entry": 1231006923,
+      "orgNumber": "836201-3297",
+      "orgName": "Sillastrybarna",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.sillastrybarna.com/"
     },
     {
       "entry": 1231007855,
@@ -5496,6 +5568,15 @@
         "religion"
       ],
       "web": "https://hedemorapingst.se/"
+    },
+    {
+      "entry": 1231475813,
+      "orgNumber": "802475-9709",
+      "orgName": "Black Ladies",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://aiktifo.se/"
     },
     {
       "entry": 1231476001,
@@ -9220,6 +9301,15 @@
       "web": "https://www.trollhattanpingst.se/"
     },
     {
+      "entry": 1232285211,
+      "orgNumber": "883202-2266",
+      "orgName": "Leksand Superstars",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://www.leksandtifocrew.com/"
+    },
+    {
       "entry": 1232289437,
       "orgNumber": "802000-8713",
       "orgName": "Tyres\u00f6 Pingstkyrka",
@@ -9493,6 +9583,15 @@
         "l\u00e4ngdskid\u00e5kning"
       ],
       "web": "https://www.iksu.se/"
+    },
+    {
+      "entry": 1232372738,
+      "orgNumber": "878001-4653",
+      "orgName": "V\u00e4ster\u00e5s SK Fotbollsklubb",
+      "categories": [
+        "fotbollsklubb"
+      ],
+      "web": "https://www.vskfotboll.nu/"
     },
     {
       "entry": 1232373629,
@@ -12126,6 +12225,15 @@
       "web": "https://halleforsornitologiskaforening.se/"
     },
     {
+      "entry": 1233021755,
+      "orgNumber": "802508-4123",
+      "orgName": "Black Support Trollh\u00e4ttan",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://www.blacksupport.se/tifo/"
+    },
+    {
       "entry": 1233022688,
       "orgNumber": "815600-7562",
       "orgName": "Kvinnojouren Annfrid",
@@ -12933,6 +13041,15 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://sos-barnbyar.se/"
+    },
+    {
+      "entry": 1233200839,
+      "orgNumber": "829502-4486",
+      "orgName": "Lakers Lakejers Tifo",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://www.lakerslakejer.se/"
     },
     {
       "entry": 1233205499,
@@ -13826,6 +13943,15 @@
       "web": "https://www.motalarf.com/"
     },
     {
+      "entry": 1233383486,
+      "orgNumber": "802464-6922",
+      "orgName": "East Front",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.eastfront.se/"
+    },
+    {
       "entry": 1233384062,
       "orgNumber": "878000-4803",
       "orgName": "Svenska Hundklubben V\u00e4ster\u00e5s",
@@ -14011,8 +14137,6 @@
       "orgNumber": "802410-3072",
       "orgName": "AIK-Tifo",
       "categories": [
-        "donation",
-        "idrottsf\u00f6rening",
         "supporterklubb"
       ],
       "web": "http://aiktifo.se/"
@@ -14707,6 +14831,15 @@
         "sport"
       ],
       "web": "https://sverigerunt.org/"
+    },
+    {
+      "entry": 1233622313,
+      "orgNumber": "897001-7029",
+      "orgName": "Lule\u00e5Fans",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://luleafans.se/"
     },
     {
       "entry": 1233622925,
@@ -15694,6 +15827,15 @@
       "web": "https://www.flaton.se/"
     },
     {
+      "entry": 1233883691,
+      "orgNumber": "857209-6546",
+      "orgName": "Supporterklubben Getingarna",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.getingarna.net/"
+    },
+    {
       "entry": 1233883790,
       "orgNumber": "252004-8469",
       "orgName": "Tuna-Attmars F\u00f6rsamling",
@@ -15796,6 +15938,15 @@
         "religion"
       ],
       "web": "http://www.huskvarna.pingst.se/"
+    },
+    {
+      "entry": 1233896289,
+      "orgNumber": "897001-7029",
+      "orgName": "Lule\u00e5Fans",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://luleafans.se/"
     },
     {
       "entry": 1233896305,
@@ -15952,6 +16103,15 @@
         "scoutk\u00e5r"
       ],
       "web": "http://lommascoutkar.se/"
+    },
+    {
+      "entry": 1233940947,
+      "orgNumber": "878001-4653",
+      "orgName": "V\u00e4ster\u00e5s SK Fotbollsklubb",
+      "categories": [
+        "fotbollsklubb"
+      ],
+      "web": "https://www.vskfotboll.nu/"
     },
     {
       "entry": 1233943230,
@@ -18611,6 +18771,15 @@
       "web": "http://ujh.se/"
     },
     {
+      "entry": 1234594156,
+      "orgNumber": "802454-0661",
+      "orgName": "\u00d6rebro Tifo",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.facebook.com/OrebroTifo2002/"
+    },
+    {
       "entry": 1234595237,
       "orgNumber": "802475-0039",
       "orgName": "Rusty P\u00b4s Kulturf\u00f6rening",
@@ -18668,6 +18837,16 @@
         "kredittj\u00e4nster"
       ],
       "web": "http://www.deltainkasso.se/"
+    },
+    {
+      "entry": 1234606554,
+      "orgNumber": "857203-4042",
+      "orgName": "Supporterklubben \u00c4nglarna",
+      "comment": "\u00c4nglahj\u00e4lpen",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://anglarna.se/anglahjalpen/"
     },
     {
       "entry": 1234609921,
@@ -18920,6 +19099,15 @@
       "web": "https://www.narkolepsiforeningen.se/"
     },
     {
+      "entry": 1234669537,
+      "orgNumber": "802513-6832",
+      "orgName": "Supporterklubben R\u00f6da Bollen",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://www.rodabollen.se/"
+    },
+    {
       "entry": 1234671772,
       "orgNumber": "802465-8836",
       "orgName": "Solrosen Kvinnojour",
@@ -19014,6 +19202,15 @@
         "stiftelse"
       ],
       "web": "https://huddinge.ronaldmcdonaldhus.se/"
+    },
+    {
+      "entry": 1234677654,
+      "orgNumber": "802476-2646",
+      "orgName": "Sektion 84",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://www.sektion84.se/"
     },
     {
       "entry": 1234689535,
@@ -22315,6 +22512,15 @@
       "web": "http://www.senorensmissionshus.se/"
     },
     {
+      "entry": 1235527031,
+      "orgNumber": "802492-0368",
+      "orgName": "\u00d6stra St\u00e5",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://inferno-orgryte.com/"
+    },
+    {
       "entry": 1235527098,
       "orgNumber": "775000-0734",
       "orgName": "F\u00f6reningen Folkets Park \u00d6rebro",
@@ -23297,6 +23503,15 @@
       "web": "https://www.fmk.se/fmv/"
     },
     {
+      "entry": 1235748116,
+      "orgNumber": "802410-3072",
+      "orgName": "AIK-Tifo",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://aiktifo.se/"
+    },
+    {
       "entry": 1235748421,
       "orgNumber": "802417-3828",
       "orgName": "Samverkarna i \u00d6stern\u00e4rke",
@@ -24049,7 +24264,8 @@
       "categories": [
         "fotboll",
         "fotbollsklubb",
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "supporterklubb"
       ],
       "web": "https://www.mff.se/"
     },
@@ -24741,6 +24957,15 @@
         "yoga"
       ],
       "web": "https://yoganu.nu/"
+    },
+    {
+      "entry": 1236085815,
+      "orgNumber": "897001-7029",
+      "orgName": "Lule\u00e5Fans",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://luleafans.se/"
     },
     {
       "entry": 1236086706,
@@ -26244,6 +26469,15 @@
       "web": "https://www.gospelverkstaden.se/"
     },
     {
+      "entry": 1236446033,
+      "orgNumber": "889202-8773",
+      "orgName": "GIF Sundsvalls Supporterklubb",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://patronerna.se/tifo/"
+    },
+    {
       "entry": 1236446249,
       "orgNumber": "012159-3917",
       "orgName": "PRO Vinsl\u00f6v",
@@ -26307,6 +26541,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.eskilstunabowling.se/sportbowling/seniorer/seniorklubbar/pmk"
+    },
+    {
+      "entry": 1236462006,
+      "orgNumber": "559048-3136",
+      "orgName": "AMK Morgon / AMK Studios AB",
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://amkstudios.se/"
     },
     {
       "entry": 1236466320,
@@ -26656,6 +26899,15 @@
       "web": "https://www.hallandsslaktforskare.se/"
     },
     {
+      "entry": 1236555502,
+      "orgNumber": "956940-6243",
+      "orgName": "VSK V\u00e4nnerna",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://vskbandy.se/vsk-vannerna/"
+    },
+    {
       "entry": 1236558779,
       "orgNumber": "559237-9811",
       "orgName": "Health in Balance by Christa AB",
@@ -26841,6 +27093,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/roslagsbro-vato-forsamling"
+    },
+    {
+      "entry": 1236625438,
+      "orgNumber": "802511-7360",
+      "orgName": "Hammarby Tifo",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.hammarbyfotboll.se/"
     },
     {
       "entry": 1236625628,
@@ -27168,6 +27429,15 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://estlandssvenskarna.org/sov-idag/"
+    },
+    {
+      "entry": 1236692305,
+      "orgNumber": "826001-6814",
+      "orgName": "North Bank Supporters",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://northbanks.se/"
     },
     {
       "entry": 1236692529,
@@ -28205,6 +28475,15 @@
       "web": "https://www.skanesanglar.se/"
     },
     {
+      "entry": 1236955199,
+      "orgNumber": "802413-6619",
+      "orgName": "Blue Front Support",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://bfs.osket.se/bfs/"
+    },
+    {
       "entry": 1236955496,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -28299,6 +28578,16 @@
         "religion"
       ],
       "web": "http://pingstarla.se/"
+    },
+    {
+      "entry": 1236992440,
+      "orgNumber": "802410-8501",
+      "orgName": "J\u00e4rnkaminerna",
+      "comment": "\u00d6stra",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.jarnkaminerna.se/"
     },
     {
       "entry": 1239000035,
