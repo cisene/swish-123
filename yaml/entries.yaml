@@ -6054,6 +6054,16 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/ifvaster/
 
+- entry: 1231717891
+  orgName: Wermdö Parkour & Gymnastik
+  orgNumber: 802533-0450
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  - parkourförening
+  web: https://wermdoparkour.se/
+
 - entry: 1231720440
   orgName: Lions Club Tranemo
   orgNumber: 865500-6511
@@ -8851,6 +8861,15 @@ entries:
   - dansundervisning
   web: https://www.adrianasdanshus.se/
 
+- entry: 1232409746
+  orgName: TiP Generations Höör
+  orgNumber: 802496-8557
+  comment: null
+  categories:
+  - idrottsförening
+  - parkourförening
+  web: https://www.tipgenerations.nu/
+
 - entry: 1232409878
   orgName: Varnums Hembygdsförening
   orgNumber: 865500-6602
@@ -11147,6 +11166,22 @@ entries:
   categories:
   - religion
   web: https://vasteras.pingst.se/
+
+- entry: 1233045283
+  orgName: Stockholms Barnidrottsförening
+  orgNumber: 802435-5714
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://stockholmsbif.se/
+
+- entry: 1233045598
+  orgName: Pingstförsamlingen Falkenberg
+  orgNumber: 849000-6783
+  comment: null
+  categories:
+  - religion
+  web: https://www.pingstfalkenberg.se/
 
 - entry: 1233045937
   orgName: Hässlö Flygförening
@@ -23134,6 +23169,15 @@ entries:
   - pistolskytteklubb
   - skytte
   web: https://www.fokboras.se/
+
+- entry: 1236215347
+  orgName: Bandyförbund distrikt Stockholm
+  orgNumber: 802000-2484
+  comment: null
+  categories:
+  - bandy
+  - förbund
+  web: https://old.svenskbandy.se/BANDY-INFO/FORBUNDET/Organisation/Distrikt/Stockholm/
 
 - entry: 1236215636
   orgName: We Effect

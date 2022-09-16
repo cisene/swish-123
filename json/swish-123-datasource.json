@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-09-10-rev-160212",
+    "date": "2022-09-16-rev-195242",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6724,6 +6724,17 @@
       "web": "https://www.svenskalag.se/ifvaster/"
     },
     {
+      "entry": 1231717891,
+      "orgNumber": "802533-0450",
+      "orgName": "Wermd\u00f6 Parkour & Gymnastik",
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "parkourf\u00f6rening"
+      ],
+      "web": "https://wermdoparkour.se/"
+    },
+    {
       "entry": 1231720440,
       "orgNumber": "865500-6511",
       "orgName": "Lions Club Tranemo",
@@ -9847,6 +9858,16 @@
       "web": "https://www.adrianasdanshus.se/"
     },
     {
+      "entry": 1232409746,
+      "orgNumber": "802496-8557",
+      "orgName": "TiP Generations H\u00f6\u00f6r",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "parkourf\u00f6rening"
+      ],
+      "web": "https://www.tipgenerations.nu/"
+    },
+    {
       "entry": 1232409878,
       "orgNumber": "865500-6602",
       "orgName": "Varnums Hembygdsf\u00f6rening",
@@ -12392,6 +12413,24 @@
         "religion"
       ],
       "web": "https://vasteras.pingst.se/"
+    },
+    {
+      "entry": 1233045283,
+      "orgNumber": "802435-5714",
+      "orgName": "Stockholms Barnidrottsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://stockholmsbif.se/"
+    },
+    {
+      "entry": 1233045598,
+      "orgNumber": "849000-6783",
+      "orgName": "Pingstf\u00f6rsamlingen Falkenberg",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.pingstfalkenberg.se/"
     },
     {
       "entry": 1233045937,
@@ -25632,6 +25671,16 @@
         "skytte"
       ],
       "web": "https://www.fokboras.se/"
+    },
+    {
+      "entry": 1236215347,
+      "orgNumber": "802000-2484",
+      "orgName": "Bandyf\u00f6rbund distrikt Stockholm",
+      "categories": [
+        "bandy",
+        "f\u00f6rbund"
+      ],
+      "web": "https://old.svenskbandy.se/BANDY-INFO/FORBUNDET/Organisation/Distrikt/Stockholm/"
     },
     {
       "entry": 1236215636,
