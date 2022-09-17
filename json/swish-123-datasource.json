@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-09-16-rev-195242",
+    "date": "2022-09-17-rev-111702",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1480,6 +1480,16 @@
       "web": "http://www.spiranlinkoping.se/"
     },
     {
+      "entry": 1230426890,
+      "orgNumber": "826001-0064",
+      "orgName": "Huskvarna Hundklubb",
+      "categories": [
+        "f\u00f6rening",
+        "hundklubb"
+      ],
+      "web": "https://www.huskvarnahundklubb.se/"
+    },
+    {
       "entry": 1230435354,
       "orgNumber": "802470-2451",
       "orgName": "Quinnoqraft Sandviken",
@@ -2505,6 +2515,17 @@
       "web": "https://maketrade.se/"
     },
     {
+      "entry": 1230737668,
+      "orgNumber": "857204-5568",
+      "orgName": "Br\u00e4nn\u00f6f\u00f6reningen",
+      "comment": "Simskola",
+      "categories": [
+        "barnverksamhet",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://brannoforeningen.se/"
+    },
+    {
       "entry": 1230740068,
       "orgNumber": "838202-3466",
       "orgName": "Huar\u00f6ds Byalag",
@@ -2773,6 +2794,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.ljungskileorten.se/"
+    },
+    {
+      "entry": 1230792234,
+      "orgNumber": "833200-5001",
+      "orgName": "Hultsfred gymnastikklubb",
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://hultsfredgk.se/"
     },
     {
       "entry": 1230793646,
@@ -3342,6 +3373,16 @@
         "golfklubb"
       ],
       "web": "https://www.oresundsgk.se/"
+    },
+    {
+      "entry": 1230908012,
+      "orgNumber": "802505-9406",
+      "orgName": "FRS Kungsbacka",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "parkourf\u00f6rening"
+      ],
+      "web": "https://www.frskungsbacka.se/"
     },
     {
       "entry": 1230910877,
@@ -6144,6 +6185,16 @@
       "web": "http://www.lerakragolf.se/"
     },
     {
+      "entry": 1231579838,
+      "orgNumber": "839400-8810",
+      "orgName": "GK Engelholmsgymnasterna",
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://engelholmsgymnasterna.sportadmin.se/"
+    },
+    {
       "entry": 1231581685,
       "orgNumber": "885001-4542",
       "orgName": "Hedesundav\u00e4varna och Skaparbyn / Stiftelsen Hedesundav\u00e4varna",
@@ -6572,6 +6623,16 @@
         "padelspel"
       ],
       "web": "https://www.dalapadel.se/"
+    },
+    {
+      "entry": 1231667799,
+      "orgNumber": "802443-9831",
+      "orgName": "Uppsala Parkour",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "parkourf\u00f6rening"
+      ],
+      "web": "https://uppsalaparkour.se/"
     },
     {
       "entry": 1231669159,
@@ -8379,6 +8440,17 @@
       "web": "https://taby.lions.se/"
     },
     {
+      "entry": 1232107845,
+      "orgNumber": "559204-4852",
+      "orgName": "DK-9 Hundskola / DK-9 S\u00e4kerhetstj\u00e4nst AB",
+      "categories": [
+        "hundskola",
+        "hundsport",
+        "utbildning"
+      ],
+      "web": "https://www.dk9hundskola.se/"
+    },
+    {
       "entry": 1232110864,
       "orgNumber": "898200-1185",
       "orgName": "Morj\u00e4rvs Sportklubb",
@@ -8387,6 +8459,17 @@
         "sportklubb"
       ],
       "web": "https://idrottonline.se/MorjarvSK-Friidrott/"
+    },
+    {
+      "entry": 1232124162,
+      "orgNumber": "802438-6883",
+      "orgName": "Alings\u00e5s V\u00e5rg\u00e5rda Discgolf",
+      "comment": "medlemsavgifter, licenser",
+      "categories": [
+        "discgolf",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://avdiscgolf.se/"
     },
     {
       "entry": 1232126274,
@@ -10163,6 +10246,17 @@
       "web": "https://www.qjourenvast.se/"
     },
     {
+      "entry": 1232527513,
+      "orgNumber": "730623-XXXX",
+      "orgName": "3vallare / Anna Larsson",
+      "categories": [
+        "hundkurser",
+        "hundsport",
+        "utbildning"
+      ],
+      "web": "https://3vallare.se/"
+    },
+    {
       "entry": 1232527869,
       "orgNumber": "894700-9539",
       "orgName": "Skellefte\u00e5 Baseboll Softboll Klubb, SBSK",
@@ -11359,6 +11453,16 @@
       "web": "https://www.finntorpsgard.se/"
     },
     {
+      "entry": 1232787240,
+      "orgNumber": "802492-0202",
+      "orgName": "KFUM ZLIPROAD CSC Stockholm",
+      "categories": [
+        "karateklubb",
+        "parkourf\u00f6rening"
+      ],
+      "web": "https://kfum-zliproad.se/"
+    },
+    {
       "entry": 1232787802,
       "orgNumber": "671223-XXXX",
       "orgName": "PT Cam / Camilla \u00c5str\u00f6m",
@@ -12322,6 +12426,16 @@
       "web": "https://pingstvaggeryd.se/"
     },
     {
+      "entry": 1233033495,
+      "orgNumber": "873600-1721",
+      "orgName": "Kristinehamns Gymnastiks\u00e4llskap",
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kgsgympa.se/"
+    },
+    {
       "entry": 1233034196,
       "orgNumber": "846000-1095",
       "orgName": "Djurens V\u00e4nner Sk\u00e5ne",
@@ -13207,6 +13321,16 @@
       "web": "https://www.vasterasfriidrott.se/"
     },
     {
+      "entry": 1233228996,
+      "orgNumber": "802442-9097",
+      "orgName": "Arboga GF",
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://idrottonline.se/ArbogaGF-Gymnastik/"
+    },
+    {
       "entry": 1233231461,
       "orgNumber": "802416-8216",
       "orgName": "Sundbyviks Golfklubb",
@@ -13562,6 +13686,16 @@
         "naturv\u00e5rd"
       ],
       "web": "https://www.skymining.com/"
+    },
+    {
+      "entry": 1233306842,
+      "orgNumber": "839400-8810",
+      "orgName": "GK Engelholmsgymnasterna",
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://engelholmsgymnasterna.sportadmin.se/"
     },
     {
       "entry": 1233311107,
@@ -14229,6 +14363,15 @@
       "web": "https://www.glumslovgolf.com/"
     },
     {
+      "entry": 1233453255,
+      "orgNumber": "802429-7866",
+      "orgName": "V\u00e4rpinge IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.varpingeif.se/"
+    },
+    {
       "entry": 1233453594,
       "orgNumber": "556440-0827",
       "orgName": "Top of Arjeplog / Midsommarviken Maria S\u00f6derberg AB",
@@ -14676,6 +14819,16 @@
         "sportklubb"
       ],
       "web": "https://www.malmolyftarklubb.se/"
+    },
+    {
+      "entry": 1233554029,
+      "orgNumber": "650510-XXXX",
+      "orgName": "Vovven & Jag / Vera Nystr\u00f6m",
+      "categories": [
+        "hundkurser",
+        "hundpark"
+      ],
+      "web": "https://vovvenochjag.se/"
     },
     {
       "entry": 1233555331,
@@ -15810,6 +15963,17 @@
       "web": "https://www.facebook.com/groups/236620686895"
     },
     {
+      "entry": 1233879731,
+      "orgNumber": "857204-5568",
+      "orgName": "Br\u00e4nn\u00f6f\u00f6reningen",
+      "comment": "F\u00f6rs\u00e4ljning",
+      "categories": [
+        "barnverksamhet",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://brannoforeningen.se/"
+    },
+    {
       "entry": 1233879806,
       "orgNumber": "556326-1816",
       "orgName": "Vikaryds K\u00f6ttbod / Vikaryds Egendoms Aktiebolag",
@@ -16496,6 +16660,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://piteaif.sportadmin.se/"
+    },
+    {
+      "entry": 1234003661,
+      "orgNumber": "857204-5568",
+      "orgName": "Br\u00e4nn\u00f6f\u00f6reningen",
+      "comment": "Medlemsavgifter",
+      "categories": [
+        "barnverksamhet",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://brannoforeningen.se/"
     },
     {
       "entry": 1234003687,
@@ -20023,6 +20198,15 @@
       "web": "http://www.astmaoallergiforbundet.se/"
     },
     {
+      "entry": 1234946638,
+      "orgNumber": "878000-4589",
+      "orgName": "Korpf\u00f6rening V\u00e4ster\u00e5s - Korpen",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.korpenvasteras.se/"
+    },
+    {
       "entry": 1234948691,
       "orgNumber": "802439-5264",
       "orgName": "Equmenia H\u00f6n\u00f6",
@@ -20600,6 +20784,17 @@
         "golfklubb"
       ],
       "web": "https://www.trosagk.se/"
+    },
+    {
+      "entry": 1235104641,
+      "orgNumber": "802438-6883",
+      "orgName": "Alings\u00e5s V\u00e5rg\u00e5rda Discgolf",
+      "comment": "t\u00e4vlingsavgifter",
+      "categories": [
+        "discgolf",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://avdiscgolf.se/"
     },
     {
       "entry": 1235104658,
@@ -22029,6 +22224,17 @@
       "web": "https://crevoice.se/"
     },
     {
+      "entry": 1235401047,
+      "orgNumber": "857204-5568",
+      "orgName": "Br\u00e4nn\u00f6f\u00f6reningen",
+      "comment": "Uthyrning",
+      "categories": [
+        "barnverksamhet",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://brannoforeningen.se/"
+    },
+    {
       "entry": 1235402292,
       "orgNumber": "802514-4653",
       "orgName": "Ungdomsjouren Fria",
@@ -23369,6 +23575,17 @@
       "web": "https://hillsong.com/sweden/"
     },
     {
+      "entry": 1235691118,
+      "orgNumber": "857204-5568",
+      "orgName": "Br\u00e4nn\u00f6f\u00f6reningen",
+      "comment": "Br\u00e4nn\u00f6loppet och HLR",
+      "categories": [
+        "barnverksamhet",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://brannoforeningen.se/"
+    },
+    {
       "entry": 1235691365,
       "orgNumber": "802410-2405",
       "orgName": "Radio Haninge Direkt!",
@@ -23386,6 +23603,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-falun/foreningar/svardsjo.html"
+    },
+    {
+      "entry": 1235702568,
+      "orgNumber": "802009-7724",
+      "orgName": "N\u00e4lstaskolans F\u00f6r\u00e4ldraf\u00f6rening",
+      "categories": [
+        "f\u00f6rening",
+        "f\u00f6r\u00e4ldraf\u00f6rening"
+      ],
+      "web": "https://nalstaskolansff.blogspot.com/"
     },
     {
       "entry": 1235703020,
@@ -23558,6 +23785,16 @@
         "intresseorganisation"
       ],
       "web": "https://samverkarna.se/"
+    },
+    {
+      "entry": 1235749809,
+      "orgNumber": "892001-3581",
+      "orgName": "\u00d6stersunds GF",
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ostersundsgf.se/"
     },
     {
       "entry": 1235749940,
@@ -24207,6 +24444,7 @@
       "orgNumber": "802004-1565",
       "orgName": "Svensk-Kubanska F\u00f6reningen",
       "categories": [
+        "hemlandsf\u00f6rening",
         "intressef\u00f6rening"
       ],
       "web": "https://svensk-kubanska.se/"
@@ -25877,6 +26115,17 @@
       "web": "https://spraklararna.se/"
     },
     {
+      "entry": 1236275234,
+      "orgNumber": "857204-5568",
+      "orgName": "Br\u00e4nn\u00f6f\u00f6reningen",
+      "comment": "tr\u00e4ning och sommaridrott",
+      "categories": [
+        "barnverksamhet",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://brannoforeningen.se/"
+    },
+    {
       "entry": 1236275275,
       "orgNumber": "875001-2224",
       "orgName": "Kvinnohuset \u00d6rebro",
@@ -26167,6 +26416,18 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.gustavsbergaren.se/"
+    },
+    {
+      "entry": 1236346886,
+      "orgNumber": "212000-0092",
+      "orgName": "Tyres\u00f6 kommun",
+      "comment": "Tyres\u00f6 fritidsg\u00e5rdars parkour",
+      "categories": [
+        "barnverksamhet",
+        "parkour",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://www.tyreso.se/"
     },
     {
       "entry": 1236347694,
@@ -27954,6 +28215,16 @@
         "racing"
       ],
       "web": "https://www.arc.nu/sv/klubben/banan/"
+    },
+    {
+      "entry": 1236804488,
+      "orgNumber": "857204-5568",
+      "orgName": "Br\u00e4nn\u00f6f\u00f6reningen",
+      "categories": [
+        "barnverksamhet",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://brannoforeningen.se/"
     },
     {
       "entry": 1236805592,
@@ -32498,7 +32769,8 @@
       "orgNumber": "802005-9823",
       "orgName": "Stiftelsen V\u00e4rldsnaturfonden WWF",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.wwf.se/"
     },
@@ -32507,7 +32779,8 @@
       "orgNumber": "802005-9823",
       "orgName": "Stiftelsen V\u00e4rldsnaturfonden WWF",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.wwf.se/"
     },
@@ -32516,7 +32789,8 @@
       "orgNumber": "802008-1827",
       "orgName": "Stiftelsen En r\u00f6kfri generation",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.nonsmoking.se/"
     },
@@ -32525,7 +32799,8 @@
       "orgNumber": "802010-8315",
       "orgName": "Stiftelsen The Hunger Project Sverige",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://thehungerproject.se/"
     },
@@ -32534,7 +32809,8 @@
       "orgNumber": "802412-5638",
       "orgName": "Insamlingsstiftelsen Vaggan",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.vaggan.se/"
     },
@@ -32552,7 +32828,8 @@
       "orgNumber": "893201-8768",
       "orgName": "Insamlingsstiftelsen J\u00e4mtlands l\u00e4ns Cancer- och Omv\u00e5rdnadsfond",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.jamtlandscancerfond.se/"
     },
@@ -32597,7 +32874,8 @@
       "orgNumber": "802402-7560",
       "orgName": "Mentor Sverige Insamlingsstiftelse",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.mentor.se/"
     },
@@ -32661,7 +32939,8 @@
       "orgName": "Insamlingsstiftelsen F\u00f6r Abrigo Rainha Silvia",
       "categories": [
         "donation",
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.abrigo.se/"
     },
@@ -32670,7 +32949,8 @@
       "orgNumber": "802004-1441",
       "orgName": "Stiftelsen Forska utan djurf\u00f6rs\u00f6k",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.forskautandjurforsok.se/"
     },
@@ -32679,7 +32959,8 @@
       "orgNumber": "802407-5346",
       "orgName": "Stiftelsen World Childhood Foundation",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.childhood.se/"
     },
