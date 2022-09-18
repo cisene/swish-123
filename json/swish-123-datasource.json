@@ -2,7 +2,7 @@
   "@meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-09-17-rev-111702",
+    "date": "2022-09-18-rev-160306",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -93,6 +93,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://kak.se/"
+    },
+    {
+      "entry": 1230008912,
+      "orgNumber": "802418-8313",
+      "orgName": "V\u00e4se Framtid",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.vaseframtid.se/"
     },
     {
       "entry": 1230009019,
@@ -219,6 +229,17 @@
         "politiskt parti"
       ],
       "web": "https://sd.se/"
+    },
+    {
+      "entry": 1230074401,
+      "orgNumber": "840221-XXXX",
+      "orgName": "Gamlens G\u00e5rd / Johanna Skotte",
+      "categories": [
+        "djuruppf\u00f6dning",
+        "g\u00e5rdsf\u00f6rs\u00e4ljning",
+        "tr\u00e4df\u00e4llning"
+      ],
+      "web": "https://www.gamlensgard.se/"
     },
     {
       "entry": 1230075705,
@@ -495,6 +516,15 @@
         "tjejjour"
       ],
       "web": "http://fridakvinnojour.se/"
+    },
+    {
+      "entry": 1230186429,
+      "orgNumber": "895400-5651",
+      "orgName": "Korpf\u00f6rening Lycksele - Korpen",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.korpenlycksele.se/"
     },
     {
       "entry": 1230186684,
@@ -2214,6 +2244,17 @@
       "web": "https://www.gavlefolk.se/"
     },
     {
+      "entry": 1230644427,
+      "orgNumber": "802401-4576",
+      "orgName": "Specialklubben Rhodesian Ridgeback Sverige, SRRS",
+      "comment": "\u00d6stra",
+      "categories": [
+        "hundklubb",
+        "hunduppf\u00f6dning"
+      ],
+      "web": "https://www.srrs.org/"
+    },
+    {
       "entry": 1230655332,
       "orgNumber": "802519-9335",
       "orgName": "F\u00f6reningen Sinnen & Perception",
@@ -2453,6 +2494,15 @@
         "ornitologi"
       ],
       "web": "http://www.rofnet.se/"
+    },
+    {
+      "entry": 1230730739,
+      "orgNumber": "802428-9293",
+      "orgName": "Djurr\u00e4ttsalliansen",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "https://djurrattsalliansen.se/"
     },
     {
       "entry": 1230730929,
@@ -3309,6 +3359,17 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://sverigeforunhcr.se/"
+    },
+    {
+      "entry": 1230889709,
+      "orgNumber": "818500-8268",
+      "orgName": "Ving\u00e5kers RF",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "http://www.vingakersrf.se/"
     },
     {
       "entry": 1230889956,
@@ -4228,6 +4289,15 @@
       "web": "https://brunnsbomusikklasser.wordpress.com/"
     },
     {
+      "entry": 1231134907,
+      "orgNumber": "556035-3376",
+      "orgName": "Djurg\u00e5rdens Ridskola AB",
+      "categories": [
+        "ridskola"
+      ],
+      "web": "https://www.djrs.se/"
+    },
+    {
       "entry": 1231135987,
       "orgNumber": "818000-0567",
       "orgName": "Eskilstuna Golfklubb",
@@ -4760,6 +4830,16 @@
       "web": "https://www.hurkanvi.se/"
     },
     {
+      "entry": 1231251081,
+      "orgNumber": "960520-XXXX",
+      "orgName": "Maria Ign\u00e9rus Islandsh\u00e4stutbildning",
+      "categories": [
+        "ridskola",
+        "utbildning"
+      ],
+      "web": "http://www.mariaignerus.se/"
+    },
+    {
       "entry": 1231251412,
       "orgNumber": "556306-9151",
       "orgName": "Seriesam AB",
@@ -5223,6 +5303,18 @@
         "ridsport"
       ],
       "web": "https://naasridcenter.se/"
+    },
+    {
+      "entry": 1231370667,
+      "orgNumber": "802405-6841",
+      "orgName": "Roo G\u00e5rd Ridskola och Ryttarklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola",
+        "ryttarf\u00f6rening",
+        "ryttarklubb"
+      ],
+      "web": "https://roogard.nu/"
     },
     {
       "entry": 1231370840,
@@ -6720,6 +6812,16 @@
       "web": "https://henrikjonsson.com/"
     },
     {
+      "entry": 1231700707,
+      "orgNumber": "559385-9886",
+      "orgName": "S\u00e4va Ridcenter AB",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola"
+      ],
+      "web": "http://savaridcenter.se/"
+    },
+    {
       "entry": 1231703230,
       "orgNumber": "826000-3739",
       "orgName": "Sm\u00e5lands St\u00f6varklubb",
@@ -6776,6 +6878,17 @@
       "web": "https://teamtilia.se/"
     },
     {
+      "entry": 1231709013,
+      "orgNumber": "802451-3544",
+      "orgName": "Ronneby Folkteater",
+      "categories": [
+        "sk\u00e5despel",
+        "teater",
+        "underh\u00e5llning"
+      ],
+      "web": "http://ronnebyfolkteater.se/"
+    },
+    {
       "entry": 1231709310,
       "orgNumber": "857203-6690",
       "orgName": "IF V\u00e4ster",
@@ -6783,6 +6896,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/ifvaster/"
+    },
+    {
+      "entry": 1231717115,
+      "orgNumber": "802401-4576",
+      "orgName": "Specialklubben Rhodesian Ridgeback Sverige, SRRS",
+      "comment": "Central",
+      "categories": [
+        "hundklubb",
+        "hunduppf\u00f6dning"
+      ],
+      "web": "https://www.srrs.org/"
     },
     {
       "entry": 1231717891,
@@ -7039,6 +7163,16 @@
       "web": "http://www.sefr.se/"
     },
     {
+      "entry": 1231747773,
+      "orgNumber": "864501-8535",
+      "orgName": "Elfsborgskatten",
+      "categories": [
+        "kattklubb",
+        "kattuppf\u00f6dning"
+      ],
+      "web": "https://www.elfsborgskatten.se/"
+    },
+    {
       "entry": 1231757111,
       "orgNumber": "894002-3495",
       "orgName": "Hj\u00e5ggsj\u00f6drakarna",
@@ -7195,7 +7329,7 @@
     {
       "entry": 1231793108,
       "orgNumber": "929000-6841",
-      "orgName": "Ljungby RK - Ridsport",
+      "orgName": "Ljungby RK",
       "categories": [
         "h\u00e4stsport",
         "ridklubb",
@@ -8046,6 +8180,17 @@
       "web": "https://vasaplan.nu/"
     },
     {
+      "entry": 1232022804,
+      "orgNumber": "812800-2642",
+      "orgName": "Sundby Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "http://www.sundbyridskola.se/"
+    },
+    {
       "entry": 1232023208,
       "orgNumber": "202100-2973",
       "orgName": "Karolinska Institutet, Fondf\u00f6rvaltning",
@@ -8657,6 +8802,16 @@
       "web": "https://www.storasystrarna.se/"
     },
     {
+      "entry": 1232167583,
+      "orgNumber": "819500-6492",
+      "orgName": "Mariefreds Ridklubb",
+      "categories": [
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.ekelunds-ridskola.se/"
+    },
+    {
       "entry": 1232169449,
       "orgNumber": "802480-0164",
       "orgName": "Insamlingsstiftelsen R\u00e4ttvis Skatteprocess",
@@ -8767,6 +8922,18 @@
       "web": "https://www.e-clubhouse.org/sites/pitea/"
     },
     {
+      "entry": 1232184463,
+      "orgNumber": "868400-1947",
+      "orgName": "Skaraortens Ryttarf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://skaraortensrf.se/"
+    },
+    {
       "entry": 1232184778,
       "orgNumber": "889202-2255",
       "orgName": "Timr\u00e5 KK - Konst\u00e5kning",
@@ -8833,6 +9000,15 @@
         "religion"
       ],
       "web": "http://www.linkopingmoske.se/"
+    },
+    {
+      "entry": 1232196004,
+      "orgNumber": "812000-0289",
+      "orgName": "Waxholms Gymnastikf\u00f6rening",
+      "categories": [
+        "gymnastikf\u00f6rening"
+      ],
+      "web": "https://www.wgf.nu/"
     },
     {
       "entry": 1232196038,
@@ -9085,6 +9261,36 @@
         "f\u00f6rening"
       ],
       "web": "https://fib.se/"
+    },
+    {
+      "entry": 1232241420,
+      "orgNumber": "802001-7516",
+      "orgName": "Stockholms kattklubb",
+      "categories": [
+        "kattklubb",
+        "kattuppf\u00f6dning"
+      ],
+      "web": "http://www.stockholmskattklubb.se/"
+    },
+    {
+      "entry": 1232242139,
+      "orgNumber": "812400-5805",
+      "orgName": "Sorunda RK",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.sork.se/"
+    },
+    {
+      "entry": 1232242220,
+      "orgNumber": "851205-XXXX",
+      "orgName": "Stall Liori / Linda St\u00e5ngberg",
+      "categories": [
+        "ridskola"
+      ],
+      "web": "http://www.liori.se/"
     },
     {
       "entry": 1232243541,
@@ -9412,6 +9618,18 @@
         "religion"
       ],
       "web": "https://www.tyresopingst.se/"
+    },
+    {
+      "entry": 1232289460,
+      "orgNumber": "849400-2531",
+      "orgName": "Kungsbacka Ridklubb",
+      "comment": "caf\u00e9",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.kungsbackaridklubb.se/"
     },
     {
       "entry": 1232300457,
@@ -10138,6 +10356,16 @@
       "web": "https://rotarystenungsund.com/"
     },
     {
+      "entry": 1232465425,
+      "orgNumber": "802437-3329",
+      "orgName": "Svenska Barbetklubben",
+      "categories": [
+        "hundklubb",
+        "hunduppf\u00f6dning"
+      ],
+      "web": "http://www.barbet.se/"
+    },
+    {
       "entry": 1232466258,
       "orgNumber": "559051-1258",
       "orgName": "Vreta Kloster Bryggeri / Vuxenpedagogisk Konsultation i Link\u00f6ping AB",
@@ -10156,6 +10384,15 @@
         "naturskydd"
       ],
       "web": "https://borlange.naturskyddsforeningen.se/"
+    },
+    {
+      "entry": 1232493187,
+      "orgNumber": "846002-1168",
+      "orgName": "K\u00e4mpinge Gymnastikf\u00f6rening",
+      "categories": [
+        "gymnastikf\u00f6rening"
+      ],
+      "web": "https://www.kampinge.com/"
     },
     {
       "entry": 1232493484,
@@ -10741,6 +10978,15 @@
       "web": "https://yoga121.se/"
     },
     {
+      "entry": 1232643070,
+      "orgNumber": "916619-4606",
+      "orgName": "Kungsberga Ridskola",
+      "categories": [
+        "ridskola"
+      ],
+      "web": "http://www.dinridskola.se/"
+    },
+    {
       "entry": 1232649234,
       "orgNumber": "802491-5855",
       "orgName": "F\u00f6reningen S:t Martin",
@@ -10868,12 +11114,12 @@
     },
     {
       "entry": 1232677763,
-      "orgNumber": "840724-XXXX",
-      "orgName": "Minimalism On Wheels / Gurgin Bakircioglu",
+      "orgNumber": "559021-7161",
+      "orgName": "V\u00e5r B\u00e4sta V\u00e4n AB",
       "categories": [
-        "podcast"
+        "media production"
       ],
-      "web": "http://minimalismonwheels.com/"
+      "web": "https://gurgin.libsyn.com/"
     },
     {
       "entry": 1232681773,
@@ -11091,6 +11337,16 @@
       "web": "https://www.fiskebackskyrkan.se/"
     },
     {
+      "entry": 1232703478,
+      "orgNumber": "826500-1951",
+      "orgName": "Tran\u00e5s RK",
+      "categories": [
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.tranasridklubb.se/"
+    },
+    {
       "entry": 1232708568,
       "orgNumber": "802465-4389",
       "orgName": "EKHO Sk\u00e5ne",
@@ -11241,6 +11497,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.romelandahembygdsforening.se/"
+    },
+    {
+      "entry": 1232723585,
+      "orgNumber": "812400-4279",
+      "orgName": "Tyres\u00f6gymnastiken",
+      "categories": [
+        "f\u00f6rening",
+        "gymnastikf\u00f6rening"
+      ],
+      "web": "https://www.tyresogymnastiken.se/"
     },
     {
       "entry": 1232725364,
@@ -11498,6 +11764,16 @@
         "stiftelse"
       ],
       "web": "http://www.skanskmtbutveckling.se/"
+    },
+    {
+      "entry": 1232799385,
+      "orgNumber": "559013-6122",
+      "orgName": "L\u00f6vsta G\u00e5rds Ridskola AB",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola"
+      ],
+      "web": "https://www.lovstagardsridskola.se/"
     },
     {
       "entry": 1232800001,
@@ -11912,6 +12188,16 @@
         "rotaryklubb"
       ],
       "web": "https://www.rotarydoctors.se/"
+    },
+    {
+      "entry": 1232889939,
+      "orgNumber": "815600-7505",
+      "orgName": "J\u00e4rna Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.jarnaridklubb.se/"
     },
     {
       "entry": 1232890226,
@@ -12330,6 +12616,17 @@
       "web": "https://www.svenskakyrkan.se/gavle/bjorsjokyrkan"
     },
     {
+      "entry": 1233008232,
+      "orgNumber": "802401-4576",
+      "orgName": "Specialklubben Rhodesian Ridgeback Sverige, SRRS",
+      "comment": "V\u00e4stra",
+      "categories": [
+        "hundklubb",
+        "hunduppf\u00f6dning"
+      ],
+      "web": "https://www.srrs.org/"
+    },
+    {
       "entry": 1233010212,
       "orgNumber": "802016-8624",
       "orgName": "Svenska Avdelningen av Internationella Juristkommissionen, ICJ-Sweden",
@@ -12424,6 +12721,17 @@
         "religion"
       ],
       "web": "https://pingstvaggeryd.se/"
+    },
+    {
+      "entry": 1233033289,
+      "orgNumber": "853300-4928",
+      "orgName": "Stora H\u00f6ga RK",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.storahogaridklubb.se/"
     },
     {
       "entry": 1233033495,
@@ -12726,6 +13034,16 @@
         "stamning"
       ],
       "web": "https://stamning.se/"
+    },
+    {
+      "entry": 1233069945,
+      "orgNumber": "802467-6028",
+      "orgName": "B\u00e5lsta Ridsportf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola"
+      ],
+      "web": "https://www.balstaridskola.se/"
     },
     {
       "entry": 1233075652,
@@ -14682,6 +15000,15 @@
       "web": "https://hillsong.com/sweden/"
     },
     {
+      "entry": 1233519931,
+      "orgNumber": "611029-XXXX",
+      "orgName": "Tollans H\u00e4st & Foder / Inga-Lill Allvin",
+      "categories": [
+        "h\u00e4stsport"
+      ],
+      "web": "https://www.tollans.se/"
+    },
+    {
       "entry": 1233526787,
       "orgNumber": "802414-4969",
       "orgName": "Svenska Hoyas\u00e4llskapet",
@@ -14771,6 +15098,17 @@
         "katthem"
       ],
       "web": "https://kks.nu/"
+    },
+    {
+      "entry": 1233548492,
+      "orgNumber": "863000-0738",
+      "orgName": "Norra \u00c4lvsborgs RK",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.nark.se/"
     },
     {
       "entry": 1233548807,
@@ -14964,6 +15302,16 @@
         "stiftelse"
       ],
       "web": "https://www.nisiu.se/"
+    },
+    {
+      "entry": 1233592235,
+      "orgNumber": "559234-5853",
+      "orgName": "F\u00e5gelboden M\u00e4lardalen AB",
+      "categories": [
+        "djurv\u00e5rd",
+        "utrustning"
+      ],
+      "web": "https://fagelboden.se/"
     },
     {
       "entry": 1233600699,
@@ -15365,6 +15713,16 @@
         "ridklubb"
       ],
       "web": "https://www.ridklubbenudden.com/"
+    },
+    {
+      "entry": 1233717261,
+      "orgNumber": "898500-6421",
+      "orgName": "Vuollerims Ridklubb",
+      "categories": [
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.vuollerimsridklubb.com/"
     },
     {
       "entry": 1233718905,
@@ -17839,6 +18197,17 @@
       "web": "https://www.gronahogsik.com/"
     },
     {
+      "entry": 1234275921,
+      "orgNumber": "849400-3893",
+      "orgName": "Frilles\u00e5s Rid o KK",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.frk.name/"
+    },
+    {
       "entry": 1234275962,
       "orgNumber": "802492-7231",
       "orgName": "Stiftelsemedel.se",
@@ -17912,6 +18281,16 @@
         "hundsport"
       ],
       "web": "https://snkinfo.wordpress.com/"
+    },
+    {
+      "entry": 1234279683,
+      "orgNumber": "802439-6981",
+      "orgName": "Svenska Schipperke Ringen",
+      "categories": [
+        "hundklubb",
+        "hunduppf\u00f6dning"
+      ],
+      "web": "http://www.schipperkeringen.se/"
     },
     {
       "entry": 1234292140,
@@ -18412,6 +18791,16 @@
       "web": "https://djurvardag.se/"
     },
     {
+      "entry": 1234419792,
+      "orgNumber": "893201-7380",
+      "orgName": "\u00c5sbygdens RF",
+      "categories": [
+        "h\u00e4stsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.asbygden.se/"
+    },
+    {
       "entry": 1234419883,
       "orgNumber": "837600-5859",
       "orgName": "\u00d6stra Ljungby Bygdeg\u00e5rdsf\u00f6rening",
@@ -18750,6 +19139,16 @@
       "web": "https://mariedalskyrkan.se/"
     },
     {
+      "entry": 1234524955,
+      "orgNumber": "817605-1939",
+      "orgName": "K\u00f6pings GF",
+      "categories": [
+        "f\u00f6rening",
+        "gymnastikf\u00f6rening"
+      ],
+      "web": "https://idrottonline.se/KopingsGF-Gymnastik/"
+    },
+    {
       "entry": 1234535050,
       "orgNumber": "802009-9811",
       "orgName": "Milj\u00f6partiet De Gr\u00f6na",
@@ -18795,6 +19194,17 @@
         "religion"
       ],
       "web": "http://www.tenhult.pingst.se/"
+    },
+    {
+      "entry": 1234541777,
+      "orgNumber": "802467-6028",
+      "orgName": "B\u00e5lsta Ridsportf\u00f6rening",
+      "categories": [
+        "ridskola",
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.balstaridskola.se/"
     },
     {
       "entry": 1234542304,
@@ -18861,6 +19271,17 @@
         "lionsklubb"
       ],
       "web": "https://lomma.lions.se/"
+    },
+    {
+      "entry": 1234569091,
+      "orgNumber": "802401-4576",
+      "orgName": "Specialklubben Rhodesian Ridgeback Sverige, SRRS",
+      "comment": "S\u00f6dra",
+      "categories": [
+        "hundklubb",
+        "hunduppf\u00f6dning"
+      ],
+      "web": "https://www.srrs.org/"
     },
     {
       "entry": 1234572525,
@@ -19070,6 +19491,17 @@
         "ambassad"
       ],
       "web": "https://sweden.mfa.gov.ua/"
+    },
+    {
+      "entry": 1234610747,
+      "orgNumber": "816400-2506",
+      "orgName": "Djursholms Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://djursholmsridklubb.se/"
     },
     {
       "entry": 1234611182,
@@ -19425,6 +19857,16 @@
         "supporterklubb"
       ],
       "web": "http://www.sektion84.se/"
+    },
+    {
+      "entry": 1234688081,
+      "orgNumber": "853300-5677",
+      "orgName": "Tj\u00f6rns RK",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.tjornsridklubb.com/"
     },
     {
       "entry": 1234689535,
@@ -19861,6 +20303,18 @@
       "web": "https://www.laget.se/SPFGillhogBowling/"
     },
     {
+      "entry": 1234831541,
+      "orgNumber": "849400-2531",
+      "orgName": "Kungsbacka Ridklubb",
+      "comment": "t\u00e4vling/ridskola",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.kungsbackaridklubb.se/"
+    },
+    {
       "entry": 1234832069,
       "orgNumber": "802514-0123",
       "orgName": "Alternativ f\u00f6r Sverige",
@@ -20013,6 +20467,19 @@
         "pension\u00e4rsklubb"
       ],
       "web": "http://www.nykvets.com/"
+    },
+    {
+      "entry": 1234891040,
+      "orgNumber": "817606-8701",
+      "orgName": "Trosa Rids\u00e4llskap",
+      "comment": "Ridavgifter",
+      "categories": [
+        "ridklubb",
+        "ridskola",
+        "ridsport",
+        "rids\u00e4llskap"
+      ],
+      "web": "https://idrottonline.se/TrosaRS-Ridsport/"
     },
     {
       "entry": 1234891636,
@@ -20303,6 +20770,19 @@
       "web": "http://www.tjsf.org/"
     },
     {
+      "entry": 1234971073,
+      "orgNumber": "868400-1947",
+      "orgName": "Skaraortens Ryttarf\u00f6rening",
+      "comment": "Kiosk",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://skaraortensrf.se/"
+    },
+    {
       "entry": 1234971941,
       "orgNumber": "802481-1419",
       "orgName": "Idrottsgalans Insamlingsstiftelse Fair Play",
@@ -20426,6 +20906,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "http://www.focusonafrica.nu/"
+    },
+    {
+      "entry": 1235010459,
+      "orgNumber": "802517-0914",
+      "orgName": "Kils Gymnaster",
+      "categories": [
+        "f\u00f6rening",
+        "gymnastikf\u00f6rening"
+      ],
+      "web": "https://www.kilsgymnaster.se/"
     },
     {
       "entry": 1235013412,
@@ -20729,6 +21219,17 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.yube.se/"
+    },
+    {
+      "entry": 1235094198,
+      "orgNumber": "802463-8234",
+      "orgName": "Kulltorp Katla Ryttarf\u00f6rening, KKRF",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.aaislandshast.com/"
     },
     {
       "entry": 1235099825,
@@ -21076,6 +21577,15 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://nyaahusparken.se/"
+    },
+    {
+      "entry": 1235128087,
+      "orgNumber": "556947-7812",
+      "orgName": "AP H\u00e4st AB",
+      "categories": [
+        "ridskola"
+      ],
+      "web": "https://aphast.se/"
     },
     {
       "entry": 1235136544,
@@ -21734,6 +22244,15 @@
       "web": "https://laxavilla.se/"
     },
     {
+      "entry": 1235279468,
+      "orgNumber": "897000-3813",
+      "orgName": "Lulegymnasterna",
+      "categories": [
+        "gymnastikf\u00f6rening"
+      ],
+      "web": "https://www.lulegymnasterna.com/"
+    },
+    {
       "entry": 1235282132,
       "orgNumber": "817301-2215",
       "orgName": "Ramh\u00e4lls Bygdeg\u00e5rds- och Hembygdsf\u00f6rening",
@@ -22352,6 +22871,17 @@
       "web": "https://socialdemokraternajamtland.se/vart-parti/arbetarrorelsens-hyllnings-och-blomsterfond/"
     },
     {
+      "entry": 1235430020,
+      "orgNumber": "817606-8701",
+      "orgName": "Trosa Rids\u00e4llskap, TRS",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola",
+        "rids\u00e4llskap"
+      ],
+      "web": "https://idrottonline.se/TrosaRS-Ridsport/"
+    },
+    {
       "entry": 1235430186,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -22369,6 +22899,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.morbylangagoif.com/"
+    },
+    {
+      "entry": 1235434865,
+      "orgNumber": "833200-3642",
+      "orgName": "Vimmerbyortens Ryttarf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://virf.nu/"
     },
     {
       "entry": 1235437553,
@@ -24765,6 +25306,16 @@
       "web": "https://www.musketorernaisollentuna.se/"
     },
     {
+      "entry": 1235959267,
+      "orgNumber": "556478-9351",
+      "orgName": "Enskede Ridskola AB",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola"
+      ],
+      "web": "https://www.enskederidskola.se/"
+    },
+    {
       "entry": 1235959903,
       "orgNumber": "828000-4360",
       "orgName": "Forsheda Missionsf\u00f6rsamling",
@@ -24916,6 +25467,18 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Trollhattan/"
+    },
+    {
+      "entry": 1236013452,
+      "orgNumber": "818500-8268",
+      "orgName": "Ving\u00e5kers RF",
+      "comment": "Cafeteria",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "http://www.vingakersrf.se/"
     },
     {
       "entry": 1236014336,
@@ -25762,6 +26325,16 @@
         "stiftelse"
       ],
       "web": "https://stodforskning.umu.se/"
+    },
+    {
+      "entry": 1236185011,
+      "orgNumber": "886500-5758",
+      "orgName": "Edsbyns Gymnastikf\u00f6rening",
+      "categories": [
+        "f\u00f6rening",
+        "gymnastikf\u00f6rening"
+      ],
+      "web": "https://idrottonline.se/EdsbynsGF-Gymnastik/"
     },
     {
       "entry": 1236185854,
@@ -26825,6 +27398,17 @@
       "web": "https://www.fralsningsarmen.se/Umea/Umea/"
     },
     {
+      "entry": 1236449656,
+      "orgNumber": "810530-XXXX",
+      "orgName": "\u00c4ngvaktartorps G\u00e5rd / Hanna Blomqvist",
+      "categories": [
+        "h\u00e4stavel",
+        "h\u00e4stsport",
+        "h\u00e4stuppf\u00f6dning"
+      ],
+      "web": "https://www.angvaktartorp.se/"
+    },
+    {
       "entry": 1236449896,
       "orgNumber": "865000-5856",
       "orgName": "Lions Club Kinna-Skene",
@@ -27216,6 +27800,17 @@
         "supporterklubb"
       ],
       "web": "https://vskbandy.se/vsk-vannerna/"
+    },
+    {
+      "entry": 1236557987,
+      "orgNumber": "802401-4576",
+      "orgName": "Specialklubben Rhodesian Ridgeback Sverige, SRRS",
+      "comment": "Norra",
+      "categories": [
+        "hundklubb",
+        "hunduppf\u00f6dning"
+      ],
+      "web": "https://www.srrs.org/"
     },
     {
       "entry": 1236558779,
@@ -28227,6 +28822,17 @@
       "web": "https://brannoforeningen.se/"
     },
     {
+      "entry": 1236805535,
+      "orgNumber": "862000-4443",
+      "orgName": "\u00c5m\u00e5ls Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://\u00e5m\u00e5lsridklubb.se/"
+    },
+    {
       "entry": 1236805592,
       "orgNumber": "802427-6738",
       "orgName": "F\u00f6reningen Nyhemsveckan",
@@ -28405,6 +29011,15 @@
         "reiki"
       ],
       "web": "https://www.rotbrunna.se/"
+    },
+    {
+      "entry": 1236866834,
+      "orgNumber": "839400-8810",
+      "orgName": "GK Engelholmsgymnasterna",
+      "categories": [
+        "gymnastikf\u00f6rening"
+      ],
+      "web": "https://engelholmsgymnasterna.sportadmin.se/"
     },
     {
       "entry": 1236871057,
@@ -28733,6 +29348,16 @@
         "religion"
       ],
       "web": "https://heartofevangelism.com/"
+    },
+    {
+      "entry": 1236941736,
+      "orgNumber": "556676-6084",
+      "orgName": "Agersta Islandsh\u00e4stcenter AB",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola"
+      ],
+      "web": "https://agersta.com/"
     },
     {
       "entry": 1236943351,
@@ -29220,6 +29845,7 @@
       "orgNumber": "814000-8643",
       "orgName": "F\u00f6reningen Hand in Hand Sweden",
       "categories": [
+        "hj\u00e4lporganisation",
         "insamlingskontroll"
       ],
       "web": "https://www.handinhandsweden.se/"
