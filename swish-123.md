@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-09-24-rev-193116
+Date:     2022-09-28-rev-011652
 ...
 
 # Swish 123 Nummer
@@ -2706,6 +2706,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236071310 | 829502-4825 | Ingelstad IBK                                                                                        | [Link](https://www.laget.se/Ingelstad/) |
 | 1236072698 | 802412-1025 | Föreningen Kisumu                                                                                    | [Link](https://kisumu.se/) |
 | 1236072797 | 894004-0028 | Lapplandsveckan                                                                                      | [Link](https://lappis.se/) |
+| 1236076665 | 559394-6022 | Blågula Bilen AB                                                                                     | [Link](https://blagulabilen.se/) |
 | 1236083448 | 769608-1897 | Svartådalens Bygdeutveckling Ekonomisk Förening                                                      | [Link](https://svartadalen.se/) |
 | 1236083521 | 802402-8709 | Sveriges Makalösa Föräldrar                                                                          | [Link](https://makalosa.org/) |
 | 1236084065 | 802010-4892 | Sveriges Speleologförbund SSF                                                                        | [Link](https://speleo.se/) |

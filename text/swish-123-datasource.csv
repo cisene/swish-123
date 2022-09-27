@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-09-24-rev-193116
+# Date: 2022-09-28-rev-011652
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2704,6 +2704,7 @@
 "1236071310","829502-4825","Ingelstad IBK","https://www.laget.se/Ingelstad/","idrottsförening,innebandy",""
 "1236072698","802412-1025","Föreningen Kisumu","https://kisumu.se/","förening,intresseorganisation,utbildning",""
 "1236072797","894004-0028","Lapplandsveckan","https://lappis.se/","podcast,religion",""
+"1236076665","559394-6022","Blågula Bilen AB","https://blagulabilen.se/","hjälporganisation",""
 "1236083448","769608-1897","Svartådalens Bygdeutveckling Ekonomisk Förening","https://svartadalen.se/","turism,turistförening",""
 "1236083521","802402-8709","Sveriges Makalösa Föräldrar","https://makalosa.org/","föräldraskap",""
 "1236084065","802010-4892","Sveriges Speleologförbund SSF","https://speleo.se/","förbund,grottforskning,speleologi","Medlemsavgifter"

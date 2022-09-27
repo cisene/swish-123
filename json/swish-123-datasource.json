@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-09-24-rev-193116",
+    "date": "2022-09-28-rev-011652",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -26242,6 +26242,15 @@
         "religion"
       ],
       "web": "https://lappis.se/"
+    },
+    {
+      "entry": 1236076665,
+      "orgNumber": "559394-6022",
+      "orgName": "Bl\u00e5gula Bilen AB",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://blagulabilen.se/"
     },
     {
       "entry": 1236083448,
