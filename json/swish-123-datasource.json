@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-09-28-rev-011652",
+    "date": "2022-09-29-rev-200140",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -309,6 +309,15 @@
         "orientering"
       ],
       "web": "https://sites.google.com/site/dskkhemsida/"
+    },
+    {
+      "entry": 1230107292,
+      "orgNumber": "556738-8094",
+      "orgName": "Podcasten Cirkus Speedway / MAX500 AB",
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://cirkusspeedway.se/"
     },
     {
       "entry": 1230109991,
@@ -1107,6 +1116,15 @@
         "religion"
       ],
       "web": "https://betaniaskara.se/"
+    },
+    {
+      "entry": 1230323923,
+      "orgNumber": "802417-1987",
+      "orgName": "Talita",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.talita.se/"
     },
     {
       "entry": 1230325860,
@@ -2127,6 +2145,11 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://ehlers-danlos.se/"
+    },
+    {
+      "entry": 1230597856,
+      "orgNumber": "802540-5922",
+      "orgName": "L\u00e4karuppropet"
     },
     {
       "entry": 1230610824,
@@ -3519,6 +3542,15 @@
       "web": "https://www.frskungsbacka.se/"
     },
     {
+      "entry": 1230908236,
+      "orgNumber": "001211-XXXX",
+      "orgName": "Speedwayfans / Sportfans Sverige, Adam Holman",
+      "categories": [
+        "speedway"
+      ],
+      "web": "https://speedwayfans.se/"
+    },
+    {
       "entry": 1230910877,
       "orgNumber": "802503-2700",
       "orgName": "Kvibergskatterna",
@@ -4652,6 +4684,15 @@
       "web": "https://www.zignsec.com/"
     },
     {
+      "entry": 1231185495,
+      "orgNumber": "802531-1666",
+      "orgName": "Bl\u00e5gula Korset",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.blagulakorset.se/"
+    },
+    {
       "entry": 1231188051,
       "orgNumber": "817301-4633",
       "orgName": "Kvinnojouren Liljan",
@@ -5595,6 +5636,15 @@
       "web": "https://alliansmissionen.se/"
     },
     {
+      "entry": 1231393701,
+      "orgNumber": "802539-1056",
+      "orgName": "OperationAid",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.operationaid.org/sv"
+    },
+    {
       "entry": 1231402551,
       "orgNumber": "862501-2300",
       "orgName": "Aktiva Seniorer i Alings\u00e5s",
@@ -6449,6 +6499,15 @@
         "stiftelse"
       ],
       "web": "http://skaparbyn.nu/"
+    },
+    {
+      "entry": 1231583871,
+      "orgNumber": "252005-0143",
+      "orgName": "F\u00e4rgelanda-H\u00f6gs\u00e4ters F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/fargelanda-hogsater"
     },
     {
       "entry": 1231586775,
@@ -7729,7 +7788,7 @@
     {
       "entry": 1231849173,
       "orgNumber": "802513-8150",
-      "orgName": "Insamlingsstiftelsen Bl\u00e5ljus i samv",
+      "orgName": "Insamlingsstiftelsen Bl\u00e5ljus i Samverkan",
       "categories": [
         "stiftelse"
       ],
@@ -9988,6 +10047,15 @@
       "web": "https://www.jonasvildmark.com/"
     },
     {
+      "entry": 1232325868,
+      "orgNumber": "829501-8330",
+      "orgName": "DK Swing - Danssport",
+      "categories": [
+        "dansf\u00f6rening"
+      ],
+      "web": "https://www.swing.se/"
+    },
+    {
       "entry": 1232327906,
       "orgNumber": "556660-9862",
       "orgName": "Scuba Travel Scandinavia AB",
@@ -11724,6 +11792,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.romelandahembygdsforening.se/"
+    },
+    {
+      "entry": 1232723310,
+      "orgNumber": "252004-1902",
+      "orgName": "B\u00e5stad-\u00d6stra Karups F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/bastad"
     },
     {
       "entry": 1232723585,
@@ -15293,6 +15370,16 @@
         "h\u00e4stsport"
       ],
       "web": "https://www.tollans.se/"
+    },
+    {
+      "entry": 1233525714,
+      "orgNumber": "866000-9724",
+      "orgName": "Mariestads Enduroklubb",
+      "categories": [
+        "enduroklubb",
+        "motorcykelklubb"
+      ],
+      "web": "https://www.mariestadsenduro.com/"
     },
     {
       "entry": 1233526787,
@@ -19012,6 +19099,15 @@
       "web": "http://nsma.nu/"
     },
     {
+      "entry": 1234407367,
+      "orgNumber": "873201-6657",
+      "orgName": "DK Rocksulan - Danssport",
+      "categories": [
+        "dansf\u00f6rening"
+      ],
+      "web": "https://www.rocksulan.com/"
+    },
+    {
       "entry": 1234407375,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -21941,6 +22037,14 @@
       "web": "https://www.rhtc.se/"
     },
     {
+      "entry": 1235127485,
+      "orgNumber": "012597-2125",
+      "orgName": "Viking Support",
+      "categories": [
+        "supporterklubb"
+      ]
+    },
+    {
       "entry": 1235127501,
       "orgNumber": "852000-3446",
       "orgName": "Landvetter Scoutk\u00e5r",
@@ -22272,6 +22376,15 @@
         "f\u00f6r\u00e4ldraskap"
       ],
       "web": "https://makalosa.org/"
+    },
+    {
+      "entry": 1235173851,
+      "orgNumber": "802526-2604",
+      "orgName": "Sweden UNRWA Reform",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://swedenunrwareform.org/"
     },
     {
       "entry": 1235175492,
@@ -23601,6 +23714,16 @@
       ]
     },
     {
+      "entry": 1235485271,
+      "orgNumber": "802528-7015",
+      "orgName": "H\u00e4stholmens Fiskeklubb, HFK",
+      "categories": [
+        "fiskeklubb",
+        "fiskev\u00e5rd"
+      ],
+      "web": "https://hastholmensfiskeklubb.blogspot.com/"
+    },
+    {
       "entry": 1235490487,
       "orgNumber": "802526-5607",
       "orgName": "Frivilligcenter GoKungsbacka",
@@ -23658,6 +23781,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://nogersund.se/"
+    },
+    {
+      "entry": 1235512066,
+      "orgNumber": "802472-4935",
+      "orgName": "HOPE587 - Today for Tomorrow",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "http://www.hope587.se/"
     },
     {
       "entry": 1235512306,
@@ -24657,6 +24789,15 @@
       "web": "http://pingstlinkoping.se/"
     },
     {
+      "entry": 1235704291,
+      "orgNumber": "826001-5774",
+      "orgName": "OM Sverige",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://omsverige.se/"
+    },
+    {
       "entry": 1235704317,
       "orgNumber": "252003-1382",
       "orgName": "Karlstads Pastorat",
@@ -24684,6 +24825,15 @@
         "golfklubb"
       ],
       "web": "https://www.bjgk.se/"
+    },
+    {
+      "entry": 1235706478,
+      "orgNumber": "252004-1902",
+      "orgName": "B\u00e5stad-\u00d6stra Karups F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/bastad"
     },
     {
       "entry": 1235708714,
