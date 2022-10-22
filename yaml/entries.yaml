@@ -8,6 +8,15 @@ entries:
   - golfklubb
   web: http://kkgk.se/
 
+- entry: 1230004234
+  orgName: Sörmons Hundklubb
+  orgNumber: 802419-7405
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://www.sormonshundklubb.se/
+
 - entry: 1230004275
   orgName: Nolaskogs Biståndscenter, NBC
   orgNumber: 889601-3219
@@ -94,6 +103,15 @@ entries:
   categories:
   - restaurant
   web: https://fortunastrandkrog.se/
+
+- entry: 1230017442
+  orgName: Bro-Håbo Brukshundklubb
+  orgNumber: 813200-3461
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://www.bhbk.se/
 
 - entry: 1230018481
   orgName: Hacksjöbanans SkytteOrganisation, HSO
@@ -334,6 +352,15 @@ entries:
   - barnverksamhet
   - friluftsliv
   web: https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/vasteras/
+
+- entry: 1230123448
+  orgName: Jönköpings Litteraturhus
+  orgNumber: 802524-1194
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://jonkopingslitteraturhus.se/
 
 - entry: 1230123489
   orgName: Do Music Records
@@ -2344,6 +2371,15 @@ entries:
   - supporterklubb
   web: https://pekingfanz.nu/
 
+- entry: 1230691766
+  orgName: Åbyn-Byske Brukshundklubb
+  orgNumber: 894701-8399
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://www.abynbyskebk.hundpoolen.nu/
+
 - entry: 1230692855
   orgName: Helhetshälsan i Östergötland AB
   orgNumber: 559010-7131
@@ -2658,6 +2694,15 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Ystad/
+
+- entry: 1230748004
+  orgName: FRIENDSFOREVER
+  orgNumber: 802467-4312
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://www.friendsforever.se/
 
 - entry: 1230750257
   orgName: SPF Seniorerna Havsörnen
@@ -3139,6 +3184,15 @@ entries:
   - sport
   web: http://tasjoif.se/
 
+- entry: 1230851873
+  orgName: Sävsjö Brukshundklubb
+  orgNumber: 802413-4788
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://www.savsjobk.se/
+
 - entry: 1230854042
   orgName: Värmdö Gymnastikakademi
   orgNumber: 802505-6691
@@ -3257,6 +3311,7 @@ entries:
   orgNumber: 818000-7190
   comment: Köket
   categories:
+  - dressyrklubb
   - hundklubb
   web: https://www.ehdk.se/
 
@@ -3645,6 +3700,15 @@ entries:
   categories:
   - byalag
   web: http://sundalsryr.se/
+
+- entry: 1230988659
+  orgName: Skövde Brukshundklubb
+  orgNumber: 866601-0064
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: http://www.skovdebk.se/
 
 - entry: 1230990010
   orgName: Millas Villa AB / CHECKINN AB
@@ -5507,6 +5571,15 @@ entries:
   - ridskola
   web: https://www.alvkarlebyridklubb.nu/
 
+- entry: 1231431220
+  orgName: Skultuna Brukshundklubb
+  orgNumber: 878001-7441
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://www.skultunabrukshundklubb.se/
+
 - entry: 1231432749
   orgName: Hobby & Leksaksmuseum Stiftelsen
   orgNumber: 802010-4876
@@ -6524,6 +6597,15 @@ entries:
   - bilsport
   - motorsport
   web: https://www.enkopingsmk.se/
+
+- entry: 1231627090
+  orgName: Luleå Brottarklubb - Brottning
+  orgNumber: 894004-0069
+  comment: null
+  categories:
+  - brottningsklubb
+  - idrottsförening
+  web: https://www.lulebrottarklubb.se/
 
 - entry: 1231628080
   orgName: Anderstorps Skytteförening
@@ -7679,7 +7761,7 @@ entries:
   web: https://www.tvaakersif.se/
 
 - entry: 1231902956
-  orgName: Storfors Hundklubb Lokala Kennelklubb,
+  orgName: Storfors Hundklubb Lokala Kennelklubb
   orgNumber: 802461-7717
   comment: null
   categories:
@@ -7770,6 +7852,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
+  - orienteringsklubb
   web: https://www.avestaok.se/
 
 - entry: 1231961747
@@ -8777,6 +8860,15 @@ entries:
   categories: null
   web: http://www.nyavingar.com/
 
+- entry: 1232180909
+  orgName: Gävleborgs Dreverklubb
+  orgNumber: 887000-7898
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://www.gävleborgsdreverklubb.com/
+
 - entry: 1232181477
   orgName: Sveriges Dövas Ungdomsförbund, SDUF
   orgNumber: 883202-1342
@@ -9205,6 +9297,15 @@ entries:
   - utbildning
   - yoga
   web: https://www.jennystrom.se/
+
+- entry: 1232244465
+  orgName: Åtvidabergs Hundklubb
+  orgNumber: 822003-5037
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://www.atvidabergshundklubb.se/
 
 - entry: 1232244721
   orgName: International Buddhist Progress Society Sweden, IBPS Sweden
@@ -10570,6 +10671,16 @@ entries:
   - utbildning
   web: https://www.wizo.se/
 
+- entry: 1232587509
+  orgName: Mörrums RF - Ridsport
+  orgNumber: 836201-1002
+  comment: null
+  categories:
+  - ridklubb
+  - ridsport
+  - ryttarförening
+  web: https://www.morrumsryttarforening.com/
+
 - entry: 1232588085
   orgName: Brottsofferjouren Östra Värmland
   orgNumber: 874000-9983
@@ -11745,6 +11856,15 @@ entries:
   categories:
   - golfklubb
   web: https://www.lidingogk.se/
+
+- entry: 1232811503
+  orgName: Golden klubben Skaraborg-Älvsborg
+  orgNumber: 012485-2419
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://www.goldenskaraborg.se/
 
 - entry: 1232811958
   orgName: Stockholms Vildfågel Rehab
@@ -13068,6 +13188,15 @@ entries:
   - synskadad
   web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/skane/
 
+- entry: 1233126646
+  orgName: Fjällsjö Alpina Klubb
+  orgNumber: 893201-2043
+  comment: null
+  categories:
+  - förening
+  - skidlöparklubb
+  web: https://www.facebook.com/groups/105270962856563
+
 - entry: 1233129939
   orgName: Antik & Antikvariat Tranan / Monica Holmén
   orgNumber: 550127-XXXX
@@ -13852,6 +13981,14 @@ entries:
   - nöje
   - sport
   web: https://sverigerunt.org/
+
+- entry: 1233300829
+  orgName: Skytts Härads Hembygdsförening
+  orgNumber: 847000-5250
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/skyttsharad
 
 - entry: 1233301371
   orgName: SkyMining AB
@@ -14642,6 +14779,15 @@ entries:
   - innebandy
   web: https://www.malmofbc.se/
 
+- entry: 1233469004
+  orgName: Golden Retrieverklubben Skåne/Blekinge
+  orgNumber: 802446-1058
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://www.skane.goldenklubben.se/
+
 - entry: 1233469293
   orgName: Hallberg-Rassy Varvs AB
   orgNumber: 556707-2334
@@ -14759,6 +14905,15 @@ entries:
   categories:
   - museum
   web: https://femorefortet.se/
+
+- entry: 1233505591
+  orgName: Hällefors IK
+  orgNumber: 877100-5991
+  comment: null
+  categories:
+  - hockeyklubb
+  - idrottsförening
+  web: https://www.laget.se/halleforsik_alag/
 
 - entry: 1233505799
   orgName: Utby NSF Scoutkår
@@ -16031,6 +16186,15 @@ entries:
   - intresseförening
   web: https://motvindsverige.org/
 
+- entry: 1233835733
+  orgName: Angereds Brukshundklubb
+  orgNumber: 857206-5228
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://www.abhk.se/
+
 - entry: 1233837028
   orgName: Regional Kulturskola i Västmanland / Region Västmanland
   orgNumber: 232100-0172
@@ -17259,6 +17423,7 @@ entries:
   orgNumber: 818000-7190
   comment: Tävling, Kurs
   categories:
+  - dressyrklubb
   - hundklubb
   web: https://www.ehdk.se/
 
@@ -17821,6 +17986,15 @@ entries:
   categories:
   - scoutkår
   web: https://enskede.scout.se/
+
+- entry: 1234236717
+  orgName: Skällinge SKF - Skyttesport
+  orgNumber: 802429-5423
+  comment: Medlemsavgift
+  categories:
+  - skytteförening
+  - skyttesport
+  web: http://idrottonline.se/SkallingeSKF-Sportskytte
 
 - entry: 1234239182
   orgName: Framtid Kalmar
@@ -18405,6 +18579,13 @@ entries:
   - donation
   web: https://hjarnkollvasterbotten.se/
 
+- entry: 1234397246
+  orgName: Belsepub
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.facebook.com/belsepub
+
 - entry: 1234397287
   orgName: Tennisportalen / Tennisportalen Media Sweden
   orgNumber: 930302-XXXX
@@ -18525,6 +18706,15 @@ entries:
   - intresseförening
   - naturvård
   web: https://diversagainstghostnets.com/
+
+- entry: 1234412458
+  orgName: Kungälvs Brukshundklubb
+  orgNumber: 853300-9794
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://www.kungalvbk.com/
 
 - entry: 1234412763
   orgName: Svenska Bassetklubben Väst
@@ -23656,6 +23846,15 @@ entries:
   - stiftelse
   web: https://ramstrandfoundation.com/
 
+- entry: 1235639299
+  orgName: Östra Härjedalens Brukshundsklubb
+  orgNumber: 892001-3342
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://www.ohbk.hundpoolen.nu/
+
 - entry: 1235640073
   orgName: Smyrnakyrkan Göteborg
   orgNumber: 855100-9981
@@ -25882,6 +26081,15 @@ entries:
   - hembygdsförening
   web: https://aselehembygdsforening.nu/
 
+- entry: 1236151831
+  orgName: Söderåsens Brukshundklubb
+  orgNumber: 837600-3383
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://www.soderasensbk.com/
+
 - entry: 1236151872
   orgName: Dataföreningen i Sverige
   orgNumber: null
@@ -26540,6 +26748,15 @@ entries:
   - scoutkår
   web: http://www.vidascouter.se/
 
+- entry: 1236291165
+  orgName: Råådalens Brukshundsklubb
+  orgNumber: 843001-6140
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://www.raadalensbk.se/
+
 - entry: 1236291322
   orgName: Helenes M.Y Balance på Råå / Helene Kroll
   orgNumber: 620807-XXXX
@@ -27147,6 +27364,15 @@ entries:
   - lionsklubb
   web: https://www.lionsclubkinnaskene.se/
 
+- entry: 1236451587
+  orgName: Skällinge SKF - Skyttesport
+  orgNumber: 802429-5423
+  comment: Ammunition och serieavgifter
+  categories:
+  - skytteförening
+  - skyttesport
+  web: http://idrottonline.se/SkallingeSKF-Sportskytte
+
 - entry: 1236459390
   orgName: Husby-Rekarne Scoutkår
   orgNumber: 818000-8735
@@ -27163,6 +27389,15 @@ entries:
   - bowlingklubb
   - idrottsförening
   web: https://www.eskilstunabowling.se/sportbowling/seniorer/seniorklubbar/pmk
+
+- entry: 1236461909
+  orgName: Phalène Sällskapet
+  orgNumber: 832402-0166
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://www.phalenesallskapet.se/
 
 - entry: 1236462006
   orgName: AMK Morgon / AMK Studios AB

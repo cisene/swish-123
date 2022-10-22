@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-10-21-rev-074437",
+    "date": "2022-10-22-rev-200335",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -14,6 +14,16 @@
         "golfklubb"
       ],
       "web": "http://kkgk.se/"
+    },
+    {
+      "entry": 1230004234,
+      "orgNumber": "802419-7405",
+      "orgName": "S\u00f6rmons Hundklubb",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://www.sormonshundklubb.se/"
     },
     {
       "entry": 1230004275,
@@ -112,6 +122,16 @@
         "restaurant"
       ],
       "web": "https://fortunastrandkrog.se/"
+    },
+    {
+      "entry": 1230017442,
+      "orgNumber": "813200-3461",
+      "orgName": "Bro-H\u00e5bo Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.bhbk.se/"
     },
     {
       "entry": 1230018481,
@@ -369,6 +389,16 @@
         "friluftsliv"
       ],
       "web": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/vasteras/"
+    },
+    {
+      "entry": 1230123448,
+      "orgNumber": "802524-1194",
+      "orgName": "J\u00f6nk\u00f6pings Litteraturhus",
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://jonkopingslitteraturhus.se/"
     },
     {
       "entry": 1230123489,
@@ -2586,6 +2616,16 @@
       "web": "https://pekingfanz.nu/"
     },
     {
+      "entry": 1230691766,
+      "orgNumber": "894701-8399",
+      "orgName": "\u00c5byn-Byske Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.abynbyskebk.hundpoolen.nu/"
+    },
+    {
       "entry": 1230692855,
       "orgNumber": "559010-7131",
       "orgName": "Helhetsh\u00e4lsan i \u00d6sterg\u00f6tland AB",
@@ -2941,6 +2981,16 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Ystad/"
+    },
+    {
+      "entry": 1230748004,
+      "orgNumber": "802467-4312",
+      "orgName": "FRIENDSFOREVER",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://www.friendsforever.se/"
     },
     {
       "entry": 1230750257,
@@ -3486,6 +3536,16 @@
       "web": "http://tasjoif.se/"
     },
     {
+      "entry": 1230851873,
+      "orgNumber": "802413-4788",
+      "orgName": "S\u00e4vsj\u00f6 Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.savsjobk.se/"
+    },
+    {
       "entry": 1230854042,
       "orgNumber": "802505-6691",
       "orgName": "V\u00e4rmd\u00f6 Gymnastikakademi",
@@ -3619,6 +3679,7 @@
       "orgName": "Eskilstuna Hunddressyrklubb",
       "comment": "K\u00f6ket",
       "categories": [
+        "dressyrklubb",
         "hundklubb"
       ],
       "web": "https://www.ehdk.se/"
@@ -4048,6 +4109,16 @@
         "byalag"
       ],
       "web": "http://sundalsryr.se/"
+    },
+    {
+      "entry": 1230988659,
+      "orgNumber": "866601-0064",
+      "orgName": "Sk\u00f6vde Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "http://www.skovdebk.se/"
     },
     {
       "entry": 1230990010,
@@ -6117,6 +6188,16 @@
       "web": "https://www.alvkarlebyridklubb.nu/"
     },
     {
+      "entry": 1231431220,
+      "orgNumber": "878001-7441",
+      "orgName": "Skultuna Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.skultunabrukshundklubb.se/"
+    },
+    {
       "entry": 1231432749,
       "orgNumber": "802010-4876",
       "orgName": "Hobby & Leksaksmuseum Stiftelsen",
@@ -7255,6 +7336,16 @@
         "motorsport"
       ],
       "web": "https://www.enkopingsmk.se/"
+    },
+    {
+      "entry": 1231627090,
+      "orgNumber": "894004-0069",
+      "orgName": "Lule\u00e5 Brottarklubb - Brottning",
+      "categories": [
+        "brottningsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.lulebrottarklubb.se/"
     },
     {
       "entry": 1231628080,
@@ -8554,7 +8645,7 @@
     {
       "entry": 1231902956,
       "orgNumber": "802461-7717",
-      "orgName": "Storfors Hundklubb Lokala Kennelklubb,",
+      "orgName": "Storfors Hundklubb Lokala Kennelklubb",
       "categories": [
         "hundsport",
         "kennelklubb"
@@ -8648,7 +8739,8 @@
       "orgNumber": "882000-5075",
       "orgName": "Avesta OK - Orientering",
       "categories": [
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
       ],
       "web": "https://www.avestaok.se/"
     },
@@ -9776,6 +9868,16 @@
       "web": "http://www.nyavingar.com/"
     },
     {
+      "entry": 1232180909,
+      "orgNumber": "887000-7898",
+      "orgName": "G\u00e4vleborgs Dreverklubb",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://www.g\u00e4vleborgsdreverklubb.com/"
+    },
+    {
       "entry": 1232181477,
       "orgNumber": "883202-1342",
       "orgName": "Sveriges D\u00f6vas Ungdomsf\u00f6rbund, SDUF",
@@ -10245,6 +10347,16 @@
         "yoga"
       ],
       "web": "https://www.jennystrom.se/"
+    },
+    {
+      "entry": 1232244465,
+      "orgNumber": "822003-5037",
+      "orgName": "\u00c5tvidabergs Hundklubb",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://www.atvidabergshundklubb.se/"
     },
     {
       "entry": 1232244721,
@@ -11765,6 +11877,17 @@
       "web": "https://www.wizo.se/"
     },
     {
+      "entry": 1232587509,
+      "orgNumber": "836201-1002",
+      "orgName": "M\u00f6rrums RF - Ridsport",
+      "categories": [
+        "ridklubb",
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.morrumsryttarforening.com/"
+    },
+    {
       "entry": 1232588085,
       "orgNumber": "874000-9983",
       "orgName": "Brottsofferjouren \u00d6stra V\u00e4rmland",
@@ -13080,6 +13203,16 @@
         "golfklubb"
       ],
       "web": "https://www.lidingogk.se/"
+    },
+    {
+      "entry": 1232811503,
+      "orgNumber": "012485-2419",
+      "orgName": "Golden klubben Skaraborg-\u00c4lvsborg",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://www.goldenskaraborg.se/"
     },
     {
       "entry": 1232811958,
@@ -14538,6 +14671,16 @@
       "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/skane/"
     },
     {
+      "entry": 1233126646,
+      "orgNumber": "893201-2043",
+      "orgName": "Fj\u00e4llsj\u00f6 Alpina Klubb",
+      "categories": [
+        "f\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.facebook.com/groups/105270962856563"
+    },
+    {
       "entry": 1233129939,
       "orgNumber": "550127-XXXX",
       "orgName": "Antik & Antikvariat Tranan / Monica Holm\u00e9n",
@@ -15384,6 +15527,15 @@
         "sport"
       ],
       "web": "https://sverigerunt.org/"
+    },
+    {
+      "entry": 1233300829,
+      "orgNumber": "847000-5250",
+      "orgName": "Skytts H\u00e4rads Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/skyttsharad"
     },
     {
       "entry": 1233301371,
@@ -16254,6 +16406,16 @@
       "web": "https://www.malmofbc.se/"
     },
     {
+      "entry": 1233469004,
+      "orgNumber": "802446-1058",
+      "orgName": "Golden Retrieverklubben Sk\u00e5ne/Blekinge",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://www.skane.goldenklubben.se/"
+    },
+    {
       "entry": 1233469293,
       "orgNumber": "556707-2334",
       "orgName": "Hallberg-Rassy Varvs AB",
@@ -16383,6 +16545,16 @@
         "museum"
       ],
       "web": "https://femorefortet.se/"
+    },
+    {
+      "entry": 1233505591,
+      "orgNumber": "877100-5991",
+      "orgName": "H\u00e4llefors IK",
+      "categories": [
+        "hockeyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/halleforsik_alag/"
     },
     {
       "entry": 1233505799,
@@ -17777,6 +17949,16 @@
       "web": "https://motvindsverige.org/"
     },
     {
+      "entry": 1233835733,
+      "orgNumber": "857206-5228",
+      "orgName": "Angereds Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.abhk.se/"
+    },
+    {
       "entry": 1233837028,
       "orgNumber": "232100-0172",
       "orgName": "Regional Kulturskola i V\u00e4stmanland / Region V\u00e4stmanland",
@@ -19146,6 +19328,7 @@
       "orgName": "Eskilstuna Hunddressyrklubb",
       "comment": "T\u00e4vling, Kurs",
       "categories": [
+        "dressyrklubb",
         "hundklubb"
       ],
       "web": "https://www.ehdk.se/"
@@ -19759,6 +19942,17 @@
         "scoutk\u00e5r"
       ],
       "web": "https://enskede.scout.se/"
+    },
+    {
+      "entry": 1234236717,
+      "orgNumber": "802429-5423",
+      "orgName": "Sk\u00e4llinge SKF - Skyttesport",
+      "comment": "Medlemsavgift",
+      "categories": [
+        "skyttef\u00f6rening",
+        "skyttesport"
+      ],
+      "web": "http://idrottonline.se/SkallingeSKF-Sportskytte"
     },
     {
       "entry": 1234239182,
@@ -20550,6 +20744,16 @@
         "naturv\u00e5rd"
       ],
       "web": "https://diversagainstghostnets.com/"
+    },
+    {
+      "entry": 1234412458,
+      "orgNumber": "853300-9794",
+      "orgName": "Kung\u00e4lvs Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.kungalvbk.com/"
     },
     {
       "entry": 1234412763,
@@ -26238,6 +26442,16 @@
       "web": "https://ramstrandfoundation.com/"
     },
     {
+      "entry": 1235639299,
+      "orgNumber": "892001-3342",
+      "orgName": "\u00d6stra H\u00e4rjedalens Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.ohbk.hundpoolen.nu/"
+    },
+    {
       "entry": 1235640073,
       "orgNumber": "855100-9981",
       "orgName": "Smyrnakyrkan G\u00f6teborg",
@@ -28690,6 +28904,16 @@
       "web": "https://aselehembygdsforening.nu/"
     },
     {
+      "entry": 1236151831,
+      "orgNumber": "837600-3383",
+      "orgName": "S\u00f6der\u00e5sens Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.soderasensbk.com/"
+    },
+    {
       "entry": 1236152425,
       "orgNumber": "802535-9137",
       "orgName": "Team Rynkeby Kristianstad",
@@ -29418,6 +29642,16 @@
       "web": "http://www.vidascouter.se/"
     },
     {
+      "entry": 1236291165,
+      "orgNumber": "843001-6140",
+      "orgName": "R\u00e5\u00e5dalens Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.raadalensbk.se/"
+    },
+    {
       "entry": 1236291322,
       "orgNumber": "620807-XXXX",
       "orgName": "Helenes M.Y Balance p\u00e5 R\u00e5\u00e5 / Helene Kroll",
@@ -30094,6 +30328,17 @@
       "web": "https://www.lionsclubkinnaskene.se/"
     },
     {
+      "entry": 1236451587,
+      "orgNumber": "802429-5423",
+      "orgName": "Sk\u00e4llinge SKF - Skyttesport",
+      "comment": "Ammunition och serieavgifter",
+      "categories": [
+        "skyttef\u00f6rening",
+        "skyttesport"
+      ],
+      "web": "http://idrottonline.se/SkallingeSKF-Sportskytte"
+    },
+    {
       "entry": 1236459390,
       "orgNumber": "818000-8735",
       "orgName": "Husby-Rekarne Scoutk\u00e5r",
@@ -30111,6 +30356,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.eskilstunabowling.se/sportbowling/seniorer/seniorklubbar/pmk"
+    },
+    {
+      "entry": 1236461909,
+      "orgNumber": "832402-0166",
+      "orgName": "Phal\u00e8ne S\u00e4llskapet",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://www.phalenesallskapet.se/"
     },
     {
       "entry": 1236462006,
