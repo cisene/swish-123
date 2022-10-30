@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-10-30-rev-024752",
+    "date": "2022-10-30-rev-152913",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1107,6 +1107,16 @@
       "web": "https://www.hagglundsskiteam.se/"
     },
     {
+      "entry": 1230297721,
+      "orgNumber": "556339-7859",
+      "orgName": "S\u00f6dert\u00e4lje Bil & Alldemo AB",
+      "categories": [
+        "bildelar",
+        "reservdelar"
+      ],
+      "web": "https://skarlunda.se/"
+    },
+    {
       "entry": 1230299131,
       "orgNumber": "012001-3396",
       "orgName": "Stora Tolvsbo Jaktskytteklubb",
@@ -1932,6 +1942,16 @@
         "religion"
       ],
       "web": "https://www.granopingst.se/"
+    },
+    {
+      "entry": 1230474569,
+      "orgNumber": "893202-2950",
+      "orgName": "\u00d6stersunds Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://osdhund.se/"
     },
     {
       "entry": 1230481309,
@@ -6177,6 +6197,15 @@
       "web": "https://idrottonline.se/OlofstromsTK-Tennis/"
     },
     {
+      "entry": 1231406404,
+      "orgNumber": "802530-4224",
+      "orgName": "G\u00f6r N\u00e5tt D\u00e5!",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening"
+      ]
+    },
+    {
       "entry": 1231406727,
       "orgNumber": "846000-0709",
       "orgName": "Bridgeklubben Pri-Bri 1936",
@@ -6342,6 +6371,16 @@
       "web": "https://idrottonline.se/VarmskogsSK/"
     },
     {
+      "entry": 1231461235,
+      "orgNumber": "660614-XXXX",
+      "orgName": "Makeri 14 / Stephanie Wesslau",
+      "categories": [
+        "hantverk",
+        "hobbymaterial"
+      ],
+      "web": "https://makeri14.com/"
+    },
+    {
       "entry": 1231461656,
       "orgNumber": "853300-7194",
       "orgName": "Kode Scoutk\u00e5r",
@@ -6349,6 +6388,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://kode.scout.se/"
+    },
+    {
+      "entry": 1231461839,
+      "orgNumber": "865000-5138",
+      "orgName": "Kinds Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "http://wordpress.kindbk.com/"
     },
     {
       "entry": 1231464981,
@@ -7200,6 +7249,16 @@
         "lionsklubb"
       ],
       "web": "https://www.lionslodde.se/"
+    },
+    {
+      "entry": 1231605468,
+      "orgNumber": "818000-7166",
+      "orgName": "Eskilstuna Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.eskilstunabk.se/"
     },
     {
       "entry": 1231605567,
@@ -8266,6 +8325,16 @@
       "web": "https://piratpartiet.se/"
     },
     {
+      "entry": 1231792498,
+      "orgNumber": "878500-6258",
+      "orgName": "K\u00f6pings Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "http://kopingsbrukshundklubb.se/"
+    },
+    {
       "entry": 1231793108,
       "orgNumber": "929000-6841",
       "orgName": "Ljungby RK",
@@ -8759,6 +8828,16 @@
         "ungdomsverksamhet"
       ],
       "web": "https://kfumbrevik.se/"
+    },
+    {
+      "entry": 1231951185,
+      "orgNumber": "817603-2996",
+      "orgName": "Knivsta Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.knivstabk.se/"
     },
     {
       "entry": 1231951243,
@@ -9874,6 +9953,16 @@
         "ridskola"
       ],
       "web": "https://www.ekelunds-ridskola.se/"
+    },
+    {
+      "entry": 1232169217,
+      "orgNumber": "894002-8726",
+      "orgName": "Ume\u00e5 Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://ubhk.se/"
     },
     {
       "entry": 1232169449,
@@ -11877,6 +11966,15 @@
       "web": "http://www.uvpsk.se/"
     },
     {
+      "entry": 1232561785,
+      "orgNumber": "802535-5549",
+      "orgName": "F\u00f6reningen Children with love",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://childrenwithlove.com/"
+    },
+    {
       "entry": 1232566313,
       "orgNumber": "559207-8553",
       "orgName": "Villa Sunshine AB",
@@ -12618,7 +12716,8 @@
       "orgName": "Smedjebackens Ridsport",
       "categories": [
         "ridsport",
-        "ryttarf\u00f6rening"
+        "ryttarf\u00f6rening",
+        "ryttars\u00e4llskap"
       ],
       "web": "https://idrottonline.se/SmedjebackensRS-Ridsport/"
     },
@@ -12650,6 +12749,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://ifkhaninge.se/"
+    },
+    {
+      "entry": 1232699403,
+      "orgNumber": "802491-6291",
+      "orgName": "Nyn\u00e4shamns Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://nbk.nynasbk.com/"
     },
     {
       "entry": 1232700631,
@@ -13134,6 +13243,17 @@
         "utmattningstillst\u00e5nd"
       ],
       "web": "https://www.angest.se/"
+    },
+    {
+      "entry": 1232772242,
+      "orgNumber": "802457-4736",
+      "orgName": "Eks\u00e4tra Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://idrottonline.se/EksatraRS-Ridsport/"
     },
     {
       "entry": 1232784916,
@@ -14005,6 +14125,16 @@
       "web": "https://ingridunsold.se/"
     },
     {
+      "entry": 1232968477,
+      "orgNumber": "842000-4825",
+      "orgName": "H\u00e4sthagens Ryttarf\u00f6rening i Billinge",
+      "categories": [
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.harf.se/"
+    },
+    {
       "entry": 1232979110,
       "orgNumber": "802526-5110",
       "orgName": "Beroendev\u00e5rdens Framtid",
@@ -14386,6 +14516,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://stockholmsbif.se/"
+    },
+    {
+      "entry": 1233045549,
+      "orgNumber": "829001-0019",
+      "orgName": "Ung F\u00f6retagsamhet i Kronbergs L\u00e4n",
+      "categories": [
+        "f\u00f6retagande",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://ungforetagsamhet.se/"
     },
     {
       "entry": 1233045598,
@@ -15349,6 +15489,15 @@
         "stiftelse"
       ],
       "web": "https://www.hjelmserydsstiftelsen.nu/"
+    },
+    {
+      "entry": 1233242252,
+      "orgNumber": "802480-9959",
+      "orgName": "Insamlingsstiftelsen f\u00f6r Kevins Minne",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://kevinsminnesfond.se/"
     },
     {
       "entry": 1233243599,
@@ -18546,6 +18695,16 @@
       "web": "http://www.kyrktorget.se/fjallkyrkan.kiruna"
     },
     {
+      "entry": 1233908779,
+      "orgNumber": "894002-8726",
+      "orgName": "Ume\u00e5 Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://ubhk.se/"
+    },
+    {
       "entry": 1233912409,
       "orgNumber": "802010-4264",
       "orgName": "Ekwall Rullar / Br\u00f6stcancerf\u00f6rbundet",
@@ -19887,6 +20046,16 @@
         "stiftelse"
       ],
       "web": "https://www.ekocentrum.se/"
+    },
+    {
+      "entry": 1234202677,
+      "orgNumber": "802429-6280",
+      "orgName": "Vallentuna Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.vallentunabrukshundklubb.se/"
     },
     {
       "entry": 1234203022,
@@ -21643,6 +21812,15 @@
       "web": "http://www.kalixgolfklubb.se/"
     },
     {
+      "entry": 1234586046,
+      "orgNumber": "802442-3553",
+      "orgName": "Djurskyddet Bohusl\u00e4n",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "http://www.djurskyddet.nu/bohuslan/"
+    },
+    {
       "entry": 1234586798,
       "orgNumber": "848001-2718",
       "orgName": "SPF Seniorerna Ystad",
@@ -23016,6 +23194,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.korpenvasteras.se/"
+    },
+    {
+      "entry": 1234947982,
+      "orgNumber": "802513-4795",
+      "orgName": "TreSkaBliNoll Sverige",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "http://treskablinoll.nu/"
     },
     {
       "entry": 1234948691,
@@ -24518,6 +24705,16 @@
         "discgolf"
       ],
       "web": "https://idrottonline.se/StenungsundsDiscgolfClub-Frisbee/"
+    },
+    {
+      "entry": 1235209739,
+      "orgNumber": "846004-6801",
+      "orgName": "S\u00f6dra Sallerups Ryttaref\u00f6rening",
+      "categories": [
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://ssrf.net/"
     },
     {
       "entry": 1235215215,
@@ -27244,6 +27441,16 @@
       "web": "https://www.g-fbk.se/"
     },
     {
+      "entry": 1235760228,
+      "orgNumber": "849000-5405",
+      "orgName": "Falkenbergs Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "http://www.falkenbergsbk.se/"
+    },
+    {
       "entry": 1235763040,
       "orgNumber": "894700-5958",
       "orgName": "Clemensn\u00e4s IF",
@@ -27780,6 +27987,17 @@
       "web": "https://www.smyrna.se/"
     },
     {
+      "entry": 1235881909,
+      "orgNumber": "802441-4107",
+      "orgName": "Eds Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.edsrs.se/"
+    },
+    {
       "entry": 1235883269,
       "orgNumber": "802463-9976",
       "orgName": "Hundomplaceringsverksamheten",
@@ -28042,6 +28260,18 @@
       "web": "https://jonkoping.brostcancerforbundet.se/"
     },
     {
+      "entry": 1235931969,
+      "orgNumber": "802412-6800",
+      "orgName": "Taure Western Riders Stockholm",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "westernklubb",
+        "westernridning"
+      ],
+      "web": "https://www.twrs.se/"
+    },
+    {
       "entry": 1235934708,
       "orgNumber": "802449-8167",
       "orgName": "Herrviks Motorf\u00f6rening",
@@ -28050,6 +28280,15 @@
         "motorklubb"
       ],
       "web": "https://www.herrvikmotor.se/"
+    },
+    {
+      "entry": 1235935382,
+      "orgNumber": "556737-6560",
+      "orgName": "Familjebutiken Calimero AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://www.familje-ebutiken.se/"
     },
     {
       "entry": 1235935564,
@@ -28435,6 +28674,15 @@
         "ryttarf\u00f6rening"
       ],
       "web": "http://www.vingakersrf.se/"
+    },
+    {
+      "entry": 1236013965,
+      "orgNumber": "802489-3680",
+      "orgName": "Contribution To Opportunities",
+      "categories": [
+        "ideell f\u00f6rening"
+      ],
+      "web": "https://cto.world/"
     },
     {
       "entry": 1236014336,
@@ -28862,6 +29110,7 @@
       "orgNumber": "833600-2996",
       "orgName": "V\u00e4sterviksortens Ryttaref\u00f6rening",
       "categories": [
+        "ridsport",
         "ryttarf\u00f6rening"
       ],
       "web": "https://vasterviksrf.se/"
@@ -28967,6 +29216,14 @@
         "media"
       ],
       "web": "https://nyadagbladet.se/"
+    },
+    {
+      "entry": 1236117105,
+      "orgNumber": "802506-7011",
+      "orgName": "VI mot barncancer / F\u00f6reningen VI",
+      "categories": [
+        "intressef\u00f6rening"
+      ]
     },
     {
       "entry": 1236119788,
@@ -29367,6 +29624,16 @@
       "web": "https://www.rfsisu.se/Stockholm"
     },
     {
+      "entry": 1236178271,
+      "orgNumber": "845002-6995",
+      "orgName": "Veber\u00f6ds Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://vbkhund.se/"
+    },
+    {
       "entry": 1236178339,
       "orgNumber": "802438-2866",
       "orgName": "Lions Club Ljugarn",
@@ -29374,6 +29641,16 @@
         "lionsklubb"
       ],
       "web": "https://e-clubhouse.org/sites/ljugarn/"
+    },
+    {
+      "entry": 1236179543,
+      "orgNumber": "828500-3581",
+      "orgName": "Sm\u00e5landsstenar Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.smalandsstenarbk.se/"
     },
     {
       "entry": 1236181820,
@@ -30806,6 +31083,16 @@
         "tr\u00e4dg\u00e5rdsf\u00f6rening"
       ],
       "web": "http://salto-ekholmen.se/"
+    },
+    {
+      "entry": 1236510895,
+      "orgNumber": "818000-5459",
+      "orgName": "Eskilstunaortens Ryttarf\u00f6rening",
+      "categories": [
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.eskilstunaortens-rf.se/"
     },
     {
       "entry": 1236511869,
@@ -32531,6 +32818,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.malmabygden.se/"
+    },
+    {
+      "entry": 1236911804,
+      "orgNumber": "802537-5059",
+      "orgName": "Hassela Hundklubb",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://hasselahundklubb.n.nu/"
     },
     {
       "entry": 1236915177,
@@ -36240,6 +36537,7 @@
       "orgNumber": "802002-3605",
       "orgName": "Neurof\u00f6rbundet",
       "categories": [
+        "f\u00f6rbund",
         "insamlingskontroll"
       ],
       "web": "https://neuro.se/"
