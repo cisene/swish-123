@@ -3843,6 +3843,15 @@ entries:
   - religion
   web: https://ffg.se/
 
+- entry: 1231010776
+  orgName: IFK Kristianstad Adolf J:s Stiftelse
+  orgNumber: 802480-5957
+  comment: null
+  categories:
+  - idrottsförening
+  - stiftelse
+  web: https://ifkkristianstad.se/adolf-j-s-stiftelse/donera-till-stiftelsen
+
 - entry: 1231022490
   orgName: Pingstförsamlingen Kungsör
   orgNumber: 878500-0350
@@ -4669,6 +4678,14 @@ entries:
   categories:
   - religion
   web: https://www.brannkyrka.org/
+
+- entry: 1231205277
+  orgName: IFK Kristianstad
+  orgNumber: 838200-1587
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://ifkkristianstad.se/
 
 - entry: 1231206432
   orgName: Insamlingsstiftelsen Y.O.U.N.G.
@@ -6996,6 +7013,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.bjursashembygdsforening.com/
+
+- entry: 1231724319
+  orgName: ABB:s Pensionärsklubb Ludvika
+  orgNumber: 955502-7235
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pensionarsklubbenabb.weebly.com/
 
 - entry: 1231724327
   orgName: Sport for Life
@@ -14861,6 +14886,14 @@ entries:
   - idrottsförening
   - innebandy
   web: https://www.malmofbc.se/
+
+- entry: 1233467842
+  orgName: Södra Kurvan
+  orgNumber: 802467-7547
+  comment: null
+  categories:
+  - supporterklubb
+  web: http://sodrakurvan.se/
 
 - entry: 1233469004
   orgName: Golden Retrieverklubben Skåne/Blekinge

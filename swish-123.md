@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-10-27-rev-013005
+Date:     2022-10-30-rev-024752
 ...
 
 # Swish 123 Nummer
@@ -445,6 +445,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231007913 | 834002-0505 | Svaide Roma SOK                                                                                      | [Link](https://www.svaideroma.se/) |
 | 1231008192 | 826000-0743 | Pingstförsamlingen Tenhult                                                                           | [Link](http://www.tenhult.pingst.se/) |
 | 1231008457 | 857200-3666 | Församlingsfakulteten, FFG                                                                           | [Link](https://ffg.se/) |
+| 1231010776 | 802480-5957 | IFK Kristianstad Adolf J:s Stiftelse                                                                 | [Link](https://ifkkristianstad.se/adolf-j-s-stiftelse/donera-till-stiftelsen) |
 | 1231022490 | 878500-0350 | Pingstförsamlingen Kungsör                                                                           | [Link](https://kungsor.pingst.se/) |
 | 1231023092 | 671002-XXXX | Mabel Massage / Mabel Morales                                                                        | [Link](https://falumassagehalsa.se/) |
 | 1231030758 | 556802-4656 | Kerstins Trafikskola i Åkersberga / Kerstins Trafikskola AB                                          | [Link](https://kerstinstrafikskola.se/) |
@@ -539,6 +540,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231203454 | 875000-2522 | Stora Mellösa Baptistförsamling                                                                      | [Link](http://www.baptistkyrkan.com/) |
 | 1231203595 | 802445-9706 | Bjurholms Lokala Kennelklubb                                                                         | [Link](https://blkk.webs.com/) |
 | 1231204114 | 252000-0650 | Brännkyrka Församling                                                                                | [Link](https://www.brannkyrka.org/) |
+| 1231205277 | 838200-1587 | IFK Kristianstad                                                                                     | [Link](https://ifkkristianstad.se/) |
 | 1231206432 | 802479-8327 | Insamlingsstiftelsen Y.O.U.N.G.                                                                      | [Link](http://www.stiftelsenyoung.se/) |
 | 1231209998 | 802533-7786 | Team Rynkeby Lund                                                                                    | [Link](https://www.team-rynkeby.se/) |
 | 1231215417 | 827000-6953 | IK Sisu - Friidrott                                                                                  | [Link](https://www.iksisu.se/) |
@@ -802,6 +804,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231717891 | 802533-0450 | Wermdö Parkour & Gymnastik                                                                           | [Link](https://wermdoparkour.se/) |
 | 1231720440 | 865500-6511 | Lions Club Tranemo                                                                                   | [Link](https://tranemolion.se/) |
 | 1231721497 | 883200-7416 | Bjursås Hembygdsförening                                                                             | [Link](https://www.bjursashembygdsforening.com/) |
+| 1231724319 | 955502-7235 | ABB:s Pensionärsklubb Ludvika                                                                        | [Link](https://pensionarsklubbenabb.weebly.com/) |
 | 1231724327 | 802519-6406 | Sport for Life                                                                                       | [Link](https://sportforlife.se/) |
 | 1231727247 | 846002-5078 | Djupadals Scoutkår                                                                                   | [Link](https://djupadal.scout.se/) |
 | 1231727627 | 556599-7318 | Levád Fysiotherapi AB                                                                                | [Link](https://levad.se/) |
@@ -1698,6 +1701,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233461845 | 878001-6625 | Surahammars Skytteförening                                                                           | [Link](http://surahammarsskytteforening.se/) |
 | 1233466414 | 853300-3052 | Tjörns Hembygdsförening                                                                              | [Link](http://www.tjornshembygdsforening.se/) |
 | 1233467545 | 802439-1164 | Malmö Floorball Club                                                                                 | [Link](https://www.malmofbc.se/) |
+| 1233467842 | 802467-7547 | Södra Kurvan                                                                                         | [Link](http://sodrakurvan.se/) |
 | 1233469004 | 802446-1058 | Golden Retrieverklubben Skåne/Blekinge                                                               | [Link](https://www.skane.goldenklubben.se/) |
 | 1233469293 | 556707-2334 | Hallberg-Rassy Varvs AB                                                                              | [Link](https://www.hallberg-rassy.com/) |
 | 1233474350 | 829501-9627 | Växjöortens Folkdanslag                                                                              | [Link](https://www.vaxjofolkdans.se/) |

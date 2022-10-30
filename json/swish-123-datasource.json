@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-10-27-rev-013005",
+    "date": "2022-10-30-rev-024752",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4271,6 +4271,16 @@
       "web": "https://ffg.se/"
     },
     {
+      "entry": 1231010776,
+      "orgNumber": "802480-5957",
+      "orgName": "IFK Kristianstad Adolf J:s Stiftelse",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "stiftelse"
+      ],
+      "web": "https://ifkkristianstad.se/adolf-j-s-stiftelse/donera-till-stiftelsen"
+    },
+    {
       "entry": 1231022490,
       "orgNumber": "878500-0350",
       "orgName": "Pingstf\u00f6rsamlingen Kungs\u00f6r",
@@ -5181,6 +5191,15 @@
         "religion"
       ],
       "web": "https://www.brannkyrka.org/"
+    },
+    {
+      "entry": 1231205277,
+      "orgNumber": "838200-1587",
+      "orgName": "IFK Kristianstad",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ifkkristianstad.se/"
     },
     {
       "entry": 1231206432,
@@ -7767,6 +7786,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.bjursashembygdsforening.com/"
+    },
+    {
+      "entry": 1231724319,
+      "orgNumber": "955502-7235",
+      "orgName": "ABB:s Pension\u00e4rsklubb Ludvika",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pensionarsklubbenabb.weebly.com/"
     },
     {
       "entry": 1231724327,
@@ -16486,6 +16514,15 @@
         "innebandy"
       ],
       "web": "https://www.malmofbc.se/"
+    },
+    {
+      "entry": 1233467842,
+      "orgNumber": "802467-7547",
+      "orgName": "S\u00f6dra Kurvan",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "http://sodrakurvan.se/"
     },
     {
       "entry": 1233469004,

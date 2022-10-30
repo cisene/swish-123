@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-10-27-rev-013005
+# Date: 2022-10-30-rev-024752
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -443,6 +443,7 @@
 "1231007913","834002-0505","Svaide Roma SOK","https://www.svaideroma.se/","friidrott,idrottsförening,längdåkning,orientering,parasport,rullskidor,skidor,skidskytte",""
 "1231008192","826000-0743","Pingstförsamlingen Tenhult","http://www.tenhult.pingst.se/","religion","Församlingskassan"
 "1231008457","857200-3666","Församlingsfakulteten, FFG","https://ffg.se/","religion",""
+"1231010776","802480-5957","IFK Kristianstad Adolf J:s Stiftelse","https://ifkkristianstad.se/adolf-j-s-stiftelse/donera-till-stiftelsen","idrottsförening,stiftelse",""
 "1231022490","878500-0350","Pingstförsamlingen Kungsör","https://kungsor.pingst.se/","religion","Byggnadskassan"
 "1231023092","671002-XXXX","Mabel Massage / Mabel Morales","https://falumassagehalsa.se/","massage",""
 "1231030758","556802-4656","Kerstins Trafikskola i Åkersberga / Kerstins Trafikskola AB","https://kerstinstrafikskola.se/","trafikskola,utbildning",""
@@ -537,6 +538,7 @@
 "1231203454","875000-2522","Stora Mellösa Baptistförsamling","http://www.baptistkyrkan.com/","religion",""
 "1231203595","802445-9706","Bjurholms Lokala Kennelklubb","https://blkk.webs.com/","hundsport,kennelklubb",""
 "1231204114","252000-0650","Brännkyrka Församling","https://www.brannkyrka.org/","religion","Söndagens kollekt Brännkyrka kyrka"
+"1231205277","838200-1587","IFK Kristianstad","https://ifkkristianstad.se/","idrottsförening",""
 "1231206432","802479-8327","Insamlingsstiftelsen Y.O.U.N.G.","http://www.stiftelsenyoung.se/","stiftelse",""
 "1231209998","802533-7786","Team Rynkeby Lund","https://www.team-rynkeby.se/","cykelsport,friskvård,intresseförening",""
 "1231215417","827000-6953","IK Sisu - Friidrott","https://www.iksisu.se/","idrottsförening",""
@@ -800,6 +802,7 @@
 "1231717891","802533-0450","Wermdö Parkour & Gymnastik","https://wermdoparkour.se/","gymnastikförening,idrottsförening,parkourförening",""
 "1231720440","865500-6511","Lions Club Tranemo","https://tranemolion.se/","lionsklubb",""
 "1231721497","883200-7416","Bjursås Hembygdsförening","https://www.bjursashembygdsforening.com/","hembygdsförening",""
+"1231724319","955502-7235","ABB:s Pensionärsklubb Ludvika","https://pensionarsklubbenabb.weebly.com/","pensionärsklubb",""
 "1231724327","802519-6406","Sport for Life","https://sportforlife.se/","idrottsförening,intresseförening",""
 "1231727247","846002-5078","Djupadals Scoutkår","https://djupadal.scout.se/","scoutkår",""
 "1231727627","556599-7318","Levád Fysiotherapi AB","https://levad.se/","akupunktur,fysioterapi,massage,sjukgymnastik",""
@@ -1696,6 +1699,7 @@
 "1233461845","878001-6625","Surahammars Skytteförening","http://surahammarsskytteforening.se/","pistolskytteklubb,sportskytte",""
 "1233466414","853300-3052","Tjörns Hembygdsförening","http://www.tjornshembygdsforening.se/","hembygdsförening",""
 "1233467545","802439-1164","Malmö Floorball Club","https://www.malmofbc.se/","idrottsförening,innebandy",""
+"1233467842","802467-7547","Södra Kurvan","http://sodrakurvan.se/","supporterklubb",""
 "1233469004","802446-1058","Golden Retrieverklubben Skåne/Blekinge","https://www.skane.goldenklubben.se/","hundklubb,hundsport",""
 "1233469293","556707-2334","Hallberg-Rassy Varvs AB","https://www.hallberg-rassy.com/","båttillverkning,båtvarv,segling",""
 "1233474350","829501-9627","Växjöortens Folkdanslag","https://www.vaxjofolkdans.se/","folkdans,förening,intresseorganisation",""
