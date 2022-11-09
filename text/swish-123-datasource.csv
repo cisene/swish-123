@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-11-09-rev-014953
+# Date: 2022-11-09-rev-173554
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -613,6 +613,7 @@
 "1231345321","833600-7987","Västerviks Kennelklubb","https://www.vastervikskennelklubb.se/","hundsport,kennelklubb",""
 "1231346071","802530-6070","Kungsbacka MMA Klubb","https://kungsbackamma.se/","idrottsförening,kampsportsförening",""
 "1231347871","827001-1607","FMK Höglandet","https://fmk-hoglandet.webnode.se/","bilklubb,fordonhistoria",""
+"1231350792","802409-4727","Spelberoendes Riksförbund","https://spelberoende.se/","riksförbund",""
 "1231355189","897300-0261","Kiruna jakt- och fiskevårdsförening","https://www.kirunajaktochfiske.se/","förening,naturvård,viltvård","Arkarrende"
 "1231357714","556898-9254","Sverige Runt AB","https://sverigerunt.org/","frågesport,nöje,sport",""
 "1231358860","802535-1399","Kungsleden Hiking Society","https://kungsledenhiking.se/","förening",""
@@ -1225,6 +1226,7 @@
 "1232541613","802523-4066","Tjejjouren Luleå","https://www.unizonjourer.se/tjejjourenlulea/","kvinnojour,tjejjour",""
 "1232541936","701212-XXXX","Lyrestads Hundcenter / Eva Gustavsson","http://lyrestadshundcenter.se/","djurskydd,hundhem",""
 "1232545861","802535-6026","Växjö OCR Förening","https://www.vaxjoocr.se/","hinderbana,träning",""
+"1232555233","802531-7101","Fredagsgruppen","","intresseförening",""
 "1232555373","846001-0583","Skånes BF","https://www.svenskbridge.se/skånes-bf","bridgeklubb",""
 "1232556009","802424-1948","Stiftelsen Ekolsunds Slott och Park","https://www.ekolsundsslott.se/","stiftelse,yoga",""
 "1232556066","864500-7975","Östra Stadsgränsen TK","http://www.ostk.se/","bordtennisklubb,tennisklubb",""
@@ -1458,6 +1460,7 @@
 "1232980456","863500-3802","Skepplanda BTK","https://www.laget.se/Skepplanda/","fotbollsklubb,idrottsförening","Försäljning"
 "1232980878","802004-9451","Tenstakyrkan","http://www.tenstakyrkan.se/","donation,religion",""
 "1232981710","559350-3799","metmask.com / Animal-A Alltjänst AB","https://metmask.com/","fiske",""
+"1232981785","802003-1434","Solvalla Amatörklubb","http://solvalla-amatorklubb.se/","travsport",""
 "1232990513","802432-7630","Hundar Utan Hem","https://hundarutanhem.se/","djurskydd","Adoptionsavgift"
 "1232990687","818000-1029","Eskilstuna GUIF IF","https://www.guif.nu/","handbollsklubb,idrottsförening","Å-loppet"
 "1232991826","630222-XXXX","Maingat Yoga Västervik / Kerstin Severin","http://www.maingatyoga.se/","yoga",""
@@ -2496,6 +2499,7 @@
 "1235127857","802495-4789","Nya Åhusparken","https://nyaahusparken.se/","intresseförening,kulturförening",""
 "1235128087","556947-7812","AP Häst AB","https://aphast.se/","ridskola",""
 "1235128970","885501-2855","IF Aerostep Company - Korpen","https://www.aerostepcompany.com/","idrottsförening",""
+"1235133178","814400-9902","Freija Roslagens företagarkvinnor","https://freija.se/","företagande",""
 "1235136544","802479-5943","Stiftelse Coelho Growth Foundation","http://coelhogrowth.com/","stiftelse",""
 "1235136775","894700-9505","Skellefteå Scoutkår","https://skellefte.scout.se/","scoutkår",""
 "1235138573","878000-0421","Pingstförsamlingen Hallstahammar","https://www.kyrktorget.se/","religion",""

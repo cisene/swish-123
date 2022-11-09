@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-09-rev-014953",
+    "date": "2022-11-09-rev-173554",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5928,6 +5928,15 @@
         "fordonhistoria"
       ],
       "web": "https://fmk-hoglandet.webnode.se/"
+    },
+    {
+      "entry": 1231350792,
+      "orgNumber": "802409-4727",
+      "orgName": "Spelberoendes Riksf\u00f6rbund",
+      "categories": [
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://spelberoende.se/"
     },
     {
       "entry": 1231355189,
@@ -11918,6 +11927,14 @@
       "web": "https://www.vaxjoocr.se/"
     },
     {
+      "entry": 1232555233,
+      "orgNumber": "802531-7101",
+      "orgName": "Fredagsgruppen",
+      "categories": [
+        "intressef\u00f6rening"
+      ]
+    },
+    {
       "entry": 1232555373,
       "orgNumber": "846001-0583",
       "orgName": "Sk\u00e5nes BF",
@@ -14190,6 +14207,15 @@
         "fiske"
       ],
       "web": "https://metmask.com/"
+    },
+    {
+      "entry": 1232981785,
+      "orgNumber": "802003-1434",
+      "orgName": "Solvalla Amat\u00f6rklubb",
+      "categories": [
+        "travsport"
+      ],
+      "web": "http://solvalla-amatorklubb.se/"
     },
     {
       "entry": 1232990513,
@@ -24256,6 +24282,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.aerostepcompany.com/"
+    },
+    {
+      "entry": 1235133178,
+      "orgNumber": "814400-9902",
+      "orgName": "Freija Roslagens f\u00f6retagarkvinnor",
+      "categories": [
+        "f\u00f6retagande"
+      ],
+      "web": "https://freija.se/"
     },
     {
       "entry": 1235136544,

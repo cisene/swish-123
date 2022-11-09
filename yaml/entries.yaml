@@ -5361,6 +5361,14 @@ entries:
   - fordonhistoria
   web: https://fmk-hoglandet.webnode.se/
 
+- entry: 1231350792
+  orgName: Spelberoendes Riksförbund
+  orgNumber: 802409-4727
+  comment: null
+  categories:
+  - riksförbund
+  web: https://spelberoende.se/
+
 - entry: 1231355189
   orgName: Kiruna jakt- och fiskevårdsförening
   orgNumber: 897300-0261
@@ -10726,6 +10734,14 @@ entries:
   - träning
   web: https://www.vaxjoocr.se/
 
+- entry: 1232555233
+  orgName: Fredagsgruppen
+  orgNumber: 802531-7101
+  comment: null
+  categories:
+  - intresseförening
+  web: null
+
 - entry: 1232555373
   orgName: Skånes BF
   orgNumber: 846001-0583
@@ -12761,6 +12777,14 @@ entries:
   categories:
   - fiske
   web: https://metmask.com/
+
+- entry: 1232981785
+  orgName: Solvalla Amatörklubb
+  orgNumber: 802003-1434
+  comment: null
+  categories:
+  - travsport
+  web: http://solvalla-amatorklubb.se/
 
 - entry: 1232990513
   orgName: Hundar Utan Hem
@@ -21887,6 +21911,14 @@ entries:
   categories:
   - idrottsförening
   web: https://www.aerostepcompany.com/
+
+- entry: 1235133178
+  orgName: Freija Roslagens företagarkvinnor
+  orgNumber: 814400-9902
+  comment: null
+  categories:
+  - företagande
+  web: https://freija.se/
 
 - entry: 1235136544
   orgName: Stiftelse Coelho Growth Foundation

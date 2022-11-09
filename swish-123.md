@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-11-09-rev-014953
+Date:     2022-11-09-rev-173554
 ...
 
 # Swish 123 Nummer
@@ -615,6 +615,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231345321 | 833600-7987 | Västerviks Kennelklubb                                                                               | [Link](https://www.vastervikskennelklubb.se/) |
 | 1231346071 | 802530-6070 | Kungsbacka MMA Klubb                                                                                 | [Link](https://kungsbackamma.se/) |
 | 1231347871 | 827001-1607 | FMK Höglandet                                                                                        | [Link](https://fmk-hoglandet.webnode.se/) |
+| 1231350792 | 802409-4727 | Spelberoendes Riksförbund                                                                            | [Link](https://spelberoende.se/) |
 | 1231355189 | 897300-0261 | Kiruna jakt- och fiskevårdsförening                                                                  | [Link](https://www.kirunajaktochfiske.se/) |
 | 1231357714 | 556898-9254 | Sverige Runt AB                                                                                      | [Link](https://sverigerunt.org/) |
 | 1231358860 | 802535-1399 | Kungsleden Hiking Society                                                                            | [Link](https://kungsledenhiking.se/) |
@@ -1227,6 +1228,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232541613 | 802523-4066 | Tjejjouren Luleå                                                                                     | [Link](https://www.unizonjourer.se/tjejjourenlulea/) |
 | 1232541936 | 701212-XXXX | Lyrestads Hundcenter / Eva Gustavsson                                                                | [Link](http://lyrestadshundcenter.se/) |
 | 1232545861 | 802535-6026 | Växjö OCR Förening                                                                                   | [Link](https://www.vaxjoocr.se/) |
+| 1232555233 | 802531-7101 | Fredagsgruppen                                                                                       | -                   |
 | 1232555373 | 846001-0583 | Skånes BF                                                                                            | [Link](https://www.svenskbridge.se/skånes-bf) |
 | 1232556009 | 802424-1948 | Stiftelsen Ekolsunds Slott och Park                                                                  | [Link](https://www.ekolsundsslott.se/) |
 | 1232556066 | 864500-7975 | Östra Stadsgränsen TK                                                                                | [Link](http://www.ostk.se/) |
@@ -1460,6 +1462,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232980456 | 863500-3802 | Skepplanda BTK                                                                                       | [Link](https://www.laget.se/Skepplanda/) |
 | 1232980878 | 802004-9451 | Tenstakyrkan                                                                                         | [Link](http://www.tenstakyrkan.se/) |
 | 1232981710 | 559350-3799 | metmask.com / Animal-A Alltjänst AB                                                                  | [Link](https://metmask.com/) |
+| 1232981785 | 802003-1434 | Solvalla Amatörklubb                                                                                 | [Link](http://solvalla-amatorklubb.se/) |
 | 1232990513 | 802432-7630 | Hundar Utan Hem                                                                                      | [Link](https://hundarutanhem.se/) |
 | 1232990687 | 818000-1029 | Eskilstuna GUIF IF                                                                                   | [Link](https://www.guif.nu/) |
 | 1232991826 | 630222-XXXX | Maingat Yoga Västervik / Kerstin Severin                                                             | [Link](http://www.maingatyoga.se/) |
@@ -2498,6 +2501,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235127857 | 802495-4789 | Nya Åhusparken                                                                                       | [Link](https://nyaahusparken.se/) |
 | 1235128087 | 556947-7812 | AP Häst AB                                                                                           | [Link](https://aphast.se/) |
 | 1235128970 | 885501-2855 | IF Aerostep Company - Korpen                                                                         | [Link](https://www.aerostepcompany.com/) |
+| 1235133178 | 814400-9902 | Freija Roslagens företagarkvinnor                                                                    | [Link](https://freija.se/) |
 | 1235136544 | 802479-5943 | Stiftelse Coelho Growth Foundation                                                                   | [Link](http://coelhogrowth.com/) |
 | 1235136775 | 894700-9505 | Skellefteå Scoutkår                                                                                  | [Link](https://skellefte.scout.se/) |
 | 1235138573 | 878000-0421 | Pingstförsamlingen Hallstahammar                                                                     | [Link](https://www.kyrktorget.se/) |
