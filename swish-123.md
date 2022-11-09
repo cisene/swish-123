@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-11-06-rev-160933
+Date:     2022-11-09-rev-014953
 ...
 
 # Swish 123 Nummer
@@ -1452,6 +1452,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232957595 | 769621-4548 | Strädelängan Ekonomisk förening                                                                      | [Link](https://www.stradelangan.se/) |
 | 1232961100 | 822002-7737 | Föreningshuset Fontänen                                                                              | [Link](https://www.fontanen.se/) |
 | 1232963148 | 559200-1084 | Period Pack Sweden AB                                                                                | [Link](https://periodpack.se/) |
+| 1232965416 | 559277-9580 | Nils Bastu Spa AB                                                                                    | [Link](https://spastockholm.me/) |
 | 1232967776 | 750316-XXXX | Ingrid Unsöld                                                                                        | [Link](https://ingridunsold.se/) |
 | 1232968477 | 842000-4825 | Hästhagens Ryttarförening i Billinge                                                                 | [Link](https://www.harf.se/) |
 | 1232979110 | 802526-5110 | Beroendevårdens Framtid                                                                              | [Link](https://www.beroendevardensframtid.se/) |
@@ -1812,6 +1813,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233658739 | 864501-1738 | Sandareds Scoutkår                                                                                   | [Link](https://sandared.scout.se/) |
 | 1233662541 | 882601-7074 | Stiftelsen Estoniaoffren och Anhöriga, SEA                                                           | [Link](https://www.seainfo.se/) |
 | 1233664539 | 844001-0422 | Bosnisk Islamiska Kultur Föreningen-Landskrona                                                       | [Link](https://www.izblandskrona.se/) |
+| 1233665635 | 559123-6848 | Kronogård Nord AB                                                                                    | [Link](https://www.kronogard.com/) |
 | 1233678505 | 802490-7720 | Brottsofferjouren Stockholm - Gotland                                                                | [Link](https://www.brottsofferjouren.se/) |
 | 1233678802 | 802495-9697 | Existera                                                                                             | [Link](https://www.existera.org/) |
 | 1233680402 | 556599-0727 | Malins Skafferi AB                                                                                   | [Link](https://www.malins-skafferi.se/) |
@@ -2403,6 +2405,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234971040 | 802451-8261 | Tjörns Släktforskare                                                                                 | [Link](http://www.tjsf.org/) |
 | 1234971073 | 868400-1947 | Skaraortens Ryttarförening                                                                           | [Link](https://skaraortensrf.se/) |
 | 1234971941 | 802481-1419 | Idrottsgalans Insamlingsstiftelse Fair Play                                                          | [Link](https://www.fairplaysverige.se/) |
+| 1234972600 | 559246-5537 | Häståkeriet Djurgården AB                                                                            | [Link](https://www.hastakeriet.se/) |
 | 1234980496 | 802463-6543 | Frihet och Hälsa / Nuidag.se                                                                         | [Link](https://frihetochhalsa.se/) |
 | 1234984647 | 769621-0421 | Karbenning Bygdegårdförening                                                                         | [Link](https://bygdegardarna.se/karbenning/) |
 | 1234986915 | 802525-0310 | Bensinupproret 2.0 / Föreningen Uppror                                                               | [Link](https://www.bransleupproret.se/) |

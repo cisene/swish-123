@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-11-06-rev-160933
+# Date: 2022-11-09-rev-014953
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1450,6 +1450,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232957595	769621-4548	Strädelängan Ekonomisk förening	https://www.stradelangan.se/	förening,intresseförening	
 1232961100	822002-7737	Föreningshuset Fontänen	https://www.fontanen.se/	cafe,förening	
 1232963148	559200-1084	Period Pack Sweden AB	https://periodpack.se/	försäljning,sanitetsprodukter	
+1232965416	559277-9580	Nils Bastu Spa AB	https://spastockholm.me/	bastukultur,spakultur	
 1232967776	750316-XXXX	Ingrid Unsöld	https://ingridunsold.se/	keramik,konst	
 1232968477	842000-4825	Hästhagens Ryttarförening i Billinge	https://www.harf.se/	ridsport,ryttarförening	
 1232979110	802526-5110	Beroendevårdens Framtid	https://www.beroendevardensframtid.se/	beroendeproblematik	
@@ -1810,6 +1811,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233658739	864501-1738	Sandareds Scoutkår	https://sandared.scout.se/	scoutkår	
 1233662541	882601-7074	Stiftelsen Estoniaoffren och Anhöriga, SEA	https://www.seainfo.se/	stiftelse	
 1233664539	844001-0422	Bosnisk Islamiska Kultur Föreningen-Landskrona	https://www.izblandskrona.se/	hemlandsförening	
+1233665635	559123-6848	Kronogård Nord AB	https://www.kronogard.com/	camping,konferens,stuguthyrning	
 1233678505	802490-7720	Brottsofferjouren Stockholm - Gotland	https://www.brottsofferjouren.se/	intresseförening	
 1233678802	802495-9697	Existera	https://www.existera.org/	kvinnojour,tjejjour	
 1233680402	556599-0727	Malins Skafferi AB	https://www.malins-skafferi.se/	catering,restaurant	
@@ -2295,7 +2297,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234675047	802478-1414	Indo-Swedish Rheumatology Foundation, ISRF	https://shakuntalahospital.com/	hälsovård,reumatism,stiftelse	
 1234675617	875001-4436	Älvtomta koloni 055	http://www.alvtomtakoloni.se/	koloniförening,trädgårdsförening	
 1234676003	823000-0377	Pingstkyrkan Mjölby	https://www.pingstmjolby.se/	religion	
-1234676060	802443-0327	Örebro Boulesällskap	http://oreboule.se/	boule	
+1234676060	802443-0327	Örebro Boulesällskap	http://oreboule.se/	boule,bouleklubb	
 1234677431	802015-8476	Stiftelsen Ronald McDonald Barnfond Huddinge	https://huddinge.ronaldmcdonaldhus.se/	hjälporganisation,stiftelse	
 1234677654	802476-2646	Sektion 84	http://www.sektion84.se/	supporterklubb	
 1234688081	853300-5677	Tjörns RK	https://www.tjornsridklubb.com/	hästsport,ridklubb	
@@ -2401,6 +2403,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234971040	802451-8261	Tjörns Släktforskare	http://www.tjsf.org/	förening,genealogi,släktforskning	
 1234971073	868400-1947	Skaraortens Ryttarförening	https://skaraortensrf.se/	hästsport,ridklubb,ridskola,ryttarförening	Kiosk
 1234971941	802481-1419	Idrottsgalans Insamlingsstiftelse Fair Play	https://www.fairplaysverige.se/	stiftelse	
+1234972600	559246-5537	Häståkeriet Djurgården AB	https://www.hastakeriet.se/	event,konferens,turridning	
 1234980496	802463-6543	Frihet och Hälsa / Nuidag.se	https://frihetochhalsa.se/		Skola
 1234984647	769621-0421	Karbenning Bygdegårdförening	https://bygdegardarna.se/karbenning/	bygdegårdsförening	
 1234986915	802525-0310	Bensinupproret 2.0 / Föreningen Uppror	https://www.bransleupproret.se/	folkrörelse	

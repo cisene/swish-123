@@ -12693,6 +12693,15 @@ entries:
   - sanitetsprodukter
   web: https://periodpack.se/
 
+- entry: 1232965416
+  orgName: Nils Bastu Spa AB
+  orgNumber: 559277-9580
+  comment: null
+  categories:
+  - bastukultur
+  - spakultur
+  web: https://spastockholm.me/
+
 - entry: 1232967776
   orgName: Ingrid Unsöld
   orgNumber: 750316-XXXX
@@ -15878,6 +15887,16 @@ entries:
   categories:
   - hemlandsförening
   web: https://www.izblandskrona.se/
+
+- entry: 1233665635
+  orgName: Kronogård Nord AB
+  orgNumber: 559123-6848
+  comment: null
+  categories:
+  - camping
+  - konferens
+  - stuguthyrning
+  web: https://www.kronogard.com/
 
 - entry: 1233669348
   orgName: null
@@ -20140,6 +20159,7 @@ entries:
   comment: null
   categories:
   - boule
+  - bouleklubb
   web: http://oreboule.se/
 
 - entry: 1234677431
@@ -21040,6 +21060,16 @@ entries:
   categories:
   - stiftelse
   web: https://www.fairplaysverige.se/
+
+- entry: 1234972600
+  orgName: Häståkeriet Djurgården AB
+  orgNumber: 559246-5537
+  comment: null
+  categories:
+  - event
+  - konferens
+  - turridning
+  web: https://www.hastakeriet.se/
 
 - entry: 1234980496
   orgName: Frihet och Hälsa / Nuidag.se

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-06-rev-160933",
+    "date": "2022-11-09-rev-014953",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -14115,6 +14115,16 @@
       "web": "https://periodpack.se/"
     },
     {
+      "entry": 1232965416,
+      "orgNumber": "559277-9580",
+      "orgName": "Nils Bastu Spa AB",
+      "categories": [
+        "bastukultur",
+        "spakultur"
+      ],
+      "web": "https://spastockholm.me/"
+    },
+    {
       "entry": 1232967776,
       "orgNumber": "750316-XXXX",
       "orgName": "Ingrid Uns\u00f6ld",
@@ -17607,6 +17617,17 @@
         "hemlandsf\u00f6rening"
       ],
       "web": "https://www.izblandskrona.se/"
+    },
+    {
+      "entry": 1233665635,
+      "orgNumber": "559123-6848",
+      "orgName": "Kronog\u00e5rd Nord AB",
+      "categories": [
+        "camping",
+        "konferens",
+        "stuguthyrning"
+      ],
+      "web": "https://www.kronogard.com/"
     },
     {
       "entry": 1233678505,
@@ -22315,7 +22336,8 @@
       "orgNumber": "802443-0327",
       "orgName": "\u00d6rebro Boules\u00e4llskap",
       "categories": [
-        "boule"
+        "boule",
+        "bouleklubb"
       ],
       "web": "http://oreboule.se/"
     },
@@ -23330,6 +23352,17 @@
         "stiftelse"
       ],
       "web": "https://www.fairplaysverige.se/"
+    },
+    {
+      "entry": 1234972600,
+      "orgNumber": "559246-5537",
+      "orgName": "H\u00e4st\u00e5keriet Djurg\u00e5rden AB",
+      "categories": [
+        "event",
+        "konferens",
+        "turridning"
+      ],
+      "web": "https://www.hastakeriet.se/"
     },
     {
       "entry": 1234980496,
