@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-10-rev-234011",
+    "date": "2022-11-13-rev-035224",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1655,6 +1655,15 @@
       "web": "https://www.bjellefors.se/"
     },
     {
+      "entry": 1230396150,
+      "orgNumber": "556412-9053",
+      "orgName": "Veckans Valfl\u00e4sk / Aktiebolaget Zenskr\u00e4ck",
+      "categories": [
+        "politisk kommentar"
+      ],
+      "web": "https://www.patreon.com/user/creators?u=71624390"
+    },
+    {
       "entry": 1230399717,
       "orgNumber": "556655-1718",
       "orgName": "Faktum Sk\u00e5ne AB",
@@ -2322,6 +2331,16 @@
         "hundsport"
       ],
       "web": "http://upplandstaxklubb.com/"
+    },
+    {
+      "entry": 1230563395,
+      "orgNumber": "857210-0579",
+      "orgName": "Riksf\u00f6rbundet f\u00f6r ME-patienter, RME",
+      "categories": [
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://rme.nu/"
     },
     {
       "entry": 1230564146,
@@ -3447,6 +3466,16 @@
         "kiosk",
         "restaurant"
       ]
+    },
+    {
+      "entry": 1230822155,
+      "orgNumber": "802414-5081",
+      "orgName": "\u00d6rebro Katthem",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://orebrokatthem.com/"
     },
     {
       "entry": 1230822544,
@@ -4579,6 +4608,15 @@
         "religion"
       ],
       "web": "http://pannkakskyrkan.se/"
+    },
+    {
+      "entry": 1231053727,
+      "orgNumber": "802441-2952",
+      "orgName": "Nossan Ljusfestival / Gr\u00e4storps framtidsf\u00f6rening",
+      "categories": [
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/nossanljusfestival/"
     },
     {
       "entry": 1231055888,
@@ -7071,6 +7109,15 @@
       "web": "https://idrottonline.se/SparvagensVeteranBTK-Bordtennis/"
     },
     {
+      "entry": 1231543024,
+      "orgNumber": "559080-2541",
+      "orgName": "Historical textiles AB",
+      "categories": [
+        "textil"
+      ],
+      "web": "https://historicaltextiles.org/"
+    },
+    {
       "entry": 1231543974,
       "orgNumber": "898500-8096",
       "orgName": "Samesl\u00f6jdstiftelsen S\u00e1mi Duodji",
@@ -8529,7 +8576,7 @@
         "djurskydd",
         "katthem"
       ],
-      "web": "http://www.frusnatassar.se/"
+      "web": "https://www.frusnatassar.se/"
     },
     {
       "entry": 1231812296,
@@ -10263,6 +10310,15 @@
         "konst\u00e5kning"
       ],
       "web": "https://idrottonline.se/TimraKK-Konstakning/"
+    },
+    {
+      "entry": 1232187383,
+      "orgNumber": "559088-3731",
+      "orgName": "MW's Mat AB",
+      "categories": [
+        "catering"
+      ],
+      "web": "https://mwsmat.se/"
     },
     {
       "entry": 1232189322,
@@ -13849,6 +13905,16 @@
       "web": "https://www.ribiof.com/"
     },
     {
+      "entry": 1232861532,
+      "orgNumber": "252001-0055",
+      "orgName": "\u00c5hus F\u00f6rsamling",
+      "comment": "G\u00e5vor och kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ahus"
+    },
+    {
       "entry": 1232861623,
       "orgNumber": "865000-8397",
       "orgName": "Friskis & Svettis Svenljunga",
@@ -14296,6 +14362,15 @@
         "utbildning"
       ],
       "web": "https://www.uppakra.se/"
+    },
+    {
+      "entry": 1232945806,
+      "orgNumber": "556975-9367",
+      "orgName": "Pub Stallyktan / Stallyktan AB",
+      "categories": [
+        "restaurant"
+      ],
+      "web": "https://www.stallyktan.se/"
     },
     {
       "entry": 1232956449,
@@ -15064,6 +15139,15 @@
         "filateli"
       ],
       "web": "http://www.junefil.se/"
+    },
+    {
+      "entry": 1233112208,
+      "orgNumber": "252001-0055",
+      "orgName": "\u00c5hus F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ahus"
     },
     {
       "entry": 1233112679,
@@ -19508,6 +19592,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.kalixbasket.se/"
+    },
+    {
+      "entry": 1234007605,
+      "orgNumber": "893200-5989",
+      "orgName": "Sundsj\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/sundsjo"
     },
     {
       "entry": 1234009692,
@@ -24921,6 +25014,24 @@
       "web": "https://www.brottsofferjouren.se/"
     },
     {
+      "entry": 1235166095,
+      "orgNumber": "802449-4372",
+      "orgName": "R\u00e4dda Djuren",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "https://raddadjuren.org/"
+    },
+    {
+      "entry": 1235166103,
+      "orgNumber": "012389-5526",
+      "orgName": "SPF Seniorerna Toarp-Dalsj\u00f6fors",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-toarp-dalsjofors/"
+    },
+    {
       "entry": 1235166319,
       "orgNumber": "252004-0961",
       "orgName": "Estuna-S\u00f6derbykarls f\u00f6rsamling",
@@ -25571,6 +25682,15 @@
       ]
     },
     {
+      "entry": 1235324140,
+      "orgNumber": "802522-9660",
+      "orgName": "Libras Hundhj\u00e4lp",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "https://www.facebook.com/profile.php?id=100080096693624"
+    },
+    {
       "entry": 1235325824,
       "orgNumber": "556677-9244",
       "orgName": "Sj\u00f6lin & Lantz AB",
@@ -25874,6 +25994,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/husie.html"
+    },
+    {
+      "entry": 1235382205,
+      "orgNumber": "556810-7220",
+      "orgName": "Lahti Group AB",
+      "categories": [
+        "byggnation",
+        "renovering"
+      ],
+      "web": "https://lahtigroup.se/"
     },
     {
       "entry": 1235382841,
@@ -27180,6 +27310,16 @@
         "hundklubb"
       ],
       "web": "https://dalarnasdk.se/"
+    },
+    {
+      "entry": 1235618715,
+      "orgNumber": "840113-XXXX",
+      "orgName": "Barig\u00e5rds Ishestar / Emma Barig\u00e5rd",
+      "categories": [
+        "h\u00e4stsport",
+        "islandsh\u00e4st"
+      ],
+      "web": "http://www.barigard.se/"
     },
     {
       "entry": 1235619044,

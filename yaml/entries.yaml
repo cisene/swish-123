@@ -1503,6 +1503,14 @@ entries:
   - trycksaker
   web: https://www.bjellefors.se/
 
+- entry: 1230396150
+  orgName: Veckans Valfläsk / Aktiebolaget Zenskräck
+  orgNumber: 556412-9053
+  comment: null
+  categories:
+  - politisk kommentar
+  web: https://www.patreon.com/user/creators?u=71624390
+
 - entry: 1230398883
   orgName: Cykelregister.se
   orgNumber: null
@@ -2122,6 +2130,15 @@ entries:
   - hundklubb
   - hundsport
   web: http://upplandstaxklubb.com/
+
+- entry: 1230563395
+  orgName: Riksförbundet för ME-patienter, RME
+  orgNumber: 857210-0579
+  comment: null
+  categories:
+  - patientförening
+  - riksförbund
+  web: https://rme.nu/
 
 - entry: 1230564146
   orgName: Musethica Sverige
@@ -3126,6 +3143,15 @@ entries:
   - kiosk
   - restaurant
   web: null
+
+- entry: 1230822155
+  orgName: Örebro Katthem
+  orgNumber: 802414-5081
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://orebrokatthem.com/
 
 - entry: 1230822544
   orgName: Theleborgs RS - Ridsport
@@ -4133,6 +4159,14 @@ entries:
   categories:
   - religion
   web: http://pannkakskyrkan.se/
+
+- entry: 1231053727
+  orgName: Nossan Ljusfestival / Grästorps framtidsförening
+  orgNumber: 802441-2952
+  comment: null
+  categories:
+  - kulturförening
+  web: https://www.facebook.com/nossanljusfestival/
 
 - entry: 1231055888
   orgName: Slättåkragården Förening
@@ -6388,6 +6422,14 @@ entries:
   - idrottsförening
   web: https://idrottonline.se/SparvagensVeteranBTK-Bordtennis/
 
+- entry: 1231543024
+  orgName: Historical textiles AB
+  orgNumber: 559080-2541
+  comment: null
+  categories:
+  - textil
+  web: https://historicaltextiles.org/
+
 - entry: 1231543974
   orgName: Sameslöjdstiftelsen Sámi Duodji
   orgNumber: 898500-8096
@@ -7693,7 +7735,7 @@ entries:
   categories:
   - djurskydd
   - katthem
-  web: http://www.frusnatassar.se/
+  web: https://www.frusnatassar.se/
 
 - entry: 1231812296
   orgName: Holsby Frikyrka
@@ -9242,6 +9284,14 @@ entries:
   - idrottsförening
   - konståkning
   web: https://idrottonline.se/TimraKK-Konstakning/
+
+- entry: 1232187383
+  orgName: MW's Mat AB
+  orgNumber: 559088-3731
+  comment: null
+  categories:
+  - catering
+  web: https://mwsmat.se/
 
 - entry: 1232189322
   orgName: Halmstad University Solar Team
@@ -12462,6 +12512,14 @@ entries:
   - förening
   web: https://www.ribiof.com/
 
+- entry: 1232861532
+  orgName: Åhus Församling
+  orgNumber: 252001-0055
+  comment: Gåvor och kollekt
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ahus
+
 - entry: 1232861623
   orgName: Friskis & Svettis Svenljunga
   orgNumber: 865000-8397
@@ -12865,6 +12923,14 @@ entries:
   - arkeologi
   - utbildning
   web: https://www.uppakra.se/
+
+- entry: 1232945806
+  orgName: Pub Stallyktan / Stallyktan AB
+  orgNumber: 556975-9367
+  comment: null
+  categories:
+  - restaurant
+  web: https://www.stallyktan.se/
 
 - entry: 1232956449
   orgName: Källslättenföreningen
@@ -13558,6 +13624,14 @@ entries:
   - filateli
   web: http://www.junefil.se/
 
+- entry: 1233112208
+  orgName: Åhus Församling
+  orgNumber: 252001-0055
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ahus
+
 - entry: 1233112679
   orgName: Ramsberg - En bygd i Bergslagen
   orgNumber: 875002-9558
@@ -13943,6 +14017,13 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Vasteras/
+
+- entry: 1233199767
+  orgName: Stiko Per Larsson
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.stikoperlarsson.com/
 
 - entry: 1233200250
   orgName: Lions Club Hedemora
@@ -17612,6 +17693,14 @@ entries:
   - idrottsförening
   web: https://www.kalixbasket.se/
 
+- entry: 1234007605
+  orgName: Sundsjö Hembygdsförening
+  orgNumber: 893200-5989
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/sundsjo
+
 - entry: 1234009692
   orgName: Melodifestivalklubben
   orgNumber: 802421-0935
@@ -18639,6 +18728,13 @@ entries:
   - pistolskytteklubb
   - skytte
   web: https://www.fokboras.se/
+
+- entry: 1234245437
+  orgName: REKO-ring Arvika
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1234247896
   orgName: Säve Rödbo Hembygdsförening
@@ -22494,6 +22590,22 @@ entries:
   - intresseförening
   web: https://www.brottsofferjouren.se/
 
+- entry: 1235166095
+  orgName: Rädda Djuren
+  orgNumber: 802449-4372
+  comment: null
+  categories:
+  - djurskydd
+  web: https://raddadjuren.org/
+
+- entry: 1235166103
+  orgName: SPF Seniorerna Toarp-Dalsjöfors
+  orgNumber: 012389-5526
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-toarp-dalsjofors/
+
 - entry: 1235166319
   orgName: Estuna-Söderbykarls församling
   orgNumber: 252004-0961
@@ -23090,6 +23202,14 @@ entries:
   - pt
   web: null
 
+- entry: 1235324140
+  orgName: Libras Hundhjälp
+  orgNumber: 802522-9660
+  comment: null
+  categories:
+  - djurskydd
+  web: https://www.facebook.com/profile.php?id=100080096693624
+
 - entry: 1235325824
   orgName: Sjölin & Lantz AB
   orgNumber: 556677-9244
@@ -23360,6 +23480,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/husie.html
+
+- entry: 1235382205
+  orgName: Lahti Group AB
+  orgNumber: 556810-7220
+  comment: null
+  categories:
+  - byggnation
+  - renovering
+  web: https://lahtigroup.se/
 
 - entry: 1235382841
   orgName: Somaya kvinno- och tjejjour
@@ -24542,6 +24671,15 @@ entries:
   categories:
   - hundklubb
   web: https://dalarnasdk.se/
+
+- entry: 1235618715
+  orgName: Barigårds Ishestar / Emma Barigård
+  orgNumber: 840113-XXXX
+  comment: null
+  categories:
+  - hästsport
+  - islandshäst
+  web: http://www.barigard.se/
 
 - entry: 1235619044
   orgName: Brf Akallahöjden
@@ -30326,6 +30464,14 @@ entries:
   categories:
   - religion
   web: https://heartofevangelism.com/
+
+- entry: 1236936827
+  orgName: Hunt Saboteurs Sweden
+  orgNumber: null
+  comment: null
+  categories:
+  - terminated
+  web: null
 
 - entry: 1236941736
   orgName: Agersta Islandshästcenter AB
