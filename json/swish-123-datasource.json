@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-13-rev-035224",
+    "date": "2022-11-13-rev-132856",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -515,6 +515,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.oxyboost-o2sweden.com/"
+    },
+    {
+      "entry": 1230149286,
+      "orgNumber": "212000-0266",
+      "orgName": "Kulturskolan, Tierps Kommun",
+      "categories": [
+        "dans",
+        "musik",
+        "teater"
+      ],
+      "web": "https://www.tierp.se/tierp.se/kultur-fritid-och-friluftsliv/kulturskolan.html"
     },
     {
       "entry": 1230154724,
@@ -5780,6 +5791,15 @@
       "web": "https://www.posk.se/motala/"
     },
     {
+      "entry": 1231298033,
+      "orgNumber": "802442-7414",
+      "orgName": "\u00d6rgrytef\u00f6reningen",
+      "categories": [
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://www.orgryteforeningen.se/"
+    },
+    {
       "entry": 1231300508,
       "orgNumber": "849000-2394",
       "orgName": "Falkenbergs Cykelklubb",
@@ -8130,6 +8150,15 @@
       "web": "https://www.hogbogk.com/"
     },
     {
+      "entry": 1231732700,
+      "orgNumber": "894000-0691",
+      "orgName": "KFUM Ume\u00e5",
+      "categories": [
+        "ungdomsverksamhet"
+      ],
+      "web": "https://umea.kfum.se/"
+    },
+    {
       "entry": 1231732932,
       "orgNumber": "802488-2873",
       "orgName": "Homeless Foundation",
@@ -10100,6 +10129,18 @@
         "kredittj\u00e4nster"
       ],
       "web": "https://sergel.se/"
+    },
+    {
+      "entry": 1232149433,
+      "orgNumber": "857206-3975",
+      "orgName": "F\u00f6reningen Asper\u00f6 Fritid",
+      "categories": [
+        "barnverksamhet",
+        "fritidsaktiviteter",
+        "f\u00f6rening",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://www.asperofritid.se/"
     },
     {
       "entry": 1232155505,
@@ -12207,6 +12248,15 @@
       "web": "https://portal.clubrunner.ca/17254/"
     },
     {
+      "entry": 1232559185,
+      "orgNumber": "802481-4702",
+      "orgName": "Stiftelsen Ellen Bachrachs Minne",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.ellenbachrachsminnesfond.se/"
+    },
+    {
       "entry": 1232561371,
       "orgNumber": "802420-0043",
       "orgName": "Upplands V\u00e4sby Pistolskytteklubb",
@@ -12525,6 +12575,17 @@
       "web": "https://www.lannagk.se/"
     },
     {
+      "entry": 1232630556,
+      "orgNumber": "681129-XXXX",
+      "orgName": "Towas Massage & h\u00e4lsa / Towa Schedvins",
+      "categories": [
+        "kroppsv\u00e5rd",
+        "massage",
+        "yoga"
+      ],
+      "web": "https://www.towas-massage-halsa.se/"
+    },
+    {
       "entry": 1232631299,
       "orgNumber": "889201-3221",
       "orgName": "Aln\u00f6 Hembygdsf\u00f6rening",
@@ -12553,6 +12614,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.korpenstorsjon.se/"
+    },
+    {
+      "entry": 1232632685,
+      "orgNumber": "836201-3289",
+      "orgName": "Nduguf\u00f6reningen",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.ndugu.org/"
     },
     {
       "entry": 1232633832,
@@ -14371,6 +14441,15 @@
         "restaurant"
       ],
       "web": "https://www.stallyktan.se/"
+    },
+    {
+      "entry": 1232946697,
+      "orgNumber": "559142-8916",
+      "orgName": "Nolberga Veterin\u00e4rpraktik - Leg.vet. Annelie Hellstr\u00f6m / Nolberga Veterin\u00e4rpraktik AB",
+      "categories": [
+        "veterin\u00e4r"
+      ],
+      "web": "https://www.nolbergavet.se/"
     },
     {
       "entry": 1232956449,
@@ -16686,7 +16765,7 @@
     {
       "entry": 1233395175,
       "orgNumber": "886000-3907",
-      "orgName": "S\u00f6derhamnsortens RF - Ridsport",
+      "orgName": "S\u00f6derhamnsortens Ryttarf\u00f6rening",
       "categories": [
         "ridklubb",
         "ryttarf\u00f6rening"
@@ -18140,6 +18219,16 @@
         "ridskola"
       ],
       "web": "https://www.vuollerimsridklubb.com/"
+    },
+    {
+      "entry": 1233717378,
+      "orgNumber": "849201-0577",
+      "orgName": "S\u00f6ndrums Tennisklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "tennisklubb"
+      ],
+      "web": "https://www.sondrumstk.se/"
     },
     {
       "entry": 1233718905,
@@ -21800,6 +21889,15 @@
       "web": "https://mih.nu/"
     },
     {
+      "entry": 1234490710,
+      "orgNumber": "893200-4388",
+      "orgName": "\u00d6stersunds Fallsk\u00e4rmsklubb",
+      "categories": [
+        "fallsk\u00e4rmsklubb"
+      ],
+      "web": "https://www.ofsk.net/"
+    },
+    {
       "entry": 1234491437,
       "orgNumber": "826001-4298",
       "orgName": "J\u00f6nk\u00f6pings Karting Club, JKC",
@@ -21921,10 +22019,11 @@
     {
       "entry": 1234513651,
       "orgNumber": "802454-5439",
-      "orgName": "Enk\u00f6pings Kl\u00e4tterklubb - Kl\u00e4ttring",
+      "orgName": "Enk\u00f6pings Kl\u00e4tterklubb",
       "categories": [
         "idrottsf\u00f6rening",
-        "kl\u00e4tterklubb"
+        "kl\u00e4tterklubb",
+        "kl\u00e4ttring"
       ],
       "web": "https://www.enkopingsklatterklubb.se/"
     },
@@ -25372,6 +25471,15 @@
       "web": "https://gnesta-trosa-bk.se/"
     },
     {
+      "entry": 1235252663,
+      "orgNumber": "802450-2653",
+      "orgName": "Club Parapente Syd, CPS",
+      "categories": [
+        "sk\u00e4rmflygning"
+      ],
+      "web": "https://www.cps.to/"
+    },
+    {
       "entry": 1235261805,
       "orgNumber": "894001-0427",
       "orgName": "EFS Missionsf\u00f6rening i S\u00e4var",
@@ -25631,6 +25739,17 @@
         "sk\u00e4rmflygning"
       ],
       "web": "https://fenixflyg.se/"
+    },
+    {
+      "entry": 1235302898,
+      "orgNumber": "802454-5439",
+      "orgName": "Enk\u00f6pings Kl\u00e4tterklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kl\u00e4tterklubb",
+        "kl\u00e4ttring"
+      ],
+      "web": "https://www.enkopingsklatterklubb.se/"
     },
     {
       "entry": 1235310974,
@@ -26275,6 +26394,15 @@
       "web": "http://www.morbylangagoif.com/"
     },
     {
+      "entry": 1235432885,
+      "orgNumber": "556738-9316",
+      "orgName": "Motorrad Nordic AB",
+      "categories": [
+        "tidsskrifter"
+      ],
+      "web": "https://www.bike.se/"
+    },
+    {
       "entry": 1235434865,
       "orgNumber": "833200-3642",
       "orgName": "Vimmerbyortens Ryttarf\u00f6rening",
@@ -26692,6 +26820,15 @@
         "innebandy"
       ],
       "web": "https://www.laget.se/CIF/"
+    },
+    {
+      "entry": 1235514914,
+      "orgNumber": "802445-0424",
+      "orgName": "Bjurholms Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.bjurholmsgk.se/"
     },
     {
       "entry": 1235516026,
@@ -28299,6 +28436,15 @@
         "f\u00f6rening"
       ],
       "web": "https://bullaregarden.webnode.se/"
+    },
+    {
+      "entry": 1235803937,
+      "orgNumber": "769611-9077",
+      "orgName": "HSB Bostadsr\u00e4ttsf\u00f6rening M\u00e4lar\u00e4ngen i J\u00e4rf\u00e4lla",
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/malarangen/"
     },
     {
       "entry": 1235804117,
@@ -30707,6 +30853,17 @@
         "utbildning"
       ],
       "web": "https://spraklararna.se/"
+    },
+    {
+      "entry": 1236275028,
+      "orgNumber": "883201-0782",
+      "orgName": "Spelrum Kammarmusik i Falun",
+      "categories": [
+        "konsert",
+        "kulturf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "http://www.spelrum.se/"
     },
     {
       "entry": 1236275234,
@@ -33162,6 +33319,15 @@
         "lionsklubb"
       ],
       "web": "https://www.lionsboras.se/"
+    },
+    {
+      "entry": 1236826663,
+      "orgNumber": "826500-5234",
+      "orgName": "Brunnsparkskyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.brunnsparkskyrkan.se/"
     },
     {
       "entry": 1236827315,
