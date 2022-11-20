@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-13-rev-132856",
+    "date": "2022-11-20-rev-155125",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -350,6 +350,16 @@
         "psykiatri"
       ],
       "web": "http://www.svenskpsykiatri.se/"
+    },
+    {
+      "entry": 1230095232,
+      "orgNumber": "897000-6733",
+      "orgName": "Lule\u00e5 Hockey",
+      "categories": [
+        "hockeyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.luleahockey.se/"
     },
     {
       "entry": 1230098293,
@@ -981,6 +991,16 @@
         "yoga"
       ],
       "web": "https://www.yogaiakersberga.se/"
+    },
+    {
+      "entry": 1230253989,
+      "orgNumber": "630923-XXXX",
+      "orgName": "Thong Thai Massage / Thongjan Skaar",
+      "categories": [
+        "massage",
+        "thaimassage"
+      ],
+      "web": "http://www.thongthaimassage.com/"
     },
     {
       "entry": 1230259804,
@@ -2108,6 +2128,15 @@
         "restaurant"
       ],
       "web": "https://langberget.se/"
+    },
+    {
+      "entry": 1230491829,
+      "orgNumber": "802491-3082",
+      "orgName": "Fatta!",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.fatta.nu/"
     },
     {
       "entry": 1230492983,
@@ -3564,6 +3593,15 @@
         "spiritualism"
       ],
       "web": "https://www.annikaw.se/"
+    },
+    {
+      "entry": 1230836635,
+      "orgNumber": "878001-6872",
+      "orgName": "Str\u00f6msholms GK",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://stromsholmsgolf.se/"
     },
     {
       "entry": 1230837476,
@@ -5978,6 +6016,16 @@
       "web": "https://fruangensbilskola.se/"
     },
     {
+      "entry": 1231325224,
+      "orgNumber": "680401-XXXX",
+      "orgName": "Vidinge G\u00e5rd / Per Philip",
+      "categories": [
+        "kursg\u00e5rd",
+        "restaurant"
+      ],
+      "web": "https://vidingegard.com/"
+    },
+    {
       "entry": 1231325323,
       "orgNumber": "812800-0646",
       "orgName": "Botkyrka Pingstf\u00f6rsamling",
@@ -8206,6 +8254,15 @@
       "web": "https://www.jarvabygd.se/"
     },
     {
+      "entry": 1231742105,
+      "orgNumber": "570607-XXXX",
+      "orgName": "Sunnansj\u00f6 G\u00e5rd / Gunnar Rundgren",
+      "categories": [
+        "jordbruk"
+      ],
+      "web": "https://sunnansjo.blogspot.com/"
+    },
+    {
       "entry": 1231742287,
       "orgNumber": "814800-2317",
       "orgName": "Pingstf\u00f6rsamlingen Upplands V\u00e4sby",
@@ -8304,6 +8361,16 @@
         "ridsport"
       ],
       "web": "https://www.uppsalaponnyklubb.se/"
+    },
+    {
+      "entry": 1231746510,
+      "orgNumber": "845002-1939",
+      "orgName": "Helsingkrona Nation, Helsingkrona Gilles St\u00f6df\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening",
+        "studentorganisation"
+      ],
+      "web": "https://helsingkrona.se/"
     },
     {
       "entry": 1231747039,
@@ -17881,6 +17948,18 @@
       "web": "https://www.helhetenskraft.com/"
     },
     {
+      "entry": 1233632627,
+      "orgNumber": "802492-2083",
+      "orgName": "Torsten Renqvist S\u00e4llskapet",
+      "categories": [
+        "grafik",
+        "konst",
+        "skulptur",
+        "teckningar"
+      ],
+      "web": "https://www.torstenrenqvist.se/"
+    },
+    {
       "entry": 1233634136,
       "orgNumber": "826000-4497",
       "orgName": "Tabergs Missionsf\u00f6rsamling",
@@ -18590,6 +18669,15 @@
       "web": "https://folkliberalerna.se/"
     },
     {
+      "entry": 1233809753,
+      "orgNumber": "833600-5809",
+      "orgName": "Westerwikspartiet",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://www.westerwikspartiet.nu/"
+    },
+    {
       "entry": 1233811296,
       "orgNumber": "827000-9528",
       "orgName": "Pingst Ung Bromma",
@@ -19216,6 +19304,15 @@
         "religion"
       ],
       "web": "https://kungsor.pingst.se/"
+    },
+    {
+      "entry": 1233930229,
+      "orgNumber": "838201-7518",
+      "orgName": "Wan\u00e5s Konst",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.wanaskonst.se/"
     },
     {
       "entry": 1233930344,
@@ -19957,6 +20054,16 @@
         "hundsport"
       ],
       "web": "https://sbc-beardedcollie.com/"
+    },
+    {
+      "entry": 1234058939,
+      "orgNumber": "802536-3196",
+      "orgName": "Folkets Radio",
+      "categories": [
+        "intressef\u00f6rening",
+        "lokalradio"
+      ],
+      "web": "https://folketsradio.se/"
     },
     {
       "entry": 1234059358,
@@ -25158,6 +25265,16 @@
       "web": "https://swedenunrwareform.org/"
     },
     {
+      "entry": 1235174172,
+      "orgNumber": "802407-0206",
+      "orgName": "Skarpn\u00e4cks AIK",
+      "categories": [
+        "hockeyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://skarpan.com/"
+    },
+    {
       "entry": 1235175492,
       "orgNumber": "825003-7903",
       "orgName": "Friluftsg\u00e5rden Getsj\u00f6torp",
@@ -26992,6 +27109,15 @@
         "lionsklubb"
       ],
       "web": "https://lionsskurup.se/"
+    },
+    {
+      "entry": 1235531389,
+      "orgNumber": "559046-8525",
+      "orgName": "Wickstr\u00f6m Coaching",
+      "categories": [
+        "coaching"
+      ],
+      "web": "https://wickstromcoaching.com/"
     },
     {
       "entry": 1235532064,
@@ -28901,6 +29027,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.tvaakersif.se/"
+    },
+    {
+      "entry": 1235904677,
+      "orgNumber": "878000-5735",
+      "orgName": "Surahammars IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://surahammarsif.se/"
     },
     {
       "entry": 1235909379,
@@ -31942,6 +32077,15 @@
       "web": "https://www.kuoksuhembygd.se/"
     },
     {
+      "entry": 1236515639,
+      "orgNumber": "864000-6063",
+      "orgName": "Antens Gammaldansare",
+      "categories": [
+        "dansf\u00f6rening"
+      ],
+      "web": "https://www.antendansarna.se/"
+    },
+    {
       "entry": 1236515654,
       "orgNumber": "883201-7662",
       "orgName": "Insj\u00f6n-Leksands BK",
@@ -32253,6 +32397,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/gavle/defaultaspxid668646"
+    },
+    {
+      "entry": 1236609093,
+      "orgNumber": "559274-3701",
+      "orgName": "Samtal i Trosa / Finkontoret Sverige AB",
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://samtalitrosa.se/"
     },
     {
       "entry": 1236613087,
