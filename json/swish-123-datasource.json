@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-21-rev-005804",
+    "date": "2022-11-25-rev-021257",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -774,6 +774,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://strangnas.scout.se/"
+    },
+    {
+      "entry": 1230199687,
+      "orgNumber": "817001-4198",
+      "orgName": "Enk\u00f6pings SK UK",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/ESKFOTBOLL/"
     },
     {
       "entry": 1230201194,
@@ -2039,6 +2049,16 @@
       "web": "https://osterakerskonsthall.se/"
     },
     {
+      "entry": 1230472829,
+      "orgNumber": "817606-4346",
+      "orgName": "Eskilstuna Kl\u00e4tterklubb",
+      "categories": [
+        "kl\u00e4tterklubb",
+        "kl\u00e4ttring"
+      ],
+      "web": "http://www.klattring.net/"
+    },
+    {
       "entry": 1230473231,
       "orgNumber": "894700-5842",
       "orgName": "Skellefte\u00e5 CK - Curling",
@@ -2781,6 +2801,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://\u00e5terst\u00e4llv\u00e5tmarker.se/"
+    },
+    {
+      "entry": 1230670091,
+      "orgNumber": "849202-3489",
+      "orgName": "DFK HaSko",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/dfkhaSko"
     },
     {
       "entry": 1230680728,
@@ -5600,6 +5629,15 @@
       "web": "https://vastbojudo.com/"
     },
     {
+      "entry": 1231225473,
+      "orgNumber": "802450-8593",
+      "orgName": "Kubanerna \u00d6rebro",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://kubanerna.se/"
+    },
+    {
       "entry": 1231225614,
       "orgNumber": "857201-0448",
       "orgName": "Fiskeb\u00e4ckskyrkan",
@@ -6067,6 +6105,16 @@
         "religion"
       ],
       "web": "https://www.posk.se/orgryte-pastorat/"
+    },
+    {
+      "entry": 1231322098,
+      "orgNumber": "817001-4198",
+      "orgName": "Enk\u00f6pings SK UK",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/ESKF09/"
     },
     {
       "entry": 1231323435,
@@ -11374,6 +11422,16 @@
       "web": "https://www.sturarna.se/"
     },
     {
+      "entry": 1232303956,
+      "orgNumber": "817001-4198",
+      "orgName": "Enk\u00f6pings SK UK",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/ESKFOTBOLL/"
+    },
+    {
       "entry": 1232304418,
       "orgNumber": "556872-9999",
       "orgName": "Ringens Bilskola AB",
@@ -12506,6 +12564,16 @@
         "stiftelse"
       ],
       "web": "https://doku.nu/"
+    },
+    {
+      "entry": 1232576189,
+      "orgNumber": "559279-6493",
+      "orgName": "Fj\u00e4llbacka B\u00e5t och Bil AB",
+      "categories": [
+        "bilf\u00f6rs\u00e4ljning",
+        "b\u00e5tf\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://fjallbackabatochbil.se/"
     },
     {
       "entry": 1232579696,
@@ -14275,6 +14343,16 @@
         "stuguthyrning"
       ],
       "web": "https://www.norrskenlodge.com/"
+    },
+    {
+      "entry": 1232880946,
+      "orgNumber": "822003-9260",
+      "orgName": "Link\u00f6pings Sportdykarklubb, LSDK",
+      "categories": [
+        "dykarklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://lsdk.se/"
     },
     {
       "entry": 1232881183,
@@ -21105,6 +21183,15 @@
       "web": "http://www.hembygdbankeryd.se/"
     },
     {
+      "entry": 1234229076,
+      "orgNumber": "252003-1564",
+      "orgName": "Vittangi f\u00f6rsamling, Kiruna Pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vittangi"
+    },
+    {
       "entry": 1234229415,
       "orgNumber": "802015-5324",
       "orgName": "Brahma Kumaris Andliga V\u00e4rldsuniversitet",
@@ -22152,6 +22239,17 @@
         "f\u00f6rening"
       ],
       "web": "https://www.swenurse.se/sektionerochnatverk/svenskforeningforsjukskoterskorinomdiabetesvard.4.17badfa01722c2fa1731011e.html"
+    },
+    {
+      "entry": 1234435152,
+      "orgNumber": "802502-7148",
+      "orgName": "Diabetesmammorna",
+      "categories": [
+        "diabetesv\u00e5rd",
+        "patientf\u00f6rening",
+        "utbildning"
+      ],
+      "web": "http://diabetesmammorna.se/"
     },
     {
       "entry": 1234436127,
@@ -23918,6 +24016,16 @@
         "ridsport"
       ],
       "web": "https://naturlarahs.se/"
+    },
+    {
+      "entry": 1234858932,
+      "orgNumber": "843003-3079",
+      "orgName": "Tangorama",
+      "categories": [
+        "dansundervisning",
+        "ideell f\u00f6rening"
+      ],
+      "web": "https://tangorama.se/"
     },
     {
       "entry": 1234862041,
@@ -33396,6 +33504,15 @@
         "juridiska tj\u00e4nster"
       ],
       "web": "https://advokatsimon.se/"
+    },
+    {
+      "entry": 1236741920,
+      "orgNumber": "874001-0528",
+      "orgName": "Konstf\u00f6reningen Fri Form",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.friform.org/"
     },
     {
       "entry": 1236750251,
