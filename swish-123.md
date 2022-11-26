@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-11-26-rev-154004
+Date:     2022-11-26-rev-190912
 ...
 
 # Swish 123 Nummer
@@ -3560,6 +3560,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236959951 | 802006-1688 | Frälsningsarmén                                                                                      | [Link](https://www.fralsningsarmen.se/vilhelmina/) |
 | 1236968424 | 751029-XXXX | The Light of My Soul / Ulrika Knutsdotter                                                            | [Link](https://www.thelightofmysoul.se/) |
 | 1236972020 | 818000-1029 | Eskilstuna GUIF IF                                                                                   | [Link](https://www.guif.nu/) |
+| 1236973663 | 969778-6482 | Mother Mercy                                                                                         | [Link](https://www.facebook.com/MotherMersy/) |
 | 1236991160 | 826000-3614 | Pingstkyrkan Kaxholmen                                                                               | [Link](https://pingstkaxholmen.se/) |
 | 1236991368 | 802011-5484 | Buddhistiska Gemenskapen Triratna                                                                    | [Link](https://www.karuna.org/) |
 | 1236991509 | 866601-0395 | Lions Club Tibro                                                                                     | [Link](https://lionsclubitibro.n.nu/) |

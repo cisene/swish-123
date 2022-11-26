@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-26-rev-154004",
+    "date": "2022-11-26-rev-190912",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -34594,6 +34594,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.guif.nu/"
+    },
+    {
+      "entry": 1236973663,
+      "orgNumber": "969778-6482",
+      "orgName": "Mother Mercy",
+      "categories": [
+        "orkester"
+      ],
+      "web": "https://www.facebook.com/MotherMersy/"
     },
     {
       "entry": 1236991160,
