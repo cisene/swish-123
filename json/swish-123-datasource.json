@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-26-rev-153147",
+    "date": "2022-11-26-rev-154004",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -36828,7 +36828,9 @@
       "orgName": "FOTA - From One To Another",
       "categories": [
         "hj\u00e4lporganisation",
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "utbildning",
+        "utbildningsst\u00f6d"
       ],
       "web": "https://www.fromonetoanother.se/"
     },

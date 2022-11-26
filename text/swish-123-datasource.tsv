@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-11-26-rev-153148
+# Date: 2022-11-26-rev-154004
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3795,7 +3795,7 @@ entry	orgNumber	orgName	web	categories	comment
 1239005794	802401-8213	Asylrättscentrum	https://www.sweref.org/	insamlingskontroll,juridiska tjänster	
 1239005802	802501-4732	Unite 2 Learn	https://www.unite2learn.org/	insamlingskontroll	
 1239005810	802480-0172	Insamlingsstiftelsen NRC Flyktinghjälpen Sverige	https://www.nrc.se/	insamlingskontroll,stiftelse	
-1239005836	802469-5424	FOTA - From One To Another	https://www.fromonetoanother.se/	hjälporganisation,insamlingskontroll	
+1239005836	802469-5424	FOTA - From One To Another	https://www.fromonetoanother.se/	hjälporganisation,insamlingskontroll,utbildning,utbildningsstöd	
 1239005851	802407-2160	Män för Jämställdhet	https://www.män.se/	insamlingskontroll	
 1239005877	802013-1952	Hjärtebarnsfonden	https://www.hjartebarnsfonden.se/	insamlingskontroll	
 1239005919	802010-4264	Bröstcancerförbundet	https://bröstcancerförbundet.se/	förbund,insamlingskontroll	
