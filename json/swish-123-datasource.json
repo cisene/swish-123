@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-111003",
+    "date": "2022-11-27-rev-111721",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -34697,7 +34697,6 @@
       "orgName": "Children Need Help",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.childrenneedhelp.org/"
@@ -34707,7 +34706,6 @@
       "orgNumber": "802007-3436",
       "orgName": "Synskadades Riksf\u00f6rbund",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -34764,7 +34762,6 @@
       "orgName": "L\u00e4karmissionen - stiftelse f\u00f6r filantropisk verksamhet",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.lakarmissionen.se/"
@@ -34784,7 +34781,6 @@
       "orgName": "Insamlingsstiftelsen Hj\u00e4lp Margit Hj\u00e4lpa",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.hjalpmargithjalpa.org/"
@@ -34803,7 +34799,6 @@
       "orgNumber": "802401-4386",
       "orgName": "UNICEF Sverige",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -34844,7 +34839,6 @@
       "orgName": "Pingst - Fria f\u00f6rsamlingar i samverkan",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.pingst.se/"
@@ -34873,7 +34867,6 @@
       "orgNumber": "802000-6717",
       "orgName": "Ersta Diakonis\u00e4llskap",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -34925,7 +34918,6 @@
       "orgName": "Insamlingsstiftelsen Akademiska sjukhusets barnfond",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -34956,7 +34948,6 @@
       "comment": "Spontang\u00e5va",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.hrf.se/"
@@ -34984,7 +34975,6 @@
       "orgNumber": "802431-3044",
       "orgName": "Action Aid International Sweden",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35014,7 +35004,6 @@
       "orgName": "Synskadades Riksf\u00f6rbund",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.srf.nu/"
@@ -35024,7 +35013,6 @@
       "orgNumber": "814000-8643",
       "orgName": "F\u00f6reningen Hand in Hand Sweden",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamlingskontroll"
@@ -35036,7 +35024,6 @@
       "orgNumber": "802424-9396",
       "orgName": "Mercy Ships Sverige insamlingsstiftelse",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35066,7 +35053,6 @@
       "orgName": "MdM Sverige/L\u00e4kare i V\u00e4rlden",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.lakareivarlden.se/"
@@ -35086,7 +35072,6 @@
       "orgName": "Nordisk Hj\u00e4lp",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.nordiskhjalp.com/"
@@ -35096,7 +35081,6 @@
       "orgNumber": "887501-2687",
       "orgName": "Hj\u00e4lp till Liv International",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamlingskontroll"
@@ -35136,7 +35120,6 @@
       "orgName": "Trossamfundet Svenska Kyrkan",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.svenskakyrkan.se/"
@@ -35155,7 +35138,6 @@
       "orgNumber": "826500-5556",
       "orgName": "Insamlingsstiftelsen Caminul Felix",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35184,7 +35166,6 @@
       "orgNumber": "898800-8796",
       "orgName": "Bist\u00e5ndsf\u00f6reningen Sri Lankas Barns V\u00e4nner",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35274,7 +35255,6 @@
       "orgName": "Star for Life Insamlingsstiftelse",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.starforlife.org/"
@@ -35284,7 +35264,6 @@
       "orgNumber": "802426-1268",
       "orgName": "Insamlingsstiftelsen WaterAid Sverige",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamlingskontroll",
@@ -35297,7 +35276,6 @@
       "orgNumber": "802426-1250",
       "orgName": "Sverige f\u00f6r UNHCR Insamlingsstiftelse",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -35319,7 +35297,6 @@
       "orgNumber": "802426-0195",
       "orgName": "Stiftelsen G\u00f6teborgs Kyrkliga Stadsmission",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -35368,7 +35345,6 @@
       "orgName": "Islamic Relief Sverige",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://islamic-relief.se/"
@@ -35378,7 +35354,6 @@
       "orgNumber": "802426-0484",
       "orgName": "Insamlingsstiftelsen Indian Children - Birgitta Ekmans fond f\u00f6r barn i Indien",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -35401,7 +35376,6 @@
       "orgName": "Insamlingsstiftelsen Lions Cancerforskningsfond i V\u00e4stra Sverige",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -35412,7 +35386,6 @@
       "orgNumber": "802450-1424",
       "orgName": "Lyft ett barn ur m\u00f6rkret",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35444,7 +35417,6 @@
       "orgName": "CancerRehabFonden",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.cancerrehabfonden.se/"
@@ -35464,7 +35436,6 @@
       "orgName": "Synskadades Riksf\u00f6rbund",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "riksf\u00f6rbund"
       ],
@@ -35475,7 +35446,6 @@
       "orgNumber": "802012-1193",
       "orgName": "Sp\u00e4dbarnsfonden",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35507,7 +35477,6 @@
       "orgName": "ALEF, Adult Learning and Empowerment Faciliators",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "skola",
         "utbildning"
@@ -35528,7 +35497,6 @@
       "orgNumber": "802426-4734",
       "orgName": "Insamlingsstiftelsen Operation Smile Sverige",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -35558,7 +35526,6 @@
       "orgNumber": "802405-7815",
       "orgName": "SOS Barnbyar",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35625,7 +35592,6 @@
       "orgName": "F\u00f6reningen Mutomoprojektet",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.swedenmutomo.com/"
@@ -35654,7 +35620,6 @@
       "orgName": "Hoppets Stj\u00e4rna Insamlingsstiftelse",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.hoppetsstjarna.se/"
@@ -35675,7 +35640,6 @@
       "orgName": "\u00c4ldrekontakt",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.aldrekontakt.se/"
@@ -35685,7 +35649,6 @@
       "orgNumber": "894001-4007",
       "orgName": "Insamlingsstiftelsen Cancerforskningsfonden i Norrland",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35733,7 +35696,6 @@
       "orgName": "Barn i Fokus Insamlingsstiftelse",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.barnifokus.se/"
@@ -35762,7 +35724,6 @@
       "orgNumber": "802464-0065",
       "orgName": "Uppsala Stadsmission",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35802,7 +35763,6 @@
       "categories": [
         "donation",
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.unwomen.se/"
@@ -35833,7 +35793,6 @@
       "orgName": "Stiftelsen f\u00f6r Medicinsk forskning vid Universitetssjukhuset \u00d6rebro - Nyckelfonden",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.nyckelfonden.se/"
@@ -35844,7 +35803,6 @@
       "orgName": "Open Doors Sverige",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.open-doors.se/"
@@ -35854,7 +35812,6 @@
       "orgNumber": "802002-7838",
       "orgName": "Reumatikerf\u00f6rbundet",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "reumatism"
@@ -35876,7 +35833,6 @@
       "orgName": "Nordisk Hj\u00e4lp",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.nordiskhjalp.com/"
@@ -35886,7 +35842,6 @@
       "orgNumber": "846004-8716",
       "orgName": "Stiftelsen Sk\u00e5ne Stadsmission",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35906,7 +35861,6 @@
       "orgNumber": "252004-7131",
       "orgName": "Equmeniakyrkan",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -35937,7 +35891,6 @@
       "orgName": "Den Helige Savas Barnfond i Skandinavien",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.savasbarnfond.com/"
@@ -35947,7 +35900,6 @@
       "orgNumber": "826002-2630",
       "orgName": "Sam-Hj\u00e4lp",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamlingskontroll"
@@ -35969,7 +35921,6 @@
       "orgName": "Stockholms Stadsmission",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.stadsmissionen.se/"
@@ -35979,7 +35930,6 @@
       "orgNumber": "843003-3160",
       "orgName": "Insamlingsstiftelsen St\u00f6dfonden f\u00f6r heml\u00f6sa i Helsingborg",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -35991,7 +35941,6 @@
       "orgNumber": "802407-4125",
       "orgName": "Insamlingsstiftelsen Cancer- och Allergifonden",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -36012,7 +35961,6 @@
       "orgName": "Insamlingsstiftelsen Sightsavers International, Sverige",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.sightsavers.se/"
@@ -36023,7 +35971,6 @@
       "orgName": "Compassion Sverige",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.compassion.se/"
@@ -36033,7 +35980,6 @@
       "orgNumber": "802455-9794",
       "orgName": "F\u00f6reningen f\u00f6r gatubarn i Nepal",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -36055,7 +36001,6 @@
       "orgName": "Njurfonden",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.njurfonden.se/"
@@ -36065,7 +36010,6 @@
       "orgNumber": "802477-9269",
       "orgName": "Insamlingsstiftelsen Oxfam Sverige",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -36077,7 +36021,6 @@
       "orgNumber": "802405-7112",
       "orgName": "Stiftelsen Astma- och Allergif\u00f6rbundets Forskningsfond",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -36128,7 +36071,6 @@
       "orgName": "Lepramissionen Sverige",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.lepramissionen.se/"
@@ -36177,7 +36119,6 @@
       "orgName": "Insamlingsstiftelsen Gatubarn",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -36189,7 +36130,6 @@
       "orgName": "F\u00f6reningen Skolprojekt Sudan, Anitha Academy",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.anithaacademy.org/"
@@ -36199,7 +36139,6 @@
       "orgNumber": "875002-7271",
       "orgName": "Evangeliska Frikyrkan",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -36248,7 +36187,6 @@
       "orgNumber": "802477-8238",
       "orgName": "Human Bridge Stiftelse",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -36365,7 +36303,6 @@
       "categories": [
         "f\u00f6rening",
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://raddningsmissionen.se/"
@@ -36375,7 +36312,6 @@
       "orgNumber": "802478-1885",
       "orgName": "Human Rights Watch Scandinavia Insamlingsstiftelsen",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -36420,7 +36356,6 @@
       "orgName": "Help Kurdistan insamlingsstiftelse",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.helpkurdistan.se/"
@@ -36440,7 +36375,6 @@
       "orgName": "Stiftelsen New Life Mission",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.newlifemission.se/"
@@ -36459,7 +36393,6 @@
       "orgNumber": "846003-5150",
       "orgName": "Stiftelsen Rotarys L\u00e4karbank",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -36489,7 +36422,6 @@
       "orgName": "Insamlingsstiftelsen Mitt Fadderbarn",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.mittfadderbarn.se/"
@@ -36499,7 +36431,6 @@
       "orgNumber": "802489-9265",
       "orgName": "Muslim Aid Sweden",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -36519,7 +36450,6 @@
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -36575,7 +36505,6 @@
       "orgNumber": "802404-3716",
       "orgName": "LP-Verksamhetens Ideella Riksf\u00f6rening",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -36634,7 +36563,6 @@
       "orgName": "Love and Hope",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.loveandhope.org/"
@@ -36653,7 +36581,6 @@
       "orgNumber": "802012-8081",
       "orgName": "Insamlingsstiftelsen Vi planterar tr\u00e4d - Vi-Skogen",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -36682,7 +36609,6 @@
       "orgNumber": "802409-8264",
       "orgName": "Min Stora Dag",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -36806,7 +36732,6 @@
       "orgName": "Insamlingsstiftelsen Willefonden",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.willefonden.se/"
@@ -36838,7 +36763,6 @@
       "orgNumber": "802478-1141",
       "orgName": "Insamlingsstiftelsen Regnb\u00e5gsfonden",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -36888,7 +36812,6 @@
       "orgNumber": "875002-7271",
       "orgName": "Evangeliska Frikyrkan",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -36950,7 +36873,6 @@
       "orgName": "Stiftelsen the Espersen Foundation",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -36971,7 +36893,6 @@
       "orgName": "Barn i N\u00f6d - Insamlingsstiftelsen Svensk Internationell Barnhj\u00e4lp",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamlingskontroll",
         "stiftelse"
@@ -36983,7 +36904,6 @@
       "orgNumber": "802477-5267",
       "orgName": "Insamlingsstiftelsen Perus V\u00e4nner",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -37025,7 +36945,6 @@
       "orgName": "FOTA - From One To Another",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamlingskontroll",
         "utbildning",
@@ -37058,7 +36977,6 @@
       "categories": [
         "f\u00f6rbund",
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://br\u00f6stcancerf\u00f6rbundet.se/"
@@ -37069,7 +36987,6 @@
       "orgName": "F\u00f6reningen Furuboda",
       "categories": [
         "f\u00f6rening",
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -37109,7 +37026,6 @@
       "orgNumber": "802017-2360",
       "orgName": "L\u00e4kare utan Gr\u00e4nser",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -37206,7 +37122,6 @@
       "orgName": "Stiftelsen Musikbojen",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -37247,7 +37162,6 @@
       "orgName": "Anh\u00f6rigas Riksf\u00f6rbund",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "riksf\u00f6rbund"
       ],
@@ -37258,7 +37172,6 @@
       "orgNumber": "826500-5556",
       "orgName": "Insamlingsstiftelsen Caminul Felix",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -37280,7 +37193,6 @@
       "orgNumber": "857209-4129",
       "orgName": "RAV - Riksorganisationen f\u00f6r anh\u00f6riga till v\u00e5ldsd\u00f6dade",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -37348,7 +37260,6 @@
       "orgName": "Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-\u00d6rebro",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -37359,7 +37270,6 @@
       "orgNumber": "802465-2169",
       "orgName": "F\u00f6reningen Storasyster",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "kvinnojour",
@@ -37390,7 +37300,6 @@
       "orgNumber": "802416-4280",
       "orgName": "Ingenj\u00f6rer utan Gr\u00e4nser",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -37438,7 +37347,6 @@
       "orgName": "Cancerf\u00f6reningen i Stockholm, Radiumhemmets forskningsfonder",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.rahfo.se/"
@@ -37448,7 +37356,6 @@
       "orgNumber": "857206-6812",
       "orgName": "Reningsborg",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -37469,7 +37376,6 @@
       "orgName": "Friends of the Panzi Hospital",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.friendsofpanzi.se/"
@@ -37489,7 +37395,6 @@
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -37521,7 +37426,6 @@
       "orgName": "IM Individuell M\u00e4nniskohj\u00e4lp/Swedish Development Partner",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamlingskontroll"
       ],
@@ -37550,7 +37454,6 @@
       "orgNumber": "848001-1843",
       "orgName": "Brottsofferjouren Freezonen, Kvinno-Tjej och Brottsoffer",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "kvinnojour",
@@ -37583,7 +37486,6 @@
       "orgNumber": "816400-0922",
       "orgName": "Sjundedags Adventistsamfundet",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "religion"
@@ -37627,7 +37529,6 @@
       "orgName": "Plan International Sverige Insamlingsstiftelse",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -37656,7 +37557,6 @@
       "orgNumber": "886500-6947",
       "orgName": "Trosgnistans Mission",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -37713,7 +37613,6 @@
       "orgName": "Fonden f\u00f6r Psykisk H\u00e4lsa",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.fondenpsykiskhalsa.se/"
@@ -37752,7 +37651,6 @@
       "orgNumber": "864501-7768",
       "orgName": "Stiftelsen Bor\u00e5s Forsknings- och Utvecklingsfond mot cancer",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -37840,7 +37738,6 @@
       "categories": [
         "f\u00f6rbund",
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.diabetes.se/"
@@ -37922,7 +37819,6 @@
       "orgName": "Bist\u00e5ndsorganisationen Hj\u00e4rta till Hj\u00e4rta",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.hearttoheart.se/"
@@ -37932,7 +37828,6 @@
       "orgNumber": "802477-9293",
       "orgName": "Solvatten Insamlingsstiftelse",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamlingskontroll",
@@ -37966,7 +37861,6 @@
       "categories": [
         "forskning",
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -37978,7 +37872,6 @@
       "orgName": "Svenska R\u00f6da Korset",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.rodakorset.se/"
@@ -37988,7 +37881,6 @@
       "orgNumber": "802002-8711",
       "orgName": "Svenska R\u00f6da Korset",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38009,7 +37901,6 @@
       "orgName": "Svenska R\u00f6da Korset",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.rodakorset.se/"
@@ -38019,7 +37910,6 @@
       "orgNumber": "802002-8711",
       "orgName": "Svenska R\u00f6da Korset",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38061,7 +37951,6 @@
       "orgName": "Insamlingsstiftelsen Svenska Barnhj\u00e4lpen",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -38093,7 +37982,6 @@
       "orgName": "Link\u00f6pings Stadsmission",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.linkopingsstadsmission.se/"
@@ -38103,7 +37991,6 @@
       "orgNumber": "802005-0947",
       "orgName": "Stiftelsen Konung Gustaf V:s Jubileumsfond, Radiumhemmets Forskningsfonder",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -38115,7 +38002,6 @@
       "orgNumber": "822001-7506",
       "orgName": "MAF-Sweden",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38137,7 +38023,6 @@
       "orgName": "Astma- och Allergif\u00f6rbundet",
       "categories": [
         "f\u00f6rbund",
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38189,7 +38074,6 @@
       "orgName": "Insamlingsstiftelsen Erikshj\u00e4lpen, Farbror Eriks barn- och hj\u00e4lpverksamhet",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -38201,7 +38085,6 @@
       "orgName": "Astma- och Allergif\u00f6rbundet",
       "comment": "Blomsterfonden",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38233,7 +38116,6 @@
       "orgName": "F\u00f6r\u00e4ldral\u00f6sa barn, Insamlingsstiftelse",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -38244,7 +38126,6 @@
       "orgNumber": "802000-8184",
       "orgName": "EFS - Evangeliska Fosterlandsstiftelsen",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "religion",
@@ -38268,7 +38149,6 @@
       "orgName": "We Effect",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamlingskontroll"
       ],
@@ -38279,7 +38159,6 @@
       "orgNumber": "802000-8184",
       "orgName": "EFS - Evangeliska Fosterlandsstiftelsen",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "religion",
@@ -38351,7 +38230,6 @@
       "orgName": "Stiftelsen Skandinaviska Barnmissionen",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -38402,7 +38280,6 @@
       "categories": [
         "forskning",
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.ssmf.se/"
@@ -38444,7 +38321,6 @@
       "orgName": "Insamlingsstiftelsen Alzheimerfonden",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -38466,7 +38342,6 @@
       "categories": [
         "donation",
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.hjarnfonden.se/"
@@ -38486,7 +38361,6 @@
       "orgName": "Insamlingsstiftelsen BarnSamariten",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -38497,7 +38371,6 @@
       "orgNumber": "832401-8376",
       "orgName": "Kalmar Stadsmission",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38527,7 +38400,6 @@
       "orgName": "Stiftelsen New Hope Reseindustrins Barnfond",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -38538,7 +38410,6 @@
       "orgNumber": "814800-9353",
       "orgName": "F\u00f6reningen Palmeras V\u00e4nner",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38590,7 +38461,6 @@
       "orgName": "Hannas Hj\u00e4lpverksamhet",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.hannashjalpverksamhet.se/"
@@ -38601,7 +38471,6 @@
       "orgName": "A World of Friends",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.aworldoffriends.se/"
@@ -38611,7 +38480,6 @@
       "orgNumber": "845000-4240",
       "orgName": "Svalorna Indien-Bangladesh",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38633,7 +38501,6 @@
       "orgName": "Barnfondens Insamlingsstiftelse",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.barnfonden.se/"
@@ -38653,7 +38520,6 @@
       "orgName": "Stiftelsen Team Mission",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.teammission.se/"
@@ -38663,7 +38529,6 @@
       "orgNumber": "875002-7800",
       "orgName": "Insamlingsstiftelsen Ankaret",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38704,7 +38569,6 @@
       "orgName": "Trossamfundet Svenska Kyrkan",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "religion"
       ],
@@ -38725,7 +38589,6 @@
       "orgNumber": "802404-3716",
       "orgName": "LP-Verksamhetens Ideella Riksf\u00f6rening",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38815,7 +38678,6 @@
       "orgName": "Cancerfonden - Riksf\u00f6reningen mot cancer",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.cancerfonden.se/"
@@ -38888,7 +38750,6 @@
       "orgName": "UNICEF Sverige",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.unicef.se/"
@@ -38909,7 +38770,6 @@
       "orgName": "R\u00e4dda Barnen",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.raddabarnen.se/"
@@ -38929,7 +38789,6 @@
       "orgName": "Barncancerfonden",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.barncancerfonden.se/"
@@ -38939,7 +38798,6 @@
       "orgNumber": "802401-4386",
       "orgName": "UNICEF Sverige",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -38988,7 +38846,6 @@
       "orgName": "Diakonia",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.diakonia.se/"
@@ -38999,7 +38856,6 @@
       "orgName": "Diakonia",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.diakonia.se/"
@@ -39009,7 +38865,6 @@
       "orgNumber": "802402-5499",
       "orgName": "ECPAT Sverige",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
@@ -39022,7 +38877,6 @@
       "categories": [
         "donation",
         "godk\u00e4nd g\u00e5vomottagare",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -39033,7 +38887,6 @@
       "orgNumber": "802004-1441",
       "orgName": "Stiftelsen Forska utan djurf\u00f6rs\u00f6k",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
@@ -39064,7 +38917,6 @@
       "orgNumber": "802006-0763",
       "orgName": "Hj\u00e4rt-Lungfonden, Svenska Nationalf\u00f6reningen mot Hj\u00e4rt- och Lungsjukdomar",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
