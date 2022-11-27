@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-115620",
+    "date": "2022-11-27-rev-125207",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1672,6 +1672,15 @@
       "web": "https://www.stefanuskoinonia.org/"
     },
     {
+      "entry": 1230376376,
+      "orgNumber": "829501-0030",
+      "orgName": "\u00c5seda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.aseda.net/"
+    },
+    {
       "entry": 1230376467,
       "orgNumber": "559085-2033",
       "orgName": "ON Training AB",
@@ -1680,6 +1689,16 @@
         "tr\u00e4ning"
       ],
       "web": "http://ontraining.se/"
+    },
+    {
+      "entry": 1230379271,
+      "orgNumber": "252000-0841",
+      "orgName": "\u00d6verj\u00e4rna F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/jarna-vardinge"
     },
     {
       "entry": 1230379362,
@@ -5351,6 +5370,16 @@
       "web": "https://www.stockholmbaseboll.com/"
     },
     {
+      "entry": 1231160555,
+      "orgNumber": "832400-4558",
+      "orgName": "Diabetesf\u00f6reningen Kalmar-\u00d6land m. o.",
+      "categories": [
+        "diabetesv\u00e5rd",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.diabetes.se/medlem/foreningar/lansforeningen-i-kalmar-lan/diabetesfor.-kalmar-oland-m.o/"
+    },
+    {
       "entry": 1231161330,
       "orgNumber": "802533-4247",
       "orgName": "Djurens V\u00e4nner Karlshamn",
@@ -6402,6 +6431,16 @@
         "lionsklubb"
       ],
       "web": "http://avesta.lions.se/"
+    },
+    {
+      "entry": 1231371400,
+      "orgNumber": "802476-4519",
+      "orgName": "Equmenia Rodenkyrkan Norrt\u00e4lje",
+      "comment": "G\u00e5vor, Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://rodenkyrkan.se/"
     },
     {
       "entry": 1231371921,
@@ -9246,6 +9285,16 @@
       "web": "https://www.mansjouren.se/"
     },
     {
+      "entry": 1231899798,
+      "orgNumber": "252000-0858",
+      "orgName": "Ytterj\u00e4rna F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/jarna-vardinge"
+    },
+    {
       "entry": 1231900372,
       "orgNumber": "802528-6728",
       "orgName": "BarnensHj\u00e4ltar",
@@ -10307,6 +10356,15 @@
         "patientf\u00f6rening"
       ],
       "web": "https://blodsjukdom.se/"
+    },
+    {
+      "entry": 1232134831,
+      "orgNumber": "802440-8117",
+      "orgName": "Equmenia Riks, Ungdomsarbete",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmenia.se/"
     },
     {
       "entry": 1232136059,
@@ -11818,6 +11876,15 @@
         "tennisklubb"
       ],
       "web": "https://www.sloingetennisklubb.org/"
+    },
+    {
+      "entry": 1232375293,
+      "orgNumber": "814400-1420",
+      "orgName": "Rodenkyrkan Norrt\u00e4lje",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://rodenkyrkan.se/"
     },
     {
       "entry": 1232375319,
@@ -13940,6 +14007,15 @@
         "ryttars\u00e4llskap"
       ],
       "web": "https://idrottonline.se/EksatraRS-Ridsport/"
+    },
+    {
+      "entry": 1232782431,
+      "orgNumber": "828000-4758",
+      "orgName": "K\u00e4rda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/karda"
     },
     {
       "entry": 1232783272,
@@ -17902,6 +17978,18 @@
       "web": "https://eskilstunatrafikskolan.se/"
     },
     {
+      "entry": 1233542180,
+      "orgNumber": "802519-9863",
+      "orgName": "V\u00e4n i Ume\u00e5",
+      "categories": [
+        "intressef\u00f6rening",
+        "m\u00e5ngfald",
+        "n\u00e4tverk",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://vaniumea.se/"
+    },
+    {
       "entry": 1233546603,
       "orgNumber": "610204-XXXX",
       "orgName": "Lenas katthem i S\u00f6lvesborg / Lena Kristiansson",
@@ -17978,6 +18066,15 @@
         "stiftelse"
       ],
       "web": "http://backamolagerplats.se/"
+    },
+    {
+      "entry": 1233553344,
+      "orgNumber": "252001-6334",
+      "orgName": "S\u00e4tila F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/satila"
     },
     {
       "entry": 1233553435,
@@ -18291,6 +18388,15 @@
         "ki-aikido"
       ],
       "web": "http://vasteras.ki-aikido.se/"
+    },
+    {
+      "entry": 1233629094,
+      "orgNumber": "252001-6342",
+      "orgName": "Hyssna F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/satila"
     },
     {
       "entry": 1233630563,
@@ -22671,6 +22777,16 @@
       "web": "https://mariedalskyrkan.se/"
     },
     {
+      "entry": 1234524443,
+      "orgNumber": "894002-2091",
+      "orgName": "Ume\u00e5 FC",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ufc.se/"
+    },
+    {
       "entry": 1234524955,
       "orgNumber": "817605-1939",
       "orgName": "K\u00f6pings GF",
@@ -23584,6 +23700,15 @@
         "lionsklubb"
       ],
       "web": "https://lionsnassjo.se/"
+    },
+    {
+      "entry": 1234716601,
+      "orgNumber": "828000-3214",
+      "orgName": "Betelsf\u00f6rsamlingen Vaggeryd",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.betelvaggeryd.se/"
     },
     {
       "entry": 1234717344,
@@ -25462,6 +25587,15 @@
       "web": "http://www.pingsted.se/"
     },
     {
+      "entry": 1235139332,
+      "orgNumber": "894701-1519",
+      "orgName": "Skellefte\u00e5 AIK Hockey",
+      "categories": [
+        "hockeyklubb"
+      ],
+      "web": "https://www.skellefteaaik.se/"
+    },
+    {
       "entry": 1235139746,
       "orgNumber": "814000-2059",
       "orgName": "Djur\u00f6-Vind\u00f6 IF",
@@ -27224,6 +27358,16 @@
       "web": "https://www.framnashamnen.se/"
     },
     {
+      "entry": 1235458328,
+      "orgNumber": "894002-2091",
+      "orgName": "Ume\u00e5 FC",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ufc.se/"
+    },
+    {
       "entry": 1235458690,
       "orgNumber": "835000-6923",
       "orgName": "R\u00f6deby CK - Motorcykel och Sn\u00f6skoter",
@@ -27438,6 +27582,16 @@
         "religion"
       ],
       "web": "https://kinna.pingst.se/"
+    },
+    {
+      "entry": 1235516943,
+      "orgNumber": "252000-0833",
+      "orgName": "V\u00e5rdinge F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/jarna-vardinge"
     },
     {
       "entry": 1235517172,
@@ -31602,6 +31756,15 @@
       "web": "https://www.vilse.nu/"
     },
     {
+      "entry": 1236286926,
+      "orgNumber": "252001-5708",
+      "orgName": "N\u00f6dinge F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/nodinge"
+    },
+    {
       "entry": 1236288328,
       "orgNumber": "885000-0939",
       "orgName": "G\u00e4vle SS - Simidrott",
@@ -32089,6 +32252,16 @@
         "segels\u00e4llskap"
       ],
       "web": "https://boxvikess.blogspot.com/"
+    },
+    {
+      "entry": 1236389290,
+      "orgNumber": "802529-5299",
+      "orgName": "Betelsf\u00f6rsamlingen Vaggeryd",
+      "comment": "Ungdomsverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.betelvaggeryd.se/"
     },
     {
       "entry": 1236394373,
@@ -32894,6 +33067,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/visby"
+    },
+    {
+      "entry": 1236580013,
+      "orgNumber": "875700-3689",
+      "orgName": "Askersunds Gymnastikf\u00f6rening",
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.askersundsgf.se/"
     },
     {
       "entry": 1236581888,
