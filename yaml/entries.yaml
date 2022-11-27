@@ -6895,6 +6895,14 @@ entries:
   - sportfiske
   web: https://navsjon.nu/
 
+- entry: 1231588615
+  orgName: Kümmerling Bil AB
+  orgNumber: 556579-9821
+  comment: null
+  categories:
+  - försäljning
+  web: https://www.kummerlingbil.se/
+
 - entry: 1231590231
   orgName: AnnonsMarknan / Markbladet AB
   orgNumber: 556927-6214
@@ -9912,6 +9920,14 @@ entries:
   - hjälporganisation
   - stiftelse
   web: http://www.sira.se/
+
+- entry: 1232222206
+  orgName: Piteå Summer Games
+  orgNumber: 898800-9984
+  comment: null
+  categories:
+  - cuparrangör
+  web: https://piteasummergames.se/
 
 - entry: 1232222404
   orgName: Stättareds 4H-gård
@@ -13054,6 +13070,15 @@ entries:
   - hundsport
   web: https://www.kumlabk.se/
 
+- entry: 1232862308
+  orgName: Ungdomens Hus / Ystads Kommun
+  orgNumber: 212000-1181
+  comment: null
+  categories:
+  - skatepark
+  - ungdomsverksamhet
+  web: https://www.ystad.se/fritid/ungdomens-hus-och-avalla-skatepark/
+
 - entry: 1232870459
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -15544,6 +15569,14 @@ entries:
   - anhörigorganisation
   - patientförening
   web: http://www.fbis.se/
+
+- entry: 1233382744
+  orgName: Brunnskyrkans Församling
+  orgNumber: 829500-5592
+  comment: Kollekt
+  categories:
+  - religion
+  web: https://www.brunnskyrkan.se/
 
 - entry: 1233383072
   orgName: IFK Kiruna
@@ -18483,6 +18516,15 @@ entries:
   - intresseförening
   web: https://www.team-rynkeby.se/
 
+- entry: 1234018339
+  orgName: Brunnskyrkans Församling
+  orgNumber: 829501-9908
+  comment: Ungdomsverksamhet
+  categories:
+  - religion
+  - ungdomsverksamhet
+  web: https://www.brunnskyrkan.se/
+
 - entry: 1234018735
   orgName: Degerfors Brukshundklubb
   orgNumber: 802504-4655
@@ -18958,6 +19000,15 @@ entries:
   - brukshundsklubb
   - hundsport
   web: http://vannasbhk.weebly.com/
+
+- entry: 1234133799
+  orgName: Föräldraföreningen Mot Narkotika, FMN
+  orgNumber: 898801-5577
+  comment: Norrbotten
+  categories:
+  - föräldraförening
+  - intresseförening
+  web: https://www.fmnnorrbotten.com/
 
 - entry: 1234134482
   orgName: Kvinnojouren Täby/Danderyd
@@ -26789,6 +26840,16 @@ entries:
   - biodling
   web: http://enkopingsbiodlare.se/
 
+- entry: 1235869920
+  orgName: Väsman VinterArena
+  orgNumber: 802526-2810
+  comment: null
+  categories:
+  - förening
+  - intresseförening
+  - vintersport
+  web: https://vasmanvinterarena.se/
+
 - entry: 1235881057
   orgName: EFS Missionsförening i Sävar
   orgNumber: 894001-0427
@@ -27367,6 +27428,15 @@ entries:
   - jordbruk
   - ridskola
   web: https://bogesundsgård.se/
+
+- entry: 1236000889
+  orgName: Stadsodlingsvandringar.se / Gatsmart, Ulrika Flodin Furås
+  orgNumber: 641223-XXXX
+  comment: null
+  categories:
+  - stadsvandring
+  - trädgårdsodling
+  web: https://stadsodlingsvandringar.se/
 
 - entry: 1236003792
   orgName: Indian Motorcycle Club Sweden

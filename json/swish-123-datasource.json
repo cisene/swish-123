@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-143953",
+    "date": "2022-11-27-rev-150214",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7641,6 +7641,15 @@
       "web": "https://navsjon.nu/"
     },
     {
+      "entry": 1231588615,
+      "orgNumber": "556579-9821",
+      "orgName": "K\u00fcmmerling Bil AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://www.kummerlingbil.se/"
+    },
+    {
       "entry": 1231590231,
       "orgNumber": "556927-6214",
       "orgName": "AnnonsMarknan / Markbladet AB",
@@ -11019,6 +11028,15 @@
         "stiftelse"
       ],
       "web": "http://www.sira.se/"
+    },
+    {
+      "entry": 1232222206,
+      "orgNumber": "898800-9984",
+      "orgName": "Pite\u00e5 Summer Games",
+      "categories": [
+        "cuparrang\u00f6r"
+      ],
+      "web": "https://piteasummergames.se/"
     },
     {
       "entry": 1232222404,
@@ -14517,6 +14535,16 @@
       "web": "https://www.kumlabk.se/"
     },
     {
+      "entry": 1232862308,
+      "orgNumber": "212000-1181",
+      "orgName": "Ungdomens Hus / Ystads Kommun",
+      "categories": [
+        "skatepark",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://www.ystad.se/fritid/ungdomens-hus-och-avalla-skatepark/"
+    },
+    {
       "entry": 1232870459,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -17227,6 +17255,16 @@
         "golfklubb"
       ],
       "web": "https://www.avestagk.se/"
+    },
+    {
+      "entry": 1233382744,
+      "orgNumber": "829500-5592",
+      "orgName": "Brunnskyrkans F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.brunnskyrkan.se/"
     },
     {
       "entry": 1233383072,
@@ -20483,6 +20521,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1234018339,
+      "orgNumber": "829501-9908",
+      "orgName": "Brunnskyrkans F\u00f6rsamling",
+      "comment": "Ungdomsverksamhet",
+      "categories": [
+        "religion",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://www.brunnskyrkan.se/"
+    },
+    {
       "entry": 1234018735,
       "orgNumber": "802504-4655",
       "orgName": "Degerfors Brukshundklubb",
@@ -20989,6 +21038,17 @@
         "hundsport"
       ],
       "web": "http://vannasbhk.weebly.com/"
+    },
+    {
+      "entry": 1234133799,
+      "orgNumber": "898801-5577",
+      "orgName": "F\u00f6r\u00e4ldraf\u00f6reningen Mot Narkotika, FMN",
+      "comment": "Norrbotten",
+      "categories": [
+        "f\u00f6r\u00e4ldraf\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.fmnnorrbotten.com/"
     },
     {
       "entry": 1234134482,
@@ -29658,6 +29718,17 @@
       "web": "http://enkopingsbiodlare.se/"
     },
     {
+      "entry": 1235869920,
+      "orgNumber": "802526-2810",
+      "orgName": "V\u00e4sman VinterArena",
+      "categories": [
+        "f\u00f6rening",
+        "intressef\u00f6rening",
+        "vintersport"
+      ],
+      "web": "https://vasmanvinterarena.se/"
+    },
+    {
       "entry": 1235881057,
       "orgNumber": "894001-0427",
       "orgName": "EFS Missionsf\u00f6rening i S\u00e4var",
@@ -30308,6 +30379,16 @@
         "ridskola"
       ],
       "web": "https://bogesundsg\u00e5rd.se/"
+    },
+    {
+      "entry": 1236000889,
+      "orgNumber": "641223-XXXX",
+      "orgName": "Stadsodlingsvandringar.se / Gatsmart, Ulrika Flodin Fur\u00e5s",
+      "categories": [
+        "stadsvandring",
+        "tr\u00e4dg\u00e5rdsodling"
+      ],
+      "web": "https://stadsodlingsvandringar.se/"
     },
     {
       "entry": 1236003792,

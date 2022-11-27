@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-11-27-rev-143953
+# Date: 2022-11-27-rev-150214
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -789,6 +789,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231581685	885001-4542	Hedesundavävarna och Skaparbyn / Stiftelsen Hedesundavävarna	http://skaparbyn.nu/	stiftelse	
 1231583871	252005-0143	Färgelanda-Högsäters Församling	https://www.svenskakyrkan.se/fargelanda-hogsater	religion	
 1231586775	817605-7456	Nävsjöns Sportfiskeklubb	https://navsjon.nu/	fiskeklubb,sportfiske	
+1231588615	556579-9821	Kümmerling Bil AB	https://www.kummerlingbil.se/	försäljning	
 1231590231	556927-6214	AnnonsMarknan / Markbladet AB	https://annonsmarknan.se/	annonsblad	
 1231590793	842000-7521	Höörs HK H65	https://www.h65.se/	handbollsklubb,idrottsförening	P 09/10
 1231591817	559113-2559	Yoga & Vänner AB	https://yogavanner.se/	utbildning,yoga	
@@ -1133,6 +1134,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232214732	802429-2420	Borås Skidlöparklubb	https://xn--borssk-kua.se/	längdskidåkning,skidlöparklubb	
 1232218436	879500-4087	Västerfärnebo Hembygdsförening	http://www.vasterfarnebo.se/	hembygdsförening	
 1232220481	857202-7483	Swedish International Relief Association, SIRA	http://www.sira.se/	hjälporganisation,stiftelse	
+1232222206	898800-9984	Piteå Summer Games	https://piteasummergames.se/	cuparrangör	
 1232222404	802428-8550	Stättareds 4H-gård	https://www.4h.se/stattared/	4h,djurvård,utbildning	
 1232222818	895400-8051	Långsele Intresseförening		intresseförening	
 1232222891	884401-2941	Älvdalens Motorklubb	https://www.gasvarv.com/	enduroklubb,motocross,skoterklubb	
@@ -1493,6 +1495,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232861532	252001-0055	Åhus Församling	https://www.svenskakyrkan.se/ahus	religion	Gåvor och kollekt
 1232861623	865000-8397	Friskis & Svettis Svenljunga	https://www.friskissvettis.se/svenljunga	friskvård,idrottsförening	
 1232861730	875700-7045	Kumla Brukshundsklubb	https://www.kumlabk.se/	brukshundsklubb,hundsport	
+1232862308	212000-1181	Ungdomens Hus / Ystads Kommun	https://www.ystad.se/fritid/ungdomens-hus-och-avalla-skatepark/	skatepark,ungdomsverksamhet	
 1232870459	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/Helsingborg/	religion	Helsingborg
 1232873057	802435-0038	Råtthjälpen	https://www.ratthjalpen.com/	djurvård	
 1232873172	860828-XXXX	Karin Fagerblom Pilates / Karin Fagerblom		pilates	
@@ -1773,6 +1776,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233380847	818000-7521	Pingstkyrkan Ärla	http://pingstarla.se/	religion	
 1233381241	559000-1284	Lenoa AB	https://www.actionpics.se/	bildarkiv,fotograf,motorsport	
 1233381969	982000-3268	Avesta Golfklubb	https://www.avestagk.se/	golfklubb	
+1233382744	829500-5592	Brunnskyrkans Församling	https://www.brunnskyrkan.se/	religion	Kollekt
 1233383072	897300-0097	IFK Kiruna	https://www.ifkkiruna.se/	idrottsförening	
 1233383080	824000-1134	Motala Ryttarförening	https://www.motalarf.com/	hästsport,ryttarförening	
 1233383486	802464-6922	East Front	https://www.eastfront.se/	supporterklubb	
@@ -2108,6 +2112,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234017851	802458-0048	Åkersberga Golfklubb	https://akersbergagk.se/	golfklubb	
 1234018065	802467-7430	Munskänkarna i Skövde	https://www.munskankarna.se/	vinprovning	
 1234018198	802533-7794	Team Rynkeby Skaraborg	https://www.team-rynkeby.se/	cykelsport,friskvård,intresseförening	
+1234018339	829501-9908	Brunnskyrkans Församling	https://www.brunnskyrkan.se/	religion,ungdomsverksamhet	Ungdomsverksamhet
 1234018735	802504-4655	Degerfors Brukshundklubb	https://degerforsbk.se/	brukshundsklubb,hundsport	
 1234018768	559042-9352	Dagens ETC AB	https://www.etc.se/	dagstidning,lokaltidning	
 1234018909	826001-1609	Östra SK Jönköping	https://www.ostra.nu/	fotboll,idrottsförening,innebandy	Dam
@@ -2160,6 +2165,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234126017	252003-1382	Karlstads Pastorat	https://www.svenskakyrkan.se/karlstadspastorat	religion	Nattcafé Vintervärme
 1234133484	895401-2202	Grundfors Byaförening	http://grundfors.com/	förening,hembygdsförening	
 1234133682	894002-7827	Vännäs Brukshundklubb	http://vannasbhk.weebly.com/	brukshundsklubb,hundsport	Fika
+1234133799	898801-5577	Föräldraföreningen Mot Narkotika, FMN	https://www.fmnnorrbotten.com/	föräldraförening,intresseförening	Norrbotten
 1234134482	802407-2251	Kvinnojouren Täby/Danderyd	https://kvinnojourentabydanderyd.se/	kvinnojour,tjejjour	
 1234134904	838200-8020	Wä Scoutkår	https://wa.scout.se/	scoutkår	
 1234136388	864000-3565	Herrljunga Hembygdsförening	https://www.hembygd.se/herrljunga	hembygdsförening	
@@ -3053,6 +3059,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235859285	837600-3672	Solängskolan / Kristna Skolföreningen i Örkelljunga	https://www.solangskolan.se/	friskola,religion	
 1235859954	837600-7095	Rotary Åstorp	https://www.xn--sdersrallyt-08a1t.se/contact/		
 1235867619	810607-0822	Enköpings Biodlare	http://enkopingsbiodlare.se/	biodling	
+1235869920	802526-2810	Väsman VinterArena	https://vasmanvinterarena.se/	förening,intresseförening,vintersport	
 1235881057	894001-0427	EFS Missionsförening i Sävar	https://www.savarakyrkan.se/	religion	Salt
 1235881644	855100-9981	Smyrnakyrkan Göteborg	https://www.smyrna.se/	religion	
 1235881909	802441-4107	Eds Ryttarsällskap	https://www.edsrs.se/	hästsport,ridsport,ryttarsällskap	
@@ -3120,6 +3127,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235992144	802411-0309	Föreningen för terapikolonier	http://www.terapikolonier.se/	förening	
 1235994124	887000-2147	Ljusdals FK - Flygsport	https://www.ljusdalsflygklubb.se/	flygklubb	Motorflyg
 1235995493	559349-6069	Bogesunds Gård och Ridskola AB	https://bogesundsgård.se/	jordbruk,ridskola	
+1236000889	641223-XXXX	Stadsodlingsvandringar.se / Gatsmart, Ulrika Flodin Furås	https://stadsodlingsvandringar.se/	stadsvandring,trädgårdsodling	
 1236003792	802525-0427	Indian Motorcycle Club Sweden	https://www.indiancs.se/	intresseförening,motorcykelklubb	
 1236004303	770507-XXXX	Idda Consulting		konsult	
 1236005615	012615-0168	Svenska Miniature American Shepherdklubben	https://www.miniatureamericanshepherd.se/	hundklubb	
