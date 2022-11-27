@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-155708",
+    "date": "2022-11-27-rev-161828",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1155,6 +1155,17 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.bastuakademien.se/"
+    },
+    {
+      "entry": 1230278762,
+      "orgNumber": "802526-3669",
+      "orgName": "Kallbadhusf\u00f6reningen Havsbadet i \u00c4ngelholm",
+      "categories": [
+        "havsbad",
+        "intressef\u00f6rening",
+        "kallbadhus"
+      ],
+      "web": "https://www.havsbadet.com/"
     },
     {
       "entry": 1230278952,
@@ -4603,6 +4614,15 @@
       "web": "https://valla.scout.se/"
     },
     {
+      "entry": 1231000850,
+      "orgNumber": "252004-7099",
+      "orgName": "Sankt Botvids Katolska F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.st-botvid.se/"
+    },
+    {
       "entry": 1231001601,
       "orgNumber": "556232-6115",
       "orgName": "Rahmqvist Serama, Eric Rahmqvist AB",
@@ -4917,6 +4937,16 @@
         "religion"
       ],
       "web": "https://izb.se/"
+    },
+    {
+      "entry": 1231058163,
+      "orgNumber": "794000-0586",
+      "orgName": "Gr\u00e4smyr Loge / Gr\u00e4smyr Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "logdans"
+      ],
+      "web": "https://grasmyrloge.se/"
     },
     {
       "entry": 1231059328,
@@ -14599,6 +14629,17 @@
       "categories": [
         "pilates"
       ]
+    },
+    {
+      "entry": 1232873214,
+      "orgNumber": "556883-2124",
+      "orgName": "Train Station Brewery AB",
+      "categories": [
+        "bryggeri",
+        "restaurant",
+        "\u00f6lframst\u00e4llning"
+      ],
+      "web": "https://stationshusetiknivsta.se/"
     },
     {
       "entry": 1232873990,
@@ -26343,6 +26384,16 @@
       "web": "http://nasviken.pingst.se/"
     },
     {
+      "entry": 1235209044,
+      "orgNumber": "824000-8766",
+      "orgName": "Reumatikerf\u00f6reningen Motala-Vadstena",
+      "categories": [
+        "reumatikerf\u00f6rening",
+        "reumatism"
+      ],
+      "web": "https://mv.reumatiker.se/"
+    },
+    {
       "entry": 1235209291,
       "orgNumber": "802475-3462",
       "orgName": "Stenungsunds Discgolf",
@@ -34258,6 +34309,15 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.skk.se/sv/SHU/"
+    },
+    {
+      "entry": 1236761035,
+      "orgNumber": "857200-3914",
+      "orgName": "Evangeliska Br\u00f6draf\u00f6rsamlingen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.evangeliskabrodraforsamlingen.se/"
     },
     {
       "entry": 1236761464,

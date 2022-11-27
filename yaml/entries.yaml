@@ -1054,6 +1054,16 @@ entries:
   - kulturförening
   web: https://www.bastuakademien.se/
 
+- entry: 1230278762
+  orgName: Kallbadhusföreningen Havsbadet i Ängelholm
+  orgNumber: 802526-3669
+  comment: null
+  categories:
+  - havsbad
+  - intresseförening
+  - kallbadhus
+  web: https://www.havsbadet.com/
+
 - entry: 1230278952
   orgName: Föreningen Jädersgården Ekonomisk förening
   orgNumber: 718000-2284
@@ -4155,6 +4165,14 @@ entries:
   - scoutkår
   web: https://valla.scout.se/
 
+- entry: 1231000850
+  orgName: Sankt Botvids Katolska Församling
+  orgNumber: 252004-7099
+  comment: null
+  categories:
+  - religion
+  web: https://www.st-botvid.se/
+
 - entry: 1231001601
   orgName: Rahmqvist Serama, Eric Rahmqvist AB
   orgNumber: 556232-6115
@@ -4431,6 +4449,15 @@ entries:
   - hembygdsförening
   - religion
   web: https://izb.se/
+
+- entry: 1231058163
+  orgName: Gräsmyr Loge / Gräsmyr Bygdegårdsförening
+  orgNumber: 794000-0586
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - logdans
+  web: https://grasmyrloge.se/
 
 - entry: 1231059328
   orgName: Helens för körkort AB
@@ -13127,6 +13154,16 @@ entries:
   categories:
   - pilates
   web: null
+
+- entry: 1232873214
+  orgName: Train Station Brewery AB
+  orgNumber: 556883-2124
+  comment: null
+  categories:
+  - bryggeri
+  - restaurant
+  - ölframställning
+  web: https://stationshusetiknivsta.se/
 
 - entry: 1232873990
   orgName: Linneryds Församling
@@ -23786,6 +23823,15 @@ entries:
   - religion
   web: http://nasviken.pingst.se/
 
+- entry: 1235209044
+  orgName: Reumatikerföreningen Motala-Vadstena
+  orgNumber: 824000-8766
+  comment: null
+  categories:
+  - reumatikerförening
+  - reumatism
+  web: https://mv.reumatiker.se/
+
 - entry: 1235209291
   orgName: Stenungsunds Discgolf
   orgNumber: 802475-3462
@@ -30982,6 +31028,14 @@ entries:
   - hundsport
   - ungdomsverksamhet
   web: https://www.skk.se/sv/SHU/
+
+- entry: 1236761035
+  orgName: Evangeliska Brödraförsamlingen
+  orgNumber: 857200-3914
+  comment: null
+  categories:
+  - religion
+  web: https://www.evangeliskabrodraforsamlingen.se/
 
 - entry: 1236761464
   orgName: Junos Kamp

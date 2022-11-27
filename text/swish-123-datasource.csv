@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-11-27-rev-155708
+# Date: 2022-11-27-rev-161828
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -124,6 +124,7 @@
 "1230266411","849201-2201","Hylte/Halmstad VBK","https://www.hhvolley.se/","idrottsförening,volleyboll,volleybollklubb",""
 "1230266445","751008-XXXX","Deer light healing / Anna Näsén","https://deerlighthealing.se/","healing,reiki",""
 "1230269795","898801-1592","Svenska Bastuakademien","https://www.bastuakademien.se/","förening,kulturförening",""
+"1230278762","802526-3669","Kallbadhusföreningen Havsbadet i Ängelholm","https://www.havsbadet.com/","havsbad,intresseförening,kallbadhus",""
 "1230278952","718000-2284","Föreningen Jädersgården Ekonomisk förening","https://jadersgarden.se/","kulturförening,lokaluthyrning",""
 "1230279372","559293-8251","Starlight Psykologi AB","https://www.starlightpsykologi.com/","parterapi,psykologi,terapisamtal",""
 "1230290213","802442-1219","Svenska Finnjolleförbundet","https://www.finnjolle.se/","finnjolle,förbund,segelklubb,segling",""
@@ -478,6 +479,7 @@
 "1230999011","894700-5958","Clemensnäs IF","https://www.laget.se/CIF/","idrottsförening,innebandy","Deltagaravgift innebandy"
 "1231000355","873200-3770","Värmskogs Hembygdsförening","https://www.hembygd.se/varmskog","hembygdsförening",""
 "1231000512","822001-3190","Valla Scoutkår","https://valla.scout.se/","scoutkår",""
+"1231000850","252004-7099","Sankt Botvids Katolska Församling","https://www.st-botvid.se/","religion",""
 "1231001601","556232-6115","Rahmqvist Serama, Eric Rahmqvist AB","https://www.rahmqvistserama.se/","ergonomi,kontorsinredning",""
 "1231006923","836201-3297","Sillastrybarna","https://www.sillastrybarna.com/","supporterklubb",""
 "1231007855","889200-9716","Sundsvalls Brukshundklubb","https://sundsvallsbhk.se/","brukshundsklubb,hundsport",""
@@ -510,6 +512,7 @@
 "1231055888","849201-2938","Slättåkragården Förening","http://slattakra.com/","bygdegårdsförening,hembygdsförening",""
 "1231056571","818000-1029","Eskilstuna GUIF IF","https://www.guif.nu/","handbollsklubb,idrottsförening","Lotterier"
 "1231056902","863001-0984","Džemat Trollhättan / Bosniakiska Kultur - Islamiska Församlingen","https://izb.se/","hembygdsförening,religion",""
+"1231058163","794000-0586","Gräsmyr Loge / Gräsmyr Bygdegårdsförening","https://grasmyrloge.se/","bygdegårdsförening,logdans",""
 "1231059328","556171-5003","Helens för körkort AB","https://helensforkorkort.se/","trafikskola",""
 "1231063056","551215-XXXX","Jennebo Radio / Stenskott Productions","https://www.jenneboradio.se/","lokalradio,podcast",""
 "1231063551","630212-XXXX","Kyrkobacka Stall & Ridhus / Elisbeth Hultgren","http://kyrkobacka.se/ridskola","ridskola",""
@@ -1502,6 +1505,7 @@
 "1232870459","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/Helsingborg/","religion","Helsingborg"
 "1232873057","802435-0038","Råtthjälpen","https://www.ratthjalpen.com/","djurvård",""
 "1232873172","860828-XXXX","Karin Fagerblom Pilates / Karin Fagerblom","","pilates",""
+"1232873214","556883-2124","Train Station Brewery AB","https://stationshusetiknivsta.se/","bryggeri,restaurant,ölframställning",""
 "1232873990","252000-6319","Linneryds Församling","","religion","Kollekt"
 "1232874444","559094-5902","YaMax Travel AB - Norrskenlodge","https://www.norrskenlodge.com/","camping,hotell,restaurant,stuguthyrning",""
 "1232880946","822003-9260","Linköpings Sportdykarklubb, LSDK","https://lsdk.se/","dykarklubb,idrottsförening",""
@@ -2712,6 +2716,7 @@
 "1235203401","866000-9450","Torsö Bygdegårds & Idrottsförening, TBIF","http://tbif.se/","bygdegårdsförening,idrottsförening",""
 "1235205588","441119-XXXX","Ted Ström Konst & Musik","https://www.tedstrom.se/","konst,musik,skapande",""
 "1235208848","887500-2381","Saronförsamlingen Näsviken","http://nasviken.pingst.se/","religion",""
+"1235209044","824000-8766","Reumatikerföreningen Motala-Vadstena","https://mv.reumatiker.se/","reumatikerförening,reumatism",""
 "1235209291","802475-3462","Stenungsunds Discgolf","https://idrottonline.se/StenungsundsDiscgolfClub-Frisbee/","discgolf",""
 "1235209739","846004-6801","Södra Sallerups Ryttareförening","https://ssrf.net/","ridsport,ryttarförening",""
 "1235215215","875000-0674","Elimförsamlingen i Örebro","https://orebro.pingst.se/","religion","Café"
@@ -3524,6 +3529,7 @@
 "1236754642","894701-4141","IFK Anderstorp","https://www.ifkanderstorp.com/","idrottsförening","08-09 Mix"
 "1236758874","802003-5369","Föreningen Svenska Tonsättare, FST","https://fst.se/","musik",""
 "1236760763","802007-2743","Sveriges Hundungdom","https://www.skk.se/sv/SHU/","hundsport,ungdomsverksamhet",""
+"1236761035","857200-3914","Evangeliska Brödraförsamlingen","https://www.evangeliskabrodraforsamlingen.se/","religion",""
 "1236761464","802515-2003","Junos Kamp","https://junoskamp.se/","barnsjukvård,cancer",""
 "1236761647","818001-5177","Gillberga-Lista Hembygdsförening","https://www.hembygd.se/gillberga-lista","hembygdsförening",""
 "1236764203","802502-0671","Föreningen Hjälp Utsatta Katter få Hem","https://www.hukh.se/","djurskydd,katthem",""
