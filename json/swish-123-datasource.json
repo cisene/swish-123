@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-125207",
+    "date": "2022-11-27-rev-135210",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1613,6 +1613,17 @@
       "web": "https://kronobergsdk.se/"
     },
     {
+      "entry": 1230366260,
+      "orgNumber": "817600-1363",
+      "orgName": "\u00d6sterledskyrkan i Gamla Uppsala",
+      "comment": "Scoutverksamheten",
+      "categories": [
+        "religion",
+        "scoutk\u00e5r"
+      ],
+      "web": "https://osterledskyrkan.se/"
+    },
+    {
       "entry": 1230366930,
       "orgNumber": "802463-4944",
       "orgName": "Cityidrott Landskrona",
@@ -2250,6 +2261,15 @@
         "stiftelse"
       ],
       "web": "https://bl\u00e5ljusstiftelsen.se/"
+    },
+    {
+      "entry": 1230497792,
+      "orgNumber": "875001-7611",
+      "orgName": "\u00d6rebro City Golf & CC",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://orebrogolf.se/"
     },
     {
       "entry": 1230498303,
@@ -4426,6 +4446,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://ikbrage.se/"
+    },
+    {
+      "entry": 1230982710,
+      "orgNumber": "802461-1926",
+      "orgName": "Aspeboda Foundation For Children",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.affc.se/"
     },
     {
       "entry": 1230987982,
@@ -19332,6 +19361,15 @@
       "web": "http://pinocchio.se/"
     },
     {
+      "entry": 1233852225,
+      "orgNumber": "802502-0762",
+      "orgName": "Rastplats S\u00f6der",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.rastplatssoder.se/"
+    },
+    {
       "entry": 1233852274,
       "orgNumber": "480409-XXXX",
       "orgName": "H\u00e4rliga Hj\u00f6rnered / Elver \u00c5kesson",
@@ -29246,6 +29284,15 @@
       "web": "http://lionsclub-hindas.se/"
     },
     {
+      "entry": 1235808027,
+      "orgNumber": "893202-0954",
+      "orgName": "Svegs Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.svegsgk.se/"
+    },
+    {
       "entry": 1235808852,
       "orgNumber": "823000-9949",
       "orgName": "Alvastraryttarna F\u00f6reningen - Ridsport",
@@ -29671,6 +29718,15 @@
         "lionsklubb"
       ],
       "web": "https://lionsulricehamn.se/"
+    },
+    {
+      "entry": 1235900691,
+      "orgNumber": "817600-1363",
+      "orgName": "\u00d6sterledskyrkan i Gamla Uppsala",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://osterledskyrkan.se/"
     },
     {
       "entry": 1235900949,
@@ -34164,6 +34220,18 @@
       "web": "https://norabygden.com/"
     },
     {
+      "entry": 1236808299,
+      "orgNumber": "817600-1363",
+      "orgName": "\u00d6sterledskyrkan i Gamla Uppsala",
+      "comment": "Barn- och Ungdomsverksamheten",
+      "categories": [
+        "barnverksamhet",
+        "religion",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://osterledskyrkan.se/"
+    },
+    {
       "entry": 1236808554,
       "orgNumber": "883800-3997",
       "orgName": "Ludvika TK - Tennis",
@@ -34528,6 +34596,17 @@
         "f\u00f6rvaring"
       ],
       "web": "https://www.dackgubben.net/"
+    },
+    {
+      "entry": 1236899124,
+      "orgNumber": "802440-0171",
+      "orgName": "Udddevalla Sim",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "simklubb",
+        "sims\u00e4llskap"
+      ],
+      "web": "https://www.uddevallasim.se/"
     },
     {
       "entry": 1236899603,

@@ -1467,6 +1467,15 @@ entries:
   - hundklubb
   web: https://kronobergsdk.se/
 
+- entry: 1230366260
+  orgName: Österledskyrkan i Gamla Uppsala
+  orgNumber: 817600-1363
+  comment: Scoutverksamheten
+  categories:
+  - religion
+  - scoutkår
+  web: https://osterledskyrkan.se/
+
 - entry: 1230366930
   orgName: Cityidrott Landskrona
   orgNumber: 802463-4944
@@ -2040,6 +2049,14 @@ entries:
   - blåljus
   - stiftelse
   web: https://blåljusstiftelsen.se/
+
+- entry: 1230497792
+  orgName: Örebro City Golf & CC
+  orgNumber: 875001-7611
+  comment: null
+  categories:
+  - golfklubb
+  web: https://orebrogolf.se/
 
 - entry: 1230498303
   orgName: Bosses Hundhjälp
@@ -4001,6 +4018,14 @@ entries:
   categories:
   - idrottsförening
   web: https://ikbrage.se/
+
+- entry: 1230982710
+  orgName: Aspeboda Foundation For Children
+  orgNumber: 802461-1926
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.affc.se/
 
 - entry: 1230987982
   orgName: Kvinnojouren Lund
@@ -17454,6 +17479,14 @@ entries:
   - massage
   web: http://pinocchio.se/
 
+- entry: 1233852225
+  orgName: Rastplats Söder
+  orgNumber: 802502-0762
+  comment: null
+  categories:
+  - religion
+  web: https://www.rastplatssoder.se/
+
 - entry: 1233852274
   orgName: Härliga Hjörnered / Elver Åkesson
   orgNumber: 480409-XXXX
@@ -26404,6 +26437,14 @@ entries:
   - lionsklubb
   web: http://lionsclub-hindas.se/
 
+- entry: 1235808027
+  orgName: Svegs Golfklubb
+  orgNumber: 893202-0954
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.svegsgk.se/
+
 - entry: 1235808852
   orgName: Alvastraryttarna Föreningen - Ridsport
   orgNumber: 823000-9949
@@ -26801,6 +26842,14 @@ entries:
   categories:
   - lionsklubb
   web: https://lionsulricehamn.se/
+
+- entry: 1235900691
+  orgName: Österledskyrkan i Gamla Uppsala
+  orgNumber: 817600-1363
+  comment: null
+  categories:
+  - religion
+  web: https://osterledskyrkan.se/
 
 - entry: 1235900949
   orgName: Tvååkers IF
@@ -30915,6 +30964,16 @@ entries:
   - hembygdsförening
   web: https://norabygden.com/
 
+- entry: 1236808299
+  orgName: Österledskyrkan i Gamla Uppsala
+  orgNumber: 817600-1363
+  comment: Barn- och Ungdomsverksamheten
+  categories:
+  - barnverksamhet
+  - religion
+  - ungdomsverksamhet
+  web: https://osterledskyrkan.se/
+
 - entry: 1236808554
   orgName: Ludvika TK - Tennis
   orgNumber: 883800-3997
@@ -31242,6 +31301,16 @@ entries:
   - försäljning
   - förvaring
   web: https://www.dackgubben.net/
+
+- entry: 1236899124
+  orgName: Udddevalla Sim
+  orgNumber: 802440-0171
+  comment: null
+  categories:
+  - idrottsförening
+  - simklubb
+  - simsällskap
+  web: https://www.uddevallasim.se/
 
 - entry: 1236899603
   orgName: Aisha Center

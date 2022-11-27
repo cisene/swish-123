@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-11-27-rev-125207
+# Date: 2022-11-27-rev-135210
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -170,6 +170,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230364281	802006-9392	Medborgarrättsrörelsen i Sverige, MRRS	https://mrrs.se/	intresseförening	
 1230365288	556768-8337	Marias Logi AB	https://mariaslogi.se/	hotell,logi	
 1230365882	012070-9027	Kronobergs Dreverklubb	https://kronobergsdk.se/	hund,hundklubb	
+1230366260	817600-1363	Österledskyrkan i Gamla Uppsala	https://osterledskyrkan.se/	religion,scoutkår	Scoutverksamheten
 1230366930	802463-4944	Cityidrott Landskrona	https://cityidrott.se/	idrott	
 1230369421	878000-5321	Västerås BK - Brottning	http://www.vasterasbrottarklubb.se/	brottning,brottningsklubb,intresseförening	Medlemsavgift
 1230369959	878000-2864	Västerås Gymnastikförening	http://www.vgf.nu/	gymnastikförening,idrottsförening	
@@ -236,6 +237,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230491829	802491-3082	Fatta!	https://www.fatta.nu/	intresseförening	
 1230492983	802477-4484	Strålskyddsstiftelsen	https://www.stralskyddsstiftelsen.se/	stiftelse	
 1230494906	802480-5726	Blåljuspersonalens Insamlingsstiftelse	https://blåljusstiftelsen.se/	blåljus,stiftelse	
+1230497792	875001-7611	Örebro City Golf & CC	https://orebrogolf.se/	golfklubb	
 1230498303	802461-5364	Bosses Hundhjälp	https://www.bosseshundhjalp.se/	djurskydd	
 1230498436	847000-4733	Friskis & Svettis Vellinge	https://www.friskissvettis.se/vellinge	friskvård,idrottsförening	
 1230498824	894001-3280	Green Devils, Björklövens Supporterklubb	http://www.greendevils.nu/	supporterklubb	
@@ -460,6 +462,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230961656	252000-8083	Visby Domkyrkoförsamling	https://www.svenskakyrkan.se/visby	religion	Natthärberget Birkagården
 1230970475	829502-6853	Djurens Vänner Växjö	https://www.djurensvanner.se/vaxjo	djurskydd	
 1230973818	882600-0989	IK Brage	https://ikbrage.se/	idrottsförening	Kiosk
+1230982710	802461-1926	Aspeboda Foundation For Children	https://www.affc.se/	hjälporganisation	
 1230987982	845001-7788	Kvinnojouren Lund	https://kvinnojourenlund.se/	kvinnojour,tjejjour	
 1230988303	862501-3324	Sundals Ryrs Byalag	http://sundalsryr.se/	byalag	
 1230988659	866601-0064	Skövde Brukshundklubb	http://www.skovdebk.se/	brukshundsklubb,hundsport	
@@ -1988,6 +1991,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233851185	252003-0202	Svenska kyrkan Mölndal	https://www.svenskakyrkan.se/molndal/hbe	religion	HBE (Hopp för barn i Etiopien)
 1233851573	826001-0999	Jönköpings Sportdansklubb	https://jsdk.se/	dansförening,danssport	
 1233851631	556558-9743	Pinocchio Massage & Friskvård AB	http://pinocchio.se/	friskvård,massage	
+1233852225	802502-0762	Rastplats Söder	https://www.rastplatssoder.se/	religion	
 1233852274	480409-XXXX	Härliga Hjörnered / Elver Åkesson	https://harligahjornered.se/	friluftsliv	
 1233852498	853300-6360	Kyrkesunds Byalag	https://www.kyrkesundsbyalag.se/	byalag,hembygdsförening	
 1233860368	802004-2688	ArkDes Vänner	https://arkitekturensvanner.se/	intresseförening	
@@ -3010,6 +3014,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235803937	769611-9077	HSB Bostadsrättsförening Mälarängen i Järfälla	https://www.hsb.se/stockholm/brf/malarangen/	bostadsrättsförening	
 1235804117	556287-3777	DCL Data Centrum Linköping AB	https://dcl.se/	dator support,försäljning	
 1235807318	802454-6593	Lions Club Hindås	http://lionsclub-hindas.se/	lionsklubb	
+1235808027	893202-0954	Svegs Golfklubb	https://www.svegsgk.se/	golfklubb	
 1235808852	823000-9949	Alvastraryttarna Föreningen - Ridsport	https://www.alvastraryttarna.se/	hästsport,ridklubb,ryttarförening	
 1235808902	802438-3476	Equmeniakyrkan Gotland, Snäckan	https://snackan.nu/	religion	
 1235809066	832401-8145	Gymmet i Vissefjärda / Vissefjärda Samhällsförening	http://gymmet.org/	hembygdsförening	
@@ -3055,6 +3060,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235893623	802426-6358	Change Attitude	https://changeattitude.org/	hjälporganisation,intresseorganisation	
 1235894472	825001-5834	Lions Club Finspång	http://www.lionsfinspang.se/	lionsklubb	
 1235896436	802497-5024	Lions Club Ulricehamn	https://lionsulricehamn.se/	lionsklubb	
+1235900691	817600-1363	Österledskyrkan i Gamla Uppsala	https://osterledskyrkan.se/	religion	
 1235900949	849600-2562	Tvååkers IF	https://www.tvaakersif.se/	idrottsförening	Entré och parkering
 1235904677	878000-5735	Surahammars IF	https://surahammarsif.se/	idrottsförening	
 1235909379	802520-5520	Hälleforsnäs Bygderåd	https://halleforsnas.org/	hembygdsförening	
@@ -3515,6 +3521,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236805535	862000-4443	Åmåls Ridklubb	https://åmålsridklubb.se/	hästsport,ridklubb,ridskola	
 1236805592	802427-6738	Föreningen Nyhemsveckan	https://nyhemsveckan.se/	religion	
 1236807259	888400-2372	Nora Hembygdsförening	https://norabygden.com/	hembygdsförening	
+1236808299	817600-1363	Österledskyrkan i Gamla Uppsala	https://osterledskyrkan.se/	barnverksamhet,religion,ungdomsverksamhet	Barn- och Ungdomsverksamheten
 1236808554	883800-3997	Ludvika TK - Tennis	https://www.ludvikatennisklubb.se/	tennisklubb	
 1236809560	559060-0598	NiD Veterinärklinik AB	http://nidvet.se/	djurvård,veterinär	
 1236811707	559110-8625	Eskilstuna Sushi Bar / Spicy Soup AB	https://www.eskilstunasushibar.se/	restaurant,sushi	
@@ -3552,6 +3559,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236895858	812800-5942	Botkyrka Golfklubb	http://www.botkyrkagk.se/	golfklubb	
 1236896708	802521-6279	Alltid Sedd	https://www.alltidsedd.se/	kvinnojour,tjejjour	
 1236896740	556509-7341	Däckgubben / Transport & Lager Eskilstuna Aktiebolag	https://www.dackgubben.net/	fordonsutrustning,försäljning,förvaring	
+1236899124	802440-0171	Udddevalla Sim	https://www.uddevallasim.se/	idrottsförening,simklubb,simsällskap	
 1236899603	802469-3288	Aisha Center	https://aishacenter.se/	religion	
 1236901557	769612-0976	Brf Ingebäckslyckan 1	https://www.brfingebackslyckan.se/	bostadsrättsförening	
 1236901797	969708-9564	Hallmansgårdens Förlag HB - CTVC	https://ctvc.se/	förlag	
