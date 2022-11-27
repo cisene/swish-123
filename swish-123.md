@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-11-27-rev-112954
+Date:     2022-11-27-rev-114055
 ...
 
 # Swish 123 Nummer
@@ -1402,6 +1402,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232722056 | 853300-5503 | Romelanda Hembygdsförening                                                                           | [Link](https://www.romelandahembygdsforening.se/) |
 | 1232722742 | 802473-0486 | Hägglunds Ski Team SK - Skidor                                                                       | [Link](https://www.hagglundsskiteam.se/) |
 | 1232723310 | 252004-1902 | Båstad-Östra Karups Församling                                                                       | [Link](https://www.svenskakyrkan.se/bastad) |
+| 1232723534 | 802411-5431 | Gustavsbergs Simsällskap, GSS                                                                        | [Link](https://www.gssweb.se/) |
 | 1232723585 | 812400-4279 | Tyresögymnastiken                                                                                    | [Link](https://www.tyresogymnastiken.se/) |
 | 1232725364 | 849200-3283 | Pingstförsamlingen i Halmstad                                                                        | [Link](https://www.halmstad.pingst.se/) |
 | 1232740553 | 819000-6026 | Stjärnholms Ryttarförening                                                                           | [Link](http://stjarnholmsrf.se/) |

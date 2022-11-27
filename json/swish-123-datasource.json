@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-112954",
+    "date": "2022-11-27-rev-114055",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13615,6 +13615,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/bastad"
+    },
+    {
+      "entry": 1232723534,
+      "orgNumber": "802411-5431",
+      "orgName": "Gustavsbergs Sims\u00e4llskap, GSS",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sims\u00e4llskap"
+      ],
+      "web": "https://www.gssweb.se/"
     },
     {
       "entry": 1232723585,

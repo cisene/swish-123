@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-11-27-rev-112954
+# Date: 2022-11-27-rev-114055
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1400,6 +1400,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232722056	853300-5503	Romelanda Hembygdsförening	https://www.romelandahembygdsforening.se/	hembygdsförening	
 1232722742	802473-0486	Hägglunds Ski Team SK - Skidor	https://www.hagglundsskiteam.se/	idrottsförening,skidor	Cafeteria
 1232723310	252004-1902	Båstad-Östra Karups Församling	https://www.svenskakyrkan.se/bastad	religion	
+1232723534	802411-5431	Gustavsbergs Simsällskap, GSS	https://www.gssweb.se/	idrottsförening,simsällskap	
 1232723585	812400-4279	Tyresögymnastiken	https://www.tyresogymnastiken.se/	förening,gymnastikförening	
 1232725364	849200-3283	Pingstförsamlingen i Halmstad	https://www.halmstad.pingst.se/	religion	
 1232740553	819000-6026	Stjärnholms Ryttarförening	http://stjarnholmsrf.se/	hästsport,ryttarförening	
