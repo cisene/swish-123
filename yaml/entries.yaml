@@ -2035,6 +2035,14 @@ entries:
   - yoga
   web: https://livsuniversitetet.se/
 
+- entry: 1230489179
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Skövde
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/skovde/
+
 - entry: 1230489542
   orgName: Långbergets Sporthotell AB
   orgNumber: 556645-6728
@@ -4379,6 +4387,15 @@ entries:
   categories:
   - religion
   web: https://kungsor.pingst.se/
+
+- entry: 1231051978
+  orgName: Topfunhoppborgar AB
+  orgNumber: 556986-2823
+  comment: null
+  categories:
+  - hinderbana
+  - hoppborg
+  web: https://www.topfunhoppborgar.se/
 
 - entry: 1231052364
   orgName: Böda Hembygdsförening
@@ -7260,6 +7277,15 @@ entries:
   - kampsportsförening
   - taekwondo
   web: https://www.sporttaekwondo.se/
+
+- entry: 1231629328
+  orgName: Falköpings FK
+  orgNumber: 867800-5649
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.falkopingsfk.se/
 
 - entry: 1231629427
   orgName: Kungsbacka IF
@@ -11948,6 +11974,15 @@ entries:
   - ridklubb
   - ridsport
   web: https://www.tirk.se/
+
+- entry: 1232648939
+  orgName: Nippon & Frezon Catering AB
+  orgNumber: 556663-9133
+  comment: null
+  categories:
+  - catering
+  - restaurant
+  web: https://nipponfrezon.se/
 
 - entry: 1232649234
   orgName: Föreningen S:t Martin
@@ -22754,6 +22789,15 @@ entries:
   - religion
   web: https://www.pingstkyrkanrottne.se/
 
+- entry: 1235030820
+  orgName: Örnsköldsviks Biodlarförening
+  orgNumber: 802508-6789
+  comment: null
+  categories:
+  - biodling
+  - förening
+  web: https://nolabi.se/
+
 - entry: 1235031505
   orgName: Predikan & Undervisning - Elvor & Janne
   orgNumber: 802473-0841
@@ -24394,6 +24438,16 @@ entries:
   categories:
   - stiftelse
   web: https://hallbarutvecklingkrisochberedskap.se/
+
+- entry: 1235350350
+  orgName: Food Addicts Anonymous, Anonyma matmissbrukare, FAA
+  orgNumber: 802415-7250
+  comment: null
+  categories:
+  - information
+  - intresseförening
+  - missbruk
+  web: https://www.faa.se/
 
 - entry: 1235350525
   orgName: Föreningen kultur vid Örbyhus Slott
@@ -26318,6 +26372,14 @@ entries:
   - katthem
   web: https://www.huskatten.com/
 
+- entry: 1235719919
+  orgName: Ringarums Hembygdsförening
+  orgNumber: 825002-4604
+  comment: null
+  categories:
+  - hembygdsförening
+  web: http://ringarum.net/
+
 - entry: 1235724059
   orgName: Lions Club Löddeköpinge
   orgNumber: 802463-7186
@@ -27714,6 +27776,15 @@ entries:
   - kvinnojour
   - tjejjour
   web: https://www.unizonjourer.se/kvinnojourenmira/
+
+- entry: 1236023089
+  orgName: IFK Wreta Kloster
+  orgNumber: 822000-7168
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ifkwretakloster
 
 - entry: 1236025118
   orgName: Bohus Bataljon
@@ -30608,6 +30679,15 @@ entries:
   - djurvård
   - utbildning
   web: https://www.4h.se/naturhjaltarna/
+
+- entry: 1236675854
+  orgName: Uppsala Universitets Internationella Stipendiefond / Uppsala Universitet
+  orgNumber: 202100-2932
+  comment: null
+  categories:
+  - stipendium
+  - utbildning
+  web: https://www.uu.se/
 
 - entry: 1236678262
   orgName: American Akita Klubb Sverige

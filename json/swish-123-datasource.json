@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-161828",
+    "date": "2022-11-27-rev-164715",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2245,6 +2245,16 @@
         "yoga"
       ],
       "web": "https://livsuniversitetet.se/"
+    },
+    {
+      "entry": 1230489179,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Sk\u00f6vde",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/skovde/"
     },
     {
       "entry": 1230489542,
@@ -4857,6 +4867,16 @@
         "religion"
       ],
       "web": "https://kungsor.pingst.se/"
+    },
+    {
+      "entry": 1231051978,
+      "orgNumber": "556986-2823",
+      "orgName": "Topfunhoppborgar AB",
+      "categories": [
+        "hinderbana",
+        "hoppborg"
+      ],
+      "web": "https://www.topfunhoppborgar.se/"
     },
     {
       "entry": 1231052364,
@@ -8051,6 +8071,16 @@
         "taekwondo"
       ],
       "web": "https://www.sporttaekwondo.se/"
+    },
+    {
+      "entry": 1231629328,
+      "orgNumber": "867800-5649",
+      "orgName": "Falk\u00f6pings FK",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.falkopingsfk.se/"
     },
     {
       "entry": 1231629427,
@@ -13279,6 +13309,16 @@
         "ridsport"
       ],
       "web": "https://www.tirk.se/"
+    },
+    {
+      "entry": 1232648939,
+      "orgNumber": "556663-9133",
+      "orgName": "Nippon & Frezon Catering AB",
+      "categories": [
+        "catering",
+        "restaurant"
+      ],
+      "web": "https://nipponfrezon.se/"
     },
     {
       "entry": 1232649234,
@@ -25206,6 +25246,16 @@
       "web": "https://www.pingstkyrkanrottne.se/"
     },
     {
+      "entry": 1235030820,
+      "orgNumber": "802508-6789",
+      "orgName": "\u00d6rnsk\u00f6ldsviks Biodlarf\u00f6rening",
+      "categories": [
+        "biodling",
+        "f\u00f6rening"
+      ],
+      "web": "https://nolabi.se/"
+    },
+    {
       "entry": 1235031505,
       "orgNumber": "802473-0841",
       "orgName": "Predikan & Undervisning - Elvor & Janne",
@@ -27018,6 +27068,17 @@
         "stiftelse"
       ],
       "web": "https://hallbarutvecklingkrisochberedskap.se/"
+    },
+    {
+      "entry": 1235350350,
+      "orgNumber": "802415-7250",
+      "orgName": "Food Addicts Anonymous, Anonyma matmissbrukare, FAA",
+      "categories": [
+        "information",
+        "intressef\u00f6rening",
+        "missbruk"
+      ],
+      "web": "https://www.faa.se/"
     },
     {
       "entry": 1235350525,
@@ -29154,6 +29215,15 @@
       "web": "https://www.huskatten.com/"
     },
     {
+      "entry": 1235719919,
+      "orgNumber": "825002-4604",
+      "orgName": "Ringarums Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://ringarum.net/"
+    },
+    {
       "entry": 1235724059,
       "orgNumber": "802463-7186",
       "orgName": "Lions Club L\u00f6ddek\u00f6pinge",
@@ -30704,6 +30774,16 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenmira/"
+    },
+    {
+      "entry": 1236023089,
+      "orgNumber": "822000-7168",
+      "orgName": "IFK Wreta Kloster",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ifkwretakloster"
     },
     {
       "entry": 1236025118,
@@ -33850,6 +33930,16 @@
         "utbildning"
       ],
       "web": "https://www.4h.se/naturhjaltarna/"
+    },
+    {
+      "entry": 1236675854,
+      "orgNumber": "202100-2932",
+      "orgName": "Uppsala Universitets Internationella Stipendiefond / Uppsala Universitet",
+      "categories": [
+        "stipendium",
+        "utbildning"
+      ],
+      "web": "https://www.uu.se/"
     },
     {
       "entry": 1236678262,
