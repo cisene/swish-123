@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2022-11-26-rev-195701
+Date:     2022-11-27-rev-111003
 ...
 
 # Swish 123 Nummer
@@ -3289,6 +3289,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236372577 | 878001-9215 | SDF - Svensk Dystoni-Förening                                                                        | [Link](https://www.dystoni.se/) |
 | 1236372841 | 802511-7683 | Eksjö Bridgeklubb                                                                                    | [Link](https://www.svenskbridge.se/eksjö-bk) |
 | 1236372890 | 802442-8503 | Svenska Åsneföreningen                                                                               | [Link](http://asneforeningen.org/) |
+| 1236383434 | 802426-1250 | Sverige för UNHCR                                                                                    | [Link](https://www.sverigeforunhcr.se/) |
 | 1236386379 | 820504-XXXX | Trädgårdstrollet / Jasmine Waara                                                                     | [Link](https://www.tradgardstrollet.se/) |
 | 1236387112 | 838201-3905 | CMK - Christianstads MotorbåtsKlubb                                                                  | [Link](http://kristianstadsbatklubb.se/) |
 | 1236388094 | 802525-2092 | Vegeå Båtklubb                                                                                       | [Link](https://vegeabatklubb.se/) |
