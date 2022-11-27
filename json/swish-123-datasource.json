@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-150214",
+    "date": "2022-11-27-rev-155708",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2330,6 +2330,16 @@
       "web": "https://orebro.pingst.se/"
     },
     {
+      "entry": 1230502534,
+      "orgNumber": "556726-5755",
+      "orgName": "Pernova Hj\u00e4lpmedel AB",
+      "categories": [
+        "hj\u00e4lpmedel",
+        "medicintekniska hj\u00e4lpmedel"
+      ],
+      "web": "https://www.pernova.se/"
+    },
+    {
       "entry": 1230503300,
       "orgNumber": "866000-6431",
       "orgName": "T\u00f6reboda Scoutk\u00e5r",
@@ -2878,6 +2888,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/dfkhaSko"
+    },
+    {
+      "entry": 1230670950,
+      "orgNumber": "802003-9205",
+      "orgName": "\u00c4lvsj\u00f6 Missionsf\u00f6rsamling",
+      "comment": "Kollekt, g\u00e5va",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://alvsjokyrkan.se/"
     },
     {
       "entry": 1230680728,
@@ -12050,6 +12070,15 @@
       "web": "http://www.ofiffotboll.se/"
     },
     {
+      "entry": 1232385508,
+      "orgNumber": "556708-9718",
+      "orgName": "LP:s Biodling AB",
+      "categories": [
+        "biodling"
+      ],
+      "web": "https://www.lpsbiodling.se/"
+    },
+    {
       "entry": 1232386639,
       "orgNumber": "802506-2400",
       "orgName": "Demokraterna",
@@ -15166,6 +15195,16 @@
       "web": "https://hundarutanhem.se/"
     },
     {
+      "entry": 1232990604,
+      "orgNumber": "802003-9205",
+      "orgName": "\u00c4lvsj\u00f6 Missionsf\u00f6rsamling",
+      "comment": "Insamling, Entr\u00e9",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://alvsjokyrkan.se/"
+    },
+    {
       "entry": 1232990687,
       "orgNumber": "818000-1029",
       "orgName": "Eskilstuna GUIF IF",
@@ -17672,6 +17711,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.hbgostraif.se/"
+    },
+    {
+      "entry": 1233456886,
+      "orgNumber": "825000-4358",
+      "orgName": "Pingstkyrkan I S\u00f6derk\u00f6ping",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://pingstsoderkoping.se/"
     },
     {
       "entry": 1233457678,
@@ -22545,6 +22593,15 @@
       "web": "https://ostraljungbybygdegard.se/"
     },
     {
+      "entry": 1234424768,
+      "orgNumber": "802011-0592",
+      "orgName": "Equmenia \u00c4lvsj\u00f6",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://alvsjokyrkan.se/"
+    },
+    {
       "entry": 1234425377,
       "orgNumber": "802412-1868",
       "orgName": "The Humane school / F\u00f6reningen Sofia",
@@ -22662,6 +22719,15 @@
         "blog"
       ],
       "web": "https://uvell.se/"
+    },
+    {
+      "entry": 1234454211,
+      "orgNumber": "802481-2839",
+      "orgName": "Insamlingsstiftelsen f\u00f6r Tobias Forsberg",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://stiftelseforsberg.se/"
     },
     {
       "entry": 1234465720,
@@ -23108,6 +23174,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "http://www.mediemission.se/"
+    },
+    {
+      "entry": 1234548871,
+      "orgNumber": "802003-9205",
+      "orgName": "\u00c4lvsj\u00f6 Missionsf\u00f6rsamling",
+      "comment": "Kyrkkaffe",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://alvsjokyrkan.se/"
     },
     {
       "entry": 1234559597,
@@ -23991,6 +24067,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://www.lokrume.se/"
+    },
+    {
+      "entry": 1234744819,
+      "orgNumber": "802481-2839",
+      "orgName": "Insamlingsstiftelsen f\u00f6r Tobias Forsberg",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://stiftelseforsberg.se/"
     },
     {
       "entry": 1234745303,
@@ -29334,6 +29419,17 @@
       "web": "https://pingstkyrka.se/"
     },
     {
+      "entry": 1235783212,
+      "orgNumber": "770729-XXXX",
+      "orgName": "Mikrobryggeriet i M\u00f6nster\u00e5s / Mattias Hammargren",
+      "categories": [
+        "bryggeri",
+        "mikrobryggeri",
+        "\u00f6lframst\u00e4llning"
+      ],
+      "web": "https://www.mikrobryggerietviking.se/"
+    },
+    {
       "entry": 1235787262,
       "orgNumber": "883800-8160",
       "orgName": "Ludvika Paddlarklubb",
@@ -30058,6 +30154,17 @@
         "westernridning"
       ],
       "web": "https://www.twrs.se/"
+    },
+    {
+      "entry": 1235933072,
+      "orgNumber": "817606-5459",
+      "orgName": "Smedernas Speedwayf\u00f6rening",
+      "categories": [
+        "f\u00f6rening",
+        "f\u00f6rs\u00e4ljning",
+        "speedway"
+      ],
+      "web": "https://www.eskilstunasmederna.se/"
     },
     {
       "entry": 1235934708,
@@ -31020,6 +31127,16 @@
         "lionsklubb"
       ],
       "web": "https://lions.sjobo.nu/"
+    },
+    {
+      "entry": 1236109615,
+      "orgNumber": "802452-4913",
+      "orgName": "Br\u00e4nnkyrka F\u00f6rsamlings Fredsgrupp",
+      "categories": [
+        "intressef\u00f6rening",
+        "religion"
+      ],
+      "web": "https://www.brannkyrka.org/forsamlingen/internationellt-arbete/fredsgruppen/"
     },
     {
       "entry": 1236111744,
@@ -32221,6 +32338,18 @@
         "intressef\u00f6rening"
       ],
       "web": "https://hemlosa.se/julbord/"
+    },
+    {
+      "entry": 1236340376,
+      "orgNumber": "740119-XXXX",
+      "orgName": "Moriks F\u00e5rg\u00e5rd / Therese Magnusson",
+      "categories": [
+        "cafe",
+        "djuruppf\u00f6dning",
+        "g\u00e5rdsbutik",
+        "g\u00e5rdsf\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://moriksfargard.se/"
     },
     {
       "entry": 1236341259,
@@ -34874,6 +35003,15 @@
         "sportmarterial"
       ],
       "web": "https://www.sportjouren.se/"
+    },
+    {
+      "entry": 1236908966,
+      "orgNumber": "252000-0650",
+      "orgName": "Br\u00e4nnkyrka F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.brannkyrka.org/"
     },
     {
       "entry": 1236910459,

@@ -2108,6 +2108,15 @@ entries:
   - religion
   web: https://orebro.pingst.se/
 
+- entry: 1230502534
+  orgName: Pernova Hjälpmedel AB
+  orgNumber: 556726-5755
+  comment: null
+  categories:
+  - hjälpmedel
+  - medicintekniska hjälpmedel
+  web: https://www.pernova.se/
+
 - entry: 1230503300
   orgName: Töreboda Scoutkår
   orgNumber: 866000-6431
@@ -2615,6 +2624,14 @@ entries:
   categories:
   - idrottsförening
   web: https://www.svenskalag.se/dfkhaSko
+
+- entry: 1230670950
+  orgName: Älvsjö Missionsförsamling
+  orgNumber: 802003-9205
+  comment: Kollekt, gåva
+  categories:
+  - religion
+  web: https://alvsjokyrkan.se/
 
 - entry: 1230680728
   orgName: Klagstorps IF - Fotboll
@@ -10840,6 +10857,14 @@ entries:
   - idrottsförening
   web: http://www.ofiffotboll.se/
 
+- entry: 1232385508
+  orgName: LP:s Biodling AB
+  orgNumber: 556708-9718
+  comment: null
+  categories:
+  - biodling
+  web: https://www.lpsbiodling.se/
+
 - entry: 1232386639
   orgName: Demokraterna
   orgNumber: 802506-2400
@@ -13636,6 +13661,14 @@ entries:
   - djurskydd
   web: https://hundarutanhem.se/
 
+- entry: 1232990604
+  orgName: Älvsjö Missionsförsamling
+  orgNumber: 802003-9205
+  comment: Insamling, Entré
+  categories:
+  - religion
+  web: https://alvsjokyrkan.se/
+
 - entry: 1232990687
   orgName: Eskilstuna GUIF IF
   orgNumber: 818000-1029
@@ -15939,6 +15972,14 @@ entries:
   categories:
   - idrottsförening
   web: https://www.hbgostraif.se/
+
+- entry: 1233456886
+  orgName: Pingstkyrkan I Söderköping
+  orgNumber: 825000-4358
+  comment: null
+  categories:
+  - religion
+  web: https://pingstsoderkoping.se/
 
 - entry: 1233457678
   orgName: IBF Falun Utveckling
@@ -20363,6 +20404,14 @@ entries:
   - förening
   web: https://ostraljungbybygdegard.se/
 
+- entry: 1234424768
+  orgName: Equmenia Älvsjö
+  orgNumber: 802011-0592
+  comment: null
+  categories:
+  - religion
+  web: https://alvsjokyrkan.se/
+
 - entry: 1234425377
   orgName: The Humane school / Föreningen Sofia
   orgNumber: 802412-1868
@@ -20467,6 +20516,14 @@ entries:
   categories:
   - blog
   web: https://uvell.se/
+
+- entry: 1234454211
+  orgName: Insamlingsstiftelsen för Tobias Forsberg
+  orgNumber: 802481-2839
+  comment: null
+  categories:
+  - stiftelse
+  web: https://stiftelseforsberg.se/
 
 - entry: 1234465720
   orgName: Micke Ahlgrens Orkester Aktiebolag
@@ -20860,6 +20917,14 @@ entries:
   categories:
   - hjälporganisation
   web: http://www.mediemission.se/
+
+- entry: 1234548871
+  orgName: Älvsjö Missionsförsamling
+  orgNumber: 802003-9205
+  comment: Kyrkkaffe
+  categories:
+  - religion
+  web: https://alvsjokyrkan.se/
 
 - entry: 1234559597
   orgName: Polisskadestiftelsen
@@ -21660,6 +21725,14 @@ entries:
   categories:
   - hembygdsförening
   web: http://www.lokrume.se/
+
+- entry: 1234744819
+  orgName: Insamlingsstiftelsen för Tobias Forsberg
+  orgNumber: 802481-2839
+  comment: null
+  categories:
+  - stiftelse
+  web: https://stiftelseforsberg.se/
 
 - entry: 1234745303
   orgName: Gardenize AB
@@ -26478,6 +26551,16 @@ entries:
   - religion
   web: https://pingstkyrka.se/
 
+- entry: 1235783212
+  orgName: Mikrobryggeriet i Mönsterås / Mattias Hammargren
+  orgNumber: 770729-XXXX
+  comment: null
+  categories:
+  - bryggeri
+  - mikrobryggeri
+  - ölframställning
+  web: https://www.mikrobryggerietviking.se/
+
 - entry: 1235787262
   orgName: Ludvika Paddlarklubb
   orgNumber: 883800-8160
@@ -27140,6 +27223,16 @@ entries:
   - westernklubb
   - westernridning
   web: https://www.twrs.se/
+
+- entry: 1235933072
+  orgName: Smedernas Speedwayförening
+  orgNumber: 817606-5459
+  comment: null
+  categories:
+  - förening
+  - försäljning
+  - speedway
+  web: https://www.eskilstunasmederna.se/
 
 - entry: 1235934708
   orgName: Herrviks Motorförening
@@ -27997,6 +28090,15 @@ entries:
   categories:
   - lionsklubb
   web: https://lions.sjobo.nu/
+
+- entry: 1236109615
+  orgName: Brännkyrka Församlings Fredsgrupp
+  orgNumber: 802452-4913
+  comment: null
+  categories:
+  - intresseförening
+  - religion
+  web: https://www.brannkyrka.org/forsamlingen/internationellt-arbete/fredsgruppen/
 
 - entry: 1236111744
   orgName: AMAL Sweden / Amal Express Ekonomisk Förening
@@ -29095,6 +29197,17 @@ entries:
   categories:
   - intresseförening
   web: https://hemlosa.se/julbord/
+
+- entry: 1236340376
+  orgName: Moriks Fårgård / Therese Magnusson
+  orgNumber: 740119-XXXX
+  comment: null
+  categories:
+  - cafe
+  - djuruppfödning
+  - gårdsbutik
+  - gårdsförsäljning
+  web: https://moriksfargard.se/
 
 - entry: 1236341259
   orgName: Yoga & Hälsa Öland / Tina Petersson
@@ -31545,6 +31658,14 @@ entries:
   - försäljning
   - sportmarterial
   web: https://www.sportjouren.se/
+
+- entry: 1236908966
+  orgName: Brännkyrka Församling
+  orgNumber: 252000-0650
+  comment: null
+  categories:
+  - religion
+  web: https://www.brannkyrka.org/
 
 - entry: 1236910459
   orgName: Malma Hembygdsförening
