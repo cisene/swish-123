@@ -282,6 +282,15 @@ entries:
   - politiskt parti
   web: https://sd.se/
 
+- entry: 1230073924
+  orgName: Studentkåren i Sundsvall
+  orgNumber: 889201-1258
+  comment: Journalistförbundet Sundsvall
+  categories:
+  - studentkår
+  - studentorganisation
+  web: https://studentkarenisundsvall.se/samarbetsforeningar/linjeforeningar/
+
 - entry: 1230074401
   orgName: Gamlens Gård / Johanna Skotte
   orgNumber: 840221-XXXX
@@ -3650,6 +3659,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://risback-vastsjo.se/
+
+- entry: 1230878439
+  orgName: Borgenkyrkan Ung i Tierp
+  orgNumber: 817300-4543
+  comment: null
+  categories:
+  - religion
+  - ungdomsverksamhet
+  web: https://borgenkyrkan.se/
 
 - entry: 1230878629
   orgName: Svenska Epilepsiförbundet
@@ -8504,6 +8522,15 @@ entries:
   - idrottsförening
   web: https://www.ifkanderstorp.com/
 
+- entry: 1231960368
+  orgName: Grothica / Janet Björklund
+  orgNumber: 700610-XXXX
+  comment: null
+  categories:
+  - försäljning
+  - kläder
+  web: https://www.grothica.se/
+
 - entry: 1231960798
   orgName: Rödeby CK - Motorcykel och Snöskoter
   orgNumber: 835000-6923
@@ -10805,6 +10832,14 @@ entries:
   - politiskt parti
   web: https://demokraterna.se/
 
+- entry: 1232386647
+  orgName: Borgenkyrkan Tierp
+  orgNumber: 817300-1630
+  comment: null
+  categories:
+  - religion
+  web: https://borgenkyrkan.se/
+
 - entry: 1232386753
   orgName: Stiftsgården Tallnäs
   orgNumber: 769613-8648
@@ -10812,6 +10847,16 @@ entries:
   categories:
   - stiftelse
   web: https://tallnas.se/
+
+- entry: 1232387389
+  orgName: Öppet Hus
+  orgNumber: 802445-8906
+  comment: null
+  categories:
+  - mångfald
+  - ungdomsverksamhet
+  - utbildning
+  web: https://www.oppethus.se/
 
 - entry: 1232389161
   orgName: Equmeniakyrkan
@@ -15025,6 +15070,14 @@ entries:
   - riksorganisation
   web: https://farr.se/
 
+- entry: 1233284577
+  orgName: Överkalix Kommun
+  orgNumber: 212000-2684
+  comment: Cafeteria
+  categories:
+  - cafe
+  web: https://www.overkalix.se/
+
 - entry: 1233289469
   orgName: Fredrika Framtid
   orgNumber: 802476-9195
@@ -16487,6 +16540,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sodraoland
 
+- entry: 1233590528
+  orgName: Stockholms Improvisationsteater AB
+  orgNumber: 556632-9495
+  comment: null
+  categories:
+  - improvisationsteater
+  - teater
+  web: http://www.impro.a.se/
+
 - entry: 1233591757
   orgName: Sundsvalls Tekniska Förening, SUTF
   orgNumber: 889200-3651
@@ -17206,6 +17268,14 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.guif.nu/
+
+- entry: 1233794237
+  orgName: Karlskrona Hockeyklubb
+  orgNumber: 835001-2327
+  comment: null
+  categories:
+  - hockeyklubb
+  web: https://www.khk.se/
 
 - entry: 1233794930
   orgName: Åre/Duved Scoutkår
@@ -21213,6 +21283,16 @@ entries:
   - husdjur
   web: http://www.tpshundbutik.se/
 
+- entry: 1234662896
+  orgName: Kämpinge vattensportklubb, KVSK
+  orgNumber: 847000-5656
+  comment: null
+  categories:
+  - kajakklubb
+  - segelklubb
+  - vattensport
+  web: https://www.kvsk.se/
+
 - entry: 1234665063
   orgName: Charlie's House - Fredagskassen / Christian & Louise i Båstad AB
   orgNumber: 556722-7789
@@ -23035,6 +23115,14 @@ entries:
   - hästsport
   - hästtransport
   web: https://www.rhtc.se/
+
+- entry: 1235126867
+  orgName: Stenungsunds Scoutkår
+  orgNumber: 853300-9406
+  comment: null
+  categories:
+  - scoutkår
+  web: https://stenungsund.scout.se/
 
 - entry: 1235127485
   orgName: Viking Support
@@ -27468,6 +27556,15 @@ entries:
   - golfklubb
   web: https://www.hasselabygdensgk.com/
 
+- entry: 1236026975
+  orgName: Angered Folkhögskola
+  orgNumber: 857206-5566
+  comment: null
+  categories:
+  - folkhögskola
+  - utbildning
+  web: https://angeredfolkhogskola.se/
+
 - entry: 1236027593
   orgName: Holistic Traning AB
   orgNumber: 556797-6195
@@ -30438,6 +30535,15 @@ entries:
   - pensionärsklubb
   web: https://sites.google.com/site/fkpulspantrar/
 
+- entry: 1236694145
+  orgName: Stiftelsen för Östersjölaxen
+  orgNumber: 802479-8970
+  comment: Laxskyddare
+  categories:
+  - fiskevård
+  - vattenvård
+  web: https://laxskyddare.se/
+
 - entry: 1236695357
   orgName: Strokeföreningen Tranås
   orgNumber: 802429-5878
@@ -30981,6 +31087,14 @@ entries:
   categories:
   - tennisklubb
   web: https://www.ludvikatennisklubb.se/
+
+- entry: 1236808737
+  orgName: Vånga Missionsförsamling
+  orgNumber: 825000-6171
+  comment: null
+  categories:
+  - religion
+  web: https://vangamissionskyrka.se/
 
 - entry: 1236809560
   orgName: NiD Veterinärklinik AB

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-135210",
+    "date": "2022-11-27-rev-143953",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -310,6 +310,17 @@
         "politiskt parti"
       ],
       "web": "https://sd.se/"
+    },
+    {
+      "entry": 1230073924,
+      "orgNumber": "889201-1258",
+      "orgName": "Studentk\u00e5ren i Sundsvall",
+      "comment": "Journalistf\u00f6rbundet Sundsvall",
+      "categories": [
+        "studentk\u00e5r",
+        "studentorganisation"
+      ],
+      "web": "https://studentkarenisundsvall.se/samarbetsforeningar/linjeforeningar/"
     },
     {
       "entry": 1230074401,
@@ -4040,6 +4051,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://risback-vastsjo.se/"
+    },
+    {
+      "entry": 1230878439,
+      "orgNumber": "817300-4543",
+      "orgName": "Borgenkyrkan Ung i Tierp",
+      "categories": [
+        "religion",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://borgenkyrkan.se/"
     },
     {
       "entry": 1230878629,
@@ -9443,6 +9464,16 @@
       "web": "https://www.ifkanderstorp.com/"
     },
     {
+      "entry": 1231960368,
+      "orgNumber": "700610-XXXX",
+      "orgName": "Grothica / Janet Bj\u00f6rklund",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "kl\u00e4der"
+      ],
+      "web": "https://www.grothica.se/"
+    },
+    {
       "entry": 1231960798,
       "orgNumber": "835000-6923",
       "orgName": "R\u00f6deby CK - Motorcykel och Sn\u00f6skoter",
@@ -12010,6 +12041,15 @@
       "web": "https://demokraterna.se/"
     },
     {
+      "entry": 1232386647,
+      "orgNumber": "817300-1630",
+      "orgName": "Borgenkyrkan Tierp",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://borgenkyrkan.se/"
+    },
+    {
       "entry": 1232386753,
       "orgNumber": "769613-8648",
       "orgName": "Stiftsg\u00e5rden Talln\u00e4s",
@@ -12017,6 +12057,17 @@
         "stiftelse"
       ],
       "web": "https://tallnas.se/"
+    },
+    {
+      "entry": 1232387389,
+      "orgNumber": "802445-8906",
+      "orgName": "\u00d6ppet Hus",
+      "categories": [
+        "m\u00e5ngfald",
+        "ungdomsverksamhet",
+        "utbildning"
+      ],
+      "web": "https://www.oppethus.se/"
     },
     {
       "entry": 1232389161,
@@ -16662,6 +16713,16 @@
       "web": "https://farr.se/"
     },
     {
+      "entry": 1233284577,
+      "orgNumber": "212000-2684",
+      "orgName": "\u00d6verkalix Kommun",
+      "comment": "Cafeteria",
+      "categories": [
+        "cafe"
+      ],
+      "web": "https://www.overkalix.se/"
+    },
+    {
       "entry": 1233289469,
       "orgNumber": "802476-9195",
       "orgName": "Fredrika Framtid",
@@ -18282,6 +18343,16 @@
       "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
+      "entry": 1233590528,
+      "orgNumber": "556632-9495",
+      "orgName": "Stockholms Improvisationsteater AB",
+      "categories": [
+        "improvisationsteater",
+        "teater"
+      ],
+      "web": "http://www.impro.a.se/"
+    },
+    {
       "entry": 1233591757,
       "orgNumber": "889200-3651",
       "orgName": "Sundsvalls Tekniska F\u00f6rening, SUTF",
@@ -19062,6 +19133,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.guif.nu/"
+    },
+    {
+      "entry": 1233794237,
+      "orgNumber": "835001-2327",
+      "orgName": "Karlskrona Hockeyklubb",
+      "categories": [
+        "hockeyklubb"
+      ],
+      "web": "https://www.khk.se/"
     },
     {
       "entry": 1233794930,
@@ -23489,6 +23569,17 @@
       "web": "http://www.tpshundbutik.se/"
     },
     {
+      "entry": 1234662896,
+      "orgNumber": "847000-5656",
+      "orgName": "K\u00e4mpinge vattensportklubb, KVSK",
+      "categories": [
+        "kajakklubb",
+        "segelklubb",
+        "vattensport"
+      ],
+      "web": "https://www.kvsk.se/"
+    },
+    {
       "entry": 1234665063,
       "orgNumber": "556722-7789",
       "orgName": "Charlie's House - Fredagskassen / Christian & Louise i B\u00e5stad AB",
@@ -25512,6 +25603,15 @@
         "h\u00e4sttransport"
       ],
       "web": "https://www.rhtc.se/"
+    },
+    {
+      "entry": 1235126867,
+      "orgNumber": "853300-9406",
+      "orgName": "Stenungsunds Scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://stenungsund.scout.se/"
     },
     {
       "entry": 1235127485,
@@ -30424,6 +30524,16 @@
       "web": "https://www.hasselabygdensgk.com/"
     },
     {
+      "entry": 1236026975,
+      "orgNumber": "857206-5566",
+      "orgName": "Angered Folkh\u00f6gskola",
+      "categories": [
+        "folkh\u00f6gskola",
+        "utbildning"
+      ],
+      "web": "https://angeredfolkhogskola.se/"
+    },
+    {
       "entry": 1236027593,
       "orgNumber": "556797-6195",
       "orgName": "Holistic Traning AB",
@@ -33650,6 +33760,17 @@
       "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/boras/"
     },
     {
+      "entry": 1236694145,
+      "orgNumber": "802479-8970",
+      "orgName": "Stiftelsen f\u00f6r \u00d6stersj\u00f6laxen",
+      "comment": "Laxskyddare",
+      "categories": [
+        "fiskev\u00e5rd",
+        "vattenv\u00e5rd"
+      ],
+      "web": "https://laxskyddare.se/"
+    },
+    {
       "entry": 1236695357,
       "orgNumber": "802429-5878",
       "orgName": "Strokef\u00f6reningen Tran\u00e5s",
@@ -34239,6 +34360,15 @@
         "tennisklubb"
       ],
       "web": "https://www.ludvikatennisklubb.se/"
+    },
+    {
+      "entry": 1236808737,
+      "orgNumber": "825000-6171",
+      "orgName": "V\u00e5nga Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://vangamissionskyrka.se/"
     },
     {
       "entry": 1236809560,
