@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-114055",
+    "date": "2022-11-27-rev-115620",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -802,6 +802,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://www.hjortnas.se/"
+    },
+    {
+      "entry": 1230201418,
+      "orgNumber": "252004-8873",
+      "orgName": "Gl\u00f6mminge-Algutsrum F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1230201772,
@@ -5537,6 +5546,15 @@
       "web": "http://www.stiftelsenyoung.se/"
     },
     {
+      "entry": 1231209543,
+      "orgNumber": "817301-2033",
+      "orgName": "Friskis & Svettis \u00d6sthammar",
+      "categories": [
+        "friskv\u00e5rd"
+      ],
+      "web": "https://www.friskissvettis.se/osthammar"
+    },
+    {
       "entry": 1231209998,
       "orgNumber": "802533-7786",
       "orgName": "Team Rynkeby Lund",
@@ -7387,6 +7405,15 @@
       "web": "https://www.vindelnsridklubb.se/"
     },
     {
+      "entry": 1231556661,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
       "entry": 1231557545,
       "orgNumber": "916472-0220",
       "orgName": "Fjellfotografen Tomas Johansson HB",
@@ -7856,6 +7883,15 @@
         "skytteklubb"
       ],
       "web": "https://www.anderstorpsskf.se/"
+    },
+    {
+      "entry": 1231628908,
+      "orgNumber": "252002-7323",
+      "orgName": "M\u00f6rbyl\u00e5nga-Kastl\u00f6sa F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1231629211,
@@ -8714,6 +8750,15 @@
         "golfklubb"
       ],
       "web": "https://ulriksdalsgk.se/"
+    },
+    {
+      "entry": 1231779537,
+      "orgNumber": "252002-7307",
+      "orgName": "Norra M\u00f6ckleby-Sandby-G\u00e5rdby F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1231780410,
@@ -11648,7 +11693,7 @@
     {
       "entry": 1232358901,
       "orgNumber": "802411-6249",
-      "orgName": "Bebyggelsehistoriska f\u00f6reningen i Stockholm",
+      "orgName": "Bebyggelsehistoriska F\u00f6reningen i Stockholm",
       "categories": [
         "byggnadskonst",
         "f\u00f6rening"
@@ -11680,7 +11725,7 @@
     {
       "entry": 1232361699,
       "orgNumber": "802505-5495",
-      "orgName": "Pite\u00e5 IF Orienteringsklubb - Orientering",
+      "orgName": "Pite\u00e5 IF Orienteringsklubb",
       "comment": "T\u00e4vling",
       "categories": [
         "idrottsf\u00f6rening",
@@ -18102,6 +18147,15 @@
       "web": "http://hlhf.se/"
     },
     {
+      "entry": 1233580941,
+      "orgNumber": "252002-7331",
+      "orgName": "Syd\u00f6lands F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
       "entry": 1233591757,
       "orgNumber": "889200-3651",
       "orgName": "Sundsvalls Tekniska F\u00f6rening, SUTF",
@@ -20494,6 +20548,15 @@
       "web": "http://www.advocatum.se/"
     },
     {
+      "entry": 1234079125,
+      "orgNumber": "252000-7234",
+      "orgName": "Torslunda F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
       "entry": 1234079265,
       "orgNumber": "252004-9947",
       "orgName": "G\u00e4vle F\u00f6rsamling",
@@ -21841,6 +21904,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://goteborgsmagiskaklubb.se/"
+    },
+    {
+      "entry": 1234356531,
+      "orgNumber": "252002-9980",
+      "orgName": "Resmo-Vickleby F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1234357000,
@@ -27250,6 +27322,15 @@
         "fiskev\u00e5rd"
       ],
       "web": "https://hastholmensfiskeklubb.blogspot.com/"
+    },
+    {
+      "entry": 1235486378,
+      "orgNumber": "252002-7315",
+      "orgName": "Hulterstad-Sten\u00e5sa F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1235490487,
