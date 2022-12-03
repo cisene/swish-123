@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-11-27-rev-164715",
+    "date": "2022-12-03-rev-171904",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2072,6 +2072,26 @@
         "f\u00f6rening"
       ],
       "web": "https://ljusfallshammar.nu/"
+    },
+    {
+      "entry": 1230461244,
+      "orgNumber": "843001-4087",
+      "orgName": "Arilds Byalag",
+      "comment": "Arildsdagen",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://arild.se/"
+    },
+    {
+      "entry": 1230461251,
+      "orgNumber": "843001-4087",
+      "orgName": "Arilds Byalag",
+      "comment": "Bass\u00e4ngen",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://arild.se/"
     },
     {
       "entry": 1230461632,
@@ -6690,6 +6710,16 @@
       "web": "https://www.a-sjo.se/"
     },
     {
+      "entry": 1231379395,
+      "orgNumber": "802476-7348",
+      "orgName": "Trelleborg Judo",
+      "categories": [
+        "judoklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.judotrelleborg.se/"
+    },
+    {
       "entry": 1231388180,
       "orgNumber": "827501-1412",
       "orgName": "Holsby Frikyrka",
@@ -6743,6 +6773,16 @@
         "f\u00f6rening",
         "intressef\u00f6rening"
       ]
+    },
+    {
+      "entry": 1231406578,
+      "orgNumber": "556515-3680",
+      "orgName": "Silf Competence AB",
+      "categories": [
+        "konsult",
+        "utbildning"
+      ],
+      "web": "https://www.silf.se/"
     },
     {
       "entry": 1231406727,
@@ -7761,6 +7801,15 @@
         "medium"
       ],
       "web": "https://finndinkraft.se/"
+    },
+    {
+      "entry": 1231598291,
+      "orgNumber": "802522-6146",
+      "orgName": "S\u00f6dra Vi \u00c4lg- och Kronhjortssk\u00f6tselomr\u00e5de",
+      "categories": [
+        "viltv\u00e5rd"
+      ],
+      "web": "https://sodraviaso.se/"
     },
     {
       "entry": 1231599976,
@@ -11877,6 +11926,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://vallaidrottsforening.se/"
+    },
+    {
+      "entry": 1232329027,
+      "orgNumber": "849200-1576",
+      "orgName": "Immanuelskyrkan Halmstad",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://immanuelskyrkan.org/"
     },
     {
       "entry": 1232329860,
@@ -19105,6 +19163,15 @@
       "web": "https://idrottonline.se/HebySkF-Skyttesport/"
     },
     {
+      "entry": 1233737418,
+      "orgNumber": "802514-3226",
+      "orgName": "Rotary H\u00e4ssleholm",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://hassleholm.rotary2400.se/"
+    },
+    {
       "entry": 1233737889,
       "orgNumber": "878000-5321",
       "orgName": "V\u00e4ster\u00e5s BK - Brottning",
@@ -21280,6 +21347,16 @@
       "web": "https://limmud.se/"
     },
     {
+      "entry": 1234150819,
+      "orgNumber": "556729-5802",
+      "orgName": "Reseproducenten Skellefte\u00e5 AB",
+      "categories": [
+        "researrang\u00f6r",
+        "resebyr\u00e5"
+      ],
+      "web": "http://reseproducenten.com/"
+    },
+    {
       "entry": 1234162988,
       "orgNumber": "802535-7305",
       "orgName": "Mediumf\u00f6rbundet",
@@ -22279,6 +22356,16 @@
         "hundklubb"
       ],
       "web": "http://www.gavleborgtaxklubb.se/"
+    },
+    {
+      "entry": 1234350914,
+      "orgNumber": "802481-2946",
+      "orgName": "Terapicenter f\u00f6r unga vuxna / Stiftelsen Young Solidarity Foundation",
+      "categories": [
+        "psykisk h\u00e4lsa",
+        "psykoterapi"
+      ],
+      "web": "https://1825.nu/"
     },
     {
       "entry": 1234351177,
@@ -25479,6 +25566,15 @@
       "web": "https://www.guif.nu/"
     },
     {
+      "entry": 1235092135,
+      "orgNumber": "559216-7281",
+      "orgName": "Mysore Malm\u00f6 / Upalaya AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.mysoremalmo.se/"
+    },
+    {
       "entry": 1235093414,
       "orgNumber": "559156-5402",
       "orgName": "YuBe AB",
@@ -25820,6 +25916,15 @@
         "tjejjour"
       ],
       "web": "https://nognu.org/"
+    },
+    {
+      "entry": 1235125208,
+      "orgNumber": "843001-4087",
+      "orgName": "Arilds Byalag",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://arild.se/"
     },
     {
       "entry": 1235126149,
@@ -26284,6 +26389,16 @@
         "rotaryklubb"
       ],
       "web": "https://malmo-sodra.rotary2390.se/"
+    },
+    {
+      "entry": 1235177431,
+      "orgNumber": "875003-4939",
+      "orgName": "Lill\u00e5n IBK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.laget.se/LillanIBK/"
     },
     {
       "entry": 1235177530,
@@ -32960,6 +33075,16 @@
       "web": "https://www.gospelverkstaden.se/"
     },
     {
+      "entry": 1236443394,
+      "orgNumber": "556956-1367",
+      "orgName": "Ving\u00e5kersVeterin\u00e4rerna AB",
+      "categories": [
+        "djurv\u00e5rd",
+        "veterin\u00e4r"
+      ],
+      "web": "http://www.vingakersveterinarerna.se/"
+    },
+    {
       "entry": 1236446033,
       "orgNumber": "889202-8773",
       "orgName": "GIF Sundsvalls Supporterklubb",
@@ -33890,6 +34015,15 @@
       "web": "http://www.yogaasa.se/"
     },
     {
+      "entry": 1236672083,
+      "orgNumber": "826001-1617",
+      "orgName": "R\u00e5sl\u00e4tts F\u00f6rsamlingsgemenskap",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://rfg.se/"
+    },
+    {
       "entry": 1236672174,
       "orgNumber": "826000-0784",
       "orgName": "Pingst J\u00f6nk\u00f6ping",
@@ -34169,6 +34303,15 @@
         "ungdomsverksamhet"
       ],
       "web": "https://kfumalnas.se/"
+    },
+    {
+      "entry": 1236712624,
+      "orgNumber": "897000-3078",
+      "orgName": "Byggnads Norrbotten",
+      "categories": [
+        "facklig organisation"
+      ],
+      "web": "https://www.byggnads.se/regioner/norrbotten/"
     },
     {
       "entry": 1236713523,
