@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-12-03-rev-171904",
+    "date": "2022-12-04-rev-125952",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -293,6 +293,15 @@
       "web": "https://www.edarf.se/"
     },
     {
+      "entry": 1230063859,
+      "orgNumber": "874400-1630",
+      "orgName": "Equmeniakyrkan \u00d6stervallskog",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/ostervallskog/"
+    },
+    {
       "entry": 1230068205,
       "orgNumber": "889601-1296",
       "orgName": "Hj\u00e4lptransporten Filippus",
@@ -360,6 +369,16 @@
         "hundsporthall"
       ],
       "web": "https://tailzone.se/"
+    },
+    {
+      "entry": 1230093955,
+      "orgNumber": "802438-1355",
+      "orgName": "Hela M\u00e4nniskan i Malm\u00f6",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "religion"
+      ],
+      "web": "https://helamanniskan.se/malmo/"
     },
     {
       "entry": 1230094268,
@@ -525,6 +544,16 @@
         "religion"
       ],
       "web": "https://www.pingstvarberg.se/"
+    },
+    {
+      "entry": 1230142919,
+      "orgNumber": "857200-4094",
+      "orgName": "Pingstkyrkan V\u00e4stra Fr\u00f6lunda",
+      "comment": "Utbyggnaden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://frolunda.pingst.se/"
     },
     {
       "entry": 1230142927,
@@ -2765,6 +2794,15 @@
       "web": "https://nordsvensken.org/"
     },
     {
+      "entry": 1230631440,
+      "orgNumber": "752000-1426",
+      "orgName": "HSB BRF Tegen",
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/molndal/brf/tegen/"
+    },
+    {
       "entry": 1230631663,
       "orgNumber": "835000-7921",
       "orgName": "PRO Hassl\u00f6",
@@ -3351,6 +3389,16 @@
         "religion"
       ],
       "web": "https://www.ostermalmskyrkan.nu/"
+    },
+    {
+      "entry": 1230747121,
+      "orgNumber": "556511-7974",
+      "orgName": "Leksands IF Ishockey AB",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.leksandsif.se/"
     },
     {
       "entry": 1230747899,
@@ -5477,6 +5525,15 @@
         "skytte"
       ],
       "web": "https://www.fokboras.se/"
+    },
+    {
+      "entry": 1231154178,
+      "orgNumber": "843000-6323",
+      "orgName": "Djurskydddet Helsingborg",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "https://www.djurskyddet.se/helsingborg/"
     },
     {
       "entry": 1231154764,
@@ -10809,6 +10866,16 @@
       "web": "http://www.fordonshistoriker.se/"
     },
     {
+      "entry": 1232178135,
+      "orgNumber": "802531-7176",
+      "orgName": "Svenska Covidf\u00f6renigen",
+      "categories": [
+        "intressef\u00f6rening",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://covidforeningen.se/"
+    },
+    {
       "entry": 1232179075,
       "orgNumber": "252004-9947",
       "orgName": "G\u00e4vle F\u00f6rsamling",
@@ -11975,6 +12042,15 @@
       "web": "https://bebyggelsehistoriska.se/"
     },
     {
+      "entry": 1232359685,
+      "orgNumber": "886500-0163",
+      "orgName": "Forsbrokyrkans F\u00f6rsamling i Arbr\u00e5",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://forsbrokyrkan.se/"
+    },
+    {
       "entry": 1232360949,
       "orgNumber": "802000-6790",
       "orgName": "Djurg\u00e5rdens Supporters Club",
@@ -12083,6 +12159,15 @@
         "golfklubb"
       ],
       "web": "https://lackogk.se/"
+    },
+    {
+      "entry": 1232373793,
+      "orgNumber": "252002-1268",
+      "orgName": "Viby F\u00f6rsamlning",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.vibyforsamling.se/"
     },
     {
       "entry": 1232374692,
@@ -13121,6 +13206,15 @@
         "konferens"
       ],
       "web": "https://www.kragga.se/"
+    },
+    {
+      "entry": 1232603223,
+      "orgNumber": "829501-5385",
+      "orgName": "Kronofors Idrottsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.frosekebygden.se/kronofors-if/"
     },
     {
       "entry": 1232603686,
@@ -15908,6 +16002,15 @@
       "web": "https://www.ingmarsspelen.se/"
     },
     {
+      "entry": 1233078201,
+      "orgNumber": "836201-1069",
+      "orgName": "Bygdef\u00f6reningen Tararp N\u00f6tabr\u00e5ne",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://www.bygdeforeningentararpnotabrane.se/"
+    },
+    {
       "entry": 1233079696,
       "orgNumber": "802521-7467",
       "orgName": "Neuro Ung Med MS",
@@ -16236,6 +16339,15 @@
       "web": "https://lagkostnadsbolaget.se/"
     },
     {
+      "entry": 1233143096,
+      "orgNumber": "802510-1521",
+      "orgName": "Ebba Petterssons F\u00f6r\u00e4ldraf\u00f6rening",
+      "categories": [
+        "f\u00f6r\u00e4ldraf\u00f6rening"
+      ],
+      "web": "http://ebbapetterssonff.se/"
+    },
+    {
       "entry": 1233143302,
       "orgNumber": "802497-8440",
       "orgName": "B\u00e4rens Hus",
@@ -16413,6 +16525,17 @@
         "lionsklubb"
       ],
       "web": "http://fsl.kund.dalnet.se/lionsweb.htm"
+    },
+    {
+      "entry": 1233200276,
+      "orgNumber": "252010-0021",
+      "orgName": "V\u00e5rdn\u00e4s Stiftsg\u00e5rd / Link\u00f6pings Stift",
+      "categories": [
+        "konferens",
+        "religion",
+        "restaurant"
+      ],
+      "web": "https://vardnas.se/"
     },
     {
       "entry": 1233200714,
@@ -18352,6 +18475,15 @@
         "yoga"
       ],
       "web": "https://saranyoga.se/"
+    },
+    {
+      "entry": 1233548906,
+      "orgNumber": "802474-5393",
+      "orgName": "Grindtorpskyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.grindtorpskyrkan.se/"
     },
     {
       "entry": 1233549151,
@@ -24629,6 +24761,16 @@
       "web": "https://www.hembygd.se/sodermanland"
     },
     {
+      "entry": 1234837449,
+      "orgNumber": "802437-6058",
+      "orgName": "V\u00e4ster\u00e5s Jaktskytteklubb",
+      "categories": [
+        "jaktskytteklubb",
+        "viltv\u00e5rd"
+      ],
+      "web": "https://vasterasjsk.se/"
+    },
+    {
       "entry": 1234837514,
       "orgNumber": "827500-2130",
       "orgName": "Vetlanda Missionskyrka",
@@ -27003,6 +27145,15 @@
       "web": "http://varuhuset.se/"
     },
     {
+      "entry": 1235312277,
+      "orgNumber": "202100-3054",
+      "orgName": "KTH Elektrosektionens Elektroniklaboratorium, ELAB",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.elab.kth.se/"
+    },
+    {
       "entry": 1235322490,
       "orgNumber": "770201-XXXX",
       "orgName": "Petras Hundfys / Petra Johansson",
@@ -27469,6 +27620,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://brannoforeningen.se/"
+    },
+    {
+      "entry": 1235402284,
+      "orgNumber": "802517-6317",
+      "orgName": "Gymnastikf\u00f6reningen \u00d6rebro",
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.gforebro.se/"
     },
     {
       "entry": 1235402292,
@@ -30071,6 +30232,15 @@
       "web": "https://www.savarakyrkan.se/"
     },
     {
+      "entry": 1235881107,
+      "orgNumber": "857200-4094",
+      "orgName": "Pingstkyrkan V\u00e4stra Fr\u00f6lunda",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://frolunda.pingst.se/"
+    },
+    {
       "entry": 1235881644,
       "orgNumber": "855100-9981",
       "orgName": "Smyrnakyrkan G\u00f6teborg",
@@ -30155,6 +30325,15 @@
         "supporterklubb"
       ],
       "web": "http://aia.nu/"
+    },
+    {
+      "entry": 1235890322,
+      "orgNumber": "802002-6004",
+      "orgName": "Svenska Pappers\u00adindustriarbetaref\u00f6rbundet",
+      "categories": [
+        "f\u00f6rbund"
+      ],
+      "web": "https://www.pappers.se/"
     },
     {
       "entry": 1235890405,
@@ -31733,6 +31912,15 @@
       "web": "https://hillsong.com/sweden/"
     },
     {
+      "entry": 1236162226,
+      "orgNumber": "875700-3077",
+      "orgName": "Betaniaf\u00f6rsamlingen \u00c5bytorp",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.betaniakyrkan.nu/"
+    },
+    {
       "entry": 1236162655,
       "orgNumber": "846002-7710",
       "orgName": "Sportfiskarna Sk\u00e5ne",
@@ -32790,6 +32978,16 @@
       "web": "https://sites.google.com/site/graesgaardsbastu/"
     },
     {
+      "entry": 1236366553,
+      "orgNumber": "827500-6016",
+      "orgName": "OK Njudung",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.oknjudung.se/"
+    },
+    {
       "entry": 1236369565,
       "orgNumber": "802476-0962",
       "orgName": "Tysk Jaktterrier Klubb",
@@ -33456,6 +33654,16 @@
       "web": "https://www.vrigstad.nu/"
     },
     {
+      "entry": 1236519953,
+      "orgNumber": "835001-0008",
+      "orgName": "Blekinge Ridsportf\u00f6rbund",
+      "categories": [
+        "f\u00f6rbund",
+        "ridsport"
+      ],
+      "web": "https://ridsport.se/distrikt/blekinge"
+    },
+    {
       "entry": 1236520068,
       "orgNumber": "802442-1623",
       "orgName": "Hammarby IF Ishockeyf\u00f6rening",
@@ -33569,6 +33777,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.fif.se/"
+    },
+    {
+      "entry": 1236537930,
+      "orgNumber": "895400-3185",
+      "orgName": "Storumans Idrottsklubb",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.storumansik.nu/"
     },
     {
       "entry": 1236539092,
@@ -33848,6 +34065,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/roslagsbro-vato-forsamling"
+    },
+    {
+      "entry": 1236624894,
+      "orgNumber": "848001-0761",
+      "orgName": "Stiftelsen Svenska Hj\u00e4rtan - till minne av Ebba Stefansdotter \u00c5kerlund",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://ebbasminnesfond.se/"
     },
     {
       "entry": 1236625438,
@@ -37075,7 +37301,9 @@
       "orgNumber": "802465-1591",
       "orgName": "MOD - Mer organdonation",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "intressef\u00f6rening",
+        "organdonation"
       ],
       "web": "https://www.merorgandonation.se/"
     },
