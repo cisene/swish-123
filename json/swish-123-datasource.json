@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-12-04-rev-125952",
+    "date": "2022-12-10-rev-184806",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13452,6 +13452,16 @@
       "web": "https://hfs.se/"
     },
     {
+      "entry": 1232644516,
+      "orgNumber": "802454-7542",
+      "orgName": "H\u00f6gs\u00e4ters Kanotklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kanotklubb"
+      ],
+      "web": "http://www.h\u00f6gs\u00e4terskanotklubb.se/"
+    },
+    {
       "entry": 1232647535,
       "orgNumber": "829501-3430",
       "orgName": "Tingsryds Rid O KK - Ridsport",
@@ -21347,6 +21357,16 @@
       "web": "https://www.svenskakyrkan.se/karlstadspastorat"
     },
     {
+      "entry": 1234127965,
+      "orgNumber": "790906-XXXX",
+      "orgName": "HundBiten / Lovisa Viktoria Dyn\u00e9r",
+      "categories": [
+        "hunddagis",
+        "hundsport"
+      ],
+      "web": "https://www.hundbiten.com/"
+    },
+    {
       "entry": 1234133484,
       "orgNumber": "895401-2202",
       "orgName": "Grundfors Byaf\u00f6rening",
@@ -22110,6 +22130,17 @@
         "yrkesf\u00f6rarutbildning"
       ],
       "web": "https://malarstadenstrafikskola.se/"
+    },
+    {
+      "entry": 1234272787,
+      "orgNumber": "802470-3319",
+      "orgName": "F\u00f6reningen Scoutmuse\u00e8t G\u00f6teborg",
+      "categories": [
+        "f\u00f6rening",
+        "museum",
+        "scoutk\u00e5r"
+      ],
+      "web": "https://scoutmuseetgbg.scout.se/"
     },
     {
       "entry": 1234273025,
@@ -28294,6 +28325,16 @@
       "web": "https://www.vasterasmosken.se/"
     },
     {
+      "entry": 1235522909,
+      "orgNumber": "556122-9005",
+      "orgName": "Hotell Royal i G\u00f6teborg AB",
+      "categories": [
+        "hotell",
+        "restaurant"
+      ],
+      "web": "https://www.hotel-royal.com/"
+    },
+    {
       "entry": 1235523667,
       "orgNumber": "556827-4509",
       "orgName": "TipsExtra / Peter H\u00e4rder AB",
@@ -31785,6 +31826,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://aselehembygdsforening.nu/"
+    },
+    {
+      "entry": 1236151443,
+      "orgNumber": "889600-6296",
+      "orgName": "N\u00e4ske B\u00e5ts\u00e4llskap",
+      "categories": [
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.naskebs.com/"
     },
     {
       "entry": 1236151831,
@@ -36808,16 +36858,6 @@
       "web": "https://www.yennengaprogress.se/"
     },
     {
-      "entry": 1239002452,
-      "orgNumber": "802456-7417",
-      "orgName": "F\u00f6reningen Mutomoprojektet",
-      "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
-        "insamlingskontroll"
-      ],
-      "web": "https://www.swedenmutomo.com/"
-    },
-    {
       "entry": 1239002460,
       "orgNumber": "802010-4504",
       "orgName": "Svenska Celiakif\u00f6rbundet",
@@ -37903,15 +37943,6 @@
         "insamlingskontroll"
       ],
       "web": "https://www.orebrostadsmission.se/"
-    },
-    {
-      "entry": 1239005323,
-      "orgNumber": "802496-4085",
-      "orgName": "NRH Trauma Riks",
-      "categories": [
-        "insamlingskontroll"
-      ],
-      "web": "https://www.nrhtrauma.se/"
     },
     {
       "entry": 1239005331,

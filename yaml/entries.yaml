@@ -12113,6 +12113,15 @@ entries:
   - utbildning
   web: https://hfs.se/
 
+- entry: 1232644516
+  orgName: Högsäters Kanotklubb
+  orgNumber: 802454-7542
+  comment: null
+  categories:
+  - idrottsförening
+  - kanotklubb
+  web: http://www.högsäterskanotklubb.se/
+
 - entry: 1232647535
   orgName: Tingsryds Rid O KK - Ridsport
   orgNumber: 829501-3430
@@ -19286,6 +19295,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/karlstadspastorat
 
+- entry: 1234127965
+  orgName: HundBiten / Lovisa Viktoria Dynér
+  orgNumber: 790906-XXXX
+  comment: null
+  categories:
+  - hunddagis
+  - hundsport
+  web: https://www.hundbiten.com/
+
 - entry: 1234133484
   orgName: Grundfors Byaförening
   orgNumber: 895401-2202
@@ -19974,6 +19992,16 @@ entries:
   - trafikskola
   - yrkesförarutbildning
   web: https://malarstadenstrafikskola.se/
+
+- entry: 1234272787
+  orgName: Föreningen Scoutmuseèt Göteborg
+  orgNumber: 802470-3319
+  comment: null
+  categories:
+  - förening
+  - museum
+  - scoutkår
+  web: https://scoutmuseetgbg.scout.se/
 
 - entry: 1234273025
   orgName: SBL Play / StayLive AB
@@ -22874,6 +22902,14 @@ entries:
   - kulturförening
   web: https://locktorp.com/
 
+- entry: 1235006952
+  orgName: Fem i Topp
+  orgNumber: null
+  comment: null
+  categories:
+  - podcast
+  web: https://shows.acast.com/femitopp
+
 - entry: 1235009410
   orgName: Top of Skellefteå / Midsommarviken AB
   orgNumber: 556440-0827
@@ -25573,6 +25609,15 @@ entries:
   categories:
   - religion
   web: https://www.vasterasmosken.se/
+
+- entry: 1235522909
+  orgName: Hotell Royal i Göteborg AB
+  orgNumber: 556122-9005
+  comment: null
+  categories:
+  - hotell
+  - restaurant
+  web: https://www.hotel-royal.com/
 
 - entry: 1235523667
   orgName: TipsExtra / Peter Härder AB
@@ -28716,6 +28761,14 @@ entries:
   - hembygdsförening
   web: https://aselehembygdsforening.nu/
 
+- entry: 1236151443
+  orgName: Näske Båtsällskap
+  orgNumber: 889600-6296
+  comment: null
+  categories:
+  - båtsällskap
+  web: https://www.naskebs.com/
+
 - entry: 1236151831
   orgName: Söderåsens Brukshundklubb
   orgNumber: 837600-3383
@@ -29273,6 +29326,14 @@ entries:
   - brukshundsklubb
   - förening
   web: https://ubhk.se/
+
+- entry: 1236268817
+  orgName: Tullbro Föräldraförening
+  orgNumber: null
+  comment: null
+  categories:
+  - föräldraförening
+  web: https://www.facebook.com/tullbroforaldraforening/
 
 - entry: 1236269567
   orgName: Västerås Trädgårdssällskap
@@ -33607,6 +33668,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
+  - terminated
   web: https://www.swedenmutomo.com/
 
 - entry: 1239002460
@@ -35032,6 +35094,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - terminated
   web: https://www.nrhtrauma.se/
 
 - entry: 1239005331

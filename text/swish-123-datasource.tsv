@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-12-04-rev-125952
+# Date: 2022-12-10-rev-184806
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1384,6 +1384,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232639904	780510-XXXX	Yoga 121 / Maria Nahringbauer	https://yoga121.se/	yoga	
 1232643070	916619-4606	Kungsberga Ridskola	http://www.dinridskola.se/	ridskola	
 1232643575	888000-1725	Härnösands Folkhögskola	https://hfs.se/	folkhögskola,utbildning	
+1232644516	802454-7542	Högsäters Kanotklubb	http://www.högsäterskanotklubb.se/	idrottsförening,kanotklubb	
 1232647535	829501-3430	Tingsryds Rid O KK - Ridsport	https://www.tirk.se/	körklubb,ridklubb,ridsport	
 1232648939	556663-9133	Nippon & Frezon Catering AB	https://nipponfrezon.se/	catering,restaurant	
 1232649234	802491-5855	Föreningen S:t Martin	http://www.sanktmartin.se/	hjälporganisation	
@@ -2197,6 +2198,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234123840	863500-6730	Oasrörelsen i Sverige	https://oasrorelsen.se/	religion	
 1234125290	857201-5769	Göteborgs SSF - Skyttesport	http://www.gillet.se/	förening,skytteklubb	
 1234126017	252003-1382	Karlstads Pastorat	https://www.svenskakyrkan.se/karlstadspastorat	religion	Nattcafé Vintervärme
+1234127965	790906-XXXX	HundBiten / Lovisa Viktoria Dynér	https://www.hundbiten.com/	hunddagis,hundsport	
 1234133484	895401-2202	Grundfors Byaförening	http://grundfors.com/	förening,hembygdsförening	
 1234133682	894002-7827	Vännäs Brukshundklubb	http://vannasbhk.weebly.com/	brukshundsklubb,hundsport	Fika
 1234133799	898801-5577	Föräldraföreningen Mot Narkotika, FMN	https://www.fmnnorrbotten.com/	föräldraförening,intresseförening	Norrbotten
@@ -2275,6 +2277,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234270666	802010-0262	CK Falken - Cykel	https://www.ckfalken.se/	cykelklubb,idrottsförening	
 1234272308	812800-0794	Kvinnojouren Huddinge	https://kvinnojourenhuddinge.se/	kvinnojour,tjejjour	
 1234272456	556957-3602	Mälarstadens Trafikskola AB	https://malarstadenstrafikskola.se/	trafikskola,yrkesförarutbildning	
+1234272787	802470-3319	Föreningen Scoutmuseèt Göteborg	https://scoutmuseetgbg.scout.se/	förening,museum,scoutkår	
 1234273025	556937-1080	SBL Play / StayLive AB	https://www.sblplay.se/	streamingtjänst	
 1234273876	802498-6740	Westbopartiet - det lokala partiet för hela Gislaveds kommun	http://www.westbopartiet.se/	politiskt parti	
 1234274205	252002-7281	Ljungby Maria församling	http://www.svenskakyrkan.se/ljungby	religion	
@@ -2912,6 +2915,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235517172	813600-2634	Svenska vänföreningen till Magen David Adom, SMDA	https://www.smda.se/	hjälporganisation	
 1235517487	826000-6161	Finska Bastun / Jönköpings Finska Förening	http://finskabastun.se/	bastukultur,hemlandsförening,intresseförening	
 1235517511	878001-0131	Västerås Moskén / Västerås Islamiska Kulturcentrum	https://www.vasterasmosken.se/	religion	
+1235522909	556122-9005	Hotell Royal i Göteborg AB	https://www.hotel-royal.com/	hotell,restaurant	
 1235523667	556827-4509	TipsExtra / Peter Härder AB	https://tipsxtra.se/	tips	
 1235526215	812800-1388	Huddinge Gymnastikförening	http://www.huddingegf.se/	gymnastikförening,truppgymnastik	
 1235526678	556907-0245	Klickerförlaget Göteborg AB	https://apporteringtillvardagochfest.se/	hundsport,utbildning	
@@ -3272,6 +3276,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236147391	868400-6284	Vara Hästsportklubb	https://www.vhsk.se/	hästsport,ridskola	
 1236148449	832800-6690	DK Snésteg - Danssport	https://www.snesteg.se/	dansförening,danssport	
 1236148746	896100-4358	Åsele Hembygdsförening	https://aselehembygdsforening.nu/	hembygdsförening	
+1236151443	889600-6296	Näske Båtsällskap	https://www.naskebs.com/	båtsällskap	
 1236151831	837600-3383	Söderåsens Brukshundklubb	https://www.soderasensbk.com/	brukshundsklubb,hundsport	
 1236152425	802535-9137	Team Rynkeby Kristianstad	https://www.team-rynkeby.se/	cykelsport,friskvård,intresseförening	
 1236155352	556867-2264	Svedala Trafikskola AB	http://www.svedalatrafikskola.se/	trafikskola	
@@ -3786,7 +3791,6 @@ entry	orgNumber	orgName	web	categories	comment
 1239002387	867200-7393	Gambiagrupperna	https://www.gambiagrupperna.org/	insamlingskontroll	
 1239002429	802009-6627	Stiftelsen Amref Nordic	https://www.amref.se/	insamlingskontroll,stiftelse	
 1239002437	802445-9987	Yennenga Progress	https://www.yennengaprogress.se/	insamlingskontroll	
-1239002452	802456-7417	Föreningen Mutomoprojektet	https://www.swedenmutomo.com/	godkänd gåvomottagare,insamlingskontroll	
 1239002460	802010-4504	Svenska Celiakiförbundet	https://www.celiaki.se/	insamlingskontroll	
 1239002494	802015-5670	Right Livelihood-stiftelsen	https://rightlivelihood.org/	insamlingskontroll	
 1239002536	882600-8321	Hoppets Stjärna Insamlingsstiftelse	https://www.hoppetsstjarna.se/	godkänd gåvomottagare,insamlingskontroll	
@@ -3899,7 +3903,6 @@ entry	orgNumber	orgName	web	categories	comment
 1239005273	802408-7622	Stiftelsen Friends	https://www.friends.se/	insamlingskontroll	
 1239005307	802009-9332	STROKE-Riksförbundet	https://www.strokeforbundet.se/	förbund,insamlingskontroll,riksförbund	
 1239005315	802498-9769	Örebro Stadsmission	https://www.orebrostadsmission.se/	insamlingskontroll	
-1239005323	802496-4085	NRH Trauma Riks	https://www.nrhtrauma.se/	insamlingskontroll	
 1239005331	802006-1019	Föreningen Ny Gemenskap	https://www.nygemenskap.org/	insamlingskontroll	
 1239005406	802478-3725	Insamlingsstiftelsen Help to Help	https://www.helptohelp.se/	insamlingskontroll	
 1239005422	802488-8896	Amazon Watch Sverige	https://www.amazonwatch.se/	insamlingskontroll	
