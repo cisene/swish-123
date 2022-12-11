@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-12-11-rev-024914",
+    "date": "2022-12-11-rev-124135",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3961,6 +3961,15 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.efdworld.org/"
+    },
+    {
+      "entry": 1230847285,
+      "orgNumber": "832800-1311",
+      "orgName": "Hamnkyrkan Oskarshamn / Oskarshamns Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.hamnkyrkanoskarshamn.se/"
     },
     {
       "entry": 1230851071,
@@ -13237,6 +13246,15 @@
       "web": "https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar"
     },
     {
+      "entry": 1232595809,
+      "orgNumber": "556736-2289",
+      "orgName": "Rena Bilar i Sverige / Rena Hem i Vardagen Stockholm AB",
+      "categories": [
+        "bilv\u00e5rd"
+      ],
+      "web": "https://renabilar.se/"
+    },
+    {
       "entry": 1232595817,
       "orgNumber": "884400-2116",
       "orgName": "Malungs Hembygdsf\u00f6rening",
@@ -16042,6 +16060,16 @@
       "web": "https://www.wtmetall.se/"
     },
     {
+      "entry": 1233068939,
+      "orgNumber": "802519-3924",
+      "orgName": "F\u00f6reningen Kulturarv Djurhamn",
+      "categories": [
+        "f\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.djurhamn.eu/"
+    },
+    {
       "entry": 1233069390,
       "orgNumber": "802008-4136",
       "orgName": "Stamningsf\u00f6rbundet",
@@ -18315,6 +18343,15 @@
       "web": "https://e-clubhouse.org/sites/molndalse/"
     },
     {
+      "entry": 1233511276,
+      "orgNumber": "559054-3400",
+      "orgName": "V\u00e4ster Konsult & Etreprenad Teknik AB",
+      "categories": [
+        "byggnation"
+      ],
+      "web": "https://www.vasterteknik.com/"
+    },
+    {
       "entry": 1233511409,
       "orgNumber": "819500-5239",
       "orgName": "\u00c5kers Hembygdsf\u00f6rening",
@@ -19132,6 +19169,16 @@
       "web": "https://sandared.scout.se/"
     },
     {
+      "entry": 1233662376,
+      "orgNumber": "825003-1294",
+      "orgName": "S\u00f6derk\u00f6pings Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.soderkopingsbk.com/"
+    },
+    {
       "entry": 1233662541,
       "orgNumber": "882601-7074",
       "orgName": "Stiftelsen Estoniaoffren och Anh\u00f6riga, SEA",
@@ -19939,6 +19986,16 @@
         "stiftelse"
       ],
       "web": "http://looffoundation.org/"
+    },
+    {
+      "entry": 1233862471,
+      "orgNumber": "769613-1502",
+      "orgName": "SM i Fotografi / Svenska Portr\u00e4ttfotografers F\u00f6rbund",
+      "categories": [
+        "fotograf",
+        "portr\u00e4ttfotografi"
+      ],
+      "web": "https://www.smfotografi.se/"
     },
     {
       "entry": 1233864444,
@@ -21073,6 +21130,16 @@
         "stiftelse"
       ],
       "web": "https://www.trustfund.se/"
+    },
+    {
+      "entry": 1234041505,
+      "orgNumber": "857209-5266",
+      "orgName": "N\u00e4tverket V\u00e4gen / Stiftelsen bibelskolan.com",
+      "categories": [
+        "religion",
+        "stiftelse"
+      ],
+      "web": "https://vagen.me/"
     },
     {
       "entry": 1234041836,
@@ -23148,6 +23215,17 @@
       "web": "https://stiftelseforsberg.se/"
     },
     {
+      "entry": 1234463105,
+      "orgNumber": "559114-0685",
+      "orgName": "Brand New Profile",
+      "categories": [
+        "eventarrang\u00f6r",
+        "f\u00f6rs\u00e4ljning",
+        "reklam"
+      ],
+      "web": "https://www.brandnewprofile.com/"
+    },
+    {
       "entry": 1234465720,
       "orgNumber": "556418-0270",
       "orgName": "Micke Ahlgrens Orkester Aktiebolag",
@@ -23447,6 +23525,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.ufc.se/"
+    },
+    {
+      "entry": 1234524500,
+      "orgNumber": "556694-3139",
+      "orgName": "Autofab",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "metallbearbetning"
+      ],
+      "web": "https://www.autofab.se/"
     },
     {
       "entry": 1234524955,
@@ -25364,6 +25452,15 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/karbenning/"
+    },
+    {
+      "entry": 1234985305,
+      "orgNumber": "802531-8117",
+      "orgName": "Research For Recovery",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/ResearchForRecoveryC19/"
     },
     {
       "entry": 1234986915,
@@ -29437,6 +29534,16 @@
       "web": "http://www.radiohaninge.se/"
     },
     {
+      "entry": 1235694906,
+      "orgNumber": "559150-0904",
+      "orgName": "V\u00e4sterort/Norrorts Trafikskola AB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://vasterorttrafikskola.se/"
+    },
+    {
       "entry": 1235696356,
       "orgNumber": "883201-8959",
       "orgName": "PRO Sv\u00e4rdsj\u00f6",
@@ -30569,6 +30676,15 @@
       "web": "https://www.tvaakersif.se/"
     },
     {
+      "entry": 1235903232,
+      "orgNumber": "864001-1246",
+      "orgName": "PRO Alings\u00e5s",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-alingsas/foreningar/alingsas.html"
+    },
+    {
       "entry": 1235904677,
       "orgNumber": "878000-5735",
       "orgName": "Surahammars IF",
@@ -30956,6 +31072,16 @@
       "web": "https://www.idrottonline.se/MellerudsSK-Simidrott/"
     },
     {
+      "entry": 1235965744,
+      "orgNumber": "212000-1231",
+      "orgName": "Radio Wake Up / Falkenbergs Kommun",
+      "categories": [
+        "lokalradio",
+        "n\u00e4rradiostation"
+      ],
+      "web": "https://www.radiowakeup.se/"
+    },
+    {
       "entry": 1235968953,
       "orgNumber": "889600-3046",
       "orgName": "\u00d6rnsk\u00f6ldsviks Brukshundsklubb",
@@ -31096,6 +31222,18 @@
         "trafikskola"
       ],
       "web": "https://sundsvallstrafikskola.se/"
+    },
+    {
+      "entry": 1236009617,
+      "orgNumber": "802001-0313",
+      "orgName": "Svenska Fornminnesf\u00f6reningen",
+      "categories": [
+        "fornminnesf\u00f6rening",
+        "forskning",
+        "historief\u00f6rening",
+        "kulturminnesv\u00e5rd"
+      ],
+      "web": "http://fornminnesforeningen.com/"
     },
     {
       "entry": 1236010227,
@@ -32817,6 +32955,16 @@
       "web": "https://www.mammaunited.se/"
     },
     {
+      "entry": 1236314314,
+      "orgNumber": "559198-1831",
+      "orgName": "License Trafikskola AB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://www.licensetrafikskola.se/"
+    },
+    {
       "entry": 1236322432,
       "orgNumber": "802513-2336",
       "orgName": "NyFramtid",
@@ -33122,6 +33270,18 @@
         "transport"
       ],
       "web": "https://ostervarnsexpress.se/"
+    },
+    {
+      "entry": 1236360408,
+      "orgNumber": "559036-7859",
+      "orgName": "Gerstaberg G\u00e5rd / Gerstaberg S\u00e4teri AB",
+      "categories": [
+        "k\u00f6ttproducent",
+        "lantbruk",
+        "mj\u00f6lkproducent",
+        "n\u00e4rproducerat"
+      ],
+      "web": "http://gerstaberg.com/"
     },
     {
       "entry": 1236365860,
@@ -34526,6 +34686,15 @@
         "konst\u00e5kningsklubb"
       ],
       "web": "https://www.h-k-f.se/"
+    },
+    {
+      "entry": 1236686885,
+      "orgNumber": "252004-7073",
+      "orgName": "Tyska F\u00f6rsamlingen i Malm\u00f6",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://deutsche-gemeinde-malmoe-suedschweden.jimdosite.com/"
     },
     {
       "entry": 1236687305,
