@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-12-11-rev-124135",
+    "date": "2022-12-11-rev-161735",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1282,6 +1282,15 @@
       "web": "https://www.hagglundsskiteam.se/"
     },
     {
+      "entry": 1230296749,
+      "orgNumber": "556707-6889",
+      "orgName": "Vallentuna Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "http://www.vallentunagk.se/"
+    },
+    {
       "entry": 1230297721,
       "orgNumber": "556339-7859",
       "orgName": "S\u00f6dert\u00e4lje Bil & Alldemo AB",
@@ -1452,6 +1461,17 @@
         "religion"
       ],
       "web": "https://betaniaskara.se/"
+    },
+    {
+      "entry": 1230322990,
+      "orgNumber": "867200-6148",
+      "orgName": "Mullsj\u00f6 SOK",
+      "comment": "Orientering",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://idrottonline.se/MullsjoSOK-Orientering/"
     },
     {
       "entry": 1230323667,
@@ -3042,6 +3062,16 @@
         "hundsport"
       ],
       "web": "https://www.abynbyskebk.hundpoolen.nu/"
+    },
+    {
+      "entry": 1230692558,
+      "orgNumber": "877100-9951",
+      "orgName": "Nora Sl\u00e4ktforskarklubb",
+      "categories": [
+        "genealogi",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://noraforskare.se/"
     },
     {
       "entry": 1230692855,
@@ -5220,6 +5250,16 @@
       "web": "http://www.vasterasbrottarklubb.se/"
     },
     {
+      "entry": 1231089663,
+      "orgNumber": "832400-8021",
+      "orgName": "Korpen Emmaboda Motionsidrottsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenemmaboda"
+    },
+    {
       "entry": 1231095017,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -6495,6 +6535,16 @@
       "web": "https://the-black-dog.se/"
     },
     {
+      "entry": 1231339381,
+      "orgNumber": "802012-4338",
+      "orgName": "Ayshamosk\u00e9n / Skandinaviska Islamiska Organisationen",
+      "comment": "Zakat, sadaqah al-fitr, fidya",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://aysha.se/"
+    },
+    {
       "entry": 1231341429,
       "orgNumber": "556691-8040",
       "orgName": "St\u00e4llning & Fallskyddsprodukter Sverige AB",
@@ -7335,6 +7385,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/aspeboda"
+    },
+    {
+      "entry": 1231485606,
+      "orgNumber": "846000-9445",
+      "orgName": "ABF Malm\u00f6",
+      "categories": [
+        "studief\u00f6rbund"
+      ],
+      "web": "https://www.abf.se/distrikt--avdelningar/abf-skane/abf-malmo/"
     },
     {
       "entry": 1231486158,
@@ -24255,6 +24314,7 @@
       "orgNumber": "802418-6812",
       "orgName": "Animal Protection Network (APN)",
       "categories": [
+        "djurskydd",
         "intressef\u00f6rening"
       ],
       "web": "http://www.animalprotection.se/"
@@ -28699,6 +28759,17 @@
         "psykisk h\u00e4lsa"
       ],
       "web": "http://www.kungoverlivet.se/"
+    },
+    {
+      "entry": 1235534136,
+      "orgNumber": "866000-6308",
+      "orgName": "Mariestads Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://ridklubben.net/"
     },
     {
       "entry": 1235535000,
@@ -34828,6 +34899,16 @@
       "web": "https://www.hembygd.se/oregrund"
     },
     {
+      "entry": 1236702773,
+      "orgNumber": "802012-4338",
+      "orgName": "Ayshamosk\u00e9n / Skandinaviska Islamiska Organisationen",
+      "comment": "g\u00e5vor, sadaqa, donationer",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://aysha.se/"
+    },
+    {
       "entry": 1236704241,
       "orgNumber": "829502-4734",
       "orgName": "Sl\u00e4tth\u00f6gs Hembygdsf\u00f6rening",
@@ -34968,6 +35049,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.moveif.se/"
+    },
+    {
+      "entry": 1236728737,
+      "orgNumber": "559363-4149",
+      "orgName": "Seasick AB",
+      "categories": [
+        "b\u00e5tuthyrning"
+      ],
+      "web": "https://seasick.se/"
     },
     {
       "entry": 1236730170,

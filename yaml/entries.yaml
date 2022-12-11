@@ -1163,6 +1163,14 @@ entries:
   - skidor
   web: https://www.hagglundsskiteam.se/
 
+- entry: 1230296749
+  orgName: Vallentuna Golfklubb
+  orgNumber: 556707-6889
+  comment: null
+  categories:
+  - golfklubb
+  web: http://www.vallentunagk.se/
+
 - entry: 1230297721
   orgName: Södertälje Bil & Alldemo AB
   orgNumber: 556339-7859
@@ -1316,6 +1324,15 @@ entries:
   categories:
   - religion
   web: https://betaniaskara.se/
+
+- entry: 1230322990
+  orgName: Mullsjö SOK
+  orgNumber: 867200-6148
+  comment: Orientering
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://idrottonline.se/MullsjoSOK-Orientering/
 
 - entry: 1230323667
   orgName: Tvärålunds IF
@@ -2757,6 +2774,15 @@ entries:
   - brukshundsklubb
   - hundsport
   web: https://www.abynbyskebk.hundpoolen.nu/
+
+- entry: 1230692558
+  orgName: Nora Släktforskarklubb
+  orgNumber: 877100-9951
+  comment: null
+  categories:
+  - genealogi
+  - släktforskning
+  web: https://noraforskare.se/
 
 - entry: 1230692855
   orgName: Helhetshälsan i Östergötland AB
@@ -4696,6 +4722,15 @@ entries:
   - intresseförening
   web: http://www.vasterasbrottarklubb.se/
 
+- entry: 1231089663
+  orgName: Korpen Emmaboda Motionsidrottsförening
+  orgNumber: 832400-8021
+  comment: null
+  categories:
+  - idrottsförening
+  - korpenförening
+  web: https://www.korpen.se/korpenemmaboda
+
 - entry: 1231095017
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -5876,6 +5911,14 @@ entries:
   - hundhem
   web: https://the-black-dog.se/
 
+- entry: 1231339381
+  orgName: Ayshamoskén / Skandinaviska Islamiska Organisationen
+  orgNumber: 802012-4338
+  comment: Zakat, sadaqah al-fitr, fidya
+  categories:
+  - religion
+  web: https://aysha.se/
+
 - entry: 1231341429
   orgName: Ställning & Fallskyddsprodukter Sverige AB
   orgNumber: 556691-8040
@@ -6625,6 +6668,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/aspeboda
+
+- entry: 1231485606
+  orgName: ABF Malmö
+  orgNumber: 846000-9445
+  comment: null
+  categories:
+  - studieförbund
+  web: https://www.abf.se/distrikt--avdelningar/abf-skane/abf-malmo/
 
 - entry: 1231486158
   orgName: Kvinnojouren Viljan
@@ -21914,6 +21965,7 @@ entries:
   orgNumber: 802418-6812
   comment: null
   categories:
+  - djurskydd
   - intresseförening
   web: http://www.animalprotection.se/
 
@@ -25953,6 +26005,16 @@ entries:
   - npf-diagnoser
   - psykisk hälsa
   web: http://www.kungoverlivet.se/
+
+- entry: 1235534136
+  orgName: Mariestads Ridklubb
+  orgNumber: 866000-6308
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ridskola
+  web: https://ridklubben.net/
 
 - entry: 1235535000
   orgName: Plaza Kvinna / Investmentbolaget LGAB Sverige AB
@@ -31529,6 +31591,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/oregrund
 
+- entry: 1236702773
+  orgName: Ayshamoskén / Skandinaviska Islamiska Organisationen
+  orgNumber: 802012-4338
+  comment: gåvor, sadaqa, donationer
+  categories:
+  - religion
+  web: https://aysha.se/
+
 - entry: 1236704241
   orgName: Slätthögs Hembygdsförening
   orgNumber: 829502-4734
@@ -31655,6 +31725,14 @@ entries:
   categories:
   - idrottsförening
   web: https://www.moveif.se/
+
+- entry: 1236728737
+  orgName: Seasick AB
+  orgNumber: 559363-4149
+  comment: null
+  categories:
+  - båtuthyrning
+  web: https://seasick.se/
 
 - entry: 1236730170
   orgName: Svenska Journalistförbundets Insamlingsfond
