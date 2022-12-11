@@ -3663,6 +3663,14 @@ entries:
   - bokhandel
   web: http://hedengrens.se/
 
+- entry: 1230858225
+  orgName: Skepplanda-Hålanda Församling
+  orgNumber: 252004-2991
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/skepplanda
+
 - entry: 1230866335
   orgName: Tjej och Transjouren Lina
   orgNumber: 802476-6027
@@ -4997,6 +5005,14 @@ entries:
   - förening
   - hästsport
   web: https://www.ostergotlandsfjord.eu/
+
+- entry: 1231154848
+  orgName: Meetly / Festmäklarna Sverige AB
+  orgNumber: 559014-0637
+  comment: null
+  categories:
+  - eventarrangör
+  web: https://meetly.se/
 
 - entry: 1231155811
   orgName: Amningshjälpen
@@ -6974,6 +6990,14 @@ entries:
   - yoga
   web: https://www.gavleyogaskola.se/
 
+- entry: 1231569383
+  orgName: Strödetaljer AB
+  orgNumber: 556350-5154
+  comment: null
+  categories:
+  - hästtransport
+  web: https://www.stilab.se/
+
 - entry: 1231569888
   orgName: Norrmjöle Golfklubb
   orgNumber: 894002-5391
@@ -7240,6 +7264,15 @@ entries:
   - förening
   - minnesfond
   web: https://www.jockenybergsminnesfond.se/
+
+- entry: 1231613918
+  orgName: Karlstadsjuristerna
+  orgNumber: 802506-0099
+  comment: null
+  categories:
+  - advokatbyrå
+  - juridiska tjänster
+  web: http://www.karlstadsjuristerna.se/
 
 - entry: 1231613975
   orgName: Stiftelsen Zonny
@@ -10299,6 +10332,16 @@ entries:
   - religion
   web: https://www.ibpssweden.se/
 
+- entry: 1232247450
+  orgName: Hair of Sweden
+  orgNumber: 559250-7106
+  comment: null
+  categories:
+  - försäljning
+  - hudvård
+  - hårvård
+  web: https://hairofswedenco.se/
+
 - entry: 1232251684
   orgName: Akeauktioner
   orgNumber: 556771-7664
@@ -12770,6 +12813,16 @@ entries:
   - tjejjour
   web: https://www.unizonjourer.se/kvinnojourennordvarmland/
 
+- entry: 1232753192
+  orgName: I kärlekens tecken
+  orgNumber: 012655-4625
+  comment: null
+  categories:
+  - barnverksamhet
+  - hjälporganisation
+  - ungdomsverksamhet
+  web: https://www.ikarlekenstecken.se/
+
 - entry: 1232753648
   orgName: Tingsås Församling
   orgNumber: 252000-6285
@@ -14535,6 +14588,15 @@ entries:
   - golfklubb
   web: https://www.sjobogk.com/
 
+- entry: 1233117041
+  orgName: AB Kiropraktorerna Vejlo
+  orgNumber: 556857-3694
+  comment: null
+  categories:
+  - kiropraktik
+  - massage
+  web: https://www.kiropraktorernavejlo.com/
+
 - entry: 1233117694
   orgName: Filadelfiaförsamlingen I Stockholm
   orgNumber: 802000-8713
@@ -15213,6 +15275,14 @@ entries:
   - förening
   - hundpark
   web: https://www.mariefredshundpark.se/
+
+- entry: 1233257482
+  orgName: Restaurang Taiwan
+  orgNumber: 556866-0327
+  comment: null
+  categories:
+  - restaurant
+  web: https://www.restaurangtaiwan.se/
 
 - entry: 1233258928
   orgName: PRO Bara
@@ -18037,6 +18107,14 @@ entries:
   - förening
   - hembygdsförening
   web: https://www.flykalen.se/
+
+- entry: 1233881562
+  orgName: Bergskyrkan i Laxå
+  orgNumber: 875700-0768
+  comment: null
+  categories:
+  - religion
+  web: https://www.bergskyrkan.se/
 
 - entry: 1233881588
   orgName: Rissnaortens Hembygdsförening
@@ -21428,6 +21506,15 @@ entries:
   - intresseförening
   web: http://www.dravetssweden.se/
 
+- entry: 1234596797
+  orgName: Södersens Auktionshus AB
+  orgNumber: 556188-3884
+  comment: null
+  categories:
+  - auktioner
+  - auktionsverk
+  web: https://sodersens.se/
+
 - entry: 1234596854
   orgName: Västerås Musiksällskap
   orgNumber: 978000-0221
@@ -23459,6 +23546,14 @@ entries:
   categories:
   - dansundervisning
   web: https://godmoves.se/
+
+- entry: 1235113626
+  orgName: UNICEF Namibia
+  orgNumber: 802401-4386
+  comment: Namibia
+  categories:
+  - hjälporganisation
+  web: https://www.unicef.org/namibia/
 
 - entry: 1235114285
   orgName: Genealogiska Föreningen
@@ -31680,6 +31775,14 @@ entries:
   - handbollsklubb
   - sport
   web: null
+
+- entry: 1236782775
+  orgName: Matteröds Byalag
+  orgNumber: 802447-7021
+  comment: null
+  categories:
+  - byalag
+  web: https://www.matterodsbyalag.se/
 
 - entry: 1236784722
   orgName: Alingsås Fäktklubb

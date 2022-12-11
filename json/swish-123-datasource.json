@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-12-10-rev-184806",
+    "date": "2022-12-11-rev-024914",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4060,6 +4060,15 @@
       "web": "http://hedengrens.se/"
     },
     {
+      "entry": 1230858225,
+      "orgNumber": "252004-2991",
+      "orgName": "Skepplanda-H\u00e5landa F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/skepplanda"
+    },
+    {
       "entry": 1230866335,
       "orgNumber": "802476-6027",
       "orgName": "Tjej och Transjouren Lina",
@@ -5544,6 +5553,15 @@
         "h\u00e4stsport"
       ],
       "web": "https://www.ostergotlandsfjord.eu/"
+    },
+    {
+      "entry": 1231154848,
+      "orgNumber": "559014-0637",
+      "orgName": "Meetly / Festm\u00e4klarna Sverige AB",
+      "categories": [
+        "eventarrang\u00f6r"
+      ],
+      "web": "https://meetly.se/"
     },
     {
       "entry": 1231155811,
@@ -7728,6 +7746,15 @@
       "web": "https://www.gavleyogaskola.se/"
     },
     {
+      "entry": 1231569383,
+      "orgNumber": "556350-5154",
+      "orgName": "Str\u00f6detaljer AB",
+      "categories": [
+        "h\u00e4sttransport"
+      ],
+      "web": "https://www.stilab.se/"
+    },
+    {
       "entry": 1231569888,
       "orgNumber": "894002-5391",
       "orgName": "Norrmj\u00f6le Golfklubb",
@@ -8025,6 +8052,16 @@
         "minnesfond"
       ],
       "web": "https://www.jockenybergsminnesfond.se/"
+    },
+    {
+      "entry": 1231613918,
+      "orgNumber": "802506-0099",
+      "orgName": "Karlstadsjuristerna",
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "http://www.karlstadsjuristerna.se/"
     },
     {
       "entry": 1231613975,
@@ -11430,6 +11467,17 @@
       "web": "https://www.ibpssweden.se/"
     },
     {
+      "entry": 1232247450,
+      "orgNumber": "559250-7106",
+      "orgName": "Hair of Sweden",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "hudv\u00e5rd",
+        "h\u00e5rv\u00e5rd"
+      ],
+      "web": "https://hairofswedenco.se/"
+    },
+    {
       "entry": 1232251684,
       "orgNumber": "556771-7664",
       "orgName": "Akeauktioner",
@@ -14185,6 +14233,17 @@
       "web": "https://www.unizonjourer.se/kvinnojourennordvarmland/"
     },
     {
+      "entry": 1232753192,
+      "orgNumber": "012655-4625",
+      "orgName": "I k\u00e4rlekens tecken",
+      "categories": [
+        "barnverksamhet",
+        "hj\u00e4lporganisation",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://www.ikarlekenstecken.se/"
+    },
+    {
       "entry": 1232753648,
       "orgNumber": "252000-6285",
       "orgName": "Tings\u00e5s F\u00f6rsamling",
@@ -16156,6 +16215,16 @@
       "web": "https://www.sjobogk.com/"
     },
     {
+      "entry": 1233117041,
+      "orgNumber": "556857-3694",
+      "orgName": "AB Kiropraktorerna Vejlo",
+      "categories": [
+        "kiropraktik",
+        "massage"
+      ],
+      "web": "https://www.kiropraktorernavejlo.com/"
+    },
+    {
       "entry": 1233117694,
       "orgNumber": "802000-8713",
       "orgName": "Filadelfiaf\u00f6rsamlingen I Stockholm",
@@ -16860,6 +16929,15 @@
         "motorsport"
       ],
       "web": "https://www.adestam.se/"
+    },
+    {
+      "entry": 1233257482,
+      "orgNumber": "556866-0327",
+      "orgName": "Restaurang Taiwan",
+      "categories": [
+        "restaurant"
+      ],
+      "web": "https://www.restaurangtaiwan.se/"
     },
     {
       "entry": 1233258928,
@@ -19977,6 +20055,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.flykalen.se/"
+    },
+    {
+      "entry": 1233881562,
+      "orgNumber": "875700-0768",
+      "orgName": "Bergskyrkan i Lax\u00e5",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.bergskyrkan.se/"
     },
     {
       "entry": 1233881588,
@@ -23737,6 +23824,16 @@
       "web": "http://www.dravetssweden.se/"
     },
     {
+      "entry": 1234596797,
+      "orgNumber": "556188-3884",
+      "orgName": "S\u00f6dersens Auktionshus AB",
+      "categories": [
+        "auktioner",
+        "auktionsverk"
+      ],
+      "web": "https://sodersens.se/"
+    },
+    {
       "entry": 1234596854,
       "orgNumber": "978000-0221",
       "orgName": "V\u00e4ster\u00e5s Musiks\u00e4llskap",
@@ -25963,6 +26060,16 @@
         "dansundervisning"
       ],
       "web": "https://godmoves.se/"
+    },
+    {
+      "entry": 1235113626,
+      "orgNumber": "802401-4386",
+      "orgName": "UNICEF Namibia",
+      "comment": "Namibia",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.unicef.org/namibia/"
     },
     {
       "entry": 1235114285,
@@ -34989,6 +35096,15 @@
         "handbollsklubb",
         "sport"
       ]
+    },
+    {
+      "entry": 1236782775,
+      "orgNumber": "802447-7021",
+      "orgName": "Matter\u00f6ds Byalag",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.matterodsbyalag.se/"
     },
     {
       "entry": 1236784722,
