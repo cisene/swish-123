@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-12-17-rev-144123",
+    "date": "2022-12-17-rev-172402",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -343,6 +343,18 @@
       "web": "https://www.gamlensgard.se/"
     },
     {
+      "entry": 1230074948,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Slottsjordsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230075705,
       "orgNumber": "802501-9483",
       "orgName": "Rotary Nyk\u00f6ping \u00d6ster",
@@ -359,6 +371,18 @@
         "donation"
       ],
       "web": "https://www.gottnebyskola.se/"
+    },
+    {
+      "entry": 1230082172,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, V\u00e4stervangskolans Grunds\u00e4rskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230086223,
@@ -381,6 +405,18 @@
       "web": "https://helamanniskan.se/malmo/"
     },
     {
+      "entry": 1230094235,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Ever\u00f6ds skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230094268,
       "orgNumber": "802002-7309",
       "orgName": "Svenska Psykiatriska F\u00f6reningen, SPF",
@@ -389,6 +425,18 @@
         "psykiatri"
       ],
       "web": "http://www.svenskpsykiatri.se/"
+    },
+    {
+      "entry": 1230094466,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Vikmanshyttansskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230095232,
@@ -914,6 +962,54 @@
       "web": "http://aselebhk.se/"
     },
     {
+      "entry": 1230221168,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Bodaskolan kommunikationsklass",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230223404,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Vittra Landborgen",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230223420,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, M\u00f6rarps Skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230223743,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Diamantens f\u00e9rskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230226126,
       "orgNumber": "252001-5369",
       "orgName": "Bro F\u00f6rsamling",
@@ -1165,6 +1261,42 @@
       "web": "https://palaestramedia.com/"
     },
     {
+      "entry": 1230265462,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Sventorps skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230265637,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Vidingsj\u00f6skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230265645,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Husensj\u00f6 skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230266411,
       "orgNumber": "849201-2201",
       "orgName": "Hylte/Halmstad VBK",
@@ -1215,6 +1347,18 @@
         "lokaluthyrning"
       ],
       "web": "https://jadersgarden.se/"
+    },
+    {
+      "entry": 1230279190,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, \u00c4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230279372,
@@ -1424,6 +1568,30 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://www.brfpinnpojken.se/"
+    },
+    {
+      "entry": 1230316208,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Lemshaga akademi",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230316448,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Gl\u00e4ntanskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230316760,
@@ -1813,6 +1981,18 @@
       "web": "https://stockholmlan.strokeforbundet.se/"
     },
     {
+      "entry": 1230389932,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Billingskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230391672,
       "orgNumber": "802449-6823",
       "orgName": "Herts\u00f6landets Byaf\u00f6rening",
@@ -1831,6 +2011,18 @@
         "yoga"
       ],
       "web": "https://www.yogaihagen.se/"
+    },
+    {
+      "entry": 1230392704,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Flad\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230393983,
@@ -2121,6 +2313,18 @@
         "hundhem"
       ],
       "web": "https://www.amigosmios.se/"
+    },
+    {
+      "entry": 1230453928,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Igelsta skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230460634,
@@ -2540,6 +2744,18 @@
       "web": "https://rovdjur.se/"
     },
     {
+      "entry": 1230540872,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, S\u00e4rlaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230550111,
       "orgNumber": "802462-7278",
       "orgName": "Tos\u00e4ters Byhistoriska F\u00f6rening",
@@ -2673,6 +2889,18 @@
         "stiftelse"
       ],
       "web": "https://www.stadium.se/sustainability/sustainability-collaborations-and-initiative/sustainability-initiativ-stadium-foundation"
+    },
+    {
+      "entry": 1230578013,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Neptuniskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230579458,
@@ -2815,6 +3043,30 @@
       "web": "https://lagensomverktyg.se/"
     },
     {
+      "entry": 1230630517,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Nyv\u00e5ng skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230630574,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, B\u00e5stad Montessori",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230631382,
       "orgNumber": "802437-8757",
       "orgName": "F\u00f6reningen Nordsvenska H\u00e4sten, FNH",
@@ -2907,6 +3159,18 @@
         "musikf\u00f6rening"
       ],
       "web": "https://www.gavlefolk.se/"
+    },
+    {
+      "entry": 1230642967,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, Borbackaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230644427,
@@ -3046,6 +3310,18 @@
       "web": "http://goteborgsforsvar.se/"
     },
     {
+      "entry": 1230689802,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Bromma Enskilda skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230691097,
       "orgNumber": "885001-9079",
       "orgName": "Rudsj\u00f6 Scoutk\u00e5r",
@@ -3097,6 +3373,42 @@
       "web": "https://www.helhetshalsanshus.se/gym/"
     },
     {
+      "entry": 1230698100,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, IES Landskrona",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230698407,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Noblaskolan Solna",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230698423,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, Torpaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230700906,
       "orgNumber": "857202-4050",
       "orgName": "Partille Scoutk\u00e5r",
@@ -3145,6 +3457,30 @@
         "prostatacancer"
       ],
       "web": "http://www.provitae.se/"
+    },
+    {
+      "entry": 1230711358,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Gantofta skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230711390,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Tingdammskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230712232,
@@ -3352,6 +3688,18 @@
       "web": "https://www.lantmateriet.se/sv/Fastigheter/hantera-pantbrev/"
     },
     {
+      "entry": 1230734962,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Gunnesboskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230735068,
       "orgNumber": "802461-8905",
       "orgName": "Make Trade",
@@ -3538,6 +3886,30 @@
       "web": "https://karlskrona.scout.se/"
     },
     {
+      "entry": 1230753038,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Sk\u00f6nstaholm",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230753053,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Bodaskolan F-6",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230754754,
       "orgNumber": "894700-5842",
       "orgName": "Skellefte\u00e5 CK - Curling",
@@ -3577,6 +3949,18 @@
         "religion"
       ],
       "web": "https://www.pingst.se/forsamling/natverk/pastor/"
+    },
+    {
+      "entry": 1230760181,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Momentum",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230764092,
@@ -3708,6 +4092,42 @@
       "web": "https://www.ljungskileorten.se/"
     },
     {
+      "entry": 1230786343,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, B\u00e5tsmansskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230786350,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Hovsl\u00e4ttsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230786368,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Br\u00e5viksskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1230792234,
       "orgNumber": "833200-5001",
       "orgName": "Hultsfred gymnastikklubb",
@@ -3813,6 +4233,42 @@
         "sportfiske"
       ],
       "web": "https://msfk.net/"
+    },
+    {
+      "entry": 1230807115,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Djurg\u00e5rdsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230807149,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Montessoriskolan Casa",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230807164,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Moholms skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230810762,
@@ -4015,6 +4471,18 @@
         "religion"
       ],
       "web": "https://hillsong.com/sweden/"
+    },
+    {
+      "entry": 1230839803,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Slottsparksskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230844851,
@@ -4337,6 +4805,18 @@
         "villa\u00e4garef\u00f6rening"
       ],
       "web": "http://www.boovilla.se/"
+    },
+    {
+      "entry": 1230880765,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Solstiftesskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1230883116,
@@ -4941,6 +5421,18 @@
       "web": "https://kerstinstrafikskola.se/"
     },
     {
+      "entry": 1231031459,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, K\u00e5lg\u00e5rdsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1231033554,
       "orgNumber": "559120-3483",
       "orgName": "Bierkeller AB",
@@ -4959,6 +5451,18 @@
         "kanin"
       ],
       "web": "http://www.dvargkaninklubben.se/"
+    },
+    {
+      "entry": 1231034248,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Nifsarpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231034966,
@@ -5306,6 +5810,30 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.masterolofsgarden.se/"
+    },
+    {
+      "entry": 1231089028,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, V\u00e4sterskolan Knislinge",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231089036,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Hasslar\u00f6dsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231089549,
@@ -5743,6 +6271,18 @@
       "web": "https://www.djurensvanner.se/karlshamn"
     },
     {
+      "entry": 1231162973,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, M\u00e4larh\u00f6jdensskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1231166966,
       "orgNumber": "878001-4687",
       "orgName": "Svenska OCD-f\u00f6rbundet",
@@ -5778,6 +6318,30 @@
       "web": "https://www.ayuemy.com/"
     },
     {
+      "entry": 1231171206,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Tornah\u00e4llestad",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231171214,
+      "orgNumber": "802535-4211",
+      "orgName": "Team Rynkeby",
+      "comment": "Kalmar, V\u00e4skindeskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1231173939,
       "orgNumber": "878001-6278",
       "orgName": "Engs\u00f6 Hembygds- och Intressef\u00f6rening",
@@ -5786,6 +6350,18 @@
         "intressef\u00f6rening"
       ],
       "web": "https://engsohembygdsforening.se/"
+    },
+    {
+      "entry": 1231174549,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Hishultsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231175751,
@@ -5859,6 +6435,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.korpenhassleholm.se/"
+    },
+    {
+      "entry": 1231199322,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, R\u00f6sj\u00f6skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231203132,
@@ -6198,6 +6786,30 @@
         "podcast"
       ],
       "web": "https://www.hurkanvi.se/"
+    },
+    {
+      "entry": 1231251065,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, Fantasia f\u00f6rskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231251073,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, H\u00e4gerneholmsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231251081,
@@ -6603,6 +7215,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/bergshamra/"
+    },
+    {
+      "entry": 1231331495,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Svarteskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231332303,
@@ -7068,6 +7692,30 @@
       "web": "https://www.alvkarlebyridklubb.nu/"
     },
     {
+      "entry": 1231421866,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Lilleskogs skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231421882,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, \u00d6sbyskolan AB",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1231431220,
       "orgNumber": "878001-7441",
       "orgName": "Skultuna Brukshundklubb",
@@ -7518,6 +8166,42 @@
         "taxklubb"
       ],
       "web": "https://www.kronobergstaxklubb.se/"
+    },
+    {
+      "entry": 1231487131,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Hyllinge skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231487362,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Hemmestaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231487370,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, \u00d6jaby skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231488220,
@@ -7997,6 +8681,30 @@
         "stiftelse"
       ],
       "web": "http://skaparbyn.nu/"
+    },
+    {
+      "entry": 1231581867,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, Gustavslundskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231581974,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Buskoviusskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231583871,
@@ -8781,6 +9489,30 @@
       "web": "https://wermdoparkour.se/"
     },
     {
+      "entry": 1231718832,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Borgvallaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231718865,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, H\u00e5lta skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1231720440,
       "orgNumber": "865500-6511",
       "orgName": "Lions Club Tranemo",
@@ -9265,6 +9997,42 @@
       "web": "https://ulriksdalsgk.se/"
     },
     {
+      "entry": 1231777598,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Christinaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231777614,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Hedeskoga skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231777622,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Lerdala skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1231779537,
       "orgNumber": "252002-7307",
       "orgName": "Norra M\u00f6ckleby-Sandby-G\u00e5rdby F\u00f6rsamling",
@@ -9380,6 +10148,78 @@
       "categories": [
         "intressef\u00f6rening"
       ]
+    },
+    {
+      "entry": 1231808013,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Klockareskogsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231808021,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, \u00d6nnestad skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231808054,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Allerum skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231808070,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Alleskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231808088,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Junkarem\u00e5lsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231808211,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, Skatel\u00f6vsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231808757,
@@ -9527,6 +10367,18 @@
       "web": "https://www.holsby.org/"
     },
     {
+      "entry": 1231834019,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Vittra Samset",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1231835420,
       "orgNumber": "878000-6428",
       "orgName": "Nygammal Dansf\u00f6rening, NGDF",
@@ -9578,6 +10430,18 @@
       "web": "https://www.unizonjourer.se/kvinnojourennackavarmdo/"
     },
     {
+      "entry": 1231845791,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Morkarlbyh\u00f6jdensskola 7-9",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1231849173,
       "orgNumber": "802513-8150",
       "orgName": "Insamlingsstiftelsen Bl\u00e5ljus i Samverkan",
@@ -9603,6 +10467,18 @@
         "matproducent"
       ],
       "web": "https://www.nordicseafarm.com/"
+    },
+    {
+      "entry": 1231859495,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Byleskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231859644,
@@ -9799,6 +10675,30 @@
       "web": "https://storforshundklubb.se/"
     },
     {
+      "entry": 1231906031,
+      "orgNumber": "802535-4211",
+      "orgName": "Team Rynkeby",
+      "comment": "Kalmar, Fliserydsskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231906049,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Bj\u00f6rk\u00f6 friskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1231910140,
       "orgNumber": "802017-5090",
       "orgName": "Assistanskoll / Independent Living Institute, ILI",
@@ -9807,6 +10707,78 @@
         "intressef\u00f6rening"
       ],
       "web": "https://assistanskoll.se/"
+    },
+    {
+      "entry": 1231914944,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Kungsh\u00f6gaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231917723,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Fryshuset Grundskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231925619,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Skattk\u00e4rrskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231925627,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Noblaskolan T\u00e4by",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231925676,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, F\u00f6rskolan Larkan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231925700,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Hjortakroksskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1231926344,
@@ -10350,6 +11322,30 @@
       "web": "http://www.sundbyridskola.se/"
     },
     {
+      "entry": 1232023042,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Ur och Skur Skabersj\u00f6skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232023067,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Errarp",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232023208,
       "orgNumber": "202100-2973",
       "orgName": "Karolinska Institutet, Fondf\u00f6rvaltning",
@@ -10445,6 +11441,30 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.kramforsbk.se/"
+    },
+    {
+      "entry": 1232039170,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Bj\u00f6rkrisskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232039188,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, S\u00e4r\u00f6 skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232039451,
@@ -10621,6 +11641,30 @@
       "web": "https://www.ceciliakyllinge.se/"
     },
     {
+      "entry": 1232084317,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Sval\u00f6vs Montessori",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232084366,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Vallatorpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232085116,
       "orgNumber": "802509-5822",
       "orgName": "Mamma till Mamma",
@@ -10756,6 +11800,54 @@
       "web": "http://www.clarajouren.n.nu/"
     },
     {
+      "entry": 1232099034,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Parkskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232099042,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, S\u00e5nnaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232099281,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Kullaviksskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232099554,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, \u00d6lmstadskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232103885,
       "orgNumber": "837600-2658",
       "orgName": "Forsby Idrottsplats / Forsby Idrottsf\u00f6rening",
@@ -10772,6 +11864,18 @@
         "lionsklubb"
       ],
       "web": "https://taby.lions.se/"
+    },
+    {
+      "entry": 1232107316,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Norrtullskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232107845,
@@ -10793,6 +11897,54 @@
         "sportklubb"
       ],
       "web": "https://idrottonline.se/MorjarvSK-Friidrott/"
+    },
+    {
+      "entry": 1232114023,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, S\u00f6vestad skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232114031,
+      "orgNumber": "802535-4211",
+      "orgName": "Team Rynkeby",
+      "comment": "Kalmar, Skytteanska skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232114049,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Alexandra Montessori",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232114098,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Ektorps skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232124162,
@@ -10832,6 +11984,42 @@
         "f\u00f6rs\u00e4ljning"
       ],
       "web": "http://www.schtunk.se/"
+    },
+    {
+      "entry": 1232127306,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Vittraskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232127314,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, \u00d6sterg\u00e5rdsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232127322,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Linehedsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232129070,
@@ -10968,6 +12156,30 @@
       "web": "https://www.svenskakyrkan.se/stromsund/gaxsjo/hammerdal-forsamlingar"
     },
     {
+      "entry": 1232143220,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Kroppaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232143279,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Viggbyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232143949,
       "orgNumber": "559200-3825",
       "orgName": "Johan Landbergs Trafikskola AB",
@@ -11031,6 +12243,90 @@
       "web": "https://ffpl.weebly.com/"
     },
     {
+      "entry": 1232158012,
+      "orgNumber": "802535-4211",
+      "orgName": "Team Rynkeby",
+      "comment": "Kalmar, St\u00e5nga Skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232158020,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, \u00d6nneg\u00e5rdens F\u00f6rskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232158046,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Glumsl\u00f6vsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232158053,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Bulltoftaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232158079,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Grantomta Montessori",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232158087,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, L\u00e4nghemsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232160760,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, Sofieberg",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232163632,
       "orgNumber": "802522-3945",
       "orgName": "Storasystrarna",
@@ -11039,6 +12335,18 @@
         "vuxenst\u00f6d"
       ],
       "web": "https://www.storasystrarna.se/"
+    },
+    {
+      "entry": 1232166585,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Stimmets skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232167583,
@@ -11240,6 +12548,18 @@
         "catering"
       ],
       "web": "https://mwsmat.se/"
+    },
+    {
+      "entry": 1232187573,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, \u00d6sterv\u00e5la skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232189322,
@@ -11910,6 +13230,18 @@
       "web": "https://nybro.pingst.se/"
     },
     {
+      "entry": 1232272953,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, V\u00e4stra Hamnens Skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232277663,
       "orgNumber": "849202-1467",
       "orgName": "Oskarstr\u00f6ms Hembygdsf\u00f6rening",
@@ -11956,6 +13288,54 @@
         "yoga"
       ],
       "web": "https://ikigaiyoga.se/"
+    },
+    {
+      "entry": 1232282176,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Vasaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232282234,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, N\u00e5ntuna",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232282259,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Norra skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232282291,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Kyrbyskolan M6rklinta",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232282754,
@@ -12115,6 +13495,78 @@
         "naturv\u00e5rd"
       ],
       "web": "https://www.strandstadarna.se/"
+    },
+    {
+      "entry": 1232307114,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, P\u00e4r Lagerkvistskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232307148,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, M\u00e5lsrydsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232307270,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Kviingeskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232307288,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Kvibilleskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232309730,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Skalmans Fo\u00e9rskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232309763,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Buk\u00e4rrs\u00e4ngs forskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232313039,
@@ -12497,6 +13949,30 @@
       "web": "http://lionsclubnossebro.nu/"
     },
     {
+      "entry": 1232380012,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Malm\u00f6 Montesori",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232380020,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Delfinskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232380111,
       "orgNumber": "882601-3859",
       "orgName": "PRO Kvarnsveden",
@@ -12504,6 +13980,30 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-borlange/foreningar/kvarnsveden.html"
+    },
+    {
+      "entry": 1232380210,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Bredaredskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232380228,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Heneskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232383081,
@@ -12796,6 +14296,18 @@
       "web": "https://www.brixsweden.org/"
     },
     {
+      "entry": 1232415990,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, By\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232416964,
       "orgNumber": "802528-9359",
       "orgName": "Leksaksbiblioteket - Allm\u00e4nna Arvsfonden",
@@ -12869,6 +14381,30 @@
       "web": "https://motbarncancer.se/"
     },
     {
+      "entry": 1232439255,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Timmele skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232439297,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Stellatus",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232440469,
       "orgNumber": "832800-5122",
       "orgName": "Oskarshamns Golfklubb",
@@ -12935,6 +14471,30 @@
         "patientf\u00f6rening"
       ],
       "web": "https://www.cancerkompisar.se/"
+    },
+    {
+      "entry": 1232462059,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, \u00c4ngsdals skolor",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232462281,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Dalums skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232465359,
@@ -13162,6 +14722,42 @@
       "web": "https://knallenskarateklubb.com/"
     },
     {
+      "entry": 1232536878,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Videdalsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232536886,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Upp\u00e5kraskolan Hj\u00e4rup",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232536894,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Tr\u00e4dg\u00e5rdsstadens skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232538593,
       "orgNumber": "897300-0261",
       "orgName": "Kiruna jakt- och fiskev\u00e5rdsf\u00f6rening",
@@ -13304,6 +14900,54 @@
         "b\u00e5tf\u00f6rs\u00e4ljning"
       ],
       "web": "https://fjallbackabatochbil.se/"
+    },
+    {
+      "entry": 1232578755,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, R\u00f6rsj\u00f6skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232578763,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Kl\u00e4mmestorpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232578953,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Tallbackens F\u00f6rskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232578987,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Orrholmsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232579696,
@@ -13534,6 +15178,30 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.viddinsida.nu/"
+    },
+    {
+      "entry": 1232610319,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, M\u00e5nsarpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232610350,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Herrhagsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232610939,
@@ -13839,6 +15507,30 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/VasterasBouleklubb/"
+    },
+    {
+      "entry": 1232664324,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Beringskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232664332,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, L\u00e5ngvinkelns Montessori",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232667376,
@@ -14165,6 +15857,30 @@
       "web": "https://www.alzheimersverige.se/"
     },
     {
+      "entry": 1232701779,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Haverdals byskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232701969,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Torpaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232702140,
       "orgNumber": "802504-4010",
       "orgName": "Fiskeb\u00e4ckskyrkan",
@@ -14281,6 +15997,30 @@
       "web": "https://jamtdykarna.com/"
     },
     {
+      "entry": 1232715159,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, P\u00e5skag\u00e4nget",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232715225,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Madenskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232715498,
       "orgNumber": "883201-9023",
       "orgName": "SPF Seniorerna Leksand",
@@ -14307,6 +16047,66 @@
         "yoga"
       ],
       "web": "https://funktionsmed.se/"
+    },
+    {
+      "entry": 1232717593,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Sk\u00e4lbyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232717726,
+      "orgNumber": "802535-4211",
+      "orgName": "Team Rynkeby",
+      "comment": "Kalmar, Alster\u00e5skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232717908,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Balderskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232717916,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Futuraskolan International Bergtorp",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232717924,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, N\u00e4sbyparksskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232721223,
@@ -14563,6 +16363,18 @@
       "web": "https://www.situationsthlm.se/"
     },
     {
+      "entry": 1232762086,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Noblaskolan L\u00e4nnersta",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232764959,
       "orgNumber": "802417-6789",
       "orgName": "PRO Kungsg\u00e5rden",
@@ -14676,6 +16488,42 @@
         "ryttars\u00e4llskap"
       ],
       "web": "https://idrottonline.se/EksatraRS-Ridsport/"
+    },
+    {
+      "entry": 1232772473,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Tottarpsskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232772499,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Dannikeskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232777316,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Alsike skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232782431,
@@ -15374,6 +17222,42 @@
       "web": "https://ad-konsult.se/"
     },
     {
+      "entry": 1232891612,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Bj\u00f6rkhagsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232891752,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, H\u00e4ssleholms Montessorigrundskola F-9",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232891885,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Toftan\u00e4sskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232894830,
       "orgNumber": "802430-4498",
       "orgName": "Brottsofferjouren \u00d6rebro L\u00e4n",
@@ -15585,6 +17469,30 @@
       "web": "https://sotenas.biodlarna.se/"
     },
     {
+      "entry": 1232930550,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, Furuby skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232930568,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Hubertusg\u00e5rden",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1232931863,
       "orgNumber": "802530-2962",
       "orgName": "Human Framtid",
@@ -15611,6 +17519,18 @@
         "stuguthyrning"
       ],
       "web": "https://www.ullstorp.se/"
+    },
+    {
+      "entry": 1232942308,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, Fagrab\u00e4ckskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232945210,
@@ -15651,6 +17571,30 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/EskilstunaCityFK"
+    },
+    {
+      "entry": 1232956316,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Tabergsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232956365,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Ur och Skur Kr\u00e5kan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232956449,
@@ -15721,6 +17665,18 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.harf.se/"
+    },
+    {
+      "entry": 1232969426,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, S\u00f6ndrebalg skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1232979110,
@@ -16256,6 +18212,54 @@
       "web": "https://svenskalivraddningssallskapet.se/"
     },
     {
+      "entry": 1233052461,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Munkerudsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233052479,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, \u00d6streg\u00e5rdskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233052487,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, G\u00e5nghesterskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233052719,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Fagerhults skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233053352,
       "orgNumber": "802479-8863",
       "orgName": "Voices4Change",
@@ -16344,6 +18348,18 @@
       "web": "https://www.wtmetall.se/"
     },
     {
+      "entry": 1233063534,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, V\u00e4rings skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233068939,
       "orgNumber": "802519-3924",
       "orgName": "F\u00f6reningen Kulturarv Djurhamn",
@@ -16352,6 +18368,42 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.djurhamn.eu/"
+    },
+    {
+      "entry": 1233069127,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Heleneborgsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233069184,
+      "orgNumber": "802535-4211",
+      "orgName": "Team Rynkeby",
+      "comment": "Kalmar, P\u00e5rydsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233069192,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Strandskolan Montessori",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233069390,
@@ -16381,6 +18433,18 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.ingmarsspelen.se/"
+    },
+    {
+      "entry": 1233077518,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Ytterharn\u00e4s skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233078201,
@@ -16759,6 +18823,18 @@
       "web": "http://greengrove.dinstudio.se/"
     },
     {
+      "entry": 1233144508,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Bofinkenskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233145703,
       "orgNumber": "969673-0861",
       "orgName": "S:t Afrems Kyrka / Syrianska Fastighetsbolag Handelsbolag",
@@ -16948,6 +19024,18 @@
       "web": "http://www.lakerslakejer.se/"
     },
     {
+      "entry": 1233204070,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, H\u00f6ssna Skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233205499,
       "orgNumber": "802511-3799",
       "orgName": "Shoe4Africa Sweden",
@@ -16955,6 +19043,30 @@
         "hj\u00e4lporganisation"
       ],
       "web": "http://shoe4africa.se/"
+    },
+    {
+      "entry": 1233206489,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, G\u00e4llstads skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233206521,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, R\u00e5torpskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233207669,
@@ -17076,6 +19188,18 @@
       "web": "https://www.slu.se/"
     },
     {
+      "entry": 1233222536,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Tv\u00e4rreds skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233222734,
       "orgNumber": "202100-4888",
       "orgName": "Lantm\u00e4teriet",
@@ -17086,6 +19210,18 @@
       "web": "https://www.lantmateriet.se/"
     },
     {
+      "entry": 1233222882,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Krika Bygdeskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233228160,
       "orgNumber": "878001-3879",
       "orgName": "V\u00e4ster\u00e5s Friidrottsklubb",
@@ -17094,6 +19230,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.vasterasfriidrott.se/"
+    },
+    {
+      "entry": 1233228707,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Vikenskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233228996,
@@ -17194,6 +19342,18 @@
         "stiftelse"
       ],
       "web": "https://www.hjelmserydsstiftelsen.nu/"
+    },
+    {
+      "entry": 1233237542,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, L\u00e4redaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233242252,
@@ -17618,6 +19778,30 @@
       "web": "https://umea.nmrf.se/"
     },
     {
+      "entry": 1233320801,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Djupedalskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233320835,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Bagarmossens skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233326097,
       "orgNumber": "556319-1344",
       "orgName": "Bridgestone Padel Arena Vemdalen / PGMG Fastigheter AB",
@@ -17667,6 +19851,30 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.lundshistoriedagar.se/"
+    },
+    {
+      "entry": 1233336765,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, \u00d6lmeskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233336773,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Ytterbyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233337011,
@@ -17890,6 +20098,54 @@
       "web": "https://eloverkanslig.org/"
     },
     {
+      "entry": 1233377025,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Boo G\u00e5rds Skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233377033,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Backaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233377272,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Tornlyckeskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233377298,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Vikens Montessori",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233377447,
       "orgNumber": "802002-7317",
       "orgName": "Svenska Psykoanalytiska F\u00f6reningen",
@@ -18044,6 +20300,30 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.shantabasket.com/"
+    },
+    {
+      "entry": 1233387727,
+      "orgNumber": "802535-4211",
+      "orgName": "Team Rynkeby",
+      "comment": "Kalmar, Tjelvarskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233387735,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Alfredsh\u00e4llskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233387859,
@@ -18441,6 +20721,66 @@
       "web": "http://surahammarsskytteforening.se/"
     },
     {
+      "entry": 1233462157,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Hylliev\u00e5ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233462173,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Rutsborgskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233462231,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Brinkskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233462249,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Stenportens Grunds\u00e4rskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233462256,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Sandhultsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233466414,
       "orgNumber": "853300-3052",
       "orgName": "Tj\u00f6rns Hembygdsf\u00f6rening",
@@ -18530,6 +20870,18 @@
       "web": "https://eezer.org/"
     },
     {
+      "entry": 1233498524,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, R\u00e5ngedalaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233498664,
       "orgNumber": "802513-8143",
       "orgName": "Gnosjo Global Association",
@@ -18537,6 +20889,18 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.gnosjoglobal.com/"
+    },
+    {
+      "entry": 1233498698,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Emiliaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233500188,
@@ -18877,6 +21241,42 @@
       "web": "https://eskilstunatrafikskolan.se/"
     },
     {
+      "entry": 1233542149,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Gillbo-Gr\u00f6ndalsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233542156,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Klaraskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233542164,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Brearedsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233542180,
       "orgNumber": "802519-9863",
       "orgName": "V\u00e4n i Ume\u00e5",
@@ -19064,6 +21464,18 @@
       "web": "https://markusholst.com/"
     },
     {
+      "entry": 1233566973,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Rebbelberga skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233567344,
       "orgNumber": "802406-8184",
       "orgName": "Burmaklubben",
@@ -19100,6 +21512,54 @@
         "satir"
       ],
       "web": "https://folkhemseliten.se/"
+    },
+    {
+      "entry": 1233574803,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Barnarpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233574902,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Lindbladsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233574910,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, H\u00e4llaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233574951,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Genevadsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233575065,
@@ -19171,6 +21631,18 @@
       "web": "http://www.impro.a.se/"
     },
     {
+      "entry": 1233590700,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Sundbornsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233591757,
       "orgNumber": "889200-3651",
       "orgName": "Sundsvalls Tekniska F\u00f6rening, SUTF",
@@ -19197,6 +21669,30 @@
         "utrustning"
       ],
       "web": "https://fagelboden.se/"
+    },
+    {
+      "entry": 1233600319,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Drakskeppsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233600327,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Sn\u00f6storpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233600699,
@@ -19247,6 +21743,18 @@
       "web": "https://vsdk-mollusca.org/"
     },
     {
+      "entry": 1233606431,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Storvretskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233607355,
       "orgNumber": "802453-9960",
       "orgName": "Rotary Landskrona-Glumsl\u00f6v",
@@ -19265,6 +21773,30 @@
         "sport"
       ],
       "web": "https://sverigerunt.org/"
+    },
+    {
+      "entry": 1233610987,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Linneskola H\u00e4ssleholm",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233615820,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, S\u00f6dra R\u00e5torps skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233622313,
@@ -19533,6 +22065,18 @@
       "web": "https://www.izblandskrona.se/"
     },
     {
+      "entry": 1233664828,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Fredriksbergsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233665635,
       "orgNumber": "559123-6848",
       "orgName": "Kronog\u00e5rd Nord AB",
@@ -19650,6 +22194,42 @@
         "sportskytte"
       ],
       "web": "https://www.eslovjsk.com/"
+    },
+    {
+      "entry": 1233710282,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Garnvindeskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233712924,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Viskaforsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233712981,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Bergsundsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233715968,
@@ -19785,6 +22365,18 @@
         "intressef\u00f6rening"
       ],
       "web": "http://www.vasterasbrottarklubb.se/"
+    },
+    {
+      "entry": 1233742541,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Fredricelundskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233747771,
@@ -20134,6 +22726,30 @@
       "web": "https://www.sundsjoif.se/"
     },
     {
+      "entry": 1233817673,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, All\u00e9skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233817715,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Thor\u00e9n Framtid",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233818648,
       "orgNumber": "802000-2369",
       "orgName": "Avelsf\u00f6reningen Svenska Ardennerh\u00e4sten",
@@ -20337,6 +22953,18 @@
       "web": "https://arkitekturensvanner.se/"
     },
     {
+      "entry": 1233860632,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, H\u00e4rrydaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233861044,
       "orgNumber": "802478-0861",
       "orgName": "Stiftelsen L\u00f6\u00f6f Foundation",
@@ -20412,6 +23040,30 @@
         "lionsklubb"
       ],
       "web": "https://www.e-clubhouse.org/sites/arvika/"
+    },
+    {
+      "entry": 1233879509,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, F\u00e4ladsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233879558,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, H\u00f6gastenskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233879715,
@@ -20564,6 +23216,30 @@
         "tennisklubb"
       ],
       "web": "https://www.kalmartk.se/"
+    },
+    {
+      "entry": 1233887536,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Brattasskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233887544,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Valhallaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233892122,
@@ -21067,6 +23743,18 @@
       "web": "https://www.elbilsverige.se/"
     },
     {
+      "entry": 1233964640,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Framtidskompassen V\u00e4stra Ingelstad",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1233969789,
       "orgNumber": "824000-1035",
       "orgName": "Heliga Hj\u00e4rtas Kloster / Mariad\u00e4ttrarna OSB",
@@ -21233,6 +23921,18 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/tjejjourenrut/"
+    },
+    {
+      "entry": 1233998457,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Vittra Vallentuna",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1233999323,
@@ -21554,6 +24254,18 @@
         "s\u00e5ng"
       ],
       "web": "https://www.lidija.se/"
+    },
+    {
+      "entry": 1234054060,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Ljungbyhedskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234054359,
@@ -21886,6 +24598,30 @@
         "hundsport"
       ],
       "web": "https://www.hundbiten.com/"
+    },
+    {
+      "entry": 1234129698,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Bj\u00e4kenbackens skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234129896,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Brageskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234133484,
@@ -22841,6 +25577,18 @@
       "web": "https://nattidskriftenvasterbotten.se/"
     },
     {
+      "entry": 1234293726,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, J\u00e4rla skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234295671,
       "orgNumber": "302616-8686",
       "orgName": "M\u00f6klinta Kennelklubb",
@@ -23042,6 +25790,54 @@
       "web": "http://www.gavleborgtaxklubb.se/"
     },
     {
+      "entry": 1234350609,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Hillerstorpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234350625,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, \u00d6rserumsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234350716,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Myr\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234350732,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, S\u00e4traskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234350914,
       "orgNumber": "802481-2946",
       "orgName": "Terapicenter f\u00f6r unga vuxna / Stiftelsen Young Solidarity Foundation",
@@ -23088,6 +25884,18 @@
         "intressef\u00f6rening"
       ],
       "web": "https://goteborgsmagiskaklubb.se/"
+    },
+    {
+      "entry": 1234355897,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Lill\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234356531,
@@ -23160,6 +25968,54 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://nkbh.se/"
+    },
+    {
+      "entry": 1234384343,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Strandskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234384541,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Dans\u00e4terskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234384558,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Adel\u00f6vs friskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234384574,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, S\u00f6derby Friskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234384798,
@@ -23344,6 +26200,18 @@
       "web": "https://www.uif.se/"
     },
     {
+      "entry": 1234410601,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Lovisedalsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234410692,
       "orgNumber": "802462-1099",
       "orgName": "Helsingborg Jaguars American Football Club - HJ AFC",
@@ -23364,6 +26232,30 @@
         "naturv\u00e5rd"
       ],
       "web": "https://diversagainstghostnets.com/"
+    },
+    {
+      "entry": 1234412169,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Lundaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234412201,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Yngsj\u00f6 skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234412458,
@@ -23624,6 +26516,42 @@
       "web": "https://mickeahlgrens.se/"
     },
     {
+      "entry": 1234468567,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Billingsdalskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234468575,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, V\u00e4rs\u00e5s skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234468757,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Bergvallaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234470753,
       "orgNumber": "817603-6021",
       "orgName": "Uppsala Tr\u00e4dg\u00e5rdsS\u00e4llskap",
@@ -23632,6 +26560,18 @@
         "tr\u00e4dg\u00e5rdsodling"
       ],
       "web": "https://uppsalats.blogspot.com/"
+    },
+    {
+      "entry": 1234472387,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Streteredsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234475711,
@@ -23750,6 +26690,78 @@
         "hundsport"
       ],
       "web": "https://www.bassetsyd.se/"
+    },
+    {
+      "entry": 1234495552,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Sveaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234495586,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Linder\u00f6d",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234495594,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Branningeskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234495768,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, \u00d6stbyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234495776,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Noblaskolan Nacka Strand",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234495784,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Svensby skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234503470,
@@ -24073,6 +27085,30 @@
       "web": "http://backamovanner.se/"
     },
     {
+      "entry": 1234543005,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Nyv\u00e5ngskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234543054,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Centrumskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234543609,
       "orgNumber": "252004-9194",
       "orgName": "Barnarp \u00d6destugu F\u00f6rsamling",
@@ -24081,6 +27117,30 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/barnarp-odestugu"
+    },
+    {
+      "entry": 1234545703,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Hestra Midg\u00e5rdskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234545893,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Tingdalsskolan Bj\u00f6rn\u00e5s",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234548822,
@@ -24111,6 +27171,66 @@
         "stiftelse"
       ],
       "web": "https://www.polisforbundet.se/om-oss/polisforbundets-stiftelser-och-fonder/"
+    },
+    {
+      "entry": 1234559738,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Ulrikaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234559779,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Tyringe skola F-9",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234559985,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Tunaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234559993,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, v\u00e4stervangakolan 5-9D",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234560835,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, T\u00e5gaborgskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234563151,
@@ -24162,6 +27282,18 @@
       "web": "http://www.fjugestams.com/"
     },
     {
+      "entry": 1234577367,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Marb\u00e4cks skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234578126,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -24198,6 +27330,30 @@
         "hundsport"
       ],
       "web": "https://www.goldenklubbenhalland.se/"
+    },
+    {
+      "entry": 1234579744,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Skuru skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234579751,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Bjurtj\u00e4rns skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234580023,
@@ -24368,6 +27524,42 @@
         "kredittj\u00e4nster"
       ],
       "web": "http://www.deltainkasso.se/"
+    },
+    {
+      "entry": 1234605119,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Skan\u00f6rsskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234605143,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Raml\u00f6sa Friskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234605176,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Hagenskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234606554,
@@ -25321,6 +28513,18 @@
       "web": "https://www.partillegk.se/"
     },
     {
+      "entry": 1234820064,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, B\u00f6skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234820973,
       "orgNumber": "802525-6556",
       "orgName": "VOX Idrottsf\u00f6rening",
@@ -25465,6 +28669,54 @@
       "web": "http://www.foreningikonst.se/"
     },
     {
+      "entry": 1234844759,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Norrmalmskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234844767,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Noblaskolan J\u00e4rla Sj\u00f6",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234844775,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Runbacka skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234844981,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, G\u00e4rds K\u00f6pinge skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234852976,
       "orgNumber": "863500-5179",
       "orgName": "Ale Golfklubb",
@@ -25512,6 +28764,18 @@
         "religion"
       ],
       "web": "https://umea.pingst.se/"
+    },
+    {
+      "entry": 1234876900,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Pr\u00e4stbolskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234884045,
@@ -25577,6 +28841,30 @@
       "web": "https://skargardshotellethono.se/"
     },
     {
+      "entry": 1234898599,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Holmeskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234898706,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Sk\u00e5rsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234900953,
       "orgNumber": "802422-4233",
       "orgName": "Televeteranerna i Ume\u00e5",
@@ -25586,6 +28874,30 @@
       "web": "https://sites.google.com/view/tjolman/"
     },
     {
+      "entry": 1234914412,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Tidanskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234914420,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Vistaholms F\u00f6raldrakooperativ",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234914453,
       "orgNumber": "559303-7160",
       "orgName": "Sannas Yoga / Sanna Hagman Communication AB",
@@ -25593,6 +28905,30 @@
         "yoga"
       ],
       "web": "https://www.sannasyoga.se/"
+    },
+    {
+      "entry": 1234921169,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Kvinnebyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234921185,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, R\u00e4vek\u00e4rrsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234925095,
@@ -25659,6 +28995,42 @@
         "intressef\u00f6rening"
       ],
       "web": "http://www.svenskaschuetz.se/"
+    },
+    {
+      "entry": 1234937918,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Noretskolan 1-9",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234937975,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Hagaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234937991,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Kinnarummaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234939989,
@@ -25777,6 +29149,18 @@
       "web": "https://www.ekho.se/"
     },
     {
+      "entry": 1234950713,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, M\u00f6llebacksskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234953915,
       "orgNumber": "559041-5351",
       "orgName": "Hall\u00e5Hund",
@@ -25853,6 +29237,30 @@
       "web": "https://www.bkm\u00f6llan.se/"
     },
     {
+      "entry": 1234965042,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Park skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234965208,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Baraskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234971040,
       "orgNumber": "802451-8261",
       "orgName": "Tj\u00f6rns Sl\u00e4ktforskare",
@@ -25897,6 +29305,18 @@
       "web": "https://www.hastakeriet.se/"
     },
     {
+      "entry": 1234975140,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, S\u00f6raby skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1234980496,
       "orgNumber": "802463-6543",
       "orgName": "Frihet och H\u00e4lsa / Nuidag.se",
@@ -25939,6 +29359,18 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenkalmar/"
+    },
+    {
+      "entry": 1234989950,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Svaneholmsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1234992582,
@@ -26002,6 +29434,66 @@
         "stiftelse"
       ],
       "web": "https://hastforskning.se/"
+    },
+    {
+      "entry": 1234999298,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Maria Parkskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234999322,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Kyrkbyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234999553,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Ingatorpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234999595,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Norskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235000153,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Bladins International school",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235009410,
@@ -26169,6 +29661,30 @@
       "web": "https://nolabi.se/"
     },
     {
+      "entry": 1235031000,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Skegrie skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235031299,
+      "orgNumber": "802535-4211",
+      "orgName": "Team Rynkeby",
+      "comment": "Kalmar, Rocknebyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235031505,
       "orgNumber": "802473-0841",
       "orgName": "Predikan & Undervisning - Elvor & Janne",
@@ -26315,6 +29831,30 @@
       "web": "https://huddinge.alvis.se/"
     },
     {
+      "entry": 1235056411,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, \u00c4lvdalsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235056502,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Vallarg\u00e4rdets skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235059688,
       "orgNumber": "832800-9090",
       "orgName": "IF \u00c5sen",
@@ -26322,6 +29862,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.drageryd.se/"
+    },
+    {
+      "entry": 1235063243,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Norrstrandsskolan 4-6",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235064043,
@@ -26368,6 +29920,30 @@
         "djurskydd"
       ],
       "web": "https://www.djurensvanner.se/boras"
+    },
+    {
+      "entry": 1235084637,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, N\u00f6dingeskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235084868,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, \u00d6ster\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235087408,
@@ -26535,6 +30111,42 @@
         "intressef\u00f6rening"
       ],
       "web": "https://detfriasverige.se/"
+    },
+    {
+      "entry": 1235107461,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Skogs\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235107727,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Farsta\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235107735,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Ljungenskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235109103,
@@ -27264,6 +30876,18 @@
       "web": "https://www.lapplandsjagare.com/"
     },
     {
+      "entry": 1235184510,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Buaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235189238,
       "orgNumber": "897001-5049",
       "orgName": "Brottsofferjouren Lule\u00e5",
@@ -27480,6 +31104,54 @@
       "web": "https://idrottonline.se/GarphyttansIF/"
     },
     {
+      "entry": 1235230479,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Pr\u00e4stg\u00e5rdsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235230552,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Askeby skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235230560,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Hjortsj\u00f6skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235230669,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, S\u00f6derbaumska Skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235231790,
       "orgNumber": "802530-5890",
       "orgName": "Lokala Hj\u00e4lpen - Tillsammans f\u00f6r V\u00e4ster\u00e5s",
@@ -27507,6 +31179,30 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/gavle/heligatrefaldighetskyrka"
+    },
+    {
+      "entry": 1235241120,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Taheskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235241146,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Lyrestad skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235245006,
@@ -27646,6 +31342,42 @@
       "web": "https://www.fsbu.org/"
     },
     {
+      "entry": 1235273610,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Wallbergsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235273628,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, LBS Kreativa Gymnasiet",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235273891,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Fj\u00e4lkinge Skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235278106,
       "orgNumber": "869001-2318",
       "orgName": "Mariakyrkans f\u00f6rsamling Uddevalla",
@@ -27735,6 +31467,42 @@
         "uthyrning"
       ],
       "web": "https://lagghoj.se/"
+    },
+    {
+      "entry": 1235285150,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Ekar\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235285176,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Internationella Engelska Skolan i T\u00e4by",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235285192,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Engelska skolan i Karlstad",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235288014,
@@ -27830,6 +31598,18 @@
       "web": "https://www.enkopingsklatterklubb.se/"
     },
     {
+      "entry": 1235306725,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Toleredsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235310974,
       "orgNumber": "868401-2514",
       "orgName": "Parkinsonf\u00f6rbundet - Skaraborg",
@@ -27838,6 +31618,18 @@
         "intressef\u00f6rening"
       ],
       "web": "http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Skaraborg.html"
+    },
+    {
+      "entry": 1235311501,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Sk\u00e4rg\u00e5rdsstadsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235311600,
@@ -27856,6 +31648,18 @@
         "f\u00f6rs\u00e4ljning"
       ],
       "web": "http://varuhuset.se/"
+    },
+    {
+      "entry": 1235311931,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, \u00c4ngdala skolor",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235312277,
@@ -27879,6 +31683,30 @@
       "web": "https://www.hundfysen.se/"
     },
     {
+      "entry": 1235322748,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Utmelandsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235322755,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Krylboskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235322789,
       "orgNumber": "556994-2138",
       "orgName": "Westcoast Evolution Training AB",
@@ -27886,6 +31714,30 @@
         "personlig tr\u00e4ning",
         "pt"
       ]
+    },
+    {
+      "entry": 1235322813,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Vikarbyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235322896,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Stocksundsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235324140,
@@ -27897,6 +31749,18 @@
       "web": "https://www.facebook.com/profile.php?id=100080096693624"
     },
     {
+      "entry": 1235325345,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, \u00d6stermalmsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235325824,
       "orgNumber": "556677-9244",
       "orgName": "Sj\u00f6lin & Lantz AB",
@@ -27904,6 +31768,18 @@
         "trafikskola"
       ],
       "web": "https://www.sjolinlantz.se/"
+    },
+    {
+      "entry": 1235331137,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Bj\u00e4rehovsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235331210,
@@ -27914,6 +31790,42 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/tuna-attmar"
+    },
+    {
+      "entry": 1235331301,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Frennarps byskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235331319,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, V\u00e4sterbergsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235331335,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, V\u00e4stra Raml\u00f6sa skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235331459,
@@ -27974,6 +31886,30 @@
         "utrustning"
       ],
       "web": "https://armystuff.se/"
+    },
+    {
+      "entry": 1235335088,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Vreta kloster skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235335336,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Vibyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235337266,
@@ -28324,6 +32260,18 @@
       "web": "https://crevoice.se/"
     },
     {
+      "entry": 1235400338,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Sally Bauerskolan F-6",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235401047,
       "orgNumber": "857204-5568",
       "orgName": "Br\u00e4nn\u00f6f\u00f6reningen",
@@ -28353,6 +32301,30 @@
         "tjejjour"
       ],
       "web": "https://www.unizonjourer.se/fria/"
+    },
+    {
+      "entry": 1235402821,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Asmundtorpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235402839,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Mj\u00e4llbyskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235406327,
@@ -28434,6 +32406,18 @@
       "web": "http://www.rydaholmsfrikyrka.se/"
     },
     {
+      "entry": 1235419262,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Slimmingebyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235419312,
       "orgNumber": "802475-8818",
       "orgName": "Malma Intressef\u00f6rening",
@@ -28451,6 +32435,30 @@
         "orienteringsklubb"
       ],
       "web": "https://www.eksjosok.se/"
+    },
+    {
+      "entry": 1235422340,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Kunskapsskolan Saltsj\u00f6baden",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235422506,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, \u00d6sterg\u00e5rdsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235422654,
@@ -29388,6 +33396,30 @@
       "web": "https://angsotrailrun.se/"
     },
     {
+      "entry": 1235574009,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Sk\u00e4ggebergsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235574058,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, K\u00e4pplundaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235577309,
       "orgNumber": "802505-8408",
       "orgName": "Pite\u00e5 IF Fotbollsf\u00f6rening",
@@ -29426,6 +33458,30 @@
       "web": "https://www.magnoliabarnen.se/"
     },
     {
+      "entry": 1235584578,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, P\u00e5arps skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235584644,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Erlaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235589007,
       "orgNumber": "873202-0857",
       "orgName": "Svenska Bassetklubben Mellan",
@@ -29443,6 +33499,18 @@
         "intresseorganisation"
       ],
       "web": "https://www.intressegruppen.info/"
+    },
+    {
+      "entry": 1235590765,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Elevverket",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235592092,
@@ -29524,6 +33592,54 @@
       "web": "https://www.honomissionskyrka.se/"
     },
     {
+      "entry": 1235604103,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Gustav Vasa Skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235604244,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Trolle Ljungby skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235604251,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Karlshamns Montessori",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235604269,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Gullbrandstorpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235604491,
       "orgNumber": "815201-2822",
       "orgName": "Svensk F\u00f6rening f\u00f6r Radiofysik",
@@ -29550,6 +33666,18 @@
         "minigolf"
       ],
       "web": "https://hagabgk.se/"
+    },
+    {
+      "entry": 1235606942,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Hj\u00e4rups skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235607312,
@@ -29644,6 +33772,42 @@
         "islandsh\u00e4st"
       ],
       "web": "http://www.barigard.se/"
+    },
+    {
+      "entry": 1235619002,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Aplaredsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235619010,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Rosendalsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235619028,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Strand\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235619044,
@@ -29933,6 +34097,42 @@
       "web": "https://www.bellis.nu/"
     },
     {
+      "entry": 1235674205,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Sundsbroskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235674239,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Krusbodaskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235674270,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Vall\u00e5kra F\u00f6rskola/Skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235674403,
       "orgNumber": "802520-0406",
       "orgName": "Bommedal RF - Ridsport",
@@ -29991,6 +34191,42 @@
         "stiftelse"
       ],
       "web": "https://skargardsstiftelsen.se/"
+    },
+    {
+      "entry": 1235690037,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, F\u00e4ssbergsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235690243,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Vegby skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235690276,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Sannerudskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235690748,
@@ -30550,6 +34786,42 @@
       "web": "https://www.mhf.se/"
     },
     {
+      "entry": 1235780606,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, K\u00e4rlekens Skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235780614,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Hed\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235780630,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Pilag\u00e5rdsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235782479,
       "orgNumber": "897300-0261",
       "orgName": "Kiruna jakt- och fiskev\u00e5rdsf\u00f6rening",
@@ -30681,6 +34953,18 @@
         "f\u00f6rs\u00e4ljning"
       ],
       "web": "https://dcl.se/"
+    },
+    {
+      "entry": 1235804166,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Sk\u00e5nh\u00e4llaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235807318,
@@ -30884,6 +35168,30 @@
       "web": "https://www.hiltibjj.com/"
     },
     {
+      "entry": 1235842505,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Fenestra Billdal",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235842695,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, Friskolan Kronobergshed",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235843248,
       "orgNumber": "876400-0355",
       "orgName": "Pingstkyrkan Degerfors",
@@ -30892,6 +35200,42 @@
         "religion"
       ],
       "web": "http://degerfors.pingst.se/"
+    },
+    {
+      "entry": 1235854005,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Hult skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235854039,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, \u00c5ker skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235854344,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, L\u00e5ngsele skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235854369,
@@ -30921,6 +35265,30 @@
         "stiftelse"
       ],
       "web": "https://www.upplevbillesholm.se/"
+    },
+    {
+      "entry": 1235857602,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Fredrika Bremerskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235857685,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Noleredsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235857842,
@@ -31628,6 +35996,30 @@
         "f\u00f6rening"
       ],
       "web": "https://gingribygdegard.se/"
+    },
+    {
+      "entry": 1235980677,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Alstr\u00f6mergymnasiet",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235980693,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Samskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235981436,
@@ -32360,6 +36752,30 @@
       "web": "https://lions.sjobo.nu/"
     },
     {
+      "entry": 1236107296,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Svensg\u00e5rdsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236107809,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Ribbaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236109615,
       "orgNumber": "802452-4913",
       "orgName": "Br\u00e4nnkyrka F\u00f6rsamlings Fredsgrupp",
@@ -32478,6 +36894,18 @@
         "hundsport"
       ],
       "web": "https://snkinfo.wordpress.com/"
+    },
+    {
+      "entry": 1236133003,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, F\u00f6rsl\u00f6vs skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236135172,
@@ -32864,6 +37292,18 @@
       "web": "https://utbildningsfonden.org/"
     },
     {
+      "entry": 1236182174,
+      "orgNumber": "502073-6483",
+      "orgName": "Team Rynkeby",
+      "comment": "Sverige, TRGM School run Sweden",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236182463,
       "orgNumber": "894003-1977",
       "orgName": "Insamlingsstiftelsen f\u00f6r medicinsk forskning vid Ume\u00e5 universitet",
@@ -32992,6 +37432,18 @@
       "web": "https://www.svenskakulturstiftelsen.se/"
     },
     {
+      "entry": 1236212013,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, \u00c5kerskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236212062,
       "orgNumber": "490720-XXXX",
       "orgName": "Reikicentrum Lidk\u00f6ping / Lilian Gustavsson",
@@ -33009,6 +37461,18 @@
         "journalistik"
       ],
       "web": "https://www.kontextpress.se/"
+    },
+    {
+      "entry": 1236212195,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Tomtebobarnen",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236212757,
@@ -33030,6 +37494,42 @@
         "katthem"
       ],
       "web": "https://www.kattpatrullen.com/"
+    },
+    {
+      "entry": 1236214407,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, V\u00e4stra Vrams F\u00f6rskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236214431,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, Kr\u00e5kerydskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236214654,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Bosgardsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236215230,
@@ -33159,6 +37659,54 @@
       "web": "http://rehabhuset.com/"
     },
     {
+      "entry": 1236246110,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Hammar skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236246300,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Norrev\u00e5ngs F\u00f6rskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236246367,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Bl\u00e4stadskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236246730,
+      "orgNumber": "802533-7778",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna, Danholsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236248595,
       "orgNumber": "556882-3461",
       "orgName": "Krylbo Trafikskola AB",
@@ -33175,6 +37723,18 @@
         "aff\u00e4rsverksamhet"
       ],
       "web": "https://startuptools.org/"
+    },
+    {
+      "entry": 1236249650,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, R\u00e5da skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236253330,
@@ -33264,6 +37824,78 @@
         "utbildning"
       ],
       "web": "https://spraklararna.se/"
+    },
+    {
+      "entry": 1236274146,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Fr\u00f6sakullsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236274153,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Lerbergsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236274179,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Djupadalsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236274187,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Degebergaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236274195,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Dalaskolan Norra",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236274385,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, Spiraskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236275028,
@@ -33358,6 +37990,18 @@
       "web": "http://www.raddaregnskog.se/"
     },
     {
+      "entry": 1236284772,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, Pr\u00e4stav\u00e5ngsskolan Broby",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236286462,
       "orgNumber": "802463-4191",
       "orgName": "Vilse.nu / SVEKATT (Svenska Kattskyddsf\u00f6rbundet)",
@@ -33416,6 +38060,30 @@
         "yoga"
       ],
       "web": "https://mybalanceyoga.se/"
+    },
+    {
+      "entry": 1236292841,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, R\u00f6llingbyskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236292858,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Montessoriskolan Kvarnhjulet",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236299754,
@@ -33865,6 +38533,18 @@
       "web": "http://asneforeningen.org/"
     },
     {
+      "entry": 1236374409,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, \u00d6stersk\u00e4rsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236378566,
       "orgNumber": "741225-XXXX",
       "orgName": "Stockholms Gitarrakademi / Emil Kjellbom",
@@ -34227,6 +38907,66 @@
       "web": "http://idrottonline.se/SkallingeSKF-Sportskytte"
     },
     {
+      "entry": 1236451884,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, L\u00e5ng\u00e4ngsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236451918,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Torslandaskolan f-6",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236451942,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Kungsbergsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236455182,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, \u00d6stersl\u00f6vs skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236455190,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, Jutarumsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236459390,
       "orgNumber": "818000-8735",
       "orgName": "Husby-Rekarne Scoutk\u00e5r",
@@ -34274,6 +39014,18 @@
       "web": "https://www.anomar-forlag.se/"
     },
     {
+      "entry": 1236464309,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Fredkullaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236466320,
       "orgNumber": "802424-2656",
       "orgName": "Haninge Islamiska KulturCenter / Stiftelsen Haninge Kultur Center",
@@ -34293,6 +39045,30 @@
       "web": "http://www.gnestajsk.se/"
     },
     {
+      "entry": 1236475081,
+      "orgNumber": "802533-7786",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund, Hagalundskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236475099,
+      "orgNumber": "802535-4211",
+      "orgName": "Team Rynkeby",
+      "comment": "Kalmar, Lindsdalsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236478283,
       "orgNumber": "775000-1062",
       "orgName": "Brf T\u00e5get",
@@ -34301,6 +39077,18 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://www.hsb.se/malardalarna/brf/taget/"
+    },
+    {
+      "entry": 1236480651,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, M\u00f6rarps F\u00f6rskola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236483952,
@@ -34320,6 +39108,42 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.tvaakersif.se/"
+    },
+    {
+      "entry": 1236486161,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, K\u00e4rda skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236486187,
+      "orgNumber": "802533-7794",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg, Sv\u00e4rtag\u00e5rdsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236490007,
+      "orgNumber": "802533-3421",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping, Ek\u00e4ngensskolor",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236492466,
@@ -34360,6 +39184,18 @@
       "web": "https://sodertraffen.se/"
     },
     {
+      "entry": 1236497028,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, \u00c5ryd skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236497051,
       "orgNumber": "857205-4875",
       "orgName": "\u00c5lleberg Cafe och Lunchrestaurang",
@@ -34370,6 +39206,18 @@
       "web": "https://www.allebergcafeorestaurang.se/"
     },
     {
+      "entry": 1236497069,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, V\u00e5xtorpsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236499966,
       "orgNumber": "769629-5422",
       "orgName": "Brf S\u00f6rby\u00e4ngen i \u00d6rebro",
@@ -34377,6 +39225,42 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://brfsorbyangen.se/"
+    },
+    {
+      "entry": 1236500508,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Tingvallagymnasiet",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236500706,
+      "orgNumber": "802535-9137",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad, \u00d6llsj\u00f6skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236500763,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Jonstorpskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236502116,
@@ -34714,6 +39598,18 @@
         "supporterklubb"
       ],
       "web": "https://vskbandy.se/vsk-vannerna/"
+    },
+    {
+      "entry": 1236555924,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, V\u00e4sterhedsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236557987,
@@ -35229,6 +40125,18 @@
       "web": "https://www.fokboras.se/"
     },
     {
+      "entry": 1236684070,
+      "orgNumber": "802533-7653",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping, S\u00f6rgardsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236685754,
       "orgNumber": "802508-2002",
       "orgName": "Barnendometriosfonden",
@@ -35610,6 +40518,30 @@
       "web": "https://www.srmodell.se/"
     },
     {
+      "entry": 1236734735,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Lysviks Skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236734990,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Danmarks skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236736441,
       "orgNumber": "802522-8332",
       "orgName": "Bridgeklubben 2 Kl\u00f6ver",
@@ -35674,6 +40606,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.ifkanderstorp.com/"
+    },
+    {
+      "entry": 1236757918,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Toftaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236758874,
@@ -35873,6 +40817,18 @@
         "byalag"
       ],
       "web": "https://www.matterodsbyalag.se/"
+    },
+    {
+      "entry": 1236784441,
+      "orgNumber": "802539-3649",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland, B\u00e4ckag\u00e5rdsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236784722,
@@ -36225,6 +41181,18 @@
       "web": "https://www.limhamnskortet.se/"
     },
     {
+      "entry": 1236862767,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Norra Strandskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236866040,
       "orgNumber": "660522-XXXX",
       "orgName": "Rotbrunna h\u00e4st och kursg\u00e5rd / Claes Eningsj\u00f6",
@@ -36274,6 +41242,42 @@
         "juridiska tj\u00e4nster"
       ],
       "web": "http://www.advokatjennypersdotter.se/"
+    },
+    {
+      "entry": 1236879779,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Montessoriskolan Sk\u00e4ret",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236879910,
+      "orgNumber": "802537-0241",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad, Bogesundsskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236879993,
+      "orgNumber": "802533-7869",
+      "orgName": "Team Rynkeby",
+      "comment": "Stockholm, Bj\u00f6rkn\u00e4sskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236882237,
@@ -36401,6 +41405,18 @@
       "web": "https://www.dackgubben.net/"
     },
     {
+      "entry": 1236898225,
+      "orgNumber": "802532-9262",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4xj\u00f6, H\u00f6gstorps skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236899124,
       "orgNumber": "802440-0171",
       "orgName": "Udddevalla Sim",
@@ -36419,6 +41435,18 @@
         "religion"
       ],
       "web": "https://aishacenter.se/"
+    },
+    {
+      "entry": 1236899835,
+      "orgNumber": "802534-5466",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by, International School of the Stockholm Region",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236901557,
@@ -36592,6 +41620,18 @@
         "katthem"
       ],
       "web": "https://akutgruppen.com/"
+    },
+    {
+      "entry": 1236934442,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Hallenskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1236934947,
