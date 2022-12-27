@@ -335,6 +335,17 @@ entries:
   - rotaryklubb
   web: https://nykoping-oster.rotary2370.se/
 
+- entry: 1230079061
+  orgName: Solkarina / Sinnligkunskap AB
+  orgNumber: 559006-6980
+  comment: null
+  categories:
+  - healing
+  - medial vägledning
+  - meditation
+  - reiki
+  web: https://www.solkarina.se/
+
 - entry: 1230081257
   orgName: Gottnebygdens Samhällsförening - Gottne Byskola
   orgNumber: 889601-1528
@@ -6096,6 +6107,15 @@ entries:
   - forskning
   - stiftelse
   web: http://www.cancerstiftelsen-kronoberg.se/
+
+- entry: 1231239474
+  orgName: Stålboms konditori
+  orgNumber: 556381-7245
+  comment: null
+  categories:
+  - bageri
+  - konditori
+  web: http://stalboms.se/
 
 - entry: 1231239862
   orgName: Mästarregistret / Stiftelsen Hantverk och Utbildning
@@ -14194,6 +14214,14 @@ entries:
   - ideell förening
   web: https://wikimedia.se/
 
+- entry: 1232692846
+  orgName: Chikondi Chimodzi Child Care Centre
+  orgNumber: 802489-6972
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://onelovemalawi.se/
+
 - entry: 1232692945
   orgName: Pingstförsamlingen Kristinehamn
   orgNumber: 873600-0087
@@ -18959,6 +18987,14 @@ entries:
   - ridsport
   web: https://www.idrottonline.se/StenungsundsHRF-Ridsport/
 
+- entry: 1233503257
+  orgName: 802506-4026
+  orgNumber: null
+  comment: null
+  categories:
+  - religion
+  web: https://echurch.se/
+
 - entry: 1233503364
   orgName: Team Rynkeby Dalarna
   orgNumber: 802533-7778
@@ -21614,6 +21650,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/roslagens-ostra-pastorat/vaddo-forsamling
+
+- entry: 1233996014
+  orgName: Urbergsgruppen
+  orgNumber: 802467-8438
+  comment: '#räddaklinte!'
+  categories:
+  - intresseförening
+  web: https://raddaklinte.se/
 
 - entry: 1233996113
   orgName: Österåkers Brukshundsklubb
@@ -34862,6 +34906,15 @@ entries:
   - utbildning
   web: https://www.stockholmsgitarrakademi.se/
 
+- entry: 1236378574
+  orgName: Borett Interiör AB
+  orgNumber: 556642-4338
+  comment: null
+  categories:
+  - heminredning
+  - kontorsinredning
+  web: https://borett.se/
+
 - entry: 1236382881
   orgName: Partipolitiskt Obundna i Svenska Kyrkan, POSK, Uppsala
   orgNumber: null
@@ -35244,6 +35297,15 @@ entries:
   categories:
   - scoutkår
   web: https://husby-rekarne.scout.se/
+
+- entry: 1236459515
+  orgName: Projekt Rågsved
+  orgNumber: 802515-9685
+  comment: null
+  categories:
+  - hjälporganisation
+  - intresseförening
+  web: https://www.projektragsved.com/
 
 - entry: 1236460729
   orgName: Eskilstuna Pensionärernas Motions Klubb, PMK

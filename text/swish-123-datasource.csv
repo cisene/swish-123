@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2022-12-18-rev-201259
+# Date: 2022-12-27-rev-012459
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -44,6 +44,7 @@
 "1230074401","840221-XXXX","Gamlens Gård / Johanna Skotte","https://www.gamlensgard.se/","djuruppfödning,gårdsförsäljning,trädfällning",""
 "1230074948","802539-3649","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Halland, Slottsjordsskolan"
 "1230075705","802501-9483","Rotary Nyköping Öster","https://nykoping-oster.rotary2370.se/","rotaryklubb",""
+"1230079061","559006-6980","Solkarina / Sinnligkunskap AB","https://www.solkarina.se/","healing,medial vägledning,meditation,reiki",""
 "1230081257","889601-1528","Gottnebygdens Samhällsförening - Gottne Byskola","https://www.gottnebyskola.se/","donation",""
 "1230082172","802533-7786","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Lund, Västervangskolans Grundsärskola"
 "1230086223","559361-5254","Tailzone AB","https://tailzone.se/","hundsport,hundsporthall",""
@@ -690,6 +691,7 @@
 "1231235035","559178-5646","Medeltidsmode Sweden AB","http://www.medeltidsmode.se/","försäljning,kläder,medeltidskläder",""
 "1231235522","802512-2402","Kvinnojouren Online","https://www.unizonjourer.se/kvinnojourenonline/","kvinnojour,tjejjour",""
 "1231237841","829502-1748","Cancerstiftelsen i Kronobergs län","http://www.cancerstiftelsen-kronoberg.se/","forskning,stiftelse",""
+"1231239474","556381-7245","Stålboms konditori","http://stalboms.se/","bageri,konditori",""
 "1231239862","883201-4768","Mästarregistret / Stiftelsen Hantverk och Utbildning","https://mastarregistret.se/","gesällbrev,stiftelse,utbildning,yrkesutbildning",""
 "1231241306","559283-2546","Sigfrids - Bageri, Bistro & Bar AB","https://sigfrids.se/","bageri,bar,restaurant",""
 "1231242486","893201-7638","Persåsens Skid och KK - Kälksport","http://www.persåsbacken.se/","skidlöparklubb",""
@@ -1599,6 +1601,7 @@
 "1232689321","878001-0636","Västerås Segelflygklubb","https://vasterassegelflyg.se/","flygklubb,segelflyg",""
 "1232692598","865500-3385","Ulricehamns IF","https://www.uif.se/","idrottsförening","Skidskytte"
 "1232692697","802437-8310","Wikimedia Sverige","https://wikimedia.se/","donation,ideell förening",""
+"1232692846","802489-6972","Chikondi Chimodzi Child Care Centre","https://onelovemalawi.se/","hjälporganisation",""
 "1232692945","873600-0087","Pingstförsamlingen Kristinehamn","https://pingstkristinehamn.se/","religion",""
 "1232694057","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/Tranas/","religion","Tranås"
 "1232695047","252002-7091","Lena Församling","https://www.svenskakyrkan.se/vattholma/lena","religion",""
@@ -2430,6 +2433,7 @@
 "1233991163","681021-XXXX","Yoga Med Helen / Helen Kåselöv","https://www.yogamedhelen.se/","yoga",""
 "1233991197","556621-4135","Charterbuss Resetjänst i Kristinehamn AB","https://www.charterbuss.se/","charterbuss,passagerar transport",""
 "1233991296","252004-7446","Väddö Församling","https://www.svenskakyrkan.se/roslagens-ostra-pastorat/vaddo-forsamling","religion",""
+"1233996014","802467-8438","Urbergsgruppen","https://raddaklinte.se/","intresseförening","#räddaklinte!"
 "1233996113","812000-3333","Österåkers Brukshundsklubb","https://www.osterakersbk.se/","brukshundsklubb,hundsport",""
 "1233996865","556888-1279","Hills Golf & Sports Club / Hills Golf AB","https://www.hillsgolfclub.se/","golfklubb",""
 "1233997632","855100-2671","Vänsterpartiet Partille","https://partille.vansterpartiet.se/","politiskt parti",""
@@ -3910,6 +3914,7 @@
 "1236372890","802442-8503","Svenska Åsneföreningen","http://asneforeningen.org/","avel,djurklubb,djurvård,åsnor",""
 "1236374409","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Täby, Österskärsskolan"
 "1236378566","741225-XXXX","Stockholms Gitarrakademi / Emil Kjellbom","https://www.stockholmsgitarrakademi.se/","kurser,musikskola,utbildning",""
+"1236378574","556642-4338","Borett Interiör AB","https://borett.se/","heminredning,kontorsinredning",""
 "1236383434","802426-1250","Sverige för UNHCR","https://www.sverigeforunhcr.se/","hjälporganisation",""
 "1236386379","820504-XXXX","Trädgårdstrollet / Jasmine Waara","https://www.tradgardstrollet.se/","arborist,trädgårdsodling,trädgårdsplanering",""
 "1236387112","838201-3905","CMK - Christianstads MotorbåtsKlubb","http://kristianstadsbatklubb.se/","motorbåtsklubb",""
@@ -3952,6 +3957,7 @@
 "1236455182","802535-9137","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kristianstad, Österslövs skola"
 "1236455190","802539-3649","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Halland, Jutarumsskolan"
 "1236459390","818000-8735","Husby-Rekarne Scoutkår","https://husby-rekarne.scout.se/","scoutkår",""
+"1236459515","802515-9685","Projekt Rågsved","https://www.projektragsved.com/","hjälporganisation,intresseförening",""
 "1236460729","818001-3768","Eskilstuna Pensionärernas Motions Klubb, PMK","https://www.eskilstunabowling.se/sportbowling/seniorer/seniorklubbar/pmk","bowlingklubb,idrottsförening",""
 "1236461909","832402-0166","Phalène Sällskapet","https://www.phalenesallskapet.se/","hundklubb,hundsport",""
 "1236462006","559048-3136","AMK Morgon / AMK Studios AB","https://amkstudios.se/","podcast",""

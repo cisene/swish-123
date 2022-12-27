@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2022-12-18-rev-201259",
+    "date": "2022-12-27-rev-012459",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -371,6 +371,18 @@
         "rotaryklubb"
       ],
       "web": "https://nykoping-oster.rotary2370.se/"
+    },
+    {
+      "entry": 1230079061,
+      "orgNumber": "559006-6980",
+      "orgName": "Solkarina / Sinnligkunskap AB",
+      "categories": [
+        "healing",
+        "medial v\u00e4gledning",
+        "meditation",
+        "reiki"
+      ],
+      "web": "https://www.solkarina.se/"
     },
     {
       "entry": 1230081257,
@@ -6781,6 +6793,16 @@
         "stiftelse"
       ],
       "web": "http://www.cancerstiftelsen-kronoberg.se/"
+    },
+    {
+      "entry": 1231239474,
+      "orgNumber": "556381-7245",
+      "orgName": "St\u00e5lboms konditori",
+      "categories": [
+        "bageri",
+        "konditori"
+      ],
+      "web": "http://stalboms.se/"
     },
     {
       "entry": 1231239862,
@@ -15877,6 +15899,15 @@
       "web": "https://wikimedia.se/"
     },
     {
+      "entry": 1232692846,
+      "orgNumber": "802489-6972",
+      "orgName": "Chikondi Chimodzi Child Care Centre",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://onelovemalawi.se/"
+    },
+    {
       "entry": 1232692945,
       "orgNumber": "873600-0087",
       "orgName": "Pingstf\u00f6rsamlingen Kristinehamn",
@@ -24141,6 +24172,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/vaddo-forsamling"
+    },
+    {
+      "entry": 1233996014,
+      "orgNumber": "802467-8438",
+      "orgName": "Urbergsgruppen",
+      "comment": "#r\u00e4ddaklinte!",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://raddaklinte.se/"
     },
     {
       "entry": 1233996113,
@@ -38934,6 +38975,16 @@
       "web": "https://www.stockholmsgitarrakademi.se/"
     },
     {
+      "entry": 1236378574,
+      "orgNumber": "556642-4338",
+      "orgName": "Borett Interi\u00f6r AB",
+      "categories": [
+        "heminredning",
+        "kontorsinredning"
+      ],
+      "web": "https://borett.se/"
+    },
+    {
       "entry": 1236383434,
       "orgNumber": "802426-1250",
       "orgName": "Sverige f\u00f6r UNHCR",
@@ -39352,6 +39403,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://husby-rekarne.scout.se/"
+    },
+    {
+      "entry": 1236459515,
+      "orgNumber": "802515-9685",
+      "orgName": "Projekt R\u00e5gsved",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.projektragsved.com/"
     },
     {
       "entry": 1236460729,
