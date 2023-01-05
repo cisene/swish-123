@@ -1,5 +1,283 @@
 entries:
 
+- entry: 1236021935
+  orgName: Svenska HPN-föreningen
+  orgNumber: 889601-1569
+  comment:
+  categories:
+  - patientförening
+  web: https://hpn.se/
+
+- entry: 1234271276
+  orgName: Halmstads Roddklubb
+  orgNumber: 849201-5295
+  comment:
+  categories:
+  - roddklubb
+  - idrottsförening
+  web: https://halmstadrodd.nu/
+
+- entry: 1232314250
+  orgName: Katrineholms Ryttarförening
+  orgNumber: 818500-9639
+  comment: Kusen
+  categories:
+  - ryttarförening
+  - hästsport
+  web: https://www.katrineholmsrf.se/
+
+- entry: 1233248820
+  orgName: Musikvalvet Baggen - A-C Sång & Konsert / Ann-Christin Edblad
+  orgNumber: 550203-XXXX
+  comment:
+  categories:
+  - konsert
+  - restaurant
+  web: http://musikvalvet.se/
+
+- entry: 1236279566
+  orgName: Skogsluffarnas OK
+  orgNumber: 802006-3106
+  comment:
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.skogsluffarna.se/
+
+- entry: 1231897362
+  orgName: Kristet Center Örebro
+  orgNumber: 875000-6481
+  comment:
+  categories:
+  - religion
+  web: https://kristetcenter.se/
+
+- entry: 1231662493
+  orgName: Swedish Executive Jazz Society, SWEJS
+  orgNumber: 802525-5277
+  comment:
+  categories:
+  - musikförening
+  - kulturförening
+  web: http://www.swejs.se/
+
+- entry: 1236394860
+  orgName: Borbygdens SMU
+  orgNumber: 828000-7454
+  comment:
+  categories:
+  - religion
+  web: https://missionskyrkanibor.se/
+
+- entry: 1231463074
+  orgName: Borbygdens Missionsförsamling
+  orgNumber: 828000-0046
+  comment:
+  categories:
+  - religion
+  web: https://missionskyrkanibor.se/
+
+- entry: 1235047790
+  orgName: Friluftsfrämjandet Björnlunda-Gnestas Långfärdsskridskogrupp
+  orgNumber: 802513-0496
+  comment:
+  categories:
+  - långfärdsskridsko
+  - friluftsliv
+  web: https://ffbg.skridsko.net/
+
+- entry: 1236905004
+  orgName: Vardagsrummet i Örnsköldsvik
+  orgNumber: 802506-8514
+  comment:
+  categories:
+  - religion
+  web: https://vardagsrummet.org/
+
+- entry: 1235729439
+  orgName: BFF Strays
+  orgNumber: 802503-8251
+  comment:
+  categories:
+  - hundhem
+  - djurskydd
+  web: https://bffstrays.se/
+
+
+- entry: 1230222166
+  orgName: Stall Krabbängen / Amanda Staam
+  orgNumber: 901020-XXXX
+  comment:
+  categories:
+  - hästsport
+  web: https://www.staam.com/
+
+- entry: 1235672431
+  orgName: Historier från Hälsingland
+  orgNumber: 769636-8773
+  comment:
+  categories:
+  - podcast
+  - historia
+  - historieförening
+  web: https://www.historierfranhalsingland.se/
+
+- entry: 1235543806
+  orgName: Your Wise Soul by Camilla / Camilla Nilsson
+  orgNumber: 720222-XXXX
+  comment:
+  categories:
+  - medium
+  - healing
+  - aurateckning
+  - meditation
+  - massage
+  web: https://www.yourwisesoul.com/
+
+- entry: 1231705516
+  orgName: Berts Värld, Bert Karlsson / Jokarjo AB
+  orgNumber: 556064-4501
+  comment:
+  categories:
+  - omvärldsbevakning
+  - underhållning
+  web: https://bertsvarld.se/
+
+- entry: 1230554808
+  orgName: Ljusne Sportfiskeklubb
+  orgNumber: 886000-5100
+  comment:
+  categories:
+  - sportfiske
+  - fiskevård
+  - vattenvård
+  web: http://www.ljusnesportfiskeklubb.com/
+
+- entry: 1230753392
+  orgName: SeniorNet Botkyrka
+  orgNumber: 802410-9939
+  comment:
+  categories:
+  - pensionärsklubb
+  web: https://sites.google.com/site/botkyrkasnb/
+
+- entry: 1233291200
+  orgName: Björn Bernström AB
+  orgNumber: 556905-3688
+  comment:
+  categories:
+  - konst
+  - konstnär
+  web: https://bjornbernstrom.com/
+
+- entry: 1235704341
+  orgName: Antes Knivsliperi AB
+  orgNumber: 556204-6853
+  comment:
+  categories:
+  - knivslipning
+  - 
+  web: https://antesknivsliperi.se/
+
+- entry: 1235752738
+  orgName: Östergötland i Bilder / Mattias Brauns
+  orgNumber: 760905-XXXX
+  comment:
+  categories:
+  - fotograf
+  web: https://www.ostergotlandibilder.com/
+
+- entry: 1231538255
+  orgName: Asia Restaurang Arlöv / Kim Tuán Anh Nguyén
+  orgNumber: 820120-XXXX
+  comment:
+  categories:
+  - restaurant
+  web: https://asiarestaurangarlov.com/
+
+- entry: 1231275239
+  orgName: Zemasmycken / George Bchara
+  orgNumber: 950101-XXXX
+  comment:
+  categories:
+  - försäljning
+  - smycken
+  web: https://www.zemasmycken.com/
+
+- entry: 1231539477
+  orgName: Norrorts Motorbolag AB
+  orgNumber: 559311-2559
+  comment:
+  categories:
+  - försäljning
+  - begagnade fordon
+  web: https://www.motorbolaget.nu/
+
+- entry: 1233629292
+  orgName: Redhawks Support
+  orgNumber: 802433-4115
+  comment: TIFO
+  categories:
+  - supporterklubb
+  web: http://www.rs96.se/
+
+- entry: 1231813534
+  orgName: Redhawks Support
+  orgNumber: 802433-4115
+  comment:
+  categories:
+  - supporterklubb
+  web: http://www.rs96.se/
+
+- entry: 1232025518
+  orgName: Plogga Sverige AB
+  orgNumber: 559170-8549
+  comment:
+  categories:
+  - intresseförening
+  - friskvård
+  - friluftsliv
+  - löpning
+  web: https://www.plogga.se/
+
+- entry: 1232280949
+  orgName: TV16
+  orgNumber: 802469-3593
+  comment:
+  categories:
+  - religion
+  - lokaltelevision
+  - streamingtjänst
+  web: https://tv16.org/
+
+
+- entry: 1236695241
+  orgName: Agapes Vänner i Uddevalla, Munkedal, Tanum
+  orgNumber: 802512-6478
+  comment:
+  categories:
+  - hjälporganisation
+  web: https://agapesvanner.com/
+
+- entry: 1232360998
+  orgName: Scrapdraken
+  orgNumber: 969753-7596
+  comment:
+  categories:
+  - pyssel
+  web: https://scrapdraken.se/
+
+- entry: 1234055505
+  orgName: Audiorama
+  orgNumber: 769636-5464
+  comment:
+  categories:
+  - intresseförening
+  - ljudkonst
+  - utbildning
+  - konsert
+  web: https://www.audiorama.se/
+
 - entry: 1230003194
   orgName: Kungälv Kode Golfklubb
   orgNumber: 556323-9663
@@ -3973,7 +4251,7 @@ entries:
   web: https://www.standardbolag.se/
 
 - entry: 1230833350
-  orgName: Föreningen för sverigevänliga intressen, SamNytt
+  orgName: Föreningen för Sverigevänliga intressen, SamNytt
   orgNumber: 802474-0410
   comment: null
   categories:
