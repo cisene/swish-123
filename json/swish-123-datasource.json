@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-01-05-rev-102838",
+    "date": "2023-01-05-rev-104000",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2858,8 +2858,8 @@
       "orgNumber": "886000-5100",
       "orgName": "Ljusne Sportfiskeklubb",
       "categories": [
-        "sportfiske",
         "fiskev\u00e5rd",
+        "sportfiske",
         "vattenv\u00e5rd"
       ],
       "web": "http://www.ljusnesportfiskeklubb.com/"
@@ -8617,8 +8617,8 @@
       "orgNumber": "559311-2559",
       "orgName": "Norrorts Motorbolag AB",
       "categories": [
-        "f\u00f6rs\u00e4ljning",
-        "begagnade fordon"
+        "begagnade fordon",
+        "f\u00f6rs\u00e4ljning"
       ],
       "web": "https://www.motorbolaget.nu/"
     },
@@ -9393,8 +9393,8 @@
       "orgNumber": "802525-5277",
       "orgName": "Swedish Executive Jazz Society, SWEJS",
       "categories": [
-        "musikf\u00f6rening",
-        "kulturf\u00f6rening"
+        "kulturf\u00f6rening",
+        "musikf\u00f6rening"
       ],
       "web": "http://www.swejs.se/"
     },
@@ -11595,9 +11595,9 @@
       "orgNumber": "559170-8549",
       "orgName": "Plogga Sverige AB",
       "categories": [
-        "intressef\u00f6rening",
-        "friskv\u00e5rd",
         "friluftsliv",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening",
         "l\u00f6pning"
       ],
       "web": "https://www.plogga.se/"
@@ -13552,8 +13552,8 @@
       "orgNumber": "802469-3593",
       "orgName": "TV16",
       "categories": [
-        "religion",
         "lokaltelevision",
+        "religion",
         "streamingtj\u00e4nst"
       ],
       "web": "https://tv16.org/"
@@ -13872,8 +13872,8 @@
       "orgName": "Katrineholms Ryttarf\u00f6rening",
       "comment": "Kusen",
       "categories": [
-        "ryttarf\u00f6rening",
-        "h\u00e4stsport"
+        "h\u00e4stsport",
+        "ryttarf\u00f6rening"
       ],
       "web": "https://www.katrineholmsrf.se/"
     },
@@ -24766,9 +24766,9 @@
       "orgName": "Audiorama",
       "categories": [
         "intressef\u00f6rening",
+        "konsert",
         "ljudkonst",
-        "utbildning",
-        "konsert"
+        "utbildning"
       ],
       "web": "https://www.audiorama.se/"
     },
@@ -25872,8 +25872,8 @@
       "orgNumber": "849201-5295",
       "orgName": "Halmstads Roddklubb",
       "categories": [
-        "roddklubb",
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "roddklubb"
       ],
       "web": "https://halmstadrodd.nu/"
     },
@@ -30352,8 +30352,8 @@
       "orgNumber": "802513-0496",
       "orgName": "Friluftsfr\u00e4mjandet Bj\u00f6rnlunda-Gnestas L\u00e5ngf\u00e4rdsskridskogrupp",
       "categories": [
-        "l\u00e5ngf\u00e4rdsskridsko",
-        "friluftsliv"
+        "friluftsliv",
+        "l\u00e5ngf\u00e4rdsskridsko"
       ],
       "web": "https://ffbg.skridsko.net/"
     },
@@ -33882,11 +33882,11 @@
       "orgNumber": "720222-XXXX",
       "orgName": "Your Wise Soul by Camilla / Camilla Nilsson",
       "categories": [
-        "medium",
-        "healing",
         "aurateckning",
+        "healing",
+        "massage",
         "meditation",
-        "massage"
+        "medium"
       ],
       "web": "https://www.yourwisesoul.com/"
     },
@@ -34723,9 +34723,9 @@
       "orgNumber": "769636-8773",
       "orgName": "Historier fr\u00e5n H\u00e4lsingland",
       "categories": [
-        "podcast",
         "historia",
-        "historief\u00f6rening"
+        "historief\u00f6rening",
+        "podcast"
       ],
       "web": "https://www.historierfranhalsingland.se/"
     },
@@ -35024,8 +35024,7 @@
       "orgNumber": "556204-6853",
       "orgName": "Antes Knivsliperi AB",
       "categories": [
-        "knivslipning",
-        "None"
+        "knivslipning"
       ],
       "web": "https://antesknivsliperi.se/"
     },
@@ -35157,8 +35156,8 @@
       "orgNumber": "802503-8251",
       "orgName": "BFF Strays",
       "categories": [
-        "hundhem",
-        "djurskydd"
+        "djurskydd",
+        "hundhem"
       ],
       "web": "https://bffstrays.se/"
     },
