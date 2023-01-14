@@ -2,7 +2,7 @@
 
 *(This concerns Swedes and people living in Sweden, hence written in Swedish)*
 
-Detta är ett försök att skapa en datakälla med alla kända och okända Swish 123-nummer, enligt Swish använder runt [250000](https://www.swish.nu/about-swish#Swish_in_numbers) företag/organisationer Swish-platformen för betalningar. Det vore därför trevligt att kunna bygga API eller bara kunna kolla vem/vilka som har ett Swish 123-nummer.
+Detta är ett försök att skapa en datakälla med alla kända och okända Swish 123-nummer, enligt Swish använder [319412](https://www.swish.nu/about-swish#Swish_in_numbers) företag/organisationer Swish-platformen för betalningar. Det vore därför trevligt att kunna bygga API eller bara kunna kolla vem/vilka som har ett Swish 123-nummer.
 
 Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
