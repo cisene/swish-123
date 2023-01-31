@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-01-21-rev-155717",
+    "date": "2023-01-31-rev-191023",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2345,6 +2345,15 @@
         "utbildning"
       ],
       "web": "http://www.zerillas.se/"
+    },
+    {
+      "entry": 1230441865,
+      "orgNumber": "802493-9863",
+      "orgName": "Aktiva Seniorer Visby",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://aktivseniorgotland.webber.se/"
     },
     {
       "entry": 1230442046,
@@ -6592,6 +6601,17 @@
       "web": "https://www.zignsec.com/"
     },
     {
+      "entry": 1231184373,
+      "orgNumber": "802016-2460",
+      "orgName": "Kanotklubben Str\u00f6mstararna",
+      "categories": [
+        "f\u00f6rening",
+        "idrottsf\u00f6rening",
+        "kanotklubb"
+      ],
+      "web": "http://www.kkss.se/"
+    },
+    {
       "entry": 1231185495,
       "orgNumber": "802531-1666",
       "orgName": "Bl\u00e5gula Korset",
@@ -9477,6 +9497,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://www.envikenshembygdsforening.se/"
+    },
+    {
+      "entry": 1231658038,
+      "orgNumber": "802506-0123",
+      "orgName": "Svenska Brottningsdomarf\u00f6rbundet",
+      "categories": [
+        "brottning",
+        "f\u00f6rbund",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.domare.org/"
     },
     {
       "entry": 1231658822,
@@ -12424,6 +12455,17 @@
         "patientf\u00f6rening"
       ],
       "web": "https://blodsjukdom.se/"
+    },
+    {
+      "entry": 1232133437,
+      "orgNumber": "802465-8455",
+      "orgName": "Bifrostf\u00f6reningen 34 Linneus V\u00e4xj\u00f6",
+      "categories": [
+        "f\u00f6rening",
+        "orden",
+        "ordens\u00e4llskap"
+      ],
+      "web": "https://www.linneus.org/"
     },
     {
       "entry": 1232134831,
@@ -15839,6 +15881,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://knivsta.scout.se/"
+    },
+    {
+      "entry": 1232637387,
+      "orgNumber": "700202-XXXX",
+      "orgName": "Cannstaff / Cilla Cannerheim",
+      "categories": [
+        "hundkurser",
+        "utbildning"
+      ],
+      "web": "https://www.cannstaff.se/"
     },
     {
       "entry": 1232638278,
@@ -20291,6 +20343,15 @@
       "web": "https://www.norrbyif.se/"
     },
     {
+      "entry": 1233292935,
+      "orgNumber": "802501-3619",
+      "orgName": "Katalysator Sverige",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.katalysator.net/"
+    },
+    {
       "entry": 1233293255,
       "orgNumber": "556898-9254",
       "orgName": "Sverige Runt AB",
@@ -21181,6 +21242,16 @@
       "web": "https://hyrtec.com/"
     },
     {
+      "entry": 1233431491,
+      "orgNumber": "802409-8827",
+      "orgName": "Stiftelsen Kurdiska Biblioteket",
+      "categories": [
+        "bibliotek",
+        "stiftelse"
+      ],
+      "web": "http://kurdlib.org/"
+    },
+    {
       "entry": 1233440518,
       "orgNumber": "802406-2153",
       "orgName": "Narva BK",
@@ -21685,6 +21756,15 @@
       "web": "https://www.msfk.nu/"
     },
     {
+      "entry": 1233508769,
+      "orgNumber": "810405-XXXX",
+      "orgName": "Ullaredsresor - Gothenburg Office / H\u00e5kan Kindstr\u00f6m Arnoldson",
+      "categories": [
+        "researrang\u00f6r"
+      ],
+      "web": "https://ullaredsresor.com/"
+    },
+    {
       "entry": 1233508876,
       "orgNumber": "802449-9033",
       "orgName": "J\u00c4RF\u00c4LLA CK",
@@ -22109,6 +22189,16 @@
       "web": "https://www.ifkanderstorp.com/"
     },
     {
+      "entry": 1233555497,
+      "orgNumber": "853300-0678",
+      "orgName": "KMS Nord\u00f6n - Kung\u00e4lvs Motor- och Segelb\u00e5tss\u00e4llskap",
+      "categories": [
+        "motorb\u00e5tsklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "http://kmsnordon.se/"
+    },
+    {
       "entry": 1233556248,
       "orgNumber": "838800-7554",
       "orgName": "F\u00f6reningen Partrederiet Klara Marie",
@@ -22468,6 +22558,16 @@
         "sport"
       ],
       "web": "https://sverigerunt.org/"
+    },
+    {
+      "entry": 1233610813,
+      "orgNumber": "814800-5831",
+      "orgName": "V\u00e4sby Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.vasbybrukshundklubb.se/"
     },
     {
       "entry": 1233610987,
@@ -24387,6 +24487,16 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.helloworld.se/"
+    },
+    {
+      "entry": 1233956406,
+      "orgNumber": "802439-9605",
+      "orgName": "Islandsh\u00e4stf\u00f6reningen Oddur",
+      "categories": [
+        "h\u00e4stsport",
+        "islandsh\u00e4st"
+      ],
+      "web": "https://www.oddur.se/"
     },
     {
       "entry": 1233956570,
@@ -29258,6 +29368,15 @@
       "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-varmdo/foreningar/gustavsberg-ingaro.html"
     },
     {
+      "entry": 1234790010,
+      "orgNumber": "802467-8438",
+      "orgName": "Urbergsgruppen Klintehamn",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.urbergsgruppen.se/"
+    },
+    {
       "entry": 1234795613,
       "orgNumber": "875003-0846",
       "orgName": "Intacts V\u00e4nner",
@@ -31112,6 +31231,15 @@
       "web": "https://www.hkkalmar.se/"
     },
     {
+      "entry": 1235111331,
+      "orgNumber": "883202-5889",
+      "orgName": "Bjurs\u00e5s Sn\u00f6skoterklubb",
+      "categories": [
+        "skoterklubb"
+      ],
+      "web": "https://www.bjursassnoskoterklubb.se/"
+    },
+    {
       "entry": 1235111349,
       "orgNumber": "863500-0956",
       "orgName": "Equmeniakyrkan Gr\u00e5bo",
@@ -32005,6 +32133,16 @@
         "religion"
       ],
       "web": "https://orebro.pingst.se/"
+    },
+    {
+      "entry": 1235215520,
+      "orgNumber": "556933-7750",
+      "orgName": "RenOptik AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "optik"
+      ],
+      "web": "https://www.renoptik.se/"
     },
     {
       "entry": 1235217690,
@@ -34446,6 +34584,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://www.langasjo-hembygdsforening.se/"
+    },
+    {
+      "entry": 1235564901,
+      "orgNumber": "700202-XXXX",
+      "orgName": "Cannstaff / Cilla Cannerheim",
+      "categories": [
+        "hundkurser",
+        "utbildning"
+      ],
+      "web": "https://www.cannstaff.se/"
     },
     {
       "entry": 1235570015,
