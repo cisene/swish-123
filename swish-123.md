@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-01-31-rev-191023
+Date:     2023-02-02-rev-005045
 ...
 
 # Swish 123 Nummer
@@ -548,6 +548,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230961656 | 252000-8083 | Visby Domkyrkoförsamling                                                                             | [Link](https://www.svenskakyrkan.se/visby) |
 | 1230970475 | 829502-6853 | Djurens Vänner Växjö                                                                                 | [Link](https://www.djurensvanner.se/vaxjo) |
 | 1230973818 | 882600-0989 | IK Brage                                                                                             | [Link](https://ikbrage.se/) |
+| 1230974873 | 556859-8048 | Seven Star AB                                                                                        | [Link](https://7star.se/) |
 | 1230982710 | 802461-1926 | Aspeboda Foundation For Children                                                                     | [Link](https://www.affc.se/) |
 | 1230987982 | 845001-7788 | Kvinnojouren Lund                                                                                    | [Link](https://kvinnojourenlund.se/) |
 | 1230988303 | 862501-3324 | Sundals Ryrs Byalag                                                                                  | [Link](http://sundalsryr.se/) |
@@ -1062,6 +1063,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231780501 | 857500-7698 | Stiftelsen Ronald McDonald Barnfond Göteborg                                                         | [Link](https://goteborg.ronaldmcdonaldhus.se/) |
 | 1231782531 | 802482-0808 | Insamlingsstiftelsen Naturstiftelsen                                                                 | [Link](https://www.naturstiftelsen.se/) |
 | 1231790906 | 828000-8445 | Åsenhöga Hembygdsförening                                                                            | [Link](https://www.asenhogahembygd.se/) |
+| 1231791029 | 802445-0705 | Svenska Bullterrierklubben                                                                           | [Link](https://www.svbtk.com/) |
 | 1231791763 | 819000-9640 | Nyköpings OK - Orientering                                                                           | [Link](https://www.nykopingsok.se/) |
 | 1231792159 | 802430-4514 | Piratpartiet                                                                                         | [Link](https://piratpartiet.se/) |
 | 1231792498 | 878500-6258 | Köpings Brukshundklubb                                                                               | [Link](http://kopingsbrukshundklubb.se/) |
@@ -1553,6 +1555,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232561371 | 802420-0043 | Upplands Väsby Pistolskytteklubb                                                                     | [Link](http://www.uvpsk.se/) |
 | 1232561785 | 802535-5549 | Föreningen Children with love                                                                        | [Link](https://childrenwithlove.com/) |
 | 1232566313 | 559207-8553 | Villa Sunshine AB                                                                                    | [Link](https://www.villasunshine.nu/) |
+| 1232570687 | 916595-4869 | Nymans Trafikskola HB                                                                                | [Link](https://www.nymanstrafikskola.se/) |
 | 1232570844 | 802480-9470 | Insamlingsstiftelsen DOKU                                                                            | [Link](https://doku.nu/) |
 | 1232576189 | 559279-6493 | Fjällbacka Båt och Bil AB                                                                            | [Link](https://fjallbackabatochbil.se/) |
 | 1232578755 | 802532-9916 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
@@ -1870,6 +1873,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233030574 | 670415-2971 | Asonjakt.se / Håkan Andersson                                                                        | [Link](https://asonjakt.se/) |
 | 1233031168 | 802428-4088 | Föreningen M 20                                                                                      | [Link](https://minsveparen.se/) |
 | 1233031697 | 867200-7609 | Ryfors Golfklubb                                                                                     | [Link](https://www.ryforsgk.se/) |
+| 1233031705 | 802472-8910 | World Children Need                                                                                  | [Link](https://worldchildrenneed.org/) |
 | 1233031887 | 828000-0467 | Pingst Vaggeryd                                                                                      | [Link](https://pingstvaggeryd.se/) |
 | 1233033289 | 853300-4928 | Stora Höga RK                                                                                        | [Link](https://www.storahogaridklubb.se/) |
 | 1233033495 | 873600-1721 | Kristinehamns Gymnastiksällskap                                                                      | [Link](https://www.kgsgympa.se/) |
@@ -1979,6 +1983,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233198405 | 802411-5654 | Republikanska Föreningen                                                                             | [Link](https://www.republikanskaforeningen.se/) |
 | 1233199114 | 802477-0987 | Shelterbox Sverige                                                                                   | [Link](https://www.shelterboxsweden.org/) |
 | 1233199254 | 802006-1688 | Frälsningsarmén                                                                                      | [Link](https://www.fralsningsarmen.se/Vasteras/) |
+| 1233199924 | 898800-3953 | Bredsels Bygdegårdsförening                                                                          | [Link](http://www.bredsel.se/) |
 | 1233200250 | 982000-2260 | Lions Club Hedemora                                                                                  | [Link](http://fsl.kund.dalnet.se/lionsweb.htm) |
 | 1233200276 | 252010-0021 | Vårdnäs Stiftsgård / Linköpings Stift                                                                | [Link](https://vardnas.se/) |
 | 1233200714 | 802405-7815 | SOS Barnbyar                                                                                         | [Link](https://sos-barnbyar.se/) |
@@ -2778,6 +2783,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234482675 | 893201-4742 | Jämtland/Härjedalens Taxklubb                                                                        | [Link](https://www.jhtk.se/) |
 | 1234486734 | 979500-4655 | Nora - Tärnsjö Hembygdsförening                                                                      | [Link](https://nora-tärnsjöhembygdsförening.se/) |
 | 1234489324 | 802457-5915 | Marknadsföreningen i Halland MiH                                                                     | [Link](https://mih.nu/) |
+| 1234490421 | 772000-0483 | Åmotfors Folketshus                                                                                  | [Link](https://www.fhamotfors.se/) |
 | 1234490710 | 893200-4388 | Östersunds Fallskärmsklubb                                                                           | [Link](https://www.ofsk.net/) |
 | 1234491270 | 802449-0594 | Rågsveds IF                                                                                          | [Link](https://www.rågsvedsif.se/) |
 | 1234491437 | 826001-4298 | Jönköpings Karting Club, JKC                                                                         | [Link](https://www.jkckarting.se/) |
@@ -2841,6 +2847,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234560835 | 802532-7506 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
 | 1234563151 | 829502-2530 | Södra Sandsjö Hembygdsförening                                                                       | [Link](https://sodrasandsjohf.se/) |
 | 1234563235 | 556308-5140 | Johannas Golfshop Aktiebolag                                                                         | [Link](https://www.mollegk.se/) |
+| 1234567343 | 817607-1721 | Föreningen Knutby Folketspark                                                                        | [Link](https://www.knutbyfolketspark.com/) |
 | 1234567848 | 846002-1101 | Lions Club Lomma                                                                                     | [Link](https://lomma.lions.se/) |
 | 1234569091 | 802401-4576 | Specialklubben Rhodesian Ridgeback Sverige, SRRS                                                     | [Link](https://www.srrs.org/) |
 | 1234572525 | 875001-1176 | Fjugesta Motorsällskap                                                                               | [Link](http://www.fjugestams.com/) |
@@ -3767,6 +3774,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236011654 | 802006-1688 | Frälsningsarmén                                                                                      | [Link](https://www.fralsningsarmen.se/Trollhattan/) |
 | 1236013072 | 826000-2285 | Jönköpings Fältrittklubb                                                                             | [Link](https://www.jonkopingsfaltrittklubb.se/) |
 | 1236013452 | 818500-8268 | Vingåkers RF                                                                                         | [Link](http://www.vingakersrf.se/) |
+| 1236013569 | 826500-5044 | Kristen Samverkan Småland-Blekinge                                                                   | [Link](https://kssb.se/) |
 | 1236013775 | 837001-3362 | Etiopienhjälpen                                                                                      | [Link](https://www.etiopienhjalpen.se/) |
 | 1236013965 | 802489-3680 | Contribution To Opportunities                                                                        | [Link](https://cto.world/) |
 | 1236014336 | 802516-1640 | Širi Dobro - Sverige                                                                                 | [Link](https://www.facebook.com/bosnanastreba) |

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-01-31-rev-191023",
+    "date": "2023-02-02-rev-005045",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5369,6 +5369,15 @@
       "web": "https://ikbrage.se/"
     },
     {
+      "entry": 1230974873,
+      "orgNumber": "556859-8048",
+      "orgName": "Seven Star AB",
+      "categories": [
+        "webhosting"
+      ],
+      "web": "https://7star.se/"
+    },
+    {
       "entry": 1230982710,
       "orgNumber": "802461-1926",
       "orgName": "Aspeboda Foundation For Children",
@@ -9485,7 +9494,8 @@
       "orgNumber": "802520-1966",
       "orgName": "SK4KO - Siljanbygdens S\u00e4ndareamat\u00f6rer - 7S4VL",
       "categories": [
-        "radioklubb"
+        "radioklubb",
+        "s\u00e4ndareamat\u00f6rer"
       ],
       "web": "https://www.sk4ko.com/"
     },
@@ -10448,6 +10458,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.asenhogahembygd.se/"
+    },
+    {
+      "entry": 1231791029,
+      "orgNumber": "802445-0705",
+      "orgName": "Svenska Bullterrierklubben",
+      "categories": [
+        "hundklubb",
+        "hunduppf\u00f6dning"
+      ],
+      "web": "https://www.svbtk.com/"
     },
     {
       "entry": 1231791763,
@@ -15393,6 +15413,16 @@
       "web": "https://www.villasunshine.nu/"
     },
     {
+      "entry": 1232570687,
+      "orgNumber": "916595-4869",
+      "orgName": "Nymans Trafikskola HB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://www.nymanstrafikskola.se/"
+    },
+    {
       "entry": 1232570844,
       "orgNumber": "802480-9470",
       "orgName": "Insamlingsstiftelsen DOKU",
@@ -18556,6 +18586,15 @@
       "web": "https://www.ryforsgk.se/"
     },
     {
+      "entry": 1233031705,
+      "orgNumber": "802472-8910",
+      "orgName": "World Children Need",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://worldchildrenneed.org/"
+    },
+    {
       "entry": 1233031887,
       "orgNumber": "828000-0467",
       "orgName": "Pingst Vaggeryd",
@@ -19618,6 +19657,16 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Vasteras/"
+    },
+    {
+      "entry": 1233199924,
+      "orgNumber": "898800-3953",
+      "orgName": "Bredsels Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.bredsel.se/"
     },
     {
       "entry": 1233200250,
@@ -27574,6 +27623,15 @@
       "web": "https://mih.nu/"
     },
     {
+      "entry": 1234490421,
+      "orgNumber": "772000-0483",
+      "orgName": "\u00c5motfors Folketshus",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.fhamotfors.se/"
+    },
+    {
       "entry": 1234490710,
       "orgNumber": "893200-4388",
       "orgName": "\u00d6stersunds Fallsk\u00e4rmsklubb",
@@ -28222,6 +28280,15 @@
         "golfutrustning"
       ],
       "web": "https://www.mollegk.se/"
+    },
+    {
+      "entry": 1234567343,
+      "orgNumber": "817607-1721",
+      "orgName": "F\u00f6reningen Knutby Folketspark",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.knutbyfolketspark.com/"
     },
     {
       "entry": 1234567848,
@@ -37476,6 +37543,15 @@
         "ryttarf\u00f6rening"
       ],
       "web": "http://www.vingakersrf.se/"
+    },
+    {
+      "entry": 1236013569,
+      "orgNumber": "826500-5044",
+      "orgName": "Kristen Samverkan Sm\u00e5land-Blekinge",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://kssb.se/"
     },
     {
       "entry": 1236013775,
