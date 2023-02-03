@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-02-02-rev-005045",
+    "date": "2023-02-04-rev-000536",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -328,6 +328,16 @@
         "politiskt parti"
       ],
       "web": "https://sd.se/"
+    },
+    {
+      "entry": 1230073627,
+      "orgNumber": "802511-5497",
+      "orgName": "Alings\u00e5s Fotoklubb",
+      "comment": "Fika",
+      "categories": [
+        "fotoklubb"
+      ],
+      "web": "https://www.alingsasfotoklubb.se/"
     },
     {
       "entry": 1230073924,
@@ -1107,6 +1117,16 @@
         "cafe"
       ],
       "web": "https://www.cafecuvee.se/"
+    },
+    {
+      "entry": 1230230078,
+      "orgNumber": "802479-9994",
+      "orgName": "Insamlingsstiftelsen Wildhood Foundation",
+      "categories": [
+        "intressef\u00f6rening",
+        "stiftelse"
+      ],
+      "web": "https://www.wildhood.org/"
     },
     {
       "entry": 1230230300,
@@ -2115,6 +2135,15 @@
       "web": "https://www.bjellefors.se/"
     },
     {
+      "entry": 1230395657,
+      "orgNumber": "835600-7479",
+      "orgName": "Naturskyddsf\u00f6reningen i Blekinge",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://blekinge.naturskyddsforeningen.se/"
+    },
+    {
       "entry": 1230396150,
       "orgNumber": "556412-9053",
       "orgName": "Veckans Valfl\u00e4sk / Aktiebolaget Zenskr\u00e4ck",
@@ -3001,6 +3030,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/karlstadspastorat"
+    },
+    {
+      "entry": 1230574582,
+      "orgNumber": "769605-4852",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Torpet",
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.torpet.ac/"
     },
     {
       "entry": 1230576884,
@@ -4010,6 +4048,15 @@
       "web": "https://www.sportfiskebolaget.se/"
     },
     {
+      "entry": 1230752303,
+      "orgNumber": "252002-8685",
+      "orgName": "S:t Nikolai Katolska F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.sanktnikolai.se/"
+    },
+    {
       "entry": 1230752436,
       "orgNumber": "845000-6617",
       "orgName": "Lundabygdens D\u00f6vas F\u00f6rening",
@@ -4365,6 +4412,15 @@
         "trafikskola"
       ],
       "web": "http://autoklartrafikskola.se/"
+    },
+    {
+      "entry": 1230801936,
+      "orgNumber": "802422-9620",
+      "orgName": "Johanniterhj\u00e4lpen",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://johanniterhjalpen.se/"
     },
     {
       "entry": 1230802835,
@@ -7875,6 +7931,16 @@
       "web": "https://www.operationaid.org/sv"
     },
     {
+      "entry": 1231394949,
+      "orgNumber": "559186-7675",
+      "orgName": "K\u00f6pings Nya Trafikskola AB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://kopingsnya.se/"
+    },
+    {
       "entry": 1231402551,
       "orgNumber": "862501-2300",
       "orgName": "Aktiva Seniorer i Alings\u00e5s",
@@ -8204,6 +8270,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/loharads-forsamling"
+    },
+    {
+      "entry": 1231470426,
+      "orgNumber": "857200-8145",
+      "orgName": "Equmenia Johanneberg",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://johannebergsequmeniakyrka.se/"
     },
     {
       "entry": 1231470533,
@@ -10520,6 +10595,15 @@
       "web": "https://gastabud.se/"
     },
     {
+      "entry": 1231804970,
+      "orgNumber": "894003-5556",
+      "orgName": "Tango Norte\u00f1o",
+      "categories": [
+        "dansf\u00f6rening"
+      ],
+      "web": "https://www.tangonorteno.se/"
+    },
+    {
       "entry": 1231807379,
       "orgNumber": "332407-6342",
       "orgName": "Bifrostorden Logen 28 Gondler",
@@ -10712,6 +10796,16 @@
         "religion"
       ],
       "web": "https://kyrkligsamling.se/"
+    },
+    {
+      "entry": 1231819135,
+      "orgNumber": "802511-5497",
+      "orgName": "Alings\u00e5s Fotoklubb",
+      "comment": "Material",
+      "categories": [
+        "fotoklubb"
+      ],
+      "web": "https://www.alingsasfotoklubb.se/"
     },
     {
       "entry": 1231822899,
@@ -15243,6 +15337,13 @@
       "web": "https://www.orbyhusgolf.se/"
     },
     {
+      "entry": 1232535912,
+      "orgNumber": "802458-3240",
+      "orgName": "Animals H.O.P.E.",
+      "comment": "F\u00e5gelcentralen",
+      "web": "https://fagelcentralen.se/"
+    },
+    {
       "entry": 1232536811,
       "orgNumber": "864501-6620",
       "orgName": "Knallens Karateklubb",
@@ -16195,6 +16296,16 @@
       "web": "https://gurgin.libsyn.com/"
     },
     {
+      "entry": 1232678258,
+      "orgNumber": "802511-5497",
+      "orgName": "Alings\u00e5s Fotoklubb",
+      "comment": "Medlemsavgift",
+      "categories": [
+        "fotoklubb"
+      ],
+      "web": "https://www.alingsasfotoklubb.se/"
+    },
+    {
       "entry": 1232681773,
       "orgNumber": "866600-0065",
       "orgName": "Bergs Bygdeg\u00e5rd",
@@ -17063,6 +17174,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://vastrumhembygd.se/"
+    },
+    {
+      "entry": 1232770915,
+      "orgNumber": "897900-5140",
+      "orgName": "Nattavaara Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.nattavaara.net/"
     },
     {
       "entry": 1232771665,
@@ -19727,6 +19847,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "http://shoe4africa.se/"
+    },
+    {
+      "entry": 1233205507,
+      "orgNumber": "802511-5497",
+      "orgName": "Alings\u00e5s Fotoklubb",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "fotoklubb"
+      ],
+      "web": "https://www.alingsasfotoklubb.se/"
     },
     {
       "entry": 1233206489,
@@ -26664,6 +26794,15 @@
       "web": "https://swebbtube.se/"
     },
     {
+      "entry": 1234311890,
+      "orgNumber": "802422-9620",
+      "orgName": "Johanniterhj\u00e4lpen Ukraina",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://johanniterhjalpen.se/"
+    },
+    {
       "entry": 1234313441,
       "orgNumber": "802423-0776",
       "orgName": "Eds Brukshundklubb",
@@ -30593,6 +30732,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235000492,
+      "orgNumber": "916842-8952",
+      "orgName": "D\u00e4ckcenter Stora H\u00f6ga",
+      "categories": [
+        "d\u00e4ckverkstad"
+      ],
+      "web": "https://www.dackcenterstorahoga.se/"
+    },
+    {
       "entry": 1235009410,
       "orgNumber": "556440-0827",
       "orgName": "Top of Skellefte\u00e5 / Midsommarviken AB",
@@ -32621,6 +32769,15 @@
         "gymnastikf\u00f6rening"
       ],
       "web": "https://www.lulegymnasterna.com/"
+    },
+    {
+      "entry": 1235279682,
+      "orgNumber": "883800-0035",
+      "orgName": "Korskyrkan i Ludvika",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.korskyrkanludvika.se/"
     },
     {
       "entry": 1235282132,
@@ -36876,6 +37033,15 @@
         "lionsklubb"
       ],
       "web": "https://lionsulricehamn.se/"
+    },
+    {
+      "entry": 1235897350,
+      "orgNumber": "857200-8145",
+      "orgName": "Johannebergs Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://johannebergsequmeniakyrka.se/"
     },
     {
       "entry": 1235900691,
@@ -42288,6 +42454,16 @@
         "byalag"
       ],
       "web": "https://www.matterodsbyalag.se/"
+    },
+    {
+      "entry": 1236783104,
+      "orgNumber": "802511-5497",
+      "orgName": "Alings\u00e5s Fotoklubb",
+      "comment": "T\u00e4vlingar",
+      "categories": [
+        "fotoklubb"
+      ],
+      "web": "https://www.alingsasfotoklubb.se/"
     },
     {
       "entry": 1236784441,
