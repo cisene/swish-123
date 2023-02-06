@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-02-04-rev-000536
+Date:     2023-02-06-rev-230203
 ...
 
 # Swish 123 Nummer
