@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-02-10-rev-102545
+# Date: 2023-02-10-rev-111534
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -289,6 +289,7 @@
 "1230502534","556726-5755","Pernova Hjälpmedel AB","https://www.pernova.se/","hjälpmedel,medicintekniska hjälpmedel",""
 "1230503300","866000-6431","Töreboda Scoutkår","https://toreboda.scout.se/","scoutkår",""
 "1230503912","832400-4681","Falkens Scoutkår","https://falken.scout.se/","scoutkår",""
+"1230505487","559031-6112","World Cup Ulricehamn / Ulricehamn Ski Event AB","https://www.worldcupulricehamn.com/","intresseförening",""
 "1230506675","866600-0792","Carlsborgs Segelsällskap, CSS","https://www.seglarna.se/","segelsällskap",""
 "1230509182","802438-6800","Nynäshamns Katthemsförening","https://nynaskatthem.se/","katthem",""
 "1230509752","556784-8360","Mälardalens Rör & Montage AB","http://mrmab.se/","",""
@@ -1738,6 +1739,7 @@
 "1232765964","802425-9874","Stiftelsen Ronald McDonald Barnfond Linköping","https://linkoping.ronaldmcdonaldhus.se/","hjälporganisation,stiftelse",""
 "1232766269","802433-4164","Nordvärmlands Snöskoterklubb","http://nvssk.se/","skoterklubb,sport",""
 "1232766483","802490-4644","Musik Mot Cancer","https://musikmotcancer.se/","intresseorganisation",""
+"1232766517","556697-9703","Danscenter / Westlund Englund AB","https://www.danscenter.com/","danskurser,dansundervisning",""
 "1232766897","802494-5340","Pakistanhjälpen","https://pakistanhjälpen.se/","hjälporganisation",""
 "1232768075","827500-2080","Vetlanda Missionskyrka","http://www.vetlandamissionskyrka.com/","religion",""
 "1232769222","833600-5304","Västrums Hembygdsförening","https://vastrumhembygd.se/","hembygdsförening",""

@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-02-10-rev-102545
+Date:     2023-02-10-rev-111534
 ...
 
 # Swish 123 Nummer
@@ -291,6 +291,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230502534 | 556726-5755 | Pernova Hjälpmedel AB                                                                                | [Link](https://www.pernova.se/) |
 | 1230503300 | 866000-6431 | Töreboda Scoutkår                                                                                    | [Link](https://toreboda.scout.se/) |
 | 1230503912 | 832400-4681 | Falkens Scoutkår                                                                                     | [Link](https://falken.scout.se/) |
+| 1230505487 | 559031-6112 | World Cup Ulricehamn / Ulricehamn Ski Event AB                                                       | [Link](https://www.worldcupulricehamn.com/) |
 | 1230506675 | 866600-0792 | Carlsborgs Segelsällskap, CSS                                                                        | [Link](https://www.seglarna.se/) |
 | 1230509182 | 802438-6800 | Nynäshamns Katthemsförening                                                                          | [Link](https://nynaskatthem.se/) |
 | 1230509752 | 556784-8360 | Mälardalens Rör & Montage AB                                                                         | [Link](http://mrmab.se/) |
@@ -1740,6 +1741,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232765964 | 802425-9874 | Stiftelsen Ronald McDonald Barnfond Linköping                                                        | [Link](https://linkoping.ronaldmcdonaldhus.se/) |
 | 1232766269 | 802433-4164 | Nordvärmlands Snöskoterklubb                                                                         | [Link](http://nvssk.se/) |
 | 1232766483 | 802490-4644 | Musik Mot Cancer                                                                                     | [Link](https://musikmotcancer.se/) |
+| 1232766517 | 556697-9703 | Danscenter / Westlund Englund AB                                                                     | [Link](https://www.danscenter.com/) |
 | 1232766897 | 802494-5340 | Pakistanhjälpen                                                                                      | [Link](https://pakistanhjälpen.se/) |
 | 1232768075 | 827500-2080 | Vetlanda Missionskyrka                                                                               | [Link](http://www.vetlandamissionskyrka.com/) |
 | 1232769222 | 833600-5304 | Västrums Hembygdsförening                                                                            | [Link](https://vastrumhembygd.se/) |

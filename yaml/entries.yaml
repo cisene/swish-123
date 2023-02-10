@@ -2525,6 +2525,14 @@ entries:
   - scoutkår
   web: https://falken.scout.se/
 
+- entry: 1230505487
+  orgName: World Cup Ulricehamn / Ulricehamn Ski Event AB
+  orgNumber: 559031-6112
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.worldcupulricehamn.com/
+
 - entry: 1230506287
   orgName: Förenade Reikiförbundet i Sverige
   orgNumber: 8024298310
@@ -15393,6 +15401,15 @@ entries:
   categories:
   - intresseorganisation
   web: https://musikmotcancer.se/
+
+- entry: 1232766517
+  orgName: Danscenter / Westlund Englund AB
+  orgNumber: 556697-9703
+  comment: null
+  categories:
+  - danskurser
+  - dansundervisning
+  web: https://www.danscenter.com/
 
 - entry: 1232766897
   orgName: Pakistanhjälpen
