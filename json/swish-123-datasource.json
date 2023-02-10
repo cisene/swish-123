@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-02-06-rev-230203",
+    "date": "2023-02-10-rev-102545",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -311,6 +311,15 @@
       "web": "https://equmeniakyrkan.se/ostervallskog/"
     },
     {
+      "entry": 1230064337,
+      "orgNumber": "885501-4083",
+      "orgName": "Skandinaviska Turistkyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.turistkyrkan.org/"
+    },
+    {
       "entry": 1230068205,
       "orgNumber": "889601-1296",
       "orgName": "Hj\u00e4lptransporten Filippus",
@@ -517,6 +526,16 @@
         "friluftsliv"
       ],
       "web": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/vasteras/"
+    },
+    {
+      "entry": 1230113670,
+      "orgNumber": "844000-7048",
+      "orgName": "S\u00e5ngk\u00f6ren Divertimento",
+      "categories": [
+        "k\u00f6rs\u00e5ng",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.divertimento.se/"
     },
     {
       "entry": 1230123448,
@@ -754,8 +773,7 @@
       "orgNumber": "857209-3444",
       "orgName": "ATSUB/G\u00f6teborg - F\u00f6reningen Anh\u00f6riga Till Sexuellt Utnyttjade Barn Och Ungdomar",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "http://www.atsubgbg.nu/"
     },
@@ -821,8 +839,7 @@
       "orgNumber": "837001-3602",
       "orgName": "Frida Kvinnojour H\u00e4ssleholm",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "http://fridakvinnojour.se/"
     },
@@ -1133,8 +1150,7 @@
       "orgNumber": "864501-5200",
       "orgName": "Kvinno- och tjejjouren Bor\u00e5s",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://ktjboras.se/"
     },
@@ -2958,8 +2974,7 @@
       "orgNumber": "802011-0386",
       "orgName": "Rise - Riksf\u00f6reningen mot incest och andra sexuella \u00f6vergrepp i barndomen",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://rise-sverige.se/"
     },
@@ -4207,8 +4222,7 @@
       "orgNumber": "802428-1308",
       "orgName": "STHLM V\u00c4ST Tjej- och kvinnojour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "http://sthlmvastjour.se/"
     },
@@ -4706,8 +4720,7 @@
       "orgNumber": "802421-1073",
       "orgName": "Eksj\u00f6 Tjejjour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/eksjotjejjour/"
     },
@@ -4899,8 +4912,7 @@
       "orgNumber": "802476-6027",
       "orgName": "Tjej och Transjouren Lina",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "http://tjosa.se/"
     },
@@ -5214,8 +5226,7 @@
       "orgNumber": "802411-3667",
       "orgName": "Kvinnors R\u00e4tt",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://kvinnorsratt.se/"
     },
@@ -5447,8 +5458,7 @@
       "orgNumber": "845001-7788",
       "orgName": "Kvinnojouren Lund",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://kvinnojourenlund.se/"
     },
@@ -5957,8 +5967,7 @@
       "orgNumber": "802455-2138",
       "orgName": "Liding\u00f6 Kvinnojour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/lidingokvinnojour/"
     },
@@ -6137,8 +6146,7 @@
       "orgNumber": "802487-8806",
       "orgName": "Kvinnojouren i Stenungsund",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "http://kvinnojouren-stenungsund.se/"
     },
@@ -6995,8 +7003,7 @@
       "orgNumber": "802512-2402",
       "orgName": "Kvinnojouren Online",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenonline/"
     },
@@ -7141,8 +7148,7 @@
       "orgNumber": "889601-3631",
       "orgName": "Kvinnojouren \u00d6rnsk\u00f6ldsvik",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenornskoldsvik/"
     },
@@ -7350,8 +7356,7 @@
       "orgNumber": "827001-1839",
       "orgName": "Kvinnojouren N\u00e4ssj\u00f6",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://kvinnojourennassjo.se/"
     },
@@ -7483,6 +7488,17 @@
         "hundsport"
       ],
       "web": "http://bergslagen.alghundklubben.com/"
+    },
+    {
+      "entry": 1231323989,
+      "orgNumber": "884401-0762",
+      "orgName": "Lima Fiskev\u00e5rdsf\u00f6rening i Malung",
+      "categories": [
+        "fiskev\u00e5rd",
+        "sportfiske",
+        "vattenv\u00e5rd"
+      ],
+      "web": "https://www.limafiske.se/"
     },
     {
       "entry": 1231324987,
@@ -8001,8 +8017,7 @@
       "orgNumber": "843001-5639",
       "orgName": "Kvinnojouren Helsingborg",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/helsingborgskvinnojour/"
     },
@@ -8011,8 +8026,7 @@
       "orgNumber": "828001-0227",
       "orgName": "V\u00e4rnamo Kvinno- och tjejjour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/varnamokvinnojour/"
     },
@@ -8513,8 +8527,7 @@
       "orgNumber": "802453-3807",
       "orgName": "Kvinnojouren Viljan",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenviljan/"
     },
@@ -8693,8 +8706,7 @@
       "orgNumber": "818000-8008",
       "orgName": "Kvinnojouren Moa",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenmoa/"
     },
@@ -8742,8 +8754,7 @@
       "orgNumber": "836201-2406",
       "orgName": "Kvinnojouren Embla / Kvinnojouren I S\u00f6lvesborg",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.kvinnojourenembla.se/"
     },
@@ -9245,6 +9256,16 @@
       "web": "https://www.jourhavande-medmanniska.se/"
     },
     {
+      "entry": 1231605088,
+      "orgNumber": "819000-9707",
+      "orgName": "Hjortensbergskyrkans F\u00f6rsamling",
+      "comment": "F\u00f6rsamlingen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.hjortensbergskyrkan.se/"
+    },
+    {
       "entry": 1231605161,
       "orgNumber": "802463-7186",
       "orgName": "Lions Club L\u00f6ddek\u00f6pinge",
@@ -9443,8 +9464,7 @@
       "orgNumber": "802412-4623",
       "orgName": "Kvinnojouren Anna",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.kvinnojourenanna.se/"
     },
@@ -9550,8 +9570,7 @@
       "orgNumber": "802489-9877",
       "orgName": "V\u00e4sby Tjejjour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/vasbytjejjour/"
     },
@@ -10265,6 +10284,16 @@
       "web": "https://helsingkrona.se/"
     },
     {
+      "entry": 1231746916,
+      "orgNumber": "556571-3657",
+      "orgName": "Trafikcenter i Varberg AB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "http://www.trafikcenter-varberg.se/"
+    },
+    {
       "entry": 1231747039,
       "orgNumber": "814000-6613",
       "orgName": "Boo Folkets Hus F\u00f6reningen",
@@ -10831,8 +10860,7 @@
       "orgNumber": "802408-9602",
       "orgName": "Kvinnojouren I \u00d6ster\u00e5ker",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "http://www.kvinnojoureniosteraker.se/"
     },
@@ -10914,8 +10942,7 @@
       "orgNumber": "814000-0756",
       "orgName": "Kvinnojouren Nacka V\u00e4rmd\u00f6",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourennackavarmdo/"
     },
@@ -11512,8 +11539,7 @@
       "orgNumber": "802501-3932",
       "orgName": "Ungdomsjouren Tigerlilja",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/tigerlilja/"
     },
@@ -11626,8 +11652,7 @@
       "orgNumber": "817301-1506",
       "orgName": "Kvinnojouren Freja",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://kvinnojourenfreja.se/"
     },
@@ -11749,10 +11774,18 @@
       "orgNumber": "838202-1791",
       "orgName": "Kristianstad Kvinnojour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kristianstadkvinnojour/"
+    },
+    {
+      "entry": 1231999051,
+      "orgNumber": "857202-7566",
+      "orgName": "Kommunistiska Partiet G\u00f6teborg",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://goteborg.kommunisterna.org/"
     },
     {
       "entry": 1232001782,
@@ -12137,8 +12170,7 @@
       "orgNumber": "802468-9559",
       "orgName": "Kvinnojouren Olivia",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenolivia/"
     },
@@ -12316,8 +12348,7 @@
       "orgNumber": "802466-2713",
       "orgName": "Clarajouren - Kvinnojouren i \u00c5rj\u00e4ng",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "http://www.clarajouren.n.nu/"
     },
@@ -12580,6 +12611,16 @@
         "ordens\u00e4llskap"
       ],
       "web": "https://www.linneus.org/"
+    },
+    {
+      "entry": 1232134625,
+      "orgNumber": "817605-3141",
+      "orgName": "IK Sirius IBK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.siriusinnebandy.se/"
     },
     {
       "entry": 1232134831,
@@ -13120,8 +13161,7 @@
       "orgName": "Kvinnojouren Nina",
       "comment": "Medlemsavgift",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://ikkr.org/"
     },
@@ -13243,8 +13283,7 @@
       "orgNumber": "849000-9316",
       "orgName": "Falkenbergs Kvinnojour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/falkenbergskvinnojour/"
     },
@@ -13377,6 +13416,16 @@
         "utbildning"
       ],
       "web": "https://www.4h.se/stattared/"
+    },
+    {
+      "entry": 1232222495,
+      "orgNumber": "819000-9707",
+      "orgName": "Hjortensbergskyrkans F\u00f6rsamling",
+      "comment": "Hjortensbergskyrkan Hj\u00e4lper",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.hjortensbergskyrkan.se/"
     },
     {
       "entry": 1232222818,
@@ -14458,6 +14507,15 @@
       "web": "https://e-clubhouse.org/sites/gnesta/"
     },
     {
+      "entry": 1232370930,
+      "orgNumber": "556553-8831",
+      "orgName": "Tomatboden i Varv / Assarsson Tr\u00e4dg\u00e5rd AB",
+      "categories": [
+        "gr\u00f6nsaksodling"
+      ],
+      "web": "https://www.tomatboden.se/"
+    },
+    {
       "entry": 1232371045,
       "orgNumber": "252000-0650",
       "orgName": "Br\u00e4nnkyrka F\u00f6rsamling",
@@ -14466,6 +14524,16 @@
         "religion"
       ],
       "web": "https://www.brannkyrka.org/"
+    },
+    {
+      "entry": 1232371128,
+      "orgNumber": "855100-6334",
+      "orgName": "Rosengrenska Insamlingsstiftelsen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "stiftelse"
+      ],
+      "web": "https://www.rosengrenska.org/"
     },
     {
       "entry": 1232371466,
@@ -15078,6 +15146,15 @@
       "web": "https://www.staffanstrafikskola.se/"
     },
     {
+      "entry": 1232457414,
+      "orgNumber": "842001-0376",
+      "orgName": "Svenska Wachtelhundklubben, \u00d6sterg\u00f6tland/N\u00e4rke",
+      "categories": [
+        "hundklubb"
+      ],
+      "web": "http://wachtelhundklubben.com/swk-ostergotland-narke/"
+    },
+    {
       "entry": 1232459105,
       "orgNumber": "802471-1999",
       "orgName": "Cancerkompisar",
@@ -15303,8 +15380,7 @@
       "orgNumber": "802513-4282",
       "orgName": "Kraftbyr\u00e5n",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kraftbyran/"
     },
@@ -15405,8 +15481,7 @@
       "orgNumber": "802523-4066",
       "orgName": "Tjejjouren Lule\u00e5",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/tjejjourenlulea/"
     },
@@ -16840,8 +16915,7 @@
       "orgNumber": "802470-2725",
       "orgName": "NXTME",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.nxtme.se/"
     },
@@ -17005,8 +17079,7 @@
       "orgNumber": "874000-8134",
       "orgName": "Tjej- & Kvinnojouren Nordv\u00e4rmland",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourennordvarmland/"
     },
@@ -17535,8 +17608,7 @@
       "orgNumber": "802422-8242",
       "orgName": "Familjefridsjouren",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/familjefridsjouren/"
     },
@@ -17619,8 +17691,7 @@
       "orgNumber": "813200-2810",
       "orgName": "J\u00e4rf\u00e4lla Kvinnojour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/jarfallakvinnojour/"
     },
@@ -18652,8 +18723,7 @@
       "orgNumber": "815600-7562",
       "orgName": "Kvinnojouren Annfrid",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenannfrid/"
     },
@@ -19275,8 +19345,7 @@
       "orgNumber": "802422-2161",
       "orgName": "Kvinnojouren Boden",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.kvinnojourenboden.se/"
     },
@@ -19342,8 +19411,7 @@
       "orgNumber": "802491-4494",
       "orgName": "Agera Kvinnojour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/agerakvinnojour/"
     },
@@ -19543,8 +19611,7 @@
       "orgNumber": "829501-7050",
       "orgName": "Kvinnojouren Blenda",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://kvinnojourenblenda.se/"
     },
@@ -19736,8 +19803,7 @@
       "orgNumber": "802461-0639",
       "orgName": "Kvinnojouren Kullan",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenkullan/"
     },
@@ -20152,8 +20218,7 @@
       "orgNumber": "802420-4680",
       "orgName": "Kvinnojouren Linn\u00e9an",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.kvinnojourenlinnean.se/"
     },
@@ -20574,8 +20639,7 @@
       "orgNumber": "802429-5472",
       "orgName": "Fempowerment",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://fempowerment.se/"
     },
@@ -21384,6 +21448,16 @@
       "web": "https://www.sundskanalen.se/"
     },
     {
+      "entry": 1233424900,
+      "orgNumber": "812400-9419",
+      "orgName": "F\u00f6reningen Runsten Equestrians",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://foreningenrunsten.se/"
+    },
+    {
       "entry": 1233430592,
       "orgNumber": "897000-0280",
       "orgName": "Pingstf\u00f6rsamlingen i Lule\u00e5",
@@ -21829,8 +21903,7 @@
       "orgNumber": "802436-3866",
       "orgName": "Guldstadens kvinnojour & Guldstadens tjejjour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/guldstaden/"
     },
@@ -22251,6 +22324,15 @@
       "web": "https://www.svenskakyrkan.se/ljungby/ljungby-forsamling"
     },
     {
+      "entry": 1233547791,
+      "orgNumber": "802435-6878",
+      "orgName": "Salt Sydsverige",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://livsluft.efssyd.org/"
+    },
+    {
       "entry": 1233548161,
       "orgNumber": "832401-8533",
       "orgName": "Kattkommando Syd Sm\u00e5landsKatten",
@@ -22542,6 +22624,16 @@
         "golfklubb"
       ],
       "web": "https://vallgardensgk.se/"
+    },
+    {
+      "entry": 1233578028,
+      "orgNumber": "837000-1144",
+      "orgName": "EFS i Sydsverige",
+      "comment": "G\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://livsluft.efssyd.org/"
     },
     {
       "entry": 1233578507,
@@ -23114,8 +23206,7 @@
       "orgNumber": "802495-9697",
       "orgName": "Existera",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.existera.org/"
     },
@@ -23515,8 +23606,7 @@
       "orgNumber": "818501-2385",
       "orgName": "Kvinno- och Tjejjouren Miranda",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://jourmiranda.se/"
     },
@@ -24241,6 +24331,16 @@
       "web": "https://www.kalmartk.se/"
     },
     {
+      "entry": 1233887379,
+      "orgNumber": "819001-0515",
+      "orgName": "Hjortensbergskyrkans F\u00f6rsamling",
+      "comment": "Hjortensbergskyrkans ungdom",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.hjortensbergskyrkan.se/"
+    },
+    {
       "entry": 1233887536,
       "orgNumber": "802534-5938",
       "orgName": "Team Rynkeby",
@@ -24623,7 +24723,8 @@
       "orgNumber": "802461-8087",
       "orgName": "Skifte F\u00f6r Sverige",
       "categories": [
-        "folkr\u00f6relse"
+        "folkr\u00f6relse",
+        "intressef\u00f6rening"
       ],
       "web": "https://skiftet.org/"
     },
@@ -24969,8 +25070,7 @@
       "orgNumber": "802469-8899",
       "orgName": "Tjejjouren Rut",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/tjejjourenrut/"
     },
@@ -25568,8 +25668,7 @@
       "orgNumber": "802453-1876",
       "orgName": "Ungdomsjouren Animo",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/animo/"
     },
@@ -25754,8 +25853,7 @@
       "orgNumber": "802407-2251",
       "orgName": "Kvinnojouren T\u00e4by/Danderyd",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://kvinnojourentabydanderyd.se/"
     },
@@ -25932,8 +26030,7 @@
       "orgNumber": "814801-0815",
       "orgName": "Kvinnojouren Sigtuna",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourensigtuna/"
     },
@@ -26487,8 +26584,7 @@
       "orgNumber": "812800-0794",
       "orgName": "Kvinnojouren Huddinge",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://kvinnojourenhuddinge.se/"
     },
@@ -27053,8 +27149,7 @@
       "orgNumber": "802495-9655",
       "orgName": "Kvinno- och tjejjouren Pax",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/pax/"
     },
@@ -27732,6 +27827,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.bokenasif.com/"
+    },
+    {
+      "entry": 1234480752,
+      "orgNumber": "884401-0762",
+      "orgName": "Lima Fiskev\u00e5rdsf\u00f6rening i Malung",
+      "categories": [
+        "fiskev\u00e5rd",
+        "sportfiske",
+        "vattenv\u00e5rd"
+      ],
+      "web": "https://www.limafiske.se/"
     },
     {
       "entry": 1234482675,
@@ -29095,8 +29201,7 @@
       "orgNumber": "802465-8836",
       "orgName": "Solrosen Kvinnojour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/solrosenkvinnojour/"
     },
@@ -29244,6 +29349,17 @@
         "ventialtion"
       ],
       "web": "http://ventin.se/"
+    },
+    {
+      "entry": 1234702742,
+      "orgNumber": "556632-5089",
+      "orgName": "Accent Spr\u00e5kservice / Nordic Accent Translation AB",
+      "categories": [
+        "spr\u00e5kgranskning",
+        "transkribering",
+        "\u00f6vers\u00e4ttning"
+      ],
+      "web": "https://accent-sweden.com/"
     },
     {
       "entry": 1234702908,
@@ -29605,8 +29721,7 @@
       "orgNumber": "827000-9957",
       "orgName": "Kvinnojouren Linneorna",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenlinneorna"
     },
@@ -30410,8 +30525,7 @@
       "orgNumber": "817001-5864",
       "orgName": "Kvinnojouren Enk\u00f6ping",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenenkoping/"
     },
@@ -30591,8 +30705,7 @@
       "orgNumber": "832401-3807",
       "orgName": "Kvinnojouren och Ungdomsjouren Kalmar",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenkalmar/"
     },
@@ -31653,8 +31766,7 @@
       "orgNumber": "802504-7617",
       "orgName": "Nog Nu - Nu f\u00e5r det vara nog!",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://nognu.org/"
     },
@@ -31878,8 +31990,7 @@
       "orgNumber": "802443-9203",
       "orgName": "Novahuset",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.novahuset.com/"
     },
@@ -32919,6 +33030,17 @@
       "web": "https://www.wonsa.se/"
     },
     {
+      "entry": 1235297775,
+      "orgNumber": "884401-0762",
+      "orgName": "Lima Fiskev\u00e5rdsf\u00f6rening i Malung",
+      "categories": [
+        "fiskev\u00e5rd",
+        "sportfiske",
+        "vattenv\u00e5rd"
+      ],
+      "web": "https://www.limafiske.se/"
+    },
+    {
       "entry": 1235299938,
       "orgNumber": "802420-2593",
       "orgName": "Fenix Sk\u00e4rmflygklubb",
@@ -33547,8 +33669,7 @@
       "orgNumber": "802409-0287",
       "orgName": "Somaya kvinno- och tjejjour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://somaya.se/"
     },
@@ -33692,8 +33813,7 @@
       "orgNumber": "802514-4653",
       "orgName": "Ungdomsjouren Fria",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/fria/"
     },
@@ -34301,8 +34421,7 @@
       "orgNumber": "802494-5928",
       "orgName": "Kvinnojouren I Sundberg",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.kvinnojourenisundbyberg.com/"
     },
@@ -35554,8 +35673,7 @@
       "orgNumber": "802513-8069",
       "orgName": "Ungdomsjouren Bellis",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.bellis.nu/"
     },
@@ -35891,8 +36009,7 @@
       "orgNumber": "849600-7413",
       "orgName": "Varbergs Kvinnojour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.varbergskvinnojour.se/"
     },
@@ -36206,6 +36323,16 @@
         "golfklubb"
       ],
       "web": "https://www.grappasgk.se/"
+    },
+    {
+      "entry": 1235766225,
+      "orgNumber": "875001-4139",
+      "orgName": "J\u00e4rle Byalag",
+      "categories": [
+        "byalag",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.jarlebyalag.se/"
     },
     {
       "entry": 1235767876,
@@ -36752,8 +36879,7 @@
       "orgNumber": "886000-5696",
       "orgName": "Kvinnojouren St\u00f6ttan",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "http://www.kvinnojourenstottan.se/"
     },
@@ -37261,6 +37387,18 @@
       "web": "https://www.hordafrikyrka.se/"
     },
     {
+      "entry": 1235935838,
+      "orgNumber": "556232-8483",
+      "orgName": "Johans MC-Service AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "moped",
+        "motorcykel",
+        "reparationer"
+      ],
+      "web": "https://www.johansmc.se/"
+    },
+    {
       "entry": 1235936240,
       "orgNumber": "865500-5513",
       "orgName": "Ulricehamns MK",
@@ -37729,6 +37867,16 @@
       "web": "https://www.etiopienhjalpen.se/"
     },
     {
+      "entry": 1236013841,
+      "orgNumber": "897300-4156",
+      "orgName": "Kiruna Ishockeyf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.kirunaif.se/"
+    },
+    {
       "entry": 1236013965,
       "orgNumber": "802489-3680",
       "orgName": "Contribution To Opportunities",
@@ -37788,8 +37936,7 @@
       "orgNumber": "819000-8949",
       "orgName": "Kvinnojouren Mira",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenmira/"
     },
@@ -38755,8 +38902,7 @@
       "orgNumber": "885500-7715",
       "orgName": "Kvinnojouren i Sandviken",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "http://kvinnojourensandviken.se/"
     },
@@ -39335,6 +39481,16 @@
       "web": "https://hjalpmedelutangranser.se/"
     },
     {
+      "entry": 1236268593,
+      "orgNumber": "837000-1144",
+      "orgName": "EFS i Sydsverige",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://livsluft.efssyd.org/"
+    },
+    {
       "entry": 1236269567,
       "orgNumber": "802438-5794",
       "orgName": "V\u00e4ster\u00e5s Tr\u00e4dg\u00e5rdss\u00e4llskap",
@@ -39482,8 +39638,7 @@
       "orgNumber": "875001-2224",
       "orgName": "Kvinnohuset \u00d6rebro",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnohusetorebro/"
     },
@@ -40310,8 +40465,7 @@
       "orgNumber": "802460-9284",
       "orgName": "TjejJouren V\u00e4st",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.tjejjourenvast.se/"
     },
@@ -41102,8 +41256,7 @@
       "orgNumber": "802411-4343",
       "orgName": "Sollentuna Kvinnojour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://sollentunakvinnojour.se/"
     },
@@ -41258,6 +41411,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/ljungby/vra-forsamling"
+    },
+    {
+      "entry": 1236571004,
+      "orgNumber": "873200-2350",
+      "orgName": "Korskyrkan i Karlstad",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.korskyrkan.com/"
     },
     {
       "entry": 1236571301,
@@ -41606,8 +41768,7 @@
       "orgNumber": "826002-0030",
       "orgName": "Kvinno- och tjejjouren J\u00f6nk\u00f6ping",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnoochtjejjourenjonkoping/"
     },
@@ -41847,8 +42008,7 @@
       "orgName": "Kvinnojouren Nina",
       "comment": "G\u00e5va",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://ikkr.org/"
     },
@@ -42128,8 +42288,7 @@
       "orgNumber": "834001-4490",
       "orgName": "Kvinnojouren Amanda",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenamanda/"
     },
@@ -42338,8 +42497,7 @@
       "orgNumber": "835001-3093",
       "orgName": "Kvinnojouren Karlskrona",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://kvinnojourenkarlskrona.se/"
     },
@@ -43035,8 +43193,7 @@
       "orgNumber": "802521-6279",
       "orgName": "Alltid Sedd",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.alltidsedd.se/"
     },
@@ -43127,8 +43284,7 @@
       "orgNumber": "846003-4013",
       "orgName": "Malm\u00f6 Kvinnojour",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.malmokvinnojour.se/"
     },
@@ -43372,8 +43528,7 @@
       "orgNumber": "814000-9799",
       "orgName": "ATSUB - F\u00f6reningen Anh\u00f6riga till sexuellt utnyttjade barn",
       "categories": [
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.atsub.se/"
     },
@@ -46208,7 +46363,6 @@
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "kvinnojour",
-        "tjejjour",
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://www.foreningenstorasyster.se/"
@@ -46393,8 +46547,7 @@
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
-        "kvinnojour",
-        "tjejjour"
+        "kvinnojour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
