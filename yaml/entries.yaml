@@ -9652,6 +9652,14 @@ entries:
   - underhållning
   web: https://gastabud.se/
 
+- entry: 1231801190
+  orgName: IFK Göteborg
+  orgNumber: 857200-8541
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://ifkgoteborg.se/
+
 - entry: 1231804970
   orgName: Tango Norteño
   orgNumber: 894003-5556
@@ -16726,6 +16734,15 @@ entries:
   - religion
   web: http://www.tenstakyrkan.se/
 
+- entry: 1232981090
+  orgName: Bulletin Media Sverige AB
+  orgNumber: 559367-0671
+  comment: null
+  categories:
+  - alternativa media
+  - lokaltidning
+  web: https://bulletin.nu/
+
 - entry: 1232981710
   orgName: metmask.com / Animal-A Alltjänst AB
   orgNumber: 559350-3799
@@ -22405,6 +22422,15 @@ entries:
   - barnverksamhet
   - ungdomsverksamhet
   web: https://www.helloworld.se/
+
+- entry: 1233956000
+  orgName: IFK Linköpings Boxningsklubb
+  orgNumber: 822001-9445
+  comment: null
+  categories:
+  - boxningsklubb
+  - idrottsförening
+  web: https://linkopingboxning.com/
 
 - entry: 1233956406
   orgName: Islandshästföreningen Oddur
@@ -28683,6 +28709,16 @@ entries:
   - grottforskning
   - speleologi
   web: https://speleo.se/
+
+- entry: 1235117106
+  orgName: Handbollsakademin i Sverige
+  orgNumber: 802427-5490
+  comment: null
+  categories:
+  - handboll
+  - intresseförening
+  - utbildning
+  web: https://handbollsakademin.se/
 
 - entry: 1235117387
   orgName: Frisk Mat
@@ -39510,6 +39546,15 @@ entries:
   - idrottsförening
   - innebandy
   web: https://www.fif.se/
+
+- entry: 1236948236
+  orgName: Korskyrkan Gävle
+  orgNumber: 885000-3164
+  comment: null
+  categories:
+  - podcast
+  - religion
+  web: https://korskyrkangavle.podbean.com/
 
 - entry: 1236948798
   orgName: Skånes Änglar

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-02-13-rev-123755",
+    "date": "2023-03-02-rev-015120",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -10756,6 +10756,15 @@
       "web": "https://gastabud.se/"
     },
     {
+      "entry": 1231801190,
+      "orgNumber": "857200-8541",
+      "orgName": "IFK G\u00f6teborg",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ifkgoteborg.se/"
+    },
+    {
       "entry": 1231804970,
       "orgNumber": "894003-5556",
       "orgName": "Tango Norte\u00f1o",
@@ -18715,6 +18724,16 @@
       "web": "http://www.tenstakyrkan.se/"
     },
     {
+      "entry": 1232981090,
+      "orgNumber": "559367-0671",
+      "orgName": "Bulletin Media Sverige AB",
+      "categories": [
+        "alternativa media",
+        "lokaltidning"
+      ],
+      "web": "https://bulletin.nu/"
+    },
+    {
       "entry": 1232981710,
       "orgNumber": "559350-3799",
       "orgName": "metmask.com / Animal-A Alltj\u00e4nst AB",
@@ -25000,6 +25019,16 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.helloworld.se/"
+    },
+    {
+      "entry": 1233956000,
+      "orgNumber": "822001-9445",
+      "orgName": "IFK Link\u00f6pings Boxningsklubb",
+      "categories": [
+        "boxningsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://linkopingboxning.com/"
     },
     {
       "entry": 1233956406,
@@ -32005,6 +32034,17 @@
         "speleologi"
       ],
       "web": "https://speleo.se/"
+    },
+    {
+      "entry": 1235117106,
+      "orgNumber": "802427-5490",
+      "orgName": "Handbollsakademin i Sverige",
+      "categories": [
+        "handboll",
+        "intressef\u00f6rening",
+        "utbildning"
+      ],
+      "web": "https://handbollsakademin.se/"
     },
     {
       "entry": 1235117387,
@@ -44023,6 +44063,16 @@
         "innebandy"
       ],
       "web": "https://www.fif.se/"
+    },
+    {
+      "entry": 1236948236,
+      "orgNumber": "885000-3164",
+      "orgName": "Korskyrkan G\u00e4vle",
+      "categories": [
+        "podcast",
+        "religion"
+      ],
+      "web": "https://korskyrkangavle.podbean.com/"
     },
     {
       "entry": 1236948798,
