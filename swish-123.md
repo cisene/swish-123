@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-03-02-rev-015120
+Date:     2023-03-14-rev-223726
 ...
 
 # Swish 123 Nummer
@@ -963,6 +963,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231605468 | 818000-7166 | Eskilstuna Brukshundsklubb                                                                           | [Link](https://www.eskilstunabk.se/) |
 | 1231605567 | 883201-7597 | Lions Club Sundborn                                                                                  | [Link](https://www.sundborn.com/lions-club) |
 | 1231610286 | 252000-0650 | Brännkyrka Församling                                                                                | [Link](https://www.brannkyrka.org/) |
+| 1231610930 | 825000-0158 | Betaniaförsamlingen i Östra Ryd                                                                      | [Link](https://www.betaniaostraryd.se/) |
 | 1231611326 | 802000-0371 | Riksförbundet Sveriges 4H                                                                            | [Link](https://www.4h.se/) |
 | 1231612001 | 802456-5734 | Norrtälje Katthem                                                                                    | [Link](https://kattcenter.se/) |
 | 1231612365 | 854600-8593 | Hunnebostrands Bildarkiv                                                                             | [Link](https://www.hunnebostrandsbildarkiv.se/) |

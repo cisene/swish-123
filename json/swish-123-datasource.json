@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-03-02-rev-015120",
+    "date": "2023-03-14-rev-223726",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -9434,6 +9434,15 @@
         "religion"
       ],
       "web": "https://www.brannkyrka.org/"
+    },
+    {
+      "entry": 1231610930,
+      "orgNumber": "825000-0158",
+      "orgName": "Betaniaf\u00f6rsamlingen i \u00d6stra Ryd",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.betaniaostraryd.se/"
     },
     {
       "entry": 1231611326,

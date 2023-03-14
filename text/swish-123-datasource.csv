@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-03-02-rev-015120
+# Date: 2023-03-14-rev-223726
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -961,6 +961,7 @@
 "1231605468","818000-7166","Eskilstuna Brukshundsklubb","https://www.eskilstunabk.se/","brukshundsklubb,hundsport",""
 "1231605567","883201-7597","Lions Club Sundborn","https://www.sundborn.com/lions-club","lionsklubb",""
 "1231610286","252000-0650","Brännkyrka Församling","https://www.brannkyrka.org/","religion","Onsdagens kollekt Vårfrukyrkan"
+"1231610930","825000-0158","Betaniaförsamlingen i Östra Ryd","https://www.betaniaostraryd.se/","religion",""
 "1231611326","802000-0371","Riksförbundet Sveriges 4H","https://www.4h.se/","4h,barnverksamhet,riksförbund,ungdomsverksamhet",""
 "1231612001","802456-5734","Norrtälje Katthem","https://kattcenter.se/","djurskydd,katthem","katthemmet"
 "1231612365","854600-8593","Hunnebostrands Bildarkiv","https://www.hunnebostrandsbildarkiv.se/","bildarkiv,intresseförening",""
