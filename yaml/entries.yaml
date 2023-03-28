@@ -208,6 +208,14 @@ entries:
   - ridklubb
   web: https://www.frigg.se/
 
+- entry: 1230052894
+  orgName: Profiltryckeriet / Training & Events i Östersund AB
+  orgNumber: 559077-2785
+  comment: null
+  categories:
+  - profilkläder
+  web: https://www.profiltryckeriet.se/
+
 - entry: 1230053074
   orgName: Malmö Civila Ryttareförening, MCR
   orgNumber: 846001-5368
@@ -2808,6 +2816,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/karlstadspastorat
 
+- entry: 1230569046
+  orgName: Församlingen Arken
+  orgNumber: 813200-4337
+  comment: null
+  categories:
+  - podcast
+  - religion
+  web: https://www.arken.org/
+
 - entry: 1230574582
   orgName: Bostadsrättsförening Torpet
   orgNumber: 769605-4852
@@ -4749,6 +4766,14 @@ entries:
   categories:
   - speedway
   web: https://speedwayfans.se/
+
+- entry: 1230910216
+  orgName: Dala-Järna IK, DJIK
+  orgNumber: 782600-0601
+  comment: Skidsektionen
+  categories:
+  - idrottsförening
+  web: https://www.djik.se/
 
 - entry: 1230910877
   orgName: Kvibergskatterna
@@ -7760,6 +7785,14 @@ entries:
   - intresseorganisation
   web: https://www.sverigesveteranforbund.se/z-bataljonen
 
+- entry: 1231485200
+  orgName: Dala-Järna IK, DJIK
+  orgNumber: 782600-0601
+  comment: Snöåsektionen
+  categories:
+  - idrottsförening
+  web: https://www.djik.se/
+
 - entry: 1231485341
   orgName: Aspeboda Hembygdsförening
   orgNumber: 883201-4842
@@ -9606,6 +9639,14 @@ entries:
   - hembygdsförening
   web: https://www.asenhogahembygd.se/
 
+- entry: 1231790948
+  orgName: Dala-Järna IK, DJIK
+  orgNumber: 782600-0601
+  comment: Fotbollssektionen
+  categories:
+  - idrottsförening
+  web: https://www.djik.se/
+
 - entry: 1231791029
   orgName: Svenska Bullterrierklubben
   orgNumber: 802445-0705
@@ -10024,6 +10065,17 @@ entries:
   categories:
   - religion
   web: https://equmeniakyrkan.se/grafsnassollebrunn/
+
+- entry: 1231880939
+  orgName: Sports Heart
+  orgNumber: 802527-8824
+  comment: null
+  categories:
+  - ideell förening
+  - idrottsförening
+  - ungdomsverksamhet
+  - utbildning
+  web: https://www.sportsheart.se/
 
 - entry: 1231881994
   orgName: Sommaro Golf AB
@@ -22110,6 +22162,14 @@ entries:
   - supporterklubb
   web: http://www.whitelions.se/
 
+- entry: 1233894409
+  orgName: Korskyrkans Församling
+  orgNumber: 826000-5155
+  comment: Ungdomskassa
+  categories:
+  - religion
+  web: https://www.korskyrkan-jkpg.se/
+
 - entry: 1233894508
   orgName: Pantbanken Vänersborg
   orgNumber: 556548-0406
@@ -22394,6 +22454,15 @@ entries:
   - folkrörelse
   - intresseförening
   web: https://skiftet.org/
+
+- entry: 1233952124
+  orgName: Sigtuna IF Innebandy
+  orgNumber: 802491-5608
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.sigtunaifinnebandy.se/
 
 - entry: 1233952272
   orgName: Gimo RK
@@ -26333,6 +26402,14 @@ entries:
   - idrottsförening
   web: https://www.mixitglanshammar.se/
 
+- entry: 1234650446
+  orgName: Tidningen Proletären
+  orgNumber: 857202-7939
+  comment: Frankrike
+  categories:
+  - lokaltidning
+  web: https://proletaren.se/
+
 - entry: 1234651980
   orgName: Sveriges Akademiska Etologer
   orgNumber: 802457-7044
@@ -28521,6 +28598,14 @@ entries:
   categories:
   - intresseförening
   web: https://detfriasverige.se/
+
+- entry: 1235106471
+  orgName: Stjärnsunds AIF, SAIF
+  orgNumber: 882000-2510
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.stjernsund.com/
 
 - entry: 1235107461
   orgName: Team Rynkeby
@@ -31511,6 +31596,14 @@ entries:
   - tidsskrifter
   web: https://plaza.se/
 
+- entry: 1235537089
+  orgName: Korskyrkans Församling
+  orgNumber: 826000-5155
+  comment: Missionskassan
+  categories:
+  - religion
+  web: https://www.korskyrkan-jkpg.se/
+
 - entry: 1235537113
   orgName: Karlstads Pastorat
   orgNumber: 252003-1382
@@ -33371,6 +33464,14 @@ entries:
   comment: null
   categories: null
   web: https://sv-se.facebook.com/TygpasenUF/
+
+- entry: 1235849807
+  orgName: Dala-Järna IK, DJIK
+  orgNumber: 782600-0601
+  comment: Huvudstyrelsen
+  categories:
+  - idrottsförening
+  web: https://www.djik.se/
 
 - entry: 1235854005
   orgName: Team Rynkeby
@@ -38812,6 +38913,14 @@ entries:
   - idrottsförening
   web: https://brannoforeningen.se/
 
+- entry: 1236805519
+  orgName: Värnamo Missionsförsamling
+  orgNumber: 828000-2570
+  comment: null
+  categories:
+  - religion
+  web: http://www.missionskyrkan.org/
+
 - entry: 1236805535
   orgName: Åmåls Ridklubb
   orgNumber: 862000-4443
@@ -39405,6 +39514,14 @@ entries:
   - idrottsförening
   - orientering
   web: https://www.piteaifok.se/
+
+- entry: 1236919179
+  orgName: Korskyrkans Församling
+  orgNumber: 826000-5155
+  comment: null
+  categories:
+  - religion
+  web: https://www.korskyrkan-jkpg.se/
 
 - entry: 1236919278
   orgName: Borås Kristna Center / AB Borås Kristna Skola

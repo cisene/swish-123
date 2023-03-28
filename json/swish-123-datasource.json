@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-03-14-rev-223726",
+    "date": "2023-03-29-rev-001256",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -238,6 +238,15 @@
         "ridklubb"
       ],
       "web": "https://www.frigg.se/"
+    },
+    {
+      "entry": 1230052894,
+      "orgNumber": "559077-2785",
+      "orgName": "Profiltryckeriet / Training & Events i \u00d6stersund AB",
+      "categories": [
+        "profilkl\u00e4der"
+      ],
+      "web": "https://www.profiltryckeriet.se/"
     },
     {
       "entry": 1230053074,
@@ -3105,6 +3114,16 @@
       "web": "https://www.svenskakyrkan.se/karlstadspastorat"
     },
     {
+      "entry": 1230569046,
+      "orgNumber": "813200-4337",
+      "orgName": "F\u00f6rsamlingen Arken",
+      "categories": [
+        "podcast",
+        "religion"
+      ],
+      "web": "https://www.arken.org/"
+    },
+    {
       "entry": 1230574582,
       "orgNumber": "769605-4852",
       "orgName": "Bostadsr\u00e4ttsf\u00f6rening Torpet",
@@ -5277,6 +5296,16 @@
         "speedway"
       ],
       "web": "https://speedwayfans.se/"
+    },
+    {
+      "entry": 1230910216,
+      "orgNumber": "782600-0601",
+      "orgName": "Dala-J\u00e4rna IK, DJIK",
+      "comment": "Skidsektionen",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.djik.se/"
     },
     {
       "entry": 1230910877,
@@ -8628,6 +8657,16 @@
       "web": "https://www.sverigesveteranforbund.se/z-bataljonen"
     },
     {
+      "entry": 1231485200,
+      "orgNumber": "782600-0601",
+      "orgName": "Dala-J\u00e4rna IK, DJIK",
+      "comment": "Sn\u00f6\u00e5sektionen",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.djik.se/"
+    },
+    {
       "entry": 1231485341,
       "orgNumber": "883201-4842",
       "orgName": "Aspeboda Hembygdsf\u00f6rening",
@@ -10705,6 +10744,16 @@
       "web": "https://www.asenhogahembygd.se/"
     },
     {
+      "entry": 1231790948,
+      "orgNumber": "782600-0601",
+      "orgName": "Dala-J\u00e4rna IK, DJIK",
+      "comment": "Fotbollssektionen",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.djik.se/"
+    },
+    {
       "entry": 1231791029,
       "orgNumber": "802445-0705",
       "orgName": "Svenska Bullterrierklubben",
@@ -11175,6 +11224,18 @@
         "religion"
       ],
       "web": "https://equmeniakyrkan.se/grafsnassollebrunn/"
+    },
+    {
+      "entry": 1231880939,
+      "orgNumber": "802527-8824",
+      "orgName": "Sports Heart",
+      "categories": [
+        "ideell f\u00f6rening",
+        "idrottsf\u00f6rening",
+        "ungdomsverksamhet",
+        "utbildning"
+      ],
+      "web": "https://www.sportsheart.se/"
     },
     {
       "entry": 1231881994,
@@ -24679,6 +24740,16 @@
       "web": "http://www.whitelions.se/"
     },
     {
+      "entry": 1233894409,
+      "orgNumber": "826000-5155",
+      "orgName": "Korskyrkans F\u00f6rsamling",
+      "comment": "Ungdomskassa",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.korskyrkan-jkpg.se/"
+    },
+    {
       "entry": 1233894508,
       "orgNumber": "556548-0406",
       "orgName": "Pantbanken V\u00e4nersborg",
@@ -24988,6 +25059,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://skiftet.org/"
+    },
+    {
+      "entry": 1233952124,
+      "orgNumber": "802491-5608",
+      "orgName": "Sigtuna IF Innebandy",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.sigtunaifinnebandy.se/"
     },
     {
       "entry": 1233952272,
@@ -29377,6 +29458,16 @@
       "web": "https://www.mixitglanshammar.se/"
     },
     {
+      "entry": 1234650446,
+      "orgNumber": "857202-7939",
+      "orgName": "Tidningen Prolet\u00e4ren",
+      "comment": "Frankrike",
+      "categories": [
+        "lokaltidning"
+      ],
+      "web": "https://proletaren.se/"
+    },
+    {
       "entry": 1234651980,
       "orgNumber": "802457-7044",
       "orgName": "Sveriges Akademiska Etologer",
@@ -31817,6 +31908,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://detfriasverige.se/"
+    },
+    {
+      "entry": 1235106471,
+      "orgNumber": "882000-2510",
+      "orgName": "Stj\u00e4rnsunds AIF, SAIF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.stjernsund.com/"
     },
     {
       "entry": 1235107461,
@@ -35164,6 +35264,16 @@
       "web": "https://plaza.se/"
     },
     {
+      "entry": 1235537089,
+      "orgNumber": "826000-5155",
+      "orgName": "Korskyrkans F\u00f6rsamling",
+      "comment": "Missionskassan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.korskyrkan-jkpg.se/"
+    },
+    {
       "entry": 1235537113,
       "orgNumber": "252003-1382",
       "orgName": "Karlstads Pastorat",
@@ -37253,6 +37363,16 @@
         "religion"
       ],
       "web": "http://degerfors.pingst.se/"
+    },
+    {
+      "entry": 1235849807,
+      "orgNumber": "782600-0601",
+      "orgName": "Dala-J\u00e4rna IK, DJIK",
+      "comment": "Huvudstyrelsen",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.djik.se/"
     },
     {
       "entry": 1235854005,
@@ -43247,6 +43367,15 @@
       "web": "https://brannoforeningen.se/"
     },
     {
+      "entry": 1236805519,
+      "orgNumber": "828000-2570",
+      "orgName": "V\u00e4rnamo Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.missionskyrkan.org/"
+    },
+    {
       "entry": 1236805535,
       "orgNumber": "862000-4443",
       "orgName": "\u00c5m\u00e5ls Ridklubb",
@@ -43915,6 +44044,15 @@
         "orientering"
       ],
       "web": "https://www.piteaifok.se/"
+    },
+    {
+      "entry": 1236919179,
+      "orgNumber": "826000-5155",
+      "orgName": "Korskyrkans F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.korskyrkan-jkpg.se/"
     },
     {
       "entry": 1236919278,
