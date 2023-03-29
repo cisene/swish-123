@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-03-29-rev-001256",
+    "date": "2023-03-29-rev-213541",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -337,6 +337,15 @@
         "stiftelse"
       ],
       "web": "http://www.filippus.se/"
+    },
+    {
+      "entry": 1230069625,
+      "orgNumber": "559021-5785",
+      "orgName": "Dagens Vimmerby AB",
+      "categories": [
+        "lokaltidning"
+      ],
+      "web": "https://www.dagensvimmerby.se/"
     },
     {
       "entry": 1230069963,
@@ -804,6 +813,15 @@
         "fotbollsklubb"
       ],
       "web": "https://www.aikfotboll.se/"
+    },
+    {
+      "entry": 1230182808,
+      "orgNumber": "864000-0439",
+      "orgName": "Annelunds IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.annelundsif.com/"
     },
     {
       "entry": 1230182899,
@@ -2837,6 +2855,15 @@
       "web": "https://orebro.pingst.se/"
     },
     {
+      "entry": 1230499772,
+      "orgNumber": "864000-0439",
+      "orgName": "Annelunds IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.annelundsif.com/"
+    },
+    {
       "entry": 1230502534,
       "orgNumber": "556726-5755",
       "orgName": "Pernova Hj\u00e4lpmedel AB",
@@ -3093,6 +3120,15 @@
         "golfklubb"
       ],
       "web": "https://surahammarsgk.se/"
+    },
+    {
+      "entry": 1230565028,
+      "orgNumber": "826000-2673",
+      "orgName": "Lekeryds Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.lekerydsmissionskyrka.com/"
     },
     {
       "entry": 1230565622,
@@ -4541,6 +4577,15 @@
       "web": "http://www.umeavastra.se/"
     },
     {
+      "entry": 1230804559,
+      "orgNumber": "836200-0377",
+      "orgName": "Folkkyrkan i S\u00f6lvesborg",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://folkkyrkan.se/"
+    },
+    {
       "entry": 1230805952,
       "orgNumber": "866001-0862",
       "orgName": "Mariestads Sportfiskeklubb",
@@ -5318,6 +5363,16 @@
       "web": "https://kvibergskatterna.se/"
     },
     {
+      "entry": 1230910992,
+      "orgNumber": "802493-6125",
+      "orgName": "Chalmers Studentk\u00e5rs Idrotts\u00e4llskap",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "studentk\u00e5r"
+      ],
+      "web": "https://cis-chalmers.se/"
+    },
+    {
       "entry": 1230912287,
       "orgNumber": "802411-3667",
       "orgName": "Kvinnors R\u00e4tt",
@@ -5762,6 +5817,15 @@
         "religion"
       ],
       "web": "https://kungsor.pingst.se/"
+    },
+    {
+      "entry": 1231022599,
+      "orgNumber": "802512-6007",
+      "orgName": "Korpen G\u00e4vle",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://korpengavle.se/"
     },
     {
       "entry": 1231023092,
@@ -8042,6 +8106,16 @@
       "web": "https://www.kattilsrods4h.se/"
     },
     {
+      "entry": 1231378363,
+      "orgNumber": "802516-5666",
+      "orgName": "\u00d6verlida Byalag",
+      "categories": [
+        "byalag",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://overlida.se/"
+    },
+    {
       "entry": 1231378587,
       "orgNumber": "857203-7342",
       "orgName": "Askims Sj\u00f6scoutk\u00e5r",
@@ -8336,7 +8410,7 @@
         "idrottsf\u00f6rening",
         "sportklubb"
       ],
-      "web": "https://idrottonline.se/VarmskogsSK/"
+      "web": "http://varmskog.se/"
     },
     {
       "entry": 1231461235,
@@ -9238,6 +9312,16 @@
       "web": "http://www.lerakragolf.se/"
     },
     {
+      "entry": 1231579705,
+      "orgNumber": "822000-2805",
+      "orgName": "Link\u00f6pings Missionsf\u00f6rsamling",
+      "comment": "Ungdomssektionen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkanlinkoping.se/"
+    },
+    {
       "entry": 1231579838,
       "orgNumber": "839400-8810",
       "orgName": "GK Engelholmsgymnasterna",
@@ -10068,6 +10152,16 @@
         "psykisk h\u00e4lsa"
       ],
       "web": "https://teamtilia.se/"
+    },
+    {
+      "entry": 1231707876,
+      "orgNumber": "802435-1515",
+      "orgName": "KRIK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "religion"
+      ],
+      "web": "https://krik.se/"
     },
     {
       "entry": 1231709013,
@@ -13753,6 +13847,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/Hyltebruks%20pastorat/fargaryd"
+    },
+    {
+      "entry": 1232234318,
+      "orgNumber": "212000-1512",
+      "orgName": "Moga Fritid / Svenljunga Kommun",
+      "categories": [
+        "friluftsliv",
+        "friskv\u00e5rd"
+      ],
+      "web": "https://www.svenljunga.se/uppleva--gora/idrott-motion-och-friluftsliv/friskvardsanlaggning-moga-fritid"
     },
     {
       "entry": 1232234904,
@@ -17623,6 +17727,16 @@
       "web": "https://www.finntorpsgard.se/"
     },
     {
+      "entry": 1232784965,
+      "orgNumber": "865500-9440",
+      "orgName": "Grims\u00e5s Bass\u00e4ngf\u00f6rening",
+      "comment": "Medlemsavgift, Badavgift",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.grimsas.com/bassangforeningen/"
+    },
+    {
       "entry": 1232787240,
       "orgNumber": "802492-0202",
       "orgName": "KFUM ZLIPROAD CSC Stockholm",
@@ -17860,6 +17974,15 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/familjefridsjouren/"
+    },
+    {
+      "entry": 1232816205,
+      "orgNumber": "802001-3382",
+      "orgName": "Hammarby Idrottsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://hammarby-if.se/"
     },
     {
       "entry": 1232816643,
@@ -23304,6 +23427,15 @@
       "web": "https://www.laget.se/CIF/"
     },
     {
+      "entry": 1233635018,
+      "orgNumber": "802451-7529",
+      "orgName": "Musk\u00f6 IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://muskoif.se/"
+    },
+    {
       "entry": 1233635067,
       "orgNumber": "873201-3753",
       "orgName": "Kils Golfklubb",
@@ -24683,6 +24815,16 @@
         "ridsport"
       ],
       "web": "https://naasridcenter.se/"
+    },
+    {
+      "entry": 1233892528,
+      "orgNumber": "885501-0453",
+      "orgName": "F\u00e4rnebo Folkh\u00f6gskola",
+      "categories": [
+        "folkh\u00f6gskola",
+        "utbildning"
+      ],
+      "web": "https://farnebo.se/"
     },
     {
       "entry": 1233892759,
@@ -27167,6 +27309,16 @@
         "kennelklubb"
       ],
       "web": "http://moklintakennelklubb.se/"
+    },
+    {
+      "entry": 1234296372,
+      "orgNumber": "873201-7770",
+      "orgName": "V\u00e4rmskogs Sportklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sportklubb"
+      ],
+      "web": "http://varmskog.se/"
     },
     {
       "entry": 1234296513,
@@ -29719,6 +29871,15 @@
         "ridklubb"
       ],
       "web": "https://www.tjornsridklubb.com/"
+    },
+    {
+      "entry": 1234689253,
+      "orgNumber": "894001-5319",
+      "orgName": "Gr\u00e4smyr Idrottsklubb",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://grasmyr.se/sv/grasmyr-ik.htm"
     },
     {
       "entry": 1234689535,
@@ -34036,6 +34197,17 @@
       "web": "http://restaurangellis.se/"
     },
     {
+      "entry": 1235359153,
+      "orgNumber": "556596-9382",
+      "orgName": "\u00c4trans Turist & Fritid AB",
+      "categories": [
+        "aktivitetshus",
+        "logi",
+        "stuguthyrning"
+      ],
+      "web": "https://atransturist.se/"
+    },
+    {
       "entry": 1235368980,
       "orgNumber": "802433-9866",
       "orgName": "F\u00f6reningen Jordbro United Dans & Show, JUDS",
@@ -34641,6 +34813,16 @@
         "ridklubb"
       ],
       "web": "https://www.orebrofaltrittklubb.se/"
+    },
+    {
+      "entry": 1235444112,
+      "orgNumber": "556761-5538",
+      "orgName": "MedicRehab Team i J\u00f6nk\u00f6ping AB",
+      "categories": [
+        "fysioterapi",
+        "rehab"
+      ],
+      "web": "https://medicrehab.se/"
     },
     {
       "entry": 1235444757,
@@ -36417,6 +36599,16 @@
       "web": "http://centrumforsamlingen.se/"
     },
     {
+      "entry": 1235700273,
+      "orgNumber": "864000-0439",
+      "orgName": "Annelunds IF",
+      "comment": "Ungdomssektion",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.annelundsif.com/"
+    },
+    {
       "entry": 1235702568,
       "orgNumber": "802009-7724",
       "orgName": "N\u00e4lstaskolans F\u00f6r\u00e4ldraf\u00f6rening",
@@ -36898,6 +37090,16 @@
         "ornitologi"
       ],
       "web": "https://vof.birdlife.se/"
+    },
+    {
+      "entry": 1235770912,
+      "orgNumber": "030705-XXXX",
+      "orgName": "NorrortsSporten - Peaking Media / Oliver Funke",
+      "categories": [
+        "lokaltidning",
+        "sportanalys"
+      ],
+      "web": "https://www.norrortssporten.se/"
     },
     {
       "entry": 1235773361,
@@ -42248,6 +42450,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://eskilstunaunited.se/"
+    },
+    {
+      "entry": 1236631287,
+      "orgNumber": "826000-2673",
+      "orgName": "Lekeryds Missionsf\u00f6rsamling",
+      "comment": "Ungdomssektionen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.lekerydsmissionskyrka.com/"
     },
     {
       "entry": 1236632269,
