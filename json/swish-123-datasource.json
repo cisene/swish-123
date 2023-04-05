@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-03-29-rev-213541",
+    "date": "2023-04-06-rev-004919",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -327,6 +327,15 @@
         "religion"
       ],
       "web": "https://www.turistkyrkan.org/"
+    },
+    {
+      "entry": 1230067769,
+      "orgNumber": "826000-5510",
+      "orgName": "Immanuelskyrkans F\u00f6rsamling J\u00f6nk\u00f6ping",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://immanuelskyrkan.com/"
     },
     {
       "entry": 1230068205,
@@ -11147,6 +11156,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://svensk-kubanska.se/"
+    },
+    {
+      "entry": 1231824267,
+      "orgNumber": "826000-5510",
+      "orgName": "SMU I Immanuelskyrkan J\u00f6nk\u00f6ping",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://immanuelskyrkan.com/"
     },
     {
       "entry": 1231824796,
@@ -22448,6 +22466,15 @@
       "web": "https://e-clubhouse.org/sites/molndalse/"
     },
     {
+      "entry": 1233511144,
+      "orgNumber": "817605-4651",
+      "orgName": "Medicinska Idrottsf\u00f6reningen",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://mfuppsala.se/mifu/"
+    },
+    {
       "entry": 1233511276,
       "orgNumber": "559054-3400",
       "orgName": "V\u00e4ster Konsult & Etreprenad Teknik AB",
@@ -24391,6 +24418,16 @@
       "web": "https://regionalkulturskola.se/"
     },
     {
+      "entry": 1233848736,
+      "orgNumber": "556809-4980",
+      "orgName": "Mrs Skager Coaching / CCG sports AB",
+      "categories": [
+        "golfcoach",
+        "utbildning"
+      ],
+      "web": "https://valldagolf.se/"
+    },
+    {
       "entry": 1233848843,
       "orgNumber": "559198-6335",
       "orgName": "Berga Husvagnsuthyrning",
@@ -24988,6 +25025,15 @@
         "hundklubb"
       ],
       "web": "https://schaferhundklubben.com/"
+    },
+    {
+      "entry": 1233908100,
+      "orgNumber": "817300-4576",
+      "orgName": "Equmenia \u00d6rbyhus",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://bjorkbackskyrkan.se/"
     },
     {
       "entry": 1233908522,
@@ -26907,6 +26953,16 @@
         "ishockey"
       ],
       "web": "https://www.hammarbyhockey.se/"
+    },
+    {
+      "entry": 1234233623,
+      "orgNumber": "802403-2818",
+      "orgName": "Djurg\u00e5rdens Handikappfotboll",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.sportnik.com/group/17962"
     },
     {
       "entry": 1234236196,
@@ -36705,6 +36761,16 @@
       "web": "https://www.bjgk.se/"
     },
     {
+      "entry": 1235705488,
+      "orgNumber": "854600-2836",
+      "orgName": "Fiskeb\u00e4ckskils Tennisklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "tennisklubb"
+      ],
+      "web": "https://www.fiskebackskilstennis.se/"
+    },
+    {
       "entry": 1235706478,
       "orgNumber": "252004-1902",
       "orgName": "B\u00e5stad-\u00d6stra Karups F\u00f6rsamling",
@@ -39161,6 +39227,15 @@
         "b\u00e5tklubb"
       ],
       "web": "http://www.glommensbatklubb.se/"
+    },
+    {
+      "entry": 1236096895,
+      "orgNumber": "885500-1023",
+      "orgName": "Ockelbo Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/ockelbo/"
     },
     {
       "entry": 1236098172,
@@ -41904,6 +41979,15 @@
       "web": "https://www.kuoksuhembygd.se/"
     },
     {
+      "entry": 1236512933,
+      "orgNumber": "857203-8563",
+      "orgName": "Idrottsklubben Surd",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.iksurd.se/"
+    },
+    {
       "entry": 1236515639,
       "orgNumber": "864000-6063",
       "orgName": "Antens Gammaldansare",
@@ -43617,6 +43701,17 @@
       "web": "https://norabygden.com/"
     },
     {
+      "entry": 1236807770,
+      "orgNumber": "556971-1293",
+      "orgName": "Sandbergs Goaltending AB",
+      "categories": [
+        "idrott",
+        "utbildning",
+        "utbildningsst\u00f6d"
+      ],
+      "web": "https://www.sampan.se/"
+    },
+    {
       "entry": 1236808299,
       "orgNumber": "817600-1363",
       "orgName": "\u00d6sterledskyrkan i Gamla Uppsala",
@@ -43665,6 +43760,15 @@
         "sushi"
       ],
       "web": "https://www.eskilstunasushibar.se/"
+    },
+    {
+      "entry": 1236817480,
+      "orgNumber": "817300-1424",
+      "orgName": "Equmeniakyrkan \u00d6rbyhus",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://bjorkbackskyrkan.se/"
     },
     {
       "entry": 1236824619,
