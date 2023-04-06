@@ -868,6 +868,15 @@ entries:
   - trafikskola
   web: https://www.josefssonstrafikskola.se/
 
+- entry: 1230191023
+  orgName: Bara vanlig hälsa
+  orgNumber: 802508-0469
+  comment: null
+  categories:
+  - friskvård
+  - hälsa
+  web: https://baravanlig.se/
+
 - entry: 1230192690
   orgName: Hasse & Tage-Museets Vänner
   orgNumber: 802453-9697
@@ -3827,6 +3836,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://sites.google.com/site/botkyrkasnb/
+
+- entry: 1230753962
+  orgName: UNIK BK
+  orgNumber: 817606-6267
+  comment: null
+  categories:
+  - bandyklubb
+  - idrottsförening
+  web: https://www.laget.se/UNIKBKHerrar_A/
 
 - entry: 1230754754
   orgName: Skellefteå CK - Curling
@@ -17508,6 +17526,15 @@ entries:
   - hundkärror
   web: https://www.wtmetall.se/
 
+- entry: 1233061751
+  orgName: UNIK BK
+  orgNumber: 817606-6267
+  comment: null
+  categories:
+  - bandyklubb
+  - idrottsförening
+  web: https://www.laget.se/UNIKBKHerrar_A/
+
 - entry: 1233063534
   orgName: Team Rynkeby
   orgNumber: 802533-7794
@@ -20805,6 +20832,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1233607140
+  orgName: Föreningen Bajenfonden
+  orgNumber: 802522-3218
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://hammarby-if.se/
 
 - entry: 1233607355
   orgName: Rotary Landskrona-Glumslöv
@@ -25395,6 +25430,15 @@ entries:
   categories:
   - blog
   web: https://uvell.se/
+
+- entry: 1234452082
+  orgName: Örebro Volleyboll Sällskap
+  orgNumber: 802414-4290
+  comment: null
+  categories:
+  - idrottsförening
+  - volleybollklubb
+  web: https://orebrovolley.com/
 
 - entry: 1234454211
   orgName: Insamlingsstiftelsen för Tobias Forsberg

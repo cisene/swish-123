@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-06-rev-004919",
+    "date": "2023-04-07-rev-002220",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -957,6 +957,16 @@
         "trafikskola"
       ],
       "web": "https://www.josefssonstrafikskola.se/"
+    },
+    {
+      "entry": 1230191023,
+      "orgNumber": "802508-0469",
+      "orgName": "Bara vanlig h\u00e4lsa",
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa"
+      ],
+      "web": "https://baravanlig.se/"
     },
     {
       "entry": 1230192690,
@@ -4253,6 +4263,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://sites.google.com/site/botkyrkasnb/"
+    },
+    {
+      "entry": 1230753962,
+      "orgNumber": "817606-6267",
+      "orgName": "UNIK BK",
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/UNIKBKHerrar_A/"
     },
     {
       "entry": 1230754754,
@@ -19593,6 +19613,16 @@
       "web": "https://www.wtmetall.se/"
     },
     {
+      "entry": 1233061751,
+      "orgNumber": "817606-6267",
+      "orgName": "UNIK BK",
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/UNIKBKHerrar_A/"
+    },
+    {
       "entry": 1233063534,
       "orgNumber": "802533-7794",
       "orgName": "Team Rynkeby",
@@ -23248,6 +23278,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233607140,
+      "orgNumber": "802522-3218",
+      "orgName": "F\u00f6reningen Bajenfonden",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://hammarby-if.se/"
     },
     {
       "entry": 1233607355,
@@ -28316,6 +28355,16 @@
         "blog"
       ],
       "web": "https://uvell.se/"
+    },
+    {
+      "entry": 1234452082,
+      "orgNumber": "802414-4290",
+      "orgName": "\u00d6rebro Volleyboll S\u00e4llskap",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "volleybollklubb"
+      ],
+      "web": "https://orebrovolley.com/"
     },
     {
       "entry": 1234454211,

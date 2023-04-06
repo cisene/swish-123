@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-04-06-rev-004919
+# Date: 2023-04-07-rev-002220
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -103,6 +103,7 @@
 "1230186734","857200-0860","GAIS, Göteborgs Atlet- & Idrottssällskap","https://www.gais.se/","fotboll,idrottsförening,sport",""
 "1230190397","817605-9387","Hökåsens Scoutkår","https://hokasen.scout.se/","scoutkår",""
 "1230190694","556192-2971","Josefssons Trafikskola","https://www.josefssonstrafikskola.se/","trafikskola","Örebro V"
+"1230191023","802508-0469","Bara vanlig hälsa","https://baravanlig.se/","friskvård,hälsa",""
 "1230192690","802453-9697","Hasse & Tage-Museets Vänner","https://www.hasseotagemuseet.se/","museum",""
 "1230192724","810707-XXXX","Lucky Tarot / Tarotlink I Stockholm / Aaryan Paras Sharma","https://luckytarot.se/","horoskop,medium,spiritualism",""
 "1230196550","556814-6673","Mode Eva","https://www.modeeva.se/","försäljning,kläder",""
@@ -435,6 +436,7 @@
 "1230753038","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Stockholm, Skönstaholm"
 "1230753053","802537-0241","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Sjuhärad, Bodaskolan F-6"
 "1230753392","802410-9939","SeniorNet Botkyrka","https://sites.google.com/site/botkyrkasnb/","pensionärsklubb",""
+"1230753962","817606-6267","UNIK BK","https://www.laget.se/UNIKBKHerrar_A/","bandyklubb,idrottsförening",""
 "1230754754","894700-5842","Skellefteå CK - Curling","https://www.curlingklubben.se/","curling,idrottsförening","Klubbafton"
 "1230757914","559143-2959","Delborn & Preisler","https://delbornpreisler.se/","heminredning,kläder,mode",""
 "1230757948","802508-0840","George Graham Foundation ideell förening","https://ggfsweden.org/","ideell förening,kulturförening",""
@@ -1980,6 +1982,7 @@
 "1233059060","802417-4503","Östergötlands Sjukhusclowner","http://www.ostergotlandssjukhusclowner.se/","underhållning",""
 "1233059599","802453-6503","Listeners Without Borders","https://listenerswithoutborders.org/","hjälporganisation,utbildning",""
 "1233059953","556788-3789","WT-Metall Norden AB","https://www.wtmetall.se/","hundburar,hundkärror",""
+"1233061751","817606-6267","UNIK BK","https://www.laget.se/UNIKBKHerrar_A/","bandyklubb,idrottsförening",""
 "1233063534","802533-7794","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Skaraborg, Värings skola"
 "1233068939","802519-3924","Föreningen Kulturarv Djurhamn","https://www.djurhamn.eu/","förening,kulturförening",""
 "1233069127","802533-7786","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Lund, Heleneborgsskolan"
@@ -2346,6 +2349,7 @@
 "1233605003","802467-4544","Dandelion Africa Sverige","http://www.dandelionafrica.se/","hjälporganisation",""
 "1233605219","878001-9553","Västerås SportDykarKlubb Mollusca","https://vsdk-mollusca.org/","dykning,sportdykning,utbildning",""
 "1233606431","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Stockholm, Storvretskolan"
+"1233607140","802522-3218","Föreningen Bajenfonden","https://hammarby-if.se/","supporterklubb",""
 "1233607355","802453-9960","Rotary Landskrona-Glumslöv","https://landskrona-glumslov.rotary2390.se/","rotaryklubb",""
 "1233609765","556898-9254","Sverige Runt AB","https://sverigerunt.org/","frågesport,nöje,sport",""
 "1233610813","814800-5831","Väsby Brukshundklubb","https://www.vasbybrukshundklubb.se/","brukshundsklubb,hundsport",""
@@ -2860,6 +2864,7 @@
 "1234436127","556927-6214","Knallebladet / Markbladet AB","https://knallebladet.se/","lokaltidning",""
 "1234441259","802415-5908","Idrefjällens Orienteringsklubb","https://10mila.se/","idrottsförening",""
 "1234445847","556819-1570","Uvell Kommunikation AB","https://uvell.se/","blog",""
+"1234452082","802414-4290","Örebro Volleyboll Sällskap","https://orebrovolley.com/","idrottsförening,volleybollklubb",""
 "1234454211","802481-2839","Insamlingsstiftelsen för Tobias Forsberg","https://stiftelseforsberg.se/","stiftelse",""
 "1234463105","559114-0685","Brand New Profile","https://www.brandnewprofile.com/","eventarrangör,försäljning,reklam",""
 "1234465720","556418-0270","Micke Ahlgrens Orkester Aktiebolag","https://mickeahlgrens.se/","dansband,musik,orkester",""

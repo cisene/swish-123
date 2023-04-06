@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-04-06-rev-004919
+Date:     2023-04-07-rev-002220
 ...
 
 # Swish 123 Nummer
@@ -105,6 +105,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230186734 | 857200-0860 | GAIS, Göteborgs Atlet- & Idrottssällskap                                                             | [Link](https://www.gais.se/) |
 | 1230190397 | 817605-9387 | Hökåsens Scoutkår                                                                                    | [Link](https://hokasen.scout.se/) |
 | 1230190694 | 556192-2971 | Josefssons Trafikskola                                                                               | [Link](https://www.josefssonstrafikskola.se/) |
+| 1230191023 | 802508-0469 | Bara vanlig hälsa                                                                                    | [Link](https://baravanlig.se/) |
 | 1230192690 | 802453-9697 | Hasse & Tage-Museets Vänner                                                                          | [Link](https://www.hasseotagemuseet.se/) |
 | 1230192724 | 810707-XXXX | Lucky Tarot / Tarotlink I Stockholm / Aaryan Paras Sharma                                            | [Link](https://luckytarot.se/) |
 | 1230196550 | 556814-6673 | Mode Eva                                                                                             | [Link](https://www.modeeva.se/) |
@@ -437,6 +438,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230753038 | 802533-7869 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
 | 1230753053 | 802537-0241 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
 | 1230753392 | 802410-9939 | SeniorNet Botkyrka                                                                                   | [Link](https://sites.google.com/site/botkyrkasnb/) |
+| 1230753962 | 817606-6267 | UNIK BK                                                                                              | [Link](https://www.laget.se/UNIKBKHerrar_A/) |
 | 1230754754 | 894700-5842 | Skellefteå CK - Curling                                                                              | [Link](https://www.curlingklubben.se/) |
 | 1230757914 | 559143-2959 | Delborn & Preisler                                                                                   | [Link](https://delbornpreisler.se/) |
 | 1230757948 | 802508-0840 | George Graham Foundation ideell förening                                                             | [Link](https://ggfsweden.org/) |
@@ -1982,6 +1984,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233059060 | 802417-4503 | Östergötlands Sjukhusclowner                                                                         | [Link](http://www.ostergotlandssjukhusclowner.se/) |
 | 1233059599 | 802453-6503 | Listeners Without Borders                                                                            | [Link](https://listenerswithoutborders.org/) |
 | 1233059953 | 556788-3789 | WT-Metall Norden AB                                                                                  | [Link](https://www.wtmetall.se/) |
+| 1233061751 | 817606-6267 | UNIK BK                                                                                              | [Link](https://www.laget.se/UNIKBKHerrar_A/) |
 | 1233063534 | 802533-7794 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
 | 1233068939 | 802519-3924 | Föreningen Kulturarv Djurhamn                                                                        | [Link](https://www.djurhamn.eu/) |
 | 1233069127 | 802533-7786 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
@@ -2348,6 +2351,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233605003 | 802467-4544 | Dandelion Africa Sverige                                                                             | [Link](http://www.dandelionafrica.se/) |
 | 1233605219 | 878001-9553 | Västerås SportDykarKlubb Mollusca                                                                    | [Link](https://vsdk-mollusca.org/) |
 | 1233606431 | 802533-7869 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
+| 1233607140 | 802522-3218 | Föreningen Bajenfonden                                                                               | [Link](https://hammarby-if.se/) |
 | 1233607355 | 802453-9960 | Rotary Landskrona-Glumslöv                                                                           | [Link](https://landskrona-glumslov.rotary2390.se/) |
 | 1233609765 | 556898-9254 | Sverige Runt AB                                                                                      | [Link](https://sverigerunt.org/) |
 | 1233610813 | 814800-5831 | Väsby Brukshundklubb                                                                                 | [Link](https://www.vasbybrukshundklubb.se/) |
@@ -2862,6 +2866,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234436127 | 556927-6214 | Knallebladet / Markbladet AB                                                                         | [Link](https://knallebladet.se/) |
 | 1234441259 | 802415-5908 | Idrefjällens Orienteringsklubb                                                                       | [Link](https://10mila.se/) |
 | 1234445847 | 556819-1570 | Uvell Kommunikation AB                                                                               | [Link](https://uvell.se/) |
+| 1234452082 | 802414-4290 | Örebro Volleyboll Sällskap                                                                           | [Link](https://orebrovolley.com/) |
 | 1234454211 | 802481-2839 | Insamlingsstiftelsen för Tobias Forsberg                                                             | [Link](https://stiftelseforsberg.se/) |
 | 1234463105 | 559114-0685 | Brand New Profile                                                                                    | [Link](https://www.brandnewprofile.com/) |
 | 1234465720 | 556418-0270 | Micke Ahlgrens Orkester Aktiebolag                                                                   | [Link](https://mickeahlgrens.se/) |
