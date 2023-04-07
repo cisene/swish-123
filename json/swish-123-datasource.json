@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-07-rev-002220",
+    "date": "2023-04-07-rev-170357",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7896,6 +7896,15 @@
       "web": "https://spelberoende.se/"
     },
     {
+      "entry": 1231352830,
+      "orgNumber": "802482-1921",
+      "orgName": "B\u00f6rje Salming ALS-stiftelse",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://borjesalmingstiftelse.se/"
+    },
+    {
       "entry": 1231355189,
       "orgNumber": "897300-0261",
       "orgName": "Kiruna jakt- och fiskev\u00e5rdsf\u00f6rening",
@@ -10068,6 +10077,19 @@
         "skyttef\u00f6rening"
       ],
       "web": "https://idrottonline.se/Wemmentorp-OrkelljungaSkF-Skyttesport/"
+    },
+    {
+      "entry": 1231677616,
+      "orgNumber": "540104-XXXX",
+      "orgName": "Omduvill / Margaretha T\u00e4rnstr\u00f6m",
+      "categories": [
+        "healing",
+        "meditation",
+        "medium",
+        "reiki",
+        "yoga"
+      ],
+      "web": "https://www.omduvill.se/"
     },
     {
       "entry": 1231686997,
@@ -14955,6 +14977,17 @@
       "web": "https://www.vibyforsamling.se/"
     },
     {
+      "entry": 1232373884,
+      "orgNumber": "620313-XXXX",
+      "orgName": "Zonterapi Link\u00f6ping - Corazone / Rose-Marie Andersson",
+      "categories": [
+        "homeopati",
+        "resonansbehandling",
+        "zoneterapi"
+      ],
+      "web": "http://www.corazone.se/"
+    },
+    {
       "entry": 1232374692,
       "orgNumber": "849000-9233",
       "orgName": "Sl\u00f6inge TK - Tennis",
@@ -18097,6 +18130,16 @@
       "web": "https://feministisktinitiativ.se/"
     },
     {
+      "entry": 1232824712,
+      "orgNumber": "556224-5034",
+      "orgName": "Comet Norden AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "grossistfirma"
+      ],
+      "web": "https://www.comet.nu/"
+    },
+    {
       "entry": 1232825263,
       "orgNumber": "813200-2810",
       "orgName": "J\u00e4rf\u00e4lla Kvinnojour",
@@ -18279,6 +18322,18 @@
         "stuguthyrning"
       ],
       "web": "https://www.norrskenlodge.com/"
+    },
+    {
+      "entry": 1232875839,
+      "orgNumber": "770426-XXXX",
+      "orgName": "NapraSpa Anna / Anna Didi",
+      "categories": [
+        "akupunktur",
+        "healing",
+        "medicinsk akupunktur",
+        "reiki"
+      ],
+      "web": "https://napraspa.se/"
     },
     {
       "entry": 1232880946,
@@ -19959,6 +20014,16 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://www.facebook.com/groups/105270962856563"
+    },
+    {
+      "entry": 1233129400,
+      "orgNumber": "826002-2580",
+      "orgName": "Mullsj\u00f6 Allm\u00e4nna Innebandys\u00e4llskap",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.mullsjoais.se/"
     },
     {
       "entry": 1233129939,
@@ -24098,6 +24163,16 @@
       "web": "https://jourmiranda.se/"
     },
     {
+      "entry": 1233790037,
+      "orgNumber": "802511-3039",
+      "orgName": "Locker Room Talk",
+      "categories": [
+        "ungdomsverksamhet",
+        "utbildning"
+      ],
+      "web": "https://lockerroomtalk.se/"
+    },
+    {
       "entry": 1233790698,
       "orgNumber": "710506-XXXX",
       "orgName": "Konstn\u00e4rstryck Andreas Krook",
@@ -24414,6 +24489,15 @@
         "stiftelse"
       ],
       "web": "https://kevinstiftelsen.se/"
+    },
+    {
+      "entry": 1233831484,
+      "orgNumber": "802482-1921",
+      "orgName": "B\u00f6rje Salming ALS-stiftelse",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://borjesalmingstiftelse.se/"
     },
     {
       "entry": 1233832706,
@@ -30374,6 +30458,16 @@
       "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-varmdo/foreningar/gustavsberg-ingaro.html"
     },
     {
+      "entry": 1234783585,
+      "orgNumber": "559231-9270",
+      "orgName": "Fotfixaren / Fotfixaren Helene Thomasson AB",
+      "categories": [
+        "fotv\u00e5rd",
+        "massage"
+      ],
+      "web": "http://www.fotfixaren.se/"
+    },
+    {
       "entry": 1234790010,
       "orgNumber": "802467-8438",
       "orgName": "Urbergsgruppen Klintehamn",
@@ -31825,6 +31919,15 @@
       "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/lanna"
     },
     {
+      "entry": 1235047618,
+      "orgNumber": "802502-3220",
+      "orgName": "Help at Hand",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.helpathand.se/"
+    },
+    {
       "entry": 1235047709,
       "orgNumber": "769621-8747",
       "orgName": "Syntolkning Nu i Sverige Ekonomisk f\u00f6rening",
@@ -32568,6 +32671,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/ljungby/annerstads-forsamling"
+    },
+    {
+      "entry": 1235127618,
+      "orgNumber": "897600-1746",
+      "orgName": "Kangos IK",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kangos.com/f%C3%B6reningar%20i%20kangos-2/kangos-idrottsklubb.html"
     },
     {
       "entry": 1235127857,
@@ -35240,6 +35352,15 @@
       "web": "https://www.ekho.se/"
     },
     {
+      "entry": 1235503933,
+      "orgNumber": "600608-XXXX",
+      "orgName": "Fotv\u00e5rdskliniken / Karin Fransson",
+      "categories": [
+        "fotv\u00e5rd"
+      ],
+      "web": "http://www.fotdok.se/"
+    },
+    {
       "entry": 1235510557,
       "orgNumber": "836200-5251",
       "orgName": "Nogersunds Hembygdsf\u00f6rening",
@@ -37680,6 +37801,15 @@
         "religion"
       ],
       "web": "http://degerfors.pingst.se/"
+    },
+    {
+      "entry": 1235847744,
+      "orgNumber": "897600-1746",
+      "orgName": "Kangos IK",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kangos.com/f%C3%B6reningar%20i%20kangos-2/kangos-idrottsklubb.html"
     },
     {
       "entry": 1235849807,
@@ -42810,6 +42940,18 @@
       "web": "https://americanakitaklubbsverige.se/"
     },
     {
+      "entry": 1236682801,
+      "orgNumber": "650802-XXXX",
+      "orgName": "Vita Raeda / Iris Kr\u00fcger",
+      "categories": [
+        "healing",
+        "massage",
+        "reiki",
+        "yoga"
+      ],
+      "web": "https://www.vitaraeda.com/"
+    },
+    {
       "entry": 1236682900,
       "orgNumber": "802419-0236",
       "orgName": "Exoteriska Fonden",
@@ -43371,6 +43513,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236758023,
+      "orgNumber": "802529-3278",
+      "orgName": "Reiki-Ringen I V\u00e4st",
+      "categories": [
+        "healing",
+        "reiki",
+        "yoga"
+      ],
+      "web": "https://www.reikiringenivast.se/"
     },
     {
       "entry": 1236758874,
