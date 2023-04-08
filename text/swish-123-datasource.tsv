@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-04-07-rev-170357
+# Date: 2023-04-08-rev-113310
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -260,6 +260,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230442046	252004-9947	Gävle Församling	https://www.svenskakyrkan.se/gavle/stromsbro-kyrka	religion	Strömsbro kyrka kollekt
 1230450973	802430-7962	Camp Sweden TIFO	http://campsweden.se/	fotboll,supporterklubb	
 1230451054	802493-4070	Torps Bygdegård ideell förening	https://torpsbygdegard.se/	bygdegårdsförening,förening	
+1230451302	559211-3707	Min Stund AB	https://www.minstund.com/	fotvård,massage	
 1230451765	802505-7657	Amigos Mios	https://www.amigosmios.se/	djurskydd,hundhem	
 1230453928	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Stockholm, Igelsta skola
 1230460634	825003-8448	Ljusfallshammars Byaråd	https://ljusfallshammar.nu/	byalag,förening	

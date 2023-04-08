@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-07-rev-170357",
+    "date": "2023-04-08-rev-113310",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2524,6 +2524,16 @@
         "f\u00f6rening"
       ],
       "web": "https://torpsbygdegard.se/"
+    },
+    {
+      "entry": 1230451302,
+      "orgNumber": "559211-3707",
+      "orgName": "Min Stund AB",
+      "categories": [
+        "fotv\u00e5rd",
+        "massage"
+      ],
+      "web": "https://www.minstund.com/"
     },
     {
       "entry": 1230451765,

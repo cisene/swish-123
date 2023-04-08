@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-04-07-rev-170357
+Date:     2023-04-08-rev-113310
 ...
 
 # Swish 123 Nummer
@@ -262,6 +262,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230442046 | 252004-9947 | Gävle Församling                                                                                     | [Link](https://www.svenskakyrkan.se/gavle/stromsbro-kyrka) |
 | 1230450973 | 802430-7962 | Camp Sweden TIFO                                                                                     | [Link](http://campsweden.se/) |
 | 1230451054 | 802493-4070 | Torps Bygdegård ideell förening                                                                      | [Link](https://torpsbygdegard.se/) |
+| 1230451302 | 559211-3707 | Min Stund AB                                                                                         | [Link](https://www.minstund.com/) |
 | 1230451765 | 802505-7657 | Amigos Mios                                                                                          | [Link](https://www.amigosmios.se/) |
 | 1230453928 | 802533-7869 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
 | 1230460634 | 825003-8448 | Ljusfallshammars Byaråd                                                                              | [Link](https://ljusfallshammar.nu/) |
