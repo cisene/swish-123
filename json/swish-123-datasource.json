@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-08-rev-113310",
+    "date": "2023-04-11-rev-194256",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1067,6 +1067,15 @@
       "web": "https://www.vik.se/"
     },
     {
+      "entry": 1230214064,
+      "orgNumber": "559315-6366",
+      "orgName": "SAMA Yoga AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.samayoga.info/"
+    },
+    {
       "entry": 1230214676,
       "orgNumber": "556466-2087",
       "orgName": "MC Proffsen i J\u00f6nk\u00f6ping AB",
@@ -1457,6 +1466,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230266320,
+      "orgNumber": "556961-5809",
+      "orgName": "Strumpis / Panatta Of Sweden AB",
+      "categories": [
+        "fotv\u00e5rd",
+        "kompressionsstrumpor",
+        "st\u00f6dstrumpor"
+      ],
+      "web": "https://www.strumpis.se/"
     },
     {
       "entry": 1230266411,
@@ -1891,6 +1911,17 @@
       "web": "http://www.filadelfiaorebro.se/"
     },
     {
+      "entry": 1230336172,
+      "orgNumber": "556836-9465",
+      "orgName": "Sp\u00e5nga Friskv\u00e5rd H\u00e4lsocenter AB",
+      "categories": [
+        "fotv\u00e5rd",
+        "friskv\u00e5rd",
+        "massage"
+      ],
+      "web": "https://spangafriskvard.se/"
+    },
+    {
       "entry": 1230336289,
       "orgNumber": "802439-0984",
       "orgName": "F\u00f6reningen F\u00f6rvildade Katter, FFK",
@@ -2273,6 +2304,15 @@
       "web": "https://www.faktum.se/"
     },
     {
+      "entry": 1230399972,
+      "orgNumber": "556930-0956",
+      "orgName": "Essense i Kiruna AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://essense.se/"
+    },
+    {
       "entry": 1230401851,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -2319,6 +2359,15 @@
         "religion"
       ],
       "web": "https://www.hultsfredpingst.se/"
+    },
+    {
+      "entry": 1230413807,
+      "orgNumber": "559264-0741",
+      "orgName": "Liv i Balans Dalarna AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://livibalansdalarna.se/"
     },
     {
       "entry": 1230416032,
@@ -7258,6 +7307,15 @@
       "web": "https://mastarregistret.se/"
     },
     {
+      "entry": 1231240902,
+      "orgNumber": "813600-3996",
+      "orgName": "PRO Liding\u00f6",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-lidingo/foreningar/lidingo.html"
+    },
+    {
       "entry": 1231241306,
       "orgNumber": "559283-2546",
       "orgName": "Sigfrids - Bageri, Bistro & Bar AB",
@@ -7379,6 +7437,15 @@
         "hundsport"
       ],
       "web": "http://www.enkopingsbk.se/"
+    },
+    {
+      "entry": 1231259167,
+      "orgNumber": "802408-4991",
+      "orgName": "SPF Seniorerna Boo",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-boo/"
     },
     {
       "entry": 1231259183,
@@ -8603,6 +8670,15 @@
       "categories": [
         "religion"
       ]
+    },
+    {
+      "entry": 1231474253,
+      "orgNumber": "845002-2903",
+      "orgName": "SPF Lund-Centrum",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/lundcentrum/"
     },
     {
       "entry": 1231474378,
@@ -12181,6 +12257,16 @@
       "web": "https://goteborg.kommunisterna.org/"
     },
     {
+      "entry": 1231999937,
+      "orgNumber": "893202-7066",
+      "orgName": "R\u00f6tvikens Byalag",
+      "categories": [
+        "byalag",
+        "camping"
+      ],
+      "web": "https://ansattfjallen.com/rotviken/"
+    },
+    {
       "entry": 1232001782,
       "orgNumber": "252000-6319",
       "orgName": "Linneryds F\u00f6rsamling",
@@ -13282,6 +13368,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1232158913,
+      "orgNumber": "559134-6399",
+      "orgName": "Glitne AB",
+      "categories": [
+        "glutenintolerans",
+        "laktosintolerans"
+      ],
+      "web": "https://glutenochmjolkfri.se/"
+    },
+    {
       "entry": 1232160760,
       "orgNumber": "802532-9262",
       "orgName": "Team Rynkeby",
@@ -13679,6 +13775,15 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/falkenbergskvinnojour/"
+    },
+    {
+      "entry": 1232207975,
+      "orgNumber": "460219-XXXX",
+      "orgName": "K\u00e4rringbloggen / Helene Bergman Media / Helene Bergman",
+      "categories": [
+        "blog"
+      ],
+      "web": "https://karringbloggen.se/"
     },
     {
       "entry": 1232208064,
@@ -16278,6 +16383,15 @@
         "konferens"
       ],
       "web": "https://www.kragga.se/"
+    },
+    {
+      "entry": 1232602043,
+      "orgNumber": "802528-4368",
+      "orgName": "SPF Seniorerna Polstj\u00e4rnan",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/polstjarnan-timra/"
     },
     {
       "entry": 1232603223,
@@ -22391,6 +22505,16 @@
       "web": "https://www.alzheimerstiftelsen.com/"
     },
     {
+      "entry": 1233490273,
+      "orgNumber": "802467-3801",
+      "orgName": "Sveriges Papegojf\u00f6rening",
+      "categories": [
+        "husdjur",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.papegojforening.se/"
+    },
+    {
       "entry": 1233495926,
       "orgNumber": "802515-4066",
       "orgName": "Eezer Sverige Ideell F\u00f6rening",
@@ -24369,6 +24493,16 @@
         "religion"
       ],
       "web": "https://pingstung.se/"
+    },
+    {
+      "entry": 1233811817,
+      "orgNumber": "710830-XXXX",
+      "orgName": "Ume\u00e5 Yogaskola / Susanne Edenor",
+      "categories": [
+        "utbildning",
+        "yoga"
+      ],
+      "web": "https://www.umeayogaskola.se/"
     },
     {
       "entry": 1233811908,
@@ -29597,6 +29731,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1234605598,
+      "orgNumber": "875001-9013",
+      "orgName": "Internationella Kvinnof\u00f6rbundet",
+      "categories": [
+        "f\u00f6rbund",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.ikfsverige.com/"
+    },
+    {
       "entry": 1234606554,
       "orgNumber": "857203-4042",
       "orgName": "Supporterklubben \u00c4nglarna",
@@ -33005,6 +33149,16 @@
       "web": "http://www.rewilding-sweden.com/"
     },
     {
+      "entry": 1235163910,
+      "orgNumber": "556572-0199",
+      "orgName": "Aqua Spa i Skellefte\u00e5 AB",
+      "categories": [
+        "fotv\u00e5rd",
+        "massage"
+      ],
+      "web": "https://www.aquaspa.se/"
+    },
+    {
       "entry": 1235164272,
       "orgNumber": "825003-2219",
       "orgName": "Intressef\u00f6reningen Lilla Ark\u00f6sundet",
@@ -36392,6 +36546,15 @@
       "web": "https://www.slu.se/fakulteter/vh/forskning/sallskapsdjurens_forskningsfond/"
     },
     {
+      "entry": 1235627195,
+      "orgNumber": "556889-8463",
+      "orgName": "Webb.se / Perfect Sense AB",
+      "categories": [
+        "internettj\u00e4nster"
+      ],
+      "web": "https://www.webb.se/"
+    },
+    {
       "entry": 1235627708,
       "orgNumber": "898800-4191",
       "orgName": "Lillpite Idrottsf\u00f6rening",
@@ -39529,6 +39692,16 @@
       ]
     },
     {
+      "entry": 1236117154,
+      "orgNumber": "721007-XXXX",
+      "orgName": "Energikraft / CMM Redovisning / Marie Melin",
+      "categories": [
+        "hypnos",
+        "yoga"
+      ],
+      "web": "https://energikraft.com/"
+    },
+    {
       "entry": 1236119788,
       "orgNumber": "791011-XXXX",
       "orgName": "\u00c4ltas medicinska fotv\u00e5rd & ReflexRummet",
@@ -42646,6 +42819,15 @@
       "web": "https://smedstorp.se/"
     },
     {
+      "entry": 1236623839,
+      "orgNumber": "700603-XXXX",
+      "orgName": "Guldtassens Trim & Hund Spa / Anette Hissing",
+      "categories": [
+        "hundtrim"
+      ],
+      "web": "https://www.guldtassens.com/"
+    },
+    {
       "entry": 1236624415,
       "orgNumber": "802417-7076",
       "orgName": "Lungcancerf\u00f6reningen",
@@ -42764,6 +42946,15 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://fritid.attention.se/"
+    },
+    {
+      "entry": 1236639611,
+      "orgNumber": "838800-0187",
+      "orgName": "Borrby Byalag",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.borrby.se/"
     },
     {
       "entry": 1236641807,
@@ -42948,6 +43139,16 @@
         "hundklubb"
       ],
       "web": "https://americanakitaklubbsverige.se/"
+    },
+    {
+      "entry": 1236680615,
+      "orgNumber": "878500-7512",
+      "orgName": "Kl\u00f6ver Dam V\u00e4stra M\u00e4lardalen",
+      "categories": [
+        "f\u00f6retagande",
+        "f\u00f6retagarf\u00f6rening"
+      ],
+      "web": "https://www.kloverdamvm.se/"
     },
     {
       "entry": 1236682801,
@@ -44241,6 +44442,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236880108,
+      "orgNumber": "559387-8159",
+      "orgName": "YogaJenny / Jenny Sj\u00f6berg Yoga AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.yogajenny.se/"
     },
     {
       "entry": 1236882237,
