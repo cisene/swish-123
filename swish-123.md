@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-04-11-rev-194256
+Date:     2023-04-12-rev-174204
 ...
 
 # Swish 123 Nummer
@@ -3531,6 +3531,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235422340 | 802533-7869 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
 | 1235422506 | 802539-3649 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
 | 1235422654 | 843000-7990 | Vasatorps Golfklubb                                                                                  | [Link](https://www.vasatorp.golf/) |
+| 1235425525 | 802533-1649 | Makers of Västerås                                                                                   | [Link](https://makersvasteras.se/) |
 | 1235427042 | 893201-4858 | Arbetarrörelsens hyllnings- och blomsterfond i Jämtland                                              | [Link](https://socialdemokraternajamtland.se/vart-parti/arbetarrorelsens-hyllnings-och-blomsterfond/) |
 | 1235430020 | 817606-8701 | Trosa Ridsällskap, TRS                                                                               | [Link](https://idrottonline.se/TrosaRS-Ridsport/) |
 | 1235430186 | 802006-1688 | Frälsningsarmén                                                                                      | [Link](https://www.fralsningsarmen.se/Sodertalje/) |

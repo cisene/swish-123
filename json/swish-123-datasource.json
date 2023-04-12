@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-11-rev-194256",
+    "date": "2023-04-12-rev-174204",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -35025,6 +35025,16 @@
         "golfklubb"
       ],
       "web": "https://www.vasatorp.golf/"
+    },
+    {
+      "entry": 1235425525,
+      "orgNumber": "802533-1649",
+      "orgName": "Makers of V\u00e4ster\u00e5s",
+      "categories": [
+        "intressef\u00f6rening",
+        "makerspace"
+      ],
+      "web": "https://makersvasteras.se/"
     },
     {
       "entry": 1235427042,
