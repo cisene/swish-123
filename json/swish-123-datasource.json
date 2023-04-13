@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-12-rev-174204",
+    "date": "2023-04-13-rev-212159",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -238,6 +238,15 @@
         "ridklubb"
       ],
       "web": "https://www.frigg.se/"
+    },
+    {
+      "entry": 1230052332,
+      "orgNumber": "802409-5005",
+      "orgName": "Saltsj\u00f6badens Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://saltsjobadenshembygdsforening.se/"
     },
     {
       "entry": 1230052894,
@@ -2477,6 +2486,17 @@
       "web": "http://www.lysingsbadetsgk.com/"
     },
     {
+      "entry": 1230434290,
+      "orgNumber": "559194-9440",
+      "orgName": "LaxTon Ghost Sweden AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "partihandel",
+        "postorder"
+      ],
+      "web": "https://www.laxton.se/"
+    },
+    {
       "entry": 1230435354,
       "orgNumber": "802470-2451",
       "orgName": "Quinnoqraft Sandviken",
@@ -3216,6 +3236,16 @@
         "religion"
       ],
       "web": "https://www.bottnarydpingst.se/"
+    },
+    {
+      "entry": 1230565747,
+      "orgNumber": "802490-8900",
+      "orgName": "Uppsala Makerspace",
+      "categories": [
+        "intressef\u00f6rening",
+        "makerspace"
+      ],
+      "web": "https://www.uppsalamakerspace.se/"
     },
     {
       "entry": 1230567289,
@@ -7457,6 +7487,15 @@
       "web": "https://retinanytt.se/"
     },
     {
+      "entry": 1231262393,
+      "orgNumber": "556808-7976",
+      "orgName": "Leufstabruk Bryggeri AB",
+      "categories": [
+        "bryggeri"
+      ],
+      "web": "https://leufstabrukbryggeri.se/"
+    },
+    {
       "entry": 1231265537,
       "orgNumber": "559345-4803",
       "orgName": "Mtwapa AB",
@@ -9004,7 +9043,7 @@
         "l\u00e4ngdskid\u00e5kning",
         "skidl\u00f6parklubb"
       ],
-      "web": "https://xn--borssk-kua.se/"
+      "web": "https://bor\u00e5ssk.se/"
     },
     {
       "entry": 1231493931,
@@ -11487,6 +11526,15 @@
       "web": "http://www.sommarogolf.se/"
     },
     {
+      "entry": 1231882067,
+      "orgNumber": "832400-7809",
+      "orgName": "Vissefj\u00e4rda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/vissefjarda"
+    },
+    {
       "entry": 1231882216,
       "orgNumber": "814800-4610",
       "orgName": "Sk\u00e5nela IF Handboll",
@@ -13759,6 +13807,16 @@
       "web": "https://www.yogaresan.se/"
     },
     {
+      "entry": 1232204394,
+      "orgNumber": "556902-4788",
+      "orgName": "Baggage Loppis / Daghia AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "loppis"
+      ],
+      "web": "https://www.bagageloppis.se/"
+    },
+    {
       "entry": 1232206779,
       "orgNumber": "760515-XXXX",
       "orgName": "Elisedahls ridskola / Johanna Holmgren",
@@ -13863,7 +13921,7 @@
         "l\u00e4ngdskid\u00e5kning",
         "skidl\u00f6parklubb"
       ],
-      "web": "https://xn--borssk-kua.se/"
+      "web": "https://bor\u00e5ssk.se/"
     },
     {
       "entry": 1232218436,
@@ -18694,6 +18752,16 @@
       "web": "http://bostonterrierklubben.se/"
     },
     {
+      "entry": 1232904159,
+      "orgNumber": "556902-4788",
+      "orgName": "Baggage Loppis / Daghia AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "loppis"
+      ],
+      "web": "https://www.bagageloppis.se/"
+    },
+    {
       "entry": 1232904241,
       "orgNumber": "845001-3357",
       "orgName": "Lions Club Staffanstorp",
@@ -21061,7 +21129,7 @@
       "orgNumber": "802522-1865",
       "orgName": "B\u00e5stad Makerspace",
       "categories": [
-        "f\u00f6rening",
+        "intressef\u00f6rening",
         "makerspace"
       ],
       "web": "http://bastadmakerspace.se/"
@@ -24179,6 +24247,15 @@
       "web": "https://www.nattvandra.nu/"
     },
     {
+      "entry": 1233747789,
+      "orgNumber": "530529-XXXX",
+      "orgName": "Fagersta Nyheter / Ola Wahlsten",
+      "categories": [
+        "lokaltidning"
+      ],
+      "web": "https://fagerstanyheter.com/"
+    },
+    {
       "entry": 1233749173,
       "orgNumber": "846002-9740",
       "orgName": "Victoriateatern / Kulturf\u00f6reningen Kontrast",
@@ -27008,6 +27085,16 @@
       "web": "https://www.djurobyalag.se/"
     },
     {
+      "entry": 1234203535,
+      "orgNumber": "802498-4315",
+      "orgName": "Skellefte\u00e5 Makerspace",
+      "categories": [
+        "intressef\u00f6rening",
+        "makerspace"
+      ],
+      "web": "https://skemake.se/"
+    },
+    {
       "entry": 1234203683,
       "orgNumber": "889600-6478",
       "orgName": "\u00d6rnsk\u00f6ldsviks MC Club, \u00d6MCC",
@@ -27843,6 +27930,16 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Borlange/"
+    },
+    {
+      "entry": 1234345260,
+      "orgNumber": "802514-8217",
+      "orgName": "Smedjebacken Makerspace",
+      "categories": [
+        "intressef\u00f6rening",
+        "makerspace"
+      ],
+      "web": "https://smbmakerspace.se/"
     },
     {
       "entry": 1234349361,
@@ -37809,6 +37906,15 @@
       "web": "https://beetroot.co/aid-for-ukraine/"
     },
     {
+      "entry": 1235815352,
+      "orgNumber": "846003-5358",
+      "orgName": "Support For Ukraine / Malm\u00f6 FN-f\u00f6rening",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.supportforukraine.org/"
+    },
+    {
       "entry": 1235820105,
       "orgNumber": "802439-8797",
       "orgName": "Burundi-hj\u00e4lpen",
@@ -38124,7 +38230,7 @@
       "entry": 1235859954,
       "orgNumber": "837600-7095",
       "orgName": "Rotary \u00c5storp",
-      "web": "https://www.xn--sdersrallyt-08a1t.se/contact/"
+      "web": "https://www.s\u00f6der\u00e5srallyt.se/"
     },
     {
       "entry": 1235867619,
@@ -40437,6 +40543,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1236215008,
+      "orgNumber": "897300-0329",
+      "orgName": "Kiruna Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.kyrktorget.se/missionskyrkan.kiruna"
+    },
+    {
       "entry": 1236215230,
       "orgNumber": "864501-6562",
       "orgName": "F\u00f6reningen f\u00f6r Olympisk Kortdistansskjutning FOK Bor\u00e5s",
@@ -40702,6 +40817,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://hjalpmedelutangranser.se/"
+    },
+    {
+      "entry": 1236267769,
+      "orgNumber": "812800-8912",
+      "orgName": "S.t. Petrus och Paulos Syrisk Ortodoxa Kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.stpetrusopaulus.se/"
     },
     {
       "entry": 1236268593,
@@ -42807,6 +42931,15 @@
         "religion"
       ],
       "web": "https://www.klovertraskpingst.com/"
+    },
+    {
+      "entry": 1236619340,
+      "orgNumber": "802420-4383",
+      "orgName": "Stallarholmens N\u00e4tverk",
+      "categories": [
+        "ideell f\u00f6rening"
+      ],
+      "web": "https://www.stallarholmen.info/"
     },
     {
       "entry": 1236620215,
