@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-13-rev-212159",
+    "date": "2023-04-13-rev-224912",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -66,6 +66,15 @@
       "web": "https://www.rodakorset.se/"
     },
     {
+      "entry": 1230004697,
+      "orgNumber": "802450-2349",
+      "orgName": "Tango Sol",
+      "categories": [
+        "dansundervisning"
+      ],
+      "web": "http://www.tangosol.se/"
+    },
+    {
       "entry": 1230004945,
       "orgNumber": "849000-3574",
       "orgName": "L\u00e5ngasands Idrottsf\u00f6rening",
@@ -73,6 +82,25 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.langasandsif.com/"
+    },
+    {
+      "entry": 1230005710,
+      "orgNumber": "556909-2140",
+      "orgName": "Crossfit Eken / Ekens Sport och Media AB",
+      "categories": [
+        "crossfit",
+        "tr\u00e4ning"
+      ],
+      "web": "https://www.crossfiteken.se/"
+    },
+    {
+      "entry": 1230007161,
+      "orgNumber": "650322-XXXX",
+      "orgName": "Crude Boot Company / Malin Schauermann",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "konfektion"
+      ]
     },
     {
       "entry": 1230007344,
@@ -93,6 +121,15 @@
         "reumatism"
       ],
       "web": "https://sle.reumatiker.se/"
+    },
+    {
+      "entry": 1230008797,
+      "orgNumber": "556943-2056",
+      "orgName": "Apelviksstrand",
+      "categories": [
+        "logi"
+      ],
+      "web": "https://www.apelvikstrand.se/"
     },
     {
       "entry": 1230008854,
@@ -124,6 +161,16 @@
       "web": "https://fortunastrandkrog.se/"
     },
     {
+      "entry": 1230009035,
+      "orgNumber": "556766-1193",
+      "orgName": "Svenska Spikmattan AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "utrustning"
+      ],
+      "web": "https://spikmattan.com/"
+    },
+    {
       "entry": 1230009381,
       "orgNumber": "822001-0626",
       "orgName": "Link\u00f6pings MS - Bilsport",
@@ -131,6 +178,16 @@
         "motorsport"
       ],
       "web": "https://idrottonline.se/LinkopingsMS-Bilsport/"
+    },
+    {
+      "entry": 1230013367,
+      "orgNumber": "817606-5749",
+      "orgName": "V\u00e4stanfors IF Fotbollsklubb",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/VastanforsFotboll/"
     },
     {
       "entry": 1230017442,
@@ -201,6 +258,25 @@
       "web": "https://teamalbertmtb.com/"
     },
     {
+      "entry": 1230040097,
+      "orgNumber": "620526-XXXX",
+      "orgName": "LifeTV Sverige / Hillevi Sj\u00f6gren",
+      "categories": [
+        "lokaltelevision",
+        "spiritualism"
+      ],
+      "web": "https://lifetv.nu/"
+    },
+    {
+      "entry": 1230040311,
+      "orgNumber": "802513-8861",
+      "orgName": "PRO Lindesberg",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg.html"
+    },
+    {
       "entry": 1230040691,
       "orgNumber": "660915-XXXX",
       "orgName": "Nordebros Tr\u00e4dg\u00e5rd / Kent Haglund",
@@ -209,6 +285,13 @@
         "tr\u00e4dg\u00e5rdsplanering"
       ],
       "web": "https://nordebrostradgard.weebly.com/"
+    },
+    {
+      "entry": 1230040899,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Musikk\u00e5ren Norrk\u00f6ping",
+      "web": "https://www.fralsningsarmen.se/norrkoping/"
     },
     {
       "entry": 1230045567,

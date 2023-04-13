@@ -52,6 +52,14 @@ entries:
   - hjälporganisation
   web: https://www.rodakorset.se/
 
+- entry: 1230004697
+  orgName: Tango Sol
+  orgNumber: 802450-2349
+  comment: null
+  categories:
+  - dansundervisning
+  web: http://www.tangosol.se/
+
 - entry: 1230004945
   orgName: Långasands Idrottsförening
   orgNumber: 849000-3574
@@ -59,6 +67,24 @@ entries:
   categories:
   - idrottsförening
   web: http://www.langasandsif.com/
+
+- entry: 1230005710
+  orgName: Crossfit Eken / Ekens Sport och Media AB
+  orgNumber: 556909-2140
+  comment: null
+  categories:
+  - crossfit
+  - träning
+  web: https://www.crossfiteken.se/
+
+- entry: 1230007161
+  orgName: Crude Boot Company / Malin Schauermann
+  orgNumber: 650322-XXXX
+  comment: null
+  categories:
+  - försäljning
+  - konfektion
+  web: null
 
 - entry: 1230007344
   orgName: SkrattYoga / HT Helhetstanken
@@ -77,6 +103,14 @@ entries:
   - patientförening
   - reumatism
   web: https://sle.reumatiker.se/
+
+- entry: 1230008797
+  orgName: Apelviksstrand
+  orgNumber: 556943-2056
+  comment: null
+  categories:
+  - logi
+  web: https://www.apelvikstrand.se/
 
 - entry: 1230008854
   orgName: Kungliga Automobil Klubben, KAK
@@ -104,6 +138,15 @@ entries:
   - restaurant
   web: https://fortunastrandkrog.se/
 
+- entry: 1230009035
+  orgName: Svenska Spikmattan AB
+  orgNumber: 556766-1193
+  comment: null
+  categories:
+  - försäljning
+  - utrustning
+  web: https://spikmattan.com/
+
 - entry: 1230009381
   orgName: Linköpings MS - Bilsport
   orgNumber: 822001-0626
@@ -111,6 +154,15 @@ entries:
   categories:
   - motorsport
   web: https://idrottonline.se/LinkopingsMS-Bilsport/
+
+- entry: 1230013367
+  orgName: Västanfors IF Fotbollsklubb
+  orgNumber: 817606-5749
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/VastanforsFotboll/
 
 - entry: 1230017442
   orgName: Bro-Håbo Brukshundklubb
@@ -173,6 +225,23 @@ entries:
   - mountainbikeklubb
   web: https://teamalbertmtb.com/
 
+- entry: 1230040097
+  orgName: LifeTV Sverige / Hillevi Sjögren
+  orgNumber: 620526-XXXX
+  comment: null
+  categories:
+  - lokaltelevision
+  - spiritualism
+  web: https://lifetv.nu/
+
+- entry: 1230040311
+  orgName: PRO Lindesberg
+  orgNumber: 802513-8861
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg.html
+
 - entry: 1230040691
   orgName: Nordebros Trädgård / Kent Haglund
   orgNumber: 660915-XXXX
@@ -181,6 +250,13 @@ entries:
   - trädgårdsodling
   - trädgårdsplanering
   web: https://nordebrostradgard.weebly.com/
+
+- entry: 1230040899
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Musikkåren Norrköping
+  categories: null
+  web: https://www.fralsningsarmen.se/norrkoping/
 
 - entry: 1230045567
   orgName: Partiet MoD
@@ -242,6 +318,13 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.astorprf.nu/
+
+- entry: 1230053942
+  orgName: Telegrafverkets Pistolskytteförening
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1230055160
   orgName: Familjen Einhorns Stiftelse

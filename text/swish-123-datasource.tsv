@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-04-13-rev-212159
+# Date: 2023-04-13-rev-224912
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -13,13 +13,19 @@ entry	orgNumber	orgName	web	categories	comment
 1230004648	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,hjälporganisation	
 1230004655	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,hjälporganisation	
 1230004663	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,hjälporganisation	
+1230004697	802450-2349	Tango Sol	http://www.tangosol.se/	dansundervisning	
 1230004945	849000-3574	Långasands Idrottsförening	http://www.langasandsif.com/	idrottsförening	
+1230005710	556909-2140	Crossfit Eken / Ekens Sport och Media AB	https://www.crossfiteken.se/	crossfit,träning	
+1230007161	650322-XXXX	Crude Boot Company / Malin Schauermann		försäljning,konfektion	
 1230007344	530728-XXXX	SkrattYoga / HT Helhetstanken	https://skrattyoga.se/	yoga	
 1230007922	802508-1186	Riksföreningen för SLE	https://sle.reumatiker.se/	intresseförening,patientförening,reumatism	
+1230008797	556943-2056	Apelviksstrand	https://www.apelvikstrand.se/	logi	
 1230008854	802000-2336	Kungliga Automobil Klubben, KAK	https://kak.se/	ideell förening,intresseförening	
 1230008912	802418-8313	Väse Framtid	https://www.vaseframtid.se/	hembygdsförening,intresseförening	
 1230009019	556800-6893	Ättekulla lunchen / Fortuna Strandkrog / Fortuna by the Sea AB	https://fortunastrandkrog.se/	restaurant	
+1230009035	556766-1193	Svenska Spikmattan AB	https://spikmattan.com/	försäljning,utrustning	
 1230009381	822001-0626	Linköpings MS - Bilsport	https://idrottonline.se/LinkopingsMS-Bilsport/	motorsport	
+1230013367	817606-5749	Västanfors IF Fotbollsklubb	https://www.laget.se/VastanforsFotboll/	fotbollsklubb,idrottsförening	
 1230017442	813200-3461	Bro-Håbo Brukshundklubb	https://www.bhbk.se/	brukshundsklubb,hundsport	
 1230018481	802453-2676	Hacksjöbanans SkytteOrganisation, HSO	http://www.hacksjobanan.se/	skytteklubb	
 1230018549	252002-8982	Judiska Församlingen Stockholm	https://jfst.se/	religion	
@@ -27,7 +33,10 @@ entry	orgNumber	orgName	web	categories	comment
 1230019513	839400-9545	Stiftelsen Båstadsfontänen	https://www.fhb.nu/	psykisk hälsa,stiftelse	
 1230020289	802522-4927	Föreningen Gagnefs Bio	https://gagnefsbio.se/	biograf,förening	
 1230021444	802526-7868	Team Albert MTB	https://teamalbertmtb.com/	cykelklubb,mountainbike,mountainbikeklubb	
+1230040097	620526-XXXX	LifeTV Sverige / Hillevi Sjögren	https://lifetv.nu/	lokaltelevision,spiritualism	
+1230040311	802513-8861	PRO Lindesberg	https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg.html	pensionärsklubb	
 1230040691	660915-XXXX	Nordebros Trädgård / Kent Haglund	https://nordebrostradgard.weebly.com/	trädgårdsodling,trädgårdsplanering	
+1230040899	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/norrkoping/		Musikkåren Norrköping
 1230045567	802538-4457	Partiet MoD	https://partietmod.se/	politiskt parti	
 1230052092	802445-5530	Munsö Adelsö Lokala Kennelklubb, MALKK	https://www.malkk.se/	hundsport,kennelklubb	
 1230052316	802504-6486	Islandshästföreningen Frigg - Islandshäst	https://www.frigg.se/	islandshäst,ridklubb	

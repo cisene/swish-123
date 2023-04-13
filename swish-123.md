@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-04-13-rev-212159
+Date:     2023-04-13-rev-224912
 ...
 
 # Swish 123 Nummer
@@ -15,13 +15,19 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230004648 | 802002-8711 | Svenska Röda Korset                                                                                  | [Link](https://www.rodakorset.se/) |
 | 1230004655 | 802002-8711 | Svenska Röda Korset                                                                                  | [Link](https://www.rodakorset.se/) |
 | 1230004663 | 802002-8711 | Svenska Röda Korset                                                                                  | [Link](https://www.rodakorset.se/) |
+| 1230004697 | 802450-2349 | Tango Sol                                                                                            | [Link](http://www.tangosol.se/) |
 | 1230004945 | 849000-3574 | Långasands Idrottsförening                                                                           | [Link](http://www.langasandsif.com/) |
+| 1230005710 | 556909-2140 | Crossfit Eken / Ekens Sport och Media AB                                                             | [Link](https://www.crossfiteken.se/) |
+| 1230007161 | 650322-XXXX | Crude Boot Company / Malin Schauermann                                                               | -                   |
 | 1230007344 | 530728-XXXX | SkrattYoga / HT Helhetstanken                                                                        | [Link](https://skrattyoga.se/) |
 | 1230007922 | 802508-1186 | Riksföreningen för SLE                                                                               | [Link](https://sle.reumatiker.se/) |
+| 1230008797 | 556943-2056 | Apelviksstrand                                                                                       | [Link](https://www.apelvikstrand.se/) |
 | 1230008854 | 802000-2336 | Kungliga Automobil Klubben, KAK                                                                      | [Link](https://kak.se/) |
 | 1230008912 | 802418-8313 | Väse Framtid                                                                                         | [Link](https://www.vaseframtid.se/) |
 | 1230009019 | 556800-6893 | Ättekulla lunchen / Fortuna Strandkrog / Fortuna by the Sea AB                                       | [Link](https://fortunastrandkrog.se/) |
+| 1230009035 | 556766-1193 | Svenska Spikmattan AB                                                                                | [Link](https://spikmattan.com/) |
 | 1230009381 | 822001-0626 | Linköpings MS - Bilsport                                                                             | [Link](https://idrottonline.se/LinkopingsMS-Bilsport/) |
+| 1230013367 | 817606-5749 | Västanfors IF Fotbollsklubb                                                                          | [Link](https://www.laget.se/VastanforsFotboll/) |
 | 1230017442 | 813200-3461 | Bro-Håbo Brukshundklubb                                                                              | [Link](https://www.bhbk.se/) |
 | 1230018481 | 802453-2676 | Hacksjöbanans SkytteOrganisation, HSO                                                                | [Link](http://www.hacksjobanan.se/) |
 | 1230018549 | 252002-8982 | Judiska Församlingen Stockholm                                                                       | [Link](https://jfst.se/) |
@@ -29,7 +35,10 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230019513 | 839400-9545 | Stiftelsen Båstadsfontänen                                                                           | [Link](https://www.fhb.nu/) |
 | 1230020289 | 802522-4927 | Föreningen Gagnefs Bio                                                                               | [Link](https://gagnefsbio.se/) |
 | 1230021444 | 802526-7868 | Team Albert MTB                                                                                      | [Link](https://teamalbertmtb.com/) |
+| 1230040097 | 620526-XXXX | LifeTV Sverige / Hillevi Sjögren                                                                     | [Link](https://lifetv.nu/) |
+| 1230040311 | 802513-8861 | PRO Lindesberg                                                                                       | [Link](https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg.html) |
 | 1230040691 | 660915-XXXX | Nordebros Trädgård / Kent Haglund                                                                    | [Link](https://nordebrostradgard.weebly.com/) |
+| 1230040899 | 802006-1688 | Frälsningsarmén                                                                                      | [Link](https://www.fralsningsarmen.se/norrkoping/) |
 | 1230045567 | 802538-4457 | Partiet MoD                                                                                          | [Link](https://partietmod.se/) |
 | 1230052092 | 802445-5530 | Munsö Adelsö Lokala Kennelklubb, MALKK                                                               | [Link](https://www.malkk.se/) |
 | 1230052316 | 802504-6486 | Islandshästföreningen Frigg - Islandshäst                                                            | [Link](https://www.frigg.se/) |
