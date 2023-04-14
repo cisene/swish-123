@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-04-13-rev-224912
+Date:     2023-04-14-rev-181017
 ...
 
 # Swish 123 Nummer
@@ -27,14 +27,23 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230009019 | 556800-6893 | Ättekulla lunchen / Fortuna Strandkrog / Fortuna by the Sea AB                                       | [Link](https://fortunastrandkrog.se/) |
 | 1230009035 | 556766-1193 | Svenska Spikmattan AB                                                                                | [Link](https://spikmattan.com/) |
 | 1230009381 | 822001-0626 | Linköpings MS - Bilsport                                                                             | [Link](https://idrottonline.se/LinkopingsMS-Bilsport/) |
+| 1230013300 | 990226-XXXX | Dina Grundberg                                                                                       | [Link](https://www.dinagrundberg.com/) |
 | 1230013367 | 817606-5749 | Västanfors IF Fotbollsklubb                                                                          | [Link](https://www.laget.se/VastanforsFotboll/) |
 | 1230017442 | 813200-3461 | Bro-Håbo Brukshundklubb                                                                              | [Link](https://www.bhbk.se/) |
+| 1230017822 | 802012-5111 | Riksorganisationen för kvinnojourer och tjejjourer i Sverige, ROKS                                   | [Link](https://roks.se/) |
 | 1230018481 | 802453-2676 | Hacksjöbanans SkytteOrganisation, HSO                                                                | [Link](http://www.hacksjobanan.se/) |
 | 1230018549 | 252002-8982 | Judiska Församlingen Stockholm                                                                       | [Link](https://jfst.se/) |
 | 1230018804 | 802473-8463 | Rebeckaloge 116 Charlotta Taube                                                                      | [Link](https://oddfellow.se/hitta/institution?inst=r116) |
 | 1230019513 | 839400-9545 | Stiftelsen Båstadsfontänen                                                                           | [Link](https://www.fhb.nu/) |
+| 1230019521 | 212000-0498 | Aneby Bibliotek / Aneby Kommun                                                                       | [Link](https://www.aneby.se/sidor/kultur-fritid-och-turism/biblioteket.html) |
 | 1230020289 | 802522-4927 | Föreningen Gagnefs Bio                                                                               | [Link](https://gagnefsbio.se/) |
 | 1230021444 | 802526-7868 | Team Albert MTB                                                                                      | [Link](https://teamalbertmtb.com/) |
+| 1230037317 | 559203-6916 | Private Training Online, PTO / PTO Group AB                                                          | [Link](https://privatetrainingonline.se/) |
+| 1230038042 | 802521-2674 | Terminologifrämjandet                                                                                | [Link](https://terminologiframjandet.se/) |
+| 1230038356 | 802016-9176 | Giraffernas Vänner                                                                                   | [Link](https://giraffernasvanner.se/) |
+| 1230038521 | 802000-5743 | City Church International / City Church Stockholm                                                    | [Link](https://cks.se/) |
+| 1230038679 | 802418-3124 | Norrköpings Sportdansare, NOSD                                                                       | [Link](https://www.nosd.se/) |
+| 1230039933 | 802474-8074 | Norra Gotlands Brukshundsklubb                                                                       | [Link](https://ngbk.org/) |
 | 1230040097 | 620526-XXXX | LifeTV Sverige / Hillevi Sjögren                                                                     | [Link](https://lifetv.nu/) |
 | 1230040311 | 802513-8861 | PRO Lindesberg                                                                                       | [Link](https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg.html) |
 | 1230040691 | 660915-XXXX | Nordebros Trädgård / Kent Haglund                                                                    | [Link](https://nordebrostradgard.weebly.com/) |
@@ -54,6 +63,9 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230064337 | 885501-4083 | Skandinaviska Turistkyrkan                                                                           | [Link](https://www.turistkyrkan.org/) |
 | 1230067769 | 826000-5510 | Immanuelskyrkans Församling Jönköping                                                                | [Link](https://immanuelskyrkan.com/) |
 | 1230068205 | 889601-1296 | Hjälptransporten Filippus                                                                            | [Link](http://www.filippus.se/) |
+| 1230068759 | 802429-7403 | Halmstad Hammers                                                                                     | [Link](https://www.hockeyettan.se/halmstad-hammers/) |
+| 1230068965 | 802449-5502 | Lerum Cykelklubb                                                                                     | [Link](https://www.lerumscykelklubb.se/) |
+| 1230069310 | 817603-0065 | FIAN Sverige                                                                                         | [Link](https://fian.se/) |
 | 1230069625 | 559021-5785 | Dagens Vimmerby AB                                                                                   | [Link](https://www.dagensvimmerby.se/) |
 | 1230069963 | 802018-1791 | Sverigedemokraterna                                                                                  | [Link](https://sd.se/) |
 | 1230073627 | 802511-5497 | Alingsås Fotoklubb                                                                                   | [Link](https://www.alingsasfotoklubb.se/) |
@@ -2643,6 +2655,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234009692 | 802421-0935 | Melodifestivalklubben                                                                                | [Link](https://melodifestivalklubben.se/) |
 | 1234011201 | 873202-1301 | Segerstads Hembygsförening                                                                           | [Link](http://segerstadshembygd.se/) |
 | 1234011631 | 556778-8996 | Advokatbyrå Z & Co                                                                                   | [Link](https://zeijersborger.se/) |
+| 1234013868 | 802481-5782 | Insamlingsstiftelsen Kurdiska Röda Solen (Roja Sor a Kurdistanê)                                     | [Link](https://rodasolen.se/) |
 | 1234014023 | 802011-5484 | Buddhistiska Gemenskapen Triratna                                                                    | [Link](https://tibetanbuddhism.se/) |
 | 1234015129 | 835000-3847 | Karlskrona CK - Cykel                                                                                | [Link](https://www.karlskronack.com/) |
 | 1234016986 | 802497-4944 | Torups Pistolklubb                                                                                   | [Link](http://www.torupspistolklubb.org/) |

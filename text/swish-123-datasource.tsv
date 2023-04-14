@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-04-13-rev-224912
+# Date: 2023-04-14-rev-181017
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -25,14 +25,23 @@ entry	orgNumber	orgName	web	categories	comment
 1230009019	556800-6893	Ättekulla lunchen / Fortuna Strandkrog / Fortuna by the Sea AB	https://fortunastrandkrog.se/	restaurant	
 1230009035	556766-1193	Svenska Spikmattan AB	https://spikmattan.com/	försäljning,utrustning	
 1230009381	822001-0626	Linköpings MS - Bilsport	https://idrottonline.se/LinkopingsMS-Bilsport/	motorsport	
+1230013300	990226-XXXX	Dina Grundberg	https://www.dinagrundberg.com/	musik,sång	
 1230013367	817606-5749	Västanfors IF Fotbollsklubb	https://www.laget.se/VastanforsFotboll/	fotbollsklubb,idrottsförening	
 1230017442	813200-3461	Bro-Håbo Brukshundklubb	https://www.bhbk.se/	brukshundsklubb,hundsport	
+1230017822	802012-5111	Riksorganisationen för kvinnojourer och tjejjourer i Sverige, ROKS	https://roks.se/	kvinnojour,riksorganisation	
 1230018481	802453-2676	Hacksjöbanans SkytteOrganisation, HSO	http://www.hacksjobanan.se/	skytteklubb	
 1230018549	252002-8982	Judiska Församlingen Stockholm	https://jfst.se/	religion	
 1230018804	802473-8463	Rebeckaloge 116 Charlotta Taube	https://oddfellow.se/hitta/institution?inst=r116	ordensällskap	
 1230019513	839400-9545	Stiftelsen Båstadsfontänen	https://www.fhb.nu/	psykisk hälsa,stiftelse	
+1230019521	212000-0498	Aneby Bibliotek / Aneby Kommun	https://www.aneby.se/sidor/kultur-fritid-och-turism/biblioteket.html	bibliotek,kultur	
 1230020289	802522-4927	Föreningen Gagnefs Bio	https://gagnefsbio.se/	biograf,förening	
 1230021444	802526-7868	Team Albert MTB	https://teamalbertmtb.com/	cykelklubb,mountainbike,mountainbikeklubb	
+1230037317	559203-6916	Private Training Online, PTO / PTO Group AB	https://privatetrainingonline.se/	träning	
+1230038042	802521-2674	Terminologifrämjandet	https://terminologiframjandet.se/	intresseförening,kulturförening,språkgranskning	
+1230038356	802016-9176	Giraffernas Vänner	https://giraffernasvanner.se/	event,konferens,mötesrum	
+1230038521	802000-5743	City Church International / City Church Stockholm	https://cks.se/	religion	
+1230038679	802418-3124	Norrköpings Sportdansare, NOSD	https://www.nosd.se/	danssport	
+1230039933	802474-8074	Norra Gotlands Brukshundsklubb	https://ngbk.org/	brukshundsklubb,hundsport	
 1230040097	620526-XXXX	LifeTV Sverige / Hillevi Sjögren	https://lifetv.nu/	lokaltelevision,spiritualism	
 1230040311	802513-8861	PRO Lindesberg	https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg.html	pensionärsklubb	
 1230040691	660915-XXXX	Nordebros Trädgård / Kent Haglund	https://nordebrostradgard.weebly.com/	trädgårdsodling,trädgårdsplanering	
@@ -52,6 +61,9 @@ entry	orgNumber	orgName	web	categories	comment
 1230064337	885501-4083	Skandinaviska Turistkyrkan	https://www.turistkyrkan.org/	religion	
 1230067769	826000-5510	Immanuelskyrkans Församling Jönköping	https://immanuelskyrkan.com/	religion	
 1230068205	889601-1296	Hjälptransporten Filippus	http://www.filippus.se/	hjälporganisation,stiftelse	
+1230068759	802429-7403	Halmstad Hammers	https://www.hockeyettan.se/halmstad-hammers/	idrottsförening,ishockeyklubb	
+1230068965	802449-5502	Lerum Cykelklubb	https://www.lerumscykelklubb.se/	cykelklubb,idrottsförening	
+1230069310	817603-0065	FIAN Sverige	https://fian.se/	intresseförening	
 1230069625	559021-5785	Dagens Vimmerby AB	https://www.dagensvimmerby.se/	lokaltidning	
 1230069963	802018-1791	Sverigedemokraterna	https://sd.se/	politiskt parti	
 1230073627	802511-5497	Alingsås Fotoklubb	https://www.alingsasfotoklubb.se/	fotoklubb	Fika
@@ -2641,6 +2653,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234009692	802421-0935	Melodifestivalklubben	https://melodifestivalklubben.se/	musik	
 1234011201	873202-1301	Segerstads Hembygsförening	http://segerstadshembygd.se/	hembygdsförening	
 1234011631	556778-8996	Advokatbyrå Z & Co	https://zeijersborger.se/	advokatbyrå,juridiska tjänster	
+1234013868	802481-5782	Insamlingsstiftelsen Kurdiska Röda Solen (Roja Sor a Kurdistanê)	https://rodasolen.se/	hjälporganisation	
 1234014023	802011-5484	Buddhistiska Gemenskapen Triratna	https://tibetanbuddhism.se/	religion	
 1234015129	835000-3847	Karlskrona CK - Cykel	https://www.karlskronack.com/	cykelklubb,idrottsförening	
 1234016986	802497-4944	Torups Pistolklubb	http://www.torupspistolklubb.org/	pistolskytteklubb	

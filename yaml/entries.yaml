@@ -155,6 +155,15 @@ entries:
   - motorsport
   web: https://idrottonline.se/LinkopingsMS-Bilsport/
 
+- entry: 1230013300
+  orgName: Dina Grundberg
+  orgNumber: 990226-XXXX
+  comment: null
+  categories:
+  - musik
+  - sång
+  web: https://www.dinagrundberg.com/
+
 - entry: 1230013367
   orgName: Västanfors IF Fotbollsklubb
   orgNumber: 817606-5749
@@ -172,6 +181,15 @@ entries:
   - brukshundsklubb
   - hundsport
   web: https://www.bhbk.se/
+
+- entry: 1230017822
+  orgName: Riksorganisationen för kvinnojourer och tjejjourer i Sverige, ROKS
+  orgNumber: 802012-5111
+  comment: null
+  categories:
+  - kvinnojour
+  - riksorganisation
+  web: https://roks.se/
 
 - entry: 1230018481
   orgName: Hacksjöbanans SkytteOrganisation, HSO
@@ -206,6 +224,15 @@ entries:
   - stiftelse
   web: https://www.fhb.nu/
 
+- entry: 1230019521
+  orgName: Aneby Bibliotek / Aneby Kommun
+  orgNumber: 212000-0498
+  comment: null
+  categories:
+  - bibliotek
+  - kultur
+  web: https://www.aneby.se/sidor/kultur-fritid-och-turism/biblioteket.html
+
 - entry: 1230020289
   orgName: Föreningen Gagnefs Bio
   orgNumber: 802522-4927
@@ -224,6 +251,59 @@ entries:
   - mountainbike
   - mountainbikeklubb
   web: https://teamalbertmtb.com/
+
+- entry: 1230037317
+  orgName: Private Training Online, PTO / PTO Group AB
+  orgNumber: 559203-6916
+  comment: null
+  categories:
+  - träning
+  web: https://privatetrainingonline.se/
+
+- entry: 1230038042
+  orgName: Terminologifrämjandet
+  orgNumber: 802521-2674
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  - språkgranskning
+  web: https://terminologiframjandet.se/
+
+- entry: 1230038356
+  orgName: Giraffernas Vänner
+  orgNumber: 802016-9176
+  comment: null
+  categories:
+  - event
+  - konferens
+  - mötesrum
+  web: https://giraffernasvanner.se/
+
+- entry: 1230038521
+  orgName: City Church International / City Church Stockholm
+  orgNumber: 802000-5743
+  comment: null
+  categories:
+  - religion
+  web: https://cks.se/
+
+- entry: 1230038679
+  orgName: Norrköpings Sportdansare, NOSD
+  orgNumber: 802418-3124
+  comment: null
+  categories:
+  - danssport
+  web: https://www.nosd.se/
+
+- entry: 1230039933
+  orgName: Norra Gotlands Brukshundsklubb
+  orgNumber: 802474-8074
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://ngbk.org/
 
 - entry: 1230040097
   orgName: LifeTV Sverige / Hillevi Sjögren
@@ -265,6 +345,14 @@ entries:
   categories:
   - politiskt parti
   web: https://partietmod.se/
+
+- entry: 1230045971
+  orgName: Fredrik D Anderssons Minnesfond
+  orgNumber: 0034796672
+  comment: null
+  categories:
+  - minnesfond
+  web: https://fredrikdanderssonsminnesfond.se/
 
 - entry: 1230052092
   orgName: Munsö Adelsö Lokala Kennelklubb, MALKK
@@ -404,6 +492,32 @@ entries:
   - hjälporganisation
   - stiftelse
   web: http://www.filippus.se/
+
+- entry: 1230068759
+  orgName: Halmstad Hammers
+  orgNumber: 802429-7403
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.hockeyettan.se/halmstad-hammers/
+
+- entry: 1230068965
+  orgName: Lerum Cykelklubb
+  orgNumber: 802449-5502
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://www.lerumscykelklubb.se/
+
+- entry: 1230069310
+  orgName: FIAN Sverige
+  orgNumber: 817603-0065
+  comment: null
+  categories:
+  - intresseförening
+  web: https://fian.se/
 
 - entry: 1230069625
   orgName: Dagens Vimmerby AB
@@ -23435,6 +23549,14 @@ entries:
   - advokatbyrå
   - juridiska tjänster
   web: https://zeijersborger.se/
+
+- entry: 1234013868
+  orgName: Insamlingsstiftelsen Kurdiska Röda Solen (Roja Sor a Kurdistanê)
+  orgNumber: 802481-5782
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://rodasolen.se/
 
 - entry: 1234014023
   orgName: Buddhistiska Gemenskapen Triratna
