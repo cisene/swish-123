@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-14-rev-181017",
+    "date": "2023-04-15-rev-125510",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -421,6 +421,16 @@
       "web": "https://saltsjobadenshembygdsforening.se/"
     },
     {
+      "entry": 1230052381,
+      "orgNumber": "802504-3996",
+      "orgName": "Danderyds SK Friidrottsf\u00f6rening",
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.dskfri.se/"
+    },
+    {
       "entry": 1230052894,
       "orgNumber": "559077-2785",
       "orgName": "Profiltryckeriet / Training & Events i \u00d6stersund AB",
@@ -452,6 +462,35 @@
       "web": "https://www.astorprf.nu/"
     },
     {
+      "entry": 1230053660,
+      "orgNumber": "580731-XXXX",
+      "orgName": "Norrlands Kundaliniyoga Center / Maja Telleg\u00e5rd",
+      "categories": [
+        "yoga"
+      ],
+      "web": "http://www.norrlandskundaliniyoga.se/"
+    },
+    {
+      "entry": 1230054106,
+      "orgNumber": "802488-8003",
+      "orgName": "S\u00f6lvesborgs Filmstudio",
+      "categories": [
+        "biograf",
+        "filmklubb"
+      ],
+      "web": "https://solvesborg.filmstudio.se/"
+    },
+    {
+      "entry": 1230054221,
+      "orgNumber": "833200-6074",
+      "orgName": "F\u00f6reningen Kopparslagaren Galleri",
+      "categories": [
+        "galleri",
+        "konstf\u00f6rening"
+      ],
+      "web": "https://kopparslagaren.com/"
+    },
+    {
       "entry": 1230055160,
       "orgNumber": "802426-0229",
       "orgName": "Familjen Einhorns Stiftelse",
@@ -459,6 +498,16 @@
         "stiftelse"
       ],
       "web": "https://einhornfoundation.wordpress.com/"
+    },
+    {
+      "entry": 1230055194,
+      "orgNumber": "802444-9905",
+      "orgName": "Alings\u00e5s Krav Maga IF",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.kravmagavast.se/"
     },
     {
       "entry": 1230061788,
@@ -501,6 +550,17 @@
       "web": "https://equmeniakyrkan.se/ostervallskog/"
     },
     {
+      "entry": 1230064170,
+      "orgNumber": "887500-2126",
+      "orgName": "Norra H\u00e4lsinglands Travs\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "travsport",
+        "travs\u00e4llskap"
+      ],
+      "web": "https://www.hagmyren.se/"
+    },
+    {
       "entry": 1230064337,
       "orgNumber": "885501-4083",
       "orgName": "Skandinaviska Turistkyrkan",
@@ -510,6 +570,37 @@
       "web": "https://www.turistkyrkan.org/"
     },
     {
+      "entry": 1230065425,
+      "orgNumber": "802458-7027",
+      "orgName": "Arn\u00e4s Tr\u00e4dg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "tr\u00e4dg\u00e5rdsf\u00f6rening",
+        "tr\u00e4dg\u00e5rdsplanering"
+      ],
+      "web": "https://arnastradgardsforening.com/"
+    },
+    {
+      "entry": 1230065672,
+      "orgNumber": "802509-2001",
+      "orgName": "Integrationssegling",
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://integrationssegling.se/"
+    },
+    {
+      "entry": 1230067710,
+      "orgNumber": "556832-7117",
+      "orgName": "Vapenprodukter Sverige AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "vapensmed"
+      ],
+      "web": "https://www.vapenprodukter.se/"
+    },
+    {
       "entry": 1230067769,
       "orgNumber": "826000-5510",
       "orgName": "Immanuelskyrkans F\u00f6rsamling J\u00f6nk\u00f6ping",
@@ -517,6 +608,16 @@
         "religion"
       ],
       "web": "https://immanuelskyrkan.com/"
+    },
+    {
+      "entry": 1230067892,
+      "orgNumber": "212000-1132",
+      "orgName": "Lunds Kommun",
+      "comment": "Vinteraktiviteter",
+      "categories": [
+        "vintersport"
+      ],
+      "web": "https://lund.se/uppleva-och-gora/idrott-motion-aktiviteter/vinteraktiviteter"
     },
     {
       "entry": 1230068205,
@@ -529,6 +630,27 @@
       "web": "http://www.filippus.se/"
     },
     {
+      "entry": 1230068569,
+      "orgNumber": "887500-9139",
+      "orgName": "Kvinnojouren V\u00e4ndpunkten",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://kvinnojourenvandpunkten.se/"
+    },
+    {
+      "entry": 1230068593,
+      "orgNumber": "815600-9493",
+      "orgName": "F\u00f6reningen Wendelas V\u00e4nner",
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturf\u00f6rening",
+        "museum",
+        "restaurant"
+      ],
+      "web": "https://wendela.se/"
+    },
+    {
       "entry": 1230068759,
       "orgNumber": "802429-7403",
       "orgName": "Halmstad Hammers",
@@ -537,6 +659,16 @@
         "ishockeyklubb"
       ],
       "web": "https://www.hockeyettan.se/halmstad-hammers/"
+    },
+    {
+      "entry": 1230068890,
+      "orgNumber": "802469-7669",
+      "orgName": "Bujinkan Ninpo Taijutsu G\u00f6teborg",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://ninpodragons.se/goteborg/"
     },
     {
       "entry": 1230068965,
@@ -597,6 +729,17 @@
       "web": "https://studentkarenisundsvall.se/samarbetsforeningar/linjeforeningar/"
     },
     {
+      "entry": 1230074005,
+      "orgNumber": "897001-2129",
+      "orgName": "Norrbottens l\u00e4ns St\u00f6varklubb, NBSK",
+      "categories": [
+        "hundklubb",
+        "hundsport",
+        "st\u00f6varklubb"
+      ],
+      "web": "http://www.norrbottenstovare.se/"
+    },
+    {
       "entry": 1230074401,
       "orgNumber": "840221-XXXX",
       "orgName": "Gamlens G\u00e5rd / Johanna Skotte",
@@ -639,6 +782,27 @@
       "web": "https://nykoping-oster.rotary2370.se/"
     },
     {
+      "entry": 1230076273,
+      "orgNumber": "802008-2874",
+      "orgName": "Internationella Folkdansklubben",
+      "categories": [
+        "dansf\u00f6rening",
+        "folkdans",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://internationellafolkdansklubben.com/"
+    },
+    {
+      "entry": 1230078097,
+      "orgNumber": "969752-3711",
+      "orgName": "Kilsbergen Trailrun / AH-Event HB",
+      "categories": [
+        "l\u00f6part\u00e4vling",
+        "l\u00f6pning"
+      ],
+      "web": "https://www.kilsbergentrailrun.se/"
+    },
+    {
       "entry": 1230079061,
       "orgNumber": "559006-6980",
       "orgName": "Solkarina / Sinnligkunskap AB",
@@ -649,6 +813,26 @@
         "reiki"
       ],
       "web": "https://www.solkarina.se/"
+    },
+    {
+      "entry": 1230079426,
+      "orgNumber": "802501-8856",
+      "orgName": "Sea Shepherd Scandinavia",
+      "categories": [
+        "intressef\u00f6rening",
+        "vattenv\u00e5rd"
+      ],
+      "web": "https://www.seashepherdscandinavia.org/"
+    },
+    {
+      "entry": 1230079814,
+      "orgNumber": "825003-9693",
+      "orgName": "Blue Berets MC Sweden, BBMC",
+      "categories": [
+        "intressef\u00f6rening",
+        "motorcykelklubb"
+      ],
+      "web": "https://www.bbmc.se/"
     },
     {
       "entry": 1230081257,
@@ -2562,6 +2746,17 @@
       "web": "https://helamanniskan.se/enkoping"
     },
     {
+      "entry": 1230412007,
+      "orgNumber": "430626-XXXX",
+      "orgName": "F\u00f6reningstj\u00e4nst i V\u00e4nersborg / Kaj Dahlqvist",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "gravyr",
+        "metallbearbetning"
+      ],
+      "web": "http://foreningstjanst.se/"
+    },
+    {
       "entry": 1230413203,
       "orgNumber": "833200-0317",
       "orgName": "Filadelfiaf\u00f6rsamlingen I Hultsfred",
@@ -2657,6 +2852,17 @@
         "ridklubb"
       ],
       "web": "https://www.orebrofaltrittklubb.se/"
+    },
+    {
+      "entry": 1230425272,
+      "orgNumber": "802435-9047",
+      "orgName": "J\u00e4mtland-H\u00e4rjedalens St\u00f6varklubb, JHSK",
+      "categories": [
+        "hundklubb",
+        "hundsport",
+        "st\u00f6varklubb"
+      ],
+      "web": "https://jhstovare.se/"
     },
     {
       "entry": 1230426023,
@@ -5933,6 +6139,17 @@
       "web": "https://www.affc.se/"
     },
     {
+      "entry": 1230986372,
+      "orgNumber": "802443-2927",
+      "orgName": "V\u00e4sterbottens l\u00e4ns St\u00f6varklubb, VBSK",
+      "categories": [
+        "hundklubb",
+        "hundsport",
+        "st\u00f6varklubb"
+      ],
+      "web": "https://www.vblstovare.se/"
+    },
+    {
       "entry": 1230987982,
       "orgNumber": "845001-7788",
       "orgName": "Kvinnojouren Lund",
@@ -7847,6 +8064,16 @@
       "web": "https://www.orgryteforeningen.se/"
     },
     {
+      "entry": 1231300094,
+      "orgNumber": "802504-1321",
+      "orgName": "Sanshi Budo & Kampcenter IF",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://ninpodragons.se/kungsbacka/"
+    },
+    {
       "entry": 1231300508,
       "orgNumber": "849000-2394",
       "orgName": "Falkenbergs Cykelklubb",
@@ -9576,6 +9803,15 @@
       "web": "http://www.fjellfotografen.se/"
     },
     {
+      "entry": 1231557826,
+      "orgNumber": "802419-9419",
+      "orgName": "Tottenham Hotspur Supporters Sweden",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.tottenhamhotspur.se/"
+    },
+    {
       "entry": 1231561703,
       "orgNumber": "802439-6197",
       "orgName": "Svenska Lundehunds\u00e4llskapet",
@@ -10469,7 +10705,9 @@
       "orgNumber": "826000-3739",
       "orgName": "Sm\u00e5lands St\u00f6varklubb",
       "categories": [
-        "hundklubb"
+        "hundklubb",
+        "hundsport",
+        "st\u00f6varklubb"
       ],
       "web": "https://www.smstk.se/"
     },
@@ -13617,6 +13855,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1232158509,
+      "orgNumber": "825002-7219",
+      "orgName": "\u00d6sterg\u00f6tlands St\u00f6vareklubb, \u00d6GSK",
+      "categories": [
+        "hundklubb",
+        "hundsport",
+        "st\u00f6varklubb"
+      ],
+      "web": "http://www.ostgotastovare.se/"
+    },
+    {
       "entry": 1232158913,
       "orgNumber": "559134-6399",
       "orgName": "Glitne AB",
@@ -14492,6 +14741,15 @@
       "web": "https://vasterasgk.se/"
     },
     {
+      "entry": 1232258622,
+      "orgNumber": "812800-2675",
+      "orgName": "Equmeniakyrkan Hallunda",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.equmeniakyrkanhallunda.se/"
+    },
+    {
       "entry": 1232258689,
       "orgNumber": "857200-3211",
       "orgName": "Djurens V\u00e4nner G\u00f6tegorg",
@@ -14837,6 +15095,17 @@
         "f\u00f6rening"
       ],
       "web": "http://www.nassjodansforening.se/"
+    },
+    {
+      "entry": 1232302214,
+      "orgNumber": "882600-0278",
+      "orgName": "Dalarnas St\u00f6varklubb, DSK",
+      "categories": [
+        "hundklubb",
+        "hundsport",
+        "st\u00f6varklubb"
+      ],
+      "web": "http://dalarnasstovarklubb.se/"
     },
     {
       "entry": 1232302537,
@@ -18153,6 +18422,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1232777845,
+      "orgNumber": "834001-8053",
+      "orgName": "Gotlands St\u00f6varklubb, GSK",
+      "categories": [
+        "hundklubb",
+        "hundsport",
+        "st\u00f6varklubb"
+      ],
+      "web": "https://www.gotlandsstovarklubb.se/"
+    },
+    {
       "entry": 1232782431,
       "orgNumber": "828000-4758",
       "orgName": "K\u00e4rda Hembygdsf\u00f6rening",
@@ -20257,6 +20537,17 @@
       "web": "https://aktivitetshuset.vidsel.se/"
     },
     {
+      "entry": 1233111523,
+      "orgNumber": "802459-0310",
+      "orgName": "V\u00e4sternorrlands St\u00f6varklubb, VNSK",
+      "categories": [
+        "hundklubb",
+        "hundsport",
+        "st\u00f6varklubb"
+      ],
+      "web": "https://stovarevnorrland.se/"
+    },
+    {
       "entry": 1233111879,
       "orgNumber": "802433-6052",
       "orgName": "J\u00f6nk\u00f6pings Filatelist-F\u00f6rening",
@@ -21757,6 +22048,16 @@
         "ornitologi"
       ],
       "web": "https://gof.nu/"
+    },
+    {
+      "entry": 1233350857,
+      "orgNumber": "802017-2147",
+      "orgName": "Ridf\u00f6reningen Lunk i Kring",
+      "categories": [
+        "funktionsvariation",
+        "ridklubb"
+      ],
+      "web": "http://lunkikring.nu/"
     },
     {
       "entry": 1233352036,
@@ -23651,6 +23952,15 @@
         "utrustning"
       ],
       "web": "https://fagelboden.se/"
+    },
+    {
+      "entry": 1233595618,
+      "orgNumber": "883200-7382",
+      "orgName": "Dalarnas Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://dalarna.konstforeningar.se/"
     },
     {
       "entry": 1233600061,
@@ -26553,6 +26863,17 @@
       "web": "https://www.audiorama.se/"
     },
     {
+      "entry": 1234055950,
+      "orgNumber": "802525-8578",
+      "orgName": "Bohusl\u00e4n-Dals St\u00f6varklubb, BDSK",
+      "categories": [
+        "hundklubb",
+        "hundsport",
+        "st\u00f6varklubb"
+      ],
+      "web": "https://bdstovare.se/"
+    },
+    {
       "entry": 1234056495,
       "orgNumber": "817300-1622",
       "orgName": "Tierps IF",
@@ -27762,6 +28083,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1234275053,
+      "orgNumber": "802491-2720",
+      "orgName": "Sk\u00e5ne-Blekinge St\u00f6varklubb, SBSK",
+      "categories": [
+        "hundklubb",
+        "hundsport",
+        "st\u00f6varklubb"
+      ],
+      "web": "https://sbstovare.se/"
+    },
+    {
       "entry": 1234275129,
       "orgNumber": "802419-7512",
       "orgName": "T\u00e5kernfonden",
@@ -28900,6 +29232,15 @@
         "volleybollklubb"
       ],
       "web": "https://orebrovolley.com/"
+    },
+    {
+      "entry": 1234453056,
+      "orgNumber": "802430-1445",
+      "orgName": "Furusunds B\u00e5tklubb",
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "https://www.furusundsbatklubb.se/"
     },
     {
       "entry": 1234454211,
@@ -32129,6 +32470,16 @@
         "gymnastikf\u00f6rening"
       ],
       "web": "https://www.kilsgymnaster.se/"
+    },
+    {
+      "entry": 1235010822,
+      "orgNumber": "559158-1573",
+      "orgName": "GB F\u00e5gelguidning AB",
+      "categories": [
+        "f\u00e5gelsk\u00e5dning",
+        "ornitologi"
+      ],
+      "web": "https://fagelguidning.se/"
     },
     {
       "entry": 1235013412,
@@ -36449,6 +36800,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235586540,
+      "orgNumber": "556951-5256",
+      "orgName": "Fyshuset / Svensk Idrottskonsult AB",
+      "categories": [
+        "friskv\u00e5rd",
+        "gym",
+        "tr\u00e4ning"
+      ],
+      "web": "https://www.fyshuset.se/"
+    },
+    {
       "entry": 1235589007,
       "orgNumber": "873202-0857",
       "orgName": "Svenska Bassetklubben Mellan",
@@ -37274,6 +37636,17 @@
         "n\u00e4rradiostation"
       ],
       "web": "http://www.radiohaninge.se/"
+    },
+    {
+      "entry": 1235692256,
+      "orgNumber": "802509-3736",
+      "orgName": "F\u00f6reningen Run for Mental Health i Lund",
+      "categories": [
+        "f\u00f6rening",
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb"
+      ],
+      "web": "https://www.runformentalhealth.se/"
     },
     {
       "entry": 1235694906,
@@ -40965,6 +41338,15 @@
       "web": "https://startuptools.org/"
     },
     {
+      "entry": 1236249460,
+      "orgNumber": "262000-1152",
+      "orgName": "KKRVA Tibellska Fonden / Kungliga Krigsvetenskapsakademien",
+      "categories": [
+        "fond"
+      ],
+      "web": "https://kkrva.se/om-tibellska-fonden/"
+    },
+    {
       "entry": 1236249650,
       "orgNumber": "802533-7794",
       "orgName": "Team Rynkeby",
@@ -44627,6 +45009,16 @@
         "hundsport"
       ],
       "web": "http://www.malmfaltensdhk.se/"
+    },
+    {
+      "entry": 1236835227,
+      "orgNumber": "802454-6056",
+      "orgName": "Ninpo Dragons Stockholm / IF Bujinkan Bushin Dojo",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://ninpodragons.se/stockholm/"
     },
     {
       "entry": 1236837249,
