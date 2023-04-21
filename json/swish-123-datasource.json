@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-15-rev-130346",
+    "date": "2023-04-22-rev-012059",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -866,6 +866,47 @@
       "web": "https://tailzone.se/"
     },
     {
+      "entry": 1230086579,
+      "orgNumber": "559104-9175",
+      "orgName": "Sverigeide",
+      "categories": [
+        "st\u00e4dhj\u00e4lp",
+        "st\u00e4dning"
+      ],
+      "web": "https://www.sverigeide.se/"
+    },
+    {
+      "entry": 1230088690,
+      "orgNumber": "559209-2091",
+      "orgName": "Smedjan Stj\u00e4rnsund / Stj\u00e4rnsunds Bygdebolag",
+      "categories": [
+        "konsert",
+        "lokaluthyrning",
+        "musik"
+      ],
+      "web": "http://www.smedjanstjarnsund.se/"
+    },
+    {
+      "entry": 1230092163,
+      "orgNumber": "969766-8771",
+      "orgName": "Balans med Omtanke",
+      "categories": [
+        "healing",
+        "massage",
+        "spiritualism"
+      ],
+      "web": "https://www.balansmedomtanke.se/"
+    },
+    {
+      "entry": 1230093104,
+      "orgNumber": "252002-6135",
+      "orgName": "Svenska Kyrkan Torrevieja",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/costablanca"
+    },
+    {
       "entry": 1230093955,
       "orgNumber": "802438-1355",
       "orgName": "Hela M\u00e4nniskan i Malm\u00f6",
@@ -910,6 +951,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1230094698,
+      "orgNumber": "822003-0806",
+      "orgName": "Tj\u00e4rstad Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/tjarstad"
+    },
+    {
       "entry": 1230095232,
       "orgNumber": "897000-6733",
       "orgName": "Lule\u00e5 Hockey",
@@ -918,6 +968,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.luleahockey.se/"
+    },
+    {
+      "entry": 1230098152,
+      "orgNumber": "556782-9741",
+      "orgName": "J\u00e4rna Akademi",
+      "categories": [
+        "utbildning"
+      ],
+      "web": "https://jarnaakademi.se/"
     },
     {
       "entry": 1230098293,
@@ -938,6 +997,16 @@
         "orientering"
       ],
       "web": "https://sites.google.com/site/dskkhemsida/"
+    },
+    {
+      "entry": 1230100743,
+      "orgNumber": "802430-8374",
+      "orgName": "Inlands Sl\u00e4ktforskare",
+      "categories": [
+        "genealogi",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://www.insf.se/medlemskap/"
     },
     {
       "entry": 1230107292,
@@ -1593,6 +1662,15 @@
         "musik"
       ],
       "web": "https://www.ericsvenssonmusic.com/"
+    },
+    {
+      "entry": 1230227140,
+      "orgNumber": "556587-6355",
+      "orgName": "V\u00e4ktarskolan VS AB",
+      "categories": [
+        "utbildning"
+      ],
+      "web": "https://vaktarskolan.se/"
     },
     {
       "entry": 1230227165,
@@ -9785,6 +9863,15 @@
       "web": "https://www.svenskalag.se/kirunaaif"
     },
     {
+      "entry": 1231556406,
+      "orgNumber": "869000-1147",
+      "orgName": "Lidk\u00f6pings Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://mklidkoping.se/"
+    },
+    {
       "entry": 1231556661,
       "orgNumber": "252003-8874",
       "orgName": "S\u00f6dra \u00d6lands pastorat",
@@ -10281,6 +10368,17 @@
       "web": "https://www.vk78.se/"
     },
     {
+      "entry": 1231617356,
+      "orgNumber": "868400-3208",
+      "orgName": "V\u00e4sterg\u00f6tlands Travs\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "travsport",
+        "travs\u00e4llskap"
+      ],
+      "web": "https://www.axevalla.se/"
+    },
+    {
       "entry": 1231617562,
       "orgNumber": "556778-3377",
       "orgName": "Helhetens Hus AB",
@@ -10629,6 +10727,16 @@
         "ridsport"
       ],
       "web": "https://www.eksjorf.se/"
+    },
+    {
+      "entry": 1231676113,
+      "orgNumber": "769604-8359",
+      "orgName": "Nyk\u00f6ping i samverkan, NYSAM",
+      "categories": [
+        "marknadsf\u00f6ring",
+        "turism"
+      ],
+      "web": "https://nysam.se/"
     },
     {
       "entry": 1231676956,
@@ -15086,6 +15194,15 @@
       "web": "https://visitvarmland.com/arvika/"
     },
     {
+      "entry": 1232300846,
+      "orgNumber": "832000-2572",
+      "orgName": "K\u00f6ping-Egby Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/koping-egby"
+    },
+    {
       "entry": 1232302016,
       "orgNumber": "827000-4545",
       "orgName": "N\u00e4ssj\u00f6 Dansf\u00f6rening",
@@ -17769,6 +17886,16 @@
       "web": "https://www.ekho.se/"
     },
     {
+      "entry": 1232710036,
+      "orgNumber": "556467-9651",
+      "orgName": "Duveskogs Reseservice AB",
+      "categories": [
+        "researrang\u00f6r",
+        "resebyr\u00e5"
+      ],
+      "web": "https://www.duvres.se/"
+    },
+    {
       "entry": 1232710127,
       "orgNumber": "802472-9934",
       "orgName": "Islamakademin",
@@ -19070,6 +19197,19 @@
       "web": "https://www.karlstadmx.se/"
     },
     {
+      "entry": 1232886802,
+      "orgNumber": "843003-3038",
+      "orgName": "SoS - Svenska Service- och Signalhundsf\u00f6rbundet",
+      "categories": [
+        "assistanshund",
+        "hundkurser",
+        "servicehund",
+        "signalhund",
+        "utbildning"
+      ],
+      "web": "https://www.soshund.se/"
+    },
+    {
       "entry": 1232886893,
       "orgNumber": "802011-2275",
       "orgName": "Svenska Kommitt\u00e9n Mot Antisemitism, SKMA",
@@ -19211,6 +19351,18 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.brottsofferjouren.se/"
+    },
+    {
+      "entry": 1232895217,
+      "orgNumber": "730911-XXXX",
+      "orgName": "Healingrummet- F\u00f6r Kropp & Sj\u00e4l / Maja \u00c5kerling",
+      "categories": [
+        "healing",
+        "massage",
+        "meditation",
+        "yoga"
+      ],
+      "web": "https://healingrummet.webnode.se/"
     },
     {
       "entry": 1232903136,
@@ -26304,6 +26456,17 @@
       "web": "https://heligahjartaskloster.se/"
     },
     {
+      "entry": 1233975851,
+      "orgNumber": "556652-4632",
+      "orgName": "Maskinfirma Glaj AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "installation",
+        "service"
+      ],
+      "web": "https://glaj.se/kontakt/"
+    },
+    {
       "entry": 1233978145,
       "orgNumber": "802443-5300",
       "orgName": "Kinesiska Riksf\u00f6rbundet i Sverige",
@@ -26607,6 +26770,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.karlskronack.com/"
+    },
+    {
+      "entry": 1234016853,
+      "orgNumber": "817602-9232",
+      "orgName": "Uppsala L\u00f6parklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb"
+      ],
+      "web": "https://uppsalalk.kanslietonline.se/"
     },
     {
       "entry": 1234016986,
@@ -28804,6 +28977,15 @@
         "bridgeklubb"
       ],
       "web": "https://www.svenskbridge.se/sollefte\u00e5-bk"
+    },
+    {
+      "entry": 1234400818,
+      "orgNumber": "559148-7524",
+      "orgName": "Avesta Padel Center AB",
+      "categories": [
+        "padelspel"
+      ],
+      "web": "https://avestapadelcenter.se/"
     },
     {
       "entry": 1234403648,
@@ -35449,6 +35631,16 @@
       "web": "https://www.djaknegatan.org/"
     },
     {
+      "entry": 1235396270,
+      "orgNumber": "556041-5795",
+      "orgName": "R. Anderssons Trik\u00e5 Aktiebolag",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "tillverkning"
+      ],
+      "web": "https://www.ratrika.se/"
+    },
+    {
       "entry": 1235398029,
       "orgNumber": "556227-9942",
       "orgName": "Plaza Magazine / Investmentbolaget LGAB Sverige AB",
@@ -35780,6 +35972,18 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/stromsund/strom---alanas"
+    },
+    {
+      "entry": 1235438411,
+      "orgNumber": "202100-2361",
+      "orgName": "Naturum Hornborgasj\u00f6n / L\u00e4nsstyrelsen V\u00e4stra G\u00f6taland",
+      "comment": "Parkering husbil",
+      "categories": [
+        "naturskydd",
+        "naturv\u00e5rd",
+        "ornitologi"
+      ],
+      "web": "https://www.hornborga.com/"
     },
     {
       "entry": 1235438957,
@@ -37987,6 +38191,7 @@
       "orgNumber": "802402-4831",
       "orgName": "Anh\u00f6rigas Riksf\u00f6rbund",
       "categories": [
+        "anh\u00f6rigorganisation",
         "intresseorganisation",
         "riksf\u00f6rbund"
       ],
@@ -38100,6 +38305,15 @@
         "religion"
       ],
       "web": "http://www.baptistkyrkan.com/"
+    },
+    {
+      "entry": 1235763156,
+      "orgNumber": "869000-6286",
+      "orgName": "Equmenia Lidk\u00f6ping",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://mklidkoping.se/"
     },
     {
       "entry": 1235763271,
@@ -41242,6 +41456,15 @@
       "web": "https://rhep.se/"
     },
     {
+      "entry": 1236235956,
+      "orgNumber": "802534-9187",
+      "orgName": "V\u00e4nskapsgalan",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://vanskapsgalan.com/"
+    },
+    {
       "entry": 1236243729,
       "orgNumber": "556743-6968",
       "orgName": "CH Anderssons Trafikskola AB",
@@ -44127,6 +44350,16 @@
       "web": "https://www.hembygd.se/oregrund"
     },
     {
+      "entry": 1236701585,
+      "orgNumber": "556909-8113",
+      "orgName": "Vectrum Trafikutbildning / Sindex Trafikutbildning AB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://www.vectrum.se/"
+    },
+    {
       "entry": 1236702773,
       "orgNumber": "802012-4338",
       "orgName": "Ayshamosk\u00e9n / Skandinaviska Islamiska Organisationen",
@@ -44379,6 +44612,19 @@
         "bridgeklubb"
       ],
       "web": "https://www.svenskbridge.se/bridgeklubben-2-kl\u00f6ver"
+    },
+    {
+      "entry": 1236737431,
+      "orgNumber": "559212-0900",
+      "orgName": "Kirurgicentrum Sk\u00e5ne",
+      "categories": [
+        "br\u00e5ckkirurgi",
+        "gallkirurgi",
+        "kirurgi",
+        "refluxkirurgi",
+        "\u00f6verviktskirurgi"
+      ],
+      "web": "https://kirurgicentrum.se/"
     },
     {
       "entry": 1236741789,
@@ -45792,6 +46038,15 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/vilhelmina/"
+    },
+    {
+      "entry": 1236968358,
+      "orgNumber": "869000-1147",
+      "orgName": "Lidk\u00f6pings Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://mklidkoping.se/"
     },
     {
       "entry": 1236968424,
