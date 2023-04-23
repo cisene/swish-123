@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-04-22-rev-012059
+Date:     2023-04-23-rev-165122
 ...
 
 # Swish 123 Nummer
@@ -3485,6 +3485,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235251194 | 802434-2084 | Korpförening Heros - Korpen                                                                          | [Link](https://www.heroskf.se/) |
 | 1235252382 | 819001-2347 | Gnesta-Trosa Brukshundklubb                                                                          | [Link](https://gnesta-trosa-bk.se/) |
 | 1235252663 | 802450-2653 | Club Parapente Syd, CPS                                                                              | [Link](https://www.cps.to/) |
+| 1235252796 | 818500-0224 | Broby Dans                                                                                           | [Link](https://brobygoif.se/dans-i-broby/) |
 | 1235261805 | 894001-0427 | EFS Missionsförening i Sävar                                                                         | [Link](https://www.savarakyrkan.se/) |
 | 1235261847 | 802421-7310 | CK Uni - Cykel                                                                                       | [Link](https://www.ckuni.com/) |
 | 1235262506 | 858500-6375 | BMK Uddevalla - Motorcykel och Snöskoter                                                             | [Link](https://www.bmkuddevalla.se/) |

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-04-22-rev-012059
+# Date: 2023-04-23-rev-165122
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3483,6 +3483,7 @@
 "1235251194","802434-2084","Korpförening Heros - Korpen","https://www.heroskf.se/","idrottsförening",""
 "1235252382","819001-2347","Gnesta-Trosa Brukshundklubb","https://gnesta-trosa-bk.se/","brukshundsklubb,hundsport",""
 "1235252663","802450-2653","Club Parapente Syd, CPS","https://www.cps.to/","skärmflygning",""
+"1235252796","818500-0224","Broby Dans","https://brobygoif.se/dans-i-broby/","dans,dansband,musik",""
 "1235261805","894001-0427","EFS Missionsförening i Sävar","https://www.savarakyrkan.se/","religion",""
 "1235261847","802421-7310","CK Uni - Cykel","https://www.ckuni.com/","cykelklubb,cykelsport",""
 "1235262506","858500-6375","BMK Uddevalla - Motorcykel och Snöskoter","https://www.bmkuddevalla.se/","motorcykelklubb,snöskoterklubb",""

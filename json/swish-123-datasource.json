@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-22-rev-012059",
+    "date": "2023-04-23-rev-165122",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -34538,6 +34538,17 @@
         "sk\u00e4rmflygning"
       ],
       "web": "https://www.cps.to/"
+    },
+    {
+      "entry": 1235252796,
+      "orgNumber": "818500-0224",
+      "orgName": "Broby Dans",
+      "categories": [
+        "dans",
+        "dansband",
+        "musik"
+      ],
+      "web": "https://brobygoif.se/dans-i-broby/"
     },
     {
       "entry": 1235261805,
