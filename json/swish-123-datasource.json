@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-23-rev-165122",
+    "date": "2023-04-25-rev-000900",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1307,6 +1307,16 @@
       "web": "https://www.facebook.com/hudiksvallsridochponnyklubb/"
     },
     {
+      "entry": 1230183236,
+      "orgNumber": "556706-5262",
+      "orgName": "Gideonsbergskyrkan",
+      "comment": "Fair Trade",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan"
+    },
+    {
       "entry": 1230183822,
       "orgNumber": "875700-0818",
       "orgName": "Pingstf\u00f6rsamlingen I Kumla",
@@ -2415,6 +2425,16 @@
       "web": "https://www.guif.nu/"
     },
     {
+      "entry": 1230337022,
+      "orgNumber": "556706-5262",
+      "orgName": "Gideonsbergskyrkan",
+      "comment": "Insamlingar och aktiviteter",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan"
+    },
+    {
       "entry": 1230337048,
       "orgNumber": "802456-7581",
       "orgName": "Eksj\u00f6 RC Klubb - Bilsport",
@@ -2932,6 +2952,16 @@
       "web": "https://www.orebrofaltrittklubb.se/"
     },
     {
+      "entry": 1230423996,
+      "orgNumber": "556706-5262",
+      "orgName": "Viks\u00e4ngskyrkan",
+      "comment": "Ungdomsverksamheten",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/viksangskyrkan"
+    },
+    {
       "entry": 1230425272,
       "orgNumber": "802435-9047",
       "orgName": "J\u00e4mtland-H\u00e4rjedalens St\u00f6varklubb, JHSK",
@@ -3058,6 +3088,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/gavle/stromsbro-kyrka"
+    },
+    {
+      "entry": 1230450551,
+      "orgNumber": "556706-5262",
+      "orgName": "Sparven",
+      "comment": "K\u00f6ket",
+      "categories": [
+        "religion"
+      ]
     },
     {
       "entry": 1230450973,
@@ -3525,6 +3564,15 @@
         "utbildning"
       ],
       "web": "https://ungforetagsamhet.se/alvsborg"
+    },
+    {
+      "entry": 1230520379,
+      "orgNumber": "556706-5262",
+      "orgName": "Sparven",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ]
     },
     {
       "entry": 1230521989,
@@ -4622,6 +4670,16 @@
       "web": "https://maketrade.se/"
     },
     {
+      "entry": 1230737031,
+      "orgNumber": "556706-5262",
+      "orgName": "V\u00e4ster\u00e5s Domkyrka",
+      "comment": "Ljusb\u00e4rare",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
+    },
+    {
       "entry": 1230737668,
       "orgNumber": "857204-5568",
       "orgName": "Br\u00e4nn\u00f6f\u00f6reningen",
@@ -5605,6 +5663,16 @@
       "web": "https://www.laget.se/FBCBOLLNAS/"
     },
     {
+      "entry": 1230855551,
+      "orgNumber": "556706-5262",
+      "orgName": "Kungs\u00e5ra Kyrka",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/kungsara-kyrka"
+    },
+    {
       "entry": 1230856195,
       "orgNumber": "002100-4619",
       "orgName": "Rotary Lomma-Bj\u00e4rred",
@@ -5687,6 +5755,16 @@
         "supporterklubb"
       ],
       "web": "https://www.gaistifo.org/"
+    },
+    {
+      "entry": 1230870444,
+      "orgNumber": "556706-5262",
+      "orgName": "Mariag\u00e5rden i Skultuna",
+      "comment": "Husmor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/mariagarden-i-skultuna"
     },
     {
       "entry": 1230871970,
@@ -5841,6 +5919,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/radmanso-forsamling"
+    },
+    {
+      "entry": 1230888917,
+      "orgNumber": "556706-5262",
+      "orgName": "Tillberga Kyrka",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/tillberga-kyrka"
     },
     {
       "entry": 1230888966,
@@ -7032,6 +7120,16 @@
       "web": "http://www.sveagym.se/"
     },
     {
+      "entry": 1231121250,
+      "orgNumber": "556787-8318",
+      "orgName": "m4 gruppen AB",
+      "categories": [
+        "godstrafik",
+        "v\u00e4gtransport"
+      ],
+      "web": "https://www.m4.se/"
+    },
+    {
       "entry": 1231122357,
       "orgNumber": "826001-9503",
       "orgName": "Fibromyalgi F\u00f6rbundet",
@@ -7257,6 +7355,16 @@
         "skytte"
       ],
       "web": "https://www.fokboras.se/"
+    },
+    {
+      "entry": 1231153329,
+      "orgNumber": "556706-5262",
+      "orgName": "Tomaskyrkan",
+      "comment": "\u00d6ppna f\u00f6rskolan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/tomaskyrkan"
     },
     {
       "entry": 1231154178,
@@ -7620,6 +7728,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.iksisu.se/"
+    },
+    {
+      "entry": 1231217413,
+      "orgNumber": "556706-5262",
+      "orgName": "B\u00e4ckby F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/backbykyrkan"
     },
     {
       "entry": 1231217421,
@@ -8470,6 +8588,16 @@
       "web": "https://stallningsprodukter.se/"
     },
     {
+      "entry": 1231342526,
+      "orgNumber": "556706-5262",
+      "orgName": "Skerike Kyrka",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/skerike-kyrka"
+    },
+    {
       "entry": 1231344498,
       "orgNumber": "838201-5470",
       "orgName": "Kristinehamns N\u00e4mndemannaf\u00f6rening",
@@ -8557,6 +8685,16 @@
         "f\u00f6rening"
       ],
       "web": "https://kungsledenhiking.se/"
+    },
+    {
+      "entry": 1231359017,
+      "orgNumber": "556706-5262",
+      "orgName": "Paletten",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/paletten"
     },
     {
       "entry": 1231366038,
@@ -9181,6 +9319,26 @@
       "web": "https://johannebergsequmeniakyrka.se/"
     },
     {
+      "entry": 1231470517,
+      "orgNumber": "556706-5262",
+      "orgName": "Tomaskyrkan",
+      "comment": "Ungdomsverksamheten",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/tomaskyrkan"
+    },
+    {
+      "entry": 1231470525,
+      "orgNumber": "556706-5262",
+      "orgName": "Irsta Kyrka",
+      "comment": "K\u00f6ket",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/irsta-kyrka"
+    },
+    {
       "entry": 1231470533,
       "orgNumber": "802512-8052",
       "orgName": "Ornitologisk F\u00f6rening, Tj\u00f6rn",
@@ -9790,6 +9948,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://idrottonline.se/SparvagensVeteranBTK-Bordtennis/"
+    },
+    {
+      "entry": 1231542414,
+      "orgNumber": "556706-5262",
+      "orgName": "Dingtuna Kyrka",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/dingtuna-kyrka"
     },
     {
       "entry": 1231543024,
@@ -10807,6 +10975,16 @@
         "ridskola"
       ],
       "web": "http://savaridcenter.se/"
+    },
+    {
+      "entry": 1231702687,
+      "orgNumber": "556706-5262",
+      "orgName": "V\u00e4ster\u00e5s Domkyrka",
+      "comment": "Ny musik",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
     },
     {
       "entry": 1231703230,
@@ -13249,6 +13427,16 @@
       "web": "https://www.unizonjourer.se/kvinnojourenolivia/"
     },
     {
+      "entry": 1232073492,
+      "orgNumber": "556706-5262",
+      "orgName": "B\u00e4ckby F\u00f6rsamling",
+      "comment": "Diverse",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/backbykyrkan"
+    },
+    {
       "entry": 1232074235,
       "orgNumber": "916671-3934",
       "orgName": "Carl von Linn\u00e9kliniken",
@@ -13416,6 +13604,16 @@
         "sl\u00e4ktforskning"
       ],
       "web": "https://www.soldatreg.se/"
+    },
+    {
+      "entry": 1232096964,
+      "orgNumber": "556706-5262",
+      "orgName": "V\u00e4ster\u00e5s Domkyrka",
+      "comment": "Gruppvisningar med guide",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
     },
     {
       "entry": 1232098689,
@@ -14375,6 +14573,16 @@
       "web": "https://www.bagageloppis.se/"
     },
     {
+      "entry": 1232206266,
+      "orgNumber": "252002-2134",
+      "orgName": "Barkar\u00f6 F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/barkaro-kyrka"
+    },
+    {
       "entry": 1232206779,
       "orgNumber": "760515-XXXX",
       "orgName": "Elisedahls ridskola / Johanna Holmgren",
@@ -14756,6 +14964,16 @@
       "web": "https://hairofswedenco.se/"
     },
     {
+      "entry": 1232250819,
+      "orgNumber": "556706-5262",
+      "orgName": "Rytterne Kyrka",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/rytterne-kyrka"
+    },
+    {
       "entry": 1232251684,
       "orgNumber": "556771-7664",
       "orgName": "Akeauktioner",
@@ -14932,6 +15150,16 @@
         "studentk\u00e5r"
       ],
       "web": "https://farmis.se/"
+    },
+    {
+      "entry": 1232262863,
+      "orgNumber": "556706-5262",
+      "orgName": "B\u00e4ckby F\u00f6rsamling",
+      "comment": "Husmor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/backbykyrkan"
     },
     {
       "entry": 1232266922,
@@ -15262,6 +15490,26 @@
         "trafikskola"
       ],
       "web": "https://www.ringensbilskola.se/"
+    },
+    {
+      "entry": 1232304988,
+      "orgNumber": "556706-5262",
+      "orgName": "Mikaelikyrkan",
+      "comment": "Diverse",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/mikaelikyrkan"
+    },
+    {
+      "entry": 1232304996,
+      "orgNumber": "556706-5262",
+      "orgName": "Mikaelikyrkan",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/mikaelikyrkan"
     },
     {
       "entry": 1232306611,
@@ -16065,6 +16313,16 @@
         "reumatism"
       ],
       "web": "https://stockholm.reumatiker.se/"
+    },
+    {
+      "entry": 1232408656,
+      "orgNumber": "556706-5262",
+      "orgName": "Caf\u00e9 Malin / Svenska kyrkan V\u00e4ster\u00e5s",
+      "categories": [
+        "cafe",
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/om-cafet"
     },
     {
       "entry": 1232408854,
@@ -17222,6 +17480,16 @@
         "volleyboll"
       ],
       "web": "https://beachcenter.se/"
+    },
+    {
+      "entry": 1232631836,
+      "orgNumber": "556706-5262",
+      "orgName": "Viks\u00e4ngskyrkan",
+      "comment": "K\u00f6ket",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/viksangskyrkan"
     },
     {
       "entry": 1232632503,
@@ -18596,6 +18864,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.grimsas.com/bassangforeningen/"
+    },
+    {
+      "entry": 1232786002,
+      "orgNumber": "556706-5262",
+      "orgName": "Viks\u00e4ngskyrkan",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/viksangskyrkan"
     },
     {
       "entry": 1232787240,
@@ -20338,6 +20616,16 @@
       "web": "https://fatta.nu/"
     },
     {
+      "entry": 1233049707,
+      "orgNumber": "556706-5262",
+      "orgName": "V\u00e4ster\u00e5s Domkyrka",
+      "comment": "K\u00f6rverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
+    },
+    {
       "entry": 1233049798,
       "orgNumber": "556731-4140",
       "orgName": "Socialdemokraterna i Haninge",
@@ -21082,6 +21370,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://trelleborg.scout.se/"
+    },
+    {
+      "entry": 1233157815,
+      "orgNumber": "556706-5262",
+      "orgName": "Gideonsbergskyrkan",
+      "comment": "Husmor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan"
     },
     {
       "entry": 1233158128,
@@ -22267,6 +22565,16 @@
       "web": "https://moderaterna.se/"
     },
     {
+      "entry": 1233363769,
+      "orgNumber": "556706-5262",
+      "orgName": "Viks\u00e4ngskyrkan",
+      "comment": "\u00d6ppna f\u00f6rskolan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/viksangskyrkan"
+    },
+    {
       "entry": 1233364866,
       "orgNumber": "012029-6207",
       "orgName": "Mora Hembygdslag",
@@ -22528,6 +22836,16 @@
         "religion"
       ],
       "web": "https://www.brunnskyrkan.se/"
+    },
+    {
+      "entry": 1233382959,
+      "orgNumber": "556706-5262",
+      "orgName": "\u00d6nsta-Gryta Kyrka",
+      "comment": "Kollekt/Kl\u00e4dbytardagar",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/onsta-gryta-kyrka"
     },
     {
       "entry": 1233383072,
@@ -22835,6 +23153,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.morlanda.org/"
+    },
+    {
+      "entry": 1233431079,
+      "orgNumber": "556706-5262",
+      "orgName": "V\u00e4ster\u00e5s Domkyrka",
+      "comment": "Musikverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
     },
     {
       "entry": 1233431475,
@@ -24331,6 +24659,16 @@
       "web": "https://supercentersoccer.com/"
     },
     {
+      "entry": 1233626496,
+      "orgNumber": "556706-5262",
+      "orgName": "Tillberga Kyrka",
+      "comment": "Dop/Clownetterna",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/tillberga-kyrka"
+    },
+    {
       "entry": 1233626710,
       "orgNumber": "802440-5451",
       "orgName": "V\u00e4ster\u00e5s Ki-Aikido",
@@ -24867,6 +25205,16 @@
       "web": "https://idrottonline.se/HebySkF-Skyttesport/"
     },
     {
+      "entry": 1233737376,
+      "orgNumber": "556706-5262",
+      "orgName": "Paletten",
+      "comment": "Caf\u00e9",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/paletten"
+    },
+    {
       "entry": 1233737418,
       "orgNumber": "802514-3226",
       "orgName": "Rotary H\u00e4ssleholm",
@@ -25045,6 +25393,16 @@
         "utbildning"
       ],
       "web": "https://lockerroomtalk.se/"
+    },
+    {
+      "entry": 1233790474,
+      "orgNumber": "556706-5262",
+      "orgName": "Tomaskyrkan",
+      "comment": "K\u00f6ket",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/tomaskyrkan"
     },
     {
       "entry": 1233790698,
@@ -26324,6 +26682,16 @@
         "islandsh\u00e4st"
       ],
       "web": "https://www.oddur.se/"
+    },
+    {
+      "entry": 1233956521,
+      "orgNumber": "556706-5262",
+      "orgName": "Mariag\u00e5rden i Skultuna",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/mariagarden-i-skultuna"
     },
     {
       "entry": 1233956570,
@@ -32235,6 +32603,16 @@
       "web": "https://www.korpenvasteras.se/"
     },
     {
+      "entry": 1234947644,
+      "orgNumber": "556706-5262",
+      "orgName": "\u00d6nsta-Gryta Kyrka",
+      "comment": "Ungdomsverksamhet/ACT",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/onsta-gryta-kyrka"
+    },
+    {
       "entry": 1234947982,
       "orgNumber": "802513-4795",
       "orgName": "TreSkaBliNoll Sverige",
@@ -32482,6 +32860,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234990875,
+      "orgNumber": "556706-5262",
+      "orgName": "Mariag\u00e5rden i Skultuna",
+      "comment": "Mariaboden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/mariagarden-i-skultuna"
     },
     {
       "entry": 1234992582,
@@ -33537,6 +33925,16 @@
       "web": "https://www.torrekullagk.se/"
     },
     {
+      "entry": 1235117841,
+      "orgNumber": "556706-5262",
+      "orgName": "Irsta Kyrka",
+      "comment": "\u00d6ppna f\u00f6rskolan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/irsta-kyrka"
+    },
+    {
       "entry": 1235118500,
       "orgNumber": "802498-6146",
       "orgName": "F\u00f6rebildarna / Ung Handlingskraft G\u00f6teborg",
@@ -34043,6 +34441,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/estuna-soderbykarls-forsamling"
+    },
+    {
+      "entry": 1235171137,
+      "orgNumber": "556706-5262",
+      "orgName": "Viks\u00e4ngskyrkan",
+      "comment": "Anna K/ Ungdom \u00d6st",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/viksangskyrkan"
     },
     {
       "entry": 1235172457,
@@ -35778,6 +36186,16 @@
         "golfklubb"
       ],
       "web": "https://hoganasgk.se/"
+    },
+    {
+      "entry": 1235413224,
+      "orgNumber": "556706-5262",
+      "orgName": "Gideonsbergskyrkan",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan"
     },
     {
       "entry": 1235414164,
@@ -38584,6 +39002,16 @@
         "f\u00f6rening"
       ],
       "web": "https://www.altunagarden.se/"
+    },
+    {
+      "entry": 1235789870,
+      "orgNumber": "252002-2134",
+      "orgName": "Barkar\u00f6 F\u00f6rsamling",
+      "comment": "Honung",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/barkaro-kyrka"
     },
     {
       "entry": 1235790423,
@@ -41866,6 +42294,16 @@
       "web": "https://www.rotarystudent.se/information-georgiastipendiet"
     },
     {
+      "entry": 1236284020,
+      "orgNumber": "556706-5262",
+      "orgName": "\u00d6nsta-Gryta Kyrka",
+      "comment": "Diakoni",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/onsta-gryta-kyrka"
+    },
+    {
       "entry": 1236284152,
       "orgNumber": "837000-9899",
       "orgName": "G\u00f6ingebygdens Biologiska F\u00f6rening",
@@ -42214,6 +42652,16 @@
       "web": "https://www.gustavsbergaren.se/"
     },
     {
+      "entry": 1236346803,
+      "orgNumber": "556706-5262",
+      "orgName": "V\u00e4ster\u00e5s Domkyrka",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
+    },
+    {
       "entry": 1236346860,
       "orgNumber": "817601-5587",
       "orgName": "Uppsala PonnyKlubb, UPK",
@@ -42254,6 +42702,16 @@
         "religion"
       ],
       "web": "https://www.brannkyrka.org/"
+    },
+    {
+      "entry": 1236348999,
+      "orgNumber": "556706-5262",
+      "orgName": "Mariag\u00e5rden i Skultuna",
+      "comment": "ACT",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/mariagarden-i-skultuna"
     },
     {
       "entry": 1236349120,
@@ -42572,6 +43030,16 @@
         "swingersklubb"
       ],
       "web": "https://www.sjundehimmelen.se/"
+    },
+    {
+      "entry": 1236405948,
+      "orgNumber": "556706-5262",
+      "orgName": "Gideonsbergskyrkan",
+      "comment": "Deltagaravgift",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan"
     },
     {
       "entry": 1236406110,
@@ -44241,6 +44709,16 @@
       "web": "https://www.brannkyrka.org/"
     },
     {
+      "entry": 1236688865,
+      "orgNumber": "556706-5262",
+      "orgName": "Kyrkbacksg\u00e5rden",
+      "comment": "Serveringen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/kyrkbacksgarden"
+    },
+    {
       "entry": 1236689178,
       "orgNumber": "897000-2195",
       "orgName": "Pingstf\u00f6rsamlingen i Kl\u00f6vertr\u00e4sk",
@@ -44350,6 +44828,16 @@
         "stroke"
       ],
       "web": "http://www.strokeforeningentranas.n.nu/"
+    },
+    {
+      "entry": 1236698898,
+      "orgNumber": "556706-5262",
+      "orgName": "Mikaelikyrkan",
+      "comment": "K\u00f6ket",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/mikaelikyrkan"
     },
     {
       "entry": 1236701171,
@@ -44495,6 +44983,16 @@
         "ridklubb"
       ],
       "web": "https://www.hittarpsridklubb.com/"
+    },
+    {
+      "entry": 1236719744,
+      "orgNumber": "556706-5262",
+      "orgName": "Tillberga Kyrka",
+      "comment": "Kl\u00e4dbytardagar, jullunch",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/tillberga-kyrka"
     },
     {
       "entry": 1236720445,
@@ -44656,6 +45154,16 @@
         "konstf\u00f6rening"
       ],
       "web": "https://www.friform.org/"
+    },
+    {
+      "entry": 1236742209,
+      "orgNumber": "556706-5262",
+      "orgName": "Gideonsbergskyrkan",
+      "comment": "Barnverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan"
     },
     {
       "entry": 1236750251,
@@ -45195,6 +45703,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://bovallstrand.com/"
+    },
+    {
+      "entry": 1236825632,
+      "orgNumber": "556706-5262",
+      "orgName": "V\u00e4ster\u00e5s Domkyrka",
+      "comment": "Katedralbutiken",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
     },
     {
       "entry": 1236826002,
@@ -45756,6 +46274,15 @@
       "web": "https://www.svenskalag.se/eojk"
     },
     {
+      "entry": 1236917546,
+      "orgNumber": "252002-2233",
+      "orgName": "Barkar\u00f6 - Dingtuna - Rytterne F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/kontakta-oss-rytterne"
+    },
+    {
       "entry": 1236917892,
       "orgNumber": "897300-3109",
       "orgName": "Kiruna Brukshundklubb",
@@ -45893,6 +46420,36 @@
         "ridskola"
       ],
       "web": "https://agersta.com/"
+    },
+    {
+      "entry": 1236941751,
+      "orgNumber": "556706-5262",
+      "orgName": "Mikaelikyrkan",
+      "comment": "Bokbordet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/mikaelikyrkan"
+    },
+    {
+      "entry": 1236941876,
+      "orgNumber": "556706-5262",
+      "orgName": "Tomaskyrkan",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/tomaskyrkan"
+    },
+    {
+      "entry": 1236942015,
+      "orgNumber": "556706-5262",
+      "orgName": "\u00d6nsta-Gryta Kyrka",
+      "comment": "Husmor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasteras/onsta-gryta-kyrka"
     },
     {
       "entry": 1236942676,
