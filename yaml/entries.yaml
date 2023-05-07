@@ -944,6 +944,15 @@ entries:
   - friluftsliv
   web: https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/vasteras/
 
+- entry: 1230111427
+  orgName: Galleri Fågel / Anders Borgenhag Holmqvist
+  orgNumber: 740819-XXXX
+  comment: null
+  categories:
+  - konstmåleri
+  - konstnär
+  web: https://www.gallerifagel.com/
+
 - entry: 1230113670
   orgName: Sångkören Divertimento
   orgNumber: 844000-7048
@@ -952,6 +961,14 @@ entries:
   - körsång
   - musikförening
   web: https://www.divertimento.se/
+
+- entry: 1230114801
+  orgName: Thoralf Alfsson
+  orgNumber: 571013-XXXX
+  comment: null
+  categories:
+  - författare
+  web: https://thoralfsblogg.com/
 
 - entry: 1230123448
   orgName: Jönköpings Litteraturhus
@@ -2023,6 +2040,14 @@ entries:
   - katthem
   web: http://vallentunakattcenter.se/
 
+- entry: 1230305011
+  orgName: Sankt Staffans Kapell Älvåsen
+  orgNumber: 802420-2205
+  comment: null
+  categories:
+  - religion
+  web: https://www.staffanskapellet.se/
+
 - entry: 1230305607
   orgName: Elimförsamlingen Bjuråker
   orgNumber: 887500-0542
@@ -2205,6 +2230,16 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.guif.nu/
+
+- entry: 1230336982
+  orgName: Solna Marin i Stockholm AB
+  orgNumber: 556870-9645
+  comment: null
+  categories:
+  - båtförsäljning
+  - båtvarv
+  - båtvård
+  web: https://solnamarin.se/
 
 - entry: 1230337022
   orgName: Gideonsbergskyrkan
@@ -15139,6 +15174,14 @@ entries:
   - hundhem
   web: http://lyrestadshundcenter.se/
 
+- entry: 1232545812
+  orgName: Vectrum Trafikutbildning AB
+  orgNumber: 556877-6800
+  comment: null
+  categories:
+  - trafikskola
+  web: https://www.vectrum.se/
+
 - entry: 1232545861
   orgName: Växjö OCR Förening
   orgNumber: 802535-6026
@@ -18739,6 +18782,14 @@ entries:
   - aktivitetshus
   web: https://aktivitetshuset.vidsel.se/
 
+- entry: 1233111291
+  orgName: Bil-Månsson i Skåne AB
+  orgNumber: 556256-7965
+  comment: null
+  categories:
+  - bilförsäljning
+  web: https://www.bilmansson.se/
+
 - entry: 1233111523
   orgName: Västernorrlands Stövarklubb, VNSK
   orgNumber: 802459-0310
@@ -21039,6 +21090,14 @@ entries:
   - båtvarv
   - segling
   web: https://www.hallberg-rassy.com/
+
+- entry: 1233469889
+  orgName: Funäsdalens IF Erik Halvarsson Minnesfond
+  orgNumber: 892600-8486
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.funasdalensif.se/om-oss/erik-h-minnesfond
 
 - entry: 1233474350
   orgName: Växjöortens Folkdanslag
@@ -25067,6 +25126,15 @@ entries:
   - stiftelse
   web: https://www.dynamisworldministries.com/swedish-svenska
 
+- entry: 1234181426
+  orgName: Prima Trafikskola AB
+  orgNumber: 556981-5425
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://primatrafikskola.se/
+
 - entry: 1234181657
   orgName: Kvinnojouren Sigtuna
   orgNumber: 814801-0815
@@ -28724,6 +28792,14 @@ entries:
   - intresseförening
   web: http://humanisterna.se/
 
+- entry: 1234836920
+  orgName: Föreningen Folkrörelsearkiv för Uppsala Län
+  orgNumber: 817601-7682
+  comment: null
+  categories:
+  - intresseförening
+  web: http://www.fauppsala.se/
+
 - entry: 1234836995
   orgName: Sveriges entomologiska förening
   orgNumber: 857203-8530
@@ -31087,6 +31163,14 @@ entries:
   categories:
   - discgolf
   web: https://idrottonline.se/StenungsundsDiscgolfClub-Frisbee/
+
+- entry: 1235209408
+  orgName: Liberalerna Göteborg
+  orgNumber: 857200-4383
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://goteborg.liberalerna.se/
 
 - entry: 1235209739
   orgName: Södra Sallerups Ryttareförening
@@ -34491,6 +34575,15 @@ entries:
   - katthem
   web: https://www.huskatten.com/
 
+- entry: 1235719448
+  orgName: Studiehemmet Hemgården
+  orgNumber: 825000-7336
+  comment: null
+  categories:
+  - folkbildning
+  - utbildning
+  web: https://www.hemgarden.com/
+
 - entry: 1235719919
   orgName: Ringarums Hembygdsförening
   orgNumber: 825002-4604
@@ -34609,6 +34702,14 @@ entries:
   - meditation
   - yoga
   web: https://www.yogabysandraadrian.se/
+
+- entry: 1235757026
+  orgName: Sledgehammers
+  orgNumber: 849202-3851
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.facebook.com/profile.php?id=100064413413291
 
 - entry: 1235757638
   orgName: Hillsong Church Sweden

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-04-25-rev-000900",
+    "date": "2023-05-07-rev-160057",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1028,6 +1028,16 @@
       "web": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/vasteras/"
     },
     {
+      "entry": 1230111427,
+      "orgNumber": "740819-XXXX",
+      "orgName": "Galleri F\u00e5gel / Anders Borgenhag Holmqvist",
+      "categories": [
+        "konstm\u00e5leri",
+        "konstn\u00e4r"
+      ],
+      "web": "https://www.gallerifagel.com/"
+    },
+    {
       "entry": 1230113670,
       "orgNumber": "844000-7048",
       "orgName": "S\u00e5ngk\u00f6ren Divertimento",
@@ -1036,6 +1046,15 @@
         "musikf\u00f6rening"
       ],
       "web": "https://www.divertimento.se/"
+    },
+    {
+      "entry": 1230114801,
+      "orgNumber": "571013-XXXX",
+      "orgName": "Thoralf Alfsson",
+      "categories": [
+        "f\u00f6rfattare"
+      ],
+      "web": "https://thoralfsblogg.com/"
     },
     {
       "entry": 1230123448,
@@ -2226,6 +2245,15 @@
       "web": "http://vallentunakattcenter.se/"
     },
     {
+      "entry": 1230305011,
+      "orgNumber": "802420-2205",
+      "orgName": "Sankt Staffans Kapell \u00c4lv\u00e5sen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.staffanskapellet.se/"
+    },
+    {
       "entry": 1230305607,
       "orgNumber": "887500-0542",
       "orgName": "Elimf\u00f6rsamlingen Bjur\u00e5ker",
@@ -2423,6 +2451,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.guif.nu/"
+    },
+    {
+      "entry": 1230336982,
+      "orgNumber": "556870-9645",
+      "orgName": "Solna Marin i Stockholm AB",
+      "categories": [
+        "b\u00e5tf\u00f6rs\u00e4ljning",
+        "b\u00e5tvarv",
+        "b\u00e5tv\u00e5rd"
+      ],
+      "web": "https://solnamarin.se/"
     },
     {
       "entry": 1230337022,
@@ -16918,6 +16957,15 @@
       "web": "http://lyrestadshundcenter.se/"
     },
     {
+      "entry": 1232545812,
+      "orgNumber": "556877-6800",
+      "orgName": "Vectrum Trafikutbildning AB",
+      "categories": [
+        "trafikskola"
+      ],
+      "web": "https://www.vectrum.se/"
+    },
+    {
       "entry": 1232545861,
       "orgNumber": "802535-6026",
       "orgName": "V\u00e4xj\u00f6 OCR F\u00f6rening",
@@ -20977,6 +21025,15 @@
       "web": "https://aktivitetshuset.vidsel.se/"
     },
     {
+      "entry": 1233111291,
+      "orgNumber": "556256-7965",
+      "orgName": "Bil-M\u00e5nsson i Sk\u00e5ne AB",
+      "categories": [
+        "bilf\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://www.bilmansson.se/"
+    },
+    {
       "entry": 1233111523,
       "orgNumber": "802459-0310",
       "orgName": "V\u00e4sternorrlands St\u00f6varklubb, VNSK",
@@ -23511,6 +23568,15 @@
         "segling"
       ],
       "web": "https://www.hallberg-rassy.com/"
+    },
+    {
+      "entry": 1233469889,
+      "orgNumber": "892600-8486",
+      "orgName": "Fun\u00e4sdalens IF Erik Halvarsson Minnesfond",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.funasdalensif.se/om-oss/erik-h-minnesfond"
     },
     {
       "entry": 1233474350,
@@ -27982,6 +28048,16 @@
       "web": "https://www.dynamisworldministries.com/swedish-svenska"
     },
     {
+      "entry": 1234181426,
+      "orgNumber": "556981-5425",
+      "orgName": "Prima Trafikskola AB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://primatrafikskola.se/"
+    },
+    {
       "entry": 1234181657,
       "orgNumber": "814801-0815",
       "orgName": "Kvinnojouren Sigtuna",
@@ -32064,6 +32140,15 @@
       "web": "http://humanisterna.se/"
     },
     {
+      "entry": 1234836920,
+      "orgNumber": "817601-7682",
+      "orgName": "F\u00f6reningen Folkr\u00f6relsearkiv f\u00f6r Uppsala L\u00e4n",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.fauppsala.se/"
+    },
+    {
       "entry": 1234836995,
       "orgNumber": "857203-8530",
       "orgName": "Sveriges entomologiska f\u00f6rening",
@@ -34698,6 +34783,15 @@
         "discgolf"
       ],
       "web": "https://idrottonline.se/StenungsundsDiscgolfClub-Frisbee/"
+    },
+    {
+      "entry": 1235209408,
+      "orgNumber": "857200-4383",
+      "orgName": "Liberalerna G\u00f6teborg",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://goteborg.liberalerna.se/"
     },
     {
       "entry": 1235209739,
@@ -38541,6 +38635,16 @@
       "web": "https://www.huskatten.com/"
     },
     {
+      "entry": 1235719448,
+      "orgNumber": "825000-7336",
+      "orgName": "Studiehemmet Hemg\u00e5rden",
+      "categories": [
+        "folkbildning",
+        "utbildning"
+      ],
+      "web": "https://www.hemgarden.com/"
+    },
+    {
       "entry": 1235719919,
       "orgNumber": "825002-4604",
       "orgName": "Ringarums Hembygdsf\u00f6rening",
@@ -38673,6 +38777,15 @@
         "yoga"
       ],
       "web": "https://www.yogabysandraadrian.se/"
+    },
+    {
+      "entry": 1235757026,
+      "orgNumber": "849202-3851",
+      "orgName": "Sledgehammers",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.facebook.com/profile.php?id=100064413413291"
     },
     {
       "entry": 1235757638,
