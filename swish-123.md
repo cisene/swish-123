@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-05-07-rev-160057
+Date:     2023-05-14-rev-154526
 ...
 
 # Swish 123 Nummer
@@ -1065,6 +1065,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231605088 | 819000-9707 | Hjortensbergskyrkans Församling                                                                      | [Link](https://www.hjortensbergskyrkan.se/) |
 | 1231605161 | 802463-7186 | Lions Club Löddeköpinge                                                                              | [Link](https://www.lionslodde.se/) |
 | 1231605468 | 818000-7166 | Eskilstuna Brukshundsklubb                                                                           | [Link](https://www.eskilstunabk.se/) |
+| 1231605559 | 802422-6774 | Green Machine                                                                                        | [Link](https://green-machine.se/) |
 | 1231605567 | 883201-7597 | Lions Club Sundborn                                                                                  | [Link](https://www.sundborn.com/lions-club) |
 | 1231610286 | 252000-0650 | Brännkyrka Församling                                                                                | [Link](https://www.brannkyrka.org/) |
 | 1231610930 | 825000-0158 | Betaniaförsamlingen i Östra Ryd                                                                      | [Link](https://www.betaniaostraryd.se/) |
@@ -3612,6 +3613,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235345178 | 556741-9618 | Lindeborgs Eco Retreat / Lindeborg Development AB                                                    | [Link](https://www.lindeborgs.com/) |
 | 1235347216 | 969783-8945 | Pizzeria Happy Time                                                                                  | [Link](https://happytimetidaholm.se/) |
 | 1235347224 | 559242-4690 | Feel free by nature AB                                                                               | [Link](https://www.feelfreebynature.se/yoga-i-saro/) |
+| 1235347331 | 769638-3442 | Vännerna Uppsala                                                                                     | [Link](https://www.siriusfotboll.se/vannerna-uppsala/) |
 | 1235348701 | 802481-5626 | Insamlingsstiftelsen Hållbar utveckling samt Kris och Beredskap                                      | [Link](https://hallbarutvecklingkrisochberedskap.se/) |
 | 1235350350 | 802415-7250 | Food Addicts Anonymous, Anonyma matmissbrukare, FAA                                                  | [Link](https://www.faa.se/) |
 | 1235350525 | 817301-4989 | Föreningen kultur vid Örbyhus Slott                                                                  | [Link](https://www.orbyhusslott.se/) |
@@ -4537,6 +4539,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236712624 | 897000-3078 | Byggnads Norrbotten                                                                                  | [Link](https://www.byggnads.se/regioner/norrbotten/) |
 | 1236713135 | 802001-5569 | IOGT-NTO                                                                                             | [Link](https://www.iogt.se/) |
 | 1236713523 | 829500-7549 | Sandsbro AIK                                                                                         | [Link](https://www.svenskalag.se/sandsbroaik/) |
+| 1236713556 | 885002-2016 | Carrickläktaren                                                                                      | [Link](https://carricklaktaren.se/) |
 | 1236713572 | 834000-3469 | Sanda Hembygdsförening                                                                               | [Link](https://www.sandagotland.se/) |
 | 1236713630 | 869001-0056 | Götene Brukshundklubb                                                                                | [Link](http://www.gotenebk.com/) |
 | 1236713903 | 802478-3816 | Viggo Foundation - Insamlingsstifte                                                                  | [Link](https://www.viggofoundation.se/) |

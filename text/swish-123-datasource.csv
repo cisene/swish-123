@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-05-07-rev-160057
+# Date: 2023-05-14-rev-154526
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1063,6 +1063,7 @@
 "1231605088","819000-9707","Hjortensbergskyrkans Församling","https://www.hjortensbergskyrkan.se/","religion","Församlingen"
 "1231605161","802463-7186","Lions Club Löddeköpinge","https://www.lionslodde.se/","lionsklubb",""
 "1231605468","818000-7166","Eskilstuna Brukshundsklubb","https://www.eskilstunabk.se/","brukshundsklubb,hundsport",""
+"1231605559","802422-6774","Green Machine","https://green-machine.se/","supporterklubb",""
 "1231605567","883201-7597","Lions Club Sundborn","https://www.sundborn.com/lions-club","lionsklubb",""
 "1231610286","252000-0650","Brännkyrka Församling","https://www.brannkyrka.org/","religion","Onsdagens kollekt Vårfrukyrkan"
 "1231610930","825000-0158","Betaniaförsamlingen i Östra Ryd","https://www.betaniaostraryd.se/","religion",""
@@ -3610,6 +3611,7 @@
 "1235345178","556741-9618","Lindeborgs Eco Retreat / Lindeborg Development AB","https://www.lindeborgs.com/","konferens,logi,utbildning",""
 "1235347216","969783-8945","Pizzeria Happy Time","https://happytimetidaholm.se/","pizzeria",""
 "1235347224","559242-4690","Feel free by nature AB","https://www.feelfreebynature.se/yoga-i-saro/","trädgårdsodling,yoga",""
+"1235347331","769638-3442","Vännerna Uppsala","https://www.siriusfotboll.se/vannerna-uppsala/","supporterklubb",""
 "1235348701","802481-5626","Insamlingsstiftelsen Hållbar utveckling samt Kris och Beredskap","https://hallbarutvecklingkrisochberedskap.se/","stiftelse",""
 "1235350350","802415-7250","Food Addicts Anonymous, Anonyma matmissbrukare, FAA","https://www.faa.se/","information,intresseförening,missbruk",""
 "1235350525","817301-4989","Föreningen kultur vid Örbyhus Slott","https://www.orbyhusslott.se/","kulturförening",""
@@ -4535,6 +4537,7 @@
 "1236712624","897000-3078","Byggnads Norrbotten","https://www.byggnads.se/regioner/norrbotten/","facklig organisation",""
 "1236713135","802001-5569","IOGT-NTO","https://www.iogt.se/","nykterhetsförbund","Medlemsavgift"
 "1236713523","829500-7549","Sandsbro AIK","https://www.svenskalag.se/sandsbroaik/","idrottsförening",""
+"1236713556","885002-2016","Carrickläktaren","https://carricklaktaren.se/","supporterklubb",""
 "1236713572","834000-3469","Sanda Hembygdsförening","https://www.sandagotland.se/","hembygdsförening",""
 "1236713630","869001-0056","Götene Brukshundklubb","http://www.gotenebk.com/","brukshundsklubb,hundsport",""
 "1236713903","802478-3816","Viggo Foundation - Insamlingsstifte","https://www.viggofoundation.se/","npf-diagnoser,stiftelse",""

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-05-07-rev-160057",
+    "date": "2023-05-14-rev-154526",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -10432,6 +10432,15 @@
         "hundsport"
       ],
       "web": "https://www.eskilstunabk.se/"
+    },
+    {
+      "entry": 1231605559,
+      "orgNumber": "802422-6774",
+      "orgName": "Green Machine",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://green-machine.se/"
     },
     {
       "entry": 1231605567,
@@ -35835,6 +35844,15 @@
       "web": "https://www.feelfreebynature.se/yoga-i-saro/"
     },
     {
+      "entry": 1235347331,
+      "orgNumber": "769638-3442",
+      "orgName": "V\u00e4nnerna Uppsala",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.siriusfotboll.se/vannerna-uppsala/"
+    },
+    {
       "entry": 1235348701,
       "orgNumber": "802481-5626",
       "orgName": "Insamlingsstiftelsen H\u00e5llbar utveckling samt Kris och Beredskap",
@@ -45037,6 +45055,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/sandsbroaik/"
+    },
+    {
+      "entry": 1236713556,
+      "orgNumber": "885002-2016",
+      "orgName": "Carrickl\u00e4ktaren",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://carricklaktaren.se/"
     },
     {
       "entry": 1236713572,
