@@ -5655,6 +5655,15 @@ entries:
   - turridning
   web: https://kalvbergsasen.se/
 
+- entry: 1230950774
+  orgName: Dalarna Femund-forkörarförening
+  orgNumber: 802443-8767
+  comment: null
+  categories:
+  - historieförening
+  - kulturförening
+  web: http://www.dalarnafemund.com/
+
 - entry: 1230959130
   orgName: Lunds Botaniska Förening
   orgNumber: 845000-3077
@@ -18046,6 +18055,14 @@ entries:
   - travsport
   web: http://solvalla-amatorklubb.se/
 
+- entry: 1232983476
+  orgName: Landskronafamiljen
+  orgNumber: null
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.facebook.com/Landskronafamiljen
+
 - entry: 1232990513
   orgName: Hundar Utan Hem
   orgNumber: 802432-7630
@@ -25167,6 +25184,16 @@ entries:
   - djurskydd
   web: https://www.djurensvanner.se/monsteras
 
+- entry: 1234190880
+  orgName: The Swedish Surfing Association
+  orgNumber: 802501-2850
+  comment: null
+  categories:
+  - förbund
+  - riksförbund
+  - surfing
+  web: https://www.surfforbundet.se/
+
 - entry: 1234193561
   orgName: FTM-Mission
   orgNumber: 826500-3494
@@ -26695,6 +26722,15 @@ entries:
   - fiskevård
   web: https://www.holmbygden.se/fritid/fiske/
 
+- entry: 1234428140
+  orgName: Sävarådalens Trädgårdssällskap
+  orgNumber: 802516-3257
+  comment: null
+  categories:
+  - trädgårdsförening
+  - trädgårdssällskap
+  web: http://www.savartradgard.se/
+
 - entry: 1234428256
   orgName: NRH Trauma Riks
   orgNumber: 802496-4085
@@ -27946,6 +27982,14 @@ entries:
   - anhörigorganisation
   - föräldraförening
   web: https://www.autism.se/stockholm/
+
+- entry: 1234643094
+  orgName: Mjölkkossan
+  orgNumber: 843002-3500
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://mjölkkossan.se/
 
 - entry: 1234643565
   orgName: Brännkyrka Församling
@@ -34841,6 +34885,14 @@ entries:
   - hembygdsförening
   web: http://www.jarlebyalag.se/
 
+- entry: 1235766449
+  orgName: Supporterklubben Kärnan
+  orgNumber: 843003-4754
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.karnan.nu/
+
 - entry: 1235767876
   orgName: Lions Club Rättvik
   orgNumber: 883201-8116
@@ -40201,6 +40253,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/kyrkbacksgarden
 
+- entry: 1236688907
+  orgName: Söderhamns Flygklubb
+  orgNumber: 886000-1042
+  comment: null
+  categories:
+  - flygklubb
+  web: https://soderhamnsflygklubb.se/
+
 - entry: 1236689178
   orgName: Pingstförsamlingen i Klöverträsk
   orgNumber: 897000-2195
@@ -40608,6 +40668,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan
+
+- entry: 1236744221
+  orgName: SDK Isbjörnarna
+  orgNumber: 894002-1986
+  comment: null
+  categories:
+  - dykarklubb
+  - dykklubb
+  - dykskola
+  web: http://www.isbjornarna.com/
 
 - entry: 1236750251
   orgName: UpplevVadstena AB

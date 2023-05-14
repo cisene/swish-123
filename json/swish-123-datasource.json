@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-05-14-rev-154526",
+    "date": "2023-05-14-rev-185628",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6276,6 +6276,16 @@
         "turridning"
       ],
       "web": "https://kalvbergsasen.se/"
+    },
+    {
+      "entry": 1230950774,
+      "orgNumber": "802443-8767",
+      "orgName": "Dalarna Femund-fork\u00f6rarf\u00f6rening",
+      "categories": [
+        "historief\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "http://www.dalarnafemund.com/"
     },
     {
       "entry": 1230959130,
@@ -28095,6 +28105,17 @@
       "web": "https://www.djurensvanner.se/monsteras"
     },
     {
+      "entry": 1234190880,
+      "orgNumber": "802501-2850",
+      "orgName": "The Swedish Surfing Association",
+      "categories": [
+        "f\u00f6rbund",
+        "riksf\u00f6rbund",
+        "surfing"
+      ],
+      "web": "https://www.surfforbundet.se/"
+    },
+    {
       "entry": 1234193561,
       "orgNumber": "826500-3494",
       "orgName": "FTM-Mission",
@@ -29780,6 +29801,16 @@
       "web": "https://www.holmbygden.se/fritid/fiske/"
     },
     {
+      "entry": 1234428140,
+      "orgNumber": "802516-3257",
+      "orgName": "S\u00e4var\u00e5dalens Tr\u00e4dg\u00e5rdss\u00e4llskap",
+      "categories": [
+        "tr\u00e4dg\u00e5rdsf\u00f6rening",
+        "tr\u00e4dg\u00e5rdss\u00e4llskap"
+      ],
+      "web": "http://www.savartradgard.se/"
+    },
+    {
       "entry": 1234428256,
       "orgNumber": "802496-4085",
       "orgName": "NRH Trauma Riks",
@@ -31195,6 +31226,15 @@
         "f\u00f6r\u00e4ldraf\u00f6rening"
       ],
       "web": "https://www.autism.se/stockholm/"
+    },
+    {
+      "entry": 1234643094,
+      "orgNumber": "843002-3500",
+      "orgName": "Mj\u00f6lkkossan",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://mj\u00f6lkkossan.se/"
     },
     {
       "entry": 1234643565,
@@ -38936,6 +38976,15 @@
       "web": "http://www.jarlebyalag.se/"
     },
     {
+      "entry": 1235766449,
+      "orgNumber": "843003-4754",
+      "orgName": "Supporterklubben K\u00e4rnan",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.karnan.nu/"
+    },
+    {
       "entry": 1235767876,
       "orgNumber": "883201-8116",
       "orgName": "Lions Club R\u00e4ttvik",
@@ -44850,6 +44899,15 @@
       "web": "https://www.svenskakyrkan.se/vasteras/kyrkbacksgarden"
     },
     {
+      "entry": 1236688907,
+      "orgNumber": "886000-1042",
+      "orgName": "S\u00f6derhamns Flygklubb",
+      "categories": [
+        "flygklubb"
+      ],
+      "web": "https://soderhamnsflygklubb.se/"
+    },
+    {
       "entry": 1236689178,
       "orgNumber": "897000-2195",
       "orgName": "Pingstf\u00f6rsamlingen i Kl\u00f6vertr\u00e4sk",
@@ -45304,6 +45362,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan"
+    },
+    {
+      "entry": 1236744221,
+      "orgNumber": "894002-1986",
+      "orgName": "SDK Isbj\u00f6rnarna",
+      "categories": [
+        "dykarklubb",
+        "dykklubb",
+        "dykskola"
+      ],
+      "web": "http://www.isbjornarna.com/"
     },
     {
       "entry": 1236750251,
