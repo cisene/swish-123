@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-05-28-rev-100819",
+    "date": "2023-05-28-rev-144151",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -530,6 +530,15 @@
       "web": "https://stallslate.n.nu/"
     },
     {
+      "entry": 1230062448,
+      "orgNumber": "846502-3102",
+      "orgName": "PRO Esl\u00f6v",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/eslov"
+    },
+    {
       "entry": 1230063214,
       "orgNumber": "872000-7916",
       "orgName": "Eda Ryttarf\u00f6rening",
@@ -803,6 +812,15 @@
       "web": "https://www.kilsbergentrailrun.se/"
     },
     {
+      "entry": 1230078790,
+      "orgNumber": "826000-0362",
+      "orgName": "Bottnarydskretsen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://bottnarydallians.se/"
+    },
+    {
       "entry": 1230079061,
       "orgNumber": "559006-6980",
       "orgName": "Solkarina / Sinnligkunskap AB",
@@ -866,6 +884,15 @@
       "web": "https://tailzone.se/"
     },
     {
+      "entry": 1230086561,
+      "orgNumber": "802538-4150",
+      "orgName": "World Evangelical Restoration Ministries, WERM",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.werministries.org/"
+    },
+    {
       "entry": 1230086579,
       "orgNumber": "559104-9175",
       "orgName": "Sverigeide",
@@ -874,6 +901,15 @@
         "st\u00e4dning"
       ],
       "web": "https://www.sverigeide.se/"
+    },
+    {
+      "entry": 1230086819,
+      "orgNumber": "832801-0361",
+      "orgName": "F\u00f6reningen S/S Nalle",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://nalleoskarshamn.se/"
     },
     {
       "entry": 1230088690,
@@ -999,6 +1035,16 @@
       "web": "https://sites.google.com/site/dskkhemsida/"
     },
     {
+      "entry": 1230100438,
+      "orgNumber": "556634-2795",
+      "orgName": "K\u00e4nslogalan / Musik i Syd",
+      "categories": [
+        "event",
+        "musik"
+      ],
+      "web": "https://www.k\u00e4nslogalan.se/"
+    },
+    {
       "entry": 1230100743,
       "orgNumber": "802430-8374",
       "orgName": "Inlands Sl\u00e4ktforskare",
@@ -1057,6 +1103,15 @@
       "web": "https://thoralfsblogg.com/"
     },
     {
+      "entry": 1230121640,
+      "orgNumber": "556459-0510",
+      "orgName": "Persk\u00f6ps St\u00e4llplats / Wnk Skogsgallring AB",
+      "categories": [
+        "st\u00e4llplats"
+      ],
+      "web": "https://www.perskopsstallplats.com/"
+    },
+    {
       "entry": 1230123448,
       "orgNumber": "802524-1194",
       "orgName": "J\u00f6nk\u00f6pings Litteraturhus",
@@ -1085,6 +1140,27 @@
         "religion"
       ],
       "web": "https://www.kungsporten.com/"
+    },
+    {
+      "entry": 1230125302,
+      "orgNumber": "864500-0962",
+      "orgName": "Bor\u00e5s Sportfiskeklubb",
+      "categories": [
+        "sportfiske",
+        "sportfiskeklubb"
+      ],
+      "web": "https://www.laget.se/BorasSFK/"
+    },
+    {
+      "entry": 1230126193,
+      "orgNumber": "802013-3099",
+      "orgName": "Riksf\u00f6rbundet Hj\u00e4rtLung Stockholm",
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://www.hjart-lung.se/riksforbundet/stockholm/lokalforeningar/stockholm/"
     },
     {
       "entry": 1230127076,
@@ -1229,7 +1305,8 @@
       "orgName": "Diabetesorganisationen i Sverige, DIOS",
       "categories": [
         "diabetes",
-        "h\u00e4lsov\u00e5rd"
+        "h\u00e4lsov\u00e5rd",
+        "patientf\u00f6rening"
       ],
       "web": "https://diabetesorg.se/"
     },
@@ -1262,6 +1339,34 @@
         "biljardklubb"
       ],
       "web": "http://www.mhbiljardklubb.se/"
+    },
+    {
+      "entry": 1230172155,
+      "orgNumber": "556630-3169",
+      "orgName": "V\u00e4rldens \u00c4nde Friskv\u00e5rdare / Trosa Kombo Kunsult AB",
+      "categories": [
+        "massage"
+      ],
+      "web": "https://friskvardare.se/"
+    },
+    {
+      "entry": 1230173161,
+      "orgNumber": "817000-5949",
+      "orgName": "G\u00f6ta Motors\u00e4llskap",
+      "categories": [
+        "motorklubb",
+        "motors\u00e4llskap"
+      ],
+      "web": "https://www.gota.nu/"
+    },
+    {
+      "entry": 1230181917,
+      "orgNumber": "835000-3185",
+      "orgName": "Ols\u00e4ngsg\u00e5rden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://olsangsgarden.se/"
     },
     {
       "entry": 1230182063,
@@ -1338,7 +1443,7 @@
     {
       "entry": 1230183822,
       "orgNumber": "875700-0818",
-      "orgName": "Pingstf\u00f6rsamlingen I Kumla",
+      "orgName": "Pingstf\u00f6rsamlingen i Kumla",
       "categories": [
         "religion"
       ],
@@ -1382,6 +1487,15 @@
       "web": "http://fridakvinnojour.se/"
     },
     {
+      "entry": 1230185348,
+      "orgNumber": "828000-3115",
+      "orgName": "V\u00e4rnamo Alliansf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://varnamoallians.se/"
+    },
+    {
       "entry": 1230185603,
       "orgNumber": "854601-1787",
       "orgName": "Djurhemmet Tigerharen Vegan Sanctuary",
@@ -1403,7 +1517,7 @@
     {
       "entry": 1230186684,
       "orgNumber": "556712-8805",
-      "orgName": "Peter o Susanne BOWLING AB",
+      "orgName": "Peter o Susanne Bowling AB",
       "categories": [
         "bowling",
         "f\u00f6rs\u00e4ljning"
@@ -1461,6 +1575,15 @@
       "web": "https://baravanlig.se/"
     },
     {
+      "entry": 1230192526,
+      "orgNumber": "883201-0121",
+      "orgName": "Olsn\u00e4sg\u00e5rdens V\u00e4nner",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://olsnasgarden.com/"
+    },
+    {
       "entry": 1230192690,
       "orgNumber": "802453-9697",
       "orgName": "Hasse & Tage-Museets V\u00e4nner",
@@ -1479,6 +1602,27 @@
         "spiritualism"
       ],
       "web": "https://luckytarot.se/"
+    },
+    {
+      "entry": 1230192948,
+      "orgNumber": "556145-9321",
+      "orgName": "Mattssons Trafikskola i V\u00e4rnamo AB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://mattssons-trafikskola.se/"
+    },
+    {
+      "entry": 1230193045,
+      "orgNumber": "818500-3525",
+      "orgName": "\u00d6ster\u00e5kers Idrottss\u00e4llskap (\u00d6IS)",
+      "categories": [
+        "f\u00f6rening",
+        "idrottsf\u00f6rening",
+        "idrottss\u00e4llskap"
+      ],
+      "web": "https://www.svenskalag.se/osterakersis"
     },
     {
       "entry": 1230196550,
@@ -1664,6 +1808,15 @@
       "web": "http://www.glumslovsbyalag.se/"
     },
     {
+      "entry": 1230224758,
+      "orgNumber": "885001-0920",
+      "orgName": "Al-Rashideen Mosk\u00e9 i G\u00e4vle",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://aishacenter.se/"
+    },
+    {
       "entry": 1230226126,
       "orgNumber": "252001-5369",
       "orgName": "Bro F\u00f6rsamling",
@@ -1712,6 +1865,15 @@
       "web": "https://www.svenskakyrkan.se/tingsryd/tingsas"
     },
     {
+      "entry": 1230227256,
+      "orgNumber": "559239-7490",
+      "orgName": "Floroteket AB",
+      "categories": [
+        "handelstr\u00e4dg\u00e5rd"
+      ],
+      "web": "https://www.floroteket.se/"
+    },
+    {
       "entry": 1230227330,
       "orgNumber": "559140-5914",
       "orgName": "Caf\u00e9 Cuv\u00e9e Stockholm AB",
@@ -1740,6 +1902,15 @@
       "web": "https://ktjboras.se/"
     },
     {
+      "entry": 1230232868,
+      "orgNumber": "802456-6229",
+      "orgName": "Roj Fans",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.instagram.com/rojfansofficiell/"
+    },
+    {
       "entry": 1230234310,
       "orgNumber": "838201-7062",
       "orgName": "Nedre Helge\u00e5ns FVO",
@@ -1758,6 +1929,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sudrets-pastorat"
+    },
+    {
+      "entry": 1230237610,
+      "orgNumber": "846002-3305",
+      "orgName": "Svensk F\u00f6rening f\u00f6r Odontologisk Radiologi, SFOR",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://sfor.se/"
     },
     {
       "entry": 1230238550,
@@ -1799,6 +1979,25 @@
       "web": "https://www.boracol.nu/"
     },
     {
+      "entry": 1230240952,
+      "orgNumber": "556648-1593",
+      "orgName": "Sliceit Golf Aktiebolag",
+      "categories": [
+        "golftr\u00e4nare",
+        "utbildning"
+      ],
+      "web": "https://sliceitgolf.se/"
+    },
+    {
+      "entry": 1230241414,
+      "orgNumber": "887500-0674",
+      "orgName": "H\u00f6glidenkyrkan Pingst Hudiksvall",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.hoglidenkyrkan.se/"
+    },
+    {
       "entry": 1230241539,
       "orgNumber": "857203-4042",
       "orgName": "Supporterklubben \u00c4nglarna",
@@ -1806,6 +2005,17 @@
         "supporterklubb"
       ],
       "web": "https://anglarna.se/"
+    },
+    {
+      "entry": 1230242792,
+      "orgNumber": "857204-8315",
+      "orgName": "G\u00f6teborgs Hundkappl\u00f6pningsklubb",
+      "categories": [
+        "hundkappl\u00f6pning",
+        "hundkappl\u00f6pningsklubb",
+        "hundsport"
+      ],
+      "web": "http://hundkapp.net/"
     },
     {
       "entry": 1230243188,
@@ -1838,6 +2048,15 @@
       "web": "https://www.afrogarden.com/"
     },
     {
+      "entry": 1230244491,
+      "orgNumber": "854600-0897",
+      "orgName": "Lysekils Allm\u00e4nna Idrottsklubb",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/lysekils_aik/"
+    },
+    {
       "entry": 1230244871,
       "orgNumber": "252004-7669",
       "orgName": "Hyltebruks Pastorat",
@@ -1865,6 +2084,15 @@
         "yoga"
       ],
       "web": "https://www.yogaiakersberga.se/"
+    },
+    {
+      "entry": 1230253930,
+      "orgNumber": "559199-2655",
+      "orgName": "Pet Vet Sweden AB",
+      "categories": [
+        "veterin\u00e4r"
+      ],
+      "web": "https://www.petvet.se/"
     },
     {
       "entry": 1230253989,
@@ -1906,6 +2134,15 @@
       "web": "https://hemmetvidvagen.se/"
     },
     {
+      "entry": 1230263236,
+      "orgNumber": "802524-0097",
+      "orgName": "Bibelns v\u00e4rld",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://bibelnsvarld.nu/"
+    },
+    {
       "entry": 1230263343,
       "orgNumber": "760815-XXXX",
       "orgName": "Yogafarmen / Linn\u00e9a El-Solh",
@@ -1922,6 +2159,15 @@
         "alternativa nyheter"
       ],
       "web": "https://insikt24.se/"
+    },
+    {
+      "entry": 1230264101,
+      "orgNumber": "802461-2221",
+      "orgName": "IK Spring V\u00e4st",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ikspringvast.com/"
     },
     {
       "entry": 1230265298,
@@ -2011,6 +2257,15 @@
       "web": "https://www.bastuakademien.se/"
     },
     {
+      "entry": 1230272302,
+      "orgNumber": "031014-XXXX",
+      "orgName": "Livemusik UF / Nikki Hatton",
+      "categories": [
+        "musik"
+      ],
+      "web": "https://www.youtube.com/@livemusikuf5054"
+    },
+    {
       "entry": 1230278762,
       "orgNumber": "802526-3669",
       "orgName": "Kallbadhusf\u00f6reningen Havsbadet i \u00c4ngelholm",
@@ -2055,6 +2310,15 @@
       "web": "https://www.starlightpsykologi.com/"
     },
     {
+      "entry": 1230279513,
+      "orgNumber": "782000-1357",
+      "orgName": "F\u00f6reningen Folkets Hus L\u00e5ngshyttan",
+      "categories": [
+        "lokaluthyrning"
+      ],
+      "web": "https://www.langshyttansfolketshus.com/"
+    },
+    {
       "entry": 1230290213,
       "orgNumber": "802442-1219",
       "orgName": "Svenska Finnjollef\u00f6rbundet",
@@ -2074,6 +2338,25 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.vassundaif.se/"
+    },
+    {
+      "entry": 1230291492,
+      "orgNumber": "888800-3061",
+      "orgName": "V\u00e4stra \u00c5ngermanlands Travs\u00e4llskap",
+      "categories": [
+        "travs\u00e4llskap"
+      ],
+      "web": "https://hotingtravet.com/"
+    },
+    {
+      "entry": 1230294033,
+      "orgNumber": "802474-8561",
+      "orgName": "Spanska Akademins fotbollsf\u00f6rening",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.spanskaakademin.se/"
     },
     {
       "entry": 1230294827,
@@ -2138,6 +2421,16 @@
       "web": "http://www.vallentunagk.se/"
     },
     {
+      "entry": 1230297473,
+      "orgNumber": "817001-4537",
+      "orgName": "BACHO Museet / J P Johansson-S\u00e4llskapet",
+      "categories": [
+        "historief\u00f6rening",
+        "museum"
+      ],
+      "web": "https://bahcomuseum.se/"
+    },
+    {
       "entry": 1230297721,
       "orgNumber": "556339-7859",
       "orgName": "S\u00f6dert\u00e4lje Bil & Alldemo AB",
@@ -2175,6 +2468,15 @@
         "skytteklubb"
       ],
       "web": "https://www.strangnas-jsk.se/"
+    },
+    {
+      "entry": 1230300384,
+      "orgNumber": "802004-1797",
+      "orgName": "Abrahamsbergskyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://abrahamsbergskyrkan.se/"
     },
     {
       "entry": 1230300392,
@@ -2263,6 +2565,16 @@
       "web": "http://nasviken.pingst.se/"
     },
     {
+      "entry": 1230305615,
+      "orgNumber": "829501-5831",
+      "orgName": "Bra\u00e5s Ponny- och Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.braaspork.se/"
+    },
+    {
       "entry": 1230313833,
       "orgNumber": "769606-2228",
       "orgName": "Brf Pinnpojken",
@@ -2325,6 +2637,16 @@
       "web": "https://www.independentliving.org/"
     },
     {
+      "entry": 1230319525,
+      "orgNumber": "846002-2968",
+      "orgName": "Lomma Tennis F\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "tennisklubb"
+      ],
+      "web": "http://lommatf.se/"
+    },
+    {
       "entry": 1230320135,
       "orgNumber": "802002-8638",
       "orgName": "F\u00f6rsoningsgruppen",
@@ -2332,6 +2654,24 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.forsoningsgruppen.com/"
+    },
+    {
+      "entry": 1230321265,
+      "orgNumber": "252003-0822",
+      "orgName": "H\u00e5bo Pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/habopastorat"
+    },
+    {
+      "entry": 1230321463,
+      "orgNumber": "817602-7889",
+      "orgName": "Harmony Heights",
+      "categories": [
+        "k\u00f6rs\u00e5ng"
+      ],
+      "web": "https://harmonyheights.se/"
     },
     {
       "entry": 1230321976,
@@ -2352,6 +2692,15 @@
         "orienteringsklubb"
       ],
       "web": "https://idrottonline.se/MullsjoSOK-Orientering/"
+    },
+    {
+      "entry": 1230323337,
+      "orgNumber": "802467-7182",
+      "orgName": "Astronomisk Ungdom, AU",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.astronomiskungdom.se/"
     },
     {
       "entry": 1230323667,
@@ -2382,6 +2731,34 @@
       "web": "https://onneredsbatlag.se/"
     },
     {
+      "entry": 1230325910,
+      "orgNumber": "620312-XXXX",
+      "orgName": "Internationella Kristna Ambassaden Jerusalem, ICEJ / Gitten \u00d6holm",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.icej.se/"
+    },
+    {
+      "entry": 1230328385,
+      "orgNumber": "252004-7982",
+      "orgName": "Fr\u00f6s\u00f6 Sunne Norder\u00f6 f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/frososunnenordero"
+    },
+    {
+      "entry": 1230328641,
+      "orgNumber": "893201-0955",
+      "orgName": "Hede Samf\u00e4llighetsf\u00f6rening",
+      "categories": [
+        "fiskev\u00e5rd",
+        "sportfiske"
+      ],
+      "web": "http://fiskeihede.se/"
+    },
+    {
       "entry": 1230328922,
       "orgNumber": "892000-9803",
       "orgName": "Ljungdalens Friluftsf\u00f6rening Turist- & Informations Byr\u00e5",
@@ -2402,6 +2779,16 @@
       "web": "https://katthemmetoskarshamn.se/"
     },
     {
+      "entry": 1230333328,
+      "orgNumber": "825001-3011",
+      "orgName": "Hela M\u00e4nniskan Norrk\u00f6ping Ria",
+      "comment": "G\u00e5va",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://helamanniskan.se/norrkoping/"
+    },
+    {
       "entry": 1230333591,
       "orgNumber": "924000-6768",
       "orgName": "Stall Nyckelby",
@@ -2412,6 +2799,15 @@
       "web": "http://www.stallnyckelby.se/"
     },
     {
+      "entry": 1230333781,
+      "orgNumber": "826000-0354",
+      "orgName": "Bottnaryds Alliansf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://bottnarydallians.se/"
+    },
+    {
       "entry": 1230334276,
       "orgNumber": "875000-0310",
       "orgName": "Filadelfiakyrkan \u00d6rebro",
@@ -2419,6 +2815,16 @@
         "religion"
       ],
       "web": "http://www.filadelfiaorebro.se/"
+    },
+    {
+      "entry": 1230334292,
+      "orgNumber": "252000-5501",
+      "orgName": "M\u00e5nsarps F\u00f6rsamling",
+      "comment": "ACT",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/mansarp"
     },
     {
       "entry": 1230336172,
@@ -2506,6 +2912,15 @@
       "web": "https://www.fralsningsarmen.se/Nykoping/"
     },
     {
+      "entry": 1230345140,
+      "orgNumber": "556779-7377",
+      "orgName": "Batalj Event AB",
+      "categories": [
+        "eventarrang\u00f6r"
+      ],
+      "web": "https://www.bataljevent.se/"
+    },
+    {
       "entry": 1230345801,
       "orgNumber": "814400-4853",
       "orgName": "Ridklubben Norrt\u00e4lje Ryttare",
@@ -2576,6 +2991,16 @@
       "web": "https://sverigeforunhcr.se/"
     },
     {
+      "entry": 1230363846,
+      "orgNumber": "960405-XXXX",
+      "orgName": "Natalie Carrion",
+      "categories": [
+        "artist",
+        "musik"
+      ],
+      "web": "http://www.nataliecarrion.se/"
+    },
+    {
       "entry": 1230364281,
       "orgNumber": "802006-9392",
       "orgName": "Medborgarr\u00e4ttsr\u00f6relsen i Sverige, MRRS",
@@ -2627,6 +3052,15 @@
       "web": "https://osterledskyrkan.se/"
     },
     {
+      "entry": 1230366591,
+      "orgNumber": "864000-0405",
+      "orgName": "Alings\u00e5s Sj\u00f6scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://alingsas-sjo.scout.se/"
+    },
+    {
       "entry": 1230366930,
       "orgNumber": "802463-4944",
       "orgName": "Cityidrott Landskrona",
@@ -2634,6 +3068,16 @@
         "idrott"
       ],
       "web": "https://cityidrott.se/"
+    },
+    {
+      "entry": 1230368050,
+      "orgNumber": "802461-2965",
+      "orgName": "Gotlands Igelkottsfond",
+      "categories": [
+        "djurskydd",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.gotlandsigelkottfond.se/"
     },
     {
       "entry": 1230369421,
@@ -2656,6 +3100,26 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.vgf.nu/"
+    },
+    {
+      "entry": 1230370577,
+      "orgNumber": "843003-3947",
+      "orgName": "\u00d6d\u00e5kra Tennisklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "tennisklubb"
+      ],
+      "web": "https://odakratennis.se/"
+    },
+    {
+      "entry": 1230373837,
+      "orgNumber": "883200-4462",
+      "orgName": "Plintsbergs Bystuga",
+      "categories": [
+        "byalag",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://plintsbergsby.com/"
     },
     {
       "entry": 1230375493,
@@ -2723,6 +3187,25 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/karlstadspastorat"
+    },
+    {
+      "entry": 1230383778,
+      "orgNumber": "802528-6793",
+      "orgName": "Kappi Islandsh\u00e4stf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "islandsh\u00e4st"
+      ],
+      "web": "https://www.kappi-islandshastforening.se/"
+    },
+    {
+      "entry": 1230388108,
+      "orgNumber": "556543-3538",
+      "orgName": "K\u00e5falla Herrg\u00e5rd / Bejfab - Berthil Jansson Fastigheter",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://kafalla.se/"
     },
     {
       "entry": 1230389544,
@@ -7968,6 +8451,15 @@
       "web": "https://www.laget.se/AlboRidklubb/"
     },
     {
+      "entry": 1231237569,
+      "orgNumber": "802475-6515",
+      "orgName": "Hj\u00e4ltarnas Hus",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://hjaltarnashus.se/"
+    },
+    {
       "entry": 1231237841,
       "orgNumber": "829502-1748",
       "orgName": "Cancerstiftelsen i Kronobergs l\u00e4n",
@@ -8645,6 +9137,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/skerike-kyrka"
+    },
+    {
+      "entry": 1231343292,
+      "orgNumber": "888800-3061",
+      "orgName": "V\u00e4stra \u00c5ngermanlands Travs\u00e4llskap",
+      "categories": [
+        "travs\u00e4llskap"
+      ],
+      "web": "https://hotingtravet.com/"
     },
     {
       "entry": 1231344498,
@@ -16090,6 +16591,15 @@
         "religion"
       ],
       "web": "https://skovdepingst.se/"
+    },
+    {
+      "entry": 1232377281,
+      "orgNumber": "885500-5404",
+      "orgName": "Vallhovskyrkan Sandviken",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://vallhovskyrkan.se/"
     },
     {
       "entry": 1232377539,
@@ -35285,6 +35795,15 @@
       "web": "http://www.tandlakaresandbacka.se/"
     },
     {
+      "entry": 1235278759,
+      "orgNumber": "826000-2913",
+      "orgName": "S\u00f6rg\u00e5rdskyrkan i Ryd",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://bottnarydallians.se/"
+    },
+    {
       "entry": 1235279021,
       "orgNumber": "875701-2557",
       "orgName": "Lax\u00e5 Villa\u00e4garef\u00f6rening",
@@ -42160,6 +42679,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236246839,
+      "orgNumber": "825001-3011",
+      "orgName": "Hela M\u00e4nniskan Norrk\u00f6ping Ria",
+      "comment": "Second Hand",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://helamanniskan.se/norrkoping/"
     },
     {
       "entry": 1236248595,
