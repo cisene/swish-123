@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-05-14-rev-185628
+Date:     2023-05-28-rev-100819
 ...
 
 # Swish 123 Nummer
@@ -4623,6 +4623,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236808737 | 825000-6171 | Vånga Missionsförsamling                                                                             | [Link](https://vangamissionskyrka.se/) |
 | 1236809560 | 559060-0598 | NiD Veterinärklinik AB                                                                               | [Link](http://nidvet.se/) |
 | 1236811707 | 559110-8625 | Eskilstuna Sushi Bar / Spicy Soup AB                                                                 | [Link](https://www.eskilstunasushibar.se/) |
+| 1236811715 | 802514-6666 | Kyrkbergets Vänner                                                                                   | [Link](https://www.kyrkberget.se/) |
 | 1236817480 | 817300-1424 | Equmeniakyrkan Örbyhus                                                                               | [Link](https://bjorkbackskyrkan.se/) |
 | 1236824619 | 857200-2916 | Göteborgs Dövas Förening                                                                             | [Link](https://gdf.nu/) |
 | 1236825376 | 854600-5615 | Bovallstrands Hembygdsförening                                                                       | [Link](https://bovallstrand.com/) |
