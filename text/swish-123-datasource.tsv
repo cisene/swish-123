@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-05-28-rev-144151
+# Date: 2023-06-01-rev-190246
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -330,12 +330,14 @@ entry	orgNumber	orgName	web	categories	comment
 1230379271	252000-0841	Överjärna Församling	https://www.svenskakyrkan.se/jarna-vardinge	religion	Kollekt
 1230379362	252003-1382	Karlstads Pastorat	https://www.svenskakyrkan.se/karlstadspastorat	religion	Musikverksamhet
 1230383778	802528-6793	Kappi Islandshästförening	https://www.kappi-islandshastforening.se/	hästsport,islandshäst	
+1230385260	876400-0413	Karlskoga Bergslags Hembygdsförening	https://www.hembygd.se/karlskoga	hembygdsförening	
 1230388108	556543-3538	Kåfalla Herrgård / Bejfab - Berthil Jansson Fastigheter	https://kafalla.se/	religion	
 1230389544	802438-4912	Strokeföreningen i Stockholms län	https://stockholmlan.strokeforbundet.se/	anhörigorganisation,patientorganisation	
 1230389932	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Skaraborg, Billingskolan
 1230391672	802449-6823	Hertsölandets Byaförening	https://hertsolandet.se/	byalag,hembygdsförening	
 1230392142	969650-4647	Yoga i Hagen / Male & Female Production HB	https://www.yogaihagen.se/	massage,yoga	
 1230392704	802533-7786	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Lund, Fladängsskolan
+1230393926	867800-2729	Falbygdens Häststportsförening	https://falbygdenshf.se/	hästsport,ridskola,ridsport	
 1230393983	530111-5035	Citrus Advokatbyrå	https://cadvokat.se/	advokatbyrå,juridiska tjänster	
 1230394775	556680-5528	E-biljett / AXS Sweden AB	https://solutions.axs.com/	eventarrangör	
 1230395517	556557-5130	Bjelleforsgruppen Kontor AB	https://www.bjellefors.se/	kontorsmaterial,trycksaker	
@@ -343,8 +345,12 @@ entry	orgNumber	orgName	web	categories	comment
 1230396150	556412-9053	Veckans Valfläsk / Aktiebolaget Zenskräck	https://www.patreon.com/user/creators?u=71624390	politisk kommentar	
 1230399717	556655-1718	Faktum Skåne AB	https://www.faktum.se/	hjälporganisation	
 1230399972	556930-0956	Essense i Kiruna AB	https://essense.se/	yoga	
+1230400499	828000-0426	Tannåker Pingstförsamling	https://tannakerpingst.se/	religion	
 1230401851	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/Falun/	religion	Falun
+1230404301	802443-8155	Kvinnojouren Malva	https://kvinnojourenmalva.se/	kvinnojour	
+1230410035	817300-3339	Films SK	https://www.laget.se/FilmsSK/	idrottsförening,sportklubb	
 1230410191	802005-9716	Vänsterpartiet	https://www.vansterpartiet.se/	politiskt parti	
+1230410290	825001-4753	Capella Ecumenica	https://www.capellaecumenica.se/	religion	
 1230410589	818000-0468	Eskilstuna Motorbåtsklubb, EMBK	https://embk.se/	förening,motorbåtsklubb	
 1230411132	817000-8893	Hela Människan Enköping	https://helamanniskan.se/enkoping	hjälporganisation,religion	
 1230412007	430626-XXXX	Föreningstjänst i Vänersborg / Kaj Dahlqvist	http://foreningstjanst.se/	försäljning,gravyr,metallbearbetning	
@@ -352,6 +358,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230413807	559264-0741	Liv i Balans Dalarna AB	https://livibalansdalarna.se/	yoga	
 1230416032	839401-1343	Sönnertorp Golf	http://sonnertorpgolf.se/	golfklubb	
 1230416065	802463-3193	Youth With A Mission - YWAM Stockholm	http://www.ywamstockholm.se/	hjälporganisation,religion	
+1230416438	883201-0162	Slätta SK	http://www.slattask.se/	idrottsförening,sportklubb	
 1230416602	802468-9179	Djurens Vänner Vetlanda	https://www.djurensvanner.se/vetlanda	djurskydd	
 1230417162	802402-1084	Svenska Ölfrämjandet	https://svenskaolframjandet.se/	förening,intresseorganisation	
 1230417832	802003-3869	Enskede Ridsällskap	http://www.enskederidsallskap.se/	hästsport,ridklubb	
@@ -4061,6 +4068,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235884267	862500-6039	SK Granan	https://www.skgranan.com/	idrottsförening	
 1235884374	864501-1050	Äspereds IF	https://www.asperedsif.se/	idrottsförening	
 1235885074	802490-0246	Föreningen HEM	https://foreningenhem.se/	intresseförening	
+1235885165	867800-2729	Falbygdens Häststportsförening	https://falbygdenshf.se/	hästsport,ridskola,ridsport	
 1235890082	802510-0614	Angel Island Army, AIA	http://aia.nu/	supporterklubb	Souvenirer
 1235890322	802002-6004	Svenska Pappers­industriarbetareförbundet	https://www.pappers.se/	förbund	
 1235890405	790212-XXXX	Matildas Profylax & Gravidmassage / Matilda Haggärde	https://www.matildasprofylax.se/	massage,yoga	

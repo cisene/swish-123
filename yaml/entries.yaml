@@ -2898,6 +2898,14 @@ entries:
   - islandshäst
   web: https://www.kappi-islandshastforening.se/
 
+- entry: 1230385260
+  orgName: Karlskoga Bergslags Hembygdsförening
+  orgNumber: 876400-0413
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/karlskoga
+
 - entry: 1230388108
   orgName: Kåfalla Herrgård / Bejfab - Berthil Jansson Fastigheter
   orgNumber: 556543-3538
@@ -2952,6 +2960,16 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1230393926
+  orgName: Falbygdens Häststportsförening
+  orgNumber: 867800-2729
+  comment: null
+  categories:
+  - hästsport
+  - ridskola
+  - ridsport
+  web: https://falbygdenshf.se/
 
 - entry: 1230393983
   orgName: Citrus Advokatbyrå
@@ -3018,6 +3036,14 @@ entries:
   - yoga
   web: https://essense.se/
 
+- entry: 1230400499
+  orgName: Tannåker Pingstförsamling
+  orgNumber: 828000-0426
+  comment: null
+  categories:
+  - religion
+  web: https://tannakerpingst.se/
+
 - entry: 1230401851
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -3026,6 +3052,23 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/Falun/
 
+- entry: 1230404301
+  orgName: Kvinnojouren Malva
+  orgNumber: 802443-8155
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://kvinnojourenmalva.se/
+
+- entry: 1230410035
+  orgName: Films SK
+  orgNumber: 817300-3339
+  comment: null
+  categories:
+  - idrottsförening
+  - sportklubb
+  web: https://www.laget.se/FilmsSK/
+
 - entry: 1230410191
   orgName: Vänsterpartiet
   orgNumber: 802005-9716
@@ -3033,6 +3076,14 @@ entries:
   categories:
   - politiskt parti
   web: https://www.vansterpartiet.se/
+
+- entry: 1230410290
+  orgName: Capella Ecumenica
+  orgNumber: 825001-4753
+  comment: null
+  categories:
+  - religion
+  web: https://www.capellaecumenica.se/
 
 - entry: 1230410589
   orgName: Eskilstuna Motorbåtsklubb, EMBK
@@ -3094,6 +3145,15 @@ entries:
   - hjälporganisation
   - religion
   web: http://www.ywamstockholm.se/
+
+- entry: 1230416438
+  orgName: Slätta SK
+  orgNumber: 883201-0162
+  comment: null
+  categories:
+  - idrottsförening
+  - sportklubb
+  web: http://www.slattask.se/
 
 - entry: 1230416602
   orgName: Djurens Vänner Vetlanda
@@ -36096,6 +36156,16 @@ entries:
   categories:
   - intresseförening
   web: https://foreningenhem.se/
+
+- entry: 1235885165
+  orgName: Falbygdens Häststportsförening
+  orgNumber: 867800-2729
+  comment: null
+  categories:
+  - hästsport
+  - ridskola
+  - ridsport
+  web: https://falbygdenshf.se/
 
 - entry: 1235890082
   orgName: Angel Island Army, AIA

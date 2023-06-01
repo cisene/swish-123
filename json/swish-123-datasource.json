@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-05-28-rev-144151",
+    "date": "2023-06-01-rev-190246",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3199,6 +3199,15 @@
       "web": "https://www.kappi-islandshastforening.se/"
     },
     {
+      "entry": 1230385260,
+      "orgNumber": "876400-0413",
+      "orgName": "Karlskoga Bergslags Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/karlskoga"
+    },
+    {
       "entry": 1230388108,
       "orgNumber": "556543-3538",
       "orgName": "K\u00e5falla Herrg\u00e5rd / Bejfab - Berthil Jansson Fastigheter",
@@ -3260,6 +3269,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230393926,
+      "orgNumber": "867800-2729",
+      "orgName": "Falbygdens H\u00e4ststportsf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola",
+        "ridsport"
+      ],
+      "web": "https://falbygdenshf.se/"
     },
     {
       "entry": 1230393983,
@@ -3327,6 +3347,15 @@
       "web": "https://essense.se/"
     },
     {
+      "entry": 1230400499,
+      "orgNumber": "828000-0426",
+      "orgName": "Tann\u00e5ker Pingstf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://tannakerpingst.se/"
+    },
+    {
       "entry": 1230401851,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -3337,6 +3366,25 @@
       "web": "https://www.fralsningsarmen.se/Falun/"
     },
     {
+      "entry": 1230404301,
+      "orgNumber": "802443-8155",
+      "orgName": "Kvinnojouren Malva",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://kvinnojourenmalva.se/"
+    },
+    {
+      "entry": 1230410035,
+      "orgNumber": "817300-3339",
+      "orgName": "Films SK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sportklubb"
+      ],
+      "web": "https://www.laget.se/FilmsSK/"
+    },
+    {
       "entry": 1230410191,
       "orgNumber": "802005-9716",
       "orgName": "V\u00e4nsterpartiet",
@@ -3344,6 +3392,15 @@
         "politiskt parti"
       ],
       "web": "https://www.vansterpartiet.se/"
+    },
+    {
+      "entry": 1230410290,
+      "orgNumber": "825001-4753",
+      "orgName": "Capella Ecumenica",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.capellaecumenica.se/"
     },
     {
       "entry": 1230410589,
@@ -3412,6 +3469,16 @@
         "religion"
       ],
       "web": "http://www.ywamstockholm.se/"
+    },
+    {
+      "entry": 1230416438,
+      "orgNumber": "883201-0162",
+      "orgName": "Sl\u00e4tta SK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sportklubb"
+      ],
+      "web": "http://www.slattask.se/"
     },
     {
       "entry": 1230416602,
@@ -40291,6 +40358,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://foreningenhem.se/"
+    },
+    {
+      "entry": 1235885165,
+      "orgNumber": "867800-2729",
+      "orgName": "Falbygdens H\u00e4ststportsf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola",
+        "ridsport"
+      ],
+      "web": "https://falbygdenshf.se/"
     },
     {
       "entry": 1235890082,
