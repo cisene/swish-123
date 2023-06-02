@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-06-02-rev-232805
+# Date: 2023-06-02-rev-234726
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4668,6 +4668,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236764526	690917-XXXX	Karmaklubben	https://www.karmaklubben.se/	healing,hypnos,reiki	
 1236764807	560803-XXXX	YOGA VEDA i Hamburgsund	https://yogaveda.se/	yoga	
 1236765242	835001-3093	Kvinnojouren Karlskrona	https://kvinnojourenkarlskrona.se/	kvinnojour	
+1236765408	511209-XXXX	Rossmix / Moa Persson	https://rossmix.se/	hunduppfödning,kennel	
 1236769723	802459-0088	Umeå IK	https://www.umeaik.se/	idrottsförening	
 1236773683	802010-5139	Liv i Sverige	https://livisverige.org/	intresseorganisation	
 1236773865	802466-6193	SPF Seniorerna Tibro	https://tibrospf.n.nu/	pensionärsklubb	
@@ -4804,10 +4805,12 @@ entry	orgNumber	orgName	web	categories	comment
 1236972020	818000-1029	Eskilstuna GUIF IF	https://www.guif.nu/	handbollsklubb,idrottsförening	Rosabandetkampanjen
 1236972186	661008-XXXX	Erika Givell	http://www.erikagivell.se/	atelje,galleri,konst,konstmåleri	
 1236973663	969778-6482	Mother Mercy	https://www.facebook.com/MotherMersy/	orkester	
+1236991145	556533-8257	AD-Teknik AB	https://www.adteknik.se/	fordonsutrustning	
 1236991160	826000-3614	Pingstkyrkan Kaxholmen	https://pingstkaxholmen.se/	religion	Missionskassan
 1236991368	802011-5484	Buddhistiska Gemenskapen Triratna	https://www.karuna.org/	religion	Karuna
 1236991509	866601-0395	Lions Club Tibro	https://lionsclubitibro.n.nu/	lionsklubb	
 1236991988	818000-7521	Pingstkyrkan Ärla	http://pingstarla.se/	religion	
+1236992135	551122-XXXX	Rossmix / Helene Strömbom	https://rossmix.se/	hunduppfödning,kennel	
 1236992440	802410-8501	Järnkaminerna	https://www.jarnkaminerna.se/	supporterklubb	Östra
 1236997977	886500-1302	Rengsjö SK - Discgolf	https://www.rengsjosk.se/	discgolfklubb,idrottsförening	Discgolf
 1239000035	802416-7192	Children Need Help	https://www.childrenneedhelp.org/	godkänd gåvomottagare,insamlingskontroll	

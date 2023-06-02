@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-02-rev-232804",
+    "date": "2023-06-02-rev-234725",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -46325,6 +46325,16 @@
       "web": "https://kvinnojourenkarlskrona.se/"
     },
     {
+      "entry": 1236765408,
+      "orgNumber": "511209-XXXX",
+      "orgName": "Rossmix / Moa Persson",
+      "categories": [
+        "hunduppf\u00f6dning",
+        "kennel"
+      ],
+      "web": "https://rossmix.se/"
+    },
+    {
       "entry": 1236769723,
       "orgNumber": "802459-0088",
       "orgName": "Ume\u00e5 IK",
@@ -47669,6 +47679,15 @@
       "web": "https://www.facebook.com/MotherMersy/"
     },
     {
+      "entry": 1236991145,
+      "orgNumber": "556533-8257",
+      "orgName": "AD-Teknik AB",
+      "categories": [
+        "fordonsutrustning"
+      ],
+      "web": "https://www.adteknik.se/"
+    },
+    {
       "entry": 1236991160,
       "orgNumber": "826000-3614",
       "orgName": "Pingstkyrkan Kaxholmen",
@@ -47705,6 +47724,16 @@
         "religion"
       ],
       "web": "http://pingstarla.se/"
+    },
+    {
+      "entry": 1236992135,
+      "orgNumber": "551122-XXXX",
+      "orgName": "Rossmix / Helene Str\u00f6mbom",
+      "categories": [
+        "hunduppf\u00f6dning",
+        "kennel"
+      ],
+      "web": "https://rossmix.se/"
     },
     {
       "entry": 1236992440,

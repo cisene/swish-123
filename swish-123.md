@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-06-02-rev-232804
+Date:     2023-06-02-rev-234725
 ...
 
 # Swish 123 Nummer
@@ -4670,6 +4670,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236764526 | 690917-XXXX | Karmaklubben                                                                                         | [Link](https://www.karmaklubben.se/) |
 | 1236764807 | 560803-XXXX | YOGA VEDA i Hamburgsund                                                                              | [Link](https://yogaveda.se/) |
 | 1236765242 | 835001-3093 | Kvinnojouren Karlskrona                                                                              | [Link](https://kvinnojourenkarlskrona.se/) |
+| 1236765408 | 511209-XXXX | Rossmix / Moa Persson                                                                                | [Link](https://rossmix.se/) |
 | 1236769723 | 802459-0088 | Umeå IK                                                                                              | [Link](https://www.umeaik.se/) |
 | 1236773683 | 802010-5139 | Liv i Sverige                                                                                        | [Link](https://livisverige.org/) |
 | 1236773865 | 802466-6193 | SPF Seniorerna Tibro                                                                                 | [Link](https://tibrospf.n.nu/) |
@@ -4806,10 +4807,12 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236972020 | 818000-1029 | Eskilstuna GUIF IF                                                                                   | [Link](https://www.guif.nu/) |
 | 1236972186 | 661008-XXXX | Erika Givell                                                                                         | [Link](http://www.erikagivell.se/) |
 | 1236973663 | 969778-6482 | Mother Mercy                                                                                         | [Link](https://www.facebook.com/MotherMersy/) |
+| 1236991145 | 556533-8257 | AD-Teknik AB                                                                                         | [Link](https://www.adteknik.se/) |
 | 1236991160 | 826000-3614 | Pingstkyrkan Kaxholmen                                                                               | [Link](https://pingstkaxholmen.se/) |
 | 1236991368 | 802011-5484 | Buddhistiska Gemenskapen Triratna                                                                    | [Link](https://www.karuna.org/) |
 | 1236991509 | 866601-0395 | Lions Club Tibro                                                                                     | [Link](https://lionsclubitibro.n.nu/) |
 | 1236991988 | 818000-7521 | Pingstkyrkan Ärla                                                                                    | [Link](http://pingstarla.se/) |
+| 1236992135 | 551122-XXXX | Rossmix / Helene Strömbom                                                                            | [Link](https://rossmix.se/) |
 | 1236992440 | 802410-8501 | Järnkaminerna                                                                                        | [Link](https://www.jarnkaminerna.se/) |
 | 1236997977 | 886500-1302 | Rengsjö SK - Discgolf                                                                                | [Link](https://www.rengsjosk.se/) |
 | 1239000035 | 802416-7192 | Children Need Help                                                                                   | [Link](https://www.childrenneedhelp.org/) |
