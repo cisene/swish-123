@@ -3163,6 +3163,23 @@ entries:
   - djurskydd
   web: https://www.djurensvanner.se/vetlanda
 
+- entry: 1230416941
+  orgName: Skara Brukshundsklubb
+  orgNumber: 868400-5575
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: http://www.skarabk.se/
+
+- entry: 1230416982
+  orgName: Nora BK
+  orgNumber: 875003-5209
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.norabk.com/
+
 - entry: 1230417162
   orgName: Svenska Ölfrämjandet
   orgNumber: 802402-1084
@@ -3199,6 +3216,15 @@ entries:
   - sportskytte
   web: https://lerumsungdomsskytte.com/
 
+- entry: 1230423962
+  orgName: Blomsterboden Eksjö
+  orgNumber: 556075-6933
+  comment: null
+  categories:
+  - blomarrangemang
+  - florist
+  web: https://blomsterbodeneksjo.interflora.se/
+
 - entry: 1230423988
   orgName: Örebro Fältrittklubb
   orgNumber: 875000-4122
@@ -3217,6 +3243,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/viksangskyrkan
 
+- entry: 1230425215
+  orgName: JGs Husvagnar AB
+  orgNumber: 556290-6692
+  comment: null
+  categories:
+  - campingutrustning
+  - husvagnsförsäljning
+  - husvagnsuthyrning
+  web: https://jgshusvagnar.se/
+
 - entry: 1230425272
   orgName: Jämtland-Härjedalens Stövarklubb, JHSK
   orgNumber: 802435-9047
@@ -3226,6 +3262,23 @@ entries:
   - hundsport
   - stövarklubb
   web: https://jhstovare.se/
+
+- entry: 1230425694
+  orgName: Jössehäringar Hjälper Barn
+  orgNumber: 802446-1793
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.facebook.com/JHBARVIKA
+
+- entry: 1230425876
+  orgName: Kulladals Fotbollsförening
+  orgNumber: 846001-4049
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.kulladalsff.se/
 
 - entry: 1230426023
   orgName: Föreningen Spiran Linköping
@@ -3251,6 +3304,24 @@ entries:
   categories:
   - golfklubb
   web: http://www.lysingsbadetsgk.com/
+
+- entry: 1230429076
+  orgName: Bröstcancerföreningen Halland
+  orgNumber: 849201-6574
+  comment: null
+  categories:
+  - bröstcancer
+  - cancerforskning
+  - intresseförening
+  web: https://halland.brostcancerforbundet.se/
+
+- entry: 1230429746
+  orgName: Anundsjö Församlning
+  orgNumber: 252002-4205
+  comment: ACT
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
 
 - entry: 1230434290
   orgName: LaxTon Ghost Sweden AB
@@ -11006,6 +11077,14 @@ entries:
   - supporterklubb
   web: https://www.jarnkaminerna.se/sofialaktaren-tifo/
 
+- entry: 1231775204
+  orgName: Skorpeds Församling
+  orgNumber: 252002-4114
+  comment: Kollekt
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
+
 - entry: 1231776665
   orgName: Sverige Runt AB
   orgNumber: 556898-9254
@@ -12889,6 +12968,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1232116473
+  orgName: Solbergs kyrka
+  orgNumber: 252005-0267
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
+
 - entry: 1232124162
   orgName: Alingsås Vårgårda Discgolf
   orgNumber: 802438-6883
@@ -13325,6 +13412,14 @@ entries:
   categories:
   - ishockeyklubb
   web: https://www.laget.se/HA_74/
+
+- entry: 1232174886
+  orgName: Örnsköldsviks södra pastorat
+  orgNumber: 252005-0267
+  comment: Kyrkogårdsversamheten
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
 
 - entry: 1232175933
   orgName: Sjulsmarks Skoter Och Fiskevårdsförening
@@ -15246,6 +15341,22 @@ entries:
   - näringsliv
   web: https://www.brixsweden.org/
 
+- entry: 1232412864
+  orgName: Församlinggården Bredbyn
+  orgNumber: 252005-0267
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
+
+- entry: 1232412872
+  orgName: Anundsjö Församlning
+  orgNumber: 252002-4205
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
+
 - entry: 1232415990
   orgName: Team Rynkeby
   orgNumber: 802534-5466
@@ -16455,6 +16566,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1232666758
+  orgName: Anundsjö Församlning
+  orgNumber: 252002-4205
+  comment: Ungdomsverksamhet
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
 
 - entry: 1232667376
   orgName: Malmö Burlöv Golfklubb
@@ -21665,6 +21784,14 @@ entries:
   - cancerförening
   web: https://www.sfmr.se/
 
+- entry: 1233485810
+  orgName: Skorpeds Församling
+  orgNumber: 252002-4114
+  comment: Diakoni
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
+
 - entry: 1233486206
   orgName: SoulMind / Anna Candela
   orgNumber: 711209-XXXX
@@ -22572,6 +22699,14 @@ entries:
   categories:
   - rotaryklubb
   web: https://landskrona-glumslov.rotary2390.se/
+
+- entry: 1233608791
+  orgName: Myckelgensjö Lillkyrka
+  orgNumber: 252005-0267
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
 
 - entry: 1233609765
   orgName: Sverige Runt AB
@@ -29701,6 +29836,14 @@ entries:
   - golfklubb
   web: https://www.karlstadgk.se/
 
+- entry: 1234935565
+  orgName: Skorpeds Församling
+  orgNumber: 252002-4114
+  comment: Barnverksamhet
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
+
 - entry: 1234936407
   orgName: Equmenia Knivsta
   orgNumber: 817605-4545
@@ -31497,6 +31640,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/roslagens-ostra-pastorat/estuna-soderbykarls-forsamling
+
+- entry: 1235170550
+  orgName: Anundsjö Församlning
+  orgNumber: 252002-4205
+  comment: Barnverksamhet
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
 
 - entry: 1235171137
   orgName: Viksängskyrkan
@@ -40427,6 +40578,14 @@ entries:
   categories:
   - ställplats
   web: https://www.henansstallplats.com/
+
+- entry: 1236626451
+  orgName: Anundsjö Församlning
+  orgNumber: 252002-4205
+  comment: Diakoni
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
 
 - entry: 1236627285
   orgName: Kavalleri- och Jägarförbundet, KAVJF

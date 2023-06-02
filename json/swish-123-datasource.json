@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-01-rev-190246",
+    "date": "2023-06-02-rev-232804",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3490,6 +3490,25 @@
       "web": "https://www.djurensvanner.se/vetlanda"
     },
     {
+      "entry": 1230416941,
+      "orgNumber": "868400-5575",
+      "orgName": "Skara Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "http://www.skarabk.se/"
+    },
+    {
+      "entry": 1230416982,
+      "orgNumber": "875003-5209",
+      "orgName": "Nora BK",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.norabk.com/"
+    },
+    {
       "entry": 1230417162,
       "orgNumber": "802402-1084",
       "orgName": "Svenska \u00d6lfr\u00e4mjandet",
@@ -3530,6 +3549,16 @@
       "web": "https://lerumsungdomsskytte.com/"
     },
     {
+      "entry": 1230423962,
+      "orgNumber": "556075-6933",
+      "orgName": "Blomsterboden Eksj\u00f6",
+      "categories": [
+        "blomarrangemang",
+        "florist"
+      ],
+      "web": "https://blomsterbodeneksjo.interflora.se/"
+    },
+    {
       "entry": 1230423988,
       "orgNumber": "875000-4122",
       "orgName": "\u00d6rebro F\u00e4ltrittklubb",
@@ -3551,6 +3580,17 @@
       "web": "https://www.svenskakyrkan.se/vasteras/viksangskyrkan"
     },
     {
+      "entry": 1230425215,
+      "orgNumber": "556290-6692",
+      "orgName": "JGs Husvagnar AB",
+      "categories": [
+        "campingutrustning",
+        "husvagnsf\u00f6rs\u00e4ljning",
+        "husvagnsuthyrning"
+      ],
+      "web": "https://jgshusvagnar.se/"
+    },
+    {
       "entry": 1230425272,
       "orgNumber": "802435-9047",
       "orgName": "J\u00e4mtland-H\u00e4rjedalens St\u00f6varklubb, JHSK",
@@ -3560,6 +3600,25 @@
         "st\u00f6varklubb"
       ],
       "web": "https://jhstovare.se/"
+    },
+    {
+      "entry": 1230425694,
+      "orgNumber": "802446-1793",
+      "orgName": "J\u00f6sseh\u00e4ringar Hj\u00e4lper Barn",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.facebook.com/JHBARVIKA"
+    },
+    {
+      "entry": 1230425876,
+      "orgNumber": "846001-4049",
+      "orgName": "Kulladals Fotbollsf\u00f6rening",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kulladalsff.se/"
     },
     {
       "entry": 1230426023,
@@ -3588,6 +3647,27 @@
         "golfklubb"
       ],
       "web": "http://www.lysingsbadetsgk.com/"
+    },
+    {
+      "entry": 1230429076,
+      "orgNumber": "849201-6574",
+      "orgName": "Br\u00f6stcancerf\u00f6reningen Halland",
+      "categories": [
+        "br\u00f6stcancer",
+        "cancerforskning",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://halland.brostcancerforbundet.se/"
+    },
+    {
+      "entry": 1230429746,
+      "orgNumber": "252002-4205",
+      "orgName": "Anundsj\u00f6 F\u00f6rsamlning",
+      "comment": "ACT",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
       "entry": 1230434290,
@@ -12259,6 +12339,16 @@
       "web": "https://www.jarnkaminerna.se/sofialaktaren-tifo/"
     },
     {
+      "entry": 1231775204,
+      "orgNumber": "252002-4114",
+      "orgName": "Skorpeds F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
+    },
+    {
       "entry": 1231776665,
       "orgNumber": "556898-9254",
       "orgName": "Sverige Runt AB",
@@ -14398,6 +14488,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1232116473,
+      "orgNumber": "252005-0267",
+      "orgName": "Solbergs kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
+    },
+    {
       "entry": 1232124162,
       "orgNumber": "802438-6883",
       "orgName": "Alings\u00e5s V\u00e5rg\u00e5rda Discgolf",
@@ -14889,6 +14988,16 @@
         "ishockeyklubb"
       ],
       "web": "https://www.laget.se/HA_74/"
+    },
+    {
+      "entry": 1232174886,
+      "orgNumber": "252005-0267",
+      "orgName": "\u00d6rnsk\u00f6ldsviks s\u00f6dra pastorat",
+      "comment": "Kyrkog\u00e5rdsversamheten",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
       "entry": 1232175933,
@@ -17036,6 +17145,24 @@
       "web": "https://www.brixsweden.org/"
     },
     {
+      "entry": 1232412864,
+      "orgNumber": "252005-0267",
+      "orgName": "F\u00f6rsamlingg\u00e5rden Bredbyn",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
+    },
+    {
+      "entry": 1232412872,
+      "orgNumber": "252002-4205",
+      "orgName": "Anundsj\u00f6 F\u00f6rsamlning",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
+    },
+    {
       "entry": 1232415990,
       "orgNumber": "802534-5466",
       "orgName": "Team Rynkeby",
@@ -18390,6 +18517,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232666758,
+      "orgNumber": "252002-4205",
+      "orgName": "Anundsj\u00f6 F\u00f6rsamlning",
+      "comment": "Ungdomsverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
       "entry": 1232667376,
@@ -24197,6 +24334,16 @@
       "web": "https://www.sfmr.se/"
     },
     {
+      "entry": 1233485810,
+      "orgNumber": "252002-4114",
+      "orgName": "Skorpeds F\u00f6rsamling",
+      "comment": "Diakoni",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
+    },
+    {
       "entry": 1233486206,
       "orgNumber": "711209-XXXX",
       "orgName": "SoulMind / Anna Candela",
@@ -25216,6 +25363,15 @@
         "rotaryklubb"
       ],
       "web": "https://landskrona-glumslov.rotary2390.se/"
+    },
+    {
+      "entry": 1233608791,
+      "orgNumber": "252005-0267",
+      "orgName": "Myckelgensj\u00f6 Lillkyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
       "entry": 1233609765,
@@ -33152,6 +33308,16 @@
       "web": "https://www.karlstadgk.se/"
     },
     {
+      "entry": 1234935565,
+      "orgNumber": "252002-4114",
+      "orgName": "Skorpeds F\u00f6rsamling",
+      "comment": "Barnverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
+    },
+    {
       "entry": 1234936407,
       "orgNumber": "817605-4545",
       "orgName": "Equmenia Knivsta",
@@ -35152,6 +35318,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/estuna-soderbykarls-forsamling"
+    },
+    {
+      "entry": 1235170550,
+      "orgNumber": "252002-4205",
+      "orgName": "Anundsj\u00f6 F\u00f6rsamlning",
+      "comment": "Barnverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
       "entry": 1235171137,
@@ -45108,6 +45284,16 @@
         "st\u00e4llplats"
       ],
       "web": "https://www.henansstallplats.com/"
+    },
+    {
+      "entry": 1236626451,
+      "orgNumber": "252002-4205",
+      "orgName": "Anundsj\u00f6 F\u00f6rsamlning",
+      "comment": "Diakoni",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
       "entry": 1236627285,
