@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-06-02-rev-234725
+Date:     2023-06-06-rev-144948
 ...
 
 # Swish 123 Nummer
@@ -368,15 +368,21 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230417832 | 802003-3869 | Enskede Ridsällskap                                                                                  | [Link](http://www.enskederidsallskap.se/) |
 | 1230419572 | 802600-2322 | Vika Fiskevårdsområde                                                                                | [Link](http://www.vikafvof.se/) |
 | 1230419903 | 863500-7720 | Lerums Luftgevärsskytteförening                                                                      | [Link](https://lerumsungdomsskytte.com/) |
+| 1230422709 | 660122-XXXX | Sjökaptensgården Bed & Breakfast / Marie Johansson                                                   | [Link](https://sjokaptensgarden.se/) |
 | 1230423962 | 556075-6933 | Blomsterboden Eksjö                                                                                  | [Link](https://blomsterbodeneksjo.interflora.se/) |
 | 1230423988 | 875000-4122 | Örebro Fältrittklubb                                                                                 | [Link](https://www.orebrofaltrittklubb.se/) |
 | 1230423996 | 556706-5262 | Viksängskyrkan                                                                                       | [Link](https://www.svenskakyrkan.se/vasteras/viksangskyrkan) |
 | 1230425215 | 556290-6692 | JGs Husvagnar AB                                                                                     | [Link](https://jgshusvagnar.se/) |
 | 1230425272 | 802435-9047 | Jämtland-Härjedalens Stövarklubb, JHSK                                                               | [Link](https://jhstovare.se/) |
+| 1230425603 | 702000-7972 | Gribbylunds Fastighetsägareförening                                                                  | [Link](https://www.gribbylund.se/) |
 | 1230425694 | 802446-1793 | Jössehäringar Hjälper Barn                                                                           | [Link](https://www.facebook.com/JHBARVIKA) |
 | 1230425876 | 846001-4049 | Kulladals Fotbollsförening                                                                           | [Link](https://www.kulladalsff.se/) |
 | 1230426023 | 822002-9410 | Föreningen Spiran Linköping                                                                          | [Link](http://www.spiranlinkoping.se/) |
+| 1230426056 | 827000-5336 | Mariannelunds Fiskeklubb                                                                             | [Link](https://www.mariannelundsfiskeklubb.se/) |
+| 1230426346 | 556510-9344 | Terapeut Jinder / AB ÅSA JINDER                                                                      | [Link](https://www.terapeutjinder.se/) |
 | 1230426890 | 826001-0064 | Huskvarna Hundklubb                                                                                  | [Link](https://www.huskvarnahundklubb.se/) |
+| 1230427229 | 802414-1841 | Stjärnjouren                                                                                         | [Link](https://stjarnjouren.nu/) |
+| 1230428532 | 556997-6839 | Lindia AB                                                                                            | [Link](https://lindia.net/) |
 | 1230428706 | 833600-8787 | Lysingbadets GK                                                                                      | [Link](http://www.lysingsbadetsgk.com/) |
 | 1230429076 | 849201-6574 | Bröstcancerföreningen Halland                                                                        | [Link](https://halland.brostcancerforbundet.se/) |
 | 1230429746 | 252002-4205 | Anundsjö Församlning                                                                                 | [Link](https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped) |

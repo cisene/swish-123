@@ -3216,6 +3216,16 @@ entries:
   - sportskytte
   web: https://lerumsungdomsskytte.com/
 
+- entry: 1230422709
+  orgName: Sjökaptensgården Bed & Breakfast / Marie Johansson
+  orgNumber: 660122-XXXX
+  comment: null
+  categories:
+  - logi
+  - lokaluthyrning
+  - ställplats
+  web: https://sjokaptensgarden.se/
+
 - entry: 1230423962
   orgName: Blomsterboden Eksjö
   orgNumber: 556075-6933
@@ -3263,6 +3273,14 @@ entries:
   - stövarklubb
   web: https://jhstovare.se/
 
+- entry: 1230425603
+  orgName: Gribbylunds Fastighetsägareförening
+  orgNumber: 702000-7972
+  comment: null
+  categories:
+  - fastighetsägarförening
+  web: https://www.gribbylund.se/
+
 - entry: 1230425694
   orgName: Jössehäringar Hjälper Barn
   orgNumber: 802446-1793
@@ -3288,6 +3306,24 @@ entries:
   - spiritualism
   web: http://www.spiranlinkoping.se/
 
+- entry: 1230426056
+  orgName: Mariannelunds Fiskeklubb
+  orgNumber: 827000-5336
+  comment: null
+  categories:
+  - fiskeklubb
+  - sportfiske
+  web: https://www.mariannelundsfiskeklubb.se/
+
+- entry: 1230426346
+  orgName: Terapeut Jinder / AB ÅSA JINDER
+  orgNumber: 556510-9344
+  comment: null
+  categories:
+  - samtalsterapi
+  - terapeut
+  web: https://www.terapeutjinder.se/
+
 - entry: 1230426890
   orgName: Huskvarna Hundklubb
   orgNumber: 826001-0064
@@ -3296,6 +3332,23 @@ entries:
   - förening
   - hundklubb
   web: https://www.huskvarnahundklubb.se/
+
+- entry: 1230427229
+  orgName: Stjärnjouren
+  orgNumber: 802414-1841
+  comment: null
+  categories:
+  - kvinnojour
+  - transjour
+  web: https://stjarnjouren.nu/
+
+- entry: 1230428532
+  orgName: Lindia AB
+  orgNumber: 556997-6839
+  comment: null
+  categories:
+  - konsulttjänster
+  web: https://lindia.net/
 
 - entry: 1230428706
   orgName: Lysingbadets GK

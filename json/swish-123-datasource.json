@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-02-rev-234725",
+    "date": "2023-06-06-rev-144948",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3549,6 +3549,17 @@
       "web": "https://lerumsungdomsskytte.com/"
     },
     {
+      "entry": 1230422709,
+      "orgNumber": "660122-XXXX",
+      "orgName": "Sj\u00f6kaptensg\u00e5rden Bed & Breakfast / Marie Johansson",
+      "categories": [
+        "logi",
+        "lokaluthyrning",
+        "st\u00e4llplats"
+      ],
+      "web": "https://sjokaptensgarden.se/"
+    },
+    {
       "entry": 1230423962,
       "orgNumber": "556075-6933",
       "orgName": "Blomsterboden Eksj\u00f6",
@@ -3602,6 +3613,15 @@
       "web": "https://jhstovare.se/"
     },
     {
+      "entry": 1230425603,
+      "orgNumber": "702000-7972",
+      "orgName": "Gribbylunds Fastighets\u00e4garef\u00f6rening",
+      "categories": [
+        "fastighets\u00e4garf\u00f6rening"
+      ],
+      "web": "https://www.gribbylund.se/"
+    },
+    {
       "entry": 1230425694,
       "orgNumber": "802446-1793",
       "orgName": "J\u00f6sseh\u00e4ringar Hj\u00e4lper Barn",
@@ -3630,6 +3650,26 @@
       "web": "http://www.spiranlinkoping.se/"
     },
     {
+      "entry": 1230426056,
+      "orgNumber": "827000-5336",
+      "orgName": "Mariannelunds Fiskeklubb",
+      "categories": [
+        "fiskeklubb",
+        "sportfiske"
+      ],
+      "web": "https://www.mariannelundsfiskeklubb.se/"
+    },
+    {
+      "entry": 1230426346,
+      "orgNumber": "556510-9344",
+      "orgName": "Terapeut Jinder / AB \u00c5SA JINDER",
+      "categories": [
+        "samtalsterapi",
+        "terapeut"
+      ],
+      "web": "https://www.terapeutjinder.se/"
+    },
+    {
       "entry": 1230426890,
       "orgNumber": "826001-0064",
       "orgName": "Huskvarna Hundklubb",
@@ -3638,6 +3678,25 @@
         "hundklubb"
       ],
       "web": "https://www.huskvarnahundklubb.se/"
+    },
+    {
+      "entry": 1230427229,
+      "orgNumber": "802414-1841",
+      "orgName": "Stj\u00e4rnjouren",
+      "categories": [
+        "kvinnojour",
+        "transjour"
+      ],
+      "web": "https://stjarnjouren.nu/"
+    },
+    {
+      "entry": 1230428532,
+      "orgNumber": "556997-6839",
+      "orgName": "Lindia AB",
+      "categories": [
+        "konsulttj\u00e4nster"
+      ],
+      "web": "https://lindia.net/"
     },
     {
       "entry": 1230428706,

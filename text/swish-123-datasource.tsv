@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-06-02-rev-234726
+# Date: 2023-06-06-rev-144948
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -366,15 +366,21 @@ entry	orgNumber	orgName	web	categories	comment
 1230417832	802003-3869	Enskede Ridsällskap	http://www.enskederidsallskap.se/	hästsport,ridklubb	
 1230419572	802600-2322	Vika Fiskevårdsområde	http://www.vikafvof.se/	fiskevård,förening	
 1230419903	863500-7720	Lerums Luftgevärsskytteförening	https://lerumsungdomsskytte.com/	skytte,sportskytte	
+1230422709	660122-XXXX	Sjökaptensgården Bed & Breakfast / Marie Johansson	https://sjokaptensgarden.se/	logi,lokaluthyrning,ställplats	
 1230423962	556075-6933	Blomsterboden Eksjö	https://blomsterbodeneksjo.interflora.se/	blomarrangemang,florist	
 1230423988	875000-4122	Örebro Fältrittklubb	https://www.orebrofaltrittklubb.se/	fältrittklubb,hästsport,ridklubb	
 1230423996	556706-5262	Viksängskyrkan	https://www.svenskakyrkan.se/vasteras/viksangskyrkan	religion	Ungdomsverksamheten
 1230425215	556290-6692	JGs Husvagnar AB	https://jgshusvagnar.se/	campingutrustning,husvagnsförsäljning,husvagnsuthyrning	
 1230425272	802435-9047	Jämtland-Härjedalens Stövarklubb, JHSK	https://jhstovare.se/	hundklubb,hundsport,stövarklubb	
+1230425603	702000-7972	Gribbylunds Fastighetsägareförening	https://www.gribbylund.se/	fastighetsägarförening	
 1230425694	802446-1793	Jössehäringar Hjälper Barn	https://www.facebook.com/JHBARVIKA	hjälporganisation	
 1230425876	846001-4049	Kulladals Fotbollsförening	https://www.kulladalsff.se/	fotbollsklubb,idrottsförening	
 1230426023	822002-9410	Föreningen Spiran Linköping	http://www.spiranlinkoping.se/	spiritualism	
+1230426056	827000-5336	Mariannelunds Fiskeklubb	https://www.mariannelundsfiskeklubb.se/	fiskeklubb,sportfiske	
+1230426346	556510-9344	Terapeut Jinder / AB ÅSA JINDER	https://www.terapeutjinder.se/	samtalsterapi,terapeut	
 1230426890	826001-0064	Huskvarna Hundklubb	https://www.huskvarnahundklubb.se/	förening,hundklubb	
+1230427229	802414-1841	Stjärnjouren	https://stjarnjouren.nu/	kvinnojour,transjour	
+1230428532	556997-6839	Lindia AB	https://lindia.net/	konsulttjänster	
 1230428706	833600-8787	Lysingbadets GK	http://www.lysingsbadetsgk.com/	golfklubb	
 1230429076	849201-6574	Bröstcancerföreningen Halland	https://halland.brostcancerforbundet.se/	bröstcancer,cancerforskning,intresseförening	
 1230429746	252002-4205	Anundsjö Församlning	https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped	religion	ACT
