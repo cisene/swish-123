@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-07-rev-014046",
+    "date": "2023-06-07-rev-235852",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -557,6 +557,17 @@
         "religion"
       ],
       "web": "https://equmeniakyrkan.se/ostervallskog/"
+    },
+    {
+      "entry": 1230064006,
+      "orgNumber": "969769-5998",
+      "orgName": "Nya Scandinavia SSB Club Sweden",
+      "categories": [
+        "privatradio",
+        "radioklubb",
+        "ssb"
+      ],
+      "web": "https://radioklubbenscandinavia.se/"
     },
     {
       "entry": 1230064170,
@@ -1360,6 +1371,15 @@
       "web": "https://www.gota.nu/"
     },
     {
+      "entry": 1230180695,
+      "orgNumber": "802541-6721",
+      "orgName": "Nordic Reel Icons / Nordic Legions",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://nordiclegions.net/"
+    },
+    {
       "entry": 1230181917,
       "orgNumber": "835000-3185",
       "orgName": "Ols\u00e4ngsg\u00e5rden",
@@ -1900,6 +1920,15 @@
         "stiftelse"
       ],
       "web": "https://www.wildhood.org/"
+    },
+    {
+      "entry": 1230230151,
+      "orgNumber": "889200-6092",
+      "orgName": "S\u00e4ttna Baptistf\u00f6rsamling / Betania Kovland",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://betaniakovland.com/"
     },
     {
       "entry": 1230230300,
@@ -3363,6 +3392,15 @@
         "religion"
       ],
       "web": "https://tannakerpingst.se/"
+    },
+    {
+      "entry": 1230401182,
+      "orgNumber": "252004-2033",
+      "orgName": "Floby F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/floby"
     },
     {
       "entry": 1230401851,
@@ -8198,6 +8236,15 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.amningshjalpen.se/"
+    },
+    {
+      "entry": 1231157965,
+      "orgNumber": "802465-6384",
+      "orgName": "J\u00e4mtland Charity - Templar Knights Motorcycle Club",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://templarknightsmc.se/jamtland/jamtland-charity/"
     },
     {
       "entry": 1231158138,
@@ -15337,6 +15384,16 @@
         "religion"
       ],
       "web": "https://betaniaforsamlingen.se/"
+    },
+    {
+      "entry": 1232193696,
+      "orgNumber": "802465-6384",
+      "orgName": "J\u00e4mtland Charity - Templar Knights Motorcycle Club",
+      "comment": "Fj\u00e4ril",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://templarknightsmc.se/jamtland/jamtland-charity/"
     },
     {
       "entry": 1232193811,
@@ -23333,6 +23390,7 @@
     {
       "entry": 1233327541,
       "orgNumber": "802487-9085",
+      "orgName": "Scandinavian Human Rights Lawyers",
       "categories": [
         "juridiska tj\u00e4nster",
         "r\u00e4ttshj\u00e4lp"
@@ -23489,6 +23547,15 @@
         "ideell f\u00f6rening"
       ],
       "web": "https://amnestysapmi.se/"
+    },
+    {
+      "entry": 1233357589,
+      "orgNumber": "822001-0295",
+      "orgName": "Link\u00f6pings GIF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/linkopingsgif"
     },
     {
       "entry": 1233360070,
@@ -25968,6 +26035,15 @@
       "web": "https://www.ahusbk.se/"
     },
     {
+      "entry": 1233699485,
+      "orgNumber": "802465-6384",
+      "orgName": "J\u00e4mtland Charity - Templar Knights Motorcycle Club",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://templarknightsmc.se/jamtland/jamtland-charity/"
+    },
+    {
       "entry": 1233699931,
       "orgNumber": "814801-0856",
       "orgName": "\u00d6verby Ridskola",
@@ -26884,6 +26960,16 @@
       "web": "http://looffoundation.org/"
     },
     {
+      "entry": 1233861267,
+      "orgNumber": "802521-0215",
+      "orgName": "V\u00e4rends Gode Man Och F\u00f6rvaltare",
+      "categories": [
+        "f\u00f6rvaltare",
+        "gode man"
+      ],
+      "web": "http://www.gmfvarend.se/"
+    },
+    {
       "entry": 1233862471,
       "orgNumber": "769613-1502",
       "orgName": "SM i Fotografi / Svenska Portr\u00e4ttfotografers F\u00f6rbund",
@@ -27437,6 +27523,16 @@
       "web": "http://www.frojeredsif.se/"
     },
     {
+      "entry": 1233927175,
+      "orgNumber": "802538-2550",
+      "orgName": "GMF i Blekinge",
+      "categories": [
+        "f\u00f6rvaltare",
+        "gode man"
+      ],
+      "web": "http://www.gmfiblekinge.se/"
+    },
+    {
       "entry": 1233928132,
       "orgNumber": "878500-0350",
       "orgName": "Pingstf\u00f6rsamlingen Kungs\u00f6r",
@@ -27634,6 +27730,15 @@
         "lionsklubb"
       ],
       "web": "https://lionsclubsundbyberg.org/"
+    },
+    {
+      "entry": 1233952926,
+      "orgNumber": "252002-6861",
+      "orgName": "Kinneveds F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/floby"
     },
     {
       "entry": 1233953271,
@@ -32891,6 +32996,15 @@
       "web": "https://www.urbergsgruppen.se/"
     },
     {
+      "entry": 1234790333,
+      "orgNumber": "802465-6384",
+      "orgName": "J\u00e4mtland Charity - Templar Knights Motorcycle Club",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://templarknightsmc.se/jamtland/jamtland-charity/"
+    },
+    {
       "entry": 1234795613,
       "orgNumber": "875003-0846",
       "orgName": "Intacts V\u00e4nner",
@@ -37316,6 +37430,15 @@
       "web": "https://hoganasgk.se/"
     },
     {
+      "entry": 1235407929,
+      "orgNumber": "252004-1712",
+      "orgName": "\u00c5sarps F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/floby"
+    },
+    {
       "entry": 1235413224,
       "orgNumber": "556706-5262",
       "orgName": "Gideonsbergskyrkan",
@@ -37766,6 +37889,16 @@
         "religion"
       ],
       "web": "https://www.arboga.pingst.se/"
+    },
+    {
+      "entry": 1235457874,
+      "orgNumber": "252003-9146",
+      "orgName": "Floby Pastorat",
+      "comment": "ACT",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/floby"
     },
     {
       "entry": 1235458013,
@@ -39106,6 +39239,16 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://vasterviksrf.se/"
+    },
+    {
+      "entry": 1235662408,
+      "orgNumber": "802528-5894",
+      "orgName": "Gmf-F\u00f6rening I Samverkan",
+      "categories": [
+        "f\u00f6rvaltare",
+        "gode man"
+      ],
+      "web": "http://www.gmfnybro.se/"
     },
     {
       "entry": 1235663299,

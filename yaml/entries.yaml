@@ -428,8 +428,9 @@ entries:
   orgName: Telegrafverkets Pistolskytteförening
   orgNumber: null
   comment: null
-  categories: null
-  web: null
+  categories:
+  - pistolskytteklubb
+  web: https://tpsf.se/
 
 - entry: 1230054106
   orgName: Sölvesborgs Filmstudio
@@ -512,7 +513,7 @@ entries:
 
 - entry: 1230064006
   orgName: Nya Scandinavia SSB Club Sweden
-  orgNumber: null
+  orgNumber: 969769-5998
   comment: null
   categories:
   - privatradio
@@ -1240,10 +1241,11 @@ entries:
   web: https://www.gota.nu/
 
 - entry: 1230180695
-  orgName: Nordic Reel Icons
-  orgNumber: null
+  orgName: Nordic Reel Icons / Nordic Legions
+  orgNumber: 802541-6721
   comment: null
-  categories: null
+  categories:
+  - hjälporganisation
   web: https://nordiclegions.net/
 
 - entry: 1230181917
@@ -1726,7 +1728,7 @@ entries:
 
 - entry: 1230230151
   orgName: Sättna Baptistförsamling / Betania Kovland
-  orgNumber: null
+  orgNumber: 889200-6092
   comment: null
   categories:
   - religion
@@ -3051,6 +3053,14 @@ entries:
   categories:
   - religion
   web: https://tannakerpingst.se/
+
+- entry: 1230401182
+  orgName: Floby Församling
+  orgNumber: 252004-2033
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/floby
 
 - entry: 1230401851
   orgName: Frälsningsarmén
@@ -5927,7 +5937,7 @@ entries:
 - entry: 1230876177
   orgName: null
   orgNumber: null
-  comment: null
+  comment: Tradera handlare Nökens_Efterträdare
   categories: null
   web: null
 
@@ -7377,11 +7387,12 @@ entries:
   web: https://www.amningshjalpen.se/
 
 - entry: 1231157965
-  orgName: null
-  orgNumber: null
+  orgName: Jämtland Charity - Templar Knights Motorcycle Club
+  orgNumber: 802465-6384
   comment: null
-  categories: null
-  web: null
+  categories:
+  - hjälporganisation
+  web: https://templarknightsmc.se/jamtland/jamtland-charity/
 
 - entry: 1231158138
   orgName: Stockholms BSK - Baseboll och Softboll
@@ -13722,6 +13733,14 @@ entries:
   categories:
   - religion
   web: https://betaniaforsamlingen.se/
+
+- entry: 1232193696
+  orgName: Jämtland Charity - Templar Knights Motorcycle Club
+  orgNumber: 802465-6384
+  comment: Fjäril
+  categories:
+  - hjälporganisation
+  web: https://templarknightsmc.se/jamtland/jamtland-charity/
 
 - entry: 1232193811
   orgName: Linköpings Moskéstiftelse
@@ -20887,7 +20906,7 @@ entries:
   web: https://vemdalenpadelarena.com/
 
 - entry: 1233327541
-  orgName: null
+  orgName: Scandinavian Human Rights Lawyers
   orgNumber: 802487-9085
   comment: null
   categories:
@@ -21030,11 +21049,12 @@ entries:
   web: https://amnestysapmi.se/
 
 - entry: 1233357589
-  orgName: null
-  orgNumber: null
+  orgName: Linköpings GIF
+  orgNumber: 822001-0295
   comment: null
-  categories: null
-  web: null
+  categories:
+  - idrottsförening
+  web: https://www.svenskalag.se/linkopingsgif
 
 - entry: 1233360070
   orgName: Moderata Samlingspartiet Riksorganisationen
@@ -23248,6 +23268,14 @@ entries:
   - hundsport
   web: https://www.ahusbk.se/
 
+- entry: 1233699485
+  orgName: Jämtland Charity - Templar Knights Motorcycle Club
+  orgNumber: 802465-6384
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://templarknightsmc.se/jamtland/jamtland-charity/
+
 - entry: 1233699931
   orgName: Överby Ridskola
   orgNumber: 814801-0856
@@ -24075,6 +24103,15 @@ entries:
   - stiftelse
   web: http://looffoundation.org/
 
+- entry: 1233861267
+  orgName: Värends Gode Man Och Förvaltare
+  orgNumber: 802521-0215
+  comment: null
+  categories:
+  - förvaltare
+  - gode man
+  web: http://www.gmfvarend.se/
+
 - entry: 1233862471
   orgName: SM i Fotografi / Svenska Porträttfotografers Förbund
   orgNumber: 769613-1502
@@ -24581,6 +24618,15 @@ entries:
   - idrottsförening
   web: http://www.frojeredsif.se/
 
+- entry: 1233927175
+  orgName: GMF i Blekinge
+  orgNumber: 802538-2550
+  comment: null
+  categories:
+  - förvaltare
+  - gode man
+  web: http://www.gmfiblekinge.se/
+
 - entry: 1233928132
   orgName: Pingstförsamlingen Kungsör
   orgNumber: 878500-0350
@@ -24755,6 +24801,14 @@ entries:
   categories:
   - lionsklubb
   web: https://lionsclubsundbyberg.org/
+
+- entry: 1233952926
+  orgName: Kinneveds Församling
+  orgNumber: 252002-6861
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/floby
 
 - entry: 1233953271
   orgName: Hello World! Ideell förening
@@ -29470,11 +29524,12 @@ entries:
   web: https://www.urbergsgruppen.se/
 
 - entry: 1234790333
-  orgName: null
-  orgNumber: null
+  orgName: Jämtland Charity - Templar Knights Motorcycle Club
+  orgNumber: 802465-6384
   comment: null
-  categories: null
-  web: null
+  categories:
+  - hjälporganisation
+  web: https://templarknightsmc.se/jamtland/jamtland-charity/
 
 - entry: 1234795613
   orgName: Intacts Vänner
@@ -33413,6 +33468,14 @@ entries:
   - golfklubb
   web: https://hoganasgk.se/
 
+- entry: 1235407929
+  orgName: Åsarps Församling
+  orgNumber: 252004-1712
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/floby
+
 - entry: 1235413224
   orgName: Gideonsbergskyrkan
   orgNumber: 556706-5262
@@ -33824,6 +33887,14 @@ entries:
   categories:
   - religion
   web: https://www.arboga.pingst.se/
+
+- entry: 1235457874
+  orgName: Floby Pastorat
+  orgNumber: 252003-9146
+  comment: ACT
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/floby
 
 - entry: 1235458013
   orgName: Framnäs Hamnförening
@@ -35006,6 +35077,15 @@ entries:
   categories:
   - ryttarförening
   web: https://vasterviksrf.se/
+
+- entry: 1235662408
+  orgName: Gmf-Förening I Samverkan
+  orgNumber: 802528-5894
+  comment: null
+  categories:
+  - förvaltare
+  - gode man
+  web: http://www.gmfnybro.se/
 
 - entry: 1235663299
   orgName: Idrottsföreningen Linné
