@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-07-rev-235852",
+    "date": "2023-06-08-rev-001444",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -49189,15 +49189,6 @@
         "insamlingskontroll"
       ],
       "web": "https://www.uppsalastadsmission.se/"
-    },
-    {
-      "entry": 1239002841,
-      "orgNumber": "802429-5498",
-      "orgName": "GIVEWATTS",
-      "categories": [
-        "insamlingskontroll"
-      ],
-      "web": "https://www.givewatts.org/"
     },
     {
       "entry": 1239002866,

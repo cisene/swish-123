@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-06-07-rev-235852
+Date:     2023-06-08-rev-001444
 ...
 
 # Swish 123 Nummer
@@ -4960,7 +4960,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239002791 | 802477-4195 | HumanistHjälpen                                                                                      | [Link](https://www.humanisthjalpen.se/) |
 | 1239002817 | 802010-9180 | Stiftelsen Håll Sverige Rent                                                                         | [Link](https://www.hsr.se/) |
 | 1239002825 | 802464-0065 | Uppsala Stadsmission                                                                                 | [Link](https://www.uppsalastadsmission.se/) |
-| 1239002841 | 802429-5498 | GIVEWATTS                                                                                            | [Link](https://www.givewatts.org/) |
 | 1239002866 | 802477-4534 | Insamlingsstiftelsen Lions fond för medicinsk forskning inom Skåne                                   | [Link](https://www.lffs.se/) |
 | 1239002908 | 802009-2261 | Barncancerfonden Stockholm Gotland                                                                   | [Link](https://www.barncancerfonden.se/lokala-foreningar/stockholm-gotland) |
 | 1239002932 | 802012-8628 | UN Women Sverige                                                                                     | [Link](https://www.unwomen.se/) |

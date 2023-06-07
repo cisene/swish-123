@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-06-07-rev-235852
+# Date: 2023-06-08-rev-001444
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4958,7 +4958,6 @@
 "1239002791","802477-4195","HumanistHjälpen","https://www.humanisthjalpen.se/","insamlingskontroll,stiftelse",""
 "1239002817","802010-9180","Stiftelsen Håll Sverige Rent","https://www.hsr.se/","insamlingskontroll",""
 "1239002825","802464-0065","Uppsala Stadsmission","https://www.uppsalastadsmission.se/","godkänd gåvomottagare,insamlingskontroll",""
-"1239002841","802429-5498","GIVEWATTS","https://www.givewatts.org/","insamlingskontroll",""
 "1239002866","802477-4534","Insamlingsstiftelsen Lions fond för medicinsk forskning inom Skåne","https://www.lffs.se/","insamlingskontroll",""
 "1239002908","802009-2261","Barncancerfonden Stockholm Gotland","https://www.barncancerfonden.se/lokala-foreningar/stockholm-gotland","insamlingskontroll",""
 "1239002932","802012-8628","UN Women Sverige","https://www.unwomen.se/","donation,godkänd gåvomottagare,insamlingskontroll,välgörenhet",""
