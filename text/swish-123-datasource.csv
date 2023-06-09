@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-06-09-rev-192350
+# Date: 2023-06-09-rev-193042
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -138,7 +138,7 @@
 "1230142927","559177-2198","MorrRingens AB","https://morrringens.se/","meditation,spiritualism",""
 "1230143792","559265-7158","Oxyboost-O2 Sweden AB","https://www.oxyboost-o2sweden.com/","hälsa,intresseförening",""
 "1230149286","212000-0266","Kulturskolan, Tierps Kommun","https://www.tierp.se/tierp.se/kultur-fritid-och-friluftsliv/kulturskolan.html","dans,musik,teater",""
-"1230154724","820114-XXXX","Silyns Massage o Fotvård","https://www.bokadirekt.se/places/silyns-massage-o-fotv%C3%A5rd--37757","fotvård,massage",""
+"1230154724","820114-XXXX","Silyns Massage o Fotvård","https://www.bokadirekt.se/places/silyns-fotklinik-47427","fotvård,massage",""
 "1230157024","802451-0391","Diabetesorganisationen i Sverige, DIOS","https://diabetesorg.se/","diabetes,hälsovård,patientförening",""
 "1230157693","802401-3404","Stiftelsen Hippocampus","https://www.stallkungsgarden.se/","hästsport,stiftelse,utbildning",""
 "1230159699","898801-0925","Parkinsonförbundet - Norrbotten","http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Norrbotten.html","förening,intresseförening",""
@@ -5172,6 +5172,7 @@
 "1239007857","822002-0187","Biståndsorganisationen Hjärta till Hjärta","https://www.hearttoheart.se/","godkänd gåvomottagare,insamlingskontroll",""
 "1239007865","802477-9293","Solvatten Insamlingsstiftelse","https://solvatten.org/","godkänd gåvomottagare,hjälporganisation,insamlingskontroll,stiftelse,välgörenhet",""
 "1239007873","802481-1922","Lena Wäpplings Stiftelse","https://www.lenawfoundation.com/","insamlingskontroll",""
+"1239007915","802007-3436","Synskadades Riksförbund","https://www.srf.nu/","godkänd gåvomottagare,insamlingskontroll,riksförbund",""
 "1239007931","817602-0025","Insamlingsstiftelsen Perinatalmedicinska Forskningsfonden i Uppsala - Födelsefonden","https://www.fodelsefonden.se/","insamlingskontroll,stiftelse",""
 "1239007949","855101-4874","Stiftelsen ParkinsonFörbundets Forskningsfond","https://www.parkinsonfonden.se/","forskning,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet",""
 "1239008004","802002-8711","Svenska Röda Korset","https://www.rodakorset.se/","godkänd gåvomottagare,insamlingskontroll,välgörenhet",""

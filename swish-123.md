@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-06-09-rev-192350
+Date:     2023-06-09-rev-193042
 ...
 
 # Swish 123 Nummer
@@ -140,7 +140,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230142927 | 559177-2198 | MorrRingens AB                                                                                       | [Link](https://morrringens.se/) |
 | 1230143792 | 559265-7158 | Oxyboost-O2 Sweden AB                                                                                | [Link](https://www.oxyboost-o2sweden.com/) |
 | 1230149286 | 212000-0266 | Kulturskolan, Tierps Kommun                                                                          | [Link](https://www.tierp.se/tierp.se/kultur-fritid-och-friluftsliv/kulturskolan.html) |
-| 1230154724 | 820114-XXXX | Silyns Massage o Fotvård                                                                             | [Link](https://www.bokadirekt.se/places/silyns-massage-o-fotv%C3%A5rd--37757) |
+| 1230154724 | 820114-XXXX | Silyns Massage o Fotvård                                                                             | [Link](https://www.bokadirekt.se/places/silyns-fotklinik-47427) |
 | 1230157024 | 802451-0391 | Diabetesorganisationen i Sverige, DIOS                                                               | [Link](https://diabetesorg.se/) |
 | 1230157693 | 802401-3404 | Stiftelsen Hippocampus                                                                               | [Link](https://www.stallkungsgarden.se/) |
 | 1230159699 | 898801-0925 | Parkinsonförbundet - Norrbotten                                                                      | [Link](http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Norrbotten.html) |
@@ -5174,6 +5174,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239007857 | 822002-0187 | Biståndsorganisationen Hjärta till Hjärta                                                            | [Link](https://www.hearttoheart.se/) |
 | 1239007865 | 802477-9293 | Solvatten Insamlingsstiftelse                                                                        | [Link](https://solvatten.org/) |
 | 1239007873 | 802481-1922 | Lena Wäpplings Stiftelse                                                                             | [Link](https://www.lenawfoundation.com/) |
+| 1239007915 | 802007-3436 | Synskadades Riksförbund                                                                              | [Link](https://www.srf.nu/) |
 | 1239007931 | 817602-0025 | Insamlingsstiftelsen Perinatalmedicinska Forskningsfonden i Uppsala - Födelsefonden                  | [Link](https://www.fodelsefonden.se/) |
 | 1239007949 | 855101-4874 | Stiftelsen ParkinsonFörbundets Forskningsfond                                                        | [Link](https://www.parkinsonfonden.se/) |
 | 1239008004 | 802002-8711 | Svenska Röda Korset                                                                                  | [Link](https://www.rodakorset.se/) |

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-09-rev-192350",
+    "date": "2023-06-09-rev-193042",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1308,7 +1308,7 @@
         "fotv\u00e5rd",
         "massage"
       ],
-      "web": "https://www.bokadirekt.se/places/silyns-massage-o-fotv%C3%A5rd--37757"
+      "web": "https://www.bokadirekt.se/places/silyns-fotklinik-47427"
     },
     {
       "entry": 1230157024,
@@ -51324,6 +51324,17 @@
         "insamlingskontroll"
       ],
       "web": "https://www.lenawfoundation.com/"
+    },
+    {
+      "entry": 1239007915,
+      "orgNumber": "802007-3436",
+      "orgName": "Synskadades Riksf\u00f6rbund",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "insamlingskontroll",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://www.srf.nu/"
     },
     {
       "entry": 1239007931,
