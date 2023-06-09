@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-09-rev-191234",
+    "date": "2023-06-09-rev-192350",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -48239,7 +48239,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://www.krf.se"
+      "web": "https://www.krf.se/"
     },
     {
       "entry": 1239000399,
@@ -48676,7 +48676,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://www.sallsyntadiagnoser.se"
+      "web": "https://www.sallsyntadiagnoser.se/"
     },
     {
       "entry": 1239001579,
@@ -48700,7 +48700,7 @@
     {
       "entry": 1239001603,
       "orgNumber": "802444-3866",
-      "orgName": "V\u00e4ster\u00e5s stadsmission",
+      "orgName": "V\u00e4ster\u00e5s Stadsmission",
       "categories": [
         "donation",
         "insamlingskontroll"
@@ -48810,7 +48810,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://islamic-relief.se/"
+      "web": "https://www.islamic-relief.se/"
     },
     {
       "entry": 1239001843,
@@ -48960,7 +48960,7 @@
     {
       "entry": 1239002221,
       "orgNumber": "802426-4734",
-      "orgName": "Insamlingsstiftelsen Operation Smile Sverige",
+      "orgName": "Insamlingsstiftelsen Operation Smile Sverige II",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
@@ -48985,18 +48985,18 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://svenskalivraddningssallskapet.se/"
+      "web": "https://www.svenskalivraddningssallskapet.se/"
     },
     {
       "entry": 1239002296,
       "orgNumber": "802405-7815",
-      "orgName": "SOS Barnbyar",
+      "orgName": "SOS-Barnbyar Sverige",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://sos-barnbyar.se/"
+      "web": "https://www.sos-barnbyar.se/"
     },
     {
       "entry": 1239002320,
@@ -49006,7 +49006,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://involvaid.com/"
+      "web": "https://www.involvaid.com/"
     },
     {
       "entry": 1239002353,
@@ -49067,12 +49067,12 @@
     {
       "entry": 1239002494,
       "orgNumber": "802015-5670",
-      "orgName": "Right Livelihood-stiftelsen",
+      "orgName": "Right Livelihood Award Stiftelsen",
       "categories": [
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://rightlivelihood.org/"
+      "web": "https://www.rightlivelihood.org/"
     },
     {
       "entry": 1239002536,
@@ -49164,7 +49164,7 @@
     {
       "entry": 1239002791,
       "orgNumber": "802477-4195",
-      "orgName": "HumanistHj\u00e4lpen",
+      "orgName": "Insamlingsstiftelsen Humanisthj\u00e4lpen Humanist Aid Sweden",
       "categories": [
         "insamlingskontroll",
         "stiftelse"
@@ -49211,7 +49211,7 @@
     {
       "entry": 1239002932,
       "orgNumber": "802012-8628",
-      "orgName": "UN Women Sverige",
+      "orgName": "UN Women nationell kommit\u00e9 Sverige",
       "categories": [
         "donation",
         "godk\u00e4nd g\u00e5vomottagare",
@@ -49336,7 +49336,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://afrikagrupperna.se/"
+      "web": "https://www.afrikagrupperna.se/"
     },
     {
       "entry": 1239003385,
@@ -49351,7 +49351,7 @@
     {
       "entry": 1239003419,
       "orgNumber": "826002-2630",
-      "orgName": "Sam-Hj\u00e4lp",
+      "orgName": "SAM-hj\u00e4lp",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
@@ -49363,7 +49363,7 @@
     {
       "entry": 1239003443,
       "orgNumber": "815600-8784",
-      "orgName": "Brottsofferjouren",
+      "orgName": "Brottsofferjouren Sverige",
       "categories": [
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
@@ -49456,7 +49456,7 @@
     {
       "entry": 1239003674,
       "orgNumber": "802477-9202",
-      "orgName": "Njurfonden",
+      "orgName": "Insamlingsstiftelsen Njurfonden",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
@@ -49774,7 +49774,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://raddningsmissionen.se/"
+      "web": "https://www.raddningsmissionen.se/"
     },
     {
       "entry": 1239004540,
@@ -49823,7 +49823,7 @@
     {
       "entry": 1239004656,
       "orgNumber": "802478-2842",
-      "orgName": "Help Kurdistan insamlingsstiftelse",
+      "orgName": "Help Kurdistan Insamlingsstiftelse",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
@@ -50082,7 +50082,7 @@
     {
       "entry": 1239005133,
       "orgNumber": "802409-8264",
-      "orgName": "Min Stora Dag",
+      "orgName": "Stiftelsen Min Stora Dag",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
@@ -50139,7 +50139,7 @@
     {
       "entry": 1239005307,
       "orgNumber": "802009-9332",
-      "orgName": "STROKE-Riksf\u00f6rbundet",
+      "orgName": "STROKEF\u00d6RBUNDET",
       "categories": [
         "f\u00f6rbund",
         "insamlingskontroll",
@@ -50269,7 +50269,7 @@
     {
       "entry": 1239005570,
       "orgNumber": "802001-4968",
-      "orgName": "Svenska Hundskyddsf\u00f6reningen",
+      "orgName": "Hundstallet - Svenska Hundskyddsf\u00f6reningen",
       "categories": [
         "insamlingskontroll"
       ],
@@ -50294,7 +50294,7 @@
         "insamlingskontroll",
         "stiftelse"
       ],
-      "web": "https://www.agrenska.se/sallsyntafonden/"
+      "web": "https://www.sallsyntafonden.se/"
     },
     {
       "entry": 1239005620,
@@ -50354,7 +50354,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://ungcancer.se/"
+      "web": "https://www.ungcancer.se/"
     },
     {
       "entry": 1239005752,
@@ -50412,7 +50412,7 @@
     {
       "entry": 1239005836,
       "orgNumber": "802469-5424",
-      "orgName": "FOTA - From One To Another",
+      "orgName": "From One To Another",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
@@ -50450,7 +50450,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://br\u00f6stcancerf\u00f6rbundet.se/"
+      "web": "https://www.brostcancerforbundet.se/"
     },
     {
       "entry": 1239005943,
@@ -50534,13 +50534,13 @@
     {
       "entry": 1239006099,
       "orgNumber": "802002-8133",
-      "orgName": "RFSU Insamlingsstiftelse",
+      "orgName": "RFSU, Riksf\u00f6rbundet f\u00f6r Sexuell Upplysning",
       "categories": [
         "insamlingskontroll",
         "stiftelse",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://www.rfsuinsamling.se/"
+      "web": "https://www.rfsu.se/"
     },
     {
       "entry": 1239006149,
@@ -50750,7 +50750,7 @@
         "kvinnojour",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://www.foreningenstorasyster.se/"
+      "web": "https://www.storasyster.org/"
     },
     {
       "entry": 1239006800,
@@ -50883,7 +50883,7 @@
         "insamlingskontroll",
         "stiftelse"
       ],
-      "web": "https://www.ronaldmcdonaldhus.se/"
+      "web": "https://www.ronaldmcdonaldbarnfond.se/"
     },
     {
       "entry": 1239007030,
@@ -51007,7 +51007,7 @@
         "stiftelse",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://plansverige.org/"
+      "web": "https://www.plansverige.org/"
     },
     {
       "entry": 1239007345,
@@ -51140,7 +51140,7 @@
       "categories": [
         "insamlingskontroll"
       ],
-      "web": "https://treskablinoll.nu/"
+      "web": "https://www.treskablinoll.nu/"
     },
     {
       "entry": 1239007584,
@@ -51181,7 +51181,7 @@
     {
       "entry": 1239007667,
       "orgNumber": "802014-9483",
-      "orgName": "Riksf\u00f6rbundet f\u00f6r SuicidPrevention och Efterlevandes St\u00f6d - SPES",
+      "orgName": "SPES - Riksf\u00f6rbundet f\u00f6r SuicidPrevention och EfterlevandeSt\u00f6d",
       "categories": [
         "insamlingskontroll",
         "riksf\u00f6rbund",
@@ -51401,17 +51401,17 @@
     {
       "entry": 1239008343,
       "orgNumber": "857209-4004",
-      "orgName": "Insamlingsstiftelsen Drottning Silvias Barn- och Ungdomssjukhus",
+      "orgName": "Insamlingsstiftelsen Drottning Silvias Barnsjukhus",
       "categories": [
         "insamlingskontroll",
         "stiftelse"
       ],
-      "web": "https://www.barnsjukhuset.nu/"
+      "web": "https://www.gl\u00e4djel\u00e4ker.se/"
     },
     {
       "entry": 1239008392,
       "orgNumber": "857500-7490",
-      "orgName": "Insamlingsstiftelsen Muskelfonden - Forskningsfonden f\u00f6r Neuromuskul\u00e4ra Sjukdomar",
+      "orgName": "Muskelfonden - Insamlingsstiftelsen Forskningsfonden f\u00f6r Neuromuskul\u00e4ra Sjukdomar",
       "categories": [
         "insamlingskontroll",
         "stiftelse"
@@ -51462,12 +51462,12 @@
     {
       "entry": 1239008780,
       "orgNumber": "822001-0022",
-      "orgName": "Link\u00f6pings Stadsmission",
+      "orgName": "\u00d6sterg\u00f6tlands Stadsmission",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
-      "web": "https://www.linkopingsstadsmission.se/"
+      "web": "https://www.stadsmissionenost.se/"
     },
     {
       "entry": 1239008806,
@@ -51493,13 +51493,13 @@
     {
       "entry": 1239009010,
       "orgNumber": "802007-6520",
-      "orgName": "Diabetesfonden",
+      "orgName": "Stiftelsen Svenska Diabetesf\u00f6rbundets Forskningsfond - Diabetesfonden",
       "categories": [
         "donation",
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://www.diabetes.se/diabetesfonden"
+      "web": "https://www.diabetesfonden.se/"
     },
     {
       "entry": 1239009069,
@@ -51611,7 +51611,7 @@
     {
       "entry": 1239009903,
       "orgNumber": "802000-8184",
-      "orgName": "EFS - Evangeliska Fosterlandsstiftelsen",
+      "orgName": "EFS Evangeliska Fosterlands-stiftelsen",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
@@ -51674,7 +51674,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://neuro.se/"
+      "web": "https://www.neuro.se/"
     },
     {
       "entry": 1239010109,
@@ -51789,7 +51789,7 @@
         "stiftelse",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://www.barnensraddningsark.se/"
+      "web": "https://www.barnensraddningsark.com/"
     },
     {
       "entry": 1239011123,
@@ -51828,7 +51828,7 @@
     {
       "entry": 1239011206,
       "orgNumber": "857206-8701",
-      "orgName": "Riksorganisationen f\u00f6r ett Drogfritt Sverige",
+      "orgName": "Droginformation f\u00f6r alla",
       "categories": [
         "insamlingskontroll"
       ],
@@ -51837,7 +51837,7 @@
     {
       "entry": 1239011255,
       "orgNumber": "802017-8664",
-      "orgName": "Hj\u00e4rnfonden",
+      "orgName": "Insamlingsstiftelsen Hj\u00e4rnfonden",
       "categories": [
         "donation",
         "godk\u00e4nd g\u00e5vomottagare",
@@ -51906,7 +51906,7 @@
         "stiftelse",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://newhope.se/"
+      "web": "https://www.newhope.se/"
     },
     {
       "entry": 1239011917,
@@ -52138,7 +52138,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://kfum.se/"
+      "web": "https://www.kfum.se/"
     },
     {
       "entry": 1239019076,
@@ -52230,7 +52230,7 @@
     {
       "entry": 1239019795,
       "orgNumber": "802008-1827",
-      "orgName": "Stiftelsen En r\u00f6kfri generation",
+      "orgName": "Stiftelsen En r\u00f6kfri generation - A Non Smoking Generation",
       "categories": [
         "insamlingskontroll",
         "stiftelse"
@@ -52282,7 +52282,7 @@
     {
       "entry": 1239020033,
       "orgNumber": "802002-8638",
-      "orgName": "R\u00e4dda Barnen",
+      "orgName": "R\u00e4dda Barnens Riksf\u00f6rbund",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
@@ -52426,7 +52426,7 @@
     {
       "entry": 1239091109,
       "orgNumber": "857209-4152",
-      "orgName": "\u00c5grenska v\u00e4nskapsf\u00f6reningen",
+      "orgName": "\u00c5grenska V\u00e4nskapsf\u00f6reningen",
       "categories": [
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
