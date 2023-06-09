@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-06-09-rev-193042
+# Date: 2023-06-09-rev-193845
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4856,7 +4856,6 @@
 "1239000043","802007-3436","Synskadades Riksförbund","https://www.srf.nu/","godkänd gåvomottagare,insamlingskontroll",""
 "1239000068","815200-4134","Personskadeförbundet RTP","https://rtp.se/","insamlingskontroll,välgörenhet",""
 "1239000100","817601-9316","Barncancerfonden Mellansverige","https://www.barncancerfonden.se/mellansverige","insamlingskontroll",""
-"1239000142","802402-1894","Stiftelsen Barnforskningen vid Astrid Lindgrens Barnsjukhus","https://www.barnforskningen.se/","insamlingskontroll",""
 "1239000159","802417-7381","Stödföreningen för RIA Hela Människan i Falun","https://helamanniskan.se/falun/","insamlingskontroll",""
 "1239000209","802402-6521","Clowner utan Gränser","https://www.clownerutangranser.se/","insamlingskontroll,välgörenhet",""
 "1239000217","802005-9989","Läkarmissionen - stiftelse för filantropisk verksamhet","https://www.lakarmissionen.se/","godkänd gåvomottagare,insamlingskontroll,välgörenhet",""

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-09-rev-193042",
+    "date": "2023-06-09-rev-193845",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -48171,15 +48171,6 @@
         "insamlingskontroll"
       ],
       "web": "https://www.barncancerfonden.se/mellansverige"
-    },
-    {
-      "entry": 1239000142,
-      "orgNumber": "802402-1894",
-      "orgName": "Stiftelsen Barnforskningen vid Astrid Lindgrens Barnsjukhus",
-      "categories": [
-        "insamlingskontroll"
-      ],
-      "web": "https://www.barnforskningen.se/"
     },
     {
       "entry": 1239000159,
