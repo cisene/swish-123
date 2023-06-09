@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-06-08-rev-001444
+Date:     2023-06-09-rev-191234
 ...
 
 # Swish 123 Nummer
@@ -5134,10 +5134,10 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239007063 | 845000-0768 | IM Individuell Människohjälp/Swedish Development Partner                                             | [Link](https://www.imsweden.org/) |
 | 1239007071 | 822003-7827 | Barncancerfonden Östra                                                                               | [Link](https://www.barncancerfonden.se/ostra) |
 | 1239007113 | 802473-9701 | Kompis Sverige                                                                                       | [Link](https://www.kompissverige.se/) |
-| 1239007121 | 848001-1843 | Brottsofferjouren Freezonen, Kvinno-Tjej och Brottsoffer                                             | [Link](https://www.brottsofferjouren.se/) |
+| 1239007121 | 848001-1843 | Freezonen, Kvinno-,Tjej- och Brottsofferjour                                                         | [Link](https://www.freezonen.se/) |
 | 1239007139 | 802461-3092 | Insamlingsstiftelsen Project Playground                                                              | [Link](https://www.project-playground.org/) |
 | 1239007204 | 822001-9072 | Stiftelsen Barndiabetesfonden                                                                        | [Link](https://www.barndiabetesfonden.se/) |
-| 1239007212 | 816400-0922 | Sjundedags Adventistsamfundet                                                                        | [Link](https://www.adventist.se/) |
+| 1239007212 | 802539-4035 | ADRA Sverige                                                                                         | [Link](https://www.adra.se/) |
 | 1239007220 | 802012-4999 | Ögonfonden/Stiftelsen Synfrämjandets Forskningsfond                                                  | [Link](https://www.ogonfonden.se/) |
 | 1239007279 | 857205-5237 | Schizofreniförbundet, Intresseförbundet för personer med schizofreni och liknande psykoser           | [Link](https://www.schizofreniforbundet.se/) |
 | 1239007287 | 802014-9228 | Folk & Språk                                                                                         | [Link](https://www.folk.se/) |
@@ -5165,15 +5165,15 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239007725 | 802532-0808 | Brännskadefonden - Swedish Burn Care Foundation                                                      | [Link](https://www.brannskadefonden.se/) |
 | 1239007741 | 802007-6512 | Svenska Diabetesförbundet                                                                            | [Link](https://www.diabetes.se/) |
 | 1239007766 | 802400-7620 | ForumCiv                                                                                             | [Link](https://www.forumciv.org/) |
-| 1239007774 | 802001-6047 | Internationella Kvinnoförbundet för Fred och Frihet, IKFF                                            | [Link](https://ikff.se/) |
-| 1239007782 | 857209-6173 | Clownkliniken                                                                                        | [Link](https://clownkliniken.se/) |
-| 1239007790 | 802481-5956 | Insamlingsstiftelsen Baltic Waters 2030                                                              | [Link](https://balticwaters2030.org/) |
+| 1239007774 | 802001-6047 | Internationella Kvinnoförbundet för Fred och Frihet, IKFF                                            | [Link](https://www.ikff.se/) |
+| 1239007782 | 857209-6173 | Clownkliniken                                                                                        | [Link](https://www.clownkliniken.se/) |
+| 1239007790 | 802481-5956 | Insamlingsstiftelsen Baltic Waters 2030                                                              | [Link](https://www.balticwaters2030.org/) |
 | 1239007808 | 802010-4850 | Svenska Afghanistankommittén                                                                         | [Link](https://www.sak.se/) |
 | 1239007816 | 802001-8613 | Korpen Svenska Motionsidrottsförbundet                                                               | [Link](https://www.korpen.se/) |
-| 1239007832 | 802525-0963 | Insamlingsstiftelsen Framtidens Natur & Kulturarv                                                    | [Link](https://framtidensnatur.se/) |
+| 1239007832 | 802481-9370 | Insamlingsstiftelsen Framtidens Natur & Kulturarv                                                    | [Link](https://www.framtidensnatur.se/) |
 | 1239007857 | 822002-0187 | Biståndsorganisationen Hjärta till Hjärta                                                            | [Link](https://www.hearttoheart.se/) |
 | 1239007865 | 802477-9293 | Solvatten Insamlingsstiftelse                                                                        | [Link](https://solvatten.org/) |
-| 1239007873 | 802481-1922 | Lena Wäppling's Foundation                                                                           | [Link](https://www.lenawfoundation.com/) |
+| 1239007873 | 802481-1922 | Lena Wäpplings Stiftelse                                                                             | [Link](https://www.lenawfoundation.com/) |
 | 1239007931 | 817602-0025 | Insamlingsstiftelsen Perinatalmedicinska Forskningsfonden i Uppsala - Födelsefonden                  | [Link](https://www.fodelsefonden.se/) |
 | 1239007949 | 855101-4874 | Stiftelsen ParkinsonFörbundets Forskningsfond                                                        | [Link](https://www.parkinsonfonden.se/) |
 | 1239008004 | 802002-8711 | Svenska Röda Korset                                                                                  | [Link](https://www.rodakorset.se/) |

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-08-rev-001444",
+    "date": "2023-06-09-rev-191234",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -50928,13 +50928,13 @@
     {
       "entry": 1239007121,
       "orgNumber": "848001-1843",
-      "orgName": "Brottsofferjouren Freezonen, Kvinno-Tjej och Brottsoffer",
+      "orgName": "Freezonen, Kvinno-,Tjej- och Brottsofferjour",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "kvinnojour"
       ],
-      "web": "https://www.brottsofferjouren.se/"
+      "web": "https://www.freezonen.se/"
     },
     {
       "entry": 1239007139,
@@ -50958,14 +50958,13 @@
     },
     {
       "entry": 1239007212,
-      "orgNumber": "816400-0922",
-      "orgName": "Sjundedags Adventistsamfundet",
+      "orgNumber": "802539-4035",
+      "orgName": "ADRA Sverige",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "religion"
       ],
-      "web": "https://www.adventist.se/"
+      "web": "https://www.adra.se/"
     },
     {
       "entry": 1239007220,
@@ -51238,7 +51237,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://ikff.se/"
+      "web": "https://www.ikff.se/"
     },
     {
       "entry": 1239007782,
@@ -51249,7 +51248,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://clownkliniken.se/"
+      "web": "https://www.clownkliniken.se/"
     },
     {
       "entry": 1239007790,
@@ -51259,7 +51258,7 @@
         "insamlingskontroll",
         "stiftelse"
       ],
-      "web": "https://balticwaters2030.org/"
+      "web": "https://www.balticwaters2030.org/"
     },
     {
       "entry": 1239007808,
@@ -51284,7 +51283,7 @@
     },
     {
       "entry": 1239007832,
-      "orgNumber": "802525-0963",
+      "orgNumber": "802481-9370",
       "orgName": "Insamlingsstiftelsen Framtidens Natur & Kulturarv",
       "categories": [
         "insamlingskontroll",
@@ -51292,7 +51291,7 @@
         "naturv\u00e5rd",
         "stiftelse"
       ],
-      "web": "https://framtidensnatur.se/"
+      "web": "https://www.framtidensnatur.se/"
     },
     {
       "entry": 1239007857,
@@ -51320,7 +51319,7 @@
     {
       "entry": 1239007873,
       "orgNumber": "802481-1922",
-      "orgName": "Lena W\u00e4ppling's Foundation",
+      "orgName": "Lena W\u00e4pplings Stiftelse",
       "categories": [
         "insamlingskontroll"
       ],

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-06-08-rev-001444
+# Date: 2023-06-09-rev-191234
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -5132,10 +5132,10 @@ entry	orgNumber	orgName	web	categories	comment
 1239007063	845000-0768	IM Individuell Människohjälp/Swedish Development Partner	https://www.imsweden.org/	godkänd gåvomottagare,hjälporganisation,insamlingskontroll,välgörenhet	
 1239007071	822003-7827	Barncancerfonden Östra	https://www.barncancerfonden.se/ostra	insamlingskontroll	
 1239007113	802473-9701	Kompis Sverige	https://www.kompissverige.se/	insamlingskontroll	
-1239007121	848001-1843	Brottsofferjouren Freezonen, Kvinno-Tjej och Brottsoffer	https://www.brottsofferjouren.se/	godkänd gåvomottagare,insamlingskontroll,kvinnojour	
+1239007121	848001-1843	Freezonen, Kvinno-,Tjej- och Brottsofferjour	https://www.freezonen.se/	godkänd gåvomottagare,insamlingskontroll,kvinnojour	
 1239007139	802461-3092	Insamlingsstiftelsen Project Playground	https://www.project-playground.org/	insamlingskontroll,stiftelse	
 1239007204	822001-9072	Stiftelsen Barndiabetesfonden	https://www.barndiabetesfonden.se/	insamlingskontroll,stiftelse	
-1239007212	816400-0922	Sjundedags Adventistsamfundet	https://www.adventist.se/	godkänd gåvomottagare,insamlingskontroll,religion	
+1239007212	802539-4035	ADRA Sverige	https://www.adra.se/	insamlingskontroll,religion	
 1239007220	802012-4999	Ögonfonden/Stiftelsen Synfrämjandets Forskningsfond	https://www.ogonfonden.se/	forskning,insamlingskontroll,stiftelse	
 1239007279	857205-5237	Schizofreniförbundet, Intresseförbundet för personer med schizofreni och liknande psykoser	https://www.schizofreniforbundet.se/	förbund,insamlingskontroll,mental hälsa	
 1239007287	802014-9228	Folk & Språk	https://www.folk.se/	insamlingskontroll	
@@ -5163,15 +5163,15 @@ entry	orgNumber	orgName	web	categories	comment
 1239007725	802532-0808	Brännskadefonden - Swedish Burn Care Foundation	https://www.brannskadefonden.se/	insamlingskontroll	
 1239007741	802007-6512	Svenska Diabetesförbundet	https://www.diabetes.se/	förbund,godkänd gåvomottagare,insamlingskontroll	
 1239007766	802400-7620	ForumCiv	https://www.forumciv.org/	insamlingskontroll	
-1239007774	802001-6047	Internationella Kvinnoförbundet för Fred och Frihet, IKFF	https://ikff.se/	förbund,insamlingskontroll,välgörenhet	
-1239007782	857209-6173	Clownkliniken	https://clownkliniken.se/	barnsjukvård,insamlingskontroll,välgörenhet	
-1239007790	802481-5956	Insamlingsstiftelsen Baltic Waters 2030	https://balticwaters2030.org/	insamlingskontroll,stiftelse	
+1239007774	802001-6047	Internationella Kvinnoförbundet för Fred och Frihet, IKFF	https://www.ikff.se/	förbund,insamlingskontroll,välgörenhet	
+1239007782	857209-6173	Clownkliniken	https://www.clownkliniken.se/	barnsjukvård,insamlingskontroll,välgörenhet	
+1239007790	802481-5956	Insamlingsstiftelsen Baltic Waters 2030	https://www.balticwaters2030.org/	insamlingskontroll,stiftelse	
 1239007808	802010-4850	Svenska Afghanistankommittén	https://www.sak.se/	insamlingskontroll,välgörenhet	
 1239007816	802001-8613	Korpen Svenska Motionsidrottsförbundet	https://www.korpen.se/	friskvård,förbund,insamlingskontroll	
-1239007832	802525-0963	Insamlingsstiftelsen Framtidens Natur & Kulturarv	https://framtidensnatur.se/	insamlingskontroll,naturskydd,naturvård,stiftelse	
+1239007832	802481-9370	Insamlingsstiftelsen Framtidens Natur & Kulturarv	https://www.framtidensnatur.se/	insamlingskontroll,naturskydd,naturvård,stiftelse	
 1239007857	822002-0187	Biståndsorganisationen Hjärta till Hjärta	https://www.hearttoheart.se/	godkänd gåvomottagare,insamlingskontroll	
 1239007865	802477-9293	Solvatten Insamlingsstiftelse	https://solvatten.org/	godkänd gåvomottagare,hjälporganisation,insamlingskontroll,stiftelse,välgörenhet	
-1239007873	802481-1922	Lena Wäppling's Foundation	https://www.lenawfoundation.com/	insamlingskontroll	
+1239007873	802481-1922	Lena Wäpplings Stiftelse	https://www.lenawfoundation.com/	insamlingskontroll	
 1239007931	817602-0025	Insamlingsstiftelsen Perinatalmedicinska Forskningsfonden i Uppsala - Födelsefonden	https://www.fodelsefonden.se/	insamlingskontroll,stiftelse	
 1239007949	855101-4874	Stiftelsen ParkinsonFörbundets Forskningsfond	https://www.parkinsonfonden.se/	forskning,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet	
 1239008004	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,insamlingskontroll,välgörenhet	
