@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-06-11-rev-141356
+# Date: 2023-06-11-rev-152549
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -377,6 +377,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230423996	556706-5262	Viksängskyrkan	https://www.svenskakyrkan.se/vasteras/viksangskyrkan	religion	Ungdomsverksamheten
 1230424523	802493-9962	Musik i Lerum	https://musikilerum.se/	intresseförening,kulturförening,musikförening	
 1230424960	556950-0571	Helenas Hållbara / Wildros Miljö & Kommunikation AB	https://helenashallbara.se/	försäljning	
+1230425207	865500-9630	Handikappsrörelsens fastighetsförening i Ulricehamn	https://hfu-fast.se/	intresseförening	
 1230425215	556290-6692	JGs Husvagnar AB	https://jgshusvagnar.se/	campingutrustning,husvagnsförsäljning,husvagnsuthyrning	
 1230425272	802435-9047	Jämtland-Härjedalens Stövarklubb, JHSK	https://jhstovare.se/	hundklubb,hundsport,stövarklubb	
 1230425603	702000-7972	Gribbylunds Fastighetsägareförening	https://www.gribbylund.se/	fastighetsägarförening	
@@ -392,21 +393,27 @@ entry	orgNumber	orgName	web	categories	comment
 1230428789	802530-4331	Finska Filadelfia i Stockholm	https://www.raulilehtonen.com/	religion	
 1230429076	849201-6574	Bröstcancerföreningen Halland	https://halland.brostcancerforbundet.se/	bröstcancer,cancerforskning,intresseförening	
 1230429746	252002-4205	Anundsjö Församlning	https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped	religion	ACT
+1230434043	559237-7559	Optimal Service AB	https://www.optimalservice.nu/	hemstädning,städning	
 1230434290	559194-9440	LaxTon Ghost Sweden AB	https://www.laxton.se/	försäljning,partihandel,postorder	
 1230435354	802470-2451	Quinnoqraft Sandviken	https://www.qvinnoqraft-sandviken.se/	ideell förening	
 1230438077	802422-9497	Feministiskt Initiativ	https://feministisktinitiativ.se/	politiskt parti	
 1230438093	817602-0637	Bröstcancerföreningen Uppsala Län	https://uppsala.brostcancerforbundet.se/	bröstcancer,cancer,förening	
 1230438531	802015-9748	Moderata Ungdomsförbundet, MUF	https://muf.se/	politiskt ungdomsförbund	
 1230438895	866000-9526	Töreboda Brukshundklubb	https://www.torebodabhk.com/	brukshundsklubb,hundsport	
+1230439968	556626-3793	Mustasch AB	http://www.mustasch.net/	musik,orkester	
+1230440164	827000-2036	Nässjö IF	https://www.svenskalag.se/nassjoif	idrottsförening	
 1230440917	556404-6018	Zerillas Hundcenter AB	http://www.zerillas.se/	hundkurser,hundsport,utbildning	
 1230441865	802493-9863	Aktiva Seniorer Visby	https://aktivseniorgotland.webber.se/	pensionärsklubb	
 1230442046	252004-9947	Gävle Församling	https://www.svenskakyrkan.se/gavle/stromsbro-kyrka	religion	Strömsbro kyrka kollekt
+1230447482	889201-0565	Hässjö Baptistförsamling Ebeneser	https://www.kyrktorget.se/ebeneser.soraker	religion	
 1230450551	556706-5262	Sparven		religion	Köket
 1230450973	802430-7962	Camp Sweden TIFO	http://campsweden.se/	fotboll,supporterklubb	
 1230451054	802493-4070	Torps Bygdegård ideell förening	https://torpsbygdegard.se/	bygdegårdsförening,förening	
 1230451302	559211-3707	Min Stund AB	https://www.minstund.com/	fotvård,massage	
 1230451765	802505-7657	Amigos Mios	https://www.amigosmios.se/	djurskydd,hundhem	
 1230453928	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Stockholm, Igelsta skola
+1230456194	889200-5870	Timrå IK U16	https://www.laget.se/TIK08/	hockeyklubb,idrottsförening	
+1230460121	833200-6207	Emådalens Naturskyddsförening	https://emadalen.naturskyddsforeningen.se/	intresseförening,naturskydd	
 1230460634	825003-8448	Ljusfallshammars Byaråd	https://ljusfallshammar.nu/	byalag,förening	
 1230461244	843001-4087	Arilds Byalag	https://arild.se/	byalag	Arildsdagen
 1230461251	843001-4087	Arilds Byalag	https://arild.se/	byalag	Bassängen
@@ -415,16 +422,21 @@ entry	orgNumber	orgName	web	categories	comment
 1230469361	874000-1543	Lekvattnets Hembygdsförening	https://www.lekvattnet.se/	hembygdsförening	
 1230470963	848000-9037	Lions Club Romeleåsen	https://e-clubhouse.org/sites/romeleasen/	lionsklubb	
 1230470971	812000-4521	Österåkers Konsthall på Länsmansgården / Österåkers Konstförening	https://osterakerskonsthall.se/	konst	
+1230471417	252002-7158	Stigtomta-Vrena Församling	https://www.svenskakyrkan.se/stigtomta-vrena	religion	
 1230472829	817606-4346	Eskilstuna Klätterklubb	http://www.klattring.net/	klätterklubb,klättring	
 1230473231	894700-5842	Skellefteå CK - Curling	https://www.curlingklubben.se/	curling	Fika - mat
 1230474304	894000-1574	Pingstkyrkan Saron Granö	https://www.granopingst.se/	religion	
 1230474569	893202-2950	Östersunds Brukshundklubb	https://osdhund.se/	brukshundsklubb,hundsport	
+1230474965	827000-8603	Eksjö Djurskyddsförening	https://www.djurskyddet-eksjo.se/	djurskydd,intresseförening	
+1230474981	252002-8651	Kristus Konungens Katolska Församling	https://www.kristuskonungen.se/	religion	
 1230481309	802475-3892	Rotary Ängelholm-Bjäre	https://angelholm-bjare.rotary2400.se/	rotaryklubb	
 1230481606	556811-3541	Pilgrimage Yoga / Action Port AB	https://pilgrimage.se/	yoga	
 1230482364	802413-6361	Bröstcancerföreningen Pärlan Helsingborg	https://helsingborg.brostcancerforbundet.se/	bröstcancer,cancer,förbund,förening,intresseförening	
 1230483651	878001-3077	Hallstahammars SK Fotbollsklubb	https://www.hsk-fotboll.nu/	fotbollsklubb,idrottsförening	
 1230483925	864500-0764	Borås CA - Cykel	https://www.borasca.se/	cykelklubb	
 1230484071	556891-2348	Stockholms Hundsportcentrum AB	https://stockholmshundsportcentrum.se/	hundsport	
+1230484923	802452-8237	Djurskyddet Bill & Bull i Söderhamn	https://www.djurskyddet.se/billochbull/	djurskydd,intresseförening	
+1230485573	848000-8575	Ystads Frivillige Bergnings-Corps, Ystads FBC	https://www.ystadsfbc.se/	intresseförening	
 1230485730	822002-1755	Östergötlands Taxklubb	http://ostergotlandstaxklubb.dinstudio.se/	hundklubb	
 1230486696	802017-7591	Sköldkörtelförbundet	https://skoldkortelforbundet.se/	förbund,patientförening	
 1230486738	802017-3954	Stiftelsen Livsuniversitetet	https://livsuniversitetet.se/	lokaluthyrning,stiftelse,yoga	

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-11-rev-141356",
+    "date": "2023-06-11-rev-152549",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3658,6 +3658,15 @@
       "web": "https://helenashallbara.se/"
     },
     {
+      "entry": 1230425207,
+      "orgNumber": "865500-9630",
+      "orgName": "Handikappsr\u00f6relsens fastighetsf\u00f6rening i Ulricehamn",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://hfu-fast.se/"
+    },
+    {
       "entry": 1230425215,
       "orgNumber": "556290-6692",
       "orgName": "JGs Husvagnar AB",
@@ -3805,6 +3814,16 @@
       "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
+      "entry": 1230434043,
+      "orgNumber": "559237-7559",
+      "orgName": "Optimal Service AB",
+      "categories": [
+        "hemst\u00e4dning",
+        "st\u00e4dning"
+      ],
+      "web": "https://www.optimalservice.nu/"
+    },
+    {
       "entry": 1230434290,
       "orgNumber": "559194-9440",
       "orgName": "LaxTon Ghost Sweden AB",
@@ -3864,6 +3883,25 @@
       "web": "https://www.torebodabhk.com/"
     },
     {
+      "entry": 1230439968,
+      "orgNumber": "556626-3793",
+      "orgName": "Mustasch AB",
+      "categories": [
+        "musik",
+        "orkester"
+      ],
+      "web": "http://www.mustasch.net/"
+    },
+    {
+      "entry": 1230440164,
+      "orgNumber": "827000-2036",
+      "orgName": "N\u00e4ssj\u00f6 IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/nassjoif"
+    },
+    {
       "entry": 1230440917,
       "orgNumber": "556404-6018",
       "orgName": "Zerillas Hundcenter AB",
@@ -3892,6 +3930,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/gavle/stromsbro-kyrka"
+    },
+    {
+      "entry": 1230447482,
+      "orgNumber": "889201-0565",
+      "orgName": "H\u00e4ssj\u00f6 Baptistf\u00f6rsamling Ebeneser",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.kyrktorget.se/ebeneser.soraker"
     },
     {
       "entry": 1230450551,
@@ -3953,6 +4000,26 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230456194,
+      "orgNumber": "889200-5870",
+      "orgName": "Timr\u00e5 IK U16",
+      "categories": [
+        "hockeyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/TIK08/"
+    },
+    {
+      "entry": 1230460121,
+      "orgNumber": "833200-6207",
+      "orgName": "Em\u00e5dalens Naturskyddsf\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening",
+        "naturskydd"
+      ],
+      "web": "https://emadalen.naturskyddsforeningen.se/"
     },
     {
       "entry": 1230460634,
@@ -4030,6 +4097,15 @@
       "web": "https://osterakerskonsthall.se/"
     },
     {
+      "entry": 1230471417,
+      "orgNumber": "252002-7158",
+      "orgName": "Stigtomta-Vrena F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/stigtomta-vrena"
+    },
+    {
       "entry": 1230472829,
       "orgNumber": "817606-4346",
       "orgName": "Eskilstuna Kl\u00e4tterklubb",
@@ -4067,6 +4143,25 @@
         "hundsport"
       ],
       "web": "https://osdhund.se/"
+    },
+    {
+      "entry": 1230474965,
+      "orgNumber": "827000-8603",
+      "orgName": "Eksj\u00f6 Djurskyddsf\u00f6rening",
+      "categories": [
+        "djurskydd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.djurskyddet-eksjo.se/"
+    },
+    {
+      "entry": 1230474981,
+      "orgNumber": "252002-8651",
+      "orgName": "Kristus Konungens Katolska F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.kristuskonungen.se/"
     },
     {
       "entry": 1230481309,
@@ -4126,6 +4221,25 @@
         "hundsport"
       ],
       "web": "https://stockholmshundsportcentrum.se/"
+    },
+    {
+      "entry": 1230484923,
+      "orgNumber": "802452-8237",
+      "orgName": "Djurskyddet Bill & Bull i S\u00f6derhamn",
+      "categories": [
+        "djurskydd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.djurskyddet.se/billochbull/"
+    },
+    {
+      "entry": 1230485573,
+      "orgNumber": "848000-8575",
+      "orgName": "Ystads Frivillige Bergnings-Corps, Ystads FBC",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.ystadsfbc.se/"
     },
     {
       "entry": 1230485730,

@@ -3289,6 +3289,14 @@ entries:
   - försäljning
   web: https://helenashallbara.se/
 
+- entry: 1230425207
+  orgName: Handikappsrörelsens fastighetsförening i Ulricehamn
+  orgNumber: 865500-9630
+  comment: null
+  categories:
+  - intresseförening
+  web: https://hfu-fast.se/
+
 - entry: 1230425215
   orgName: JGs Husvagnar AB
   orgNumber: 556290-6692
@@ -3420,6 +3428,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
 
+- entry: 1230434043
+  orgName: Optimal Service AB
+  orgNumber: 559237-7559
+  comment: null
+  categories:
+  - hemstädning
+  - städning
+  web: https://www.optimalservice.nu/
+
 - entry: 1230434290
   orgName: LaxTon Ghost Sweden AB
   orgNumber: 559194-9440
@@ -3473,6 +3490,23 @@ entries:
   - hundsport
   web: https://www.torebodabhk.com/
 
+- entry: 1230439968
+  orgName: Mustasch AB
+  orgNumber: 556626-3793
+  comment: null
+  categories:
+  - musik
+  - orkester
+  web: http://www.mustasch.net/
+
+- entry: 1230440164
+  orgName: Nässjö IF
+  orgNumber: 827000-2036
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.svenskalag.se/nassjoif
+
 - entry: 1230440917
   orgName: Zerillas Hundcenter AB
   orgNumber: 556404-6018
@@ -3498,6 +3532,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/gavle/stromsbro-kyrka
+
+- entry: 1230447482
+  orgName: Hässjö Baptistförsamling Ebeneser
+  orgNumber: 889201-0565
+  comment: null
+  categories:
+  - religion
+  web: https://www.kyrktorget.se/ebeneser.soraker
 
 - entry: 1230450551
   orgName: Sparven
@@ -3552,6 +3594,24 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1230456194
+  orgName: Timrå IK U16
+  orgNumber: 889200-5870
+  comment: null
+  categories:
+  - hockeyklubb
+  - idrottsförening
+  web: https://www.laget.se/TIK08/
+
+- entry: 1230460121
+  orgName: Emådalens Naturskyddsförening
+  orgNumber: 833200-6207
+  comment: null
+  categories:
+  - intresseförening
+  - naturskydd
+  web: https://emadalen.naturskyddsforeningen.se/
 
 - entry: 1230460634
   orgName: Ljusfallshammars Byaråd
@@ -3618,6 +3678,14 @@ entries:
   - konst
   web: https://osterakerskonsthall.se/
 
+- entry: 1230471417
+  orgName: Stigtomta-Vrena Församling
+  orgNumber: 252002-7158
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/stigtomta-vrena
+
 - entry: 1230472829
   orgName: Eskilstuna Klätterklubb
   orgNumber: 817606-4346
@@ -3651,6 +3719,23 @@ entries:
   - brukshundsklubb
   - hundsport
   web: https://osdhund.se/
+
+- entry: 1230474965
+  orgName: Eksjö Djurskyddsförening
+  orgNumber: 827000-8603
+  comment: null
+  categories:
+  - djurskydd
+  - intresseförening
+  web: https://www.djurskyddet-eksjo.se/
+
+- entry: 1230474981
+  orgName: Kristus Konungens Katolska Församling
+  orgNumber: 252002-8651
+  comment: null
+  categories:
+  - religion
+  web: https://www.kristuskonungen.se/
 
 - entry: 1230481309
   orgName: Rotary Ängelholm-Bjäre
@@ -3697,6 +3782,14 @@ entries:
   - cykelklubb
   web: https://www.borasca.se/
 
+- entry: 1230483941
+  orgName: Leksand
+  orgNumber: null
+  comment: null
+  categories:
+  - event
+  web: https://www.leksand.se/medborgare/uppleva-och-gora/evenemang/Midsommar/
+
 - entry: 1230484071
   orgName: Stockholms Hundsportcentrum AB
   orgNumber: 556891-2348
@@ -3704,6 +3797,23 @@ entries:
   categories:
   - hundsport
   web: https://stockholmshundsportcentrum.se/
+
+- entry: 1230484923
+  orgName: Djurskyddet Bill & Bull i Söderhamn
+  orgNumber: 802452-8237
+  comment: null
+  categories:
+  - djurskydd
+  - intresseförening
+  web: https://www.djurskyddet.se/billochbull/
+
+- entry: 1230485573
+  orgName: Ystads Frivillige Bergnings-Corps, Ystads FBC
+  orgNumber: 848000-8575
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.ystadsfbc.se/
 
 - entry: 1230485730
   orgName: Östergötlands Taxklubb
