@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-06-09-rev-193845
+Date:     2023-06-11-rev-141356
 ...
 
 # Swish 123 Nummer
@@ -4856,7 +4856,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236997977 | 886500-1302 | Rengsjö SK - Discgolf                                                                                | [Link](https://www.rengsjosk.se/) |
 | 1239000035 | 802416-7192 | Children Need Help                                                                                   | [Link](https://www.childrenneedhelp.org/) |
 | 1239000043 | 802007-3436 | Synskadades Riksförbund                                                                              | [Link](https://www.srf.nu/) |
-| 1239000068 | 815200-4134 | Personskadeförbundet RTP                                                                             | [Link](https://rtp.se/) |
+| 1239000068 | 815200-4134 | Personskadeförbundet RTP                                                                             | [Link](https://www.rtp.se/) |
 | 1239000100 | 817601-9316 | Barncancerfonden Mellansverige                                                                       | [Link](https://www.barncancerfonden.se/mellansverige) |
 | 1239000159 | 802417-7381 | Stödföreningen för RIA Hela Människan i Falun                                                        | [Link](https://helamanniskan.se/falun/) |
 | 1239000209 | 802402-6521 | Clowner utan Gränser                                                                                 | [Link](https://www.clownerutangranser.se/) |
@@ -4868,7 +4868,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239000464 | 857500-9496 | Johan Janssons Stiftelse för tumörforskning och Cancerskadade                                        | [Link](https://www.jj-stiftelse.org/) |
 | 1239000472 | 802422-2344 | TOSTAN Sverige                                                                                       | [Link](https://www.tostan.se/) |
 | 1239000498 | 802424-7192 | Ulla-Carin Lindquists Stiftelse för ALS-forskning                                                    | [Link](https://www.ullacarinstiftelse.se/) |
-| 1239000506 | 802004-0575 | Pingst - Fria församlingar i samverkan                                                               | [Link](https://www.pingst.se/) |
+| 1239000506 | 802004-0575 | Pingst – Fria församlingar i samverkan (PMU)                                                         | [Link](https://www.pingst.se/) |
 | 1239000514 | 802412-3948 | Kids Future                                                                                          | [Link](https://www.kidsfuture.se/) |
 | 1239000530 | 817601-7898 | Stiftelsen Onkologiska Klinikens i Uppsala Forskningsfond                                            | [Link](https://www.uppsalacancerfond.se/) |
 | 1239000548 | 802000-6717 | Ersta Diakonisällskap                                                                                | [Link](https://www.erstadiakoni.se/) |
@@ -4881,7 +4881,8 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239000720 | 802004-0401 | Amnesty International, Svenska sektionen                                                             | [Link](https://www.amnesty.se/) |
 | 1239000738 | 802004-4510 | Hörselskadades Riksförbund                                                                           | [Link](https://www.hrf.se/) |
 | 1239000761 | 802006-7131 | IBRA Radio Federation                                                                                | [Link](https://www.ibra.se/) |
-| 1239000779 | 857202-7483 | Stiftelsen Svenskt Internationellt Hjälparbete - Våra Bröder, SIRA                                   | [Link](https://www.sira.se/) |
+| 1239000779 | 857202-7483 | Stiftelsen Svenskt Internationellt Hjälparbete, SIRA                                                 | [Link](https://www.sira.se/) |
+| 1239000811 | 802425-0642 | Konung Carl XVI Gustavs insamlingsstiftelse Ungt Ledarskap                                           | [Link](https://www.ungtledarskap.se/) |
 | 1239000837 | 802431-3044 | Action Aid International Sweden                                                                      | [Link](https://www.actionaid.se/) |
 | 1239000845 | 802424-9305 | SAM:s Insamlingsstiftelse                                                                            | [Link](https://www.alliansmissionen-90konto.se/) |
 | 1239000878 | 802012-8925 | Frisk & Fri - Riksföreningen mot ätstörningar                                                        | [Link](https://www.friskfri.se/) |
@@ -4900,17 +4901,17 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239001223 | 252002-6135 | Trossamfundet Svenska Kyrkan                                                                         | [Link](https://www.svenskakyrkan.se/) |
 | 1239001249 | 846000-5294 | Rädda Barnen distrikt Malmö                                                                          | [Link](https://www.raddabarnen.se/medlem-och-volontar/malmo-distrikt/) |
 | 1239001264 | 826500-5556 | Insamlingsstiftelsen Caminul Felix                                                                   | [Link](https://www.caminulfelix.se/) |
-| 1239001298 | 802011-1442 | Civil Rights Defenders                                                                               | [Link](https://crd.org/sv/) |
-| 1239001389 | 802425-4131 | Insamlingsstiftelsen European MS Foundation                                                          | [Link](https://msfonden.se/) |
+| 1239001298 | 802011-1442 | Civil Rights Defenders                                                                               | [Link](https://www.crd.org/) |
+| 1239001389 | 802425-4131 | Insamlingsstiftelsen European MS Foundation, EMSF                                                    | [Link](https://www.msfonden.se/) |
 | 1239001397 | 898800-8796 | Biståndsföreningen Sri Lankas Barns Vänner                                                           | [Link](https://www.slbv.se/) |
 | 1239001421 | 802435-6613 | Save the Orangutan                                                                                   | [Link](https://www.savetheorangutan.se/) |
 | 1239001520 | 802425-9593 | Insamlingsstiftelsen Kvinnor och Hälsa - Kvinna mitt i livet                                         | [Link](https://www.kvinnorochhalsa.com/) |
 | 1239001538 | 802412-1215 | Centrum för rättvisa, en insamlingsstiftelse                                                         | [Link](https://www.centrumforrattvisa.se/) |
 | 1239001553 | 802425-9981 | Föreningen Lilla Barnets Fond                                                                        | [Link](https://www.lillabarnet.se/) |
 | 1239001561 | 802408-4934 | Riksförbundet Sällsynta diagnoser                                                                    | [Link](https://www.sallsyntadiagnoser.se/) |
-| 1239001579 | 802008-1348 | Autism- och Aspergerförbundet                                                                        | [Link](https://www.autism.se/) |
+| 1239001579 | 802008-1348 | Autism Sverige                                                                                       | [Link](https://www.autism.se/) |
 | 1239001587 | 802445-2248 | Peace Parks Foundation - Sweden                                                                      | [Link](https://www.peaceparks.se/) |
-| 1239001603 | 802444-3866 | Västerås Stadsmission                                                                                | [Link](https://vasterasstadsmission.se/) |
+| 1239001603 | 802444-3866 | Västerås Stadsmission                                                                                | [Link](https://www.vasterasstadsmission.se/) |
 | 1239001611 | 802425-7134 | Star for Life Insamlingsstiftelse                                                                    | [Link](https://www.starforlife.org/) |
 | 1239001629 | 802426-1268 | Insamlingsstiftelsen WaterAid Sverige                                                                | [Link](https://www.wateraid.se/) |
 | 1239001645 | 802426-1250 | Sverige för UNHCR Insamlingsstiftelse                                                                | [Link](https://www.sverigeforunhcr.se/) |
@@ -4921,6 +4922,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239001777 | 802425-7530 | Monica och Carl-Axel Ekmans Insamlingsstiftelse                                                      | [Link](https://www.garissa.se/) |
 | 1239001793 | 802015-4517 | Föreningen Stockholms Katthem                                                                        | [Link](https://www.katthemmet.nu/) |
 | 1239001819 | 802017-3251 | Islamic Relief Sverige                                                                               | [Link](https://www.islamic-relief.se/) |
+| 1239001835 | 802426-0484 | Insamlingsstiftelsen Indian Children - Birgitta Ekmans fond för barn i Indien                        | [Link](https://www.indianchildren.se/) |
 | 1239001843 | 802426-0484 | Insamlingsstiftelsen Indian Children - Birgitta Ekmans fond för barn i Indien                        | [Link](https://www.indianchildren.se/) |
 | 1239001868 | 802426-0807 | Stiftelsen World's Children's Prize Foundation                                                       | [Link](https://www.worldschildrensprize.org/) |
 | 1239001926 | 802426-3090 | Insamlingsstiftelsen Lions Cancerforskningsfond i Västra Sverige                                     | [Link](https://www.lionscancerfond.se/) |
@@ -4934,7 +4936,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239002155 | 802426-3280 | Insamlingsstiftelsen School by School                                                                | [Link](https://www.schoolbyschool.org/) |
 | 1239002163 | 802425-5948 | Stiftelsen Gundua                                                                                    | [Link](https://www.gunduafoundation.org/) |
 | 1239002171 | 802452-4681 | ALEF, Adult Learning and Empowerment Faciliators                                                     | [Link](https://www.alef.org/) |
-| 1239002189 | 802400-5046 | Föreningen Framtidsjorden                                                                            | [Link](https://www.framtidsjorden.se) |
+| 1239002189 | 802400-5046 | Föreningen Framtidsjorden                                                                            | [Link](https://www.framtidsjorden.se/) |
 | 1239002221 | 802426-4734 | Insamlingsstiftelsen Operation Smile Sverige II                                                      | [Link](https://www.operationsmile.se/) |
 | 1239002247 | 802411-6066 | Föreningen Kattstallet                                                                               | [Link](https://www.kattstallet.se/) |
 | 1239002262 | 802004-9683 | Svenska Livräddningssällskapet                                                                       | [Link](https://www.svenskalivraddningssallskapet.se/) |
@@ -4961,6 +4963,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239002825 | 802464-0065 | Uppsala Stadsmission                                                                                 | [Link](https://www.uppsalastadsmission.se/) |
 | 1239002866 | 802477-4534 | Insamlingsstiftelsen Lions fond för medicinsk forskning inom Skåne                                   | [Link](https://www.lffs.se/) |
 | 1239002908 | 802009-2261 | Barncancerfonden Stockholm Gotland                                                                   | [Link](https://www.barncancerfonden.se/lokala-foreningar/stockholm-gotland) |
+| 1239002924 | 817603-9256 | Stiftelsen Akademiska Sjukhusets utvecklingsfond                                                     | [Link](https://www.akademiska.se/om-oss/om-akademiska-sjukhuset/fonder-och-stiftelser/) |
 | 1239002932 | 802012-8628 | UN Women nationell kommité Sverige                                                                   | [Link](https://www.unwomen.se/) |
 | 1239002965 | 802016-3153 | Stiftelsen Fistulasjukhuset                                                                          | [Link](https://www.fistulasjukhuset.org/) |
 | 1239002973 | 802425-6086 | Insamlingsstiftelsen Rotary Hjälper                                                                  | [Link](https://www.rotaryhjalper.se/) |
@@ -4997,7 +5000,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239003971 | 802016-9846 | Emmaus Stockholm                                                                                     | [Link](https://www.emmausstockholm.se/) |
 | 1239003989 | 802472-0891 | Suicide Zero                                                                                         | [Link](https://www.suicidezero.se/) |
 | 1239003997 | 802425-9189 | Fibromyalgiförbundets forskningsstiftelse                                                            | [Link](https://www.fibromyalgi.se/) |
-| 1239004011 | 855100-2002 | Insamlingsstiftelsen Gatubarn                                                                        | [Link](https://www.stiftelsengatubarn.se/) |
 | 1239004029 | 802445-3675 | Föreningen Skolprojekt Sudan, Anitha Academy                                                         | [Link](https://www.anithaacademy.org/) |
 | 1239004037 | 875002-7271 | Evangeliska Frikyrkan                                                                                | [Link](https://www.efk.se/) |
 | 1239004086 | 802477-8196 | Insamlingsstiftelsen RFSL                                                                            | [Link](https://www.insamlingsstiftelsen.se/) |
@@ -5019,7 +5021,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239004441 | 857202-5974 | Föreningen Göteborgs Räddningsmission                                                                | [Link](https://www.raddningsmissionen.se/) |
 | 1239004540 | 802478-1885 | Human Rights Watch Scandinavia Insamlingsstiftelsen                                                  | [Link](https://www.hrw.org/sv/about/get-local/sweden) |
 | 1239004565 | 802016-5463 | Föreningen Alla Kvinnors Hus                                                                         | [Link](https://www.allakvinnorshus.org/) |
-| 1239004599 | 802422-2393 | FTMS, Filipino Tribe Mission Sweden                                                                  | [Link](https://www.ftms.se/) |
 | 1239004607 | 854600-6191 | Stiftelsen Nordens Ark                                                                               | [Link](https://wwww.nordensark.se/) |
 | 1239004656 | 802478-2842 | Help Kurdistan Insamlingsstiftelse                                                                   | [Link](https://www.helpkurdistan.se/) |
 | 1239004680 | 252002-6531 | Trossamfundet Romersk-Katolska Kyrkan                                                                | [Link](https://www.katolskakyrkan.se/) |
@@ -5029,7 +5030,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239004748 | 855100-9882 | Riksföreningen Jordens Vänner                                                                        | [Link](https://www.jordensvanner.se/) |
 | 1239004755 | 802426-4577 | Insamlingsstiftelsen 'Mag-tarmfonden' för Gastroenterologisk och Hepatologisk Forskning              | [Link](https://www.magtarmfonden.se/) |
 | 1239004763 | 802478-3733 | Insamlingsstiftelsen Mitt Fadderbarn                                                                 | [Link](https://www.mittfadderbarn.se/) |
-| 1239004771 | 802489-9265 | Muslim Aid Sweden                                                                                    | [Link](https://www.muslimaid.se/) |
 | 1239004789 | 252002-6531 | Trossamfundet Romersk-Katolska Kyrkan                                                                | [Link](https://www.katolskakyrkan.se/) |
 | 1239004805 | 802006-1688 | Frälsningsarmén                                                                                      | [Link](https://www.fralsningsarmen.se/) |
 | 1239004813 | 802477-3650 | Insamlingsstiftelsen Våra Barn                                                                       | [Link](https://www.varabarn.nu/) |
@@ -5061,7 +5061,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239005422 | 802488-8896 | Amazon Watch Sverige                                                                                 | [Link](https://www.amazonwatch.se/) |
 | 1239005430 | 802477-0987 | Shelterbox Sverige Ideell förening                                                                   | [Link](https://www.shelterboxsweden.org/) |
 | 1239005448 | 802409-3737 | Insamlingsstiftelsen Willefonden                                                                     | [Link](https://www.willefonden.se/) |
-| 1239005471 | 802016-7246 | Sigvard och Marianne Bernadottes Forskningsstiftelse för Barnögonvård                                | [Link](https://www.bernadottestiftelsen.se/) |
 | 1239005505 | 878001-2558 | Stiftelsen Västmanlands forskningsfond mot cancer                                                    | [Link](https://www.vastmanlandscancerfond.se/) |
 | 1239005521 | 802478-1141 | Insamlingsstiftelsen Regnbågsfonden                                                                  | [Link](https://www.regnbagsfonden.org/) |
 | 1239005547 | 802479-5828 | Insamlingsstiftelsen War Child                                                                       | [Link](https://www.warchild.se/) |
@@ -5101,7 +5100,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239006271 | 802411-7049 | Riksorganisationen GAPF - Glöm Aldrig Pela & Fadime                                                  | [Link](https://www.gapf.se/) |
 | 1239006347 | 802480-4679 | Stiftelsen Musikbojen                                                                                | [Link](https://www.musikbojen.org/) |
 | 1239006362 | 802480-4810 | Insamlingsstiftelsen Chickas Minnesfond                                                              | [Link](https://www.chickasminnesfond.se/) |
-| 1239006388 | 802510-3717 | Fyrbåksexpressen                                                                                     | [Link](https://www.fyrbaksexpressen.se/) |
 | 1239006404 | 802498-2301 | Projekt Nima                                                                                         | [Link](https://www.projectnima.org/) |
 | 1239006453 | 802402-4831 | Anhörigas Riksförbund                                                                                | [Link](https://www.anhorigasriksforbund.se/) |
 | 1239006495 | 826500-5556 | Insamlingsstiftelsen Caminul Felix                                                                   | [Link](https://www.caminulfelix.se/) |
@@ -5119,7 +5117,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239006826 | 802442-0641 | West Pride                                                                                           | [Link](https://www.westpride.se/) |
 | 1239006842 | 802416-4280 | Ingenjörer utan Gränser                                                                              | [Link](https://sv.ewb-swe.org/) |
 | 1239006859 | 802437-8310 | Wikimedia Sverige                                                                                    | [Link](https://www.wikimedia.se/) |
-| 1239006875 | 802474-1491 | Do Good Now                                                                                          | [Link](https://www.dogoodnowglobal.com/) |
 | 1239006883 | 802477-8832 | Insamlingsstiftelsen Zelmerlöw & Björkman Foundation                                                 | [Link](https://www.zbfoundation.se/) |
 | 1239006891 | 802440-6186 | Föreningen Medveten Konsumtion Sverige                                                               | [Link](https://www.medvetenkonsumtion.se/) |
 | 1239006909 | 815200-2583 | Cancerföreningen i Stockholm, Radiumhemmets forskningsfonder                                         | [Link](https://www.rahfo.se/) |
@@ -5171,7 +5168,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239007816 | 802001-8613 | Korpen Svenska Motionsidrottsförbundet                                                               | [Link](https://www.korpen.se/) |
 | 1239007832 | 802481-9370 | Insamlingsstiftelsen Framtidens Natur & Kulturarv                                                    | [Link](https://www.framtidensnatur.se/) |
 | 1239007857 | 822002-0187 | Biståndsorganisationen Hjärta till Hjärta                                                            | [Link](https://www.hearttoheart.se/) |
-| 1239007865 | 802477-9293 | Solvatten Insamlingsstiftelse                                                                        | [Link](https://solvatten.org/) |
+| 1239007865 | 802477-9293 | Solvatten Insamlingsstiftelse                                                                        | [Link](https://www.solvatten.org/) |
 | 1239007873 | 802481-1922 | Lena Wäpplings Stiftelse                                                                             | [Link](https://www.lenawfoundation.com/) |
 | 1239007915 | 802007-3436 | Synskadades Riksförbund                                                                              | [Link](https://www.srf.nu/) |
 | 1239007931 | 817602-0025 | Insamlingsstiftelsen Perinatalmedicinska Forskningsfonden i Uppsala - Födelsefonden                  | [Link](https://www.fodelsefonden.se/) |
@@ -5181,6 +5178,10 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239008038 | 802006-1704 | Riksförbundet FUB                                                                                    | [Link](https://www.fub.se/) |
 | 1239008079 | 802002-8711 | Svenska Röda Korset                                                                                  | [Link](https://www.rodakorset.se/) |
 | 1239008095 | 802002-8711 | Svenska Röda Korset                                                                                  | [Link](https://www.rodakorset.se/) |
+| 1239008137 | 802481-8935 | Insamlingsstiftelsen Human Practice Foundation Sweden                                                | [Link](https://www.humanpractice.org/) |
+| 1239008160 | 802491-8990 | Nya Kompisbyrån                                                                                      | [Link](https://www.nyakompisbyran.se/) |
+| 1239008178 | 802460-9284 | Tjejjouren Väst                                                                                      | [Link](https://www.tjejjourenvast.se/) |
+| 1239008269 | 802482-0386 | UtbildningsStiftelsen                                                                                | [Link](https://www.utbildningsstiftelsen.org/) |
 | 1239008343 | 857209-4004 | Insamlingsstiftelsen Drottning Silvias Barnsjukhus                                                   | [Link](https://www.glädjeläker.se/) |
 | 1239008392 | 857500-7490 | Muskelfonden - Insamlingsstiftelsen Forskningsfonden för Neuromuskulära Sjukdomar                    | [Link](https://www.muskelfonden.com/) |
 | 1239008442 | 827500-9234 | Skandinaviska Läkarbanken - ideell förening                                                          | [Link](https://www.skandinaviskalakarbanken.se/) |
@@ -5223,7 +5224,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239011198 | 845001-8844 | Insamlingsstiftelsen Alzheimerfonden                                                                 | [Link](https://www.alzheimerfonden.se/) |
 | 1239011206 | 857206-8701 | Droginformation för alla                                                                             | [Link](https://www.droginformation.nu/) |
 | 1239011255 | 802017-8664 | Insamlingsstiftelsen Hjärnfonden                                                                     | [Link](https://www.hjarnfonden.se/) |
-| 1239011263 | 802003-0618 | Svenska Skolidrottsförbundet                                                                         | [Link](https://www.skolidrott.se/) |
 | 1239011305 | 862000-4344 | Insamlingsstiftelsen BarnSamariten                                                                   | [Link](https://www.barnsamariten.se/) |
 | 1239011388 | 832401-8376 | Kalmar Stadsmission                                                                                  | [Link](https://www.kalmarstadsmission.se/) |
 | 1239011545 | 802403-3857 | Mission Possible Sweden                                                                              | [Link](https://www.mp.org/) |
@@ -5247,8 +5247,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239015504 | 802013-1671 | Föreningen för den Beridna Högvakten                                                                 | [Link](https://www.beridnahogvakten.se/) |
 | 1239016031 | 252002-6135 | Trossamfundet Svenska Kyrkan                                                                         | [Link](https://www.svenskakyrkan.se/) |
 | 1239016834 | 802002-4280 | Svenska Naturskyddsföreningen                                                                        | [Link](https://www.naturskyddsforeningen.se/) |
-| 1239016965 | 802404-3716 | LP-Verksamhetens Ideella Riksförening                                                                | [Link](https://www.lp-verksamheten.se/) |
-| 1239017047 | 802401-0251 | Riksorganisationen Unga Reumatiker                                                                   | [Link](https://ungareumatiker.se/) |
+| 1239017047 | 802401-0251 | Riksorganisationen Unga Reumatiker                                                                   | [Link](https://www.ungareumatiker.se/) |
 | 1239018003 | 802401-6134 | Insamlingsstiftelsen Kvinna till Kvinna                                                              | [Link](https://www.kvinnatillkvinna.se/) |
 | 1239018474 | 802400-9709 | Liberia Dujar Association - Sweden                                                                   | [Link](https://www.liberiadujar.org/) |
 | 1239018557 | 802004-2290 | KFUK - KFUM Sverige                                                                                  | [Link](https://www.kfum.se/) |
@@ -5261,6 +5260,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239019712 | 802005-9823 | Stiftelsen Världsnaturfonden WWF                                                                     | [Link](https://www.wwf.se/) |
 | 1239019746 | 802005-9823 | Stiftelsen Världsnaturfonden WWF                                                                     | [Link](https://www.wwf.se/) |
 | 1239019795 | 802008-1827 | Stiftelsen En rökfri generation - A Non Smoking Generation                                           | [Link](https://www.nonsmoking.se/) |
+| 1239019811 | 802411-8898 | Melissafonden insamlingsstiftelse                                                                    | [Link](https://www.melissafonden.org/) |
 | 1239019977 | 802010-8315 | Stiftelsen The Hunger Project Sverige                                                                | [Link](https://thehungerproject.se/) |
 | 1239020009 | 802412-5638 | Insamlingsstiftelsen Vaggan                                                                          | [Link](https://www.vaggan.se/) |
 | 1239020017 | 802401-4386 | UNICEF Sverige                                                                                       | [Link](https://www.unicef.se/) |

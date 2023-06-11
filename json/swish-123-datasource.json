@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-09-rev-193845",
+    "date": "2023-06-11-rev-141356",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -48161,7 +48161,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://rtp.se/"
+      "web": "https://www.rtp.se/"
     },
     {
       "entry": 1239000100,
@@ -48274,7 +48274,7 @@
     {
       "entry": 1239000506,
       "orgNumber": "802004-0575",
-      "orgName": "Pingst - Fria f\u00f6rsamlingar i samverkan",
+      "orgName": "Pingst \u2013 Fria f\u00f6rsamlingar i samverkan (PMU)",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
@@ -48407,11 +48407,20 @@
     {
       "entry": 1239000779,
       "orgNumber": "857202-7483",
-      "orgName": "Stiftelsen Svenskt Internationellt Hj\u00e4lparbete - V\u00e5ra Br\u00f6der, SIRA",
+      "orgName": "Stiftelsen Svenskt Internationellt Hj\u00e4lparbete, SIRA",
       "categories": [
         "insamlingskontroll"
       ],
       "web": "https://www.sira.se/"
+    },
+    {
+      "entry": 1239000811,
+      "orgNumber": "802425-0642",
+      "orgName": "Konung Carl XVI Gustavs insamlingsstiftelse Ungt Ledarskap",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.ungtledarskap.se/"
     },
     {
       "entry": 1239000837,
@@ -48598,16 +48607,16 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://crd.org/sv/"
+      "web": "https://www.crd.org/"
     },
     {
       "entry": 1239001389,
       "orgNumber": "802425-4131",
-      "orgName": "Insamlingsstiftelsen European MS Foundation",
+      "orgName": "Insamlingsstiftelsen European MS Foundation, EMSF",
       "categories": [
         "insamlingskontroll"
       ],
-      "web": "https://msfonden.se/"
+      "web": "https://www.msfonden.se/"
     },
     {
       "entry": 1239001397,
@@ -48672,7 +48681,7 @@
     {
       "entry": 1239001579,
       "orgNumber": "802008-1348",
-      "orgName": "Autism- och Aspergerf\u00f6rbundet",
+      "orgName": "Autism Sverige",
       "categories": [
         "f\u00f6rbund",
         "insamlingskontroll"
@@ -48696,7 +48705,7 @@
         "donation",
         "insamlingskontroll"
       ],
-      "web": "https://vasterasstadsmission.se/"
+      "web": "https://www.vasterasstadsmission.se/"
     },
     {
       "entry": 1239001611,
@@ -48802,6 +48811,17 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://www.islamic-relief.se/"
+    },
+    {
+      "entry": 1239001835,
+      "orgNumber": "802426-0484",
+      "orgName": "Insamlingsstiftelsen Indian Children - Birgitta Ekmans fond f\u00f6r barn i Indien",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "insamlingskontroll",
+        "stiftelse"
+      ],
+      "web": "https://www.indianchildren.se/"
     },
     {
       "entry": 1239001843,
@@ -48946,7 +48966,7 @@
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://www.framtidsjorden.se"
+      "web": "https://www.framtidsjorden.se/"
     },
     {
       "entry": 1239002221,
@@ -49198,6 +49218,15 @@
         "insamlingskontroll"
       ],
       "web": "https://www.barncancerfonden.se/lokala-foreningar/stockholm-gotland"
+    },
+    {
+      "entry": 1239002924,
+      "orgNumber": "817603-9256",
+      "orgName": "Stiftelsen Akademiska Sjukhusets utvecklingsfond",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.akademiska.se/om-oss/om-akademiska-sjukhuset/fonder-och-stiftelser/"
     },
     {
       "entry": 1239002932,
@@ -49568,18 +49597,6 @@
       "web": "https://www.fibromyalgi.se/"
     },
     {
-      "entry": 1239004011,
-      "orgNumber": "855100-2002",
-      "orgName": "Insamlingsstiftelsen Gatubarn",
-      "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
-        "insamlingskontroll",
-        "stiftelse",
-        "v\u00e4lg\u00f6renhet"
-      ],
-      "web": "https://www.stiftelsengatubarn.se/"
-    },
-    {
       "entry": 1239004029,
       "orgNumber": "802445-3675",
       "orgName": "F\u00f6reningen Skolprojekt Sudan, Anitha Academy",
@@ -49790,15 +49807,6 @@
       "web": "https://www.allakvinnorshus.org/"
     },
     {
-      "entry": 1239004599,
-      "orgNumber": "802422-2393",
-      "orgName": "FTMS, Filipino Tribe Mission Sweden",
-      "categories": [
-        "insamlingskontroll"
-      ],
-      "web": "https://www.ftms.se/"
-    },
-    {
       "entry": 1239004607,
       "orgNumber": "854600-6191",
       "orgName": "Stiftelsen Nordens Ark",
@@ -49887,16 +49895,6 @@
         "insamlingskontroll"
       ],
       "web": "https://www.mittfadderbarn.se/"
-    },
-    {
-      "entry": 1239004771,
-      "orgNumber": "802489-9265",
-      "orgName": "Muslim Aid Sweden",
-      "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
-        "insamlingskontroll"
-      ],
-      "web": "https://www.muslimaid.se/"
     },
     {
       "entry": 1239004789,
@@ -50193,17 +50191,6 @@
         "insamlingskontroll"
       ],
       "web": "https://www.willefonden.se/"
-    },
-    {
-      "entry": 1239005471,
-      "orgNumber": "802016-7246",
-      "orgName": "Sigvard och Marianne Bernadottes Forskningsstiftelse f\u00f6r Barn\u00f6gonv\u00e5rd",
-      "categories": [
-        "forskning",
-        "insamlingskontroll",
-        "stiftelse"
-      ],
-      "web": "https://www.bernadottestiftelsen.se/"
     },
     {
       "entry": 1239005505,
@@ -50603,15 +50590,6 @@
       "web": "https://www.chickasminnesfond.se/"
     },
     {
-      "entry": 1239006388,
-      "orgNumber": "802510-3717",
-      "orgName": "Fyrb\u00e5ksexpressen",
-      "categories": [
-        "insamlingskontroll"
-      ],
-      "web": "https://www.fyrbaksexpressen.se/"
-    },
-    {
       "entry": 1239006404,
       "orgNumber": "802498-2301",
       "orgName": "Projekt Nima",
@@ -50779,15 +50757,6 @@
         "insamlingskontroll"
       ],
       "web": "https://www.wikimedia.se/"
-    },
-    {
-      "entry": 1239006875,
-      "orgNumber": "802474-1491",
-      "orgName": "Do Good Now",
-      "categories": [
-        "insamlingskontroll"
-      ],
-      "web": "https://www.dogoodnowglobal.com/"
     },
     {
       "entry": 1239006883,
@@ -51305,7 +51274,7 @@
         "stiftelse",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://solvatten.org/"
+      "web": "https://www.solvatten.org/"
     },
     {
       "entry": 1239007873,
@@ -51399,6 +51368,43 @@
         "insamlingskontroll"
       ],
       "web": "https://www.rodakorset.se/"
+    },
+    {
+      "entry": 1239008137,
+      "orgNumber": "802481-8935",
+      "orgName": "Insamlingsstiftelsen Human Practice Foundation Sweden",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.humanpractice.org/"
+    },
+    {
+      "entry": 1239008160,
+      "orgNumber": "802491-8990",
+      "orgName": "Nya Kompisbyr\u00e5n",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.nyakompisbyran.se/"
+    },
+    {
+      "entry": 1239008178,
+      "orgNumber": "802460-9284",
+      "orgName": "Tjejjouren V\u00e4st",
+      "categories": [
+        "insamlingskontroll",
+        "kvinnojour"
+      ],
+      "web": "https://www.tjejjourenvast.se/"
+    },
+    {
+      "entry": 1239008269,
+      "orgNumber": "802482-0386",
+      "orgName": "UtbildningsStiftelsen",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.utbildningsstiftelsen.org/"
     },
     {
       "entry": 1239008343,
@@ -51849,15 +51855,6 @@
       "web": "https://www.hjarnfonden.se/"
     },
     {
-      "entry": 1239011263,
-      "orgNumber": "802003-0618",
-      "orgName": "Svenska Skolidrottsf\u00f6rbundet",
-      "categories": [
-        "insamlingskontroll"
-      ],
-      "web": "https://www.skolidrott.se/"
-    },
-    {
       "entry": 1239011305,
       "orgNumber": "862000-4344",
       "orgName": "Insamlingsstiftelsen BarnSamariten",
@@ -52091,17 +52088,6 @@
       "web": "https://www.naturskyddsforeningen.se/"
     },
     {
-      "entry": 1239016965,
-      "orgNumber": "802404-3716",
-      "orgName": "LP-Verksamhetens Ideella Riksf\u00f6rening",
-      "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
-        "insamlingskontroll",
-        "v\u00e4lg\u00f6renhet"
-      ],
-      "web": "https://www.lp-verksamheten.se/"
-    },
-    {
       "entry": 1239017047,
       "orgNumber": "802401-0251",
       "orgName": "Riksorganisationen Unga Reumatiker",
@@ -52110,7 +52096,7 @@
         "reumatism",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://ungareumatiker.se/"
+      "web": "https://www.ungareumatiker.se/"
     },
     {
       "entry": 1239018003,
@@ -52238,6 +52224,15 @@
         "stiftelse"
       ],
       "web": "https://www.nonsmoking.se/"
+    },
+    {
+      "entry": 1239019811,
+      "orgNumber": "802411-8898",
+      "orgName": "Melissafonden insamlingsstiftelse",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.melissafonden.org/"
     },
     {
       "entry": 1239019977,
