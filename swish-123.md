@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-06-13-rev-175644
+Date:     2023-06-13-rev-175928
 ...
 
 # Swish 123 Nummer
@@ -4871,6 +4871,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239000043 | 802007-3436 | Synskadades Riksförbund                                                                              | [Link](https://www.srf.nu/) |
 | 1239000068 | 815200-4134 | Personskadeförbundet RTP                                                                             | [Link](https://www.rtp.se/) |
 | 1239000100 | 817601-9316 | Barncancerfonden Mellansverige                                                                       | [Link](https://www.barncancerfonden.se/mellansverige) |
+| 1239000126 | 825004-0238 | Föreningen Omsorgsjul-Hemlösa i Norrköping                                                           | [Link](https://www.omsorgsjul.se/) |
 | 1239000159 | 802417-7381 | Stödföreningen för RIA Hela Människan i Falun                                                        | [Link](https://helamanniskan.se/falun/) |
 | 1239000209 | 802402-6521 | Clowner utan Gränser                                                                                 | [Link](https://www.clownerutangranser.se/) |
 | 1239000217 | 802005-9989 | Läkarmissionen - stiftelse för filantropisk verksamhet                                               | [Link](https://www.lakarmissionen.se/) |

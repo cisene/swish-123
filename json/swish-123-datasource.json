@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-13-rev-175644",
+    "date": "2023-06-13-rev-175928",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -48295,6 +48295,16 @@
         "insamlingskontroll"
       ],
       "web": "https://www.barncancerfonden.se/mellansverige"
+    },
+    {
+      "entry": 1239000126,
+      "orgNumber": "825004-0238",
+      "orgName": "F\u00f6reningen Omsorgsjul-Heml\u00f6sa i Norrk\u00f6ping",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "insamlingskontroll"
+      ],
+      "web": "https://www.omsorgsjul.se/"
     },
     {
       "entry": 1239000159,
