@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-11-rev-152549",
+    "date": "2023-06-13-rev-175644",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -42088,6 +42088,16 @@
         "veteranbil"
       ],
       "web": "https://www.studebakerklubben.se/"
+    },
+    {
+      "entry": 1236042568,
+      "orgNumber": "802536-7759",
+      "orgName": "Beredskapslyftet",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "ideell f\u00f6rening"
+      ],
+      "web": "https://www.beredskapslyftet.se/"
     },
     {
       "entry": 1236056204,

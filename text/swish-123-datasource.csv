@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-06-11-rev-152549
+# Date: 2023-06-13-rev-175644
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4246,6 +4246,7 @@
 "1236039283","556100-3301","Bokhandeln Laholm AB","https://www.bokhandelnlaholm.se/","bokhandel",""
 "1236039408","802507-0213","Tyft Arena Idrottsförening","https://idrottonline.se/TyftArenaIF-Friidrott/","idrottsförening",""
 "1236039820","802417-9155","Studebakerklubben Sweden","https://www.studebakerklubben.se/","veteranbil",""
+"1236042568","802536-7759","Beredskapslyftet","https://www.beredskapslyftet.se/","hjälporganisation,ideell förening",""
 "1236056204","556767-5367","Rattens Internationella Trafikskola","https://www.rattenstrafikskola.se/","trafikskola,utbildning",""
 "1236059059","559091-0260","Din Kiropraktor Falkenberg AB","https://dinkiropraktor.se/","kiropraktik,kiropraktor",""
 "1236059356","700507-XXXX","Yoga & Body Organics / Ulrika Corneliusson","https://www.yogabodyorganics.se/","utbildning,yoga",""

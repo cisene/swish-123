@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-06-11-rev-152549
+Date:     2023-06-13-rev-175644
 ...
 
 # Swish 123 Nummer
@@ -4248,6 +4248,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236039283 | 556100-3301 | Bokhandeln Laholm AB                                                                                 | [Link](https://www.bokhandelnlaholm.se/) |
 | 1236039408 | 802507-0213 | Tyft Arena Idrottsförening                                                                           | [Link](https://idrottonline.se/TyftArenaIF-Friidrott/) |
 | 1236039820 | 802417-9155 | Studebakerklubben Sweden                                                                             | [Link](https://www.studebakerklubben.se/) |
+| 1236042568 | 802536-7759 | Beredskapslyftet                                                                                     | [Link](https://www.beredskapslyftet.se/) |
 | 1236056204 | 556767-5367 | Rattens Internationella Trafikskola                                                                  | [Link](https://www.rattenstrafikskola.se/) |
 | 1236059059 | 559091-0260 | Din Kiropraktor Falkenberg AB                                                                        | [Link](https://dinkiropraktor.se/) |
 | 1236059356 | 700507-XXXX | Yoga & Body Organics / Ulrika Corneliusson                                                           | [Link](https://www.yogabodyorganics.se/) |
