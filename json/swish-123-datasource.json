@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-13-rev-175928",
+    "date": "2023-06-17-rev-111653",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4221,6 +4221,15 @@
         "hundsport"
       ],
       "web": "https://stockholmshundsportcentrum.se/"
+    },
+    {
+      "entry": 1230484758,
+      "orgNumber": "252005-0721",
+      "orgName": "Rommele f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/rommele"
     },
     {
       "entry": 1230484923,
@@ -41094,6 +41103,16 @@
       "web": "http://www.lionsfinspang.se/"
     },
     {
+      "entry": 1235894621,
+      "orgNumber": "843003-3160",
+      "orgName": "Insamlingsstiftelsen St\u00f6dfonden f\u00f6r heml\u00f6sa i Helsingborg",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "stiftelse"
+      ],
+      "web": "https://www.hemlosashus.se/"
+    },
+    {
       "entry": 1235896436,
       "orgNumber": "802497-5024",
       "orgName": "Lions Club Ulricehamn",
@@ -48490,14 +48509,23 @@
     {
       "entry": 1239000670,
       "orgNumber": "802424-9289",
-      "orgName": "Insamlingsstiftelsen Akademiska sjukhusets barnfond",
+      "orgName": "Insamlingsstiftelsen Akademiska Sjukhusets Barnfond",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse",
         "v\u00e4lg\u00f6renhet"
       ],
-      "web": "https://akademiskasbarnfond.se/"
+      "web": "https://www.akademiskasbarnfond.se/"
+    },
+    {
+      "entry": 1239000704,
+      "orgNumber": "802008-3435",
+      "orgName": "Stiftelsen Svenska Amnestyfonden",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.amnesty.se/amnestyfonden"
     },
     {
       "entry": 1239000712,
@@ -48887,6 +48915,15 @@
       "web": "https://www.livetsord.se/"
     },
     {
+      "entry": 1239001686,
+      "orgNumber": "857208-8964",
+      "orgName": "Suicidprevention i V\u00e4st",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.suicidprev.com/"
+    },
+    {
       "entry": 1239001702,
       "orgNumber": "802426-0195",
       "orgName": "Stiftelsen G\u00f6teborgs Kyrkliga Stadsmission",
@@ -48897,6 +48934,15 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://www.stadsmissionen.org/"
+    },
+    {
+      "entry": 1239001710,
+      "orgNumber": "829500-1112",
+      "orgName": "Bj\u00f6rk\u00e5frihet",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.bjorkafrihet.se/"
     },
     {
       "entry": 1239001744,

@@ -3798,6 +3798,14 @@ entries:
   - hundsport
   web: https://stockholmshundsportcentrum.se/
 
+- entry: 1230484758
+  orgName: Rommele församling
+  orgNumber: 252005-0721
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/rommele
+
 - entry: 1230484923
   orgName: Djurskyddet Bill & Bull i Söderhamn
   orgNumber: 802452-8237
@@ -36767,6 +36775,15 @@ entries:
   - lionsklubb
   web: http://www.lionsfinspang.se/
 
+- entry: 1235894621
+  orgName: Insamlingsstiftelsen Stödfonden för hemlösa i Helsingborg
+  orgNumber: 843003-3160
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - stiftelse
+  web: https://www.hemlosashus.se/
+
 - entry: 1235896436
   orgName: Lions Club Ulricehamn
   orgNumber: 802497-5024
@@ -43661,7 +43678,7 @@ entries:
   web: https://www.psoriasisforbundet.se/
 
 - entry: 1239000670
-  orgName: Insamlingsstiftelsen Akademiska sjukhusets barnfond
+  orgName: Insamlingsstiftelsen Akademiska Sjukhusets Barnfond
   orgNumber: 802424-9289
   comment: null
   categories:
@@ -43669,7 +43686,7 @@ entries:
   - insamlingskontroll
   - stiftelse
   - välgörenhet
-  web: https://akademiskasbarnfond.se/
+  web: https://www.akademiskasbarnfond.se/
 
 - entry: 1239000688
   orgName: Global Action Sverige
@@ -43695,7 +43712,6 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - overifierad
   web: https://www.amnesty.se/amnestyfonden
 
 - entry: 1239000712
@@ -44389,7 +44405,6 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - overifierad
   web: https://www.suicidprev.com/
 
 - entry: 1239001694
@@ -44420,7 +44435,6 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - overifierad
   web: https://www.bjorkafrihet.se/
 
 - entry: 1239001728

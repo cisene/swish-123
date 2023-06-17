@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-06-13-rev-175928
+Date:     2023-06-17-rev-111653
 ...
 
 # Swish 123 Nummer
@@ -437,6 +437,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230483651 | 878001-3077 | Hallstahammars SK Fotbollsklubb                                                                      | [Link](https://www.hsk-fotboll.nu/) |
 | 1230483925 | 864500-0764 | Borås CA - Cykel                                                                                     | [Link](https://www.borasca.se/) |
 | 1230484071 | 556891-2348 | Stockholms Hundsportcentrum AB                                                                       | [Link](https://stockholmshundsportcentrum.se/) |
+| 1230484758 | 252005-0721 | Rommele församling                                                                                   | [Link](https://www.svenskakyrkan.se/rommele) |
 | 1230484923 | 802452-8237 | Djurskyddet Bill & Bull i Söderhamn                                                                  | [Link](https://www.djurskyddet.se/billochbull/) |
 | 1230485573 | 848000-8575 | Ystads Frivillige Bergnings-Corps, Ystads FBC                                                        | [Link](https://www.ystadsfbc.se/) |
 | 1230485730 | 822002-1755 | Östergötlands Taxklubb                                                                               | [Link](http://ostergotlandstaxklubb.dinstudio.se/) |
@@ -4146,6 +4147,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235893359 | 802465-4074 | Åmots SK - Skidor                                                                                    | [Link](https://idrottonline.se/AmotsSK-Skidor/) |
 | 1235893623 | 802426-6358 | Change Attitude                                                                                      | [Link](https://changeattitude.org/) |
 | 1235894472 | 825001-5834 | Lions Club Finspång                                                                                  | [Link](http://www.lionsfinspang.se/) |
+| 1235894621 | 843003-3160 | Insamlingsstiftelsen Stödfonden för hemlösa i Helsingborg                                            | [Link](https://www.hemlosashus.se/) |
 | 1235896436 | 802497-5024 | Lions Club Ulricehamn                                                                                | [Link](https://lionsulricehamn.se/) |
 | 1235897350 | 857200-8145 | Johannebergs Missionsförsamling                                                                      | [Link](https://johannebergsequmeniakyrka.se/) |
 | 1235900691 | 817600-1363 | Österledskyrkan i Gamla Uppsala                                                                      | [Link](https://osterledskyrkan.se/) |
@@ -4890,7 +4892,8 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239000597 | 822001-9072 | Stiftelsen Barndiabetesfonden                                                                        | [Link](https://www.barndiabetesfonden.se/) |
 | 1239000654 | 802424-8224 | Insamlingsstiftelsen Världsinfektionsfonden                                                          | [Link](https://www.vif.se/) |
 | 1239000662 | 802002-7283 | Psoriasisförbundet                                                                                   | [Link](https://www.psoriasisforbundet.se/) |
-| 1239000670 | 802424-9289 | Insamlingsstiftelsen Akademiska sjukhusets barnfond                                                  | [Link](https://akademiskasbarnfond.se/) |
+| 1239000670 | 802424-9289 | Insamlingsstiftelsen Akademiska Sjukhusets Barnfond                                                  | [Link](https://www.akademiskasbarnfond.se/) |
+| 1239000704 | 802008-3435 | Stiftelsen Svenska Amnestyfonden                                                                     | [Link](https://www.amnesty.se/amnestyfonden) |
 | 1239000712 | 802002-8125 | Riksförbundet för Rörelsehindrade Barn och Ungdomar, RBU                                             | [Link](https://www.rbu.se/) |
 | 1239000720 | 802004-0401 | Amnesty International, Svenska sektionen                                                             | [Link](https://www.amnesty.se/) |
 | 1239000738 | 802004-4510 | Hörselskadades Riksförbund                                                                           | [Link](https://www.hrf.se/) |
@@ -4930,7 +4933,9 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239001629 | 802426-1268 | Insamlingsstiftelsen WaterAid Sverige                                                                | [Link](https://www.wateraid.se/) |
 | 1239001645 | 802426-1250 | Sverige för UNHCR Insamlingsstiftelse                                                                | [Link](https://www.sverigeforunhcr.se/) |
 | 1239001660 | 817602-1106 | Stiftelsen Livets Ord                                                                                | [Link](https://www.livetsord.se/) |
+| 1239001686 | 857208-8964 | Suicidprevention i Väst                                                                              | [Link](https://www.suicidprev.com/) |
 | 1239001702 | 802426-0195 | Stiftelsen Göteborgs Kyrkliga Stadsmission                                                           | [Link](https://www.stadsmissionen.org/) |
+| 1239001710 | 829500-1112 | Björkåfrihet                                                                                         | [Link](https://www.bjorkafrihet.se/) |
 | 1239001744 | 802447-4481 | World Animal Protection Sverige                                                                      | [Link](https://www.worldanimalprotection.se/) |
 | 1239001751 | 802439-9704 | Riksföreningen Sveriges Stadsmissioner                                                               | [Link](https://www.sverigesstadsmissioner.se/) |
 | 1239001777 | 802425-7530 | Monica och Carl-Axel Ekmans Insamlingsstiftelse                                                      | [Link](https://www.garissa.se/) |

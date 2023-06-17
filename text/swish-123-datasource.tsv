@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-06-13-rev-175928
+# Date: 2023-06-17-rev-111653
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -435,6 +435,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230483651	878001-3077	Hallstahammars SK Fotbollsklubb	https://www.hsk-fotboll.nu/	fotbollsklubb,idrottsförening	
 1230483925	864500-0764	Borås CA - Cykel	https://www.borasca.se/	cykelklubb	
 1230484071	556891-2348	Stockholms Hundsportcentrum AB	https://stockholmshundsportcentrum.se/	hundsport	
+1230484758	252005-0721	Rommele församling	https://www.svenskakyrkan.se/rommele	religion	
 1230484923	802452-8237	Djurskyddet Bill & Bull i Söderhamn	https://www.djurskyddet.se/billochbull/	djurskydd,intresseförening	
 1230485573	848000-8575	Ystads Frivillige Bergnings-Corps, Ystads FBC	https://www.ystadsfbc.se/	intresseförening	
 1230485730	822002-1755	Östergötlands Taxklubb	http://ostergotlandstaxklubb.dinstudio.se/	hundklubb	
@@ -4144,6 +4145,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235893359	802465-4074	Åmots SK - Skidor	https://idrottonline.se/AmotsSK-Skidor/	skidlöparklubb	
 1235893623	802426-6358	Change Attitude	https://changeattitude.org/	hjälporganisation,intresseorganisation	
 1235894472	825001-5834	Lions Club Finspång	http://www.lionsfinspang.se/	lionsklubb	
+1235894621	843003-3160	Insamlingsstiftelsen Stödfonden för hemlösa i Helsingborg	https://www.hemlosashus.se/	godkänd gåvomottagare,stiftelse	
 1235896436	802497-5024	Lions Club Ulricehamn	https://lionsulricehamn.se/	lionsklubb	
 1235897350	857200-8145	Johannebergs Missionsförsamling	https://johannebergsequmeniakyrka.se/	religion	
 1235900691	817600-1363	Österledskyrkan i Gamla Uppsala	https://osterledskyrkan.se/	religion	
@@ -4888,7 +4890,8 @@ entry	orgNumber	orgName	web	categories	comment
 1239000597	822001-9072	Stiftelsen Barndiabetesfonden	https://www.barndiabetesfonden.se/	insamlingskontroll,stiftelse,välgörenhet	
 1239000654	802424-8224	Insamlingsstiftelsen Världsinfektionsfonden	https://www.vif.se/	insamlingskontroll,stiftelse	
 1239000662	802002-7283	Psoriasisförbundet	https://www.psoriasisforbundet.se/	förbund,insamlingskontroll	
-1239000670	802424-9289	Insamlingsstiftelsen Akademiska sjukhusets barnfond	https://akademiskasbarnfond.se/	godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet	
+1239000670	802424-9289	Insamlingsstiftelsen Akademiska Sjukhusets Barnfond	https://www.akademiskasbarnfond.se/	godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet	
+1239000704	802008-3435	Stiftelsen Svenska Amnestyfonden	https://www.amnesty.se/amnestyfonden	insamlingskontroll	
 1239000712	802002-8125	Riksförbundet för Rörelsehindrade Barn och Ungdomar, RBU	https://www.rbu.se/	insamlingskontroll	
 1239000720	802004-0401	Amnesty International, Svenska sektionen	https://www.amnesty.se/	insamlingskontroll,välgörenhet	
 1239000738	802004-4510	Hörselskadades Riksförbund	https://www.hrf.se/	godkänd gåvomottagare,insamlingskontroll	Spontangåva
@@ -4928,7 +4931,9 @@ entry	orgNumber	orgName	web	categories	comment
 1239001629	802426-1268	Insamlingsstiftelsen WaterAid Sverige	https://www.wateraid.se/	godkänd gåvomottagare,hjälporganisation,insamlingskontroll,stiftelse,välgörenhet	
 1239001645	802426-1250	Sverige för UNHCR Insamlingsstiftelse	https://www.sverigeforunhcr.se/	godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet	
 1239001660	817602-1106	Stiftelsen Livets Ord	https://www.livetsord.se/	insamlingskontroll,stiftelse	
+1239001686	857208-8964	Suicidprevention i Väst	https://www.suicidprev.com/	insamlingskontroll	
 1239001702	802426-0195	Stiftelsen Göteborgs Kyrkliga Stadsmission	https://www.stadsmissionen.org/	godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet	
+1239001710	829500-1112	Björkåfrihet	https://www.bjorkafrihet.se/	insamlingskontroll	
 1239001744	802447-4481	World Animal Protection Sverige	https://www.worldanimalprotection.se/	insamlingskontroll,välgörenhet	
 1239001751	802439-9704	Riksföreningen Sveriges Stadsmissioner	https://www.sverigesstadsmissioner.se/	insamlingskontroll	
 1239001777	802425-7530	Monica och Carl-Axel Ekmans Insamlingsstiftelse	https://www.garissa.se/	insamlingskontroll	
