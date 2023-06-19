@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-06-18-rev-154307
+# Date: 2023-06-19-rev-175207
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -495,6 +495,7 @@
 "1230554808","886000-5100","Ljusne Sportfiskeklubb","http://www.ljusnesportfiskeklubb.com/","fiskevård,sportfiske,vattenvård",""
 "1230555094","570422-XXXX","Snitths Hantverksbageri i Furudal / Kärsti Hård","https://snitths.se/","bageri",""
 "1230555508","802011-0386","Rise - Riksföreningen mot incest och andra sexuella övergrepp i barndomen","https://rise-sverige.se/","kvinnojour",""
+"1230561019","556315-2973","City Trafikskola Sundsvall AB","https://www.citytrafikskola.nu/","trafikskola,utbildning",""
 "1230561621","556548-0406","Pantbanken Trollhättan","https://panta.nu/","pantbank",""
 "1230563098","802453-5828","Upplands Taxklubb","http://upplandstaxklubb.com/","hundklubb,hundsport",""
 "1230563395","857210-0579","Riksförbundet för ME-patienter - Myalgic Encephalomyelitis, RME","https://rme.nu/","patientförening,riksförbund",""
@@ -506,6 +507,8 @@
 "1230567255","802471-8028","Falu BS Bandy","https://www.falubsbandy.se/","bandyklubb,idrottsförening",""
 "1230567289","252003-1382","Karlstads Pastorat","https://www.svenskakyrkan.se/karlstadspastorat","religion","Söndagens kollekt"
 "1230569046","813200-4337","Församlingen Arken","https://www.arken.org/","podcast,religion",""
+"1230569111","826000-2145","Andreasförsamlingen","https://www.fjallstugan.se/","religion",""
+"1230569277","802010-6566","Barncancerfonden","https://www.barncancerfonden.se/event/team-aron-ck/","cancerforskning","Team Aron CK"
 "1230574582","769605-4852","Bostadsrättsförening Torpet","https://www.torpet.ac/","bostadsrättsförening",""
 "1230576884","556187-3299","Insamlingsstilftelsen Stadium","https://www.stadium.se/sustainability/sustainability-collaborations-and-initiative/sustainability-initiativ-stadium-foundation","stiftelse",""
 "1230578013","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Täby, Neptuniskolan"
@@ -4360,6 +4363,7 @@
 "1236182521","894003-1977","Insamlingsstiftelsen för medicinsk forskning vid Umeå universitet","https://stodforskning.umu.se/","forskning,stiftelse","Medicinsk forskning"
 "1236185011","886500-5758","Edsbyns Gymnastikförening","https://idrottonline.se/EdsbynsGF-Gymnastik/","förening,gymnastikförening",""
 "1236185854","882600-6622","Borlänge Scoutkår","https://borlangescoutkar.se/","scoutkår",""
+"1236185979","826002-2499","Equmenia Fjällstugan","https://www.fjallstugan.se/","religion",""
 "1236188247","802469-0409","Svenska Djurambulansen","https://www.svenskadjurambulansen.se/","djurskydd,djurvård,förening",""
 "1236188874","802449-1915","Holsljunga Byalag","https://holsljunga.se/","byalag,hembygdsförening",""
 "1236189039","819000-6430","Friluftsfrämjandet Nyköping","https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/nykoping/","friluftsliv,friskvård","Ryssbergsbacken"

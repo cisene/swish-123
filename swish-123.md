@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-06-18-rev-154307
+Date:     2023-06-19-rev-175207
 ...
 
 # Swish 123 Nummer
@@ -497,6 +497,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230554808 | 886000-5100 | Ljusne Sportfiskeklubb                                                                               | [Link](http://www.ljusnesportfiskeklubb.com/) |
 | 1230555094 | 570422-XXXX | Snitths Hantverksbageri i Furudal / Kärsti Hård                                                      | [Link](https://snitths.se/) |
 | 1230555508 | 802011-0386 | Rise - Riksföreningen mot incest och andra sexuella övergrepp i barndomen                            | [Link](https://rise-sverige.se/) |
+| 1230561019 | 556315-2973 | City Trafikskola Sundsvall AB                                                                        | [Link](https://www.citytrafikskola.nu/) |
 | 1230561621 | 556548-0406 | Pantbanken Trollhättan                                                                               | [Link](https://panta.nu/) |
 | 1230563098 | 802453-5828 | Upplands Taxklubb                                                                                    | [Link](http://upplandstaxklubb.com/) |
 | 1230563395 | 857210-0579 | Riksförbundet för ME-patienter - Myalgic Encephalomyelitis, RME                                      | [Link](https://rme.nu/) |
@@ -508,6 +509,8 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230567255 | 802471-8028 | Falu BS Bandy                                                                                        | [Link](https://www.falubsbandy.se/) |
 | 1230567289 | 252003-1382 | Karlstads Pastorat                                                                                   | [Link](https://www.svenskakyrkan.se/karlstadspastorat) |
 | 1230569046 | 813200-4337 | Församlingen Arken                                                                                   | [Link](https://www.arken.org/) |
+| 1230569111 | 826000-2145 | Andreasförsamlingen                                                                                  | [Link](https://www.fjallstugan.se/) |
+| 1230569277 | 802010-6566 | Barncancerfonden                                                                                     | [Link](https://www.barncancerfonden.se/event/team-aron-ck/) |
 | 1230574582 | 769605-4852 | Bostadsrättsförening Torpet                                                                          | [Link](https://www.torpet.ac/) |
 | 1230576884 | 556187-3299 | Insamlingsstilftelsen Stadium                                                                        | [Link](https://www.stadium.se/sustainability/sustainability-collaborations-and-initiative/sustainability-initiativ-stadium-foundation) |
 | 1230578013 | 802534-5466 | Team Rynkeby                                                                                         | [Link](https://www.team-rynkeby.se/) |
@@ -4362,6 +4365,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236182521 | 894003-1977 | Insamlingsstiftelsen för medicinsk forskning vid Umeå universitet                                    | [Link](https://stodforskning.umu.se/) |
 | 1236185011 | 886500-5758 | Edsbyns Gymnastikförening                                                                            | [Link](https://idrottonline.se/EdsbynsGF-Gymnastik/) |
 | 1236185854 | 882600-6622 | Borlänge Scoutkår                                                                                    | [Link](https://borlangescoutkar.se/) |
+| 1236185979 | 826002-2499 | Equmenia Fjällstugan                                                                                 | [Link](https://www.fjallstugan.se/) |
 | 1236188247 | 802469-0409 | Svenska Djurambulansen                                                                               | [Link](https://www.svenskadjurambulansen.se/) |
 | 1236188874 | 802449-1915 | Holsljunga Byalag                                                                                    | [Link](https://holsljunga.se/) |
 | 1236189039 | 819000-6430 | Friluftsfrämjandet Nyköping                                                                          | [Link](https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/nykoping/) |

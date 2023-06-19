@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-18-rev-154307",
+    "date": "2023-06-19-rev-175207",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4792,6 +4792,16 @@
       "web": "https://rise-sverige.se/"
     },
     {
+      "entry": 1230561019,
+      "orgNumber": "556315-2973",
+      "orgName": "City Trafikskola Sundsvall AB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://www.citytrafikskola.nu/"
+    },
+    {
       "entry": 1230561621,
       "orgNumber": "556548-0406",
       "orgName": "Pantbanken Trollh\u00e4ttan",
@@ -4897,6 +4907,25 @@
         "religion"
       ],
       "web": "https://www.arken.org/"
+    },
+    {
+      "entry": 1230569111,
+      "orgNumber": "826000-2145",
+      "orgName": "Andreasf\u00f6rsamlingen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fjallstugan.se/"
+    },
+    {
+      "entry": 1230569277,
+      "orgNumber": "802010-6566",
+      "orgName": "Barncancerfonden",
+      "comment": "Team Aron CK",
+      "categories": [
+        "cancerforskning"
+      ],
+      "web": "https://www.barncancerfonden.se/event/team-aron-ck/"
     },
     {
       "entry": 1230574582,
@@ -43204,6 +43233,15 @@
         "scoutk\u00e5r"
       ],
       "web": "https://borlangescoutkar.se/"
+    },
+    {
+      "entry": 1236185979,
+      "orgNumber": "826002-2499",
+      "orgName": "Equmenia Fj\u00e4llstugan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fjallstugan.se/"
     },
     {
       "entry": 1236188247,

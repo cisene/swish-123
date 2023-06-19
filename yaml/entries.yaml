@@ -4322,6 +4322,15 @@ entries:
   - kvinnojour
   web: https://rise-sverige.se/
 
+- entry: 1230561019
+  orgName: City Trafikskola Sundsvall AB
+  orgNumber: 556315-2973
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://www.citytrafikskola.nu/
+
 - entry: 1230561621
   orgName: Pantbanken Trollhättan
   orgNumber: 556548-0406
@@ -4416,6 +4425,22 @@ entries:
   - podcast
   - religion
   web: https://www.arken.org/
+
+- entry: 1230569111
+  orgName: Andreasförsamlingen
+  orgNumber: 826000-2145
+  comment: null
+  categories:
+  - religion
+  web: https://www.fjallstugan.se/
+
+- entry: 1230569277
+  orgName: Barncancerfonden
+  orgNumber: 802010-6566
+  comment: Team Aron CK
+  categories:
+  - cancerforskning
+  web: https://www.barncancerfonden.se/event/team-aron-ck/
 
 - entry: 1230574582
   orgName: Bostadsrättsförening Torpet
@@ -38667,6 +38692,14 @@ entries:
   categories:
   - scoutkår
   web: https://borlangescoutkar.se/
+
+- entry: 1236185979
+  orgName: Equmenia Fjällstugan
+  orgNumber: 826002-2499
+  comment: null
+  categories:
+  - religion
+  web: https://www.fjallstugan.se/
 
 - entry: 1236188247
   orgName: Svenska Djurambulansen
