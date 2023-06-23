@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-19-rev-175207",
+    "date": "2023-06-23-rev-163955",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4792,6 +4792,16 @@
       "web": "https://rise-sverige.se/"
     },
     {
+      "entry": 1230560540,
+      "orgNumber": "802433-1863",
+      "orgName": "Ge Det Vidare",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://gedetvidare.se/"
+    },
+    {
       "entry": 1230561019,
       "orgNumber": "556315-2973",
       "orgName": "City Trafikskola Sundsvall AB",
@@ -4809,6 +4819,17 @@
         "pantbank"
       ],
       "web": "https://panta.nu/"
+    },
+    {
+      "entry": 1230562280,
+      "orgNumber": "802468-5300",
+      "orgName": "F\u00f6reningen Albatrossmuseet",
+      "categories": [
+        "f\u00f6rening",
+        "historief\u00f6rening",
+        "museum"
+      ],
+      "web": "https://www.albatrossmuseet.se/"
     },
     {
       "entry": 1230563098,
@@ -4831,6 +4852,18 @@
       "web": "https://rme.nu/"
     },
     {
+      "entry": 1230564120,
+      "orgNumber": "212000-1173",
+      "orgName": "Esl\u00f6vs kommun",
+      "comment": "Marieholmsbadet",
+      "categories": [
+        "badavgift",
+        "friluftsbad",
+        "simbas\u00e4ng"
+      ],
+      "web": "https://eslov.se/uppleva-gora/idrott-motion-och-friluftsliv/simhall-och-friluftsbad/marieholmsbadet/"
+    },
+    {
       "entry": 1230564146,
       "orgNumber": "802501-2884",
       "orgName": "Musethica Sverige",
@@ -4840,6 +4873,15 @@
         "utbildning"
       ],
       "web": "https://sweden.musethica.org/"
+    },
+    {
+      "entry": 1230564310,
+      "orgNumber": "846000-9049",
+      "orgName": "Strandkyrkans F\u00f6rsamling av Equmeniakyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/strandkyrkan/"
     },
     {
       "entry": 1230564641,
@@ -4858,6 +4900,15 @@
         "religion"
       ],
       "web": "https://www.lekerydsmissionskyrka.com/"
+    },
+    {
+      "entry": 1230565317,
+      "orgNumber": "802420-6644",
+      "orgName": "Flemminge Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://www.flemmingegolf.se/"
     },
     {
       "entry": 1230565622,
@@ -4928,6 +4979,25 @@
       "web": "https://www.barncancerfonden.se/event/team-aron-ck/"
     },
     {
+      "entry": 1230573360,
+      "orgNumber": "813200-5425",
+      "orgName": "Experimental Aircraft Association - EAA Sverige",
+      "categories": [
+        "flygsport"
+      ],
+      "web": "https://eaa.se/"
+    },
+    {
+      "entry": 1230574301,
+      "orgNumber": "802002-8711",
+      "orgName": "Svenska R\u00f6da Korset",
+      "comment": "Ukraina",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.rodakorset.se/"
+    },
+    {
       "entry": 1230574582,
       "orgNumber": "769605-4852",
       "orgName": "Bostadsr\u00e4ttsf\u00f6rening Torpet",
@@ -4935,6 +5005,24 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://www.torpet.ac/"
+    },
+    {
+      "entry": 1230575027,
+      "orgNumber": "559327-9804",
+      "orgName": "K\u00f6rkortscenter G\u00f6teborg AB",
+      "categories": [
+        "trafikskola"
+      ],
+      "web": "https://korkortscentergbg.se/"
+    },
+    {
+      "entry": 1230575969,
+      "orgNumber": "802471-0587",
+      "orgName": "Unga mot Antisemitism & Fr\u00e4mlingsfientlighet, UMAF",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://umaf.se/"
     },
     {
       "entry": 1230576884,
@@ -4967,6 +5055,44 @@
       "web": "https://hanvikenssk.myclub.se/ishockey/thhteam06"
     },
     {
+      "entry": 1230585752,
+      "orgNumber": "802432-9891",
+      "orgName": "Kamratf\u00f6reningen Yngve R\u00f6d",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.yngverod.se/"
+    },
+    {
+      "entry": 1230591644,
+      "orgNumber": "802410-9418",
+      "orgName": "Svenska Evangeliska Alliansen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.sea.nu/"
+    },
+    {
+      "entry": 1230592899,
+      "orgNumber": "556239-6035",
+      "orgName": "Svenska Popskolan AB",
+      "categories": [
+        "musikskola",
+        "utbildning"
+      ],
+      "web": "https://www.popskolan.se/"
+    },
+    {
+      "entry": 1230593228,
+      "orgNumber": "802454-2295",
+      "orgName": "Teachers Across Borders Sweden",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "utbildning"
+      ],
+      "web": "https://teachersacrossborders.se/"
+    },
+    {
       "entry": 1230594143,
       "orgNumber": "843000-6067",
       "orgName": "H\u00f6gan\u00e4s GF, HGF",
@@ -4996,6 +5122,15 @@
       "web": "https://lakaruppropet.se/"
     },
     {
+      "entry": 1230609917,
+      "orgNumber": "835000-0553",
+      "orgName": "Pingstf\u00f6rsamlingen i Karlskrona",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://pingstkyrkankarlskrona.se/"
+    },
+    {
       "entry": 1230610824,
       "orgNumber": "556632-3258",
       "orgName": "Fasching",
@@ -5017,6 +5152,34 @@
       "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/srf-ostergotland/"
     },
     {
+      "entry": 1230613505,
+      "orgNumber": "802015-0986",
+      "orgName": "Ethar Relief Sverige",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.etharreliefsverige.se/"
+    },
+    {
+      "entry": 1230619940,
+      "orgNumber": "802543-1852",
+      "orgName": "M\u00f6nster\u00e5s Fotoklubb",
+      "categories": [
+        "fotoklubb",
+        "f\u00f6rening"
+      ],
+      "web": "http://monsteras-fotoklubb.se/"
+    },
+    {
+      "entry": 1230621441,
+      "orgNumber": "802534-2307",
+      "orgName": "Skillingeudds Intressef\u00f6rening / V\u00e4stra Skilling Fritidshusf\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://skillingeudd.se/"
+    },
+    {
       "entry": 1230622019,
       "orgNumber": "855100-5401",
       "orgName": "Backatorp IF",
@@ -5024,6 +5187,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/BackatorpIF/"
+    },
+    {
+      "entry": 1230622316,
+      "orgNumber": "826000-7086",
+      "orgName": "HC Dalen",
+      "comment": "Lotteri",
+      "categories": [
+        "hockeyklubb"
+      ],
+      "web": "https://www.hockeyettan.se/hc-dalen/"
     },
     {
       "entry": 1230624320,
@@ -5198,6 +5371,17 @@
       ]
     },
     {
+      "entry": 1230634626,
+      "orgNumber": "556727-1522",
+      "orgName": "Horns Sk\u00e4rg\u00e5rdscamping / NFS Marin AB",
+      "categories": [
+        "camping",
+        "logi",
+        "stuguthyrning"
+      ],
+      "web": "https://www.hornscamping.se/"
+    },
+    {
       "entry": 1230635714,
       "orgNumber": "802508-5856",
       "orgName": "Tankesmedjan Balans",
@@ -5237,6 +5421,15 @@
       "web": "https://www.gavlefolk.se/"
     },
     {
+      "entry": 1230642900,
+      "orgNumber": "879500-0671",
+      "orgName": "Norrby Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/norrby-hembygdsf-rening"
+    },
+    {
       "entry": 1230642967,
       "orgNumber": "802532-9262",
       "orgName": "Team Rynkeby",
@@ -5247,6 +5440,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230643221,
+      "orgNumber": "834001-8137",
+      "orgName": "Visby Bridges\u00e4llskap",
+      "categories": [
+        "bridgeklubb",
+        "bridges\u00e4llskap"
+      ],
+      "web": "https://www.svenskbridge.se/visby-bs"
     },
     {
       "entry": 1230644427,
@@ -5297,6 +5500,16 @@
       "web": "https://www.yogakallan.nu/"
     },
     {
+      "entry": 1230656058,
+      "orgNumber": "827501-0851",
+      "orgName": "Skir\u00f6 Sockens Bygdef\u00f6rening, SSBF",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://skiro.se/"
+    },
+    {
       "entry": 1230656728,
       "orgNumber": "897300-0261",
       "orgName": "Kiruna jakt- och fiskev\u00e5rdsf\u00f6rening",
@@ -5319,6 +5532,16 @@
         "suicid prevention"
       ],
       "web": "https://www.timberglingfoundation.org/"
+    },
+    {
+      "entry": 1230657494,
+      "orgNumber": "802518-9971",
+      "orgName": "H\u00f6glandsn\u00e4s Byaf\u00f6rening",
+      "categories": [
+        "byalag",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://hoglandsnasbyaforening.webnode.se/"
     },
     {
       "entry": 1230663443,
@@ -13651,6 +13874,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231908243,
+      "orgNumber": "559327-9804",
+      "orgName": "K\u00f6rkortscenter G\u00f6teborg AB",
+      "categories": [
+        "trafikskola"
+      ],
+      "web": "https://korkortscentergbg.se/"
     },
     {
       "entry": 1231910140,
@@ -27936,6 +28168,15 @@
       "web": "https://www.vskfotboll.nu/"
     },
     {
+      "entry": 1233942935,
+      "orgNumber": "826000-7086",
+      "orgName": "HC Dalen",
+      "categories": [
+        "hockeyklubb"
+      ],
+      "web": "https://www.hockeyettan.se/hc-dalen/"
+    },
+    {
       "entry": 1233943230,
       "orgNumber": "802440-4371",
       "orgName": "Sisters International",
@@ -30864,6 +31105,15 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Lulea/"
+    },
+    {
+      "entry": 1234407490,
+      "orgNumber": "847000-4162",
+      "orgName": "R\u00f6da Korset Trelleborg",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.rodakorset.se/ort/skane/trelleborgs-kommun/"
     },
     {
       "entry": 1234407748,
@@ -36342,6 +36592,16 @@
         "schacks\u00e4llskap"
       ],
       "web": "https://lass.no-ip.com/"
+    },
+    {
+      "entry": 1235229760,
+      "orgNumber": "844000-3542",
+      "orgName": "R\u00f6da Korset Landskrona",
+      "comment": "Beredskapsgruppen",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.rodakorset.se/ort/skane/landskrona-stad/"
     },
     {
       "entry": 1235230479,
