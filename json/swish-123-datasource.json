@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-06-25-rev-144509",
+    "date": "2023-06-28-rev-172652",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6898,6 +6898,26 @@
       "web": "http://www.umeavastra.se/"
     },
     {
+      "entry": 1230803734,
+      "orgNumber": "849400-6797",
+      "orgName": "Frilles\u00e5s Sportskytteklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/frillesasssk"
+    },
+    {
+      "entry": 1230804237,
+      "orgNumber": "252002-5194",
+      "orgName": "Bure\u00e5 f\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.burekyrkan.com/"
+    },
+    {
       "entry": 1230804559,
       "orgNumber": "836200-0377",
       "orgName": "Folkkyrkan i S\u00f6lvesborg",
@@ -6954,6 +6974,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1230810689,
+      "orgNumber": "894000-0493",
+      "orgName": "Grisbacka EFS Missionsf\u00f6rening",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/umea/grisbackakyrkan"
+    },
+    {
       "entry": 1230810762,
       "orgNumber": "815600-3363",
       "orgName": "Hagabergs Kapell / EFS Missionsf\u00f6rening S\u00f6dert\u00e4lje",
@@ -6961,6 +6990,16 @@
         "religion"
       ],
       "web": "https://hagaberg.nu/"
+    },
+    {
+      "entry": 1230811141,
+      "orgNumber": "834000-0226",
+      "orgName": "Visby Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://brukshundklubben.se/visby-brukshundklubb/"
     },
     {
       "entry": 1230811828,
@@ -6979,6 +7018,15 @@
         "lionsklubb"
       ],
       "web": "https://lionssvenljunga.se/"
+    },
+    {
+      "entry": 1230815324,
+      "orgNumber": "897600-9368",
+      "orgName": "Seskar\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://seskaro.net/"
     },
     {
       "entry": 1230821132,
@@ -7075,6 +7123,15 @@
       "web": "https://samnytt.se/"
     },
     {
+      "entry": 1230833376,
+      "orgNumber": "802006-2660",
+      "orgName": "Stockholm International Peace Research Institute, SIPRI",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.sipri.org/"
+    },
+    {
       "entry": 1230835025,
       "orgNumber": "845000-7474",
       "orgName": "Simklubben Triton",
@@ -7124,6 +7181,17 @@
         "innebandy"
       ],
       "web": "https://www.ostra.nu/"
+    },
+    {
+      "entry": 1230837971,
+      "orgNumber": "814400-5033",
+      "orgName": "BKV Norrt\u00e4lje",
+      "comment": "P08",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/BKVNorrtalje-P08-Fotboll/"
     },
     {
       "entry": 1230838482,
@@ -7204,6 +7272,16 @@
       "web": "https://www.bjornstorpsif.se/"
     },
     {
+      "entry": 1230845891,
+      "orgNumber": "829500-5386",
+      "orgName": "\u00d6sters IF",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ostersif.se/"
+    },
+    {
       "entry": 1230846345,
       "orgNumber": "559062-6718",
       "orgName": "Engineering For Development (EFD)",
@@ -7244,6 +7322,15 @@
       "web": "https://www.svenskakyrkan.se/orust/langelanda-forsamling"
     },
     {
+      "entry": 1230849893,
+      "orgNumber": "814800-8314",
+      "orgName": "Edsvikens B\u00e5tklubb",
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "http://www.edsvikensbatklubb.com/"
+    },
+    {
       "entry": 1230851071,
       "orgNumber": "893202-0038",
       "orgName": "Ross\u00f6ns Golfklubb",
@@ -7261,6 +7348,16 @@
         "segels\u00e4llskap"
       ],
       "web": "https://www.rorviksss.se/"
+    },
+    {
+      "entry": 1230851451,
+      "orgNumber": "864500-1085",
+      "orgName": "Bor\u00e5s Tr\u00e4dg\u00e5rdss\u00e4llskap",
+      "categories": [
+        "tr\u00e4dg\u00e5rdsf\u00f6rening",
+        "tr\u00e4dg\u00e5rdss\u00e4llskap"
+      ],
+      "web": "https://borastradgardssallskap.se/"
     },
     {
       "entry": 1230851584,
@@ -7352,6 +7449,12 @@
       "web": "https://www.hlmhastsport.se/"
     },
     {
+      "entry": 1230856849,
+      "orgNumber": "556798-0932",
+      "orgName": "Atracco Valla / Atracco Group AB",
+      "web": "https://atracco.se/anlaggningar/atracco-valla/"
+    },
+    {
       "entry": 1230857391,
       "orgNumber": "556120-9098",
       "orgName": "Hedengrens Bokhandel AB",
@@ -7361,6 +7464,16 @@
       "web": "http://hedengrens.se/"
     },
     {
+      "entry": 1230857748,
+      "orgNumber": "252002-5194",
+      "orgName": "Bure\u00e5 f\u00f6rsamling",
+      "comment": "Servering",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.burekyrkan.com/"
+    },
+    {
       "entry": 1230858225,
       "orgNumber": "252004-2991",
       "orgName": "Skepplanda-H\u00e5landa F\u00f6rsamling",
@@ -7368,6 +7481,26 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/skepplanda"
+    },
+    {
+      "entry": 1230858282,
+      "orgNumber": "898200-6242",
+      "orgName": "Gammelg\u00e5rdens IF",
+      "comment": "F09",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/GIFF09/"
+    },
+    {
+      "entry": 1230858654,
+      "orgNumber": "252002-5699",
+      "orgName": "Stensj\u00f6ns f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/molndal/tre-forsamlingar"
     },
     {
       "entry": 1230866335,
@@ -7398,6 +7531,15 @@
       "web": "https://plaza.se/"
     },
     {
+      "entry": 1230867275,
+      "orgNumber": "556401-0253",
+      "orgName": "R\u00e4ttviksnytt p\u00e5 Internet / Bokstaven i R\u00e4ttvik AB",
+      "categories": [
+        "lokaltidning"
+      ],
+      "web": "https://rattviksnytt.se/"
+    },
+    {
       "entry": 1230867986,
       "orgNumber": "556982-4971",
       "orgName": "B\u00c4TTRE STADSDEL Lokal Media AB",
@@ -7425,6 +7567,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/mariagarden-i-skultuna"
+    },
+    {
+      "entry": 1230871616,
+      "orgNumber": "252000-0734",
+      "orgName": "Enskede-\u00c5rsta f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/enskede-arsta"
     },
     {
       "entry": 1230871970,
@@ -17213,6 +17364,16 @@
       "web": "https://www.kungsbackaridklubb.se/"
     },
     {
+      "entry": 1232289734,
+      "orgNumber": "252002-5194",
+      "orgName": "Bure\u00e5 f\u00f6rsamling",
+      "comment": "Mission",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.burekyrkan.com/"
+    },
+    {
       "entry": 1232300457,
       "orgNumber": "212000-1892",
       "orgName": "Turistbyr\u00e5n Arvika",
@@ -23451,6 +23612,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://sos-barnbyar.se/"
+    },
+    {
+      "entry": 1233200722,
+      "orgNumber": "252002-5194",
+      "orgName": "Bure\u00e5 f\u00f6rsamling",
+      "comment": "B\u00f6cker/kort",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.burekyrkan.com/"
     },
     {
       "entry": 1233200839,
@@ -38956,6 +39127,16 @@
       "web": "https://www.ufc.se/"
     },
     {
+      "entry": 1235458476,
+      "orgNumber": "252002-5194",
+      "orgName": "Bure\u00e5 f\u00f6rsamling",
+      "comment": "Minnesg\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.burekyrkan.com/"
+    },
+    {
       "entry": 1235458690,
       "orgNumber": "835000-6923",
       "orgName": "R\u00f6deby CK - Motorcykel och Sn\u00f6skoter",
@@ -48845,6 +49026,16 @@
       "categories": [
         "rotaryklubb"
       ]
+    },
+    {
+      "entry": 1236931091,
+      "orgNumber": "814400-5033",
+      "orgName": "BKV Norrt\u00e4lje",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/BKVNorrtalje/"
     },
     {
       "entry": 1236931729,
