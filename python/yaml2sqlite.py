@@ -29,6 +29,7 @@ def loadYamlIntoDb(filepath):
     'terminated',
     'verified',
     'verifierad',
+    'retired',
   ]
 
   cursor = conn.cursor()
