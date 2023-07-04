@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-07-01-rev-162325",
+    "date": "2023-07-04-rev-171125",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1977,6 +1977,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://sfor.se/"
+    },
+    {
+      "entry": 1230237644,
+      "orgNumber": "874400-2455",
+      "orgName": "Equmeniayrkan Holmedal & Blomskog",
+      "comment": "Konfafonden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/holmedalblomskog/"
     },
     {
       "entry": 1230238550,
@@ -8970,6 +8980,16 @@
       "web": "https://kungsor.pingst.se/"
     },
     {
+      "entry": 1231051937,
+      "orgNumber": "556931-2506",
+      "orgName": "Fj\u00e4llturen AB",
+      "categories": [
+        "cykelsport",
+        "eventarrang\u00f6r"
+      ],
+      "web": "https://fjallturen.se/"
+    },
+    {
       "entry": 1231051978,
       "orgNumber": "556986-2823",
       "orgName": "Topfunhoppborgar AB",
@@ -8997,6 +9017,15 @@
         "fiskfoder"
       ],
       "web": "https://www.fiskfoder.se/"
+    },
+    {
+      "entry": 1231052935,
+      "orgNumber": "252002-1375",
+      "orgName": "Olaus Petri F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/olauspetri"
     },
     {
       "entry": 1231053362,
@@ -9027,6 +9056,15 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.facebook.com/nossanljusfestival/"
+    },
+    {
+      "entry": 1231053917,
+      "orgNumber": "874400-2455",
+      "orgName": "Equmeniayrkan Holmedal & Blomskog",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/holmedalblomskog/"
     },
     {
       "entry": 1231055888,
@@ -9088,6 +9126,16 @@
       "web": "https://helensforkorkort.se/"
     },
     {
+      "entry": 1231059443,
+      "orgNumber": "896100-1123",
+      "orgName": "\u00c5sele Nappet/\u00c5IK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sportfiskeklubb"
+      ],
+      "web": "https://aseleik.sportadmin.se/"
+    },
+    {
       "entry": 1231063056,
       "orgNumber": "551215-XXXX",
       "orgName": "Jennebo Radio / Stenskott Productions",
@@ -9143,6 +9191,17 @@
       "web": "http://www.nordicarea.se/"
     },
     {
+      "entry": 1231073329,
+      "orgNumber": "802410-6661",
+      "orgName": "Livrustkammarens V\u00e4nner",
+      "categories": [
+        "historief\u00f6rening",
+        "kulturf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://livrustkammaren.se/museet-om-sveriges-kungliga-historia/om-museet/livrustkammarens-vanforening/"
+    },
+    {
       "entry": 1231073550,
       "orgNumber": "886000-6090",
       "orgName": "Holmsvedenbygdens Intressef\u00f6rening",
@@ -9166,9 +9225,20 @@
       "orgNumber": "849201-3985",
       "orgName": "F\u00f6reningen Gamla Halmstad",
       "categories": [
-        "f\u00f6rening"
+        "f\u00f6rening",
+        "historief\u00f6rening"
       ],
       "web": "https://gamlahalmstad.se/"
+    },
+    {
+      "entry": 1231077973,
+      "orgNumber": "825001-4498",
+      "orgName": "Reumatikerf\u00f6reningen Norrk\u00f6ping",
+      "categories": [
+        "patientf\u00f6rening",
+        "reumatism"
+      ],
+      "web": "https://norrkoping.reumatiker.se/"
     },
     {
       "entry": 1231079128,
@@ -9179,6 +9249,15 @@
         "religion"
       ],
       "web": "https://www.imkorebro.se/"
+    },
+    {
+      "entry": 1231079177,
+      "orgNumber": "802428-4161",
+      "orgName": "Husbussens V\u00e4nner",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.husbussensvanner.net/"
     },
     {
       "entry": 1231079607,
@@ -9218,6 +9297,15 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.masterolofsgarden.se/"
+    },
+    {
+      "entry": 1231085091,
+      "orgNumber": "802510-1208",
+      "orgName": "K\u00e5llands\u00f6-Stenhammar Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.stenhammarkyrkan.se/"
     },
     {
       "entry": 1231089028,
@@ -9276,6 +9364,16 @@
       "web": "https://www.korpen.se/korpenemmaboda"
     },
     {
+      "entry": 1231093574,
+      "orgNumber": "802535-3825",
+      "orgName": "Hundar l\u00e4ngtar hem",
+      "comment": "Rum\u00e4nska gatuhundar",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "https://hundarlangtarhem.se/"
+    },
+    {
       "entry": 1231095017,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -9304,6 +9402,15 @@
       "web": "https://www.brottsofferjouren.se/"
     },
     {
+      "entry": 1231097476,
+      "orgNumber": "802530-1063",
+      "orgName": "Djurskyddet M\u00e4lartassen",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "https://www.djurskyddet.se/malartassen/"
+    },
+    {
       "entry": 1231098243,
       "orgNumber": "002865-0273",
       "orgName": "Rotary Mariefred",
@@ -9320,6 +9427,16 @@
         "f\u00f6rening"
       ],
       "web": "https://vadtorp.bokamera.se/"
+    },
+    {
+      "entry": 1231099530,
+      "orgNumber": "802522-2921",
+      "orgName": "DalaMitts Nose Work F\u00f6rening, DNWF",
+      "categories": [
+        "hundkurser",
+        "hundsport"
+      ],
+      "web": "https://dalamittsnwf.wixsite.com/minsida"
     },
     {
       "entry": 1231099548,
@@ -9457,9 +9574,20 @@
       "orgNumber": "556035-3376",
       "orgName": "Djurg\u00e5rdens Ridskola AB",
       "categories": [
+        "h\u00e4stsport",
         "ridskola"
       ],
       "web": "https://www.djrs.se/"
+    },
+    {
+      "entry": 1231135151,
+      "orgNumber": "802496-6080",
+      "orgName": "Hej Fr\u00e4mling!",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://hejframling.se/"
     },
     {
       "entry": 1231135987,
@@ -9502,6 +9630,15 @@
       "web": "http://www.savedalensaik.se/"
     },
     {
+      "entry": 1231141761,
+      "orgNumber": "252004-0300",
+      "orgName": "Vallentuna f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vallentuna"
+    },
+    {
       "entry": 1231143841,
       "orgNumber": "858500-8231",
       "orgName": "Rotary Uddevalla-Byfjorden",
@@ -9509,6 +9646,15 @@
         "rotaryklubb"
       ],
       "web": "https://www.uddevalla-byfjordenrotary.se/"
+    },
+    {
+      "entry": 1231145663,
+      "orgNumber": "844000-5463",
+      "orgName": "PRO Samorganisation Landskrona",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-landskrona.html"
     },
     {
       "entry": 1231146596,
@@ -9609,6 +9755,15 @@
       "web": "https://tankarnastradgardvaxjo.se/"
     },
     {
+      "entry": 1231149772,
+      "orgNumber": "875002-1514",
+      "orgName": "PRO \u00d6rebro City",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/orebro-city"
+    },
+    {
       "entry": 1231152701,
       "orgNumber": "846002-2927",
       "orgName": "Autism- och Aspergerf\u00f6reningen Sk\u00e5ne",
@@ -9698,6 +9853,27 @@
       "web": "https://www.stockholmbaseboll.com/"
     },
     {
+      "entry": 1231158260,
+      "orgNumber": "865500-9242",
+      "orgName": "Ulricehamns Pistolklubb",
+      "categories": [
+        "pistolskytteklubb",
+        "skyttef\u00f6rening",
+        "skytteklubb"
+      ],
+      "web": "http://www.ulricehamnspk.se/"
+    },
+    {
+      "entry": 1231159607,
+      "orgNumber": "817606-2167",
+      "orgName": "Svenska Avelsorganisationen f\u00f6r Irish Cob och Irish Cob partbred",
+      "categories": [
+        "h\u00e4stavel",
+        "h\u00e4stuppf\u00f6dning"
+      ],
+      "web": "https://www.irishcobsociety.se/"
+    },
+    {
       "entry": 1231160555,
       "orgNumber": "832400-4558",
       "orgName": "Diabetesf\u00f6reningen Kalmar-\u00d6land m. o.",
@@ -9706,6 +9882,16 @@
         "patientf\u00f6rening"
       ],
       "web": "https://www.diabetes.se/medlem/foreningar/lansforeningen-i-kalmar-lan/diabetesfor.-kalmar-oland-m.o/"
+    },
+    {
+      "entry": 1231160944,
+      "orgNumber": "857209-5266",
+      "orgName": "Jesus F\u00f6r Dig / Stiftelsen bibelskolan.com",
+      "categories": [
+        "religion",
+        "stiftelse"
+      ],
+      "web": "https://jesusfordig.nu/"
     },
     {
       "entry": 1231161330,
@@ -9729,10 +9915,32 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231166909,
+      "orgNumber": "814400-3020",
+      "orgName": "\u00d6regrunds Idrottsklubb",
+      "categories": [
+        "bordtennisklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "vintersport"
+      ],
+      "web": "https://oregrundik.se/"
+    },
+    {
       "entry": 1231166966,
       "orgNumber": "878001-4687",
       "orgName": "Svenska OCD-f\u00f6rbundet",
       "web": "https://ocdforbundet.se/"
+    },
+    {
+      "entry": 1231168590,
+      "orgNumber": "802499-4439",
+      "orgName": "Svenska Spaniel och Retrieverklubben - Pite\u00e5 sektionen",
+      "categories": [
+        "hundklubb"
+      ],
+      "web": "https://ssrkpitea.se/"
     },
     {
       "entry": 1231168707,
@@ -9743,6 +9951,16 @@
         "synskadad"
       ],
       "web": "http://www.synskadadesriksforbund.se/om-oss/distrikt-och-lokalforeningar/goteborg/"
+    },
+    {
+      "entry": 1231169028,
+      "orgNumber": "556910-3301",
+      "orgName": "Haraldssons Auktioner AB",
+      "categories": [
+        "auktioner",
+        "auktionsverk"
+      ],
+      "web": "https://haraldssonsauktioner.se/"
     },
     {
       "entry": 1231169630,
@@ -9762,6 +9980,16 @@
         "healing"
       ],
       "web": "https://www.ayuemy.com/"
+    },
+    {
+      "entry": 1231171008,
+      "orgNumber": "556925-2306",
+      "orgName": "Tassarnas Djurklinik AB",
+      "categories": [
+        "djurv\u00e5rd",
+        "veterin\u00e4r"
+      ],
+      "web": "https://tassarnasdjurklinik.se/"
     },
     {
       "entry": 1231171206,
@@ -9808,6 +10036,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231175199,
+      "orgNumber": "559249-4784",
+      "orgName": "Caroline Larsson - Massage H\u00e4lsa / MassageHLR i Kiruna AB",
+      "categories": [
+        "massage"
+      ],
+      "web": "http://massagehalsa.com/"
     },
     {
       "entry": 1231175751,
@@ -32057,6 +32294,16 @@
       "web": "https://tennisportalen.se/"
     },
     {
+      "entry": 1234397451,
+      "orgNumber": "802530-1063",
+      "orgName": "Djurskyddet M\u00e4lartassen",
+      "comment": "Kastrering",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "https://www.djurskyddet.se/malartassen/"
+    },
+    {
       "entry": 1234398020,
       "orgNumber": "802497-8598",
       "orgName": "Sollefte\u00e5 Bridgeklubb",
@@ -42583,6 +42830,15 @@
         "ridsport"
       ],
       "web": "https://falbygdenshf.se/"
+    },
+    {
+      "entry": 1235885538,
+      "orgNumber": "252004-0300",
+      "orgName": "Vallentuna f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vallentuna"
     },
     {
       "entry": 1235890082,
