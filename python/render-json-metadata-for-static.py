@@ -370,7 +370,7 @@ def main():
 
   renderCategoriesWeighted()
   renderCategoriesUnique()
-  renderFilterDictionary()
+  # renderFilterDictionary()
 
   renderStatistics()
 
