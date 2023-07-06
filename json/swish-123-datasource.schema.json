@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "https://github.com/cisene/swish-123/json/swish-123-datasource.schema.json",
+  "title": "Swish-123 Datasource schema",
+  "description": "General schema for Swish-123 Datasource",
+  "required": [
+    "#meta",
+    "data"
+  ],
+  "type": "object",
+  "properties": {
+    "#meta": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "author",
+        "date",
+        "source"
+      ]
+    },
+    "data": {
+      "type": "array",
+      "minItems": 1,
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "entry": {
+              "type": "number",
+              "pattern": "^123[0-9]{7}$"
+            },
+            "orgNumber": {
+              "type": "string",
+              "pattern": "[0-9]{6}\\x2d([0-9]{4}|XXXX)$"
+            },
+            "orgName": {
+              "type": "string"
+            },
+            "categories": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string",
+                  "minItems": 1
+                }
+              ]
+            },
+            "web": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "entry",
+            "orgNumber",
+            "orgName",
+            "categories",
+            "web"
+          ]
+        }
+      ]
+    }
+  }
+}
