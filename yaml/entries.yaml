@@ -29686,6 +29686,14 @@ entries:
   - båtklubb
   web: https://www.furusundsbatklubb.se/
 
+- entry: 1234454203
+  orgName: LFC.se - Svenska Supporterklubben
+  orgNumber: 882602-0151
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.lfc.se/
+
 - entry: 1234454211
   orgName: Insamlingsstiftelsen för Tobias Forsberg
   orgNumber: 802481-2839
@@ -33096,6 +33104,14 @@ entries:
   - ridskola
   - ryttarförening
   web: https://www.aaislandshast.com/
+
+- entry: 1235095351
+  orgName: Mat och Klimat
+  orgNumber: 802520-7237
+  comment: null
+  categories:
+  - intresseförening
+  web: https://matochklimat.nu/
 
 - entry: 1235096433
   orgName: Nordingrå Församlings Vänner

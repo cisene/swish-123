@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-07-05-rev-142445
+Date:     2023-07-14-rev-194020
 ...
 
 # Swish 123 Nummer
@@ -3353,6 +3353,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234445847 | 556819-1570 | Uvell Kommunikation AB                                                                               |                           |
 | 1234452082 | 802414-4290 | Örebro Volleyboll Sällskap                                                                           |                           |
 | 1234453056 | 802430-1445 | Furusunds Båtklubb                                                                                   |                           |
+| 1234454203 | 882602-0151 | LFC.se - Svenska Supporterklubben                                                                    |                           |
 | 1234454211 | 802481-2839 | Insamlingsstiftelsen för Tobias Forsberg                                                             |                           |
 | 1234463105 | 559114-0685 | Brand New Profile                                                                                    |                           |
 | 1234465720 | 556418-0270 | Micke Ahlgrens Orkester Aktiebolag                                                                   |                           |
@@ -3736,6 +3737,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235092275 | 802473-1112 | Teater Trassel                                                                                       |                           |
 | 1235093414 | 559156-5402 | YuBe AB                                                                                              |                           |
 | 1235094198 | 802463-8234 | Kulltorp Katla Ryttarförening, KKRF                                                                  |                           |
+| 1235095351 | 802520-7237 | Mat och Klimat                                                                                       |                           |
 | 1235096433 | 802530-0719 | Nordingrå Församlings Vänner                                                                         |                           |
 | 1235099825 | 559165-3653 | Swedish Elephant AB                                                                                  |                           |
 | 1235100128 | 556548-0406 | Pantbanken Skövde                                                                                    |                           |

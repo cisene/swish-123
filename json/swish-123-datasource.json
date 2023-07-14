@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-07-05-rev-142445",
+    "date": "2023-07-14-rev-194020",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -33091,6 +33091,15 @@
       "web": "https://www.furusundsbatklubb.se/"
     },
     {
+      "entry": 1234454203,
+      "orgNumber": "882602-0151",
+      "orgName": "LFC.se - Svenska Supporterklubben",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.lfc.se/"
+    },
+    {
       "entry": 1234454211,
       "orgNumber": "802481-2839",
       "orgName": "Insamlingsstiftelsen f\u00f6r Tobias Forsberg",
@@ -36926,6 +36935,15 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.aaislandshast.com/"
+    },
+    {
+      "entry": 1235095351,
+      "orgNumber": "802520-7237",
+      "orgName": "Mat och Klimat",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://matochklimat.nu/"
     },
     {
       "entry": 1235096433,
