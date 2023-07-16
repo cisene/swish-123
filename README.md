@@ -24,7 +24,7 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***5524*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***5563*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
@@ -93,7 +93,7 @@ pie title Distribution
     "123 061 xx xx" : 4
     "123 062 xx xx" : 10
     "123 063 xx xx" : 14
-    "123 064 xx xx" : 7
+    "123 064 xx xx" : 8
     "123 065 xx xx" : 6
     "123 066 xx xx" : 4
     "123 067 xx xx" : 5
@@ -157,26 +157,26 @@ pie title Distribution
     "123 125 xx xx" : 8
     "123 126 xx xx" : 8
     "123 127 xx xx" : 4
-    "123 128 xx xx" : 1
-    "123 129 xx xx" : 9
-    "123 130 xx xx" : 7
-    "123 131 xx xx" : 10
-    "123 132 xx xx" : 9
+    "123 128 xx xx" : 3
+    "123 129 xx xx" : 10
+    "123 130 xx xx" : 9
+    "123 131 xx xx" : 13
+    "123 132 xx xx" : 11
     "123 133 xx xx" : 6
-    "123 134 xx xx" : 8
+    "123 134 xx xx" : 16
     "123 135 xx xx" : 6
-    "123 136 xx xx" : 1
-    "123 137 xx xx" : 23
+    "123 136 xx xx" : 2
+    "123 137 xx xx" : 28
     "123 138 xx xx" : 3
     "123 139 xx xx" : 2
-    "123 140 xx xx" : 5
+    "123 140 xx xx" : 6
     "123 141 xx xx" : 4
     "123 142 xx xx" : 2
-    "123 143 xx xx" : 5
+    "123 143 xx xx" : 7
     "123 144 xx xx" : 2
-    "123 145 xx xx" : 4
-    "123 146 xx xx" : 11
-    "123 147 xx xx" : 19
+    "123 145 xx xx" : 5
+    "123 146 xx xx" : 13
+    "123 147 xx xx" : 23
     "123 148 xx xx" : 18
     "123 149 xx xx" : 7
     "123 150 xx xx" : 7
@@ -306,6 +306,7 @@ pie title Distribution
     "123 282 xx xx" : 6
     "123 283 xx xx" : 1
     "123 284 xx xx" : 3
+    "123 285 xx xx" : 1
     "123 286 xx xx" : 4
     "123 287 xx xx" : 8
     "123 288 xx xx" : 17
@@ -403,7 +404,7 @@ pie title Distribution
     "123 382 xx xx" : 6
     "123 383 xx xx" : 5
     "123 384 xx xx" : 3
-    "123 385 xx xx" : 7
+    "123 385 xx xx" : 8
     "123 386 xx xx" : 8
     "123 387 xx xx" : 9
     "123 388 xx xx" : 19
@@ -510,7 +511,7 @@ pie title Distribution
     "123 493 xx xx" : 8
     "123 494 xx xx" : 14
     "123 495 xx xx" : 7
-    "123 496 xx xx" : 4
+    "123 496 xx xx" : 5
     "123 497 xx xx" : 5
     "123 498 xx xx" : 6
     "123 499 xx xx" : 11
@@ -552,7 +553,7 @@ pie title Distribution
     "123 535 xx xx" : 11
     "123 536 xx xx" : 3
     "123 537 xx xx" : 5
-    "123 538 xx xx" : 10
+    "123 538 xx xx" : 11
     "123 539 xx xx" : 8
     "123 540 xx xx" : 11
     "123 541 xx xx" : 7
