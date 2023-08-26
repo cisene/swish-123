@@ -24,7 +24,7 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***5563*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***5590*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
@@ -176,16 +176,16 @@ pie title Distribution
     "123 144 xx xx" : 2
     "123 145 xx xx" : 5
     "123 146 xx xx" : 13
-    "123 147 xx xx" : 23
-    "123 148 xx xx" : 18
-    "123 149 xx xx" : 7
-    "123 150 xx xx" : 7
-    "123 151 xx xx" : 2
+    "123 147 xx xx" : 24
+    "123 148 xx xx" : 20
+    "123 149 xx xx" : 13
+    "123 150 xx xx" : 8
+    "123 151 xx xx" : 3
     "123 152 xx xx" : 5
-    "123 153 xx xx" : 6
+    "123 153 xx xx" : 8
     "123 154 xx xx" : 6
-    "123 155 xx xx" : 8
-    "123 156 xx xx" : 7
+    "123 155 xx xx" : 15
+    "123 156 xx xx" : 12
     "123 157 xx xx" : 7
     "123 158 xx xx" : 6
     "123 159 xx xx" : 6
@@ -288,7 +288,7 @@ pie title Distribution
     "123 263 xx xx" : 15
     "123 264 xx xx" : 9
     "123 265 xx xx" : 3
-    "123 266 xx xx" : 8
+    "123 266 xx xx" : 9
     "123 267 xx xx" : 6
     "123 268 xx xx" : 8
     "123 269 xx xx" : 17
@@ -324,7 +324,7 @@ pie title Distribution
     "123 300 xx xx" : 1
     "123 301 xx xx" : 1
     "123 302 xx xx" : 5
-    "123 303 xx xx" : 14
+    "123 303 xx xx" : 13
     "123 304 xx xx" : 19
     "123 305 xx xx" : 14
     "123 306 xx xx" : 8
@@ -393,7 +393,7 @@ pie title Distribution
     "123 370 xx xx" : 5
     "123 371 xx xx" : 11
     "123 372 xx xx" : 1
-    "123 373 xx xx" : 6
+    "123 373 xx xx" : 7
     "123 374 xx xx" : 4
     "123 375 xx xx" : 1
     "123 377 xx xx" : 4
@@ -632,7 +632,7 @@ pie title Distribution
     "123 616 xx xx" : 7
     "123 617 xx xx" : 10
     "123 618 xx xx" : 10
-    "123 619 xx xx" : 4
+    "123 619 xx xx" : 5
     "123 620 xx xx" : 3
     "123 621 xx xx" : 15
     "123 622 xx xx" : 3
