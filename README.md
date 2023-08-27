@@ -24,7 +24,7 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***5603*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***5628*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
@@ -193,18 +193,18 @@ pie title Distribution
     "123 161 xx xx" : 20
     "123 162 xx xx" : 15
     "123 163 xx xx" : 4
-    "123 165 xx xx" : 5
+    "123 165 xx xx" : 8
     "123 166 xx xx" : 8
-    "123 167 xx xx" : 8
-    "123 168 xx xx" : 4
-    "123 170 xx xx" : 12
-    "123 171 xx xx" : 4
-    "123 172 xx xx" : 11
-    "123 173 xx xx" : 11
-    "123 174 xx xx" : 17
-    "123 175 xx xx" : 6
+    "123 167 xx xx" : 10
+    "123 168 xx xx" : 5
+    "123 170 xx xx" : 14
+    "123 171 xx xx" : 6
+    "123 172 xx xx" : 14
+    "123 173 xx xx" : 12
+    "123 174 xx xx" : 19
+    "123 175 xx xx" : 9
     "123 176 xx xx" : 7
-    "123 177 xx xx" : 7
+    "123 177 xx xx" : 9
     "123 178 xx xx" : 4
     "123 179 xx xx" : 8
     "123 180 xx xx" : 11
@@ -253,7 +253,7 @@ pie title Distribution
     "123 225 xx xx" : 16
     "123 226 xx xx" : 9
     "123 227 xx xx" : 5
-    "123 228 xx xx" : 17
+    "123 228 xx xx" : 18
     "123 230 xx xx" : 17
     "123 231 xx xx" : 10
     "123 232 xx xx" : 11
@@ -324,7 +324,7 @@ pie title Distribution
     "123 300 xx xx" : 1
     "123 301 xx xx" : 1
     "123 302 xx xx" : 5
-    "123 303 xx xx" : 13
+    "123 303 xx xx" : 14
     "123 304 xx xx" : 19
     "123 305 xx xx" : 14
     "123 306 xx xx" : 8
@@ -383,7 +383,7 @@ pie title Distribution
     "123 360 xx xx" : 13
     "123 361 xx xx" : 4
     "123 362 xx xx" : 9
-    "123 363 xx xx" : 12
+    "123 363 xx xx" : 13
     "123 364 xx xx" : 6
     "123 365 xx xx" : 2
     "123 366 xx xx" : 5
@@ -489,7 +489,7 @@ pie title Distribution
     "123 471 xx xx" : 8
     "123 472 xx xx" : 1
     "123 473 xx xx" : 5
-    "123 474 xx xx" : 6
+    "123 474 xx xx" : 7
     "123 475 xx xx" : 1
     "123 476 xx xx" : 8
     "123 477 xx xx" : 2

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-08-27-rev-160613",
+    "date": "2023-08-27-rev-183308",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -14213,6 +14213,15 @@
       "web": "https://betlehemskyrkan.com/"
     },
     {
+      "entry": 1231650035,
+      "orgNumber": "829500-5204",
+      "orgName": "\u00c4lghults Sockens Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/alghult"
+    },
+    {
       "entry": 1231650142,
       "orgNumber": "802520-1966",
       "orgName": "SK4KO - Siljanbygdens S\u00e4ndareamat\u00f6rer - 7S4VL",
@@ -14221,6 +14230,26 @@
         "s\u00e4ndareamat\u00f6rer"
       ],
       "web": "https://www.sk4ko.com/"
+    },
+    {
+      "entry": 1231655570,
+      "orgNumber": "857204-8075",
+      "orgName": "Slottsskogsobservatoriets V\u00e4nner",
+      "categories": [
+        "astronomi",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://slottsskogsobservatoriet.se/"
+    },
+    {
+      "entry": 1231656826,
+      "orgNumber": "802513-5719",
+      "orgName": "2HELPINGHANDS",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "ideell f\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/eva2helpinghands"
     },
     {
       "entry": 1231657261,
@@ -14356,6 +14385,15 @@
       "web": "https://www.svenskakyrkan.se/gavle"
     },
     {
+      "entry": 1231670728,
+      "orgNumber": "802489-9265",
+      "orgName": "Muslim Aid Sweden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://muslimaid.se/"
+    },
+    {
       "entry": 1231670793,
       "orgNumber": "802537-4557",
       "orgName": "MCACA - Many Cares Against Child Abuse",
@@ -14429,6 +14467,26 @@
       "web": "https://www.omduvill.se/"
     },
     {
+      "entry": 1231679505,
+      "orgNumber": "556384-7812",
+      "orgName": "\u00d6rebro City Golf & CC",
+      "comment": "Greenfee Pay & Playbanan",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://orebrogolf.se/"
+    },
+    {
+      "entry": 1231684851,
+      "orgNumber": "865501-0687",
+      "orgName": "Stiftelsen Sk\u00f6vde Mosk\u00e9 och Kulturhus",
+      "categories": [
+        "religion",
+        "stiftelse"
+      ]
+    },
+    {
       "entry": 1231686997,
       "orgNumber": "829502-0815",
       "orgName": "Brottsofferjouren V\u00e4xj\u00f6",
@@ -14486,6 +14544,16 @@
       "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
     },
     {
+      "entry": 1231703214,
+      "orgNumber": "846000-1475",
+      "orgName": "Israels V\u00e4nner",
+      "categories": [
+        "religion",
+        "turistbyr\u00e5"
+      ],
+      "web": "https://www.israelsvanner.se/"
+    },
+    {
       "entry": 1231703230,
       "orgNumber": "826000-3739",
       "orgName": "Sm\u00e5lands St\u00f6varklubb",
@@ -14514,6 +14582,16 @@
         "hundsport"
       ],
       "web": "https://kaskagility.se/"
+    },
+    {
+      "entry": 1231704600,
+      "orgNumber": "556796-9257",
+      "orgName": "Ekuddens Camping / Kungs\u00f6r Camping AB",
+      "categories": [
+        "camping",
+        "logi"
+      ],
+      "web": "http://www.ekuddenscamping.com/"
     },
     {
       "entry": 1231705516,
@@ -14584,6 +14662,16 @@
       "web": "https://www.svenskalag.se/ifvaster/"
     },
     {
+      "entry": 1231713114,
+      "orgNumber": "802414-9398",
+      "orgName": "Parkinsonf\u00f6reningen Esl\u00f6v",
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://eslov.parkinsonskane.se/"
+    },
+    {
       "entry": 1231717115,
       "orgNumber": "802401-4576",
       "orgName": "Specialklubben Rhodesian Ridgeback Sverige, SRRS",
@@ -14593,6 +14681,16 @@
         "hunduppf\u00f6dning"
       ],
       "web": "https://www.srrs.org/"
+    },
+    {
+      "entry": 1231717446,
+      "orgNumber": "802600-9681",
+      "orgName": "Klippens FVO",
+      "categories": [
+        "fiskekort",
+        "fiskev\u00e5rd"
+      ],
+      "web": "https://friluftsguidelycksele.se/klippens-fvo/"
     },
     {
       "entry": 1231717891,
@@ -14649,6 +14747,15 @@
       "web": "https://tranemolion.se/"
     },
     {
+      "entry": 1231720762,
+      "orgNumber": "826000-1436",
+      "orgName": "Equmeniakyrkan Huskvarna",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkanhuskvarna.se/"
+    },
+    {
       "entry": 1231721042,
       "orgNumber": "252001-4594",
       "orgName": "Stala F\u00f6rsamling",
@@ -14656,6 +14763,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/orust/stala-forsamling"
+    },
+    {
+      "entry": 1231721059,
+      "orgNumber": "252000-0908",
+      "orgName": "Nacka F\u00f6rsamling",
+      "comment": "Dagens kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/nacka"
     },
     {
       "entry": 1231721471,
@@ -14674,6 +14791,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.bjursashembygdsforening.com/"
+    },
+    {
+      "entry": 1231721711,
+      "orgNumber": "828500-0074",
+      "orgName": "Equmeniakyrkan Anderstorp",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.equmeniakyrkananderstorp.se/"
     },
     {
       "entry": 1231721943,
@@ -14811,6 +14937,17 @@
       "web": "https://www.kvanumsif.nu/"
     },
     {
+      "entry": 1231733807,
+      "orgNumber": "826000-2293",
+      "orgName": "J\u00f6nk\u00f6pings Rodds\u00e4llskap",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "roddklubb",
+        "rodds\u00e4llskap"
+      ],
+      "web": "https://www.roddarnas.se/"
+    },
+    {
       "entry": 1231734037,
       "orgNumber": "889200-2786",
       "orgName": "Hagakyrkan Sundsvall / Haga Baptistf\u00f6rsamling",
@@ -14907,6 +15044,15 @@
       "web": "https://www.vrigstad.nu/"
     },
     {
+      "entry": 1231745116,
+      "orgNumber": "867200-0364",
+      "orgName": "Hagakyrkan Habo",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://hagakyrkanhabo.se/"
+    },
+    {
       "entry": 1231745298,
       "orgNumber": "802410-8501",
       "orgName": "J\u00e4rnkaminerna",
@@ -14988,6 +15134,16 @@
       "web": "http://www.sefr.se/"
     },
     {
+      "entry": 1231747740,
+      "orgNumber": "832401-7964",
+      "orgName": "F\u00f6reningen Garpens V\u00e4nner",
+      "categories": [
+        "historief\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://garpen.se/"
+    },
+    {
       "entry": 1231747773,
       "orgNumber": "864501-8535",
       "orgName": "Elfsborgskatten",
@@ -15008,9 +15164,20 @@
       "web": "https://www.gnesta-mk.se/"
     },
     {
+      "entry": 1231756394,
+      "orgNumber": "556079-1575",
+      "orgName": "Jan-Olof Sundbergs \u00c5keri AB",
+      "categories": [
+        "transporttj\u00e4nst",
+        "\u00e5keri"
+      ],
+      "web": "https://www.sundbergs.se/"
+    },
+    {
       "entry": 1231757020,
       "orgNumber": "882601-2240",
       "orgName": "Sn\u00f6\u00e5 Golfklubb",
+      "comment": "Greenfee",
       "categories": [
         "golfklubb"
       ],
@@ -15035,6 +15202,26 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/visby"
+    },
+    {
+      "entry": 1231757764,
+      "orgNumber": "897600-2975",
+      "orgName": "Parkalompolo IK",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/PARKA/"
+    },
+    {
+      "entry": 1231757913,
+      "orgNumber": "817606-8032",
+      "orgName": "Ny Generation Elev och Studentorganisation",
+      "categories": [
+        "religion",
+        "studentorganisation"
+      ],
+      "web": "https://www.nygeneration.se/"
     },
     {
       "entry": 1231757954,
@@ -15132,6 +15319,15 @@
       "web": "https://www.jarnkaminerna.se/sofialaktaren-tifo/"
     },
     {
+      "entry": 1231772334,
+      "orgNumber": "819001-0861",
+      "orgName": "G\u00e5singe-Dilln\u00e4s Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/gasinge-dillnas"
+    },
+    {
       "entry": 1231775204,
       "orgNumber": "252002-4114",
       "orgName": "Skorpeds F\u00f6rsamling",
@@ -15196,6 +15392,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231779198,
+      "orgNumber": "559299-2894",
+      "orgName": "Pharos Media Productions AB",
+      "categories": [
+        "f\u00f6rlag",
+        "mediaproduktion"
+      ],
+      "web": "https://www.pharosmedia.se/"
     },
     {
       "entry": 1231779537,
@@ -18957,6 +19163,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.visbybbk.se/"
+    },
+    {
+      "entry": 1232288017,
+      "orgNumber": "252000-0908",
+      "orgName": "Nacka F\u00f6rsamling",
+      "comment": "Guds Hus",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/nacka"
     },
     {
       "entry": 1232288280,
@@ -24141,6 +24357,16 @@
       "web": "https://www.djurensvanner.se/skane"
     },
     {
+      "entry": 1233034329,
+      "orgNumber": "252000-0908",
+      "orgName": "Nacka F\u00f6rsamling",
+      "comment": "Diakonin i Nacka f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/nacka"
+    },
+    {
       "entry": 1233034360,
       "orgNumber": "252001-4628",
       "orgName": "Torp F\u00f6rsamling",
@@ -28642,6 +28868,16 @@
         "ridsport"
       ],
       "web": "https://www.tirk.se/"
+    },
+    {
+      "entry": 1233635851,
+      "orgNumber": "252000-0908",
+      "orgName": "Nacka F\u00f6rsamling",
+      "comment": "Gatubarn i Manilla",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/nacka"
     },
     {
       "entry": 1233636016,
@@ -35759,6 +35995,16 @@
         "musikf\u00f6rening"
       ],
       "web": "https://sites.google.com/view/clubufo-skurup/"
+    },
+    {
+      "entry": 1234748349,
+      "orgNumber": "895400-3607",
+      "orgName": "Joestr\u00f6m FVO",
+      "categories": [
+        "fiskekort",
+        "fiskev\u00e5rd"
+      ],
+      "web": "https://www.ifiske.se/fiske-joestrom-fvo.htm"
     },
     {
       "entry": 1234748695,
