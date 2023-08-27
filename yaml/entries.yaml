@@ -1,116 +1,5 @@
 entries:
 
-- entry: 1231631092
-  orgName: Avesta Diamonds BBK
-  orgNumber: 802538-4358
-  comment:
-  categories:
-  - idrottsförening
-  - basketbollklubb
-  web: https://www.laget.se/AvestaDBBK
-
-- entry: 1234373833
-  orgName: Aros Ice Cream
-  orgNumber: 969795-7307
-  comment:
-  categories:
-  - glasstillverkare
-  web: null
-
-- entry: 1231628254
-  orgName: Föreningen Vikingaskeppet Sigrid Storråda
-  orgNumber: 869001-0353
-  comment:
-  categories:
-  - intresseförening
-  - kulturförening
-  web: https://www.sigrid.se/
-
-- entry: 1231620897
-  orgName: Föreningen Kivik Tång
-  orgNumber: 802542-0400
-  comment:
-  categories:
-  - fritidsodling
-  - koloniförening
-  web: https://www.kiviktang.se/
-
-- entry: 1234408480
-  orgName: Träslövsläge IF
-  orgNumber: 849600-1374
-  comment:
-  categories:
-  - idrottsförening
-  web: https://www.tlif.se/
-
-- entry: 1231610641
-  orgName: Träslövsläge IF
-  orgNumber: 849600-1374
-  comment:
-  categories:
-  - idrottsförening
-  web: https://www.tlif.se/
-
-- entry: 1231619972
-  orgName: Juvelia Tennisarmband AB
-  orgNumber: 556483-4264
-  comment:
-  categories:
-  - smycken
-  web: https://tennisarmband.se/
-
-- entry: 1231611003
-  orgName: Ramviks Folkets Hus
-  orgNumber: 788000-1834
-  comment:
-  categories:
-  - folkets hus
-  - aktivitetshus
-  web: https://ramviksfolketshus.se/
-
-- entry: 1231611557
-  orgName: Give a Child a Family Sverige
-  orgNumber: 802500-3354
-  comment:
-  categories:
-  - hjälporganisation
-  web: https://gcf-sverige.se/
-
-- entry: 1231581958
-  orgName: Segelsällskapet Slören
-  orgNumber: 802457-2292
-  comment:
-  categories:
-  - segelsällskap
-  - segelklubb
-  web: http://sloren.se/
-
-- entry: 1233074531
-  orgName: Rent A Chef / Racademy AB
-  orgNumber: 559418-5844
-  comment: null
-  categories:
-  - catering
-  - bemanning
-  web: https://rentachef.com/
-
-- entry: 1231572486
-  orgName: Rent A Chef / Racademy AB
-  orgNumber: 559418-5844
-  comment: Göteborg
-  - catering
-  - bemanning
-  web: https://rentachef.com/
-
-- entry: 1231579218
-  orgName: Lerbergets Byalag
-  orgNumber: 743000-1714
-  comment:
-  categories:
-  - byalag
-  - hembygdsförening
-  web: https://lerberget.se/
-
 - entry: 1230003194
   orgName: Kungälv Kode Golfklubb
   orgNumber: 556323-9663
@@ -12272,6 +12161,15 @@ entries:
   - golfklubb
   web: https://www.nmgk.se/
 
+- entry: 1231572486
+  orgName: Rent A Chef / Racademy AB
+  orgNumber: 559418-5844
+  comment: Göteborg
+  categories:
+  - bemanning
+  - catering
+  web: https://rentachef.com/
+
 - entry: 1231574268
   orgName: Skarpa Kvinns
   orgNumber: 802476-4881
@@ -12294,6 +12192,15 @@ entries:
   categories:
   - religion
   web: https://vetlandafri.se/
+
+- entry: 1231579218
+  orgName: Lerbergets Byalag
+  orgNumber: 743000-1714
+  comment: null
+  categories:
+  - byalag
+  - hembygdsförening
+  web: https://lerberget.se/
 
 - entry: 1231579325
   orgName: Kafjärdens Församling
@@ -12345,6 +12252,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1231581958
+  orgName: Segelsällskapet Slören
+  orgNumber: 802457-2292
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: http://sloren.se/
 
 - entry: 1231581974
   orgName: Team Rynkeby
@@ -12536,6 +12452,14 @@ entries:
   - religion
   web: https://www.brannkyrka.org/
 
+- entry: 1231610641
+  orgName: Träslövsläge IF
+  orgNumber: 849600-1374
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.tlif.se/
+
 - entry: 1231610930
   orgName: Betaniaförsamlingen i Östra Ryd
   orgNumber: 825000-0158
@@ -12543,6 +12467,15 @@ entries:
   categories:
   - religion
   web: https://www.betaniaostraryd.se/
+
+- entry: 1231611003
+  orgName: Ramviks Folkets Hus
+  orgNumber: 788000-1834
+  comment: null
+  categories:
+  - aktivitetshus
+  - folkets hus
+  web: https://ramviksfolketshus.se/
 
 - entry: 1231611326
   orgName: Riksförbundet Sveriges 4H
@@ -12554,6 +12487,14 @@ entries:
   - riksförbund
   - ungdomsverksamhet
   web: https://www.4h.se/
+
+- entry: 1231611557
+  orgName: Give a Child a Family Sverige
+  orgNumber: 802500-3354
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://gcf-sverige.se/
 
 - entry: 1231612001
   orgName: Norrtälje Katthem
@@ -12676,6 +12617,23 @@ entries:
   - lionsklubb
   web: https://e-clubhouse.org/sites/simrishamn/
 
+- entry: 1231619972
+  orgName: Juvelia Tennisarmband AB
+  orgNumber: 556483-4264
+  comment: null
+  categories:
+  - smycken
+  web: https://tennisarmband.se/
+
+- entry: 1231620897
+  orgName: Föreningen Kivik Tång
+  orgNumber: 802542-0400
+  comment: null
+  categories:
+  - fritidsodling
+  - koloniförening
+  web: https://www.kiviktang.se/
+
 - entry: 1231624154
   orgName: Adventisterna i Lund
   orgNumber: 802529-6289
@@ -12736,6 +12694,15 @@ entries:
   - skytteklubb
   web: https://www.anderstorpsskf.se/
 
+- entry: 1231628254
+  orgName: Föreningen Vikingaskeppet Sigrid Storråda
+  orgNumber: 869001-0353
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.sigrid.se/
+
 - entry: 1231628908
   orgName: Mörbylånga-Kastlösa Församling
   orgNumber: 252002-7323
@@ -12787,6 +12754,15 @@ entries:
   - förening
   - musikförening
   web: https://www.bastadkammarmusik.se/
+
+- entry: 1231631092
+  orgName: Avesta Diamonds BBK
+  orgNumber: 802538-4358
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.laget.se/AvestaDBBK
 
 - entry: 1231639905
   orgName: Löfstadkyrkans Församling
@@ -22060,6 +22036,15 @@ entries:
   - ridskola
   web: https://www.balstaridskola.se/
 
+- entry: 1233074531
+  orgName: Rent A Chef / Racademy AB
+  orgNumber: 559418-5844
+  comment: null
+  categories:
+  - bemanning
+  - catering
+  web: https://rentachef.com/
+
 - entry: 1233075652
   orgName: Ingmarsspelen
   orgNumber: 882600-1482
@@ -29804,6 +29789,14 @@ entries:
   - idrottsförening
   web: https://www.malarbuggarna.com/
 
+- entry: 1234373833
+  orgName: Aros Ice Cream
+  orgNumber: 969795-7307
+  comment: null
+  categories:
+  - glasstillverkare
+  web: null
+
 - entry: 1234376141
   orgName: Föreningen Svenskbyborna
   orgNumber: 834000-9201
@@ -30074,6 +30067,14 @@ entries:
   comment: Skidsektionen
   categories: null
   web: https://www.uif.se/
+
+- entry: 1234408480
+  orgName: Träslövsläge IF
+  orgNumber: 849600-1374
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.tlif.se/
 
 - entry: 1234410601
   orgName: Team Rynkeby

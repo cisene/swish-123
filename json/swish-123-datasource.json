@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-08-26-rev-140843",
+    "date": "2023-08-27-rev-160613",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13506,6 +13506,17 @@
       "web": "https://www.nmgk.se/"
     },
     {
+      "entry": 1231572486,
+      "orgNumber": "559418-5844",
+      "orgName": "Rent A Chef / Racademy AB",
+      "comment": "G\u00f6teborg",
+      "categories": [
+        "bemanning",
+        "catering"
+      ],
+      "web": "https://rentachef.com/"
+    },
+    {
       "entry": 1231574268,
       "orgNumber": "802476-4881",
       "orgName": "Skarpa Kvinns",
@@ -13529,6 +13540,16 @@
         "religion"
       ],
       "web": "https://vetlandafri.se/"
+    },
+    {
+      "entry": 1231579218,
+      "orgNumber": "743000-1714",
+      "orgName": "Lerbergets Byalag",
+      "categories": [
+        "byalag",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://lerberget.se/"
     },
     {
       "entry": 1231579325,
@@ -13590,6 +13611,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231581958,
+      "orgNumber": "802457-2292",
+      "orgName": "Segels\u00e4llskapet Sl\u00f6ren",
+      "categories": [
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "http://sloren.se/"
+    },
+    {
       "entry": 1231581974,
       "orgNumber": "802533-7778",
       "orgName": "Team Rynkeby",
@@ -13634,7 +13665,8 @@
       "orgNumber": "556927-6214",
       "orgName": "AnnonsMarknan / Markbladet AB",
       "categories": [
-        "annonsblad"
+        "annonsblad",
+        "lokaltidning"
       ],
       "web": "https://annonsmarknan.se/"
     },
@@ -13805,6 +13837,15 @@
       "web": "https://www.brannkyrka.org/"
     },
     {
+      "entry": 1231610641,
+      "orgNumber": "849600-1374",
+      "orgName": "Tr\u00e4sl\u00f6vsl\u00e4ge IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tlif.se/"
+    },
+    {
       "entry": 1231610930,
       "orgNumber": "825000-0158",
       "orgName": "Betaniaf\u00f6rsamlingen i \u00d6stra Ryd",
@@ -13812,6 +13853,16 @@
         "religion"
       ],
       "web": "https://www.betaniaostraryd.se/"
+    },
+    {
+      "entry": 1231611003,
+      "orgNumber": "788000-1834",
+      "orgName": "Ramviks Folkets Hus",
+      "categories": [
+        "aktivitetshus",
+        "folkets hus"
+      ],
+      "web": "https://ramviksfolketshus.se/"
     },
     {
       "entry": 1231611326,
@@ -13824,6 +13875,15 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.4h.se/"
+    },
+    {
+      "entry": 1231611557,
+      "orgNumber": "802500-3354",
+      "orgName": "Give a Child a Family Sverige",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://gcf-sverige.se/"
     },
     {
       "entry": 1231612001,
@@ -13962,6 +14022,25 @@
       "web": "https://e-clubhouse.org/sites/simrishamn/"
     },
     {
+      "entry": 1231619972,
+      "orgNumber": "556483-4264",
+      "orgName": "Juvelia Tennisarmband AB",
+      "categories": [
+        "smycken"
+      ],
+      "web": "https://tennisarmband.se/"
+    },
+    {
+      "entry": 1231620897,
+      "orgNumber": "802542-0400",
+      "orgName": "F\u00f6reningen Kivik T\u00e5ng",
+      "categories": [
+        "fritidsodling",
+        "kolonif\u00f6rening"
+      ],
+      "web": "https://www.kiviktang.se/"
+    },
+    {
       "entry": 1231624154,
       "orgNumber": "802529-6289",
       "orgName": "Adventisterna i Lund",
@@ -14029,6 +14108,16 @@
       "web": "https://www.anderstorpsskf.se/"
     },
     {
+      "entry": 1231628254,
+      "orgNumber": "869001-0353",
+      "orgName": "F\u00f6reningen Vikingaskeppet Sigrid Storr\u00e5da",
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.sigrid.se/"
+    },
+    {
       "entry": 1231628908,
       "orgNumber": "252002-7323",
       "orgName": "M\u00f6rbyl\u00e5nga-Kastl\u00f6sa F\u00f6rsamling",
@@ -14085,6 +14174,16 @@
         "musikf\u00f6rening"
       ],
       "web": "https://www.bastadkammarmusik.se/"
+    },
+    {
+      "entry": 1231631092,
+      "orgNumber": "802538-4358",
+      "orgName": "Avesta Diamonds BBK",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/AvestaDBBK"
     },
     {
       "entry": 1231639905,
@@ -24509,6 +24608,16 @@
       "web": "https://www.balstaridskola.se/"
     },
     {
+      "entry": 1233074531,
+      "orgNumber": "559418-5844",
+      "orgName": "Rent A Chef / Racademy AB",
+      "categories": [
+        "bemanning",
+        "catering"
+      ],
+      "web": "https://rentachef.com/"
+    },
+    {
       "entry": 1233075652,
       "orgNumber": "882600-1482",
       "orgName": "Ingmarsspelen",
@@ -33084,6 +33193,14 @@
       "web": "https://www.malarbuggarna.com/"
     },
     {
+      "entry": 1234373833,
+      "orgNumber": "969795-7307",
+      "orgName": "Aros Ice Cream",
+      "categories": [
+        "glasstillverkare"
+      ]
+    },
+    {
       "entry": 1234376141,
       "orgNumber": "834000-9201",
       "orgName": "F\u00f6reningen Svenskbyborna",
@@ -33386,6 +33503,15 @@
       "orgName": "Ulricehamns IF",
       "comment": "Skidsektionen",
       "web": "https://www.uif.se/"
+    },
+    {
+      "entry": 1234408480,
+      "orgNumber": "849600-1374",
+      "orgName": "Tr\u00e4sl\u00f6vsl\u00e4ge IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tlif.se/"
     },
     {
       "entry": 1234410601,

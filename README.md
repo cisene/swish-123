@@ -24,7 +24,7 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***5590*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***5603*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
@@ -186,13 +186,13 @@ pie title Distribution
     "123 154 xx xx" : 6
     "123 155 xx xx" : 15
     "123 156 xx xx" : 12
-    "123 157 xx xx" : 7
-    "123 158 xx xx" : 6
+    "123 157 xx xx" : 9
+    "123 158 xx xx" : 7
     "123 159 xx xx" : 6
     "123 160 xx xx" : 11
-    "123 161 xx xx" : 16
-    "123 162 xx xx" : 13
-    "123 163 xx xx" : 3
+    "123 161 xx xx" : 20
+    "123 162 xx xx" : 15
+    "123 163 xx xx" : 4
     "123 165 xx xx" : 5
     "123 166 xx xx" : 8
     "123 167 xx xx" : 8
@@ -328,7 +328,7 @@ pie title Distribution
     "123 304 xx xx" : 19
     "123 305 xx xx" : 14
     "123 306 xx xx" : 8
-    "123 307 xx xx" : 4
+    "123 307 xx xx" : 5
     "123 308 xx xx" : 4
     "123 309 xx xx" : 3
     "123 311 xx xx" : 12
@@ -453,10 +453,10 @@ pie title Distribution
     "123 434 xx xx" : 4
     "123 435 xx xx" : 14
     "123 436 xx xx" : 3
-    "123 437 xx xx" : 2
+    "123 437 xx xx" : 3
     "123 438 xx xx" : 7
     "123 439 xx xx" : 6
-    "123 440 xx xx" : 16
+    "123 440 xx xx" : 17
     "123 441 xx xx" : 15
     "123 442 xx xx" : 7
     "123 443 xx xx" : 5
