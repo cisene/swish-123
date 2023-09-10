@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-08-27-rev-183308",
+    "date": "2023-09-10-rev-180715",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -15456,6 +15456,16 @@
       "web": "http://www.kristianstadsbk.se/"
     },
     {
+      "entry": 1231790476,
+      "orgNumber": "802481-5782",
+      "orgName": "Insamlingsstiftelsen Kurdiska R\u00f6da Solen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "stiftelse"
+      ],
+      "web": "https://rodasolen.se/"
+    },
+    {
       "entry": 1231790906,
       "orgNumber": "828000-8445",
       "orgName": "\u00c5senh\u00f6ga Hembygdsf\u00f6rening",
@@ -15493,6 +15503,16 @@
         "orienteringsklubb"
       ],
       "web": "https://www.nykopingsok.se/"
+    },
+    {
+      "entry": 1231791904,
+      "orgNumber": "556130-4519",
+      "orgName": "Atracco V\u00e4xj\u00f6",
+      "categories": [
+        "bildemontering",
+        "bil\u00e5tervinning"
+      ],
+      "web": "https://atracco.se/anlaggningar/atracco-vaxsjo/"
     },
     {
       "entry": 1231792159,
@@ -15542,6 +15562,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://ifkgoteborg.se/"
+    },
+    {
+      "entry": 1231801935,
+      "orgNumber": "846003-9251",
+      "orgName": "Islamic Centers F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.mosken.se/"
     },
     {
       "entry": 1231804970,
@@ -15738,6 +15767,15 @@
       "web": "https://www.emfk.se/"
     },
     {
+      "entry": 1231816552,
+      "orgNumber": "866600-2301",
+      "orgName": "Elimkyrkan Sk\u00f6vde Baptistf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.elimkyrkanskovde.se/"
+    },
+    {
       "entry": 1231818475,
       "orgNumber": "802001-9371",
       "orgName": "Kyrklig Samling",
@@ -15745,6 +15783,15 @@
         "religion"
       ],
       "web": "https://kyrkligsamling.se/"
+    },
+    {
+      "entry": 1231818756,
+      "orgNumber": "559193-2610",
+      "orgName": "Ekstr\u00f6m & Garay AB",
+      "categories": [
+        "f\u00f6rlag"
+      ],
+      "web": "https://ekstromgaray.se/"
     },
     {
       "entry": 1231819135,
@@ -15766,14 +15813,34 @@
       "web": "https://www.svenskakyrkan.se/stromsund/frostvikens-forsamling"
     },
     {
+      "entry": 1231823434,
+      "orgNumber": "802510-9359",
+      "orgName": "Gustav V\u00e5gstr\u00f6ms Minnesfond / KFUM \u00d6stersund Basket Ungdom",
+      "categories": [
+        "basketbollklubb",
+        "minnesfond"
+      ],
+      "web": "https://www.laget.se/KFUMOstersundBasketUngdom/"
+    },
+    {
       "entry": 1231823772,
       "orgNumber": "802004-1565",
       "orgName": "Svensk-Kubanska F\u00f6reningen",
       "comment": "Insamlingskontot Mediciner f\u00f6r Kuba",
       "categories": [
+        "hemlandsf\u00f6rening",
         "intressef\u00f6rening"
       ],
       "web": "https://svensk-kubanska.se/"
+    },
+    {
+      "entry": 1231823806,
+      "orgNumber": "802400-0526",
+      "orgName": "Djurskydd i \u00d6steuropa, Di\u00d6",
+      "categories": [
+        "djurskydd"
+      ],
+      "web": "https://www.djurskyddiost.se/"
     },
     {
       "entry": 1231824267,
@@ -15812,6 +15879,15 @@
         "religion"
       ],
       "web": "https://www.holsby.org/"
+    },
+    {
+      "entry": 1231829795,
+      "orgNumber": "836200-7794",
+      "orgName": "PRO S\u00f6lvesborg",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-blekinge/samorganisationer/samorganisation-solvesborg/foreningar/solvesborg.html"
     },
     {
       "entry": 1231834019,
@@ -17697,6 +17773,15 @@
         "myndighet"
       ],
       "web": "https://www.grastorp.se/uppleva-och-gora/bibliotek.html"
+    },
+    {
+      "entry": 1232137552,
+      "orgNumber": "829000-0622",
+      "orgName": "Pingstf\u00f6rsamlingen i Ljungby",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.ljungby.pingst.se/"
     },
     {
       "entry": 1232137800,
@@ -45149,6 +45234,15 @@
       "web": "https://labbehjartat.se/"
     },
     {
+      "entry": 1236025647,
+      "orgNumber": "866600-2301",
+      "orgName": "Elimkyrkan Sk\u00f6vde Baptistf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.elimkyrkanskovde.se/"
+    },
+    {
       "entry": 1236025662,
       "orgNumber": "802000-8184",
       "orgName": "EFS - Evangeliska Fosterlandsstiftelsen",
@@ -47856,6 +47950,16 @@
         "supporterklubb"
       ],
       "web": "https://www.kvillestreamen.se/"
+    },
+    {
+      "entry": 1236428189,
+      "orgNumber": "834001-3237",
+      "orgName": "Gotlands Motorf\u00f6renings Bilklubb",
+      "categories": [
+        "bilklubb",
+        "motorsport"
+      ],
+      "web": "https://gotlandsmfbk.se/"
     },
     {
       "entry": 1236429401,

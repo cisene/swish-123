@@ -13893,6 +13893,15 @@ entries:
   - hundsport
   web: http://www.kristianstadsbk.se/
 
+- entry: 1231790476
+  orgName: Insamlingsstiftelsen Kurdiska Röda Solen
+  orgNumber: 802481-5782
+  comment: null
+  categories:
+  - hjälporganisation
+  - stiftelse
+  web: https://rodasolen.se/
+
 - entry: 1231790906
   orgName: Åsenhöga Hembygdsförening
   orgNumber: 828000-8445
@@ -13926,6 +13935,15 @@ entries:
   - idrottsförening
   - orienteringsklubb
   web: https://www.nykopingsok.se/
+
+- entry: 1231791904
+  orgName: Atracco Växjö
+  orgNumber: 556130-4519
+  comment: null
+  categories:
+  - bildemontering
+  - bilåtervinning
+  web: https://atracco.se/anlaggningar/atracco-vaxsjo/
 
 - entry: 1231792159
   orgName: Piratpartiet
@@ -13970,6 +13988,14 @@ entries:
   categories:
   - idrottsförening
   web: https://ifkgoteborg.se/
+
+- entry: 1231801935
+  orgName: Islamic Centers Församling
+  orgNumber: 846003-9251
+  comment: null
+  categories:
+  - religion
+  web: https://www.mosken.se/
 
 - entry: 1231804970
   orgName: Tango Norteño
@@ -14054,6 +14080,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1231808369
+  orgName: Indonesienprojektet
+  orgNumber: 802513-4480
+  comment: null
+  categories:
+  - terminated
+  web: http://www.indonesienprojektet.se/
 
 - entry: 1231808757
   orgName: Frusna Tassar
@@ -14140,6 +14174,14 @@ entries:
   - sportflyg
   web: https://www.emfk.se/
 
+- entry: 1231816552
+  orgName: Elimkyrkan Skövde Baptistförsamling
+  orgNumber: 866600-2301
+  comment: null
+  categories:
+  - religion
+  web: https://www.elimkyrkanskovde.se/
+
 - entry: 1231818475
   orgName: Kyrklig Samling
   orgNumber: 802001-9371
@@ -14147,6 +14189,14 @@ entries:
   categories:
   - religion
   web: https://kyrkligsamling.se/
+
+- entry: 1231818756
+  orgName: Ekström & Garay AB
+  orgNumber: 559193-2610
+  comment: null
+  categories:
+  - förlag
+  web: https://ekstromgaray.se/
 
 - entry: 1231819135
   orgName: Alingsås Fotoklubb
@@ -14164,13 +14214,31 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/stromsund/frostvikens-forsamling
 
+- entry: 1231823434
+  orgName: Gustav Vågströms Minnesfond / KFUM Östersund Basket Ungdom
+  orgNumber: 802510-9359
+  comment: null
+  categories:
+  - basketbollklubb
+  - minnesfond
+  web: https://www.laget.se/KFUMOstersundBasketUngdom/
+
 - entry: 1231823772
   orgName: Svensk-Kubanska Föreningen
   orgNumber: 802004-1565
   comment: Insamlingskontot Mediciner för Kuba
   categories:
+  - hemlandsförening
   - intresseförening
   web: https://svensk-kubanska.se/
+
+- entry: 1231823806
+  orgName: Djurskydd i Östeuropa, DiÖ
+  orgNumber: 802400-0526
+  comment: null
+  categories:
+  - djurskydd
+  web: https://www.djurskyddiost.se/
 
 - entry: 1231824267
   orgName: SMU I Immanuelskyrkan Jönköping
@@ -14205,6 +14273,14 @@ entries:
   categories:
   - religion
   web: https://www.holsby.org/
+
+- entry: 1231829795
+  orgName: PRO Sölvesborg
+  orgNumber: 836200-7794
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-blekinge/samorganisationer/samorganisation-solvesborg/foreningar/solvesborg.html
 
 - entry: 1231834019
   orgName: Team Rynkeby
@@ -15874,6 +15950,14 @@ entries:
   - kommun
   - myndighet
   web: https://www.grastorp.se/uppleva-och-gora/bibliotek.html
+
+- entry: 1232137552
+  orgName: Pingstförsamlingen i Ljungby
+  orgNumber: 829000-0622
+  comment: null
+  categories:
+  - religion
+  web: https://www.ljungby.pingst.se/
 
 - entry: 1232137800
   orgName: Hassela IF
@@ -40442,6 +40526,14 @@ entries:
   - hundklubb
   web: https://labbehjartat.se/
 
+- entry: 1236025647
+  orgName: Elimkyrkan Skövde Baptistförsamling
+  orgNumber: 866600-2301
+  comment: null
+  categories:
+  - religion
+  web: https://www.elimkyrkanskovde.se/
+
 - entry: 1236025662
   orgName: EFS - Evangeliska Fosterlandsstiftelsen
   orgNumber: 802000-8184
@@ -42876,6 +42968,15 @@ entries:
   categories:
   - supporterklubb
   web: https://www.kvillestreamen.se/
+
+- entry: 1236428189
+  orgName: Gotlands Motorförenings Bilklubb
+  orgNumber: 834001-3237
+  comment: null
+  categories:
+  - bilklubb
+  - motorsport
+  web: https://gotlandsmfbk.se/
 
 - entry: 1236429401
   orgName: Svenska Epilepsiförbundet
