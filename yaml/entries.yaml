@@ -14292,6 +14292,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1231834480
+  orgName: Svenska Weimaranerklubben
+  orgNumber: 002870-1720
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://www.weimaranerklubben.se/
+
 - entry: 1231835420
   orgName: Nygammal Dansförening, NGDF
   orgNumber: 878000-6428
@@ -14353,6 +14362,15 @@ entries:
   - stiftelse
   web: https://www.blaljusisamverkan.se/
 
+- entry: 1231849397
+  orgName: Hasene Sverige
+  orgNumber: 802522-1121
+  comment: null
+  categories:
+  - hjälporganisation
+  - välgörenhet
+  web: https://hasene.se/
+
 - entry: 1231854223
   orgName: Västerås Trafikskola
   orgNumber: 559304-3002
@@ -14389,12 +14407,33 @@ entries:
   - skatepark
   web: http://www.luleaskatepark.com/
 
+- entry: 1231868280
+  orgName: Kulturkvarter Snösätra
+  orgNumber: 802526-3370
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.snosatra.com/
+
 - entry: 1231869585
   orgName: null
   orgNumber: null
   comment: null
   categories: null
   web: null
+
+- entry: 1231869759
+  orgName: Bräcke Strand / Syrligt AB
+  orgNumber: 556916-9245
+  comment: null
+  categories:
+  - badstrand
+  - gästbrygga
+  - gästhamn
+  - ställplats
+  - tältplats
+  web: http://www.brackestrand.se/
 
 - entry: 1231870229
   orgName: Pingstförsamlingen i Lindesberg
@@ -14412,6 +14451,46 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/grafsnassollebrunn/
 
+- entry: 1231871755
+  orgName: Odenplan Fightgym
+  orgNumber: 802475-6473
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  web: https://odenplanfightgym.com/
+
+- entry: 1231872811
+  orgName: Föreningen Smålands Husarer
+  orgNumber: 827000-5831
+  comment: null
+  categories:
+  - förening
+  - genealogi
+  - släktforskning
+  web: https://www.soldatreg.se/soldatreg/smalands-husarreg/
+
+- entry: 1231873116
+  orgName: Anders Olsson Golf AB
+  orgNumber: 556824-7810
+  comment: null
+  categories:
+  - golftränare
+  - golfutrustning
+  - utbildning
+  web: https://andersolssongolf.se/
+
+- entry: 1231880442
+  orgName: Föreningen Gärdslösa Prästgård
+  orgNumber: 802445-0119
+  comment: null
+  categories:
+  - antikvariat
+  - cafe
+  - hembygdsförening
+  - logi
+  web: http://www.gardslosaprastgard.se/
+
 - entry: 1231880939
   orgName: Sports Heart
   orgNumber: 802527-8824
@@ -14422,6 +14501,24 @@ entries:
   - ungdomsverksamhet
   - utbildning
   web: https://www.sportsheart.se/
+
+- entry: 1231881200
+  orgName: Stockholms Rullskidklubb
+  orgNumber: 802456-5221
+  comment: null
+  categories:
+  - idrottsförening
+  - rullskidklubb
+  web: https://stockholmsrullskidklubb.se/
+
+- entry: 1231881218
+  orgName: Visit Blekinge
+  orgNumber: 556975-8344
+  comment: null
+  categories:
+  - ställplats
+  - turism
+  web: https://www.visitblekinge.se/
 
 - entry: 1231881994
   orgName: Sommaro Golf AB
@@ -14455,6 +14552,15 @@ entries:
   categories:
   - stiftelse
   web: https://www.kronprinsessparetsstiftelse.se/
+
+- entry: 1231883420
+  orgName: Dagnys Träning / Donsö Idrottssällskap
+  orgNumber: 857204-0031
+  comment: null
+  categories:
+  - idrottsförening
+  - idrottssällskap
+  web: https://donsois.com/
 
 - entry: 1231884758
   orgName: Camp Sweden TIFO
@@ -35316,6 +35422,15 @@ entries:
   categories:
   - intresseförening
   web: https://www.pridelysekil.se/
+
+- entry: 1235234364
+  orgName: Hasene Sverige
+  orgNumber: 802522-1121
+  comment: null
+  categories:
+  - hjälporganisation
+  - välgörenhet
+  web: https://hasene.se/
 
 - entry: 1235240718
   orgName: Gävle Församling

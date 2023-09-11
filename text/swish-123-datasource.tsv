@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-09-10-rev-180715
+# Date: 2023-09-11-rev-191803
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1623,6 +1623,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231829738	827500-4730	Missionssällskapet Fackelbärarna	https://www.holsby.org/	religion	
 1231829795	836200-7794	PRO Sölvesborg	https://pro.se/distrikt/distrikt-blekinge/samorganisationer/samorganisation-solvesborg/foreningar/solvesborg.html	pensionärsklubb	
 1231834019	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Jönköping, Vittra Samset
+1231834480	002870-1720	Svenska Weimaranerklubben	https://www.weimaranerklubben.se/	hundklubb,hundsport	
 1231835420	878000-6428	Nygammal Dansförening, NGDF	http://www.ngdf.se/	dansförening,motionsdans	
 1231838036	849600-2562	Tvååkers IF	https://www.tvaakersif.se/	idrottsförening	Matlotteri
 1231839760	897300-0261	Kiruna jakt- och fiskevårdsförening	https://www.kirunajaktochfiske.se/	förening,naturvård,viltvård	Älgbanan(kula)
@@ -1630,17 +1631,27 @@ entry	orgNumber	orgName	web	categories	comment
 1231845494	814000-0756	Kvinnojouren Nacka Värmdö	https://www.unizonjourer.se/kvinnojourennackavarmdo/	kvinnojour	
 1231845791	802533-7778	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Dalarna, Morkarlbyhöjdensskola 7-9
 1231849173	802513-8150	Insamlingsstiftelsen Blåljus i Samverkan	https://www.blaljusisamverkan.se/	stiftelse	
+1231849397	802522-1121	Hasene Sverige	https://hasene.se/	hjälporganisation,välgörenhet	
 1231854223	559304-3002	Västerås Trafikskola	https://vasterastrafikskola.se/	trafikskola	
 1231856236	559057-6004	Nordic SeaFarm AB	https://www.nordicseafarm.com/	matproducent	
 1231859495	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Täby, Byleskolan
 1231859644	802438-2064	Luleå Skatepark / Luleå Extremsportförening	http://www.luleaskatepark.com/	extremsport,skateboard,skatepark	
+1231868280	802526-3370	Kulturkvarter Snösätra	https://www.snosatra.com/	intresseförening,kulturförening	
+1231869759	556916-9245	Bräcke Strand / Syrligt AB	http://www.brackestrand.se/	badstrand,gästbrygga,gästhamn,ställplats,tältplats	
 1231870229	877100-0521	Pingstförsamlingen i Lindesberg	https://www.pingstlindesberg.se/	religion	
 1231870765	863000-0167	Equmeniakyrkan Gräfsnäs Sollebrunn	https://equmeniakyrkan.se/grafsnassollebrunn/	religion	
+1231871755	802475-6473	Odenplan Fightgym	https://odenplanfightgym.com/	idrottsförening,kampsportsförening	
+1231872811	827000-5831	Föreningen Smålands Husarer	https://www.soldatreg.se/soldatreg/smalands-husarreg/	förening,genealogi,släktforskning	
+1231873116	556824-7810	Anders Olsson Golf AB	https://andersolssongolf.se/	golftränare,golfutrustning,utbildning	
+1231880442	802445-0119	Föreningen Gärdslösa Prästgård	http://www.gardslosaprastgard.se/	antikvariat,cafe,hembygdsförening,logi	
 1231880939	802527-8824	Sports Heart	https://www.sportsheart.se/	ideell förening,idrottsförening,ungdomsverksamhet,utbildning	
+1231881200	802456-5221	Stockholms Rullskidklubb	https://stockholmsrullskidklubb.se/	idrottsförening,rullskidklubb	
+1231881218	556975-8344	Visit Blekinge	https://www.visitblekinge.se/	ställplats,turism	
 1231881994	556347-5515	Sommaro Golf AB	http://www.sommarogolf.se/	golfklubb	
 1231882067	832400-7809	Vissefjärda Hembygdsförening	https://www.hembygd.se/vissefjarda	hembygdsförening	
 1231882216	814800-4610	Skånela IF Handboll	https://www.skanela.se/	handbollsklubb,idrottsförening	
 1231883396	802426-3702	Kronprinsessparets Stiftelse	https://www.kronprinsessparetsstiftelse.se/	stiftelse	
+1231883420	857204-0031	Dagnys Träning / Donsö Idrottssällskap	https://donsois.com/	idrottsförening,idrottssällskap	
 1231884758	802430-7962	Camp Sweden TIFO	http://campsweden.se/	fotboll,supporterklubb	
 1231886621	828500-5628	Västbo Judoklubb	https://vastbojudo.com/	judoklubb,kampsportsförening	Judoshopen
 1231886944	834000-7247	Västergarns Hembygdsförening	http://www.vastergarn.info/	hembygdsförening	
@@ -3987,6 +3998,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235230669	802533-7778	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Dalarna, Söderbaumska Skolan
 1235231790	802530-5890	Lokala Hjälpen - Tillsammans för Västerås	https://www.lokalahjalpen.se/	donation,hjälporganisation	
 1235232822	802508-4925	Pride Lysekil	https://www.pridelysekil.se/	intresseförening	
+1235234364	802522-1121	Hasene Sverige	https://hasene.se/	hjälporganisation,välgörenhet	
 1235240718	252004-9947	Gävle Församling	https://www.svenskakyrkan.se/gavle/heligatrefaldighetskyrka	religion	Heliga Trefaldighets kyrka kollekt
 1235241120	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Jönköping, Taheskolan
 1235241146	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Skaraborg, Lyrestad skola

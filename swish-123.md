@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-09-10-rev-180715
+Date:     2023-09-11-rev-191803
 ...
 
 # Swish 123 Nummer
@@ -1625,6 +1625,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231829738 | 827500-4730 | Missionssällskapet Fackelbärarna                                                                     |                           |
 | 1231829795 | 836200-7794 | PRO Sölvesborg                                                                                       |                           |
 | 1231834019 | 802533-7653 | Team Rynkeby                                                                                         | Jönköping, Vittra Samset  |
+| 1231834480 | 002870-1720 | Svenska Weimaranerklubben                                                                            |                           |
 | 1231835420 | 878000-6428 | Nygammal Dansförening, NGDF                                                                          |                           |
 | 1231838036 | 849600-2562 | Tvååkers IF                                                                                          | Matlotteri                |
 | 1231839760 | 897300-0261 | Kiruna jakt- och fiskevårdsförening                                                                  | Älgbanan(kula)            |
@@ -1632,17 +1633,27 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231845494 | 814000-0756 | Kvinnojouren Nacka Värmdö                                                                            |                           |
 | 1231845791 | 802533-7778 | Team Rynkeby                                                                                         | Dalarna, Morkarlbyhöjdensskola 7-9 |
 | 1231849173 | 802513-8150 | Insamlingsstiftelsen Blåljus i Samverkan                                                             |                           |
+| 1231849397 | 802522-1121 | Hasene Sverige                                                                                       |                           |
 | 1231854223 | 559304-3002 | Västerås Trafikskola                                                                                 |                           |
 | 1231856236 | 559057-6004 | Nordic SeaFarm AB                                                                                    |                           |
 | 1231859495 | 802534-5466 | Team Rynkeby                                                                                         | Täby, Byleskolan          |
 | 1231859644 | 802438-2064 | Luleå Skatepark / Luleå Extremsportförening                                                          |                           |
+| 1231868280 | 802526-3370 | Kulturkvarter Snösätra                                                                               |                           |
+| 1231869759 | 556916-9245 | Bräcke Strand / Syrligt AB                                                                           |                           |
 | 1231870229 | 877100-0521 | Pingstförsamlingen i Lindesberg                                                                      |                           |
 | 1231870765 | 863000-0167 | Equmeniakyrkan Gräfsnäs Sollebrunn                                                                   |                           |
+| 1231871755 | 802475-6473 | Odenplan Fightgym                                                                                    |                           |
+| 1231872811 | 827000-5831 | Föreningen Smålands Husarer                                                                          |                           |
+| 1231873116 | 556824-7810 | Anders Olsson Golf AB                                                                                |                           |
+| 1231880442 | 802445-0119 | Föreningen Gärdslösa Prästgård                                                                       |                           |
 | 1231880939 | 802527-8824 | Sports Heart                                                                                         |                           |
+| 1231881200 | 802456-5221 | Stockholms Rullskidklubb                                                                             |                           |
+| 1231881218 | 556975-8344 | Visit Blekinge                                                                                       |                           |
 | 1231881994 | 556347-5515 | Sommaro Golf AB                                                                                      |                           |
 | 1231882067 | 832400-7809 | Vissefjärda Hembygdsförening                                                                         |                           |
 | 1231882216 | 814800-4610 | Skånela IF Handboll                                                                                  |                           |
 | 1231883396 | 802426-3702 | Kronprinsessparets Stiftelse                                                                         |                           |
+| 1231883420 | 857204-0031 | Dagnys Träning / Donsö Idrottssällskap                                                               |                           |
 | 1231884758 | 802430-7962 | Camp Sweden TIFO                                                                                     |                           |
 | 1231886621 | 828500-5628 | Västbo Judoklubb                                                                                     | Judoshopen                |
 | 1231886944 | 834000-7247 | Västergarns Hembygdsförening                                                                         |                           |
@@ -3989,6 +4000,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235230669 | 802533-7778 | Team Rynkeby                                                                                         | Dalarna, Söderbaumska Skolan |
 | 1235231790 | 802530-5890 | Lokala Hjälpen - Tillsammans för Västerås                                                            |                           |
 | 1235232822 | 802508-4925 | Pride Lysekil                                                                                        |                           |
+| 1235234364 | 802522-1121 | Hasene Sverige                                                                                       |                           |
 | 1235240718 | 252004-9947 | Gävle Församling                                                                                     | Heliga Trefaldighets kyrka kollekt |
 | 1235241120 | 802533-7653 | Team Rynkeby                                                                                         | Jönköping, Taheskolan     |
 | 1235241146 | 802533-7794 | Team Rynkeby                                                                                         | Skaraborg, Lyrestad skola |

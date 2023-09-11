@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-09-10-rev-180715",
+    "date": "2023-09-11-rev-191803",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -15902,6 +15902,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231834480,
+      "orgNumber": "002870-1720",
+      "orgName": "Svenska Weimaranerklubben",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://www.weimaranerklubben.se/"
+    },
+    {
       "entry": 1231835420,
       "orgNumber": "878000-6428",
       "orgName": "Nygammal Dansf\u00f6rening, NGDF",
@@ -15973,6 +15983,16 @@
       "web": "https://www.blaljusisamverkan.se/"
     },
     {
+      "entry": 1231849397,
+      "orgNumber": "802522-1121",
+      "orgName": "Hasene Sverige",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://hasene.se/"
+    },
+    {
       "entry": 1231854223,
       "orgNumber": "559304-3002",
       "orgName": "V\u00e4ster\u00e5s Trafikskola",
@@ -16014,6 +16034,29 @@
       "web": "http://www.luleaskatepark.com/"
     },
     {
+      "entry": 1231868280,
+      "orgNumber": "802526-3370",
+      "orgName": "Kulturkvarter Sn\u00f6s\u00e4tra",
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.snosatra.com/"
+    },
+    {
+      "entry": 1231869759,
+      "orgNumber": "556916-9245",
+      "orgName": "Br\u00e4cke Strand / Syrligt AB",
+      "categories": [
+        "badstrand",
+        "g\u00e4stbrygga",
+        "g\u00e4sthamn",
+        "st\u00e4llplats",
+        "t\u00e4ltplats"
+      ],
+      "web": "http://www.brackestrand.se/"
+    },
+    {
       "entry": 1231870229,
       "orgNumber": "877100-0521",
       "orgName": "Pingstf\u00f6rsamlingen i Lindesberg",
@@ -16032,6 +16075,50 @@
       "web": "https://equmeniakyrkan.se/grafsnassollebrunn/"
     },
     {
+      "entry": 1231871755,
+      "orgNumber": "802475-6473",
+      "orgName": "Odenplan Fightgym",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://odenplanfightgym.com/"
+    },
+    {
+      "entry": 1231872811,
+      "orgNumber": "827000-5831",
+      "orgName": "F\u00f6reningen Sm\u00e5lands Husarer",
+      "categories": [
+        "f\u00f6rening",
+        "genealogi",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://www.soldatreg.se/soldatreg/smalands-husarreg/"
+    },
+    {
+      "entry": 1231873116,
+      "orgNumber": "556824-7810",
+      "orgName": "Anders Olsson Golf AB",
+      "categories": [
+        "golftr\u00e4nare",
+        "golfutrustning",
+        "utbildning"
+      ],
+      "web": "https://andersolssongolf.se/"
+    },
+    {
+      "entry": 1231880442,
+      "orgNumber": "802445-0119",
+      "orgName": "F\u00f6reningen G\u00e4rdsl\u00f6sa Pr\u00e4stg\u00e5rd",
+      "categories": [
+        "antikvariat",
+        "cafe",
+        "hembygdsf\u00f6rening",
+        "logi"
+      ],
+      "web": "http://www.gardslosaprastgard.se/"
+    },
+    {
       "entry": 1231880939,
       "orgNumber": "802527-8824",
       "orgName": "Sports Heart",
@@ -16042,6 +16129,26 @@
         "utbildning"
       ],
       "web": "https://www.sportsheart.se/"
+    },
+    {
+      "entry": 1231881200,
+      "orgNumber": "802456-5221",
+      "orgName": "Stockholms Rullskidklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "rullskidklubb"
+      ],
+      "web": "https://stockholmsrullskidklubb.se/"
+    },
+    {
+      "entry": 1231881218,
+      "orgNumber": "556975-8344",
+      "orgName": "Visit Blekinge",
+      "categories": [
+        "st\u00e4llplats",
+        "turism"
+      ],
+      "web": "https://www.visitblekinge.se/"
     },
     {
       "entry": 1231881994,
@@ -16079,6 +16186,16 @@
         "stiftelse"
       ],
       "web": "https://www.kronprinsessparetsstiftelse.se/"
+    },
+    {
+      "entry": 1231883420,
+      "orgNumber": "857204-0031",
+      "orgName": "Dagnys Tr\u00e4ning / Dons\u00f6 Idrottss\u00e4llskap",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "idrottss\u00e4llskap"
+      ],
+      "web": "https://donsois.com/"
     },
     {
       "entry": 1231884758,
@@ -39395,6 +39512,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.pridelysekil.se/"
+    },
+    {
+      "entry": 1235234364,
+      "orgNumber": "802522-1121",
+      "orgName": "Hasene Sverige",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://hasene.se/"
     },
     {
       "entry": 1235240718,
