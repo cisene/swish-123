@@ -30,7 +30,14 @@ I aktuell samling av Swish-nummer har vi ***5658*** verifierade nummer. Dessa ut
 
 ```mermaid
 pie title Distribution
-
+    "123 0 xx xx" : 877
+    "123 1 xx xx" : 846
+    "123 2 xx xx" : 748
+    "123 3 xx xx" : 706
+    "123 4 xx xx" : 620
+    "123 5 xx xx" : 759
+    "123 6 xx xx" : 671
+    "123 9 xx xx" : 431
 ```
 
 ## Användning av information från Swish 123
