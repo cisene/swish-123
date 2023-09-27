@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-09-11-rev-191803",
+    "date": "2023-09-27-rev-192111",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -588,6 +588,15 @@
         "religion"
       ],
       "web": "https://www.turistkyrkan.org/"
+    },
+    {
+      "entry": 1230064469,
+      "orgNumber": "878001-8944",
+      "orgName": "Barkar\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/barkaro/"
     },
     {
       "entry": 1230065425,
@@ -19098,6 +19107,15 @@
       "web": "https://www.gotlandsmuseum.se/"
     },
     {
+      "entry": 1232259612,
+      "orgNumber": "817301-4526",
+      "orgName": "\u00d6regrunds Bygdeg\u00e5rdsf\u00f6rening Societetshuset",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://societetshusetoregrund.se/"
+    },
+    {
       "entry": 1232261121,
       "orgNumber": "556131-6026",
       "orgName": "MC-Kompaniet i V\u00e4ring AB",
@@ -24730,6 +24748,15 @@
       "web": "http://aiktifo.se/"
     },
     {
+      "entry": 1233048097,
+      "orgNumber": "879500-6942",
+      "orgName": "Ransta N\u00e4sta Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/ranstanasta/"
+    },
+    {
       "entry": 1233048162,
       "orgNumber": "761218-XXXX",
       "orgName": "Fr\u00f6ken Nilssons H\u00e4lsa / Annica Nilsson",
@@ -25850,6 +25877,15 @@
         "intresseorganisation"
       ],
       "web": "https://www.finngosaravinen.se/"
+    },
+    {
+      "entry": 1233213204,
+      "orgNumber": "873200-3911",
+      "orgName": "Fager\u00e5sens Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/fagerasen/"
     },
     {
       "entry": 1233214327,
@@ -34030,6 +34066,16 @@
       "web": "https://sbakvast.se/"
     },
     {
+      "entry": 1234413431,
+      "orgNumber": "878000-5578",
+      "orgName": "IK Oden",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsklubb"
+      ],
+      "web": "https://www.laget.se/IKOden/"
+    },
+    {
       "entry": 1234415568,
       "orgNumber": "894700-5842",
       "orgName": "Skellefte\u00e5 CK - Curling",
@@ -42052,6 +42098,14 @@
       "web": "https://www.pingstlidkoping.se/"
     },
     {
+      "entry": 1235558333,
+      "orgNumber": "898200-2647",
+      "orgName": "Bredvikens Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ]
+    },
+    {
       "entry": 1235559547,
       "orgNumber": "829500-6384",
       "orgName": "L\u00e5ngasj\u00f6 Hembygdsf\u00f6rening",
@@ -49175,6 +49229,16 @@
         "sportfiske"
       ],
       "web": "http://lilloringen.se/"
+    },
+    {
+      "entry": 1236621213,
+      "orgNumber": "894003-6554",
+      "orgName": "Kassj\u00f6 intresse- och bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.kassjo.se/"
     },
     {
       "entry": 1236621684,

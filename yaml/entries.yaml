@@ -1,14 +1,5 @@
 entries:
 
-- entry: 1234413431
-  orgName: IK Oden
-  orgNumber: 878000-5578
-  comment: null
-  categories:
-  - idrottsklubb
-  - fotbollsklubb
-  web: https://www.laget.se/IKOden/
-
 - entry: 1230003194
   orgName: Kungälv Kode Golfklubb
   orgNumber: 556323-9663
@@ -547,6 +538,14 @@ entries:
   categories:
   - religion
   web: https://www.turistkyrkan.org/
+
+- entry: 1230064469
+  orgName: Barkarö Bygdegårdsförening
+  orgNumber: 878001-8944
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/barkaro/
 
 - entry: 1230065425
   orgName: Arnäs Trädgårdsförening
@@ -17154,6 +17153,14 @@ entries:
   - förening
   web: https://www.gotlandsmuseum.se/
 
+- entry: 1232259612
+  orgName: Öregrunds Bygdegårdsförening Societetshuset
+  orgNumber: 817301-4526
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://societetshusetoregrund.se/
+
 - entry: 1232261121
   orgName: MC-Kompaniet i Väring AB
   orgNumber: 556131-6026
@@ -22166,6 +22173,14 @@ entries:
   - supporterklubb
   web: http://aiktifo.se/
 
+- entry: 1233048097
+  orgName: Ransta Nästa Bygdegårdsförening
+  orgNumber: 879500-6942
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/ranstanasta/
+
 - entry: 1233048162
   orgName: Fröken Nilssons Hälsa / Annica Nilsson
   orgNumber: 761218-XXXX
@@ -23170,6 +23185,14 @@ entries:
   - förening
   - intresseorganisation
   web: https://www.finngosaravinen.se/
+
+- entry: 1233213204
+  orgName: Fageråsens Bygdegårdsförening
+  orgNumber: 873200-3911
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/fagerasen/
 
 - entry: 1233214327
   orgName: Elsas Blommor i Östercentrum
@@ -30550,6 +30573,15 @@ entries:
   - hundsport
   web: https://sbakvast.se/
 
+- entry: 1234413431
+  orgName: IK Oden
+  orgNumber: 878000-5578
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsklubb
+  web: https://www.laget.se/IKOden/
+
 - entry: 1234415568
   orgName: Skellefteå CK - Curling
   orgNumber: 894700-5842
@@ -34885,6 +34917,13 @@ entries:
   - intresseförening
   web: https://abiskointresseforening.weebly.com/
 
+- entry: 1235149794
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1235151253
   orgName: Swedish Animation and Visual Arts, SAAVA
   orgNumber: 802442-6861
@@ -37685,6 +37724,14 @@ entries:
   categories:
   - donation
   web: https://www.pingstlidkoping.se/
+
+- entry: 1235558333
+  orgName: Bredvikens Bygdegårdsförening
+  orgNumber: 898200-2647
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: null
 
 - entry: 1235559547
   orgName: Långasjö Hembygdsförening
@@ -44090,6 +44137,15 @@ entries:
   - fiskeklubb
   - sportfiske
   web: http://lilloringen.se/
+
+- entry: 1236621213
+  orgName: Kassjö intresse- och bygdegårdsförening
+  orgNumber: 894003-6554
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - intresseförening
+  web: https://www.kassjo.se/
 
 - entry: 1236621684
   orgName: Smedstorps Byalag och Bygdegårdsförening
