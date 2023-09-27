@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-09-27-rev-193731",
+    "date": "2023-09-28-rev-005404",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5440,6 +5440,15 @@
       "web": "https://varmlandsdreverklubb.wordpress.com/"
     },
     {
+      "entry": 1230637637,
+      "orgNumber": "866001-3593",
+      "orgName": "Hyssnabornas Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://hyssnabygdegard.se/"
+    },
+    {
       "entry": 1230637967,
       "orgNumber": "802505-5255",
       "orgName": "Demokratibygget",
@@ -5753,6 +5762,15 @@
         "supporterklubb"
       ],
       "web": "https://pekingfanz.nu/"
+    },
+    {
+      "entry": 1230691386,
+      "orgNumber": "802500-5623",
+      "orgName": "\u00d6ver-Enh\u00f6rna Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.overenhorna.se/"
     },
     {
       "entry": 1230691766,
@@ -13579,6 +13597,15 @@
       "web": "http://www.lerakragolf.se/"
     },
     {
+      "entry": 1231579580,
+      "orgNumber": "815600-3058",
+      "orgName": "Turinge-Taxinge Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/turinge-taxinge"
+    },
+    {
       "entry": 1231579705,
       "orgNumber": "822000-2805",
       "orgName": "Link\u00f6pings Missionsf\u00f6rsamling",
@@ -15718,6 +15745,15 @@
         "supporterklubb"
       ],
       "web": "http://www.rs96.se/"
+    },
+    {
+      "entry": 1231814466,
+      "orgNumber": "816000-6840",
+      "orgName": "K\u00e5rsta-Ekskogen Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegarden.nu/"
     },
     {
       "entry": 1231814482,
@@ -22942,6 +22978,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1232772507,
+      "orgNumber": "898200-2688",
+      "orgName": "Korpik\u00e5 Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/hitta-bygdegard/korpika/"
+    },
+    {
       "entry": 1232772820,
       "orgNumber": "829000-1489",
       "orgName": "Ljungby IF",
@@ -26192,6 +26237,15 @@
       "web": "https://www.adestam.se/"
     },
     {
+      "entry": 1233248630,
+      "orgNumber": "817602-9927",
+      "orgName": "Stavby Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://www.stavby.se/"
+    },
+    {
       "entry": 1233248820,
       "orgNumber": "550203-XXXX",
       "orgName": "Musikvalvet Baggen - A-C S\u00e5ng & Konsert / Ann-Christin Edblad",
@@ -27494,6 +27548,16 @@
         "supporterklubb"
       ],
       "web": "http://aiktifo.se/"
+    },
+    {
+      "entry": 1233444536,
+      "orgNumber": "816400-0617",
+      "orgName": "Ingmars\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
+      "comment": "Bygdeg\u00e5rden Lurkan",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://ingmarso.se/ingmarso/bygdegard/"
     },
     {
       "entry": 1233444957,
@@ -43602,6 +43666,15 @@
       "web": "https://afasi.se/"
     },
     {
+      "entry": 1235763305,
+      "orgNumber": "894003-2991",
+      "orgName": "Mullsj\u00f6 Bygdeg\u00e5rsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.mullsjo-nordmaling.nu/mullsjo-bgf/"
+    },
+    {
       "entry": 1235763453,
       "orgNumber": "857206-9568",
       "orgName": "Drakbergsskolan / Kanneb\u00e4cks friskolef\u00f6rening",
@@ -46233,6 +46306,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.brottsofferjouren.se/"
+    },
+    {
+      "entry": 1236157879,
+      "orgNumber": "816400-0617",
+      "orgName": "Ingmars\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
+      "comment": "Byalaget",
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://ingmarso.se/om-byalaget/"
     },
     {
       "entry": 1236158471,

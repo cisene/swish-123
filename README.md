@@ -24,7 +24,7 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***5658*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***5667*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
@@ -36,7 +36,7 @@ pie title Distribution
     "123 03x xx xx" : 91
     "123 04x xx xx" : 111
     "123 05x xx xx" : 69
-    "123 06x xx xx" : 68
+    "123 06x xx xx" : 70
     "123 07x xx xx" : 106
     "123 08x xx xx" : 100
     "123 09x xx xx" : 77
@@ -45,10 +45,10 @@ pie title Distribution
     "123 12x xx xx" : 88
     "123 13x xx xx" : 96
     "123 14x xx xx" : 96
-    "123 15x xx xx" : 79
+    "123 15x xx xx" : 80
     "123 16x xx xx" : 81
     "123 17x xx xx" : 104
-    "123 18x xx xx" : 76
+    "123 18x xx xx" : 77
     "123 19x xx xx" : 64
     "123 20x xx xx" : 63
     "123 21x xx xx" : 88
@@ -57,14 +57,14 @@ pie title Distribution
     "123 24x xx xx" : 48
     "123 25x xx xx" : 61
     "123 26x xx xx" : 84
-    "123 27x xx xx" : 89
+    "123 27x xx xx" : 90
     "123 28x xx xx" : 71
     "123 29x xx xx" : 64
     "123 30x xx xx" : 75
     "123 31x xx xx" : 57
-    "123 32x xx xx" : 77
+    "123 32x xx xx" : 78
     "123 33x xx xx" : 81
-    "123 34x xx xx" : 58
+    "123 34x xx xx" : 59
     "123 35x xx xx" : 84
     "123 36x xx xx" : 59
     "123 37x xx xx" : 51
@@ -87,11 +87,11 @@ pie title Distribution
     "123 54x xx xx" : 72
     "123 55x xx xx" : 77
     "123 56x xx xx" : 79
-    "123 57x xx xx" : 77
+    "123 57x xx xx" : 78
     "123 58x xx xx" : 69
     "123 59x xx xx" : 59
     "123 60x xx xx" : 76
-    "123 61x xx xx" : 72
+    "123 61x xx xx" : 73
     "123 62x xx xx" : 77
     "123 63x xx xx" : 59
     "123 64x xx xx" : 61

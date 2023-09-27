@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-09-27-rev-193731
+# Date: 2023-09-28-rev-005404
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -561,6 +561,7 @@
 "1230634626","556727-1522","Horns Skärgårdscamping / NFS Marin AB","https://www.hornscamping.se/","camping,logi,stuguthyrning",""
 "1230635714","802508-5856","Tankesmedjan Balans","https://tankesmedjanbalans.se/","tankesmedja",""
 "1230637173","802524-8165","Värmlands dreverklubb","https://varmlandsdreverklubb.wordpress.com/","hundklubb,hundsport",""
+"1230637637","866001-3593","Hyssnabornas Bygdegårdsförening","https://hyssnabygdegard.se/","bygdegårdsförening",""
 "1230637967","802505-5255","Demokratibygget","https://demokratibygget.se/","utbildning",""
 "1230642389","885000-9039","Gävle Folkmusikförening","https://www.gavlefolk.se/","förening,kulturförening,musikförening",""
 "1230642900","879500-0671","Norrby Hembygdsförening","https://www.hembygd.se/norrby-hembygdsf-rening","hembygdsförening",""
@@ -593,6 +594,7 @@
 "1230689802","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Stockholm, Bromma Enskilda skola"
 "1230691097","885001-9079","Rudsjö Scoutkår","https://rudsjo.scout.se/","scoutkår",""
 "1230691212","825003-3209","Peking Fanz","https://pekingfanz.nu/","supporterklubb",""
+"1230691386","802500-5623","Över-Enhörna Bygdegårdsförening","https://www.overenhorna.se/","bygdegårdsförening",""
 "1230691766","894701-8399","Åbyn-Byske Brukshundklubb","https://www.abynbyskebk.hundpoolen.nu/","brukshundsklubb,hundsport",""
 "1230692558","877100-9951","Nora Släktforskarklubb","https://noraforskare.se/","genealogi,släktforskning",""
 "1230692582","802445-3709","Kallhäll 4H-gård","https://www.4h.se/kallhall/","4h",""
@@ -1390,6 +1392,7 @@
 "1231579218","743000-1714","Lerbergets Byalag","https://lerberget.se/","byalag,hembygdsförening",""
 "1231579325","252002-6028","Kafjärdens Församling","https://www.svenskakyrkan.se/kafjarden","religion",""
 "1231579440","835600-7289","Leråkra Golfklubb","http://www.lerakragolf.se/","golfklubb",""
+"1231579580","815600-3058","Turinge-Taxinge Hembygdsförening","https://www.hembygd.se/turinge-taxinge","hembygdsförening",""
 "1231579705","822000-2805","Linköpings Missionsförsamling","https://equmeniakyrkanlinkoping.se/","religion","Ungdomssektionen"
 "1231579838","839400-8810","GK Engelholmsgymnasterna","https://engelholmsgymnasterna.sportadmin.se/","gymnastikförening,idrottsförening",""
 "1231581685","885001-4542","Hedesundavävarna och Skaparbyn / Stiftelsen Hedesundavävarna","http://skaparbyn.nu/","stiftelse",""
@@ -1605,6 +1608,7 @@
 "1231812296","827501-1412","Holsby Frikyrka","http://holsbyfrikyrka.se/","religion","Holsby UV-scoutkår"
 "1231813138","875002-6380","Hrimfaxi Islandshästklubb - Islandshäst","https://www.hrimfaxi.se/","islandshäst,ridklubb,ryttarförening",""
 "1231813534","802433-4115","Redhawks Support","http://www.rs96.se/","supporterklubb",""
+"1231814466","816000-6840","Kårsta-Ekskogen Bygdegårdsförening","https://bygdegarden.nu/","bygdegårdsförening",""
 "1231814482","828001-0359","Sveriges Veteranförbund, SVF","https://www.sverigesveteranforbund.se/","förbund,förening",""
 "1231814565","813600-0349","Lidingö Hembygdsförening","https://www.lidingohembygd.se/","hembygdsförening",""
 "1231814706","670602-XXXX","Livet Och Själen i Varberg / Ann Häggebrant","https://www.livetochsjalen.se/","healing,meditation,par-terapi,reiki,spiritualism,tarot,yoga",""
@@ -2326,6 +2330,7 @@
 "1232772242","802457-4736","Eksätra Ryttarsällskap","https://idrottonline.se/EksatraRS-Ridsport/","hästsport,ridsport,ryttarsällskap",""
 "1232772473","802533-7786","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Lund, Tottarpsskola"
 "1232772499","802537-0241","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Sjuhärad, Dannikeskolan"
+"1232772507","898200-2688","Korpikå Bygdegårdsförening","https://bygdegardarna.se/hitta-bygdegard/korpika/","bygdegårdsförening",""
 "1232772820","829000-1489","Ljungby IF","https://www.ljungbyif.nu/","fotbollsklubb,idrottsförening","Fotboll"
 "1232777316","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Stockholm, Alsike skola"
 "1232777845","834001-8053","Gotlands Stövarklubb, GSK","https://www.gotlandsstovarklubb.se/","hundklubb,hundsport,stövarklubb",""
@@ -2656,6 +2661,7 @@
 "1233244621","802005-7058","Riksförbundet Vi Som Inte Röker, Visir","https://visominteroker.se/","folkhälsa,riksförbund",""
 "1233244779","817602-9596","Armeniska riksförbundet i Sverige (ARS)","https://armeniska.se/","förening,hemlandsförening",""
 "1233246568","559356-7729","Elias Adestam AB","https://www.adestam.se/","motorsport",""
+"1233248630","817602-9927","Stavby Bygdegårdsförening","http://www.stavby.se/","bygdegårdsförening",""
 "1233248820","550203-XXXX","Musikvalvet Baggen - A-C Sång & Konsert / Ann-Christin Edblad","http://musikvalvet.se/","konsert,restaurant",""
 "1233257482","556866-0327","Restaurang Taiwan","https://www.restaurangtaiwan.se/","restaurant",""
 "1233258928","846001-3033","PRO Bara","https://www.probara.se/","pensionärsklubb",""
@@ -2787,6 +2793,7 @@
 "1233441953","858500-0196","Brattås CK - Friidrott","https://www.brattasfriidrott.se/","friidrottsförening,idrottsförening",""
 "1233442175","802401-9245","Arlanda MC - Motorcykel och Snöskoter","https://www.arlandamc.se/","motorcykelklubb,motorsport,snöskoterklubb",""
 "1233443496","802410-3072","AIK-Tifo","http://aiktifo.se/","supporterklubb",""
+"1233444536","816400-0617","Ingmarsö Bygdegårdsförening","https://ingmarso.se/ingmarso/bygdegard/","bygdegårdsförening","Bygdegården Lurkan"
 "1233444957","846001-3942","Föreningen - Neuro Malmö","https://neuro.se/","förening",""
 "1233445335","883202-2092","Aspeboda Ridklubb - Ridsport","https://idrottonline.se/AspebodaRidklubb-Ridsport/","hästsport,ridklubb",""
 "1233445707","876400-4829","Nolsokna Byalag","http://nolsokna.se/","byalag",""
@@ -4406,6 +4413,7 @@
 "1235763115","875000-2522","Stora Mellösa Baptistförsamling","http://www.baptistkyrkan.com/","religion",""
 "1235763156","869000-6286","Equmenia Lidköping","https://mklidkoping.se/","religion",""
 "1235763271","802010-2441","Afasiförbundet i Sverige","https://afasi.se/","förbund,intresseförening,psykisk hälsa","Afasifonden"
+"1235763305","894003-2991","Mullsjö Bygdegårsförening","https://www.mullsjo-nordmaling.nu/mullsjo-bgf/","bygdegårdsförening",""
 "1235763453","857206-9568","Drakbergsskolan / Kannebäcks friskoleförening","http://www.drakbergsskolan.se/","friskola,skola",""
 "1235763594","815200-5636","Lovö Hembygdsförening","http://www.lovohembygd.com/","hembygdsförening",""
 "1235763750","802434-8735","TangoJamt","https://tangojamt.com/","danskurser,dansundervisning",""
@@ -4674,6 +4682,7 @@
 "1236152581","888400-3735","Nordingrå EFS","https://www.svenskakyrkan.se/kramfors/nordingra-kyrka","religion",""
 "1236155352","556867-2264","Svedala Trafikskola AB","http://www.svedalatrafikskola.se/","trafikskola",""
 "1236156558","884402-0217","Brottsofferjouren Norra Dalarna","https://www.brottsofferjouren.se/","intresseförening",""
+"1236157879","816400-0617","Ingmarsö Bygdegårdsförening","https://ingmarso.se/om-byalaget/","byalag,bygdegårdsförening","Byalaget"
 "1236158471","879500-4673","Hela Människan Sala-Heby","https://helamanniskan.se/sala-heby/","hjälporganisation",""
 "1236158620","879500-3014","Sala Brukshundklubb","https://www.salabrukshundklubb.hundpoolen.nu/","brukshundsklubb,hundsport",""
 "1236158893","802426-7042","Stiftelsen Berättarministeriet","http://www.berattarministeriet.se/","stiftelse",""
