@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-09-28-rev-005404",
+    "date": "2023-09-30-rev-125503",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1257,6 +1257,15 @@
         "underh\u00e5llning"
       ],
       "web": "https://www.lillabandet.se/"
+    },
+    {
+      "entry": 1230140954,
+      "orgNumber": "734000-0277",
+      "orgName": "Burs Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.burs.nu/"
     },
     {
       "entry": 1230141374,
@@ -3509,6 +3518,15 @@
       "web": "https://helamanniskan.se/enkoping"
     },
     {
+      "entry": 1230411983,
+      "orgNumber": "825003-8059",
+      "orgName": "Gryts Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/gryt/"
+    },
+    {
       "entry": 1230412007,
       "orgNumber": "430626-XXXX",
       "orgName": "F\u00f6reningstj\u00e4nst i V\u00e4nersborg / Kaj Dahlqvist",
@@ -4143,6 +4161,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/stigtomta-vrena"
+    },
+    {
+      "entry": 1230471631,
+      "orgNumber": "889202-7460",
+      "orgName": "Hullsj\u00f6ns Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://hullsjon.se/"
     },
     {
       "entry": 1230472829,
@@ -5714,6 +5741,15 @@
         "yoga"
       ],
       "web": "https://hotyogahelsingborg.se/"
+    },
+    {
+      "entry": 1230684746,
+      "orgNumber": "802515-9198",
+      "orgName": "Tanums Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://tanumsbygdegard.com/"
     },
     {
       "entry": 1230686261,
@@ -8432,6 +8468,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/visby"
+    },
+    {
+      "entry": 1230970384,
+      "orgNumber": "872000-0309",
+      "orgName": "Lundsberg Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://lundsbergsbgf.se/"
     },
     {
       "entry": 1230970475,
@@ -14560,6 +14605,15 @@
       "web": "https://henrikjonsson.com/"
     },
     {
+      "entry": 1231699263,
+      "orgNumber": "814400-1172",
+      "orgName": "Loh\u00e4rads Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://loharadbygdegard.se/"
+    },
+    {
       "entry": 1231700707,
       "orgNumber": "559385-9886",
       "orgName": "S\u00e4va Ridcenter AB",
@@ -19243,6 +19297,15 @@
       "web": "https://nybro.pingst.se/"
     },
     {
+      "entry": 1232268852,
+      "orgNumber": "833200-6215",
+      "orgName": "Locknevi Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://locknevibygdegard.se/"
+    },
+    {
       "entry": 1232272953,
       "orgNumber": "802532-9916",
       "orgName": "Team Rynkeby",
@@ -23126,6 +23189,15 @@
       "web": "http://www.piteaskidskytte.se/"
     },
     {
+      "entry": 1232797496,
+      "orgNumber": "802542-9328",
+      "orgName": "\u00d6stra Tommarps Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://tommarpsbygdegard.wordpress.com/"
+    },
+    {
       "entry": 1232799351,
       "orgNumber": "802479-3518",
       "orgName": "Insamlingsstiftelsen Sk\u00e5nsk MTB Utveckling",
@@ -25253,6 +25325,15 @@
         "filateli"
       ],
       "web": "http://www.junefil.se/"
+    },
+    {
+      "entry": 1233111911,
+      "orgNumber": "866600-0610",
+      "orgName": "G\u00f6tlunda-Vads Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://gotlundabygdegard.se/"
     },
     {
       "entry": 1233112208,
@@ -27973,6 +28054,15 @@
       "web": "http://www.engstroms.se/"
     },
     {
+      "entry": 1233501350,
+      "orgNumber": "883200-8380",
+      "orgName": "Skebergs Bygdeg\u00e5rd",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://skeberg.se/"
+    },
+    {
       "entry": 1233501798,
       "orgNumber": "883201-8470",
       "orgName": "Furudals Bruks Golfklubb",
@@ -28707,6 +28797,15 @@
       "web": "https://livsluft.efssyd.org/"
     },
     {
+      "entry": 1233578267,
+      "orgNumber": "877100-7997",
+      "orgName": "J\u00e4rnbo\u00e5s Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://j\u00e4rnbo\u00e5s.se/foreningar-och-foretag-i-bygden/jarnboas-bygdegardsforening/"
+    },
+    {
       "entry": 1233578507,
       "orgNumber": "802008-7329",
       "orgName": "Kvarnvikens B\u00e5ts\u00e4llskap",
@@ -29403,6 +29502,15 @@
         "tr\u00e4dg\u00e5rdsf\u00f6rening"
       ],
       "web": "http://solvesborgstradgardsforening.se/"
+    },
+    {
+      "entry": 1233703691,
+      "orgNumber": "802499-0213",
+      "orgName": "Bygdeg\u00e5rdsf\u00f6reningen Hind\u00e5s station",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.hindasstation.se/"
     },
     {
       "entry": 1233705308,
@@ -30594,6 +30702,15 @@
         "tennisklubb"
       ],
       "web": "https://www.kalmartk.se/"
+    },
+    {
+      "entry": 1233886231,
+      "orgNumber": "884401-4301",
+      "orgName": "\u00d6na Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://www.onaby.se/"
     },
     {
       "entry": 1233887361,
@@ -33639,6 +33756,16 @@
       "web": "https://www.lillabandet.se/"
     },
     {
+      "entry": 1234351847,
+      "orgNumber": "862501-2060",
+      "orgName": "Bolstad Grinstad Byalag och Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bolstadgrinstadbyalag.se/"
+    },
+    {
       "entry": 1234352480,
       "orgNumber": "802519-1449",
       "orgName": "Vid Din Sida",
@@ -33853,6 +33980,15 @@
         "st\u00f6df\u00f6rening"
       ],
       "web": "https://varmland.boj.se/"
+    },
+    {
+      "entry": 1234394904,
+      "orgNumber": "817600-2759",
+      "orgName": "Ramsta Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://www.ramstabygdegard.se/"
     },
     {
       "entry": 1234396305,
@@ -34365,6 +34501,15 @@
         "volleybollklubb"
       ],
       "web": "https://orebrovolley.com/"
+    },
+    {
+      "entry": 1234452553,
+      "orgNumber": "817601-3996",
+      "orgName": "J\u00e4rl\u00e5sa Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://jarlasabygdegard.se/"
     },
     {
       "entry": 1234453056,
@@ -35828,6 +35973,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.ockelboatletklubb.se/"
+    },
+    {
+      "entry": 1234660106,
+      "orgNumber": "802413-8599",
+      "orgName": "Tegeltr\u00e4sk Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://aseleturism.se/produkter/boende/tegeltrask-bygdegard/"
     },
     {
       "entry": 1234661120,
@@ -40129,6 +40283,15 @@
       "web": "https://fenixflyg.se/"
     },
     {
+      "entry": 1235301502,
+      "orgNumber": "889600-8250",
+      "orgName": "Gide\u00e5 Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://gideagarden.se/"
+    },
+    {
       "entry": 1235302898,
       "orgNumber": "802454-5439",
       "orgName": "Enk\u00f6pings Kl\u00e4tterklubb",
@@ -40396,6 +40559,15 @@
         "golfklubb"
       ],
       "web": "https://ekholmsnasgolf.se/"
+    },
+    {
+      "entry": 1235332150,
+      "orgNumber": "837001-3057",
+      "orgName": "Farstorps Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://www.farstorps-bygdegaard.se/"
     },
     {
       "entry": 1235332846,
@@ -41891,6 +42063,15 @@
         "djurskydd"
       ],
       "web": "http://www.anglakatten.se/"
+    },
+    {
+      "entry": 1235527825,
+      "orgNumber": "862500-0263",
+      "orgName": "Dalskogs Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.dalskogsbygdegard.se/"
     },
     {
       "entry": 1235528179,
@@ -45272,6 +45453,15 @@
       "web": "https://sundsvallstrafikskola.se/"
     },
     {
+      "entry": 1236006944,
+      "orgNumber": "802401-9369",
+      "orgName": "Estuna Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://www.estunabygdegard.se/"
+    },
+    {
       "entry": 1236009617,
       "orgNumber": "802001-0313",
       "orgName": "Svenska Fornminnesf\u00f6reningen",
@@ -46050,7 +46240,7 @@
       "orgNumber": "791011-XXXX",
       "orgName": "\u00c4ltas medicinska fotv\u00e5rd & ReflexRummet",
       "categories": [
-        "fotv\u00e5rt"
+        "fotv\u00e5rd"
       ],
       "web": "https://www.bokadirekt.se/places/%C3%A4ltas-medicinska-fotv%C3%A5rd-&-reflexrummet-13606"
     },
@@ -46868,6 +47058,15 @@
       "web": "https://www.alegarden.se/"
     },
     {
+      "entry": 1236218705,
+      "orgNumber": "887501-0293",
+      "orgName": "H\u00e4llans Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://hallansbg.se/"
+    },
+    {
       "entry": 1236220628,
       "orgNumber": "830804-XXXX",
       "orgName": "K\u00f6ket \u00c5sele / Lisa Lindh",
@@ -47087,6 +47286,15 @@
         "scoutk\u00e5r"
       ],
       "web": "https://katrineholm.scout.se/"
+    },
+    {
+      "entry": 1236265086,
+      "orgNumber": "817300-1853",
+      "orgName": "Vendels Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.vendelsbygdegard.se/"
     },
     {
       "entry": 1236265342,
@@ -49687,6 +49895,15 @@
       "web": "https://www.kloverdamvm.se/"
     },
     {
+      "entry": 1236682520,
+      "orgNumber": "812401-2652",
+      "orgName": "Tyres\u00f6 Bygdeg\u00e5rd",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://tyresobygdegard.se/"
+    },
+    {
       "entry": 1236682801,
       "orgNumber": "650802-XXXX",
       "orgName": "Vita Raeda / Iris Kr\u00fcger",
@@ -50722,6 +50939,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://brannoforeningen.se/"
+    },
+    {
+      "entry": 1236805220,
+      "orgNumber": "802465-4702",
+      "orgName": "Ullers\u00e4ters Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://ullergarden.se/"
     },
     {
       "entry": 1236805519,
