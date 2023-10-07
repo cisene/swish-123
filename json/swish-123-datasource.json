@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-07-rev-141505",
+    "date": "2023-10-07-rev-153239",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6283,6 +6283,15 @@
       "web": "https://maketrade.se/"
     },
     {
+      "entry": 1230736124,
+      "orgNumber": "872800-1879",
+      "orgName": "Gr\u00e4s Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/gras/"
+    },
+    {
       "entry": 1230737031,
       "orgNumber": "556706-5262",
       "orgName": "V\u00e4ster\u00e5s Domkyrka",
@@ -7628,6 +7637,15 @@
         "kvinnojour"
       ],
       "web": "http://tjosa.se/"
+    },
+    {
+      "entry": 1230866939,
+      "orgNumber": "886501-0329",
+      "orgName": "R\u00f6ste Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.roste.nu/"
     },
     {
       "entry": 1230867127,
@@ -10060,6 +10078,15 @@
       "web": "https://ocdforbundet.se/"
     },
     {
+      "entry": 1231167931,
+      "orgNumber": "889202-6751",
+      "orgName": "Alby Sn\u00f6Skoterklubb",
+      "categories": [
+        "sn\u00f6skoterklubb"
+      ],
+      "web": "https://www.facebook.com/groups/1162351280541745/"
+    },
+    {
       "entry": 1231168590,
       "orgNumber": "802499-4439",
       "orgName": "Svenska Spaniel och Retrieverklubben - Pite\u00e5 sektionen",
@@ -10579,6 +10606,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://gammalkilshembygdsforening.se/"
+    },
+    {
+      "entry": 1231228990,
+      "orgNumber": "982600-4492",
+      "orgName": "Yankee Car Club",
+      "categories": [
+        "bilklubb"
+      ],
+      "web": "https://www.facebook.com/groups/ycc2013/"
     },
     {
       "entry": 1231229160,
@@ -11776,6 +11812,14 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/paletten"
+    },
+    {
+      "entry": 1231364728,
+      "orgNumber": "559441-6918",
+      "orgName": "Golftorget AB",
+      "categories": [
+        "golfutrustning"
+      ]
     },
     {
       "entry": 1231366038,
@@ -25928,6 +25972,15 @@
       "web": "https://www.hembygd.se/hembygdsforeningen-noraskog"
     },
     {
+      "entry": 1233170503,
+      "orgNumber": "817606-5962",
+      "orgName": "B\u00e4linge Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/balinge/"
+    },
+    {
       "entry": 1233173507,
       "orgNumber": "802535-2587",
       "orgName": "Kungsbacka Tillsammansodling",
@@ -25974,6 +26027,15 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenkullan/"
+    },
+    {
+      "entry": 1233194313,
+      "orgNumber": "862000-7875",
+      "orgName": "Steneby Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/steneby/"
     },
     {
       "entry": 1233194933,
@@ -27958,6 +28020,15 @@
       "web": "https://www.ibffalunu.se/"
     },
     {
+      "entry": 1233457801,
+      "orgNumber": "893200-8298",
+      "orgName": "\u00c5kersj\u00f6ns Sn\u00f6skoterklubb",
+      "categories": [
+        "sn\u00f6skoterklubb"
+      ],
+      "web": "https://akersjonssnoskoterklubb.se/"
+    },
+    {
       "entry": 1233457819,
       "orgNumber": "556647-1305",
       "orgName": "Dekalbolaget i Sala AB",
@@ -29604,6 +29675,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233664927,
+      "orgNumber": "857200-4904",
+      "orgName": "G\u00f6teborgs F\u00e4ktklubb",
+      "categories": [
+        "f\u00e4ktklubb"
+      ],
+      "web": "https://www.goteborgsfk.se/"
     },
     {
       "entry": 1233665635,
@@ -31304,6 +31384,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegarden.info/"
+    },
+    {
+      "entry": 1233942612,
+      "orgNumber": "857200-8830",
+      "orgName": "Knippla IK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "idrottsklubb"
+      ],
+      "web": "https://www.knippla.se/knippla-ik"
     },
     {
       "entry": 1233942935,
@@ -33256,6 +33346,15 @@
         "skyttesport"
       ],
       "web": "http://idrottonline.se/SkallingeSKF-Sportskytte"
+    },
+    {
+      "entry": 1234238416,
+      "orgNumber": "610414-XXXX",
+      "orgName": "Golftorget",
+      "categories": [
+        "golfutrustning"
+      ],
+      "web": "https://www.facebook.com/groups/golfklubbor"
     },
     {
       "entry": 1234239182,
@@ -35643,6 +35742,16 @@
         "hunduppf\u00f6dning"
       ],
       "web": "https://www.srrs.org/"
+    },
+    {
+      "entry": 1234572210,
+      "orgNumber": "878500-1747",
+      "orgName": "V\u00e4stra Skedvi Hembygds- och Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.vskedvi.se/"
     },
     {
       "entry": 1234572525,
@@ -40189,6 +40298,15 @@
       "web": "https://brobygoif.se/dans-i-broby/"
     },
     {
+      "entry": 1235257027,
+      "orgNumber": "886000-7825",
+      "orgName": "S\u00f6derala Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/soderala/"
+    },
+    {
       "entry": 1235261805,
       "orgNumber": "894001-0427",
       "orgName": "EFS Missionsf\u00f6rening i S\u00e4var",
@@ -43297,6 +43415,15 @@
       "web": "https://www.slu.se/fakulteter/vh/forskning/sallskapsdjurens_forskningsfond/"
     },
     {
+      "entry": 1235627153,
+      "orgNumber": "802446-9689",
+      "orgName": "Tureholms Nya Golfklubb",
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "http://tureholmsngk.se/"
+    },
+    {
       "entry": 1235627195,
       "orgNumber": "556889-8463",
       "orgName": "Webb.se / Perfect Sense AB",
@@ -45771,6 +45898,15 @@
         "f\u00f6rening"
       ],
       "web": "http://www.terapikolonier.se/"
+    },
+    {
+      "entry": 1235992607,
+      "orgNumber": "884400-3973",
+      "orgName": "Vika Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/vika-mora/"
     },
     {
       "entry": 1235994124,
@@ -48443,11 +48579,12 @@
     {
       "entry": 1236357594,
       "orgNumber": "982600-4492",
-      "orgName": "Yankee Car Club Borl\u00e4nge",
+      "orgName": "Yankee Car Club",
+      "comment": "Borl\u00e4nge Dragracing Klubb",
       "categories": [
         "bilklubb"
       ],
-      "web": "https://www.ycc.nu/"
+      "web": "https://www.facebook.com/groups/ycc2013/"
     },
     {
       "entry": 1236357925,
@@ -51821,6 +51958,15 @@
       "categories": [
         "sportanalys"
       ]
+    },
+    {
+      "entry": 1236882377,
+      "orgNumber": "884400-0441",
+      "orgName": "Dalfors Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/dalfors/"
     },
     {
       "entry": 1236883268,
