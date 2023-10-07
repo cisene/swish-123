@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-07-rev-023152",
+    "date": "2023-10-07-rev-121935",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -17502,6 +17502,15 @@
       "web": "https://www.linne.se/"
     },
     {
+      "entry": 1232074441,
+      "orgNumber": "893202-9823",
+      "orgName": "Guldsmedsbackens Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://guldsmebacken.se/"
+    },
+    {
       "entry": 1232080620,
       "orgNumber": "559166-0294",
       "orgName": "Cecilia Kyllinge Humor, Musik & Allvar AB",
@@ -19728,6 +19737,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1232308278,
+      "orgNumber": "734000-1820",
+      "orgName": "Hejnum Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://hejnum.se/"
+    },
+    {
       "entry": 1232309730,
       "orgNumber": "802534-5938",
       "orgName": "Team Rynkeby",
@@ -21885,6 +21903,15 @@
         "restaurant"
       ],
       "web": "https://nipponfrezon.se/"
+    },
+    {
+      "entry": 1232649077,
+      "orgNumber": "718000-3993",
+      "orgName": "Vilans Nya Byggnadsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://vilansbygdegard.se/"
     },
     {
       "entry": 1232649234,
@@ -34136,6 +34163,15 @@
       "web": "https://goteborg.nmrf.se/"
     },
     {
+      "entry": 1234403937,
+      "orgNumber": "869000-6344",
+      "orgName": "\u00d6ster\u00e4ngs Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://osterang.com/"
+    },
+    {
       "entry": 1234406666,
       "orgNumber": "823000-5467",
       "orgName": "Lions Club Mj\u00f6lby",
@@ -41041,6 +41077,15 @@
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/husie.html"
     },
     {
+      "entry": 1235381819,
+      "orgNumber": "878500-4998",
+      "orgName": "Torpa Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/torpabygdegard/"
+    },
+    {
       "entry": 1235382205,
       "orgNumber": "556810-7220",
       "orgName": "Lahti Group AB",
@@ -41134,6 +41179,15 @@
         "kajakklubb"
       ],
       "web": "https://www.luleakajakklubb.se/"
+    },
+    {
+      "entry": 1235392717,
+      "orgNumber": "839400-8992",
+      "orgName": "Aus\u00e5s Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.ausasbygdegard.se/"
     },
     {
       "entry": 1235393053,
@@ -47307,6 +47361,15 @@
       "web": "http://rehabhuset.com/"
     },
     {
+      "entry": 1236245674,
+      "orgNumber": "802544-5894",
+      "orgName": "V\u00e4sterlanda Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/vasterlanda/"
+    },
+    {
       "entry": 1236246110,
       "orgNumber": "802535-9137",
       "orgName": "Team Rynkeby",
@@ -48577,6 +48640,15 @@
         "motorsport"
       ],
       "web": "https://gotlandsmfbk.se/"
+    },
+    {
+      "entry": 1236429229,
+      "orgNumber": "868400-1673",
+      "orgName": "Malma Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.malmabygden.se/"
     },
     {
       "entry": 1236429401,

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-10-07-rev-023152
+# Date: 2023-10-07-rev-121935
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1784,6 +1784,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232073310	802468-9559	Kvinnojouren Olivia	https://www.unizonjourer.se/kvinnojourenolivia/	kvinnojour	
 1232073492	556706-5262	Bäckby Församling	https://www.svenskakyrkan.se/vasteras/backbykyrkan	religion	Diverse
 1232074235	916671-3934	Carl von Linnékliniken	https://www.linne.se/	fertilitetsklinik,hälsa	
+1232074441	893202-9823	Guldsmedsbackens Bygdegårdsförening	https://guldsmebacken.se/	bygdegårdsförening	
 1232080620	559166-0294	Cecilia Kyllinge Humor, Musik & Allvar AB	https://www.ceciliakyllinge.se/	musik,underhållning	
 1232084317	802533-7786	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Lund, Svalövs Montessori
 1232084366	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Täby, Vallatorpsskolan
@@ -2004,6 +2005,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232307148	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Sjuhärad, Målsrydsskolan
 1232307270	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Kristianstad, Kviingeskolan
 1232307288	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Halland, Kvibilleskolan
+1232308278	734000-1820	Hejnum Bygdegårdsförening	https://hejnum.se/	bygdegårdsförening	
 1232309730	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Göteborg, Skalmans Foérskola
 1232309763	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Göteborg, Bukärrsängs forskola
 1232313039	802488-7849	Hemmaodlat	https://www.hemmaodlat.se/	fritidsodling,utbildning	
@@ -2223,6 +2225,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232647535	829501-3430	Tingsryds Rid O KK - Ridsport	https://www.tirk.se/	körklubb,ridklubb,ridsport	
 1232648368	897000-0249	Ersnäs IF	https://www.ersnas.se/	idrottsförening	
 1232648939	556663-9133	Nippon & Frezon Catering AB	https://nipponfrezon.se/	catering,restaurant	
+1232649077	718000-3993	Vilans Nya Byggnadsförening	https://vilansbygdegard.se/	bygdegårdsförening	
 1232649234	802491-5855	Föreningen S:t Martin	http://www.sanktmartin.se/	hjälporganisation	
 1232649390	650413-XXXX	Åsa Kjellsdotter Nilsson	http://www.kjellsdotternilsson.com/	healing,hypnos,hypnoterapi,reiki	
 1232649663	802488-9795	Narcotics Anonymous, Anonyma Narkomaner, NA	https://www.nasverige.org/	missbruksvård,självhjälpsgrupper	Mälardalens distrikt
@@ -3461,6 +3464,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234398020	802497-8598	Sollefteå Bridgeklubb	https://www.svenskbridge.se/sollefteå-bk	bridgeklubb	
 1234400818	559148-7524	Avesta Padel Center AB	https://avestapadelcenter.se/	padelspel	
 1234403648	802505-5644	Göteborgsregionens Nämndemannaförening	https://goteborg.nmrf.se/	förening	
+1234403937	869000-6344	Österängs Bygdegårdsförening	https://osterang.com/	bygdegårdsförening	
 1234406666	823000-5467	Lions Club Mjölby	https://lionsmjolby.se/	lionsklubb	
 1234406823	802475-2332	Nätverket för Spinal Muskelatrofi, NSMA	http://nsma.nu/	förening,patientförening	
 1234407078	802490-6953	Acting For Change	https://acting4change.org/	hjälporganisation	
@@ -4152,6 +4156,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235380357	802496-0687	Kiruna AIF Ishockey	https://www.svenskalag.se/kirunaaif	idrottsförening,ishockeyklubb	Kiosk
 1235380985	802479-1967	One Hope Village Sweden	https://onehopevillage.se/	stiftelse	
 1235381371	846002-8676	PRO Husie	https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/husie.html	pensionärsklubb	
+1235381819	878500-4998	Torpa Bygdegårdsförening	https://bygdegardarna.se/torpabygdegard/	bygdegårdsförening	
 1235382205	556810-7220	Lahti Group AB	https://lahtigroup.se/	byggnation,renovering	
 1235382841	802409-0287	Somaya kvinno- och tjejjour	https://somaya.se/	kvinnojour	
 1235383500	889600-3384	EFS Missionsförening i Örnsköldsvik	https://efsovik.se/	religion	
@@ -4162,6 +4167,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235384086	802000-4142	Svenska Bowlingförbundet	https://www.swebowl.se/	bowling,förbund,riksförbund	
 1235390539	894700-5842	Skellefteå CK - Curling	https://www.curlingklubben.se/	curling	Medlemsavgift
 1235392642	897000-2260	Luleå KK - Kanot	https://www.luleakajakklubb.se/	idrottsförening,kajakklubb	
+1235392717	839400-8992	Ausås Bygdegårdsförening	https://www.ausasbygdegard.se/	bygdegårdsförening	
 1235393053	802006-9434	Socialistisk Politik	https://socialistiskpolitik.se/	intresseförening	
 1235394036	817603-6583	Hyresgästföreningen Djäknegatan	https://www.djaknegatan.org/	intresseförening	
 1235396270	556041-5795	R. Anderssons Trikå Aktiebolag	https://www.ratrika.se/	försäljning,tillverkning	
@@ -4786,6 +4792,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236243729	556743-6968	CH Anderssons Trafikskola AB	https://gelinderstrafikskola.se/	trafikskola,utbildning	
 1236244016	640803-6033	Skultorps Vagn & LokVerkstad	https://www.svlv.se/	modelljärnväg	
 1236244214	556622-0272	Rehabhuset Tomelilla AB	http://rehabhuset.com/	gym,rehab,träning	
+1236245674	802544-5894	Västerlanda Bygdegårdsförening	https://bygdegardarna.se/vasterlanda/	bygdegårdsförening	
 1236246110	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Kristianstad, Hammar skola
 1236246300	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Malmö, Norrevångs Förskola
 1236246367	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Linköping, Blästadskolan
@@ -4912,6 +4919,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236417299	802505-5495	Piteå IF Orienteringsklubb - Orientering	https://www.piteaifok.se/	idrottsförening,orientering	Fika
 1236425037	802535-4955	Bandieras tifo / Kvillestreamen	https://www.kvillestreamen.se/	supporterklubb	
 1236428189	834001-3237	Gotlands Motorförenings Bilklubb	https://gotlandsmfbk.se/	bilklubb,motorsport	
+1236429229	868400-1673	Malma Bygdegårdsförening	https://www.malmabygden.se/	bygdegårdsförening	
 1236429401	802406-2898	Svenska Epilepsiförbundet	https://www.epilepsi.se/	förbund,neurohälsa	Epilepsifonden
 1236429989	882601-6647	Friskis & Svettis Borlänge	https://www.friskissvettis.se/borlange	friskvård,idrottsförening	
 1236431324	863500-3802	Skepplanda BTK	https://www.laget.se/Skepplanda/	fotbollsklubb,idrottsförening	Entré
