@@ -24,7 +24,7 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***5702*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***5709*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
@@ -47,8 +47,8 @@ pie title Distribution
     "123 14x xx xx" : 96
     "123 15x xx xx" : 80
     "123 16x xx xx" : 83
-    "123 17x xx xx" : 104
-    "123 18x xx xx" : 77
+    "123 17x xx xx" : 105
+    "123 18x xx xx" : 78
     "123 19x xx xx" : 64
     "123 20x xx xx" : 63
     "123 21x xx xx" : 88
@@ -59,7 +59,7 @@ pie title Distribution
     "123 26x xx xx" : 84
     "123 27x xx xx" : 91
     "123 28x xx xx" : 71
-    "123 29x xx xx" : 64
+    "123 29x xx xx" : 65
     "123 30x xx xx" : 75
     "123 31x xx xx" : 58
     "123 32x xx xx" : 78
@@ -70,23 +70,23 @@ pie title Distribution
     "123 37x xx xx" : 53
     "123 38x xx xx" : 91
     "123 39x xx xx" : 75
-    "123 40x xx xx" : 57
+    "123 40x xx xx" : 58
     "123 41x xx xx" : 57
     "123 42x xx xx" : 75
     "123 43x xx xx" : 57
     "123 44x xx xx" : 82
     "123 45x xx xx" : 77
-    "123 46x xx xx" : 61
+    "123 46x xx xx" : 62
     "123 47x xx xx" : 46
     "123 48x xx xx" : 47
     "123 49x xx xx" : 66
     "123 50x xx xx" : 61
-    "123 51x xx xx" : 111
+    "123 51x xx xx" : 112
     "123 52x xx xx" : 76
     "123 53x xx xx" : 80
     "123 54x xx xx" : 73
     "123 55x xx xx" : 78
-    "123 56x xx xx" : 80
+    "123 56x xx xx" : 81
     "123 57x xx xx" : 78
     "123 58x xx xx" : 69
     "123 59x xx xx" : 59
