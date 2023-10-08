@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-07-rev-153239",
+    "date": "2023-10-08-rev-180444",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4700,6 +4700,15 @@
       "web": "http://laikafilm.se/"
     },
     {
+      "entry": 1230536193,
+      "orgNumber": "895400-6485",
+      "orgName": "Storumans Brukshundklubb",
+      "categories": [
+        "brukshundsklubb"
+      ],
+      "web": "https://brukshundklubben.se/storumans-brukshundklubb/"
+    },
+    {
       "entry": 1230537001,
       "orgNumber": "802481-2110",
       "orgName": "Insamlingsstiftelsen Fogelstad",
@@ -9142,6 +9151,15 @@
         "hoppborg"
       ],
       "web": "https://www.topfunhoppborgar.se/"
+    },
+    {
+      "entry": 1231052232,
+      "orgNumber": "802456-2251",
+      "orgName": "Apladalens L\u00f6parklubb",
+      "categories": [
+        "l\u00f6parklubb"
+      ],
+      "web": "https://www.apladalenslk.se/"
     },
     {
       "entry": 1231052364,
@@ -20534,6 +20552,15 @@
       "web": "https://pingstjonkoping.se/"
     },
     {
+      "entry": 1232389997,
+      "orgNumber": "802422-8747",
+      "orgName": "Den Goda Jorden",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://dengodajorden.se/"
+    },
+    {
       "entry": 1232391183,
       "orgNumber": "914000-1802",
       "orgName": "Friluftsfr\u00e4mjandet - V\u00e4rmd\u00f6 Lokalavdelning",
@@ -27141,6 +27168,7 @@
       "entry": 1233352036,
       "orgNumber": "876400-4829",
       "orgName": "Nolsokna Byalag",
+      "comment": "Fiske",
       "categories": [
         "byalag"
       ],
@@ -35421,6 +35449,15 @@
         "gymnastikf\u00f6rening"
       ],
       "web": "https://idrottonline.se/KopingsGF-Gymnastik/"
+    },
+    {
+      "entry": 1234525036,
+      "orgNumber": "825003-7424",
+      "orgName": "Svenska Whippetklubben",
+      "categories": [
+        "hundklubb"
+      ],
+      "web": "https://whippetklubben.se/"
     },
     {
       "entry": 1234525929,
@@ -52665,6 +52702,26 @@
       "web": "https://www.facebook.com/MotherMersy/"
     },
     {
+      "entry": 1236985543,
+      "orgNumber": "802521-7582",
+      "orgName": "Lymf Sverige",
+      "categories": [
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.lymfsverige.se/"
+    },
+    {
+      "entry": 1236986632,
+      "orgNumber": "802538-4234",
+      "orgName": "S\u00f6dra \u00c4lvsborgs & Hallands Ardennerklubb",
+      "categories": [
+        "h\u00e4stavel",
+        "h\u00e4stklubb",
+        "h\u00e4stuppf\u00f6dning"
+      ],
+      "web": "https://www.ardennerklubben.se/"
+    },
+    {
       "entry": 1236991145,
       "orgNumber": "556533-8257",
       "orgName": "AD-Teknik AB",
@@ -52741,6 +52798,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.rengsjosk.se/"
+    },
+    {
+      "entry": 1238605519,
+      "orgNumber": "828000-2570",
+      "orgName": "V\u00e4rnamo Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://missionskyrkan.org/"
     },
     {
       "entry": 1239000035,

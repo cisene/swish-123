@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-10-07-rev-153239
+# Date: 2023-10-08-rev-180444
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -486,6 +486,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230520502	869000-6625	Piperska / Lundsbrunnsfonderna	https://www.piperska.se/	logi,restaurant	
 1230521989	802481-2953	International Rescue Committee Sverige Insamlingsstiftelse	https://se.rescue.org/	stiftelse	
 1230529032	556664-9355	Laika Film & Television AB	http://laikafilm.se/	filmproduktion	
+1230536193	895400-6485	Storumans Brukshundklubb	https://brukshundklubben.se/storumans-brukshundklubb/	brukshundsklubb	
 1230537001	802481-2110	Insamlingsstiftelsen Fogelstad	https://fogelstadsstiftelse.se/	feminism,stiftelse	
 1230539502	870719-XXXX	Vanlife Sverige / Isabel Waite	https://www.vanlifesverige.se/	camping,livsstil	
 1230540146	822003-8916	Linköping Football Club	https://www.linkopingfc.com/	fotbollsklubb,förening	
@@ -939,6 +940,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231051804	878500-0350	Pingstförsamlingen Kungsör	https://kungsor.pingst.se/	religion	Församlingskassan
 1231051937	556931-2506	Fjällturen AB	https://fjallturen.se/	cykelsport,eventarrangör	
 1231051978	556986-2823	Topfunhoppborgar AB	https://www.topfunhoppborgar.se/	hinderbana,hoppborg	
+1231052232	802456-2251	Apladalens Löparklubb	https://www.apladalenslk.se/	löparklubb	
 1231052364	832000-1962	Böda Hembygdsförening	https://www.hembygd.se/boda-hembygdsforening	hembygdsförening	
 1231052372	556805-5411	Fiskfoder.se	https://www.fiskfoder.se/	akvariefisk,fiskfoder	
 1231052935	252002-1375	Olaus Petri Församling	https://www.svenskakyrkan.se/olauspetri	religion	
@@ -2087,6 +2089,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232387389	802445-8906	Öppet Hus	https://www.oppethus.se/	mångfald,ungdomsverksamhet,utbildning	
 1232389161	252004-7131	Equmeniakyrkan	http://equmeniakyrkan.se/	religion	Gåvor
 1232389823	826000-0784	Pingst Jönköping	https://pingstjonkoping.se/	religion	Missionskassan
+1232389997	802422-8747	Den Goda Jorden	https://dengodajorden.se/	intresseförening	
 1232391183	914000-1802	Friluftsfrämjandet - Värmdö Lokalavdelning	https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/varmdo/		
 1232391217	802481-7580	Insamlingsstiftelsen för Resurssmart	https://www.stiftelsen-resurssmart-utveckling.se/	stiftelse	
 1232395333	559355-4818	Reiki-kliniken i Göteborg AB / Secourong Förlag	https://secourong.com/	healing,reiki	
@@ -2755,7 +2758,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233349594	818000-5392	Eskilstuna Pistolskytteklubb	https://eskilstuna-epk.com/	pistolskytteklubb,skytte	
 1233350816	857203-1725	Göteborgs Ornitologiska Förening, GOF	https://gof.nu/	ornitologi	
 1233350857	802017-2147	Ridföreningen Lunk i Kring	http://lunkikring.nu/	funktionsvariation,ridklubb	
-1233352036	876400-4829	Nolsokna Byalag	http://nolsokna.se/	byalag	
+1233352036	876400-4829	Nolsokna Byalag	http://nolsokna.se/	byalag	Fiske
 1233352309	848001-0407	Ystads IF FF	https://www.laget.se/YIFFF/	idrottsförening	
 1233352622	790426-XXXX	Mindful Training i Värnamo / Maria Modeé	https://www.mindfultraining.se/	yoga	
 1233352945	857204-0254	Sällskapet Ångbåten	https://www.steamboat.se/	intresseförening	
@@ -3592,6 +3595,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234524500	556694-3139	Autofab	https://www.autofab.se/	försäljning,metallbearbetning	
 1234524575	650824-XXXX	Helenas Vapenverkstad / Helena Tiborsdotter	https://helenasvapenverkstad.se/	försäljning,reparationer,serviceverkstad,vapensmed,vapenverkstad	
 1234524955	817605-1939	Köpings GF	https://idrottonline.se/KopingsGF-Gymnastik/	förening,gymnastikförening	
+1234525036	825003-7424	Svenska Whippetklubben	https://whippetklubben.se/	hundklubb	
 1234525929	802451-8162	Strömstads Motorklubb	https://stromstadmotorklubb.se/	motorklubb,motorsport	
 1234531943	802417-5690	Det nya hoppet, DNH	https://nyahopp.se/	hjälporganisation	
 1234535050	802009-9811	Miljöpartiet De Gröna	https://www.mp.se/	politiskt parti	
@@ -5328,6 +5332,8 @@ entry	orgNumber	orgName	web	categories	comment
 1236972020	818000-1029	Eskilstuna GUIF IF	https://www.guif.nu/	handbollsklubb,idrottsförening	Rosabandetkampanjen
 1236972186	661008-XXXX	Erika Givell	http://www.erikagivell.se/	atelje,galleri,konst,konstmåleri	
 1236973663	969778-6482	Mother Mercy	https://www.facebook.com/MotherMersy/	orkester	
+1236985543	802521-7582	Lymf Sverige	https://www.lymfsverige.se/	patientförening	
+1236986632	802538-4234	Södra Älvsborgs & Hallands Ardennerklubb	https://www.ardennerklubben.se/	hästavel,hästklubb,hästuppfödning	
 1236991145	556533-8257	AD-Teknik AB	https://www.adteknik.se/	fordonsutrustning	
 1236991160	826000-3614	Pingstkyrkan Kaxholmen	https://pingstkaxholmen.se/	religion	Missionskassan
 1236991368	802011-5484	Buddhistiska Gemenskapen Triratna	https://www.karuna.org/	religion	Karuna
@@ -5336,6 +5342,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236992135	551122-XXXX	Rossmix / Helene Strömbom	https://rossmix.se/	hunduppfödning,kennel	
 1236992440	802410-8501	Järnkaminerna	https://www.jarnkaminerna.se/	supporterklubb	Östra
 1236997977	886500-1302	Rengsjö SK - Discgolf	https://www.rengsjosk.se/	discgolfklubb,idrottsförening	Discgolf
+1238605519	828000-2570	Värnamo Missionsförsamling	https://missionskyrkan.org/	religion	
 1239000035	802416-7192	Children Need Help	https://www.childrenneedhelp.org/	godkänd gåvomottagare,insamlingskontroll	
 1239000043	802007-3436	Synskadades Riksförbund	https://www.srf.nu/	godkänd gåvomottagare,insamlingskontroll	
 1239000068	815200-4134	Personskadeförbundet RTP	https://www.rtp.se/	insamlingskontroll,välgörenhet	

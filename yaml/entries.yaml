@@ -4240,6 +4240,14 @@ entries:
   - filmproduktion
   web: http://laikafilm.se/
 
+- entry: 1230536193
+  orgName: Storumans Brukshundklubb
+  orgNumber: 895400-6485
+  comment: null
+  categories:
+  - brukshundsklubb
+  web: https://brukshundklubben.se/storumans-brukshundklubb/
+
 - entry: 1230537001
   orgName: Insamlingsstiftelsen Fogelstad
   orgNumber: 802481-2110
@@ -8234,6 +8242,14 @@ entries:
   - hinderbana
   - hoppborg
   web: https://www.topfunhoppborgar.se/
+
+- entry: 1231052232
+  orgName: Apladalens Löparklubb
+  orgNumber: 802456-2251
+  comment: null
+  categories:
+  - löparklubb
+  web: https://www.apladalenslk.se/
 
 - entry: 1231052364
   orgName: Böda Hembygdsförening
@@ -18408,6 +18424,14 @@ entries:
   - religion
   web: https://pingstjonkoping.se/
 
+- entry: 1232389997
+  orgName: Den Goda Jorden
+  orgNumber: 802422-8747
+  comment: null
+  categories:
+  - intresseförening
+  web: https://dengodajorden.se/
+
 - entry: 1232391183
   orgName: Friluftsfrämjandet - Värmdö Lokalavdelning
   orgNumber: 914000-1802
@@ -24335,7 +24359,7 @@ entries:
 - entry: 1233352036
   orgName: Nolsokna Byalag
   orgNumber: 876400-4829
-  comment: null
+  comment: Fiske
   categories:
   - byalag
   web: http://nolsokna.se/
@@ -28945,6 +28969,13 @@ entries:
   - sång
   web: https://www.lidija.se/
 
+- entry: 1234051397
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1234054060
   orgName: Team Rynkeby
   orgNumber: 802532-7506
@@ -31770,6 +31801,14 @@ entries:
   - förening
   - gymnastikförening
   web: https://idrottonline.se/KopingsGF-Gymnastik/
+
+- entry: 1234525036
+  orgName: Svenska Whippetklubben
+  orgNumber: 825003-7424
+  comment: null
+  categories:
+  - hundklubb
+  web: https://whippetklubben.se/
 
 - entry: 1234525929
   orgName: Strömstads Motorklubb
@@ -47226,6 +47265,24 @@ entries:
   - orkester
   web: https://www.facebook.com/MotherMersy/
 
+- entry: 1236985543
+  orgName: Lymf Sverige
+  orgNumber: 802521-7582
+  comment: null
+  categories:
+  - patientförening
+  web: https://www.lymfsverige.se/
+
+- entry: 1236986632
+  orgName: Södra Älvsborgs & Hallands Ardennerklubb
+  orgNumber: 802538-4234
+  comment: null
+  categories:
+  - hästavel
+  - hästklubb
+  - hästuppfödning
+  web: https://www.ardennerklubben.se/
+
 - entry: 1236991145
   orgName: AD-Teknik AB
   orgNumber: 556533-8257
@@ -47291,6 +47348,14 @@ entries:
   - discgolfklubb
   - idrottsförening
   web: https://www.rengsjosk.se/
+
+- entry: 1238605519
+  orgName: Värnamo Missionsförsamling
+  orgNumber: 828000-2570
+  comment: null
+  categories:
+  - religion
+  web: https://missionskyrkan.org/
 
 - entry: 1239000001
   orgName: Svensk Insamlingskontroll
