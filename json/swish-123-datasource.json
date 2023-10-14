@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-14-rev-171123",
+    "date": "2023-10-14-rev-204844",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1595,6 +1595,16 @@
       "web": "https://www.gais.se/"
     },
     {
+      "entry": 1230189407,
+      "orgNumber": "262000-0881",
+      "orgName": "Sydsk\u00e5nska Nationen",
+      "categories": [
+        "donation",
+        "studentorganisation"
+      ],
+      "web": "https://sydskanska.se/"
+    },
+    {
       "entry": 1230190397,
       "orgNumber": "817605-9387",
       "orgName": "H\u00f6k\u00e5sens Scoutk\u00e5r",
@@ -2092,6 +2102,16 @@
         "supporterklubb"
       ],
       "web": "https://anglarna.se/"
+    },
+    {
+      "entry": 1230241570,
+      "orgNumber": "817001-4388",
+      "orgName": "MDD Merhamet Sverige",
+      "categories": [
+        "religion",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://www.merhamet.se/"
     },
     {
       "entry": 1230241851,
@@ -4716,6 +4736,7 @@
       "orgNumber": "802481-2953",
       "orgName": "International Rescue Committee Sverige Insamlingsstiftelse",
       "categories": [
+        "donation",
         "stiftelse"
       ],
       "web": "https://se.rescue.org/"
@@ -5785,6 +5806,7 @@
       "orgNumber": "802466-5062",
       "orgName": "Ingen M\u00e4nniska \u00e4r Illegal - Ume\u00e5",
       "categories": [
+        "donation",
         "intressef\u00f6rening"
       ],
       "web": "https://www.ingenillegal.org/umea/"
@@ -8172,6 +8194,7 @@
       "orgNumber": "802411-3667",
       "orgName": "Kvinnors R\u00e4tt",
       "categories": [
+        "donation",
         "kvinnojour"
       ],
       "web": "https://kvinnorsratt.se/"
@@ -8430,6 +8453,7 @@
       "orgNumber": "802465-1393",
       "orgName": "St\u00f6df\u00f6reningen Mama Norah Education Centre",
       "categories": [
+        "donation",
         "f\u00f6rening",
         "st\u00f6df\u00f6rening",
         "utbildning"
@@ -8445,6 +8469,16 @@
         "sport"
       ],
       "web": "https://www.ragundaskoterklubb.com/"
+    },
+    {
+      "entry": 1230928523,
+      "orgNumber": "802477-7693",
+      "orgName": "Denniz Pop Awards Insamlingsstiftelse",
+      "categories": [
+        "donation",
+        "stiftelse"
+      ],
+      "web": "https://www.dennizpopawards.com/"
     },
     {
       "entry": 1230929406,
@@ -8671,6 +8705,16 @@
       "web": "https://kvinnojourenlund.se/"
     },
     {
+      "entry": 1230988212,
+      "orgNumber": "802487-3690",
+      "orgName": "Ukrainska Instituetet i Sverige",
+      "categories": [
+        "donation",
+        "institut"
+      ],
+      "web": "https://www.ukrainskainstitutet.se/"
+    },
+    {
       "entry": 1230988303,
       "orgNumber": "862501-3324",
       "orgName": "Sundals Ryrs Byalag",
@@ -8849,6 +8893,16 @@
         "kontorsinredning"
       ],
       "web": "https://www.rahmqvistserama.se/"
+    },
+    {
+      "entry": 1231003532,
+      "orgNumber": "556947-8968",
+      "orgName": "Enskilda H\u00f6gskolan Stockholm / Teologiska H\u00f6gskolan Stockholm AB",
+      "categories": [
+        "religion",
+        "utbildning"
+      ],
+      "web": "https://ehs.se/"
     },
     {
       "entry": 1231006923,
@@ -9531,6 +9585,16 @@
       "web": "https://www.stenhammarkyrkan.se/"
     },
     {
+      "entry": 1231089010,
+      "orgNumber": "812800-1156",
+      "orgName": "Helping Hands",
+      "categories": [
+        "donation",
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://helpinghands.org.se/"
+    },
+    {
       "entry": 1231089028,
       "orgNumber": "802535-9137",
       "orgName": "Team Rynkeby",
@@ -9585,6 +9649,16 @@
         "korpenf\u00f6rening"
       ],
       "web": "https://www.korpen.se/korpenemmaboda"
+    },
+    {
+      "entry": 1231092261,
+      "orgNumber": "802481-8844",
+      "orgName": "Insamlingsstiftelsen SAL Landskrona",
+      "categories": [
+        "donation",
+        "stiftelse"
+      ],
+      "web": "https://salstipendiet.se/"
     },
     {
       "entry": 1231093574,
@@ -11074,6 +11148,15 @@
       "web": "https://leufstabrukbryggeri.se/"
     },
     {
+      "entry": 1231262906,
+      "orgNumber": "559264-5542",
+      "orgName": "Kings Garden Ministries / Arise Living Productions AB",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://kingsgarden.tv/"
+    },
+    {
       "entry": 1231265537,
       "orgNumber": "559345-4803",
       "orgName": "Mtwapa AB",
@@ -11214,6 +11297,17 @@
         "hemlandsf\u00f6rening"
       ],
       "web": "https://www.izblandskrona.se/"
+    },
+    {
+      "entry": 1231293356,
+      "orgNumber": "556852-1933",
+      "orgName": "Pustervik / Pustervik Kultur AB",
+      "categories": [
+        "kultur",
+        "musik",
+        "restaurant"
+      ],
+      "web": "https://pustervik.nu/"
     },
     {
       "entry": 1231293711,
@@ -11659,6 +11753,7 @@
       "orgName": "Hundhemmet Black Dog / TigerLind Creative AB",
       "categories": [
         "djurskydd",
+        "donation",
         "hundhem"
       ],
       "web": "https://the-black-dog.se/"
@@ -12128,6 +12223,7 @@
       "orgName": "Giving People",
       "categories": [
         "barnfattigdom",
+        "donation",
         "hj\u00e4lporganisation"
       ],
       "web": "https://givingpeople.se/"
@@ -14200,6 +14296,7 @@
       "orgNumber": "802477-7925",
       "orgName": "Stiftelsen Zonny",
       "categories": [
+        "donation",
         "stiftelse"
       ],
       "web": "https://www.zonny.se/"
@@ -14656,7 +14753,8 @@
       "orgNumber": "802489-9265",
       "orgName": "Muslim Aid Sweden",
       "categories": [
-        "religion"
+        "religion",
+        "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://muslimaid.se/"
     },
@@ -15473,6 +15571,7 @@
       "orgNumber": "894002-3495",
       "orgName": "Hj\u00e5ggsj\u00f6drakarna",
       "categories": [
+        "donation",
         "hembygdsf\u00f6rening",
         "intresseorganisation"
       ],
@@ -16491,6 +16590,15 @@
       "web": "https://www.skanela.se/"
     },
     {
+      "entry": 1231883248,
+      "orgNumber": "802490-4784",
+      "orgName": "Supporterhuset",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://supporterhuset.se/"
+    },
+    {
       "entry": 1231883396,
       "orgNumber": "802426-3702",
       "orgName": "Kronprinsessparets Stiftelse",
@@ -17008,6 +17116,16 @@
       "web": "https://www.unizonjourer.se/tigerlilja/"
     },
     {
+      "entry": 1231974682,
+      "orgNumber": "802426-1102",
+      "orgName": "Stiftelsen Harald Edelstam",
+      "categories": [
+        "donation",
+        "stiftelse"
+      ],
+      "web": "https://www.edelstam.org/"
+    },
+    {
       "entry": 1231975887,
       "orgNumber": "822003-2158",
       "orgName": "Lejonkulan PC Link\u00f6ping - Boule",
@@ -17385,6 +17503,7 @@
       "orgNumber": "202100-2973",
       "orgName": "Karolinska Institutet, Fondf\u00f6rvaltning",
       "categories": [
+        "donation",
         "institut",
         "stiftelse"
       ],
@@ -18636,6 +18755,15 @@
       "web": "https://www.svenskakyrkan.se/gavle/b"
     },
     {
+      "entry": 1232180255,
+      "orgNumber": "802405-9449",
+      "orgName": "Hindu Mandir Society i Stockholm",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.mandirstockholm.com/"
+    },
+    {
       "entry": 1232180578,
       "orgNumber": "802503-8103",
       "orgName": "Nya Vingar",
@@ -19174,6 +19302,15 @@
       "web": "https://www.svenskakyrkan.se/Hyltebruks%20pastorat/fargaryd"
     },
     {
+      "entry": 1232233732,
+      "orgNumber": "802503-7097",
+      "orgName": "Support Group Network",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://supportgroup.se/"
+    },
+    {
       "entry": 1232234318,
       "orgNumber": "212000-1512",
       "orgName": "Moga Fritid / Svenljunga Kommun",
@@ -19274,6 +19411,7 @@
       "orgNumber": "802401-7041",
       "orgName": "International Buddhist Progress Society Sweden, IBPS Sweden",
       "categories": [
+        "donation",
         "religion"
       ],
       "web": "https://www.ibpssweden.se/"
@@ -22229,6 +22367,7 @@
       "orgNumber": "802523-5204",
       "orgName": "BatLife Sweden",
       "categories": [
+        "donation",
         "f\u00f6rening",
         "intresseorganisation"
       ],
@@ -23978,6 +24117,15 @@
       "web": "https://www.fralsningsarmen.se/Helsingborg/"
     },
     {
+      "entry": 1232872695,
+      "orgNumber": "802470-5074",
+      "orgName": "\u00c5re Lighthouse",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.lighthouseglobal.org/valkommen"
+    },
+    {
       "entry": 1232873057,
       "orgNumber": "802435-0038",
       "orgName": "R\u00e5tthj\u00e4lpen",
@@ -25072,7 +25220,8 @@
       "orgNumber": "846000-1095",
       "orgName": "Djurens V\u00e4nner Sk\u00e5ne",
       "categories": [
-        "djurskydd"
+        "djurskydd",
+        "donation"
       ],
       "web": "https://www.djurensvanner.se/skane"
     },
@@ -26170,6 +26319,15 @@
       "web": "https://www.haningebmk.se/"
     },
     {
+      "entry": 1233187515,
+      "orgNumber": "802438-3765",
+      "orgName": "Relearn Suderbyn",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://suderbyn.se/"
+    },
+    {
       "entry": 1233188885,
       "orgNumber": "559320-9629",
       "orgName": "Ale Ponnyranch AB",
@@ -26878,6 +27036,7 @@
       "orgNumber": "802424-7721",
       "orgName": "Stiftelsen Gapminder",
       "categories": [
+        "donation",
         "intresseorganisation",
         "stiftelse"
       ],
@@ -27065,6 +27224,7 @@
       "orgNumber": "802429-5472",
       "orgName": "Fempowerment",
       "categories": [
+        "donation",
         "kvinnojour"
       ],
       "web": "https://fempowerment.se/"
@@ -27995,6 +28155,7 @@
       "orgName": "Stiftelsen Kurdiska Biblioteket",
       "categories": [
         "bibliotek",
+        "donation",
         "stiftelse"
       ],
       "web": "http://kurdlib.org/"
@@ -28377,6 +28538,16 @@
       "web": "https://www.vaxjofolkdans.se/"
     },
     {
+      "entry": 1233475951,
+      "orgNumber": "802512-0661",
+      "orgName": "Team Powerwoman",
+      "categories": [
+        "h\u00e4lsa",
+        "styrketr\u00e4ning"
+      ],
+      "web": "https://powerwomanathleticclub.org/"
+    },
+    {
       "entry": 1233477908,
       "orgNumber": "866601-6038",
       "orgName": "Svensk F\u00f6rening f\u00f6r Br\u00f6stradiologi, SFBR",
@@ -28432,6 +28603,7 @@
       "orgNumber": "802515-4066",
       "orgName": "Eezer Sverige Ideell F\u00f6rening",
       "categories": [
+        "donation",
         "h\u00e4lsov\u00e5rd",
         "m\u00f6drav\u00e5rd"
       ],
@@ -29339,6 +29511,7 @@
       "orgNumber": "802481-2037",
       "orgName": "NISIU - N\u00e4ringslivets Insamlingsstiftelse i Ume\u00e5",
       "categories": [
+        "donation",
         "stiftelse"
       ],
       "web": "https://www.nisiu.se/"
@@ -30320,6 +30493,15 @@
       "web": "https://www.ellenkey.se/"
     },
     {
+      "entry": 1233782893,
+      "orgNumber": "802490-6664",
+      "orgName": "Swedish Organization for Global Health, SOGH",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://sogh.se/"
+    },
+    {
       "entry": 1233784345,
       "orgNumber": "252000-6939",
       "orgName": "Angelstads F\u00f6rsamling",
@@ -30461,6 +30643,15 @@
         "scoutk\u00e5r"
       ],
       "web": "https://areduved.scout.se/"
+    },
+    {
+      "entry": 1233795242,
+      "orgNumber": "802018-2872",
+      "orgName": "Acem-Sverige",
+      "categories": [
+        "meditation"
+      ],
+      "web": "https://acem.se/"
     },
     {
       "entry": 1233795358,
@@ -30650,6 +30841,16 @@
         "h\u00e4stuppf\u00f6dning"
       ],
       "web": "https://www.ardennerforeningen.nu/"
+    },
+    {
+      "entry": 1233818762,
+      "orgNumber": "934003-3894",
+      "orgName": "Royal Thai Embassy / Royal Thai Consulate",
+      "categories": [
+        "donation",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://thaiembassy.se/"
     },
     {
       "entry": 1233819158,
@@ -30954,6 +31155,17 @@
         "trafikskola"
       ],
       "web": "https://www.tumbatrafikskola.se/"
+    },
+    {
+      "entry": 1233869054,
+      "orgNumber": "802535-9830",
+      "orgName": "Alfv\u00e9ng\u00e5rdens v\u00e4nner",
+      "categories": [
+        "konst",
+        "museum",
+        "musik"
+      ],
+      "web": "https://www.alfvengarden.se/"
     },
     {
       "entry": 1233873718,
@@ -31386,6 +31598,17 @@
       "web": "https://www.gymmixhabo.se/"
     },
     {
+      "entry": 1233906377,
+      "orgNumber": "802498-5346",
+      "orgName": "Little Lambs V\u00e4nner",
+      "categories": [
+        "donation",
+        "utbildning",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://www.littlelambsschool.org/"
+    },
+    {
       "entry": 1233907268,
       "orgNumber": "556797-5254",
       "orgName": "Hundens Hus AB",
@@ -31679,6 +31902,7 @@
       "orgNumber": "802461-8087",
       "orgName": "Skifte F\u00f6r Sverige",
       "categories": [
+        "donation",
         "folkr\u00f6relse",
         "intressef\u00f6rening"
       ],
@@ -32438,6 +32662,7 @@
       "orgNumber": "802522-3762",
       "orgName": "Partiet Nyans",
       "categories": [
+        "donation",
         "politiskt parti"
       ],
       "web": "https://www.partietnyans.se/"
@@ -32826,6 +33051,17 @@
       "web": "https://oasrorelsen.se/"
     },
     {
+      "entry": 1234125175,
+      "orgNumber": "802440-9271",
+      "orgName": "Orphan Care",
+      "categories": [
+        "donation",
+        "hj\u00e4lporganisation",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "http://www.orphancare.net/"
+    },
+    {
       "entry": 1234125290,
       "orgNumber": "857201-5769",
       "orgName": "G\u00f6teborgs SSF - Skyttesport",
@@ -33038,6 +33274,17 @@
         "resebyr\u00e5"
       ],
       "web": "http://reseproducenten.com/"
+    },
+    {
+      "entry": 1234161188,
+      "orgNumber": "802481-3217",
+      "orgName": "Insamlingsstiftelsen Power Woman Foundation",
+      "categories": [
+        "donation",
+        "stiftelse",
+        "styrketr\u00e4ning"
+      ],
+      "web": "https://www.powerwomanfoundation.org/"
     },
     {
       "entry": 1234162988,
@@ -34045,6 +34292,16 @@
       "web": "https://www.helenhelgesson.se/"
     },
     {
+      "entry": 1234302345,
+      "orgNumber": "802402-5986",
+      "orgName": "Stadsbrudsk\u00e5ren",
+      "categories": [
+        "donation",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://stadsbrudskaren.se/"
+    },
+    {
       "entry": 1234305488,
       "orgNumber": "802505-6741",
       "orgName": "Nationell Samverkan f\u00f6r Psykisk H\u00e4lsa, NSPH",
@@ -34417,10 +34674,21 @@
       ]
     },
     {
+      "entry": 1234375283,
+      "orgNumber": "802487-7584",
+      "orgName": "Nordic Ukraine Forum",
+      "categories": [
+        "donation",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://nuforum.se/"
+    },
+    {
       "entry": 1234376141,
       "orgNumber": "834000-9201",
       "orgName": "F\u00f6reningen Svenskbyborna",
       "categories": [
+        "donation",
         "hemlandsf\u00f6rening",
         "kulturf\u00f6rening"
       ],
@@ -35437,6 +35705,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1234502399,
+      "orgNumber": "802499-1559",
+      "orgName": "Pink Programming",
+      "categories": [
+        "donation",
+        "folkbildning",
+        "utbildning"
+      ],
+      "web": "https://www.pinkprogramming.se/"
+    },
+    {
       "entry": 1234503470,
       "orgNumber": "875002-8303",
       "orgName": "LP-f\u00f6reningen i \u00d6rebro L\u00e4n",
@@ -35674,6 +35953,7 @@
       "orgNumber": "802009-9811",
       "orgName": "Milj\u00f6partiet De Gr\u00f6na",
       "categories": [
+        "donation",
         "politiskt parti"
       ],
       "web": "https://www.mp.se/"
@@ -35862,6 +36142,17 @@
         "religion"
       ],
       "web": "https://alvsjokyrkan.se/"
+    },
+    {
+      "entry": 1234558458,
+      "orgNumber": "802481-5949",
+      "orgName": "Stiftelsen ChildX",
+      "categories": [
+        "donation",
+        "insamlingskontroll",
+        "stiftelse"
+      ],
+      "web": "https://childx.se/"
     },
     {
       "entry": 1234559597,
@@ -36112,6 +36403,16 @@
         "golfklubb"
       ],
       "web": "http://www.kalixgolfklubb.se/"
+    },
+    {
+      "entry": 1234585709,
+      "orgNumber": "802400-2787",
+      "orgName": "Svenska L\u00e4kare f\u00f6r Milj\u00f6n o mot Milj\u00f6f\u00f6rst\u00f6ring",
+      "categories": [
+        "donation",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.lakareformiljon.org/"
     },
     {
       "entry": 1234586046,
@@ -37002,6 +37303,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/visby"
+    },
+    {
+      "entry": 1234730099,
+      "orgNumber": "802522-3937",
+      "orgName": "Nattsvart St\u00f6df\u00f6rening",
+      "categories": [
+        "donation",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://nattsvartverkstad.noblogs.org/"
     },
     {
       "entry": 1234731154,
@@ -37981,6 +38292,15 @@
         "ridklubb"
       ],
       "web": "https://www.stromsundsrk.se/"
+    },
+    {
+      "entry": 1234941993,
+      "orgNumber": "802010-3571",
+      "orgName": "Den Episkopala Kyrkan i Stockholm",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://stockholmanglicans.se/"
     },
     {
       "entry": 1234943106,
@@ -42351,6 +42671,7 @@
       "orgName": "DogRescue Sweden",
       "categories": [
         "djurskydd",
+        "donation",
         "hundhem"
       ],
       "web": "https://www.dogrescue.se/"
@@ -42966,6 +43287,15 @@
         "ridskola"
       ],
       "web": "https://www.enkopingsrk.se/"
+    },
+    {
+      "entry": 1235537279,
+      "orgNumber": "846502-7210",
+      "orgName": "Skandinaviska WAKF i Sverige",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.wakf.se/"
     },
     {
       "entry": 1235537410,
@@ -44176,6 +44506,16 @@
       "web": "http://centrumforsamlingen.se/"
     },
     {
+      "entry": 1235700158,
+      "orgNumber": "802466-8314",
+      "orgName": "Children's Equal Rights",
+      "categories": [
+        "donation",
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://childrensequal.se/"
+    },
+    {
       "entry": 1235700273,
       "orgNumber": "864000-0439",
       "orgName": "Annelunds IF",
@@ -44333,6 +44673,7 @@
       "orgNumber": "802013-2521",
       "orgName": "Stiftelsen Skota Hem",
       "categories": [
+        "donation",
         "funktionsneds\u00e4ttning",
         "parasport",
         "stiftelse"
@@ -44886,6 +45227,15 @@
       "web": "https://speleo.se/"
     },
     {
+      "entry": 1235788567,
+      "orgNumber": "802525-9998",
+      "orgName": "AFS Interkultur Sverige",
+      "categories": [
+        "utbildning"
+      ],
+      "web": "https://afs.se/"
+    },
+    {
       "entry": 1235789250,
       "orgNumber": "817000-8703",
       "orgName": "F\u00f6reningen Altunag\u00e5rden",
@@ -45218,6 +45568,17 @@
         "religion"
       ],
       "web": "http://degerfors.pingst.se/"
+    },
+    {
+      "entry": 1235846605,
+      "orgNumber": "802481-6871",
+      "orgName": "Den kulturella hj\u00e4rnan / Lottie Vikings Insamlingsstiftelse f\u00f6r Forskning p\u00e5 Kultur och Hj\u00e4rnan",
+      "categories": [
+        "donation",
+        "forskning",
+        "stiftelse"
+      ],
+      "web": "http://www.kulturellahjarnan.se/"
     },
     {
       "entry": 1235847744,
@@ -46062,6 +46423,15 @@
       "web": "https://www.radiowakeup.se/"
     },
     {
+      "entry": 1235967922,
+      "orgNumber": "556917-8519",
+      "orgName": "Kanal 10 Asia / Kristen TV i Asien AB",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://kanal10asia.com/"
+    },
+    {
       "entry": 1235968953,
       "orgNumber": "889600-3046",
       "orgName": "\u00d6rnsk\u00f6ldsviks Brukshundsklubb",
@@ -46755,6 +47125,7 @@
       "orgNumber": "559394-6022",
       "orgName": "Bl\u00e5gula Bilen AB",
       "categories": [
+        "donation",
         "hj\u00e4lporganisation"
       ],
       "web": "https://blagulabilen.se/"
@@ -48218,6 +48589,17 @@
       "web": "https://sixtydays.com/"
     },
     {
+      "entry": 1236272256,
+      "orgNumber": "802521-8119",
+      "orgName": "Pediatric Health Initiative",
+      "categories": [
+        "donation",
+        "h\u00e4lsov\u00e5rd",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://www.pediatrichealthinitiative.com/"
+    },
+    {
       "entry": 1236272868,
       "orgNumber": "802002-2029",
       "orgName": "Spr\u00e5kl\u00e4rarnas Riksf\u00f6rbund",
@@ -49149,6 +49531,16 @@
       "web": "https://umea.pingst.se/"
     },
     {
+      "entry": 1236406425,
+      "orgNumber": "802477-3759",
+      "orgName": "Stiftelsen Alfons \u00c5bergs Kulturhus",
+      "categories": [
+        "donation",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://alfonskulturhus.se/"
+    },
+    {
       "entry": 1236406466,
       "orgNumber": "802490-3976",
       "orgName": "F\u00f6reningen F\u00f6r Lotsb\u00e5ten Ilse",
@@ -49263,6 +49655,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://gronbo.org/"
+    },
+    {
+      "entry": 1236419394,
+      "orgNumber": "802430-2153",
+      "orgName": "F\u00f6reningen Nennngesund",
+      "categories": [
+        "donation",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://nenningesund.se/"
     },
     {
       "entry": 1236425037,
@@ -49760,6 +50162,15 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://brfsorbyangen.se/"
+    },
+    {
+      "entry": 1236500474,
+      "orgNumber": "802518-6043",
+      "orgName": "Reformisterna / S-F\u00f6reningen SEPRIU",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.reformisterna.se/"
     },
     {
       "entry": 1236500508,
@@ -50454,6 +50865,7 @@
       "orgNumber": "848001-0761",
       "orgName": "Stiftelsen Svenska Hj\u00e4rtan - till minne av Ebba Stefansdotter \u00c5kerlund",
       "categories": [
+        "donation",
         "stiftelse"
       ],
       "web": "https://ebbasminnesfond.se/"
@@ -51601,6 +52013,16 @@
       "web": "http://www.ctaservice.se/"
     },
     {
+      "entry": 1236777270,
+      "orgNumber": "857205-9403",
+      "orgName": "Kvinnojouren Ada",
+      "categories": [
+        "donation",
+        "kvinnojour"
+      ],
+      "web": "https://www.kvinnojouren-ada.nu/"
+    },
+    {
       "entry": 1236777494,
       "orgNumber": "828500-5321",
       "orgName": "Stiftelsen Torghuset",
@@ -51943,6 +52365,16 @@
       "web": "https://www.kyrkberget.se/"
     },
     {
+      "entry": 1236814842,
+      "orgNumber": "845003-2175",
+      "orgName": "ABC Aktiva Insatser f\u00f6r M\u00e4nniska och Milj\u00f6",
+      "categories": [
+        "donation",
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://abcsweden.org/"
+    },
+    {
       "entry": 1236817480,
       "orgNumber": "817300-1424",
       "orgName": "Equmeniakyrkan \u00d6rbyhus",
@@ -52165,6 +52597,16 @@
       "web": "https://engelholmsgymnasterna.sportadmin.se/"
     },
     {
+      "entry": 1236870703,
+      "orgNumber": "202100-2932",
+      "orgName": "ReAct Europe / Uppsala Universitet",
+      "categories": [
+        "donation",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.reactgroup.org/contact/react-europe/"
+    },
+    {
       "entry": 1236871057,
       "orgNumber": "802465-1682",
       "orgName": "Svensk-Taiwanesiska V\u00e4nskapsf\u00f6reningen",
@@ -52239,6 +52681,17 @@
         "yoga"
       ],
       "web": "https://www.yogajenny.se/"
+    },
+    {
+      "entry": 1236880413,
+      "orgNumber": "802539-2708",
+      "orgName": "Malm\u00f6 Helps",
+      "categories": [
+        "donation",
+        "hj\u00e4lporganisation",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://malmohelps.se/"
     },
     {
       "entry": 1236882237,
@@ -54045,6 +54498,7 @@
       "orgNumber": "802015-5670",
       "orgName": "Right Livelihood Award Stiftelsen",
       "categories": [
+        "donation",
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
@@ -54432,6 +54886,7 @@
       "orgNumber": "802477-7495",
       "orgName": "Insamlingsstiftelsen till minne av Gustav Whitefield",
       "categories": [
+        "donation",
         "insamlingskontroll",
         "stiftelse",
         "v\u00e4lg\u00f6renhet"
@@ -54766,6 +55221,7 @@
       "orgNumber": "802016-5463",
       "orgName": "F\u00f6reningen Alla Kvinnors Hus",
       "categories": [
+        "donation",
         "f\u00f6rening",
         "insamlingskontroll"
       ],
@@ -55124,6 +55580,7 @@
       "orgNumber": "802478-3725",
       "orgName": "Insamlingsstiftelsen Help to Help",
       "categories": [
+        "donation",
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
@@ -55337,6 +55794,7 @@
       "orgNumber": "802501-4732",
       "orgName": "Unite 2 Learn",
       "categories": [
+        "donation",
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
@@ -56276,6 +56734,7 @@
       "orgNumber": "855101-4874",
       "orgName": "Stiftelsen ParkinsonF\u00f6rbundets Forskningsfond",
       "categories": [
+        "donation",
         "forskning",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
