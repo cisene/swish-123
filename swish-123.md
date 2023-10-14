@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-10-08-rev-180444
+Date:     2023-10-14-rev-033101
 ...
 
 # Swish 123 Nummer
@@ -1818,6 +1818,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232093656 | 878000-9687 | Ängsö Golfklubb                                                                                      |                           |
 | 1232093870 | 873201-2102 | Kils OK - Orientering                                                                                |                           |
 | 1232095313 | 802498-6377 | Centrala Soldatregistret / Soldatregistrets Stödförening                                             |                           |
+| 1232096451 | 556295-8685 | IB Wahlström Konstnärsmaterial                                                                       |                           |
 | 1232096964 | 556706-5262 | Västerås Domkyrka                                                                                    | Gruppvisningar med guide  |
 | 1232098689 | 802466-2713 | Clarajouren - Kvinnojouren i Årjäng                                                                  |                           |
 | 1232099034 | 802533-7786 | Team Rynkeby                                                                                         | Lund, Parkskolan          |
@@ -2270,6 +2271,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232678258 | 802511-5497 | Alingsås Fotoklubb                                                                                   | Medlemsavgift             |
 | 1232681773 | 866600-0065 | Bergs Bygdegård                                                                                      |                           |
 | 1232682326 | 857203-1725 | Göteborgs Ornitologiska Förening, GOF                                                                |                           |
+| 1232683415 | 701124-XXXX | IMK / Maria Karlsson                                                                                 |                           |
 | 1232683803 | 827000-0568 | Eksjöortens RF - Ridsport                                                                            | Café, Mat                 |
 | 1232684090 | 828000-0384 | Pingstförsamlingen I Värnamo                                                                         |                           |
 | 1232684116 | 802438-6222 | Saltvattensguiden.se Ideell Förening                                                                 |                           |
@@ -3280,6 +3282,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234042891 | 802527-8618 | Centrum För Urbankonst, CFUK                                                                         |                           |
 | 1234043436 | 861021-XXXX | Enkel Teknik / Christoffer Orre                                                                      |                           |
 | 1234046462 | 761012-XXXX | Lidija Dokuzovic                                                                                     |                           |
+| 1234051397 | 559117-2480 | Kammi Rosenskjöld / Kammi Production AB                                                              |                           |
 | 1234054060 | 802532-7506 | Team Rynkeby                                                                                         | Helsingborg, Ljungbyhedskolan |
 | 1234054359 | 802515-8802 | AjaBajaCancer                                                                                        |                           |
 | 1234055505 | 769636-5464 | Audiorama                                                                                            |                           |

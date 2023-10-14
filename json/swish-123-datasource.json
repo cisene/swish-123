@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-08-rev-180444",
+    "date": "2023-10-14-rev-033101",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -17804,6 +17804,16 @@
       "web": "https://www.soldatreg.se/"
     },
     {
+      "entry": 1232096451,
+      "orgNumber": "556295-8685",
+      "orgName": "IB Wahlstr\u00f6m Konstn\u00e4rsmaterial",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "konstn\u00e4rsmaterial"
+      ],
+      "web": "https://www.ibwahlstrom.se/"
+    },
+    {
       "entry": 1232096964,
       "orgNumber": "556706-5262",
       "orgName": "V\u00e4ster\u00e5s Domkyrka",
@@ -22309,6 +22319,16 @@
         "ornitologi"
       ],
       "web": "https://gof.nu/"
+    },
+    {
+      "entry": 1232683415,
+      "orgNumber": "701124-XXXX",
+      "orgName": "IMK / Maria Karlsson",
+      "categories": [
+        "handarbeten",
+        "smycken"
+      ],
+      "web": "https://www.imk-design.com/"
     },
     {
       "entry": 1232683803,
@@ -32307,6 +32327,15 @@
         "s\u00e5ng"
       ],
       "web": "https://www.lidija.se/"
+    },
+    {
+      "entry": 1234051397,
+      "orgNumber": "559117-2480",
+      "orgName": "Kammi Rosenskj\u00f6ld / Kammi Production AB",
+      "categories": [
+        "youtuber"
+      ],
+      "web": "https://www.youtube.com/@KammiRosenskjold"
     },
     {
       "entry": 1234054060,

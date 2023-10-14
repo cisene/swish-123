@@ -15982,6 +15982,15 @@ entries:
   - släktforskning
   web: https://www.soldatreg.se/
 
+- entry: 1232096451
+  orgName: IB Wahlström Konstnärsmaterial
+  orgNumber: 556295-8685
+  comment: null
+  categories:
+  - försäljning
+  - konstnärsmaterial
+  web: https://www.ibwahlstrom.se/
+
 - entry: 1232096964
   orgName: Västerås Domkyrka
   orgNumber: 556706-5262
@@ -20000,6 +20009,15 @@ entries:
   categories:
   - ornitologi
   web: https://gof.nu/
+
+- entry: 1232683415
+  orgName: IMK / Maria Karlsson
+  orgNumber: 701124-XXXX
+  comment: null
+  categories:
+  - handarbeten
+  - smycken
+  web: https://www.imk-design.com/
 
 - entry: 1232683803
   orgName: Eksjöortens RF - Ridsport
@@ -28970,11 +28988,12 @@ entries:
   web: https://www.lidija.se/
 
 - entry: 1234051397
-  orgName: null
-  orgNumber: null
+  orgName: Kammi Rosenskjöld / Kammi Production AB
+  orgNumber: 559117-2480
   comment: null
-  categories: null
-  web: null
+  categories:
+  - youtuber
+  web: https://www.youtube.com/@KammiRosenskjold
 
 - entry: 1234054060
   orgName: Team Rynkeby

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-10-08-rev-180444
+# Date: 2023-10-14-rev-033101
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1816,6 +1816,7 @@
 "1232093656","878000-9687","Ängsö Golfklubb","http://angsogolfklubb.com/","golfklubb",""
 "1232093870","873201-2102","Kils OK - Orientering","https://www.kilsok.com/","idrottsförening,orienteringsklubb",""
 "1232095313","802498-6377","Centrala Soldatregistret / Soldatregistrets Stödförening","https://www.soldatreg.se/","genealogi,släktforskning",""
+"1232096451","556295-8685","IB Wahlström Konstnärsmaterial","https://www.ibwahlstrom.se/","försäljning,konstnärsmaterial",""
 "1232096964","556706-5262","Västerås Domkyrka","https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka","religion","Gruppvisningar med guide"
 "1232098689","802466-2713","Clarajouren - Kvinnojouren i Årjäng","http://www.clarajouren.n.nu/","kvinnojour",""
 "1232099034","802533-7786","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Lund, Parkskolan"
@@ -2268,6 +2269,7 @@
 "1232678258","802511-5497","Alingsås Fotoklubb","https://www.alingsasfotoklubb.se/","fotoklubb","Medlemsavgift"
 "1232681773","866600-0065","Bergs Bygdegård","https://bergsbygdegard.se/","bygdegårdsförening",""
 "1232682326","857203-1725","Göteborgs Ornitologiska Förening, GOF","https://gof.nu/","ornitologi",""
+"1232683415","701124-XXXX","IMK / Maria Karlsson","https://www.imk-design.com/","handarbeten,smycken",""
 "1232683803","827000-0568","Eksjöortens RF - Ridsport","https://www.eksjorf.se/","hästsport,ridklubb,ridskola,ridsport","Café, Mat"
 "1232684090","828000-0384","Pingstförsamlingen I Värnamo","https://arkenvmo.se/","religion",""
 "1232684116","802438-6222","Saltvattensguiden.se Ideell Förening","https://saltvattensguiden.se/","akvariefisk,intresseförening",""
@@ -3278,6 +3280,7 @@
 "1234042891","802527-8618","Centrum För Urbankonst, CFUK","https://cfuk.nu/","konstförening,ungdomsverksamhet",""
 "1234043436","861021-XXXX","Enkel Teknik / Christoffer Orre","https://www.enkelteknik.se/","tekniksupport",""
 "1234046462","761012-XXXX","Lidija Dokuzovic","https://www.lidija.se/","musik,sång",""
+"1234051397","559117-2480","Kammi Rosenskjöld / Kammi Production AB","https://www.youtube.com/@KammiRosenskjold","youtuber",""
 "1234054060","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Ljungbyhedskolan"
 "1234054359","802515-8802","AjaBajaCancer","http://www.ajabajacancer.se/","",""
 "1234055505","769636-5464","Audiorama","https://www.audiorama.se/","intresseförening,konsert,ljudkonst,utbildning",""
