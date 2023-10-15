@@ -24,53 +24,53 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***5835*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***5873*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
 ```mermaid
 pie title Distribution
     "123 00x xx xx" : 106
-    "123 01x xx xx" : 68
-    "123 02x xx xx" : 87
+    "123 01x xx xx" : 69
+    "123 02x xx xx" : 88
     "123 03x xx xx" : 92
-    "123 04x xx xx" : 113
+    "123 04x xx xx" : 114
     "123 05x xx xx" : 71
     "123 06x xx xx" : 71
     "123 07x xx xx" : 108
     "123 08x xx xx" : 103
     "123 09x xx xx" : 82
-    "123 10x xx xx" : 92
+    "123 10x xx xx" : 93
     "123 11x xx xx" : 75
-    "123 12x xx xx" : 92
+    "123 12x xx xx" : 93
     "123 13x xx xx" : 97
-    "123 14x xx xx" : 96
+    "123 14x xx xx" : 97
     "123 15x xx xx" : 81
     "123 16x xx xx" : 83
-    "123 17x xx xx" : 105
+    "123 17x xx xx" : 106
     "123 18x xx xx" : 80
     "123 19x xx xx" : 65
-    "123 20x xx xx" : 66
+    "123 20x xx xx" : 68
     "123 21x xx xx" : 89
-    "123 22x xx xx" : 96
-    "123 23x xx xx" : 89
+    "123 22x xx xx" : 97
+    "123 23x xx xx" : 90
     "123 24x xx xx" : 50
     "123 25x xx xx" : 61
-    "123 26x xx xx" : 88
-    "123 27x xx xx" : 93
-    "123 28x xx xx" : 74
+    "123 26x xx xx" : 89
+    "123 27x xx xx" : 95
+    "123 28x xx xx" : 75
     "123 29x xx xx" : 66
-    "123 30x xx xx" : 75
+    "123 30x xx xx" : 76
     "123 31x xx xx" : 61
     "123 32x xx xx" : 78
     "123 33x xx xx" : 83
     "123 34x xx xx" : 62
-    "123 35x xx xx" : 89
+    "123 35x xx xx" : 90
     "123 36x xx xx" : 60
-    "123 37x xx xx" : 55
-    "123 38x xx xx" : 93
-    "123 39x xx xx" : 78
-    "123 40x xx xx" : 59
+    "123 37x xx xx" : 56
+    "123 38x xx xx" : 94
+    "123 39x xx xx" : 79
+    "123 40x xx xx" : 60
     "123 41x xx xx" : 59
     "123 42x xx xx" : 76
     "123 43x xx xx" : 59
@@ -79,29 +79,29 @@ pie title Distribution
     "123 46x xx xx" : 62
     "123 47x xx xx" : 47
     "123 48x xx xx" : 47
-    "123 49x xx xx" : 69
-    "123 50x xx xx" : 61
-    "123 51x xx xx" : 113
-    "123 52x xx xx" : 79
+    "123 49x xx xx" : 71
+    "123 50x xx xx" : 62
+    "123 51x xx xx" : 114
+    "123 52x xx xx" : 80
     "123 53x xx xx" : 84
     "123 54x xx xx" : 75
-    "123 55x xx xx" : 79
+    "123 55x xx xx" : 80
     "123 56x xx xx" : 82
     "123 57x xx xx" : 80
-    "123 58x xx xx" : 70
+    "123 58x xx xx" : 71
     "123 59x xx xx" : 61
     "123 60x xx xx" : 78
     "123 61x xx xx" : 75
-    "123 62x xx xx" : 82
+    "123 62x xx xx" : 84
     "123 63x xx xx" : 59
     "123 64x xx xx" : 66
-    "123 65x xx xx" : 56
-    "123 66x xx xx" : 74
-    "123 67x xx xx" : 79
-    "123 68x xx xx" : 65
+    "123 65x xx xx" : 57
+    "123 66x xx xx" : 76
+    "123 67x xx xx" : 80
+    "123 68x xx xx" : 67
     "123 69x xx xx" : 65
     "123 86x xx xx" : 1
-    "123 90x xx xx" : 431
+    "123 90x xx xx" : 433
 ```
 
 ## Användning av information från Swish 123

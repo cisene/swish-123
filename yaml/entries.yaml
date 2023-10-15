@@ -187,6 +187,7 @@ entries:
   orgNumber: 802012-5111
   comment: null
   categories:
+  - donation
   - kvinnojour
   - riksorganisation
   web: https://roks.se/
@@ -322,6 +323,13 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg.html
 
+- entry: 1230040352
+  orgName: null
+  orgNumber: null
+  comment: vomitory.net
+  categories: null
+  web: vomitory.net
+
 - entry: 1230040691
   orgName: Nordebros Trädgård / Kent Haglund
   orgNumber: 660915-XXXX
@@ -337,6 +345,13 @@ entries:
   comment: Musikkåren Norrköping
   categories: null
   web: https://www.fralsningsarmen.se/norrkoping/
+
+- entry: 1230041079
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1230045567
   orgName: Partiet MoD
@@ -969,6 +984,15 @@ entries:
   - musik
   web: https://www.känslogalan.se/
 
+- entry: 1230100511
+  orgName: Utvecklingspartiet Demokraterna
+  orgNumber: 802526-4493
+  comment: null
+  categories:
+  - donation
+  - politiskt parti
+  web: https://updem.se/
+
 - entry: 1230100743
   orgName: Inlands Släktforskare
   orgNumber: 802430-8374
@@ -1445,6 +1469,7 @@ entries:
   comment: null
   categories:
   - donation
+  - studentnation
   - studentorganisation
   web: https://sydskanska.se/
 
@@ -1980,6 +2005,15 @@ entries:
   - utbildning
   - yoga
   web: https://www.yogaiakersberga.se/
+
+- entry: 1230252254
+  orgName: Solna Landhockeyförening Mens Sana In Corpore Sano, MESAICOS
+  orgNumber: 802489-3458
+  comment: null
+  categories:
+  - idrottsförening
+  - landhockeyklubb
+  web: https://mesaicos.se/
 
 - entry: 1230253930
   orgName: Pet Vet Sweden AB
@@ -3307,6 +3341,16 @@ entries:
   - förening
   - intresseorganisation
   web: https://svenskaolframjandet.se/
+
+- entry: 1230417295
+  orgName: Göteborgs Ungdomskör
+  orgNumber: 855100-7704
+  comment: null
+  categories:
+  - donation
+  - körsång
+  - ungdomsverksamhet
+  web: https://www.goteborgsungdomskor.se/
 
 - entry: 1230417832
   orgName: Enskede Ridsällskap
@@ -5151,6 +5195,7 @@ entries:
   orgNumber: 802538-7120
   comment: null
   categories:
+  - donation
   - intresseförening
   web: https://återställvåtmarker.se/
 
@@ -5709,6 +5754,7 @@ entries:
   orgNumber: 802461-8905
   comment: null
   categories:
+  - donation
   - hjälporganisation
   - internationell handel
   - intresseorganisation
@@ -6593,6 +6639,7 @@ entries:
   orgNumber: 802006-2660
   comment: null
   categories:
+  - donation
   - intresseförening
   web: https://www.sipri.org/
 
@@ -8275,6 +8322,14 @@ entries:
   - kennelklubb
   web: https://www.klkk.hundpoolen.se/
 
+- entry: 1231043439
+  orgName: Stockholms Universitets Fakultetsklubb
+  orgNumber: 802413-8029
+  comment: null
+  categories:
+  - fakultetsklubb
+  web: https://www.su.se/medarbetare/anst%C3%A4lld/n%C3%A4tverk-f%C3%B6reningar/fakultetsklubben
+
 - entry: 1231043496
   orgName: Axel, Julia och Torsten Nordströms Stiftelse
   orgNumber: 814400-0042
@@ -9689,6 +9744,16 @@ entries:
   - religion
   web: https://www.fiskebackskyrkan.se/
 
+- entry: 1231227453
+  orgName: Education Nepal
+  orgNumber: 802500-0327
+  comment: null
+  categories:
+  - donation
+  - hjälporganisation
+  - välgörenhet
+  web: https://educationnepal.org/
+
 - entry: 1231227495
   orgName: Svenska Brukshundsklubben Stockholmsavdelning
   orgNumber: null
@@ -10379,10 +10444,11 @@ entries:
   web: https://clarakyrka.se/
 
 - entry: 1231312990
-  orgName: Buddhistiska Gemenskapen Triratna
+  orgName: Buddhistiska Gemenskapen Triratna / Stockholms Buddhistcenter
   orgNumber: 802011-5484
   comment: null
   categories:
+  - donation
   - meditation
   - religion
   web: https://stockholmsbuddhistcenter.se/
@@ -11107,6 +11173,7 @@ entries:
   orgNumber: 802539-1056
   comment: null
   categories:
+  - donation
   - hjälporganisation
   web: https://www.operationaid.org/sv
 
@@ -11947,6 +12014,14 @@ entries:
   - religion
   web: https://www.vineyardnordic.org/
 
+- entry: 1231499185
+  orgName: Käringöns IF, KIF / Käringöns Idrott & Fritid
+  orgNumber: 858500-8173
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.kif.nu/
+
 - entry: 1231499516
   orgName: Munkhagskyrkans Församling
   orgNumber: 819500-3408
@@ -12475,6 +12550,13 @@ entries:
   - catering
   web: https://rentachef.com/
 
+- entry: 1231574052
+  orgName: TheAnnandreas
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.theannandreas.com/
+
 - entry: 1231574268
   orgName: Skarpa Kvinns
   orgNumber: 802476-4881
@@ -12888,6 +12970,7 @@ entries:
   comment: Gåva
   categories:
   - djurskydd
+  - donation
   web: https://hundarutanhem.se/
 
 - entry: 1231616598
@@ -13631,6 +13714,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/nacka
+
+- entry: 1231721430
+  orgName: Hundhjälpen
+  orgNumber: 802420-6875
+  comment: null
+  categories:
+  - djurskydd
+  web: https://hundhjalpen.se/
 
 - entry: 1231721471
   orgName: SMK Hälsinge
@@ -15749,6 +15840,16 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-bohuslan/samorganisationer/samorganisation-orust/foreningar/stala.html
 
+- entry: 1232028553
+  orgName: Östgöta Nation
+  orgNumber: 262000-0717
+  comment: null
+  categories:
+  - donation
+  - studentnation
+  - studentorganisation
+  web: https://ostgotanation.se/
+
 - entry: 1232029361
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -16056,6 +16157,15 @@ entries:
   - intresseförening
   - western riding
   web: http://wris.se/
+
+- entry: 1232088334
+  orgName: Demokrati utan gränser
+  orgNumber: 802514-4257
+  comment: null
+  categories:
+  - donation
+  - intresseförening
+  web: https://www.democracywithoutborders.org/se/
 
 - entry: 1232088953
   orgName: Brottsofferjouren Nacka-Tyresö-Värmdö
@@ -16936,6 +17046,7 @@ entries:
   orgNumber: 802514-2285
   comment: null
   categories:
+  - donation
   - forskning
   - studentorganisation
   web: http://www.husolarteam.com/
@@ -17853,6 +17964,14 @@ entries:
   - ridskola
   web: https://www.tabyryttarcenter.se/
 
+- entry: 1232288975
+  orgName: MPIYO / Merethe Bråthen / Björn Östlund AB
+  orgNumber: 556822-3746
+  comment: null
+  categories:
+  - yoga
+  web: https://mpiyo.se/
+
 - entry: 1232289437
   orgName: Tyresö Pingstkyrka
   orgNumber: 802000-8713
@@ -18403,6 +18522,15 @@ entries:
   categories:
   - tennisklubb
   web: https://www.sloingetennisklubb.org/
+
+- entry: 1232375160
+  orgName: Västerås IK
+  orgNumber: 878000-6055
+  comment: Värvningspotten
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.vik.se/
 
 - entry: 1232375293
   orgName: Rodenkyrkan Norrtälje
@@ -19868,6 +19996,15 @@ entries:
   - bygdegårdsförening
   web: https://tadenebygdegard.wordpress.com/
 
+- entry: 1232637130
+  orgName: Green Forum
+  orgNumber: 802408-7689
+  comment: null
+  categories:
+  - donation
+  - intresseförening
+  web: https://greenforum.se/
+
 - entry: 1232637387
   orgName: Cannstaff / Cilla Cannerheim
   orgNumber: 700202-XXXX
@@ -20591,6 +20728,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/leksand/
 
+- entry: 1232715878
+  orgName: IOGT-NTO Linköping
+  orgNumber: 802506-5742
+  comment: Tipspromenader
+  categories:
+  - intresseförening
+  web: https://iogtlinkoping.se/
+
 - entry: 1232716066
   orgName: SPF-Hökerum
   orgNumber: 865500-9085
@@ -20833,6 +20978,7 @@ entries:
   orgNumber: 874000-8134
   comment: null
   categories:
+  - donation
   - kvinnojour
   web: https://www.unizonjourer.se/kvinnojourennordvarmland/
 
@@ -21193,6 +21339,14 @@ entries:
   - yoga
   web: https://houseofzen.se/
 
+- entry: 1232789949
+  orgName: Riksföreningen Jordens Vänner
+  orgNumber: 855100-9882
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.jordensvanner.se/
+
 - entry: 1232795367
   orgName: Piteå Skidskytte Klubb
   orgNumber: 802442-6473
@@ -21300,6 +21454,16 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.hlmhastsport.se/
+
+- entry: 1232806156
+  orgName: Mid Sweden Aid
+  orgNumber: 802467-5152
+  comment: null
+  categories:
+  - donation
+  - hjälporganisation
+  - välgörenhet
+  web: https://www.midswedenaid.eu/
 
 - entry: 1232806883
   orgName: Stiftelsen Stockholms Sjukhem
@@ -22475,6 +22639,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/gavle/bjorsjokyrkan
+
+- entry: 1233006939
+  orgName: IHusbil
+  orgNumber: 802538-3319
+  comment: null
+  categories:
+  - camping
+  - intresseförening
+  web: https://ihusbil.se/
 
 - entry: 1233008232
   orgName: Specialklubben Rhodesian Ridgeback Sverige, SRRS
@@ -25835,6 +26008,14 @@ entries:
   - ridklubb
   web: https://www.orebrofaltrittklubb.se/
 
+- entry: 1233511870
+  orgName: Cocaine Anonymous Sverige / CA Sverige
+  orgNumber: 802469-6497
+  comment: null
+  categories:
+  - intresseförening
+  web: https://ca-sweden.se/
+
 - entry: 1233511938
   orgName: Lekvattnets Skoterklubb
   orgNumber: 874000-7839
@@ -25848,6 +26029,7 @@ entries:
   orgNumber: 817600-9473
   comment: null
   categories:
+  - donation
   - förbund
   - intresseorganisation
   - patientförening
@@ -27273,6 +27455,14 @@ entries:
   - teater
   web: https://www.victoria.se/
 
+- entry: 1233755543
+  orgName: Skara Pastorat
+  orgNumber: 252003-2869
+  comment: Orgel Varnhem
+  categories:
+  - religion
+  web: https://varnhem.se/
+
 - entry: 1233755824
   orgName: Väckelsångs Församling
   orgNumber: 252000-6335
@@ -28088,6 +28278,16 @@ entries:
   - idrottsförening
   web: https://www.ljungbyif.nu/
 
+- entry: 1233883238
+  orgName: Rude Food
+  orgNumber: 802495-0696
+  comment: null
+  categories:
+  - catering
+  - donation
+  - återvinning
+  web: https://rudefood.se/
+
 - entry: 1233883691
   orgName: Supporterklubben Getingarna
   orgNumber: 857209-6546
@@ -28445,6 +28645,14 @@ entries:
   categories:
   - religion
   web: https://kungsor.pingst.se/
+
+- entry: 1233929734
+  orgName: Svensk - Eritreanskt Forum, S-ERI
+  orgNumber: 802010-2995
+  comment: null
+  categories:
+  - välgörenhet
+  web: http://www.seriforum.se/
 
 - entry: 1233930229
   orgName: Wanås Konst
@@ -29435,6 +29643,15 @@ entries:
   - skytte
   - sportskytte
   web: http://www.backamoskjutbana.n.nu/
+
+- entry: 1234066411
+  orgName: Norrsken Mind / Stiftelsen Osmand Foundation
+  orgNumber: 802481-8794
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://www.norrskenmind.org/
 
 - entry: 1234068078
   orgName: Smålands Taxklubb
@@ -34294,6 +34511,14 @@ entries:
   - båtvarv
   web: http://www.carlandersbatvarv.se/
 
+- entry: 1234940946
+  orgName: IOGT-NTO Linköping
+  orgNumber: 802506-5742
+  comment: Kamratstödet
+  categories:
+  - intresseförening
+  web: https://iogtlinkoping.se/
+
 - entry: 1234941449
   orgName: Suderkyrkan
   orgNumber: 834002-0000
@@ -34514,6 +34739,16 @@ entries:
   categories:
   - intresseförening
   web: https://spelberoende.se/goteborg/
+
+- entry: 1234968020
+  orgName: Action10
+  orgNumber: 802447-2147
+  comment: null
+  categories:
+  - donation
+  - hjälporganisation
+  - välgörenhet
+  web: https://www.action10.org/
 
 - entry: 1234971040
   orgName: Tjörns Släktforskare
@@ -34770,6 +35005,14 @@ entries:
   categories:
   - däckverkstad
   web: https://www.dackcenterstorahoga.se/
+
+- entry: 1235005137
+  orgName: Kristus Konungens Institut i Sverige
+  orgNumber: 252004-9863
+  comment: null
+  categories:
+  - religion
+  web: https://icrss.se/
 
 - entry: 1235006952
   orgName: Fem i Topp
@@ -36012,6 +36255,14 @@ entries:
   - prostatacancer
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/proliv-vast/
 
+- entry: 1235151642
+  orgName: Parlamentarikerforum för Lätta Vapen-frågor
+  orgNumber: 802430-6063
+  comment: null
+  categories:
+  - intresseförening
+  web: https://parliamentaryforum.org/
+
 - entry: 1235156047
   orgName: Sotenäs Fältrittklubb
   orgNumber: 854600-5714
@@ -36274,13 +36525,12 @@ entries:
   web: http://www.sbakno.se/
 
 - entry: 1235192851
-  orgName: Yogakliniken - Corobar AB
-  orgNumber: 556605-7997
+  orgName: Move Breathe Pause
+  orgNumber: 802532-2523
   comment: null
   categories:
-  - massage
   - yoga
-  web: https://yogakliniken.se/
+  web: https://movebreathepause.se/
 
 - entry: 1235194139
   orgName: Lost Goats AB
@@ -36857,6 +37107,14 @@ entries:
   - fotoklubb
   web: https://www.svenskfotografi.org/fotoklubbar/fotoklubben-kamera-angelholm/
 
+- entry: 1235281555
+  orgName: Norboda AB
+  orgNumber: 559161-8011
+  comment: null
+  categories:
+  - förlag
+  web: http://www.norboda.se/
+
 - entry: 1235282132
   orgName: Ramhälls Bygdegårds- och Hembygdsförening
   orgNumber: 817301-2215
@@ -37057,6 +37315,7 @@ entries:
   orgNumber: 802416-2219
   comment: null
   categories:
+  - donation
   - intresseorganisation
   web: https://www.brukarforeningarna.se/stockholm/
 
@@ -38261,6 +38520,7 @@ entries:
   orgNumber: 802490-9650
   comment: null
   categories:
+  - donation
   - hjälporganisation
   web: https://www.ademandforaction.com/
 
@@ -39108,6 +39368,15 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/Gavle/
+
+- entry: 1235598081
+  orgName: Karolinska Institutet
+  orgNumber: 202100-2973
+  comment: KI SÖS fond
+  categories:
+  - donation
+  - forskning
+  web: https://ki.se/kisos/forskning-for-basta-vard
 
 - entry: 1235599410
   orgName: Ecodive Stockholm
@@ -40840,6 +41109,16 @@ entries:
   - idrottsförening
   web: https://www.djik.se/
 
+- entry: 1235853072
+  orgName: Prinsessan Estelles Kulturstiftelse
+  orgNumber: 003418-6080
+  comment: null
+  categories:
+  - konst
+  - kultur
+  - stiftelse
+  web: https://www.preks.se/
+
 - entry: 1235854005
   orgName: Team Rynkeby
   orgNumber: 802533-7653
@@ -41510,6 +41789,7 @@ entries:
   orgNumber: 802006-3676
   comment: null
   categories:
+  - donation
   - stiftelse
   web: https://sweamfo.se/
 
@@ -43008,7 +43288,7 @@ entries:
   categories:
   - djurskydd
   - djurvård
-  - förening
+  - donation
   web: https://www.svenskadjurambulansen.se/
 
 - entry: 1236188874
@@ -43307,6 +43587,15 @@ entries:
   - religion
   web: https://vasteras.adventkyrka.se/
 
+- entry: 1236243570
+  orgName: Föreningen för Digitala Fri- och Rättigheter, DFRI
+  orgNumber: 802461-0852
+  comment: null
+  categories:
+  - donation
+  - intresseförening
+  web: https://www.dfri.se/
+
 - entry: 1236243729
   orgName: CH Anderssons Trafikskola AB
   orgNumber: 556743-6968
@@ -43431,6 +43720,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.norrbyif.se/
+
+- entry: 1236257695
+  orgName: Stiftelsen BERAS Intenational
+  orgNumber: 802478-1778
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://www.berasinternational.se/
 
 - entry: 1236263057
   orgName: Katrineholms Scoutkår
@@ -45071,6 +45369,19 @@ entries:
   - hembygdsförening
   web: https://www.kuoksuhembygd.se/
 
+- entry: 1236512792
+  orgName: Stiftelsen Mannaminne
+  orgNumber: 888400-6761
+  comment: null
+  categories:
+  - barnverksamhet
+  - donation
+  - festival
+  - konsert
+  - stiftelse
+  - utställning
+  web: https://mannaminne.se/
+
 - entry: 1236512933
   orgName: Idrottsklubben Surd
   orgNumber: 857203-8563
@@ -45830,6 +46141,16 @@ entries:
   - katthem
   web: https://kks.nu/
 
+- entry: 1236673982
+  orgName: Project Vita
+  orgNumber: 802498-2459
+  comment: null
+  categories:
+  - donation
+  - hjälporganisation
+  - välgörenhet
+  web: https://projectvita.org/
+
 - entry: 1236674022
   orgName: Riksförbundet Veterinär Omtanke Om Våldsutsatta, VOOV
   orgNumber: 802446-8160
@@ -46100,6 +46421,14 @@ entries:
   - fiskevård
   - vattenvård
   web: https://laxskyddare.se/
+
+- entry: 1236694632
+  orgName: Stockholms Universitets Konstförening
+  orgNumber: 802018-0454
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.su.se/medarbetare/anst%C3%A4lld/n%C3%A4tverk-f%C3%B6reningar/konstf%C3%B6reningen
 
 - entry: 1236695241
   orgName: Agapes Vänner i Uddevalla, Munkedal, Tanum
@@ -46395,6 +46724,14 @@ entries:
   - refluxkirurgi
   - överviktskirurgi
   web: https://kirurgicentrum.se/
+
+- entry: 1236737928
+  orgName: ABLE Foundation
+  orgNumber: 802480-8712
+  comment: null
+  categories:
+  - välgörenhet
+  web: http://able.foundation/
 
 - entry: 1236741789
   orgName: Simon Advokatbyrå AB
@@ -46844,6 +47181,15 @@ entries:
   - kulturförening
   web: https://kultwatch.se/
 
+- entry: 1236800841
+  orgName: Kornas Vänner / Almviks Gård Hare Krishna Temple
+  orgNumber: 802476-9021
+  comment: null
+  categories:
+  - ekologiskt
+  - religion
+  web: https://almviksgard.se/
+
 - entry: 1236804488
   orgName: Brännöföreningen
   orgNumber: 857204-5568
@@ -47089,6 +47435,14 @@ entries:
   categories:
   - stiftelse
   web: https://www.annalindhsminnesfond.se/
+
+- entry: 1236837678
+  orgName: Keren Kajemet Sverige
+  orgNumber: 802403-7502
+  comment: null
+  categories:
+  - välgörenhet
+  web: https://www.kkl.nu/
 
 - entry: 1236840896
   orgName: Stiftelsen Skandinavisk Yoga och Meditationsskola
@@ -48820,6 +49174,7 @@ entries:
   orgNumber: 802436-5481
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   web: https://www.assyrierutangranser.se/
 
@@ -51041,6 +51396,7 @@ entries:
   orgNumber: 802477-8196
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - stiftelse
   web: https://www.insamlingsstiftelsen.se/
@@ -51050,6 +51406,7 @@ entries:
   orgNumber: 802477-3643
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - stiftelse
   web: https://www.jlof.net/
@@ -51176,6 +51533,7 @@ entries:
   orgNumber: 802478-1505
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - stiftelse
   web: https://www.childfriend.se/
@@ -51331,8 +51689,8 @@ entries:
   orgNumber: 802400-5418
   comment: null
   categories:
+  - donation
   - insamlingskontroll
-  - overifierad
   web: https://www.reportrarutangranser.se/
 
 - entry: 1239004516
@@ -51898,6 +52256,7 @@ entries:
   orgNumber: 802006-2942
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - scoutkår
   - stiftelse
@@ -52474,6 +52833,7 @@ entries:
   orgNumber: 802017-2360
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.lakareutangranser.se/
@@ -53072,7 +53432,9 @@ entries:
   orgNumber: 802442-0641
   comment: null
   categories:
+  - donation
   - insamlingskontroll
+  - intresseförening
   web: https://www.westpride.se/
 
 - entry: 1239006834
@@ -53089,6 +53451,7 @@ entries:
   orgNumber: 802416-4280
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://sv.ewb-swe.org/
@@ -53463,8 +53826,8 @@ entries:
   orgNumber: 802004-4288
   comment: null
   categories:
+  - donation
   - insamlingskontroll
-  - overifierad
   web: https://www.sportfiskarna.se/
 
 - entry: 1239007303
@@ -54639,6 +55002,7 @@ entries:
   orgNumber: 815200-8317
   comment: null
   categories:
+  - donation
   - forskning
   - godkänd gåvomottagare
   - insamlingskontroll
@@ -55348,6 +55712,7 @@ entries:
   orgNumber: 802401-4386
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   - välgörenhet
@@ -55367,6 +55732,7 @@ entries:
   orgNumber: 802002-8638
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   - välgörenhet
