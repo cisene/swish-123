@@ -347,11 +347,12 @@ entries:
   web: https://www.fralsningsarmen.se/norrkoping/
 
 - entry: 1230041079
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Resmo kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
 
 - entry: 1230045567
   orgName: Partiet MoD
@@ -1533,6 +1534,22 @@ entries:
   - utbildning
   web: https://mattssons-trafikskola.se/
 
+- entry: 1230192963
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Ventlinge kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
+- entry: 1230192971
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Glömminge kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
 - entry: 1230193045
   orgName: Österåkers Idrottssällskap (ÖIS)
   orgNumber: 818500-3525
@@ -2456,6 +2473,14 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.braaspork.se/
+
+- entry: 1230310904
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Barnverksamhet i Nådens kapell
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
 
 - entry: 1230313833
   orgName: Brf Pinnpojken
@@ -4408,6 +4433,22 @@ entries:
   - bygdegårdsförening
   web: https://evertsbergsbygdegard.se/
 
+- entry: 1230550061
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Algutsrums kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
+- entry: 1230550095
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Gräsgårds kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
 - entry: 1230550111
   orgName: Tosäters Byhistoriska Förening
   orgNumber: 802462-7278
@@ -4432,6 +4473,14 @@ entries:
   categories:
   - golfklubb
   web: https://www.allerumgk.nu/
+
+- entry: 1230553255
+  orgName: Vä-Skepparslövs Församling
+  orgNumber: 252002-7794
+  comment: Träne kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/va-skepparslov
 
 - entry: 1230553263
   orgName: Uppsala Pastorat
@@ -11059,6 +11108,14 @@ entries:
   - ridsport
   web: https://www.eksjorf.se/
 
+- entry: 1231375831
+  orgName: Vä-Skepparslövs Församling
+  orgNumber: 252002-7794
+  comment: Djurröds kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/va-skepparslov
+
 - entry: 1231375849
   orgName: Tärna IK Fjällvinden
   orgNumber: 895400-2104
@@ -11827,6 +11884,22 @@ entries:
   - idrottsförening
   web: https://www.djik.se/
 
+- entry: 1231485267
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Stenåsa kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
+- entry: 1231485275
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Vickleby kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
 - entry: 1231485341
   orgName: Aspeboda Hembygdsförening
   orgNumber: 883201-4842
@@ -12409,9 +12482,9 @@ entries:
   web: https://www.hammarbyfotboll.se/
 
 - entry: 1231556661
-  orgName: Södra Ölands pastorat
+  orgName: Södra Ölands Pastorat
   orgNumber: 252003-8874
-  comment: null
+  comment: Bokbordet
   categories:
   - religion
   web: https://www.svenskakyrkan.se/sodraoland
@@ -13102,9 +13175,9 @@ entries:
   web: https://www.sigrid.se/
 
 - entry: 1231628908
-  orgName: Mörbylånga-Kastlösa Församling
-  orgNumber: 252002-7323
-  comment: null
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Mörbylånga kyrka
   categories:
   - religion
   web: https://www.svenskakyrkan.se/sodraoland
@@ -19036,6 +19109,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1232440170
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Södra Möckleby kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
 - entry: 1232440469
   orgName: Oskarshamns Golfklubb
   orgNumber: 832800-5122
@@ -19059,6 +19140,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://www.svenskalag.se/solbackensbygdegardsforening
+
+- entry: 1232450344
+  orgName: Vä-Skepparslövs Församling
+  orgNumber: 252002-7794
+  comment: Kollekt
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/va-skepparslov
 
 - entry: 1232453876
   orgName: Rättviks Golfby AB
@@ -24323,6 +24412,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/finnmarken
 
+- entry: 1233262755
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Segerstads kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
 - entry: 1233264330
   orgName: Vänskapsförbundet Sverige-Israel Riksorganisation
   orgNumber: 802400-3322
@@ -26797,6 +26894,14 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/oskarshamn/
 
+- entry: 1233620440
+  orgName: Vä-Skepparslövs Församling
+  orgNumber: 252002-7794
+  comment: Administration
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/va-skepparslov
+
 - entry: 1233620457
   orgName: Katthemmet i Vaxholm / Föreningen Djurhjälpen
   orgNumber: 802409-2143
@@ -26898,6 +27003,14 @@ entries:
   - seans
   - spiritualism
   web: https://www.helhetenskraft.com/
+
+- entry: 1233631421
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Gårdby kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
 
 - entry: 1233632627
   orgName: Torsten Renqvist Sällskapet
@@ -27157,6 +27270,14 @@ entries:
   categories:
   - scoutkår
   web: https://kristinascoutkar.scout.se/
+
+- entry: 1233681152
+  orgName: Vä-Skepparslövs Församling
+  orgNumber: 252002-7794
+  comment: Köpinge kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/va-skepparslov
 
 - entry: 1233698545
   orgName: Åhus Brukshundklubb
@@ -27675,6 +27796,14 @@ entries:
   categories:
   - djurskydd
   web: https://www.fiahemmet.se/
+
+- entry: 1233796687
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Kastlösa kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
 
 - entry: 1233797040
   orgName: Stödföreningen för Barbro Johanssons fond för utbildning av flickor i Tanzania, JOHAfonden
@@ -28339,6 +28468,14 @@ entries:
   categories:
   - tennisklubb
   web: https://www.kalmartk.se/
+
+- entry: 1233885209
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Smedby kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
 
 - entry: 1233886231
   orgName: Öna Bygdegårdsförening
@@ -29818,6 +29955,14 @@ entries:
   - idrottsförening
   web: https://www.agabtk.se/
 
+- entry: 1234120903
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Sandby kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
 - entry: 1234122677
   orgName: null
   orgNumber: null
@@ -30271,6 +30416,22 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegardarna.se/hitta-bygdegard/resta/
+
+- entry: 1234202206
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Torslunda kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
+- entry: 1234202214
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Ås kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
 
 - entry: 1234202503
   orgName: Stiftelsen Ekocentrum
@@ -32847,6 +33008,14 @@ entries:
   - golfklubb
   web: http://www.kalixgolfklubb.se/
 
+- entry: 1234584504
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Norra Möckleby kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
+
 - entry: 1234585709
   orgName: Svenska Läkare för Miljön o mot Miljöförstöring
   orgNumber: 802400-2787
@@ -32912,6 +33081,14 @@ entries:
   categories:
   - supporterklubb
   web: https://www.facebook.com/OrebroTifo2002/
+
+- entry: 1234594800
+  orgName: Vä-Skepparslövs Församling
+  orgNumber: 252002-7794
+  comment: Skepparslövs kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/va-skepparslov
 
 - entry: 1234595237
   orgName: Rusty P´s Kulturförening
@@ -34695,6 +34872,14 @@ entries:
   categories:
   - yoga
   web: https://zoloz.se/
+
+- entry: 1234959482
+  orgName: Södra Ölands Pastorat
+  orgNumber: 252003-8874
+  comment: Hulterstads kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sodraoland
 
 - entry: 1234962924
   orgName: Lerums Scoutkår

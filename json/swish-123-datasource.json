@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-15-rev-143923",
+    "date": "2023-10-15-rev-162641",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -382,6 +382,16 @@
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "comment": "Musikk\u00e5ren Norrk\u00f6ping",
       "web": "https://www.fralsningsarmen.se/norrkoping/"
+    },
+    {
+      "entry": 1230041079,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Resmo kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1230045567,
@@ -1685,6 +1695,26 @@
       "web": "https://mattssons-trafikskola.se/"
     },
     {
+      "entry": 1230192963,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Ventlinge kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
+      "entry": 1230192971,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Gl\u00f6mminge kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
       "entry": 1230193045,
       "orgNumber": "818500-3525",
       "orgName": "\u00d6ster\u00e5kers Idrottss\u00e4llskap (\u00d6IS)",
@@ -2722,6 +2752,16 @@
         "ridklubb"
       ],
       "web": "https://www.braaspork.se/"
+    },
+    {
+      "entry": 1230310904,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Barnverksamhet i N\u00e5dens kapell",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1230313833,
@@ -4874,6 +4914,26 @@
       "web": "https://evertsbergsbygdegard.se/"
     },
     {
+      "entry": 1230550061,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Algutsrums kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
+      "entry": 1230550095,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Gr\u00e4sg\u00e5rds kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
       "entry": 1230550111,
       "orgNumber": "802462-7278",
       "orgName": "Tos\u00e4ters Byhistoriska F\u00f6rening",
@@ -4900,6 +4960,16 @@
         "golfklubb"
       ],
       "web": "https://www.allerumgk.nu/"
+    },
+    {
+      "entry": 1230553255,
+      "orgNumber": "252002-7794",
+      "orgName": "V\u00e4-Skepparsl\u00f6vs F\u00f6rsamling",
+      "comment": "Tr\u00e4ne kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/va-skepparslov"
     },
     {
       "entry": 1230553263,
@@ -12258,6 +12328,16 @@
       "web": "https://www.eksjorf.se/"
     },
     {
+      "entry": 1231375831,
+      "orgNumber": "252002-7794",
+      "orgName": "V\u00e4-Skepparsl\u00f6vs F\u00f6rsamling",
+      "comment": "Djurr\u00f6ds kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/va-skepparslov"
+    },
+    {
       "entry": 1231375849,
       "orgNumber": "895400-2104",
       "orgName": "T\u00e4rna IK Fj\u00e4llvinden",
@@ -13111,6 +13191,26 @@
       "web": "https://www.djik.se/"
     },
     {
+      "entry": 1231485267,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Sten\u00e5sa kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
+      "entry": 1231485275,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Vickleby kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
       "entry": 1231485341,
       "orgNumber": "883201-4842",
       "orgName": "Aspeboda Hembygdsf\u00f6rening",
@@ -13771,7 +13871,8 @@
     {
       "entry": 1231556661,
       "orgNumber": "252003-8874",
-      "orgName": "S\u00f6dra \u00d6lands pastorat",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Bokbordet",
       "categories": [
         "religion"
       ],
@@ -14543,8 +14644,9 @@
     },
     {
       "entry": 1231628908,
-      "orgNumber": "252002-7323",
-      "orgName": "M\u00f6rbyl\u00e5nga-Kastl\u00f6sa F\u00f6rsamling",
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "M\u00f6rbyl\u00e5nga kyrka",
       "categories": [
         "religion"
       ],
@@ -21215,6 +21317,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1232440170,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "S\u00f6dra M\u00f6ckleby kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
       "entry": 1232440469,
       "orgNumber": "832800-5122",
       "orgName": "Oskarshamns Golfklubb",
@@ -21240,6 +21352,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/solbackensbygdegardsforening"
+    },
+    {
+      "entry": 1232450344,
+      "orgNumber": "252002-7794",
+      "orgName": "V\u00e4-Skepparsl\u00f6vs F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/va-skepparslov"
     },
     {
       "entry": 1232453876,
@@ -27104,6 +27226,16 @@
       "web": "https://www.hembygd.se/finnmarken"
     },
     {
+      "entry": 1233262755,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Segerstads kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
       "entry": 1233264330,
       "orgNumber": "802400-3322",
       "orgName": "V\u00e4nskapsf\u00f6rbundet Sverige-Israel Riksorganisation",
@@ -29894,6 +30026,16 @@
       "web": "https://www.fralsningsarmen.se/oskarshamn/"
     },
     {
+      "entry": 1233620440,
+      "orgNumber": "252002-7794",
+      "orgName": "V\u00e4-Skepparsl\u00f6vs F\u00f6rsamling",
+      "comment": "Administration",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/va-skepparslov"
+    },
+    {
       "entry": 1233620457,
       "orgNumber": "802409-2143",
       "orgName": "Katthemmet i Vaxholm / F\u00f6reningen Djurhj\u00e4lpen",
@@ -30001,6 +30143,16 @@
         "spiritualism"
       ],
       "web": "https://www.helhetenskraft.com/"
+    },
+    {
+      "entry": 1233631421,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "G\u00e5rdby kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1233632627,
@@ -30286,6 +30438,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://kristinascoutkar.scout.se/"
+    },
+    {
+      "entry": 1233681152,
+      "orgNumber": "252002-7794",
+      "orgName": "V\u00e4-Skepparsl\u00f6vs F\u00f6rsamling",
+      "comment": "K\u00f6pinge kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/va-skepparslov"
     },
     {
       "entry": 1233698545,
@@ -30863,6 +31025,16 @@
         "djurskydd"
       ],
       "web": "https://www.fiahemmet.se/"
+    },
+    {
+      "entry": 1233796687,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Kastl\u00f6sa kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1233797040,
@@ -31603,6 +31775,16 @@
         "tennisklubb"
       ],
       "web": "https://www.kalmartk.se/"
+    },
+    {
+      "entry": 1233885209,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Smedby kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1233886231,
@@ -33242,6 +33424,16 @@
       "web": "https://www.agabtk.se/"
     },
     {
+      "entry": 1234120903,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Sandby kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
       "entry": 1234123014,
       "orgNumber": "826000-2285",
       "orgName": "J\u00f6nk\u00f6pings F\u00e4ltrittklubb",
@@ -33740,6 +33932,26 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/hitta-bygdegard/resta/"
+    },
+    {
+      "entry": 1234202206,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Torslunda kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
+      "entry": 1234202214,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "\u00c5s kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1234202503,
@@ -36626,6 +36838,16 @@
       "web": "http://www.kalixgolfklubb.se/"
     },
     {
+      "entry": 1234584504,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Norra M\u00f6ckleby kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
       "entry": 1234585709,
       "orgNumber": "802400-2787",
       "orgName": "Svenska L\u00e4kare f\u00f6r Milj\u00f6n o mot Milj\u00f6f\u00f6rst\u00f6ring",
@@ -36698,6 +36920,16 @@
         "supporterklubb"
       ],
       "web": "https://www.facebook.com/OrebroTifo2002/"
+    },
+    {
+      "entry": 1234594800,
+      "orgNumber": "252002-7794",
+      "orgName": "V\u00e4-Skepparsl\u00f6vs F\u00f6rsamling",
+      "comment": "Skepparsl\u00f6vs kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/va-skepparslov"
     },
     {
       "entry": 1234595237,
@@ -38704,6 +38936,16 @@
         "yoga"
       ],
       "web": "https://zoloz.se/"
+    },
+    {
+      "entry": 1234959482,
+      "orgNumber": "252003-8874",
+      "orgName": "S\u00f6dra \u00d6lands Pastorat",
+      "comment": "Hulterstads kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
       "entry": 1234962924,
