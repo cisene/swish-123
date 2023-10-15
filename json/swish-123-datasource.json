@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-15-rev-134811",
+    "date": "2023-10-15-rev-142335",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2304,6 +2304,7 @@
       "orgNumber": "559247-5718",
       "orgName": "Insikt24 / Exakt24 / Svensk n\u00e4tmedia AB",
       "categories": [
+        "alternativa media",
         "alternativa nyheter"
       ],
       "web": "https://insikt24.se/"
@@ -31037,8 +31038,7 @@
       "orgNumber": "934003-3894",
       "orgName": "Royal Thai Embassy / Royal Thai Consulate",
       "categories": [
-        "donation",
-        "v\u00e4lg\u00f6renhet"
+        "ambassad"
       ],
       "web": "https://thaiembassy.se/"
     },
@@ -41465,7 +41465,7 @@
       "orgNumber": "802477-8519",
       "orgName": "Gittan Crafoords Insamlingsstiftelse",
       "categories": [
-        "alkoholism",
+        "alkoholproblematik",
         "behandling",
         "beroendeproblematik",
         "forskning",
@@ -42082,6 +42082,7 @@
       "orgNumber": "559074-2184",
       "orgName": "Svensk Webbtelevision AB",
       "categories": [
+        "alternativa media",
         "alternativa nyheter"
       ],
       "web": "https://swebbtv.se/"
@@ -49290,6 +49291,7 @@
       "orgNumber": "559331-5137",
       "orgName": "Nyhetskartan Media AB",
       "categories": [
+        "alternativa media",
         "alternativa nyheter"
       ],
       "web": "https://nyhetskartan.se/"

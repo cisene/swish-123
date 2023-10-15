@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-10-15-rev-134811
+# Date: 2023-10-15-rev-142335
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -240,7 +240,7 @@
 "1230263103","802012-0880","Stiftelsen Hemmet Vid Vägen","https://hemmetvidvagen.se/","stiftelse",""
 "1230263236","802524-0097","Bibelns värld","https://bibelnsvarld.nu/","religion",""
 "1230263343","760815-XXXX","Yogafarmen / Linnéa El-Solh","https://www.yogafarmen.se/","yoga",""
-"1230263723","559247-5718","Insikt24 / Exakt24 / Svensk nätmedia AB","https://insikt24.se/","alternativa nyheter",""
+"1230263723","559247-5718","Insikt24 / Exakt24 / Svensk nätmedia AB","https://insikt24.se/","alternativa media,alternativa nyheter",""
 "1230264101","802461-2221","IK Spring Väst","https://www.ikspringvast.com/","idrottsförening",""
 "1230265298","556819-4277","Palaestra podd / Palaestra Media","https://palaestramedia.com/","podcast",""
 "1230265462","802533-7794","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Skaraborg, Sventorps skola"
@@ -3143,7 +3143,7 @@
 "1233817673","802533-7786","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Lund, Alléskolan"
 "1233817715","802535-9137","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kristianstad, Thorén Framtid"
 "1233818648","802000-2369","Avelsföreningen Svenska Ardennerhästen","https://www.ardennerforeningen.nu/","avel,hästuppfödning",""
-"1233818762","934003-3894","Royal Thai Embassy / Royal Thai Consulate","https://thaiembassy.se/","donation,välgörenhet",""
+"1233818762","934003-3894","Royal Thai Embassy / Royal Thai Consulate","https://thaiembassy.se/","ambassad",""
 "1233819158","883202-1177","Leksands Fågelklubb","http://www.leksandsfagelklubb.se/","fågelklubb,naturskydd,ornitologi",""
 "1233820172","252004-9947","Gävle Församling","https://www.svenskakyrkan.se/gavle/mariakyrkan","religion","Mariakyrkan kollekt"
 "1233824877","802481-2169","Insamlingsstiftelsen Ellas Hjältar","https://www.ellashjaltar.se/","stiftelse",""
@@ -4196,7 +4196,7 @@
 "1235285150","802537-0241","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Sjuhärad, Ekarängsskolan"
 "1235285176","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Täby, Internationella Engelska Skolan i Täby"
 "1235285192","802532-8033","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Värmland, Engelska skolan i Karlstad"
-"1235288014","802477-8519","Gittan Crafoords Insamlingsstiftelse","https://www.gittansstiftelse.se/","alkoholism,behandling,beroendeproblematik,forskning,stiftelse,utbildning",""
+"1235288014","802477-8519","Gittan Crafoords Insamlingsstiftelse","https://www.gittansstiftelse.se/","alkoholproblematik,behandling,beroendeproblematik,forskning,stiftelse,utbildning",""
 "1235288162","826000-0073","Ansgariikyrkans Församling","https://ansgariikyrkan.se/","religion","Kollekt, insamlingar"
 "1235288600","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/Krokek/","religion","Krokek"
 "1235292131","878001-5684","Ängsö Röda Korskrets","https://www.rodakorset.se/ort/vastmanland/vasteras-stad/","hjälporganisation",""
@@ -4256,7 +4256,7 @@
 "1235354675","844001-2758","FAS-Portalen / FAS-föreningen","https://www.fasportalen.se/","hälsa,neurohälsa",""
 "1235354956","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/Mora/","religion","Mora"
 "1235356662","559095-0688","Roslagens Antik och Auktionsverk AB","https://roslagensauktionsverk.se/","auktioner,auktionsverk",""
-"1235358692","559074-2184","Svensk Webbtelevision AB","https://swebbtv.se/","alternativa nyheter",""
+"1235358692","559074-2184","Svensk Webbtelevision AB","https://swebbtv.se/","alternativa media,alternativa nyheter",""
 "1235359005","559296-0586","Restaurang Ellis / Ellis Mat & Dryck AB","http://restaurangellis.se/","restaurant",""
 "1235359153","556596-9382","Ätrans Turist & Fritid AB","https://atransturist.se/","aktivitetshus,logi,stuguthyrning",""
 "1235368980","802433-9866","Föreningen Jordbro United Dans & Show, JUDS","https://www.jordbrounited.com/","barnverksamhet,dansundervisning,ungdomsverksamhet",""
@@ -4983,7 +4983,7 @@
 "1236314017","802530-3051","Mamma United","https://www.mammaunited.se/","förening,intresseförening",""
 "1236314314","559198-1831","License Trafikskola AB","https://www.licensetrafikskola.se/","trafikskola,utbildning",""
 "1236322432","802513-2336","NyFramtid","https://www.nyframtid.se/","politiskt parti",""
-"1236325534","559331-5137","Nyhetskartan Media AB","https://nyhetskartan.se/","alternativa nyheter",""
+"1236325534","559331-5137","Nyhetskartan Media AB","https://nyhetskartan.se/","alternativa media,alternativa nyheter",""
 "1236328629","003308-3411","Sekelskiftesdagarna i Marstrand ideella förening","http://www.sekelskiftesdagarna.se/","historia,kulturförening",""
 "1236329718","802461-7998","Bohuslän-Dals Bridgeförening","https://www.svenskbridge.se/bohuslän-dals-bf/","bridgeklubb",""
 "1236333041","802490-1863","Uppsala Makalösa Föräldrar","https://makalosa.org/","föräldraskap",""
