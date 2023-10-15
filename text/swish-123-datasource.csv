@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-10-15-rev-142335
+# Date: 2023-10-15-rev-143923
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2545,7 +2545,7 @@
 "1232980456","863500-3802","Skepplanda BTK","https://www.laget.se/Skepplanda/","fotbollsklubb,idrottsförening","Försäljning"
 "1232980514","817300-7447","OK Rodhen","https://www.okrodhen.se/","idrottsförening,orienteringsklubb",""
 "1232980878","802004-9451","Tenstakyrkan","http://www.tenstakyrkan.se/","donation,religion",""
-"1232981090","559367-0671","Bulletin Media Sverige AB","https://bulletin.nu/","alternativa media,lokaltidning",""
+"1232981090","559367-0671","Bulletin Media Sverige AB","https://bulletin.nu/","alternativa media,alternativa nyheter,lokaltidning",""
 "1232981710","559350-3799","metmask.com / Animal-A Alltjänst AB","https://metmask.com/","fiske",""
 "1232981785","802003-1434","Solvalla Amatörklubb","http://solvalla-amatorklubb.se/","travsport",""
 "1232990513","802432-7630","Hundar Utan Hem","https://hundarutanhem.se/","djurskydd","Adoptionsavgift"
@@ -4125,7 +4125,7 @@
 "1235191127","885501-3895","Svenska Bassetklubben Nordöstra","http://www.sbakno.se/","hundklubb,hundsport",""
 "1235192851","802532-2523","Move Breathe Pause","https://movebreathepause.se/","yoga",""
 "1235194139","559322-8371","Lost Goats AB","","löpning",""
-"1235196373","559291-6455","FrihetsNytt / Marketing4Future M4F AB","https://frihetsnytt.se/","alternativa media",""
+"1235196373","559291-6455","FrihetsNytt / Marketing4Future M4F AB","https://frihetsnytt.se/","alternativa media,alternativa nyheter",""
 "1235200407","838200-9887","Hörselskadades Riksförbund Kristianstad","https://hrf.se/kristianstad/","hörselskadad,riksförbund",""
 "1235200860","556513-1207","Lilla Götafors / Malin Och Simon Färg och Form AB","https://lillagotafors.se/","bröllop,event,fester,konferenser,möten",""
 "1235202742","868400-8009","Varnhems IF","https://www.varnhemsif.se/","idrottsförening",""
@@ -4408,7 +4408,7 @@
 "1235537121","817000-6012","Enköpings RK - Ridsport","https://www.enkopingsrk.se/","ridklubb,ridskola",""
 "1235537279","846502-7210","Skandinaviska WAKF i Sverige","https://www.wakf.se/","religion",""
 "1235537410","883800-6933","Ludvika BK","https://idrottonline.se/LudvikaBK-Bowling/","bowlingklubb,idrottsförening",""
-"1235543541","559002-4617","Blank Spot Project AB","https://blankspot.se/","alternativa media,journalistik",""
+"1235543541","559002-4617","Blank Spot Project AB","https://blankspot.se/","alternativa media,alternativa nyheter,journalistik",""
 "1235543806","720222-XXXX","Your Wise Soul by Camilla / Camilla Nilsson","https://www.yourwisesoul.com/","aurateckning,healing,massage,meditation,medium",""
 "1235544168","802013-4642","Cornelis Vreeswijksällskapet","https://www.cornelis.se/","intresseförening,kultur,musik",""
 "1235544838","849200-6948","Livräddarna Tylösand","http://www.tylosand.net/","livräddning",""

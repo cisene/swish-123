@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-15-rev-142335",
+    "date": "2023-10-15-rev-143923",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -25103,6 +25103,7 @@
       "orgName": "Bulletin Media Sverige AB",
       "categories": [
         "alternativa media",
+        "alternativa nyheter",
         "lokaltidning"
       ],
       "web": "https://bulletin.nu/"
@@ -40742,7 +40743,8 @@
       "orgNumber": "559291-6455",
       "orgName": "FrihetsNytt / Marketing4Future M4F AB",
       "categories": [
-        "alternativa media"
+        "alternativa media",
+        "alternativa nyheter"
       ],
       "web": "https://frihetsnytt.se/"
     },
@@ -43583,6 +43585,7 @@
       "orgName": "Blank Spot Project AB",
       "categories": [
         "alternativa media",
+        "alternativa nyheter",
         "journalistik"
       ],
       "web": "https://blankspot.se/"
