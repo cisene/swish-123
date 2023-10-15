@@ -147,6 +147,14 @@ entries:
   - utrustning
   web: https://spikmattan.com/
 
+- entry: 1230009357
+  orgName: Alsters Sockens Hembygdsförening
+  orgNumber: 873200-5551
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/alster
+
 - entry: 1230009381
   orgName: Linköpings MS - Bilsport
   orgNumber: 822001-0626
@@ -6929,6 +6937,7 @@ entries:
   categories:
   - bowling
   - försäljning
+  - sportmarterial
   web: https://stroms.biz/
 
 - entry: 1230854976
@@ -7922,6 +7931,15 @@ entries:
   categories:
   - hjälporganisation
   web: https://www.affc.se/
+
+- entry: 1230985242
+  orgName: Kolsbro Häst och Fritid AB
+  orgNumber: 556629-8856
+  comment: null
+  categories:
+  - hästklubb
+  - ridskola
+  web: https://www.kolsbro.cybersite.se/
 
 - entry: 1230986372
   orgName: Västerbottens läns Stövarklubb, VBSK
@@ -9195,6 +9213,15 @@ entries:
   - skytte
   web: https://www.fokboras.se/
 
+- entry: 1231153063
+  orgName: Svenska Barnmorskeförbundet
+  orgNumber: 802000-2658
+  comment: null
+  categories:
+  - förbund
+  - vårdförbund
+  web: https://www.barnmorskeforbundet.se/
+
 - entry: 1231153329
   orgName: Tomaskyrkan
   orgNumber: 556706-5262
@@ -9511,6 +9538,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.nosabyif.nu/
+
+- entry: 1231185123
+  orgName: Väsby OK
+  orgNumber: 814800-5815
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.svenskalag.se/vasbyok
 
 - entry: 1231185495
   orgName: Blågula Korset
@@ -19511,6 +19547,15 @@ entries:
   - hundhem
   web: http://lyrestadshundcenter.se/
 
+- entry: 1232544831
+  orgName: Den Goda Jorden
+  orgNumber: 802422-8747
+  comment: null
+  categories:
+  - intresseförening
+  - utbildning
+  web: https://dengodajorden.se/
+
 - entry: 1232545812
   orgName: Vectrum Trafikutbildning AB
   orgNumber: 556877-6800
@@ -22453,6 +22498,14 @@ entries:
   - förening
   - intresseorganisation
   web: https://kallslatten.se/
+
+- entry: 1232956852
+  orgName: Örnsköldsviks Kommun
+  orgNumber: 212000-2445
+  comment: Träffpunkter, sociala aktiviteter för äldre
+  categories:
+  - kommun
+  web: https://www.ornskoldsvik.se/omsorg-och-stod#Aldre
 
 - entry: 1232957595
   orgName: Strädelängan Ekonomisk förening
@@ -27279,6 +27332,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/va-skepparslov
 
+- entry: 1233698362
+  orgName: Svenska Barnmorskeförbundet
+  orgNumber: 802000-2658
+  comment: null
+  categories:
+  - förbund
+  - vårdförbund
+  web: https://www.barnmorskeforbundet.se/
+
 - entry: 1233698545
   orgName: Åhus Brukshundklubb
   orgNumber: 838202-3508
@@ -31175,6 +31237,17 @@ entries:
   - terminated
   web: http://www.racystar.com/
 
+- entry: 1234309704
+  orgName: BUS - Barn och Unga i Sverige
+  orgNumber: 802497-1478
+  comment: null
+  categories:
+  - barnverksamhet
+  - donation
+  - riksorganisation
+  - ungdomsverksamhet
+  web: https://www.bus.nu/
+
 - entry: 1234310108
   orgName: SwebbTube / Svensk Webbtelevision AB
   orgNumber: 559074-2184
@@ -32588,6 +32661,14 @@ entries:
   categories:
   - hundklubb
   web: https://whippetklubben.se/
+
+- entry: 1234525242
+  orgName: Dyslexiförbundet
+  orgNumber: 857204-1930
+  comment: null
+  categories:
+  - dolda handikapp
+  web: https://dyslexi.org/
 
 - entry: 1234525929
   orgName: Strömstads Motorklubb
@@ -34935,6 +35016,15 @@ entries:
   - hjälporganisation
   - välgörenhet
   web: https://www.action10.org/
+
+- entry: 1234968152
+  orgName: Väsby OK
+  orgNumber: 814800-5815
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.svenskalag.se/vasbyok
 
 - entry: 1234971040
   orgName: Tjörns Släktforskare
@@ -37978,6 +38068,14 @@ entries:
   - religion
   web: null
 
+- entry: 1235372925
+  orgName: Göteborgs Barnmorskesällskap
+  orgNumber: 857200-1124
+  comment: null
+  categories:
+  - vårdförbund
+  web: https://www.barnmorskeforbundet.se/lokalforeningar/goteborg/
+
 - entry: 1235373485
   orgName: Varuhandel i Mönsterås AB
   orgNumber: 559144-3501
@@ -39899,6 +39997,15 @@ entries:
   categories:
   - idrottsförening
   web: https://idrottonline.se/LillpiteIF
+
+- entry: 1235636352
+  orgName: Föreningen Mot Bättre Vetande
+  orgNumber: 857203-4745
+  comment: null
+  categories:
+  - barnverksamhet
+  - utbildning
+  web: https://mbv.se/
 
 - entry: 1235636527
   orgName: Kortedala Scoutkår

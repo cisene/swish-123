@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-15-rev-162641",
+    "date": "2023-10-15-rev-170358",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -169,6 +169,15 @@
         "utrustning"
       ],
       "web": "https://spikmattan.com/"
+    },
+    {
+      "entry": 1230009357,
+      "orgNumber": "873200-5551",
+      "orgName": "Alsters Sockens Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/alster"
     },
     {
       "entry": 1230009381,
@@ -7711,7 +7720,8 @@
       "orgName": "Str\u00f6ms Bowlingshop",
       "categories": [
         "bowling",
-        "f\u00f6rs\u00e4ljning"
+        "f\u00f6rs\u00e4ljning",
+        "sportmarterial"
       ],
       "web": "https://stroms.biz/"
     },
@@ -8790,6 +8800,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.affc.se/"
+    },
+    {
+      "entry": 1230985242,
+      "orgNumber": "556629-8856",
+      "orgName": "Kolsbro H\u00e4st och Fritid AB",
+      "categories": [
+        "h\u00e4stklubb",
+        "ridskola"
+      ],
+      "web": "https://www.kolsbro.cybersite.se/"
     },
     {
       "entry": 1230986372,
@@ -10198,6 +10218,16 @@
       "web": "https://www.fokboras.se/"
     },
     {
+      "entry": 1231153063,
+      "orgNumber": "802000-2658",
+      "orgName": "Svenska Barnmorskef\u00f6rbundet",
+      "categories": [
+        "f\u00f6rbund",
+        "v\u00e5rdf\u00f6rbund"
+      ],
+      "web": "https://www.barnmorskeforbundet.se/"
+    },
+    {
       "entry": 1231153329,
       "orgNumber": "556706-5262",
       "orgName": "Tomaskyrkan",
@@ -10544,6 +10574,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.nosabyif.nu/"
+    },
+    {
+      "entry": 1231185123,
+      "orgNumber": "814800-5815",
+      "orgName": "V\u00e4sby OK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.svenskalag.se/vasbyok"
     },
     {
       "entry": 1231185495,
@@ -21763,6 +21803,16 @@
       "web": "http://lyrestadshundcenter.se/"
     },
     {
+      "entry": 1232544831,
+      "orgNumber": "802422-8747",
+      "orgName": "Den Goda Jorden",
+      "categories": [
+        "intressef\u00f6rening",
+        "utbildning"
+      ],
+      "web": "https://dengodajorden.se/"
+    },
+    {
       "entry": 1232545812,
       "orgNumber": "556877-6800",
       "orgName": "Vectrum Trafikutbildning AB",
@@ -25078,6 +25128,16 @@
         "intresseorganisation"
       ],
       "web": "https://kallslatten.se/"
+    },
+    {
+      "entry": 1232956852,
+      "orgNumber": "212000-2445",
+      "orgName": "\u00d6rnsk\u00f6ldsviks Kommun",
+      "comment": "Tr\u00e4ffpunkter, sociala aktiviteter f\u00f6r \u00e4ldre",
+      "categories": [
+        "kommun"
+      ],
+      "web": "https://www.ornskoldsvik.se/omsorg-och-stod#Aldre"
     },
     {
       "entry": 1232957595,
@@ -30450,6 +30510,16 @@
       "web": "https://www.svenskakyrkan.se/va-skepparslov"
     },
     {
+      "entry": 1233698362,
+      "orgNumber": "802000-2658",
+      "orgName": "Svenska Barnmorskef\u00f6rbundet",
+      "categories": [
+        "f\u00f6rbund",
+        "v\u00e5rdf\u00f6rbund"
+      ],
+      "web": "https://www.barnmorskeforbundet.se/"
+    },
+    {
       "entry": 1233698545,
       "orgNumber": "838202-3508",
       "orgName": "\u00c5hus Brukshundklubb",
@@ -34753,6 +34823,18 @@
       "web": "https://www.raaif.se/"
     },
     {
+      "entry": 1234309704,
+      "orgNumber": "802497-1478",
+      "orgName": "BUS - Barn och Unga i Sverige",
+      "categories": [
+        "barnverksamhet",
+        "donation",
+        "riksorganisation",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://www.bus.nu/"
+    },
+    {
       "entry": 1234310108,
       "orgNumber": "559074-2184",
       "orgName": "SwebbTube / Svensk Webbtelevision AB",
@@ -36351,6 +36433,15 @@
         "hundklubb"
       ],
       "web": "https://whippetklubben.se/"
+    },
+    {
+      "entry": 1234525242,
+      "orgNumber": "857204-1930",
+      "orgName": "Dyslexif\u00f6rbundet",
+      "categories": [
+        "dolda handikapp"
+      ],
+      "web": "https://dyslexi.org/"
     },
     {
       "entry": 1234525929,
@@ -39010,6 +39101,16 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://www.action10.org/"
+    },
+    {
+      "entry": 1234968152,
+      "orgNumber": "814800-5815",
+      "orgName": "V\u00e4sby OK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.svenskalag.se/vasbyok"
     },
     {
       "entry": 1234971040,
@@ -42409,6 +42510,15 @@
       ]
     },
     {
+      "entry": 1235372925,
+      "orgNumber": "857200-1124",
+      "orgName": "G\u00f6teborgs Barnmorskes\u00e4llskap",
+      "categories": [
+        "v\u00e5rdf\u00f6rbund"
+      ],
+      "web": "https://www.barnmorskeforbundet.se/lokalforeningar/goteborg/"
+    },
+    {
       "entry": 1235373485,
       "orgNumber": "559144-3501",
       "orgName": "Varuhandel i M\u00f6nster\u00e5s AB",
@@ -44566,6 +44676,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://idrottonline.se/LillpiteIF"
+    },
+    {
+      "entry": 1235636352,
+      "orgNumber": "857203-4745",
+      "orgName": "F\u00f6reningen Mot B\u00e4ttre Vetande",
+      "categories": [
+        "barnverksamhet",
+        "utbildning"
+      ],
+      "web": "https://mbv.se/"
     },
     {
       "entry": 1235636527,
