@@ -1985,6 +1985,7 @@ entries:
   comment: null
   categories:
   - djurskydd
+  - donation
   - stiftelse
   web: https://kattfonden.se/
 
@@ -2361,6 +2362,14 @@ entries:
   - bildelar
   - reservdelar
   web: https://skarlunda.se/
+
+- entry: 1230298117
+  orgName: Kvinnojouren i Motala
+  orgNumber: 824000-9178
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://motalakvinnojour.se/
 
 - entry: 1230299131
   orgName: Stora Tolvsbo Jaktskytteklubb
@@ -6833,7 +6842,7 @@ entries:
   web: https://ostersif.se/
 
 - entry: 1230846345
-  orgName: Engineering For Development (EFD)
+  orgName: Engineering For Development, EFD
   orgNumber: 559062-6718
   comment: null
   categories:
@@ -7680,6 +7689,14 @@ entries:
   - massage
   - spa
   web: https://www.mandorla.se/
+
+- entry: 1230927590
+  orgName: Kvinnoföreningen mot Våld / Kvinnojouren Maggan
+  orgNumber: 876400-3342
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://kvinnojourenmaggan.se/
 
 - entry: 1230927798
   orgName: CK U6 - Cykel
@@ -9788,6 +9805,14 @@ entries:
   categories:
   - religion
   web: https://furubackskyrkan.se/
+
+- entry: 1231223593
+  orgName: Free Them
+  orgNumber: 802465-3480
+  comment: null
+  categories:
+  - intresseförening
+  web: https://changingattitudes.co/
 
 - entry: 1231223775
   orgName: Krukmakarens Hus / Frälsningsarmén
@@ -14969,6 +14994,7 @@ entries:
   orgNumber: 802526-3370
   comment: null
   categories:
+  - donation
   - intresseförening
   - kulturförening
   web: https://www.snosatra.com/
@@ -24433,6 +24459,15 @@ entries:
   - hundpark
   web: https://www.mariefredshundpark.se/
 
+- entry: 1233257011
+  orgName: Hallands Naturskyddsförening
+  orgNumber: 849200-0933
+  comment: null
+  categories:
+  - naturskydd
+  - naturvård
+  web: https://halland-lan.naturskyddsforeningen.se/
+
 - entry: 1233257482
   orgName: Restaurang Taiwan
   orgNumber: 556866-0327
@@ -27705,6 +27740,7 @@ entries:
   orgNumber: 802490-6664
   comment: null
   categories:
+  - donation
   - intresseförening
   web: https://sogh.se/
 
@@ -30423,6 +30459,14 @@ entries:
   - kennelklubb
   web: http://www.slkk.se/
 
+- entry: 1234196762
+  orgName: Kvinnohuset Västerås
+  orgNumber: 878000-8440
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnohuset-vasteras.org/
+
 - entry: 1234197026
   orgName: Djurhemmet Tassebo / Stiftelsen Djurhemmet I Helsingborg
   orgNumber: 843001-2776
@@ -30768,6 +30812,16 @@ entries:
   categories:
   - politiskt parti
   web: https://framtidkalmar.wordpress.com/
+
+- entry: 1234239224
+  orgName: Projekt Runeberg / Datorföreningen Lysator
+  orgNumber: 822002-8040
+  comment: null
+  categories:
+  - arkeologi
+  - intresseförening
+  - kulturförening
+  web: https://runeberg.org/
 
 - entry: 1234239885
   orgName: Föreningen för Olympisk Kortdistansskjutning FOK Borås
@@ -35264,6 +35318,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1234999884
+  orgName: Föreningen Släktdata
+  orgNumber: 802414-1791
+  comment: null
+  categories:
+  - genealogi
+  - släktforskning
+  web: https://www.slaktdata.org/
+
 - entry: 1235000153
   orgName: Team Rynkeby
   orgNumber: 802532-7506
@@ -35784,7 +35847,7 @@ entries:
   orgNumber: 559156-5402
   comment: null
   categories:
-  - psykisk hästsport
+  - mental hälsa
   - ungdomsverksamhet
   web: https://www.yube.se/
 
@@ -37268,6 +37331,17 @@ entries:
   - parasport
   - synskadad
   web: https://www.fsbu.org/
+
+- entry: 1235272521
+  orgName: Disabled Refugees Welcome / Stiftelse Institutet för Independent Living
+  orgNumber: 802017-5090
+  comment: null
+  categories:
+  - donation
+  - hjälporganisation
+  - stiftelse
+  - välgörenhet
+  web: https://disabledrefugeeswelcome.se/
 
 - entry: 1235273610
   orgName: Team Rynkeby
@@ -39939,6 +40013,14 @@ entries:
   - utveckling
   web: https://ufonden.se/
 
+- entry: 1235622527
+  orgName: Stockholms Tjej-jour
+  orgNumber: 802401-4410
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://stockholmstjejjour.nu/
+
 - entry: 1235624390
   orgName: Barnombudet i Uppsala län
   orgNumber: 817602-5198
@@ -40874,6 +40956,14 @@ entries:
   categories:
   - golfklubb
   web: https://www.grappasgk.se/
+
+- entry: 1235764691
+  orgName: Vision for Culture, Arts and Research Enhancement, V-CARE
+  orgNumber: 802507-3837
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.vcaremysuru.org/
 
 - entry: 1235766225
   orgName: Järle Byalag
@@ -50225,6 +50315,7 @@ entries:
   orgNumber: 802425-5948
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - stiftelse
   web: https://www.gunduafoundation.org/

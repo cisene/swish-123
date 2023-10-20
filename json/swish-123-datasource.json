@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-15-rev-170358",
+    "date": "2023-10-20-rev-171150",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2201,6 +2201,7 @@
       "orgName": "Kattfonden - Insamlingsstiftelsen f\u00f6r heml\u00f6sa katter",
       "categories": [
         "djurskydd",
+        "donation",
         "stiftelse"
       ],
       "web": "https://kattfonden.se/"
@@ -2627,6 +2628,15 @@
         "reservdelar"
       ],
       "web": "https://skarlunda.se/"
+    },
+    {
+      "entry": 1230298117,
+      "orgNumber": "824000-9178",
+      "orgName": "Kvinnojouren i Motala",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://motalakvinnojour.se/"
     },
     {
       "entry": 1230299131,
@@ -7608,7 +7618,7 @@
     {
       "entry": 1230846345,
       "orgNumber": "559062-6718",
-      "orgName": "Engineering For Development (EFD)",
+      "orgName": "Engineering For Development, EFD",
       "categories": [
         "donation",
         "hj\u00e4lporganisation"
@@ -8535,6 +8545,15 @@
         "spa"
       ],
       "web": "https://www.mandorla.se/"
+    },
+    {
+      "entry": 1230927590,
+      "orgNumber": "876400-3342",
+      "orgName": "Kvinnof\u00f6reningen mot V\u00e5ld / Kvinnojouren Maggan",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://kvinnojourenmaggan.se/"
     },
     {
       "entry": 1230927798,
@@ -10856,6 +10875,15 @@
         "religion"
       ],
       "web": "https://furubackskyrkan.se/"
+    },
+    {
+      "entry": 1231223593,
+      "orgNumber": "802465-3480",
+      "orgName": "Free Them",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://changingattitudes.co/"
     },
     {
       "entry": 1231223775,
@@ -16660,6 +16688,7 @@
       "orgNumber": "802526-3370",
       "orgName": "Kulturkvarter Sn\u00f6s\u00e4tra",
       "categories": [
+        "donation",
         "intressef\u00f6rening",
         "kulturf\u00f6rening"
       ],
@@ -27250,6 +27279,16 @@
       "web": "http://musikvalvet.se/"
     },
     {
+      "entry": 1233257011,
+      "orgNumber": "849200-0933",
+      "orgName": "Hallands Naturskyddsf\u00f6rening",
+      "categories": [
+        "naturskydd",
+        "naturv\u00e5rd"
+      ],
+      "web": "https://halland-lan.naturskyddsforeningen.se/"
+    },
+    {
       "entry": 1233257482,
       "orgNumber": "556866-0327",
       "orgName": "Restaurang Taiwan",
@@ -30921,6 +30960,7 @@
       "orgNumber": "802490-6664",
       "orgName": "Swedish Organization for Global Health, SOGH",
       "categories": [
+        "donation",
         "intressef\u00f6rening"
       ],
       "web": "https://sogh.se/"
@@ -33941,6 +33981,15 @@
       "web": "http://www.slkk.se/"
     },
     {
+      "entry": 1234196762,
+      "orgNumber": "878000-8440",
+      "orgName": "Kvinnohuset V\u00e4ster\u00e5s",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.kvinnohuset-vasteras.org/"
+    },
+    {
       "entry": 1234197026,
       "orgNumber": "843001-2776",
       "orgName": "Djurhemmet Tassebo / Stiftelsen Djurhemmet I Helsingborg",
@@ -34323,6 +34372,17 @@
         "politiskt parti"
       ],
       "web": "https://framtidkalmar.wordpress.com/"
+    },
+    {
+      "entry": 1234239224,
+      "orgNumber": "822002-8040",
+      "orgName": "Projekt Runeberg / Datorf\u00f6reningen Lysator",
+      "categories": [
+        "arkeologi",
+        "intressef\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://runeberg.org/"
     },
     {
       "entry": 1234239885,
@@ -39365,6 +39425,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1234999884,
+      "orgNumber": "802414-1791",
+      "orgName": "F\u00f6reningen Sl\u00e4ktdata",
+      "categories": [
+        "genealogi",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://www.slaktdata.org/"
+    },
+    {
       "entry": 1235000153,
       "orgNumber": "802532-7506",
       "orgName": "Team Rynkeby",
@@ -39939,7 +40009,7 @@
       "orgNumber": "559156-5402",
       "orgName": "YuBe AB",
       "categories": [
-        "psykisk h\u00e4stsport",
+        "mental h\u00e4lsa",
         "ungdomsverksamhet"
       ],
       "web": "https://www.yube.se/"
@@ -41595,6 +41665,18 @@
         "synskadad"
       ],
       "web": "https://www.fsbu.org/"
+    },
+    {
+      "entry": 1235272521,
+      "orgNumber": "802017-5090",
+      "orgName": "Disabled Refugees Welcome / Stiftelse Institutet f\u00f6r Independent Living",
+      "categories": [
+        "donation",
+        "hj\u00e4lporganisation",
+        "stiftelse",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://disabledrefugeeswelcome.se/"
     },
     {
       "entry": 1235273610,
@@ -44612,6 +44694,15 @@
       "web": "https://ufonden.se/"
     },
     {
+      "entry": 1235622527,
+      "orgNumber": "802401-4410",
+      "orgName": "Stockholms Tjej-jour",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://stockholmstjejjour.nu/"
+    },
+    {
       "entry": 1235624390,
       "orgNumber": "817602-5198",
       "orgName": "Barnombudet i Uppsala l\u00e4n",
@@ -45663,6 +45754,15 @@
         "golfklubb"
       ],
       "web": "https://www.grappasgk.se/"
+    },
+    {
+      "entry": 1235764691,
+      "orgNumber": "802507-3837",
+      "orgName": "Vision for Culture, Arts and Research Enhancement, V-CARE",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.vcaremysuru.org/"
     },
     {
       "entry": 1235766225,
@@ -55100,6 +55200,7 @@
       "orgNumber": "802425-5948",
       "orgName": "Stiftelsen Gundua",
       "categories": [
+        "donation",
         "insamlingskontroll",
         "stiftelse"
       ],
