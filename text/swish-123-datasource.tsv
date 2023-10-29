@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-10-29-rev-115749
+# Date: 2023-10-29-rev-121028
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -631,6 +631,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230698423	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Växjö, Torpaskolan
 1230700906	857202-4050	Partille Scoutkår	https://partille.scout.se/	scoutkår	
 1230702068	802003-1707	Svenska Skyttesportförbundet	https://www.skyttesport.se/	förbund,skytte,sportskytte	
+1230702506	846501-3236	Lomma Konstförening	https://www.lommakonstforening.se/	konstförening	
 1230704635	828001-0359	Sveriges Veteranförbund (SVF)	http://www.gulabandet.se/	förbund	Gula bandet
 1230705566	802447-7294	Ssenyange Education Project	https://www.ssenyange.org/	hjälporganisation,utbildning	
 1230711176	802521-2062	Föreningen 021 Grappling	https://021grappling.se/	kampsportsförening	
@@ -1363,6 +1364,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231482363	884402-0449	Orsa Slipstensförening	https://www.orsaslipsten.se/	förening,museum	
 1231482686	893200-7670	Håsjögården	https://www.hasjogarden.se/	café,logi,vandrarhem	
 1231483783	802503-4060	Z-BATALJONEN	https://www.sverigesveteranforbund.se/z-bataljonen	intresseorganisation	
+1231484450	893202-8890	Åre Konstförening	https://are.konstforeningar.se/	konstförening	
 1231485200	782600-0601	Dala-Järna IK, DJIK	https://www.djik.se/	idrottsförening	Snöåsektionen
 1231485267	252003-8874	Södra Ölands Pastorat	https://www.svenskakyrkan.se/sodraoland	religion	Stenåsa kyrka
 1231485275	252003-8874	Södra Ölands Pastorat	https://www.svenskakyrkan.se/sodraoland	religion	Vickleby kyrka
@@ -1471,6 +1473,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231590793	842000-7521	Höörs HK H65	https://www.h65.se/	handbollsklubb,idrottsförening	P 09/10
 1231591817	559113-2559	Yoga & Vänner AB	https://yogavanner.se/	utbildning,yoga	
 1231594621	559151-1448	Finndinkraft i Dalarna AB	https://finndinkraft.se/	healing,kroppsvård,massage,meditation,medium	
+1231598176	822001-2820	Saab:s Konstförening	https://saabskonstforening.com/	konstförening	
 1231598291	802522-6146	Södra Vi Älg- och Kronhjortsskötselområde	https://sodraviaso.se/	viltvård	
 1231599976	559147-7152	Melleruds Golfklubb	https://mellerudsgolfklubb.se/	golfklubb	
 1231600063	802521-9489	Extinction Rebellion Skåne / XR Skåne	https://xrskane.nu/	miljöaktivism	
@@ -1918,6 +1921,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232143220	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Värmland, Kroppaskolan
 1232143279	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Täby, Viggbyskolan
 1232143949	559200-3825	Johan Landbergs Trafikskola AB	https://www.johanstrafikskola.com/	trafikskola,utbildning	
+1232145654	844000-8038	Landskrona Konstförening	https://www.landskronakonstforening.se/	konstförening	
 1232145720	769613-2724	Grafikgruppen Visby	https://grafikgruppen.se/	grafik,konst	
 1232146876	802492-0806	Sambandscentralen IFÖ Center	https://www.ifocenter.com/	galleri,konstförening	
 1232148765	556264-8310	Sergel Kredittjänster AB	https://sergel.se/	betaltjänster,ekonomi,inkasso,kredittjänster	
@@ -5148,6 +5152,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236429401	802406-2898	Svenska Epilepsiförbundet	https://www.epilepsi.se/	förbund,neurohälsa	Epilepsifonden
 1236429989	882601-6647	Friskis & Svettis Borlänge	https://www.friskissvettis.se/borlange	friskvård,idrottsförening	
 1236431324	863500-3802	Skepplanda BTK	https://www.laget.se/Skepplanda/	fotbollsklubb,idrottsförening	Entré
+1236433445	837000-7968	Tyringe Konstförening	https://tyringe.konstforeningar.se/	konstförening	
 1236441927	802444-2405	Svenska Gospelverkstaden	https://www.gospelverkstaden.se/	förening,gospel,körsång	
 1236443394	556956-1367	VingåkersVeterinärerna AB	http://www.vingakersveterinarerna.se/	djurvård,veterinär	
 1236446033	889202-8773	GIF Sundsvalls Supporterklubb	https://patronerna.se/tifo/	supporterklubb	

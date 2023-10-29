@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-10-29-rev-115749
+Date:     2023-10-29-rev-121027
 ...
 
 # Swish 123 Nummer
@@ -633,6 +633,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230698423 | 802532-9262 | Team Rynkeby                                                                                         | Växjö, Torpaskolan        |
 | 1230700906 | 857202-4050 | Partille Scoutkår                                                                                    |                           |
 | 1230702068 | 802003-1707 | Svenska Skyttesportförbundet                                                                         |                           |
+| 1230702506 | 846501-3236 | Lomma Konstförening                                                                                  |                           |
 | 1230704635 | 828001-0359 | Sveriges Veteranförbund (SVF)                                                                        | Gula bandet               |
 | 1230705566 | 802447-7294 | Ssenyange Education Project                                                                          |                           |
 | 1230711176 | 802521-2062 | Föreningen 021 Grappling                                                                             |                           |
@@ -1365,6 +1366,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231482363 | 884402-0449 | Orsa Slipstensförening                                                                               |                           |
 | 1231482686 | 893200-7670 | Håsjögården                                                                                          |                           |
 | 1231483783 | 802503-4060 | Z-BATALJONEN                                                                                         |                           |
+| 1231484450 | 893202-8890 | Åre Konstförening                                                                                    |                           |
 | 1231485200 | 782600-0601 | Dala-Järna IK, DJIK                                                                                  | Snöåsektionen             |
 | 1231485267 | 252003-8874 | Södra Ölands Pastorat                                                                                | Stenåsa kyrka             |
 | 1231485275 | 252003-8874 | Södra Ölands Pastorat                                                                                | Vickleby kyrka            |
@@ -1473,6 +1475,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231590793 | 842000-7521 | Höörs HK H65                                                                                         | P 09/10                   |
 | 1231591817 | 559113-2559 | Yoga & Vänner AB                                                                                     |                           |
 | 1231594621 | 559151-1448 | Finndinkraft i Dalarna AB                                                                            |                           |
+| 1231598176 | 822001-2820 | Saab:s Konstförening                                                                                 |                           |
 | 1231598291 | 802522-6146 | Södra Vi Älg- och Kronhjortsskötselområde                                                            |                           |
 | 1231599976 | 559147-7152 | Melleruds Golfklubb                                                                                  |                           |
 | 1231600063 | 802521-9489 | Extinction Rebellion Skåne / XR Skåne                                                                |                           |
@@ -1920,6 +1923,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232143220 | 802532-8033 | Team Rynkeby                                                                                         | Värmland, Kroppaskolan    |
 | 1232143279 | 802534-5466 | Team Rynkeby                                                                                         | Täby, Viggbyskolan        |
 | 1232143949 | 559200-3825 | Johan Landbergs Trafikskola AB                                                                       |                           |
+| 1232145654 | 844000-8038 | Landskrona Konstförening                                                                             |                           |
 | 1232145720 | 769613-2724 | Grafikgruppen Visby                                                                                  |                           |
 | 1232146876 | 802492-0806 | Sambandscentralen IFÖ Center                                                                         |                           |
 | 1232148765 | 556264-8310 | Sergel Kredittjänster AB                                                                             |                           |
@@ -5150,6 +5154,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236429401 | 802406-2898 | Svenska Epilepsiförbundet                                                                            | Epilepsifonden            |
 | 1236429989 | 882601-6647 | Friskis & Svettis Borlänge                                                                           |                           |
 | 1236431324 | 863500-3802 | Skepplanda BTK                                                                                       | Entré                     |
+| 1236433445 | 837000-7968 | Tyringe Konstförening                                                                                |                           |
 | 1236441927 | 802444-2405 | Svenska Gospelverkstaden                                                                             |                           |
 | 1236443394 | 556956-1367 | VingåkersVeterinärerna AB                                                                            |                           |
 | 1236446033 | 889202-8773 | GIF Sundsvalls Supporterklubb                                                                        |                           |

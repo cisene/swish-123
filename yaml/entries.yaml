@@ -5520,6 +5520,14 @@ entries:
   - sportskytte
   web: https://www.skyttesport.se/
 
+- entry: 1230702506
+  orgName: Lomma Konstförening
+  orgNumber: 846501-3236
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.lommakonstforening.se/
+
 - entry: 1230704635
   orgName: Sveriges Veteranförbund (SVF)
   orgNumber: 828001-0359
@@ -12015,6 +12023,14 @@ entries:
   - intresseorganisation
   web: https://www.sverigesveteranforbund.se/z-bataljonen
 
+- entry: 1231484450
+  orgName: Åre Konstförening
+  orgNumber: 893202-8890
+  comment: null
+  categories:
+  - konstförening
+  web: https://are.konstforeningar.se/
+
 - entry: 1231485200
   orgName: Dala-Järna IK, DJIK
   orgNumber: 782600-0601
@@ -12952,6 +12968,14 @@ entries:
   - meditation
   - medium
   web: https://finndinkraft.se/
+
+- entry: 1231598176
+  orgName: Saab:s Konstförening
+  orgNumber: 822001-2820
+  comment: null
+  categories:
+  - konstförening
+  web: https://saabskonstforening.com/
 
 - entry: 1231598291
   orgName: Södra Vi Älg- och Kronhjortsskötselområde
@@ -16929,6 +16953,14 @@ entries:
   - trafikskola
   - utbildning
   web: https://www.johanstrafikskola.com/
+
+- entry: 1232145654
+  orgName: Landskrona Konstförening
+  orgNumber: 844000-8038
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.landskronakonstforening.se/
 
 - entry: 1232145720
   orgName: Grafikgruppen Visby
@@ -45634,6 +45666,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/Skepplanda/
+
+- entry: 1236433445
+  orgName: Tyringe Konstförening
+  orgNumber: 837000-7968
+  comment: null
+  categories:
+  - konstförening
+  web: https://tyringe.konstforeningar.se/
 
 - entry: 1236441927
   orgName: Svenska Gospelverkstaden

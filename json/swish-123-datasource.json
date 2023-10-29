@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-29-rev-115749",
+    "date": "2023-10-29-rev-121027",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6135,6 +6135,15 @@
         "sportskytte"
       ],
       "web": "https://www.skyttesport.se/"
+    },
+    {
+      "entry": 1230702506,
+      "orgNumber": "846501-3236",
+      "orgName": "Lomma Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.lommakonstforening.se/"
     },
     {
       "entry": 1230704635,
@@ -13328,6 +13337,15 @@
       "web": "https://www.sverigesveteranforbund.se/z-bataljonen"
     },
     {
+      "entry": 1231484450,
+      "orgNumber": "893202-8890",
+      "orgName": "\u00c5re Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://are.konstforeningar.se/"
+    },
+    {
       "entry": 1231485200,
       "orgNumber": "782600-0601",
       "orgName": "Dala-J\u00e4rna IK, DJIK",
@@ -14383,6 +14401,15 @@
         "medium"
       ],
       "web": "https://finndinkraft.se/"
+    },
+    {
+      "entry": 1231598176,
+      "orgNumber": "822001-2820",
+      "orgName": "Saab:s Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://saabskonstforening.com/"
     },
     {
       "entry": 1231598291,
@@ -18859,6 +18886,15 @@
         "utbildning"
       ],
       "web": "https://www.johanstrafikskola.com/"
+    },
+    {
+      "entry": 1232145654,
+      "orgNumber": "844000-8038",
+      "orgName": "Landskrona Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.landskronakonstforening.se/"
     },
     {
       "entry": 1232145720,
@@ -50929,6 +50965,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/Skepplanda/"
+    },
+    {
+      "entry": 1236433445,
+      "orgNumber": "837000-7968",
+      "orgName": "Tyringe Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://tyringe.konstforeningar.se/"
     },
     {
       "entry": 1236441927,
