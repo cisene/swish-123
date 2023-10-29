@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-21-rev-000002",
+    "date": "2023-10-29-rev-115749",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5310,6 +5310,15 @@
       "web": "https://www.stadium.se/sustainability/sustainability-collaborations-and-initiative/sustainability-initiativ-stadium-foundation"
     },
     {
+      "entry": 1230576942,
+      "orgNumber": "802493-8857",
+      "orgName": "Kultur och Kvalitet",
+      "categories": [
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.kulturochkvalitet.se/"
+    },
+    {
       "entry": 1230578013,
       "orgNumber": "802534-5466",
       "orgName": "Team Rynkeby",
@@ -6935,6 +6944,16 @@
       "web": "https://vasterasshukokai.se/"
     },
     {
+      "entry": 1230773119,
+      "orgNumber": "802536-0275",
+      "orgName": "Galleri Loza / Loza Foundation",
+      "categories": [
+        "galleri",
+        "konstgalleri"
+      ],
+      "web": "https://galleri.lozafoundation.org/"
+    },
+    {
       "entry": 1230774257,
       "orgNumber": "802534-7777",
       "orgName": "F\u00f6rr och Nu",
@@ -8496,6 +8515,9 @@
       "entry": 1230923631,
       "orgNumber": "750221-XXXX",
       "orgName": "Modiga M\u00e4nniskor",
+      "categories": [
+        "podcast"
+      ],
       "web": "https://modigamanniskor.se/"
     },
     {
@@ -8851,6 +8873,16 @@
       "web": "https://www.vblstovare.se/"
     },
     {
+      "entry": 1230987255,
+      "orgNumber": "883202-3199",
+      "orgName": "Folkmusikens hus",
+      "categories": [
+        "f\u00f6rening",
+        "musik"
+      ],
+      "web": "https://folkmusikenshus.se/"
+    },
+    {
       "entry": 1230987982,
       "orgNumber": "845001-7788",
       "orgName": "Kvinnojouren Lund",
@@ -9131,6 +9163,15 @@
         "religion"
       ],
       "web": "https://ffg.se/"
+    },
+    {
+      "entry": 1231008762,
+      "orgNumber": "670312-XXXX",
+      "orgName": "Ask4Life / Anna Sundkvist Kr\u00e4utner",
+      "categories": [
+        "terapisamtal"
+      ],
+      "web": "https://ask4life.se/"
     },
     {
       "entry": 1231010776,
@@ -11637,6 +11678,16 @@
       "web": "http://gratiskoran.se/"
     },
     {
+      "entry": 1231300730,
+      "orgNumber": "802475-0484",
+      "orgName": "F\u00f6reningen Sj\u00e4l och Hj\u00e4rta",
+      "categories": [
+        "meditation",
+        "seans"
+      ],
+      "web": "https://www.sjalhjarta.com/"
+    },
+    {
       "entry": 1231301340,
       "orgNumber": "802499-2896",
       "orgName": "Skillingaryds Pistolskytteklubb PSK",
@@ -12200,6 +12251,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/paletten"
+    },
+    {
+      "entry": 1231359835,
+      "orgNumber": "885501-4075",
+      "orgName": "Rosenl\u00f6fs V\u00e4nner",
+      "categories": [
+        "intressef\u00f6rening",
+        "konstf\u00f6rening"
+      ],
+      "web": "https://rosenlofsvanner.se/"
     },
     {
       "entry": 1231364728,
@@ -15934,6 +15995,16 @@
       "web": "https://pingsteskilstunaweb.se/"
     },
     {
+      "entry": 1231761154,
+      "orgNumber": "802462-7047",
+      "orgName": "ARNA - Art and Nature",
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://arna.nu/"
+    },
+    {
       "entry": 1231765700,
       "orgNumber": "802405-0273",
       "orgName": "Williams Syndromf\u00f6rening i Sverige",
@@ -16682,6 +16753,16 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://hasene.se/"
+    },
+    {
+      "entry": 1231849637,
+      "orgNumber": "559168-9269",
+      "orgName": "Vincent & Ebba AB",
+      "categories": [
+        "konst",
+        "konstn\u00e4r"
+      ],
+      "web": "https://vincentoebba.se/"
     },
     {
       "entry": 1231854223,
@@ -18489,6 +18570,15 @@
       "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
+      "entry": 1232116580,
+      "orgNumber": "846003-4872",
+      "orgName": "Limhamns Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.limhamnskonstforening.com/"
+    },
+    {
       "entry": 1232124162,
       "orgNumber": "802438-6883",
       "orgName": "Alings\u00e5s V\u00e5rg\u00e5rda Discgolf",
@@ -18769,6 +18859,26 @@
         "utbildning"
       ],
       "web": "https://www.johanstrafikskola.com/"
+    },
+    {
+      "entry": 1232145720,
+      "orgNumber": "769613-2724",
+      "orgName": "Grafikgruppen Visby",
+      "categories": [
+        "grafik",
+        "konst"
+      ],
+      "web": "https://grafikgruppen.se/"
+    },
+    {
+      "entry": 1232146876,
+      "orgNumber": "802492-0806",
+      "orgName": "Sambandscentralen IF\u00d6 Center",
+      "categories": [
+        "galleri",
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.ifocenter.com/"
     },
     {
       "entry": 1232148765,
@@ -19472,6 +19582,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://www.vasterfarnebo.se/"
+    },
+    {
+      "entry": 1232220267,
+      "orgNumber": "556783-8544",
+      "orgName": "\u00d6lands Sk\u00f6rdefest AB",
+      "categories": [
+        "eventarrang\u00f6r",
+        "festival"
+      ],
+      "web": "https://skordefest.nu/"
     },
     {
       "entry": 1232220481,
@@ -20663,7 +20783,8 @@
       "orgNumber": "556550-6622",
       "orgName": "Sk\u00e5nes Auktionsverk AB",
       "categories": [
-        "auktioner"
+        "auktioner",
+        "auktionsverk"
       ],
       "web": "https://www.skanesauktionsverk.se/"
     },
@@ -22212,6 +22333,16 @@
       "web": "http://www.atrium-vaxjo.org/"
     },
     {
+      "entry": 1232592160,
+      "orgNumber": "857206-5491",
+      "orgName": "Grafik i V\u00e4st",
+      "categories": [
+        "grafik",
+        "konstn\u00e4rsf\u00f6rening"
+      ],
+      "web": "https://www.grafikivast.se/"
+    },
+    {
       "entry": 1232592426,
       "orgNumber": "802472-0800",
       "orgName": "Svenska Ridtravarf\u00f6reningen Uppland V\u00e4stmanland",
@@ -22440,6 +22571,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sudrets-pastorat"
+    },
+    {
+      "entry": 1232624815,
+      "orgNumber": "825000-1644",
+      "orgName": "IFK Norrk\u00f6ping",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ifknorrkoping.se/"
     },
     {
       "entry": 1232625986,
@@ -25165,6 +25306,15 @@
       "web": "https://www.stallyktan.se/"
     },
     {
+      "entry": 1232945871,
+      "orgNumber": "802439-1487",
+      "orgName": "V\u00e4rmlands Konstn\u00e4rsf\u00f6rbund",
+      "categories": [
+        "konstn\u00e4rsf\u00f6rbund"
+      ],
+      "web": "https://www.varmlandskonstnarsforbund.se/"
+    },
+    {
       "entry": 1232946697,
       "orgNumber": "559142-8916",
       "orgName": "Nolberga Veterin\u00e4rpraktik - Leg.vet. Annelie Hellstr\u00f6m / Nolberga Veterin\u00e4rpraktik AB",
@@ -27061,6 +27211,7 @@
       "categories": [
         "kajak",
         "kanot",
+        "konst",
         "paddling"
       ],
       "web": "https://www.thomassondesign.com/"
@@ -27900,6 +28051,15 @@
       "web": "https://www.j\u00f6nk\u00f6pingsbiljardklubb.org/"
     },
     {
+      "entry": 1233348109,
+      "orgNumber": "802526-8965",
+      "orgName": "Trosabygdens Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://trosabygdens.konstforeningar.se/"
+    },
+    {
       "entry": 1233349420,
       "orgNumber": "559193-6546",
       "orgName": "Appeal Advokatbyr\u00e5 AB",
@@ -27918,6 +28078,15 @@
         "skytte"
       ],
       "web": "https://eskilstuna-epk.com/"
+    },
+    {
+      "entry": 1233349966,
+      "orgNumber": "802459-0252",
+      "orgName": "Elisabeth Bergstrand-Poulsen S\u00e4llskapet, EBP-S\u00e4llskapet",
+      "categories": [
+        "konsts\u00e4llskap"
+      ],
+      "web": "https://www.ebpsallskapet.se/"
     },
     {
       "entry": 1233350816,
@@ -28817,6 +28986,16 @@
       "web": "https://pingstsoderkoping.se/"
     },
     {
+      "entry": 1233457595,
+      "orgNumber": "802492-0806",
+      "orgName": "Sambandscentralen IF\u00d6 Center",
+      "categories": [
+        "galleri",
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.ifocenter.com/"
+    },
+    {
       "entry": 1233457678,
       "orgNumber": "802420-9754",
       "orgName": "IBF Falun Utveckling",
@@ -29018,6 +29197,15 @@
         "intresseorganisation"
       ],
       "web": "https://www.vaxjofolkdans.se/"
+    },
+    {
+      "entry": 1233475563,
+      "orgNumber": "559220-0215",
+      "orgName": "Brean\u00e4s Hotell AB",
+      "categories": [
+        "hotell"
+      ],
+      "web": "https://www.breanashotell.se/"
     },
     {
       "entry": 1233475951,
@@ -30391,6 +30579,17 @@
         "golfklubb"
       ],
       "web": "https://www.kilsgk.se/"
+    },
+    {
+      "entry": 1233635190,
+      "orgNumber": "802008-0688",
+      "orgName": "F\u00f6reningen S\u00f6derg\u00e5rden",
+      "categories": [
+        "kurser",
+        "studiecirklar",
+        "utbildning"
+      ],
+      "web": "https://sodergarden.org/"
     },
     {
       "entry": 1233635224,
@@ -32077,7 +32276,7 @@
     {
       "entry": 1233893880,
       "orgNumber": "814400-9902",
-      "orgName": "Freija Roslagens f\u00f6retagarkvinnor",
+      "orgName": "Freija Roslagens F\u00f6retagarkvinnor",
       "categories": [
         "f\u00f6retagande"
       ],
@@ -32128,6 +32327,15 @@
         "religion"
       ],
       "web": "http://www.huskvarna.pingst.se/"
+    },
+    {
+      "entry": 1233894862,
+      "orgNumber": "867800-8031",
+      "orgName": "Lidk\u00f6pings Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.lidkopingskonstforening.se/"
     },
     {
       "entry": 1233896289,
@@ -32788,7 +32996,9 @@
       "orgNumber": "817602-1643",
       "orgName": "KIV - Konstvetenskapliga Institutionens V\u00e4nner i Uppsala",
       "categories": [
-        "f\u00f6rening"
+        "f\u00f6rening",
+        "konst",
+        "konsts\u00e4llskap"
       ],
       "web": "https://www.kiviuppsala.se/"
     },
@@ -35546,6 +35756,15 @@
       "web": "https://osterang.com/"
     },
     {
+      "entry": 1234404521,
+      "orgNumber": "873200-3150",
+      "orgName": "V\u00e4rmlands Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://varmlandskonstforening.se/"
+    },
+    {
       "entry": 1234406666,
       "orgNumber": "823000-5467",
       "orgName": "Lions Club Mj\u00f6lby",
@@ -37671,6 +37890,16 @@
         "supporterklubb"
       ],
       "web": "http://www.rodabollen.se/"
+    },
+    {
+      "entry": 1234671533,
+      "orgNumber": "630428-XXXX",
+      "orgName": "Art of Rhythm.Sweden / Sophie Aronsson",
+      "categories": [
+        "konst",
+        "yoga"
+      ],
+      "web": "https://rawart.se/"
     },
     {
       "entry": 1234671772,
@@ -40482,6 +40711,16 @@
       "web": "https://speleo.se/"
     },
     {
+      "entry": 1235116660,
+      "orgNumber": "822001-1236",
+      "orgName": "Link\u00f6pings F\u00e4ltrittklubb",
+      "categories": [
+        "f\u00e4ltrittklubb",
+        "h\u00e4stsport"
+      ],
+      "web": "https://www.linkopingsfaltrittklubb.se/"
+    },
+    {
       "entry": 1235117106,
       "orgNumber": "802427-5490",
       "orgName": "Handbollsakademin i Sverige",
@@ -40699,7 +40938,7 @@
     {
       "entry": 1235133178,
       "orgNumber": "814400-9902",
-      "orgName": "Freija Roslagens f\u00f6retagarkvinnor",
+      "orgName": "Freija Roslagens F\u00f6retagarkvinnor",
       "categories": [
         "f\u00f6retagande"
       ],
@@ -42035,6 +42274,16 @@
         "yoga"
       ],
       "web": "https://www.sacredspine.se/"
+    },
+    {
+      "entry": 1235296041,
+      "orgNumber": "556243-3879",
+      "orgName": "at Kungsholmen AB",
+      "categories": [
+        "catering",
+        "restaurant"
+      ],
+      "web": "http://atkungsholmen.se/"
     },
     {
       "entry": 1235297718,
@@ -44448,6 +44697,17 @@
       "web": "https://skargardsstiftelsen.se/"
     },
     {
+      "entry": 1235597133,
+      "orgNumber": "559107-2110",
+      "orgName": "Teglund Publishing AB",
+      "categories": [
+        "bokutgivning",
+        "f\u00f6rlag",
+        "podcast"
+      ],
+      "web": "https://tegpublishing.se/"
+    },
+    {
       "entry": 1235597257,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -45142,6 +45402,16 @@
         "fotograf"
       ],
       "web": "https://www.zahlo.se/"
+    },
+    {
+      "entry": 1235680160,
+      "orgNumber": "969708-7477",
+      "orgName": "Uppsalamagasinet Luthagsnytt, UMLN / Strandh-Klefbeck Media KB",
+      "categories": [
+        "lokalmedia",
+        "lokaltidning"
+      ],
+      "web": "https://luthagsnytt.se/"
     },
     {
       "entry": 1235680889,
@@ -48955,6 +49225,15 @@
       "web": "https://www.svenskakulturstiftelsen.se/"
     },
     {
+      "entry": 1236210579,
+      "orgNumber": "802497-2773",
+      "orgName": "Y:ets Framtid Intressef\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.yetsframtid.com/"
+    },
+    {
       "entry": 1236212013,
       "orgNumber": "802533-7653",
       "orgName": "Team Rynkeby",
@@ -49121,6 +49400,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://hallansbg.se/"
+    },
+    {
+      "entry": 1236219778,
+      "orgNumber": "660529-XXXX",
+      "orgName": "Peter Frisk Produktion / Peter Frisk",
+      "categories": [
+        "konst",
+        "stadsvandring"
+      ],
+      "web": "https://www.peterfrisk.se/"
     },
     {
       "entry": 1236220628,
@@ -49858,6 +50147,18 @@
       "web": "https://www.licensetrafikskola.se/"
     },
     {
+      "entry": 1236314538,
+      "orgNumber": "556407-6189",
+      "orgName": "Osprey Farm & Studio / Osprey Sweden AB",
+      "categories": [
+        "jordbruk",
+        "keramik",
+        "konst",
+        "konsthantverk"
+      ],
+      "web": "https://www.ospreysweden.se/"
+    },
+    {
       "entry": 1236322432,
       "orgNumber": "802513-2336",
       "orgName": "NyFramtid",
@@ -50492,6 +50793,15 @@
         "kattpensionat"
       ],
       "web": "https://www.harkebergahundhotell.se/"
+    },
+    {
+      "entry": 1236409551,
+      "orgNumber": "802010-5816",
+      "orgName": "JFF Konstf\u00f6rening, J\u00e4rnv\u00e4garnas Fritidsf\u00f6rbunds Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.jffkonst.se/"
     },
     {
       "entry": 1236409635,
@@ -51974,6 +52284,15 @@
       "web": "https://kamratoff.se/"
     },
     {
+      "entry": 1236662738,
+      "orgNumber": "802476-0723",
+      "orgName": "Tibro Konstf\u00f6rening",
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "http://www.tibrokonst.se/"
+    },
+    {
       "entry": 1236662902,
       "orgNumber": "826002-0030",
       "orgName": "Kvinno- och tjejjouren J\u00f6nk\u00f6ping",
@@ -53342,6 +53661,18 @@
       "web": "https://bjorkbackskyrkan.se/"
     },
     {
+      "entry": 1236821177,
+      "orgNumber": "556407-6189",
+      "orgName": "Osprey Farm & Studio / Osprey Sweden AB",
+      "categories": [
+        "jordbruk",
+        "keramik",
+        "konst",
+        "konsthantverk"
+      ],
+      "web": "https://www.ospreysweden.se/"
+    },
+    {
       "entry": 1236824619,
       "orgNumber": "857200-2916",
       "orgName": "G\u00f6teborgs D\u00f6vas F\u00f6rening",
@@ -53480,6 +53811,17 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://www.kkl.nu/"
+    },
+    {
+      "entry": 1236840599,
+      "orgNumber": "802495-0571",
+      "orgName": "Avlidna Salakonstn\u00e4rers S\u00e4llskap, ASS",
+      "categories": [
+        "konst",
+        "konstf\u00f6rening",
+        "konsts\u00e4llskap"
+      ],
+      "web": "https://salakonst.se/"
     },
     {
       "entry": 1236840896,
@@ -53944,7 +54286,7 @@
     {
       "entry": 1236915896,
       "orgNumber": "843000-1837",
-      "orgName": "Helsingborgs konstf\u00f6rening",
+      "orgName": "Helsingborgs Konstf\u00f6rening",
       "categories": [
         "konstf\u00f6rening"
       ],
@@ -56979,7 +57321,8 @@
       "orgNumber": "802411-7049",
       "orgName": "Riksorganisationen GAPF - Gl\u00f6m Aldrig Pela & Fadime",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "riksorganisation"
       ],
       "web": "https://www.gapf.se/"
     },

@@ -4780,6 +4780,14 @@ entries:
   - stiftelse
   web: https://www.stadium.se/sustainability/sustainability-collaborations-and-initiative/sustainability-initiativ-stadium-foundation
 
+- entry: 1230576942
+  orgName: Kultur och Kvalitet
+  orgNumber: 802493-8857
+  comment: null
+  categories:
+  - kulturförening
+  web: https://www.kulturochkvalitet.se/
+
 - entry: 1230578013
   orgName: Team Rynkeby
   orgNumber: 802534-5466
@@ -6238,6 +6246,15 @@ entries:
   - karateklubb
   web: https://vasterasshukokai.se/
 
+- entry: 1230773119
+  orgName: Galleri Loza / Loza Foundation
+  orgNumber: 802536-0275
+  comment: null
+  categories:
+  - galleri
+  - konstgalleri
+  web: https://galleri.lozafoundation.org/
+
 - entry: 1230774257
   orgName: Förr och Nu
   orgNumber: 802534-7777
@@ -7653,7 +7670,8 @@ entries:
   orgName: Modiga Människor
   orgNumber: 750221-XXXX
   comment: null
-  categories: null
+  categories:
+  - podcast
   web: https://modigamanniskor.se/
 
 - entry: 1230924571
@@ -7985,6 +8003,15 @@ entries:
   - stövarklubb
   web: https://www.vblstovare.se/
 
+- entry: 1230987255
+  orgName: Folkmusikens hus
+  orgNumber: 883202-3199
+  comment: null
+  categories:
+  - förening
+  - musik
+  web: https://folkmusikenshus.se/
+
 - entry: 1230987982
   orgName: Kvinnojouren Lund
   orgNumber: 845001-7788
@@ -8236,6 +8263,14 @@ entries:
   categories:
   - religion
   web: https://ffg.se/
+
+- entry: 1231008762
+  orgName: Ask4Life / Anna Sundkvist Kräutner
+  orgNumber: 670312-XXXX
+  comment: null
+  categories:
+  - terapisamtal
+  web: https://ask4life.se/
 
 - entry: 1231010776
   orgName: IFK Kristianstad Adolf J:s Stiftelse
@@ -10499,6 +10534,15 @@ entries:
   - religion
   web: http://gratiskoran.se/
 
+- entry: 1231300730
+  orgName: Föreningen Själ och Hjärta
+  orgNumber: 802475-0484
+  comment: null
+  categories:
+  - meditation
+  - seans
+  web: https://www.sjalhjarta.com/
+
 - entry: 1231301340
   orgName: Skillingaryds Pistolskytteklubb PSK
   orgNumber: 802499-2896
@@ -11007,6 +11051,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/paletten
+
+- entry: 1231359835
+  orgName: Rosenlöfs Vänner
+  orgNumber: 885501-4075
+  comment: null
+  categories:
+  - intresseförening
+  - konstförening
+  web: https://rosenlofsvanner.se/
 
 - entry: 1231364728
   orgName: Golftorget AB
@@ -14335,6 +14388,15 @@ entries:
   - religion
   web: https://pingsteskilstunaweb.se/
 
+- entry: 1231761154
+  orgName: ARNA - Art and Nature
+  orgNumber: 802462-7047
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://arna.nu/
+
 - entry: 1231765700
   orgName: Williams Syndromförening i Sverige
   orgNumber: 802405-0273
@@ -14998,6 +15060,15 @@ entries:
   - hjälporganisation
   - välgörenhet
   web: https://hasene.se/
+
+- entry: 1231849637
+  orgName: Vincent & Ebba AB
+  orgNumber: 559168-9269
+  comment: null
+  categories:
+  - konst
+  - konstnär
+  web: https://vincentoebba.se/
 
 - entry: 1231854223
   orgName: Västerås Trafikskola
@@ -16598,6 +16669,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
 
+- entry: 1232116580
+  orgName: Limhamns Konstförening
+  orgNumber: 846003-4872
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.limhamnskonstforening.com/
+
 - entry: 1232124162
   orgName: Alingsås Vårgårda Discgolf
   orgNumber: 802438-6883
@@ -16850,6 +16929,24 @@ entries:
   - trafikskola
   - utbildning
   web: https://www.johanstrafikskola.com/
+
+- entry: 1232145720
+  orgName: Grafikgruppen Visby
+  orgNumber: 769613-2724
+  comment: null
+  categories:
+  - grafik
+  - konst
+  web: https://grafikgruppen.se/
+
+- entry: 1232146876
+  orgName: Sambandscentralen IFÖ Center
+  orgNumber: 802492-0806
+  comment: null
+  categories:
+  - galleri
+  - konstförening
+  web: https://www.ifocenter.com/
 
 - entry: 1232148765
   orgName: Sergel Kredittjänster AB
@@ -17477,6 +17574,15 @@ entries:
   categories:
   - hembygdsförening
   web: http://www.vasterfarnebo.se/
+
+- entry: 1232220267
+  orgName: Ölands Skördefest AB
+  orgNumber: 556783-8544
+  comment: null
+  categories:
+  - eventarrangör
+  - festival
+  web: https://skordefest.nu/
 
 - entry: 1232220481
   orgName: Swedish International Relief Association, SIRA
@@ -18556,6 +18662,7 @@ entries:
   comment: null
   categories:
   - auktioner
+  - auktionsverk
   web: https://www.skanesauktionsverk.se/
 
 - entry: 1232349140
@@ -19930,6 +20037,15 @@ entries:
   - ideell förening
   web: http://www.atrium-vaxjo.org/
 
+- entry: 1232592160
+  orgName: Grafik i Väst
+  orgNumber: 857206-5491
+  comment: null
+  categories:
+  - grafik
+  - konstnärsförening
+  web: https://www.grafikivast.se/
+
 - entry: 1232592426
   orgName: Svenska Ridtravarföreningen Uppland Västmanland
   orgNumber: 802472-0800
@@ -20131,6 +20247,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/sudrets-pastorat
+
+- entry: 1232624815
+  orgName: IFK Norrköping
+  orgNumber: 825000-1644
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://ifknorrkoping.se/
 
 - entry: 1232625986
   orgName: Lanna Golfklubb
@@ -22551,6 +22676,14 @@ entries:
   - restaurant
   web: https://www.stallyktan.se/
 
+- entry: 1232945871
+  orgName: Värmlands Konstnärsförbund
+  orgNumber: 802439-1487
+  comment: null
+  categories:
+  - konstnärsförbund
+  web: https://www.varmlandskonstnarsforbund.se/
+
 - entry: 1232946697
   orgName: Nolberga Veterinärpraktik - Leg.vet. Annelie Hellström / Nolberga Veterinärpraktik AB
   orgNumber: 559142-8916
@@ -24257,6 +24390,7 @@ entries:
   categories:
   - kajak
   - kanot
+  - konst
   - paddling
   web: https://www.thomassondesign.com/
 
@@ -25026,6 +25160,14 @@ entries:
   - pool
   web: https://www.jönköpingsbiljardklubb.org/
 
+- entry: 1233348109
+  orgName: Trosabygdens Konstförening
+  orgNumber: 802526-8965
+  comment: null
+  categories:
+  - konstförening
+  web: https://trosabygdens.konstforeningar.se/
+
 - entry: 1233349420
   orgName: Appeal Advokatbyrå AB
   orgNumber: 559193-6546
@@ -25043,6 +25185,14 @@ entries:
   - pistolskytteklubb
   - skytte
   web: https://eskilstuna-epk.com/
+
+- entry: 1233349966
+  orgName: Elisabeth Bergstrand-Poulsen Sällskapet, EBP-Sällskapet
+  orgNumber: 802459-0252
+  comment: null
+  categories:
+  - konstsällskap
+  web: https://www.ebpsallskapet.se/
 
 - entry: 1233350816
   orgName: Göteborgs Ornitologiska Förening, GOF
@@ -25841,6 +25991,15 @@ entries:
   - religion
   web: https://pingstsoderkoping.se/
 
+- entry: 1233457595
+  orgName: Sambandscentralen IFÖ Center
+  orgNumber: 802492-0806
+  comment: null
+  categories:
+  - galleri
+  - konstförening
+  web: https://www.ifocenter.com/
+
 - entry: 1233457678
   orgName: IBF Falun Utveckling
   orgNumber: 802420-9754
@@ -26018,6 +26177,14 @@ entries:
   - förening
   - intresseorganisation
   web: https://www.vaxjofolkdans.se/
+
+- entry: 1233475563
+  orgName: Breanäs Hotell AB
+  orgNumber: 559220-0215
+  comment: null
+  categories:
+  - hotell
+  web: https://www.breanashotell.se/
 
 - entry: 1233475951
   orgName: Team Powerwoman
@@ -27241,6 +27408,16 @@ entries:
   categories:
   - golfklubb
   web: https://www.kilsgk.se/
+
+- entry: 1233635190
+  orgName: Föreningen Södergården
+  orgNumber: 802008-0688
+  comment: null
+  categories:
+  - kurser
+  - studiecirklar
+  - utbildning
+  web: https://sodergarden.org/
 
 - entry: 1233635224
   orgName: Lyftidrottens ungdomsfond
@@ -28759,7 +28936,7 @@ entries:
   web: https://kks.nu/
 
 - entry: 1233893880
-  orgName: Freija Roslagens företagarkvinnor
+  orgName: Freija Roslagens Företagarkvinnor
   orgNumber: 814400-9902
   comment: null
   categories:
@@ -28805,6 +28982,14 @@ entries:
   categories:
   - religion
   web: http://www.huskvarna.pingst.se/
+
+- entry: 1233894862
+  orgName: Lidköpings Konstförening
+  orgNumber: 867800-8031
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.lidkopingskonstforening.se/
 
 - entry: 1233896289
   orgName: LuleåFans
@@ -29402,6 +29587,8 @@ entries:
   comment: null
   categories:
   - förening
+  - konst
+  - konstsällskap
   web: https://www.kiviuppsala.se/
 
 - entry: 1233990553
@@ -31902,6 +32089,14 @@ entries:
   - bygdegårdsförening
   web: https://osterang.com/
 
+- entry: 1234404521
+  orgName: Värmlands Konstförening
+  orgNumber: 873200-3150
+  comment: null
+  categories:
+  - konstförening
+  web: https://varmlandskonstforening.se/
+
 - entry: 1234406666
   orgName: Lions Club Mjölby
   orgNumber: 823000-5467
@@ -33778,6 +33973,15 @@ entries:
   categories:
   - supporterklubb
   web: http://www.rodabollen.se/
+
+- entry: 1234671533
+  orgName: Art of Rhythm.Sweden / Sophie Aronsson
+  orgNumber: 630428-XXXX
+  comment: null
+  categories:
+  - konst
+  - yoga
+  web: https://rawart.se/
 
 - entry: 1234671772
   orgName: Solrosen Kvinnojour
@@ -36280,6 +36484,15 @@ entries:
   - speleologi
   web: https://speleo.se/
 
+- entry: 1235116660
+  orgName: Linköpings Fältrittklubb
+  orgNumber: 822001-1236
+  comment: null
+  categories:
+  - fältrittklubb
+  - hästsport
+  web: https://www.linkopingsfaltrittklubb.se/
+
 - entry: 1235117106
   orgName: Handbollsakademin i Sverige
   orgNumber: 802427-5490
@@ -36472,7 +36685,7 @@ entries:
   web: https://www.aerostepcompany.com/
 
 - entry: 1235133178
-  orgName: Freija Roslagens företagarkvinnor
+  orgName: Freija Roslagens Företagarkvinnor
   orgNumber: 814400-9902
   comment: null
   categories:
@@ -37673,6 +37886,15 @@ entries:
   categories:
   - yoga
   web: https://www.sacredspine.se/
+
+- entry: 1235296041
+  orgName: at Kungsholmen AB
+  orgNumber: 556243-3879
+  comment: null
+  categories:
+  - catering
+  - restaurant
+  web: http://atkungsholmen.se/
 
 - entry: 1235297718
   orgName: Insamlingsstiftelsen WONSA
@@ -39819,6 +40041,16 @@ entries:
   - stiftelse
   web: https://skargardsstiftelsen.se/
 
+- entry: 1235597133
+  orgName: Teglund Publishing AB
+  orgNumber: 559107-2110
+  comment: null
+  categories:
+  - bokutgivning
+  - förlag
+  - podcast
+  web: https://tegpublishing.se/
+
 - entry: 1235597257
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -40430,6 +40662,15 @@ entries:
   categories:
   - fotograf
   web: https://www.zahlo.se/
+
+- entry: 1235680160
+  orgName: Uppsalamagasinet Luthagsnytt, UMLN / Strandh-Klefbeck Media KB
+  orgNumber: 969708-7477
+  comment: null
+  categories:
+  - lokalmedia
+  - lokaltidning
+  web: https://luthagsnytt.se/
 
 - entry: 1235680889
   orgName: Kristianstads JSK - Skyttesport
@@ -43874,6 +44115,14 @@ entries:
   - stiftelse
   web: https://www.svenskakulturstiftelsen.se/
 
+- entry: 1236210579
+  orgName: Y:ets Framtid Intresseförening
+  orgNumber: 802497-2773
+  comment: null
+  categories:
+  - intresseförening
+  web: http://www.yetsframtid.com/
+
 - entry: 1236212013
   orgName: Team Rynkeby
   orgNumber: 802533-7653
@@ -44017,6 +44266,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://hallansbg.se/
+
+- entry: 1236219778
+  orgName: Peter Frisk Produktion / Peter Frisk
+  orgNumber: 660529-XXXX
+  comment: null
+  categories:
+  - konst
+  - stadsvandring
+  web: https://www.peterfrisk.se/
 
 - entry: 1236220628
   orgName: Köket Åsele / Lisa Lindh
@@ -44668,6 +44926,17 @@ entries:
   - utbildning
   web: https://www.licensetrafikskola.se/
 
+- entry: 1236314538
+  orgName: Osprey Farm & Studio / Osprey Sweden AB
+  orgNumber: 556407-6189
+  comment: null
+  categories:
+  - jordbruk
+  - keramik
+  - konst
+  - konsthantverk
+  web: https://www.ospreysweden.se/
+
 - entry: 1236322432
   orgName: NyFramtid
   orgNumber: 802513-2336
@@ -45238,6 +45507,14 @@ entries:
   - katthotell
   - kattpensionat
   web: https://www.harkebergahundhotell.se/
+
+- entry: 1236409551
+  orgName: JFF Konstförening, Järnvägarnas Fritidsförbunds Konstförening
+  orgNumber: 802010-5816
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.jffkonst.se/
 
 - entry: 1236409635
   orgName: TjejJouren Väst
@@ -46592,6 +46869,14 @@ entries:
   - officersförening
   web: https://kamratoff.se/
 
+- entry: 1236662738
+  orgName: Tibro Konstförening
+  orgNumber: 802476-0723
+  comment: null
+  categories:
+  - konstförening
+  web: http://www.tibrokonst.se/
+
 - entry: 1236662902
   orgName: Kvinno- och tjejjouren Jönköping
   orgNumber: 826002-0030
@@ -47838,6 +48123,17 @@ entries:
   - religion
   web: https://bjorkbackskyrkan.se/
 
+- entry: 1236821177
+  orgName: Osprey Farm & Studio / Osprey Sweden AB
+  orgNumber: 556407-6189
+  comment: null
+  categories:
+  - jordbruk
+  - keramik
+  - konst
+  - konsthantverk
+  web: https://www.ospreysweden.se/
+
 - entry: 1236824619
   orgName: Göteborgs Dövas Förening
   orgNumber: 857200-2916
@@ -47961,6 +48257,16 @@ entries:
   categories:
   - välgörenhet
   web: https://www.kkl.nu/
+
+- entry: 1236840599
+  orgName: Avlidna Salakonstnärers Sällskap, ASS
+  orgNumber: 802495-0571
+  comment: null
+  categories:
+  - konst
+  - konstförening
+  - konstsällskap
+  web: https://salakonst.se/
 
 - entry: 1236840896
   orgName: Stiftelsen Skandinavisk Yoga och Meditationsskola
@@ -48371,7 +48677,7 @@ entries:
   web: https://morrharethundsport.se/
 
 - entry: 1236915896
-  orgName: Helsingborgs konstförening
+  orgName: Helsingborgs Konstförening
   orgNumber: 843000-1837
   comment: null
   categories:
@@ -53543,6 +53849,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - riksorganisation
   web: https://www.gapf.se/
 
 - entry: 1239006297
