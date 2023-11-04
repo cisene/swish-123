@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-04-rev-130642",
+    "date": "2023-11-04-rev-142706",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7201,6 +7201,16 @@
       "web": "https://lundadventist.se/"
     },
     {
+      "entry": 1230788638,
+      "orgNumber": "730425-XXXX",
+      "orgName": "Mattias Enn Produktioner / Mattias Nilsson",
+      "categories": [
+        "artist",
+        "musiker"
+      ],
+      "web": "https://www.mattiasenn.se/"
+    },
+    {
       "entry": 1230792234,
       "orgNumber": "833200-5001",
       "orgName": "Hultsfred gymnastikklubb",
@@ -11834,6 +11844,15 @@
       "web": "https://www.posk.se/motala/"
     },
     {
+      "entry": 1231297688,
+      "orgNumber": "802007-0325",
+      "orgName": "Ljudtekniska S\u00e4llskapet",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.lts.a.se/"
+    },
+    {
       "entry": 1231297811,
       "orgNumber": "969794-9601",
       "orgName": "Albertz Racing & Hobby",
@@ -14450,6 +14469,15 @@
         "catering"
       ],
       "web": "https://rentachef.com/"
+    },
+    {
+      "entry": 1231573831,
+      "orgNumber": "802511-1561",
+      "orgName": "Blasieholmens V\u00e4nner",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://blasieholmensvanner.se/"
     },
     {
       "entry": 1231574268,
@@ -18726,6 +18754,17 @@
       "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
     },
     {
+      "entry": 1232097483,
+      "orgNumber": "802447-4044",
+      "orgName": "Wagner-S\u00e4llskapet i G\u00f6teborg",
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://wsg.se/"
+    },
+    {
       "entry": 1232098689,
       "orgNumber": "802466-2713",
       "orgName": "Clarajouren - Kvinnojouren i \u00c5rj\u00e4ng",
@@ -19108,6 +19147,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.hasselaif.se/"
+    },
+    {
+      "entry": 1232138741,
+      "orgNumber": "802437-9698",
+      "orgName": "S\u00e4llskapet Malte",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://sallskapetmalte.se/"
     },
     {
       "entry": 1232139350,
@@ -21747,6 +21795,15 @@
       "web": "https://stockholm.reumatiker.se/"
     },
     {
+      "entry": 1232407542,
+      "orgNumber": "802441-6631",
+      "orgName": "Sara Lidman-s\u00e4llskapet",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.saralidman.se/"
+    },
+    {
       "entry": 1232408227,
       "orgNumber": "802503-9887",
       "orgName": "Tillsammans H\u00f6\u00f6r / Mittpunkten H\u00f6\u00f6r",
@@ -23390,6 +23447,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://stolof.scout.se/"
+    },
+    {
+      "entry": 1232668309,
+      "orgNumber": "802414-2203",
+      "orgName": "Veterantraktorklubben Norrtelje",
+      "categories": [
+        "motorklubb",
+        "veteranfordon"
+      ],
+      "web": "https://www.veterantraktorklubben.nu/"
     },
     {
       "entry": 1232668556,
@@ -31370,6 +31437,15 @@
       "web": "https://www.malins-skafferi.se/"
     },
     {
+      "entry": 1233680725,
+      "orgNumber": "802418-7059",
+      "orgName": "\u00d6vsj\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://www.ovsjo.se/"
+    },
+    {
       "entry": 1233680998,
       "orgNumber": "826001-4678",
       "orgName": "Kristina Scoutk\u00e5r",
@@ -32589,6 +32665,16 @@
         "k\u00f6ttproducent"
       ],
       "web": "https://www.vikaryd.com/"
+    },
+    {
+      "entry": 1233880010,
+      "orgNumber": "833200-8534",
+      "orgName": "Sportfiskeklubben Kroken",
+      "categories": [
+        "sportfiske",
+        "sportfiskeklubb"
+      ],
+      "web": "https://www.sfk-kroken.nu/"
     },
     {
       "entry": 1233880762,
@@ -34428,6 +34514,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.agabtk.se/"
+    },
+    {
+      "entry": 1234120341,
+      "orgNumber": "802468-9393",
+      "orgName": "S\u00e4llskapet f\u00f6r Restaureringskonst",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://sallskapet.eu/"
     },
     {
       "entry": 1234120903,
@@ -36768,6 +36863,15 @@
         "ishockey"
       ],
       "web": "https://www.hammarbyhockey.se/"
+    },
+    {
+      "entry": 1234433959,
+      "orgNumber": "012350-7725",
+      "orgName": "Gata Upp Gata Ner",
+      "categories": [
+        "historief\u00f6rening"
+      ],
+      "web": "https://kumla.it/gugn/"
     },
     {
       "entry": 1234434536,
@@ -42122,6 +42226,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235185228,
+      "orgNumber": "802432-0239",
+      "orgName": "Zarah Leanders\u00e4llskapet p\u00e5 Vikbolandet",
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://zarahleander.se/"
+    },
+    {
       "entry": 1235189238,
       "orgNumber": "897001-5049",
       "orgName": "Brottsofferjouren Lule\u00e5",
@@ -43044,6 +43159,17 @@
         "kl\u00e4ttring"
       ],
       "web": "https://www.enkopingsklatterklubb.se/"
+    },
+    {
+      "entry": 1235305412,
+      "orgNumber": "802443-5250",
+      "orgName": "Povel Ramel-S\u00e4llskapet",
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.povelramelsallskapet.se/"
     },
     {
       "entry": 1235306725,
@@ -54320,6 +54446,17 @@
       "web": "https://www.hembygd.se/yttersta-hembygdsforening"
     },
     {
+      "entry": 1236793251,
+      "orgNumber": "857208-8212",
+      "orgName": "Lasse Dahlquist-s\u00e4llskapet",
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://lassedahlquist.se/"
+    },
+    {
       "entry": 1236793707,
       "orgNumber": "812401-1977",
       "orgName": "Tyres\u00f6 N\u00e4rradiof\u00f6rening",
@@ -54943,6 +55080,15 @@
       "web": "https://dotzsky.se/"
     },
     {
+      "entry": 1236887053,
+      "orgNumber": "802408-0643",
+      "orgName": "F\u00f6rs\u00e4kringsMedicinska S\u00e4llskapet, FMS",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://forsakringsmedicinskasallskapet.se/"
+    },
+    {
       "entry": 1236887780,
       "orgNumber": "887500-3496",
       "orgName": "Lions Club Hudiksvall",
@@ -55284,6 +55430,15 @@
       ]
     },
     {
+      "entry": 1236930150,
+      "orgNumber": "252000-0585",
+      "orgName": "Oscars F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/oscars-forsamling"
+    },
+    {
       "entry": 1236931091,
       "orgNumber": "814400-5033",
       "orgName": "BKV Norrt\u00e4lje",
@@ -55471,6 +55626,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.skanesanglar.se/"
+    },
+    {
+      "entry": 1236952436,
+      "orgNumber": "872800-4634",
+      "orgName": "V\u00e4stan\u00e5 Musik & Teater",
+      "categories": [
+        "musik",
+        "teater"
+      ],
+      "web": "https://vastanateater.se/"
     },
     {
       "entry": 1236954291,
@@ -59438,7 +59603,7 @@
     {
       "entry": 1239011099,
       "orgNumber": "815200-8317",
-      "orgName": "Svenska S\u00e4llskapet f\u00f6r Medicinsk forskning",
+      "orgName": "Svenska S\u00e4llskapet f\u00f6r Medicinsk forskning, SSMF",
       "categories": [
         "donation",
         "forskning",
