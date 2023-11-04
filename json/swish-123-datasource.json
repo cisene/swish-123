@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-10-29-rev-164234",
+    "date": "2023-11-04-rev-130642",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -187,6 +187,15 @@
         "motorsport"
       ],
       "web": "https://idrottonline.se/LinkopingsMS-Bilsport/"
+    },
+    {
+      "entry": 1230009563,
+      "orgNumber": "802414-2492",
+      "orgName": "V\u00e4dd\u00f6bygden Ideell F\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://vaddobygden.se/"
     },
     {
       "entry": 1230013300,
@@ -1247,7 +1256,8 @@
       "orgNumber": "556815-5666",
       "orgName": "Donnez Orkester AB",
       "categories": [
-        "dansband"
+        "dansband",
+        "orkester"
       ],
       "web": "https://www.donnez.se/"
     },
@@ -1643,6 +1653,17 @@
         "sport"
       ],
       "web": "https://www.gais.se/"
+    },
+    {
+      "entry": 1230186999,
+      "orgNumber": "640117-XXXX",
+      "orgName": "Beas Gong Yoga / Handgreppet Beatrice Nilsson",
+      "categories": [
+        "healing",
+        "massage",
+        "yoga"
+      ],
+      "web": "https://beasgongyoga.se/"
     },
     {
       "entry": 1230189407,
@@ -2528,6 +2549,15 @@
       "web": "https://www.langshyttansfolketshus.com/"
     },
     {
+      "entry": 1230281048,
+      "orgNumber": "894001-0195",
+      "orgName": "Norrmj\u00f6le Tennisklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "tennisklubb"
+      ]
+    },
+    {
       "entry": 1230290213,
       "orgNumber": "802442-1219",
       "orgName": "Svenska Finnjollef\u00f6rbundet",
@@ -2864,6 +2894,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.bsgothia.com/"
+    },
+    {
+      "entry": 1230317461,
+      "orgNumber": "729500-3938",
+      "orgName": "T\u00e4vels\u00e5s Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://www.tavelsas.se/"
     },
     {
       "entry": 1230317545,
@@ -5753,6 +5792,16 @@
       "web": "https://demokratibygget.se/"
     },
     {
+      "entry": 1230639005,
+      "orgNumber": "853301-2194",
+      "orgName": "Inlands Folkdansare",
+      "categories": [
+        "dansf\u00f6rening",
+        "folkdans"
+      ],
+      "web": "https://www.inlandsfolkdansare.se/"
+    },
+    {
       "entry": 1230642389,
       "orgNumber": "885000-9039",
       "orgName": "G\u00e4vle Folkmusikf\u00f6rening",
@@ -6798,6 +6847,15 @@
       "web": "https://www.facebook.com/LundabygdensDF/"
     },
     {
+      "entry": 1230752592,
+      "orgNumber": "834000-1182",
+      "orgName": "Gothems Sockenf\u00f6rening",
+      "categories": [
+        "sockenf\u00f6rening"
+      ],
+      "web": "https://www.gothem.se/"
+    },
+    {
       "entry": 1230752931,
       "orgNumber": "935000-0106",
       "orgName": "Sj\u00f6scoutk\u00e5ren af Chapman",
@@ -7231,6 +7289,15 @@
       "web": "https://rudolfsons.se/"
     },
     {
+      "entry": 1230797225,
+      "orgNumber": "817605-1103",
+      "orgName": "Barva Framtid",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://barvabygden.se/"
+    },
+    {
       "entry": 1230798124,
       "orgNumber": "882600-0989",
       "orgName": "IK Brage",
@@ -7445,6 +7512,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://seskaro.net/"
+    },
+    {
+      "entry": 1230816967,
+      "orgNumber": "817606-1573",
+      "orgName": "F\u00f6reningen Gamla Bion i \u00d6rsundsbro",
+      "categories": [
+        "biograf",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://gamlabion.se/"
     },
     {
       "entry": 1230821132,
@@ -9430,6 +9507,15 @@
         "religion"
       ],
       "web": "https://www.facebook.com/apostlemeheretmercy"
+    },
+    {
+      "entry": 1231035278,
+      "orgNumber": "818001-3909",
+      "orgName": "Barva Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/barva"
     },
     {
       "entry": 1231038512,
@@ -12340,6 +12426,15 @@
       "web": "https://borjesalmingstiftelse.se/"
     },
     {
+      "entry": 1231355155,
+      "orgNumber": "559279-1221",
+      "orgName": "Yogashala South Sweden AB",
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://yogashalasouthsweden.com/"
+    },
+    {
       "entry": 1231355189,
       "orgNumber": "897300-0261",
       "orgName": "Kiruna jakt- och fiskev\u00e5rdsf\u00f6rening",
@@ -12960,6 +13055,17 @@
         "kennelklubb"
       ],
       "web": "https://nlkk.se/"
+    },
+    {
+      "entry": 1231448232,
+      "orgNumber": "882000-9630",
+      "orgName": "Avesta Dansklubb",
+      "categories": [
+        "dansf\u00f6rening",
+        "dansklubb",
+        "linedance"
+      ],
+      "web": "https://www.avestadansklubb.se/"
     },
     {
       "entry": 1231448430,
@@ -17407,6 +17513,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231919646,
+      "orgNumber": "556607-7482",
+      "orgName": "PerH\u00e5kans, PH:s / P. Hel\u00e9ns Musikproduktion AB",
+      "categories": [
+        "dansband",
+        "orkester"
+      ],
+      "web": "https://www.perhakans.se/"
+    },
+    {
       "entry": 1231925619,
       "orgNumber": "802532-8033",
       "orgName": "Team Rynkeby",
@@ -18718,6 +18834,16 @@
       "web": "https://idrottonline.se/MorjarvSK-Friidrott/"
     },
     {
+      "entry": 1232112258,
+      "orgNumber": "802437-4764",
+      "orgName": "Eastfield's Linedancers Club",
+      "categories": [
+        "dansf\u00f6rening",
+        "linedance"
+      ],
+      "web": "https://www.efld.se/"
+    },
+    {
       "entry": 1232114023,
       "orgNumber": "802532-9916",
       "orgName": "Team Rynkeby",
@@ -19525,6 +19651,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232187623,
+      "orgNumber": "802455-7087",
+      "orgName": "Kvibille Gymnastikf\u00f6rening",
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://kvibillegf.se/"
     },
     {
       "entry": 1232189322,
@@ -20604,6 +20740,16 @@
         "religion"
       ],
       "web": "https://www.burekyrkan.com/"
+    },
+    {
+      "entry": 1232289809,
+      "orgNumber": "897000-3938",
+      "orgName": "Lule\u00e5 Jaktv\u00e5rdsklubb, LJVK",
+      "categories": [
+        "intressef\u00f6rening",
+        "jaktv\u00e5rdsklubb"
+      ],
+      "web": "https://ljvk.se/"
     },
     {
       "entry": 1232300457,
@@ -27889,6 +28035,16 @@
       "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
+      "entry": 1233264066,
+      "orgNumber": "580324-XXXX",
+      "orgName": "Move Catarina Hagstrand",
+      "categories": [
+        "friskv\u00e5rd",
+        "motionsdans"
+      ],
+      "web": "https://www.movecatarina.se/"
+    },
+    {
       "entry": 1233264330,
       "orgNumber": "802400-3322",
       "orgName": "V\u00e4nskapsf\u00f6rbundet Sverige-Israel Riksorganisation",
@@ -28167,6 +28323,16 @@
       "web": "https://www.skymining.com/"
     },
     {
+      "entry": 1233304458,
+      "orgNumber": "893201-4452",
+      "orgName": "Linsells Byalag och Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://linsell-ransjo.com/"
+    },
+    {
       "entry": 1233306842,
       "orgNumber": "839400-8810",
       "orgName": "GK Engelholmsgymnasterna",
@@ -28175,6 +28341,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://engelholmsgymnasterna.sportadmin.se/"
+    },
+    {
+      "entry": 1233310422,
+      "orgNumber": "878001-0115",
+      "orgName": "Sevalla Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "sockenf\u00f6rening"
+      ],
+      "web": "https://sevallasocken.se/"
     },
     {
       "entry": 1233311107,
@@ -28816,6 +28992,17 @@
         "hundsport"
       ],
       "web": "https://www.shkvasteras.se/"
+    },
+    {
+      "entry": 1233384617,
+      "orgNumber": "868400-7415",
+      "orgName": "V\u00e4sterg\u00f6tlands Schackf\u00f6rbund",
+      "categories": [
+        "f\u00f6rbund",
+        "schackf\u00f6rbund",
+        "schackklubb"
+      ],
+      "web": "https://skaraschack.eu/"
     },
     {
       "entry": 1233384765,
@@ -30856,6 +31043,16 @@
       "web": "http://www.rs96.se/"
     },
     {
+      "entry": 1233629599,
+      "orgNumber": "802492-0269",
+      "orgName": "Konst & Kulturrundan i Kolb\u00e4cks\u00e5dalen",
+      "categories": [
+        "konstf\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://konstokultur.se/"
+    },
+    {
       "entry": 1233630563,
       "orgNumber": "802489-1205",
       "orgName": "Bj\u00f6rkek\u00e4rr Scoutk\u00e5r",
@@ -32737,6 +32934,15 @@
         "hundsport"
       ],
       "web": "https://www.hundtrixet.se/"
+    },
+    {
+      "entry": 1233897394,
+      "orgNumber": "802434-1078",
+      "orgName": "Raksta B\u00e5tklubb",
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "https://rakstabatklubb.se/"
     },
     {
       "entry": 1233898962,
@@ -36690,6 +36896,15 @@
       "web": "https://mickeahlgrens.se/"
     },
     {
+      "entry": 1234467387,
+      "orgNumber": "559263-2540",
+      "orgName": "Pr\u00e4stg\u00e5rden Holm\u00f6n / Holm\u00f6ns Bygdebolag AB",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.prastgardenholmon.se/"
+    },
+    {
       "entry": 1234468567,
       "orgNumber": "802533-7794",
       "orgName": "Team Rynkeby",
@@ -37258,6 +37473,17 @@
         "rotaryklubb"
       ],
       "web": "https://portal.clubrunner.ca/16263/"
+    },
+    {
+      "entry": 1234536421,
+      "orgNumber": "802010-3480",
+      "orgName": "Motorhistoriska S\u00e4llskapet i Sverige, MHS",
+      "categories": [
+        "historief\u00f6rening",
+        "histories\u00e4llskap",
+        "motorhistoria"
+      ],
+      "web": "https://mhs.se/"
     },
     {
       "entry": 1234536447,
@@ -41455,6 +41681,15 @@
       "web": "https://www.laget.se/IKWormo/"
     },
     {
+      "entry": 1235141718,
+      "orgNumber": "802518-9707",
+      "orgName": "Vi i Maglehem, VIM",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.viimaglehem.se/"
+    },
+    {
       "entry": 1235142039,
       "orgNumber": "802009-9639",
       "orgName": "Br\u00f6stcancerf\u00f6reningen Amazona Stockholm",
@@ -42101,6 +42336,15 @@
         "tankesmedja"
       ],
       "web": "https://fores.se/"
+    },
+    {
+      "entry": 1235218821,
+      "orgNumber": "817000-1898",
+      "orgName": "F\u00f6reningen Tr\u00f6gdsg\u00e5rden",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://www.trogdsgarden.se/"
     },
     {
       "entry": 1235218896,
@@ -45298,6 +45542,17 @@
       "web": "http://radiofysik.org/"
     },
     {
+      "entry": 1235604533,
+      "orgNumber": "802513-5388",
+      "orgName": "Uppsala Spelmanslag",
+      "categories": [
+        "folkmusik",
+        "spelmansgille",
+        "spelmanslag"
+      ],
+      "web": "https://uppsalaspelmanslag.se/"
+    },
+    {
       "entry": 1235604731,
       "orgNumber": "802503-4763",
       "orgName": "Rotary Malm\u00f6 \u00d6resund",
@@ -45954,6 +46209,16 @@
         "stiftelse"
       ],
       "web": "https://skargardsstiftelsen.se/"
+    },
+    {
+      "entry": 1235686878,
+      "orgNumber": "827500-9986",
+      "orgName": "Skir\u00f6 AIK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "idrottsklubb"
+      ],
+      "web": "https://www.skiroaik.se/"
     },
     {
       "entry": 1235690037,
@@ -47974,6 +48239,15 @@
         "stiftelse"
       ],
       "web": "https://sweamfo.se/"
+    },
+    {
+      "entry": 1235952494,
+      "orgNumber": "829500-8968",
+      "orgName": "Hjortsberga Samh\u00e4llsf\u00f6rening",
+      "categories": [
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://www.hjortsberga.se/"
     },
     {
       "entry": 1235952635,
@@ -51447,6 +51721,15 @@
       "web": "https://www.friskissvettis.se/borlange"
     },
     {
+      "entry": 1236430383,
+      "orgNumber": "802530-2145",
+      "orgName": "SETU Sverige Foundation",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.setusverigefoundation.org/"
+    },
+    {
       "entry": 1236431324,
       "orgNumber": "863500-3802",
       "orgName": "Skepplanda BTK",
@@ -51456,6 +51739,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/Skepplanda/"
+    },
+    {
+      "entry": 1236433130,
+      "orgNumber": "802509-3009",
+      "orgName": "Lunds Skogstr\u00e4dg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "tr\u00e4dg\u00e5rdsf\u00f6rening",
+        "tr\u00e4dg\u00e5rdss\u00e4llskap"
+      ],
+      "web": "https://lundstradgardssallskap.se/"
     },
     {
       "entry": 1236433445,
@@ -52680,6 +52973,16 @@
         "utbildning"
       ],
       "web": "http://www.kavjf.se/"
+    },
+    {
+      "entry": 1236628820,
+      "orgNumber": "212000-1355",
+      "orgName": "World Sessions / G\u00f6teborgs Kommun",
+      "categories": [
+        "eventarrang\u00f6r",
+        "konsert"
+      ],
+      "web": "https://worldsessions.se/"
     },
     {
       "entry": 1236629273,
@@ -54500,6 +54803,16 @@
       "web": "https://www.laget.se/Skepplanda/"
     },
     {
+      "entry": 1236874333,
+      "orgNumber": "556478-4790",
+      "orgName": "Hedins Orkester / Bengt Hedins Orkester Aktiebolag",
+      "categories": [
+        "dansband",
+        "orkester"
+      ],
+      "web": "http://www.hedins.info/"
+    },
+    {
       "entry": 1236876833,
       "orgNumber": "840613-XXXX",
       "orgName": "Advokatbyr\u00e5n Jenny Persdotter",
@@ -54952,6 +55265,15 @@
         "orienteringsklubb"
       ],
       "web": "https://hallbysok.se/"
+    },
+    {
+      "entry": 1236929459,
+      "orgNumber": "843001-2206",
+      "orgName": "Tingvalla Dans i \u00c5storp",
+      "categories": [
+        "dansf\u00f6rening"
+      ],
+      "web": "https://www.tingvalladans.se/"
     },
     {
       "entry": 1236929756,
