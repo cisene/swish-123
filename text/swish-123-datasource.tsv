@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-11-05-rev-171359
+# Date: 2023-11-05-rev-173236
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -47,6 +47,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230039933	802474-8074	Norra Gotlands Brukshundsklubb	https://ngbk.org/	brukshundsklubb,hundsport	
 1230040097	620526-XXXX	LifeTV Sverige / Hillevi Sjögren	https://lifetv.nu/	lokaltelevision,spiritualism	
 1230040311	802513-8861	PRO Lindesberg	https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg.html	pensionärsklubb	
+1230040352	559419-7963	Vomitory	https://www.vomitory.net/	kläder,musik	
 1230040691	660915-XXXX	Nordebros Trädgård / Kent Haglund	https://nordebrostradgard.weebly.com/	trädgårdsodling,trädgårdsplanering	
 1230040899	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/norrkoping/		Musikkåren Norrköping
 1230041079	252003-8874	Södra Ölands Pastorat	https://www.svenskakyrkan.se/sodraoland	religion	Resmo kyrka
@@ -59,6 +60,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230053074	846001-5368	Malmö Civila Ryttareförening, MCR	https://malmocivilaryttare.nu/	hästsport,ridklubb,ryttarförening	
 1230053587	837600-2245	Åstorpsortens RF - Ridsport	https://www.astorprf.nu/	hästsport,ridklubb	Tävling
 1230053660	580731-XXXX	Norrlands Kundaliniyoga Center / Maja Tellegård	http://www.norrlandskundaliniyoga.se/	yoga	
+1230053942	802417-5815	Telegrafverkets Pistolskytteförening / Härlanda Pistolskytteklubb	https://tpsf.se/	pistolskytteklubb	
 1230054106	802488-8003	Sölvesborgs Filmstudio	https://solvesborg.filmstudio.se/	biograf,filmklubb	
 1230054221	833200-6074	Föreningen Kopparslagaren Galleri	https://kopparslagaren.com/	galleri,konstförening	
 1230055160	802426-0229	Familjen Einhorns Stiftelse	https://einhornfoundation.wordpress.com/	stiftelse	
@@ -352,6 +354,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230366591	864000-0405	Alingsås Sjöscoutkår	https://alingsas-sjo.scout.se/	scoutkår	
 1230366930	802463-4944	Cityidrott Landskrona	https://cityidrott.se/	idrott	
 1230368050	802461-2965	Gotlands Igelkottsfond	http://www.gotlandsigelkottfond.se/	djurskydd,intresseförening	
+1230368241	802466-7258	Nordic Deaf Bridge	https://www.facebook.com/groups/185872608118028/	hörselnedsättning	
 1230369421	878000-5321	Västerås BK - Brottning	http://www.vasterasbrottarklubb.se/	brottning,brottningsklubb,intresseförening	Medlemsavgift
 1230369959	878000-2864	Västerås Gymnastikförening	http://www.vgf.nu/	gymnastikförening,idrottsförening	
 1230370577	843003-3947	Ödåkra Tennisklubb	https://odakratennis.se/	idrottsförening,tennisklubb	

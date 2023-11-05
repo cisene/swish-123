@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-11-05-rev-171359
+Date:     2023-11-05-rev-173236
 ...
 
 # Swish 123 Nummer
@@ -49,6 +49,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230039933 | 802474-8074 | Norra Gotlands Brukshundsklubb                                                                       |                           |
 | 1230040097 | 620526-XXXX | LifeTV Sverige / Hillevi Sjögren                                                                     |                           |
 | 1230040311 | 802513-8861 | PRO Lindesberg                                                                                       |                           |
+| 1230040352 | 559419-7963 | Vomitory                                                                                             |                           |
 | 1230040691 | 660915-XXXX | Nordebros Trädgård / Kent Haglund                                                                    |                           |
 | 1230040899 | 802006-1688 | Frälsningsarmén                                                                                      | Musikkåren Norrköping     |
 | 1230041079 | 252003-8874 | Södra Ölands Pastorat                                                                                | Resmo kyrka               |
@@ -61,6 +62,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230053074 | 846001-5368 | Malmö Civila Ryttareförening, MCR                                                                    |                           |
 | 1230053587 | 837600-2245 | Åstorpsortens RF - Ridsport                                                                          | Tävling                   |
 | 1230053660 | 580731-XXXX | Norrlands Kundaliniyoga Center / Maja Tellegård                                                      |                           |
+| 1230053942 | 802417-5815 | Telegrafverkets Pistolskytteförening / Härlanda Pistolskytteklubb                                    |                           |
 | 1230054106 | 802488-8003 | Sölvesborgs Filmstudio                                                                               |                           |
 | 1230054221 | 833200-6074 | Föreningen Kopparslagaren Galleri                                                                    |                           |
 | 1230055160 | 802426-0229 | Familjen Einhorns Stiftelse                                                                          |                           |
@@ -354,6 +356,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230366591 | 864000-0405 | Alingsås Sjöscoutkår                                                                                 |                           |
 | 1230366930 | 802463-4944 | Cityidrott Landskrona                                                                                |                           |
 | 1230368050 | 802461-2965 | Gotlands Igelkottsfond                                                                               |                           |
+| 1230368241 | 802466-7258 | Nordic Deaf Bridge                                                                                   |                           |
 | 1230369421 | 878000-5321 | Västerås BK - Brottning                                                                              | Medlemsavgift             |
 | 1230369959 | 878000-2864 | Västerås Gymnastikförening                                                                           |                           |
 | 1230370577 | 843003-3947 | Ödåkra Tennisklubb                                                                                   |                           |

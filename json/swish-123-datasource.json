@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-05-rev-171359",
+    "date": "2023-11-05-rev-173236",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -396,6 +396,16 @@
       "web": "https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg.html"
     },
     {
+      "entry": 1230040352,
+      "orgNumber": "559419-7963",
+      "orgName": "Vomitory",
+      "categories": [
+        "kl\u00e4der",
+        "musik"
+      ],
+      "web": "https://www.vomitory.net/"
+    },
+    {
       "entry": 1230040691,
       "orgNumber": "660915-XXXX",
       "orgName": "Nordebros Tr\u00e4dg\u00e5rd / Kent Haglund",
@@ -509,6 +519,15 @@
         "yoga"
       ],
       "web": "http://www.norrlandskundaliniyoga.se/"
+    },
+    {
+      "entry": 1230053942,
+      "orgNumber": "802417-5815",
+      "orgName": "Telegrafverkets Pistolskyttef\u00f6rening / H\u00e4rlanda Pistolskytteklubb",
+      "categories": [
+        "pistolskytteklubb"
+      ],
+      "web": "https://tpsf.se/"
     },
     {
       "entry": 1230054106,
@@ -3411,6 +3430,15 @@
         "intressef\u00f6rening"
       ],
       "web": "http://www.gotlandsigelkottfond.se/"
+    },
+    {
+      "entry": 1230368241,
+      "orgNumber": "802466-7258",
+      "orgName": "Nordic Deaf Bridge",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning"
+      ],
+      "web": "https://www.facebook.com/groups/185872608118028/"
     },
     {
       "entry": 1230369421,

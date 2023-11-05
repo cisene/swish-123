@@ -350,11 +350,13 @@ entries:
   web: https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg.html
 
 - entry: 1230040352
-  orgName: null
-  orgNumber: null
-  comment: vomitory.net
-  categories: null
-  web: vomitory.net
+  orgName: Vomitory
+  orgNumber: 559419-7963
+  comment: null
+  categories:
+  - kläder
+  - musik
+  web: https://www.vomitory.net/
 
 - entry: 1230040691
   orgName: Nordebros Trädgård / Kent Haglund
@@ -467,8 +469,8 @@ entries:
   web: http://www.norrlandskundaliniyoga.se/
 
 - entry: 1230053942
-  orgName: Telegrafverkets Pistolskytteförening
-  orgNumber: null
+  orgName: Telegrafverkets Pistolskytteförening / Härlanda Pistolskytteklubb
+  orgNumber: 802417-5815
   comment: null
   categories:
   - pistolskytteklubb
@@ -3065,9 +3067,10 @@ entries:
 
 - entry: 1230368241
   orgName: Nordic Deaf Bridge
-  orgNumber: null
+  orgNumber: 802466-7258
   comment: null
-  categories: null
+  categories:
+  - hörselnedsättning
   web: https://www.facebook.com/groups/185872608118028/
 
 - entry: 1230369421
