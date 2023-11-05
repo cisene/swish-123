@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-11-05-rev-170346
+# Date: 2023-11-05-rev-171359
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2333,7 +2333,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232580819	818000-0476	Eskilstuna Simklubb, ESK	https://www.eskilstunasimklubb.se/	idrottsförening,simklubb,simkunnighet,utbildning,vattenpolo	
 1232581189	556722-0974	Anders Andersson Text & Konsult AB	https://www.andersandersson.se/	fotograf,författare,konst	
 1232585792	802004-4924	Old English Sheepdogsällskapet, OESS	https://www.oessallskapet.com/	hundklubb	
-1232586444	832401-4573	BÄCKEBO HEMBYGDSFÖRENING	http://www.backebo.nu/	hembygdsförening	
+1232586444	832401-4573	Bäckebo Hembygdsförening	http://www.backebo.nu/	hembygdsförening	
 1232587244	252003-9203	Gåxsjö församling / Strömsunds pastorat	https://www.svenskakyrkan.se/stromsund/gaxsjo/hammerdal-forsamlingar	religion	
 1232587442	802505-7426	Federationen WIZO Sverige	https://www.wizo.se/	ungdomsverksamhet,utbildning	
 1232587509	836201-1002	Mörrums RF - Ridsport	https://www.morrumsryttarforening.com/	ridklubb,ridsport,ryttarförening	

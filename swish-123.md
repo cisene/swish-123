@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-11-05-rev-170345
+Date:     2023-11-05-rev-171359
 ...
 
 # Swish 123 Nummer
@@ -2335,7 +2335,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232580819 | 818000-0476 | Eskilstuna Simklubb, ESK                                                                             |                           |
 | 1232581189 | 556722-0974 | Anders Andersson Text & Konsult AB                                                                   |                           |
 | 1232585792 | 802004-4924 | Old English Sheepdogsällskapet, OESS                                                                 |                           |
-| 1232586444 | 832401-4573 | BÄCKEBO HEMBYGDSFÖRENING                                                                             |                           |
+| 1232586444 | 832401-4573 | Bäckebo Hembygdsförening                                                                             |                           |
 | 1232587244 | 252003-9203 | Gåxsjö församling / Strömsunds pastorat                                                              |                           |
 | 1232587442 | 802505-7426 | Federationen WIZO Sverige                                                                            |                           |
 | 1232587509 | 836201-1002 | Mörrums RF - Ridsport                                                                                |                           |
