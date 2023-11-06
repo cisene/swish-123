@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-05-rev-173236",
+    "date": "2023-11-06-rev-204033",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6154,6 +6154,15 @@
       "web": "https://tanumsbygdegard.com/"
     },
     {
+      "entry": 1230684761,
+      "orgNumber": "829500-7846",
+      "orgName": "Almundsryds Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/almundsryd"
+    },
+    {
       "entry": 1230686261,
       "orgNumber": "802522-1733",
       "orgName": "Solanderleden",
@@ -7768,6 +7777,15 @@
         "spiritualism"
       ],
       "web": "https://www.annikaw.se/"
+    },
+    {
+      "entry": 1230836320,
+      "orgNumber": "819000-6216",
+      "orgName": "Bj\u00f6rnlunda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/bjornlunda"
     },
     {
       "entry": 1230836635,
@@ -9864,6 +9882,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://slattakra.com/"
+    },
+    {
+      "entry": 1231056563,
+      "orgNumber": "893201-4502",
+      "orgName": "Asp\u00e5s Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/aspas"
     },
     {
       "entry": 1231056571,
@@ -12605,6 +12632,16 @@
         "viltv\u00e5rd"
       ],
       "web": "https://www.kirunajaktochfiske.se/"
+    },
+    {
+      "entry": 1231357201,
+      "orgNumber": "820406-XXXX",
+      "orgName": "Aktivt n\u00e4rvarande / Hel\u00e9ne Hellman",
+      "categories": [
+        "coaching",
+        "mindfulness"
+      ],
+      "web": "https://www.aktivtnarvarande.se/"
     },
     {
       "entry": 1231357714,
@@ -21013,6 +21050,15 @@
       "web": "https://ljvk.se/"
     },
     {
+      "entry": 1232299667,
+      "orgNumber": "864501-2835",
+      "orgName": "Sandhults Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/sandhult"
+    },
+    {
       "entry": 1232300457,
       "orgNumber": "212000-1892",
       "orgName": "Turistbyr\u00e5n Arvika",
@@ -23773,6 +23819,15 @@
       "web": "https://www.haverdalsgk.se/"
     },
     {
+      "entry": 1232671642,
+      "orgNumber": "802456-3119",
+      "orgName": "Sj\u00f6stadens Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/sjostaden"
+    },
+    {
       "entry": 1232674786,
       "orgNumber": "889200-3479",
       "orgName": "St\u00f6de Hembygdsf\u00f6rening",
@@ -26137,6 +26192,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/EskilstunaCityFK"
+    },
+    {
+      "entry": 1232954444,
+      "orgNumber": "864501-3361",
+      "orgName": "\u00c4spereds Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/aspered"
     },
     {
       "entry": 1232956316,
@@ -31987,6 +32051,15 @@
       "web": "http://hedemorascout.se/"
     },
     {
+      "entry": 1233728979,
+      "orgNumber": "812400-5466",
+      "orgName": "Tyres\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/tyreso"
+    },
+    {
       "entry": 1233729001,
       "orgNumber": "818500-6676",
       "orgName": "PRO Flen",
@@ -37355,6 +37428,15 @@
         "stiftelse"
       ],
       "web": "https://stiftelseforsberg.se/"
+    },
+    {
+      "entry": 1234454625,
+      "orgNumber": "838800-3140",
+      "orgName": "Albo H\u00e4rads Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/albo-harad"
     },
     {
       "entry": 1234463105,
@@ -46496,6 +46578,15 @@
         "hundsport"
       ],
       "web": "https://www.springertrestad.se/"
+    },
+    {
+      "entry": 1235652706,
+      "orgNumber": "874000-6914",
+      "orgName": "Rikkenbergets Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/rikkenberget"
     },
     {
       "entry": 1235653175,
