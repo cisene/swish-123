@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-06-rev-204033",
+    "date": "2023-11-07-rev-201639",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1012,6 +1012,15 @@
         "spiritualism"
       ],
       "web": "https://www.balansmedomtanke.se/"
+    },
+    {
+      "entry": 1230092270,
+      "orgNumber": "834001-6537",
+      "orgName": "Buttle Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/buttle"
     },
     {
       "entry": 1230093104,
@@ -2968,6 +2977,15 @@
         "stiftelse"
       ],
       "web": "https://www.independentliving.org/"
+    },
+    {
+      "entry": 1230319129,
+      "orgNumber": "812400-9682",
+      "orgName": "Haninge Hembygdsgille",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/haninge-hembygdsgille"
     },
     {
       "entry": 1230319525,
@@ -4948,6 +4966,15 @@
         "standup"
       ],
       "web": "https://www.youtube.com/@_isakberg"
+    },
+    {
+      "entry": 1230518621,
+      "orgNumber": "817606-5194",
+      "orgName": "Bj\u00f6rklinge Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/bjorklinge"
     },
     {
       "entry": 1230519298,
@@ -8832,6 +8859,15 @@
       "web": "https://www.dinvp.se/"
     },
     {
+      "entry": 1230927020,
+      "orgNumber": "825002-7391",
+      "orgName": "Gusums Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/gusums-hembygdsforening"
+    },
+    {
       "entry": 1230927400,
       "orgNumber": "870719-XXXX",
       "orgName": "Mandorla Spa / Danijel Bajric",
@@ -11964,6 +12000,15 @@
         "rotaryklubb"
       ],
       "web": "https://simrishamn.rotary2390.se/"
+    },
+    {
+      "entry": 1231294610,
+      "orgNumber": "802512-9209",
+      "orgName": "Dr\u00e4ngsereds Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/drangsered"
     },
     {
       "entry": 1231294875,
@@ -20175,6 +20220,15 @@
       "web": "https://www.thorellssyndrom.se/"
     },
     {
+      "entry": 1232209021,
+      "orgNumber": "802487-4045",
+      "orgName": "Blekinge Fornminnesf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/blekinge-fornminnesforening"
+    },
+    {
       "entry": 1232210961,
       "orgNumber": "888400-0210",
       "orgName": "Pingstf\u00f6rsamlingen Kramfors",
@@ -20270,6 +20324,15 @@
         "cuparrang\u00f6r"
       ],
       "web": "https://piteasummergames.se/"
+    },
+    {
+      "entry": 1232222263,
+      "orgNumber": "812000-0214",
+      "orgName": "Danderyds Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/danderyd"
     },
     {
       "entry": 1232222404,
@@ -23966,6 +24029,15 @@
       "web": "https://vasterassegelflyg.se/"
     },
     {
+      "entry": 1232690477,
+      "orgNumber": "826500-4609",
+      "orgName": "Askeryds Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/askeryd"
+    },
+    {
       "entry": 1232692598,
       "orgNumber": "865500-3385",
       "orgName": "Ulricehamns IF",
@@ -25433,6 +25505,15 @@
       "web": "http://www.efskyrkan.nu/"
     },
     {
+      "entry": 1232826923,
+      "orgNumber": "815200-0439",
+      "orgName": "F\u00e4rings\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/faringso"
+    },
+    {
       "entry": 1232829588,
       "orgNumber": "842000-7794",
       "orgName": "L\u00f6ber\u00f6ds Hembygdsf\u00f6rening",
@@ -26592,6 +26673,15 @@
       "web": "https://halleforsornitologiskaforening.se/"
     },
     {
+      "entry": 1233021169,
+      "orgNumber": "894700-3532",
+      "orgName": "Burtr\u00e4sk Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/burtrask"
+    },
+    {
       "entry": 1233021755,
       "orgNumber": "802508-4123",
       "orgName": "Black Support Trollh\u00e4ttan",
@@ -26618,6 +26708,15 @@
         "utbildning"
       ],
       "web": "http://www.littlelions.se/"
+    },
+    {
+      "entry": 1233024619,
+      "orgNumber": "827000-0907",
+      "orgName": "Forserums Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/forserum"
     },
     {
       "entry": 1233024932,
@@ -27730,6 +27829,15 @@
         "scoutk\u00e5r"
       ],
       "web": "https://trelleborg.scout.se/"
+    },
+    {
+      "entry": 1233157740,
+      "orgNumber": "829000-8864",
+      "orgName": "\u00c4lmhults Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/almhult"
     },
     {
       "entry": 1233157815,
@@ -29856,6 +29964,16 @@
         "golfklubb"
       ],
       "web": "https://www.glumslovgolf.com/"
+    },
+    {
+      "entry": 1233453032,
+      "orgNumber": "834001-1348",
+      "orgName": "Gotlands Fiskerimuseum Kovik",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://www.hembygd.se/gotlands-fiskerimuseum-kovik"
     },
     {
       "entry": 1233453255,
@@ -32343,6 +32461,15 @@
         "utbildning"
       ],
       "web": "https://lockerroomtalk.se/"
+    },
+    {
+      "entry": 1233790326,
+      "orgNumber": "873200-5395",
+      "orgName": "\u00c4lvsbacka Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/alvsbacka"
     },
     {
       "entry": 1233790474,
@@ -35484,6 +35611,15 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/hitta-bygdegard/resta/"
+    },
+    {
+      "entry": 1234199881,
+      "orgNumber": "892600-0061",
+      "orgName": "Bergs Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/berg"
     },
     {
       "entry": 1234202206,
@@ -38994,6 +39130,15 @@
       "web": "https://kiteboardcenter.se/"
     },
     {
+      "entry": 1234657227,
+      "orgNumber": "864500-8841",
+      "orgName": "Bollebygd Hembygds- o Fornminnesf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/bollebygd"
+    },
+    {
       "entry": 1234657532,
       "orgNumber": "802406-2096",
       "orgName": "Stockholms Kajak Klubb, SKK",
@@ -42246,6 +42391,15 @@
       "web": "https://www.skellefteaaik.se/"
     },
     {
+      "entry": 1235139365,
+      "orgNumber": "802469-4831",
+      "orgName": "Fohle Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/fohle"
+    },
+    {
       "entry": 1235139746,
       "orgNumber": "814000-2059",
       "orgName": "Djur\u00f6-Vind\u00f6 IF",
@@ -42262,6 +42416,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/IKWormo/"
+    },
+    {
+      "entry": 1235141288,
+      "orgNumber": "868400-7977",
+      "orgName": "H\u00e4rlunda-Bj\u00e4rka Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/harlunda-bjarka"
     },
     {
       "entry": 1235141718,
@@ -46486,6 +46649,15 @@
       "web": "https://idrottonline.se/LillpiteIF"
     },
     {
+      "entry": 1235628680,
+      "orgNumber": "887500-0310",
+      "orgName": "Bjur\u00e5kers Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/bjuraker"
+    },
+    {
       "entry": 1235636352,
       "orgNumber": "857203-4745",
       "orgName": "F\u00f6reningen Mot B\u00e4ttre Vetande",
@@ -47578,6 +47750,15 @@
       "web": "https://www.norrortssporten.se/"
     },
     {
+      "entry": 1235771704,
+      "orgNumber": "818500-5520",
+      "orgName": "Floda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/floda-hembygdsforening"
+    },
+    {
       "entry": 1235773361,
       "orgNumber": "829500-7382",
       "orgName": "Vedersl\u00f6v-D\u00e4nningelanda IF",
@@ -48482,6 +48663,15 @@
       "web": "https://changeattitude.org/"
     },
     {
+      "entry": 1235894381,
+      "orgNumber": "882600-2654",
+      "orgName": "\u00c4ppelbo Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/appelbo"
+    },
+    {
       "entry": 1235894472,
       "orgNumber": "825001-5834",
       "orgName": "Lions Club Finsp\u00e5ng",
@@ -48987,6 +49177,15 @@
         "simf\u00f6rening"
       ],
       "web": "https://www.idrottonline.se/MellerudsSK-Simidrott/"
+    },
+    {
+      "entry": 1235965678,
+      "orgNumber": "839400-1971",
+      "orgName": "\u00c4ngelholms Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/angelholm"
     },
     {
       "entry": 1235965744,
@@ -51142,6 +51341,15 @@
       "web": "https://www.curlingklubben.se/"
     },
     {
+      "entry": 1236266423,
+      "orgNumber": "865000-5302",
+      "orgName": "Berghems Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/berghem"
+    },
+    {
       "entry": 1236266860,
       "orgNumber": "894002-8726",
       "orgName": "Ume\u00e5 Brukshundklubb, UBHK",
@@ -52604,6 +52812,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1236455430,
+      "orgNumber": "865000-0725",
+      "orgName": "H\u00e5cksviks Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/hacksvik"
+    },
+    {
       "entry": 1236459390,
       "orgNumber": "818000-8735",
       "orgName": "Husby-Rekarne Scoutk\u00e5r",
@@ -53205,6 +53422,15 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://realfighter.se/"
+    },
+    {
+      "entry": 1236535272,
+      "orgNumber": "889200-6647",
+      "orgName": "Borgsj\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/borgsjohembygdsforening"
     },
     {
       "entry": 1236535314,
