@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-07-rev-201639",
+    "date": "2023-11-12-rev-123102",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5963,6 +5963,15 @@
       "web": "https://www.vallaklovedal.se/valla-missionsforsamling/"
     },
     {
+      "entry": 1230643585,
+      "orgNumber": "802472-8399",
+      "orgName": "F\u00f6reningen Marmabygden",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/marmabygden"
+    },
+    {
       "entry": 1230644427,
       "orgNumber": "802401-4576",
       "orgName": "Specialklubben Rhodesian Ridgeback Sverige, SRRS",
@@ -7678,6 +7687,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/lugnas-ullervad"
+    },
+    {
+      "entry": 1230821322,
+      "orgNumber": "892000-5793",
+      "orgName": "Lits Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/lits"
     },
     {
       "entry": 1230821868,
@@ -12116,6 +12134,15 @@
       "web": "http://www.josefmissionsverige.se/"
     },
     {
+      "entry": 1231300581,
+      "orgNumber": "882000-8830",
+      "orgName": "F\u00f6reningen Hedemora Gammelg\u00e5rd",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/hedemora-gammelgard"
+    },
+    {
       "entry": 1231300714,
       "orgNumber": "802439-0661",
       "orgName": "Gratis Koran / Islamic Info Sweden",
@@ -13024,6 +13051,15 @@
         "scoutk\u00e5r"
       ],
       "web": "https://www.a-sjo.se/"
+    },
+    {
+      "entry": 1231378629,
+      "orgNumber": "802452-3709",
+      "orgName": "H\u00e4ver\u00f6-Edebo Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/havero-edebo"
     },
     {
       "entry": 1231379395,
@@ -13956,6 +13992,16 @@
         "synskadad"
       ],
       "web": "https://www.syskonbandet.se/"
+    },
+    {
+      "entry": 1231488238,
+      "orgNumber": "829500-8653",
+      "orgName": "Kronobergs L\u00e4ns Hembygdsf\u00f6rbund",
+      "categories": [
+        "f\u00f6rbund",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/kronoberg"
     },
     {
       "entry": 1231489079,
@@ -15056,6 +15102,15 @@
         "lionsklubb"
       ],
       "web": "https://www.sundborn.com/lions-club"
+    },
+    {
+      "entry": 1231605971,
+      "orgNumber": "885000-5367",
+      "orgName": "Hedesunda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/hedesunda"
     },
     {
       "entry": 1231610286,
@@ -16188,6 +16243,16 @@
         "hundsport"
       ],
       "web": "http://lidkopingbk.se/"
+    },
+    {
+      "entry": 1231730951,
+      "orgNumber": "836200-3645",
+      "orgName": "M\u00f6rrums Hembygds- och Fornminnesf\u00f6rening",
+      "categories": [
+        "fornminnesf\u00f6rening",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/morrum"
     },
     {
       "entry": 1231731397,
@@ -17615,6 +17680,15 @@
         "utbildning"
       ],
       "web": "https://www.efs.nu/"
+    },
+    {
+      "entry": 1231892819,
+      "orgNumber": "832000-1327",
+      "orgName": "\u00d6lands Kulturminnesf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "kulturminnesf\u00f6rening"
+      ]
     },
     {
       "entry": 1231895002,
@@ -19893,6 +19967,15 @@
       "web": "https://www.g\u00e4vleborgsdreverklubb.com/"
     },
     {
+      "entry": 1232181329,
+      "orgNumber": "834001-6404",
+      "orgName": "L\u00e4rbro Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/larbro"
+    },
+    {
       "entry": 1232181477,
       "orgNumber": "883202-1342",
       "orgName": "Sveriges D\u00f6vas Ungdomsf\u00f6rbund, SDUF",
@@ -20894,6 +20977,15 @@
         "religion"
       ],
       "web": "https://umea.pingst.se/"
+    },
+    {
+      "entry": 1232279560,
+      "orgNumber": "833600-5536",
+      "orgName": "Loftahammars Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/loftahammar"
     },
     {
       "entry": 1232279719,
@@ -26728,6 +26820,15 @@
       "web": "https://pingstkyrkansollebrunn.se/"
     },
     {
+      "entry": 1233028131,
+      "orgNumber": "832401-8806",
+      "orgName": "Kalmar Stads Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/kalmar-stad"
+    },
+    {
       "entry": 1233031168,
       "orgNumber": "802428-4088",
       "orgName": "F\u00f6reningen M 20",
@@ -27232,6 +27333,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233063708,
+      "orgNumber": "823000-2944",
+      "orgName": "Malexanders Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/malexander"
     },
     {
       "entry": 1233068939,
@@ -29908,6 +30018,15 @@
       "web": "http://aiktifo.se/"
     },
     {
+      "entry": 1233444189,
+      "orgNumber": "802501-2934",
+      "orgName": "M\u00f6klinta Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/m-klinta-hembygdsf-rening"
+    },
+    {
       "entry": 1233444536,
       "orgNumber": "816400-0617",
       "orgName": "Ingmars\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
@@ -31824,6 +31943,15 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://hjarnkoll.se/"
+    },
+    {
+      "entry": 1233651965,
+      "orgNumber": "814401-0306",
+      "orgName": "Loh\u00e4rads Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/loharad"
     },
     {
       "entry": 1233657848,
@@ -34877,6 +35005,15 @@
         "hundklubb"
       ],
       "web": "https://smalandstaxklubb.se/"
+    },
+    {
+      "entry": 1234068300,
+      "orgNumber": "802515-1161",
+      "orgName": "Kinnareds Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/kinnared"
     },
     {
       "entry": 1234074902,
@@ -38585,6 +38722,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234579900,
+      "orgNumber": "892000-4762",
+      "orgName": "M\u00f6rsils Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/morsil"
     },
     {
       "entry": 1234580023,
@@ -42999,6 +43145,15 @@
       "web": "https://www.tedstrom.se/"
     },
     {
+      "entry": 1235205711,
+      "orgNumber": "832000-5062",
+      "orgName": "K\u00e4lla Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/kalla-hembygdsforening"
+    },
+    {
       "entry": 1235208848,
       "orgNumber": "887500-2381",
       "orgName": "Saronf\u00f6rsamlingen N\u00e4sviken",
@@ -44566,6 +44721,15 @@
         "curling"
       ],
       "web": "https://www.curlingklubben.se/"
+    },
+    {
+      "entry": 1235391982,
+      "orgNumber": "873200-0115",
+      "orgName": "Boda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/boda"
     },
     {
       "entry": 1235392642,
@@ -48133,6 +48297,15 @@
       "web": "https://www.herhouse.se/"
     },
     {
+      "entry": 1235824156,
+      "orgNumber": "823000-2944",
+      "orgName": "Malexanders Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/malexander"
+    },
+    {
       "entry": 1235825880,
       "orgNumber": "822001-9734",
       "orgName": "Ydrefors Samh\u00e4llsf\u00f6rening",
@@ -49567,6 +49740,15 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenmira/"
+    },
+    {
+      "entry": 1236022370,
+      "orgNumber": "802415-9967",
+      "orgName": "N\u00e4shulta Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/nashulta"
     },
     {
       "entry": 1236023089,
@@ -54254,6 +54436,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1236685283,
+      "orgNumber": "829500-8281",
+      "orgName": "Hembygdsf\u00f6reningen Gamla Urshult",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/hembygdsforeningen-gamla-urshult"
+    },
+    {
       "entry": 1236685754,
       "orgNumber": "802508-2002",
       "orgName": "Barnendometriosfonden",
@@ -55055,6 +55246,15 @@
         "bilv\u00e5rd"
       ],
       "web": "http://www.ctaservice.se/"
+    },
+    {
+      "entry": 1236776991,
+      "orgNumber": "802515-6806",
+      "orgName": "Kindstugans Syf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/kindgillet/kindstugans-syforening"
     },
     {
       "entry": 1236777270,
