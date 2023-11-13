@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-12-rev-123102",
+    "date": "2023-11-13-rev-195128",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5433,6 +5433,15 @@
         "cancerforskning"
       ],
       "web": "https://www.barncancerfonden.se/event/team-aron-ck/"
+    },
+    {
+      "entry": 1230569814,
+      "orgNumber": "885500-7210",
+      "orgName": "Hofors Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/hofors"
     },
     {
       "entry": 1230573360,
@@ -13062,6 +13071,15 @@
       "web": "https://www.hembygd.se/havero-edebo"
     },
     {
+      "entry": 1231378850,
+      "orgNumber": "884400-5762",
+      "orgName": "Ore Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/ore"
+    },
+    {
       "entry": 1231379395,
       "orgNumber": "802476-7348",
       "orgName": "Trelleborg Judo",
@@ -14033,6 +14051,15 @@
         "yoga"
       ],
       "web": "https://www.trideviyoga.se/"
+    },
+    {
+      "entry": 1231492719,
+      "orgNumber": "884401-4657",
+      "orgName": "Orsa-Skattuge Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/orsa-skattunge"
     },
     {
       "entry": 1231492941,
@@ -17500,6 +17527,15 @@
       "web": "https://equmeniakyrkan.se/grafsnassollebrunn/"
     },
     {
+      "entry": 1231871557,
+      "orgNumber": "886500-6657",
+      "orgName": "Hanebo Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/hanebo"
+    },
+    {
       "entry": 1231871755,
       "orgNumber": "802475-6473",
       "orgName": "Odenplan Fightgym",
@@ -20631,6 +20667,15 @@
       "web": "http://www.liori.se/"
     },
     {
+      "entry": 1232242808,
+      "orgNumber": "885500-2179",
+      "orgName": "\u00d6sterf\u00e4rnebo Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/osterfarnebo"
+    },
+    {
       "entry": 1232243541,
       "orgNumber": "701023-XXXX",
       "orgName": "Jenny Str\u00f6m",
@@ -21291,6 +21336,15 @@
         "trafikskola"
       ],
       "web": "https://www.ringensbilskola.se/"
+    },
+    {
+      "entry": 1232304509,
+      "orgNumber": "818500-7419",
+      "orgName": "Hyltinge Hembygsdf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/hyltinge"
     },
     {
       "entry": 1232304988,
@@ -22133,6 +22187,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://dengodajorden.se/"
+    },
+    {
+      "entry": 1232390524,
+      "orgNumber": "802453-4532",
+      "orgName": "Oreparken Ideell F\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/ore"
     },
     {
       "entry": 1232391183,
@@ -25181,6 +25244,15 @@
       "web": "https://www.svenskakyrkan.se/vasteras/viksangskyrkan"
     },
     {
+      "entry": 1232787018,
+      "orgNumber": "875002-2983",
+      "orgName": "Brevens Bruks Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/breven"
+    },
+    {
       "entry": 1232787240,
       "orgNumber": "802492-0202",
       "orgName": "KFUM ZLIPROAD CSC Stockholm",
@@ -26438,6 +26510,15 @@
         "f\u00f6rening"
       ],
       "web": "https://www.fontanen.se/"
+    },
+    {
+      "entry": 1232962405,
+      "orgNumber": "887501-4139",
+      "orgName": "Hudiksvalls Stads Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/hudiksvall"
     },
     {
       "entry": 1232963148,
@@ -31952,6 +32033,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/loharad"
+    },
+    {
+      "entry": 1233653409,
+      "orgNumber": "887500-4304",
+      "orgName": "Ilsbo Hembygdsf\u00f6rening",
+      "categories": [
+        "fornminnesf\u00f6rening",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/ilsbo"
     },
     {
       "entry": 1233657848,
@@ -38914,6 +39005,15 @@
       "web": "https://vastmanlandsmusiken.se/"
     },
     {
+      "entry": 1234598892,
+      "orgNumber": "838200-3567",
+      "orgName": "\u00c5hus Hembygdsf\u00f6rening Sankta Annas Gille",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/hembygdsforeningen-sta-annas-gille-i-ahus"
+    },
+    {
       "entry": 1234599817,
       "orgNumber": "822004-9376",
       "orgName": "Sankt Markus i Link\u00f6ping",
@@ -40925,6 +41025,15 @@
       "web": "https://www.elmbv.se/"
     },
     {
+      "entry": 1234956744,
+      "orgNumber": "892000-7898",
+      "orgName": "Hallens Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/hallen"
+    },
+    {
       "entry": 1234957999,
       "orgNumber": "811207-XXXX",
       "orgName": "Zoloz Yoga / Pia Burman",
@@ -42507,6 +42616,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/skollersta"
+    },
+    {
+      "entry": 1235137336,
+      "orgNumber": "814800-0501",
+      "orgName": "Husby-\u00c4rlinghundra M\u00e4rsta Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/husbyarlinghundra"
     },
     {
       "entry": 1235138573,
@@ -53187,6 +53305,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236486625,
+      "orgNumber": "886000-0556",
+      "orgName": "Norrala Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/norrala"
     },
     {
       "entry": 1236490007,
