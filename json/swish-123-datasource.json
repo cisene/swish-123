@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-13-rev-195128",
+    "date": "2023-11-14-rev-203804",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -19054,6 +19054,15 @@
       "web": "https://stockholmrotary.se/uppsala-peace-center/"
     },
     {
+      "entry": 1232091718,
+      "orgNumber": "849201-2433",
+      "orgName": "S\u00f6ndrums Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/sondrum"
+    },
+    {
       "entry": 1232091791,
       "orgNumber": "827000-0840",
       "orgName": "Forserums IF",
@@ -28597,6 +28606,15 @@
       "web": "https://kraklingbobf.se/"
     },
     {
+      "entry": 1233235926,
+      "orgNumber": "889601-3110",
+      "orgName": "Johan \u00d6dberg-S\u00e4llskapet",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/johanodberg-sallskapet"
+    },
+    {
       "entry": 1233236031,
       "orgNumber": "802420-4680",
       "orgName": "Kvinnojouren Linn\u00e9an",
@@ -34356,6 +34374,15 @@
       "web": "https://www.elbilsverige.se/"
     },
     {
+      "entry": 1233964384,
+      "orgNumber": "834001-4524",
+      "orgName": "Sjonhems Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/sjonhem"
+    },
+    {
       "entry": 1233964640,
       "orgNumber": "802532-9916",
       "orgName": "Team Rynkeby",
@@ -35291,6 +35318,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://sallskapet.eu/"
+    },
+    {
+      "entry": 1234120523,
+      "orgNumber": "818501-1163",
+      "orgName": "Julita Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/julita"
     },
     {
       "entry": 1234120903,
@@ -39414,6 +39450,15 @@
       "web": "https://aseleturism.se/produkter/boende/tegeltrask-bygdegard/"
     },
     {
+      "entry": 1234660502,
+      "orgNumber": "814400-5785",
+      "orgName": "Rimbo Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/rimbo"
+    },
+    {
       "entry": 1234661120,
       "orgNumber": "760511-XXXX",
       "orgName": "TPs Hundbutik / Linda Ling",
@@ -41533,6 +41578,15 @@
       "web": "http://gamlebyridklubb.se/"
     },
     {
+      "entry": 1235024534,
+      "orgNumber": "832000-2580",
+      "orgName": "Sandby-G\u00e5rdby Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/sandby-gardby"
+    },
+    {
       "entry": 1235024658,
       "orgNumber": "556130-4519",
       "orgName": "Atracco AB",
@@ -41837,6 +41891,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235063557,
+      "orgNumber": "818500-5736",
+      "orgName": "Katrineholms Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/katrineholm-stora-malm"
     },
     {
       "entry": 1235064043,
@@ -42497,6 +42560,15 @@
         "scoutk\u00e5r"
       ],
       "web": "https://stenungsund.scout.se/"
+    },
+    {
+      "entry": 1235127162,
+      "orgNumber": "883202-4684",
+      "orgName": "Siljansn\u00e4s Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/siljansnas"
     },
     {
       "entry": 1235127279,
@@ -47974,6 +48046,15 @@
       "web": "https://www.vcaremysuru.org/"
     },
     {
+      "entry": 1235765151,
+      "orgNumber": "829500-5691",
+      "orgName": "Sj\u00f6s\u00e5s, Drev-Hornaryds Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/sjosas"
+    },
+    {
       "entry": 1235766225,
       "orgNumber": "875001-4139",
       "orgName": "J\u00e4rle Byalag",
@@ -50273,6 +50354,16 @@
       "web": "https://luleafans.se/"
     },
     {
+      "entry": 1236086359,
+      "orgNumber": "836200-3488",
+      "orgName": "F\u00f6reningen Karlshamns Museum",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://www.hembygd.se/karlshamns-museum"
+    },
+    {
       "entry": 1236086706,
       "orgNumber": "556301-2490",
       "orgName": "Fr\u00f6s\u00e5ker Golf & Country Club AB",
@@ -51155,6 +51246,15 @@
         "djurv\u00e5rd"
       ],
       "web": "https://milanipro.org/"
+    },
+    {
+      "entry": 1236203640,
+      "orgNumber": "868400-9874",
+      "orgName": "Hembygdsf\u00f6reningen Skarke-Varnhem",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/skarke-varnhem"
     },
     {
       "entry": 1236204325,
