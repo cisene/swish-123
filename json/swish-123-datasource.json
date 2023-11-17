@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-14-rev-203804",
+    "date": "2023-11-17-rev-202358",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2561,6 +2561,15 @@
       "web": "https://www.youtube.com/@livemusikuf5054"
     },
     {
+      "entry": 1230274845,
+      "orgNumber": "802544-7445",
+      "orgName": "Morup-Stafsinge Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/morup-stafsinge"
+    },
+    {
       "entry": 1230278762,
       "orgNumber": "802526-3669",
       "orgName": "Kallbadhusf\u00f6reningen Havsbadet i \u00c4ngelholm",
@@ -3974,6 +3983,15 @@
         "sportskytte"
       ],
       "web": "https://lerumsungdomsskytte.com/"
+    },
+    {
+      "entry": 1230420463,
+      "orgNumber": "828000-7017",
+      "orgName": "Tofteryd-Hagshults Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/tofteryd-hagshults-hembygdsf-rening"
     },
     {
       "entry": 1230422709,
@@ -11218,6 +11236,15 @@
       "web": "https://ifkkristianstad.se/"
     },
     {
+      "entry": 1231205822,
+      "orgNumber": "802417-2432",
+      "orgName": "Villberga Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/villberga"
+    },
+    {
       "entry": 1231206432,
       "orgNumber": "802479-8327",
       "orgName": "Insamlingsstiftelsen Y.O.U.N.G.",
@@ -12812,6 +12839,15 @@
       "web": "https://naasridcenter.se/"
     },
     {
+      "entry": 1231370360,
+      "orgNumber": "893201-3066",
+      "orgName": "Mattmars Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/mattmar"
+    },
+    {
       "entry": 1231370667,
       "orgNumber": "802405-6841",
       "orgName": "Roo G\u00e5rd Ridskola och Ryttarklubb",
@@ -13464,6 +13500,15 @@
         "sportklubb"
       ],
       "web": "http://varmskog.se/"
+    },
+    {
+      "entry": 1231460542,
+      "orgNumber": "817601-0059",
+      "orgName": "Knutby-Faringe-Blad\u00e5kers Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/knutby"
     },
     {
       "entry": 1231461235,
@@ -15586,6 +15631,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.domare.org/"
+    },
+    {
+      "entry": 1231658210,
+      "orgNumber": "878500-0764",
+      "orgName": "Kungs\u00f6rs Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/kungsors-hembygdsforening"
     },
     {
       "entry": 1231658822,
@@ -17876,6 +17930,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231907567,
+      "orgNumber": "828000-7017",
+      "orgName": "Tofteryd-Hagshults Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/tofteryd-hagshults-hembygdsf-rening"
+    },
+    {
       "entry": 1231908243,
       "orgNumber": "559327-9804",
       "orgName": "K\u00f6rkortscenter G\u00f6teborg AB",
@@ -18145,6 +18208,15 @@
         "golfklubb"
       ],
       "web": "https://www.noragolfklubb.se/"
+    },
+    {
+      "entry": 1231963610,
+      "orgNumber": "802433-7985",
+      "orgName": "V\u00e4r\u00f6-Str\u00e5valla Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/varo-stravalla"
     },
     {
       "entry": 1231963826,
@@ -24435,6 +24507,15 @@
       "web": "https://www.fiskebackskyrkan.se/"
     },
     {
+      "entry": 1232703049,
+      "orgNumber": "802434-5939",
+      "orgName": "Torslunda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/torslunda"
+    },
+    {
       "entry": 1232703478,
       "orgNumber": "826500-1951",
       "orgName": "Tran\u00e5s RK",
@@ -27799,6 +27880,15 @@
       "web": "https://www.facebook.com/groups/105270962856563"
     },
     {
+      "entry": 1233127388,
+      "orgNumber": "802427-4147",
+      "orgName": "F\u00f6reningen L\u00e4stringebygden",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/lastringebygden"
+    },
+    {
       "entry": 1233129400,
       "orgNumber": "826002-2580",
       "orgName": "Mullsj\u00f6 Allm\u00e4nna Innebandys\u00e4llskap",
@@ -28941,6 +29031,15 @@
       "web": "http://www.borgebyfk.se/"
     },
     {
+      "entry": 1233278462,
+      "orgNumber": "802464-6732",
+      "orgName": "Korsberga Hembygdss\u00e4llskap",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/korsberga"
+    },
+    {
       "entry": 1233278561,
       "orgNumber": "817600-8889",
       "orgName": "Svensk F\u00f6rening f\u00f6r Socialmedicin och Folkh\u00e4lsa",
@@ -29481,6 +29580,15 @@
         "religion"
       ],
       "web": "https://kinna.pingst.se/"
+    },
+    {
+      "entry": 1233366978,
+      "orgNumber": "849000-3327",
+      "orgName": "Vinberg-Ljungby Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/vinberg-ljungby"
     },
     {
       "entry": 1233371952,
@@ -30562,6 +30670,15 @@
       "web": "http://ljudkonstgalleriet.se/"
     },
     {
+      "entry": 1233494028,
+      "orgNumber": "889201-7487",
+      "orgName": "Tynder\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/tyndero"
+    },
+    {
       "entry": 1233495926,
       "orgNumber": "802515-4066",
       "orgName": "Eezer Sverige Ideell F\u00f6rening",
@@ -31459,6 +31576,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
+      "entry": 1233582368,
+      "orgNumber": "866000-6506",
+      "orgName": "V\u00e4sterg\u00f6tlands Hembygdsf\u00f6rbund",
+      "categories": [
+        "hembygdsf\u00f6rbund",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/vastergotland"
     },
     {
       "entry": 1233590528,
@@ -32629,6 +32756,15 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/glommen/"
+    },
+    {
+      "entry": 1233782257,
+      "orgNumber": "874000-1105",
+      "orgName": "Sunne Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/sunne"
     },
     {
       "entry": 1233782893,
@@ -36238,6 +36374,15 @@
       "web": "https://varmdobygdegard.se/"
     },
     {
+      "entry": 1234247276,
+      "orgNumber": "817606-9766",
+      "orgName": "Lunda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/lunda"
+    },
+    {
       "entry": 1234247896,
       "orgNumber": "802435-7868",
       "orgName": "S\u00e4ve R\u00f6dbo Hembygdsf\u00f6rening",
@@ -39192,6 +39337,15 @@
       "web": "https://www.skarvsthlm.com/"
     },
     {
+      "entry": 1234618468,
+      "orgNumber": "817001-5344",
+      "orgName": "Lagunda Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/lagunda"
+    },
+    {
       "entry": 1234622197,
       "orgNumber": "802510-3493",
       "orgName": "Dalarnas Milit\u00e4ra och Polisi\u00e4ra skyttef\u00f6rening",
@@ -39518,6 +39672,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.narkolepsiforeningen.se/"
+    },
+    {
+      "entry": 1234669511,
+      "orgNumber": "802414-2757",
+      "orgName": "Trankils Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/trankil"
     },
     {
       "entry": 1234669537,
@@ -40583,6 +40746,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.aerla.se/"
+    },
+    {
+      "entry": 1234884532,
+      "orgNumber": "894000-2366",
+      "orgName": "Hembygdsf\u00f6reningen Umbygda",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/umbygda"
     },
     {
       "entry": 1234889754,
@@ -42341,6 +42513,16 @@
       "web": "http://www.naassamfundet.se/"
     },
     {
+      "entry": 1235112842,
+      "orgNumber": "864000-4670",
+      "orgName": "Sv\u00e4ltornas Fornminnesf\u00f6rening",
+      "categories": [
+        "fornminnesf\u00f6rening",
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/svaltorna"
+    },
+    {
       "entry": 1235113626,
       "orgNumber": "802401-4386",
       "orgName": "UNICEF Namibia",
@@ -43076,6 +43258,16 @@
       "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/estuna-soderbykarls-forsamling"
     },
     {
+      "entry": 1235170360,
+      "orgNumber": "874001-1005",
+      "orgName": "V\u00e4rmlands Brandhistoriska Klubb",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "museif\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/varmlands-brandhistoriska"
+    },
+    {
       "entry": 1235170550,
       "orgNumber": "252002-4205",
       "orgName": "Anundsj\u00f6 F\u00f6rsamlning",
@@ -43260,6 +43452,15 @@
       "categories": [
         "l\u00f6pning"
       ]
+    },
+    {
+      "entry": 1235195284,
+      "orgNumber": "802443-8437",
+      "orgName": "Tj\u00e4rn\u00f6 Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/tj-rn-hembygdsf-rening"
     },
     {
       "entry": 1235196373,
@@ -50287,6 +50488,15 @@
       "web": "https://blagulabilen.se/"
     },
     {
+      "entry": 1236083174,
+      "orgNumber": "802434-6861",
+      "orgName": "L\u00f6ts Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/lot"
+    },
+    {
       "entry": 1236083356,
       "orgNumber": "825001-0892",
       "orgName": "Schack 08",
@@ -52454,6 +52664,15 @@
       "web": "https://www.brannkyrka.org/"
     },
     {
+      "entry": 1236348817,
+      "orgNumber": "889200-4675",
+      "orgName": "Tuna Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/medelpad-tuna"
+    },
+    {
       "entry": 1236348999,
       "orgNumber": "556706-5262",
       "orgName": "Mariag\u00e5rden i Skultuna",
@@ -53221,6 +53440,15 @@
       "web": "https://www.hembygd.se/hacksvik"
     },
     {
+      "entry": 1236457972,
+      "orgNumber": "849000-6346",
+      "orgName": "Vessige-Alfsh\u00f6gs Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/vessige-alfshog"
+    },
+    {
       "entry": 1236459390,
       "orgNumber": "818000-8735",
       "orgName": "Husby-Rekarne Scoutk\u00e5r",
@@ -53238,6 +53466,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.projektragsved.com/"
+    },
+    {
+      "entry": 1236459861,
+      "orgNumber": "867200-8045",
+      "orgName": "Utv\u00e4ngstorp Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/utv-ngstorp-hembygdsf-rening"
     },
     {
       "entry": 1236460729,
@@ -55416,6 +55653,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.umeaik.se/"
+    },
+    {
+      "entry": 1236769806,
+      "orgNumber": "825001-8085",
+      "orgName": "Valdemarsviks Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/valdemarsvik"
     },
     {
       "entry": 1236772396,
