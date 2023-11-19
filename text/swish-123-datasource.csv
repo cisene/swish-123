@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-11-19-rev-181943
+# Date: 2023-11-19-rev-184358
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3397,6 +3397,7 @@
 "1233832763","802538-4887","Motvind Sverige","https://motvindsverige.org/","förening,intresseförening",""
 "1233835733","857206-5228","Angereds Brukshundklubb","https://www.abhk.se/","brukshundsklubb,hundsport",""
 "1233837028","232100-0172","Regional Kulturskola i Västmanland / Region Västmanland","https://regionalkulturskola.se/","kultur,utbildning",""
+"1233839404","802504-4234","Vadsbro-Blacksta Hembygdsförening","https://www.hembygd.se/vadsbro-blacksta-hembygdsforening","hembygdsförening",""
 "1233848736","556809-4980","Mrs Skager Coaching / CCG sports AB","https://valldagolf.se/","golfcoach,utbildning",""
 "1233848843","559198-6335","Berga Husvagnsuthyrning","https://hyra-husvagn.se/","campingutrustning,husvagnsuthyrning,uthyrning",""
 "1233849213","878000-5412","Västerås RS - Ridsport","https://www.vrs.se/","ridklubb,ridsport",""
@@ -4930,6 +4931,7 @@
 "1235780606","802539-3649","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Halland, Kärlekens Skola"
 "1235780614","802533-7778","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Dalarna, Hedängsskolan"
 "1235780630","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Pilagårdsskolan"
+"1235780911","802518-3529","Uråsa Hembygdsförening","https://www.hembygd.se/urasa","hembygdsförening",""
 "1235782479","897300-0261","Kiruna jakt- och fiskevårdsförening","https://www.kirunajaktochfiske.se/","förening,naturvård,viltvård","Jägarexamen"
 "1235783006","874400-0210","Filadelfiaförsamlingen I Töcksfors","https://pingstkyrka.se/","religion",""
 "1235783212","770729-XXXX","Mikrobryggeriet i Mönsterås / Mattias Hammargren","https://www.mikrobryggerietviking.se/","bryggeri,mikrobryggeri,ölframställning",""
@@ -5614,6 +5616,7 @@
 "1236698898","556706-5262","Mikaelikyrkan","https://www.svenskakyrkan.se/vasteras/mikaelikyrkan","religion","Köket"
 "1236701171","814400-3046","Öregrunds Hembygdsförening","https://www.hembygd.se/oregrund","hembygdsförening",""
 "1236701585","556909-8113","Vectrum Trafikutbildning / Sindex Trafikutbildning AB","https://www.vectrum.se/","trafikskola,utbildning",""
+"1236702401","829501-5237","Väckelsångs Hembygdsförening","https://www.hembygd.se/vackelsang","hembygdsförening",""
 "1236702773","802012-4338","Ayshamoskén / Skandinaviska Islamiska Organisationen","https://aysha.se/","religion","gåvor, sadaqa, donationer"
 "1236704241","829502-4734","Slätthögs Hembygdsförening","https://www.hembygd.se/slatthoghf","hembygdsförening",""
 "1236712244","556841-9575","Novellix AB","https://novellix.se/","böcker,e-handel,noveller",""

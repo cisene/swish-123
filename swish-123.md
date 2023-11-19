@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-11-19-rev-181943
+Date:     2023-11-19-rev-184358
 ...
 
 # Swish 123 Nummer
@@ -3399,6 +3399,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233832763 | 802538-4887 | Motvind Sverige                                                                                      |                           |
 | 1233835733 | 857206-5228 | Angereds Brukshundklubb                                                                              |                           |
 | 1233837028 | 232100-0172 | Regional Kulturskola i Västmanland / Region Västmanland                                              |                           |
+| 1233839404 | 802504-4234 | Vadsbro-Blacksta Hembygdsförening                                                                    |                           |
 | 1233848736 | 556809-4980 | Mrs Skager Coaching / CCG sports AB                                                                  |                           |
 | 1233848843 | 559198-6335 | Berga Husvagnsuthyrning                                                                              |                           |
 | 1233849213 | 878000-5412 | Västerås RS - Ridsport                                                                               |                           |
@@ -4932,6 +4933,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235780606 | 802539-3649 | Team Rynkeby                                                                                         | Halland, Kärlekens Skola  |
 | 1235780614 | 802533-7778 | Team Rynkeby                                                                                         | Dalarna, Hedängsskolan    |
 | 1235780630 | 802532-7506 | Team Rynkeby                                                                                         | Helsingborg, Pilagårdsskolan |
+| 1235780911 | 802518-3529 | Uråsa Hembygdsförening                                                                               |                           |
 | 1235782479 | 897300-0261 | Kiruna jakt- och fiskevårdsförening                                                                  | Jägarexamen               |
 | 1235783006 | 874400-0210 | Filadelfiaförsamlingen I Töcksfors                                                                   |                           |
 | 1235783212 | 770729-XXXX | Mikrobryggeriet i Mönsterås / Mattias Hammargren                                                     |                           |
@@ -5616,6 +5618,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236698898 | 556706-5262 | Mikaelikyrkan                                                                                        | Köket                     |
 | 1236701171 | 814400-3046 | Öregrunds Hembygdsförening                                                                           |                           |
 | 1236701585 | 556909-8113 | Vectrum Trafikutbildning / Sindex Trafikutbildning AB                                                |                           |
+| 1236702401 | 829501-5237 | Väckelsångs Hembygdsförening                                                                         |                           |
 | 1236702773 | 802012-4338 | Ayshamoskén / Skandinaviska Islamiska Organisationen                                                 | gåvor, sadaqa, donationer |
 | 1236704241 | 829502-4734 | Slätthögs Hembygdsförening                                                                           |                           |
 | 1236712244 | 556841-9575 | Novellix AB                                                                                          |                           |
