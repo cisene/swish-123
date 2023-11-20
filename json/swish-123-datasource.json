@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-19-rev-184358",
+    "date": "2023-11-20-rev-072454",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -11374,6 +11374,15 @@
         "st\u00f6dverksamhet"
       ],
       "web": "https://www.bojengoteborg.se/"
+    },
+    {
+      "entry": 1231214931,
+      "orgNumber": "559413-0840",
+      "orgName": "Riks / Vainar mediagroup AB",
+      "categories": [
+        "alternativa media"
+      ],
+      "web": "https://riks.se/"
     },
     {
       "entry": 1231215417,
@@ -57232,6 +57241,16 @@
         "katthem"
       ],
       "web": "https://akutgruppen.com/"
+    },
+    {
+      "entry": 1236932834,
+      "orgNumber": "823000-1391",
+      "orgName": "Sveriges Biodlares Riksf\u00f6rbund",
+      "categories": [
+        "biodling",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://www.biodlarna.se/"
     },
     {
       "entry": 1236934442,

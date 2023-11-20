@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-11-19-rev-184358
+Date:     2023-11-20-rev-072454
 ...
 
 # Swish 123 Nummer
@@ -1170,6 +1170,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231209998 | 802533-7786 | Team Rynkeby Lund                                                                                    |                           |
 | 1231213305 | 857207-0244 | Grötö Hamnförening                                                                                   |                           |
 | 1231213578 | 802435-1168 | BOJEN Förening för barn och ungdomar som bevittnat våld i hemmet                                     |                           |
+| 1231214931 | 559413-0840 | Riks / Vainar mediagroup AB                                                                          |                           |
 | 1231215417 | 827000-6953 | IK Sisu - Friidrott                                                                                  |                           |
 | 1231217413 | 556706-5262 | Bäckby Församling                                                                                    | Kollekt                   |
 | 1231217421 | 802506-8050 | Mussehjälpen - Hjälper Katter i Nöd                                                                  |                           |
@@ -5805,6 +5806,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236930150 | 252000-0585 | Oscars Församling                                                                                    |                           |
 | 1236931091 | 814400-5033 | BKV Norrtälje                                                                                        |                           |
 | 1236931729 | 802458-0287 | Akutgruppen                                                                                          |                           |
+| 1236932834 | 823000-1391 | Sveriges Biodlares Riksförbund                                                                       |                           |
 | 1236934442 | 802534-5938 | Team Rynkeby                                                                                         | Göteborg, Hallenskolan    |
 | 1236934947 | 660704-XXXX | YOGAVI / Ulrika Wee-Ellis                                                                            |                           |
 | 1236935126 | 802521-8713 | Vägkorsets Vänner                                                                                    |                           |

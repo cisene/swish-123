@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2023-11-19-rev-184358
+# Date: 2023-11-20-rev-072454
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1168,6 +1168,7 @@
 "1231209998","802533-7786","Team Rynkeby Lund","https://www.team-rynkeby.se/","cykelsport,friskvård,intresseförening",""
 "1231213305","857207-0244","Grötö Hamnförening","https://groto.blog/","gästhamn",""
 "1231213578","802435-1168","BOJEN Förening för barn och ungdomar som bevittnat våld i hemmet","https://www.bojengoteborg.se/","intresseförening,stödverksamhet",""
+"1231214931","559413-0840","Riks / Vainar mediagroup AB","https://riks.se/","alternativa media",""
 "1231215417","827000-6953","IK Sisu - Friidrott","https://www.iksisu.se/","idrottsförening",""
 "1231217413","556706-5262","Bäckby Församling","https://www.svenskakyrkan.se/vasteras/backbykyrkan","religion","Kollekt"
 "1231217421","802506-8050","Mussehjälpen - Hjälper Katter i Nöd","https://mussehjalpen.com/","djurskydd,katthem",""
@@ -5803,6 +5804,7 @@
 "1236930150","252000-0585","Oscars Församling","https://www.svenskakyrkan.se/oscars-forsamling","religion",""
 "1236931091","814400-5033","BKV Norrtälje","https://www.laget.se/BKVNorrtalje/","fotbollsklubb,idrottsförening",""
 "1236931729","802458-0287","Akutgruppen","https://akutgruppen.com/","djurskydd,förening,katthem",""
+"1236932834","823000-1391","Sveriges Biodlares Riksförbund","https://www.biodlarna.se/","biodling,riksförbund",""
 "1236934442","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Göteborg, Hallenskolan"
 "1236934947","660704-XXXX","YOGAVI / Ulrika Wee-Ellis","https://yogavi.se/","yoga",""
 "1236935126","802521-8713","Vägkorsets Vänner","https://www.vagkorset.se/","förening",""

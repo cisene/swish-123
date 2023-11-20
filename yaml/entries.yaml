@@ -10240,6 +10240,14 @@ entries:
   - stödverksamhet
   web: https://www.bojengoteborg.se/
 
+- entry: 1231214931
+  orgName: Riks / Vainar mediagroup AB
+  orgNumber: 559413-0840
+  comment: null
+  categories:
+  - alternativa media
+  web: https://riks.se/
+
 - entry: 1231215417
   orgName: IK Sisu - Friidrott
   orgNumber: 827000-6953
@@ -51330,6 +51338,15 @@ entries:
   - förening
   - katthem
   web: https://akutgruppen.com/
+
+- entry: 1236932834
+  orgName: Sveriges Biodlares Riksförbund
+  orgNumber: 823000-1391
+  comment: null
+  categories:
+  - biodling
+  - riksförbund
+  web: https://www.biodlarna.se/
 
 - entry: 1236934442
   orgName: Team Rynkeby
