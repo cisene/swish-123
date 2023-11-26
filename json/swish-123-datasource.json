@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-20-rev-205057",
+    "date": "2023-11-26-rev-140820",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1466,6 +1466,15 @@
         "utbildning"
       ],
       "web": "https://www.stallkungsgarden.se/"
+    },
+    {
+      "entry": 1230158824,
+      "orgNumber": "802535-2744",
+      "orgName": "Sexdrega Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/sexdrega"
     },
     {
       "entry": 1230159699,
@@ -6538,6 +6547,15 @@
       "web": "http://majornaskattvakt.se/"
     },
     {
+      "entry": 1230712802,
+      "orgNumber": "012282-6290",
+      "orgName": "Harvs Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/harvs/"
+    },
+    {
       "entry": 1230713974,
       "orgNumber": "640821-XXXX",
       "orgName": "Ljungag\u00e5rdens Allehanda / Carl Magnus Svensson",
@@ -9095,6 +9113,15 @@
       "web": "http://www.kristianstadsbk.se/"
     },
     {
+      "entry": 1230934315,
+      "orgNumber": "802472-4273",
+      "orgName": "R\u00f6da Korset i Emmaboda",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.rodakorset.se/emmaboda"
+    },
+    {
       "entry": 1230938324,
       "orgNumber": "826000-0743",
       "orgName": "Pingstf\u00f6rsamlingen Tenhult",
@@ -10097,6 +10124,15 @@
       "web": "https://grasmyrloge.se/"
     },
     {
+      "entry": 1231058429,
+      "orgNumber": "882000-2171",
+      "orgName": "Myckelby Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://myckelbybygdegard.n.nu/"
+    },
+    {
       "entry": 1231058668,
       "orgNumber": "894001-0518",
       "orgName": "Ume\u00e5 Sjundedags Adventistf\u00f6rsamling",
@@ -10889,6 +10925,17 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.amningshjalpen.se/"
+    },
+    {
+      "entry": 1231155985,
+      "orgNumber": "802481-0031",
+      "orgName": "Insamlingsstiftelsen Life After Racing",
+      "categories": [
+        "h\u00e4stsport",
+        "stiftelse",
+        "travsport"
+      ],
+      "web": "https://www.lifeafterracing.se/"
     },
     {
       "entry": 1231157965,
@@ -14023,6 +14070,16 @@
       "web": "https://www.josefssonstrafikskola.se/"
     },
     {
+      "entry": 1231481936,
+      "orgNumber": "252002-4163",
+      "orgName": "Grundsunda F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsviksnorra/grundsunda-forsamling"
+    },
+    {
       "entry": 1231482355,
       "orgNumber": "802415-8498",
       "orgName": "Lions Barnfond Hj\u00e4rtat",
@@ -14357,6 +14414,15 @@
         "religion"
       ],
       "web": "https://www.munkhagskyrkan.se/"
+    },
+    {
+      "entry": 1231499698,
+      "orgNumber": "897001-5197",
+      "orgName": "Frostheim",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.frostheim.se/"
     },
     {
       "entry": 1231499763,
@@ -15181,6 +15247,13 @@
         "medium"
       ],
       "web": "https://finndinkraft.se/"
+    },
+    {
+      "entry": 1231596485,
+      "orgNumber": "812400-4089",
+      "orgName": "Orn\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
+      "comment": "['bygdeg\u00e5rdsf\u00f6rening']",
+      "web": "https://bygdegardarna.se/orno/"
     },
     {
       "entry": 1231598176,
@@ -16405,6 +16478,15 @@
       "web": "https://www.svenskakyrkan.se/sundbyberg"
     },
     {
+      "entry": 1231724038,
+      "orgNumber": "822002-3488",
+      "orgName": "\u00d6rtomta Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/ortomta-hembygdsforening"
+    },
+    {
       "entry": 1231724319,
       "orgNumber": "955502-7235",
       "orgName": "ABB:s Pension\u00e4rsklubb Ludvika",
@@ -17170,6 +17252,15 @@
       "web": "https://gastabud.se/"
     },
     {
+      "entry": 1231797901,
+      "orgNumber": "875000-6531",
+      "orgName": "S\u00e4llskapet Gamla \u00d6rebro",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/sallskapet-gamla-orebro"
+    },
+    {
       "entry": 1231801190,
       "orgNumber": "857200-8541",
       "orgName": "IFK G\u00f6teborg",
@@ -17195,6 +17286,15 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/ludgo-spelvik/"
+    },
+    {
+      "entry": 1231804764,
+      "orgNumber": "888800-3830",
+      "orgName": "Ramsele Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/ramsele-hembygdsf-rening"
     },
     {
       "entry": 1231804970,
@@ -17584,6 +17684,15 @@
         "viltv\u00e5rd"
       ],
       "web": "https://www.kirunajaktochfiske.se/"
+    },
+    {
+      "entry": 1231839794,
+      "orgNumber": "816000-6105",
+      "orgName": "T\u00e4by Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/taby"
     },
     {
       "entry": 1231843275,
@@ -20262,6 +20371,16 @@
       "web": "https://www.svenskakyrkan.se/gavle/b"
     },
     {
+      "entry": 1232179448,
+      "orgNumber": "556711-8566",
+      "orgName": "Natuvital Sweden AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "h\u00e4lsoprodukter"
+      ],
+      "web": "https://natuvital.se/"
+    },
+    {
       "entry": 1232180255,
       "orgNumber": "802405-9449",
       "orgName": "Hindu Mandir Society i Stockholm",
@@ -21075,6 +21194,15 @@
         "f\u00f6rening"
       ],
       "web": "http://www.nassjodansforening.se/"
+    },
+    {
+      "entry": 1232256618,
+      "orgNumber": "829501-8942",
+      "orgName": "Kalvsviks Bygdeg\u00e5rd",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/kalvsviks/"
     },
     {
       "entry": 1232257186,
@@ -22626,6 +22754,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.saralidman.se/"
+    },
+    {
+      "entry": 1232408177,
+      "orgNumber": "802469-5689",
+      "orgName": "Bolms\u00f6 Sockenr\u00e5d",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "sockenf\u00f6rening"
+      ],
+      "web": "http://www.bolmso.se/"
     },
     {
       "entry": 1232408227,
@@ -24498,6 +24636,15 @@
         "religion"
       ],
       "web": "http://www.fisherscreek.net/"
+    },
+    {
+      "entry": 1232684504,
+      "orgNumber": "896100-4770",
+      "orgName": "Varpsj\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://sites.google.com/view/varpsjo/startsida"
     },
     {
       "entry": 1232686905,
@@ -26792,6 +26939,15 @@
       "web": "https://www.nolbergavet.se/"
     },
     {
+      "entry": 1232951416,
+      "orgNumber": "802529-6792",
+      "orgName": "Ventlinge Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/ventlinge"
+    },
+    {
       "entry": 1232951838,
       "orgNumber": "829502-6788",
       "orgName": "V\u00e4xj\u00f6 Lakers Hockeyklubb",
@@ -26942,6 +27098,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/eif"
+    },
+    {
+      "entry": 1232966778,
+      "orgNumber": "814000-0665",
+      "orgName": "M\u00f6ja Kulturella Ungdomsr\u00f6relse, MKU",
+      "categories": [
+        "kulturf\u00f6rening",
+        "ungdomsverksamhet"
+      ]
     },
     {
       "entry": 1232967776,
@@ -29688,6 +29853,15 @@
       "web": "https://www.lundshistoriedagar.se/"
     },
     {
+      "entry": 1233336435,
+      "orgNumber": "802002-4546",
+      "orgName": "F\u00f6reningen Norden",
+      "categories": [
+        "ideell f\u00f6rening"
+      ],
+      "web": "https://norden.se/"
+    },
+    {
       "entry": 1233336765,
       "orgNumber": "802532-8033",
       "orgName": "Team Rynkeby",
@@ -31160,6 +31334,16 @@
       "web": "https://femorefortet.se/"
     },
     {
+      "entry": 1233505310,
+      "orgNumber": "802446-9457",
+      "orgName": "Lidk\u00f6pingsbygdens Sl\u00e4ktforskarf\u00f6rening",
+      "categories": [
+        "genealogi",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://lidkopingsanor.se/"
+    },
+    {
       "entry": 1233505591,
       "orgNumber": "877100-5991",
       "orgName": "H\u00e4llefors IK",
@@ -31696,6 +31880,15 @@
         "segels\u00e4llskap"
       ],
       "web": "http://kmsnordon.se/"
+    },
+    {
+      "entry": 1233556024,
+      "orgNumber": "866600-9330",
+      "orgName": "Norra Billings Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/norra-billing"
     },
     {
       "entry": 1233556248,
@@ -32646,6 +32839,15 @@
       "web": "https://www.hembygd.se/uppland"
     },
     {
+      "entry": 1233669298,
+      "orgNumber": "802431-0578",
+      "orgName": "F\u00f6reningen Svedala - Barabygden",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://fsbb.se/"
+    },
+    {
       "entry": 1233678505,
       "orgNumber": "802490-7720",
       "orgName": "Brottsofferjouren Stockholm - Gotland",
@@ -33126,6 +33328,16 @@
         "rotaryklubb"
       ],
       "web": "https://helsingborg-karnan.rotary2390.se/"
+    },
+    {
+      "entry": 1233773553,
+      "orgNumber": "858500-4941",
+      "orgName": "Gilleby IF",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://gillebyif.se/"
     },
     {
       "entry": 1233780079,
@@ -38234,6 +38446,14 @@
       "web": "https://ostraljungbybygdegard.se/"
     },
     {
+      "entry": 1234421541,
+      "orgNumber": "832000-2069",
+      "orgName": "Gr\u00f6nh\u00f6gens IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ]
+    },
+    {
       "entry": 1234424768,
       "orgNumber": "802011-0592",
       "orgName": "Equmenia \u00c4lvsj\u00f6",
@@ -38550,6 +38770,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.bokenasif.com/"
+    },
+    {
+      "entry": 1234479754,
+      "orgNumber": "865000-1004",
+      "orgName": "F\u00f6retagarna Svenljunga & Tranemo",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.foretagarna.se/foreningar/svenljunga-tranemo/"
     },
     {
       "entry": 1234480752,
@@ -41463,6 +41692,15 @@
       "web": "https://www.karlstadgk.se/"
     },
     {
+      "entry": 1234935292,
+      "orgNumber": "895400-8473",
+      "orgName": "Boksj\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/boksjon/"
+    },
+    {
       "entry": 1234935565,
       "orgNumber": "252002-4114",
       "orgName": "Skorpeds F\u00f6rsamling",
@@ -42487,6 +42725,15 @@
       "web": "https://ffbg.skridsko.net/"
     },
     {
+      "entry": 1235048707,
+      "orgNumber": "802420-0191",
+      "orgName": "Nyckelby Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/nyckelby/"
+    },
+    {
       "entry": 1235049648,
       "orgNumber": "802516-5096",
       "orgName": "Lerums Scoutk\u00e5r",
@@ -42597,6 +42844,23 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.uiffriidrott.se/"
+    },
+    {
+      "entry": 1235064563,
+      "orgNumber": "895400-9968",
+      "orgName": "Busj\u00f6ns Intressef\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ]
+    },
+    {
+      "entry": 1235067525,
+      "orgNumber": "802536-8310",
+      "orgName": "Skenshyttans Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://skenshyttansbygdegard.se/"
     },
     {
       "entry": 1235069950,
@@ -43615,6 +43879,15 @@
       "web": "https://abiskointresseforening.weebly.com/"
     },
     {
+      "entry": 1235149794,
+      "orgNumber": "729500-0199",
+      "orgName": "L\u00e5ngasj\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://langasjo.builder.hemsida24.se/l%C3%A5ngasj%C3%B6-bygdeg%C3%A5rd/l%C3%A5ngasj%C3%B6-bygdeg%C3%A5rd"
+    },
+    {
       "entry": 1235151253,
       "orgNumber": "802442-6861",
       "orgName": "Swedish Animation and Visual Arts, SAAVA",
@@ -43781,6 +44054,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/roslagens-ostra-pastorat/estuna-soderbykarls-forsamling"
+    },
+    {
+      "entry": 1235166632,
+      "orgNumber": "892001-0751",
+      "orgName": "J\u00e4mtlands Travh\u00e4st\u00e4garf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "travsport"
+      ],
+      "web": "https://www.ostersundstravet.com/sport-och-spel/for-aktiva/hastagareforeningen/"
     },
     {
       "entry": 1235170360,
@@ -44695,6 +44978,16 @@
       "web": "http://www.dbtk.se/"
     },
     {
+      "entry": 1235283981,
+      "orgNumber": "817606-3173",
+      "orgName": "Kulturf\u00f6reningen Kilbolokalen",
+      "comment": "Chillbo",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/kilbolokalen/"
+    },
+    {
       "entry": 1235284385,
       "orgNumber": "559113-4605",
       "orgName": "Lagg & Hoj AB",
@@ -45571,6 +45864,15 @@
         "kvinnojour"
       ],
       "web": "https://somaya.se/"
+    },
+    {
+      "entry": 1235383302,
+      "orgNumber": "868400-6615",
+      "orgName": "Skara Gille",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/skara-gille"
     },
     {
       "entry": 1235383500,
@@ -49053,6 +49355,16 @@
         "rcbil"
       ],
       "web": "https://www.lrck.se/"
+    },
+    {
+      "entry": 1235790845,
+      "orgNumber": "252002-4163",
+      "orgName": "Grundsunda F\u00f6rsamling",
+      "comment": "minnesg\u00e5vor/insamlingar",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsviksnorra/grundsunda-forsamling"
     },
     {
       "entry": 1235792403,
@@ -53163,6 +53475,15 @@
       "web": "https://www.svenskadownforeningen.se/"
     },
     {
+      "entry": 1236345276,
+      "orgNumber": "817001-5609",
+      "orgName": "Fr\u00f6sthults Bygdeg\u00e5rd",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.frosthult.se/"
+    },
+    {
       "entry": 1236345482,
       "orgNumber": "889601-0702",
       "orgName": "L\u00e5ngsele Intressef\u00f6rening",
@@ -53190,6 +53511,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
+    },
+    {
+      "entry": 1236346811,
+      "orgNumber": "814400-9282",
+      "orgName": "S\u00e4ttraby Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/sattraby/"
     },
     {
       "entry": 1236346860,
@@ -54667,6 +54997,16 @@
       "web": "https://realfighter.se/"
     },
     {
+      "entry": 1236532386,
+      "orgNumber": "580907-XXXX",
+      "orgName": "Cancergalan / Karin W\u00f6yer Amcoff",
+      "comment": "Cancergalan",
+      "categories": [
+        "insamling",
+        "st\u00f6dverksamhet"
+      ]
+    },
+    {
       "entry": 1236535272,
       "orgNumber": "889200-6647",
       "orgName": "Borgsj\u00f6 Hembygdsf\u00f6rening",
@@ -54740,6 +55080,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.storumansik.nu/"
+    },
+    {
+      "entry": 1236538623,
+      "orgNumber": "815201-0230",
+      "orgName": "Centrumkyrkan i Sundbyberg",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.centrumkyrkan.se/"
     },
     {
       "entry": 1236538656,
