@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-11-26-rev-140820",
+    "date": "2023-12-23-rev-170513",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4434,6 +4434,15 @@
       "web": "https://www.amigosmios.se/"
     },
     {
+      "entry": 1230453225,
+      "orgNumber": "816000-0348",
+      "orgName": "Orkesta Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.orkesta.nu/"
+    },
+    {
       "entry": 1230453928,
       "orgNumber": "802533-7869",
       "orgName": "Team Rynkeby",
@@ -4454,6 +4463,24 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/TIK08/"
+    },
+    {
+      "entry": 1230459222,
+      "orgNumber": "886000-0200",
+      "orgName": "Holmsvedens AIK",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.holmsveden.nu/holmsvedens-aik/"
+    },
+    {
+      "entry": 1230459610,
+      "orgNumber": "817601-3293",
+      "orgName": "F\u00f6reningen Verkstan RSMH Valeg\u00e5rden",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.verkstanrsmh.com/"
     },
     {
       "entry": 1230460121,
@@ -5618,6 +5645,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.yngverod.se/"
+    },
+    {
+      "entry": 1230586735,
+      "orgNumber": "802533-6648",
+      "orgName": "Yalla J\u00f6nk\u00f6ping Ideell F\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://yallajonkoping.se/"
     },
     {
       "entry": 1230591644,
@@ -12126,6 +12162,15 @@
       "web": "https://gronbyakademi.se/"
     },
     {
+      "entry": 1231271733,
+      "orgNumber": "886500-3696",
+      "orgName": "Gr\u00e4ngsbo Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.grangsbo.com/"
+    },
+    {
       "entry": 1231275239,
       "orgNumber": "950101-XXXX",
       "orgName": "Zemasmycken / George Bchara",
@@ -12371,6 +12416,15 @@
         "pistolskytteklubb"
       ],
       "web": "https://www.laget.se/SPSK/"
+    },
+    {
+      "entry": 1231303361,
+      "orgNumber": "889202-7460",
+      "orgName": "Hullsj\u00f6ns Bygdeg\u00e5rdsf\u00f6rening",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://hullsjon.se/"
     },
     {
       "entry": 1231305333,
@@ -15034,6 +15088,15 @@
       "web": "https://rentachef.com/"
     },
     {
+      "entry": 1231572981,
+      "orgNumber": "855900-4711",
+      "orgName": "Hogdal Bygdeg\u00e5rd",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/hogdallokal"
+    },
+    {
       "entry": 1231573831,
       "orgNumber": "802511-1561",
       "orgName": "Blasieholmens V\u00e4nner",
@@ -16891,6 +16954,15 @@
       "web": "https://www.svenskakyrkan.se/visby"
     },
     {
+      "entry": 1231757566,
+      "orgNumber": "883202-7125",
+      "orgName": "Vintj\u00e4rns Intressef\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://vintjarn.se/vintj%C3%A4rns-intressef%C3%B6rening/"
+    },
+    {
       "entry": 1231757764,
       "orgNumber": "897600-2975",
       "orgName": "Parkalompolo IK",
@@ -18181,6 +18253,16 @@
       "web": "https://storforshundklubb.se/"
     },
     {
+      "entry": 1231903947,
+      "orgNumber": "802417-0808",
+      "orgName": "Hann\u00e4s Sockenf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "sockenf\u00f6rening"
+      ],
+      "web": "https://www.hannaes.se/fritid/sockenforeningen/"
+    },
+    {
       "entry": 1231906031,
       "orgNumber": "802535-4211",
       "orgName": "Team Rynkeby",
@@ -18463,6 +18545,16 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.skalby4h.se/"
+    },
+    {
+      "entry": 1231962455,
+      "orgNumber": "845000-8399",
+      "orgName": "Falsterbo F\u00e5gelstation",
+      "categories": [
+        "f\u00e5gelsk\u00e5dning",
+        "ornitologi"
+      ],
+      "web": "https://falsterbofagelstation.se/"
     },
     {
       "entry": 1231962489,
@@ -27382,6 +27474,15 @@
         "juridik"
       ],
       "web": "https://www.icj-sweden.org/"
+    },
+    {
+      "entry": 1233018439,
+      "orgNumber": "559078-4640",
+      "orgName": "\u00c4ngsj\u00f6dal Text AB / Lars Wilder\u00e4ng",
+      "categories": [
+        "mediaproduktion"
+      ],
+      "web": "https://cornucopia.se/"
     },
     {
       "entry": 1233021003,
@@ -40507,6 +40608,15 @@
       "web": "https://huddinge.ronaldmcdonaldhus.se/"
     },
     {
+      "entry": 1234677589,
+      "orgNumber": "802427-5565",
+      "orgName": "Candanza Dansf\u00f6rening",
+      "categories": [
+        "dansf\u00f6rening"
+      ],
+      "web": "https://candanza.nu/"
+    },
+    {
       "entry": 1234677654,
       "orgNumber": "802476-2646",
       "orgName": "Sektion 84",
@@ -42654,6 +42764,16 @@
         "religion"
       ],
       "web": "https://www.pingstmjolby.se/"
+    },
+    {
+      "entry": 1235037312,
+      "orgNumber": "857203-1824",
+      "orgName": "Vr\u00e5ng\u00f6 Fritidsf\u00f6rening",
+      "categories": [
+        "fritidsf\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.vrangofritidsforening.se/"
     },
     {
       "entry": 1235039789,
@@ -47099,6 +47219,17 @@
       "web": "https://www.vik-fotboll.com/"
     },
     {
+      "entry": 1235528336,
+      "orgNumber": "802423-1089",
+      "orgName": "Tors\u00e5ker Bluegrassfestival",
+      "categories": [
+        "bluegrass",
+        "festival",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://torsakerbluegrassfestival.se/"
+    },
+    {
       "entry": 1235528724,
       "orgNumber": "849600-1424",
       "orgName": "Valinge IF",
@@ -48327,6 +48458,15 @@
       "web": "https://www.bommedalrf.se/"
     },
     {
+      "entry": 1235676473,
+      "orgNumber": "888000-5999",
+      "orgName": "H\u00e4ggd\u00e5ngers Intressef\u00f6rening",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.haggdanger.se/"
+    },
+    {
       "entry": 1235678263,
       "orgNumber": "870920-XXXX",
       "orgName": "Zahlo Photo / Zandra Olausson",
@@ -49434,6 +49574,15 @@
         "lionsklubb"
       ],
       "web": "http://lionsclub-hindas.se/"
+    },
+    {
+      "entry": 1235807870,
+      "orgNumber": "857200-1397",
+      "orgName": "Betelf\u00f6rsamlingen H\u00f6n\u00f6",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.betelkyrkan.nu/"
     },
     {
       "entry": 1235808027,
@@ -54655,6 +54804,14 @@
       "web": "https://www.svenskakyrkan.se/bengtsfors"
     },
     {
+      "entry": 1236499446,
+      "orgNumber": "802473-1336",
+      "orgName": "Marstrands Gammaldansf\u00f6rening MGF",
+      "categories": [
+        "dansf\u00f6rening"
+      ]
+    },
+    {
       "entry": 1236499966,
       "orgNumber": "769629-5422",
       "orgName": "Brf S\u00f6rby\u00e4ngen i \u00d6rebro",
@@ -56870,6 +57027,16 @@
       "web": "https://www.slatternegard.se/"
     },
     {
+      "entry": 1236790919,
+      "orgNumber": "883800-6487",
+      "orgName": "Sveriges \u00c5ngb\u00e5tsf\u00f6rening",
+      "categories": [
+        "fordonhistoria",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://steamboatassociation.se/"
+    },
+    {
       "entry": 1236790943,
       "orgNumber": "556835-4632",
       "orgName": "Mellan\u00f6sternpodden / Trail AB",
@@ -57275,6 +57442,16 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://www.kkl.nu/"
+    },
+    {
+      "entry": 1236839526,
+      "orgNumber": "828001-1191",
+      "orgName": "Bratteborgs Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://bratteborgsrs.se/"
     },
     {
       "entry": 1236840599,
