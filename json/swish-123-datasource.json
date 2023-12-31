@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-12-25-rev-071341",
+    "date": "2023-12-31-rev-130902",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4308,6 +4308,16 @@
       "web": "https://uppsala.brostcancerforbundet.se/"
     },
     {
+      "entry": 1230438143,
+      "orgNumber": "818000-1144",
+      "orgName": "IFK Eskilstuna",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ifkeskilstuna.com/"
+    },
+    {
       "entry": 1230438531,
       "orgNumber": "802015-9748",
       "orgName": "Moderata Ungdomsf\u00f6rbundet, MUF",
@@ -6468,6 +6478,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230698522,
+      "orgNumber": "802458-2622",
+      "orgName": "S\u00f6dermanlands Regementes Officerares Kamratf\u00f6rening",
+      "categories": [
+        "f\u00f6rening",
+        "kamratf\u00f6rening"
+      ],
+      "web": "https://p10.se/"
     },
     {
       "entry": 1230700906,
@@ -9462,6 +9482,14 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "http://www.lidskyrkby.se/"
+    },
+    {
+      "entry": 1230989384,
+      "orgNumber": "955545-2953",
+      "orgName": "S\u00f6dra Venjans Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ]
     },
     {
       "entry": 1230990010,
@@ -13540,6 +13568,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231430875,
+      "orgNumber": "802438-6917",
+      "orgName": "Jord och Frihet Ideell F\u00f6rening",
+      "categories": [
+        "ideell f\u00f6rening"
+      ],
+      "web": "https://jordfrihet.org/"
+    },
+    {
       "entry": 1231431220,
       "orgNumber": "878001-7441",
       "orgName": "Skultuna Brukshundklubb",
@@ -15030,6 +15067,16 @@
         "katthem"
       ],
       "web": "http://katthjalpen.nu/"
+    },
+    {
+      "entry": 1231568856,
+      "orgNumber": "820127-XXXX",
+      "orgName": "Batteridoktorn / Patrik Storm",
+      "categories": [
+        "elfordon",
+        "reparationer"
+      ],
+      "web": "https://batteridoktorn.se/"
     },
     {
       "entry": 1231569177,
@@ -17705,6 +17752,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231834209,
+      "orgNumber": "862000-4039",
+      "orgName": "T\u00f6sse IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tosseif.com/"
     },
     {
       "entry": 1231834480,
@@ -24082,6 +24138,16 @@
       "web": "http://www.solskankt.se/"
     },
     {
+      "entry": 1232614873,
+      "orgNumber": "818000-1144",
+      "orgName": "IFK Eskilstuna",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ifkeskilstuna.com/"
+    },
+    {
       "entry": 1232615508,
       "orgNumber": "802471-9083",
       "orgName": "Sportfiskeklubb Minkarna",
@@ -24759,6 +24825,16 @@
         "segelflyg"
       ],
       "web": "https://vasterassegelflyg.se/"
+    },
+    {
+      "entry": 1232689511,
+      "orgNumber": "858500-7456",
+      "orgName": "Uddevalla IS - Skidor Skridsko Friidrott",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "idrottss\u00e4llskap"
+      ],
+      "web": "https://www.uisskidor.se/"
     },
     {
       "entry": 1232690477,
@@ -27229,6 +27305,14 @@
         "nykterhetsf\u00f6rbund"
       ],
       "web": "https://svenskasallskapetfornykterhetochfolkbildning.se/"
+    },
+    {
+      "entry": 1232969343,
+      "orgNumber": "884401-7098",
+      "orgName": "Norra Venjans Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ]
     },
     {
       "entry": 1232969426,
@@ -30372,6 +30456,16 @@
       "web": "https://stb.scout.se/"
     },
     {
+      "entry": 1233380607,
+      "orgNumber": "884400-3932",
+      "orgName": "Venjans AIK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "idrottsklubb"
+      ],
+      "web": "https://idrottonline.se/venjansaik"
+    },
+    {
       "entry": 1233380847,
       "orgNumber": "818000-7521",
       "orgName": "Pingstkyrkan \u00c4rla",
@@ -32239,6 +32333,16 @@
       "web": "https://www.hembygd.se/vastergotland"
     },
     {
+      "entry": 1233582707,
+      "orgNumber": "857201-1727",
+      "orgName": "Schacks\u00e4llskapet Manhem",
+      "categories": [
+        "schackklubb",
+        "schacks\u00e4llskap"
+      ],
+      "web": "https://www.ssmanhem.se/"
+    },
+    {
       "entry": 1233590528,
       "orgNumber": "556632-9495",
       "orgName": "Stockholms Improvisationsteater AB",
@@ -32520,6 +32624,16 @@
         "supporterklubb"
       ],
       "web": "https://luleafans.se/"
+    },
+    {
+      "entry": 1233622412,
+      "orgNumber": "873201-0619",
+      "orgName": "HK Bruksp\u00f4jkera",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/HKBrukspojkera/"
     },
     {
       "entry": 1233622925,
@@ -42262,6 +42376,16 @@
       "web": "https://frihetochhalsa.se/"
     },
     {
+      "entry": 1234984241,
+      "orgNumber": "884401-0689",
+      "orgName": "Venjanssl\u00f6jd",
+      "categories": [
+        "hantverk",
+        "ideell f\u00f6rening",
+        "sl\u00f6jdf\u00f6rening"
+      ]
+    },
+    {
       "entry": 1234984647,
       "orgNumber": "769621-0421",
       "orgName": "Karbenning Bygdeg\u00e5rdf\u00f6rening",
@@ -43237,6 +43361,14 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.bogesundslandetsryttare.se/"
+    },
+    {
+      "entry": 1235104971,
+      "orgNumber": "802461-2361",
+      "orgName": "IFK K\u00e4ttbo",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ]
     },
     {
       "entry": 1235105762,
@@ -48293,6 +48425,15 @@
       "web": "https://www.myterochmysterier.se/"
     },
     {
+      "entry": 1235662051,
+      "orgNumber": "849000-7435",
+      "orgName": "Falkenbergs Schackklubb",
+      "categories": [
+        "schackklubb"
+      ],
+      "web": "https://schackihalland.net/"
+    },
+    {
       "entry": 1235662069,
       "orgNumber": "833600-2996",
       "orgName": "V\u00e4sterviksortens Ryttaref\u00f6rening",
@@ -48904,6 +49045,16 @@
       "web": "https://stmikael.se/"
     },
     {
+      "entry": 1235716691,
+      "orgNumber": "867800-6779",
+      "orgName": "IFK Falk\u00f6ping Fotboll",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ifkfalkopingff.se/"
+    },
+    {
       "entry": 1235719380,
       "orgNumber": "878001-2640",
       "orgName": "Huskatten V\u00e4ster\u00e5s",
@@ -49475,6 +49626,15 @@
         "f\u00f6rening"
       ],
       "web": "https://www.altunagarden.se/"
+    },
+    {
+      "entry": 1235789516,
+      "orgNumber": "884400-7149",
+      "orgName": "G\u00e4vunda Sportklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sportklubb"
+      ]
     },
     {
       "entry": 1235789870,
@@ -51605,6 +51765,15 @@
       "web": "https://byxelkroksgk.se/"
     },
     {
+      "entry": 1236086904,
+      "orgNumber": "802430-3565",
+      "orgName": "Tandalaf\u00f6reningen",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://tandala.org/"
+    },
+    {
       "entry": 1236086946,
       "orgNumber": "802443-5193",
       "orgName": "Lerums Bridgeklubb",
@@ -52087,6 +52256,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://ingmarso.se/om-byalaget/"
+    },
+    {
+      "entry": 1236157994,
+      "orgNumber": "867200-3822",
+      "orgName": "IFK Tidaholm",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ifktidaholm.se/"
     },
     {
       "entry": 1236158471,

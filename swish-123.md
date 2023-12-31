@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2023-12-25-rev-071341
+Date:     2023-12-31-rev-130902
 ...
 
 # Swish 123 Nummer
@@ -446,6 +446,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230435354 | 802470-2451 | Quinnoqraft Sandviken                                                                                |                           |
 | 1230438077 | 802422-9497 | Feministiskt Initiativ                                                                               |                           |
 | 1230438093 | 817602-0637 | Bröstcancerföreningen Uppsala Län                                                                    |                           |
+| 1230438143 | 818000-1144 | IFK Eskilstuna                                                                                       |                           |
 | 1230438531 | 802015-9748 | Moderata Ungdomsförbundet, MUF                                                                       |                           |
 | 1230438895 | 866000-9526 | Töreboda Brukshundklubb                                                                              |                           |
 | 1230439968 | 556626-3793 | Mustasch AB                                                                                          |                           |
@@ -669,6 +670,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230698159 | 863001-0265 | PRO Trollhättans Södra                                                                               |                           |
 | 1230698407 | 802534-5466 | Team Rynkeby                                                                                         | Täby, Noblaskolan Solna   |
 | 1230698423 | 802532-9262 | Team Rynkeby                                                                                         | Växjö, Torpaskolan        |
+| 1230698522 | 802458-2622 | Södermanlands Regementes Officerares Kamratförening                                                  |                           |
 | 1230700906 | 857202-4050 | Partille Scoutkår                                                                                    |                           |
 | 1230702068 | 802003-1707 | Svenska Skyttesportförbundet                                                                         |                           |
 | 1230702506 | 846501-3236 | Lomma Konstförening                                                                                  |                           |
@@ -975,6 +977,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230988303 | 862501-3324 | Sundals Ryrs Byalag                                                                                  |                           |
 | 1230988659 | 866601-0064 | Skövde Brukshundklubb                                                                                |                           |
 | 1230989111 | 819001-1109 | Lids Bygdegårdsförening                                                                              |                           |
+| 1230989384 | 955545-2953 | Södra Venjans Hembygdsförening                                                                       |                           |
 | 1230990010 | 559105-6550 | Millas Villa AB / CHECKINN AB                                                                        |                           |
 | 1230991273 | 802495-4540 | S:ta Maria Syrisk Ortodoxa Kyrkan i Göteborg                                                         |                           |
 | 1230993246 | 711025-XXXX | Orakel Sara / Eva Edman                                                                              |                           |
@@ -1392,6 +1395,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231416759 | 817300-4881 | Älvkarleby RK - Ridsport                                                                             | Ungdomssektionen          |
 | 1231421866 | 802533-7794 | Team Rynkeby                                                                                         | Skaraborg, Lilleskogs skola |
 | 1231421882 | 802534-5466 | Team Rynkeby                                                                                         | Täby, Ösbyskolan AB       |
+| 1231430875 | 802438-6917 | Jord och Frihet Ideell Förening                                                                      |                           |
 | 1231431220 | 878001-7441 | Skultuna Brukshundklubb                                                                              |                           |
 | 1231432749 | 802010-4876 | Hobby & Leksaksmuseum Stiftelsen                                                                     |                           |
 | 1231432814 | 802430-1452 | Eskilstuna Friidrottsförening                                                                        |                           |
@@ -1544,6 +1548,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231566744 | 877100-6981 | Lindlövens IF                                                                                        |                           |
 | 1231568088 | 802504-3517 | Fiskevårdsföreningen Öringen Väja                                                                    |                           |
 | 1231568229 | 846502-5305 | Katthjälpen                                                                                          |                           |
+| 1231568856 | 820127-XXXX | Batteridoktorn / Patrik Storm                                                                        |                           |
 | 1231569177 | 556921-6509 | Gävle Yogaskola AB                                                                                   |                           |
 | 1231569383 | 556350-5154 | Strödetaljer AB                                                                                      |                           |
 | 1231569540 | 827000-2002 | Missionskyrkan Nässjö                                                                                |                           |
@@ -1815,6 +1820,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231829738 | 827500-4730 | Missionssällskapet Fackelbärarna                                                                     |                           |
 | 1231829795 | 836200-7794 | PRO Sölvesborg                                                                                       |                           |
 | 1231834019 | 802533-7653 | Team Rynkeby                                                                                         | Jönköping, Vittra Samset  |
+| 1231834209 | 862000-4039 | Tösse IF                                                                                             |                           |
 | 1231834480 | 002870-1720 | Svenska Weimaranerklubben                                                                            |                           |
 | 1231834530 | 816000-4043 | Frösunda Hembygdsförening                                                                            |                           |
 | 1231835420 | 878000-6428 | Nygammal Dansförening, NGDF                                                                          |                           |
@@ -2457,6 +2463,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232610939 | 802436-7289 | Inlandsbanans Vänner IBV                                                                             |                           |
 | 1232612414 | 802515-8232 | Hokbygdens Frikyrkoförsamling                                                                        |                           |
 | 1232612836 | 769620-1172 | SOLSKÄNKT Solelföreningen i Sala och Heby ek. för.                                                   |                           |
+| 1232614873 | 818000-1144 | IFK Eskilstuna                                                                                       |                           |
 | 1232615508 | 802471-9083 | Sportfiskeklubb Minkarna                                                                             |                           |
 | 1232616373 | 885001-7891 | BK X-et                                                                                              |                           |
 | 1232620144 | 802428-8170 | FBC Bollnäs                                                                                          | Vinterlotteriet           |
@@ -2526,6 +2533,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232684504 | 896100-4770 | Varpsjö Bygdegårdsförening                                                                           |                           |
 | 1232686905 | 760624-XXXX | Stockholms Hundhälsa                                                                                 |                           |
 | 1232689321 | 878001-0636 | Västerås Segelflygklubb                                                                              |                           |
+| 1232689511 | 858500-7456 | Uddevalla IS - Skidor Skridsko Friidrott                                                             |                           |
 | 1232690477 | 826500-4609 | Askeryds Hembygdsförening                                                                            |                           |
 | 1232692598 | 865500-3385 | Ulricehamns IF                                                                                       | Skidskytte                |
 | 1232692697 | 802437-8310 | Wikimedia Sverige                                                                                    |                           |
@@ -2775,6 +2783,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232967776 | 750316-XXXX | Ingrid Unsöld                                                                                        |                           |
 | 1232968477 | 842000-4825 | Hästhagens Ryttarförening i Billinge                                                                 |                           |
 | 1232968550 | 802002-5121 | Svenska Sällskapet för Nykterhet                                                                     |                           |
+| 1232969343 | 884401-7098 | Norra Venjans Hembygdsförening                                                                       |                           |
 | 1232969426 | 802532-7506 | Team Rynkeby                                                                                         | Helsingborg, Söndrebalg skola |
 | 1232979110 | 802526-5110 | Beroendevårdens Framtid                                                                              |                           |
 | 1232980191 | 559054-5553 | Formenca AB                                                                                          |                           |
@@ -3095,6 +3104,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233379450 | 826000-6799 | Tabergs Bergslags Hembygdsförening                                                                   |                           |
 | 1233380185 | 802491-0823 | Cancerföreningen PALEMA                                                                              |                           |
 | 1233380458 | 812800-3475 | Sanct Botvids Scoutkår                                                                               |                           |
+| 1233380607 | 884400-3932 | Venjans AIK                                                                                          |                           |
 | 1233380847 | 818000-7521 | Pingstkyrkan Ärla                                                                                    |                           |
 | 1233381241 | 559000-1284 | Lenoa AB                                                                                             |                           |
 | 1233381969 | 982000-3268 | Avesta Golfklubb                                                                                     |                           |
@@ -3282,6 +3292,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233580289 | 802410-8527 | Husarö Lotsmuseum och HembygdsFörening                                                               |                           |
 | 1233580941 | 252002-7331 | Sydölands Församling                                                                                 |                           |
 | 1233582368 | 866000-6506 | Västergötlands Hembygdsförbund                                                                       |                           |
+| 1233582707 | 857201-1727 | Schacksällskapet Manhem                                                                              |                           |
 | 1233590528 | 556632-9495 | Stockholms Improvisationsteater AB                                                                   |                           |
 | 1233590700 | 802533-7778 | Team Rynkeby                                                                                         | Dalarna, Sundbornsskolan  |
 | 1233591757 | 889200-3651 | Sundsvalls Tekniska Förening, SUTF                                                                   |                           |
@@ -3310,6 +3321,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233620440 | 252002-7794 | Vä-Skepparslövs Församling                                                                           | Administration            |
 | 1233620457 | 802409-2143 | Katthemmet i Vaxholm / Föreningen Djurhjälpen                                                        |                           |
 | 1233622313 | 897001-7029 | LuleåFans                                                                                            |                           |
+| 1233622412 | 873201-0619 | HK Brukspôjkera                                                                                      |                           |
 | 1233622925 | 868401-0716 | Lions Club Nossebro                                                                                  | Klubbkassan               |
 | 1233623212 | 802488-4655 | Stockholm 12                                                                                         |                           |
 | 1233624053 | 556938-6971 | Supercenter Soccer / Supersports International AB                                                    |                           |
@@ -4299,6 +4311,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234972600 | 559246-5537 | Häståkeriet Djurgården AB                                                                            |                           |
 | 1234975140 | 802532-9262 | Team Rynkeby                                                                                         | Växjö, Söraby skola       |
 | 1234980496 | 802463-6543 | Frihet och Hälsa / Nuidag.se                                                                         | Skola                     |
+| 1234984241 | 884401-0689 | Venjansslöjd                                                                                         |                           |
 | 1234984647 | 769621-0421 | Karbenning Bygdegårdförening                                                                         |                           |
 | 1234985305 | 802531-8117 | Research For Recovery                                                                                |                           |
 | 1234986915 | 802525-0310 | Bensinupproret 2.0 / Föreningen Uppror                                                               |                           |
@@ -4397,6 +4410,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235104641 | 802438-6883 | Alingsås Vårgårda Discgolf                                                                           | tävlingsavgifter          |
 | 1235104658 | 556817-7751 | Sundsvalls Squash Club Arena AB                                                                      |                           |
 | 1235104914 | 802457-3084 | Bogesundslandets Ryttare - Ridsport                                                                  |                           |
+| 1235104971 | 802461-2361 | IFK Kättbo                                                                                           |                           |
 | 1235105762 | 802511-2213 | Det Fria Sverige / Svegot-DFS                                                                        |                           |
 | 1235106471 | 882000-2510 | Stjärnsunds AIF, SAIF                                                                                |                           |
 | 1235107461 | 802534-5466 | Team Rynkeby                                                                                         | Täby, Skogsängsskolan     |
@@ -4906,6 +4920,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235652706 | 874000-6914 | Rikkenbergets Hembygdsförening                                                                       |                           |
 | 1235653175 | 802531-4033 | Föreningen Om dissociation                                                                           |                           |
 | 1235653803 | 560730-XXXX | Myter & Mysterier / Diakrino - urskillning i mångfald                                                |                           |
+| 1235662051 | 849000-7435 | Falkenbergs Schackklubb                                                                              |                           |
 | 1235662069 | 833600-2996 | Västerviksortens Ryttareförening                                                                     | Tävling                   |
 | 1235662408 | 802528-5894 | Gmf-Förening I Samverkan                                                                             |                           |
 | 1235663299 | 802524-7829 | Idrottsföreningen Linné                                                                              |                           |
@@ -4967,6 +4982,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235715495 | 802003-6318 | Unga Örnars Riksförbund                                                                              |                           |
 | 1235715537 | 252004-1571 | Ullervads församling                                                                                 |                           |
 | 1235716402 | 839401-1434 | Föreningen S:t Mikael                                                                                |                           |
+| 1235716691 | 867800-6779 | IFK Falköping Fotboll                                                                                |                           |
 | 1235719380 | 878001-2640 | Huskatten Västerås                                                                                   |                           |
 | 1235719448 | 825000-7336 | Studiehemmet Hemgården                                                                               |                           |
 | 1235719919 | 825002-4604 | Ringarums Hembygdsförening                                                                           |                           |
@@ -5025,6 +5041,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235787650 | 802010-4892 | Sveriges Speleologförbund SSF                                                                        | Årsmöte                   |
 | 1235788567 | 802525-9998 | AFS Interkultur Sverige                                                                              |                           |
 | 1235789250 | 817000-8703 | Föreningen Altunagården                                                                              |                           |
+| 1235789516 | 884400-7149 | Gävunda Sportklubb                                                                                   |                           |
 | 1235789870 | 252002-2134 | Barkarö Församling                                                                                   | Honung                    |
 | 1235790423 | 854601-0821 | Lidköpings R/C Klubb, LRCK                                                                           |                           |
 | 1235790845 | 252002-4163 | Grundsunda Församling                                                                                | minnesgåvor/insamlingar   |
@@ -5244,6 +5261,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236086359 | 836200-3488 | Föreningen Karlshamns Museum                                                                         |                           |
 | 1236086706 | 556301-2490 | Frösåker Golf & Country Club AB                                                                      |                           |
 | 1236086847 | 832000-4545 | Byxelkroks Golfklubb                                                                                 |                           |
+| 1236086904 | 802430-3565 | Tandalaföreningen                                                                                    |                           |
 | 1236086946 | 802443-5193 | Lerums Bridgeklubb                                                                                   |                           |
 | 1236090484 | 863000-8111 | Gärdhems Hembygdsförening                                                                            |                           |
 | 1236090625 | 560416-XXXX | Bowenpraktiken i Osby / Christel Falk                                                                |                           |
@@ -5293,6 +5311,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236155352 | 556867-2264 | Svedala Trafikskola AB                                                                               |                           |
 | 1236156558 | 884402-0217 | Brottsofferjouren Norra Dalarna                                                                      |                           |
 | 1236157879 | 816400-0617 | Ingmarsö Bygdegårdsförening                                                                          | Byalaget                  |
+| 1236157994 | 867200-3822 | IFK Tidaholm                                                                                         |                           |
 | 1236158471 | 879500-4673 | Hela Människan Sala-Heby                                                                             |                           |
 | 1236158620 | 879500-3014 | Sala Brukshundklubb                                                                                  |                           |
 | 1236158893 | 802426-7042 | Stiftelsen Berättarministeriet                                                                       |                           |
