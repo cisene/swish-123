@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2023-12-31-rev-130902",
+    "date": "2024-01-01-rev-161443",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -325,6 +325,16 @@
         "mountainbikeklubb"
       ],
       "web": "https://teamalbertmtb.com/"
+    },
+    {
+      "entry": 1230036673,
+      "orgNumber": "559226-5291",
+      "orgName": "NN Golf AB",
+      "categories": [
+        "golfcoach",
+        "utbildning"
+      ],
+      "web": "https://www.nngolf.se/"
     },
     {
       "entry": 1230037317,
@@ -2212,6 +2222,16 @@
       "web": "https://equmeniakyrkan.se/holmedalblomskog/"
     },
     {
+      "entry": 1230237693,
+      "orgNumber": "719000-1797",
+      "orgName": "Vrena Folkets Hus",
+      "categories": [
+        "folkets hus",
+        "folkr\u00f6relse"
+      ],
+      "web": "https://www.vrenafolketshus.se/"
+    },
+    {
       "entry": 1230237990,
       "orgNumber": "202100-2874",
       "orgName": "Ume\u00e5 Universitet",
@@ -2798,6 +2818,15 @@
         "kvinnojour"
       ],
       "web": "https://motalakvinnojour.se/"
+    },
+    {
+      "entry": 1230298471,
+      "orgNumber": "556631-5973",
+      "orgName": "Golf & Blandat i Sverige AB",
+      "categories": [
+        "golfcoach",
+        "golftr\u00e4nare"
+      ]
     },
     {
       "entry": 1230299131,
@@ -8011,6 +8040,7 @@
       "orgNumber": "878001-6872",
       "orgName": "Str\u00f6msholms GK",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://stromsholmsgolf.se/"
@@ -9323,6 +9353,16 @@
       "web": "https://www.djurensvanner.se/vaxjo"
     },
     {
+      "entry": 1230973263,
+      "orgNumber": "745000-0026",
+      "orgName": "Silverforsen Folkets Park / Folkets Park i Kjeflinge",
+      "categories": [
+        "folkets park",
+        "folkr\u00f6relse"
+      ],
+      "web": "https://www.silverforsen.se/"
+    },
+    {
       "entry": 1230973305,
       "orgNumber": "857200-7485",
       "orgName": "BK H\u00e4cken",
@@ -10328,6 +10368,15 @@
         "reumatism"
       ],
       "web": "https://norrkoping.reumatiker.se/"
+    },
+    {
+      "entry": 1231078849,
+      "orgNumber": "802412-4763",
+      "orgName": "SPF Seniorerna Sigtuna Stad",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-sigtuna-stad/"
     },
     {
       "entry": 1231079128,
@@ -11389,6 +11438,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231199975,
+      "orgNumber": "802514-5767",
+      "orgName": "Riksf\u00f6reningen \u00c4ldres H\u00e4lsa",
+      "categories": [
+        "h\u00e4lsa",
+        "riksf\u00f6rening"
+      ],
+      "web": "https://aldreshalsa.com/"
+    },
+    {
       "entry": 1231203132,
       "orgNumber": "556802-4235",
       "orgName": "Sj\u00f6sportskolan Swedish Maritime Academy AB",
@@ -11662,6 +11721,7 @@
       "orgNumber": "818001-2844",
       "orgName": "M\u00e4larbadens Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.malarbadensgk.se/"
@@ -12293,6 +12353,17 @@
         "rotaryklubb"
       ],
       "web": "https://simrishamn.rotary2390.se/"
+    },
+    {
+      "entry": 1231294206,
+      "orgNumber": "779500-0392",
+      "orgName": "Heby Folkets Hus & Parkf\u00f6rening",
+      "categories": [
+        "folkets hus",
+        "folkets park",
+        "folkr\u00f6relse"
+      ],
+      "web": "https://hebyfh.se/"
     },
     {
       "entry": 1231294610,
@@ -15605,6 +15676,16 @@
       "web": "https://www.borlangebk.se/"
     },
     {
+      "entry": 1231613538,
+      "orgNumber": "802493-7636",
+      "orgName": "Dance In Line",
+      "categories": [
+        "dansf\u00f6rening",
+        "linedance"
+      ],
+      "web": "https://danceinlineale.se/"
+    },
+    {
       "entry": 1231613801,
       "orgNumber": "012551-6633",
       "orgName": "F\u00f6reningen till minne av Jocke Nyberg",
@@ -17282,6 +17363,16 @@
       "web": "https://rodasolen.se/"
     },
     {
+      "entry": 1231790773,
+      "orgNumber": "864500-2984",
+      "orgName": "IFK Bor\u00e5s",
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ifkboras.se/"
+    },
+    {
       "entry": 1231790906,
       "orgNumber": "828000-8445",
       "orgName": "\u00c5senh\u00f6ga Hembygdsf\u00f6rening",
@@ -17821,6 +17912,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/taby"
+    },
+    {
+      "entry": 1231842913,
+      "orgNumber": "814000-9088",
+      "orgName": "PRO V\u00e4rmd\u00f6",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-varmdo/foreningar/varmdo.html"
     },
     {
       "entry": 1231843275,
@@ -19380,6 +19480,15 @@
         "f\u00f6rening"
       ],
       "web": "https://fogelstadsvanforening.se/"
+    },
+    {
+      "entry": 1232050128,
+      "orgNumber": "556421-3337",
+      "orgName": "Go-kart \u00d6rebro Motorstadion / Go-Race Hs AB",
+      "categories": [
+        "motorsport"
+      ],
+      "web": "https://www.gorace.se/"
     },
     {
       "entry": 1232050490,
@@ -22231,6 +22340,17 @@
       "web": "https://www.hembygd.se/offerdal"
     },
     {
+      "entry": 1232327286,
+      "orgNumber": "894000-5757",
+      "orgName": "Ume\u00e5 Ryttarf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.hippologum.se/"
+    },
+    {
       "entry": 1232327633,
       "orgNumber": "885000-5110",
       "orgName": "Hamr\u00e5nge Hembygdsf\u00f6rening",
@@ -23052,7 +23172,7 @@
     {
       "entry": 1232423374,
       "orgNumber": "802534-5243",
-      "orgName": "Halmstads Makal\u00f6sa F\u00f6r\u00e4ldrar",
+      "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar Halmstad",
       "categories": [
         "f\u00f6r\u00e4ldraskap"
       ],
@@ -23723,6 +23843,16 @@
       "web": "https://www.villasunshine.nu/"
     },
     {
+      "entry": 1232567980,
+      "orgNumber": "802476-7488",
+      "orgName": "S\u00f6rfj\u00e4rdens Golfklubb",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://sorfjardensgk.se/"
+    },
+    {
       "entry": 1232570687,
       "orgNumber": "916595-4869",
       "orgName": "Nymans Trafikskola HB",
@@ -24030,7 +24160,7 @@
     {
       "entry": 1232602043,
       "orgNumber": "802528-4368",
-      "orgName": "SPF Seniorerna Polstj\u00e4rnan",
+      "orgName": "SPF Seniorerna Polstj\u00e4rnan Timr\u00e5",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -25675,6 +25805,16 @@
       "web": "https://www.ljgk.se/"
     },
     {
+      "entry": 1232765386,
+      "orgNumber": "556884-5449",
+      "orgName": "Gagnefs GK",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://www.gagnefsgk.com/"
+    },
+    {
       "entry": 1232765964,
       "orgNumber": "802425-9874",
       "orgName": "Stiftelsen Ronald McDonald Barnfond Link\u00f6ping",
@@ -26512,6 +26652,16 @@
       "web": "https://www.piteaifdff.se/"
     },
     {
+      "entry": 1232873842,
+      "orgNumber": "778500-3513",
+      "orgName": "Arboga Folkets Park",
+      "categories": [
+        "folkets park",
+        "folkr\u00f6relse"
+      ],
+      "web": "https://folketsparkarboga.se/"
+    },
+    {
       "entry": 1232873990,
       "orgNumber": "252000-6319",
       "orgName": "Linneryds F\u00f6rsamling",
@@ -26833,6 +26983,16 @@
       "web": "https://www.sisamkult.se/"
     },
     {
+      "entry": 1232904290,
+      "orgNumber": "802406-0520",
+      "orgName": "\u00c4lvsj\u00f6 BMX-klubb",
+      "categories": [
+        "cykelklubb",
+        "cykelsport"
+      ],
+      "web": "https://alvsjobmx.com/"
+    },
+    {
       "entry": 1232904944,
       "orgNumber": "845000-4174",
       "orgName": "Naturskyddsf\u00f6reningen i Sk\u00e5ne",
@@ -27046,6 +27206,17 @@
         "transporttj\u00e4nst"
       ],
       "web": "http://www.sakrahander.se/"
+    },
+    {
+      "entry": 1232940567,
+      "orgNumber": "802601-1786",
+      "orgName": "L\u00e5nghalmens FVO",
+      "comment": "Fiskekort",
+      "categories": [
+        "fiskeklubb",
+        "fiskekort",
+        "fiskev\u00e5rd"
+      ]
     },
     {
       "entry": 1232940617,
@@ -29296,6 +29467,17 @@
       "web": "https://idrottonline.se/ArbogaGF-Gymnastik/"
     },
     {
+      "entry": 1233229945,
+      "orgNumber": "736200-1617",
+      "orgName": "M\u00f6rrums Folkets Hus",
+      "categories": [
+        "folkets hus",
+        "folkets park",
+        "folkr\u00f6relse"
+      ],
+      "web": "https://morrumsfolketspark.se/"
+    },
+    {
       "entry": 1233231461,
       "orgNumber": "802416-8216",
       "orgName": "Sundbyviks Golfklubb",
@@ -30237,6 +30419,7 @@
       "orgNumber": "874000-8514",
       "orgName": "Torsby Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.torsbygolfklubb.se/"
@@ -30255,6 +30438,7 @@
       "orgNumber": "842000-4502",
       "orgName": "Bosj\u00f6kloster GK",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.bosjoklostergk.se/"
@@ -30823,6 +31007,16 @@
       "web": "https://www.sundskanalen.se/"
     },
     {
+      "entry": 1233424470,
+      "orgNumber": "818500-9704",
+      "orgName": "Flens Golfklubb",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://flensgk.se/"
+    },
+    {
       "entry": 1233424900,
       "orgNumber": "812400-9419",
       "orgName": "F\u00f6reningen Runsten Equestrians",
@@ -31227,6 +31421,16 @@
       "web": "https://www.svenskakyrkan.se/kramfors/ullangers-kyrka"
     },
     {
+      "entry": 1233466182,
+      "orgNumber": "849600-8221",
+      "orgName": "Harab\u00e4ckens GK",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "http://www.harabacken.se/"
+    },
+    {
       "entry": 1233466414,
       "orgNumber": "853300-3052",
       "orgName": "Tj\u00f6rns Hembygdsf\u00f6rening",
@@ -31263,6 +31467,15 @@
         "tr\u00e4dg\u00e5rdsodling"
       ],
       "web": "http://tradgardenalfta.se/"
+    },
+    {
+      "entry": 1233468477,
+      "orgNumber": "729500-1320",
+      "orgName": "Gemla Folkpark",
+      "categories": [
+        "folkets park"
+      ],
+      "web": "https://gemlafolkpark.se/"
     },
     {
       "entry": 1233469004,
@@ -34827,7 +35040,8 @@
       "orgNumber": "802401-2927",
       "orgName": "Svenska Sch\u00e4ferhundklubben",
       "categories": [
-        "hundklubb"
+        "hundklubb",
+        "hundsport"
       ],
       "web": "https://schaferhundklubben.com/"
     },
@@ -34845,6 +35059,7 @@
       "orgNumber": "802476-0764",
       "orgName": "Kils H\u00e4stcenter Hann\u00e4s (KHH)",
       "categories": [
+        "h\u00e4stsport",
         "ridklubb"
       ],
       "web": "https://www.hastcenterhannas.se/"
@@ -35359,6 +35574,7 @@
       "orgNumber": "252002-8420",
       "orgName": "Dominicaines de Sainte Marie des Tourelles",
       "categories": [
+        "kloster",
         "religion"
       ],
       "web": "https://www.roglekloster.se/"
@@ -37937,6 +38153,16 @@
       "web": "https://smbmakerspace.se/"
     },
     {
+      "entry": 1234349197,
+      "orgNumber": "837600-4357",
+      "orgName": "Ljungbyheds Golfklubb",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://ljungbyhedsgk.se/"
+    },
+    {
       "entry": 1234349361,
       "orgNumber": "802516-5575",
       "orgName": "G\u00e4vleborgs Taxklubb",
@@ -38164,6 +38390,16 @@
       "web": "https://tabergsmissionskyrka.se/"
     },
     {
+      "entry": 1234379541,
+      "orgNumber": "875003-5118",
+      "orgName": "Patientf\u00f6reningen T-Pro",
+      "categories": [
+        "cancerf\u00f6rening",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/orebro-lan/t-pro/"
+    },
+    {
       "entry": 1234382024,
       "orgNumber": "877100-6171",
       "orgName": "Nya Kopparbergsbergslags Hembygdsf\u00f6rening",
@@ -38350,6 +38586,16 @@
         "konstf\u00f6rening"
       ],
       "web": "https://varmlandskonstforening.se/"
+    },
+    {
+      "entry": 1234405445,
+      "orgNumber": "864500-2984",
+      "orgName": "IFK Bor\u00e5s",
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ifkboras.se/"
     },
     {
       "entry": 1234406666,
@@ -39815,6 +40061,16 @@
       "web": "https://www.srrs.org/"
     },
     {
+      "entry": 1234571121,
+      "orgNumber": "802428-6232",
+      "orgName": "Swedish Reined Cow Horse Association, SRCHA",
+      "categories": [
+        "h\u00e4stklubb",
+        "h\u00e4stsport"
+      ],
+      "web": "https://www.srcha.eu/"
+    },
+    {
       "entry": 1234572210,
       "orgNumber": "878500-1747",
       "orgName": "V\u00e4stra Skedvi Hembygds- och Bygdeg\u00e5rdsf\u00f6rening",
@@ -40740,6 +40996,16 @@
       "web": "http://www.sektion84.se/"
     },
     {
+      "entry": 1234677886,
+      "orgNumber": "875001-1663",
+      "orgName": "IFK \u00d6rebro Handboll",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://orebrohandboll.com/"
+    },
+    {
       "entry": 1234687919,
       "orgNumber": "886500-4645",
       "orgName": "Ovanhedens Bygdeg\u00e5rdsf\u00f6rening",
@@ -41337,6 +41603,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/EskilstunaBasket/"
+    },
+    {
+      "entry": 1234809984,
+      "orgNumber": "556542-8413",
+      "orgName": "Tidningen Arbetaren",
+      "categories": [
+        "mediaproduktion",
+        "tidsskrifter"
+      ],
+      "web": "https://www.arbetaren.se/"
     },
     {
       "entry": 1234814000,
@@ -42247,6 +42523,15 @@
         "scoutk\u00e5r"
       ],
       "web": "https://www.lerumsscoutkar.se/"
+    },
+    {
+      "entry": 1234963476,
+      "orgNumber": "802422-7988",
+      "orgName": "PRO S\u00f6derb\u00e4rke",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-smedjebacken/foreningar/soderbarke.html"
     },
     {
       "entry": 1234964730,
@@ -43608,6 +43893,7 @@
       "orgName": "Nordiska Veteranbilstv AB",
       "categories": [
         "bilv\u00e5rd",
+        "mediaproduktion",
         "veteranbil"
       ],
       "web": "http://www.veteranbilstv.se/"
@@ -44360,7 +44646,7 @@
     {
       "entry": 1235172457,
       "orgNumber": "845003-3215",
-      "orgName": "Lunds Makal\u00f6sa F\u00f6r\u00e4ldrar",
+      "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar Lund",
       "categories": [
         "f\u00f6r\u00e4ldraskap"
       ],
@@ -46172,6 +46458,15 @@
       "web": "https://nyhyttan.adventkyrka.se/"
     },
     {
+      "entry": 1235383906,
+      "orgNumber": "814400-2899",
+      "orgName": "V\u00e4dd\u00f6 IF",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.vaddoif.se/"
+    },
+    {
       "entry": 1235384086,
       "orgNumber": "802000-4142",
       "orgName": "Svenska Bowlingf\u00f6rbundet",
@@ -47189,6 +47484,17 @@
       "web": "https://kinna.pingst.se/"
     },
     {
+      "entry": 1235516430,
+      "orgNumber": "715200-0431",
+      "orgName": "\u00d6lsta Folketshus & park",
+      "categories": [
+        "folkets hus",
+        "folkets park",
+        "folkr\u00f6relse"
+      ],
+      "web": "https://olstafolkpark.se/"
+    },
+    {
       "entry": 1235516943,
       "orgNumber": "252000-0833",
       "orgName": "V\u00e5rdinge F\u00f6rsamling",
@@ -47298,6 +47604,7 @@
       "orgNumber": "775000-0734",
       "orgName": "F\u00f6reningen Folkets Park \u00d6rebro",
       "categories": [
+        "folkets park",
         "folkr\u00f6relse",
         "trivseldans"
       ],
@@ -49870,6 +50177,17 @@
       "web": "https://www.hembygd.se/malexander"
     },
     {
+      "entry": 1235825542,
+      "orgNumber": "559318-7023",
+      "orgName": "Pro-Suit / COPMOD AB",
+      "categories": [
+        "funktionsneds\u00e4ttning",
+        "funktionsplagg",
+        "f\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://prosuit.se/"
+    },
+    {
       "entry": 1235825880,
       "orgNumber": "822001-9734",
       "orgName": "Ydrefors Samh\u00e4llsf\u00f6rening",
@@ -50372,6 +50690,15 @@
       "web": "https://svensk-kubanska.se/"
     },
     {
+      "entry": 1235891262,
+      "orgNumber": "802441-2275",
+      "orgName": "Unden\u00e4sbygdens Byalag",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://facebook.com/p/Unden%C3%A4sbygdens-Byalag-100067081775980/"
+    },
+    {
       "entry": 1235891338,
       "orgNumber": "802489-6212",
       "orgName": "\u00d6SU - \u00d6rnsk\u00f6ldsviks SeniorUniversitet",
@@ -50388,6 +50715,16 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://idrottonline.se/AmotsSK-Skidor/"
+    },
+    {
+      "entry": 1235893565,
+      "orgNumber": "832000-3729",
+      "orgName": "\u00d6lands Golfklubb",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://www.olandsgk.se/"
     },
     {
       "entry": 1235893623,
@@ -52082,6 +52419,7 @@
       "orgNumber": "858500-9684",
       "orgName": "Uddevalla Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.ugk.nu/"
@@ -53695,8 +54033,8 @@
     },
     {
       "entry": 1236333041,
-      "orgNumber": "802490-1863",
-      "orgName": "Uppsala Makal\u00f6sa F\u00f6r\u00e4ldrar",
+      "orgNumber": "802457-1872",
+      "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar Ume\u00e5",
       "categories": [
         "f\u00f6r\u00e4ldraskap"
       ],
@@ -53760,6 +54098,15 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://www.jagarnasriksforbund.se/ostergotland/soderkoping/"
+    },
+    {
+      "entry": 1236336283,
+      "orgNumber": "898801-4018",
+      "orgName": "Glommers Bygder\u00e5d",
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.glommers.se/"
     },
     {
       "entry": 1236339741,
@@ -55463,6 +55810,7 @@
       "orgNumber": "835000-7954",
       "orgName": "Trummen\u00e4s Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.trummenasgk.se/"
@@ -57735,6 +58083,15 @@
       "web": "https://engelholmsgymnasterna.sportadmin.se/"
     },
     {
+      "entry": 1236870331,
+      "orgNumber": "802490-1863",
+      "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar Uppsala",
+      "categories": [
+        "f\u00f6r\u00e4ldraskap"
+      ],
+      "web": "https://makalosa.org/"
+    },
+    {
       "entry": 1236870703,
       "orgNumber": "202100-2932",
       "orgName": "ReAct Europe / Uppsala Universitet",
@@ -58525,6 +58882,7 @@
       "orgNumber": "866600-0115",
       "orgName": "Billingens Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "http://www.billingensgk.se/"
