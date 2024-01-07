@@ -5,6 +5,7 @@ entries:
   orgNumber: 556323-9663
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: http://kkgk.se/
 
@@ -57,6 +58,7 @@ entries:
   orgNumber: 802450-2349
   comment: null
   categories:
+  - danskurser
   - dansundervisning
   web: http://www.tangosol.se/
 
@@ -119,6 +121,7 @@ entries:
   categories:
   - ideell förening
   - intresseförening
+  - motorklubb
   web: https://kak.se/
 
 - entry: 1230008912
@@ -135,6 +138,7 @@ entries:
   orgNumber: 556800-6893
   comment: null
   categories:
+  - catering
   - restaurant
   web: https://fortunastrandkrog.se/
 
@@ -2032,9 +2036,9 @@ entries:
   web: https://falumassagehalsa.se/
 
 - entry: 1230240085
-  orgName: Team Rynkeby Kalmar
+  orgName: Team Rynkeby
   orgNumber: 802535-4211
-  comment: null
+  comment: Kalmar
   categories:
   - cykelsport
   - friskvård
@@ -3399,6 +3403,14 @@ entries:
   categories:
   - politisk kommentar
   web: https://www.patreon.com/user/creators?u=71624390
+
+- entry: 1230397174
+  orgName: PG Andersson Rally / Per-Gunnar Andersson
+  orgNumber: 800310-XXXX
+  comment: null
+  categories:
+  - motorsport
+  web: https://www.pgandersson.se/
 
 - entry: 1230398883
   orgName: Cykelregister.se
@@ -10424,9 +10436,9 @@ entries:
   web: https://www.hembygd.se/oxelosund
 
 - entry: 1231209998
-  orgName: Team Rynkeby Lund
+  orgName: Team Rynkeby
   orgNumber: 802533-7786
-  comment: null
+  comment: Lund
   categories:
   - cykelsport
   - friskvård
@@ -10640,9 +10652,9 @@ entries:
   web: https://www.tullingefriidrott.se/
 
 - entry: 1231229731
-  orgName: Team Rynkeby Sjuhärad
+  orgName: Team Rynkeby
   orgNumber: 802537-0241
-  comment: null
+  comment: Sjuhärad
   categories:
   - cykelsport
   - friskvård
@@ -12291,6 +12303,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1231428234
+  orgName: Assoraya / Kicki Jörgensen
+  orgNumber: 610812-XXXX
+  comment: null
+  categories:
+  - medium
+  - spiritualism
+  web: https://assoraya.se/
+
 - entry: 1231430875
   orgName: Jord och Frihet Ideell Förening
   orgNumber: 802438-6917
@@ -12307,6 +12328,15 @@ entries:
   - brukshundsklubb
   - hundsport
   web: https://www.skultunabrukshundklubb.se/
+
+- entry: 1231432137
+  orgName: Automobilbilsällskapet i Nyköping
+  orgNumber: 802446-6156
+  comment: null
+  categories:
+  - intresseförening
+  - veteranfordon
+  web: https://automobilsallskapet.se/
 
 - entry: 1231432749
   orgName: Hobby & Leksaksmuseum Stiftelsen
@@ -15044,6 +15074,15 @@ entries:
   - sjukgymnastik
   web: https://levad.se/
 
+- entry: 1231727650
+  orgName: Svensk Magisk Cirkel
+  orgNumber: 802002-2193
+  comment: null
+  categories:
+  - intresseförening
+  - magi
+  web: https://www.svenskmagiskcirkel.se/
+
 - entry: 1231728385
   orgName: Lions Club Bergsjö
   orgNumber: 802510-5183
@@ -15753,7 +15792,7 @@ entries:
   orgNumber: 332407-6342
   comment: null
   categories:
-  - orden
+  - ordensällskap
   web: https://www.bifrostorden.se/
 
 - entry: 1231807809
@@ -17496,7 +17535,7 @@ entries:
   orgNumber: 819001-0697
   comment: null
   categories:
-  - orden
+  - ordensällskap
   web: https://www.bifrostorden.se/
 
 - entry: 1232045060
@@ -18050,7 +18089,6 @@ entries:
   comment: null
   categories:
   - förening
-  - orden
   - ordensällskap
   web: https://www.linneus.org/
 
@@ -20166,6 +20204,15 @@ entries:
   - sportklubb
   web: https://www.sodertaljesk.se/
 
+- entry: 1232358521
+  orgName: Kalmar Läns Museum
+  orgNumber: 832400-4087
+  comment: Museimagasinet Podcast
+  categories:
+  - museum
+  - podcast
+  web: https://kalmarlansmuseum.se/
+
 - entry: 1232358901
   orgName: Bebyggelsehistoriska Föreningen i Stockholm
   orgNumber: 802411-6249
@@ -21062,6 +21109,16 @@ entries:
   - bygdegårdsförening
   web: http://vemboöbygdegård.com/
 
+- entry: 1232477313
+  orgName: Vätterbygdens Veteranfordonsklubb
+  orgNumber: 826001-1526
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  - veteranfordon
+  web: https://www.vvfk.se/
+
 - entry: 1232477685
   orgName: Ätbart
   orgNumber: 802525-9659
@@ -21591,6 +21648,16 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/segersta
+
+- entry: 1232588895
+  orgName: Lucky Feet Linedancers
+  orgNumber: 802432-1880
+  comment: null
+  categories:
+  - dansförening
+  - dansklubb
+  - linedance
+  web: https://luckyfeet.se/
 
 - entry: 1232589729
   orgName: Allmogens Norden AB
@@ -26822,6 +26889,15 @@ entries:
   - utbildning
   web: https://www.mdhund.se/
 
+- entry: 1233276144
+  orgName: Skulpturpark Vadstena Folkets Park Krogaränga
+  orgNumber: 724000-1284
+  comment: null
+  categories:
+  - folkets park
+  - folkrörelse
+  web: https://skulpturparkvadstena.se/
+
 - entry: 1233276656
   orgName: Föreningen Hyttan, Axmar Bruk
   orgNumber: 885001-3973
@@ -28377,6 +28453,14 @@ entries:
   - konst
   web: http://ljudkonstgalleriet.se/
 
+- entry: 1233491354
+  orgName: Mikosällskapet
+  orgNumber: 802433-9338
+  comment: null
+  categories:
+  - kulturförening
+  web: https://www.mikosallskapet.se/
+
 - entry: 1233494028
   orgName: Tynderö Hembygdsförening
   orgNumber: 889201-7487
@@ -28486,9 +28570,9 @@ entries:
   web: https://echurch.se/
 
 - entry: 1233503364
-  orgName: Team Rynkeby Dalarna
+  orgName: Team Rynkeby
   orgNumber: 802533-7778
-  comment: null
+  comment: Dalarna
   categories:
   - cykelsport
   - friskvård
@@ -29697,9 +29781,9 @@ entries:
   web: https://www.svenskakyrkan.se/nacka
 
 - entry: 1233636016
-  orgName: Team Rynkeby Göteborg
+  orgName: Team Rynkeby
   orgNumber: 802534-5938
-  comment: null
+  comment: Göteborg
   categories:
   - cykelsport
   - friskvård
@@ -30128,6 +30212,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/strom
+
+- entry: 1233721370
+  orgName: Billingebydens Kattklubb
+  orgNumber: 867200-8284
+  comment: null
+  categories:
+  - kattklubb
+  web: https://www.kattklubbenbik.se/
 
 - entry: 1233728979
   orgName: Tyresö Hembygdsförening
@@ -32282,9 +32374,9 @@ entries:
   web: https://www.munskankarna.se/
 
 - entry: 1234018198
-  orgName: Team Rynkeby Skaraborg
+  orgName: Team Rynkeby
   orgNumber: 802533-7794
-  comment: null
+  comment: Skaraborg
   categories:
   - cykelsport
   - friskvård
@@ -33724,9 +33816,9 @@ entries:
   web: https://sollentunahockey.myclub.se/
 
 - entry: 1234262945
-  orgName: Team Rynkeby Jönköping
+  orgName: Team Rynkeby
   orgNumber: 802533-7653
-  comment: null
+  comment: Jönköping
   categories:
   - cykelsport
   - friskvård
@@ -33855,9 +33947,9 @@ entries:
   web: http://www.svenskakyrkan.se/ljungby
 
 - entry: 1234274569
-  orgName: Team Rynkeby Malmö
+  orgName: Team Rynkeby
   orgNumber: 802532-9916
-  comment: null
+  comment: Malmö
   categories:
   - cykelsport
   - friskvård
@@ -36631,6 +36723,15 @@ entries:
   - vattensport
   web: https://www.kvsk.se/
 
+- entry: 1234664363
+  orgName: Malmö Folk / Malmö Folkmusikförening
+  orgNumber: 846004-1349
+  comment: null
+  categories:
+  - folkmusik
+  - musikförening
+  web: https://www.malmofolk.se/
+
 - entry: 1234665063
   orgName: Charlie's House - Fredagskassen / Christian & Louise i Båstad AB
   orgNumber: 556722-7789
@@ -37328,9 +37429,9 @@ entries:
   web: https://www.sfrk.net/
 
 - entry: 1234804878
-  orgName: Team Rynkeby Halland/Kalmar Län
+  orgName: Team Rynkeby
   orgNumber: 802539-3649
-  comment: null
+  comment: Halland/Kalmar Län
   categories:
   - cykelsport
   - friskvård
@@ -40533,7 +40634,6 @@ entries:
   comment: null
   categories:
   - intresseförening
-  - orden
   - ordensällskap
   web: https://www.64svenerikson.se/
 
@@ -41768,6 +41868,16 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: https://idrottonline.se/BollnasAK-Skidor/
+
+- entry: 1235398607
+  orgName: Vildhallon / Mattias Dristig
+  orgNumber: 741228-XXXX
+  comment: null
+  categories:
+  - föreläsningar
+  - musikförlag
+  - spelutveckling
+  web: https://vildhallon.com/
 
 - entry: 1235399720
   orgName: Crevoice AB
@@ -44072,9 +44182,9 @@ entries:
   web: https://nalstaskolansff.blogspot.com/
 
 - entry: 1235703020
-  orgName: Team Rynkeby Täby
+  orgName: Team Rynkeby
   orgNumber: 802534-5466
-  comment: null
+  comment: Täby
   categories:
   - cykelsport
   - friskvård
@@ -44424,9 +44534,9 @@ entries:
   web: https://hillsong.com/sweden/
 
 - entry: 1235760020
-  orgName: Team Rynkeby Värmland
+  orgName: Team Rynkeby
   orgNumber: 802532-8033
-  comment: null
+  comment: Värmland
   categories:
   - cykelsport
   - friskvård
@@ -47033,9 +47143,9 @@ entries:
   web: https://kristianstad-nova.rotary2400.se/
 
 - entry: 1236140891
-  orgName: Team Rynkeby Stockholm
+  orgName: Team Rynkeby
   orgNumber: null
-  comment: null
+  comment: Stockholm
   categories:
   - cykelsport
   - friskvård
@@ -47176,9 +47286,9 @@ entries:
   web: https://dfs.se/
 
 - entry: 1236152425
-  orgName: Team Rynkeby Kristianstad
+  orgName: Team Rynkeby
   orgNumber: 802535-9137
-  comment: null
+  comment: Kristianstad
   categories:
   - cykelsport
   - friskvård
@@ -51189,6 +51299,14 @@ entries:
   - båtuthyrning
   web: https://seasick.se/
 
+- entry: 1236728901
+  orgName: Fackeltåget Lysekil / Bengt Haverby
+  orgNumber: 381222-XXXX
+  comment: null
+  categories:
+  - intresseförening
+  web: https://m.facebook.com/p/Fackelt%C3%A5get-Lysekil-100086448344843/
+
 - entry: 1236730170
   orgName: Svenska Journalistförbundets Insamlingsfond
   orgNumber: 802001-6492
@@ -51684,9 +51802,9 @@ entries:
   web: https://stigenskyrka.se/
 
 - entry: 1236789424
-  orgName: Team Rynkeby Linköping
+  orgName: Team Rynkeby
   orgNumber: 802533-3421
-  comment: null
+  comment: Linköping
   categories:
   - cykelsport
   - friskvård
@@ -51986,9 +52104,9 @@ entries:
   web: https://www.brunnsparkskyrkan.se/
 
 - entry: 1236827315
-  orgName: Västra Frölunda KK - Konståkning
+  orgName: Västra Frölunda KK
   orgNumber: 857203-2012
-  comment: null
+  comment: Konståkning
   categories:
   - idrottsförening
   - konståkningsklubb
@@ -52004,9 +52122,9 @@ entries:
   web: https://www.njurundabhk.se/
 
 - entry: 1236827703
-  orgName: Team Rynkeby Helsingborg
+  orgName: Team Rynkeby
   orgNumber: 802532-7506
-  comment: null
+  comment: Helsingborg
   categories:
   - cykelsport
   - friskvård
@@ -52489,6 +52607,14 @@ entries:
   categories:
   - religion
   web: https://vardagsrummet.org/
+
+- entry: 1236905616
+  orgName: Torsby Marknad
+  orgNumber: 769613-2302
+  comment: null
+  categories:
+  - intresseförening
+  web: https://torsbymarknad.se/
 
 - entry: 1236906556
   orgName: Sportjouren AB
@@ -55116,6 +55242,7 @@ entries:
   comment: Terminated 3 maj, 2021
   categories:
   - insamlingskontroll
+  - ordensällskap
   - retired
   web: https://teskedsorden.se/
 

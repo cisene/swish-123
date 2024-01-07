@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-01-rev-161443",
+    "date": "2024-01-07-rev-162941",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -11,6 +11,7 @@
       "orgNumber": "556323-9663",
       "orgName": "Kung\u00e4lv Kode Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "http://kkgk.se/"
@@ -70,6 +71,7 @@
       "orgNumber": "802450-2349",
       "orgName": "Tango Sol",
       "categories": [
+        "danskurser",
         "dansundervisning"
       ],
       "web": "http://www.tangosol.se/"
@@ -137,7 +139,8 @@
       "orgName": "Kungliga Automobil Klubben, KAK",
       "categories": [
         "ideell f\u00f6rening",
-        "intressef\u00f6rening"
+        "intressef\u00f6rening",
+        "motorklubb"
       ],
       "web": "https://kak.se/"
     },
@@ -156,6 +159,7 @@
       "orgNumber": "556800-6893",
       "orgName": "\u00c4ttekulla lunchen / Fortuna Strandkrog / Fortuna by the Sea AB",
       "categories": [
+        "catering",
         "restaurant"
       ],
       "web": "https://fortunastrandkrog.se/"
@@ -2263,7 +2267,8 @@
     {
       "entry": 1230240085,
       "orgNumber": "802535-4211",
-      "orgName": "Team Rynkeby Kalmar",
+      "orgName": "Team Rynkeby",
+      "comment": "Kalmar",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -3799,6 +3804,15 @@
         "politisk kommentar"
       ],
       "web": "https://www.patreon.com/user/creators?u=71624390"
+    },
+    {
+      "entry": 1230397174,
+      "orgNumber": "800310-XXXX",
+      "orgName": "PG Andersson Rally / Per-Gunnar Andersson",
+      "categories": [
+        "motorsport"
+      ],
+      "web": "https://www.pgandersson.se/"
     },
     {
       "entry": 1230399485,
@@ -11564,7 +11578,8 @@
     {
       "entry": 1231209998,
       "orgNumber": "802533-7786",
-      "orgName": "Team Rynkeby Lund",
+      "orgName": "Team Rynkeby",
+      "comment": "Lund",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -11799,7 +11814,8 @@
     {
       "entry": 1231229731,
       "orgNumber": "802537-0241",
-      "orgName": "Team Rynkeby Sjuh\u00e4rad",
+      "orgName": "Team Rynkeby",
+      "comment": "Sjuh\u00e4rad",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -13639,6 +13655,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231428234,
+      "orgNumber": "610812-XXXX",
+      "orgName": "Assoraya / Kicki J\u00f6rgensen",
+      "categories": [
+        "medium",
+        "spiritualism"
+      ],
+      "web": "https://assoraya.se/"
+    },
+    {
       "entry": 1231430875,
       "orgNumber": "802438-6917",
       "orgName": "Jord och Frihet Ideell F\u00f6rening",
@@ -13656,6 +13682,16 @@
         "hundsport"
       ],
       "web": "https://www.skultunabrukshundklubb.se/"
+    },
+    {
+      "entry": 1231432137,
+      "orgNumber": "802446-6156",
+      "orgName": "Automobilbils\u00e4llskapet i Nyk\u00f6ping",
+      "categories": [
+        "intressef\u00f6rening",
+        "veteranfordon"
+      ],
+      "web": "https://automobilsallskapet.se/"
     },
     {
       "entry": 1231432749,
@@ -16718,6 +16754,16 @@
       "web": "https://levad.se/"
     },
     {
+      "entry": 1231727650,
+      "orgNumber": "802002-2193",
+      "orgName": "Svensk Magisk Cirkel",
+      "categories": [
+        "intressef\u00f6rening",
+        "magi"
+      ],
+      "web": "https://www.svenskmagiskcirkel.se/"
+    },
+    {
       "entry": 1231728385,
       "orgNumber": "802510-5183",
       "orgName": "Lions Club Bergsj\u00f6",
@@ -17520,7 +17566,7 @@
       "orgNumber": "332407-6342",
       "orgName": "Bifrostorden Logen 28 Gondler",
       "categories": [
-        "orden"
+        "ordens\u00e4llskap"
       ],
       "web": "https://www.bifrostorden.se/"
     },
@@ -19458,7 +19504,7 @@
       "orgNumber": "819001-0697",
       "orgName": "Bifrostorden Logen nr 12 Nicopia",
       "categories": [
-        "orden"
+        "ordens\u00e4llskap"
       ],
       "web": "https://www.bifrostorden.se/"
     },
@@ -20093,7 +20139,6 @@
       "orgName": "Bifrostf\u00f6reningen 34 Linneus V\u00e4xj\u00f6",
       "categories": [
         "f\u00f6rening",
-        "orden",
         "ordens\u00e4llskap"
       ],
       "web": "https://www.linneus.org/"
@@ -22445,6 +22490,17 @@
       "web": "https://www.sodertaljesk.se/"
     },
     {
+      "entry": 1232358521,
+      "orgNumber": "832400-4087",
+      "orgName": "Kalmar L\u00e4ns Museum",
+      "comment": "Museimagasinet Podcast",
+      "categories": [
+        "museum",
+        "podcast"
+      ],
+      "web": "https://kalmarlansmuseum.se/"
+    },
+    {
       "entry": 1232358901,
       "orgNumber": "802411-6249",
       "orgName": "Bebyggelsehistoriska F\u00f6reningen i Stockholm",
@@ -23444,6 +23500,17 @@
       "web": "http://vembo\u00f6bygdeg\u00e5rd.com/"
     },
     {
+      "entry": 1232477313,
+      "orgNumber": "826001-1526",
+      "orgName": "V\u00e4tterbygdens Veteranfordonsklubb",
+      "categories": [
+        "motorklubb",
+        "motorsport",
+        "veteranfordon"
+      ],
+      "web": "https://www.vvfk.se/"
+    },
+    {
       "entry": 1232477685,
       "orgNumber": "802525-9659",
       "orgName": "\u00c4tbart",
@@ -24039,6 +24106,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/segersta"
+    },
+    {
+      "entry": 1232588895,
+      "orgNumber": "802432-1880",
+      "orgName": "Lucky Feet Linedancers",
+      "categories": [
+        "dansf\u00f6rening",
+        "dansklubb",
+        "linedance"
+      ],
+      "web": "https://luckyfeet.se/"
     },
     {
       "entry": 1232589729,
@@ -29854,6 +29932,16 @@
       "web": "https://www.mdhund.se/"
     },
     {
+      "entry": 1233276144,
+      "orgNumber": "724000-1284",
+      "orgName": "Skulpturpark Vadstena Folkets Park Krogar\u00e4nga",
+      "categories": [
+        "folkets park",
+        "folkr\u00f6relse"
+      ],
+      "web": "https://skulpturparkvadstena.se/"
+    },
+    {
       "entry": 1233276656,
       "orgNumber": "885001-3973",
       "orgName": "F\u00f6reningen Hyttan, Axmar Bruk",
@@ -31600,6 +31688,15 @@
       "web": "http://ljudkonstgalleriet.se/"
     },
     {
+      "entry": 1233491354,
+      "orgNumber": "802433-9338",
+      "orgName": "Mikos\u00e4llskapet",
+      "categories": [
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.mikosallskapet.se/"
+    },
+    {
       "entry": 1233494028,
       "orgNumber": "889201-7487",
       "orgName": "Tynder\u00f6 Hembygdsf\u00f6rening",
@@ -31715,7 +31812,8 @@
     {
       "entry": 1233503364,
       "orgNumber": "802533-7778",
-      "orgName": "Team Rynkeby Dalarna",
+      "orgName": "Team Rynkeby",
+      "comment": "Dalarna",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -33083,7 +33181,8 @@
     {
       "entry": 1233636016,
       "orgNumber": "802534-5938",
-      "orgName": "Team Rynkeby G\u00f6teborg",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -33549,6 +33648,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/strom"
+    },
+    {
+      "entry": 1233721370,
+      "orgNumber": "867200-8284",
+      "orgName": "Billingebydens Kattklubb",
+      "categories": [
+        "kattklubb"
+      ],
+      "web": "https://www.kattklubbenbik.se/"
     },
     {
       "entry": 1233728979,
@@ -35958,7 +36066,8 @@
     {
       "entry": 1234018198,
       "orgNumber": "802533-7794",
-      "orgName": "Team Rynkeby Skaraborg",
+      "orgName": "Team Rynkeby",
+      "comment": "Skaraborg",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -37546,7 +37655,8 @@
     {
       "entry": 1234262945,
       "orgNumber": "802533-7653",
-      "orgName": "Team Rynkeby J\u00f6nk\u00f6ping",
+      "orgName": "Team Rynkeby",
+      "comment": "J\u00f6nk\u00f6ping",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -37692,7 +37802,8 @@
     {
       "entry": 1234274569,
       "orgNumber": "802532-9916",
-      "orgName": "Team Rynkeby Malm\u00f6",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -40805,6 +40916,16 @@
       "web": "https://www.kvsk.se/"
     },
     {
+      "entry": 1234664363,
+      "orgNumber": "846004-1349",
+      "orgName": "Malm\u00f6 Folk / Malm\u00f6 Folkmusikf\u00f6rening",
+      "categories": [
+        "folkmusik",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.malmofolk.se/"
+    },
+    {
       "entry": 1234665063,
       "orgNumber": "556722-7789",
       "orgName": "Charlie's House - Fredagskassen / Christian & Louise i B\u00e5stad AB",
@@ -41586,7 +41707,8 @@
     {
       "entry": 1234804878,
       "orgNumber": "802539-3649",
-      "orgName": "Team Rynkeby Halland/Kalmar L\u00e4n",
+      "orgName": "Team Rynkeby",
+      "comment": "Halland/Kalmar L\u00e4n",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -45171,7 +45293,6 @@
       "orgName": "Odd Fellow Logen NR 64 Sven Erikson",
       "categories": [
         "intressef\u00f6rening",
-        "orden",
         "ordens\u00e4llskap"
       ],
       "web": "https://www.64svenerikson.se/"
@@ -46571,6 +46692,17 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://idrottonline.se/BollnasAK-Skidor/"
+    },
+    {
+      "entry": 1235398607,
+      "orgNumber": "741228-XXXX",
+      "orgName": "Vildhallon / Mattias Dristig",
+      "categories": [
+        "f\u00f6rel\u00e4sningar",
+        "musikf\u00f6rlag",
+        "spelutveckling"
+      ],
+      "web": "https://vildhallon.com/"
     },
     {
       "entry": 1235399720,
@@ -49163,7 +49295,8 @@
     {
       "entry": 1235703020,
       "orgNumber": "802534-5466",
-      "orgName": "Team Rynkeby T\u00e4by",
+      "orgName": "Team Rynkeby",
+      "comment": "T\u00e4by",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -49537,7 +49670,8 @@
     {
       "entry": 1235760020,
       "orgNumber": "802532-8033",
-      "orgName": "Team Rynkeby V\u00e4rmland",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -52549,7 +52683,8 @@
     {
       "entry": 1236152425,
       "orgNumber": "802535-9137",
-      "orgName": "Team Rynkeby Kristianstad",
+      "orgName": "Team Rynkeby",
+      "comment": "Kristianstad",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -56991,6 +57126,15 @@
       "web": "https://seasick.se/"
     },
     {
+      "entry": 1236728901,
+      "orgNumber": "381222-XXXX",
+      "orgName": "Fackelt\u00e5get Lysekil / Bengt Haverby",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://m.facebook.com/p/Fackelt%C3%A5get-Lysekil-100086448344843/"
+    },
+    {
       "entry": 1236730170,
       "orgNumber": "802001-6492",
       "orgName": "Svenska Journalistf\u00f6rbundets Insamlingsfond",
@@ -57535,7 +57679,8 @@
     {
       "entry": 1236789424,
       "orgNumber": "802533-3421",
-      "orgName": "Team Rynkeby Link\u00f6ping",
+      "orgName": "Team Rynkeby",
+      "comment": "Link\u00f6ping",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -57873,7 +58018,8 @@
     {
       "entry": 1236827315,
       "orgNumber": "857203-2012",
-      "orgName": "V\u00e4stra Fr\u00f6lunda KK - Konst\u00e5kning",
+      "orgName": "V\u00e4stra Fr\u00f6lunda KK",
+      "comment": "Konst\u00e5kning",
       "categories": [
         "idrottsf\u00f6rening",
         "konst\u00e5kningsklubb"
@@ -57893,7 +58039,8 @@
     {
       "entry": 1236827703,
       "orgNumber": "802532-7506",
-      "orgName": "Team Rynkeby Helsingborg",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg",
       "categories": [
         "cykelsport",
         "friskv\u00e5rd",
@@ -58438,6 +58585,15 @@
         "religion"
       ],
       "web": "https://vardagsrummet.org/"
+    },
+    {
+      "entry": 1236905616,
+      "orgNumber": "769613-2302",
+      "orgName": "Torsby Marknad",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://torsbymarknad.se/"
     },
     {
       "entry": 1236906556,
