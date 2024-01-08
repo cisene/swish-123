@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-01-08-rev-130723
+# Date: 2024-01-08-rev-135135
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -5287,6 +5287,7 @@
 "1235900949","849600-2562","Tvååkers IF","https://www.tvaakersif.se/","idrottsförening","Entré och parkering"
 "1235903232","864001-1246","PRO Alingsås","https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-alingsas/foreningar/alingsas.html","pensionärsklubb",""
 "1235904677","878000-5735","Surahammars IF","https://surahammarsif.se/","idrottsförening",""
+"1235908603","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Göteborg, Internationella Engelska Skolan"
 "1235909379","802520-5520","Hälleforsnäs Bygderåd","https://halleforsnas.org/","hembygdsförening",""
 "1235920590","823000-5798","Malexanders Sportfiskeklubb","https://malexandersfk.blogspot.com/","förening,sportfiskeklubb",""
 "1235922364","875000-0674","Elimförsamlingen i Örebro","https://orebro.pingst.se/","religion","Kollekt"
@@ -5315,6 +5316,7 @@
 "1235942826","873201-9172","Hörselskadades Riksförbund Kristinehamn","https://hrf.se/kristinehamn/","hörselskadad,riksförbund",""
 "1235943246","802427-8361","Prostatacancerföreningen i Uppsala län","https://prostatacancerforbundet.se/om-oss/patientforeningar/uppsala/prostatacancerforeningen-i-uppsala-lan/","cancer,förening,patientförening,prostatacancer",""
 "1235943659","690618-XXXX","Anna Redin Yoga / Anna Redin","","yoga",""
+"1235944327","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Titanskolan"
 "1235948427","876400-3946","Karlskoga Enduroklubb","http://karlskogaek.com/","förening,motorcykel,motorsport",""
 "1235948633","802008-2486","Stockholms Cykelförbund","https://stockholmscf.se/","idrottsförening",""
 "1235949144","882600-2985","Borlänge Missionsförsamling","https://www.equmeniakyrkanborlange.se/","religion",""
@@ -5336,6 +5338,7 @@
 "1235965744","212000-1231","Radio Wake Up / Falkenbergs Kommun","https://www.radiowakeup.se/","lokalradio,närradiostation",""
 "1235967922","556917-8519","Kanal 10 Asia / Kristen TV i Asien AB","https://kanal10asia.com/","religion",""
 "1235968953","889600-3046","Örnsköldsviks Brukshundsklubb","https://sbk-ovik.se/","brukshundsklubb,hundsport",""
+"1235976212","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Göteborg, Casa Montessori"
 "1235978218","814000-7686","Runmarö Hembygdsförening","https://runmaro.org/","hembygdsförening",""
 "1235978424","556597-5744","Vägpress AB/Tidningen Proffs","https://www.tidningenproffs.se/","trycksaker",""
 "1235978598","899100-0392","Mellanströms Idrottssällskap","http://www.mellanstrom.se/foreningar/mellanstroms-idrottssallskap/","idrottsförening",""
@@ -5434,6 +5437,7 @@
 "1236098818","848000-4483","Lions Club Sjöbo","https://lions.sjobo.nu/","lionsklubb",""
 "1236107296","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Svensgårdsskolan"
 "1236107809","802533-7653","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Jönköping, Ribbaskolan"
+"1236107817","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Montessoriskolan Tellus"
 "1236109615","802452-4913","Brännkyrka Församlings Fredsgrupp","https://www.brannkyrka.org/forsamlingen/internationellt-arbete/fredsgruppen/","intresseförening,religion",""
 "1236111744","769608-9247","AMAL Sweden / Amal Express Ekonomisk Förening","https://amalsweden.com/","betaltjänster,förening",""
 "1236112767","556705-3524","Chalmers Golfklubb","https://www.chgk.se/","golfklubb,restaurant","Restaurant"
@@ -5540,6 +5544,7 @@
 "1236235840","802406-8507","Nya Riksföreningen hepatit C - och andra leversjukdomar","https://rhep.se/","förening,patientförening",""
 "1236235956","802534-9187","Vänskapsgalan","https://vanskapsgalan.com/","intresseförening",""
 "1236236780","802515-6616","Västerås Adventistförsamling","https://vasteras.adventkyrka.se/","religion",""
+"1236242986","802532-8033","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Värmland, Hammarlunden f-6"
 "1236243570","802461-0852","Föreningen för Digitala Fri- och Rättigheter, DFRI","https://www.dfri.se/","donation,intresseförening",""
 "1236243729","556743-6968","CH Anderssons Trafikskola AB","https://gelinderstrafikskola.se/","trafikskola,utbildning",""
 "1236244016","640803-6033","Skultorps Vagn & LokVerkstad","https://www.svlv.se/","modelljärnväg",""
@@ -5549,6 +5554,7 @@
 "1236246300","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Norrevångs förskola"
 "1236246367","802533-3421","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Linköping, Blästadsskolan"
 "1236246375","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, S:t Jörgens skola"
+"1236246383","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Pilängskolan"
 "1236246730","802533-7778","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Dalarna, Danholsskolan"
 "1236246839","825001-3011","Hela Människan Norrköping Ria","https://helamanniskan.se/norrkoping/","hjälporganisation","Second Hand"
 "1236248595","556882-3461","Krylbo Trafikskola AB","https://krylbotrafikskola.se/","trafikskola",""

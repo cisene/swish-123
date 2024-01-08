@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-08-rev-130723",
+    "date": "2024-01-08-rev-135135",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -52334,6 +52334,18 @@
       "web": "https://surahammarsif.se/"
     },
     {
+      "entry": 1235908603,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Internationella Engelska Skolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235909379,
       "orgNumber": "802520-5520",
       "orgName": "H\u00e4lleforsn\u00e4s Bygder\u00e5d",
@@ -52610,6 +52622,18 @@
       ]
     },
     {
+      "entry": 1235944327,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Titanskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1235948427,
       "orgNumber": "876400-3946",
       "orgName": "Karlskoga Enduroklubb",
@@ -52812,6 +52836,18 @@
         "hundsport"
       ],
       "web": "https://sbk-ovik.se/"
+    },
+    {
+      "entry": 1235976212,
+      "orgNumber": "802534-5938",
+      "orgName": "Team Rynkeby",
+      "comment": "G\u00f6teborg, Casa Montessori",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
     },
     {
       "entry": 1235978218,
@@ -53760,6 +53796,18 @@
       "orgNumber": "802533-7653",
       "orgName": "Team Rynkeby",
       "comment": "J\u00f6nk\u00f6ping, Ribbaskolan",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236107817,
+      "orgNumber": "802532-7506",
+      "orgName": "Team Rynkeby",
+      "comment": "Helsingborg, Montessoriskolan Tellus",
       "categories": [
         "cancerforskning",
         "forskning",
@@ -54810,6 +54858,18 @@
       "web": "https://vasteras.adventkyrka.se/"
     },
     {
+      "entry": 1236242986,
+      "orgNumber": "802532-8033",
+      "orgName": "Team Rynkeby",
+      "comment": "V\u00e4rmland, Hammarlunden f-6",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236243570,
       "orgNumber": "802461-0852",
       "orgName": "F\u00f6reningen f\u00f6r Digitala Fri- och R\u00e4ttigheter, DFRI",
@@ -54899,6 +54959,18 @@
       "orgNumber": "802532-7506",
       "orgName": "Team Rynkeby",
       "comment": "Helsingborg, S:t J\u00f6rgens skola",
+      "categories": [
+        "cancerforskning",
+        "forskning",
+        "hj\u00e4rnforskning"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236246383,
+      "orgNumber": "802532-9916",
+      "orgName": "Team Rynkeby",
+      "comment": "Malm\u00f6, Pil\u00e4ngskolan",
       "categories": [
         "cancerforskning",
         "forskning",
