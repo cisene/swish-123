@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-01-08-rev-135135
+Date:     2024-01-08-rev-135210
 ...
 
 # Swish 123 Nummer
@@ -6076,7 +6076,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236898225 | 802532-9262 | Team Rynkeby                                                                                         | Växjö, Högstorps skola    |
 | 1236899124 | 802440-0171 | Udddevalla Sim                                                                                       |                           |
 | 1236899603 | 802469-3288 | Aisha Center                                                                                         |                           |
-| 1236899835 | 802534-5466 | Team Rynkeby                                                                                         | Täby, International School of the Stockholm Region |
+| 1236899835 | 802534-5466 | Team Rynkeby                                                                                         | Täby, ISSR International School of the Stockholm Region |
 | 1236901557 | 769612-0976 | Brf Ingebäckslyckan 1                                                                                |                           |
 | 1236901797 | 969708-9564 | Hallmansgårdens Förlag HB - CTVC                                                                     |                           |
 | 1236902019 | 886500-8257 | Alfta-Edsbyns Golfklubb                                                                              |                           |
