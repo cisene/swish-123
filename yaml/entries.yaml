@@ -26135,6 +26135,16 @@ entries:
   - bygdegårdsförening
   web: http://www.bygdeforeningentararpnotabrane.se/
 
+- entry: 1233079647
+  orgName: Team Rynkeby
+  orgNumber: 802537-0241
+  comment: Sjuhärad, Björkhöjdskolan 7-9
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1233079696
   orgName: Neuro Ung Med MS
   orgNumber: 802521-7467
@@ -27557,6 +27567,26 @@ entries:
   - riksorganisation
   web: https://farr.se/
 
+- entry: 1233284114
+  orgName: Team Rynkeby
+  orgNumber: 802534-5938
+  comment: Göteborg, Tunge skola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1233284122
+  orgName: Team Rynkeby
+  orgNumber: 802532-9916
+  comment: Malmö, Karstorpskolan Norra
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1233284577
   orgName: Överkalix Kommun
   orgNumber: 212000-2684
@@ -28114,8 +28144,8 @@ entries:
 
 - entry: 1233377033
   orgName: Team Rynkeby
-  orgNumber: 802533-7786
-  comment: Lund, Backaskolan
+  orgNumber: 802534-5938
+  comment: Göteborg, Ellen Keyskolan
   categories:
   - cancerforskning
   - forskning
@@ -28135,7 +28165,7 @@ entries:
 - entry: 1233377298
   orgName: Team Rynkeby
   orgNumber: 802532-7506
-  comment: Helsingborg, Vikens Montessori
+  comment: Helsingborg, Vikens Montessoriskola
   categories:
   - cancerforskning
   - forskning
@@ -28329,7 +28359,7 @@ entries:
 - entry: 1233387727
   orgName: Team Rynkeby
   orgNumber: 802535-4211
-  comment: Kalmar, Tjelvarskolan
+  comment: Kalmar län, Tjelvarskolan
   categories:
   - cancerforskning
   - forskning
@@ -28340,6 +28370,16 @@ entries:
   orgName: Team Rynkeby
   orgNumber: 802533-7786
   comment: Lund, Alfredshällskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1233387743
+  orgName: Team Rynkeby
+  orgNumber: 802532-9916
+  comment: Malmö, Västervångskolan
   categories:
   - cancerforskning
   - forskning
@@ -28588,6 +28628,16 @@ entries:
   - stiftelse
   web: http://kurdlib.org/
 
+- entry: 1233435518
+  orgName: Team Rynkeby
+  orgNumber: 802534-5466
+  comment: Täby, Stallets skola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1233440518
   orgName: Narva BK
   orgNumber: 802406-2153
@@ -28835,10 +28885,30 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1233462165
+  orgName: Team Rynkeby
+  orgNumber: 802533-3421
+  comment: Linköping, MTU Gymnasiet
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1233462173
   orgName: Team Rynkeby
-  orgNumber: 802533-7786
-  comment: Lund, Rutsborgskolan
+  orgNumber: 802532-9916
+  comment: Malmö, Rutsborgskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1233462181
+  orgName: Team Rynkeby
+  orgNumber: 802532-7506
+  comment: Helsingborg, Corpore Byskola
   categories:
   - cancerforskning
   - forskning
@@ -29749,6 +29819,16 @@ entries:
   - hundklubb
   web: http://www.bohuslandalstaxklubb.se/
 
+- entry: 1233569167
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, NORDMARKENS SKOLE 7-9
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1233569241
   orgName: Gotlands Russtrav Klubb
   orgNumber: 802413-3525
@@ -30112,7 +30192,7 @@ entries:
 - entry: 1233615820
   orgName: Team Rynkeby
   orgNumber: 802532-8033
-  comment: Värmland, Södra Råtorps skola
+  comment: Värmland, Södra Råtorpskolan
   categories:
   - cancerforskning
   - forskning
@@ -30500,8 +30580,28 @@ entries:
 
 - entry: 1233664828
   orgName: Team Rynkeby
-  orgNumber: 802532-8033
-  comment: Värmland, Fredriksbergsskolan
+  orgNumber: 802533-3421
+  comment: Linköping, Fredrikssbergskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1233664836
+  orgName: Team Rynkeby
+  orgNumber: 802532-9916
+  comment: Malmö, Hindby Dibber
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1233664885
+  orgName: Team Rynkeby
+  orgNumber: 802533-3421
+  comment: Linköping, Björnkärrsskolan
   categories:
   - cancerforskning
   - forskning
@@ -30515,6 +30615,16 @@ entries:
   categories:
   - fäktklubb
   web: https://www.goteborgsfk.se/
+
+- entry: 1233664984
+  orgName: Team Rynkeby
+  orgNumber: 802532-9916
+  comment: Malmö, Äpplegården förskola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1233665635
   orgName: Kronogård Nord AB
@@ -30550,6 +30660,16 @@ entries:
   comment: null
   categories: null
   web: null
+
+- entry: 1233677184
+  orgName: Team Rynkeby
+  orgNumber: 802534-5466
+  comment: Täby, Tegelhagens skola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1233678505
   orgName: Brottsofferjouren Stockholm - Gotland
@@ -30904,10 +31024,30 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/hogsrums-hembygdsforening
 
+- entry: 1233742301
+  orgName: Team Rynkeby
+  orgNumber: 802532-9916
+  comment: Malmö, Framtidskompassen Vellinge
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1233742541
   orgName: Team Rynkeby
   orgNumber: 802532-8033
   comment: Värmland, Fredricelundskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1233742624
+  orgName: Team Rynkeby
+  orgNumber: 802532-9916
+  comment: Malmö, Trollets Förskola
   categories:
   - cancerforskning
   - forskning
@@ -31331,6 +31471,16 @@ entries:
   - vattenvård
   web: https://www.kottsjon.se/
 
+- entry: 1233813334
+  orgName: Team Rynkeby
+  orgNumber: 802534-5466
+  comment: Täby, Hjulsta Grundskola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1233815206
   orgName: Sundsjö Idrottsförening
   orgNumber: 892600-3396
@@ -31341,8 +31491,8 @@ entries:
 
 - entry: 1233817673
   orgName: Team Rynkeby
-  orgNumber: 802533-7786
-  comment: Lund, Alléskolan
+  orgNumber: 802532-9916
+  comment: Malmö, Alléskolan
   categories:
   - cancerforskning
   - forskning
@@ -31352,7 +31502,7 @@ entries:
 - entry: 1233817715
   orgName: Team Rynkeby
   orgNumber: 802535-9137
-  comment: Kristianstad, Thorén Framtid
+  comment: Kristianstad, Thorenframtid
   categories:
   - cancerforskning
   - forskning
@@ -31487,6 +31637,16 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/vadsbro-blacksta-hembygdsforening
 
+- entry: 1233840667
+  orgName: Team Rynkeby
+  orgNumber: 802533-7869
+  comment: Stockholm, Kungsholmens grundskola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1233848736
   orgName: Mrs Skager Coaching / CCG sports AB
   orgNumber: 556809-4980
@@ -31591,6 +31751,16 @@ entries:
   - intresseförening
   web: https://arkitekturensvanner.se/
 
+- entry: 1233860459
+  orgName: Team Rynkeby
+  orgNumber: 802537-0241
+  comment: Sjuhärad, Kerstingårdskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1233860632
   orgName: Team Rynkeby
   orgNumber: 802534-5938
@@ -31635,6 +31805,16 @@ entries:
   - fotograf
   - porträttfotografi
   web: https://www.smfotografi.se/
+
+- entry: 1233862984
+  orgName: Team Rynkeby
+  orgNumber: 802533-3421
+  comment: Linköping, Adelövs Friskola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1233864311
   orgName: Långaryds Hembygdsförening
@@ -31708,8 +31888,8 @@ entries:
 
 - entry: 1233879509
   orgName: Team Rynkeby
-  orgNumber: 802533-7786
-  comment: Lund, Fäladsskolan
+  orgNumber: 802532-9916
+  comment: Malmö, Fäladsskolan
   categories:
   - cancerforskning
   - forskning
@@ -32620,6 +32800,16 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1233964707
+  orgName: Team Rynkeby
+  orgNumber: 802534-5938
+  comment: Göteborg, Alboskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1233969219
   orgName: Dominicaines de Sainte Marie des Tourelles
   orgNumber: 252002-8420
@@ -32797,6 +32987,16 @@ entries:
   categories:
   - kvinnojour
   web: https://www.unizonjourer.se/tjejjourenrut/
+
+- entry: 1233998440
+  orgName: Team Rynkeby
+  orgNumber: 802532-9916
+  comment: Malmö, Herrestorpskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1233998457
   orgName: Team Rynkeby
@@ -33156,6 +33356,16 @@ entries:
   - sång
   web: https://www.lidija.se/
 
+- entry: 1234048070
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, Innovitaskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1234048922
   orgName: Bohusläns Hembygdsförbund
   orgNumber: 958500-1622
@@ -33171,6 +33381,16 @@ entries:
   categories:
   - youtuber
   web: https://www.youtube.com/@KammiRosenskjold
+
+- entry: 1234051637
+  orgName: Team Rynkeby
+  orgNumber: 802532-7506
+  comment: Helsingborg, Dibber International School Helsingborg
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1234054060
   orgName: Team Rynkeby
@@ -33461,6 +33681,16 @@ entries:
   - hundklubb
   web: https://www.ehdk.se/
 
+- entry: 1234113775
+  orgName: Team Rynkeby
+  orgNumber: 802532-7506
+  comment: Helsingborg, Villanskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1234116364
   orgName: Aga BTK - Bordtennis
   orgNumber: 875700-7995
@@ -33599,8 +33829,8 @@ entries:
 
 - entry: 1234129698
   orgName: Team Rynkeby
-  orgNumber: 802533-7778
-  comment: Dalarna, Bjäkenbackens skola
+  orgNumber: 802532-8033
+  comment: Värmland, Bjäkenbackens skola
   categories:
   - cancerforskning
   - forskning
@@ -33808,6 +34038,16 @@ entries:
   - religion
   - stiftelse
   web: https://www.dynamisworldministries.com/swedish-svenska
+
+- entry: 1234177697
+  orgName: Team Rynkeby
+  orgNumber: 802533-3421
+  comment: Linköping, Vrinneviskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1234181277
   orgName: Undersåkers Hembygdsförening
@@ -34678,6 +34918,16 @@ entries:
   - hunduppfödning
   web: http://www.schipperkeringen.se/
 
+- entry: 1234281499
+  orgName: Team Rynkeby
+  orgNumber: 802532-9916
+  comment: Malmö, Pusselbitens skola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1234291308
   orgName: Skolbal Håbo 2020
   orgNumber: null
@@ -34826,6 +35076,16 @@ entries:
   - donation
   web: https://swebbtube.se/
 
+- entry: 1234311874
+  orgName: Team Rynkeby
+  orgNumber: 802535-9137
+  comment: Kristianstad, Parkskolan Osby
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1234311890
   orgName: Johanniterhjälpen Ukraina
   orgNumber: 802422-9620
@@ -34950,6 +35210,16 @@ entries:
   - utbildningsstöd
   web: https://larargalan.se/
 
+- entry: 1234341046
+  orgName: Team Rynkeby
+  orgNumber: 802532-7506
+  comment: Helsingborg, Rydebäcksskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1234344040
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -34998,6 +35268,16 @@ entries:
   orgName: Team Rynkeby
   orgNumber: 802533-7653
   comment: Jönköping, Örserumsskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1234350708
+  orgName: Team Rynkeby
+  orgNumber: 802533-7869
+  comment: Stockholm, Närlundaskolan
   categories:
   - cancerforskning
   - forskning
@@ -35218,6 +35498,16 @@ entries:
   orgName: Team Rynkeby
   orgNumber: 802534-5938
   comment: Göteborg, Hultskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1234384566
+  orgName: Team Rynkeby
+  orgNumber: 802534-5938
+  comment: Göteborg, Parkskolan Göteborg
   categories:
   - cancerforskning
   - forskning
@@ -35523,6 +35813,16 @@ entries:
   orgName: Team Rynkeby
   orgNumber: 802534-5466
   comment: Täby, Lundaskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1234412177
+  orgName: Team Rynkeby
+  orgNumber: 802532-9916
+  comment: Malmö, Fågelskolan
   categories:
   - cancerforskning
   - forskning
@@ -36097,6 +36397,16 @@ entries:
   orgName: Team Rynkeby
   orgNumber: 802533-7653
   comment: Jönköping, Bränningeskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1234495750
+  orgName: Team Rynkeby
+  orgNumber: 802537-0241
+  comment: Sjuhärad, Myråsskolan
   categories:
   - cancerforskning
   - forskning
@@ -36736,6 +37046,26 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1234579769
+  orgName: Team Rynkeby
+  orgNumber: 802537-0241
+  comment: Sjuhärad, Bergdalskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1234579801
+  orgName: Team Rynkeby
+  orgNumber: 802532-7506
+  comment: Helsingborg, Kungsfiskareskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1234579900
   orgName: Mörsils Hembygdsförening
   orgNumber: 892000-4762
@@ -36965,8 +37295,8 @@ entries:
 
 - entry: 1234605176
   orgName: Team Rynkeby
-  orgNumber: 802533-7653
-  comment: Jönköping, Hagenskolan
+  orgNumber: 802534-5466
+  comment: Täby, Hagaskolan
   categories:
   - cancerforskning
   - forskning
@@ -37699,6 +38029,26 @@ entries:
   - tidsskrifter
   web: https://plaza.se/
 
+- entry: 1234721825
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, Väseskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1234721833
+  orgName: Team Rynkeby
+  orgNumber: 802537-0241
+  comment: Sjuhärad, Sjöboskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1234729968
   orgName: Visby Domkyrkoförsamling
   orgNumber: 252000-8083
@@ -38272,6 +38622,16 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1234844783
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, Stodeneskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1234844981
   orgName: Team Rynkeby
   orgNumber: 802535-9137
@@ -38443,6 +38803,26 @@ entries:
   - intresseförening
   web: https://sites.google.com/view/tjolman/
 
+- entry: 1234902805
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, Värmskogs friskola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1234902813
+  orgName: Team Rynkeby
+  orgNumber: 802533-3421
+  comment: Linköping, Björkviks skola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1234910147
   orgName: Leksands Konstsällskap
   orgNumber: 883201-7688
@@ -38463,8 +38843,8 @@ entries:
 
 - entry: 1234914420
   orgName: Team Rynkeby
-  orgNumber: 802537-0241
-  comment: Sjuhärad, Vistaholms Föraldrakooperativ
+  orgNumber: 802533-7869
+  comment: Stockholm, Jarlabergsskola
   categories:
   - cancerforskning
   - forskning
@@ -38549,6 +38929,16 @@ entries:
   categories:
   - golfklubb
   web: https://www.karlstadgk.se/
+
+- entry: 1234934337
+  orgName: Team Rynkeby
+  orgNumber: 802532-7506
+  comment: Helsingborg, Laröd skola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1234935292
   orgName: Boksjö Bygdegårdsförening
@@ -38859,7 +39249,27 @@ entries:
 - entry: 1234965042
   orgName: Team Rynkeby
   orgNumber: 802535-9137
-  comment: Kristianstad, Park skolan
+  comment: Kristianstad, Parkskolan 7-9 NB
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1234965059
+  orgName: Team Rynkeby
+  orgNumber: 802534-5938
+  comment: Göteborg, Soldatängens förskola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1234965190
+  orgName: Team Rynkeby
+  orgNumber: 802534-5466
+  comment: Täby, Rydbo skola
   categories:
   - cancerforskning
   - forskning
@@ -38941,6 +39351,16 @@ entries:
   - konferens
   - turridning
   web: https://www.hastakeriet.se/
+
+- entry: 1234975124
+  orgName: Team Rynkeby
+  orgNumber: 802533-7869
+  comment: Stockholm, Klastorpsskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1234975140
   orgName: Team Rynkeby
@@ -39168,6 +39588,16 @@ entries:
   - släktforskning
   web: https://www.slaktdata.org/
 
+- entry: 1235000146
+  orgName: Team Rynkeby
+  orgNumber: 802537-0241
+  comment: Sjuhärad, Tummarpskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1235000153
   orgName: Team Rynkeby
   orgNumber: 802532-7506
@@ -39277,6 +39707,16 @@ entries:
   - förening
   - kulturförening
   web: http://www.noerhtenaestie.com/
+
+- entry: 1235015177
+  orgName: Team Rynkeby
+  orgNumber: 802532-7506
+  comment: Helsingborg, Kvidinge skola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1235016159
   orgName: Föreningen Träibatn
@@ -39636,6 +40076,16 @@ entries:
   - hästsport
   - western riding
   web: https://wras.horse/
+
+- entry: 1235078522
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, Hagaborgsskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1235079751
   orgName: Tågarps Trädgård
@@ -41106,6 +41556,16 @@ entries:
   - schacksällskap
   web: https://lass.no-ip.com/
 
+- entry: 1235220173
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, Sundsta- Ällvkullegymnasiet
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1235229760
   orgName: Röda Korset Landskrona
   orgNumber: 844000-3542
@@ -41269,6 +41729,16 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegardarna.se/soderala/
+
+- entry: 1235258314
+  orgName: Team Rynkeby
+  orgNumber: 802534-5466
+  comment: Täby, Orminge skola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1235261805
   orgName: EFS Missionsförening i Sävar
@@ -41573,6 +42043,16 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1235285416
+  orgName: Team Rynkeby
+  orgNumber: 802533-7869
+  comment: Stockholm, Essingeskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1235288014
   orgName: Gittan Crafoords Insamlingsstiftelse
   orgNumber: 802477-8519
@@ -41850,10 +42330,30 @@ entries:
   - trafikskola
   web: https://www.sjolinlantz.se/
 
+- entry: 1235331103
+  orgName: Team Rynkeby
+  orgNumber: 802537-0241
+  comment: Sjuhärad, Byttorpskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1235331129
+  orgName: Team Rynkeby
+  orgNumber: 802532-7506
+  comment: Helsingborg, Kubikskolan Dibber
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1235331137
   orgName: Team Rynkeby
-  orgNumber: 802533-7786
-  comment: Lund, Bjärehovsskolan
+  orgNumber: 802533-7869
+  comment: Stockholm, Kristinebergsskolan
   categories:
   - cancerforskning
   - forskning
@@ -42655,7 +43155,17 @@ entries:
 - entry: 1235422340
   orgName: Team Rynkeby
   orgNumber: 802533-7869
-  comment: Stockholm, Kunskapsskolan Saltsjöbaden
+  comment: Stockholm, Saltsjöbaden
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1235422399
+  orgName: Team Rynkeby
+  orgNumber: 802534-5938
+  comment: Göteborg, Lundensskolan
   categories:
   - cancerforskning
   - forskning
@@ -42666,6 +43176,16 @@ entries:
   orgName: Team Rynkeby
   orgNumber: 802539-3649
   comment: Halland, Östergårdsskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1235422514
+  orgName: Team Rynkeby
+  orgNumber: 802532-7506
+  comment: Helsingborg, Holstagårdsskolan
   categories:
   - cancerforskning
   - forskning
@@ -43163,6 +43683,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/sodraoland
+
+- entry: 1235489216
+  orgName: Team Rynkeby
+  orgNumber: 802533-7869
+  comment: Stockholm, Eiraskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1235490180
   orgName: null
@@ -44896,6 +45426,16 @@ entries:
   - hälsa
   web: https://www.susedalenshalsocenter.com/
 
+- entry: 1235709902
+  orgName: Team Rynkeby
+  orgNumber: 802534-5938
+  comment: Göteborg, Friskolan Kvarnhjulet
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1235714795
   orgName: Stiftelsen Skota Hem
   orgNumber: 802013-2521
@@ -45789,10 +46329,20 @@ entries:
   - kampsportsförening
   web: https://www.hiltibjj.com/
 
+- entry: 1235842307
+  orgName: Team Rynkeby
+  orgNumber: 802539-3649
+  comment: Halland, Haga skolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1235842505
   orgName: Team Rynkeby
-  orgNumber: 802534-5938
-  comment: Göteborg, Fenestra Billdal
+  orgNumber: 802532-8033
+  comment: Värmland, Tolita Skolan
   categories:
   - cancerforskning
   - forskning
@@ -45802,7 +46352,7 @@ entries:
 - entry: 1235842695
   orgName: Team Rynkeby
   orgNumber: 802532-9262
-  comment: Växjö, Friskolan Kronobergshed
+  comment: Växjö, Kronobergshed
   categories:
   - cancerforskning
   - forskning
@@ -45887,8 +46437,8 @@ entries:
 
 - entry: 1235854039
   orgName: Team Rynkeby
-  orgNumber: 802533-7653
-  comment: Jönköping, Åker skolan
+  orgNumber: 802532-9916
+  comment: Malmö, Vollsjö skola
   categories:
   - cancerforskning
   - forskning
@@ -46031,6 +46581,16 @@ entries:
   categories:
   - religion
   web: https://ansgariikyrkan.se/
+
+- entry: 1235876008
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, Nordmarken F-6
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
 
 - entry: 1235881057
   orgName: EFS Missionsförening i Sävar
@@ -48607,6 +49167,16 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1236246375
+  orgName: Team Rynkeby
+  orgNumber: 802532-7506
+  comment: Helsingborg, S:t Jörgens skola
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1236246730
   orgName: Team Rynkeby
   orgNumber: 802533-7778
@@ -48830,7 +49400,7 @@ entries:
 - entry: 1236274179
   orgName: Team Rynkeby
   orgNumber: 802532-9916
-  comment: Malmö, Djupadalsskolan
+  comment: Malmö, Djupadalskolan
   categories:
   - cancerforskning
   - forskning
@@ -48851,6 +49421,16 @@ entries:
   orgName: Team Rynkeby
   orgNumber: 802535-9137
   comment: Kristianstad, Dalaskolan Norra
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1236274336
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, Töcksfors skola
   categories:
   - cancerforskning
   - forskning
@@ -50503,6 +51083,16 @@ entries:
   - scoutkår
   web: https://dosjebro.scout.se/
 
+- entry: 1236506562
+  orgName: Team Rynkeby
+  orgNumber: 802533-7869
+  comment: Stockholm, Hagaskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1236507032
   orgName: Rotary Simrishamn
   orgNumber: 642384-1888
@@ -51541,7 +52131,7 @@ entries:
 - entry: 1236684070
   orgName: Team Rynkeby
   orgNumber: 802533-7653
-  comment: Jönköping, Sörgardsskolan
+  comment: Jönköping, Sörgårdsskolan
   categories:
   - cancerforskning
   - forskning
@@ -52112,6 +52702,26 @@ entries:
   - patientförening
   web: https://www.hjart-lung.se/lycksele/
 
+- entry: 1236753214
+  orgName: Team Rynkeby
+  orgNumber: 802532-9262
+  comment: Växjö, Lillestadskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1236753230
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, Gateskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1236754048
   orgName: null
   orgNumber: null
@@ -52137,8 +52747,8 @@ entries:
 
 - entry: 1236757918
   orgName: Team Rynkeby
-  orgNumber: 802532-7506
-  comment: Helsingborg, Toftaskolan
+  orgNumber: 802533-3421
+  comment: Linköping, Vallastadens skola
   categories:
   - cancerforskning
   - forskning
@@ -52306,6 +52916,26 @@ entries:
   - musikkultur
   web: https://www.christinanilssonsallskapet.se/
 
+- entry: 1236776587
+  orgName: Team Rynkeby
+  orgNumber: 802532-8033
+  comment: Värmland, Fredricelundsskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1236776595
+  orgName: Team Rynkeby
+  orgNumber: 802533-7794
+  comment: Skaraborg, Lundenskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
 - entry: 1236776884
   orgName: CTA Import & Service
   orgNumber: 530407-1110
@@ -52420,6 +53050,16 @@ entries:
   orgName: Team Rynkeby
   orgNumber: 802539-3649
   comment: Halland, Bäckagårdsskolan
+  categories:
+  - cancerforskning
+  - forskning
+  - hjärnforskning
+  web: https://www.team-rynkeby.se/
+
+- entry: 1236784490
+  orgName: Team Rynkeby
+  orgNumber: 802532-9262
+  comment: Växjö, Örtagårdens skola
   categories:
   - cancerforskning
   - forskning
