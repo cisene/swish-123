@@ -10050,6 +10050,15 @@ entries:
   - ridskola
   web: https://www.djrs.se/
 
+- entry: 1231149392
+  orgName: Ullareds Brukshundklubb
+  orgNumber: 849000-9548
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://www.ullaredsbk.se/
+
 - entry: 1231149442
   orgName: Lerums Fotoklubb
   orgNumber: 802440-7507
@@ -22455,6 +22464,7 @@ entries:
   orgNumber: 828000-9716
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.lannagk.se/
 
@@ -24395,6 +24405,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/faringso
+
+- entry: 1232828580
+  orgName: Polisens Pensionärsklubb i Umeå
+  orgNumber: 802453-3500
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: http://www.umepolisseniorer.se/
 
 - entry: 1232829588
   orgName: Löberöds Hembygdsförening
@@ -30544,6 +30562,15 @@ entries:
   - kläder
   web: https://www.hepcat.se/
 
+- entry: 1233646445
+  orgName: Boro Vetlanda HC
+  orgNumber: 827500-4961
+  comment: null
+  categories:
+  - hockeyklubb
+  - idrottsförening
+  web: https://www.borovhc.se/
+
 - entry: 1233647039
   orgName: Kjula Dragway Ekonomisk förening
   orgNumber: 769636-9524
@@ -31740,6 +31767,7 @@ entries:
   categories:
   - ridklubb
   - ridsport
+  - ryttarsällskap
   web: https://www.vrs.se/
 
 - entry: 1233850666
@@ -34191,6 +34219,16 @@ entries:
   categories:
   - religion
   web: https://www.adventist.se/
+
+- entry: 1234194163
+  orgName: Bröstcancerföreningen Blekinge
+  orgNumber: 835000-5784
+  comment: null
+  categories:
+  - bröstcancer
+  - donation
+  - förening
+  web: https://blekinge.brostcancerforbundet.se/
 
 - entry: 1234194213
   orgName: Gödestads Hembygdsförening
@@ -48826,6 +48864,15 @@ entries:
   - lionsklubb
   web: https://e-clubhouse.org/sites/ljugarn/
 
+- entry: 1236178990
+  orgName: Örebro Jazz & Beyond
+  orgNumber: 875001-9476
+  comment: null
+  categories:
+  - jazzclub
+  - musikkultur
+  web: https://www.orebrojazz.com/
+
 - entry: 1236179543
   orgName: Smålandsstenar Brukshundklubb
   orgNumber: 828500-3581
@@ -50865,6 +50912,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/hacksvik
+
+- entry: 1236456487
+  orgName: Trosa Båtklubb
+  orgNumber: 819001-3931
+  comment: null
+  categories:
+  - båtklubb
+  web: https://trosabatklubb.se/
 
 - entry: 1236457972
   orgName: Vessige-Alfshögs Hembygdsförening
@@ -60959,6 +61014,16 @@ entries:
   - insamlingskontroll
   - stiftelse
   web: https://www.demensfonden.se/
+
+- entry: 1239008616
+  orgName: World Children Need
+  orgNumber: 802472-8910
+  comment: null
+  categories:
+  - donation
+  - hjälporganisation
+  - insamlingskontroll
+  web: https://worldchildrenneed.org/
 
 - entry: 1239008780
   orgName: Östergötlands Stadsmission

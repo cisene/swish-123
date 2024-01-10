@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-10-rev-143157",
+    "date": "2024-01-10-rev-150111",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -11161,6 +11161,16 @@
         "ridskola"
       ],
       "web": "https://www.djrs.se/"
+    },
+    {
+      "entry": 1231149392,
+      "orgNumber": "849000-9548",
+      "orgName": "Ullareds Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.ullaredsbk.se/"
     },
     {
       "entry": 1231149442,
@@ -25051,6 +25061,7 @@
       "orgNumber": "828000-9716",
       "orgName": "Lanna Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.lannagk.se/"
@@ -27239,6 +27250,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/faringso"
+    },
+    {
+      "entry": 1232828580,
+      "orgNumber": "802453-3500",
+      "orgName": "Polisens Pension\u00e4rsklubb i Ume\u00e5",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "http://www.umepolisseniorer.se/"
     },
     {
       "entry": 1232829588,
@@ -34089,6 +34109,16 @@
       "web": "https://www.hepcat.se/"
     },
     {
+      "entry": 1233646445,
+      "orgNumber": "827500-4961",
+      "orgName": "Boro Vetlanda HC",
+      "categories": [
+        "hockeyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.borovhc.se/"
+    },
+    {
       "entry": 1233647039,
       "orgNumber": "769636-9524",
       "orgName": "Kjula Dragway Ekonomisk f\u00f6rening",
@@ -35417,7 +35447,8 @@
       "orgName": "V\u00e4ster\u00e5s RS - Ridsport",
       "categories": [
         "ridklubb",
-        "ridsport"
+        "ridsport",
+        "ryttars\u00e4llskap"
       ],
       "web": "https://www.vrs.se/"
     },
@@ -38150,6 +38181,17 @@
         "religion"
       ],
       "web": "https://www.adventist.se/"
+    },
+    {
+      "entry": 1234194163,
+      "orgNumber": "835000-5784",
+      "orgName": "Br\u00f6stcancerf\u00f6reningen Blekinge",
+      "categories": [
+        "br\u00f6stcancer",
+        "donation",
+        "f\u00f6rening"
+      ],
+      "web": "https://blekinge.brostcancerforbundet.se/"
     },
     {
       "entry": 1234194213,
@@ -54506,6 +54548,16 @@
       "web": "https://e-clubhouse.org/sites/ljugarn/"
     },
     {
+      "entry": 1236178990,
+      "orgNumber": "875001-9476",
+      "orgName": "\u00d6rebro Jazz & Beyond",
+      "categories": [
+        "jazzclub",
+        "musikkultur"
+      ],
+      "web": "https://www.orebrojazz.com/"
+    },
+    {
       "entry": 1236179543,
       "orgNumber": "828500-3581",
       "orgName": "Sm\u00e5landsstenar Brukshundklubb",
@@ -56792,6 +56844,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/hacksvik"
+    },
+    {
+      "entry": 1236456487,
+      "orgNumber": "819001-3931",
+      "orgName": "Trosa B\u00e5tklubb",
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "https://trosabatklubb.se/"
     },
     {
       "entry": 1236457972,
@@ -64460,6 +64521,17 @@
         "stiftelse"
       ],
       "web": "https://www.demensfonden.se/"
+    },
+    {
+      "entry": 1239008616,
+      "orgNumber": "802472-8910",
+      "orgName": "World Children Need",
+      "categories": [
+        "donation",
+        "hj\u00e4lporganisation",
+        "insamlingskontroll"
+      ],
+      "web": "https://worldchildrenneed.org/"
     },
     {
       "entry": 1239008780,
