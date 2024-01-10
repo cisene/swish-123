@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-08-rev-135210",
+    "date": "2024-01-10-rev-143157",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -10172,6 +10172,16 @@
       "web": "https://www.hembygd.se/barva"
     },
     {
+      "entry": 1231035971,
+      "orgNumber": "559445-1527",
+      "orgName": "Cecilia Tolone / Tolone Studios AB",
+      "categories": [
+        "donation",
+        "influencer"
+      ],
+      "web": "https://ceciliatolone.com/"
+    },
+    {
       "entry": 1231038512,
       "orgNumber": "802008-1439",
       "orgName": "Lysestrandsstiftelsen",
@@ -10251,6 +10261,7 @@
       "orgNumber": "814400-0042",
       "orgName": "Axel, Julia och Torsten Nordstr\u00f6ms Stiftelse",
       "categories": [
+        "museum",
         "stiftelse"
       ],
       "web": "http://www.nordstromsmuseum.se/"
@@ -14054,6 +14065,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/fruangen/"
+    },
+    {
+      "entry": 1231437219,
+      "orgNumber": "212000-1561",
+      "orgName": "Bor\u00e5s Museum med textilmuseet / Bor\u00e5s Kommun",
+      "categories": [
+        "kommun",
+        "museum"
+      ],
+      "web": "https://textilmuseet.se/"
     },
     {
       "entry": 1231438100,
@@ -18086,7 +18107,8 @@
       "orgNumber": "813600-0349",
       "orgName": "Liding\u00f6 Hembygdsf\u00f6rening",
       "categories": [
-        "hembygdsf\u00f6rening"
+        "hembygdsf\u00f6rening",
+        "museum"
       ],
       "web": "https://www.lidingohembygd.se/"
     },
@@ -22375,6 +22397,16 @@
       "web": "http://www.leksandtifocrew.com/"
     },
     {
+      "entry": 1232287456,
+      "orgNumber": "866600-4810",
+      "orgName": "Binnebergs Tingshus Stiftelsen",
+      "categories": [
+        "museum",
+        "stiftelse"
+      ],
+      "web": "https://binneberg.se/"
+    },
+    {
       "entry": 1232288009,
       "orgNumber": "802437-2263",
       "orgName": "Visby BBK - Basket",
@@ -22679,6 +22711,27 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://hejnum.se/"
+    },
+    {
+      "entry": 1232308914,
+      "orgNumber": "978500-2719",
+      "orgName": "Hembygdsf\u00f6reningen Arboga Minne",
+      "comment": "Arboga Museum",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://arbogamuseum.se/"
+    },
+    {
+      "entry": 1232308930,
+      "orgNumber": "978500-2719",
+      "orgName": "Hembygdsf\u00f6reningen Arboga Minne",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://arbogamuseum.se/"
     },
     {
       "entry": 1232309730,
@@ -31100,7 +31153,8 @@
       "orgNumber": "802526-8965",
       "orgName": "Trosabygdens Konstf\u00f6rening",
       "categories": [
-        "konstf\u00f6rening"
+        "konstf\u00f6rening",
+        "museum"
       ],
       "web": "https://trosabygdens.konstforeningar.se/"
     },
@@ -32708,6 +32762,17 @@
       "web": "http://mfuppsala.se/mifu/"
     },
     {
+      "entry": 1233511219,
+      "orgNumber": "802524-2499",
+      "orgName": "St\u00f6df\u00f6reningen f\u00f6r L\u00f6d\u00f6se Museum",
+      "categories": [
+        "kulturf\u00f6rening",
+        "museum",
+        "st\u00f6df\u00f6rening"
+      ],
+      "web": "https://lodosemuseumstodforening.se/"
+    },
+    {
       "entry": 1233511276,
       "orgNumber": "559054-3400",
       "orgName": "V\u00e4ster Konsult & Etreprenad Teknik AB",
@@ -34060,6 +34125,16 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://hjarnkoll.se/"
+    },
+    {
+      "entry": 1233651825,
+      "orgNumber": "855900-9272",
+      "orgName": "Pater Nosters V\u00e4nner",
+      "categories": [
+        "kulturf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://paternoster-fyren.com/"
     },
     {
       "entry": 1233651965,
@@ -40412,6 +40487,16 @@
       "web": "https://www.bokenasif.com/"
     },
     {
+      "entry": 1234478244,
+      "orgNumber": "837000-5921",
+      "orgName": "Bj\u00e4rnums Museum / Bj\u00e4rnums Hembygdssf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://bjmmuseum.se/"
+    },
+    {
       "entry": 1234479754,
       "orgNumber": "865000-1004",
       "orgName": "F\u00f6retagarna Svenljunga & Tranemo",
@@ -40545,7 +40630,8 @@
       "orgNumber": "899100-1531",
       "orgName": "Arvidsjaurs Hembygdsf\u00f6rening",
       "categories": [
-        "hembygdsf\u00f6rening"
+        "hembygdsf\u00f6rening",
+        "museum"
       ],
       "web": "https://www.hembygdarvidsjaur.se/"
     },
@@ -42781,6 +42867,16 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenlinneorna"
+    },
+    {
+      "entry": 1234796702,
+      "orgNumber": "559350-7535",
+      "orgName": "LS Tatueringar / Creamstyles AB",
+      "categories": [
+        "kroppssmyckning",
+        "tatuering"
+      ],
+      "web": "https://www.facebook.com/lstatueringar/"
     },
     {
       "entry": 1234803334,
@@ -48960,6 +49056,15 @@
       "web": "https://kinna.pingst.se/"
     },
     {
+      "entry": 1235516158,
+      "orgNumber": "802497-7236",
+      "orgName": "Sveriges VVS-Museum",
+      "categories": [
+        "museum"
+      ],
+      "web": "https://www.sverigesvvsmuseum.se/"
+    },
+    {
       "entry": 1235516430,
       "orgNumber": "715200-0431",
       "orgName": "\u00d6lsta Folketshus & park",
@@ -50668,6 +50773,16 @@
       "web": "https://sadelmakarna.com/"
     },
     {
+      "entry": 1235704010,
+      "orgNumber": "802420-9390",
+      "orgName": "Rytterne Hembygdsf\u00f6rening",
+      "comment": "Rytterneg\u00e5rden",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.rytternegarden.se/"
+    },
+    {
       "entry": 1235704168,
       "orgNumber": "822000-3811",
       "orgName": "Sionf\u00f6rsamlingen i Link\u00f6ping",
@@ -50732,6 +50847,17 @@
         "tennisklubb"
       ],
       "web": "https://www.fiskebackskilstennis.se/"
+    },
+    {
+      "entry": 1235705595,
+      "orgNumber": "892000-4382",
+      "orgName": "Ytter\u00e5ns Hembygdsf\u00f6rening",
+      "comment": "Mus-Olles Museum",
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "museum"
+      ],
+      "web": "http://www.musolles.com/"
     },
     {
       "entry": 1235706478,
@@ -53944,6 +54070,15 @@
         "hundsport"
       ],
       "web": "https://snkinfo.wordpress.com/"
+    },
+    {
+      "entry": 1236128599,
+      "orgNumber": "802528-3881",
+      "orgName": "Svenska Fyrverkerimuseet",
+      "categories": [
+        "museum"
+      ],
+      "web": "https://fyrverkerimuseet.se/"
     },
     {
       "entry": 1236133003,
@@ -57264,6 +57399,18 @@
       "web": "https://www.kopparbergsbk.se/"
     },
     {
+      "entry": 1236516496,
+      "orgNumber": "894002-6944",
+      "orgName": "V\u00e4nn\u00e4s Motormuseum",
+      "categories": [
+        "kulturhistoria",
+        "motorsport",
+        "museum",
+        "veteranfordon"
+      ],
+      "web": "https://www.vannasmotormuseum.se/"
+    },
+    {
       "entry": 1236516736,
       "orgNumber": "969745-9015",
       "orgName": "Postbox24 Entreprenad Handelsbolag",
@@ -58985,6 +59132,16 @@
       "web": "https://www.hembygd.se/gillberga-lista"
     },
     {
+      "entry": 1236763718,
+      "orgNumber": "898801-0834",
+      "orgName": "Torrbergstj\u00e4rn / Sjuln\u00e4s Fiskev\u00e5rdsf\u00f6rening",
+      "categories": [
+        "fiskev\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.torrbergstjarn.se/"
+    },
+    {
       "entry": 1236764203,
       "orgNumber": "802502-0671",
       "orgName": "F\u00f6reningen Hj\u00e4lp Utsatta Katter f\u00e5 Hem",
@@ -60302,7 +60459,8 @@
       "orgNumber": "843000-1837",
       "orgName": "Helsingborgs Konstf\u00f6rening",
       "categories": [
-        "konstf\u00f6rening"
+        "konstf\u00f6rening",
+        "museum"
       ],
       "web": "http://helsingborgskonstforening.se/"
     },

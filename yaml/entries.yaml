@@ -9145,6 +9145,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/barva
 
+- entry: 1231035971
+  orgName: Cecilia Tolone / Tolone Studios AB
+  orgNumber: 559445-1527
+  comment: null
+  categories:
+  - donation
+  - influencer
+  web: https://ceciliatolone.com/
+
 - entry: 1231038512
   orgName: Lysestrandsstiftelsen
   orgNumber: 802008-1439
@@ -9215,6 +9224,7 @@ entries:
   orgNumber: 814400-0042
   comment: null
   categories:
+  - museum
   - stiftelse
   web: http://www.nordstromsmuseum.se/
 
@@ -12642,6 +12652,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/fruangen/
+
+- entry: 1231437219
+  orgName: Borås Museum med textilmuseet / Borås Kommun
+  orgNumber: 212000-1561
+  comment: null
+  categories:
+  - kommun
+  - museum
+  web: https://textilmuseet.se/
 
 - entry: 1231438100
   orgName: Djurskyddet Västervik
@@ -16239,6 +16258,7 @@ entries:
   comment: null
   categories:
   - hembygdsförening
+  - museum
   web: https://www.lidingohembygd.se/
 
 - entry: 1231814706
@@ -20075,6 +20095,15 @@ entries:
   - supporterklubb
   web: http://www.leksandtifocrew.com/
 
+- entry: 1232287456
+  orgName: Binnebergs Tingshus Stiftelsen
+  orgNumber: 866600-4810
+  comment: null
+  categories:
+  - museum
+  - stiftelse
+  web: https://binneberg.se/
+
 - entry: 1232288009
   orgName: Visby BBK - Basket
   orgNumber: 802437-2263
@@ -20346,6 +20375,24 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://hejnum.se/
+
+- entry: 1232308914
+  orgName: Hembygdsföreningen Arboga Minne
+  orgNumber: 978500-2719
+  comment: Arboga Museum
+  categories:
+  - hembygdsförening
+  - museum
+  web: https://arbogamuseum.se/
+
+- entry: 1232308930
+  orgName: Hembygdsföreningen Arboga Minne
+  orgNumber: 978500-2719
+  comment: null
+  categories:
+  - hembygdsförening
+  - museum
+  web: https://arbogamuseum.se/
 
 - entry: 1232309730
   orgName: Team Rynkeby
@@ -27893,6 +27940,7 @@ entries:
   comment: null
   categories:
   - konstförening
+  - museum
   web: https://trosabygdens.konstforeningar.se/
 
 - entry: 1233349420
@@ -29323,6 +29371,16 @@ entries:
   - idrottsförening
   web: http://mfuppsala.se/mifu/
 
+- entry: 1233511219
+  orgName: Stödföreningen för Lödöse Museum
+  orgNumber: 802524-2499
+  comment: null
+  categories:
+  - kulturförening
+  - museum
+  - stödförening
+  web: https://lodosemuseumstodforening.se/
+
 - entry: 1233511276
   orgName: Väster Konsult & Etreprenad Teknik AB
   orgNumber: 559054-3400
@@ -30519,6 +30577,15 @@ entries:
   - psykisk hälsa
   - riksförbund
   web: https://hjarnkoll.se/
+
+- entry: 1233651825
+  orgName: Pater Nosters Vänner
+  orgNumber: 855900-9272
+  comment: null
+  categories:
+  - kulturförening
+  - museum
+  web: https://paternoster-fyren.com/
 
 - entry: 1233651965
   orgName: Lohärads Hembygdsförening
@@ -36224,6 +36291,15 @@ entries:
   - idrottsförening
   web: https://www.bokenasif.com/
 
+- entry: 1234478244
+  orgName: Bjärnums Museum / Bjärnums Hembygdssförening
+  orgNumber: 837000-5921
+  comment: null
+  categories:
+  - hembygdsförening
+  - museum
+  web: https://bjmmuseum.se/
+
 - entry: 1234479754
   orgName: Företagarna Svenljunga & Tranemo
   orgNumber: 865000-1004
@@ -36345,6 +36421,7 @@ entries:
   comment: null
   categories:
   - hembygdsförening
+  - museum
   web: https://www.hembygdarvidsjaur.se/
 
 - entry: 1234492997
@@ -38323,6 +38400,15 @@ entries:
   categories:
   - kvinnojour
   web: https://www.unizonjourer.se/kvinnojourenlinneorna
+
+- entry: 1234796702
+  orgName: LS Tatueringar / Creamstyles AB
+  orgNumber: 559350-7535
+  comment: null
+  categories:
+  - kroppssmyckning
+  - tatuering
+  web: https://www.facebook.com/lstatueringar/
 
 - entry: 1234803334
   orgName: Frälsningsarmén
@@ -43821,6 +43907,14 @@ entries:
   - religion
   web: https://kinna.pingst.se/
 
+- entry: 1235516158
+  orgName: Sveriges VVS-Museum
+  orgNumber: 802497-7236
+  comment: null
+  categories:
+  - museum
+  web: https://www.sverigesvvsmuseum.se/
+
 - entry: 1235516430
   orgName: Ölsta Folketshus & park
   orgNumber: 715200-0431
@@ -45328,6 +45422,14 @@ entries:
   - reparationer
   web: https://sadelmakarna.com/
 
+- entry: 1235704010
+  orgName: Rytterne Hembygdsförening
+  orgNumber: 802420-9390
+  comment: Rytternegården
+  categories:
+  - hembygdsförening
+  web: https://www.rytternegarden.se/
+
 - entry: 1235704085
   orgName: null
   orgNumber: null
@@ -45392,6 +45494,15 @@ entries:
   - idrottsförening
   - tennisklubb
   web: https://www.fiskebackskilstennis.se/
+
+- entry: 1235705595
+  orgName: Ytteråns Hembygdsförening
+  orgNumber: 892000-4382
+  comment: Mus-Olles Museum
+  categories:
+  - hembygdsförening
+  - museum
+  web: http://www.musolles.com/
 
 - entry: 1235706478
   orgName: Båstad-Östra Karups Församling
@@ -48304,6 +48415,14 @@ entries:
   - hundklubb
   - hundsport
   web: https://snkinfo.wordpress.com/
+
+- entry: 1236128599
+  orgName: Svenska Fyrverkerimuseet
+  orgNumber: 802528-3881
+  comment: null
+  categories:
+  - museum
+  web: https://fyrverkerimuseet.se/
 
 - entry: 1236133003
   orgName: Team Rynkeby
@@ -51284,6 +51403,17 @@ entries:
   - hundsport
   web: https://www.kopparbergsbk.se/
 
+- entry: 1236516496
+  orgName: Vännäs Motormuseum
+  orgNumber: 894002-6944
+  comment: null
+  categories:
+  - kulturhistoria
+  - motorsport
+  - museum
+  - veteranfordon
+  web: https://www.vannasmotormuseum.se/
+
 - entry: 1236516736
   orgName: Postbox24 Entreprenad Handelsbolag
   orgNumber: 969745-9015
@@ -52867,6 +52997,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/gillberga-lista
 
+- entry: 1236763718
+  orgName: Torrbergstjärn / Sjulnäs Fiskevårdsförening
+  orgNumber: 898801-0834
+  comment: null
+  categories:
+  - fiskevård
+  - intresseförening
+  web: https://www.torrbergstjarn.se/
+
 - entry: 1236764203
   orgName: Föreningen Hjälp Utsatta Katter få Hem
   orgNumber: 802502-0671
@@ -54044,6 +54183,7 @@ entries:
   comment: null
   categories:
   - konstförening
+  - museum
   web: http://helsingborgskonstforening.se/
 
 - entry: 1236916738
