@@ -1359,6 +1359,16 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/sexdrega
 
+- entry: 1230159228
+  orgName: Upplands-Bro Ryttarförening
+  orgNumber: 813200-3289
+  comment: Cafeteria
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarförening
+  web: https://upplandsbroryttarforening.se/
+
 - entry: 1230159699
   orgName: Parkinsonförbundet - Norrbotten
   orgNumber: 898801-0925
@@ -2002,6 +2012,16 @@ entries:
   categories:
   - intresseförening
   web: https://lhon.se/
+
+- entry: 1230232256
+  orgName: Svenska Lacrosseförbundet
+  orgNumber: 802411-3543
+  comment: null
+  categories:
+  - förbund
+  - idrottsförening
+  - lacrosseklubb
+  web: https://lacrosse.se/
 
 - entry: 1230232868
   orgName: Roj Fans
@@ -2657,6 +2677,16 @@ entries:
   - ridskola
   - ryttarförening
   web: https://www.iskallaryttare.se/
+
+- entry: 1230302950
+  orgName: Anklams Distansryttarsällskap
+  orgNumber: 802463-9760
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: http://anklamsdistansryttarsallskap.se/
 
 - entry: 1230303057
   orgName: Sverige Runt AB
@@ -3554,6 +3584,16 @@ entries:
   - idrottsförening
   - sportklubb
   web: https://www.laget.se/FilmsSK/
+
+- entry: 1230410183
+  orgName: Forserums Ryttarsällskap
+  orgNumber: 827000-7522
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://forserumsryttarsallskap.se/
 
 - entry: 1230410191
   orgName: Vänsterpartiet
@@ -6510,6 +6550,15 @@ entries:
   - ungdomsverksamhet
   web: http://www.foreningenomtanke.se/
 
+- entry: 1230747535
+  orgName: Falu Ryttarsällskap
+  orgNumber: 883202-0328
+  comment: null
+  categories:
+  - hästsport
+  - ryttarsällskap
+  web: https://www.fars.se/
+
 - entry: 1230747899
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -6526,6 +6575,15 @@ entries:
   - hundklubb
   - hundsport
   web: https://www.friendsforever.se/
+
+- entry: 1230748608
+  orgName: Össjö Hästsällskap
+  orgNumber: 839400-5519
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  web: http://ossjohastsallskap.se/
 
 - entry: 1230750257
   orgName: SPF Seniorerna Havsörnen
@@ -13436,6 +13494,16 @@ entries:
   - restaurant
   web: https://kostalodge.se/
 
+- entry: 1231499037
+  orgName: Svenska Lacrosseförbundet
+  orgNumber: 802411-3543
+  comment: Landslaget Field Herr
+  categories:
+  - förbund
+  - idrottsförening
+  - lacrosseklubb
+  web: https://lacrosse.se/
+
 - entry: 1231499144
   orgName: Vineyard Norden
   orgNumber: 252002-8867
@@ -16630,6 +16698,16 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/grafsnassollebrunn/
 
+- entry: 1231871375
+  orgName: Leksand Baseboll-Softbollklubb
+  orgNumber: 883201-3588
+  comment: null
+  categories:
+  - baseballklubb
+  - idrottsförening
+  - softbollklubb
+  web: https://www.leksandbaseboll-softboll.se/
+
 - entry: 1231871557
   orgName: Hanebo Hembygdsförening
   orgNumber: 886500-6657
@@ -17141,8 +17219,10 @@ entries:
   orgNumber: 814800-7647
   comment: null
   categories:
+  - hästsport
   - ridklubb
   - ryttarförening
+  - ryttarsällskap
   web: https://www.sigtunaridskola.com/
 
 - entry: 1231951862
@@ -17489,6 +17569,17 @@ entries:
   categories:
   - religion
   web: http://www.akerbofrikyrkoforsamling.se/
+
+- entry: 1231993617
+  orgName: Ölands Ryttarförening
+  orgNumber: 832000-3125
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarförening
+  - ryttarsällskap
+  web: http://www.olandsrf.se/
 
 - entry: 1231993716
   orgName: Future with Hope - For children in EastAfrica
@@ -21781,9 +21872,9 @@ entries:
   orgNumber: 894700-9539
   comment: null
   categories:
-  - baseboll
+  - basketbollklubb
   - idrottsförening
-  - softboll
+  - softbollklubb
   web: https://skellefteabsk.se/
 
 - entry: 1232527943
@@ -21940,6 +22031,16 @@ entries:
   categories:
   - bridgeklubb
   web: https://www.svenskbridge.se/skånes-bf
+
+- entry: 1232555803
+  orgName: Drevinge Ryttarsällskap
+  orgNumber: 802417-4784
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://drevingeryttarsallskap.se/
 
 - entry: 1232556009
   orgName: Stiftelsen Ekolsunds Slott och Park
@@ -22478,6 +22579,16 @@ entries:
   - yoga
   web: https://www.towas-massage-halsa.se/
 
+- entry: 1232630663
+  orgName: Täby Ryttarsällskap
+  orgNumber: 802412-2593
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://www.tabyryttarsallskap.se/
+
 - entry: 1232631299
   orgName: Alnö Hembygdsförening
   orgNumber: 889201-3221
@@ -22589,6 +22700,16 @@ entries:
   categories:
   - scoutkår
   web: https://kyrkhult.scout.se/
+
+- entry: 1232639177
+  orgName: Alingsås Ryttarsällskap
+  orgNumber: 864000-3839
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://www.alingsasrs.se/
 
 - entry: 1232639672
   orgName: Myckleby Församling
@@ -23636,6 +23757,16 @@ entries:
   - volleybollklubb
   web: https://www.laget.se/VasterasVolleybollKlubb/
 
+- entry: 1232742898
+  orgName: Landvetter Ryttarsällskap
+  orgNumber: 852000-7371
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://landvetterrs.se/
+
 - entry: 1232751899
   orgName: Eksjö RC Klubb - Bilsport
   orgNumber: 802456-7581
@@ -24660,6 +24791,14 @@ entries:
   - snöskoterklubb
   web: https://www.karlstadmx.se/
 
+- entry: 1232886604
+  orgName: Lions Club Mariestad
+  orgNumber: 866000-7769
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://lionsmariestad.se/
+
 - entry: 1232886802
   orgName: SoS - Svenska Service- och Signalhundsförbundet
   orgNumber: 843003-3038
@@ -24859,6 +24998,16 @@ entries:
   - cykelklubb
   - cykelsport
   web: https://alvsjobmx.com/
+
+- entry: 1232904670
+  orgName: Upplands-Bro Ryttarförening
+  orgNumber: 813200-3289
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarförening
+  web: https://upplandsbroryttarforening.se/
 
 - entry: 1232904944
   orgName: Naturskyddsföreningen i Skåne
@@ -25477,6 +25626,16 @@ entries:
   - ridklubb
   - ridsport
   web: https://www.ringsjoorten.com/
+
+- entry: 1232992378
+  orgName: Svenska Lacrosseförbundet
+  orgNumber: 802411-3543
+  comment: Landslaget Field Dam
+  categories:
+  - förbund
+  - idrottsförening
+  - lacrosseklubb
+  web: https://lacrosse.se/
 
 - entry: 1232992691
   orgName: Indianen i Västerås AB
@@ -26444,6 +26603,14 @@ entries:
   categories: null
   web: null
 
+- entry: 1233126265
+  orgName: Andreas Lindahl AB
+  orgNumber: 559017-9452
+  comment: null
+  categories:
+  - affärsverksamhet
+  web: null
+
 - entry: 1233126299
   orgName: Synskadades Riksförbund Skåne
   orgNumber: 846001-9790
@@ -27024,6 +27191,17 @@ entries:
   - förening
   - intresseorganisation
   web: https://www.finngosaravinen.se/
+
+- entry: 1233212925
+  orgName: Svenska Baseboll-, Softboll- och Lacrosseförbundet
+  orgNumber: 815200-6063
+  comment: null
+  categories:
+  - baseballklubb
+  - förbund
+  - lacrosseklubb
+  - softbollklubb
+  web: https://www.sbslf.se/
 
 - entry: 1233213204
   orgName: Fageråsens Bygdegårdsförening
@@ -29506,6 +29684,16 @@ entries:
   - stiftelse
   web: https://ungdomsfonden.org/
 
+- entry: 1233516895
+  orgName: Högbo Ridklubb
+  orgNumber: 885500-4035
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ridsport
+  web: https://hrk.nu/
+
 - entry: 1233517844
   orgName: Hillsong Church Sweden
   orgNumber: 802433-8553
@@ -30560,6 +30748,7 @@ entries:
   categories:
   - försäljning
   - kläder
+  - profilkläder
   web: https://www.hepcat.se/
 
 - entry: 1233646445
@@ -31041,6 +31230,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-sodermanland/samorganisationer/samorganisation-flen/foreningar/flen.html
 
+- entry: 1233729555
+  orgName: Sundbybergs BSC
+  orgNumber: 815200-8762
+  comment: null
+  categories:
+  - baseballklubb
+  - idrottsförening
+  web: https://www.laget.se/sbscheat/
+
 - entry: 1233730884
   orgName: Sveriges Buddhistiska Gemenskap
   orgNumber: 252004-9566
@@ -31242,6 +31440,16 @@ entries:
   categories:
   - stiftelse
   web: https://www.ellenkey.se/
+
+- entry: 1233780525
+  orgName: Knöppelåsens Ryttarsällskap
+  orgNumber: 802454-8672
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://www.knoppelasensryttarsallskap.com/
 
 - entry: 1233781747
   orgName: Glommens Bygdegårdsförening
@@ -31761,7 +31969,7 @@ entries:
   web: https://hyra-husvagn.se/
 
 - entry: 1233849213
-  orgName: Västerås RS - Ridsport
+  orgName: Västerås Ryttarsällskap
   orgNumber: 878000-5412
   comment: null
   categories:
@@ -34726,6 +34934,16 @@ entries:
   - yoga
   web: https://www.annafahlgren.se/
 
+- entry: 1234256863
+  orgName: Sanden Ryttarsällskap
+  orgNumber: 802538-2469
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://www.sandenranch.com/om/sanden-ryttarsallskap/
+
 - entry: 1234260980
   orgName: Lions Club Bålsta
   orgNumber: 817000-9222
@@ -37604,6 +37822,15 @@ entries:
   - föräldraförening
   web: https://www.autism.se/stockholm/
 
+- entry: 1234642807
+  orgName: Falu Ridklubb
+  orgNumber: 883200-4579
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://faluridklubb.se/
+
 - entry: 1234643094
   orgName: Mjölkkossan
   orgNumber: 843002-3500
@@ -38059,6 +38286,16 @@ entries:
   - religion
   web: https://stockholm.adventkyrka.se/
 
+- entry: 1234704581
+  orgName: Eds Ryttarsällskap
+  orgNumber: 802441-4107
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://www.edsrs.se/
+
 - entry: 1234705265
   orgName: Smådjurschansen
   orgNumber: 802517-9014
@@ -38501,6 +38738,16 @@ entries:
   - friskvård
   - intresseförening
   web: https://www.team-rynkeby.se/
+
+- entry: 1234804928
+  orgName: Lunds Akademiska Ryttarsällskap, LARS
+  orgNumber: 802462-4887
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://lundsstudentryttare.se/
 
 - entry: 1234805123
   orgName: Eskilstuna Basket
@@ -39891,6 +40138,7 @@ entries:
   orgNumber: 556581-6633
   comment: null
   categories:
+  - försäljning
   - golfutrustning
   web: https://teeview.se/
 
@@ -40383,6 +40631,16 @@ entries:
   - släktforskning
   web: http://old.norrtelje-sff.se/
 
+- entry: 1235100790
+  orgName: Svenska Lacrosseförbundet
+  orgNumber: 802411-3543
+  comment: Juniorlandslaget (U19/U20 herr)
+  categories:
+  - förbund
+  - idrottsförening
+  - lacrosseklubb
+  web: https://lacrosse.se/
+
 - entry: 1235101159
   orgName: Veberöds Trafikskola
   orgNumber: 700922-XXXX
@@ -40782,6 +41040,15 @@ entries:
   - yoga
   web: https://thereselind.se/
 
+- entry: 1235126248
+  orgName: Skromberga Ryttarförening
+  orgNumber: 843001-1661
+  comment: null
+  categories:
+  - hästsport
+  - ryttarförening
+  web: https://www.skrombergaryttarforening.se/
+
 - entry: 1235126479
   orgName: Rydgårds Hästtransport Center - RHTC AB
   orgNumber: 556794-7352
@@ -40839,6 +41106,16 @@ entries:
   - trafikskola
   - utbildning
   web: https://linastrafikskola.se/
+
+- entry: 1235127550
+  orgName: Mälarhöjdens Ryttarsällskap, MRS
+  orgNumber: 802011-1806
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://www.malarhojdensryttarsallskap.se/
 
 - entry: 1235127592
   orgName: Annerstads Församling
@@ -41802,6 +42079,16 @@ entries:
   - orkester
   web: https://www.perikles.se/
 
+- entry: 1235250329
+  orgName: Upplands-Bro Ryttarförening
+  orgNumber: 813200-3289
+  comment: Ungdomssektionen
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarförening
+  web: https://upplandsbroryttarforening.se/
+
 - entry: 1235251178
   orgName: Odd Fellow Logen NR 64 Sven Erikson
   orgNumber: 864500-4105
@@ -41924,6 +42211,15 @@ entries:
   - hästsport
   - ryttarförening
   web: https://www.valsangsrf.se/
+
+- entry: 1235265483
+  orgName: Vansbro Ryttarsällskap
+  orgNumber: 882601-1986
+  comment: null
+  categories:
+  - hästsport
+  - ryttarsällskap
+  web: https://www.vansbrors.se/
 
 - entry: 1235266168
   orgName: Frälsningsarmén
@@ -44582,6 +44878,26 @@ entries:
   - forskning
   web: https://ki.se/kisos/forskning-for-basta-vard
 
+- entry: 1235598552
+  orgName: Svenska Lacrosseförbundet
+  orgNumber: 802411-3543
+  comment: Box Landslaget
+  categories:
+  - förbund
+  - idrottsförening
+  - lacrosseklubb
+  web: https://lacrosse.se/
+
+- entry: 1235598560
+  orgName: Svenska Lacrosseförbundet
+  orgNumber: 802411-3543
+  comment: Svenska Lacrosse Ligan, SLL
+  categories:
+  - förbund
+  - idrottsförening
+  - lacrosseklubb
+  web: https://lacrosse.se/
+
 - entry: 1235599410
   orgName: Ecodive Stockholm
   orgNumber: 556737-5653
@@ -44854,6 +45170,7 @@ entries:
   orgNumber: 883201-1533
   comment: null
   categories:
+  - hästsport
   - ridsport
   web: https://www.ridsport.se/Distrikt/dalarnasridsportforbund/
 
@@ -45694,6 +46011,15 @@ entries:
   - djurskydd
   - hundhem
   web: https://bffstrays.se/
+
+- entry: 1235729850
+  orgName: Woolrich International WI AB
+  orgNumber: 556273-6420
+  comment: null
+  categories:
+  - försäljning
+  - profilkläder
+  web: https://www.dinjacka.se/
 
 - entry: 1235731021
   orgName: FMK Tre Vapen
@@ -46808,6 +47134,16 @@ entries:
   - idrottsförening
   web: https://www.skgranan.com/
 
+- entry: 1235884341
+  orgName: Lions Cancerforskningsfond, LCFM
+  orgNumber: 802481-2359
+  comment: null
+  categories:
+  - cancerforskning
+  - donation
+  - lionsklubb
+  web: https://www.lcfm.se/
+
 - entry: 1235884374
   orgName: Äspereds IF
   orgNumber: 864501-1050
@@ -47911,6 +48247,16 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/voxna
 
+- entry: 1236034060
+  orgName: Lions Cancerforskningsfond
+  orgNumber: 894001-4007
+  comment: Umeå Universitet
+  categories:
+  - cancerforskning
+  - donation
+  - lionsklubb
+  web: null
+
 - entry: 1236034391
   orgName: Pingstförsamlingen i Mölndal
   orgNumber: 852000-0822
@@ -48477,8 +48823,10 @@ entries:
   orgNumber: 802410-5515
   comment: null
   categories:
+  - hästsport
   - ridskola
   - ridsport
+  - ryttarsällskap
   web: https://www.gustavsbergsrs.se/
 
 - entry: 1236140362
@@ -53453,6 +53801,15 @@ entries:
   - ekologiskt
   - religion
   web: https://almviksgard.se/
+
+- entry: 1236804397
+  orgName: Söderköpings Ryttarsällskap
+  orgNumber: 825002-7813
+  comment: null
+  categories:
+  - hästsport
+  - ryttarsällskap
+  web: https://soderkopingsrs.se/
 
 - entry: 1236804488
   orgName: Brännöföreningen
@@ -59826,9 +60183,9 @@ entries:
   web: https://www.helpathand.se/
 
 - entry: 1239006784
-  orgName: Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-Örebro
+  orgName: Insamlingsstiftelsen Lions Cancerforskningsfond
   orgNumber: 802481-2359
-  comment: null
+  comment: Mellansverige Uppsala-Örebro
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
@@ -61178,9 +61535,9 @@ entries:
   web: https://www.socialamissionen.se/
 
 - entry: 1239009408
-  orgName: Insamlingsstiftelsen Lions Cancerforskningsfond vid Akademiska Sjukhuset i Uppsala
+  orgName: Insamlingsstiftelsen Lions Cancerforskningsfond
   orgNumber: null
-  comment: null
+  comment: Akademiska Sjukhuset i Uppsala
   categories:
   - insamlingskontroll
   - terminated

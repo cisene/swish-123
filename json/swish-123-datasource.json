@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-10-rev-150111",
+    "date": "2024-01-12-rev-134313",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1515,6 +1515,18 @@
       "web": "https://www.hembygd.se/sexdrega"
     },
     {
+      "entry": 1230159228,
+      "orgNumber": "813200-3289",
+      "orgName": "Upplands-Bro Ryttarf\u00f6rening",
+      "comment": "Cafeteria",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://upplandsbroryttarforening.se/"
+    },
+    {
       "entry": 1230159699,
       "orgNumber": "898801-0925",
       "orgName": "Parkinsonf\u00f6rbundet - Norrbotten",
@@ -2227,6 +2239,17 @@
         "kvinnojour"
       ],
       "web": "https://ktjboras.se/"
+    },
+    {
+      "entry": 1230232256,
+      "orgNumber": "802411-3543",
+      "orgName": "Svenska Lacrossef\u00f6rbundet",
+      "categories": [
+        "f\u00f6rbund",
+        "idrottsf\u00f6rening",
+        "lacrosseklubb"
+      ],
+      "web": "https://lacrosse.se/"
     },
     {
       "entry": 1230232868,
@@ -2968,6 +2991,17 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.iskallaryttare.se/"
+    },
+    {
+      "entry": 1230302950,
+      "orgNumber": "802463-9760",
+      "orgName": "Anklams Distansryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "http://anklamsdistansryttarsallskap.se/"
     },
     {
       "entry": 1230303057,
@@ -3972,6 +4006,17 @@
         "sportklubb"
       ],
       "web": "https://www.laget.se/FilmsSK/"
+    },
+    {
+      "entry": 1230410183,
+      "orgNumber": "827000-7522",
+      "orgName": "Forserums Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://forserumsryttarsallskap.se/"
     },
     {
       "entry": 1230410191,
@@ -7260,6 +7305,16 @@
       "web": "http://www.foreningenomtanke.se/"
     },
     {
+      "entry": 1230747535,
+      "orgNumber": "883202-0328",
+      "orgName": "Falu Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.fars.se/"
+    },
+    {
       "entry": 1230747899,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -7278,6 +7333,16 @@
         "hundsport"
       ],
       "web": "https://www.friendsforever.se/"
+    },
+    {
+      "entry": 1230748608,
+      "orgNumber": "839400-5519",
+      "orgName": "\u00d6ssj\u00f6 H\u00e4sts\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport"
+      ],
+      "web": "http://ossjohastsallskap.se/"
     },
     {
       "entry": 1230750257,
@@ -14942,6 +15007,18 @@
       "web": "https://kostalodge.se/"
     },
     {
+      "entry": 1231499037,
+      "orgNumber": "802411-3543",
+      "orgName": "Svenska Lacrossef\u00f6rbundet",
+      "comment": "Landslaget Field Herr",
+      "categories": [
+        "f\u00f6rbund",
+        "idrottsf\u00f6rening",
+        "lacrosseklubb"
+      ],
+      "web": "https://lacrosse.se/"
+    },
+    {
       "entry": 1231499144,
       "orgNumber": "252002-8867",
       "orgName": "Vineyard Norden",
@@ -18524,6 +18601,17 @@
       "web": "https://equmeniakyrkan.se/grafsnassollebrunn/"
     },
     {
+      "entry": 1231871375,
+      "orgNumber": "883201-3588",
+      "orgName": "Leksand Baseboll-Softbollklubb",
+      "categories": [
+        "baseballklubb",
+        "idrottsf\u00f6rening",
+        "softbollklubb"
+      ],
+      "web": "https://www.leksandbaseboll-softboll.se/"
+    },
+    {
       "entry": 1231871557,
       "orgNumber": "886500-6657",
       "orgName": "Hanebo Hembygdsf\u00f6rening",
@@ -19088,8 +19176,10 @@
       "orgNumber": "814800-7647",
       "orgName": "Sigtunabygdens Ryttarf\u00f6rening",
       "categories": [
+        "h\u00e4stsport",
         "ridklubb",
-        "ryttarf\u00f6rening"
+        "ryttarf\u00f6rening",
+        "ryttars\u00e4llskap"
       ],
       "web": "https://www.sigtunaridskola.com/"
     },
@@ -19472,6 +19562,18 @@
         "religion"
       ],
       "web": "http://www.akerbofrikyrkoforsamling.se/"
+    },
+    {
+      "entry": 1231993617,
+      "orgNumber": "832000-3125",
+      "orgName": "\u00d6lands Ryttarf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttarf\u00f6rening",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "http://www.olandsrf.se/"
     },
     {
       "entry": 1231993716,
@@ -24289,9 +24391,9 @@
       "orgNumber": "894700-9539",
       "orgName": "Skellefte\u00e5 Baseboll Softboll Klubb, SBSK",
       "categories": [
-        "baseboll",
+        "basketbollklubb",
         "idrottsf\u00f6rening",
-        "softboll"
+        "softbollklubb"
       ],
       "web": "https://skellefteabsk.se/"
     },
@@ -24469,6 +24571,17 @@
         "bridgeklubb"
       ],
       "web": "https://www.svenskbridge.se/sk\u00e5nes-bf"
+    },
+    {
+      "entry": 1232555803,
+      "orgNumber": "802417-4784",
+      "orgName": "Drevinge Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://drevingeryttarsallskap.se/"
     },
     {
       "entry": 1232556009,
@@ -25078,6 +25191,17 @@
       "web": "https://www.towas-massage-halsa.se/"
     },
     {
+      "entry": 1232630663,
+      "orgNumber": "802412-2593",
+      "orgName": "T\u00e4by Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.tabyryttarsallskap.se/"
+    },
+    {
       "entry": 1232631299,
       "orgNumber": "889201-3221",
       "orgName": "Aln\u00f6 Hembygdsf\u00f6rening",
@@ -25202,6 +25326,17 @@
         "scoutk\u00e5r"
       ],
       "web": "https://kyrkhult.scout.se/"
+    },
+    {
+      "entry": 1232639177,
+      "orgNumber": "864000-3839",
+      "orgName": "Alings\u00e5s Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.alingsasrs.se/"
     },
     {
       "entry": 1232639672,
@@ -26389,6 +26524,17 @@
       "web": "https://www.laget.se/VasterasVolleybollKlubb/"
     },
     {
+      "entry": 1232742898,
+      "orgNumber": "852000-7371",
+      "orgName": "Landvetter Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://landvetterrs.se/"
+    },
+    {
       "entry": 1232751899,
       "orgNumber": "802456-7581",
       "orgName": "Eksj\u00f6 RC Klubb - Bilsport",
@@ -27529,6 +27675,15 @@
       "web": "https://www.karlstadmx.se/"
     },
     {
+      "entry": 1232886604,
+      "orgNumber": "866000-7769",
+      "orgName": "Lions Club Mariestad",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://lionsmariestad.se/"
+    },
+    {
       "entry": 1232886802,
       "orgNumber": "843003-3038",
       "orgName": "SoS - Svenska Service- och Signalhundsf\u00f6rbundet",
@@ -27754,6 +27909,17 @@
         "cykelsport"
       ],
       "web": "https://alvsjobmx.com/"
+    },
+    {
+      "entry": 1232904670,
+      "orgNumber": "813200-3289",
+      "orgName": "Upplands-Bro Ryttarf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://upplandsbroryttarforening.se/"
     },
     {
       "entry": 1232904944,
@@ -28450,6 +28616,18 @@
         "ridsport"
       ],
       "web": "https://www.ringsjoorten.com/"
+    },
+    {
+      "entry": 1232992378,
+      "orgNumber": "802411-3543",
+      "orgName": "Svenska Lacrossef\u00f6rbundet",
+      "comment": "Landslaget Field Dam",
+      "categories": [
+        "f\u00f6rbund",
+        "idrottsf\u00f6rening",
+        "lacrosseklubb"
+      ],
+      "web": "https://lacrosse.se/"
     },
     {
       "entry": 1232992840,
@@ -29516,6 +29694,14 @@
       "web": "https://ccclub.se/"
     },
     {
+      "entry": 1233126265,
+      "orgNumber": "559017-9452",
+      "orgName": "Andreas Lindahl AB",
+      "categories": [
+        "aff\u00e4rsverksamhet"
+      ]
+    },
+    {
       "entry": 1233126299,
       "orgNumber": "846001-9790",
       "orgName": "Synskadades Riksf\u00f6rbund Sk\u00e5ne",
@@ -30159,6 +30345,18 @@
         "intresseorganisation"
       ],
       "web": "https://www.finngosaravinen.se/"
+    },
+    {
+      "entry": 1233212925,
+      "orgNumber": "815200-6063",
+      "orgName": "Svenska Baseboll-, Softboll- och Lacrossef\u00f6rbundet",
+      "categories": [
+        "baseballklubb",
+        "f\u00f6rbund",
+        "lacrosseklubb",
+        "softbollklubb"
+      ],
+      "web": "https://www.sbslf.se/"
     },
     {
       "entry": 1233213204,
@@ -32914,6 +33112,17 @@
       "web": "https://ungdomsfonden.org/"
     },
     {
+      "entry": 1233516895,
+      "orgNumber": "885500-4035",
+      "orgName": "H\u00f6gbo Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridsport"
+      ],
+      "web": "https://hrk.nu/"
+    },
+    {
       "entry": 1233517844,
       "orgNumber": "802433-8553",
       "orgName": "Hillsong Church Sweden",
@@ -34104,7 +34313,8 @@
       "orgName": "HepCat AB",
       "categories": [
         "f\u00f6rs\u00e4ljning",
-        "kl\u00e4der"
+        "kl\u00e4der",
+        "profilkl\u00e4der"
       ],
       "web": "https://www.hepcat.se/"
     },
@@ -34634,6 +34844,16 @@
       "web": "https://pro.se/distrikt/distrikt-sodermanland/samorganisationer/samorganisation-flen/foreningar/flen.html"
     },
     {
+      "entry": 1233729555,
+      "orgNumber": "815200-8762",
+      "orgName": "Sundbybergs BSC",
+      "categories": [
+        "baseballklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/sbscheat/"
+    },
+    {
       "entry": 1233730884,
       "orgNumber": "252004-9566",
       "orgName": "Sveriges Buddhistiska Gemenskap",
@@ -34864,6 +35084,17 @@
         "stiftelse"
       ],
       "web": "https://www.ellenkey.se/"
+    },
+    {
+      "entry": 1233780525,
+      "orgNumber": "802454-8672",
+      "orgName": "Kn\u00f6ppel\u00e5sens Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.knoppelasensryttarsallskap.com/"
     },
     {
       "entry": 1233781747,
@@ -35444,7 +35675,7 @@
     {
       "entry": 1233849213,
       "orgNumber": "878000-5412",
-      "orgName": "V\u00e4ster\u00e5s RS - Ridsport",
+      "orgName": "V\u00e4ster\u00e5s Ryttars\u00e4llskap",
       "categories": [
         "ridklubb",
         "ridsport",
@@ -38739,6 +38970,17 @@
       "web": "https://www.annafahlgren.se/"
     },
     {
+      "entry": 1234256863,
+      "orgNumber": "802538-2469",
+      "orgName": "Sanden Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.sandenranch.com/om/sanden-ryttarsallskap/"
+    },
+    {
       "entry": 1234260980,
       "orgNumber": "817000-9222",
       "orgName": "Lions Club B\u00e5lsta",
@@ -41973,6 +42215,16 @@
       "web": "https://www.autism.se/stockholm/"
     },
     {
+      "entry": 1234642807,
+      "orgNumber": "883200-4579",
+      "orgName": "Falu Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://faluridklubb.se/"
+    },
+    {
       "entry": 1234643094,
       "orgNumber": "843002-3500",
       "orgName": "Mj\u00f6lkkossan",
@@ -42484,6 +42736,17 @@
       "web": "https://stockholm.adventkyrka.se/"
     },
     {
+      "entry": 1234704581,
+      "orgNumber": "802441-4107",
+      "orgName": "Eds Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.edsrs.se/"
+    },
+    {
       "entry": 1234705265,
       "orgNumber": "802517-9014",
       "orgName": "Sm\u00e5djurschansen",
@@ -42981,6 +43244,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234804928,
+      "orgNumber": "802462-4887",
+      "orgName": "Lunds Akademiska Ryttars\u00e4llskap, LARS",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://lundsstudentryttare.se/"
     },
     {
       "entry": 1234805123,
@@ -44543,6 +44817,7 @@
       "orgNumber": "556581-6633",
       "orgName": "Teeview / Top View AB",
       "categories": [
+        "f\u00f6rs\u00e4ljning",
         "golfutrustning"
       ],
       "web": "https://teeview.se/"
@@ -45097,6 +45372,18 @@
       "web": "http://old.norrtelje-sff.se/"
     },
     {
+      "entry": 1235100790,
+      "orgNumber": "802411-3543",
+      "orgName": "Svenska Lacrossef\u00f6rbundet",
+      "comment": "Juniorlandslaget (U19/U20 herr)",
+      "categories": [
+        "f\u00f6rbund",
+        "idrottsf\u00f6rening",
+        "lacrosseklubb"
+      ],
+      "web": "https://lacrosse.se/"
+    },
+    {
       "entry": 1235101159,
       "orgNumber": "700922-XXXX",
       "orgName": "Veber\u00f6ds Trafikskola",
@@ -45551,6 +45838,16 @@
       "web": "https://thereselind.se/"
     },
     {
+      "entry": 1235126248,
+      "orgNumber": "843001-1661",
+      "orgName": "Skromberga Ryttarf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.skrombergaryttarforening.se/"
+    },
+    {
       "entry": 1235126479,
       "orgNumber": "556794-7352",
       "orgName": "Rydg\u00e5rds H\u00e4sttransport Center - RHTC AB",
@@ -45614,6 +45911,17 @@
         "utbildning"
       ],
       "web": "https://linastrafikskola.se/"
+    },
+    {
+      "entry": 1235127550,
+      "orgNumber": "802011-1806",
+      "orgName": "M\u00e4larh\u00f6jdens Ryttars\u00e4llskap, MRS",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.malarhojdensryttarsallskap.se/"
     },
     {
       "entry": 1235127592,
@@ -46686,6 +46994,18 @@
       "web": "https://www.perikles.se/"
     },
     {
+      "entry": 1235250329,
+      "orgNumber": "813200-3289",
+      "orgName": "Upplands-Bro Ryttarf\u00f6rening",
+      "comment": "Ungdomssektionen",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://upplandsbroryttarforening.se/"
+    },
+    {
       "entry": 1235251178,
       "orgNumber": "864500-4105",
       "orgName": "Odd Fellow Logen NR 64 Sven Erikson",
@@ -46823,6 +47143,16 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.valsangsrf.se/"
+    },
+    {
+      "entry": 1235265483,
+      "orgNumber": "882601-1986",
+      "orgName": "Vansbro Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.vansbrors.se/"
     },
     {
       "entry": 1235266168,
@@ -49825,6 +50155,30 @@
       "web": "https://ki.se/kisos/forskning-for-basta-vard"
     },
     {
+      "entry": 1235598552,
+      "orgNumber": "802411-3543",
+      "orgName": "Svenska Lacrossef\u00f6rbundet",
+      "comment": "Box Landslaget",
+      "categories": [
+        "f\u00f6rbund",
+        "idrottsf\u00f6rening",
+        "lacrosseklubb"
+      ],
+      "web": "https://lacrosse.se/"
+    },
+    {
+      "entry": 1235598560,
+      "orgNumber": "802411-3543",
+      "orgName": "Svenska Lacrossef\u00f6rbundet",
+      "comment": "Svenska Lacrosse Ligan, SLL",
+      "categories": [
+        "f\u00f6rbund",
+        "idrottsf\u00f6rening",
+        "lacrosseklubb"
+      ],
+      "web": "https://lacrosse.se/"
+    },
+    {
       "entry": 1235599410,
       "orgNumber": "556737-5653",
       "orgName": "Ecodive Stockholm",
@@ -50134,6 +50488,7 @@
       "orgNumber": "883201-1533",
       "orgName": "Dalarnas Ridsportf\u00f6rbund",
       "categories": [
+        "h\u00e4stsport",
         "ridsport"
       ],
       "web": "https://www.ridsport.se/Distrikt/dalarnasridsportforbund/"
@@ -51065,6 +51420,16 @@
         "hundhem"
       ],
       "web": "https://bffstrays.se/"
+    },
+    {
+      "entry": 1235729850,
+      "orgNumber": "556273-6420",
+      "orgName": "Woolrich International WI AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "profilkl\u00e4der"
+      ],
+      "web": "https://www.dinjacka.se/"
     },
     {
       "entry": 1235731021,
@@ -52275,6 +52640,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.skgranan.com/"
+    },
+    {
+      "entry": 1235884341,
+      "orgNumber": "802481-2359",
+      "orgName": "Lions Cancerforskningsfond, LCFM",
+      "categories": [
+        "cancerforskning",
+        "donation",
+        "lionsklubb"
+      ],
+      "web": "https://www.lcfm.se/"
     },
     {
       "entry": 1235884374,
@@ -53522,6 +53898,17 @@
       "web": "https://www.hembygd.se/voxna"
     },
     {
+      "entry": 1236034060,
+      "orgNumber": "894001-4007",
+      "orgName": "Lions Cancerforskningsfond",
+      "comment": "Ume\u00e5 Universitet",
+      "categories": [
+        "cancerforskning",
+        "donation",
+        "lionsklubb"
+      ]
+    },
+    {
       "entry": 1236034391,
       "orgNumber": "852000-0822",
       "orgName": "Pingstf\u00f6rsamlingen i M\u00f6lndal",
@@ -54139,8 +54526,10 @@
       "orgNumber": "802410-5515",
       "orgName": "Gustavsbergs RS - Ridsport",
       "categories": [
+        "h\u00e4stsport",
         "ridskola",
-        "ridsport"
+        "ridsport",
+        "ryttars\u00e4llskap"
       ],
       "web": "https://www.gustavsbergsrs.se/"
     },
@@ -59638,6 +60027,16 @@
       "web": "https://almviksgard.se/"
     },
     {
+      "entry": 1236804397,
+      "orgNumber": "825002-7813",
+      "orgName": "S\u00f6derk\u00f6pings Ryttars\u00e4llskap",
+      "categories": [
+        "h\u00e4stsport",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://soderkopingsrs.se/"
+    },
+    {
       "entry": 1236804488,
       "orgNumber": "857204-5568",
       "orgName": "Br\u00e4nn\u00f6f\u00f6reningen",
@@ -63742,7 +64141,8 @@
     {
       "entry": 1239006784,
       "orgNumber": "802481-2359",
-      "orgName": "Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-\u00d6rebro",
+      "orgName": "Insamlingsstiftelsen Lions Cancerforskningsfond",
+      "comment": "Mellansverige Uppsala-\u00d6rebro",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
