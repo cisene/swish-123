@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-13-rev-015759",
+    "date": "2024-01-13-rev-031430",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -62593,7 +62593,7 @@
         "insamlingskontroll",
         "stiftelse"
       ],
-      "web": "https://www.gunduafoundation.org/"
+      "web": "https://gunduafoundation.org/"
     },
     {
       "entry": 1239002171,
@@ -63221,7 +63221,7 @@
     {
       "entry": 1239003971,
       "orgNumber": "802016-9846",
-      "orgName": "Emmaus Stockholm",
+      "orgName": "Artikel 2 - Peace and Sustainability",
       "categories": [
         "insamlingskontroll"
       ],
@@ -63650,15 +63650,6 @@
       "web": "https://www.itforchildren.org/"
     },
     {
-      "entry": 1239004995,
-      "orgNumber": "874400-6506",
-      "orgName": "Maj-Lis Filantropiska Insamlingsstiftelse",
-      "categories": [
-        "insamlingskontroll"
-      ],
-      "web": "https://www.maj-lis.org/"
-    },
-    {
       "entry": 1239005000,
       "orgNumber": "857201-7179",
       "orgName": "Svenska Sj\u00f6r\u00e4ddningss\u00e4llskapet SSRS",
@@ -63728,11 +63719,11 @@
     {
       "entry": 1239005117,
       "orgNumber": "802496-9472",
-      "orgName": "Eskilstuna Stadsmission",
+      "orgName": "S\u00f6rmlands Stadsmission",
       "categories": [
         "insamlingskontroll"
       ],
-      "web": "https://www.eskilstunastadsmission.se/"
+      "web": "https://www.sormlandsstadsmission.se/"
     },
     {
       "entry": 1239005133,
@@ -64100,6 +64091,16 @@
       "web": "https://www.brostcancerforbundet.se/"
     },
     {
+      "entry": 1239005935,
+      "orgNumber": "802479-8970",
+      "orgName": "Stiftelsen f\u00f6r \u00d6stersj\u00f6laxen",
+      "categories": [
+        "insamlingskontroll",
+        "stiftelse"
+      ],
+      "web": "https://www.balticsalmonfund.com/"
+    },
+    {
       "entry": 1239005943,
       "orgNumber": "838200-5281",
       "orgName": "F\u00f6reningen Furuboda",
@@ -64141,6 +64142,16 @@
       "web": "https://www.dispurse.org/"
     },
     {
+      "entry": 1239006016,
+      "orgNumber": "802002-6806",
+      "orgName": "Riksf\u00f6rbundet Svensk Tr\u00e4dg\u00e5rd",
+      "categories": [
+        "f\u00f6rbund",
+        "insamlingskontroll"
+      ],
+      "web": "https://www.tradgard.org/"
+    },
+    {
       "entry": 1239006032,
       "orgNumber": "802017-2360",
       "orgName": "L\u00e4kare utan Gr\u00e4nser",
@@ -64169,6 +64180,15 @@
         "insamlingskontroll"
       ],
       "web": "https://www.noaksark.org/"
+    },
+    {
+      "entry": 1239006073,
+      "orgNumber": "802409-7639",
+      "orgName": "St\u00f6df\u00f6reningen f\u00f6r Barbro Johanssons fond f\u00f6r utbildning av flickor i Tanzania, JOHAfonden",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.johafonden.com/"
     },
     {
       "entry": 1239006081,
@@ -64372,8 +64392,7 @@
     {
       "entry": 1239006784,
       "orgNumber": "802481-2359",
-      "orgName": "Insamlingsstiftelsen Lions Cancerforskningsfond",
-      "comment": "Mellansverige Uppsala-\u00d6rebro",
+      "orgName": "Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-\u00d6rebro",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
@@ -64749,16 +64768,6 @@
       "web": "https://www.gelinstiftelsen.se/"
     },
     {
-      "entry": 1239007535,
-      "orgNumber": "802479-9978",
-      "orgName": "Stiftelsen Inventum",
-      "categories": [
-        "insamlingskontroll",
-        "stiftelse"
-      ],
-      "web": "https://www.stiftelseninventum.se/"
-    },
-    {
       "entry": 1239007550,
       "orgNumber": "802526-9443",
       "orgName": "Ideella F\u00f6reningen En Frisk Generation",
@@ -64898,12 +64907,12 @@
     {
       "entry": 1239007790,
       "orgNumber": "802481-5956",
-      "orgName": "Insamlingsstiftelsen Baltic Waters 2030",
+      "orgName": "Insamlingsstiftelsen Baltic Waters",
       "categories": [
         "insamlingskontroll",
         "stiftelse"
       ],
-      "web": "https://www.balticwaters2030.org/"
+      "web": "https://www.balticwaters.org/"
     },
     {
       "entry": 1239007808,
@@ -64984,7 +64993,7 @@
     {
       "entry": 1239007931,
       "orgNumber": "817602-0025",
-      "orgName": "Insamlingsstiftelsen Perinatalmedicinska Forskningsfonden i Uppsala - F\u00f6delsefonden",
+      "orgName": "Insamlingsstiftelsen F\u00f6delsefonden",
       "categories": [
         "insamlingskontroll",
         "stiftelse"
@@ -65062,7 +65071,7 @@
       "categories": [
         "insamlingskontroll"
       ],
-      "web": "https://www.humanpractice.org/"
+      "web": "https://www.humanpractice.org/country-se/"
     },
     {
       "entry": 1239008160,
@@ -65076,12 +65085,21 @@
     {
       "entry": 1239008178,
       "orgNumber": "802460-9284",
-      "orgName": "Tjejjouren V\u00e4st",
+      "orgName": "Maana",
       "categories": [
         "insamlingskontroll",
         "kvinnojour"
       ],
       "web": "https://www.tjejjourenvast.se/"
+    },
+    {
+      "entry": 1239008251,
+      "orgNumber": "802426-4619",
+      "orgName": "Stiftelsen Trygga Barnen",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.tryggabarnen.org/"
     },
     {
       "entry": 1239008269,
@@ -65091,6 +65109,42 @@
         "insamlingskontroll"
       ],
       "web": "https://www.utbildningsstiftelsen.org/"
+    },
+    {
+      "entry": 1239008277,
+      "orgNumber": "802014-5424",
+      "orgName": "Sverok",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.sverok.se/"
+    },
+    {
+      "entry": 1239008285,
+      "orgNumber": "857204-1930",
+      "orgName": "Dyslexif\u00f6rbundet",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.dyslexi.org/"
+    },
+    {
+      "entry": 1239008293,
+      "orgNumber": "802481-5949",
+      "orgName": "Stiftelsen ChildX",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.childx.se/"
+    },
+    {
+      "entry": 1239008301,
+      "orgNumber": "802407-8332",
+      "orgName": "Clownmedicin-Gl\u00e4djeverkstan",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.clownmedicin.se/"
     },
     {
       "entry": 1239008343,
@@ -65134,6 +65188,24 @@
       "web": "https://www.svenskabarnhjalpen.se/"
     },
     {
+      "entry": 1239008475,
+      "orgNumber": "802502-7627",
+      "orgName": "Svenska med baby",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.svenskamedbaby.se/"
+    },
+    {
+      "entry": 1239008483,
+      "orgNumber": "802432-7630",
+      "orgName": "Hundar Utan Hem",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.hundarutanhem.se/"
+    },
+    {
       "entry": 1239008533,
       "orgNumber": "802002-7291",
       "orgName": "Mind",
@@ -65154,6 +65226,15 @@
       "web": "https://www.demensfonden.se/"
     },
     {
+      "entry": 1239008590,
+      "orgNumber": "826000-4372",
+      "orgName": "Svenska Alliansmissionen (SAM)",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.alliansmissionen.se/"
+    },
+    {
       "entry": 1239008616,
       "orgNumber": "802472-8910",
       "orgName": "World Children Need",
@@ -65163,6 +65244,24 @@
         "insamlingskontroll"
       ],
       "web": "https://worldchildrenneed.org/"
+    },
+    {
+      "entry": 1239008624,
+      "orgNumber": "817602-5198",
+      "orgName": "Barnombudet i Uppsala l\u00e4n",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.barnombudet.se/"
+    },
+    {
+      "entry": 1239008657,
+      "orgNumber": "802502-7627",
+      "orgName": "Svenska med baby",
+      "categories": [
+        "insamlingskontroll"
+      ],
+      "web": "https://www.lionsborensberg.se/"
     },
     {
       "entry": 1239008780,
@@ -65447,7 +65546,7 @@
     {
       "entry": 1239010877,
       "orgNumber": "802002-4496",
-      "orgName": "F\u00f6rbundet Djurens R\u00e4tt",
+      "orgName": "Djurens R\u00e4tt",
       "categories": [
         "f\u00f6rbund",
         "insamlingskontroll",
@@ -65477,7 +65576,7 @@
     {
       "entry": 1239011099,
       "orgNumber": "815200-8317",
-      "orgName": "Svenska S\u00e4llskapet f\u00f6r Medicinsk forskning, SSMF",
+      "orgName": "Svenska S\u00e4llskapet f\u00f6r Medicinsk forskning",
       "categories": [
         "donation",
         "forskning",
@@ -65748,7 +65847,7 @@
     {
       "entry": 1239015041,
       "orgNumber": "802013-3420",
-      "orgName": "Riksf\u00f6rbundet BRIS - Barnens R\u00e4tt i Samh\u00e4llet",
+      "orgName": "BRIS - Barnens R\u00e4tt i Samh\u00e4llet",
       "categories": [
         "insamlingskontroll",
         "riksf\u00f6rbund"

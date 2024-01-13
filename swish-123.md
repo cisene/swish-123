@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-01-13-rev-015759
+Date:     2024-01-13-rev-031429
 ...
 
 # Swish 123 Nummer
@@ -6376,7 +6376,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239003922 | 846502-2815 | Stiftelsen för befrämjande av cancerforskning vid Onkologiska kliniken universitetssjukhuset MAS     |                           |
 | 1239003930 | 875001-4063 | Lepramissionen Sverige                                                                               |                           |
 | 1239003948 | 802465-1591 | MOD - Mer organdonation                                                                              |                           |
-| 1239003971 | 802016-9846 | Emmaus Stockholm                                                                                     |                           |
+| 1239003971 | 802016-9846 | Artikel 2 - Peace and Sustainability                                                                 |                           |
 | 1239003989 | 802472-0891 | Suicide Zero                                                                                         |                           |
 | 1239003997 | 802425-9189 | Fibromyalgiförbundets forskningsstiftelse                                                            |                           |
 | 1239004029 | 802445-3675 | Föreningen Skolprojekt Sudan, Anitha Academy                                                         |                           |
@@ -6419,7 +6419,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239004870 | 802478-1950 | Jontefondens Insamlingsstiftelse                                                                     |                           |
 | 1239004896 | 802404-3716 | LP-Verksamhetens Ideella Riksförening                                                                |                           |
 | 1239004946 | 802493-7735 | IT for Children                                                                                      |                           |
-| 1239004995 | 874400-6506 | Maj-Lis Filantropiska Insamlingsstiftelse                                                            |                           |
 | 1239005000 | 857201-7179 | Svenska Sjöräddningssällskapet SSRS                                                                  |                           |
 | 1239005034 | 252002-6531 | Trossamfundet Romersk-Katolska Kyrkan                                                                |                           |
 | 1239005042 | 829502-8826 | Tuki Nepal Society Sweden                                                                            |                           |
@@ -6427,7 +6426,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239005075 | 802013-5227 | Hjärnskadeförbundet Hjärnkraft                                                                       |                           |
 | 1239005083 | 802012-8081 | Insamlingsstiftelsen Vi planterar träd - Vi-Skogen                                                   |                           |
 | 1239005091 | 802004-6911 | Svenska P.E.N.                                                                                       |                           |
-| 1239005117 | 802496-9472 | Eskilstuna Stadsmission                                                                              |                           |
+| 1239005117 | 802496-9472 | Sörmlands Stadsmission                                                                               |                           |
 | 1239005133 | 802409-8264 | Stiftelsen Min Stora Dag                                                                             |                           |
 | 1239005141 | 866001-3239 | Bufff Sverige                                                                                        |                           |
 | 1239005190 | 802497-7434 | IOGT-NTO-rörelsen Ideell förening                                                                    |                           |
@@ -6464,13 +6463,16 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239005851 | 802407-2160 | Män för Jämställdhet                                                                                 |                           |
 | 1239005877 | 802013-1952 | Hjärtebarnsfonden                                                                                    |                           |
 | 1239005919 | 802010-4264 | Bröstcancerförbundet                                                                                 |                           |
+| 1239005935 | 802479-8970 | Stiftelsen för Östersjölaxen                                                                         |                           |
 | 1239005943 | 838200-5281 | Föreningen Furuboda                                                                                  |                           |
 | 1239005968 | 857210-1361 | Föreningen Afrikas Barn, FAB                                                                         |                           |
 | 1239005984 | 802417-1987 | Talita                                                                                               |                           |
 | 1239005992 | 863500-7340 | Stiftelsen Dispurse                                                                                  |                           |
+| 1239006016 | 802002-6806 | Riksförbundet Svensk Trädgård                                                                        |                           |
 | 1239006032 | 802017-2360 | Läkare utan Gränser                                                                                  |                           |
 | 1239006057 | 828000-9948 | Föreningsalliansen Gnosjö Hjälper                                                                    |                           |
 | 1239006065 | 802452-1786 | Riksförbundet Noaks Ark                                                                              |                           |
+| 1239006073 | 802409-7639 | Stödföreningen för Barbro Johanssons fond för utbildning av flickor i Tanzania, JOHAfonden           |                           |
 | 1239006081 | 857209-1422 | Prostatacancerförbundet                                                                              |                           |
 | 1239006099 | 802002-8133 | RFSU, Riksförbundet för Sexuell Upplysning                                                           |                           |
 | 1239006149 | 802426-0229 | Familjen Einhorns Stiftelse                                                                          |                           |
@@ -6491,7 +6493,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239006610 | 822003-6191 | Vision for All                                                                                       |                           |
 | 1239006628 | 894001-0237 | Umeå Stadsmission                                                                                    |                           |
 | 1239006776 | 802502-3220 | Help at Hand                                                                                         |                           |
-| 1239006784 | 802481-2359 | Insamlingsstiftelsen Lions Cancerforskningsfond                                                      | Mellansverige Uppsala-Örebro |
+| 1239006784 | 802481-2359 | Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-Örebro                         |                           |
 | 1239006792 | 802465-2169 | Föreningen Storasyster                                                                               |                           |
 | 1239006800 | 802490-6771 | Barnrättsbyrån Sverige                                                                               |                           |
 | 1239006826 | 802442-0641 | West Pride                                                                                           |                           |
@@ -6529,7 +6531,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239007493 | 802526-3420 | Givande Hand                                                                                         |                           |
 | 1239007501 | 802017-5504 | Fonden för Psykisk Hälsa                                                                             |                           |
 | 1239007519 | 857204-1682 | Gelinstiftelsen                                                                                      |                           |
-| 1239007535 | 802479-9978 | Stiftelsen Inventum                                                                                  |                           |
 | 1239007550 | 802526-9443 | Ideella Föreningen En Frisk Generation                                                               |                           |
 | 1239007568 | 864501-7768 | Stiftelsen Borås Forsknings- och Utvecklingsfond mot cancer                                          |                           |
 | 1239007576 | 802513-4795 | Treskablinoll Sverige                                                                                |                           |
@@ -6544,7 +6545,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239007766 | 802400-7620 | ForumCiv                                                                                             |                           |
 | 1239007774 | 802001-6047 | Internationella Kvinnoförbundet för Fred och Frihet, IKFF                                            |                           |
 | 1239007782 | 857209-6173 | Clownkliniken                                                                                        |                           |
-| 1239007790 | 802481-5956 | Insamlingsstiftelsen Baltic Waters 2030                                                              |                           |
+| 1239007790 | 802481-5956 | Insamlingsstiftelsen Baltic Waters                                                                   |                           |
 | 1239007808 | 802010-4850 | Svenska Afghanistankommittén                                                                         |                           |
 | 1239007816 | 802001-8613 | Korpen Svenska Motionsidrottsförbundet                                                               |                           |
 | 1239007832 | 802481-9370 | Insamlingsstiftelsen Framtidens Natur & Kulturarv                                                    |                           |
@@ -6552,7 +6553,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239007865 | 802477-9293 | Solvatten Insamlingsstiftelse                                                                        |                           |
 | 1239007873 | 802481-1922 | Lena Wäpplings Stiftelse                                                                             |                           |
 | 1239007915 | 802007-3436 | Synskadades Riksförbund                                                                              |                           |
-| 1239007931 | 817602-0025 | Insamlingsstiftelsen Perinatalmedicinska Forskningsfonden i Uppsala - Födelsefonden                  |                           |
+| 1239007931 | 817602-0025 | Insamlingsstiftelsen Födelsefonden                                                                   |                           |
 | 1239007949 | 855101-4874 | Stiftelsen ParkinsonFörbundets Forskningsfond                                                        |                           |
 | 1239008004 | 802002-8711 | Svenska Röda Korset                                                                                  |                           |
 | 1239008012 | 802002-8711 | Svenska Röda Korset                                                                                  |                           |
@@ -6561,15 +6562,25 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239008095 | 802002-8711 | Svenska Röda Korset                                                                                  |                           |
 | 1239008137 | 802481-8935 | Insamlingsstiftelsen Human Practice Foundation Sweden                                                |                           |
 | 1239008160 | 802491-8990 | Nya Kompisbyrån                                                                                      |                           |
-| 1239008178 | 802460-9284 | Tjejjouren Väst                                                                                      |                           |
+| 1239008178 | 802460-9284 | Maana                                                                                                |                           |
+| 1239008251 | 802426-4619 | Stiftelsen Trygga Barnen                                                                             |                           |
 | 1239008269 | 802482-0386 | UtbildningsStiftelsen                                                                                |                           |
+| 1239008277 | 802014-5424 | Sverok                                                                                               |                           |
+| 1239008285 | 857204-1930 | Dyslexiförbundet                                                                                     |                           |
+| 1239008293 | 802481-5949 | Stiftelsen ChildX                                                                                    |                           |
+| 1239008301 | 802407-8332 | Clownmedicin-Glädjeverkstan                                                                          |                           |
 | 1239008343 | 857209-4004 | Insamlingsstiftelsen Drottning Silvias Barnsjukhus                                                   |                           |
 | 1239008392 | 857500-7490 | Muskelfonden - Insamlingsstiftelsen Forskningsfonden för Neuromuskulära Sjukdomar                    |                           |
 | 1239008442 | 827500-9234 | Skandinaviska Läkarbanken - ideell förening                                                          |                           |
 | 1239008459 | 826500-5010 | Insamlingsstiftelsen Svenska Barnhjälpen                                                             |                           |
+| 1239008475 | 802502-7627 | Svenska med baby                                                                                     |                           |
+| 1239008483 | 802432-7630 | Hundar Utan Hem                                                                                      |                           |
 | 1239008533 | 802002-7291 | Mind                                                                                                 |                           |
 | 1239008582 | 802403-4442 | Stiftelsen Demensfonden                                                                              |                           |
+| 1239008590 | 826000-4372 | Svenska Alliansmissionen (SAM)                                                                       |                           |
 | 1239008616 | 802472-8910 | World Children Need                                                                                  |                           |
+| 1239008624 | 817602-5198 | Barnombudet i Uppsala län                                                                            |                           |
+| 1239008657 | 802502-7627 | Svenska med baby                                                                                     |                           |
 | 1239008780 | 822001-0022 | Östergötlands Stadsmission                                                                           |                           |
 | 1239008806 | 802005-0947 | Stiftelsen Konung Gustaf V:s Jubileumsfond, Radiumhemmets Forskningsfonder                           |                           |
 | 1239008913 | 822001-7506 | MAF-Sweden                                                                                           |                           |
@@ -6596,10 +6607,10 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239010687 | 802409-1970 | TERRAFEM                                                                                             |                           |
 | 1239010802 | 846002-8734 | Stiftelsen Skandinaviska Barnmissionen                                                               |                           |
 | 1239010851 | 802001-0602 | Svenska Freds- och Skiljedomsföreningen                                                              |                           |
-| 1239010877 | 802002-4496 | Förbundet Djurens Rätt                                                                               |                           |
+| 1239010877 | 802002-4496 | Djurens Rätt                                                                                         |                           |
 | 1239010901 | 812000-2202 | Svenska Läkare mot Kärnvapen                                                                         |                           |
 | 1239011024 | 875002-5994 | Hopajola                                                                                             |                           |
-| 1239011099 | 815200-8317 | Svenska Sällskapet för Medicinsk forskning, SSMF                                                     |                           |
+| 1239011099 | 815200-8317 | Svenska Sällskapet för Medicinsk forskning                                                           |                           |
 | 1239011115 | 897001-2392 | Stiftelsen Barnens RäddningsArk                                                                      |                           |
 | 1239011123 | 885001-2496 | Stiftelsen Gävle Cancerfond                                                                          |                           |
 | 1239011172 | 802424-1393 | Insamlingsstiftelsen Naturarvet                                                                      |                           |
@@ -6625,7 +6636,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1239013202 | 837000-7240 | Stiftelsen Team Mission                                                                              |                           |
 | 1239014010 | 875002-7800 | Insamlingsstiftelsen Ankaret                                                                         |                           |
 | 1239014077 | 885001-7404 | Cancerföreningen Gävleborg                                                                           |                           |
-| 1239015041 | 802013-3420 | Riksförbundet BRIS - Barnens Rätt i Samhället                                                        |                           |
+| 1239015041 | 802013-3420 | BRIS - Barnens Rätt i Samhället                                                                      |                           |
 | 1239015504 | 802013-1671 | Föreningen för den Beridna Högvakten                                                                 |                           |
 | 1239016031 | 252002-6135 | Trossamfundet Svenska Kyrkan                                                                         |                           |
 | 1239016834 | 802002-4280 | Svenska Naturskyddsföreningen                                                                        |                           |

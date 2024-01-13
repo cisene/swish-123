@@ -56926,7 +56926,7 @@ entries:
   - donation
   - insamlingskontroll
   - stiftelse
-  web: https://www.gunduafoundation.org/
+  web: https://gunduafoundation.org/
 
 - entry: 1239002171
   orgName: ALEF, Adult Learning and Empowerment Faciliators
@@ -57450,7 +57450,7 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
-  web: https://www.drivkraftmalmo.se/
+  web: https://www.drivkraftideell.se/
 
 - entry: 1239002866
   orgName: Insamlingsstiftelsen Lions fond för medicinsk forskning inom Skåne
@@ -58296,7 +58296,7 @@ entries:
   web: null
 
 - entry: 1239003971
-  orgName: Emmaus Stockholm
+  orgName: Artikel 2 - Peace and Sustainability
   orgNumber: 802016-9846
   comment: null
   categories:
@@ -59031,7 +59031,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - overifierad
+  - terminated
   web: https://www.shifo.org/
 
 - entry: 1239004946
@@ -59090,6 +59090,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - terminated
   web: https://www.maj-lis.org/
 
 - entry: 1239005000
@@ -59171,12 +59172,12 @@ entries:
   web: null
 
 - entry: 1239005117
-  orgName: Eskilstuna Stadsmission
+  orgName: Sörmlands Stadsmission
   orgNumber: 802496-9472
   comment: null
   categories:
   - insamlingskontroll
-  web: https://www.eskilstunastadsmission.se/
+  web: https://www.sormlandsstadsmission.se/
 
 - entry: 1239005125
   orgName: Insamlingsstiftelsen Hjärtat för Danderyds Sjukhus
@@ -59755,9 +59756,8 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - overifierad
   - stiftelse
-  web: https://www.baltcsalmonfund.com/
+  web: https://www.balticsalmonfund.com/
 
 - entry: 1239005943
   orgName: Föreningen Furuboda
@@ -59813,7 +59813,6 @@ entries:
   categories:
   - förbund
   - insamlingskontroll
-  - overifierad
   web: https://www.tradgard.org/
 
 - entry: 1239006024
@@ -59858,7 +59857,6 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - overifierad
   web: https://www.johafonden.com/
 
 - entry: 1239006081
@@ -60388,9 +60386,9 @@ entries:
   web: https://www.helpathand.se/
 
 - entry: 1239006784
-  orgName: Insamlingsstiftelsen Lions Cancerforskningsfond
+  orgName: Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-Örebro
   orgNumber: 802481-2359
-  comment: Mellansverige Uppsala-Örebro
+  comment: null
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
@@ -60994,6 +60992,7 @@ entries:
   categories:
   - insamlingskontroll
   - stiftelse
+  - terminated
   web: https://www.stiftelseninventum.se/
 
 - entry: 1239007543
@@ -61174,13 +61173,13 @@ entries:
   web: https://www.clownkliniken.se/
 
 - entry: 1239007790
-  orgName: Insamlingsstiftelsen Baltic Waters 2030
+  orgName: Insamlingsstiftelsen Baltic Waters
   orgNumber: 802481-5956
   comment: null
   categories:
   - insamlingskontroll
   - stiftelse
-  web: https://www.balticwaters2030.org/
+  web: https://www.balticwaters.org/
 
 - entry: 1239007808
   orgName: Svenska Afghanistankommittén
@@ -61288,7 +61287,7 @@ entries:
   web: https://www.bishozi.com/
 
 - entry: 1239007931
-  orgName: Insamlingsstiftelsen Perinatalmedicinska Forskningsfonden i Uppsala - Födelsefonden
+  orgName: Insamlingsstiftelsen Födelsefonden
   orgNumber: 817602-0025
   comment: null
   categories:
@@ -61405,7 +61404,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  web: https://www.humanpractice.org/
+  web: https://www.humanpractice.org/country-se/
 
 - entry: 1239008145
   orgName: Humana Sverige, Miljö & Biståndsförening
@@ -61434,7 +61433,7 @@ entries:
   web: https://www.nyakompisbyran.se/
 
 - entry: 1239008178
-  orgName: Tjejjouren Väst
+  orgName: Maana
   orgNumber: 802460-9284
   comment: null
   categories:
@@ -61478,6 +61477,14 @@ entries:
   - terminated
   web: null
 
+- entry: 1239008251
+  orgName: Stiftelsen Trygga Barnen
+  orgNumber: 802426-4619
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.tryggabarnen.org/
+
 - entry: 1239008269
   orgName: UtbildningsStiftelsen
   orgNumber: 802482-0386
@@ -61485,6 +61492,38 @@ entries:
   categories:
   - insamlingskontroll
   web: https://www.utbildningsstiftelsen.org/
+
+- entry: 1239008277
+  orgName: Sverok
+  orgNumber: 802014-5424
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.sverok.se/
+
+- entry: 1239008285
+  orgName: Dyslexiförbundet
+  orgNumber: 857204-1930
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.dyslexi.org/
+
+- entry: 1239008293
+  orgName: Stiftelsen ChildX
+  orgNumber: 802481-5949
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.childx.se/
+
+- entry: 1239008301
+  orgName: Clownmedicin-Glädjeverkstan
+  orgNumber: 802407-8332
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.clownmedicin.se/
 
 - entry: 1239008343
   orgName: Insamlingsstiftelsen Drottning Silvias Barnsjukhus
@@ -61559,6 +61598,22 @@ entries:
   - stiftelse
   web: https://www.svenskabarnhjalpen.se/
 
+- entry: 1239008475
+  orgName: Svenska med baby
+  orgNumber: 802502-7627
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.svenskamedbaby.se/
+
+- entry: 1239008483
+  orgName: Hundar Utan Hem
+  orgNumber: 802432-7630
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.hundarutanhem.se/
+
 - entry: 1239008533
   orgName: Mind
   orgNumber: 802002-7291
@@ -61577,6 +61632,14 @@ entries:
   - stiftelse
   web: https://www.demensfonden.se/
 
+- entry: 1239008590
+  orgName: Svenska Alliansmissionen (SAM)
+  orgNumber: 826000-4372
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.alliansmissionen.se/
+
 - entry: 1239008616
   orgName: World Children Need
   orgNumber: 802472-8910
@@ -61586,6 +61649,22 @@ entries:
   - hjälporganisation
   - insamlingskontroll
   web: https://worldchildrenneed.org/
+
+- entry: 1239008624
+  orgName: Barnombudet i Uppsala län
+  orgNumber: 817602-5198
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.barnombudet.se/
+
+- entry: 1239008657
+  orgName: Svenska med baby
+  orgNumber: 802502-7627
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.lionsborensberg.se/
 
 - entry: 1239008780
   orgName: Östergötlands Stadsmission
@@ -61740,9 +61819,9 @@ entries:
   web: https://www.socialamissionen.se/
 
 - entry: 1239009408
-  orgName: Insamlingsstiftelsen Lions Cancerforskningsfond
+  orgName: Insamlingsstiftelsen Lions Cancerforskningsfond vid Akademiska Sjukhuset i Uppsala
   orgNumber: null
-  comment: Akademiska Sjukhuset i Uppsala
+  comment: null
   categories:
   - insamlingskontroll
   - terminated
@@ -61970,7 +62049,7 @@ entries:
   web: https://www.svenskafreds.se/
 
 - entry: 1239010877
-  orgName: Förbundet Djurens Rätt
+  orgName: Djurens Rätt
   orgNumber: 802002-4496
   comment: null
   categories:
@@ -62006,7 +62085,7 @@ entries:
   web: https://www.hopajola.se/
 
 - entry: 1239011099
-  orgName: Svenska Sällskapet för Medicinsk forskning, SSMF
+  orgName: Svenska Sällskapet för Medicinsk forskning
   orgNumber: 815200-8317
   comment: null
   categories:
@@ -62380,7 +62459,7 @@ entries:
   web: null
 
 - entry: 1239015041
-  orgName: Riksförbundet BRIS - Barnens Rätt i Samhället
+  orgName: BRIS - Barnens Rätt i Samhället
   orgNumber: 802013-3420
   comment: null
   categories:
