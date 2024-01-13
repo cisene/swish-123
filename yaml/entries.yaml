@@ -11024,6 +11024,16 @@ entries:
   - ridklubb
   web: https://www.laget.se/AlboRidklubb/
 
+- entry: 1231237551
+  orgName: Gävle Ryttarsällskap
+  orgNumber: 885000-7348
+  comment: null
+  categories:
+  - hästsport
+  - ridskola
+  - ryttarsällskap
+  web: https://www.grs.nu/
+
 - entry: 1231237569
   orgName: Hjältarnas Hus
   orgNumber: 802475-6515
@@ -11879,6 +11889,16 @@ entries:
   categories:
   - idrottsförening
   web: https://www.delsboif.com/
+
+- entry: 1231326453
+  orgName: Svedens Ponnyklubb
+  orgNumber: 883200-6319
+  comment: null
+  categories:
+  - hästsport
+  - ponnyklubb
+  - ridsport
+  web: https://www.svedens.se/
 
 - entry: 1231326842
   orgName: Bergshamra Bygdegårdsförening
@@ -13057,6 +13077,16 @@ entries:
   categories:
   - pensionärsklubb
   web: https://rpg.org.se/distrikt/skane-blekinge/
+
+- entry: 1231475219
+  orgName: Färjestad Ridklubb
+  orgNumber: 873200-6369
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ridsport
+  web: https://www.fark.se/
 
 - entry: 1231475516
   orgName: Pingstförsamlingen Hedemora
@@ -19120,6 +19150,7 @@ entries:
   categories:
   - hästsport
   - ridklubb
+  - ridsport
   web: https://torsbyridklubb.se/
 
 - entry: 1232183515
@@ -19640,6 +19671,16 @@ entries:
   categories:
   - fotvård
   web: https://www.hypensfotvard.se/
+
+- entry: 1232235034
+  orgName: Hagfors Uddeholms RK- Ridsport
+  orgNumber: 872800-3594
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ridsport
+  web: https://www.hurk.nu/
 
 - entry: 1232235695
   orgName: PRO Lysekil
@@ -22314,6 +22355,16 @@ entries:
   - stiftelse
   web: http://www.hallbart.nu/
 
+- entry: 1232590628
+  orgName: Sörmons Ridklubb
+  orgNumber: 873201-0478
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ridsport
+  web: https://www.smrk.se/
+
 - entry: 1232590743
   orgName: Atrium Ideell Förening
   orgNumber: 829502-6390
@@ -22330,6 +22381,16 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/mariannelunds-och-hassleby
+
+- entry: 1232591873
+  orgName: Hagfors Uddeholms RK- Ridsport
+  orgNumber: 872800-3594
+  comment: Ungdomssektionen
+  categories:
+  - hästsport
+  - ridklubb
+  - ridsport
+  web: https://www.hurk.nu/
 
 - entry: 1232592160
   orgName: Grafik i Väst
@@ -22658,6 +22719,15 @@ entries:
   - neurohälsa
   - stiftelse
   web: https://spinalis.se/
+
+- entry: 1232636298
+  orgName: Göteborgs Akademiska Ryttarsällskap, GARS
+  orgNumber: 802496-5371
+  comment: null
+  categories:
+  - ridsport
+  - ryttarsällskap
+  web: https://www.gars.nu/
 
 - entry: 1232636884
   orgName: Knivsta Scoutkår
@@ -27632,6 +27702,15 @@ entries:
   - riksorganisation
   web: https://vsi.nu/
 
+- entry: 1233265030
+  orgName: Gerstorps Ryttarsällskap, GRS
+  orgNumber: 802473-6111
+  comment: null
+  categories:
+  - hästsport
+  - ryttarsällskap
+  web: https://www.gerstorprs.se/
+
 - entry: 1233265816
   orgName: Sollefteå Skidor Idrottsförening
   orgNumber: 802468-6860
@@ -29874,6 +29953,15 @@ entries:
   categories:
   - religion
   web: https://livsluft.efssyd.org/
+
+- entry: 1233548153
+  orgName: Leksands Ridklubb
+  orgNumber: 883200-5741
+  comment: Tävlingar, Omstart
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://leksandsrk.org/
 
 - entry: 1233548161
   orgName: Kattkommando Syd SmålandsKatten
@@ -34687,6 +34775,16 @@ entries:
   - jordbruk
   web: https://solskensfarmarna.se/
 
+- entry: 1234214946
+  orgName: Hagfors Uddeholms RK- Ridsport
+  orgNumber: 872800-3594
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ridsport
+  web: https://www.hurk.nu/
+
 - entry: 1234215471
   orgName: Yoga Jajaja / Heléne Clemensson
   orgNumber: 660220-XXXX
@@ -35462,6 +35560,16 @@ entries:
   - ideell förening
   web: https://helpfulnessfoundation.org/
 
+- entry: 1234316477
+  orgName: Matfors Ryttarförening
+  orgNumber: 889201-1597
+  comment: null
+  categories:
+  - hästsport
+  - ridskola
+  - ryttarförening
+  web: https://www.svenskalag.se/matforsrf
+
 - entry: 1234316998
   orgName: Dagstorpssjön Fiskekort / Höörs Kommun
   orgNumber: 212000-1116
@@ -35977,6 +36085,16 @@ entries:
   - idrottsförening
   web: https://ifkboras.se/
 
+- entry: 1234405858
+  orgName: Karlstads Ridklubb
+  orgNumber: 873200-1204
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ridsport
+  web: https://krk.se/
+
 - entry: 1234406666
   orgName: Lions Club Mjölby
   orgNumber: 823000-5467
@@ -36462,6 +36580,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/albo-harad
 
+- entry: 1234462552
+  orgName: Stall JG AB
+  orgNumber: 556157-5654
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  web: https://stalljg.se/
+
 - entry: 1234463105
   orgName: Brand New Profile
   orgNumber: 559114-0685
@@ -36640,6 +36767,16 @@ entries:
   - gocartklubb
   - motorsport
   web: https://www.jkckarting.se/
+
+- entry: 1234491536
+  orgName: Stora Wäsby Fältrittklubb
+  orgNumber: 802418-2886
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarsällskap
+  web: https://www.swfrk.se/
 
 - entry: 1234492120
   orgName: Eksjöortens RF - Ridsport
@@ -36860,6 +36997,15 @@ entries:
   categories:
   - hembygdsförening
   web: http://www.flodahembygd.se/
+
+- entry: 1234520649
+  orgName: Leksands Ridklubb
+  orgNumber: 883200-5741
+  comment: Hippodromen, Engångsridning
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://leksandsrk.org/
 
 - entry: 1234522207
   orgName: Brännkyrka Församling
@@ -40328,6 +40474,16 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/nyckelby/
 
+- entry: 1235049564
+  orgName: Borlänge Ridklubb - Ridsport
+  orgNumber: 882601-2455
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ridsport
+  web: https://www.borlangeridklubb.se/
+
 - entry: 1235049648
   orgName: Lerums Scoutkår
   orgNumber: 802516-5096
@@ -40940,6 +41096,15 @@ entries:
   - hästsport
   web: https://www.linkopingsfaltrittklubb.se/
 
+- entry: 1235116801
+  orgName: Leksands Ridklubb
+  orgNumber: 883200-5741
+  comment: klubbtävling, läger
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://leksandsrk.org/
+
 - entry: 1235117106
   orgName: Handbollsakademin i Sverige
   orgNumber: 802427-5490
@@ -41149,6 +41314,16 @@ entries:
   categories:
   - ridskola
   web: https://aphast.se/
+
+- entry: 1235128848
+  orgName: Hammarö Ryttarförening
+  orgNumber: 873200-8332
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarförening
+  web: https://www.hammarorf.se/
 
 - entry: 1235128970
   orgName: IF Aerostep Company - Korpen
@@ -43223,6 +43398,15 @@ entries:
   - kvinnojour
   web: https://somaya.se/
 
+- entry: 1235383096
+  orgName: Wermland Western Riders
+  orgNumber: 872800-5201
+  comment: null
+  categories:
+  - hästsport
+  - westernridning
+  web: https://wwr.se/
+
 - entry: 1235383302
   orgName: Skara Gille
   orgNumber: 868400-6615
@@ -43393,7 +43577,10 @@ entries:
   orgName: Crevoice AB
   orgNumber: 556794-8400
   comment: null
-  categories: null
+  categories:
+  - försäljning
+  - hörselnedsättning
+  - ljudsystem
   web: https://crevoice.se/
 
 - entry: 1235400338
@@ -48683,6 +48870,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1236107940
+  orgName: Skålö Bystugeförening
+  orgNumber: 882601-2034
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: null
 
 - entry: 1236109615
   orgName: Brännkyrka Församlings Fredsgrupp
@@ -54967,6 +55162,16 @@ entries:
   categories:
   - religion
   web: https://umea.pingst.se/
+
+- entry: 1236959431
+  orgName: Österfärnebo RS - Ridsport
+  orgNumber: 885501-3739
+  comment: null
+  categories:
+  - hästsport
+  - ridskola
+  - ridsport
+  web: https://www.osterfarnebo-rs.se/
 
 - entry: 1236959753
   orgName: Frälsningsarmén
