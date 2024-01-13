@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-13-rev-140310",
+    "date": "2024-01-13-rev-165805",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1586,6 +1586,15 @@
       "web": "https://nordiclegions.net/"
     },
     {
+      "entry": 1230180778,
+      "orgNumber": "886501-0485",
+      "orgName": "Edsbyn Red Farmers",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.redfarmers.se/"
+    },
+    {
       "entry": 1230181917,
       "orgNumber": "835000-3185",
       "orgName": "Ols\u00e4ngsg\u00e5rden",
@@ -1909,6 +1918,17 @@
         "idrottss\u00e4llskap"
       ],
       "web": "https://www.svenskalag.se/osterakersis"
+    },
+    {
+      "entry": 1230195495,
+      "orgNumber": "878000-5214",
+      "orgName": "F\u00f6rbundet S:t Lukas i V\u00e4ster\u00e5s",
+      "categories": [
+        "handledning",
+        "organisationsutveckling",
+        "psykoterapi"
+      ],
+      "web": "https://sanktlukas.se/vasteras/"
     },
     {
       "entry": 1230196550,
@@ -3102,6 +3122,18 @@
       "web": "https://www.umu.se/kontakta-oss/ge-en-gava/sa-har-gor-du/donation/"
     },
     {
+      "entry": 1230315614,
+      "orgNumber": "802454-6429",
+      "orgName": "Alings\u00e5s Karateklubb",
+      "comment": "Gradering, L\u00e4ger",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.alingsaskarateklubb.se/"
+    },
+    {
       "entry": 1230316208,
       "orgNumber": "802534-5466",
       "orgName": "Team Rynkeby",
@@ -3709,6 +3741,17 @@
         "tennisklubb"
       ],
       "web": "https://odakratennis.se/"
+    },
+    {
+      "entry": 1230373134,
+      "orgNumber": "802454-6429",
+      "orgName": "Alings\u00e5s Karateklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.alingsaskarateklubb.se/"
     },
     {
       "entry": 1230373837,
@@ -6186,7 +6229,7 @@
       "orgNumber": "845002-3331",
       "orgName": "Brottsofferjouren Mellersta Sk\u00e5ne",
       "categories": [
-        "intresseorganisation"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -6238,6 +6281,16 @@
         "tankesmedja"
       ],
       "web": "https://tankesmedjanbalans.se/"
+    },
+    {
+      "entry": 1230635953,
+      "orgNumber": "802455-1403",
+      "orgName": "Sigtuna Budoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://sigtunabudo.se/"
     },
     {
       "entry": 1230637173,
@@ -6909,9 +6962,9 @@
     {
       "entry": 1230714824,
       "orgNumber": "864501-7222",
-      "orgName": "Brottsofferjouren",
+      "orgName": "Brottsofferjouren Bor\u00e5s-Sjuh\u00e4rad",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -7584,6 +7637,18 @@
       "web": "https://ggfsweden.org/"
     },
     {
+      "entry": 1230758227,
+      "orgNumber": "802450-0806",
+      "orgName": "Budoklubben Yoi",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "judoklubb",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://och.nu/yoi/info.html"
+    },
+    {
       "entry": 1230759712,
       "orgNumber": "802004-0575",
       "orgName": "Pingst Fria F\u00f6rsamlingar i samverkan",
@@ -7697,7 +7762,6 @@
       "categories": [
         "idrottsf\u00f6rening",
         "kampsportsf\u00f6rening",
-        "karate",
         "karateklubb"
       ],
       "web": "https://vasterasshukokai.se/"
@@ -8044,6 +8108,17 @@
         "religion"
       ],
       "web": "https://www.burekyrkan.com/"
+    },
+    {
+      "entry": 1230804294,
+      "orgNumber": "817604-9099",
+      "orgName": "KFUM Uppsala Kyokushin Karate",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.kyokushinuppsala.se/"
     },
     {
       "entry": 1230804336,
@@ -8696,7 +8771,8 @@
       "orgNumber": "802476-6027",
       "orgName": "Tjej och Transjouren Lina",
       "categories": [
-        "kvinnojour"
+        "kvinnojour",
+        "transjour"
       ],
       "web": "http://tjosa.se/"
     },
@@ -9029,6 +9105,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.brandsm.se/"
+    },
+    {
+      "entry": 1230898338,
+      "orgNumber": "802442-4395",
+      "orgName": "ABCD Budokai Sverige",
+      "categories": [
+        "funktionsvariation",
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://sites.google.com/abcdbudokai.se/abcdbudokaisverige"
     },
     {
       "entry": 1230898692,
@@ -10916,7 +11003,7 @@
       "orgNumber": "823000-9709",
       "orgName": "Brottsofferjouren V\u00e4stra \u00d6sterg\u00f6tland",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -15507,7 +15594,8 @@
       "orgNumber": "802430-8283",
       "orgName": "Uppsala tjej- och transjour",
       "categories": [
-        "kvinnojour"
+        "kvinnojour",
+        "transjour"
       ],
       "web": "https://uppsalattj.se/"
     },
@@ -15674,6 +15762,16 @@
         "hunduppf\u00f6dning"
       ],
       "web": "https://kortharsgruppen.org/"
+    },
+    {
+      "entry": 1231565795,
+      "orgNumber": "556401-0253",
+      "orgName": "Masen i Mora / Bokstaven AB",
+      "categories": [
+        "annonsblad",
+        "lokaltidning"
+      ],
+      "web": "https://masen.se/"
     },
     {
       "entry": 1231566744,
@@ -16867,7 +16965,7 @@
       "orgNumber": "829502-0815",
       "orgName": "Brottsofferjouren V\u00e4xj\u00f6",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -16963,7 +17061,7 @@
       "orgNumber": "878001-4349",
       "orgName": "Brottsofferjouren V\u00e4stmanland",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -20394,7 +20492,7 @@
       "orgNumber": "814000-0301",
       "orgName": "Brottsofferjouren Nacka-Tyres\u00f6-V\u00e4rmd\u00f6",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -20829,7 +20927,7 @@
       "orgNumber": "849600-6514",
       "orgName": "Brottsofferjouren Varberg",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -21943,6 +22041,16 @@
       "web": "https://www.shedo.se/"
     },
     {
+      "entry": 1232223063,
+      "orgNumber": "822000-9412",
+      "orgName": "Link\u00f6pings Budoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "http://www.linkopingbudo.se/"
+    },
+    {
       "entry": 1232223212,
       "orgNumber": "857202-3607",
       "orgName": "Elimf\u00f6rsamlingen Styrs\u00f6",
@@ -22175,6 +22283,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/rytterne-kyrka"
+    },
+    {
+      "entry": 1232251106,
+      "orgNumber": "802427-3156",
+      "orgName": "Upplands-Bro Budo & Kampsport",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://ubbk.org/"
     },
     {
       "entry": 1232251684,
@@ -23297,6 +23415,15 @@
       "web": "https://www.dalbacken.se/"
     },
     {
+      "entry": 1232334639,
+      "orgNumber": "802541-6515",
+      "orgName": "Skicka vidare till Ukraina",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.facebook.com/SkickaVidareTillUkraina"
+    },
+    {
       "entry": 1232338671,
       "orgNumber": "829001-5307",
       "orgName": "Berga Hembygdsf\u00f6rening",
@@ -23892,7 +24019,7 @@
     {
       "entry": 1232404507,
       "orgNumber": "802463-2484",
-      "orgName": "Drivkraft Malm\u00f6 id\u00e9ell f\u00f6rening",
+      "orgName": "Drivkraft Malm\u00f6 Ideell F\u00f6rening",
       "categories": [
         "f\u00f6rening"
       ],
@@ -25012,7 +25139,7 @@
       "orgNumber": "874000-9983",
       "orgName": "Brottsofferjouren \u00d6stra V\u00e4rmland",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -25776,6 +25903,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/wittsjo"
+    },
+    {
+      "entry": 1232665982,
+      "orgNumber": "802526-0814",
+      "orgName": "Sogo Budoklubb Stockholm",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.sogobudo.se/"
     },
     {
       "entry": 1232666758,
@@ -28055,7 +28192,7 @@
       "orgNumber": "802430-4498",
       "orgName": "Brottsofferjouren \u00d6rebro L\u00e4n",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -28878,6 +29015,16 @@
       "web": "http://qrut.se/"
     },
     {
+      "entry": 1232993988,
+      "orgNumber": "802444-9475",
+      "orgName": "Indra Queer, Trans & Tjejjour",
+      "categories": [
+        "kvinnojour",
+        "transjour"
+      ],
+      "web": "https://indrajour.se/"
+    },
+    {
       "entry": 1232994523,
       "orgNumber": "857210-0199",
       "orgName": "Lars och Britta Johanssons Insamlingsstiftelse",
@@ -29358,6 +29505,15 @@
         "simkunnighet"
       ],
       "web": "https://svenskalivraddningssallskapet.se/"
+    },
+    {
+      "entry": 1233052354,
+      "orgNumber": "883202-4353",
+      "orgName": "Brottsofferjouren \u00d6vre Dalarna",
+      "categories": [
+        "brottsofferjour"
+      ],
+      "web": "https://www.brottsofferjouren.se/hitta-en-brottsofferjour/ovre-dalarna/"
     },
     {
       "entry": 1233052461,
@@ -31394,7 +31550,6 @@
       "orgNumber": "802429-5472",
       "orgName": "Fempowerment",
       "categories": [
-        "donation",
         "kvinnojour"
       ],
       "web": "https://fempowerment.se/"
@@ -31499,6 +31654,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233325222,
+      "orgNumber": "845002-5849",
+      "orgName": "S\u00f6dra Sandby Jujitsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.sandby-jujitsu.se/"
     },
     {
       "entry": 1233326097,
@@ -33372,6 +33538,16 @@
       "web": "https://www.tollans.se/"
     },
     {
+      "entry": 1233523735,
+      "orgNumber": "846003-1860",
+      "orgName": "Malm\u00f6 Budoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://malmobudoklubb.se/"
+    },
+    {
       "entry": 1233525581,
       "orgNumber": "802458-7431",
       "orgName": "Budo H\u00f6\u00f6r IF",
@@ -34799,7 +34975,7 @@
       "orgNumber": "802490-7720",
       "orgName": "Brottsofferjouren Stockholm - Gotland",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -35114,6 +35290,16 @@
         "religion"
       ],
       "web": "https://www.sverigesbuddhister.se/"
+    },
+    {
+      "entry": 1233733722,
+      "orgNumber": "802005-7470",
+      "orgName": "Stockholm Aiki Kai, SAK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.stockholmaikikai.se/"
     },
     {
       "entry": 1233735107,
@@ -35807,6 +35993,16 @@
       "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-sodertalje/foreningar/jarna-vardinge.html"
     },
     {
+      "entry": 1233827029,
+      "orgNumber": "802528-3782",
+      "orgName": "Helsingborgs Tjej Och Transjour",
+      "categories": [
+        "kvinnojour",
+        "transjour"
+      ],
+      "web": "https://www.hbgttj.se/"
+    },
+    {
       "entry": 1233827615,
       "orgNumber": "252000-6343",
       "orgName": "Urshults F\u00f6rsamling",
@@ -35872,6 +36068,15 @@
         "hundsport"
       ],
       "web": "https://www.abhk.se/"
+    },
+    {
+      "entry": 1233836095,
+      "orgNumber": "878000-6683",
+      "orgName": "RF-SISU V\u00e4stmanland",
+      "categories": [
+        "utbildning"
+      ],
+      "web": "https://www.rfsisu.se/Vastmanland"
     },
     {
       "entry": 1233837028,
@@ -36012,6 +36217,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.kyrkesundsbyalag.se/"
+    },
+    {
+      "entry": 1233852951,
+      "orgNumber": "889200-6159",
+      "orgName": "Svenska R\u00f6da Korset Sk\u00f6nsbergskretsen",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg"
     },
     {
       "entry": 1233860368,
@@ -41056,6 +41270,18 @@
       "web": "https://uppsalats.blogspot.com/"
     },
     {
+      "entry": 1234471959,
+      "orgNumber": "802454-6429",
+      "orgName": "Alings\u00e5s Karateklubb",
+      "comment": "Tr\u00e4ningsutrustning och material",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.alingsaskarateklubb.se/"
+    },
+    {
       "entry": 1234472387,
       "orgNumber": "802534-5938",
       "orgName": "Team Rynkeby",
@@ -42149,11 +42375,19 @@
       "orgNumber": "802469-8063",
       "orgName": "Knislinge Budoklubb",
       "categories": [
-        "budoklubb",
         "idrottsf\u00f6rening",
         "kampsportsf\u00f6rening"
       ],
       "web": "https://www.knislingebudoklubb.se/"
+    },
+    {
+      "entry": 1234585659,
+      "orgNumber": "252004-2496",
+      "orgName": "Mora F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/mora"
     },
     {
       "entry": 1234585709,
@@ -43253,6 +43487,16 @@
         "veteranbil"
       ],
       "web": "https://www.nkpgraggare.nu/"
+    },
+    {
+      "entry": 1234731964,
+      "orgNumber": "802520-6643",
+      "orgName": "B\u00e5stad Budoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.bastadbudoklubb.se/"
     },
     {
       "entry": 1234734059,
@@ -44866,6 +45110,14 @@
       "web": "https://www.svenskakyrkan.se/vasteras/mariagarden-i-skultuna"
     },
     {
+      "entry": 1234991394,
+      "orgNumber": "802440-9537",
+      "orgName": "Malm\u00f6kretsen Svenska R\u00f6da Korset",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ]
+    },
+    {
       "entry": 1234992582,
       "orgNumber": "559084-1515",
       "orgName": "Cityf\u00f6tter i Bor\u00e5s AB",
@@ -46036,6 +46288,15 @@
       "web": "https://www.hembygd.se/svaltorna"
     },
     {
+      "entry": 1235112958,
+      "orgNumber": "802422-8556",
+      "orgName": "R\u00f6da Korsets Ungdomsf\u00f6rbund Uppsala",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.rkuf.se/uppsala/"
+    },
+    {
       "entry": 1235113626,
       "orgNumber": "802401-4386",
       "orgName": "UNICEF Namibia",
@@ -46801,7 +47062,7 @@
       "orgNumber": "843002-6214",
       "orgName": "Brottsofferjouren Helsingborg",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -46996,7 +47257,7 @@
       "orgNumber": "897001-5049",
       "orgName": "Brottsofferjouren Lule\u00e5",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -50172,6 +50433,16 @@
       "web": "https://ridklubben.net/"
     },
     {
+      "entry": 1235534201,
+      "orgNumber": "802002-8711",
+      "orgName": "R\u00f6da Korset - Folkh\u00f6gskolan",
+      "categories": [
+        "folkh\u00f6gskola",
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.rodakorsetsfolkhogskola.se/"
+    },
+    {
       "entry": 1235534433,
       "orgNumber": "894000-6946",
       "orgName": "Tavelsj\u00f6 AIK TAIK",
@@ -51414,6 +51685,16 @@
         "intressef\u00f6rening"
       ],
       "web": "http://gladjeknuff.se/"
+    },
+    {
+      "entry": 1235682810,
+      "orgNumber": "802505-5370",
+      "orgName": "Haruyama Aikijujutus Budoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "http://www.haruyama.se/"
     },
     {
       "entry": 1235685268,
@@ -53306,6 +53587,15 @@
       "web": "https://www.hemlosashus.se/"
     },
     {
+      "entry": 1235896204,
+      "orgNumber": "802498-6674",
+      "orgName": "Tillsammans G\u00f6r Vi Skillnad, TGVS",
+      "categories": [
+        "f\u00f6rening"
+      ],
+      "web": "https://tgvs.se/"
+    },
+    {
       "entry": 1235896436,
       "orgNumber": "802497-5024",
       "orgName": "Lions Club Ulricehamn",
@@ -54071,6 +54361,16 @@
       "web": "http://www.estunabygdegard.se/"
     },
     {
+      "entry": 1236009476,
+      "orgNumber": "845002-9239",
+      "orgName": "Hj\u00e4rups Budoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.hjarupsbudoklubb.se/"
+    },
+    {
       "entry": 1236009617,
       "orgNumber": "802001-0313",
       "orgName": "Svenska Fornminnesf\u00f6reningen",
@@ -54212,6 +54512,17 @@
         "religion"
       ],
       "web": "https://helamanniskan.se/lerum/"
+    },
+    {
+      "entry": 1236021380,
+      "orgNumber": "885000-7884",
+      "orgName": "G\u00e4vle Shotokan Karateklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://gavleshotokan.wordpress.com/"
     },
     {
       "entry": 1236021653,
@@ -54531,7 +54842,7 @@
       "orgNumber": "802015-4822",
       "orgName": "Brottsofferjouren i V\u00e4sterort",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -54664,6 +54975,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.odenasif.se/"
+    },
+    {
+      "entry": 1236085385,
+      "orgNumber": "874400-8254",
+      "orgName": "S\u00e4ffle Karateklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.safflekarateklubb.se/"
     },
     {
       "entry": 1236085807,
@@ -57393,6 +57715,16 @@
       "web": "http://ilse.se/"
     },
     {
+      "entry": 1236407068,
+      "orgNumber": "802505-4290",
+      "orgName": "Frizonen",
+      "categories": [
+        "suicid prevention",
+        "utsatthet"
+      ],
+      "web": "http://www.frizonen.org/"
+    },
+    {
       "entry": 1236407662,
       "orgNumber": "892600-7165",
       "orgName": "R\u00e4tans Hembygdsf\u00f6rening",
@@ -58336,6 +58668,16 @@
       "web": "https://www.eskilstunaortens-rf.se/"
     },
     {
+      "entry": 1236511117,
+      "orgNumber": "865000-7944",
+      "orgName": "Marks Budoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.marksbudo.se/"
+    },
+    {
       "entry": 1236511869,
       "orgNumber": "802420-7584",
       "orgName": "Lule\u00e5 Discgolff\u00f6rening",
@@ -58586,6 +58928,16 @@
         "kvinnojour"
       ],
       "web": "https://sollentunakvinnojour.se/"
+    },
+    {
+      "entry": 1236537120,
+      "orgNumber": "857209-7049",
+      "orgName": "Budoklubben Shindo",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.shindo.se/"
     },
     {
       "entry": 1236537138,
@@ -58905,6 +59257,15 @@
       "web": "https://www.klovertraskpingst.com/"
     },
     {
+      "entry": 1236619282,
+      "orgNumber": "878001-0768",
+      "orgName": "V\u00e4ster\u00e5s Sj\u00f6scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://vassjo.scout.se/"
+    },
+    {
       "entry": 1236619340,
       "orgNumber": "802420-4383",
       "orgName": "Stallarholmens N\u00e4tverk",
@@ -59170,6 +59531,16 @@
         "orienteringsklubb"
       ],
       "web": "https://www.laget.se/OKGrip/"
+    },
+    {
+      "entry": 1236652895,
+      "orgNumber": "802002-8711",
+      "orgName": "Svenska R\u00f6da Korset",
+      "comment": "R\u00f6da Korsets arbete i Palestina och Israel",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare"
+      ],
+      "web": "https://www.rodakorset.se/"
     },
     {
       "entry": 1236660088,
@@ -59633,6 +60004,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/mikaelikyrkan"
+    },
+    {
+      "entry": 1236699706,
+      "orgNumber": "802476-4642",
+      "orgName": "G\u00e5rda Budoklubb - Wadoryu Karate",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://gardabudo.com/"
     },
     {
       "entry": 1236701171,
@@ -60833,6 +61215,17 @@
       "web": "https://www.brunnsparkskyrkan.se/"
     },
     {
+      "entry": 1236827034,
+      "orgNumber": "817607-0723",
+      "orgName": "B\u00e5tklubben Wega",
+      "categories": [
+        "b\u00e5tklubb",
+        "segelklubb",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://www.bkwega.se/"
+    },
+    {
       "entry": 1236827315,
       "orgNumber": "857203-2012",
       "orgName": "V\u00e4stra Fr\u00f6lunda KK",
@@ -61261,7 +61654,7 @@
       "orgNumber": "802489-7525",
       "orgName": "Brottsofferjouren Storg\u00f6teborg",
       "categories": [
-        "intressef\u00f6rening"
+        "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
     },
@@ -64932,6 +65325,7 @@
       "orgNumber": "848001-1843",
       "orgName": "Freezonen, Kvinno-,Tjej- och Brottsofferjour",
       "categories": [
+        "brottsofferjour",
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "kvinnojour"
@@ -65366,6 +65760,7 @@
       "entry": 1239008004,
       "orgNumber": "802002-8711",
       "orgName": "Svenska R\u00f6da Korset",
+      "comment": "R\u00f6da Korsets arbete i Katastrofer",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
@@ -65396,6 +65791,7 @@
       "entry": 1239008079,
       "orgNumber": "802002-8711",
       "orgName": "Svenska R\u00f6da Korset",
+      "comment": "R\u00f6da Korsets arbete i Ukraina",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
