@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-13-rev-031430",
+    "date": "2024-01-13-rev-140310",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -35,6 +35,17 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.nbcgottne.se/"
+    },
+    {
+      "entry": 1230004580,
+      "orgNumber": "883201-5633",
+      "orgName": "Leksand Jujutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/leksandsjujutsuklubb"
     },
     {
       "entry": 1230004648,
@@ -3298,6 +3309,17 @@
       "web": "https://www.svenskakyrkan.se/frososunnenordero"
     },
     {
+      "entry": 1230328427,
+      "orgNumber": "802435-9872",
+      "orgName": "Vetlanda JuJutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.vetlandajujutsu.se/"
+    },
+    {
       "entry": 1230328641,
       "orgNumber": "893201-0955",
       "orgName": "Hede Samf\u00e4llighetsf\u00f6rening",
@@ -4131,6 +4153,17 @@
         "djurskydd"
       ],
       "web": "https://www.djurensvanner.se/vetlanda"
+    },
+    {
+      "entry": 1230416651,
+      "orgNumber": "802418-7935",
+      "orgName": "Hudiksvall Ju-Jutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://hudikju-jutsu.se/"
     },
     {
       "entry": 1230416941,
@@ -6572,6 +6605,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230690248,
+      "orgNumber": "802012-4049",
+      "orgName": "H\u00f6gdalens Budoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://hogdalensbudoklubb.se/"
     },
     {
       "entry": 1230691097,
@@ -10571,6 +10615,17 @@
       "web": "https://aseleik.sportadmin.se/"
     },
     {
+      "entry": 1231059955,
+      "orgNumber": "889601-4035",
+      "orgName": "\u00d6rnsk\u00f6ldsviks JJC",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.ojc.se/"
+    },
+    {
       "entry": 1231063056,
       "orgNumber": "551215-XXXX",
       "orgName": "Jennebo Radio / Stenskott Productions",
@@ -12119,6 +12174,17 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://educationnepal.org/"
+    },
+    {
+      "entry": 1231227529,
+      "orgNumber": "802407-2699",
+      "orgName": "Stockholms Judoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "judoklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.stockholmsjudoklubb.se/"
     },
     {
       "entry": 1231228956,
@@ -17660,6 +17726,17 @@
       "web": "https://arna.nu/"
     },
     {
+      "entry": 1231763960,
+      "orgNumber": "802539-7020",
+      "orgName": "Skelleftebygdens Jujutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "http://skelleftebygdensjujutsuklubb.se/"
+    },
+    {
       "entry": 1231764091,
       "orgNumber": "802532-7506",
       "orgName": "Team Rynkeby",
@@ -18373,6 +18450,17 @@
         "stiftelse"
       ],
       "web": "https://kattjouren.nu/"
+    },
+    {
+      "entry": 1231826916,
+      "orgNumber": "817601-8755",
+      "orgName": "Uppsala ju-jutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://ujjk.se/"
     },
     {
       "entry": 1231829738,
@@ -19581,6 +19669,17 @@
       "web": "https://www.hembygd.se/byskekyrkstad"
     },
     {
+      "entry": 1231986884,
+      "orgNumber": "802461-5885",
+      "orgName": "Furulunds Jujutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https"
+    },
+    {
       "entry": 1231988302,
       "orgNumber": "826000-6625",
       "orgName": "Hela M\u00e4nniskan J\u00f6nk\u00f6ping",
@@ -19907,6 +20006,17 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/eskilstuna/"
+    },
+    {
+      "entry": 1232029767,
+      "orgNumber": "802444-0706",
+      "orgName": "Romele\u00e5sens Jujutsu",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.romelejujutsu.se/"
     },
     {
       "entry": 1232030807,
@@ -24461,6 +24571,17 @@
       "web": "https://www.hembygd.se/vaster-silfberg"
     },
     {
+      "entry": 1232529808,
+      "orgNumber": "889201-3577",
+      "orgName": "Sundsvalls Budoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.sundsvallsbudoklubb.com/"
+    },
+    {
       "entry": 1232532307,
       "orgNumber": "815600-6168",
       "orgName": "Phoenixmottagningen / Stiftelsen Vidarkliniken",
@@ -25551,6 +25672,16 @@
         "sj\u00e4lvhj\u00e4lpsgrupper"
       ],
       "web": "https://www.nasverige.org/"
+    },
+    {
+      "entry": 1232649812,
+      "orgNumber": "802461-5109",
+      "orgName": "Markaryds Jujutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ]
     },
     {
       "entry": 1232656189,
@@ -27668,6 +27799,17 @@
         "stuguthyrning"
       ],
       "web": "https://www.norrskenlodge.com/"
+    },
+    {
+      "entry": 1232875730,
+      "orgNumber": "842000-3686",
+      "orgName": "Esl\u00f6vs Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridsport"
+      ],
+      "web": "https://eslovsridklubb.se/"
     },
     {
       "entry": 1232875839,
@@ -33230,6 +33372,18 @@
       "web": "https://www.tollans.se/"
     },
     {
+      "entry": 1233525581,
+      "orgNumber": "802458-7431",
+      "orgName": "Budo H\u00f6\u00f6r IF",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening",
+        "kungfuklubb"
+      ],
+      "web": "https://budohoor.se/"
+    },
+    {
       "entry": 1233525656,
       "orgNumber": "829000-0861",
       "orgName": "IF Troja-Ljungby",
@@ -38718,6 +38872,16 @@
       "web": "https://www.djurobyalag.se/"
     },
     {
+      "entry": 1234203246,
+      "orgNumber": "802505-1809",
+      "orgName": "Karlskrona Boxningsklubb",
+      "categories": [
+        "boxningsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://karlskronabk.wordpress.com/"
+    },
+    {
       "entry": 1234203535,
       "orgNumber": "802498-4315",
       "orgName": "Skellefte\u00e5 Makerspace",
@@ -40932,6 +41096,17 @@
       "web": "https://www.foretagarna.se/foreningar/svenljunga-tranemo/"
     },
     {
+      "entry": 1234480034,
+      "orgNumber": "894001-4080",
+      "orgName": "V\u00e4nn\u00e4s Ryttarf\u00f6rening",
+      "comment": "Ridskola",
+      "categories": [
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.vannasrf.com/"
+    },
+    {
       "entry": 1234480752,
       "orgNumber": "884401-0762",
       "orgName": "Lima Fiskev\u00e5rdsf\u00f6rening i Malung",
@@ -41662,7 +41837,6 @@
       "orgName": "Stiftelsen ChildX",
       "categories": [
         "donation",
-        "insamlingskontroll",
         "stiftelse"
       ],
       "web": "https://childx.se/"
@@ -41969,6 +42143,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
+      "entry": 1234584801,
+      "orgNumber": "802469-8063",
+      "orgName": "Knislinge Budoklubb",
+      "categories": [
+        "budoklubb",
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.knislingebudoklubb.se/"
     },
     {
       "entry": 1234585709,
@@ -42493,6 +42678,17 @@
         "vattensport"
       ],
       "web": "https://kiteboardcenter.se/"
+    },
+    {
+      "entry": 1234657011,
+      "orgNumber": "845002-4297",
+      "orgName": "Lugi Judoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "judoklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.lugijudo.se/"
     },
     {
       "entry": 1234657227,
@@ -44026,6 +44222,17 @@
       "web": "http://gwu-sweden.org/"
     },
     {
+      "entry": 1234929444,
+      "orgNumber": "802529-7402",
+      "orgName": "Brom\u00f6lla Jujutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://bromollajujutsu.se/"
+    },
+    {
       "entry": 1234929782,
       "orgNumber": "556546-2271",
       "orgName": "Casanovas / Casanovas i Vadstena AB",
@@ -44283,6 +44490,15 @@
         "intressef\u00f6rening"
       ],
       "web": "http://treskablinoll.nu/"
+    },
+    {
+      "entry": 1234948196,
+      "orgNumber": "721223-XXXX",
+      "orgName": "Combat Camp Sweden / Nikolaos Christoforidis",
+      "categories": [
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ]
     },
     {
       "entry": 1234948691,
@@ -45343,7 +45559,7 @@
       "orgName": "Western Riders Association, WRAS",
       "categories": [
         "h\u00e4stsport",
-        "western riding"
+        "westernridning"
       ],
       "web": "https://wras.horse/"
     },
@@ -45438,6 +45654,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://www.hamre.se/"
+    },
+    {
+      "entry": 1235087812,
+      "orgNumber": "802463-4357",
+      "orgName": "Laholms Jujutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ]
     },
     {
       "entry": 1235089966,
@@ -47400,6 +47626,17 @@
       "web": "https://www.fsbu.org/"
     },
     {
+      "entry": 1235272141,
+      "orgNumber": "802446-3914",
+      "orgName": "T\u00e4by Ju-Jutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "http://tabyjujutsu.se/"
+    },
+    {
       "entry": 1235272521,
       "orgNumber": "802017-5090",
       "orgName": "Disabled Refugees Welcome / Stiftelse Institutet f\u00f6r Independent Living",
@@ -48582,6 +48819,17 @@
       "web": "https://www.swebowl.se/"
     },
     {
+      "entry": 1235384227,
+      "orgNumber": "857204-0023",
+      "orgName": "G\u00f6teborgs Ju-Jutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://gjjk.se/"
+    },
+    {
       "entry": 1235390539,
       "orgNumber": "894700-5842",
       "orgName": "Skellefte\u00e5 CK - Curling",
@@ -49028,6 +49276,17 @@
       "web": "http://www.morbylangagoif.com/"
     },
     {
+      "entry": 1235431473,
+      "orgNumber": "864501-1902",
+      "orgName": "Bor\u00e5s Judoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "judoklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.borasjudo.se/"
+    },
+    {
       "entry": 1235432448,
       "orgNumber": "802410-4468",
       "orgName": "\u00d6smo Villa\u00e4garf\u00f6rening",
@@ -49205,6 +49464,7 @@
       "entry": 1235451679,
       "orgNumber": "894001-4080",
       "orgName": "V\u00e4nn\u00e4s RF - Ridsport",
+      "comment": "T\u00e4vling",
       "categories": [
         "ridsport",
         "ryttarf\u00f6rening"
@@ -50166,6 +50426,17 @@
         "l\u00f6pning"
       ],
       "web": "https://angsotrailrun.se/"
+    },
+    {
+      "entry": 1235573407,
+      "orgNumber": "802459-1730",
+      "orgName": "Musubi Dojo Kampsportsf\u00f6rening",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://musubi-dojo.se/"
     },
     {
       "entry": 1235574009,
@@ -53575,6 +53846,17 @@
       "web": "https://www.radiowakeup.se/"
     },
     {
+      "entry": 1235966882,
+      "orgNumber": "802455-2617",
+      "orgName": "K\u00f6pings Judoklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "judoklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/kopingsjudoklubb"
+    },
+    {
       "entry": 1235967922,
       "orgNumber": "556917-8519",
       "orgName": "Kanal 10 Asia / Kristen TV i Asien AB",
@@ -53909,6 +54191,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.facebook.com/bosnanastreba"
+    },
+    {
+      "entry": 1236021216,
+      "orgNumber": "897001-5809",
+      "orgName": "Lule\u00e5 ju-jutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.ljjk.net/"
     },
     {
       "entry": 1236021299,
@@ -55157,6 +55450,17 @@
       "web": "https://e-clubhouse.org/sites/ljugarn/"
     },
     {
+      "entry": 1236178826,
+      "orgNumber": "885001-1704",
+      "orgName": "G\u00e4vle Ju-Jutsu",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/gavlejutsu/"
+    },
+    {
       "entry": 1236178990,
       "orgNumber": "875001-9476",
       "orgName": "\u00d6rebro Jazz & Beyond",
@@ -55995,6 +56299,17 @@
       "web": "https://spraklararna.se/"
     },
     {
+      "entry": 1236273973,
+      "orgNumber": "802454-8698",
+      "orgName": "S\u00f6r\u00e5ker Kyokushin Karate",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.sorakerkarate.se/"
+    },
+    {
       "entry": 1236274146,
       "orgNumber": "802539-3649",
       "orgName": "Team Rynkeby",
@@ -56077,6 +56392,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236275002,
+      "orgNumber": "898200-3413",
+      "orgName": "Kalix Ryttarf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://kalixryttarforening.se/"
     },
     {
       "entry": 1236275028,
@@ -56958,6 +57284,17 @@
         "segels\u00e4llskap"
       ],
       "web": "https://boxvikess.blogspot.com/"
+    },
+    {
+      "entry": 1236389183,
+      "orgNumber": "802525-4635",
+      "orgName": "Trollb\u00e4cken Ju-Jutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.tyresojujutsu.com/"
     },
     {
       "entry": 1236389290,
@@ -58664,6 +59001,17 @@
         "supporterklubb"
       ],
       "web": "https://www.hammarbyfotboll.se/"
+    },
+    {
+      "entry": 1236625487,
+      "orgNumber": "802449-7797",
+      "orgName": "Oskarshamns Ju-jutsuklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "jujutsuklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.ojjk.se/"
     },
     {
       "entry": 1236625628,
