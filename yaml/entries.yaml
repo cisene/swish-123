@@ -96,6 +96,7 @@ entries:
   categories:
   - försäljning
   - konfektion
+  - retired
   web: null
 
 - entry: 1230007344
@@ -443,7 +444,7 @@ entries:
 
 - entry: 1230045971
   orgName: Fredrik D Anderssons Minnesfond
-  orgNumber: 0034796672
+  orgNumber: 003479-6672
   comment: null
   categories:
   - minnesfond
@@ -1204,7 +1205,7 @@ entries:
 
 - entry: 1230130526
   orgName: Husapoteket.eu
-  orgNumber: 700804-1902
+  orgNumber: 700804-XXXX
   comment: null
   categories:
   - apotek
@@ -1641,7 +1642,7 @@ entries:
 
 - entry: 1230190413
   orgName: Luleå Kommun
-  orgNumber: null
+  orgNumber: 212000-2742
   comment: Hamnavgift
   categories:
   - gästhamn
@@ -2035,7 +2036,7 @@ entries:
 
 - entry: 1230230714
   orgName: LHON Eye Society
-  orgNumber: 8024654041
+  orgNumber: 802465-4041
   comment: null
   categories:
   - intresseförening
@@ -2512,7 +2513,7 @@ entries:
   categories:
   - idrottsförening
   - tennisklubb
-  web: null
+  web: https://norrmjole.com/spela-tennis/
 
 - entry: 1230290213
   orgName: Svenska Finnjolleförbundet
@@ -2960,7 +2961,7 @@ entries:
 
 - entry: 1230325506
   orgName: Hardemo Hembygdsförenng
-  orgNumber: 8757003846
+  orgNumber: 875700-3846
   comment: null
   categories:
   - hembygdsförening
@@ -3522,7 +3523,7 @@ entries:
 
 - entry: 1230393983
   orgName: Citrus Advokatbyrå
-  orgNumber: 530111-5035
+  orgNumber: 530111-XXXX
   comment: null
   categories:
   - advokatbyrå
@@ -4444,8 +4445,8 @@ entries:
   web: https://www.borasca.se/
 
 - entry: 1230483941
-  orgName: Leksand
-  orgNumber: null
+  orgName: Leksands Kommun
+  orgNumber: 212000-2163
   comment: null
   categories:
   - event
@@ -4730,7 +4731,7 @@ entries:
 
 - entry: 1230506287
   orgName: Förenade Reikiförbundet i Sverige
-  orgNumber: 8024298310
+  orgNumber: 802429-8310
   comment: null
   categories:
   - förbund
@@ -7235,8 +7236,8 @@ entries:
   web: https://johanniterhjalpen.se/
 
 - entry: 1230802009
-  orgName: Konstfrämjandet
-  orgNumber: 8732010-098
+  orgName: Konstfrämjandet Värmland
+  orgNumber: 873201-0098
   comment: null
   categories:
   - konst
@@ -7748,7 +7749,7 @@ entries:
 
 - entry: 1230854331
   orgName: Ströms Bowlingshop
-  orgNumber: 601231-4396
+  orgNumber: 601231-XXXX
   comment: null
   categories:
   - bowling
@@ -8235,7 +8236,7 @@ entries:
 
 - entry: 1230907766
   orgName: Fabian Tanz / Fabian Unghanse Macklin
-  orgNumber: 880630-XXX
+  orgNumber: 880630-XXXX
   comment: null
   categories:
   - artist
@@ -10042,7 +10043,7 @@ entries:
 
 - entry: 1231133107
   orgName: Lymf- och lipödemföreningen Stockholms län
-  orgNumber: 8024519145
+  orgNumber: 802451-9145
   comment: null
   categories:
   - egenvårdsaktiviteter
@@ -10836,7 +10837,7 @@ entries:
 
 - entry: 1231209360
   orgName: Alingsås Ju-Jutsuklubb
-  orgNumber: null
+  orgNumber: 802421-3822
   comment: null
   categories:
   - idrottsförening
@@ -11043,7 +11044,7 @@ entries:
 
 - entry: 1231227495
   orgName: Svenska Brukshundsklubben Stockholmsavdelning
-  orgNumber: null
+  orgNumber: 802406-0199
   comment: null
   categories:
   - brukshundsklubb
@@ -12078,7 +12079,7 @@ entries:
 
 - entry: 1231335058
   orgName: Eglise Suédoise, Svenska Kyrkan i Paris
-  orgNumber: 0030338073
+  orgNumber: 003033-8073
   comment: null
   categories:
   - religion
@@ -22292,12 +22293,12 @@ entries:
   web: https://www.vaxjoocr.se/
 
 - entry: 1232555233
-  orgName: Fredagsgruppen
+  orgName: Vi som gillar Fredags-Gruppen
   orgNumber: 802531-7101
   comment: null
   categories:
-  - intresseförening
-  web: null
+  - religion
+  web: https://www.facebook.com/groups/118244715384127/
 
 - entry: 1232555373
   orgName: Skånes BF
@@ -23372,7 +23373,7 @@ entries:
 
 - entry: 1232680270
   orgName: Kulturföreningen Gösta Johanssons Varv
-  orgNumber: 8024277066
+  orgNumber: 802427-7066
   comment: null
   categories:
   - kulturförening
@@ -27589,7 +27590,7 @@ entries:
 
 - entry: 1233216371
   orgName: Björn Thomasson Design
-  orgNumber: 490507-4656
+  orgNumber: 490507-XXXX
   comment: null
   categories:
   - kajak
@@ -27625,7 +27626,7 @@ entries:
 
 - entry: 1233219730
   orgName: Europeiska Ungdomsparlamentet Sverige, EUP
-  orgNumber: 80414-8259
+  orgNumber: 802414-8259
   comment: null
   categories:
   - ungdomsverksamhet
@@ -27916,7 +27917,7 @@ entries:
 
 - entry: 1233256245
   orgName: Mariefreds Hundpark
-  orgNumber: 802529–2007
+  orgNumber: 802529-2007
   comment: null
   categories:
   - förening
@@ -28010,7 +28011,7 @@ entries:
 
 - entry: 1233265824
   orgName: VKKS - Vackra Kurviga Kvinnans Shop
-  orgNumber: 870314-1963
+  orgNumber: 870314-XXXX
   comment: null
   categories:
   - försäljning
@@ -28874,7 +28875,7 @@ entries:
 
 - entry: 1233382124
   orgName: Förbundet Blödarsjuka i Sverige, FBIS
-  orgNumber: 8020099688
+  orgNumber: 802009-9688
   comment: null
   categories:
   - anhörigorganisation
@@ -29842,8 +29843,8 @@ entries:
   web: https://www.idrottonline.se/StenungsundsHRF-Ridsport/
 
 - entry: 1233503257
-  orgName: 802506-4026
-  orgNumber: null
+  orgName: EChurch
+  orgNumber: 802506-4026
   comment: null
   categories:
   - religion
@@ -31453,7 +31454,7 @@ entries:
 
 - entry: 1233700416
   orgName: Svenska Livräddningssällskapet Götegorg
-  orgNumber: 8572015017
+  orgNumber: 857201-5017
   comment: null
   categories:
   - intresseförening
@@ -33025,11 +33026,12 @@ entries:
 
 - entry: 1233899317
   orgName: N-Trygg Bil AB
-  orgNumber: 59068-7074
+  orgNumber: 559068-7074
   comment: null
   categories:
   - bilförsäljning
   - försäljning
+  - retired
   web: https://www.ntryggbil.se/
 
 - entry: 1233906377
@@ -35076,7 +35078,7 @@ entries:
 
 - entry: 1234203915
   orgName: Umeå Draghundsklubb, DHK
-  orgNumber: 8024489901
+  orgNumber: 802448-9901
   comment: null
   categories:
   - hundklubb
@@ -35094,8 +35096,8 @@ entries:
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/varmland/prostatacancerforeningen-varmland/
 
 - entry: 1234206280
-  orgName: Action For Humanity / Lovette Thomas / Lovette Jallow
-  orgNumber: 802514-XXXX
+  orgName: Action For Humanity
+  orgNumber: 802514-0362
   comment: null
   categories:
   - hjälporganisation
@@ -40490,7 +40492,7 @@ entries:
 
 - entry: 1234999272
   orgName: Locktorps Festplats & Kulturförening
-  orgNumber: 8025213896
+  orgNumber: 802521-3896
   comment: null
   categories:
   - event
@@ -47548,7 +47550,7 @@ entries:
 
 - entry: 1235843271
   orgName: Rotary Åstorp
-  orgNumber: null
+  orgNumber: 837600-7095
   comment: null
   categories: null
   web: https://rotary2400.se/clubinfo/astorp-13274
@@ -47737,7 +47739,7 @@ entries:
 
 - entry: 1235867619
   orgName: Enköpings Biodlare
-  orgNumber: 810607-0822
+  orgNumber: 810607-XXXX
   comment: null
   categories:
   - biodling
@@ -49328,7 +49330,7 @@ entries:
 
 - entry: 1236095046
   orgName: Brandel & Skogsborg AB
-  orgNumber: 59026-4973
+  orgNumber: 559026-4973
   comment: null
   categories:
   - hunddressyr
@@ -49744,7 +49746,7 @@ entries:
 
 - entry: 1236151872
   orgName: Dataföreningen i Sverige
-  orgNumber: null
+  orgNumber: 802006-6349
   comment: null
   categories: null
   web: https://dfs.se/
