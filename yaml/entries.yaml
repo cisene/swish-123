@@ -7,7 +7,7 @@ entries:
   categories:
   - golfbana
   - golfklubb
-  web: http://kkgk.se/
+  web: https://kkgk.se/
 
 - entry: 1230004234
   orgName: Sörmons Hundklubb
@@ -70,7 +70,7 @@ entries:
   categories:
   - danskurser
   - dansundervisning
-  web: http://www.tangosol.se/
+  web: https://www.tangosol.se/
 
 - entry: 1230004945
   orgName: Långasands Idrottsförening
@@ -246,6 +246,7 @@ entries:
   orgNumber: 802453-2676
   comment: null
   categories:
+  - retired
   - skytteklubb
   web: http://www.hacksjobanan.se/
 
@@ -518,7 +519,7 @@ entries:
   comment: null
   categories:
   - yoga
-  web: http://www.norrlandskundaliniyoga.se/
+  web: https://www.norrlandskundaliniyoga.se/
 
 - entry: 1230053942
   orgName: Telegrafverkets Pistolskytteförening / Härlanda Pistolskytteklubb
@@ -694,7 +695,7 @@ entries:
   categories:
   - hjälporganisation
   - stiftelse
-  web: http://www.filippus.se/
+  web: https://www.filippus.se/
 
 - entry: 1230068569
   orgName: Kvinnojouren Vändpunkten
@@ -791,7 +792,7 @@ entries:
   - hundklubb
   - hundsport
   - stövarklubb
-  web: http://www.norrbottenstovare.se/
+  web: https://www.norrbottenstovare.se/
 
 - entry: 1230074393
   orgName: Veddige-Ås-Sällstorps Hembygdsförening
@@ -1017,7 +1018,7 @@ entries:
   categories:
   - förening
   - psykiatri
-  web: http://www.svenskpsykiatri.se/
+  web: https://www.svenskpsykiatri.se/
 
 - entry: 1230094466
   orgName: Team Rynkeby
@@ -1388,7 +1389,7 @@ entries:
   - förbund
   - parkinson
   - patientförening
-  web: http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Norrbotten.html
+  web: https://www.parkinsonforbundet.se/haer-finns-vi/parkinson-norrbotten/
 
 - entry: 1230169185
   orgName: Mellanhedens Biljardklubb
@@ -1396,7 +1397,7 @@ entries:
   comment: null
   categories:
   - biljardklubb
-  web: http://www.mhbiljardklubb.se/
+  web: https://www.mhbiljardklubb.se/
 
 - entry: 1230172155
   orgName: Världens Ände Friskvårdare / Trosa Kombo Kunsult AB
@@ -1467,7 +1468,7 @@ entries:
   comment: null
   categories:
   - kvinnojour
-  web: http://www.atsubgbg.nu/
+  web: https://www.atsubgbg.nu/
 
 - entry: 1230182618
   orgName: AIK Fotboll
@@ -1541,7 +1542,7 @@ entries:
   comment: Medlems & Deltagaravgifter
   categories:
   - idrottsförening
-  web: http://www.sandviksik.se/
+  web: https://www.sandviksik.se/
 
 - entry: 1230184994
   orgName: Frida Kvinnojour Hässleholm
@@ -1549,7 +1550,7 @@ entries:
   comment: null
   categories:
   - kvinnojour
-  web: http://fridakvinnojour.se/
+  web: https://fridakvinnojour.se/
 
 - entry: 1230185348
   orgName: Värnamo Alliansförsamling
@@ -1769,7 +1770,7 @@ entries:
   categories:
   - hunduppfödning
   - kennel
-  web: http://www.beaglekennel.se/
+  web: https://www.beaglekennel.se/
 
 - entry: 1230201194
   orgName: Hjortnäs-Sunnanängs Hembygdsförening
@@ -1777,7 +1778,7 @@ entries:
   comment: null
   categories:
   - hembygdsförening
-  web: http://www.hjortnas.se/
+  web: https://www.hjortnas.se/
 
 - entry: 1230201418
   orgName: Glömminge-Algutsrum Församling
@@ -1856,7 +1857,7 @@ entries:
   categories:
   - brukshundsklubb
   - hundsport
-  web: http://aselebhk.se/
+  web: https://aselebhk.se/
 
 - entry: 1230221168
   orgName: Team Rynkeby
@@ -1932,7 +1933,7 @@ entries:
   comment: null
   categories:
   - byalag
-  web: http://www.glumslovsbyalag.se/
+  web: https://www.glumslovsbyalag.se/
 
 - entry: 1230224758
   orgName: Al-Rashideen Moské i Gävle
@@ -3575,7 +3576,8 @@ entries:
   orgName: Cykelregister.se
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - retired
   web: https://www.cykelregister.se/
 
 - entry: 1230399485
@@ -8138,6 +8140,14 @@ entries:
   categories: null
   web: https://frihetochhalsa.se/
 
+- entry: 1230892307
+  orgName: Branne Pavlovic
+  orgNumber: 821106-XXXX
+  comment: null
+  categories:
+  - artist
+  web: https://www.youtube.com/@BrannePavlovic
+
 - entry: 1230892315
   orgName: Team Rynkeby
   orgNumber: 802537-0241
@@ -8155,6 +8165,14 @@ entries:
   categories: null
   web: null
 
+- entry: 1230893164
+  orgName: Julhjälpen i Gnesta
+  orgNumber: 802537-0738
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.facebook.com/julhjalpenignesta
+
 - entry: 1230893677
   orgName: Uppsala Lägenhetshotell AB
   orgNumber: 556730-3580
@@ -8165,6 +8183,14 @@ entries:
   - lägenhetsuthyrning
   web: https://uppsalalagenhetshotell.com/
 
+- entry: 1230894899
+  orgName: Best Western Eurostop Örebro
+  orgNumber: 556324-0125
+  comment: null
+  categories:
+  - hotell
+  web: https://www.eurostoporebro.se/
+
 - entry: 1230896407
   orgName: Svenska Brand och Räddningstjänst Idrottsförbund, SBRIF
   orgNumber: 857208-8857
@@ -8174,6 +8200,23 @@ entries:
   - idrottsförbund
   - idrottsförening
   web: https://www.brandsm.se/
+
+- entry: 1230898049
+  orgName: Hembygdsföreningen Facklan
+  orgNumber: 836200-3058
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://hallevik.se/
+
+- entry: 1230898239
+  orgName: Nyborgs SK
+  orgNumber: 898200-1854
+  comment: null
+  categories:
+  - idrottsförening
+  - sportklubb
+  web: https://www.svenskalag.se/nyborgssk
 
 - entry: 1230898338
   orgName: ABCD Budokai Sverige
@@ -9886,11 +9929,13 @@ entries:
   web: https://www.brottsofferjouren.se/
 
 - entry: 1231097450
-  orgName: Gåke Gunnarssons Fanclub
-  orgNumber: null
+  orgName: Gåke Gunnarssons Fanclub / Berndt-Åke Gunnarsson
+  orgNumber: 600628-XXXX
   comment: null
-  categories: null
-  web: null
+  categories:
+  - artist
+  - trubadur
+  web: https://www.gake.se/index.html
 
 - entry: 1231097476
   orgName: Djurskyddet Mälartassen
@@ -27704,8 +27749,8 @@ entries:
   web: https://www.bengtssons.com/
 
 - entry: 1233224043
-  orgName: Clubhouse Restaurant Kristianstad
-  orgNumber: null
+  orgName: Clubhouse Restaurant Kristianstad / Saga Mat och Event AB
+  orgNumber: 559223-4453
   comment: null
   categories:
   - restaurant
@@ -30981,11 +31026,12 @@ entries:
   web: http://www.rs96.se/
 
 - entry: 1233629441
-  orgName: null
-  orgNumber: null
+  orgName: Engelholm Marching Band
+  orgNumber: 802510-4996
   comment: Engelholm Marching Band
-  categories: null
-  web: null
+  categories:
+  - orkester
+  web: https://www.engelholm-marchingband.com/
 
 - entry: 1233629599
   orgName: Konst & Kulturrundan i Kolbäcksådalen
@@ -32077,7 +32123,7 @@ entries:
 
 - entry: 1233799053
   orgName: Skoterdårarnas förening
-  orgNumber: null
+  orgNumber: 510807-XXXX
   comment: null
   categories:
   - förening
@@ -55826,7 +55872,7 @@ entries:
   comment: null
   categories:
   - supporterklubb
-  web: http://bfs.osket.se/bfs/
+  web: https://bfs.osket.se/bfs/
 
 - entry: 1236955496
   orgName: Frälsningsarmén
@@ -55996,7 +56042,7 @@ entries:
   comment: null
   categories:
   - religion
-  web: http://pingstarla.se/
+  web: https://pingstarla.se/
 
 - entry: 1236992135
   orgName: Rossmix / Helene Strömbom

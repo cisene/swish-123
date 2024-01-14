@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-14-rev-171913",
+    "date": "2024-01-14-rev-191112",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -14,7 +14,7 @@
         "golfbana",
         "golfklubb"
       ],
-      "web": "http://kkgk.se/"
+      "web": "https://kkgk.se/"
     },
     {
       "entry": 1230004234,
@@ -85,7 +85,7 @@
         "danskurser",
         "dansundervisning"
       ],
-      "web": "http://www.tangosol.se/"
+      "web": "https://www.tangosol.se/"
     },
     {
       "entry": 1230004945,
@@ -263,15 +263,6 @@
         "riksorganisation"
       ],
       "web": "https://roks.se/"
-    },
-    {
-      "entry": 1230018481,
-      "orgNumber": "802453-2676",
-      "orgName": "Hacksj\u00f6banans SkytteOrganisation, HSO",
-      "categories": [
-        "skytteklubb"
-      ],
-      "web": "http://www.hacksjobanan.se/"
     },
     {
       "entry": 1230018549,
@@ -576,7 +567,7 @@
       "categories": [
         "yoga"
       ],
-      "web": "http://www.norrlandskundaliniyoga.se/"
+      "web": "https://www.norrlandskundaliniyoga.se/"
     },
     {
       "entry": 1230053942,
@@ -773,7 +764,7 @@
         "hj\u00e4lporganisation",
         "stiftelse"
       ],
-      "web": "http://www.filippus.se/"
+      "web": "https://www.filippus.se/"
     },
     {
       "entry": 1230068569,
@@ -883,7 +874,7 @@
         "hundsport",
         "st\u00f6varklubb"
       ],
-      "web": "http://www.norrbottenstovare.se/"
+      "web": "https://www.norrbottenstovare.se/"
     },
     {
       "entry": 1230074393,
@@ -1128,7 +1119,7 @@
         "f\u00f6rening",
         "psykiatri"
       ],
-      "web": "http://www.svenskpsykiatri.se/"
+      "web": "https://www.svenskpsykiatri.se/"
     },
     {
       "entry": 1230094466,
@@ -1546,7 +1537,7 @@
         "parkinson",
         "patientf\u00f6rening"
       ],
-      "web": "http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Norrbotten.html"
+      "web": "https://www.parkinsonforbundet.se/haer-finns-vi/parkinson-norrbotten/"
     },
     {
       "entry": 1230169185,
@@ -1555,7 +1546,7 @@
       "categories": [
         "biljardklubb"
       ],
-      "web": "http://www.mhbiljardklubb.se/"
+      "web": "https://www.mhbiljardklubb.se/"
     },
     {
       "entry": 1230172155,
@@ -1634,7 +1625,7 @@
       "categories": [
         "kvinnojour"
       ],
-      "web": "http://www.atsubgbg.nu/"
+      "web": "https://www.atsubgbg.nu/"
     },
     {
       "entry": 1230182618,
@@ -1719,7 +1710,7 @@
       "categories": [
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.sandviksik.se/"
+      "web": "https://www.sandviksik.se/"
     },
     {
       "entry": 1230184994,
@@ -1728,7 +1719,7 @@
       "categories": [
         "kvinnojour"
       ],
-      "web": "http://fridakvinnojour.se/"
+      "web": "https://fridakvinnojour.se/"
     },
     {
       "entry": 1230185348,
@@ -1977,7 +1968,7 @@
         "hunduppf\u00f6dning",
         "kennel"
       ],
-      "web": "http://www.beaglekennel.se/"
+      "web": "https://www.beaglekennel.se/"
     },
     {
       "entry": 1230201194,
@@ -1986,7 +1977,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://www.hjortnas.se/"
+      "web": "https://www.hjortnas.se/"
     },
     {
       "entry": 1230201418,
@@ -2074,7 +2065,7 @@
         "brukshundsklubb",
         "hundsport"
       ],
-      "web": "http://aselebhk.se/"
+      "web": "https://aselebhk.se/"
     },
     {
       "entry": 1230221168,
@@ -2164,7 +2155,7 @@
       "categories": [
         "byalag"
       ],
-      "web": "http://www.glumslovsbyalag.se/"
+      "web": "https://www.glumslovsbyalag.se/"
     },
     {
       "entry": 1230224758,
@@ -9131,6 +9122,15 @@
       "web": "https://frihetochhalsa.se/"
     },
     {
+      "entry": 1230892307,
+      "orgNumber": "821106-XXXX",
+      "orgName": "Branne Pavlovic",
+      "categories": [
+        "artist"
+      ],
+      "web": "https://www.youtube.com/@BrannePavlovic"
+    },
+    {
       "entry": 1230892315,
       "orgNumber": "802537-0241",
       "orgName": "Team Rynkeby",
@@ -9141,6 +9141,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230893164,
+      "orgNumber": "802537-0738",
+      "orgName": "Julhj\u00e4lpen i Gnesta",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.facebook.com/julhjalpenignesta"
     },
     {
       "entry": 1230893677,
@@ -9154,6 +9163,15 @@
       "web": "https://uppsalalagenhetshotell.com/"
     },
     {
+      "entry": 1230894899,
+      "orgNumber": "556324-0125",
+      "orgName": "Best Western Eurostop \u00d6rebro",
+      "categories": [
+        "hotell"
+      ],
+      "web": "https://www.eurostoporebro.se/"
+    },
+    {
       "entry": 1230896407,
       "orgNumber": "857208-8857",
       "orgName": "Svenska Brand och R\u00e4ddningstj\u00e4nst Idrottsf\u00f6rbund, SBRIF",
@@ -9163,6 +9181,25 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.brandsm.se/"
+    },
+    {
+      "entry": 1230898049,
+      "orgNumber": "836200-3058",
+      "orgName": "Hembygdsf\u00f6reningen Facklan",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://hallevik.se/"
+    },
+    {
+      "entry": 1230898239,
+      "orgNumber": "898200-1854",
+      "orgName": "Nyborgs SK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sportklubb"
+      ],
+      "web": "https://www.svenskalag.se/nyborgssk"
     },
     {
       "entry": 1230898338,
@@ -11083,6 +11120,16 @@
         "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
+    },
+    {
+      "entry": 1231097450,
+      "orgNumber": "600628-XXXX",
+      "orgName": "G\u00e5ke Gunnarssons Fanclub / Berndt-\u00c5ke Gunnarsson",
+      "categories": [
+        "artist",
+        "trubadur"
+      ],
+      "web": "https://www.gake.se/index.html"
     },
     {
       "entry": 1231097476,
@@ -31039,6 +31086,15 @@
       "web": "https://www.bengtssons.com/"
     },
     {
+      "entry": 1233224043,
+      "orgNumber": "559223-4453",
+      "orgName": "Clubhouse Restaurant Kristianstad / Saga Mat och Event AB",
+      "categories": [
+        "restaurant"
+      ],
+      "web": "https://www.clubhouse-restaurant.se/"
+    },
+    {
       "entry": 1233228160,
       "orgNumber": "878001-3879",
       "orgName": "V\u00e4ster\u00e5s Friidrottsklubb",
@@ -34742,6 +34798,16 @@
       "web": "http://www.rs96.se/"
     },
     {
+      "entry": 1233629441,
+      "orgNumber": "802510-4996",
+      "orgName": "Engelholm Marching Band",
+      "comment": "Engelholm Marching Band",
+      "categories": [
+        "orkester"
+      ],
+      "web": "https://www.engelholm-marchingband.com/"
+    },
+    {
       "entry": 1233629599,
       "orgNumber": "802492-0269",
       "orgName": "Konst & Kulturrundan i Kolb\u00e4cks\u00e5dalen",
@@ -35970,6 +36036,16 @@
         "utbildning"
       ],
       "web": "http://www.johafonden.com/"
+    },
+    {
+      "entry": 1233799053,
+      "orgNumber": "510807-XXXX",
+      "orgName": "Skoterd\u00e5rarnas f\u00f6rening",
+      "categories": [
+        "f\u00f6rening",
+        "skoterklubb"
+      ],
+      "web": "https://skoterdararna.blogspot.com/"
     },
     {
       "entry": 1233800190,
@@ -62553,7 +62629,7 @@
       "categories": [
         "supporterklubb"
       ],
-      "web": "http://bfs.osket.se/bfs/"
+      "web": "https://bfs.osket.se/bfs/"
     },
     {
       "entry": 1236955496,
@@ -62751,7 +62827,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://pingstarla.se/"
+      "web": "https://pingstarla.se/"
     },
     {
       "entry": 1236992135,

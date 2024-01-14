@@ -24,13 +24,13 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***6768*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***6776*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
 ```mermaid
 pie title Distribution
-    "123 00x xx xx" : 119
+    "123 00x xx xx" : 118
     "123 01x xx xx" : 80
     "123 02x xx xx" : 101
     "123 03x xx xx" : 108
@@ -38,9 +38,9 @@ pie title Distribution
     "123 05x xx xx" : 81
     "123 06x xx xx" : 81
     "123 07x xx xx" : 126
-    "123 08x xx xx" : 112
+    "123 08x xx xx" : 117
     "123 09x xx xx" : 96
-    "123 10x xx xx" : 103
+    "123 10x xx xx" : 104
     "123 11x xx xx" : 90
     "123 12x xx xx" : 110
     "123 13x xx xx" : 111
@@ -62,12 +62,12 @@ pie title Distribution
     "123 29x xx xx" : 84
     "123 30x xx xx" : 88
     "123 31x xx xx" : 67
-    "123 32x xx xx" : 96
+    "123 32x xx xx" : 97
     "123 33x xx xx" : 95
     "123 34x xx xx" : 77
     "123 35x xx xx" : 104
-    "123 36x xx xx" : 82
-    "123 37x xx xx" : 71
+    "123 36x xx xx" : 83
+    "123 37x xx xx" : 72
     "123 38x xx xx" : 109
     "123 39x xx xx" : 85
     "123 40x xx xx" : 66
