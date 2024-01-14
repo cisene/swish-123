@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-14-rev-134852",
+    "date": "2024-01-14-rev-171913",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -9817,6 +9817,15 @@
       "web": "https://www.svenskakyrkan.se/visby"
     },
     {
+      "entry": 1230967737,
+      "orgNumber": "802476-2745",
+      "orgName": "SKPF Pension\u00e4rerna Avdelning 84 G\u00e4llivare",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.skpf.se/avdelningar/distrikt-norrbottens-lan/gallivare-avd-84/"
+    },
+    {
       "entry": 1230970384,
       "orgNumber": "872000-0309",
       "orgName": "Lundsberg Bygdeg\u00e5rdsf\u00f6rening",
@@ -16998,6 +17007,15 @@
       "web": "https://ortsforsamlingen.com/"
     },
     {
+      "entry": 1231674449,
+      "orgNumber": "843002-1058",
+      "orgName": "SPF Seniorerna T\u00e5gaborg",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/tagaborg/"
+    },
+    {
       "entry": 1231674456,
       "orgNumber": "892600-0418",
       "orgName": "H\u00e4rjedalens Pingstf\u00f6rsamling",
@@ -22498,6 +22516,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.ramsberg.se/"
+    },
+    {
+      "entry": 1232257632,
+      "orgNumber": "864500-1283",
+      "orgName": "Bor\u00e5s och Sjuh\u00e4radsbygdens konstf\u00f6rening, Flam\u00e9nska galleriet",
+      "categories": [
+        "galleri",
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.flamenska.se/"
     },
     {
       "entry": 1232258069,
@@ -35119,6 +35147,15 @@
       "web": "https://fsbb.se/"
     },
     {
+      "entry": 1233673225,
+      "orgNumber": "802543-9590",
+      "orgName": "Slava Ukraini Sverige",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://slavaukrainisv.com/"
+    },
+    {
       "entry": 1233677184,
       "orgNumber": "802534-5466",
       "orgName": "Team Rynkeby",
@@ -36886,6 +36923,16 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Strangnas/"
+    },
+    {
+      "entry": 1233893864,
+      "orgNumber": "802436-6349",
+      "orgName": "Kattkommando Syd K\u00e5ger\u00f6d/Bjuv",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://kks.nu/"
     },
     {
       "entry": 1233893880,
@@ -38669,6 +38716,16 @@
         "skytteklubb"
       ],
       "web": "http://www.gillet.se/"
+    },
+    {
+      "entry": 1234125308,
+      "orgNumber": "802436-6349",
+      "orgName": "Kattkommando Syd Malm\u00f6/\u00d6sterlen",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://kks.nu/"
     },
     {
       "entry": 1234125423,
@@ -46945,6 +47002,15 @@
       "web": "https://www.laget.se/IKWormo/"
     },
     {
+      "entry": 1235140702,
+      "orgNumber": "843001-1356",
+      "orgName": "Friluftsfr\u00e4mjandet S\u00f6der\u00e5sen",
+      "categories": [
+        "friluftsliv"
+      ],
+      "web": "http://www.friluftsframjandet.se/soderasen"
+    },
+    {
       "entry": 1235141288,
       "orgNumber": "868400-7977",
       "orgName": "H\u00e4rlunda-Bj\u00e4rka Hembygdsf\u00f6rening",
@@ -49943,6 +50009,15 @@
         "hunduppf\u00f6dning"
       ],
       "web": "https://schaferhundklubben.com/"
+    },
+    {
+      "entry": 1235452883,
+      "orgNumber": "802006-6349",
+      "orgName": "Dataf\u00f6reningen i Sverige",
+      "categories": [
+        "utbildning"
+      ],
+      "web": "https://dfs.se/"
     },
     {
       "entry": 1235455407,
@@ -59851,6 +59926,16 @@
       "web": "http://burundihjalpen.se/"
     },
     {
+      "entry": 1236673594,
+      "orgNumber": "802436-6349",
+      "orgName": "Kattkommando Syd Landskrona",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://kks.nu/"
+    },
+    {
       "entry": 1236673982,
       "orgNumber": "802498-2459",
       "orgName": "Project Vita",
@@ -62049,6 +62134,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/strom"
+    },
+    {
+      "entry": 1236908412,
+      "orgNumber": "802407-6047",
+      "orgName": "Curo Riksf\u00f6reningen f\u00f6r Cancersjuka",
+      "categories": [
+        "patientf\u00f6rening",
+        "riksf\u00f6rening"
+      ],
+      "web": "https://curo.nu/"
     },
     {
       "entry": 1236908966,

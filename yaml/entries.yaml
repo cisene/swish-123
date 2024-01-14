@@ -8754,7 +8754,7 @@ entries:
 
 - entry: 1230967737
   orgName: SKPF Pensionärerna Avdelning 84 Gällivare
-  orgNumber: null
+  orgNumber: 802476-2745
   comment: null
   categories:
   - pensionärsklubb
@@ -15183,7 +15183,7 @@ entries:
 
 - entry: 1231674449
   orgName: SPF Seniorerna Tågaborg
-  orgNumber: null
+  orgNumber: 843002-1058
   comment: null
   categories:
   - pensionärsklubb
@@ -20103,7 +20103,7 @@ entries:
 
 - entry: 1232257632
   orgName: Borås och Sjuhäradsbygdens konstförening, Flaménska galleriet
-  orgNumber: null
+  orgNumber: 864500-1283
   comment: null
   categories:
   - galleri
@@ -21895,7 +21895,7 @@ entries:
   web: http://wachtelhundklubben.com/swk-ostergotland-narke/
 
 - entry: 1232457687
-  orgName: Kväggeshyttans Byalag
+  orgName: Kväggeshyttans Byalag i Bjurtjärn
   orgNumber: null
   comment: null
   categories:
@@ -31350,6 +31350,14 @@ entries:
   categories: null
   web: null
 
+- entry: 1233673225
+  orgName: Slava Ukraini Sverige
+  orgNumber: 802543-9590
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://slavaukrainisv.com/
+
 - entry: 1233677184
   orgName: Team Rynkeby
   orgNumber: 802534-5466
@@ -32916,7 +32924,7 @@ entries:
 
 - entry: 1233893864
   orgName: Kattkommando Syd Kågeröd/Bjuv
-  orgNumber: null
+  orgNumber: 802436-6349
   comment: null
   categories:
   - djurskydd
@@ -34530,7 +34538,7 @@ entries:
 
 - entry: 1234125308
   orgName: Kattkommando Syd Malmö/Österlen
-  orgNumber: null
+  orgNumber: 802436-6349
   comment: null
   categories:
   - djurskydd
@@ -41884,7 +41892,7 @@ entries:
 
 - entry: 1235140702
   orgName: Friluftsfrämjandet Söderåsen
-  orgNumber: null
+  orgNumber: 843001-1356
   comment: null
   categories:
   - friluftsliv
@@ -44550,9 +44558,10 @@ entries:
 
 - entry: 1235452883
   orgName: Dataföreningen i Sverige
-  orgNumber: null
+  orgNumber: 802006-6349
   comment: null
-  categories: null
+  categories:
+  - utbildning
   web: https://dfs.se/
 
 - entry: 1235455407
@@ -53467,7 +53476,7 @@ entries:
 
 - entry: 1236673594
   orgName: Kattkommando Syd Landskrona
-  orgNumber: null
+  orgNumber: 802436-6349
   comment: null
   categories:
   - djurskydd
@@ -55438,6 +55447,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/strom
 
+- entry: 1236908412
+  orgName: Curo Riksföreningen för Cancersjuka
+  orgNumber: 802407-6047
+  comment: null
+  categories:
+  - patientförening
+  - riksförening
+  web: https://curo.nu/
+
 - entry: 1236908966
   orgName: Brännkyrka Församling
   orgNumber: 252000-0650
@@ -56113,7 +56131,7 @@ entries:
 
 - entry: 1239000183
   orgName: Stödföreningen för Olof Palmes barnsjukhus i Hanoi
-  orgNumber: null
+  orgNumber: 802012-5384
   comment: null
   categories:
   - insamlingskontroll
@@ -56300,7 +56318,7 @@ entries:
   web: https://www.tostan.se/
 
 - entry: 1239000480
-  orgName: Vänortsföreningen Ljungby – Silute
+  orgName: Vänortsföreningen Ljungby - Silute
   orgNumber: null
   comment: null
   categories:
