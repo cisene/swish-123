@@ -4021,8 +4021,7 @@ entries:
   comment: null
   categories:
   - bröstcancer
-  - cancerforskning
-  - intresseförening
+  - donation
   web: https://halland.brostcancerforbundet.se/
 
 - entry: 1230429746
@@ -4437,6 +4436,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.hsk-fotboll.nu/
+
+- entry: 1230483693
+  orgName: Bröstcancerföreningen Svea Alingsås
+  orgNumber: 802419-5490
+  comment: null
+  categories:
+  - bröstcancer
+  - donation
+  web: https://alingsas.brostcancerforbundet.se/
 
 - entry: 1230483925
   orgName: Borås CA - Cykel
@@ -5324,7 +5332,7 @@ entries:
 
 - entry: 1230592675
   orgName: Söderåsen
-  orgNumber: null
+  orgNumber: 212000-0993
   comment: Tegelbruksdammen
   categories:
   - fiskekort
@@ -6432,9 +6440,10 @@ entries:
 
 - entry: 1230732842
   orgName: Projekt Rödbergsvik
-  orgNumber: null
+  orgNumber: 854600-3545
   comment: null
-  categories: null
+  categories:
+  - intresseorganisation
   web: https://www.rodbergsvik.se/
 
 - entry: 1230732883
@@ -6980,10 +6989,11 @@ entries:
   web: http://www.forrochnu.se/
 
 - entry: 1230775353
-  orgName: Daniels Betting
-  orgNumber: null
+  orgName: Daniels Betting / Daniel Domeij
+  orgNumber: 790406-XXXX
   comment: null
-  categories: null
+  categories:
+  - betting
   web: https://twitter.com/danielsbetting
 
 - entry: 1230776856
@@ -8905,6 +8915,14 @@ entries:
   categories: null
   web: https://sjalglans.se/
 
+- entry: 1230981548
+  orgName: Ralingsåsgården / Kristen Samverkan Småland-Blekinge
+  orgNumber: 826500-5044
+  comment: null
+  categories:
+  - religion
+  web: https://ralingsasgarden.se/
+
 - entry: 1230982710
   orgName: Aspeboda Foundation For Children
   orgNumber: 802461-1926
@@ -9935,7 +9953,7 @@ entries:
   categories:
   - artist
   - trubadur
-  web: https://www.gake.se/index.html
+  web: https://www.gake.se/
 
 - entry: 1231097476
   orgName: Djurskyddet Mälartassen
@@ -10178,6 +10196,14 @@ entries:
   categories:
   - idrottsförening
   web: http://www.savedalensaik.se/
+
+- entry: 1231137876
+  orgName: Barnens Ambassad
+  orgNumber: 802427-8585
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://barnensambassad.se/
 
 - entry: 1231141688
   orgName: Arbrå Hembygds- och Fornminnesförening
@@ -11650,6 +11676,16 @@ entries:
   categories:
   - hemlandsförening
   web: https://www.izblandskrona.se/
+
+- entry: 1231290691
+  orgName: Appalosa Föreningen i Sverige
+  orgNumber: 802453-7394
+  comment: null
+  categories:
+  - hästavel
+  - hästsport
+  - hästuppfödning
+  web: https://www.aphc.se/
 
 - entry: 1231293356
   orgName: Pustervik / Pustervik Kultur AB
@@ -13911,6 +13947,14 @@ entries:
   categories:
   - intresseförening
   web: https://www.ingenillegal.org/stockholm/
+
+- entry: 1231528371
+  orgName: Åttonde Decemberföreningen
+  orgNumber: 826000-4869
+  comment: null
+  categories:
+  - intresseförening
+  web: https://8-dec.se/
 
 - entry: 1231530492
   orgName: Scoutkåren Vikingarna
@@ -17845,6 +17889,15 @@ entries:
   - ryttarsällskap
   web: http://www.olandsrf.se/
 
+- entry: 1231993708
+  orgName: Bröstcancerföreningen Agatha Skaraborg
+  orgNumber: 866601-7085
+  comment: null
+  categories:
+  - bröstcancer
+  - donation
+  web: https://skaraborg.brostcancerforbundet.se/
+
 - entry: 1231993716
   orgName: Future with Hope - For children in EastAfrica
   orgNumber: 802489-1015
@@ -21429,6 +21482,16 @@ entries:
   - idrottsförening
   web: http://www.ofiffotboll.se/
 
+- entry: 1232385300
+  orgName: Göteborgs Skidklubb, Längd
+  orgNumber: 857201-5488
+  comment: Längdsektionen
+  categories:
+  - idrottsförening
+  - skidklubb
+  - skidlöparklubb
+  web: https://www.skidklubben.se/
+
 - entry: 1232385508
   orgName: LP:s Biodling AB
   orgNumber: 556708-9718
@@ -22081,6 +22144,16 @@ entries:
   - förening
   web: http://www.rfvo.se/
 
+- entry: 1232495133
+  orgName: Östersunds Bugg o Rock’n’Roll Klubb
+  orgNumber: 893201-0575
+  comment: null
+  categories:
+  - dansförening
+  - danskurser
+  - motionsdans
+  web: https://obrk.se/
+
 - entry: 1232512077
   orgName: Älekulla Bygdegårdsförening-Byalag
   orgNumber: 802532-4578
@@ -22243,7 +22316,9 @@ entries:
   orgName: Animals H.O.P.E.
   orgNumber: 802458-3240
   comment: Fågelcentralen
-  categories: null
+  categories:
+  - djurvård
+  - ornitologi
   web: https://fagelcentralen.se/
 
 - entry: 1232536811
@@ -22429,6 +22504,13 @@ entries:
   categories:
   - uthyrning
   web: https://www.villasunshine.nu/
+
+- entry: 1232567543
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1232567980
   orgName: Sörfjärdens Golfklubb
@@ -24587,6 +24669,15 @@ entries:
   - idrottsförening
   - skidskytteklubb
   web: http://www.piteaskidskytte.se/
+
+- entry: 1232796829
+  orgName: Bröstcancerföreningen Dalsland
+  orgNumber: 802542-4931
+  comment: null
+  categories:
+  - bröstcancer
+  - donation
+  web: https://dalsland.brostcancerforbundet.se/
 
 - entry: 1232797496
   orgName: Östra Tommarps Bygdegårdsförening
@@ -29085,6 +29176,15 @@ entries:
   - intresseförening
   web: https://www.barnetsbasta.org/
 
+- entry: 1233395159
+  orgName: Bröstcancerföreningen Norrbotten
+  orgNumber: 897000-9950
+  comment: null
+  categories:
+  - bröstcancer
+  - donation
+  web: https://norrbotten.brostcancerforbundet.se/
+
 - entry: 1233395175
   orgName: Söderhamnsortens Ryttarförening
   orgNumber: 886000-3907
@@ -33057,6 +33157,15 @@ entries:
   - båtklubb
   web: https://rakstabatklubb.se/
 
+- entry: 1233898236
+  orgName: Göteborgs Skidklubb
+  orgNumber: 857201-5488
+  comment: Finalloppet
+  categories:
+  - idrottsförening
+  - skidklubb
+  web: https://www.skidklubben.se/
+
 - entry: 1233898962
   orgName: Bröstcancerföreningen Örnsköldsvik
   orgNumber: 802422-6634
@@ -33688,7 +33797,7 @@ entries:
   web: https://www.kiviuppsala.se/
 
 - entry: 1233990553
-  orgName: Varken hora eller kuvad (VHEK)
+  orgName: Varken hora eller kuvad, VHEK
   orgNumber: 802428-4575
   comment: null
   categories:
@@ -34930,7 +35039,6 @@ entries:
   categories:
   - bröstcancer
   - donation
-  - förening
   web: https://blekinge.brostcancerforbundet.se/
 
 - entry: 1234194213
@@ -38955,6 +39063,15 @@ entries:
   - förening
   web: null
 
+- entry: 1234717443
+  orgName: Göteborgs Skidklubb
+  orgNumber: 857201-5488
+  comment: Brudarebacken
+  categories:
+  - idrottsförening
+  - skidklubb
+  web: https://www.skidklubben.se/
+
 - entry: 1234718052
   orgName: Svenska Service- och Signalhundsförbundet, SoS
   orgNumber: 843003-3038
@@ -41965,10 +42082,9 @@ entries:
   orgNumber: 802009-9639
   comment: null
   categories:
-  - cancer
-  - förening
-  - patientförening
-  web: https://www.amazona.se/
+  - bröstcancer
+  - donation
+  web: https://stockholm.brostcancerforbundet.se/
 
 - entry: 1235142161
   orgName: Afasiförbundet i Sverige
@@ -42866,6 +42982,14 @@ entries:
   - motorcykelklubb
   - snöskoterklubb
   web: https://www.bmkuddevalla.se/
+
+- entry: 1235263132
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Gävle
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/Gavle/
 
 - entry: 1235263512
   orgName: VIYoga AB
@@ -44617,6 +44741,15 @@ entries:
   categories:
   - djurskydd
   web: https://www.djurensvanner.se/nassjo
+
+- entry: 1235455431
+  orgName: Göteborgs Skidklubb
+  orgNumber: 857201-5488
+  comment: Orienteringssektionen
+  categories:
+  - idrottsförening
+  - skidklubb
+  web: https://www.skidklubben.se/
 
 - entry: 1235455944
   orgName: Luleå HIF - Parasport
@@ -48237,8 +48370,8 @@ entries:
   orgNumber: 826001-9487
   comment: null
   categories:
-  - cancer
-  - hälsovård
+  - bröstcancer
+  - donation
   web: https://jonkoping.brostcancerforbundet.se/
 
 - entry: 1235931969
@@ -51826,6 +51959,15 @@ entries:
   - kvinnojour
   web: https://www.tjejjourenvast.se/
 
+- entry: 1236410278
+  orgName: Bröstcancerföreningen Johanna Trollhättan
+  orgNumber: 868401-2456
+  comment: null
+  categories:
+  - bröstcancer
+  - donation
+  web: https://trollhattan.brostcancerforbundet.se/
+
 - entry: 1236410823
   orgName: SWE4UKR
   orgNumber: null
@@ -51926,6 +52068,15 @@ entries:
   - förbund
   - neurohälsa
   web: https://www.epilepsi.se/
+
+- entry: 1236429773
+  orgName: Gislaved-Västbo Brukshundklubb
+  orgNumber: 828500-7376
+  comment: null
+  categories:
+  - brukshundsklubb
+  - hundsport
+  web: https://gislavedvastbobk.se/
 
 - entry: 1236429989
   orgName: Friskis & Svettis Borlänge

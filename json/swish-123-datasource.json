@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-14-rev-191112",
+    "date": "2024-01-15-rev-144230",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4510,8 +4510,7 @@
       "orgName": "Br\u00f6stcancerf\u00f6reningen Halland",
       "categories": [
         "br\u00f6stcancer",
-        "cancerforskning",
-        "intressef\u00f6rening"
+        "donation"
       ],
       "web": "https://halland.brostcancerforbundet.se/"
     },
@@ -4982,6 +4981,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.hsk-fotboll.nu/"
+    },
+    {
+      "entry": 1230483693,
+      "orgNumber": "802419-5490",
+      "orgName": "Br\u00f6stcancerf\u00f6reningen Svea Alings\u00e5s",
+      "categories": [
+        "br\u00f6stcancer",
+        "donation"
+      ],
+      "web": "https://alingsas.brostcancerforbundet.se/"
     },
     {
       "entry": 1230483925,
@@ -5972,6 +5981,16 @@
         "religion"
       ],
       "web": "https://www.sea.nu/"
+    },
+    {
+      "entry": 1230592675,
+      "orgNumber": "212000-0993",
+      "orgName": "S\u00f6der\u00e5sen",
+      "comment": "Tegelbruksdammen",
+      "categories": [
+        "fiskekort"
+      ],
+      "web": "https://www.soderasen.com/"
     },
     {
       "entry": 1230592899,
@@ -7220,6 +7239,15 @@
       "web": "https://www.svenskakyrkan.se/vattholma/arentuna"
     },
     {
+      "entry": 1230732842,
+      "orgNumber": "854600-3545",
+      "orgName": "Projekt R\u00f6dbergsvik",
+      "categories": [
+        "intresseorganisation"
+      ],
+      "web": "https://www.rodbergsvik.se/"
+    },
+    {
       "entry": 1230732966,
       "orgNumber": "888000-2517",
       "orgName": "S\u00e4br\u00e5 Hembygdsf\u00f6rening",
@@ -7824,6 +7852,15 @@
         "kulturtidskrift"
       ],
       "web": "http://www.forrochnu.se/"
+    },
+    {
+      "entry": 1230775353,
+      "orgNumber": "790406-XXXX",
+      "orgName": "Daniels Betting / Daniel Domeij",
+      "categories": [
+        "betting"
+      ],
+      "web": "https://twitter.com/danielsbetting"
     },
     {
       "entry": 1230776856,
@@ -9965,6 +10002,15 @@
       "web": "https://sjalglans.se/"
     },
     {
+      "entry": 1230981548,
+      "orgNumber": "826500-5044",
+      "orgName": "Ralings\u00e5sg\u00e5rden / Kristen Samverkan Sm\u00e5land-Blekinge",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://ralingsasgarden.se/"
+    },
+    {
       "entry": 1230982710,
       "orgNumber": "802461-1926",
       "orgName": "Aspeboda Foundation For Children",
@@ -11129,7 +11175,7 @@
         "artist",
         "trubadur"
       ],
-      "web": "https://www.gake.se/index.html"
+      "web": "https://www.gake.se/"
     },
     {
       "entry": 1231097476,
@@ -11390,6 +11436,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.savedalensaik.se/"
+    },
+    {
+      "entry": 1231137876,
+      "orgNumber": "802427-8585",
+      "orgName": "Barnens Ambassad",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://barnensambassad.se/"
     },
     {
       "entry": 1231141688,
@@ -13046,6 +13101,17 @@
         "hemlandsf\u00f6rening"
       ],
       "web": "https://www.izblandskrona.se/"
+    },
+    {
+      "entry": 1231290691,
+      "orgNumber": "802453-7394",
+      "orgName": "Appalosa F\u00f6reningen i Sverige",
+      "categories": [
+        "h\u00e4stavel",
+        "h\u00e4stsport",
+        "h\u00e4stuppf\u00f6dning"
+      ],
+      "web": "https://www.aphc.se/"
     },
     {
       "entry": 1231293356,
@@ -15579,6 +15645,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.ingenillegal.org/stockholm/"
+    },
+    {
+      "entry": 1231528371,
+      "orgNumber": "826000-4869",
+      "orgName": "\u00c5ttonde Decemberf\u00f6reningen",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://8-dec.se/"
     },
     {
       "entry": 1231530492,
@@ -19983,6 +20058,16 @@
       "web": "http://www.olandsrf.se/"
     },
     {
+      "entry": 1231993708,
+      "orgNumber": "866601-7085",
+      "orgName": "Br\u00f6stcancerf\u00f6reningen Agatha Skaraborg",
+      "categories": [
+        "br\u00f6stcancer",
+        "donation"
+      ],
+      "web": "https://skaraborg.brostcancerforbundet.se/"
+    },
+    {
       "entry": 1231993716,
       "orgNumber": "802489-1015",
       "orgName": "Future with Hope - For children in EastAfrica",
@@ -24029,6 +24114,18 @@
       "web": "http://www.ofiffotboll.se/"
     },
     {
+      "entry": 1232385300,
+      "orgNumber": "857201-5488",
+      "orgName": "G\u00f6teborgs Skidklubb, L\u00e4ngd",
+      "comment": "L\u00e4ngdsektionen",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.skidklubben.se/"
+    },
+    {
       "entry": 1232385508,
       "orgNumber": "556708-9718",
       "orgName": "LP:s Biodling AB",
@@ -24746,6 +24843,17 @@
       "web": "http://www.rfvo.se/"
     },
     {
+      "entry": 1232495133,
+      "orgNumber": "893201-0575",
+      "orgName": "\u00d6stersunds Bugg o Rock\u2019n\u2019Roll Klubb",
+      "categories": [
+        "dansf\u00f6rening",
+        "danskurser",
+        "motionsdans"
+      ],
+      "web": "https://obrk.se/"
+    },
+    {
       "entry": 1232512077,
       "orgNumber": "802532-4578",
       "orgName": "\u00c4lekulla Bygdeg\u00e5rdsf\u00f6rening-Byalag",
@@ -24928,6 +25036,10 @@
       "orgNumber": "802458-3240",
       "orgName": "Animals H.O.P.E.",
       "comment": "F\u00e5gelcentralen",
+      "categories": [
+        "djurv\u00e5rd",
+        "ornitologi"
+      ],
       "web": "https://fagelcentralen.se/"
     },
     {
@@ -27571,6 +27683,16 @@
         "skidskytteklubb"
       ],
       "web": "http://www.piteaskidskytte.se/"
+    },
+    {
+      "entry": 1232796829,
+      "orgNumber": "802542-4931",
+      "orgName": "Br\u00f6stcancerf\u00f6reningen Dalsland",
+      "categories": [
+        "br\u00f6stcancer",
+        "donation"
+      ],
+      "web": "https://dalsland.brostcancerforbundet.se/"
     },
     {
       "entry": 1232797496,
@@ -32595,6 +32717,16 @@
       "web": "https://www.barnetsbasta.org/"
     },
     {
+      "entry": 1233395159,
+      "orgNumber": "897000-9950",
+      "orgName": "Br\u00f6stcancerf\u00f6reningen Norrbotten",
+      "categories": [
+        "br\u00f6stcancer",
+        "donation"
+      ],
+      "web": "https://norrbotten.brostcancerforbundet.se/"
+    },
+    {
       "entry": 1233395175,
       "orgNumber": "886000-3907",
       "orgName": "S\u00f6derhamnsortens Ryttarf\u00f6rening",
@@ -37102,6 +37234,17 @@
       "web": "https://rakstabatklubb.se/"
     },
     {
+      "entry": 1233898236,
+      "orgNumber": "857201-5488",
+      "orgName": "G\u00f6teborgs Skidklubb",
+      "comment": "Finalloppet",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidklubb"
+      ],
+      "web": "https://www.skidklubben.se/"
+    },
+    {
       "entry": 1233898962,
       "orgNumber": "802422-6634",
       "orgName": "Br\u00f6stcancerf\u00f6reningen \u00d6rnsk\u00f6ldsvik",
@@ -37802,7 +37945,7 @@
     {
       "entry": 1233990553,
       "orgNumber": "802428-4575",
-      "orgName": "Varken hora eller kuvad (VHEK)",
+      "orgName": "Varken hora eller kuvad, VHEK",
       "categories": [
         "donation"
       ],
@@ -39190,8 +39333,7 @@
       "orgName": "Br\u00f6stcancerf\u00f6reningen Blekinge",
       "categories": [
         "br\u00f6stcancer",
-        "donation",
-        "f\u00f6rening"
+        "donation"
       ],
       "web": "https://blekinge.brostcancerforbundet.se/"
     },
@@ -43712,6 +43854,17 @@
       ]
     },
     {
+      "entry": 1234717443,
+      "orgNumber": "857201-5488",
+      "orgName": "G\u00f6teborgs Skidklubb",
+      "comment": "Brudarebacken",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidklubb"
+      ],
+      "web": "https://www.skidklubben.se/"
+    },
+    {
       "entry": 1234718052,
       "orgNumber": "843003-3038",
       "orgName": "Svenska Service- och Signalhundsf\u00f6rbundet, SoS",
@@ -47109,11 +47262,10 @@
       "orgNumber": "802009-9639",
       "orgName": "Br\u00f6stcancerf\u00f6reningen Amazona Stockholm",
       "categories": [
-        "cancer",
-        "f\u00f6rening",
-        "patientf\u00f6rening"
+        "br\u00f6stcancer",
+        "donation"
       ],
-      "web": "https://www.amazona.se/"
+      "web": "https://stockholm.brostcancerforbundet.se/"
     },
     {
       "entry": 1235142161,
@@ -48120,6 +48272,16 @@
         "sn\u00f6skoterklubb"
       ],
       "web": "https://www.bmkuddevalla.se/"
+    },
+    {
+      "entry": 1235263132,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "G\u00e4vle",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/Gavle/"
     },
     {
       "entry": 1235263512,
@@ -50103,6 +50265,17 @@
         "djurskydd"
       ],
       "web": "https://www.djurensvanner.se/nassjo"
+    },
+    {
+      "entry": 1235455431,
+      "orgNumber": "857201-5488",
+      "orgName": "G\u00f6teborgs Skidklubb",
+      "comment": "Orienteringssektionen",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidklubb"
+      ],
+      "web": "https://www.skidklubben.se/"
     },
     {
       "entry": 1235455944,
@@ -54140,8 +54313,8 @@
       "orgNumber": "826001-9487",
       "orgName": "J\u00f6nk\u00f6pings L\u00e4ns Br\u00f6stcancerf\u00f6rening",
       "categories": [
-        "cancer",
-        "h\u00e4lsov\u00e5rd"
+        "br\u00f6stcancer",
+        "donation"
       ],
       "web": "https://jonkoping.brostcancerforbundet.se/"
     },
@@ -58158,6 +58331,16 @@
       "web": "https://www.tjejjourenvast.se/"
     },
     {
+      "entry": 1236410278,
+      "orgNumber": "868401-2456",
+      "orgName": "Br\u00f6stcancerf\u00f6reningen Johanna Trollh\u00e4ttan",
+      "categories": [
+        "br\u00f6stcancer",
+        "donation"
+      ],
+      "web": "https://trollhattan.brostcancerforbundet.se/"
+    },
+    {
       "entry": 1236416044,
       "orgNumber": "802499-0114",
       "orgName": "Utvecklingsr\u00e5det i Dals L\u00e5nged",
@@ -58262,6 +58445,16 @@
         "neuroh\u00e4lsa"
       ],
       "web": "https://www.epilepsi.se/"
+    },
+    {
+      "entry": 1236429773,
+      "orgNumber": "828500-7376",
+      "orgName": "Gislaved-V\u00e4stbo Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://gislavedvastbobk.se/"
     },
     {
       "entry": 1236429989,
