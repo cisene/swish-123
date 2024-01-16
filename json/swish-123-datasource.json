@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-15-rev-144230",
+    "date": "2024-01-16-rev-155839",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6013,6 +6013,16 @@
       "web": "https://teachersacrossborders.se/"
     },
     {
+      "entry": 1230593749,
+      "orgNumber": "894700-7723",
+      "orgName": "Skellefte\u00e5 Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.skeabk.se/"
+    },
+    {
       "entry": 1230594143,
       "orgNumber": "843000-6067",
       "orgName": "H\u00f6gan\u00e4s GF, HGF",
@@ -6796,6 +6806,16 @@
         "yoga"
       ],
       "web": "https://www.helhetshalsanshus.se/gym/"
+    },
+    {
+      "entry": 1230695841,
+      "orgNumber": "866001-1571",
+      "orgName": "Billinge Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.billingebk.se/"
     },
     {
       "entry": 1230698100,
@@ -8730,6 +8750,16 @@
       "web": "https://varmdogymnastikakademi.se/"
     },
     {
+      "entry": 1230854216,
+      "orgNumber": "817605-7522",
+      "orgName": "Uppsala Hundungdom",
+      "categories": [
+        "hundsport",
+        "ungdomsverksamhet"
+      ],
+      "web": "https://uppsalahu.se/"
+    },
+    {
       "entry": 1230854331,
       "orgNumber": "601231-XXXX",
       "orgName": "Str\u00f6ms Bowlingshop",
@@ -9304,6 +9334,16 @@
         "konsulttj\u00e4nster"
       ],
       "web": "https://talktrigging.webnode.se/"
+    },
+    {
+      "entry": 1230907303,
+      "orgNumber": "894700-7723",
+      "orgName": "Skellefte\u00e5 Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.skeabk.se/"
     },
     {
       "entry": 1230907766,
@@ -11304,6 +11344,16 @@
         "f\u00f6rbund"
       ],
       "web": "https://www.fibromyalgi.se/"
+    },
+    {
+      "entry": 1231122472,
+      "orgNumber": "883202-0559",
+      "orgName": "IBF Falun",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.ibffalun.com/"
     },
     {
       "entry": 1231123645,
@@ -14765,6 +14815,16 @@
         "religion"
       ],
       "web": "https://equmeniakyrkanmotala.se/"
+    },
+    {
+      "entry": 1231464924,
+      "orgNumber": "836200-6275",
+      "orgName": "S\u00f6lvesborgs Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://solvesborgsbrukshundklubb.se/"
     },
     {
       "entry": 1231464981,
@@ -19124,6 +19184,16 @@
       "web": "https://andersolssongolf.se/"
     },
     {
+      "entry": 1231879717,
+      "orgNumber": "802436-0565",
+      "orgName": "Golden Retrieverklubben Dalarna",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://dalarna.goldenklubben.se/"
+    },
+    {
       "entry": 1231880442,
       "orgNumber": "802445-0119",
       "orgName": "F\u00f6reningen G\u00e4rdsl\u00f6sa Pr\u00e4stg\u00e5rd",
@@ -23474,6 +23544,16 @@
       "web": "https://www.victoriasaker.se/"
     },
     {
+      "entry": 1232314524,
+      "orgNumber": "833600-8373",
+      "orgName": "V\u00e4sterviks Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.v\u00e4sterviksbk.se/"
+    },
+    {
       "entry": 1232314656,
       "orgNumber": "846000-7282",
       "orgName": "Malm\u00f6 Brukshundsklubb",
@@ -27289,6 +27369,16 @@
       "web": "https://www.trafficsec.org/"
     },
     {
+      "entry": 1232759322,
+      "orgNumber": "802429-2453",
+      "orgName": "Valdemarsviks Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://valdemarsvikbrukshundklubb.se/"
+    },
+    {
       "entry": 1232759405,
       "orgNumber": "894701-6674",
       "orgName": "FAMY V\u00e4sterbotten",
@@ -28665,6 +28755,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/ljungby/angelstads-forsamling"
+    },
+    {
+      "entry": 1232909737,
+      "orgNumber": "802452-7783",
+      "orgName": "Eksj\u00f6 Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://eksjobk.se/"
     },
     {
       "entry": 1232909828,
@@ -30417,6 +30517,16 @@
       "web": "https://www.facebook.com/groups/105270962856563"
     },
     {
+      "entry": 1233127289,
+      "orgNumber": "885501-1626",
+      "orgName": "Hofors Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "http://www.hoforsbrukshundklubb.se/"
+    },
+    {
       "entry": 1233127388,
       "orgNumber": "802427-4147",
       "orgName": "F\u00f6reningen L\u00e4stringebygden",
@@ -31492,6 +31602,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/vasterasskidklubb"
+    },
+    {
+      "entry": 1233262276,
+      "orgNumber": "875701-1310",
+      "orgName": "Hallsbergs Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.hallsbergsbk.se/"
     },
     {
       "entry": 1233262474,
@@ -33085,6 +33205,16 @@
       "web": "https://norrkopingjsk.se/"
     },
     {
+      "entry": 1233449410,
+      "orgNumber": "802418-2712",
+      "orgName": "Arjeplogs Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://arjeplogbk.com/"
+    },
+    {
       "entry": 1233450442,
       "orgNumber": "556902-0356",
       "orgName": "HG Golf Glumsl\u00f6v / HG Golf AB",
@@ -33130,6 +33260,16 @@
         "f\u00f6rening"
       ],
       "web": "http://blog.kulturgaraget.se/"
+    },
+    {
+      "entry": 1233455508,
+      "orgNumber": "837600-4779",
+      "orgName": "\u00d6rkelljunga Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "http://www.orkelljunga-bk.se/"
     },
     {
       "entry": 1233455607,
@@ -33421,6 +33561,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.funasdalensif.se/om-oss/erik-h-minnesfond"
+    },
+    {
+      "entry": 1233470978,
+      "orgNumber": "802010-8588",
+      "orgName": "S\u00e4veln-Rinnens FVO",
+      "categories": [
+        "fiskeklubb",
+        "fiskekort",
+        "fiskev\u00e5rd"
+      ]
     },
     {
       "entry": 1233474350,
@@ -35022,6 +35172,16 @@
       "web": "https://www.laget.se/CIF/"
     },
     {
+      "entry": 1233635000,
+      "orgNumber": "814400-9027",
+      "orgName": "H\u00e4ver\u00f6 Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://haverobk.se/"
+    },
+    {
       "entry": 1233635018,
       "orgNumber": "802451-7529",
       "orgName": "Musk\u00f6 IF",
@@ -35449,6 +35609,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://templarknightsmc.se/jamtland/jamtland-charity/"
+    },
+    {
+      "entry": 1233699816,
+      "orgNumber": "884400-8881",
+      "orgName": "Mora Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.morabk.com/"
     },
     {
       "entry": 1233699931,
@@ -37319,6 +37489,16 @@
       "web": "https://schaferhundklubben.com/"
     },
     {
+      "entry": 1233907722,
+      "orgNumber": "832401-1934",
+      "orgName": "Nybro Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://nybrobk.se/"
+    },
+    {
       "entry": 1233908100,
       "orgNumber": "817300-4576",
       "orgName": "Equmenia \u00d6rbyhus",
@@ -37606,6 +37786,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://skiftet.org/"
+    },
+    {
+      "entry": 1233951894,
+      "orgNumber": "883200-7523",
+      "orgName": "Falu Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://falubk.org/"
     },
     {
       "entry": 1233952124,
@@ -39042,6 +39232,16 @@
       "web": "https://www.fmnnorrbotten.com/"
     },
     {
+      "entry": 1234133906,
+      "orgNumber": "887500-5426",
+      "orgName": "Hudiksvalls Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://hudiksvallsbrukshundklubb.se/"
+    },
+    {
       "entry": 1234134482,
       "orgNumber": "802407-2251",
       "orgName": "Kvinnojouren T\u00e4by/Danderyd",
@@ -39120,6 +39320,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.nbcgottne.se/"
+    },
+    {
+      "entry": 1234138897,
+      "orgNumber": "897000-6758",
+      "orgName": "Lule\u00e5 Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://lulebk.nu/"
     },
     {
       "entry": 1234149258,
@@ -43966,6 +44176,16 @@
       "web": "https://www.bastadbudoklubb.se/"
     },
     {
+      "entry": 1234732194,
+      "orgNumber": "833200-7759",
+      "orgName": "Hultsfred Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.hultsfredbrukshundklubb.se/"
+    },
+    {
       "entry": 1234734059,
       "orgNumber": "842000-4908",
       "orgName": "H\u00f6\u00f6rs GDF Glada G\u00e4nget, H\u00f6\u00f6rs Gammaldansf\u00f6rening",
@@ -45776,6 +45996,16 @@
       "web": "https://icrss.se/"
     },
     {
+      "entry": 1235006556,
+      "orgNumber": "843001-5944",
+      "orgName": "Bjuvs Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.bjuvsbk.se/"
+    },
+    {
       "entry": 1235009410,
       "orgNumber": "556440-0827",
       "orgName": "Top of Skellefte\u00e5 / Midsommarviken AB",
@@ -47334,6 +47564,16 @@
       "web": "https://www.novahuset.com/"
     },
     {
+      "entry": 1235147202,
+      "orgNumber": "847000-8155",
+      "orgName": "Trelleborgs Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://brukshundklubben.se/om-oss/hitta-din-klubb/sbk-skanes-distrikt/lokala-klubbar/trelleborgs-brukshundklubb/"
+    },
+    {
       "entry": 1235147533,
       "orgNumber": "897300-0261",
       "orgName": "Kiruna jakt- och fiskev\u00e5rdsf\u00f6rening",
@@ -48029,6 +48269,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235229307,
+      "orgNumber": "802469-7008",
+      "orgName": "Forsakars Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.forsakarsbrukshundklubb.se/"
     },
     {
       "entry": 1235229760,
@@ -49633,6 +49883,16 @@
       "web": "https://socialistiskpolitik.se/"
     },
     {
+      "entry": 1235393491,
+      "orgNumber": "886000-2453",
+      "orgName": "S\u00f6derhamns Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.soderhamnsbrukshundklubb.se/"
+    },
+    {
       "entry": 1235394036,
       "orgNumber": "817603-6583",
       "orgName": "Hyresg\u00e4stf\u00f6reningen Dj\u00e4knegatan",
@@ -49743,6 +50003,16 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/fria/"
+    },
+    {
+      "entry": 1235402813,
+      "orgNumber": "849000-5405",
+      "orgName": "Falkenbergs Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "http://www.falkenbergsbk.se/"
     },
     {
       "entry": 1235402821,
@@ -50094,6 +50364,16 @@
       "web": "https://www.hornborga.com/"
     },
     {
+      "entry": 1235438445,
+      "orgNumber": "842000-9030",
+      "orgName": "H\u00f6rby Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://horbybk.se/"
+    },
+    {
       "entry": 1235438957,
       "orgNumber": "802513-3615",
       "orgName": "Swedish Animal Aid",
@@ -50133,6 +50413,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/ljungby/lidhult-forsamling"
+    },
+    {
+      "entry": 1235440979,
+      "orgNumber": "802438-5455",
+      "orgName": "Roslagens Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.roslagensbk.se/"
     },
     {
       "entry": 1235441498,
@@ -50664,6 +50954,16 @@
         "golfklubb"
       ],
       "web": "https://www.bjurholmsgk.se/"
+    },
+    {
+      "entry": 1235515150,
+      "orgNumber": "835600-1670",
+      "orgName": "Ronneby Brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://ronnebybrukshundklubb.se/"
     },
     {
       "entry": 1235516026,
@@ -53041,6 +53341,15 @@
       "web": "https://www.norrortssporten.se/"
     },
     {
+      "entry": 1235770946,
+      "orgNumber": "838201-4325",
+      "orgName": "G\u00f6inge-Broby Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ]
+    },
+    {
       "entry": 1235771704,
       "orgNumber": "818500-5520",
       "orgName": "Floda Hembygdsf\u00f6rening",
@@ -54163,6 +54472,16 @@
       "web": "https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-alingsas/foreningar/alingsas.html"
     },
     {
+      "entry": 1235904255,
+      "orgNumber": "848000-6892",
+      "orgName": "Ystads Brukhundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://ystadsbrukshundklubb.se/"
+    },
+    {
       "entry": 1235904677,
       "orgNumber": "878000-5735",
       "orgName": "Surahammars IF",
@@ -55058,6 +55377,7 @@
       "entry": 1236021844,
       "orgNumber": "838201-9464",
       "orgName": "Kristianstads Brukshundklubb",
+      "comment": "Kiosk",
       "categories": [
         "brukshundsklubb",
         "hundsport"
@@ -56078,6 +56398,16 @@
       "web": "http://www.svedalatrafikskola.se/"
     },
     {
+      "entry": 1236155717,
+      "orgNumber": "802429-9276",
+      "orgName": "Prostatacancerf\u00f6reningen i Kalmar L\u00e4n",
+      "categories": [
+        "cancerf\u00f6rening",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://prostatacancerforbundet.se/pcfikalmarlan/"
+    },
+    {
       "entry": 1236156558,
       "orgNumber": "884402-0217",
       "orgName": "Brottsofferjouren Norra Dalarna",
@@ -56393,6 +56723,16 @@
         "stiftelse"
       ],
       "web": "https://stodforskning.umu.se/"
+    },
+    {
+      "entry": 1236184329,
+      "orgNumber": "898800-5214",
+      "orgName": "Svenska Brukshundklubben \u00d6vre Norrlands Distikt",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://brukshundklubben.se/sbk-ovre-norrlands-distrikt/"
     },
     {
       "entry": 1236185011,
@@ -57303,6 +57643,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://s\u00f6derb\u00e4rkehembygdsf\u00f6rening.se/"
+    },
+    {
+      "entry": 1236279137,
+      "orgNumber": "802414-0579",
+      "orgName": "Kungs\u00f6rs Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.kungsorsbhk.com/"
     },
     {
       "entry": 1236279566,
@@ -58536,6 +58886,16 @@
       "web": "https://www.hembygd.se/vastra-ny"
     },
     {
+      "entry": 1236444210,
+      "orgNumber": "802434-9840",
+      "orgName": "\u00c5m\u00e5ls Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://\u00e5m\u00e5lsbrukshundklubb.se/"
+    },
+    {
       "entry": 1236446033,
       "orgNumber": "889202-8773",
       "orgName": "GIF Sundsvalls Supporterklubb",
@@ -59555,6 +59915,16 @@
       "web": "https://www.korkortcenter.com/"
     },
     {
+      "entry": 1236539068,
+      "orgNumber": "898500-8203",
+      "orgName": "Jokkmokks Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://jokkmokksbhk.se/"
+    },
+    {
       "entry": 1236539092,
       "orgNumber": "873200-5817",
       "orgName": "Karlstads Dykarklubb",
@@ -60119,6 +60489,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://vardnad.se/"
+    },
+    {
+      "entry": 1236661003,
+      "orgNumber": "834001-5695",
+      "orgName": "Svenska Brukshundsklubben Gotlandsdistriktet",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "http://www.sbkgotland.se/"
     },
     {
       "entry": 1236661516,
@@ -61343,6 +61723,16 @@
       "web": "https://www.himlentv7.se/"
     },
     {
+      "entry": 1236779383,
+      "orgNumber": "829502-6432",
+      "orgName": "\u00c5seda-Lenhovda Brukshundsklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.a-lbk.se/"
+    },
+    {
       "entry": 1236779607,
       "orgNumber": "843000-4245",
       "orgName": "OV Helsingborg HK",
@@ -62493,6 +62883,15 @@
       "web": "https://www.svenskalag.se/eojk"
     },
     {
+      "entry": 1236917090,
+      "orgNumber": "802450-9922",
+      "orgName": "\u00d6rs\u00e5s Byalag",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.orsas.se/byalaget/"
+    },
+    {
       "entry": 1236917546,
       "orgNumber": "252002-2233",
       "orgName": "Barkar\u00f6 - Dingtuna - Rytterne F\u00f6rsamling",
@@ -62576,7 +62975,8 @@
       "orgName": "Rotary Nybro Glasriket",
       "categories": [
         "rotaryklubb"
-      ]
+      ],
+      "web": "https://www.rotary2410.se/clubinfophoto/nybro-glasriket"
     },
     {
       "entry": 1236930150,
@@ -62814,6 +63214,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://www.orsjobygdegard.cybersite.nu/"
+    },
+    {
+      "entry": 1236954598,
+      "orgNumber": "833200-4350",
+      "orgName": "Vimmerby brukshundklubb",
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.vimmerbybrukshundklubb.se/"
     },
     {
       "entry": 1236955199,
