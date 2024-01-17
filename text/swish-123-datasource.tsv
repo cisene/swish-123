@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-01-16-rev-155840
+# Date: 2024-01-17-rev-191606
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -255,7 +255,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230241570	817001-4388	MDD Merhamet Sverige	https://www.merhamet.se/	religion,välgörenhet	
 1230241851	802473-9982	Studentkåren vid Johannelunds Teologiska Högskola	https://www.johannelund.nu/student/	religion,studentkår	
 1230242792	857204-8315	Göteborgs Hundkapplöpningsklubb	http://hundkapp.net/	hundkapplöpning,hundkapplöpningsklubb,hundsport	
-1230243188	802510-0614	Angel Island Army, AIA	http://aia.nu/	supporterklubb	Medlemsavgift
+1230243188	802510-0614	Angel Island Army, AIA	https://aia.nu/	supporterklubb	Medlemsavgift
 1230243337	802409-3075	Kattfonden - Insamlingsstiftelsen för hemlösa katter	https://kattfonden.se/	djurskydd,donation,stiftelse	
 1230244228	889200-3479	Stöde Hembygdsförening	https://www.hembygd.se/stode	hembygdsförening	
 1230244426	802476-4543	Afrogarden	https://www.afrogarden.com/	hjälporganisation,intresseförening	
@@ -265,7 +265,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230248872	559115-9594	Yoga i Åkersberga AB	https://www.yogaiakersberga.se/	massage,utbildning,yoga	
 1230252254	802489-3458	Solna Landhockeyförening Mens Sana In Corpore Sano, MESAICOS	https://mesaicos.se/	idrottsförening,landhockeyklubb	
 1230253930	559199-2655	Pet Vet Sweden AB	https://www.petvet.se/	veterinär	
-1230253989	630923-XXXX	Thong Thai Massage / Thongjan Skaar	http://www.thongthaimassage.com/	massage,thaimassage	
+1230253989	630923-XXXX	Thong Thai Massage / Thongjan Skaar	https://thongthaimassage.com/	massage,thaimassage	
 1230259051	818500-8508	Björkviks Bygdegårsförening	https://bjorkviksbygdegard.se/	bygdegårdsförening	
 1230259804	802477-8113	Together for Better	https://www.togetherforbetter.se/	donation,stiftelse,utbildning	
 1230261750	889201-7974	Timrå IK Supporterklubb	https://tikare.se/	supporterklubb	
@@ -299,7 +299,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230295105	875001-6282	Örebro Läns Kennelklubb	https://www.skk.se/sv/OLKK/	hundsport,kennelklubb	
 1230295196	802003-3869	Enskede Ridsällskap	http://www.enskederidsallskap.se/	hästsport,ridklubb	Tävlingar
 1230295394	802473-0486	Hägglunds Ski Team SK - Skidor	https://www.hagglundsskiteam.se/	idrottsförening,skidor	Kläder
-1230296749	556707-6889	Vallentuna Golfklubb	http://www.vallentunagk.se/	golfklubb	
+1230296749	556707-6889	Vallentuna Golfklubb	https://www.vallentunagk.se/	golfklubb	
 1230297473	817001-4537	BACHO Museet / J P Johansson-Sällskapet	https://bahcomuseum.se/	historieförening,museum	
 1230297721	556339-7859	Södertälje Bil & Alldemo AB	https://skarlunda.se/	bildelar,reservdelar	
 1230298117	824000-9178	Kvinnojouren i Motala	https://motalakvinnojour.se/	kvinnojour	
@@ -314,10 +314,10 @@ entry	orgNumber	orgName	web	categories	comment
 1230302505	802442-9105	Iskalla Ryttares förening	https://www.iskallaryttare.se/	ridklubb,ridskola,ryttarförening	
 1230302950	802463-9760	Anklams Distansryttarsällskap	http://anklamsdistansryttarsallskap.se/	hästsport,ridsport,ryttarsällskap	
 1230303057	556898-9254	Sverige Runt AB	https://sverigerunt.org/	frågesport,nöje,sport	
-1230304733	802410-3072	AIK-Tifo	http://aiktifo.se/	supporterklubb	
-1230304816	556931-5970	Vallentuna Kattcenter AB	http://vallentunakattcenter.se/	djurskydd,katthem	
+1230304733	802410-3072	AIK-Tifo	https://aiktifo.se/	supporterklubb	
+1230304816	556931-5970	Vallentuna Kattcenter AB	https://vallentunakattcenter.se/	djurskydd,katthem	
 1230305011	802420-2205	Sankt Staffans Kapell Älvåsen	https://www.staffanskapellet.se/	religion	
-1230305607	887500-0542	Elimförsamlingen Bjuråker	http://nasviken.pingst.se/	religion	
+1230305607	887500-0542	Elimförsamlingen Bjuråker	https://dellenpingst.se/	religion	
 1230305615	829501-5831	Braås Ponny- och Ridklubb	https://www.braaspork.se/	hästsport,ridklubb	
 1230310904	252003-8874	Södra Ölands Pastorat	https://www.svenskakyrkan.se/sodraoland	religion	Barnverksamhet i Nådens kapell
 1230313833	769606-2228	Brf Pinnpojken	https://www.brfpinnpojken.se/	bostadsrättsförening	
@@ -533,6 +533,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230497792	875001-7611	Örebro City Golf & CC	https://orebrogolf.se/	golfklubb	
 1230498303	802461-5364	Bosses Hundhjälp	https://www.bosseshundhjalp.se/	djurskydd	
 1230498436	847000-4733	Friskis & Svettis Vellinge	https://www.friskissvettis.se/vellinge	friskvård,idrottsförening	
+1230498501	802468-4246	Halmstad Triathlon & Multisport	https://htm.nu/	idrottsförening,multisportklubb,triathlonklubb	
 1230498741	556153-6383	Heljarödsgården	https://heljarodsgarden.se/	religion	
 1230498824	894001-3280	Green Devils, Björklövens Supporterklubb	http://www.greendevils.nu/	supporterklubb	
 1230499020	802017-6098	Rotary Stockholm Strand	https://stockholmstrand.org/	rotaryklubb	
@@ -921,6 +922,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230875161	818000-7190	Eskilstuna Hunddressyrklubb	https://www.ehdk.se/	dressyrklubb,hundklubb	Köket
 1230876417	802496-2220	Trans Fest Stockholm	https://transfeststockholm.org/	festival,kultur,transsexualitet	
 1230877464	332401-0937	Risbäcks Hembygdsförening	https://risback-vastsjo.se/	hembygdsförening	
+1230877811	825003-4504	IBF Norrköping	https://www.svenskalag.se/ibfnorrkoping	idrottsförening,innebandyklubb	
 1230878439	817300-4543	Borgenkyrkan Ung i Tierp	https://borgenkyrkan.se/	religion,ungdomsverksamhet	
 1230878629	802006-7750	Svenska Epilepsiförbundet	https://www.epilepsi.se/	förbund,neurohälsa	
 1230878835	802508-1947	Fanatic Fusion Vi Unga	http://fanaticfusion.com/	dansförening,ungdomsverksamhet	
@@ -1250,6 +1252,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231204114	252000-0650	Brännkyrka Församling	https://www.brannkyrka.org/	religion	Söndagens kollekt Brännkyrka kyrka
 1231204791	802462-9431	Amalthea Bokkafé / Amalthea Studieförening	https://amaltheabokkafe.tumblr.com/	bokkafé,cafe	
 1231205277	838200-1587	IFK Kristianstad	https://ifkkristianstad.se/	idrottsförening	
+1231205656	885000-8247	Gästriklands Kennelklubb, GÄKK	https://www.skk.se/sv/GAKK/	hundsport,kennelklubb	Parkering
 1231205822	802417-2432	Villberga Hembygdsförening	https://www.hembygd.se/villberga	hembygdsförening	
 1231206432	802479-8327	Insamlingsstiftelsen Y.O.U.N.G.	http://www.stiftelsenyoung.se/	stiftelse	
 1231206721	559053-4219	Den Lilla Krogen Skövde AB	https://denlillakrogen.se/	restaurant	
@@ -1388,6 +1391,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231323724	802488-8599	Bergslagens Älghundsklubb	http://bergslagen.alghundklubben.com/	hundklubb,hundsport	
 1231323989	884401-0762	Lima Fiskevårdsförening i Malung	https://www.limafiske.se/	fiskevård,sportfiske,vattenvård	
 1231324581	802413-5488	Vuono Hembygds och Kulturförening	https://www.hembygd.se/vuono	hembygdsförening,kulturförening	
+1231324748	828500-6105	Westbo Innebandyklubb	https://www.svenskalag.se/westboibk	idrottsförening,innebandyklubb	
 1231324987	556861-7988	Fruängens Bilskola AB	https://fruangensbilskola.se/	trafikskola	
 1231325224	680401-XXXX	Vidinge Gård / Per Philip	https://vidingegard.com/	kursgård,restaurant	
 1231325323	812800-0646	Botkyrka Pingstförsamling	https://www.botkyrkapingst.se/	religion	
@@ -1528,6 +1532,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231473925	252004-8352	Victory Center Helsingborg	https://victorycenter.se/	religion	
 1231474253	845002-2903	SPF Lund-Centrum	https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/lundcentrum/	pensionärsklubb	
 1231474378	894001-4379	Vindelns Ridklubb	https://www.vindelnsridklubb.se/	hästsport,ridklubb	Hästtransport
+1231474972	862000-8873	Åmåls IBK	https://www.amalsibk.com/	idrottsförening,innebandyklubb	
 1231475193	802445-1448	RPG - Riksförbundet PensionärsGemenskap - Kullabygden	https://rpg.org.se/distrikt/skane-blekinge/	pensionärsklubb	
 1231475219	873200-6369	Färjestad Ridklubb	https://www.fark.se/	hästsport,ridklubb,ridsport	
 1231475516	882000-0159	Pingstförsamlingen Hedemora	https://hedemorapingst.se/	religion	
@@ -1650,6 +1655,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231569888	894002-5391	Norrmjöle Golfklubb	https://www.nmgk.se/	golfklubb	
 1231572486	559418-5844	Rent A Chef / Racademy AB	https://rentachef.com/	bemanning,catering	Göteborg
 1231572981	855900-4711	Hogdal Bygdegård	https://www.facebook.com/hogdallokal	bygdegårdsförening	
+1231573138	817605-8017	Svenska Kuvaszklubben, SVKK	https://svkk.se/	hundklubb,hundsport	
 1231573831	802511-1561	Blasieholmens Vänner	https://blasieholmensvanner.se/	intresseförening	
 1231574268	802476-4881	Skarpa Kvinns	https://www.skarpakvinns.se/		
 1231576693	802494-6561	Länsföreningen Hjärnkoll Västerbotten	https://hjarnkollvasterbotten.se/	donation	
@@ -2415,6 +2421,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232358521	832400-4087	Kalmar Läns Museum	https://kalmarlansmuseum.se/	museum,podcast	Museimagasinet Podcast
 1232358901	802411-6249	Bebyggelsehistoriska Föreningen i Stockholm	https://bebyggelsehistoriska.se/	byggnadskonst,förening	
 1232359685	886500-0163	Forsbrokyrkans Församling i Arbrå	https://forsbrokyrkan.se/	religion	
+1232360618	817301-2678	Skutskärs IF Bandy	https://www.sifbandy.nu/	bandyklubb,idrottsförening	
 1232360949	802000-6790	Djurgårdens Supporters Club	https://dsclub.se/	supporterklubb	
 1232360998	969753-7596	Scrapdraken	https://scrapdraken.se/	pyssel	
 1232361632	827000-0568	Eksjöortens RF - Ridsport	https://www.eksjorf.se/	hästsport,ridklubb,ridskola,ridsport	lotter, försäljning, kakor, godis
@@ -2433,6 +2440,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232373884	620313-XXXX	Zonterapi Linköping - Corazone / Rose-Marie Andersson	http://www.corazone.se/	homeopati,resonansbehandling,zoneterapi	
 1232374692	849000-9233	Slöinge TK - Tennis	https://www.sloingetennisklubb.org/	tennisklubb	
 1232375160	878000-6055	Västerås IK	https://www.vik.se/	idrottsförening,ishockeyklubb	Värvningspotten
+1232375285	862501-2276	Svenska Rottweilerklubben	https://rottweilerklubben.se/	hundklubb,hundsport	Pr shoppen
 1232375293	814400-1420	Rodenkyrkan Norrtälje	https://rodenkyrkan.se/	religion	
 1232375319	802445-7510	Föreningen Bota FA!	http://www.bota-fa.se/	friedreichs ataxi,förening,patientförening	
 1232375814	816400-0922	Gränna Adventkyrka	https://granna.adventkyrka.se/	religion	
@@ -2470,6 +2478,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232403285	802404-0308	Rättvisepartiet Socialisterna	https://www.socialisterna.org/	politiskt parti	Valfonden
 1232403590	802454-7682	Rydaholms Frikyrka	http://www.rydaholmsfrikyrka.se/	religion	Gåvor
 1232403657	865500-6164	Gällstads Hembygdsförening	https://ghf.swedenroots.se/	hembygdsförening	
+1232404135	862501-2276	Svenska Rottweilerklubben	https://rottweilerklubben.se/	hundklubb,hundsport	Centrala
 1232404283	832800-4216	Lions Club Högsby	http://lions.hogsby.net/	lionsklubb	
 1232404507	802463-2484	Drivkraft Malmö Ideell Förening	http://www.drivkraftmalmo.se/	förening	
 1232404994	843001-5944	Bjuvs Brukshundklubb	https://www.bjuvsbk.se/	brukshundsklubb,hundklubb	
@@ -2526,6 +2535,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232490977	855104-0804	Kville Billiard Club	https://kvillebc.se/	biljard,biljardklubb,pool	
 1232493187	846002-1168	Kämpinge Gymnastikförening	https://www.kampinge.com/	gymnastikförening	
 1232493484	843003-3376	Råå-Åns Fiskevårdsområdesförening Anno ÅR 2000	http://www.rfvo.se/	fiskevård,förening	
+1232494201	802466-3356	Stellafonden		naturskydd	
 1232495133	893201-0575	Östersunds Bugg o Rock’n’Roll Klubb	https://obrk.se/	dansförening,danskurser,motionsdans	
 1232512077	802532-4578	Älekulla Bygdegårdsförening-Byalag	http://alekullabyalag.hemsida24.se/	byalag,bygdegårdsförening	
 1232512374	802531-3811	#CanWeTalkAboutIt / Strålsäkerhetsföreningen	https://www.canwetalkaboutit.org/	intresseförening	
@@ -2581,6 +2591,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232581189	556722-0974	Anders Andersson Text & Konsult AB	https://www.andersandersson.se/	fotograf,författare,konst	
 1232585792	802004-4924	Old English Sheepdogsällskapet, OESS	https://www.oessallskapet.com/	hundklubb	
 1232586444	832401-4573	Bäckebo Hembygdsförening	http://www.backebo.nu/	hembygdsförening	
+1232586535	817301-2678	Skutskärs IF Bandy	https://www.sifbandy.nu/	bandyklubb,idrottsförening	
 1232587244	252003-9203	Gåxsjö församling / Strömsunds pastorat	https://www.svenskakyrkan.se/stromsund/gaxsjo/hammerdal-forsamlingar	religion	
 1232587442	802505-7426	Federationen WIZO Sverige	https://www.wizo.se/	ungdomsverksamhet,utbildning	
 1232587509	836201-1002	Mörrums RF - Ridsport	https://www.morrumsryttarforening.com/	ridklubb,ridsport,ryttarförening	
@@ -2877,6 +2888,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232881662	556943-9838	Samuelsson & Partner AB	https://samuelssonpartner.se/	lås,säkerhet	
 1232882405	896100-0166	Filadelfiaförsamlingen I Dorotea	https://dorotea.pingst.se/	religion	
 1232884336	556941-7370	Willow Hälsa / Villa Cosmos AB / Helena Lundvik	https://willow.se/	reiki,shamanism,spiritualism	
+1232885184	802419-3370	IFK Motala Bandy	https://www.ifkmotalabandy.se/	bandyklubb,idrottsförening	
 1232885267	802471-5107	Dravets Syndrome Association Sweden, DSAS	http://www.dravetssweden.se/	forskning,hälsa,intresseförening	Fjärilsfonden
 1232886067	873201-9081	Karlstad MX Klubb - Motorcykel och Snöskoter	https://www.karlstadmx.se/	motorcykelklubb,snöskoterklubb	
 1232886604	866000-7769	Lions Club Mariestad	https://lionsmariestad.se/	lionsklubb	
@@ -3004,6 +3016,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233034329	252000-0908	Nacka Församling	https://www.svenskakyrkan.se/nacka	religion	Diakonin i Nacka församling
 1233034360	252001-4628	Torp Församling	https://www.svenskakyrkan.se/orust/torp-forsamling	religion	
 1233034394	829000-4616	Älmhults GK	https://almhultsgk.se/	golfklubb	
+1233036266	862501-2276	Svenska Rottweilerklubben	https://rottweilerklubben.se/	hundklubb,hundsport	Utställning
 1233036431	556916-8619	Autolane AB	https://www.autolane.se/	begagnade fordon,motorcykel,personbil	
 1233036852	817602-7400	Burviks Golfklubb	https://burvik.se/	golfklubb	
 1233037389	556735-7081	EAD Sweden AB	https://www.eadsweden.com/	ljudsystem	
@@ -3521,6 +3534,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233600699	012696-2349	Sipples Patientförening - Patienter med MEN 2A	https://sipples.wordpress.com/	patientförening	
 1233600822	969710-1500	Hästtjärns Fiske Handelsbolag	https://hasttjarn.se/	fiskekort,sportfiske	
 1233602836	802509-6051	Dannike Hembygdsförening	https://www.hembygd.se/dannike	hembygdsförening	
+1233603388	802407-5809	Spånga-Bromstens Bandyklubb	https://www.sbbk.nu/	bandyklubb,idrottsförening	
 1233603990	821106-XXXX	Bcbuddz Live / Branislav Pavlovic	https://bcbuddzlive.libsyn.com/	podcast	
 1233605003	802467-4544	Dandelion Africa Sverige	http://www.dandelionafrica.se/	hjälporganisation	
 1233605219	878001-9553	Västerås SportDykarKlubb Mollusca	https://vsdk-mollusca.org/	dykning,sportdykning,utbildning	
@@ -3636,6 +3650,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233742301	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Malmö, Framtidskompassen Vellinge
 1233742541	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Värmland, Fredricelundskolan
 1233742624	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Malmö, Trollets Förskola
+1233745551	815600-8537	Svenska Hundklubben, Södertälje	https://svenskahundklubben.se/sodertalje/	hundklubb,hundsport	
 1233747771	802438-4888	Värmdö Nattvandrare	https://www.nattvandra.nu/	förening,intresseorganisation	
 1233747789	530529-XXXX	Fagersta Nyheter / Ola Wahlsten	https://fagerstanyheter.com/	lokaltidning	
 1233749173	846002-9740	Victoriateatern / Kulturföreningen Kontrast	https://www.victoria.se/	kulturförening,teater	
@@ -3644,6 +3659,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233770146	894000-2952	EFS Västerbotten	https://efsvasterbotten.se/	religion	
 1233771318	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/Uppsala/	religion	Uppsala, Kåren
 1233771656	559000-7612	Kungsbygget Äventyrspark AB	https://kungsbygget.com/cykelpark	cykelsport,friluftsliv,företagsevent,klättring,äventyr	
+1233772076	879000-3704	Fagersta Brukshundklubb	https://www.fagerstabk.com/	brukshundsklubb,hundsport	
 1233772225	802508-5617	Rotary Helsingborg Kärnan	https://helsingborg-karnan.rotary2390.se/	rotaryklubb	
 1233773553	858500-4941	Gilleby IF	https://gillebyif.se/	fotbollsklubb,idrottsförening	
 1233780079	802006-0110	Ellen Keys Stiftelse Strand	https://www.ellenkey.se/	stiftelse	
@@ -3710,6 +3726,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233848736	556809-4980	Mrs Skager Coaching / CCG sports AB	https://valldagolf.se/	golfcoach,utbildning	
 1233848843	559198-6335	Berga Husvagnsuthyrning	https://hyra-husvagn.se/	campingutrustning,husvagnsuthyrning,uthyrning	
 1233849213	878000-5412	Västerås Ryttarsällskap	https://www.vrs.se/	ridklubb,ridsport,ryttarsällskap	
+1233850005	885000-8247	Gästriklands Kennelklubb, GÄKK	https://www.skk.se/sv/GAKK/	hundsport,kennelklubb	Entre & Katalog
 1233850666	826000-1816	KFUM Gården Vidablick	https://vidablick.org/	idrottsförening	
 1233851151	802010-0452	Svenska Danssportförbundet	https://www.danssport.se/	danssport,förbund	
 1233851185	252003-0202	Svenska kyrkan Mölndal	https://www.svenskakyrkan.se/molndal/hbe	religion	HBE (Hopp för barn i Etiopien)
@@ -4019,9 +4036,10 @@ entry	orgNumber	orgName	web	categories	comment
 1234203246	802505-1809	Karlskrona Boxningsklubb	https://karlskronabk.wordpress.com/	boxningsklubb,idrottsförening	
 1234203535	802498-4315	Skellefteå Makerspace	https://skemake.se/	intresseförening,makerspace	
 1234203683	889600-6478	Örnsköldsviks MC Club, ÖMCC	https://www.omcc.se/	motorcykelklubb	
-1234203915	802448-9901	Umeå Draghundsklubb, DHK	https://sites.google.com/a/umeadraghund.se/umeadhk/home	hundklubb,hundsport	
+1234203915	802448-9901	Umeå Draghundsklubb, DHK	https://umeadraghund.se/	hundklubb,hundsport	
 1234205258	802420-3948	Prostatacancerföreningen Värmland	https://prostatacancerforbundet.se/om-oss/patientforeningar/varmland/prostatacancerforeningen-varmland/	cancer,patientförening,prostatacancer	
 1234206280	802514-0362	Action For Humanity	https://lovettejallow.com/	hjälporganisation	
+1234206652	853300-0413	IFK Kungälv	https://ifkkungalv.se/	bandyklubb,idrottsförening	
 1234208161	802490-1285	Gryphons	https://www.gryphons.nu/	supporterklubb	
 1234212197	802426-3165	Stiftelsen Uppåkra Arkeologiska Center	https://www.uppakra.se/	arkeologi,utbildning	Gåvor och insamlingar
 1234212239	863500-4222	Bohus IF	https://www.bohusif.se/	idrottsförening	
@@ -4923,6 +4941,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235279021	875701-2557	Laxå Villaägareförening	https://laxavilla.se/	fastighetsägarförening,förening,villaägareförening	
 1235279468	897000-3813	Lulegymnasterna	https://www.lulegymnasterna.com/	gymnastikförening	
 1235279682	883800-0035	Korskyrkan i Ludvika	https://www.korskyrkanludvika.se/	religion	
+1235279724	863500-8066	Surte BK	https://www.surtebandy.se/	bandyklubb,idrottsförening	
 1235281233	839400-8570	Fotoklubben Kamera - Ängelholm	https://www.svenskfotografi.org/fotoklubbar/fotoklubben-kamera-angelholm/	fotoklubb	
 1235281555	559161-8011	Norboda AB	http://www.norboda.se/	förlag	
 1235282132	817301-2215	Ramhälls Bygdegårds- och Hembygdsförening	https://bygdegardarna.se/ramhall/	bygdegårdsförening,hembygdsförening	
@@ -5060,6 +5079,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235419205	802454-7682	Rydaholms Frikyrka	http://www.rydaholmsfrikyrka.se/	religion	Cafe
 1235419262	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Malmö, Slimmingeby skola
 1235419312	802475-8818	Malma Intresseförening	http://www.malmaintresseforening.se/	intresseförening	
+1235420161	802508-7449	Svenska Greyhoundklubben	https://www.greyhoundklubben.se/	hundklubb,hundsport	
 1235421623	827000-5468	Eksjö SOK	https://www.eksjosok.se/	idrottsförening,orienteringsklubb	
 1235422340	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Stockholm, Saltsjöbaden
 1235422399	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Göteborg, Lundensskolan
@@ -5229,6 +5249,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235604731	802503-4763	Rotary Malmö Öresund	https://malmo-oresund.rotary2390.se/	rotaryklubb	
 1235606199	825001-7327	Lindö Minigolf och Haga Bangolfklubb	https://hagabgk.se/	golfklubb,minigolf	
 1235606942	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Malmö, Hjärups skola
+1235606991	802452-4046	Bodens Draghund IF	https://www.bdif.nu/	draghundsklubb,idrottsförening	
 1235607312	802521-2104	Tails Rescue Sweden	https://tailsrescuesweden.org/	djurskydd,hundhem	
 1235607395	802503-4813	Wilhelm Stenhammar-Sällskapet	https://stenhammarsallskapet.com/	förening	
 1235607965	857202-3045	Café Trappanér / Göteborgs Baptistförsamling	http://www.cafetrappaner.se/	cafe	
@@ -5694,6 +5715,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236157879	816400-0617	Ingmarsö Bygdegårdsförening	https://ingmarso.se/om-byalaget/	byalag,bygdegårdsförening	Byalaget
 1236157994	867200-3822	IFK Tidaholm	https://www.ifktidaholm.se/	fotbollsklubb,idrottsförening	
 1236158471	879500-4673	Hela Människan Sala-Heby	https://helamanniskan.se/sala-heby/	hjälporganisation	
+1236158539	826002-0972	Svenska Vorstehklubben Småland-Östergötland	https://www.vorsteh.se/	hundklubb,hundsport	
 1236158620	879500-3014	Sala Brukshundklubb	https://www.salabrukshundklubb.hundpoolen.nu/	brukshundsklubb,hundsport	
 1236158893	802426-7042	Stiftelsen Berättarministeriet	http://www.berattarministeriet.se/	stiftelse	
 1236158935	879500-4004	Riksorganisationen UFO-Sverige	https://www.ufo.se/	intresseorganisation,ufo	
@@ -5769,7 +5791,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236242986	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Värmland, Hammarlunden f-6
 1236243570	802461-0852	Föreningen för Digitala Fri- och Rättigheter, DFRI	https://www.dfri.se/	donation,intresseförening	
 1236243729	556743-6968	CH Anderssons Trafikskola AB	https://gelinderstrafikskola.se/	trafikskola,utbildning	
-1236244016	640803-6033	Skultorps Vagn & LokVerkstad	https://www.svlv.se/	modelljärnväg	
+1236244016	640803-XXXX	Skultorps Vagn & LokVerkstad	https://www.svlv.se/	modelljärnväg	
 1236244214	556622-0272	Rehabhuset Tomelilla AB	http://rehabhuset.com/	gym,rehab,träning	
 1236245674	802544-5894	Västerlanda Bygdegårdsförening	https://bygdegardarna.se/vasterlanda/	bygdegårdsförening	
 1236246110	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Kristianstad, Hammars skola
@@ -6029,16 +6051,17 @@ entry	orgNumber	orgName	web	categories	comment
 1236527428	846502-8812	Real Fighter	https://realfighter.se/	kampsportsförening	
 1236532386	580907-XXXX	Cancergalan / Karin Wöyer Amcoff		insamling,stödverksamhet	Cancergalan
 1236535272	889200-6647	Borgsjö Hembygdsförening	https://www.hembygd.se/borgsjohembygdsforening	hembygdsförening	
-1236535314	630909-XXXX	Backia	http://backia.se/	försäljning,motorer	
+1236535314	630909-XXXX	Backia	https://backia.se/	försäljning,motorer	
 1236536353	872000-6157	Älgå Hembygdsförening	https://www.hembygd.se/alga	hembygdsförening	
 1236536544	802411-4343	Sollentuna Kvinnojour	https://sollentunakvinnojour.se/	kvinnojour	
 1236537120	857209-7049	Budoklubben Shindo	https://www.shindo.se/	idrottsförening,kampsportsförening	
-1236537138	802456-2780	Brastad Golfklubb	http://www.brastadgk.se/	golfklubb	
+1236537138	802456-2780	Brastad Golfklubb	https://www.brastadgk.se/	golfklubb	
 1236537682	846001-7380	Jägarnas Riksförbund Malmö	https://www.jagarnasriksforbund.se/skane/malmojk/	jakt,riksförbund	
-1236537898	839400-3043	Förslövs IF	http://www.fif.se/	fotbollsklubb,idrottsförening	
+1236537898	839400-3043	Förslövs IF	https://www.fif.se/	fotbollsklubb,idrottsförening	
 1236537930	895400-3185	Storumans Idrottsklubb	https://www.storumansik.nu/	idrottsförening	
 1236538623	815201-0230	Centrumkyrkan i Sundbyberg	https://www.centrumkyrkan.se/	religion	
 1236538656	556174-3765	Körkortcenter i Halmstad	https://www.korkortcenter.com/	trafikskola,utbildning	
+1236538854	894700-8432	Hela Människan Skellefteå Stadsmission	https://helamanniskan.se/skelleftea/	hjälporganisation,religion	
 1236539068	898500-8203	Jokkmokks Brukshundsklubb	https://jokkmokksbhk.se/	brukshundsklubb,hundsport	
 1236539092	873200-5817	Karlstads Dykarklubb	https://www.karlstadsdk.com/	dykarklubb,sportdykning	
 1236546519	671225-XXXX	Let's Skyrocket / Skyrocket Podden / Carola Von Ahn	https://letsskyrocket.se/	numerologi,podcast,reiki,spiritualism	
@@ -6056,19 +6079,18 @@ entry	orgNumber	orgName	web	categories	comment
 1236571343	872000-2743	Arvika Golfklubb	https://www.arvikagk.com/	golfklubb	
 1236571905	252000-8083	Visby Domkyrkoförsamling	https://www.svenskakyrkan.se/visby	religion	Diakonalt arbete
 1236580013	875700-3689	Askersunds Gymnastikförening	https://www.askersundsgf.se/	gymnastikförening,idrottsförening	
-1236581888	823000-8206	Ödeshögs Kennelklubb	http://www.odeshogskennelklubb.se/	hundklubb	
+1236581888	823000-8206	Ödeshögs Kennelklubb	https://www.odeshogskennelklubb.se/	hundklubb	
 1236581938	934007-6745	Vedbände Ridläger & Ridskola	https://vedbande.nu/	hästsport,ridläger,ridskola	
 1236590566	252004-9947	Gävle Församling	https://www.svenskakyrkan.se/gavle/defaultaspxid668646	religion	Bomhus kyrka kollekt
 1236609093	559274-3701	Samtal i Trosa / Finkontoret Sverige AB	https://samtalitrosa.se/	podcast	
-1236613087	802481-5360	HFA Sverige	http://www.hf-a.org/	naturvård	
 1236613160	559132-0055	Fårö StrandCafé / Sand & Music AB	https://farostrandcafe.se/	cafe,restaurant	
 1236613368	559266-5771	Andras Novak instrumentmakare AB	https://www.andrasnovak.se/	instrument,reparationer	
 1236614507	864500-4063	Norrby IF	https://www.norrbyif.se/	idrottsförening	Kiosk Hemma
-1236615819	866000-9450	Torsö Bygdegårds & Idrottsförening	http://tbif.se/	bygdegårdsförening,idrottsförening	
+1236615819	866000-9450	Torsö Bygdegårds & Idrottsförening	https://tbif.se/	bygdegårdsförening,idrottsförening	
 1236616858	897000-2195	Pingstförsamlingen i Klöverträsk	https://www.klovertraskpingst.com/	religion	Ignite Sverige
 1236619282	878001-0768	Västerås Sjöscoutkår	https://vassjo.scout.se/	scoutkår	
 1236619340	802420-4383	Stallarholmens Nätverk	https://www.stallarholmen.info/	ideell förening	
-1236620215	802438-4706	Lillöringen Fiskeklubb	http://lilloringen.se/	fiskeklubb,sportfiske	
+1236620215	802438-4706	Lillöringen Fiskeklubb	https://lilloringen.se/	fiskeklubb,sportfiske	
 1236621213	894003-6554	Kassjö intresse- och bygdegårdsförening	https://www.kassjo.se/	bygdegårdsförening,intresseförening	
 1236621684	838800-8933	Smedstorps Byalag och Bygdegårdsförening	https://smedstorp.se/	byalag,bygdegårdsförening	
 1236623839	700603-XXXX	Guldtassens Trim & Hund Spa / Anette Hissing	https://www.guldtassens.com/	hundtrim	
@@ -6080,7 +6102,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236625487	802449-7797	Oskarshamns Ju-jutsuklubb	https://www.ojjk.se/	idrottsförening,jujutsuklubb,kampsportsförening	
 1236625628	556220-6887	Henåns ställplats / Orust Yachtservice AB	https://www.henansstallplats.com/	ställplats	
 1236626451	252002-4205	Anundsjö Församlning	https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped	religion	Diakoni
-1236627285	802436-6968	Kavalleri- och Jägarförbundet, KAVJF	http://www.kavjf.se/	försvarsorganisation,riksförbund,utbildning	
+1236627285	802436-6968	Kavalleri- och Jägarförbundet, KAVJF	https://www.kavjf.se/	försvarsorganisation,riksförbund,utbildning	
 1236628820	212000-1355	World Sessions / Göteborgs Kommun	https://worldsessions.se/	eventarrangör,konsert	
 1236629273	817606-9832	Eskilstuna United DFF	https://eskilstunaunited.se/	fotbollsklubb,idrottsförening	
 1236631287	826000-2673	Lekeryds Missionsförsamling	https://www.lekerydsmissionskyrka.com/	religion	Ungdomssektionen
@@ -6097,8 +6119,9 @@ entry	orgNumber	orgName	web	categories	comment
 1236652895	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare	Röda Korsets arbete i Palestina och Israel
 1236660088	895400-2880	Örträskbygdens Intresse- & Hembygdsförening	https://ortrask.se/	hembygdsförening,intresseförening	
 1236660682	802435-9161	Föreningen Vårdnad Boende Umgänge i Sverige, VBU	https://vardnad.se/	föräldraskap,intresseförening	
-1236661003	834001-5695	Svenska Brukshundsklubben Gotlandsdistriktet	http://www.sbkgotland.se/	brukshundsklubb,hundsport	
+1236661003	834001-5695	Svenska Brukshundsklubben Gotlandsdistriktet	https://brukshundklubben.se/sbk-gotlandsdistriktet/	brukshundsklubb,hundsport	
 1236661516	849201-3514	Lions Club Laholm	https://lionslaholm.se/	lionsklubb	
+1236662043	885000-8247	Gästriklands Kennelklubb, GÄKK	https://www.skk.se/sv/GAKK/	hundsport,kennelklubb	P&P
 1236662381	802449-6427	Kamratföreningen Försvarets Tekniska Officerare / KamraToff	https://kamratoff.se/	officersförening	
 1236662738	802476-0723	Tibro Konstförening	http://www.tibrokonst.se/	konstförening	
 1236662902	826002-0030	Kvinno- och tjejjouren Jönköping	https://www.unizonjourer.se/kvinnoochtjejjourenjonkoping/	kvinnojour	
@@ -6121,8 +6144,8 @@ entry	orgNumber	orgName	web	categories	comment
 1236683726	864501-6562	Föreningen för Olympisk Kortdistansskjutning FOK Borås	https://www.fokboras.se/	pistolskytteklubb,skytte	Ammo
 1236684070	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Jönköping, Sörgårdsskolan
 1236685283	829500-8281	Hembygdsföreningen Gamla Urshult	https://www.hembygd.se/hembygdsforeningen-gamla-urshult	hembygdsförening	
-1236685754	802508-2002	Barnendometriosfonden	http://www.barnendometriosfonden.se/	endometrios	
-1236685929	802446-6339	The House Sweden / Church Service	http://thehousesweden.com/	religion	
+1236685754	802508-2002	Barnendometriosfonden	https://www.barnendometriosfonden.se/	endometrios	
+1236685929	802446-6339	The House Sweden / Church Service	https://thehousesweden.com/	religion	
 1236686133	556517-4231	Golf Uppsala AB	https://www.golfuppsala.se/	golfklubb	Söderby Golf - Kiosk, Restaurant
 1236686604	802496-9308	Höörs Konståkningsförening - Konståkning	https://www.h-k-f.se/	konståkning,konståkningsklubb	
 1236686885	252004-7073	Tyska Församlingen i Malmö	https://deutsche-gemeinde-malmoe-suedschweden.jimdosite.com/	religion	
@@ -6142,7 +6165,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236694202	802419-9534	Torsö Hembygdsförening	https://www.hembygd.se/torso	hembygdsförening	
 1236694632	802018-0454	Stockholms Universitets Konstförening	https://www.su.se/medarbetare/anst%C3%A4lld/n%C3%A4tverk-f%C3%B6reningar/konstf%C3%B6reningen	konstförening	
 1236695241	802512-6478	Agapes Vänner i Uddevalla, Munkedal, Tanum	https://agapesvanner.com/	hjälporganisation	
-1236695357	802429-5878	Strokeföreningen Tranås	http://www.strokeforeningentranas.n.nu/	förening,hälsa,stroke	
+1236695357	802429-5878	Strokeföreningen Tranås	https://strokeforeningentranas.n.nu/	förening,hälsa,stroke	
 1236698898	556706-5262	Mikaelikyrkan	https://www.svenskakyrkan.se/vasteras/mikaelikyrkan	religion	Köket
 1236699706	802476-4642	Gårda Budoklubb - Wadoryu Karate	https://gardabudo.com/	idrottsförening,kampsportsförening,karateklubb	
 1236701171	814400-3046	Öregrunds Hembygdsförening	https://www.hembygd.se/oregrund	hembygdsförening	
@@ -6164,7 +6187,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236718530	843001-1281	Hittarps RK - Ridsport	https://www.hittarpsridklubb.com/	ridklubb	
 1236719744	556706-5262	Tillberga Kyrka	https://www.svenskakyrkan.se/vasteras/tillberga-kyrka	religion	Klädbytardagar, jullunch
 1236720445	650120-XXXX	Borås Yoga centrum / Kristina Andersson	https://borasyogacentrum.se/	yoga	
-1236721575	849201-6350	Mellbystrandsföreningen	http://www.mellbystrand.se/	intresseorganisation	
+1236721575	849201-6350	Mellbystrandsföreningen	https://www.mellbystrand.se/	intresseorganisation	
 1236722052	835600-7677	Lions Club Karlskrona Jarramas	https://www.lionsjarramas.se/	lionsklubb	
 1236722136	556570-4789	Cariannas Restaurang & Catering AB	https://www.carianna.se/	catering,restaurant	
 1236722730	802533-3603	Move Idrottsförening	https://www.moveif.se/	idrottsförening	
@@ -6212,7 +6235,6 @@ entry	orgNumber	orgName	web	categories	comment
 1236776025	829501-8033	Christina Nilsson-Sällskapet	https://www.christinanilssonsallskapet.se/	intresseförening,musikkultur	
 1236776587	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Värmland, Fredricelundsskolan
 1236776595	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Skaraborg, Lundenskolan
-1236776884	530407-1110	CTA Import & Service	http://www.ctaservice.se/	bildelar,bilvård	
 1236776991	802515-6806	Kindstugans Syförening	https://www.hembygd.se/kindgillet/kindstugans-syforening	hembygdsförening	
 1236777270	857205-9403	Kvinnojouren Ada	https://www.kvinnojouren-ada.nu/	donation,kvinnojour	
 1236777494	828500-5321	Stiftelsen Torghuset	https://www.torghuset.se/	stiftelse	
@@ -6223,7 +6245,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236779201	802450-5987	Föreningen För Katekumenatet	https://katekumenatet.se/	religion	
 1236779300	802470-6767	Himlen TV7 (Korsets Stöd R.F.)	https://www.himlentv7.se/	lokaltelevision,meditation,religion,yoga	
 1236779383	829502-6432	Åseda-Lenhovda Brukshundsklubb	https://www.a-lbk.se/	brukshundsklubb,hundsport	
-1236779607	843000-4245	OV Helsingborg HK		handbollsklubb,sport	
+1236779607	843000-4245	OV Helsingborg HK	https://ovhelsingborg.myclub.se/	handbollsklubb,idrottsförening	
 1236782775	802447-7021	Matteröds Byalag	https://www.matterodsbyalag.se/	byalag	
 1236783104	802511-5497	Alingsås Fotoklubb	https://www.alingsasfotoklubb.se/	fotoklubb	Tävlingar
 1236784441	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Halland, Bäckagårdsskolan
@@ -6246,7 +6268,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236804397	825002-7813	Söderköpings Ryttarsällskap	https://soderkopingsrs.se/	hästsport,ryttarsällskap	
 1236804488	857204-5568	Brännöföreningen	https://brannoforeningen.se/	barnverksamhet,idrottsförening	
 1236805220	802465-4702	Ullersäters Bygdegårdsförening	https://ullergarden.se/	bygdegårdsförening	
-1236805519	828000-2570	Värnamo Missionsförsamling	http://www.missionskyrkan.org/	religion	
+1236805519	828000-2570	Värnamo Missionsförsamling	https://www.missionskyrkan.org/	religion	
 1236805535	862000-4443	Åmåls Ridklubb	https://åmålsridklubb.se/	hästsport,ridklubb,ridskola	
 1236805592	802427-6738	Föreningen Nyhemsveckan	https://nyhemsveckan.se/	religion	
 1236807259	888400-2372	Nora Hembygdsförening	https://norabygden.com/	hembygdsförening	
@@ -6255,7 +6277,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236808554	883800-3997	Ludvika TK - Tennis	https://www.ludvikatennisklubb.se/	tennisklubb	
 1236808737	825000-6171	Vånga Missionsförsamling	https://vangamissionskyrka.se/	religion	
 1236809370	802410-2694	Litografiska Museet	https://www.litografiskamuseet.se/	konst,litografi,museum	
-1236809560	559060-0598	NiD Veterinärklinik AB	http://nidvet.se/	djurvård,veterinär	
+1236809560	559060-0598	NiD Veterinärklinik AB	https://nidvet.se/	djurvård,veterinär	
 1236811707	559110-8625	Eskilstuna Sushi Bar / Spicy Soup AB	https://www.eskilstunasushibar.se/	restaurant,sushi	
 1236811715	802514-6666	Kyrkbergets Vänner	https://www.kyrkberget.se/	religion	
 1236814131	886000-5258	Skogs Hembygds- & Intresseförening	https://www.hembygd.se/skogs-hembygdsforening	hembygdsförening,intresseförening	
@@ -6268,21 +6290,21 @@ entry	orgNumber	orgName	web	categories	comment
 1236826002	864501-5622	Lions Club Borås	https://www.lionsboras.se/	lionsklubb	
 1236826663	826500-5234	Brunnsparkskyrkan	https://www.brunnsparkskyrkan.se/	religion	
 1236827034	817607-0723	Båtklubben Wega	https://www.bkwega.se/	båtklubb,segelklubb,ungdomsverksamhet	
-1236827315	857203-2012	Västra Frölunda KK	http://www.vfkk.se/	idrottsförening,konståkningsklubb	Konståkning
+1236827315	857203-2012	Västra Frölunda Konståkningsklubb, VFKK	https://www.vfkk.se/	idrottsförening,konståkningsklubb	Konståkning
 1236827513	889201-4195	Njurunda Brukshundklubb	https://www.njurundabhk.se/	brukshundsklubb,hundsport	
 1236827703	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cykelsport,friskvård,intresseförening	Helsingborg
 1236827851	826001-1609	Östra SK Jönköping	https://www.ostra.nu/	fotboll,idrottsförening,innebandy	Marknad
-1236828073	802491-8016	Malmfältens Draghundsklubb	http://www.malmfaltensdhk.se/	draghundsklubb,hundsport	
+1236828073	802491-8016	Malmfältens Draghundsklubb	https://www.malmfaltensdhk.se/	draghundsklubb,hundsport	
 1236828271	802438-1991	Raggarö Hembygdsförening	https://www.hembygd.se/raggaro	hembygdsförening	
 1236835227	802454-6056	Ninpo Dragons Stockholm / IF Bujinkan Bushin Dojo	https://ninpodragons.se/stockholm/	idrottsförening,kampsportsförening	
-1236837249	857204-7291	Göteborgs Symfonikers Vänner	http://gsvanner.se/	intresseförening,musik	
+1236837249	857204-7291	Göteborgs Symfonikers Vänner	https://gsvanner.se/	intresseförening,musik	
 1236837496	802423-9637	Stiftelsen Anna Lindhs Minnesfond	https://www.annalindhsminnesfond.se/	stiftelse	
 1236837678	802403-7502	Keren Kajemet Sverige	https://www.kkl.nu/	välgörenhet	
 1236839526	828001-1191	Bratteborgs Ryttarsällskap	https://bratteborgsrs.se/	hästsport,ryttarsällskap	
 1236840599	802495-0571	Avlidna Salakonstnärers Sällskap, ASS	https://salakonst.se/	konst,konstförening,konstsällskap	
 1236840896	829000-5688	Stiftelsen Skandinavisk Yoga och Meditationsskola	https://www.yoga.se/	meditation,skola,stiftelse,utbildning,yoga	
 1236847289	802477-9293	Solvatten Insamlingsstiftelse	https://solvatten.org/	hjälporganisation	
-1236853501	802423-0073	Föreningen Runnsvattnets Vänner	http://www.runnsvattnet.dinstudio.se/	förening	
+1236853501	802423-0073	Föreningen Runnsvattnets Vänner	https://www.facebook.com/groups/214850042059188/	förening	
 1236858187	873200-7243	Nyeds Hembygdsförening	https://www.hembygd.se/nyed	hembygdsförening	
 1236861330	802527-8527	Malmköpings Trädgårdsförening	https://www.facebook.com/groups/180614848768314	trädgårdsförening	
 1236861546	802527-8832	Vi på Limhamn ideell förening	https://www.limhamnskortet.se/	ideell förening,turistförening	
@@ -6291,9 +6313,9 @@ entry	orgNumber	orgName	web	categories	comment
 1236866834	839400-8810	GK Engelholmsgymnasterna	https://engelholmsgymnasterna.sportadmin.se/	gymnastikförening	
 1236870331	802490-1863	Makalösa Föräldrar Uppsala	https://makalosa.org/	föräldraskap	
 1236870703	202100-2932	ReAct Europe / Uppsala Universitet	https://www.reactgroup.org/contact/react-europe/	donation,intresseförening	
-1236871057	802465-1682	Svensk-Taiwanesiska Vänskapsföreningen	http://www.swetai.org/	hemlandsförening,vänskapsförening	
+1236871057	802465-1682	Svensk-Taiwanesiska Vänskapsföreningen	https://www.swetai.org/	hemlandsförening,vänskapsförening	
 1236873228	863500-3802	Skepplanda BTK	https://www.laget.se/Skepplanda/	fotbollsklubb,idrottsförening	Medlemsavgift
-1236874333	556478-4790	Hedins Orkester / Bengt Hedins Orkester Aktiebolag	http://www.hedins.info/	dansband,orkester	
+1236874333	556478-4790	Hedins Orkester / Bengt Hedins Orkester Aktiebolag	https://www.facebook.com/hedins.orkester/	dansband,orkester	
 1236876833	840613-XXXX	Advokatbyrån Jenny Persdotter	http://www.advokatjennypersdotter.se/	advokatbyrå,juridiska tjänster	
 1236879779	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Göteborg, Montessoriskolan Skäret
 1236879860	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Helsingborg, Dibber Fyrklövern
@@ -6301,19 +6323,20 @@ entry	orgNumber	orgName	web	categories	comment
 1236879993	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Stockholm, Björknässkolan
 1236880108	559387-8159	YogaJenny / Jenny Sjöberg Yoga AB	https://www.yogajenny.se/	yoga	
 1236880413	802539-2708	Malmö Helps	https://malmohelps.se/	donation,hjälporganisation,välgörenhet	
+1236881866	815600-8537	Svenska Hundklubben, Södertälje	https://svenskahundklubben.se/sodertalje/	hundklubb,hundsport	Köket
 1236882237	559303-8374	DD Content & Invest AB		sportanalys	
 1236882377	884400-0441	Dalfors Bygdegårdsförening	https://bygdegardarna.se/dalfors/	bygdegårdsförening	
 1236883268	556885-7063	Kojbyns naturcamping / Stina Torén AB	https://kojbyn.com/	camping	
-1236883839	556548-3194	Sara Danius Minnesfond	http://saradaniusstiftelse.se/	stiftelse	
-1236884522	802533-1920	Tierps Matcentral		humanitär hjälpverksamhet	
+1236883839	556548-3194	Sara Danius Minnesfond	https://saradaniusstiftelse.se/	stiftelse	
+1236884522	802533-1920	Tierps Matcentral	https://tierpsmatcentral.se/	humanitär hjälpverksamhet	
 1236886519	802521-7814	Kristinehamns Artilleriförening	https://kristinehamnsartilleriforening.se/	förening,försvarsorganisation,riksförbund	
 1236886741	830613-XXXX	Dotzsky Jiujitsu och Friskvård	https://dotzsky.se/	friskvård,kampsport	
 1236887053	802408-0643	FörsäkringsMedicinska Sällskapet, FMS	https://forsakringsmedicinskasallskapet.se/	intresseförening	
-1236887780	887500-3496	Lions Club Hudiksvall	http://lionshudiksvall.se/	lionsklubb	
+1236887780	887500-3496	Lions Club Hudiksvall	https://www.e-clubhouse.org/sites/hudiksvall/	lionsklubb	
 1236888416	802489-7525	Brottsofferjouren Storgöteborg	https://www.brottsofferjouren.se/	brottsofferjour	
 1236888747	802523-7796	Västerås Taekwondoklubb	https://www.vasterastaekwondo.se/	idrottsförening,kampsportsförening,taekwondo	
 1236895692	875001-8437	Hjärt-och Lungsjukas Lok För Örebro	https://www.hjart-lung.se/riksforbundet/orebrolan/lokalforeningar/orebro/	intresseförening,patientförening	Sverigelotter
-1236895858	812800-5942	Botkyrka Golfklubb	http://www.botkyrkagk.se/	golfklubb	
+1236895858	812800-5942	Botkyrka Golfklubb	https://www.botkyrkagk.se/	golfklubb	
 1236896708	802521-6279	Alltid Sedd	https://www.alltidsedd.se/	kvinnojour	
 1236896740	556509-7341	Däckgubben / Transport & Lager Eskilstuna Aktiebolag	https://www.dackgubben.net/	fordonsutrustning,försäljning,förvaring	
 1236898225	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Växjö, Högstorps skola
@@ -6334,14 +6357,14 @@ entry	orgNumber	orgName	web	categories	comment
 1236910459	868400-5880	Malma Hembygdsförening	https://www.malmabygden.se/	hembygdsförening	
 1236911804	802537-5059	Hassela Hundklubb	https://hasselahundklubb.n.nu/	hundklubb,hundsport	
 1236915177	556531-1700	Morrhåret Hundsport AB	https://morrharethundsport.se/	försäljning,hundsport,utrustning	
-1236915896	843000-1837	Helsingborgs Konstförening	http://helsingborgskonstforening.se/	konstförening,museum	
+1236915896	843000-1837	Helsingborgs Konstförening	https://helsingborgskonstforening.se/	konstförening,museum	
 1236916738	556560-9509	Lötsjö Trafikskola	https://lotsjotrafikskola.se/	trafikskola	
 1236917017	802428-0953	Prästakullens Koloniförening	https://prastakullen.com/	förening,koloniförening,trädgårdsförening	
 1236917033	818000-7570	Eskilstunaortens Jägarklubb, EOJK	https://www.svenskalag.se/eojk	jakt	
 1236917090	802450-9922	Örsås Byalag	https://www.orsas.se/byalaget/	byalag	
 1236917546	252002-2233	Barkarö - Dingtuna - Rytterne Församling	https://www.svenskakyrkan.se/vasteras/kontakta-oss-rytterne	religion	
 1236917892	897300-3109	Kiruna Brukshundklubb	https://kirunabhk.wordpress.com/	brukshundsklubb,hundklubb	
-1236918064	252000-6293	Almundsryds Församling		religion	Kollekt
+1236918064	252000-6293	Almundsryds Församling	https://www.svenskakyrkan.se/tingsryd/almundsryd	religion	Kollekt
 1236918437	802505-5495	Piteå IF Orienteringsklubb - Orientering	https://www.piteaifok.se/	idrottsförening,orientering	Träning
 1236919179	826000-5155	Korskyrkans Församling	https://www.korskyrkan-jkpg.se/	religion	
 1236919278	559293-5042	Borås Kristna Center / AB Borås Kristna Skola	https://bkc.nu/	religion	
@@ -6372,6 +6395,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236952436	872800-4634	Västanå Musik & Teater	https://vastanateater.se/	musik,teater	
 1236952840	846501-9662	Bokhistoriska Sällskapet	https://bokhistoriska.se/	intresseförening,kulturhistoria	
 1236954291	802459-5095	Örsjö Bygdegårdsförening	https://www.orsjobygdegard.cybersite.nu/	bygdegårdsförening	
+1236954317	885000-8247	Gästriklands Kennelklubb, GÄKK	https://www.skk.se/sv/GAKK/	hundsport,kennelklubb	Juniorhandling
 1236954598	833200-4350	Vimmerby brukshundklubb	https://www.vimmerbybrukshundklubb.se/	brukshundsklubb,hundsport	
 1236955199	802413-6619	Blue Front Support	https://bfs.osket.se/bfs/	supporterklubb	
 1236955496	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/Templet/	religion	Templet
@@ -6386,6 +6410,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236968424	751029-XXXX	The Light of My Soul / Ulrika Knutsdotter	https://www.thelightofmysoul.se/	yoga	
 1236972020	818000-1029	Eskilstuna GUIF IF	https://www.guif.nu/	handbollsklubb,idrottsförening	Rosabandetkampanjen
 1236972186	661008-XXXX	Erika Givell	http://www.erikagivell.se/	atelje,galleri,konst,konstmåleri	
+1236972434	559362-3324	Varbergs Tidning	https://www.varbergstidning.se/	lokalmedia,lokaltidning	
 1236973663	969778-6482	Mother Mercy	https://www.facebook.com/MotherMersy/	orkester	
 1236985543	802521-7582	Lymf Sverige	https://www.lymfsverige.se/	patientförening	
 1236986632	802538-4234	Södra Älvsborgs & Hallands Ardennerklubb	https://www.ardennerklubben.se/	hästavel,hästklubb,hästuppfödning	
