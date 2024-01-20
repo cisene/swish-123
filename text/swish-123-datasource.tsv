@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-01-20-rev-173729
+# Date: 2024-01-20-rev-173922
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -485,7 +485,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230451765	802505-7657	Amigos Mios	https://www.amigosmios.se/	djurskydd,hundhem	
 1230453225	816000-0348	Orkesta Hembygdsförening	http://www.orkesta.nu/	hembygdsförening	
 1230453928	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Stockholm, Igelsta skola
-1230456194	889200-5870	Timrå IK U16	https://www.laget.se/TIK08/	hockeyklubb,idrottsförening	
+1230456194	889200-5870	Timrå IK U16	https://www.laget.se/TIK08/	idrottsförening,ishockeyklubb	
 1230459222	886000-0200	Holmsvedens AIK	https://www.holmsveden.nu/holmsvedens-aik/	idrottsförening	
 1230459610	817601-3293	Föreningen Verkstan RSMH Valegården	https://www.verkstanrsmh.com/	intresseförening	
 1230460121	833200-6207	Emådalens Naturskyddsförening	https://emadalen.naturskyddsforeningen.se/	intresseförening,naturskydd	
@@ -632,7 +632,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230619940	802543-1852	Mönsterås Fotoklubb	http://monsteras-fotoklubb.se/	fotoklubb,förening	
 1230621441	802534-2307	Skillingeudds Intresseförening / Västra Skilling Fritidshusförening	https://skillingeudd.se/	intresseförening	
 1230622019	855100-5401	Backatorp IF	https://www.laget.se/BackatorpIF/	idrottsförening	
-1230622316	826000-7086	HC Dalen	https://www.hockeyettan.se/hc-dalen/	hockeyklubb	Lotteri
+1230622316	826000-7086	HC Dalen	https://www.hockeyettan.se/hc-dalen/	idrottsförening,ishockeyklubb	Lotteri
 1230624320	882601-2703	Dalarnas Ornitologiska Förening	https://dalafaglar.se/	förening,ornitologi	
 1230624403	846006-5637	Parkinsonförbundet - Skåne	http://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Sk%E5ne.html	förening,intresseförening	
 1230624999	559165-5534	Nötbackens TerapiDjurgård AB	https://nötbacken.se/	events,kurser,meditation	
@@ -2958,7 +2958,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232945871	802439-1487	Värmlands Konstnärsförbund	https://www.varmlandskonstnarsforbund.se/	konstnärsförbund	
 1232946697	559142-8916	Nolberga Veterinärpraktik - Leg.vet. Annelie Hellström / Nolberga Veterinärpraktik AB	https://www.nolbergavet.se/	veterinär	
 1232951416	802529-6792	Ventlinge Hembygdsförening	https://www.hembygd.se/ventlinge	hembygdsförening	
-1232951838	829502-6788	Växjö Lakers Hockeyklubb	https://www.vaxjolakers.se/	hockeyklubb,idrottsförening	
+1232951838	829502-6788	Växjö Lakers Hockeyklubb	https://www.vaxjolakers.se/	idrottsförening,ishockeyklubb	
 1232952224	818000-4742	Eskilstuna City FK	https://www.laget.se/EskilstunaCityFK	fotbollsklubb,idrottsförening	P13 Vit
 1232954444	864501-3361	Äspereds Hembygdsförening	https://www.hembygd.se/aspered	hembygdsförening	
 1232956316	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Jönköping, Tabergsskolan
@@ -3450,7 +3450,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233504693	882000-8707	Ingvallsbenning Turbo hembygdsförening	https://ingturhbf.se/	hembygdsförening	
 1233505278	802422-8424	Föreningen Femörefortet	https://femorefortet.se/	museum	
 1233505310	802446-9457	Lidköpingsbygdens Släktforskarförening	https://lidkopingsanor.se/	genealogi,släktforskning	
-1233505591	877100-5991	Hällefors IK	https://www.laget.se/halleforsik_alag/	hockeyklubb,idrottsförening	
+1233505591	877100-5991	Hällefors IK	https://www.laget.se/halleforsik_alag/	idrottsförening,ishockeyklubb	
 1233505799	857204-4033	Utby NSF Scoutkår	https://www.utbyscout.se/	scoutkår	
 1233506243	846001-3355	Malmö SFK - Flygsport	https://www.msfk.nu/	flygklubb,flygsport	
 1233508769	810405-XXXX	Ullaredsresor - Gothenburg Office / Håkan Kindström Arnoldson	https://ullaredsresor.com/	researrangör	
@@ -3597,7 +3597,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233645272	802478-3865	Insamlingsstiftelsen Bygdens Fond	https://bygdensfond.se/	intresseförening,stiftelse	
 1233646155	889201-6984	Njurunda Hembygdsförening	https://www.hembygd.se/njurunda	hembygdsförening	
 1233646262	556982-6711	HepCat AB	https://www.hepcat.se/	försäljning,kläder,profilkläder	
-1233646445	827500-4961	Boro Vetlanda HC	https://www.borovhc.se/	hockeyklubb,idrottsförening	
+1233646445	827500-4961	Boro Vetlanda HC	https://www.borovhc.se/	idrottsförening,ishockeyklubb	
 1233647039	769636-9524	Kjula Dragway Ekonomisk förening	https://www.kjuladragway.com/	bilsport	
 1233648649	802517-9063	Wake me up	https://www.wakemeup.se/	ungdomsverksamhet	
 1233648714	802511-3047	Stöttepelaren - Stödförening för Ensamkommande Barn och Ungdomar	https://stottepelaren.se/	intresseförening,juridiska tjänster	
@@ -3697,7 +3697,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233791183	814400-1818	Sionförsamlingen i Hallstavik	https://pingst.org/	religion	
 1233791712	829501-1475	Lessebo Scoutkår	https://lessebo.scout.se/	scoutkår	
 1233791936	818000-1029	Eskilstuna GUIF IF	https://www.guif.nu/	handbollsklubb,idrottsförening	Entré
-1233794237	835001-2327	Karlskrona Hockeyklubb	https://www.khk.se/	hockeyklubb	
+1233794237	835001-2327	Karlskrona Hockeyklubb	https://www.khk.se/	idrottsförening,ishockeyklubb	
 1233794930	893201-9782	Åre/Duved Scoutkår	https://areduved.scout.se/	scoutkår	
 1233795242	802018-2872	Acem-Sverige	https://acem.se/	meditation	
 1233795358	846001-7166	Malmö Sportdykarklubb	https://www.msdk.se/	dykklubb,sportdykning	
@@ -3843,7 +3843,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233940947	878001-4653	Västerås SK Fotbollsklubb	https://www.vskfotboll.nu/	fotbollsklubb	
 1233942562	828001-0250	Bredaryds Bygdegårdsförening	https://bygdegarden.info/	bygdegårdsförening	
 1233942612	857200-8830	Knippla IK	https://www.knippla.se/knippla-ik	bouleklubb,idrottsförening,idrottsklubb,simklubb,simkunnighet,simskola	
-1233942935	826000-7086	HC Dalen	https://www.hockeyettan.se/hc-dalen/	hockeyklubb	
+1233942935	826000-7086	HC Dalen	https://www.hockeyettan.se/hc-dalen/	idrottsförening,ishockeyklubb	
 1233943230	802440-4371	Sisters International	https://sisters.nu/	intresseförening	
 1233943271	802495-3815	Hello World! Ideell förening	https://helloworld.se/	barnverksamhet,ideell förening,ungdomsverksamhet,utbildning	
 1233943867	520304-XXXX	Prana Friskvård / Frank Granström	http://www.pranafriskvard.se/	friskvård,försäljning,yoga	
@@ -4873,7 +4873,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235172200	814400-5231	Rånäs Orienteringsklubb	https://www.ranasok.se/	idrottsförening,orienteringsklubb	
 1235172457	845003-3215	Makalösa Föräldrar Lund	https://makalosa.org/	föräldraskap	
 1235173851	802526-2604	Sweden UNRWA Reform	https://swedenunrwareform.org/	intresseförening	
-1235174172	802407-0206	Skarpnäcks AIK	https://skarpan.com/	hockeyklubb,idrottsförening	
+1235174172	802407-0206	Skarpnäcks AIK	https://skarpan.com/	idrottsförening,ishockeyklubb	
 1235175492	825003-7903	Friluftsgården Getsjötorp	https://www.getsjotorp.se/	camping,friluftsliv,logi	
 1235175906	802416-6582	Grönby Byalag	https://gronby.se/	byalag,förening	
 1235175955	846003-5291	Rotary Malmö Södra	https://malmo-sodra.rotary2390.se/	rotaryklubb	
@@ -5748,7 +5748,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236158620	879500-3014	Sala Brukshundklubb	https://www.salabrukshundklubb.hundpoolen.nu/	brukshundsklubb,hundsport	
 1236158893	802426-7042	Stiftelsen Berättarministeriet	http://www.berattarministeriet.se/	stiftelse	
 1236158935	879500-4004	Riksorganisationen UFO-Sverige	https://www.ufo.se/	intresseorganisation,ufo	
-1236159982	877100-9985	Nora HC	https://www.laget.se/NoraHockey/	hockeyklubb,idrottsförening	
+1236159982	877100-9985	Nora HC	https://www.laget.se/NoraHockey/	idrottsförening,ishockeyklubb	
 1236160667	802496-0927	Rotary Svedala	https://svedala.rotary2390.se/	rotaryklubb	
 1236160675	849400-4537	Norra Hallands Konstförening	https://nhkf.se/	konstförening	
 1236161277	823902-0020	Liljeholmens folkhögskola	https://liljeholmen.nu/	folkhögskola,utbildning	

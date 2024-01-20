@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-20-rev-173729",
+    "date": "2024-01-20-rev-173922",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4746,8 +4746,8 @@
       "orgNumber": "889200-5870",
       "orgName": "Timr\u00e5 IK U16",
       "categories": [
-        "hockeyklubb",
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.laget.se/TIK08/"
     },
@@ -6151,7 +6151,8 @@
       "orgName": "HC Dalen",
       "comment": "Lotteri",
       "categories": [
-        "hockeyklubb"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.hockeyettan.se/hc-dalen/"
     },
@@ -29258,8 +29259,8 @@
       "orgNumber": "829502-6788",
       "orgName": "V\u00e4xj\u00f6 Lakers Hockeyklubb",
       "categories": [
-        "hockeyklubb",
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.vaxjolakers.se/"
     },
@@ -34142,8 +34143,8 @@
       "orgNumber": "877100-5991",
       "orgName": "H\u00e4llefors IK",
       "categories": [
-        "hockeyklubb",
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.laget.se/halleforsik_alag/"
     },
@@ -35633,8 +35634,8 @@
       "orgNumber": "827500-4961",
       "orgName": "Boro Vetlanda HC",
       "categories": [
-        "hockeyklubb",
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.borovhc.se/"
     },
@@ -36633,7 +36634,8 @@
       "orgNumber": "835001-2327",
       "orgName": "Karlskrona Hockeyklubb",
       "categories": [
-        "hockeyklubb"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.khk.se/"
     },
@@ -38072,7 +38074,8 @@
       "orgNumber": "826000-7086",
       "orgName": "HC Dalen",
       "categories": [
-        "hockeyklubb"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.hockeyettan.se/hc-dalen/"
     },
@@ -48305,8 +48308,8 @@
       "orgNumber": "802407-0206",
       "orgName": "Skarpn\u00e4cks AIK",
       "categories": [
-        "hockeyklubb",
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://skarpan.com/"
     },
@@ -57022,8 +57025,8 @@
       "orgNumber": "877100-9985",
       "orgName": "Nora HC",
       "categories": [
-        "hockeyklubb",
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.laget.se/NoraHockey/"
     },
