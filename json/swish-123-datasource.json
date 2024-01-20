@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-20-rev-152336",
+    "date": "2024-01-20-rev-153322",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1774,7 +1774,7 @@
       "orgNumber": "857200-0860",
       "orgName": "GAIS, G\u00f6teborgs Atlet- & Idrottss\u00e4llskap",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening",
         "sport"
       ],
@@ -4293,7 +4293,7 @@
       "orgNumber": "863500-7720",
       "orgName": "Lerums Luftgev\u00e4rsskyttef\u00f6rening",
       "categories": [
-        "skytte",
+        "skytteklubb",
         "sportskytte"
       ],
       "web": "https://lerumsungdomsskytte.com/"
@@ -4687,7 +4687,7 @@
       "orgNumber": "802430-7962",
       "orgName": "Camp Sweden TIFO",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "supporterklubb"
       ],
       "web": "http://campsweden.se/"
@@ -6898,7 +6898,7 @@
       "orgName": "Svenska Skyttesportf\u00f6rbundet",
       "categories": [
         "f\u00f6rbund",
-        "skytte",
+        "skytteklubb",
         "sportskytte"
       ],
       "web": "https://www.skyttesport.se/"
@@ -8547,7 +8547,7 @@
       "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
       "comment": "Caf\u00e9",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening",
         "innebandy"
       ],
@@ -9695,7 +9695,7 @@
       "orgNumber": "835000-1122",
       "orgName": "Ka 2 SF - Skyttesport",
       "categories": [
-        "skytte",
+        "skytteklubb",
         "sportskytte"
       ],
       "web": "https://www.ka2skf.se/"
@@ -11712,7 +11712,7 @@
       "comment": "Fika",
       "categories": [
         "pistolskytteklubb",
-        "skytte"
+        "skytteklubb"
       ],
       "web": "https://www.fokboras.se/"
     },
@@ -12655,7 +12655,7 @@
       "orgNumber": "802414-9315",
       "orgName": "Malm\u00f6-Lund Fotbolldomarklubb, MLFDK",
       "categories": [
-        "fotboll"
+        "fotbollsklubb"
       ],
       "web": "https://www.mlfdk.se/"
     },
@@ -15104,7 +15104,7 @@
       "orgName": "\u00d6lmstad IS",
       "categories": [
         "bordtennis",
-        "fotboll",
+        "fotbollsklubb",
         "gym",
         "gymnastik",
         "idrottsf\u00f6rening",
@@ -16786,7 +16786,7 @@
       "orgNumber": "817000-1013",
       "orgName": "H\u00e5bro IF - Fotboll",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.habroif.se/"
@@ -19424,7 +19424,7 @@
       "orgNumber": "802430-7962",
       "orgName": "Camp Sweden TIFO",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "supporterklubb"
       ],
       "web": "http://campsweden.se/"
@@ -20069,7 +20069,7 @@
       "orgNumber": "837000-2928",
       "orgName": "Vinsl\u00f6vs IF",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening"
       ],
       "web": "https://vinslovsif.sportadmin.se/"
@@ -22967,7 +22967,7 @@
       "comment": "Pistol",
       "categories": [
         "pistolskytteklubb",
-        "skytte"
+        "skytteklubb"
       ],
       "web": "https://www.fokboras.se/"
     },
@@ -26949,7 +26949,7 @@
       "orgNumber": "812400-4774",
       "orgName": "Torvalla IP / IFK Haninge",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "f\u00f6rening",
         "idrottsf\u00f6rening"
       ],
@@ -32096,7 +32096,6 @@
       "orgNumber": "846002-5276",
       "orgName": "Borgeby Fotbollsklubb",
       "categories": [
-        "fotboll",
         "fotbollsklubb",
         "idrottsf\u00f6rening"
       ],
@@ -32542,7 +32541,7 @@
       "orgName": "Eskilstuna Pistolskytteklubb",
       "categories": [
         "pistolskytteklubb",
-        "skytte"
+        "skytteklubb"
       ],
       "web": "https://eskilstuna-epk.com/"
     },
@@ -33508,7 +33507,6 @@
       "orgName": "Norrk\u00f6pings Jaktskytteklubb",
       "categories": [
         "jakt",
-        "skytte",
         "skytteklubb"
       ],
       "web": "https://norrkopingjsk.se/"
@@ -36253,7 +36251,7 @@
       "orgNumber": "879500-2339",
       "orgName": "Heby SkF - Skyttesport",
       "categories": [
-        "skytte",
+        "skytteklubb",
         "sportskytte"
       ],
       "web": "https://idrottonline.se/HebySkF-Skyttesport/"
@@ -38287,7 +38285,7 @@
       "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
       "comment": "Ungdom",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening",
         "innebandy"
       ],
@@ -38877,7 +38875,7 @@
       "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
       "comment": "Dam",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening",
         "innebandy"
       ],
@@ -39193,7 +39191,7 @@
       "orgName": "F\u00f6reningen Backamo Skjutbana",
       "categories": [
         "f\u00f6rening",
-        "skytte",
+        "skytteklubb",
         "sportskytte"
       ],
       "web": "http://www.backamoskjutbana.n.nu/"
@@ -39660,7 +39658,7 @@
       "orgName": "Triangelns IK",
       "comment": "U17 Damjuniorer",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/TIKF0607/"
@@ -40467,7 +40465,7 @@
       "comment": "Viltm\u00e5l",
       "categories": [
         "pistolskytteklubb",
-        "skytte"
+        "skytteklubb"
       ],
       "web": "https://www.fokboras.se/"
     },
@@ -40754,7 +40752,7 @@
       "orgNumber": "865500-5703",
       "orgName": "Gr\u00f6nah\u00f6gs IK",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening",
         "skidor"
       ],
@@ -46425,7 +46423,7 @@
       "orgNumber": "863000-5299",
       "orgName": "G\u00f6ta Bollklubb",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/gotabk"
@@ -50942,7 +50940,7 @@
       "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
       "comment": "Herr",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening",
         "innebandy"
       ],
@@ -51025,7 +51023,7 @@
       "orgName": "Lule\u00e5 HIF - Parasport",
       "categories": [
         "boccia",
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening",
         "innebandy",
         "ishockey",
@@ -57561,7 +57559,7 @@
       "comment": "Trap",
       "categories": [
         "pistolskytteklubb",
-        "skytte"
+        "skytteklubb"
       ],
       "web": "https://www.fokboras.se/"
     },
@@ -61277,7 +61275,7 @@
       "comment": "Ammo",
       "categories": [
         "pistolskytteklubb",
-        "skytte"
+        "skytteklubb"
       ],
       "web": "https://www.fokboras.se/"
     },
@@ -62786,7 +62784,7 @@
       "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
       "comment": "Marknad",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening",
         "innebandy"
       ],
@@ -63737,7 +63735,7 @@
       "orgNumber": "839400-3043",
       "orgName": "F\u00f6rsl\u00f6vs IF",
       "categories": [
-        "fotboll",
+        "fotbollsklubb",
         "idrottsf\u00f6rening",
         "innebandy"
       ],
