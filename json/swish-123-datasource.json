@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-20-rev-153322",
+    "date": "2024-01-20-rev-153644",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8549,7 +8549,7 @@
       "categories": [
         "fotbollsklubb",
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.ostra.nu/"
     },
@@ -8797,7 +8797,6 @@
       "orgName": "FBC Bolln\u00e4s",
       "comment": "Rabatth\u00e4ften",
       "categories": [
-        "innebandy",
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/FBCBOLLNAS/"
@@ -10280,7 +10279,7 @@
       "comment": "Deltagaravgift innebandy",
       "categories": [
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.laget.se/CIF/"
     },
@@ -15092,7 +15091,7 @@
       "categories": [
         "cykelbana",
         "idrottsf\u00f6rening",
-        "innebandy",
+        "innebandyklubb",
         "l\u00e4ngdskid\u00e5kning",
         "tennis",
         "volleyboll"
@@ -15108,7 +15107,7 @@
         "gym",
         "gymnastik",
         "idrottsf\u00f6rening",
-        "innebandy",
+        "innebandyklubb",
         "skidor"
       ],
       "web": "https://www.olmstad-is.se/"
@@ -19424,7 +19423,6 @@
       "orgNumber": "802430-7962",
       "orgName": "Camp Sweden TIFO",
       "categories": [
-        "fotbollsklubb",
         "supporterklubb"
       ],
       "web": "http://campsweden.se/"
@@ -19560,7 +19558,7 @@
       "categories": [
         "f\u00f6rbund",
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://innebandy.se/"
     },
@@ -26056,7 +26054,6 @@
       "orgName": "FBC Bolln\u00e4s",
       "comment": "Vinterlotteriet",
       "categories": [
-        "innebandy",
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/FBCBOLLNAS/"
@@ -33807,7 +33804,7 @@
       "orgName": "Malm\u00f6 Floorball Club",
       "categories": [
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.malmofbc.se/"
     },
@@ -35507,7 +35504,7 @@
       "comment": "Fika",
       "categories": [
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.laget.se/CIF/"
     },
@@ -38287,7 +38284,7 @@
       "categories": [
         "fotbollsklubb",
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.ostra.nu/"
     },
@@ -38877,7 +38874,7 @@
       "categories": [
         "fotbollsklubb",
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.ostra.nu/"
     },
@@ -43711,7 +43708,7 @@
       "orgName": "Sm\u00e5lands Innebandyf\u00f6rbund",
       "categories": [
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.innebandy.se/smaland/"
     },
@@ -43785,7 +43782,6 @@
       "orgName": "FBC Bolln\u00e4s",
       "comment": "Entr\u00e9, match och \u00f6vrigt",
       "categories": [
-        "innebandy",
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/FBCBOLLNAS/"
@@ -50942,7 +50938,7 @@
       "categories": [
         "fotbollsklubb",
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.ostra.nu/"
     },
@@ -51025,7 +51021,7 @@
         "boccia",
         "fotbollsklubb",
         "idrottsf\u00f6rening",
-        "innebandy",
+        "innebandyklubb",
         "ishockey",
         "parasport"
       ],
@@ -51381,7 +51377,7 @@
       "comment": "CIF-tipset",
       "categories": [
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.laget.se/CIF/"
     },
@@ -53652,7 +53648,7 @@
       "comment": "Klubbline",
       "categories": [
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.laget.se/CIF/"
     },
@@ -56251,7 +56247,7 @@
       "orgName": "Ingelstad IBK",
       "categories": [
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.laget.se/Ingelstad/"
     },
@@ -62786,7 +62782,7 @@
       "categories": [
         "fotbollsklubb",
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.ostra.nu/"
     },
@@ -63737,7 +63733,7 @@
       "categories": [
         "fotbollsklubb",
         "idrottsf\u00f6rening",
-        "innebandy"
+        "innebandyklubb"
       ],
       "web": "https://www.fif.se/"
     },
