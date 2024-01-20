@@ -1043,8 +1043,8 @@ entries:
   orgNumber: 897000-6733
   comment: null
   categories:
-  - hockeyklubb
   - idrottsförening
+  - ishockeyklubb
   web: https://www.luleahockey.se/
 
 - entry: 1230098152
@@ -1801,9 +1801,7 @@ entries:
   orgNumber: 817605-3166
   comment: null
   categories:
-  - hockeyklubb
   - idrottsförening
-  - ishockey
   - ishockeyklubb
   web: https://www.vik.se/
 
@@ -16795,6 +16793,7 @@ entries:
   comment: Ishockey
   categories:
   - idrottsförening
+  - ishockeyklubb
   web: https://www.rimboif.com/
 
 - entry: 1231816495
@@ -22202,7 +22201,6 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - ishockey
   - ishockeyklubb
   web: https://www.laget.se/VIKHockey08/
 
@@ -29443,7 +29441,7 @@ entries:
   orgNumber: 835600-2082
   comment: null
   categories:
-  - förening
+  - idrottsförening
   - ishockeyklubb
   web: https://www.hockeyettan.se/krifhockey/
 
@@ -31134,8 +31132,8 @@ entries:
   orgNumber: 559256-1103
   comment: null
   categories:
-  - hockey
-  - sport
+  - idrottsförening
+  - ishockeyklubb
   web: https://www.bodenhockey.se/
 
 - entry: 1233576493
@@ -35035,7 +35033,6 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - ishockey
   - ishockeyklubb
   web: https://www.laget.se/VIKHockey09/
 
@@ -35979,7 +35976,7 @@ entries:
   comment: Ungdom
   categories:
   - idrottsförening
-  - ishockey
+  - ishockeyklubb
   web: https://www.hammarbyhockey.se/
 
 - entry: 1234233334
@@ -36132,7 +36129,8 @@ entries:
   orgNumber: 814800-7399
   comment: null
   categories:
-  - hockey
+  - idrottsförening
+  - ishockeyklubb
   web: https://sollentunahockey.myclub.se/
 
 - entry: 1234262945
@@ -37529,7 +37527,7 @@ entries:
   comment: Junior
   categories:
   - idrottsförening
-  - ishockey
+  - ishockeyklubb
   web: https://www.hammarbyhockey.se/
 
 - entry: 1234433959
@@ -42611,7 +42609,8 @@ entries:
   orgNumber: 894701-1519
   comment: null
   categories:
-  - hockeyklubb
+  - idrottsförening
+  - ishockeyklubb
   web: https://www.skellefteaaik.se/
 
 - entry: 1235139365
@@ -44308,7 +44307,7 @@ entries:
   comment: Damlag
   categories:
   - idrottsförening
-  - ishockey
+  - ishockeyklubb
   web: https://www.hammarbyhockey.se/
 
 - entry: 1235334818
@@ -45434,7 +45433,7 @@ entries:
   - fotbollsklubb
   - idrottsförening
   - innebandyklubb
-  - ishockey
+  - ishockeyklubb
   - parasport
   web: https://www.luleahandikappidrott.se/
 
@@ -50592,7 +50591,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - ishockey
+  - ishockeyklubb
   web: https://www.hammarbyhockey.se/
 
 - entry: 1236142855
@@ -53708,7 +53707,7 @@ entries:
   comment: Lotterier
   categories:
   - idrottsförening
-  - ishockey
+  - ishockeyklubb
   web: https://www.hammarbyhockey.se/
 
 - entry: 1236520399

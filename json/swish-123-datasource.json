@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-20-rev-153644",
+    "date": "2024-01-20-rev-173729",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1147,8 +1147,8 @@
       "orgNumber": "897000-6733",
       "orgName": "Lule\u00e5 Hockey",
       "categories": [
-        "hockeyklubb",
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.luleahockey.se/"
     },
@@ -2002,9 +2002,7 @@
       "orgNumber": "817605-3166",
       "orgName": "VIK V\u00e4ster\u00e5s Hockeyklubb",
       "categories": [
-        "hockeyklubb",
         "idrottsf\u00f6rening",
-        "ishockey",
         "ishockeyklubb"
       ],
       "web": "https://www.vik.se/"
@@ -18846,7 +18844,8 @@
       "orgName": "Rimbo IF",
       "comment": "Ishockey",
       "categories": [
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.rimboif.com/"
     },
@@ -24927,7 +24926,6 @@
       "orgName": "V\u00e4ster\u00e5s IK Ungdom Team 08 (U14)",
       "categories": [
         "idrottsf\u00f6rening",
-        "ishockey",
         "ishockeyklubb"
       ],
       "web": "https://www.laget.se/VIKHockey08/"
@@ -33012,7 +33010,7 @@
       "orgNumber": "835600-2082",
       "orgName": "KRIF Hockey",
       "categories": [
-        "f\u00f6rening",
+        "idrottsf\u00f6rening",
         "ishockeyklubb"
       ],
       "web": "https://www.hockeyettan.se/krifhockey/"
@@ -34928,8 +34926,8 @@
       "orgNumber": "559256-1103",
       "orgName": "Boden Hockey AB",
       "categories": [
-        "hockey",
-        "sport"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.bodenhockey.se/"
     },
@@ -39316,7 +39314,6 @@
       "orgName": "V\u00e4ster\u00e5s IK Ungdom Team 09 (U13)",
       "categories": [
         "idrottsf\u00f6rening",
-        "ishockey",
         "ishockeyklubb"
       ],
       "web": "https://www.laget.se/VIKHockey09/"
@@ -40383,7 +40380,7 @@
       "comment": "Ungdom",
       "categories": [
         "idrottsf\u00f6rening",
-        "ishockey"
+        "ishockeyklubb"
       ],
       "web": "https://www.hammarbyhockey.se/"
     },
@@ -40548,7 +40545,8 @@
       "orgNumber": "814800-7399",
       "orgName": "Sollentuna Hockey Club",
       "categories": [
-        "hockey"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://sollentunahockey.myclub.se/"
     },
@@ -42104,7 +42102,7 @@
       "comment": "Junior",
       "categories": [
         "idrottsf\u00f6rening",
-        "ishockey"
+        "ishockeyklubb"
       ],
       "web": "https://www.hammarbyhockey.se/"
     },
@@ -47844,7 +47842,8 @@
       "orgNumber": "894701-1519",
       "orgName": "Skellefte\u00e5 AIK Hockey",
       "categories": [
-        "hockeyklubb"
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
       ],
       "web": "https://www.skellefteaaik.se/"
     },
@@ -49762,7 +49761,7 @@
       "comment": "Damlag",
       "categories": [
         "idrottsf\u00f6rening",
-        "ishockey"
+        "ishockeyklubb"
       ],
       "web": "https://www.hammarbyhockey.se/"
     },
@@ -51022,7 +51021,7 @@
         "fotbollsklubb",
         "idrottsf\u00f6rening",
         "innebandyklubb",
-        "ishockey",
+        "ishockeyklubb",
         "parasport"
       ],
       "web": "https://www.luleahandikappidrott.se/"
@@ -56778,7 +56777,7 @@
       "orgName": "Hammarby IF Ishockeyf\u00f6rening",
       "categories": [
         "idrottsf\u00f6rening",
-        "ishockey"
+        "ishockeyklubb"
       ],
       "web": "https://www.hammarbyhockey.se/"
     },
@@ -60266,7 +60265,7 @@
       "comment": "Lotterier",
       "categories": [
         "idrottsf\u00f6rening",
-        "ishockey"
+        "ishockeyklubb"
       ],
       "web": "https://www.hammarbyhockey.se/"
     },
