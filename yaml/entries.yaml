@@ -1047,6 +1047,14 @@ entries:
   - ishockeyklubb
   web: https://www.luleahockey.se/
 
+- entry: 1230097162
+  orgName: SPF Seniorerna Karlaplan
+  orgNumber: 802407-2871
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/karlaplan/
+
 - entry: 1230098152
   orgName: Järna Akademi
   orgNumber: 556782-9741
@@ -1237,6 +1245,14 @@ entries:
   - fornminnesförening
   - hembygdsförening
   web: https://www.hembygd.se/fornminnessallskapet-pa-malaroarna
+
+- entry: 1230134924
+  orgName: PRO Enköping
+  orgNumber: 817000-5980
+  comment: Resor
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-enkoping/foreningar/enkoping.html
 
 - entry: 1230135434
   orgName: Västerås BK30 / Västerås Bollklubb av ÅR 1930
@@ -1439,6 +1455,14 @@ entries:
   categories:
   - religion
   web: https://olsangsgarden.se/
+
+- entry: 1230182030
+  orgName: PRO Åshammar
+  orgNumber: 885501-0966
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-sandviken/foreningar/ashammar.html
 
 - entry: 1230182063
   orgName: Bälinge Ryttarförening
@@ -5669,7 +5693,7 @@ entries:
   comment: null
   categories:
   - pensionärsklubb
-  web: http://www.pro.se/liljeholmen
+  web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-stockholm/foreningar/liljeholmen.html
 
 - entry: 1230633370
   orgName: Kulturens Bildningsverksamhet
@@ -7056,6 +7080,14 @@ entries:
   - galleri
   - konstgalleri
   web: https://galleri.lozafoundation.org/
+
+- entry: 1230773507
+  orgName: PRO Katarina
+  orgNumber: 802015-8674
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-stockholm/foreningar/katarina.html
 
 - entry: 1230774257
   orgName: Förr och Nu
@@ -10346,6 +10378,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vallentuna
 
+- entry: 1231143726
+  orgName: PRO Domsjö
+  orgNumber: 889601-4605
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-angermanland/samorganisationer/samorganisation-ornskoldsviks/foreningar/domsjo.html
+
 - entry: 1231143841
   orgName: Rotary Uddevalla-Byfjorden
   orgNumber: 858500-8231
@@ -11737,6 +11777,14 @@ entries:
   - idrottsförening
   - volleyboll
   web: https://www.majornavbk.se/
+
+- entry: 1231277912
+  orgName: PRO Handen
+  orgNumber: 812401-1787
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-haninge/foreningar/handen.html
 
 - entry: 1231278639
   orgName: Hyssna Bygdegård
@@ -13236,6 +13284,14 @@ entries:
   - golfklubb
   web: https://www.atvidabergsgk.se/
 
+- entry: 1231460401
+  orgName: PRO Lerum
+  orgNumber: 802450-9708
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-lerum/foreningar/lerum.html
+
 - entry: 1231460435
   orgName: Groblad Garden
   orgNumber: 559099-7309
@@ -14317,6 +14373,14 @@ entries:
   - transjour
   web: https://uppsalattj.se/
 
+- entry: 1231553346
+  orgName: PRO Hörnefors
+  orgNumber: 894003-1324
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-umea/foreningar/hornefors.html
+
 - entry: 1231553866
   orgName: Vindelns Ridklubb
   orgNumber: 894001-4379
@@ -15274,6 +15338,15 @@ entries:
   categories:
   - religion
   web: https://betlehemskyrkan.com/
+
+- entry: 1231644673
+  orgName: Sörbygdens Buss AB
+  orgNumber: 559388-0643
+  comment: null
+  categories:
+  - busstrafik
+  - charterbuss
+  web: https://sorbygdensbuss.se/
 
 - entry: 1231650035
   orgName: Älghults Sockens Hembygdsförening
@@ -17771,6 +17844,14 @@ entries:
   - idrottsförening
   web: https://www.ifkanderstorp.com/
 
+- entry: 1231957711
+  orgName: PRO Rockneby-Läckeby
+  orgNumber: 802422-6527
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-kalmar/foreningar/rockneby-lackeby.html
+
 - entry: 1231959758
   orgName: Hästveda Hembygdsförening
   orgNumber: 837000-3595
@@ -18930,6 +19011,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1232101681
+  orgName: PRO Mantorp
+  orgNumber: 823000-8784
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-ostergotland/samorganisationer/samorganisation-mjolby/foreningar/mantorp.html
+
 - entry: 1232103885
   orgName: Forsby Idrottsplats / Forsby Idrottsförening
   orgNumber: 837600-2658
@@ -19507,6 +19596,14 @@ entries:
   - utbildning
   - vuxenstöd
   web: https://www.storasystrarna.se/
+
+- entry: 1232165090
+  orgName: PRO Lindsdal
+  orgNumber: 832401-7378
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-kalmar/foreningar/lindsdal.html
 
 - entry: 1232166585
   orgName: Team Rynkeby
@@ -20678,6 +20775,14 @@ entries:
   categories:
   - supporterklubb
   web: http://aia.nu/
+
+- entry: 1232277945
+  orgName: SPF Seniorerna Borås 3:an
+  orgNumber: 864501-4260
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-boras-3an/
 
 - entry: 1232278158
   orgName: SPF Seniorerna i Väsby
@@ -24242,6 +24347,14 @@ entries:
   - ridskola
   web: https://www.tranasridklubb.se/
 
+- entry: 1232706067
+  orgName: PRO Sunnanå-Prästbordet
+  orgNumber: 894700-9034
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-skelleftea/foreningar/sunnana-prastbordet.html
+
 - entry: 1232706984
   orgName: Torrskogs Församlings Blomsterfond
   orgNumber: 802458-5096
@@ -24397,7 +24510,7 @@ entries:
   web: https://iogtlinkoping.se/
 
 - entry: 1232716066
-  orgName: SPF-Hökerum
+  orgName: SPF Seniorerna Hökerum
   orgNumber: 865500-9085
   comment: null
   categories:
@@ -25396,6 +25509,14 @@ entries:
   - religion
   web: https://varnamoallians.se/
 
+- entry: 1232819852
+  orgName: Älta Kulturförening
+  orgNumber: 814000-9377
+  comment: null
+  categories:
+  - kulturförening
+  web: https://www.altakulturknut.se/
+
 - entry: 1232824282
   orgName: Feministiskt Initiativ
   orgNumber: 802422-9497
@@ -25963,6 +26084,14 @@ entries:
   - trikiner
   web: http://www.jphastveda.com/
 
+- entry: 1232906436
+  orgName: SPF Seniorerna Skövde
+  orgNumber: 866601-0254
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/skovde/
+
 - entry: 1232906733
   orgName: Restaurang Schnitzelplatz Lagerhuset AB
   orgNumber: 556850-8625
@@ -26086,6 +26215,14 @@ entries:
   categories:
   - religion
   web: https://pingst.be/
+
+- entry: 1232929941
+  orgName: PRO Bjärke
+  orgNumber: 802435-9369
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-alingsas/foreningar/bjarke.html
 
 - entry: 1232930501
   orgName: Team Rynkeby
@@ -28729,6 +28866,14 @@ entries:
   - bygdegårdsförening
   - samhällsförening
   web: https://bygdegardarna.se/stavsjo/
+
+- entry: 1233273182
+  orgName: SPF Seniorerna Fjärås
+  orgNumber: 802432-4645
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-seniorerna-fjaras/
 
 - entry: 1233275039
   orgName: Brännkyrka Församling
@@ -31711,6 +31856,14 @@ entries:
   - donation
   web: https://www.stockholm12.se/
 
+- entry: 1233623857
+  orgName: SPF Seniorerna Romelanda
+  orgNumber: 802435-6266
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/spf-seniorerna-romelanda/
+
 - entry: 1233624053
   orgName: Supercenter Soccer / Supersports International AB
   orgNumber: 556938-6971
@@ -31949,6 +32102,14 @@ entries:
   - intresseförening
   web: https://www.team-rynkeby.se/
 
+- entry: 1233644002
+  orgName: SPF Seniorerna Gnestabygden
+  orgNumber: 819001-5084
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/sormland/foreningslista/gnestabygden/
+
 - entry: 1233645272
   orgName: Insamlingsstiftelsen Bygdens Fond
   orgNumber: 802478-3865
@@ -32018,6 +32179,14 @@ entries:
   - psykisk hälsa
   - riksförbund
   web: https://hjarnkoll.se/
+
+- entry: 1233650785
+  orgName: PRO Rättvik
+  orgNumber: 883201-1863
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-rattvik/foreningar/rattvik.html
 
 - entry: 1233651825
   orgName: Pater Nosters Vänner
@@ -32647,6 +32816,14 @@ entries:
   categories:
   - religion
   web: null
+
+- entry: 1233759115
+  orgName: SPF Seniorerna Gnistan
+  orgNumber: 802516-3950
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-gnistan-vannas/
 
 - entry: 1233770146
   orgName: EFS Västerbotten
@@ -34221,6 +34398,14 @@ entries:
   - golfklubb
   web: http://www.ramkvillagolf.com/
 
+- entry: 1233948049
+  orgName: PRO Järnskog
+  orgNumber: 802445-4681
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-varmland/samorganisationer/samorganisation-eda/foreningar/jarnskog.html
+
 - entry: 1233951019
   orgName: Pingstkyrkan Kaxholmen
   orgNumber: 826000-3614
@@ -35695,6 +35880,14 @@ entries:
   - spiritualism
   web: https://mediumforbundet.se/
 
+- entry: 1234166773
+  orgName: PRO Karlshamn
+  orgNumber: 836200-0815
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-blekinge/samorganisationer/samorganisation-karlshamn/foreningar/karlshamn.html
+
 - entry: 1234170551
   orgName: Lena Prästgård Ridhus / Ove Stenson
   orgNumber: 530530-XXXX
@@ -35779,6 +35972,14 @@ entries:
   categories:
   - kvinnojour
   web: https://www.unizonjourer.se/kvinnojourensigtuna/
+
+- entry: 1234182200
+  orgName: SPF Seniorerna Bogesund
+  orgNumber: 865500-7493
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bogesund/
 
 - entry: 1234183190
   orgName: Odensjö Församling
@@ -36688,6 +36889,14 @@ entries:
   - hundklubb
   - hunduppfödning
   web: http://www.schipperkeringen.se/
+
+- entry: 1234281275
+  orgName: SPF Seniorerna Anneberg
+  orgNumber: 846003-1233
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-anneberg/
 
 - entry: 1234281499
   orgName: Team Rynkeby
@@ -39251,6 +39460,14 @@ entries:
   - bygdegårdsförening
   web: https://www.litslenabygdegard.se/
 
+- entry: 1234615357
+  orgName: SPF Seniorerna Bogesund
+  orgNumber: 865500-7493
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bogesund/
+
 - entry: 1234615449
   orgName: Skarv Sthlm / Sofia Sjöqvist
   orgNumber: 840510-XXXX
@@ -39275,6 +39492,14 @@ entries:
   categories:
   - skytteförening
   web: https://dala-mp.se/
+
+- entry: 1234623260
+  orgName: PRO Stora Skedvi
+  orgNumber: 882601-6738
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-sater/foreningar/stora-skedvi.html
 
 - entry: 1234627238
   orgName: Teaterkören
@@ -41989,6 +42214,14 @@ entries:
   - långfärdsskridsko
   web: https://ffbg.skridsko.net/
 
+- entry: 1235048236
+  orgName: PRO Trelleborg
+  orgNumber: 847000-2646
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-trelleborg/foreningar/trelleborg.html
+
 - entry: 1235048707
   orgName: Nyckelby Bygdegårdsförening
   orgNumber: 802420-0191
@@ -42241,6 +42474,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-viken/
+
+- entry: 1235090527
+  orgName: PRO Traryd
+  orgNumber: 802440-0940
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-kronoberg/samorganisationer/samorganisation-markaryd/foreningar/traryd.html
 
 - entry: 1235092135
   orgName: Mysore Malmö / Upalaya AB
@@ -43585,6 +43826,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/kalla-hembygdsforening
 
+- entry: 1235208665
+  orgName: SPF Seniorerna Skövde Elin
+  orgNumber: 802450-3651
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/skovdeelin/
+
 - entry: 1235208848
   orgName: Saronförsamlingen Näsviken
   orgNumber: 887500-2381
@@ -44857,6 +45106,14 @@ entries:
   - auktioner
   - auktionsverk
   web: https://roslagensauktionsverk.se/
+
+- entry: 1235358007
+  orgName: PRO Tomelilla
+  orgNumber: 838800-7075
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-tomelilla/foreningar/tomelilla.html
 
 - entry: 1235358692
   orgName: Svensk Webbtelevision AB
@@ -47182,6 +47439,14 @@ entries:
   - förening
   web: https://tronofiske.se/
 
+- entry: 1235624846
+  orgName: PRO Byske
+  orgNumber: 802422-4704
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-skelleftea/foreningar/byske.html
+
 - entry: 1235625165
   orgName: Föreningen Flatön
   orgNumber: 858500-6292
@@ -47543,6 +47808,14 @@ entries:
   - funktionsvariation
   - intresseförening
   web: http://gladjeknuff.se/
+
+- entry: 1235681051
+  orgName: SPF Seniorerna Hoheda
+  orgNumber: 802508-1228
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/spf-seniorerna-moheda/
 
 - entry: 1235682810
   orgName: Haruyama Aikijujutus Budoklubb
@@ -47992,6 +48265,14 @@ entries:
   categories:
   - lionsklubb
   web: https://www.lionslodde.se/
+
+- entry: 1235727771
+  orgName: PRO Hässleholm
+  orgNumber: 837000-9501
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-hassleholm/foreningar/hassleholm.html
 
 - entry: 1235729439
   orgName: BFF Strays
@@ -50027,6 +50308,14 @@ entries:
   - hundklubb
   web: https://www.miniatureamericanshepherd.se/
 
+- entry: 1236005813
+  orgName: SPF Seniorerna Baltzar
+  orgNumber: 824000-7966
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-seniorerna-baltzar-motala/
+
 - entry: 1236006084
   orgName: Sundsvalls Trafikskola AB
   orgNumber: 556838-1056
@@ -50474,6 +50763,14 @@ entries:
   - utbildning
   - yoga
   web: https://www.yogabodyorganics.se/
+
+- entry: 1236059570
+  orgName: PRO Köla
+  orgNumber: 872000-7403
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-varmland/samorganisationer/samorganisation-eda/foreningar/kola.html
 
 - entry: 1236059927
   orgName: Brottsofferjouren i Västerort
@@ -51549,6 +51846,14 @@ entries:
   - hundsport
   web: https://lotuseducation.se/
 
+- entry: 1236192009
+  orgName: SPF Seniorerna Bogesund
+  orgNumber: 865500-7493
+  comment: Resor
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bogesund/
+
 - entry: 1236192074
   orgName: Borås Bouleallians
   orgNumber: 802476-1291
@@ -52009,6 +52314,14 @@ entries:
   - stiftelse
   web: https://www.berasinternational.se/
 
+- entry: 1236260681
+  orgName: PRO Gävle Samorganisation
+  orgNumber: 885000-4782
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle.html
+
 - entry: 1236263057
   orgName: Katrineholms Scoutkår
   orgNumber: 818500-4895
@@ -52363,6 +52676,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1236284921
+  orgName: PRO Backen
+  orgNumber: 894002-6514
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-umea/foreningar/backen.html
 
 - entry: 1236286462
   orgName: Vilse.nu / SVEKATT (Svenska Kattskyddsförbundet)
@@ -53333,6 +53654,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/Skepplanda/
 
+- entry: 1236431639
+  orgName: PRO Graniten Kalmar
+  orgNumber: 832401-9192
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-kalmar/foreningar/graniten-kalmar.html
+
 - entry: 1236433106
   orgName: null
   orgNumber: null
@@ -54220,6 +54549,14 @@ entries:
   - kampsportsförening
   web: https://realfighter.se/
 
+- entry: 1236532154
+  orgName: PRO Lycksele
+  orgNumber: 895400-9299
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-lycksele/foreningar/lycksele.html
+
 - entry: 1236532386
   orgName: Cancergalan / Karin Wöyer Amcoff
   orgNumber: 580907-XXXX
@@ -54529,6 +54866,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/gavle/defaultaspxid668646
 
+- entry: 1236594030
+  orgName: PRO Vreta kloster
+  orgNumber: 822001-3992
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-ostergotland/samorganisationer/samorganisation-linkoping/foreningar/vreta-kloster.html
+
 - entry: 1236609093
   orgName: Samtal i Trosa / Finkontoret Sverige AB
   orgNumber: 559274-3701
@@ -54720,6 +55065,14 @@ entries:
   - riksförbund
   - utbildning
   web: https://www.kavjf.se/
+
+- entry: 1236627699
+  orgName: PRO Kungsör
+  orgNumber: 802440-3639
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-vastmanlands-lan/samorganisationer/samorganisation-kungsor/foreningar/kungsor.html
 
 - entry: 1236628820
   orgName: World Sessions / Göteborgs Kommun
