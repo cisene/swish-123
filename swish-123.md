@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-01-27-rev-130523
+Date:     2024-01-27-rev-132922
 ...
 
 # Swish 123 Nummer
@@ -2580,6 +2580,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232462281 | 802537-0241 | Team Rynkeby                                                                                         | Sjuhärad, Dalums skola    |
 | 1232465359 | 802517-4460 | Rotary Stenungsund                                                                                   |                           |
 | 1232465425 | 802437-3329 | Svenska Barbetklubben                                                                                |                           |
+| 1232466027 | 802494-9854 | SPF Seniorerna Stångby                                                                               |                           |
 | 1232466258 | 559051-1258 | Vreta Kloster Bryggeri / Vuxenpedagogisk Konsultation i Linköping AB                                 |                           |
 | 1232468673 | 729500-4274 | Wemboö Bygdegårdsförening                                                                            |                           |
 | 1232477313 | 826001-1526 | Vätterbygdens Veteranfordonsklubb                                                                    |                           |
@@ -4577,6 +4578,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234702908 | 849201-7275 | SK Stimmet - Simidrott                                                                               |                           |
 | 1234704011 | 802000-0603 | Adventistförsamlingen i Stockholm                                                                    |                           |
 | 1234704581 | 802441-4107 | Eds Ryttarsällskap                                                                                   |                           |
+| 1234704862 | 802487-5992 | Veteranstöd Rapid Reaction                                                                           |                           |
 | 1234705265 | 802517-9014 | Smådjurschansen                                                                                      |                           |
 | 1234709598 | 559165-9437 | Naitisport AB                                                                                        |                           |
 | 1234714317 | 802492-3164 | Tornedalens Lokala Kennelklubb                                                                       |                           |
@@ -4705,6 +4707,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234935292 | 895400-8473 | Boksjö Bygdegårdsförening                                                                            |                           |
 | 1234935565 | 252002-4114 | Skorpeds Församling                                                                                  | Barnverksamhet            |
 | 1234936407 | 817605-4545 | Equmenia Knivsta                                                                                     |                           |
+| 1234937199 | 802417-7860 | SPF Seniorerna Degeberga                                                                             |                           |
 | 1234937587 | 817603-3804 | Svenska Heinrich Schütz-sällskapet                                                                   |                           |
 | 1234937918 | 802533-7778 | Team Rynkeby                                                                                         | Dalarna, Noretskolan 1-9  |
 | 1234937975 | 802532-7506 | Team Rynkeby                                                                                         | Helsingborg, Södra Utmarkens skola |
@@ -5914,6 +5917,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236191506 | 780821-XXXX | Lotus Education / Jenny Damm                                                                         |                           |
 | 1236192009 | 865500-7493 | SPF Seniorerna Bogesund                                                                              | Resor                     |
 | 1236192074 | 802476-1291 | Borås Bouleallians                                                                                   |                           |
+| 1236192181 | 817606-7646 | SPF Seniorerna Trosa                                                                                 |                           |
 | 1236197834 | 780106-XXXX | Ikon Events, Ikon Sweden / Kamal Deep Singh Sahni                                                    |                           |
 | 1236202592 | 802513-7061 | Millennia Animal Project                                                                             |                           |
 | 1236203640 | 868400-9874 | Hembygdsföreningen Skarke-Varnhem                                                                    |                           |

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-27-rev-130523",
+    "date": "2024-01-27-rev-132922",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -25416,6 +25416,15 @@
       "web": "http://www.barbet.se/"
     },
     {
+      "entry": 1232466027,
+      "orgNumber": "802494-9854",
+      "orgName": "SPF Seniorerna St\u00e5ngby",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/stangby/"
+    },
+    {
       "entry": 1232466258,
       "orgNumber": "559051-1258",
       "orgName": "Vreta Kloster Bryggeri / Vuxenpedagogisk Konsultation i Link\u00f6ping AB",
@@ -45263,6 +45272,15 @@
       "web": "https://www.edsrs.se/"
     },
     {
+      "entry": 1234704862,
+      "orgNumber": "802487-5992",
+      "orgName": "Veteranst\u00f6d Rapid Reaction",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://vrr.nu/"
+    },
+    {
       "entry": 1234705265,
       "orgNumber": "802517-9014",
       "orgName": "Sm\u00e5djurschansen",
@@ -46531,6 +46549,15 @@
         "religion"
       ],
       "web": "https://equmeniakyrkan.se/forsamlingar/equmenia-knivsta/"
+    },
+    {
+      "entry": 1234937199,
+      "orgNumber": "802417-7860",
+      "orgName": "SPF Seniorerna Degeberga",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/degeberga/"
     },
     {
       "entry": 1234937587,
@@ -58540,6 +58567,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.borasbouleallians.se/"
+    },
+    {
+      "entry": 1236192181,
+      "orgNumber": "817606-7646",
+      "orgName": "SPF Seniorerna Trosa",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/sormland/foreningslista/trosa/"
     },
     {
       "entry": 1236197834,

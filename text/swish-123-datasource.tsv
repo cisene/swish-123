@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-01-27-rev-130524
+# Date: 2024-01-27-rev-132922
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2578,6 +2578,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232462281	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Sjuhärad, Dalums skola
 1232465359	802517-4460	Rotary Stenungsund	https://rotarystenungsund.com/	rotaryklubb	
 1232465425	802437-3329	Svenska Barbetklubben	http://www.barbet.se/	hundklubb,hunduppfödning	
+1232466027	802494-9854	SPF Seniorerna Stångby	https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/stangby/	pensionärsklubb	
 1232466258	559051-1258	Vreta Kloster Bryggeri / Vuxenpedagogisk Konsultation i Linköping AB	https://klosterbryggeri.com/	bryggeri,ölframställning	
 1232468673	729500-4274	Wemboö Bygdegårdsförening	http://vemboöbygdegård.com/	bygdegårdsförening	
 1232477313	826001-1526	Vätterbygdens Veteranfordonsklubb	https://www.vvfk.se/	motorklubb,motorsport,veteranfordon	
@@ -4575,6 +4576,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234702908	849201-7275	SK Stimmet - Simidrott	https://www.stimmet.nu/	simidrott,simklubb	
 1234704011	802000-0603	Adventistförsamlingen i Stockholm	https://stockholm.adventkyrka.se/	religion	
 1234704581	802441-4107	Eds Ryttarsällskap	https://www.edsrs.se/	hästsport,ridsport,ryttarsällskap	
+1234704862	802487-5992	Veteranstöd Rapid Reaction	https://vrr.nu/	hjälporganisation	
 1234705265	802517-9014	Smådjurschansen	https://www.smadjurschansen.se/	djurhem,djurskydd	
 1234709598	559165-9437	Naitisport AB	https://www.naitisport.se/	kosttillskott,styrketräning	
 1234714317	802492-3164	Tornedalens Lokala Kennelklubb	https://www.tlkk.hundpoolen.se/	hundsport,kennelklubb	
@@ -4703,6 +4705,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234935292	895400-8473	Boksjö Bygdegårdsförening	https://bygdegardarna.se/boksjon/	bygdegårdsförening	
 1234935565	252002-4114	Skorpeds Församling	https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped	religion	Barnverksamhet
 1234936407	817605-4545	Equmenia Knivsta	https://equmeniakyrkan.se/forsamlingar/equmenia-knivsta/	religion	
+1234937199	802417-7860	SPF Seniorerna Degeberga	https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/degeberga/	pensionärsklubb	
 1234937587	817603-3804	Svenska Heinrich Schütz-sällskapet	http://www.svenskaschuetz.se/	intresseförening	
 1234937918	802533-7778	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Dalarna, Noretskolan 1-9
 1234937975	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Helsingborg, Södra Utmarkens skola
@@ -5912,6 +5915,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236191506	780821-XXXX	Lotus Education / Jenny Damm	https://lotuseducation.se/	hundsport	
 1236192009	865500-7493	SPF Seniorerna Bogesund	https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bogesund/	pensionärsklubb	Resor
 1236192074	802476-1291	Borås Bouleallians	https://www.borasbouleallians.se/	bouleklubb,idrottsförening	
+1236192181	817606-7646	SPF Seniorerna Trosa	https://www.spfseniorerna.se/distrikt/sormland/foreningslista/trosa/	pensionärsklubb	
 1236197834	780106-XXXX	Ikon Events, Ikon Sweden / Kamal Deep Singh Sahni	http://ikonevents.se/	eventarrangör	
 1236202592	802513-7061	Millennia Animal Project	https://milanipro.org/	djurskydd,djurvård	
 1236203640	868400-9874	Hembygdsföreningen Skarke-Varnhem	https://www.hembygd.se/skarke-varnhem	hembygdsförening	
