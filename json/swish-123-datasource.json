@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-26-rev-190708",
+    "date": "2024-01-27-rev-130523",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -853,6 +853,15 @@
         "fotoklubb"
       ],
       "web": "https://www.alingsasfotoklubb.se/"
+    },
+    {
+      "entry": 1230073908,
+      "orgNumber": "802415-0842",
+      "orgName": "Aktiva Seniorer Gislaved",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://gislaved.aktivaseniorer.com/"
     },
     {
       "entry": 1230073924,
@@ -3146,6 +3155,15 @@
         "ridklubb"
       ],
       "web": "https://www.braaspork.se/"
+    },
+    {
+      "entry": 1230308593,
+      "orgNumber": "894002-7769",
+      "orgName": "Aktiva Seniorer Ume\u00e5",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://umea.aktivaseniorer.com/"
     },
     {
       "entry": 1230310904,
@@ -7940,7 +7958,7 @@
     {
       "entry": 1230772277,
       "orgNumber": "822003-2109",
-      "orgName": "SPF Seniorerna - Plogen Linghem",
+      "orgName": "SPF Seniorerna Plogen Linghem",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -10739,6 +10757,15 @@
       "web": "https://linkopingpolisen.konstforeningar.se/"
     },
     {
+      "entry": 1231041235,
+      "orgNumber": "894701-3796",
+      "orgName": "Aktiva Seniorer Skellefte\u00e5",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://skelleftea.aktivaseniorer.com/"
+    },
+    {
       "entry": 1231041292,
       "orgNumber": "559259-1266",
       "orgName": "Bilbingon.se / Moonserver AB",
@@ -12289,7 +12316,7 @@
     {
       "entry": 1231188796,
       "orgNumber": "802446-5190",
-      "orgName": "Aktiva seniorer Lule\u00e5",
+      "orgName": "Aktiva Seniorer Lule\u00e5",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -14563,7 +14590,7 @@
     {
       "entry": 1231402551,
       "orgNumber": "862501-2300",
-      "orgName": "Aktiva Seniorer i Alings\u00e5s",
+      "orgName": "Aktiva Seniorer Alings\u00e5s",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -15164,7 +15191,7 @@
     {
       "entry": 1231474253,
       "orgNumber": "845002-2903",
-      "orgName": "SPF Lund-Centrum",
+      "orgName": "SPF Seniorerna Lund-Centrum",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -15579,6 +15606,15 @@
         "rollspel"
       ],
       "web": "https://www.gamemaniacs.se/"
+    },
+    {
+      "entry": 1231489483,
+      "orgNumber": "897600-3494",
+      "orgName": "SPF Seniorerna Haparanda",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/Norrbotten/foreningslista/spf-seniorerna-haparanda/"
     },
     {
       "entry": 1231489582,
@@ -16681,6 +16717,15 @@
       "orgName": "Orn\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
       "comment": "['bygdeg\u00e5rdsf\u00f6rening']",
       "web": "https://bygdegardarna.se/orno/"
+    },
+    {
+      "entry": 1231596717,
+      "orgNumber": "889601-3896",
+      "orgName": "Aktiva Seniorer \u00d6rnsk\u00f6ldsvik",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://ovik.aktivaseniorer.com/"
     },
     {
       "entry": 1231598176,
@@ -19889,6 +19934,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231916576,
+      "orgNumber": "802493-6034",
+      "orgName": "Aktiva Seniorer Hisingen",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://aktivaseniorerhisingen.hemsida24.se/"
+    },
+    {
       "entry": 1231917723,
       "orgNumber": "802533-7869",
       "orgName": "Team Rynkeby",
@@ -20775,7 +20829,7 @@
     {
       "entry": 1232028975,
       "orgNumber": "864502-0093",
-      "orgName": "Aktiva seniorer i Bor\u00e5s",
+      "orgName": "Aktiva Seniorer Bor\u00e5s",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -23095,6 +23149,15 @@
       "web": "https://kopingpingst.se/"
     },
     {
+      "entry": 1232256121,
+      "orgNumber": "863001-0711",
+      "orgName": "Aktiva Seniorer Trollh\u00e4ttan",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.aktivaseniorertrollhattan.com/"
+    },
+    {
       "entry": 1232256436,
       "orgNumber": "827000-4545",
       "orgName": "N\u00e4ssj\u00f6 Dansf\u00f6rening",
@@ -23366,7 +23429,7 @@
     {
       "entry": 1232278158,
       "orgNumber": "814801-0575",
-      "orgName": "SPF Seniorerna i V\u00e4sby",
+      "orgName": "SPF Seniorerna V\u00e4sby",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -25124,6 +25187,15 @@
       ]
     },
     {
+      "entry": 1232429983,
+      "orgNumber": "012278-7716",
+      "orgName": "Aktiva Seniorer Nora",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://nora.aktivaseniorer.com/"
+    },
+    {
       "entry": 1232437374,
       "orgNumber": "802479-9051",
       "orgName": "Stiftelsen Linnea Dahl",
@@ -26234,6 +26306,15 @@
         "konferens"
       ],
       "web": "https://www.kragga.se/"
+    },
+    {
+      "entry": 1232601607,
+      "orgNumber": "802420-6339",
+      "orgName": "Aktiva Seniorer Mariestad",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://aktivaseniorer.n.nu/"
     },
     {
       "entry": 1232602043,
@@ -31316,6 +31397,15 @@
       "web": "https://www.porrfribarndom.se/"
     },
     {
+      "entry": 1233133733,
+      "orgNumber": "802416-4827",
+      "orgName": "SPF Seniorerna S\u00f6dra Sandby",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/Sandby/"
+    },
+    {
       "entry": 1233134079,
       "orgNumber": "559057-8828",
       "orgName": "Lekander Boende & B\u00e4r / Lekanders Gourmet AB",
@@ -34967,6 +35057,15 @@
       "web": "https://orebrolansstrokeforening.org/"
     },
     {
+      "entry": 1233534336,
+      "orgNumber": "817605-9932",
+      "orgName": "Aktiva Seniorer Eskilstuna",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://eskilstuna.aktivaseniorer.com/"
+    },
+    {
       "entry": 1233539459,
       "orgNumber": "814401-1114",
       "orgName": "Roslagsveteranerna",
@@ -37289,6 +37388,15 @@
         "stiftelse"
       ],
       "web": "https://www.regnb\u00e5gshj\u00e4rtan.se/"
+    },
+    {
+      "entry": 1233803491,
+      "orgNumber": "802508-6219",
+      "orgName": "SPF Seniorerna H\u00f6stsol Timr\u00e5",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/hostsoltimra/"
     },
     {
       "entry": 1233804986,
@@ -40353,6 +40461,15 @@
       "web": "http://reseproducenten.com/"
     },
     {
+      "entry": 1234151155,
+      "orgNumber": "802417-0352",
+      "orgName": "Aktiva Seniorer Arboga",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://arboga.aktivaseniorer.com/"
+    },
+    {
       "entry": 1234161188,
       "orgNumber": "802481-3217",
       "orgName": "Insamlingsstiftelsen Power Woman Foundation",
@@ -40977,6 +41094,15 @@
       "web": "https://www.hogbogk.com/"
     },
     {
+      "entry": 1234228763,
+      "orgNumber": "802428-9509",
+      "orgName": "Aktiva Seniorer Lerum",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.aktivaseniorerlerum.se/"
+    },
+    {
       "entry": 1234229068,
       "orgNumber": "826001-8539",
       "orgName": "Bankeryds Hembygdsf\u00f6rening",
@@ -41537,6 +41663,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-landsbrobygden/"
+    },
+    {
+      "entry": 1234288353,
+      "orgNumber": "802442-7844",
+      "orgName": "SPF Seniorerna Vikbolandet",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/vikbolandet/"
     },
     {
       "entry": 1234292140,
@@ -44486,6 +44621,15 @@
       "web": "https://www.miljomagasinet.se/"
     },
     {
+      "entry": 1234629390,
+      "orgNumber": "003113-7995",
+      "orgName": "Aktiva Seniorer Nyk\u00f6ping & Oxel\u00f6sund",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://ny-nykoping.aktivaseniorer.com/"
+    },
+    {
       "entry": 1234640686,
       "orgNumber": "556926-6132",
       "orgName": "Romfartuna Ved AB",
@@ -45890,6 +46034,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/ydregarden"
+    },
+    {
+      "entry": 1234844197,
+      "orgNumber": "802448-0959",
+      "orgName": "SPF Seniorerna Kung Karl Kungs\u00f6r",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/vastmanland/foreningslista/kungkarl/"
     },
     {
       "entry": 1234844254,
@@ -49789,6 +49942,15 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/ostersund/"
+    },
+    {
+      "entry": 1235264510,
+      "orgNumber": "802440-1260",
+      "orgName": "Aktiva Seniorer V\u00e4rnamo",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://varnamo.aktivaseniorer.com/"
     },
     {
       "entry": 1235264650,
@@ -55900,6 +56062,15 @@
       "web": "https://ystadsbrukshundklubb.se/"
     },
     {
+      "entry": 1235904669,
+      "orgNumber": "769634-6951",
+      "orgName": "Bygdsam Anundsj\u00f6",
+      "categories": [
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://www.alskaanundsjo.se/"
+    },
+    {
       "entry": 1235904677,
       "orgNumber": "878000-5735",
       "orgName": "Surahammars IF",
@@ -55975,6 +56146,15 @@
         "religion"
       ],
       "web": "https://www.eksjo-pingst.se/"
+    },
+    {
+      "entry": 1235923388,
+      "orgNumber": "802439-4986",
+      "orgName": "SPF Seniorerna Tranemo",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-tranemo/"
     },
     {
       "entry": 1235923412,
@@ -57386,6 +57566,15 @@
       "web": "http://bowenpraktiken.com/"
     },
     {
+      "entry": 1236091888,
+      "orgNumber": "894003-6406",
+      "orgName": "SPF Seniorerna Sk\u00e4rg\u00e5rden Holmsund-Obbola",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna--skargarden-holmsund-obbola/"
+    },
+    {
       "entry": 1236094866,
       "orgNumber": "833600-2996",
       "orgName": "V\u00e4sterviksortens Ryttaref\u00f6rening",
@@ -58065,6 +58254,15 @@
         "persontransport"
       ],
       "web": "https://www.lillaedetbuss.se/taxi/"
+    },
+    {
+      "entry": 1236174932,
+      "orgNumber": "802452-2883",
+      "orgName": "SPF Seniorerna Sydhalland",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spfseniorerna_sydhaland/"
     },
     {
       "entry": 1236174957,
@@ -59408,6 +59606,15 @@
         "religion"
       ],
       "web": "https://www.tyresopingst.se/"
+    },
+    {
+      "entry": 1236304083,
+      "orgNumber": "802441-7613",
+      "orgName": "SPF Seniorerna Bl\u00e5elden Borgholm",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/kalmardistriktet/foreningslista/borgholm/"
     },
     {
       "entry": 1236310494,
@@ -62053,6 +62260,15 @@
         "godk\u00e4nd g\u00e5vomottagare"
       ],
       "web": "https://www.rodakorset.se/"
+    },
+    {
+      "entry": 1236654354,
+      "orgNumber": "829502-8255",
+      "orgName": "SPF Seniorerna \u00c5seda-Notteb\u00e4ck",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/spf-seniorerna-aseda-notteback/"
     },
     {
       "entry": 1236660088,
