@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-27-rev-132922",
+    "date": "2024-01-29-rev-020328",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -33880,6 +33880,15 @@
       "web": "https://www.sundskanalen.se/"
     },
     {
+      "entry": 1233422995,
+      "orgNumber": "822002-9121",
+      "orgName": "Aktiva Seniorer Link\u00f6ping",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "http://linkoping.aktivaseniorer.com/"
+    },
+    {
       "entry": 1233424470,
       "orgNumber": "818500-9704",
       "orgName": "Flens Golfklubb",
@@ -59739,6 +59748,15 @@
         "alternativa nyheter"
       ],
       "web": "https://nyhetskartan.se/"
+    },
+    {
+      "entry": 1236328280,
+      "orgNumber": "802415-9041",
+      "orgName": "Aktiva Seniorer V\u00e4nersborg",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://vanersborg.aktivaseniorer.com/"
     },
     {
       "entry": 1236328629,

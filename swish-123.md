@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-01-27-rev-132922
+Date:     2024-01-29-rev-020328
 ...
 
 # Swish 123 Nummer
@@ -3432,6 +3432,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233409968 | 556668-9021 | Profeel AB                                                                                           | Donationer Barncancerfonden |
 | 1233419967 | 887500-1193 | Hudiksvalls Förenade Fotboll                                                                         |                           |
 | 1233422565 | 802414-1866 | Sundskanalen Nordvästra Skåne                                                                        |                           |
+| 1233422995 | 822002-9121 | Aktiva Seniorer Linköping                                                                            |                           |
 | 1233424470 | 818500-9704 | Flens Golfklubb                                                                                      |                           |
 | 1233424900 | 812400-9419 | Föreningen Runsten Equestrians                                                                       |                           |
 | 1233430592 | 897000-0280 | Pingstförsamlingen i Luleå                                                                           |                           |
@@ -6032,6 +6033,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236314538 | 556407-6189 | Osprey Farm & Studio / Osprey Sweden AB                                                              |                           |
 | 1236322432 | 802513-2336 | NyFramtid                                                                                            |                           |
 | 1236325534 | 559331-5137 | Nyhetskartan Media AB                                                                                |                           |
+| 1236328280 | 802415-9041 | Aktiva Seniorer Vänersborg                                                                           |                           |
 | 1236328629 | 003308-3411 | Sekelskiftesdagarna i Marstrand ideella förening                                                     |                           |
 | 1236329718 | 802461-7998 | Bohuslän-Dals Bridgeförening                                                                         |                           |
 | 1236333041 | 802457-1872 | Makalösa Föräldrar Umeå                                                                              |                           |

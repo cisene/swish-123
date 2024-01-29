@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-01-27-rev-132922
+# Date: 2024-01-29-rev-020328
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3430,6 +3430,7 @@
 "1233409968","556668-9021","Profeel AB","https://www.profeel.se/","eventarrangör,försäljning,profilkläder","Donationer Barncancerfonden"
 "1233419967","887500-1193","Hudiksvalls Förenade Fotboll","https://www.hudiksvallsff.se/","fotbollsklubb,idrottsförening",""
 "1233422565","802414-1866","Sundskanalen Nordvästra Skåne","https://www.sundskanalen.se/","förening,lokaltelevision",""
+"1233422995","822002-9121","Aktiva Seniorer Linköping","http://linkoping.aktivaseniorer.com/","pensionärsklubb",""
 "1233424470","818500-9704","Flens Golfklubb","https://flensgk.se/","golfbana,golfklubb",""
 "1233424900","812400-9419","Föreningen Runsten Equestrians","https://foreningenrunsten.se/","hästsport,ridklubb",""
 "1233430592","897000-0280","Pingstförsamlingen i Luleå","http://www.lulea.pingst.se/","religion",""
@@ -6030,6 +6031,7 @@
 "1236314538","556407-6189","Osprey Farm & Studio / Osprey Sweden AB","https://www.ospreysweden.se/","jordbruk,keramik,konst,konsthantverk",""
 "1236322432","802513-2336","NyFramtid","https://www.nyframtid.se/","politiskt parti",""
 "1236325534","559331-5137","Nyhetskartan Media AB","https://nyhetskartan.se/","alternativa media,alternativa nyheter",""
+"1236328280","802415-9041","Aktiva Seniorer Vänersborg","https://vanersborg.aktivaseniorer.com/","pensionärsklubb",""
 "1236328629","003308-3411","Sekelskiftesdagarna i Marstrand ideella förening","http://www.sekelskiftesdagarna.se/","historia,kulturförening",""
 "1236329718","802461-7998","Bohuslän-Dals Bridgeförening","https://www.svenskbridge.se/bohuslän-dals-bf/","bridgeklubb",""
 "1236333041","802457-1872","Makalösa Föräldrar Umeå","https://makalosa.org/","föräldraskap",""

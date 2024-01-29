@@ -24,7 +24,7 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***7036*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***7038*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
@@ -64,7 +64,7 @@ pie title Distribution
     "123 31x xx xx" : 70
     "123 32x xx xx" : 101
     "123 33x xx xx" : 98
-    "123 34x xx xx" : 84
+    "123 34x xx xx" : 85
     "123 35x xx xx" : 106
     "123 36x xx xx" : 92
     "123 37x xx xx" : 75
@@ -93,7 +93,7 @@ pie title Distribution
     "123 60x xx xx" : 94
     "123 61x xx xx" : 90
     "123 62x xx xx" : 103
-    "123 63x xx xx" : 68
+    "123 63x xx xx" : 69
     "123 64x xx xx" : 87
     "123 65x xx xx" : 75
     "123 66x xx xx" : 88

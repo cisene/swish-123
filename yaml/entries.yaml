@@ -30219,6 +30219,14 @@ entries:
   - lokaltelevision
   web: https://www.sundskanalen.se/
 
+- entry: 1233422995
+  orgName: Aktiva Seniorer Linköping
+  orgNumber: 822002-9121
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: http://linkoping.aktivaseniorer.com/
+
 - entry: 1233424470
   orgName: Flens Golfklubb
   orgNumber: 818500-9704
@@ -53237,6 +53245,14 @@ entries:
   - alternativa media
   - alternativa nyheter
   web: https://nyhetskartan.se/
+
+- entry: 1236328280
+  orgName: Aktiva Seniorer Vänersborg
+  orgNumber: 802415-9041
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://vanersborg.aktivaseniorer.com/
 
 - entry: 1236328629
   orgName: Sekelskiftesdagarna i Marstrand ideella förening
