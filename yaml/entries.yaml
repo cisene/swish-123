@@ -7538,6 +7538,14 @@ entries:
   - hembygdsförening
   web: http://seskaro.net/
 
+- entry: 1230815845
+  orgName: Aktiva Seniorer Sundsvall
+  orgNumber: 802433-3745
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://aktivasundsvall.net/
+
 - entry: 1230816967
   orgName: Föreningen Gamla Bion i Örsundsbro
   orgNumber: 817606-1573
@@ -25776,6 +25784,15 @@ entries:
   - religion
   web: http://www.pingstkvillsfors.se/
 
+- entry: 1232845360
+  orgName: TeamNorr IT-Partner AB
+  orgNumber: 556975-3964
+  comment: null
+  categories:
+  - internettjänster
+  - konsulttjänster
+  web: https://teamnorr.se/
+
 - entry: 1232849180
   orgName: Ringsjöortens Biodlarförening
   orgNumber: 012133-7299
@@ -27625,6 +27642,14 @@ entries:
   categories: null
   web: null
 
+- entry: 1233072873
+  orgName: Judisk Enhet
+  orgNumber: 802527-7263
+  comment: null
+  categories:
+  - religion
+  web: https://judiskenhet.se/
+
 - entry: 1233074531
   orgName: Rent A Chef / Racademy AB
   orgNumber: 559418-5844
@@ -28330,6 +28355,15 @@ entries:
   categories:
   - ridskola
   web: https://aleponnyranch.com/
+
+- entry: 1233191681
+  orgName: Active Fysio Matilda Hellman AB
+  orgNumber: 559152-7220
+  comment: null
+  categories:
+  - friskvård
+  - fysioterapi
+  web: https://aktivfysiohollviken.se/
 
 - entry: 1233192168
   orgName: Kvinnojouren Kullan
@@ -32304,7 +32338,7 @@ entries:
   web: https://sodergarden.org/
 
 - entry: 1233635224
-  orgName: Lyftidrottens ungdomsfond
+  orgName: Lyftidrottens Ungdomsfond
   orgNumber: 826001-2920
   comment: Styrkelyft
   categories:
@@ -37218,6 +37252,15 @@ entries:
   - intresseförening
   web: https://nattidskriftenvasterbotten.se/
 
+- entry: 1234293189
+  orgName: Spårvägens BTK
+  orgNumber: 802016-2437
+  comment: null
+  categories:
+  - bordtennisklubb
+  - idrottsförening
+  web: https://www.sparvagenbtk.se/
+
 - entry: 1234293726
   orgName: Team Rynkeby
   orgNumber: 802533-7869
@@ -37705,6 +37748,15 @@ entries:
   - danssport
   - idrottsförening
   web: https://www.malarbuggarna.com/
+
+- entry: 1234369401
+  orgName: Rättviks GK
+  orgNumber: 883200-9073
+  comment: 55+
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://www.rattviksgk.se/
 
 - entry: 1234373833
   orgName: Aros Ice Cream
@@ -45079,6 +45131,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1235312087
+  orgName: Insamlingsstiftelsen Motus Vitae
+  orgNumber: 802481-4298
+  comment: null
+  categories:
+  - stiftelse
+  web: https://motusfoundation.se/
+
 - entry: 1235312277
   orgName: KTH Elektrosektionens Elektroniklaboratorium, ELAB
   orgNumber: 202100-3054
@@ -47304,6 +47364,15 @@ entries:
   - kampsportsförening
   web: https://musubi-dojo.se/
 
+- entry: 1235573696
+  orgName: Ekholmsnäs Golf Lidingö
+  orgNumber: 556266-8003
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://ekholmsnasgolf.se/
+
 - entry: 1235574009
   orgName: Team Rynkeby
   orgNumber: 802532-8033
@@ -47577,6 +47646,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1235604327
+  orgName: Djur i Balans i Sverige AB
+  orgNumber: 559145-4276
+  comment: null
+  categories:
+  - djurvård
+  - friskvård
+  web: https://www.djuribalans.com/
 
 - entry: 1235604491
   orgName: Svensk Förening för Radiofysik
@@ -53638,6 +53716,14 @@ entries:
   - utbildning
   web: https://svenskablastjarnan.se/
 
+- entry: 1236358048
+  orgName: Aktiva Seniorer Ystad
+  orgNumber: 802439-0752
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.aktivaseniorer-ystad.se/
+
 - entry: 1236358071
   orgName: Tvååkers IF
   orgNumber: 849600-2562
@@ -53962,6 +54048,7 @@ entries:
   orgNumber: 845002-2218
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: http://www.ragk.se/
 

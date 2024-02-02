@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-02-rev-163247",
+    "date": "2024-02-02-rev-182955",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8477,6 +8477,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://seskaro.net/"
+    },
+    {
+      "entry": 1230815845,
+      "orgNumber": "802433-3745",
+      "orgName": "Aktiva Seniorer Sundsvall",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://aktivasundsvall.net/"
     },
     {
       "entry": 1230816967,
@@ -28918,6 +28927,16 @@
       "web": "http://www.pingstkvillsfors.se/"
     },
     {
+      "entry": 1232845360,
+      "orgNumber": "556975-3964",
+      "orgName": "TeamNorr IT-Partner AB",
+      "categories": [
+        "internettj\u00e4nster",
+        "konsulttj\u00e4nster"
+      ],
+      "web": "https://teamnorr.se/"
+    },
+    {
       "entry": 1232849180,
       "orgNumber": "012133-7299",
       "orgName": "Ringsj\u00f6ortens Biodlarf\u00f6rening",
@@ -30981,6 +31000,15 @@
       "web": "https://www.balstaridskola.se/"
     },
     {
+      "entry": 1233072873,
+      "orgNumber": "802527-7263",
+      "orgName": "Judisk Enhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://judiskenhet.se/"
+    },
+    {
       "entry": 1233074531,
       "orgNumber": "559418-5844",
       "orgName": "Rent A Chef / Racademy AB",
@@ -31752,6 +31780,16 @@
         "ridskola"
       ],
       "web": "https://aleponnyranch.com/"
+    },
+    {
+      "entry": 1233191681,
+      "orgNumber": "559152-7220",
+      "orgName": "Active Fysio Matilda Hellman AB",
+      "categories": [
+        "friskv\u00e5rd",
+        "fysioterapi"
+      ],
+      "web": "https://aktivfysiohollviken.se/"
     },
     {
       "entry": 1233192168,
@@ -36244,7 +36282,7 @@
     {
       "entry": 1233635224,
       "orgNumber": "826001-2920",
-      "orgName": "Lyftidrottens ungdomsfond",
+      "orgName": "Lyftidrottens Ungdomsfond",
       "comment": "Styrkelyft",
       "categories": [
         "stiftelse"
@@ -41753,6 +41791,16 @@
       "web": "https://nattidskriftenvasterbotten.se/"
     },
     {
+      "entry": 1234293189,
+      "orgNumber": "802016-2437",
+      "orgName": "Sp\u00e5rv\u00e4gens BTK",
+      "categories": [
+        "bordtennisklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.sparvagenbtk.se/"
+    },
+    {
       "entry": 1234293726,
       "orgNumber": "802533-7869",
       "orgName": "Team Rynkeby",
@@ -42290,6 +42338,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.malarbuggarna.com/"
+    },
+    {
+      "entry": 1234369401,
+      "orgNumber": "883200-9073",
+      "orgName": "R\u00e4ttviks GK",
+      "comment": "55+",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://www.rattviksgk.se/"
     },
     {
       "entry": 1234373833,
@@ -50600,6 +50659,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235312087,
+      "orgNumber": "802481-4298",
+      "orgName": "Insamlingsstiftelsen Motus Vitae",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://motusfoundation.se/"
+    },
+    {
       "entry": 1235312277,
       "orgNumber": "202100-3054",
       "orgName": "KTH Elektrosektionens Elektroniklaboratorium, ELAB",
@@ -53107,6 +53175,16 @@
       "web": "https://musubi-dojo.se/"
     },
     {
+      "entry": 1235573696,
+      "orgNumber": "556266-8003",
+      "orgName": "Ekholmsn\u00e4s Golf Liding\u00f6",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://ekholmsnasgolf.se/"
+    },
+    {
       "entry": 1235574009,
       "orgNumber": "802532-8033",
       "orgName": "Team Rynkeby",
@@ -53424,6 +53502,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235604327,
+      "orgNumber": "559145-4276",
+      "orgName": "Djur i Balans i Sverige AB",
+      "categories": [
+        "djurv\u00e5rd",
+        "friskv\u00e5rd"
+      ],
+      "web": "https://www.djuribalans.com/"
     },
     {
       "entry": 1235604491,
@@ -60194,6 +60282,15 @@
       "web": "https://svenskablastjarnan.se/"
     },
     {
+      "entry": 1236358048,
+      "orgNumber": "802439-0752",
+      "orgName": "Aktiva Seniorer Ystad",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.aktivaseniorer-ystad.se/"
+    },
+    {
       "entry": 1236358071,
       "orgNumber": "849600-2562",
       "orgName": "Tv\u00e5\u00e5kers IF",
@@ -60548,6 +60645,7 @@
       "orgNumber": "845002-2218",
       "orgName": "Romele\u00e5sens GK",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "http://www.ragk.se/"
