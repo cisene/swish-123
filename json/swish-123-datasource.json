@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-01-29-rev-020328",
+    "date": "2024-02-02-rev-163247",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13181,6 +13181,16 @@
         "rotaryklubb"
       ],
       "web": "https://rotaryeclub.se/"
+    },
+    {
+      "entry": 1231266360,
+      "orgNumber": "802516-8447",
+      "orgName": "Katthj\u00e4lpen Str\u00f6mstad",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://katthjalpenstromstad.se/"
     },
     {
       "entry": 1231267194,
@@ -31076,6 +31086,7 @@
       "orgNumber": "802530-1006",
       "orgName": "Arbetskraftf\u00f6rmedlingen",
       "categories": [
+        "arbetsf\u00f6rmedling",
         "arbetskraft",
         "f\u00f6rmedling"
       ],
@@ -31434,6 +31445,17 @@
       "web": "https://www.posk.se/lundby/"
     },
     {
+      "entry": 1233138286,
+      "orgNumber": "820806-XXXX",
+      "orgName": "Fight Center Link\u00f6ping / Jonas Ivung",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "thaiboxningsklubb"
+      ],
+      "web": "https://www.fightcenter.se/"
+    },
+    {
       "entry": 1233138419,
       "orgNumber": "879500-4939",
       "orgName": "Heby Ryttarf\u00f6rening",
@@ -31443,6 +31465,16 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.hebyrf.se/"
+    },
+    {
+      "entry": 1233138567,
+      "orgNumber": "802451-4450",
+      "orgName": "Torup Ryd\u00f6 FF",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/TYRFF/"
     },
     {
       "entry": 1233138781,
@@ -32932,6 +32964,15 @@
         "\u00e5tervinning"
       ],
       "web": "https://www.lastarkastar.se/"
+    },
+    {
+      "entry": 1233319993,
+      "orgNumber": "697010-8608",
+      "orgName": "SMK Sundsvall",
+      "categories": [
+        "motorsport"
+      ],
+      "web": "https://smk-sundsvall.webnode.se/"
     },
     {
       "entry": 1233320033,
@@ -35328,6 +35369,16 @@
         "hundsport"
       ],
       "web": "https://www.h\u00f6gsbybk.se/"
+    },
+    {
+      "entry": 1233553898,
+      "orgNumber": "853300-4399",
+      "orgName": "Gullbringa Golf & Country Club",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://www.gullbringagolf.se/"
     },
     {
       "entry": 1233554029,
@@ -43315,6 +43366,16 @@
       "web": "https://www.swfrk.se/"
     },
     {
+      "entry": 1234491742,
+      "orgNumber": "817602-9356",
+      "orgName": "Uppsala AFC 86ers",
+      "categories": [
+        "amerikansk fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.86ers.se/"
+    },
+    {
       "entry": 1234492120,
       "orgNumber": "827000-0568",
       "orgName": "Eksj\u00f6ortens RF - Ridsport",
@@ -45104,6 +45165,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://oreboule.se/"
+    },
+    {
+      "entry": 1234677316,
+      "orgNumber": "802422-9364",
+      "orgName": "Waggeryds Atletklubb",
+      "categories": [
+        "atletklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.waggerydsatletklubb.se/"
     },
     {
       "entry": 1234677431,
@@ -51797,6 +51868,15 @@
       "web": "https://www.bike.se/"
     },
     {
+      "entry": 1235434618,
+      "orgNumber": "882600-8115",
+      "orgName": "Gagnefs Flygklubb",
+      "categories": [
+        "flygklubb"
+      ],
+      "web": "https://www.gagnefsflygklubb.se/"
+    },
+    {
       "entry": 1235434865,
       "orgNumber": "833200-3642",
       "orgName": "Vimmerbyortens Ryttarf\u00f6rening",
@@ -52956,6 +53036,16 @@
       "categories": [
         "bygdeg\u00e5rdsf\u00f6rening"
       ]
+    },
+    {
+      "entry": 1235558838,
+      "orgNumber": "802010-3639",
+      "orgName": "KFUM Blackebergs IK",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.blackebergbasket.com/"
     },
     {
       "entry": 1235559547,
@@ -55625,6 +55715,17 @@
         "stiftelse"
       ],
       "web": "http://www.afu.se/"
+    },
+    {
+      "entry": 1235855317,
+      "orgNumber": "802531-2656",
+      "orgName": "Mantorp H\u00e4stsportf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola",
+        "ridsport"
+      ],
+      "web": "https://www.mantorphastsportarena.se/"
     },
     {
       "entry": 1235856729,
@@ -58469,6 +58570,17 @@
         "gymnastikf\u00f6rening"
       ],
       "web": "https://idrottonline.se/EdsbynsGF-Gymnastik/"
+    },
+    {
+      "entry": 1236185078,
+      "orgNumber": "828500-0249",
+      "orgName": "Burseryds IF",
+      "comment": "Seniorfotboll",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://burserydsif.se/"
     },
     {
       "entry": 1236185854,
@@ -62246,6 +62358,15 @@
         "byalag"
       ],
       "web": "https://www.borrby.se/"
+    },
+    {
+      "entry": 1236640999,
+      "orgNumber": "857201-4812",
+      "orgName": "Saronf\u00f6rsamlingen i G\u00f6teborg",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://saron.se/"
     },
     {
       "entry": 1236641807,
