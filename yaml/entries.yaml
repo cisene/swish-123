@@ -72,6 +72,16 @@ entries:
   - dansundervisning
   web: https://www.tangosol.se/
 
+- entry: 1230004713
+  orgName: IFK Lidingö Skid- och orienteringsklubb
+  orgNumber: 813600-1461
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.ifklidingo.se/
+
 - entry: 1230004945
   orgName: Långasands Idrottsförening
   orgNumber: 849000-3574
@@ -1697,6 +1707,14 @@ entries:
   - trafikskola
   web: https://www.josefssonstrafikskola.se/
 
+- entry: 1230190702
+  orgName: Aktiva Seniorer Kungsbacka
+  orgNumber: 849400-9528
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://kungsbacka.aktivaseniorer.com/
+
 - entry: 1230191023
   orgName: Bara vanlig hälsa
   orgNumber: 802508-0469
@@ -1766,6 +1784,14 @@ entries:
   - idrottsförening
   - idrottssällskap
   web: https://www.svenskalag.se/osterakersis
+
+- entry: 1230194423
+  orgName: SPF Seniorerna Marmen Matfors
+  orgNumber: 802488-1024
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/marmen/
 
 - entry: 1230195495
   orgName: Förbundet S:t Lukas i Västerås
@@ -2082,7 +2108,7 @@ entries:
   web: https://lhon.se/
 
 - entry: 1230231803
-  orgName: SPF Seniorerna Falkenberg-Skrea
+  orgName: SPF Seniorerna Falkenberg - Skrea
   orgNumber: 849000-7278
   comment: null
   categories:
@@ -2310,6 +2336,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/Hyltebruks%20pastorat/langaryd
+
+- entry: 1230247239
+  orgName: SPF Seniorerna Okome-Köinge-Svartrå
+  orgNumber: 802422-2732
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-okome-koinge-svartra/
 
 - entry: 1230248872
   orgName: Yoga i Åkersberga AB
@@ -3372,6 +3406,14 @@ entries:
   categories:
   - hörselnedsättning
   web: https://www.facebook.com/groups/185872608118028/
+
+- entry: 1230368654
+  orgName: SPF Seniorerna Skutan Väddö
+  orgNumber: 802491-6218
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-skutan-vaddo/
 
 - entry: 1230369306
   orgName: GynCancerförbundet Gävleborg
@@ -4903,6 +4945,14 @@ entries:
   - standup
   web: https://www.youtube.com/@_isakberg
 
+- entry: 1230513911
+  orgName: SPF Seniorerna Reftele
+  orgNumber: 828500-5198
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-seniorerna-reftele/
+
 - entry: 1230516906
   orgName: Äpplegårdens Boule Center
   orgNumber: 802509-2639
@@ -6098,6 +6148,14 @@ entries:
   - kampsportsförening
   web: https://hogdalensbudoklubb.se/
 
+- entry: 1230690537
+  orgName: SPF Seniorerna Araslöv
+  orgNumber: 802496-4036
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/araslov/
+
 - entry: 1230691097
   orgName: Rudsjö Scoutkår
   orgNumber: 885001-9079
@@ -6416,6 +6474,14 @@ entries:
   categories:
   - golfklubb
   web: https://lackogk.se/
+
+- entry: 1230719856
+  orgName: SPF Seniorerna Humleaxet Tierp
+  orgNumber: 817301-2975
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/humleaxet/
 
 - entry: 1230720037
   orgName: Sannex Orkester AB
@@ -8950,6 +9016,14 @@ entries:
   categories:
   - konstförening
   web: https://tjorn.konstforeningar.se/
+
+- entry: 1230958702
+  orgName: PRO Hässelby Villastad
+  orgNumber: 802018-0124
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-stockholm/foreningar/hasselby-villastad.html
 
 - entry: 1230959130
   orgName: Lunds Botaniska Förening
@@ -12413,6 +12487,14 @@ entries:
   - naturvård
   web: http://www.vendelsjon.se/
 
+- entry: 1231333384
+  orgName: SPF Seniorerna Örgryte
+  orgNumber: 857204-0007
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/spf-seniorerna-orgryte/
+
 - entry: 1231335058
   orgName: Eglise Suédoise, Svenska Kyrkan i Paris
   orgNumber: 003033-8073
@@ -13144,6 +13226,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1231424050
+  orgName: SPF Seniorerna Syrenen Sandviken
+  orgNumber: 885501-1964
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/spf-seniorerna-gastrikland/foreningslista/spf-seniorerna-syrenen/
 
 - entry: 1231428234
   orgName: Assoraya / Kicki Jörgensen
@@ -15754,6 +15844,14 @@ entries:
   - podcast
   web: https://henrikjonsson.com/
 
+- entry: 1231689074
+  orgName: SPF Seniorerna Östra Kind
+  orgNumber: 802491-7448
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-ostra-kind/
+
 - entry: 1231699263
   orgName: Lohärads Bygdegårdsförening
   orgNumber: 814400-1172
@@ -17796,6 +17894,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1231918028
+  orgName: SPF Seniorerna Storfors
+  orgNumber: 802449-3077
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/varmlandsdistriktet/foreningslista/spf-storfors/
+
 - entry: 1231919646
   orgName: PerHåkans, PH:s / P. Heléns Musikproduktion AB
   orgNumber: 556607-7482
@@ -18271,6 +18377,14 @@ entries:
   categories:
   - golfklubb
   web: https://www.appelgarden.se/
+
+- entry: 1231986678
+  orgName: PRO Hästveda
+  orgNumber: 837000-7703
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-hassleholm/foreningar/hastveda.html
 
 - entry: 1231986835
   orgName: Byske Kyrkstad Förening
@@ -19269,6 +19383,14 @@ entries:
   - idrottsförening
   web: https://avdiscgolf.se/
 
+- entry: 1232124618
+  orgName: SPF Seniorerna Havsvinden Åhus
+  orgNumber: 838202-2823
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-havsvinden-ahus/
+
 - entry: 1232126266
   orgName: Uppsala JSK - Skyttesport
   orgNumber: 817601-4846
@@ -19764,6 +19886,14 @@ entries:
   - folkets park
   - företagsevent
   web: https://rydaholmfolketspark.com/
+
+- entry: 1232170983
+  orgName: SPF Seniorerna Hallsberg
+  orgNumber: 802462-0455
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/orebrodistriktet/foreningslista/Hallsberg/
 
 - entry: 1232173391
   orgName: Fridlevstads Hembygdsförening
@@ -22468,6 +22598,14 @@ entries:
   - pensionärsklubb
   web: https://nora.aktivaseniorer.com/
 
+- entry: 1232431922
+  orgName: PRO Backa
+  orgNumber: 802436-7982
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-goteborg/samorganisationer/samorganisation-goteborg/foreningar/backa.html
+
 - entry: 1232437374
   orgName: Stiftelsen Linnea Dahl
   orgNumber: 802479-9051
@@ -24698,7 +24836,8 @@ entries:
   orgName: SPF Seniorerna Gavle
   orgNumber: 885002-1232
   comment: null
-  categories: null
+  categories:
+  - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/spf-seniorerna-gastrikland/foreningslista/spf-seniorerna-gavle/
 
 - entry: 1232717171
@@ -25247,6 +25386,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.ljungbyif.nu/
+
+- entry: 1232777159
+  orgName: SPF Seniorerna Oxie
+  orgNumber: 846003-0797
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/Oxie/
 
 - entry: 1232777316
   orgName: Team Rynkeby
@@ -31592,6 +31739,14 @@ entries:
   - hundpark
   web: https://vovvenochjag.se/
 
+- entry: 1233554136
+  orgName: PRO Mörarp - Påarp
+  orgNumber: 843002-0316
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-helsingborg/foreningar/morarp-paarp.html
+
 - entry: 1233555331
   orgName: IFK Anderstorp
   orgNumber: 894701-4141
@@ -33430,6 +33585,14 @@ entries:
   - medium
   - spiritualism
   web: https://yourlight.se/
+
+- entry: 1233805470
+  orgName: SPF Seniorerna Mellersta Kinnevald
+  orgNumber: 802488-1743
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/spf-seniorerna-mellersta-kinnevald/
 
 - entry: 1233806122
   orgName: Borlänge Tunabygdens Konstförening
@@ -36569,6 +36732,14 @@ entries:
   - patientförening
   - prostatacancer
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/varmland/prostatacancerforeningen-varmland/
+
+- entry: 1234205696
+  orgName: SPF Seniorerna Älvdalen
+  orgNumber: 802433-8876
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/alvdalen/
 
 - entry: 1234206280
   orgName: Action For Humanity
@@ -40840,6 +41011,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-varmdo/foreningar/gustavsberg-ingaro.html
+
+- entry: 1234782926
+  orgName: PRO Huskvarna
+  orgNumber: 826001-5477
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-jonkopings-lan/samorganisationer/samorganisation-jonkoping/foreningar/huskvarna.html
 
 - entry: 1234783585
   orgName: Fotfixaren / Fotfixaren Helene Thomasson AB
@@ -49300,6 +49479,14 @@ entries:
   - golfklubb
   web: https://www.vetlandagk.com/
 
+- entry: 1235792635
+  orgName: Kanalkyrkans Församling i Sandviken
+  orgNumber: 885500-2740
+  comment: null
+  categories:
+  - religion
+  web: https://kanalkyrkan.se/
+
 - entry: 1235792924
   orgName: Korskyrkan Umeå
   orgNumber: 894000-0303
@@ -49504,6 +49691,14 @@ entries:
   categories:
   - scoutkår
   web: https://karlsro.nu/
+
+- entry: 1235829544
+  orgName: SPF Seniorerna Liljan Fagersta
+  orgNumber: 802468-7694
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/vastmanland/foreningslista/spf-seniorerna-liljan-fagersta/
 
 - entry: 1235830278
   orgName: Alva, Hemse och Rone Församling
@@ -49835,6 +50030,14 @@ entries:
   categories:
   - biodling
   web: http://enkopingsbiodlare.se/
+
+- entry: 1235867668
+  orgName: SPF Seniorerna Rottne
+  orgNumber: 802431-5676
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/rottne2/
 
 - entry: 1235869920
   orgName: Väsman VinterArena
@@ -51193,6 +51396,14 @@ entries:
   - sång
   web: https://www.ingelavocalis.se/
 
+- entry: 1236035158
+  orgName: SPF Seniorerna Lidköping
+  orgNumber: 869000-8498
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/lidkoping/
+
 - entry: 1236038830
   orgName: Saxå Golfklubb
   orgNumber: 877100-4002
@@ -51565,6 +51776,14 @@ entries:
   categories:
   - religion
   web: https://equmeniakyrkan.se/ockelbo/
+
+- entry: 1236097869
+  orgName: SPF Seniorerna Ljungen Seniorer Höllviken
+  orgNumber: 802445-4228
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/ljungensseniorer/
 
 - entry: 1236098172
   orgName: Arsenal FC Official Supporters Club Sweden
@@ -53891,6 +54110,14 @@ entries:
   - trädgårdsodling
   - trädgårdsplanering
   web: https://www.tradgardstrollet.se/
+
+- entry: 1236386858
+  orgName: SPF Seniorerna Gärdet-Djurgården
+  orgNumber: 802423-0685
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/gardet-djurgarden/
 
 - entry: 1236387112
   orgName: CMK - Christianstads MotorbåtsKlubb
@@ -56586,6 +56813,14 @@ entries:
   - dykklubb
   - dykskola
   web: http://www.isbjornarna.com/
+
+- entry: 1236745954
+  orgName: SPF Seniorerna Jössebygden Arvika
+  orgNumber: 802528-3691
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/varmlandsdistriktet/foreningslista/spf-seniorerna-jossebygden-arvika/
 
 - entry: 1236750251
   orgName: UpplevVadstena AB
