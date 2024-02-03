@@ -1395,6 +1395,15 @@ entries:
   - patientförening
   web: https://diabetesorg.se/
 
+- entry: 1230157131
+  orgName: Västers Bordtennisklubb Motala
+  orgNumber: 824000-4260
+  comment: null
+  categories:
+  - bordtennisklubb
+  - idrottsförening
+  web: https://vastersbtk.se/
+
 - entry: 1230157693
   orgName: Stiftelsen Hippocampus
   orgNumber: 802401-3404
@@ -3843,6 +3852,7 @@ entries:
   orgNumber: 839401-1343
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: http://sonnertorpgolf.se/
 
@@ -5329,6 +5339,15 @@ entries:
   - intresseförening
   - makerspace
   web: https://www.uppsalamakerspace.se/
+
+- entry: 1230565879
+  orgName: Sportfiskeklubben Spinn
+  orgNumber: 829500-6475
+  comment: null
+  categories:
+  - fiskeklubb
+  - sportfiskeklubb
+  web: https://sfkspinn.com/
 
 - entry: 1230567255
   orgName: Falu BS Bandy
@@ -12800,6 +12819,15 @@ entries:
   - ridsport
   web: https://naasridcenter.se/
 
+- entry: 1231370204
+  orgName: Mora Tennisklubb
+  orgNumber: 884400-5861
+  comment: null
+  categories:
+  - idrottsförening
+  - tennisklubb
+  web: https://moratennisklubb.klubbenonline.se/
+
 - entry: 1231370360
   orgName: Mattmars Hembygdsförening
   orgNumber: 893201-3066
@@ -15553,6 +15581,17 @@ entries:
   - intresseförening
   web: http://slottsskogsobservatoriet.se/
 
+- entry: 1231656362
+  orgName: Senioruniversitetet Hudiksvall
+  orgNumber: 802509-2597
+  comment: null
+  categories:
+  - folkbildning
+  - folkuniversitet
+  - utbildning
+  - vuxenutbildning
+  web: https://www.folkuniversitetet.se/om-folkuniversitetet/Samarbeten/Senioruniversitet/senioruniversitetet-hudiksvall/
+
 - entry: 1231656826
   orgName: 2HELPINGHANDS
   orgNumber: 802513-5719
@@ -17064,6 +17103,14 @@ entries:
   - djurskydd
   - katthem
   web: https://www.frusnatassar.se/
+
+- entry: 1231812197
+  orgName: EFS Missionsförening i Borås
+  orgNumber: 864500-1960
+  comment: null
+  categories:
+  - religion
+  web: https://lutha.se/
 
 - entry: 1231812296
   orgName: Holsby Frikyrka
@@ -19508,6 +19555,7 @@ entries:
   orgNumber: 838201-8813
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://dwgolfklubb.se/
 
@@ -22538,6 +22586,15 @@ entries:
   - donation
   web: https://www.leksaksbiblioteket.se/
 
+- entry: 1232419281
+  orgName: Pistolklubben Elbogen
+  orgNumber: 846000-3778
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - sportskytte
+  web: http://www.pk-elbogen.se/
+
 - entry: 1232423374
   orgName: Makalösa Föräldrar Halmstad
   orgNumber: 802534-5243
@@ -23619,6 +23676,14 @@ entries:
   - anhörigorganisation
   - föräldraförening
   web: https://www.autism.se/varmland/
+
+- entry: 1232597110
+  orgName: Familjen Daneshmand AB / Sff i Sverige AB
+  orgNumber: 559152-0365
+  comment: null
+  categories:
+  - fitness
+  web: https://swedishff.com/
 
 - entry: 1232598225
   orgName: Krägga Herrgård AB
@@ -25033,6 +25098,15 @@ entries:
   - hästsport
   - ryttarförening
   web: http://stjarnholmsrf.se/
+
+- entry: 1232741429
+  orgName: Kalix Skidklubb
+  orgNumber: 898200-4692
+  comment: null
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.kalixskidklubb.se/
 
 - entry: 1232741999
   orgName: Lions Club Österåker
@@ -30987,6 +31061,15 @@ entries:
   - hälsa
   - styrketräning
   web: https://powerwomanathleticclub.org/
+
+- entry: 1233476389
+  orgName: Idrottsföreningen Linnéa
+  orgNumber: 802002-0841
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  web: https://www.iflinnea.se/
 
 - entry: 1233477908
   orgName: Svensk Förening för Bröstradiologi, SFBR
@@ -37065,6 +37148,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/svardsjoenviken/
 
+- entry: 1234256319
+  orgName: Enskede Sportfiskeklubb
+  orgNumber: 802009-2345
+  comment: null
+  categories:
+  - sportfiske
+  - sportfiskeklubb
+  web: https://esfk.se/
+
 - entry: 1234256863
   orgName: Sanden Ryttarsällskap
   orgNumber: 802538-2469
@@ -37074,6 +37166,14 @@ entries:
   - ridsport
   - ryttarsällskap
   web: https://www.sandenranch.com/om/sanden-ryttarsallskap/
+
+- entry: 1234257341
+  orgName: Säffle Schackklubb
+  orgNumber: 874001-4553
+  comment: null
+  categories:
+  - schackklubb
+  web: https://saffle.schack.se/
 
 - entry: 1234260980
   orgName: Lions Club Bålsta
@@ -40270,6 +40370,14 @@ entries:
   - idrottsförening
   - kajak
   web: https://www.kajak.org/
+
+- entry: 1234657821
+  orgName: Nordea Seniorklubb
+  orgNumber: 802432-2326
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.nordeaseniorer.se/
 
 - entry: 1234659975
   orgName: Ockelbo Atlet Klubb
@@ -45017,6 +45125,15 @@ entries:
   categories:
   - gymnastikförening
   web: https://www.lulegymnasterna.com/
+
+- entry: 1235279567
+  orgName: Katrineholms SK FK
+  orgNumber: 818501-5594
+  comment: null
+  categories:
+  - idrottsförening
+  - sportklubb
+  web: https://www.laget.se/kskfk/
 
 - entry: 1235279682
   orgName: Korskyrkan i Ludvika
@@ -50798,6 +50915,14 @@ entries:
   - donation
   - religion
   web: https://www.forshedamission.se/
+
+- entry: 1235960372
+  orgName: Unionen Seniorer Jönköping
+  orgNumber: 802450-4238
+  comment: null
+  categories:
+  - intresseförening
+  web: http://www.unsen.dinstudio.se/1/1/hem/
 
 - entry: 1235964184
   orgName: Rid och Musik Föreningen Lindebolarna

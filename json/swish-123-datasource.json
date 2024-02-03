@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-03-rev-160056",
+    "date": "2024-02-03-rev-190505",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1543,6 +1543,16 @@
         "patientf\u00f6rening"
       ],
       "web": "https://diabetesorg.se/"
+    },
+    {
+      "entry": 1230157131,
+      "orgNumber": "824000-4260",
+      "orgName": "V\u00e4sters Bordtennisklubb Motala",
+      "categories": [
+        "bordtennisklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://vastersbtk.se/"
     },
     {
       "entry": 1230157693,
@@ -4313,6 +4323,7 @@
       "orgNumber": "839401-1343",
       "orgName": "S\u00f6nnertorp Golf",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "http://sonnertorpgolf.se/"
@@ -5978,6 +5989,16 @@
         "makerspace"
       ],
       "web": "https://www.uppsalamakerspace.se/"
+    },
+    {
+      "entry": 1230565879,
+      "orgNumber": "829500-6475",
+      "orgName": "Sportfiskeklubben Spinn",
+      "categories": [
+        "fiskeklubb",
+        "sportfiskeklubb"
+      ],
+      "web": "https://sfkspinn.com/"
     },
     {
       "entry": 1230567255,
@@ -14355,6 +14376,16 @@
       "web": "https://naasridcenter.se/"
     },
     {
+      "entry": 1231370204,
+      "orgNumber": "884400-5861",
+      "orgName": "Mora Tennisklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "tennisklubb"
+      ],
+      "web": "https://moratennisklubb.klubbenonline.se/"
+    },
+    {
       "entry": 1231370360,
       "orgNumber": "893201-3066",
       "orgName": "Mattmars Hembygdsf\u00f6rening",
@@ -17446,6 +17477,18 @@
       "web": "http://slottsskogsobservatoriet.se/"
     },
     {
+      "entry": 1231656362,
+      "orgNumber": "802509-2597",
+      "orgName": "Senioruniversitetet Hudiksvall",
+      "categories": [
+        "folkbildning",
+        "folkuniversitet",
+        "utbildning",
+        "vuxenutbildning"
+      ],
+      "web": "https://www.folkuniversitetet.se/om-folkuniversitetet/Samarbeten/Senioruniversitet/senioruniversitetet-hudiksvall/"
+    },
+    {
       "entry": 1231656826,
       "orgNumber": "802513-5719",
       "orgName": "2HELPINGHANDS",
@@ -19150,6 +19193,15 @@
         "katthem"
       ],
       "web": "https://www.frusnatassar.se/"
+    },
+    {
+      "entry": 1231812197,
+      "orgNumber": "864500-1960",
+      "orgName": "EFS Missionsf\u00f6rening i Bor\u00e5s",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://lutha.se/"
     },
     {
       "entry": 1231812296,
@@ -21888,6 +21940,7 @@
       "orgNumber": "838201-8813",
       "orgName": "Degeberga-Widsk\u00f6fle Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://dwgolfklubb.se/"
@@ -25294,6 +25347,16 @@
       "web": "https://www.leksaksbiblioteket.se/"
     },
     {
+      "entry": 1232419281,
+      "orgNumber": "846000-3778",
+      "orgName": "Pistolklubben Elbogen",
+      "categories": [
+        "pistolskytteklubb",
+        "sportskytte"
+      ],
+      "web": "http://www.pk-elbogen.se/"
+    },
+    {
       "entry": 1232423374,
       "orgNumber": "802534-5243",
       "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar Halmstad",
@@ -26479,6 +26542,15 @@
         "f\u00f6r\u00e4ldraf\u00f6rening"
       ],
       "web": "https://www.autism.se/varmland/"
+    },
+    {
+      "entry": 1232597110,
+      "orgNumber": "559152-0365",
+      "orgName": "Familjen Daneshmand AB / Sff i Sverige AB",
+      "categories": [
+        "fitness"
+      ],
+      "web": "https://swedishff.com/"
     },
     {
       "entry": 1232598225,
@@ -28088,6 +28160,16 @@
         "ryttarf\u00f6rening"
       ],
       "web": "http://stjarnholmsrf.se/"
+    },
+    {
+      "entry": 1232741429,
+      "orgNumber": "898200-4692",
+      "orgName": "Kalix Skidklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.kalixskidklubb.se/"
     },
     {
       "entry": 1232741999,
@@ -34748,6 +34830,16 @@
         "styrketr\u00e4ning"
       ],
       "web": "https://powerwomanathleticclub.org/"
+    },
+    {
+      "entry": 1233476389,
+      "orgNumber": "802002-0841",
+      "orgName": "Idrottsf\u00f6reningen Linn\u00e9a",
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.iflinnea.se/"
     },
     {
       "entry": 1233477908,
@@ -41589,6 +41681,16 @@
       "web": "https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/svardsjoenviken/"
     },
     {
+      "entry": 1234256319,
+      "orgNumber": "802009-2345",
+      "orgName": "Enskede Sportfiskeklubb",
+      "categories": [
+        "sportfiske",
+        "sportfiskeklubb"
+      ],
+      "web": "https://esfk.se/"
+    },
+    {
       "entry": 1234256863,
       "orgNumber": "802538-2469",
       "orgName": "Sanden Ryttars\u00e4llskap",
@@ -41598,6 +41700,15 @@
         "ryttars\u00e4llskap"
       ],
       "web": "https://www.sandenranch.com/om/sanden-ryttarsallskap/"
+    },
+    {
+      "entry": 1234257341,
+      "orgNumber": "874001-4553",
+      "orgName": "S\u00e4ffle Schackklubb",
+      "categories": [
+        "schackklubb"
+      ],
+      "web": "https://saffle.schack.se/"
     },
     {
       "entry": 1234260980,
@@ -45194,6 +45305,15 @@
         "kajak"
       ],
       "web": "https://www.kajak.org/"
+    },
+    {
+      "entry": 1234657821,
+      "orgNumber": "802432-2326",
+      "orgName": "Nordea Seniorklubb",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.nordeaseniorer.se/"
     },
     {
       "entry": 1234659975,
@@ -50525,6 +50645,16 @@
         "gymnastikf\u00f6rening"
       ],
       "web": "https://www.lulegymnasterna.com/"
+    },
+    {
+      "entry": 1235279567,
+      "orgNumber": "818501-5594",
+      "orgName": "Katrineholms SK FK",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sportklubb"
+      ],
+      "web": "https://www.laget.se/kskfk/"
     },
     {
       "entry": 1235279682,
@@ -57006,6 +57136,15 @@
         "religion"
       ],
       "web": "https://www.forshedamission.se/"
+    },
+    {
+      "entry": 1235960372,
+      "orgNumber": "802450-4238",
+      "orgName": "Unionen Seniorer J\u00f6nk\u00f6ping",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.unsen.dinstudio.se/1/1/hem/"
     },
     {
       "entry": 1235964184,
