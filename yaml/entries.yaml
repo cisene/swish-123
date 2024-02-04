@@ -224,6 +224,15 @@ entries:
   - textil
   web: https://www.skapandebroderi.se/
 
+- entry: 1230017251
+  orgName: Golf Store Group
+  orgNumber: 769627-9244
+  comment: null
+  categories:
+  - försäljning
+  - golfutrustning
+  web: https://www.golfstore.se/
+
 - entry: 1230017442
   orgName: Bro-Håbo Brukshundklubb
   orgNumber: 813200-3461
@@ -7012,6 +7021,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1230753244
+  orgName: PRO Tyresö
+  orgNumber: 812400-9781
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-tyreso/foreningar/tyreso.html
+
 - entry: 1230753392
   orgName: SeniorNet Botkyrka
   orgNumber: 802410-9939
@@ -9306,6 +9323,14 @@ entries:
   - religion
   web: null
 
+- entry: 1230991364
+  orgName: PRO Teg
+  orgNumber: 894000-7118
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-umea/foreningar/teg.html
+
 - entry: 1230993246
   orgName: Orakel Sara / Eva Edman
   orgNumber: 711025-XXXX
@@ -10209,6 +10234,17 @@ entries:
   categories:
   - djurskydd
   web: https://hundarlangtarhem.se/
+
+- entry: 1231093764
+  orgName: Jämtlands Lokalhistoriker
+  orgNumber: 893200-7365
+  comment: null
+  categories:
+  - genealogi
+  - historieförening
+  - kulturhistoria
+  - släktforskning
+  web: https://jls.genealogi.se/
 
 - entry: 1231095017
   orgName: Frälsningsarmén
@@ -11330,6 +11366,14 @@ entries:
   categories:
   - marknadsföring
   web: https://www.linghamenterprise.se/
+
+- entry: 1231219823
+  orgName: Kungsängen-Västra Ryds Församling
+  orgNumber: 252003-1952
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/kungsangen
 
 - entry: 1231220037
   orgName: Föreningen Aktiva Hundar i Linköping
@@ -13077,6 +13121,7 @@ entries:
   orgNumber: 802476-7348
   comment: null
   categories:
+  - idrottsförening
   - judoklubb
   - kampsportsförening
   web: https://www.judotrelleborg.se/
@@ -13450,6 +13495,14 @@ entries:
   - galleri
   - konstförening
   web: https://artie.se/
+
+- entry: 1231456847
+  orgName: PRO Sofia
+  orgNumber: 802015-2099
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-stockholm/foreningar/sofia.html
 
 - entry: 1231460179
   orgName: Åtvidabergs Golfklubb
@@ -16005,6 +16058,14 @@ entries:
   - hembygdsförening
   web: https://www.kisahembygdsgard.se/
 
+- entry: 1231707173
+  orgName: Asklanda-Ornunga Missionsförsamling
+  orgNumber: 864000-0462
+  comment: null
+  categories:
+  - religion
+  web: https://asklanda-ornunga.se/
+
 - entry: 1231707181
   orgName: Tilia
   orgNumber: 802467-5772
@@ -16391,6 +16452,14 @@ entries:
   categories:
   - religion
   web: https://www.vasbypingst.se/
+
+- entry: 1231742360
+  orgName: Allianskyrkan Jönköping
+  orgNumber: 826000-2079
+  comment: null
+  categories:
+  - religion
+  web: https://www.allianskyrkan.se/
 
 - entry: 1231742469
   orgName: Children Aid-Now / Filadelfiaförsamling
@@ -16981,6 +17050,14 @@ entries:
   - dansförening
   web: https://www.tangonorteno.se/
 
+- entry: 1231805969
+  orgName: SKPF Pensionärerna, Distrikt Stockholm
+  orgNumber: 802405-8615
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.skpf.se/
+
 - entry: 1231807379
   orgName: Bifrostorden Logen 28 Gondler
   orgNumber: 332407-6342
@@ -17206,6 +17283,14 @@ entries:
   - religion
   web: https://www.elimkyrkanskovde.se/
 
+- entry: 1231818368
+  orgName: PRO Höganäs
+  orgNumber: 843001-1273
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-hoganas/foreningar/hoganas.html
+
 - entry: 1231818475
   orgName: Kyrklig Samling
   orgNumber: 802001-9371
@@ -17229,6 +17314,14 @@ entries:
   categories:
   - fotoklubb
   web: https://www.alingsasfotoklubb.se/
+
+- entry: 1231819515
+  orgName: Equmenia Ekbackskyrkan
+  orgNumber: 818500-6015
+  comment: null
+  categories:
+  - religion
+  web: https://ekbackskyrkan.se/
 
 - entry: 1231822899
   orgName: Frostvikens församling / Strömsunds pastorat
@@ -23827,6 +23920,15 @@ entries:
   - pensionärsklubb
   web: https://www.laget.se/BKXet/
 
+- entry: 1232620029
+  orgName: Föreningen Fellingsbro Socken
+  orgNumber: 802519-6547
+  comment: null
+  categories:
+  - lokalmedia
+  - nättidning
+  web: https://www.fellingsbro.se/
+
 - entry: 1232620144
   orgName: FBC Bollnäs
   orgNumber: 802428-8170
@@ -24407,6 +24509,14 @@ entries:
   - ornitologi
   web: https://gof.nu/
 
+- entry: 1232683134
+  orgName: Ekbackskyrkans Församling
+  orgNumber: 817606-0229
+  comment: null
+  categories:
+  - religion
+  web: https://ekbackskyrkan.se/
+
 - entry: 1232683415
   orgName: IMK / Maria Karlsson
   orgNumber: 701124-XXXX
@@ -24979,6 +25089,16 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1232720548
+  orgName: Hindås Kanot- o Friluftsklubb
+  orgNumber: 852000-3354
+  comment: null
+  categories:
+  - friluftsklubb
+  - idrottsförening
+  - kanotklubb
+  web: https://hindaskanotklubb.se/
 
 - entry: 1232721223
   orgName: NXTME
@@ -26074,6 +26194,14 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/Helsingborg/
 
+- entry: 1232872554
+  orgName: PRO Gourmet
+  orgNumber: 802474-4586
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-landskrona/foreningar/gourmet.html
+
 - entry: 1232872695
   orgName: Åre Lighthouse
   orgNumber: 802470-5074
@@ -26402,6 +26530,14 @@ entries:
   - yoga
   web: https://healingrummet.webnode.se/
 
+- entry: 1232898815
+  orgName: PRO Älta
+  orgNumber: 814000-5599
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-nacka/foreningar/alta.html
+
 - entry: 1232903136
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -26548,6 +26684,15 @@ entries:
   categories:
   - tidsskrifter
   web: https://plaza.se/
+
+- entry: 1232909976
+  orgName: Vallentuna Konståkningsklubb
+  orgNumber: 816000-4076
+  comment: null
+  categories:
+  - idrottsförening
+  - konståkningsklubb
+  web: https://www.vallentunakk.se/
 
 - entry: 1232917193
   orgName: KFUMs Scoutkår i Härnösand
@@ -27151,6 +27296,14 @@ entries:
   - terminated
   web: null
 
+- entry: 1232992717
+  orgName: PRO Södra Sandby
+  orgNumber: 802418-0484
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-lund/foreningar/sodra-sandby.html
+
 - entry: 1232992840
   orgName: Wasa Golfklubb
   orgNumber: 802471-1817
@@ -27268,6 +27421,14 @@ entries:
   categories:
   - supporterklubb
   web: http://www.blacksupport.se/tifo/
+
+- entry: 1233022035
+  orgName: Equmenia i Asklanda-Ornunga
+  orgNumber: 864000-6188
+  comment: null
+  categories:
+  - religion
+  web: https://asklanda-ornunga.se/
 
 - entry: 1233022688
   orgName: Kvinnojouren Annfrid
@@ -27880,6 +28041,16 @@ entries:
   - catering
   web: https://rentachef.com/
 
+- entry: 1233074796
+  orgName: KK ELEIKO
+  orgNumber: 802456-0826
+  comment: null
+  categories:
+  - idrottsförening
+  - styrketräning
+  - tyngdlyftning
+  web: https://kk-eleiko.se/
+
 - entry: 1233074929
   orgName: Handöls Byalag
   orgNumber: 893203-1720
@@ -28251,6 +28422,7 @@ entries:
   orgNumber: 785500-1009
   comment: null
   categories:
+  - folkets hus
   - lokaluthyrning
   web: https://jarboportalen.se/foreningar/folketshus.php
 
@@ -30493,6 +30665,14 @@ entries:
   - profilkläder
   web: https://www.profeel.se/
 
+- entry: 1233417417
+  orgName: PRO Brastad
+  orgNumber: 854600-5243
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-bohuslan/samorganisationer/samradsgrupp-lysekil/foreningar/brastad.html
+
 - entry: 1233419967
   orgName: Hudiksvalls Förenade Fotboll
   orgNumber: 887500-1193
@@ -32073,6 +32253,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sodraoland
 
+- entry: 1233581477
+  orgName: Pensionärsbowlarna i Örebro
+  orgNumber: 875001-8171
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.orebropbk.se/
+
 - entry: 1233582368
   orgName: Västergötlands Hembygdsförbund
   orgNumber: 866000-6506
@@ -32864,6 +33052,18 @@ entries:
   - hjälporganisation
   web: https://slavaukrainisv.com/
 
+- entry: 1233674132
+  orgName: KFUM Jönköping
+  orgNumber: 826000-1816
+  comment: null
+  categories:
+  - bordtennisklubb
+  - dansklubb
+  - innebandyklubb
+  - klätterklubb
+  - volleybollklubb
+  web: https://kfumjonkoping.sportadmin.se/
+
 - entry: 1233677184
   orgName: Team Rynkeby
   orgNumber: 802534-5466
@@ -33111,6 +33311,15 @@ entries:
   - tennisklubb
   web: https://www.sondrumstk.se/
 
+- entry: 1233718228
+  orgName: BK Olympic
+  orgNumber: 846001-3447
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.bkolympic.se/
+
 - entry: 1233718905
   orgName: Älmeboda Församling
   orgNumber: 252000-6301
@@ -33193,6 +33402,13 @@ entries:
   - basketbollklubb
   - idrottsförening
   web: https://www.malbas.com/
+
+- entry: 1233735545
+  orgName: Kyrkornas Omsorgscentrum
+  orgNumber: 802446-3559
+  comment: null
+  categories: null
+  web: https://helamanniskan.se/kungalv/
 
 - entry: 1233735735
   orgName: Barsebäcks Bygdegård
@@ -34991,6 +35207,15 @@ entries:
   - hundsport
   web: https://falubk.org/
 
+- entry: 1233951993
+  orgName: Torp GoIF
+  orgNumber: 858500-3935
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/Torp_Fotboll_Seniorer/
+
 - entry: 1233952124
   orgName: Sigtuna IF Innebandy
   orgNumber: 802491-5608
@@ -35463,6 +35688,14 @@ entries:
   - stiftelse
   web: https://pythagorasmuseum.se/
 
+- entry: 1234005864
+  orgName: SKPF Pensionärerna, Distrikt Norrtälje
+  orgNumber: 802430-1262
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.skpf.se/
+
 - entry: 1234006334
   orgName: Kalix Basket
   orgNumber: 898200-6549
@@ -35689,6 +35922,16 @@ entries:
   - religion
   web: null
 
+- entry: 1234040515
+  orgName: Svenska Skyttesportförbundet
+  orgNumber: 802003-1707
+  comment: null
+  categories:
+  - förbund
+  - pistolskytteklubb
+  - sportskytte
+  web: https://www.skyttesport.se/
+
 - entry: 1234041299
   orgName: Insamlingsstiftelsen Trust
   orgNumber: 802481-1666
@@ -35712,6 +35955,16 @@ entries:
   - religion
   - stiftelse
   web: https://vagen.me/
+
+- entry: 1234041554
+  orgName: Skruvs IF
+  orgNumber: 829500-3407
+  comment: null
+  categories:
+  - fotbollsklubb
+  - friidrottsförening
+  - idrottsförening
+  web: https://skruv.net/
 
 - entry: 1234041836
   orgName: Partiet Nyans
@@ -35838,6 +36091,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/TierpsIFFotbollHerr/
+
+- entry: 1234057881
+  orgName: PRO Hammarö
+  orgNumber: 873201-4223
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-varmland/samorganisationer/samorganisation-hammaro/foreningar/hammaro.html
 
 - entry: 1234058251
   orgName: Specialklubben för Bearded Collie
@@ -39821,6 +40082,14 @@ entries:
   - golfklubb
   web: http://www.kalixgolfklubb.se/
 
+- entry: 1234584363
+  orgName: Posten Seniorerna Kronoberg
+  orgNumber: 802465-2482
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.postsenior.se/
+
 - entry: 1234584504
   orgName: Södra Ölands Pastorat
   orgNumber: 252003-8874
@@ -41527,6 +41796,7 @@ entries:
   orgNumber: 863500-5179
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.alegk.se/
 
@@ -43190,6 +43460,14 @@ entries:
   - barnverksamhet
   - teater
   web: https://www.teatertrassel.se/
+
+- entry: 1235092408
+  orgName: PRO Nynäshamn
+  orgNumber: 812400-9773
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distriktstockholmslan/samorganisationer/samorganisationnynashamn/foreningar/nynashamn.4.31d021f716ff6d19167c08fc.html
 
 - entry: 1235093414
   orgName: YuBe AB
@@ -45151,6 +45429,16 @@ entries:
   - bandyklubb
   - idrottsförening
   web: https://www.surtebandy.se/
+
+- entry: 1235279906
+  orgName: Bröstcancerföreningen Maria Gävleborg
+  orgNumber: 885001-3197
+  comment: null
+  categories:
+  - anhörigorganisation
+  - bröstcancer
+  - patientförening
+  web: https://gavleborg.brostcancerforbundet.se/
 
 - entry: 1235281233
   orgName: Fotoklubben Kamera - Ängelholm
@@ -48031,6 +48319,22 @@ entries:
   - cafe
   web: http://www.cafetrappaner.se/
 
+- entry: 1235611090
+  orgName: PRO Billinge-Stockamöllan
+  orgNumber: 957084-8656
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-eslov/foreningar/billinge-stockamollan.html
+
+- entry: 1235611272
+  orgName: PRO Oxie
+  orgNumber: 846002-5540
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/oxie.html
+
 - entry: 1235611389
   orgName: Swedish Stokies
   orgNumber: 802496-0216
@@ -48270,6 +48574,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/bjuraker
+
+- entry: 1235634530
+  orgName: SKPF Pensionärerna, Distrikt Stockholm
+  orgNumber: 802405-8615
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.skpf.se/
 
 - entry: 1235636352
   orgName: Föreningen Mot Bättre Vetande
@@ -48990,6 +49302,14 @@ entries:
   categories: null
   web: null
 
+- entry: 1235716121
+  orgName: PRO Lomma
+  orgNumber: 846003-7560
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-lomma/foreningar/lomma.html
+
 - entry: 1235716402
   orgName: Föreningen S:t Mikael
   orgNumber: 839401-1434
@@ -49537,6 +49857,15 @@ entries:
   - speleologi
   web: https://speleo.se/
 
+- entry: 1235787676
+  orgName: Svenska Stråklärarförbundet - ESTA Sweden
+  orgNumber: 802404-5208
+  comment: null
+  categories:
+  - musiker
+  - utbildning
+  web: https://estasweden.se/
+
 - entry: 1235788567
   orgName: AFS Interkultur Sverige
   orgNumber: 802525-9998
@@ -49867,6 +50196,14 @@ entries:
   - patientförening
   - strokeforskning
   web: https://orebrolansstrokeforening.org/
+
+- entry: 1235840640
+  orgName: Bräknetrampen
+  orgNumber: null
+  comment: null
+  categories:
+  - festival
+  web: https://www.braknetrampen.se/
 
 - entry: 1235841366
   orgName: Hos Malin - Medicinsk fotvård / Malin Danielsson
@@ -52849,6 +53186,15 @@ entries:
   - katthem
   web: https://www.kattpatrullen.com/
 
+- entry: 1236213102
+  orgName: Prostatacancerföreningen Träpatronerna
+  orgNumber: 889203-0886
+  comment: null
+  categories:
+  - patientförening
+  - prostatacancer
+  web: https://prostatacancerforbundet.se/om-oss/patientforeningar/vasternorrland/prostatacancerforeningen-trapatronerna/
+
 - entry: 1236214407
   orgName: Team Rynkeby
   orgNumber: 802535-9137
@@ -54312,6 +54658,23 @@ entries:
   - hundsport
   web: https://www.svenskahoopersklubben.se/
 
+- entry: 1236401194
+  orgName: Ekbackskyrkans Innebandyklubb
+  orgNumber: 802449-4943
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://ekbackskyrkan.se/
+
+- entry: 1236401574
+  orgName: PRO Bomhus
+  orgNumber: 885001-8170
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle/foreningar/bomhus.html
+
 - entry: 1236402804
   orgName: Vår Frälsares Katolska Församling
   orgNumber: 252002-8198
@@ -55019,6 +55382,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1236490148
+  orgName: Slätafly Byalag
+  orgNumber: 802443-7264
+  comment: null
+  categories:
+  - byalag
+  web: https://www.slatafly.se/
 
 - entry: 1236492466
   orgName: Synskadades Riksförbund Bohuslän
@@ -55780,6 +56151,15 @@ entries:
   - ridläger
   - ridskola
   web: https://vedbande.nu/
+
+- entry: 1236583769
+  orgName: Granöbygdens Golfklubb
+  orgNumber: 802418-3785
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://www.granobygdensgk.se/
 
 - entry: 1236590566
   orgName: Gävle Församling
@@ -56818,6 +57198,14 @@ entries:
   categories:
   - intresseförening
   web: https://m.facebook.com/p/Fackelt%C3%A5get-Lysekil-100086448344843/
+
+- entry: 1236729453
+  orgName: Lettlandshjälpen Gotland
+  orgNumber: 802540-7407
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://lettlandshjalpen.se/
 
 - entry: 1236730170
   orgName: Svenska Journalistförbundets Insamlingsfond

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-03-rev-190505",
+    "date": "2024-02-04-rev-131841",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -244,6 +244,16 @@
         "textil"
       ],
       "web": "https://www.skapandebroderi.se/"
+    },
+    {
+      "entry": 1230017251,
+      "orgNumber": "769627-9244",
+      "orgName": "Golf Store Group",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "golfutrustning"
+      ],
+      "web": "https://www.golfstore.se/"
     },
     {
       "entry": 1230017442,
@@ -7880,6 +7890,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1230753244,
+      "orgNumber": "812400-9781",
+      "orgName": "PRO Tyres\u00f6",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-tyreso/foreningar/tyreso.html"
+    },
+    {
       "entry": 1230753392,
       "orgNumber": "802410-9939",
       "orgName": "SeniorNet Botkyrka",
@@ -10438,6 +10457,15 @@
       ]
     },
     {
+      "entry": 1230991364,
+      "orgNumber": "894000-7118",
+      "orgName": "PRO Teg",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-umea/foreningar/teg.html"
+    },
+    {
       "entry": 1230993246,
       "orgNumber": "711025-XXXX",
       "orgName": "Orakel Sara / Eva Edman",
@@ -11461,6 +11489,18 @@
         "djurskydd"
       ],
       "web": "https://hundarlangtarhem.se/"
+    },
+    {
+      "entry": 1231093764,
+      "orgNumber": "893200-7365",
+      "orgName": "J\u00e4mtlands Lokalhistoriker",
+      "categories": [
+        "genealogi",
+        "historief\u00f6rening",
+        "kulturhistoria",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://jls.genealogi.se/"
     },
     {
       "entry": 1231095017,
@@ -12708,6 +12748,15 @@
         "marknadsf\u00f6ring"
       ],
       "web": "https://www.linghamenterprise.se/"
+    },
+    {
+      "entry": 1231219823,
+      "orgNumber": "252003-1952",
+      "orgName": "Kungs\u00e4ngen-V\u00e4stra Ryds F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/kungsangen"
     },
     {
       "entry": 1231220037,
@@ -14667,6 +14716,7 @@
       "orgNumber": "802476-7348",
       "orgName": "Trelleborg Judo",
       "categories": [
+        "idrottsf\u00f6rening",
         "judoklubb",
         "kampsportsf\u00f6rening"
       ],
@@ -15088,6 +15138,15 @@
         "konstf\u00f6rening"
       ],
       "web": "https://artie.se/"
+    },
+    {
+      "entry": 1231456847,
+      "orgNumber": "802015-2099",
+      "orgName": "PRO Sofia",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-stockholm/foreningar/sofia.html"
     },
     {
       "entry": 1231460179,
@@ -17954,6 +18013,15 @@
       "web": "https://www.kisahembygdsgard.se/"
     },
     {
+      "entry": 1231707173,
+      "orgNumber": "864000-0462",
+      "orgName": "Asklanda-Ornunga Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://asklanda-ornunga.se/"
+    },
+    {
       "entry": 1231707181,
       "orgNumber": "802467-5772",
       "orgName": "Tilia",
@@ -18390,6 +18458,15 @@
         "religion"
       ],
       "web": "https://www.vasbypingst.se/"
+    },
+    {
+      "entry": 1231742360,
+      "orgNumber": "826000-2079",
+      "orgName": "Allianskyrkan J\u00f6nk\u00f6ping",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.allianskyrkan.se/"
     },
     {
       "entry": 1231742469,
@@ -19060,6 +19137,15 @@
       "web": "https://www.tangonorteno.se/"
     },
     {
+      "entry": 1231805969,
+      "orgNumber": "802405-8615",
+      "orgName": "SKPF Pension\u00e4rerna, Distrikt Stockholm",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.skpf.se/"
+    },
+    {
       "entry": 1231807379,
       "orgNumber": "332407-6342",
       "orgName": "Bifrostorden Logen 28 Gondler",
@@ -19310,6 +19396,15 @@
       "web": "https://www.elimkyrkanskovde.se/"
     },
     {
+      "entry": 1231818368,
+      "orgNumber": "843001-1273",
+      "orgName": "PRO H\u00f6gan\u00e4s",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-hoganas/foreningar/hoganas.html"
+    },
+    {
       "entry": 1231818475,
       "orgNumber": "802001-9371",
       "orgName": "Kyrklig Samling",
@@ -19336,6 +19431,15 @@
         "fotoklubb"
       ],
       "web": "https://www.alingsasfotoklubb.se/"
+    },
+    {
+      "entry": 1231819515,
+      "orgNumber": "818500-6015",
+      "orgName": "Equmenia Ekbackskyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://ekbackskyrkan.se/"
     },
     {
       "entry": 1231822899,
@@ -26714,6 +26818,16 @@
       "web": "https://www.laget.se/BKXet/"
     },
     {
+      "entry": 1232620029,
+      "orgNumber": "802519-6547",
+      "orgName": "F\u00f6reningen Fellingsbro Socken",
+      "categories": [
+        "lokalmedia",
+        "n\u00e4ttidning"
+      ],
+      "web": "https://www.fellingsbro.se/"
+    },
+    {
       "entry": 1232620144,
       "orgNumber": "802428-8170",
       "orgName": "FBC Bolln\u00e4s",
@@ -27368,6 +27482,15 @@
         "ornitologi"
       ],
       "web": "https://gof.nu/"
+    },
+    {
+      "entry": 1232683134,
+      "orgNumber": "817606-0229",
+      "orgName": "Ekbackskyrkans F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://ekbackskyrkan.se/"
     },
     {
       "entry": 1232683415,
@@ -28025,6 +28148,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232720548,
+      "orgNumber": "852000-3354",
+      "orgName": "Hind\u00e5s Kanot- o Friluftsklubb",
+      "categories": [
+        "friluftsklubb",
+        "idrottsf\u00f6rening",
+        "kanotklubb"
+      ],
+      "web": "https://hindaskanotklubb.se/"
     },
     {
       "entry": 1232721223,
@@ -29255,6 +29389,15 @@
       "web": "https://www.fralsningsarmen.se/Helsingborg/"
     },
     {
+      "entry": 1232872554,
+      "orgNumber": "802474-4586",
+      "orgName": "PRO Gourmet",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-landskrona/foreningar/gourmet.html"
+    },
+    {
       "entry": 1232872695,
       "orgNumber": "802470-5074",
       "orgName": "\u00c5re Lighthouse",
@@ -29615,6 +29758,15 @@
       "web": "https://healingrummet.webnode.se/"
     },
     {
+      "entry": 1232898815,
+      "orgNumber": "814000-5599",
+      "orgName": "PRO \u00c4lta",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-nacka/foreningar/alta.html"
+    },
+    {
       "entry": 1232903136,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -29781,6 +29933,16 @@
         "tidsskrifter"
       ],
       "web": "https://plaza.se/"
+    },
+    {
+      "entry": 1232909976,
+      "orgNumber": "816000-4076",
+      "orgName": "Vallentuna Konst\u00e5kningsklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.vallentunakk.se/"
     },
     {
       "entry": 1232917193,
@@ -30448,6 +30610,15 @@
       "web": "https://lacrosse.se/"
     },
     {
+      "entry": 1232992717,
+      "orgNumber": "802418-0484",
+      "orgName": "PRO S\u00f6dra Sandby",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-lund/foreningar/sodra-sandby.html"
+    },
+    {
       "entry": 1232992840,
       "orgNumber": "802471-1817",
       "orgName": "Wasa Golfklubb",
@@ -30580,6 +30751,15 @@
         "supporterklubb"
       ],
       "web": "http://www.blacksupport.se/tifo/"
+    },
+    {
+      "entry": 1233022035,
+      "orgNumber": "864000-6188",
+      "orgName": "Equmenia i Asklanda-Ornunga",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://asklanda-ornunga.se/"
     },
     {
       "entry": 1233022688,
@@ -31268,6 +31448,17 @@
       "web": "https://rentachef.com/"
     },
     {
+      "entry": 1233074796,
+      "orgNumber": "802456-0826",
+      "orgName": "KK ELEIKO",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "styrketr\u00e4ning",
+        "tyngdlyftning"
+      ],
+      "web": "https://kk-eleiko.se/"
+    },
+    {
       "entry": 1233074929,
       "orgNumber": "893203-1720",
       "orgName": "Hand\u00f6ls Byalag",
@@ -31671,6 +31862,7 @@
       "orgNumber": "785500-1009",
       "orgName": "J\u00e4rbo Folkets Hus",
       "categories": [
+        "folkets hus",
         "lokaluthyrning"
       ],
       "web": "https://jarboportalen.se/foreningar/folketshus.php"
@@ -34188,6 +34380,15 @@
       "web": "https://www.profeel.se/"
     },
     {
+      "entry": 1233417417,
+      "orgNumber": "854600-5243",
+      "orgName": "PRO Brastad",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-bohuslan/samorganisationer/samradsgrupp-lysekil/foreningar/brastad.html"
+    },
+    {
       "entry": 1233419967,
       "orgNumber": "887500-1193",
       "orgName": "Hudiksvalls F\u00f6renade Fotboll",
@@ -35975,6 +36176,15 @@
       "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
+      "entry": 1233581477,
+      "orgNumber": "875001-8171",
+      "orgName": "Pension\u00e4rsbowlarna i \u00d6rebro",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.orebropbk.se/"
+    },
+    {
       "entry": 1233582368,
       "orgNumber": "866000-6506",
       "orgName": "V\u00e4sterg\u00f6tlands Hembygdsf\u00f6rbund",
@@ -36869,6 +37079,19 @@
       "web": "https://slavaukrainisv.com/"
     },
     {
+      "entry": 1233674132,
+      "orgNumber": "826000-1816",
+      "orgName": "KFUM J\u00f6nk\u00f6ping",
+      "categories": [
+        "bordtennisklubb",
+        "dansklubb",
+        "innebandyklubb",
+        "kl\u00e4tterklubb",
+        "volleybollklubb"
+      ],
+      "web": "https://kfumjonkoping.sportadmin.se/"
+    },
+    {
       "entry": 1233677184,
       "orgNumber": "802534-5466",
       "orgName": "Team Rynkeby",
@@ -37149,6 +37372,16 @@
       "web": "https://www.sondrumstk.se/"
     },
     {
+      "entry": 1233718228,
+      "orgNumber": "846001-3447",
+      "orgName": "BK Olympic",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.bkolympic.se/"
+    },
+    {
       "entry": 1233718905,
       "orgNumber": "252000-6301",
       "orgName": "\u00c4lmeboda F\u00f6rsamling",
@@ -37241,6 +37474,12 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.malbas.com/"
+    },
+    {
+      "entry": 1233735545,
+      "orgNumber": "802446-3559",
+      "orgName": "Kyrkornas Omsorgscentrum",
+      "web": "https://helamanniskan.se/kungalv/"
     },
     {
       "entry": 1233735735,
@@ -39263,6 +39502,16 @@
       "web": "https://falubk.org/"
     },
     {
+      "entry": 1233951993,
+      "orgNumber": "858500-3935",
+      "orgName": "Torp GoIF",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/Torp_Fotboll_Seniorer/"
+    },
+    {
       "entry": 1233952124,
       "orgNumber": "802491-5608",
       "orgName": "Sigtuna IF Innebandy",
@@ -39797,6 +40046,15 @@
       "web": "https://pythagorasmuseum.se/"
     },
     {
+      "entry": 1234005864,
+      "orgNumber": "802430-1262",
+      "orgName": "SKPF Pension\u00e4rerna, Distrikt Norrt\u00e4lje",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.skpf.se/"
+    },
+    {
       "entry": 1234006334,
       "orgNumber": "898200-6549",
       "orgName": "Kalix Basket",
@@ -40050,6 +40308,17 @@
       ]
     },
     {
+      "entry": 1234040515,
+      "orgNumber": "802003-1707",
+      "orgName": "Svenska Skyttesportf\u00f6rbundet",
+      "categories": [
+        "f\u00f6rbund",
+        "pistolskytteklubb",
+        "sportskytte"
+      ],
+      "web": "https://www.skyttesport.se/"
+    },
+    {
       "entry": 1234041299,
       "orgNumber": "802481-1666",
       "orgName": "Insamlingsstiftelsen Trust",
@@ -40067,6 +40336,17 @@
         "stiftelse"
       ],
       "web": "https://vagen.me/"
+    },
+    {
+      "entry": 1234041554,
+      "orgNumber": "829500-3407",
+      "orgName": "Skruvs IF",
+      "categories": [
+        "fotbollsklubb",
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://skruv.net/"
     },
     {
       "entry": 1234041836,
@@ -40208,6 +40488,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/TierpsIFFotbollHerr/"
+    },
+    {
+      "entry": 1234057881,
+      "orgNumber": "873201-4223",
+      "orgName": "PRO Hammar\u00f6",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-varmland/samorganisationer/samorganisation-hammaro/foreningar/hammaro.html"
     },
     {
       "entry": 1234058251,
@@ -44698,6 +44987,15 @@
       "web": "http://www.kalixgolfklubb.se/"
     },
     {
+      "entry": 1234584363,
+      "orgNumber": "802465-2482",
+      "orgName": "Posten Seniorerna Kronoberg",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.postsenior.se/"
+    },
+    {
       "entry": 1234584504,
       "orgNumber": "252003-8874",
       "orgName": "S\u00f6dra \u00d6lands Pastorat",
@@ -46608,6 +46906,7 @@
       "orgNumber": "863500-5179",
       "orgName": "Ale Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.alegk.se/"
@@ -48470,6 +48769,15 @@
         "teater"
       ],
       "web": "https://www.teatertrassel.se/"
+    },
+    {
+      "entry": 1235092408,
+      "orgNumber": "812400-9773",
+      "orgName": "PRO Nyn\u00e4shamn",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distriktstockholmslan/samorganisationer/samorganisationnynashamn/foreningar/nynashamn.4.31d021f716ff6d19167c08fc.html"
     },
     {
       "entry": 1235093414,
@@ -50674,6 +50982,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.surtebandy.se/"
+    },
+    {
+      "entry": 1235279906,
+      "orgNumber": "885001-3197",
+      "orgName": "Br\u00f6stcancerf\u00f6reningen Maria G\u00e4vleborg",
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "br\u00f6stcancer",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://gavleborg.brostcancerforbundet.se/"
     },
     {
       "entry": 1235281233,
@@ -53936,6 +54255,24 @@
       "web": "http://www.cafetrappaner.se/"
     },
     {
+      "entry": 1235611090,
+      "orgNumber": "957084-8656",
+      "orgName": "PRO Billinge-Stockam\u00f6llan",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-eslov/foreningar/billinge-stockamollan.html"
+    },
+    {
+      "entry": 1235611272,
+      "orgNumber": "846002-5540",
+      "orgName": "PRO Oxie",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/oxie.html"
+    },
+    {
       "entry": 1235611389,
       "orgNumber": "802496-0216",
       "orgName": "Swedish Stokies",
@@ -54205,6 +54542,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/bjuraker"
+    },
+    {
+      "entry": 1235634530,
+      "orgNumber": "802405-8615",
+      "orgName": "SKPF Pension\u00e4rerna, Distrikt Stockholm",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.skpf.se/"
     },
     {
       "entry": 1235636352,
@@ -55002,6 +55348,15 @@
       "web": "https://www.svenskakyrkan.se/lugnas-ullervad"
     },
     {
+      "entry": 1235716121,
+      "orgNumber": "846003-7560",
+      "orgName": "PRO Lomma",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-lomma/foreningar/lomma.html"
+    },
+    {
       "entry": 1235716402,
       "orgNumber": "839401-1434",
       "orgName": "F\u00f6reningen S:t Mikael",
@@ -55611,6 +55966,16 @@
         "speleologi"
       ],
       "web": "https://speleo.se/"
+    },
+    {
+      "entry": 1235787676,
+      "orgNumber": "802404-5208",
+      "orgName": "Svenska Str\u00e5kl\u00e4rarf\u00f6rbundet - ESTA Sweden",
+      "categories": [
+        "musiker",
+        "utbildning"
+      ],
+      "web": "https://estasweden.se/"
     },
     {
       "entry": 1235788567,
@@ -59293,6 +59658,16 @@
       "web": "https://www.kattpatrullen.com/"
     },
     {
+      "entry": 1236213102,
+      "orgNumber": "889203-0886",
+      "orgName": "Prostatacancerf\u00f6reningen Tr\u00e4patronerna",
+      "categories": [
+        "patientf\u00f6rening",
+        "prostatacancer"
+      ],
+      "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/vasternorrland/prostatacancerforeningen-trapatronerna/"
+    },
+    {
       "entry": 1236214407,
       "orgNumber": "802535-9137",
       "orgName": "Team Rynkeby",
@@ -60941,6 +61316,25 @@
       "web": "https://www.svenskahoopersklubben.se/"
     },
     {
+      "entry": 1236401194,
+      "orgNumber": "802449-4943",
+      "orgName": "Ekbackskyrkans Innebandyklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://ekbackskyrkan.se/"
+    },
+    {
+      "entry": 1236401574,
+      "orgNumber": "885001-8170",
+      "orgName": "PRO Bomhus",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle/foreningar/bomhus.html"
+    },
+    {
       "entry": 1236402804,
       "orgNumber": "252002-8198",
       "orgName": "V\u00e5r Fr\u00e4lsares Katolska F\u00f6rsamling",
@@ -61716,6 +62110,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236490148,
+      "orgNumber": "802443-7264",
+      "orgName": "Sl\u00e4tafly Byalag",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.slatafly.se/"
     },
     {
       "entry": 1236492466,
@@ -62546,6 +62949,16 @@
         "ridskola"
       ],
       "web": "https://vedbande.nu/"
+    },
+    {
+      "entry": 1236583769,
+      "orgNumber": "802418-3785",
+      "orgName": "Gran\u00f6bygdens Golfklubb",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://www.granobygdensgk.se/"
     },
     {
       "entry": 1236590566,
@@ -63698,6 +64111,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://m.facebook.com/p/Fackelt%C3%A5get-Lysekil-100086448344843/"
+    },
+    {
+      "entry": 1236729453,
+      "orgNumber": "802540-7407",
+      "orgName": "Lettlandshj\u00e4lpen Gotland",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://lettlandshjalpen.se/"
     },
     {
       "entry": 1236730170,
