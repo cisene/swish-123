@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-05-rev-233708
+# Date: 2024-02-06-rev-171448
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2031,6 +2031,7 @@
 "1231880939","802527-8824","Sports Heart","https://www.sportsheart.se/","ideell förening,idrottsförening,ungdomsverksamhet,utbildning",""
 "1231881200","802456-5221","Stockholms Rullskidklubb","https://stockholmsrullskidklubb.se/","idrottsförening,rullskidklubb",""
 "1231881218","556975-8344","Visit Blekinge","https://www.visitblekinge.se/","ställplats,turism",""
+"1231881705","802464-9728","Ekbackens Ryttarförening","https://ekbacken.one/","hästsport,ridklubb,ryttarförening",""
 "1231881994","556347-5515","Sommaro Golf AB","http://www.sommarogolf.se/","golfklubb",""
 "1231882067","832400-7809","Vissefjärda Hembygdsförening","https://www.hembygd.se/vissefjarda","hembygdsförening",""
 "1231882216","814800-4610","Skånela IF Handboll","https://www.skanela.se/","handbollsklubb,idrottsförening",""
@@ -3559,6 +3560,7 @@
 "1233485810","252002-4114","Skorpeds Församling","https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped","religion","Diakoni"
 "1233486206","711209-XXXX","SoulMind / Anna Candela","https://soulmind.se/","coaching,föreläsningar,utbildningar",""
 "1233489846","802477-7552","Insamlingsstiftelsen Alois Alzheim","https://www.alzheimerstiftelsen.com/","stiftelse",""
+"1233490166","556781-0261","Ekerö Ridskola","http://www.ekeroridskola.se/","hästsport,ridklubb,ridskola",""
 "1233490273","802467-3801","Sveriges Papegojförening","http://www.papegojforening.se/","husdjur,intresseförening",""
 "1233490505","802490-5963","Ljudkonstgalleriet","http://ljudkonstgalleriet.se/","galleri,intresseförening,konst",""
 "1233491354","802433-9338","Mikosällskapet","https://www.mikosallskapet.se/","kulturförening",""

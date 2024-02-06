@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-05-rev-233708
+Date:     2024-02-06-rev-171448
 ...
 
 # Swish 123 Nummer
@@ -2033,6 +2033,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231880939 | 802527-8824 | Sports Heart                                                                                         |                           |
 | 1231881200 | 802456-5221 | Stockholms Rullskidklubb                                                                             |                           |
 | 1231881218 | 556975-8344 | Visit Blekinge                                                                                       |                           |
+| 1231881705 | 802464-9728 | Ekbackens Ryttarförening                                                                             |                           |
 | 1231881994 | 556347-5515 | Sommaro Golf AB                                                                                      |                           |
 | 1231882067 | 832400-7809 | Vissefjärda Hembygdsförening                                                                         |                           |
 | 1231882216 | 814800-4610 | Skånela IF Handboll                                                                                  |                           |
@@ -3561,6 +3562,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233485810 | 252002-4114 | Skorpeds Församling                                                                                  | Diakoni                   |
 | 1233486206 | 711209-XXXX | SoulMind / Anna Candela                                                                              |                           |
 | 1233489846 | 802477-7552 | Insamlingsstiftelsen Alois Alzheim                                                                   |                           |
+| 1233490166 | 556781-0261 | Ekerö Ridskola                                                                                       |                           |
 | 1233490273 | 802467-3801 | Sveriges Papegojförening                                                                             |                           |
 | 1233490505 | 802490-5963 | Ljudkonstgalleriet                                                                                   |                           |
 | 1233491354 | 802433-9338 | Mikosällskapet                                                                                       |                           |

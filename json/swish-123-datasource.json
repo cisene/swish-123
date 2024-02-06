@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-05-rev-233708",
+    "date": "2024-02-06-rev-171448",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -19948,6 +19948,17 @@
       "web": "https://www.visitblekinge.se/"
     },
     {
+      "entry": 1231881705,
+      "orgNumber": "802464-9728",
+      "orgName": "Ekbackens Ryttarf\u00f6rening",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://ekbacken.one/"
+    },
+    {
       "entry": 1231881994,
       "orgNumber": "556347-5515",
       "orgName": "Sommaro Golf AB",
@@ -35145,6 +35156,17 @@
         "stiftelse"
       ],
       "web": "https://www.alzheimerstiftelsen.com/"
+    },
+    {
+      "entry": 1233490166,
+      "orgNumber": "556781-0261",
+      "orgName": "Eker\u00f6 Ridskola",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "http://www.ekeroridskola.se/"
     },
     {
       "entry": 1233490273,
