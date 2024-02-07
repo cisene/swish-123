@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-06-rev-171448",
+    "date": "2024-02-07-rev-175042",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -9079,6 +9079,17 @@
       "web": "https://atracco.se/anlaggningar/atracco-valla/"
     },
     {
+      "entry": 1230856856,
+      "orgNumber": "836200-5111",
+      "orgName": "Karlshamns Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ridskola"
+      ],
+      "web": "https://www.karlshamnsridklubb.com/"
+    },
+    {
       "entry": 1230857391,
       "orgNumber": "556120-9098",
       "orgName": "Hedengrens Bokhandel AB",
@@ -9883,6 +9894,16 @@
         "religion"
       ],
       "web": "https://hallokapell.com/"
+    },
+    {
+      "entry": 1230917047,
+      "orgNumber": "883200-6889",
+      "orgName": "Sv\u00e4rdsj\u00f6 Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.svardsjoridklubb.se/"
     },
     {
       "entry": 1230917518,
@@ -16118,6 +16139,16 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnojourenmoa/"
+    },
+    {
+      "entry": 1231509090,
+      "orgNumber": "802500-6720",
+      "orgName": "L\u00f6vsl\u00e4ttens H\u00e4stklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://losatyglar.com/"
     },
     {
       "entry": 1231509371,
@@ -34784,6 +34815,16 @@
       "web": "https://www.ostrakarupsbygdegard.se/"
     },
     {
+      "entry": 1233455961,
+      "orgNumber": "836200-2936",
+      "orgName": "Olofstr\u00f6ms RK - Ridsport",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.olofstromsridklubb.com/"
+    },
+    {
       "entry": 1233456399,
       "orgNumber": "802405-0216",
       "orgName": "Sk\u00e4rg\u00e5rdsstiftelsen I Stockholms L\u00e4n",
@@ -35706,6 +35747,16 @@
         "orienteringsklubb"
       ],
       "web": "https://www.roslagsveteranerna.com/"
+    },
+    {
+      "entry": 1233540382,
+      "orgNumber": "802405-1933",
+      "orgName": "Farsta Ryttarv\u00e4nner",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://farstaryttarvanner.se/"
     },
     {
       "entry": 1233540622,
@@ -46235,6 +46286,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1234726196,
+      "orgNumber": "838800-5012",
+      "orgName": "\u00d6sterlens Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.osterlensridklubb.se/"
+    },
+    {
       "entry": 1234729968,
       "orgNumber": "252000-8083",
       "orgName": "Visby Domkyrkof\u00f6rsamling",
@@ -48290,6 +48351,7 @@
       "orgNumber": "810622-XXXX",
       "orgName": "H\u00e4lsog\u00e5rdens Ridcenter / Lovisa Nordstr\u00f6m Andersson",
       "categories": [
+        "h\u00e4stsport",
         "ridskola"
       ],
       "web": "https://halsogardenoland.se/"
@@ -48299,6 +48361,7 @@
       "orgNumber": "833600-3390",
       "orgName": "Gamleby Ridklubb",
       "categories": [
+        "h\u00e4stsport",
         "ridklubb",
         "ridskola"
       ],
@@ -53243,6 +53306,16 @@
         "tennisklubb"
       ],
       "web": "https://www.lillantennis.nu/"
+    },
+    {
+      "entry": 1235510953,
+      "orgNumber": "556890-8429",
+      "orgName": "Swartlings Ridskola Ryttarstadion AB",
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola"
+      ],
+      "web": "https://www.swartlingsridskola.se/"
     },
     {
       "entry": 1235511290,
@@ -62950,6 +63023,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1236555999,
+      "orgNumber": "802431-3077",
+      "orgName": "Rastaborgs Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.rark.se/"
+    },
+    {
       "entry": 1236557987,
       "orgNumber": "802401-4576",
       "orgName": "Specialklubben Rhodesian Ridgeback Sverige, SRRS",
@@ -64777,6 +64860,16 @@
         "hundsport"
       ],
       "web": "https://www.a-lbk.se/"
+    },
+    {
+      "entry": 1236779565,
+      "orgNumber": "887501-1242",
+      "orgName": "Gnarps ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.gnarpsridklubb.se/"
     },
     {
       "entry": 1236779607,
