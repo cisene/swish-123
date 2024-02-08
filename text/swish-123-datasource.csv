@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-07-rev-182142
+# Date: 2024-02-08-rev-013046
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2573,6 +2573,7 @@
 "1232403285","802404-0308","Rättvisepartiet Socialisterna","https://www.socialisterna.org/","politiskt parti","Valfonden"
 "1232403590","802454-7682","Rydaholms Frikyrka","http://www.rydaholmsfrikyrka.se/","religion","Gåvor"
 "1232403657","865500-6164","Gällstads Hembygdsförening","https://ghf.swedenroots.se/","hembygdsförening",""
+"1232403905","883201-0147","Bjursås RK - Ridsport","https://bjursasridklubb.se/","hästsport,ridklubb",""
 "1232404135","862501-2276","Svenska Rottweilerklubben","https://rottweilerklubben.se/","hundklubb,hundsport","Centrala"
 "1232404283","832800-4216","Lions Club Högsby","http://lions.hogsby.net/","lionsklubb",""
 "1232404507","802463-2484","Drivkraft Malmö Ideell Förening","http://www.drivkraftmalmo.se/","förening",""
@@ -3481,6 +3482,7 @@
 "1233389855","802494-3451","Barnets bästa ideell förening","https://www.barnetsbasta.org/","ideell förening,intresseförening",""
 "1233395159","897000-9950","Bröstcancerföreningen Norrbotten","https://norrbotten.brostcancerforbundet.se/","bröstcancer,donation",""
 "1233395175","886000-3907","Söderhamnsortens Ryttarförening","https://www.soderhamnsortensrf.com/","ridklubb,ryttarförening",""
+"1233395621","802422-8523","Finntorps Ridklubb","https://finntorp.net/","hästsport,ridklubb",""
 "1233396322","252000-0932","Sundbybergs Församling","https://www.svenskakyrkan.se/sundbyberg","religion","Fonden för hjälpbehövande"
 "1233397387","835000-6923","Rödeby CK - Motorcykel och Snöskoter","https://www.rck.se/","enduroklubb,motorcykelklubb,snöskoterklubb","Kiosk"
 "1233397619","827500-0795","Stocksbergskyrkan i Korsberga","https://www.kyrktorget.se/stocksbergskyrkan","religion",""
@@ -3603,6 +3605,7 @@
 "1233511938","874000-7839","Lekvattnets Skoterklubb","http://www.lekvattnetsskoterklubb.se/","skoterklubb",""
 "1233513132","817600-9473","Riksförbundet Cystisk Fibros","http://www.rfcf.se/","donation,förbund,intresseorganisation,patientförening,riksförbund",""
 "1233513595","846002-2356","Lillhagens RK - Ridsport","https://www.lillhagen.nu/","hästsport,ridklubb",""
+"1233514130","884400-7214","Orsa Ridklubb","https://www.orsaridklubb.se/","hästsport,ridklubb",""
 "1233514312","887500-9295","Iggesunds IK","https://www.iggesundsik.se/","förening,idrottsförening",""
 "1233514684","802452-3493","Rotary Saltsjöbaden","https://portal.clubrunner.ca/15685/","rotaryklubb",""
 "1233515277","889200-5870","Timrå IK","https://www.timraik.se/","idrottsförening,ishockeyklubb",""
@@ -3795,6 +3798,7 @@
 "1233716628","802499-4553","Föreningen Antoniosgården","https://antoniosgarden.se/","religion",""
 "1233716875","832400-9573","Ridklubben Udden","https://www.ridklubbenudden.com/","hästsport,ridklubb",""
 "1233717261","898500-6421","Vuollerims Ridklubb","https://www.vuollerimsridklubb.com/","hästsport,ridklubb,ridskola",""
+"1233717303","825001-6337","Åby Ridklubb","https://abyridcenter.se/","hästsport,ridklubb","Anläggningsavgift"
 "1233717378","849201-0577","Söndrums Tennisklubb","https://www.sondrumstk.se/","idrottsförening,tennisklubb",""
 "1233718228","846001-3447","BK Olympic","https://www.bkolympic.se/","fotbollsklubb,idrottsförening",""
 "1233718905","252000-6301","Älmeboda Församling","","religion","Kollekt"
@@ -4234,6 +4238,7 @@
 "1234212197","802426-3165","Stiftelsen Uppåkra Arkeologiska Center","https://www.uppakra.se/","arkeologi,utbildning","Gåvor och insamlingar"
 "1234212239","863500-4222","Bohus IF","https://www.bohusif.se/","idrottsförening",""
 "1234213443","769632-5096","Solskensfarmarna ekonomisk förening","https://solskensfarmarna.se/","ekologiskt,jordbruk",""
+"1234214334","825001-6337","Åby Ridklubb","https://abyridcenter.se/","hästsport,ridklubb",""
 "1234214946","872800-3594","Hagfors Uddeholms RK- Ridsport","https://www.hurk.nu/","hästsport,ridklubb,ridsport",""
 "1234215471","660220-XXXX","Yoga Jajaja / Heléne Clemensson","https://yogajajaja.se/","yoga",""
 "1234216891","802000-8184","EFS - Evangeliska Fosterlandsstiftelsen","https://www.efs.nu/","religion","BIAL - Barn i alla länder"
@@ -5856,6 +5861,7 @@
 "1235995493","559349-6069","Bogesunds Gård och Ridskola AB","https://bogesundsgård.se/","jordbruk,ridskola",""
 "1236000889","641223-XXXX","Stadsodlingsvandringar.se / Gatsmart, Ulrika Flodin Furås","https://stadsodlingsvandringar.se/","stadsvandring,trädgårdsodling",""
 "1236003792","802525-0427","Indian Motorcycle Club Sweden","https://www.indiancs.se/","intresseförening,motorcykelklubb",""
+"1236004022","822001-0345","Rappestad Ridklubb","https://rappestadridklubb.se/","hästsport,ridklubb",""
 "1236004303","770507-XXXX","Idda Consulting","","konsult",""
 "1236005615","012615-0168","Svenska Miniature American Shepherdklubben","https://www.miniatureamericanshepherd.se/","hundklubb",""
 "1236005813","824000-7966","SPF Seniorerna Baltzar","https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-seniorerna-baltzar-motala/","pensionärsklubb",""

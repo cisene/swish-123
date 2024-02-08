@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-07-rev-182142",
+    "date": "2024-02-08-rev-013046",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -25362,6 +25362,16 @@
       "web": "https://ghf.swedenroots.se/"
     },
     {
+      "entry": 1232403905,
+      "orgNumber": "883201-0147",
+      "orgName": "Bjurs\u00e5s RK - Ridsport",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://bjursasridklubb.se/"
+    },
+    {
       "entry": 1232404135,
       "orgNumber": "862501-2276",
       "orgName": "Svenska Rottweilerklubben",
@@ -34374,6 +34384,16 @@
       "web": "https://www.soderhamnsortensrf.com/"
     },
     {
+      "entry": 1233395621,
+      "orgNumber": "802422-8523",
+      "orgName": "Finntorps Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://finntorp.net/"
+    },
+    {
       "entry": 1233396322,
       "orgNumber": "252000-0932",
       "orgName": "Sundbybergs F\u00f6rsamling",
@@ -35588,6 +35608,16 @@
         "ridklubb"
       ],
       "web": "https://www.lillhagen.nu/"
+    },
+    {
+      "entry": 1233514130,
+      "orgNumber": "884400-7214",
+      "orgName": "Orsa Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.orsaridklubb.se/"
     },
     {
       "entry": 1233514312,
@@ -37527,6 +37557,17 @@
         "ridskola"
       ],
       "web": "https://www.vuollerimsridklubb.com/"
+    },
+    {
+      "entry": 1233717303,
+      "orgNumber": "825001-6337",
+      "orgName": "\u00c5by Ridklubb",
+      "comment": "Anl\u00e4ggningsavgift",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://abyridcenter.se/"
     },
     {
       "entry": 1233717378,
@@ -41853,6 +41894,16 @@
         "jordbruk"
       ],
       "web": "https://solskensfarmarna.se/"
+    },
+    {
+      "entry": 1234214334,
+      "orgNumber": "825001-6337",
+      "orgName": "\u00c5by Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://abyridcenter.se/"
     },
     {
       "entry": 1234214946,
@@ -57988,6 +58039,16 @@
         "motorcykelklubb"
       ],
       "web": "https://www.indiancs.se/"
+    },
+    {
+      "entry": 1236004022,
+      "orgNumber": "822001-0345",
+      "orgName": "Rappestad Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://rappestadridklubb.se/"
     },
     {
       "entry": 1236004303,

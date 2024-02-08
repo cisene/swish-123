@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-07-rev-182142
+Date:     2024-02-08-rev-013046
 ...
 
 # Swish 123 Nummer
@@ -2575,6 +2575,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232403285 | 802404-0308 | Rättvisepartiet Socialisterna                                                                        | Valfonden                 |
 | 1232403590 | 802454-7682 | Rydaholms Frikyrka                                                                                   | Gåvor                     |
 | 1232403657 | 865500-6164 | Gällstads Hembygdsförening                                                                           |                           |
+| 1232403905 | 883201-0147 | Bjursås RK - Ridsport                                                                                |                           |
 | 1232404135 | 862501-2276 | Svenska Rottweilerklubben                                                                            | Centrala                  |
 | 1232404283 | 832800-4216 | Lions Club Högsby                                                                                    |                           |
 | 1232404507 | 802463-2484 | Drivkraft Malmö Ideell Förening                                                                      |                           |
@@ -3483,6 +3484,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233389855 | 802494-3451 | Barnets bästa ideell förening                                                                        |                           |
 | 1233395159 | 897000-9950 | Bröstcancerföreningen Norrbotten                                                                     |                           |
 | 1233395175 | 886000-3907 | Söderhamnsortens Ryttarförening                                                                      |                           |
+| 1233395621 | 802422-8523 | Finntorps Ridklubb                                                                                   |                           |
 | 1233396322 | 252000-0932 | Sundbybergs Församling                                                                               | Fonden för hjälpbehövande |
 | 1233397387 | 835000-6923 | Rödeby CK - Motorcykel och Snöskoter                                                                 | Kiosk                     |
 | 1233397619 | 827500-0795 | Stocksbergskyrkan i Korsberga                                                                        |                           |
@@ -3605,6 +3607,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233511938 | 874000-7839 | Lekvattnets Skoterklubb                                                                              |                           |
 | 1233513132 | 817600-9473 | Riksförbundet Cystisk Fibros                                                                         |                           |
 | 1233513595 | 846002-2356 | Lillhagens RK - Ridsport                                                                             |                           |
+| 1233514130 | 884400-7214 | Orsa Ridklubb                                                                                        |                           |
 | 1233514312 | 887500-9295 | Iggesunds IK                                                                                         |                           |
 | 1233514684 | 802452-3493 | Rotary Saltsjöbaden                                                                                  |                           |
 | 1233515277 | 889200-5870 | Timrå IK                                                                                             |                           |
@@ -3797,6 +3800,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233716628 | 802499-4553 | Föreningen Antoniosgården                                                                            |                           |
 | 1233716875 | 832400-9573 | Ridklubben Udden                                                                                     |                           |
 | 1233717261 | 898500-6421 | Vuollerims Ridklubb                                                                                  |                           |
+| 1233717303 | 825001-6337 | Åby Ridklubb                                                                                         | Anläggningsavgift         |
 | 1233717378 | 849201-0577 | Söndrums Tennisklubb                                                                                 |                           |
 | 1233718228 | 846001-3447 | BK Olympic                                                                                           |                           |
 | 1233718905 | 252000-6301 | Älmeboda Församling                                                                                  | Kollekt                   |
@@ -4236,6 +4240,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234212197 | 802426-3165 | Stiftelsen Uppåkra Arkeologiska Center                                                               | Gåvor och insamlingar     |
 | 1234212239 | 863500-4222 | Bohus IF                                                                                             |                           |
 | 1234213443 | 769632-5096 | Solskensfarmarna ekonomisk förening                                                                  |                           |
+| 1234214334 | 825001-6337 | Åby Ridklubb                                                                                         |                           |
 | 1234214946 | 872800-3594 | Hagfors Uddeholms RK- Ridsport                                                                       |                           |
 | 1234215471 | 660220-XXXX | Yoga Jajaja / Heléne Clemensson                                                                      |                           |
 | 1234216891 | 802000-8184 | EFS - Evangeliska Fosterlandsstiftelsen                                                              | BIAL - Barn i alla länder |
@@ -5858,6 +5863,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235995493 | 559349-6069 | Bogesunds Gård och Ridskola AB                                                                       |                           |
 | 1236000889 | 641223-XXXX | Stadsodlingsvandringar.se / Gatsmart, Ulrika Flodin Furås                                            |                           |
 | 1236003792 | 802525-0427 | Indian Motorcycle Club Sweden                                                                        |                           |
+| 1236004022 | 822001-0345 | Rappestad Ridklubb                                                                                   |                           |
 | 1236004303 | 770507-XXXX | Idda Consulting                                                                                      |                           |
 | 1236005615 | 012615-0168 | Svenska Miniature American Shepherdklubben                                                           |                           |
 | 1236005813 | 824000-7966 | SPF Seniorerna Baltzar                                                                               |                           |
