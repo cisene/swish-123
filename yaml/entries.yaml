@@ -3581,6 +3581,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/karlskoga
 
+- entry: 1230388066
+  orgName: Lomma Ridklubb
+  orgNumber: 846002-1085
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://lommaridklubb.se/
+
 - entry: 1230388108
   orgName: Kåfalla Herrgård / Bejfab - Berthil Jansson Fastigheter
   orgNumber: 556543-3538
@@ -16050,6 +16059,7 @@ entries:
   comment: null
   categories:
   - hästsport
+  - ridklubb
   - ridskola
   web: http://savaridcenter.se/
 
@@ -19220,6 +19230,16 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://guldsmebacken.se/
+
+- entry: 1232079747
+  orgName: Vanille & Co
+  orgNumber: 559248-0361
+  comment: null
+  categories:
+  - försäljning
+  - hästsport
+  - utrustning
+  web: https://www.vanilleco.se/
 
 - entry: 1232080620
   orgName: Cecilia Kyllinge Humor, Musik & Allvar AB
@@ -53809,6 +53829,15 @@ entries:
   categories:
   - fond
   web: https://kkrva.se/om-tibellska-fonden/
+
+- entry: 1236249478
+  orgName: Väsby Ridklubb
+  orgNumber: 814800-5302
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://vasbyridklubb.se/
 
 - entry: 1236249650
   orgName: Team Rynkeby

@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-08-rev-013046
+Date:     2024-02-09-rev-175921
 ...
 
 # Swish 123 Nummer
@@ -415,6 +415,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230379362 | 252003-1382 | Karlstads Pastorat                                                                                   | Musikverksamhet           |
 | 1230383778 | 802528-6793 | Kappi Islandshästförening                                                                            |                           |
 | 1230385260 | 876400-0413 | Karlskoga Bergslags Hembygdsförening                                                                 |                           |
+| 1230388066 | 846002-1085 | Lomma Ridklubb                                                                                       |                           |
 | 1230388108 | 556543-3538 | Kåfalla Herrgård / Bejfab - Berthil Jansson Fastigheter                                              |                           |
 | 1230389544 | 802438-4912 | Strokeföreningen i Stockholms län                                                                    |                           |
 | 1230389932 | 802533-7794 | Team Rynkeby                                                                                         | Skaraborg, Billingskolan  |
@@ -2195,6 +2196,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232073492 | 556706-5262 | Bäckby Församling                                                                                    | Diverse                   |
 | 1232074235 | 916671-3934 | Carl von Linnékliniken                                                                               |                           |
 | 1232074441 | 893202-9823 | Guldsmedsbackens Bygdegårdsförening                                                                  |                           |
+| 1232079747 | 559248-0361 | Vanille & Co                                                                                         |                           |
 | 1232080620 | 559166-0294 | Cecilia Kyllinge Humor, Musik & Allvar AB                                                            |                           |
 | 1232084283 | 802535-9137 | Team Rynkeby                                                                                         | Kristianstad, Färe Montessoriskola |
 | 1232084317 | 802532-9916 | Team Rynkeby                                                                                         | Malmö, Svalövs Montessori |
@@ -6099,6 +6101,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236248595 | 556882-3461 | Krylbo Trafikskola AB                                                                                |                           |
 | 1236249437 | 559303-6436 | StartupTools Europe AB                                                                               |                           |
 | 1236249460 | 262000-1152 | KKRVA Tibellska Fonden / Kungliga Krigsvetenskapsakademien                                           |                           |
+| 1236249478 | 814800-5302 | Väsby Ridklubb                                                                                       |                           |
 | 1236249650 | 802533-7794 | Team Rynkeby                                                                                         | Skaraborg, Råda skola     |
 | 1236253330 | 864500-4063 | Norrby IF                                                                                            | Akademi                   |
 | 1236257695 | 802478-1778 | Stiftelsen BERAS Intenational                                                                        |                           |

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-08-rev-013046",
+    "date": "2024-02-09-rev-175921",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4026,6 +4026,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/karlskoga"
+    },
+    {
+      "entry": 1230388066,
+      "orgNumber": "846002-1085",
+      "orgName": "Lomma Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://lommaridklubb.se/"
     },
     {
       "entry": 1230388108,
@@ -18003,6 +18013,7 @@
       "orgName": "S\u00e4va Ridcenter AB",
       "categories": [
         "h\u00e4stsport",
+        "ridklubb",
         "ridskola"
       ],
       "web": "http://savaridcenter.se/"
@@ -21557,6 +21568,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://guldsmebacken.se/"
+    },
+    {
+      "entry": 1232079747,
+      "orgNumber": "559248-0361",
+      "orgName": "Vanille & Co",
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "h\u00e4stsport",
+        "utrustning"
+      ],
+      "web": "https://www.vanilleco.se/"
     },
     {
       "entry": 1232080620,
@@ -60364,6 +60386,16 @@
         "fond"
       ],
       "web": "https://kkrva.se/om-tibellska-fonden/"
+    },
+    {
+      "entry": 1236249478,
+      "orgNumber": "814800-5302",
+      "orgName": "V\u00e4sby Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://vasbyridklubb.se/"
     },
     {
       "entry": 1236249650,

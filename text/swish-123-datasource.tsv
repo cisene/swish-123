@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-08-rev-013046
+# Date: 2024-02-09-rev-175921
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -413,6 +413,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230379362	252003-1382	Karlstads Pastorat	https://www.svenskakyrkan.se/karlstadspastorat	religion	Musikverksamhet
 1230383778	802528-6793	Kappi Islandshästförening	https://www.kappi-islandshastforening.se/	hästsport,islandshäst	
 1230385260	876400-0413	Karlskoga Bergslags Hembygdsförening	https://www.hembygd.se/karlskoga	hembygdsförening	
+1230388066	846002-1085	Lomma Ridklubb	https://lommaridklubb.se/	hästsport,ridklubb	
 1230388108	556543-3538	Kåfalla Herrgård / Bejfab - Berthil Jansson Fastigheter	https://kafalla.se/	religion	
 1230389544	802438-4912	Strokeföreningen i Stockholms län	https://stockholmlan.strokeforbundet.se/	anhörigorganisation,patientorganisation	
 1230389932	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Skaraborg, Billingskolan
@@ -1836,7 +1837,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231689066	559305-7937	Henrik Jönsson Media AB	https://henrikjonsson.com/	podcast	
 1231689074	802491-7448	SPF Seniorerna Östra Kind	https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-ostra-kind/	pensionärsklubb	
 1231699263	814400-1172	Lohärads Bygdegårdsförening	https://loharadbygdegard.se/	bygdegårdsförening	
-1231700707	559385-9886	Säva Ridcenter AB	http://savaridcenter.se/	hästsport,ridskola	
+1231700707	559385-9886	Säva Ridcenter AB	http://savaridcenter.se/	hästsport,ridklubb,ridskola	
 1231702687	556706-5262	Västerås Domkyrka	https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka	religion	Ny musik
 1231703206	865501-0307	Ambjörnarps Bygdegårdsförening	https://ambjornarpsbygdegard.se/	bygdegårdsförening	
 1231703214	846000-1475	Israels Vänner	https://www.israelsvanner.se/	religion,turistbyrå	
@@ -2193,6 +2194,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232073492	556706-5262	Bäckby Församling	https://www.svenskakyrkan.se/vasteras/backbykyrkan	religion	Diverse
 1232074235	916671-3934	Carl von Linnékliniken	https://www.linne.se/	fertilitetsklinik,hälsa	
 1232074441	893202-9823	Guldsmedsbackens Bygdegårdsförening	https://guldsmebacken.se/	bygdegårdsförening	
+1232079747	559248-0361	Vanille & Co	https://www.vanilleco.se/	försäljning,hästsport,utrustning	
 1232080620	559166-0294	Cecilia Kyllinge Humor, Musik & Allvar AB	https://www.ceciliakyllinge.se/	musik,underhållning	
 1232084283	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Kristianstad, Färe Montessoriskola
 1232084317	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Malmö, Svalövs Montessori
@@ -6097,6 +6099,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236248595	556882-3461	Krylbo Trafikskola AB	https://krylbotrafikskola.se/	trafikskola	
 1236249437	559303-6436	StartupTools Europe AB	https://startuptools.org/	affärsverksamhet	
 1236249460	262000-1152	KKRVA Tibellska Fonden / Kungliga Krigsvetenskapsakademien	https://kkrva.se/om-tibellska-fonden/	fond	
+1236249478	814800-5302	Väsby Ridklubb	https://vasbyridklubb.se/	hästsport,ridklubb	
 1236249650	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Skaraborg, Råda skola
 1236253330	864500-4063	Norrby IF	https://www.norrbyif.se/	idrottsförening	Akademi
 1236257695	802478-1778	Stiftelsen BERAS Intenational	https://www.berasinternational.se/	donation,stiftelse	
