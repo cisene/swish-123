@@ -24,7 +24,7 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***7188*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***7196*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
@@ -34,7 +34,7 @@ pie title Distribution
     "123 01x xx xx" : 86
     "123 02x xx xx" : 103
     "123 03x xx xx" : 113
-    "123 04x xx xx" : 128
+    "123 04x xx xx" : 129
     "123 05x xx xx" : 86
     "123 06x xx xx" : 83
     "123 07x xx xx" : 132
@@ -43,7 +43,7 @@ pie title Distribution
     "123 10x xx xx" : 106
     "123 11x xx xx" : 93
     "123 12x xx xx" : 118
-    "123 13x xx xx" : 114
+    "123 13x xx xx" : 115
     "123 14x xx xx" : 126
     "123 15x xx xx" : 98
     "123 16x xx xx" : 95
@@ -55,7 +55,7 @@ pie title Distribution
     "123 22x xx xx" : 121
     "123 23x xx xx" : 117
     "123 24x xx xx" : 68
-    "123 25x xx xx" : 78
+    "123 25x xx xx" : 79
     "123 26x xx xx" : 112
     "123 27x xx xx" : 113
     "123 28x xx xx" : 87
@@ -65,14 +65,14 @@ pie title Distribution
     "123 32x xx xx" : 101
     "123 33x xx xx" : 100
     "123 34x xx xx" : 89
-    "123 35x xx xx" : 111
+    "123 35x xx xx" : 112
     "123 36x xx xx" : 93
     "123 37x xx xx" : 78
     "123 38x xx xx" : 114
     "123 39x xx xx" : 93
     "123 40x xx xx" : 71
-    "123 41x xx xx" : 81
-    "123 42x xx xx" : 98
+    "123 41x xx xx" : 82
+    "123 42x xx xx" : 99
     "123 43x xx xx" : 71
     "123 44x xx xx" : 102
     "123 45x xx xx" : 101
@@ -85,7 +85,7 @@ pie title Distribution
     "123 52x xx xx" : 99
     "123 53x xx xx" : 99
     "123 54x xx xx" : 88
-    "123 55x xx xx" : 101
+    "123 55x xx xx" : 102
     "123 56x xx xx" : 101
     "123 57x xx xx" : 100
     "123 58x xx xx" : 93
@@ -95,7 +95,7 @@ pie title Distribution
     "123 62x xx xx" : 105
     "123 63x xx xx" : 73
     "123 64x xx xx" : 91
-    "123 65x xx xx" : 78
+    "123 65x xx xx" : 79
     "123 66x xx xx" : 89
     "123 67x xx xx" : 100
     "123 68x xx xx" : 83

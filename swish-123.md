@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-09-rev-175921
+Date:     2024-02-09-rev-183759
 ...
 
 # Swish 123 Nummer
@@ -535,6 +535,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230483925 | 864500-0764 | Borås CA - Cykel                                                                                     |                           |
 | 1230483941 | 212000-2163 | Leksands Kommun                                                                                      |                           |
 | 1230484071 | 556891-2348 | Stockholms Hundsportcentrum AB                                                                       |                           |
+| 1230484501 | 858500-6425 | Orust Ridklubb                                                                                       |                           |
 | 1230484758 | 252005-0721 | Rommele församling                                                                                   |                           |
 | 1230484923 | 802452-8237 | Djurskyddet Bill & Bull i Söderhamn                                                                  |                           |
 | 1230485573 | 848000-8575 | Ystads Frivillige Bergnings-Corps, Ystads FBC                                                        |                           |
@@ -1518,6 +1519,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231388164 | 822002-9667 | Adventkyrkan i Linköping                                                                             |                           |
 | 1231388180 | 827501-1412 | Holsby Frikyrka                                                                                      | Eden ungdomsgrupp         |
 | 1231388982 | 826000-4372 | Svenska Alliansmissionen                                                                             |                           |
+| 1231390723 | 559320-2343 | Fjällstallet / Sälenfjällets Ridklubb                                                                |                           |
 | 1231393701 | 802539-1056 | OperationAid                                                                                         |                           |
 | 1231394949 | 559186-7675 | Köpings Nya Trafikskola AB                                                                           |                           |
 | 1231402551 | 862501-2300 | Aktiva Seniorer Alingsås                                                                             |                           |
@@ -2682,6 +2684,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232561371 | 802420-0043 | Upplands Väsby Pistolskytteklubb                                                                     |                           |
 | 1232561785 | 802535-5549 | Föreningen Children with love                                                                        |                           |
 | 1232566313 | 559207-8553 | Villa Sunshine AB                                                                                    |                           |
+| 1232567220 | 802530-6591 | Föreningen Nordsvenska Hästen Bohuslän                                                               |                           |
 | 1232567980 | 802476-7488 | Sörfjärdens Golfklubb                                                                                |                           |
 | 1232570687 | 916595-4869 | Nymans Trafikskola HB                                                                                |                           |
 | 1232570844 | 802480-9470 | Insamlingsstiftelsen DOKU                                                                            |                           |
@@ -3638,6 +3641,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233542156 | 802539-3649 | Team Rynkeby                                                                                         | Halland, Klaraskolan      |
 | 1233542164 | 802539-3649 | Team Rynkeby                                                                                         | Halland, Brearedsskolan   |
 | 1233542180 | 802519-9863 | Vän i Umeå                                                                                           |                           |
+| 1233546462 | 849400-4040 | Nordhallands RK - Ridsport                                                                           |                           |
 | 1233546603 | 610204-XXXX | Lenas katthem i Sölvesborg / Lena Kristiansson                                                       |                           |
 | 1233546678 | 252002-7273 | Ljungby Församling                                                                                   |                           |
 | 1233547791 | 802435-6878 | Salt Sydsverige                                                                                      |                           |
@@ -4202,6 +4206,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234181426 | 556981-5425 | Prima Trafikskola AB                                                                                 |                           |
 | 1234181657 | 814801-0815 | Kvinnojouren Sigtuna                                                                                 |                           |
 | 1234182200 | 865500-7493 | SPF Seniorerna Bogesund                                                                              |                           |
+| 1234182556 | 862500-6823 | Melleruds Ridklubb                                                                                   |                           |
 | 1234183190 | 252000-6996 | Odensjö Församling                                                                                   | Kollekt                   |
 | 1234183307 | 802465-8414 | Djurens Vänner Mönsterås                                                                             |                           |
 | 1234190088 | 802015-5860 | Sällskapet Blomstervännerna                                                                          |                           |
@@ -4285,6 +4290,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234263208 | 556657-0643 | Mjölby Golfklubb                                                                                     |                           |
 | 1234263471 | 556848-6285 | 24meter AB                                                                                           |                           |
 | 1234264222 | 849201-4371 | Lions Club Oskarström                                                                                |                           |
+| 1234270096 | 802507-0809 | Team Equus for Hope                                                                                  |                           |
 | 1234270666 | 802010-0262 | CK Falken - Cykel                                                                                    |                           |
 | 1234271276 | 849201-5295 | Halmstads Roddklubb                                                                                  |                           |
 | 1234272183 | 898801-2368 | Sjulnäs Byaförening                                                                                  |                           |
@@ -5430,6 +5436,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235528336 | 802423-1089 | Torsåker Bluegrassfestival                                                                           |                           |
 | 1235528724 | 849600-1424 | Valinge IF                                                                                           |                           |
 | 1235529599 | 802458-7266 | SPF Seniorerna Vintergäcken Mölnlycke                                                                |                           |
+| 1235529730 | 826001-9750 | Norrahammar - Tabergs Ridklubb                                                                       |                           |
 | 1235531041 | 556259-5875 | WIP i Borlänge AB                                                                                    |                           |
 | 1235531116 | 848000-8740 | Lions Club Skurup                                                                                    |                           |
 | 1235531389 | 559046-8525 | Wickström Coaching                                                                                   |                           |
@@ -6381,6 +6388,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236546519 | 671225-XXXX | Let's Skyrocket / Skyrocket Podden / Carola Von Ahn                                                  |                           |
 | 1236548390 | 835000-7954 | Trummenäs Golfklubb                                                                                  |                           |
 | 1236552780 | 849202-3471 | Hallands Släktforskarförening                                                                        |                           |
+| 1236553796 | 916752-7614 | Ljungsjögården Bed & Box                                                                             |                           |
 | 1236555502 | 956940-6243 | VSK Vännerna                                                                                         |                           |
 | 1236555924 | 802534-5938 | Team Rynkeby                                                                                         | Göteborg, Västerhedsskolan |
 | 1236555999 | 802431-3077 | Rastaborgs Ridklubb                                                                                  |                           |

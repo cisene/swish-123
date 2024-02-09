@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-09-rev-175921",
+    "date": "2024-02-09-rev-183759",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3027,6 +3027,7 @@
       "orgNumber": "556707-6889",
       "orgName": "Vallentuna Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.vallentunagk.se/"
@@ -5197,6 +5198,16 @@
         "hundsport"
       ],
       "web": "https://stockholmshundsportcentrum.se/"
+    },
+    {
+      "entry": 1230484501,
+      "orgNumber": "858500-6425",
+      "orgName": "Orust Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.orustridklubb.nu/"
     },
     {
       "entry": 1230484758,
@@ -14854,6 +14865,16 @@
       "web": "https://alliansmissionen.se/"
     },
     {
+      "entry": 1231390723,
+      "orgNumber": "559320-2343",
+      "orgName": "Fj\u00e4llstallet / S\u00e4lenfj\u00e4llets Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.fjallstallet.se/"
+    },
+    {
       "entry": 1231393701,
       "orgNumber": "802539-1056",
       "orgName": "OperationAid",
@@ -18828,6 +18849,7 @@
       "orgNumber": "817606-0633",
       "orgName": "Rotbrunna RF - Ridsport",
       "categories": [
+        "h\u00e4stsport",
         "ridklubb",
         "ryttarf\u00f6rening"
       ],
@@ -26423,6 +26445,15 @@
         "uthyrning"
       ],
       "web": "https://www.villasunshine.nu/"
+    },
+    {
+      "entry": 1232567220,
+      "orgNumber": "802530-6591",
+      "orgName": "F\u00f6reningen Nordsvenska H\u00e4sten Bohusl\u00e4n",
+      "categories": [
+        "h\u00e4stsport"
+      ],
+      "web": "https://www.fnh-bohuslan.se/"
     },
     {
       "entry": 1232567980,
@@ -35931,6 +35962,16 @@
       "web": "https://vaniumea.se/"
     },
     {
+      "entry": 1233546462,
+      "orgNumber": "849400-4040",
+      "orgName": "Nordhallands RK - Ridsport",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.nhrk.se/"
+    },
+    {
       "entry": 1233546603,
       "orgNumber": "610204-XXXX",
       "orgName": "Lenas katthem i S\u00f6lvesborg / Lena Kristiansson",
@@ -41529,6 +41570,16 @@
       "web": "https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bogesund/"
     },
     {
+      "entry": 1234182556,
+      "orgNumber": "862500-6823",
+      "orgName": "Melleruds Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.mellerudsridklubb.com/"
+    },
+    {
       "entry": 1234183190,
       "orgNumber": "252000-6996",
       "orgName": "Odensj\u00f6 F\u00f6rsamling",
@@ -42335,6 +42386,16 @@
         "lionsklubb"
       ],
       "web": "http://lions.oskarstrom.com/"
+    },
+    {
+      "entry": 1234270096,
+      "orgNumber": "802507-0809",
+      "orgName": "Team Equus for Hope",
+      "categories": [
+        "cancerforskning",
+        "h\u00e4stsport"
+      ],
+      "web": "https://teamequusforhope.se/"
     },
     {
       "entry": 1234270666,
@@ -49511,7 +49572,8 @@
       "orgName": "Link\u00f6pings F\u00e4ltrittklubb",
       "categories": [
         "f\u00e4ltrittklubb",
-        "h\u00e4stsport"
+        "h\u00e4stsport",
+        "ridklubb"
       ],
       "web": "https://www.linkopingsfaltrittklubb.se/"
     },
@@ -53762,6 +53824,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/spf-seniorerna-vintergacken-molnlycke/"
+    },
+    {
+      "entry": 1235529730,
+      "orgNumber": "826001-9750",
+      "orgName": "Norrahammar - Tabergs Ridklubb",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.ntrk.se/"
     },
     {
       "entry": 1235531041,
@@ -63204,6 +63276,17 @@
         "sl\u00e4ktforskning"
       ],
       "web": "https://www.hallandsslaktforskare.se/"
+    },
+    {
+      "entry": 1236553796,
+      "orgNumber": "916752-7614",
+      "orgName": "Ljungsj\u00f6g\u00e5rden Bed & Box",
+      "categories": [
+        "h\u00e4stsport",
+        "logi",
+        "stallplats"
+      ],
+      "web": "https://www.ljungsjogarden.se/"
     },
     {
       "entry": 1236555502,

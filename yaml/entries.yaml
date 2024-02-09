@@ -2700,6 +2700,7 @@ entries:
   orgNumber: 556707-6889
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.vallentunagk.se/
 
@@ -4628,6 +4629,15 @@ entries:
   categories:
   - hundsport
   web: https://stockholmshundsportcentrum.se/
+
+- entry: 1230484501
+  orgName: Orust Ridklubb
+  orgNumber: 858500-6425
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://www.orustridklubb.nu/
 
 - entry: 1230484758
   orgName: Rommele församling
@@ -13241,6 +13251,15 @@ entries:
   - religion
   web: https://alliansmissionen.se/
 
+- entry: 1231390723
+  orgName: Fjällstallet / Sälenfjällets Ridklubb
+  orgNumber: 559320-2343
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://www.fjallstallet.se/
+
 - entry: 1231393701
   orgName: OperationAid
   orgNumber: 802539-1056
@@ -16780,6 +16799,7 @@ entries:
   orgNumber: 817606-0633
   comment: null
   categories:
+  - hästsport
   - ridklubb
   - ryttarförening
   web: https://www.rotbrunnarf.com/
@@ -23565,6 +23585,14 @@ entries:
   categories:
   - uthyrning
   web: https://www.villasunshine.nu/
+
+- entry: 1232567220
+  orgName: Föreningen Nordsvenska Hästen Bohuslän
+  orgNumber: 802530-6591
+  comment: null
+  categories:
+  - hästsport
+  web: https://www.fnh-bohuslan.se/
 
 - entry: 1232567543
   orgName: null
@@ -32041,6 +32069,15 @@ entries:
   - ungdomsverksamhet
   web: https://vaniumea.se/
 
+- entry: 1233546462
+  orgName: Nordhallands RK - Ridsport
+  orgNumber: 849400-4040
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://www.nhrk.se/
+
 - entry: 1233546603
   orgName: Lenas katthem i Sölvesborg / Lena Kristiansson
   orgNumber: 610204-XXXX
@@ -37015,6 +37052,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bogesund/
 
+- entry: 1234182556
+  orgName: Melleruds Ridklubb
+  orgNumber: 862500-6823
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://www.mellerudsridklubb.com/
+
 - entry: 1234183190
   orgName: Odensjö Församling
   orgNumber: 252000-6996
@@ -37735,6 +37781,15 @@ entries:
   categories:
   - lionsklubb
   web: http://lions.oskarstrom.com/
+
+- entry: 1234270096
+  orgName: Team Equus for Hope
+  orgNumber: 802507-0809
+  comment: null
+  categories:
+  - cancerforskning
+  - hästsport
+  web: https://teamequusforhope.se/
 
 - entry: 1234270666
   orgName: CK Falken - Cykel
@@ -44119,6 +44174,7 @@ entries:
   categories:
   - fältrittklubb
   - hästsport
+  - ridklubb
   web: https://www.linkopingsfaltrittklubb.se/
 
 - entry: 1235116801
@@ -47895,6 +47951,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/spf-seniorerna-vintergacken-molnlycke/
+
+- entry: 1235529730
+  orgName: Norrahammar - Tabergs Ridklubb
+  orgNumber: 826001-9750
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://www.ntrk.se/
 
 - entry: 1235531041
   orgName: WIP i Borlänge AB
@@ -56376,6 +56441,16 @@ entries:
   - genealogi
   - släktforskning
   web: https://www.hallandsslaktforskare.se/
+
+- entry: 1236553796
+  orgName: Ljungsjögården Bed & Box
+  orgNumber: 916752-7614
+  comment: null
+  categories:
+  - hästsport
+  - logi
+  - stallplats
+  web: https://www.ljungsjogarden.se/
 
 - entry: 1236555502
   orgName: VSK Vännerna
