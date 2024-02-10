@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-09-rev-183759",
+    "date": "2024-02-10-rev-131141",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2501,6 +2501,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230240598,
+      "orgNumber": "833200-5985",
+      "orgName": "Silverdalens Evangelisk Lutherska F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.kapelletsilverdalen.se/"
     },
     {
       "entry": 1230240838,
@@ -6928,6 +6937,16 @@
       "web": "https://www.hembygd.se/almundsryd"
     },
     {
+      "entry": 1230685222,
+      "orgNumber": "802520-1990",
+      "orgName": "Bohusl\u00e4n Dals Fjordh\u00e4stf\u00f6rening",
+      "categories": [
+        "h\u00e4stklubb",
+        "h\u00e4stsport"
+      ],
+      "web": "http://www.bohuslandalsfjord.se/"
+    },
+    {
       "entry": 1230686261,
       "orgNumber": "802522-1733",
       "orgName": "Solanderleden",
@@ -8340,6 +8359,16 @@
       "web": "https://m\u00f6lle.se/"
     },
     {
+      "entry": 1230794891,
+      "orgNumber": "252002-9576",
+      "orgName": "Knista F\u00f6rsamling",
+      "comment": "ljus, gravljus, b\u00f6cker, \u00e4nglar, fika e.dyl",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/knista"
+    },
+    {
       "entry": 1230795567,
       "orgNumber": "802474-0105",
       "orgName": "Grosshamns F\u00e4ltstation",
@@ -9148,6 +9177,16 @@
         "religion"
       ],
       "web": "https://www.burekyrkan.com/"
+    },
+    {
+      "entry": 1230857854,
+      "orgNumber": "818000-9634",
+      "orgName": "Heliga Annas Ortodoxa F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://heligaanna.nu/"
     },
     {
       "entry": 1230858183,
@@ -15718,6 +15757,16 @@
       "web": "https://www.josefssonstrafikskola.se/"
     },
     {
+      "entry": 1231481910,
+      "orgNumber": "252002-9576",
+      "orgName": "Knista F\u00f6rsamling",
+      "comment": "Julinsamlingen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/knista"
+    },
+    {
       "entry": 1231481936,
       "orgNumber": "252002-4163",
       "orgName": "Grundsunda F\u00f6rsamling",
@@ -18410,6 +18459,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://sportforlife.se/"
+    },
+    {
+      "entry": 1231724582,
+      "orgNumber": "844000-6040",
+      "orgName": "Djurskyddet Landskrona",
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd"
+      ],
+      "web": "https://www.djurskyddet.se/landskrona/"
     },
     {
       "entry": 1231727247,
@@ -23253,6 +23312,15 @@
       "web": "https://www.svenskalag.se/kirunaaif"
     },
     {
+      "entry": 1232222149,
+      "orgNumber": "252004-2157",
+      "orgName": "D\u00f6derhults F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/doderhult"
+    },
+    {
       "entry": 1232222206,
       "orgNumber": "898800-9984",
       "orgName": "Pite\u00e5 Summer Games",
@@ -24187,6 +24255,15 @@
         "ridskola"
       ],
       "web": "https://www.kungsbackaridklubb.se/"
+    },
+    {
+      "entry": 1232289726,
+      "orgNumber": "252002-8156",
+      "orgName": "Kristi Lekamens Katolska F\u00f6rsamling, Visby",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://katolskagotland.se/"
     },
     {
       "entry": 1232289734,
@@ -27055,6 +27132,15 @@
       "web": "https://www.lannagk.se/"
     },
     {
+      "entry": 1232630077,
+      "orgNumber": "252002-8297",
+      "orgName": "S:t Konrads Katolska F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.katolskakyrkannacka.se/"
+    },
+    {
       "entry": 1232630556,
       "orgNumber": "681129-XXXX",
       "orgName": "Towas Massage & h\u00e4lsa / Towa Schedvins",
@@ -28997,6 +29083,15 @@
         "f\u00f6rening"
       ],
       "web": "https://www.lerumsfotoklubb.se/"
+    },
+    {
+      "entry": 1232788099,
+      "orgNumber": "802461-2056",
+      "orgName": "Kristi Uppst\u00e5ndelses Ortodoxa F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://kristiuppstandelse.se/"
     },
     {
       "entry": 1232789600,
@@ -31903,6 +31998,16 @@
       "web": "https://www.kiropraktorernavejlo.com/"
     },
     {
+      "entry": 1233117165,
+      "orgNumber": "864000-4548",
+      "orgName": "Equmenia Ljurhalla",
+      "comment": "Ungdomssektionen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://ljurhalla.se/"
+    },
+    {
       "entry": 1233117694,
       "orgNumber": "802000-8713",
       "orgName": "Filadelfiaf\u00f6rsamlingen I Stockholm",
@@ -33269,6 +33374,15 @@
       "web": "https://bygdegardarna.se/stavsjo/"
     },
     {
+      "entry": 1233270998,
+      "orgNumber": "823000-1482",
+      "orgName": "V\u00e4stra Hargs Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.vastraharg.com/"
+    },
+    {
       "entry": 1233273182,
       "orgNumber": "802432-4645",
       "orgName": "SPF Seniorerna Fj\u00e4r\u00e5s",
@@ -34516,6 +34630,15 @@
       "web": "https://www.svenskakyrkan.se/Hyltebruks%20pastorat/femsjo"
     },
     {
+      "entry": 1233399656,
+      "orgNumber": "847000-0988",
+      "orgName": "Trelleborgs Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.equmeniakyrkantrelleborg.se/"
+    },
+    {
       "entry": 1233400132,
       "orgNumber": "849600-5193",
       "orgName": "Lindberga Hembygdsf\u00f6rening",
@@ -34765,6 +34888,16 @@
         "supporterklubb"
       ],
       "web": "http://aiktifo.se/"
+    },
+    {
+      "entry": 1233443835,
+      "orgNumber": "875003-1216",
+      "orgName": "Brokyrkans F\u00f6rsamling",
+      "comment": "Ungdomssektionen",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://brokyrkan.com/"
     },
     {
       "entry": 1233444189,
@@ -41151,6 +41284,16 @@
       "web": "http://holsbyfrikyrka.se/"
     },
     {
+      "entry": 1234123782,
+      "orgNumber": "802468-0871",
+      "orgName": "F\u00f6reningen Nordsvenska H\u00e4sten S\u00f6dra \u00c4lvsborg",
+      "categories": [
+        "h\u00e4stklubb",
+        "h\u00e4stsport"
+      ],
+      "web": "https://nordsvenskar.se/"
+    },
+    {
       "entry": 1234123840,
       "orgNumber": "863500-6730",
       "orgName": "Oasr\u00f6relsen i Sverige",
@@ -41314,6 +41457,15 @@
       "web": "https://wa.scout.se/"
     },
     {
+      "entry": 1234136305,
+      "orgNumber": "252002-8222",
+      "orgName": "Sankt Josef Arbetarens Katolska F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.katolskakyrkanlulea.se/"
+    },
+    {
       "entry": 1234136388,
       "orgNumber": "864000-3565",
       "orgName": "Herrljunga Hembygdsf\u00f6rening",
@@ -41332,6 +41484,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/TIKF0607/"
+    },
+    {
+      "entry": 1234137923,
+      "orgNumber": "252002-8081",
+      "orgName": "Finsk Ortodoxa F\u00f6rsamlingen i Sverige",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.ortodox-finsk.se/"
     },
     {
       "entry": 1234138079,
@@ -41685,6 +41846,16 @@
       "web": "http://www.hammarbykyrkan.nu/"
     },
     {
+      "entry": 1234195020,
+      "orgNumber": "252002-9576",
+      "orgName": "Knista F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/knista"
+    },
+    {
       "entry": 1234195319,
       "orgNumber": "802008-6255",
       "orgName": "\u00d6rnsbergs Scoutk\u00e5r",
@@ -41701,6 +41872,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/LekebergsIF/"
+    },
+    {
+      "entry": 1234196226,
+      "orgNumber": "883800-7998",
+      "orgName": "H\u00f6gbergskyrkans F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://hogbergskyrkan.se/"
     },
     {
       "entry": 1234196754,
@@ -46205,6 +46385,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://orebrohandboll.com/"
+    },
+    {
+      "entry": 1234687638,
+      "orgNumber": "252004-0524",
+      "orgName": "V\u00e4stanfors V\u00e4sterv\u00e5la F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.svenskakyrkan.se/vastanfors"
     },
     {
       "entry": 1234687919,
@@ -51016,6 +51205,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235261219,
+      "orgNumber": "876400-0819",
+      "orgName": "Brokyrkans F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://brokyrkan.com/"
+    },
+    {
       "entry": 1235261805,
       "orgNumber": "894001-0427",
       "orgName": "EFS Missionsf\u00f6rening i S\u00e4var",
@@ -53563,6 +53761,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/CIF/"
+    },
+    {
+      "entry": 1235514526,
+      "orgNumber": "802450-4832",
+      "orgName": "S\u00f6dermanlands H\u00e4stavelsf\u00f6rening",
+      "categories": [
+        "h\u00e4stavel",
+        "h\u00e4stsport",
+        "h\u00e4stuppf\u00f6dning"
+      ],
+      "web": "http://www.shavf.se/"
     },
     {
       "entry": 1235514823,
@@ -58593,6 +58802,15 @@
       "web": "https://www.ingelavocalis.se/"
     },
     {
+      "entry": 1236035083,
+      "orgNumber": "802014-5663",
+      "orgName": "Rinkeby Internationella F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.rinkebykyrkan.se/"
+    },
+    {
       "entry": 1236035158,
       "orgNumber": "869000-8498",
       "orgName": "SPF Seniorerna Lidk\u00f6ping",
@@ -60538,6 +60756,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.curlingklubben.se/"
+    },
+    {
+      "entry": 1236266183,
+      "orgNumber": "879000-4595",
+      "orgName": "Svenska Boxerklubben",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://boxerklubben.org/"
     },
     {
       "entry": 1236266423,
@@ -63017,6 +63245,15 @@
       "web": "https://www.snabbgrus.se/"
     },
     {
+      "entry": 1236524334,
+      "orgNumber": "864000-7566",
+      "orgName": "Equmeniakyrkan Ljurhalla",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://ljurhalla.se/"
+    },
+    {
       "entry": 1236525125,
       "orgNumber": "888800-3368",
       "orgName": "Sollefte\u00e5 Golfklubb",
@@ -63915,6 +64152,15 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/kvinnoochtjejjourenjonkoping/"
+    },
+    {
+      "entry": 1236663579,
+      "orgNumber": "802454-1925",
+      "orgName": "Tunadalskyrkans F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.tunadalskyrkan.se/"
     },
     {
       "entry": 1236664551,
@@ -65186,6 +65432,15 @@
         "fotoklubb"
       ],
       "web": "https://www.alingsasfotoklubb.se/"
+    },
+    {
+      "entry": 1236783914,
+      "orgNumber": "847000-0988",
+      "orgName": "Trelleborgs Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.equmeniakyrkantrelleborg.se/"
     },
     {
       "entry": 1236784441,
