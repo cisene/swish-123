@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-11-rev-154827
+# Date: 2024-02-11-rev-160423
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1034,6 +1034,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230923631	750221-XXXX	Modiga Människor	https://modigamanniskor.se/	podcast	
 1230924571	802445-5795	PRO Forsbacka	https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle/foreningar/forsbacka.html	pensionärsklubb	
 1230924647	802470-3269	Clownclubben	http://clownclubben.se/	donation	
+1230924993	252004-7396	Bergsjö Församling	https://www.svenskakyrkan.se/bergsjo/hassela-kyrka	religion	Hassela kyrka
 1230925099	835000-1122	Ka 2 SF - Skyttesport	https://www.ka2skf.se/	skytteklubb,sportskytte	
 1230925719	556867-2090	Butik Korner AB	https://www.bolagssajten.se/bolag/Butik_Korner_AB/	försäljning	
 1230926048	802443-2224	Åre Ridklubb	https://www.areridklubb.se/	hästsport,ridklubb	Ungdomssektionen
@@ -2743,6 +2744,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232592160	857206-5491	Grafik i Väst	https://www.grafikivast.se/	grafik,konstnärsförening	
 1232592285	897900-5264	Sammakko Fritids och Skoterförening	https://www.sammakko.info/	fritidsförening,skoterklubb	
 1232592426	802472-0800	Svenska Ridtravarföreningen Uppland Västmanland	https://uppvast.se/	förening,hästsport,travsport	
+1232592558	252004-7396	Bergsjö Församling	https://www.svenskakyrkan.se/bergsjo/bergsjo-kyrka	religion	Bergsjö kyrka
 1232593796	671115-XXXX	Roshan SPA och Friskvård	https://www.roshanspa.info/	friskvård,massage	
 1232595296	252003-9203	Bodums församling / Strömsunds pastorat	https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar	religion	
 1232595809	556736-2289	Rena Bilar i Sverige / Rena Hem i Vardagen Stockholm AB	https://renabilar.se/	bilvård	
@@ -2970,6 +2972,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232787802	671223-XXXX	PT Cam / Camilla Åström	https://www.ptcam.se/	yoga	
 1232787927	802440-7507	Lerums Fotoklubb	https://www.lerumsfotoklubb.se/	förening	
 1232788099	802461-2056	Kristi Uppståndelses Ortodoxa Församling	https://kristiuppstandelse.se/	religion	
+1232788875	556510-4972	Veddige Buss & Transport AB	https://www.veddigebuss.se/	busstrafik,charterbuss	
 1232789600	556501-3280	House of Zen i Söderköping AB	https://houseofzen.se/	meditation,yoga	
 1232789949	855100-9882	Riksföreningen Jordens Vänner	https://www.jordensvanner.se/	intresseförening	
 1232795367	802442-6473	Piteå Skidskytte Klubb	http://www.piteaskidskytte.se/	idrottsförening,skidskytteklubb	
@@ -6652,6 +6655,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236764807	560803-XXXX	YOGA VEDA i Hamburgsund	https://yogaveda.se/	yoga	
 1236765242	835001-3093	Kvinnojouren Karlskrona	https://kvinnojourenkarlskrona.se/	kvinnojour	
 1236765408	511209-XXXX	Rossmix / Moa Persson	https://rossmix.se/	hunduppfödning,kennel	
+1236766992	252004-7396	Bergsjö Församling	https://www.svenskakyrkan.se/bergsjo/ilsbo-kyrka	religion	Ilsbo kyrka
 1236769723	802459-0088	Umeå IK	https://www.umeaik.se/	idrottsförening	
 1236769806	825001-8085	Valdemarsviks Hembygdsförening	https://www.hembygd.se/valdemarsvik	hembygdsförening	
 1236772396	827500-3310	Vetlanda Friförsamling	https://vetlandafri.se/	religion	Fastighetskassan

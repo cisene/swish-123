@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-11-rev-154827",
+    "date": "2024-02-11-rev-160423",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -10116,6 +10116,16 @@
         "donation"
       ],
       "web": "http://clownclubben.se/"
+    },
+    {
+      "entry": 1230924993,
+      "orgNumber": "252004-7396",
+      "orgName": "Bergsj\u00f6 F\u00f6rsamling",
+      "comment": "Hassela kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/bergsjo/hassela-kyrka"
     },
     {
       "entry": 1230925099,
@@ -27053,6 +27063,16 @@
       "web": "https://uppvast.se/"
     },
     {
+      "entry": 1232592558,
+      "orgNumber": "252004-7396",
+      "orgName": "Bergsj\u00f6 F\u00f6rsamling",
+      "comment": "Bergsj\u00f6 kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/bergsjo/bergsjo-kyrka"
+    },
+    {
       "entry": 1232593796,
       "orgNumber": "671115-XXXX",
       "orgName": "Roshan SPA och Friskv\u00e5rd",
@@ -29308,6 +29328,16 @@
         "religion"
       ],
       "web": "https://kristiuppstandelse.se/"
+    },
+    {
+      "entry": 1232788875,
+      "orgNumber": "556510-4972",
+      "orgName": "Veddige Buss & Transport AB",
+      "categories": [
+        "busstrafik",
+        "charterbuss"
+      ],
+      "web": "https://www.veddigebuss.se/"
     },
     {
       "entry": 1232789600,
@@ -65848,6 +65878,16 @@
         "kennel"
       ],
       "web": "https://rossmix.se/"
+    },
+    {
+      "entry": 1236766992,
+      "orgNumber": "252004-7396",
+      "orgName": "Bergsj\u00f6 F\u00f6rsamling",
+      "comment": "Ilsbo kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/bergsjo/ilsbo-kyrka"
     },
     {
       "entry": 1236769723,

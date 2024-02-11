@@ -9008,6 +9008,14 @@ entries:
   - donation
   web: http://clownclubben.se/
 
+- entry: 1230924993
+  orgName: Bergsjö Församling
+  orgNumber: 252004-7396
+  comment: Hassela kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bergsjo/hassela-kyrka
+
 - entry: 1230925099
   orgName: Ka 2 SF - Skyttesport
   orgNumber: 835000-1122
@@ -24128,6 +24136,14 @@ entries:
   - travsport
   web: https://uppvast.se/
 
+- entry: 1232592558
+  orgName: Bergsjö Församling
+  orgNumber: 252004-7396
+  comment: Bergsjö kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bergsjo/bergsjo-kyrka
+
 - entry: 1232593796
   orgName: Roshan SPA och Friskvård
   orgNumber: 671115-XXXX
@@ -26121,6 +26137,15 @@ entries:
   categories:
   - religion
   web: https://kristiuppstandelse.se/
+
+- entry: 1232788875
+  orgName: Veddige Buss & Transport AB
+  orgNumber: 556510-4972
+  comment: null
+  categories:
+  - busstrafik
+  - charterbuss
+  web: https://www.veddigebuss.se/
 
 - entry: 1232789600
   orgName: House of Zen i Söderköping AB
@@ -58758,6 +58783,14 @@ entries:
   - hunduppfödning
   - kennel
   web: https://rossmix.se/
+
+- entry: 1236766992
+  orgName: Bergsjö Församling
+  orgNumber: 252004-7396
+  comment: Ilsbo kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bergsjo/ilsbo-kyrka
 
 - entry: 1236769723
   orgName: Umeå IK

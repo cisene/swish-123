@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-11-rev-154827
+Date:     2024-02-11-rev-160423
 ...
 
 # Swish 123 Nummer
@@ -1036,6 +1036,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230923631 | 750221-XXXX | Modiga Människor                                                                                     |                           |
 | 1230924571 | 802445-5795 | PRO Forsbacka                                                                                        |                           |
 | 1230924647 | 802470-3269 | Clownclubben                                                                                         |                           |
+| 1230924993 | 252004-7396 | Bergsjö Församling                                                                                   | Hassela kyrka             |
 | 1230925099 | 835000-1122 | Ka 2 SF - Skyttesport                                                                                |                           |
 | 1230925719 | 556867-2090 | Butik Korner AB                                                                                      |                           |
 | 1230926048 | 802443-2224 | Åre Ridklubb                                                                                         | Ungdomssektionen          |
@@ -2745,6 +2746,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232592160 | 857206-5491 | Grafik i Väst                                                                                        |                           |
 | 1232592285 | 897900-5264 | Sammakko Fritids och Skoterförening                                                                  |                           |
 | 1232592426 | 802472-0800 | Svenska Ridtravarföreningen Uppland Västmanland                                                      |                           |
+| 1232592558 | 252004-7396 | Bergsjö Församling                                                                                   | Bergsjö kyrka             |
 | 1232593796 | 671115-XXXX | Roshan SPA och Friskvård                                                                             |                           |
 | 1232595296 | 252003-9203 | Bodums församling / Strömsunds pastorat                                                              |                           |
 | 1232595809 | 556736-2289 | Rena Bilar i Sverige / Rena Hem i Vardagen Stockholm AB                                              |                           |
@@ -2972,6 +2974,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232787802 | 671223-XXXX | PT Cam / Camilla Åström                                                                              |                           |
 | 1232787927 | 802440-7507 | Lerums Fotoklubb                                                                                     |                           |
 | 1232788099 | 802461-2056 | Kristi Uppståndelses Ortodoxa Församling                                                             |                           |
+| 1232788875 | 556510-4972 | Veddige Buss & Transport AB                                                                          |                           |
 | 1232789600 | 556501-3280 | House of Zen i Söderköping AB                                                                        |                           |
 | 1232789949 | 855100-9882 | Riksföreningen Jordens Vänner                                                                        |                           |
 | 1232795367 | 802442-6473 | Piteå Skidskytte Klubb                                                                               |                           |
@@ -6654,6 +6657,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236764807 | 560803-XXXX | YOGA VEDA i Hamburgsund                                                                              |                           |
 | 1236765242 | 835001-3093 | Kvinnojouren Karlskrona                                                                              |                           |
 | 1236765408 | 511209-XXXX | Rossmix / Moa Persson                                                                                |                           |
+| 1236766992 | 252004-7396 | Bergsjö Församling                                                                                   | Ilsbo kyrka               |
 | 1236769723 | 802459-0088 | Umeå IK                                                                                              |                           |
 | 1236769806 | 825001-8085 | Valdemarsviks Hembygdsförening                                                                       |                           |
 | 1236772396 | 827500-3310 | Vetlanda Friförsamling                                                                               | Fastighetskassan          |
