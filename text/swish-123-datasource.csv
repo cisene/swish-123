@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-11-rev-160423
+# Date: 2024-02-12-rev-002649
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -137,6 +137,7 @@
 "1230107292","556738-8094","Podcasten Cirkus Speedway / MAX500 AB","https://cirkusspeedway.se/","podcast",""
 "1230109991","878000-1528","Friluftsfrämjandet Västerås","https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/vasteras/","barnverksamhet,friluftsliv",""
 "1230111427","740819-XXXX","Galleri Fågel / Anders Borgenhag Holmqvist","https://www.gallerifagel.com/","konstmåleri,konstnär",""
+"1230112722","802416-9222","SPF Seniorerna Billdal","https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/spf-seniorerna-billdal/","pensionärsklubb",""
 "1230113670","844000-7048","Sångkören Divertimento","https://www.divertimento.se/","körsång,musikförening",""
 "1230114801","571013-XXXX","Thoralf Alfsson","https://thoralfsblogg.com/","författare",""
 "1230121640","556459-0510","Persköps Ställplats / Wnk Skogsgallring AB","https://www.perskopsstallplats.com/","ställplats",""
@@ -1985,6 +1986,7 @@
 "1231792498","878500-6258","Köpings Brukshundklubb","http://kopingsbrukshundklubb.se/","brukshundsklubb,hundsport",""
 "1231793108","929000-6841","Ljungby Ridklubb","https://www.ljungbyridklubb.org.se/","hästsport,ridklubb,ridsport",""
 "1231794601","769621-5354","Söderköpings Gästabud Ekonomisk Förening","https://gastabud.se/","kulturförening,underhållning",""
+"1231797505","802500-2133","SPF Seniorerna Fyrklövern Vansbro","https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/fyrklovernvansbro/","pensionärsklubb",""
 "1231797901","875000-6531","Sällskapet Gamla Örebro","https://www.hembygd.se/sallskapet-gamla-orebro","hembygdsförening",""
 "1231801190","857200-8541","IFK Göteborg","https://ifkgoteborg.se/","idrottsförening",""
 "1231801935","846003-9251","Islamic Centers Församling","https://www.mosken.se/","religion",""
@@ -3880,6 +3882,7 @@
 "1233742541","802532-8033","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Värmland, Fredricelundskolan"
 "1233742624","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Trollets Förskola"
 "1233745551","815600-8537","Svenska Hundklubben, Södertälje","https://svenskahundklubben.se/sodertalje/","hundklubb,hundsport",""
+"1233746237","887000-5397","SPF Seniorerna Järvsö","https://www.spfseniorerna.se/distrikt/halsingedistriktet/foreningslista/spf-seniorerna-jarvso/","pensionärsklubb",""
 "1233747771","802438-4888","Värmdö Nattvandrare","https://www.nattvandra.nu/","förening,intresseorganisation",""
 "1233747789","530529-XXXX","Fagersta Nyheter / Ola Wahlsten","https://fagerstanyheter.com/","lokaltidning",""
 "1233749173","846002-9740","Victoriateatern / Kulturföreningen Kontrast","https://www.victoria.se/","kulturförening,teater",""
@@ -4569,6 +4572,7 @@
 "1234502720","802522-8407","SPF Seniorerna Bollebygd","https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bollebygd/","pensionärsklubb",""
 "1234503470","875002-8303","LP-föreningen i Örebro Län","https://lporebrolan.se/","religion",""
 "1234504064","252001-6466","Torestorps församling","http://torestorpspastorat.se/","religion","Kollekt"
+"1234506960","802441-5807","SPF Seniorerna Vetlanda","https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-seniorerna-vetlanda/","pensionärsklubb",""
 "1234509691","802440-9701","SPF Seniorerna Svalan Partille","https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/svalan/","pensionärsklubb",""
 "1234512166","827500-0480","Pingstförsamlingen Vetlanda","https://vetlanda.pingst.se/","religion",""
 "1234512224","802002-4892","Norrmalms baptistförsamling","https://www.norrmalmskyrkan.se/","religion",""
@@ -4950,6 +4954,7 @@
 "1234991394","802440-9537","Malmökretsen Svenska Röda Korset","","hjälporganisation",""
 "1234992582","559084-1515","Cityfötter i Borås AB","https://cityfotter.se/","fotvård",""
 "1234993200","844000-1025","Rönnebergs Härads Hembygdsförening","https://www.hembygd.se/ronnebergsharad","hembygdsförening",""
+"1234993663","802415-1121","SPF Seniorerna Tjörnveteranerna","https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/Tjornveteranerna/","pensionärsklubb",""
 "1234993887","802460-3519","Eggvena Hembygdsförening","https://www.hembygd.se/eggvena","hembygdsförening",""
 "1234993895","556614-4621","Carlsson Ring Fastighetsmäklare AB","https://carlssonring.se/","fastighetsauktioner,fastighetsförmedling,fastighetsmäklare,fastighetsvärdering,lantbruksauktioner,lösöreauktioner",""
 "1234993937","887500-7612","Tunalids RK - Ridsport","https://www.tunalidsridklubb.se/","parasport,ridsport",""

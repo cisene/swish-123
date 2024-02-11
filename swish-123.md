@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-11-rev-160423
+Date:     2024-02-12-rev-002649
 ...
 
 # Swish 123 Nummer
@@ -139,6 +139,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230107292 | 556738-8094 | Podcasten Cirkus Speedway / MAX500 AB                                                                |                           |
 | 1230109991 | 878000-1528 | Friluftsfrämjandet Västerås                                                                          |                           |
 | 1230111427 | 740819-XXXX | Galleri Fågel / Anders Borgenhag Holmqvist                                                           |                           |
+| 1230112722 | 802416-9222 | SPF Seniorerna Billdal                                                                               |                           |
 | 1230113670 | 844000-7048 | Sångkören Divertimento                                                                               |                           |
 | 1230114801 | 571013-XXXX | Thoralf Alfsson                                                                                      |                           |
 | 1230121640 | 556459-0510 | Persköps Ställplats / Wnk Skogsgallring AB                                                           |                           |
@@ -1987,6 +1988,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231792498 | 878500-6258 | Köpings Brukshundklubb                                                                               |                           |
 | 1231793108 | 929000-6841 | Ljungby Ridklubb                                                                                     |                           |
 | 1231794601 | 769621-5354 | Söderköpings Gästabud Ekonomisk Förening                                                             |                           |
+| 1231797505 | 802500-2133 | SPF Seniorerna Fyrklövern Vansbro                                                                    |                           |
 | 1231797901 | 875000-6531 | Sällskapet Gamla Örebro                                                                              |                           |
 | 1231801190 | 857200-8541 | IFK Göteborg                                                                                         |                           |
 | 1231801935 | 846003-9251 | Islamic Centers Församling                                                                           |                           |
@@ -3882,6 +3884,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233742541 | 802532-8033 | Team Rynkeby                                                                                         | Värmland, Fredricelundskolan |
 | 1233742624 | 802532-9916 | Team Rynkeby                                                                                         | Malmö, Trollets Förskola  |
 | 1233745551 | 815600-8537 | Svenska Hundklubben, Södertälje                                                                      |                           |
+| 1233746237 | 887000-5397 | SPF Seniorerna Järvsö                                                                                |                           |
 | 1233747771 | 802438-4888 | Värmdö Nattvandrare                                                                                  |                           |
 | 1233747789 | 530529-XXXX | Fagersta Nyheter / Ola Wahlsten                                                                      |                           |
 | 1233749173 | 846002-9740 | Victoriateatern / Kulturföreningen Kontrast                                                          |                           |
@@ -4571,6 +4574,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234502720 | 802522-8407 | SPF Seniorerna Bollebygd                                                                             |                           |
 | 1234503470 | 875002-8303 | LP-föreningen i Örebro Län                                                                           |                           |
 | 1234504064 | 252001-6466 | Torestorps församling                                                                                | Kollekt                   |
+| 1234506960 | 802441-5807 | SPF Seniorerna Vetlanda                                                                              |                           |
 | 1234509691 | 802440-9701 | SPF Seniorerna Svalan Partille                                                                       |                           |
 | 1234512166 | 827500-0480 | Pingstförsamlingen Vetlanda                                                                          |                           |
 | 1234512224 | 802002-4892 | Norrmalms baptistförsamling                                                                          |                           |
@@ -4952,6 +4956,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234991394 | 802440-9537 | Malmökretsen Svenska Röda Korset                                                                     |                           |
 | 1234992582 | 559084-1515 | Cityfötter i Borås AB                                                                                |                           |
 | 1234993200 | 844000-1025 | Rönnebergs Härads Hembygdsförening                                                                   |                           |
+| 1234993663 | 802415-1121 | SPF Seniorerna Tjörnveteranerna                                                                      |                           |
 | 1234993887 | 802460-3519 | Eggvena Hembygdsförening                                                                             |                           |
 | 1234993895 | 556614-4621 | Carlsson Ring Fastighetsmäklare AB                                                                   |                           |
 | 1234993937 | 887500-7612 | Tunalids RK - Ridsport                                                                               |                           |

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-11-rev-160423",
+    "date": "2024-02-12-rev-002649",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1296,6 +1296,15 @@
         "konstn\u00e4r"
       ],
       "web": "https://www.gallerifagel.com/"
+    },
+    {
+      "entry": 1230112722,
+      "orgNumber": "802416-9222",
+      "orgName": "SPF Seniorerna Billdal",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/spf-seniorerna-billdal/"
     },
     {
       "entry": 1230113670,
@@ -19463,6 +19472,15 @@
         "underh\u00e5llning"
       ],
       "web": "https://gastabud.se/"
+    },
+    {
+      "entry": 1231797505,
+      "orgNumber": "802500-2133",
+      "orgName": "SPF Seniorerna Fyrkl\u00f6vern Vansbro",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/fyrklovernvansbro/"
     },
     {
       "entry": 1231797901,
@@ -38349,6 +38367,15 @@
       "web": "https://svenskahundklubben.se/sodertalje/"
     },
     {
+      "entry": 1233746237,
+      "orgNumber": "887000-5397",
+      "orgName": "SPF Seniorerna J\u00e4rvs\u00f6",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/halsingedistriktet/foreningslista/spf-seniorerna-jarvso/"
+    },
+    {
       "entry": 1233747771,
       "orgNumber": "802438-4888",
       "orgName": "V\u00e4rmd\u00f6 Nattvandrare",
@@ -45166,6 +45193,15 @@
       "web": "http://torestorpspastorat.se/"
     },
     {
+      "entry": 1234506960,
+      "orgNumber": "802441-5807",
+      "orgName": "SPF Seniorerna Vetlanda",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-seniorerna-vetlanda/"
+    },
+    {
       "entry": 1234509691,
       "orgNumber": "802440-9701",
       "orgName": "SPF Seniorerna Svalan Partille",
@@ -48935,6 +48971,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/ronnebergsharad"
+    },
+    {
+      "entry": 1234993663,
+      "orgNumber": "802415-1121",
+      "orgName": "SPF Seniorerna Tj\u00f6rnveteranerna",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/Tjornveteranerna/"
     },
     {
       "entry": 1234993887,
