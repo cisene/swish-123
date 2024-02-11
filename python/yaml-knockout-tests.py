@@ -60,6 +60,13 @@ def testIsValidOrgName(data):
 
   return result
 
+def testPersonUnmasked(data):
+  result = False
+  if not re.search(r"^(\d{6})\x2dXXXX", str(data), flags=re.IGNORECASE):
+    result = True
+
+  return result
+
 def testFragDay(data):
   result = None
   value = int(data)
@@ -127,10 +134,6 @@ def testIsValidOrgNumber(data):
   else:
     pass
 
-  if test_org_type != None:
-    #print(test_org_type)
-    pass
-
   return result
 
 def testIsEntryControlled(data):
@@ -146,83 +149,83 @@ def testIsValidEntry(data):
   return result
 
 
-def parseEntries():
-  global yamlsource
-  entries_dict = {}
+# def parseEntries():
+#   global yamlsource
+#   entries_dict = {}
 
-  for entryVO in yamlsource['entries']:
-    entry = entryVO['entry']
+#   for entryVO in yamlsource['entries']:
+#     entry = entryVO['entry']
 
-    if entry not in entries_dict.keys():
-      entries_dict[entry] = entryVO
-
-
-  for entry in sorted(entries_dict.keys()):
-    entryVO = entries_dict[entry]
-    tests = {
-      'entry': {
-        'validation': False,
-        'controlled': False,
-      },
-      'orgNumber': {
-        'formatting': False,
-        'checkDigit': False,
-        'orgType': 'Unknown',
-      },
-      'orgName': None,
-      'categories': None,
-      'web': None
-    }
-
-    print(entry)
-
-    test_entry = testIsValidEntry(entry)
-
-    if test_entry != None:
-      tests['entry']['validation'] = test_entry
-
-      test_entry_controlled = testIsEntryControlled(entry)
-      if test_entry_controlled != None:
-        tests['entry']['controlled'] = test_entry_controlled
+#     if entry not in entries_dict.keys():
+#       entries_dict[entry] = entryVO
 
 
-    if entryVO['orgNumber'] != None:
-      test_orgNumber = testIsValidOrgNumber(entryVO['orgNumber'])
-      if test_orgNumber != None:
-        tests['orgNumber']['formatting'] = True
+#   for entry in sorted(entries_dict.keys()):
+#     entryVO = entries_dict[entry]
+#     tests = {
+#       'entry': {
+#         'validation': False,
+#         'controlled': False,
+#       },
+#       'orgNumber': {
+#         'formatting': False,
+#         'checkDigit': False,
+#         'orgType': 'Unknown',
+#       },
+#       'orgName': None,
+#       'categories': None,
+#       'web': None
+#     }
 
-    else:
-      test_orgNumber = False
+#     print(entry)
 
+#     test_entry = testIsValidEntry(entry)
 
-    if entryVO['orgName'] != None:
-      test_orgName = testIsValidOrgName(entryVO['orgName'])
-    else:
-      test_orgName = False
+#     if test_entry != None:
+#       tests['entry']['validation'] = test_entry
 
-
-    # Skip on empty entries
-    if entryVO['orgName'] == None and entryVO['orgNumber'] == None:
-      continue
-
-    # Unverified entries are skipped
-    if entryVO['categories'] != None:
-      if "overifierad" in entryVO['categories']:
-        continue
-
-      if "terminated" in entryVO['categories']:
-        continue
-
-    if "orgNumber" not in entryVO:
-      entryVO['orgNumber'] = None
-
-    if "comment" not in entryVO:
-      entryVO['comment'] = None
+#       test_entry_controlled = testIsEntryControlled(entry)
+#       if test_entry_controlled != None:
+#         tests['entry']['controlled'] = test_entry_controlled
 
 
-    #print(f"tested '{entry}' validation: '{test_entry}' controlled: '{test_entry_controlled}'")
+#     if entryVO['orgNumber'] != None:
+#       test_orgNumber = testIsValidOrgNumber(entryVO['orgNumber'])
+#       if test_orgNumber != None:
+#         tests['orgNumber']['formatting'] = True
 
-    print(str(tests))
+#     else:
+#       test_orgNumber = False
+
+
+#     if entryVO['orgName'] != None:
+#       test_orgName = testIsValidOrgName(entryVO['orgName'])
+#     else:
+#       test_orgName = False
+
+
+#     # Skip on empty entries
+#     if entryVO['orgName'] == None and entryVO['orgNumber'] == None:
+#       continue
+
+#     # Unverified entries are skipped
+#     if entryVO['categories'] != None:
+#       if "overifierad" in entryVO['categories']:
+#         continue
+
+#       if "terminated" in entryVO['categories']:
+#         continue
+
+#     if "orgNumber" not in entryVO:
+#       entryVO['orgNumber'] = None
+
+#     if "comment" not in entryVO:
+#       entryVO['comment'] = None
+
+
+#     #print(f"tested '{entry}' validation: '{test_entry}' controlled: '{test_entry_controlled}'")
+
+#     print(str(tests))
 
 def renderYAMLfromResult(result):
   for chunk  in result:
@@ -242,9 +245,10 @@ def testEntries(entries):
     'malformed-vo': [],
     'malformed-orgName': [],
     'malformed-orgNumber': [],
+    'malformed-orgNumberUnmasked': [],
 
-
-    'malformed-web': [],
+    'malformed-web-http': [],
+    'malformed-web-missing': [],
   }
 
   if entries != None:
@@ -303,18 +307,27 @@ def testEntries(entries):
         if malformed_orgNumber == True:
           result['malformed-orgNumber'].append(entryVO)
 
+        # Detect malformed or unmasked orgNumbers
+
+
 
         # Detect malformed or missing URLs
-        malformed_web = False
+        malformed_web_missing = False
         if entryVO['web'] == None:
-          malformed_web = True
+          malformed_web_missing = True
 
+        if malformed_web_missing == True:
+          result['malformed-web-missing'].append(entryVO)
+
+        # Detect malformed or http URLs
+        malformed_web_http = False
         if entryVO['web'] != None:
           if re.search(r"^http\x3a\x2f", entryVO['web'], flags=re.IGNORECASE):
-            malformed_web = True
+            malformed_web_http = True
 
-        if malformed_web == True:
-          result['malformed-web'].append(entryVO)
+        if malformed_web_http == True:
+          result['malformed-web-http'].append(entryVO)
+
 
   return result
 
