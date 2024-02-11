@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-11-rev-113820",
+    "date": "2024-02-11-rev-154827",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -505,7 +505,7 @@
     {
       "entry": 1230045567,
       "orgNumber": "802538-4457",
-      "orgName": "Partiet MoD",
+      "orgName": "Partiet MoD, M\u00e4nskliga r\u00e4ttigheter och Demokrati",
       "categories": [
         "politiskt parti"
       ],
@@ -11687,6 +11687,15 @@
       "web": "https://salstipendiet.se/"
     },
     {
+      "entry": 1231093392,
+      "orgNumber": "846000-1806",
+      "orgName": "Gammeldansf\u00f6reningen \u00d6resund",
+      "categories": [
+        "dansf\u00f6rening"
+      ],
+      "web": "https://www.grfdans.se/document/grf/foreningar/oresund/index.htm"
+    },
+    {
       "entry": 1231093574,
       "orgNumber": "802535-3825",
       "orgName": "Hundar l\u00e4ngtar hem",
@@ -13675,6 +13684,15 @@
         "volleyboll"
       ],
       "web": "https://www.majornavbk.se/"
+    },
+    {
+      "entry": 1231277383,
+      "orgNumber": "897900-5892",
+      "orgName": "Sammakko-Lillbergets Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.sammakko.info/"
     },
     {
       "entry": 1231277912,
@@ -17015,6 +17033,15 @@
         "religion"
       ],
       "web": "https://osmotoro.se/"
+    },
+    {
+      "entry": 1231575737,
+      "orgNumber": "812401-0755",
+      "orgName": "SPF Seniorerna Vendels\u00f6-Brandbergen",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-vendelso-brandbergen/"
     },
     {
       "entry": 1231576693,
@@ -27003,6 +27030,16 @@
         "konstn\u00e4rsf\u00f6rening"
       ],
       "web": "https://www.grafikivast.se/"
+    },
+    {
+      "entry": 1232592285,
+      "orgNumber": "897900-5264",
+      "orgName": "Sammakko Fritids och Skoterf\u00f6rening",
+      "categories": [
+        "fritidsf\u00f6rening",
+        "skoterklubb"
+      ],
+      "web": "https://www.sammakko.info/"
     },
     {
       "entry": 1232592426,
@@ -40560,6 +40597,15 @@
       "web": "https://www.kiviuppsala.se/"
     },
     {
+      "entry": 1233990207,
+      "orgNumber": "802421-2410",
+      "orgName": "SPF Seniorerna M\u00f6nster\u00e5s",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/kalmardistriktet/foreningslista/monsteras/"
+    },
+    {
       "entry": 1233990553,
       "orgNumber": "802428-4575",
       "orgName": "Varken hora eller kuvad, VHEK",
@@ -42632,6 +42678,15 @@
         "ishockeyklubb"
       ],
       "web": "https://www.hammarbyhockey.se/"
+    },
+    {
+      "entry": 1234232781,
+      "orgNumber": "802515-9453",
+      "orgName": "PRO Kopparberg",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samorganisation-ljusnarberg/foreningar/kopparberg.html"
     },
     {
       "entry": 1234233334,
@@ -57149,6 +57204,15 @@
         "f\u00f6rening"
       ],
       "web": "https://bullaregarden.webnode.se/"
+    },
+    {
+      "entry": 1235801493,
+      "orgNumber": "802523-5519",
+      "orgName": "\u00c5mbergs Allaktivitetshus",
+      "categories": [
+        "aktivitetshus"
+      ],
+      "web": "https://allaktivitetshuset-sunne.se/"
     },
     {
       "entry": 1235803937,

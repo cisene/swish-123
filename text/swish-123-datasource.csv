@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-11-rev-113820
+# Date: 2024-02-11-rev-154827
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -57,7 +57,7 @@
 "1230041079","252003-8874","Södra Ölands Pastorat","https://www.svenskakyrkan.se/sodraoland","religion","Resmo kyrka"
 "1230041285","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Göteborg, vallhamraskolan"
 "1230045096","802532-8033","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Värmland, Fageråsskolan"
-"1230045567","802538-4457","Partiet MoD","https://partietmod.se/","politiskt parti",""
+"1230045567","802538-4457","Partiet MoD, Mänskliga rättigheter och Demokrati","https://partietmod.se/","politiskt parti",""
 "1230045971","003479-6672","Fredrik D Anderssons Minnesfond","https://fredrikdanderssonsminnesfond.se/","minnesfond",""
 "1230052092","802445-5530","Munsö Adelsö Lokala Kennelklubb, MALKK","https://www.malkk.se/","hundsport,kennelklubb",""
 "1230052316","802504-6486","Islandshästföreningen Frigg - Islandshäst","https://www.frigg.se/","islandshäst,ridklubb",""
@@ -1196,6 +1196,7 @@
 "1231089556","878000-5321","Västerås BK - Brottning","http://www.vasterasbrottarklubb.se/","brottning,brottningsklubb,intresseförening","Café"
 "1231089663","832400-8021","Korpen Emmaboda Motionsidrottsförening","https://www.korpen.se/korpenemmaboda","idrottsförening,korpenförening",""
 "1231092261","802481-8844","Insamlingsstiftelsen SAL Landskrona","https://salstipendiet.se/","donation,stiftelse",""
+"1231093392","846000-1806","Gammeldansföreningen Öresund","https://www.grfdans.se/document/grf/foreningar/oresund/index.htm","dansförening",""
 "1231093574","802535-3825","Hundar längtar hem","https://hundarlangtarhem.se/","djurskydd","Rumänska gatuhundar"
 "1231093764","893200-7365","Jämtlands Lokalhistoriker","https://jls.genealogi.se/","genealogi,historieförening,kulturhistoria,släktforskning",""
 "1231095017","802006-1688","Frälsningsarmén","https://fakalmar.se/","religion","Kalmar"
@@ -1397,6 +1398,7 @@
 "1231271733","886500-3696","Grängsbo Bygdegårdsförening","https://www.grangsbo.com/","bygdegårdsförening",""
 "1231275239","950101-XXXX","Zemasmycken / George Bchara","https://www.zemasmycken.com/","försäljning,smycken",""
 "1231275858","802446-7436","Majorna VBK - Volleyboll","https://www.majornavbk.se/","idrottsförening,volleyboll",""
+"1231277383","897900-5892","Sammakko-Lillbergets Hembygdsförening","https://www.sammakko.info/","hembygdsförening",""
 "1231277912","812401-1787","PRO Handen","https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-haninge/foreningar/handen.html","pensionärsklubb",""
 "1231278639","866001-3593","Hyssna Bygdegård","https://hyssnabygdegard.se/","bygdegårdsförening,hembygdsförening",""
 "1231279512","802532-8033","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Värmland, Norrstrandsskolan"
@@ -1737,6 +1739,7 @@
 "1231573831","802511-1561","Blasieholmens Vänner","https://blasieholmensvanner.se/","intresseförening",""
 "1231574268","802476-4881","Skarpa Kvinns","https://www.skarpakvinns.se/","",""
 "1231575273","252002-9634","Ösmo Torö Församling","https://osmotoro.se/","religion","Kollekt"
+"1231575737","812401-0755","SPF Seniorerna Vendelsö-Brandbergen","https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-vendelso-brandbergen/","pensionärsklubb",""
 "1231576693","802494-6561","Länsföreningen Hjärnkoll Västerbotten","https://hjarnkollvasterbotten.se/","donation",""
 "1231577667","827500-3310","Vetlanda Friförsamling","https://vetlandafri.se/","religion","Församlingskassan"
 "1231579218","743000-1714","Lerbergets Byalag","https://lerberget.se/","byalag,hembygdsförening",""
@@ -2738,6 +2741,7 @@
 "1232591642","827000-6656","Mariannelunds och Hässleby Hembygdsförening","https://www.hembygd.se/mariannelunds-och-hassleby","hembygdsförening",""
 "1232591873","872800-3594","Hagfors Uddeholms RK- Ridsport","https://www.hurk.nu/","hästsport,ridklubb,ridsport","Ungdomssektionen"
 "1232592160","857206-5491","Grafik i Väst","https://www.grafikivast.se/","grafik,konstnärsförening",""
+"1232592285","897900-5264","Sammakko Fritids och Skoterförening","https://www.sammakko.info/","fritidsförening,skoterklubb",""
 "1232592426","802472-0800","Svenska Ridtravarföreningen Uppland Västmanland","https://uppvast.se/","förening,hästsport,travsport",""
 "1232593796","671115-XXXX","Roshan SPA och Friskvård","https://www.roshanspa.info/","friskvård,massage",""
 "1232595296","252003-9203","Bodums församling / Strömsunds pastorat","https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar","religion",""
@@ -4104,6 +4108,7 @@
 "1233984671","802419-2307","Glommens Samhällsförening","https://www.glommen.se/","förening,samhällsförening",""
 "1233986908","833600-1840","Westerviks KK - Kanot","http://www.westervikskanotklubb.se/","kanotklubb",""
 "1233987427","817602-1643","KIV - Konstvetenskapliga Institutionens Vänner i Uppsala","https://www.kiviuppsala.se/","förening,konst,konstsällskap",""
+"1233990207","802421-2410","SPF Seniorerna Mönsterås","https://www.spfseniorerna.se/distrikt/kalmardistriktet/foreningslista/monsteras/","pensionärsklubb",""
 "1233990553","802428-4575","Varken hora eller kuvad, VHEK","https://vhek.se/","donation",""
 "1233990801","802510-1760","Gåvan Sverige","https://gavansverige.se/","hjälporganisation",""
 "1233991114","832800-8365","Bockara Hembygdsförening","https://www.bockara.com/","hembygdsförening,samhällsförening",""
@@ -4315,6 +4320,7 @@
 "1234229415","802015-5324","Brahma Kumaris Andliga Världsuniversitet","https://www.brahmakumaris.se/","meditation,religion,yoga",""
 "1234229456","888800-1206","Resele Hembygsförening","http://reselehembygd.se/resele-hembygdsforening/","hembygdsförening",""
 "1234229852","802442-1623","Hammarby IF Ishockeyförening","https://www.hammarbyhockey.se/","idrottsförening,ishockeyklubb","Ungdom"
+"1234232781","802515-9453","PRO Kopparberg","https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samorganisation-ljusnarberg/foreningar/kopparberg.html","pensionärsklubb",""
 "1234233334","855100-0733","Styrsö Sockens Hembygdsförening","https://www.hembygd.se/styrso","hembygdsförening",""
 "1234233623","802403-2818","Djurgårdens Handikappfotboll","http://www.sportnik.com/group/17962","fotbollsklubb,idrottsförening",""
 "1234236196","802008-4953","Enskede Scoutkår","https://enskede.scout.se/","scoutkår",""
@@ -5773,6 +5779,7 @@
 "1235792635","885500-2740","Kanalkyrkans Församling i Sandviken","https://kanalkyrkan.se/","religion",""
 "1235792924","894000-0303","Korskyrkan Umeå","https://korskyrkanumea.se/","donation,religion",""
 "1235801105","855900-4356","Bullaregårdens Byggnadsförening","https://bullaregarden.webnode.se/","byggnadsförening,förening",""
+"1235801493","802523-5519","Åmbergs Allaktivitetshus","https://allaktivitetshuset-sunne.se/","aktivitetshus",""
 "1235803937","769611-9077","HSB Bostadsrättsförening Mälarängen i Järfälla","https://www.hsb.se/stockholm/brf/malarangen/","bostadsrättsförening",""
 "1235804117","556287-3777","DCL Data Centrum Linköping AB","https://dcl.se/","dator support,försäljning",""
 "1235804166","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Göteborg, Skånhällaskolan"

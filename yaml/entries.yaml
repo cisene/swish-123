@@ -463,7 +463,7 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1230045567
-  orgName: Partiet MoD
+  orgName: Partiet MoD, Mänskliga rättigheter och Demokrati
   orgNumber: 802538-4457
   comment: null
   categories:
@@ -10408,6 +10408,14 @@ entries:
   - stiftelse
   web: https://salstipendiet.se/
 
+- entry: 1231093392
+  orgName: Gammeldansföreningen Öresund
+  orgNumber: 846000-1806
+  comment: null
+  categories:
+  - dansförening
+  web: https://www.grfdans.se/document/grf/foreningar/oresund/index.htm
+
 - entry: 1231093574
   orgName: Hundar längtar hem
   orgNumber: 802535-3825
@@ -12187,6 +12195,14 @@ entries:
   - idrottsförening
   - volleyboll
   web: https://www.majornavbk.se/
+
+- entry: 1231277383
+  orgName: Sammakko-Lillbergets Hembygdsförening
+  orgNumber: 897900-5892
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.sammakko.info/
 
 - entry: 1231277912
   orgName: PRO Handen
@@ -15169,6 +15185,14 @@ entries:
   categories:
   - religion
   web: https://osmotoro.se/
+
+- entry: 1231575737
+  orgName: SPF Seniorerna Vendelsö-Brandbergen
+  orgNumber: 812401-0755
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-vendelso-brandbergen/
 
 - entry: 1231576693
   orgName: Länsföreningen Hjärnkoll Västerbotten
@@ -24084,6 +24108,15 @@ entries:
   - grafik
   - konstnärsförening
   web: https://www.grafikivast.se/
+
+- entry: 1232592285
+  orgName: Sammakko Fritids och Skoterförening
+  orgNumber: 897900-5264
+  comment: null
+  categories:
+  - fritidsförening
+  - skoterklubb
+  web: https://www.sammakko.info/
 
 - entry: 1232592426
   orgName: Svenska Ridtravarföreningen Uppland Västmanland
@@ -36141,6 +36174,14 @@ entries:
   - konstsällskap
   web: https://www.kiviuppsala.se/
 
+- entry: 1233990207
+  orgName: SPF Seniorerna Mönsterås
+  orgNumber: 802421-2410
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/kalmardistriktet/foreningslista/monsteras/
+
 - entry: 1233990553
   orgName: Varken hora eller kuvad, VHEK
   orgNumber: 802428-4575
@@ -37986,6 +38027,14 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.hammarbyhockey.se/
+
+- entry: 1234232781
+  orgName: PRO Kopparberg
+  orgNumber: 802515-9453
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samorganisation-ljusnarberg/foreningar/kopparberg.html
 
 - entry: 1234233334
   orgName: Styrsö Sockens Hembygdsförening
@@ -50911,6 +50960,14 @@ entries:
   - byggnadsförening
   - förening
   web: https://bullaregarden.webnode.se/
+
+- entry: 1235801493
+  orgName: Åmbergs Allaktivitetshus
+  orgNumber: 802523-5519
+  comment: null
+  categories:
+  - aktivitetshus
+  web: https://allaktivitetshuset-sunne.se/
 
 - entry: 1235803937
   orgName: HSB Bostadsrättsförening Mälarängen i Järfälla
