@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-10-rev-142202
+# Date: 2024-02-11-rev-095318
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -456,6 +456,7 @@
 "1230416982","875003-5209","Nora BK","https://www.norabk.com/","idrottsförening",""
 "1230417162","802402-1084","Svenska Ölfrämjandet","https://svenskaolframjandet.se/","förening,intresseorganisation",""
 "1230417295","855100-7704","Göteborgs Ungdomskör","https://www.goteborgsungdomskor.se/","donation,körsång,ungdomsverksamhet",""
+"1230417436","882601-3065","Dalsjö Golfklubb","https://dalsjogolf.se/","golfbana,golfklubb",""
 "1230417832","802003-3869","Enskede Ridsällskap","http://www.enskederidsallskap.se/","hästsport,ridklubb",""
 "1230417865","849600-2364","Himledalens RK - Ridsport","http://www.himledalensridklubb.se/","hästsport,ridklubb",""
 "1230419572","802600-2322","Vika Fiskevårdsområde","http://www.vikafvof.se/","fiskevård,förening",""
@@ -1754,7 +1755,7 @@
 "1231596717","889601-3896","Aktiva Seniorer Örnsköldsvik","https://ovik.aktivaseniorer.com/","pensionärsklubb",""
 "1231598176","822001-2820","Saab:s Konstförening","https://saabskonstforening.com/","konstförening",""
 "1231598291","802522-6146","Södra Vi Älg- och Kronhjortsskötselområde","https://sodraviaso.se/","viltvård",""
-"1231599976","559147-7152","Melleruds Golfklubb","https://mellerudsgolfklubb.se/","golfklubb",""
+"1231599976","559147-7152","Melleruds Golfklubb","https://mellerudsgolfklubb.se/","golfbana,golfklubb",""
 "1231600063","802521-9489","Extinction Rebellion Skåne / XR Skåne","https://xrskane.nu/","miljöaktivism",""
 "1231600071","889202-0135","Skönsbergs Bouleklubb","https://www.laget.se/SkonsbergsBouleklubb/","bouleklubb,idrottsförening",""
 "1231601244","802516-9932","High Five Taekwondo Idrottsförening","https://www.highfivetkd.se/","idrottsförening,kampsportsförening,taekwondo",""
@@ -2419,7 +2420,7 @@
 "1232257608","877101-1510","Ramsbergs Hembygdsförening","https://www.ramsberg.se/","hembygdsförening",""
 "1232257632","864500-1283","Borås och Sjuhäradsbygdens konstförening, Flaménska galleriet","https://www.flamenska.se/","galleri,konstförening",""
 "1232258069","802471-9372","Awesome People","https://www.awesomepeople.se/","förening",""
-"1232258259","878000-5370","Västerås Golfklubb","https://vasterasgk.se/","golfklubb",""
+"1232258259","878000-5370","Västerås Golfklubb","https://vasterasgk.se/","golfbana,golfklubb",""
 "1232258622","812800-2675","Equmeniakyrkan Hallunda","https://www.equmeniakyrkanhallunda.se/","religion",""
 "1232258689","857200-3211","Djurens Vänner Götegorg","https://www.djurensvanner.se/goteborg","djurskydd",""
 "1232259067","844000-8749","SPF Seniorerna Svalöv","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-svalov/","pensionärsklubb",""
@@ -3767,6 +3768,7 @@
 "1233634169","853300-1742","Kareby IS","https://www.kareby.com/","bandyklubb,bouleklubb,gymnastikförening,idrottsförening",""
 "1233634227","556910-8813","WT Trailer AB","https://www.wttrailer.se/","försäljning,släpvagnar",""
 "1233634318","894700-5958","Clemensnäs IF","https://www.laget.se/CIF/","idrottsförening,innebandyklubb","Fika"
+"1233634607","872000-7122","Eda Golfklubb","https://www.edagk.com/","golfbana,golfklubb",""
 "1233635000","814400-9027","Häverö Brukshundsklubb","https://haverobk.se/","brukshundsklubb,hundsport",""
 "1233635018","802451-7529","Muskö IF","https://muskoif.se/","idrottsförening",""
 "1233635067","873201-3753","Kils Golfklubb","https://www.kilsgk.se/","golfklubb",""
@@ -4852,7 +4854,7 @@
 "1234929444","802529-7402","Bromölla Jujutsuklubb","https://bromollajujutsu.se/","idrottsförening,jujutsuklubb,kampsportsförening",""
 "1234929782","556546-2271","Casanovas / Casanovas i Vadstena AB","https://casanovas.se/","dansband,orkester",""
 "1234933529","828000-4980","Hånger Hembygdsförening","https://www.hembygd.se/hanger","hembygdsförening",""
-"1234933966","873200-1345","Karlstad Golfklubb","https://www.karlstadgk.se/","golfklubb",""
+"1234933966","873200-1345","Karlstad Golfklubb","https://www.karlstadgk.se/","golfbana,golfklubb",""
 "1234934337","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Laröd skola"
 "1234935292","895400-8473","Boksjö Bygdegårdsförening","https://bygdegardarna.se/boksjon/","bygdegårdsförening",""
 "1234935565","252002-4114","Skorpeds Församling","https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped","religion","Barnverksamhet"
@@ -6039,7 +6041,7 @@
 "1236142301","802442-1623","Hammarby IF Ishockeyförening","https://www.hammarbyhockey.se/","idrottsförening,ishockeyklubb",""
 "1236142855","802476-6654","Föreningen Camerata Incantus","http://incantus.se/","förening,körsång",""
 "1236144885","252004-8790","Eritreanska Ortodoxa Tewahedo Kyrkan I Skandinavien (koptiska patriarkatet), EOTCS","https://eotcs.se/","religion",""
-"1236145056","802445-6785","Wattholma Golfklubb","https://www.wattholmagk.se/","golfklubb",""
+"1236145056","802445-6785","Wattholma Golfklubb","https://www.wattholmagk.se/","golfbana,golfklubb",""
 "1236145155","802008-5976","Sköndals Land- och Sjöscoutkår","https://tusenforstahjalpen.se/","scoutkår",""
 "1236145817","802406-3649","SPF Seniorerna Nacka","https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-nacka/","pensionärsklubb",""
 "1236146765","252004-8790","Eritreanska Ortodoxa Tewahedo Kyrkan I Skandinavien (koptiska patriarkatet), EOTCS","https://eotcs.se/","religion",""
@@ -6684,6 +6686,7 @@
 "1236828073","802491-8016","Malmfältens Draghundsklubb","https://www.malmfaltensdhk.se/","draghundsklubb,hundsport",""
 "1236828271","802438-1991","Raggarö Hembygdsförening","https://www.hembygd.se/raggaro","hembygdsförening",""
 "1236835227","802454-6056","Ninpo Dragons Stockholm / IF Bujinkan Bushin Dojo","https://ninpodragons.se/stockholm/","idrottsförening,kampsportsförening",""
+"1236836068","884401-1596","Mora Golfklubb","https://www.moragk.se/","golfbana,golfklubb",""
 "1236837249","857204-7291","Göteborgs Symfonikers Vänner","https://gsvanner.se/","intresseförening,musik",""
 "1236837496","802423-9637","Stiftelsen Anna Lindhs Minnesfond","https://www.annalindhsminnesfond.se/","stiftelse",""
 "1236837678","802403-7502","Keren Kajemet Sverige","https://www.kkl.nu/","välgörenhet",""

@@ -3963,6 +3963,15 @@ entries:
   - ungdomsverksamhet
   web: https://www.goteborgsungdomskor.se/
 
+- entry: 1230417436
+  orgName: Dalsjö Golfklubb
+  orgNumber: 882601-3065
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://dalsjogolf.se/
+
 - entry: 1230417832
   orgName: Enskede Ridsällskap
   orgNumber: 802003-3869
@@ -15325,6 +15334,7 @@ entries:
   orgNumber: 559147-7152
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://mellerudsgolfklubb.se/
 
@@ -21254,6 +21264,7 @@ entries:
   orgNumber: 878000-5370
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://vasterasgk.se/
 
@@ -33181,6 +33192,15 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/CIF/
 
+- entry: 1233634607
+  orgName: Eda Golfklubb
+  orgNumber: 872000-7122
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://www.edagk.com/
+
 - entry: 1233635000
   orgName: Häverö Brukshundsklubb
   orgNumber: 814400-9027
@@ -42742,6 +42762,7 @@ entries:
   orgNumber: 873200-1345
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.karlstadgk.se/
 
@@ -43988,6 +44009,14 @@ entries:
   categories:
   - djurskydd
   web: https://www.djurensvanner.se/boras
+
+- entry: 1235082946
+  orgName: null
+  orgNumber: null
+  comment: Martin
+  categories:
+  - golftränare
+  web: null
 
 - entry: 1235084413
   orgName: Ardennerklubben Sydost
@@ -53263,6 +53292,14 @@ entries:
   - ishockeyklubb
   web: https://www.hammarbyhockey.se/
 
+- entry: 1236142681
+  orgName: null
+  orgNumber: null
+  comment: Mathias
+  categories:
+  - golftränare
+  web: null
+
 - entry: 1236142855
   orgName: Föreningen Camerata Incantus
   orgNumber: 802476-6654
@@ -53285,6 +53322,7 @@ entries:
   orgNumber: 802445-6785
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.wattholmagk.se/
 
@@ -59066,6 +59104,15 @@ entries:
   - idrottsförening
   - kampsportsförening
   web: https://ninpodragons.se/stockholm/
+
+- entry: 1236836068
+  orgName: Mora Golfklubb
+  orgNumber: 884401-1596
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://www.moragk.se/
 
 - entry: 1236837249
   orgName: Göteborgs Symfonikers Vänner

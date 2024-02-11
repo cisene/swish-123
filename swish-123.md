@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-10-rev-142202
+Date:     2024-02-11-rev-095318
 ...
 
 # Swish 123 Nummer
@@ -458,6 +458,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1230416982 | 875003-5209 | Nora BK                                                                                              |                           |
 | 1230417162 | 802402-1084 | Svenska Ölfrämjandet                                                                                 |                           |
 | 1230417295 | 855100-7704 | Göteborgs Ungdomskör                                                                                 |                           |
+| 1230417436 | 882601-3065 | Dalsjö Golfklubb                                                                                     |                           |
 | 1230417832 | 802003-3869 | Enskede Ridsällskap                                                                                  |                           |
 | 1230417865 | 849600-2364 | Himledalens RK - Ridsport                                                                            |                           |
 | 1230419572 | 802600-2322 | Vika Fiskevårdsområde                                                                                |                           |
@@ -3769,6 +3770,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233634169 | 853300-1742 | Kareby IS                                                                                            |                           |
 | 1233634227 | 556910-8813 | WT Trailer AB                                                                                        |                           |
 | 1233634318 | 894700-5958 | Clemensnäs IF                                                                                        | Fika                      |
+| 1233634607 | 872000-7122 | Eda Golfklubb                                                                                        |                           |
 | 1233635000 | 814400-9027 | Häverö Brukshundsklubb                                                                               |                           |
 | 1233635018 | 802451-7529 | Muskö IF                                                                                             |                           |
 | 1233635067 | 873201-3753 | Kils Golfklubb                                                                                       |                           |
@@ -6686,6 +6688,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236828073 | 802491-8016 | Malmfältens Draghundsklubb                                                                           |                           |
 | 1236828271 | 802438-1991 | Raggarö Hembygdsförening                                                                             |                           |
 | 1236835227 | 802454-6056 | Ninpo Dragons Stockholm / IF Bujinkan Bushin Dojo                                                    |                           |
+| 1236836068 | 884401-1596 | Mora Golfklubb                                                                                       |                           |
 | 1236837249 | 857204-7291 | Göteborgs Symfonikers Vänner                                                                         |                           |
 | 1236837496 | 802423-9637 | Stiftelsen Anna Lindhs Minnesfond                                                                    |                           |
 | 1236837678 | 802403-7502 | Keren Kajemet Sverige                                                                                |                           |

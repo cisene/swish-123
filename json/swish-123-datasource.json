@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-10-rev-142202",
+    "date": "2024-02-11-rev-095318",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4446,6 +4446,16 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.goteborgsungdomskor.se/"
+    },
+    {
+      "entry": 1230417436,
+      "orgNumber": "882601-3065",
+      "orgName": "Dalsj\u00f6 Golfklubb",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://dalsjogolf.se/"
     },
     {
       "entry": 1230417832,
@@ -17191,6 +17201,7 @@
       "orgNumber": "559147-7152",
       "orgName": "Melleruds Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://mellerudsgolfklubb.se/"
@@ -23835,6 +23846,7 @@
       "orgNumber": "878000-5370",
       "orgName": "V\u00e4ster\u00e5s Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://vasterasgk.se/"
@@ -37235,6 +37247,16 @@
       "web": "https://www.laget.se/CIF/"
     },
     {
+      "entry": 1233634607,
+      "orgNumber": "872000-7122",
+      "orgName": "Eda Golfklubb",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://www.edagk.com/"
+    },
+    {
       "entry": 1233635000,
       "orgNumber": "814400-9027",
       "orgName": "H\u00e4ver\u00f6 Brukshundsklubb",
@@ -47984,6 +48006,7 @@
       "orgNumber": "873200-1345",
       "orgName": "Karlstad Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.karlstadgk.se/"
@@ -59777,6 +59800,7 @@
       "orgNumber": "802445-6785",
       "orgName": "Wattholma Golfklubb",
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.wattholmagk.se/"
@@ -66198,6 +66222,16 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://ninpodragons.se/stockholm/"
+    },
+    {
+      "entry": 1236836068,
+      "orgNumber": "884401-1596",
+      "orgName": "Mora Golfklubb",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://www.moragk.se/"
     },
     {
       "entry": 1236837249,
