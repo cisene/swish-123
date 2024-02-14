@@ -29991,6 +29991,14 @@ entries:
   - ryttarsällskap
   web: https://www.gerstorprs.se/
 
+- entry: 1233265188
+  orgName: Bifrostkyrkans Församling
+  orgNumber: 852000-3628
+  comment: null
+  categories:
+  - religion
+  web: https://bifrostkyrkan.se/
+
 - entry: 1233265816
   orgName: Sollefteå Skidor Idrottsförening
   orgNumber: 802468-6860
@@ -43768,6 +43776,14 @@ entries:
   categories:
   - däckverkstad
   web: https://www.dackcenterstorahoga.se/
+
+- entry: 1235000526
+  orgName: Love by Force International
+  orgNumber: 802520-3954
+  comment: null
+  categories:
+  - religion
+  web: https://www.lovebyforce.se/
 
 - entry: 1235005137
   orgName: Kristus Konungens Institut i Sverige

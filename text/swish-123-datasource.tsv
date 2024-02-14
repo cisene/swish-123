@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-12-rev-002649
+# Date: 2024-02-14-rev-172558
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3408,6 +3408,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233264066	580324-XXXX	Move Catarina Hagstrand	https://www.movecatarina.se/	friskvård,motionsdans	
 1233264330	802400-3322	Vänskapsförbundet Sverige-Israel Riksorganisation	https://vsi.nu/	förbund,riksorganisation	
 1233265030	802473-6111	Gerstorps Ryttarsällskap, GRS	https://www.gerstorprs.se/	hästsport,ryttarsällskap	
+1233265188	852000-3628	Bifrostkyrkans Församling	https://bifrostkyrkan.se/	religion	
 1233265816	802468-6860	Sollefteå Skidor Idrottsförening	https://www.sollefteaskidor.se/	idrottsförening,skidlöparklubb	
 1233265824	870314-XXXX	VKKS - Vackra Kurviga Kvinnans Shop	https://vkks.se/	försäljning,kläder	
 1233266756	802468-3149	Svenska Newfoundlandshundklubben	https://snkinfo.wordpress.com/	hundklubb,hundsport	Södra
@@ -4970,6 +4971,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235000146	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Sjuhärad, Tummarpskolan
 1235000153	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Helsingborg, Bladins International school
 1235000492	916842-8952	Däckcenter Stora Höga	https://www.dackcenterstorahoga.se/	däckverkstad	
+1235000526	802520-3954	Love by Force International	https://www.lovebyforce.se/	religion	
 1235005137	252004-9863	Kristus Konungens Institut i Sverige	https://icrss.se/	religion	
 1235006556	843001-5944	Bjuvs Brukshundsklubb	https://www.bjuvsbk.se/	brukshundsklubb,hundsport	
 1235009410	556440-0827	Top of Skellefteå / Midsommarviken AB	https://topofskelleftea.blogspot.com/	kulturförening	

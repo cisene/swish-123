@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-12-rev-002649",
+    "date": "2024-02-14-rev-172557",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -33621,6 +33621,15 @@
       "web": "https://www.gerstorprs.se/"
     },
     {
+      "entry": 1233265188,
+      "orgNumber": "852000-3628",
+      "orgName": "Bifrostkyrkans F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://bifrostkyrkan.se/"
+    },
+    {
       "entry": 1233265816,
       "orgNumber": "802468-6860",
       "orgName": "Sollefte\u00e5 Skidor Idrottsf\u00f6rening",
@@ -49144,6 +49153,15 @@
         "d\u00e4ckverkstad"
       ],
       "web": "https://www.dackcenterstorahoga.se/"
+    },
+    {
+      "entry": 1235000526,
+      "orgNumber": "802520-3954",
+      "orgName": "Love by Force International",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.lovebyforce.se/"
     },
     {
       "entry": 1235005137,

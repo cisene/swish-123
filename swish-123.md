@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-12-rev-002649
+Date:     2024-02-14-rev-172557
 ...
 
 # Swish 123 Nummer
@@ -3410,6 +3410,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233264066 | 580324-XXXX | Move Catarina Hagstrand                                                                              |                           |
 | 1233264330 | 802400-3322 | Vänskapsförbundet Sverige-Israel Riksorganisation                                                    |                           |
 | 1233265030 | 802473-6111 | Gerstorps Ryttarsällskap, GRS                                                                        |                           |
+| 1233265188 | 852000-3628 | Bifrostkyrkans Församling                                                                            |                           |
 | 1233265816 | 802468-6860 | Sollefteå Skidor Idrottsförening                                                                     |                           |
 | 1233265824 | 870314-XXXX | VKKS - Vackra Kurviga Kvinnans Shop                                                                  |                           |
 | 1233266756 | 802468-3149 | Svenska Newfoundlandshundklubben                                                                     | Södra                     |
@@ -4972,6 +4973,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235000146 | 802537-0241 | Team Rynkeby                                                                                         | Sjuhärad, Tummarpskolan   |
 | 1235000153 | 802532-7506 | Team Rynkeby                                                                                         | Helsingborg, Bladins International school |
 | 1235000492 | 916842-8952 | Däckcenter Stora Höga                                                                                |                           |
+| 1235000526 | 802520-3954 | Love by Force International                                                                          |                           |
 | 1235005137 | 252004-9863 | Kristus Konungens Institut i Sverige                                                                 |                           |
 | 1235006556 | 843001-5944 | Bjuvs Brukshundsklubb                                                                                |                           |
 | 1235009410 | 556440-0827 | Top of Skellefteå / Midsommarviken AB                                                                |                           |
