@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-15-rev-233229",
+    "date": "2024-02-15-rev-234153",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -24159,6 +24159,15 @@
         "studentk\u00e5r"
       ],
       "web": "https://farmis.se/"
+    },
+    {
+      "entry": 1232262616,
+      "orgNumber": "894003-9210",
+      "orgName": "SPF Seniorerna Sydporten H\u00f6rnefors",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-sydporten-hornefors/"
     },
     {
       "entry": 1232262863,

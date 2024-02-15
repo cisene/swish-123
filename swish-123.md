@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-15-rev-233229
+Date:     2024-02-15-rev-234153
 ...
 
 # Swish 123 Nummer
@@ -2456,6 +2456,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232262012 | 864501-6562 | Föreningen för Olympisk Kortdistansskjutning FOK Borås                                               | Pistol                    |
 | 1232262046 | 802416-6343 | Stockholm Bulgarienturkarnas Kulturförening                                                          |                           |
 | 1232262285 | 817601-1107 | Farmacevtiska Studentkåren, FAS                                                                      |                           |
+| 1232262616 | 894003-9210 | SPF Seniorerna Sydporten Hörnefors                                                                   |                           |
 | 1232262863 | 556706-5262 | Bäckby Församling                                                                                    | Husmor                    |
 | 1232266922 | 661225-XXXX | Dalarnas Andlig Healingcenter / Anna-Karin Berg                                                      |                           |
 | 1232267730 | 802498-8928 | Kallinge Museum                                                                                      |                           |

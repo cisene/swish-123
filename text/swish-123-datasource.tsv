@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-15-rev-233229
+# Date: 2024-02-15-rev-234153
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2454,6 +2454,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232262012	864501-6562	Föreningen för Olympisk Kortdistansskjutning FOK Borås	https://www.fokboras.se/	pistolskytteklubb,skytteklubb	Pistol
 1232262046	802416-6343	Stockholm Bulgarienturkarnas Kulturförening	https://sbtkf.blogspot.com/	hemlandsförening,kulturförening	
 1232262285	817601-1107	Farmacevtiska Studentkåren, FAS	https://farmis.se/	studentkår	
+1232262616	894003-9210	SPF Seniorerna Sydporten Hörnefors	https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-sydporten-hornefors/	pensionärsklubb	
 1232262863	556706-5262	Bäckby Församling	https://www.svenskakyrkan.se/vasteras/backbykyrkan	religion	Husmor
 1232266922	661225-XXXX	Dalarnas Andlig Healingcenter / Anna-Karin Berg	https://andlig-healing-center.se/	healing,medium,seans,spiritualism	
 1232267730	802498-8928	Kallinge Museum	http://www.kallingemuseum.se/	förening,museum	
