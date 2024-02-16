@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-15-rev-234153
+# Date: 2024-02-16-rev-171232
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2395,6 +2395,7 @@
 "1232218436","879500-4087","Västerfärnebo Hembygdsförening","http://www.vasterfarnebo.se/","hembygdsförening",""
 "1232220267","556783-8544","Ölands Skördefest AB","https://skordefest.nu/","eventarrangör,festival",""
 "1232220481","857202-7483","Swedish International Relief Association, SIRA","http://www.sira.se/","hjälporganisation,stiftelse",""
+"1232220614","252002-7349","Dalby Församling","https://www.svenskakyrkan.se/dalby-forsamling","religion","Kollekt"
 "1232221802","802496-0687","Kiruna AIF Ishockey","https://www.svenskalag.se/kirunaaif","idrottsförening,ishockeyklubb","Kampanjer, Bingo"
 "1232222149","252004-2157","Döderhults Församling","https://www.svenskakyrkan.se/doderhult","religion",""
 "1232222206","898800-9984","Piteå Summer Games","https://piteasummergames.se/","cuparrangör",""
@@ -2631,6 +2632,7 @@
 "1232409357","556829-5421","Adrianas Danshus AB","https://www.adrianasdanshus.se/","danskurser,dansundervisning",""
 "1232409746","802496-8557","TiP Generations Höör","https://www.tipgenerations.nu/","idrottsförening,parkourförening",""
 "1232409878","865500-6602","Varnums Hembygdsförening","http://www.varnum.nu/","hembygdsförening",""
+"1232409936","252000-5394","Norrahammars Församling","https://www.svenskakyrkan.se/norrahammar","religion","Kollekt"
 "1232410587","802533-8909","Förtroende - Sätta de sista först","https://www.puttingthelastonesfirst.com/","",""
 "1232410876","802536-6850","Strängnäsbygdens Släktforskarförening","https://www.snbs.se/","förening,genealogi,släktforskning",""
 "1232411270","818000-5814","Rekarne Folkdans Gille","http://www.spelmansgillet.se/","folkdansgille,spelmansgille",""
@@ -3553,6 +3555,8 @@
 "1233396322","252000-0932","Sundbybergs Församling","https://www.svenskakyrkan.se/sundbyberg","religion","Fonden för hjälpbehövande"
 "1233397387","835000-6923","Rödeby CK - Motorcykel och Snöskoter","https://www.rck.se/","enduroklubb,motorcykelklubb,snöskoterklubb","Kiosk"
 "1233397619","827500-0795","Stocksbergskyrkan i Korsberga","https://www.kyrktorget.se/stocksbergskyrkan","religion",""
+"1233398112","252000-5394","Norrahammars Församling","https://www.svenskakyrkan.se/norrahammar","religion",""
+"1233398120","252000-5394","Norrahammars Församling","https://www.svenskakyrkan.se/norrahammar","religion","Gåvor"
 "1233398302","889600-7963","Nävertjäls Bygdegårdsförening","http://www.navertjal.com/","bygdegårdsförening",""
 "1233398500","556927-6214","Markbladet AB","https://www.markbladet.se/","förening,lokaltidning",""
 "1233398534","882601-9567","Serik Fans","https://serikfans.wordpress.com/","förening,supporterklubb",""
@@ -4635,11 +4639,13 @@
 "1234543005","802533-7786","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Lund, Nyvångskolan"
 "1234543054","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Centrumskolan"
 "1234543609","252004-9194","Barnarp Ödestugu Församling","https://www.svenskakyrkan.se/barnarp-odestugu","religion","Kollekt"
+"1234543625","252002-8669","St:Paulus av Korset Katolska Församling","https://stpaulus.se/","religion",""
 "1234545703","802537-0241","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Sjuhärad, Hestra Midgårdskolan"
 "1234545893","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Tingdalsskolan-Björnås"
 "1234548756","252002-9907","Sävare Församling","https://www.svenskakyrkan.se/savare","religion","Kollekt"
 "1234548822","802423-0248","MedieMission International","http://www.mediemission.se/","hjälporganisation",""
 "1234548871","802003-9205","Älvsjö Missionsförsamling","https://alvsjokyrkan.se/","religion","Kyrkkaffe"
+"1234549259","252000-5394","Norrahammars Församling","https://www.svenskakyrkan.se/norrahammar","religion","Insamlingar"
 "1234558458","802481-5949","Stiftelsen ChildX","https://childx.se/","donation,stiftelse",""
 "1234559597","802007-9656","Polisskadestiftelsen","https://www.polisforbundet.se/om-oss/polisforbundets-stiftelser-och-fonder/","blåljus,förening,stiftelse",""
 "1234559738","802537-0241","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Sjuhärad, Ulrikaskolan"
@@ -5077,6 +5083,7 @@
 "1235101159","700922-XXXX","Veberöds Trafikskola","https://www.veberodstrafikskola.se/","trafikskola",""
 "1235101670","882600-2282","Sveriges Dövas Riksförbund","https://sdr.org/","riksförbund",""
 "1235102181","818000-0039","Barva IF","https://www.barvaif.se/","bordtennisklubb,bouleklubb,fotbollsklubb,idrottsförening,innebandyklubb,skytteklubb,ungdomsverksamhet",""
+"1235102223","252002-7349","Dalby Församling","https://www.svenskakyrkan.se/dalby-forsamling","religion","Övrigt"
 "1235102488","819000-6604","Trosa Golfklubb","https://www.trosagk.se/","golfklubb",""
 "1235104641","802438-6883","Alingsås Vårgårda Discgolf","https://avdiscgolf.se/","discgolf,idrottsförening","tävlingsavgifter"
 "1235104658","556817-7751","Sundsvalls Squash Club Arena AB","http://www.sundsvallsquashcenter.se/","racketsport,squash",""

@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-15-rev-234153
+Date:     2024-02-16-rev-171232
 ...
 
 # Swish 123 Nummer
@@ -2397,6 +2397,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232218436 | 879500-4087 | Västerfärnebo Hembygdsförening                                                                       |                           |
 | 1232220267 | 556783-8544 | Ölands Skördefest AB                                                                                 |                           |
 | 1232220481 | 857202-7483 | Swedish International Relief Association, SIRA                                                       |                           |
+| 1232220614 | 252002-7349 | Dalby Församling                                                                                     | Kollekt                   |
 | 1232221802 | 802496-0687 | Kiruna AIF Ishockey                                                                                  | Kampanjer, Bingo          |
 | 1232222149 | 252004-2157 | Döderhults Församling                                                                                |                           |
 | 1232222206 | 898800-9984 | Piteå Summer Games                                                                                   |                           |
@@ -2633,6 +2634,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232409357 | 556829-5421 | Adrianas Danshus AB                                                                                  |                           |
 | 1232409746 | 802496-8557 | TiP Generations Höör                                                                                 |                           |
 | 1232409878 | 865500-6602 | Varnums Hembygdsförening                                                                             |                           |
+| 1232409936 | 252000-5394 | Norrahammars Församling                                                                              | Kollekt                   |
 | 1232410587 | 802533-8909 | Förtroende - Sätta de sista först                                                                    |                           |
 | 1232410876 | 802536-6850 | Strängnäsbygdens Släktforskarförening                                                                |                           |
 | 1232411270 | 818000-5814 | Rekarne Folkdans Gille                                                                               |                           |
@@ -3555,6 +3557,8 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233396322 | 252000-0932 | Sundbybergs Församling                                                                               | Fonden för hjälpbehövande |
 | 1233397387 | 835000-6923 | Rödeby CK - Motorcykel och Snöskoter                                                                 | Kiosk                     |
 | 1233397619 | 827500-0795 | Stocksbergskyrkan i Korsberga                                                                        |                           |
+| 1233398112 | 252000-5394 | Norrahammars Församling                                                                              |                           |
+| 1233398120 | 252000-5394 | Norrahammars Församling                                                                              | Gåvor                     |
 | 1233398302 | 889600-7963 | Nävertjäls Bygdegårdsförening                                                                        |                           |
 | 1233398500 | 556927-6214 | Markbladet AB                                                                                        |                           |
 | 1233398534 | 882601-9567 | Serik Fans                                                                                           |                           |
@@ -4637,11 +4641,13 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234543005 | 802533-7786 | Team Rynkeby                                                                                         | Lund, Nyvångskolan        |
 | 1234543054 | 802532-7506 | Team Rynkeby                                                                                         | Helsingborg, Centrumskolan |
 | 1234543609 | 252004-9194 | Barnarp Ödestugu Församling                                                                          | Kollekt                   |
+| 1234543625 | 252002-8669 | St:Paulus av Korset Katolska Församling                                                              |                           |
 | 1234545703 | 802537-0241 | Team Rynkeby                                                                                         | Sjuhärad, Hestra Midgårdskolan |
 | 1234545893 | 802532-7506 | Team Rynkeby                                                                                         | Helsingborg, Tingdalsskolan-Björnås |
 | 1234548756 | 252002-9907 | Sävare Församling                                                                                    | Kollekt                   |
 | 1234548822 | 802423-0248 | MedieMission International                                                                           |                           |
 | 1234548871 | 802003-9205 | Älvsjö Missionsförsamling                                                                            | Kyrkkaffe                 |
+| 1234549259 | 252000-5394 | Norrahammars Församling                                                                              | Insamlingar               |
 | 1234558458 | 802481-5949 | Stiftelsen ChildX                                                                                    |                           |
 | 1234559597 | 802007-9656 | Polisskadestiftelsen                                                                                 |                           |
 | 1234559738 | 802537-0241 | Team Rynkeby                                                                                         | Sjuhärad, Ulrikaskolan    |
@@ -5079,6 +5085,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235101159 | 700922-XXXX | Veberöds Trafikskola                                                                                 |                           |
 | 1235101670 | 882600-2282 | Sveriges Dövas Riksförbund                                                                           |                           |
 | 1235102181 | 818000-0039 | Barva IF                                                                                             |                           |
+| 1235102223 | 252002-7349 | Dalby Församling                                                                                     | Övrigt                    |
 | 1235102488 | 819000-6604 | Trosa Golfklubb                                                                                      |                           |
 | 1235104641 | 802438-6883 | Alingsås Vårgårda Discgolf                                                                           | tävlingsavgifter          |
 | 1235104658 | 556817-7751 | Sundsvalls Squash Club Arena AB                                                                      |                           |

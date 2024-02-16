@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-15-rev-234153",
+    "date": "2024-02-16-rev-171232",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -23594,6 +23594,16 @@
       "web": "http://www.sira.se/"
     },
     {
+      "entry": 1232220614,
+      "orgNumber": "252002-7349",
+      "orgName": "Dalby F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/dalby-forsamling"
+    },
+    {
       "entry": 1232221802,
       "orgNumber": "802496-0687",
       "orgName": "Kiruna AIF Ishockey",
@@ -25922,6 +25932,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://www.varnum.nu/"
+    },
+    {
+      "entry": 1232409936,
+      "orgNumber": "252000-5394",
+      "orgName": "Norrahammars F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norrahammar"
     },
     {
       "entry": 1232410587,
@@ -35062,6 +35082,25 @@
         "religion"
       ],
       "web": "https://www.kyrktorget.se/stocksbergskyrkan"
+    },
+    {
+      "entry": 1233398112,
+      "orgNumber": "252000-5394",
+      "orgName": "Norrahammars F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norrahammar"
+    },
+    {
+      "entry": 1233398120,
+      "orgNumber": "252000-5394",
+      "orgName": "Norrahammars F\u00f6rsamling",
+      "comment": "G\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norrahammar"
     },
     {
       "entry": 1233398302,
@@ -45808,6 +45847,15 @@
       "web": "https://www.svenskakyrkan.se/barnarp-odestugu"
     },
     {
+      "entry": 1234543625,
+      "orgNumber": "252002-8669",
+      "orgName": "St:Paulus av Korset Katolska F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://stpaulus.se/"
+    },
+    {
       "entry": 1234545703,
       "orgNumber": "802537-0241",
       "orgName": "Team Rynkeby",
@@ -45859,6 +45907,16 @@
         "religion"
       ],
       "web": "https://alvsjokyrkan.se/"
+    },
+    {
+      "entry": 1234549259,
+      "orgNumber": "252000-5394",
+      "orgName": "Norrahammars F\u00f6rsamling",
+      "comment": "Insamlingar",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norrahammar"
     },
     {
       "entry": 1234558458,
@@ -50201,6 +50259,16 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.barvaif.se/"
+    },
+    {
+      "entry": 1235102223,
+      "orgNumber": "252002-7349",
+      "orgName": "Dalby F\u00f6rsamling",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/dalby-forsamling"
     },
     {
       "entry": 1235102488,

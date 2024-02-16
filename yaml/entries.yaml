@@ -21009,6 +21009,14 @@ entries:
   - stiftelse
   web: http://www.sira.se/
 
+- entry: 1232220614
+  orgName: Dalby Församling
+  orgNumber: 252002-7349
+  comment: Kollekt
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/dalby-forsamling
+
 - entry: 1232221802
   orgName: Kiruna AIF Ishockey
   orgNumber: 802496-0687
@@ -23074,6 +23082,14 @@ entries:
   categories:
   - hembygdsförening
   web: http://www.varnum.nu/
+
+- entry: 1232409936
+  orgName: Norrahammars Församling
+  orgNumber: 252000-5394
+  comment: Kollekt
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/norrahammar
 
 - entry: 1232410587
   orgName: Förtroende - Sätta de sista först
@@ -31245,6 +31261,22 @@ entries:
   categories:
   - religion
   web: https://www.kyrktorget.se/stocksbergskyrkan
+
+- entry: 1233398112
+  orgName: Norrahammars Församling
+  orgNumber: 252000-5394
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/norrahammar
+
+- entry: 1233398120
+  orgName: Norrahammars Församling
+  orgNumber: 252000-5394
+  comment: Gåvor
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/norrahammar
 
 - entry: 1233398302
   orgName: Nävertjäls Bygdegårdsförening
@@ -40791,6 +40823,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/barnarp-odestugu
 
+- entry: 1234543625
+  orgName: St:Paulus av Korset Katolska Församling
+  orgNumber: 252002-8669
+  comment: null
+  categories:
+  - religion
+  web: https://stpaulus.se/
+
 - entry: 1234545703
   orgName: Team Rynkeby
   orgNumber: 802537-0241
@@ -40834,6 +40874,14 @@ entries:
   categories:
   - religion
   web: https://alvsjokyrkan.se/
+
+- entry: 1234549259
+  orgName: Norrahammars Församling
+  orgNumber: 252000-5394
+  comment: Insamlingar
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/norrahammar
 
 - entry: 1234558458
   orgName: Stiftelsen ChildX
@@ -44710,6 +44758,14 @@ entries:
   - skytteklubb
   - ungdomsverksamhet
   web: https://www.barvaif.se/
+
+- entry: 1235102223
+  orgName: Dalby Församling
+  orgNumber: 252002-7349
+  comment: Övrigt
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/dalby-forsamling
 
 - entry: 1235102488
   orgName: Trosa Golfklubb
