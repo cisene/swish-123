@@ -815,6 +815,14 @@ entries:
   - lokaltidning
   web: https://www.dagensvimmerby.se/
 
+- entry: 1230069781
+  orgName: Näsets Ekumeniska Församling
+  orgNumber: 846002-3719
+  comment: null
+  categories:
+  - religion
+  web: https://www.ljungkyrkan.se/
+
 - entry: 1230069963
   orgName: Sverigedemokraterna
   orgNumber: 802018-1791
@@ -19882,6 +19890,14 @@ entries:
   categories: null
   web: https://www.hairagain.se/
 
+- entry: 1232056778
+  orgName: Lena Församling
+  orgNumber: 252002-7091
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/vargarda/lenaforsamling
+
 - entry: 1232062644
   orgName: Ängelholms Ekumeniska Församling
   orgNumber: 839400-6590
@@ -30621,11 +30637,12 @@ entries:
   web: https://www.svenskalag.se/vasterasskidklubb
 
 - entry: 1233262102
-  orgName: null
-  orgNumber: null
+  orgName: Väderstads Församling
+  orgNumber: 252004-0219
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/folkungabygden/vaderstads-forsamling
 
 - entry: 1233262276
   orgName: Hallsbergs Brukshundsklubb
@@ -36022,11 +36039,12 @@ entries:
   web: null
 
 - entry: 1233880457
-  orgName: null
-  orgNumber: null
+  orgName: Tunabergs Församling
+  orgNumber: 252000-2557
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/tunaberg
 
 - entry: 1233880762
   orgName: S606K Stockholms 606-klubb
@@ -39361,7 +39379,7 @@ entries:
   web: http://www.westbopartiet.se/
 
 - entry: 1234274205
-  orgName: Ljungby Maria församling
+  orgName: Ljungby Maria Församling
   orgNumber: 252002-7281
   comment: null
   categories:
@@ -44265,11 +44283,12 @@ entries:
   web: https://www.suderkyrkan.com/
 
 - entry: 1234941506
-  orgName: null
-  orgNumber: null
+  orgName: Sollentuna Församling
+  orgNumber: 252000-0486
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sollentuna
 
 - entry: 1234941647
   orgName: Strömsunds RK - Ridsport
@@ -45942,11 +45961,12 @@ entries:
   web: https://www.unicef.org/namibia/
 
 - entry: 1235113733
-  orgName: null
-  orgNumber: null
+  orgName: Herrestads Församling
+  orgNumber: 252001-5476
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/herrestad
 
 - entry: 1235114111
   orgName: Lavad Bygdegårdsförening
@@ -48935,11 +48955,12 @@ entries:
   web: https://dellenbygdens-fvo.se/
 
 - entry: 1235418751
-  orgName: null
-  orgNumber: null
+  orgName: Skivarps Församling
+  orgNumber: 252002-7489
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/skivarp
 
 - entry: 1235419122
   orgName: Stiftelsen Skandinavisk Yoga och Meditationsskola
@@ -58483,6 +58504,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/jat
 
+- entry: 1236517064
+  orgName: Lena Församling
+  orgNumber: 252002-7091
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/vargarda/lenaforsamling
+
 - entry: 1236519300
   orgName: null
   orgNumber: null
@@ -62098,11 +62127,12 @@ entries:
   web: https://www.vimmerbybrukshundklubb.se/
 
 - entry: 1236954788
-  orgName: null
-  orgNumber: null
+  orgName: Mjölby Församling
+  orgNumber: 252004-0201
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/folkungabygden/mjolbyforsamling
 
 - entry: 1236955199
   orgName: Blue Front Support

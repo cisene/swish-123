@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-18-rev-165506",
+    "date": "2024-02-18-rev-174859",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -874,6 +874,15 @@
         "lokaltidning"
       ],
       "web": "https://www.dagensvimmerby.se/"
+    },
+    {
+      "entry": 1230069781,
+      "orgNumber": "846002-3719",
+      "orgName": "N\u00e4sets Ekumeniska F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.ljungkyrkan.se/"
     },
     {
       "entry": 1230069963,
@@ -22008,6 +22017,15 @@
       "web": "https://www.hairagain.se/"
     },
     {
+      "entry": 1232056778,
+      "orgNumber": "252002-7091",
+      "orgName": "Lena F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vargarda/lenaforsamling"
+    },
+    {
       "entry": 1232062644,
       "orgNumber": "839400-6590",
       "orgName": "\u00c4ngelholms Ekumeniska F\u00f6rsamling",
@@ -33916,6 +33934,15 @@
       "web": "https://www.svenskalag.se/vasterasskidklubb"
     },
     {
+      "entry": 1233262102,
+      "orgNumber": "252004-0219",
+      "orgName": "V\u00e4derstads F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/folkungabygden/vaderstads-forsamling"
+    },
+    {
       "entry": 1233262276,
       "orgNumber": "875701-1310",
       "orgName": "Hallsbergs Brukshundsklubb",
@@ -39938,6 +39965,15 @@
       "web": "https://www.sfk-kroken.nu/"
     },
     {
+      "entry": 1233880457,
+      "orgNumber": "252000-2557",
+      "orgName": "Tunabergs F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tunaberg"
+    },
+    {
       "entry": 1233880762,
       "orgNumber": "802422-0215",
       "orgName": "S606K Stockholms 606-klubb",
@@ -43594,7 +43630,7 @@
     {
       "entry": 1234274205,
       "orgNumber": "252002-7281",
-      "orgName": "Ljungby Maria f\u00f6rsamling",
+      "orgName": "Ljungby Maria F\u00f6rsamling",
       "categories": [
         "religion"
       ],
@@ -49058,6 +49094,15 @@
       "web": "https://www.suderkyrkan.com/"
     },
     {
+      "entry": 1234941506,
+      "orgNumber": "252000-0486",
+      "orgName": "Sollentuna F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sollentuna"
+    },
+    {
       "entry": 1234941647,
       "orgNumber": "893201-9717",
       "orgName": "Str\u00f6msunds RK - Ridsport",
@@ -50872,6 +50917,15 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.unicef.org/namibia/"
+    },
+    {
+      "entry": 1235113733,
+      "orgNumber": "252001-5476",
+      "orgName": "Herrestads F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/herrestad"
     },
     {
       "entry": 1235114111,
@@ -54151,6 +54205,15 @@
         "sportfiske"
       ],
       "web": "https://dellenbygdens-fvo.se/"
+    },
+    {
+      "entry": 1235418751,
+      "orgNumber": "252002-7489",
+      "orgName": "Skivarps F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/skivarp"
     },
     {
       "entry": 1235419122,
@@ -64670,6 +64733,15 @@
       "web": "https://www.hembygd.se/jat"
     },
     {
+      "entry": 1236517064,
+      "orgNumber": "252002-7091",
+      "orgName": "Lena F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vargarda/lenaforsamling"
+    },
+    {
       "entry": 1236519946,
       "orgNumber": "827500-2189",
       "orgName": "Vrigstads IF",
@@ -68569,6 +68641,15 @@
         "hundsport"
       ],
       "web": "https://www.vimmerbybrukshundklubb.se/"
+    },
+    {
+      "entry": 1236954788,
+      "orgNumber": "252004-0201",
+      "orgName": "Mj\u00f6lby F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/folkungabygden/mjolbyforsamling"
     },
     {
       "entry": 1236955199,
