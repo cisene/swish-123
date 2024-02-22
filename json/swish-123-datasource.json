@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-18-rev-174859",
+    "date": "2024-02-22-rev-175804",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4712,6 +4712,15 @@
       "web": "https://www.terapeutjinder.se/"
     },
     {
+      "entry": 1230426817,
+      "orgNumber": "003035-3247",
+      "orgName": "Equmenia Habo",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://missionskyrkanhabo.se/"
+    },
+    {
       "entry": 1230426890,
       "orgNumber": "826001-0064",
       "orgName": "Huskvarna Hundklubb",
@@ -5672,6 +5681,15 @@
         "katthem"
       ],
       "web": "https://nynaskatthem.se/"
+    },
+    {
+      "entry": 1230509448,
+      "orgNumber": "252004-1670",
+      "orgName": "S:t Franciskus Katolska f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.sanktfranciskus.se/"
     },
     {
       "entry": 1230509752,
@@ -9145,6 +9163,16 @@
         "b\u00e5tklubb"
       ],
       "web": "http://www.edsvikensbatklubb.com/"
+    },
+    {
+      "entry": 1230850354,
+      "orgNumber": "252000-0973",
+      "orgName": "Vaxholms F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vaxholm"
     },
     {
       "entry": 1230850719,
@@ -14457,6 +14485,15 @@
       "web": "https://www.botkyrkapingst.se/"
     },
     {
+      "entry": 1231325331,
+      "orgNumber": "833200-0309",
+      "orgName": "Pingstf\u00f6rsamlingen i M\u00f6rlunda",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://morlundapingst.se/"
+    },
+    {
       "entry": 1231325844,
       "orgNumber": "887500-2902",
       "orgName": "Delsbo IF",
@@ -15404,6 +15441,15 @@
         "ideell f\u00f6rening"
       ],
       "web": "https://jordfrihet.org/"
+    },
+    {
+      "entry": 1231430909,
+      "orgNumber": "252004-1050",
+      "orgName": "Vindelns F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vindeln"
     },
     {
       "entry": 1231431220,
@@ -18614,6 +18660,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/ifvaster/"
+    },
+    {
+      "entry": 1231709948,
+      "orgNumber": "252002-8503",
+      "orgName": "V\u00e5r Fru av Rosenkransens F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.katolskakyrkankarlstad.se/"
     },
     {
       "entry": 1231712868,
@@ -23329,6 +23384,16 @@
       "web": "https://torsbyridklubb.se/"
     },
     {
+      "entry": 1232183044,
+      "orgNumber": "252000-0973",
+      "orgName": "Vaxholms F\u00f6rsamling",
+      "comment": "Barnverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vaxholm"
+    },
+    {
       "entry": 1232183515,
       "orgNumber": "864500-2125",
       "orgName": "Pingstf\u00f6rsamlingen Filadelfia Bor\u00e5s",
@@ -25634,6 +25699,16 @@
         "patientf\u00f6rening"
       ],
       "web": "http://www.bota-fa.se/"
+    },
+    {
+      "entry": 1232375442,
+      "orgNumber": "252002-0948",
+      "orgName": "Eksh\u00e4rads F\u00f6rsamling",
+      "comment": "Blomsterfonden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/eksharad"
     },
     {
       "entry": 1232375814,
@@ -39791,6 +39866,15 @@
       "web": "http://www.gmfvarend.se/"
     },
     {
+      "entry": 1233861515,
+      "orgNumber": "802520-3319",
+      "orgName": "Hela M\u00e4nniskan i Oskarshamn",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://helamanniskan.se/oskarshamn/"
+    },
+    {
       "entry": 1233862372,
       "orgNumber": "802471-8028",
       "orgName": "Falu BS Bandy",
@@ -46004,6 +46088,15 @@
       "web": "https://dyslexi.org/"
     },
     {
+      "entry": 1234525846,
+      "orgNumber": "832800-5486",
+      "orgName": "Filadelfiagruppen Bockara",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://morlundapingst.se/bockara/"
+    },
+    {
       "entry": 1234525929,
       "orgNumber": "802451-8162",
       "orgName": "Str\u00f6mstads Motorklubb",
@@ -46041,6 +46134,15 @@
         "politiskt parti"
       ],
       "web": "https://www.mp.se/"
+    },
+    {
+      "entry": 1234535530,
+      "orgNumber": "867200-0653",
+      "orgName": "Habo Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://missionskyrkanhabo.se/"
     },
     {
       "entry": 1234536207,
@@ -50781,6 +50883,16 @@
       "web": "https://orks.nu/"
     },
     {
+      "entry": 1235110226,
+      "orgNumber": "252000-0973",
+      "orgName": "Vaxholms F\u00f6rsamling",
+      "comment": "Bokbord",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vaxholm"
+    },
+    {
       "entry": 1235110358,
       "orgNumber": "802003-5393",
       "orgName": "Bilk\u00e5rernas Stipendie Fond RTLM-Fond",
@@ -53620,6 +53732,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-tomelilla/foreningar/tomelilla.html"
+    },
+    {
+      "entry": 1235358668,
+      "orgNumber": "252000-0973",
+      "orgName": "Vaxholms F\u00f6rsamling",
+      "comment": "Musikverksamhet/konsert",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vaxholm"
     },
     {
       "entry": 1235358692,
@@ -60400,6 +60522,16 @@
       "web": "https://www.laget.se/Ingelstad/"
     },
     {
+      "entry": 1236071344,
+      "orgNumber": "252000-0973",
+      "orgName": "Vaxholms F\u00f6rsamling",
+      "comment": "Ljus",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vaxholm"
+    },
+    {
       "entry": 1236072300,
       "orgNumber": "896100-3277",
       "orgName": "Vilhelmina Brukshundklubb",
@@ -65867,6 +65999,15 @@
         "f\u00f6retagarf\u00f6rening"
       ],
       "web": "https://www.kloverdamvm.se/"
+    },
+    {
+      "entry": 1236682322,
+      "orgNumber": "252002-4866",
+      "orgName": "Nordmalings F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/nordmaling"
     },
     {
       "entry": 1236682520,

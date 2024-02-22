@@ -4269,11 +4269,12 @@ entries:
   web: https://www.terapeutjinder.se/
 
 - entry: 1230426817
-  orgName: null
-  orgNumber: null
+  orgName: Equmenia Habo
+  orgNumber: 003035-3247
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://missionskyrkanhabo.se/
 
 - entry: 1230426890
   orgName: Huskvarna Hundklubb
@@ -5132,6 +5133,14 @@ entries:
   categories:
   - katthem
   web: https://nynaskatthem.se/
+
+- entry: 1230509448
+  orgName: S:t Franciskus Katolska församling
+  orgNumber: 252004-1670
+  comment: null
+  categories:
+  - religion
+  web: https://www.sanktfranciskus.se/
 
 - entry: 1230509752
   orgName: Mälardalens Rör & Montage AB
@@ -8260,11 +8269,12 @@ entries:
   web: http://www.edsvikensbatklubb.com/
 
 - entry: 1230850354
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Vaxholms Församling
+  orgNumber: 252000-0973
+  comment: Kollekt
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/vaxholm
 
 - entry: 1230850719
   orgName: Katarina Församling
@@ -13091,6 +13101,14 @@ entries:
   - religion
   web: https://www.botkyrkapingst.se/
 
+- entry: 1231325331
+  orgName: Pingstförsamlingen i Mörlunda
+  orgNumber: 833200-0309
+  comment: null
+  categories:
+  - religion
+  web: https://morlundapingst.se/
+
 - entry: 1231325844
   orgName: Delsbo IF
   orgNumber: 887500-2902
@@ -13930,11 +13948,12 @@ entries:
   web: https://jordfrihet.org/
 
 - entry: 1231430909
-  orgName: null
-  orgNumber: null
+  orgName: Vindelns Församling
+  orgNumber: 252004-1050
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/vindeln
 
 - entry: 1231431220
   orgName: Skultuna Brukshundklubb
@@ -16826,6 +16845,14 @@ entries:
   categories:
   - idrottsförening
   web: https://www.svenskalag.se/ifvaster/
+
+- entry: 1231709948
+  orgName: Vår Fru av Rosenkransens Församling
+  orgNumber: 252002-8503
+  comment: null
+  categories:
+  - religion
+  web: https://www.katolskakyrkankarlstad.se/
 
 - entry: 1231712868
   orgName: Vattenfalls Veteraner i Stockholm
@@ -21043,11 +21070,12 @@ entries:
   web: https://torsbyridklubb.se/
 
 - entry: 1232183044
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Vaxholms Församling
+  orgNumber: 252000-0973
+  comment: Barnverksamhet
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/vaxholm
 
 - entry: 1232183515
   orgName: Pingstförsamlingen Filadelfia Borås
@@ -23118,6 +23146,14 @@ entries:
   - förening
   - patientförening
   web: http://www.bota-fa.se/
+
+- entry: 1232375442
+  orgName: Ekshärads Församling
+  orgNumber: 252002-0948
+  comment: Blomsterfonden
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/eksharad
 
 - entry: 1232375814
   orgName: Gränna Adventkyrka
@@ -35872,11 +35908,12 @@ entries:
   web: http://www.gmfvarend.se/
 
 - entry: 1233861515
-  orgName: null
-  orgNumber: null
+  orgName: Hela Människan i Oskarshamn
+  orgNumber: 802520-3319
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://helamanniskan.se/oskarshamn/
 
 - entry: 1233862372
   orgName: Falu BS Bandy
@@ -41506,11 +41543,12 @@ entries:
   web: null
 
 - entry: 1234525846
-  orgName: null
-  orgNumber: null
+  orgName: Filadelfiagruppen Bockara
+  orgNumber: 832800-5486
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://morlundapingst.se/bockara/
 
 - entry: 1234525929
   orgName: Strömstads Motorklubb
@@ -41547,11 +41585,12 @@ entries:
   web: https://www.mp.se/
 
 - entry: 1234535530
-  orgName: null
-  orgNumber: null
+  orgName: Habo Missionsförsamling
+  orgNumber: 867200-0653
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://missionskyrkanhabo.se/
 
 - entry: 1234536207
   orgName: Rotary Landvetter-Råda
@@ -45834,11 +45873,12 @@ entries:
   web: https://orks.nu/
 
 - entry: 1235110226
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Vaxholms Församling
+  orgNumber: 252000-0973
+  comment: Bokbord
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/vaxholm
 
 - entry: 1235110358
   orgName: Bilkårernas Stipendie Fond RTLM-Fond
@@ -48411,11 +48451,12 @@ entries:
   web: null
 
 - entry: 1235358668
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Vaxholms Församling
+  orgNumber: 252000-0973
+  comment: Musikverksamhet/konsert
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/vaxholm
 
 - entry: 1235358692
   orgName: Svensk Webbtelevision AB
@@ -54583,11 +54624,12 @@ entries:
   web: https://www.laget.se/Ingelstad/
 
 - entry: 1236071344
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Vaxholms Församling
+  orgNumber: 252000-0973
+  comment: Ljus
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/vaxholm
 
 - entry: 1236072300
   orgName: Vilhelmina Brukshundklubb
@@ -59587,11 +59629,12 @@ entries:
   web: https://www.kloverdamvm.se/
 
 - entry: 1236682322
-  orgName: null
-  orgNumber: null
+  orgName: Nordmalings Församling
+  orgNumber: 252002-4866
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/nordmaling
 
 - entry: 1236682520
   orgName: Tyresö Bygdegård
