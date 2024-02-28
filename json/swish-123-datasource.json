@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-02-22-rev-175804",
+    "date": "2024-02-28-rev-013456",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3243,6 +3243,16 @@
       "web": "https://vallentunakattcenter.se/"
     },
     {
+      "entry": 1230304931,
+      "orgNumber": "252003-6357",
+      "orgName": "Tj\u00f6rns Pastorat",
+      "comment": "Kl\u00e4desholmens kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tjorn"
+    },
+    {
       "entry": 1230305011,
       "orgNumber": "802420-2205",
       "orgName": "Sankt Staffans Kapell \u00c4lv\u00e5sen",
@@ -5185,6 +5195,16 @@
       "web": "https://www.curlingklubben.se/"
     },
     {
+      "entry": 1230473561,
+      "orgNumber": "252003-6357",
+      "orgName": "Tj\u00f6rns Pastorat",
+      "comment": "Stenkyrka kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tjorn"
+    },
+    {
       "entry": 1230474304,
       "orgNumber": "894000-1574",
       "orgName": "Pingstkyrkan Saron Gran\u00f6",
@@ -6410,6 +6430,15 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://ehlers-danlos.se/"
+    },
+    {
+      "entry": 1230594473,
+      "orgNumber": "252002-3025",
+      "orgName": "Tors\u00e5kers f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/torsaker"
     },
     {
       "entry": 1230597856,
@@ -9475,6 +9504,16 @@
       "web": "https://www.gaistifo.org/"
     },
     {
+      "entry": 1230869313,
+      "orgNumber": "252000-9172",
+      "orgName": "R\u00f6deby F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/rodeby"
+    },
+    {
       "entry": 1230870444,
       "orgNumber": "556706-5262",
       "orgName": "Mariag\u00e5rden i Skultuna",
@@ -11031,6 +11070,15 @@
         "religion"
       ],
       "web": "https://ffg.se/"
+    },
+    {
+      "entry": 1231008523,
+      "orgNumber": "802460-5142",
+      "orgName": "Sverigeb\u00f6nen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://sverigebonen.se/"
     },
     {
       "entry": 1231008762,
@@ -16405,6 +16453,15 @@
       "web": "https://www.hembygd.se/orsa-skattunge"
     },
     {
+      "entry": 1231492750,
+      "orgNumber": "857206-7679",
+      "orgName": "Partille Pingstf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.vallhamrakyrkan.se/"
+    },
+    {
       "entry": 1231492941,
       "orgNumber": "849000-5140",
       "orgName": "Lions Club Falkenberg",
@@ -20156,6 +20213,15 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://ujjk.se/"
+    },
+    {
+      "entry": 1231827211,
+      "orgNumber": "252002-8230",
+      "orgName": "Heliga Familjens Katolska F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.katolskakyrkanhaninge.se/"
     },
     {
       "entry": 1231829738,
@@ -24060,6 +24126,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.marbacksif.se/"
+    },
+    {
+      "entry": 1232239341,
+      "orgNumber": "252003-6357",
+      "orgName": "Tj\u00f6rns Pastorat",
+      "comment": "Kl\u00f6vedals kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tjorn"
     },
     {
       "entry": 1232240356,
@@ -28550,6 +28626,15 @@
       "web": "https://www.svenskakyrkan.se/vattholma/lena"
     },
     {
+      "entry": 1232695278,
+      "orgNumber": "878500-6266",
+      "orgName": "Sorbykyrkans f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.sorbykyrkan.se/"
+    },
+    {
       "entry": 1232695419,
       "orgNumber": "802438-2866",
       "orgName": "Lions Club Ljugarn",
@@ -28907,6 +28992,15 @@
         "dykning"
       ],
       "web": "https://jamtdykarna.com/"
+    },
+    {
+      "entry": 1232714715,
+      "orgNumber": "252010-0013",
+      "orgName": "Uppsala Stift",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/uppsala"
     },
     {
       "entry": 1232715159,
@@ -30227,6 +30321,15 @@
       "web": "https://loberod.se/"
     },
     {
+      "entry": 1232838316,
+      "orgNumber": "826500-0094",
+      "orgName": "Alliansf\u00f6rsamlingen Aneby",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.allianskyrkananeby.se/"
+    },
+    {
       "entry": 1232838332,
       "orgNumber": "252000-0395",
       "orgName": "Tyres\u00f6 F\u00f6rsamling",
@@ -30553,6 +30656,16 @@
         "sn\u00f6skoterklubb"
       ],
       "web": "https://www.karlstadmx.se/"
+    },
+    {
+      "entry": 1232886356,
+      "orgNumber": "252003-6357",
+      "orgName": "Tj\u00f6rns Pastorat",
+      "comment": "R\u00f6nn\u00e4ngs kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tjorn"
     },
     {
       "entry": 1232886604,
@@ -37225,6 +37338,16 @@
       "web": "https://klaramarie.se/"
     },
     {
+      "entry": 1233558830,
+      "orgNumber": "252003-6357",
+      "orgName": "Tj\u00f6rns Pastorat",
+      "comment": "Valla kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tjorn"
+    },
+    {
       "entry": 1233559408,
       "orgNumber": "802498-7532",
       "orgName": "Team Sweden Volunteers",
@@ -41172,6 +41295,16 @@
         "religion"
       ],
       "web": "https://heligahjartaskloster.se/"
+    },
+    {
+      "entry": 1233969946,
+      "orgNumber": "252003-6357",
+      "orgName": "Tj\u00f6rns Pastorat",
+      "comment": "\u00c5stols missionshus",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tjorn"
     },
     {
       "entry": 1233975851,
@@ -52536,6 +52669,16 @@
       "web": "https://gnesta-trosa-bk.se/"
     },
     {
+      "entry": 1235252499,
+      "orgNumber": "252003-6357",
+      "orgName": "Tj\u00f6rns Pastorat",
+      "comment": "Sk\u00e4rhamns kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tjorn"
+    },
+    {
       "entry": 1235252663,
       "orgNumber": "802450-2653",
       "orgName": "Club Parapente Syd, CPS",
@@ -53734,6 +53877,15 @@
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-tomelilla/foreningar/tomelilla.html"
     },
     {
+      "entry": 1235358197,
+      "orgNumber": "252004-3841",
+      "orgName": "Alfta-Ovan\u00e5kers f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/alfta-ovanaker"
+    },
+    {
       "entry": 1235358668,
       "orgNumber": "252000-0973",
       "orgName": "Vaxholms F\u00f6rsamling",
@@ -54051,6 +54203,15 @@
         "curling"
       ],
       "web": "https://www.curlingklubben.se/"
+    },
+    {
+      "entry": 1235391750,
+      "orgNumber": "252000-9172",
+      "orgName": "R\u00f6deby F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/rodeby"
     },
     {
       "entry": 1235391982,
@@ -56973,6 +57134,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/spf-seniorerna-moheda/"
+    },
+    {
+      "entry": 1235681705,
+      "orgNumber": "252003-0970",
+      "orgName": "Helsingborgs Pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/helsingborg"
     },
     {
       "entry": 1235682810,
