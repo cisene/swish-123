@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-01-rev-010501",
+    "date": "2024-03-01-rev-170508",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -11642,6 +11642,16 @@
       "web": "https://www.jenneboradio.se/"
     },
     {
+      "entry": 1231063544,
+      "orgNumber": "822000-5071",
+      "orgName": "Linghemskyrkans F\u00f6rsamling",
+      "comment": "Magasinet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.linghemskyrkan.se/"
+    },
+    {
       "entry": 1231063551,
       "orgNumber": "630212-XXXX",
       "orgName": "Kyrkobacka Stall & Ridhus / Elisbeth Hultgren",
@@ -13499,6 +13509,15 @@
       "web": "https://www.laget.se/AlboRidklubb/"
     },
     {
+      "entry": 1231237155,
+      "orgNumber": "813200-1069",
+      "orgName": "Jakobsbergskyrkans F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://jakobsbergskyrkan.se/"
+    },
+    {
       "entry": 1231237551,
       "orgNumber": "885000-7348",
       "orgName": "G\u00e4vle Ryttars\u00e4llskap",
@@ -14570,6 +14589,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/bergshamra/"
+    },
+    {
+      "entry": 1231329515,
+      "orgNumber": "875700-0339",
+      "orgName": "Betesdaf\u00f6rsamling H\u00e4llabrottet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://betesda.se/"
     },
     {
       "entry": 1231331495,
@@ -17413,6 +17441,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://engelholmsgymnasterna.sportadmin.se/"
+    },
+    {
+      "entry": 1231579994,
+      "orgNumber": "822000-5071",
+      "orgName": "Linghemskyrkans F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.linghemskyrkan.se/"
     },
     {
       "entry": 1231581123,
@@ -22909,6 +22946,15 @@
       "web": "https://www.nkyc.se/"
     },
     {
+      "entry": 1232139715,
+      "orgNumber": "846001-1334",
+      "orgName": "Betlehemskyrkan Malm\u00f6",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.betlehemskyrkan.org/"
+    },
+    {
       "entry": 1232141059,
       "orgNumber": "252002-3876",
       "orgName": "Nordingr\u00e5 F\u00f6rsamling",
@@ -23458,6 +23504,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vaxholm"
+    },
+    {
+      "entry": 1232183150,
+      "orgNumber": "817000-1179",
+      "orgName": "V\u00e4sterledskyrkans F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://vasterledskyrkan.se/"
     },
     {
       "entry": 1232183515,
@@ -30230,6 +30285,15 @@
       "web": "https://www.akarpsif.se/"
     },
     {
+      "entry": 1232817906,
+      "orgNumber": "874000-0115",
+      "orgName": "Pingstf\u00f6rsamlingen Torsby",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.kyrktorget.se/pingstkyrkan.torsby"
+    },
+    {
       "entry": 1232818383,
       "orgNumber": "873201-7358",
       "orgName": "Grums Brukshundklubb",
@@ -31657,7 +31721,6 @@
       "entry": 1232990604,
       "orgNumber": "802003-9205",
       "orgName": "\u00c4lvsj\u00f6 Missionsf\u00f6rsamling",
-      "comment": "Insamling, Entr\u00e9",
       "categories": [
         "religion"
       ],
@@ -34225,6 +34288,15 @@
         "religion"
       ],
       "web": "https://bifrostkyrkan.se/"
+    },
+    {
+      "entry": 1233265527,
+      "orgNumber": "802495-0969",
+      "orgName": "Centrumkyrkan Bj\u00e4sta",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://centrumkyrkanbjasta.se/"
     },
     {
       "entry": 1233265816,
@@ -36843,6 +36915,15 @@
         "ishockeyklubb"
       ],
       "web": "https://www.timraik.se/"
+    },
+    {
+      "entry": 1233515699,
+      "orgNumber": "857209-9235",
+      "orgName": "F\u00f6reningen Ymna",
+      "categories": [
+        "k\u00f6rs\u00e5ng"
+      ],
+      "web": "https://www.ymna.se/"
     },
     {
       "entry": 1233516382,
@@ -41192,6 +41273,15 @@
         "hundsport"
       ],
       "web": "https://www.ontk.se/"
+    },
+    {
+      "entry": 1233957966,
+      "orgNumber": "802448-1270",
+      "orgName": "Gislaveds Frikyrkof\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://gislavedsfrikyrkoforsamling.se/"
     },
     {
       "entry": 1233958014,
@@ -45706,6 +45796,15 @@
       "web": "https://www.limafiske.se/"
     },
     {
+      "entry": 1234481685,
+      "orgNumber": "823000-6325",
+      "orgName": "Stiftelsen Ordets Mission",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.ordet.com/"
+    },
+    {
       "entry": 1234482675,
       "orgNumber": "893201-4742",
       "orgName": "J\u00e4mtland/H\u00e4rjedalens Taxklubb",
@@ -47548,6 +47647,15 @@
       "web": "https://fredagskassen.storedo.com/"
     },
     {
+      "entry": 1234665154,
+      "orgNumber": "869000-8548",
+      "orgName": "F\u00f6rsamlingen Liv i \u00d6verfl\u00f6d",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.ekekapell.se/"
+    },
+    {
       "entry": 1234665501,
       "orgNumber": "802471-5107",
       "orgName": "Dravets Syndrome Association Sweden, DSAS",
@@ -49119,6 +49227,15 @@
         "yoga"
       ],
       "web": "https://www.sannasyoga.se/"
+    },
+    {
+      "entry": 1234919239,
+      "orgNumber": "882600-0823",
+      "orgName": "Gustafs Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.kyrktorget.se/missionskyrkan.gustafs"
     },
     {
       "entry": 1234921169,
@@ -56596,6 +56713,15 @@
       "web": "https://dalarnasdk.se/"
     },
     {
+      "entry": 1235615950,
+      "orgNumber": "802494-8104",
+      "orgName": "Centrumkyrkan i Finsp\u00e5ng",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.centrumkyrkanfinspang.se/"
+    },
+    {
       "entry": 1235618715,
       "orgNumber": "840113-XXXX",
       "orgName": "Barig\u00e5rds Ishestar / Emma Barig\u00e5rd",
@@ -63052,6 +63178,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236295463,
+      "orgNumber": "827000-3638",
+      "orgName": "Anneberg Solberga Flisby Missionsf\u00f6rsamlingar",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://missionsforsamlingen.se/"
     },
     {
       "entry": 1236298079,
