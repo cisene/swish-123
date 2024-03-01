@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-02-28-rev-013456
+# Date: 2024-03-01-rev-010501
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2419,6 +2419,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232209021	802487-4045	Blekinge Fornminnesförening	https://www.hembygd.se/blekinge-fornminnesforening	hembygdsförening	
 1232210961	888400-0210	Pingstförsamlingen Kramfors	https://www.kramforspingst.se/	religion	
 1232212033	894003-4138	Sveriges Vapenägares Förbund	https://vapenagaren.se/	förbund,intresseorganisation	
+1232213056	802440-7226	Björnlunda Kammarmusikförening	http://www.bjornlundakammarmusikforening.se/	kammarmusik,musikförening	
 1232213510	815201-1634	Haga-Brunnsvikens Vänner	https://haga-brunnsviken.org/	intresseförening	
 1232213981	556959-7908	Jipåt AB	https://jipt.se/	friskvård,massage	
 1232214732	802429-2420	Borås Skidlöparklubb	https://boråssk.se/	längdskidåkning,skidlöparklubb	
@@ -3883,6 +3884,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233648714	802511-3047	Stöttepelaren - Stödförening för Ensamkommande Barn och Ungdomar	https://stottepelaren.se/	intresseförening,juridiska tjänster	
 1233648961	802490-8314	Riksförbundet Hjärnkoll	https://hjarnkoll.se/	psykisk hälsa,riksförbund	
 1233650785	883201-1863	PRO Rättvik	https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-rattvik/foreningar/rattvik.html	pensionärsklubb	
+1233651650	822003-0723	Caritas Linköping	https://www.sanktnikolai.se/caritas-linkoping/	religion	
 1233651825	855900-9272	Pater Nosters Vänner	https://paternoster-fyren.com/	kulturförening,museum	
 1233651965	814401-0306	Lohärads Hembygdsförening	https://www.hembygd.se/loharad	hembygdsförening	
 1233653409	887500-4304	Ilsbo Hembygdsförening	https://www.hembygd.se/ilsbo	fornminnesförening,hembygdsförening	
@@ -6110,6 +6112,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236025647	866600-2301	Elimkyrkan Skövde Baptistförsamling	https://www.elimkyrkanskovde.se/	religion	
 1236025662	802000-8184	EFS - Evangeliska Fosterlandsstiftelsen	https://www.efs.nu/	religion,stiftelse	EFS internationella mission
 1236025688	252000-0932	Sundbybergs Församling	https://www.svenskakyrkan.se/sundbyberg	religion	Kollekt
+1236026173	879500-0648	Nora-Tärnsjö Baptistförsamling	https://beteltarnsjo.se/	religion	
 1236026694	864000-1767	Skölvene Bygdegårdsförening	https://www.skolvenebygdegard.se/	bygdegårdsförening	
 1236026769	802437-3311	Hasselabygdens Golfklubb	https://www.hasselabygdensgk.com/	golfklubb	
 1236026975	857206-5566	Angered Folkhögskola	https://angeredfolkhogskola.se/	folkhögskola,utbildning	

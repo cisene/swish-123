@@ -21442,6 +21442,15 @@ entries:
   - intresseorganisation
   web: https://vapenagaren.se/
 
+- entry: 1232213056
+  orgName: Björnlunda Kammarmusikförening
+  orgNumber: 802440-7226
+  comment: null
+  categories:
+  - kammarmusik
+  - musikförening
+  web: http://www.bjornlundakammarmusikforening.se/
+
 - entry: 1232213510
   orgName: Haga-Brunnsvikens Vänner
   orgNumber: 815201-1634
@@ -34501,11 +34510,12 @@ entries:
   web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-rattvik/foreningar/rattvik.html
 
 - entry: 1233651650
-  orgName: null
-  orgNumber: null
+  orgName: Caritas Linköping
+  orgNumber: 822003-0723
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.sanktnikolai.se/caritas-linkoping/
 
 - entry: 1233651825
   orgName: Pater Nosters Vänner
@@ -54480,11 +54490,12 @@ entries:
   web: https://www.svenskakyrkan.se/sundbyberg
 
 - entry: 1236026173
-  orgName: null
-  orgNumber: null
+  orgName: Nora-Tärnsjö Baptistförsamling
+  orgNumber: 879500-0648
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://beteltarnsjo.se/
 
 - entry: 1236026694
   orgName: Skölvene Bygdegårdsförening

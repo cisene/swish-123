@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-02-28-rev-013456
+Date:     2024-03-01-rev-010501
 ...
 
 # Swish 123 Nummer
@@ -2421,6 +2421,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232209021 | 802487-4045 | Blekinge Fornminnesförening                                                                          |                           |
 | 1232210961 | 888400-0210 | Pingstförsamlingen Kramfors                                                                          |                           |
 | 1232212033 | 894003-4138 | Sveriges Vapenägares Förbund                                                                         |                           |
+| 1232213056 | 802440-7226 | Björnlunda Kammarmusikförening                                                                       |                           |
 | 1232213510 | 815201-1634 | Haga-Brunnsvikens Vänner                                                                             |                           |
 | 1232213981 | 556959-7908 | Jipåt AB                                                                                             |                           |
 | 1232214732 | 802429-2420 | Borås Skidlöparklubb                                                                                 |                           |
@@ -3885,6 +3886,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233648714 | 802511-3047 | Stöttepelaren - Stödförening för Ensamkommande Barn och Ungdomar                                     |                           |
 | 1233648961 | 802490-8314 | Riksförbundet Hjärnkoll                                                                              |                           |
 | 1233650785 | 883201-1863 | PRO Rättvik                                                                                          |                           |
+| 1233651650 | 822003-0723 | Caritas Linköping                                                                                    |                           |
 | 1233651825 | 855900-9272 | Pater Nosters Vänner                                                                                 |                           |
 | 1233651965 | 814401-0306 | Lohärads Hembygdsförening                                                                            |                           |
 | 1233653409 | 887500-4304 | Ilsbo Hembygdsförening                                                                               |                           |
@@ -6112,6 +6114,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236025647 | 866600-2301 | Elimkyrkan Skövde Baptistförsamling                                                                  |                           |
 | 1236025662 | 802000-8184 | EFS - Evangeliska Fosterlandsstiftelsen                                                              | EFS internationella mission |
 | 1236025688 | 252000-0932 | Sundbybergs Församling                                                                               | Kollekt                   |
+| 1236026173 | 879500-0648 | Nora-Tärnsjö Baptistförsamling                                                                       |                           |
 | 1236026694 | 864000-1767 | Skölvene Bygdegårdsförening                                                                          |                           |
 | 1236026769 | 802437-3311 | Hasselabygdens Golfklubb                                                                             |                           |
 | 1236026975 | 857206-5566 | Angered Folkhögskola                                                                                 |                           |
