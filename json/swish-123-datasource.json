@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-01-rev-170508",
+    "date": "2024-03-01-rev-175940",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -431,6 +431,16 @@
         "spiritualism"
       ],
       "web": "https://lifetv.nu/"
+    },
+    {
+      "entry": 1230040279,
+      "orgNumber": "838202-3151",
+      "orgName": "\u00d6stermalmskyrkans f\u00f6rsamling",
+      "comment": "Missionskassa",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.ostermalmskyrkan.nu/"
     },
     {
       "entry": 1230040311,
@@ -3720,6 +3730,15 @@
       "web": "https://www.eksjorck.se/"
     },
     {
+      "entry": 1230337139,
+      "orgNumber": "802492-6258",
+      "orgName": "INRI Church",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://inrichurch.org/"
+    },
+    {
       "entry": 1230337220,
       "orgNumber": "252004-2058",
       "orgName": "Bettna F\u00f6rsamling",
@@ -4441,6 +4460,15 @@
         "religion"
       ],
       "web": "http://www.ywamstockholm.se/"
+    },
+    {
+      "entry": 1230416354,
+      "orgNumber": "857201-0943",
+      "orgName": "Rambergskyrkans Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/rambergskyrkan/"
     },
     {
       "entry": 1230416438,
@@ -7908,6 +7936,7 @@
       "entry": 1230746859,
       "orgNumber": "838202-3151",
       "orgName": "\u00d6stermalmskyrkans f\u00f6rsamling",
+      "comment": "F\u00f6rsamlingskollekt",
       "categories": [
         "religion"
       ],
@@ -8210,6 +8239,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230760769,
+      "orgNumber": "898500-3915",
+      "orgName": "Johanneskyrkan Boden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/boden/"
     },
     {
       "entry": 1230761759,
@@ -15626,6 +15664,15 @@
       "web": "https://www.djurskyddetvastervik.se/"
     },
     {
+      "entry": 1231442532,
+      "orgNumber": "559450-8797",
+      "orgName": "Ikonverkstaden p\u00e5 K\u00e5llands\u00f6 AB",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://ikonverkstaden.se/"
+    },
+    {
       "entry": 1231447168,
       "orgNumber": "620304-XXXX",
       "orgName": "Glicko.me Glenn Andersson",
@@ -15839,6 +15886,15 @@
         "religion"
       ],
       "web": "https://equmeniakyrkanmotala.se/"
+    },
+    {
+      "entry": 1231464601,
+      "orgNumber": "826500-1837",
+      "orgName": "Pingstf\u00f6rsamlingen Vireda",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://viredapingst.com/"
     },
     {
       "entry": 1231464924,
@@ -19028,6 +19084,15 @@
       "web": "http://www.tvetafriluftsgard.se/"
     },
     {
+      "entry": 1231730431,
+      "orgNumber": "895400-0751",
+      "orgName": "Equmeniakyrkan Lycksele",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/lycksele/"
+    },
+    {
       "entry": 1231730811,
       "orgNumber": "869000-9975",
       "orgName": "Lidk\u00f6pings Brukshundklubb",
@@ -20155,6 +20220,15 @@
       "web": "https://www.alingsasfotoklubb.se/"
     },
     {
+      "entry": 1231819325,
+      "orgNumber": "826000-1113",
+      "orgName": "Huskvarna Alliansf\u00f6rsamlings Barn och ungdom, HABU",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.huskvarnaallianskyrka.se/"
+    },
+    {
       "entry": 1231819515,
       "orgNumber": "818500-6015",
       "orgName": "Equmenia Ekbackskyrkan",
@@ -20815,6 +20889,15 @@
         "religion"
       ],
       "web": "https://kristetcenter.se/"
+    },
+    {
+      "entry": 1231897578,
+      "orgNumber": "884401-0150",
+      "orgName": "Fridhemskyrkans F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/fridhemskyrkan/"
     },
     {
       "entry": 1231898154,
@@ -23213,6 +23296,15 @@
         "laktosintolerans"
       ],
       "web": "https://glutenochmjolkfri.se/"
+    },
+    {
+      "entry": 1232159515,
+      "orgNumber": "879500-0598",
+      "orgName": "M\u00f6klinta Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://m\u00f6klintamissionskyrka.se/"
     },
     {
       "entry": 1232160760,
@@ -26581,6 +26673,16 @@
       "web": "https://www.svenskakyrkan.se/sofia"
     },
     {
+      "entry": 1232441541,
+      "orgNumber": "838202-3151",
+      "orgName": "\u00d6stermalmskyrkans f\u00f6rsamling",
+      "comment": "Caf\u00e9",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.ostermalmskyrkan.nu/"
+    },
+    {
       "entry": 1232441988,
       "orgNumber": "802504-4614",
       "orgName": "Solbackens Bygdeg\u00e5rdsf\u00f6rening",
@@ -28391,6 +28493,15 @@
         "intresseorganisation"
       ],
       "web": "https://www.transparency.se/"
+    },
+    {
+      "entry": 1232670115,
+      "orgNumber": "857203-1857",
+      "orgName": "Equmenia Rambergskyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/rambergskyrkan/"
     },
     {
       "entry": 1232670552,
@@ -35880,6 +35991,15 @@
       "web": "http://kurdlib.org/"
     },
     {
+      "entry": 1233434966,
+      "orgNumber": "826000-1113",
+      "orgName": "Huskvarna Alliansf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.huskvarnaallianskyrka.se/"
+    },
+    {
       "entry": 1233435518,
       "orgNumber": "802534-5466",
       "orgName": "Team Rynkeby",
@@ -43038,6 +43158,15 @@
       "web": "https://www.djurensvanner.se/monsteras"
     },
     {
+      "entry": 1234185096,
+      "orgNumber": "827500-2171",
+      "orgName": "Vrigstad Missionsf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://vrigstadmissionskyrka.se/"
+    },
+    {
       "entry": 1234190088,
       "orgNumber": "802015-5860",
       "orgName": "S\u00e4llskapet Blomsterv\u00e4nnerna",
@@ -43543,6 +43672,15 @@
         "golfklubb"
       ],
       "web": "https://www.hogbogk.com/"
+    },
+    {
+      "entry": 1234228698,
+      "orgNumber": "827500-2171",
+      "orgName": "Equmenia Vrigstad",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://vrigstadmissionskyrka.se/"
     },
     {
       "entry": 1234228763,
@@ -49606,6 +49744,15 @@
         "jujutsuklubb",
         "kampsportsf\u00f6rening"
       ]
+    },
+    {
+      "entry": 1234948535,
+      "orgNumber": "879500-0598",
+      "orgName": "M\u00f6klinta SMU",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://m\u00f6klintamissionskyrka.se/"
     },
     {
       "entry": 1234948691,
@@ -56208,6 +56355,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235577242,
+      "orgNumber": "886000-5209",
+      "orgName": "Kristen Gemenskap",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://kristengemenskap.com/"
+    },
+    {
       "entry": 1235577309,
       "orgNumber": "802505-8408",
       "orgName": "Pite\u00e5 IF Fotbollsf\u00f6rening",
@@ -57758,6 +57914,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-lomma/foreningar/lomma.html"
+    },
+    {
+      "entry": 1235716261,
+      "orgNumber": "802439-0257",
+      "orgName": "\u00c5kerbygdens Alliansf\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://akerafs.se/"
     },
     {
       "entry": 1235716402,
@@ -68653,6 +68818,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/strom"
+    },
+    {
+      "entry": 1236906895,
+      "orgNumber": "884401-0150",
+      "orgName": "Equmenia Fridhemskyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/fridhemskyrkan/"
     },
     {
       "entry": 1236908412,
