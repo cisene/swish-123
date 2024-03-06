@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-03-06-rev-193820
+Date:     2024-03-06-rev-194004
 ...
 
 # Swish 123 Nummer
@@ -9,7 +9,6 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 
 | Swish      | OrgNr       | Namn                                                                                                 | Kommentar                 |
 | ---------- | ----------- | ---------------------------------------------------------------------------------------------------- | ------------------------- |
-|  123464393 | 802006-1688 | Frälsningsarmén                                                                                      | Uppsala socialt arbete    |
 | 1230003194 | 556323-9663 | Kungälv Kode Golfklubb                                                                               |                           |
 | 1230004234 | 802419-7405 | Sörmons Hundklubb                                                                                    |                           |
 | 1230004275 | 889601-3219 | Nolaskogs Biståndscenter, NBC                                                                        | Hjälpverksamhet           |

@@ -2,20 +2,10 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-06-rev-193820",
+    "date": "2024-03-06-rev-194004",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
-    {
-      "entry": 123464393,
-      "orgNumber": "802006-1688",
-      "orgName": "Fr\u00e4lsningsarm\u00e9n",
-      "comment": "Uppsala socialt arbete",
-      "categories": [
-        "religion"
-      ],
-      "web": "https://www.fralsningsarmen.se/uppsala/"
-    },
     {
       "entry": 1230003194,
       "orgNumber": "556323-9663",
