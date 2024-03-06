@@ -2,10 +2,20 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-02-rev-223650",
+    "date": "2024-03-06-rev-193820",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
+    {
+      "entry": 123464393,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Uppsala socialt arbete",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/uppsala/"
+    },
     {
       "entry": 1230003194,
       "orgNumber": "556323-9663",
@@ -485,6 +495,9 @@
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "comment": "Musikk\u00e5ren Norrk\u00f6ping",
+      "categories": [
+        "religion"
+      ],
       "web": "https://www.fralsningsarmen.se/norrkoping/"
     },
     {
@@ -1909,6 +1922,15 @@
         "djurv\u00e5rd"
       ],
       "web": "https://tigerharen.org/"
+    },
+    {
+      "entry": 1230186015,
+      "orgNumber": "849201-1435",
+      "orgName": "Gullbrannakyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.gullbrannakyrkan.se/"
     },
     {
       "entry": 1230186429,
@@ -4265,6 +4287,15 @@
       "web": "https://hertsolandet.se/"
     },
     {
+      "entry": 1230392068,
+      "orgNumber": "864000-3367",
+      "orgName": "Equmeniakyrkan T\u00e5storp Rensvist Eggvena Lagmansholm",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.equmeniakyrkantre.se/"
+    },
+    {
       "entry": 1230392142,
       "orgNumber": "969650-4647",
       "orgName": "Yoga i Hagen / Male & Female Production HB",
@@ -6105,6 +6136,16 @@
       "web": "https://www.allerumgk.nu/"
     },
     {
+      "entry": 1230553123,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Norrt\u00e4lje",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/norrtalje/"
+    },
+    {
       "entry": 1230553255,
       "orgNumber": "252002-7794",
       "orgName": "V\u00e4-Skepparsl\u00f6vs F\u00f6rsamling",
@@ -7017,6 +7058,16 @@
       "web": "https://www.srrs.org/"
     },
     {
+      "entry": 1230644872,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Templet Stockholm socialt arbete",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/templet-stockholm/"
+    },
+    {
       "entry": 1230645481,
       "orgNumber": "802538-8045",
       "orgName": "Help Ukraine in Gothenburg",
@@ -7827,7 +7878,8 @@
     {
       "entry": 1230731554,
       "orgNumber": "802006-1688",
-      "orgName": "Fr\u00e4lsningsarm\u00e9n S\u00f6derk\u00e5ren",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "S\u00f6derk\u00e5ren",
       "categories": [
         "religion"
       ],
@@ -12364,6 +12416,16 @@
       "web": "https://lymfs.se/"
     },
     {
+      "entry": 1231134444,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Sk\u00f6vde",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/skovde/"
+    },
+    {
       "entry": 1231134501,
       "orgNumber": "874000-2822",
       "orgName": "V\u00e4stra \u00c4mterviks Hembygdsf\u00f6rening",
@@ -13510,12 +13572,12 @@
     {
       "entry": 1231223775,
       "orgNumber": "802006-1688",
-      "orgName": "Krukmakarens Hus / Fr\u00e4lsningsarm\u00e9n",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "comment": "Visby",
       "categories": [
         "religion"
       ],
-      "web": "http://www.krukmakarenshus.org/"
+      "web": "https://www.fralsningsarmen.se/visby/"
     },
     {
       "entry": 1231224666,
@@ -18783,6 +18845,16 @@
       "web": "https://www.brottsofferjouren.se/"
     },
     {
+      "entry": 1231687698,
+      "orgNumber": "252000-1583",
+      "orgName": "Uppsala Domkyrkof\u00f6rsamling",
+      "comment": "Hj\u00e4lp Ukraina",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/uppsala"
+    },
+    {
       "entry": 1231688043,
       "orgNumber": "556698-1881",
       "orgName": "Cupkoncept Sverige AB",
@@ -21192,6 +21264,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.tvaakersif.se/"
+    },
+    {
+      "entry": 1231901974,
+      "orgNumber": "252004-7248",
+      "orgName": "Finsp\u00e5ngs F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/finspang"
     },
     {
       "entry": 1231902956,
@@ -25726,6 +25807,16 @@
       "web": "https://www.lifeforum.se/"
     },
     {
+      "entry": 1232316024,
+      "orgNumber": "252000-1583",
+      "orgName": "Uppsala Domkyrkof\u00f6rsamling",
+      "comment": "Act",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/uppsala"
+    },
+    {
       "entry": 1232316925,
       "orgNumber": "802433-1459",
       "orgName": "Lundby IF",
@@ -27219,6 +27310,16 @@
         "naturskydd"
       ],
       "web": "https://borlange.naturskyddsforeningen.se/"
+    },
+    {
+      "entry": 1232490381,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Arvika",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/arvika/"
     },
     {
       "entry": 1232490977,
@@ -29989,6 +30090,16 @@
         "intresseorganisation"
       ],
       "web": "http://www.famy.se/"
+    },
+    {
+      "entry": 1232760833,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "S\u00f6dert\u00e4lje Musikk\u00e5r",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/sodertalje/"
     },
     {
       "entry": 1232761104,
@@ -34058,6 +34169,15 @@
       "web": "https://www.fralsningsarmen.se/Vasteras/"
     },
     {
+      "entry": 1233199502,
+      "orgNumber": "873600-2661",
+      "orgName": "Hela M\u00e4nniskan i Kristinehamn",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://helamanniskan.se/kristinehamn/"
+    },
+    {
       "entry": 1233199924,
       "orgNumber": "898800-3953",
       "orgName": "Bredsels Bygdeg\u00e5rdsf\u00f6rening",
@@ -35183,6 +35303,16 @@
       "web": "https://sverigerunt.org/"
     },
     {
+      "entry": 1233293479,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Hisingsk\u00e5ren",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/hisingskaren/"
+    },
+    {
       "entry": 1233300829,
       "orgNumber": "847000-5250",
       "orgName": "Skytts H\u00e4rads Hembygdsf\u00f6rening",
@@ -35379,6 +35509,16 @@
         "shuffleboard"
       ],
       "web": "https://vemdalenpadelarena.com/"
+    },
+    {
+      "entry": 1233326634,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Eksj\u00f6",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/eksjo/"
     },
     {
       "entry": 1233327541,
@@ -36375,6 +36515,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
+    },
+    {
+      "entry": 1233431459,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Norrk\u00f6ping",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/norrkoping/"
     },
     {
       "entry": 1233431475,
@@ -37453,6 +37603,16 @@
       "web": "https://www.timraik.se/"
     },
     {
+      "entry": 1233515533,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Link\u00f6ping",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/linkoping/"
+    },
+    {
       "entry": 1233515699,
       "orgNumber": "857209-9235",
       "orgName": "F\u00f6reningen Ymna",
@@ -37776,7 +37936,7 @@
       "categories": [
         "religion"
       ],
-      "web": "https://livsluft.efssyd.org/"
+      "web": "https://saltsydsverige.nu/"
     },
     {
       "entry": 1233548153,
@@ -37963,6 +38123,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/norra-billing"
+    },
+    {
+      "entry": 1233556099,
+      "orgNumber": "802498-5551",
+      "orgName": "Familjecentret Kraftk\u00e4llan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.familjecentret.se/"
     },
     {
       "entry": 1233556248,
@@ -39927,6 +40096,16 @@
         "danssport"
       ],
       "web": "https://www.piteswanget.se/"
+    },
+    {
+      "entry": 1233785573,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "N\u00e4ssj\u00f6",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/nassjo/"
     },
     {
       "entry": 1233785854,
@@ -47789,6 +47968,15 @@
       "web": "http://www.dravetssweden.se/"
     },
     {
+      "entry": 1234596128,
+      "orgNumber": "894000-9270",
+      "orgName": "Robertsfors IK",
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/RIK/"
+    },
+    {
       "entry": 1234596797,
       "orgNumber": "556188-3884",
       "orgName": "S\u00f6dersens Auktionshus AB",
@@ -48269,7 +48457,7 @@
       "orgName": "Stockholms Kajak Klubb, SKK",
       "categories": [
         "idrottsf\u00f6rening",
-        "kajak"
+        "kajakklubb"
       ],
       "web": "https://www.kajak.org/"
     },
@@ -48655,6 +48843,16 @@
         "religion"
       ],
       "web": "http://efsas.kyrktorget.net/"
+    },
+    {
+      "entry": 1234701553,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Kristinehamn",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/kristinehamn/"
     },
     {
       "entry": 1234701751,
@@ -51087,6 +51285,15 @@
         "ridskola"
       ],
       "web": "http://gamlebyridklubb.se/"
+    },
+    {
+      "entry": 1235022348,
+      "orgNumber": "864000-2369",
+      "orgName": "Equmeniakyrkan V\u00e5rg\u00e5rda",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/vargarda/"
     },
     {
       "entry": 1235024534,
@@ -53693,6 +53900,16 @@
       "web": "https://www.fralsningsarmen.se/Gavle/"
     },
     {
+      "entry": 1235263264,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Sk\u00f6vde, Sociala arbetet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/skovde/"
+    },
+    {
       "entry": 1235263512,
       "orgNumber": "556823-3836",
       "orgName": "VIYoga AB",
@@ -53867,6 +54084,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235275193,
+      "orgNumber": "864501-0326",
+      "orgName": "V\u00e4nga Hembygdsf\u00f6rening",
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/vanga"
     },
     {
       "entry": 1235275631,
@@ -55880,6 +56106,16 @@
       "web": "https://schaferhundklubben.com/"
     },
     {
+      "entry": 1235452719,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Tran\u00e5s Julgryta",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/tranas/"
+    },
+    {
       "entry": 1235452883,
       "orgNumber": "802006-6349",
       "orgName": "Dataf\u00f6reningen i Sverige",
@@ -56080,6 +56316,16 @@
         "f\u00f6rening"
       ],
       "web": "https://brunnen.nu/"
+    },
+    {
+      "entry": 1235475983,
+      "orgNumber": "802006-1688",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "comment": "Home Stockholm",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/home-stockholm/"
     },
     {
       "entry": 1235476056,
@@ -56695,6 +56941,15 @@
         "religion"
       ],
       "web": "https://www.korskyrkan-jkpg.se/"
+    },
+    {
+      "entry": 1235537097,
+      "orgNumber": "828000-1630",
+      "orgName": "Missionskyrkan Skillingaryd",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.mkyrkan.com/"
     },
     {
       "entry": 1235537113,
@@ -64507,6 +64762,15 @@
       "web": "https://www.torrskog.se/"
     },
     {
+      "entry": 1236355846,
+      "orgNumber": "869000-8977",
+      "orgName": "Mansk\u00f6ren Harmoni",
+      "categories": [
+        "k\u00f6rs\u00e5ng"
+      ],
+      "web": "https://www.manskorenharmoni.se/"
+    },
+    {
       "entry": 1236355861,
       "orgNumber": "877100-5322",
       "orgName": "Nora Brukshundklubb",
@@ -70077,11 +70341,11 @@
       "entry": 1236955496,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
-      "comment": "Templet",
+      "comment": "Templet Stockholm K\u00e5ren",
       "categories": [
         "religion"
       ],
-      "web": "https://www.fralsningsarmen.se/Templet/"
+      "web": "https://www.fralsningsarmen.se/templet-stockholm/"
     },
     {
       "entry": 1236955959,
@@ -70138,7 +70402,7 @@
       "entry": 1236959753,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
-      "comment": "Malm\u00f6 K\u00e5ren",
+      "comment": "Malm\u00f6",
       "categories": [
         "religion"
       ],

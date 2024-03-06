@@ -1,5 +1,13 @@
 entries:
 
+- entry: 123464393
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Uppsala socialt arbete
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/uppsala/
+
 - entry: 1230003194
   orgName: Kungälv Kode Golfklubb
   orgNumber: 556323-9663
@@ -447,7 +455,8 @@ entries:
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
   comment: Musikkåren Norrköping
-  categories: null
+  categories:
+  - religion
   web: https://www.fralsningsarmen.se/norrkoping/
 
 - entry: 1230041079
@@ -1716,6 +1725,14 @@ entries:
   - djurhem
   - djurvård
   web: https://tigerharen.org/
+
+- entry: 1230186015
+  orgName: Gullbrannakyrkan
+  orgNumber: 849201-1435
+  comment: null
+  categories:
+  - religion
+  web: https://www.gullbrannakyrkan.se/
 
 - entry: 1230186429
   orgName: Korpförening Lycksele - Korpen
@@ -3801,6 +3818,14 @@ entries:
   - hembygdsförening
   web: https://hertsolandet.se/
 
+- entry: 1230392068
+  orgName: Equmeniakyrkan Tåstorp Rensvist Eggvena Lagmansholm
+  orgNumber: 864000-3367
+  comment: null
+  categories:
+  - religion
+  web: https://www.equmeniakyrkantre.se/
+
 - entry: 1230392142
   orgName: Yoga i Hagen / Male & Female Production HB
   orgNumber: 969650-4647
@@ -5449,6 +5474,14 @@ entries:
   - golfklubb
   web: https://www.allerumgk.nu/
 
+- entry: 1230553123
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Norrtälje
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/norrtalje/
+
 - entry: 1230553255
   orgName: Vä-Skepparslövs Församling
   orgNumber: 252002-7794
@@ -6261,6 +6294,14 @@ entries:
   - hunduppfödning
   web: https://www.srrs.org/
 
+- entry: 1230644872
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Templet Stockholm socialt arbete
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/templet-stockholm/
+
 - entry: 1230645481
   orgName: Help Ukraine in Gothenburg
   orgNumber: 802538-8045
@@ -6995,9 +7036,9 @@ entries:
   web: http://www.nnif.se/
 
 - entry: 1230731554
-  orgName: Frälsningsarmén Söderkåren
+  orgName: Frälsningsarmén
   orgNumber: 802006-1688
-  comment: null
+  comment: Söderkåren
   categories:
   - religion
   web: https://www.fralsningsarmen.se/soderkaren/
@@ -11083,6 +11124,14 @@ entries:
   - påverkansarbete
   web: https://lymfs.se/
 
+- entry: 1231134444
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Skövde
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/skovde/
+
 - entry: 1231134501
   orgName: Västra Ämterviks Hembygdsförening
   orgNumber: 874000-2822
@@ -12125,12 +12174,12 @@ entries:
   web: https://changingattitudes.co/
 
 - entry: 1231223775
-  orgName: Krukmakarens Hus / Frälsningsarmén
+  orgName: Frälsningsarmén
   orgNumber: 802006-1688
   comment: Visby
   categories:
   - religion
-  web: http://www.krukmakarenshus.org/
+  web: https://www.fralsningsarmen.se/visby/
 
 - entry: 1231224666
   orgName: Mälarbadens Golfklubb
@@ -16858,6 +16907,14 @@ entries:
   - brottsofferjour
   web: https://www.brottsofferjouren.se/
 
+- entry: 1231687698
+  orgName: Uppsala Domkyrkoförsamling
+  orgNumber: 252000-1583
+  comment: Hjälp Ukraina
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/uppsala
+
 - entry: 1231688043
   orgName: Cupkoncept Sverige AB
   orgNumber: 556698-1881
@@ -18999,6 +19056,14 @@ entries:
   categories:
   - idrottsförening
   web: https://www.tvaakersif.se/
+
+- entry: 1231901974
+  orgName: Finspångs Församling
+  orgNumber: 252004-7248
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/finspang
 
 - entry: 1231902956
   orgName: Storfors Hundklubb Lokala Kennelklubb
@@ -23044,6 +23109,14 @@ entries:
   - healing
   web: https://www.lifeforum.se/
 
+- entry: 1232316024
+  orgName: Uppsala Domkyrkoförsamling
+  orgNumber: 252000-1583
+  comment: Act
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/uppsala
+
 - entry: 1232316925
   orgName: Lundby IF
   orgNumber: 802433-1459
@@ -24378,6 +24451,14 @@ entries:
   - förening
   - naturskydd
   web: https://borlange.naturskyddsforeningen.se/
+
+- entry: 1232490381
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Arvika
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/arvika/
 
 - entry: 1232490977
   orgName: Kville Billiard Club
@@ -26880,6 +26961,14 @@ entries:
   - förening
   - intresseorganisation
   web: http://www.famy.se/
+
+- entry: 1232760833
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Södertälje Musikkår
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/sodertalje/
 
 - entry: 1232761104
   orgName: Situation Stockholm
@@ -30555,6 +30644,14 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/Vasteras/
 
+- entry: 1233199502
+  orgName: Hela Människan i Kristinehamn
+  orgNumber: 873600-2661
+  comment: null
+  categories:
+  - religion
+  web: https://helamanniskan.se/kristinehamn/
+
 - entry: 1233199767
   orgName: Stiko Per Larsson
   orgNumber: null
@@ -31563,6 +31660,14 @@ entries:
   - sport
   web: https://sverigerunt.org/
 
+- entry: 1233293479
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Hisingskåren
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/hisingskaren/
+
 - entry: 1233300829
   orgName: Skytts Härads Hembygdsförening
   orgNumber: 847000-5250
@@ -31736,6 +31841,14 @@ entries:
   - padelspel
   - shuffleboard
   web: https://vemdalenpadelarena.com/
+
+- entry: 1233326634
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Eksjö
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/eksjo/
 
 - entry: 1233327541
   orgName: Scandinavian Human Rights Lawyers
@@ -32624,6 +32737,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka
+
+- entry: 1233431459
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Norrköping
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/norrkoping/
 
 - entry: 1233431475
   orgName: Pingst Umeå
@@ -33604,6 +33725,14 @@ entries:
   - ishockeyklubb
   web: https://www.timraik.se/
 
+- entry: 1233515533
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Linköping
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/linkoping/
+
 - entry: 1233515699
   orgName: Föreningen Ymna
   orgNumber: 857209-9235
@@ -33892,7 +34021,7 @@ entries:
   comment: null
   categories:
   - religion
-  web: https://livsluft.efssyd.org/
+  web: https://saltsydsverige.nu/
 
 - entry: 1233548153
   orgName: Leksands Ridklubb
@@ -34057,6 +34186,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/norra-billing
+
+- entry: 1233556099
+  orgName: Familjecentret Kraftkällan
+  orgNumber: 802498-5551
+  comment: null
+  categories:
+  - religion
+  web: https://www.familjecentret.se/
 
 - entry: 1233556248
   orgName: Föreningen Partrederiet Klara Marie
@@ -35796,6 +35933,14 @@ entries:
   - dansförening
   - danssport
   web: https://www.piteswanget.se/
+
+- entry: 1233785573
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Nässjö
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/nassjo/
 
 - entry: 1233785854
   orgName: Kvinno- och Tjejjouren Miranda
@@ -42853,6 +42998,14 @@ entries:
   - intresseförening
   web: http://www.dravetssweden.se/
 
+- entry: 1234596128
+  orgName: Robertsfors IK
+  orgNumber: 894000-9270
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.laget.se/RIK/
+
 - entry: 1234596797
   orgName: Södersens Auktionshus AB
   orgNumber: 556188-3884
@@ -43312,7 +43465,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - kajak
+  - kajakklubb
   web: https://www.kajak.org/
 
 - entry: 1234657821
@@ -43664,6 +43817,14 @@ entries:
   categories:
   - religion
   web: http://efsas.kyrktorget.net/
+
+- entry: 1234701553
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Kristinehamn
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/kristinehamn/
 
 - entry: 1234701751
   orgName: Norsjö Brukshundklubb
@@ -45831,6 +45992,14 @@ entries:
   - ridklubb
   - ridskola
   web: http://gamlebyridklubb.se/
+
+- entry: 1235022348
+  orgName: Equmeniakyrkan Vårgårda
+  orgNumber: 864000-2369
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkan.se/vargarda/
 
 - entry: 1235024534
   orgName: Sandby-Gårdby Hembygdsförening
@@ -48186,6 +48355,14 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/Gavle/
 
+- entry: 1235263264
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Skövde, Sociala arbetet
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/skovde/
+
 - entry: 1235263512
   orgName: VIYoga AB
   orgNumber: 556823-3836
@@ -48242,7 +48419,7 @@ entries:
   orgNumber: null
   comment: null
   categories: null
-  web: https://www.laget.se/rik-ungdom
+  web: https://www.laget.se/RIK/
 
 - entry: 1235265483
   orgName: Vansbro Ryttarsällskap
@@ -48345,6 +48522,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1235275193
+  orgName: Vänga Hembygdsförening
+  orgNumber: 864501-0326
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/vanga
 
 - entry: 1235275383
   orgName: null
@@ -50151,6 +50336,14 @@ entries:
   - hunduppfödning
   web: https://schaferhundklubben.com/
 
+- entry: 1235452719
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Tranås Julgryta
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/tranas/
+
 - entry: 1235452883
   orgName: Dataföreningen i Sverige
   orgNumber: 802006-6349
@@ -50333,6 +50526,14 @@ entries:
   - bygdegårdsförening
   - förening
   web: https://brunnen.nu/
+
+- entry: 1235475983
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Home Stockholm
+  categories:
+  - religion
+  web: https://www.fralsningsarmen.se/home-stockholm/
 
 - entry: 1235476056
   orgName: Nålbolaget Fahlgren AB
@@ -50890,6 +51091,14 @@ entries:
   categories:
   - religion
   web: https://www.korskyrkan-jkpg.se/
+
+- entry: 1235537097
+  orgName: Missionskyrkan Skillingaryd
+  orgNumber: 828000-1630
+  comment: null
+  categories:
+  - religion
+  web: https://www.mkyrkan.com/
 
 - entry: 1235537113
   orgName: Karlstads Pastorat
@@ -57957,6 +58166,14 @@ entries:
   - bygdegårdsförening
   web: https://www.torrskog.se/
 
+- entry: 1236355846
+  orgName: Manskören Harmoni
+  orgNumber: 869000-8977
+  comment: null
+  categories:
+  - körsång
+  web: https://www.manskorenharmoni.se/
+
 - entry: 1236355861
   orgName: Nora Brukshundklubb
   orgNumber: 877100-5322
@@ -63077,10 +63294,10 @@ entries:
 - entry: 1236955496
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
-  comment: Templet
+  comment: Templet Stockholm Kåren
   categories:
   - religion
-  web: https://www.fralsningsarmen.se/Templet/
+  web: https://www.fralsningsarmen.se/templet-stockholm/
 
 - entry: 1236955959
   orgName: Billingens Golfklubb
@@ -63129,7 +63346,7 @@ entries:
 - entry: 1236959753
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
-  comment: Malmö Kåren
+  comment: Malmö
   categories:
   - religion
   web: https://www.fralsningsarmen.se/malmo/
