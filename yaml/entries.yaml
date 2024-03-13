@@ -998,6 +998,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1230082339
+  orgName: KiM - Kvinnojouren i Mark Svenljunga & Tranemo
+  orgNumber: 862501-3258
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnojourenimark.se/
+
 - entry: 1230086223
   orgName: Tailzone AB
   orgNumber: 559361-5254
@@ -8605,6 +8613,15 @@ entries:
   - kvinnojour
   - transjour
   web: http://tjosa.se/
+
+- entry: 1230866350
+  orgName: Luleå Basketbollklubb
+  orgNumber: 897000-7632
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://luleabasket.com/
 
 - entry: 1230866939
   orgName: Röste Bygdegårdsförening
@@ -18854,6 +18871,14 @@ entries:
   - idrottsförening
   web: https://www.skanela.se/
 
+- entry: 1231882570
+  orgName: Kvinnojouren Vallentuna
+  orgNumber: 802409-1160
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnojourenvallentuna.se/
+
 - entry: 1231883248
   orgName: Supporterhuset
   orgNumber: 802490-4784
@@ -24391,6 +24416,15 @@ entries:
   - hundklubb
   - hunduppfödning
   web: http://www.barbet.se/
+
+- entry: 1232465565
+  orgName: VOOV Malmö-Skåne
+  orgNumber: 802491-8099
+  comment: null
+  categories:
+  - djurhem
+  - djurskydd
+  web: https://voov.nu/lokalt/voov-malmo-skane/
 
 - entry: 1232466027
   orgName: SPF Seniorerna Stångby
@@ -30164,6 +30198,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/lastringebygden
 
+- entry: 1233127784
+  orgName: Kvinnojouren Borlänge
+  orgNumber: 882601-0731
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnojourenborlange.se/
+
 - entry: 1233129400
   orgName: Mullsjö Allmänna Innebandysällskap
   orgNumber: 826002-2580
@@ -34007,6 +34049,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/ljungby/ljungby-forsamling
 
+- entry: 1233547585
+  orgName: Kvinnojouren Maria & Tjejjouren Mila
+  orgNumber: 828500-5560
+  comment: null
+  categories:
+  - kvinnojour
+  web: http://www.kvinnojourenmaria.se/
+
 - entry: 1233547791
   orgName: Salt Sydsverige
   orgNumber: 802435-6878
@@ -35864,6 +35914,14 @@ entries:
   - ridsport
   - ryttarsällskap
   web: https://www.knoppelasensryttarsallskap.com/
+
+- entry: 1233781614
+  orgName: Kvinnojouren Iris i Luleå
+  orgNumber: 897000-8473
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnojoureniris.se/
 
 - entry: 1233781747
   orgName: Glommens Bygdegårdsförening
@@ -45846,6 +45904,15 @@ entries:
   - religion
   web: https://icrss.se/
 
+- entry: 1235005897
+  orgName: Nationell kvinnojour och stöd på teckenspråk, NKJT
+  orgNumber: 802529-0662
+  comment: null
+  categories:
+  - kvinnojour
+  - teckenspråk
+  web: https://nkjt.se/
+
 - entry: 1235006556
   orgName: Bjuvs Brukshundsklubb
   orgNumber: 843001-5944
@@ -48113,6 +48180,14 @@ entries:
   - hjälporganisation
   web: https://www.rodakorset.se/ort/skane/landskrona-stad/
 
+- entry: 1235229901
+  orgName: Haninge Kvinnojour
+  orgNumber: 812401-1274
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.haningekvinnojour.se/
+
 - entry: 1235230479
   orgName: Team Rynkeby
   orgNumber: 802533-7794
@@ -48206,6 +48281,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1235242573
+  orgName: Härnösands Kvinnojour
+  orgNumber: 888000-4661
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnojouren.com/
 
 - entry: 1235245006
   orgName: Perikles Nöjes Aktiebolag
@@ -61404,11 +61487,12 @@ entries:
   web: https://www.svenskalag.se/kirunaaif
 
 - entry: 1236751432
-  orgName: null
-  orgNumber: null
+  orgName: Kvinnojouren Frideborg
+  orgNumber: 852000-4998
   comment: null
-  categories: null
-  web: null
+  categories:
+  - kvinnojour
+  web: https://www.frideborg.se/
 
 - entry: 1236751796
   orgName: null
@@ -70216,11 +70300,12 @@ entries:
   web: https://www.barnenshopp.org/
 
 - entry: 1239010687
-  orgName: TERRAFEM
+  orgName: Terrafem
   orgNumber: 802409-1970
   comment: null
   categories:
   - insamlingskontroll
+  - kvinnojour
   web: https://www.terrafem.org/
 
 - entry: 1239010729

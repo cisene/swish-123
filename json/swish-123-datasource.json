@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-06-rev-194004",
+    "date": "2024-03-14-rev-003556",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1109,6 +1109,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230082339,
+      "orgNumber": "862501-3258",
+      "orgName": "KiM - Kvinnojouren i Mark Svenljunga & Tranemo",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.kvinnojourenimark.se/"
     },
     {
       "entry": 1230086223,
@@ -9637,6 +9646,16 @@
         "transjour"
       ],
       "web": "http://tjosa.se/"
+    },
+    {
+      "entry": 1230866350,
+      "orgNumber": "897000-7632",
+      "orgName": "Lule\u00e5 Basketbollklubb",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://luleabasket.com/"
     },
     {
       "entry": 1230866939,
@@ -21035,6 +21054,15 @@
       "web": "https://www.skanela.se/"
     },
     {
+      "entry": 1231882570,
+      "orgNumber": "802409-1160",
+      "orgName": "Kvinnojouren Vallentuna",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.kvinnojourenvallentuna.se/"
+    },
+    {
       "entry": 1231883248,
       "orgNumber": "802490-4784",
       "orgName": "Supporterhuset",
@@ -27242,6 +27270,16 @@
         "hunduppf\u00f6dning"
       ],
       "web": "http://www.barbet.se/"
+    },
+    {
+      "entry": 1232465565,
+      "orgNumber": "802491-8099",
+      "orgName": "VOOV Malm\u00f6-Sk\u00e5ne",
+      "categories": [
+        "djurhem",
+        "djurskydd"
+      ],
+      "web": "https://voov.nu/lokalt/voov-malmo-skane/"
     },
     {
       "entry": 1232466027,
@@ -33643,6 +33681,15 @@
       "web": "https://www.hembygd.se/lastringebygden"
     },
     {
+      "entry": 1233127784,
+      "orgNumber": "882601-0731",
+      "orgName": "Kvinnojouren Borl\u00e4nge",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.kvinnojourenborlange.se/"
+    },
+    {
       "entry": 1233129400,
       "orgNumber": "826002-2580",
       "orgName": "Mullsj\u00f6 Allm\u00e4nna Innebandys\u00e4llskap",
@@ -37920,6 +37967,15 @@
       "web": "https://www.svenskakyrkan.se/ljungby/ljungby-forsamling"
     },
     {
+      "entry": 1233547585,
+      "orgNumber": "828500-5560",
+      "orgName": "Kvinnojouren Maria & Tjejjouren Mila",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "http://www.kvinnojourenmaria.se/"
+    },
+    {
       "entry": 1233547791,
       "orgNumber": "802435-6878",
       "orgName": "Salt Sydsverige",
@@ -40018,6 +40074,15 @@
         "ryttars\u00e4llskap"
       ],
       "web": "https://www.knoppelasensryttarsallskap.com/"
+    },
+    {
+      "entry": 1233781614,
+      "orgNumber": "897000-8473",
+      "orgName": "Kvinnojouren Iris i Lule\u00e5",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.kvinnojoureniris.se/"
     },
     {
       "entry": 1233781747,
@@ -51129,6 +51194,16 @@
       "web": "https://icrss.se/"
     },
     {
+      "entry": 1235005897,
+      "orgNumber": "802529-0662",
+      "orgName": "Nationell kvinnojour och st\u00f6d p\u00e5 teckenspr\u00e5k, NKJT",
+      "categories": [
+        "kvinnojour",
+        "teckenspr\u00e5k"
+      ],
+      "web": "https://nkjt.se/"
+    },
+    {
       "entry": 1235006556,
       "orgNumber": "843001-5944",
       "orgName": "Bjuvs Brukshundsklubb",
@@ -53618,6 +53693,15 @@
       "web": "https://www.rodakorset.se/ort/skane/landskrona-stad/"
     },
     {
+      "entry": 1235229901,
+      "orgNumber": "812401-1274",
+      "orgName": "Haninge Kvinnojour",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.haningekvinnojour.se/"
+    },
+    {
       "entry": 1235230479,
       "orgNumber": "802533-7794",
       "orgName": "Team Rynkeby",
@@ -53727,6 +53811,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235242573,
+      "orgNumber": "888000-4661",
+      "orgName": "H\u00e4rn\u00f6sands Kvinnojour",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.kvinnojouren.com/"
     },
     {
       "entry": 1235245006,
@@ -68274,6 +68367,15 @@
       "web": "https://www.svenskalag.se/kirunaaif"
     },
     {
+      "entry": 1236751432,
+      "orgNumber": "852000-4998",
+      "orgName": "Kvinnojouren Frideborg",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.frideborg.se/"
+    },
+    {
       "entry": 1236752166,
       "orgNumber": "895401-1824",
       "orgName": "Riksf\u00f6rbundet Hj\u00e4rtLung Lycksele",
@@ -74386,9 +74488,10 @@
     {
       "entry": 1239010687,
       "orgNumber": "802409-1970",
-      "orgName": "TERRAFEM",
+      "orgName": "Terrafem",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "kvinnojour"
       ],
       "web": "https://www.terrafem.org/"
     },
