@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-14-rev-003556",
+    "date": "2024-03-16-rev-124403",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -145,6 +145,15 @@
         "reumatism"
       ],
       "web": "https://sle.reumatiker.se/"
+    },
+    {
+      "entry": 1230008235,
+      "orgNumber": "252002-2522",
+      "orgName": "Floda F\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/gagnef/floda"
     },
     {
       "entry": 1230008797,
@@ -589,6 +598,15 @@
         "profilkl\u00e4der"
       ],
       "web": "https://www.profiltryckeriet.se/"
+    },
+    {
+      "entry": 1230052928,
+      "orgNumber": "814401-1882",
+      "orgName": "Norrt\u00e4lje Kvinnojour Sn\u00e4ckan",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://kvinnojourennorrtalje.se/"
     },
     {
       "entry": 1230053074,
@@ -1336,6 +1354,15 @@
         "sl\u00e4ktforskning"
       ],
       "web": "https://www.insf.se/medlemskap/"
+    },
+    {
+      "entry": 1230100750,
+      "orgNumber": "846005-1751",
+      "orgName": "Lions Club Malm\u00f6 Ellenbogen",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/malmoe/index.php"
     },
     {
       "entry": 1230107292,
@@ -3192,6 +3219,16 @@
         "reservdelar"
       ],
       "web": "https://skarlunda.se/"
+    },
+    {
+      "entry": 1230297820,
+      "orgNumber": "252003-7926",
+      "orgName": "Norra Gotlands pastorat",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norragotland"
     },
     {
       "entry": 1230298117,
@@ -13967,6 +14004,15 @@
         "salladsbar"
       ],
       "web": "https://www.goodgreen.se/"
+    },
+    {
+      "entry": 1231244185,
+      "orgNumber": "802480-7292",
+      "orgName": "Brandhj\u00e4rtans Insamlingsstiftelse",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "http://brandhjartan.se/"
     },
     {
       "entry": 1231247584,
@@ -28801,6 +28847,15 @@
       ]
     },
     {
+      "entry": 1232652782,
+      "orgNumber": "832401-4847",
+      "orgName": "Kalmar Soroptimistklubb",
+      "categories": [
+        "st\u00f6dverksamhet"
+      ],
+      "web": "https://www.soroptimistsweden.se/klubb/kalmar/"
+    },
+    {
       "entry": 1232656189,
       "orgNumber": "559100-1952",
       "orgName": "Fridens H\u00e4lsa AB",
@@ -31307,6 +31362,16 @@
       "web": "https://dorotea.pingst.se/"
     },
     {
+      "entry": 1232884187,
+      "orgNumber": "252003-4337",
+      "orgName": "Sala-Norrby-M\u00f6klinta Pastorat",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sala"
+    },
+    {
       "entry": 1232884336,
       "orgNumber": "556941-7370",
       "orgName": "Willow H\u00e4lsa / Villa Cosmos AB / Helena Lundvik",
@@ -33095,6 +33160,15 @@
       "web": "https://almhult.konstforeningar.se/"
     },
     {
+      "entry": 1233055050,
+      "orgNumber": "802481-0270",
+      "orgName": "Insamlingsstiftelse Respira",
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://insamlingsstiftelsenrespira.com/"
+    },
+    {
       "entry": 1233055357,
       "orgNumber": "490726-XXXX",
       "orgName": "Flammor / Antikvariatet, Vetlanda / Holger Nilsson",
@@ -33352,6 +33426,15 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.sigtunaridskola.com/"
+    },
+    {
+      "entry": 1233086543,
+      "orgNumber": "802532-8397",
+      "orgName": "Kvinnojouren i Ulricehamn",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.kvinnojourenulricehamn.se/"
     },
     {
       "entry": 1233088317,
@@ -34271,6 +34354,15 @@
         "supporterklubb"
       ],
       "web": "http://www.lakerslakejer.se/"
+    },
+    {
+      "entry": 1233204013,
+      "orgNumber": "802009-7138",
+      "orgName": "Zonta International District 21",
+      "categories": [
+        "st\u00f6dverksamhet"
+      ],
+      "web": "https://zonta.se/"
     },
     {
       "entry": 1233204070,
@@ -36165,6 +36257,15 @@
         "katthem"
       ],
       "web": "https://kattinorr.se/"
+    },
+    {
+      "entry": 1233384989,
+      "orgNumber": "802407-8779",
+      "orgName": "1,6 miljonerklubben",
+      "categories": [
+        "h\u00e4lsa"
+      ],
+      "web": "https://www.1.6miljonerklubben.com/"
     },
     {
       "entry": 1233385531,
@@ -40969,6 +41070,16 @@
       "web": "https://www.alfvengarden.se/"
     },
     {
+      "entry": 1233873429,
+      "orgNumber": "849400-3406",
+      "orgName": "S\u00e4r\u00f6 Kyrkostiftelse",
+      "categories": [
+        "religion",
+        "stiftelse"
+      ],
+      "web": "https://www.sarokyrka.se/"
+    },
+    {
       "entry": 1233873718,
       "orgNumber": "824001-0606",
       "orgName": "Naturskyddsf\u00f6reningen i Motala",
@@ -43730,6 +43841,16 @@
       "web": "https://pro.se/distrikt/distrikt-blekinge/samorganisationer/samorganisation-karlshamn/foreningar/karlshamn.html"
     },
     {
+      "entry": 1234170197,
+      "orgNumber": "252003-4337",
+      "orgName": "Sala-Norrby-M\u00f6klinta Pastorat",
+      "comment": "G\u00e5va",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sala"
+    },
+    {
       "entry": 1234170551,
       "orgNumber": "530530-XXXX",
       "orgName": "Lena Pr\u00e4stg\u00e5rd Ridhus / Ove Stenson",
@@ -44231,6 +44352,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/alvdalen/"
+    },
+    {
+      "entry": 1234205852,
+      "orgNumber": "802431-4166",
+      "orgName": "Tjejjouren Norrk\u00f6ping",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.tjejjourennorrkoping.se/"
     },
     {
       "entry": 1234206280,
@@ -45911,6 +46041,16 @@
       "web": "http://hogvaltabygdegard.se/"
     },
     {
+      "entry": 1234402996,
+      "orgNumber": "802462-9365",
+      "orgName": "Kultursjukhuset",
+      "categories": [
+        "barnverksamhet",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.kultursjukhuset.se/"
+    },
+    {
       "entry": 1234403648,
       "orgNumber": "802505-5644",
       "orgName": "G\u00f6teborgsregionens N\u00e4mndemannaf\u00f6rening",
@@ -46278,6 +46418,16 @@
         "hundsport"
       ],
       "web": "https://djurvardag.se/"
+    },
+    {
+      "entry": 1234419784,
+      "orgNumber": "819001-1463",
+      "orgName": "Reumatikerf\u00f6rening \u00d6stra S\u00f6rmland",
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://os.reumatiker.se/"
     },
     {
       "entry": 1234419792,
@@ -49112,6 +49262,15 @@
       "web": "https://alvraddarna.se/"
     },
     {
+      "entry": 1234718375,
+      "orgNumber": "894001-7075",
+      "orgName": "Kvinnojouren i Ume\u00e5",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "http://www.kvinnojoureniumea.se/"
+    },
+    {
       "entry": 1234718631,
       "orgNumber": "556227-9942",
       "orgName": "Plaza Interi\u00f6r / Investmentbolaget LGAB Sverige AB",
@@ -50648,6 +50807,16 @@
         "golfklubb"
       ],
       "web": "http://boagk.se/"
+    },
+    {
+      "entry": 1234956140,
+      "orgNumber": "252003-4337",
+      "orgName": "Sala-Norrby-M\u00f6klinta Pastorat",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sala"
     },
     {
       "entry": 1234956256,
@@ -55554,6 +55723,15 @@
       "web": "https://vildhallon.com/"
     },
     {
+      "entry": 1235399365,
+      "orgNumber": "252003-2059",
+      "orgName": "Knivsta Pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/knivsta"
+    },
+    {
       "entry": 1235399720,
       "orgNumber": "556794-8400",
       "orgName": "Crevoice AB",
@@ -58251,6 +58429,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-uppsala/foreningar/storvreta.html"
+    },
+    {
+      "entry": 1235666227,
+      "orgNumber": "802537-4706",
+      "orgName": "Onlineklubben Inom Sverigeunionen",
+      "categories": [
+        "utbildning"
+      ],
+      "web": "https://www.soroptimistsverigeklubben.com/"
     },
     {
       "entry": 1235666243,
@@ -62812,6 +62999,15 @@
       "web": "https://prostatacancerforbundet.se/pcfikalmarlan/"
     },
     {
+      "entry": 1236155949,
+      "orgNumber": "252003-4261",
+      "orgName": "Gagnefs Pastorat",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/gagnef"
+    },
+    {
       "entry": 1236156558,
       "orgNumber": "884402-0217",
       "orgName": "Brottsofferjouren Norra Dalarna",
@@ -62987,6 +63183,16 @@
         "hudv\u00e5rd"
       ],
       "web": "https://www.eco-butiken.se/"
+    },
+    {
+      "entry": 1236172811,
+      "orgNumber": "252002-2506",
+      "orgName": "Mockfj\u00e4rds F\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/gagnef/mockfjard"
     },
     {
       "entry": 1236172985,
@@ -66485,6 +66691,15 @@
       "web": "https://genesis.nu/"
     },
     {
+      "entry": 1236520621,
+      "orgNumber": "802502-2305",
+      "orgName": "M\u00e4n F\u00f6r Kvinnofrid",
+      "categories": [
+        "st\u00f6dverksamhet"
+      ],
+      "web": "https://skekvinnofrid.se/"
+    },
+    {
       "entry": 1236521637,
       "orgNumber": "556967-8310",
       "orgName": "Snabb Grus Sverige AB",
@@ -66493,6 +66708,15 @@
         "sand"
       ],
       "web": "https://www.snabbgrus.se/"
+    },
+    {
+      "entry": 1236522296,
+      "orgNumber": "802471-7236",
+      "orgName": "Qjouren",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://qjouren.se/"
     },
     {
       "entry": 1236524334,
