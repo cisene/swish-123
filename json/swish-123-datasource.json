@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-16-rev-124403",
+    "date": "2024-03-17-rev-142231",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6026,6 +6026,15 @@
       "web": "http://laikafilm.se/"
     },
     {
+      "entry": 1230530006,
+      "orgNumber": "802001-3382",
+      "orgName": "Hifhistoria",
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://shows.acast.com/hifhistoria"
+    },
+    {
       "entry": 1230536193,
       "orgNumber": "895400-6485",
       "orgName": "Storumans Brukshundklubb",
@@ -12013,6 +12022,16 @@
       "web": "https://www.svenskakyrkan.se/harnosand"
     },
     {
+      "entry": 1231077338,
+      "orgNumber": "802512-3475",
+      "orgName": "V\u00e4sby Rock Podcast / V\u00e4sby Musikf\u00f6rening",
+      "categories": [
+        "musikf\u00f6rening",
+        "podcast"
+      ],
+      "web": "https://feed.pod.space/vasbyrockpodcast"
+    },
+    {
       "entry": 1231077395,
       "orgNumber": "849201-3985",
       "orgName": "F\u00f6reningen Gamla Halmstad",
@@ -12317,6 +12336,15 @@
         "katthem"
       ],
       "web": "http://www.fisksatrakatthem.se/"
+    },
+    {
+      "entry": 1231100726,
+      "orgNumber": "556950-2361",
+      "orgName": "Spr\u00e5ktidningens podd / Vetenskapsmedia i Sverige AB",
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://spraktidningen.se/podden/"
     },
     {
       "entry": 1231102086,
@@ -15220,6 +15248,15 @@
       "web": "https://www.kirunajaktochfiske.se/"
     },
     {
+      "entry": 1231356104,
+      "orgNumber": "750812-XXXX",
+      "orgName": "Podden De assimilerade / Robin Tingl\u00f6f",
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://deassimilerade.com/"
+    },
+    {
       "entry": 1231357201,
       "orgNumber": "820406-XXXX",
       "orgName": "Aktivt n\u00e4rvarande / Hel\u00e9ne Hellman",
@@ -15763,6 +15800,15 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/varnamokvinnojour/"
+    },
+    {
+      "entry": 1231415199,
+      "orgNumber": "559257-4585",
+      "orgName": "Stj\u00e4rnkrigspodden / Punktliga Produktioner AB",
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://feeds.acast.com/public/shows/6013ddc67936470add79dcd4"
     },
     {
       "entry": 1231416759,
@@ -29087,7 +29133,8 @@
       "orgNumber": "559021-7161",
       "orgName": "V\u00e5r B\u00e4sta V\u00e4n AB",
       "categories": [
-        "media production"
+        "media production",
+        "podcast"
       ],
       "web": "https://gurgin.libsyn.com/"
     },
@@ -31332,6 +31379,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://lsdk.se/"
+    },
+    {
+      "entry": 1232881134,
+      "orgNumber": "802416-7283",
+      "orgName": "Grunden Bois - Prioritet Serneke Arena",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.grundenbois.com/"
     },
     {
       "entry": 1232881183,
@@ -35660,6 +35717,16 @@
       "web": "https://humanrightslawyers.eu/"
     },
     {
+      "entry": 1233330404,
+      "orgNumber": "802542-0350",
+      "orgName": "Friends of mio",
+      "categories": [
+        "djurskydd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.friendsofmio.com/"
+    },
+    {
       "entry": 1233334661,
       "orgNumber": "780302-XXXX",
       "orgName": "Wellness 4 Life Sweden AB",
@@ -36211,7 +36278,7 @@
     {
       "entry": 1233383486,
       "orgNumber": "802464-6922",
-      "orgName": "East Front",
+      "orgName": "East Front, \u00d6sters IF",
       "categories": [
         "supporterklubb"
       ],
@@ -36784,6 +36851,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/m-klinta-hembygdsf-rening"
+    },
+    {
+      "entry": 1233444528,
+      "orgNumber": "802453-8749",
+      "orgName": "V\u00e5rt S\u00f6dersl\u00e4tt",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://vartsoderslatt.se/"
     },
     {
       "entry": 1233444536,
@@ -43569,6 +43645,16 @@
       "web": "https://www.pingst-ovik.se/"
     },
     {
+      "entry": 1234126751,
+      "orgNumber": "556600-7562",
+      "orgName": "Svenska ATM podden / Feldenkrais Skolan i Solna",
+      "categories": [
+        "podcast",
+        "utbildning"
+      ],
+      "web": "https://svenskaatmpodden.se/"
+    },
+    {
       "entry": 1234127965,
       "orgNumber": "790906-XXXX",
       "orgName": "HundBiten / Lovisa Viktoria Dyn\u00e9r",
@@ -48239,6 +48325,15 @@
       "web": "http://www.deltainkasso.se/"
     },
     {
+      "entry": 1234604039,
+      "orgNumber": "802488-3467",
+      "orgName": "Medborgerlig Samling",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://www.med.se/"
+    },
+    {
       "entry": 1234605119,
       "orgNumber": "802532-9916",
       "orgName": "Team Rynkeby",
@@ -49616,6 +49711,14 @@
         "massage"
       ],
       "web": "http://www.fotfixaren.se/"
+    },
+    {
+      "entry": 1234789103,
+      "orgNumber": "559318-1604",
+      "orgName": "Podcasten Brottarbr\u00f6der",
+      "categories": [
+        "podcast"
+      ]
     },
     {
       "entry": 1234790010,
@@ -57429,6 +57532,16 @@
       "web": "https://www.blackebergbasket.com/"
     },
     {
+      "entry": 1235559430,
+      "orgNumber": "817601-9928",
+      "orgName": "Liberala Podden / Liberalerna i Uppsala",
+      "categories": [
+        "podcast",
+        "politiskt parti"
+      ],
+      "web": "https://uppsala.liberalerna.se/podcast/"
+    },
+    {
       "entry": 1235559547,
       "orgNumber": "829500-6384",
       "orgName": "L\u00e5ngasj\u00f6 Hembygdsf\u00f6rening",
@@ -61611,6 +61724,15 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "http://www.estunabygdegard.se/"
+    },
+    {
+      "entry": 1236009093,
+      "orgNumber": "559128-3469",
+      "orgName": "Samtal i Trosa / Erik Karlberg AB",
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://samtalitrosa.se/"
     },
     {
       "entry": 1236009476,

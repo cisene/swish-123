@@ -2840,6 +2840,14 @@ entries:
   - skidor
   web: https://www.hagglundsskiteam.se/
 
+- entry: 1230296343
+  orgName: Andra Sätt / Patrik Andersson
+  orgNumber: null
+  comment: null
+  categories:
+  - podcast
+  web: https://podcasts.nu/poddar/andra-satt
+
 - entry: 1230296749
   orgName: Vallentuna Golfklubb
   orgNumber: 556707-6889
@@ -5377,6 +5385,14 @@ entries:
   categories:
   - filmproduktion
   web: http://laikafilm.se/
+
+- entry: 1230530006
+  orgName: Hifhistoria
+  orgNumber: 802001-3382
+  comment: null
+  categories:
+  - podcast
+  web: https://shows.acast.com/hifhistoria
 
 - entry: 1230536193
   orgName: Storumans Brukshundklubb
@@ -10767,6 +10783,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/harnosand
 
+- entry: 1231077338
+  orgName: Väsby Rock Podcast / Väsby Musikförening
+  orgNumber: 802512-3475
+  comment: null
+  categories:
+  - musikförening
+  - podcast
+  web: https://feed.pod.space/vasbyrockpodcast
+
 - entry: 1231077395
   orgName: Föreningen Gamla Halmstad
   orgNumber: 849201-3985
@@ -11035,6 +11060,14 @@ entries:
   - djurskydd
   - katthem
   web: http://www.fisksatrakatthem.se/
+
+- entry: 1231100726
+  orgName: Språktidningens podd / Vetenskapsmedia i Sverige AB
+  orgNumber: 556950-2361
+  comment: null
+  categories:
+  - podcast
+  web: https://spraktidningen.se/podden/
 
 - entry: 1231102086
   orgName: SPF Seniorerna Björkekärr
@@ -13651,6 +13684,14 @@ entries:
   - viltvård
   web: https://www.kirunajaktochfiske.se/
 
+- entry: 1231356104
+  orgName: Podden De assimilerade / Robin Tinglöf
+  orgNumber: 750812-XXXX
+  comment: null
+  categories:
+  - podcast
+  web: https://deassimilerade.com/
+
 - entry: 1231357201
   orgName: Aktivt närvarande / Heléne Hellman
   orgNumber: 820406-XXXX
@@ -14134,6 +14175,14 @@ entries:
   categories:
   - kvinnojour
   web: https://www.unizonjourer.se/varnamokvinnojour/
+
+- entry: 1231415199
+  orgName: Stjärnkrigspodden / Punktliga Produktioner AB
+  orgNumber: 559257-4585
+  comment: null
+  categories:
+  - podcast
+  web: https://feeds.acast.com/public/shows/6013ddc67936470add79dcd4
 
 - entry: 1231416759
   orgName: Älvkarleby RK - Ridsport
@@ -26062,6 +26111,7 @@ entries:
   comment: null
   categories:
   - media production
+  - podcast
   web: https://gurgin.libsyn.com/
 
 - entry: 1232678225
@@ -28078,6 +28128,15 @@ entries:
   - dykarklubb
   - idrottsförening
   web: https://lsdk.se/
+
+- entry: 1232881134
+  orgName: Grunden Bois - Prioritet Serneke Arena
+  orgNumber: 802416-7283
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.grundenbois.com/
 
 - entry: 1232881183
   orgName: Rotary Stockholm Global City
@@ -31973,6 +32032,15 @@ entries:
   - rättshjälp
   web: https://humanrightslawyers.eu/
 
+- entry: 1233330404
+  orgName: Friends of mio
+  orgNumber: 802542-0350
+  comment: null
+  categories:
+  - djurskydd
+  - intresseförening
+  web: https://www.friendsofmio.com/
+
 - entry: 1233334331
   orgName: null
   orgNumber: null
@@ -32463,7 +32531,7 @@ entries:
   web: https://www.motalarf.com/
 
 - entry: 1233383486
-  orgName: East Front
+  orgName: East Front, Östers IF
   orgNumber: 802464-6922
   comment: null
   categories:
@@ -32974,6 +33042,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/m-klinta-hembygdsf-rening
+
+- entry: 1233444528
+  orgName: Vårt Söderslätt
+  orgNumber: 802453-8749
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://vartsoderslatt.se/
 
 - entry: 1233444536
   orgName: Ingmarsö Bygdegårdsförening
@@ -39088,6 +39164,15 @@ entries:
   - religion
   web: https://www.pingst-ovik.se/
 
+- entry: 1234126751
+  orgName: Svenska ATM podden / Feldenkrais Skolan i Solna
+  orgNumber: 556600-7562
+  comment: null
+  categories:
+  - podcast
+  - utbildning
+  web: https://svenskaatmpodden.se/
+
 - entry: 1234127965
   orgName: HundBiten / Lovisa Viktoria Dynér
   orgNumber: 790906-XXXX
@@ -43238,6 +43323,14 @@ entries:
   - kredittjänster
   web: http://www.deltainkasso.se/
 
+- entry: 1234604039
+  orgName: Medborgerlig Samling
+  orgNumber: 802488-3467
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://www.med.se/
+
 - entry: 1234604724
   orgName: null
   orgNumber: null
@@ -44510,6 +44603,14 @@ entries:
   - fotvård
   - massage
   web: http://www.fotfixaren.se/
+
+- entry: 1234789103
+  orgName: Podcasten Brottarbröder
+  orgNumber: 559318-1604
+  comment: null
+  categories:
+  - podcast
+  web: null
 
 - entry: 1234790010
   orgName: Urbergsgruppen Klintehamn
@@ -51528,6 +51629,15 @@ entries:
   - idrottsförening
   web: https://www.blackebergbasket.com/
 
+- entry: 1235559430
+  orgName: Liberala Podden / Liberalerna i Uppsala
+  orgNumber: 817601-9928
+  comment: null
+  categories:
+  - podcast
+  - politiskt parti
+  web: https://uppsala.liberalerna.se/podcast/
+
 - entry: 1235559547
   orgName: Långasjö Hembygdsförening
   orgNumber: 829500-6384
@@ -55340,6 +55450,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: http://www.estunabygdegard.se/
+
+- entry: 1236009093
+  orgName: Samtal i Trosa / Erik Karlberg AB
+  orgNumber: 559128-3469
+  comment: null
+  categories:
+  - podcast
+  web: https://samtalitrosa.se/
 
 - entry: 1236009476
   orgName: Hjärups Budoklubb
