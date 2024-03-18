@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-17-rev-142231",
+    "date": "2024-03-18-rev-182451",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -116,6 +116,16 @@
         "tr\u00e4ning"
       ],
       "web": "https://www.crossfiteken.se/"
+    },
+    {
+      "entry": 1230005819,
+      "orgNumber": "556975-4129",
+      "orgName": "MatMattes Catering AB",
+      "categories": [
+        "catering",
+        "restaurant"
+      ],
+      "web": "https://www.matmattes.se/"
     },
     {
       "entry": 1230007062,
@@ -10229,6 +10239,7 @@
       "orgNumber": "001211-XXXX",
       "orgName": "Speedwayfans / Sportfans Sverige, Adam Holman",
       "categories": [
+        "motorsport",
         "speedway"
       ],
       "web": "https://speedwayfans.se/"
@@ -12509,6 +12520,16 @@
       "web": "https://www.hembygd.se/vastra-amtervik"
     },
     {
+      "entry": 1231134733,
+      "orgNumber": "802494-6355",
+      "orgName": "FBC Nyk\u00f6ping",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.fbcnykoping.se/"
+    },
+    {
       "entry": 1231134840,
       "orgNumber": "857205-6045",
       "orgName": "Brunnsbo Musikklassf\u00f6rening",
@@ -12821,6 +12842,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/tomaskyrkan"
+    },
+    {
+      "entry": 1231154012,
+      "orgNumber": "556742-7314",
+      "orgName": "K\u00f6rkortscenter i Nyk\u00f6ping AB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://korkortscenter.nu/"
     },
     {
       "entry": 1231154178,
@@ -15216,6 +15247,16 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://spelberoende.se/"
+    },
+    {
+      "entry": 1231352020,
+      "orgNumber": "559350-4706",
+      "orgName": "NF Trafikskola AB",
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://www.nftrafikskola.se/"
     },
     {
       "entry": 1231352830,
@@ -18429,6 +18470,16 @@
         "religion"
       ],
       "web": "https://lundadventist.se/"
+    },
+    {
+      "entry": 1231625268,
+      "orgNumber": "670314-XXXX",
+      "orgName": "Al-Siweedi bilservice",
+      "categories": [
+        "bilservice",
+        "bilv\u00e5rd"
+      ],
+      "web": "https://www.al-siweedi.se/"
     },
     {
       "entry": 1231625607,
@@ -32643,6 +32694,15 @@
       "web": "https://www.icj-sweden.org/"
     },
     {
+      "entry": 1233011087,
+      "orgNumber": "802440-0403",
+      "orgName": "Bloom Nyk\u00f6ping",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.bloomnykoping.se/"
+    },
+    {
       "entry": 1233018439,
       "orgNumber": "559078-4640",
       "orgName": "\u00c4ngsj\u00f6dal Text AB / Lars Wilder\u00e4ng",
@@ -37229,6 +37289,17 @@
       "web": "http://www.tjornshembygdsforening.se/"
     },
     {
+      "entry": 1233467370,
+      "orgNumber": "817607-3248",
+      "orgName": "\u00c5ngslupen Munter",
+      "categories": [
+        "caf\u00e9",
+        "historief\u00f6rening",
+        "museum"
+      ],
+      "web": "https://munter.nu/"
+    },
+    {
       "entry": 1233467545,
       "orgNumber": "802439-1164",
       "orgName": "Malm\u00f6 Floorball Club",
@@ -37885,6 +37956,16 @@
         "h\u00e4stsport"
       ],
       "web": "https://www.tollans.se/"
+    },
+    {
+      "entry": 1233520608,
+      "orgNumber": "730114-XXXX",
+      "orgName": "Ajna Retreat / Johanna Bandmann",
+      "categories": [
+        "mindfulness",
+        "retreat"
+      ],
+      "web": "https://ajnaretreat.se/"
     },
     {
       "entry": 1233520996,
@@ -38776,6 +38857,16 @@
         "sportfiske"
       ],
       "web": "https://hasttjarn.se/"
+    },
+    {
+      "entry": 1233602679,
+      "orgNumber": "817605-2515",
+      "orgName": "Djurskyddet i Nyk\u00f6ping",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/nykoping/"
     },
     {
       "entry": 1233602836,
@@ -49657,6 +49748,16 @@
       "web": "https://www.etcpuganda.se/"
     },
     {
+      "entry": 1234776712,
+      "orgNumber": "802542-5540",
+      "orgName": "Nyox Vipers Nyk\u00f6ping Oxel\u00f6sund Discgolfklubb",
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://nyoxvipers.weebly.com/"
+    },
+    {
       "entry": 1234778353,
       "orgNumber": "837000-2654",
       "orgName": "Tyringe IF",
@@ -52792,6 +52893,17 @@
       "web": "https://www.hjart-lung.se/riksforbundet/vastragotaland/lokalforeningar2/boras/"
     },
     {
+      "entry": 1235121033,
+      "orgNumber": "802534-9624",
+      "orgName": "Motorcykelhistoriska Klubben S\u00f6dermanland",
+      "categories": [
+        "historief\u00f6rening",
+        "motorcykelklubb",
+        "motorsport"
+      ],
+      "web": "https://mchksodermanland.weebly.com/"
+    },
+    {
       "entry": 1235122296,
       "orgNumber": "857209-6173",
       "orgName": "Clownkliniken",
@@ -54920,6 +55032,15 @@
       "web": "https://www.elab.kth.se/"
     },
     {
+      "entry": 1235319801,
+      "orgNumber": "802524-0022",
+      "orgName": "Korsets Kloster",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://korsetskloster.se/"
+    },
+    {
       "entry": 1235322490,
       "orgNumber": "770201-XXXX",
       "orgName": "Petras Hundfys / Petra Johansson",
@@ -55192,6 +55313,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235335526,
+      "orgNumber": "819001-1190",
+      "orgName": "Nyk\u00f6ping-Oxel\u00f6sunds Demensf\u00f6rening",
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/sodermanlands-lan/nykoping-oxelosund/"
     },
     {
       "entry": 1235337266,
@@ -56555,7 +56686,7 @@
     {
       "entry": 1235457239,
       "orgNumber": "802446-1041",
-      "orgName": "NK-VILLANS V\u00c4NNER",
+      "orgName": "NK-Villans V\u00e4nner",
       "categories": [
         "intressef\u00f6rening"
       ],
@@ -57899,6 +58030,15 @@
         "religion"
       ],
       "web": "https://www.honomissionskyrka.se/"
+    },
+    {
+      "entry": 1235601398,
+      "orgNumber": "819000-4930",
+      "orgName": "Nyk\u00f6pings scoutk\u00e5r",
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://nykoping.scout.se/"
     },
     {
       "entry": 1235604103,
@@ -61141,9 +61281,8 @@
       "orgNumber": "817606-5459",
       "orgName": "Smedernas Speedwayf\u00f6rening",
       "categories": [
-        "f\u00f6rening",
-        "f\u00f6rs\u00e4ljning",
-        "speedway"
+        "motorsport",
+        "speedwayklubb"
       ],
       "web": "https://www.eskilstunasmederna.se/"
     },
@@ -63421,6 +63560,17 @@
       "web": "https://www.orebrojazz.com/"
     },
     {
+      "entry": 1236179469,
+      "orgNumber": "819001-1034",
+      "orgName": "F\u00e5gelf\u00f6reningen T\u00e4rnan",
+      "categories": [
+        "f\u00e5gelklubb",
+        "f\u00e5gelsk\u00e5dning",
+        "ornitologi"
+      ],
+      "web": "https://www.tarnan.eu/"
+    },
+    {
       "entry": 1236179543,
       "orgNumber": "828500-3581",
       "orgName": "Sm\u00e5landsstenar Brukshundklubb",
@@ -63911,6 +64061,15 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/skog"
+    },
+    {
+      "entry": 1236222970,
+      "orgNumber": "559245-0190",
+      "orgName": "Rent-A-Wreck Sollentuna / Aksilsson AB",
+      "categories": [
+        "uthyrning"
+      ],
+      "web": "https://www.rent-a-wreck-scandinavia.com/location/sverige/stockholmsollentuna/"
     },
     {
       "entry": 1236223697,
@@ -66905,6 +67064,17 @@
       "web": "https://realfighter.se/"
     },
     {
+      "entry": 1236530364,
+      "orgNumber": "802401-2737",
+      "orgName": "Stiftelsen Svensk V\u00e5tmarksfond",
+      "categories": [
+        "naturv\u00e5rd",
+        "stiftelse",
+        "vattenv\u00e5rd"
+      ],
+      "web": "https://vatmarksfonden.se/"
+    },
+    {
       "entry": 1236530638,
       "orgNumber": "802516-6011",
       "orgName": "K.A. Almgren sidenv\u00e4veri & museum / K.A. Almgren Museum F\u00f6rening",
@@ -68008,6 +68178,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/hembygdsforeningen-gamla-urshult"
+    },
+    {
+      "entry": 1236685648,
+      "orgNumber": "802422-7335",
+      "orgName": "Griparna - Nyk\u00f6pings Speedway Klubb, NSK",
+      "categories": [
+        "motorsport",
+        "speedwayklubb"
+      ],
+      "web": "https://griparna.se/"
     },
     {
       "entry": 1236685754,
@@ -69247,6 +69427,16 @@
         "ridskola"
       ],
       "web": "https://www.slatternegard.se/"
+    },
+    {
+      "entry": 1236789721,
+      "orgNumber": "819000-0151",
+      "orgName": "BK Atlas",
+      "categories": [
+        "brottningsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/BKAtlas/"
     },
     {
       "entry": 1236790919,

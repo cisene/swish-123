@@ -24,13 +24,13 @@ Detta lilla projekt drivs på fritiden av en privatperson och på hobby-basis.
 
 ## Samlade nummer
 
-I aktuell samling av Swish-nummer har vi ***7632*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
+I aktuell samling av Swish-nummer har vi ***7651*** verifierade nummer. Dessa utgör bara en del av den fulla mängden existerande Swish-nummer, vi samlar och verifierar hela tiden nya och lägger dessa till samlingarna.
 
 ## Distribution av Swish-nummer
 
 ```mermaid
 pie title Distribution
-    "123 00x xx xx" : 133
+    "123 00x xx xx" : 134
     "123 01x xx xx" : 91
     "123 02x xx xx" : 106
     "123 03x xx xx" : 122
@@ -41,12 +41,12 @@ pie title Distribution
     "123 08x xx xx" : 132
     "123 09x xx xx" : 108
     "123 10x xx xx" : 116
-    "123 11x xx xx" : 97
+    "123 11x xx xx" : 99
     "123 12x xx xx" : 127
-    "123 13x xx xx" : 119
+    "123 13x xx xx" : 120
     "123 14x xx xx" : 136
     "123 15x xx xx" : 102
-    "123 16x xx xx" : 97
+    "123 16x xx xx" : 98
     "123 17x xx xx" : 126
     "123 18x xx xx" : 111
     "123 19x xx xx" : 92
@@ -60,13 +60,13 @@ pie title Distribution
     "123 27x xx xx" : 122
     "123 28x xx xx" : 95
     "123 29x xx xx" : 95
-    "123 30x xx xx" : 98
+    "123 30x xx xx" : 99
     "123 31x xx xx" : 83
     "123 32x xx xx" : 114
     "123 33x xx xx" : 106
-    "123 34x xx xx" : 95
-    "123 35x xx xx" : 122
-    "123 36x xx xx" : 96
+    "123 34x xx xx" : 96
+    "123 35x xx xx" : 123
+    "123 36x xx xx" : 97
     "123 37x xx xx" : 83
     "123 38x xx xx" : 119
     "123 39x xx xx" : 100
@@ -77,27 +77,27 @@ pie title Distribution
     "123 44x xx xx" : 109
     "123 45x xx xx" : 113
     "123 46x xx xx" : 84
-    "123 47x xx xx" : 67
+    "123 47x xx xx" : 68
     "123 48x xx xx" : 60
     "123 49x xx xx" : 102
     "123 50x xx xx" : 86
-    "123 51x xx xx" : 146
+    "123 51x xx xx" : 147
     "123 52x xx xx" : 110
-    "123 53x xx xx" : 104
+    "123 53x xx xx" : 106
     "123 54x xx xx" : 93
     "123 55x xx xx" : 110
-    "123 56x xx xx" : 107
+    "123 56x xx xx" : 108
     "123 57x xx xx" : 103
     "123 58x xx xx" : 97
     "123 59x xx xx" : 77
     "123 60x xx xx" : 107
-    "123 61x xx xx" : 97
-    "123 62x xx xx" : 111
+    "123 61x xx xx" : 98
+    "123 62x xx xx" : 112
     "123 63x xx xx" : 76
     "123 64x xx xx" : 95
-    "123 65x xx xx" : 85
-    "123 66x xx xx" : 97
-    "123 67x xx xx" : 106
+    "123 65x xx xx" : 86
+    "123 66x xx xx" : 98
+    "123 67x xx xx" : 107
     "123 68x xx xx" : 86
     "123 69x xx xx" : 89
     "123 86x xx xx" : 1

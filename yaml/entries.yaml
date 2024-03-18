@@ -99,6 +99,15 @@ entries:
   - träning
   web: https://www.crossfiteken.se/
 
+- entry: 1230005819
+  orgName: MatMattes Catering AB
+  orgNumber: 556975-4129
+  comment: null
+  categories:
+  - catering
+  - restaurant
+  web: https://www.matmattes.se/
+
 - entry: 1230007062
   orgName: Bokenäsets Församling
   orgNumber: 252004-1779
@@ -2569,6 +2578,13 @@ entries:
   categories:
   - supporterklubb
   web: https://tikare.se/
+
+- entry: 1230263095
+  orgName: Tidningen Se Hit
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.se-hit.se/
 
 - entry: 1230263103
   orgName: Stiftelsen Hemmet Vid Vägen
@@ -9163,6 +9179,7 @@ entries:
   orgNumber: 001211-XXXX
   comment: null
   categories:
+  - motorsport
   - speedway
   web: https://speedwayfans.se/
 
@@ -11214,6 +11231,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/vastra-amtervik
 
+- entry: 1231134733
+  orgName: FBC Nyköping
+  orgNumber: 802494-6355
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.fbcnykoping.se/
+
 - entry: 1231134840
   orgName: Brunnsbo Musikklassförening
   orgNumber: 857205-6045
@@ -11505,6 +11531,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/tomaskyrkan
+
+- entry: 1231154012
+  orgName: Körkortscenter i Nyköping AB
+  orgNumber: 556742-7314
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://korkortscenter.nu/
 
 - entry: 1231154178
   orgName: Djurskydddet Helsingborg
@@ -13657,6 +13692,15 @@ entries:
   categories:
   - riksförbund
   web: https://spelberoende.se/
+
+- entry: 1231352020
+  orgName: NF Trafikskola AB
+  orgNumber: 559350-4706
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://www.nftrafikskola.se/
 
 - entry: 1231352830
   orgName: Börje Salming ALS-stiftelse
@@ -16545,6 +16589,15 @@ entries:
   categories:
   - religion
   web: https://lundadventist.se/
+
+- entry: 1231625268
+  orgName: Al-Siweedi bilservice
+  orgNumber: 670314-XXXX
+  comment: null
+  categories:
+  - bilservice
+  - bilvård
+  web: https://www.al-siweedi.se/
 
 - entry: 1231625607
   orgName: Idåsen IF
@@ -29264,6 +29317,14 @@ entries:
   - juridik
   web: https://www.icj-sweden.org/
 
+- entry: 1233011087
+  orgName: Bloom Nyköping
+  orgNumber: 802440-0403
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.bloomnykoping.se/
+
 - entry: 1233018439
   orgName: Ängsjödal Text AB / Lars Wilderäng
   orgNumber: 559078-4640
@@ -33372,6 +33433,16 @@ entries:
   - hembygdsförening
   web: http://www.tjornshembygdsforening.se/
 
+- entry: 1233467370
+  orgName: Ångslupen Munter
+  orgNumber: 817607-3248
+  comment: null
+  categories:
+  - café
+  - historieförening
+  - museum
+  web: https://munter.nu/
+
 - entry: 1233467545
   orgName: Malmö Floorball Club
   orgNumber: 802439-1164
@@ -33982,6 +34053,15 @@ entries:
   categories:
   - hästsport
   web: https://www.tollans.se/
+
+- entry: 1233520608
+  orgName: Ajna Retreat / Johanna Bandmann
+  orgNumber: 730114-XXXX
+  comment: null
+  categories:
+  - mindfulness
+  - retreat
+  web: https://ajnaretreat.se/
 
 - entry: 1233520996
   orgName: Mukimbungugruppen i Sverige
@@ -34767,6 +34847,15 @@ entries:
   - fiskekort
   - sportfiske
   web: https://hasttjarn.se/
+
+- entry: 1233602679
+  orgName: Djurskyddet i Nyköping
+  orgNumber: 817605-2515
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.djurskyddet.se/nykoping/
 
 - entry: 1233602836
   orgName: Dannike Hembygdsförening
@@ -44554,6 +44643,15 @@ entries:
   - stiftelse
   web: https://www.etcpuganda.se/
 
+- entry: 1234776712
+  orgName: Nyox Vipers Nyköping Oxelösund Discgolfklubb
+  orgNumber: 802542-5540
+  comment: null
+  categories:
+  - discgolfklubb
+  - idrottsförening
+  web: https://nyoxvipers.weebly.com/
+
 - entry: 1234778353
   orgName: Tyringe IF
   orgNumber: 837000-2654
@@ -47342,6 +47440,16 @@ entries:
   - patientförening
   web: https://www.hjart-lung.se/riksforbundet/vastragotaland/lokalforeningar2/boras/
 
+- entry: 1235121033
+  orgName: Motorcykelhistoriska Klubben Södermanland
+  orgNumber: 802534-9624
+  comment: null
+  categories:
+  - historieförening
+  - motorcykelklubb
+  - motorsport
+  web: https://mchksodermanland.weebly.com/
+
 - entry: 1235122296
   orgName: Clownkliniken
   orgNumber: 857209-6173
@@ -49280,6 +49388,14 @@ entries:
   - intresseförening
   web: https://www.elab.kth.se/
 
+- entry: 1235319801
+  orgName: Korsets Kloster
+  orgNumber: 802524-0022
+  comment: null
+  categories:
+  - religion
+  web: https://korsetskloster.se/
+
 - entry: 1235322490
   orgName: Petras Hundfys / Petra Johansson
   orgNumber: 770201-XXXX
@@ -49513,6 +49629,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1235335526
+  orgName: Nyköping-Oxelösunds Demensförening
+  orgNumber: 819001-1190
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/sodermanlands-lan/nykoping-oxelosund/
 
 - entry: 1235337266
   orgName: Väderstad Hembygds- och Byalagsförening
@@ -50748,7 +50873,7 @@ entries:
   web: https://www.dogrescue.se/
 
 - entry: 1235457239
-  orgName: NK-VILLANS VÄNNER
+  orgName: NK-Villans Vänner
   orgNumber: 802446-1041
   comment: null
   categories:
@@ -51956,6 +52081,14 @@ entries:
   categories:
   - religion
   web: https://www.honomissionskyrka.se/
+
+- entry: 1235601398
+  orgName: Nyköpings scoutkår
+  orgNumber: 819000-4930
+  comment: null
+  categories:
+  - scoutkår
+  web: https://nykoping.scout.se/
 
 - entry: 1235604103
   orgName: Team Rynkeby
@@ -54923,9 +55056,8 @@ entries:
   orgNumber: 817606-5459
   comment: null
   categories:
-  - förening
-  - försäljning
-  - speedway
+  - motorsport
+  - speedwayklubb
   web: https://www.eskilstunasmederna.se/
 
 - entry: 1235934591
@@ -57000,6 +57132,16 @@ entries:
   - musikkultur
   web: https://www.orebrojazz.com/
 
+- entry: 1236179469
+  orgName: Fågelföreningen Tärnan
+  orgNumber: 819001-1034
+  comment: null
+  categories:
+  - fågelklubb
+  - fågelskådning
+  - ornitologi
+  web: https://www.tarnan.eu/
+
 - entry: 1236179543
   orgName: Smålandsstenar Brukshundklubb
   orgNumber: 828500-3581
@@ -57427,6 +57569,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/skog
+
+- entry: 1236222970
+  orgName: Rent-A-Wreck Sollentuna / Aksilsson AB
+  orgNumber: 559245-0190
+  comment: null
+  categories:
+  - uthyrning
+  web: https://www.rent-a-wreck-scandinavia.com/location/sverige/stockholmsollentuna/
 
 - entry: 1236223697
   orgName: Kumla Bridgesällskap
@@ -60145,6 +60295,16 @@ entries:
   - kampsportsförening
   web: https://realfighter.se/
 
+- entry: 1236530364
+  orgName: Stiftelsen Svensk Våtmarksfond
+  orgNumber: 802401-2737
+  comment: null
+  categories:
+  - naturvård
+  - stiftelse
+  - vattenvård
+  web: https://vatmarksfonden.se/
+
 - entry: 1236530638
   orgName: K.A. Almgren sidenväveri & museum / K.A. Almgren Museum Förening
   orgNumber: 802516-6011
@@ -61176,6 +61336,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/hembygdsforeningen-gamla-urshult
+
+- entry: 1236685648
+  orgName: Griparna - Nyköpings Speedway Klubb, NSK
+  orgNumber: 802422-7335
+  comment: null
+  categories:
+  - motorsport
+  - speedwayklubb
+  web: https://griparna.se/
 
 - entry: 1236685754
   orgName: Barnendometriosfonden
@@ -62322,6 +62491,15 @@ entries:
   - hästsport
   - ridskola
   web: https://www.slatternegard.se/
+
+- entry: 1236789721
+  orgName: BK Atlas
+  orgNumber: 819000-0151
+  comment: null
+  categories:
+  - brottningsklubb
+  - idrottsförening
+  web: https://www.laget.se/BKAtlas/
 
 - entry: 1236790919
   orgName: Sveriges Ångbåtsförening
