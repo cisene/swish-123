@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-18-rev-182451",
+    "date": "2024-03-20-rev-180840",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -15,6 +15,17 @@
         "golfklubb"
       ],
       "web": "https://kkgk.se/"
+    },
+    {
+      "entry": 1230004192,
+      "orgNumber": "849400-7506",
+      "orgName": "S\u00e4r\u00f6kometernas HK",
+      "comment": "Handbollsskolan Flickor",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/Handbollsskolanflickor/"
     },
     {
       "entry": 1230004234,
@@ -369,6 +380,17 @@
         "f\u00f6rening"
       ],
       "web": "https://gagnefsbio.se/"
+    },
+    {
+      "entry": 1230020644,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "F13",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
     },
     {
       "entry": 1230021444,
@@ -2507,6 +2529,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1230229823,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "F11",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
       "entry": 1230230078,
       "orgNumber": "802479-9994",
       "orgName": "Insamlingsstiftelsen Wildhood Foundation",
@@ -2834,6 +2867,17 @@
         "yoga"
       ],
       "web": "https://www.yogaiakersberga.se/"
+    },
+    {
+      "entry": 1230251694,
+      "orgNumber": "802407-2814",
+      "orgName": "Hammarby Handboll",
+      "comment": "G\u00e5vor & M\u00e5lkronan",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hifhandboll"
     },
     {
       "entry": 1230252254,
@@ -3440,6 +3484,17 @@
         "religion"
       ],
       "web": "https://efskyrkanhorby.se/"
+    },
+    {
+      "entry": 1230310896,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "Herr",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
     },
     {
       "entry": 1230310904,
@@ -10696,6 +10751,17 @@
       "web": "https://www.ragundaskoterklubb.com/"
     },
     {
+      "entry": 1230928473,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "P10",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
       "entry": 1230928523,
       "orgNumber": "802477-7693",
       "orgName": "Denniz Pop Awards Insamlingsstiftelse",
@@ -11975,6 +12041,16 @@
       "web": "http://equmeniakyrkanekenassjon.se/"
     },
     {
+      "entry": 1231068741,
+      "orgNumber": "886501-3224",
+      "orgName": "Alfta GIF Handboll",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.alftahandboll.se/"
+    },
+    {
       "entry": 1231069350,
       "orgNumber": "865500-4490",
       "orgName": "Equmeniakyrkan H\u00f6kerum",
@@ -12518,6 +12594,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/vastra-amtervik"
+    },
+    {
+      "entry": 1231134626,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "Herrjuniorer",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
     },
     {
       "entry": 1231134733,
@@ -14982,6 +15069,17 @@
       "web": "https://www.svedens.se/"
     },
     {
+      "entry": 1231326735,
+      "orgNumber": "802407-2814",
+      "orgName": "Hammarby Handboll",
+      "comment": "F\u00f6rs\u00e4ljning Lotter",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hifhandboll"
+    },
+    {
       "entry": 1231326842,
       "orgNumber": "814401-0850",
       "orgName": "Bergshamra Bygdeg\u00e5rdsf\u00f6rening",
@@ -16579,6 +16677,17 @@
       "web": "https://www.havensbgf.se/"
     },
     {
+      "entry": 1231478965,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "P09",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
       "entry": 1231479070,
       "orgNumber": "898500-4020",
       "orgName": "Storklintens AK Skalp - Skidor",
@@ -16917,6 +17026,17 @@
         "yoga"
       ],
       "web": "https://www.trideviyoga.se/"
+    },
+    {
+      "entry": 1231492396,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "Dam",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
     },
     {
       "entry": 1231492719,
@@ -27049,6 +27169,17 @@
       "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
+      "entry": 1232413342,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "P12",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
       "entry": 1232415990,
       "orgNumber": "802534-5466",
       "orgName": "Team Rynkeby",
@@ -29246,6 +29377,17 @@
       "web": "https://gof.nu/"
     },
     {
+      "entry": 1232683068,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "F08",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
       "entry": 1232683134,
       "orgNumber": "817606-0229",
       "orgName": "Ekbackskyrkans F\u00f6rsamling",
@@ -29325,6 +29467,17 @@
         "rehab"
       ],
       "web": "https://stockholmshundhalsa.se/"
+    },
+    {
+      "entry": 1232687358,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "P14",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
     },
     {
       "entry": 1232689321,
@@ -31130,6 +31283,17 @@
       "web": "https://equmeniakyrkanhovslatt.se/"
     },
     {
+      "entry": 1232826758,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "Klubben",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
       "entry": 1232826873,
       "orgNumber": "894700-0280",
       "orgName": "EFS Missionsf\u00f6rening i Skellefte\u00e5",
@@ -31970,6 +32134,17 @@
       "web": "https://stiftelsen-pharos.org/"
     },
     {
+      "entry": 1232920593,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "P13",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
       "entry": 1232920775,
       "orgNumber": "802491-0658",
       "orgName": "Sandvikens \u00d6stra Stug\u00e4garef\u00f6rening",
@@ -32529,6 +32704,17 @@
       "web": "https://www.guif.nu/"
     },
     {
+      "entry": 1232990794,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "F06",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
       "entry": 1232991792,
       "orgNumber": "817600-8772",
       "orgName": "Tensta Bygdeg\u00e5rdsf\u00f6rening",
@@ -32908,6 +33094,17 @@
         "golfklubb"
       ],
       "web": "https://almhultsgk.se/"
+    },
+    {
+      "entry": 1233034907,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "F07",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
     },
     {
       "entry": 1233036266,
@@ -33688,6 +33885,28 @@
         "politiskt parti"
       ],
       "web": "https://www.socialisterna.org/"
+    },
+    {
+      "entry": 1233114535,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "P08",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
+      "entry": 1233114568,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "F17",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
     },
     {
       "entry": 1233114667,
@@ -37110,6 +37329,17 @@
         "religion"
       ],
       "web": "https://pingstsoderkoping.se/"
+    },
+    {
+      "entry": 1233456910,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "F05",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
     },
     {
       "entry": 1233457595,
@@ -41619,6 +41849,17 @@
         "religion"
       ],
       "web": "https://svenskakyrkansunga.se/"
+    },
+    {
+      "entry": 1233893682,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "P11",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
     },
     {
       "entry": 1233893708,
@@ -46885,6 +47126,16 @@
       "web": "https://www.brandnewprofile.com/"
     },
     {
+      "entry": 1234464603,
+      "orgNumber": "837001-0996",
+      "orgName": "Bj\u00e4rnums Handbollsklubb",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.bjarnumshk.se/"
+    },
+    {
       "entry": 1234465720,
       "orgNumber": "556418-0270",
       "orgName": "Micke Ahlgrens Orkester Aktiebolag",
@@ -46982,6 +47233,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.bokenasif.com/"
+    },
+    {
+      "entry": 1234477006,
+      "orgNumber": "845002-3885",
+      "orgName": "LUGI Handboll",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.lugihandboll.se/"
     },
     {
       "entry": 1234478244,
@@ -48262,6 +48523,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://www.hagragarden.se/"
+    },
+    {
+      "entry": 1234586350,
+      "orgNumber": "894002-6472",
+      "orgName": "Sike\u00e5 SK Handboll",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://sikeask.sportadmin.se/"
     },
     {
       "entry": 1234586798,
@@ -51906,6 +52177,17 @@
       "web": "https://www.pingstmjolby.se/"
     },
     {
+      "entry": 1235036595,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "F15",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
       "entry": 1235037312,
       "orgNumber": "857203-1824",
       "orgName": "Vr\u00e5ng\u00f6 Fritidsf\u00f6rening",
@@ -54482,6 +54764,17 @@
         "religion"
       ],
       "web": "https://adventkyrkan.se/"
+    },
+    {
+      "entry": 1235267125,
+      "orgNumber": "802407-2814",
+      "orgName": "Hammarby Handboll",
+      "comment": "F\u00f6rs\u00e4ljning Souvenirer",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hifhandboll"
     },
     {
       "entry": 1235267570,
@@ -57683,6 +57976,17 @@
       "web": "http://www.langasjo-hembygdsforening.se/"
     },
     {
+      "entry": 1235559760,
+      "orgNumber": "802407-2814",
+      "orgName": "Hammarby Handboll",
+      "comment": "F\u00f6rs\u00e4ljning Biljetter & S\u00e4songskort",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hifhandboll"
+    },
+    {
       "entry": 1235564901,
       "orgNumber": "700202-XXXX",
       "orgName": "Cannstaff / Cilla Cannerheim",
@@ -59421,6 +59725,16 @@
       "web": "https://www.lionslodde.se/"
     },
     {
+      "entry": 1235725312,
+      "orgNumber": "802463-4225",
+      "orgName": "Tyres\u00f6 Handboll",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tyresohandboll.se/"
+    },
+    {
       "entry": 1235727771,
       "orgNumber": "837000-9501",
       "orgName": "PRO H\u00e4ssleholm",
@@ -61017,6 +61331,28 @@
       "web": "https://lionsulricehamn.se/"
     },
     {
+      "entry": 1235896964,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "F09",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
+      "entry": 1235896998,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "P15",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
+    },
+    {
       "entry": 1235897293,
       "orgNumber": "826500-0052",
       "orgName": "Aneby Baptistf\u00f6rsamling",
@@ -62113,6 +62449,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/ifkwretakloster"
+    },
+    {
+      "entry": 1236023725,
+      "orgNumber": "802508-1657",
+      "orgName": "Uddevalla Handbollklubb",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uddevallahk.se/"
     },
     {
       "entry": 1236025118,
@@ -64042,6 +64388,17 @@
         "restaurant"
       ],
       "web": "https://koketasele.webnode.se/"
+    },
+    {
+      "entry": 1236220990,
+      "orgNumber": "894001-6606",
+      "orgName": "Ersmarks IK",
+      "comment": "F12",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eik.se/"
     },
     {
       "entry": 1236222376,
