@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-23-rev-132703",
+    "date": "2024-03-23-rev-144656",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2108,6 +2108,15 @@
         "h\u00e4lsa"
       ],
       "web": "https://baravanlig.se/"
+    },
+    {
+      "entry": 1230191742,
+      "orgNumber": "897000-3623",
+      "orgName": "Lions Lule\u00e5",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/lulea/"
     },
     {
       "entry": 1230192526,
@@ -9623,6 +9632,15 @@
       "web": "http://www.m\u00f6nster\u00e5ssegelklubb.se/"
     },
     {
+      "entry": 1230855064,
+      "orgNumber": "802453-7188",
+      "orgName": "Rotary H\u00f6gan\u00e4s-Kullen",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://hoganas-kullen.rotary2390.se/"
+    },
+    {
       "entry": 1230855254,
       "orgNumber": "802428-8170",
       "orgName": "FBC Bolln\u00e4s",
@@ -10347,6 +10365,15 @@
         "utbildning"
       ],
       "web": "https://hvilan.se/"
+    },
+    {
+      "entry": 1230910141,
+      "orgNumber": "838201-0067",
+      "orgName": "Lions \u00c5hus",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.ahuslions.se/"
     },
     {
       "entry": 1230910216,
@@ -21423,6 +21450,15 @@
       "web": "http://campsweden.se/"
     },
     {
+      "entry": 1231885128,
+      "orgNumber": "802487-7345",
+      "orgName": "Rotary Vimmerby Astrid Lindgren",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/17237/"
+    },
+    {
       "entry": 1231886621,
       "orgNumber": "828500-5628",
       "orgName": "V\u00e4stbo Judoklubb",
@@ -23184,6 +23220,15 @@
       "web": "https://www.soldatreg.se/"
     },
     {
+      "entry": 1232096436,
+      "orgNumber": "847000-9385",
+      "orgName": "Lions Club Bara",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/bara/"
+    },
+    {
       "entry": 1232096451,
       "orgNumber": "556295-8685",
       "orgName": "IB Wahlstr\u00f6m Konstn\u00e4rsmaterial",
@@ -23570,6 +23615,15 @@
         "rotaryklubb"
       ],
       "web": "https://malmo-sodra.rotary2390.se/"
+    },
+    {
+      "entry": 1232131985,
+      "orgNumber": "802512-2998",
+      "orgName": "Rotary Lerum",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://lerum.rotary2360.se/"
     },
     {
       "entry": 1232132256,
@@ -24677,6 +24731,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://haga-brunnsviken.org/"
+    },
+    {
+      "entry": 1232213965,
+      "orgNumber": "802510-5175",
+      "orgName": "Lions Hallstavik-V\u00e4dd\u00f6",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/allstavikv%C3%A4dd%C3%B6/"
     },
     {
       "entry": 1232213981,
@@ -26450,6 +26513,15 @@
       "web": "https://forsbrokyrkan.se/"
     },
     {
+      "entry": 1232360485,
+      "orgNumber": "832401-8954",
+      "orgName": "Rotary Kalmar",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://kalmar.rotary2410.se/"
+    },
+    {
       "entry": 1232360618,
       "orgNumber": "817301-2678",
       "orgName": "Skutsk\u00e4rs IF Bandy",
@@ -26996,6 +27068,15 @@
         "utbildning"
       ],
       "web": "https://www.yari.nu/"
+    },
+    {
+      "entry": 1232398865,
+      "orgNumber": "802539-9018",
+      "orgName": "Rotary Helsingborg International",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://helsingborg-international.rotary2390.se/"
     },
     {
       "entry": 1232403285,
@@ -28518,6 +28599,15 @@
         "massage"
       ],
       "web": "https://www.roshanspa.info/"
+    },
+    {
+      "entry": 1232594059,
+      "orgNumber": "802513-7731",
+      "orgName": "Rotary Lerum Aspen",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://www.lerumaspenrk.se/"
     },
     {
       "entry": 1232594810,
@@ -31503,6 +31593,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://ovhandbollochskola.se/"
+    },
+    {
+      "entry": 1232859338,
+      "orgNumber": "838800-6325",
+      "orgName": "Rotary Hammenh\u00f6g",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://hammenhog.rotary2390.se/"
     },
     {
       "entry": 1232861532,
@@ -37799,6 +37898,15 @@
       "web": "https://www.sfmr.se/"
     },
     {
+      "entry": 1233481264,
+      "orgNumber": "829001-1504",
+      "orgName": "Rotary \u00c4lmhult Linn\u00e9bygden",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/16002/"
+    },
+    {
       "entry": 1233482692,
       "orgNumber": "802432-0965",
       "orgName": "Landvetter Boule Club",
@@ -42988,6 +43096,15 @@
       "web": "https://www.kiviuppsala.se/"
     },
     {
+      "entry": 1233987500,
+      "orgNumber": "857203-3432",
+      "orgName": "Rotary G\u00f6teborg-Kungsporten",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://goteborg-kungsporten.rotary2360.se/"
+    },
+    {
       "entry": 1233990207,
       "orgNumber": "802421-2410",
       "orgName": "SPF Seniorerna M\u00f6nster\u00e5s",
@@ -44179,6 +44296,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234131512,
+      "orgNumber": "802513-7731",
+      "orgName": "Rotary Lerum Aspen",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://www.lerumaspenrk.se/"
     },
     {
       "entry": 1234133484,
@@ -48943,6 +49069,15 @@
       "web": "https://sweden.mfa.gov.ua/"
     },
     {
+      "entry": 1234610325,
+      "orgNumber": "873201-4959",
+      "orgName": "Rotary Distrikt 2340",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://rotary2340.se/"
+    },
+    {
       "entry": 1234610747,
       "orgNumber": "816400-2506",
       "orgName": "Djursholms Ridklubb",
@@ -53567,6 +53702,15 @@
       "web": "https://aphast.se/"
     },
     {
+      "entry": 1235128111,
+      "orgNumber": "849202-3018",
+      "orgName": "Rotary Laholm-H\u00f6k",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://laholm-hok.rotary2400.se/"
+    },
+    {
       "entry": 1235128657,
       "orgNumber": "819001-3105",
       "orgName": "SPF Seniorerna Oxel\u00f6sund",
@@ -53765,7 +53909,7 @@
     {
       "entry": 1235144761,
       "orgNumber": "802498-6112",
-      "orgName": "Lions Club B\u00e5stad Sk\u00e5ne",
+      "orgName": "Lions B\u00e5stad Sk\u00e5ne",
       "categories": [
         "lionsklubb"
       ],
@@ -54998,6 +55142,15 @@
         "synskadad"
       ],
       "web": "https://www.fsbu.org/"
+    },
+    {
+      "entry": 1235268974,
+      "orgNumber": "848000-8062",
+      "orgName": "Rotary Ystad",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://ystad.rotary2390.se/"
     },
     {
       "entry": 1235272141,
@@ -57874,6 +58027,15 @@
       "web": "https://www.ntrk.se/"
     },
     {
+      "entry": 1235530365,
+      "orgNumber": "802435-2844",
+      "orgName": "Rotary \u00d6rebro",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://orebro.rotary2340.se/"
+    },
+    {
       "entry": 1235531041,
       "orgNumber": "556259-5875",
       "orgName": "WIP i Borl\u00e4nge AB",
@@ -58081,6 +58243,15 @@
         "livr\u00e4ddning"
       ],
       "web": "http://www.tylosand.net/"
+    },
+    {
+      "entry": 1235544887,
+      "orgNumber": "817606-0468",
+      "orgName": "Lions Knivsta",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://sites.google.com/lionsknivsta.se/lions-club-knivsta/aktuellt?authuser=0"
     },
     {
       "entry": 1235545330,
@@ -59801,6 +59972,15 @@
         "museum"
       ],
       "web": "http://www.musolles.com/"
+    },
+    {
+      "entry": 1235705900,
+      "orgNumber": "829501-3216",
+      "orgName": "Rotary V\u00e4xj\u00f6",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://vaxjo.rotary2400.se/"
     },
     {
       "entry": 1235706478,
@@ -68119,6 +68299,15 @@
       "web": "https://www.askersundsgf.se/"
     },
     {
+      "entry": 1236580757,
+      "orgNumber": "845003-3942",
+      "orgName": "Lions Genarp",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/genarp/"
+    },
+    {
       "entry": 1236581888,
       "orgNumber": "823000-8206",
       "orgName": "\u00d6desh\u00f6gs Kennelklubb",
@@ -69602,6 +69791,15 @@
       "web": "https://www.frideborg.se/"
     },
     {
+      "entry": 1236751796,
+      "orgNumber": "857203-4208",
+      "orgName": "Rotary G\u00f6teborg-\u00d6rgryte",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://goteborg-orgryte.rotary2360.se/"
+    },
+    {
       "entry": 1236752166,
       "orgNumber": "895401-1824",
       "orgName": "Riksf\u00f6rbundet Hj\u00e4rtLung Lycksele",
@@ -70707,6 +70905,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236863963,
+      "orgNumber": "835600-7677",
+      "orgName": "Lions Club Jarramas Karlskrona",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://www.lionsjarramas.se/"
     },
     {
       "entry": 1236866040,
@@ -73123,7 +73330,8 @@
       "orgName": "Insamlingsstiftelsen Rotary Hj\u00e4lper",
       "categories": [
         "hj\u00e4lporganisation",
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.rotaryhjalper.se/"
     },
@@ -73133,7 +73341,8 @@
       "orgName": "Stiftelsen f\u00f6r Medicinsk forskning vid Universitetssjukhuset \u00d6rebro - Nyckelfonden",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "stiftelse"
       ],
       "web": "https://www.nyckelfonden.se/"
     },
