@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-20-rev-181328",
+    "date": "2024-03-23-rev-132703",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7957,6 +7957,15 @@
       "web": "http://www.rofnet.se/"
     },
     {
+      "entry": 1230730028,
+      "orgNumber": "838201-2576",
+      "orgName": "\u00c5hus Missionsg\u00e5rd",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://ahusmissionsgard.se/"
+    },
+    {
       "entry": 1230730739,
       "orgNumber": "802428-9293",
       "orgName": "Djurr\u00e4ttsalliansen",
@@ -11424,6 +11433,16 @@
       "web": "https://sverigebonen.se/"
     },
     {
+      "entry": 1231008689,
+      "orgNumber": "802520-1875",
+      "orgName": "Ystads IF Handboll",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.yif.se/"
+    },
+    {
       "entry": 1231008762,
       "orgNumber": "670312-XXXX",
       "orgName": "Ask4Life / Anna Sundkvist Kr\u00e4utner",
@@ -12577,6 +12596,16 @@
       "web": "https://lymfs.se/"
     },
     {
+      "entry": 1231133552,
+      "orgNumber": "834001-7378",
+      "orgName": "Visby IF Gute Handboll",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.gutehandboll.se/"
+    },
+    {
       "entry": 1231134444,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -13487,6 +13516,7 @@
       "orgNumber": "838200-1587",
       "orgName": "IFK Kristianstad",
       "categories": [
+        "handbollsklubb",
         "idrottsf\u00f6rening"
       ],
       "web": "https://ifkkristianstad.se/"
@@ -16651,6 +16681,7 @@
       "orgNumber": "857204-0544",
       "orgName": "Kroatiska F\u00f6reningen VELEBIT",
       "categories": [
+        "handbollsklubb",
         "hemlandsf\u00f6rening",
         "idrottsf\u00f6rening",
         "kulturf\u00f6rening"
@@ -19164,6 +19195,14 @@
       "web": "https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-ostra-kind/"
     },
     {
+      "entry": 1231698604,
+      "orgNumber": "556936-6965",
+      "orgName": "E & P Event AB",
+      "categories": [
+        "catering"
+      ]
+    },
+    {
       "entry": 1231699263,
       "orgNumber": "814400-1172",
       "orgName": "Loh\u00e4rads Bygdeg\u00e5rdsf\u00f6rening",
@@ -19955,6 +19994,17 @@
         "\u00e5keri"
       ],
       "web": "https://www.sundbergs.se/"
+    },
+    {
+      "entry": 1231756410,
+      "orgNumber": "813600-2196",
+      "orgName": "Liding\u00f6 Sportklubb Handboll",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening",
+        "sportklubb"
+      ],
+      "web": "https://www.laget.se/LSKHandboll/"
     },
     {
       "entry": 1231757020,
@@ -22682,6 +22732,7 @@
       "orgName": "Hugos Stiftelse",
       "categories": [
         "aktiv fritid",
+        "barnverksamhet",
         "funktionsneds\u00e4ttning",
         "stiftelse"
       ],
@@ -23240,6 +23291,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-ostergotland/samorganisationer/samorganisation-mjolby/foreningar/mantorp.html"
+    },
+    {
+      "entry": 1232102648,
+      "orgNumber": "802501-8907",
+      "orgName": "Amo handbollsklubb",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://amohandboll.com/"
     },
     {
       "entry": 1232103885,
@@ -24966,6 +25027,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/taby"
+    },
+    {
+      "entry": 1232241552,
+      "orgNumber": "812400-8155",
+      "orgName": "Haninge Handbollsklubb",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.haningehk.se/"
     },
     {
       "entry": 1232241842,
@@ -30307,6 +30378,15 @@
       "web": "https://landvetterrs.se/"
     },
     {
+      "entry": 1232745016,
+      "orgNumber": "857204-2185",
+      "orgName": "\u00d6IS Supporterklubb Balders Hage",
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://oissupporter.se/"
+    },
+    {
       "entry": 1232751899,
       "orgNumber": "802456-7581",
       "orgName": "Eksj\u00f6 RC Klubb - Bilsport",
@@ -31413,6 +31493,16 @@
         "religion"
       ],
       "web": "https://equmeniakyrkanmotala.se/"
+    },
+    {
+      "entry": 1232858116,
+      "orgNumber": "843000-4245",
+      "orgName": "OV Helsingborg",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ovhandbollochskola.se/"
     },
     {
       "entry": 1232861532,
@@ -32550,6 +32640,16 @@
       "web": "https://svenskasallskapetfornykterhetochfolkbildning.se/"
     },
     {
+      "entry": 1232969087,
+      "orgNumber": "857200-6750",
+      "orgName": "Handbollsf\u00f6rbundet V\u00e4st",
+      "categories": [
+        "f\u00f6rening",
+        "handbollsklubb"
+      ],
+      "web": "https://svenskhandboll.se/hf-vast"
+    },
+    {
       "entry": 1232969343,
       "orgNumber": "884401-7098",
       "orgName": "Norra Venjans Hembygdsf\u00f6rening",
@@ -32878,6 +32978,16 @@
         "juridik"
       ],
       "web": "https://www.icj-sweden.org/"
+    },
+    {
+      "entry": 1233010972,
+      "orgNumber": "854600-4469",
+      "orgName": "Lysekils HK",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/LysekilHK/"
     },
     {
       "entry": 1233011087,
@@ -35778,6 +35888,16 @@
       "web": "https://www.fralsningsarmen.se/hisingskaren/"
     },
     {
+      "entry": 1233295581,
+      "orgNumber": "802467-3579",
+      "orgName": "AIK Handboll",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/AIKHandboll/"
+    },
+    {
       "entry": 1233300829,
       "orgNumber": "847000-5250",
       "orgName": "Skytts H\u00e4rads Hembygdsf\u00f6rening",
@@ -35814,6 +35934,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://engelholmsgymnasterna.sportadmin.se/"
+    },
+    {
+      "entry": 1233310372,
+      "orgNumber": "802447-3053",
+      "orgName": "Boden Handboll IF",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://bodenhandboll.se/"
     },
     {
       "entry": 1233310422,
@@ -36745,6 +36875,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sundbyberg"
+    },
+    {
+      "entry": 1233396975,
+      "orgNumber": "866601-3373",
+      "orgName": "IFK Sk\u00f6vde HK",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ifkskovdehandboll.com/"
     },
     {
       "entry": 1233397387,
@@ -38918,6 +39058,16 @@
       "web": "http://www.kvarnviken.com/"
     },
     {
+      "entry": 1233579513,
+      "orgNumber": "802501-8907",
+      "orgName": "Amo handbollsklubb",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://amohandboll.com/"
+    },
+    {
       "entry": 1233580289,
       "orgNumber": "802410-8527",
       "orgName": "Husar\u00f6 Lotsmuseum och HembygdsF\u00f6rening",
@@ -40943,6 +41093,16 @@
         "religion"
       ],
       "web": "https://pingstung.se/"
+    },
+    {
+      "entry": 1233811767,
+      "orgNumber": "848001-0787",
+      "orgName": "IFK Ystad Handbollsklubb",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ifkystad.se/"
     },
     {
       "entry": 1233811817,
@@ -44119,6 +44279,18 @@
       "web": "https://www.svenskakyrkan.se/katarina"
     },
     {
+      "entry": 1234137634,
+      "orgNumber": "875001-7983",
+      "orgName": "Vintrosa IS",
+      "categories": [
+        "beachhandbollklubb",
+        "handbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.vintrosais.se/"
+    },
+    {
       "entry": 1234137923,
       "orgNumber": "252002-8081",
       "orgName": "Finsk Ortodoxa F\u00f6rsamlingen i Sverige",
@@ -44410,6 +44582,16 @@
         "djurskydd"
       ],
       "web": "https://www.djurensvanner.se/monsteras"
+    },
+    {
+      "entry": 1234183372,
+      "orgNumber": "802434-9345",
+      "orgName": "Bodens BK HF",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/BBKHandboll/"
     },
     {
       "entry": 1234183620,
@@ -48855,6 +49037,16 @@
       "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-sater/foreningar/stora-skedvi.html"
     },
     {
+      "entry": 1234623690,
+      "orgNumber": "874001-7242",
+      "orgName": "Forshaga HK",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.forshagahandboll.se/"
+    },
+    {
       "entry": 1234627238,
       "orgNumber": "802412-6883",
       "orgName": "Teaterk\u00f6ren",
@@ -49421,6 +49613,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://orebrohandboll.com/"
+    },
+    {
+      "entry": 1234677894,
+      "orgNumber": "845002-3885",
+      "orgName": "LUGI Handboll",
+      "comment": "Soffbiljett",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.lugihandboll.se/"
     },
     {
       "entry": 1234687638,
@@ -52879,6 +53082,16 @@
       "web": "https://bilkaren.se/"
     },
     {
+      "entry": 1235110705,
+      "orgNumber": "838201-2576",
+      "orgName": "\u00c5hus Missionsg\u00e5rd",
+      "comment": "Camping",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://ahusmissionsgard.se/"
+    },
+    {
       "entry": 1235111034,
       "orgNumber": "834002-1859",
       "orgName": "Gotlands Bruksh\u00e4stf\u00f6rening - JUF",
@@ -56103,6 +56316,16 @@
       "web": "https://www.swebowl.se/"
     },
     {
+      "entry": 1235384193,
+      "orgNumber": "868400-4800",
+      "orgName": "Skara Handbollsklubb",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://skarahk.sportadmin.se/"
+    },
+    {
       "entry": 1235384227,
       "orgNumber": "857204-0023",
       "orgName": "G\u00f6teborgs Ju-Jutsuklubb",
@@ -56280,6 +56503,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235400932,
+      "orgNumber": "252004-9210",
+      "orgName": "J\u00f6nk\u00f6pings F\u00f6rsamling",
+      "comment": "Diakoni",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/jonkoping"
     },
     {
       "entry": 1235401047,
@@ -56501,6 +56734,15 @@
         "hundsport"
       ],
       "web": "https://www.greyhoundklubben.se/"
+    },
+    {
+      "entry": 1235420443,
+      "orgNumber": "844001-3210",
+      "orgName": "Hvens Byalag",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.hvensbyalag.se/"
     },
     {
       "entry": 1235421623,
@@ -56807,6 +57049,15 @@
         "intresseorganisation"
       ],
       "web": "https://www.barnloshetsverige.se/"
+    },
+    {
+      "entry": 1235442595,
+      "orgNumber": "559100-5680",
+      "orgName": "Nordic Rehab AB",
+      "categories": [
+        "f\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://flexvit.se/"
     },
     {
       "entry": 1235442892,
@@ -59561,6 +59812,16 @@
       "web": "https://www.svenskakyrkan.se/bastad"
     },
     {
+      "entry": 1235707690,
+      "orgNumber": "802474-5807",
+      "orgName": "Trollh\u00e4ttans Idrottshistoriska S\u00e4llskap, TIHS",
+      "categories": [
+        "historief\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tihs.se/"
+    },
+    {
       "entry": 1235707955,
       "orgNumber": "556797-0305",
       "orgName": "IA Bil AB",
@@ -60106,7 +60367,7 @@
       "orgNumber": "030705-XXXX",
       "orgName": "NorrortsSporten - Peaking Media / Oliver Funke",
       "categories": [
-        "lokaltidning",
+        "lokalmedia",
         "sportanalys"
       ],
       "web": "https://www.norrortssporten.se/"
@@ -62578,7 +62839,8 @@
       "orgNumber": "868400-1780",
       "orgName": "Nossebro IF",
       "categories": [
-        "f\u00f6rening",
+        "fotbollsklubb",
+        "handbollsklubb",
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.nossebroif.se/"
@@ -62949,6 +63211,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.odenasif.se/"
+    },
+    {
+      "entry": 1236085203,
+      "orgNumber": "802503-0407",
+      "orgName": "\u00d6IS Handboll",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/oishandboll/"
     },
     {
       "entry": 1236085385,
@@ -63541,6 +63813,16 @@
       "web": "https://www.naskebs.com/"
     },
     {
+      "entry": 1236151500,
+      "orgNumber": "853300-4076",
+      "orgName": "Kung\u00e4lvs HK",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://kungalvhk.myclub.se/"
+    },
+    {
       "entry": 1236151526,
       "orgNumber": "802003-9460",
       "orgName": "Folkungakyrkan Stockholm",
@@ -63781,6 +64063,16 @@
       "web": "https://www.forr.se/"
     },
     {
+      "entry": 1236171094,
+      "orgNumber": "846001-6598",
+      "orgName": "Handbollsklubben Ankaret",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.hkankaret.se/"
+    },
+    {
       "entry": 1236172373,
       "orgNumber": "559068-0467",
       "orgName": "ECO Butiken",
@@ -64010,6 +64302,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://burserydsif.se/"
+    },
+    {
+      "entry": 1236185524,
+      "orgNumber": "814401-0801",
+      "orgName": "HK Ceres Norrt\u00e4lje",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.hkceres.se/"
     },
     {
       "entry": 1236185854,
@@ -65843,6 +66145,16 @@
       "web": "https://www.oknjudung.se/"
     },
     {
+      "entry": 1236367981,
+      "orgNumber": "875002-0789",
+      "orgName": "\u00d6rebro SK handboll DAM",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/oskhdam/"
+    },
+    {
       "entry": 1236369565,
       "orgNumber": "802476-0962",
       "orgName": "Tysk Jaktterrier Klubb",
@@ -66417,6 +66729,16 @@
         "ridklubb"
       ],
       "web": "https://www.areridklubb.se/"
+    },
+    {
+      "entry": 1236443824,
+      "orgNumber": "857202-3912",
+      "orgName": "IK S\u00e4vehof",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://savehof.se/"
     },
     {
       "entry": 1236444129,
@@ -68972,6 +69294,17 @@
       "web": "https://www.viggofoundation.se/"
     },
     {
+      "entry": 1236717748,
+      "orgNumber": "868400-4800",
+      "orgName": "Skara Handbollsklubb",
+      "comment": "Kiosk",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://skarahk.sportadmin.se/"
+    },
+    {
       "entry": 1236718365,
       "orgNumber": "877100-1750",
       "orgName": "Lindesbergs Hembygdsf\u00f6rening",
@@ -69123,6 +69456,16 @@
         "skalmodeller"
       ],
       "web": "https://www.srmodell.se/"
+    },
+    {
+      "entry": 1236734693,
+      "orgNumber": "802002-9180",
+      "orgName": "Sannadals Sportklubb",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://sannadal.com/"
     },
     {
       "entry": 1236734735,
@@ -71232,6 +71575,16 @@
         "innebandyklubb"
       ],
       "web": "https://www.fif.se/"
+    },
+    {
+      "entry": 1236948178,
+      "orgNumber": "812800-4028",
+      "orgName": "Huddinge HK",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/huddingehk"
     },
     {
       "entry": 1236948236,
