@@ -23965,7 +23965,7 @@ entries:
   web: https://www.iksu.se/
 
 - entry: 1232372738
-  orgName: Västerås SK Fotbollsklubb
+  orgName: Västerås SK Fotbollsklubb, VSK
   orgNumber: 878001-4653
   comment: null
   categories:
@@ -57601,6 +57601,15 @@ entries:
   categories:
   - scoutkår
   web: https://tusenforstahjalpen.se/
+
+- entry: 1236145643
+  orgName: Malmö Fotbollförening, MFF
+  orgNumber: 846000-4487
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.mff.se/
 
 - entry: 1236145817
   orgName: SPF Seniorerna Nacka

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-24-rev-135550",
+    "date": "2024-03-24-rev-140531",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -26753,7 +26753,7 @@
     {
       "entry": 1232372738,
       "orgNumber": "878001-4653",
-      "orgName": "V\u00e4ster\u00e5s SK Fotbollsklubb",
+      "orgName": "V\u00e4ster\u00e5s SK Fotbollsklubb, VSK",
       "categories": [
         "fotbollsklubb"
       ],
@@ -64098,6 +64098,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://tusenforstahjalpen.se/"
+    },
+    {
+      "entry": 1236145643,
+      "orgNumber": "846000-4487",
+      "orgName": "Malm\u00f6 Fotbollf\u00f6rening, MFF",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.mff.se/"
     },
     {
       "entry": 1236145817,

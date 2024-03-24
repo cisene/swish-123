@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-03-24-rev-135550
+Date:     2024-03-24-rev-140531
 ...
 
 # Swish 123 Nummer
@@ -2721,7 +2721,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232371128 | 855100-6334 | Rosengrenska Insamlingsstiftelsen                                                                    |                           |
 | 1232371466 | 849201-3019 | MCK Hallandia - Motorcykel och Snöskoter                                                             |                           |
 | 1232371508 | 894000-4792 | Idrottsklubben Studenterna I Umeå IKSU                                                               |                           |
-| 1232372738 | 878001-4653 | Västerås SK Fotbollsklubb                                                                            |                           |
+| 1232372738 | 878001-4653 | Västerås SK Fotbollsklubb, VSK                                                                       |                           |
 | 1232373629 | 866001-2298 | Läckö Golfklubb                                                                                      |                           |
 | 1232373793 | 252002-1268 | Viby Församlning                                                                                     |                           |
 | 1232373884 | 620313-XXXX | Zonterapi Linköping - Corazone / Rose-Marie Andersson                                                |                           |
@@ -6495,6 +6495,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236144885 | 252004-8790 | Eritreanska Ortodoxa Tewahedo Kyrkan I Skandinavien (koptiska patriarkatet), EOTCS                   |                           |
 | 1236145056 | 802445-6785 | Wattholma Golfklubb                                                                                  |                           |
 | 1236145155 | 802008-5976 | Sköndals Land- och Sjöscoutkår                                                                       |                           |
+| 1236145643 | 846000-4487 | Malmö Fotbollförening, MFF                                                                           |                           |
 | 1236145817 | 802406-3649 | SPF Seniorerna Nacka                                                                                 |                           |
 | 1236146765 | 252004-8790 | Eritreanska Ortodoxa Tewahedo Kyrkan I Skandinavien (koptiska patriarkatet), EOTCS                   |                           |
 | 1236147391 | 868400-6284 | Vara Hästsportklubb                                                                                  |                           |

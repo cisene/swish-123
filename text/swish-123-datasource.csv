@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-03-24-rev-135551
+# Date: 2024-03-24-rev-140531
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2719,7 +2719,7 @@
 "1232371128","855100-6334","Rosengrenska Insamlingsstiftelsen","https://www.rosengrenska.org/","hjälporganisation,stiftelse",""
 "1232371466","849201-3019","MCK Hallandia - Motorcykel och Snöskoter","https://www.mckhallandia.com/","motorcykelklubb,snöskoterklubb",""
 "1232371508","894000-4792","Idrottsklubben Studenterna I Umeå IKSU","https://www.iksu.se/","idrottsförening,lägerverksamhet,längdskidåkning",""
-"1232372738","878001-4653","Västerås SK Fotbollsklubb","https://www.vskfotboll.nu/","fotbollsklubb",""
+"1232372738","878001-4653","Västerås SK Fotbollsklubb, VSK","https://www.vskfotboll.nu/","fotbollsklubb",""
 "1232373629","866001-2298","Läckö Golfklubb","https://lackogk.se/","golfklubb",""
 "1232373793","252002-1268","Viby Församlning","https://www.vibyforsamling.se/","religion",""
 "1232373884","620313-XXXX","Zonterapi Linköping - Corazone / Rose-Marie Andersson","http://www.corazone.se/","homeopati,resonansbehandling,zoneterapi",""
@@ -6493,6 +6493,7 @@
 "1236144885","252004-8790","Eritreanska Ortodoxa Tewahedo Kyrkan I Skandinavien (koptiska patriarkatet), EOTCS","https://eotcs.se/","religion",""
 "1236145056","802445-6785","Wattholma Golfklubb","https://www.wattholmagk.se/","golfbana,golfklubb",""
 "1236145155","802008-5976","Sköndals Land- och Sjöscoutkår","https://tusenforstahjalpen.se/","scoutkår",""
+"1236145643","846000-4487","Malmö Fotbollförening, MFF","https://www.mff.se/","fotbollsklubb,idrottsförening",""
 "1236145817","802406-3649","SPF Seniorerna Nacka","https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-nacka/","pensionärsklubb",""
 "1236146765","252004-8790","Eritreanska Ortodoxa Tewahedo Kyrkan I Skandinavien (koptiska patriarkatet), EOTCS","https://eotcs.se/","religion",""
 "1236147391","868400-6284","Vara Hästsportklubb","https://www.vhsk.se/","hästsport,ridskola",""
