@@ -2615,6 +2615,14 @@ entries:
   - utbildning
   web: https://www.togetherforbetter.se/
 
+- entry: 1230259978
+  orgName: Kvinnojouren Athena Övertorneå-Överkalix
+  orgNumber: 897601-1620
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://kvinnojourenathena.se/
+
 - entry: 1230261750
   orgName: Timrå IK Supporterklubb
   orgNumber: 889201-7974
@@ -5559,6 +5567,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/staffanstorp
 
+- entry: 1230549030
+  orgName: STHLM Tactical Fundraising Ukraine
+  orgNumber: 802539-7988
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.stfutacticats.com/
+
 - entry: 1230550061
   orgName: Södra Ölands Pastorat
   orgNumber: 252003-8874
@@ -6483,7 +6499,7 @@ entries:
 - entry: 1230656744
   orgName: Stiftelsen Tim Bergling Foundation
   orgNumber: 802481-1997
-  comment: null
+  comment: Avicii-fonden
   categories:
   - psykisk hälsa
   - självmordsprevention
@@ -7185,6 +7201,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vattholma/arentuna
 
+- entry: 1230732677
+  orgName: Fools Gold
+  orgNumber: 802511-6537
+  comment: null
+  categories:
+  - musikförening
+  web: null
+
 - entry: 1230732842
   orgName: Projekt Rödbergsvik
   orgNumber: 854600-3545
@@ -7818,6 +7842,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://balstabygdegard.se/
+
+- entry: 1230783431
+  orgName: Terrafem Skåne
+  orgNumber: 802521-7491
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://terrafem.org/om-oss/lokalforeningar/skane/
 
 - entry: 1230786327
   orgName: Gula Båten / Millkeeper AB
@@ -9369,7 +9401,6 @@ entries:
   orgNumber: 802411-3667
   comment: null
   categories:
-  - donation
   - kvinnojour
   web: https://kvinnorsratt.se/
 
@@ -9754,6 +9785,14 @@ entries:
   - ridskola
   - turridning
   web: https://kalvbergsasen.se/
+
+- entry: 1230946509
+  orgName: Terrafem Stockholm
+  orgNumber: 802513-9398
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://terrafem.org/om-oss/lokalforeningar/stockholm/
 
 - entry: 1230950774
   orgName: Dalarna Femund-forkörarförening
@@ -10433,6 +10472,14 @@ entries:
   categories:
   - restaurant
   web: https://bierkeller.se/
+
+- entry: 1231033836
+  orgName: Water Matters
+  orgNumber: 802535-4724
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://watermatters.se/
 
 - entry: 1231033885
   orgName: Svenska Dvärgkaninklubben
@@ -11253,6 +11300,14 @@ entries:
   - förening
   - gymnastikförening
   web: http://www.sveagym.se/
+
+- entry: 1231116243
+  orgName: Kramfors Kvinnojour
+  orgNumber: 888400-7157
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.unizonjourer.se/jourer/kramfors-kvinnojour/
 
 - entry: 1231121250
   orgName: m4 gruppen AB
@@ -14918,6 +14973,14 @@ entries:
   - innebandyklubb
   web: https://www.amalsibk.com/
 
+- entry: 1231475037
+  orgName: Upplands Nation
+  orgNumber: 262000-0691
+  comment: null
+  categories:
+  - studentorganisation
+  web: https://uplandsnation.se/
+
 - entry: 1231475193
   orgName: RPG - Riksförbundet PensionärsGemenskap - Kullabygden
   orgNumber: 802445-1448
@@ -15222,6 +15285,15 @@ entries:
   categories:
   - studieförbund
   web: https://www.abf.se/distrikt--avdelningar/abf-skane/abf-malmo/
+
+- entry: 1231485614
+  orgName: Dövas Afrika Mission, DAM
+  orgNumber: 817602-7368
+  comment: null
+  categories:
+  - hörselnedsättning
+  - religion
+  web: https://dovasafrikamission.se/
 
 - entry: 1231486158
   orgName: Kvinnojouren Viljan
@@ -18773,6 +18845,14 @@ entries:
   - katthem
   - stiftelse
   web: https://kattjouren.nu/
+
+- entry: 1231826429
+  orgName: Kvinnojouren Öresund
+  orgNumber: 846501-4218
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://kvinnojourenoresund.se/
 
 - entry: 1231826569
   orgName: Helga Trefaldighets Församling Växjö
@@ -26495,6 +26575,14 @@ entries:
   - religion
   web: https://ekbackskyrkan.se/
 
+- entry: 1232683332
+  orgName: En Hjälpande Hand
+  orgNumber: 802534-0012
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://enhjalpandehand.se/
+
 - entry: 1232683415
   orgName: IMK / Maria Karlsson
   orgNumber: 701124-XXXX
@@ -28370,6 +28458,14 @@ entries:
   comment: null
   categories: null
   web: null
+
+- entry: 1232863736
+  orgName: Terrafem Örebro
+  orgNumber: 802537-3351
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://terrafem.org/om-oss/lokalforeningar/orebro/
 
 - entry: 1232870459
   orgName: Frälsningsarmén
@@ -32489,7 +32585,7 @@ entries:
   web: https://humanrightslawyers.eu/
 
 - entry: 1233330404
-  orgName: Friends of mio
+  orgName: Friends of Mio
   orgNumber: 802542-0350
   comment: null
   categories:
@@ -34791,6 +34887,14 @@ entries:
   - djurskydd
   - riksorganisation
   web: https://djurensvanner.se/
+
+- entry: 1233549466
+  orgName: Miracle Connect
+  orgNumber: 802500-0566
+  comment: null
+  categories:
+  - religion
+  web: https://miracleconnect.org/
 
 - entry: 1233551033
   orgName: Christinehamns Motorbåtsklubb
@@ -43178,6 +43282,14 @@ entries:
   - dolda handikapp
   web: https://dyslexi.org/
 
+- entry: 1234525275
+  orgName: Agera Kvinnojour
+  orgNumber: 802491-4494
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.unizonjourer.se/agerakvinnojour/
+
 - entry: 1234525739
   orgName: null
   orgNumber: null
@@ -44510,7 +44622,7 @@ entries:
   orgNumber: 802498-1287
   comment: null
   categories:
-  - lokaltidning
+  - lokalmedia
   web: https://efolket.eu/
 
 - entry: 1234673380
@@ -46779,6 +46891,15 @@ entries:
   - religion
   web: https://www.lovebyforce.se/
 
+- entry: 1235000625
+  orgName: Akhuwat Sweden
+  orgNumber: 802517-4247
+  comment: null
+  categories:
+  - hjälporganisation
+  - utbildningsstöd
+  web: https://www.akhuwat.se/
+
 - entry: 1235005137
   orgName: Kristus Konungens Institut i Sverige
   orgNumber: 252004-9863
@@ -47224,6 +47345,14 @@ entries:
   - hjälporganisation
   web: https://sverigeforunhcr.se/
 
+- entry: 1235053988
+  orgName: Terrafem Göteborg
+  orgNumber: 802534-8635
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://terrafem.org/om-oss/lokalforeningar/goteborg/
+
 - entry: 1235054945
   orgName: Klubb Maritim - Göteborg
   orgNumber: 857205-1400
@@ -47327,6 +47456,15 @@ entries:
   - hästsport
   - westernridning
   web: https://wras.horse/
+
+- entry: 1235077466
+  orgName: Deaf Refugees Welcome Sweden, DRW
+  orgNumber: 846001-3405
+  comment: null
+  categories:
+  - hörselnedsättning
+  - religion
+  web: null
 
 - entry: 1235078522
   orgName: Team Rynkeby
@@ -48706,6 +48844,13 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://skarpan.com/
+
+- entry: 1235174420
+  orgName: Satanic Surfers
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1235175492
   orgName: Friluftsgården Getsjötorp
@@ -51681,6 +51826,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1235489893
+  orgName: Ester's Help
+  orgNumber: 802524-1897
+  comment: null
+  categories:
+  - hjälporganisation
+  web: http://www.estershelp.com/
+
 - entry: 1235490180
   orgName: null
   orgNumber: null
@@ -51755,6 +51908,14 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.harplingeridklubb.se/
+
+- entry: 1235510102
+  orgName: Östhjälpen
+  orgNumber: 857206-3041
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkanjonsered.se/osthjalpen/
 
 - entry: 1235510557
   orgName: Nogersunds Hembygdsförening
@@ -56522,6 +56683,14 @@ entries:
   - religion
   web: https://www.uppsalapingst.se/
 
+- entry: 1236025407
+  orgName: Equmeniakyrkan Jonsered
+  orgNumber: 857200-8194
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkanjonsered.se/
+
 - entry: 1236025449
   orgName: Södertörnkyrkan
   orgNumber: 802436-6422
@@ -58857,6 +59026,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://söderbärkehembygdsförening.se/
+
+- entry: 1236278410
+  orgName: Kvinnojouren KAK
+  orgNumber: 802414-0389
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://kvinnojourenkak.se/
 
 - entry: 1236279137
   orgName: Kungsörs Brukshundsklubb
@@ -63370,6 +63547,14 @@ entries:
   - religion
   web: https://almviksgard.se/
 
+- entry: 1236802342
+  orgName: Help Kurdistan Insamlingsstiftelse
+  orgNumber: 802478-2842
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.helpkurdistan.se/
+
 - entry: 1236804397
   orgName: Söderköpings Ryttarsällskap
   orgNumber: 825002-7813
@@ -64799,6 +64984,14 @@ entries:
   categories:
   - orkester
   web: https://www.facebook.com/MotherMersy/
+
+- entry: 1236975015
+  orgName: Terrafem Uppsala
+  orgNumber: 802536-9458
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://terrafem.org/om-oss/lokalforeningar/uppsala/
 
 - entry: 1236985543
   orgName: Lymf Sverige
