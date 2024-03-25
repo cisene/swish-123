@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-03-24-rev-140531
+Date:     2024-03-25-rev-174133
 ...
 
 # Swish 123 Nummer
@@ -3405,7 +3405,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233044484 | 559158-9212 | MOWE Hälso- & Yogacenter AB                                                                          |                           |
 | 1233044823 | 849202-3018 | Rotary Laholm-Hök                                                                                    |                           |
 | 1233045226 | 894000-0543 | Umeå Golfklubb                                                                                       |                           |
-| 1233045234 | 878000-0413 | Pingstförsamlingen I Västerås                                                                        |                           |
+| 1233045234 | 878000-0413 | Pingstförsamlingen i Västerås                                                                        |                           |
 | 1233045283 | 802435-5714 | Stockholms Barnidrottsförening                                                                       |                           |
 | 1233045549 | 829001-0019 | Ung Företagsamhet i Kronbergs Län                                                                    |                           |
 | 1233045598 | 849000-6783 | Pingstförsamlingen Falkenberg                                                                        |                           |
@@ -3710,6 +3710,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233352309 | 848001-0407 | Ystads IF FF                                                                                         |                           |
 | 1233352622 | 790426-XXXX | Mindful Training i Värnamo / Maria Modeé                                                             |                           |
 | 1233352945 | 857204-0254 | Sällskapet Ångbåten                                                                                  |                           |
+| 1233357183 | 878001-4653 | Västerås SK FK                                                                                       | F13/F14                   |
 | 1233357456 | 802538-0661 | Amnesty Sàpmi                                                                                        |                           |
 | 1233357589 | 822001-0295 | Linköpings GIF                                                                                       |                           |
 | 1233360070 | 802001-5452 | Moderata Samlingspartiet Riksorganisationen                                                          |                           |
@@ -7131,6 +7132,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236779383 | 829502-6432 | Åseda-Lenhovda Brukshundsklubb                                                                       |                           |
 | 1236779565 | 887501-1242 | Gnarps ridklubb                                                                                      |                           |
 | 1236779607 | 843000-4245 | OV Helsingborg HK                                                                                    |                           |
+| 1236779912 | 212000-2080 | Västerås stad                                                                                        | dagkort och säsongskort skidåkning |
 | 1236782775 | 802447-7021 | Matteröds Byalag                                                                                     |                           |
 | 1236783104 | 802511-5497 | Alingsås Fotoklubb                                                                                   | Tävlingar                 |
 | 1236783914 | 847000-0988 | Trelleborgs Missionsförsamling                                                                       |                           |
@@ -7260,7 +7262,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236917017 | 802428-0953 | Prästakullens Koloniförening                                                                         |                           |
 | 1236917033 | 818000-7570 | Eskilstunaortens Jägarklubb, EOJK                                                                    |                           |
 | 1236917090 | 802450-9922 | Örsås Byalag                                                                                         |                           |
-| 1236917546 | 252002-2233 | Barkarö - Dingtuna - Rytterne Församling                                                             |                           |
+| 1236917546 | 252002-2233 | Barkarö - Dingtuna - Rytterne Församling                                                             | Husmor                    |
 | 1236917892 | 897300-3109 | Kiruna Brukshundklubb                                                                                |                           |
 | 1236918064 | 252000-6293 | Almundsryds Församling                                                                               | Kollekt                   |
 | 1236918437 | 802505-5495 | Piteå IF Orienteringsklubb - Orientering                                                             | Träning                   |

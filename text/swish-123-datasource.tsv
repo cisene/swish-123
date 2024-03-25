@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-03-24-rev-140531
+# Date: 2024-03-25-rev-174133
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3403,7 +3403,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233044484	559158-9212	MOWE Hälso- & Yogacenter AB	https://mowehalsayoga.se/	massage,yoga	
 1233044823	849202-3018	Rotary Laholm-Hök	https://laholm-hok.rotary2400.se/	rotaryklubb	
 1233045226	894000-0543	Umeå Golfklubb	https://www.umgk.se/	golfklubb	
-1233045234	878000-0413	Pingstförsamlingen I Västerås	https://vasteras.pingst.se/	religion	
+1233045234	878000-0413	Pingstförsamlingen i Västerås	https://vasteras.pingst.se/	religion	
 1233045283	802435-5714	Stockholms Barnidrottsförening	https://stockholmsbif.se/	idrottsförening	
 1233045549	829001-0019	Ung Företagsamhet i Kronbergs Län	https://ungforetagsamhet.se/	företagande,ungdomsverksamhet	
 1233045598	849000-6783	Pingstförsamlingen Falkenberg	https://www.pingstfalkenberg.se/	religion	
@@ -3708,6 +3708,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233352309	848001-0407	Ystads IF FF	https://www.laget.se/YIFFF/	idrottsförening	
 1233352622	790426-XXXX	Mindful Training i Värnamo / Maria Modeé	https://www.mindfultraining.se/	yoga	
 1233352945	857204-0254	Sällskapet Ångbåten	https://www.steamboat.se/	intresseförening	
+1233357183	878001-4653	Västerås SK FK	https://www.laget.se/vsku_f14/	fotbollsklubb,idrottsförening	F13/F14
 1233357456	802538-0661	Amnesty Sàpmi	https://amnestysapmi.se/	förening,ideell förening	
 1233357589	822001-0295	Linköpings GIF	https://www.svenskalag.se/linkopingsgif	idrottsförening	
 1233360070	802001-5452	Moderata Samlingspartiet Riksorganisationen	https://moderaterna.se/	politiskt parti	
@@ -7129,6 +7130,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236779383	829502-6432	Åseda-Lenhovda Brukshundsklubb	https://www.a-lbk.se/	brukshundsklubb,hundsport	
 1236779565	887501-1242	Gnarps ridklubb	https://www.gnarpsridklubb.se/	hästsport,ridklubb	
 1236779607	843000-4245	OV Helsingborg HK	https://ovhelsingborg.myclub.se/	handbollsklubb,idrottsförening	
+1236779912	212000-2080	Västerås stad	https://www.vasteras.se/uppleva-och-gora/idrott-motion-och-friluftsliv/skidakning.html	vintersport	dagkort och säsongskort skidåkning
 1236782775	802447-7021	Matteröds Byalag	https://www.matterodsbyalag.se/	byalag	
 1236783104	802511-5497	Alingsås Fotoklubb	https://www.alingsasfotoklubb.se/	fotoklubb	Tävlingar
 1236783914	847000-0988	Trelleborgs Missionsförsamling	https://www.equmeniakyrkantrelleborg.se/	religion	
@@ -7258,7 +7260,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236917017	802428-0953	Prästakullens Koloniförening	https://prastakullen.com/	förening,intresseförening,koloniträdgårdsförening,trädgårdsförening	
 1236917033	818000-7570	Eskilstunaortens Jägarklubb, EOJK	https://www.svenskalag.se/eojk	jakt	
 1236917090	802450-9922	Örsås Byalag	https://www.orsas.se/byalaget/	byalag	
-1236917546	252002-2233	Barkarö - Dingtuna - Rytterne Församling	https://www.svenskakyrkan.se/vasteras/kontakta-oss-rytterne	religion	
+1236917546	252002-2233	Barkarö - Dingtuna - Rytterne Församling	https://www.svenskakyrkan.se/vasteras/kontakta-oss-rytterne	religion	Husmor
 1236917892	897300-3109	Kiruna Brukshundklubb	https://kirunabhk.wordpress.com/	brukshundsklubb,hundklubb	
 1236918064	252000-6293	Almundsryds Församling	https://www.svenskakyrkan.se/tingsryd/almundsryd	religion	Kollekt
 1236918437	802505-5495	Piteå IF Orienteringsklubb - Orientering	https://www.piteaifok.se/	idrottsförening,orientering	Träning

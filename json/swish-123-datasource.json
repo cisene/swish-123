@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-24-rev-140531",
+    "date": "2024-03-25-rev-174133",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -33513,7 +33513,7 @@
     {
       "entry": 1233045234,
       "orgNumber": "878000-0413",
-      "orgName": "Pingstf\u00f6rsamlingen I V\u00e4ster\u00e5s",
+      "orgName": "Pingstf\u00f6rsamlingen i V\u00e4ster\u00e5s",
       "categories": [
         "religion"
       ],
@@ -36520,6 +36520,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.steamboat.se/"
+    },
+    {
+      "entry": 1233357183,
+      "orgNumber": "878001-4653",
+      "orgName": "V\u00e4ster\u00e5s SK FK",
+      "comment": "F13/F14",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/vsku_f14/"
     },
     {
       "entry": 1233357456,
@@ -70414,6 +70425,16 @@
       "web": "https://ovhelsingborg.myclub.se/"
     },
     {
+      "entry": 1236779912,
+      "orgNumber": "212000-2080",
+      "orgName": "V\u00e4ster\u00e5s stad",
+      "comment": "dagkort och s\u00e4songskort skid\u00e5kning",
+      "categories": [
+        "vintersport"
+      ],
+      "web": "https://www.vasteras.se/uppleva-och-gora/idrott-motion-och-friluftsliv/skidakning.html"
+    },
+    {
       "entry": 1236782775,
       "orgNumber": "802447-7021",
       "orgName": "Matter\u00f6ds Byalag",
@@ -71703,6 +71724,7 @@
       "entry": 1236917546,
       "orgNumber": "252002-2233",
       "orgName": "Barkar\u00f6 - Dingtuna - Rytterne F\u00f6rsamling",
+      "comment": "Husmor",
       "categories": [
         "religion"
       ],

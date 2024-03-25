@@ -30041,7 +30041,7 @@ entries:
   web: https://www.umgk.se/
 
 - entry: 1233045234
-  orgName: Pingstförsamlingen I Västerås
+  orgName: Pingstförsamlingen i Västerås
   orgNumber: 878000-0413
   comment: null
   categories:
@@ -32757,6 +32757,15 @@ entries:
   categories:
   - intresseförening
   web: https://www.steamboat.se/
+
+- entry: 1233357183
+  orgName: Västerås SK FK
+  orgNumber: 878001-4653
+  comment: F13/F14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/vsku_f14/
 
 - entry: 1233357456
   orgName: Amnesty Sàpmi
@@ -63361,6 +63370,14 @@ entries:
   - idrottsförening
   web: https://ovhelsingborg.myclub.se/
 
+- entry: 1236779912
+  orgName: Västerås stad
+  orgNumber: 212000-2080
+  comment: dagkort och säsongskort skidåkning
+  categories:
+  - vintersport
+  web: https://www.vasteras.se/uppleva-och-gora/idrott-motion-och-friluftsliv/skidakning.html
+
 - entry: 1236782775
   orgName: Matteröds Byalag
   orgNumber: 802447-7021
@@ -64515,7 +64532,7 @@ entries:
 - entry: 1236917546
   orgName: Barkarö - Dingtuna - Rytterne Församling
   orgNumber: 252002-2233
-  comment: null
+  comment: Husmor
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/kontakta-oss-rytterne
