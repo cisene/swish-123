@@ -45619,6 +45619,14 @@ entries:
   - styrketräning
   web: https://www.naitisport.se/
 
+- entry: 1234711297
+  orgName: Flens Jaktskytteklubb
+  orgNumber: 818501-3557
+  comment: null
+  categories:
+  - jaktskytteklubb
+  web: https://www.svenskalag.se/flensjsk
+
 - entry: 1234714317
   orgName: Tornedalens Lokala Kennelklubb
   orgNumber: 802492-3164
@@ -55884,7 +55892,7 @@ entries:
 
 - entry: 1235833918
   orgName: Rotary Täby-Attunda
-  orgNumber: 0028267318
+  orgNumber: 002826-7318
   comment: null
   categories:
   - rotaryklubb
@@ -63095,9 +63103,10 @@ entries:
 
 - entry: 1236677785
   orgName: Kvinnojouren Karlskrona
-  orgNumber: null
+  orgNumber: 835001-3093
   comment: null
-  categories: null
+  categories:
+  - kvinnojour
   web: https://kvinnojourenkarlskrona.se/
 
 - entry: 1236678262

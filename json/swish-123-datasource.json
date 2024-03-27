@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-28-rev-000909",
+    "date": "2024-03-28-rev-001951",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -50905,6 +50905,15 @@
       "web": "https://www.naitisport.se/"
     },
     {
+      "entry": 1234711297,
+      "orgNumber": "818501-3557",
+      "orgName": "Flens Jaktskytteklubb",
+      "categories": [
+        "jaktskytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/flensjsk"
+    },
+    {
       "entry": 1234714317,
       "orgNumber": "802492-3164",
       "orgName": "Tornedalens Lokala Kennelklubb",
@@ -62316,6 +62325,15 @@
       "web": "https://www.gigwatch.se/"
     },
     {
+      "entry": 1235833918,
+      "orgNumber": "002826-7318",
+      "orgName": "Rotary T\u00e4by-Attunda",
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://taby-attunda.rotary2350.se/"
+    },
+    {
       "entry": 1235834700,
       "orgNumber": "893203-1340",
       "orgName": "J\u00e4mtland-H\u00e4rjedalens BF",
@@ -70242,6 +70260,15 @@
         "utbildning"
       ],
       "web": "https://www.uu.se/"
+    },
+    {
+      "entry": 1236677785,
+      "orgNumber": "835001-3093",
+      "orgName": "Kvinnojouren Karlskrona",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://kvinnojourenkarlskrona.se/"
     },
     {
       "entry": 1236678262,

@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-03-28-rev-000909
+Date:     2024-03-28-rev-001951
 ...
 
 # Swish 123 Nummer
@@ -5163,6 +5163,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234704862 | 802487-5992 | Veteranstöd Rapid Reaction                                                                           |                           |
 | 1234705265 | 802517-9014 | Smådjurschansen                                                                                      |                           |
 | 1234709598 | 559165-9437 | Naitisport AB                                                                                        |                           |
+| 1234711297 | 818501-3557 | Flens Jaktskytteklubb                                                                                |                           |
 | 1234714317 | 802492-3164 | Tornedalens Lokala Kennelklubb                                                                       |                           |
 | 1234714796 | 827000-6128 | Lions Club Nässjö                                                                                    |                           |
 | 1234716213 | 814800-0931 | Sätunakyrkans Ekumeniska Församling                                                                  |                           |
@@ -6313,6 +6314,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235830278 | 252004-0326 | Alva, Hemse och Rone Församling                                                                      | Kollekt                   |
 | 1235831904 | 802511-3047 | Stöttepelaren - Stödförening för Ensamkommande Barn och Ungdomar                                     |                           |
 | 1235833348 | 802533-5095 | GigWatch / Gigekonomiska Föreningen                                                                  |                           |
+| 1235833918 | 002826-7318 | Rotary Täby-Attunda                                                                                  |                           |
 | 1235834700 | 893203-1340 | Jämtland-Härjedalens BF                                                                              |                           |
 | 1235836366 | 559309-0425 | Arvika Idrottscenter AB                                                                              |                           |
 | 1235837752 | 802527-2926 | Strokeföreningen Örebro, SÖ                                                                          |                           |
@@ -7114,6 +7116,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236675474 | 802471-0264 | Naturhjältarnas 4H-klubb                                                                             |                           |
 | 1236675730 | 252001-4396 | Onsala Församling                                                                                    | Kollekt                   |
 | 1236675854 | 202100-2932 | Uppsala Universitets Internationella Stipendiefond / Uppsala Universitet                             |                           |
+| 1236677785 | 835001-3093 | Kvinnojouren Karlskrona                                                                              |                           |
 | 1236678262 | 802432-2078 | American Akita Klubb Sverige                                                                         |                           |
 | 1236680615 | 878500-7512 | Klöver Dam Västra Mälardalen                                                                         |                           |
 | 1236682322 | 252002-4866 | Nordmalings Församling                                                                               |                           |

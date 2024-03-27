@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-03-28-rev-000909
+# Date: 2024-03-28-rev-001951
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -5161,6 +5161,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234704862	802487-5992	Veteranstöd Rapid Reaction	https://vrr.nu/	hjälporganisation	
 1234705265	802517-9014	Smådjurschansen	https://www.smadjurschansen.se/	djurhem,djurskydd	
 1234709598	559165-9437	Naitisport AB	https://www.naitisport.se/	kosttillskott,styrketräning	
+1234711297	818501-3557	Flens Jaktskytteklubb	https://www.svenskalag.se/flensjsk	jaktskytteklubb	
 1234714317	802492-3164	Tornedalens Lokala Kennelklubb	https://www.tlkk.hundpoolen.se/	hundsport,kennelklubb	
 1234714796	827000-6128	Lions Club Nässjö	https://lionsnassjo.se/	lionsklubb	
 1234716213	814800-0931	Sätunakyrkans Ekumeniska Församling	https://www.satunakyrkan.org/	religion	
@@ -6311,6 +6312,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235830278	252004-0326	Alva, Hemse och Rone Församling	https://www.svenskakyrkan.se/sudrets-pastorat	religion	Kollekt
 1235831904	802511-3047	Stöttepelaren - Stödförening för Ensamkommande Barn och Ungdomar	https://stottepelaren.se/	intresseförening,juridiska tjänster	
 1235833348	802533-5095	GigWatch / Gigekonomiska Föreningen	https://www.gigwatch.se/	intresseförening	
+1235833918	002826-7318	Rotary Täby-Attunda	https://taby-attunda.rotary2350.se/	rotaryklubb	
 1235834700	893203-1340	Jämtland-Härjedalens BF	https://www.svenskbridge.se/jämtland-härjedalens-bf	bridgeklubb	
 1235836366	559309-0425	Arvika Idrottscenter AB	https://arvikaidrottscenter.se/	idrott	
 1235837752	802527-2926	Strokeföreningen Örebro, SÖ	https://orebrolansstrokeforening.org/	intresseförening,patientförening,strokeforskning	
@@ -7112,6 +7114,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236675474	802471-0264	Naturhjältarnas 4H-klubb	https://www.4h.se/naturhjaltarna/	4h,djurvård,utbildning	
 1236675730	252001-4396	Onsala Församling	https://www.svenskakyrkan.se/onsala	religion	Kollekt
 1236675854	202100-2932	Uppsala Universitets Internationella Stipendiefond / Uppsala Universitet	https://www.uu.se/	stipendium,utbildning	
+1236677785	835001-3093	Kvinnojouren Karlskrona	https://kvinnojourenkarlskrona.se/	kvinnojour	
 1236678262	802432-2078	American Akita Klubb Sverige	https://americanakitaklubbsverige.se/	hundklubb	
 1236680615	878500-7512	Klöver Dam Västra Mälardalen	https://www.kloverdamvm.se/	företagande,företagarförening	
 1236682322	252002-4866	Nordmalings Församling	https://www.svenskakyrkan.se/nordmaling	religion	
