@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-27-rev-221206",
+    "date": "2024-03-28-rev-000909",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2458,6 +2458,16 @@
         "religion"
       ],
       "web": "https://aishacenter.se/"
+    },
+    {
+      "entry": 1230224865,
+      "orgNumber": "818500-9738",
+      "orgName": "Flens HC Flames",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.flenshc.se/"
     },
     {
       "entry": 1230226126,
@@ -11717,6 +11727,16 @@
       "web": "https://jarlabankegk.se/"
     },
     {
+      "entry": 1231026517,
+      "orgNumber": "556060-1014",
+      "orgName": "\u00c5bergs Tryckeri",
+      "categories": [
+        "tryckeri",
+        "trycksaker"
+      ],
+      "web": "https://www.abergstryck.se/"
+    },
+    {
       "entry": 1231026707,
       "orgNumber": "252003-7488",
       "orgName": "H\u00e4rn\u00f6sands Pastorat",
@@ -13040,6 +13060,15 @@
       "web": "https://www.svenskakyrkan.se/arboga"
     },
     {
+      "entry": 1231147115,
+      "orgNumber": "252005-0135",
+      "orgName": "Ystad-S\u00f6vestads f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ystad"
+    },
+    {
       "entry": 1231147222,
       "orgNumber": "769622-7334",
       "orgName": "P\u00e5 Limhamn Ekonomisk F\u00f6rening",
@@ -14334,6 +14363,17 @@
         "yrkesutbildning"
       ],
       "web": "https://mastarregistret.se/"
+    },
+    {
+      "entry": 1231239979,
+      "orgNumber": "802487-6198",
+      "orgName": "Karlstads F\u00e5gelhundklubb",
+      "categories": [
+        "hundklubb",
+        "hundsport",
+        "jakthund"
+      ],
+      "web": "https://www.fagelhund.se/"
     },
     {
       "entry": 1231240902,
@@ -16349,6 +16389,15 @@
         "hundsport"
       ],
       "web": "https://www.skultunabrukshundklubb.se/"
+    },
+    {
+      "entry": 1231431360,
+      "orgNumber": "878002-0544",
+      "orgName": "POSK - Partipolitiskt Obundna i Svenska Kyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.posk.se/"
     },
     {
       "entry": 1231432137,
@@ -19644,7 +19693,8 @@
       "comment": "Kollekt",
       "categories": [
         "religion"
-      ]
+      ],
+      "web": "https://www.svenskakyrkan.se/tingsryd"
     },
     {
       "entry": 1231706605,
@@ -22220,6 +22270,16 @@
         "hundsport"
       ],
       "web": "https://www.knivstabk.se/"
+    },
+    {
+      "entry": 1231951227,
+      "orgNumber": "252004-3460",
+      "orgName": "Ljungskile F\u00f6rsamling",
+      "comment": "Fika, sopplunch och Fairtrade",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungskile"
     },
     {
       "entry": 1231951243,
@@ -26579,6 +26639,14 @@
       "web": "http://www.sbkmalmo.se/"
     },
     {
+      "entry": 1232314672,
+      "orgNumber": "802450-9948",
+      "orgName": "Havsn\u00e4sbygdens Skoterklubb",
+      "categories": [
+        "skoterklubb"
+      ]
+    },
+    {
       "entry": 1232315455,
       "orgNumber": "556600-0187",
       "orgName": "Lifeforum Sweden AB",
@@ -26615,6 +26683,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.v\u00e4rnamobouleklubb.se/"
+    },
+    {
+      "entry": 1232317907,
+      "orgNumber": "969743-0594",
+      "orgName": "Klickerklok",
+      "categories": [
+        "hundkurser",
+        "hundsport"
+      ],
+      "web": "https://www.klickerklok.se/"
     },
     {
       "entry": 1232318665,
@@ -27034,6 +27112,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/gislaved"
+    },
+    {
+      "entry": 1232371334,
+      "orgNumber": "556668-9609",
+      "orgName": "Turfman",
+      "categories": [
+        "tr\u00e4dg\u00e5rdsanl\u00e4ggning",
+        "tr\u00e4dg\u00e5rdsodling"
+      ],
+      "web": "https://turfman.se/"
     },
     {
       "entry": 1232371466,
@@ -29553,6 +29641,15 @@
       "web": "https://hfs.se/"
     },
     {
+      "entry": 1232644219,
+      "orgNumber": "212000-0332",
+      "orgName": "Orresta \u00d6 / Flens kommun",
+      "categories": [
+        "boende"
+      ],
+      "web": "https://www.visitflen.se/sv/313843/Orresta-O/"
+    },
+    {
       "entry": 1232644516,
       "orgNumber": "802454-7542",
       "orgName": "H\u00f6gs\u00e4ters Kanotklubb",
@@ -30968,7 +31065,8 @@
       "comment": "Kollekt",
       "categories": [
         "religion"
-      ]
+      ],
+      "web": "https://www.svenskakyrkan.se/tingsryd"
     },
     {
       "entry": 1232753655,
@@ -31396,6 +31494,15 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.grimsas.com/bassangforeningen/"
+    },
+    {
+      "entry": 1232785525,
+      "orgNumber": "252002-6663",
+      "orgName": "Ljusdal-Ramsj\u00f6 f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljusnan"
     },
     {
       "entry": 1232786002,
@@ -33626,6 +33733,16 @@
       "web": "https://asklanda-ornunga.se/"
     },
     {
+      "entry": 1233022142,
+      "orgNumber": "252002-8024",
+      "orgName": "Djur\u00f6, M\u00f6ja och N\u00e4md\u00f6 f\u00f6rsamling",
+      "comment": "Internationellt arbete",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/djuro-moja-namdo"
+    },
+    {
       "entry": 1233022688,
       "orgNumber": "815600-7562",
       "orgName": "Kvinnojouren Annfrid",
@@ -33932,6 +34049,15 @@
         "utbildning"
       ],
       "web": "https://hasslo.org/"
+    },
+    {
+      "entry": 1233047032,
+      "orgNumber": "252001-4016",
+      "orgName": "Varbergs kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/varberg"
     },
     {
       "entry": 1233047164,
@@ -37762,6 +37888,16 @@
       "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
     },
     {
+      "entry": 1233431376,
+      "orgNumber": "252004-3460",
+      "orgName": "Ljungskile F\u00f6rsamling",
+      "comment": "Sommarmusiken",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungskile"
+    },
+    {
       "entry": 1233431459,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -38652,6 +38788,15 @@
       "web": "https://osmotoro.se/"
     },
     {
+      "entry": 1233503026,
+      "orgNumber": "857209-6090",
+      "orgName": "MiM Kunskapscentrum",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.mimkunskapscentrum.se/"
+    },
+    {
       "entry": 1233503257,
       "orgNumber": "802506-4026",
       "orgName": "EChurch",
@@ -38916,6 +39061,16 @@
         "tillverkning"
       ],
       "web": "http://www.segelmakare.com/"
+    },
+    {
+      "entry": 1233516390,
+      "orgNumber": "252002-8024",
+      "orgName": "Djur\u00f6, M\u00f6ja och N\u00e4md\u00f6 f\u00f6rsamling",
+      "comment": "Kollekt M\u00f6ja",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/djuro-moja-namdo"
     },
     {
       "entry": 1233516820,
@@ -39455,6 +39610,15 @@
         "segling"
       ],
       "web": "https://klaramarie.se/"
+    },
+    {
+      "entry": 1233558210,
+      "orgNumber": "252001-4016",
+      "orgName": "Apelviksh\u00f6jds kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/varberg"
     },
     {
       "entry": 1233558830,
@@ -41019,7 +41183,8 @@
       "comment": "Kollekt",
       "categories": [
         "religion"
-      ]
+      ],
+      "web": "https://www.svenskakyrkan.se/tingsryd"
     },
     {
       "entry": 1233719572,
@@ -41048,6 +41213,15 @@
         "kattklubb"
       ],
       "web": "https://www.kattklubbenbik.se/"
+    },
+    {
+      "entry": 1233722717,
+      "orgNumber": "873201-8216",
+      "orgName": "Grava Jaktskytteklubb",
+      "categories": [
+        "jaktskytteklubb"
+      ],
+      "web": "http://www.gravajsk.se/"
     },
     {
       "entry": 1233724689,
@@ -41312,6 +41486,14 @@
       "web": "https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-gnistan-vannas/"
     },
     {
+      "entry": 1233760386,
+      "orgNumber": "802530-1071",
+      "orgName": "Hylte Bastubadaref\u00f6rening",
+      "categories": [
+        "bastukultur"
+      ]
+    },
+    {
       "entry": 1233770146,
       "orgNumber": "894000-2952",
       "orgName": "EFS V\u00e4sterbotten",
@@ -41468,6 +41650,16 @@
         "danssport"
       ],
       "web": "https://www.piteswanget.se/"
+    },
+    {
+      "entry": 1233785557,
+      "orgNumber": "252002-8024",
+      "orgName": "Djur\u00f6, M\u00f6ja och N\u00e4md\u00f6 f\u00f6rsamling",
+      "comment": "Kollekt N\u00e4md\u00f6",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/djuro-moja-namdo"
     },
     {
       "entry": 1233785573,
@@ -44719,6 +44911,15 @@
       "web": "https://www.hembygd.se/julita"
     },
     {
+      "entry": 1234120762,
+      "orgNumber": "252002-3173",
+      "orgName": "J\u00e4rvs\u00f6 f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljusnan"
+    },
+    {
       "entry": 1234120903,
       "orgNumber": "252003-8874",
       "orgName": "S\u00f6dra \u00d6lands Pastorat",
@@ -45226,6 +45427,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234178521,
+      "orgNumber": "212000-0332",
+      "orgName": "L\u00e4rcentrum / Flens kommun",
+      "categories": [
+        "utbildning"
+      ],
+      "web": "https://flen.se/barn--utbildning/vuxenutbildning/larcentrum"
     },
     {
       "entry": 1234180139,
@@ -46957,6 +47167,16 @@
         "hundklubb"
       ],
       "web": "http://www.gavleborgtaxklubb.se/"
+    },
+    {
+      "entry": 1234350369,
+      "orgNumber": "802490-3711",
+      "orgName": "Livbojen f\u00f6r Heml\u00f6sa Katter",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "http://www.livbojeneskilstuna.se/"
     },
     {
       "entry": 1234350609,
@@ -49897,6 +50117,16 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/FBCBOLLNAS/"
+    },
+    {
+      "entry": 1234641171,
+      "orgNumber": "818500-9704",
+      "orgName": "Flens Golfklubb",
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://flensgk.se/"
     },
     {
       "entry": 1234641221,
@@ -54960,6 +55190,16 @@
       "web": "https://bygdegardarna.se/siggaruds/"
     },
     {
+      "entry": 1235164751,
+      "orgNumber": "802600-4591",
+      "orgName": "Sk\u00e4rshults Fiskev\u00e5rdsomr\u00e5desf\u00f6rening",
+      "categories": [
+        "fiskekort",
+        "fiskev\u00e5rd",
+        "sportfiske"
+      ]
+    },
+    {
       "entry": 1235164983,
       "orgNumber": "843002-6214",
       "orgName": "Brottsofferjouren Helsingborg",
@@ -56952,6 +57192,16 @@
       "web": "https://orebro.adventkyrka.se/"
     },
     {
+      "entry": 1235350947,
+      "orgNumber": "873201-2672",
+      "orgName": "\u00c5ngb\u00e5tss\u00e4llskapet Polstj\u00e4rnan",
+      "categories": [
+        "historief\u00f6rening",
+        "museum"
+      ],
+      "web": "https://www.polstjarnan.nu/"
+    },
+    {
       "entry": 1235351697,
       "orgNumber": "836201-0004",
       "orgName": "Olofstr\u00f6ms Brukshundklubb",
@@ -57113,7 +57363,8 @@
       "comment": "Kollekt",
       "categories": [
         "religion"
-      ]
+      ],
+      "web": "https://www.svenskakyrkan.se/tingsryd"
     },
     {
       "entry": 1235372321,
@@ -60449,6 +60700,15 @@
       "web": "https://www.bommedalrf.se/"
     },
     {
+      "entry": 1235676317,
+      "orgNumber": "802517-8396",
+      "orgName": "H\u00e4rjedalens Skateboardklubb",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skateboardklubb"
+      ]
+    },
+    {
       "entry": 1235676473,
       "orgNumber": "888000-5999",
       "orgName": "H\u00e4ggd\u00e5ngers Intressef\u00f6rening",
@@ -60907,6 +61167,15 @@
       "web": "https://www.tihs.se/"
     },
     {
+      "entry": 1235707856,
+      "orgNumber": "252004-2405",
+      "orgName": "F\u00e4rila-K\u00e5rb\u00f6le f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljusnan"
+    },
+    {
       "entry": 1235707955,
       "orgNumber": "556797-0305",
       "orgName": "IA Bil AB",
@@ -61276,6 +61545,15 @@
       "web": "http://www.falkenbergsbk.se/"
     },
     {
+      "entry": 1235760343,
+      "orgNumber": "252001-4016",
+      "orgName": "Sollyckans kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/varberg"
+    },
+    {
       "entry": 1235763040,
       "orgNumber": "894700-5958",
       "orgName": "Clemensn\u00e4s IF",
@@ -61619,6 +61897,16 @@
         "\u00f6lframst\u00e4llning"
       ],
       "web": "https://www.mikrobryggerietviking.se/"
+    },
+    {
+      "entry": 1235786736,
+      "orgNumber": "855100-0725",
+      "orgName": "Sveriges Ledarhundsf\u00f6rare",
+      "categories": [
+        "ledarhundar",
+        "synneds\u00e4ttning"
+      ],
+      "web": "https://ledarhund.nu/"
     },
     {
       "entry": 1235787262,
@@ -63479,6 +63767,15 @@
         "ridskola"
       ],
       "web": "https://bogesundsg\u00e5rd.se/"
+    },
+    {
+      "entry": 1235999453,
+      "orgNumber": "802544-9201",
+      "orgName": "Vinternatt V\u00e4stervik",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://vinternattvastervik.se/"
     },
     {
       "entry": 1236000889,
@@ -68840,6 +69137,15 @@
       "web": "https://qjouren.se/"
     },
     {
+      "entry": 1236522767,
+      "orgNumber": "252002-6671",
+      "orgName": "Los-Hamra f\u00f6rsamling",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljusnan"
+    },
+    {
       "entry": 1236524334,
       "orgNumber": "864000-7566",
       "orgName": "Equmeniakyrkan Ljurhalla",
@@ -69853,6 +70159,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "http://burundihjalpen.se/"
+    },
+    {
+      "entry": 1236672760,
+      "orgNumber": "252002-8024",
+      "orgName": "Djur\u00f6, M\u00f6ja och N\u00e4md\u00f6 f\u00f6rsamling",
+      "comment": "Kollekt Djur\u00f6",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/djuro-moja-namdo"
     },
     {
       "entry": 1236673594,
@@ -71546,6 +71862,7 @@
       "entry": 1236808778,
       "orgNumber": "252004-3460",
       "orgName": "Ljungskile F\u00f6rsamling",
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
