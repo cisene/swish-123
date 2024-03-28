@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-03-28-rev-001951
+Date:     2024-03-28-rev-185056
 ...
 
 # Swish 123 Nummer
@@ -1964,6 +1964,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1231650035 | 829500-5204 | Älghults Sockens Hembygdsförening                                                                    |                           |
 | 1231650142 | 802520-1966 | SK4KO - Siljanbygdens Sändareamatörer - 7S4VL                                                        |                           |
 | 1231655570 | 857204-8075 | Slottsskogsobservatoriets Vänner                                                                     |                           |
+| 1231656149 | 252004-2827 | Åmåls församling                                                                                     | Kollekt                   |
 | 1231656362 | 802509-2597 | Senioruniversitetet Hudiksvall                                                                       |                           |
 | 1231656826 | 802513-5719 | 2HELPINGHANDS                                                                                        |                           |
 | 1231657261 | 883201-2622 | Envikens Hembygdsförening                                                                            |                           |
@@ -4039,6 +4040,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233574910 | 802533-3421 | Team Rynkeby                                                                                         | Linköping, Hällaskolan    |
 | 1233574951 | 802539-3649 | Team Rynkeby                                                                                         | Halland, Genevadsskolan   |
 | 1233575065 | 866600-7805 | Vristulven FVO                                                                                       |                           |
+| 1233575263 | 212000-1587 | Åmåls Kommun                                                                                         |                           |
 | 1233575842 | 559256-1103 | Boden Hockey AB                                                                                      |                           |
 | 1233576493 | 802480-2285 | Clas Ohlson Foundation                                                                               |                           |
 | 1233577970 | 802446-6842 | Vallgårdens Golfklubb Åkarp                                                                          |                           |
@@ -4248,6 +4250,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233801909 | 252003-8734 | Tingsryds pastorat                                                                                   | Gravljus                  |
 | 1233802865 | 802478-1141 | Stiftelsen Regnbågshjärtan                                                                           |                           |
 | 1233803491 | 802508-6219 | SPF Seniorerna Höstsol Timrå                                                                         |                           |
+| 1233804655 | 559194-4151 | Ställplats Fengersfors / Fengersfors Fröskogs lanthandel AB                                          |                           |
 | 1233804986 | 560216-XXXX | Your Light / Yonova - Birgitta Olsson                                                                |                           |
 | 1233805470 | 802488-1743 | SPF Seniorerna Mellersta Kinnevald                                                                   |                           |
 | 1233806122 | 882601-0335 | Borlänge Tunabygdens Konstförening                                                                   |                           |
@@ -6112,6 +6115,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1235624846 | 802422-4704 | PRO Byske                                                                                            |                           |
 | 1235625165 | 858500-6292 | Föreningen Flatön                                                                                    |                           |
 | 1235625363 | 802425-6227 | Insamlingsstiftelsen Sällskapsdjurens Forskningsfond vid SLU, SFF                                    |                           |
+| 1235625801 | 862000-6992 | Röda Korset Åmål                                                                                     |                           |
 | 1235627153 | 802446-9689 | Tureholms Nya Golfklubb                                                                              |                           |
 | 1235627195 | 556889-8463 | Webb.se / Perfect Sense AB                                                                           |                           |
 | 1235627708 | 898800-4191 | Lillpite Idrottsförening                                                                             |                           |
@@ -6698,6 +6702,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236215230 | 864501-6562 | Föreningen för Olympisk Kortdistansskjutning FOK Borås                                               | Trap                      |
 | 1236215347 | 802000-2484 | Bandyförbund distrikt Stockholm                                                                      |                           |
 | 1236215636 | 802004-1524 | We Effect                                                                                            | LRFs insamling            |
+| 1236216600 | 252004-2827 | Åmåls församling                                                                                     | Övrigt                    |
 | 1236218408 | 802466-8108 | Jämt-Brasilianska Vänskapsföreningen                                                                 |                           |
 | 1236218598 | 863000-4086 | Ale-Skövdeortens Bygdegårdsförening                                                                  |                           |
 | 1236218705 | 887501-0293 | Hällans Bygdegårdsförening                                                                           |                           |

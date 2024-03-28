@@ -17219,6 +17219,14 @@ entries:
   - intresseförening
   web: http://slottsskogsobservatoriet.se/
 
+- entry: 1231656149
+  orgName: Åmåls församling
+  orgNumber: 252004-2827
+  comment: Kollekt
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/amal
+
 - entry: 1231656362
   orgName: Senioruniversitetet Hudiksvall
   orgNumber: 802509-2597
@@ -35655,6 +35663,15 @@ entries:
   - vattenvård
   web: https://www.vristulven.se/
 
+- entry: 1233575263
+  orgName: Åmåls Kommun
+  orgNumber: 212000-1587
+  comment: null
+  categories:
+  - fiskekort
+  - kommun
+  web: https://amal.se/
+
 - entry: 1233575842
   orgName: Boden Hockey AB
   orgNumber: 559256-1103
@@ -37502,6 +37519,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/hostsoltimra/
+
+- entry: 1233804655
+  orgName: Ställplats Fengersfors / Fengersfors Fröskogs lanthandel AB
+  orgNumber: 559194-4151
+  comment: null
+  categories:
+  - ställplats
+  web: https://www.vanerleden.se/boenden/stallplats-fengersfors/
 
 - entry: 1233804986
   orgName: Your Light / Yonova - Birgitta Olsson
@@ -54084,6 +54109,15 @@ entries:
   - stiftelse
   web: https://www.slu.se/fakulteter/vh/forskning/sallskapsdjurens_forskningsfond/
 
+- entry: 1235625801
+  orgName: Röda Korset Åmål
+  orgNumber: 862000-6992
+  comment: null
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/amal
+
 - entry: 1235627153
   orgName: Tureholms Nya Golfklubb
   orgNumber: 802446-9689
@@ -59301,6 +59335,14 @@ entries:
   categories:
   - hjälporganisation
   web: https://weeffect.se/
+
+- entry: 1236216600
+  orgName: Åmåls församling
+  orgNumber: 252004-2827
+  comment: Övrigt
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/amal
 
 - entry: 1236218408
   orgName: Jämt-Brasilianska Vänskapsföreningen

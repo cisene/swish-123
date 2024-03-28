@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-28-rev-001951",
+    "date": "2024-03-28-rev-185056",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -19198,6 +19198,16 @@
         "intressef\u00f6rening"
       ],
       "web": "http://slottsskogsobservatoriet.se/"
+    },
+    {
+      "entry": 1231656149,
+      "orgNumber": "252004-2827",
+      "orgName": "\u00c5m\u00e5ls f\u00f6rsamling",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/amal"
     },
     {
       "entry": 1231656362,
@@ -39802,6 +39812,16 @@
       "web": "https://www.vristulven.se/"
     },
     {
+      "entry": 1233575263,
+      "orgNumber": "212000-1587",
+      "orgName": "\u00c5m\u00e5ls Kommun",
+      "categories": [
+        "fiskekort",
+        "kommun"
+      ],
+      "web": "https://amal.se/"
+    },
+    {
       "entry": 1233575842,
       "orgNumber": "559256-1103",
       "orgName": "Boden Hockey AB",
@@ -41880,6 +41900,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/hostsoltimra/"
+    },
+    {
+      "entry": 1233804655,
+      "orgNumber": "559194-4151",
+      "orgName": "St\u00e4llplats Fengersfors / Fengersfors Fr\u00f6skogs lanthandel AB",
+      "categories": [
+        "st\u00e4llplats"
+      ],
+      "web": "https://www.vanerleden.se/boenden/stallplats-fengersfors/"
     },
     {
       "entry": 1233804986,
@@ -60350,6 +60379,16 @@
       "web": "https://www.slu.se/fakulteter/vh/forskning/sallskapsdjurens_forskningsfond/"
     },
     {
+      "entry": 1235625801,
+      "orgNumber": "862000-6992",
+      "orgName": "R\u00f6da Korset \u00c5m\u00e5l",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/amal"
+    },
+    {
       "entry": 1235627153,
       "orgNumber": "802446-9689",
       "orgName": "Tureholms Nya Golfklubb",
@@ -66090,6 +66129,16 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://weeffect.se/"
+    },
+    {
+      "entry": 1236216600,
+      "orgNumber": "252004-2827",
+      "orgName": "\u00c5m\u00e5ls f\u00f6rsamling",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/amal"
     },
     {
       "entry": 1236218408,
