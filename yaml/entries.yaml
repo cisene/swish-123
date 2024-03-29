@@ -809,7 +809,7 @@ entries:
   web: https://www.filippus.se/
 
 - entry: 1230068569
-  orgName: Kvinnojouren Vändpunkten
+  orgName: Kvinnojouren Vändpunkten Hudiksvall-Nordanstig
   orgNumber: 887500-9139
   comment: null
   categories:
@@ -3297,6 +3297,14 @@ entries:
   categories:
   - hjälporganisation
   web: https://www.forsoningsgruppen.com/
+
+- entry: 1230320465
+  orgName: Föreningen Kvinnohuset i Västerås
+  orgNumber: 878000-8440
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnohuset-vasteras.org/
 
 - entry: 1230321265
   orgName: Håbo Pastorat
@@ -17193,6 +17201,14 @@ entries:
   - charterbuss
   web: https://sorbygdensbuss.se/
 
+- entry: 1231646629
+  orgName: Kvinnojouren Frida Säffle Åmål
+  orgNumber: 874400-7942
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnojourenfrida.nu/
+
 - entry: 1231650035
   orgName: Älghults Sockens Hembygdsförening
   orgNumber: 829500-5204
@@ -18950,6 +18966,14 @@ entries:
   - ishockeyklubb
   web: https://www.rimboif.com/
 
+- entry: 1231816313
+  orgName: Kvinnojouren Mira
+  orgNumber: 819000-8949
+  comment: Tjejjouren
+  categories:
+  - kvinnojour
+  web: https://www.jourmira.se/
+
 - entry: 1231816495
   orgName: Eskilstuna Motorflygklubb, EMFK
   orgNumber: 818000-5798
@@ -19660,6 +19684,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/liden
+
+- entry: 1231898469
+  orgName: Kvinnojouren Blåklockan
+  orgNumber: 885000-9575
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://blaklockan.com/
 
 - entry: 1231898832
   orgName: Götene Fornminnes- och Hembygdsförening
@@ -24105,6 +24137,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/berga
 
+- entry: 1232341352
+  orgName: Svea Kvinnojour
+  orgNumber: 802512-2154
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.sveakvinnojour.se/
+
 - entry: 1232342988
   orgName: Skånes Auktionsverk AB
   orgNumber: 556550-6622
@@ -26930,6 +26970,14 @@ entries:
   - idrottsförening
   web: https://www.eik.se/
 
+- entry: 1232683092
+  orgName: Tyresö kvinno- och tjejjour
+  orgNumber: 812401-1191
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.tyresokvinnojour.se/
+
 - entry: 1232683134
   orgName: Ekbackskyrkans Församling
   orgNumber: 817606-0229
@@ -29412,6 +29460,14 @@ entries:
   - konståkningsklubb
   web: https://www.vallentunakk.se/
 
+- entry: 1232912145
+  orgName: Hultsfred Vimmerby Kvinnojour
+  orgNumber: 833200-6009
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.roks.se/hittaenjour?key=Hultsfred
+
 - entry: 1232917193
   orgName: KFUMs Scoutkår i Härnösand
   orgNumber: 888000-3424
@@ -30983,6 +31039,22 @@ entries:
   - förmedling
   web: https://arbetskraftsformedlingen.se/
 
+- entry: 1233089240
+  orgName: Ronneby Kvinnojour
+  orgNumber: 802436-3916
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.ronnebykvinnojour.se/
+
+- entry: 1233090651
+  orgName: Kvinnojouren Duvan
+  orgNumber: 863000-7477
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnojourenduvan.se/
+
 - entry: 1233093044
   orgName: Kvinnojouren Boden
   orgNumber: 802422-2161
@@ -31385,6 +31457,14 @@ entries:
   - religion
   web: https://www.posk.se/lundby/
 
+- entry: 1233136470
+  orgName: Kvinnojouren i Lycksele
+  orgNumber: 802420-4912
+  comment: null
+  categories:
+  - kvinnojour
+  web: null
+
 - entry: 1233138286
   orgName: Fight Center Linköping / Jonas Ivung
   orgNumber: 820806-XXXX
@@ -31514,6 +31594,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1233145265
+  orgName: Kvinnojouren Kiruna
+  orgNumber: 897300-3380
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.roks.se/hittaenjour?key=kiruna
 
 - entry: 1233145703
   orgName: S:t Afrems Kyrka / Syrianska Fastighetsbolag Handelsbolag
@@ -32322,6 +32410,14 @@ entries:
   - konsert
   - restaurant
   web: http://musikvalvet.se/
+
+- entry: 1233249547
+  orgName: Kvinno-& tjejjouren Måna
+  orgNumber: 819500-4406
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.unizonjourer.se/kvinnotjejjourenmana/
 
 - entry: 1233256245
   orgName: Mariefreds Hundpark
@@ -34537,6 +34633,14 @@ entries:
   - cancerförening
   web: https://www.sfmr.se/
 
+- entry: 1233481090
+  orgName: Kvinnojouren Sundsvall
+  orgNumber: 889201-2579
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnojourensundsvall.se/
+
 - entry: 1233481264
   orgName: Rotary Älmhult Linnébygden
   orgNumber: 829001-1504
@@ -34544,6 +34648,14 @@ entries:
   categories:
   - rotaryklubb
   web: https://portal.clubrunner.ca/16002/
+
+- entry: 1233481272
+  orgName: Kvinnojouren Runan
+  orgNumber: 868401-3348
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.unizonjourer.se/kvinnojourenrunan/
 
 - entry: 1233482692
   orgName: Landvetter Boule Club
@@ -34833,11 +34945,12 @@ entries:
   web: null
 
 - entry: 1233508314
-  orgName: null
-  orgNumber: null
+  orgName: Kvinnojouren Olivia
+  orgNumber: 864001-0396
   comment: null
-  categories: null
-  web: null
+  categories:
+  - kvinnojour
+  web: https://kvinnojourolivia.se/
 
 - entry: 1233508769
   orgName: Ullaredsresor - Gothenburg Office / Håkan Kindström Arnoldson
@@ -40488,7 +40601,7 @@ entries:
   web: https://hudiksvallsbrukshundklubb.se/
 
 - entry: 1234134482
-  orgName: Kvinnojouren Täby/Danderyd
+  orgName: Kvinnojouren Täby-Danderyd
   orgNumber: 802407-2251
   comment: null
   categories:
@@ -40979,7 +41092,7 @@ entries:
   web: http://www.slkk.se/
 
 - entry: 1234196762
-  orgName: Kvinnohuset Västerås
+  orgName: Kvinnohuset Västerås, Tjejjouren Ronja
   orgNumber: 878000-8440
   comment: null
   categories:
@@ -41348,6 +41461,14 @@ entries:
   - golfklubb
   web: https://www.hogbogk.com/
 
+- entry: 1234228417
+  orgName: Kvinnojouren Jämtlands län
+  orgNumber: 893200-9379
+  comment: Gunhilds fond
+  categories:
+  - kvinnojour
+  web: https://www.kvinnojour.nu/
+
 - entry: 1234228698
   orgName: Equmenia Vrigstad
   orgNumber: 827500-2171
@@ -41627,6 +41748,14 @@ entries:
   categories:
   - golfklubb
   web: https://www.mjolbygk.se/
+
+- entry: 1234263448
+  orgName: Kvinnojouren Linneorna i Eksjö
+  orgNumber: 827000-9957
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://kvinnojourenlinneorna.se/
 
 - entry: 1234263471
   orgName: 24meter AB
@@ -42229,6 +42358,14 @@ entries:
   comment: null
   categories: null
   web: null
+
+- entry: 1234326989
+  orgName: Kvinnojouren Piilopirtti
+  orgNumber: 857205-9056
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.piilopirtti.se/
 
 - entry: 1234327235
   orgName: Almedals Körskola & Trafikskola Göteborg / Mani Samei
@@ -44903,6 +45040,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/gislaved
 
+- entry: 1234639779
+  orgName: Kvinnojouren Viktoria
+  orgNumber: 849201-3332
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.unizonjourer.se/kvinnojourenhalmstad/
+
 - entry: 1234640686
   orgName: Romfartuna Ved AB
   orgNumber: 556926-6132
@@ -47115,6 +47260,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1234950846
+  orgName: Tranås Kvinnojour
+  orgNumber: 826500-4047
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.unizonjourer.se/tranaskvinnojour/
+
 - entry: 1234953915
   orgName: HallåHund
   orgNumber: 559041-5351
@@ -49115,6 +49268,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/skollersta
+
+- entry: 1235137294
+  orgName: Kvinnojouren i Sala
+  orgNumber: 879500-4483
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://kvinnojourensala.se/
 
 - entry: 1235137336
   orgName: Husby-Ärlinghundra Märsta Hembygdsförening
@@ -57544,7 +57705,7 @@ entries:
   comment: null
   categories:
   - kvinnojour
-  web: https://www.unizonjourer.se/kvinnojourenmira/
+  web: https://www.jourmira.se/
 
 - entry: 1236022370
   orgName: Näshulta Hembygdsförening
@@ -58863,6 +59024,14 @@ entries:
   categories:
   - persontransport
   web: https://www.lillaedetbuss.se/taxi/
+
+- entry: 1236174179
+  orgName: Kvinnojouren Sandviken
+  orgNumber: 885500-7715
+  comment: null
+  categories:
+  - kvinnojour
+  web: null
 
 - entry: 1236174932
   orgName: SPF Seniorerna Sydhalland
@@ -61518,6 +61687,14 @@ entries:
   - jaktskytteklubb
   web: http://www.gnestajsk.se/
 
+- entry: 1236469100
+  orgName: Lex Femme
+  orgNumber: 802420-6198
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.lexfemme.com/
+
 - entry: 1236470124
   orgName: Sankt Matteus Församling
   orgNumber: 252000-0551
@@ -62469,6 +62646,14 @@ entries:
   - rådgivning
   web: https://www.gatujuristerna.com/
 
+- entry: 1236560023
+  orgName: Kvinnojouren i Norrköping
+  orgNumber: 825001-6493
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.kvinnojourennorrkoping.se/
+
 - entry: 1236569479
   orgName: Lions Club Mölndal
   orgNumber: 802506-3697
@@ -63347,11 +63532,12 @@ entries:
   web: https://www.dalstorpsif.se/
 
 - entry: 1236689525
-  orgName: null
-  orgNumber: null
+  orgName: Perstorps församling
+  orgNumber: 252000-9735
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/perstorp
 
 - entry: 1236689665
   orgName: EFS Hörbykrets
@@ -65344,6 +65530,14 @@ entries:
   categories:
   - kvinnojour
   web: https://www.malmokvinnojour.se/
+
+- entry: 1236902118
+  orgName: Uppsala Kvinnojour
+  orgNumber: 817602-1783
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.uppsalakvinnojour.se/
 
 - entry: 1236902464
   orgName: Karlslunds IF skidor
