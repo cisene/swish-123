@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-03-29-rev-010129
+# Date: 2024-03-29-rev-181754
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3281,6 +3281,7 @@
 "1232862308","212000-1181","Ungdomens Hus / Ystads Kommun","https://www.ystad.se/fritid/ungdomens-hus-och-avalla-skatepark/","skatepark,ungdomsverksamhet",""
 "1232862639","883200-6962","Västerås Stifts Kyrkosångsförbund","https://sjungikyrkan.nu/delforbund/vsters-stifts-kyrkosngsfrbund/","religion",""
 "1232863736","802537-3351","Terrafem Örebro","https://terrafem.org/om-oss/lokalforeningar/orebro/","kvinnojour",""
+"1232870137","822003-8007","Kvinnojouren Ellinor och Tjejjouren Beata","https://ellinor.se/","kvinnojour",""
 "1232870459","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/Helsingborg/","religion","Helsingborg"
 "1232870715","252004-3247","Järfälla Församling","https://www.svenskakyrkan.se/jarfalla","religion","Lennart Ahlbäcks minnesfond"
 "1232872554","802474-4586","PRO Gourmet","https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-landskrona/foreningar/gourmet.html","pensionärsklubb",""
@@ -4051,6 +4052,7 @@
 "1233574803","802533-7653","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Jönköping, Barnarpsskolan"
 "1233574902","802533-3421","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Linköping, Lindbladsskolan"
 "1233574910","802533-3421","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Linköping, Hällaskolan"
+"1233574944","829000-8120","Kvinnojouren Märta","https://www.kvjmarta.se/","kvinnojour",""
 "1233574951","802539-3649","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Halland, Genevadsskolan"
 "1233575065","866600-7805","Vristulven FVO","https://www.vristulven.se/","fiskevård,vattenvård",""
 "1233575263","212000-1587","Åmåls Kommun","https://amal.se/","fiskekort,kommun",""
@@ -5397,6 +5399,7 @@
 "1234993895","556614-4621","Carlsson Ring Fastighetsmäklare AB","https://carlssonring.se/","fastighetsauktioner,fastighetsförmedling,fastighetsmäklare,fastighetsvärdering,lantbruksauktioner,lösöreauktioner",""
 "1234993937","887500-7612","Tunalids RK - Ridsport","https://www.tunalidsridklubb.se/","parasport,ridsport",""
 "1234995015","855100-6771","Pensionärernas BTK - Bordtennis","https://www.pbk-gbg.se/","bordtennis,pensionärsklubb",""
+"1234996088","802512-4796","Kvinnojouren på Österlen","https://kvinnojourenpaosterlen.se/","kvinnojour",""
 "1234997243","802509-4148","Föreningen Turf Västmanland","https://www.uturf.se/","friluftsliv,förening",""
 "1234999199","802424-3472","Stiftelsen Hästforskning","https://hastforskning.se/","forskning,stiftelse",""
 "1234999272","802521-3896","Locktorps Festplats & Kulturförening","https://locktorp.com/","event,kulturförening",""
@@ -7456,6 +7459,7 @@
 "1236959431","885501-3739","Österfärnebo RS - Ridsport","https://www.osterfarnebo-rs.se/","hästsport,ridskola,ridsport",""
 "1236959753","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/malmo/","religion","Malmö"
 "1236959951","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/vilhelmina/","religion","Vilhelmina"
+"1236963730","802541-6408","Kvinnojouren Säter","https://kvinnojourensater.se/","kvinnojour",""
 "1236968358","869000-1147","Lidköpings Missionsförsamling","https://mklidkoping.se/","religion",""
 "1236968424","751029-XXXX","The Light of My Soul / Ulrika Knutsdotter","https://www.thelightofmysoul.se/","yoga",""
 "1236972020","818000-1029","Eskilstuna GUIF IF","https://www.guif.nu/","handbollsklubb,idrottsförening","Rosabandetkampanjen"

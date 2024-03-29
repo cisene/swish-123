@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-29-rev-010129",
+    "date": "2024-03-29-rev-181754",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -32298,6 +32298,15 @@
       "web": "https://terrafem.org/om-oss/lokalforeningar/orebro/"
     },
     {
+      "entry": 1232870137,
+      "orgNumber": "822003-8007",
+      "orgName": "Kvinnojouren Ellinor och Tjejjouren Beata",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://ellinor.se/"
+    },
+    {
       "entry": 1232870459,
       "orgNumber": "802006-1688",
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
@@ -39923,6 +39932,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233574944,
+      "orgNumber": "829000-8120",
+      "orgName": "Kvinnojouren M\u00e4rta",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.kvjmarta.se/"
     },
     {
       "entry": 1233574951,
@@ -53225,6 +53243,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.pbk-gbg.se/"
+    },
+    {
+      "entry": 1234996088,
+      "orgNumber": "802512-4796",
+      "orgName": "Kvinnojouren p\u00e5 \u00d6sterlen",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://kvinnojourenpaosterlen.se/"
     },
     {
       "entry": 1234997243,
@@ -73620,6 +73647,15 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/vilhelmina/"
+    },
+    {
+      "entry": 1236963730,
+      "orgNumber": "802541-6408",
+      "orgName": "Kvinnojouren S\u00e4ter",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://kvinnojourensater.se/"
     },
     {
       "entry": 1236968358,

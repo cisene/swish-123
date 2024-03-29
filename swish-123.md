@@ -1,7 +1,7 @@
 ---
 Title:    Swish 123 Nummer
 Author:   Christopher Isene <christopher.isene@gmail.com>
-Date:     2024-03-29-rev-010129
+Date:     2024-03-29-rev-181754
 ...
 
 # Swish 123 Nummer
@@ -3283,6 +3283,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1232862308 | 212000-1181 | Ungdomens Hus / Ystads Kommun                                                                        |                           |
 | 1232862639 | 883200-6962 | Västerås Stifts Kyrkosångsförbund                                                                    |                           |
 | 1232863736 | 802537-3351 | Terrafem Örebro                                                                                      |                           |
+| 1232870137 | 822003-8007 | Kvinnojouren Ellinor och Tjejjouren Beata                                                            |                           |
 | 1232870459 | 802006-1688 | Frälsningsarmén                                                                                      | Helsingborg               |
 | 1232870715 | 252004-3247 | Järfälla Församling                                                                                  | Lennart Ahlbäcks minnesfond |
 | 1232872554 | 802474-4586 | PRO Gourmet                                                                                          |                           |
@@ -4053,6 +4054,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1233574803 | 802533-7653 | Team Rynkeby                                                                                         | Jönköping, Barnarpsskolan |
 | 1233574902 | 802533-3421 | Team Rynkeby                                                                                         | Linköping, Lindbladsskolan |
 | 1233574910 | 802533-3421 | Team Rynkeby                                                                                         | Linköping, Hällaskolan    |
+| 1233574944 | 829000-8120 | Kvinnojouren Märta                                                                                   |                           |
 | 1233574951 | 802539-3649 | Team Rynkeby                                                                                         | Halland, Genevadsskolan   |
 | 1233575065 | 866600-7805 | Vristulven FVO                                                                                       |                           |
 | 1233575263 | 212000-1587 | Åmåls Kommun                                                                                         |                           |
@@ -5399,6 +5401,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1234993895 | 556614-4621 | Carlsson Ring Fastighetsmäklare AB                                                                   |                           |
 | 1234993937 | 887500-7612 | Tunalids RK - Ridsport                                                                               |                           |
 | 1234995015 | 855100-6771 | Pensionärernas BTK - Bordtennis                                                                      |                           |
+| 1234996088 | 802512-4796 | Kvinnojouren på Österlen                                                                             |                           |
 | 1234997243 | 802509-4148 | Föreningen Turf Västmanland                                                                          |                           |
 | 1234999199 | 802424-3472 | Stiftelsen Hästforskning                                                                             |                           |
 | 1234999272 | 802521-3896 | Locktorps Festplats & Kulturförening                                                                 |                           |
@@ -7458,6 +7461,7 @@ Nedan en förteckning av samlade Swish 123 nummer, denna är långt ifrån kompl
 | 1236959431 | 885501-3739 | Österfärnebo RS - Ridsport                                                                           |                           |
 | 1236959753 | 802006-1688 | Frälsningsarmén                                                                                      | Malmö                     |
 | 1236959951 | 802006-1688 | Frälsningsarmén                                                                                      | Vilhelmina                |
+| 1236963730 | 802541-6408 | Kvinnojouren Säter                                                                                   |                           |
 | 1236968358 | 869000-1147 | Lidköpings Missionsförsamling                                                                        |                           |
 | 1236968424 | 751029-XXXX | The Light of My Soul / Ulrika Knutsdotter                                                            |                           |
 | 1236972020 | 818000-1029 | Eskilstuna GUIF IF                                                                                   | Rosabandetkampanjen       |
