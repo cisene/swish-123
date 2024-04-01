@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-03-29-rev-181754",
+    "date": "2024-04-01-rev-173021",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3439,6 +3439,15 @@
       "web": "https://sverigerunt.org/"
     },
     {
+      "entry": 1230303305,
+      "orgNumber": "802450-8502",
+      "orgName": "Kvinnojouren Hera",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "http://www.kvinnojourenhera.se/"
+    },
+    {
       "entry": 1230304204,
       "orgNumber": "252003-4725",
       "orgName": "Gislaveds Pastorat",
@@ -6167,6 +6176,15 @@
         "stiftelse"
       ],
       "web": "https://se.rescue.org/"
+    },
+    {
+      "entry": 1230528422,
+      "orgNumber": "802465-9222",
+      "orgName": "Kvinnojouren S\u00f6dersl\u00e4tt",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.unizonjourer.se/kvinnojourensoderslatt/"
     },
     {
       "entry": 1230529032,
@@ -19042,6 +19060,15 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.lulebrottarklubb.se/"
+    },
+    {
+      "entry": 1231627652,
+      "orgNumber": "832000-3778",
+      "orgName": "Lions F\u00e4rjestaden",
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "http://www.lionsfarjestaden.se/"
     },
     {
       "entry": 1231628080,
@@ -55162,6 +55189,15 @@
       "web": "https://afasi.se/"
     },
     {
+      "entry": 1235144076,
+      "orgNumber": "822003-8007",
+      "orgName": "Kvinnojouren Ellinor och Tjejjouren Beata",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://ellinor.hemsida.eu/"
+    },
+    {
       "entry": 1235144308,
       "orgNumber": "814400-6387",
       "orgName": "R\u00e5dmans\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
@@ -57465,6 +57501,15 @@
         "hundsport"
       ],
       "web": "http://www.sbkolofstrom.se/"
+    },
+    {
+      "entry": 1235354402,
+      "orgNumber": "883800-6529",
+      "orgName": "Kvinnojouren & Tjejjouren Ludvika Smedjebacken",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://kvinnojourludvika.se/"
     },
     {
       "entry": 1235354675,
@@ -61798,6 +61843,16 @@
         "hundsport"
       ],
       "web": "https://www.g-fbk.se/"
+    },
+    {
+      "entry": 1235760111,
+      "orgNumber": "817606-9055",
+      "orgName": "TRIS - Tjejers r\u00e4tt i samh\u00e4llet",
+      "categories": [
+        "intressef\u00f6rening",
+        "kvinnojour"
+      ],
+      "web": "https://www.tris.se/"
     },
     {
       "entry": 1235760228,
@@ -73067,6 +73122,17 @@
       "web": "https://equmeniakyrkan.se/fridhemskyrkan/"
     },
     {
+      "entry": 1236907125,
+      "orgNumber": "802011-1582",
+      "orgName": "Stiftelsen Fryshuset",
+      "comment": "Barn till ensamma mammor",
+      "categories": [
+        "familjest\u00f6d",
+        "stiftelse"
+      ],
+      "web": "https://fryshuset.se/"
+    },
+    {
       "entry": 1236908412,
       "orgNumber": "802407-6047",
       "orgName": "Curo Riksf\u00f6reningen f\u00f6r Cancersjuka",
@@ -76844,7 +76910,8 @@
       "orgNumber": "802005-9401",
       "orgName": "Stiftelsen Unga Kvinnors V\u00e4rn",
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "kvinnojour"
       ],
       "web": "https://www.ukv.se/"
     },

@@ -3073,6 +3073,14 @@ entries:
   - sport
   web: https://sverigerunt.org/
 
+- entry: 1230303305
+  orgName: Kvinnojouren Hera
+  orgNumber: 802450-8502
+  comment: null
+  categories:
+  - kvinnojour
+  web: http://www.kvinnojourenhera.se/
+
 - entry: 1230304204
   orgName: Gislaveds Pastorat
   orgNumber: 252003-4725
@@ -5512,6 +5520,14 @@ entries:
   - donation
   - stiftelse
   web: https://se.rescue.org/
+
+- entry: 1230528422
+  orgName: Kvinnojouren Söderslätt
+  orgNumber: 802465-9222
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.unizonjourer.se/kvinnojourensoderslatt/
 
 - entry: 1230529032
   orgName: Laika Film & Television AB
@@ -17079,6 +17095,14 @@ entries:
   - brottningsklubb
   - idrottsförening
   web: https://www.lulebrottarklubb.se/
+
+- entry: 1231627652
+  orgName: Lions Färjestaden
+  orgNumber: 832000-3778
+  comment: null
+  categories:
+  - lionsklubb
+  web: http://www.lionsfarjestaden.se/
 
 - entry: 1231628080
   orgName: Anderstorps Skytteförening
@@ -49408,6 +49432,14 @@ entries:
   - psykisk hälsa
   web: https://afasi.se/
 
+- entry: 1235144076
+  orgName: Kvinnojouren Ellinor och Tjejjouren Beata
+  orgNumber: 822003-8007
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://ellinor.hemsida.eu/
+
 - entry: 1235144308
   orgName: Rådmansö Bygdegårdsförening
   orgNumber: 814400-6387
@@ -51487,6 +51519,14 @@ entries:
   - brukshundsklubb
   - hundsport
   web: http://www.sbkolofstrom.se/
+
+- entry: 1235354402
+  orgName: Kvinnojouren & Tjejjouren Ludvika Smedjebacken
+  orgNumber: 883800-6529
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://kvinnojourludvika.se/
 
 - entry: 1235354675
   orgName: FAS-Portalen / FAS-föreningen
@@ -55383,6 +55423,15 @@ entries:
   - brukshundsklubb
   - hundsport
   web: https://www.g-fbk.se/
+
+- entry: 1235760111
+  orgName: TRIS - Tjejers rätt i samhället
+  orgNumber: 817606-9055
+  comment: null
+  categories:
+  - intresseförening
+  - kvinnojour
+  web: https://www.tris.se/
 
 - entry: 1235760228
   orgName: Falkenbergs Brukshundklubb
@@ -65629,6 +65678,15 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/fridhemskyrkan/
 
+- entry: 1236907125
+  orgName: Stiftelsen Fryshuset
+  orgNumber: 802011-1582
+  comment: Barn till ensamma mammor
+  categories:
+  - familjestöd
+  - stiftelse
+  web: https://fryshuset.se/
+
 - entry: 1236908412
   orgName: Curo Riksföreningen för Cancersjuka
   orgNumber: 802407-6047
@@ -71947,6 +72005,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - kvinnojour
   web: https://www.ukv.se/
 
 - entry: 1239007469
