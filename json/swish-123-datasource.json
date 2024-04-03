@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-04-03-rev-185139",
+    "date": "2024-04-04-rev-015439",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1463,6 +1463,15 @@
       "web": "https://www.perskopsstallplats.com/"
     },
     {
+      "entry": 1230122465,
+      "orgNumber": "824000-9079",
+      "orgName": "SPF Seniorerna S.ta Birgitta Vadstena",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/vadstena/"
+    },
+    {
       "entry": 1230123448,
       "orgNumber": "802524-1194",
       "orgName": "J\u00f6nk\u00f6pings Litteraturhus",
@@ -2607,7 +2616,7 @@
     {
       "entry": 1230231803,
       "orgNumber": "849000-7278",
-      "orgName": "SPF Seniorerna Falkenberg - Skrea",
+      "orgName": "SPF Seniorerna Falkenberg-Skrea",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -16545,7 +16554,7 @@
     {
       "entry": 1231436864,
       "orgNumber": "802014-2702",
-      "orgName": "SPF Seniorerna Fru\u00e4ngen - \u00c4lvsj\u00f6",
+      "orgName": "SPF Seniorerna Fru\u00e4ngen-\u00c4lvsj\u00f6",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -18411,6 +18420,15 @@
       "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-vendelso-brandbergen/"
     },
     {
+      "entry": 1231576560,
+      "orgNumber": "817603-3655",
+      "orgName": "SPF Seniorerna Almunge-Knutby",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/ak/"
+    },
+    {
       "entry": 1231576693,
       "orgNumber": "802494-6561",
       "orgName": "L\u00e4nsf\u00f6reningen Hj\u00e4rnkoll V\u00e4sterbotten",
@@ -18623,6 +18641,15 @@
         "yoga"
       ],
       "web": "https://yogavanner.se/"
+    },
+    {
+      "entry": 1231594613,
+      "orgNumber": "802440-9644",
+      "orgName": "SPF Seniorerna Enskede-\u00c5rsta",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-enskede-arsta/"
     },
     {
       "entry": 1231594621,
@@ -22129,6 +22156,14 @@
       "web": "https://www.svenskakyrkan.se/jarna-vardinge"
     },
     {
+      "entry": 1231899921,
+      "orgNumber": "819001-3964",
+      "orgName": "SPF Seniorerna Rosenk\u00e4lla Nyk\u00f6ping",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ]
+    },
+    {
       "entry": 1231900349,
       "orgNumber": "849400-5716",
       "orgName": "SPF Seniorerna T\u00f6l\u00f6-\u00c4lvs\u00e5ker",
@@ -22478,6 +22513,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-kalmar/foreningar/rockneby-lackeby.html"
+    },
+    {
+      "entry": 1231959261,
+      "orgNumber": "802471-3623",
+      "orgName": "SPF Seniorerna Linder\u00f6d-\u00c4sphult",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/LinderodAsphult/"
     },
     {
       "entry": 1231959758,
@@ -28256,6 +28300,15 @@
         "religion"
       ],
       "web": "https://equmeniakyrkan.se/hassleholm/"
+    },
+    {
+      "entry": 1232453413,
+      "orgNumber": "802421-7088",
+      "orgName": "SPF Seniorerna 478 Tre Byar",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/trebyar/"
     },
     {
       "entry": 1232453876,
@@ -38763,7 +38816,7 @@
     {
       "entry": 1233469145,
       "orgNumber": "955203-2469",
-      "orgName": "SPF Seniorerna Bredared",
+      "orgName": "SPF Seniorerna Breared",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -38987,6 +39040,15 @@
         "m\u00f6drav\u00e5rd"
       ],
       "web": "https://eezer.org/"
+    },
+    {
+      "entry": 1233497070,
+      "orgNumber": "843002-4284",
+      "orgName": "SPF Seniorerna K\u00e4rnan Helsingborg",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-karnan-helsingborg/"
     },
     {
       "entry": 1233498524,
@@ -42857,6 +42919,15 @@
       "web": "https://www.alfvengarden.se/"
     },
     {
+      "entry": 1233873015,
+      "orgNumber": "802445-2628",
+      "orgName": "SPF Seniorerna St Ragnhild S\u00f6derk\u00f6ping",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-st-ragnhild-soderkoping/"
+    },
+    {
       "entry": 1233873429,
       "orgNumber": "849400-3406",
       "orgName": "S\u00e4r\u00f6 Kyrkostiftelse",
@@ -46702,7 +46773,7 @@
     {
       "entry": 1234249504,
       "orgNumber": "883201-6987",
-      "orgName": "SPF Seniorerna Sv\u00e4rdsj\u00f6 - Enviken",
+      "orgName": "SPF Seniorerna Sv\u00e4rdsj\u00f6-Enviken",
       "categories": [
         "pension\u00e4rsklubb"
       ],
@@ -51088,6 +51159,15 @@
       "web": "https://www.vik.se/"
     },
     {
+      "entry": 1234687034,
+      "orgNumber": "802431-5981",
+      "orgName": "SPF Seniorerna Orustveteranerna",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/orustveteranerna/"
+    },
+    {
       "entry": 1234687638,
       "orgNumber": "252004-0524",
       "orgName": "V\u00e4stanfors V\u00e4sterv\u00e5la F\u00f6rsamling",
@@ -51154,6 +51234,16 @@
       "web": "https://www.tomer.se/"
     },
     {
+      "entry": 1234691200,
+      "orgNumber": "802433-5161",
+      "orgName": "N\u00e4ckrosbr\u00f6derna",
+      "categories": [
+        "patientf\u00f6rening",
+        "prostatacancer"
+      ],
+      "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/sormland/nackrosbroderna/"
+    },
+    {
       "entry": 1234699914,
       "orgNumber": "865500-3385",
       "orgName": "Ulricehamns IF - Boule",
@@ -51171,6 +51261,15 @@
         "religion"
       ],
       "web": "https://dvv.se/"
+    },
+    {
+      "entry": 1234700126,
+      "orgNumber": "802415-0602",
+      "orgName": "SPF Seniorerna Aktiv Arboga",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/vastmanland/foreningslista/aktivarboga/"
     },
     {
       "entry": 1234701082,
@@ -51420,6 +51519,17 @@
         "tidsskrifter"
       ],
       "web": "https://plaza.se/"
+    },
+    {
+      "entry": 1234720272,
+      "orgNumber": "802008-5034",
+      "orgName": "Frivilliga Automobilk\u00e5ren Riksf\u00f6rbundet",
+      "categories": [
+        "frivilligorganisation",
+        "riksf\u00f6rbund",
+        "utbildning"
+      ],
+      "web": "https://fak.se/"
     },
     {
       "entry": 1234721825,
@@ -61140,6 +61250,15 @@
       "web": "https://www.bellis.nu/"
     },
     {
+      "entry": 1235673777,
+      "orgNumber": "802434-3025",
+      "orgName": "SPF Seniorerna Romele",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spfseniorerna-romele/"
+    },
+    {
       "entry": 1235674205,
       "orgNumber": "802532-9916",
       "orgName": "Team Rynkeby",
@@ -63900,6 +64019,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235947304,
+      "orgNumber": "864000-6733",
+      "orgName": "SPF Seniorerna Hjorten Alings\u00e5s",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/norraalvsborg/foreningslista/hjorten-alingsas/"
     },
     {
       "entry": 1235948427,
