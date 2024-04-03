@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-04-01-rev-173021",
+    "date": "2024-04-03-rev-185139",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1763,6 +1763,15 @@
       "web": "https://www.parkinsonforbundet.se/haer-finns-vi/parkinson-norrbotten/"
     },
     {
+      "entry": 1230166769,
+      "orgNumber": "802493-8048",
+      "orgName": "SPF Seniorerna Ringstorp Helsingborg",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/Ringstorp/"
+    },
+    {
       "entry": 1230167650,
       "orgNumber": "802541-6325",
       "orgName": "Paulusgemenskapen",
@@ -3180,6 +3189,15 @@
       "web": "https://norrmjole.com/spela-tennis/"
     },
     {
+      "entry": 1230286500,
+      "orgNumber": "802440-2458",
+      "orgName": "SPF Seniorerna Rengen Link\u00f6ping",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/rengen/"
+    },
+    {
       "entry": 1230290213,
       "orgNumber": "802442-1219",
       "orgName": "Svenska Finnjollef\u00f6rbundet",
@@ -3513,6 +3531,15 @@
         "ridklubb"
       ],
       "web": "https://www.braaspork.se/"
+    },
+    {
+      "entry": 1230308379,
+      "orgNumber": "802444-1829",
+      "orgName": "SPF Seniorerna Boken S\u00f6lvesborg",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/blekingedistriktet/foreningslista/spf-seniorerna-boken-solvesborg/"
     },
     {
       "entry": 1230308593,
@@ -8886,6 +8913,15 @@
       "web": "https://terrafem.org/om-oss/lokalforeningar/skane/"
     },
     {
+      "entry": 1230784462,
+      "orgNumber": "814000-9567",
+      "orgName": "SPF Seniorerna Svanen \u00c4lta",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spfseniorerna-svanen-alta/"
+    },
+    {
       "entry": 1230786327,
       "orgNumber": "559003-2800",
       "orgName": "Gula B\u00e5ten / Millkeeper AB",
@@ -10731,6 +10767,17 @@
         "religion"
       ],
       "web": "https://hallokapell.com/"
+    },
+    {
+      "entry": 1230916825,
+      "orgNumber": "802011-1582",
+      "orgName": "Stiftelsen Fryshuset",
+      "comment": "G\u00f6teborg",
+      "categories": [
+        "familjest\u00f6d",
+        "stiftelse"
+      ],
+      "web": "https://fryshuset.se/"
     },
     {
       "entry": 1230917047,
@@ -13539,6 +13586,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231174689,
+      "orgNumber": "872000-7437",
+      "orgName": "Kvinnojouren Eva",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://www.unizonjourer.se/kvinnojoureneva/"
+    },
+    {
       "entry": 1231174721,
       "orgNumber": "802532-8033",
       "orgName": "Team Rynkeby",
@@ -16211,6 +16267,15 @@
       "web": "https://kopingsnya.se/"
     },
     {
+      "entry": 1231396860,
+      "orgNumber": "822002-8305",
+      "orgName": "SPF Seniorerna Tinnerb\u00e4cken Link\u00f6ping",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-seniorerna-tinnerbacken-linkoping/"
+    },
+    {
       "entry": 1231402551,
       "orgNumber": "862501-2300",
       "orgName": "Aktiva Seniorer Alings\u00e5s",
@@ -17125,6 +17190,16 @@
         "politiskt parti"
       ],
       "web": "https://www.liberalerna.se/"
+    },
+    {
+      "entry": 1231481423,
+      "orgNumber": "878000-4647",
+      "orgName": "IK Franke",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ikfranke.com/"
     },
     {
       "entry": 1231481852,
@@ -22054,6 +22129,15 @@
       "web": "https://www.svenskakyrkan.se/jarna-vardinge"
     },
     {
+      "entry": 1231900349,
+      "orgNumber": "849400-5716",
+      "orgName": "SPF Seniorerna T\u00f6l\u00f6-\u00c4lvs\u00e5ker",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-seniorerna-tolo-alvsaker/"
+    },
+    {
       "entry": 1231900372,
       "orgNumber": "802528-6728",
       "orgName": "BarnensHj\u00e4ltar",
@@ -22323,6 +22407,15 @@
         "hemsl\u00f6jd",
         "intressef\u00f6rening"
       ]
+    },
+    {
+      "entry": 1231939008,
+      "orgNumber": "802413-3624",
+      "orgName": "SPF Seniorerna Bankeryd",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-seniorerna-bankeryd/"
     },
     {
       "entry": 1231951136,
@@ -25051,6 +25144,15 @@
         "intressef\u00f6rening"
       ],
       "web": "http://skorped.se/"
+    },
+    {
+      "entry": 1232201507,
+      "orgNumber": "802413-3616",
+      "orgName": "SPF Seniorerna Habo",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/haboorten/"
     },
     {
       "entry": 1232202869,
@@ -31101,6 +31203,16 @@
       "web": "https://oissupporter.se/"
     },
     {
+      "entry": 1232747681,
+      "orgNumber": "559449-5847",
+      "orgName": "Cultureclub Engelholm AB",
+      "categories": [
+        "kulturf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.cultureclubengelholm.se/"
+    },
+    {
       "entry": 1232751899,
       "orgNumber": "802456-7581",
       "orgName": "Eksj\u00f6 RC Klubb - Bilsport",
@@ -31199,6 +31311,17 @@
         "trafiks\u00e4kerhet"
       ],
       "web": "https://www.trafficsec.org/"
+    },
+    {
+      "entry": 1232758621,
+      "orgNumber": "802011-1582",
+      "orgName": "Stiftelsen Fryshuset",
+      "comment": "Stockholm",
+      "categories": [
+        "familjest\u00f6d",
+        "stiftelse"
+      ],
+      "web": "https://fryshuset.se/"
     },
     {
       "entry": 1232759322,
@@ -32492,6 +32615,15 @@
         "rotaryklubb"
       ],
       "web": "https://globalcityr3.org/"
+    },
+    {
+      "entry": 1232881449,
+      "orgNumber": "802420-7782",
+      "orgName": "SPF Seniorerna G\u00f6tene-Kinnekulle",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/gotene/"
     },
     {
       "entry": 1232881662,
@@ -38629,6 +38761,15 @@
       "web": "https://www.skane.goldenklubben.se/"
     },
     {
+      "entry": 1233469145,
+      "orgNumber": "955203-2469",
+      "orgName": "SPF Seniorerna Bredared",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-seniorerna-breared/"
+    },
+    {
       "entry": 1233469293,
       "orgNumber": "556707-2334",
       "orgName": "Hallberg-Rassy Varvs AB",
@@ -40841,6 +40982,15 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://hjarnkoll.se/"
+    },
+    {
+      "entry": 1233650538,
+      "orgNumber": "802459-8495",
+      "orgName": "SPF Seniorerna Bj\u00f6rka-\u00d6d\u00e5kra",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-bjorka-odakra/"
     },
     {
       "entry": 1233650785,
@@ -57167,6 +57317,15 @@
       "web": "https://www.sjolinlantz.se/"
     },
     {
+      "entry": 1235329719,
+      "orgNumber": "802487-9366",
+      "orgName": "SPF Seniorerna Str\u00f6velstorp Aus\u00e5s",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-strovelstorp-ausas/"
+    },
+    {
       "entry": 1235331103,
       "orgNumber": "802537-0241",
       "orgName": "Team Rynkeby",
@@ -57645,6 +57804,15 @@
         "pension\u00e4rsklubb"
       ],
       "web": "http://www.pro.se/katrineholm"
+    },
+    {
+      "entry": 1235370580,
+      "orgNumber": "812401-0987",
+      "orgName": "SPF Seniorerna Runstenen V\u00e4sterhaninge",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-runstenen-vasterhaninge/"
     },
     {
       "entry": 1235370762,
@@ -59946,6 +60114,15 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235574124,
+      "orgNumber": "802413-6981",
+      "orgName": "SPF Seniorerna H\u00f6\u00f6r Klubb 72",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/hoor-klubb-72/"
     },
     {
       "entry": 1235577242,
@@ -63402,6 +63579,15 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235908850,
+      "orgNumber": "802470-6460",
+      "orgName": "FreeZone Sweden",
+      "categories": [
+        "kvinnojour"
+      ],
+      "web": "https://freezonesweden.se/"
+    },
+    {
       "entry": 1235909379,
       "orgNumber": "802520-5520",
       "orgName": "H\u00e4lleforsn\u00e4s Bygder\u00e5d",
@@ -65065,6 +65251,15 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/borlange"
+    },
+    {
+      "entry": 1236091292,
+      "orgNumber": "802519-7909",
+      "orgName": "SPF Seniorerna L\u00f6ber\u00f6d",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-loberod/"
     },
     {
       "entry": 1236091888,
@@ -68954,6 +69149,15 @@
       "web": "https://www.tvaakersif.se/"
     },
     {
+      "entry": 1236485999,
+      "orgNumber": "823001-1234",
+      "orgName": "SPF Seniorerna Dacke Mj\u00f6lby",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/dacke/"
+    },
+    {
       "entry": 1236486161,
       "orgNumber": "802533-7653",
       "orgName": "Team Rynkeby",
@@ -69052,6 +69256,17 @@
         "h\u00e5llbar innovation"
       ],
       "web": "https://www.2022initiative.org/"
+    },
+    {
+      "entry": 1236494058,
+      "orgNumber": "440829-XXXX",
+      "orgName": "Lasses Resor",
+      "categories": [
+        "busstrafik",
+        "charterbuss",
+        "researrang\u00f6r"
+      ],
+      "web": "http://www.lassesresor.se/"
     },
     {
       "entry": 1236495790,
@@ -70009,6 +70224,17 @@
       "web": "https://pro.se/distrikt/distrikt-ostergotland/samorganisationer/samorganisation-linkoping/foreningar/vreta-kloster.html"
     },
     {
+      "entry": 1236607618,
+      "orgNumber": "802011-1582",
+      "orgName": "Stiftelsen Fryshuset",
+      "comment": "Malm\u00f6",
+      "categories": [
+        "familjest\u00f6d",
+        "stiftelse"
+      ],
+      "web": "https://fryshuset.se/"
+    },
+    {
       "entry": 1236609093,
       "orgNumber": "559274-3701",
       "orgName": "Samtal i Trosa / Finkontoret Sverige AB",
@@ -70495,6 +70721,17 @@
         "yoga"
       ],
       "web": "http://www.yogaasa.se/"
+    },
+    {
+      "entry": 1236666531,
+      "orgNumber": "802011-1582",
+      "orgName": "Stiftelsen Fryshuset",
+      "comment": "Kalmar",
+      "categories": [
+        "familjest\u00f6d",
+        "stiftelse"
+      ],
+      "web": "https://fryshuset.se/"
     },
     {
       "entry": 1236672083,
@@ -73125,7 +73362,7 @@
       "entry": 1236907125,
       "orgNumber": "802011-1582",
       "orgName": "Stiftelsen Fryshuset",
-      "comment": "Barn till ensamma mammor",
+      "comment": "Nationellt",
       "categories": [
         "familjest\u00f6d",
         "stiftelse"
