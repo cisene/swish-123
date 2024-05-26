@@ -1,5 +1,312 @@
 entries:
 
+- entry: 1236189682
+  orgName: Albatross Golfklubb / Albatross Golf AB
+  orgNumber: 857203-3457
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://www.albatrossgolfklubb.se/
+
+- entry: 1230033696
+  orgName: Köpings Golfklubb
+  orgNumber: 878500-3594
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://kopingsgk.nu/
+
+- entry: 1230587618
+  orgName: Eskilstuna Golf AB
+  orgNumber: 559434-7311
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://eskilstunagk.se/
+
+- entry: 1233512506
+  orgName: Kristianstad Handboll
+  orgNumber: 838202-2559
+  comment: Kiosk
+  categories:
+  - idrottsförening
+  - handbollsklubb
+  web: https://www.kristianstadhandboll.se/
+
+- entry: 1231932953
+  orgName: Kristianstad Handboll
+  orgNumber: 838202-2559
+  comment: Sponsring och support
+  categories:
+  - idrottsförening
+  - handbollsklubb
+  web: https://www.kristianstadhandboll.se/
+
+- entry: 1231037068
+  orgName: Kristianstad Handboll
+  orgNumber: 838202-2559
+  comment: Biljetter/evenemang
+  categories:
+  - idrottsförening
+  - handbollsklubb
+  web: https://www.kristianstadhandboll.se/
+
+- entry: 1230171942
+  orgName: Skogås HK
+  orgNumber: 815601-0301
+  comment:
+  categories:
+  - idrottsförening
+  - handbollsklubb
+  web: https://www.laget.se/Skogas/
+
+- entry: 1234015103
+  orgName: Handbollförbundet Syd
+  orgNumber: 846000-5856
+  comment:
+  categories:
+  - förbund
+  - handbollsklubb
+  web: https://svenskhandboll.se/hf-syd
+
+- entry: 1236011282
+  orgName: Sollentuna Handboll
+  orgNumber: 814800-3315
+  comment:
+  categories:
+  - idrottsförening
+  - handbollsklubb
+  web: https://www.sollentunahk.se/sollentunahk
+
+- entry: 1234664603
+  orgName: Bjärnums Handbollsklubb
+  orgNumber: 837001-0996
+  comment:
+  categories:
+  - idrottsförening
+  - handbollsklubb
+  web: https://www.bjarnumshk.se/
+
+- entry: 1233037603
+  orgName: KB Karlskoga
+  orgNumber: 876400-0397
+  comment: Ungdomssektionen
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.svenskalag.se/kbkarlskoga
+
+- entry: 1231507110
+  orgName: KB Karlskoga
+  orgNumber: 876400-0397
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.svenskalag.se/kbkarlskoga
+
+- entry: 1230068064
+  orgName: Götaholm BK
+  orgNumber: 857203-0412
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.gotaholm.se/
+
+- entry: 1234206397
+  orgName: IK Sätra
+  orgNumber: 885000-5755
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: http://www.iksatra.se/
+
+- entry: 1231981307
+  orgName: ÖIS Fotboll
+  orgNumber: 802493-7834
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://oisfotboll.se/
+
+- entry: 1232301273
+  orgName: FC Arlanda
+  orgNumber: 802416-5618
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.arlandafotboll.se/
+
+- entry: 1234576252
+  orgName: Källby IF
+  orgNumber: 869000-5163
+  comment: Försäljning
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.laget.se/KallbyIF/
+
+- entry: 1236946651
+  orgName: Källby IF
+  orgNumber: 869000-5163
+  comment: Medlemsavgift
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.laget.se/KallbyIF/
+
+- entry: 1235608625
+  orgName: Källby IF
+  orgNumber: 869000-5163
+  comment: Kiosk
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.laget.se/KallbyIF/
+
+- entry: 1235025580
+  orgName: Källby IF
+  orgNumber: 869000-5163
+  comment: Papper
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.laget.se/KallbyIF/
+
+- entry: 1232222602
+  orgName: Värmbols FC
+  orgNumber: 818501-1254
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.svenskalag.se/varmbolsfc
+
+- entry: 1236096408
+  orgName: Gammelgårdens IF
+  orgNumber: 898200-6242
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  - innebandyklubb
+  web: https://www.laget.se/GammelgardensIF/
+
+- entry: 1234343059
+  orgName: Årjängs IF
+  orgNumber: 874400-1556
+  comment: Fotboll
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  - skidlöparklubb
+  web: https://www.svenskalag.se/arjangsif
+
+- entry: 1233117561
+  orgName: Årjängs IF
+  orgNumber: 874400-1556
+  comment: Skidor
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  - skidlöparklubb
+  web: https://www.svenskalag.se/arjangsif
+
+- entry: 1232232650
+  orgName: IF VP Uppsala
+  orgNumber: 817601-2493
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.laget.se/IFVPUppsala/
+
+- entry: 1234204780
+  orgName: Stigtomta IF
+  orgNumber: 819000-2827
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  - innebandyklubb
+  web: https://www.stigtomtaif.se/
+
+- entry: 1230927764
+  orgName: IF Örnen
+  orgNumber: 872000-0689
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.laget.se/IFOrnen/
+
+- entry: 1234832044
+  orgName: Hedemorabygdens RK - Ridsport
+  orgNumber: 882000-3013
+  comment:
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://hedemorabygdensridklubb.klubbenonline.se/
+
+- entry: 1231606078
+  orgName: Föreningen Ordfront
+  orgNumber: 802011-5278
+  comment:
+  categories:
+  - lokaltidning
+  - mediaproduktion
+  web: https://www.ordfront.se/
+
+- entry: 1230368068
+  orgName: Fjärdsjömåla AIF
+  orgNumber: 835000-0603
+  comment:
+  categories:
+  - idrottsförening
+  web: http://faif.se/
+
+- entry: 1233835709
+  orgName: Apotekets konstförening
+  orgNumber: 802468-7579
+  comment:
+  categories:
+  - konstförening
+  web: https://apoteketskonstforening.com/
+
+- entry: 1235110796
+  orgName: Boksjö Bygdegårdsförening
+  orgNumber: 895400-8473
+  comment:
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/boksjon/
+
+- entry: 1236337109
+  orgName: Neuroförbundet Västra Skåne
+  orgNumber: 843001-2180
+  comment:
+  categories:
+  - patientförening
+  - anhörigorganisation
+  web: https://neuro.se/forening/foereningar-a-oe/vaestra-skaane/om-neuro-vaestra-skaane/
+
+- entry: 1233491149
+  orgName: American Pizza Today
+  orgNumber: 556893-6743
+  comment:
+  categories:
+  - restaurant
+  - pizzeria
+  web: https://americanpizzatoday.com/
+
 - entry: 1231989631
   orgName: IFK Göteborg
   orgNumber: 857200-8541
@@ -15951,6 +16258,14 @@ entries:
   - kattklubb
   web: https://www.vasteraskattklubb.se/
 
+- entry: 1234365839
+  orgName: Sverige för UNHCR
+  orgNumber: 802426-1250
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://sverigeforunhcr.se/
+
 - entry: 1231507557
   orgName: Sverige för UNHCR
   orgNumber: 802426-1250
@@ -30165,7 +30480,7 @@ entries:
   orgNumber: 857200-6750
   comment: null
   categories:
-  - förening
+  - förbund
   - handbollsklubb
   web: https://svenskhandboll.se/hf-vast
 
