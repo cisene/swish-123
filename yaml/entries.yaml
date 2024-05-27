@@ -1,5 +1,140 @@
 entries:
 
+- entry: 1233410222
+  orgName: Golfvillan
+  orgNumber: 559242-6075
+  comment:
+  categories:
+  - uthyrning
+  - logi
+  - golfbana
+  web: https://www.golfvillanbnb.se/
+
+- entry: 1233304243
+  orgName: Vinbergs Golfklubb
+  orgNumber: 849000-6833
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://www.vinbergsgolfklubb.se/
+
+- entry: 1236474480
+  orgName: Bryttsätter Golfklubb
+  orgNumber: 802459-6705
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://www.spelagolf.nu/
+
+- entry: 1232359123
+  orgName: Djurgårdens IF Golfförening
+  orgNumber: 802403-3071
+  comment:
+  categories:
+  - golfklubb
+  web: https://difgolf.se/
+
+- entry: 1232682748
+  orgName: Nossans Golfklubb
+  orgNumber: 802418-3256
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://nossansgk.se/
+
+- entry: 1233548690
+  orgName: Umeå Sörfors Golfklubb
+  orgNumber: 894002-8494
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://www.sorforsgk.se/
+
+- entry: 1232671139
+  orgName: Strömsunds Golfklubb
+  orgNumber: 802415-4521
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: http://stromsundsgk.se/
+
+- entry: 1234535043
+  orgName: Ljusdals Golfklubb
+  orgNumber: 887000-1982
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://www.golfiljusdal.nu/
+
+- entry: 1233398211
+  orgName: Stockholms Golfklubb
+  orgNumber: 816400-1284
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://stockholmsgolfklubb.se/
+
+- entry: 1231219757
+  orgName: Alec's Golf - Tyresö Golf
+  orgNumber: 559474-3592
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://www.alecsgolf.se/
+
+- entry: 1233442928
+  orgName: Gävle Golfklubb
+  orgNumber: 885000-0863
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://www.gavlegolf.com/
+
+- entry: 1234522249
+  orgName: Timrå Golfklubb
+  orgNumber: 556686-8583
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://www.timragk.se/
+
+- entry: 1236947998
+  orgName: Huvudstadens GK
+  orgNumber: 802410-1423
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://www.huvudstadensgolfklubb.se/
+
+- entry: 1234712568
+  orgName: Ängelholms GK
+  orgNumber: 839400-4850
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://angelholmsgk.se/
+
+- entry: 1231141647
+  orgName: Naturligtvis Golf & Country Club / Utmaningarnas Hus i Malmö AB
+  orgNumber: 556681-3159
+  comment:
+  categories:
+  - golfklubb
+  - golfbana
+  web: https://www.naturligtvisgcc.se/
+
 - entry: 1236189682
   orgName: Albatross Golfklubb / Albatross Golf AB
   orgNumber: 857203-3457
@@ -57845,6 +57980,7 @@ entries:
   comment: null
   categories:
   - golfklubb
+  - golfbana
   web: http://www.falsterbogk.se/
 
 - entry: 1235952239
