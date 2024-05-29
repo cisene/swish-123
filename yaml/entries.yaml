@@ -3982,6 +3982,14 @@ entries:
   - träning
   web: http://ontraining.se/
 
+- entry: 1230378406
+  orgName: Kvinnojouren Karlshamn
+  orgNumber: 802433-7134
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://kvinnojourenkarlshamn.se/
+
 - entry: 1230379271
   orgName: Överjärna Församling
   orgNumber: 252000-0841
@@ -12987,7 +12995,7 @@ entries:
   comment: null
   categories:
   - kvinnojour
-  web: https://www.unizonjourer.se/kvinnojourenonline/
+  web: https://kvinnojourenonline.se/
 
 - entry: 1231235985
   orgName: Ekerö IK
@@ -19314,7 +19322,7 @@ entries:
   web: https://www.djurskyddiost.se/
 
 - entry: 1231824267
-  orgName: SMU I Immanuelskyrkan Jönköping
+  orgName: SMU i Immanuelskyrkan Jönköping
   orgNumber: 826000-5510
   comment: null
   categories:
@@ -19322,7 +19330,7 @@ entries:
   web: https://immanuelskyrkan.com/
 
 - entry: 1231824796
-  orgName: Kvinnojouren I Österåker
+  orgName: Kvinnojouren i Österåker
   orgNumber: 802408-9602
   comment: null
   categories:
@@ -20221,6 +20229,14 @@ entries:
   - hemslöjd
   - intresseförening
   web: null
+
+- entry: 1231938984
+  orgName: Kungsbacka kvinnojour
+  orgNumber: 802504-6551
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://kungsbackakvinnojour.se/
 
 - entry: 1231939008
   orgName: SPF Seniorerna Bankeryd
@@ -29981,6 +29997,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1232943686
+  orgName: Föreningen Stickan / Stiftelsen Stickan
+  orgNumber: 885001-4781
+  comment: null
+  categories:
+  - mansjour
+  - stiftelse
+  web: https://www.stickan.se/
 
 - entry: 1232945210
   orgName: Stiftelsen Uppåkra Arkeologiska Center
@@ -45817,6 +45842,14 @@ entries:
   - förening
   - intresseförening
   web: https://www.narkolepsiforeningen.se/
+
+- entry: 1234669057
+  orgName: FemCenter Kvinnojour
+  orgNumber: 846501-9233
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.femcenter.se/
 
 - entry: 1234669511
   orgName: Trankils Hembygdsförening
