@@ -4666,6 +4666,14 @@ entries:
   - donation
   web: https://halland.brostcancerforbundet.se/
 
+- entry: 1230429324
+  orgName: Vikabygdens Intresseförening
+  orgNumber: 883202-6556
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.vika.se/
+
 - entry: 1230429746
   orgName: Anundsjö Församlning
   orgNumber: 252002-4205
@@ -5346,6 +5354,16 @@ entries:
   - friskvård
   - idrottsförening
   web: https://www.friskissvettis.se/vellinge
+
+- entry: 1230498444
+  orgName: Hjälmared folkhögskolas Kamratförbund
+  orgNumber: 864000-6055
+  comment: null
+  categories:
+  - folkhögskola
+  - kamratförening
+  - utbildning
+  web: https://www.hjalmared.se/kamrat/
 
 - entry: 1230498501
   orgName: Halmstad Triathlon & Multisport
@@ -10986,6 +11004,14 @@ entries:
   - hoppborg
   web: https://www.topfunhoppborgar.se/
 
+- entry: 1231052091
+  orgName: Hjälmareds Folkhögskola
+  orgNumber: 864000-1007
+  comment: null
+  categories:
+  - folkhögskola
+  web: https://www.hjalmared.se/
+
 - entry: 1231052158
   orgName: Hede Hembygdsförening
   orgNumber: 892600-0764
@@ -11933,7 +11959,7 @@ entries:
   categories:
   - discgolfbana
   - discgolfklubb
-  web: https://www.visattradg.se/
+  web: https://www.visattradiscgolf.club/
 
 - entry: 1231148410
   orgName: Sjulsmarks Skoter Och Fiskevårdsförening
@@ -14620,7 +14646,7 @@ entries:
 - entry: 1231378363
   orgName: Överlida Byalag
   orgNumber: 802516-5666
-  comment: null
+  comment: Tennisbanan
   categories:
   - byalag
   - hembygdsförening
@@ -15827,6 +15853,16 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.eik.se/
+
+- entry: 1231492420
+  orgName: Vika IF
+  orgNumber: 883200-4033
+  comment: null
+  categories:
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.laget.se/VikaIF/
 
 - entry: 1231492719
   orgName: Orsa-Skattuge Hembygdsförening
@@ -23065,7 +23101,7 @@ entries:
 - entry: 1232234318
   orgName: Moga Fritid / Svenljunga Kommun
   orgNumber: 212000-1512
-  comment: null
+  comment: Överlida Idrottshall
   categories:
   - friluftsliv
   - friskvård
@@ -29090,6 +29126,14 @@ entries:
   - hembygdsförening
   web: https://loberod.se/
 
+- entry: 1232830347
+  orgName: Svensk Sjuksköterskeförening
+  orgNumber: 556510-2810
+  comment: null
+  categories:
+  - yrkesförening
+  web: https://swenurse.se/
+
 - entry: 1232838316
   orgName: Alliansförsamlingen Aneby
   orgNumber: 826500-0094
@@ -31666,6 +31710,15 @@ entries:
   comment: Hyssnaleden
   categories: null
   web: null
+
+- entry: 1233126182
+  orgName: Christianstad Frisbee Club
+  orgNumber: 802498-6443
+  comment: null
+  categories:
+  - discgolfbana
+  - discgolfklubb
+  web: https://c4fc.se/
 
 - entry: 1233126265
   orgName: Andreas Lindahl AB
@@ -38853,6 +38906,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/sodraoland
+
+- entry: 1233885506
+  orgName: Umeå Discgolf Club, UDGC
+  orgNumber: 894003-3718
+  comment: null
+  categories:
+  - discgolfbana
+  - discgolfklubb
+  web: http://udgc.se/
 
 - entry: 1233886231
   orgName: Öna Bygdegårdsförening
@@ -64469,6 +64531,14 @@ entries:
   - npf-diagnoser
   - stiftelse
   web: https://www.viggofoundation.se/
+
+- entry: 1236717342
+  orgName: Vessigebro Samhällsförening
+  orgNumber: 849000-8979
+  comment: null
+  categories:
+  - samhällsförening
+  web: http://vessigebro.se/
 
 - entry: 1236717748
   orgName: Skara Handbollsklubb
