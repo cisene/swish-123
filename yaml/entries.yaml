@@ -513,6 +513,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1230043406
+  orgName: Föreningen Interkultur i Lund
+  orgNumber: 802542-5979
+  comment: Anatolia - Turkisk sektion
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.interkultur.nu/
+
 - entry: 1230045096
   orgName: Team Rynkeby
   orgNumber: 802532-8033
@@ -823,6 +832,7 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
   - stiftelse
   web: https://www.filippus.se/
 
@@ -2062,6 +2072,25 @@ entries:
   - hunduppfödning
   - kennel
   web: https://www.beaglekennel.se/
+
+- entry: 1230200831
+  orgName: För Falun I Falun
+  orgNumber: 802494-8856
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  web: https://www.facebook.com/groups/389338467909355/
+
+- entry: 1230200832
+  orgName: Dalarna hjälper / För Falun I Falun
+  orgNumber: 802494-8856
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  - ukraina
+  web: https://www.facebook.com/dalarnahjalper
 
 - entry: 1230201194
   orgName: Hjortnäs-Sunnanängs Hembygdsförening
@@ -4719,6 +4748,15 @@ entries:
   - ideell förening
   web: https://www.qvinnoqraft-sandviken.se/
 
+- entry: 1230437053
+  orgName: Föreningen Interkultur i Lund
+  orgNumber: 802542-5979
+  comment: Al-Jasmin - Arabisk sektion
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.interkultur.nu/
+
 - entry: 1230438077
   orgName: Feministiskt Initiativ
   orgNumber: 802422-9497
@@ -4745,6 +4783,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://ifkeskilstuna.com/
+
+- entry: 1230438267
+  orgName: Fredrick Andréason, Personlig Tränare och PGA Professional
+  orgNumber: 841020-XXXX
+  comment: null
+  categories:
+  - golftränare
+  - personlig träning
+  web: https://www.greenfit.se/
 
 - entry: 1230438531
   orgName: Moderata Ungdomsförbundet, MUF
@@ -5572,6 +5619,24 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-seniorerna-reftele/
 
+- entry: 1230514604
+  orgName: Föreningen Interkultur i Lund
+  orgNumber: 802542-5979
+  comment: Raha - Afghansk sektion
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.interkultur.nu/
+
+- entry: 1230514612
+  orgName: Föreningen Interkultur i Lund
+  orgNumber: 802542-5979
+  comment: Ukrainian Unity - Ukrainsk sektion
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.interkultur.nu/
+
 - entry: 1230516906
   orgName: Äpplegårdens Boule Center
   orgNumber: 802509-2639
@@ -5739,6 +5804,8 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://www.stfutacticats.com/
 
 - entry: 1230550061
@@ -6079,6 +6146,8 @@ entries:
   comment: Ukraina
   categories:
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://www.rodakorset.se/
 
 - entry: 1230574582
@@ -6668,6 +6737,8 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://www.helpukrainegbg.se/
 
 - entry: 1230646307
@@ -9031,6 +9102,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/molndal/tre-forsamlingar
 
+- entry: 1230866327
+  orgName: Lions Club Älmhult
+  orgNumber: 829000-8450
+  comment: null
+  categories:
+  - lionsklubb
+  web: http://lionsclubalmhult.blogspot.com/
+
 - entry: 1230866335
   orgName: Tjej och Transjouren Lina
   orgNumber: 802476-6027
@@ -10010,6 +10089,15 @@ entries:
   - musikförening
   web: http://musikifristad.se/
 
+- entry: 1230933325
+  orgName: OperationChange Sweden
+  orgNumber: 802543-9467
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  web: https://operation-change.org/
+
 - entry: 1230934208
   orgName: Kristianstads Brukshundklubb
   orgNumber: 838201-9464
@@ -10095,6 +10183,8 @@ entries:
   comment: Stöd studenter som drabbats av invasionen av Ukraina
   categories:
   - donation
+  - insamling
+  - ukraina
   web: https://www.umu.se/nyheter/umea-universitet-startar-insamling-till-ukrainska-studenter_11605948/
 
 - entry: 1230953364
@@ -10237,6 +10327,14 @@ entries:
   categories: null
   web: null
 
+- entry: 1230973644
+  orgName: Röda Korset
+  orgNumber: null
+  comment: Ukraina-insamling
+  categories:
+  - hjälporganisation
+  web: null
+
 - entry: 1230973719
   orgName: Österåkers Hembygds- och fornminnesförening
   orgNumber: 812000-1626
@@ -10371,6 +10469,7 @@ entries:
   categories:
   - donation
   - institut
+  - ukraina
   web: https://www.ukrainskainstitutet.se/
 
 - entry: 1230988303
@@ -10783,6 +10882,7 @@ entries:
   categories:
   - hemlandsförening
   - intresseförening
+  - ukraina
   web: https://ukrainians.se/
 
 - entry: 1231033554
@@ -12732,6 +12832,13 @@ entries:
   - idrottsförening
   web: https://www.iksisu.se/
 
+- entry: 1231216845
+  orgName: Given Förening i Lund
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1231217413
   orgName: Bäckby Församling
   orgNumber: 556706-5262
@@ -13608,9 +13715,11 @@ entries:
 - entry: 1231295021
   orgName: Sverige för UNHCR
   orgNumber: 802426-1250
-  comment: null
+  comment: Insamling Ukraina
   categories:
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://sverigeforunhcr.se/
 
 - entry: 1231295203
@@ -14735,6 +14844,7 @@ entries:
   categories:
   - donation
   - hjälporganisation
+  - insamling
   web: https://www.operationaid.org/sv
 
 - entry: 1231394949
@@ -14753,6 +14863,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-seniorerna-tinnerbacken-linkoping/
+
+- entry: 1231402544
+  orgName: Hildas Tassebo
+  orgNumber: 802473-8646
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.hildastassebo.se/
 
 - entry: 1231402551
   orgName: Aktiva Seniorer Alingsås
@@ -15480,6 +15599,15 @@ entries:
   - dansförening
   - danssport
   web: https://www.facebook.com/groups/1658121057773011
+
+- entry: 1231476738
+  orgName: BIKE Trollhättan AB
+  orgNumber: 556599-0305
+  comment: null
+  categories:
+  - försäljning
+  - motorsport
+  web: https://biketrollhattan.se/
 
 - entry: 1231477074
   orgName: Kroatiska Föreningen VELEBIT
@@ -17808,7 +17936,9 @@ entries:
   orgNumber: 252000-1583
   comment: Hjälp Ukraina
   categories:
+  - insamling
   - religion
+  - ukraina
   web: https://www.svenskakyrkan.se/uppsala
 
 - entry: 1231688043
@@ -19551,6 +19681,7 @@ entries:
   orgNumber: 802513-8150
   comment: null
   categories:
+  - insamling
   - stiftelse
   web: https://www.blaljusisamverkan.se/
 
@@ -20679,6 +20810,7 @@ entries:
   orgNumber: 556628-3288
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.appelgarden.se/
 
@@ -21241,7 +21373,9 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
   - intresseförening
+  - ukraina
   web: https://www.drones2ukraine.se/
 
 - entry: 1232050755
@@ -21272,7 +21406,9 @@ entries:
   orgNumber: 839400-6590
   comment: Rönnekyrkan, Ukraina-insamling
   categories:
+  - insamling
   - religion
+  - ukraina
   web: http://www.ronnekyrkan.se/
 
 - entry: 1232072312
@@ -22224,6 +22360,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1232158418
+  orgName: Insamlingsstiftelsen Din Gåva
+  orgNumber: 802481-7499
+  comment: null
+  categories:
+  - insamling
+  - stiftelse
+  web: https://dingava.nu/
 
 - entry: 1232158509
   orgName: Östergötlands Stövareklubb, ÖGSK
@@ -23896,6 +24041,15 @@ entries:
   - jaktvårdsklubb
   web: https://ljvk.se/
 
+- entry: 1232294403
+  orgName: Söderblommor
+  orgNumber: 559452-2533
+  comment: null
+  categories:
+  - blomarrangemang
+  - florist
+  web: https://soderblommor.interflora.se/
+
 - entry: 1232299667
   orgName: Sandhults Hembygdsförening
   orgNumber: 864501-2835
@@ -24458,6 +24612,8 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://www.facebook.com/SkickaVidareTillUkraina
 
 - entry: 1232338671
@@ -25037,6 +25193,13 @@ entries:
   categories:
   - rotaryklubb
   web: https://helsingborg-international.rotary2390.se/
+
+- entry: 1232399145
+  orgName: Eos Cares / IK Eos
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1232403285
   orgName: Rättvisepartiet Socialisterna
@@ -26929,6 +27092,16 @@ entries:
   - utbildning
   web: https://hfs.se/
 
+- entry: 1232643732
+  orgName: Thielska Galleriets Vänner
+  orgNumber: 802009-5447
+  comment: null
+  categories:
+  - galleri
+  - konstförening
+  - vänskapsförening
+  web: https://www.thielskagalleriet.se/
+
 - entry: 1232644219
   orgName: Orresta Ö / Flens kommun
   orgNumber: 212000-0332
@@ -27478,7 +27651,9 @@ entries:
   orgNumber: 252004-7206
   comment: Ukraina-insamling
   categories:
+  - insamling
   - religion
+  - ukraina
   web: https://fjaraskyrka.se/
 
 - entry: 1232695047
@@ -28577,6 +28752,15 @@ entries:
   - religion
   web: https://norrkoping.adventkyrka.se/
 
+- entry: 1232782159
+  orgName: Caps and Candles for Ukraine - insamling till Ukraina
+  orgNumber: 802544-3915
+  comment: null
+  categories:
+  - insamling
+  - ukraina
+  web: https://www.facebook.com/groups/473972251456247
+
 - entry: 1232782431
   orgName: Kärda Hembygdsförening
   orgNumber: 828000-4758
@@ -28717,6 +28901,16 @@ entries:
   - bröstcancer
   - donation
   web: https://dalsland.brostcancerforbundet.se/
+
+- entry: 1232797306
+  orgName: Ukrainska Föreningen Östergötland
+  orgNumber: 802539-0330
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  - ukraina
+  web: https://www.ukrfo.se/
 
 - entry: 1232797496
   orgName: Östra Tommarps Bygdegårdsförening
@@ -29037,12 +29231,13 @@ entries:
   web: https://www.grumsbrukshundklubb.hundpoolen.se/
 
 - entry: 1232818581
-  orgName: Värnamo Alliansförsamling
-  orgNumber: 828000-3115
+  orgName: Barnens Oas
+  orgNumber: 802443-4113
   comment: null
   categories:
-  - religion
-  web: https://varnamoallians.se/
+  - hjälporganisation
+  - insamling
+  web: https://tjernobylbarnensoas.se/
 
 - entry: 1232819852
   orgName: Älta Kulturförening
@@ -29914,6 +30109,14 @@ entries:
   - stiftelse
   web: https://stiftelsen-pharos.org/
 
+- entry: 1232919801
+  orgName: Östergarns Bygdegård
+  orgNumber: 802506-6989
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/ostergarn/
+
 - entry: 1232920593
   orgName: Ersmarks IK
   orgNumber: 894001-6606
@@ -30622,12 +30825,14 @@ entries:
   web: https://www.bloomnykoping.se/
 
 - entry: 1233018439
-  orgName: Ängsjödal Text AB / Lars Wilderäng
-  orgNumber: 559078-4640
+  orgName: Insamlingsstiftelsen Sverige-Ukraina
+  orgNumber: 802482-2572
   comment: null
   categories:
-  - mediaproduktion
-  web: https://cornucopia.se/
+  - hjälporganisation
+  - insamling
+  - ukraina
+  web: https://www.sve-ukr.se/
 
 - entry: 1233021003
   orgName: Hällefors Ornitologiska Förening
@@ -31957,6 +32162,15 @@ entries:
   - utbildning
   web: https://hellasgarden.se/
 
+- entry: 1233143070
+  orgName: Mölndals AIK
+  orgNumber: 852000-1424
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  web: https://maik.myclub.se/
+
 - entry: 1233143096
   orgName: Ebba Petterssons Föräldraförening
   orgNumber: 802510-1521
@@ -32035,6 +32249,17 @@ entries:
   categories:
   - scoutkår
   web: https://ortofta.scout.se/
+
+- entry: 1233150505
+  orgName: PowerUpUkraine / EFS Missionsförening i Kalmar
+  orgNumber: 832400-0457
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  - religion
+  - ukraina
+  web: https://www.powerupukraine.se/
 
 - entry: 1233157021
   orgName: Backaryds Samhällsförening
@@ -32142,7 +32367,9 @@ entries:
   orgNumber: 252003-1242
   comment: Ukraina
   categories:
+  - insamling
   - religion
+  - ukraina
   web: https://www.svenskakyrkan.se/partille/
 
 - entry: 1233186392
@@ -33696,6 +33923,15 @@ entries:
   categories:
   - intresseförening
   web: https://www.steamboat.se/
+
+- entry: 1233353224
+  orgName: Föreningen Interkultur i Lund
+  orgNumber: 802542-5979
+  comment: Social Hub - Engelsktalande sektion
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.interkultur.nu/
 
 - entry: 1233357183
   orgName: Västerås SK FK
@@ -35507,6 +35743,14 @@ entries:
   - idrottsförening
   web: https://www.iggesundsik.se/
 
+- entry: 1233514536
+  orgName: Väröbacka GIF
+  orgNumber: 849600-2331
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://varobackagif.se/
+
 - entry: 1233514684
   orgName: Rotary Saltsjöbaden
   orgNumber: 802452-3493
@@ -37135,6 +37379,8 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://slavaukrainisv.com/
 
 - entry: 1233674132
@@ -37830,6 +38076,15 @@ entries:
   - intresseförening
   web: https://sogh.se/
 
+- entry: 1233784113
+  orgName: Motala Golfklubb
+  orgNumber: 824000-1076
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://motalagk.se/
+
 - entry: 1233784345
   orgName: Angelstads Församling
   orgNumber: 252000-6939
@@ -38115,12 +38370,14 @@ entries:
   web: https://www.brinnforbarnen.se/
 
 - entry: 1233809522
-  orgName: Svenska Räddare / Nayifs Charity Project
+  orgName: Svenska Räddare, Swedish Rescuers
   orgNumber: 802476-1341
   comment: null
   categories:
   - donation
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://swedishrescuers.se/
 
 - entry: 1233809654
@@ -38366,6 +38623,13 @@ entries:
   - kultur
   - utbildning
   web: https://regionalkulturskola.se/
+
+- entry: 1233839131
+  orgName: Nätmagasinet Mänsklig Säkerhet
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://manskligsakerhet.se/
 
 - entry: 1233839404
   orgName: Vadsbro-Blacksta Hembygdsförening
@@ -38960,6 +39224,16 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1233887718
+  orgName: Skruvs Sportfiskeklubb
+  orgNumber: 802496-2667
+  comment: null
+  categories:
+  - fiskeklubb
+  - fiskekort
+  - fiskevård
+  web: https://skruv.net/skruvs-fiskeklubb/
+
 - entry: 1233892122
   orgName: HS Häst
   orgNumber: 559030-3425
@@ -39091,6 +39365,16 @@ entries:
   - religion
   web: https://lifecenter.se/
 
+- entry: 1233894813
+  orgName: Önskeambulansen
+  orgNumber: 802459-5889
+  comment: null
+  categories:
+  - barnsjukvård
+  - barnverksamhet
+  - ideell förening
+  web: https://önskeambulansen.se/
+
 - entry: 1233894862
   orgName: Lidköpings Konstförening
   orgNumber: 867800-8031
@@ -39114,6 +39398,15 @@ entries:
   categories:
   - hundsport
   web: https://www.hundtrixet.se/
+
+- entry: 1233896974
+  orgName: SMK Hörby - Bilsport
+  orgNumber: 842000-5038
+  comment: null
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://smkhorby.se/
 
 - entry: 1233897394
   orgName: Raksta Båtklubb
@@ -39475,6 +39768,8 @@ entries:
   orgNumber: 802440-4371
   comment: null
   categories:
+  - hjälporganisation
+  - insamling
   - intresseförening
   web: https://sisters.nu/
 
@@ -40717,11 +41012,12 @@ entries:
   web: http://vannasbhk.weebly.com/
 
 - entry: 1234102430
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Mölndals Pastorat
+  orgNumber: 252003-0202
+  comment: Diakoni
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/molndal
 
 - entry: 1234102646
   orgName: Lions Club Mönsterås
@@ -41170,6 +41466,17 @@ entries:
   - hundsport
   web: https://lulebk.nu/
 
+- entry: 1234143814
+  orgName: Insamlingsstiftelsen Support For Ukraine
+  orgNumber: 802482-4131
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  - stiftelse
+  - ukraina
+  web: https://supportforukraine.se/
+
 - entry: 1234149258
   orgName: Sandviks IK
   orgNumber: 894000-1558
@@ -41438,6 +41745,16 @@ entries:
   categories:
   - religion
   web: https://vrigstadmissionskyrka.se/
+
+- entry: 1234189916
+  orgName: Direct Help For Ukraine
+  orgNumber: 802545-8475
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  - ukraina
+  web: null
 
 - entry: 1234190088
   orgName: Sällskapet Blomstervännerna
@@ -42710,6 +43027,8 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://johanniterhjalpen.se/
 
 - entry: 1234312419
@@ -43130,7 +43449,9 @@ entries:
   comment: null
   categories:
   - donation
+  - insamling
   - intresseförening
+  - ukraina
   web: https://nuforum.se/
 
 - entry: 1234376141
@@ -43140,7 +43461,9 @@ entries:
   categories:
   - donation
   - hemlandsförening
+  - insamling
   - kulturförening
+  - ukraina
   web: http://www.svenskbyborna.se/
 
 - entry: 1234378600
@@ -43484,6 +43807,15 @@ entries:
   categories:
   - religion
   web: http://luleafridsforbund.com/
+
+- entry: 1234408076
+  orgName: Kumla Golfklubb
+  orgNumber: 875700-7359
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://www.kumlagk.se/
 
 - entry: 1234408209
   orgName: Burlövs RF - Ridsport
@@ -45383,6 +45715,7 @@ entries:
   comment: null
   categories:
   - ambassad
+  - ukraina
   web: https://sweden.mfa.gov.ua/
 
 - entry: 1234610325
@@ -45929,6 +46262,15 @@ entries:
   - supporterklubb
   web: http://www.rodabollen.se/
 
+- entry: 1234670956
+  orgName: Föreningen Interkultur i Lund
+  orgNumber: 802542-5979
+  comment: Kulturbro - Brobyggarsektion
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.interkultur.nu/
+
 - entry: 1234671533
   orgName: Art of Rhythm.Sweden / Sophie Aronsson
   orgNumber: 630428-XXXX
@@ -46306,6 +46648,17 @@ entries:
   - kosttillskott
   - styrketräning
   web: https://www.naitisport.se/
+
+- entry: 1234711198
+  orgName: Öijared Resort
+  orgNumber: 556701-6711
+  comment: null
+  categories:
+  - golfbana
+  - hotell
+  - konferens
+  - restaurant
+  web: https://www.oijared.se/
 
 - entry: 1234711297
   orgName: Flens Jaktskytteklubb
@@ -47197,12 +47550,14 @@ entries:
   web: http://www.pkena.se/
 
 - entry: 1234861993
-  orgName: Öregrundarbloggen / Yvonne A-Pettersson
-  orgNumber: 570714-XXXX
+  orgName: Svenska Ukrainahjälpen
+  orgNumber: 802541-2027
   comment: null
   categories:
-  - blogg
-  web: https://www.oregrundarbloggen.com/
+  - hjälporganisation
+  - insamling
+  - ukraina
+  web: https://www.facebook.com/groups/ukrainahjalpen
 
 - entry: 1234862041
   orgName: Pingst Umeå
@@ -51909,6 +52264,16 @@ entries:
   - patientförening
   web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/sodermanlands-lan/nykoping-oxelosund/
 
+- entry: 1235336631
+  orgName: Insamlingsstiftelsen HOPE Worldwide Sweden
+  orgNumber: 802481-4553
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  - stiftelse
+  web: https://www.hopewwsweden.org/
+
 - entry: 1235337266
   orgName: Väderstad Hembygds- och Byalagsförening
   orgNumber: 823000-2738
@@ -53545,6 +53910,7 @@ entries:
   comment: Mobila elverk
   categories:
   - hjälporganisation
+  - insamling
   - religion
   web: https://vasakyrkan.nu/
 
@@ -54106,6 +54472,8 @@ entries:
   categories:
   - apotek
   - försäljning
+  - insamling
+  - ukraina
   web: https://www.apotekhjartat.se/
 
 - entry: 1235557897
@@ -55847,6 +56215,15 @@ entries:
   - trafiksäkerhet
   web: https://www.fmk.se/fmv/
 
+- entry: 1235731385
+  orgName: Yngsjö IF
+  orgNumber: 838200-4433
+  comment: Loppisförsäljning
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/yngsjoif/
+
 - entry: 1235748116
   orgName: AIK-Tifo
   orgNumber: 802410-3072
@@ -56589,6 +56966,8 @@ entries:
   categories:
   - hjälporganisation
   - humanitär hjälpverksamhet
+  - insamling
+  - ukraina
   web: https://beetroot.co/aid-for-ukraine/
 
 - entry: 1235815352
@@ -56597,6 +56976,8 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://www.supportforukraine.org/
 
 - entry: 1235820105
@@ -57020,6 +57401,8 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://www.facebook.com/tjornshjalptillukraina
 
 - entry: 1235861257
@@ -57090,6 +57473,14 @@ entries:
   categories:
   - religion
   web: https://frolunda.pingst.se/
+
+- entry: 1235881214
+  orgName: Equmeniakyrkan Sävedalen
+  orgNumber: 857201-7260
+  comment: null
+  categories:
+  - religion
+  web: http://equmeniakyrkansavedalen.se/
 
 - entry: 1235881644
   orgName: Smyrnakyrkan Göteborg
@@ -58769,6 +59160,8 @@ entries:
   categories:
   - donation
   - hjälporganisation
+  - insamling
+  - ukraina
   web: https://blagulabilen.se/
 
 - entry: 1236082408
@@ -59234,6 +59627,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1236133292
+  orgName: Månsbyns Framtid
+  orgNumber: 898200-7000
+  comment: null
+  categories:
+  - intresseförening
+  - samhällsförening
+  web: https://mansbyn.se/
 
 - entry: 1236135172
   orgName: Gustavsbergs RS - Ridsport
@@ -59714,6 +60116,14 @@ entries:
   - kvinnojour
   web: http://kvinnojourensandviken.se/
 
+- entry: 1236177828
+  orgName: PRO Sätra
+  orgNumber: 885002-0929
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle/foreningar/satra.html
+
 - entry: 1236177976
   orgName: Sveriges Socialdemokratiska Arbetareparti
   orgNumber: 802003-1145
@@ -59793,6 +60203,15 @@ entries:
   - brukshundsklubb
   - hundsport
   web: https://www.smalandsstenarbk.se/
+
+- entry: 1236180269
+  orgName: Insamlingsstiftelsen Blåljus
+  orgNumber: 802513-8150
+  comment: null
+  categories:
+  - insamling
+  - stiftelse
+  web: https://blaljusisamverkan.se/
 
 - entry: 1236181820
   orgName: Svenska Utbildningsfonden för Liberia
@@ -60502,6 +60921,14 @@ entries:
   - religion
   web: https://www.furuhojdskyrkan.se/kyrkan-i-samhallet/nytank/
 
+- entry: 1236260640
+  orgName: Aktiva Seniorer Köping
+  orgNumber: 878500-6449
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://koping.aktivaseniorer.com/
+
 - entry: 1236260681
   orgName: PRO Gävle Samorganisation
   orgNumber: 885000-4782
@@ -60840,6 +61267,7 @@ entries:
   categories:
   - insamling
   - museum
+  - ukraina
   web: https://www.nordiskamuseet.se/
 
 - entry: 1236280663
@@ -63431,6 +63859,13 @@ entries:
   - ridskola
   web: https://vedbande.nu/
 
+- entry: 1236582647
+  orgName: Byggnads
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1236583769
   orgName: Granöbygdens Golfklubb
   orgNumber: 802418-3785
@@ -63455,6 +63890,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-ostergotland/samorganisationer/samorganisation-linkoping/foreningar/vreta-kloster.html
+
+- entry: 1236598742
+  orgName: Föreningen Interkultur i Lund
+  orgNumber: 802542-5979
+  comment: Português - Portugisisk sektion
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.interkultur.nu/
 
 - entry: 1236607618
   orgName: Stiftelsen Fryshuset
@@ -64040,6 +64484,16 @@ entries:
   categories:
   - kvinnojour
   web: https://kvinnojourenkarlskrona.se/
+
+- entry: 1236677868
+  orgName: Sweden Stands With Ukraine / Lions Club Älmhult
+  orgNumber: 829000-8450
+  comment: null
+  categories:
+  - insamling
+  - lionsklubb
+  - ukraina
+  web: https://www.supportukraine.se/
 
 - entry: 1236678262
   orgName: American Akita Klubb Sverige
@@ -65625,6 +66079,15 @@ entries:
   - konsthantverk
   web: https://www.ospreysweden.se/
 
+- entry: 1236823553
+  orgName: Gårdby Buss
+  orgNumber: 530510-XXXX
+  comment: null
+  categories:
+  - busstrafik
+  - charterbuss
+  web: https://www.gardbybuss.se/
+
 - entry: 1236824619
   orgName: Göteborgs Dövas Förening
   orgNumber: 857200-2916
@@ -65837,6 +66300,16 @@ entries:
   categories:
   - förening
   web: https://www.facebook.com/groups/214850042059188/
+
+- entry: 1236856744
+  orgName: Ukrainian Volunteer Hub Stockholm
+  orgNumber: 802543-9491
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  - ukraina
+  web: http://www.fb.com/uavhub.stockholm
 
 - entry: 1236858021
   orgName: Axelsson Trafikskolor / On Via TS AB
@@ -69269,6 +69742,7 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
   - insamlingskontroll
   - stiftelse
   web: https://www.rotaryhjalper.se/
@@ -69635,6 +70109,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - hjälporganisation
+  - insamling
   - insamlingskontroll
   - välgörenhet
   web: https://www.samhjalp.se/
@@ -73084,7 +73559,9 @@ entries:
   comment: Röda Korsets arbete i Ukraina
   categories:
   - godkänd gåvomottagare
+  - insamling
   - insamlingskontroll
+  - ukraina
   web: https://www.rodakorset.se/
 
 - entry: 1239008095
@@ -73960,6 +74437,7 @@ entries:
   comment: null
   categories:
   - godkänd gåvomottagare
+  - insamling
   - insamlingskontroll
   - stiftelse
   - välgörenhet
@@ -74518,6 +74996,7 @@ entries:
   categories:
   - donation
   - godkänd gåvomottagare
+  - insamling
   - insamlingskontroll
   - välgörenhet
   web: https://www.unicef.se/
