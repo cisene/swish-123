@@ -2400,8 +2400,7 @@ entries:
   orgNumber: 802411-3543
   comment: null
   categories:
-  - förbund
-  - idrottsförening
+  - idrottsförbund
   - lacrosseklubb
   web: https://lacrosse.se/
 
@@ -2930,10 +2929,9 @@ entries:
   orgNumber: 802442-1219
   comment: null
   categories:
-  - finnjolle
-  - förbund
+  - finnjolleklubb
+  - idrottsförbund
   - segelklubb
-  - segling
   web: https://www.finnjolle.se/
 
 - entry: 1230291302
@@ -3930,9 +3928,8 @@ entries:
   orgNumber: 878000-5321
   comment: Medlemsavgift
   categories:
-  - brottning
   - brottningsklubb
-  - intresseförening
+  - idrottsförening
   web: http://www.vasterasbrottarklubb.se/
 
 - entry: 1230369959
@@ -5118,7 +5115,8 @@ entries:
   orgNumber: 894700-5842
   comment: Fika - mat
   categories:
-  - curling
+  - curlingklubb
+  - idrottsförening
   web: https://www.curlingklubben.se/
 
 - entry: 1230473256
@@ -7169,7 +7167,7 @@ entries:
   orgNumber: 802003-1707
   comment: null
   categories:
-  - förbund
+  - idrottsförbund
   - skytteklubb
   - sportskytte
   web: https://www.skyttesport.se/
@@ -7945,7 +7943,7 @@ entries:
   orgNumber: 894700-5842
   comment: Klubbafton
   categories:
-  - curling
+  - curlingklubb
   - idrottsförening
   web: https://www.curlingklubben.se/
 
@@ -8388,8 +8386,10 @@ entries:
   orgNumber: 802000-5982
   comment: null
   categories:
-  - curling
+  - curlingklubb
   - förbund
+  - idrottsförbund
+  - idrottsförening
   web: https://www.curling.se/
 
 - entry: 1230799106
@@ -10663,6 +10663,7 @@ entries:
   orgNumber: 802469-5655
   comment: null
   categories:
+  - friidrottsförening
   - idrottsförening
   web: https://www.trelleborgfriidrott.com/
 
@@ -10765,14 +10766,14 @@ entries:
   orgNumber: 834002-0505
   comment: null
   categories:
-  - friidrott
+  - friidrottsförening
   - idrottsförening
-  - längdåkning
-  - orientering
+  - längdåkningsklubb
+  - orienteringsklubb
   - parasport
   - rullskidor
   - skidor
-  - skidskytte
+  - skidskytteklubb
   web: https://www.svaideroma.se/
 
 - entry: 1231008192
@@ -11620,9 +11621,8 @@ entries:
   orgNumber: 878000-5321
   comment: Café
   categories:
-  - brottning
   - brottningsklubb
-  - intresseförening
+  - idrottsförening
   web: http://www.vasterasbrottarklubb.se/
 
 - entry: 1231089663
@@ -12899,6 +12899,7 @@ entries:
   orgNumber: 827000-6953
   comment: null
   categories:
+  - friidrottsförening
   - idrottsförening
   web: https://www.iksisu.se/
 
@@ -13795,9 +13796,8 @@ entries:
   orgNumber: 878000-5321
   comment: Mälarcupen
   categories:
-  - brottning
   - brottningsklubb
-  - intresseförening
+  - idrottsförening
   web: http://www.vasterasbrottarklubb.se/
 
 - entry: 1231295021
@@ -14370,6 +14370,7 @@ entries:
   categories:
   - förbund
   - idrott
+  - idrottsförbund
   web: https://www.swesports.org/
 
 - entry: 1231341288
@@ -15184,7 +15185,7 @@ entries:
   orgNumber: 802430-1452
   comment: null
   categories:
-  - friidrott
+  - friidrottsförening
   - idrottsförening
   web: https://www.eskilstunafriidrott.se/
 
@@ -15472,7 +15473,6 @@ entries:
   orgNumber: 802420-4607
   comment: null
   categories:
-  - basketboll
   - basketbollklubb
   - förening
   - idrottsförening
@@ -15670,10 +15670,10 @@ entries:
   orgNumber: 826000-4901
   comment: null
   categories:
-  - bordtennis
+  - bordtennisklubb
   - fotbollsklubb
   - gym
-  - gymnastik
+  - gymnastikförening
   - idrottsförening
   - innebandyklubb
   - skidor
@@ -16207,6 +16207,7 @@ entries:
   comment: Landslaget Field Herr
   categories:
   - förbund
+  - idrottsförbund
   - idrottsförening
   - lacrosseklubb
   web: https://lacrosse.se/
@@ -17785,8 +17786,9 @@ entries:
   orgNumber: 802506-0123
   comment: null
   categories:
-  - brottning
+  - brottningsklubb
   - förbund
+  - idrottsförbund
   - idrottsförening
   web: https://www.domare.org/
 
@@ -18535,7 +18537,7 @@ entries:
   orgNumber: 802489-5750
   comment: null
   categories:
-  - friidrott
+  - friidrottsförening
   - idrottsförening
   web: https://idrottonline.se/SvillingeIdrottsforening-Friidrott/
 
@@ -20152,7 +20154,7 @@ entries:
   orgNumber: 885001-1258
   comment: null
   categories:
-  - friidrott
+  - friidrottsförening
   - idrottsförening
   web: https://www.hemlingbylk.se/
 
@@ -20244,6 +20246,7 @@ entries:
   comment: null
   categories:
   - förbund
+  - idrottsförbund
   - idrottsförening
   - innebandyklubb
   web: https://innebandy.se/
@@ -22257,9 +22260,8 @@ entries:
   orgNumber: 878000-5321
   comment: Övrigt
   categories:
-  - brottning
   - brottningsklubb
-  - intresseförening
+  - idrottsförening
   web: http://www.vasterasbrottarklubb.se/
 
 - entry: 1232141406
@@ -25579,6 +25581,7 @@ entries:
   orgNumber: 802531-7374
   comment: null
   categories:
+  - friidrottsförening
   - idrottsförening
   web: https://www.svenskalag.se/tjalvefriidrott
 
@@ -27716,8 +27719,10 @@ entries:
   orgNumber: 858500-7456
   comment: null
   categories:
+  - friidrottsförening
   - idrottsförening
-  - idrottssällskap
+  - skidklubb
+  - skridskoklubb
   web: https://www.uisskidor.se/
 
 - entry: 1232690477
@@ -30629,6 +30634,7 @@ entries:
   categories:
   - förbund
   - handbollsklubb
+  - idrottsförbund
   web: https://svenskhandboll.se/hf-vast
 
 - entry: 1232969343
@@ -30832,6 +30838,7 @@ entries:
   comment: Landslaget Field Dam
   categories:
   - förbund
+  - idrottsförbund
   - idrottsförening
   - lacrosseklubb
   web: https://lacrosse.se/
@@ -31907,8 +31914,8 @@ entries:
   orgNumber: 888400-3172
   comment: 888400-7287
   categories:
-  - bordtennis
   - bordtennisklubb
+  - idrottsförening
   web: http://www.dbtk.se/
 
 - entry: 1233114774
@@ -32823,6 +32830,7 @@ entries:
   categories:
   - baseballklubb
   - förbund
+  - idrottsförbund
   - lacrosseklubb
   - softbollklubb
   web: https://www.sbslf.se/
@@ -32981,7 +32989,7 @@ entries:
   orgNumber: 878001-3879
   comment: null
   categories:
-  - friidrott
+  - friidrottsförening
   - idrottsförening
   web: https://www.vasterasfriidrott.se/
 
@@ -34223,7 +34231,6 @@ entries:
   orgNumber: 878001-4513
   comment: null
   categories:
-  - basketboll
   - basketbollklubb
   - idrottsförening
   web: https://www.vasterasbasket.se/
@@ -38030,9 +38037,8 @@ entries:
   orgNumber: 878000-5321
   comment: Stödmedlem/Wresfit
   categories:
-  - brottning
   - brottningsklubb
-  - intresseförening
+  - idrottsförening
   web: http://www.vasterasbrottarklubb.se/
 
 - entry: 1233737897
@@ -40837,6 +40843,7 @@ entries:
   comment: null
   categories:
   - förbund
+  - idrottsförbund
   - pistolskytteklubb
   - sportskytte
   web: https://www.skyttesport.se/
@@ -41271,6 +41278,7 @@ entries:
   orgNumber: 802534-8619
   comment: null
   categories:
+  - friidrottsförening
   - idrottsförening
   web: https://www.laholmsif.se/
 
@@ -41976,6 +41984,7 @@ entries:
   comment: null
   categories:
   - förbund
+  - idrottsförbund
   - riksförbund
   - surfing
   web: https://www.surfforbundet.se/
@@ -44095,7 +44104,7 @@ entries:
   orgNumber: 802462-1099
   comment: null
   categories:
-  - amerikansk fotboll
+  - amerikansk fotbollsklubb
   - idrottsförening
   web: https://www.hbgjaguars.com/
 
@@ -44180,7 +44189,7 @@ entries:
   orgNumber: 894700-5842
   comment: Prova på
   categories:
-  - curling
+  - curlingklubb
   - idrottsförening
   web: https://www.curlingklubben.se/
 
@@ -45996,6 +46005,7 @@ entries:
   orgNumber: 826001-7028
   comment: null
   categories:
+  - idrottsförbund
   - idrottsförening
   - innebandyklubb
   web: https://www.innebandy.se/smaland/
@@ -46254,7 +46264,7 @@ entries:
   orgNumber: 878000-5032
   comment: null
   categories:
-  - bordtennis
+  - bordtennisklubb
   - idrottsförening
   web: https://www.vasterasbtk.se/
 
@@ -48845,7 +48855,7 @@ entries:
   orgNumber: 855100-6771
   comment: null
   categories:
-  - bordtennis
+  - bordtennisklubb
   - pensionärsklubb
   web: https://www.pbk-gbg.se/
 
@@ -49507,6 +49517,7 @@ entries:
   orgNumber: 802533-8974
   comment: null
   categories:
+  - friidrottsförening
   - idrottsförening
   web: https://www.uiffriidrott.se/
 
@@ -49783,6 +49794,7 @@ entries:
   comment: Juniorlandslaget (U19/U20 herr)
   categories:
   - förbund
+  - idrottsförbund
   - idrottsförening
   - lacrosseklubb
   web: https://lacrosse.se/
@@ -52036,8 +52048,8 @@ entries:
   orgNumber: 888400-3172
   comment: Medlemsavgift 888400-7287
   categories:
-  - bordtennis
   - bordtennisklubb
+  - idrottsförening
   web: http://www.dbtk.se/
 
 - entry: 1235283981
@@ -53028,6 +53040,7 @@ entries:
   categories:
   - bowling
   - förbund
+  - idrottsförbund
   - riksförbund
   web: https://www.swebowl.se/
 
@@ -53081,7 +53094,8 @@ entries:
   orgNumber: 894700-5842
   comment: Medlemsavgift
   categories:
-  - curling
+  - curlingklubb
+  - idrottsförening
   web: https://www.curlingklubben.se/
 
 - entry: 1235391750
@@ -54128,6 +54142,7 @@ entries:
   comment: null
   categories:
   - förbund
+  - idrottsförbund
   - riksförbund
   web: https://sverigesskateboardforbund.se/
 
@@ -54385,6 +54400,7 @@ entries:
   comment: null
   categories:
   - gymnastikförening
+  - idrottsförening
   - truppgymnastik
   web: http://www.huddingegf.se/
 
@@ -54601,6 +54617,7 @@ entries:
   categories:
   - fotbollsklubb
   - förbund
+  - idrottsförbund
   - idrottsförening
   web: https://halland.svenskfotboll.se/
 
@@ -55125,6 +55142,7 @@ entries:
   comment: Box Landslaget
   categories:
   - förbund
+  - idrottsförbund
   - idrottsförening
   - lacrosseklubb
   web: https://lacrosse.se/
@@ -55135,6 +55153,7 @@ entries:
   comment: Svenska Lacrosse Ligan, SLL
   categories:
   - förbund
+  - idrottsförbund
   - idrottsförening
   - lacrosseklubb
   web: https://lacrosse.se/
@@ -55412,7 +55431,7 @@ entries:
   orgNumber: 846501-6510
   comment: null
   categories:
-  - gymnastik
+  - gymnastikförening
   - idrottsförening
   web: https://www.videdalsgif.se/
 
@@ -55998,7 +56017,7 @@ entries:
   orgNumber: 802457-0130
   comment: null
   categories:
-  - badminton
+  - badmintonklubb
   - idrottsförening
   web: https://idrottonline.se/ArvikaBMK-Badminton/
 
@@ -57325,7 +57344,7 @@ entries:
   orgNumber: 894700-5842
   comment: Seniors
   categories:
-  - curling
+  - curlingklubb
   - idrottsförening
   web: https://www.curlingklubben.se/
 
@@ -57933,7 +57952,7 @@ entries:
   web: https://www.laget.se/WesterviksBS/
 
 - entry: 1235890322
-  orgName: Svenska Pappers­industriarbetareförbundet
+  orgName: Svenska Pappers Industriarbetareförbundet
   orgNumber: 802002-6004
   comment: null
   categories:
@@ -58257,8 +58276,8 @@ entries:
   orgNumber: 802501-0730
   comment: null
   categories:
-  - förbund
-  - klättring
+  - idrottsförbund
+  - klätterklubb
   web: https://stkf.se/
 
 - entry: 1235931381
@@ -58463,6 +58482,7 @@ entries:
   orgNumber: 802008-2486
   comment: null
   categories:
+  - idrottsförbund
   - idrottsförening
   web: https://stockholmscf.se/
 
@@ -59344,6 +59364,7 @@ entries:
   orgNumber: 802507-0213
   comment: null
   categories:
+  - friidrottsförening
   - idrottsförening
   web: https://idrottonline.se/TyftArenaIF-Friidrott/
 
@@ -60844,8 +60865,8 @@ entries:
   orgNumber: 888400-3172
   comment: 888400-7287
   categories:
-  - bordtennis
   - bordtennisklubb
+  - idrottsförening
   web: http://www.dbtk.se/
 
 - entry: 1236213086
@@ -60918,8 +60939,8 @@ entries:
   orgNumber: 802000-2484
   comment: null
   categories:
-  - bandy
-  - förbund
+  - bandyklubb
+  - idrottsförbund
   web: https://old.svenskbandy.se/BANDY-INFO/FORBUNDET/Organisation/Distrikt/Stockholm/
 
 - entry: 1236215636
@@ -61333,7 +61354,7 @@ entries:
   orgNumber: 894700-5842
   comment: Övrigt
   categories:
-  - curling
+  - curlingklubb
   - idrottsförening
   web: https://www.curlingklubben.se/
 
@@ -63706,6 +63727,7 @@ entries:
   comment: null
   categories:
   - förbund
+  - idrottsförbund
   - ridsport
   web: https://ridsport.se/distrikt/blekinge
 
@@ -64659,7 +64681,7 @@ entries:
   comment: null
   categories:
   - aikido
-  - förbund
+  - idrottsförbund
   - kampsport
   - ki-aikido
   web: https://www.svenskaikido.se/
@@ -65072,6 +65094,7 @@ entries:
   orgNumber: 865500-0308
   comment: Gymnastik
   categories:
+  - gymnastikförening
   - idrottsförening
   web: https://www.dalstorpsif.se/
 
@@ -66128,7 +66151,6 @@ entries:
   comment: null
   categories:
   - fäktklubb
-  - fäktning
   - idrottsförening
   web: https://idrottonline.se/alingsasfaktklubb-faktning/
 
@@ -66946,7 +66968,7 @@ entries:
   web: https://skarabagskytteklubb.se/
 
 - entry: 1236886519
-  orgName: Kristinehamns  Artilleriförening
+  orgName: Kristinehamns Artilleriförening
   orgNumber: 802521-7814
   comment: null
   categories:
@@ -68380,6 +68402,8 @@ entries:
   orgNumber: 802002-8125
   comment: null
   categories:
+  - funktionsnedsättning
+  - funktionsvariation
   - insamlingskontroll
   web: https://www.rbu.se/
 
@@ -69954,7 +69978,7 @@ entries:
   web: https://www.fryshuset.se/
 
 - entry: 1239002775
-  orgName: Fritidsforum – Riksförbundet Sveriges Fritids- och Hemgårdar
+  orgName: Fritidsforum - Riksförbundet Sveriges Fritids- och Hemgårdar
   orgNumber: null
   comment: null
   categories:
@@ -71873,7 +71897,7 @@ entries:
   web: null
 
 - entry: 1239005307
-  orgName: STROKEFÖRBUNDET
+  orgName: Strokeförbundet
   orgNumber: 802009-9332
   comment: null
   categories:
@@ -73777,6 +73801,7 @@ entries:
   categories:
   - friskvård
   - förbund
+  - idrottsförbund
   - insamlingskontroll
   web: https://www.korpen.se/
 
@@ -74744,6 +74769,7 @@ entries:
   orgNumber: 802003-0618
   comment: null
   categories:
+  - idrottsförbund
   - insamlingskontroll
   - terminated
   web: https://www.skolidrott.se/
