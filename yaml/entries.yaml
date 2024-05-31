@@ -8124,6 +8124,14 @@ entries:
   - stiftelse
   web: https://hudfonden.se/
 
+- entry: 1230779041
+  orgName: Rotary Karlskrona - Nova
+  orgNumber: 802511-5141
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/15826
+
 - entry: 1230779447
   orgName: Ljungskileortens Hembygdsförening
   orgNumber: 858500-5393
@@ -9884,6 +9892,24 @@ entries:
   - intresseförening
   web: https://www.svenskalbanska.se/
 
+- entry: 1230920488
+  orgName: Borås Finska Pingstförsamling
+  orgNumber: 864500-8254
+  comment: null
+  categories:
+  - religion
+  web: null
+
+- entry: 1230922997
+  orgName: Stopthewar.se
+  orgNumber: 802541-5764
+  comment: null
+  categories:
+  - ideell förening
+  - insamling
+  - ukraina
+  web: https://stopthewar.se/
+
 - entry: 1230923003
   orgName: Stora Tuna och Torsångs pastorat
   orgNumber: 252003-4287
@@ -10580,6 +10606,15 @@ entries:
   categories:
   - dykarklubb
   web: http://www.dklagun.se/
+
+- entry: 1230996777
+  orgName: Lidingö Församling
+  orgNumber: 252000-0965
+  comment: Ukraina
+  categories:
+  - religion
+  - ukraina
+  web: https://lidingoforsamling.se/
 
 - entry: 1230997270
   orgName: null
@@ -19108,6 +19143,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/fyrklovernvansbro/
 
+- entry: 1231797513
+  orgName: Kungliga Örlogsmannasällskapet
+  orgNumber: 835000-4282
+  comment: null
+  categories:
+  - förening
+  web: https://www.koms.se/
+
 - entry: 1231797901
   orgName: Sällskapet Gamla Örebro
   orgNumber: 875000-6531
@@ -19115,6 +19158,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/sallskapet-gamla-orebro
+
+- entry: 1231800119
+  orgName: Ulriksbergskyrkan
+  orgNumber: 829502-0021
+  comment: null
+  categories:
+  - religion
+  web: https://www.ulriksbergskyrkan.se/
 
 - entry: 1231801190
   orgName: IFK Göteborg
@@ -26134,6 +26185,14 @@ entries:
   - viltvård
   web: https://www.kirunajaktochfiske.se/
 
+- entry: 1232539658
+  orgName: Pingstförsamlingen Skillingaryd
+  orgNumber: 828000-0418
+  comment: null
+  categories:
+  - religion
+  web: https://www.pingstskillingaryd.se/
+
 - entry: 1232541613
   orgName: Tjejjouren Luleå
   orgNumber: 802523-4066
@@ -29179,6 +29238,15 @@ entries:
   categories:
   - religion
   web: https://www.pingstkyrkan-vannas.com/
+
+- entry: 1232817005
+  orgName: Lidingö Församling
+  orgNumber: 252000-0965
+  comment: Ukraina
+  categories:
+  - religion
+  - ukraina
+  web: https://lidingoforsamling.se/
 
 - entry: 1232817153
   orgName: Bolmsö Bygdegårdsförening
@@ -34222,6 +34290,14 @@ entries:
   - religion
   web: http://pingstarla.se/
 
+- entry: 1233381191
+  orgName: Fiskebäckskyrkan
+  orgNumber: 857201-0448
+  comment: Barn- och ungdomsverksamhet
+  categories:
+  - religion
+  web: https://www.fiskebackskyrkan.se/
+
 - entry: 1233381241
   orgName: Lenoa AB
   orgNumber: 559000-1284
@@ -36917,6 +36993,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/satila
 
+- entry: 1233629144
+  orgName: Rödakorset Lidingö
+  orgNumber: 813600-3038
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  web: https://www.rodakorset.se/ort/stockholm/lidingo-stad/
+
 - entry: 1233629292
   orgName: Redhawks Support
   orgNumber: 802433-4115
@@ -38626,9 +38711,11 @@ entries:
 
 - entry: 1233839131
   orgName: Nätmagasinet Mänsklig Säkerhet
-  orgNumber: null
+  orgNumber: 802507-7523
   comment: null
-  categories: null
+  categories:
+  - lokaltidning
+  - mediaproduktion
   web: https://manskligsakerhet.se/
 
 - entry: 1233839404
@@ -39614,6 +39701,16 @@ entries:
   - förvaltare
   - gode man
   web: http://www.gmfiblekinge.se/
+
+- entry: 1233927696
+  orgName: Human Rescue Sweden
+  orgNumber: 802539-0579
+  comment: Insamling Ukraina
+  categories:
+  - hjälporganisation
+  - insamling
+  - ukraina
+  web: https://humanrescue.se/
 
 - entry: 1233928132
   orgName: Pingstförsamlingen Kungsör
@@ -42957,6 +43054,14 @@ entries:
   - välgörenhet
   web: https://stadsbrudskaren.se/
 
+- entry: 1234303160
+  orgName: Lidingö Församling
+  orgNumber: 252000-0965
+  comment: ACT
+  categories:
+  - religion
+  web: https://lidingoforsamling.se/
+
 - entry: 1234303954
   orgName: Kvinnohistoriska Sällskapet
   orgNumber: 802516-1244
@@ -43435,6 +43540,15 @@ entries:
   - golfklubb
   web: https://www.rattviksgk.se/
 
+- entry: 1234373460
+  orgName: Esperssons Åkeri AB
+  orgNumber: 556380-0845
+  comment: null
+  categories:
+  - transporttjänst
+  - åkeri
+  web: https://www.esperssons.se/
+
 - entry: 1234373833
   orgName: Aros Ice Cream
   orgNumber: 969795-7307
@@ -43453,6 +43567,14 @@ entries:
   - intresseförening
   - ukraina
   web: https://nuforum.se/
+
+- entry: 1234375929
+  orgName: Tidskrift i Sjöväsendet - Kungliga Örlogsmannasällskapet
+  orgNumber: 835000-4282
+  comment: null
+  categories:
+  - förening
+  web: https://www.koms.se/
 
 - entry: 1234376141
   orgName: Föreningen Svenskbyborna
@@ -45133,6 +45255,8 @@ entries:
   comment: null
   categories:
   - hjälporganisation
+  - insamling
+  - ukraina
   web: http://www.mediemission.se/
 
 - entry: 1234548871
@@ -45437,6 +45561,14 @@ entries:
   categories:
   - supporterklubb
   web: https://www.northpower.nu/
+
+- entry: 1234582953
+  orgName: Equmeniakyrkan Lerkil
+  orgNumber: 857202-1403
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkan.se/lerkil/
 
 - entry: 1234584314
   orgName: Kalix Golfklubb
@@ -45798,6 +45930,7 @@ entries:
   orgNumber: 802510-3493
   comment: null
   categories:
+  - insamling
   - skytteförening
   web: https://dala-mp.se/
 
@@ -47729,6 +47862,13 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1234902979
+  orgName: Mvnx Labs AB
+  orgNumber: 559279-9331
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1234910147
   orgName: Leksands Konstsällskap
@@ -57802,6 +57942,16 @@ entries:
   - idrottsförening
   web: https://surahammarsif.se/
 
+- entry: 1235906813
+  orgName: Svensk Krigare
+  orgNumber: null
+  comment: null
+  categories:
+  - hjälporganisation
+  - insamling
+  - ukraina
+  web: https://svenskkrigare.com/
+
 - entry: 1235908603
   orgName: Team Rynkeby
   orgNumber: 802534-5938
@@ -58117,6 +58267,14 @@ entries:
   - motorcykel
   - motorsport
   web: http://karlskogaek.com/
+
+- entry: 1235948500
+  orgName: Akademikerförbundet SSR
+  orgNumber: 802004-1573
+  comment: null
+  categories:
+  - förbund
+  web: https://akademssr.se/
 
 - entry: 1235948633
   orgName: Stockholms Cykelförbund
@@ -64263,6 +64421,14 @@ entries:
   - orienteringsklubb
   web: https://www.laget.se/OKGrip/
 
+- entry: 1236649362
+  orgName: Carl Johans pastorat
+  orgNumber: 252004-8980
+  comment: Teckenspråkig verksamhet
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/carl-johans-pastorat
+
 - entry: 1236652895
   orgName: Svenska Röda Korset
   orgNumber: 802002-8711
@@ -64278,6 +64444,17 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/spf-seniorerna-aseda-notteback/
+
+- entry: 1236654479
+  orgName: Svenska Aikidoförbundet
+  orgNumber: 802449-6120
+  comment: null
+  categories:
+  - aikido
+  - förbund
+  - kampsport
+  - ki-aikido
+  web: https://www.svenskaikido.se/
 
 - entry: 1236660088
   orgName: Örträskbygdens Intresse- & Hembygdsförening
@@ -65109,6 +65286,7 @@ entries:
   comment: null
   categories:
   - förbund
+  - insamling
   - journalistik
   web: https://www.sjf.se/
 
@@ -69328,6 +69506,7 @@ entries:
   orgNumber: 802010-4504
   comment: null
   categories:
+  - insamling
   - insamlingskontroll
   web: https://www.celiaki.se/
 
@@ -70876,6 +71055,7 @@ entries:
   comment: null
   categories:
   - donation
+  - insamling
   - insamlingskontroll
   web: https://www.reportrarutangranser.se/
 
@@ -72709,6 +72889,7 @@ entries:
   comment: null
   categories:
   - godkänd gåvomottagare
+  - insamling
   - insamlingskontroll
   web: https://www.reningsborg.se/
 
@@ -74286,6 +74467,7 @@ entries:
   - donation
   - forskning
   - godkänd gåvomottagare
+  - insamling
   - insamlingskontroll
   web: https://www.ssmf.se/
 
