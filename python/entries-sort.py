@@ -53,7 +53,22 @@ def readYAML(filepath):
 
   return data
 
+def fulltrim(data):
+
+  # Strip leading spaces
+  data = re.sub(r"^\s{1,}", "", str(data))
+
+  # Strip trailing spaces
+  data = re.sub(r"\s{1,}$", "", str(data))
+
+  # Strip double spaces within strings
+  data = re.sub(r"\s{2,}", " ", str(data))
+
+  return data
+
 def cloneVO(valueObject):
+  
+  # Template ValueObject
   vo = {
     'entry': None,
     'orgName': None,
@@ -63,6 +78,7 @@ def cloneVO(valueObject):
     'web': None
   }
 
+  # Read and assign into new VO if present
   if valueObject['entry'] != None:
     vo['entry'] = valueObject['entry']
 
@@ -123,10 +139,10 @@ def main():
         dest_dict['entries'].append(cloneVO(vo))
         break
 
-
+  # Count entries
   dest_dict_count = len(dest_dict['entries'])
   print(f"\tWriting {dest_dict_count} entries")
-  print(f"Writing destination YAML: {YAML_DEST_FILE} ..")
+  print(f"Writing destination YAML: {YAML_SOURCE_FILE} ..")
   writeYAML(YAML_SOURCE_FILE, dest_dict)
   print("Done")
 
