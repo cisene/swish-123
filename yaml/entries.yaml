@@ -6535,6 +6535,14 @@ entries:
   - butikshandel
   web: http://www.sakurablomsterhandel.se/
 
+- entry: 1230628420
+  orgName: Gnesta Scoutkår
+  orgNumber: 802526-5581
+  comment: null
+  categories:
+  - scoutkår
+  web: https://gnesta.scout.se/
+
 - entry: 1230630194
   orgName: Disability Rights Defenders Sweden, DRDS
   orgNumber: 802495-0068
@@ -9342,10 +9350,9 @@ entries:
 - entry: 1230878439
   orgName: Borgenkyrkan Ung i Tierp
   orgNumber: 817300-4543
-  comment: null
+  comment: Ungdomssektionen
   categories:
   - religion
-  - ungdomsverksamhet
   web: https://borgenkyrkan.se/
 
 - entry: 1230878629
@@ -11859,6 +11866,14 @@ entries:
   - hjälporganisation
   web: https://fikk.se/
 
+- entry: 1231127876
+  orgName: Barnens Ambassad
+  orgNumber: 802427-8585
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://barnensambassad.se/
+
 - entry: 1231131119
   orgName: Föreningen Sesam
   orgNumber: 802439-8474
@@ -13650,6 +13665,13 @@ entries:
   - hembygdsförening
   web: https://www.sammakko.info/
 
+- entry: 1231277417
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1231277912
   orgName: PRO Handen
   orgNumber: 812401-1787
@@ -13928,6 +13950,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://hullsjon.se/
+
+- entry: 1231304443
+  orgName: Furulunds församling
+  orgNumber: 252004-8220
+  comment: Fairtrade Furulund
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
 
 - entry: 1231304500
   orgName: null
@@ -15339,6 +15369,13 @@ entries:
   - konstförening
   web: https://artie.se/
 
+- entry: 1231453042
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1231456847
   orgName: PRO Sofia
   orgNumber: 802015-2099
@@ -16571,6 +16608,14 @@ entries:
   categories:
   - religion
   web: https://www.fralsningsarmen.se/karlstad
+
+- entry: 1231551571
+  orgName: Maranata Församlingen
+  orgNumber: 802006-0433
+  comment: null
+  categories:
+  - religion
+  web: https://maranata.se/
 
 - entry: 1231552074
   orgName: Norra Taxklubben
@@ -18454,6 +18499,14 @@ entries:
   - djurvård
   web: https://www.djurskyddet.se/landskrona/
 
+- entry: 1231726728
+  orgName: Partille församling
+  orgNumber: 252001-4453
+  comment: Fika i Partille församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
+
 - entry: 1231727247
   orgName: Djupadals Scoutkår
   orgNumber: 846002-5078
@@ -19792,6 +19845,15 @@ entries:
   - golfbana
   - golfklubb
   web: https://www.ljgk.se/
+
+- entry: 1231848173
+  orgName: Insamlingsstiftelsen Blåljus i Samverkan
+  orgNumber: 802513-8150
+  comment: null
+  categories:
+  - insamling
+  - stiftelse
+  web: https://www.blaljusisamverkan.se/
 
 - entry: 1231849173
   orgName: Insamlingsstiftelsen Blåljus i Samverkan
@@ -23638,6 +23700,14 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/kalvsviks/
 
+- entry: 1232257160
+  orgName: Partille församling
+  orgNumber: 252001-4453
+  comment: Fairtrade Partille
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
+
 - entry: 1232257186
   orgName: Ydrefors Samhällsförening
   orgNumber: 822001-9734
@@ -26108,6 +26178,14 @@ entries:
   - kulturförening
   web: http://www.indiadack.net/
 
+- entry: 1232526671
+  orgName: Sävedalens församling
+  orgNumber: 252001-4446
+  comment: Fika i Sävedalens församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
+
 - entry: 1232526846
   orgName: Qjouren Väst
   orgNumber: 802497-9612
@@ -26381,11 +26459,12 @@ entries:
   web: https://childrenwithlove.com/
 
 - entry: 1232563344
-  orgName: null
-  orgNumber: null
+  orgName: Pingstförsamlingen Eskilstuna
+  orgNumber: 818000-0815
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: http://pingsteskilstunaweb.se/
 
 - entry: 1232564631
   orgName: Svensks Röda Korset Nordingråkreten
@@ -26828,6 +26907,13 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/ifvaster/
+
+- entry: 1232604098
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1232604973
   orgName: För-Festivalen / Alla ska få mat
@@ -30205,6 +30291,14 @@ entries:
   - religion
   web: https://www.katolskajonkoping.com/historia-grabroderna
 
+- entry: 1232917482
+  orgName: Sävedalens församling
+  orgNumber: 252001-4446
+  comment: Ungdomsverksamhet Sävedalens församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
+
 - entry: 1232918118
   orgName: HSB Bostadsrättsförening Fågelsången i Helsingborg
   orgNumber: 716407-1743
@@ -32681,6 +32775,7 @@ entries:
   comment: Katastroffond
   categories:
   - hjälporganisation
+  - insamling
   web: https://sos-barnbyar.se/
 
 - entry: 1233200722
@@ -32842,6 +32937,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegardarna.se/fagerasen/
+
+- entry: 1233213618
+  orgName: Sävedalens församling
+  orgNumber: 252001-4446
+  comment: Fairtrade Sävedalen
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
 
 - entry: 1233214327
   orgName: Elsas Blommor i Östercentrum
@@ -37176,6 +37279,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/guldstaden/
 
+- entry: 1233632551
+  orgName: Partille församling
+  orgNumber: 252001-4453
+  comment: Ungdomsverksamhet Partille församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
+
 - entry: 1233632627
   orgName: Torsten Renqvist Sällskapet
   orgNumber: 802492-2083
@@ -38162,6 +38273,13 @@ entries:
   - bastukultur
   web: null
 
+- entry: 1233761368
+  orgName: Sportstiming
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1233770146
   orgName: EFS Västerbotten
   orgNumber: 894000-2952
@@ -38894,6 +39012,14 @@ entries:
   categories:
   - idrottsförening
   web: https://vidablick.org/
+
+- entry: 1233850732
+  orgName: Furulunds församling
+  orgNumber: 252004-8220
+  comment: Ungdomsverksamhet Furulunds församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
 
 - entry: 1233851151
   orgName: Svenska Danssportförbundet
@@ -42227,6 +42353,14 @@ entries:
   - idrottsförening
   web: https://karlskronabk.wordpress.com/
 
+- entry: 1234203352
+  orgName: Sävedalens församling
+  orgNumber: 252001-4446
+  comment: Barnverksamhet Sävedalens församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
+
 - entry: 1234203535
   orgName: Skellefteå Makerspace
   orgNumber: 802498-4315
@@ -42438,6 +42572,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hemsjobygden.se/
+
+- entry: 1234226874
+  orgName: Partille församling
+  orgNumber: 252001-4453
+  comment: Barnverksamhet Partille församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
 
 - entry: 1234228284
   orgName: Formcraft / Marianne Ljungström
@@ -44271,6 +44413,14 @@ entries:
   - idrottsförening
   web: null
 
+- entry: 1234424289
+  orgName: Furulunds församling
+  orgNumber: 252004-8220
+  comment: Fika i Furulunds församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
+
 - entry: 1234424768
   orgName: Equmenia Älvsjö
   orgNumber: 802011-0592
@@ -44754,6 +44904,14 @@ entries:
   - försvarsorganisation
   - riksförbund
   web: https://flottansman.se/stockholm/
+
+- entry: 1234492559
+  orgName: Furulunds församling
+  orgNumber: 252004-8220
+  comment: Barnverksamhet Furulunds församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
 
 - entry: 1234492682
   orgName: Strömsholms Kanalaktiebolag
@@ -47510,6 +47668,14 @@ entries:
   - bowlingklubb
   - pensionärsklubb
   web: https://www.kopingspb.se/
+
+- entry: 1234809745
+  orgName: Sävedalens församling
+  orgNumber: 252001-4446
+  comment: Kollekt i Ansgarskyrkan
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
 
 - entry: 1234809984
   orgName: Tidningen Arbetaren
@@ -50725,6 +50891,22 @@ entries:
   categories:
   - lionsklubb
   web: http://www.uppsala.lions.se/
+
+- entry: 1235148762
+  orgName: Sävedalens församling
+  orgNumber: 252001-4446
+  comment: Kollekt i Sävedalens kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
+
+- entry: 1235148770
+  orgName: Partille församling
+  orgNumber: 252001-4453
+  comment: Kollekt i Jonsereds kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
 
 - entry: 1235149182
   orgName: Abisko Intresseförening
@@ -58713,6 +58895,14 @@ entries:
   - hembygdsförening
   web: https://runmaro.org/
 
+- entry: 1235978259
+  orgName: Partille församling
+  orgNumber: 252001-4453
+  comment: Kollekt i Partille kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
+
 - entry: 1235978424
   orgName: Vägpress AB/Tidningen Proffs
   orgNumber: 556597-5744
@@ -60536,6 +60726,14 @@ entries:
   - lionsklubb
   web: https://e-clubhouse.org/sites/ljugarn/
 
+- entry: 1236178818
+  orgName: Refugees Welcome Uppsala
+  orgNumber: 802500-5078
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://refugeeswelcomeuppsaladotcom.wordpress.com/
+
 - entry: 1236178826
   orgName: Gävle Ju-Jutsu
   orgNumber: 885001-1704
@@ -60782,6 +60980,13 @@ entries:
   - djurskydd
   - djurvård
   web: https://milanipro.org/
+
+- entry: 1236203046
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1236203640
   orgName: Hembygdsföreningen Skarke-Varnhem
@@ -63764,6 +63969,14 @@ entries:
   - grus
   - sand
   web: https://www.snabbgrus.se/
+
+- entry: 1236522197
+  orgName: Furulunds församling
+  orgNumber: 252004-8220
+  comment: Kollekt i Öjersjökyrkan
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
 
 - entry: 1236522296
   orgName: Qjouren
@@ -66789,6 +67002,18 @@ entries:
   - gymnastikförening
   web: https://engelholmsgymnasterna.sportadmin.se/
 
+- entry: 1236870224
+  orgName: Timmermansorden
+  orgNumber: 802012-9089
+  comment: null
+  categories:
+  - insamling
+  - ordensällskap
+  - religion
+  - stiftelse
+  - välgörenhet
+  web: https://timmermansorden.se/
+
 - entry: 1236870331
   orgName: Makalösa Föräldrar Uppsala
   orgNumber: 802490-1863
@@ -67357,6 +67582,16 @@ entries:
   - orienteringsklubb
   web: https://hallbysok.se/
 
+- entry: 1236929350
+  orgName: Kristna Läkare och Medicinstudenter, KLM, CMDA Sweden
+  orgNumber: 874001-0379
+  comment: null
+  categories:
+  - hjälporganisation
+  - läkarförening
+  - religion
+  web: https://www.kristnalakare.se/
+
 - entry: 1236929459
   orgName: Tingvalla Dans i Åstorp
   orgNumber: 843001-2206
@@ -67698,6 +67933,14 @@ entries:
   categories:
   - religion
   web: https://umea.pingst.se/
+
+- entry: 1236958375
+  orgName: Furulunds församling
+  orgNumber: 252004-8220
+  comment: Kollekt i Furulundskyrkan
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/partille
 
 - entry: 1236959431
   orgName: Österfärnebo RS - Ridsport
@@ -70994,6 +71237,7 @@ entries:
   comment: null
   categories:
   - donation
+  - insamling
   - insamlingskontroll
   - stiftelse
   web: https://www.insamlingsstiftelsen.se/
@@ -73361,6 +73605,7 @@ entries:
   orgNumber: 802539-4035
   comment: null
   categories:
+  - insamling
   - insamlingskontroll
   - religion
   web: https://www.adra.se/
