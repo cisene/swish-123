@@ -8416,6 +8416,14 @@ entries:
   - kvinnojour
   web: https://hedemorakvinnojour.se/
 
+- entry: 1230800193
+  orgName: Equmeniakyrkan Vårgårdabygden
+  orgNumber: 802447-5603
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkan.se/vargardabygden/
+
 - entry: 1230801225
   orgName: Autoklar Trafikskola
   orgNumber: 556962-9495
@@ -13399,6 +13407,15 @@ entries:
   - restaurant
   - salladsbar
   web: https://www.goodgreen.se/
+
+- entry: 1231243807
+  orgName: KFUM Central
+  orgNumber: 802004-9352
+  comment: null
+  categories:
+  - religion
+  - ungdomsverksamhet
+  web: https://kfumcentral.se/
 
 - entry: 1231244185
   orgName: Brandhjärtans Insamlingsstiftelse
@@ -22956,6 +22973,15 @@ entries:
   - förening
   web: https://www.gryt.se/
 
+- entry: 1232192896
+  orgName: Östgruppen
+  orgNumber: 802423-0172
+  comment: null
+  categories:
+  - intresseförening
+  - opinionsbildning
+  web: https://ostgruppen.se/
+
 - entry: 1232193084
   orgName: Gävle Travsällskap
   orgNumber: 885000-0913
@@ -31060,10 +31086,11 @@ entries:
 - entry: 1233018439
   orgName: Insamlingsstiftelsen Sverige-Ukraina
   orgNumber: 802482-2572
-  comment: null
+  comment: Hjälp till Ukraina
   categories:
   - hjälporganisation
   - insamling
+  - stiftelse
   - ukraina
   web: https://www.sve-ukr.se/
 
@@ -32999,6 +33026,15 @@ entries:
   - konstförening
   - museum
   web: https://aguelimuseet.se/
+
+- entry: 1233218419
+  orgName: Situation Baltikum
+  orgNumber: 802504-6510
+  comment: null
+  categories:
+  - hjälporganisation
+  - intresseförening
+  web: https://www.situationbaltikum.com/
 
 - entry: 1233219730
   orgName: Europeiska Ungdomsparlamentet Sverige, EUP
@@ -37326,6 +37362,15 @@ entries:
   - släpvagnar
   web: https://www.wttrailer.se/
 
+- entry: 1233634276
+  orgName: Svedjeholmskyrkan, Trons Sköld Stiftelsen
+  orgNumber: 889600-8458
+  comment: null
+  categories:
+  - religion
+  - stiftelse
+  web: https://www.svedjeholmskyrkan.se/
+
 - entry: 1233634318
   orgName: Clemensnäs IF
   orgNumber: 894700-5958
@@ -38759,6 +38804,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1233815149
+  orgName: Dybecks Byalag
+  orgNumber: 848001-0647
+  comment: null
+  categories:
+  - byalag
+  web: https://dybecksbyalag.se/
 
 - entry: 1233815206
   orgName: Sundsjö Idrottsförening
@@ -46293,6 +46346,14 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/FBCBOLLNAS/
 
+- entry: 1234641007
+  orgName: Kristet Center Väst
+  orgNumber: 857209-8765
+  comment: null
+  categories:
+  - religion
+  web: https://kcvast.org/
+
 - entry: 1234641171
   orgName: Flens Golfklubb
   orgNumber: 818500-9704
@@ -49730,6 +49791,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1235078761
+  orgName: Streetstar
+  orgNumber: 802433-3398
+  comment: null
+  categories:
+  - dansförening
+  - intresseförening
+  web: https://streetstar.se/
 
 - entry: 1235079751
   orgName: Tågarps Trädgård
@@ -53593,7 +53663,7 @@ entries:
 - entry: 1235419205
   orgName: Rydaholms Frikyrka
   orgNumber: 802454-7682
-  comment: Cafe
+  comment: Café
   categories:
   - religion
   web: http://www.rydaholmsfrikyrka.se/
@@ -54190,6 +54260,15 @@ entries:
   categories:
   - ridskola
   web: https://hastravaganza.se/
+
+- entry: 1235474549
+  orgName: Djurö Konst & Kultur
+  orgNumber: 802410-5895
+  comment: null
+  categories:
+  - konstförening
+  - kulturförening
+  web: https://www.djurokultur.se/
 
 - entry: 1235475389
   orgName: Oppmanna Vånga Bygdegårdsförening
@@ -56907,6 +56986,14 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/CIF/
+
+- entry: 1235763073
+  orgName: Pingstkyrkan Hemse
+  orgNumber: 834000-0721
+  comment: null
+  categories:
+  - religion
+  web: http://hemsepingstkyrka.se/
 
 - entry: 1235763115
   orgName: Stora Mellösa Baptistförsamling
@@ -66860,7 +66947,7 @@ entries:
   web: https://www.annalindhsminnesfond.se/
 
 - entry: 1236837678
-  orgName: Keren Kajemet Sverige
+  orgName: Keren Kajemet Sverige, KKL Israelfonden
   orgNumber: 802403-7502
   comment: null
   categories:
