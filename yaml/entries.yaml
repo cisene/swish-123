@@ -11488,6 +11488,15 @@ entries:
   - religion
   web: http://equmeniakyrkanekenassjon.se/
 
+- entry: 1231067800
+  orgName: Södermalmskyrkans Kristna Skola
+  orgNumber: 802003-3687
+  comment: null
+  categories:
+  - religion
+  - utbildning
+  web: https://www.kristnaskolan.se/
+
 - entry: 1231068741
   orgName: Alfta GIF Handboll
   orgNumber: 886501-3224
@@ -27743,6 +27752,15 @@ entries:
   - fotoklubb
   web: https://www.alingsasfotoklubb.se/
 
+- entry: 1232680064
+  orgName: Bengtssons Smide AB
+  orgNumber: 556141-0340
+  comment: null
+  categories:
+  - försäljning
+  - tillverkning
+  web: https://bengtssonssmide.se/
+
 - entry: 1232680270
   orgName: Kulturföreningen Gösta Johanssons Varv
   orgNumber: 802427-7066
@@ -29569,6 +29587,15 @@ entries:
   - politiskt parti
   web: https://feministisktinitiativ.se/
 
+- entry: 1232824464
+  orgName: Slättmissionens Hjälpande Hand
+  orgNumber: 868401-1235
+  comment: null
+  categories:
+  - hjälporganisation
+  - religion
+  web: https://www.slattmissionenshjalpandehand.se/
+
 - entry: 1232824712
   orgName: Comet Norden AB
   orgNumber: 556224-5034
@@ -29683,6 +29710,14 @@ entries:
   categories:
   - religion
   web: http://www.pingstkvillsfors.se/
+
+- entry: 1232845071
+  orgName: Atomer och Bitar AB
+  orgNumber: 556575-7076
+  comment: Bakom kulisserna
+  categories:
+  - opinionsbildning
+  web: https://atomerochbitar.se/
 
 - entry: 1232845360
   orgName: TeamNorr IT-Partner AB
@@ -38395,6 +38430,14 @@ entries:
   - bastukultur
   web: null
 
+- entry: 1233760477
+  orgName: Röda Korset Landskronabygden
+  orgNumber: 844000-3542
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.rodakorset.se/landskrona
+
 - entry: 1233761368
   orgName: Sportstiming
   orgNumber: null
@@ -39925,6 +39968,14 @@ entries:
   comment: null
   categories: null
   web: null
+
+- entry: 1233900545
+  orgName: Rojalistiska Föreningen
+  orgNumber: 802008-2239
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.rojf.se/
 
 - entry: 1233906377
   orgName: Little Lambs Vänner
@@ -51046,6 +51097,7 @@ entries:
   orgNumber: 802401-6365
   comment: null
   categories:
+  - funktionsvariation
   - stiftelse
   web: https://www.autism.se/om-oss/organisation/stiftelsen-autism/
 
@@ -55099,6 +55151,16 @@ entries:
   categories:
   - religion
   web: https://gredelbykyrkan.se/
+
+- entry: 1235546890
+  orgName: Trosabygdens Trädgårdssällskap
+  orgNumber: 802435-6316
+  comment: null
+  categories:
+  - intresseförening
+  - trädgårdsförening
+  - trädgårdssällskap
+  web: https://trosatradgard.se/
 
 - entry: 1235547468
   orgName: Föreningen Bruksgården
@@ -60477,6 +60539,15 @@ entries:
   - körsång
   web: http://incantus.se/
 
+- entry: 1236143523
+  orgName: Aftonstjärnans Kulturförening
+  orgNumber: 857205-1442
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://aftonstjarnan.se/
+
 - entry: 1236144885
   orgName: Eritreanska Ortodoxa Tewahedo Kyrkan I Skandinavien (koptiska patriarkatet), EOTCS
   orgNumber: 252004-8790
@@ -62255,6 +62326,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/kalmardistriktet/foreningslista/borgholm/
+
+- entry: 1236306179
+  orgName: Värmland mot Kärnkraft
+  orgNumber: 802462-2980
+  comment: null
+  categories:
+  - intresseförening
+  - opinionsbildning
+  web: http://varmlandmotkarnkraft.se/
 
 - entry: 1236310494
   orgName: SjälaGott / Kajsa Sjögren
@@ -69120,6 +69200,7 @@ entries:
   comment: null
   categories:
   - donation
+  - funktionsvariation
   - insamlingskontroll
   web: https://www.myright.se/
 
@@ -74711,6 +74792,7 @@ entries:
   orgNumber: 817602-5198
   comment: null
   categories:
+  - insamling
   - insamlingskontroll
   web: https://www.barnombudet.se/
 
