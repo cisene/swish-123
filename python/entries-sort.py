@@ -83,23 +83,23 @@ def cloneVO(valueObject):
     vo['entry'] = valueObject['entry']
 
   if valueObject['orgName'] != None:
-    vo['orgName'] = valueObject['orgName']
+    vo['orgName'] = fulltrim(valueObject['orgName'])
 
   if valueObject['orgNumber'] != None:
     vo['orgNumber'] = valueObject['orgNumber']
 
   if valueObject['comment'] != None:
-    vo['comment'] = valueObject['comment']
+    vo['comment'] = fulltrim(valueObject['comment'])
 
   if valueObject['web'] != None:
-    vo['web'] = valueObject['web']
+    vo['web'] = fulltrim(valueObject['web'])
 
   if valueObject['categories'] != None:
     if len(valueObject['categories']) > 0:
       categories_list = []
       for cat in valueObject['categories']:
-        if cat not in categories_list:
-          categories_list.append(cat)
+        if fulltrim(cat) not in categories_list:
+          categories_list.append(fulltrim(cat))
       categories_list.sort()
       vo['categories'] = categories_list
 
