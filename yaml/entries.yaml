@@ -3883,11 +3883,12 @@ entries:
   web: http://faif.se/
 
 - entry: 1230368126
-  orgName: null
-  orgNumber: null
+  orgName: Saltsjöbadens Diakonikrets
+  orgNumber: 802409-1582
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/saltsjobaden/saltsjobadens-diakoni
 
 - entry: 1230368241
   orgName: Nordic Deaf Bridge
@@ -5755,13 +5756,13 @@ entries:
   web: https://shows.acast.com/hifhistoria
 
 - entry: 1230530832
-  orgName: null
-  orgNumber: null
+  orgName: Falu Däckservice AB
+  orgNumber: 556626-1417
   comment: null
   categories:
   - insamling
   - ukraina
-  web: null
+  web: https://www.dackpartner.se/falun/falu-dackservice/
 
 - entry: 1230536193
   orgName: Storumans Brukshundklubb
@@ -6364,11 +6365,12 @@ entries:
   web: https://www.svenskakyrkan.se/torsaker
 
 - entry: 1230594788
-  orgName: null
-  orgNumber: null
+  orgName: Norra Nöbbelövs församling
+  orgNumber: 252001-2184
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/lund/nobbelov
 
 - entry: 1230597856
   orgName: Läkaruppropet
@@ -13587,6 +13589,15 @@ entries:
   - serietidningar
   - tecknat
   web: https://www.seriesam.com/
+
+- entry: 1231254366
+  orgName: Konditori Janeling
+  orgNumber: 556593-7199
+  comment: null
+  categories:
+  - café
+  - konditori
+  web: https://janeling.se/
 
 - entry: 1231254416
   orgName: Kvinnojouren Örnsköldsvik
@@ -36969,6 +36980,15 @@ entries:
   - segling
   web: http://www.kvarnviken.com/
 
+- entry: 1233579034
+  orgName: Yoga By Atma, Studio Atma / Atma Nilsson
+  orgNumber: 710123-XXXX
+  comment: null
+  categories:
+  - massage
+  - yoga
+  web: https://www.yogabyatma.se/
+
 - entry: 1233579513
   orgName: Amo handbollsklubb
   orgNumber: 802501-8907
@@ -58311,6 +58331,15 @@ entries:
   - vintersport
   web: https://vasmanvinterarena.se/
 
+- entry: 1235870613
+  orgName: Arboga Södra IF
+  orgNumber: 878500-0194
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.arbogasodra.se/
+
 - entry: 1235871165
   orgName: Ansgariikyrkans Församling
   orgNumber: 826000-0073
@@ -64920,11 +64949,12 @@ entries:
   web: https://fryshuset.se/
 
 - entry: 1236609002
-  orgName: null
-  orgNumber: null
+  orgName: Strövelstorps Församling
+  orgNumber: 252001-0519
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/strovelstorp
 
 - entry: 1236609093
   orgName: Samtal i Trosa / Finkontoret Sverige AB
@@ -65058,11 +65088,12 @@ entries:
   web: https://purusa.nu/
 
 - entry: 1236624654
-  orgName: null
-  orgNumber: null
+  orgName: Åre Församling
+  orgNumber: 252002-4494
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/arepastorat/are-forsamling
 
 - entry: 1236624852
   orgName: Roslagsbro-Vätö Församling
@@ -65427,11 +65458,12 @@ entries:
   web: http://burundihjalpen.se/
 
 - entry: 1236672653
-  orgName: null
-  orgNumber: null
+  orgName: Sandvikensupporters
+  orgNumber: 802468-5730
   comment: null
-  categories: null
-  web: null
+  categories:
+  - supporterklubb
+  web: http://www.sandvikensupporters.se/
 
 - entry: 1236672760
   orgName: Djurö, Möja och Nämdö församling
@@ -65877,11 +65909,12 @@ entries:
   web: https://www.hembygd.se/oregrund
 
 - entry: 1236701460
-  orgName: null
-  orgNumber: null
+  orgName: Vaksala Församling
+  orgNumber: 252000-1617
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/uppsala/vaksala
 
 - entry: 1236701585
   orgName: Vectrum Trafikutbildning / Sindex Trafikutbildning AB
@@ -66262,11 +66295,13 @@ entries:
   web: https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan
 
 - entry: 1236742506
-  orgName: null
-  orgNumber: null
+  orgName: Kangos Kultur- & Ekologiskola
+  orgNumber: 897600-8238
   comment: null
-  categories: null
-  web: null
+  categories:
+  - skola
+  - utbildning
+  web: https://www.kangosskola.se/
 
 - entry: 1236744221
   orgName: SDK Isbjörnarna
@@ -66348,11 +66383,13 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1236754048
-  orgName: null
-  orgNumber: null
+  orgName: Mukti Center / Kenneth Riton
+  orgNumber: 510704-XXXX
   comment: null
-  categories: null
-  web: null
+  categories:
+  - meditation
+  - yoga
+  web: https://www.facebook.com/profile.php?id=100057182721695
 
 - entry: 1236754543
   orgName: Söderfors GoIF
@@ -66587,11 +66624,12 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1236776637
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Botkyrka Församling
+  orgNumber: 252002-9345
+  comment: Botkyrkabarn
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/botkyrka/botkyrkabarn
 
 - entry: 1236776884
   orgName: CTA Import & Service
@@ -67075,11 +67113,12 @@ entries:
   web: https://www.hembygd.se/skogs-hembygdsforening
 
 - entry: 1236814834
-  orgName: null
-  orgNumber: null
+  orgName: Svedala församling
+  orgNumber: 252002-7448
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/svedala
 
 - entry: 1236814842
   orgName: ABC Aktiva Insatser för Människa och Miljö
@@ -67162,11 +67201,12 @@ entries:
   web: https://www.lionsboras.se/
 
 - entry: 1236826036
-  orgName: null
-  orgNumber: null
+  orgName: Förlösa-Kläckeberga Församling
+  orgNumber: 252002-6119
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/forlosa
 
 - entry: 1236826663
   orgName: Brunnsparkskyrkan
