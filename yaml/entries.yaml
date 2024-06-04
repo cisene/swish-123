@@ -34097,8 +34097,8 @@ entries:
   orgNumber: 556898-4016
   comment: null
   categories:
-  - snickeri
   - inredningssnickeri
+  - snickeri
   web: https://www.undersakerssnickeri.se/
 
 - entry: 1233295581
@@ -34324,9 +34324,9 @@ entries:
   orgNumber: 730425-XXXX
   comment: null
   categories:
+  - artist
   - musiker
   - sångare
-  - artist
   web: http://www.mattiasenn.se/
 
 - entry: 1233334661
@@ -35147,11 +35147,12 @@ entries:
   web: https://systrarnasisters.se/
 
 - entry: 1233408861
-  orgName: null
-  orgNumber: null
+  orgName: Mariefreds församling
+  orgNumber: 252000-3274
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/mariefred
 
 - entry: 1233408960
   orgName: Barkåkra Scoutkår
@@ -36143,11 +36144,12 @@ entries:
   web: https://ingturhbf.se/
 
 - entry: 1233504776
-  orgName: null
-  orgNumber: null
+  orgName: Nättraby-Hasslö församling
+  orgNumber: 252004-2215
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/nattrabyhasslo
 
 - entry: 1233505278
   orgName: Föreningen Femörefortet
@@ -36193,11 +36195,12 @@ entries:
   web: https://www.msfk.nu/
 
 - entry: 1233508199
-  orgName: null
-  orgNumber: null
+  orgName: Skallsjö församling
+  orgNumber: 252001-5765
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/skallsjo
 
 - entry: 1233508314
   orgName: Kvinnojouren Olivia
@@ -36323,11 +36326,12 @@ entries:
   web: https://www.orsaridklubb.se/
 
 - entry: 1233514197
-  orgName: null
-  orgNumber: null
+  orgName: Bromma församling
+  orgNumber: 252000-0684
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bromma
 
 - entry: 1233514312
   orgName: Iggesunds IK
@@ -38025,7 +38029,7 @@ entries:
 - entry: 1233669348
   orgName: null
   orgNumber: null
-  comment: null
+  comment: nope
   categories: null
   web: null
 
@@ -38154,11 +38158,12 @@ entries:
   web: https://www.morabk.com/
 
 - entry: 1233699824
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Falkenbergs pastorat
+  orgNumber: 252004-8865
+  comment: Diakoni
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/falkenberg
 
 - entry: 1233699931
   orgName: Överby Ridskola
@@ -38932,11 +38937,12 @@ entries:
   web: https://www.fiahemmet.se/
 
 - entry: 1233796042
-  orgName: null
-  orgNumber: null
+  orgName: Oxelösunds församling
+  orgNumber: 252000-2854
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/oxelosund
 
 - entry: 1233796687
   orgName: Södra Ölands Pastorat
@@ -39330,11 +39336,12 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1233848249
-  orgName: null
-  orgNumber: null
+  orgName: Nyhetsbyrån / Vainar Mediagroup AB
+  orgNumber: 559413-0840
   comment: null
-  categories: null
-  web: null
+  categories:
+  - alternativa media
+  web: https://nyhetsbyran.org/
 
 - entry: 1233848736
   orgName: Mrs Skager Coaching / CCG sports AB
@@ -39700,11 +39707,12 @@ entries:
   web: https://www.sfk-kroken.nu/
 
 - entry: 1233880390
-  orgName: null
-  orgNumber: null
+  orgName: Karlshamns församling
+  orgNumber: 252004-9970
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/karlshamn
 
 - entry: 1233880457
   orgName: Tunabergs Församling
@@ -40114,18 +40122,20 @@ entries:
   web: https://www.skidklubben.se/
 
 - entry: 1233898244
-  orgName: null
-  orgNumber: null
+  orgName: Bromma församling
+  orgNumber: 252000-0684
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bromma
 
 - entry: 1233898350
-  orgName: null
-  orgNumber: null
+  orgName: Hjärnarp-Tåstarp Församling
+  orgNumber: 252002-7752
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/hjarnarp-tastarp
 
 - entry: 1233898962
   orgName: Bröstcancerföreningen Örnsköldsvik
@@ -40159,11 +40169,12 @@ entries:
   web: https://www.ntryggbil.se/
 
 - entry: 1233899986
-  orgName: null
-  orgNumber: null
+  orgName: Karesuando församling
+  orgNumber: 252002-5657
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/karesuando
 
 - entry: 1233900545
   orgName: Rojalistiska Föreningen
@@ -41770,11 +41781,12 @@ entries:
   web: https://www.sjulsmarks-skoterfiske.se/
 
 - entry: 1234105813
-  orgName: null
-  orgNumber: null
+  orgName: S:t Lars församling
+  orgNumber: 252005-0242
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/linkoping/st-lars
 
 - entry: 1234106720
   orgName: Zakrisdal Outdoor Padel AB
@@ -41821,11 +41833,13 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1234114476
-  orgName: null
-  orgNumber: null
+  orgName: Stiftelsen Kyrkans SOS
+  orgNumber: 857207-2455
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  - stiftelse
+  web: https://kyrkanssos.se/
 
 - entry: 1234116364
   orgName: Aga BTK - Bordtennis
@@ -41877,11 +41891,13 @@ entries:
   web: https://www.svenskakyrkan.se/sodraoland
 
 - entry: 1234122677
-  orgName: null
-  orgNumber: null
+  orgName: Vittangi Sportklubb, VSK
+  orgNumber: 897300-0857
   comment: null
-  categories: null
-  web: null
+  categories:
+  - idrottsförening
+  - sportklubb
+  web: https://vittangisportklubb.se/
 
 - entry: 1234123014
   orgName: Jönköpings Fältrittklubb
