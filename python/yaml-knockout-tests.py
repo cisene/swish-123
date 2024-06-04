@@ -261,7 +261,6 @@ def testEntries(entries):
           if entryVO['categories'] != None:
             for category in entryVO['categories']:
               if category in ['overifierad', 'retired', 'suspended', 'terminated', 'unverified']:
-                #print(f"{entryVO['entry']} had {category} .. skipped")
                 skip_tests = True
                 continue
 
