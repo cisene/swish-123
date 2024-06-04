@@ -16079,11 +16079,12 @@ entries:
   web: https://www.hasjogarden.se/
 
 - entry: 1231482694
-  orgName: null
-  orgNumber: null
+  orgName: Almby Församling
+  orgNumber: 252002-1391
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/almby
 
 - entry: 1231483783
   orgName: Z-Bataljonen
@@ -16866,11 +16867,12 @@ entries:
   web: https://www.srk.se/
 
 - entry: 1231555705
-  orgName: null
-  orgNumber: null
+  orgName: Kristinehamns Pastorat
+  orgNumber: 252003-1416
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/kristinehamn
 
 - entry: 1231555911
   orgName: Kiruna AIF Ishockey
@@ -17275,11 +17277,12 @@ entries:
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-vittsjo/
 
 - entry: 1231584945
-  orgName: null
-  orgNumber: null
+  orgName: Övertorneå församling
+  orgNumber: 252004-0607
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/overtornea-forsamling
 
 - entry: 1231586775
   orgName: Nävsjöns Sportfiskeklubb
@@ -20119,7 +20122,7 @@ entries:
 - entry: 1231869585
   orgName: null
   orgNumber: null
-  comment: null
+  comment: nope
   categories: null
   web: null
 
@@ -20774,18 +20777,20 @@ entries:
   web: https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-seniorerna-bankeryd/
 
 - entry: 1231941863
-  orgName: null
-  orgNumber: null
+  orgName: Övertorneå församlings vänner
+  orgNumber: 802543-9228
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/overtornea/overtornea-forsamlings-vanner-
 
 - entry: 1231950724
-  orgName: null
-  orgNumber: null
+  orgName: Börrums Bygdegårdsförening
+  orgNumber: 825002-2533
   comment: null
-  categories: null
-  web: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/borrum/
 
 - entry: 1231951136
   orgName: Breviksstiftelsen
@@ -23851,7 +23856,7 @@ entries:
 - entry: 1232253383
   orgName: null
   orgNumber: null
-  comment: null
+  comment: nope
   categories: null
   web: null
 
@@ -24477,7 +24482,7 @@ entries:
 - entry: 1232301760
   orgName: null
   orgNumber: null
-  comment: null
+  comment: nope
   categories: null
   web: null
 
@@ -26082,11 +26087,12 @@ entries:
   web: https://www.staffanstrafikskola.se/
 
 - entry: 1232455392
-  orgName: null
-  orgNumber: null
+  orgName: Mora församling
+  orgNumber: 252004-2496
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/mora
 
 - entry: 1232455996
   orgName: Onsala Hembygdsgille
@@ -26698,7 +26704,7 @@ entries:
 - entry: 1232567543
   orgName: null
   orgNumber: null
-  comment: null
+  comment: nope
   categories: null
   web: null
 
@@ -27114,11 +27120,13 @@ entries:
   web: https://www.svenskalag.se/ifvaster/
 
 - entry: 1232604098
-  orgName: null
-  orgNumber: null
+  orgName: Sverige för UNHCR
+  orgNumber: 802426-1250
   comment: null
-  categories: null
-  web: null
+  categories:
+  - hjälporganisation
+  - insamling
+  web: https://www.sverigeforunhcr.se/
 
 - entry: 1232604973
   orgName: För-Festivalen / Alla ska få mat
@@ -27351,11 +27359,12 @@ entries:
   web: https://www.ndugu.org/
 
 - entry: 1232633097
-  orgName: null
-  orgNumber: null
+  orgName: Bergsjö församling
+  orgNumber: 252004-7396
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bergsjo
 
 - entry: 1232633832
   orgName: Ljungskile RK - Ridsport
@@ -27436,11 +27445,12 @@ entries:
   web: https://www.cannstaff.se/
 
 - entry: 1232637395
-  orgName: null
-  orgNumber: null
+  orgName: Skepplanda pastorat
+  orgNumber: 252003-6555
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/skepplanda
 
 - entry: 1232638278
   orgName: Kyrkhults Scoutkår
@@ -28169,11 +28179,12 @@ entries:
   web: https://rotarykatrineholm.se/
 
 - entry: 1232697936
-  orgName: null
-  orgNumber: null
+  orgName: Sankt Peters klosters församling
+  orgNumber: 252003-5086
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/lund/sanktpeterskloster
 
 - entry: 1232698025
   orgName: Dorotea IF
@@ -28329,10 +28340,12 @@ entries:
   web: https://www.svenskakyrkan.se/bengtsfors/torrskogs-kyrka
 
 - entry: 1232707792
-  orgName: null
-  orgNumber: null
+  orgName: Johnny Sorman Music / Johnny Sörman
+  orgNumber: 641029-XXXX
   comment: null
-  categories: null
+  categories:
+  - musiker
+  - underhållning
   web: https://www.johnnysormanmusic.se/
 
 - entry: 1232708568
@@ -28692,11 +28705,12 @@ entries:
   web: https://www.halmstad.pingst.se/
 
 - entry: 1232725547
-  orgName: null
-  orgNumber: null
+  orgName: Åker-Länna församling
+  orgNumber: 252002-7133
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/aker-lanna
 
 - entry: 1232736619
   orgName: Extinction Rebellion (XR) / Föreningen för Hållbar Framtid
@@ -29482,11 +29496,12 @@ entries:
   web: https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/filbyterlinkoping/
 
 - entry: 1232811172
-  orgName: null
-  orgNumber: null
+  orgName: Idre-Särna församling
+  orgNumber: 252004-2504
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/idre-sarna
 
 - entry: 1232811198
   orgName: Gårdakvarnen
@@ -29918,11 +29933,12 @@ entries:
   web: https://www.kumlabk.se/
 
 - entry: 1232862092
-  orgName: null
-  orgNumber: null
+  orgName: Högalids församling
+  orgNumber: 252000-0601
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/hogalid
 
 - entry: 1232862308
   orgName: Ungdomens Hus / Ystads Kommun
@@ -31995,11 +32011,13 @@ entries:
   web: https://www.balstaridskola.se/
 
 - entry: 1233072196
-  orgName: null
-  orgNumber: null
+  orgName: Stadsmagasinet Oskarshamn / Krepart AB
+  orgNumber: 556649-6948
   comment: null
-  categories: null
-  web: null
+  categories:
+  - lokaltidning
+  - mediaproduktion
+  web: https://www.stadsmagasinetoskarshamn.se/
 
 - entry: 1233072873
   orgName: Judisk Enhet
@@ -32296,11 +32314,12 @@ entries:
   web: https://www.raddabarnen-uppsala.se/
 
 - entry: 1233115730
-  orgName: null
-  orgNumber: null
+  orgName: Rudskoga Församling
+  orgNumber: 252002-0831
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/kristinehamn
 
 - entry: 1233115896
   orgName: Sjöbo Golfklubb
@@ -32401,11 +32420,12 @@ entries:
   web: https://ccclub.se/
 
 - entry: 1233125051
-  orgName: null
-  orgNumber: null
-  comment: Hyssnaleden
-  categories: null
-  web: null
+  orgName: Hyssna Hembygdsförening
+  orgNumber: 865000-3745
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/hyssna
 
 - entry: 1233126182
   orgName: Christianstad Frisbee Club
@@ -32607,11 +32627,12 @@ entries:
   web: https://kvinnojourenblenda.se/
 
 - entry: 1233139144
-  orgName: null
-  orgNumber: null
+  orgName: Hässleholms församling
+  orgNumber: 252004-7800
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/hassleholm
 
 - entry: 1233139581
   orgName: Gremo Maskinservice AB
@@ -33618,11 +33639,12 @@ entries:
   web: https://www.restaurangtaiwan.se/
 
 - entry: 1233258852
-  orgName: null
-  orgNumber: null
+  orgName: Linköpings domkyrkopastorat
+  orgNumber: 252003-0228
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/linkoping
 
 - entry: 1233258928
   orgName: PRO Bara
@@ -34071,11 +34093,13 @@ entries:
   web: https://www.fralsningsarmen.se/hisingskaren/
 
 - entry: 1233294972
-  orgName: null
-  orgNumber: null
+  orgName: Undersåkers Snickeri
+  orgNumber: 556898-4016
   comment: null
-  categories: null
-  web: null
+  categories:
+  - snickeri
+  - inredningssnickeri
+  web: https://www.undersakerssnickeri.se/
 
 - entry: 1233295581
   orgName: AIK Handboll
@@ -34296,11 +34320,14 @@ entries:
   web: https://www.friendsofmio.com/
 
 - entry: 1233334331
-  orgName: null
-  orgNumber: null
+  orgName: Mattias Enn - Estradör och Sångare
+  orgNumber: 730425-XXXX
   comment: null
-  categories: null
-  web: null
+  categories:
+  - musiker
+  - sångare
+  - artist
+  web: http://www.mattiasenn.se/
 
 - entry: 1233334661
   orgName: Wellness 4 Life Sweden AB
