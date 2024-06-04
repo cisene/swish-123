@@ -7764,6 +7764,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/roslagens-ostra-pastorat/blido-forsamling
 
+- entry: 1230741991
+  orgName: Örgryte pastorat
+  orgNumber: 252004-8774
+  comment: Kollekt Örgryte Gamla Kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orgryte
+
 - entry: 1230742171
   orgName: Stora Tuna och Torsångs pastorat
   orgNumber: 252003-4287
@@ -57811,7 +57819,7 @@ entries:
 - entry: 1235786215
   orgName: Örgryte pastorat
   orgNumber: 252004-8774
-  comment: null
+  comment: Kollekt Örgryte Nya Kyrka
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orgryte
@@ -57871,11 +57879,12 @@ entries:
   web: https://afs.se/
 
 - entry: 1235789003
-  orgName: null
-  orgNumber: null
+  orgName: Degeberga-Everöds församling
+  orgNumber: 252004-7750
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/degeberga-everod
 
 - entry: 1235789250
   orgName: Föreningen Altunagården
@@ -57929,11 +57938,12 @@ entries:
   web: https://www.vetlandagk.com/
 
 - entry: 1235792429
-  orgName: null
-  orgNumber: null
+  orgName: EFS Norrfjärden
+  orgNumber: 898800-0207
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.efsnorrfjarden.se/
 
 - entry: 1235792635
   orgName: Kanalkyrkans Församling i Sandviken
@@ -58510,7 +58520,7 @@ entries:
 - entry: 1235860077
   orgName: null
   orgNumber: null
-  comment: null
+  comment: nope
   categories: null
   web: null
 
@@ -59361,11 +59371,12 @@ entries:
   web: https://skinnsbergsak.se/
 
 - entry: 1235953419
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Örgryte pastorat
+  orgNumber: 252004-8774
+  comment: kollekt Skårs kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orgryte
 
 - entry: 1235953492
   orgName: PRO Bälinge
@@ -59490,13 +59501,13 @@ entries:
   web: https://sbk-ovik.se/
 
 - entry: 1235972757
-  orgName: null
+  orgName: Quartermaster For Ukraine
   orgNumber: null
   comment: null
   categories:
   - insamling
   - ukraina
-  web: null
+  web: https://www.facebook.com/profile.php?id=61556193608926
 
 - entry: 1235976212
   orgName: Team Rynkeby
@@ -59809,11 +59820,12 @@ entries:
   web: https://www.jonkopingsfaltrittklubb.se/
 
 - entry: 1236013379
-  orgName: null
-  orgNumber: null
+  orgName: Sunnersbergs församling
+  orgNumber: 252002-6911
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/sunnersberg
 
 - entry: 1236013452
   orgName: Vingåkers RF
@@ -60640,11 +60652,14 @@ entries:
   web: https://lions.sjobo.nu/
 
 - entry: 1236106769
-  orgName: null
+  orgName: Torsåkersrevyn
   orgNumber: null
   comment: null
-  categories: null
-  web: null
+  categories:
+  - kulturförening
+  - revy
+  - teater
+  web: https://www.facebook.com/torsakersrevyn
 
 - entry: 1236107296
   orgName: Team Rynkeby
@@ -61637,11 +61652,12 @@ entries:
   web: https://milanipro.org/
 
 - entry: 1236203046
-  orgName: null
+  orgName: Göteborgs domkyrkoförsamling
   orgNumber: null
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/gbgdomkyrko
 
 - entry: 1236203640
   orgName: Hembygdsföreningen Skarke-Varnhem
