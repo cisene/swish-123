@@ -1415,6 +1415,14 @@ entries:
   - apotek
   web: https://www.husapoteket.eu/
 
+- entry: 1230132290
+  orgName: Ryds scoutkår
+  orgNumber: 802454-3970
+  comment: null
+  categories:
+  - scoutkår
+  web: https://ryd.scout.se/
+
 - entry: 1230134486
   orgName: Donnez Orkester AB
   orgNumber: 556815-5666
@@ -1618,6 +1626,14 @@ entries:
   - parkinson
   - patientförening
   web: https://www.parkinsonforbundet.se/haer-finns-vi/parkinson-norrbotten/
+
+- entry: 1230160952
+  orgName: Svenljunga scoutkår
+  orgNumber: 865000-7431
+  comment: null
+  categories:
+  - scoutkår
+  web: https://svenljunga.scout.se/
 
 - entry: 1230166769
   orgName: SPF Seniorerna Ringstorp Helsingborg
@@ -16636,7 +16652,6 @@ entries:
   orgNumber: 802007-1331
   comment: null
   categories:
-  - intresseförening
   - scoutkår
   web: https://vikingarna.scout.se/
 
@@ -18947,6 +18962,14 @@ entries:
   - idrottsförening
   web: https://idrottonline.se/KlubbEnergi-Traningforalla-Gymnastik/
 
+- entry: 1231745470
+  orgName: Veberöds scoutkår
+  orgNumber: 845001-3175
+  comment: null
+  categories:
+  - scoutkår
+  web: https://veberod.scout.se/
+
 - entry: 1231745918
   orgName: Göteborgs Stigcyklister
   orgNumber: 802476-0509
@@ -20046,6 +20069,14 @@ entries:
   - stiftelse
   web: https://www.blaljusisamverkan.se/
 
+- entry: 1231849033
+  orgName: Mörrums Scoutkår
+  orgNumber: 836200-5616
+  comment: null
+  categories:
+  - scoutkår
+  web: https://morrum.scout.se/
+
 - entry: 1231849173
   orgName: Insamlingsstiftelsen Blåljus i Samverkan
   orgNumber: 802513-8150
@@ -20072,6 +20103,14 @@ entries:
   - konst
   - konstnär
   web: https://vincentoebba.se/
+
+- entry: 1231850601
+  orgName: Älvsjö Scoutkår
+  orgNumber: 802008-6248
+  comment: null
+  categories:
+  - scoutkår
+  web: https://alvsjo.scout.se/
 
 - entry: 1231854223
   orgName: Västerås Trafikskola
@@ -33038,6 +33077,14 @@ entries:
   - bygdegårdsförening
   web: http://www.bredsel.se/
 
+- entry: 1233200201
+  orgName: Vedums Scoutkårs Föräldraförening
+  orgNumber: 868401-0088
+  comment: null
+  categories:
+  - scoutkår
+  web: https://vedum.scout.se/
+
 - entry: 1233200250
   orgName: Lions Club Hedemora
   orgNumber: 982000-2260
@@ -34883,6 +34930,14 @@ entries:
   categories:
   - supporterklubb
   web: https://www.eastfront.se/
+
+- entry: 1233383643
+  orgName: Färingsö Sjöscoutkår
+  orgNumber: 815200-6675
+  comment: null
+  categories:
+  - scoutkår
+  web: https://faringso.scout.se/
 
 - entry: 1233384062
   orgName: Svenska Hundklubben Västerås
@@ -44374,6 +44429,14 @@ entries:
   - golfklubb
   web: https://lackogk.se/
 
+- entry: 1234391405
+  orgName: Rättviks Scoutkår
+  orgNumber: 883200-6822
+  comment: null
+  categories:
+  - scoutkår
+  web: https://rattvik.scout.se/
+
 - entry: 1234391983
   orgName: Vasatorps Golfklubb
   orgNumber: 843000-7990
@@ -51535,6 +51598,14 @@ entries:
   - golfklubb
   web: http://www.ullaredfladjegk.se/se/cafe
 
+- entry: 1235160262
+  orgName: Lönneberga-Silverdalens NSF-Scoutkår
+  orgNumber: 802529-9945
+  comment: null
+  categories:
+  - scoutkår
+  web: https://www.nsf.scout.se/karer/lonneberga-silverdalen-scoutkar/
+
 - entry: 1235161229
   orgName: Insamlingsstiftelsen Rewilding Europe - Sweden
   orgNumber: 802480-9967
@@ -54914,6 +54985,14 @@ entries:
   categories:
   - fotvård
   web: http://www.fotdok.se/
+
+- entry: 1235504592
+  orgName: Sanct Botvids Scoutkår
+  orgNumber: 812800-3475
+  comment: null
+  categories:
+  - scoutkår
+  web: https://stb.scout.se/
 
 - entry: 1235508122
   orgName: Harplinge Ridklubb
@@ -59878,6 +59957,14 @@ entries:
   - intresseförening
   web: https://www.facebook.com/bosnanastreba
 
+- entry: 1236015291
+  orgName: Hässelby Scoutkår
+  orgNumber: 802008-5422
+  comment: null
+  categories:
+  - scoutkår
+  web: https://hasselby.scout.se/
+
 - entry: 1236021216
   orgName: Luleå ju-jutsuklubb
   orgNumber: 897001-5809
@@ -61547,6 +61634,14 @@ entries:
   categories:
   - religion
   web: https://www.fjallstugan.se/
+
+- entry: 1236186332
+  orgName: Ausås scoutkår
+  orgNumber: 839400-3647
+  comment: null
+  categories:
+  - scoutkår
+  web: https://ausas.scout.se/
 
 - entry: 1236188247
   orgName: Svenska Djurambulansen
@@ -63917,11 +64012,12 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1236454714
-  orgName: null
-  orgNumber: null
+  orgName: Klöverträsk Bygdegårdsförening
+  orgNumber: 897000-5149
   comment: null
-  categories: null
-  web: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/hitta-bygdegard/klovertrask/
 
 - entry: 1236455182
   orgName: Team Rynkeby
@@ -64615,11 +64711,12 @@ entries:
   web: https://www.svenskakyrkan.se/vargarda/lenaforsamling
 
 - entry: 1236519300
-  orgName: null
-  orgNumber: null
+  orgName: Karlstads Kyrkliga Stadsmission
+  orgNumber: 873200-6823
   comment: null
-  categories: null
-  web: null
+  categories:
+  - religion
+  web: https://karlstadskyrkligastadsmission.se/
 
 - entry: 1236519946
   orgName: Vrigstads IF
@@ -64747,12 +64844,13 @@ entries:
   web: https://bkgavle.se/
 
 - entry: 1236526594
-  orgName: null
-  orgNumber: null
+  orgName: Johannishus SK
+  orgNumber: 835600-3676
   comment: null
   categories:
-  - yoga
-  web: null
+  - idrottsförening
+  - sportklubb
+  web: https://www.johannishussk.se/
 
 - entry: 1236527121
   orgName: Nordvärmlandspodden med Torleif Styffe
@@ -66623,6 +66721,14 @@ entries:
   categories:
   - rotaryklubb
   web: https://goteborg-orgryte.rotary2360.se/
+
+- entry: 1236751978
+  orgName: Gränna Scoutkår
+  orgNumber: 826002-1814
+  comment: null
+  categories:
+  - scoutkår
+  web: https://granna.scout.se/
 
 - entry: 1236752166
   orgName: Riksförbundet HjärtLung Lycksele
@@ -68771,6 +68877,14 @@ entries:
   categories:
   - kvinnojour
   web: https://terrafem.org/om-oss/lokalforeningar/uppsala/
+
+- entry: 1236978084
+  orgName: Husie-Hohögs Scoutkår
+  orgNumber: 846002-7769
+  comment: null
+  categories:
+  - scoutkår
+  web: https://husiehohog.scout.se/
 
 - entry: 1236985543
   orgName: Lymf Sverige
