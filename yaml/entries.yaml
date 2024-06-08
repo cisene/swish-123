@@ -1533,6 +1533,14 @@ entries:
   - religion
   web: https://www.pingstvarberg.se/
 
+- entry: 1230142745
+  orgName: Nordisk Förening för Spädbarns Utveckling, NFSU
+  orgNumber: 802528-2826
+  comment: null
+  categories:
+  - intresseförening
+  web: https://nfsu.org/
+
 - entry: 1230142919
   orgName: Pingstkyrkan Västra Frölunda
   orgNumber: 857200-4094
@@ -10878,6 +10886,13 @@ entries:
   - lokaluthyrning
   web: https://www.millasvilla.se/
 
+- entry: 1230990747
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230991273
   orgName: S:ta Maria Syrisk Ortodoxa Kyrkan i Göteborg
   orgNumber: 802495-4540
@@ -12511,8 +12526,9 @@ entries:
   orgNumber: 802463-7053
   comment: null
   categories:
-  - förening
+  - idrottsförening
   - kampsportsförening
+  - taekwondoklubb
   web: https://wermdotkd.se/
 
 - entry: 1231149764
@@ -17663,7 +17679,7 @@ entries:
   categories:
   - idrottsförening
   - kampsportsförening
-  - taekwondo
+  - taekwondoklubb
   web: https://www.highfivetkd.se/
 
 - entry: 1231602788
@@ -18085,7 +18101,7 @@ entries:
   categories:
   - idrottsförening
   - kampsportsförening
-  - taekwondo
+  - taekwondoklubb
   web: https://www.sporttaekwondo.se/
 
 - entry: 1231629328
@@ -22903,6 +22919,14 @@ entries:
   - konst
   web: https://grafikgruppen.se/
 
+- entry: 1232145886
+  orgName: Sollerö Pensionärsförening
+  orgNumber: 884401-3972
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.solleron.se/sollero-pensionarsforening/
+
 - entry: 1232145977
   orgName: Sjöscoutkåren S:t Göran
   orgNumber: 802007-4756
@@ -26041,6 +26065,7 @@ entries:
   comment: null
   categories:
   - förening
+  - patientförening
   - reumatism
   web: https://stockholm.reumatiker.se/
 
@@ -27894,7 +27919,9 @@ entries:
   orgNumber: 865500-8327
   comment: null
   categories:
+  - idrottsförening
   - kampsportsförening
+  - taekwondoklubb
   web: https://www.hworangi.se/
 
 - entry: 1232639904
@@ -29297,6 +29324,16 @@ entries:
   - sockenförening
   web: https://www.hejde.org/
 
+- entry: 1232758142
+  orgName: Trelleborgs Taekwondo Klubb
+  orgNumber: 802428-6372
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - taekwondoklubb
+  web: https://taekwondotrelleborg.com/
+
 - entry: 1232758233
   orgName: TrafficSec
   orgNumber: 802490-1772
@@ -29830,6 +29867,16 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://skoklosterbygdegard.se/
+
+- entry: 1232801009
+  orgName: Blekinge Släktforskarförening
+  orgNumber: 836201-0764
+  comment: null
+  categories:
+  - genealogi
+  - intresseförening
+  - släktforskning
+  web: https://www.blekingesf.se/
 
 - entry: 1232801314
   orgName: Hemse Bollklubb
@@ -37516,6 +37563,14 @@ entries:
   - travsport
   web: https://www.gotlandsrusstravklubb.com/
 
+- entry: 1233571023
+  orgName: Aktiva Seniorer Gävle
+  orgNumber: 885002-2362
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://gavle.aktivaseniorer.com/
+
 - entry: 1233574100
   orgName: FolkhemsEliten / Oliver Dagnå
   orgNumber: 920730-XXXX
@@ -38054,7 +38109,7 @@ entries:
   categories:
   - idrottsförening
   - kampsportsförening
-  - ki-aikido
+  - ki-aikidoklubb
   web: http://vasteras.ki-aikido.se/
 
 - entry: 1233626777
@@ -38931,6 +38986,16 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/strom
+
+- entry: 1233721131
+  orgName: Enköping Ki Aikido
+  orgNumber: 817606-0955
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - ki-aikidoklubb
+  web: https://enkoping.ki-aikido.se/
 
 - entry: 1233721370
   orgName: Billingebydens Kattklubb
@@ -43467,6 +43532,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/lycka-forsamling
 
+- entry: 1234205365
+  orgName: Vetenskap och Folkbildning, VoF
+  orgNumber: 814800-7068
+  comment: null
+  categories:
+  - folkbildning
+  - ideell förening
+  - utbildning
+  web: https://www.vof.se/
+
 - entry: 1234205696
   orgName: SPF Seniorerna Älvdalen
   orgNumber: 802433-8876
@@ -44658,6 +44733,14 @@ entries:
   - intresseförening
   - makerspace
   web: https://smbmakerspace.se/
+
+- entry: 1234349163
+  orgName: Tekniska Föreningen Pars i Västerås
+  orgNumber: 802453-6057
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.forening.net/
 
 - entry: 1234349197
   orgName: Ljungbyheds Golfklubb
@@ -48654,6 +48737,14 @@ entries:
   - donation
   - stiftelse
   web: https://www.etcpuganda.se/
+
+- entry: 1234768883
+  orgName: Bajen Club Sofia Kulturförening
+  orgNumber: 802538-7906
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://bajenclubsofia.com/
 
 - entry: 1234774378
   orgName: Lions Club Vaxholm
@@ -55591,6 +55682,15 @@ entries:
   - försäljning
   web: https://www.wrpshop.se/
 
+- entry: 1235480231
+  orgName: Filmbyn Småland i Marinnelund / Snickerboa Mariannelund AB
+  orgNumber: 556936-7617
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://filmbyn.se/
+
 - entry: 1235482138
   orgName: Låke 109 AB
   orgNumber: 559297-0619
@@ -57578,6 +57678,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/helsingborg
+
+- entry: 1235681721
+  orgName: Det Norske Samfund
+  orgNumber: 802000-6600
+  comment: null
+  categories:
+  - hemlandsförening
+  web: https://norske-samfund.se/
 
 - entry: 1235682810
   orgName: Haruyama Aikijujutus Budoklubb
@@ -64585,6 +64693,14 @@ entries:
   - bygdegårdsförening
   web: https://gronbo.org/
 
+- entry: 1236418669
+  orgName: Gammeldansens vänner i Jakobsberg, GDV
+  orgNumber: 813200-3511
+  comment: null
+  categories:
+  - dansförening
+  web: http://gdvjakobsberg.one/
+
 - entry: 1236419394
   orgName: Föreningen Nennngesund
   orgNumber: 802430-2153
@@ -65113,6 +65229,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1236483572
+  orgName: Kristianstads Radioamatörer, SK7BQ
+  orgNumber: 802518-4402
+  comment: null
+  categories:
+  - radioamatörer
+  - radioklubb
+  web: https://www.sk7bq.com/
+
 - entry: 1236483952
   orgName: Svensby Fiskevårdsförening
   orgNumber: 898800-3284
@@ -65129,6 +65254,16 @@ entries:
   categories:
   - idrottsförening
   web: https://www.tvaakersif.se/
+
+- entry: 1236484448
+  orgName: Småspararguiden Sverige AB
+  orgNumber: 559033-5526
+  comment: null
+  categories:
+  - ekonomi
+  - rådgivning
+  - utbildning
+  web: https://www.smaspararguiden.se/
 
 - entry: 1236485999
   orgName: SPF Seniorerna Dacke Mjölby
@@ -66586,10 +66721,9 @@ entries:
   orgNumber: 802449-6120
   comment: null
   categories:
-  - aikido
   - idrottsförbund
-  - kampsport
-  - ki-aikido
+  - kampsportsförening
+  - ki-aikidoklubb
   web: https://www.svenskaikido.se/
 
 - entry: 1236660088
@@ -69016,7 +69150,7 @@ entries:
   categories:
   - idrottsförening
   - kampsportsförening
-  - taekwondo
+  - taekwondoklubb
   web: https://www.vasterastaekwondo.se/
 
 - entry: 1236895692
