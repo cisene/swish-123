@@ -66,6 +66,14 @@ def fulltrim(data):
 
   return data
 
+def ReplaceFilter(data):
+
+  data = re.sub(r"\sförsamling$", " Församling", data, flags=re.IGNORECASE)
+  data = re.sub(r"\spastorat$", " Pastorat", data, flags=re.IGNORECASE)
+
+  return data
+
+
 def cloneVO(valueObject):
   
   # Template ValueObject
@@ -83,7 +91,7 @@ def cloneVO(valueObject):
     vo['entry'] = valueObject['entry']
 
   if valueObject['orgName'] != None:
-    vo['orgName'] = fulltrim(valueObject['orgName'])
+    vo['orgName'] = fulltrim(ReplaceFilter(valueObject['orgName']))
 
   if valueObject['orgNumber'] != None:
     vo['orgNumber'] = valueObject['orgNumber']
