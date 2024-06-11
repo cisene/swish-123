@@ -19,12 +19,14 @@ python3 ./entries-to-xml.py
 
 
 # Add to git
-git add ./yaml/entries.yaml
-git add ./json/swish-123-datasource.json
-git add ./text/swish-123-datasource.csv
-git add ./test/swish-123-datasource.tsv
-git add ./xml/swish-123-datasource.xml
+git add ../yaml/entries.yaml
+git add ../json/swish-123-datasource.json
+git add ../text/swish-123-datasource.csv
+git add ../text/swish-123-datasource.tsv
+git add ../xml/swish-123-datasource.xml
 
 git commit -m "Automated commit"
 
 git push
+
+python3 yaml-knockout-tests.py
