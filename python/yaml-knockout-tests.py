@@ -70,7 +70,7 @@ def testPersonUnmasked(data):
 def testFragDay(data):
   result = None
   value = int(data)
-  #print(value)
+
   if value >= 1 and value <= 31:
     result = 'person'
 
@@ -115,9 +115,19 @@ def testIsValidOrgNumber(data):
     if frags != None:
       test_org_type = testFragMonth(frags[1])
       if test_org_type != None:
+
         if test_org_type == 'organisation':
           result['type'] = 'organisation'
           result['subtype'] = 'organisation'
+
+        if test_org_type == 'person':
+          test_person_type = testFragDay(frags[2])
+          if test_person_type == 'person':
+            result['type'] = 'person'
+            result['subtype'] = 'person'
+          else:
+            result['type'] = 'person'
+            result['subtype'] = 'temporary'
 
 
 
@@ -247,6 +257,8 @@ def testEntries(entries):
     'malformed-orgNumber': [],
     'malformed-orgNumberUnmasked': [],
 
+    'malformed-categories-empty': [],
+
     'malformed-web-http': [],
     'malformed-web-missing': [],
   }
@@ -262,10 +274,14 @@ def testEntries(entries):
             for category in entryVO['categories']:
               if category in ['overifierad', 'retired', 'suspended', 'terminated', 'unverified']:
                 skip_tests = True
-                continue
+                # continue
+                break
+          else:
+            result['malformed-categories-empty'].append(entryVO)
 
         if skip_tests == True:
           continue
+
 
         # Detect malformed ValueObjects, missing properties
         malformed_vo = False
