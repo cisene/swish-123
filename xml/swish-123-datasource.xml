@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2024-06-14-rev-184107
+Date: 2024-06-15-rev-003153
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -7124,7 +7124,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1235948633"><organization><number>802008-2486</number><name>Stockholms Cykelförbund</name></organization><comment/><categories><category type="idrottsförbund"/><category type="idrottsförening"/></categories><web>https://stockholmscf.se/</web></entry>
     <entry number="1235949144"><organization><number>882600-2985</number><name>Borlänge Missionsförsamling</name></organization><comment/><categories><category type="religion"/></categories><web>https://www.equmeniakyrkanborlange.se/</web></entry>
     <entry number="1235949516"><organization><number>802014-0144</number><name>Eolshälls 4H-gård</name></organization><comment/><categories><category type="4h"/><category type="djurvård"/><category type="utbildning"/></categories><web>https://www.4h.se/eolshall/</web></entry>
-    <entry number="123595019"><organization><number>893200-9841</number><name>Pilgrimstads IF</name></organization><comment/><categories><category type="gym"/><category type="idrottsförening"/><category type="innebandyklubb"/></categories><web>https://www.svenskalag.se/pilgrimstadsif</web></entry>
+    <entry number="1235950191"><organization><number>893200-9841</number><name>Pilgrimstads IF</name></organization><comment/><categories><category type="gym"/><category type="idrottsförening"/><category type="innebandyklubb"/></categories><web>https://www.svenskalag.se/pilgrimstadsif</web></entry>
     <entry number="1235952106"><organization><number>846000-1509</number><name>Falsterbo Golfklubb</name></organization><comment/><categories><category type="golfbana"/><category type="golfklubb"/></categories><web>http://www.falsterbogk.se/</web></entry>
     <entry number="1235952239"><organization><number>802006-3676</number><name>Sverige-Amerika Stiftelsen</name></organization><comment/><categories><category type="donation"/><category type="stiftelse"/></categories><web>https://sweamfo.se/</web></entry>
     <entry number="1235952494"><organization><number>829500-8968</number><name>Hjortsberga Samhällsförening</name></organization><comment/><categories><category type="samhällsförening"/></categories><web>https://www.hjortsberga.se/</web></entry>

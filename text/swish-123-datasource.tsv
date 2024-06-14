@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-06-14-rev-184101
+# Date: 2024-06-15-rev-003147
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -7124,7 +7124,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235948633	802008-2486	Stockholms Cykelförbund	https://stockholmscf.se/	idrottsförbund,idrottsförening	
 1235949144	882600-2985	Borlänge Missionsförsamling	https://www.equmeniakyrkanborlange.se/	religion	
 1235949516	802014-0144	Eolshälls 4H-gård	https://www.4h.se/eolshall/	4h,djurvård,utbildning	
-123595019	893200-9841	Pilgrimstads IF	https://www.svenskalag.se/pilgrimstadsif	gym,idrottsförening,innebandyklubb	
+1235950191	893200-9841	Pilgrimstads IF	https://www.svenskalag.se/pilgrimstadsif	gym,idrottsförening,innebandyklubb	
 1235952106	846000-1509	Falsterbo Golfklubb	http://www.falsterbogk.se/	golfbana,golfklubb	
 1235952239	802006-3676	Sverige-Amerika Stiftelsen	https://sweamfo.se/	donation,stiftelse	
 1235952494	829500-8968	Hjortsberga Samhällsförening	https://www.hjortsberga.se/	samhällsförening	
