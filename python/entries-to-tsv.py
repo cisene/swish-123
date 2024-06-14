@@ -44,6 +44,12 @@ def readYAML(filepath):
 def flattenList(data):
   return ",".join(data)
 
+def validateEntry(data):
+  result = False
+  if re.search(r"^123(\d{7})$", str(data), flags=re.IGNORECASE):
+    result = True
+
+  return result
 
 def main():
   print(f"Reading source YAML: {YAML_SOURCE_FILE} ..")
@@ -80,6 +86,9 @@ def main():
 
   line_count = 0
   for entryVO in source_dict['entries']:
+    if validateEntry(entryVO['entry']) == False:
+      continue
+
     cats = entryVO['categories']
 
     # Filter categories
