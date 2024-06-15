@@ -53,11 +53,7 @@ def readYAML(filepath):
   return data
 
 def validateEntry(data):
-  result = False
-  if re.search(r"^123(\d{7})$", str(data), flags=re.IGNORECASE):
-    result = True
-
-  return result
+  return re.match(r"^123(\d{7})$", str(data), flags=re.IGNORECASE)
 
 def main():
   print(f"Reading source YAML: {YAML_SOURCE_FILE} ..")
