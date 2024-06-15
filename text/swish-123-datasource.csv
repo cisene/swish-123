@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-06-15-rev-003141
+# Date: 2024-06-15-rev-020512
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4557,6 +4557,7 @@
 "1233647039","769636-9524","Kjula Dragway Ekonomisk förening","https://www.kjuladragway.com/","bilsport",""
 "1233647138","874001-9131","Ransbergs Scoutkår","https://www.nsf.scout.se/karer/ransberg-scoutkar/","scoutkår",""
 "1233648649","802517-9063","Wake me up","https://www.wakemeup.se/","ungdomsverksamhet",""
+"1233648656","802412-7873","Fjällorna - fiskeföreningen för kvinnor","https://www.svenskalag.se/fjallorna","fiskeklubb,sportfiske",""
 "1233648714","802511-3047","Stöttepelaren - Stödförening för Ensamkommande Barn och Ungdomar","https://stottepelaren.se/","intresseförening,juridiska tjänster",""
 "1233648961","802490-8314","Riksförbundet Hjärnkoll","https://hjarnkoll.se/","psykisk hälsa,riksförbund",""
 "1233650538","802459-8495","SPF Seniorerna Björka-Ödåkra","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-bjorka-odakra/","pensionärsklubb",""
@@ -5085,6 +5086,7 @@
 "1234143814","802482-4131","Insamlingsstiftelsen Support For Ukraine","https://supportforukraine.se/","hjälporganisation,insamling,stiftelse,ukraina",""
 "1234149258","894000-1558","Sandviks IK","http://www.sandviksik.se/","idrottsförening","Entre"
 "1234149464","012045-6363","Rökåbygdens Byaförening","https://www.facebook.com/profile.php?id=100064834592245","byalag,hembygdsförening",""
+"1234149613","867200-8466","Habo Wolley","https://www.svenskalag.se/habowolley","beachvolleyballklubb,idrottsförening,volleybollklubb",""
 "1234149696","802463-4324","Scoutkåren Engelbrekt","https://scoutkarenengelbrekt.scout.se/","scoutkår",""
 "1234149811","802438-6941","Limmud Stockholm","https://limmud.se/","intresseorganisation",""
 "1234150819","556729-5802","Reseproducenten Skellefteå AB","http://reseproducenten.com/","researrangör,resebyrå",""
@@ -6245,6 +6247,7 @@
 "1235205588","441119-XXXX","Ted Ström Konst & Musik","https://www.tedstrom.se/","konst,musik,skapande",""
 "1235205711","832000-5062","Källa Hembygdsförening","https://www.hembygd.se/kalla-hembygdsforening","hembygdsförening",""
 "1235206966","802439-4309","SPF Seniorerna Wä Skepparslöv","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/Waskepparslov/","pensionärsklubb",""
+"1235208434","872800-0921","Råda IK","https://www.svenskalag.se/radaik","fotbollsklubb,idrottsförening,skidlöparklubb",""
 "1235208665","802450-3651","SPF Seniorerna Skövde Elin","https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/skovdeelin/","pensionärsklubb",""
 "1235208848","887500-2381","Saronförsamlingen Näsviken","http://nasviken.pingst.se/","religion",""
 "1235209044","824000-8766","Reumatikerföreningen Motala-Vadstena","https://mv.reumatiker.se/","reumatikerförening,reumatism",""
@@ -6395,6 +6398,7 @@
 "1235332150","837001-3057","Farstorps Bygdegårdsförening","http://www.farstorps-bygdegaard.se/","bygdegårdsförening",""
 "1235332846","969785-0742","Grottans blommor","http://grottansblommor.se/","blomarrangemang,blommor",""
 "1235333372","802442-1623","Hammarby IF Ishockeyförening","https://www.hammarbyhockey.se/","idrottsförening,ishockeyklubb","Damlag"
+"1235333380","872800-3552","Uddeholms JSK","https://www.svenskalag.se/uddeholmsjsk","jaktskytteklubb,skytteklubb",""
 "1235334818","916480-5039","Armystuff / Norrbottens Skogsteknik Handelsbolag","https://armystuff.se/","friluftsliv,kläder,utrustning",""
 "1235335088","802533-3421","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Linköping, Vreta kloster skola"
 "1235335336","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Täby, Vibyskolan"

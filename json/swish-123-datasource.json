@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-15-rev-003136",
+    "date": "2024-06-15-rev-020506",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -48751,6 +48751,17 @@
       "web": "https://www.wakemeup.se/"
     },
     {
+      "entry": 1233648656,
+      "orgName": "Fj\u00e4llorna - fiskef\u00f6reningen f\u00f6r kvinnor",
+      "orgNumber": "802412-7873",
+      "comment": null,
+      "categories": [
+        "fiskeklubb",
+        "sportfiske"
+      ],
+      "web": "https://www.svenskalag.se/fjallorna"
+    },
+    {
       "entry": 1233648714,
       "orgName": "St\u00f6ttepelaren - St\u00f6df\u00f6rening f\u00f6r Ensamkommande Barn och Ungdomar",
       "orgNumber": "802511-3047",
@@ -54414,6 +54425,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.facebook.com/profile.php?id=100064834592245"
+    },
+    {
+      "entry": 1234149613,
+      "orgName": "Habo Wolley",
+      "orgNumber": "867200-8466",
+      "comment": null,
+      "categories": [
+        "beachvolleyballklubb",
+        "idrottsf\u00f6rening",
+        "volleybollklubb"
+      ],
+      "web": "https://www.svenskalag.se/habowolley"
     },
     {
       "entry": 1234149696,
@@ -66835,6 +66858,18 @@
       "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/Waskepparslov/"
     },
     {
+      "entry": 1235208434,
+      "orgName": "R\u00e5da IK",
+      "orgNumber": "872800-0921",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.svenskalag.se/radaik"
+    },
+    {
       "entry": 1235208665,
       "orgName": "SPF Seniorerna Sk\u00f6vde Elin",
       "orgNumber": "802450-3651",
@@ -68462,6 +68497,17 @@
         "ishockeyklubb"
       ],
       "web": "https://www.hammarbyhockey.se/"
+    },
+    {
+      "entry": 1235333380,
+      "orgName": "Uddeholms JSK",
+      "orgNumber": "872800-3552",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/uddeholmsjsk"
     },
     {
       "entry": 1235334818,
