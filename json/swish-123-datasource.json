@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-15-rev-020506",
+    "date": "2024-06-15-rev-032224",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13903,6 +13903,17 @@
       "web": "https://www.svenskakyrkan.se/nederlulea"
     },
     {
+      "entry": 1230997445,
+      "orgName": "S\u00e1minuorra",
+      "orgNumber": "897300-2580",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "http://www.saminuorra.org/"
+    },
+    {
       "entry": 1230997585,
       "orgName": "IFK Trelleborg Friidrottsklubb - Friidrott",
       "orgNumber": "802469-5655",
@@ -18327,6 +18338,16 @@
       "web": "https://www.laget.se/ESKF09/"
     },
     {
+      "entry": 1231322361,
+      "orgName": "Lunds Universitet",
+      "orgNumber": "202100-3211",
+      "comment": null,
+      "categories": [
+        "donation"
+      ],
+      "web": "https://www.lu.se/"
+    },
+    {
       "entry": 1231322627,
       "orgName": "Roma Hembygdsf\u00f6rening",
       "orgNumber": "802519-4070",
@@ -20363,6 +20384,16 @@
         "skidor"
       ],
       "web": "https://www.olmstad-is.se/"
+    },
+    {
+      "entry": 1231476167,
+      "orgName": "Kattpensionat Egypten / Egypten Service AB",
+      "orgNumber": "556825-0251",
+      "comment": null,
+      "categories": [
+        "kattpensionat"
+      ],
+      "web": "https://www.kattpensionategypten.se/"
     },
     {
       "entry": 1231476217,
@@ -27122,6 +27153,18 @@
       "web": "https://www.ajrk.se/"
     },
     {
+      "entry": 1231982313,
+      "orgName": "Stiftelsen Eric Sahlstr\u00f6m Institutet",
+      "orgNumber": "817301-5234",
+      "comment": null,
+      "categories": [
+        "institut",
+        "musikkultur",
+        "stiftelse"
+      ],
+      "web": "https://esitobo.org/"
+    },
+    {
       "entry": 1231982446,
       "orgName": "Betelf\u00f6rsamlingen J\u00f6n\u00e5ker",
       "orgNumber": "819000-0086",
@@ -27518,6 +27561,17 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://vasaplan.nu/"
+    },
+    {
+      "entry": 1232022366,
+      "orgName": "Svenska Kryssarklubben",
+      "orgNumber": "857200-9432",
+      "comment": "V\u00e4stkustkretsen",
+      "categories": [
+        "b\u00e5tklubb",
+        "segelklubb"
+      ],
+      "web": "https://sxk.se/vastkustkretsen"
     },
     {
       "entry": 1232022804,
@@ -28239,6 +28293,16 @@
         "orienteringsklubb"
       ],
       "web": "https://www.kilsok.com/"
+    },
+    {
+      "entry": 1232095230,
+      "orgName": "Celiakif\u00f6reningen i Stockholms l\u00e4n",
+      "orgNumber": "802016-4003",
+      "comment": null,
+      "categories": [
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.celiaki.se/foreningar/stockholms-lan/"
     },
     {
       "entry": 1232095313,
@@ -29297,6 +29361,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-kalmar/foreningar/lindsdal.html"
+    },
+    {
+      "entry": 1232165777,
+      "orgName": "Destination Halmstad",
+      "orgNumber": "556650-5227",
+      "comment": null,
+      "categories": [
+        "turistf\u00f6rening"
+      ],
+      "web": "https://www.destinationhalmstad.se/"
     },
     {
       "entry": 1232166585,
@@ -35231,6 +35305,17 @@
       "web": "https://www.svenskakyrkan.se/bergsjo"
     },
     {
+      "entry": 1232633592,
+      "orgName": "Djurskyddet \u00c5sele Katthem Kurrlyan",
+      "orgNumber": "802460-7866",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/asele/"
+    },
+    {
       "entry": 1232633832,
       "orgName": "Ljungskile RK - Ridsport",
       "orgNumber": "858501-0567",
@@ -37254,6 +37339,16 @@
       "web": "http://www.famy.se/"
     },
     {
+      "entry": 1232760080,
+      "orgName": "F\u00f6reningen Norden \u00c4tradalen",
+      "orgNumber": "802511-5505",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://norden.se/atradalen/"
+    },
+    {
       "entry": 1232760833,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
@@ -37915,6 +38010,18 @@
         "tennisklubb"
       ],
       "web": "http://www.sstk.se/"
+    },
+    {
+      "entry": 1232804235,
+      "orgName": "Kattf\u00f6rbundet SVERAK",
+      "orgNumber": "802007-3329",
+      "comment": null,
+      "categories": [
+        "f\u00f6rbund",
+        "kattklubb",
+        "kattuppf\u00f6dning"
+      ],
+      "web": "https://www.sverak.se/"
     },
     {
       "entry": 1232804334,
@@ -43324,6 +43431,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/vasterasskidklubb"
+    },
+    {
+      "entry": 1233261617,
+      "orgName": "Lions Club Skellefte\u00e5",
+      "orgNumber": "894700-5867",
+      "comment": null,
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/skelleftea/index.php"
     },
     {
       "entry": 1233262102,
@@ -67412,6 +67529,7 @@
       "comment": null,
       "categories": [
         "motorcykelklubb",
+        "motorsport",
         "sn\u00f6skoterklubb"
       ],
       "web": "https://www.bmkuddevalla.se/"
@@ -77704,6 +77822,16 @@
       "web": "https://speleo.se/"
     },
     {
+      "entry": 1236084370,
+      "orgName": "Stockholms universitet",
+      "orgNumber": "202100-3062",
+      "comment": "Victoriahuset, Bergianska tr\u00e4dg\u00e5rden",
+      "categories": [
+        "museum"
+      ],
+      "web": "https://www.bergianska.se/i-tr%C3%A4dg%C3%A5rd-och-v%C3%A4xthus/victoriahuset"
+    },
+    {
       "entry": 1236085120,
       "orgName": "\u00d6den\u00e4s IF",
       "orgNumber": "864000-2476",
@@ -77816,6 +77944,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/gardhem"
+    },
+    {
+      "entry": 1236090518,
+      "orgName": "F\u00f6reningen Norden Arvika",
+      "orgNumber": "802516-6631",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://norden.se/arvika/"
     },
     {
       "entry": 1236090625,
@@ -78515,6 +78653,17 @@
         "hundsport"
       ],
       "web": "https://www.soderasensbk.com/"
+    },
+    {
+      "entry": 1236151872,
+      "orgName": "Dataf\u00f6reningen i Sverige",
+      "orgNumber": "802006-6349",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "yrkesf\u00f6rening"
+      ],
+      "web": "https://dfs.se/"
     },
     {
       "entry": 1236152425,
@@ -80786,6 +80935,16 @@
       "web": "https://nyhetskartan.se/"
     },
     {
+      "entry": 1236326441,
+      "orgName": "Celiakif\u00f6reningen i Kronobergs l\u00e4n",
+      "orgNumber": "829501-8793",
+      "comment": null,
+      "categories": [
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.celiaki.se/foreningar/kronobergs-lan/"
+    },
+    {
       "entry": 1236328280,
       "orgName": "Aktiva Seniorer V\u00e4nersborg",
       "orgNumber": "802415-9041",
@@ -81326,7 +81485,7 @@
     },
     {
       "entry": 1236372577,
-      "orgName": "SDF - Svensk Dystoni-F\u00f6rening",
+      "orgName": "Svensk Dystoni-F\u00f6rening, SDF",
       "orgNumber": "878001-9215",
       "comment": null,
       "categories": [
@@ -88206,6 +88365,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.fif.se/"
+    },
+    {
+      "entry": 1236947543,
+      "orgName": "Barbalander AB",
+      "orgNumber": "556730-1576",
+      "comment": null,
+      "categories": [
+        "f\u00f6rlag",
+        "f\u00f6rs\u00e4ljning"
+      ],
+      "web": null
     },
     {
       "entry": 1236948178,
