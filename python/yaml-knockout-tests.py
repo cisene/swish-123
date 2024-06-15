@@ -247,6 +247,12 @@ def renderYAMLfromResult(result):
       contents['entries'] = result[chunk]
       writeYAML(filepath, contents)
 
+def validateEntry(data):
+  result = False
+  if re.search(r"^123(\d{7})$", str(data), flags=re.IGNORECASE):
+    result = True
+
+  return result
 
 
 def testEntries(entries):
@@ -266,6 +272,10 @@ def testEntries(entries):
   if entries != None:
     if "entries" in entries:
       for entryVO in entries['entries']:
+
+        # Skip out early - invalid entry
+        if validateEntry(entryVO['entry']) == False:
+          continue
 
         # Detect categorization the disqualifies 
         skip_tests = False
