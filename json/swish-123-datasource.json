@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-16-rev-154343",
+    "date": "2024-06-17-rev-011536",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -60957,6 +60957,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/gislaved"
+    },
+    {
+      "entry": 1234634077,
+      "orgName": "Ume\u00e5 Kallbad / Massvis F\u00f6rening",
+      "orgNumber": "802545-7584",
+      "comment": null,
+      "categories": [
+        "badflotte",
+        "kallbadhus"
+      ],
+      "web": "https://www.umeakallbad.se/"
     },
     {
       "entry": 1234639779,

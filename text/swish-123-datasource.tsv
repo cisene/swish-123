@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-06-16-rev-154354
+# Date: 2024-06-17-rev-011547
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -5694,6 +5694,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234627238	802412-6883	Teaterkören	https://teaterkoren.se/	kör,teater	
 1234629390	003113-7995	Aktiva Seniorer Nyköping & Oxelösund	https://ny-nykoping.aktivaseniorer.com/	pensionärsklubb	
 1234630265	252003-4725	Gislaveds Pastorat	https://www.svenskakyrkan.se/gislaved	religion	Övrigt
+1234634077	802545-7584	Umeå Kallbad / Massvis Förening	https://www.umeakallbad.se/	badflotte,kallbadhus	
 1234639779	849201-3332	Kvinnojouren Viktoria	https://www.unizonjourer.se/kvinnojourenhalmstad/	kvinnojour	
 1234640686	556926-6132	Romfartuna Ved AB	https://www.romfartunaved.se/	björkved,bränsle,ved	
 1234640744	802428-8170	FBC Bollnäs	https://www.laget.se/FBCBOLLNAS/	innebandyklubb	Entré, match och övrigt

@@ -50207,10 +50207,12 @@ entries:
   web: https://www.svenskakyrkan.se/gislaved
 
 - entry: 1234634077
-  orgName: Umeå Kallbad
-  orgNumber: null
+  orgName: Umeå Kallbad / Massvis Förening
+  orgNumber: 802545-7584
   comment: null
-  categories: null
+  categories:
+  - badflotte
+  - kallbadhus
   web: https://www.umeakallbad.se/
 
 - entry: 1234639779
