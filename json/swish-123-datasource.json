@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-17-rev-011536",
+    "date": "2024-06-17-rev-011849",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -60965,6 +60965,7 @@
       "comment": null,
       "categories": [
         "badflotte",
+        "intressef\u00f6rening",
         "kallbadhus"
       ],
       "web": "https://www.umeakallbad.se/"

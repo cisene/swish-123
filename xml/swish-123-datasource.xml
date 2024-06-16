@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2024-06-17-rev-011552
+Date: 2024-06-17-rev-011906
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -5694,7 +5694,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1234627238"><organization><number>802412-6883</number><name>Teaterkören</name></organization><comment/><categories><category type="kör"/><category type="teater"/></categories><web>https://teaterkoren.se/</web></entry>
     <entry number="1234629390"><organization><number>003113-7995</number><name>Aktiva Seniorer Nyköping &amp; Oxelösund</name></organization><comment/><categories><category type="pensionärsklubb"/></categories><web>https://ny-nykoping.aktivaseniorer.com/</web></entry>
     <entry number="1234630265"><organization><number>252003-4725</number><name>Gislaveds Pastorat</name></organization><comment>Övrigt</comment><categories><category type="religion"/></categories><web>https://www.svenskakyrkan.se/gislaved</web></entry>
-    <entry number="1234634077"><organization><number>802545-7584</number><name>Umeå Kallbad / Massvis Förening</name></organization><comment/><categories><category type="badflotte"/><category type="kallbadhus"/></categories><web>https://www.umeakallbad.se/</web></entry>
+    <entry number="1234634077"><organization><number>802545-7584</number><name>Umeå Kallbad / Massvis Förening</name></organization><comment/><categories><category type="badflotte"/><category type="intresseförening"/><category type="kallbadhus"/></categories><web>https://www.umeakallbad.se/</web></entry>
     <entry number="1234639779"><organization><number>849201-3332</number><name>Kvinnojouren Viktoria</name></organization><comment/><categories><category type="kvinnojour"/></categories><web>https://www.unizonjourer.se/kvinnojourenhalmstad/</web></entry>
     <entry number="1234640686"><organization><number>556926-6132</number><name>Romfartuna Ved AB</name></organization><comment/><categories><category type="björkved"/><category type="bränsle"/><category type="ved"/></categories><web>https://www.romfartunaved.se/</web></entry>
     <entry number="1234640744"><organization><number>802428-8170</number><name>FBC Bollnäs</name></organization><comment>Entré, match och övrigt</comment><categories><category type="innebandyklubb"/></categories><web>https://www.laget.se/FBCBOLLNAS/</web></entry>
