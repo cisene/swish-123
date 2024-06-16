@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-16-rev-104907",
+    "date": "2024-06-16-rev-154343",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4964,6 +4964,17 @@
         "stiftelse"
       ],
       "web": "https://linnesamfundetpolcirkeln.se/"
+    },
+    {
+      "entry": 1230351684,
+      "orgName": "Lomma-Burl\u00f6v Sl\u00e4kt och Folklivsforskare",
+      "orgNumber": "846004-6678",
+      "comment": null,
+      "categories": [
+        "genealogi",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://lbsf.sksf.se/"
     },
     {
       "entry": 1230362046,
@@ -13394,9 +13405,9 @@
     },
     {
       "entry": 1230934315,
-      "orgName": "R\u00f6da Korset i Emmaboda",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "802472-4273",
-      "comment": null,
+      "comment": "Emmaboda",
       "categories": [
         "hj\u00e4lporganisation"
       ],
@@ -14351,6 +14362,7 @@
       "orgNumber": "816000-5347",
       "comment": null,
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://jarlabankegk.se/"
@@ -15091,6 +15103,22 @@
         "naturv\u00e5rd"
       ],
       "web": "http://www.nordicarea.se/"
+    },
+    {
+      "entry": 1231072966,
+      "orgName": "Dalar\u00f6 Sportklubb",
+      "orgNumber": "812400-3677",
+      "comment": null,
+      "categories": [
+        "badmintonklubb",
+        "bordtennisklubb",
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "handbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.dalarosk.se/"
     },
     {
       "entry": 1231073329,
@@ -20261,9 +20289,9 @@
     },
     {
       "entry": 1231464684,
-      "orgName": "R\u00f6da Korset H\u00e4ssleholm",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "837001-2679",
-      "comment": null,
+      "comment": "H\u00e4ssleholm",
       "categories": [
         "hj\u00e4lporganisation"
       ],
@@ -33280,6 +33308,18 @@
       "web": "https://www.yari.nu/"
     },
     {
+      "entry": 1232396158,
+      "orgName": "JB CNC & Linear Components AB",
+      "orgNumber": "559328-7872",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "metallbearbetning",
+        "reservdelar"
+      ],
+      "web": "https://www.jbcnc.se/"
+    },
+    {
       "entry": 1232398865,
       "orgName": "Rotary Helsingborg International",
       "orgNumber": "802539-9018",
@@ -35550,6 +35590,17 @@
         "religion"
       ],
       "web": "https://www.katolskakyrkannacka.se/"
+    },
+    {
+      "entry": 1232630465,
+      "orgName": "F\u00f6rsta Hj\u00e4lpengruppen Alpha",
+      "orgNumber": "802469-1225",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "sjukv\u00e5rd"
+      ],
+      "web": "https://fhg-alpha.se/"
     },
     {
       "entry": 1232630556,
@@ -44628,6 +44679,16 @@
       "web": "https://admittansen.se/"
     },
     {
+      "entry": 1233318219,
+      "orgName": "Med Israel f\u00f6r fred, MIFF Sverige",
+      "orgNumber": "502086-8955",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://miff.se/"
+    },
+    {
       "entry": 1233318565,
       "orgName": "Villands H\u00e4rads Hembygdsf\u00f6rening",
       "orgNumber": "838200-8202",
@@ -45423,6 +45484,17 @@
         "religion"
       ],
       "web": "http://pingstarla.se/"
+    },
+    {
+      "entry": 1233381092,
+      "orgName": "Hofors Motors\u00e4llskap",
+      "orgNumber": "885501-0230",
+      "comment": null,
+      "categories": [
+        "motorsport",
+        "motors\u00e4llskap"
+      ],
+      "web": "https://hoforsms.se/"
     },
     {
       "entry": 1233381191,
@@ -48986,12 +49058,12 @@
     },
     {
       "entry": 1233629144,
-      "orgName": "R\u00f6dakorset Liding\u00f6",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "813600-3038",
-      "comment": null,
+      "comment": "Liding\u00f6",
       "categories": [
         "hj\u00e4lporganisation",
-        "insamling"
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/ort/stockholm/lidingo-stad/"
     },
@@ -49444,6 +49516,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/loharad"
+    },
+    {
+      "entry": 1233653201,
+      "orgName": "Svenska Karatef\u00f6rbundet",
+      "orgNumber": "802443-3180",
+      "comment": null,
+      "categories": [
+        "kampsportsf\u00f6rening",
+        "karateklubb",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://www.karatesweden.se/"
     },
     {
       "entry": 1233653409,
@@ -50432,9 +50516,9 @@
     },
     {
       "entry": 1233760477,
-      "orgName": "R\u00f6da Korset Landskronabygden",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "844000-3542",
-      "comment": null,
+      "comment": "Landskronabygden",
       "categories": [
         "hj\u00e4lporganisation"
       ],
@@ -51515,9 +51599,9 @@
     },
     {
       "entry": 1233852951,
-      "orgName": "Svenska R\u00f6da Korset Sk\u00f6nsbergskretsen",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "889200-6159",
-      "comment": null,
+      "comment": "Sk\u00f6nsberg",
       "categories": [
         "hj\u00e4lporganisation"
       ],
@@ -53690,9 +53774,9 @@
     },
     {
       "entry": 1234009528,
-      "orgName": "R\u00f6da Korset H\u00e4stveda",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "837001-2679",
-      "comment": null,
+      "comment": "H\u00e4stveda",
       "categories": [
         "hj\u00e4lporganisation"
       ],
@@ -55449,6 +55533,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/arboga"
+    },
+    {
+      "entry": 1234183828,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "818500-5694",
+      "comment": "Katrineholm",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/sodermanland/katrineholms-kommun/"
     },
     {
       "entry": 1234185096,
@@ -58087,9 +58182,9 @@
     },
     {
       "entry": 1234407490,
-      "orgName": "R\u00f6da Korset Trelleborg",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "847000-4162",
-      "comment": null,
+      "comment": "Trelleborg",
       "categories": [
         "hj\u00e4lporganisation"
       ],
@@ -61110,7 +61205,8 @@
       "orgNumber": "857202-7939",
       "comment": "Frankrike",
       "categories": [
-        "lokaltidning"
+        "lokaltidning",
+        "mediaproduktion"
       ],
       "web": "https://proletaren.se/"
     },
@@ -64479,9 +64575,9 @@
     },
     {
       "entry": 1234991394,
-      "orgName": "Malm\u00f6kretsen Svenska R\u00f6da Korset",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "802440-9537",
-      "comment": null,
+      "comment": "Malm\u00f6",
       "categories": [
         "hj\u00e4lporganisation"
       ],
@@ -66104,9 +66200,9 @@
     },
     {
       "entry": 1235112958,
-      "orgName": "R\u00f6da Korsets Ungdomsf\u00f6rbund Uppsala",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "802422-8556",
-      "comment": null,
+      "comment": "Uppsala, Ungdomsf\u00f6rbund",
       "categories": [
         "hj\u00e4lporganisation"
       ],
@@ -67788,9 +67884,10 @@
       "orgNumber": "875001-2505",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
       ],
-      "web": "https://idrottonline.se/GarphyttansIF/"
+      "web": "https://gif-ol.se/"
     },
     {
       "entry": 1235219738,
@@ -67838,9 +67935,9 @@
     },
     {
       "entry": 1235229760,
-      "orgName": "R\u00f6da Korset Landskrona",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "844000-3542",
-      "comment": "Beredskapsgruppen",
+      "comment": "Landskrona, Beredskapsgruppen",
       "categories": [
         "hj\u00e4lporganisation"
       ],
@@ -70144,6 +70241,18 @@
       "web": "https://hovvardare.wordpress.com/"
     },
     {
+      "entry": 1235395629,
+      "orgName": "Svenska Handtryck AB",
+      "orgNumber": "556068-5413",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "screentryck",
+        "utrustning"
+      ],
+      "web": "https://shop.screenorama.com/"
+    },
+    {
       "entry": 1235395686,
       "orgName": "Morkarlby Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "334018-8121",
@@ -71576,6 +71685,17 @@
       "web": "https://www.svenskakyrkan.se/taby"
     },
     {
+      "entry": 1235514187,
+      "orgName": "Nacka Gymnastikf\u00f6rening",
+      "orgNumber": "814000-7777",
+      "comment": null,
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.nackagf.se/"
+    },
+    {
       "entry": 1235514526,
       "orgName": "S\u00f6dermanlands H\u00e4stavelsf\u00f6rening",
       "orgNumber": "802450-4832",
@@ -72003,12 +72123,13 @@
     },
     {
       "entry": 1235534201,
-      "orgName": "R\u00f6da Korset - Folkh\u00f6gskolan",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "802002-8711",
-      "comment": null,
+      "comment": "Folkh\u00f6gskolan",
       "categories": [
         "folkh\u00f6gskola",
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorsetsfolkhogskola.se/"
     },
@@ -72287,7 +72408,8 @@
       "orgNumber": "802002-8711",
       "comment": null,
       "categories": [
-        "donation"
+        "donation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
     },
@@ -72297,7 +72419,8 @@
       "orgNumber": "802002-8711",
       "comment": null,
       "categories": [
-        "donation"
+        "donation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
     },
@@ -73327,9 +73450,9 @@
     },
     {
       "entry": 1235625801,
-      "orgName": "R\u00f6da Korset \u00c5m\u00e5l",
+      "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "862000-6992",
-      "comment": null,
+      "comment": "\u00c5m\u00e5l",
       "categories": [
         "hj\u00e4lporganisation",
         "r\u00f6dakorset"
@@ -85251,9 +85374,11 @@
       "entry": 1236652895,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "802002-8711",
-      "comment": "R\u00f6da Korsets arbete i Palestina och Israel",
+      "comment": "Palestina och Israel",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare"
+        "godk\u00e4nd g\u00e5vomottagare",
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
     },
@@ -87941,6 +88066,16 @@
       "web": "https://www.kkl.nu/"
     },
     {
+      "entry": 1236838601,
+      "orgName": "R\u00e4mmens Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "872400-0693",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/rammen/"
+    },
+    {
       "entry": 1236839526,
       "orgName": "Bratteborgs Ryttars\u00e4llskap",
       "orgNumber": "828001-1191",
@@ -88595,6 +88730,21 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://www.karlslundsif.org/"
+    },
+    {
+      "entry": 1236902605,
+      "orgName": "Torekovs IK",
+      "orgNumber": "839400-1583",
+      "comment": null,
+      "categories": [
+        "bouleklubb",
+        "cykelklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "padelklubb",
+        "tennisklubb"
+      ],
+      "web": "https://www.svenskalag.se/torekovsik"
     },
     {
       "entry": 1236902944,
@@ -93358,7 +93508,7 @@
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
-        "v\u00e4lg\u00f6renhet"
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
     },
@@ -93369,7 +93519,8 @@
       "comment": null,
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
     },
@@ -93390,8 +93541,8 @@
       "comment": "R\u00f6da Korsets arbete i Ukraina",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "insamling",
         "insamlingskontroll",
+        "r\u00f6dakorset",
         "ukraina"
       ],
       "web": "https://www.rodakorset.se/"
@@ -93403,7 +93554,8 @@
       "comment": null,
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
     },

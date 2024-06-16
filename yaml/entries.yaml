@@ -4082,6 +4082,15 @@ entries:
   - stiftelse
   web: https://linnesamfundetpolcirkeln.se/
 
+- entry: 1230351684
+  orgName: Lomma-Burlöv Släkt och Folklivsforskare
+  orgNumber: 846004-6678
+  comment: null
+  categories:
+  - genealogi
+  - släktforskning
+  web: https://lbsf.sksf.se/
+
 - entry: 1230362046
   orgName: Millesgårdens Vänner
   orgNumber: 813600-4085
@@ -4452,6 +4461,14 @@ entries:
   categories:
   - religion
   web: https://kafalla.se/
+
+- entry: 1230388819
+  orgName: null
+  orgNumber: null
+  comment: Obemannad granförsäljning
+  categories:
+  - försäljning
+  web: null
 
 - entry: 1230389544
   orgName: Strokeföreningen i Stockholms län
@@ -11003,9 +11020,9 @@ entries:
   web: http://www.kristianstadsbk.se/
 
 - entry: 1230934315
-  orgName: Röda Korset i Emmaboda
+  orgName: Svenska Röda Korset
   orgNumber: 802472-4273
-  comment: null
+  comment: Emmaboda
   categories:
   - hjälporganisation
   web: https://www.rodakorset.se/emmaboda
@@ -11812,6 +11829,7 @@ entries:
   orgNumber: 816000-5347
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://jarlabankegk.se/
 
@@ -12418,6 +12436,20 @@ entries:
   categories:
   - naturvård
   web: http://www.nordicarea.se/
+
+- entry: 1231072966
+  orgName: Dalarö Sportklubb
+  orgNumber: 812400-3677
+  comment: null
+  categories:
+  - badmintonklubb
+  - bordtennisklubb
+  - fotbollsklubb
+  - gymnastikförening
+  - handbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.dalarosk.se/
 
 - entry: 1231073329
   orgName: Livrustkammarens Vänner
@@ -16669,9 +16701,9 @@ entries:
   web: https://viredapingst.com/
 
 - entry: 1231464684
-  orgName: Röda Korset Hässleholm
+  orgName: Svenska Röda Korset
   orgNumber: 837001-2679
-  comment: null
+  comment: Hässleholm
   categories:
   - hjälporganisation
   web: https://www.rodakorset.se/ort/skane/hassleholms-kommun/
@@ -27397,6 +27429,16 @@ entries:
   - utbildning
   web: https://www.yari.nu/
 
+- entry: 1232396158
+  orgName: JB CNC & Linear Components AB
+  orgNumber: 559328-7872
+  comment: null
+  categories:
+  - försäljning
+  - metallbearbetning
+  - reservdelar
+  web: https://www.jbcnc.se/
+
 - entry: 1232398865
   orgName: Rotary Helsingborg International
   orgNumber: 802539-9018
@@ -28667,9 +28709,9 @@ entries:
   web: http://pingsteskilstunaweb.se/
 
 - entry: 1232564631
-  orgName: Svensks Röda Korset Nordingråkreten
+  orgName: Svensks Röda Korset
   orgNumber: null
-  comment: null
+  comment: Nordingrå
   categories:
   - hjälporganisation
   web: null
@@ -29301,6 +29343,15 @@ entries:
   categories:
   - religion
   web: https://www.katolskakyrkannacka.se/
+
+- entry: 1232630465
+  orgName: Första Hjälpengruppen Alpha
+  orgNumber: 802469-1225
+  comment: null
+  categories:
+  - hjälporganisation
+  - sjukvård
+  web: https://fhg-alpha.se/
 
 - entry: 1232630556
   orgName: Towas Massage & hälsa / Towa Schedvins
@@ -36761,6 +36812,14 @@ entries:
   - utbildning
   web: https://admittansen.se/
 
+- entry: 1233318219
+  orgName: Med Israel för fred, MIFF Sverige
+  orgNumber: 502086-8955
+  comment: null
+  categories:
+  - intresseförening
+  web: https://miff.se/
+
 - entry: 1233318565
   orgName: Villands Härads Hembygdsförening
   orgNumber: 838200-8202
@@ -37409,6 +37468,15 @@ entries:
   categories:
   - religion
   web: http://pingstarla.se/
+
+- entry: 1233381092
+  orgName: Hofors Motorsällskap
+  orgNumber: 885501-0230
+  comment: null
+  categories:
+  - motorsport
+  - motorsällskap
+  web: https://hoforsms.se/
 
 - entry: 1233381191
   orgName: Fiskebäckskyrkan
@@ -40309,12 +40377,12 @@ entries:
   web: https://www.svenskakyrkan.se/satila
 
 - entry: 1233629144
-  orgName: Rödakorset Lidingö
+  orgName: Svenska Röda Korset
   orgNumber: 813600-3038
-  comment: null
+  comment: Lidingö
   categories:
   - hjälporganisation
-  - insamling
+  - rödakorset
   web: https://www.rodakorset.se/ort/stockholm/lidingo-stad/
 
 - entry: 1233629292
@@ -40682,6 +40750,16 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/loharad
+
+- entry: 1233653201
+  orgName: Svenska Karateförbundet
+  orgNumber: 802443-3180
+  comment: null
+  categories:
+  - kampsportsförening
+  - karateklubb
+  - riksförbund
+  web: https://www.karatesweden.se/
 
 - entry: 1233653409
   orgName: Ilsbo Hembygdsförening
@@ -41499,9 +41577,9 @@ entries:
   web: null
 
 - entry: 1233760477
-  orgName: Röda Korset Landskronabygden
+  orgName: Svenska Röda Korset
   orgNumber: 844000-3542
-  comment: null
+  comment: Landskronabygden
   categories:
   - hjälporganisation
   web: https://www.rodakorset.se/landskrona
@@ -42387,9 +42465,9 @@ entries:
   web: https://lifecenter.se/
 
 - entry: 1233852951
-  orgName: Svenska Röda Korset Skönsbergskretsen
+  orgName: Svenska Röda Korset
   orgNumber: 889200-6159
-  comment: null
+  comment: Skönsberg
   categories:
   - hjälporganisation
   web: https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg
@@ -44173,9 +44251,9 @@ entries:
   web: http://www.gunnarskog.nu/
 
 - entry: 1234009528
-  orgName: Röda Korset Hästveda
+  orgName: Svenska Röda Korset
   orgNumber: 837001-2679
-  comment: null
+  comment: Hästveda
   categories:
   - hjälporganisation
   web: https://www.rodakorset.se/ort/skane/hassleholms-kommun/
@@ -45640,6 +45718,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/arboga
+
+- entry: 1234183828
+  orgName: Svenska Röda Korset
+  orgNumber: 818500-5694
+  comment: Katrineholm
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/sodermanland/katrineholms-kommun/
 
 - entry: 1234185096
   orgName: Vrigstad Missionsförsamling
@@ -47837,9 +47924,9 @@ entries:
   web: https://www.fralsningsarmen.se/Lulea/
 
 - entry: 1234407490
-  orgName: Röda Korset Trelleborg
+  orgName: Svenska Röda Korset
   orgNumber: 847000-4162
-  comment: null
+  comment: Trelleborg
   categories:
   - hjälporganisation
   web: https://www.rodakorset.se/ort/skane/trelleborgs-kommun/
@@ -50119,6 +50206,13 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/gislaved
 
+- entry: 1234634077
+  orgName: Umeå Kallbad
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.umeakallbad.se/
+
 - entry: 1234639779
   orgName: Kvinnojouren Viktoria
   orgNumber: 849201-3332
@@ -50320,6 +50414,7 @@ entries:
   comment: Frankrike
   categories:
   - lokaltidning
+  - mediaproduktion
   web: https://proletaren.se/
 
 - entry: 1234651980
@@ -53093,9 +53188,9 @@ entries:
   web: https://www.svenskakyrkan.se/vasteras/mariagarden-i-skultuna
 
 - entry: 1234991394
-  orgName: Malmökretsen Svenska Röda Korset
+  orgName: Svenska Röda Korset
   orgNumber: 802440-9537
-  comment: null
+  comment: Malmö
   categories:
   - hjälporganisation
   web: null
@@ -54079,6 +54174,13 @@ entries:
   - ryttarförening
   web: https://www.aaislandshast.com/
 
+- entry: 1235094263
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1235095351
   orgName: Mat och Klimat
   orgNumber: 802520-7237
@@ -54434,9 +54536,9 @@ entries:
   web: https://www.hembygd.se/svaltorna
 
 - entry: 1235112958
-  orgName: Röda Korsets Ungdomsförbund Uppsala
+  orgName: Svenska Röda Korset
   orgNumber: 802422-8556
-  comment: null
+  comment: Uppsala, Ungdomsförbund
   categories:
   - hjälporganisation
   web: https://www.rkuf.se/uppsala/
@@ -55824,7 +55926,8 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  web: https://idrottonline.se/GarphyttansIF/
+  - orienteringsklubb
+  web: https://gif-ol.se/
 
 - entry: 1235219738
   orgName: Linköpings Allmänna Schacksällskap
@@ -55863,9 +55966,9 @@ entries:
   web: https://www.svenskakyrkan.se/harjedalen
 
 - entry: 1235229760
-  orgName: Röda Korset Landskrona
+  orgName: Svenska Röda Korset
   orgNumber: 844000-3542
-  comment: Beredskapsgruppen
+  comment: Landskrona, Beredskapsgruppen
   categories:
   - hjälporganisation
   web: https://www.rodakorset.se/ort/skane/landskrona-stad/
@@ -57750,6 +57853,16 @@ entries:
   - hästsport
   web: https://hovvardare.wordpress.com/
 
+- entry: 1235395629
+  orgName: Svenska Handtryck AB
+  orgNumber: 556068-5413
+  comment: null
+  categories:
+  - försäljning
+  - screentryck
+  - utrustning
+  web: https://shop.screenorama.com/
+
 - entry: 1235395686
   orgName: Morkarlby Bygdegårdsförening
   orgNumber: 334018-8121
@@ -58942,6 +59055,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/taby
 
+- entry: 1235514187
+  orgName: Nacka Gymnastikförening
+  orgNumber: 814000-7777
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  web: http://www.nackagf.se/
+
 - entry: 1235514526
   orgName: Södermanlands Hästavelsförening
   orgNumber: 802450-4832
@@ -59289,12 +59411,13 @@ entries:
   web: https://ridklubben.net/
 
 - entry: 1235534201
-  orgName: Röda Korset - Folkhögskolan
+  orgName: Svenska Röda Korset
   orgNumber: 802002-8711
-  comment: null
+  comment: Folkhögskolan
   categories:
   - folkhögskola
   - hjälporganisation
+  - rödakorset
   web: https://www.rodakorsetsfolkhogskola.se/
 
 - entry: 1235534433
@@ -59522,6 +59645,7 @@ entries:
   comment: null
   categories:
   - donation
+  - rödakorset
   web: https://www.rodakorset.se/
 
 - entry: 1235557772
@@ -59530,6 +59654,7 @@ entries:
   comment: null
   categories:
   - donation
+  - rödakorset
   web: https://www.rodakorset.se/
 
 - entry: 1235557780
@@ -60367,9 +60492,9 @@ entries:
   web: https://www.slu.se/fakulteter/vh/forskning/sallskapsdjurens_forskningsfond/
 
 - entry: 1235625801
-  orgName: Röda Korset Åmål
+  orgName: Svenska Röda Korset
   orgNumber: 862000-6992
-  comment: null
+  comment: Åmål
   categories:
   - hjälporganisation
   - rödakorset
@@ -70257,9 +70382,11 @@ entries:
 - entry: 1236652895
   orgName: Svenska Röda Korset
   orgNumber: 802002-8711
-  comment: Röda Korsets arbete i Palestina och Israel
+  comment: Palestina och Israel
   categories:
   - godkänd gåvomottagare
+  - hjälporganisation
+  - rödakorset
   web: https://www.rodakorset.se/
 
 - entry: 1236654354
@@ -72470,6 +72597,14 @@ entries:
   - välgörenhet
   web: https://www.kkl.nu/
 
+- entry: 1236838601
+  orgName: Rämmens Bygdegårdsförening
+  orgNumber: 872400-0693
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/rammen/
+
 - entry: 1236839526
   orgName: Bratteborgs Ryttarsällskap
   orgNumber: 828001-1191
@@ -73005,6 +73140,19 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: https://www.karlslundsif.org/
+
+- entry: 1236902605
+  orgName: Torekovs IK
+  orgNumber: 839400-1583
+  comment: null
+  categories:
+  - bouleklubb
+  - cykelklubb
+  - fotbollsklubb
+  - idrottsförening
+  - padelklubb
+  - tennisklubb
+  web: https://www.svenskalag.se/torekovsik
 
 - entry: 1236902944
   orgName: Falu IF Hockey Camps
@@ -79973,7 +80121,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
-  - välgörenhet
+  - rödakorset
   web: https://www.rodakorset.se/
 
 - entry: 1239008012
@@ -79983,6 +80131,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
+  - rödakorset
   web: https://www.rodakorset.se/
 
 - entry: 1239008038
@@ -79999,8 +80148,8 @@ entries:
   comment: Röda Korsets arbete i Ukraina
   categories:
   - godkänd gåvomottagare
-  - insamling
   - insamlingskontroll
+  - rödakorset
   - ukraina
   web: https://www.rodakorset.se/
 
@@ -80011,6 +80160,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
+  - rödakorset
   web: https://www.rodakorset.se/
 
 - entry: 1239008103
