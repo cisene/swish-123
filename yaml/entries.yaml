@@ -6129,6 +6129,16 @@ entries:
   - religion
   web: https://www.soschurchmalmo.se/
 
+- entry: 1230519629
+  orgName: Götene Ryttarklubb
+  orgNumber: 869000-6039
+  comment: Ungdomssektion
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarklubb
+  web: https://www.laget.se/GoteneRK/
+
 - entry: 1230520379
   orgName: Sparven
   orgNumber: 556706-5262
@@ -10821,6 +10831,15 @@ entries:
   - ridklubb
   web: https://www.areridklubb.se/
 
+- entry: 1230926782
+  orgName: Österlövsta FF
+  orgNumber: 802415-5833
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/osterlovsta_ff
+
 - entry: 1230926840
   orgName: Din Värmepump Service i Skåne AB
   orgNumber: 556940-5250
@@ -12902,7 +12921,7 @@ entries:
 - entry: 1231134626
   orgName: Ersmarks IK
   orgNumber: 894001-6606
-  comment: Herrjuniorer
+  comment: Herrjun
   categories:
   - fotbollsklubb
   - idrottsförening
@@ -25391,6 +25410,15 @@ entries:
   - bygdegårdsförening
   web: https://www.parupsbygdegard.se/
 
+- entry: 1232241883
+  orgName: Eksjö Naturskyddsförening
+  orgNumber: 802438-3484
+  comment: null
+  categories:
+  - naturskydd
+  - naturvård
+  web: https://eksjo.naturskyddsforeningen.se/
+
 - entry: 1232242139
   orgName: Sorunda RK
   orgNumber: 812400-5805
@@ -27732,6 +27760,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://nora.aktivaseniorer.com/
+
+- entry: 1232430932
+  orgName: Götene Ridskola AB
+  orgNumber: 559430-5871
+  comment: null
+  categories:
+  - hästsport
+  - ridskola
+  web: https://www.laget.se/GoteneRK/
 
 - entry: 1232431922
   orgName: PRO Backa
@@ -31854,6 +31891,15 @@ entries:
   - kulturförening
   web: https://www.altakulturknut.se/
 
+- entry: 1232824076
+  orgName: IBF Falun Ungdom
+  orgNumber: 802420-9754
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.ibffalunu.se/
+
 - entry: 1232824282
   orgName: Feministiskt Initiativ
   orgNumber: 802422-9497
@@ -34963,6 +35009,16 @@ entries:
   - ridklubb
   - ryttarförening
   web: https://www.hebyrf.se/
+
+- entry: 1233138443
+  orgName: Götene Ryttarklubb
+  orgNumber: 869000-6039
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarklubb
+  web: https://www.laget.se/GoteneRK/
 
 - entry: 1233138567
   orgName: Torup Rydö FF
@@ -38206,10 +38262,12 @@ entries:
   web: https://www.ifocenter.com/
 
 - entry: 1233457678
-  orgName: IBF Falun Utveckling
+  orgName: IBF Falun Ungdom
   orgNumber: 802420-9754
   comment: null
-  categories: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
   web: https://www.ibffalunu.se/
 
 - entry: 1233457801
@@ -43154,7 +43212,7 @@ entries:
   web: https://bjorkbackskyrkan.se/
 
 - entry: 1233908522
-  orgName: Kils Hästcenter Hannäs (KHH)
+  orgName: Kils Hästcenter Hannäs, KHH
   orgNumber: 802476-0764
   comment: null
   categories:
@@ -45901,6 +45959,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sunne
 
+- entry: 1234204285
+  orgName: Klövsjö-Vemdalens Golfklubb
+  orgNumber: 893201-9022
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://www.kvgk.se/
+
 - entry: 1234205258
   orgName: Prostatacancerföreningen Värmland
   orgNumber: 802420-3948
@@ -46453,6 +46520,16 @@ entries:
   - fordonsutrustning
   - reservdelar
   web: https://www.24meter.se/
+
+- entry: 1234263588
+  orgName: Götene Ryttarklubb
+  orgNumber: 869000-6039
+  comment: tävlingskommitté
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarklubb
+  web: https://www.laget.se/GoteneRK/
 
 - entry: 1234264222
   orgName: Lions Club Oskarström
@@ -49905,6 +49982,16 @@ entries:
   categories:
   - idrottsförening
   web: https://www.laget.se/SkeneIF/
+
+- entry: 1234611299
+  orgName: Götene Ryttarklubb
+  orgNumber: 869000-6039
+  comment: Cafeteria
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarklubb
+  web: https://www.laget.se/GoteneRK/
 
 - entry: 1234611307
   orgName: Equmenia Nord
@@ -65412,6 +65499,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.ifktidaholm.se/
+
+- entry: 1236158257
+  orgName: Thermotech Scandinavia AB
+  orgNumber: 556526-8538
+  comment: null
+  categories:
+  - försäljning
+  - tillverkning
+  web: https://www.thermotech.se/
 
 - entry: 1236158471
   orgName: Hela Människan Sala-Heby

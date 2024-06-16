@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-16-rev-023425",
+    "date": "2024-06-16-rev-104907",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7453,6 +7453,18 @@
       "web": "https://www.soschurchmalmo.se/"
     },
     {
+      "entry": 1230519629,
+      "orgName": "G\u00f6tene Ryttarklubb",
+      "orgNumber": "869000-6039",
+      "comment": "Ungdomssektion",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttarklubb"
+      ],
+      "web": "https://www.laget.se/GoteneRK/"
+    },
+    {
       "entry": 1230520379,
       "orgName": "Sparven",
       "orgNumber": "556706-5262",
@@ -13172,6 +13184,17 @@
       "web": "https://www.areridklubb.se/"
     },
     {
+      "entry": 1230926782,
+      "orgName": "\u00d6sterl\u00f6vsta FF",
+      "orgNumber": "802415-5833",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/osterlovsta_ff"
+    },
+    {
       "entry": 1230926840,
       "orgName": "Din V\u00e4rmepump Service i Sk\u00e5ne AB",
       "orgNumber": "556940-5250",
@@ -15686,7 +15709,7 @@
       "entry": 1231134626,
       "orgName": "Ersmarks IK",
       "orgNumber": "894001-6606",
-      "comment": "Herrjuniorer",
+      "comment": "Herrjun",
       "categories": [
         "fotbollsklubb",
         "idrottsf\u00f6rening"
@@ -30848,6 +30871,17 @@
       "web": "https://www.parupsbygdegard.se/"
     },
     {
+      "entry": 1232241883,
+      "orgName": "Eksj\u00f6 Naturskyddsf\u00f6rening",
+      "orgNumber": "802438-3484",
+      "comment": null,
+      "categories": [
+        "naturskydd",
+        "naturv\u00e5rd"
+      ],
+      "web": "https://eksjo.naturskyddsforeningen.se/"
+    },
+    {
       "entry": 1232242139,
       "orgName": "Sorunda RK",
       "orgNumber": "812400-5805",
@@ -33663,6 +33697,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://nora.aktivaseniorer.com/"
+    },
+    {
+      "entry": 1232430932,
+      "orgName": "G\u00f6tene Ridskola AB",
+      "orgNumber": "559430-5871",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridskola"
+      ],
+      "web": "https://www.laget.se/GoteneRK/"
     },
     {
       "entry": 1232431922,
@@ -38678,6 +38723,17 @@
       "web": "https://www.altakulturknut.se/"
     },
     {
+      "entry": 1232824076,
+      "orgName": "IBF Falun Ungdom",
+      "orgNumber": "802420-9754",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.ibffalunu.se/"
+    },
+    {
       "entry": 1232824282,
       "orgName": "Feministiskt Initiativ",
       "orgNumber": "802422-9497",
@@ -42454,6 +42510,18 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.hebyrf.se/"
+    },
+    {
+      "entry": 1233138443,
+      "orgName": "G\u00f6tene Ryttarklubb",
+      "orgNumber": "869000-6039",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttarklubb"
+      ],
+      "web": "https://www.laget.se/GoteneRK/"
     },
     {
       "entry": 1233138567,
@@ -46404,6 +46472,17 @@
         "konstf\u00f6rening"
       ],
       "web": "https://www.ifocenter.com/"
+    },
+    {
+      "entry": 1233457678,
+      "orgName": "IBF Falun Ungdom",
+      "orgNumber": "802420-9754",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.ibffalunu.se/"
     },
     {
       "entry": 1233457801,
@@ -52439,7 +52518,7 @@
     },
     {
       "entry": 1233908522,
-      "orgName": "Kils H\u00e4stcenter Hann\u00e4s (KHH)",
+      "orgName": "Kils H\u00e4stcenter Hann\u00e4s, KHH",
       "orgNumber": "802476-0764",
       "comment": null,
       "categories": [
@@ -55764,6 +55843,17 @@
       "web": "https://www.svenskakyrkan.se/sunne"
     },
     {
+      "entry": 1234204285,
+      "orgName": "Kl\u00f6vsj\u00f6-Vemdalens Golfklubb",
+      "orgNumber": "893201-9022",
+      "comment": null,
+      "categories": [
+        "golfbana",
+        "golfklubb"
+      ],
+      "web": "https://www.kvgk.se/"
+    },
+    {
       "entry": 1234205258,
       "orgName": "Prostatacancerf\u00f6reningen V\u00e4rmland",
       "orgNumber": "802420-3948",
@@ -56436,6 +56526,18 @@
         "reservdelar"
       ],
       "web": "https://www.24meter.se/"
+    },
+    {
+      "entry": 1234263588,
+      "orgName": "G\u00f6tene Ryttarklubb",
+      "orgNumber": "869000-6039",
+      "comment": "t\u00e4vlingskommitt\u00e9",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttarklubb"
+      ],
+      "web": "https://www.laget.se/GoteneRK/"
     },
     {
       "entry": 1234264222,
@@ -60601,6 +60703,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/SkeneIF/"
+    },
+    {
+      "entry": 1234611299,
+      "orgName": "G\u00f6tene Ryttarklubb",
+      "orgNumber": "869000-6039",
+      "comment": "Cafeteria",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttarklubb"
+      ],
+      "web": "https://www.laget.se/GoteneRK/"
     },
     {
       "entry": 1234611307,
@@ -79380,6 +79494,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.ifktidaholm.se/"
+    },
+    {
+      "entry": 1236158257,
+      "orgName": "Thermotech Scandinavia AB",
+      "orgNumber": "556526-8538",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "tillverkning"
+      ],
+      "web": "https://www.thermotech.se/"
     },
     {
       "entry": 1236158471,
