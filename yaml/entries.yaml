@@ -4805,6 +4805,14 @@ entries:
   - kampsportsförening
   web: https://hudikju-jutsu.se/
 
+- entry: 1230416719
+  orgName: Umeå Kommuns Personalförening
+  orgNumber: 894001-0930
+  comment: null
+  categories:
+  - personalförening
+  web: https://www.umea.se/sida/sporren/omoss
+
 - entry: 1230416784
   orgName: Alingsås Bågskytteklubb
   orgNumber: 802418-8495
@@ -11324,6 +11332,15 @@ entries:
   - discgolfklubb
   web: https://stockholmkarson.se/
 
+- entry: 1230984641
+  orgName: Livsmedelsarbetareförbundet
+  orgNumber: 802002-1062
+  comment: null
+  categories:
+  - förbund
+  - intresseförening
+  web: https://www.livs.se/
+
 - entry: 1230985242
   orgName: Kolsbro Häst och Fritid AB
   orgNumber: 556629-8856
@@ -17780,6 +17797,14 @@ entries:
   - utbildning
   web: https://lymfologi.se/
 
+- entry: 1231550078
+  orgName: Volvo CE Hallsbergs Verkstadsklubb
+  orgNumber: null
+  comment: null
+  categories:
+  - intresseförening
+  web: https://vvkhbg.se/
+
 - entry: 1231550094
   orgName: Floby VK
   orgNumber: 867800-5102
@@ -23606,6 +23631,14 @@ entries:
   - padelklubb
   web: https://www.svenskalag.se/arvikapadelsallskap
 
+- entry: 1232109809
+  orgName: Vi Som Kämpar För Våra Barn
+  orgNumber: 802542-9724
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.visomkamparforvarabarn.org/
+
 - entry: 1232110591
   orgName: Filadelfiaförsamlingen Gällivare
   orgNumber: 897900-2824
@@ -25298,6 +25331,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/tjorn
+
+- entry: 1232239382
+  orgName: Kumla Hockey
+  orgNumber: 875701-1724
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.kumlahockey.se/
 
 - entry: 1232239788
   orgName: Equmeniakyrkan Hjo
@@ -27804,6 +27846,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1232445617
+  orgName: Northern Light Aid
+  orgNumber: 802541-0658
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.northernlightaid.se/
+
 - entry: 1232449817
   orgName: Icons FC Arvika
   orgNumber: 802546-0083
@@ -27820,6 +27870,14 @@ entries:
   categories:
   - religion
   web: https://tmu.org/
+
+- entry: 1232450203
+  orgName: Tierp Yoga & Hälsa / Carina Järvi
+  orgNumber: 640811-XXXX
+  comment: null
+  categories:
+  - yoga
+  web: https://www.tierpyogahalsa.com/
 
 - entry: 1232450344
   orgName: Vä-Skepparslövs Församling
@@ -45286,6 +45344,16 @@ entries:
   - discgolfbana
   - discgolfklubb
   web: https://www.laget.se/SkovdeDiscgolf/
+
+- entry: 1234162590
+  orgName: Biodlartips & Jalin Film AB
+  orgNumber: 556714-7599
+  comment: null
+  categories:
+  - biodling
+  - försäljning
+  - podcast
+  web: https://biodlartips.se/
 
 - entry: 1234162988
   orgName: Mediumförbundet

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-16-rev-014504",
+    "date": "2024-06-16-rev-023425",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5845,6 +5845,16 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://hudikju-jutsu.se/"
+    },
+    {
+      "entry": 1230416719,
+      "orgName": "Ume\u00e5 Kommuns Personalf\u00f6rening",
+      "orgNumber": "894001-0930",
+      "comment": null,
+      "categories": [
+        "personalf\u00f6rening"
+      ],
+      "web": "https://www.umea.se/sida/sporren/omoss"
     },
     {
       "entry": 1230416784,
@@ -13758,6 +13768,17 @@
         "discgolfklubb"
       ],
       "web": "https://stockholmkarson.se/"
+    },
+    {
+      "entry": 1230984641,
+      "orgName": "Livsmedelsarbetaref\u00f6rbundet",
+      "orgNumber": "802002-1062",
+      "comment": null,
+      "categories": [
+        "f\u00f6rbund",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.livs.se/"
     },
     {
       "entry": 1230985242,
@@ -28713,6 +28734,16 @@
       "web": "https://www.svenskalag.se/arvikapadelsallskap"
     },
     {
+      "entry": 1232109809,
+      "orgName": "Vi Som K\u00e4mpar F\u00f6r V\u00e5ra Barn",
+      "orgNumber": "802542-9724",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.visomkamparforvarabarn.org/"
+    },
+    {
       "entry": 1232110591,
       "orgName": "Filadelfiaf\u00f6rsamlingen G\u00e4llivare",
       "orgNumber": "897900-2824",
@@ -30742,6 +30773,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/tjorn"
+    },
+    {
+      "entry": 1232239382,
+      "orgName": "Kumla Hockey",
+      "orgNumber": "875701-1724",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.kumlahockey.se/"
     },
     {
       "entry": 1232239788,
@@ -33762,6 +33804,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1232445617,
+      "orgName": "Northern Light Aid",
+      "orgNumber": "802541-0658",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.northernlightaid.se/"
+    },
+    {
       "entry": 1232449817,
       "orgName": "Icons FC Arvika",
       "orgNumber": "802546-0083",
@@ -33781,6 +33833,16 @@
         "religion"
       ],
       "web": "https://tmu.org/"
+    },
+    {
+      "entry": 1232450203,
+      "orgName": "Tierp Yoga & H\u00e4lsa / Carina J\u00e4rvi",
+      "orgNumber": "640811-XXXX",
+      "comment": null,
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.tierpyogahalsa.com/"
     },
     {
       "entry": 1232450344,
@@ -55014,6 +55076,18 @@
         "discgolfklubb"
       ],
       "web": "https://www.laget.se/SkovdeDiscgolf/"
+    },
+    {
+      "entry": 1234162590,
+      "orgName": "Biodlartips & Jalin Film AB",
+      "orgNumber": "556714-7599",
+      "comment": null,
+      "categories": [
+        "biodling",
+        "f\u00f6rs\u00e4ljning",
+        "podcast"
+      ],
+      "web": "https://biodlartips.se/"
     },
     {
       "entry": 1234162988,

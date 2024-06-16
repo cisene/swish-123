@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-06-16-rev-014510
+# Date: 2024-06-16-rev-023431
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -553,6 +553,7 @@
 "1230416438","883201-0162","Slätta SK","http://www.slattask.se/","idrottsförening,sportklubb",""
 "1230416602","802468-9179","Djurens Vänner Vetlanda","https://www.djurensvanner.se/vetlanda","djurskydd",""
 "1230416651","802418-7935","Hudiksvall Ju-Jutsuklubb","https://hudikju-jutsu.se/","idrottsförening,jujutsuklubb,kampsportsförening",""
+"1230416719","894001-0930","Umeå Kommuns Personalförening","https://www.umea.se/sida/sporren/omoss","personalförening",""
 "1230416784","802418-8495","Alingsås Bågskytteklubb","https://www.svenskalag.se/alingsasbagskytteklubb","bågskytteklubb,idrottsförening",""
 "1230416941","868400-5575","Skara Brukshundsklubb","http://www.skarabk.se/","brukshundsklubb,hundsport",""
 "1230416982","875003-5209","Nora BK","https://www.norabk.com/","idrottsförening",""
@@ -1295,6 +1296,7 @@
 "1230981548","826500-5044","Ralingsåsgården / Kristen Samverkan Småland-Blekinge","https://ralingsasgarden.se/","religion",""
 "1230982710","802461-1926","Aspeboda Foundation For Children","https://www.affc.se/","hjälporganisation",""
 "1230984054","802416-0767","Stockholm Kärsön frisbeeklubb","https://stockholmkarson.se/","discgolfbana,discgolfklubb",""
+"1230984641","802002-1062","Livsmedelsarbetareförbundet","https://www.livs.se/","förbund,intresseförening",""
 "1230985242","556629-8856","Kolsbro Häst och Fritid AB","https://www.kolsbro.cybersite.se/","hästklubb,ridskola",""
 "1230986372","802443-2927","Västerbottens läns Stövarklubb, VBSK","https://www.vblstovare.se/","hundklubb,hundsport,stövarklubb",""
 "1230987255","883202-3199","Folkmusikens hus","https://folkmusikenshus.se/","förening,musik",""
@@ -2689,6 +2691,7 @@
 "1232107670","802533-0328","Rättvisa Vindar Norra Östergötland, RVNO","https://rvno.se/","intresseförening,opinionsbildning",""
 "1232107845","559204-4852","DK-9 Hundskola / DK-9 Säkerhetstjänst AB","https://www.dk9hundskola.se/","hundskola,hundsport,utbildning",""
 "1232109155","802545-0787","Arvika Padelsällskap","https://www.svenskalag.se/arvikapadelsallskap","idrottsförening,padelklubb",""
+"1232109809","802542-9724","Vi Som Kämpar För Våra Barn","https://www.visomkamparforvarabarn.org/","intresseförening",""
 "1232110591","897900-2824","Filadelfiaförsamlingen Gällivare","https://www.pingstkyrkangallivare.se/","religion",""
 "1232110864","898200-1185","Morjärvs Sportklubb","https://idrottonline.se/MorjarvSK-Friidrott/","idrottsförening,sportklubb",""
 "1232112258","802437-4764","Eastfield's Linedancers Club","https://www.efld.se/","dansförening,linedance",""
@@ -2877,6 +2880,7 @@
 "1232238418","893200-3380","EFS Missionsförening Östersund","https://www.efsostersund.se/","religion",""
 "1232238772","865500-1769","Marbäcks IF","https://www.marbacksif.se/","idrottsförening",""
 "1232239341","252003-6357","Tjörns Pastorat","https://www.svenskakyrkan.se/tjorn","religion","Klövedals kyrka"
+"1232239382","875701-1724","Kumla Hockey","https://www.kumlahockey.se/","idrottsförening,ishockeyklubb",""
 "1232239788","867200-0794","Equmeniakyrkan Hjo","https://equmeniakyrkan.se/hjo/","religion",""
 "1232240356","815200-4076","Folket i Bild/Kulturfront","https://fib.se/","förening",""
 "1232241420","802001-7516","Stockholms kattklubb","http://www.stockholmskattklubb.se/","kattklubb,kattuppfödning",""
@@ -3160,8 +3164,10 @@
 "1232441541","838202-3151","Östermalmskyrkans Församling","https://www.ostermalmskyrkan.nu/","religion","Café"
 "1232441988","802504-4614","Solbackens Bygdegårdsförening","https://www.svenskalag.se/solbackensbygdegardsforening","bygdegårdsförening",""
 "1232445005","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, KLagshamnsskolan"
+"1232445617","802541-0658","Northern Light Aid","https://www.northernlightaid.se/","hjälporganisation",""
 "1232449817","802546-0083","Icons FC Arvika","https://www.svenskalag.se/iconsfcarvika","fotbollsklubb,idrottsförening",""
 "1232450088","826500-5044","Team Med Uppdrag, TMU / Kristen Samverkan Småland-Blekinge","https://tmu.org/","religion",""
+"1232450203","640811-XXXX","Tierp Yoga & Hälsa / Carina Järvi","https://www.tierpyogahalsa.com/","yoga",""
 "1232450344","252002-7794","Vä-Skepparslövs Församling","https://www.svenskakyrkan.se/va-skepparslov","religion","Kollekt"
 "1232450559","837000-0807","Missionskyrkan Hässleholm","https://equmeniakyrkan.se/hassleholm/","religion","Gåvor och kollekt"
 "1232453413","802421-7088","SPF Seniorerna 478 Tre Byar","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/trebyar/","pensionärsklubb",""
@@ -5141,6 +5147,7 @@
 "1234151155","802417-0352","Aktiva Seniorer Arboga","https://arboga.aktivaseniorer.com/","pensionärsklubb",""
 "1234161188","802481-3217","Insamlingsstiftelsen Power Woman Foundation","https://www.powerwomanfoundation.org/","donation,stiftelse,styrketräning",""
 "1234162491","802535-9814","Skövde Discgolfklubb","https://www.laget.se/SkovdeDiscgolf/","discgolfbana,discgolfklubb",""
+"1234162590","556714-7599","Biodlartips & Jalin Film AB","https://biodlartips.se/","biodling,försäljning,podcast",""
 "1234162988","802535-7305","Mediumförbundet","https://mediumforbundet.se/","förbund,medium,spiritualism",""
 "1234166773","836200-0815","PRO Karlshamn","https://pro.se/distrikt/distrikt-blekinge/samorganisationer/samorganisation-karlshamn/foreningar/karlshamn.html","pensionärsklubb",""
 "1234166826","802422-9620","Johanniterhjälpen","https://johanniterhjalpen.se/","hjälporganisation,insamling,ukraina",""
