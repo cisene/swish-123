@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-17-rev-011849",
+    "date": "2024-06-17-rev-020646",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7559,6 +7559,17 @@
       "web": "https://www.dackpartner.se/falun/falu-dackservice/"
     },
     {
+      "entry": 1230533620,
+      "orgName": "Sibbarps Bastuv\u00e4nner",
+      "orgNumber": "802461-9499",
+      "comment": null,
+      "categories": [
+        "bastu",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://sibbarpsbastuvanner.se/"
+    },
+    {
       "entry": 1230536193,
       "orgName": "Storumans Brukshundklubb",
       "orgNumber": "895400-6485",
@@ -14686,6 +14697,17 @@
       "web": "https://borlange.adventkyrka.se/"
     },
     {
+      "entry": 1231047943,
+      "orgName": "Kallbadhuset Sundet",
+      "orgNumber": "802533-5707",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kallbadhus"
+      ],
+      "web": "https://www.kallbadhusetsundet.se/"
+    },
+    {
       "entry": 1231047984,
       "orgName": "Happy Picnic AB",
       "orgNumber": "559264-5054",
@@ -16326,6 +16348,18 @@
       "web": "https://rotary2400.se/stories/starfish-rotaract"
     },
     {
+      "entry": 1231162668,
+      "orgName": "Torekov Kallbadhus",
+      "orgNumber": "739400-0405",
+      "comment": null,
+      "categories": [
+        "bastu",
+        "intressef\u00f6rening",
+        "kallbadhus"
+      ],
+      "web": "https://www.torekov.se/hem/byinformation-och-byar%C3%A5d/projekt-torekov-havsbadhus/"
+    },
+    {
       "entry": 1231162973,
       "orgName": "Team Rynkeby",
       "orgNumber": "802533-7869",
@@ -17142,6 +17176,16 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/visby/"
+    },
+    {
+      "entry": 1231224567,
+      "orgName": "Friluftsfr\u00e4mjandet Ljungskile",
+      "orgNumber": "858501-1870",
+      "comment": null,
+      "categories": [
+        "friluftsliv"
+      ],
+      "web": "https://www.friluftsframjandet.se/regioner/vast/lokalavdelningar/ljungskile/"
     },
     {
       "entry": 1231224633,
@@ -28926,6 +28970,20 @@
       "web": "https://avdiscgolf.se/"
     },
     {
+      "entry": 1232124402,
+      "orgName": "Nyn\u00e4s Havsbad / Sodexo",
+      "orgNumber": "556528-2984",
+      "comment": null,
+      "categories": [
+        "badkultur",
+        "hotell",
+        "kallbadhus",
+        "restaurant",
+        "spakultur"
+      ],
+      "web": "https://nynashavsbad.se/"
+    },
+    {
       "entry": 1232124618,
       "orgName": "SPF Seniorerna Havsvinden \u00c5hus",
       "orgNumber": "838202-2823",
@@ -30553,6 +30611,17 @@
         "utbildning"
       ],
       "web": "https://www.4h.se/stattared/"
+    },
+    {
+      "entry": 1232222438,
+      "orgName": "Ulricehamns Kallbadshus",
+      "orgNumber": "802428-0052",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kallbadhus"
+      ],
+      "web": "https://www.ulricehamnskallbad.se/"
     },
     {
       "entry": 1232222495,
@@ -35509,6 +35578,17 @@
       "web": "https://www.laget.se/BKXet/"
     },
     {
+      "entry": 1232616571,
+      "orgName": "Malm\u00f6 Bastugille",
+      "orgNumber": "846001-2373",
+      "comment": null,
+      "categories": [
+        "bastu",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://bastugillet.se/"
+    },
+    {
       "entry": 1232620029,
       "orgName": "F\u00f6reningen Fellingsbro Socken",
       "orgNumber": "802519-6547",
@@ -39154,6 +39234,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-landskrona/foreningar/gourmet.html"
+    },
+    {
+      "entry": 1232872612,
+      "orgName": "Kallbadhusets V\u00e4nner i V\u00e4gga",
+      "orgNumber": "802441-9718",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kallbadhus"
+      ],
+      "web": "https://kallbad.com/"
     },
     {
       "entry": 1232872695,
@@ -46231,6 +46322,17 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.vanersborgsryttarforening.com/"
+    },
+    {
+      "entry": 1233441839,
+      "orgName": "F\u00f6reningen Kvickbadhuset H\u00f6gan\u00e4s",
+      "orgNumber": "802422-4746",
+      "comment": null,
+      "categories": [
+        "bastu",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://kvickbadhuset.se/"
     },
     {
       "entry": 1233441953,
@@ -57930,6 +58032,17 @@
       "web": "https://www.svenskalag.se/falkopingsvk"
     },
     {
+      "entry": 1234389995,
+      "orgName": "F\u00f6reningen Isbj\u00f6rnarna",
+      "orgNumber": "802536-8898",
+      "comment": null,
+      "categories": [
+        "bastu",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.isbjornarnabromma.se/"
+    },
+    {
       "entry": 1234391405,
       "orgName": "R\u00e4ttviks Scoutk\u00e5r",
       "orgNumber": "883200-6822",
@@ -62457,6 +62570,17 @@
       "web": "https://www.gardenize.com/"
     },
     {
+      "entry": 1234745428,
+      "orgName": "Kallbadhusf\u00f6reningen Havsbadet \u00c4ngelholm",
+      "orgNumber": "802526-3669",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kallbadhus"
+      ],
+      "web": "https://www.havsbadet.com/"
+    },
+    {
       "entry": 1234745816,
       "orgName": "Diakonala fonden / Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
@@ -65142,6 +65266,17 @@
         "f\u00f6rening"
       ],
       "web": "https://nolabi.se/"
+    },
+    {
+      "entry": 1235030994,
+      "orgName": "F\u00f6reningen Ystads Kallbadhus",
+      "orgNumber": "802427-8874",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kallbadhus"
+      ],
+      "web": "https://www.ystadskallbadhus.se/"
     },
     {
       "entry": 1235031000,
@@ -78517,6 +78652,17 @@
       "web": "https://www.svenskakyrkan.se/vantor"
     },
     {
+      "entry": 1236069421,
+      "orgName": "Storsj\u00f6ns Kallbadhus",
+      "orgNumber": "802493-1498",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kallbadhus"
+      ],
+      "web": "https://www.storsjonskallbadhus.se/"
+    },
+    {
       "entry": 1236070320,
       "orgName": "Nimbuskyrkan",
       "orgNumber": "857201-9738",
@@ -82943,6 +83089,17 @@
       "web": "https://www.hembygd.se/brukshistoriska"
     },
     {
+      "entry": 1236420665,
+      "orgName": "Gottsk\u00e4rs Kallbadhus",
+      "orgNumber": "802545-7063",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kallbadhus"
+      ],
+      "web": "https://gottskarskallbadhus.se/"
+    },
+    {
       "entry": 1236425037,
       "orgName": "Bandieras tifo / Kvillestreamen",
       "orgNumber": "802535-4955",
@@ -84987,6 +85144,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://tbif.se/"
+    },
+    {
+      "entry": 1236616189,
+      "orgName": "Askims bastu",
+      "orgNumber": "857202-3656",
+      "comment": null,
+      "categories": [
+        "bastu",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.askimsbastu.se/"
     },
     {
       "entry": 1236616858,
