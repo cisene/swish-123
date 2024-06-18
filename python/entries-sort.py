@@ -138,7 +138,9 @@ def main():
     if str(entry) not in entry_list:
       entry_list.append(str(entry))
     else:
+      print(f"\tEntry '{str(entry)}' skipped as duplicate ..")
       continue
+
   entry_list.sort()
   print("... sorted")
 
@@ -153,7 +155,6 @@ def main():
   print(f"\tWriting {dest_dict_count} entries")
   print(f"Writing destination YAML: {YAML_SOURCE_FILE} ..")
   writeYAML(YAML_SOURCE_FILE, dest_dict)
-  print("Done")
 
 if __name__ == '__main__':
   main()
