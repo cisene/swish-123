@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-23-rev-002040",
+    "date": "2024-06-23-rev-011738",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2360,6 +2360,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.sandviksik.se/"
+    },
+    {
+      "entry": 1230184788,
+      "orgName": "Christianstads Skyttes\u00e4llskap",
+      "orgNumber": "838200-2221",
+      "comment": "T\u00e4vlingsavgifter",
+      "categories": [
+        "skyttef\u00f6rening",
+        "skytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/christianstadsskyttesallskap"
     },
     {
       "entry": 1230184994,
@@ -6050,6 +6061,17 @@
         "ridklubb"
       ],
       "web": "http://www.himledalensridklubb.se/"
+    },
+    {
+      "entry": 1230419226,
+      "orgName": "Horn-Hycklinge IF",
+      "orgNumber": "822000-1633",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hornhycklingeif"
     },
     {
       "entry": 1230419572,
@@ -11803,6 +11825,17 @@
         "religion"
       ],
       "web": "https://hillsong.com/sweden/"
+    },
+    {
+      "entry": 1230839464,
+      "orgName": "FBC Lo",
+      "orgNumber": "802464-6443",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/fbclo"
     },
     {
       "entry": 1230839803,
@@ -19701,6 +19734,17 @@
       "web": "http://limhamnsmuseum.se/"
     },
     {
+      "entry": 1231374206,
+      "orgName": "Kiruna Hockeyskola",
+      "orgNumber": "802440-6426",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/kirunahockeyskola"
+    },
+    {
       "entry": 1231374511,
       "orgName": "Ljungby F\u00f6rsamling",
       "orgNumber": "252002-7273",
@@ -22458,8 +22502,8 @@
       "orgNumber": "802504-3517",
       "comment": null,
       "categories": [
-        "fiskev\u00e5rd",
-        "f\u00f6rening"
+        "fiskeklubb",
+        "fiskev\u00e5rd"
       ],
       "web": "http://fvforingen.bloggplatsen.se/"
     },
@@ -24368,6 +24412,17 @@
         "underh\u00e5llning"
       ],
       "web": "http://ronnebyfolkteater.se/"
+    },
+    {
+      "entry": 1231709047,
+      "orgName": "Kils Bordtennisklubb",
+      "orgNumber": "802471-8523",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/kilsbtk"
     },
     {
       "entry": 1231709245,
@@ -27935,6 +27990,17 @@
         "spiritualism"
       ],
       "web": "http://www.margarethaslivsrum.se/"
+    },
+    {
+      "entry": 1231979707,
+      "orgName": "Kiruna City HF",
+      "orgNumber": "802440-6426",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/kirunacity"
     },
     {
       "entry": 1231979749,
@@ -33057,6 +33123,17 @@
       "web": "https://www.klickerklok.se/"
     },
     {
+      "entry": 1232318210,
+      "orgName": "Ljungbyheds IF",
+      "orgNumber": "837600-1023",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ljungbyhedsif"
+    },
+    {
       "entry": 1232318665,
       "orgName": "F\u00f6reningen F\u00e5r\u00f6 Framtid",
       "orgNumber": "834001-9705",
@@ -34299,6 +34376,17 @@
         "dansundervisning"
       ],
       "web": "https://www.adrianasdanshus.se/"
+    },
+    {
+      "entry": 1232409365,
+      "orgName": "Kisa BK",
+      "orgNumber": "822000-1955",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/kisabk"
     },
     {
       "entry": 1232409746,
@@ -36232,6 +36320,17 @@
       "web": "https://www.slottsmusik.com/"
     },
     {
+      "entry": 1232609972,
+      "orgName": "Knivsta Boxningsklubb",
+      "orgNumber": "802541-1425",
+      "comment": null,
+      "categories": [
+        "boxningsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/knivstaboxningsklubb"
+    },
+    {
       "entry": 1232610319,
       "orgName": "Team Rynkeby",
       "orgNumber": "802533-7653",
@@ -37836,6 +37935,19 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/bengtsfors/torrskogs-kyrka"
+    },
+    {
+      "entry": 1232707677,
+      "orgName": "Rimforsa IF",
+      "orgNumber": "822000-8273",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/rimforsaif"
     },
     {
       "entry": 1232707792,
@@ -39488,6 +39600,17 @@
       "web": "https://www.molndaloutdoor.se/"
     },
     {
+      "entry": 1232813103,
+      "orgName": "Kiruna Konst\u00e5kningsf\u00f6rening",
+      "orgNumber": "802438-0472",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.svenskalag.se/kirunakonstakningsforening"
+    },
+    {
       "entry": 1232813665,
       "orgName": "Bj\u00f6rkviks Hembygdsf\u00f6rening",
       "orgNumber": "818500-8763",
@@ -39506,6 +39629,20 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/familjefridsjouren/"
+    },
+    {
+      "entry": 1232816098,
+      "orgName": "HC3 Kemjoh Hapkido TKD",
+      "orgNumber": "802448-2443",
+      "comment": null,
+      "categories": [
+        "boxningsklubb",
+        "brasiliansk jiu-jitsu",
+        "idrottsf\u00f6rening",
+        "mmaklubb",
+        "taekwondoklubb"
+      ],
+      "web": "https://www.svenskalag.se/hc3"
     },
     {
       "entry": 1232816171,
@@ -40417,6 +40554,17 @@
         "lokaluthyrning"
       ],
       "web": "https://karingberget.se/"
+    },
+    {
+      "entry": 1232888089,
+      "orgName": "Kristianstad FC",
+      "orgNumber": "802498-9777",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/kristianstadfc"
     },
     {
       "entry": 1232888352,
@@ -41334,6 +41482,17 @@
         "ungdomsverksamhet"
       ],
       "web": null
+    },
+    {
+      "entry": 1232967396,
+      "orgName": "Knivsta CK",
+      "orgNumber": "802418-5509",
+      "comment": null,
+      "categories": [
+        "cykelklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/knivstack"
     },
     {
       "entry": 1232967776,
@@ -43665,6 +43824,18 @@
         "kvinnojour"
       ],
       "web": "https://kvinnojourenblenda.se/"
+    },
+    {
+      "entry": 1233139029,
+      "orgName": "Kinda RF",
+      "orgNumber": "822001-3174",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.svenskalag.se/kindaryttarforening"
     },
     {
       "entry": 1233139144,
@@ -50195,6 +50366,17 @@
       "web": "https://katthem.nu/"
     },
     {
+      "entry": 1233620598,
+      "orgName": "Christianstads Skyttes\u00e4llskap",
+      "orgNumber": "838200-2221",
+      "comment": "Medlemsavgift",
+      "categories": [
+        "skyttef\u00f6rening",
+        "skytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/christianstadsskyttesallskap"
+    },
+    {
       "entry": 1233622313,
       "orgName": "Lule\u00e5Fans",
       "orgNumber": "897001-7029",
@@ -51089,6 +51271,17 @@
         "v\u00e5rdf\u00f6rbund"
       ],
       "web": "https://www.barnmorskeforbundet.se/"
+    },
+    {
+      "entry": 1233698495,
+      "orgName": "Kils AIK FIK",
+      "orgNumber": "873201-0411",
+      "comment": null,
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/kilsaikfik"
     },
     {
       "entry": 1233698545,
@@ -53738,6 +53931,18 @@
         "hundsport"
       ],
       "web": "https://www.hundtrixet.se/"
+    },
+    {
+      "entry": 1233896685,
+      "orgName": "Ljungbyheds Pistolklubb",
+      "orgNumber": "837600-6485",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skyttef\u00f6rening",
+        "skytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/ljungbyhedspistolklubb"
     },
     {
       "entry": 1233896974,
@@ -56799,6 +57004,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/undersaker"
+    },
+    {
+      "entry": 1234181293,
+      "orgName": "Kiruna FF",
+      "orgNumber": "897300-1731",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/kirunaff"
     },
     {
       "entry": 1234181335,
@@ -60828,6 +61044,18 @@
       "web": "https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bollebygd/"
     },
     {
+      "entry": 1234503181,
+      "orgName": "Klippans Pistolklubb",
+      "orgNumber": "837600-7301",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skyttef\u00f6rening",
+        "skytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/klippanspistolklubb"
+    },
+    {
       "entry": 1234503470,
       "orgName": "LP-f\u00f6reningen i \u00d6rebro L\u00e4n",
       "orgNumber": "875002-8303",
@@ -62325,6 +62553,17 @@
       "web": "https://www.skarvsthlm.com/"
     },
     {
+      "entry": 1234616348,
+      "orgName": "FBC Viljan",
+      "orgNumber": "802446-1967",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/viljan"
+    },
+    {
       "entry": 1234618468,
       "orgName": "Lagunda Hembygdsf\u00f6rening",
       "orgNumber": "817001-5344",
@@ -63073,6 +63312,17 @@
         "b\u00e5tv\u00e5rd"
       ],
       "web": "http://www.hovik.se/"
+    },
+    {
+      "entry": 1234673448,
+      "orgName": "Klippans F\u00f6renade FF",
+      "orgNumber": "837600-0546",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/klippansff"
     },
     {
       "entry": 1234673455,
@@ -72661,6 +72911,17 @@
       "web": "https://www.svenskakyrkan.se/stromsund/strom---alanas"
     },
     {
+      "entry": 1235437967,
+      "orgName": "KFUM Kristianstad VK",
+      "orgNumber": "802458-4859",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "volleybollklubb"
+      ],
+      "web": "https://www.svenskalag.se/kfumkristianstadvk"
+    },
+    {
       "entry": 1235438411,
       "orgName": "Naturum Hornborgasj\u00f6n / L\u00e4nsstyrelsen V\u00e4stra G\u00f6taland",
       "orgNumber": "202100-2361",
@@ -72892,6 +73153,21 @@
         "hunduppf\u00f6dning"
       ],
       "web": "https://schaferhundklubben.com/"
+    },
+    {
+      "entry": 1235452552,
+      "orgName": "Kiruna AIF",
+      "orgNumber": "897300-0303",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "bowlingklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "ishockeyklubb",
+        "tyngdlyftning"
+      ],
+      "web": "https://www.svenskalag.se/kirunaaif"
     },
     {
       "entry": 1235452719,
@@ -76655,6 +76931,18 @@
       "web": "https://www.laget.se/yngsjoif/"
     },
     {
+      "entry": 1235732300,
+      "orgName": "Fj\u00e4lkestads RK",
+      "orgNumber": "838200-6081",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/fjalkestadsrk"
+    },
+    {
       "entry": 1235748116,
       "orgName": "AIK-Tifo",
       "orgNumber": "802410-3072",
@@ -76718,6 +77006,17 @@
         "karateklubb"
       ],
       "web": "https://www.svenskalag.se/bushidokaratekarlskrona"
+    },
+    {
+      "entry": 1235750310,
+      "orgName": "G\u00e4rds K\u00f6pinge IF",
+      "orgNumber": "838200-1363",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/gkif"
     },
     {
       "entry": 1235751193,
@@ -79714,6 +80013,18 @@
         "tr\u00e4dg\u00e5rdsodling"
       ],
       "web": "https://stadsodlingsvandringar.se/"
+    },
+    {
+      "entry": 1236002349,
+      "orgName": "Knivsta IS",
+      "orgNumber": "802468-5094",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.svenskalag.se/knivstais"
     },
     {
       "entry": 1236003792,
@@ -82832,6 +83143,17 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://www.vallentunajudo.se/"
+    },
+    {
+      "entry": 1236234686,
+      "orgName": "Knivsta Optimist och Jolleklubb",
+      "orgNumber": "817601-4689",
+      "comment": null,
+      "categories": [
+        "jolleklubb",
+        "segelklubb"
+      ],
+      "web": "https://www.svenskalag.se/kojk"
     },
     {
       "entry": 1236235840,
@@ -90508,6 +90830,17 @@
       "web": "https://www.facebook.com/groups/214850042059188/"
     },
     {
+      "entry": 1236855852,
+      "orgName": "Nedre Soppero IK",
+      "orgNumber": "897300-0964",
+      "comment": null,
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/nedresopperoik"
+    },
+    {
       "entry": 1236856744,
       "orgName": "Ukrainian Volunteer Hub Stockholm",
       "orgNumber": "802543-9491",
@@ -90572,6 +90905,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236863591,
+      "orgName": "KFUM Kristianstad BTF",
+      "orgNumber": "802457-0676",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/kfumkristianstadbtf"
     },
     {
       "entry": 1236863963,
