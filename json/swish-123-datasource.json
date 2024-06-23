@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-23-rev-011738",
+    "date": "2024-06-23-rev-194207",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2310,6 +2310,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan"
+    },
+    {
+      "entry": 1230183715,
+      "orgName": "Skepparsl\u00f6vs IF",
+      "orgNumber": "838200-3633",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/skippet"
     },
     {
       "entry": 1230183822,
@@ -13892,6 +13903,17 @@
         "djurskydd"
       ],
       "web": "https://www.djurensvanner.se/vaxjo"
+    },
+    {
+      "entry": 1230972638,
+      "orgName": "Kristianstads Pistolklubb",
+      "orgNumber": "838201-3426",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/kristianstadspk"
     },
     {
       "entry": 1230973263,
@@ -26759,6 +26781,17 @@
       "web": "https://equmeniakyrkan.se/grafsnassollebrunn/"
     },
     {
+      "entry": 1231870898,
+      "orgName": "Viby IF",
+      "orgNumber": "838200-5661",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/vibyif"
+    },
+    {
       "entry": 1231871375,
       "orgName": "Leksand Baseboll-Softbollklubb",
       "orgNumber": "883201-3588",
@@ -34322,6 +34355,17 @@
       "web": "https://www.saralidman.se/"
     },
     {
+      "entry": 1232408011,
+      "orgName": "Ovesholms IF",
+      "orgNumber": "838200-3419",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ovesholmsif"
+    },
+    {
       "entry": 1232408177,
       "orgName": "Bolms\u00f6 Sockenr\u00e5d",
       "orgNumber": "802469-5689",
@@ -41700,6 +41744,17 @@
       "web": "https://socialpolitik.se/"
     },
     {
+      "entry": 1232990281,
+      "orgName": "N\u00e4sby IF",
+      "orgNumber": "838200-3245",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/nasbyif"
+    },
+    {
       "entry": 1232990299,
       "orgName": "Hyltebruks IF",
       "orgNumber": "828500-0744",
@@ -47840,6 +47895,19 @@
         "lionsklubb"
       ],
       "web": "http://www.lionsnybro.se/"
+    },
+    {
+      "entry": 1233455615,
+      "orgName": "Winn\u00f6 IF",
+      "orgNumber": "838200-4268",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "bouleklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/winnoif"
     },
     {
       "entry": 1233455680,
@@ -60915,6 +60983,18 @@
         "hundsport"
       ],
       "web": "https://www.bassetsyd.se/"
+    },
+    {
+      "entry": 1234494381,
+      "orgName": "Willands Ryttarf\u00f6rening",
+      "orgNumber": "838200-7790",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "rids\u00e4llskap",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/willandsrf"
     },
     {
       "entry": 1234494522,
@@ -79942,6 +80022,17 @@
       "web": "https://vkfhemsida.wordpress.com/"
     },
     {
+      "entry": 1235990247,
+      "orgName": "Kristianstad Padelklubb",
+      "orgNumber": "802531-5188",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "padelklubb"
+      ],
+      "web": "https://www.svenskalag.se/kristianstadpk"
+    },
+    {
       "entry": 1235991534,
       "orgName": "PON Unionen",
       "orgNumber": "802523-9131",
@@ -89503,6 +89594,17 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.skk.se/sv/SHU/"
+    },
+    {
+      "entry": 1236760995,
+      "orgName": "V\u00e5ngabergets SLK",
+      "orgNumber": "838200-9754",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "slalomklubb"
+      ],
+      "web": "https://www.svenskalag.se/vangabergets-slk"
     },
     {
       "entry": 1236761027,

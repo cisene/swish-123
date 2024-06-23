@@ -1904,6 +1904,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan
 
+- entry: 1230183715
+  orgName: Skepparslövs IF
+  orgNumber: 838200-3633
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/skippet
+
 - entry: 1230183822
   orgName: Pingstförsamlingen i Kumla
   orgNumber: 875700-0818
@@ -11430,6 +11439,15 @@ entries:
   categories:
   - djurskydd
   web: https://www.djurensvanner.se/vaxjo
+
+- entry: 1230972638
+  orgName: Kristianstads Pistolklubb
+  orgNumber: 838201-3426
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  web: https://www.svenskalag.se/kristianstadspk
 
 - entry: 1230973263
   orgName: Silverforsen Folkets Park / Folkets Park i Kjeflinge
@@ -22022,6 +22040,15 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/grafsnassollebrunn/
 
+- entry: 1231870898
+  orgName: Viby IF
+  orgNumber: 838200-5661
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/vibyif
+
 - entry: 1231871375
   orgName: Leksand Baseboll-Softbollklubb
   orgNumber: 883201-3588
@@ -28270,6 +28297,15 @@ entries:
   - intresseförening
   web: https://www.saralidman.se/
 
+- entry: 1232408011
+  orgName: Ovesholms IF
+  orgNumber: 838200-3419
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ovesholmsif
+
 - entry: 1232408177
   orgName: Bolmsö Sockenråd
   orgNumber: 802469-5689
@@ -34350,6 +34386,15 @@ entries:
   - intresseförening
   web: https://socialpolitik.se/
 
+- entry: 1232990281
+  orgName: Näsby IF
+  orgNumber: 838200-3245
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/nasbyif
+
 - entry: 1232990299
   orgName: Hyltebruks IF
   orgNumber: 828500-0744
@@ -39405,6 +39450,17 @@ entries:
   categories:
   - lionsklubb
   web: http://www.lionsnybro.se/
+
+- entry: 1233455615
+  orgName: Winnö IF
+  orgNumber: 838200-4268
+  comment: null
+  categories:
+  - bordtennisklubb
+  - bouleklubb
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/winnoif
 
 - entry: 1233455680
   orgName: Östra Karups Bygdegård
@@ -50175,6 +50231,16 @@ entries:
   - hundklubb
   - hundsport
   web: https://www.bassetsyd.se/
+
+- entry: 1234494381
+  orgName: Willands Ryttarförening
+  orgNumber: 838200-7790
+  comment: null
+  categories:
+  - hästsport
+  - ridsällskap
+  - ryttarförening
+  web: https://www.svenskalag.se/willandsrf
 
 - entry: 1234494522
   orgName: Strandgården Vilshärad / Stiftelsen Fritidsgårdar
@@ -65875,6 +65941,15 @@ entries:
   - konstförening
   web: https://vkfhemsida.wordpress.com/
 
+- entry: 1235990247
+  orgName: Kristianstad Padelklubb
+  orgNumber: 802531-5188
+  comment: null
+  categories:
+  - idrottsförening
+  - padelklubb
+  web: https://www.svenskalag.se/kristianstadpk
+
 - entry: 1235991534
   orgName: PON Unionen
   orgNumber: 802523-9131
@@ -73772,6 +73847,15 @@ entries:
   - hundsport
   - ungdomsverksamhet
   web: https://www.skk.se/sv/SHU/
+
+- entry: 1236760995
+  orgName: Vångabergets SLK
+  orgNumber: 838200-9754
+  comment: null
+  categories:
+  - idrottsförening
+  - slalomklubb
+  web: https://www.svenskalag.se/vangabergets-slk
 
 - entry: 1236761027
   orgName: Karmeliterna, Samfundet Karmelitsystrarna
