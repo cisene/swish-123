@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-23-rev-194207",
+    "date": "2024-06-23-rev-205033",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3382,6 +3382,17 @@
         "religion"
       ],
       "web": "https://www.hoglidenkyrkan.se/"
+    },
+    {
+      "entry": 1230241422,
+      "orgName": "Onsala BK",
+      "orgNumber": "849400-2317",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.onsalabk.se/"
     },
     {
       "entry": 1230241539,
@@ -11530,6 +11541,16 @@
         "lionsklubb"
       ],
       "web": "https://lionssvenljunga.se/"
+    },
+    {
+      "entry": 1230814178,
+      "orgName": "KonstArt",
+      "orgNumber": "802443-2166",
+      "comment": null,
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/konstart"
     },
     {
       "entry": 1230815324,
@@ -30609,6 +30630,17 @@
       "web": "https://www.mandirstockholm.com/"
     },
     {
+      "entry": 1232180321,
+      "orgName": "Onsala Pirates BBK",
+      "orgNumber": "802436-0623",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/onsalapirates"
+    },
+    {
       "entry": 1232180396,
       "orgName": "H\u00f6reda GIF",
       "orgNumber": "827000-4511",
@@ -33441,6 +33473,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/berga"
+    },
+    {
+      "entry": 1232339935,
+      "orgName": "Tr\u00e5ngsvikens IF",
+      "orgNumber": "892000-8631",
+      "comment": null,
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.svenskalag.se/trangsvikensif"
     },
     {
       "entry": 1232341352,
@@ -36901,6 +36945,17 @@
       "web": "https://www.visitflen.se/sv/313843/Orresta-O/"
     },
     {
+      "entry": 1232644284,
+      "orgName": "K\u00e4vlinge IBK",
+      "orgNumber": "802445-7841",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/kibk"
+    },
+    {
       "entry": 1232644516,
       "orgName": "H\u00f6gs\u00e4ters Kanotklubb",
       "orgNumber": "802454-7542",
@@ -39369,6 +39424,17 @@
       "web": "https://tommarpsbygdegard.wordpress.com/"
     },
     {
+      "entry": 1232799161,
+      "orgName": "Kode IF",
+      "orgNumber": "853300-3169",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/kodeif"
+    },
+    {
       "entry": 1232799351,
       "orgName": "Insamlingsstiftelsen Sk\u00e5nsk MTB Utveckling",
       "orgNumber": "802479-3518",
@@ -40153,6 +40219,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/hogalid"
+    },
+    {
+      "entry": 1232862191,
+      "orgName": "K\u00e4vlinge Sportskytteklubb",
+      "orgNumber": "802415-0370",
+      "comment": null,
+      "categories": [
+        "skyttef\u00f6rening",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/kavlingespsk"
     },
     {
       "entry": 1232862308,
@@ -48281,6 +48358,18 @@
         "segling"
       ],
       "web": "https://www.hallberg-rassy.com/"
+    },
+    {
+      "entry": 1233469541,
+      "orgName": "Christinehamns RK",
+      "orgNumber": "873600-1820",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttars\u00e4llskap"
+      ],
+      "web": "https://www.svenskalag.se/christinehamnsrk"
     },
     {
       "entry": 1233469889,
@@ -59393,6 +59482,18 @@
       "web": "https://www.unizonjourer.se/pax/"
     },
     {
+      "entry": 1234357976,
+      "orgName": "Krokom Dv\u00e4rs\u00e4tts IF",
+      "orgNumber": "892000-6585",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "parasport"
+      ],
+      "web": "https://www.svenskalag.se/kd55"
+    },
+    {
       "entry": 1234363883,
       "orgName": "F\u00f6reningen Autisterna",
       "orgNumber": "802534-2125",
@@ -61289,6 +61390,19 @@
         "religion"
       ],
       "web": "https://www.brannkyrka.org/"
+    },
+    {
+      "entry": 1234522348,
+      "orgName": "R\u00f6d\u00f6ns SK",
+      "orgNumber": "892000-5439",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "taekwondoklubb"
+      ],
+      "web": "https://www.svenskalag.se/rodonssk"
     },
     {
       "entry": 1234522736,
@@ -81147,6 +81261,17 @@
       "web": "https://www.bergianska.se/i-tr%C3%A4dg%C3%A5rd-och-v%C3%A4xthus/victoriahuset"
     },
     {
+      "entry": 1236084719,
+      "orgName": "Harestads Skyttegille",
+      "orgNumber": "853301-0321",
+      "comment": null,
+      "categories": [
+        "skyttef\u00f6rening",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/harestadsskyttegille"
+    },
+    {
       "entry": 1236085120,
       "orgName": "\u00d6den\u00e4s IF",
       "orgNumber": "864000-2476",
@@ -81421,6 +81546,17 @@
         "religion"
       ],
       "web": "https://equmeniakyrkan.se/ockelbo/"
+    },
+    {
+      "entry": 1236097190,
+      "orgName": "\u00c5hus Horna BK",
+      "orgNumber": "838200-4474",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ahushornabk"
     },
     {
       "entry": 1236097869,
@@ -84270,6 +84406,17 @@
       "web": "https://svoif.se/"
     },
     {
+      "entry": 1236299689,
+      "orgName": "K\u00e4vlinge HK",
+      "orgNumber": "845002-1764",
+      "comment": null,
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/kavlingehk"
+    },
+    {
       "entry": 1236299754,
       "orgName": "Pingskyrkan Tyres\u00f6",
       "orgNumber": "802000-8713",
@@ -86823,6 +86970,17 @@
         "ishockeyklubb"
       ],
       "web": "https://www.hammarbyhockey.se/"
+    },
+    {
+      "entry": 1236520118,
+      "orgName": "Dv\u00e4rs\u00e4tts BK",
+      "orgNumber": "802497-4589",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/dvarsattsbk"
     },
     {
       "entry": 1236520399,

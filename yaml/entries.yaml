@@ -2774,6 +2774,15 @@ entries:
   - religion
   web: https://www.hoglidenkyrkan.se/
 
+- entry: 1230241422
+  orgName: Onsala BK
+  orgNumber: 849400-2317
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.onsalabk.se/
+
 - entry: 1230241539
   orgName: Supporterklubben Änglarna
   orgNumber: 857203-4042
@@ -9465,6 +9474,14 @@ entries:
   categories:
   - lionsklubb
   web: https://lionssvenljunga.se/
+
+- entry: 1230814178
+  orgName: KonstArt
+  orgNumber: 802443-2166
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.svenskalag.se/konstart
 
 - entry: 1230815324
   orgName: Seskarö Hembygdsförening
@@ -25183,6 +25200,15 @@ entries:
   - religion
   web: https://www.mandirstockholm.com/
 
+- entry: 1232180321
+  orgName: Onsala Pirates BBK
+  orgNumber: 802436-0623
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/onsalapirates
+
 - entry: 1232180396
   orgName: Höreda GIF
   orgNumber: 827000-4511
@@ -27542,6 +27568,16 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/berga
+
+- entry: 1232339935
+  orgName: Trångsvikens IF
+  orgNumber: 892000-8631
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.svenskalag.se/trangsvikensif
 
 - entry: 1232341352
   orgName: Svea Kvinnojour
@@ -30419,6 +30455,15 @@ entries:
   - boende
   web: https://www.visitflen.se/sv/313843/Orresta-O/
 
+- entry: 1232644284
+  orgName: Kävlinge IBK
+  orgNumber: 802445-7841
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.svenskalag.se/kibk
+
 - entry: 1232644516
   orgName: Högsäters Kanotklubb
   orgNumber: 802454-7542
@@ -32437,6 +32482,15 @@ entries:
   - bygdegårdsförening
   web: https://tommarpsbygdegard.wordpress.com/
 
+- entry: 1232799161
+  orgName: Kode IF
+  orgNumber: 853300-3169
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/kodeif
+
 - entry: 1232799351
   orgName: Insamlingsstiftelsen Skånsk MTB Utveckling
   orgNumber: 802479-3518
@@ -33074,6 +33128,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/hogalid
+
+- entry: 1232862191
+  orgName: Kävlinge Sportskytteklubb
+  orgNumber: 802415-0370
+  comment: null
+  categories:
+  - skytteförening
+  - sportskytteklubb
+  web: https://www.svenskalag.se/kavlingespsk
 
 - entry: 1232862308
   orgName: Ungdomens Hus / Ystads Kommun
@@ -39766,6 +39829,16 @@ entries:
   - båtvarv
   - segling
   web: https://www.hallberg-rassy.com/
+
+- entry: 1233469541
+  orgName: Christinehamns RK
+  orgNumber: 873600-1820
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarsällskap
+  web: https://www.svenskalag.se/christinehamnsrk
 
 - entry: 1233469889
   orgName: Funäsdalens IF Erik Halvarsson Minnesfond
@@ -48913,6 +48986,16 @@ entries:
   - kvinnojour
   web: https://www.unizonjourer.se/pax/
 
+- entry: 1234357976
+  orgName: Krokom Dvärsätts IF
+  orgNumber: 892000-6585
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - parasport
+  web: https://www.svenskalag.se/kd55
+
 - entry: 1234363883
   orgName: Föreningen Autisterna
   orgNumber: 802534-2125
@@ -50481,6 +50564,17 @@ entries:
   categories:
   - religion
   web: https://www.brannkyrka.org/
+
+- entry: 1234522348
+  orgName: Rödöns SK
+  orgNumber: 892000-5439
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  - taekwondoklubb
+  web: https://www.svenskalag.se/rodonssk
 
 - entry: 1234522736
   orgName: Växjö RK - Ridsport
@@ -66854,6 +66948,15 @@ entries:
   - museum
   web: https://www.bergianska.se/i-tr%C3%A4dg%C3%A5rd-och-v%C3%A4xthus/victoriahuset
 
+- entry: 1236084719
+  orgName: Harestads Skyttegille
+  orgNumber: 853301-0321
+  comment: null
+  categories:
+  - skytteförening
+  - sportskytteklubb
+  web: https://www.svenskalag.se/harestadsskyttegille
+
 - entry: 1236085120
   orgName: Ödenäs IF
   orgNumber: 864000-2476
@@ -67077,6 +67180,15 @@ entries:
   categories:
   - religion
   web: https://equmeniakyrkan.se/ockelbo/
+
+- entry: 1236097190
+  orgName: Åhus Horna BK
+  orgNumber: 838200-4474
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ahushornabk
 
 - entry: 1236097869
   orgName: SPF Seniorerna Ljungen Seniorer Höllviken
@@ -69449,6 +69561,15 @@ entries:
   - bygdegårdsförening
   web: https://svoif.se/
 
+- entry: 1236299689
+  orgName: Kävlinge HK
+  orgNumber: 845002-1764
+  comment: null
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/kavlingehk
+
 - entry: 1236299754
   orgName: Pingskyrkan Tyresö
   orgNumber: 802000-8713
@@ -71556,6 +71677,15 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.hammarbyhockey.se/
+
+- entry: 1236520118
+  orgName: Dvärsätts BK
+  orgNumber: 802497-4589
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/dvarsattsbk
 
 - entry: 1236520399
   orgName: Föreningen Genesis
