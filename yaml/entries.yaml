@@ -11667,12 +11667,13 @@ entries:
   web: https://www.svenskakyrkan.se/skon
 
 - entry: 1230973644
-  orgName: Röda Korset
-  orgNumber: null
+  orgName: Svenska Röda Korset
+  orgNumber: 802002-8711
   comment: Ukraina-insamling
   categories:
   - hjälporganisation
-  web: null
+  - ukraina
+  web: https://www.rodakorset.se/
 
 - entry: 1230973719
   orgName: Österåkers Hembygds- och fornminnesförening
@@ -36471,9 +36472,12 @@ entries:
 
 - entry: 1233123643
   orgName: Nittorps FVO
-  orgNumber: null
+  orgNumber: 202100-2361
   comment: null
-  categories: null
+  categories:
+  - fiskeklubb
+  - fiskekort
+  - fiskevårdsområde
   web: https://gotonittorp.weebly.com/
 
 - entry: 1233123734

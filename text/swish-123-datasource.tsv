@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-06-25-rev-190347
+# Date: 2024-06-25-rev-191832
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1330,6 +1330,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230973263	745000-0026	Silverforsen Folkets Park / Folkets Park i Kjeflinge	https://www.silverforsen.se/	folkets park,folkrörelse	
 1230973305	857200-7485	BK Häcken	https://bkhacken.se/	fotbollsklubb,idrottsförening	
 1230973537	252002-3736	Sköns Församling	https://www.svenskakyrkan.se/skon	religion	
+1230973644	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	hjälporganisation,ukraina	Ukraina-insamling
 1230973719	812000-1626	Österåkers Hembygds- och fornminnesförening	https://www.hembygd.se/osteraker	fornminnesförening,hembygdsförening	
 1230973818	882600-0989	IK Brage	https://ikbrage.se/	idrottsförening	Kiosk
 1230973826	829000-7395	Ljungby Brukshundsklubb	http://www.ljungbybrukshundklubb.se/	brukshundsklubb,hundsport	
@@ -4128,6 +4129,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233117694	802000-8713	Filadelfiaförsamlingen I Stockholm	https://www.filadelfiakyrkan.se/	religion	
 1233123312	822002-4122	Björsäters Scoutkår	http://björsätersscoutkår.se/	scoutkår	
 1233123502	839401-0782	Båstads Ridklubb	https://brk.hemsida24.se/	hästsport,ridklubb	
+1233123643	202100-2361	Nittorps FVO	https://gotonittorp.weebly.com/	fiskeklubb,fiskekort,fiskevårdsområde	
 1233123734	838200-8731	Lions Club Tollarp	http://www.tollarplions.se/	lionsklubb	
 1233123874	802453-5364	Billeruds Jaktskytteklubb	https://www.svenskalag.se/billerudsjsk	jaktskytteklubb,skytteklubb	
 1233123890	885500-2625	Högbo Golfklubb	https://www.hogbogk.com/	golfklubb	Club60

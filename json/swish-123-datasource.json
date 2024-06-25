@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-25-rev-190335",
+    "date": "2024-06-25-rev-191819",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -14177,6 +14177,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/skon"
+    },
+    {
+      "entry": 1230973644,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802002-8711",
+      "comment": "Ukraina-insamling",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "ukraina"
+      ],
+      "web": "https://www.rodakorset.se/"
     },
     {
       "entry": 1230973719,
@@ -44272,6 +44283,18 @@
         "ridklubb"
       ],
       "web": "https://brk.hemsida24.se/"
+    },
+    {
+      "entry": 1233123643,
+      "orgName": "Nittorps FVO",
+      "orgNumber": "202100-2361",
+      "comment": null,
+      "categories": [
+        "fiskeklubb",
+        "fiskekort",
+        "fiskev\u00e5rdsomr\u00e5de"
+      ],
+      "web": "https://gotonittorp.weebly.com/"
     },
     {
       "entry": 1233123734,

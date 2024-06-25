@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2024-06-25-rev-190352
+Date: 2024-06-25-rev-191838
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -1330,6 +1330,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1230973263"><organization><number>745000-0026</number><name>Silverforsen Folkets Park / Folkets Park i Kjeflinge</name></organization><comment/><categories><category type="folkets park"/><category type="folkrörelse"/></categories><web>https://www.silverforsen.se/</web></entry>
     <entry number="1230973305"><organization><number>857200-7485</number><name>BK Häcken</name></organization><comment/><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://bkhacken.se/</web></entry>
     <entry number="1230973537"><organization><number>252002-3736</number><name>Sköns Församling</name></organization><comment/><categories><category type="religion"/></categories><web>https://www.svenskakyrkan.se/skon</web></entry>
+    <entry number="1230973644"><organization><number>802002-8711</number><name>Svenska Röda Korset</name></organization><comment>Ukraina-insamling</comment><categories><category type="hjälporganisation"/><category type="ukraina"/></categories><web>https://www.rodakorset.se/</web></entry>
     <entry number="1230973719"><organization><number>812000-1626</number><name>Österåkers Hembygds- och fornminnesförening</name></organization><comment/><categories><category type="fornminnesförening"/><category type="hembygdsförening"/></categories><web>https://www.hembygd.se/osteraker</web></entry>
     <entry number="1230973818"><organization><number>882600-0989</number><name>IK Brage</name></organization><comment>Kiosk</comment><categories><category type="idrottsförening"/></categories><web>https://ikbrage.se/</web></entry>
     <entry number="1230973826"><organization><number>829000-7395</number><name>Ljungby Brukshundsklubb</name></organization><comment/><categories><category type="brukshundsklubb"/><category type="hundsport"/></categories><web>http://www.ljungbybrukshundklubb.se/</web></entry>
@@ -4128,6 +4129,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1233117694"><organization><number>802000-8713</number><name>Filadelfiaförsamlingen I Stockholm</name></organization><comment/><categories><category type="religion"/></categories><web>https://www.filadelfiakyrkan.se/</web></entry>
     <entry number="1233123312"><organization><number>822002-4122</number><name>Björsäters Scoutkår</name></organization><comment/><categories><category type="scoutkår"/></categories><web>http://björsätersscoutkår.se/</web></entry>
     <entry number="1233123502"><organization><number>839401-0782</number><name>Båstads Ridklubb</name></organization><comment/><categories><category type="hästsport"/><category type="ridklubb"/></categories><web>https://brk.hemsida24.se/</web></entry>
+    <entry number="1233123643"><organization><number>202100-2361</number><name>Nittorps FVO</name></organization><comment/><categories><category type="fiskeklubb"/><category type="fiskekort"/><category type="fiskevårdsområde"/></categories><web>https://gotonittorp.weebly.com/</web></entry>
     <entry number="1233123734"><organization><number>838200-8731</number><name>Lions Club Tollarp</name></organization><comment/><categories><category type="lionsklubb"/></categories><web>http://www.tollarplions.se/</web></entry>
     <entry number="1233123874"><organization><number>802453-5364</number><name>Billeruds Jaktskytteklubb</name></organization><comment/><categories><category type="jaktskytteklubb"/><category type="skytteklubb"/></categories><web>https://www.svenskalag.se/billerudsjsk</web></entry>
     <entry number="1233123890"><organization><number>885500-2625</number><name>Högbo Golfklubb</name></organization><comment>Club60</comment><categories><category type="golfklubb"/></categories><web>https://www.hogbogk.com/</web></entry>
