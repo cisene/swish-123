@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-26-rev-171508",
+    "date": "2024-06-26-rev-173512",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2446,8 +2446,8 @@
       "orgNumber": "838200-2221",
       "comment": "T\u00e4vlingsavgifter",
       "categories": [
-        "skyttef\u00f6rening",
-        "skytteklubb"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/christianstadsskyttesallskap"
     },
@@ -5424,7 +5424,6 @@
       "comment": null,
       "categories": [
         "pistolskytteklubb",
-        "skyttef\u00f6rening",
         "skytteklubb",
         "sportskytteklubb"
       ],
@@ -9627,7 +9626,7 @@
       "orgNumber": "866000-1549",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/mariestadssg"
@@ -9861,7 +9860,7 @@
       "orgNumber": "802416-2326",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/balgvikensskf"
@@ -13793,7 +13792,6 @@
       "orgNumber": "835000-1122",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
         "skytteklubb",
         "sportskytteklubb"
       ],
@@ -15637,7 +15635,7 @@
       "orgNumber": "802460-1638",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/norrakallandsungdomsskytteforening"
@@ -17019,8 +17017,8 @@
       "comment": null,
       "categories": [
         "pistolskytteklubb",
-        "skyttef\u00f6rening",
-        "skytteklubb"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "http://www.ulricehamnspk.se/"
     },
@@ -19473,7 +19471,6 @@
       "orgNumber": "836201-1093",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
         "skytteklubb",
         "sportskytteklubb"
       ],
@@ -22678,8 +22675,7 @@
       "categories": [
         "bowlsklubb",
         "fotbollsklubb",
-        "idrottsf\u00f6rening",
-        "idrottsklubb"
+        "idrottsf\u00f6rening"
       ],
       "web": "https://www.kappelshamnsik.se/"
     },
@@ -24079,8 +24075,8 @@
       "orgNumber": "828500-2997",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
-        "skytteklubb"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "https://www.anderstorpsskf.se/"
     },
@@ -24638,8 +24634,8 @@
       "orgNumber": "837600-1767",
       "comment": null,
       "categories": [
-        "f\u00f6rening",
-        "skyttef\u00f6rening"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "https://www.facebook.com/Orkelljungaskytte/"
     },
@@ -26048,7 +26044,7 @@
       "comment": null,
       "categories": [
         "pistolskytteklubb",
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/arlaskf"
@@ -30600,7 +30596,7 @@
       "orgNumber": "802450-0020",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/essungaskytteforening"
@@ -30954,7 +30950,7 @@
       "orgNumber": "802459-0146",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/bergauskf"
@@ -34010,7 +34006,7 @@
       "orgNumber": "872000-4517",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/arvikasg"
@@ -36072,7 +36068,6 @@
         "fotbollsklubb",
         "h\u00f6rselneds\u00e4ttning",
         "idrottsf\u00f6rening",
-        "idrottsklubb",
         "innebandyklubb",
         "ishockeyklubb",
         "teckenspr\u00e5k"
@@ -36791,7 +36786,7 @@
       "categories": [
         "idrottsf\u00f6rening",
         "simklubb",
-        "simkunnighet",
+        "simskola",
         "utbildning",
         "vattenpolo"
       ],
@@ -39263,7 +39258,7 @@
       "comment": null,
       "categories": [
         "jaktskytteklubb",
-        "skyttef\u00f6rening"
+        "skytteklubb"
       ],
       "web": "https://www.kalmarjsk.se/"
     },
@@ -40616,7 +40611,7 @@
       "comment": null,
       "categories": [
         "pistolskytteklubb",
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/luleapistolklubb"
@@ -40963,7 +40958,7 @@
       "orgNumber": "832800-5312",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/monsterasskf"
@@ -41181,7 +41176,7 @@
       "orgNumber": "802415-0370",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/kavlingespsk"
@@ -42535,8 +42530,7 @@
       "comment": null,
       "categories": [
         "donation",
-        "idrottsf\u00f6rening",
-        "idrottsklubb"
+        "idrottsf\u00f6rening"
       ],
       "web": "https://www.ikmakkabi.se/"
     },
@@ -43752,7 +43746,7 @@
       "comment": null,
       "categories": [
         "livr\u00e4ddning",
-        "simkunnighet"
+        "simskola"
       ],
       "web": "https://svenskalivraddningssallskapet.se/"
     },
@@ -46354,7 +46348,6 @@
       "orgNumber": "842000-5376",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
         "skytteklubb",
         "sportskytteklubb"
       ],
@@ -46524,7 +46517,7 @@
       "orgNumber": "802428-1266",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/steskilsskyttar"
@@ -51704,8 +51697,8 @@
       "orgNumber": "838200-2221",
       "comment": "Medlemsavgift",
       "categories": [
-        "skyttef\u00f6rening",
-        "skytteklubb"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/christianstadsskyttesallskap"
     },
@@ -52600,7 +52593,7 @@
       "orgNumber": "829000-3162",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/markarydsspsk"
@@ -52721,7 +52714,7 @@
       "categories": [
         "intressef\u00f6rening",
         "livr\u00e4ddning",
-        "simkunnighet"
+        "simskola"
       ],
       "web": "https://slsgoteborg.se/"
     },
@@ -55031,7 +55024,6 @@
       "orgNumber": "838200-6149",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
         "skytteklubb",
         "sportskytteklubb"
       ],
@@ -55296,7 +55288,6 @@
       "comment": null,
       "categories": [
         "pistolskytteklubb",
-        "skyttef\u00f6rening",
         "skytteklubb"
       ],
       "web": "https://www.svenskalag.se/ljungbyhedspistolklubb"
@@ -55782,9 +55773,7 @@
       "categories": [
         "bouleklubb",
         "idrottsf\u00f6rening",
-        "idrottsklubb",
         "simklubb",
-        "simkunnighet",
         "simskola"
       ],
       "web": "https://www.knippla.se/knippla-ik"
@@ -58342,7 +58331,7 @@
       "orgNumber": "802459-4767",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/strandabygdensspsk"
@@ -59531,7 +59520,7 @@
       "orgNumber": "802429-5423",
       "comment": "Medlemsavgift",
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/skallingeskytteforening"
@@ -59830,7 +59819,7 @@
       "orgNumber": "832800-4919",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/alemssf"
@@ -61633,7 +61622,7 @@
       "comment": null,
       "categories": [
         "fotbollsklubb",
-        "idrottsklubb"
+        "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/IKOden/"
     },
@@ -61881,8 +61870,8 @@
       "orgNumber": "802455-6683",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
-        "skytteklubb"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/gullspangssf"
     },
@@ -62650,8 +62639,8 @@
       "comment": null,
       "categories": [
         "pistolskytteklubb",
-        "skyttef\u00f6rening",
-        "skytteklubb"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/klippanspistolklubb"
     },
@@ -64238,7 +64227,8 @@
       "comment": null,
       "categories": [
         "insamling",
-        "skyttef\u00f6rening"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "https://dala-mp.se/"
     },
@@ -77002,7 +76992,6 @@
       "orgNumber": "835000-3805",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
         "skytteklubb",
         "sportskytteklubb"
       ],
@@ -77422,8 +77411,8 @@
       "orgNumber": "816000-4589",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
-        "skytteklubb"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "http://osseby-skytte.se/"
     },
@@ -78213,8 +78202,7 @@
       "orgNumber": "827500-9986",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening",
-        "idrottsklubb"
+        "idrottsf\u00f6rening"
       ],
       "web": "https://www.skiroaik.se/"
     },
@@ -78988,7 +78976,7 @@
       "comment": null,
       "categories": [
         "jaktskytteklubb",
-        "skyttef\u00f6rening"
+        "skytteklubb"
       ],
       "web": "https://www.svenskalag.se/gaf"
     },
@@ -82198,8 +82186,8 @@
       "orgNumber": "875700-9702",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
-        "skytteklubb"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "https://www.hallsbergsskf.se/"
     },
@@ -82800,7 +82788,7 @@
       "orgNumber": "802467-9444",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/osterhaningeskytteforening"
@@ -83115,7 +83103,7 @@
       "orgNumber": "853301-0321",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/harestadsskyttegille"
@@ -84198,7 +84186,7 @@
       "orgNumber": "817000-5717",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/orsundsbroskytte"
@@ -84381,8 +84369,8 @@
       "orgNumber": "897900-0125",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
-        "skytteklubb"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/gallivaresf"
     },
@@ -85479,7 +85467,7 @@
       "orgNumber": "802506-9280",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/satilasf"
@@ -87878,7 +87866,7 @@
       "orgNumber": "802429-5423",
       "comment": "Ammunition och serieavgifter",
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/skallingeskytteforening"
@@ -90091,7 +90079,6 @@
       "orgNumber": "887500-7513",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
         "skytteklubb",
         "sportskytteklubb"
       ],
@@ -91490,7 +91477,7 @@
       "orgNumber": "802457-0122",
       "comment": null,
       "categories": [
-        "skyttef\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/kvistbroskytteforening"
@@ -91636,7 +91623,7 @@
       "categories": [
         "jaktskytteklubb",
         "jaktv\u00e5rdsklubb",
-        "skyttef\u00f6rening"
+        "skytteklubb"
       ],
       "web": "https://www.svenskalag.se/harrydajvf"
     },

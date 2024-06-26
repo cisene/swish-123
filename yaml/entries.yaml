@@ -2014,8 +2014,8 @@ entries:
   orgNumber: 838200-2221
   comment: Tävlingsavgifter
   categories:
-  - skytteförening
   - skytteklubb
+  - sportskytteklubb
   web: https://www.svenskalag.se/christianstadsskyttesallskap
 
 - entry: 1230184994
@@ -4458,7 +4458,6 @@ entries:
   comment: null
   categories:
   - pistolskytteklubb
-  - skytteförening
   - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/hallsbergpk
@@ -7911,7 +7910,7 @@ entries:
   orgNumber: 866000-1549
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/mariestadssg
 
@@ -8103,7 +8102,7 @@ entries:
   orgNumber: 802416-2326
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/balgvikensskf
 
@@ -11344,7 +11343,6 @@ entries:
   orgNumber: 835000-1122
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
   - sportskytteklubb
   web: https://www.ka2skf.se/
@@ -12866,7 +12864,7 @@ entries:
   orgNumber: 802460-1638
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/norrakallandsungdomsskytteforening
 
@@ -14007,8 +14005,8 @@ entries:
   comment: null
   categories:
   - pistolskytteklubb
-  - skytteförening
   - skytteklubb
+  - sportskytteklubb
   web: http://www.ulricehamnspk.se/
 
 - entry: 1231159193
@@ -16034,7 +16032,6 @@ entries:
   orgNumber: 836201-1093
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/ringamalaskf
@@ -18665,7 +18662,6 @@ entries:
   - bowlsklubb
   - fotbollsklubb
   - idrottsförening
-  - idrottsklubb
   web: https://www.kappelshamnsik.se/
 
 - entry: 1231543024
@@ -19823,8 +19819,8 @@ entries:
   orgNumber: 828500-2997
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
+  - sportskytteklubb
   web: https://www.anderstorpsskf.se/
 
 - entry: 1231628254
@@ -20278,8 +20274,8 @@ entries:
   orgNumber: 837600-1767
   comment: null
   categories:
-  - förening
-  - skytteförening
+  - skytteklubb
+  - sportskytteklubb
   web: https://www.facebook.com/Orkelljungaskytte/
 
 - entry: 1231677616
@@ -21426,7 +21422,7 @@ entries:
   comment: null
   categories:
   - pistolskytteklubb
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/arlaskf
 
@@ -25174,7 +25170,7 @@ entries:
   orgNumber: 802450-0020
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/essungaskytteforening
 
@@ -25462,7 +25458,7 @@ entries:
   orgNumber: 802459-0146
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/bergauskf
 
@@ -28006,7 +28002,7 @@ entries:
   orgNumber: 872000-4517
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/arvikasg
 
@@ -29729,7 +29725,6 @@ entries:
   - fotbollsklubb
   - hörselnedsättning
   - idrottsförening
-  - idrottsklubb
   - innebandyklubb
   - ishockeyklubb
   - teckenspråk
@@ -30331,7 +30326,7 @@ entries:
   categories:
   - idrottsförening
   - simklubb
-  - simkunnighet
+  - simskola
   - utbildning
   - vattenpolo
   web: https://www.eskilstunasimklubb.se/
@@ -32345,7 +32340,7 @@ entries:
   comment: null
   categories:
   - jaktskytteklubb
-  - skytteförening
+  - skytteklubb
   web: https://www.kalmarjsk.se/
 
 - entry: 1232721660
@@ -33454,7 +33449,7 @@ entries:
   comment: null
   categories:
   - pistolskytteklubb
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/luleapistolklubb
 
@@ -33737,7 +33732,7 @@ entries:
   orgNumber: 832800-5312
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/monsterasskf
 
@@ -33913,7 +33908,7 @@ entries:
   orgNumber: 802415-0370
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/kavlingespsk
 
@@ -35026,7 +35021,6 @@ entries:
   categories:
   - donation
   - idrottsförening
-  - idrottsklubb
   web: https://www.ikmakkabi.se/
 
 - entry: 1232965416
@@ -36039,7 +36033,7 @@ entries:
   comment: null
   categories:
   - livräddning
-  - simkunnighet
+  - simskola
   web: https://svenskalivraddningssallskapet.se/
 
 - entry: 1233052354
@@ -38195,7 +38189,6 @@ entries:
   orgNumber: 842000-5376
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/hoorssf
@@ -38333,7 +38326,7 @@ entries:
   orgNumber: 802428-1266
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/steskilsskyttar
 
@@ -42560,8 +42553,8 @@ entries:
   orgNumber: 838200-2221
   comment: Medlemsavgift
   categories:
-  - skytteförening
   - skytteklubb
+  - sportskytteklubb
   web: https://www.svenskalag.se/christianstadsskyttesallskap
 
 - entry: 1233622313
@@ -43297,7 +43290,7 @@ entries:
   orgNumber: 829000-3162
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/markarydsspsk
 
@@ -43396,7 +43389,7 @@ entries:
   categories:
   - intresseförening
   - livräddning
-  - simkunnighet
+  - simskola
   web: https://slsgoteborg.se/
 
 - entry: 1233700952
@@ -45288,7 +45281,6 @@ entries:
   orgNumber: 838200-6149
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/bromollaskytteforening
@@ -45503,7 +45495,6 @@ entries:
   comment: null
   categories:
   - pistolskytteklubb
-  - skytteförening
   - skytteklubb
   web: https://www.svenskalag.se/ljungbyhedspistolklubb
 
@@ -45916,9 +45907,7 @@ entries:
   categories:
   - bouleklubb
   - idrottsförening
-  - idrottsklubb
   - simklubb
-  - simkunnighet
   - simskola
   web: https://www.knippla.se/knippla-ik
 
@@ -48039,7 +48028,7 @@ entries:
   orgNumber: 802459-4767
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/strandabygdensspsk
 
@@ -49002,7 +48991,7 @@ entries:
   orgNumber: 802429-5423
   comment: Medlemsavgift
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/skallingeskytteforening
 
@@ -49252,7 +49241,7 @@ entries:
   orgNumber: 832800-4919
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/alemssf
 
@@ -50768,7 +50757,7 @@ entries:
   comment: null
   categories:
   - fotbollsklubb
-  - idrottsklubb
+  - idrottsförening
   web: https://www.laget.se/IKOden/
 
 - entry: 1234415568
@@ -50970,8 +50959,8 @@ entries:
   orgNumber: 802455-6683
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
+  - sportskytteklubb
   web: https://www.svenskalag.se/gullspangssf
 
 - entry: 1234433959
@@ -51599,8 +51588,8 @@ entries:
   comment: null
   categories:
   - pistolskytteklubb
-  - skytteförening
   - skytteklubb
+  - sportskytteklubb
   web: https://www.svenskalag.se/klippanspistolklubb
 
 - entry: 1234503470
@@ -52898,7 +52887,8 @@ entries:
   comment: null
   categories:
   - insamling
-  - skytteförening
+  - skytteklubb
+  - sportskytteklubb
   web: https://dala-mp.se/
 
 - entry: 1234622635
@@ -63413,7 +63403,6 @@ entries:
   orgNumber: 835000-3805
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/jamjospk
@@ -63755,8 +63744,8 @@ entries:
   orgNumber: 816000-4589
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
+  - sportskytteklubb
   web: http://osseby-skytte.se/
 
 - entry: 1235622113
@@ -64406,7 +64395,6 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - idrottsklubb
   web: https://www.skiroaik.se/
 
 - entry: 1235690037
@@ -65036,7 +65024,7 @@ entries:
   comment: null
   categories:
   - jaktskytteklubb
-  - skytteförening
+  - skytteklubb
   web: https://www.svenskalag.se/gaf
 
 - entry: 1235750245
@@ -67725,8 +67713,8 @@ entries:
   orgNumber: 875700-9702
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
+  - sportskytteklubb
   web: https://www.hallsbergsskf.se/
 
 - entry: 1236011290
@@ -68213,7 +68201,7 @@ entries:
   orgNumber: 802467-9444
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/osterhaningeskytteforening
 
@@ -68470,7 +68458,7 @@ entries:
   orgNumber: 853301-0321
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/harestadsskyttegille
 
@@ -69387,7 +69375,7 @@ entries:
   orgNumber: 817000-5717
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/orsundsbroskytte
 
@@ -69536,8 +69524,8 @@ entries:
   orgNumber: 897900-0125
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
+  - sportskytteklubb
   web: https://www.svenskalag.se/gallivaresf
 
 - entry: 1236174932
@@ -70438,7 +70426,7 @@ entries:
   orgNumber: 802506-9280
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/satilasf
 
@@ -72422,7 +72410,7 @@ entries:
   orgNumber: 802429-5423
   comment: Ammunition och serieavgifter
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/skallingeskytteforening
 
@@ -74267,7 +74255,6 @@ entries:
   orgNumber: 887500-7513
   comment: null
   categories:
-  - skytteförening
   - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/forsaskf
@@ -75413,7 +75400,7 @@ entries:
   orgNumber: 802457-0122
   comment: null
   categories:
-  - skytteförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/kvistbroskytteforening
 
@@ -75533,7 +75520,7 @@ entries:
   categories:
   - jaktskytteklubb
   - jaktvårdsklubb
-  - skytteförening
+  - skytteklubb
   web: https://www.svenskalag.se/harrydajvf
 
 - entry: 1236751432
