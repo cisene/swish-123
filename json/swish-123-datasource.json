@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-27-rev-171504",
+    "date": "2024-06-27-rev-185925",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13817,6 +13817,19 @@
       "web": "https://www.svardsjoridklubb.se/"
     },
     {
+      "entry": 1230917146,
+      "orgName": "Ockelbo IF",
+      "orgNumber": "885500-1049",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "jympaklubb"
+      ],
+      "web": "https://www.svenskalag.se/ockelboif"
+    },
+    {
       "entry": 1230917518,
       "orgName": "Classic Car Week",
       "orgNumber": "883202-2712",
@@ -15616,6 +15629,18 @@
         "folkh\u00f6gskola"
       ],
       "web": "https://www.hjalmared.se/"
+    },
+    {
+      "entry": 1231052141,
+      "orgName": "Olofstr\u00f6ms Judoklubb",
+      "orgNumber": "802458-3919",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "judoklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/olofstromsjk"
     },
     {
       "entry": 1231052158,
@@ -24134,6 +24159,17 @@
       "web": "https://www.savarskoterklubb.se/"
     },
     {
+      "entry": 1231616127,
+      "orgName": "MK J\u00e4mke J\u00e4msh\u00f6g",
+      "orgNumber": "836200-7075",
+      "comment": null,
+      "categories": [
+        "motorklubb",
+        "motorsport"
+      ],
+      "web": "https://www.svenskalag.se/mkjamke"
+    },
+    {
       "entry": 1231616226,
       "orgName": "Hundar Utan Hem",
       "orgNumber": "802432-7630",
@@ -26487,6 +26523,18 @@
         "stiftelse"
       ],
       "web": "https://goteborg.ronaldmcdonaldhus.se/"
+    },
+    {
+      "entry": 1231780873,
+      "orgName": "Stensj\u00f6ns IF",
+      "orgNumber": "827500-1413",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/stensjonsif"
     },
     {
       "entry": 1231781608,
@@ -79985,6 +80033,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.vdif.se/"
+    },
+    {
+      "entry": 1235773502,
+      "orgName": "Orsa IF FK",
+      "orgNumber": "802430-9265",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/orsaiffk"
     },
     {
       "entry": 1235773528,

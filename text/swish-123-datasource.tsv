@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-06-27-rev-171516
+# Date: 2024-06-27-rev-185937
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1294,6 +1294,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230916718	874001-6046	Falken Parasport	https://www.svenskalag.se/falken-parasport	idrottsförening,parasport	
 1230916825	802011-1582	Stiftelsen Fryshuset	https://fryshuset.se/	familjestöd,stiftelse	Göteborg
 1230917047	883200-6889	Svärdsjö Ridklubb	https://www.svardsjoridklubb.se/	hästsport,ridklubb	
+1230917146	885500-1049	Ockelbo IF	https://www.svenskalag.se/ockelboif	fotbollsklubb,gymnastikförening,idrottsförening,jympaklubb	
 1230917518	883202-2712	Classic Car Week	https://www.classiccarweek.com/	intresseförening,veteranbil	
 1230919134	827500-3310	Vetlanda Friförsamling	https://vetlandafri.se/	religion	Missionskassan
 1230919860	802516-2655	Svensk-Albanska Nätverket, SAN	https://www.svenskalbanska.se/	hemlandsförening,intresseförening	
@@ -1463,6 +1464,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231051937	556931-2506	Fjällturen AB	https://fjallturen.se/	cykelsport,eventarrangör	
 1231051978	556986-2823	Topfunhoppborgar AB	https://www.topfunhoppborgar.se/	hinderbana,hoppborg	
 1231052091	864000-1007	Hjälmareds Folkhögskola	https://www.hjalmared.se/	folkhögskola	
+1231052141	802458-3919	Olofströms Judoklubb	https://www.svenskalag.se/olofstromsjk	idrottsförening,judoklubb,kampsportsförening	
 1231052158	892600-0764	Hede Hembygdsförening	https://www.hembygd.se/hede	hembygdsförening	
 1231052232	802456-2251	Apladalens Löparklubb	https://www.apladalenslk.se/	löparklubb	
 1231052364	832000-1962	Böda Hembygdsförening	https://www.hembygd.se/boda-hembygdsforening	hembygdsförening	
@@ -2257,6 +2259,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231615079	817000-1013	Håbro IF - Fotboll	https://www.habroif.se/	fotbollsklubb,idrottsförening	
 1231615137	802443-2224	Åre Ridklubb	https://www.areridklubb.se/	hästsport,ridklubb	
 1231615608	894002-8791	Sävarådalens Snöskoterklubb	https://www.savarskoterklubb.se/	förening,skoterklubb	
+1231616127	836200-7075	MK Jämke Jämshög	https://www.svenskalag.se/mkjamke	motorklubb,motorsport	
 1231616226	802432-7630	Hundar Utan Hem	https://hundarutanhem.se/	djurskydd,donation	Gåva
 1231616598	885000-6241	BGK VK-78 - Bangolf	https://www.vk78.se/	bangolfklubb,idrottsförening	
 1231617356	868400-3208	Västergötlands Travsällskap	https://www.axevalla.se/	hästsport,travsport,travsällskap	
@@ -2475,6 +2478,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231779537	252002-7307	Norra Möckleby-Sandby-Gårdby Församling	https://www.svenskakyrkan.se/sodraoland	religion	
 1231780410	826000-2285	Jönköpings Fältrittklubb	https://www.jonkopingsfaltrittklubb.se/	hästsport,ryttarförening,ryttarklubb	TS (Tävling/ träningsavgifter m.m.)
 1231780501	857500-7698	Stiftelsen Ronald McDonald Barnfond Göteborg	https://goteborg.ronaldmcdonaldhus.se/	hjälporganisation,stiftelse	
+1231780873	827500-1413	Stensjöns IF	https://www.svenskalag.se/stensjonsif	fotbollsklubb,friidrottsförening,idrottsförening	
 1231781608	882000-4771	Grytnäs GF	https://www.svenskalag.se/grytnasgf	gymnastikförening,idrottsförening	
 1231782531	802482-0808	Insamlingsstiftelsen Naturstiftelsen	https://www.naturstiftelsen.se/	naturvård,stiftelse	
 1231783331	802544-8260	Katrineholms Padelklubb	https://www.svenskalag.se/katrineholmspadelklubb	idrottsförening,padelklubb	
@@ -7441,6 +7445,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235770946	838201-4325	Göinge-Broby Brukshundsklubb		brukshundsklubb,hundsport	
 1235771704	818500-5520	Floda Hembygdsförening	https://www.hembygd.se/floda-hembygdsforening	hembygdsförening	
 1235773361	829500-7382	Vederslöv-Dänningelanda IF	https://www.vdif.se/	idrottsförening	
+1235773502	802430-9265	Orsa IF FK	https://www.svenskalag.se/orsaiffk	fotbollsklubb,idrottsförening	
 1235773528	802472-1691	SMU i Sjövik	https://equmeniakyrkan.se/sjovik/	religion	
 1235774351	886501-3406	Edsbyns IF HF - Handboll	https://www.edsbynsifhandboll.se/	handbollsklubb,idrottsförening	
 1235774393	802502-1125	Vänföreningen Nilssons El & Teknikmuseum	https://www.nilssonsmuseum.se/	förening,intresseorganisation,museum	

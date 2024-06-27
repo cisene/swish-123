@@ -11373,6 +11373,17 @@ entries:
   - ridklubb
   web: https://www.svardsjoridklubb.se/
 
+- entry: 1230917146
+  orgName: Ockelbo IF
+  orgNumber: 885500-1049
+  comment: null
+  categories:
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  - jympaklubb
+  web: https://www.svenskalag.se/ockelboif
+
 - entry: 1230917518
   orgName: Classic Car Week
   orgNumber: 883202-2712
@@ -12859,6 +12870,16 @@ entries:
   categories:
   - folkhögskola
   web: https://www.hjalmared.se/
+
+- entry: 1231052141
+  orgName: Olofströms Judoklubb
+  orgNumber: 802458-3919
+  comment: null
+  categories:
+  - idrottsförening
+  - judoklubb
+  - kampsportsförening
+  web: https://www.svenskalag.se/olofstromsjk
 
 - entry: 1231052158
   orgName: Hede Hembygdsförening
@@ -19877,6 +19898,15 @@ entries:
   - skoterklubb
   web: https://www.savarskoterklubb.se/
 
+- entry: 1231616127
+  orgName: MK Jämke Jämshög
+  orgNumber: 836200-7075
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://www.svenskalag.se/mkjamke
+
 - entry: 1231616226
   orgName: Hundar Utan Hem
   orgNumber: 802432-7630
@@ -21795,6 +21825,16 @@ entries:
   - hjälporganisation
   - stiftelse
   web: https://goteborg.ronaldmcdonaldhus.se/
+
+- entry: 1231780873
+  orgName: Stensjöns IF
+  orgNumber: 827500-1413
+  comment: null
+  categories:
+  - fotbollsklubb
+  - friidrottsförening
+  - idrottsförening
+  web: https://www.svenskalag.se/stensjonsif
 
 - entry: 1231781608
   orgName: Grytnäs GF
@@ -33186,6 +33226,13 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/mellerudshk
+
+- entry: 1232770436
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1232770816
   orgName: Bjurtjärns Hembygdsförening
@@ -65873,6 +65920,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.vdif.se/
+
+- entry: 1235773502
+  orgName: Orsa IF FK
+  orgNumber: 802430-9265
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/orsaiffk
 
 - entry: 1235773528
   orgName: SMU i Sjövik
