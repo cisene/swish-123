@@ -1,15 +1,5 @@
 entries:
 
-- entry: 1213349230
-  orgName: Nyköpings Bowlingsällskap, NBS
-  orgNumber: 802454-6262
-  comment: null
-  categories:
-  - bowlingklubb
-  - idrottsförening
-  - parasport
-  web: https://www.svenskalag.se/nykopingsbs
-
 - entry: 1230003194
   orgName: Kungälv Kode Golfklubb
   orgNumber: 556323-9663
@@ -41384,6 +41374,16 @@ entries:
   categories:
   - kulturförening
   web: https://www.mikosallskapet.se/
+
+- entry: 1233492303
+  orgName: Nyköpings Bowlingsällskap, NBS
+  orgNumber: 802454-6262
+  comment: null
+  categories:
+  - bowlingklubb
+  - idrottsförening
+  - parasport
+  web: https://www.svenskalag.se/nykopingsbs
 
 - entry: 1233494028
   orgName: Tynderö Hembygdsförening

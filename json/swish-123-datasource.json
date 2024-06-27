@@ -2,22 +2,10 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-27-rev-185925",
+    "date": "2024-06-27-rev-190119",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
-    {
-      "entry": 1213349230,
-      "orgName": "Nyk\u00f6pings Bowlings\u00e4llskap, NBS",
-      "orgNumber": "802454-6262",
-      "comment": null,
-      "categories": [
-        "bowlingklubb",
-        "idrottsf\u00f6rening",
-        "parasport"
-      ],
-      "web": "https://www.svenskalag.se/nykopingsbs"
-    },
     {
       "entry": 1230003194,
       "orgName": "Kung\u00e4lv Kode Golfklubb",
@@ -50237,6 +50225,18 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.mikosallskapet.se/"
+    },
+    {
+      "entry": 1233492303,
+      "orgName": "Nyk\u00f6pings Bowlings\u00e4llskap, NBS",
+      "orgNumber": "802454-6262",
+      "comment": null,
+      "categories": [
+        "bowlingklubb",
+        "idrottsf\u00f6rening",
+        "parasport"
+      ],
+      "web": "https://www.svenskalag.se/nykopingsbs"
     },
     {
       "entry": 1233494028,

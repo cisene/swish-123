@@ -1,13 +1,12 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-06-27-rev-185931
+# Date: 2024-06-27-rev-190125
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
 #
 "entry","orgNumber","orgName","web","categories","comment"
-"1213349230","802454-6262","Nyköpings Bowlingsällskap, NBS","https://www.svenskalag.se/nykopingsbs","bowlingklubb,idrottsförening,parasport",""
 "1230003194","556323-9663","Kungälv Kode Golfklubb","https://kkgk.se/","golfbana,golfklubb",""
 "1230003657","581020-XXXX","Bee Thalin, layout & foto","https://beethalin.se/","fotograf,porträttfotografi",""
 "1230004192","849400-7506","Särökometernas HK","https://www.laget.se/Handbollsskolanflickor/","handbollsklubb,idrottsförening","Handbollsskolan Flickor"
@@ -4678,6 +4677,7 @@
 "1233490273","802467-3801","Sveriges Papegojförening","http://www.papegojforening.se/","husdjur,intresseförening",""
 "1233490505","802490-5963","Ljudkonstgalleriet","http://ljudkonstgalleriet.se/","galleri,intresseförening,konst",""
 "1233491354","802433-9338","Mikosällskapet","https://www.mikosallskapet.se/","kulturförening",""
+"1233492303","802454-6262","Nyköpings Bowlingsällskap, NBS","https://www.svenskalag.se/nykopingsbs","bowlingklubb,idrottsförening,parasport",""
 "1233494028","889201-7487","Tynderö Hembygdsförening","https://www.hembygd.se/tyndero","hembygdsförening",""
 "1233495926","802515-4066","Eezer Sverige Ideell Förening","https://eezer.org/","donation,hälsovård,mödravård",""
 "1233497070","843002-4284","SPF Seniorerna Kärnan Helsingborg","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-karnan-helsingborg/","pensionärsklubb",""

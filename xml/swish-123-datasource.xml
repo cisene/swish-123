@@ -2,12 +2,11 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2024-06-27-rev-185943
+Date: 2024-06-27-rev-190136
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
   <entries>
-    <entry number="1213349230"><organization><number>802454-6262</number><name>Nyköpings Bowlingsällskap, NBS</name></organization><comment/><categories><category type="bowlingklubb"/><category type="idrottsförening"/><category type="parasport"/></categories><web>https://www.svenskalag.se/nykopingsbs</web></entry>
     <entry number="1230003194"><organization><number>556323-9663</number><name>Kungälv Kode Golfklubb</name></organization><comment/><categories><category type="golfbana"/><category type="golfklubb"/></categories><web>https://kkgk.se/</web></entry>
     <entry number="1230003657"><organization><number>581020-XXXX</number><name>Bee Thalin, layout &amp; foto</name></organization><comment/><categories><category type="fotograf"/><category type="porträttfotografi"/></categories><web>https://beethalin.se/</web></entry>
     <entry number="1230004192"><organization><number>849400-7506</number><name>Särökometernas HK</name></organization><comment>Handbollsskolan Flickor</comment><categories><category type="handbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.laget.se/Handbollsskolanflickor/</web></entry>
@@ -4678,6 +4677,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1233490273"><organization><number>802467-3801</number><name>Sveriges Papegojförening</name></organization><comment/><categories><category type="husdjur"/><category type="intresseförening"/></categories><web>http://www.papegojforening.se/</web></entry>
     <entry number="1233490505"><organization><number>802490-5963</number><name>Ljudkonstgalleriet</name></organization><comment/><categories><category type="galleri"/><category type="intresseförening"/><category type="konst"/></categories><web>http://ljudkonstgalleriet.se/</web></entry>
     <entry number="1233491354"><organization><number>802433-9338</number><name>Mikosällskapet</name></organization><comment/><categories><category type="kulturförening"/></categories><web>https://www.mikosallskapet.se/</web></entry>
+    <entry number="1233492303"><organization><number>802454-6262</number><name>Nyköpings Bowlingsällskap, NBS</name></organization><comment/><categories><category type="bowlingklubb"/><category type="idrottsförening"/><category type="parasport"/></categories><web>https://www.svenskalag.se/nykopingsbs</web></entry>
     <entry number="1233494028"><organization><number>889201-7487</number><name>Tynderö Hembygdsförening</name></organization><comment/><categories><category type="hembygdsförening"/></categories><web>https://www.hembygd.se/tyndero</web></entry>
     <entry number="1233495926"><organization><number>802515-4066</number><name>Eezer Sverige Ideell Förening</name></organization><comment/><categories><category type="donation"/><category type="hälsovård"/><category type="mödravård"/></categories><web>https://eezer.org/</web></entry>
     <entry number="1233497070"><organization><number>843002-4284</number><name>SPF Seniorerna Kärnan Helsingborg</name></organization><comment/><categories><category type="pensionärsklubb"/></categories><web>https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-karnan-helsingborg/</web></entry>
