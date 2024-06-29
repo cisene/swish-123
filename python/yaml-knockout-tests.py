@@ -158,84 +158,8 @@ def testIsValidEntry(data):
     result = True
   return result
 
-
-# def parseEntries():
-#   global yamlsource
-#   entries_dict = {}
-
-#   for entryVO in yamlsource['entries']:
-#     entry = entryVO['entry']
-
-#     if entry not in entries_dict.keys():
-#       entries_dict[entry] = entryVO
-
-
-#   for entry in sorted(entries_dict.keys()):
-#     entryVO = entries_dict[entry]
-#     tests = {
-#       'entry': {
-#         'validation': False,
-#         'controlled': False,
-#       },
-#       'orgNumber': {
-#         'formatting': False,
-#         'checkDigit': False,
-#         'orgType': 'Unknown',
-#       },
-#       'orgName': None,
-#       'categories': None,
-#       'web': None
-#     }
-
-#     print(entry)
-
-#     test_entry = testIsValidEntry(entry)
-
-#     if test_entry != None:
-#       tests['entry']['validation'] = test_entry
-
-#       test_entry_controlled = testIsEntryControlled(entry)
-#       if test_entry_controlled != None:
-#         tests['entry']['controlled'] = test_entry_controlled
-
-
-#     if entryVO['orgNumber'] != None:
-#       test_orgNumber = testIsValidOrgNumber(entryVO['orgNumber'])
-#       if test_orgNumber != None:
-#         tests['orgNumber']['formatting'] = True
-
-#     else:
-#       test_orgNumber = False
-
-
-#     if entryVO['orgName'] != None:
-#       test_orgName = testIsValidOrgName(entryVO['orgName'])
-#     else:
-#       test_orgName = False
-
-
-#     # Skip on empty entries
-#     if entryVO['orgName'] == None and entryVO['orgNumber'] == None:
-#       continue
-
-#     # Unverified entries are skipped
-#     if entryVO['categories'] != None:
-#       if "overifierad" in entryVO['categories']:
-#         continue
-
-#       if "terminated" in entryVO['categories']:
-#         continue
-
-#     if "orgNumber" not in entryVO:
-#       entryVO['orgNumber'] = None
-
-#     if "comment" not in entryVO:
-#       entryVO['comment'] = None
-
-
-#     #print(f"tested '{entry}' validation: '{test_entry}' controlled: '{test_entry_controlled}'")
-
-#     print(str(tests))
+def testIsEntryNumber(data):
+  return re.match(r"^123(\d{7})$", str(data), flags=re.IGNORECASE)
 
 def renderYAMLfromResult(result):
   for chunk  in result:
@@ -270,7 +194,8 @@ def testEntries(entries):
       for entryVO in entries['entries']:
 
         # Skip out early - invalid entry
-        if validateEntry(entryVO['entry']) == False:
+        if testIsEntryNumber(entryVO['entry']) == False:
+          result['malformed-vo'].append(entryVO)
           continue
 
         # Detect categorization the disqualifies 
@@ -313,10 +238,10 @@ def testEntries(entries):
 
         # Detect malformed or missing orgNumbers
         malformed_orgNumber = False
-        if entryVO['orgNumber'] == None:
-          malformed_orgNumber = True
+        #if entryVO['orgNumber'] == None:
+        #  malformed_orgNumber = True
 
-        else:
+        if entryVO['orgNumber'] != None:
           tested = testIsValidOrgNumber(entryVO['orgNumber'])
           if tested['type'] == None:
             malformed_orgNumber = True
@@ -355,6 +280,12 @@ def testEntries(entries):
 
 
 def main():
+
+  SOURCE_DIR = '../yaml/'
+  for f in os.listdir(SOURCE_DIR):
+    if re.search(r"knockout\x2d", f):
+      os.remove(os.path.join(SOURCE_DIR, f))
+      print(f"\tremoved {f} ..")
 
   SOURCE_DATAFILE = '../yaml/entries.yaml'
 
