@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-29-rev-172529",
+    "date": "2024-06-30-rev-123335",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -12073,6 +12073,19 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/mantorpsff"
+    },
+    {
+      "entry": 1230810275,
+      "orgName": "IK Gandvik",
+      "orgNumber": "868400-0865",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.ikgandvik.se/"
     },
     {
       "entry": 1230810341,
@@ -52205,6 +52218,17 @@
       "web": "https://www.cmbk.se/"
     },
     {
+      "entry": 1233551280,
+      "orgName": "Broby IF",
+      "orgNumber": "838200-5323",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/BrobyIF/"
+    },
+    {
       "entry": 1233551298,
       "orgName": "Stiftelsen Backamo L\u00e4gerplats",
       "orgNumber": "858500-9668",
@@ -64732,6 +64756,17 @@
       "web": "https://www.dosjobroif.com/"
     },
     {
+      "entry": 1234528337,
+      "orgName": "D\u00f6sj\u00f6bro IF",
+      "orgNumber": "845001-1054",
+      "comment": "P09",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.dosjobroif.com/"
+    },
+    {
       "entry": 1234528428,
       "orgName": "Skara HF",
       "orgNumber": "868400-7191",
@@ -71202,6 +71237,17 @@
         "westernridning"
       ],
       "web": "https://wras.horse/"
+    },
+    {
+      "entry": 1235076310,
+      "orgName": "Broby IF",
+      "orgNumber": "838200-5323",
+      "comment": "P08/P09",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/BrobyIF/"
     },
     {
       "entry": 1235077466,
@@ -92401,6 +92447,17 @@
         "religion"
       ],
       "web": "https://www.lekerydsmissionskyrka.com/"
+    },
+    {
+      "entry": 1236632103,
+      "orgName": "BK All\u00f6n",
+      "orgNumber": "802497-3011",
+      "comment": null,
+      "categories": [
+        "bowlingklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/BKAllonKlubb/"
     },
     {
       "entry": 1236632269,

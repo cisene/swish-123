@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-06-29-rev-172535
+# Date: 2024-06-30-rev-123342
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1129,6 +1129,7 @@
 "1230807149","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Göteborg, Montessoriskolan Casa"
 "1230807164","802533-7794","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Skaraborg, Moholms Skola"
 "1230810226","823001-1093","Mantorps FF","https://www.svenskalag.se/mantorpsff","fotbollsklubb,idrottsförening",""
+"1230810275","868400-0865","IK Gandvik","https://www.ikgandvik.se/","idrottsförening,löparklubb,orienteringsklubb,skidlöparklubb",""
 "1230810341","815200-4084","Socialdemokraterna i Sundbyberg","https://sundbyberg.socialdemokraterna.se/","politiskt parti",""
 "1230810499","864000-4993","BK Spark","https://www.svenskalag.se/bkspark","fotbollsklubb,idrottsförening",""
 "1230810689","894000-0493","Grisbacka EFS Missionsförening","https://www.svenskakyrkan.se/umea/grisbackakyrkan","religion",""
@@ -4854,6 +4855,7 @@
 "1233549151","846000-1111","Djurens Vänners Riksorganisation","https://djurensvanner.se/","djurskydd,riksorganisation",""
 "1233549466","802500-0566","Miracle Connect","https://miracleconnect.org/","religion",""
 "1233551033","873600-0202","Christinehamns Motorbåtsklubb","https://www.cmbk.se/","båtklubb",""
+"1233551280","838200-5323","Broby IF","https://www.laget.se/BrobyIF/","fotbollsklubb,idrottsförening",""
 "1233551298","858500-9668","Stiftelsen Backamo Lägerplats","http://backamolagerplats.se/","lokaluthyrning,stiftelse",""
 "1233551595","872400-2194","Nordmarks Hembygdsförening","https://www.hembygd.se/nordmark","hembygdsförening",""
 "1233553344","252001-6334","Sätila Församling","https://www.svenskakyrkan.se/satila","religion",""
@@ -6015,6 +6017,7 @@
 "1234525929","802451-8162","Strömstads Motorklubb","https://stromstadmotorklubb.se/","motorklubb,motorsport",""
 "1234528303","828500-2138","Anderstorps SK","https://www.svenskalag.se/askhandboll","handbollsklubb,idrottsförening",""
 "1234528329","845001-1054","Dösjöbro IF","https://www.dosjobroif.com/","fotbollsklubb,idrottsförening","F09/F10"
+"1234528337","845001-1054","Dösjöbro IF","https://www.dosjobroif.com/","fotbollsklubb,idrottsförening","P09"
 "1234528428","868400-7191","Skara HF","https://www.laget.se/SkaraHF/","handbollsklubb,idrottsförening","U/J lag Damer"
 "1234528469","885000-7843","Hagaströms SK","https://www.laget.se/HagastromsSK/","fotbollsklubb,idrottsförening,ishockeyklubb,rinkbandyklubb,skridskoklubb",""
 "1234531943","802417-5690","Det nya hoppet, DNH","https://nyahopp.se/","hjälporganisation",""
@@ -6615,6 +6618,7 @@
 "1235067525","802536-8310","Skenshyttans Bygdegårdsförening","https://skenshyttansbygdegard.se/","bygdegårdsförening",""
 "1235068739","252003-7181","Fryksände Pastorat","https://www.svenskakyrkan.se/fryksande","religion",""
 "1235069950","834001-1330","Western Riders Association, WRAS","https://wras.horse/","hästsport,westernridning",""
+"1235076310","838200-5323","Broby IF","https://www.laget.se/BrobyIF/","fotbollsklubb,idrottsförening","P08/P09"
 "1235077466","846001-3405","Deaf Refugees Welcome Sweden, DRW","","hörselnedsättning,religion",""
 "1235078522","802532-8033","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Värmland, Hagaborgsskolan"
 "1235078761","802433-3398","Streetstar","https://streetstar.se/","dansförening,intresseförening",""
@@ -8582,6 +8586,7 @@
 "1236628820","212000-1355","World Sessions / Göteborgs Kommun","https://worldsessions.se/","eventarrangör,konsert",""
 "1236629273","817606-9832","Eskilstuna United DFF","https://eskilstunaunited.se/","fotbollsklubb,idrottsförening",""
 "1236631287","826000-2673","Lekeryds Missionsförsamling","https://www.lekerydsmissionskyrka.com/","religion","Ungdomssektionen"
+"1236632103","802497-3011","BK Allön","https://www.laget.se/BKAllonKlubb/","bowlingklubb,idrottsförening",""
 "1236632269","835000-1130","KA2 IF","https://ka2if.sportadmin.se/","förening,idrottsförening",""
 "1236638308","802509-0955","S:t Månslyckans koloniområde","https://sanktmanslyckan.se/","intresseförening,koloniträdgårdsförening,trädgårdsförening",""
 "1236638373","833600-9686","Meningsfull fritid - Riksförbundet Attention","https://fritid.attention.se/","funktionsnedsättning,npf-diagnoser,riksförbund",""
