@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-30-rev-170712",
+    "date": "2024-06-30-rev-201316",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2341,6 +2341,17 @@
         "motors\u00e4llskap"
       ],
       "web": "https://www.gota.nu/"
+    },
+    {
+      "entry": 1230173674,
+      "orgName": "Pite\u00e5 Motors\u00e4llskap",
+      "orgNumber": "898800-3466",
+      "comment": null,
+      "categories": [
+        "motorklubb",
+        "motorsport"
+      ],
+      "web": "https://www.svenskalag.se/piteams"
     },
     {
       "entry": 1230173724,
@@ -8702,6 +8713,17 @@
         "sportfiskeklubb"
       ],
       "web": "https://sfkspinn.com/"
+    },
+    {
+      "entry": 1230566661,
+      "orgName": "Jonsereds IF",
+      "orgNumber": "857200-8202",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/jonseredsif"
     },
     {
       "entry": 1230566844,
@@ -17705,6 +17727,17 @@
       "web": "https://www.laget.se/IKTun/"
     },
     {
+      "entry": 1231158765,
+      "orgName": "Saxemara IF",
+      "orgNumber": "835600-1605",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/saxemaraif"
+    },
+    {
       "entry": 1231159193,
       "orgName": "ADAS United",
       "orgNumber": "802464-0461",
@@ -26371,6 +26404,18 @@
       "web": "https://www.hogbogk.com/"
     },
     {
+      "entry": 1231732122,
+      "orgName": "Sjulsmarks SK",
+      "orgNumber": "898800-1072",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.svenskalag.se/sjulsmarkssk"
+    },
+    {
       "entry": 1231732700,
       "orgName": "KFUM Ume\u00e5",
       "orgNumber": "894000-0691",
@@ -32584,6 +32629,18 @@
       "web": "http://sduf.se/"
     },
     {
+      "entry": 1232181774,
+      "orgName": "FK Boken",
+      "orgNumber": "837600-7152",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.svenskalag.se/fkboken"
+    },
+    {
       "entry": 1232182244,
       "orgName": "Djursholm Scoutk\u00e5r",
       "orgNumber": "802446-6776",
@@ -34165,6 +34222,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/WisseltoftaIF/"
+    },
+    {
+      "entry": 1232266088,
+      "orgName": "Fredriksbergs BK",
+      "orgNumber": "835600-1415",
+      "comment": null,
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/fbkmedlem"
     },
     {
       "entry": 1232266922,
@@ -41013,6 +41081,19 @@
       "web": "https://www.unizonjourer.se/kvinnojourennordvarmland/"
     },
     {
+      "entry": 1232753150,
+      "orgName": "West Coast Kickboxing",
+      "orgNumber": "802454-1602",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "kickboxningsklubb",
+        "taekwondoklubb"
+      ],
+      "web": "https://www.svenskalag.se/westcoastkickboxing"
+    },
+    {
       "entry": 1232753192,
       "orgName": "I k\u00e4rlekens tecken",
       "orgNumber": "012655-4625",
@@ -41606,6 +41687,17 @@
         "religion"
       ],
       "web": "https://norrkoping.adventkyrka.se/"
+    },
+    {
+      "entry": 1232778231,
+      "orgName": "Robertsfors Skyttesportf\u00f6rening",
+      "orgNumber": "894003-9202",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/robertsforsskytte"
     },
     {
       "entry": 1232782159,
@@ -46450,6 +46542,17 @@
       "web": "https://www.facebook.com/groups/105270962856563"
     },
     {
+      "entry": 1233127024,
+      "orgName": "Kallinge SK",
+      "orgNumber": "835600-0391",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/kallingesk"
+    },
+    {
       "entry": 1233127289,
       "orgName": "Hofors Brukshundklubb",
       "orgNumber": "885501-1626",
@@ -47002,6 +47105,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/balinge/"
+    },
+    {
+      "entry": 1233172103,
+      "orgName": "S\u00e4vedalens IF",
+      "orgNumber": "857201-7237",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/savedalensif"
     },
     {
       "entry": 1233173507,
@@ -47930,6 +48044,17 @@
       "web": "https://www.kvinnojourenlinnean.se/"
     },
     {
+      "entry": 1233236569,
+      "orgName": "BK Bore",
+      "orgNumber": "832800-2749",
+      "comment": null,
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/bkbore"
+    },
+    {
       "entry": 1233236726,
       "orgName": "Stiftelsen Hjelmseryds Pr\u00e4stg\u00e5rd",
       "orgNumber": "827500-0662",
@@ -48423,6 +48548,17 @@
       "web": "http://www.finspangssolvarme.se/"
     },
     {
+      "entry": 1233268299,
+      "orgName": "Pite\u00e5 KK",
+      "orgNumber": "898800-9836",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.svenskalag.se/piteakk"
+    },
+    {
       "entry": 1233268828,
       "orgName": "Morlanda F\u00f6rsamling",
       "orgNumber": "252002-9337",
@@ -48878,6 +49014,20 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://engelholmsgymnasterna.sportadmin.se/"
+    },
+    {
+      "entry": 1233308376,
+      "orgName": "Listerby IK",
+      "orgNumber": "835600-0565",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "tennisklubb"
+      ],
+      "web": "https://www.svenskalag.se/listerbyik"
     },
     {
       "entry": 1233310372,
@@ -59800,6 +59950,17 @@
       "web": "https://www.ehdk.se/"
     },
     {
+      "entry": 1234113213,
+      "orgName": "Nya Ronnebygymnasterna IF",
+      "orgNumber": "802522-0784",
+      "comment": null,
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/nyaronnebygymnasterna"
+    },
+    {
       "entry": 1234113775,
       "orgName": "Team Rynkeby",
       "orgNumber": "802532-7506",
@@ -60573,6 +60734,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sala"
+    },
+    {
+      "entry": 1234170270,
+      "orgName": "OK M\u00e5sen",
+      "orgNumber": "819000-2066",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.svenskalag.se/okmasen"
     },
     {
       "entry": 1234170551,
@@ -61711,6 +61883,17 @@
         "ishockeyklubb"
       ],
       "web": "https://www.hammarbyhockey.se/"
+    },
+    {
+      "entry": 1234232658,
+      "orgName": "Wibax IBF Pite\u00e5",
+      "orgNumber": "898801-2822",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/wibaxibf"
     },
     {
       "entry": 1234232781,
@@ -69010,6 +69193,17 @@
       "web": "https://www.svenskalag.se/besk"
     },
     {
+      "entry": 1234807806,
+      "orgName": "Pite\u00e5 Sn\u00f6skoterklubb",
+      "orgNumber": "898800-8481",
+      "comment": null,
+      "categories": [
+        "motorsport",
+        "skoterklubb"
+      ],
+      "web": "https://www.svenskalag.se/pssk"
+    },
+    {
       "entry": 1234808770,
       "orgName": "Bowlingklubben K\u00f6pings PBK",
       "orgNumber": "802454-2444",
@@ -69310,6 +69504,18 @@
         "religion"
       ],
       "web": "http://www.vetlandamissionskyrka.com/"
+    },
+    {
+      "entry": 1234837746,
+      "orgName": "Storfors AIK",
+      "orgNumber": "898800-1247",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/storforsaik"
     },
     {
       "entry": 1234838512,
@@ -70508,6 +70714,18 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
+      "entry": 1234959912,
+      "orgName": "Pite\u00e5 Sim",
+      "orgNumber": "898800-3946",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "simklubb",
+        "sims\u00e4llskap"
+      ],
+      "web": "https://www.svenskalag.se/piteasim"
     },
     {
       "entry": 1234962924,
@@ -73470,6 +73688,17 @@
       "web": "https://betelkladesholmen.se/"
     },
     {
+      "entry": 1235146725,
+      "orgName": "Craftstaden IBK",
+      "orgNumber": "832800-8860",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/craftstadensibk"
+    },
+    {
       "entry": 1235146840,
       "orgName": "Novahuset",
       "orgNumber": "802443-9203",
@@ -75176,6 +75405,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235274527,
+      "orgName": "KaRo IBF",
+      "orgNumber": "835600-7297",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/karoibf"
+    },
+    {
       "entry": 1235275193,
       "orgName": "V\u00e4nga Hembygdsf\u00f6rening",
       "orgNumber": "864501-0326",
@@ -75876,6 +76116,17 @@
       "web": "https://www.sjolinlantz.se/"
     },
     {
+      "entry": 1235326822,
+      "orgName": "R\u00f6dsle BK",
+      "orgNumber": "832800-4356",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/rodslebk"
+    },
+    {
       "entry": 1235329719,
       "orgName": "SPF Seniorerna Str\u00f6velstorp Aus\u00e5s",
       "orgNumber": "802487-9366",
@@ -75884,6 +76135,18 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-strovelstorp-ausas/"
+    },
+    {
+      "entry": 1235330808,
+      "orgName": "Osby Sims\u00e4llskap",
+      "orgNumber": "837000-6416",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "simklubb",
+        "sims\u00e4llskap"
+      ],
+      "web": "https://www.osbysimsallskap.se/"
     },
     {
       "entry": 1235331103,
@@ -78893,6 +79156,17 @@
         "rotaryklubb"
       ],
       "web": "https://orebro.rotary2340.se/"
+    },
+    {
+      "entry": 1235530555,
+      "orgName": "Blekinge K\u00f6rs\u00e4llskap",
+      "orgNumber": "835600-6810",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "k\u00f6rs\u00e4llskap"
+      ],
+      "web": "https://www.svenskalag.se/blekingeks"
     },
     {
       "entry": 1235531041,
@@ -83058,6 +83332,18 @@
       "web": "https://www.herhouse.se/"
     },
     {
+      "entry": 1235823596,
+      "orgName": "Livi\u00f6j\u00e4rvi IF",
+      "orgNumber": "897601-1711",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.svenskalag.se/lif"
+    },
+    {
       "entry": 1235824156,
       "orgName": "Malexanders Hembygdsf\u00f6rening",
       "orgNumber": "823000-2944",
@@ -83894,6 +84180,17 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://www.amot.nu/f%C3%B6reningar/%C3%A5mots-skidklubb"
+    },
+    {
+      "entry": 1235893482,
+      "orgName": "Oskarshamns Boxningsklubb",
+      "orgNumber": "832800-2616",
+      "comment": null,
+      "categories": [
+        "boxningsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/oskarshamnsboxningsklubb"
     },
     {
       "entry": 1235893565,
@@ -85703,6 +86000,17 @@
       "web": "https://angeredfolkhogskola.se/"
     },
     {
+      "entry": 1236027080,
+      "orgName": "Orust IBK",
+      "orgNumber": "854601-1860",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/orustibk"
+    },
+    {
       "entry": 1236027593,
       "orgName": "Holistic Traning AB",
       "orgNumber": "556797-6195",
@@ -86712,6 +87020,17 @@
       "web": "https://nyadagbladet.se/"
     },
     {
+      "entry": 1236115786,
+      "orgName": "Pite\u00e5 Basket",
+      "orgNumber": "898801-3184",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/piteabasket"
+    },
+    {
       "entry": 1236117105,
       "orgName": "VI mot barncancer / F\u00f6reningen VI",
       "orgNumber": "802506-7011",
@@ -86777,6 +87096,17 @@
       "web": "https://nyckelharpan.org/"
     },
     {
+      "entry": 1236123079,
+      "orgName": "Pite\u00e5 SKF",
+      "orgNumber": "802458-3612",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/piteaskf"
+    },
+    {
       "entry": 1236123160,
       "orgName": "NAV Sweden",
       "orgNumber": "559023-4729",
@@ -86828,6 +87158,17 @@
         "museum"
       ],
       "web": "https://fyrverkerimuseet.se/"
+    },
+    {
+      "entry": 1236128813,
+      "orgName": "Tornedalen FC",
+      "orgNumber": "802535-2983",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/wufc"
     },
     {
       "entry": 1236130587,
@@ -89864,6 +90205,17 @@
         "yoga"
       ],
       "web": "http://yogaochhalsa.se/"
+    },
+    {
+      "entry": 1236344204,
+      "orgName": "Ronneby HK",
+      "orgNumber": "835600-3395",
+      "comment": null,
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ronnebyhk"
     },
     {
       "entry": 1236345235,
@@ -96389,6 +96741,17 @@
       "web": "https://www.gardbybuss.se/"
     },
     {
+      "entry": 1236824114,
+      "orgName": "Pite\u00e5 Bouleklubb",
+      "orgNumber": "898800-9992",
+      "comment": null,
+      "categories": [
+        "bouleklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/piteabouleklubb"
+    },
+    {
       "entry": 1236824619,
       "orgName": "G\u00f6teborgs D\u00f6vas F\u00f6rening",
       "orgNumber": "857200-2916",
@@ -97512,6 +97875,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-orkelljunga/foreningar/orkelljunga.html"
+    },
+    {
+      "entry": 1236911531,
+      "orgName": "Oskarshamns SK",
+      "orgNumber": "832800-2137",
+      "comment": null,
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/oskarshamnssk"
     },
     {
       "entry": 1236911804,
