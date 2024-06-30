@@ -10434,6 +10434,16 @@ entries:
   - hjälporganisation
   web: https://unitedhearts.se/
 
+- entry: 1230845198
+  orgName: IFK Ore Hockey
+  orgNumber: 884400-5119
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  - utbildning
+  web: https://www.svenskalag.se/ifkore
+
 - entry: 1230845453
   orgName: Torekovs Golfklubb
   orgNumber: 839400-2946
@@ -21266,6 +21276,15 @@ entries:
   - stövarklubb
   web: https://www.smstk.se/
 
+- entry: 1231703644
+  orgName: IFK Rättvik
+  orgNumber: 802444-6307
+  comment: null
+  categories:
+  - bandyklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ifkrattvikbandy
+
 - entry: 1231703719
   orgName: Anderstorps Församling
   orgNumber: 252000-5139
@@ -26140,6 +26159,15 @@ entries:
   categories:
   - religion
   web: https://equmenia.se/
+
+- entry: 1232134989
+  orgName: Sala OK
+  orgNumber: 879500-3956
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.svenskalag.se/salaok
 
 - entry: 1232136059
   orgName: Degeberga-Widsköfle Golfklubb
@@ -47844,6 +47872,15 @@ entries:
   - skidlöparklubb
   web: https://www.svenskalag.se/liljanssk
 
+- entry: 1233945201
+  orgName: Rättviks Ridklubb
+  orgNumber: 883200-6301
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://www.svenskalag.se/rattviksrk
+
 - entry: 1233945409
   orgName: Burseryds GF
   orgNumber: 828500-6071
@@ -53566,6 +53603,16 @@ entries:
   - hundklubb
   - hundsport
   web: https://www.bassetsyd.se/
+
+- entry: 1234493789
+  orgName: Rättvik Butchers
+  orgNumber: 883202-5178
+  comment: null
+  categories:
+  - baseballklubb
+  - idrottsförening
+  - softbollklubb
+  web: https://www.svenskalag.se/rattvikbutchers
 
 - entry: 1234494019
   orgName: Nor IK
@@ -69152,6 +69199,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1235880521
+  orgName: Sala Skyttegille
+  orgNumber: 879500-0887
+  comment: null
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.svenskalag.se/salaskyttegille
+
 - entry: 1235881057
   orgName: EFS Missionsförening i Sävar
   orgNumber: 894001-0427
@@ -77195,6 +77251,15 @@ entries:
   - bygdegårdsförening
   - intresseförening
   web: https://www.kassjo.se/
+
+- entry: 1236621437
+  orgName: Rättviks Roddklubb
+  orgNumber: 883201-6961
+  comment: null
+  categories:
+  - idrottsförening
+  - roddklubb
+  web: https://www.svenskalag.se/rattviksroddklubb
 
 - entry: 1236621684
   orgName: Smedstorps Byalag och Bygdegårdsförening

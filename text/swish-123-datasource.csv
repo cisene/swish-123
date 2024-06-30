@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-06-30-rev-201323
+# Date: 2024-06-30-rev-203343
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1187,6 +1187,7 @@
 "1230844851","802421-1073","Eksjö Tjejjour","https://www.unizonjourer.se/eksjotjejjour/","kvinnojour",""
 "1230844944","817001-4214","Enköpings KK","https://www.svenskalag.se/ekk","idrottsförening,konståkningsklubb",""
 "1230845131","802488-4119","United Hearts","https://unitedhearts.se/","hjälporganisation",""
+"1230845198","884400-5119","IFK Ore Hockey","https://www.svenskalag.se/ifkore","idrottsförening,ishockeyklubb,utbildning",""
 "1230845453","839400-2946","Torekovs Golfklubb","http://www.togk.se/","golfklubb",""
 "1230845875","845003-0864","Björnstorps IF","https://www.bjornstorpsif.se/","idrottsförening,löparklubb,skidlöparklubb",""
 "1230845891","829500-5386","Östers IF","https://ostersif.se/","fotbollsklubb,idrottsförening",""
@@ -2408,6 +2409,7 @@
 "1231703206","865501-0307","Ambjörnarps Bygdegårdsförening","https://ambjornarpsbygdegard.se/","bygdegårdsförening",""
 "1231703214","846000-1475","Israels Vänner","https://www.israelsvanner.se/","religion,turistbyrå",""
 "1231703230","826000-3739","Smålands Stövarklubb","https://www.smstk.se/","hundklubb,hundsport,stövarklubb",""
+"1231703644","802444-6307","IFK Rättvik","https://www.svenskalag.se/ifkrattvikbandy","bandyklubb,idrottsförening",""
 "1231703719","252000-5139","Anderstorps Församling","https://www.svenskakyrkan.se/anderstorp","religion","Övrigt"
 "1231704287","878001-4349","Brottsofferjouren Västmanland","https://www.brottsofferjouren.se/","brottsofferjour",""
 "1231704337","802445-3733","Karlskoga Agilitysports Kennelklubb, KASK","https://kaskagility.se/","hundklubb,hundsport",""
@@ -2954,6 +2956,7 @@
 "1232134625","817605-3141","IK Sirius IBK","https://www.siriusinnebandy.se/","idrottsförening,innebandyklubb",""
 "1232134658","825000-8862","Dagsbergs IF","https://www.svenskalag.se/dagsbergsif","bordtennisklubb,fotbollsklubb,idrottsförening,motionsklubb",""
 "1232134831","802440-8117","Equmenia Riks, Ungdomsarbete","https://equmenia.se/","religion",""
+"1232134989","879500-3956","Sala OK","https://www.svenskalag.se/salaok","idrottsförening,orienteringsklubb",""
 "1232136059","838201-8813","Degeberga-Widsköfle Golfklubb","https://dwgolfklubb.se/","golfbana,golfklubb",""
 "1232136067","878000-3532","Korskyrkan i Västerås / Baptistförsamlingen Filadelfia","https://www.korskyrkanvasteras.se/","religion",""
 "1232136216","825000-7534","Söderköpings stads hembygdsförening, S:t Ragnhilds Gille i Söderköping","https://www.stragnhildsgille.se/","hembygdsförening,museum",""
@@ -5396,6 +5399,7 @@
 "1233943735","802422-8549","Nyköping Oxelösund BTK","https://www.svenskalag.se/nykopingoxelosundbtk","bordtennisklubb,idrottsförening",""
 "1233943867","520304-XXXX","Prana Friskvård / Frank Granström","http://www.pranafriskvard.se/","friskvård,försäljning,yoga",""
 "1233944121","883200-8877","Liljans SK","https://www.svenskalag.se/liljanssk","bandyklubb,idrottsförening,skidlöparklubb",""
+"1233945201","883200-6301","Rättviks Ridklubb","https://www.svenskalag.se/rattviksrk","hästsport,ridklubb",""
 "1233945409","828500-6071","Burseryds GF","https://www.svenskalag.se/burserydsgf","gymnastikförening,idrottsförening",""
 "1233945573","500530-XXXX","Jón Leifsson","https://www.jonleifsson.se/","konstnär",""
 "1233945680","802427-8700","Ramkvilla Golfklubb","http://www.ramkvillagolf.com/","golfklubb",""
@@ -6035,6 +6039,7 @@
 "1234492682","556001-2238","Strömsholms Kanalaktiebolag","https://www.stromsholmskanal.se/","intresseorganisation,slussning",""
 "1234492807","899100-1531","Arvidsjaurs Hembygdsförening","https://www.hembygdarvidsjaur.se/","hembygdsförening,museum",""
 "1234492997","842001-2646","Svenska Bassetklubben Syd","https://www.bassetsyd.se/","hundklubb,hundsport",""
+"1234493789","883202-5178","Rättvik Butchers","https://www.svenskalag.se/rattvikbutchers","baseballklubb,idrottsförening,softbollklubb",""
 "1234494019","873200-8464","Nor IK","https://www.laget.se/NIK/","fotbollsklubb,idrottsförening",""
 "1234494381","838200-7790","Willands Ryttarförening","https://www.svenskalag.se/willandsrf","hästsport,ridsällskap,ryttarförening",""
 "1234494522","826000-0834","Strandgården Vilshärad / Stiftelsen Fritidsgårdar","https://www.strandgarden.org/","religion,stiftelse",""
@@ -7784,6 +7789,7 @@
 "1235871165","826000-0073","Ansgariikyrkans Församling","https://ansgariikyrkan.se/","religion","Servering, kyrkkaffe"
 "1235872254","802463-6717","Ingrid & Maria / Tryckfrihetssällskapet","https://www.ingridochmaria.se/","intresseförening,opinionsbildning",""
 "1235876008","802532-8033","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Värmland, Nordmarken F-6"
+"1235880521","879500-0887","Sala Skyttegille","https://www.svenskalag.se/salaskyttegille","skytteklubb,sportskytteklubb",""
 "1235881057","894001-0427","EFS Missionsförening i Sävar","https://www.savarakyrkan.se/","religion","Salt"
 "1235881107","857200-4094","Pingstkyrkan Västra Frölunda","https://frolunda.pingst.se/","religion",""
 "1235881206","802008-5604","Kärrtorps Scoutkår","https://www.karrtorpsscoutkar.nu/","scoutkår",""
@@ -8684,6 +8690,7 @@
 "1236619340","802420-4383","Stallarholmens Nätverk","https://www.stallarholmen.info/","ideell förening",""
 "1236620215","802438-4706","Lillöringen Fiskeklubb","https://lilloringen.se/","fiskeklubb,sportfiske",""
 "1236621213","894003-6554","Kassjö intresse- och bygdegårdsförening","https://www.kassjo.se/","bygdegårdsförening,intresseförening",""
+"1236621437","883201-6961","Rättviks Roddklubb","https://www.svenskalag.se/rattviksroddklubb","idrottsförening,roddklubb",""
 "1236621684","838800-8933","Smedstorps Byalag och Bygdegårdsförening","https://smedstorp.se/","byalag,bygdegårdsförening",""
 "1236623839","700603-XXXX","Guldtassens Trim & Hund Spa / Anette Hissing","https://www.guldtassens.com/","hundtrim",""
 "1236624415","802417-7076","Lungcancerföreningen","https://lungcancerforeningen.se/","cancer,förening,intresseförening,lungcancer",""

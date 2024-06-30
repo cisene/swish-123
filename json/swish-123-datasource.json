@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-06-30-rev-201316",
+    "date": "2024-06-30-rev-203337",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -12697,6 +12697,18 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://unitedhearts.se/"
+    },
+    {
+      "entry": 1230845198,
+      "orgName": "IFK Ore Hockey",
+      "orgNumber": "884400-5119",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb",
+        "utbildning"
+      ],
+      "web": "https://www.svenskalag.se/ifkore"
     },
     {
       "entry": 1230845453,
@@ -25825,6 +25837,17 @@
       "web": "https://www.smstk.se/"
     },
     {
+      "entry": 1231703644,
+      "orgName": "IFK R\u00e4ttvik",
+      "orgNumber": "802444-6307",
+      "comment": null,
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ifkrattvikbandy"
+    },
+    {
       "entry": 1231703719,
       "orgName": "Anderstorps F\u00f6rsamling",
       "orgNumber": "252000-5139",
@@ -31754,6 +31777,17 @@
         "religion"
       ],
       "web": "https://equmenia.se/"
+    },
+    {
+      "entry": 1232134989,
+      "orgName": "Sala OK",
+      "orgNumber": "879500-3956",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.svenskalag.se/salaok"
     },
     {
       "entry": 1232136059,
@@ -58096,6 +58130,17 @@
       "web": "https://www.svenskalag.se/liljanssk"
     },
     {
+      "entry": 1233945201,
+      "orgName": "R\u00e4ttviks Ridklubb",
+      "orgNumber": "883200-6301",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.svenskalag.se/rattviksrk"
+    },
+    {
       "entry": 1233945409,
       "orgName": "Burseryds GF",
       "orgNumber": "828500-6071",
@@ -65001,6 +65046,18 @@
         "hundsport"
       ],
       "web": "https://www.bassetsyd.se/"
+    },
+    {
+      "entry": 1234493789,
+      "orgName": "R\u00e4ttvik Butchers",
+      "orgNumber": "883202-5178",
+      "comment": null,
+      "categories": [
+        "baseballklubb",
+        "idrottsf\u00f6rening",
+        "softbollklubb"
+      ],
+      "web": "https://www.svenskalag.se/rattvikbutchers"
     },
     {
       "entry": 1234494019,
@@ -83891,6 +83948,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235880521,
+      "orgName": "Sala Skyttegille",
+      "orgNumber": "879500-0887",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/salaskyttegille"
+    },
+    {
       "entry": 1235881057,
       "orgName": "EFS Missionsf\u00f6rening i S\u00e4var",
       "orgNumber": "894001-0427",
@@ -93599,6 +93667,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.kassjo.se/"
+    },
+    {
+      "entry": 1236621437,
+      "orgName": "R\u00e4ttviks Roddklubb",
+      "orgNumber": "883201-6961",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "roddklubb"
+      ],
+      "web": "https://www.svenskalag.se/rattviksroddklubb"
     },
     {
       "entry": 1236621684,
