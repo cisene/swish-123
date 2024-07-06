@@ -5507,6 +5507,15 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/rambergskyrkan/
 
+- entry: 1230416370
+  orgName: Friska Viljor FC
+  orgNumber: 889601-1882
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/friskaviljor
+
 - entry: 1230416438
   orgName: Slätta SK
   orgNumber: 883201-0162
@@ -8475,6 +8484,17 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/dfkhaSko
+
+- entry: 1230670141
+  orgName: OK Nolaskogsarna
+  orgNumber: 889600-5967
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidorienteringsklubb
+  - skidskytteklubb
+  web: https://www.svenskalag.se/oknolaskogsarna
 
 - entry: 1230670786
   orgName: Järnkaminerna
@@ -23870,6 +23890,15 @@ entries:
   - ryttarförening
   web: https://www.hrimfaxi.se/
 
+- entry: 1231813195
+  orgName: Örnsköldsvik Hockey
+  orgNumber: 802453-2759
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/ornskoldsvikhockey
+
 - entry: 1231813534
   orgName: Redhawks Support
   orgNumber: 802433-4115
@@ -25504,6 +25533,17 @@ entries:
   - golfklubb
   web: https://www.noragolfklubb.se/
 
+- entry: 1231963503
+  orgName: Örkelljunga VK
+  orgNumber: 837600-6683
+  comment: null
+  categories:
+  - beachvolleyballklubb
+  - idrottsförening
+  - motionsklubb
+  - volleybollklubb
+  web: https://www.svenskalag.se/orkelljungavk
+
 - entry: 1231963610
   orgName: Värö-Stråvalla Hembygdsförening
   orgNumber: 802433-7985
@@ -25802,6 +25842,15 @@ entries:
   categories:
   - religion
   web: https://www.gnosjomk.se/
+
+- entry: 1231984244
+  orgName: Molidens IK
+  orgNumber: 889600-1487
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/molidensidrottsklubb
 
 - entry: 1231985308
   orgName: Dyggur Islandshästförening
@@ -31421,6 +31470,15 @@ entries:
   - idrottsförening
   web: https://www.kiforebro.se/
 
+- entry: 1232404887
+  orgName: Nätra SK
+  orgNumber: 889601-4977
+  comment: null
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.svenskalag.se/natrask
+
 - entry: 1232404994
   orgName: Bjuvs Brukshundklubb
   orgNumber: 843001-5944
@@ -36650,6 +36708,16 @@ entries:
   categories:
   - yrkesförening
   web: https://swenurse.se/
+
+- entry: 1232832574
+  orgName: Övik Beachvolley Club
+  orgNumber: 802420-3443
+  comment: null
+  categories:
+  - beachvolleyballklubb
+  - idrottsförening
+  - volleybollklubb
+  web: https://www.svenskalag.se/ovikbeachvolley
 
 - entry: 1232838217
   orgName: Nybro Idrottsförening
@@ -45150,6 +45218,15 @@ entries:
   - hundsport
   web: https://www.sodertaljebk.se/
 
+- entry: 1233529799
+  orgName: KB65 Fotboll
+  orgNumber: 889600-1057
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/KB65FF
+
 - entry: 1233534286
   orgName: Örebro Läns Strokeförening, ÖLS
   orgNumber: 875002-7933
@@ -52890,6 +52967,15 @@ entries:
   - jordbruk
   web: https://solskensfarmarna.se/
 
+- entry: 1234213740
+  orgName: Skånes Fagerhults SkF
+  orgNumber: 837600-6956
+  comment: null
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.svenskalag.se/skanesfagerhultsskytteforening
+
 - entry: 1234214334
   orgName: Åby Ridklubb
   orgNumber: 825001-6337
@@ -58292,6 +58378,15 @@ entries:
   - supporterklubb
   web: http://www.sektion84.se/
 
+- entry: 1234677787
+  orgName: KB65 Hockey
+  orgNumber: 889600-6858
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/kb65-hockey
+
 - entry: 1234677886
   orgName: IFK Örebro Handboll
   orgNumber: 875001-1663
@@ -59905,6 +60000,15 @@ entries:
   categories:
   - religion
   web: https://umea.pingst.se/
+
+- entry: 1234869079
+  orgName: Nätra GIF
+  orgNumber: 889600-1594
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ngif
 
 - entry: 1234869756
   orgName: Össjö Skytteförening
@@ -68462,6 +68566,15 @@ entries:
   categories:
   - intresseförening
   web: https://glavaglasbruk.org/
+
+- entry: 1235547757
+  orgName: Skånes Fagerhults IF
+  orgNumber: 837600-1510
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/skanesfagerhultsif
 
 - entry: 1235549027
   orgName: Kattkommando Syd
@@ -78715,6 +78828,16 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/SundsvallsIBF/
 
+- entry: 1236415178
+  orgName: Örkelljunga Outdoor
+  orgNumber: 802506-0636
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  - mountainbikeklubb
+  web: https://www.svenskalag.se/orkelljungaoutdoor
+
 - entry: 1236416044
   orgName: Utvecklingsrådet i Dals Långed
   orgNumber: 802499-0114
@@ -81162,6 +81285,15 @@ entries:
   - idrottsförening
   - orienteringsklubb
   web: https://www.laget.se/OKGrip/
+
+- entry: 1236649073
+  orgName: SFK Storfiskarna
+  orgNumber: 889600-9894
+  comment: null
+  categories:
+  - fiskeklubb
+  - sportfiskeklubb
+  web: https://www.svenskalag.se/sfkstorfiskarna
 
 - entry: 1236649362
   orgName: Carl Johans Pastorat
@@ -83788,6 +83920,15 @@ entries:
   - mediaproduktion
   - utbildning
   web: https://www.blåugglan.se/
+
+- entry: 1236843668
+  orgName: Örkelljunga Padel
+  orgNumber: 802545-9416
+  comment: null
+  categories:
+  - idrottsförening
+  - padelklubb
+  web: https://www.svenskalag.se/orkelljungapadel
 
 - entry: 1236846265
   orgName: Förbundet ST Lukas
