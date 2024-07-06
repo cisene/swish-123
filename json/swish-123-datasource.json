@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-06-rev-182738",
+    "date": "2024-07-06-rev-204446",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1492,6 +1492,17 @@
         "motorcykelklubb"
       ],
       "web": "https://www.bbmc.se/"
+    },
+    {
+      "entry": 1230081174,
+      "orgName": "Cosmos Fotbollsklubb",
+      "orgNumber": "802463-0199",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/cosmosfk"
     },
     {
       "entry": 1230081257,
@@ -27381,6 +27392,17 @@
       "web": "https://www.svenskakyrkan.se/nacka"
     },
     {
+      "entry": 1231721208,
+      "orgName": "\u00d6stersunds OK",
+      "orgNumber": "892001-2591",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.svenskalag.se/ostersundsok"
+    },
+    {
       "entry": 1231721323,
       "orgName": "\u00d6dsm\u00e5ls IK",
       "orgNumber": "853300-1700",
@@ -27390,6 +27412,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.odsmalsik.se/"
+    },
+    {
+      "entry": 1231721406,
+      "orgName": "\u00d6stersunds Jaktskytteklubb",
+      "orgNumber": "893201-7760",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/ostersundsjsk"
     },
     {
       "entry": 1231721430,
@@ -36165,6 +36198,18 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232282531,
+      "orgName": "Orrvikens IK",
+      "orgNumber": "893200-4537",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/oik"
     },
     {
       "entry": 1232282754,
@@ -55089,6 +55134,18 @@
       "web": "https://saltsydsverige.nu/"
     },
     {
+      "entry": 1233547866,
+      "orgName": "J\u00e4mtlands B\u00e5gskytteklubb",
+      "orgNumber": "802455-8614",
+      "comment": null,
+      "categories": [
+        "b\u00e5gskytteklubb",
+        "idrottsf\u00f6rening",
+        "parasport"
+      ],
+      "web": "https://www.svenskalag.se/jamtlandsbagskytteklubb"
+    },
+    {
       "entry": 1233548153,
       "orgName": "Leksands Ridklubb",
       "orgNumber": "883200-5741",
@@ -61452,6 +61509,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://piteaif.sportadmin.se/"
+    },
+    {
+      "entry": 1234002291,
+      "orgName": "\u00d6stersunds Bouleklubb",
+      "orgNumber": "893203-0912",
+      "comment": null,
+      "categories": [
+        "bouleklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ostersundsbouleklubb"
     },
     {
       "entry": 1234003661,
@@ -70502,6 +70570,18 @@
       "web": "https://torsasryttare.se/"
     },
     {
+      "entry": 1234664926,
+      "orgName": "IFK \u00d6stersund",
+      "orgNumber": "893200-2614",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "parasport"
+      ],
+      "web": "https://www.svenskalag.se/ifkostersund"
+    },
+    {
       "entry": 1234665063,
       "orgName": "Charlie's House - Fredagskassen / Christian & Louise i B\u00e5stad AB",
       "orgNumber": "556722-7789",
@@ -73038,6 +73118,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1234898797,
+      "orgName": "\u00d6stersunds konst\u00e5kningsf\u00f6rening",
+      "orgNumber": "802530-9371",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.svenskalag.se/ostersundskonstakningsforening"
+    },
+    {
       "entry": 1234899936,
       "orgName": "FC M\u00f6jligheten",
       "orgNumber": "802497-8580",
@@ -73549,6 +73640,19 @@
         "massage"
       ],
       "web": "http://www.liisasfriskvardsmassage.se/"
+    },
+    {
+      "entry": 1234943510,
+      "orgName": "IF Castor \u00d6stersund",
+      "orgNumber": "892001-2088",
+      "comment": null,
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb",
+        "parasport"
+      ],
+      "web": "https://www.svenskalag.se/ifcastor"
     },
     {
       "entry": 1234943726,
@@ -76891,6 +76995,17 @@
         "religion"
       ],
       "web": "https://www.kyrktorget.se/"
+    },
+    {
+      "entry": 1235138631,
+      "orgName": "\u00d6stersund Volleyboll",
+      "orgNumber": "893201-2696",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "volleybollklubb"
+      ],
+      "web": "https://www.svenskalag.se/ostersundvolley"
     },
     {
       "entry": 1235138706,
@@ -90557,6 +90672,18 @@
       "web": "https://www.svenskakyrkan.se/vaxholm"
     },
     {
+      "entry": 1236071518,
+      "orgName": "\u00d6stersunds GIF",
+      "orgNumber": "892000-9878",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ogif"
+    },
+    {
       "entry": 1236071740,
       "orgName": "Ek\u00e4ngens IF",
       "orgNumber": "802450-6795",
@@ -97827,6 +97954,17 @@
         "religion"
       ],
       "web": "http://www.korskyrkan.com/"
+    },
+    {
+      "entry": 1236571038,
+      "orgName": "\u00d6stersunds IK - Ishockey",
+      "orgNumber": "802413-3400",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/ostersundik"
     },
     {
       "entry": 1236571301,

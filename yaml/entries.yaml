@@ -1232,6 +1232,15 @@ entries:
   - motorcykelklubb
   web: https://www.bbmc.se/
 
+- entry: 1230081174
+  orgName: Cosmos Fotbollsklubb
+  orgNumber: 802463-0199
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/cosmosfk
+
 - entry: 1230081257
   orgName: Gottnebygdens Samhällsförening - Gottne Byskola
   orgNumber: 889601-1528
@@ -22553,6 +22562,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/nacka
 
+- entry: 1231721208
+  orgName: Östersunds OK
+  orgNumber: 892001-2591
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.svenskalag.se/ostersundsok
+
 - entry: 1231721323
   orgName: Ödsmåls IK
   orgNumber: 853300-1700
@@ -22561,6 +22579,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.odsmalsik.se/
+
+- entry: 1231721406
+  orgName: Östersunds Jaktskytteklubb
+  orgNumber: 893201-7760
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  web: https://www.svenskalag.se/ostersundsjsk
 
 - entry: 1231721430
   orgName: Hundhjälpen
@@ -29796,6 +29823,16 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1232282531
+  orgName: Orrvikens IK
+  orgNumber: 893200-4537
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.svenskalag.se/oik
 
 - entry: 1232282754
   orgName: Björntaget
@@ -45401,6 +45438,16 @@ entries:
   - religion
   web: https://saltsydsverige.nu/
 
+- entry: 1233547866
+  orgName: Jämtlands Bågskytteklubb
+  orgNumber: 802455-8614
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  - parasport
+  web: https://www.svenskalag.se/jamtlandsbagskytteklubb
+
 - entry: 1233548153
   orgName: Leksands Ridklubb
   orgNumber: 883200-5741
@@ -50623,6 +50670,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://piteaif.sportadmin.se/
+
+- entry: 1234002291
+  orgName: Östersunds Bouleklubb
+  orgNumber: 893203-0912
+  comment: null
+  categories:
+  - bouleklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ostersundsbouleklubb
 
 - entry: 1234003661
   orgName: Brännöföreningen
@@ -58119,6 +58175,16 @@ entries:
   - ryttarförening
   web: https://torsasryttare.se/
 
+- entry: 1234664926
+  orgName: IFK Östersund
+  orgNumber: 893200-2614
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - parasport
+  web: https://www.svenskalag.se/ifkostersund
+
 - entry: 1234665063
   orgName: Charlie's House - Fredagskassen / Christian & Louise i Båstad AB
   orgNumber: 556722-7789
@@ -60190,6 +60256,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1234898797
+  orgName: Östersunds konståkningsförening
+  orgNumber: 802530-9371
+  comment: null
+  categories:
+  - idrottsförening
+  - konståkningsklubb
+  web: https://www.svenskalag.se/ostersundskonstakningsforening
+
 - entry: 1234899936
   orgName: FC Möjligheten
   orgNumber: 802497-8580
@@ -60615,6 +60690,17 @@ entries:
   - friskvård
   - massage
   web: http://www.liisasfriskvardsmassage.se/
+
+- entry: 1234943510
+  orgName: IF Castor Östersund
+  orgNumber: 892001-2088
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  - konståkningsklubb
+  - parasport
+  web: https://www.svenskalag.se/ifcastor
 
 - entry: 1234943726
   orgName: Plaza Deco / Investmentbolaget LGAB Sverige AB
@@ -63378,6 +63464,15 @@ entries:
   categories:
   - religion
   web: https://www.kyrktorget.se/
+
+- entry: 1235138631
+  orgName: Östersund Volleyboll
+  orgNumber: 893201-2696
+  comment: null
+  categories:
+  - idrottsförening
+  - volleybollklubb
+  web: https://www.svenskalag.se/ostersundvolley
 
 - entry: 1235138706
   orgName: Smyrnaförsamlingen I Ed
@@ -74659,6 +74754,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vaxholm
 
+- entry: 1236071518
+  orgName: Östersunds GIF
+  orgNumber: 892000-9878
+  comment: null
+  categories:
+  - bordtennisklubb
+  - friidrottsförening
+  - idrottsförening
+  web: https://www.svenskalag.se/ogif
+
 - entry: 1236071740
   orgName: Ekängens IF
   orgNumber: 802450-6795
@@ -80693,6 +80798,15 @@ entries:
   categories:
   - religion
   web: http://www.korskyrkan.com/
+
+- entry: 1236571038
+  orgName: Östersunds IK - Ishockey
+  orgNumber: 802413-3400
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/ostersundik
 
 - entry: 1236571301
   orgName: Tensta Församling
