@@ -1,5 +1,181 @@
 entries:
 
+- entry: 1231392059
+  orgName: Åkerlunds Busstrafik AB 
+  orgNumber: 556478-1317
+  comment:
+  categories:
+  - busstrafik
+  - charterbuss
+  web: https://www.akerlundsbuss.se/
+
+- entry: 1233007366
+  orgName: PRO Hedemora
+  orgNumber: 882000-5869
+  comment:
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-hedemora/foreningar/hedemora.html
+
+- entry: 1230804906
+  orgName: PRO Skutskär
+  orgNumber: 817300-5755
+  comment:
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-alvkarleby/foreningar/pro-skutskar.html
+
+- entry: 1236244313
+  orgName: PRO Vännäsby
+  orgNumber: 802466-8686
+  comment:
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-vannas/foreningar/vannasby.html
+
+- entry: 1236468185
+  orgName: PRO Kristdala
+  orgNumber: 832800-3267
+  comment:
+  categories:
+  - pensionärsklubb
+  weN: https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-oskarshamn/foreningar/kristdala.html
+
+- entry: 1231119973
+  orgName: Överkalix FF
+  orgNumber: 802534-4261
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.svenskalag.se/overkalixff
+
+- entry: 1235760780
+  orgName: Östra Göinge Ryttarförening
+  orgNumber: 838201-2881
+  comment:
+  categories:
+  - ryttarförening
+  - ridklubb
+  - hästsport
+  web: https://www.svenskalag.se/ostragoingerf
+
+- entry: 1231121086
+  orgName: IFK Knislinge
+  orgNumber: 838200-6123
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  - parasport
+  web: https://www.svenskalag.se/ifkknislinge
+
+- entry: 1235515234
+  orgName: Östhammar Friidrott
+  orgNumber: 817301-3221
+  comment:
+  categories:
+  - idrottsförening
+  - friidrottsförening
+  web: https://www.svenskalag.se/osthammarfriidrott
+
+- entry: 1236661151
+  orgName: Roslagens Träningsverk
+  orgNumber: 802506-6807
+  comment:
+  categories:
+  - idrottsförening
+  - gymnastikförening
+  - motionsklubb
+  web: https://www.svenskalag.se/roslagenstraningsverk
+
+- entry: 1235503297
+  orgName: Gimo SS
+  orgNumber: 817300-3891
+  comment:
+  categories:
+  - idrottsförening
+  - simsällskap
+  - simklubb
+  web: https://www.svenskalag.se/gimoss
+
+- entry: 1236181044
+  orgName: Gimo SKF
+  orgNumber: 802470-0869
+  comment:
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.svenskalag.se/gimoskf
+
+- entry: 1231703289
+  orgName: Gimo IF SK - Skidor
+  orgNumber: 802438-1983
+  comment:
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.svenskalag.se/gimoifsk
+
+- entry: 1231381771
+  orgName: Furuhöjdskyrkans Ungdomsförening, FURUF
+  orgNumber: 817301-4260
+  comment:
+  categories:
+  - religion
+  web: https://www.furuhojdskyrkan.se/
+
+- entry: 1235009345
+  orgName: CK Stabil
+  orgNumber: 802507-7903
+  comment:
+  categories:
+  - idrottsförening
+  - cykelklubb
+  web: https://www.svenskalag.se/ckstabil
+
+- entry: 1230820811
+  orgName: Almo BK
+  orgNumber: 817600-9135
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  - gymnastikförening
+  - padelklubb
+  web: https://www.svenskalag.se/almobollklubb
+
+- entry: 1234653432
+  orgName: Österåkers Sportfiskeklubb
+  orgNumber: 816400-1623
+  comment:
+  categories:
+  - sportfiskeklubb
+  - fiskeklubb
+  web: https://www.svenskalag.se/osterakerssportfiskeklubb
+
+- entry: 1235412309
+  orgName: Åsätra MK
+  orgNumber: 812000-3309
+  comment:
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://www.svenskalag.se/asatramk
+
+- entry: 1236720163
+  orgName: Åkersberga SK
+  orgNumber: 802456-6146
+  comment:
+  categories:
+  - idrottsförening
+  - löparklubb
+  - obstaclecourseracingklubb
+  - skidlöparklubb
+  - friidrottsförening
+  - atletklubb
+  web: https://www.svenskalag.se/akersbergask
+
 - entry: 1230003194
   orgName: Kungälv Kode Golfklubb
   orgNumber: 556323-9663
