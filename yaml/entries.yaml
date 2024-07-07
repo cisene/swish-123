@@ -1,181 +1,5 @@
 entries:
 
-- entry: 1231392059
-  orgName: Åkerlunds Busstrafik AB 
-  orgNumber: 556478-1317
-  comment:
-  categories:
-  - busstrafik
-  - charterbuss
-  web: https://www.akerlundsbuss.se/
-
-- entry: 1233007366
-  orgName: PRO Hedemora
-  orgNumber: 882000-5869
-  comment:
-  categories:
-  - pensionärsklubb
-  web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-hedemora/foreningar/hedemora.html
-
-- entry: 1230804906
-  orgName: PRO Skutskär
-  orgNumber: 817300-5755
-  comment:
-  categories:
-  - pensionärsklubb
-  web: https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-alvkarleby/foreningar/pro-skutskar.html
-
-- entry: 1236244313
-  orgName: PRO Vännäsby
-  orgNumber: 802466-8686
-  comment:
-  categories:
-  - pensionärsklubb
-  web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-vannas/foreningar/vannasby.html
-
-- entry: 1236468185
-  orgName: PRO Kristdala
-  orgNumber: 832800-3267
-  comment:
-  categories:
-  - pensionärsklubb
-  weN: https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-oskarshamn/foreningar/kristdala.html
-
-- entry: 1231119973
-  orgName: Överkalix FF
-  orgNumber: 802534-4261
-  comment:
-  categories:
-  - idrottsförening
-  - fotbollsklubb
-  web: https://www.svenskalag.se/overkalixff
-
-- entry: 1235760780
-  orgName: Östra Göinge Ryttarförening
-  orgNumber: 838201-2881
-  comment:
-  categories:
-  - ryttarförening
-  - ridklubb
-  - hästsport
-  web: https://www.svenskalag.se/ostragoingerf
-
-- entry: 1231121086
-  orgName: IFK Knislinge
-  orgNumber: 838200-6123
-  comment:
-  categories:
-  - idrottsförening
-  - fotbollsklubb
-  - parasport
-  web: https://www.svenskalag.se/ifkknislinge
-
-- entry: 1235515234
-  orgName: Östhammar Friidrott
-  orgNumber: 817301-3221
-  comment:
-  categories:
-  - idrottsförening
-  - friidrottsförening
-  web: https://www.svenskalag.se/osthammarfriidrott
-
-- entry: 1236661151
-  orgName: Roslagens Träningsverk
-  orgNumber: 802506-6807
-  comment:
-  categories:
-  - idrottsförening
-  - gymnastikförening
-  - motionsklubb
-  web: https://www.svenskalag.se/roslagenstraningsverk
-
-- entry: 1235503297
-  orgName: Gimo SS
-  orgNumber: 817300-3891
-  comment:
-  categories:
-  - idrottsförening
-  - simsällskap
-  - simklubb
-  web: https://www.svenskalag.se/gimoss
-
-- entry: 1236181044
-  orgName: Gimo SKF
-  orgNumber: 802470-0869
-  comment:
-  categories:
-  - skytteklubb
-  - sportskytteklubb
-  web: https://www.svenskalag.se/gimoskf
-
-- entry: 1231703289
-  orgName: Gimo IF SK - Skidor
-  orgNumber: 802438-1983
-  comment:
-  categories:
-  - idrottsförening
-  - skidlöparklubb
-  web: https://www.svenskalag.se/gimoifsk
-
-- entry: 1231381771
-  orgName: Furuhöjdskyrkans Ungdomsförening, FURUF
-  orgNumber: 817301-4260
-  comment:
-  categories:
-  - religion
-  web: https://www.furuhojdskyrkan.se/
-
-- entry: 1235009345
-  orgName: CK Stabil
-  orgNumber: 802507-7903
-  comment:
-  categories:
-  - idrottsförening
-  - cykelklubb
-  web: https://www.svenskalag.se/ckstabil
-
-- entry: 1230820811
-  orgName: Almo BK
-  orgNumber: 817600-9135
-  comment:
-  categories:
-  - idrottsförening
-  - fotbollsklubb
-  - gymnastikförening
-  - padelklubb
-  web: https://www.svenskalag.se/almobollklubb
-
-- entry: 1234653432
-  orgName: Österåkers Sportfiskeklubb
-  orgNumber: 816400-1623
-  comment:
-  categories:
-  - sportfiskeklubb
-  - fiskeklubb
-  web: https://www.svenskalag.se/osterakerssportfiskeklubb
-
-- entry: 1235412309
-  orgName: Åsätra MK
-  orgNumber: 812000-3309
-  comment:
-  categories:
-  - motorklubb
-  - motorsport
-  web: https://www.svenskalag.se/asatramk
-
-- entry: 1236720163
-  orgName: Åkersberga SK
-  orgNumber: 802456-6146
-  comment:
-  categories:
-  - idrottsförening
-  - löparklubb
-  - obstaclecourseracingklubb
-  - skidlöparklubb
-  - friidrottsförening
-  - atletklubb
-  web: https://www.svenskalag.se/akersbergask
-
 - entry: 1230003194
   orgName: Kungälv Kode Golfklubb
   orgNumber: 556323-9663
@@ -10694,6 +10518,14 @@ entries:
   - skidlöparklubb
   web: https://www.svenskalag.se/arbogask
 
+- entry: 1230804906
+  orgName: PRO Skutskär
+  orgNumber: 817300-5755
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-alvkarleby/foreningar/pro-skutskar.html
+
 - entry: 1230805192
   orgName: Stenungsunds Pastorat
   orgNumber: 252003-6316
@@ -10887,6 +10719,17 @@ entries:
   - idrottsförening
   - rugbyklubb
   web: https://www.svenskalag.se/attilarugby
+
+- entry: 1230820811
+  orgName: Almo BK
+  orgNumber: 817600-9135
+  comment: null
+  categories:
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  - padelklubb
+  web: https://www.svenskalag.se/almobollklubb
 
 - entry: 1230821132
   orgName: Alvesta GK
@@ -14859,6 +14702,25 @@ entries:
   - kvinnojour
   web: https://www.unizonjourer.se/jourer/kramfors-kvinnojour/
 
+- entry: 1231119973
+  orgName: Överkalix FF
+  orgNumber: 802534-4261
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/overkalixff
+
+- entry: 1231121086
+  orgName: IFK Knislinge
+  orgNumber: 838200-6123
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - parasport
+  web: https://www.svenskalag.se/ifkknislinge
+
 - entry: 1231121250
   orgName: m4 gruppen AB
   orgNumber: 556787-8318
@@ -18589,6 +18451,14 @@ entries:
   - religion
   web: https://www.vallaklovedal.se/klovedals-missionsforsamling/
 
+- entry: 1231381771
+  orgName: Furuhöjdskyrkans Ungdomsförening, FURUF
+  orgNumber: 817301-4260
+  comment: null
+  categories:
+  - religion
+  web: https://www.furuhojdskyrkan.se/
+
 - entry: 1231388164
   orgName: Adventkyrkan i Linköping
   orgNumber: 822002-9667
@@ -18621,6 +18491,15 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.fjallstallet.se/
+
+- entry: 1231392059
+  orgName: Åkerlunds Busstrafik AB
+  orgNumber: 556478-1317
+  comment: null
+  categories:
+  - busstrafik
+  - charterbuss
+  web: https://www.akerlundsbuss.se/
 
 - entry: 1231392257
   orgName: Fagersta Pensionärsbowling
@@ -22436,6 +22315,15 @@ entries:
   - hundsport
   - stövarklubb
   web: https://www.smstk.se/
+
+- entry: 1231703289
+  orgName: Gimo IF SK - Skidor
+  orgNumber: 802438-1983
+  comment: null
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.svenskalag.se/gimoifsk
 
 - entry: 1231703354
   orgName: Wadköpings Fäktförening
@@ -38728,6 +38616,14 @@ entries:
   - camping
   - intresseförening
   web: https://ihusbil.se/
+
+- entry: 1233007366
+  orgName: PRO Hedemora
+  orgNumber: 882000-5869
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-hedemora/foreningar/hedemora.html
 
 - entry: 1233008232
   orgName: Specialklubben Rhodesian Ridgeback Sverige, SRRS
@@ -58139,6 +58035,15 @@ entries:
   - religion
   web: https://www.pingstnorrkoping.se/
 
+- entry: 1234653432
+  orgName: Österåkers Sportfiskeklubb
+  orgNumber: 816400-1623
+  comment: null
+  categories:
+  - fiskeklubb
+  - sportfiskeklubb
+  web: https://www.svenskalag.se/osterakerssportfiskeklubb
+
 - entry: 1234653697
   orgName: null
   orgNumber: null
@@ -61777,6 +61682,15 @@ entries:
   categories:
   - podcast
   web: https://shows.acast.com/femitopp
+
+- entry: 1235009345
+  orgName: CK Stabil
+  orgNumber: 802507-7903
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ckstabil
 
 - entry: 1235009410
   orgName: Top of Skellefteå / Midsommarviken AB
@@ -67114,6 +67028,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/floby
 
+- entry: 1235412309
+  orgName: Åsätra MK
+  orgNumber: 812000-3309
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://www.svenskalag.se/asatramk
+
 - entry: 1235413224
   orgName: Gideonsbergskyrkan
   orgNumber: 556706-5262
@@ -68094,6 +68017,16 @@ entries:
   - ryttarförening
   web: https://www.asedaryttarforening.se/
 
+- entry: 1235503297
+  orgName: Gimo SS
+  orgNumber: 817300-3891
+  comment: null
+  categories:
+  - idrottsförening
+  - simklubb
+  - simsällskap
+  web: https://www.svenskalag.se/gimoss
+
 - entry: 1235503339
   orgName: EKHO Stockholm / EKHO Riksförbund
   orgNumber: 802515-7481
@@ -68288,6 +68221,15 @@ entries:
   - brukshundsklubb
   - hundsport
   web: https://ronnebybrukshundklubb.se/
+
+- entry: 1235515234
+  orgName: Östhammar Friidrott
+  orgNumber: 817301-3221
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  web: https://www.svenskalag.se/osthammarfriidrott
 
 - entry: 1235516026
   orgName: Pingstförsamlingen i Kinna
@@ -71364,6 +71306,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/varberg
+
+- entry: 1235760780
+  orgName: Östra Göinge Ryttarförening
+  orgNumber: 838201-2881
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://www.svenskalag.se/ostragoingerf
 
 - entry: 1235763040
   orgName: Clemensnäs IF
@@ -76493,6 +76445,15 @@ entries:
   - ridsport
   web: https://ridledertiveden.se/
 
+- entry: 1236181044
+  orgName: Gimo SKF
+  orgNumber: 802470-0869
+  comment: null
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.svenskalag.se/gimoskf
+
 - entry: 1236181820
   orgName: Svenska Utbildningsfonden för Liberia
   orgNumber: 802466-3430
@@ -77189,6 +77150,14 @@ entries:
   - rehab
   - träning
   web: http://rehabhuset.com/
+
+- entry: 1236244313
+  orgName: PRO Vännäsby
+  orgNumber: 802466-8686
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-vannas/foreningar/vannasby.html
 
 - entry: 1236245674
   orgName: Västerlanda Bygdegårdsförening
@@ -79660,6 +79629,14 @@ entries:
   - jaktskytteklubb
   web: http://www.gnestajsk.se/
 
+- entry: 1236468185
+  orgName: PRO Kristdala
+  orgNumber: 832800-3267
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-oskarshamn/foreningar/kristdala.html
+
 - entry: 1236469100
   orgName: Lex Femme
   orgNumber: 802420-6198
@@ -81666,6 +81643,16 @@ entries:
   - hundsport
   web: https://brukshundklubben.se/sbk-gotlandsdistriktet/
 
+- entry: 1236661151
+  orgName: Roslagens Träningsverk
+  orgNumber: 802506-6807
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  - motionsklubb
+  web: https://www.svenskalag.se/roslagenstraningsverk
+
 - entry: 1236661292
   orgName: PRO Rydaholm
   orgNumber: 802497-2609
@@ -82599,6 +82586,19 @@ entries:
   - amerikansk fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/lundvikings
+
+- entry: 1236720163
+  orgName: Åkersberga SK
+  orgNumber: 802456-6146
+  comment: null
+  categories:
+  - atletklubb
+  - friidrottsförening
+  - idrottsförening
+  - löparklubb
+  - obstaclecourseracingklubb
+  - skidlöparklubb
+  web: https://www.svenskalag.se/akersbergask
 
 - entry: 1236720445
   orgName: Borås Yoga centrum / Kristina Andersson
