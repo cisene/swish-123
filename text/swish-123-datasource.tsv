@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-07-08-rev-151925
+# Date: 2024-07-08-rev-185745
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -213,6 +213,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230139691	556813-0339	Lilla Bandet från Färgelanda / Johan Pettersen AB	https://www.lillabandet.se/	orkester,underhållning	
 1230140954	734000-0277	Burs Bygdegårdsförening	https://www.burs.nu/	bygdegårdsförening	
 1230141374	849600-0236	Pingstförsamlingen i Varberg	https://www.pingstvarberg.se/	religion	Matkassen
+1230141960	822002-5517	LinköpingsPolisens SeniorKlubb, LPSK	https://www.lpsk.nu/	pensionärsklubb	
 1230142745	802528-2826	Nordisk Förening för Spädbarns Utveckling, NFSU	https://nfsu.org/	intresseförening	
 1230142919	857200-4094	Pingstkyrkan Västra Frölunda	https://frolunda.pingst.se/	religion	Utbyggnaden
 1230142927	559177-2198	MorrRingens AB	https://morrringens.se/	meditation,spiritualism	
@@ -574,6 +575,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230373134	802454-6429	Alingsås Karateklubb	https://www.alingsaskarateklubb.se/	idrottsförening,kampsportsförening,karateklubb	
 1230373837	883200-4462	Plintsbergs Bystuga	https://plintsbergsby.com/	byalag,hembygdsförening	
 1230373969	857203-5056	Partille Hembygdsförening	https://www.hembygd.se/partille	hembygdsförening	
+1230374587	802449-8472	RPG Lidköping	https://www.pingstlidkoping.se/rpg-seniorer/	pensionärsklubb,religion	
 1230375493	252000-1278	Riala Församling	https://www.svenskakyrkan.se/roslagens-ostra-pastorat/riala-forsamling	religion	
 1230375576	802512-6163	Fiskebåten Edit KN18 Karlshamn / Kulturföreningen Edits Vänner	http://www.edit.n.nu/	intresseförening,kulturförening	
 1230375675	883200-8380	Skebergs Bygdegård	https://skeberg.se/	bygdegårdsförening	
@@ -1233,6 +1235,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230822403	832401-2999	Emmaboda BMK	https://www.svenskalag.se/ebk	badmintonklubb,idrottsförening	
 1230822544	829502-2472	Theleborgs RS - Ridsport	https://www.theleborgsrs.se/	ridklubb,ridskola	
 1230825513	202100-2874	Umeå Universitet	https://www.umu.se/kontakta-oss/ge-en-gava/sa-har-gor-du/donation/	donation	Kulturvetenskaplig forskning
+1230825554	802448-3961	SKPF Pensionärerna, avd 43 Nyköping Oxelösund	https://www.skpf.se/avdelningar/distrikt-sodermanlands-lan/nykoping-avd-43/	pensionärsklubb	
 1230826016	252003-6316	Stenungsunds Pastorat	https://www.svenskakyrkan.se/stenungsund	religion	Övrigt
 1230832709	849600-2562	Tvååkers IF	https://www.tvaakersif.se/	idrottsförening	Kiosken
 1230833020	802003-1954	Stockholms Stadsmission	https://www.stadsmissionen.se/	godkänd gåvomottagare,välgörenhet	
@@ -2298,6 +2301,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231528439	802540-3877	Borlänge Truppgymnaster	https://www.borlangetruppgymnaster.se/	idrottsförening,truppgymnastik	
 1231530492	802007-1331	Scoutkåren Vikingarna	https://vikingarna.scout.se/	scoutkår	
 1231531029	802426-3165	Stiftelsen Uppåkra Arkeologiska Center	https://www.uppakra.se/	arkeologi,utbildning	Försäljning
+1231531169	802459-6218	SKPF Pensionärerna, avd 75 Örnsköldsvik	https://www.skpf.se/avdelningar/distrikt-vasternorrland/ornskoldsvik-avd-75/	pensionärsklubb	
 1231533363	556484-5492	Blue Circle / NSG Sweden AB	https://nsg.se/blue-circle/	guldsmide,silversmide,utbildning,ädelmetaller	
 1231533587	866601-0346	Ekumeniakyrkan Tibro	https://equmeniakyrkantibro.se/	religion	
 1231536267	559173-0501	Finnvedens Begravningsbyrå AB	https://www.finnvedensbegravningsbyra.se/	begravningsbyrå	
@@ -3230,6 +3234,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232200038	610302-XXXX	Enskild Firma / Maria Jonsson		yoga	
 1232200285	889600-9001	Intresseföreningen Skorpeds Framtid	http://skorped.se/	hembygdsförening,intresseförening	
 1232201507	802413-3616	SPF Seniorerna Habo	https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/haboorten/	pensionärsklubb	
+1232202539	864001-0578	SKPF Pensionärernam, avd 53 Alingsås	https://skpf53.se/	pensionärsklubb	
 1232202869	843003-3004	ProLivskvalitet Patientförening för Prostatacancer	https://prostatacancerforbundet.se/om-oss/patientforeningar/skane/prolivskvalitet/	cancer,patientförening,prostatacancer	
 1232203214	559182-1821	Hellasgården / Krasiva AB	https://hellasgarden.se/	konferens,konferenslokaler,kurser,logi,restaurant,utbildning	
 1232203941	640914-XXXX	Yoga Resan i Lerum / Lena Johansson	https://www.yogaresan.se/	yoga	
@@ -3652,6 +3657,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232468673	729500-4274	Wemboö Bygdegårdsförening	http://vemboöbygdegård.com/	bygdegårdsförening	
 1232477313	826001-1526	Vätterbygdens Veteranfordonsklubb	https://www.vvfk.se/	motorklubb,motorsport,veteranfordon	
 1232477685	802525-9659	Ätbart	https://atbart.org/	utbildning	
+1232478337	802421-4895	RPG Vetlanda	https://www.rpgvetlanda.se/	pensionärsklubb,religion	
 1232479046	898800-6568	Piteå HC	https://www.laget.se/PHC/	idrottsförening,ishockeyklubb	P10
 1232487262	898801-0636	Öjebyns IBF	https://www.laget.se/OjebynsIBF/	idrottsförening,innebandyklubb	P16
 1232488773	882601-3784	Naturskyddsföreningen Borlänge	https://borlange.naturskyddsforeningen.se/	förening,naturskydd	
@@ -4363,6 +4369,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233010212	802016-8624	Svenska Avdelningen av Internationella Juristkommissionen, ICJ-Sweden	https://www.icj-sweden.org/	intresseorganisation,juridik	
 1233010972	854600-4469	Lysekils HK	https://www.laget.se/LysekilHK/	handbollsklubb,idrottsförening	
 1233011087	802440-0403	Bloom Nyköping	https://www.bloomnykoping.se/	intresseförening	
+1233015484	802018-0108	HPR Pensionärsförening Reimersholme	https://hprreimersholme.se/	pensionärsklubb	
 1233017191	882602-1001	KGoIF Veteranklubb	https://www.svenskalag.se/kgoif-veteraner	bouleklubb,idrottsförening,orienteringsklubb	
 1233018439	802482-2572	Insamlingsstiftelsen Sverige-Ukraina	https://www.sve-ukr.se/	hjälporganisation,insamling,stiftelse,ukraina	Hjälp till Ukraina
 1233021003	802492-0160	Hällefors Ornitologiska Förening	https://halleforsornitologiskaforening.se/	förening,ornitologi	
@@ -5121,6 +5128,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233529799	889600-1057	KB65 Fotboll	https://www.svenskalag.se/KB65FF	fotbollsklubb,idrottsförening	
 1233534286	875002-7933	Örebro Läns Strokeförening, ÖLS	https://orebrolansstrokeforening.org/	intresseförening,patientförening,strokeforskning	
 1233534336	817605-9932	Aktiva Seniorer Eskilstuna	https://eskilstuna.aktivaseniorer.com/	pensionärsklubb	
+1233535010	802503-0860	Carlsberg Pripps Pensionärsförening	https://caprpewp.hemsidadirekt.se/	pensionärsklubb	
 1233539103	858500-7290	IK Rössö Uddevalla	https://www.laget.se/IKrosso/	fotbollsklubb,idrottsförening	F10/F11
 1233539459	814401-1114	Roslagsveteranerna	https://www.roslagsveteranerna.com/	idrottsförening,orienteringsklubb	
 1233540382	802405-1933	Farsta Ryttarvänner	https://farstaryttarvanner.se/	hästsport,ridklubb	
@@ -6671,6 +6679,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234731154	802504-0810	Norrköpings Raggarklubb	https://www.nkpgraggare.nu/	intresseorganisation,raggarklubb,veteranbil	
 1234731964	802520-6643	Båstad Budoklubb	https://www.bastadbudoklubb.se/	idrottsförening,kampsportsförening	
 1234732194	833200-7759	Hultsfred Brukshundklubb	https://www.hultsfredbrukshundklubb.se/	brukshundsklubb,hundsport	
+1234732962	829501-4552	Hultanäs sport och fritidsklubb, HSoFK	http://nashult.se/hultanas-hultanas-sofk-styrelse	bygdegårdsförening,fritidsförening	
 1234734059	842000-4908	Höörs GDF Glada Gänget, Höörs Gammaldansförening	http://svenopias.se/dansen/	dansförening	
 1234734331	802477-9673	Insamlingsstiftelsen Nanne Network	http://nannenetwork.com/	stiftelse	
 1234735080	862000-6760	SPF Seniorerna Åmåliterna	http://www.spfseniorerna.se/amaliterna	pensionärsklubb	
