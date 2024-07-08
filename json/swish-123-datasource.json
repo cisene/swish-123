@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-08-rev-144312",
+    "date": "2024-07-08-rev-151911",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -10303,6 +10303,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://hoglandsnasbyaforening.webnode.se/"
+    },
+    {
+      "entry": 1230659904,
+      "orgName": "SKPF Pension\u00e4rerna, avd 113 Sollefte\u00e5",
+      "orgNumber": "802441-2051",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.skpf.se/avdelningar/distrikt-vasternorrland/solleftea-avd-113/"
     },
     {
       "entry": 1230663401,
@@ -59680,6 +59690,16 @@
       "web": "http://www.sjomanskyrkan.se/"
     },
     {
+      "entry": 1233879012,
+      "orgName": "Hyssna Pension\u00e4rsf\u00f6rening",
+      "orgNumber": "802500-8189",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://hyssnapensionarsforening.se/"
+    },
+    {
       "entry": 1233879061,
       "orgName": "Lions Club Arvika",
       "orgNumber": "802458-8488",
@@ -69940,6 +69960,16 @@
         "utbildningsst\u00f6d"
       ],
       "web": "https://ridskolepedagogik.com/"
+    },
+    {
+      "entry": 1234605093,
+      "orgName": "SKPF Pension\u00e4rerna, avd 30 J\u00e4mtland",
+      "orgNumber": "802475-9311",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.skpf.se/avdelningar/distrikt-jamtlands-och-harjedalens-lan/jamtland-avd-30/"
     },
     {
       "entry": 1234605119,
@@ -98538,6 +98568,16 @@
         "ridskola"
       ],
       "web": "https://vedbande.nu/"
+    },
+    {
+      "entry": 1236582639,
+      "orgName": "Skjutsgruppen",
+      "orgNumber": "802461-7477",
+      "comment": null,
+      "categories": [
+        "sam\u00e5kning"
+      ],
+      "web": "https://skjutsgruppen.se/"
     },
     {
       "entry": 1236583413,

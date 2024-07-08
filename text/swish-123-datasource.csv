@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-07-08-rev-144318
+# Date: 2024-07-08-rev-151918
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -963,6 +963,7 @@
 "1230656728","897300-0261","Kiruna jakt- och fiskevårdsförening","https://www.kirunajaktochfiske.se/","förening,naturvård,viltvård","Kurser"
 "1230656744","802481-1997","Stiftelsen Tim Bergling Foundation","https://www.timberglingfoundation.org/","psykisk hälsa,självmordsprevention,stiftelse,suicid prevention","Avicii-fonden"
 "1230657494","802518-9971","Höglandsnäs Byaförening","https://hoglandsnasbyaforening.webnode.se/","byalag,hembygdsförening",""
+"1230659904","802441-2051","SKPF Pensionärerna, avd 113 Sollefteå","https://www.skpf.se/avdelningar/distrikt-vasternorrland/solleftea-avd-113/","pensionärsklubb",""
 "1230663401","559305-6517","Johannelunds Teologiska Högskola","https://www.johannelund.nu/","religion,utbildning",""
 "1230663443","802538-7120","Återställ Våtmarker / Våtmarkernas Stödförening","https://återställvåtmarker.se/","donation,intresseförening",""
 "1230663666","769622-9132","Karlshamns Handel & Service Ekonomisk Förening","https://www.karlshamnshandel.se/","försäljning",""
@@ -5530,6 +5531,7 @@
 "1233874179","878001-8290","Västerås Karatecenter","https://vasteraskaratecenter.se/","idrottsförening,kampsportsförening,karateklubb",""
 "1233878436","802471-9547","Adelsö Hembygdslag","http://www.adelsohembygdslag.se/","hembygdsförening",""
 "1233878741","857201-9936","Stiftelsen Sjömanskyrkan i Göteborgs Stift","http://www.sjomanskyrkan.se/","stiftelse",""
+"1233879012","802500-8189","Hyssna Pensionärsförening","https://hyssnapensionarsforening.se/","pensionärsklubb",""
 "1233879061","802458-8488","Lions Club Arvika","https://www.e-clubhouse.org/sites/arvika/","lionsklubb",""
 "1233879509","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Fäladsskolan"
 "1233879558","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Högastenskolan"
@@ -6478,6 +6480,7 @@
 "1234604021","824000-4435","LSW IF","https://www.svenskalag.se/lswif","fotbollsklubb,idrottsförening",""
 "1234604039","802488-3467","Medborgerlig Samling","https://www.med.se/","politiskt parti",""
 "1234604724","556708-1780","Ridskolepedagogik / Björkviks Ponnyridskola AB","https://ridskolepedagogik.com/","hästsport,ridskola,utbildning,utbildningsstöd",""
+"1234605093","802475-9311","SKPF Pensionärerna, avd 30 Jämtland","https://www.skpf.se/avdelningar/distrikt-jamtlands-och-harjedalens-lan/jamtland-avd-30/","pensionärsklubb",""
 "1234605119","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Skanörsskola"
 "1234605143","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Ramlösa Friskola"
 "1234605176","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Täby, Hagaskolan"
@@ -9117,6 +9120,7 @@
 "1236581680","802445-6967","Ship to Gaza Sverige","https://shiptogaza.se/","intresseförening,opinionsbildning",""
 "1236581888","823000-8206","Ödeshögs Kennelklubb","https://www.odeshogskennelklubb.se/","hundklubb",""
 "1236581938","934007-6745","Vedbände Ridläger & Ridskola","https://vedbande.nu/","hästsport,ridläger,ridskola",""
+"1236582639","802461-7477","Skjutsgruppen","https://skjutsgruppen.se/","samåkning",""
 "1236583413","826002-2200","Bankeryds Scoutkår","https://bankeryd.scout.se/","scoutkår",""
 "1236583769","802418-3785","Granöbygdens Golfklubb","https://www.granobygdensgk.se/","golfbana,golfklubb",""
 "1236590566","252004-9947","Gävle Församling","https://www.svenskakyrkan.se/gavle/defaultaspxid668646","religion","Bomhus kyrka kollekt"
