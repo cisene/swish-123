@@ -9810,6 +9810,20 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/Ystad/
 
+- entry: 1230747949
+  orgName: Karlslunds IF FK
+  orgNumber: 875000-8438
+  comment: null
+  categories:
+  - bandyklubb
+  - bowlingklubb
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  - simklubb
+  - softbollklubb
+  web: https://www.karlslund.nu/
+
 - entry: 1230748004
   orgName: FRIENDSFOREVER
   orgNumber: 802467-4312
@@ -15521,6 +15535,18 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/saxemaraif
 
+- entry: 1231158880
+  orgName: Herrestads AIF
+  orgNumber: 858500-0782
+  comment: null
+  categories:
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  - innebandyklubb
+  - orienteringsklubb
+  web: https://www.laget.se/HerrestadsAIF/
+
 - entry: 1231159193
   orgName: ADAS United
   orgNumber: 802464-0461
@@ -15529,6 +15555,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/adasunited
+
+- entry: 1231159318
+  orgName: Slöinge GoIF
+  orgNumber: 849000-2659
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/SloingeGoIF/
 
 - entry: 1231159417
   orgName: Piteå Församling
@@ -17587,6 +17622,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/onsala
+
+- entry: 1231313915
+  orgName: Lerums BK
+  orgNumber: 863500-4503
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/LerumsBK/
 
 - entry: 1231314087
   orgName: Lidhults Församling
@@ -21666,6 +21710,15 @@ entries:
   - bildarkiv
   - intresseförening
   web: https://www.hunnebostrandsbildarkiv.se/
+
+- entry: 1231612613
+  orgName: Assyriska BK
+  orgNumber: 855100-5732
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.assyriskabk.com/
 
 - entry: 1231612860
   orgName: Borlänge Brukshundklubb
@@ -30488,6 +30541,18 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/bredestad
 
+- entry: 1232301372
+  orgName: FK Älmeboda-Linneryd
+  orgNumber: 829502-3249
+  comment: null
+  categories:
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  - innebandyklubb
+  - padelklubb
+  web: https://www.laget.se/FKAlmebodaLinneryd/
+
 - entry: 1232301570
   orgName: null
   orgNumber: null
@@ -31371,6 +31436,17 @@ entries:
   categories:
   - fotbollsklubb
   web: https://www.vskfotboll.nu/
+
+- entry: 1232373512
+  orgName: IK Oddevold
+  orgNumber: 858500-1517
+  comment: null
+  categories:
+  - bowlsklubb
+  - fotbollsklubb
+  - idrottsförening
+  - parasport
+  web: https://www.oddevold.org/
 
 - entry: 1232373538
   orgName: Säffle KK
@@ -38457,6 +38533,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/EskilstunaCityFK
 
+- entry: 1232954121
+  orgName: Luleå Fotboll Dam
+  orgNumber: 802520-2733
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/LuleaFotbollDam/
+
 - entry: 1232954444
   orgName: Äspereds Hembygdsförening
   orgNumber: 864501-3361
@@ -41802,6 +41887,15 @@ entries:
   categories: null
   web: null
 
+- entry: 1233229150
+  orgName: FC Kopparmöllan
+  orgNumber: 837600-3649
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/fckopparmollan/
+
 - entry: 1233229945
   orgName: Mörrums Folkets Hus
   orgNumber: 736200-1617
@@ -43109,6 +43203,15 @@ entries:
   - museum
   web: https://trosabygdens.konstforeningar.se/
 
+- entry: 1233349305
+  orgName: Karlslunds IF FK
+  orgNumber: 875000-8438
+  comment: U15
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.karlslund.nu/
+
 - entry: 1233349420
   orgName: Appeal Advokatbyrå AB
   orgNumber: 559193-6546
@@ -44144,6 +44247,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.hudiksvallsff.se/
+
+- entry: 1233422292
+  orgName: Eskilstuna City FK
+  orgNumber: 818000-4742
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/EskilstunaCityFK/
 
 - entry: 1233422565
   orgName: Sundskanalen Nordvästra Skåne
@@ -45740,6 +45852,17 @@ entries:
   - idrottsförening
   - kampsportsförening
   web: https://malmobudoklubb.se/
+
+- entry: 1233524659
+  orgName: Bensby Ungdoms & FF
+  orgNumber: 897001-7458
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  - innebandyklubb
+  - motionsklubb
+  web: https://www.laget.se/BUFF/
 
 - entry: 1233525581
   orgName: Budo Höör IF
@@ -53324,6 +53447,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.trelleborgsif.se/
+
+- entry: 1234194429
+  orgName: Stjärnhovs IK
+  orgNumber: 819000-2868
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/StjarnhovsIK/
 
 - entry: 1234195012
   orgName: EFS Missionsförening Hammarbykyrkan
@@ -63372,6 +63504,15 @@ entries:
   - tennisklubb
   web: https://akarpstk.net/
 
+- entry: 1235104450
+  orgName: Surte IS
+  orgNumber: 802442-9154
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/SurteIS/
+
 - entry: 1235104641
   orgName: Alingsås Vårgårda Discgolf
   orgNumber: 802438-6883
@@ -68339,6 +68480,15 @@ entries:
   - parasport
   web: https://www.luleahandikappidrott.se/
 
+- entry: 1235456108
+  orgName: Eskilstuna City FK
+  orgNumber: 818000-4742
+  comment: P13 Blå
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/EskilstunaCityFK/
+
 - entry: 1235456629
   orgName: Degeberga-Everöds Församling
   orgNumber: 252004-7750
@@ -69045,6 +69195,15 @@ entries:
   categories:
   - tips
   web: https://tipsxtra.se/
+
+- entry: 1235524483
+  orgName: Husby Allmänna IK
+  orgNumber: 882000-2379
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/HusbyAllmannaIK/
 
 - entry: 1235524517
   orgName: Madesjö Örsjö Kristvalla Hembygdsförening
@@ -73852,6 +74011,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-alingsas/foreningar/alingsas.html
 
+- entry: 1235904073
+  orgName: Mossens BK
+  orgNumber: 857203-0545
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/MossensBK_/
+
 - entry: 1235904255
   orgName: Ystads Brukhundklubb
   orgNumber: 848000-6892
@@ -75197,7 +75365,7 @@ entries:
   web: https://www.uddevallahk.se/
 
 - entry: 1236025118
-  orgName: Bohus Bataljon
+  orgName: Supporterklubb Bohus Bataljon
   orgNumber: 802442-3652
   comment: null
   categories:
@@ -75903,6 +76071,15 @@ entries:
   - jaktskytteklubb
   - skytteklubb
   web: https://www.svenskalag.se/liatorpsjsk
+
+- entry: 1236088595
+  orgName: Rynninge IK
+  orgNumber: 875001-2307
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/RynningeIK/
 
 - entry: 1236090484
   orgName: Gärdhems Hembygdsförening
@@ -81630,6 +81807,15 @@ entries:
   - golfklubb
   web: https://www.trummenasgk.se/
 
+- entry: 1236548846
+  orgName: Lerums BK
+  orgNumber: 863500-4503
+  comment: A-ungdom
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/LerumsBK/
+
 - entry: 1236548853
   orgName: Norrala-Trönö Församling
   orgNumber: 252004-7230
@@ -85283,6 +85469,15 @@ entries:
   - föräldraskap
   web: https://makalosa.org/
 
+- entry: 1236870695
+  orgName: Säters IF FK
+  orgNumber: 882601-6332
+  comment: P13
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/SatersIFFK/
+
 - entry: 1236870703
   orgName: ReAct Europe / Uppsala Universitet
   orgNumber: 202100-2932
@@ -86527,6 +86722,15 @@ entries:
   - hemlandsförening
   - intresseförening
   web: https://weloveitaly.one/
+
+- entry: 1236963383
+  orgName: Sils IF
+  orgNumber: 869000-4299
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.silsif.se/
 
 - entry: 1236963730
   orgName: Kvinnojouren Säter

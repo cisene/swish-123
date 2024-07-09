@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-09-rev-124017",
+    "date": "2024-07-09-rev-160751",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -11916,6 +11916,22 @@
       "web": "https://www.fralsningsarmen.se/Ystad/"
     },
     {
+      "entry": 1230747949,
+      "orgName": "Karlslunds IF FK",
+      "orgNumber": "875000-8438",
+      "comment": null,
+      "categories": [
+        "bandyklubb",
+        "bowlingklubb",
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "simklubb",
+        "softbollklubb"
+      ],
+      "web": "https://www.karlslund.nu/"
+    },
+    {
       "entry": 1230748004,
       "orgName": "FRIENDSFOREVER",
       "orgNumber": "802467-4312",
@@ -18837,6 +18853,20 @@
       "web": "https://www.svenskalag.se/saxemaraif"
     },
     {
+      "entry": 1231158880,
+      "orgName": "Herrestads AIF",
+      "orgNumber": "858500-0782",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.laget.se/HerrestadsAIF/"
+    },
+    {
       "entry": 1231159193,
       "orgName": "ADAS United",
       "orgNumber": "802464-0461",
@@ -18846,6 +18876,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/adasunited"
+    },
+    {
+      "entry": 1231159318,
+      "orgName": "Sl\u00f6inge GoIF",
+      "orgNumber": "849000-2659",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/SloingeGoIF/"
     },
     {
       "entry": 1231159417,
@@ -21335,6 +21376,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/onsala"
+    },
+    {
+      "entry": 1231313915,
+      "orgName": "Lerums BK",
+      "orgNumber": "863500-4503",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/LerumsBK/"
     },
     {
       "entry": 1231314087,
@@ -26286,6 +26338,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.hunnebostrandsbildarkiv.se/"
+    },
+    {
+      "entry": 1231612613,
+      "orgName": "Assyriska BK",
+      "orgNumber": "855100-5732",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.assyriskabk.com/"
     },
     {
       "entry": 1231612860,
@@ -36998,6 +37061,20 @@
       "web": "https://www.hembygd.se/bredestad"
     },
     {
+      "entry": 1232301372,
+      "orgName": "FK \u00c4lmeboda-Linneryd",
+      "orgNumber": "829502-3249",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "padelklubb"
+      ],
+      "web": "https://www.laget.se/FKAlmebodaLinneryd/"
+    },
+    {
       "entry": 1232301703,
       "orgName": "Bolln\u00e4s Filmklubb",
       "orgNumber": "886501-2143",
@@ -38064,6 +38141,19 @@
         "fotbollsklubb"
       ],
       "web": "https://www.vskfotboll.nu/"
+    },
+    {
+      "entry": 1232373512,
+      "orgName": "IK Oddevold",
+      "orgNumber": "858500-1517",
+      "comment": null,
+      "categories": [
+        "bowlsklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "parasport"
+      ],
+      "web": "https://www.oddevold.org/"
     },
     {
       "entry": 1232373538,
@@ -46639,6 +46729,17 @@
       "web": "https://www.laget.se/EskilstunaCityFK"
     },
     {
+      "entry": 1232954121,
+      "orgName": "Lule\u00e5 Fotboll Dam",
+      "orgNumber": "802520-2733",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/LuleaFotbollDam/"
+    },
+    {
       "entry": 1232954444,
       "orgName": "\u00c4spereds Hembygdsf\u00f6rening",
       "orgNumber": "864501-3361",
@@ -50669,6 +50770,17 @@
       "web": "https://arbogagymnastikforening.klubbenonline.se/"
     },
     {
+      "entry": 1233229150,
+      "orgName": "FC Kopparm\u00f6llan",
+      "orgNumber": "837600-3649",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/fckopparmollan/"
+    },
+    {
       "entry": 1233229945,
       "orgName": "M\u00f6rrums Folkets Hus",
       "orgNumber": "736200-1617",
@@ -52263,6 +52375,17 @@
       "web": "https://trosabygdens.konstforeningar.se/"
     },
     {
+      "entry": 1233349305,
+      "orgName": "Karlslunds IF FK",
+      "orgNumber": "875000-8438",
+      "comment": "U15",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.karlslund.nu/"
+    },
+    {
       "entry": 1233349420,
       "orgName": "Appeal Advokatbyr\u00e5 AB",
       "orgNumber": "559193-6546",
@@ -53533,6 +53656,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.hudiksvallsff.se/"
+    },
+    {
+      "entry": 1233422292,
+      "orgName": "Eskilstuna City FK",
+      "orgNumber": "818000-4742",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/EskilstunaCityFK/"
     },
     {
       "entry": 1233422565,
@@ -55491,6 +55625,19 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://malmobudoklubb.se/"
+    },
+    {
+      "entry": 1233524659,
+      "orgName": "Bensby Ungdoms & FF",
+      "orgNumber": "897001-7458",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "motionsklubb"
+      ],
+      "web": "https://www.laget.se/BUFF/"
     },
     {
       "entry": 1233525581,
@@ -64693,6 +64840,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.trelleborgsif.se/"
+    },
+    {
+      "entry": 1234194429,
+      "orgName": "Stj\u00e4rnhovs IK",
+      "orgNumber": "819000-2868",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/StjarnhovsIK/"
     },
     {
       "entry": 1234195012,
@@ -76859,6 +77017,17 @@
       "web": "https://akarpstk.net/"
     },
     {
+      "entry": 1235104450,
+      "orgName": "Surte IS",
+      "orgNumber": "802442-9154",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/SurteIS/"
+    },
+    {
       "entry": 1235104641,
       "orgName": "Alings\u00e5s V\u00e5rg\u00e5rda Discgolf",
       "orgNumber": "802438-6883",
@@ -82898,6 +83067,17 @@
       "web": "https://www.luleahandikappidrott.se/"
     },
     {
+      "entry": 1235456108,
+      "orgName": "Eskilstuna City FK",
+      "orgNumber": "818000-4742",
+      "comment": "P13 Bl\u00e5",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/EskilstunaCityFK/"
+    },
+    {
       "entry": 1235456629,
       "orgName": "Degeberga-Ever\u00f6ds F\u00f6rsamling",
       "orgNumber": "252004-7750",
@@ -83745,6 +83925,17 @@
         "tips"
       ],
       "web": "https://tipsxtra.se/"
+    },
+    {
+      "entry": 1235524483,
+      "orgName": "Husby Allm\u00e4nna IK",
+      "orgNumber": "882000-2379",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/HusbyAllmannaIK/"
     },
     {
       "entry": 1235524517,
@@ -89560,6 +89751,17 @@
       "web": "https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-alingsas/foreningar/alingsas.html"
     },
     {
+      "entry": 1235904073,
+      "orgName": "Mossens BK",
+      "orgNumber": "857203-0545",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/MossensBK_/"
+    },
+    {
       "entry": 1235904255,
       "orgName": "Ystads Brukhundklubb",
       "orgNumber": "848000-6892",
@@ -91188,7 +91390,7 @@
     },
     {
       "entry": 1236025118,
-      "orgName": "Bohus Bataljon",
+      "orgName": "Supporterklubb Bohus Bataljon",
       "orgNumber": "802442-3652",
       "comment": null,
       "categories": [
@@ -92057,6 +92259,17 @@
         "skytteklubb"
       ],
       "web": "https://www.svenskalag.se/liatorpsjsk"
+    },
+    {
+      "entry": 1236088595,
+      "orgName": "Rynninge IK",
+      "orgNumber": "875001-2307",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/RynningeIK/"
     },
     {
       "entry": 1236090484,
@@ -98943,6 +99156,17 @@
       "web": "https://www.trummenasgk.se/"
     },
     {
+      "entry": 1236548846,
+      "orgName": "Lerums BK",
+      "orgNumber": "863500-4503",
+      "comment": "A-ungdom",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/LerumsBK/"
+    },
+    {
       "entry": 1236548853,
       "orgName": "Norrala-Tr\u00f6n\u00f6 F\u00f6rsamling",
       "orgNumber": "252004-7230",
@@ -103373,6 +103597,17 @@
       "web": "https://makalosa.org/"
     },
     {
+      "entry": 1236870695,
+      "orgName": "S\u00e4ters IF FK",
+      "orgNumber": "882601-6332",
+      "comment": "P13",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/SatersIFFK/"
+    },
+    {
       "entry": 1236870703,
       "orgName": "ReAct Europe / Uppsala Universitet",
       "orgNumber": "202100-2932",
@@ -104888,6 +105123,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://weloveitaly.one/"
+    },
+    {
+      "entry": 1236963383,
+      "orgName": "Sils IF",
+      "orgNumber": "869000-4299",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.silsif.se/"
     },
     {
       "entry": 1236963730,
