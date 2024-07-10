@@ -3321,6 +3321,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/Hyltebruks%20pastorat/langaryd
 
+- entry: 1230245118
+  orgName: Nykvarns IF
+  orgNumber: 802444-6018
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/NykvarnsIF/
+
 - entry: 1230246967
   orgName: Frälsningsarmén Officersskolan
   orgNumber: 802006-1688
@@ -6446,8 +6455,8 @@ entries:
   orgNumber: 817606-4346
   comment: null
   categories:
+  - idrottsförening
   - klätterklubb
-  - klättring
   web: http://www.klattring.net/
 
 - entry: 1230473231
@@ -8986,6 +8995,15 @@ entries:
   categories:
   - 4h
   web: https://www.4h.se/kallhall/
+
+- entry: 1230692715
+  orgName: Per-Ols IBF
+  orgNumber: 879000-4553
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/PerOlsIBF/
 
 - entry: 1230692806
   orgName: Psykiatriska Riksföreningen
@@ -16638,6 +16656,15 @@ entries:
   - kampsportsförening
   web: https://www.stockholmsjudoklubb.se/
 
+- entry: 1231227743
+  orgName: IFK Dannemora-Österby
+  orgNumber: 817300-0392
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/IFKDannemoraOsterby/
+
 - entry: 1231228956
   orgName: Gammalkils Hembygdsförening
   orgNumber: 822001-9833
@@ -17255,6 +17282,15 @@ entries:
   - försäljning
   - smycken
   web: https://www.zemasmycken.com/
+
+- entry: 1231275262
+  orgName: Upplands Innebandyförbund
+  orgNumber: 817602-6881
+  comment: null
+  categories:
+  - idrottsförbund
+  - innebandyklubb
+  web: https://www.innebandy.se/uppland
 
 - entry: 1231275858
   orgName: Majorna VBK - Volleyboll
@@ -18938,6 +18974,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/OjebynsIBF/
+
+- entry: 1231398437
+  orgName: Sundsvalls IBF
+  orgNumber: 802447-6106
+  comment: F08
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/SundsvallsIBF/
 
 - entry: 1231398445
   orgName: PRO Forsbacka
@@ -25192,6 +25237,15 @@ entries:
   - idrottsförening
   - softbollklubb
   web: https://www.leksandbaseboll-softboll.se/
+
+- entry: 1231871466
+  orgName: Herrestads AIF
+  orgNumber: 858500-0782
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/HerrestadsAIF/
 
 - entry: 1231871557
   orgName: Hanebo Hembygdsförening
@@ -31521,6 +31575,15 @@ entries:
   - museum
   - podcast
   web: https://kalmarlansmuseum.se/
+
+- entry: 1232358729
+  orgName: IBF Örebro Ungdom
+  orgNumber: 802417-6649
+  comment: H3/JAS/HJ
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/IBFOrebroUngdom/
 
 - entry: 1232358901
   orgName: Bebyggelsehistoriska Föreningen i Stockholm
@@ -40655,6 +40718,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/bovall-hunnebo
 
+- entry: 1233112547
+  orgName: Örebro SK Ungdom
+  orgNumber: 875001-6894
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.oskungdom.se/
+
 - entry: 1233112679
   orgName: Ramsberg - En bygd i Bergslagen
   orgNumber: 875002-9558
@@ -42324,6 +42396,15 @@ entries:
   categories:
   - kvinnojour
   web: https://www.kvinnojourenlinnean.se/
+
+- entry: 1233236494
+  orgName: IBK Östhammar Innebandy
+  orgNumber: 817606-5244
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/IBKOsthammar/
 
 - entry: 1233236569
   orgName: BK Bore
@@ -45336,6 +45417,15 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.laget.se/Fjugesta_IF/
+
+- entry: 1233467727
+  orgName: Askersunds IBK
+  orgNumber: 875700-9561
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/AIBK_/
 
 - entry: 1233467842
   orgName: Södra Kurvan
@@ -48856,7 +48946,7 @@ entries:
   - cykelsport
   - friluftsliv
   - företagsevent
-  - klättring
+  - klätterklubb
   - äventyr
   web: https://kungsbygget.com/cykelpark
 
@@ -49932,6 +50022,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/langaryd
+
+- entry: 1233864436
+  orgName: Lagan IBK
+  orgNumber: 802436-8154
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/LaganIBK/
 
 - entry: 1233864444
   orgName: Kvinnojouren Nike / Segergudinnan I Gällivare
@@ -54575,6 +54674,16 @@ entries:
   - sportskytteklubb
   web: https://www.svenskalag.se/skallingeskytteforening
 
+- entry: 1234237418
+  orgName: Hagunda IF
+  orgNumber: 817601-0083
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.hagundaif.se/
+
 - entry: 1234238416
   orgName: Golftorget
   orgNumber: 610414-XXXX
@@ -56789,6 +56898,15 @@ entries:
   - bygdegårdsförening
   web: https://www.vilske-kleva.se/vilske-kleva.se/Bygdegardsforeningen.html
 
+- entry: 1234442828
+  orgName: IBK Husar
+  orgNumber: 827000-8835
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/IBKHusar/
+
 - entry: 1234442901
   orgName: Ekerö Shotokan Karate Do
   orgNumber: 802526-4568
@@ -57508,7 +57626,6 @@ entries:
   categories:
   - idrottsförening
   - klätterklubb
-  - klättring
   web: https://www.enkopingsklatterklubb.se/
 
 - entry: 1234520219
@@ -59354,6 +59471,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/bollebygd
+
+- entry: 1234657474
+  orgName: Team Kalix IBK
+  orgNumber: 802430-5602
+  comment: F-08/09
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/TeamKalixInnebandy/
 
 - entry: 1234657532
   orgName: Stockholms Kajak Klubb, SKK
@@ -66990,7 +67116,6 @@ entries:
   categories:
   - idrottsförening
   - klätterklubb
-  - klättring
   web: https://www.enkopingsklatterklubb.se/
 
 - entry: 1235305412
@@ -72154,6 +72279,15 @@ entries:
   - veterinär
   web: http://www.ekensdjurklinik.se/
 
+- entry: 1235705009
+  orgName: Örebro SK Ungdom
+  orgNumber: 875001-6894
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.oskungdom.se/
+
 - entry: 1235705215
   orgName: Björkhagens Golfklubb
   orgNumber: 802005-6050
@@ -75495,6 +75629,15 @@ entries:
   - hjälporganisation
   web: https://vinternattvastervik.se/
 
+- entry: 1236000293
+  orgName: Sundsvall City IBC
+  orgNumber: 889202-6116
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/SundsvallCity/
+
 - entry: 1236000889
   orgName: Stadsodlingsvandringar.se / Gatsmart, Ulrika Flodin Furås
   orgNumber: 641223-XXXX
@@ -76736,8 +76879,8 @@ entries:
   orgNumber: 875003-5886
   comment: null
   categories:
+  - idrottsförening
   - klätterklubb
-  - klättring
   web: http://www.orebroklatterklubb.com/
 
 - entry: 1236096606
@@ -77059,6 +77202,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/stenungsund
+
+- entry: 1236130751
+  orgName: Nykvarns IF
+  orgNumber: 802444-6018
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/NykvarnsIF/
 
 - entry: 1236130777
   orgName: Dösjöbro IF
@@ -82561,6 +82713,15 @@ entries:
   - golfklubb
   web: https://www.arvikagk.com/
 
+- entry: 1236571780
+  orgName: Jönköpings IK
+  orgNumber: 826001-3761
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/JonkopingsIK/
+
 - entry: 1236571905
   orgName: Visby Domkyrkoförsamling
   orgNumber: 252000-8083
@@ -83452,6 +83613,15 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.laget.se/NjurundaSportklubb/
+
+- entry: 1236674667
+  orgName: IBK Lidköping
+  orgNumber: 869000-8027
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/IBKLidkoping/
 
 - entry: 1236675276
   orgName: Rotaryklubb Trollhättan
