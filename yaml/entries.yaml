@@ -1,5 +1,309 @@
 entries:
 
+- entry: 1234745568
+  orgName: Team Västernorrland Innebandy
+  orgNumber: 889601-1312
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/VasternorrlandsIBF/
+
+- entry: 1232168821
+  orgName: Pixbo IBF
+  orgNumber: 802428-5689
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/PixboIBF/
+
+- entry: 1231068097
+  orgName: Aros Basket
+  orgNumber: 802443-0202
+  comment:
+  categories:
+  - idrottsförening
+  - basketbollklubb
+  web: https://www.arosbasket.se/
+
+- entry: 1236703250
+  orgName: Lycksele IF Fotboll
+  orgNumber: 895400-0777
+  comment:
+  categories:
+    - idrottsförening
+  - fotbollsklubb
+  web: https://www.laget.se/LyckseleIF/
+
+- entry: 1233908928
+  orgName: Långskatans IF
+  orgNumber: 802452-7064
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  - retired
+  web: null
+
+- entry: 1232701852
+  orgName: Hagunda IF
+  orgNumber: 817601-0083
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  - friidrottsförening
+  web: https://www.hagundaif.se/
+
+- entry: 1236536395
+  orgName: Strömsbro IF
+  orgNumber: 885000-2679
+  comment:
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  - innebandyklubb
+  - fotbollsklubb
+  - padelklubb
+  web: https://www.laget.se/StromsbroIF/
+
+- entry: 1233650215
+  orgName: Floda BoIF
+  orgNumber: 863500-1509
+  comment: Damjuniorer
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.flodaboif.se/
+
+- entry: 1230982314
+  orgName: Spöland Vännäs IF
+  orgNumber: 894000-7027
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/Spoland_Vannas/
+
+- entry: 1235839576
+  orgName: Hindås IBK
+  orgNumber: 852000-7389
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/HindasIBK/
+
+- entry: 1236699318
+  orgName: IBF Säter
+  orgNumber: 802436-9079
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.ibfsater.se/
+
+- entry: 1235422266
+  orgName: Malmbergets AIF
+  orgNumber: 897900-0646
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  - ishockeyklubb
+  - fotbollsklubb
+  web: https://www.laget.se/MalmbergetsAIF/
+
+- entry: 1230018820
+  orgName: IBF Horsby
+  orgNumber: 802458-2218
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.ibfhorsby.se/
+
+- entry: 1234206397
+  orgName: Strömsbro IF
+  orgNumber: 885000-2679
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  - ishockeyklubb
+  - padelklubb
+  - fotbollsklubb
+  web: https://www.laget.se/StromsbroIF/
+
+- entry: 1234171344
+  orgName: Tierp IBK
+  orgNumber: 817301-4625
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.tierpibk.se/
+
+- entry: 1231554740
+  orgName: IBF Örebro Herr
+  orgNumber: 802459-8230
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/IBFOrebroHerr/
+
+- entry: 1230566745
+  orgName: Vaxholms IBF
+  orgNumber: 802421-1560
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/VIBF/
+
+- entry: 1235022017
+  orgName: Särö Seahawks IBK
+  orgNumber: 802459-6580
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.saroseahawks.se/
+
+- entry: 1234960613
+  orgName: Frötuna IBF
+  orgNumber: 817603-0610
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/FrotunaIBF/
+
+- entry: 1231323880
+  orgName: Skattkärrs IF
+  orgNumber: 873201-3613
+  comment:
+  categories:
+  - idrottsförening
+  - fotbollsklubb
+  web: https://www.skattkarrsif.se/
+
+- entry: 1235094669
+  orgName: SK Lejon Skellefteå
+  orgNumber: 894700-8838
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  - ishockeyklubb
+  web: https://www.laget.se/SKLejon_/
+
+- entry: 1231071018
+  orgName: Ingelstad IBK
+  orgNumber: 829502-4825
+  comment: P-10/11
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/Ingelstad/
+
+- entry: 1235395538
+  orgName: Örebro SK Ungdom
+  orgNumber: 875001-6894
+  comment: H-P 16
+  categories:
+  - idrottsförening
+  - handbollsklubb
+  web: https://www.laget.se/OSKUHandbollP07/
+
+- entry: 1235895198
+  orgName: Trosa Edanö IBK
+  orgNumber: 817605-9916
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.trosaedano.se/
+
+- entry: 1236689376
+  orgName: KAIS Mora
+  orgNumber: 884401-5126
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/KaisMora/
+
+- entry: 1232214674
+  orgName: IBF Hedemora
+  orgNumber: 882000-7527
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/IBFHedemora/
+
+- entry: 1236954234
+  orgName: Ekeby IF
+  orgNumber: 802417-6664
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  - gymnastikförening
+  - dansförening
+  - fotbollsklubb
+  - basketbollklubb
+  - bordtennisklubb
+  web: https://www.laget.se/Ekeby/
+
+- entry: 1236946131
+  orgName: Ekeby IF
+  orgNumber: 802417-6664
+  comment: P08
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/Ekeby/
+
+- entry: 1233216322
+  orgName: Midas IBK
+  orgNumber: 802442-9311
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/MidasIBK/
+
+- entry: 1230345306
+  orgName: Skövde IBF
+  orgNumber: 866601-3563
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/SkovdeIBF/
+
+- entry: 1233264439
+  orgName: Hofterup IBF
+  orgNumber: 802430-7442
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/HIBF/
+
+- entry: 1232021574
+  orgName: Hultsberg-Björkås IBF
+  orgNumber: 874001-8158
+  comment:
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/HultsbergIBF-IBKBjorkas/
+
 - entry: 1230003194
   orgName: Kungälv Kode Golfklubb
   orgNumber: 556323-9663
