@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-11-rev-180606",
+    "date": "2024-07-12-rev-191849",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7476,6 +7476,17 @@
       "web": "https://www.svenskakyrkan.se/hoor"
     },
     {
+      "entry": 1230438747,
+      "orgName": "Kortedala BBK",
+      "orgNumber": "802436-0656",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/KortedalaBBK/"
+    },
+    {
       "entry": 1230438895,
       "orgName": "T\u00f6reboda Brukshundklubb",
       "orgNumber": "866000-9526",
@@ -11689,6 +11700,22 @@
       "web": "https://minklubben.se/"
     },
     {
+      "entry": 1230731018,
+      "orgName": "Lenhovda IF",
+      "orgNumber": "829500-8885",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "ishockeyklubb",
+        "padelklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.laget.se/LenhovdaIF/"
+    },
+    {
       "entry": 1230731554,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
@@ -14019,6 +14046,17 @@
         "sportmarterial"
       ],
       "web": "https://stroms.biz/"
+    },
+    {
+      "entry": 1230854687,
+      "orgName": "S\u00e4tila BBK",
+      "orgNumber": "866001-2231",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/SatilaBBK/"
     },
     {
       "entry": 1230854976,
@@ -18351,6 +18389,17 @@
       "web": "https://www.m4.se/"
     },
     {
+      "entry": 1231122126,
+      "orgName": "KFUM Ragunda Basketbollf\u00f6rening",
+      "orgNumber": "802433-8074",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/RagundaBasket"
+    },
+    {
       "entry": 1231122357,
       "orgName": "Fibromyalgi F\u00f6rbundet",
       "orgNumber": "826001-9503",
@@ -18402,6 +18451,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/OjebynsIBF/"
+    },
+    {
+      "entry": 1231130806,
+      "orgName": "KFUM \u00d6stersund Basket Ungdom",
+      "orgNumber": "802510-9359",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/KFUMOstersundBasketUngdom/"
     },
     {
       "entry": 1231131119,
@@ -19272,6 +19332,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231165182,
+      "orgName": "FBC Mor\u00f6backe",
+      "orgNumber": "802515-8901",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.laget.se/FBCMorobacke/"
+    },
+    {
       "entry": 1231166909,
       "orgName": "\u00d6regrunds Idrottsklubb",
       "orgNumber": "814400-3020",
@@ -19800,6 +19871,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/villberga"
+    },
+    {
+      "entry": 1231206234,
+      "orgName": "BK Marbo",
+      "orgNumber": "865000-5443",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://bkmarbo.se/"
     },
     {
       "entry": 1231206432,
@@ -23895,6 +23977,17 @@
       "web": "https://jazzen.nu/"
     },
     {
+      "entry": 1231467364,
+      "orgName": "Sundsvalls IBF",
+      "orgNumber": "802447-6106",
+      "comment": "F09-10 Haga",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.laget.se/SundsvallsIBF/"
+    },
+    {
       "entry": 1231470400,
       "orgName": "Loh\u00e4rads F\u00f6rsamling",
       "orgNumber": "252000-1187",
@@ -24407,6 +24500,20 @@
         "museum"
       ],
       "web": "https://www.orsaslipsten.se/"
+    },
+    {
+      "entry": 1231482645,
+      "orgName": "Visings\u00f6 AIS",
+      "orgNumber": "826000-8639",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "padelklubb",
+        "volleybollklubb"
+      ],
+      "web": "https://www.laget.se/VisingsoAIS/"
     },
     {
       "entry": 1231482686,
@@ -28090,6 +28197,18 @@
       "web": "https://www.katolskakyrkankarlstad.se/"
     },
     {
+      "entry": 1231712793,
+      "orgName": "Gammelg\u00e5rdens IF",
+      "orgNumber": "898200-6242",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.laget.se/GammelgardensIF/"
+    },
+    {
       "entry": 1231712868,
       "orgName": "Vattenfalls Veteraner i Stockholm",
       "orgNumber": "802415-6138",
@@ -30135,11 +30254,12 @@
     },
     {
       "entry": 1231823434,
-      "orgName": "Gustav V\u00e5gstr\u00f6ms Minnesfond / KFUM \u00d6stersund Basket Ungdom",
+      "orgName": "KFUM \u00d6stersund Basket Ungdom",
       "orgNumber": "802510-9359",
       "comment": null,
       "categories": [
         "basketbollklubb",
+        "idrottsf\u00f6rening",
         "minnesfond"
       ],
       "web": "https://www.laget.se/KFUMOstersundBasketUngdom/"
@@ -34025,6 +34145,24 @@
         "konstf\u00f6rening"
       ],
       "web": "https://www.limhamnskonstforening.com/"
+    },
+    {
+      "entry": 1232120061,
+      "orgName": "Fagersta S\u00f6dra IK",
+      "orgNumber": "879000-2060",
+      "comment": "Kiosk",
+      "categories": [
+        "basketbollklubb",
+        "bordtennisklubb",
+        "cykelklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "parasport",
+        "skidl\u00f6parklubb",
+        "triathlonklubb"
+      ],
+      "web": "https://www.laget.se/FSIK/"
     },
     {
       "entry": 1232123156,
@@ -38384,6 +38522,20 @@
       "web": "https://www.skanesauktionsverk.se/"
     },
     {
+      "entry": 1232344299,
+      "orgName": "SM\u00c5 IF",
+      "orgNumber": "875001-3354",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.laget.se/SMAIF/"
+    },
+    {
       "entry": 1232349140,
       "orgName": "S\u00f6dert\u00e4lje Sportklubb, SSK",
       "orgNumber": "815600-1474",
@@ -41492,6 +41644,17 @@
       "web": "https://www.lerumaspenrk.se/"
     },
     {
+      "entry": 1232594547,
+      "orgName": "Sala Basket",
+      "orgNumber": "879500-5860",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/SalaBasket/"
+    },
+    {
       "entry": 1232594810,
       "orgName": "H\u00f6gsj\u00f6 F\u00f6rsamling",
       "orgNumber": "252002-3652",
@@ -42843,6 +43006,19 @@
       "web": "https://www.gostasvarv.se/"
     },
     {
+      "entry": 1232680767,
+      "orgName": "Nys\u00e4tra IF",
+      "orgNumber": "894000-4396",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening",
+        "motionsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.laget.se/NysatraIF/"
+    },
+    {
       "entry": 1232681153,
       "orgName": "Malma Buggarna",
       "orgNumber": "802499-1195",
@@ -42873,6 +43049,24 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bergsbygdegard.se/"
+    },
+    {
+      "entry": 1232682078,
+      "orgName": "Fagersta S\u00f6dra IK",
+      "orgNumber": "879000-2060",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "bordtennisklubb",
+        "cykelklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "parasport",
+        "skidl\u00f6parklubb",
+        "triathlonklubb"
+      ],
+      "web": "https://www.laget.se/FSIK/"
     },
     {
       "entry": 1232682284,
@@ -43190,6 +43384,17 @@
         "lionsklubb"
       ],
       "web": "https://e-clubhouse.org/sites/ljugarn/"
+    },
+    {
+      "entry": 1232695427,
+      "orgName": "KFUM G\u00e4vle Basket",
+      "orgNumber": "885001-3486",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/KFUMGavleBasket/"
     },
     {
       "entry": 1232695831,
@@ -45923,6 +46128,17 @@
         "f\u00f6rening"
       ],
       "web": "https://www.ribiof.com/"
+    },
+    {
+      "entry": 1232854743,
+      "orgName": "SM\u00c5 IF",
+      "orgNumber": "875001-3354",
+      "comment": "FP 10-12",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/SMAIF/"
     },
     {
       "entry": 1232854784,
@@ -59689,6 +59905,17 @@
       "web": "https://www.laget.se/SAIKFK/"
     },
     {
+      "entry": 1233783487,
+      "orgName": "Katrineholms IF Basket",
+      "orgNumber": "818500-8045",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kifbasket.se/"
+    },
+    {
       "entry": 1233783610,
       "orgName": "F\u00f6reningen Ale Aerobic och Dansstudio",
       "orgNumber": "857209-2503",
@@ -61792,6 +62019,17 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://www.littlelambsschool.org/"
+    },
+    {
+      "entry": 1233907060,
+      "orgName": "IBK K\u00f6ping",
+      "orgNumber": "817606-1102",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.ibkkoping.se/"
     },
     {
       "entry": 1233907268,
@@ -65296,6 +65534,17 @@
       "web": "https://www.dynamisworldministries.com/swedish-svenska"
     },
     {
+      "entry": 1234171906,
+      "orgName": "KFUM Sundsvall Basket",
+      "orgNumber": "802414-4852",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/KFUMSundsvallBasket/"
+    },
+    {
       "entry": 1234177051,
       "orgName": "SPF Seniorerna S\u00e4llskapet Armeria Skan\u00f6r-Falsterbo",
       "orgNumber": "802437-4384",
@@ -66924,13 +67173,14 @@
     },
     {
       "entry": 1234273025,
-      "orgName": "SBL Play / StayLive AB",
-      "orgNumber": "556937-1080",
+      "orgName": "KFUM Uppsala Basket",
+      "orgNumber": "817601-3111",
       "comment": null,
       "categories": [
-        "streamingtj\u00e4nst"
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
       ],
-      "web": "https://www.sblplay.se/"
+      "web": "https://www.laget.se/UppsalaBasket/"
     },
     {
       "entry": 1234273702,
@@ -76882,6 +77132,17 @@
       "web": "http://traibatn.se/"
     },
     {
+      "entry": 1235020789,
+      "orgName": "KFUM \u00d6stersund Basket Ungdom",
+      "orgNumber": "802510-9359",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/KFUMOstersundBasketUngdom/"
+    },
+    {
       "entry": 1235021282,
       "orgName": "H\u00e4lsog\u00e5rdens Ridcenter / Lovisa Nordstr\u00f6m Andersson",
       "orgNumber": "810622-XXXX",
@@ -82336,6 +82597,17 @@
       "web": "https://www.polstjarnan.nu/"
     },
     {
+      "entry": 1235351143,
+      "orgName": "FUBB Basket",
+      "orgNumber": "802412-0845",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fubbbasket.se/"
+    },
+    {
       "entry": 1235351697,
       "orgName": "Olofstr\u00f6ms Brukshundklubb",
       "orgNumber": "836201-0004",
@@ -86092,6 +86364,17 @@
       "web": "https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/nivren/"
     },
     {
+      "entry": 1235594882,
+      "orgName": "Norrt\u00e4lje Basket",
+      "orgNumber": "814400-9357",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/NorrtaljeBasket/"
+    },
+    {
       "entry": 1235594924,
       "orgName": "SPF Seniorerna Oppeby-Harg",
       "orgNumber": "817607-0939",
@@ -86540,6 +86823,17 @@
       "web": "https://www.svenskalag.se/btkscania"
     },
     {
+      "entry": 1235614813,
+      "orgName": "IBF \u00d6rebro Ungdom",
+      "orgNumber": "802417-6649",
+      "comment": "Damer Allsvenskan",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.laget.se/Orebro_Dam-A/"
+    },
+    {
       "entry": 1235615026,
       "orgName": "Ethelhelms Idrottsf\u00f6rening",
       "orgNumber": "834000-0655",
@@ -86902,6 +87196,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.skpf.se/"
+    },
+    {
+      "entry": 1235635669,
+      "orgName": "BK Marbo",
+      "orgNumber": "865000-5443",
+      "comment": "Lotteri",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://bkmarbo.se/"
     },
     {
       "entry": 1235636352,
@@ -88399,6 +88704,17 @@
         "intresseorganisation"
       ],
       "web": "https://samverkarna.se/"
+    },
+    {
+      "entry": 1235749585,
+      "orgName": "KFUM Uppsala Basket",
+      "orgNumber": "817601-3111",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/UppsalaBasket/"
     },
     {
       "entry": 1235749809,
@@ -90137,6 +90453,17 @@
         "religion"
       ],
       "web": "https://aishacenter.se/"
+    },
+    {
+      "entry": 1235857990,
+      "orgName": "Hagunda IF",
+      "orgNumber": "817601-0083",
+      "comment": "V\u00e4ngeloppet",
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/Vangeloppet/"
     },
     {
       "entry": 1235858410,
@@ -94232,6 +94559,21 @@
       "web": "https://aselehembygdsforening.nu/"
     },
     {
+      "entry": 1236151062,
+      "orgName": "Bolidens FFI",
+      "orgNumber": "894700-4860",
+      "comment": "F 09-11",
+      "categories": [
+        "badmintonklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "ishockeyklubb",
+        "simklubb"
+      ],
+      "web": "https://www.bffi.se/"
+    },
+    {
       "entry": 1236151443,
       "orgName": "N\u00e4ske B\u00e5ts\u00e4llskap",
       "orgNumber": "889600-6296",
@@ -95419,6 +95761,17 @@
       "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/vasternorrland/prostatacancerforeningen-trapatronerna/"
     },
     {
+      "entry": 1236213680,
+      "orgName": "Karlstad Suns Basket",
+      "orgNumber": "802460-5407",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/KarlstadSunsBasket/"
+    },
+    {
       "entry": 1236214407,
       "orgName": "Team Rynkeby",
       "orgNumber": "802535-9137",
@@ -95603,6 +95956,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.eik.se/"
+    },
+    {
+      "entry": 1236222061,
+      "orgName": "Bankeryds Basket",
+      "orgNumber": "826001-1708",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/BankerydsBasket/"
     },
     {
       "entry": 1236222376,
@@ -96117,6 +96481,17 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://jagareforbundet.se/"
+    },
+    {
+      "entry": 1236262034,
+      "orgName": "Lindome Basket",
+      "orgNumber": "802445-2271",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.lindomebasket.se/"
     },
     {
       "entry": 1236262364,
@@ -99104,6 +99479,17 @@
       "web": "https://www.laget.se/AkersbergaFC/"
     },
     {
+      "entry": 1236489983,
+      "orgName": "KFUM \u00d6rebro Basket",
+      "orgNumber": "875000-8958",
+      "comment": "P-14",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kfumorebrobasket.se/"
+    },
+    {
       "entry": 1236490007,
       "orgName": "Team Rynkeby",
       "orgNumber": "802533-3421",
@@ -101004,6 +101390,17 @@
         "stiftelse"
       ],
       "web": "https://ebbasminnesfond.se/"
+    },
+    {
+      "entry": 1236625354,
+      "orgName": "Malmbergets AIF",
+      "orgNumber": "897900-0646",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/MalmbergetsAIF/"
     },
     {
       "entry": 1236625438,
@@ -104014,6 +104411,17 @@
         "volleybollklubb"
       ],
       "web": "https://www.svenskalag.se/alingsasvolleybollklubb"
+    },
+    {
+      "entry": 1236802888,
+      "orgName": "KFUM \u00d6rebro Basket",
+      "orgNumber": "875000-8958",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kfumorebrobasket.se/"
     },
     {
       "entry": 1236803241,
