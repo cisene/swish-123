@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-12-rev-191849",
+    "date": "2024-07-14-rev-160035",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -937,6 +937,17 @@
         "konstf\u00f6rening"
       ],
       "web": "https://kopparslagaren.com/"
+    },
+    {
+      "entry": 1230054718,
+      "orgName": "Fagersta S\u00f6dra IK",
+      "orgNumber": "879000-2060",
+      "comment": "P08",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/FSIK/"
     },
     {
       "entry": 1230055160,
@@ -2772,6 +2783,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.sandviksik.se/"
+    },
+    {
+      "entry": 1230184531,
+      "orgName": "Fagersta S\u00f6dra IK",
+      "orgNumber": "879000-2060",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "triathlonklubb"
+      ],
+      "web": "https://www.laget.se/FSIK/"
     },
     {
       "entry": 1230184788,
@@ -19357,6 +19379,22 @@
       "web": "https://oregrundik.se/"
     },
     {
+      "entry": 1231166974,
+      "orgName": "\u00d6verkalix IF",
+      "orgNumber": "898200-0914",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "bordtennisklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "ishockeyklubb",
+        "skidl\u00f6parklubb",
+        "tennisklubb"
+      ],
+      "web": "https://www.laget.se/OverkalixIF/"
+    },
+    {
       "entry": 1231167584,
       "orgName": "PRO Osby",
       "orgNumber": "837000-8388",
@@ -20968,6 +21006,18 @@
       "web": "https://retinanytt.se/"
     },
     {
+      "entry": 1231259936,
+      "orgName": "\u00d6d\u00e5kra IF",
+      "orgNumber": "843000-7792",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/OdakraIF/"
+    },
+    {
       "entry": 1231260405,
       "orgName": "Narcotics Anonymous, Anonyma Narkomaner, NA",
       "orgNumber": "857208-3478",
@@ -21093,6 +21143,17 @@
       "web": "https://gronbyakademi.se/"
     },
     {
+      "entry": 1231271147,
+      "orgName": "\u00d6verkalix IF",
+      "orgNumber": "898200-0914",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.laget.se/OverkalixIF/"
+    },
+    {
       "entry": 1231271733,
       "orgName": "Gr\u00e4ngsbo Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "886500-3696",
@@ -21197,6 +21258,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://hyssnabygdegard.se/"
+    },
+    {
+      "entry": 1231279231,
+      "orgName": "BK Marbo",
+      "orgNumber": "865000-5443",
+      "comment": "Basketettan Herr",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/BKMarbo/"
     },
     {
       "entry": 1231279512,
@@ -30986,6 +31058,21 @@
       "web": "https://www.sportsheart.se/"
     },
     {
+      "entry": 1231881010,
+      "orgName": "H\u00f6n\u00f6 IS",
+      "orgNumber": "857202-4191",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "bouleklubb",
+        "fotbollsklubb",
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "volleybollklubb"
+      ],
+      "web": "https://www.laget.se/HonoIS/"
+    },
+    {
       "entry": 1231881200,
       "orgName": "Stockholms Rullskidklubb",
       "orgNumber": "802456-5221",
@@ -38308,6 +38395,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/HKEskil/"
+    },
+    {
+      "entry": 1232326759,
+      "orgName": "\u00d6rebro L\u00e4ns Idrottshistoriska",
+      "orgNumber": "875001-4972",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.olis.nu/"
     },
     {
       "entry": 1232326841,
@@ -46128,6 +46225,21 @@
         "f\u00f6rening"
       ],
       "web": "https://www.ribiof.com/"
+    },
+    {
+      "entry": 1232849859,
+      "orgName": "\u00d6sthammars SK",
+      "orgNumber": "817300-6977",
+      "comment": null,
+      "categories": [
+        "curlingklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "ishockeyklubb",
+        "skidl\u00f6parklubb",
+        "tennisklubb"
+      ],
+      "web": "https://www.osthammarssk.se/"
     },
     {
       "entry": 1232854743,
@@ -68859,6 +68971,17 @@
       "web": "https://www.rodakorset.se/ort/skane/trelleborgs-kommun/"
     },
     {
+      "entry": 1234407656,
+      "orgName": "Gustavsbergs IF Handboll",
+      "orgNumber": "802430-2807",
+      "comment": null,
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/GustavsbergHandboll/"
+    },
+    {
       "entry": 1234407748,
       "orgName": "\u00c5storpsortens RF - Ridsport",
       "orgNumber": "837600-2245",
@@ -72787,6 +72910,22 @@
         "religion"
       ],
       "web": "https://www.ekekapell.se/"
+    },
+    {
+      "entry": 1234665378,
+      "orgName": "Ekeby IF",
+      "orgNumber": "802417-6664",
+      "comment": "Lotteri",
+      "categories": [
+        "basketbollklubb",
+        "bordtennisklubb",
+        "dansf\u00f6rening",
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.laget.se/Ekeby/"
     },
     {
       "entry": 1234665501,
@@ -89635,6 +89774,17 @@
         "rcklubb"
       ],
       "web": "https://www.lrck.se/"
+    },
+    {
+      "entry": 1235790506,
+      "orgName": "Sunderby SK",
+      "orgNumber": "897000-1833",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.sunderbysk.se/"
     },
     {
       "entry": 1235790654,

@@ -779,6 +779,15 @@ entries:
   - konstförening
   web: https://kopparslagaren.com/
 
+- entry: 1230054718
+  orgName: Fagersta Södra IK
+  orgNumber: 879000-2060
+  comment: P08
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/FSIK/
+
 - entry: 1230055160
   orgName: Familjen Einhorns Stiftelse
   orgNumber: 802426-0229
@@ -2288,6 +2297,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.sandviksik.se/
+
+- entry: 1230184531
+  orgName: Fagersta Södra IK
+  orgNumber: 879000-2060
+  comment: null
+  categories:
+  - idrottsförening
+  - triathlonklubb
+  web: https://www.laget.se/FSIK/
 
 - entry: 1230184788
   orgName: Christianstads Skyttesällskap
@@ -15958,6 +15976,20 @@ entries:
   categories: null
   web: https://ocdforbundet.se/
 
+- entry: 1231166974
+  orgName: Överkalix IF
+  orgNumber: 898200-0914
+  comment: null
+  categories:
+  - basketbollklubb
+  - bordtennisklubb
+  - fotbollsklubb
+  - idrottsförening
+  - ishockeyklubb
+  - skidlöparklubb
+  - tennisklubb
+  web: https://www.laget.se/OverkalixIF/
+
 - entry: 1231167584
   orgName: PRO Osby
   orgNumber: 837000-8388
@@ -17278,6 +17310,16 @@ entries:
   - intresseorganisation
   web: https://retinanytt.se/
 
+- entry: 1231259936
+  orgName: Ödåkra IF
+  orgNumber: 843000-7792
+  comment: null
+  categories:
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.laget.se/OdakraIF/
+
 - entry: 1231260405
   orgName: Narcotics Anonymous, Anonyma Narkomaner, NA
   orgNumber: 857208-3478
@@ -17379,6 +17421,15 @@ entries:
   - lokalturism
   web: https://gronbyakademi.se/
 
+- entry: 1231271147
+  orgName: Överkalix IF
+  orgNumber: 898200-0914
+  comment: null
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.laget.se/OverkalixIF/
+
 - entry: 1231271733
   orgName: Grängsbo Bygdegårdsförening
   orgNumber: 886500-3696
@@ -17464,6 +17515,15 @@ entries:
   - bygdegårdsförening
   - hembygdsförening
   web: https://hyssnabygdegard.se/
+
+- entry: 1231279231
+  orgName: BK Marbo
+  orgNumber: 865000-5443
+  comment: Basketettan Herr
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.laget.se/BKMarbo/
 
 - entry: 1231279512
   orgName: Team Rynkeby
@@ -25522,6 +25582,19 @@ entries:
   - utbildning
   web: https://www.sportsheart.se/
 
+- entry: 1231881010
+  orgName: Hönö IS
+  orgNumber: 857202-4191
+  comment: null
+  categories:
+  - basketbollklubb
+  - bouleklubb
+  - fotbollsklubb
+  - friidrottsförening
+  - idrottsförening
+  - volleybollklubb
+  web: https://www.laget.se/HonoIS/
+
 - entry: 1231881200
   orgName: Stockholms Rullskidklubb
   orgNumber: 802456-5221
@@ -31581,6 +31654,14 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.laget.se/HKEskil/
+
+- entry: 1232326759
+  orgName: Örebro Läns Idrottshistoriska
+  orgNumber: 875001-4972
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.olis.nu/
 
 - entry: 1232326841
   orgName: Kiruna AIF Ishockey
@@ -38047,6 +38128,19 @@ entries:
   - biodling
   - förening
   web: https://www.ribiof.com/
+
+- entry: 1232849859
+  orgName: Östhammars SK
+  orgNumber: 817300-6977
+  comment: null
+  categories:
+  - curlingklubb
+  - fotbollsklubb
+  - idrottsförening
+  - ishockeyklubb
+  - skidlöparklubb
+  - tennisklubb
+  web: https://www.osthammarssk.se/
 
 - entry: 1232854743
   orgName: SMÅ IF
@@ -56788,6 +56882,15 @@ entries:
   - hjälporganisation
   web: https://www.rodakorset.se/ort/skane/trelleborgs-kommun/
 
+- entry: 1234407656
+  orgName: Gustavsbergs IF Handboll
+  orgNumber: 802430-2807
+  comment: null
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/GustavsbergHandboll/
+
 - entry: 1234407748
   orgName: Åstorpsortens RF - Ridsport
   orgNumber: 837600-2245
@@ -60028,6 +60131,20 @@ entries:
   categories:
   - religion
   web: https://www.ekekapell.se/
+
+- entry: 1234665378
+  orgName: Ekeby IF
+  orgNumber: 802417-6664
+  comment: Lotteri
+  categories:
+  - basketbollklubb
+  - bordtennisklubb
+  - dansförening
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/Ekeby/
 
 - entry: 1234665501
   orgName: Dravets Syndrome Association Sweden, DSAS
@@ -73889,6 +74006,15 @@ entries:
   categories:
   - rcklubb
   web: https://www.lrck.se/
+
+- entry: 1235790506
+  orgName: Sunderby SK
+  orgNumber: 897000-1833
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.sunderbysk.se/
 
 - entry: 1235790654
   orgName: Sandvikens AIK Innebandy
