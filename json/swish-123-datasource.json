@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-16-rev-181535",
+    "date": "2024-07-17-rev-182318",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7124,6 +7124,17 @@
       "web": "https://dalsjogolf.se/"
     },
     {
+      "entry": 1230417782,
+      "orgName": "Orresta IF",
+      "orgNumber": "878000-4100",
+      "comment": "PF 14-17",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/Orresta_IF/"
+    },
+    {
       "entry": 1230417832,
       "orgName": "Enskede Rids\u00e4llskap",
       "orgNumber": "802003-3869",
@@ -14182,6 +14193,17 @@
       "web": "https://uppsalahu.se/"
     },
     {
+      "entry": 1230854315,
+      "orgName": "IFK Mariefred",
+      "orgNumber": "819500-2715",
+      "comment": "PF 13-14",
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/IFK_Mariefred/"
+    },
+    {
       "entry": 1230854331,
       "orgName": "Str\u00f6ms Bowlingshop",
       "orgNumber": "601231-XXXX",
@@ -14792,6 +14814,17 @@
         "guidade turer"
       ],
       "web": "https://deilaochdatiden.se/"
+    },
+    {
+      "entry": 1230884312,
+      "orgName": "RIK Karlskoga",
+      "orgNumber": "876400-2484",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.rikkarlskoga.se/"
     },
     {
       "entry": 1230886192,
@@ -17096,6 +17129,17 @@
       "web": "https://korpengavle.se/"
     },
     {
+      "entry": 1231023027,
+      "orgName": "Kareby IS",
+      "orgNumber": "853300-1742",
+      "comment": "F13/F14",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kareby.com/"
+    },
+    {
       "entry": 1231023092,
       "orgName": "Mabel Massage / Mabel Morales",
       "orgNumber": "671002-XXXX",
@@ -17156,6 +17200,18 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.jengawomenafrica.com/"
+    },
+    {
+      "entry": 1231027911,
+      "orgName": "Orresta IF",
+      "orgNumber": "878000-4100",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/Orresta_IF/"
     },
     {
       "entry": 1231029248,
@@ -19346,7 +19402,7 @@
       "entry": 1231158625,
       "orgName": "IK Tun",
       "orgNumber": "819000-0680",
-      "comment": null,
+      "comment": "Damlag",
       "categories": [
         "discgolfklubb",
         "fotbollsklubb",
@@ -20187,6 +20243,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231210483,
+      "orgName": "KFUM \u00d6rebro Frisbee",
+      "orgNumber": "875001-7405",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/KFUMOrebroFrisbee-Discgolf/"
     },
     {
       "entry": 1231211168,
@@ -36820,6 +36887,16 @@
       "web": "https://www.laget.se/HuddingeHockey/"
     },
     {
+      "entry": 1232241396,
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "orgNumber": "802006-1688",
+      "comment": "Haparanda",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/haparanda/"
+    },
+    {
       "entry": 1232241420,
       "orgName": "Stockholms kattklubb",
       "orgNumber": "802001-7516",
@@ -38740,7 +38817,10 @@
       "orgNumber": "818500-3202",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "bouleklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "volleybollklubb"
       ],
       "web": "https://vallaidrottsforening.se/"
     },
@@ -39286,6 +39366,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-sundbyberg/foreningar/sundbyberg.html"
+    },
+    {
+      "entry": 1232375657,
+      "orgName": "Kareby IS",
+      "orgNumber": "853300-1742",
+      "comment": "Dam",
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kareby.com/"
     },
     {
       "entry": 1232375814,
@@ -42929,6 +43020,17 @@
       "web": null
     },
     {
+      "entry": 1232649879,
+      "orgName": "Roslagsbro IF",
+      "orgNumber": "814400-5223",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/RoslagsbroIF/"
+    },
+    {
       "entry": 1232652782,
       "orgName": "Kalmar Soroptimistklubb",
       "orgNumber": "832401-4847",
@@ -43471,6 +43573,17 @@
         "smycken"
       ],
       "web": "https://www.imk-design.com/"
+    },
+    {
+      "entry": 1232683647,
+      "orgName": "Gustafs GoIF",
+      "orgNumber": "882600-5145",
+      "comment": "F06,07,08",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/Gustafs_GoIF/"
     },
     {
       "entry": 1232683803,
@@ -47477,6 +47590,17 @@
       "web": "https://www.roks.se/hittaenjour?key=Hultsfred"
     },
     {
+      "entry": 1232913267,
+      "orgName": "IK Tun",
+      "orgNumber": "819000-0680",
+      "comment": "P-12/13",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/IKTun/"
+    },
+    {
       "entry": 1232915593,
       "orgName": "KFUM Karlshamns Volleybollklubb",
       "orgNumber": "802458-9080",
@@ -51260,6 +51384,17 @@
       "web": "https://aktivfysiohollviken.se/"
     },
     {
+      "entry": 1233191954,
+      "orgName": "IFK Skoghall Dam",
+      "orgNumber": "874001-4090",
+      "comment": "F2007",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/IFKSkoghallDam/"
+    },
+    {
       "entry": 1233192168,
       "orgName": "Kvinnojouren Kullan",
       "orgNumber": "802461-0639",
@@ -53128,6 +53263,23 @@
         "naturv\u00e5rd"
       ],
       "web": "https://www.skymining.com/"
+    },
+    {
+      "entry": 1233304060,
+      "orgName": "Sandhems IF",
+      "orgNumber": "867200-1586",
+      "comment": null,
+      "categories": [
+        "badmintonklubb",
+        "discgolfklubb",
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "mountainbikeklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.sandhemsif.se/"
     },
     {
       "entry": 1233304458,
@@ -59327,6 +59479,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/va-skepparslov"
+    },
+    {
+      "entry": 1233687480,
+      "orgName": "Orresta IF",
+      "orgNumber": "878000-4100",
+      "comment": "PF 14-17",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/Orresta_IF/"
     },
     {
       "entry": 1233687845,
@@ -66411,6 +66574,26 @@
       "web": "https://www.kvinnohuset-vasteras.org/"
     },
     {
+      "entry": 1234196887,
+      "orgName": "IFK Mariefred",
+      "orgNumber": "819500-2715",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "discgolfklubb",
+        "fotbollsklubb",
+        "friidrottsf\u00f6rening",
+        "handbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "ishockeyklubb",
+        "kampsportsf\u00f6rening",
+        "konst\u00e5kningsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.laget.se/IFK_Mariefred/"
+    },
+    {
       "entry": 1234197026,
       "orgName": "Djurhemmet Tassebo / Stiftelsen Djurhemmet I Helsingborg",
       "orgNumber": "843001-2776",
@@ -69750,6 +69933,17 @@
         "st\u00e4llplats"
       ],
       "web": "https://www.fullerogk.se/"
+    },
+    {
+      "entry": 1234425658,
+      "orgName": "Fagersta S\u00f6dra IK",
+      "orgNumber": "879000-2060",
+      "comment": "P10",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/FSIK/"
     },
     {
       "entry": 1234425708,
@@ -74338,6 +74532,18 @@
         "ridklubb"
       ],
       "web": "https://www.osterlensridklubb.se/"
+    },
+    {
+      "entry": 1234727129,
+      "orgName": "Axbergs IF",
+      "orgNumber": "875000-7331",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/AxbergsIF/"
     },
     {
       "entry": 1234729968,
@@ -82698,6 +82904,17 @@
       "web": "https://korsetskloster.se/"
     },
     {
+      "entry": 1235320194,
+      "orgName": "IK Tun",
+      "orgNumber": "819000-0680",
+      "comment": "P-15",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/IKTun/"
+    },
+    {
       "entry": 1235322490,
       "orgName": "Petras Hundfys / Petra Johansson",
       "orgNumber": "770201-XXXX",
@@ -83618,6 +83835,19 @@
         "renovering"
       ],
       "web": "https://lahtigroup.se/"
+    },
+    {
+      "entry": 1235382502,
+      "orgName": "Enkla Ting Vall\u00e5kra AB",
+      "orgNumber": "559021-0950",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "inredningstextilier",
+        "kl\u00e4der",
+        "mode"
+      ],
+      "web": "https://enklating.se/"
     },
     {
       "entry": 1235382841,
@@ -86160,6 +86390,17 @@
       "web": "https://wickstromcoaching.com/"
     },
     {
+      "entry": 1235531413,
+      "orgName": "Roslagsbro IF",
+      "orgNumber": "814400-5223",
+      "comment": "Ungdomssektionen",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/RoslagsbroIF/"
+    },
+    {
       "entry": 1235532064,
       "orgName": "Grums IK Hockey",
       "orgNumber": "873201-9602",
@@ -88397,6 +88638,22 @@
       "web": "https://www.bommedalrf.se/"
     },
     {
+      "entry": 1235674676,
+      "orgName": "Mullhyttans IF",
+      "orgNumber": "875000-4882",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "padelklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.laget.se/MullhyttansIF-klubben/"
+    },
+    {
       "entry": 1235676317,
       "orgName": "H\u00e4rjedalens Skateboardklubb",
       "orgNumber": "802517-8396",
@@ -88955,6 +89212,23 @@
         "innebandyklubb"
       ],
       "web": "https://www.svenskalag.se/alvkarlebyik"
+    },
+    {
+      "entry": 1235704689,
+      "orgName": "Sandhems IF",
+      "orgNumber": "867200-1586",
+      "comment": null,
+      "categories": [
+        "badmintonklubb",
+        "discgolfklubb",
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "mountainbikeklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.sandhemsif.se/"
     },
     {
       "entry": 1235704788,
@@ -90677,6 +90951,23 @@
       "web": "https://www.svenskalag.se/nittorpsik"
     },
     {
+      "entry": 1235809983,
+      "orgName": "IF Nerike",
+      "orgNumber": "875003-4392",
+      "comment": null,
+      "categories": [
+        "bangolfklubb",
+        "discgolfklubb",
+        "fotbollsklubb",
+        "futsalklubb",
+        "golfklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.ifnerike.se/"
+    },
+    {
       "entry": 1235812268,
       "orgName": "IOCA ARMA NOSTRA Insamlingsstiftelse",
       "orgNumber": "802480-7797",
@@ -91993,6 +92284,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/ISK/"
+    },
+    {
+      "entry": 1235918602,
+      "orgName": "IK Tun",
+      "orgNumber": "819000-0680",
+      "comment": "P14",
+      "categories": [
+        "discgolfklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/IKTun/"
     },
     {
       "entry": 1235920111,
@@ -102796,6 +103099,21 @@
       "web": "https://fryshuset.se/"
     },
     {
+      "entry": 1236668461,
+      "orgName": "Hemse BK",
+      "orgNumber": "834000-8138",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "simklubb",
+        "simskola",
+        "vattengympa"
+      ],
+      "web": "https://www.laget.se/HemseBK/"
+    },
+    {
       "entry": 1236672083,
       "orgName": "R\u00e5sl\u00e4tts F\u00f6rsamlingsgemenskap",
       "orgNumber": "826001-1617",
@@ -106103,6 +106421,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1236862791,
+      "orgName": "RIK Karlskoga",
+      "orgNumber": "876400-2484",
+      "comment": "F14",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.rikkarlskoga.se/"
+    },
+    {
       "entry": 1236863591,
       "orgName": "KFUM Kristianstad BTF",
       "orgNumber": "802457-0676",
@@ -106834,6 +107163,17 @@
         "riksf\u00f6rening"
       ],
       "web": "https://curo.nu/"
+    },
+    {
+      "entry": 1236908867,
+      "orgName": "HaparandaTornio Ungdomshockey Club, HTUHC",
+      "orgNumber": "802462-2915",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.htuhc.com/"
     },
     {
       "entry": 1236908966,
@@ -107899,6 +108239,17 @@
         "scoutk\u00e5r"
       ],
       "web": "https://husiehohog.scout.se/"
+    },
+    {
+      "entry": 1236982839,
+      "orgName": "IK Tun",
+      "orgNumber": "819000-0680",
+      "comment": "P-11",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/IKTun/"
     },
     {
       "entry": 1236985543,
