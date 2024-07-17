@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-17-rev-182318",
+    "date": "2024-07-17-rev-200742",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -27,6 +27,18 @@
         "portr\u00e4ttfotografi"
       ],
       "web": "https://beethalin.se/"
+    },
+    {
+      "entry": 1230003889,
+      "orgName": "Friskis & Svettis Trosa",
+      "orgNumber": "819001-2586",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/trosa"
     },
     {
       "entry": 1230004192,
@@ -452,6 +464,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/nbis-friidrott"
+    },
+    {
+      "entry": 1230018192,
+      "orgName": "Friskis & Svettis Knivsta",
+      "orgNumber": "817607-0699",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/knivsta"
     },
     {
       "entry": 1230018549,
@@ -7407,6 +7431,18 @@
       "web": "https://stjarnjouren.nu/"
     },
     {
+      "entry": 1230427757,
+      "orgName": "Friskis & Svettis Markaryd",
+      "orgNumber": "829001-1132",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/markaryd"
+    },
+    {
       "entry": 1230428045,
       "orgName": "Equmeniakyrkan i Surte",
       "orgNumber": "863500-0972",
@@ -8616,6 +8652,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/funbo"
+    },
+    {
+      "entry": 1230504944,
+      "orgName": "Friskis & Svettis Flen",
+      "orgNumber": "817605-3448",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/flen"
     },
     {
       "entry": 1230505107,
@@ -18647,6 +18695,18 @@
       "web": "https://www.ibffalun.com/"
     },
     {
+      "entry": 1231122670,
+      "orgName": "Friskis & Svettis H\u00e4rn\u00f6sand",
+      "orgNumber": "888000-8241",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/harnosand"
+    },
+    {
       "entry": 1231123645,
       "orgName": "Frivilliga Insatser vid Kris och Katastrof - FIKK Sweden",
       "orgNumber": "802534-3800",
@@ -28485,6 +28545,18 @@
       "web": "https://www.svenskalag.se/kilsbtk"
     },
     {
+      "entry": 1231709120,
+      "orgName": "Friskis & Svettis Svedala",
+      "orgNumber": "846502-2740",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/svedala"
+    },
+    {
       "entry": 1231709245,
       "orgName": "OceaniaAcademy / Spinn MGMT AB",
       "orgNumber": "556855-4470",
@@ -31477,6 +31549,18 @@
       "web": "https://odskoltfiber.123minsida.se/"
     },
     {
+      "entry": 1231884006,
+      "orgName": "Friskis & Svettis Tomelilla",
+      "orgNumber": "838800-8321",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/tomelilla"
+    },
+    {
       "entry": 1231884758,
       "orgName": "Camp Sweden TIFO",
       "orgNumber": "802430-7962",
@@ -33196,6 +33280,18 @@
       "web": "https://www.hembygd.se/sodermanland-tuna"
     },
     {
+      "entry": 1231999630,
+      "orgName": "Friskis & Svettis Sundsvall",
+      "orgNumber": "889201-5747",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/sundsvall"
+    },
+    {
       "entry": 1231999937,
       "orgName": "R\u00f6tvikens Byalag",
       "orgNumber": "893202-7066",
@@ -33392,6 +33488,17 @@
         "stiftelse"
       ],
       "web": "https://ki.se/samverkan/stod-karolinska-institutets-forskning"
+    },
+    {
+      "entry": 1232025039,
+      "orgName": "Simrishamns AIF",
+      "orgNumber": "838800-6234",
+      "comment": null,
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://simrishamnsaif.se/"
     },
     {
       "entry": 1232025518,
@@ -40692,6 +40799,18 @@
       "web": "http://wachtelhundklubben.com/swk-ostergotland-narke/"
     },
     {
+      "entry": 1232458917,
+      "orgName": "Friskis & Svettis Kalmar",
+      "orgNumber": "832401-1736",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/kalmar"
+    },
+    {
       "entry": 1232458966,
       "orgName": "Ellen Key-S\u00e4llskapet",
       "orgNumber": "822002-6390",
@@ -43562,6 +43681,18 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://enhjalpandehand.se/"
+    },
+    {
+      "entry": 1232683365,
+      "orgName": "Friskis & Svettis Arboga",
+      "orgNumber": "878500-7835",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/arboga"
     },
     {
       "entry": 1232683415,
@@ -46682,6 +46813,7 @@
       "comment": null,
       "categories": [
         "friskv\u00e5rd",
+        "h\u00e4lsa",
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.friskissvettis.se/svenljunga"
@@ -48636,6 +48768,18 @@
         "f\u00f6rening"
       ],
       "web": "https://gratistidningarna.se/"
+    },
+    {
+      "entry": 1232993244,
+      "orgName": "Friskis & Svettis Karlshamn",
+      "orgNumber": "836200-9535",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/karlshamn"
     },
     {
       "entry": 1232993574,
@@ -59459,6 +59603,18 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "http://www.ovsjo.se/"
+    },
+    {
+      "entry": 1233680857,
+      "orgName": "Friskis & Svettis Mellerud",
+      "orgNumber": "802414-9620",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/mellerud"
     },
     {
       "entry": 1233680998,
@@ -73055,6 +73211,18 @@
       "web": "https://www.laget.se/DunkersIF/"
     },
     {
+      "entry": 1234643821,
+      "orgName": "Friskis & Svettis Ronneby",
+      "orgNumber": "802489-4761",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/ronneby"
+    },
+    {
       "entry": 1234643979,
       "orgName": "Burseryds F\u00f6rsamling",
       "orgNumber": "252004-7644",
@@ -79243,6 +79411,18 @@
       "web": "https://ahusmissionsgard.se/"
     },
     {
+      "entry": 1235110929,
+      "orgName": "Friskis & Svettis Lerum",
+      "orgNumber": "863500-6813",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/lerum"
+    },
+    {
       "entry": 1235111034,
       "orgName": "Gotlands Bruksh\u00e4stf\u00f6rening - JUF",
       "orgNumber": "834002-1859",
@@ -85119,6 +85299,18 @@
       "web": "https://www.svenskalag.se/aik-atlas"
     },
     {
+      "entry": 1235450572,
+      "orgName": "Friskis & Svettis Kiruna",
+      "orgNumber": "802436-7669",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/kiruna"
+    },
+    {
       "entry": 1235450846,
       "orgName": "Eneby BK",
       "orgNumber": "825000-9613",
@@ -87979,6 +88171,18 @@
         "kvinnojour"
       ],
       "web": "https://stockholmstjejjour.nu/"
+    },
+    {
+      "entry": 1235623061,
+      "orgName": "Friskis & Svettis R\u00f6nninge-Salem",
+      "orgNumber": "802407-4109",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/ronningesalem"
     },
     {
       "entry": 1235624051,
@@ -91582,6 +91786,18 @@
       "web": "https://www.laget.se/LatorpsIF/"
     },
     {
+      "entry": 1235870142,
+      "orgName": "Friskis & Svettis Str\u00f6mstad",
+      "orgNumber": "855900-4729",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/stromstad"
+    },
+    {
       "entry": 1235870613,
       "orgName": "Arboga S\u00f6dra IF",
       "orgNumber": "878500-0194",
@@ -92441,6 +92657,7 @@
       "comment": null,
       "categories": [
         "friskv\u00e5rd",
+        "h\u00e4lsa",
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.friskissvettis.se/helsingborg"
@@ -99916,6 +100133,7 @@
       "comment": null,
       "categories": [
         "friskv\u00e5rd",
+        "h\u00e4lsa",
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.friskissvettis.se/borlange"
@@ -101787,6 +102005,18 @@
       "web": "https://www.svenskalag.se/fiskevik"
     },
     {
+      "entry": 1236538052,
+      "orgName": "Friskis & Svettis Olofstr\u00f6m",
+      "orgNumber": "836200-7869",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/olofstrom"
+    },
+    {
       "entry": 1236538623,
       "orgName": "Centrumkyrkan i Sundbyberg",
       "orgNumber": "815201-0230",
@@ -103176,6 +103406,18 @@
       "web": "https://kks.nu/"
     },
     {
+      "entry": 1236673669,
+      "orgName": "Friskis & Svettis Trelleborg",
+      "orgNumber": "847000-5490",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/trelleborg"
+    },
+    {
       "entry": 1236673982,
       "orgName": "Project Vita",
       "orgNumber": "802498-2459",
@@ -103558,6 +103800,18 @@
         "religion"
       ],
       "web": "https://www.brannkyrka.org/"
+    },
+    {
+      "entry": 1236688535,
+      "orgName": "Friskis & Svettis H\u00f6\u00f6r-H\u00f6rby",
+      "orgNumber": "842000-8867",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/hoorhorby"
     },
     {
       "entry": 1236688865,
