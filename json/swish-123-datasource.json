@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-19-rev-161853",
+    "date": "2024-07-19-rev-180914",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2749,6 +2749,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.annelundsif.com/"
+    },
+    {
+      "entry": 1230182865,
+      "orgName": "Frigger\u00e5kers Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "867800-0608",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/friggeraker/"
     },
     {
       "entry": 1230182899,
@@ -10845,6 +10855,16 @@
       "web": "https://www.svenskalag.se/oknolaskogsarna"
     },
     {
+      "entry": 1230670760,
+      "orgName": "S\u00f6derfors Hembygdsf\u00f6rening",
+      "orgNumber": "817301-0003",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/soderfors"
+    },
+    {
       "entry": 1230670786,
       "orgName": "J\u00e4rnkaminerna",
       "orgNumber": "802410-8501",
@@ -12642,6 +12662,16 @@
         "religion"
       ],
       "web": "https://www.pingst.se/forsamling/natverk/pastor/"
+    },
+    {
+      "entry": 1230759894,
+      "orgName": "\u00c4lven\u00e4s Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "802448-5016",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/alvenas/"
     },
     {
       "entry": 1230760181,
@@ -17285,6 +17315,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/harnosand"
+    },
+    {
+      "entry": 1231027473,
+      "orgName": "Norrbo Hembygds- och Fornminnesf\u00f6rening",
+      "orgNumber": "887500-5327",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/norrbo"
     },
     {
       "entry": 1231027572,
@@ -22308,6 +22348,17 @@
       "web": "https://fridaysforfuture.se/"
     },
     {
+      "entry": 1231321124,
+      "orgName": "Rude Intressef\u00f6rening",
+      "orgNumber": "802445-0739",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/rudegarden/"
+    },
+    {
       "entry": 1231322098,
       "orgName": "Enk\u00f6pings SK UK",
       "orgNumber": "817001-4198",
@@ -22883,6 +22934,16 @@
         "yoga"
       ],
       "web": "https://yviva.se/"
+    },
+    {
+      "entry": 1231345867,
+      "orgName": "SKPF Pension\u00e4rerna avd 82 Fagersta",
+      "orgNumber": "802451-1639",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.skpf.se/avdelningar/distrikt-vastmanlands-lan/fagersta-avd-82/"
     },
     {
       "entry": 1231346071,
@@ -30341,7 +30402,7 @@
     },
     {
       "entry": 1231805969,
-      "orgName": "SKPF Pension\u00e4rerna, Distrikt Stockholm",
+      "orgName": "SKPF Pension\u00e4rerna, avd 28 Distrikt Stockholm",
       "orgNumber": "802405-8615",
       "comment": null,
       "categories": [
@@ -33605,6 +33666,16 @@
       "web": "https://simrishamnsaif.se/"
     },
     {
+      "entry": 1232025336,
+      "orgName": "R\u00f6nneberga Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "815600-0724",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/ronneberga/"
+    },
+    {
       "entry": 1232025518,
       "orgName": "Plogga Sverige AB",
       "orgNumber": "559170-8549",
@@ -36267,6 +36338,16 @@
       "web": "http://www.linkopingmoske.se/"
     },
     {
+      "entry": 1232194983,
+      "orgName": "Sibr\u00e4cka Bygdeg\u00e5rd",
+      "orgNumber": "853300-8333",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/sibracka/"
+    },
+    {
       "entry": 1232196004,
       "orgName": "Waxholms Gymnastikf\u00f6rening",
       "orgNumber": "812000-0289",
@@ -38064,6 +38145,16 @@
         "religion"
       ],
       "web": "https://www.trollhattanpingst.se/"
+    },
+    {
+      "entry": 1232285187,
+      "orgName": "S\u00f6der\u00f6g\u00e5rdens Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "817300-8262",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/soderogarden/"
     },
     {
       "entry": 1232285211,
@@ -46253,6 +46344,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/filbyterlinkoping/"
+    },
+    {
+      "entry": 1232810653,
+      "orgName": "Dalby V\u00e4ster\u00e5ker Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "817605-7357",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/dalby/"
     },
     {
       "entry": 1232811172,
@@ -60292,6 +60393,16 @@
       "web": "http://hedemorascout.se/"
     },
     {
+      "entry": 1233720844,
+      "orgName": "Vr\u00e5ng\u00f6 bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "857207-1051",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/vrango/"
+    },
+    {
       "entry": 1233721081,
       "orgName": "Str\u00f6ms Hembygdsf\u00f6rening",
       "orgNumber": "892000-3905",
@@ -61706,6 +61817,16 @@
       "web": "https://regionalkulturskola.se/"
     },
     {
+      "entry": 1233838869,
+      "orgName": "Ekeby Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "817301-3064",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": null
+    },
+    {
       "entry": 1233839131,
       "orgName": "N\u00e4tmagasinet M\u00e4nsklig S\u00e4kerhet",
       "orgNumber": "802507-7523",
@@ -62062,6 +62183,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/langaryd"
+    },
+    {
+      "entry": 1233864394,
+      "orgName": "Tjureda Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "829500-5618",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/tjureda/"
     },
     {
       "entry": 1233864436,
@@ -64475,7 +64606,7 @@
     },
     {
       "entry": 1234005864,
-      "orgName": "SKPF Pension\u00e4rerna, Distrikt Norrt\u00e4lje",
+      "orgName": "SKPF Pension\u00e4rerna, avd 110 Distrikt Norrt\u00e4lje",
       "orgNumber": "802430-1262",
       "comment": null,
       "categories": [
@@ -65098,6 +65229,17 @@
         "hundsport"
       ],
       "web": "https://sbc-beardedcollie.com/"
+    },
+    {
+      "entry": 1234058293,
+      "orgName": "Gastsj\u00f6ns Bygdeg\u00e5rdsf\u00f6rening / Gastsj\u00f6ns V\u00e4gsamf\u00e4llighet",
+      "orgNumber": "802516-2069",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/gastsjon/"
     },
     {
       "entry": 1234058939,
@@ -88735,7 +88877,7 @@
     },
     {
       "entry": 1235634530,
-      "orgName": "SKPF Pension\u00e4rerna, Distrikt Stockholm",
+      "orgName": "SKPF Pension\u00e4rerna, avd 2 Distrikt Stockholm",
       "orgNumber": "802405-8615",
       "comment": null,
       "categories": [
@@ -89402,6 +89544,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.oskungdom.se/"
+    },
+    {
+      "entry": 1235684378,
+      "orgName": "Hultafors Bygdeg\u00e5rdsf\u00f6rening & Byalag",
+      "orgNumber": "864501-6166",
+      "comment": null,
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/hultafors/"
     },
     {
       "entry": 1235684790,
@@ -91906,6 +92059,16 @@
       "web": "http://degerfors.pingst.se/"
     },
     {
+      "entry": 1235843750,
+      "orgName": "V\u00e4stra Husby Hembygdsf\u00f6rening",
+      "orgNumber": "802443-9724",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/v-stra-husby-hembygdsf-rening"
+    },
+    {
       "entry": 1235843909,
       "orgName": "S\u00f6sdalaortens Lantliga Ryttarf\u00f6rening",
       "orgNumber": "837000-8263",
@@ -92030,6 +92193,16 @@
         "ridsport"
       ],
       "web": "https://www.mantorphastsportarena.se/"
+    },
+    {
+      "entry": 1235856000,
+      "orgName": "SKPF Pension\u00e4rerna avd 114 Kramfors",
+      "orgNumber": "802460-4541",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.skpf.se/avdelningar/distrikt-vasternorrland/kramfors-avd-114/"
     },
     {
       "entry": 1235856729,
@@ -99440,6 +99613,19 @@
       "web": "https://www.facebook.com/L%C3%A5ngsele-Intressef%C3%B6rening-314260201957304/"
     },
     {
+      "entry": 1236345748,
+      "orgName": "F\u00e4ringtofta Idrottsklubb",
+      "orgNumber": "837600-0389",
+      "comment": null,
+      "categories": [
+        "cykelklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "tennisklubb"
+      ],
+      "web": "http://faringtofta.se/"
+    },
+    {
       "entry": 1236346522,
       "orgName": "Hj\u00e4rnarps Innebandyklubb",
       "orgNumber": "839401-1525",
@@ -104657,6 +104843,16 @@
       "web": "https://www.laget.se/LyckseleIF/"
     },
     {
+      "entry": 1236703714,
+      "orgName": "T\u00e4rna Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "802462-7971",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/tarna/"
+    },
+    {
       "entry": 1236704241,
       "orgName": "Sl\u00e4tth\u00f6gs Hembygdsf\u00f6rening",
       "orgNumber": "829502-4734",
@@ -106913,6 +107109,16 @@
       "web": "https://www.annalindhsminnesfond.se/"
     },
     {
+      "entry": 1236837561,
+      "orgName": "F\u00f6reningen B\u00f6leg\u00e5rden",
+      "orgNumber": "802434-4015",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/bolegarden/"
+    },
+    {
       "entry": 1236837678,
       "orgName": "Keren Kajemet Sverige, KKL Israelfonden",
       "orgNumber": "802403-7502",
@@ -108818,6 +109024,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://weloveitaly.one/"
+    },
+    {
+      "entry": 1236961791,
+      "orgName": "G\u00e4sene Hembygds- och Fornminnesf\u00f6rening",
+      "orgNumber": "864000-4522",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/gasene"
     },
     {
       "entry": 1236963383,

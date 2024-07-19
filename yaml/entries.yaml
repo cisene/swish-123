@@ -2272,6 +2272,14 @@ entries:
   - idrottsförening
   web: https://www.annelundsif.com/
 
+- entry: 1230182865
+  orgName: Friggeråkers Bygdegårdsförening
+  orgNumber: 867800-0608
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/friggeraker/
+
 - entry: 1230182899
   orgName: Hudiksvalls Rid och Ponnyklubb
   orgNumber: 887500-5020
@@ -8933,6 +8941,14 @@ entries:
   - skidskytteklubb
   web: https://www.svenskalag.se/oknolaskogsarna
 
+- entry: 1230670760
+  orgName: Söderfors Hembygdsförening
+  orgNumber: 817301-0003
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/soderfors
+
 - entry: 1230670786
   orgName: Järnkaminerna
   orgNumber: 802410-8501
@@ -10411,6 +10427,14 @@ entries:
   categories:
   - religion
   web: https://www.pingst.se/forsamling/natverk/pastor/
+
+- entry: 1230759894
+  orgName: Älvenäs Bygdegårdsförening
+  orgNumber: 802448-5016
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/alvenas/
 
 - entry: 1230760181
   orgName: Team Rynkeby
@@ -14251,6 +14275,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/harnosand
+
+- entry: 1231027473
+  orgName: Norrbo Hembygds- och Fornminnesförening
+  orgNumber: 887500-5327
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/norrbo
 
 - entry: 1231027572
   orgName: Jenga Women Africa / Vili Go AB
@@ -18391,6 +18423,15 @@ entries:
   - intresseförening
   web: https://fridaysforfuture.se/
 
+- entry: 1231321124
+  orgName: Rude Intresseförening
+  orgNumber: 802445-0739
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - intresseförening
+  web: https://bygdegardarna.se/rudegarden/
+
 - entry: 1231322098
   orgName: Enköpings SK UK
   orgNumber: 817001-4198
@@ -18861,6 +18902,14 @@ entries:
   categories:
   - yoga
   web: https://yviva.se/
+
+- entry: 1231345867
+  orgName: SKPF Pensionärerna avd 82 Fagersta
+  orgNumber: 802451-1639
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.skpf.se/avdelningar/distrikt-vastmanlands-lan/fagersta-avd-82/
 
 - entry: 1231346071
   orgName: Kungsbacka MMA Klubb
@@ -24986,7 +25035,7 @@ entries:
   web: https://www.tangonorteno.se/
 
 - entry: 1231805969
-  orgName: SKPF Pensionärerna, Distrikt Stockholm
+  orgName: SKPF Pensionärerna, avd 28 Distrikt Stockholm
   orgNumber: 802405-8615
   comment: null
   categories:
@@ -27678,6 +27727,14 @@ entries:
   - idrottsförening
   web: https://simrishamnsaif.se/
 
+- entry: 1232025336
+  orgName: Rönneberga Bygdegårdsförening
+  orgNumber: 815600-0724
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/ronneberga/
+
 - entry: 1232025518
   orgName: Plogga Sverige AB
   orgNumber: 559170-8549
@@ -29875,6 +29932,14 @@ entries:
   - religion
   web: http://www.linkopingmoske.se/
 
+- entry: 1232194983
+  orgName: Sibräcka Bygdegård
+  orgNumber: 853300-8333
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/sibracka/
+
 - entry: 1232196004
   orgName: Waxholms Gymnastikförening
   orgNumber: 812000-0289
@@ -31370,6 +31435,14 @@ entries:
   - donation
   - religion
   web: https://www.trollhattanpingst.se/
+
+- entry: 1232285187
+  orgName: Söderögårdens Bygdegårdsförening
+  orgNumber: 817300-8262
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/soderogarden/
 
 - entry: 1232285211
   orgName: Leksand Superstars
@@ -38161,6 +38234,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/filbyterlinkoping/
 
+- entry: 1232810653
+  orgName: Dalby Västeråker Bygdegårdsförening
+  orgNumber: 817605-7357
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/dalby/
+
 - entry: 1232811172
   orgName: Idre-Särna Församling
   orgNumber: 252004-2504
@@ -41613,6 +41694,13 @@ entries:
   - intresseförening
   - konstförening
   web: http://www.lysekilskonstforening.se/
+
+- entry: 1233094653
+  orgName: SKPF Pensionärerna avd 126 Arvidsjaur
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.skpf.se/avdelningar/distrikt-norrbottens-lan/arvidsjaur-avd-126/
 
 - entry: 1233096963
   orgName: Pegasus Discgolfklubb
@@ -49693,6 +49781,14 @@ entries:
   - scoutkår
   web: http://hedemorascout.se/
 
+- entry: 1233720844
+  orgName: Vrångö bygdegårdsförening
+  orgNumber: 857207-1051
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/vrango/
+
 - entry: 1233721081
   orgName: Ströms Hembygdsförening
   orgNumber: 892000-3905
@@ -50857,6 +50953,14 @@ entries:
   - utbildning
   web: https://regionalkulturskola.se/
 
+- entry: 1233838869
+  orgName: Ekeby Bygdegårdsförening
+  orgNumber: 817301-3064
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: null
+
 - entry: 1233839131
   orgName: Nätmagasinet Mänsklig Säkerhet
   orgNumber: 802507-7523
@@ -51148,6 +51252,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/langaryd
+
+- entry: 1233864394
+  orgName: Tjureda Bygdegårdsförening
+  orgNumber: 829500-5618
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/tjureda/
 
 - entry: 1233864436
   orgName: Lagan IBK
@@ -53148,7 +53260,7 @@ entries:
   web: https://www.svenskalag.se/bifsk
 
 - entry: 1234005864
-  orgName: SKPF Pensionärerna, Distrikt Norrtälje
+  orgName: SKPF Pensionärerna, avd 110 Distrikt Norrtälje
   orgNumber: 802430-1262
   comment: null
   categories:
@@ -53679,6 +53791,15 @@ entries:
   - hundklubb
   - hundsport
   web: https://sbc-beardedcollie.com/
+
+- entry: 1234058293
+  orgName: Gastsjöns Bygdegårdsförening / Gastsjöns Vägsamfällighet
+  orgNumber: 802516-2069
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - samfällighetsförening
+  web: https://bygdegardarna.se/gastsjon/
 
 - entry: 1234058939
   orgName: Folkets Radio
@@ -73168,7 +73289,7 @@ entries:
   web: https://www.hembygd.se/bjuraker
 
 - entry: 1235634530
-  orgName: SKPF Pensionärerna, Distrikt Stockholm
+  orgName: SKPF Pensionärerna, avd 2 Distrikt Stockholm
   orgNumber: 802405-8615
   comment: null
   categories:
@@ -73714,6 +73835,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.oskungdom.se/
+
+- entry: 1235684378
+  orgName: Hultafors Bygdegårdsförening & Byalag
+  orgNumber: 864501-6166
+  comment: null
+  categories:
+  - byalag
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/hultafors/
 
 - entry: 1235684790
   orgName: SMK Ljungby
@@ -75787,6 +75917,14 @@ entries:
   categories: null
   web: https://rotary2400.se/clubinfo/astorp-13274
 
+- entry: 1235843750
+  orgName: Västra Husby Hembygdsförening
+  orgNumber: 802443-9724
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/v-stra-husby-hembygdsf-rening
+
 - entry: 1235843909
   orgName: Sösdalaortens Lantliga Ryttarförening
   orgNumber: 837000-8263
@@ -75897,6 +76035,14 @@ entries:
   - ridskola
   - ridsport
   web: https://www.mantorphastsportarena.se/
+
+- entry: 1235856000
+  orgName: SKPF Pensionärerna avd 114 Kramfors
+  orgNumber: 802460-4541
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.skpf.se/avdelningar/distrikt-vasternorrland/kramfors-avd-114/
 
 - entry: 1235856729
   orgName: Kvinnojouren Stöttan
@@ -82037,6 +82183,17 @@ entries:
   - intresseförening
   web: https://www.facebook.com/L%C3%A5ngsele-Intressef%C3%B6rening-314260201957304/
 
+- entry: 1236345748
+  orgName: Färingtofta Idrottsklubb
+  orgNumber: 837600-0389
+  comment: null
+  categories:
+  - cykelklubb
+  - fotbollsklubb
+  - idrottsförening
+  - tennisklubb
+  web: http://faringtofta.se/
+
 - entry: 1236346522
   orgName: Hjärnarps Innebandyklubb
   orgNumber: 839401-1525
@@ -86370,6 +86527,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/LyckseleIF/
 
+- entry: 1236703714
+  orgName: Tärna Bygdegårdsförening
+  orgNumber: 802462-7971
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/tarna/
+
 - entry: 1236704241
   orgName: Slätthögs Hembygdsförening
   orgNumber: 829502-4734
@@ -88228,6 +88393,14 @@ entries:
   - stiftelse
   web: https://www.annalindhsminnesfond.se/
 
+- entry: 1236837561
+  orgName: Föreningen Bölegården
+  orgNumber: 802434-4015
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/bolegarden/
+
 - entry: 1236837678
   orgName: Keren Kajemet Sverige, KKL Israelfonden
   orgNumber: 802403-7502
@@ -89794,6 +89967,14 @@ entries:
   - hemlandsförening
   - intresseförening
   web: https://weloveitaly.one/
+
+- entry: 1236961791
+  orgName: Gäsene Hembygds- och Fornminnesförening
+  orgNumber: 864000-4522
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/gasene
 
 - entry: 1236963383
   orgName: Sils IF
