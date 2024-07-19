@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-17-rev-200742",
+    "date": "2024-07-19-rev-161853",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1037,6 +1037,18 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/ostraryd"
+    },
+    {
+      "entry": 1230062372,
+      "orgName": "Friskis & Svettis M\u00e4lar\u00f6arna",
+      "orgNumber": "802500-0608",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/malaroarna"
     },
     {
       "entry": 1230062414,
@@ -2922,11 +2934,12 @@
     },
     {
       "entry": 1230186429,
-      "orgName": "Korpf\u00f6rening Lycksele - Korpen",
+      "orgName": "Korpf\u00f6rening Lycksele",
       "orgNumber": "895400-5651",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
       ],
       "web": "https://www.korpenlycksele.se/"
     },
@@ -3081,6 +3094,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/runbyif"
+    },
+    {
+      "entry": 1230192120,
+      "orgName": "Korpen Kalmar",
+      "orgNumber": "832400-5654",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenkalmar"
     },
     {
       "entry": 1230192526,
@@ -5376,6 +5400,17 @@
         "stiftelse"
       ],
       "web": "https://www.independentliving.org/"
+    },
+    {
+      "entry": 1230317909,
+      "orgName": "Korpen Sundsvall",
+      "orgNumber": "889200-5367",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpensundsvall"
     },
     {
       "entry": 1230319129,
@@ -10369,6 +10404,18 @@
         "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
+    },
+    {
+      "entry": 1230631812,
+      "orgName": "Korpen Engelholms Tennisveteraner",
+      "orgNumber": "802510-6033",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening",
+        "tennisklubb"
+      ],
+      "web": "https://www.korpen.se/engelholms-tennisveteraner"
     },
     {
       "entry": 1230633297,
@@ -18369,7 +18416,7 @@
     },
     {
       "entry": 1231089663,
-      "orgName": "Korpen Emmaboda Motionsidrottsf\u00f6rening",
+      "orgName": "Korpen Emmaboda",
       "orgNumber": "832400-8021",
       "comment": null,
       "categories": [
@@ -20036,11 +20083,12 @@
     },
     {
       "entry": 1231197441,
-      "orgName": "Korpf\u00f6rening H\u00e4ssleholm - Korpen",
+      "orgName": "Korpf\u00f6rening H\u00e4ssleholm",
       "orgNumber": "837000-5525",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
       ],
       "web": "https://www.korpenhassleholm.se/"
     },
@@ -20141,6 +20189,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/hogalid"
+    },
+    {
+      "entry": 1231204593,
+      "orgName": "Korpen Heby",
+      "orgNumber": "879500-6975",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenheby"
     },
     {
       "entry": 1231204791,
@@ -21699,6 +21758,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/spf-seniorerna-vallonen---skarplinge/"
+    },
+    {
+      "entry": 1231289446,
+      "orgName": "Korpen Mark",
+      "orgNumber": "865000-6144",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenmark"
     },
     {
       "entry": 1231290329,
@@ -24032,6 +24102,17 @@
       "web": "https://kallkritikbyran.se/"
     },
     {
+      "entry": 1231448513,
+      "orgName": "Korpen Karlstad",
+      "orgNumber": "873200-6807",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenkarlstad"
+    },
+    {
       "entry": 1231451103,
       "orgName": "Trollh\u00e4ttans Kattsluss",
       "orgNumber": "863001-0810",
@@ -24775,6 +24856,17 @@
         "religion"
       ],
       "web": "http://arvika.pingst.se/"
+    },
+    {
+      "entry": 1231479815,
+      "orgName": "Korpen Eskilstuna",
+      "orgNumber": "818000-4189",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpeneskilstuna"
     },
     {
       "entry": 1231480201,
@@ -33172,6 +33264,18 @@
       "web": "https://www.svenskalag.se/ikgranit"
     },
     {
+      "entry": 1231995158,
+      "orgName": "Friskis & Svettis Lidk\u00f6ping",
+      "orgNumber": "869001-1153",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/lidkoping"
+    },
+    {
       "entry": 1231995299,
       "orgName": "Nyk\u00f6pings F\u00f6rsamling",
       "orgNumber": "252004-7552",
@@ -37130,6 +37234,17 @@
         "religion"
       ],
       "web": "https://www.ibpssweden.se/"
+    },
+    {
+      "entry": 1232247229,
+      "orgName": "Korpen G\u00f6teborg",
+      "orgNumber": "857200-9317",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpengoteborg"
     },
     {
       "entry": 1232247450,
@@ -41784,6 +41899,17 @@
       "web": "https://doku.nu/"
     },
     {
+      "entry": 1232573913,
+      "orgName": "Korpen \u00c4lmhult",
+      "orgNumber": "829000-5886",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenalmhult"
+    },
+    {
       "entry": 1232576189,
       "orgName": "Fj\u00e4llbacka B\u00e5t och Bil AB",
       "orgNumber": "559279-6493",
@@ -41943,6 +42069,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.sifbandy.nu/"
+    },
+    {
+      "entry": 1232587236,
+      "orgName": "Korpen Valdemarsvik",
+      "orgNumber": "825001-5685",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenvaldemarsvik"
     },
     {
       "entry": 1232587244,
@@ -42646,13 +42783,14 @@
     },
     {
       "entry": 1232632503,
-      "orgName": "Korpen Storsj\u00f6n Motionsidrottsf\u00f6rening - Korpen",
+      "orgName": "Korpen Storsj\u00f6n",
       "orgNumber": "893202-8601",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
       ],
-      "web": "https://www.korpenstorsjon.se/"
+      "web": "https://www.korpen.se/korpenstorsjon"
     },
     {
       "entry": 1232632685,
@@ -43050,6 +43188,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-norsjo/"
+    },
+    {
+      "entry": 1232648640,
+      "orgName": "Korpen V\u00e4xj\u00f6",
+      "orgNumber": "829500-6962",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenvaxjo"
     },
     {
       "entry": 1232648889,
@@ -43601,6 +43750,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bergsbygdegard.se/"
+    },
+    {
+      "entry": 1232681922,
+      "orgName": "Korpen Nybro",
+      "orgNumber": "832400-7650",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/KorpenNybro/"
     },
     {
       "entry": 1232682078,
@@ -45802,6 +45962,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.jordensvanner.se/"
+    },
+    {
+      "entry": 1232794329,
+      "orgName": "Korpen Simrishamn",
+      "orgNumber": "838800-4114",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpensimrishamn"
     },
     {
       "entry": 1232795367,
@@ -49271,6 +49442,17 @@
       "web": "https://www.svenskalag.se/mbgoif"
     },
     {
+      "entry": 1233034626,
+      "orgName": "Korpen Vattenfall IF Ume\u00e5",
+      "orgNumber": "802455-1379",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/vattenfall-if-umea"
+    },
+    {
       "entry": 1233034808,
       "orgName": "S\u00f6der\u00e5sens GK",
       "orgNumber": "843000-6513",
@@ -50533,6 +50715,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/kristinehamn"
+    },
+    {
+      "entry": 1233115854,
+      "orgName": "Korpen Pite\u00e5",
+      "orgNumber": "898800-2286",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenpitea"
     },
     {
       "entry": 1233115896,
@@ -54780,9 +54973,10 @@
       "comment": null,
       "categories": [
         "basketbollklubb",
-        "intressef\u00f6rening"
+        "intressef\u00f6rening",
+        "korpenf\u00f6rening"
       ],
-      "web": "https://www.shantabasket.com/"
+      "web": "https://www.korpen.se/shanta-idrottsforening"
     },
     {
       "entry": 1233387727,
@@ -57887,6 +58081,18 @@
       "web": "https://www.svenskakyrkan.se/tjorn"
     },
     {
+      "entry": 1233559309,
+      "orgName": "Friskis & Svettis Torsby",
+      "orgNumber": "874001-3316",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/torsby"
+    },
+    {
       "entry": 1233559408,
       "orgName": "Team Sweden Volunteers",
       "orgNumber": "802498-7532",
@@ -60713,6 +60919,17 @@
       "web": "http://www.ik-vavd.se/"
     },
     {
+      "entry": 1233785375,
+      "orgName": "Korpen Bor\u00e5s",
+      "orgNumber": "864500-1390",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenboras"
+    },
+    {
       "entry": 1233785524,
       "orgName": "Danssportf\u00f6reningen Pitesw\u00e4nget",
       "orgNumber": "898801-0388",
@@ -63238,6 +63455,19 @@
       "web": "https://helloworld.se/"
     },
     {
+      "entry": 1233943313,
+      "orgName": "Korpen Hede",
+      "orgNumber": "893200-6847",
+      "comment": null,
+      "categories": [
+        "dansf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening",
+        "motionsklubb"
+      ],
+      "web": "https://www.korpen.se/korpenhede"
+    },
+    {
       "entry": 1233943735,
       "orgName": "Nyk\u00f6ping Oxel\u00f6sund BTK",
       "orgNumber": "802422-8549",
@@ -64418,6 +64648,17 @@
         "vinprovning"
       ],
       "web": "https://www.munskankarna.se/"
+    },
+    {
+      "entry": 1234018131,
+      "orgName": "Korpen Sj\u00f6bo",
+      "orgNumber": "802493-8055",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpensjobo"
     },
     {
       "entry": 1234018198,
@@ -66384,6 +66625,17 @@
       "web": "https://www.hjarnarpsgif.se/"
     },
     {
+      "entry": 1234180683,
+      "orgName": "Korpen \u00c5seda",
+      "orgNumber": "802456-3721",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://korpenaseda.webnode.se/home/"
+    },
+    {
       "entry": 1234181277,
       "orgName": "Unders\u00e5kers Hembygdsf\u00f6rening",
       "orgNumber": "893201-1011",
@@ -67350,14 +67602,14 @@
     },
     {
       "entry": 1234227138,
-      "orgName": "Korpen Lund - Padel Senior",
+      "orgName": "Korpen Lund",
       "orgNumber": "845000-7102",
       "comment": null,
       "categories": [
         "idrottsf\u00f6rening",
-        "padelklubb"
+        "korpenf\u00f6rening"
       ],
-      "web": "https://www.svenskalag.se/korpenlundpadelsenior"
+      "web": "https://www.korpen.se/korpenlund"
     },
     {
       "entry": 1234228268,
@@ -67413,6 +67665,30 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://www.svenskalag.se/godegardsskidklubb"
+    },
+    {
+      "entry": 1234228615,
+      "orgName": "Friskis & Svettis F\u00e4rgelanda",
+      "orgNumber": "802416-2656",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/fargelanda"
+    },
+    {
+      "entry": 1234228631,
+      "orgName": "Friskis & Svettis Mora",
+      "orgNumber": "802444-0508",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/mora"
     },
     {
       "entry": 1234228698,
@@ -71555,14 +71831,14 @@
     },
     {
       "entry": 1234536447,
-      "orgName": "Korpen Uppsala Motionsidrottsf\u00f6rening",
+      "orgName": "Korpen Uppsala",
       "orgNumber": "817601-0547",
       "comment": null,
       "categories": [
         "idrottsf\u00f6rening",
         "korpenf\u00f6rening"
       ],
-      "web": "https://www.korpenuppsala.se/"
+      "web": "https://www.korpen.se/korpenuppsala"
     },
     {
       "entry": 1234536769,
@@ -71771,6 +72047,17 @@
       "web": "https://efsjarvso.se/"
     },
     {
+      "entry": 1234547931,
+      "orgName": "Korpen Enk\u00f6ping",
+      "orgNumber": "817000-5352",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenenkoping"
+    },
+    {
       "entry": 1234548756,
       "orgName": "S\u00e4vare F\u00f6rsamling",
       "orgNumber": "252002-9907",
@@ -71935,6 +72222,17 @@
         "golfutrustning"
       ],
       "web": "https://www.mollegk.se/"
+    },
+    {
+      "entry": 1234565578,
+      "orgName": "Korpen S\u00f6derb\u00e4rke",
+      "orgNumber": "802468-1994",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpensoderbarke"
     },
     {
       "entry": 1234567343,
@@ -74497,6 +74795,17 @@
       "web": "https://www.svenskakyrkan.se/stigtomta-vrena"
     },
     {
+      "entry": 1234713533,
+      "orgName": "Korpen Ystad",
+      "orgNumber": "848000-4822",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/YstadKorpen/"
+    },
+    {
       "entry": 1234713640,
       "orgName": "Vrigstads Hembygdsf\u00f6rening",
       "orgNumber": "827500-4771",
@@ -76994,6 +77303,17 @@
         "kampsportsf\u00f6rening"
       ],
       "web": null
+    },
+    {
+      "entry": 1234948501,
+      "orgName": "Korpen Kiruna",
+      "orgNumber": "897300-0899",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenkiruna"
     },
     {
       "entry": 1234948535,
@@ -80152,6 +80472,18 @@
       "web": "https://laholm-hok.rotary2400.se/"
     },
     {
+      "entry": 1235128459,
+      "orgName": "Friskis & Svettis \u00d6rebro",
+      "orgNumber": "875001-7785",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/orebro"
+    },
+    {
       "entry": 1235128616,
       "orgName": "G\u00f6ta Bollklubb",
       "orgNumber": "863000-5299",
@@ -80881,6 +81213,17 @@
         "stiftelse"
       ],
       "web": "http://www.rewilding-sweden.com/"
+    },
+    {
+      "entry": 1235162052,
+      "orgName": "Korpen Mariannelund",
+      "orgNumber": "827001-1771",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenmariannelund"
     },
     {
       "entry": 1235163910,
@@ -81951,11 +82294,12 @@
     },
     {
       "entry": 1235251194,
-      "orgName": "Korpf\u00f6rening Heros - Korpen",
+      "orgName": "Korpf\u00f6rening Heros",
       "orgNumber": "802434-2084",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
       ],
       "web": "https://www.heroskf.se/"
     },
@@ -82975,6 +83319,17 @@
       "web": "https://www.povelramelsallskapet.se/"
     },
     {
+      "entry": 1235306022,
+      "orgName": "Korpen Silvbergs Fritidsf\u00f6rening",
+      "orgNumber": "802534-8577",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/SilvbergsFritidsforening"
+    },
+    {
       "entry": 1235306725,
       "orgName": "Team Rynkeby",
       "orgNumber": "802534-5938",
@@ -83793,6 +84148,17 @@
         "stuguthyrning"
       ],
       "web": "https://atransturist.se/"
+    },
+    {
+      "entry": 1235368881,
+      "orgName": "Korpen Vallentuna",
+      "orgNumber": "802407-5783",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenvallentuna"
     },
     {
       "entry": 1235368980,
@@ -84669,6 +85035,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/floby"
+    },
+    {
+      "entry": 1235411921,
+      "orgName": "Korpen Vattenfalls IF Trollh\u00e4ttan",
+      "orgNumber": "802456-7102",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/vattenfall-if-trollhattan"
     },
     {
       "entry": 1235412309,
@@ -86955,6 +87332,18 @@
       "web": "https://www.skogsloparna.se/"
     },
     {
+      "entry": 1235557327,
+      "orgName": "Friskis & Svettis Ljungby",
+      "orgNumber": "829000-8948",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/ljungby"
+    },
+    {
       "entry": 1235557483,
       "orgName": "S:t Johannes F\u00f6rsamling",
       "orgNumber": "252000-0528",
@@ -88427,6 +88816,17 @@
         "scoutk\u00e5r"
       ],
       "web": "https://www.nsf.scout.se/karer/ekeby-vikingen-scoutkar/"
+    },
+    {
+      "entry": 1235638135,
+      "orgName": "Korpen Kinda",
+      "orgNumber": "822001-2697",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenkinda"
     },
     {
       "entry": 1235638523,
@@ -92173,6 +92573,17 @@
       "web": "https://www.svenskalag.se/kalmarbygdensjagare0805"
     },
     {
+      "entry": 1235891957,
+      "orgName": "Korpen V\u00e4nn\u00e4s",
+      "orgNumber": "894003-0300",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenvannas"
+    },
+    {
       "entry": 1235893359,
       "orgName": "\u00c5mots SK - Skidor",
       "orgNumber": "802465-4074",
@@ -92270,6 +92681,17 @@
       "web": "https://www.iksleipner.se/"
     },
     {
+      "entry": 1235894811,
+      "orgName": "Korpen H\u00f6rby",
+      "orgNumber": "842000-5715",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenhorby"
+    },
+    {
       "entry": 1235895198,
       "orgName": "Trosa Edan\u00f6 IBK",
       "orgNumber": "817605-9916",
@@ -92279,6 +92701,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.trosaedano.se/"
+    },
+    {
+      "entry": 1235895388,
+      "orgName": "Korpen Lule\u00e5",
+      "orgNumber": "897000-2617",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenlulea"
     },
     {
       "entry": 1235895875,
@@ -95851,6 +96284,17 @@
       "web": "https://aselehembygdsforening.nu/"
     },
     {
+      "entry": 1236150627,
+      "orgName": "Korpen Forsmarks IF",
+      "orgNumber": "802503-3070",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/forsmarks-if"
+    },
+    {
       "entry": 1236151062,
       "orgName": "Bolidens FFI",
       "orgNumber": "894700-4860",
@@ -98437,6 +98881,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1236293658,
+      "orgName": "Korpen Sickla Seniorer",
+      "orgNumber": "802532-4206",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/sicklaseniorer"
+    },
+    {
       "entry": 1236295463,
       "orgName": "Anneberg Solberga Flisby Missionsf\u00f6rsamlingar",
       "orgNumber": "827000-3638",
@@ -99258,6 +99713,17 @@
         "utbildning"
       ],
       "web": "https://sundbergshundtjanst.se/"
+    },
+    {
+      "entry": 1236359772,
+      "orgName": "Korpen Gotland",
+      "orgNumber": "834001-0274",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpengotland"
     },
     {
       "entry": 1236359798,
@@ -106455,6 +106921,30 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://www.kkl.nu/"
+    },
+    {
+      "entry": 1236838106,
+      "orgName": "Korpen Vattenfall IF Motala",
+      "orgNumber": "802422-2773",
+      "comment": null,
+      "categories": [
+        "badmintonklubb",
+        "bordtennisklubb",
+        "bowlingklubb",
+        "cykelklubb",
+        "discgolfklubb",
+        "fotbollsklubb",
+        "golfklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "jaktskytteklubb",
+        "korpenf\u00f6rening",
+        "l\u00f6parklubb",
+        "orienteringsklubb",
+        "padelklubb",
+        "simklubb"
+      ],
+      "web": "https://www.korpen.se/vattenfall-if-motala"
     },
     {
       "entry": 1236838601,
