@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-19-rev-235658",
+    "date": "2024-07-22-rev-203608",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2211,6 +2211,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://ryd.scout.se/"
+    },
+    {
+      "entry": 1230133520,
+      "orgName": "J\u00e4garvallens Byalag",
+      "orgNumber": "802505-5826",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "http://www.jagarvallensbyalag.se/"
     },
     {
       "entry": 1230133744,
@@ -4550,6 +4560,16 @@
         "musik"
       ],
       "web": "https://www.youtube.com/@livemusikuf5054"
+    },
+    {
+      "entry": 1230273011,
+      "orgName": "Jonstorps Byalag",
+      "orgNumber": "802451-5408",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://jonstorp.se/"
     },
     {
       "entry": 1230274845,
@@ -7508,6 +7528,16 @@
       "web": "https://www.friskissvettis.se/markaryd"
     },
     {
+      "entry": 1230427773,
+      "orgName": "Jugansbo Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "879500-2503",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://jugansbo.com/"
+    },
+    {
       "entry": 1230428045,
       "orgName": "Equmeniakyrkan i Surte",
       "orgNumber": "863500-0972",
@@ -7855,8 +7885,7 @@
       "orgNumber": "802493-4070",
       "comment": null,
       "categories": [
-        "bygdeg\u00e5rdsf\u00f6rening",
-        "f\u00f6rening"
+        "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://torpsbygdegard.se/"
     },
@@ -13249,6 +13278,16 @@
       "web": "https://www.protectourwinters.se/"
     },
     {
+      "entry": 1230796318,
+      "orgName": "Lilla Beddinge Byalag",
+      "orgNumber": "802436-5366",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.lillabeddingebyalag.se/"
+    },
+    {
       "entry": 1230796961,
       "orgName": "Rudolfsons Trafikskola",
       "orgNumber": "556904-1998",
@@ -14515,6 +14554,16 @@
         "bokhandel"
       ],
       "web": "http://hedengrens.se/"
+    },
+    {
+      "entry": 1230857540,
+      "orgName": "Verk\u00f6 byalag",
+      "orgNumber": "802472-8209",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.fb.me/verkobyalag"
     },
     {
       "entry": 1230857748,
@@ -16760,6 +16809,16 @@
         "innebandyklubb"
       ],
       "web": "https://www.svenskalag.se/smogensif"
+    },
+    {
+      "entry": 1230985200,
+      "orgName": "Nydala Byalag",
+      "orgNumber": "828001-0474",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://nydala.com/"
     },
     {
       "entry": 1230985242,
@@ -21060,6 +21119,16 @@
       "web": "https://kvinnojourenonline.se/"
     },
     {
+      "entry": 1231235951,
+      "orgName": "Arilds Byalag",
+      "orgNumber": "843001-4087",
+      "comment": "Arildsboken",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://arild.se/"
+    },
+    {
       "entry": 1231235985,
       "orgName": "Eker\u00f6 IK",
       "orgNumber": "815200-6642",
@@ -23174,6 +23243,16 @@
       "web": "https://www.kirunajaktochfiske.se/"
     },
     {
+      "entry": 1231355882,
+      "orgName": "Redslareds Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "765000-2160",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://redslared.se/"
+    },
+    {
       "entry": 1231356104,
       "orgName": "Podden De assimilerade / Robin Tingl\u00f6f",
       "orgNumber": "750812-XXXX",
@@ -23758,6 +23837,16 @@
         "ridklubb"
       ],
       "web": "https://www.fjallstallet.se/"
+    },
+    {
+      "entry": 1231391960,
+      "orgName": "Borgehage Byalag",
+      "orgNumber": "642331-6345",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.borgehage.se/"
     },
     {
       "entry": 1231392059,
@@ -26957,6 +27046,16 @@
       "web": "https://www.spfseniorerna.se/distrikt/kalmardistriktet/foreningslista/spf-seniorerna-emmaboda/"
     },
     {
+      "entry": 1231583616,
+      "orgName": "Gl\u00f6te Byalag",
+      "orgNumber": "893202-0483",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.glotebyalag.se/"
+    },
+    {
       "entry": 1231583871,
       "orgName": "F\u00e4rgelanda-H\u00f6gs\u00e4ters F\u00f6rsamling",
       "orgNumber": "252005-0143",
@@ -27477,6 +27576,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.hunnebostrandsbildarkiv.se/"
+    },
+    {
+      "entry": 1231612605,
+      "orgName": "Glemminge Byalag",
+      "orgNumber": "848001-0845",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://glemmingebro.eu/"
     },
     {
       "entry": 1231612613,
@@ -28456,6 +28565,16 @@
         "golfklubb"
       ],
       "web": "https://orebrogolf.se/"
+    },
+    {
+      "entry": 1231680727,
+      "orgName": "N\u00e4shults Hembygdsf\u00f6rening",
+      "orgNumber": "827500-3716",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.nashultsbygdegard.se/"
     },
     {
       "entry": 1231682954,
@@ -31338,6 +31457,16 @@
         "golfklubb"
       ],
       "web": "https://www.ljgk.se/"
+    },
+    {
+      "entry": 1231847698,
+      "orgName": "Byalaget p\u00e5 Kivik",
+      "orgNumber": "802468-3669",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://byalagetpakivik.se/"
     },
     {
       "entry": 1231848173,
@@ -41876,6 +42005,16 @@
       "web": "https://www.phoenixmottagningen.nu/"
     },
     {
+      "entry": 1232532372,
+      "orgName": "Byalag 1050",
+      "orgNumber": "802527-9046",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://byalag1050.se/"
+    },
+    {
       "entry": 1232532455,
       "orgName": "Advokatfirman Nodby AB",
       "orgNumber": "559233-8783",
@@ -43014,6 +43153,16 @@
         "golfklubb"
       ],
       "web": "https://www.lannagk.se/"
+    },
+    {
+      "entry": 1232626042,
+      "orgName": "Svarte Byalag",
+      "orgNumber": "848001-0613",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://svarte.se/"
     },
     {
       "entry": 1232626968,
@@ -49919,6 +50068,16 @@
       "web": "https://www.nykopingskonstforening.nu/"
     },
     {
+      "entry": 1233038239,
+      "orgName": "G\u00e5xsj\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "802433-8041",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.upplevgaxsjo.se/"
+    },
+    {
       "entry": 1233040318,
       "orgName": "Gr\u00f6dinge SK",
       "orgNumber": "812800-3764",
@@ -52584,6 +52743,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/partille"
+    },
+    {
+      "entry": 1233214228,
+      "orgName": "Krokshultsbygdens byalag",
+      "orgNumber": "832801-0593",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.krokshultsbygden.se/"
     },
     {
       "entry": 1233214327,
@@ -56321,6 +56490,16 @@
       "web": "https://www.svenskalag.se/egnahemsbk"
     },
     {
+      "entry": 1233453388,
+      "orgName": "Billeberga Byalag",
+      "orgNumber": "802459-7497",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://billebergaby.se/"
+    },
+    {
       "entry": 1233453594,
       "orgName": "Top of Arjeplog / Midsommarviken Maria S\u00f6derberg AB",
       "orgNumber": "556440-0827",
@@ -56787,6 +56966,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-seniorerna-breared/"
+    },
+    {
+      "entry": 1233469152,
+      "orgName": "Vanstads Byalag",
+      "orgNumber": "848001-0886",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://vanstadbyalag.se/"
     },
     {
       "entry": 1233469293,
@@ -60950,6 +61139,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1233743119,
+      "orgName": "Vibygger\u00e5 Byalag",
+      "orgNumber": "802525-2282",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.vibyggera.se/"
+    },
+    {
       "entry": 1233745551,
       "orgName": "Svenska Hundklubben, S\u00f6dert\u00e4lje",
       "orgNumber": "815600-8537",
@@ -61956,6 +62155,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-sodertalje/foreningar/jarna-vardinge.html"
+    },
+    {
+      "entry": 1233826757,
+      "orgName": "Byggnadsf\u00f6reningen \u00c5-g\u00e5rden i Vollsj\u00f6",
+      "orgNumber": "748000-0442",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://agarden.se/"
     },
     {
       "entry": 1233827029,
@@ -66484,6 +66693,16 @@
       "web": "https://www.hembygd.se/herrljunga"
     },
     {
+      "entry": 1234136438,
+      "orgName": "N\u00e4shults Hembygdsf\u00f6rening",
+      "orgNumber": "827500-3716",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.nashultsbygdegard.se/"
+    },
+    {
       "entry": 1234136560,
       "orgName": "\u00c5by NSF Scoutk\u00e5r",
       "orgNumber": "825003-0429",
@@ -70701,6 +70920,16 @@
       "web": "https://www.bottnarydsif.se/"
     },
     {
+      "entry": 1234418216,
+      "orgName": "Hagge Byalag",
+      "orgNumber": "883800-8251",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.haggebyalag.se/"
+    },
+    {
       "entry": 1234418638,
       "orgName": "IF Tymer",
       "orgNumber": "866600-0727",
@@ -70710,6 +70939,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/iftymer"
+    },
+    {
+      "entry": 1234419271,
+      "orgName": "Latorps Byalag",
+      "orgNumber": "875003-0879",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.latorpsbyalag.se/"
     },
     {
       "entry": 1234419669,
@@ -77571,6 +77810,16 @@
       "web": "https://iogtlinkoping.se/"
     },
     {
+      "entry": 1234940979,
+      "orgName": "Sandviks Byalag",
+      "orgNumber": "802518-4220",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.sandviksbyalag.se/"
+    },
+    {
       "entry": 1234941027,
       "orgName": "Anderstorps OK",
       "orgNumber": "828500-0066",
@@ -81297,6 +81546,16 @@
       "web": "https://www.hembygd.se/harlunda-bjarka"
     },
     {
+      "entry": 1235141403,
+      "orgName": "Arilds Byalag",
+      "orgNumber": "843001-4087",
+      "comment": "\u00d6vriga evenemang",
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://arild.se/"
+    },
+    {
       "entry": 1235141718,
       "orgName": "Vi i Maglehem, VIM",
       "orgNumber": "802518-9707",
@@ -82612,6 +82871,16 @@
         "schacks\u00e4llskap"
       ],
       "web": "https://lass.no-ip.com/"
+    },
+    {
+      "entry": 1235219993,
+      "orgName": "R\u00e5\u00e5 Byalag",
+      "orgNumber": "802463-4936",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.facebook.com/raabyalag/"
     },
     {
       "entry": 1235220173,
@@ -85307,6 +85576,16 @@
         "h\u00e4stsport"
       ],
       "web": "https://hovvardare.wordpress.com/"
+    },
+    {
+      "entry": 1235394937,
+      "orgName": "Mellby Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "869001-1310",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/mellby/"
     },
     {
       "entry": 1235395538,
@@ -90206,6 +90485,16 @@
       "web": "https://vasterorttrafikskola.se/"
     },
     {
+      "entry": 1235695531,
+      "orgName": "S\u00e4tila Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "802440-4355",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://satilabygdegard.se/"
+    },
+    {
       "entry": 1235696356,
       "orgName": "PRO Sv\u00e4rdsj\u00f6",
       "orgNumber": "883201-8959",
@@ -93496,6 +93785,16 @@
       "web": "https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-alingsas/foreningar/alingsas.html"
     },
     {
+      "entry": 1235903802,
+      "orgName": "Abbek\u00e5s Byalag",
+      "orgNumber": "802441-5229",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://abbekasbyalag.se/"
+    },
+    {
       "entry": 1235904073,
       "orgName": "Mossens BK",
       "orgNumber": "857203-0545",
@@ -94591,6 +94890,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235981139,
+      "orgName": "Edeb\u00e4cks Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "872800-2950",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://edeback.se/"
     },
     {
       "entry": 1235981436,
@@ -97844,6 +98153,16 @@
       "web": "https://www.hkceres.se/"
     },
     {
+      "entry": 1236185565,
+      "orgName": "R\u00f6rs Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "802436-4831",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.rorsbygdegard.se/"
+    },
+    {
       "entry": 1236185813,
       "orgName": "Oskarshamns AIK",
       "orgNumber": "832800-1287",
@@ -98031,6 +98350,16 @@
         "eventarrang\u00f6r"
       ],
       "web": "http://ikonevents.se/"
+    },
+    {
+      "entry": 1236198774,
+      "orgName": "Fyllingarums Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "825002-6880",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/fyllingarum/"
     },
     {
       "entry": 1236202592,
@@ -102942,6 +103271,16 @@
       "web": "https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-lycksele/foreningar/lycksele.html"
     },
     {
+      "entry": 1236532311,
+      "orgName": "Sj\u00f6rup-Vall\u00f6sa Byalag",
+      "orgNumber": "802532-7902",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.sjorupvallosabyalag.se/"
+    },
+    {
       "entry": 1236532386,
       "orgName": "Cancergalan / Karin W\u00f6yer Amcoff",
       "orgNumber": "580907-XXXX",
@@ -102951,6 +103290,16 @@
         "st\u00f6dverksamhet"
       ],
       "web": null
+    },
+    {
+      "entry": 1236532501,
+      "orgName": "BRF Stabbyg\u00e5rdarna",
+      "orgNumber": "717600-3171",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://stabbyg\u00e5rdarna.se/"
     },
     {
       "entry": 1236533194,
@@ -105515,13 +105864,13 @@
     },
     {
       "entry": 1236712624,
-      "orgName": "Byggnads Norrbotten",
+      "orgName": "Byggnads",
       "orgNumber": "897000-3078",
       "comment": null,
       "categories": [
         "facklig organisation"
       ],
-      "web": "https://www.byggnads.se/regioner/norrbotten/"
+      "web": "https://www.byggnads.se/"
     },
     {
       "entry": 1236712640,
@@ -108144,6 +108493,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236879894,
+      "orgName": "Ingareds byalag",
+      "orgNumber": "864000-8655",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.ingaredsbyalag.se/"
     },
     {
       "entry": 1236879910,
