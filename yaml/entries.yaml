@@ -207,6 +207,15 @@ entries:
   - förbund
   web: https://neuro.se/skelleftea
 
+- entry: 1230008722
+  orgName: Örebro Syrianska IF Ungdom
+  orgNumber: 802489-0207
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/OSIF/
+
 - entry: 1230008797
   orgName: Apelviksstrand
   orgNumber: 556943-2056
@@ -6682,6 +6691,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/stigtomta-vrena
 
+- entry: 1230471490
+  orgName: Visby Roma HK Ungdom
+  orgNumber: 802453-0241
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.vru.se/
+
 - entry: 1230471631
   orgName: Hullsjöns Bygdegårdsförening
   orgNumber: 889202-7460
@@ -6972,6 +6990,15 @@ entries:
   - hotell
   - restaurant
   web: https://langberget.se/
+
+- entry: 1230489575
+  orgName: OK Renen
+  orgNumber: 897000-5552
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.laget.se/OKRenen/
 
 - entry: 1230490425
   orgName: IFK Skövde SK
@@ -7566,6 +7593,18 @@ entries:
   - camping
   - livsstil
   web: https://www.vanlifesverige.se/
+
+- entry: 1230540005
+  orgName: Strömsbro IF
+  orgNumber: 885000-2679
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  - ishockeyklubb
+  - padelklubb
+  web: https://www.laget.se/StromsbroIF/
 
 - entry: 1230540146
   orgName: Linköping Football Club
@@ -9257,6 +9296,15 @@ entries:
   - kampsportsförening
   web: https://hogdalensbudoklubb.se/
 
+- entry: 1230690297
+  orgName: Kärra HF
+  orgNumber: 857207-0863
+  comment: null
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.karrahf.se/
+
 - entry: 1230690537
   orgName: SPF Seniorerna Araslöv
   orgNumber: 802496-4036
@@ -10710,6 +10758,15 @@ entries:
   categories:
   - betting
   web: https://twitter.com/danielsbetting
+
+- entry: 1230776278
+  orgName: Säters IF FK
+  orgNumber: 882601-6332
+  comment: F 06-08
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/SatersIFFK/
 
 - entry: 1230776740
   orgName: Tobo GK
@@ -12864,6 +12921,15 @@ entries:
   - bridgeklubb
   web: https://www.svenskbridge.se/bk-albrekts
 
+- entry: 1230910935
+  orgName: Strömsbro IF
+  orgNumber: 885000-2679
+  comment: J18
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/StromsbroIF/
+
 - entry: 1230910943
   orgName: Strömsbro IF
   orgNumber: 885000-2679
@@ -13734,6 +13800,15 @@ entries:
   - eventarrangör
   - ungdomsverksamhet
   web: https://lundalek.com/
+
+- entry: 1230970103
+  orgName: Strömsbro IF
+  orgNumber: 885000-2679
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/StromsbroIF/
 
 - entry: 1230970384
   orgName: Lundsberg Bygdegårdsförening
@@ -17271,6 +17346,15 @@ entries:
   - idrottsförening
   - mountainbikeklubb
   web: https://www.svenskalag.se/ckw
+
+- entry: 1231224534
+  orgName: Älvkarleby Golfklubb
+  orgNumber: 817301-1860
+  comment: Grön grupp
+  categories:
+  - golfklubb
+  - idrottsförening
+  web: https://www.laget.se/AlvkarlebyGK/
 
 - entry: 1231224567
   orgName: Friluftsfrämjandet Ljungskile
@@ -25569,6 +25653,16 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.svenskalag.se/ornskoldsvikhockey
+
+- entry: 1231813468
+  orgName: Sandareds IF
+  orgNumber: 864500-4691
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - padelklubb
+  web: https://www.sandaredsif.se/
 
 - entry: 1231813534
   orgName: Redhawks Support
@@ -34238,6 +34332,15 @@ entries:
   - skidlöparklubb
   web: https://www.svenskalag.se/limaif
 
+- entry: 1232452844
+  orgName: Skiljebo SK
+  orgNumber: 878000-4480
+  comment: F-14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/SkiljeboSK/
+
 - entry: 1232452845
   orgName: Mörrums GoIS FK
   orgNumber: 836200-8438
@@ -34662,6 +34765,15 @@ entries:
   categories:
   - opinionsbildning
   web: null
+
+- entry: 1232511277
+  orgName: KIF Örebro DFF
+  orgNumber: 875001-3800
+  comment: F2014
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.kiforebro.se/
 
 - entry: 1232512077
   orgName: Älekulla Bygdegårdsförening-Byalag
@@ -37731,6 +37843,15 @@ entries:
   - tennisklubb
   web: https://www.annebergsgif.se/
 
+- entry: 1232740322
+  orgName: Strömsbro IF
+  orgNumber: 885000-2679
+  comment: J18
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/StromsbroIF/
+
 - entry: 1232740553
   orgName: Stjärnholms Ryttarförening
   orgNumber: 819000-6026
@@ -39356,6 +39477,15 @@ entries:
   - rotaryklubb
   web: https://hammenhog.rotary2390.se/
 
+- entry: 1232859494
+  orgName: Söderköpings OK
+  orgNumber: 825002-2004
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.laget.se/SoderkopingsOK/
+
 - entry: 1232861532
   orgName: Åhus Församling
   orgNumber: 252001-0055
@@ -39980,6 +40110,15 @@ entries:
   categories:
   - lionsklubb
   web: https://www.lionsstaffanstorp.se/
+
+- entry: 1232904258
+  orgName: BKV Norrtälje
+  orgNumber: 814400-5033
+  comment: U17/P02
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/BKVNorrtalje/
 
 - entry: 1232904274
   orgName: Sisam Kult / Sisam-Sandarne i Samverkan
@@ -48516,6 +48655,16 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/nordmark
 
+- entry: 1233551652
+  orgName: Sandareds IF
+  orgNumber: 864500-4691
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - padelklubb
+  web: https://www.sandaredsif.se/
+
 - entry: 1233553344
   orgName: Sätila Församling
   orgNumber: 252001-6334
@@ -50428,6 +50577,15 @@ entries:
   - hästsport
   - ridklubb
   web: https://abyridcenter.se/
+
+- entry: 1233717311
+  orgName: Örebro Syrianska IF Ungdom
+  orgNumber: 802489-0207
+  comment: P2014
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/OSIF/
 
 - entry: 1233717378
   orgName: Söndrums Tennisklubb
@@ -61873,6 +62031,15 @@ entries:
   - konståkningsklubb
   web: https://www.laget.se/GnestaIK/
 
+- entry: 1234658480
+  orgName: Skedvi-Säter IF, SSIF
+  orgNumber: 882601-8692
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/SSIF/
+
 - entry: 1234659025
   orgName: Älvsby IF SK
   orgNumber: 802427-5599
@@ -65626,6 +65793,15 @@ entries:
   - förening
   web: https://www.solleron.se/
 
+- entry: 1235014220
+  orgName: Borås Bandy
+  orgNumber: 802511-7519
+  comment: null
+  categories:
+  - bandyklubb
+  - idrottsförening
+  web: https://www.laget.se/BorasBandy/
+
 - entry: 1235014428
   orgName: Näthatsgranskaren
   orgNumber: 802511-3310
@@ -67242,6 +67418,15 @@ entries:
   - mountainbikeklubb
   web: https://www.svenskalag.se/orreforsif
 
+- entry: 1235125638
+  orgName: Adolfsbergs IK
+  orgNumber: 875001-0996
+  comment: P2012
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/AdolfsbergsIK/
+
 - entry: 1235126149
   orgName: Therese Lind
   orgNumber: 820927-XXXX
@@ -67527,6 +67712,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/husbyarlinghundra
+
+- entry: 1235137641
+  orgName: BKV Norrtälje
+  orgNumber: 814400-5033
+  comment: U17
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/BKVNorrtalje/
 
 - entry: 1235138169
   orgName: IFK Skövde FK
@@ -72613,6 +72807,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/gislaved
+
+- entry: 1235521653
+  orgName: Örebro Syrianska IF Ungdom
+  orgNumber: 802489-0207
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/OSIF/
 
 - entry: 1235522909
   orgName: Hotell Royal i Göteborg AB
@@ -80955,6 +81158,15 @@ entries:
   - konstförening
   web: https://nhkf.se/
 
+- entry: 1236161236
+  orgName: Örebro Syrianska IF Ungdom
+  orgNumber: 802489-0207
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/OSIF/
+
 - entry: 1236161277
   orgName: Liljeholmens folkhögskola
   orgNumber: 823902-0020
@@ -81670,6 +81882,16 @@ entries:
   - alpinklubb
   - idrottsförening
   web: https://www.svenskalag.se/vifalpina
+
+- entry: 1236209100
+  orgName: Alsike IF
+  orgNumber: 817601-5892
+  comment: null
+  categories:
+  - fotbollsklubb
+  - futsalklubb
+  - idrottsförening
+  web: https://www.laget.se/AlsikeIF/
 
 - entry: 1236210199
   orgName: Sävsjöortens JVF
@@ -83578,6 +83800,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.tvaakersif.se/
+
+- entry: 1236358402
+  orgName: Örebro Syrianska IF Ungdom
+  orgNumber: 802489-0207
+  comment: P2012
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/OSIF/
 
 - entry: 1236358618
   orgName: Vimmerby Idrottsförening
@@ -88575,6 +88806,15 @@ entries:
   - fiskevård
   - intresseförening
   web: https://www.torrbergstjarn.se/
+
+- entry: 1236763775
+  orgName: HA74
+  orgNumber: 827500-4441
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/HA_74/
 
 - entry: 1236764203
   orgName: Föreningen Hjälp Utsatta Katter få Hem
