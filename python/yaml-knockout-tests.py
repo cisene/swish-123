@@ -180,6 +180,8 @@ def testEntries(entries):
   result = {
     'malformed-vo': [],
     'malformed-orgName': [],
+    'malformed-orgName-uppercase': [],
+    'malformed-orgName-lowercase': [],
     'malformed-orgNumber': [],
     'malformed-orgNumberUnmasked': [],
 
@@ -234,12 +236,19 @@ def testEntries(entries):
         if malformed_orgName == True:
           result['malformed-orgName'].append(entryVO)
 
+        # orgName - All uppercase test
+        if entryVO['orgName'] != None:
+          if entryVO['orgName'] == entryVO['orgName'].upper():
+            result['malformed-orgName-uppercase'].append(entryVO)
+
+        # orgName - All lowercase test
+        if entryVO['orgName'] != None:
+          if entryVO['orgName'] == entryVO['orgName'].lower():
+            result['malformed-orgName-lowercase'].append(entryVO)
 
 
         # Detect malformed or missing orgNumbers
         malformed_orgNumber = False
-        #if entryVO['orgNumber'] == None:
-        #  malformed_orgNumber = True
 
         if entryVO['orgNumber'] != None:
           tested = testIsValidOrgNumber(entryVO['orgNumber'])
