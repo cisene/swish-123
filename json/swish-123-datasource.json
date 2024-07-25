@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-25-rev-172211",
+    "date": "2024-07-25-rev-173901",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8925,6 +8925,18 @@
       "web": "https://www.sanktfranciskus.se/"
     },
     {
+      "entry": 1230509752,
+      "orgName": "M\u00e4lardalens R\u00f6r & Montage AB",
+      "orgNumber": "556784-8360",
+      "comment": null,
+      "categories": [
+        "installation",
+        "reparationer",
+        "vattenv\u00e5rd"
+      ],
+      "web": "http://mrmab.se/"
+    },
+    {
       "entry": 1230509943,
       "orgName": "\u00c5rj\u00e4ngs Golfklubb",
       "orgNumber": "874400-8015",
@@ -14734,6 +14746,17 @@
       "web": "https://www.hlmhastsport.se/"
     },
     {
+      "entry": 1230856849,
+      "orgName": "Atracco Valla / Atracco Group AB",
+      "orgNumber": "556798-0932",
+      "comment": null,
+      "categories": [
+        "fordonsutrustning",
+        "reparationer"
+      ],
+      "web": "https://atracco.se/anlaggningar/atracco-valla/"
+    },
+    {
       "entry": 1230856856,
       "orgName": "Karlshamns Ridklubb",
       "orgNumber": "836200-5111",
@@ -16978,6 +17001,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://lysekilsvanner.se/"
+    },
+    {
+      "entry": 1230980623,
+      "orgName": "Sj\u00e4lglans Ideella F\u00f6rening",
+      "orgNumber": "802514-0727",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://sjalglans.se/"
     },
     {
       "entry": 1230980789,
@@ -20185,6 +20218,18 @@
         "vintersport"
       ],
       "web": "https://oregrundik.se/"
+    },
+    {
+      "entry": 1231166966,
+      "orgName": "Svenska OCD-f\u00f6rbundet",
+      "orgNumber": "878001-4687",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "intressef\u00f6rening",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://ocdforbundet.se/"
     },
     {
       "entry": 1231166974,
@@ -34785,6 +34830,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://frodingebygdegard.se/"
+    },
+    {
+      "entry": 1232055309,
+      "orgName": "HairAgain Nordic AB",
+      "orgNumber": "559284-9854",
+      "comment": null,
+      "categories": [
+        "h\u00e5rv\u00e5rd"
+      ],
+      "web": "https://www.hairagain.se/"
     },
     {
       "entry": 1232056778,
@@ -61752,6 +61807,16 @@
       "web": "https://www.malbas.com/"
     },
     {
+      "entry": 1233735545,
+      "orgName": "Kyrkornas Omsorgscentrum",
+      "orgNumber": "802446-3559",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://helamanniskan.se/kungalv/"
+    },
+    {
       "entry": 1233735735,
       "orgName": "Barseb\u00e4cks Bygdeg\u00e5rd",
       "orgNumber": "845002-1806",
@@ -64538,6 +64603,17 @@
       "web": "https://ubhk.se/"
     },
     {
+      "entry": 1233912409,
+      "orgName": "Ekwall Rullar / Br\u00f6stcancerf\u00f6rbundet",
+      "orgNumber": "802010-4264",
+      "comment": "Ekwall Rullar",
+      "categories": [
+        "cancerforskning",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.ekwallrullar.se/"
+    },
+    {
       "entry": 1233912706,
       "orgName": "Sweden Help East, SHELPE",
       "orgNumber": "802539-3250",
@@ -66472,6 +66548,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1234054359,
+      "orgName": "AjaBajaCancer",
+      "orgNumber": "802515-8802",
+      "comment": null,
+      "categories": [
+        "cancerforskning",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.ajabajacancer.se/"
+    },
+    {
       "entry": 1234055505,
       "orgName": "Audiorama",
       "orgNumber": "769636-5464",
@@ -66889,6 +66976,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/Fjugesta_IF/"
+    },
+    {
+      "entry": 1234100004,
+      "orgName": "Potatisbilarna AB",
+      "orgNumber": "556432-3599",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "hemleverans"
+      ],
+      "web": "http://www.potatisbilarna.se/"
     },
     {
       "entry": 1234101572,
@@ -71575,6 +71673,17 @@
       "web": "https://www.fralsningsarmen.se/skelleftea/"
     },
     {
+      "entry": 1234408290,
+      "orgName": "Ulricehamns IF",
+      "orgNumber": "865500-3385",
+      "comment": "Skidsektionen",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.uif.se/"
+    },
+    {
       "entry": 1234408480,
       "orgName": "Tr\u00e4sl\u00f6vsl\u00e4ge IF",
       "orgNumber": "849600-1374",
@@ -74802,6 +74911,17 @@
       "web": "https://teaterkoren.se/"
     },
     {
+      "entry": 1234629143,
+      "orgName": "Milj\u00f6magasinet Alternativet Aktiebolag",
+      "orgNumber": "556455-7774",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "n\u00e4rproducerat"
+      ],
+      "web": "https://www.miljomagasinet.se/"
+    },
+    {
       "entry": 1234629390,
       "orgName": "Aktiva Seniorer Nyk\u00f6ping & Oxel\u00f6sund",
       "orgNumber": "003113-7995",
@@ -76529,6 +76649,17 @@
         "utbildning"
       ],
       "web": "http://www.soshund.se/"
+    },
+    {
+      "entry": 1234718177,
+      "orgName": "Sk\u00f6vdehem Arena AB / Billingen Sk\u00f6vde",
+      "orgNumber": "559158-2290",
+      "comment": null,
+      "categories": [
+        "idrottsplats",
+        "sportarena"
+      ],
+      "web": "https://www.vastsverige.com/billingen/"
     },
     {
       "entry": 1234718243,
@@ -79444,6 +79575,17 @@
         "padelklubb"
       ],
       "web": "https://www.svenskalag.se/helsingpadel"
+    },
+    {
+      "entry": 1234980496,
+      "orgName": "Frihet och H\u00e4lsa / Nuidag.se",
+      "orgNumber": "802463-6543",
+      "comment": "Skola",
+      "categories": [
+        "skola",
+        "utbildning"
+      ],
+      "web": "https://frihetochhalsa.se/"
     },
     {
       "entry": 1234983466,
@@ -85667,6 +85809,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.svenskkniv.se/"
+    },
+    {
+      "entry": 1235345004,
+      "orgName": "Reklambyr\u00e5n Stt AB",
+      "orgNumber": "556512-6512",
+      "comment": null,
+      "categories": [
+        "reklam",
+        "reklambyr\u00e5"
+      ],
+      "web": "https://stthuset.com/"
     },
     {
       "entry": 1235345178,
@@ -93897,6 +94050,16 @@
       "web": "http://degerfors.pingst.se/"
     },
     {
+      "entry": 1235843271,
+      "orgName": "Rotary \u00c5storp",
+      "orgNumber": "837600-7095",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://rotary2400.se/clubinfo/astorp-13274"
+    },
+    {
       "entry": 1235843750,
       "orgName": "V\u00e4stra Husby Hembygdsf\u00f6rening",
       "orgNumber": "802443-9724",
@@ -94139,6 +94302,16 @@
         "religion"
       ],
       "web": "https://www.solangskolan.se/"
+    },
+    {
+      "entry": 1235859954,
+      "orgName": "Rotary \u00c5storp",
+      "orgNumber": "837600-7095",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/15015"
     },
     {
       "entry": 1235860093,

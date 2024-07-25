@@ -3618,7 +3618,9 @@ entries:
   orgName: Tidningen Se Hit
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - lokaltidning
+  - tidsskrifter
   web: https://www.se-hit.se/
 
 - entry: 1230263103
@@ -7356,7 +7358,10 @@ entries:
   orgName: Mälardalens Rör & Montage AB
   orgNumber: 556784-8360
   comment: null
-  categories: null
+  categories:
+  - installation
+  - reparationer
+  - vattenvård
   web: http://mrmab.se/
 
 - entry: 1230509844
@@ -12118,7 +12123,9 @@ entries:
   orgName: Atracco Valla / Atracco Group AB
   orgNumber: 556798-0932
   comment: null
-  categories: null
+  categories:
+  - fordonsutrustning
+  - reparationer
   web: https://atracco.se/anlaggningar/atracco-valla/
 
 - entry: 1230856856
@@ -13993,7 +14000,8 @@ entries:
   orgName: Själglans Ideella Förening
   orgNumber: 802514-0727
   comment: null
-  categories: null
+  categories:
+  - intresseförening
   web: https://sjalglans.se/
 
 - entry: 1230980789
@@ -16637,7 +16645,10 @@ entries:
   orgName: Svenska OCD-förbundet
   orgNumber: 878001-4687
   comment: null
-  categories: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
   web: https://ocdforbundet.se/
 
 - entry: 1231166974
@@ -28639,7 +28650,8 @@ entries:
   orgName: HairAgain Nordic AB
   orgNumber: 559284-9854
   comment: null
-  categories: null
+  categories:
+  - hårvård
   web: https://www.hairagain.se/
 
 - entry: 1232056778
@@ -42507,7 +42519,8 @@ entries:
   orgName: SKPF Pensionärerna avd 126 Arvidsjaur
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - pensionärsklubb
   web: https://www.skpf.se/avdelningar/distrikt-norrbottens-lan/arvidsjaur-avd-126/
 
 - entry: 1233096963
@@ -50877,7 +50890,8 @@ entries:
   orgName: Kyrkornas Omsorgscentrum
   orgNumber: 802446-3559
   comment: null
-  categories: null
+  categories:
+  - religion
   web: https://helamanniskan.se/kungalv/
 
 - entry: 1233735735
@@ -53177,7 +53191,9 @@ entries:
   orgName: Ekwall Rullar / Bröstcancerförbundet
   orgNumber: 802010-4264
   comment: Ekwall Rullar
-  categories: null
+  categories:
+  - cancerforskning
+  - intresseförening
   web: https://www.ekwallrullar.se/
 
 - entry: 1233912706
@@ -54785,7 +54801,9 @@ entries:
   orgName: AjaBajaCancer
   orgNumber: 802515-8802
   comment: null
-  categories: null
+  categories:
+  - cancerforskning
+  - intresseförening
   web: http://www.ajabajacancer.se/
 
 - entry: 1234055505
@@ -55137,7 +55155,9 @@ entries:
   orgName: Potatisbilarna AB
   orgNumber: 556432-3599
   comment: null
-  categories: null
+  categories:
+  - försäljning
+  - hemleverans
   web: http://www.potatisbilarna.se/
 
 - entry: 1234101572
@@ -59014,7 +59034,9 @@ entries:
   orgName: Ulricehamns IF
   orgNumber: 865500-3385
   comment: Skidsektionen
-  categories: null
+  categories:
+  - idrottsförening
+  - skidlöparklubb
   web: https://www.uif.se/
 
 - entry: 1234408480
@@ -61668,7 +61690,9 @@ entries:
   orgName: Miljömagasinet Alternativet Aktiebolag
   orgNumber: 556455-7774
   comment: null
-  categories: null
+  categories:
+  - försäljning
+  - närproducerat
   web: https://www.miljomagasinet.se/
 
 - entry: 1234629390
@@ -63091,7 +63115,9 @@ entries:
   orgName: Skövdehem Arena AB / Billingen Skövde
   orgNumber: 559158-2290
   comment: null
-  categories: null
+  categories:
+  - idrottsplats
+  - sportarena
   web: https://www.vastsverige.com/billingen/
 
 - entry: 1234718243
@@ -65475,7 +65501,9 @@ entries:
   orgName: Frihet och Hälsa / Nuidag.se
   orgNumber: 802463-6543
   comment: Skola
-  categories: null
+  categories:
+  - skola
+  - utbildning
   web: https://frihetochhalsa.se/
 
 - entry: 1234983466
@@ -70616,7 +70644,9 @@ entries:
   orgName: Reklambyrån Stt AB
   orgNumber: 556512-6512
   comment: null
-  categories: null
+  categories:
+  - reklam
+  - reklambyrå
   web: https://stthuset.com/
 
 - entry: 1235345178
@@ -77397,7 +77427,8 @@ entries:
   orgName: Rotary Åstorp
   orgNumber: 837600-7095
   comment: null
-  categories: null
+  categories:
+  - rotaryklubb
   web: https://rotary2400.se/clubinfo/astorp-13274
 
 - entry: 1235843750
@@ -77611,8 +77642,9 @@ entries:
   orgName: Rotary Åstorp
   orgNumber: 837600-7095
   comment: null
-  categories: null
-  web: https://www.söderåsrallyt.se/
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/15015
 
 - entry: 1235860077
   orgName: null
