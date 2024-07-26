@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2024-07-25-rev-173921
+Date: 2024-07-26-rev-174732
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -717,6 +717,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1230434290"><organization><number>559194-9440</number><name>LaxTon Ghost Sweden AB</name></organization><comment/><categories><category type="försäljning"/><category type="partihandel"/><category type="postorder"/></categories><web>https://www.laxton.se/</web></entry>
     <entry number="1230435347"><organization><number>802537-0241</number><name>Team Rynkeby</name></organization><comment>Sjuhärad, Daltorpskolan Kommunikationsklass</comment><categories><category type="cancerforskning"/><category type="forskning"/><category type="hjärnforskning"/></categories><web>https://www.team-rynkeby.se/</web></entry>
     <entry number="1230435354"><organization><number>802470-2451</number><name>Quinnoqraft Sandviken</name></organization><comment/><categories><category type="ideell förening"/></categories><web>https://www.qvinnoqraft-sandviken.se/</web></entry>
+    <entry number="1230436055"><organization><number>559085-1183</number><name>Svenska Inkassogruppen AB</name></organization><comment/><categories><category type="betaltjänster"/><category type="inkasso"/><category type="kredittjänster"/></categories><web>https://www.inkassogruppen.se/</web></entry>
     <entry number="1230437053"><organization><number>802542-5979</number><name>Föreningen Interkultur i Lund</name></organization><comment>Al-Jasmin - Arabisk sektion</comment><categories><category type="intresseförening"/><category type="kulturförening"/></categories><web>https://www.interkultur.nu/</web></entry>
     <entry number="1230438077"><organization><number>802422-9497</number><name>Feministiskt Initiativ</name></organization><comment/><categories><category type="politiskt parti"/></categories><web>https://feministisktinitiativ.se/</web></entry>
     <entry number="1230438093"><organization><number>817602-0637</number><name>Bröstcancerföreningen Uppsala Län</name></organization><comment/><categories><category type="bröstcancer"/><category type="cancer"/><category type="förening"/></categories><web>https://uppsala.brostcancerforbundet.se/</web></entry>
@@ -3070,6 +3071,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1231938984"><organization><number>802504-6551</number><name>Kungsbacka kvinnojour</name></organization><comment/><categories><category type="kvinnojour"/></categories><web>https://kungsbackakvinnojour.se/</web></entry>
     <entry number="1231939008"><organization><number>802413-3624</number><name>SPF Seniorerna Bankeryd</name></organization><comment/><categories><category type="pensionärsklubb"/></categories><web>https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-seniorerna-bankeryd/</web></entry>
     <entry number="1231941863"><organization><number>802543-9228</number><name>Övertorneå församlings vänner</name></organization><comment/><categories><category type="religion"/></categories><web>https://www.svenskakyrkan.se/overtornea/overtornea-forsamlings-vanner-</web></entry>
+    <entry number="1231942242"><organization><number>202100-2346</number><name>Kullabergs Naturreservat / Länsstyrelsen Skåne</name></organization><comment/><categories><category type="länsstyrelse"/><category type="naturvård"/></categories><web>https://www.kullabergsnatur.se/</web></entry>
     <entry number="1231947233"><organization><number>824000-8964</number><name>Solfjäderstaden IBK</name></organization><comment/><categories><category type="idrottsförening"/><category type="innebandyklubb"/></categories><web></web></entry>
     <entry number="1231947902"><organization><number>802458-3190</number><name>Bodens Cykelklubb</name></organization><comment/><categories><category type="cykelklubb"/><category type="idrottsförening"/></categories><web>https://www.svenskalag.se/bodensck</web></entry>
     <entry number="1231948157"><organization><number>869000-4240</number><name>Lidköpings VSK</name></organization><comment>Dagledigas</comment><categories><category type="idrottsförening"/><category type="löparklubb"/><category type="orienteringsklubb"/><category type="skidlöparklubb"/></categories><web>https://www.svenskalag.se/lidkopingsvsk</web></entry>

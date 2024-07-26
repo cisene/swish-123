@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-25-rev-173901",
+    "date": "2024-07-26-rev-174710",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7685,6 +7685,18 @@
         "ideell f\u00f6rening"
       ],
       "web": "https://www.qvinnoqraft-sandviken.se/"
+    },
+    {
+      "entry": 1230436055,
+      "orgName": "Svenska Inkassogruppen AB",
+      "orgNumber": "559085-1183",
+      "comment": null,
+      "categories": [
+        "betaltj\u00e4nster",
+        "inkasso",
+        "kredittj\u00e4nster"
+      ],
+      "web": "https://www.inkassogruppen.se/"
     },
     {
       "entry": 1230437053,
@@ -33148,6 +33160,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/overtornea/overtornea-forsamlings-vanner-"
+    },
+    {
+      "entry": 1231942242,
+      "orgName": "Kullabergs Naturreservat / L\u00e4nsstyrelsen Sk\u00e5ne",
+      "orgNumber": "202100-2346",
+      "comment": null,
+      "categories": [
+        "l\u00e4nsstyrelse",
+        "naturv\u00e5rd"
+      ],
+      "web": "https://www.kullabergsnatur.se/"
     },
     {
       "entry": 1231947233,

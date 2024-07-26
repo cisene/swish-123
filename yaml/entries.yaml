@@ -6334,6 +6334,16 @@ entries:
   - ideell förening
   web: https://www.qvinnoqraft-sandviken.se/
 
+- entry: 1230436055
+  orgName: Svenska Inkassogruppen AB
+  orgNumber: 559085-1183
+  comment: null
+  categories:
+  - betaltjänster
+  - inkasso
+  - kredittjänster
+  web: https://www.inkassogruppen.se/
+
 - entry: 1230437053
   orgName: Föreningen Interkultur i Lund
   orgNumber: 802542-5979
@@ -27269,6 +27279,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/overtornea/overtornea-forsamlings-vanner-
+
+- entry: 1231942242
+  orgName: Kullabergs Naturreservat / Länsstyrelsen Skåne
+  orgNumber: 202100-2346
+  comment: null
+  categories:
+  - länsstyrelse
+  - naturvård
+  web: https://www.kullabergsnatur.se/
 
 - entry: 1231947233
   orgName: Solfjäderstaden IBK
