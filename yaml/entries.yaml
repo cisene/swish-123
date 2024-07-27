@@ -11719,6 +11719,15 @@ entries:
   - simklubb
   web: https://www.sktriton.se/
 
+- entry: 1230835181
+  orgName: BIK Karlskoga Ungdom
+  orgNumber: 875003-1604
+  comment: A-pojk
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.bikkarlskogaungdom.se/
+
 - entry: 1230835884
   orgName: Al-Anon Familjegrupper i Sverige
   orgNumber: 802013-9286
@@ -13187,6 +13196,15 @@ entries:
   - religion
   web: https://hallokapell.com/
 
+- entry: 1230916676
+  orgName: Ope IF
+  orgNumber: 893200-1301
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/OpeIFklubb/
+
 - entry: 1230916718
   orgName: Falken Parasport
   orgNumber: 874001-6046
@@ -13413,6 +13431,15 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.areridklubb.se/
+
+- entry: 1230926519
+  orgName: Visby Roma HK Ungdom
+  orgNumber: 802453-0241
+  comment: Team 10 - U14
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.vru.se/
 
 - entry: 1230926659
   orgName: Storviks IF
@@ -14142,6 +14169,18 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/ifkgrimslov/
+
+- entry: 1230986224
+  orgName: Rånäs 4 H
+  orgNumber: 814400-5777
+  comment: null
+  categories:
+  - 4h
+  - fotbollsklubb
+  - friidrottsförening
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.laget.se/Ranas4H/
 
 - entry: 1230986281
   orgName: Haninge SOK
@@ -15666,6 +15705,15 @@ entries:
   - religion
   web: https://fakalmar.se/
 
+- entry: 1231095405
+  orgName: Vintrosa IS
+  orgNumber: 875001-7983
+  comment: F 12/13
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.vintrosais.se/
+
 - entry: 1231095561
   orgName: Kvinnojouren i Stenungsund
   orgNumber: 802487-8806
@@ -17020,6 +17068,15 @@ entries:
   - idrottsförening
   - korpenförening
   web: https://www.korpenhassleholm.se/
+
+- entry: 1231197458
+  orgName: IF Sundsvall Hockey
+  orgNumber: 889200-9278
+  comment: F13/16
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/SundsvallHockey/
 
 - entry: 1231197896
   orgName: Noretskolan IF
@@ -23623,6 +23680,15 @@ entries:
   - hembygdsförening
   web: https://farsharadshembygdsforening.com/
 
+- entry: 1231658921
+  orgName: Gävle GIK
+  orgNumber: 885000-0889
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.ggikhockey.se/
+
 - entry: 1231659531
   orgName: Uroterapeutisk Förening, UTF
   orgNumber: 857205-6490
@@ -25167,6 +25233,15 @@ entries:
   - samhällsförening
   web: https://www.svenskalag.se/halloween20
 
+- entry: 1231765148
+  orgName: Timrå IK
+  orgNumber: 889200-5870
+  comment: U13
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.timraikus.se/
+
 - entry: 1231765700
   orgName: Williams Syndromförening i Sverige
   orgNumber: 802405-0273
@@ -26371,6 +26446,15 @@ entries:
   categories:
   - scoutkår
   web: https://alvsjo.scout.se/
+
+- entry: 1231853993
+  orgName: KAIS Mora
+  orgNumber: 884401-5126
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/KaisMora/
 
 - entry: 1231854223
   orgName: Västerås Trafikskola
@@ -28698,6 +28782,15 @@ entries:
   - yoga
   web: https://www.yogamedl8.se/priser
 
+- entry: 1232045110
+  orgName: Ope IF
+  orgNumber: 893200-1301
+  comment: P-13
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/OpeIFklubb/
+
 - entry: 1232045573
   orgName: Hällefors Löparklubb
   orgNumber: 802465-1831
@@ -29323,6 +29416,15 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/halmstadhandboll
+
+- entry: 1232111573
+  orgName: KAIS Mora
+  orgNumber: 884401-5126
+  comment: HJ
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/KaisMora/
 
 - entry: 1232112258
   orgName: Eastfield's Linedancers Club
@@ -35227,6 +35329,15 @@ entries:
   - juridiska tjänster
   web: https://www.advokatnodby.se/
 
+- entry: 1232532562
+  orgName: Eskilstuna City FK
+  orgNumber: 818000-4742
+  comment: P14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/EskilstunaCityFK/
+
 - entry: 1232532802
   orgName: Skalets IF
   orgNumber: 802528-3329
@@ -36252,6 +36363,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/viksangskyrkan
+
+- entry: 1232632412
+  orgName: Söderköpings OK
+  orgNumber: 825002-2004
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.laget.se/SOK/
 
 - entry: 1232632503
   orgName: Korpen Storsjön
@@ -43756,6 +43876,15 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/steneby/
 
+- entry: 1233194354
+  orgName: Södertälje Amatörfiskeklubb
+  orgNumber: 815600-5939
+  comment: null
+  categories:
+  - fiskeklubb
+  - sportfiske
+  web: https://www.laget.se/safk/
+
 - entry: 1233194842
   orgName: Boden City FC
   orgNumber: 802520-0778
@@ -45848,6 +45977,18 @@ entries:
   categories:
   - idrottsförening
   web: https://www.laget.se/YIFFF/
+
+- entry: 1233352580
+  orgName: Rånäs 4 H
+  orgNumber: 814400-5777
+  comment: null
+  categories:
+  - 4h
+  - fotbollsklubb
+  - friidrottsförening
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.laget.se/Ranas4H/
 
 - entry: 1233352622
   orgName: Mindful Training i Värnamo / Maria Modeé
@@ -51685,6 +51826,15 @@ entries:
   - melanom
   web: https://melanomforeningen.se/
 
+- entry: 1233800745
+  orgName: Vintrosa IS
+  orgNumber: 875001-7983
+  comment: F 10/11
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.vintrosais.se/
+
 - entry: 1233801909
   orgName: Tingsryds Pastorat
   orgNumber: 252003-8734
@@ -51999,6 +52149,15 @@ entries:
   - kvinnojour
   - transjour
   web: https://www.hbgttj.se/
+
+- entry: 1233827599
+  orgName: Skara HF
+  orgNumber: 868400-7191
+  comment: F10
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/SkaraHF/
 
 - entry: 1233827615
   orgName: Urshults Församling
@@ -53470,6 +53629,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-medelpad/samorganisationer/samorganisation-timra/foreningar/timra.html
+
+- entry: 1233937711
+  orgName: Gävle GIK
+  orgNumber: 885000-0889
+  comment: Team 14
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.ggikhockey.se/
 
 - entry: 1233938693
   orgName: Öjebyns IBF
@@ -59437,6 +59605,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/partille
 
+- entry: 1234424313
+  orgName: Värnamo Hockey
+  orgNumber: 828000-6001
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.varnamohockey.se/
+
 - entry: 1234424768
   orgName: Equmenia Älvsjö
   orgNumber: 802011-0592
@@ -62163,6 +62340,15 @@ entries:
   categories:
   - båtklubb
   web: https://www.svenskalag.se/malarstrandensbk
+
+- entry: 1234648473
+  orgName: Barkarö SK
+  orgNumber: 802415-0966
+  comment: P-14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/BarkaroSK/
 
 - entry: 1234650446
   orgName: Tidningen Proletären
@@ -66501,6 +66687,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-trelleborg/foreningar/trelleborg.html
 
+- entry: 1235048525
+  orgName: Överkalix IF
+  orgNumber: 898200-0914
+  comment: P 10-11-12
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/OverkalixIF/
+
 - entry: 1235048707
   orgName: Nyckelby Bygdegårdsförening
   orgNumber: 802420-0191
@@ -67140,6 +67335,15 @@ entries:
   - racketsport
   - squashklubb
   web: http://www.sundsvallsquashcenter.se/
+
+- entry: 1235104666
+  orgName: Stockaryd-Wrigstad 2010 Innebandyklubb
+  orgNumber: 827500-9697
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/SW_2010/
 
 - entry: 1235104914
   orgName: Bogesundslandets Ryttare - Ridsport
@@ -80858,6 +81062,15 @@ entries:
   - förening
   web: https://amalsweden.com/
 
+- entry: 1236112387
+  orgName: Visby Roma HK Ungdom
+  orgNumber: 802453-0241
+  comment: Team 12 - U12
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.vru.se/
+
 - entry: 1236112767
   orgName: Chalmers Golfklubb
   orgNumber: 556705-3524
@@ -81519,6 +81732,15 @@ entries:
   - intresseorganisation
   - ufo
   web: https://www.ufo.se/
+
+- entry: 1236159545
+  orgName: Gökstens BK
+  orgNumber: 818000-5335
+  comment: F-12/13
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/GokstensBK/
 
 - entry: 1236159982
   orgName: Nora HC
@@ -83746,6 +83968,15 @@ entries:
   - kulturförening
   web: http://www.sekelskiftesdagarna.se/
 
+- entry: 1236328702
+  orgName: Eskilstuna City FK
+  orgNumber: 818000-4742
+  comment: P10 Blå
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/EskilstunaCityFK/
+
 - entry: 1236329718
   orgName: Bohuslän-Dals Bridgeförening
   orgNumber: 802461-7998
@@ -84493,6 +84724,15 @@ entries:
   categories:
   - religion
   web: https://www.betelvaggeryd.se/
+
+- entry: 1236389944
+  orgName: Eskilstuna City FK
+  orgNumber: 818000-4742
+  comment: P08
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/EskilstunaCityFK/
 
 - entry: 1236393664
   orgName: PRO Storå-Guldsmedshyttan
@@ -91174,6 +91414,15 @@ entries:
   - riksförening
   web: https://curo.nu/
 
+- entry: 1236908719
+  orgName: BIK Karlskoga Ungdom
+  orgNumber: 875003-1604
+  comment: Team 12
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.bikkarlskogaungdom.se/
+
 - entry: 1236908867
   orgName: HaparandaTornio Ungdomshockey Club, HTUHC
   orgNumber: 802462-2915
@@ -92212,6 +92461,15 @@ entries:
   categories:
   - supporterklubb
   web: https://www.jarnkaminerna.se/
+
+- entry: 1236992465
+  orgName: IF Sundsvall Hockey
+  orgNumber: 889200-9278
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/SundsvallHockey/
 
 - entry: 1236992952
   orgName: Förbundet Arbetarsolidaritet
