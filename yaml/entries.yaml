@@ -11004,7 +11004,7 @@ entries:
   web: https://www.mattiasenn.se/
 
 - entry: 1230792234
-  orgName: Hultsfred gymnastikklubb
+  orgName: Hultsfred Gymnastikklubb
   orgNumber: 833200-5001
   comment: null
   categories:
@@ -11249,6 +11249,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
+  - innebandyklubb
   web: http://www.umeavastra.se/
 
 - entry: 1230803734
@@ -11256,7 +11257,7 @@ entries:
   orgNumber: 849400-6797
   comment: null
   categories:
-  - idrottsförening
+  - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/frillesasssk
 
@@ -24324,6 +24325,7 @@ entries:
   orgNumber: 857203-6690
   comment: null
   categories:
+  - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/ifvaster/
 
@@ -24622,7 +24624,8 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  web: http://www.tvetafriluftsgard.se/
+  - orienteringsklubb
+  web: https://www.sno.nu/
 
 - entry: 1231730431
   orgName: Equmeniakyrkan Lycksele
@@ -24726,7 +24729,9 @@ entries:
   orgNumber: 868400-5542
   comment: null
   categories:
+  - cykelklubb
   - idrottsförening
+  - mountainbikeklubb
   web: https://www.kvanumsif.nu/
 
 - entry: 1231733732
@@ -24764,7 +24769,6 @@ entries:
   categories:
   - idrottsförening
   - roddklubb
-  - roddsällskap
   web: https://www.roddarnas.se/
 
 - entry: 1231733823

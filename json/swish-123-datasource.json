@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-27-rev-165230",
+    "date": "2024-07-27-rev-171436",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13375,7 +13375,7 @@
     },
     {
       "entry": 1230792234,
-      "orgName": "Hultsfred gymnastikklubb",
+      "orgName": "Hultsfred Gymnastikklubb",
       "orgNumber": "833200-5001",
       "comment": null,
       "categories": [
@@ -13675,7 +13675,8 @@
       "orgNumber": "802500-6803",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
       ],
       "web": "http://www.umeavastra.se/"
     },
@@ -13685,7 +13686,7 @@
       "orgNumber": "849400-6797",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/frillesasssk"
@@ -29559,6 +29560,7 @@
       "orgNumber": "857203-6690",
       "comment": null,
       "categories": [
+        "fotbollsklubb",
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/ifvaster/"
@@ -29924,9 +29926,10 @@
       "orgNumber": "815600-0344",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
       ],
-      "web": "http://www.tvetafriluftsgard.se/"
+      "web": "https://www.sno.nu/"
     },
     {
       "entry": 1231730431,
@@ -30053,7 +30056,9 @@
       "orgNumber": "868400-5542",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "cykelklubb",
+        "idrottsf\u00f6rening",
+        "mountainbikeklubb"
       ],
       "web": "https://www.kvanumsif.nu/"
     },
@@ -30098,8 +30103,7 @@
       "comment": null,
       "categories": [
         "idrottsf\u00f6rening",
-        "roddklubb",
-        "rodds\u00e4llskap"
+        "roddklubb"
       ],
       "web": "https://www.roddarnas.se/"
     },
