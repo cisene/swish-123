@@ -2794,6 +2794,19 @@ entries:
   - ishockeyklubb
   web: https://www.vik.se/
 
+- entry: 1230205724
+  orgName: Kungsgårdens SK
+  orgNumber: 885500-3490
+  comment: null
+  categories:
+  - fotbollsklubb
+  - futsalklubb
+  - gymnastikförening
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.laget.se/KungsgardensSK/
+
 - entry: 1230205922
   orgName: Sällskapet Sibirisk Katt
   orgNumber: 802411-7544
@@ -5132,6 +5145,15 @@ entries:
   - kulturförening
   - museum
   web: https://rabacksstenhuggeri.se/
+
+- entry: 1230365718
+  orgName: Björklinge Sportförening
+  orgNumber: 802534-5565
+  comment: Cykling
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://www.laget.se/BjorklingeSF/
 
 - entry: 1230365882
   orgName: Kronobergs Dreverklubb
@@ -13694,6 +13716,15 @@ entries:
   - kvinnojour
   web: https://terrafem.org/om-oss/lokalforeningar/stockholm/
 
+- entry: 1230950550
+  orgName: Bele Barkarby FF
+  orgNumber: 802434-5137
+  comment: U17
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/BBFF_U17/s
+
 - entry: 1230950774
   orgName: Dalarna Femund-forkörarförening
   orgNumber: 802443-8767
@@ -16109,6 +16140,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vallentuna
 
+- entry: 1231141845
+  orgName: Barkarö SK
+  orgNumber: 802415-0966
+  comment: P-11
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/BarkaroSK/
+
 - entry: 1231143726
   orgName: PRO Domsjö
   orgNumber: 889601-4605
@@ -16629,6 +16669,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1231165000
+  orgName: Jäders IF
+  orgNumber: 818000-1235
+  comment: Damjunior
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/JadersIF/
 
 - entry: 1231165182
   orgName: FBC Moröbacke
@@ -18124,6 +18173,15 @@ entries:
   - musikförlag
   web: https://www.transnationalrecords.com/
 
+- entry: 1231269240
+  orgName: Gränna-Bygdens OK
+  orgNumber: 826001-2078
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.laget.se/GBOK/
+
 - entry: 1231269414
   orgName: Nyköpings AIK
   orgNumber: 802529-6149
@@ -19032,6 +19090,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/dunker-lillamalma
+
+- entry: 1231326388
+  orgName: Gällsta IK
+  orgNumber: 887501-0483
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.gallstaik.se/
 
 - entry: 1231326453
   orgName: Svedens Ponnyklubb
@@ -22997,6 +23064,15 @@ entries:
   - hjälporganisation
   web: https://gcf-sverige.se/
 
+- entry: 1231611862
+  orgName: Hagby IK
+  orgNumber: 817601-4499
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/HagbyIK/
+
 - entry: 1231611896
   orgName: Söderhamns BK
   orgNumber: 886000-1000
@@ -25300,6 +25376,15 @@ entries:
   - stiftelse
   web: https://goteborg.ronaldmcdonaldhus.se/
 
+- entry: 1231780691
+  orgName: Valbo AIF
+  orgNumber: 885000-3305
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  web: https://www.valboaif.se/
+
 - entry: 1231780873
   orgName: Stensjöns IF
   orgNumber: 827500-1413
@@ -25345,6 +25430,15 @@ entries:
   - brukshundsklubb
   - hundsport
   web: http://www.kristianstadsbk.se/
+
+- entry: 1231790385
+  orgName: Gränna-Bygdens OK
+  orgNumber: 826001-2078
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.laget.se/GBOK/
 
 - entry: 1231790476
   orgName: Insamlingsstiftelsen Kurdiska Röda Solen
@@ -26503,6 +26597,15 @@ entries:
   - hundklubb
   - hundsport
   web: https://dalarna.goldenklubben.se/
+
+- entry: 1231879741
+  orgName: Gammelgårdens IF
+  orgNumber: 898200-6242
+  comment: F/P-2017
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/GammelgardensIF/
 
 - entry: 1231880442
   orgName: Föreningen Gärdslösa Prästgård
@@ -29728,6 +29831,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1232143915
+  orgName: IF Troja-Ljungby
+  orgNumber: 829000-0861
+  comment: Team 10
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/IFTrojaLjungby/
 
 - entry: 1232143949
   orgName: Johan Landbergs Trafikskola AB
@@ -37333,6 +37445,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.doroteaif.se/
+
+- entry: 1232698090
+  orgName: Forshaga HK
+  orgNumber: 874001-7242
+  comment: Rävens bollgympa
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.forshagahandboll.se/
 
 - entry: 1232698371
   orgName: Galleri Lindberg / Lindbergs Konst & Ramar AB
@@ -73122,6 +73243,15 @@ entries:
   - flygklubb
   web: https://www.ljusdalsflygklubb.se/
 
+- entry: 1235527577
+  orgName: SMK Motala Bil
+  orgNumber: 802422-5404
+  comment: null
+  categories:
+  - bilsport
+  - motorklubb
+  web: https://www.laget.se/SMKMotalaBil/
+
 - entry: 1235527619
   orgName: Änglakatten
   orgNumber: 802465-3092
@@ -74762,6 +74892,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.skpf.se/
+
+- entry: 1235634936
+  orgName: Lerums BK
+  orgNumber: 863500-4503
+  comment: Team 14
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/LerumsBK/
 
 - entry: 1235635669
   orgName: BK Marbo
@@ -87350,6 +87489,15 @@ entries:
   - orienteringsklubb
   web: https://www.laget.se/OKGrip/
 
+- entry: 1236648935
+  orgName: Kalix AK
+  orgNumber: 898200-4759
+  comment: null
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.laget.se/KalixAK/
+
 - entry: 1236649073
   orgName: SFK Storfiskarna
   orgNumber: 889600-9894
@@ -87366,6 +87514,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/carl-johans-pastorat
+
+- entry: 1236649560
+  orgName: Norrköping Panthers
+  orgNumber: 825003-0577
+  comment: null
+  categories:
+  - amerikansk fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/PantherFootball/
 
 - entry: 1236649966
   orgName: Scoutkåren Tornugglan
