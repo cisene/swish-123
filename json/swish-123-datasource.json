@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-07-27-rev-171436",
+    "date": "2024-07-30-rev-144923",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7972,6 +7972,17 @@
       "web": "https://www.amigosmios.se/"
     },
     {
+      "entry": 1230452391,
+      "orgName": "Skiljebo SK",
+      "orgNumber": "878000-4480",
+      "comment": "F13",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/SkiljeboSK/"
+    },
+    {
       "entry": 1230453225,
       "orgName": "Orkesta Hembygdsf\u00f6rening",
       "orgNumber": "816000-0348",
@@ -14667,6 +14678,17 @@
         "skidl\u00f6parklubb"
       ],
       "web": "http://tasjoif.se/"
+    },
+    {
+      "entry": 1230851600,
+      "orgName": "Surte IS",
+      "orgNumber": "802442-9154",
+      "comment": "Seniorlag Herrar",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/SurteIS/"
     },
     {
       "entry": 1230851873,
@@ -29835,6 +29857,16 @@
       "web": "https://www.hembygd.se/ortomta-hembygdsforening"
     },
     {
+      "entry": 1231724137,
+      "orgName": "\u00d6rebro Sportklubb 10-\u00e5rsf\u00f6rening",
+      "orgNumber": "802476-9492",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/OrebroSportklubb10-arsforening/"
+    },
+    {
       "entry": 1231724319,
       "orgName": "ABB:s Pension\u00e4rsklubb Ludvika",
       "orgNumber": "955502-7235",
@@ -39436,6 +39468,17 @@
         "ridskola"
       ],
       "web": "https://www.kungsbackaridklubb.se/"
+    },
+    {
+      "entry": 1232289577,
+      "orgName": "\u00d6rebro SK Ungdom",
+      "orgNumber": "875001-6894",
+      "comment": "I-P 2012",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.oskungdom.se/"
     },
     {
       "entry": 1232289726,
@@ -55021,6 +55064,17 @@
       "web": "https://tuve.scout.se/"
     },
     {
+      "entry": 1233290004,
+      "orgName": "Pite\u00e5 HC",
+      "orgNumber": "898800-6568",
+      "comment": "-09",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/PHC/"
+    },
+    {
       "entry": 1233291077,
       "orgName": "Karlshamns F\u00f6rsamling",
       "orgNumber": "252004-9970",
@@ -69381,6 +69435,17 @@
       "web": "https://www.bohusif.se/"
     },
     {
+      "entry": 1234213237,
+      "orgName": "Smedsbo PK",
+      "orgNumber": "878001-6641",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.laget.se/SmedsboPK/"
+    },
+    {
       "entry": 1234213443,
       "orgName": "Solskensfarmarna ekonomisk f\u00f6rening",
       "orgNumber": "769632-5096",
@@ -75374,6 +75439,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/OjebynsIBF/"
+    },
+    {
+      "entry": 1234638060,
+      "orgName": "Eskilstuna Linden Hockeyklubb",
+      "orgNumber": "818000-0955",
+      "comment": "J18",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/EskilstunaLinden_HCU/"
     },
     {
       "entry": 1234639779,
@@ -85236,6 +85312,17 @@
       "web": "http://www.tandlakaresandbacka.se/"
     },
     {
+      "entry": 1235278668,
+      "orgName": "Pite\u00e5 HC",
+      "orgNumber": "898800-6568",
+      "comment": "Hockeyskola",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/PHChockeyskola/"
+    },
+    {
       "entry": 1235278759,
       "orgName": "S\u00f6rg\u00e5rdskyrkan i Ryd",
       "orgNumber": "826000-2913",
@@ -90736,6 +90823,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/KallbyIF/"
+    },
+    {
+      "entry": 1235608682,
+      "orgName": "Hedemora SK",
+      "orgNumber": "882000-3930",
+      "comment": "A-lag",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.hedemorask.se/"
     },
     {
       "entry": 1235611082,
@@ -98105,6 +98203,17 @@
       "web": "https://www.laget.se/RynningeIK/"
     },
     {
+      "entry": 1236090385,
+      "orgName": "Rynninge IK",
+      "orgNumber": "875001-2307",
+      "comment": "P-14",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/RynningeIK/"
+    },
+    {
       "entry": 1236090484,
       "orgName": "G\u00e4rdhems Hembygdsf\u00f6rening",
       "orgNumber": "863000-8111",
@@ -99915,6 +100024,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://www.rorsbygdegard.se/"
+    },
+    {
+      "entry": 1236185680,
+      "orgName": "\u00d6rebro SK Ungdom",
+      "orgNumber": "875001-6894",
+      "comment": "F-F2010",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.oskungdom.se/"
     },
     {
       "entry": 1236185813,
@@ -102763,6 +102883,17 @@
         "kontorsinredning"
       ],
       "web": "https://borett.se/"
+    },
+    {
+      "entry": 1236381735,
+      "orgName": "Karlslunds IF FK",
+      "orgNumber": "875000-8438",
+      "comment": "F013/14",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.karlslund.nu/"
     },
     {
       "entry": 1236382113,
@@ -105835,6 +105966,17 @@
         "ishockeyklubb"
       ],
       "web": "https://www.junseleif.se/"
+    },
+    {
+      "entry": 1236583298,
+      "orgName": "Ume\u00e5 Salsa Club",
+      "orgNumber": "802418-5434",
+      "comment": null,
+      "categories": [
+        "dansf\u00f6rening",
+        "motionsdans"
+      ],
+      "web": "https://www.umeasalsaclub.se/"
     },
     {
       "entry": 1236583413,

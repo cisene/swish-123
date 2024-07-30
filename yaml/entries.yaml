@@ -6567,6 +6567,15 @@ entries:
   - hundhem
   web: https://www.amigosmios.se/
 
+- entry: 1230452391
+  orgName: Skiljebo SK
+  orgNumber: 878000-4480
+  comment: F13
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/SkiljeboSK/
+
 - entry: 1230453225
   orgName: Orkesta Hembygdsförening
   orgNumber: 816000-0348
@@ -12057,6 +12066,15 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: http://tasjoif.se/
+
+- entry: 1230851600
+  orgName: Surte IS
+  orgNumber: 802442-9154
+  comment: Seniorlag Herrar
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/SurteIS/
 
 - entry: 1230851873
   orgName: Sävsjö Brukshundklubb
@@ -24548,6 +24566,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/ortomta-hembygdsforening
 
+- entry: 1231724137
+  orgName: Örebro Sportklubb 10-årsförening
+  orgNumber: 802476-9492
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.laget.se/OrebroSportklubb10-arsforening/
+
 - entry: 1231724319
   orgName: ABB:s Pensionärsklubb Ludvika
   orgNumber: 955502-7235
@@ -32459,6 +32485,15 @@ entries:
   - ridklubb
   - ridskola
   web: https://www.kungsbackaridklubb.se/
+
+- entry: 1232289577
+  orgName: Örebro SK Ungdom
+  orgNumber: 875001-6894
+  comment: I-P 2012
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.oskungdom.se/
 
 - entry: 1232289726
   orgName: Kristi Lekamens Katolska Församling, Visby
@@ -45338,6 +45373,15 @@ entries:
   - scoutkår
   web: https://tuve.scout.se/
 
+- entry: 1233290004
+  orgName: Piteå HC
+  orgNumber: 898800-6568
+  comment: -09
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/PHC/
+
 - entry: 1233291077
   orgName: Karlshamns Församling
   orgNumber: 252004-9970
@@ -57121,6 +57165,15 @@ entries:
   - idrottsförening
   web: https://www.bohusif.se/
 
+- entry: 1234213237
+  orgName: Smedsbo PK
+  orgNumber: 878001-6641
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  web: https://www.laget.se/SmedsboPK/
+
 - entry: 1234213443
   orgName: Solskensfarmarna ekonomisk förening
   orgNumber: 769632-5096
@@ -62068,6 +62121,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/OjebynsIBF/
+
+- entry: 1234638060
+  orgName: Eskilstuna Linden Hockeyklubb
+  orgNumber: 818000-0955
+  comment: J18
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/EskilstunaLinden_HCU/
 
 - entry: 1234639779
   orgName: Kvinnojouren Viktoria
@@ -70171,6 +70233,15 @@ entries:
   - tandläkare
   web: http://www.tandlakaresandbacka.se/
 
+- entry: 1235278668
+  orgName: Piteå HC
+  orgNumber: 898800-6568
+  comment: Hockeyskola
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/PHChockeyskola/
+
 - entry: 1235278759
   orgName: Sörgårdskyrkan i Ryd
   orgNumber: 826000-2913
@@ -74692,6 +74763,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/KallbyIF/
+
+- entry: 1235608682
+  orgName: Hedemora SK
+  orgNumber: 882000-3930
+  comment: A-lag
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.hedemorask.se/
 
 - entry: 1235611082
   orgName: S:t Pauli Katolska Församling
@@ -80772,6 +80852,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/RynningeIK/
 
+- entry: 1236090385
+  orgName: Rynninge IK
+  orgNumber: 875001-2307
+  comment: P-14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/RynningeIK/
+
 - entry: 1236090484
   orgName: Gärdhems Hembygdsförening
   orgNumber: 863000-8111
@@ -82285,6 +82374,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://www.rorsbygdegard.se/
+
+- entry: 1236185680
+  orgName: Örebro SK Ungdom
+  orgNumber: 875001-6894
+  comment: F-F2010
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.oskungdom.se/
 
 - entry: 1236185813
   orgName: Oskarshamns AIK
@@ -84634,6 +84732,15 @@ entries:
   - heminredning
   - kontorsinredning
   web: https://borett.se/
+
+- entry: 1236381735
+  orgName: Karlslunds IF FK
+  orgNumber: 875000-8438
+  comment: F013/14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.karlslund.nu/
 
 - entry: 1236382113
   orgName: Moheda Scoutkår
@@ -87198,6 +87305,15 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.junseleif.se/
+
+- entry: 1236583298
+  orgName: Umeå Salsa Club
+  orgNumber: 802418-5434
+  comment: null
+  categories:
+  - dansförening
+  - motionsdans
+  web: https://www.umeasalsaclub.se/
 
 - entry: 1236583413
   orgName: Bankeryds Scoutkår
