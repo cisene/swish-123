@@ -88,29 +88,35 @@ def cloneVO(valueObject):
   }
 
   # Read and assign into new VO if present
-  if valueObject['entry'] != None:
-    vo['entry'] = valueObject['entry']
+  if "entry" in valueObject:
+    if valueObject['entry'] != None:
+      vo['entry'] = valueObject['entry']
 
-  if valueObject['orgName'] != None:
-    vo['orgName'] = fulltrim(ReplaceFilter(valueObject['orgName']))
+  if "orgName" in valueObject:
+    if valueObject['orgName'] != None:
+      vo['orgName'] = fulltrim(ReplaceFilter(valueObject['orgName']))
 
-  if valueObject['orgNumber'] != None:
-    vo['orgNumber'] = valueObject['orgNumber']
+  if "orgNumber" in valueObject:
+    if valueObject['orgNumber'] != None:
+      vo['orgNumber'] = valueObject['orgNumber']
 
-  if valueObject['comment'] != None:
-    vo['comment'] = fulltrim(valueObject['comment'])
+  if "comment" in valueObject:
+    if valueObject['comment'] != None:
+      vo['comment'] = fulltrim(valueObject['comment'])
 
-  if valueObject['web'] != None:
-    vo['web'] = fulltrim(valueObject['web'])
+  if "web" in valueObject:
+    if valueObject['web'] != None:
+      vo['web'] = fulltrim(valueObject['web'])
 
-  if valueObject['categories'] != None:
-    if len(valueObject['categories']) > 0:
-      categories_list = []
-      for cat in valueObject['categories']:
-        if fulltrim(cat) not in categories_list:
-          categories_list.append(fulltrim(cat))
-      categories_list.sort()
-      vo['categories'] = categories_list
+  if "categories" in valueObject:
+    if valueObject['categories'] != None:
+      if len(valueObject['categories']) > 0:
+        categories_list = []
+        for cat in valueObject['categories']:
+          if fulltrim(cat) not in categories_list:
+            categories_list.append(fulltrim(cat))
+        categories_list.sort()
+        vo['categories'] = categories_list
 
   return vo
 
