@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-08-02-rev-223748
+# Date: 2024-08-03-rev-000027
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -59,7 +59,7 @@
 "1230019521","212000-0498","Aneby Bibliotek / Aneby Kommun","https://www.aneby.se/sidor/kultur-fritid-och-turism/biblioteket.html","bibliotek,kultur",""
 "1230020289","802522-4927","Föreningen Gagnefs Bio","https://gagnefsbio.se/","biograf,förening",""
 "1230020644","894001-6606","Ersmarks IK","https://www.eik.se/","fotbollsklubb,idrottsförening","F13"
-"1230021444","802526-7868","Team Albert MTB","https://teamalbertmtb.com/","cykelklubb,idrottsförening,mountainbike,mountainbikeklubb",""
+"1230021444","802526-7868","Team Albert MTB","https://teamalbertmtb.com/","cykelklubb,idrottsförening,mountainbikeklubb",""
 "1230027326","802543-4948","Hälsinglands Sportklubb","https://www.svenskalag.se/halsinglandssportklubb","fotbollsklubb,idrottsförening,skidlöparklubb",""
 "1230033696","878500-3594","Köpings Golfklubb","https://kopingsgk.nu/","golfbana,golfklubb",""
 "1230036673","559226-5291","NN Golf AB","https://www.nngolf.se/","golfcoach,utbildning",""
@@ -1496,7 +1496,7 @@
 "1230915223","802421-7948","Idrottens Idrottsförening - Korpen","https://www.idrottensif.rf.se/","idrottsförening",""
 "1230915280","864501-1225","Gånghester SK","https://www.laget.se/GanghesterSK/","fotbollsklubb,golfklubb,idrottsförening",""
 "1230915983","875001-9948","Örebro Karateförening","https://orebrokyokushin.se/","idrottsförening,kampsportsförening,karateklubb",""
-"1230916221","875003-4855","MTB Hjulsjö / Hjulsjö Byförening & LK","https://www.mtbhjulsjo.se/","cykelsport,mountainbike",""
+"1230916221","875003-4855","MTB Hjulsjö / Hjulsjö Byförening & LK","https://www.mtbhjulsjo.se/","cykelklubb,mountainbikeklubb",""
 "1230916320","822003-3552","Insamlingsstiftelsen för Muskeldystrofiforskning","https://www.smdf.se/","donation,forskning,muskeldystrofi,stiftelse",""
 "1230916379","802432-5899","Kottecentralen","https://www.facebook.com/Kottecentralen","djurskydd,djurvård",""
 "1230916445","802492-2331","Antifa / Föreningen Fånggruppen","https://antifa.se/","intresseförening",""
@@ -2197,7 +2197,7 @@
 "1231339381","802012-4338","Ayshamoskén / Skandinaviska Islamiska Organisationen","https://aysha.se/","religion","Zakat, sadaqah al-fitr, fidya"
 "1231339795","832400-4426","IFK Påryd","https://www.svenskalag.se/IFKParyd","fotbollsklubb,idrottsförening",""
 "1231340421","889201-1076","Skönsbergs BK","https://www.svenskalag.se/skonsbergsbk","brottningsklubb,idrottsförening",""
-"1231340496","802525-4528","Dundret MTB","https://www.svenskalag.se/dundretmtb","cykelsport,idrottsförening,mountainbikeklubb",""
+"1231340496","802525-4528","Dundret MTB","https://www.svenskalag.se/dundretmtb","cykelklubb,idrottsförening,mountainbikeklubb",""
 "1231340652","012588-6929","Lunds Biodlare","https://lundsbiodlare.se/","biodling,förening",""
 "1231340876","802473-9412","Föreningen Tidigt Föräldrastöd","https://tidigtforaldrastod.se/","föräldraskap,föräldrastöd","Gåva"
 "1231340918","802003-0758","Svenska Skridsko-, Kälk- och Rullidrottsförbundet","https://www.swesports.org/","förbund,idrott,idrottsförbund",""
@@ -2843,7 +2843,7 @@
 "1231745470","845001-3175","Veberöds Scoutkår","https://veberod.scout.se/","scoutkår",""
 "1231745744","802439-9027","PRO Tyringe","https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-hassleholm/foreningar/tyringe.html","pensionärsklubb",""
 "1231745868","822001-4065","CK Hymer","https://www.svenskalag.se/ckhymer","cykelklubb,idrottsförening",""
-"1231745918","802476-0509","Göteborgs Stigcyklister","https://www.goteborgsstigcyklister.com/","cykelsport,förening",""
+"1231745918","802476-0509","Göteborgs Stigcyklister","https://www.goteborgsstigcyklister.com/","cykelklubb,idrottsförening",""
 "1231746296","817601-5587","Uppsala PonnyKlubb, UPK","https://www.uppsalaponnyklubb.se/","hästsport,ridsport","Startavgifter Paj, PaR, PaWe, klubbtävling, cafeteria"
 "1231746437","928000-3220","Rydaholms SK","https://www.svenskalag.se/rydaholmssk","idrottsförening,ishockeyklubb",""
 "1231746510","845002-1939","Helsingkrona Nation, Helsingkrona Gilles Stödförening","https://helsingkrona.se/","intresseförening,studentorganisation",""
@@ -7932,7 +7932,7 @@
 "1235261219","876400-0819","Brokyrkans Församling","http://brokyrkan.com/","religion",""
 "1235261698","252000-0486","Sollentuna Församling","https://www.svenskakyrkan.se/sollentuna","religion","Edsbergskyrkan"
 "1235261805","894001-0427","EFS Missionsförening i Sävar","https://www.savarakyrkan.se/","religion",""
-"1235261847","802421-7310","CK Uni - Cykel","https://www.ckuni.com/","cykelklubb,cykelsport",""
+"1235261847","802421-7310","CK Uni - Cykel","https://www.ckuni.com/","cykelklubb,cykelsport,idrottsförening",""
 "1235262449","802461-6073","Gymnastikföreningen Astra","https://www.gfastra.se/","gymnastikförening,idrottsförening",""
 "1235262498","843000-3809","Svedbergs GIF","https://www.svenskalag.se/sgif","bordtennisklubb,fotbollsklubb,friskvård,idrottsförening,motionsklubb",""
 "1235262506","858500-6375","BMK Uddevalla - Motorcykel och Snöskoter","https://www.bmkuddevalla.se/","motorcykelklubb,motorsport,snöskoterklubb",""

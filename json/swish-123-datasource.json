@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-02-rev-223741",
+    "date": "2024-08-03-rev-000020",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -582,7 +582,6 @@
       "categories": [
         "cykelklubb",
         "idrottsf\u00f6rening",
-        "mountainbike",
         "mountainbikeklubb"
       ],
       "web": "https://teamalbertmtb.com/"
@@ -16136,8 +16135,8 @@
       "orgNumber": "875003-4855",
       "comment": null,
       "categories": [
-        "cykelsport",
-        "mountainbike"
+        "cykelklubb",
+        "mountainbikeklubb"
       ],
       "web": "https://www.mtbhjulsjo.se/"
     },
@@ -23739,7 +23738,7 @@
       "orgNumber": "802525-4528",
       "comment": null,
       "categories": [
-        "cykelsport",
+        "cykelklubb",
         "idrottsf\u00f6rening",
         "mountainbikeklubb"
       ],
@@ -30690,8 +30689,8 @@
       "orgNumber": "802476-0509",
       "comment": null,
       "categories": [
-        "cykelsport",
-        "f\u00f6rening"
+        "cykelklubb",
+        "idrottsf\u00f6rening"
       ],
       "web": "https://www.goteborgsstigcyklister.com/"
     },
@@ -85978,7 +85977,8 @@
       "comment": null,
       "categories": [
         "cykelklubb",
-        "cykelsport"
+        "cykelsport",
+        "idrottsf\u00f6rening"
       ],
       "web": "https://www.ckuni.com/"
     },

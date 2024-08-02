@@ -490,7 +490,6 @@ entries:
   categories:
   - cykelklubb
   - idrottsförening
-  - mountainbike
   - mountainbikeklubb
   web: https://teamalbertmtb.com/
 
@@ -13283,8 +13282,8 @@ entries:
   orgNumber: 875003-4855
   comment: null
   categories:
-  - cykelsport
-  - mountainbike
+  - cykelklubb
+  - mountainbikeklubb
   web: https://www.mtbhjulsjo.se/
 
 - entry: 1230916320
@@ -19538,7 +19537,7 @@ entries:
   orgNumber: 802525-4528
   comment: null
   categories:
-  - cykelsport
+  - cykelklubb
   - idrottsförening
   - mountainbikeklubb
   web: https://www.svenskalag.se/dundretmtb
@@ -25249,8 +25248,8 @@ entries:
   orgNumber: 802476-0509
   comment: null
   categories:
-  - cykelsport
-  - förening
+  - cykelklubb
+  - idrottsförening
   web: https://www.goteborgsstigcyklister.com/
 
 - entry: 1231746296
@@ -70805,6 +70804,7 @@ entries:
   categories:
   - cykelklubb
   - cykelsport
+  - idrottsförening
   web: https://www.ckuni.com/
 
 - entry: 1235262449
