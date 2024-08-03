@@ -72,7 +72,7 @@ def ReplaceFilter(data):
   data = re.sub(r"\spastorat$", " Pastorat", data, flags=re.IGNORECASE)
 
   data = re.sub(r"\sscoutkår$", " Scoutkår", data, flags=re.IGNORECASE)
-  data = re.sub(r"\scykelklubb$", "Cykelklubb", data, flags=re.IGNORECASE)
+  data = re.sub(r"\scykelklubb$", " Cykelklubb", data, flags=re.IGNORECASE)
   return data
 
 
