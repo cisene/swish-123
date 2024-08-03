@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-03-rev-174455",
+    "date": "2024-08-03-rev-224242",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2393,6 +2393,17 @@
       "web": "https://www.lpsk.nu/"
     },
     {
+      "entry": 1230142133,
+      "orgName": "Kvarnsvedens IK",
+      "orgNumber": "882600-9329",
+      "comment": "Entr\u00e9",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kvarnsvedensik.com/"
+    },
+    {
       "entry": 1230142745,
       "orgName": "Nordisk F\u00f6rening f\u00f6r Sp\u00e4dbarns Utveckling, NFSU",
       "orgNumber": "802528-2826",
@@ -2445,6 +2456,17 @@
         "teater"
       ],
       "web": "https://www.tierp.se/tierp.se/kultur-fritid-och-friluftsliv/kulturskolan.html"
+    },
+    {
+      "entry": 1230154583,
+      "orgName": "Kvarnsvedens IK",
+      "orgNumber": "882600-9329",
+      "comment": "Kiosk",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kvarnsvedensik.com/"
     },
     {
       "entry": 1230154724,
@@ -4319,6 +4341,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/kungsara/"
+    },
+    {
+      "entry": 1230252841,
+      "orgName": "V\u00e4rmd\u00f6 Allm\u00e4nna Skridskoklubb",
+      "orgNumber": "815601-1259",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skridskoklubb"
+      ],
+      "web": "https://www.vask.se/"
     },
     {
       "entry": 1230253930,
@@ -10636,6 +10669,17 @@
       "web": "https://runon.se/"
     },
     {
+      "entry": 1230626655,
+      "orgName": "Kvarnsvedens IK",
+      "orgNumber": "882600-9329",
+      "comment": "Kiosk",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kvarnsvedensik.com/"
+    },
+    {
       "entry": 1230626697,
       "orgName": "Climate Live / Live Green",
       "orgNumber": "802507-8752",
@@ -12717,6 +12761,17 @@
       "web": "https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-umea-norra-/"
     },
     {
+      "entry": 1230746321,
+      "orgName": "Wexi\u00f6 Rugby Klubb",
+      "orgNumber": "829502-0468",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "rugbyklubb"
+      ],
+      "web": "https://wexiorugby.se/"
+    },
+    {
       "entry": 1230746537,
       "orgName": "Ulricehamns IFK",
       "orgNumber": "865500-9457",
@@ -14550,6 +14605,16 @@
       "web": "https://www.svenskalag.se/fbclo"
     },
     {
+      "entry": 1230839571,
+      "orgName": "Svenarums Hembygdsf\u00f6rening",
+      "orgNumber": "828000-7926",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.svenarumhok.se/"
+    },
+    {
       "entry": 1230839803,
       "orgName": "Team Rynkeby",
       "orgNumber": "802534-5466",
@@ -14658,6 +14723,29 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.efdworld.org/"
+    },
+    {
+      "entry": 1230846493,
+      "orgName": "Jokkmokks Styrkelyftsklubb",
+      "orgNumber": "897001-9223",
+      "comment": null,
+      "categories": [
+        "atletklubb",
+        "idrottsf\u00f6rening",
+        "styrkelyftsklubb"
+      ],
+      "web": "https://jokkmokksstyrkelyftsklubb.se/"
+    },
+    {
+      "entry": 1230846733,
+      "orgName": "Sandvikens Kammarmusikf\u00f6rening",
+      "orgNumber": "885500-9075",
+      "comment": null,
+      "categories": [
+        "kammarmusikf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.kammarmusik.org/"
     },
     {
       "entry": 1230846980,
@@ -22709,6 +22797,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231280031,
+      "orgName": "Live Jazz Emmaboda",
+      "orgNumber": "802493-5184",
+      "comment": null,
+      "categories": [
+        "jazzclub",
+        "musikf\u00f6rening"
+      ],
+      "web": "http://www.emmabodajazz.se/"
     },
     {
       "entry": 1231280379,
@@ -38397,6 +38496,17 @@
       "web": "https://jipt.se/"
     },
     {
+      "entry": 1232214492,
+      "orgName": "G\u00e4vle kammarmusikf\u00f6rening",
+      "orgNumber": "885002-0010",
+      "comment": null,
+      "categories": [
+        "kammarmusikf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.gavlekmf.net/"
+    },
+    {
       "entry": 1232214674,
       "orgName": "IBF Hedemora",
       "orgNumber": "882000-7527",
@@ -38755,6 +38865,18 @@
       "web": "http://aldrigensam.com/"
     },
     {
+      "entry": 1232231538,
+      "orgName": "Str\u00f6mkarlens Karateklubb",
+      "orgNumber": "802431-6484",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.stromkarlens-karateklubb.se/"
+    },
+    {
       "entry": 1232232213,
       "orgName": "Crossfit Bifrost / Knutshyttan AB",
       "orgNumber": "556907-1599",
@@ -38895,6 +39017,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.marbacksif.se/"
+    },
+    {
+      "entry": 1232239325,
+      "orgName": "S\u00f6dra Gotlands Rid- och K\u00f6rklubb",
+      "orgNumber": "834000-9474",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "k\u00f6rklubb",
+        "ridklubb"
+      ],
+      "web": "http://sgrk.nu/"
     },
     {
       "entry": 1232239341,
@@ -43841,6 +43975,17 @@
         "slalomklubb"
       ],
       "web": "https://www.svenskalag.se/areslk"
+    },
+    {
+      "entry": 1232549723,
+      "orgName": "F\u00e4rjestadens Segels\u00e4llskap, FSS",
+      "orgNumber": "832000-3554",
+      "comment": null,
+      "categories": [
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://fssbk.se/"
     },
     {
       "entry": 1232555233,
@@ -50549,6 +50694,18 @@
       "web": "https://www.svenskalag.se/nackataekwondoif"
     },
     {
+      "entry": 1232931269,
+      "orgName": "V\u00e4ster\u00e5s Kammarmusikf\u00f6rening",
+      "orgNumber": "878001-6518",
+      "comment": null,
+      "categories": [
+        "kammarmusik",
+        "kammarmusikf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/vasteraskammarmusik"
+    },
+    {
       "entry": 1232931863,
       "orgName": "Human Framtid",
       "orgNumber": "802530-2962",
@@ -51144,6 +51301,16 @@
         "travsport"
       ],
       "web": "http://solvalla-amatorklubb.se/"
+    },
+    {
+      "entry": 1232983823,
+      "orgName": "V\u00e4ster\u00e5s Sinfoniettas v\u00e4nf\u00f6rening",
+      "orgNumber": "978000-0221",
+      "comment": null,
+      "categories": [
+        "musikf\u00f6rening"
+      ],
+      "web": "https://vastmanlandsmusiken.se/vasteras-sinfonietta/vasteras-musiksallskap/"
     },
     {
       "entry": 1232984334,
@@ -52053,6 +52220,19 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/storvreta"
+    },
+    {
+      "entry": 1233043379,
+      "orgName": "M\u00f6nster\u00e5s Jazz och Kammarmusik",
+      "orgNumber": "802520-9852",
+      "comment": null,
+      "categories": [
+        "jazzclub",
+        "kammarmusik",
+        "kammarmusikf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://monsterasmusik.se/"
     },
     {
       "entry": 1233044484,
@@ -59168,6 +59348,17 @@
       "web": "https://www.svenskalag.se/christinehamnsrk"
     },
     {
+      "entry": 1233469558,
+      "orgName": "Sp\u00e5rv\u00e4gens Friidrottsklubb",
+      "orgNumber": "802015-9979",
+      "comment": null,
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.sparvagenfriidrott.se/"
+    },
+    {
       "entry": 1233469889,
       "orgName": "Fun\u00e4sdalens IF Erik Halvarsson Minnesfond",
       "orgNumber": "892600-8486",
@@ -59200,6 +59391,16 @@
         "intresseorganisation"
       ],
       "web": "https://www.vaxjofolkdans.se/"
+    },
+    {
+      "entry": 1233474756,
+      "orgName": "Aspelands Musikf\u00f6rening",
+      "orgNumber": "833200-7809",
+      "comment": null,
+      "categories": [
+        "musikf\u00f6rening"
+      ],
+      "web": "https://aspeland.info/"
     },
     {
       "entry": 1233475563,
@@ -68050,6 +68251,17 @@
       "web": null
     },
     {
+      "entry": 1234033585,
+      "orgName": "S\u00f6derhamns kammarmusikf\u00f6rening",
+      "orgNumber": "886000-5605",
+      "comment": null,
+      "categories": [
+        "kammarmusikf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/p/S%C3%B6derhamns-kammarmusikf%C3%B6rening-100064439931752/"
+    },
+    {
       "entry": 1234034120,
       "orgName": "Fr\u00f6lunda Hockey Club",
       "orgNumber": "857204-5683",
@@ -72198,6 +72410,16 @@
       "web": "https://johanniterhjalpen.se/"
     },
     {
+      "entry": 1234312104,
+      "orgName": "H\u00e4rn\u00f6sands Musiks\u00e4llskap",
+      "orgNumber": "888000-0404",
+      "comment": null,
+      "categories": [
+        "musikf\u00f6rening"
+      ],
+      "web": "https://harnosandsmusiksallskap.se/"
+    },
+    {
       "entry": 1234312419,
       "orgName": "Full Personality Expression Sweden, FPES",
       "orgNumber": "802406-9398",
@@ -73199,6 +73421,20 @@
         "f\u00f6rening"
       ],
       "web": "https://goteborg.nmrf.se/"
+    },
+    {
+      "entry": 1234403861,
+      "orgName": "Vaggeryds SOK",
+      "orgNumber": "828000-3651",
+      "comment": null,
+      "categories": [
+        "cykelklubb",
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://vsok.nu/"
     },
     {
       "entry": 1234403937,
@@ -75779,6 +76015,16 @@
       "web": "https://www.korpen.se/korpensoderbarke"
     },
     {
+      "entry": 1234566758,
+      "orgName": "Arboga Musikf\u00f6rening",
+      "orgNumber": "878500-6720",
+      "comment": null,
+      "categories": [
+        "musikf\u00f6rening"
+      ],
+      "web": "http://www.arboga-musikforening.se/"
+    },
+    {
       "entry": 1234567343,
       "orgName": "F\u00f6reningen Knutby Folketspark",
       "orgNumber": "817607-1721",
@@ -76921,6 +77167,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.hagglundsfotboll.se/"
+    },
+    {
+      "entry": 1234640876,
+      "orgName": "Munkfors Brukshundklubb",
+      "orgNumber": "874001-2656",
+      "comment": null,
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://munkforsbrukshundklubb.wordpress.com/"
     },
     {
       "entry": 1234640975,
@@ -78330,6 +78587,17 @@
       "web": "http://ventin.se/"
     },
     {
+      "entry": 1234701843,
+      "orgName": "Hudiksvalls Sportdykarklubb",
+      "orgNumber": "887501-3883",
+      "comment": null,
+      "categories": [
+        "dykarklubb",
+        "sportdykarklubb"
+      ],
+      "web": "https://hsdk.se/"
+    },
+    {
       "entry": 1234701892,
       "orgName": "Stiftelsen Gagnefs Minnesstuga",
       "orgNumber": "882600-7729",
@@ -79080,6 +79348,19 @@
         "religion"
       ],
       "web": "https://pingstjonkoping.se/"
+    },
+    {
+      "entry": 1234760906,
+      "orgName": "Oskarshamns Kammarmusikf\u00f6rening & Jazzklubb",
+      "orgNumber": "832800-4836",
+      "comment": null,
+      "categories": [
+        "jazzclub",
+        "kammarmusik",
+        "kammarmusikf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://lansmusiken.se/oskarshamns-kammarmusikforening-jazzklubb/"
     },
     {
       "entry": 1234762985,
@@ -83379,6 +83660,7 @@
       "orgNumber": "819000-6604",
       "comment": null,
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.trosagk.se/"
@@ -85450,6 +85732,17 @@
       "web": "https://www.rodakorset.se/ort/dalarna/ludvika-kommun/"
     },
     {
+      "entry": 1235176763,
+      "orgName": "Kilafors Kammarmusikf\u00f6rening",
+      "orgNumber": "886500-7952",
+      "comment": null,
+      "categories": [
+        "kammarmusikf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.kikamusik.se/"
+    },
+    {
       "entry": 1235177431,
       "orgName": "Lill\u00e5n IBK",
       "orgNumber": "875003-4939",
@@ -86187,6 +86480,18 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235230982,
+      "orgName": "Mellisklubben",
+      "orgNumber": "802527-6497",
+      "comment": null,
+      "categories": [
+        "barnverksamhet",
+        "hj\u00e4lporganisation",
+        "ungdomsverksamhet"
+      ],
+      "web": "http://mellisklubben.se/"
     },
     {
       "entry": 1235231790,
@@ -89214,6 +89519,17 @@
         "sportfiske"
       ],
       "web": "https://dellenbygdens-fvo.se/"
+    },
+    {
+      "entry": 1235417357,
+      "orgName": "BS Nordboulen",
+      "orgNumber": "894003-2249",
+      "comment": null,
+      "categories": [
+        "bouleklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.bsnordboulen.se/"
     },
     {
       "entry": 1235418751,
@@ -93852,6 +94168,17 @@
       "web": "https://www.sodrarorum.com/"
     },
     {
+      "entry": 1235685821,
+      "orgName": "Skillingaryd Attila Brukshundsklubb",
+      "orgNumber": "802458-9411",
+      "comment": null,
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://sbkattila.se/"
+    },
+    {
       "entry": 1235686076,
       "orgName": "Bor\u00e5s GIF",
       "orgNumber": "864500-1192",
@@ -94004,6 +94331,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-falun/foreningar/svardsjo.html"
+    },
+    {
+      "entry": 1235696653,
+      "orgName": "Munkedals Brukhundsklubb",
+      "orgNumber": "854600-5623",
+      "comment": null,
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://munkedalsbrukshundklubb.se/"
     },
     {
       "entry": 1235696844,
@@ -94444,6 +94782,18 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235714589,
+      "orgName": "Kammarmusikf\u00f6reningen i Kalmar",
+      "orgNumber": "832400-8674",
+      "comment": null,
+      "categories": [
+        "kammarmusik",
+        "kammarmusikf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://kammarmusikforeningenikalmar.se/"
     },
     {
       "entry": 1235714795,
@@ -98194,6 +98544,17 @@
         "utbildning"
       ],
       "web": "https://www.4h.se/eolshall/"
+    },
+    {
+      "entry": 1235949763,
+      "orgName": "Karlsborgs Lyftarklubb",
+      "orgNumber": "802421-6924",
+      "comment": null,
+      "categories": [
+        "atletklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://klk.nu/"
     },
     {
       "entry": 1235950191,
@@ -104378,6 +104739,18 @@
       "web": "http://faringtofta.se/"
     },
     {
+      "entry": 1236346340,
+      "orgName": "Vindelns Ridklubb",
+      "orgNumber": "894001-4379",
+      "comment": "Ungdomssektionen",
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttarklubb"
+      ],
+      "web": "https://www.vindelnsridklubb.se/"
+    },
+    {
       "entry": 1236346522,
       "orgName": "Hj\u00e4rnarps Innebandyklubb",
       "orgNumber": "839401-1525",
@@ -104544,6 +104917,18 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://www.torrskog.se/"
+    },
+    {
+      "entry": 1236355564,
+      "orgName": "S\u00f6derskogs IF",
+      "orgNumber": "802451-7016",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "motionsklubb"
+      ],
+      "web": "https://www.soderskogsif.se/"
     },
     {
       "entry": 1236355846,
@@ -105357,6 +105742,17 @@
         "mountainbikeklubb"
       ],
       "web": "https://www.svenskalag.se/orkelljungaoutdoor"
+    },
+    {
+      "entry": 1236415509,
+      "orgName": "Spars\u00f6rs AIK",
+      "orgNumber": "864500-7843",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.sparsorsaik.nu/"
     },
     {
       "entry": 1236416044,
@@ -109903,6 +110299,16 @@
       "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-helsingborgs-sydostra/"
     },
     {
+      "entry": 1236706386,
+      "orgName": "Tofteryd-Hagshults Hembygdsf\u00f6rening",
+      "orgNumber": "828000-7017",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/tofteryd-hagshults-hembygdsf-rening"
+    },
+    {
       "entry": 1236706543,
       "orgName": "SPF Seniorerna Klubb 69 Sj\u00f6bo",
       "orgNumber": "848000-8856",
@@ -111016,6 +111422,16 @@
       "web": "https://www.svenskakyrkan.se/botkyrka/botkyrkabarn"
     },
     {
+      "entry": 1236776777,
+      "orgName": "Gimon\u00e4s B\u00e5tklubb",
+      "orgNumber": "894002-3669",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "https://www.gbkumea.se/"
+    },
+    {
       "entry": 1236776991,
       "orgName": "Kindstugans Syf\u00f6rening",
       "orgNumber": "802515-6806",
@@ -111164,6 +111580,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://ovhelsingborg.myclub.se/"
+    },
+    {
+      "entry": 1236779847,
+      "orgName": "F\u00f6reningen Musica Viva",
+      "orgNumber": "817602-5503",
+      "comment": null,
+      "categories": [
+        "kammarmusikf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.musicaviva.se/"
     },
     {
       "entry": 1236779912,
@@ -113531,6 +113958,17 @@
         "konst\u00e5kningsklubb"
       ],
       "web": "https://www.svenskalag.se/luleaakf"
+    },
+    {
+      "entry": 1236926919,
+      "orgName": "Ume\u00e5 b\u00e5gskytteklubb",
+      "orgNumber": "894003-1985",
+      "comment": null,
+      "categories": [
+        "b\u00e5gskytteklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://umeabk.com/"
     },
     {
       "entry": 1236929350,
