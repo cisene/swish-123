@@ -114,8 +114,10 @@ def cloneVO(valueObject):
       if len(valueObject['categories']) > 0:
         categories_list = []
         for cat in valueObject['categories']:
-          if fulltrim(cat) not in categories_list:
-            categories_list.append(fulltrim(cat))
+          cat_value = fulltrim(cat)
+          cat_value = cat_value.lower()
+          if cat_value not in categories_list:
+            categories_list.append(cat_value)
         categories_list.sort()
         vo['categories'] = categories_list
 
