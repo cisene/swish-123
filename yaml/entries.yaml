@@ -12249,6 +12249,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/kungsara-kyrka
 
+- entry: 1230855874
+  orgName: Hisingens Cykelklubb
+  orgNumber: 857203-2814
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://hisingensck.se/
+
 - entry: 1230856195
   orgName: Rotary Lomma-Bjärred
   orgNumber: 002100-4619
@@ -12781,6 +12790,16 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.guif.nu/
+
+- entry: 1230886713
+  orgName: Sigge Cykel
+  orgNumber: 556194-0759
+  comment: null
+  categories:
+  - cykelsport
+  - försäljning
+  - reparationer
+  web: https://www.siggecykel.se/
 
 - entry: 1230886762
   orgName: Team Rynkeby
@@ -14093,6 +14112,15 @@ entries:
   categories:
   - djurskydd
   web: https://www.djurensvanner.se/vaxjo
+
+- entry: 1230970632
+  orgName: Vemdalens IF
+  orgNumber: 892600-3909
+  comment: Cykelsektionen
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://vemdalensif.se/
 
 - entry: 1230970707
   orgName: Hällbybrunns IF
@@ -21996,6 +22024,16 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/kbkarlskoga
 
+- entry: 1231507490
+  orgName: Cykelklubben Wheels of Carlshamn
+  orgNumber: 802505-7533
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  - mountainbikeklubb
+  web: https://woc.nu/
+
 - entry: 1231507557
   orgName: Sverige för UNHCR
   orgNumber: 802426-1250
@@ -24135,6 +24173,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/gavle
+
+- entry: 1231670330
+  orgName: Sigge Cykelklubb
+  orgNumber: 802517-8867
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://www.siggecykel.se/7-sigge-ck
 
 - entry: 1231670728
   orgName: Muslim Aid Sweden
@@ -27257,6 +27304,15 @@ entries:
   - religion
   - utbildning
   web: https://www.efs.nu/
+
+- entry: 1231891829
+  orgName: Hörby Cykelklubb
+  orgNumber: 802517-2753
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://www.horbyck.se/
 
 - entry: 1231892355
   orgName: Älmhults IF
@@ -32294,6 +32350,19 @@ entries:
   - motorsport
   web: https://mc-kompaniet.se/
 
+- entry: 1232261253
+  orgName: Sigtuna Sportsclub
+  orgNumber: 802505-2146
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  - löparklubb
+  - mountainbikeklubb
+  - simklubb
+  - triathlonklubb
+  web: https://www.sigtunasportsclub.se/
+
 - entry: 1232262012
   orgName: Föreningen för Olympisk Kortdistansskjutning FOK Borås
   orgNumber: 864501-6562
@@ -32446,6 +32515,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://locknevibygdegard.se/
+
+- entry: 1232269777
+  orgName: Kristinehamns Cykelklubb
+  orgNumber: 802475-5061
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://kristinehamnsck.se/
 
 - entry: 1232271310
   orgName: Alby IF
@@ -33907,6 +33985,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/reijmyreif
+
+- entry: 1232372027
+  orgName: Härnösands cykelklubb
+  orgNumber: 888000-3002
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://harnosandscykelklubb.klubbenonline.se/
 
 - entry: 1232372738
   orgName: Västerås SK Fotbollsklubb, VSK
@@ -48957,6 +49044,15 @@ entries:
   - flygsport
   web: https://www.msfk.nu/
 
+- entry: 1233506649
+  orgName: CK Ringen
+  orgNumber: 846000-0964
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://ckringen.se/
+
 - entry: 1233508199
   orgName: Skallsjö Församling
   orgNumber: 252001-5765
@@ -53667,6 +53763,16 @@ entries:
   - simsällskap
   web: https://www.laget.se/AhusSimsallskap/
 
+- entry: 1233884723
+  orgName: Cykling Utan Ålder
+  orgNumber: 802509-3801
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  - intresseförening
+  web: https://cyklingutanalder.se/
+
 - entry: 1233884889
   orgName: Södra Härene IF
   orgNumber: 864000-5925
@@ -54739,6 +54845,18 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.ifkas.com/
+
+- entry: 1233955549
+  orgName: IF Hallby SOK
+  orgNumber: 826002-1301
+  comment: Cykelsektionen/MTB
+  categories:
+  - cykelklubb
+  - idrottsförening
+  - mountainbikeklubb
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://hallbysok.se/
 
 - entry: 1233956000
   orgName: IFK Linköpings Boxningsklubb
@@ -80357,6 +80475,15 @@ entries:
   - religion
   web: http://www.falketorp.se/
 
+- entry: 1235947825
+  orgName: Falu Stigcyklister
+  orgNumber: 802461-0423
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: http://www.falustigcyklister.se/
+
 - entry: 1235948427
   orgName: Karlskoga Enduroklubb
   orgNumber: 876400-3946
@@ -82423,6 +82550,18 @@ entries:
   - hundklubb
   - hundsport
   web: https://snkinfo.wordpress.com/
+
+- entry: 1236127732
+  orgName: Bankeryds Skid o Motionsklubb, BSMK
+  orgNumber: 826002-0196
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  - innebandyklubb
+  - mountainbikeklubb
+  - skidlöparklubb
+  web: https://bsmk.se/
 
 - entry: 1236128599
   orgName: Svenska Fyrverkerimuseet
@@ -92585,6 +92724,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1236901128
+  orgName: Örebrocyklisterna
+  orgNumber: 875001-1556
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://orebrocyklisterna.se/
 
 - entry: 1236901557
   orgName: Brf Ingebäckslyckan 1
