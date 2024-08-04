@@ -31440,6 +31440,16 @@ entries:
   - idrottsförening
   web: https://ikbrage.se/
 
+- entry: 1232199230
+  orgName: Saab Turbo Club of Sweden
+  orgNumber: 858501-1359
+  comment: null
+  categories:
+  - bilsport
+  - fordonhistoria
+  - supporterklubb
+  web: https://www.saabturboclub.com/
+
 - entry: 1232199446
   orgName: Fritsla Hockeyklubb
   orgNumber: 802428-6836
@@ -71471,6 +71481,16 @@ entries:
   - idrottsförening
   web: https://www.ckuni.com/
 
+- entry: 1235262191
+  orgName: Gällstadbygdens Skid- & Orienteringsklubb
+  orgNumber: 802441-0139
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.gsok.se/
+
 - entry: 1235262449
   orgName: Gymnastikföreningen Astra
   orgNumber: 802461-6073
@@ -74757,6 +74777,23 @@ entries:
   - idrottsförbund
   - riksförbund
   web: https://sverigesskateboardforbund.se/
+
+- entry: 1235502950
+  orgName: IK Ymer
+  orgNumber: 864500-3024
+  comment: null
+  categories:
+  - bouleklubb
+  - boxningsklubb
+  - discgolfklubb
+  - friidrottsförening
+  - gymnastikförening
+  - idrottsförening
+  - motionsklubb
+  - orienteringsklubb
+  - skidlöparklubb
+  - volleybollklubb
+  web: https://www.ikymer.se/
 
 - entry: 1235503073
   orgName: Laurentiistiftelsen
@@ -92616,6 +92653,15 @@ entries:
   - busstrafik
   - charterbuss
   web: https://www.gardbybuss.se/
+
+- entry: 1236823801
+  orgName: Oppunda Jaktskytteklubb
+  orgNumber: 802417-3653
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  web: https://www.oppunda.com/
 
 - entry: 1236824114
   orgName: Piteå Bouleklubb

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-08-03-rev-224256
+# Date: 2024-08-04-rev-122221
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3529,6 +3529,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232196004	812000-0289	Waxholms Gymnastikförening	https://www.wgf.nu/	gymnastikförening	
 1232196038	825001-2294	Centrumkyrkans församling i Norrköping	https://www.centrumkyrkan-norrkoping.se/	donation,religion	
 1232196483	882600-0989	IK Brage	https://ikbrage.se/	idrottsförening	Biljetter
+1232199230	858501-1359	Saab Turbo Club of Sweden	https://www.saabturboclub.com/	bilsport,fordonhistoria,supporterklubb	
 1232199446	802428-6836	Fritsla Hockeyklubb	https://www.svenskalag.se/fritslahk	idrottsförening,ishockeyklubb	
 1232200038	610302-XXXX	Enskild Firma / Maria Jonsson		yoga	
 1232200285	889600-9001	Intresseföreningen Skorpeds Framtid	http://skorped.se/	hembygdsförening,intresseförening	
@@ -8004,6 +8005,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235261698	252000-0486	Sollentuna Församling	https://www.svenskakyrkan.se/sollentuna	religion	Edsbergskyrkan
 1235261805	894001-0427	EFS Missionsförening i Sävar	https://www.savarakyrkan.se/	religion	
 1235261847	802421-7310	CK Uni - Cykel	https://www.ckuni.com/	cykelklubb,cykelsport,idrottsförening	
+1235262191	802441-0139	Gällstadbygdens Skid- & Orienteringsklubb	https://www.gsok.se/	idrottsförening,orienteringsklubb,skidlöparklubb	
 1235262449	802461-6073	Gymnastikföreningen Astra	https://www.gfastra.se/	gymnastikförening,idrottsförening	
 1235262498	843000-3809	Svedbergs GIF	https://www.svenskalag.se/sgif	bordtennisklubb,fotbollsklubb,friskvård,idrottsförening,motionsklubb	
 1235262506	858500-6375	BMK Uddevalla - Motorcykel och Snöskoter	https://www.bmkuddevalla.se/	motorcykelklubb,motorsport,snöskoterklubb	
@@ -8368,6 +8370,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235490487	802526-5607	Frivilligcenter GoKungsbacka	https://www.gokungsbacka.se/	frivilligcenter,hjälporganisation	
 1235502059	802494-5928	Kvinnojouren I Sundberg	https://www.kvinnojourenisundbyberg.com/	kvinnojour	
 1235502349	802464-4653	Sveriges Skateboardförbund	https://sverigesskateboardforbund.se/	förbund,idrottsförbund,riksförbund	
+1235502950	864500-3024	IK Ymer	https://www.ikymer.se/	bouleklubb,boxningsklubb,discgolfklubb,friidrottsförening,gymnastikförening,idrottsförening,motionsklubb,orienteringsklubb,skidlöparklubb,volleybollklubb	
 1235503073	845000-1022	Laurentiistiftelsen	http://www.laurentiistiftelsen.se/	religion	
 1235503222	829502-0625	Åseda Ryttarförening - Ridsport	https://www.asedaryttarforening.se/	ridklubb,ridsport,ryttarförening	
 1235503297	817300-3891	Gimo SS	https://www.svenskalag.se/gimoss	idrottsförening,simklubb,simsällskap	
@@ -10353,6 +10356,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236821482	559479-8307	No Connection AB	https://www.no-connection.se/vildhjarta	retreat	
 1236821656	894000-7118	PRO Teg	https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-umea/foreningar/teg.html	pensionärsklubb	
 1236823553	530510-XXXX	Gårdby Buss	https://www.gardbybuss.se/	busstrafik,charterbuss	
+1236823801	802417-3653	Oppunda Jaktskytteklubb	https://www.oppunda.com/	jaktskytteklubb,skytteklubb	
 1236824114	898800-9992	Piteå Bouleklubb	https://www.svenskalag.se/piteabouleklubb	bouleklubb,idrottsförening	
 1236824619	857200-2916	Göteborgs Dövas Förening	https://gdf.nu/	döv,förening,hörselnedsättning,hörselskadad	
 1236825376	854600-5615	Bovallstrands Hembygdsförening	https://bovallstrand.com/	hembygdsförening	
