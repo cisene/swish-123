@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-05-rev-193402",
+    "date": "2024-08-06-rev-135705",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -487,6 +487,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.friskissvettis.se/knivsta"
+    },
+    {
+      "entry": 1230018465,
+      "orgName": "F\u00f6reningen f\u00f6r M/S Moa",
+      "orgNumber": "802431-7219",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.msmoa.se/"
     },
     {
       "entry": 1230018549,
@@ -1857,6 +1867,16 @@
       "web": "https://sites.google.com/site/dskkhemsida/"
     },
     {
+      "entry": 1230099507,
+      "orgName": "Dan Andersson-S\u00e4llskapet",
+      "orgNumber": "883800-3443",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.danasallskapet.se/"
+    },
+    {
       "entry": 1230100073,
       "orgName": "Nacka GK",
       "orgNumber": "814000-9302",
@@ -3170,6 +3190,16 @@
         "korpenf\u00f6rening"
       ],
       "web": "https://www.korpen.se/korpenkalmar"
+    },
+    {
+      "entry": 1230192211,
+      "orgName": "S\u00e4llskapet Moderata kvinnors historia",
+      "orgNumber": "802411-8013",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://moderatakvinnorshistoria.se/"
     },
     {
       "entry": 1230192526,
@@ -4991,6 +5021,7 @@
       "comment": null,
       "categories": [
         "historief\u00f6rening",
+        "intressef\u00f6rening",
         "museum"
       ],
       "web": "https://bahcomuseum.se/"
@@ -10932,6 +10963,17 @@
         "stuguthyrning"
       ],
       "web": "https://www.hornscamping.se/"
+    },
+    {
+      "entry": 1230634840,
+      "orgName": "Bokhistoriska S\u00e4llskapet",
+      "orgNumber": "846501-9662",
+      "comment": null,
+      "categories": [
+        "histories\u00e4llskap",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://bokhistoriska.se/"
     },
     {
       "entry": 1230635714,
@@ -17375,6 +17417,16 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://www.hbif.se/"
+    },
+    {
+      "entry": 1230970798,
+      "orgName": "Harry Martinson-s\u00e4llskapet",
+      "orgNumber": "835600-3288",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://harrymartinson.se/"
     },
     {
       "entry": 1230971705,
@@ -24670,6 +24722,16 @@
       "web": "https://www.vasterasbilmcskola.se/"
     },
     {
+      "entry": 1231375468,
+      "orgName": "S\u00e4llskapet S/S Trafiks V\u00e4nner",
+      "orgNumber": "867200-6015",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://sstrafik.se/"
+    },
+    {
       "entry": 1231375765,
       "orgName": "Eksj\u00f6ortens RF - Ridsport",
       "orgNumber": "827000-0568",
@@ -27237,6 +27299,16 @@
       "web": "http://www.frosohastgard.se/"
     },
     {
+      "entry": 1231522796,
+      "orgName": "Kerstin Hesselgren-S\u00e4llskapet",
+      "orgNumber": "802434-5996",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": null
+    },
+    {
       "entry": 1231524065,
       "orgName": "Stillings\u00f6n & K\u00e5rekile Sportklubb, SKSK",
       "orgNumber": "802534-2414",
@@ -27628,7 +27700,7 @@
     },
     {
       "entry": 1231554732,
-      "orgName": "Marinarkeologiska S\u00e4llskapet",
+      "orgName": "Marinarkeologiska S\u00e4llskapet, MAS",
       "orgNumber": "802437-5449",
       "comment": null,
       "categories": [
@@ -29112,6 +29184,17 @@
         "kvinnojour"
       ],
       "web": "https://www.kvinnojourenanna.se/"
+    },
+    {
+      "entry": 1231626043,
+      "orgName": "Njurunda IK",
+      "orgNumber": "889201-0904",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.njurundaik.se/"
     },
     {
       "entry": 1231626506,
@@ -31485,6 +31568,18 @@
       "web": "https://portal.clubrunner.ca/15601/"
     },
     {
+      "entry": 1231766765,
+      "orgName": "S\u00e4llskapet Castellanerna",
+      "orgNumber": "836200-9592",
+      "comment": null,
+      "categories": [
+        "historief\u00f6rening",
+        "histories\u00e4llskap",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://castellanerna.se/"
+    },
+    {
       "entry": 1231767235,
       "orgName": "Kristianstads Zontaklubb",
       "orgNumber": "802491-9683",
@@ -33248,7 +33343,7 @@
       "comment": null,
       "categories": [
         "antikvariat",
-        "cafe",
+        "caf\u00e9",
         "hembygdsf\u00f6rening",
         "logi"
       ],
@@ -34256,6 +34351,17 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://www.svenskalag.se/lidkopingsvsk"
+    },
+    {
+      "entry": 1231950013,
+      "orgName": "Hush\u00e5llningss\u00e4llskapet i Stockholms, Uppsala och S\u00f6dermanlands l\u00e4n",
+      "orgNumber": "262000-0022",
+      "comment": null,
+      "categories": [
+        "hush\u00e5llningss\u00e4llskap",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://hushallningssallskapet.se/hushallningssallskapet-stockholm-uppsala-sodermanland/"
     },
     {
       "entry": 1231950195,
@@ -37785,6 +37891,16 @@
       "web": "https://www.laget.se/PixboIBF/"
     },
     {
+      "entry": 1232168854,
+      "orgName": "Werml\u00e4ndska S\u00e4llskapet",
+      "orgNumber": "802003-8314",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.wermlandskasallskapet.se/"
+    },
+    {
       "entry": 1232169217,
       "orgName": "Ume\u00e5 Brukshundklubb",
       "orgNumber": "894002-8726",
@@ -40043,6 +40159,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://kristinehamnsck.se/"
+    },
+    {
+      "entry": 1232270106,
+      "orgName": "S\u00e4llskapet Arconaseglare",
+      "orgNumber": "802528-9532",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://www.sarc.se/"
     },
     {
       "entry": 1232271310,
@@ -44328,6 +44456,17 @@
       "web": "http://www.ostk.se/"
     },
     {
+      "entry": 1232558716,
+      "orgName": "Segels\u00e4llskapet Sj\u00f6h\u00e4sten",
+      "orgNumber": "843000-9327",
+      "comment": null,
+      "categories": [
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://arild.se/foreningarna/ss-sjohasten/"
+    },
+    {
       "entry": 1232558757,
       "orgName": "Rotary S\u00f6derk\u00f6ping",
       "orgNumber": "802506-0768",
@@ -44842,6 +44981,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://astorpsck.se/"
+    },
+    {
+      "entry": 1232593291,
+      "orgName": "Svenska Rosens\u00e4llskapet, SRS",
+      "orgNumber": "843001-7098",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://svenskarosensallskapet.se/"
     },
     {
       "entry": 1232593424,
@@ -47813,6 +47962,16 @@
         "massage"
       ],
       "web": null
+    },
+    {
+      "entry": 1232752715,
+      "orgName": "Svenska S\u00e4llskapet f\u00f6r Dermatologisk Kirurgi och Onkologi, SDKO",
+      "orgNumber": "202100-2973",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://ssdv.se/sdko/om-sdko"
     },
     {
       "entry": 1232753010,
@@ -51439,7 +51598,7 @@
     },
     {
       "entry": 1232968550,
-      "orgName": "Svenska S\u00e4llskapet f\u00f6r Nykterhet",
+      "orgName": "Svenska S\u00e4llskapet f\u00f6r Nykterhet och Folkbildning",
       "orgNumber": "802002-5121",
       "comment": null,
       "categories": [
@@ -66446,6 +66605,16 @@
       "web": "https://farnebo.se/"
     },
     {
+      "entry": 1233892577,
+      "orgName": "Milit\u00e4rs\u00e4llskapet",
+      "orgNumber": "802002-3134",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.militarsallskapet.se/"
+    },
+    {
       "entry": 1233892759,
       "orgName": "Vilhelmina F\u00f6rsamling",
       "orgNumber": "252002-5004",
@@ -67074,7 +67243,8 @@
       "comment": "Salt - barn och unga i EFS",
       "categories": [
         "donation",
-        "religion"
+        "religion",
+        "stiftelse"
       ],
       "web": "https://www.efs.nu/"
     },
@@ -71690,6 +71860,17 @@
       "web": "https://edssk.com/"
     },
     {
+      "entry": 1234227807,
+      "orgName": "F\u00f6reningen Gamla Lund",
+      "orgNumber": "845000-5643",
+      "comment": null,
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://gamlalund.se/"
+    },
+    {
       "entry": 1234228268,
       "orgName": "M\u00f6lndals IBF",
       "orgNumber": "802440-4447",
@@ -73484,6 +73665,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
+      "entry": 1234356846,
+      "orgName": "Stiftshistoriska s\u00e4llskapet, Lule\u00e5 stift",
+      "orgNumber": "252010-0112",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/luleastift"
     },
     {
       "entry": 1234357000,
@@ -78655,6 +78846,19 @@
       "web": "https://www.sigtunaok.se/"
     },
     {
+      "entry": 1234674750,
+      "orgName": "S\u00e4llskapet Tr\u00e4dg\u00e5rdsamat\u00f6rerna S\u00f6dra Sm\u00e5land, STASS",
+      "orgNumber": "802444-7149",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "tr\u00e4dg\u00e5rdsf\u00f6rening",
+        "tr\u00e4dg\u00e5rdsodling",
+        "tr\u00e4dg\u00e5rdss\u00e4llskap"
+      ],
+      "web": "https://www.stass.se/"
+    },
+    {
       "entry": 1234675047,
       "orgName": "Indo-Swedish Rheumatology Foundation, ISRF",
       "orgNumber": "802478-1414",
@@ -79998,6 +80202,7 @@
       "categories": [
         "entomologi",
         "f\u00f6rening",
+        "intressef\u00f6rening",
         "sm\u00e5kryp"
       ],
       "web": "http://www.ento.se/"
@@ -80495,6 +80700,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/OjebynsIBF/"
+    },
+    {
+      "entry": 1234817508,
+      "orgName": "Hush\u00e5llningss\u00e4llskapet \u00d6rebro",
+      "orgNumber": "262000-0188",
+      "comment": null,
+      "categories": [
+        "hush\u00e5llningss\u00e4llskap",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://hushallningssallskapet.se/hushallningssallskapet-orebro/"
     },
     {
       "entry": 1234817615,
@@ -92823,6 +93039,16 @@
       "web": "https://digitaldemokrati.se/"
     },
     {
+      "entry": 1235560727,
+      "orgName": "Per Ekstr\u00f6ms\u00e4llskapet",
+      "orgNumber": "802528-2594",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://ekstromsallskapet.se/"
+    },
+    {
       "entry": 1235562137,
       "orgName": "Ishallen i Valdemarsvik AB",
       "orgNumber": "559308-7041",
@@ -93611,7 +93837,7 @@
       "orgNumber": "802503-4813",
       "comment": null,
       "categories": [
-        "f\u00f6rening"
+        "intressef\u00f6rening"
       ],
       "web": "https://stenhammarsallskapet.com/"
     },
@@ -100724,6 +100950,16 @@
       "web": "https://www.studebakerklubben.se/"
     },
     {
+      "entry": 1236040869,
+      "orgName": "Rickard Wilson-S\u00e4llskapet",
+      "orgNumber": "802416-7309",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://avancez.se/en/foreningar/rickard-wilson-sallskapet"
+    },
+    {
       "entry": 1236042485,
       "orgName": "H\u00f6n\u00f6 Missionsf\u00f6rsamling",
       "orgNumber": "857200-7600",
@@ -102388,6 +102624,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/gagnef"
+    },
+    {
+      "entry": 1236156475,
+      "orgName": "Carl Olof Rosenius-s\u00e4llskapet",
+      "orgNumber": "802508-9445",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.co-rosenius.se/"
     },
     {
       "entry": 1236156558,
@@ -104184,6 +104430,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236250179,
+      "orgName": "Gryts Segels\u00e4llskap",
+      "orgNumber": "802461-6016",
+      "comment": null,
+      "categories": [
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://grss.bloggo.nu/"
     },
     {
       "entry": 1236250443,

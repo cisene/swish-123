@@ -404,6 +404,14 @@ entries:
   - idrottsförening
   web: https://www.friskissvettis.se/knivsta
 
+- entry: 1230018465
+  orgName: Föreningen för M/S Moa
+  orgNumber: 802431-7219
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.msmoa.se/
+
 - entry: 1230018481
   orgName: Hacksjöbanans SkytteOrganisation, HSO
   orgNumber: 802453-2676
@@ -1537,6 +1545,14 @@ entries:
   - orientering
   web: https://sites.google.com/site/dskkhemsida/
 
+- entry: 1230099507
+  orgName: Dan Andersson-Sällskapet
+  orgNumber: 883800-3443
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.danasallskapet.se/
+
 - entry: 1230100073
   orgName: Nacka GK
   orgNumber: 814000-9302
@@ -2614,6 +2630,14 @@ entries:
   - idrottsförening
   - korpenförening
   web: https://www.korpen.se/korpenkalmar
+
+- entry: 1230192211
+  orgName: Sällskapet Moderata kvinnors historia
+  orgNumber: 802411-8013
+  comment: null
+  categories:
+  - intresseförening
+  web: https://moderatakvinnorshistoria.se/
 
 - entry: 1230192526
   orgName: Olsnäsgårdens Vänner
@@ -4117,6 +4141,7 @@ entries:
   comment: null
   categories:
   - historieförening
+  - intresseförening
   - museum
   web: https://bahcomuseum.se/
 
@@ -9002,6 +9027,15 @@ entries:
   - logi
   - stuguthyrning
   web: https://www.hornscamping.se/
+
+- entry: 1230634840
+  orgName: Bokhistoriska Sällskapet
+  orgNumber: 846501-9662
+  comment: null
+  categories:
+  - historiesällskap
+  - kulturförening
+  web: https://bokhistoriska.se/
 
 - entry: 1230635714
   orgName: Tankesmedjan Balans
@@ -14305,6 +14339,14 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: https://www.hbif.se/
+
+- entry: 1230970798
+  orgName: Harry Martinson-sällskapet
+  orgNumber: 835600-3288
+  comment: null
+  categories:
+  - intresseförening
+  web: https://harrymartinson.se/
 
 - entry: 1230971705
   orgName: Eslövs Simsällskap
@@ -20297,6 +20339,14 @@ entries:
   - utbildning
   web: https://www.vasterasbilmcskola.se/
 
+- entry: 1231375468
+  orgName: Sällskapet S/S Trafiks Vänner
+  orgNumber: 867200-6015
+  comment: null
+  categories:
+  - intresseförening
+  web: https://sstrafik.se/
+
 - entry: 1231375765
   orgName: Eksjöortens RF - Ridsport
   orgNumber: 827000-0568
@@ -22420,6 +22470,14 @@ entries:
   - stallplats
   web: http://www.frosohastgard.se/
 
+- entry: 1231522796
+  orgName: Kerstin Hesselgren-Sällskapet
+  orgNumber: 802434-5996
+  comment: null
+  categories:
+  - intresseförening
+  web: null
+
 - entry: 1231524065
   orgName: Stillingsön & Kårekile Sportklubb, SKSK
   orgNumber: 802534-2414
@@ -22745,7 +22803,7 @@ entries:
   web: https://www.svenskakyrkan.se/gislaved
 
 - entry: 1231554732
-  orgName: Marinarkeologiska Sällskapet
+  orgName: Marinarkeologiska Sällskapet, MAS
   orgNumber: 802437-5449
   comment: null
   categories:
@@ -23966,6 +24024,15 @@ entries:
   categories:
   - kvinnojour
   web: https://www.kvinnojourenanna.se/
+
+- entry: 1231626043
+  orgName: Njurunda IK
+  orgNumber: 889201-0904
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.njurundaik.se/
 
 - entry: 1231626506
   orgName: Enköpings MK - Bilsport
@@ -25900,6 +25967,16 @@ entries:
   - rotaryklubb
   web: https://portal.clubrunner.ca/15601/
 
+- entry: 1231766765
+  orgName: Sällskapet Castellanerna
+  orgNumber: 836200-9592
+  comment: null
+  categories:
+  - historieförening
+  - historiesällskap
+  - intresseförening
+  web: https://castellanerna.se/
+
 - entry: 1231767235
   orgName: Kristianstads Zontaklubb
   orgNumber: 802491-9683
@@ -27365,7 +27442,7 @@ entries:
   comment: null
   categories:
   - antikvariat
-  - cafe
+  - café
   - hembygdsförening
   - logi
   web: http://www.gardslosaprastgard.se/
@@ -28190,6 +28267,15 @@ entries:
   - orienteringsklubb
   - skidlöparklubb
   web: https://www.svenskalag.se/lidkopingsvsk
+
+- entry: 1231950013
+  orgName: Hushållningssällskapet i Stockholms, Uppsala och Södermanlands län
+  orgNumber: 262000-0022
+  comment: null
+  categories:
+  - hushållningssällskap
+  - intresseförening
+  web: https://hushallningssallskapet.se/hushallningssallskapet-stockholm-uppsala-sodermanland/
 
 - entry: 1231950195
   orgName: Valbo FF
@@ -31083,6 +31169,14 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/PixboIBF/
 
+- entry: 1232168854
+  orgName: Wermländska Sällskapet
+  orgNumber: 802003-8314
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.wermlandskasallskapet.se/
+
 - entry: 1232169217
   orgName: Umeå Brukshundklubb
   orgNumber: 894002-8726
@@ -32962,6 +33056,16 @@ entries:
   - cykelklubb
   - idrottsförening
   web: https://kristinehamnsck.se/
+
+- entry: 1232270106
+  orgName: Sällskapet Arconaseglare
+  orgNumber: 802528-9532
+  comment: null
+  categories:
+  - intresseförening
+  - segelklubb
+  - segelsällskap
+  web: https://www.sarc.se/
 
 - entry: 1232271310
   orgName: Alby IF
@@ -36518,6 +36622,15 @@ entries:
   - tennisklubb
   web: http://www.ostk.se/
 
+- entry: 1232558716
+  orgName: Segelsällskapet Sjöhästen
+  orgNumber: 843000-9327
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://arild.se/foreningarna/ss-sjohasten/
+
 - entry: 1232558757
   orgName: Rotary Söderköping
   orgNumber: 802506-0768
@@ -36954,6 +37067,14 @@ entries:
   - cykelklubb
   - idrottsförening
   web: https://astorpsck.se/
+
+- entry: 1232593291
+  orgName: Svenska Rosensällskapet, SRS
+  orgNumber: 843001-7098
+  comment: null
+  categories:
+  - intresseförening
+  web: https://svenskarosensallskapet.se/
 
 - entry: 1232593424
   orgName: Emerichfonden
@@ -39390,6 +39511,14 @@ entries:
   categories:
   - massage
   web: null
+
+- entry: 1232752715
+  orgName: Svenska Sällskapet för Dermatologisk Kirurgi och Onkologi, SDKO
+  orgNumber: 202100-2973
+  comment: null
+  categories:
+  - intresseförening
+  web: https://ssdv.se/sdko/om-sdko
 
 - entry: 1232753010
   orgName: Tjej- & Kvinnojouren Nordvärmland
@@ -42374,7 +42503,7 @@ entries:
   web: https://www.harf.se/
 
 - entry: 1232968550
-  orgName: Svenska Sällskapet för Nykterhet
+  orgName: Svenska Sällskapet för Nykterhet och Folkbildning
   orgNumber: 802002-5121
   comment: null
   categories:
@@ -54710,6 +54839,14 @@ entries:
   - utbildning
   web: https://farnebo.se/
 
+- entry: 1233892577
+  orgName: Militärsällskapet
+  orgNumber: 802002-3134
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.militarsallskapet.se/
+
 - entry: 1233892759
   orgName: Vilhelmina Församling
   orgNumber: 252002-5004
@@ -55243,6 +55380,7 @@ entries:
   categories:
   - donation
   - religion
+  - stiftelse
   web: https://www.efs.nu/
 
 - entry: 1233933579
@@ -59040,6 +59178,15 @@ entries:
   - skidlöparklubb
   web: https://edssk.com/
 
+- entry: 1234227807
+  orgName: Föreningen Gamla Lund
+  orgNumber: 845000-5643
+  comment: null
+  categories:
+  - historieförening
+  - intresseförening
+  web: https://gamlalund.se/
+
 - entry: 1234228268
   orgName: Mölndals IBF
   orgNumber: 802440-4447
@@ -60534,6 +60681,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/sodraoland
+
+- entry: 1234356846
+  orgName: Stiftshistoriska sällskapet, Luleå stift
+  orgNumber: 252010-0112
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/luleastift
 
 - entry: 1234357000
   orgName: Kvinno- och tjejjouren Pax
@@ -64789,6 +64944,17 @@ entries:
   - orienteringsklubb
   web: https://www.sigtunaok.se/
 
+- entry: 1234674750
+  orgName: Sällskapet Trädgårdsamatörerna Södra Småland, STASS
+  orgNumber: 802444-7149
+  comment: null
+  categories:
+  - intresseförening
+  - trädgårdsförening
+  - trädgårdsodling
+  - trädgårdssällskap
+  web: https://www.stass.se/
+
 - entry: 1234675047
   orgName: Indo-Swedish Rheumatology Foundation, ISRF
   orgNumber: 802478-1414
@@ -65884,6 +66050,7 @@ entries:
   categories:
   - entomologi
   - förening
+  - intresseförening
   - småkryp
   web: http://www.ento.se/
 
@@ -66288,6 +66455,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/OjebynsIBF/
+
+- entry: 1234817508
+  orgName: Hushållningssällskapet Örebro
+  orgNumber: 262000-0188
+  comment: null
+  categories:
+  - hushållningssällskap
+  - intresseförening
+  web: https://hushallningssallskapet.se/hushallningssallskapet-orebro/
 
 - entry: 1234817615
   orgName: Gryts IF
@@ -76444,6 +76620,14 @@ entries:
   - intresseförening
   web: https://digitaldemokrati.se/
 
+- entry: 1235560727
+  orgName: Per Ekströmsällskapet
+  orgNumber: 802528-2594
+  comment: null
+  categories:
+  - intresseförening
+  web: https://ekstromsallskapet.se/
+
 - entry: 1235562137
   orgName: Ishallen i Valdemarsvik AB
   orgNumber: 559308-7041
@@ -77090,7 +77274,7 @@ entries:
   orgNumber: 802503-4813
   comment: null
   categories:
-  - förening
+  - intresseförening
   web: https://stenhammarsallskapet.com/
 
 - entry: 1235607965
@@ -82980,6 +83164,14 @@ entries:
   - veteranbil
   web: https://www.studebakerklubben.se/
 
+- entry: 1236040869
+  orgName: Rickard Wilson-Sällskapet
+  orgNumber: 802416-7309
+  comment: null
+  categories:
+  - intresseförening
+  web: https://avancez.se/en/foreningar/rickard-wilson-sallskapet
+
 - entry: 1236042485
   orgName: Hönö Missionsförsamling
   orgNumber: 857200-7600
@@ -84375,6 +84567,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/gagnef
+
+- entry: 1236156475
+  orgName: Carl Olof Rosenius-sällskapet
+  orgNumber: 802508-9445
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.co-rosenius.se/
 
 - entry: 1236156558
   orgName: Brottsofferjouren Norra Dalarna
@@ -85847,6 +86047,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1236250179
+  orgName: Gryts Segelsällskap
+  orgNumber: 802461-6016
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://grss.bloggo.nu/
 
 - entry: 1236250443
   orgName: Tynderö IK
