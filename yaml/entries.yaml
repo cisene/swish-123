@@ -28075,6 +28075,15 @@ entries:
   - innebandyklubb
   web: https://www.svenskalag.se/bjorsaterssk
 
+- entry: 1231900109
+  orgName: Jazzklubben Sundsvall
+  orgNumber: 889201-1712
+  comment: null
+  categories:
+  - jazzclub
+  - musikförening
+  web: https://jazzklubbensundsvall.se/
+
 - entry: 1231900349
   orgName: SPF Seniorerna Tölö-Älvsåker
   orgNumber: 849400-5716
@@ -29656,6 +29665,15 @@ entries:
   - idrottshistoria
   - intresseförening
   web: https://www.skaraihs.se/
+
+- entry: 1232037406
+  orgName: TBN Nordic
+  orgNumber: 802517-4056
+  comment: null
+  categories:
+  - religion
+  - streamingtjänst
+  web: https://www.tbnplay.se/
 
 - entry: 1232037968
   orgName: Hugos Stiftelse
@@ -34186,6 +34204,15 @@ entries:
   - healing
   web: https://www.lifeforum.se/
 
+- entry: 1232315653
+  orgName: Djurskyddet Strängnäs
+  orgNumber: 819500-3887
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.djurskyddet.se/strangnas/
+
 - entry: 1232316024
   orgName: Uppsala Domkyrkoförsamling
   orgNumber: 252000-1583
@@ -35180,6 +35207,15 @@ entries:
   categories:
   - intresseförening
   web: https://www.textilgotland.net/
+
+- entry: 1232387306
+  orgName: Vikingarnas Segelsällskap
+  orgNumber: 802003-7068
+  comment: Ekholmen
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://vss.nu/
 
 - entry: 1232387389
   orgName: Öppet Hus
@@ -48413,6 +48449,15 @@ entries:
   categories:
   - stiftelse
   web: https://www.childrenshome.se/
+
+- entry: 1233387008
+  orgName: Historiska Sällskapet Gamla Wernamo
+  orgNumber: 828001-0862
+  comment: null
+  categories:
+  - historieförening
+  - intresseförening
+  web: https://gamlawernamo.se/
 
 - entry: 1233387503
   orgName: Shanta Idrottsförening
@@ -65579,6 +65624,14 @@ entries:
   - idrottsförening
   web: https://www.lugihandboll.se/
 
+- entry: 1234680815
+  orgName: Till Sängs / Samanda Ekman
+  orgNumber: 810720-XXXX
+  comment: null
+  categories:
+  - podcast
+  web: https://pod.space/tillsangs
+
 - entry: 1234682712
   orgName: Svenska Omnibusföreningen
   orgNumber: 802006-8253
@@ -70294,7 +70347,7 @@ entries:
   categories:
   - hästsport
   - körklubb
-  - ridklubbss
+  - ridklubb
   - ridskola
   web: https://orks.nu/
 
@@ -90629,6 +90682,16 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/IKrosso/
+
+- entry: 1236544035
+  orgName: Olle Adolphson-Sällskapet, OAS
+  orgNumber: 802543-2348
+  comment: null
+  categories:
+  - historieförening
+  - intresseförening
+  - musikförening
+  web: https://olleadolphsonsallskapet.se/
 
 - entry: 1236546477
   orgName: null

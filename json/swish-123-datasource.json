@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-07-rev-170055",
+    "date": "2024-08-07-rev-201426",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -34105,6 +34105,17 @@
       "web": "https://www.svenskalag.se/bjorsaterssk"
     },
     {
+      "entry": 1231900109,
+      "orgName": "Jazzklubben Sundsvall",
+      "orgNumber": "889201-1712",
+      "comment": null,
+      "categories": [
+        "jazzclub",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://jazzklubbensundsvall.se/"
+    },
+    {
       "entry": 1231900349,
       "orgName": "SPF Seniorerna T\u00f6l\u00f6-\u00c4lvs\u00e5ker",
       "orgNumber": "849400-5716",
@@ -36037,6 +36048,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.skaraihs.se/"
+    },
+    {
+      "entry": 1232037406,
+      "orgName": "TBN Nordic",
+      "orgNumber": "802517-4056",
+      "comment": null,
+      "categories": [
+        "religion",
+        "streamingtj\u00e4nst"
+      ],
+      "web": "https://www.tbnplay.se/"
     },
     {
       "entry": 1232037968,
@@ -41502,6 +41524,17 @@
       "web": "https://www.lifeforum.se/"
     },
     {
+      "entry": 1232315653,
+      "orgName": "Djurskyddet Str\u00e4ngn\u00e4s",
+      "orgNumber": "819500-3887",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/strangnas/"
+    },
+    {
       "entry": 1232316024,
       "orgName": "Uppsala Domkyrkof\u00f6rsamling",
       "orgNumber": "252000-1583",
@@ -42721,6 +42754,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.textilgotland.net/"
+    },
+    {
+      "entry": 1232387306,
+      "orgName": "Vikingarnas Segels\u00e4llskap",
+      "orgNumber": "802003-7068",
+      "comment": "Ekholmen",
+      "categories": [
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://vss.nu/"
     },
     {
       "entry": 1232387389,
@@ -58727,6 +58771,17 @@
         "stiftelse"
       ],
       "web": "https://www.childrenshome.se/"
+    },
+    {
+      "entry": 1233387008,
+      "orgName": "Historiska S\u00e4llskapet Gamla Wernamo",
+      "orgNumber": "828001-0862",
+      "comment": null,
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://gamlawernamo.se/"
     },
     {
       "entry": 1233387503,
@@ -79608,6 +79663,16 @@
       "web": "https://www.lugihandboll.se/"
     },
     {
+      "entry": 1234680815,
+      "orgName": "Till S\u00e4ngs / Samanda Ekman",
+      "orgNumber": "810720-XXXX",
+      "comment": null,
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://pod.space/tillsangs"
+    },
+    {
       "entry": 1234682712,
       "orgName": "Svenska Omnibusf\u00f6reningen",
       "orgNumber": "802006-8253",
@@ -85337,7 +85402,7 @@
       "categories": [
         "h\u00e4stsport",
         "k\u00f6rklubb",
-        "ridklubbss",
+        "ridklubb",
         "ridskola"
       ],
       "web": "https://orks.nu/"
@@ -109943,6 +110008,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/IKrosso/"
+    },
+    {
+      "entry": 1236544035,
+      "orgName": "Olle Adolphson-S\u00e4llskapet, OAS",
+      "orgNumber": "802543-2348",
+      "comment": null,
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://olleadolphsonsallskapet.se/"
     },
     {
       "entry": 1236546519,

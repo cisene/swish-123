@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-08-07-rev-170109
+# Date: 2024-08-07-rev-201440
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3153,6 +3153,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231899798	252000-0858	Ytterjärna Församling	https://www.svenskakyrkan.se/jarna-vardinge	religion	Kollekt
 1231899921	819001-3964	SPF Seniorerna Rosenkälla Nyköping	https://www.spfseniorerna.se/distrikt/sormland/foreningslista/nykopingsforeningen/	pensionärsklubb	
 1231899939	822001-2614	Björsäters SK	https://www.svenskalag.se/bjorsaterssk	atletklubb,discgolfklubb,fotbollsklubb,gymnastikförening,idrottsförening,innebandyklubb	
+1231900109	889201-1712	Jazzklubben Sundsvall	https://jazzklubbensundsvall.se/	jazzclub,musikförening	
 1231900349	849400-5716	SPF Seniorerna Tölö-Älvsåker	https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-seniorerna-tolo-alvsaker/	pensionärsklubb	
 1231900372	802528-6728	BarnensHjältar	https://barnenshjaltar.com/	barnverksamhet,ungdomsverksamhet	
 1231901172	839400-1807	Ängelholms SF	https://www.svenskalag.se/angelholmssf	skytteklubb,sportskytteklubb	
@@ -3329,6 +3330,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232031755	802003-1178	Sociala Missionen	http://www.socialamissionen.se/	hjälporganisation	
 1232032704	802480-4117	Madinah insamlingsstiftelse	https://www.madinahinsamlingsstiftelse.se/	religion,stiftelse	
 1232034080	802475-7083	Skara Idrottshistoriska Förening	https://www.skaraihs.se/	idrottshistoria,intresseförening	
+1232037406	802517-4056	TBN Nordic	https://www.tbnplay.se/	religion,streamingtjänst	
 1232037968	802480-8654	Hugos Stiftelse	https://hugosstiftelse.se/	aktiv fritid,barnverksamhet,funktionsnedsättning,stiftelse	
 1232039162	802474-6649	Kramfors BK	https://www.kramforsbk.se/	bowlingklubb,idrottsförening	
 1232039170	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Göteborg, Björkrisskolan
@@ -3830,6 +3832,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232314656	846000-7282	Malmö Brukshundsklubb	http://www.sbkmalmo.se/	brukshundsklubb,hundsport	
 1232314672	802450-9948	Havsnäsbygdens Skoterklubb		skoterklubb	
 1232315455	556600-0187	Lifeforum Sweden AB	https://www.lifeforum.se/	healing	
+1232315653	819500-3887	Djurskyddet Strängnäs	https://www.djurskyddet.se/strangnas/	djurskydd,katthem	
 1232316024	252000-1583	Uppsala Domkyrkoförsamling	https://www.svenskakyrkan.se/uppsala	religion	Act
 1232316925	802433-1459	Lundby IF	https://lundbyif.se/	idrottsförening	
 1232317220	012408-5507	Värnamo Bouleklubb	https://www.värnamobouleklubb.se/	bouleklubb,idrottsförening	
@@ -3943,6 +3946,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232386647	817300-1630	Borgenkyrkan Tierp	https://borgenkyrkan.se/	religion	
 1232386753	769613-8648	Stiftsgården Tallnäs	https://tallnas.se/	stiftelse	
 1232387207	834002-0562	Textil Gotland	https://www.textilgotland.net/	intresseförening	
+1232387306	802003-7068	Vikingarnas Segelsällskap	https://vss.nu/	segelklubb,segelsällskap	Ekholmen
 1232387389	802445-8906	Öppet Hus	https://www.oppethus.se/	mångfald,ungdomsverksamhet,utbildning	
 1232389161	252004-7131	Equmeniakyrkan	http://equmeniakyrkan.se/	religion	Gåvor
 1232389823	826000-0784	Pingst Jönköping	https://pingstjonkoping.se/	religion	Missionskassan
@@ -5417,6 +5421,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233384872	802434-2340	Föreningen Kattakuten i Norrbotten	https://kattinorr.se/	djurskydd,katthem	
 1233384989	802407-8779	1,6 Miljonerklubben	https://www.1.6miljonerklubben.com/	hälsa	
 1233385531	802488-4465	Children's Home	https://www.childrenshome.se/	stiftelse	
+1233387008	828001-0862	Historiska Sällskapet Gamla Wernamo	https://gamlawernamo.se/	historieförening,intresseförening	
 1233387503	802407-3697	Shanta Idrottsförening	https://www.korpen.se/shanta-idrottsforening	basketbollklubb,intresseförening,korpenförening	
 1233387727	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Kalmar län, Tjelvarskolan
 1233387735	802533-7786	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Lund, Alfredshällskolan
@@ -7338,6 +7343,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234677787	889600-6858	KB65 Hockey	https://www.svenskalag.se/kb65-hockey	idrottsförening,ishockeyklubb	
 1234677886	875001-1663	IFK Örebro Handboll	https://orebrohandboll.com/	handbollsklubb,idrottsförening	
 1234677894	845002-3885	LUGI Handboll	https://www.lugihandboll.se/	handbollsklubb,idrottsförening	Soffbiljett
+1234680815	810720-XXXX	Till Sängs / Samanda Ekman	https://pod.space/tillsangs	podcast	
 1234682712	802006-8253	Svenska Omnibusföreningen	https://www.omnibuss.se/	intresseförening,veteranfordon	
 1234684825	817605-3166	Västerås Ishockeyklubb, VIK	https://www.vik.se/	idrottsförening,ishockeyklubb	
 1234687034	802431-5981	SPF Seniorerna Orustveteranerna	https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/orustveteranerna/	pensionärsklubb	
@@ -7864,7 +7870,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235107461	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Täby, Skogsängsskolan
 1235107727	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Stockholm, Innovitaskolan / Farstaskolan
 1235107735	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Malmö, Ljungenskolan
-1235109103	826001-5303	Ölmstad Rid- & Körsällskap	https://orks.nu/	hästsport,körklubb,ridklubbss,ridskola	
+1235109103	826001-5303	Ölmstad Rid- & Körsällskap	https://orks.nu/	hästsport,körklubb,ridklubb,ridskola	
 1235109319	802005-2588	Svenska Budo & Kampsportsförbundet	https://www.budokampsport.se/	idrottsförbund	
 1235110226	252000-0973	Vaxholms Församling	https://www.svenskakyrkan.se/vaxholm	religion	Bokbord
 1235110358	802003-5393	Bilkårernas Stipendie Fond RTLM-Fond	https://bilkaren.se/	intresseförening,riksförbund	Totos fond
@@ -10121,6 +10127,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236539092	873200-5817	Karlstads Dykarklubb	https://www.karlstadsdk.com/	dykarklubb,sportdykning	
 1236539290	887000-6965	Järvsö skoterklubb	https://jarvsoskoterklubb.se/	skoterklubb	
 1236543508	858500-7290	IK Rössö Uddevalla	https://www.laget.se/IKrosso/	fotbollsklubb,idrottsförening	F16
+1236544035	802543-2348	Olle Adolphson-Sällskapet, OAS	https://olleadolphsonsallskapet.se/	historieförening,intresseförening,musikförening	
 1236546519	671225-XXXX	Let's Skyrocket / Skyrocket Podden / Carola Von Ahn	https://letsskyrocket.se/	numerologi,podcast,reiki,spiritualism	
 1236548390	835000-7954	Trummenäs Golfklubb	https://www.trummenasgk.se/	golfbana,golfklubb	
 1236548846	863500-4503	Lerums BK	https://www.laget.se/LerumsBK/	idrottsförening,ishockeyklubb	A-ungdom
