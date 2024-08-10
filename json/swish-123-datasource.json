@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-09-rev-151844",
+    "date": "2024-08-10-rev-113313",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -9941,6 +9941,16 @@
       "web": "https://portal.clubrunner.ca/50353/"
     },
     {
+      "entry": 1230560169,
+      "orgName": "Eda F\u00f6rsamling",
+      "orgNumber": "252002-0328",
+      "comment": "Kyrkans hus",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/eda-kola"
+    },
+    {
       "entry": 1230560540,
       "orgName": "Ge Det Vidare",
       "orgNumber": "802433-1863",
@@ -12318,6 +12328,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/alfta-ovanaker"
+    },
+    {
+      "entry": 1230713651,
+      "orgName": "Kulturf\u00f6reningen H\u00f6nsn\u00e4tet",
+      "orgNumber": "843003-3996",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://honsnatet.com/"
     },
     {
       "entry": 1230713974,
@@ -14959,6 +14980,17 @@
         "utbildning"
       ],
       "web": "https://www.svenskalag.se/ifkore"
+    },
+    {
+      "entry": 1230845222,
+      "orgName": "Sveriges Kyrkos\u00e5ngsf\u00f6rbund",
+      "orgNumber": "873201-0569",
+      "comment": null,
+      "categories": [
+        "k\u00f6rs\u00e5ng",
+        "religion"
+      ],
+      "web": "https://sjungikyrkan.nu/"
     },
     {
       "entry": 1230845453,
@@ -23581,6 +23613,16 @@
       "web": "https://www.svenskalag.se/stenungsundsbbk"
     },
     {
+      "entry": 1231304096,
+      "orgName": "Eda-K\u00f6la Pastorat",
+      "orgNumber": "252003-7215",
+      "comment": "Lersj\u00f6ns kapell",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/eda-kola"
+    },
+    {
       "entry": 1231304443,
       "orgName": "Furulunds F\u00f6rsamling",
       "orgNumber": "252004-8220",
@@ -28378,6 +28420,16 @@
       "web": "https://svkk.se/"
     },
     {
+      "entry": 1231573302,
+      "orgName": "Eda-K\u00f6la Pastorat",
+      "orgNumber": "252003-7215",
+      "comment": "\u00c5motfors kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/eda-kola"
+    },
+    {
       "entry": 1231573831,
       "orgName": "Blasieholmens V\u00e4nner",
       "orgNumber": "802511-1561",
@@ -32143,6 +32195,18 @@
       "web": "https://www.svenskalag.se/stensjonsif"
     },
     {
+      "entry": 1231780907,
+      "orgName": "Neurof\u00f6rbundet",
+      "orgNumber": "802002-3605",
+      "comment": null,
+      "categories": [
+        "f\u00f6rbund",
+        "insamlingskontroll",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://www.neuro.se/"
+    },
+    {
       "entry": 1231781608,
       "orgName": "Grytn\u00e4s GF",
       "orgNumber": "882000-4771",
@@ -32626,10 +32690,20 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231808419,
+      "orgName": "H\u00e4rn\u00f6sands Pastorat",
+      "orgNumber": "252003-7488",
+      "comment": "Julklappar",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/harnosand"
+    },
+    {
       "entry": 1231808484,
       "orgName": "H\u00e4rn\u00f6sands Pastorat",
       "orgNumber": "252003-7488",
-      "comment": null,
+      "comment": "Domkyrkof\u00f6rsamlingen",
       "categories": [
         "religion"
       ],
@@ -36167,6 +36241,16 @@
       "web": "https://aktivaseniorer-boras.se/"
     },
     {
+      "entry": 1232029155,
+      "orgName": "Eda F\u00f6rsamling",
+      "orgNumber": "252002-0328",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/eda-kola"
+    },
+    {
       "entry": 1232029361,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
@@ -36817,6 +36901,16 @@
         "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
+    },
+    {
+      "entry": 1232091304,
+      "orgName": "Stig Sj\u00f6din S\u00e4llskapet",
+      "orgNumber": "885501-3986",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://stigsjodin.wordpress.com/"
     },
     {
       "entry": 1232091551,
@@ -39317,6 +39411,16 @@
       "web": "https://haga-brunnsviken.org/"
     },
     {
+      "entry": 1232213791,
+      "orgName": "Eda-K\u00f6la Pastorat",
+      "orgNumber": "252003-7215",
+      "comment": "J\u00e4rnskogs kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/eda-kola"
+    },
+    {
       "entry": 1232213965,
       "orgName": "Lions Hallstavik-V\u00e4dd\u00f6",
       "orgNumber": "802510-5175",
@@ -40448,6 +40552,16 @@
         "triathlonklubb"
       ],
       "web": "https://www.sigtunasportsclub.se/"
+    },
+    {
+      "entry": 1232261915,
+      "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar",
+      "orgNumber": "802408-9032",
+      "comment": "Stockholm",
+      "categories": [
+        "f\u00f6r\u00e4ldraskap"
+      ],
+      "web": "https://makalosa.org/"
     },
     {
       "entry": 1232262012,
@@ -43569,9 +43683,9 @@
     },
     {
       "entry": 1232423374,
-      "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar Halmstad",
+      "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar",
       "orgNumber": "802534-5243",
-      "comment": null,
+      "comment": "Halmstad",
       "categories": [
         "f\u00f6r\u00e4ldraskap"
       ],
@@ -46684,6 +46798,17 @@
       "web": "http://www.fridenshalsa.se/"
     },
     {
+      "entry": 1232656643,
+      "orgName": "Link\u00f6pings Senioruniversitet",
+      "orgNumber": "822001-9569",
+      "comment": null,
+      "categories": [
+        "skola",
+        "utbildning"
+      ],
+      "web": "https://www.sulink.se/"
+    },
+    {
       "entry": 1232656841,
       "orgName": "AIK Innebandy",
       "orgNumber": "802432-7309",
@@ -48234,6 +48359,16 @@
         "kanotklubb"
       ],
       "web": "https://hindaskanotklubb.se/"
+    },
+    {
+      "entry": 1232721140,
+      "orgName": "Vilhelm Moberg-S\u00e4llskapet",
+      "orgNumber": "829502-6606",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://vilhelmmobergsallskapet.se/"
     },
     {
       "entry": 1232721223,
@@ -58034,6 +58169,16 @@
       "web": "https://www.svenskalag.se/teameast"
     },
     {
+      "entry": 1233335817,
+      "orgName": "Linn\u00e9s v\u00e4nner",
+      "orgNumber": "817603-4802",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.linnesvanner.se/"
+    },
+    {
       "entry": 1233336377,
       "orgName": "Katedralskolans Historiska F\u00f6rening",
       "orgNumber": "802513-2815",
@@ -59502,6 +59647,20 @@
       "web": "https://www.profeel.se/"
     },
     {
+      "entry": 1233411535,
+      "orgName": "Stiftelsen Guldf\u00e4llen",
+      "orgNumber": "815601-0772",
+      "comment": null,
+      "categories": [
+        "antroposofi",
+        "psykiatri",
+        "stiftelse",
+        "ungdomsverksamhet",
+        "vuxenst\u00f6d"
+      ],
+      "web": "http://www.guldfallen.se/"
+    },
+    {
       "entry": 1233417417,
       "orgName": "PRO Brastad",
       "orgNumber": "854600-5243",
@@ -60445,6 +60604,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "http://www.tjornshembygdsforening.se/"
+    },
+    {
+      "entry": 1233466778,
+      "orgName": "\u00c5kersberga Tr\u00e4dg\u00e5rdss\u00e4llskap",
+      "orgNumber": "802430-5354",
+      "comment": null,
+      "categories": [
+        "tr\u00e4dg\u00e5rdsf\u00f6rening",
+        "tr\u00e4dg\u00e5rdss\u00e4llskap"
+      ],
+      "web": "https://abats.se/"
     },
     {
       "entry": 1233466802,
@@ -72897,6 +73067,16 @@
       "web": "https://www.svenskakyrkan.se/borlange"
     },
     {
+      "entry": 1234228920,
+      "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar",
+      "orgNumber": "843003-3533",
+      "comment": "Helsingborg",
+      "categories": [
+        "f\u00f6r\u00e4ldraskap"
+      ],
+      "web": "https://makalosa.org/"
+    },
+    {
       "entry": 1234229068,
       "orgName": "Bankeryds Hembygdsf\u00f6rening",
       "orgNumber": "826001-8539",
@@ -74250,6 +74430,16 @@
         "turism"
       ],
       "web": "https://www.stiftelsenbohusfastning.se/"
+    },
+    {
+      "entry": 1234334173,
+      "orgName": "Stoopendaal & Sundfelt Podcast / Andres Stoopendahl",
+      "orgNumber": "810328-XXXX",
+      "comment": null,
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://stoopendaalsundfelt.substack.com/"
     },
     {
       "entry": 1234338406,
@@ -87514,6 +87704,16 @@
       "web": "https://www.ostersundstravet.com/sport-och-spel/for-aktiva/hastagareforeningen/"
     },
     {
+      "entry": 1235166905,
+      "orgName": "Eda-K\u00f6la Pastorat",
+      "orgNumber": "252003-7215",
+      "comment": "Skillilngarks kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/eda-kola"
+    },
+    {
       "entry": 1235167366,
       "orgName": "SPF Seniorerna Freja Sundsvall",
       "orgNumber": "889201-7479",
@@ -87859,6 +88059,16 @@
         "l\u00f6pning"
       ],
       "web": null
+    },
+    {
+      "entry": 1235194303,
+      "orgName": "F\u00f6reningen Biblis",
+      "orgNumber": "802006-9665",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "http://biblis.se/"
     },
     {
       "entry": 1235195284,
@@ -95851,6 +96061,17 @@
       "web": "https://www.myterochmysterier.se/"
     },
     {
+      "entry": 1235660055,
+      "orgName": "S/S Boxholm II, \u00c5ngb\u00e5tens V\u00e4nner",
+      "orgNumber": "802416-1104",
+      "comment": null,
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.boxholm2.com/"
+    },
+    {
       "entry": 1235662051,
       "orgName": "Falkenbergs Schackklubb",
       "orgNumber": "849000-7435",
@@ -101672,6 +101893,17 @@
       "web": "https://hasselby.scout.se/"
     },
     {
+      "entry": 1236017875,
+      "orgName": "Broakulla Folkets Hus",
+      "orgNumber": "716404-3643",
+      "comment": null,
+      "categories": [
+        "folkets hus",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://broakullafolketshus.se/"
+    },
+    {
       "entry": 1236021216,
       "orgName": "Lule\u00e5 ju-jutsuklubb",
       "orgNumber": "897001-5809",
@@ -105302,6 +105534,16 @@
       "web": "https://hallansbg.se/"
     },
     {
+      "entry": 1236219471,
+      "orgName": "Anne-Marie Berglund-S\u00e4llskapet",
+      "orgNumber": "802532-3927",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/amberglundsallskapet"
+    },
+    {
       "entry": 1236219778,
       "orgName": "Peter Frisk Produktion / Peter Frisk",
       "orgNumber": "660529-XXXX",
@@ -106840,9 +107082,9 @@
     },
     {
       "entry": 1236333041,
-      "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar Ume\u00e5",
+      "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar",
       "orgNumber": "802457-1872",
-      "comment": null,
+      "comment": "Ume\u00e5",
       "categories": [
         "f\u00f6r\u00e4ldraskap"
       ],
@@ -107341,6 +107583,18 @@
         "hundsport"
       ],
       "web": "https://www.norabrukshundklubb.se/"
+    },
+    {
+      "entry": 1236355960,
+      "orgName": "S\u00e4llskapet Hallands V\u00e4der\u00f6s Natur",
+      "orgNumber": "839400-4686",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "naturskydd",
+        "naturv\u00e5rd"
+      ],
+      "web": "https://shvn.se/"
     },
     {
       "entry": 1236356620,
@@ -108457,6 +108711,16 @@
         "k\u00f6rs\u00e5ng"
       ],
       "web": "https://www.gospelverkstaden.se/"
+    },
+    {
+      "entry": 1236442396,
+      "orgName": "Eda-K\u00f6la Pastorat",
+      "orgNumber": "252003-7215",
+      "comment": "K\u00f6la kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/eda-kola"
     },
     {
       "entry": 1236443394,
@@ -109791,6 +110055,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/dvarsattsbk"
+    },
+    {
+      "entry": 1236520126,
+      "orgName": "F\u00f6reningen Sk\u00e4rg\u00e5rdsmuseet",
+      "orgNumber": "814000-2901",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.skargardsmuseet.org/"
     },
     {
       "entry": 1236520399,
