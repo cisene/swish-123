@@ -8524,6 +8524,7 @@ entries:
   comment: null
   categories:
   - flygsport
+  - intresseförening
   web: https://eaa.se/
 
 - entry: 1230574301
@@ -12424,9 +12425,9 @@ entries:
   web: https://www.svenskakyrkan.se/orust/langelanda-forsamling
 
 - entry: 1230849109
-  orgName: Sällskapet Trädgårdsamatörerna, Skaraborg
+  orgName: Sällskapet Trädgårdsamatörerna
   orgNumber: 866000-9914
-  comment: null
+  comment: Skaraborg
   categories:
   - intresseförening
   - trädgårdsförening
@@ -20346,6 +20347,14 @@ entries:
   - golfutrustning
   web: null
 
+- entry: 1231365030
+  orgName: Sällskapet Enköpingskamraterna
+  orgNumber: 817000-0494
+  comment: null
+  categories:
+  - intresseförening
+  web: http://enkopingskamraterna.se/
+
 - entry: 1231365774
   orgName: Hedvig Elenora Regina Svecia, HERS
   orgNumber: null
@@ -22575,6 +22584,16 @@ entries:
   comment: null
   categories: null
   web: null
+
+- entry: 1231503242
+  orgName: Konsthistoriska Sällskapet
+  orgNumber: 875001-3891
+  comment: Örebrosektionen
+  categories:
+  - historieförening
+  - historiesällskap
+  - konstförening
+  web: https://www.konstorebro.org/
 
 - entry: 1231503549
   orgName: Bäverdalens Ishockeyklubb
@@ -42029,6 +42048,17 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-upplands-bro/foreningar/kungsangen.html
 
+- entry: 1232879625
+  orgName: Peggy Ödgren
+  orgNumber: 720910-XXXX
+  comment: null
+  categories:
+  - healing
+  - medial vägledning
+  - medium
+  - spiritualism
+  web: https://www.peggyodgren.se/
+
 - entry: 1232880946
   orgName: Linköpings Sportdykarklubb, LSDK
   orgNumber: 822003-9260
@@ -45697,6 +45727,13 @@ entries:
   - idrottsförening
   web: https://www.laget.se/Fjugesta_IF/
 
+- entry: 1233151933
+  orgName: null
+  orgNumber: null
+  comment: TIBAR INTERNATIONAL CHARITY
+  categories: null
+  web: null
+
 - entry: 1233157021
   orgName: Backaryds Samhällsförening
   orgNumber: 835600-2033
@@ -46433,6 +46470,14 @@ entries:
   - design
   - konstruktion
   web: https://www.thomassondesign.com/
+
+- entry: 1233216645
+  orgName: Svenska Sällskapet för Filosofisk Praxis, SSFP
+  orgNumber: 802460-9763
+  comment: null
+  categories:
+  - intresseförening
+  web: https://ssfp.se/
 
 - entry: 1233216751
   orgName: Leksands OK
@@ -55069,6 +55114,15 @@ entries:
   categories:
   - stiftelse
   web: http://looffoundation.org/
+
+- entry: 1233861226
+  orgName: Sällskapet Länkarna
+  orgNumber: 882601-8577
+  comment: Borlänge
+  categories:
+  - intresseförening
+  - nykterhetsförbund
+  web: https://www.borlangelankarna.se/
 
 - entry: 1233861267
   orgName: Värends Gode Man Och Förvaltare
@@ -73200,6 +73254,14 @@ entries:
   - släktforskning
   web: https://lsbfvilhelmina.se/
 
+- entry: 1235256185
+  orgName: PFAS-föreningen
+  orgNumber: 802495-7873
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.pfasföreningen.se/
+
 - entry: 1235257027
   orgName: Söderala Bygdegårdsförening
   orgNumber: 886000-7825
@@ -74450,6 +74512,14 @@ entries:
   - anhörigorganisation
   - patientförening
   web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/sodermanlands-lan/nykoping-oxelosund/
+
+- entry: 1235335906
+  orgName: Konstnären Sebastian Rudolph Jensen / WISRJ AB
+  orgNumber: 559217-7645
+  comment: null
+  categories:
+  - konstnär
+  web: https://www.sebastianrudolphjensen.com/pastor-lax
 
 - entry: 1235336565
   orgName: Skillingaryds IK
@@ -82542,6 +82612,15 @@ entries:
   - religion
   web: https://johannebergsequmeniakyrka.se/
 
+- entry: 1235897384
+  orgName: Sällskapet Trädgårdsamatörerna
+  orgNumber: 858500-9999
+  comment: Hammastrand
+  categories:
+  - trädgårdsförening
+  - trädgårdssällskap
+  web: https://www.tradgardsamatorerna.se/
+
 - entry: 1235900691
   orgName: Österledskyrkan i Gamla Uppsala
   orgNumber: 817600-1363
@@ -84383,7 +84462,7 @@ entries:
   comment: null
   categories:
   - intresseförening
-  web: https://avancez.se/en/foreningar/rickard-wilson-sallskapet
+  web: https://www.facebook.com/RickardWilsonSociety
 
 - entry: 1236042485
   orgName: Hönö Missionsförsamling
@@ -91486,6 +91565,14 @@ entries:
   - ishockeyklubb
   web: https://www.svenskalag.se/ostersundik
 
+- entry: 1236571079
+  orgName: Västsvenska Roller Derby-Sällskapet
+  orgNumber: 802475-3470
+  comment: null
+  categories:
+  - idrottsförbund
+  web: https://vsrds.se/
+
 - entry: 1236571301
   orgName: Tensta Församling
   orgNumber: 252000-1807
@@ -91518,6 +91605,18 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/visby
+
+- entry: 1236572713
+  orgName: Ganeshas Rum / Malla Malin Johansson
+  orgNumber: 760130-XXXX
+  comment: null
+  categories:
+  - medial vägledning
+  - modern handtydning
+  - seans
+  - spiritualism
+  - tarot
+  web: https://ganeshasrum.se/
 
 - entry: 1236577746
   orgName: Svenska Ridsportförbundet
@@ -92667,6 +92766,14 @@ entries:
   - företagarförening
   - professionellt nätverk
   web: https://www.kloverdamvm.se/
+
+- entry: 1236682025
+  orgName: Sällskapet Hallands Väderös natur
+  orgNumber: 839400-4686
+  comment: null
+  categories:
+  - intresseförening
+  web: https://shvn.se/
 
 - entry: 1236682322
   orgName: Nordmalings Församling
@@ -94359,6 +94466,14 @@ entries:
   categories:
   - scoutkår
   web: https://vastmanland.scout.se/
+
+- entry: 1236780431
+  orgName: Poul Bjerre Sällskapet
+  orgNumber: 802409-8702
+  comment: null
+  categories:
+  - intresseförening
+  web: https://poulbjerre.org/
 
 - entry: 1236780746
   orgName: Karlskrona Basketklubb
