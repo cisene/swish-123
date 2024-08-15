@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-13-rev-155731",
+    "date": "2024-08-15-rev-145424",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -18199,6 +18199,19 @@
       "web": "https://www.millasvilla.se/"
     },
     {
+      "entry": 1230990630,
+      "orgName": "Bengtsforstraktens Hembygdsf\u00f6rening",
+      "orgNumber": "862000-0169",
+      "comment": "Gammelg\u00e5rdens friluftsmuseum",
+      "categories": [
+        "friluftsmuseum",
+        "hembygdsf\u00f6rening",
+        "kulturf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://www.gammelgarden.com/"
+    },
+    {
       "entry": 1230991273,
       "orgName": "S:ta Maria Syrisk Ortodoxa Kyrkan i G\u00f6teborg",
       "orgNumber": "802495-4540",
@@ -28424,6 +28437,18 @@
       "web": "https://www.svenskalag.se/hamnedagoik"
     },
     {
+      "entry": 1231567254,
+      "orgName": "F\u00f6reningen Forbonden Kl\u00f6vsj\u00f6",
+      "orgNumber": "893202-1440",
+      "comment": null,
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening",
+        "k\u00f6rklubb"
+      ],
+      "web": "https://www.forbonden.se/"
+    },
+    {
       "entry": 1231568088,
       "orgName": "Fiskev\u00e5rdsf\u00f6reningen \u00d6ringen V\u00e4ja",
       "orgNumber": "802504-3517",
@@ -29473,6 +29498,17 @@
         "ridklubb"
       ],
       "web": "https://www.areridklubb.se/"
+    },
+    {
+      "entry": 1231615376,
+      "orgName": "F\u00f6reningen 9 Liv \u00d6sterg\u00f6tland",
+      "orgNumber": "802447-3871",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://foreningen9liv.se/"
     },
     {
       "entry": 1231615608,
@@ -52309,6 +52345,17 @@
       "web": "https://www.svenskalag.se/trepcafc"
     },
     {
+      "entry": 1232945202,
+      "orgName": "Vitem\u00f6lle Kulturhistoriska F\u00f6rening",
+      "orgNumber": "802524-8256",
+      "comment": null,
+      "categories": [
+        "historief\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://vitemollakultur.se/"
+    },
+    {
       "entry": 1232945210,
       "orgName": "Stiftelsen Upp\u00e5kra Arkeologiska Center",
       "orgNumber": "802426-3165",
@@ -57787,6 +57834,16 @@
       "web": "https://www.mdhund.se/"
     },
     {
+      "entry": 1233276086,
+      "orgName": "Torshalls Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "844000-3351",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.torshall.nu/"
+    },
+    {
       "entry": 1233276144,
       "orgName": "Skulpturpark Vadstena Folkets Park Krogar\u00e4nga",
       "orgNumber": "724000-1284",
@@ -59639,6 +59696,17 @@
         "stiftelse"
       ],
       "web": "https://waldoswanner.se/"
+    },
+    {
+      "entry": 1233389780,
+      "orgName": "N\u00f6ssemarks Hembygdsf\u00f6rening",
+      "orgNumber": "862000-5168",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://www.nossemark.se/"
     },
     {
       "entry": 1233389855,
@@ -61560,6 +61628,16 @@
       "web": "https://skeberg.se/"
     },
     {
+      "entry": 1233501624,
+      "orgName": "J\u00e4rbo Hembygdsf\u00f6rening",
+      "orgNumber": "862500-7425",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://jarbo-dalsland.se/"
+    },
+    {
       "entry": 1233501723,
       "orgName": "\u00d6nnek\u00f6ps IF",
       "orgNumber": "842000-2217",
@@ -62839,6 +62917,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-helsingborg/foreningar/morarp-paarp.html"
+    },
+    {
+      "entry": 1233554763,
+      "orgName": "HSB Brf Nolered",
+      "orgNumber": "757202-6008",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "http://brfnolered.se/"
     },
     {
       "entry": 1233555331,
@@ -65807,6 +65895,19 @@
       "web": "https://vallasen.se/"
     },
     {
+      "entry": 1233764172,
+      "orgName": "\u00c5rbols skolmuseum",
+      "orgNumber": "802502-4046",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturhistoria",
+        "museum",
+        "skola"
+      ],
+      "web": "https://arbolskolmuseum.se/"
+    },
+    {
       "entry": 1233770104,
       "orgName": "F\u00f6reningen Station Linn\u00e9",
       "orgNumber": "802441-6003",
@@ -67021,6 +67122,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1233840881,
+      "orgName": "F\u00f6reningen V\u00e4der\u00f6bod",
+      "orgNumber": "857207-2166",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturhistoria"
+      ],
+      "web": "https://v\u00e4der\u00f6bod.se/"
+    },
+    {
       "entry": 1233844271,
       "orgName": "Ringarums IF",
       "orgNumber": "825001-5123",
@@ -67670,6 +67782,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.flykalen.se/"
+    },
+    {
+      "entry": 1233881455,
+      "orgName": "Sk\u00e5lleruds Fornminnes och Hembygdsf\u00f6rening",
+      "orgNumber": "862501-0759",
+      "comment": "Kanalmuseet",
+      "categories": [
+        "fornminnesf\u00f6rening",
+        "hembygdsf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://www.kanalmuseet.se/"
     },
     {
       "entry": 1233881562,
@@ -84572,6 +84696,16 @@
       "web": null
     },
     {
+      "entry": 1234990008,
+      "orgName": "B\u00e4ckefors Hembygds- & Framtidsf\u00f6rening",
+      "orgNumber": "862000-3767",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.backefors.com/"
+    },
+    {
       "entry": 1234990875,
       "orgName": "Mariag\u00e5rden i Skultuna",
       "orgNumber": "556706-5262",
@@ -85435,6 +85569,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.eik.se/"
+    },
+    {
+      "entry": 1235037213,
+      "orgName": "HSB Brf Sandfallet",
+      "orgNumber": "716443-9593",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/goteborg/brf/sandfallet/"
     },
     {
       "entry": 1235037312,
@@ -87901,6 +88045,17 @@
         "konst\u00e5kningsklubb"
       ],
       "web": "https://www.uddevallakf.se/"
+    },
+    {
+      "entry": 1235150305,
+      "orgName": "\u00d6stersunds FK",
+      "orgNumber": "893203-1027",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ostersundsfk.se/"
     },
     {
       "entry": 1235151253,
@@ -104299,6 +104454,17 @@
       "web": "https://mansbyn.se/"
     },
     {
+      "entry": 1236133748,
+      "orgName": "F\u00f6reningen Sk\u00e5nska G\u00e5rdar",
+      "orgNumber": "845002-6466",
+      "comment": null,
+      "categories": [
+        "historief\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.skanskagardar.se/"
+    },
+    {
       "entry": 1236133920,
       "orgName": "Tierps HK",
       "orgNumber": "817605-3893",
@@ -111702,6 +111868,16 @@
         "idrottsf\u00f6rbund"
       ],
       "web": "https://ridsport.se/"
+    },
+    {
+      "entry": 1236578330,
+      "orgName": "Dalslands Gille i G\u00f6teborg",
+      "orgNumber": "802472-5791",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/dalslands-gille"
     },
     {
       "entry": 1236578348,

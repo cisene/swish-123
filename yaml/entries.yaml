@@ -11941,6 +11941,15 @@ entries:
   - lionsklubb
   web: https://lionssvenljunga.se/
 
+- entry: 1230813550
+  orgName: Gnarps Hembygds- och Fornminnesförening
+  orgNumber: null
+  comment: null
+  categories:
+  - fornminnesförening
+  - hembygdsförening
+  web: https://gnarpshembygd.se/
+
 - entry: 1230814178
   orgName: KonstArt
   orgNumber: 802443-2166
@@ -14977,6 +14986,17 @@ entries:
   - hotell
   - lokaluthyrning
   web: https://www.millasvilla.se/
+
+- entry: 1230990630
+  orgName: Bengtsforstraktens Hembygdsförening
+  orgNumber: 862000-0169
+  comment: Gammelgårdens friluftsmuseum
+  categories:
+  - friluftsmuseum
+  - hembygdsförening
+  - kulturförening
+  - museum
+  web: https://www.gammelgarden.com/
 
 - entry: 1230990747
   orgName: null
@@ -23411,6 +23431,16 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/hamnedagoik
 
+- entry: 1231567254
+  orgName: Föreningen Forbonden Klövsjö
+  orgNumber: 893202-1440
+  comment: null
+  categories:
+  - historieförening
+  - intresseförening
+  - körklubb
+  web: https://www.forbonden.se/
+
 - entry: 1231568088
   orgName: Fiskevårdsföreningen Öringen Väja
   orgNumber: 802504-3517
@@ -24277,6 +24307,15 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.areridklubb.se/
+
+- entry: 1231615376
+  orgName: Föreningen 9 Liv Östergötland
+  orgNumber: 802447-3871
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://foreningen9liv.se/
 
 - entry: 1231615608
   orgName: Sävarådalens Snöskoterklubb
@@ -43104,6 +43143,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/trepcafc
 
+- entry: 1232945202
+  orgName: Vitemölle Kulturhistoriska Förening
+  orgNumber: 802524-8256
+  comment: null
+  categories:
+  - historieförening
+  - kulturförening
+  web: https://vitemollakultur.se/
+
 - entry: 1232945210
   orgName: Stiftelsen Uppåkra Arkeologiska Center
   orgNumber: 802426-3165
@@ -47655,6 +47703,14 @@ entries:
   - utbildning
   web: https://www.mdhund.se/
 
+- entry: 1233276086
+  orgName: Torshalls Bygdegårdsförening
+  orgNumber: 844000-3351
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://www.torshall.nu/
+
 - entry: 1233276144
   orgName: Skulpturpark Vadstena Folkets Park Krogaränga
   orgNumber: 724000-1284
@@ -49175,6 +49231,15 @@ entries:
   categories:
   - stiftelse
   web: https://waldoswanner.se/
+
+- entry: 1233389780
+  orgName: Nössemarks Hembygdsförening
+  orgNumber: 862000-5168
+  comment: null
+  categories:
+  - hembygdsförening
+  - samhällsförening
+  web: https://www.nossemark.se/
 
 - entry: 1233389855
   orgName: Barnets bästa ideell förening
@@ -50743,6 +50808,14 @@ entries:
   - bygdegårdsförening
   web: https://skeberg.se/
 
+- entry: 1233501624
+  orgName: Järbo Hembygdsförening
+  orgNumber: 862500-7425
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://jarbo-dalsland.se/
+
 - entry: 1233501723
   orgName: Önneköps IF
   orgNumber: 842000-2217
@@ -51787,6 +51860,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-helsingborg/foreningar/morarp-paarp.html
+
+- entry: 1233554763
+  orgName: HSB Brf Nolered
+  orgNumber: 757202-6008
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: http://brfnolered.se/
 
 - entry: 1233555331
   orgName: IFK Anderstorp
@@ -54220,6 +54301,17 @@ entries:
   - skidsportanläggning
   web: https://vallasen.se/
 
+- entry: 1233764172
+  orgName: Årbols skolmuseum
+  orgNumber: 802502-4046
+  comment: null
+  categories:
+  - intresseförening
+  - kulturhistoria
+  - museum
+  - skola
+  web: https://arbolskolmuseum.se/
+
 - entry: 1233770104
   orgName: Föreningen Station Linné
   orgNumber: 802441-6003
@@ -55210,6 +55302,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1233840881
+  orgName: Föreningen Väderöbod
+  orgNumber: 857207-2166
+  comment: null
+  categories:
+  - intresseförening
+  - kulturhistoria
+  web: https://väderöbod.se/
+
 - entry: 1233844271
   orgName: Ringarums IF
   orgNumber: 825001-5123
@@ -55740,6 +55841,16 @@ entries:
   - förening
   - hembygdsförening
   web: https://www.flykalen.se/
+
+- entry: 1233881455
+  orgName: Skålleruds Fornminnes och Hembygdsförening
+  orgNumber: 862501-0759
+  comment: Kanalmuseet
+  categories:
+  - fornminnesförening
+  - hembygdsförening
+  - museum
+  web: https://www.kanalmuseet.se/
 
 - entry: 1233881562
   orgName: Bergskyrkan i Laxå
@@ -69652,6 +69763,14 @@ entries:
   - musik
   web: null
 
+- entry: 1234990008
+  orgName: Bäckefors Hembygds- & Framtidsförening
+  orgNumber: 862000-3767
+  comment: null
+  categories:
+  - hembygdsförening
+  web: http://www.backefors.com/
+
 - entry: 1234990875
   orgName: Mariagården i Skultuna
   orgNumber: 556706-5262
@@ -70366,6 +70485,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.eik.se/
+
+- entry: 1235037213
+  orgName: HSB Brf Sandfallet
+  orgNumber: 716443-9593
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/goteborg/brf/sandfallet/
 
 - entry: 1235037312
   orgName: Vrångö Fritidsförening
@@ -72399,6 +72526,15 @@ entries:
   - idrottsförening
   - konståkningsklubb
   web: https://www.uddevallakf.se/
+
+- entry: 1235150305
+  orgName: Östersunds FK
+  orgNumber: 893203-1027
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://ostersundsfk.se/
 
 - entry: 1235151253
   orgName: Swedish Animation and Visual Arts, SAAVA
@@ -85938,6 +86074,15 @@ entries:
   - samhällsförening
   web: https://mansbyn.se/
 
+- entry: 1236133748
+  orgName: Föreningen Skånska Gårdar
+  orgNumber: 845002-6466
+  comment: null
+  categories:
+  - historieförening
+  - kulturförening
+  web: https://www.skanskagardar.se/
+
 - entry: 1236133920
   orgName: Tierps HK
   orgNumber: 817605-3893
@@ -92089,6 +92234,14 @@ entries:
   categories:
   - idrottsförbund
   web: https://ridsport.se/
+
+- entry: 1236578330
+  orgName: Dalslands Gille i Göteborg
+  orgNumber: 802472-5791
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.hembygd.se/dalslands-gille
 
 - entry: 1236578348
   orgName: Kvidinge Skytteförening
