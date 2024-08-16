@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-15-rev-145424",
+    "date": "2024-08-16-rev-143604",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8152,6 +8152,17 @@
         "utbildning"
       ],
       "web": "http://www.zerillas.se/"
+    },
+    {
+      "entry": 1230441303,
+      "orgName": "F\u00f6reningen Svenska Finullsf\u00e5r",
+      "orgNumber": "802437-4020",
+      "comment": null,
+      "categories": [
+        "djuruppf\u00f6dning",
+        "handarbeten"
+      ],
+      "web": "https://finull.se/kurser-aktiviteter/"
     },
     {
       "entry": 1230441865,
@@ -24153,6 +24164,17 @@
       "web": "https://www.svenskalag.se/ringamalaskf"
     },
     {
+      "entry": 1231324474,
+      "orgName": "F\u00f6reningen Pennskaftet",
+      "orgNumber": "857208-7628",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "journalistik"
+      ],
+      "web": "https://foreningenpennskaftet.wordpress.com/"
+    },
+    {
       "entry": 1231324581,
       "orgName": "Vuono Hembygds och Kulturf\u00f6rening",
       "orgNumber": "802413-5488",
@@ -31896,6 +31918,17 @@
         "sportklubb"
       ],
       "web": "https://www.laget.se/LSKHandboll/"
+    },
+    {
+      "entry": 1231756808,
+      "orgName": "Akademiska Roddf\u00f6reningen",
+      "orgNumber": "802008-9556",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "roddklubb"
+      ],
+      "web": "https://www.akademiskarodd.se/"
     },
     {
       "entry": 1231757020,
@@ -45508,6 +45541,16 @@
       "web": "http://pingsteskilstunaweb.se/"
     },
     {
+      "entry": 1232565687,
+      "orgName": "S:t Lukas Bromma",
+      "orgNumber": "816000-5727",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://sanktlukas.se/bromma/"
+    },
+    {
       "entry": 1232566313,
       "orgName": "Villa Sunshine AB",
       "orgNumber": "559207-8553",
@@ -49249,6 +49292,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232762342,
+      "orgName": "F\u00f6reningen Bogserb\u00e5ten Herkules",
+      "orgNumber": "857209-0440",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://msherkules.se/"
     },
     {
       "entry": 1232762912,
@@ -53304,6 +53357,7 @@
       "orgNumber": "802492-0160",
       "comment": null,
       "categories": [
+        "f\u00e5gelsk\u00e5dning",
         "f\u00f6rening",
         "ornitologi"
       ],
@@ -63811,6 +63865,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.vasterasbasket.se/"
+    },
+    {
+      "entry": 1233615762,
+      "orgName": "F\u00f6reningen Briggen Tre Kronor",
+      "orgNumber": "802404-7352",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.briggentrekronor.se/"
     },
     {
       "entry": 1233615820,
@@ -95398,6 +95462,17 @@
       "web": "https://www.svenskalag.se/borssk"
     },
     {
+      "entry": 1235580840,
+      "orgName": "Dansklubben Nyckeln",
+      "orgNumber": "802465-9156",
+      "comment": null,
+      "categories": [
+        "dansf\u00f6rening",
+        "dansskola"
+      ],
+      "web": "https://dknyckeln.se/"
+    },
+    {
       "entry": 1235581053,
       "orgName": "Rix\u00f6 B\u00e5tklubb",
       "orgNumber": "802430-6204",
@@ -101033,6 +101108,17 @@
       "web": "https://surahammarsif.se/"
     },
     {
+      "entry": 1235904925,
+      "orgName": "\u00d6stg\u00f6tafolk",
+      "orgNumber": "822001-5591",
+      "comment": null,
+      "categories": [
+        "folkmusik",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://folkmusik.nu/"
+    },
+    {
       "entry": 1235908603,
       "orgName": "Team Rynkeby",
       "orgNumber": "802534-5938",
@@ -104700,6 +104786,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-nacka/"
+    },
+    {
+      "entry": 1236146633,
+      "orgName": "Bj\u00f6rneborgs Jaktskytteklubb",
+      "orgNumber": "873600-2836",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.bjsk.se/"
     },
     {
       "entry": 1236146765,

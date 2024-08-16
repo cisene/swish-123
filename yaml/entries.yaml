@@ -6717,6 +6717,15 @@ entries:
   - utbildning
   web: http://www.zerillas.se/
 
+- entry: 1230441303
+  orgName: Föreningen Svenska Finullsfår
+  orgNumber: 802437-4020
+  comment: null
+  categories:
+  - djuruppfödning
+  - handarbeten
+  web: https://finull.se/kurser-aktiviteter/
+
 - entry: 1230441865
   orgName: Aktiva Seniorer Visby
   orgNumber: 802493-9863
@@ -19894,6 +19903,15 @@ entries:
   - sportskytteklubb
   web: https://www.svenskalag.se/ringamalaskf
 
+- entry: 1231324474
+  orgName: Föreningen Pennskaftet
+  orgNumber: 857208-7628
+  comment: null
+  categories:
+  - intresseförening
+  - journalistik
+  web: https://foreningenpennskaftet.wordpress.com/
+
 - entry: 1231324581
   orgName: Vuono Hembygds och Kulturförening
   orgNumber: 802413-5488
@@ -26263,6 +26281,15 @@ entries:
   - idrottsförening
   - sportklubb
   web: https://www.laget.se/LSKHandboll/
+
+- entry: 1231756808
+  orgName: Akademiska Roddföreningen
+  orgNumber: 802008-9556
+  comment: null
+  categories:
+  - idrottsförening
+  - roddklubb
+  web: https://www.akademiskarodd.se/
 
 - entry: 1231757020
   orgName: Snöå Golfklubb
@@ -37517,6 +37544,14 @@ entries:
   - hjälporganisation
   web: null
 
+- entry: 1232565687
+  orgName: S:t Lukas Bromma
+  orgNumber: 816000-5727
+  comment: null
+  categories:
+  - religion
+  web: https://sanktlukas.se/bromma/
+
 - entry: 1232566313
   orgName: Villa Sunshine AB
   orgNumber: 559207-8553
@@ -40599,6 +40634,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1232762342
+  orgName: Föreningen Bogserbåten Herkules
+  orgNumber: 857209-0440
+  comment: null
+  categories:
+  - intresseförening
+  web: https://msherkules.se/
 
 - entry: 1232762912
   orgName: Umeå Universitet
@@ -43944,6 +43987,7 @@ entries:
   orgNumber: 802492-0160
   comment: null
   categories:
+  - fågelskådning
   - förening
   - ornitologi
   web: https://halleforsornitologiskaforening.se/
@@ -52590,6 +52634,14 @@ entries:
   - basketbollklubb
   - idrottsförening
   web: https://www.vasterasbasket.se/
+
+- entry: 1233615762
+  orgName: Föreningen Briggen Tre Kronor
+  orgNumber: 802404-7352
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.briggentrekronor.se/
 
 - entry: 1233615820
   orgName: Team Rynkeby
@@ -78583,6 +78635,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/borssk
 
+- entry: 1235580840
+  orgName: Dansklubben Nyckeln
+  orgNumber: 802465-9156
+  comment: null
+  categories:
+  - dansförening
+  - dansskola
+  web: https://dknyckeln.se/
+
 - entry: 1235581053
   orgName: Rixö Båtklubb
   orgNumber: 802430-6204
@@ -83239,6 +83300,15 @@ entries:
   - idrottsförening
   web: https://surahammarsif.se/
 
+- entry: 1235904925
+  orgName: Östgötafolk
+  orgNumber: 822001-5591
+  comment: null
+  categories:
+  - folkmusik
+  - musikförening
+  web: https://folkmusik.nu/
+
 - entry: 1235906813
   orgName: Svensk Krigare
   orgNumber: null
@@ -86301,6 +86371,15 @@ entries:
   categories:
   - supporterklubb
   web: https://www.bryggerietkarlstad.se/tifo
+
+- entry: 1236146633
+  orgName: Björneborgs Jaktskytteklubb
+  orgNumber: 873600-2836
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  web: https://www.bjsk.se/
 
 - entry: 1236146765
   orgName: Eritreanska Ortodoxa Tewahedo Kyrkan I Skandinavien (koptiska patriarkatet), EOTCS
