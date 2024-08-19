@@ -2407,6 +2407,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/skovde
 
+- entry: 1230183194
+  orgName: Malmö Släktforskarförening
+  orgNumber: 846005-5109
+  comment: null
+  categories:
+  - genealogi
+  - släktforskning
+  web: https://www.msff.se/
+
 - entry: 1230183236
   orgName: Gideonsbergskyrkan
   orgNumber: 556706-5262
@@ -7830,6 +7839,16 @@ entries:
   - intresseförening
   - opinionsbildning
   web: https://www.facebook.com/pensionsrattvisa
+
+- entry: 1230516591
+  orgName: LP-vännernas Kamratförening
+  orgNumber: 802434-5319
+  comment: Hörnstenen Stödboende
+  categories:
+  - religion
+  - stödförening
+  - stödverksamhet
+  web: https://www.hornstenen.org/
 
 - entry: 1230516740
   orgName: Gislaveds JvF
@@ -24605,6 +24624,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/boden_petank
 
+- entry: 1231623354
+  orgName: PSALTO - Kristna Dansgemenskapen i Skandinavien
+  orgNumber: 849201-8018
+  comment: null
+  categories:
+  - religion
+  web: https://psalto.se/
+
 - entry: 1231624154
   orgName: Adventisterna i Lund
   orgNumber: 802529-6289
@@ -29372,6 +29399,15 @@ entries:
   categories:
   - golfbana
   web: https://backasaterigolf.se/
+
+- entry: 1231973643
+  orgName: Helsingborgs Curlingklubb
+  orgNumber: 843000-7917
+  comment: null
+  categories:
+  - curlingklubb
+  - idrottsförening
+  web: https://www.helsingborgcurling.se/
 
 - entry: 1231973817
   orgName: Ungdomsjouren Tigerlilja
@@ -36222,6 +36258,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/ovesholmsif
 
+- entry: 1232408144
+  orgName: Equmenia på Smögen
+  orgNumber: 002833-0579
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkansmogen.se/
+
 - entry: 1232408177
   orgName: Bolmsö Sockenråd
   orgNumber: 802469-5689
@@ -43024,6 +43068,15 @@ entries:
   - trikiner
   web: http://www.jphastveda.com/
 
+- entry: 1232905958
+  orgName: Föreningen Vadstena Konstgalleri
+  orgNumber: 802508-7886
+  comment: null
+  categories:
+  - konstförening
+  - konstgalleri
+  web: https://vadstenakonstgalleri.se/
+
 - entry: 1232906246
   orgName: Mediaverkstan
   orgNumber: 893202-3461
@@ -45342,6 +45395,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1233079670
+  orgName: Ramsjö Skytteförening
+  orgNumber: 802456-9173
+  comment: null
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: https://ramsjoskf.se/
+
 - entry: 1233079696
   orgName: Neuro Ung Med MS
   orgNumber: 802521-7467
@@ -45586,6 +45648,16 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.svenskalag.se/eibf-
+
+- entry: 1233113776
+  orgName: Tranemoryttarna
+  orgNumber: 865500-6545
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://www.tranemoryttarna.se/
 
 - entry: 1233113875
   orgName: Föreningen Örtagården
@@ -48070,6 +48142,15 @@ entries:
   - idrottsförening
   web: http://www.borgebyfk.se/
 
+- entry: 1233277944
+  orgName: Falu Bordtennisklubb
+  orgNumber: 883202-7471
+  comment: null
+  categories:
+  - bordtennisklubb
+  - idrottsförening
+  web: https://falubordtennisklubb.klubbenonline.se/
+
 - entry: 1233278124
   orgName: Kilafors Ridklubb
   orgNumber: 802456-2996
@@ -49213,6 +49294,15 @@ entries:
   - hälsa
   - mental hälsa
   web: https://ifscs.se/
+
+- entry: 1233378155
+  orgName: Malmö Curlingklubb
+  orgNumber: 802443-2687
+  comment: null
+  categories:
+  - curlingklubb
+  - idrottsförening
+  web: https://www.malmocurlingklubb.se/
 
 - entry: 1233378619
   orgName: Vår Frus Katolska Församling i Västerås
@@ -71859,6 +71949,15 @@ entries:
   - idrottsförening
   web: https://www.stjernsund.com/
 
+- entry: 1235106851
+  orgName: IK Fyris Uppsala
+  orgNumber: 817600-1579
+  comment: Curling
+  categories:
+  - curlingklubb
+  - idrottsförening
+  web: https://www.fyriscurling.se/
+
 - entry: 1235107206
   orgName: IK Kongahälla
   orgNumber: 853300-0421
@@ -77906,6 +78005,16 @@ entries:
   categories:
   - förening
   web: https://www.ekho.se/
+
+- entry: 1235503537
+  orgName: Hjortbergets Skidklubb
+  orgNumber: 802460-1877
+  comment: null
+  categories:
+  - idrottsförening
+  - skidklubb
+  - skidlöparklubb
+  web: https://hjortberget.se/
 
 - entry: 1235503933
   orgName: Fotvårdskliniken / Karin Fransson
@@ -84815,6 +84924,15 @@ entries:
   - religion
   web: https://kanal10asia.com/
 
+- entry: 1235967989
+  orgName: Ryggensjöföreningen
+  orgNumber: 883202-6523
+  comment: null
+  categories:
+  - fiskevård
+  - naturvård
+  web: https://ryggensjoforeningen.se/
+
 - entry: 1235968649
   orgName: Båsenberga Slalomklubb
   orgNumber: 818500-9555
@@ -88564,6 +88682,15 @@ entries:
   categories:
   - modelljärnväg
   web: https://www.svlv.se/
+
+- entry: 1236244172
+  orgName: Schedvinska Ättens Släktförening
+  orgNumber: 003156-7944
+  comment: null
+  categories:
+  - släktforskning
+  - släktförening
+  web: https://schedvinskaatten.se/
 
 - entry: 1236244214
   orgName: Rehabhuset Tomelilla AB

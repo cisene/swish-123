@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-17-rev-185628",
+    "date": "2024-08-19-rev-155000",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2914,6 +2914,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/skovde"
+    },
+    {
+      "entry": 1230183194,
+      "orgName": "Malm\u00f6 Sl\u00e4ktforskarf\u00f6rening",
+      "orgNumber": "846005-5109",
+      "comment": null,
+      "categories": [
+        "genealogi",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://www.msff.se/"
     },
     {
       "entry": 1230183236,
@@ -9494,6 +9505,18 @@
         "opinionsbildning"
       ],
       "web": "https://www.facebook.com/pensionsrattvisa"
+    },
+    {
+      "entry": 1230516591,
+      "orgName": "LP-v\u00e4nnernas Kamratf\u00f6rening",
+      "orgNumber": "802434-5319",
+      "comment": "H\u00f6rnstenen St\u00f6dboende",
+      "categories": [
+        "religion",
+        "st\u00f6df\u00f6rening",
+        "st\u00f6dverksamhet"
+      ],
+      "web": "https://www.hornstenen.org/"
     },
     {
       "entry": 1230516740,
@@ -25299,7 +25322,7 @@
     },
     {
       "entry": 1231375146,
-      "orgName": "RIMFORSA JAKTSKYTTEKLUBB",
+      "orgName": "Rimforsa Jaktskytteklubb",
       "orgNumber": "802457-0387",
       "comment": null,
       "categories": [
@@ -29860,6 +29883,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/boden_petank"
+    },
+    {
+      "entry": 1231623354,
+      "orgName": "PSALTO - Kristna Dansgemenskapen i Skandinavien",
+      "orgNumber": "849201-8018",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://psalto.se/"
     },
     {
       "entry": 1231624154,
@@ -35670,6 +35703,17 @@
         "golfbana"
       ],
       "web": "https://backasaterigolf.se/"
+    },
+    {
+      "entry": 1231973643,
+      "orgName": "Helsingborgs Curlingklubb",
+      "orgNumber": "843000-7917",
+      "comment": null,
+      "categories": [
+        "curlingklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.helsingborgcurling.se/"
     },
     {
       "entry": 1231973817,
@@ -43959,6 +44003,16 @@
       "web": "https://www.svenskalag.se/ovesholmsif"
     },
     {
+      "entry": 1232408144,
+      "orgName": "Equmenia p\u00e5 Sm\u00f6gen",
+      "orgNumber": "002833-0579",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkansmogen.se/"
+    },
+    {
       "entry": 1232408177,
       "orgName": "Bolms\u00f6 Sockenr\u00e5d",
       "orgNumber": "802469-5689",
@@ -52197,6 +52251,17 @@
       "web": "http://www.jphastveda.com/"
     },
     {
+      "entry": 1232905958,
+      "orgName": "F\u00f6reningen Vadstena Konstgalleri",
+      "orgNumber": "802508-7886",
+      "comment": null,
+      "categories": [
+        "konstf\u00f6rening",
+        "konstgalleri"
+      ],
+      "web": "https://vadstenakonstgalleri.se/"
+    },
+    {
       "entry": 1232906246,
       "orgName": "Mediaverkstan",
       "orgNumber": "893202-3461",
@@ -54998,6 +55063,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1233079670,
+      "orgName": "Ramsj\u00f6 Skyttef\u00f6rening",
+      "orgNumber": "802456-9173",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://ramsjoskf.se/"
+    },
+    {
       "entry": 1233079696,
       "orgName": "Neuro Ung Med MS",
       "orgNumber": "802521-7467",
@@ -55287,6 +55363,18 @@
         "innebandyklubb"
       ],
       "web": "https://www.svenskalag.se/eibf-"
+    },
+    {
+      "entry": 1233113776,
+      "orgName": "Tranemoryttarna",
+      "orgNumber": "865500-6545",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.tranemoryttarna.se/"
     },
     {
       "entry": 1233113875,
@@ -58272,6 +58360,17 @@
       "web": "http://www.borgebyfk.se/"
     },
     {
+      "entry": 1233277944,
+      "orgName": "Falu Bordtennisklubb",
+      "orgNumber": "883202-7471",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://falubordtennisklubb.klubbenonline.se/"
+    },
+    {
       "entry": 1233278124,
       "orgName": "Kilafors Ridklubb",
       "orgNumber": "802456-2996",
@@ -59663,6 +59762,17 @@
         "mental h\u00e4lsa"
       ],
       "web": "https://ifscs.se/"
+    },
+    {
+      "entry": 1233378155,
+      "orgName": "Malm\u00f6 Curlingklubb",
+      "orgNumber": "802443-2687",
+      "comment": null,
+      "categories": [
+        "curlingklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.malmocurlingklubb.se/"
     },
     {
       "entry": 1233378619,
@@ -87214,6 +87324,17 @@
       "web": "https://www.stjernsund.com/"
     },
     {
+      "entry": 1235106851,
+      "orgName": "IK Fyris Uppsala",
+      "orgNumber": "817600-1579",
+      "comment": "Curling",
+      "categories": [
+        "curlingklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fyriscurling.se/"
+    },
+    {
       "entry": 1235107206,
       "orgName": "IK Kongah\u00e4lla",
       "orgNumber": "853300-0421",
@@ -94555,6 +94676,18 @@
         "f\u00f6rening"
       ],
       "web": "https://www.ekho.se/"
+    },
+    {
+      "entry": 1235503537,
+      "orgName": "Hjortbergets Skidklubb",
+      "orgNumber": "802460-1877",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://hjortberget.se/"
     },
     {
       "entry": 1235503933,
@@ -102908,6 +103041,17 @@
       "web": "https://kanal10asia.com/"
     },
     {
+      "entry": 1235967989,
+      "orgName": "Ryggensj\u00f6f\u00f6reningen",
+      "orgNumber": "883202-6523",
+      "comment": null,
+      "categories": [
+        "fiskev\u00e5rd",
+        "naturv\u00e5rd"
+      ],
+      "web": "https://ryggensjoforeningen.se/"
+    },
+    {
       "entry": 1235968649,
       "orgName": "B\u00e5senberga Slalomklubb",
       "orgNumber": "818500-9555",
@@ -107434,6 +107578,17 @@
         "modellj\u00e4rnv\u00e4g"
       ],
       "web": "https://www.svlv.se/"
+    },
+    {
+      "entry": 1236244172,
+      "orgName": "Schedvinska \u00c4ttens Sl\u00e4ktf\u00f6rening",
+      "orgNumber": "003156-7944",
+      "comment": null,
+      "categories": [
+        "sl\u00e4ktforskning",
+        "sl\u00e4ktf\u00f6rening"
+      ],
+      "web": "https://schedvinskaatten.se/"
     },
     {
       "entry": 1236244214,
