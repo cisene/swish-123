@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-08-19-rev-155007
+# Date: 2024-08-19-rev-192219
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1995,7 +1995,7 @@
 "1231170109","881028-XXXX","AyuEmy / Emy Ekholm","https://www.ayuemy.com/","ayur veda,healing",""
 "1231171008","556925-2306","Tassarnas Djurklinik AB","https://tassarnasdjurklinik.se/","djurvård,veterinär",""
 "1231171206","802533-7786","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Lund, Tornahällestad"
-"1231171214","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kalmar, Väskindeskola"
+"1231171214","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kalmar län, Väskindeskola"
 "1231173939","878001-6278","Engsö Hembygds- och Intresseförening","https://engsohembygdsforening.se/","hembygdsförening,intresseförening",""
 "1231174002","878001-6591","Västerås Brukshundsklubb","https://www.vasterasbk.se/","brukshundsklubb,hundsport",""
 "1231174549","802539-3649","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Halland, Hishultsskolan"
@@ -3496,7 +3496,7 @@
 "1232112258","802437-4764","Eastfield's Linedancers Club","https://www.efld.se/","dansförening,linedanceklubb",""
 "1232112415","814000-4709","Älta Scoutkår","https://alta.scout.se/","scoutkår",""
 "1232114023","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Sövestad skola"
-"1232114031","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kalmar, Skytteanska skolan"
+"1232114031","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kalmar län, Skytteanska skolan"
 "1232114049","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Göteborg, Alexandra Montessori"
 "1232114098","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Stockholm, Ektorps skola"
 "1232114981","832401-4433","Böle Bygdegårdsförening","https://bygdegardarna.se/boleskola/","bygdegårdsförening",""
@@ -3573,7 +3573,7 @@
 "1232155547","812400-5151","Vendelsö Scoutkår","https://vendelso.scout.se/","scoutkår",""
 "1232156578","802517-9865","Föreningen Fjärilar i Pite Lappmark","https://ffpl.weebly.com/","entomologi,förening,småkryp",""
 "1232157212","802459-0146","Berga USKF","https://www.svenskalag.se/bergauskf","skytteklubb,sportskytteklubb",""
-"1232158012","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kalmar, Stånga Skola"
+"1232158012","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kalmar län, Stånga Skola"
 "1232158020","802535-9137","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kristianstad, Önnegårdens förskola/Önnestads Skola F-9"
 "1232158046","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Glumslövskola"
 "1232158053","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Bulltoftaskolan"
@@ -5239,7 +5239,7 @@
 "1233200201","868401-0088","Vedums Scoutkårs Föräldraförening","https://vedum.scout.se/","scoutkår",""
 "1233200250","982000-2260","Lions Club Hedemora","http://fsl.kund.dalnet.se/lionsweb.htm","lionsklubb",""
 "1233200276","252010-0021","Vårdnäs Stiftsgård / Linköpings Stift","https://vardnas.se/","konferens,religion,restaurant",""
-"1233200714","802405-7815","SOS Barnbyar","https://sos-barnbyar.se/","hjälporganisation,insamling","Katastroffond"
+"1233200714","802405-7815","SOS Barnbyar Sverige","https://sos-barnbyar.se/","hjälporganisation,insamling","Katastroffond"
 "1233200722","252002-5194","Bureå Församling","https://www.burekyrkan.com/","religion","Böcker/kort"
 "1233200839","829502-4486","Lakers Lakejers Tifo","http://www.lakerslakejer.se/","supporterklubb",""
 "1233201670","853300-8739","Svenska Röda Korset","https://www.rodakorset.se/ort/vastra-gotaland/kungalvs-kommun/","hjälporganisation,rödakorset","Kungsälv"
@@ -7944,7 +7944,7 @@
 "1235030820","802508-6789","Örnsköldsviks Biodlarförening","https://nolabi.se/","biodling,förening",""
 "1235030994","802427-8874","Föreningen Ystads Kallbadhus","https://www.ystadskallbadhus.se/","intresseförening,kallbadhus",""
 "1235031000","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Skegrie skola"
-"1235031299","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kalmar, Rocknebyskolan"
+"1235031299","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kalmar län, Rocknebyskolan"
 "1235031505","802473-0841","Predikan & Undervisning - Elvor & Janne","https://elvorochjanne.se/","religion",""
 "1235031703","819000-9558","Lions Club Oxelösund","https://oxelosundlions.se/","lionsklubb",""
 "1235031737","802421-4572","Njurunda Byavakt Förening","https://njurunda.nu/njurunda-byavakt/","brottsförebyggande,intresseförening",""
@@ -10224,7 +10224,7 @@
 "1236470298","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Dibber Kärnhuset Montessoriskola"
 "1236473797","802542-8775","Västerås Pickels HC","https://www.svenskalag.se/vasteraspickelshc","idrottsförening,ishockeyklubb",""
 "1236475081","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Hagalundskolan"
-"1236475099","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kalmar, Lindsdalsskolan"
+"1236475099","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kalmar län, Lindsdalsskolan"
 "1236475305","873201-7382","Hammarö fågelstation","https://hammarofagel.se/","fågelskådning,ornitologi",""
 "1236478283","775000-1062","Brf Tåget","https://www.hsb.se/malardalarna/brf/taget/","bostad,bostadsrättsförening",""
 "1236479745","802480-4885","Stiftelsen Ligula Foundation","https://ligula.foundation/","stiftelse",""
