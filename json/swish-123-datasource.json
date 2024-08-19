@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-19-rev-192211",
+    "date": "2024-08-19-rev-202439",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -16027,6 +16027,17 @@
       "web": "https://www.svenskalag.se/ibfnorrkoping"
     },
     {
+      "entry": 1230878090,
+      "orgName": "\u00d6redalens IK",
+      "orgNumber": "894003-5176",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb"
+      ],
+      "web": "https://www.facebook.com/oredalensik/"
+    },
+    {
       "entry": 1230878439,
       "orgName": "Borgenkyrkan Ung i Tierp",
       "orgNumber": "817300-4543",
@@ -26481,6 +26492,17 @@
       "web": "https://www.varbergskk.se/"
     },
     {
+      "entry": 1231465004,
+      "orgName": "HS Sierra \u00c4ngelholm - Handboll",
+      "orgNumber": "839400-0684",
+      "comment": null,
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://hssierraangelholm.klubbenonline.se/"
+    },
+    {
       "entry": 1231465368,
       "orgName": "KFUM \u00d6stersund Basket",
       "orgNumber": "802420-4607",
@@ -30022,6 +30044,17 @@
       "web": "https://www.sigrid.se/"
     },
     {
+      "entry": 1231628841,
+      "orgName": "J\u00e4msh\u00f6gs IF",
+      "orgNumber": "836200-0781",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.jifonline.net/"
+    },
+    {
       "entry": 1231628858,
       "orgName": "Sk\u00f6vde Sims\u00e4llskap",
       "orgNumber": "866600-6302",
@@ -32919,6 +32952,16 @@
       "web": "https://gastabud.se/"
     },
     {
+      "entry": 1231795343,
+      "orgName": "Harley Owners Group, HOG Helsingborg Chapter",
+      "orgNumber": "802432-8422",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.hogsweden.se/hog-helsingborgchapter"
+    },
+    {
       "entry": 1231797505,
       "orgName": "SPF Seniorerna Fyrkl\u00f6vern Vansbro",
       "orgNumber": "802500-2133",
@@ -34590,6 +34633,16 @@
       "web": "https://www.efs.nu/"
     },
     {
+      "entry": 1231891035,
+      "orgName": "Harley Owners Group, HOG Stockholm Chapter",
+      "orgNumber": "802421-9951",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.hogsweden.se/hog-stockholmchapter"
+    },
+    {
       "entry": 1231891829,
       "orgName": "H\u00f6rby Cykelklubb",
       "orgNumber": "802517-2753",
@@ -34705,6 +34758,17 @@
         "religion"
       ],
       "web": "https://equmeniakyrkan.se/fridhemskyrkan/"
+    },
+    {
+      "entry": 1231897586,
+      "orgName": "\u00d6rnsk\u00f6ldsviks Jaktskytteklubb",
+      "orgNumber": "889601-1478",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.ovikjsk.se/"
     },
     {
       "entry": 1231898113,
@@ -39561,6 +39625,18 @@
       "web": "https://betaniaforsamlingen.se/"
     },
     {
+      "entry": 1232193464,
+      "orgName": "Karlholms GoIF",
+      "orgNumber": "817300-6266",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/kgoif"
+    },
+    {
       "entry": 1232193530,
       "orgName": "\u00c4lvdalens IF FK",
       "orgNumber": "884402-1660",
@@ -40750,6 +40826,16 @@
         "skridskoklubb"
       ],
       "web": "https://www.svenskalag.se/northernlightsskating"
+    },
+    {
+      "entry": 1232250504,
+      "orgName": "Harley Owners Group, HOG Ume\u00e5 Chapter",
+      "orgNumber": "802516-1971",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.hogsweden.se/hog-umeachapter"
     },
     {
       "entry": 1232250819,
@@ -42737,6 +42823,16 @@
         "religion"
       ],
       "web": "https://immanuelskyrkan.org/"
+    },
+    {
+      "entry": 1232329647,
+      "orgName": "Harley Owners Group, HOG J\u00e4rvs\u00f6 Chapter",
+      "orgNumber": "802493-0201",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.hogsweden.se/hog-jarvsochapter"
     },
     {
       "entry": 1232329860,
@@ -53590,6 +53686,16 @@
       "web": "https://www.svenskakyrkan.se/gavle/bjorsjokyrkan"
     },
     {
+      "entry": 1232999589,
+      "orgName": "Harley Owners Group, HOG G\u00f6teborg Chapter",
+      "orgNumber": "857209-2677",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.hogsweden.se/hog-goteborgchapter"
+    },
+    {
       "entry": 1232999951,
       "orgName": "IF Leikin",
       "orgNumber": "849200-1907",
@@ -56487,6 +56593,16 @@
         "ukraina"
       ],
       "web": "https://www.svenskakyrkan.se/partille/"
+    },
+    {
+      "entry": 1233180015,
+      "orgName": "Swedish Association of Regulated Quality Assurance, SARQA",
+      "orgNumber": "802437-6041",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.sarqa.com/"
     },
     {
       "entry": 1233186392,
@@ -61891,6 +62007,16 @@
         "utbildningar"
       ],
       "web": "https://soulmind.se/"
+    },
+    {
+      "entry": 1233487469,
+      "orgName": "Samepartiet Skogssamerna",
+      "orgNumber": "894002-9765",
+      "comment": null,
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://vuovdega.se/"
     },
     {
       "entry": 1233489846,
@@ -71984,6 +72110,16 @@
       "web": "https://www.agabtk.se/"
     },
     {
+      "entry": 1234116380,
+      "orgName": "Hallar\u00f6ds Hembygdsf\u00f6rening",
+      "orgNumber": "842001-2505",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://hallarod.eu/"
+    },
+    {
       "entry": 1234117495,
       "orgName": "Rasbokils Hembygdsf\u00f6rening",
       "orgNumber": "817600-2874",
@@ -75212,6 +75348,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.sparvagenbtk.se/"
+    },
+    {
+      "entry": 1234293577,
+      "orgName": "Ryssby IF",
+      "orgNumber": "829000-4251",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "padelklubb"
+      ],
+      "web": "https://www.ryssbyif.com/"
     },
     {
       "entry": 1234293726,
@@ -97917,6 +98065,16 @@
       "web": "https://www.bellis.nu/"
     },
     {
+      "entry": 1235672829,
+      "orgName": "Harley Owners Group, HOG Aros Viking Uppsala Chapter",
+      "orgNumber": "802440-4736",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.hogsweden.se/hog-arosvikinguppsalachapter"
+    },
+    {
       "entry": 1235673603,
       "orgName": "Trollh\u00e4ttan Syrianska FK",
       "orgNumber": "802518-8437",
@@ -103340,6 +103498,18 @@
         "ridklubb"
       ],
       "web": "https://rappestadridklubb.se/"
+    },
+    {
+      "entry": 1236004048,
+      "orgName": "Blomskogs Idrottsf\u00f6rening",
+      "orgNumber": "874400-3354",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.blomskog.org/idrottsforeningen/"
     },
     {
       "entry": 1236004303,
@@ -110475,6 +110645,16 @@
       "web": "https://gislavedvastbobk.se/"
     },
     {
+      "entry": 1236429807,
+      "orgName": "Svensk F\u00f6rening f\u00f6r Endoskopi och Gastroenterologi Personal, SEGP",
+      "orgNumber": "802503-9705",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://segp.nu/"
+    },
+    {
       "entry": 1236429880,
       "orgName": "Norrby Jakt & Sportskytteklubb",
       "orgNumber": "802469-7065",
@@ -113633,6 +113813,17 @@
         "intresseorganisation"
       ],
       "web": "http://www.eketsframtid.se/"
+    },
+    {
+      "entry": 1236641880,
+      "orgName": "Kungsbacka-Wiske Sportskyttar",
+      "orgNumber": "849400-8413",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://kungsbackawiske.se/"
     },
     {
       "entry": 1236642102,
@@ -119559,6 +119750,16 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/vilhelmina/"
+    },
+    {
+      "entry": 1236960595,
+      "orgName": "Harley Owners Group, HOG Dala River Chapter",
+      "orgNumber": "802430-5073",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.hogsweden.se/hog-dalariverchapter"
     },
     {
       "entry": 1236961726,
