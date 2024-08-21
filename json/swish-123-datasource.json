@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-21-rev-173321",
+    "date": "2024-08-21-rev-182214",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2163,6 +2163,17 @@
       "web": "https://www.perskopsstallplats.com/"
     },
     {
+      "entry": 1230122457,
+      "orgName": "Friluftsfr\u00e4mjandet Hudiksvall",
+      "orgNumber": "887500-2431",
+      "comment": "Sn\u00f6skor",
+      "categories": [
+        "friluftsliv",
+        "friskv\u00e5rd"
+      ],
+      "web": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/hudiksvall/"
+    },
+    {
       "entry": 1230122465,
       "orgName": "SPF Seniorerna S.ta Birgitta Vadstena",
       "orgNumber": "824000-9079",
@@ -3672,6 +3683,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.warmlanningarna.org/"
+    },
+    {
+      "entry": 1230216382,
+      "orgName": "Friluftsfr\u00e4mjandet Hudiksvall",
+      "orgNumber": "887500-2431",
+      "comment": "Discgolf",
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/hudiksvall/discgolf/"
     },
     {
       "entry": 1230217729,
@@ -16764,6 +16786,17 @@
       "web": "https://www.djik.se/"
     },
     {
+      "entry": 1230910497,
+      "orgName": "John Bauer Discgolf",
+      "orgNumber": "802454-8912",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.jbdg.se/"
+    },
+    {
       "entry": 1230910752,
       "orgName": "Sail Training Association of Sweden, STAS",
       "orgNumber": "857209-3683",
@@ -26734,6 +26767,17 @@
         "padelklubb"
       ],
       "web": "https://www.bromollapadel.se/"
+    },
+    {
+      "entry": 1231466192,
+      "orgName": "Friluftsfr\u00e4mjandet Hudiksvall",
+      "orgNumber": "887500-2431",
+      "comment": "Kajak",
+      "categories": [
+        "friluftsliv",
+        "friskv\u00e5rd"
+      ],
+      "web": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/hudiksvall/"
     },
     {
       "entry": 1231466549,
@@ -50657,6 +50701,17 @@
       "web": "https://houseofzen.se/"
     },
     {
+      "entry": 1232789808,
+      "orgName": "Wasteland Discgolf Club",
+      "orgNumber": "802487-8251",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://wasteland-discgolf.webnode.se/"
+    },
+    {
       "entry": 1232789881,
       "orgName": "Gamla Stans Yacht S\u00e4llskap",
       "orgNumber": "802410-7552",
@@ -72196,6 +72251,17 @@
       "web": "https://www.svenskakyrkan.se/staffan/hemlingby-kyrka"
     },
     {
+      "entry": 1234079794,
+      "orgName": "Friluftsfr\u00e4mjandet Hudiksvall",
+      "orgNumber": "887500-2431",
+      "comment": "Mulle",
+      "categories": [
+        "friluftsliv",
+        "friskv\u00e5rd"
+      ],
+      "web": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/hudiksvall/"
+    },
+    {
       "entry": 1234082343,
       "orgName": "Fjugesta IF",
       "orgNumber": "875000-0773",
@@ -76618,6 +76684,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
+      "entry": 1234356747,
+      "orgName": "Friluftsfr\u00e4mjandet Hudiksvall",
+      "orgNumber": "887500-2431",
+      "comment": "L\u00e5ngf\u00e4rdsskridskor",
+      "categories": [
+        "friluftsliv",
+        "friskv\u00e5rd"
+      ],
+      "web": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/hudiksvall/"
     },
     {
       "entry": 1234356846,
@@ -84690,6 +84767,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-jonkopings-lan/samorganisationer/samorganisation-savsjo/foreningar/savsjo.html"
+    },
+    {
+      "entry": 1234902433,
+      "orgName": "Ulricehamns IF",
+      "orgNumber": "865500-3385",
+      "comment": "Discgolf",
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uif.se/"
     },
     {
       "entry": 1234902466,
@@ -93079,6 +93167,17 @@
       "web": "https://www.svenskakyrkan.se/tingsryd"
     },
     {
+      "entry": 1235371612,
+      "orgName": "Friluftsfr\u00e4mjandet Hudiksvall",
+      "orgNumber": "887500-2431",
+      "comment": null,
+      "categories": [
+        "friluftsliv",
+        "friskv\u00e5rd"
+      ],
+      "web": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/hudiksvall/"
+    },
+    {
       "entry": 1235372321,
       "orgName": "PRO Klippan",
       "orgNumber": "837600-7053",
@@ -96478,6 +96577,17 @@
         "katthem"
       ],
       "web": "https://kks.nu/"
+    },
+    {
+      "entry": 1235550991,
+      "orgName": "Dropzone Discgolfklubb",
+      "orgNumber": "802537-5406",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/DropzoneDiscgolfklubb/"
     },
     {
       "entry": 1235557319,
@@ -102923,6 +103033,17 @@
       "web": "https://www.svenskalag.se/varaibk"
     },
     {
+      "entry": 1235923115,
+      "orgName": "Skellefte\u00e5 Discgolf, SDG",
+      "orgNumber": "894003-9400",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://sdg.nu/"
+    },
+    {
       "entry": 1235923123,
       "orgName": "MFF Tifosi 96",
       "orgNumber": "846502-8663",
@@ -109247,6 +109368,16 @@
         "samh\u00e4llsf\u00f6rening"
       ],
       "web": "https://www.bellobo.se/"
+    },
+    {
+      "entry": 1236282339,
+      "orgName": "Norrk\u00f6ping DiscgolfPark / Delicious Darling AB / M2 Fly AB",
+      "orgNumber": "556983-6629",
+      "comment": null,
+      "categories": [
+        "discgolfbana"
+      ],
+      "web": "https://www.discgolfzon.se/"
     },
     {
       "entry": 1236283394,
@@ -117572,6 +117703,17 @@
         "kulturf\u00f6rening"
       ],
       "web": "http://www.svensklitauiska.se/"
+    },
+    {
+      "entry": 1236793079,
+      "orgName": "Friluftsfr\u00e4mjandet Hudiksvall",
+      "orgNumber": "887500-2431",
+      "comment": "Onsdagsvandring",
+      "categories": [
+        "friluftsliv",
+        "friskv\u00e5rd"
+      ],
+      "web": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/hudiksvall/"
     },
     {
       "entry": 1236793251,
