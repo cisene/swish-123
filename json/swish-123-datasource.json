@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-21-rev-125948",
+    "date": "2024-08-21-rev-173321",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -52978,6 +52978,17 @@
       "web": "http://www.sandviken-solvesborg.se/"
     },
     {
+      "entry": 1232927044,
+      "orgName": "Lidk\u00f6pings Discgolfklubb",
+      "orgNumber": "802531-7879",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/groups/1446162585616240/"
+    },
+    {
       "entry": 1232927077,
       "orgName": "Kamratf\u00f6reningen Flottans M\u00e4n i V\u00e4xj\u00f6",
       "orgNumber": "802542-5011",
@@ -70722,6 +70733,17 @@
       "web": "https://www.svenskalag.se/lif-lindesberg"
     },
     {
+      "entry": 1233968823,
+      "orgName": "AB Svensk Discsport",
+      "orgNumber": "556748-0834",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "sportmarterial"
+      ],
+      "web": "https://discsport.se/"
+    },
+    {
       "entry": 1233969219,
       "orgName": "Dominicaines de Sainte Marie des Tourelles",
       "orgNumber": "252002-8420",
@@ -71304,6 +71326,17 @@
         "musik"
       ],
       "web": "https://melodifestivalklubben.se/"
+    },
+    {
+      "entry": 1234010682,
+      "orgName": "Fjordklubben",
+      "orgNumber": "802417-2911",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "m\u00e4rkesklubb"
+      ],
+      "web": "https://www.fjordboatclub.se/"
     },
     {
       "entry": 1234011201,
@@ -75255,6 +75288,17 @@
         "ryttarklubb"
       ],
       "web": "https://www.laget.se/GoteneRK/"
+    },
+    {
+      "entry": 1234263620,
+      "orgName": "Sundsvalls Frisbee F\u00f6rening",
+      "orgNumber": "889202-0630",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://sticksjodiscgolf.se/"
     },
     {
       "entry": 1234264164,
@@ -86695,6 +86739,17 @@
         "religion"
       ],
       "web": "https://www.kyrktorget.se/pingstbohus"
+    },
+    {
+      "entry": 1235025168,
+      "orgName": "\u00c5nge Discgolfklubb",
+      "orgNumber": "802517-1466",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/angediscgolf"
     },
     {
       "entry": 1235025358,
@@ -103553,6 +103608,17 @@
         "intresseorganisation"
       ],
       "web": "https://www.musketorernaisollentuna.se/"
+    },
+    {
+      "entry": 1235954623,
+      "orgName": "\u00d6stg\u00f6ta SaabKlubb",
+      "orgNumber": "802435-5599",
+      "comment": null,
+      "categories": [
+        "motorklubb",
+        "m\u00e4rkesklubb"
+      ],
+      "web": "https://ostgotasaabklubb.wordpress.com/"
     },
     {
       "entry": 1235955760,

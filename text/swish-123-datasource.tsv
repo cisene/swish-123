@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-08-21-rev-130003
+# Date: 2024-08-21-rev-173335
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4883,6 +4883,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232920387	802600-1662	Södra Mörebygdens Älgskötselområde	http://www.smao.se/	jaktvårdsklubb	
 1232920593	894001-6606	Ersmarks IK	https://www.eik.se/	fotbollsklubb,idrottsförening	P13
 1232920775	802491-0658	Sandvikens Östra Stugägareförening	http://www.sandviken-solvesborg.se/	stugägareförening,villaägareförening	
+1232927044	802531-7879	Lidköpings Discgolfklubb	https://www.facebook.com/groups/1446162585616240/	discgolfklubb,idrottsförening	
 1232927077	802542-5011	Kamratföreningen Flottans Män i Växjö	https://flottansman.se/vaxjo/	intresseförening,kamratförening	
 1232929164	872400-2418	Filipstads Simklubb	https://www.filipstadsk.com/	idrottsförening,simklubb,simsällskap	Master/Crawl-grupp
 1232929421	898200-0120	Pingstförsamlingen i Kalix	https://pingst.be/	religion	
@@ -6519,6 +6520,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233964707	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Göteborg, Alboskolan
 1233967551	802433-8199	Grynkorvens Vänner	https://grynkorv.se/	intresseförening	
 1233968559	877100-6643	LIF Lindesberg	https://www.svenskalag.se/lif-lindesberg	handbollsklubb,idrottsförening	
+1233968823	556748-0834	AB Svensk Discsport	https://discsport.se/	försäljning,sportmarterial	
 1233969219	252002-8420	Dominicaines de Sainte Marie des Tourelles	https://www.roglekloster.se/	kloster,religion	
 1233969326	815600-4304	Syrianska FC	https://www.laget.se/SyrianskaFC/	fotbollsklubb,idrottsförening	
 1233969383	823000-7539	Mjölby CK	https://www.svenskalag.se/mjolbyck	cykelklubb,idrottsförening	
@@ -6573,6 +6575,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234009320	872000-7759	Gunnarskogs Bygdelag	http://www.gunnarskog.nu/	byalag,bygdegårdsförening	
 1234009528	837001-2679	Svenska Röda Korset	https://www.rodakorset.se/ort/skane/hassleholms-kommun/	hjälporganisation	Hästveda
 1234009692	802421-0935	Melodifestivalklubben	https://melodifestivalklubben.se/	musik	
+1234010682	802417-2911	Fjordklubben	https://www.fjordboatclub.se/	båtklubb,märkesklubb	
 1234011201	873202-1301	Segerstads Hembygsförening	http://segerstadshembygd.se/	hembygdsförening	
 1234011631	556778-8996	Advokatbyrå Z & Co	https://zeijersborger.se/	advokatbyrå,juridiska tjänster	
 1234013868	802481-5782	Insamlingsstiftelsen Kurdiska Röda Solen (Roja Sor a Kurdistanê)	https://rodasolen.se/	hjälporganisation	
@@ -6936,6 +6939,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234263448	827000-9957	Kvinnojouren Linneorna i Eksjö	https://kvinnojourenlinneorna.se/	kvinnojour	
 1234263471	556848-6285	24meter AB	https://www.24meter.se/	fordonsutrustning,reservdelar	
 1234263588	869000-6039	Götene Ryttarklubb	https://www.laget.se/GoteneRK/	hästsport,ridklubb,ryttarklubb	tävlingskommitté
+1234263620	889202-0630	Sundsvalls Frisbee Förening	https://sticksjodiscgolf.se/	discgolfklubb,idrottsförening	
 1234264164	817602-8606	Läbyvads Hembygdsförening	https://bygdegardarna.se/labyvad/	bygdegårdsförening	
 1234264222	849201-4371	Lions Club Oskarström	http://lions.oskarstrom.com/	lionsklubb	
 1234264305	814401-2450	Edsbro RF	https://www.svenskalag.se/edsbrorf	hästsport,ryttarförening	
@@ -7988,6 +7992,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235024591	252000-9016	Jämshögs Församling	https://www.svenskakyrkan.se/jamshog	religion	Kollekt
 1235024658	556130-4519	Atracco AB	http://www.bildelonline.se/	bildelar,bilvård,reservdelar	
 1235025044	863500-0246	Filadelfia Församlingen i Bohus	https://www.kyrktorget.se/pingstbohus	religion	
+1235025168	802517-1466	Ånge Discgolfklubb	https://www.facebook.com/angediscgolf	discgolfklubb,idrottsförening	
 1235025358	556581-6633	Teeview / Top View AB	https://teeview.se/	försäljning,golfutrustning	
 1235025432	559171-5031	Advokatbyrån Mats Cederqvist	https://www.matscederqvist.se/	advokatbyrå,juridiska tjänster	
 1235025580	869000-5163	Källby IF	https://www.laget.se/KallbyIF/	fotbollsklubb,idrottsförening	
@@ -9532,6 +9537,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235953419	252004-8774	Örgryte Pastorat	https://www.svenskakyrkan.se/orgryte	religion	kollekt Skårs kyrka
 1235953492	817605-6144	PRO Bälinge	https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-uppsala/foreningar/balinge.html	pensionärsklubb	
 1235954243	802448-7483	Musketörerna i Sollentuna	https://www.musketorernaisollentuna.se/	donation,intresseorganisation	
+1235954623	802435-5599	Östgöta SaabKlubb	https://ostgotasaabklubb.wordpress.com/	motorklubb,märkesklubb	
 1235955760	832000-4578	Gärdslösa Hembygdsförening	https://www.hembygd.se/gardslosa	hembygdsförening	
 1235959267	556478-9351	Enskede Ridskola AB	https://www.enskederidskola.se/	hästsport,ridskola	
 1235959721	826000-8969	Gränna AIS	https://www.laget.se/Grenna_AIS/	badmintonklubb,fotbollsklubb,gymnastikförening,idrottsförening,innebandyklubb,padelklubb,tennisklubb	
