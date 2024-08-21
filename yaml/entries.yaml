@@ -394,6 +394,15 @@ entries:
   - idrottsförening
   web: https://www.ifweimerlyrestad.se/
 
+- entry: 1230018002
+  orgName: Hedekas Idrottsförening
+  orgNumber: 854600-4808
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.hedekasif.se/
+
 - entry: 1230018176
   orgName: Nyköpings BIS Friidrott
   orgNumber: 817605-5336
@@ -6986,6 +6995,7 @@ entries:
   orgNumber: 886000-0200
   comment: null
   categories:
+  - fotbollsklubb
   - idrottsförening
   web: https://www.holmsveden.nu/holmsvedens-aik/
 
@@ -17176,6 +17186,14 @@ entries:
   - sportfiske
   web: https://lillpitefiske.se/
 
+- entry: 1231137546
+  orgName: Allianskyrkan i Ölmstad
+  orgNumber: 826000-4885
+  comment: null
+  categories:
+  - religion
+  web: https://allianskyrkan.nu/
+
 - entry: 1231137603
   orgName: Friskis & Svettis Säffle
   orgNumber: 874400-8494
@@ -23134,6 +23152,15 @@ entries:
   - förening
   web: https://www.ppff.se/
 
+- entry: 1231508191
+  orgName: Lysekils Klätterklubb
+  orgNumber: 802499-2755
+  comment: null
+  categories:
+  - idrottsförening
+  - klätterklubb
+  web: https://lysekilsklatterklubb.wordpress.com/
+
 - entry: 1231508589
   orgName: Kvinnojouren Moa
   orgNumber: 818000-8008
@@ -26826,6 +26853,14 @@ entries:
   - katthem
   web: https://hkkalmar.se/
 
+- entry: 1231766674
+  orgName: Förenade Byggingenjörer, FBI
+  orgNumber: 802443-3248
+  comment: null
+  categories:
+  - intresseförening
+  web: http://fbiare.se/
+
 - entry: 1231766708
   orgName: Darin Trafikskola
   orgNumber: 570312-XXXX
@@ -29878,6 +29913,15 @@ entries:
   - motionsklubb
   web: https://www.orserumsik.se/
 
+- entry: 1231984988
+  orgName: Fältjägarnas Enduroförening
+  orgNumber: 893203-4435
+  comment: null
+  categories:
+  - enduroklubb
+  - motorcykelklubb
+  web: http://fefenduro.se/
+
 - entry: 1231985308
   orgName: Dyggur Islandshästförening
   orgNumber: 825003-0809
@@ -30991,6 +31035,14 @@ entries:
   - friidrottsförening
   - idrottsförening
   web: https://www.vedumsais.se/
+
+- entry: 1232088839
+  orgName: Stocksbo-Åbo-Brinnasen Byalag
+  orgNumber: 887000-5702
+  comment: null
+  categories:
+  - byalag
+  web: https://www.stocksbo.se/
 
 - entry: 1232088953
   orgName: Brottsofferjouren Nacka-Tyresö-Värmdö
@@ -33519,6 +33571,14 @@ entries:
   - intresseförening
   web: https://supportgroup.se/
 
+- entry: 1232234201
+  orgName: Servas Sverige
+  orgNumber: 802430-0082
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.servas.se/
+
 - entry: 1232234318
   orgName: Moga Fritid / Svenljunga Kommun
   orgNumber: 212000-1512
@@ -33620,6 +33680,15 @@ entries:
   categories:
   - religion
   web: https://equmeniakyrkan.se/hjo/
+
+- entry: 1232239937
+  orgName: MX Visby
+  orgNumber: 802460-3972
+  comment: null
+  categories:
+  - motorcykelklubb
+  - motorsport
+  web: http://mxwisby.se/
 
 - entry: 1232240356
   orgName: Folket i Bild/Kulturfront
@@ -67423,6 +67492,14 @@ entries:
   - religion
   web: https://www.flaton.se/
 
+- entry: 1234673851
+  orgName: SAU-Föreningen i Ölmstad
+  orgNumber: 802448-0587
+  comment: null
+  categories:
+  - religion
+  web: https://allianskyrkan.nu/
+
 - entry: 1234674115
   orgName: Sigtuna Orienteringsklubb
   orgNumber: 814800-3760
@@ -72513,6 +72590,16 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/VaxjoIBKU/
+
+- entry: 1235111687
+  orgName: Street Stars Cruisers
+  orgNumber: 855900-7490
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  - veteranfordon
+  web: https://www.streetstars.se/
 
 - entry: 1235111737
   orgName: VBK Tierp
@@ -81822,6 +81909,14 @@ entries:
   - bilhandel
   web: http://www.iabil.se/
 
+- entry: 1235708540
+  orgName: Skogskvinnorna
+  orgNumber: 802414-2013
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.skogskvinnorna.se/
+
 - entry: 1235708714
   orgName: Varbergs Kvinnojour
   orgNumber: 849600-7413
@@ -83308,6 +83403,16 @@ entries:
   - fotvård
   - massage
   web: https://www.himmelskafotter.se/
+
+- entry: 1235821004
+  orgName: Luleå ju-jutsuklubb
+  orgNumber: 897001-5809
+  comment: null
+  categories:
+  - idrottsförening
+  - jujutsuklubb
+  - kampsportsförening
+  web: https://www.ljjk.net/
 
 - entry: 1235821301
   orgName: Skellefteå CK - Curling
@@ -86316,6 +86421,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/lidkoping/
+
+- entry: 1236035422
+  orgName: Nansta Sportryttarförening
+  orgNumber: 802467-0922
+  comment: null
+  categories:
+  - hästsport
+  - ryttarförening
+  web: https://nanstasrf0.webnode.se/
 
 - entry: 1236038830
   orgName: Saxå Golfklubb
@@ -95437,6 +95551,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/LyckseleIF/
 
+- entry: 1236703664
+  orgName: Bengtsfors Motorclub
+  orgNumber: 802450-7223
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://www.bengtsforsmc.se/
+
 - entry: 1236703714
   orgName: Tärna Bygdegårdsförening
   orgNumber: 802462-7971
@@ -96372,6 +96495,15 @@ entries:
   categories:
   - politiskt parti
   web: https://twitter.com/partystockholm
+
+- entry: 1236775647
+  orgName: Dalslands Travsällskap
+  orgNumber: 862000-0433
+  comment: null
+  categories:
+  - hästsport
+  - travsällskap
+  web: https://www.amalstravet.se/
 
 - entry: 1236776025
   orgName: Christina Nilsson-Sällskapet
@@ -97499,6 +97631,15 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/rammen/
 
+- entry: 1236838825
+  orgName: Stockholmspolisens Skytteförening
+  orgNumber: 802003-2598
+  comment: null
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: http://www.spolskytte.se/
+
 - entry: 1236839047
   orgName: Nybro Simklubb
   orgNumber: 802456-6690
@@ -98167,6 +98308,15 @@ entries:
   - cykelklubb
   - idrottsförening
   web: https://orebrocyklisterna.se/
+
+- entry: 1236901268
+  orgName: Åmåls Nya Tennisklubb
+  orgNumber: 802476-0285
+  comment: null
+  categories:
+  - idrottsförening
+  - tennisklubb
+  web: https://amalstk.se/
 
 - entry: 1236901557
   orgName: Brf Ingebäckslyckan 1
