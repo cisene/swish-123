@@ -12079,6 +12079,16 @@ entries:
   - politiskt parti
   web: https://sundbyberg.socialdemokraterna.se/
 
+- entry: 1230810473
+  orgName: Ölands Simklubb
+  orgNumber: 832000-3422
+  comment: null
+  categories:
+  - idrottsförening
+  - simklubb
+  - simsällskap
+  web: https://www.facebook.com/Olandssimklubb/
+
 - entry: 1230810499
   orgName: BK Spark
   orgNumber: 864000-4993
@@ -12855,7 +12865,7 @@ entries:
   categories:
   - bowling
   - försäljning
-  - sportmarterial
+  - sportmaterial
   web: https://stroms.biz/
 
 - entry: 1230854687
@@ -15631,6 +15641,15 @@ entries:
   - religion
   web: https://www.ortodoxakyrkan.se/
 
+- entry: 1231021773
+  orgName: HC Dalen
+  orgNumber: 826000-7086
+  comment: Soffbiljett
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/hcdalen
+
 - entry: 1231022490
   orgName: Pingstförsamlingen Kungsör
   orgNumber: 878500-0350
@@ -16626,6 +16645,14 @@ entries:
   categories:
   - religion
   web: https://www.stenhammarkyrkan.se/
+
+- entry: 1231085349
+  orgName: Cykla Paris / Eva Hållsten
+  orgNumber: null
+  comment: null
+  categories:
+  - blog
+  web: https://cyklartillparis.com/
 
 - entry: 1231087998
   orgName: Holmstrand-Helgums Sportklubb
@@ -28853,6 +28880,16 @@ entries:
   - skytteklubb
   web: https://www.ovikjsk.se/
 
+- entry: 1231897776
+  orgName: Sölvesborgs Cykel & Sportklubb SCSK
+  orgNumber: 802470-9258
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  - sportklubb
+  web: https://www.solvesborgcsk.com/
+
 - entry: 1231898113
   orgName: Vittjärvs IK
   orgNumber: 898500-1513
@@ -29685,6 +29722,14 @@ entries:
   categories:
   - kvinnojour
   web: https://www.unizonjourer.se/tigerlilja/
+
+- entry: 1231973924
+  orgName: Friluftsfrämjandet Luleå
+  orgNumber: 897000-1569
+  comment: null
+  categories:
+  - friluftsliv
+  web: https://www.friluftsframjandet.se/regioner/norr/lokalavdelningar/lulea/
 
 - entry: 1231974138
   orgName: Lunds BoIS
@@ -38648,6 +38693,16 @@ entries:
   - idrottsförening
   web: https://www.ifkemtunga.se/
 
+- entry: 1232600096
+  orgName: Sverige Springer, En Svensk Klassiker
+  orgNumber: 556752-7444
+  comment: null
+  categories:
+  - idrottsförening
+  - löparklubb
+  - mästerskap
+  web: https://www.sverigespringer.se/
+
 - entry: 1232601607
   orgName: Aktiva Seniorer Mariestad
   orgNumber: 802420-6339
@@ -40773,6 +40828,17 @@ entries:
   - skytteklubb
   web: https://www.kalmarjsk.se/
 
+- entry: 1232721595
+  orgName: IK Rex
+  orgNumber: 817300-0400
+  comment: null
+  categories:
+  - cykelklubb
+  - friidrottsförening
+  - idrottsförening
+  - skidlöparklubb
+  web: https://ikrex.se/
+
 - entry: 1232721660
   orgName: Pingstkyrkan Lidköping
   orgNumber: 869000-0495
@@ -42506,6 +42572,15 @@ entries:
   - pensionärsklubb
   web: http://www.umepolisseniorer.se/
 
+- entry: 1232828671
+  orgName: Wedumsdalens Nejder
+  orgNumber: 802497-9158
+  comment: null
+  categories:
+  - byalag
+  - samhällsförening
+  web: https://wedumsdalensnejder.se/
+
 - entry: 1232829448
   orgName: Mönsterås Skytteförening
   orgNumber: 832800-5312
@@ -42692,6 +42767,15 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://ovhandbollochskola.se/
+
+- entry: 1232858256
+  orgName: Hoj-O-Mat / Alexander Svartvatten
+  orgNumber: 780402-XXXX
+  comment: null
+  categories:
+  - reparationer
+  - restaurant
+  web: https://www.hojomat.nu/
 
 - entry: 1232859338
   orgName: Rotary Hammenhög
@@ -47747,6 +47831,7 @@ entries:
   comment: null
   categories:
   - försäljning
+  - reparationer
   web: https://www.bengtssons.com/
 
 - entry: 1233224043
@@ -54758,6 +54843,15 @@ entries:
   - ridklubb
   web: https://www.ridklubbenudden.com/
 
+- entry: 1233717220
+  orgName: Polis och Brand SM / FINEC Accounting AB
+  orgNumber: 559485-5396
+  comment: null
+  categories:
+  - blåljus
+  - mästerskap
+  web: https://www.brandsm.se/
+
 - entry: 1233717261
   orgName: Vuollerims Ridklubb
   orgNumber: 898500-6421
@@ -55359,6 +55453,14 @@ entries:
   categories:
   - stiftelse
   web: https://www.ellenkey.se/
+
+- entry: 1233780160
+  orgName: SkogsMatning, SkåneVandring / Monica Frangeur
+  orgNumber: 670416-XXXX
+  comment: null
+  categories:
+  - fritidsaktiviteter
+  web: https://www.upplevonjut.se/skanevandring/
 
 - entry: 1233780384
   orgName: Munskänkarna
@@ -58341,7 +58443,7 @@ entries:
   comment: null
   categories:
   - försäljning
-  - sportmarterial
+  - sportmaterial
   web: https://discsport.se/
 
 - entry: 1233969219
@@ -62471,6 +62573,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/ISK/
+
+- entry: 1234285771
+  orgName: McPloys Jakt & Vildmark AB
+  orgNumber: 559161-6650
+  comment: null
+  categories:
+  - friluftsliv
+  - jaktutrustning
+  web: https://www.mcploys.com/
 
 - entry: 1234287454
   orgName: SPF Seniorerna Landsbrobygden
@@ -75668,6 +75779,8 @@ entries:
   comment: null
   categories:
   - cykelsport
+  - cykelutrustning
+  - reparationer
   - skidutrustning
   - uthyrning
   web: https://lagghoj.se/
@@ -77383,6 +77496,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1235403480
+  orgName: Wexiö Discgolf
+  orgNumber: 802518-0277
+  comment: null
+  categories:
+  - discgolfklubb
+  - idrottsförening
+  web: https://tjing.se/club/wexio-disc-golf/
+
 - entry: 1235406327
   orgName: TROTS Kvinnojour
   orgNumber: 802467-6747
@@ -78261,6 +78383,13 @@ entries:
   - religion
   web: https://www.arboga.pingst.se/
 
+- entry: 1235457569
+  orgName: null
+  orgNumber: null
+  comment: Moskébygge Tiktok
+  categories: null
+  web: null
+
 - entry: 1235457874
   orgName: Floby Pastorat
   orgNumber: 252003-9146
@@ -78345,6 +78474,7 @@ entries:
   orgNumber: 802480-7441
   comment: null
   categories:
+  - donation
   - stiftelse
   web: https://www.ebbasanglar.se/
 
@@ -80023,6 +80153,17 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1235584628
+  orgName: Stenströms Cykel AB
+  orgNumber: 556189-8304
+  comment: null
+  categories:
+  - cykelsport
+  - cykelutrustning
+  - försäljning
+  - reparationer
+  web: https://stenstromscykel.se/
 
 - entry: 1235584644
   orgName: Team Rynkeby
@@ -92564,6 +92705,19 @@ entries:
   - idrottsförening
   web: https://www.laget.se/AkersbergaFC/
 
+- entry: 1236488456
+  orgName: Dan's cykel o skid
+  orgNumber: 760626-XXXX
+  comment: null
+  categories:
+  - cykelutrustning
+  - försäljning
+  - reservdelar
+  - skidutrustning
+  - sportmaterial
+  - återförsäljare
+  web: https://danscykeloskid.com/
+
 - entry: 1236489959
   orgName: Munskänkarna
   orgNumber: 802542-8965
@@ -92794,6 +92948,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/lysekils-pastorat/bro--brastad
+
+- entry: 1236504989
+  orgName: Bostadsrättsförening Agaten
+  orgNumber: 714000-1970
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.agaten.se/
 
 - entry: 1236505119
   orgName: Dösjebro Scoutkår
@@ -98633,7 +98795,7 @@ entries:
   comment: null
   categories:
   - försäljning
-  - sportmarterial
+  - sportmaterial
   web: https://www.sportjouren.se/
 
 - entry: 1236906853

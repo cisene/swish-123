@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-21-rev-182214",
+    "date": "2024-08-22-rev-135110",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -14690,6 +14690,18 @@
       "web": "https://sundbyberg.socialdemokraterna.se/"
     },
     {
+      "entry": 1230810473,
+      "orgName": "\u00d6lands Simklubb",
+      "orgNumber": "832000-3422",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "simklubb",
+        "sims\u00e4llskap"
+      ],
+      "web": "https://www.facebook.com/Olandssimklubb/"
+    },
+    {
       "entry": 1230810499,
       "orgName": "BK Spark",
       "orgNumber": "864000-4993",
@@ -15629,7 +15641,7 @@
       "categories": [
         "bowling",
         "f\u00f6rs\u00e4ljning",
-        "sportmarterial"
+        "sportmaterial"
       ],
       "web": "https://stroms.biz/"
     },
@@ -18978,6 +18990,17 @@
         "religion"
       ],
       "web": "https://www.ortodoxakyrkan.se/"
+    },
+    {
+      "entry": 1231021773,
+      "orgName": "HC Dalen",
+      "orgNumber": "826000-7086",
+      "comment": "Soffbiljett",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/hcdalen"
     },
     {
       "entry": 1231022490,
@@ -35036,6 +35059,18 @@
       "web": "https://www.ovikjsk.se/"
     },
     {
+      "entry": 1231897776,
+      "orgName": "S\u00f6lvesborgs Cykel & Sportklubb SCSK",
+      "orgNumber": "802470-9258",
+      "comment": null,
+      "categories": [
+        "cykelklubb",
+        "idrottsf\u00f6rening",
+        "sportklubb"
+      ],
+      "web": "https://www.solvesborgcsk.com/"
+    },
+    {
       "entry": 1231898113,
       "orgName": "Vittj\u00e4rvs IK",
       "orgNumber": "898500-1513",
@@ -36053,6 +36088,16 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/tigerlilja/"
+    },
+    {
+      "entry": 1231973924,
+      "orgName": "Friluftsfr\u00e4mjandet Lule\u00e5",
+      "orgNumber": "897000-1569",
+      "comment": null,
+      "categories": [
+        "friluftsliv"
+      ],
+      "web": "https://www.friluftsframjandet.se/regioner/norr/lokalavdelningar/lulea/"
     },
     {
       "entry": 1231974138,
@@ -46876,6 +46921,18 @@
       "web": "https://www.ifkemtunga.se/"
     },
     {
+      "entry": 1232600096,
+      "orgName": "Sverige Springer, En Svensk Klassiker",
+      "orgNumber": "556752-7444",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "m\u00e4sterskap"
+      ],
+      "web": "https://www.sverigespringer.se/"
+    },
+    {
       "entry": 1232601607,
       "orgName": "Aktiva Seniorer Mariestad",
       "orgNumber": "802420-6339",
@@ -49464,6 +49521,19 @@
       "web": "https://www.kalmarjsk.se/"
     },
     {
+      "entry": 1232721595,
+      "orgName": "IK Rex",
+      "orgNumber": "817300-0400",
+      "comment": null,
+      "categories": [
+        "cykelklubb",
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://ikrex.se/"
+    },
+    {
       "entry": 1232721660,
       "orgName": "Pingstkyrkan Lidk\u00f6ping",
       "orgNumber": "869000-0495",
@@ -51566,6 +51636,17 @@
       "web": "http://www.umepolisseniorer.se/"
     },
     {
+      "entry": 1232828671,
+      "orgName": "Wedumsdalens Nejder",
+      "orgNumber": "802497-9158",
+      "comment": null,
+      "categories": [
+        "byalag",
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://wedumsdalensnejder.se/"
+    },
+    {
       "entry": 1232829448,
       "orgName": "M\u00f6nster\u00e5s Skyttef\u00f6rening",
       "orgNumber": "832800-5312",
@@ -51793,6 +51874,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://ovhandbollochskola.se/"
+    },
+    {
+      "entry": 1232858256,
+      "orgName": "Hoj-O-Mat / Alexander Svartvatten",
+      "orgNumber": "780402-XXXX",
+      "comment": null,
+      "categories": [
+        "reparationer",
+        "restaurant"
+      ],
+      "web": "https://www.hojomat.nu/"
     },
     {
       "entry": 1232859338,
@@ -57872,7 +57964,8 @@
       "orgNumber": "556389-6934",
       "comment": null,
       "categories": [
-        "f\u00f6rs\u00e4ljning"
+        "f\u00f6rs\u00e4ljning",
+        "reparationer"
       ],
       "web": "https://www.bengtssons.com/"
     },
@@ -66441,6 +66534,17 @@
       "web": "https://www.ridklubbenudden.com/"
     },
     {
+      "entry": 1233717220,
+      "orgName": "Polis och Brand SM / FINEC Accounting AB",
+      "orgNumber": "559485-5396",
+      "comment": null,
+      "categories": [
+        "bl\u00e5ljus",
+        "m\u00e4sterskap"
+      ],
+      "web": "https://www.brandsm.se/"
+    },
+    {
       "entry": 1233717261,
       "orgName": "Vuollerims Ridklubb",
       "orgNumber": "898500-6421",
@@ -67170,6 +67274,16 @@
         "stiftelse"
       ],
       "web": "https://www.ellenkey.se/"
+    },
+    {
+      "entry": 1233780160,
+      "orgName": "SkogsMatning, Sk\u00e5neVandring / Monica Frangeur",
+      "orgNumber": "670416-XXXX",
+      "comment": null,
+      "categories": [
+        "fritidsaktiviteter"
+      ],
+      "web": "https://www.upplevonjut.se/skanevandring/"
     },
     {
       "entry": 1233780384,
@@ -70794,7 +70908,7 @@
       "comment": null,
       "categories": [
         "f\u00f6rs\u00e4ljning",
-        "sportmarterial"
+        "sportmaterial"
       ],
       "web": "https://discsport.se/"
     },
@@ -75821,6 +75935,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/ISK/"
+    },
+    {
+      "entry": 1234285771,
+      "orgName": "McPloys Jakt & Vildmark AB",
+      "orgNumber": "559161-6650",
+      "comment": null,
+      "categories": [
+        "friluftsliv",
+        "jaktutrustning"
+      ],
+      "web": "https://www.mcploys.com/"
     },
     {
       "entry": 1234287454,
@@ -91834,6 +91959,8 @@
       "comment": null,
       "categories": [
         "cykelsport",
+        "cykelutrustning",
+        "reparationer",
         "skidutrustning",
         "uthyrning"
       ],
@@ -93931,6 +94058,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235403480,
+      "orgName": "Wexi\u00f6 Discgolf",
+      "orgNumber": "802518-0277",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://tjing.se/club/wexio-disc-golf/"
+    },
+    {
       "entry": 1235406327,
       "orgName": "TROTS Kvinnojour",
       "orgNumber": "802467-6747",
@@ -95082,6 +95220,7 @@
       "orgNumber": "802480-7441",
       "comment": null,
       "categories": [
+        "donation",
         "stiftelse"
       ],
       "web": "https://www.ebbasanglar.se/"
@@ -97130,6 +97269,19 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235584628,
+      "orgName": "Stenstr\u00f6ms Cykel AB",
+      "orgNumber": "556189-8304",
+      "comment": null,
+      "categories": [
+        "cykelsport",
+        "cykelutrustning",
+        "f\u00f6rs\u00e4ljning",
+        "reparationer"
+      ],
+      "web": "https://stenstromscykel.se/"
     },
     {
       "entry": 1235584644,
@@ -112245,6 +112397,21 @@
       "web": "https://www.laget.se/AkersbergaFC/"
     },
     {
+      "entry": 1236488456,
+      "orgName": "Dan's cykel o skid",
+      "orgNumber": "760626-XXXX",
+      "comment": null,
+      "categories": [
+        "cykelutrustning",
+        "f\u00f6rs\u00e4ljning",
+        "reservdelar",
+        "skidutrustning",
+        "sportmaterial",
+        "\u00e5terf\u00f6rs\u00e4ljare"
+      ],
+      "web": "https://danscykeloskid.com/"
+    },
+    {
       "entry": 1236489959,
       "orgName": "Munsk\u00e4nkarna",
       "orgNumber": "802542-8965",
@@ -112526,6 +112693,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/lysekils-pastorat/bro--brastad"
+    },
+    {
+      "entry": 1236504989,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Agaten",
+      "orgNumber": "714000-1970",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.agaten.se/"
     },
     {
       "entry": 1236505119,
@@ -119594,7 +119771,7 @@
       "comment": null,
       "categories": [
         "f\u00f6rs\u00e4ljning",
-        "sportmarterial"
+        "sportmaterial"
       ],
       "web": "https://www.sportjouren.se/"
     },
