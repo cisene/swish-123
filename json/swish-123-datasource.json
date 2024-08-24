@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-24-rev-134151",
+    "date": "2024-08-25-rev-005607",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6515,6 +6515,17 @@
       "web": "https://lbsf.sksf.se/"
     },
     {
+      "entry": 1230354654,
+      "orgName": "Vaksala Trafikskola AB",
+      "orgNumber": "556884-9789",
+      "comment": null,
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://vaksalatrafikskola.se/"
+    },
+    {
       "entry": 1230362046,
       "orgName": "Millesg\u00e5rdens V\u00e4nner",
       "orgNumber": "813600-4085",
@@ -6972,6 +6983,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-knivsta/foreningar/knivsta.html"
+    },
+    {
+      "entry": 1230376244,
+      "orgName": "Rosenborgs G\u00e5rd AB",
+      "orgNumber": "559464-3974",
+      "comment": "Vinterf\u00f6rvaring",
+      "categories": [
+        "f\u00f6rvaring",
+        "magasinering"
+      ],
+      "web": "https://www.rosenborgsgard.nu/"
     },
     {
       "entry": 1230376376,
@@ -33449,6 +33471,16 @@
       "web": "https://www.bifrostorden.se/"
     },
     {
+      "entry": 1231807791,
+      "orgName": "Brf Kullasund i Vaxholm",
+      "orgNumber": "716420-4096",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "http://www.kullasund.se/"
+    },
+    {
       "entry": 1231807809,
       "orgName": "Tallparkens V\u00e4nner",
       "orgNumber": "802510-2016",
@@ -34794,6 +34826,7 @@
       "orgNumber": "556347-5515",
       "comment": null,
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "http://www.sommarogolf.se/"
@@ -36551,6 +36584,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-hassleholm/foreningar/hastveda.html"
+    },
+    {
+      "entry": 1231986694,
+      "orgName": "Swedish Taco AB",
+      "orgNumber": "559147-9034",
+      "comment": null,
+      "categories": [
+        "restaurant"
+      ],
+      "web": "https://www.swedishtaco.se/"
     },
     {
       "entry": 1231986835,
@@ -38595,6 +38638,18 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232127736,
+      "orgName": "Jennyg\u00e5rden / Svenska Semesterhem AB",
+      "orgNumber": "556645-4129",
+      "comment": null,
+      "categories": [
+        "hotell",
+        "logi",
+        "\u00f6vernattning"
+      ],
+      "web": "https://jennygarden.se/"
     },
     {
       "entry": 1232128007,
@@ -47129,6 +47184,16 @@
       "web": "https://www.slottsmusik.com/"
     },
     {
+      "entry": 1232608727,
+      "orgName": "Vallens bmxhall / Kerstin Hallenheim",
+      "orgNumber": "411030-XXXX",
+      "comment": null,
+      "categories": [
+        "cykelsport"
+      ],
+      "web": "https://vallensbmxhall.se/"
+    },
+    {
       "entry": 1232609972,
       "orgName": "Knivsta Boxningsklubb",
       "orgNumber": "802541-1425",
@@ -49804,6 +49869,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/aker-lanna"
+    },
+    {
+      "entry": 1232730711,
+      "orgName": "Din Trafikskola Partille AB",
+      "orgNumber": "559367-3907",
+      "comment": null,
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://dintrafikskolapartille.se/"
     },
     {
       "entry": 1232736619,
@@ -53093,6 +53169,16 @@
       "web": "https://www.svenskalag.se/kfumkarlshamnsvbk"
     },
     {
+      "entry": 1232915668,
+      "orgName": "Ekn\u00e4s Musikf\u00f6rening",
+      "orgNumber": "802541-3223",
+      "comment": null,
+      "categories": [
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.ekenasmusik.se/"
+    },
+    {
       "entry": 1232916567,
       "orgName": "SPF Seniorerna Draken Kungsholmen",
       "orgNumber": "802403-0564",
@@ -54313,6 +54399,18 @@
         "motorcykelklubb"
       ],
       "web": "https://www.hogsweden.se/hog-goteborgchapter"
+    },
+    {
+      "entry": 1232999795,
+      "orgName": "F\u00f6reningen Big in Kramfors",
+      "orgNumber": "802488-6056",
+      "comment": null,
+      "categories": [
+        "eventarrang\u00f6r",
+        "kulturf\u00f6rening",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/biginkramfors"
     },
     {
       "entry": 1232999951,
@@ -58201,7 +58299,7 @@
     },
     {
       "entry": 1233229945,
-      "orgName": "M\u00f6rrums Folkets Hus",
+      "orgName": "M\u00f6rrums Folkets Hus och Park",
       "orgNumber": "736200-1617",
       "comment": null,
       "categories": [
@@ -60421,6 +60519,16 @@
       "web": "https://www.limaskg.se/"
     },
     {
+      "entry": 1233372893,
+      "orgName": "Svenska Squashf\u00f6rbundet",
+      "orgNumber": "802005-0772",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rbund"
+      ],
+      "web": "https://www.squash.se/"
+    },
+    {
       "entry": 1233372992,
       "orgName": "G\u00f6teborgs Kungliga Segel S\u00e4llskap, GKSS",
       "orgNumber": "857200-5513",
@@ -61428,6 +61536,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "http://linkoping.aktivaseniorer.com/"
+    },
+    {
+      "entry": 1233423118,
+      "orgName": "Brf Styrfarten",
+      "orgNumber": "769635-7628",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.brfstyrfarten.se/"
     },
     {
       "entry": 1233424470,
@@ -70389,6 +70507,16 @@
       "web": "https://helamanniskan.se/sala-heby/"
     },
     {
+      "entry": 1233939337,
+      "orgName": "Farstadals Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717912-8199",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.villanfarstadal.se/"
+    },
+    {
       "entry": 1233940087,
       "orgName": "Hamnkaf\u00e9et Klintehamn / Sm\u00f6rg\u00e5s Kungen AB",
       "orgNumber": "556967-4202",
@@ -72632,6 +72760,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/Fjugesta_IF/"
+    },
+    {
+      "entry": 1234082434,
+      "orgName": "Golf Uppsala AB",
+      "orgNumber": "556517-4231",
+      "comment": "Edenhof Golf - Restaurang Edenhof",
+      "categories": [
+        "golfklubb",
+        "restaurant"
+      ],
+      "web": "https://www.golfuppsala.se/"
     },
     {
       "entry": 1234086526,
@@ -74897,7 +75036,7 @@
     },
     {
       "entry": 1234213443,
-      "orgName": "Solskensfarmarna ekonomisk f\u00f6rening",
+      "orgName": "Solskensfarmarna",
       "orgNumber": "769632-5096",
       "comment": null,
       "categories": [
@@ -75117,6 +75256,17 @@
         "vandrarf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/hhvf"
+    },
+    {
+      "entry": 1234226460,
+      "orgName": "G\u00fbnnerskem\u00e2rten / Martens-Alliansen Gunnarskog",
+      "orgNumber": "872000-8161",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "marknadsf\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://gunnerskemarten.se/"
     },
     {
       "entry": 1234226551,
@@ -77297,6 +77447,18 @@
       "web": "https://nkbh.se/"
     },
     {
+      "entry": 1234382990,
+      "orgName": "Hundens Hus Sk\u00e5ne",
+      "orgNumber": "651219-2847",
+      "comment": null,
+      "categories": [
+        "hundkurser",
+        "hundskola",
+        "kurser"
+      ],
+      "web": "http://skane.hundenshus.se/"
+    },
+    {
       "entry": 1234383212,
       "orgName": "Simklubben 1970, SK70",
       "orgNumber": "864501-0557",
@@ -78983,7 +79145,7 @@
     },
     {
       "entry": 1234491551,
-      "orgName": "Flatviksg\u00e5rdens f\u00f6rening",
+      "orgName": "Flatviksg\u00e5rdens F\u00f6rening",
       "orgNumber": "873201-2920",
       "comment": null,
       "categories": [
@@ -80174,6 +80336,18 @@
         "stiftelse"
       ],
       "web": "https://childx.se/"
+    },
+    {
+      "entry": 1234559274,
+      "orgName": "Torslanda Filmstudio",
+      "orgNumber": "802527-4559",
+      "comment": null,
+      "categories": [
+        "filmproduktion",
+        "filmstudio",
+        "mediaproduktion"
+      ],
+      "web": "https://torslanda.filmstudio.se/"
     },
     {
       "entry": 1234559597,
@@ -85111,6 +85285,18 @@
       "web": "https://skargardshotellethono.se/"
     },
     {
+      "entry": 1234896874,
+      "orgName": "Dagen Gry AB",
+      "orgNumber": "559177-1927",
+      "comment": null,
+      "categories": [
+        "behandling",
+        "ergonomi",
+        "massage"
+      ],
+      "web": "https://dagengry.com/"
+    },
+    {
       "entry": 1234897526,
       "orgName": "Den Gode Herdens F\u00f6rsamling",
       "orgNumber": "802524-3604",
@@ -88048,6 +88234,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.guif.nu/"
+    },
+    {
+      "entry": 1235090303,
+      "orgName": "Trollb\u00e4ckens Trafikskola / VICCEC AB",
+      "orgNumber": "559274-3982",
+      "comment": null,
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://www.trollbackenstrafikskola.se/"
     },
     {
       "entry": 1235090527,
@@ -94408,6 +94605,17 @@
       "web": "https://www.svenskakyrkan.se/ljungby/ljungby-maria-forsamling"
     },
     {
+      "entry": 1235407440,
+      "orgName": "Varbergs Massage och Behandling / Nils Tennberg",
+      "orgNumber": "670222-XXXX",
+      "comment": null,
+      "categories": [
+        "behandling",
+        "massage"
+      ],
+      "web": "https://varbergsmassage.se/"
+    },
+    {
       "entry": 1235407457,
       "orgName": "Vr\u00e5 F\u00f6rsamling",
       "orgNumber": "252000-6970",
@@ -98338,6 +98546,18 @@
       "web": "http://www.barigard.se/"
     },
     {
+      "entry": 1235618772,
+      "orgName": "F\u00f6reningen H\u00e4lsobro",
+      "orgNumber": "802440-8190",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "kurser",
+        "meditation"
+      ],
+      "web": "https://www.halsobro.se/"
+    },
+    {
       "entry": 1235619002,
       "orgName": "Team Rynkeby",
       "orgNumber": "802537-0241",
@@ -101233,6 +101453,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/DalbyGIF/"
+    },
+    {
+      "entry": 1235776760,
+      "orgName": "Orlandohus.se / Hybris Holding AB",
+      "orgNumber": "556888-9439",
+      "comment": null,
+      "categories": [
+        "stuguthyrning"
+      ],
+      "web": "https://orlandohus.se/"
     },
     {
       "entry": 1235780515,
@@ -105995,7 +106225,7 @@
     },
     {
       "entry": 1236083448,
-      "orgName": "Svart\u00e5dalens Bygdeutveckling Ekonomisk F\u00f6rening",
+      "orgName": "Svart\u00e5dalens Bygdeutveckling",
       "orgNumber": "769608-1897",
       "comment": null,
       "categories": [
@@ -106499,6 +106729,17 @@
         "orienteringsklubb"
       ],
       "web": "https://www.svenskalag.se/kalmarok"
+    },
+    {
+      "entry": 1236100812,
+      "orgName": "Yogami / Marie Karlsson",
+      "orgNumber": "720704-XXXX",
+      "comment": null,
+      "categories": [
+        "meditation",
+        "yoga"
+      ],
+      "web": "https://yogami.se/"
     },
     {
       "entry": 1236107296,
@@ -107158,6 +107399,17 @@
         "skytteklubb"
       ],
       "web": "https://www.bjsk.se/"
+    },
+    {
+      "entry": 1236146682,
+      "orgName": "\u00c5sa L\u00f6fstr\u00f6ms terapi, handledning och konsultation AB",
+      "orgNumber": "559122-7961",
+      "comment": null,
+      "categories": [
+        "samtalsterapi",
+        "terapisamtal"
+      ],
+      "web": "https://www.asalofstromsterapi.com/"
     },
     {
       "entry": 1236146765,
@@ -110237,6 +110489,19 @@
       "web": "http://varmlandmotkarnkraft.se/"
     },
     {
+      "entry": 1236308001,
+      "orgName": "S Pigga Motion\u00e4rer IF",
+      "orgNumber": "802542-9682",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "bouleklubb",
+        "idrottsf\u00f6rening",
+        "padelklubb"
+      ],
+      "web": "https://www.facebook.com/s.pigga.motionarer.if"
+    },
+    {
       "entry": 1236310494,
       "orgName": "Sj\u00e4laGott / Kajsa Sj\u00f6gren",
       "orgNumber": "760309-XXXX",
@@ -111109,6 +111374,17 @@
         "transport"
       ],
       "web": "https://ostervarnsexpress.se/"
+    },
+    {
+      "entry": 1236359962,
+      "orgName": "Nybergs Buss AB",
+      "orgNumber": "556379-0269",
+      "comment": null,
+      "categories": [
+        "busstrafik",
+        "charterbuss"
+      ],
+      "web": "https://www.nybergsbuss.se/"
     },
     {
       "entry": 1236360408,
@@ -121661,6 +121937,16 @@
         "kennel"
       ],
       "web": "https://rossmix.se/"
+    },
+    {
+      "entry": 1236992390,
+      "orgName": "Klacksparken",
+      "orgNumber": "802461-6917",
+      "comment": null,
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.facebook.com/groups/158157900915191"
     },
     {
       "entry": 1236992408,
