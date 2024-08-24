@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-25-rev-005607",
+    "date": "2024-08-25-rev-015615",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -12555,6 +12555,17 @@
       "web": "https://www.laget.se/TibroCK/"
     },
     {
+      "entry": 1230707257,
+      "orgName": "V\u00e4stmanlands Pistolskyttekrets",
+      "orgNumber": "878000-4639",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.vasteraspistolskyttar.se/"
+    },
+    {
       "entry": 1230711176,
       "orgName": "F\u00f6reningen 021 Grappling",
       "orgNumber": "802521-2062",
@@ -19524,6 +19535,17 @@
       "web": "https://happypicnic.se/"
     },
     {
+      "entry": 1231049162,
+      "orgName": "Tierp-Tolfta Skyttef\u00f6rening",
+      "orgNumber": "817300-5946",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.laget.se/Tierp-TolftaSkytteforening/"
+    },
+    {
       "entry": 1231049634,
       "orgName": "Hj\u00e4rt-och Lungsjukas Lok F\u00f6r \u00d6rebro",
       "orgNumber": "875001-8437",
@@ -25974,6 +25996,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.svenskalag.se/fagerstapensionarsbowling"
+    },
+    {
+      "entry": 1231393412,
+      "orgName": "Stockholms Skyttesportf\u00f6rbund",
+      "orgNumber": "802008-8111",
+      "comment": null,
+      "categories": [
+        "sportskytteklubb"
+      ],
+      "web": "https://www.skyttesport.se/stockholms-skyttesportfoerbund/"
     },
     {
       "entry": 1231393701,
@@ -48301,6 +48333,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1232668143,
+      "orgName": "Enk\u00f6pings SK HK",
+      "orgNumber": "817001-4180",
+      "comment": "J20",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/ESKHockey/"
+    },
+    {
       "entry": 1232668309,
       "orgName": "Veterantraktorklubben Norrtelje",
       "orgNumber": "802414-2203",
@@ -51549,6 +51592,17 @@
         "religion"
       ],
       "web": "https://www.pingstkyrkan-vannas.com/"
+    },
+    {
+      "entry": 1232816999,
+      "orgName": "Enk\u00f6pings SK HK",
+      "orgNumber": "817001-4180",
+      "comment": "50/50",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/ESKHockey/"
     },
     {
       "entry": 1232817005,
@@ -67160,11 +67214,11 @@
     },
     {
       "entry": 1233736527,
-      "orgName": "JRF Forsh\u00e4lla, J\u00e4garnas Riksf\u00f6rbund",
+      "orgName": "JRF Forsh\u00e4lla",
       "orgNumber": "802491-7877",
       "comment": null,
       "categories": [
-        "jakt",
+        "jaktskytteklubb",
         "riksf\u00f6rbund"
       ],
       "web": "https://www.jrfforshalla.se/"
@@ -84831,6 +84885,17 @@
         "ishockeyklubb"
       ],
       "web": "https://www.svenskalag.se/storforsaik"
+    },
+    {
+      "entry": 1234838256,
+      "orgName": "R\u00f6d\u00f6ns Jaktskytteklubb",
+      "orgNumber": "893203-4294",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.laget.se/RodonsJaktskytteklubb/"
     },
     {
       "entry": 1234838512,
@@ -121812,6 +121877,18 @@
         "h\u00e4stuppf\u00f6dning"
       ],
       "web": "https://www.ardennerklubben.se/"
+    },
+    {
+      "entry": 1236987424,
+      "orgName": "Dala-Floda IF",
+      "orgNumber": "882600-3439",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.laget.se/Dala-FlodaIF/"
     },
     {
       "entry": 1236988505,

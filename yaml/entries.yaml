@@ -5300,6 +5300,13 @@ entries:
   - wakepark
   web: https://bcpwake.se/
 
+- entry: 1230346122
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230346262
   orgName: Västra Karups IF
   orgNumber: 839400-2318
@@ -10329,6 +10336,15 @@ entries:
   - cykelklubb
   - idrottsförening
   web: https://www.laget.se/TibroCK/
+
+- entry: 1230707257
+  orgName: Västmanlands Pistolskyttekrets
+  orgNumber: 878000-4639
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  web: https://www.vasteraspistolskyttar.se/
 
 - entry: 1230711176
   orgName: Föreningen 021 Grappling
@@ -16073,6 +16089,15 @@ entries:
   - catering
   web: https://happypicnic.se/
 
+- entry: 1231049162
+  orgName: Tierp-Tolfta Skytteförening
+  orgNumber: 817300-5946
+  comment: null
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.laget.se/Tierp-TolftaSkytteforening/
+
 - entry: 1231049634
   orgName: Hjärt-och Lungsjukas Lok För Örebro
   orgNumber: 875001-8437
@@ -21412,6 +21437,14 @@ entries:
   - idrottsförening
   - pensionärsklubb
   web: https://www.svenskalag.se/fagerstapensionarsbowling
+
+- entry: 1231393412
+  orgName: Stockholms Skyttesportförbund
+  orgNumber: 802008-8111
+  comment: null
+  categories:
+  - sportskytteklubb
+  web: https://www.skyttesport.se/stockholms-skyttesportfoerbund/
 
 - entry: 1231393701
   orgName: OperationAid
@@ -39828,6 +39861,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1232668143
+  orgName: Enköpings SK HK
+  orgNumber: 817001-4180
+  comment: J20
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/ESKHockey/
+
 - entry: 1232668309
   orgName: Veterantraktorklubben Norrtelje
   orgNumber: 802414-2203
@@ -42511,6 +42553,15 @@ entries:
   categories:
   - religion
   web: https://www.pingstkyrkan-vannas.com/
+
+- entry: 1232816999
+  orgName: Enköpings SK HK
+  orgNumber: 817001-4180
+  comment: 50/50
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/ESKHockey/
 
 - entry: 1232817005
   orgName: Lidingö Församling
@@ -55362,11 +55413,11 @@ entries:
   web: https://www.manensscout.se/
 
 - entry: 1233736527
-  orgName: JRF Forshälla, Jägarnas Riksförbund
+  orgName: JRF Forshälla
   orgNumber: 802491-7877
   comment: null
   categories:
-  - jakt
+  - jaktskytteklubb
   - riksförbund
   web: https://www.jrfforshalla.se/
 
@@ -69901,6 +69952,15 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.svenskalag.se/storforsaik
+
+- entry: 1234838256
+  orgName: Rödöns Jaktskytteklubb
+  orgNumber: 893203-4294
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  web: https://www.laget.se/RodonsJaktskytteklubb/
 
 - entry: 1234838512
   orgName: Föreningen Zendokai Karate
@@ -100484,6 +100544,16 @@ entries:
   - hästklubb
   - hästuppfödning
   web: https://www.ardennerklubben.se/
+
+- entry: 1236987424
+  orgName: Dala-Floda IF
+  orgNumber: 882600-3439
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/Dala-FlodaIF/
 
 - entry: 1236988505
   orgName: Örnsköldsviks Södra Pastorat
