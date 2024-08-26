@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-26-rev-140207",
+    "date": "2024-08-26-rev-193245",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7498,6 +7498,17 @@
         "hunduppf\u00f6dning"
       ],
       "web": "https://sphk.se/malamute/"
+    },
+    {
+      "entry": 1230405985,
+      "orgName": "Str\u00f6msunds Brukshundklubb, SBHK",
+      "orgNumber": "802413-6940",
+      "comment": null,
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://stromsundsbhk.wixsite.com/sbhk"
     },
     {
       "entry": 1230407734,
@@ -26707,7 +26718,9 @@
       "orgNumber": "833600-5478",
       "comment": null,
       "categories": [
-        "djurskydd"
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
       ],
       "web": "https://www.djurskyddetvastervik.se/"
     },
@@ -44845,6 +44858,18 @@
       "web": "https://bjursasridklubb.se/"
     },
     {
+      "entry": 1232403913,
+      "orgName": "Djurskyddet Kalmar",
+      "orgNumber": "832400-0903",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/kalmardjurhem/"
+    },
+    {
       "entry": 1232404119,
       "orgName": "\u00d6rbyhus Idrottsf\u00f6rening",
       "orgNumber": "817300-2216",
@@ -50576,6 +50601,17 @@
       "web": null
     },
     {
+      "entry": 1232753994,
+      "orgName": "Norra Roslagens F\u00e5rklubb",
+      "orgNumber": "802471-5305",
+      "comment": null,
+      "categories": [
+        "djuruppf\u00f6dning",
+        "djurv\u00e5rd"
+      ],
+      "web": "https://www.facebook.com/groups/124214417753095"
+    },
+    {
       "entry": 1232757284,
       "orgName": "Biathlon \u00d6stersund IF - Skidskytte",
       "orgNumber": "893203-4799",
@@ -51876,6 +51912,18 @@
         "konst\u00e5kningsklubb"
       ],
       "web": "https://www.svenskalag.se/kirunakonstakningsforening"
+    },
+    {
+      "entry": 1232813319,
+      "orgName": "Djurskyddet Karlshamn",
+      "orgNumber": "836201-1861",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/karlshamn/"
     },
     {
       "entry": 1232813665,
@@ -65047,6 +65095,16 @@
       "web": "https://www.svenskakyrkan.se/taby"
     },
     {
+      "entry": 1233563574,
+      "orgName": "Salsakurs.se, Firma Rocio / Guillermo Gutierrez Rel\u00e9",
+      "orgNumber": "670718-XXXX",
+      "comment": null,
+      "categories": [
+        "dansundervisning"
+      ],
+      "web": "http://www.salsakurs.se/"
+    },
+    {
       "entry": 1233566289,
       "orgName": "Drottningstadens Scoutk\u00e5r",
       "orgNumber": "845000-6906",
@@ -71328,6 +71386,18 @@
       "web": "https://www.ryssbyif.com/"
     },
     {
+      "entry": 1233944048,
+      "orgName": "Djurskyddet Norra Halland",
+      "orgNumber": "849400-8280",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddetnorrahalland.se/"
+    },
+    {
       "entry": 1233944121,
       "orgName": "Liljans SK",
       "orgNumber": "883200-8877",
@@ -73401,6 +73471,18 @@
         "restaurant"
       ],
       "web": "https://www.golfuppsala.se/"
+    },
+    {
+      "entry": 1234085163,
+      "orgName": "Djurskyddet Kattfotens Katthem Halmstad",
+      "orgNumber": "802418-6713",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/kattfotenhalmstad/"
     },
     {
       "entry": 1234086526,
@@ -78925,6 +79007,18 @@
         "lokaltidning"
       ],
       "web": "http://flamman.se/"
+    },
+    {
+      "entry": 1234417655,
+      "orgName": "Djurskyddet J\u00e4mtlands L\u00e4n",
+      "orgNumber": "802470-2840",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/jamtland/"
     },
     {
       "entry": 1234417838,
@@ -106263,6 +106357,18 @@
       "web": "http://www.kristianstadsbk.se/"
     },
     {
+      "entry": 1236021885,
+      "orgName": "Djurskyddet \u00d6rnsk\u00f6ldsvik",
+      "orgNumber": "889600-8797",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://djurskyddetornskoldsvik.com/"
+    },
+    {
       "entry": 1236021935,
       "orgName": "Svenska HPN-f\u00f6reningen",
       "orgNumber": "889601-1569",
@@ -109647,6 +109753,19 @@
       "web": "https://milanipro.org/"
     },
     {
+      "entry": 1236202741,
+      "orgName": "Step by Step-Dansskola / Hanna Alneberg",
+      "orgNumber": "930127-XXXX",
+      "comment": null,
+      "categories": [
+        "dansskola",
+        "dansstudio",
+        "kurser",
+        "utbildning"
+      ],
+      "web": "https://www.stepbystepdansskola.com/"
+    },
+    {
       "entry": 1236203640,
       "orgName": "Hembygdsf\u00f6reningen Skarke-Varnhem",
       "orgNumber": "868400-9874",
@@ -112060,6 +112179,18 @@
         "ridklubb"
       ],
       "web": "http://www.hultsfredsbygdensridklubb.se/"
+    },
+    {
+      "entry": 1236348411,
+      "orgName": "Djurskyddet Dalarna",
+      "orgNumber": "883200-0577",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/dalarna/"
     },
     {
       "entry": 1236348817,
@@ -116008,6 +116139,18 @@
       "web": "https://www.laget.se/OjebynsIBF/"
     },
     {
+      "entry": 1236604375,
+      "orgName": "Djurskyddet Bolln\u00e4s-Ovan\u00e5ker",
+      "orgNumber": "886501-3042",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/bollnasovanaker/"
+    },
+    {
       "entry": 1236606818,
       "orgName": "FC City Trelleborg",
       "orgNumber": "802522-0883",
@@ -119356,6 +119499,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/karlskronabasketklubb"
+    },
+    {
+      "entry": 1236780928,
+      "orgName": "Enmanuel Medicinsk Fotv\u00e5rd / Martha Tavarez",
+      "orgNumber": "780729-XXXX",
+      "comment": null,
+      "categories": [
+        "fotv\u00e5rd",
+        "medicinsk fotv\u00e5rd"
+      ],
+      "web": "https://enmanuel-fotvard.se/"
     },
     {
       "entry": 1236782775,
