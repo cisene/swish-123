@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-26-rev-193245",
+    "date": "2024-08-27-rev-205857",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4508,6 +4508,18 @@
       "web": "https://www.laget.se/NykvarnsIF/"
     },
     {
+      "entry": 1230246355,
+      "orgName": "Djurskyddet Sigfrid V\u00e4xj\u00f6",
+      "orgNumber": "802505-9091",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/sigfrid/"
+    },
+    {
       "entry": 1230246967,
       "orgName": "Fr\u00e4lsningsarm\u00e9n Officersskolan",
       "orgNumber": "802006-1688",
@@ -6649,7 +6661,9 @@
       "comment": null,
       "categories": [
         "hotell",
-        "logi"
+        "logi",
+        "stuguthyrning",
+        "\u00f6vernattning"
       ],
       "web": "https://mariaslogi.se/"
     },
@@ -8895,6 +8909,18 @@
       "web": "https://www.granopingst.se/"
     },
     {
+      "entry": 1230474437,
+      "orgName": "Djurskyddet Skellefte\u00e5",
+      "orgNumber": "802453-1793",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/skelleftea/"
+    },
+    {
       "entry": 1230474569,
       "orgName": "\u00d6stersunds Brukshundklubb",
       "orgNumber": "893202-2950",
@@ -9653,6 +9679,18 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-kronoberg/samorganisationer/samorganisation-uppvidinge/foreningar/lenhovda.html"
+    },
+    {
+      "entry": 1230512681,
+      "orgName": "Djurskyddet Flyingebygden",
+      "orgNumber": "802539-0355",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/flyingebygden/"
     },
     {
       "entry": 1230513317,
@@ -11199,6 +11237,18 @@
         "f\u00f6rening"
       ],
       "web": "http://monsteras-fotoklubb.se/"
+    },
+    {
+      "entry": 1230621086,
+      "orgName": "Djurskyddet",
+      "orgNumber": "802000-6832",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/"
     },
     {
       "entry": 1230621441,
@@ -25839,6 +25889,18 @@
       "web": "https://www.svenskalag.se/kirunahockeyskola"
     },
     {
+      "entry": 1231374487,
+      "orgName": "Djurskyddet \u00c5dalen",
+      "orgNumber": "888800-6858",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/adalen/"
+    },
+    {
       "entry": 1231374503,
       "orgName": "Floda BoIF",
       "orgNumber": "863500-1509",
@@ -36559,11 +36621,12 @@
     },
     {
       "entry": 1231975887,
-      "orgName": "Lejonkulan PC Link\u00f6ping - Boule",
+      "orgName": "Lejonkulan Petanque Club",
       "orgNumber": "822003-2158",
       "comment": null,
       "categories": [
-        "bouleklubb"
+        "bouleklubb",
+        "idrottsf\u00f6rening"
       ],
       "web": "https://www.lejonkulan-pc.se/"
     },
@@ -39195,7 +39258,9 @@
       "orgNumber": "702000-8186",
       "comment": null,
       "categories": [
-        "folkh\u00f6gskola"
+        "folkh\u00f6gskola",
+        "logi",
+        "stuguthyrning"
       ],
       "web": "https://lillsved.se/"
     },
@@ -44171,6 +44236,18 @@
       "web": "https://harnosandscykelklubb.klubbenonline.se/"
     },
     {
+      "entry": 1232372639,
+      "orgName": "Djurskyddet Norra V\u00e4rmland",
+      "orgNumber": "874001-0916",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/norravarmland/"
+    },
+    {
       "entry": 1232372738,
       "orgName": "V\u00e4ster\u00e5s SK Fotbollsklubb, VSK",
       "orgNumber": "878001-4653",
@@ -48003,6 +48080,7 @@
       "comment": null,
       "categories": [
         "djurskydd",
+        "djurv\u00e5rd",
         "katthem"
       ],
       "web": "https://www.djurskyddet.se/asele/"
@@ -58074,6 +58152,18 @@
         "politiskt parti"
       ],
       "web": "https://www.vardforpengarna.se/"
+    },
+    {
+      "entry": 1233196334,
+      "orgName": "Djurskyddet Kattv\u00e4rnet",
+      "orgNumber": "802411-0390",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.kattvarnet.nu/"
     },
     {
       "entry": 1233196441,
@@ -68614,7 +68704,9 @@
       "orgNumber": "825003-1567",
       "comment": null,
       "categories": [
-        "djurskydd"
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
       ],
       "web": "https://www.fiahemmet.se/"
     },
@@ -70188,6 +70280,17 @@
         "yoga"
       ],
       "web": "https://yogajoy.nu/"
+    },
+    {
+      "entry": 1233884070,
+      "orgName": "IK Friscopojkarna",
+      "orgNumber": "864000-1064",
+      "comment": "Typo?",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ikfrisco.se/"
     },
     {
       "entry": 1233884285,
@@ -74844,7 +74947,9 @@
       "orgNumber": "873200-3432",
       "comment": null,
       "categories": [
-        "djurskydd"
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
       ],
       "web": "https://www.djurskyddet.se/karlstad/"
     },
@@ -77688,6 +77793,18 @@
         "turism"
       ],
       "web": "https://www.stiftelsenbohusfastning.se/"
+    },
+    {
+      "entry": 1234331609,
+      "orgName": "Djurskyddet Skaraborg",
+      "orgNumber": "802422-6493",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddetskaraborg.se/"
     },
     {
       "entry": 1234334173,
@@ -85499,6 +85616,20 @@
       "web": "https://www.laget.se/SPFGillhogBowling/"
     },
     {
+      "entry": 1234821708,
+      "orgName": "Hellidens Slott",
+      "orgNumber": "867200-4283",
+      "comment": null,
+      "categories": [
+        "folkh\u00f6gskola",
+        "konferens",
+        "logi",
+        "restaurant",
+        "\u00f6vernattning"
+      ],
+      "web": "https://hellidensslott.se/"
+    },
+    {
       "entry": 1234826699,
       "orgName": "Bindu Yoga Helsingborg / Hot Yoga Bindu Helsingborg AB",
       "orgNumber": "559480-3347",
@@ -85991,6 +86122,18 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/nasetsbudoklubb"
+    },
+    {
+      "entry": 1234873659,
+      "orgName": "Djurskyddet Stockholm Norrort",
+      "orgNumber": "802537-2643",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/stockholmnorrort/"
     },
     {
       "entry": 1234876900,
@@ -93908,6 +94051,21 @@
       "web": "https://www.facebook.com/profile.php?id=100080096693624"
     },
     {
+      "entry": 1235324397,
+      "orgName": "KG SleepOver / Industriunderh\u00e5ll Kungs\u00e4ter AB",
+      "orgNumber": "556214-7776",
+      "comment": null,
+      "categories": [
+        "bed and breakfast",
+        "bed and kitchen",
+        "logi",
+        "st\u00e4llplats",
+        "vandrarhem",
+        "\u00f6vernattning"
+      ],
+      "web": "https://kgsleepover.se/"
+    },
+    {
       "entry": 1235325345,
       "orgName": "Team Rynkeby",
       "orgNumber": "802533-7869",
@@ -97916,6 +98074,18 @@
       "web": "https://www.laget.se/TavelsjoAIK/"
     },
     {
+      "entry": 1235534904,
+      "orgName": "Djurskyddet Kristinehamn",
+      "orgNumber": "873600-4410",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/kristinehamn/"
+    },
+    {
       "entry": 1235535000,
       "orgName": "Plaza Kvinna / Investmentbolaget LGAB Sverige AB",
       "orgNumber": "556227-9942",
@@ -100086,6 +100256,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.jonkopingssodra.se/"
+    },
+    {
+      "entry": 1235652243,
+      "orgName": "Djurskyddet Vilsna Tassar H\u00e4llefors",
+      "orgNumber": "802518-9195",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/vilsnatassar/"
     },
     {
       "entry": 1235652326,
@@ -113556,6 +113738,18 @@
       "web": "https://\u00e5m\u00e5lsbrukshundklubb.se/"
     },
     {
+      "entry": 1236444558,
+      "orgName": "Djurskyddet Sundsvall",
+      "orgNumber": "889201-9988",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddetsundsvall.com/"
+    },
+    {
       "entry": 1236444699,
       "orgName": "BK Bussenhus",
       "orgNumber": "802514-7292",
@@ -116594,6 +116788,18 @@
       "web": "https://www.borrby.se/"
     },
     {
+      "entry": 1236640064,
+      "orgName": "Djurskyddet V\u00e4sterbotten",
+      "orgNumber": "894000-8223",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "http://www.djurskyddetvasterbotten.se/"
+    },
+    {
       "entry": 1236640643,
       "orgName": "T\u00e4by F\u00f6rsamling",
       "orgNumber": "252000-0460",
@@ -117725,6 +117931,19 @@
         "religion"
       ],
       "web": "https://www.efshorbykrets.se/"
+    },
+    {
+      "entry": 1236689699,
+      "orgName": "\u00c5husG\u00e5rden EFS",
+      "orgNumber": "838202-3706",
+      "comment": null,
+      "categories": [
+        "logi",
+        "religion",
+        "vandrarhem",
+        "\u00f6vernattning"
+      ],
+      "web": "https://www.ahusgarden.se/"
     },
     {
       "entry": 1236689962,
@@ -121127,6 +121346,18 @@
         "yoga"
       ],
       "web": "https://www.yogajenny.se/"
+    },
+    {
+      "entry": 1236880140,
+      "orgName": "Djurskyddet S\u00e4ffle-\u00c5m\u00e5l",
+      "orgNumber": "802449-1980",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://www.djurskyddet.se/saffleamal/"
     },
     {
       "entry": 1236880413,

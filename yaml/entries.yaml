@@ -3705,6 +3705,16 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/NykvarnsIF/
 
+- entry: 1230246355
+  orgName: Djurskyddet Sigfrid Växjö
+  orgNumber: 802505-9091
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddet.se/sigfrid/
+
 - entry: 1230246967
   orgName: Frälsningsarmén Officersskolan
   orgNumber: 802006-1688
@@ -5484,6 +5494,8 @@ entries:
   categories:
   - hotell
   - logi
+  - stuguthyrning
+  - övernattning
   web: https://mariaslogi.se/
 
 - entry: 1230365700
@@ -7343,6 +7355,16 @@ entries:
   - religion
   web: https://www.granopingst.se/
 
+- entry: 1230474437
+  orgName: Djurskyddet Skellefteå
+  orgNumber: 802453-1793
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddet.se/skelleftea/
+
 - entry: 1230474569
   orgName: Östersunds Brukshundklubb
   orgNumber: 893202-2950
@@ -7968,6 +7990,16 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-kronoberg/samorganisationer/samorganisation-uppvidinge/foreningar/lenhovda.html
+
+- entry: 1230512681
+  orgName: Djurskyddet Flyingebygden
+  orgNumber: 802539-0355
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddet.se/flyingebygden/
 
 - entry: 1230513317
   orgName: Ung Företagsamhet i Älvsborg
@@ -9228,6 +9260,16 @@ entries:
   - fotoklubb
   - förening
   web: http://monsteras-fotoklubb.se/
+
+- entry: 1230621086
+  orgName: Djurskyddet
+  orgNumber: 802000-6832
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddet.se/
 
 - entry: 1230621441
   orgName: Skillingeudds Intresseförening / Västra Skilling Fritidshusförening
@@ -21304,6 +21346,16 @@ entries:
   - ishockeyklubb
   web: https://www.svenskalag.se/kirunahockeyskola
 
+- entry: 1231374487
+  orgName: Djurskyddet Ådalen
+  orgNumber: 888800-6858
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddet.se/adalen/
+
 - entry: 1231374503
   orgName: Floda BoIF
   orgNumber: 863500-1509
@@ -30124,11 +30176,12 @@ entries:
   web: https://www.lugiwaterpolo.com/
 
 - entry: 1231975887
-  orgName: Lejonkulan PC Linköping - Boule
+  orgName: Lejonkulan Petanque Club
   orgNumber: 822003-2158
   comment: null
   categories:
   - bouleklubb
+  - idrottsförening
   web: https://www.lejonkulan-pc.se/
 
 - entry: 1231975911
@@ -32290,6 +32343,8 @@ entries:
   comment: null
   categories:
   - folkhögskola
+  - logi
+  - stuguthyrning
   web: https://lillsved.se/
 
 - entry: 1232138741
@@ -36410,6 +36465,16 @@ entries:
   - idrottsförening
   web: https://harnosandscykelklubb.klubbenonline.se/
 
+- entry: 1232372639
+  orgName: Djurskyddet Norra Värmland
+  orgNumber: 874001-0916
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddet.se/norravarmland/
+
 - entry: 1232372738
   orgName: Västerås SK Fotbollsklubb, VSK
   orgNumber: 878001-4653
@@ -39597,6 +39662,7 @@ entries:
   comment: null
   categories:
   - djurskydd
+  - djurvård
   - katthem
   web: https://www.djurskyddet.se/asele/
 
@@ -47919,6 +47985,16 @@ entries:
   categories:
   - politiskt parti
   web: https://www.vardforpengarna.se/
+
+- entry: 1233196334
+  orgName: Djurskyddet Kattvärnet
+  orgNumber: 802411-0390
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.kattvarnet.nu/
 
 - entry: 1233196441
   orgName: Missionskyrkan Hässleholm
@@ -56579,6 +56655,8 @@ entries:
   comment: null
   categories:
   - djurskydd
+  - djurvård
+  - katthem
   web: https://www.fiahemmet.se/
 
 - entry: 1233796042
@@ -57861,6 +57939,15 @@ entries:
   - healing
   - yoga
   web: https://yogajoy.nu/
+
+- entry: 1233884070
+  orgName: IK Friscopojkarna
+  orgNumber: 864000-1064
+  comment: Typo?
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.ikfrisco.se/
 
 - entry: 1233884285
   orgName: Piteå IF Orienteringsklubb - Orientering
@@ -61715,6 +61802,8 @@ entries:
   comment: null
   categories:
   - djurskydd
+  - djurvård
+  - katthem
   web: https://www.djurskyddet.se/karlstad/
 
 - entry: 1234171799
@@ -64062,6 +64151,16 @@ entries:
   - stiftelse
   - turism
   web: https://www.stiftelsenbohusfastning.se/
+
+- entry: 1234331609
+  orgName: Djurskyddet Skaraborg
+  orgNumber: 802422-6493
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddetskaraborg.se/
 
 - entry: 1234334173
   orgName: Stoopendaal & Sundfelt Podcast / Andres Stoopendahl
@@ -70471,6 +70570,18 @@ entries:
   - pensionärsklubb
   web: https://www.laget.se/SPFGillhogBowling/
 
+- entry: 1234821708
+  orgName: Hellidens Slott
+  orgNumber: 867200-4283
+  comment: null
+  categories:
+  - folkhögskola
+  - konferens
+  - logi
+  - restaurant
+  - övernattning
+  web: https://hellidensslott.se/
+
 - entry: 1234826699
   orgName: Bindu Yoga Helsingborg / Hot Yoga Bindu Helsingborg AB
   orgNumber: 559480-3347
@@ -70874,6 +70985,16 @@ entries:
   - idrottsförening
   - kampsportsförening
   web: https://www.svenskalag.se/nasetsbudoklubb
+
+- entry: 1234873659
+  orgName: Djurskyddet Stockholm Norrort
+  orgNumber: 802537-2643
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddet.se/stockholmnorrort/
 
 - entry: 1234876900
   orgName: Team Rynkeby
@@ -77408,6 +77529,19 @@ entries:
   - djurskydd
   web: https://www.facebook.com/profile.php?id=100080096693624
 
+- entry: 1235324397
+  orgName: KG SleepOver / Industriunderhåll Kungsäter AB
+  orgNumber: 556214-7776
+  comment: null
+  categories:
+  - bed and breakfast
+  - bed and kitchen
+  - logi
+  - ställplats
+  - vandrarhem
+  - övernattning
+  web: https://kgsleepover.se/
+
 - entry: 1235325345
   orgName: Team Rynkeby
   orgNumber: 802533-7869
@@ -80719,6 +80853,16 @@ entries:
   - intresseförening
   web: https://www.laget.se/TavelsjoAIK/
 
+- entry: 1235534904
+  orgName: Djurskyddet Kristinehamn
+  orgNumber: 873600-4410
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddet.se/kristinehamn/
+
 - entry: 1235535000
   orgName: Plaza Kvinna / Investmentbolaget LGAB Sverige AB
   orgNumber: 556227-9942
@@ -82499,6 +82643,16 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.jonkopingssodra.se/
+
+- entry: 1235652243
+  orgName: Djurskyddet Vilsna Tassar Hällefors
+  orgNumber: 802518-9195
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddet.se/vilsnatassar/
 
 - entry: 1235652326
   orgName: Lennart Matikainen
@@ -93690,6 +93844,16 @@ entries:
   - hundsport
   web: https://åmålsbrukshundklubb.se/
 
+- entry: 1236444558
+  orgName: Djurskyddet Sundsvall
+  orgNumber: 889201-9988
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddetsundsvall.com/
+
 - entry: 1236444699
   orgName: BK Bussenhus
   orgNumber: 802514-7292
@@ -96214,6 +96378,16 @@ entries:
   - byalag
   web: https://www.borrby.se/
 
+- entry: 1236640064
+  orgName: Djurskyddet Västerbotten
+  orgNumber: 894000-8223
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: http://www.djurskyddetvasterbotten.se/
+
 - entry: 1236640643
   orgName: Täby Församling
   orgNumber: 252000-0460
@@ -97146,6 +97320,17 @@ entries:
   categories:
   - religion
   web: https://www.efshorbykrets.se/
+
+- entry: 1236689699
+  orgName: ÅhusGården EFS
+  orgNumber: 838202-3706
+  comment: null
+  categories:
+  - logi
+  - religion
+  - vandrarhem
+  - övernattning
+  web: https://www.ahusgarden.se/
 
 - entry: 1236689962
   orgName: Kollberggården / Ölands YogaStudio & Islandshästar AB
@@ -99951,6 +100136,16 @@ entries:
   categories:
   - yoga
   web: https://www.yogajenny.se/
+
+- entry: 1236880140
+  orgName: Djurskyddet Säffle-Åmål
+  orgNumber: 802449-1980
+  comment: null
+  categories:
+  - djurskydd
+  - djurvård
+  - katthem
+  web: https://www.djurskyddet.se/saffleamal/
 
 - entry: 1236880413
   orgName: Malmö Helps
