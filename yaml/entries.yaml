@@ -2800,6 +2800,14 @@ entries:
   - idrottssällskap
   web: https://www.svenskalag.se/osterakersis
 
+- entry: 1230193110
+  orgName: Matfors Konstförening
+  orgNumber: 802501-5747
+  comment: null
+  categories:
+  - konstförening
+  web: https://matfors.konstforeningar.se/
+
 - entry: 1230193540
   orgName: Svenska Röda Korset
   orgNumber: 846006-8664
@@ -5212,6 +5220,14 @@ entries:
   - idrottsförening
   web: https://www.guif.nu/
 
+- entry: 1230336875
+  orgName: Vetlanda Konstförening
+  orgNumber: 827500-2148
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.vetlanda-konstforening.se/
+
 - entry: 1230336982
   orgName: Solna Marin i Stockholm AB
   orgNumber: 556870-9645
@@ -7223,6 +7239,9 @@ entries:
   comment: null
   categories:
   - konst
+  - konstförening
+  - konstgalleri
+  - konsthall
   web: https://osterakerskonsthall.se/
 
 - entry: 1230471417
@@ -12927,6 +12946,15 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/ifknykoping
+
+- entry: 1230850149
+  orgName: Gefle Katthem
+  orgNumber: 802413-9803
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.geflekatthem.se/
 
 - entry: 1230850354
   orgName: Vaxholms Församling
@@ -19109,6 +19137,14 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/IFKDannemoraOsterby/
 
+- entry: 1231228238
+  orgName: Nedre Fryksdals Konstförening, NFK
+  orgNumber: 874000-0800
+  comment: null
+  categories:
+  - konstförening
+  web: https://nfksunne.se/
+
 - entry: 1231228956
   orgName: Gammalkils Hembygdsförening
   orgNumber: 822001-9833
@@ -21372,6 +21408,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/ljungby/ljungby-forsamling
+
+- entry: 1231374578
+  orgName: Gästrike Katthem
+  orgNumber: 802422-2146
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://gastrike-katthem.se/
 
 - entry: 1231374701
   orgName: Skepparslövs Golfklubb
@@ -37306,6 +37351,14 @@ entries:
   - spelmansgille
   web: http://www.spelmansgillet.se/
 
+- entry: 1232411379
+  orgName: Konstföreningen Lundensia vid Lunds Universitet
+  orgNumber: 845002-4701
+  comment: null
+  categories:
+  - konstförening
+  web: https://lundensia.se/
+
 - entry: 1232411916
   orgName: Wargöns IK
   orgNumber: 862500-4794
@@ -38780,6 +38833,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.skiljebosk.nu/
+
+- entry: 1232566834
+  orgName: Enköpings Konstförening
+  orgNumber: 817000-4942
+  comment: null
+  categories:
+  - konstförening
+  web: https://enkoping.konstforeningar.se/
 
 - entry: 1232567220
   orgName: Föreningen Nordsvenska Hästen Bohuslän
@@ -42201,6 +42262,14 @@ entries:
   categories:
   - hembygdsförening
   web: http://www.nattavaara.net/
+
+- entry: 1232771087
+  orgName: Konstbild 82
+  orgNumber: 862000-4658
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.konstbild82.com/
 
 - entry: 1232771665
   orgName: Medium Hannu Koskinen
@@ -46060,6 +46129,14 @@ entries:
   - religion
   web: https://edsvikskyrkan.se/
 
+- entry: 1233047818
+  orgName: Fjällsjö Konstförening
+  orgNumber: null
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.facebook.com/fjallsjokonstforening
+
 - entry: 1233048006
   orgName: AIK-Tifo
   orgNumber: 802410-3072
@@ -46736,6 +46813,14 @@ entries:
   - discgolfklubb
   web: https://www.facebook.com/groups/945261486339078/
 
+- entry: 1233097326
+  orgName: KTH Konstförening
+  orgNumber: 802415-3739
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.kth.se/konst
+
 - entry: 1233097946
   orgName: Vidsels Aktivitetshus Ekonomisk Förening
   orgNumber: 769639-8234
@@ -47072,6 +47157,15 @@ entries:
   - hästsport
   - ridklubb
   web: https://brk.hemsida24.se/
+
+- entry: 1233123635
+  orgName: Avesta katthem
+  orgNumber: 802451-3312
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://avestakatthem.se/
 
 - entry: 1233123643
   orgName: Nittorps FVO
@@ -57177,6 +57271,14 @@ entries:
   - skytteklubb
   web: https://www.svenskalag.se/soderhamnmossnejsk
 
+- entry: 1233835709
+  orgName: Apotekets konstförening
+  orgNumber: 802468-7579
+  comment: null
+  categories:
+  - konstförening
+  web: https://apoteketskonstforening.com/
+
 - entry: 1233835733
   orgName: Angereds Brukshundklubb
   orgNumber: 857206-5228
@@ -62738,6 +62840,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/karlstadspastorat
 
+- entry: 1234224531
+  orgName: Nordea Konstförening
+  orgNumber: 802011-2903
+  comment: null
+  categories:
+  - konstförening
+  web: https://nordeaskonstforening.se/
+
 - entry: 1234225314
   orgName: Simrishamns Brukshundklubb
   orgNumber: 838800-5996
@@ -63127,6 +63237,14 @@ entries:
   comment: null
   categories: null
   web: null
+
+- entry: 1234245692
+  orgName: Kalix Konstförening
+  orgNumber: 802469-4898
+  comment: null
+  categories:
+  - konstförening
+  web: https://kalixkonst.se/
 
 - entry: 1234247276
   orgName: Lunda Hembygdsförening
@@ -72640,6 +72758,14 @@ entries:
   - volleybollklubb
   web: https://www.svenskalag.se/harnosandsvbk
 
+- entry: 1235004635
+  orgName: Lindesbergs Konstförening
+  orgNumber: 877101-3144
+  comment: null
+  categories:
+  - konstförening
+  web: https://lindesberg.konstforeningar.se/
+
 - entry: 1235005137
   orgName: Kristus Konungens Institut i Sverige
   orgNumber: 252004-9863
@@ -73244,6 +73370,14 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.moraik.se/
+
+- entry: 1235053822
+  orgName: Vaxholms Konstförening
+  orgNumber: 812000-4059
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.vaxholmskonstforening.se/
 
 - entry: 1235053947
   orgName: Sverige för UNHCR
@@ -80471,6 +80605,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/OSIF/
+
+- entry: 1235522248
+  orgName: Mellersta Hallands Konstförening
+  orgNumber: 802521-1734
+  comment: null
+  categories:
+  - konstförening
+  web: https://mhkonst.se/
 
 - entry: 1235522909
   orgName: Hotell Royal i Göteborg AB
@@ -93863,6 +94005,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/bkbussenhus
 
+- entry: 1236445613
+  orgName: Vaggeryds Konstförening
+  orgNumber: 802450-2828
+  comment: null
+  categories:
+  - konstförening
+  web: https://vaggerydskonstforening.se/
+
 - entry: 1236445654
   orgName: Dalbybygdens Släkt- och Folklivsforskarförening
   orgNumber: 802416-9883
@@ -95616,6 +95766,15 @@ entries:
   - supporterklubb
   web: https://vskbandy.se/vsk-vannerna/
 
+- entry: 1236555916
+  orgName: Lunds skateboard- och konstförening
+  orgNumber: 802463-5164
+  comment: null
+  categories:
+  - konstförening
+  - skateboardklubb
+  web: https://www.svenskalag.se/lunds-skateboard-och-konstforening
+
 - entry: 1236555924
   orgName: Team Rynkeby
   orgNumber: 802534-5938
@@ -97182,6 +97341,14 @@ entries:
   - konståkningsklubb
   web: https://www.h-k-f.se/
 
+- entry: 1236686802
+  orgName: Hammarö Konstförening
+  orgNumber: 802451-1993
+  comment: null
+  categories:
+  - konstförening
+  web: https://hammarokonst.se/
+
 - entry: 1236686885
   orgName: Tyska Församlingen i Malmö
   orgNumber: 252004-7073
@@ -97542,6 +97709,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/oregrund
+
+- entry: 1236701338
+  orgName: Early Morning Swingers / Claes Hanngren
+  orgNumber: 520617-XXXX
+  comment: null
+  categories:
+  - golfklubb
+  - swingersklubb
+  web: https://www.svenskalag.se/EMS
 
 - entry: 1236701460
   orgName: Vaksala Församling
