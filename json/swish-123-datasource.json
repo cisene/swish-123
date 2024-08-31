@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-08-29-rev-174112",
+    "date": "2024-08-31-rev-190111",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -661,6 +661,17 @@
         "tr\u00e4ning"
       ],
       "web": "https://privatetrainingonline.se/"
+    },
+    {
+      "entry": 1230037432,
+      "orgName": "Hymerhusbilsklubb",
+      "orgNumber": "802525-7513",
+      "comment": null,
+      "categories": [
+        "husbilsklubb",
+        "m\u00e4rkesklubb"
+      ],
+      "web": "https://hymerhusbilsklubb.se/"
     },
     {
       "entry": 1230038042,
@@ -4409,6 +4420,16 @@
       "web": "https://aia.nu/"
     },
     {
+      "entry": 1230243287,
+      "orgName": "Bollebygds Pastorat",
+      "orgNumber": "252003-6639",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/bollebygd"
+    },
+    {
       "entry": 1230243337,
       "orgName": "Kattfonden - Insamlingsstiftelsen f\u00f6r heml\u00f6sa katter",
       "orgNumber": "802409-3075",
@@ -7087,6 +7108,17 @@
       "web": "https://www.stefanuskoinonia.org/"
     },
     {
+      "entry": 1230376061,
+      "orgName": "Stiftsg\u00e5rden R\u00e4ttvik",
+      "orgNumber": "883200-3084",
+      "comment": null,
+      "categories": [
+        "hotell",
+        "restaurant"
+      ],
+      "web": "https://stiftsgardenrattvik.se/"
+    },
+    {
       "entry": 1230376160,
       "orgName": "PRO Knivsta",
       "orgNumber": "817602-6352",
@@ -9123,6 +9155,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/rommele"
+    },
+    {
+      "entry": 1230484881,
+      "orgName": "F\u00f6r\u00e4ldraf\u00f6reningen Mot Narkotika Storstockholm, FMN",
+      "orgNumber": "802004-6044",
+      "comment": null,
+      "categories": [
+        "f\u00f6r\u00e4ldraf\u00f6rening"
+      ],
+      "web": "https://fmn-sthlm.se/"
     },
     {
       "entry": 1230484923,
@@ -24737,12 +24779,13 @@
     },
     {
       "entry": 1231312883,
-      "orgName": "#claravintern / F\u00f6reningen S:TA Clara Kyrka",
+      "orgName": "F\u00f6reningen S:ta Clara Kyrka",
       "orgNumber": "802406-7103",
-      "comment": null,
+      "comment": "#claravintern",
       "categories": [
         "humanit\u00e4r hj\u00e4lpverksamhet",
-        "religion"
+        "religion",
+        "sociala insatser"
       ],
       "web": "https://clarakyrka.se/"
     },
@@ -29383,6 +29426,20 @@
       "web": "https://www.svenskakyrkan.se/sodraoland"
     },
     {
+      "entry": 1231557156,
+      "orgName": "EFS Evangeliska Fosterlands-stiftelsen",
+      "orgNumber": "802000-8184",
+      "comment": "Afrika sv\u00e4lter",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "insamlingskontroll",
+        "religion",
+        "stiftelse",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://afrikasvalter.nu/"
+    },
+    {
       "entry": 1231557263,
       "orgName": "D\u00f6sj\u00f6bro IF",
       "orgNumber": "845001-1054",
@@ -31000,6 +31057,17 @@
         "vinprovning"
       ],
       "web": "https://www.munskankarna.se/sv/regioner/malardalen/orebro/"
+    },
+    {
+      "entry": 1231632546,
+      "orgName": "Leksands IF Fotboll",
+      "orgNumber": "883201-5096",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/leksandsfotboll"
     },
     {
       "entry": 1231635655,
@@ -38573,6 +38641,17 @@
       "web": "https://www.ibwahlstrom.se/"
     },
     {
+      "entry": 1232096618,
+      "orgName": "Attention J\u00e4mtland-H\u00e4rjedalen",
+      "orgNumber": "802444-8949",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://jamtlandharjedalen.attention.se/"
+    },
+    {
       "entry": 1232096964,
       "orgName": "V\u00e4ster\u00e5s Domkyrka",
       "orgNumber": "556706-5262",
@@ -41379,6 +41458,17 @@
       "web": "https://www.svenskalag.se/forssabk"
     },
     {
+      "entry": 1232226934,
+      "orgName": "Saronhuset i Uddevalla",
+      "orgNumber": "858500-2739",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "religion"
+      ],
+      "web": "https://www.saronhuset.se/"
+    },
+    {
       "entry": 1232227163,
       "orgName": "DYKNING.NET Sverige AB",
       "orgNumber": "556891-4575",
@@ -41820,6 +41910,17 @@
         "religion"
       ],
       "web": "https://www.ibpssweden.se/"
+    },
+    {
+      "entry": 1232245041,
+      "orgName": "Insamlingsstiftelsen till minne av Anna-Karin Nyberg Mazeka",
+      "orgNumber": "802477-6026",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "stiftelse"
+      ],
+      "web": "http://nybergmazekastiftelsen.se/"
     },
     {
       "entry": 1232247229,
@@ -42289,6 +42390,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/backbykyrkan"
+    },
+    {
+      "entry": 1232263655,
+      "orgName": "VOOV Stockholm",
+      "orgNumber": "802512-0638",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "hundhem"
+      ],
+      "web": "https://voovstockholm.se/"
     },
     {
       "entry": 1232265627,
@@ -46589,6 +46701,16 @@
       "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/kronoberg/"
     },
     {
+      "entry": 1232525160,
+      "orgName": "Bridging Health Development, Bombali Health Development",
+      "orgNumber": "802508-9874",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.bombalihealth.nu/"
+    },
+    {
       "entry": 1232525384,
       "orgName": "OCD-f\u00f6reningen G\u00f6teborgsregionen",
       "orgNumber": "857209-3030",
@@ -48352,6 +48474,17 @@
       "web": "https://www.laget.se/SOHA/"
     },
     {
+      "entry": 1232638229,
+      "orgName": "Stiftelsen Barnhj\u00e4lp Soluppg\u00e5ng",
+      "orgNumber": "875701-2458",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "stiftelse"
+      ],
+      "web": "https://www.soluppgang.se/"
+    },
+    {
       "entry": 1232638278,
       "orgName": "Kyrkhults Scoutk\u00e5r",
       "orgNumber": "836201-3057",
@@ -49779,6 +49912,17 @@
         "hotell"
       ],
       "web": "https://lindesbergsgk.se/"
+    },
+    {
+      "entry": 1232700243,
+      "orgName": "Barfota productions / Maria Viklund",
+      "orgNumber": "630511-XXXX",
+      "comment": null,
+      "categories": [
+        "filmproduktion",
+        "filmstudio"
+      ],
+      "web": "https://www.barfotaproductions.se/"
     },
     {
       "entry": 1232700441,
@@ -51821,7 +51965,8 @@
       "orgNumber": "802497-4092",
       "comment": null,
       "categories": [
-        "donation"
+        "donation",
+        "hj\u00e4lporganisation"
       ],
       "web": "https://www.refugeeswelcomestockholm.se/"
     },
@@ -51870,6 +52015,17 @@
         "sl\u00e4ktforskning"
       ],
       "web": "https://www.blekingesf.se/"
+    },
+    {
+      "entry": 1232801272,
+      "orgName": "Noaks Ark G\u00f6teborg och V\u00e4stra G\u00f6taland",
+      "orgNumber": "857205-3109",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "sociala insatser"
+      ],
+      "web": "https://noaksark.org/gvg/"
     },
     {
       "entry": 1232801314,
@@ -52331,6 +52487,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.akarpsif.se/"
+    },
+    {
+      "entry": 1232817831,
+      "orgName": "Himlen \u00e4r \u00f6verskattad",
+      "orgNumber": "802476-0780",
+      "comment": null,
+      "categories": [
+        "cancerf\u00f6rening",
+        "stipendium"
+      ],
+      "web": "http://www.himlenaroverskattad.se/"
     },
     {
       "entry": 1232817906,
@@ -54975,6 +55142,17 @@
       "web": "https://www.eik.se/"
     },
     {
+      "entry": 1232990992,
+      "orgName": "Volont\u00e4rt Initiativ",
+      "orgNumber": "802492-7280",
+      "comment": null,
+      "categories": [
+        "donation",
+        "hj\u00e4lporganisation"
+      ],
+      "web": "http://www.volini.se/"
+    },
+    {
       "entry": 1232991792,
       "orgName": "Tensta Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "817600-8772",
@@ -56058,6 +56236,17 @@
       "web": "https://kyrktorget.se/allianskyrkanvasteras"
     },
     {
+      "entry": 1233048212,
+      "orgName": "Noaks Ark Stockholm",
+      "orgNumber": "802454-3517",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "sociala insatser"
+      ],
+      "web": "https://noaksark.org/stockholm/"
+    },
+    {
       "entry": 1233048469,
       "orgName": "Norr\u00e5va Golfklubb",
       "orgNumber": "802412-6016",
@@ -56298,6 +56487,17 @@
         "prostatacancer"
       ],
       "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/prostatacancerforeningen-skaraborg/"
+    },
+    {
+      "entry": 1233057858,
+      "orgName": "Upplands Ornitologiska F\u00f6rening",
+      "orgNumber": "817602-4746",
+      "comment": null,
+      "categories": [
+        "f\u00e5gelklubb",
+        "ornitologi"
+      ],
+      "web": "https://uppland.birdlife.se/"
     },
     {
       "entry": 1233057882,
@@ -63256,6 +63456,18 @@
       "web": "https://www.svenskakyrkan.se/kramfors/ullangers-kyrka"
     },
     {
+      "entry": 1233463288,
+      "orgName": "Prostatacancerf\u00f6reningen Viktor",
+      "orgNumber": "802436-8485",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening",
+        "prostatacancer"
+      ],
+      "web": "https://prostatacancerforbundet.se/viktor/"
+    },
+    {
       "entry": 1233464336,
       "orgName": "Pajala IF",
       "orgNumber": "897600-1381",
@@ -63837,6 +64049,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233499266,
+      "orgName": "Villa Lidk\u00f6ping BK",
+      "orgNumber": "869000-4109",
+      "comment": null,
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://vlbk.se/"
     },
     {
       "entry": 1233500147,
@@ -64436,6 +64659,17 @@
       "web": "https://www.ymna.se/"
     },
     {
+      "entry": 1233515806,
+      "orgName": "BIK Karlskoga",
+      "orgNumber": "559190-3108",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.bikkarlskoga.se/"
+    },
+    {
       "entry": 1233515913,
       "orgName": "\u00d6rebro tjejjour",
       "orgNumber": "802431-6203",
@@ -64966,6 +65200,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/ljungby/ljungby-forsamling"
+    },
+    {
+      "entry": 1233546967,
+      "orgName": "Noaks Ark Sm\u00e5land & Halland",
+      "orgNumber": "802453-4029",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "sociala insatser"
+      ],
+      "web": "https://noaksark.org/smaland-halland/"
     },
     {
       "entry": 1233547585,
@@ -65771,6 +66016,17 @@
       "web": "https://www.svenskalag.se/falupadelklubb"
     },
     {
+      "entry": 1233583978,
+      "orgName": "Noaks Ark Norra Norrland",
+      "orgNumber": "897002-0379",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "sociala insatser"
+      ],
+      "web": "https://noaksark.org/norra-norrland/"
+    },
+    {
       "entry": 1233590528,
       "orgName": "Stockholms Improvisationsteater AB",
       "orgNumber": "556632-9495",
@@ -65792,6 +66048,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233591310,
+      "orgName": "Svensk-Grekiska f\u00f6reningen J\u00f6nk\u00f6ping, \u0395\u03bb\u03bb\u03b7\u03bd\u03bf-\u03a3\u03bf\u03c5\u03b7\u03b4\u03b9\u03ba\u03ae \u03ba\u03bf\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 J\u00f6nk\u00f6ping",
+      "orgNumber": "802520-8508",
+      "comment": null,
+      "categories": [
+        "hemlandsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/profile.php?id=100063536316496"
     },
     {
       "entry": 1233591757,
@@ -71232,6 +71498,16 @@
       "web": "https://ubhk.se/"
     },
     {
+      "entry": 1233910429,
+      "orgName": "Furuh\u00f6jdskyrkans F\u00f6rsamling",
+      "orgNumber": "817301-4229",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.furuhojdskyrkan.se/"
+    },
+    {
       "entry": 1233912409,
       "orgName": "Ekwall Rullar / Br\u00f6stcancerf\u00f6rbundet",
       "orgNumber": "802010-4264",
@@ -71252,6 +71528,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.shelpe.se/"
+    },
+    {
+      "entry": 1233913027,
+      "orgName": "CarinosYoga / Cristina Adams",
+      "orgNumber": "641015-XXXX",
+      "comment": null,
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.carinosyoga.se/"
     },
     {
       "entry": 1233921672,
@@ -78607,6 +78893,16 @@
       "web": "https://nkbh.se/"
     },
     {
+      "entry": 1234382271,
+      "orgName": "IOGT-NTO Medm\u00e4nniska",
+      "orgNumber": "802435-2505",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://bakfickanumea.se/"
+    },
+    {
       "entry": 1234382990,
       "orgName": "Hundens Hus Sk\u00e5ne",
       "orgNumber": "651219-2847",
@@ -84553,6 +84849,16 @@
       "web": "https://www.svenskalag.se/flensjsk"
     },
     {
+      "entry": 1234711305,
+      "orgName": "G\u00e4vle Pingstf\u00f6rsamling",
+      "orgNumber": "885000-0251",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://hedvigslundskyrkan.se/"
+    },
+    {
       "entry": 1234712303,
       "orgName": "Martin Koch-s\u00e4llskapet",
       "orgNumber": "882000-8129",
@@ -90325,6 +90631,16 @@
       "web": "https://www.genealogi.net/"
     },
     {
+      "entry": 1235114889,
+      "orgName": "Bj\u00f6rk\u00e5frihet",
+      "orgNumber": "829500-1112",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.bjorkafrihet.se/"
+    },
+    {
       "entry": 1235114947,
       "orgName": "Granbergsdals IF",
       "orgNumber": "876400-0363",
@@ -93980,6 +94296,17 @@
       "web": "http://atkungsholmen.se/"
     },
     {
+      "entry": 1235296488,
+      "orgName": "Lilla hj\u00e4rtat v\u00e4nf\u00f6rening",
+      "orgNumber": "802529-9713",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "sociala insatser"
+      ],
+      "web": "https://www.lillahjartat.com/"
+    },
+    {
       "entry": 1235296744,
       "orgName": "Borgia-Norrk\u00f6ping BK",
       "orgNumber": "825001-0330",
@@ -94370,6 +94697,17 @@
       "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-strovelstorp-ausas/"
     },
     {
+      "entry": 1235329917,
+      "orgName": "Stiftelsen Konsthall Tornedalen",
+      "orgNumber": "802481-6632",
+      "comment": null,
+      "categories": [
+        "konstgalleri",
+        "konsthall"
+      ],
+      "web": "https://www.konsthalltornedalen.se/"
+    },
+    {
       "entry": 1235330808,
       "orgName": "Osby Sims\u00e4llskap",
       "orgNumber": "837000-6416",
@@ -94380,6 +94718,16 @@
         "sims\u00e4llskap"
       ],
       "web": "https://www.osbysimsallskap.se/"
+    },
+    {
+      "entry": 1235330832,
+      "orgName": "Jaktkritikerna",
+      "orgNumber": "802441-4370",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://jaktkritikerna.se/"
     },
     {
       "entry": 1235331103,
@@ -95636,6 +95984,16 @@
       "web": "https://www.djaknegatan.org/"
     },
     {
+      "entry": 1235394069,
+      "orgName": "Barnfonden Insamlingsstiftelse",
+      "orgNumber": "846003-9020",
+      "comment": "Indonesien",
+      "categories": [
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://barnfonden.se/"
+    },
+    {
       "entry": 1235394416,
       "orgName": "PRO Laholm",
       "orgNumber": "802460-1257",
@@ -95775,6 +96133,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.angeif.se/"
+    },
+    {
+      "entry": 1235399217,
+      "orgName": "Kils AIK Fotboll",
+      "orgNumber": "873201-0403",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/KilsAIKFK/"
     },
     {
       "entry": 1235399365,
@@ -96788,6 +97157,16 @@
         "hunduppf\u00f6dning"
       ],
       "web": "https://schaferhundklubben.com/"
+    },
+    {
+      "entry": 1235452081,
+      "orgName": "R\u00e5da F\u00f6rsamling",
+      "orgNumber": "252001-4420",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://radaforsamling.se/"
     },
     {
       "entry": 1235452552,
@@ -101352,6 +101731,16 @@
       "web": "http://centrumforsamlingen.se/"
     },
     {
+      "entry": 1235700141,
+      "orgName": "Centrumkyrkan Vallentuna",
+      "orgNumber": "816000-1940",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.ckvallentuna.se/"
+    },
+    {
       "entry": 1235700158,
       "orgName": "Children's Equal Rights",
       "orgNumber": "802466-8314",
@@ -101361,6 +101750,20 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://childrensequal.se/"
+    },
+    {
+      "entry": 1235700174,
+      "orgName": "EFS Evangeliska Fosterlands-stiftelsen",
+      "orgNumber": "802000-8184",
+      "comment": "Sverigemission",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "insamlingskontroll",
+        "religion",
+        "stiftelse",
+        "v\u00e4lg\u00f6renhet"
+      ],
+      "web": "https://www.efs.nu/"
     },
     {
       "entry": 1235700273,
@@ -103631,6 +104034,17 @@
       "web": "https://strandhugg.com/"
     },
     {
+      "entry": 1235822457,
+      "orgName": "Noaks Ark \u00d6sterg\u00f6tland",
+      "orgNumber": "825002-0669",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "sociala insatser"
+      ],
+      "web": "https://noaksark.org/ostergotland/"
+    },
+    {
       "entry": 1235822523,
       "orgName": "Insamlingsstiftelsen Her House Foundation",
       "orgNumber": "802481-5592",
@@ -104079,6 +104493,17 @@
         "stiftelse"
       ],
       "web": "http://www.afu.se/"
+    },
+    {
+      "entry": 1235854500,
+      "orgName": "Stiftelsen Br\u00e4cke Diakoni",
+      "orgNumber": "857200-3104",
+      "comment": null,
+      "categories": [
+        "religion",
+        "stiftelse"
+      ],
+      "web": "https://brackediakoni.se/"
     },
     {
       "entry": 1235855317,
@@ -109252,6 +109677,18 @@
       "web": "https://www.vorsteh.se/"
     },
     {
+      "entry": 1236158604,
+      "orgName": "B\u00e4laryds IK",
+      "orgNumber": "826500-2157",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "parasport"
+      ],
+      "web": "https://www.laget.se/BalarydsIK/"
+    },
+    {
       "entry": 1236158620,
       "orgName": "Sala Brukshundklubb",
       "orgNumber": "879500-3014",
@@ -111477,6 +111914,16 @@
       "web": "https://www.svenskakyrkan.se/svardsjopastorat/sundborns-forsamling"
     },
     {
+      "entry": 1236273635,
+      "orgName": "Lions Club Leksand",
+      "orgNumber": "883201-3653",
+      "comment": null,
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://e-clubhouse.org/sites/leksandse/"
+    },
+    {
       "entry": 1236273973,
       "orgName": "S\u00f6r\u00e5ker Kyokushin Karate",
       "orgNumber": "802454-8698",
@@ -112090,6 +112537,16 @@
         "f\u00f6r\u00e4ldraskap"
       ],
       "web": "https://makalosa.org/"
+    },
+    {
+      "entry": 1236313829,
+      "orgName": "Barmh\u00e4rtighetens Hus",
+      "orgNumber": "802517-4809",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://barmhartighetenshus.se/"
     },
     {
       "entry": 1236314017,
@@ -114566,6 +115023,17 @@
         "ornitologi"
       ],
       "web": "https://hammarofagel.se/"
+    },
+    {
+      "entry": 1236477079,
+      "orgName": "Hj\u00e4lp Holger Nu",
+      "orgNumber": "802537-2791",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://helpholgernow.se/"
     },
     {
       "entry": 1236478283,
@@ -117127,6 +117595,17 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://fritid.attention.se/"
+    },
+    {
+      "entry": 1236638712,
+      "orgName": "Motalas Medm\u00e4nniskor / Danijela Acimovic",
+      "orgNumber": "710901-XXXX",
+      "comment": null,
+      "categories": [
+        "donation",
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://www.facebook.com/groups/799849293503133"
     },
     {
       "entry": 1236639298,
@@ -124002,7 +124481,7 @@
     },
     {
       "entry": 1239000506,
-      "orgName": "Pingst \u2013 Fria f\u00f6rsamlingar i samverkan (PMU)",
+      "orgName": "Pingst - Fria f\u00f6rsamlingar i samverkan (PMU)",
       "orgNumber": "802004-0575",
       "comment": null,
       "categories": [
@@ -127009,7 +127488,6 @@
       "orgNumber": "802539-4035",
       "comment": null,
       "categories": [
-        "insamling",
         "insamlingskontroll",
         "religion"
       ],
