@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-01-rev-003846",
+    "date": "2024-09-02-rev-162705",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5106,6 +5106,18 @@
       "web": "https://www.finnjolle.se/"
     },
     {
+      "entry": 1230290825,
+      "orgName": "Karl-Oskars Krypin",
+      "orgNumber": "556455-1777",
+      "comment": null,
+      "categories": [
+        "logi",
+        "rumsuthyrning",
+        "\u00f6vernattning"
+      ],
+      "web": "https://karl-oskarskrypin.se/"
+    },
+    {
       "entry": 1230291302,
       "orgName": "Vassunda IF",
       "orgNumber": "817601-5819",
@@ -6921,6 +6933,17 @@
       "web": "https://www.kpkskytte.com/"
     },
     {
+      "entry": 1230368548,
+      "orgName": "Skonaren Ingos V\u00e4nner, G\u00f6teborg",
+      "orgNumber": "857204-5717",
+      "comment": null,
+      "categories": [
+        "b\u00e5tuthyrning",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.skonareningo.se/"
+    },
+    {
       "entry": 1230368654,
       "orgName": "SPF Seniorerna Skutan V\u00e4dd\u00f6",
       "orgNumber": "802491-6218",
@@ -8592,6 +8615,20 @@
       "web": "https://www.laget.se/MuldeVarpaKlubb/"
     },
     {
+      "entry": 1230444984,
+      "orgName": "Alpacka Koncept / Dittoo AB",
+      "orgNumber": "559300-7999",
+      "comment": null,
+      "categories": [
+        "e-handel",
+        "f\u00f6rs\u00e4ljning",
+        "n\u00e4thandel",
+        "textil",
+        "ullprodukter"
+      ],
+      "web": "https://alpackakoncept.se/"
+    },
+    {
       "entry": 1230446351,
       "orgName": "SPF Seniorerna Laholm",
       "orgNumber": "802445-8757",
@@ -9026,6 +9063,17 @@
         "religion"
       ],
       "web": "https://www.granopingst.se/"
+    },
+    {
+      "entry": 1230474312,
+      "orgName": "Stall Annika / Annika Johansson",
+      "orgNumber": "790814-XXXX",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://stall-annika.se/"
     },
     {
       "entry": 1230474437,
@@ -9851,6 +9899,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-seniorerna-reftele/"
+    },
+    {
+      "entry": 1230513937,
+      "orgName": "Nya V\u00e4gar Trafikskola AB",
+      "orgNumber": "559343-5794",
+      "comment": null,
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://nyavagar.nu/"
     },
     {
       "entry": 1230514604,
@@ -26240,7 +26299,10 @@
       "orgNumber": "895400-2104",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "alpinklubb",
+        "idrottsf\u00f6rening",
+        "motionsklubb",
+        "skidl\u00f6parklubb"
       ],
       "web": "https://www.fjallvinden.com/"
     },
@@ -27021,6 +27083,18 @@
         "lokalmedia"
       ],
       "web": "https://glicko.me/"
+    },
+    {
+      "entry": 1231448109,
+      "orgName": "Scandinavian Vocal Academy / Kulturfiluren HB",
+      "orgNumber": "969621-5467",
+      "comment": null,
+      "categories": [
+        "ljudproduktion",
+        "s\u00e5ngkurser",
+        "utbildning"
+      ],
+      "web": "https://www.scandinavianvocal.academy/"
     },
     {
       "entry": 1231448182,
@@ -28553,6 +28627,17 @@
       "web": "https://gulaanglarna.se/"
     },
     {
+      "entry": 1231495670,
+      "orgName": "Yogama / Marika Andersson",
+      "orgNumber": "780301-XXXX",
+      "comment": null,
+      "categories": [
+        "kurser",
+        "yoga"
+      ],
+      "web": "https://www.yogama.nu/"
+    },
+    {
       "entry": 1231496066,
       "orgName": "Thail\u00e4ndska Buddhistiska F\u00f6reningen Wat Thai Uppsala \u0e27\u0e31\u0e14\u0e44\u0e17\u0e22\u0e2d\u0e38\u0e1b\u0e0b\u0e2d\u0e25\u0e32",
       "orgNumber": "802505-3383",
@@ -29980,6 +30065,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://engelholmsgymnasterna.sportadmin.se/"
+    },
+    {
+      "entry": 1231579929,
+      "orgName": "Lenninge Island & Ponnystall / Annika Wengelin",
+      "orgNumber": "690108-XXXX",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://lenningeponnystall.se/"
     },
     {
       "entry": 1231579994,
@@ -47042,6 +47138,16 @@
       "web": "https://www.orbyhusgolf.se/"
     },
     {
+      "entry": 1232535797,
+      "orgName": "Svenska Bilsportf\u00f6rbundet",
+      "orgNumber": "802000-3425",
+      "comment": null,
+      "categories": [
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://www.sbf.se/"
+    },
+    {
       "entry": 1232535912,
       "orgName": "Animals H.O.P.E.",
       "orgNumber": "802458-3240",
@@ -52212,6 +52318,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/EDS_ATLET/"
+    },
+    {
+      "entry": 1232801801,
+      "orgName": "Gymmix Ulricehamn",
+      "orgNumber": "865500-9887",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "tr\u00e4ning"
+      ],
+      "web": "https://www.gymmixulricehamn.se/"
     },
     {
       "entry": 1232804235,
@@ -61097,6 +61214,17 @@
       "web": "http://www.mattiasenn.se/"
     },
     {
+      "entry": 1233334521,
+      "orgName": "Granparkens G\u00e5rd och Kaf\u00e9 / Dorotea Marek",
+      "orgNumber": "661202-XXXX",
+      "comment": null,
+      "categories": [
+        "caf\u00e9",
+        "ekologiskt odlat"
+      ],
+      "web": "https://gardochkafe.se/"
+    },
+    {
       "entry": 1233334661,
       "orgName": "Wellness 4 Life Sweden AB",
       "orgNumber": "780302-XXXX",
@@ -61523,6 +61651,18 @@
         "politiskt parti"
       ],
       "web": "https://moderaterna.se/"
+    },
+    {
+      "entry": 1233363272,
+      "orgName": "Hand med Hund AB",
+      "orgNumber": "556551-7603",
+      "comment": null,
+      "categories": [
+        "hundkurser",
+        "kurser",
+        "utbildning"
+      ],
+      "web": "https://handmedhund.nu/"
     },
     {
       "entry": 1233363439,
@@ -65508,6 +65648,17 @@
         "religion"
       ],
       "web": "https://www.grindtorpskyrkan.se/"
+    },
+    {
+      "entry": 1233549110,
+      "orgName": "LL Dance Studio / Lina Larsson",
+      "orgNumber": "770526-XXXX",
+      "comment": null,
+      "categories": [
+        "danskurser",
+        "dansstudio"
+      ],
+      "web": "https://lldancestudio.se/"
     },
     {
       "entry": 1233549151,
@@ -70401,6 +70552,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233860954,
+      "orgName": "Goda Resan AB",
+      "orgNumber": "556878-6585",
+      "comment": null,
+      "categories": [
+        "researrang\u00f6r",
+        "resebyr\u00e5"
+      ],
+      "web": "https://godaresan.se/"
     },
     {
       "entry": 1233861044,
@@ -114130,6 +114292,17 @@
       "web": "https://www.svenskalag.se/drottningskarsif"
     },
     {
+      "entry": 1236401020,
+      "orgName": "Skellefte\u00e5 IBS",
+      "orgNumber": "894701-5445",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.skellefteaibs.se/"
+    },
+    {
       "entry": 1236401194,
       "orgName": "Ekbackskyrkans Innebandyklubb",
       "orgNumber": "802449-4943",
@@ -118444,6 +118617,17 @@
         "stiftelse"
       ],
       "web": "https://fryshuset.se/"
+    },
+    {
+      "entry": 1236667935,
+      "orgName": "556747-2781",
+      "orgNumber": "F\u00f6rarutbildning i Vindeln AB",
+      "comment": null,
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://www.umea-vindeln.se/"
     },
     {
       "entry": 1236668461,

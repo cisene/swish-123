@@ -4202,6 +4202,16 @@ entries:
   - segelklubb
   web: https://www.finnjolle.se/
 
+- entry: 1230290825
+  orgName: Karl-Oskars Krypin
+  orgNumber: 556455-1777
+  comment: null
+  categories:
+  - logi
+  - rumsuthyrning
+  - övernattning
+  web: https://karl-oskarskrypin.se/
+
 - entry: 1230291302
   orgName: Vassunda IF
   orgNumber: 817601-5819
@@ -5705,6 +5715,15 @@ entries:
   - skytteklubb
   web: https://www.kpkskytte.com/
 
+- entry: 1230368548
+  orgName: Skonaren Ingos Vänner, Göteborg
+  orgNumber: 857204-5717
+  comment: null
+  categories:
+  - båtuthyrning
+  - intresseförening
+  web: https://www.skonareningo.se/
+
 - entry: 1230368654
   orgName: SPF Seniorerna Skutan Väddö
   orgNumber: 802491-6218
@@ -7082,6 +7101,18 @@ entries:
   - varpaklubb
   web: https://www.laget.se/MuldeVarpaKlubb/
 
+- entry: 1230444984
+  orgName: Alpacka Koncept / Dittoo AB
+  orgNumber: 559300-7999
+  comment: null
+  categories:
+  - e-handel
+  - försäljning
+  - näthandel
+  - textil
+  - ullprodukter
+  web: https://alpackakoncept.se/
+
 - entry: 1230446351
   orgName: SPF Seniorerna Laholm
   orgNumber: 802445-8757
@@ -7451,6 +7482,15 @@ entries:
   categories:
   - religion
   web: https://www.granopingst.se/
+
+- entry: 1230474312
+  orgName: Stall Annika / Annika Johansson
+  orgNumber: 790814-XXXX
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://stall-annika.se/
 
 - entry: 1230474437
   orgName: Djurskyddet Skellefteå
@@ -8130,6 +8170,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-seniorerna-reftele/
+
+- entry: 1230513937
+  orgName: Nya Vägar Trafikskola AB
+  orgNumber: 559343-5794
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://nyavagar.nu/
 
 - entry: 1230514604
   orgName: Föreningen Interkultur i Lund
@@ -21633,7 +21682,10 @@ entries:
   orgNumber: 895400-2104
   comment: null
   categories:
+  - alpinklubb
   - idrottsförening
+  - motionsklubb
+  - skidlöparklubb
   web: https://www.fjallvinden.com/
 
 - entry: 1231375955
@@ -22283,6 +22335,16 @@ entries:
   categories:
   - lokalmedia
   web: https://glicko.me/
+
+- entry: 1231448109
+  orgName: Scandinavian Vocal Academy / Kulturfiluren HB
+  orgNumber: 969621-5467
+  comment: null
+  categories:
+  - ljudproduktion
+  - sångkurser
+  - utbildning
+  web: https://www.scandinavianvocal.academy/
 
 - entry: 1231448182
   orgName: Norrtälje Lokala Kennelklubb
@@ -23534,6 +23596,15 @@ entries:
   - ideell förening
   web: https://gulaanglarna.se/
 
+- entry: 1231495670
+  orgName: Yogama / Marika Andersson
+  orgNumber: 780301-XXXX
+  comment: null
+  categories:
+  - kurser
+  - yoga
+  web: https://www.yogama.nu/
+
 - entry: 1231496066
   orgName: Thailändska Buddhistiska Föreningen Wat Thai Uppsala วัดไทยอุปซอลา
   orgNumber: 802505-3383
@@ -24723,6 +24794,15 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://engelholmsgymnasterna.sportadmin.se/
+
+- entry: 1231579929
+  orgName: Lenninge Island & Ponnystall / Annika Wengelin
+  orgNumber: 690108-XXXX
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://lenningeponnystall.se/
 
 - entry: 1231579994
   orgName: Linghemskyrkans Församling
@@ -28279,6 +28359,15 @@ entries:
   categories:
   - supporterklubb
   web: http://www.rs96.se/
+
+- entry: 1231814110
+  orgName: null
+  orgNumber: 875001-6894
+  comment: Minipoolspelet
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.oskungdom.se/
 
 - entry: 1231814128
   orgName: Svenska Kryssarklubben SXK
@@ -38792,6 +38881,14 @@ entries:
   - golfklubb
   web: https://www.orbyhusgolf.se/
 
+- entry: 1232535797
+  orgName: Svenska Bilsportförbundet
+  orgNumber: 802000-3425
+  comment: null
+  categories:
+  - riksförbund
+  web: https://www.sbf.se/
+
 - entry: 1232535912
   orgName: Animals H.O.P.E.
   orgNumber: 802458-3240
@@ -43065,6 +43162,15 @@ entries:
   - atletklubb
   - idrottsförening
   web: https://www.laget.se/EDS_ATLET/
+
+- entry: 1232801801
+  orgName: Gymmix Ulricehamn
+  orgNumber: 865500-9887
+  comment: null
+  categories:
+  - friskvård
+  - träning
+  web: https://www.gymmixulricehamn.se/
 
 - entry: 1232804235
   orgName: Kattförbundet SVERAK
@@ -50433,6 +50539,15 @@ entries:
   - sångare
   web: http://www.mattiasenn.se/
 
+- entry: 1233334521
+  orgName: Granparkens Gård och Kafé / Dorotea Marek
+  orgNumber: 661202-XXXX
+  comment: null
+  categories:
+  - café
+  - ekologiskt odlat
+  web: https://gardochkafe.se/
+
 - entry: 1233334661
   orgName: Wellness 4 Life Sweden AB
   orgNumber: 780302-XXXX
@@ -50782,6 +50897,16 @@ entries:
   categories:
   - politiskt parti
   web: https://moderaterna.se/
+
+- entry: 1233363272
+  orgName: Hand med Hund AB
+  orgNumber: 556551-7603
+  comment: null
+  categories:
+  - hundkurser
+  - kurser
+  - utbildning
+  web: https://handmedhund.nu/
 
 - entry: 1233363439
   orgName: Föreningen Klimatriksdagen
@@ -54043,6 +54168,15 @@ entries:
   categories:
   - religion
   web: https://www.grindtorpskyrkan.se/
+
+- entry: 1233549110
+  orgName: LL Dance Studio / Lina Larsson
+  orgNumber: 770526-XXXX
+  comment: null
+  categories:
+  - danskurser
+  - dansstudio
+  web: https://lldancestudio.se/
 
 - entry: 1233549151
   orgName: Djurens Vänners Riksorganisation
@@ -58048,6 +58182,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1233860954
+  orgName: Goda Resan AB
+  orgNumber: 556878-6585
+  comment: null
+  categories:
+  - researrangör
+  - resebyrå
+  web: https://godaresan.se/
 
 - entry: 1233861044
   orgName: Stiftelsen Lööf Foundation
@@ -94172,6 +94315,15 @@ entries:
   categories: null
   web: null
 
+- entry: 1236401020
+  orgName: Skellefteå IBS
+  orgNumber: 894701-5445
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.skellefteaibs.se/
+
 - entry: 1236401194
   orgName: Ekbackskyrkans Innebandyklubb
   orgNumber: 802449-4943
@@ -97753,6 +97905,15 @@ entries:
   - familjestöd
   - stiftelse
   web: https://fryshuset.se/
+
+- entry: 1236667935
+  orgName: 556747-2781
+  orgNumber: Förarutbildning i Vindeln AB
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://www.umea-vindeln.se/
 
 - entry: 1236668461
   orgName: Hemse BK
