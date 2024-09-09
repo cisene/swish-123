@@ -705,6 +705,15 @@ entries:
   - kulturförening
   web: https://www.interkultur.nu/
 
+- entry: 1230043505
+  orgName: Tierp Arena
+  orgNumber: 556574-4025
+  comment: null
+  categories:
+  - motorsportarena
+  - sportarena
+  web: https://tierparena.com/
+
 - entry: 1230045096
   orgName: Team Rynkeby
   orgNumber: 802532-8033
@@ -2199,6 +2208,15 @@ entries:
   - stiftelse
   - utbildning
   web: https://www.stallkungsgarden.se/
+
+- entry: 1230157859
+  orgName: Ragundadalens Rally Club
+  orgNumber: 893200-7217
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://ragundadalensrc.se/
 
 - entry: 1230158824
   orgName: Sexdrega Hembygdsförening
@@ -11673,6 +11691,14 @@ entries:
   - teater
   web: https://teaterslaget.se/
 
+- entry: 1230763888
+  orgName: Radioklubben Vasa - SK6DG
+  orgNumber: 864000-7681
+  comment: null
+  categories:
+  - radioklubb
+  web: https://sk6dg.se/
+
 - entry: 1230764092
   orgName: Norrby IF
   orgNumber: 864500-4063
@@ -11859,6 +11885,15 @@ entries:
   - förening
   - intresseförening
   web: https://sandhemsff.se/
+
+- entry: 1230776872
+  orgName: Svenska Wheaten Terrier Klubben, SWTK
+  orgNumber: 802430-0074
+  comment: null
+  categories:
+  - hundklubb
+  - hunduppfödning
+  web: https://swtk.se/
 
 - entry: 1230777987
   orgName: Södertälje BTK
@@ -15287,6 +15322,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/visby
 
+- entry: 1230961847
+  orgName: Vinninga AIF
+  orgNumber: 869000-5064
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.vinningaaif.se/
+
 - entry: 1230961854
   orgName: Runstens Bygdegårds Förening
   orgNumber: 832000-5005
@@ -16741,6 +16785,16 @@ entries:
   - hembygdsförening
   - religion
   web: https://izb.se/
+
+- entry: 1231058015
+  orgName: Lidköpings Atletsällskap
+  orgNumber: 869000-6997
+  comment: Vinninga Drive-in Bingo
+  categories:
+  - atletklubb
+  - bilbingo
+  - idrottsförening
+  web: https://www.las.nu/
 
 - entry: 1231058163
   orgName: Gräsmyr Loge / Gräsmyr Bygdegårdsförening
@@ -23161,6 +23215,15 @@ entries:
   - bygdegårdsförening
   web: https://www.havensbgf.se/
 
+- entry: 1231478536
+  orgName: Arlövs Motor Club
+  orgNumber: 846502-6733
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://arlovsmc.se/
+
 - entry: 1231478726
   orgName: Herrestads AIF
   orgNumber: 858500-0782
@@ -25071,6 +25134,15 @@ entries:
   - innebandyklubb
   - karateklubb
   web: https://www.svenskalag.se/tystbergagif
+
+- entry: 1231590074
+  orgName: Österlen FF
+  orgNumber: 802447-5330
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/OsterlenFF/
 
 - entry: 1231590231
   orgName: AnnonsMarknan / Markbladet AB
@@ -40292,6 +40364,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/viksangskyrkan
 
+- entry: 1232631935
+  orgName: Smålands Bilsportförbund
+  orgNumber: 829001-5711
+  comment: null
+  categories:
+  - bilsport
+  - utbildning
+  web: https://www.sbf.se/distrikt/smalands-bilsportforbund
+
 - entry: 1232632412
   orgName: Söderköpings OK
   orgNumber: 825002-2004
@@ -50012,14 +50093,14 @@ entries:
   web: https://vkks.se/
 
 - entry: 1233266012
-  orgName: SMK Örebro Karting
+  orgName: SMK Örebro
   orgNumber: 875000-3009
   comment: null
   categories:
   - kartingklubb
   - motorklubb
   - motorsport
-  web: https://www.laget.se/SMKOrebroKarting/
+  web: https://smkorebro.se/
 
 - entry: 1233266186
   orgName: Hemsö IF
@@ -55676,6 +55757,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/sodraoland
+
+- entry: 1233631512
+  orgName: MK Ratten
+  orgNumber: 874000-8597
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://www.mkratten.se/
 
 - entry: 1233631801
   orgName: SPF Seniorerna Guldstaden Skellefteå
@@ -62321,6 +62411,15 @@ entries:
   - intresseförening
   web: https://www.astridlindgrensallskapet.se/
 
+- entry: 1234126413
+  orgName: Lidköpings Atletsällskap
+  orgNumber: 869000-6997
+  comment: null
+  categories:
+  - atletklubb
+  - idrottsförening
+  web: https://www.las.nu/
+
 - entry: 1234126595
   orgName: Pingstförsamlingen i Örnsköldsvik
   orgNumber: 889600-0562
@@ -62930,6 +63029,16 @@ entries:
   - djurvård
   - katthem
   web: https://www.djurskyddet.se/karlstad/
+
+- entry: 1234171773
+  orgName: Hedbergs Industri AB
+  orgNumber: 556909-9541
+  comment: null
+  categories:
+  - byggmaterial
+  - försäljning
+  - näthandel
+  web: https://www.de-ijssel-coatings.se/
 
 - entry: 1234171799
   orgName: Stiftelsen Dynamis Världsevangelisation
@@ -70847,6 +70956,15 @@ entries:
   - skidklubb
   web: https://www.skidklubben.se/
 
+- entry: 1234717807
+  orgName: Lima Motorsällskap
+  orgNumber: 334009-4618
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://limams.com/
+
 - entry: 1234718052
   orgName: Svenska Service- och Signalhundsförbundet, SoS
   orgNumber: 843003-3038
@@ -73554,6 +73672,15 @@ entries:
   categories: null
   web: https://www.facebook.com/profile.php?id=100079664661608
 
+- entry: 1234986402
+  orgName: Spontankören
+  orgNumber: 802470-6585
+  comment: null
+  categories:
+  - körsång
+  - sångförening
+  web: https://www.spontankoren.se/
+
 - entry: 1234986915
   orgName: Bensinupproret 2.0 / Föreningen Uppror
   orgNumber: 802525-0310
@@ -73976,6 +74103,15 @@ entries:
   categories:
   - scoutkår
   web: https://www.ascout.se/
+
+- entry: 1235010814
+  orgName: SMK Uppsala
+  orgNumber: 817600-8806
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: null
 
 - entry: 1235010822
   orgName: GB Fågelguidning AB
@@ -98304,6 +98440,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/lundfc
 
+- entry: 1236659783
+  orgName: Sandvikens Ungdomsskytteförening
+  orgNumber: 802456-8290
+  comment: null
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.sandvikensusf.se/
+
 - entry: 1236660088
   orgName: Örträskbygdens Intresse- & Hembygdsförening
   orgNumber: 895400-2880
@@ -102111,6 +102256,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1236899017
+  orgName: Södra Bilsportförbundet
+  orgNumber: 842000-5772
+  comment: null
+  categories:
+  - bilsport
+  - utbildning
+  web: https://www.sbf.se/distrikt/sodra-bilsportforbundet
 
 - entry: 1236899124
   orgName: Udddevalla Sim

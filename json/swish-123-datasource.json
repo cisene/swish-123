@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-09-rev-135808",
+    "date": "2024-09-09-rev-155628",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -845,6 +845,17 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.interkultur.nu/"
+    },
+    {
+      "entry": 1230043505,
+      "orgName": "Tierp Arena",
+      "orgNumber": "556574-4025",
+      "comment": null,
+      "categories": [
+        "motorsportarena",
+        "sportarena"
+      ],
+      "web": "https://tierparena.com/"
     },
     {
       "entry": 1230045096,
@@ -2668,6 +2679,17 @@
         "utbildning"
       ],
       "web": "https://www.stallkungsgarden.se/"
+    },
+    {
+      "entry": 1230157859,
+      "orgName": "Ragundadalens Rally Club",
+      "orgNumber": "893200-7217",
+      "comment": null,
+      "categories": [
+        "motorklubb",
+        "motorsport"
+      ],
+      "web": "https://ragundadalensrc.se/"
     },
     {
       "entry": 1230158824,
@@ -14179,6 +14201,16 @@
       "web": "https://teaterslaget.se/"
     },
     {
+      "entry": 1230763888,
+      "orgName": "Radioklubben Vasa - SK6DG",
+      "orgNumber": "864000-7681",
+      "comment": null,
+      "categories": [
+        "radioklubb"
+      ],
+      "web": "https://sk6dg.se/"
+    },
+    {
       "entry": 1230764092,
       "orgName": "Norrby IF",
       "orgNumber": "864500-4063",
@@ -14406,6 +14438,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://sandhemsff.se/"
+    },
+    {
+      "entry": 1230776872,
+      "orgName": "Svenska Wheaten Terrier Klubben, SWTK",
+      "orgNumber": "802430-0074",
+      "comment": null,
+      "categories": [
+        "hundklubb",
+        "hunduppf\u00f6dning"
+      ],
+      "web": "https://swtk.se/"
     },
     {
       "entry": 1230777987,
@@ -18566,6 +18609,17 @@
       "web": "https://www.svenskakyrkan.se/visby"
     },
     {
+      "entry": 1230961847,
+      "orgName": "Vinninga AIF",
+      "orgNumber": "869000-5064",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.vinningaaif.se/"
+    },
+    {
       "entry": 1230961854,
       "orgName": "Runstens Bygdeg\u00e5rds F\u00f6rening",
       "orgNumber": "832000-5005",
@@ -20330,6 +20384,18 @@
         "religion"
       ],
       "web": "https://izb.se/"
+    },
+    {
+      "entry": 1231058015,
+      "orgName": "Lidk\u00f6pings Atlets\u00e4llskap",
+      "orgNumber": "869000-6997",
+      "comment": "Vinninga Drive-in Bingo",
+      "categories": [
+        "atletklubb",
+        "bilbingo",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.las.nu/"
     },
     {
       "entry": 1231058163,
@@ -28087,6 +28153,17 @@
       "web": "https://www.havensbgf.se/"
     },
     {
+      "entry": 1231478536,
+      "orgName": "Arl\u00f6vs Motor Club",
+      "orgNumber": "846502-6733",
+      "comment": null,
+      "categories": [
+        "motorklubb",
+        "motorsport"
+      ],
+      "web": "https://arlovsmc.se/"
+    },
+    {
       "entry": 1231478726,
       "orgName": "Herrestads AIF",
       "orgNumber": "858500-0782",
@@ -30397,6 +30474,17 @@
         "karateklubb"
       ],
       "web": "https://www.svenskalag.se/tystbergagif"
+    },
+    {
+      "entry": 1231590074,
+      "orgName": "\u00d6sterlen FF",
+      "orgNumber": "802447-5330",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/OsterlenFF/"
     },
     {
       "entry": 1231590231,
@@ -48834,6 +48922,17 @@
       "web": "https://www.svenskakyrkan.se/vasteras/viksangskyrkan"
     },
     {
+      "entry": 1232631935,
+      "orgName": "Sm\u00e5lands Bilsportf\u00f6rbund",
+      "orgNumber": "829001-5711",
+      "comment": null,
+      "categories": [
+        "bilsport",
+        "utbildning"
+      ],
+      "web": "https://www.sbf.se/distrikt/smalands-bilsportforbund"
+    },
+    {
       "entry": 1232632412,
       "orgName": "S\u00f6derk\u00f6pings OK",
       "orgNumber": "825002-2004",
@@ -60571,7 +60670,7 @@
     },
     {
       "entry": 1233266012,
-      "orgName": "SMK \u00d6rebro Karting",
+      "orgName": "SMK \u00d6rebro",
       "orgNumber": "875000-3009",
       "comment": null,
       "categories": [
@@ -60579,7 +60678,7 @@
         "motorklubb",
         "motorsport"
       ],
-      "web": "https://www.laget.se/SMKOrebroKarting/"
+      "web": "https://smkorebro.se/"
     },
     {
       "entry": 1233266186,
@@ -67491,6 +67590,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sodraoland"
+    },
+    {
+      "entry": 1233631512,
+      "orgName": "MK Ratten",
+      "orgNumber": "874000-8597",
+      "comment": null,
+      "categories": [
+        "motorklubb",
+        "motorsport"
+      ],
+      "web": "https://www.mkratten.se/"
     },
     {
       "entry": 1233631801,
@@ -75566,6 +75676,17 @@
       "web": "https://www.astridlindgrensallskapet.se/"
     },
     {
+      "entry": 1234126413,
+      "orgName": "Lidk\u00f6pings Atlets\u00e4llskap",
+      "orgNumber": "869000-6997",
+      "comment": null,
+      "categories": [
+        "atletklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.las.nu/"
+    },
+    {
       "entry": 1234126595,
       "orgName": "Pingstf\u00f6rsamlingen i \u00d6rnsk\u00f6ldsvik",
       "orgNumber": "889600-0562",
@@ -76301,6 +76422,18 @@
         "katthem"
       ],
       "web": "https://www.djurskyddet.se/karlstad/"
+    },
+    {
+      "entry": 1234171773,
+      "orgName": "Hedbergs Industri AB",
+      "orgNumber": "556909-9541",
+      "comment": null,
+      "categories": [
+        "byggmaterial",
+        "f\u00f6rs\u00e4ljning",
+        "n\u00e4thandel"
+      ],
+      "web": "https://www.de-ijssel-coatings.se/"
     },
     {
       "entry": 1234171799,
@@ -85923,6 +86056,17 @@
       "web": "https://www.skidklubben.se/"
     },
     {
+      "entry": 1234717807,
+      "orgName": "Lima Motors\u00e4llskap",
+      "orgNumber": "334009-4618",
+      "comment": null,
+      "categories": [
+        "motorklubb",
+        "motorsport"
+      ],
+      "web": "https://limams.com/"
+    },
+    {
       "entry": 1234718052,
       "orgName": "Svenska Service- och Signalhundsf\u00f6rbundet, SoS",
       "orgNumber": "843003-3038",
@@ -89231,6 +89375,17 @@
       "web": "https://www.facebook.com/ResearchForRecoveryC19/"
     },
     {
+      "entry": 1234986402,
+      "orgName": "Spontank\u00f6ren",
+      "orgNumber": "802470-6585",
+      "comment": null,
+      "categories": [
+        "k\u00f6rs\u00e5ng",
+        "s\u00e5ngf\u00f6rening"
+      ],
+      "web": "https://www.spontankoren.se/"
+    },
+    {
       "entry": 1234986915,
       "orgName": "Bensinupproret 2.0 / F\u00f6reningen Uppror",
       "orgNumber": "802525-0310",
@@ -89736,6 +89891,17 @@
         "scoutk\u00e5r"
       ],
       "web": "https://www.ascout.se/"
+    },
+    {
+      "entry": 1235010814,
+      "orgName": "SMK Uppsala",
+      "orgNumber": "817600-8806",
+      "comment": null,
+      "categories": [
+        "motorklubb",
+        "motorsport"
+      ],
+      "web": null
     },
     {
       "entry": 1235010822,
@@ -119098,6 +119264,17 @@
       "web": "https://www.svenskalag.se/lundfc"
     },
     {
+      "entry": 1236659783,
+      "orgName": "Sandvikens Ungdomsskyttef\u00f6rening",
+      "orgNumber": "802456-8290",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.sandvikensusf.se/"
+    },
+    {
       "entry": 1236660088,
       "orgName": "\u00d6rtr\u00e4skbygdens Intresse- & Hembygdsf\u00f6rening",
       "orgNumber": "895400-2880",
@@ -123727,6 +123904,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236899017,
+      "orgName": "S\u00f6dra Bilsportf\u00f6rbundet",
+      "orgNumber": "842000-5772",
+      "comment": null,
+      "categories": [
+        "bilsport",
+        "utbildning"
+      ],
+      "web": "https://www.sbf.se/distrikt/sodra-bilsportforbundet"
     },
     {
       "entry": 1236899124,
