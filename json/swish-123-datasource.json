@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-10-rev-163115",
+    "date": "2024-09-11-rev-163648",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4615,6 +4615,16 @@
       "web": "https://www.laget.se/NykvarnsIF/"
     },
     {
+      "entry": 1230245951,
+      "orgName": "Eker\u00f6 B\u00e5tklubb",
+      "orgNumber": "815200-9737",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "https://www.ekerobk.se/"
+    },
+    {
       "entry": 1230246355,
       "orgName": "Djurskyddet Sigfrid V\u00e4xj\u00f6",
       "orgNumber": "802505-9091",
@@ -7780,6 +7790,16 @@
         "motorb\u00e5tsklubb"
       ],
       "web": "https://embk.se/"
+    },
+    {
+      "entry": 1230410639,
+      "orgName": "Bergs B\u00e5tklubb",
+      "orgNumber": "893203-2918",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "https://www.bergsbatklubb.se/"
     },
     {
       "entry": 1230411132,
@@ -20560,6 +20580,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/lund/torn"
+    },
+    {
+      "entry": 1231059880,
+      "orgName": "Kramfors B\u00e5tklubb, KBK",
+      "orgNumber": "888400-2810",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "https://kramforsbatklubb.se/"
     },
     {
       "entry": 1231059955,
@@ -36573,6 +36603,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1231906080,
+      "orgName": "Edenryds B\u00e5tklubb",
+      "orgNumber": "838201-1248",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "http://www.edenrydsbatklubb.se/"
+    },
+    {
       "entry": 1231907567,
       "orgName": "Tofteryd-Hagshults Hembygdsf\u00f6rening",
       "orgNumber": "828000-7017",
@@ -37561,6 +37601,17 @@
         "hundsport"
       ],
       "web": "http://agilityklubben.se/"
+    },
+    {
+      "entry": 1231981265,
+      "orgName": "N\u00e4sbyvikens B\u00e5ts\u00e4llskap",
+      "orgNumber": "816000-1155",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.nasbyviken.se/"
     },
     {
       "entry": 1231981497,
@@ -51012,6 +51063,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/grolandaif"
+    },
+    {
+      "entry": 1232711026,
+      "orgName": "Kungs\u00e4ngens B\u00e5ts\u00e4llskap",
+      "orgNumber": "813200-3206",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "http://www.kungsangensbatsallskap.se/"
     },
     {
       "entry": 1232711190,
@@ -76022,6 +76084,17 @@
       "web": "https://www.svenskalag.se/brommasolnaskf"
     },
     {
+      "entry": 1234134383,
+      "orgName": "S\u00e4tra B\u00e5ts\u00e4llskap",
+      "orgNumber": "802004-5087",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.satrabat.se/"
+    },
+    {
       "entry": 1234134482,
       "orgName": "Kvinnojouren T\u00e4by-Danderyd",
       "orgNumber": "802407-2251",
@@ -90106,6 +90179,16 @@
       "web": "https://www.kilsgymnaster.se/"
     },
     {
+      "entry": 1235010723,
+      "orgName": "Nusn\u00e4s B\u00e5tklubb",
+      "orgNumber": "884401-8849",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "http://www.nusnasbatklubb.se/"
+    },
+    {
       "entry": 1235010756,
       "orgName": "Arkelstorps Scoutk\u00e5r KFUK-KFUM",
       "orgNumber": "802515-6889",
@@ -91625,6 +91708,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.fyriscurling.se/"
+    },
+    {
+      "entry": 1235106976,
+      "orgName": "Patholmvikens B\u00e5tklubb",
+      "orgNumber": "894003-7107",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "https://www.pvbk.net/"
     },
     {
       "entry": 1235107206,
@@ -109427,6 +109520,16 @@
       "web": "https://www.svenskakyrkan.se/vantor"
     },
     {
+      "entry": 1236065007,
+      "orgName": "W\u00e4stra Bolmens B\u00e5tklubb, VBBK",
+      "orgNumber": "828500-6287",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "https://www.vbbk.se/"
+    },
+    {
       "entry": 1236069421,
       "orgName": "Storsj\u00f6ns Kallbadhus",
       "orgNumber": "802493-1498",
@@ -118772,6 +118875,16 @@
       "web": "https://www.svenskakyrkan.se/gavle/defaultaspxid668646"
     },
     {
+      "entry": 1236592760,
+      "orgName": "Spiritbird Yoga / Jenni Enigk",
+      "orgNumber": "790706-XXXX",
+      "comment": null,
+      "categories": [
+        "yoga"
+      ],
+      "web": "https://www.instagram.com/spiritbirdyogi"
+    },
+    {
       "entry": 1236594030,
       "orgName": "PRO Vreta kloster",
       "orgNumber": "822001-3992",
@@ -120247,6 +120360,17 @@
       "web": "https://www.laget.se/Skillingarydsojvf/"
     },
     {
+      "entry": 1236685622,
+      "orgName": "Skurusundets B\u00e5ts\u00e4llskap",
+      "orgNumber": "814000-0855",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "http://skurusundetsbatsallskap.se/"
+    },
+    {
       "entry": 1236685648,
       "orgName": "Griparna - Nyk\u00f6pings Speedway Klubb, NSK",
       "orgNumber": "802422-7335",
@@ -120501,6 +120625,16 @@
         "religion"
       ],
       "web": "https://www.efshorbykrets.se/"
+    },
+    {
+      "entry": 1236689673,
+      "orgName": "Melleruds B\u00e5tklubb",
+      "orgNumber": "862500-3887",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb"
+      ],
+      "web": "http://www.mellerudsbatklubb.com/"
     },
     {
       "entry": 1236689699,
@@ -121051,6 +121185,17 @@
         "stiftelse"
       ],
       "web": "https://www.viggofoundation.se/"
+    },
+    {
+      "entry": 1236714661,
+      "orgName": "Grimsta B\u00e5ts\u00e4llskap",
+      "orgNumber": "802001-2483",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "http://gbs.nu/"
     },
     {
       "entry": 1236715023,
@@ -123030,6 +123175,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/katarina"
+    },
+    {
+      "entry": 1236816375,
+      "orgName": "H\u00f6gan\u00e4s B\u00e5ts\u00e4llskap",
+      "orgNumber": "843001-7924",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://hbs.se/"
     },
     {
       "entry": 1236817480,
