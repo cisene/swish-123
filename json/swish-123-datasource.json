@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-11-rev-163648",
+    "date": "2024-09-12-rev-135107",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -18065,6 +18065,18 @@
       "web": "https://www.vru.se/"
     },
     {
+      "entry": 1230926543,
+      "orgName": "Svaneviks Bryggf\u00f6rening",
+      "orgNumber": "836201-2562",
+      "comment": null,
+      "categories": [
+        "bryggf\u00f6rening",
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.svanevik.info/"
+    },
+    {
       "entry": 1230926659,
       "orgName": "Storviks IF",
       "orgNumber": "885500-1601",
@@ -21045,6 +21057,18 @@
         "religion"
       ],
       "web": "https://www.stenhammarkyrkan.se/"
+    },
+    {
+      "entry": 1231085265,
+      "orgName": "B\u00e5tabackens Bryggf\u00f6rening",
+      "orgNumber": "802489-2187",
+      "comment": null,
+      "categories": [
+        "bryggf\u00f6rening",
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.facebook.com/batabackensbryggforening"
     },
     {
       "entry": 1231087998,
@@ -27102,6 +27126,17 @@
       "web": "https://www.unizonjourer.se/varnamokvinnojour/"
     },
     {
+      "entry": 1231414606,
+      "orgName": "Silleruds B\u00e5ts\u00e4llskap IDUN",
+      "orgNumber": "802532-1335",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "http://arjang.nu/idun"
+    },
+    {
       "entry": 1231415199,
       "orgName": "Stj\u00e4rnkrigspodden / Punktliga Produktioner AB",
       "orgNumber": "559257-4585",
@@ -31061,7 +31096,8 @@
       "orgNumber": "836200-9998",
       "comment": null,
       "categories": [
-        "b\u00e5tklubb"
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
       ],
       "web": "https://norjebatklubb.se/"
     },
@@ -36608,7 +36644,8 @@
       "orgNumber": "838201-1248",
       "comment": null,
       "categories": [
-        "b\u00e5tklubb"
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
       ],
       "web": "http://www.edenrydsbatklubb.se/"
     },
@@ -39644,6 +39681,18 @@
         "scoutk\u00e5r"
       ],
       "web": "https://alta.scout.se/"
+    },
+    {
+      "entry": 1232112910,
+      "orgName": "Klubbg\u00e4rdets Bryggf\u00f6rening",
+      "orgNumber": "898801-1113",
+      "comment": null,
+      "categories": [
+        "bryggf\u00f6rening",
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.laget.se/KBFP/"
     },
     {
       "entry": 1232114023,
@@ -43984,7 +44033,7 @@
     },
     {
       "entry": 1232302438,
-      "orgName": "Essinge b\u00e5tklubb",
+      "orgName": "Essinge B\u00e5tklubb",
       "orgNumber": "802000-8010",
       "comment": null,
       "categories": [
@@ -49677,6 +49726,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/RoslagsbroIF/"
+    },
+    {
+      "entry": 1232649887,
+      "orgName": "K\u00f6pstads\u00f6 bryggf\u00f6rening",
+      "orgNumber": "802528-1125",
+      "comment": null,
+      "categories": [
+        "bryggf\u00f6rening",
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.facebook.com/groups/717076298695657/"
     },
     {
       "entry": 1232652782,
@@ -71093,6 +71154,19 @@
       "web": "https://v\u00e4der\u00f6bod.se/"
     },
     {
+      "entry": 1233841129,
+      "orgName": "Norje Monsun",
+      "orgNumber": "836201-2067",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap",
+        "camping",
+        "stuguthyrning"
+      ],
+      "web": "https://www.monsunen.se/"
+    },
+    {
       "entry": 1233844271,
       "orgName": "Ringarums IF",
       "orgNumber": "825001-5123",
@@ -72433,6 +72507,17 @@
         "motion"
       ],
       "web": "https://www.gymmixhabo.se/"
+    },
+    {
+      "entry": 1233899226,
+      "orgName": "Segels\u00e4llskapet \u00c5m\u00e5lsviken, SSAV",
+      "orgNumber": "862000-6307",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://www.ssav.se/"
     },
     {
       "entry": 1233899952,
@@ -77329,6 +77414,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/berg"
+    },
+    {
+      "entry": 1234199956,
+      "orgName": "Grums B\u00e5ts\u00e4llskap",
+      "orgNumber": "873201-5923",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://grumsbatsallskap.se/"
     },
     {
       "entry": 1234201620,
@@ -82937,7 +83033,7 @@
     },
     {
       "entry": 1234539771,
-      "orgName": "Insj\u00f6ns b\u00e5tklubb",
+      "orgName": "Insj\u00f6ns B\u00e5tklubb",
       "orgNumber": "802507-3233",
       "comment": null,
       "categories": [
@@ -84184,6 +84280,17 @@
         "ridskola"
       ],
       "web": "https://djursholmsridklubb.se/"
+    },
+    {
+      "entry": 1234610846,
+      "orgName": "Bengtsfors Motorb\u00e5tsklubb, BMBK",
+      "orgNumber": "862000-0102",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.bmbk.se/"
     },
     {
       "entry": 1234610978,
@@ -87816,6 +87923,18 @@
       "web": "https://dartmoorsallskapet.wordpress.com/"
     },
     {
+      "entry": 1234842662,
+      "orgName": "S\u00e4ffle Segelklubb",
+      "orgNumber": "874400-5367",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://www.safflesegelklubb.se/"
+    },
+    {
       "entry": 1234843298,
       "orgName": "\u00c4lmhults Pistolklubb",
       "orgNumber": "829000-3907",
@@ -91234,6 +91353,17 @@
       "web": "https://www.svenskalag.se/upplandsvasbyjk"
     },
     {
+      "entry": 1235087754,
+      "orgName": "S\u00f6r\u00e5kers B\u00e5ts\u00e4llskap",
+      "orgNumber": "889201-4534",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.sorakersbs.se/"
+    },
+    {
       "entry": 1235087812,
       "orgName": "Laholms Jujutsuklubb",
       "orgNumber": "802463-4357",
@@ -93262,6 +93392,17 @@
       "web": "https://abiskointresseforening.weebly.com/"
     },
     {
+      "entry": 1235149331,
+      "orgName": "Karlskoga-Bofors Motorb\u00e5tsklubb, KBMK",
+      "orgNumber": "876400-0082",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://mockelnforeningarna.se/kbmk/"
+    },
+    {
       "entry": 1235149794,
       "orgName": "L\u00e5ngasj\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "729500-0199",
@@ -94051,6 +94192,17 @@
         "alternativa nyheter"
       ],
       "web": "https://frihetsnytt.se/"
+    },
+    {
+      "entry": 1235200167,
+      "orgName": "Kl\u00e4ssbols B\u00e5tklubb",
+      "orgNumber": "872000-8286",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://klassbolsbatklubb.se/"
     },
     {
       "entry": 1235200407,
@@ -102029,6 +102181,18 @@
       "web": "https://stockholmstjejjour.nu/"
     },
     {
+      "entry": 1235622741,
+      "orgName": "Karlskrona Segels\u00e4llkap, KSS",
+      "orgNumber": "835000-1569",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://www.knss.nu/"
+    },
+    {
       "entry": 1235622881,
       "orgName": "H\u00e5kans H\u00e4sttransporter / Stall Camino AB",
       "orgNumber": "556894-0901",
@@ -102900,6 +103064,17 @@
         "fotograf"
       ],
       "web": "https://www.zahlo.se/"
+    },
+    {
+      "entry": 1235679394,
+      "orgName": "Arvika Motorb\u00e5tsklubb, AMBK",
+      "orgNumber": "872000-0044",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "http://arvikamotorbatsklubb.se/"
     },
     {
       "entry": 1235680160,
@@ -110508,7 +110683,7 @@
     },
     {
       "entry": 1236122105,
-      "orgName": "Bestorps b\u00e5tklubb",
+      "orgName": "Bestorps B\u00e5tklubb",
       "orgNumber": "802510-9573",
       "comment": null,
       "categories": [
@@ -110702,6 +110877,16 @@
         "samh\u00e4llsf\u00f6rening"
       ],
       "web": "https://mansbyn.se/"
+    },
+    {
+      "entry": 1236133680,
+      "orgName": "Storfors F\u00f6rsamling",
+      "orgNumber": "252004-1969",
+      "comment": "Bastuflotten",
+      "categories": [
+        "bastukultur"
+      ],
+      "web": "https://www.svenskakyrkan.se/storfors"
     },
     {
       "entry": 1236133748,
@@ -118322,6 +118507,17 @@
       "web": "https://jarvsoskoterklubb.se/"
     },
     {
+      "entry": 1236541874,
+      "orgName": "Slottsbrons B\u00e5ts\u00e4llskap",
+      "orgNumber": "874001-6582",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.slottsbronsbatsallskap.se/"
+    },
+    {
       "entry": 1236543508,
       "orgName": "IK R\u00f6ss\u00f6 Uddevalla",
       "orgNumber": "858500-7290",
@@ -118765,6 +118961,17 @@
         "lionsklubb"
       ],
       "web": "https://e-clubhouse.org/sites/genarp/"
+    },
+    {
+      "entry": 1236581250,
+      "orgName": "Gu\u00f6vikens B\u00e5tklubb",
+      "orgNumber": "802422-3961",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.guoviken.se/"
     },
     {
       "entry": 1236581680,

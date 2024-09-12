@@ -14876,6 +14876,16 @@ entries:
   - ishockeyklubb
   web: https://www.vru.se/
 
+- entry: 1230926543
+  orgName: Svaneviks Bryggförening
+  orgNumber: 836201-2562
+  comment: null
+  categories:
+  - bryggförening
+  - båtklubb
+  - båtsällskap
+  web: https://www.svanevik.info/
+
 - entry: 1230926659
   orgName: Storviks IF
   orgNumber: 885500-1601
@@ -17336,6 +17346,16 @@ entries:
   categories:
   - religion
   web: https://www.stenhammarkyrkan.se/
+
+- entry: 1231085265
+  orgName: Båtabackens Bryggförening
+  orgNumber: 802489-2187
+  comment: null
+  categories:
+  - bryggförening
+  - båtklubb
+  - båtsällskap
+  web: https://www.facebook.com/batabackensbryggforening
 
 - entry: 1231085349
   orgName: Cykla Paris / Eva Hållsten
@@ -22347,6 +22367,15 @@ entries:
   - kvinnojour
   web: https://www.unizonjourer.se/varnamokvinnojour/
 
+- entry: 1231414606
+  orgName: Silleruds Båtsällskap IDUN
+  orgNumber: 802532-1335
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: http://arjang.nu/idun
+
 - entry: 1231415199
   orgName: Stjärnkrigspodden / Punktliga Produktioner AB
   orgNumber: 559257-4585
@@ -25611,6 +25640,7 @@ entries:
   comment: null
   categories:
   - båtklubb
+  - båtsällskap
   web: https://norjebatklubb.se/
 
 - entry: 1231612365
@@ -30180,6 +30210,7 @@ entries:
   comment: null
   categories:
   - båtklubb
+  - båtsällskap
   web: http://www.edenrydsbatklubb.se/
 
 - entry: 1231907567
@@ -32662,6 +32693,16 @@ entries:
   categories:
   - scoutkår
   web: https://alta.scout.se/
+
+- entry: 1232112910
+  orgName: Klubbgärdets Bryggförening
+  orgNumber: 898801-1113
+  comment: null
+  categories:
+  - bryggförening
+  - båtklubb
+  - båtsällskap
+  web: https://www.laget.se/KBFP/
 
 - entry: 1232114023
   orgName: Team Rynkeby
@@ -36273,7 +36314,7 @@ entries:
   web: http://dalarnasstovarklubb.se/
 
 - entry: 1232302438
-  orgName: Essinge båtklubb
+  orgName: Essinge Båtklubb
   orgNumber: 802000-8010
   comment: null
   categories:
@@ -40978,6 +41019,16 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/RoslagsbroIF/
+
+- entry: 1232649887
+  orgName: Köpstadsö bryggförening
+  orgNumber: 802528-1125
+  comment: null
+  categories:
+  - bryggförening
+  - båtklubb
+  - båtsällskap
+  web: https://www.facebook.com/groups/717076298695657/
 
 - entry: 1232652782
   orgName: Kalmar Soroptimistklubb
@@ -58632,6 +58683,17 @@ entries:
   - kulturhistoria
   web: https://väderöbod.se/
 
+- entry: 1233841129
+  orgName: Norje Monsun
+  orgNumber: 836201-2067
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  - camping
+  - stuguthyrning
+  web: https://www.monsunen.se/
+
 - entry: 1233844271
   orgName: Ringarums IF
   orgNumber: 825001-5123
@@ -59723,6 +59785,15 @@ entries:
   - hälsa
   - motion
   web: https://www.gymmixhabo.se/
+
+- entry: 1233899226
+  orgName: Segelsällskapet Åmålsviken, SSAV
+  orgNumber: 862000-6307
+  comment: null
+  categories:
+  - båtklubb
+  - segelsällskap
+  web: https://www.ssav.se/
 
 - entry: 1233899317
   orgName: N-Trygg Bil AB
@@ -63773,6 +63844,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/berg
+
+- entry: 1234199956
+  orgName: Grums Båtsällskap
+  orgNumber: 873201-5923
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://grumsbatsallskap.se/
 
 - entry: 1234201620
   orgName: IK Segro
@@ -68402,7 +68482,7 @@ entries:
   web: https://www.kirunask.se/
 
 - entry: 1234539771
-  orgName: Insjöns båtklubb
+  orgName: Insjöns Båtklubb
   orgNumber: 802507-3233
   comment: null
   categories:
@@ -69420,6 +69500,15 @@ entries:
   - ridklubb
   - ridskola
   web: https://djursholmsridklubb.se/
+
+- entry: 1234610846
+  orgName: Bengtsfors Motorbåtsklubb, BMBK
+  orgNumber: 862000-0102
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://www.bmbk.se/
 
 - entry: 1234610978
   orgName: Motala AIF HK
@@ -72395,6 +72484,16 @@ entries:
   - intresseförening
   web: https://dartmoorsallskapet.wordpress.com/
 
+- entry: 1234842662
+  orgName: Säffle Segelklubb
+  orgNumber: 874400-5367
+  comment: null
+  categories:
+  - båtklubb
+  - segelklubb
+  - segelsällskap
+  web: https://www.safflesegelklubb.se/
+
 - entry: 1234843298
   orgName: Älmhults Pistolklubb
   orgNumber: 829000-3907
@@ -75217,6 +75316,15 @@ entries:
   - kampsportsförening
   web: https://www.svenskalag.se/upplandsvasbyjk
 
+- entry: 1235087754
+  orgName: Söråkers Båtsällskap
+  orgNumber: 889201-4534
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://www.sorakersbs.se/
+
 - entry: 1235087812
   orgName: Laholms Jujutsuklubb
   orgNumber: 802463-4357
@@ -76886,6 +76994,15 @@ entries:
   - intresseförening
   web: https://abiskointresseforening.weebly.com/
 
+- entry: 1235149331
+  orgName: Karlskoga-Bofors Motorbåtsklubb, KBMK
+  orgNumber: 876400-0082
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://mockelnforeningarna.se/kbmk/
+
 - entry: 1235149794
   orgName: Långasjö Bygdegårdsförening
   orgNumber: 729500-0199
@@ -77553,6 +77670,15 @@ entries:
   - alternativa media
   - alternativa nyheter
   web: https://frihetsnytt.se/
+
+- entry: 1235200167
+  orgName: Klässbols Båtklubb
+  orgNumber: 872000-8286
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://klassbolsbatklubb.se/
 
 - entry: 1235200407
   orgName: Hörselskadades Riksförbund Kristianstad
@@ -84109,6 +84235,16 @@ entries:
   - kvinnojour
   web: https://stockholmstjejjour.nu/
 
+- entry: 1235622741
+  orgName: Karlskrona Segelsällkap, KSS
+  orgNumber: 835000-1569
+  comment: null
+  categories:
+  - båtklubb
+  - segelklubb
+  - segelsällskap
+  web: https://www.knss.nu/
+
 - entry: 1235622881
   orgName: Håkans Hästtransporter / Stall Camino AB
   orgNumber: 556894-0901
@@ -84828,6 +84964,15 @@ entries:
   categories:
   - fotograf
   web: https://www.zahlo.se/
+
+- entry: 1235679394
+  orgName: Arvika Motorbåtsklubb, AMBK
+  orgNumber: 872000-0044
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: http://arvikamotorbatsklubb.se/
 
 - entry: 1235680160
   orgName: Uppsalamagasinet Luthagsnytt, UMLN / Strandh-Klefbeck Media KB
@@ -91155,7 +91300,7 @@ entries:
   web: https://cleostarot.wordpress.com/
 
 - entry: 1236122105
-  orgName: Bestorps båtklubb
+  orgName: Bestorps Båtklubb
   orgNumber: 802510-9573
   comment: null
   categories:
@@ -91314,6 +91459,14 @@ entries:
   - intresseförening
   - samhällsförening
   web: https://mansbyn.se/
+
+- entry: 1236133680
+  orgName: Storfors Församling
+  orgNumber: 252004-1969
+  comment: Bastuflotten
+  categories:
+  - bastukultur
+  web: https://www.svenskakyrkan.se/storfors
 
 - entry: 1236133748
   orgName: Föreningen Skånska Gårdar
@@ -97642,6 +97795,15 @@ entries:
   - skoterklubb
   web: https://jarvsoskoterklubb.se/
 
+- entry: 1236541874
+  orgName: Slottsbrons Båtsällskap
+  orgNumber: 874001-6582
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://www.slottsbronsbatsallskap.se/
+
 - entry: 1236543508
   orgName: IK Rössö Uddevalla
   orgNumber: 858500-7290
@@ -98011,6 +98173,15 @@ entries:
   categories:
   - lionsklubb
   web: https://e-clubhouse.org/sites/genarp/
+
+- entry: 1236581250
+  orgName: Guövikens Båtklubb
+  orgNumber: 802422-3961
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://www.guoviken.se/
 
 - entry: 1236581680
   orgName: Ship to Gaza Sverige
