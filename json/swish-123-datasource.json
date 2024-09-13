@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-12-rev-135107",
+    "date": "2024-09-13-rev-121753",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2142,6 +2142,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/spf-seniorerna-billdal/"
+    },
+    {
+      "entry": 1230113225,
+      "orgName": "Sj\u00f6vikens B\u00e5tklubb",
+      "orgNumber": "802529-5752",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.facebook.com/sjovikensbatklubb"
     },
     {
       "entry": 1230113670,
@@ -14623,6 +14634,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spfseniorerna-svanen-alta/"
+    },
+    {
+      "entry": 1230785014,
+      "orgName": "Kisa B\u00e5tklubb",
+      "orgNumber": "802542-8197",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://kisabatklubb.se/"
     },
     {
       "entry": 1230786327,
@@ -42735,6 +42757,17 @@
       "web": "https://www.hogsweden.se/hog-umeachapter"
     },
     {
+      "entry": 1232250793,
+      "orgName": "St\u00e4rn\u00f6 Vindhamns B\u00e5tklubb",
+      "orgNumber": "836201-1440",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://starnobatklubb.com/starno/"
+    },
+    {
       "entry": 1232250819,
       "orgName": "Rytterne Kyrka",
       "orgNumber": "556706-5262",
@@ -52533,6 +52566,19 @@
       "web": "https://www.svenskalag.se/robertsforsskytte"
     },
     {
+      "entry": 1232780278,
+      "orgName": "Smygehuks B\u00e5t & Segelklubb, SBSK",
+      "orgNumber": "847000-3289",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap",
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://www.sbsk.se/"
+    },
+    {
       "entry": 1232782159,
       "orgName": "Caps and Candles for Ukraine - insamling till Ukraina",
       "orgNumber": "802544-3915",
@@ -55873,6 +55919,17 @@
         "beroendeproblematik"
       ],
       "web": "https://www.beroendevardensframtid.se/"
+    },
+    {
+      "entry": 1232980035,
+      "orgName": "Saltsj\u00f6badens B\u00e5tklubb",
+      "orgNumber": "814000-0798",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://saltsjobadensbatklubb.se/"
     },
     {
       "entry": 1232980191,
@@ -87671,6 +87728,17 @@
       "web": "https://hotyogahelsingborg.se/"
     },
     {
+      "entry": 1234829453,
+      "orgName": "Gladans B\u00e5tklubb",
+      "orgNumber": "802403-7650",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://gladansbatklubb.se/"
+    },
+    {
       "entry": 1234829503,
       "orgName": "Ebbas Vandrarhem i Borgholm",
       "orgNumber": "556626-8453",
@@ -88384,6 +88452,17 @@
         "religion"
       ],
       "web": "https://dengodeherden.se/"
+    },
+    {
+      "entry": 1234897625,
+      "orgName": "Sigtuna B\u00e5tklubb, SiBK",
+      "orgNumber": "814800-3174",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://www.sigtunabk.se/"
     },
     {
       "entry": 1234898599,
@@ -94930,7 +95009,8 @@
       "orgNumber": "802006-6505",
       "comment": null,
       "categories": [
-        "b\u00e5tklubb"
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
       ],
       "web": "http://www.arstadalsbatklubb.se/"
     },
@@ -110333,7 +110413,8 @@
       "orgNumber": "849000-9183",
       "comment": null,
       "categories": [
-        "b\u00e5tklubb"
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
       ],
       "web": "http://www.glommensbatklubb.se/"
     },
@@ -119327,6 +119408,17 @@
       "web": "https://lilloringen.se/"
     },
     {
+      "entry": 1236620678,
+      "orgName": "Kolstr\u00f6ms B\u00e5tklubb",
+      "orgNumber": "802430-0694",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "http://kolstromsbk.se/"
+    },
+    {
       "entry": 1236621213,
       "orgName": "Kassj\u00f6 intresse- och bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "894003-6554",
@@ -122511,6 +122603,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://ramshyttan.nu/"
+    },
+    {
+      "entry": 1236778542,
+      "orgName": "Galtab\u00e4ck B\u00e5tklubb, GBK",
+      "orgNumber": "849600-6035",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "https://hamnen.org/"
     },
     {
       "entry": 1236778591,

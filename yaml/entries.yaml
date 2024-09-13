@@ -1772,6 +1772,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/spf-seniorerna-billdal/
 
+- entry: 1230113225
+  orgName: Sjövikens Båtklubb
+  orgNumber: 802529-5752
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://www.facebook.com/sjovikensbatklubb
+
 - entry: 1230113670
   orgName: Sångkören Divertimento
   orgNumber: 844000-7048
@@ -12034,6 +12043,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spfseniorerna-svanen-alta/
+
+- entry: 1230785014
+  orgName: Kisa Båtklubb
+  orgNumber: 802542-8197
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://kisabatklubb.se/
 
 - entry: 1230786327
   orgName: Gula Båten / Millkeeper AB
@@ -35226,6 +35244,15 @@ entries:
   - motorcykelklubb
   web: https://www.hogsweden.se/hog-umeachapter
 
+- entry: 1232250793
+  orgName: Stärnö Vindhamns Båtklubb
+  orgNumber: 836201-1440
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://starnobatklubb.com/starno/
+
 - entry: 1232250819
   orgName: Rytterne Kyrka
   orgNumber: 556706-5262
@@ -43341,6 +43368,17 @@ entries:
   - sportskytteklubb
   web: https://www.svenskalag.se/robertsforsskytte
 
+- entry: 1232780278
+  orgName: Smygehuks Båt & Segelklubb, SBSK
+  orgNumber: 847000-3289
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  - segelklubb
+  - segelsällskap
+  web: https://www.sbsk.se/
+
 - entry: 1232782159
   orgName: Caps and Candles for Ukraine - insamling till Ukraina
   orgNumber: 802544-3915
@@ -46078,6 +46116,15 @@ entries:
   categories:
   - beroendeproblematik
   web: https://www.beroendevardensframtid.se/
+
+- entry: 1232980035
+  orgName: Saltsjöbadens Båtklubb
+  orgNumber: 814000-0798
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://saltsjobadensbatklubb.se/
 
 - entry: 1232980191
   orgName: Formenca AB
@@ -72278,6 +72325,15 @@ entries:
   - yoga
   web: https://hotyogahelsingborg.se/
 
+- entry: 1234829453
+  orgName: Gladans Båtklubb
+  orgNumber: 802403-7650
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://gladansbatklubb.se/
+
 - entry: 1234829503
   orgName: Ebbas Vandrarhem i Borgholm
   orgNumber: 556626-8453
@@ -72862,6 +72918,15 @@ entries:
   categories:
   - religion
   web: https://dengodeherden.se/
+
+- entry: 1234897625
+  orgName: Sigtuna Båtklubb, SiBK
+  orgNumber: 814800-3174
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://www.sigtunabk.se/
 
 - entry: 1234898599
   orgName: Team Rynkeby
@@ -78276,6 +78341,7 @@ entries:
   comment: null
   categories:
   - båtklubb
+  - båtsällskap
   web: http://www.arstadalsbatklubb.se/
 
 - entry: 1235252382
@@ -91005,6 +91071,7 @@ entries:
   comment: null
   categories:
   - båtklubb
+  - båtsällskap
   web: http://www.glommensbatklubb.se/
 
 - entry: 1236096895
@@ -98486,6 +98553,15 @@ entries:
   - sportfiske
   web: https://lilloringen.se/
 
+- entry: 1236620678
+  orgName: Kolströms Båtklubb
+  orgNumber: 802430-0694
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: http://kolstromsbk.se/
+
 - entry: 1236621213
   orgName: Kassjö intresse- och bygdegårdsförening
   orgNumber: 894003-6554
@@ -101118,6 +101194,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://ramshyttan.nu/
+
+- entry: 1236778542
+  orgName: Galtabäck Båtklubb, GBK
+  orgNumber: 849600-6035
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://hamnen.org/
 
 - entry: 1236778591
   orgName: Boxholms Ridklubb
