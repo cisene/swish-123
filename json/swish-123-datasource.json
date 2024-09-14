@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-13-rev-121753",
+    "date": "2024-09-14-rev-164145",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1322,6 +1322,18 @@
       "web": "https://www.filippus.se/"
     },
     {
+      "entry": 1230068296,
+      "orgName": "Eksj\u00f6 Skyttegille",
+      "orgNumber": "802456-0818",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.eksjoskyttegille.se/"
+    },
+    {
       "entry": 1230068510,
       "orgName": "Stens\u00e4tra IF",
       "orgNumber": "885500-3201",
@@ -2358,6 +2370,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.stabk.se/"
+    },
+    {
+      "entry": 1230129593,
+      "orgName": "Oxel\u00f6sunds Skyttegille",
+      "orgNumber": "819000-4948",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://ox-skg.se/"
     },
     {
       "entry": 1230130526,
@@ -11528,6 +11551,18 @@
       "web": "https://www.etharreliefsverige.se/"
     },
     {
+      "entry": 1230613620,
+      "orgName": "H\u00e4rn\u00f6sands Pistolskytteklubb, HPSK",
+      "orgNumber": "802461-7063",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.hpsk.eu/"
+    },
+    {
       "entry": 1230614131,
       "orgName": "Matfors IF",
       "orgNumber": "889200-6282",
@@ -13023,7 +13058,8 @@
       "comment": null,
       "categories": [
         "pistolskytteklubb",
-        "skytteklubb"
+        "skytteklubb",
+        "sportskytteklubb"
       ],
       "web": "https://www.vasteraspistolskyttar.se/"
     },
@@ -16908,6 +16944,18 @@
       "web": "http://fanaticfusion.com/"
     },
     {
+      "entry": 1230878967,
+      "orgName": "D\u00f6derhults Pistolskytteklubb",
+      "orgNumber": "832800-6104",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.doderhultspk.se/"
+    },
+    {
       "entry": 1230879080,
       "orgName": "Svenska Kryssarklubben SXK",
       "orgNumber": "802001-8878",
@@ -19815,6 +19863,16 @@
         "religion"
       ],
       "web": "https://kungsor.pingst.se/"
+    },
+    {
+      "entry": 1231022508,
+      "orgName": "Scandinavian Wilderness Experience AB",
+      "orgNumber": "559288-6047",
+      "comment": null,
+      "categories": [
+        "utbildning"
+      ],
+      "web": "https://scandiwild.se/"
     },
     {
       "entry": 1231022599,
@@ -23476,7 +23534,8 @@
       "orgNumber": "802467-1011",
       "comment": null,
       "categories": [
-        "jaktskytteklubb"
+        "jaktskytteklubb",
+        "skytteklubb"
       ],
       "web": "http://www.satersjaktskytte.se/"
     },
@@ -28416,6 +28475,7 @@
       "comment": null,
       "categories": [
         "pistolskytteklubb",
+        "skytteklubb",
         "sportskytteklubb"
       ],
       "web": "http://www.kpsk.se/"
@@ -29314,6 +29374,18 @@
         "kl\u00e4tterklubb"
       ],
       "web": "https://lysekilsklatterklubb.wordpress.com/"
+    },
+    {
+      "entry": 1231508373,
+      "orgName": "Motala Pistolklubb",
+      "orgNumber": "824000-7867",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://motalapk.se/"
     },
     {
       "entry": 1231508589,
@@ -31443,6 +31515,18 @@
         "tr\u00e4ning"
       ],
       "web": "https://easygym.fi/"
+    },
+    {
+      "entry": 1231625953,
+      "orgName": "Handens Pistolskytteklubb, HPSK",
+      "orgNumber": "802431-8175",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.hpsk.se/"
     },
     {
       "entry": 1231626001,
@@ -35347,6 +35431,18 @@
       "web": "https://www.hembygd.se/frosunda"
     },
     {
+      "entry": 1231834977,
+      "orgName": "Sundsvalls Pistolskytteklubb",
+      "orgNumber": "889201-6208",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.sundsvallspk.se/"
+    },
+    {
       "entry": 1231835420,
       "orgName": "Nygammal Dansf\u00f6rening, NGDF",
       "orgNumber": "878000-6428",
@@ -37265,6 +37361,17 @@
         "sportfiske"
       ],
       "web": "http://www.rengsjofiske.se/"
+    },
+    {
+      "entry": 1231962828,
+      "orgName": "H\u00e4lsingborgs Jaktskytteklubb",
+      "orgNumber": "843002-0498",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.hbgjsk.se/"
     },
     {
       "entry": 1231963024,
@@ -39226,6 +39333,18 @@
         "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
+    },
+    {
+      "entry": 1232089449,
+      "orgName": "Atlas Copco Pistolskytteklubb, ACPK",
+      "orgNumber": "802457-6467",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://acpk.org/"
     },
     {
       "entry": 1232091304,
@@ -48276,6 +48395,17 @@
       "web": "https://www.annasveranda.se/"
     },
     {
+      "entry": 1232579910,
+      "orgName": "Sandvikens skyttegille",
+      "orgNumber": "885500-6527",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.sandvikensskyttegille.se/"
+    },
+    {
       "entry": 1232580041,
       "orgName": "G\u00e4vle JazzClub",
       "orgNumber": "885001-1910",
@@ -50740,6 +50870,17 @@
       "web": "https://rotarykatrineholm.se/"
     },
     {
+      "entry": 1232697241,
+      "orgName": "Arvika Jaktskytteklubb",
+      "orgNumber": "872000-7098",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "http://www.arvikajsk.net/"
+    },
+    {
       "entry": 1232697316,
       "orgName": "Roslagsbro IF",
       "orgNumber": "814400-5223",
@@ -53140,6 +53281,17 @@
       "web": "https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/filbyterlinkoping/"
     },
     {
+      "entry": 1232810133,
+      "orgName": "Alings\u00e5sortens Jaktskyttef\u00f6rening",
+      "orgNumber": "802503-2908",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.facebook.com/profile.php?id=100064863123492"
+    },
+    {
       "entry": 1232810653,
       "orgName": "Dalby V\u00e4ster\u00e5ker Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "817605-7357",
@@ -54061,6 +54213,18 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.ystad.se/fritid/ungdomens-hus-och-avalla-skatepark/"
+    },
+    {
+      "entry": 1232862597,
+      "orgName": "Ljuster\u00f6 Jakt & Sportskytteklubb",
+      "orgNumber": "812000-5205",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://ljustero-jsk.se/"
     },
     {
       "entry": 1232862639,
@@ -58238,6 +58402,17 @@
       "web": "https://www.svenskalag.se/tvarskogs-mk"
     },
     {
+      "entry": 1233114436,
+      "orgName": "M\u00e5lillaortens Jaktskytteklubb",
+      "orgNumber": "833200-5126",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.malillajsk.se/"
+    },
+    {
       "entry": 1233114535,
       "orgName": "Ersmarks IK",
       "orgNumber": "894001-6606",
@@ -60122,6 +60297,17 @@
       "web": "https://vgk.nu/"
     },
     {
+      "entry": 1233217890,
+      "orgName": "Tystberga Jaktskyteklubb",
+      "orgNumber": "802500-9658",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://tystbergajsk.se/"
+    },
+    {
       "entry": 1233218245,
       "orgName": "Sala Konstf\u00f6rening - Aguelimuseet",
       "orgNumber": "979500-2212",
@@ -60857,6 +61043,18 @@
         "kommunalt"
       ],
       "web": "https://sjobohem.se/"
+    },
+    {
+      "entry": 1233263928,
+      "orgName": "Sundsvalls Sportskytteklubb",
+      "orgNumber": "889202-8724",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.s-ssk.se/"
     },
     {
       "entry": 1233264009,
@@ -70374,6 +70572,17 @@
       "web": "https://www.guif.nu/"
     },
     {
+      "entry": 1233793205,
+      "orgName": "Norr\u00e5kers Jaktskytteklubb",
+      "orgNumber": "893201-6150",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.facebook.com/profile.php?id=100064499749574"
+    },
+    {
       "entry": 1233794237,
       "orgName": "Karlskrona Hockeyklubb",
       "orgNumber": "835001-2327",
@@ -70993,6 +71202,18 @@
         "stiftelse"
       ],
       "web": "https://kevinstiftelsen.se/"
+    },
+    {
+      "entry": 1233831161,
+      "orgName": "Falsterbon\u00e4sets Pistolskytteklubb",
+      "orgNumber": "802419-0616",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "http://www.falsterbonasetspistolskytteklubb.se/"
     },
     {
       "entry": 1233831484,
@@ -74655,6 +74876,17 @@
       "web": "https://www.etc.se/"
     },
     {
+      "entry": 1234018883,
+      "orgName": "G\u00f6tene Skyttegille",
+      "orgNumber": "802488-7195",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.goteneskyttegille.se/"
+    },
+    {
       "entry": 1234018909,
       "orgName": "\u00d6stra SK J\u00f6nk\u00f6ping",
       "orgNumber": "826001-1609",
@@ -77323,6 +77555,18 @@
       "web": "https://www.laget.se/LekebergsIF/"
     },
     {
+      "entry": 1234195947,
+      "orgName": "Falk\u00f6pings Sportskytteklubb",
+      "orgNumber": "867800-4782",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.laget.se/FalkopingsSpSK/"
+    },
+    {
       "entry": 1234196226,
       "orgName": "H\u00f6gbergskyrkans F\u00f6rsamling",
       "orgNumber": "883800-7998",
@@ -79652,6 +79896,18 @@
       "web": "https://www.jarnakonstnarsforening.se/"
     },
     {
+      "entry": 1234317806,
+      "orgName": "Falk\u00f6pings Sportskytteklubb",
+      "orgNumber": "867800-4782",
+      "comment": "Medlemsavgift",
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.laget.se/FalkopingsSpSK/"
+    },
+    {
       "entry": 1234318911,
       "orgName": "Lektema c/o Envelop AB",
       "orgNumber": "559080-1121",
@@ -81928,6 +82184,18 @@
       "web": "https://www.vannasrf.com/"
     },
     {
+      "entry": 1234480265,
+      "orgName": "Lillsj\u00f6ns Pistolskytteklubb",
+      "orgNumber": "802503-7840",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "http://http//www.lillsjons-psk.se"
+    },
+    {
       "entry": 1234480752,
       "orgName": "Lima Fiskev\u00e5rdsf\u00f6rening i Malung",
       "orgNumber": "884401-0762",
@@ -81948,6 +82216,18 @@
         "religion"
       ],
       "web": "https://www.ordet.com/"
+    },
+    {
+      "entry": 1234482311,
+      "orgName": "H\u00e5tuna Pistol & Sportskytteklubb, HPSSK",
+      "orgNumber": "802454-6270",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://hpssk.se/"
     },
     {
       "entry": 1234482675,
@@ -89900,6 +90180,18 @@
       "web": "https://www.unizonjourer.se/kvinnojourenkalmar/"
     },
     {
+      "entry": 1234989018,
+      "orgName": "Falk\u00f6pings Sportskytteklubb",
+      "orgNumber": "867800-4782",
+      "comment": "J\u00e4garexamen, kiosk/kafeteria",
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.laget.se/FalkopingsSpSK/"
+    },
+    {
       "entry": 1234989950,
       "orgName": "Team Rynkeby",
       "orgNumber": "802537-0241",
@@ -92595,6 +92887,17 @@
       "web": "https://www.ifk.nu/"
     },
     {
+      "entry": 1235123633,
+      "orgName": "Bredareds Sportskytteklubb",
+      "orgNumber": "864500-8650",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.bredaredssportskytteklubb.se/"
+    },
+    {
       "entry": 1235123831,
       "orgName": "F\u00f6reningen Gotlandst\u00e5get",
       "orgNumber": "834000-8245",
@@ -94001,6 +94304,17 @@
       "web": "https://gronby.se/"
     },
     {
+      "entry": 1235175930,
+      "orgName": "Brattvalls Jaktskytteklubb",
+      "orgNumber": "894002-2588",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://brattvallsjsk.se/"
+    },
+    {
       "entry": 1235175955,
       "orgName": "Rotary Malm\u00f6 S\u00f6dra",
       "orgNumber": "846003-5291",
@@ -95068,6 +95382,18 @@
         "musik"
       ],
       "web": "https://brobygoif.se/dans-i-broby/"
+    },
+    {
+      "entry": 1235253638,
+      "orgName": "Olofstr\u00f6ms Pistolskytteklubb",
+      "orgNumber": "836200-2928",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.olofstromspk.se/"
     },
     {
       "entry": 1235255492,
@@ -97752,6 +98078,17 @@
       "web": "https://pro.se/distrikt/distrikt-halland/samorganisationer/samorganisation-laholm/foreningar/laholm.html"
     },
     {
+      "entry": 1235394606,
+      "orgName": "Fliseryds Jaktskytteklubb",
+      "orgNumber": "802452-7502",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://fjsk.nu/"
+    },
+    {
       "entry": 1235394671,
       "orgName": "Svenska Hovv\u00e5rdares Riksf\u00f6rbund, SHR",
       "orgNumber": "802492-0285",
@@ -100121,6 +100458,18 @@
         "sims\u00e4llskap"
       ],
       "web": "https://www.kbss.nu/"
+    },
+    {
+      "entry": 1235526785,
+      "orgName": "Orsa Pistolskytteklubb",
+      "orgNumber": "802427-4154",
+      "comment": null,
+      "categories": [
+        "pistolskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://orsapsk.com/"
     },
     {
       "entry": 1235526843,
@@ -102533,6 +102882,17 @@
       "web": "https://bkmarbo.se/"
     },
     {
+      "entry": 1235635917,
+      "orgName": "V\u00e4xj\u00f6 Jaktskytteklubb",
+      "orgNumber": "829501-6250",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://vaxjojsk.se/"
+    },
+    {
       "entry": 1235636352,
       "orgName": "F\u00f6reningen Mot B\u00e4ttre Vetande",
       "orgNumber": "857203-4745",
@@ -103402,6 +103762,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235690656,
+      "orgName": "Tysslinge Skytteklubb",
+      "orgNumber": "875002-5697",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "http://wp.tysslinge-skytteklubb.nu/"
     },
     {
       "entry": 1235690748,
@@ -111994,6 +112365,17 @@
       "web": "https://www.laget.se/MarieboIK/"
     },
     {
+      "entry": 1236177372,
+      "orgName": "Ume\u00e5 Jaktskytteklubb",
+      "orgNumber": "894003-6661",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.umeajsk.se/"
+    },
+    {
       "entry": 1236177422,
       "orgName": "Kvinnojouren i Sandviken",
       "orgNumber": "885500-7715",
@@ -112103,6 +112485,7 @@
       "orgNumber": "893202-6134",
       "comment": null,
       "categories": [
+        "pistolskytteklubb",
         "skytteklubb",
         "sportskytteklubb"
       ],
@@ -113165,6 +113548,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1236243067,
+      "orgName": "K\u00e5ger\u00f6ds Skyttegille",
+      "orgNumber": "844000-7774",
+      "comment": null,
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://kagerodsskyttegille.klubbenonline.se/"
+    },
+    {
       "entry": 1236243497,
       "orgName": "Makers J\u00f6nk\u00f6ping",
       "orgNumber": "802508-4297",
@@ -113617,6 +114011,18 @@
         "scoutk\u00e5r"
       ],
       "web": "https://katrineholm.scout.se/"
+    },
+    {
+      "entry": 1236263131,
+      "orgName": "Norrahammars Jakt- och Sportskytteklubb",
+      "orgNumber": "826000-9173",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.njssk.se/"
     },
     {
       "entry": 1236265086,
@@ -119655,6 +120061,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://ka2if.sportadmin.se/"
+    },
+    {
+      "entry": 1236637060,
+      "orgName": "Villingsbergs Jaktskytteklubb",
+      "orgNumber": "802459-8651",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb",
+        "skytteklubb"
+      ],
+      "web": "https://www.villingsbergs-jsk.se/"
     },
     {
       "entry": 1236638308,
