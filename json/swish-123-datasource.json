@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-16-rev-144706",
+    "date": "2024-09-16-rev-163603",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1213,6 +1213,16 @@
         "travs\u00e4llskap"
       ],
       "web": "https://www.hagmyren.se/"
+    },
+    {
+      "entry": 1230064253,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Siken",
+      "orgNumber": "712400-1426",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/siken/"
     },
     {
       "entry": 1230064337,
@@ -6140,6 +6150,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/RoslagsbroIF/"
+    },
+    {
+      "entry": 1230321141,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Gyllene Tiden",
+      "orgNumber": "769609-6564",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://gyllenetiden.bostadsratterna.se/"
     },
     {
       "entry": 1230321265,
@@ -13941,6 +13961,16 @@
       "web": "https://www.parkinsonforbundet.se/"
     },
     {
+      "entry": 1230743328,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Kolar\u00e4ngen",
+      "orgNumber": "716416-4951",
+      "comment": "G\u00e4strum Teknikv\u00e4gen",
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/kolarangen/"
+    },
+    {
       "entry": 1230743591,
       "orgName": "Lions Club Karlskrona",
       "orgNumber": "935000-4223",
@@ -16001,6 +16031,18 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/eksjotjejjour/"
+    },
+    {
+      "entry": 1230844910,
+      "orgName": "Dooman Teknik AB",
+      "orgNumber": "556153-3794",
+      "comment": null,
+      "categories": [
+        "bostadsanpassning",
+        "fastighetsutveckling",
+        "f\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://www.dooman.se/"
     },
     {
       "entry": 1230844944,
@@ -26436,6 +26478,16 @@
       "web": "https://svenskarikslagen.se/"
     },
     {
+      "entry": 1231367119,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Fr\u00e4mby G\u00e5rd",
+      "orgNumber": "716412-7230",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/malardalarna/brf/Framby_gard/"
+    },
+    {
       "entry": 1231367374,
       "orgName": "Sk\u00e4rg\u00e5rdens SK",
       "orgNumber": "857203-4810",
@@ -36779,6 +36831,16 @@
       "web": "https://www.svenskalag.se/angelholmssf"
     },
     {
+      "entry": 1231901222,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen R\u00f6nnen i M\u00e4rsta",
+      "orgNumber": "716417-8936",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://hsbronnen.se/"
+    },
+    {
       "entry": 1231901487,
       "orgName": "Tv\u00e5\u00e5kers IF",
       "orgNumber": "849600-2562",
@@ -36919,6 +36981,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://assistanskoll.se/"
+    },
+    {
+      "entry": 1231910181,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Svetsaren",
+      "orgNumber": "713200-0923",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/svetsaren/"
     },
     {
       "entry": 1231910439,
@@ -37282,6 +37354,18 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/borrum/"
+    },
+    {
+      "entry": 1231950781,
+      "orgName": "Hantverk och Design i Hedemora",
+      "orgNumber": "802418-7026",
+      "comment": null,
+      "categories": [
+        "design",
+        "handarbeten",
+        "hantverk"
+      ],
+      "web": "https://hantverkochdesign.123minsida.se/"
     },
     {
       "entry": 1231951136,
@@ -47810,6 +47894,16 @@
       "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/kronoberg/"
     },
     {
+      "entry": 1232525087,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Koltrasten",
+      "orgNumber": "716460-2976",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://brfkoltrasten.se/"
+    },
+    {
       "entry": 1232525160,
       "orgName": "Bridging Health Development, Bombali Health Development",
       "orgNumber": "802508-9874",
@@ -48368,6 +48462,17 @@
       "web": "https://sanktlukas.se/bromma/"
     },
     {
+      "entry": 1232565737,
+      "orgName": "Renoveringsraseriet",
+      "orgNumber": "802528-9425",
+      "comment": null,
+      "categories": [
+        "byggnadsv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://renoveringsraseriet.se/"
+    },
+    {
       "entry": 1232566313,
       "orgName": "Villa Sunshine AB",
       "orgNumber": "559207-8553",
@@ -48676,6 +48781,16 @@
         "brottsofferjour"
       ],
       "web": "https://www.brottsofferjouren.se/"
+    },
+    {
+      "entry": 1232588093,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Skarp\u00f6h\u00f6jden i Nacka",
+      "orgNumber": "769611-7006",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/skarpohojden/"
     },
     {
       "entry": 1232588200,
@@ -49572,6 +49687,16 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://kedjebacken.se/"
+    },
+    {
+      "entry": 1232636165,
+      "orgName": "Hj\u00e4lp Oss Att Hj\u00e4lpa Andra",
+      "orgNumber": "802488-2857",
+      "comment": null,
+      "categories": [
+        "sociala insatser"
+      ],
+      "web": "https://www.facebook.com/hjalposs/"
     },
     {
       "entry": 1232636272,
@@ -57947,6 +58072,16 @@
       "web": "https://listenerswithoutborders.org/"
     },
     {
+      "entry": 1233059821,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Furan",
+      "orgNumber": "785500-0662",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/sodra-norrland/brf/furan/"
+    },
+    {
       "entry": 1233059953,
       "orgName": "WT-Metall Norden AB",
       "orgNumber": "556788-3789",
@@ -62536,6 +62671,16 @@
       "web": "https://et.scout.se/"
     },
     {
+      "entry": 1233338738,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Trumman",
+      "orgNumber": "746000-5643",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "http://www.brftrumman.se/"
+    },
+    {
       "entry": 1233339611,
       "orgName": "IFK Eskilstuna",
       "orgNumber": "818000-1144",
@@ -63147,6 +63292,16 @@
         "hundsport"
       ],
       "web": "https://gosdaturacatala.se/"
+    },
+    {
+      "entry": 1233375482,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Kolar\u00e4ngen",
+      "orgNumber": "716416-4951",
+      "comment": "G\u00e4strum Turbingr\u00e4nd",
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/kolarangen/"
     },
     {
       "entry": 1233375672,
@@ -74872,6 +75027,16 @@
       "web": "https://www.svenskalag.se/bifsk"
     },
     {
+      "entry": 1234005450,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen S\u00f6der\u00e4ngen i H\u00f6rby",
+      "orgNumber": "742000-0700",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/skane/brf/soderangen/"
+    },
+    {
       "entry": 1234005864,
       "orgName": "SKPF Pension\u00e4rerna, avd 110 Distrikt Norrt\u00e4lje",
       "orgNumber": "802430-1262",
@@ -74974,6 +75139,17 @@
         "juridiska tj\u00e4nster"
       ],
       "web": "https://zeijersborger.se/"
+    },
+    {
+      "entry": 1234013306,
+      "orgName": "Minnebergs Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716418-9693",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening",
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/minnebergs-sam/"
     },
     {
       "entry": 1234013868,
@@ -81142,6 +81318,16 @@
         "bridgeklubb"
       ],
       "web": "https://www.svenskbridge.se/sollefte\u00e5-bk"
+    },
+    {
+      "entry": 1234398756,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen J\u00e4mlikheten i Malm\u00f6",
+      "orgNumber": "746000-5924",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/malmo/brf/jamlikheten/"
     },
     {
       "entry": 1234400818,
@@ -89362,6 +89548,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234924106,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Rubinen i Nacka",
+      "orgNumber": "714000-1996",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/rubinen/"
     },
     {
       "entry": 1234925095,
@@ -100293,6 +100489,16 @@
       "web": "https://www.munskankarna.se/sv/regioner/ostra/kisa/"
     },
     {
+      "entry": 1235493747,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Stockholmshus nr 37",
+      "orgNumber": "716419-1418",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://stockholmshus37.se/"
+    },
+    {
       "entry": 1235502059,
       "orgName": "Kvinnojouren I Sundberg",
       "orgNumber": "802494-5928",
@@ -102972,6 +103178,16 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "http://www.akallahojden.se/"
+    },
+    {
+      "entry": 1235619556,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Kolar\u00e4ngen",
+      "orgNumber": "716416-4951",
+      "comment": "Samlingslokal Teknikv\u00e4gen",
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/kolarangen/"
     },
     {
       "entry": 1235619572,
@@ -114712,6 +114928,16 @@
       "web": "https://www.pediatrichealthinitiative.com/"
     },
     {
+      "entry": 1236272322,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Kolar\u00e4ngen",
+      "orgNumber": "716416-4951",
+      "comment": "Samlingslokal Turbingr\u00e4nd",
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/kolarangen/"
+    },
+    {
       "entry": 1236272868,
       "orgName": "Spr\u00e5kl\u00e4rarnas Riksf\u00f6rbund",
       "orgNumber": "802002-2029",
@@ -116452,6 +116678,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1236374631,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Pinneberget",
+      "orgNumber": "716444-6382",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/goteborg/brf/Pinneberget/"
+    },
+    {
       "entry": 1236378566,
       "orgName": "Stockholms Gitarrakademi / Emil Kjellbom",
       "orgNumber": "741225-XXXX",
@@ -117987,7 +118223,6 @@
       "orgNumber": "775000-1062",
       "comment": null,
       "categories": [
-        "bostad",
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://www.hsb.se/malardalarna/brf/taget/"
@@ -120805,6 +121040,16 @@
         "stiftelse"
       ],
       "web": "http://www.welcometoladan.nu/"
+    },
+    {
+      "entry": 1236644520,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Agaten",
+      "orgNumber": "714000-1970",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/agaten/"
     },
     {
       "entry": 1236644801,
