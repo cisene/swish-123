@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2024-09-16-rev-142806
+Date: 2024-09-16-rev-144730
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -1036,7 +1036,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1230573246"><organization><number>802534-7413</number><name>Täby Discgolfklubb</name></organization><comment/><categories><category type="discgolfbana"/><category type="discgolfklubb"/></categories><web>https://tabydiscgolfklubb.se/</web></entry>
     <entry number="1230573360"><organization><number>813200-5425</number><name>Experimental Aircraft Association - EAA Sverige</name></organization><comment/><categories><category type="flygsport"/><category type="intresseförening"/></categories><web>https://eaa.se/</web></entry>
     <entry number="1230574301"><organization><number>802002-8711</number><name>Svenska Röda Korset</name></organization><comment>Ukraina</comment><categories><category type="hjälporganisation"/><category type="insamling"/><category type="ukraina"/></categories><web>https://www.rodakorset.se/</web></entry>
-    <entry number="1230574582"><organization><number>769605-4852</number><name>Bostadsrättsförening Torpet</name></organization><comment/><categories><category type="bostadsrättsförening"/></categories><web>https://www.torpet.ac/</web></entry>
+    <entry number="1230574582"><organization><number>769605-4852</number><name>Bostadsrättsföreningen Torpet</name></organization><comment/><categories><category type="bostadsrättsförening"/></categories><web>https://www.torpet.ac/</web></entry>
     <entry number="1230575027"><organization><number>559327-9804</number><name>Körkortscenter Göteborg AB</name></organization><comment/><categories><category type="trafikskola"/></categories><web>https://korkortscentergbg.se/</web></entry>
     <entry number="1230575969"><organization><number>802471-0587</number><name>Unga mot Antisemitism &amp; Främlingsfientlighet, UMAF</name></organization><comment/><categories><category type="intresseförening"/></categories><web>https://umaf.se/</web></entry>
     <entry number="1230576884"><organization><number>556187-3299</number><name>Insamlingsstilftelsen Stadium</name></organization><comment/><categories><category type="stiftelse"/></categories><web>https://www.stadium.se/sustainability/sustainability-collaborations-and-initiative/sustainability-initiativ-stadium-foundation</web></entry>
@@ -5106,7 +5106,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1232917227"><organization><number>802489-1577</number><name>Vreta IF</name></organization><comment/><categories><category type="idrottsförening"/></categories><web>https://www.laget.se/VretaIF/</web></entry>
     <entry number="1232917326"><organization><number>252002-8388</number><name>Gråbröderna Jönköping</name></organization><comment/><categories><category type="religion"/></categories><web>https://www.katolskajonkoping.com/historia-grabroderna</web></entry>
     <entry number="1232917482"><organization><number>252001-4446</number><name>Sävedalens Församling</name></organization><comment>Ungdomsverksamhet Sävedalens församling</comment><categories><category type="religion"/></categories><web>https://www.svenskakyrkan.se/partille</web></entry>
-    <entry number="1232918118"><organization><number>716407-1743</number><name>Bostadsrättsförening Fågelsången i Helsingborg</name></organization><comment/><categories><category type="bostadsrättsförening"/></categories><web>https://www.brf-fagelsangen-hbg.se/</web></entry>
+    <entry number="1232918118"><organization><number>716407-1743</number><name>Bostadsrättsföreningen Fågelsången i Helsingborg</name></organization><comment/><categories><category type="bostadsrättsförening"/></categories><web>https://www.brf-fagelsangen-hbg.se/</web></entry>
     <entry number="1232918159"><organization><number>889201-0052</number><name>Selångers Hembygdsförening</name></organization><comment/><categories><category type="hembygdsförening"/></categories><web>https://www.hembygd.se/selangers-hembygdsforening</web></entry>
     <entry number="1232918282"><organization><number>846002-1531</number><name>Lions Club Svedala</name></organization><comment/><categories><category type="lionsklubb"/></categories><web>https://e-clubhouse.org/sites/svedala/</web></entry>
     <entry number="1232918522"><organization><number>802505-9208</number><name>Nema Problema</name></organization><comment/><categories><category type="förening"/></categories><web>http://www.nemaproblema.se/</web></entry>
@@ -10888,7 +10888,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1236500722"><organization><number>802533-7869</number><name>Team Rynkeby</name></organization><comment>Stockholm, Träkvista skola</comment><categories><category type="cancerforskning"/><category type="forskning"/><category type="hjärnforskning"/></categories><web>https://www.team-rynkeby.se/</web></entry>
     <entry number="1236500763"><organization><number>802532-7506</number><name>Team Rynkeby</name></organization><comment>Helsingborg, Jonstorpsskolan</comment><categories><category type="cancerforskning"/><category type="forskning"/><category type="hjärnforskning"/></categories><web>https://www.team-rynkeby.se/</web></entry>
     <entry number="1236502116"><organization><number>252001-5377</number><name>Brastads Församling</name></organization><comment/><categories><category type="religion"/></categories><web>https://www.svenskakyrkan.se/lysekils-pastorat/bro--brastad</web></entry>
-    <entry number="1236504989"><organization><number>714000-1970</number><name>Bostadsrättsförening Agaten</name></organization><comment/><categories><category type="bostadsrättsförening"/></categories><web>https://www.agaten.se/</web></entry>
+    <entry number="1236504989"><organization><number>714000-1970</number><name>Bostadsrättsföreningen Agaten</name></organization><comment/><categories><category type="bostadsrättsförening"/></categories><web>https://www.agaten.se/</web></entry>
     <entry number="1236505119"><organization><number>845000-9710</number><name>Dösjebro Scoutkår</name></organization><comment/><categories><category type="scoutkår"/></categories><web>https://dosjebro.scout.se/</web></entry>
     <entry number="1236506406"><organization><number>883202-1797</number><name>Leksands Friidrottsklubb</name></organization><comment/><categories><category type="friidrottsförening"/><category type="idrottsförening"/></categories><web>https://www.svenskalag.se/lfik</web></entry>
     <entry number="1236506562"><organization><number>802533-7869</number><name>Team Rynkeby</name></organization><comment>Stockholm, Hagaskolan</comment><categories><category type="cancerforskning"/><category type="forskning"/><category type="hjärnforskning"/></categories><web>https://www.team-rynkeby.se/</web></entry>

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-09-16-rev-142749
+# Date: 2024-09-16-rev-144714
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1036,7 +1036,7 @@
 "1230573246","802534-7413","Täby Discgolfklubb","https://tabydiscgolfklubb.se/","discgolfbana,discgolfklubb",""
 "1230573360","813200-5425","Experimental Aircraft Association - EAA Sverige","https://eaa.se/","flygsport,intresseförening",""
 "1230574301","802002-8711","Svenska Röda Korset","https://www.rodakorset.se/","hjälporganisation,insamling,ukraina","Ukraina"
-"1230574582","769605-4852","Bostadsrättsförening Torpet","https://www.torpet.ac/","bostadsrättsförening",""
+"1230574582","769605-4852","Bostadsrättsföreningen Torpet","https://www.torpet.ac/","bostadsrättsförening",""
 "1230575027","559327-9804","Körkortscenter Göteborg AB","https://korkortscentergbg.se/","trafikskola",""
 "1230575969","802471-0587","Unga mot Antisemitism & Främlingsfientlighet, UMAF","https://umaf.se/","intresseförening",""
 "1230576884","556187-3299","Insamlingsstilftelsen Stadium","https://www.stadium.se/sustainability/sustainability-collaborations-and-initiative/sustainability-initiativ-stadium-foundation","stiftelse",""
@@ -5106,7 +5106,7 @@
 "1232917227","802489-1577","Vreta IF","https://www.laget.se/VretaIF/","idrottsförening",""
 "1232917326","252002-8388","Gråbröderna Jönköping","https://www.katolskajonkoping.com/historia-grabroderna","religion",""
 "1232917482","252001-4446","Sävedalens Församling","https://www.svenskakyrkan.se/partille","religion","Ungdomsverksamhet Sävedalens församling"
-"1232918118","716407-1743","Bostadsrättsförening Fågelsången i Helsingborg","https://www.brf-fagelsangen-hbg.se/","bostadsrättsförening",""
+"1232918118","716407-1743","Bostadsrättsföreningen Fågelsången i Helsingborg","https://www.brf-fagelsangen-hbg.se/","bostadsrättsförening",""
 "1232918159","889201-0052","Selångers Hembygdsförening","https://www.hembygd.se/selangers-hembygdsforening","hembygdsförening",""
 "1232918282","846002-1531","Lions Club Svedala","https://e-clubhouse.org/sites/svedala/","lionsklubb",""
 "1232918522","802505-9208","Nema Problema","http://www.nemaproblema.se/","förening",""
@@ -10888,7 +10888,7 @@
 "1236500722","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Stockholm, Träkvista skola"
 "1236500763","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Jonstorpsskolan"
 "1236502116","252001-5377","Brastads Församling","https://www.svenskakyrkan.se/lysekils-pastorat/bro--brastad","religion",""
-"1236504989","714000-1970","Bostadsrättsförening Agaten","https://www.agaten.se/","bostadsrättsförening",""
+"1236504989","714000-1970","Bostadsrättsföreningen Agaten","https://www.agaten.se/","bostadsrättsförening",""
 "1236505119","845000-9710","Dösjebro Scoutkår","https://dosjebro.scout.se/","scoutkår",""
 "1236506406","883202-1797","Leksands Friidrottsklubb","https://www.svenskalag.se/lfik","friidrottsförening,idrottsförening",""
 "1236506562","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Stockholm, Hagaskolan"
