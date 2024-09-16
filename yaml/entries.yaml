@@ -1903,6 +1903,14 @@ entries:
   - musikproduktion
   web: https://www.domusicrecords.com/
 
+- entry: 1230123794
+  orgName: Brf Diamanten i Tyresö
+  orgNumber: 769609-7752
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.brf-diamanten.se/
+
 - entry: 1230124206
   orgName: Kungsportskyrkan
   orgNumber: 826000-3648
@@ -17387,6 +17395,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/lgmfotboll
 
+- entry: 1231080746
+  orgName: Brf Lärkträdet i Karlskrona
+  orgNumber: 735000-2809
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.brf-larktradet.se/
+
 - entry: 1231081652
   orgName: Torsby Båtklubb
   orgNumber: 874000-7847
@@ -24297,6 +24313,14 @@ entries:
   - kvinnojour
   web: https://www.unizonjourer.se/kvinnojourenmoa/
 
+- entry: 1231508779
+  orgName: Svenska Skyttesportförbundet
+  orgNumber: 802003-1707
+  comment: null
+  categories:
+  - idrottsförbund
+  web: https://www.skyttesport.se/
+
 - entry: 1231509090
   orgName: Lövslättens Hästklubb
   orgNumber: 802500-6720
@@ -26488,6 +26512,14 @@ entries:
   - havsvård
   - naturvård
   web: https://www.raceforthebaltic.com/
+
+- entry: 1231660893
+  orgName: Brf Västeråshus 23
+  orgNumber: 778000-5075
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://23an.se/
 
 - entry: 1231661339
   orgName: SPF Seniorerna Sagsjön, Kållered och Lindome
@@ -38155,7 +38187,7 @@ entries:
   web: http://lions.hogsby.net/
 
 - entry: 1232404507
-  orgName: Drivkraft Malmö Ideell Förening
+  orgName: Drivkraft Malmö
   orgNumber: 802463-2484
   comment: null
   categories:
@@ -46359,6 +46391,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/EskilstunaCityFK/
 
+- entry: 1232977395
+  orgName: Brf Strandpiparen 1934
+  orgNumber: 757200-8998
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://strandpiparen1934.com/
+
 - entry: 1232979110
   orgName: Beroendevårdens Framtid
   orgNumber: 802526-5110
@@ -51628,6 +51668,16 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/sjuharadsbasketbollforening
 
+- entry: 1233344413
+  orgName: Radiosol
+  orgNumber: 802441-6029
+  comment: null
+  categories:
+  - lokalradio
+  - mediaproduktion
+  - närradiostation
+  web: https://www.radiosol.se/
+
 - entry: 1233348109
   orgName: Trosabygdens Konstförening
   orgNumber: 802526-8965
@@ -51833,7 +51883,7 @@ entries:
   web: https://www.laget.se/vsku_f14/
 
 - entry: 1233357456
-  orgName: Amnesty Sàpmi
+  orgName: Amnesty Sápmi
   orgNumber: 802538-0661
   comment: null
   categories:
@@ -52482,6 +52532,14 @@ entries:
   categories:
   - religion
   web: http://www.baptistkyrkan.com/
+
+- entry: 1233387875
+  orgName: Brf Hemmet 17
+  orgNumber: 769605-2161
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hemmet17.se/
 
 - entry: 1233388022
   orgName: Staffanstorp United
@@ -63591,6 +63649,14 @@ entries:
   - ridklubb
   web: https://www.facebook.com/Aulishastsportklubb/
 
+- entry: 1234166021
+  orgName: Solanderleden
+  orgNumber: 802522-1733
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.solanderleden.se/
+
 - entry: 1234166773
   orgName: PRO Karlshamn
   orgNumber: 836200-0815
@@ -66169,6 +66235,14 @@ entries:
   - turism
   web: https://www.stiftelsenbohusfastning.se/
 
+- entry: 1234331294
+  orgName: Brf Norrköpingshus nr 32
+  orgNumber: 716402-6242
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://brf32.com/
+
 - entry: 1234331609
   orgName: Djurskyddet Skaraborg
   orgNumber: 802422-6493
@@ -67457,6 +67531,14 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.laget.se/SollefteaGymnastik/
+
+- entry: 1234424933
+  orgName: Bostadsrättsföreningen Brofästet 1 i Åkersberga
+  orgNumber: 716422-0357
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://brofastet1.bostadsratterna.se/
 
 - entry: 1234425377
   orgName: The Humane school / Föreningen Sofia
@@ -69581,6 +69663,14 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/lerkil/
 
+- entry: 1234583001
+  orgName: Brf Rödshöjden i Strömstad
+  orgNumber: 716408-5685
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.rodshojden.se/
+
 - entry: 1234584314
   orgName: Kalix Golfklubb
   orgNumber: 898200-4999
@@ -70083,6 +70173,14 @@ entries:
   categories:
   - intresseförening
   web: https://dels.nu/
+
+- entry: 1234616256
+  orgName: Bostadsrättsföreningen Essinge Mälarstrand
+  orgNumber: 769608-5526
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://essingemalarstrand.bostadsratterna.se/
 
 - entry: 1234616348
   orgName: FBC Viljan
@@ -73451,6 +73549,14 @@ entries:
   - podcast
   web: https://shows.acast.com/maxvillman
 
+- entry: 1234903217
+  orgName: Brf Paulus i Malmö
+  orgNumber: 716407-1479
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://brfpaulus.se/
+
 - entry: 1234904108
   orgName: Edhsläktens förening
   orgNumber: 812000-1246
@@ -75332,6 +75438,16 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.eik.se/
+
+- entry: 1235036637
+  orgName: Svensk Förening för Flödescytometri, SFFF
+  orgNumber: 845002-7076
+  comment: null
+  categories:
+  - cytometri
+  - diagnostik
+  - forskning
+  web: https://sfff.se/
 
 - entry: 1235037122
   orgName: Sikeå Båtklubb
@@ -77903,6 +78019,14 @@ entries:
   categories:
   - föräldraskap
   web: https://makalosa.org/
+
+- entry: 1235173364
+  orgName: Bostadsrättsföreningen Syrenen 1
+  orgNumber: 716420-4369
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.syrenen1.se/
 
 - entry: 1235173851
   orgName: Sweden UNRWA Reform
@@ -81405,6 +81529,14 @@ entries:
   - motorsport
   web: https://www.svenskalag.se/asatramk
 
+- entry: 1235413141
+  orgName: Brf Flygvärdinnan 1 i Skarpnäck
+  orgNumber: 769619-3346
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.brfflygvardinnan1.se/
+
 - entry: 1235413224
   orgName: Gideonsbergskyrkan
   orgNumber: 556706-5262
@@ -82293,6 +82425,14 @@ entries:
   - intresseförening
   - scoutkår
   web: https://www.stockholmsscoutskeppslag.se/
+
+- entry: 1235465612
+  orgName: Brf Den Gyldene Porten
+  orgNumber: 769604-2303
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://dengyldeneporten.se/
 
 - entry: 1235467923
   orgName: Svenska Epidermolysis Bullosa-föreningen/DEBRA Sweden
@@ -93335,6 +93475,14 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/vasterbackens/
 
+- entry: 1236189195
+  orgName: Brf Soldaten i Västerås
+  orgNumber: 778000-3302
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.brfsoldaten.se/
+
 - entry: 1236189229
   orgName: Örebro SK Ungdom
   orgNumber: 875001-6894
@@ -100521,6 +100669,14 @@ entries:
   - synskadad
   web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/boras/
 
+- entry: 1236692933
+  orgName: Brf Hägerstenshamnen nr 2
+  orgNumber: 716420-0714
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hagerstenshamnen2.se/
+
 - entry: 1236693642
   orgName: FK Puls Pantrar
   orgNumber: null
@@ -103863,6 +104019,14 @@ entries:
   - hundklubb
   - hundsport
   web: https://hasselahundklubb.n.nu/
+
+- entry: 1236913990
+  orgName: Brf Stjärnhusen i Motala
+  orgNumber: 724000-0203
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.stjärnhusenmotala.se/
 
 - entry: 1236915177
   orgName: Morrhåret Hundsport AB
