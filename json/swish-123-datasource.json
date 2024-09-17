@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-16-rev-163603",
+    "date": "2024-09-17-rev-182215",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1158,6 +1158,16 @@
       "web": "https://pro.se/eslov"
     },
     {
+      "entry": 1230062695,
+      "orgName": "Backa Stugf\u00f6rening",
+      "orgNumber": "854600-4915",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://backastora.se/"
+    },
+    {
       "entry": 1230063073,
       "orgName": "OK Tor",
       "orgNumber": "818000-1748",
@@ -2261,6 +2271,16 @@
       "web": "https://www.perskopsstallplats.com/"
     },
     {
+      "entry": 1230121723,
+      "orgName": "Vittergummans Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717907-2686",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.vittergumman.se/"
+    },
+    {
       "entry": 1230122457,
       "orgName": "Friluftsfr\u00e4mjandet Hudiksvall",
       "orgNumber": "887500-2431",
@@ -2516,6 +2536,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-enkoping/foreningar/enkoping.html"
+    },
+    {
+      "entry": 1230135152,
+      "orgName": "Holmtr\u00e4sk Fiskev\u00e5rdsomr\u00e5de",
+      "orgNumber": "898500-5258",
+      "comment": null,
+      "categories": [
+        "fiskeklubb",
+        "fiskev\u00e5rdsomr\u00e5de"
+      ],
+      "web": "https://www.visitnorsjo.se/sv/325342/Holmtraskbygdens-FVO/"
     },
     {
       "entry": 1230135244,
@@ -8933,6 +8964,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1230455212,
+      "orgName": "Mar\u00f6 Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717902-8555",
+      "comment": "Mar\u00f6tornet",
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.marotornet.se/"
+    },
+    {
       "entry": 1230456194,
       "orgName": "Timr\u00e5 IK U16",
       "orgNumber": "889200-5870",
@@ -9017,6 +9058,17 @@
         "byalag"
       ],
       "web": "https://arild.se/"
+    },
+    {
+      "entry": 1230461327,
+      "orgName": "Kaitum\u00e4lvdals Skoter & Fritidsf\u00f6rening",
+      "orgNumber": "802493-8154",
+      "comment": null,
+      "categories": [
+        "fritidsf\u00f6rening",
+        "skoterklubb"
+      ],
+      "web": "http://www.kaitumalven.nu/"
     },
     {
       "entry": 1230461632,
@@ -12107,6 +12159,16 @@
       "web": "https://www.inlandsfolkdansare.se/"
     },
     {
+      "entry": 1230639021,
+      "orgName": "Nya Eken\u00e4s Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717905-7026",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.nyaekenas.se/"
+    },
+    {
       "entry": 1230640342,
       "orgName": "J\u00e4ders IF",
       "orgNumber": "818000-1235",
@@ -13385,6 +13447,16 @@
         "golfklubb"
       ],
       "web": "https://lackogk.se/"
+    },
+    {
+      "entry": 1230718809,
+      "orgName": "S\u00e4ttra Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717900-2394",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.sattrasamfallighet.se/"
     },
     {
       "entry": 1230719286,
@@ -15579,6 +15651,16 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://gamlabion.se/"
+    },
+    {
+      "entry": 1230818559,
+      "orgName": "Grimskaftet Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717906-1531",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://grimskaftetsamf\u00e4llighet.se/"
     },
     {
       "entry": 1230820142,
@@ -31514,6 +31596,16 @@
       "web": "https://hundarutanhem.se/"
     },
     {
+      "entry": 1231616572,
+      "orgName": "Dyr\u00f6ns Samh\u00e4llsf\u00f6rening",
+      "orgNumber": "857209-4061",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.dyron.se/"
+    },
+    {
       "entry": 1231616598,
       "orgName": "BGK VK-78 - Bangolf",
       "orgNumber": "885000-6241",
@@ -36546,6 +36638,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.horbyck.se/"
+    },
+    {
+      "entry": 1231892249,
+      "orgName": "V\u00e4stanviks Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717902-5726",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://vastanvik.se/"
     },
     {
       "entry": 1231892355,
@@ -45095,6 +45197,16 @@
       "web": "https://www.hembygd.se/hamrange"
     },
     {
+      "entry": 1232327716,
+      "orgName": "Domarringens Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717908-5753",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://domarringen.eu/"
+    },
+    {
       "entry": 1232327906,
       "orgName": "Scuba Travel Scandinavia AB",
       "orgNumber": "556660-9862",
@@ -46237,6 +46349,16 @@
         "utbildning"
       ],
       "web": "https://www.yari.nu/"
+    },
+    {
+      "entry": 1232396018,
+      "orgName": "Gessie Villastads Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717905-4346",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.gessievillastad.se/"
     },
     {
       "entry": 1232396158,
@@ -58415,6 +58537,16 @@
       "web": "https://www.kvinnojourenulricehamn.se/"
     },
     {
+      "entry": 1233087145,
+      "orgName": "Ytterby Samf\u00e4llighetsf\u00f6rening 1",
+      "orgNumber": "716404-2751",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.ytterby.info/"
+    },
+    {
       "entry": 1233088317,
       "orgName": "Borrelia och TBE f\u00f6reningen",
       "orgNumber": "802429-2735",
@@ -59140,6 +59272,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/kallingesk"
+    },
+    {
+      "entry": 1233127271,
+      "orgName": "Malm\u00f6ns Intressef\u00f6rening",
+      "orgNumber": "802419-8700",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.malmonhk.se/"
     },
     {
       "entry": 1233127289,
@@ -66201,6 +66343,16 @@
       "web": "https://e-clubhouse.org/sites/molndalse/"
     },
     {
+      "entry": 1233511136,
+      "orgName": "Soppero Byars Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716465-5255",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://sopperobyar.hemsida24.se/"
+    },
+    {
       "entry": 1233511144,
       "orgName": "Medicinska Idrottsf\u00f6reningen",
       "orgNumber": "817605-4651",
@@ -67098,6 +67250,16 @@
         "yoga"
       ],
       "web": "https://saranyoga.se/"
+    },
+    {
+      "entry": 1233548864,
+      "orgName": "S\u00f6dra Livereds Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717907-9566",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://sodralivered.wordpress.com/"
     },
     {
       "entry": 1233548906,
@@ -70025,6 +70187,16 @@
         "kattklubb"
       ],
       "web": "https://www.kattklubbenbik.se/"
+    },
+    {
+      "entry": 1233721917,
+      "orgName": "Bjur\u00f6ns Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717907-0748",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "http://www.bjuron.com/"
     },
     {
       "entry": 1233722717,
@@ -82138,6 +82310,17 @@
       "web": "https://www.holmbygden.se/fritid/fiske/"
     },
     {
+      "entry": 1234425955,
+      "orgName": "Sikn\u00e4s Fiskev\u00e5rdsf\u00f6rening",
+      "orgNumber": "898200-3207",
+      "comment": null,
+      "categories": [
+        "fiskeklubb",
+        "fiskev\u00e5rdsomr\u00e5de"
+      ],
+      "web": "https://www.siknasby.se/"
+    },
+    {
       "entry": 1234428140,
       "orgName": "S\u00e4var\u00e5dalens Tr\u00e4dg\u00e5rdss\u00e4llskap",
       "orgNumber": "802516-3257",
@@ -89092,6 +89275,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1234878989,
+      "orgName": "Nyehusens Villa\u00e4garef\u00f6rening",
+      "orgNumber": "802445-0291",
+      "comment": null,
+      "categories": [
+        "villa\u00e4garef\u00f6rening"
+      ],
+      "web": "https://nyehusen.se/"
+    },
+    {
       "entry": 1234879615,
       "orgName": "Eskilstuna Guif",
       "orgNumber": "818000-1029",
@@ -89101,6 +89294,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/EskilstunaGuifUngdom/"
+    },
+    {
+      "entry": 1234879797,
+      "orgName": "Raft\u00f6t\u00e5ngens Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716408-9893",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://raftotangen.se/"
     },
     {
       "entry": 1234880704,
@@ -91760,6 +91963,16 @@
       "web": "https://www.vrangofritidsforening.se/"
     },
     {
+      "entry": 1235039342,
+      "orgName": "Sikn\u00e4s Framtid",
+      "orgNumber": "898200-6697",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.siknasby.se/"
+    },
+    {
       "entry": 1235039789,
       "orgName": "Handelsbankens Fadderbarnsfond",
       "orgNumber": "846003-5879",
@@ -92103,6 +92316,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://skenshyttansbygdegard.se/"
+    },
+    {
+      "entry": 1235068424,
+      "orgName": "Samf\u00e4llighetsf\u00f6reningen Spoven",
+      "orgNumber": "716409-6260",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://spoven.se/"
     },
     {
       "entry": 1235068739,
@@ -93460,6 +93683,16 @@
         "barnsjukv\u00e5rd"
       ],
       "web": "https://clownkliniken.se/"
+    },
+    {
+      "entry": 1235122759,
+      "orgName": "Klockarejordens Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716406-6628",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.klockarejorden.se/"
     },
     {
       "entry": 1235123575,
@@ -98685,6 +98918,16 @@
       "web": "https://barnfonden.se/"
     },
     {
+      "entry": 1235394176,
+      "orgName": "Skip\u00e5s Byalag",
+      "orgNumber": "802506-7847",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.skipas.se/"
+    },
+    {
       "entry": 1235394416,
       "orgName": "PRO Laholm",
       "orgNumber": "802460-1257",
@@ -99222,6 +99465,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/jamshog"
+    },
+    {
+      "entry": 1235419791,
+      "orgName": "Norra Tredenborgssl\u00e4ttens Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716405-7692",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "http://norratredenborgsslatten.dinstudio.se/"
     },
     {
       "entry": 1235420161,
@@ -100594,6 +100847,18 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://hjortberget.se/"
+    },
+    {
+      "entry": 1235503693,
+      "orgName": "Myrflodammens Skidf\u00f6rening",
+      "orgNumber": "802455-9000",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://myrflodammen.se/"
     },
     {
       "entry": 1235503933,
@@ -104163,6 +104428,16 @@
       "web": "https://www.haggdanger.se/"
     },
     {
+      "entry": 1235676838,
+      "orgName": "Forsmark Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716464-0109",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://storumanlapland.se/forsmark/"
+    },
+    {
       "entry": 1235678263,
       "orgName": "Zahlo Photo / Zandra Olausson",
       "orgNumber": "870920-XXXX",
@@ -104193,6 +104468,17 @@
         "lokaltidning"
       ],
       "web": "https://luthagsnytt.se/"
+    },
+    {
+      "entry": 1235680384,
+      "orgName": "K\u00e4rrdalens Egnahemsf\u00f6rening",
+      "orgNumber": "802498-3978",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "villa\u00e4garef\u00f6rening"
+      ],
+      "web": "https://www.karrdalen.se/"
     },
     {
       "entry": 1235680889,
@@ -104226,6 +104512,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/spf-seniorerna-moheda/"
+    },
+    {
+      "entry": 1235681655,
+      "orgName": "Malm\u00f6ns Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716414-1199",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "http://www.malmonhk.se/"
     },
     {
       "entry": 1235681705,
@@ -114345,6 +114641,16 @@
       "web": "https://bygdegardarna.se/vasterlanda/"
     },
     {
+      "entry": 1236245815,
+      "orgName": "Varpen Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716407-8078",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://varpenssamfallighet.se/"
+    },
+    {
       "entry": 1236246110,
       "orgName": "Team Rynkeby",
       "orgNumber": "802535-9137",
@@ -116686,6 +116992,16 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://www.hsb.se/goteborg/brf/Pinneberget/"
+    },
+    {
+      "entry": 1236378004,
+      "orgName": "Sk\u00e4rg\u00e5rdsstads Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716418-5634",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://skargardsstad.se/"
     },
     {
       "entry": 1236378566,
@@ -120509,6 +120825,16 @@
       "web": "https://www.norrbyif.se/"
     },
     {
+      "entry": 1236615546,
+      "orgName": "Jockfalls Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717922-3966",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://jockfallfiske.com/"
+    },
+    {
       "entry": 1236615819,
       "orgName": "Tors\u00f6 Bygdeg\u00e5rds & Idrottsf\u00f6rening",
       "orgNumber": "866000-9450",
@@ -122854,6 +123180,17 @@
       "web": "https://www.mellbystrand.se/"
     },
     {
+      "entry": 1236721856,
+      "orgName": "H\u00f6gtr\u00e4sk Fiskev\u00e5rdsomr\u00e5de",
+      "orgNumber": "897001-7557",
+      "comment": null,
+      "categories": [
+        "fiskeklubb",
+        "fiskev\u00e5rdsomr\u00e5de"
+      ],
+      "web": "https://www.facebook.com/profile.php?id=100057835351576"
+    },
+    {
       "entry": 1236722052,
       "orgName": "Lions Club Karlskrona Jarramas",
       "orgNumber": "835600-7677",
@@ -123158,6 +123495,16 @@
         "utbildning"
       ],
       "web": "https://www.kangosskola.se/"
+    },
+    {
+      "entry": 1236743264,
+      "orgName": "Torsby Samf\u00e4llighetsf\u00f6rening p\u00e5 V\u00e4rmd\u00f6",
+      "orgNumber": "814000-2778",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://torsby-varmdo.se/"
     },
     {
       "entry": 1236744221,
@@ -124284,6 +124631,17 @@
         "segels\u00e4llskap"
       ],
       "web": "https://www.svenskalag.se/arvikass"
+    },
+    {
+      "entry": 1236800270,
+      "orgName": "M\u00e5ngbergs & Holens F\u00e4bodlag",
+      "orgNumber": "884400-8568",
+      "comment": null,
+      "categories": [
+        "f\u00e4bodlag",
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.mangberg.se/"
     },
     {
       "entry": 1236800650,
@@ -126231,6 +126589,16 @@
       "web": "https://curo.nu/"
     },
     {
+      "entry": 1236908644,
+      "orgName": "G\u00e5s\u00f6 Samf\u00e4llighetf\u00f6rening",
+      "orgNumber": "717903-4512",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://gaso.nu/"
+    },
+    {
       "entry": 1236908719,
       "orgName": "BIK Karlskoga Ungdom",
       "orgNumber": "875003-1604",
@@ -127033,6 +127401,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/torslandaik"
+    },
+    {
+      "entry": 1236951685,
+      "orgName": "Raketens Samf\u00e4llighetsf\u00f6rening NR 2",
+      "orgNumber": "717902-1345",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://raketen-2.webnode.se/"
     },
     {
       "entry": 1236952436,
