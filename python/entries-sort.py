@@ -77,6 +77,8 @@ def ReplaceFilter(data):
   data = re.sub(r"\sbåtsällskap$", " Båtsällskap", data, flags=re.IGNORECASE)
 
 
+  data = re.sub(r"^Brf\s", "Bostadsrättsföreningen ", data, flags=re.IGNORECASE)
+
   return data
 
 
