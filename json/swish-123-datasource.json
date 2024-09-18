@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-18-rev-130410",
+    "date": "2024-09-18-rev-182350",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -50493,6 +50493,16 @@
       "web": "https://batlife-sweden.se/"
     },
     {
+      "entry": 1232661106,
+      "orgName": "Nya \u00d6rlenbadets Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716449-2451",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://nyaorlenbadet.se/"
+    },
+    {
       "entry": 1232661726,
       "orgName": "V\u00e4ster\u00e5s Bouleklubb",
       "orgNumber": "802448-9984",
@@ -84652,6 +84662,16 @@
       "web": "https://www.yourvismawebsite.com/xcact-konsult-ab-1/"
     },
     {
+      "entry": 1234568499,
+      "orgName": "Kis\u00e4ng Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716401-8827",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://kisang.se/"
+    },
+    {
       "entry": 1234569091,
       "orgName": "Specialklubben Rhodesian Ridgeback Sverige, SRRS",
       "orgNumber": "802401-4576",
@@ -97263,6 +97283,16 @@
       "web": "https://ansgariikyrkan.se/"
     },
     {
+      "entry": 1235288303,
+      "orgName": "Tr\u00f6skens Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717903-9289",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://tr\u00f6sken.se/"
+    },
+    {
       "entry": 1235288600,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
@@ -100621,6 +100651,16 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://dengyldeneporten.se/"
+    },
+    {
+      "entry": 1235465976,
+      "orgName": "Svanviks Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716409-4364",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://svanvik.com/"
     },
     {
       "entry": 1235467923,
@@ -114853,6 +114893,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-vannas/foreningar/vannasby.html"
+    },
+    {
+      "entry": 1236244776,
+      "orgName": "L\u00e5ngasands Byalag",
+      "orgNumber": "802431-0305",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.soligalangasand.se/"
     },
     {
       "entry": 1236245674,

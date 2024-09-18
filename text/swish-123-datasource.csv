@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-09-18-rev-130418
+# Date: 2024-09-18-rev-182358
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4654,6 +4654,7 @@
 "1232658722","802518-2653","Värnamo Martial Arts Center","https://www.svenskalag.se/vmac","idrottsförening,kampsportsförening,muaythaiklubb,thaiboxningsklubb",""
 "1232659506","818000-1235","Jäders IF","https://www.laget.se/JadersIF/","fotbollsklubb,idrottsförening","P07/P08"
 "1232660306","802523-5204","BatLife Sweden","https://batlife-sweden.se/","donation,förening,intresseorganisation",""
+"1232661106","716449-2451","Nya Örlenbadets Samfällighetsförening","https://nyaorlenbadet.se/","samfällighetsförening",""
 "1232661726","802448-9984","Västerås Bouleklubb","https://www.laget.se/VasterasBouleklubb/","bouleklubb,idrottsförening",""
 "1232661759","802419-8163","BK Mix Eslöv","https://www.laget.se/BKMix/","bowlingklubb,idrottsförening",""
 "1232664324","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Bering skolan"
@@ -7791,6 +7792,7 @@
 "1234567343","817607-1721","Föreningen Knutby Folketspark","https://www.knutbyfolketspark.com/","intresseförening",""
 "1234567848","846002-1101","Lions Club Lomma","https://lomma.lions.se/","lionsklubb",""
 "1234567855","556876-1968","West Stockholm Shooting School / Xcact Konsult AB","https://www.yourvismawebsite.com/xcact-konsult-ab-1/","kurser,skytteinstruktör,utbildning",""
+"1234568499","716401-8827","Kisäng Samfällighetsförening","https://kisang.se/","samfällighetsförening",""
 "1234569091","802401-4576","Specialklubben Rhodesian Ridgeback Sverige, SRRS","https://www.srrs.org/","hundklubb,hunduppfödning","Södra"
 "1234571121","802428-6232","Swedish Reined Cow Horse Association, SRCHA","https://www.srcha.eu/","hästklubb,hästsport",""
 "1234571287","832000-6011","Team East TKD Klubb Öland","https://www.svenskalag.se/teameasttkdklubboland","idrottsförening,kampsportsförening,taekwondoklubb",""
@@ -8951,6 +8953,7 @@
 "1235285416","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Stockholm, Essingeskolan"
 "1235288014","802477-8519","Gittan Crafoords Insamlingsstiftelse","https://www.gittansstiftelse.se/","alkoholproblematik,behandling,beroendeproblematik,forskning,stiftelse,utbildning",""
 "1235288162","826000-0073","Ansgariikyrkans Församling","https://ansgariikyrkan.se/","religion","Kollekt, insamlingar"
+"1235288303","717903-9289","Tröskens Samfällighetsförening","https://trösken.se/","samfällighetsförening",""
 "1235288600","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/Krokek/","religion","Krokek"
 "1235288725","802001-2970","Gymnastikklubben Hermes","https://www.gkhermes.se/","gymnastikförening,idrottsförening",""
 "1235289822","802435-5953","Equmenia Skellefteå","https://equmeniakyrkanskelleftea.se/","religion",""
@@ -9257,6 +9260,7 @@
 "1235459490","802008-6446","Sjöscoutkåren Drakarna","https://www.drakarna.se/","scoutkår",""
 "1235464516","802488-9191","Stockholms Scoutskeppslag","https://www.stockholmsscoutskeppslag.se/","intresseförening,scoutkår",""
 "1235465612","769604-2303","Bostadsrättsföreningen Den Gyldene Porten","https://dengyldeneporten.se/","bostadsrättsförening",""
+"1235465976","716409-4364","Svanviks Samfällighetsförening","https://svanvik.com/","samfällighetsförening",""
 "1235467923","802418-2530","Svenska Epidermolysis Bullosa-föreningen/DEBRA Sweden","https://ebforeningen.se/","epidermolysis,förening,intresseförening",""
 "1235468152","802480-7441","Insamlingsstiftelsen Ebbas Änglar","https://www.ebbasanglar.se/","donation,stiftelse",""
 "1235468715","814401-0686","Kamratföreningen Flottans Män i Norrtälje","https://flottansman.se/norrtalje/","intresseförening,kamratförening",""
@@ -10563,6 +10567,7 @@
 "1236244172","003156-7944","Schedvinska Ättens Släktförening","https://schedvinskaatten.se/","släktforskning,släktförening",""
 "1236244214","556622-0272","Rehabhuset Tomelilla AB","http://rehabhuset.com/","gym,rehab,träning",""
 "1236244313","802466-8686","PRO Vännäsby","https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-vannas/foreningar/vannasby.html","pensionärsklubb",""
+"1236244776","802431-0305","Långasands Byalag","https://www.soligalangasand.se/","byalag",""
 "1236245674","802544-5894","Västerlanda Bygdegårdsförening","https://bygdegardarna.se/vasterlanda/","bygdegårdsförening",""
 "1236245815","716407-8078","Varpen Samfällighetsförening","https://varpenssamfallighet.se/","samfällighetsförening",""
 "1236246110","802535-9137","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Kristianstad, Hammars skola"
