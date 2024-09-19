@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-18-rev-182350",
+    "date": "2024-09-19-rev-142201",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7769,6 +7769,16 @@
         "religion"
       ],
       "web": "https://tannakerpingst.se/"
+    },
+    {
+      "entry": 1230401174,
+      "orgName": "Niemisels AIK, NAIK",
+      "orgNumber": "897000-3193",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/NiemiselsAIK/"
     },
     {
       "entry": 1230401182,
@@ -15930,6 +15940,16 @@
       "web": "https://www.rocknebyik.se/"
     },
     {
+      "entry": 1230834135,
+      "orgName": "S\u00f6rfors B\u00f6nhusf\u00f6rening",
+      "orgNumber": "894001-6697",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.sorfors.se/om-betel"
+    },
+    {
       "entry": 1230834291,
       "orgName": "\u00c5rj\u00e4ngs MK",
       "orgNumber": "874001-8455",
@@ -18765,6 +18785,16 @@
         "musikf\u00f6rening"
       ],
       "web": "https://musikilinkoping.se/"
+    },
+    {
+      "entry": 1230945212,
+      "orgName": "Verkavikens Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717908-2289",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://verkaviken.se/"
     },
     {
       "entry": 1230946509,
@@ -23922,6 +23952,16 @@
         "golfklubb"
       ],
       "web": "https://www.malarbadensgk.se/"
+    },
+    {
+      "entry": 1231224807,
+      "orgName": "Lojstatr\u00e4skens Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717911-1302",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.lojsta.se/"
     },
     {
       "entry": 1231225259,
@@ -38315,6 +38355,17 @@
       "web": "https://www.appelgarden.se/"
     },
     {
+      "entry": 1231986413,
+      "orgName": "Pr\u00e4stholms Byahusf\u00f6rening",
+      "orgNumber": "897000-9133",
+      "comment": null,
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://prastholm.se/"
+    },
+    {
       "entry": 1231986678,
       "orgName": "PRO H\u00e4stveda",
       "orgNumber": "837000-7703",
@@ -50470,6 +50521,17 @@
       "web": "https://www.svenskalag.se/vmac"
     },
     {
+      "entry": 1232659282,
+      "orgName": "Vedaklubben Skoter & Fiske",
+      "orgNumber": "898500-8070",
+      "comment": null,
+      "categories": [
+        "fiskeklubb",
+        "skoterklubb"
+      ],
+      "web": "https://www.facebook.com/Vedaklubben/"
+    },
+    {
       "entry": 1232659506,
       "orgName": "J\u00e4ders IF",
       "orgNumber": "818000-1235",
@@ -54651,6 +54713,16 @@
       "web": "https://www.laget.se/SoderkopingsOK/"
     },
     {
+      "entry": 1232861110,
+      "orgName": "Gunnarsbyn SK",
+      "orgNumber": "898500-0580",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": null
+    },
+    {
       "entry": 1232861532,
       "orgName": "\u00c5hus F\u00f6rsamling",
       "orgNumber": "252001-0055",
@@ -57772,6 +57844,17 @@
         "musikf\u00f6rening"
       ],
       "web": "https://monsterasmusik.se/"
+    },
+    {
+      "entry": 1233044419,
+      "orgName": "F\u00f6reningen Rogs bystuga",
+      "orgNumber": "883201-5419",
+      "comment": null,
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "http://www.rogsby.se/"
     },
     {
       "entry": 1233044484,
@@ -62917,6 +63000,17 @@
         "scoutk\u00e5r"
       ],
       "web": "https://et.scout.se/"
+    },
+    {
+      "entry": 1233338670,
+      "orgName": "St\u00e4mningsg\u00e5rdens Byaf\u00f6rening",
+      "orgNumber": "802528-7585",
+      "comment": null,
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/groups/146285045411197"
     },
     {
       "entry": 1233338738,
@@ -69534,6 +69628,19 @@
       "web": "https://fsbb.se/"
     },
     {
+      "entry": 1233669892,
+      "orgName": "\u00c4rla IF",
+      "orgNumber": "818000-2993",
+      "comment": null,
+      "categories": [
+        "bandyklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.arlaif.se/"
+    },
+    {
       "entry": 1233670205,
       "orgName": "Markus och Malcom / Markus Allard AB",
       "orgNumber": "559424-8360",
@@ -70605,6 +70712,17 @@
       "web": "https://www.vibyggera.se/"
     },
     {
+      "entry": 1233744018,
+      "orgName": "Gunnarsbyns byaf\u00f6rening",
+      "orgNumber": "898500-8666",
+      "comment": null,
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": null
+    },
+    {
       "entry": 1233745551,
       "orgName": "Svenska Hundklubben, S\u00f6dert\u00e4lje",
       "orgNumber": "815600-8537",
@@ -70950,6 +71068,16 @@
       "web": "https://www.knoppelasensryttarsallskap.com/"
     },
     {
+      "entry": 1233781457,
+      "orgName": "Rosl\u00e4tt3:s Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717907-4468",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.roslatt3.se/"
+    },
+    {
       "entry": 1233781614,
       "orgName": "Kvinnojouren Iris i Lule\u00e5",
       "orgNumber": "897000-8473",
@@ -70990,6 +71118,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/sunne"
+    },
+    {
+      "entry": 1233782737,
+      "orgName": "S\u00e4las Bystugef\u00f6rening",
+      "orgNumber": "882601-0400",
+      "comment": null,
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/salasbystuga/"
     },
     {
       "entry": 1233782893,
@@ -78019,6 +78158,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/savare"
+    },
+    {
+      "entry": 1234181715,
+      "orgName": "Freja Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716408-0876",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.freja.re/"
     },
     {
       "entry": 1234182200,
@@ -89649,6 +89798,17 @@
       "web": "https://dagengry.com/"
     },
     {
+      "entry": 1234897260,
+      "orgName": "Valvtr\u00e4sk byaf\u00f6rening",
+      "orgNumber": "898500-8484",
+      "comment": null,
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": null
+    },
+    {
       "entry": 1234897526,
       "orgName": "Den Gode Herdens F\u00f6rsamling",
       "orgNumber": "802524-3604",
@@ -92517,6 +92677,16 @@
       "web": "https://www.svenskakyrkan.se/fryksande"
     },
     {
+      "entry": 1235069687,
+      "orgName": "PRO \u00c4rla-Stenkvista",
+      "orgNumber": "802463-6279",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-sodermanland/samorganisationer/samorganisation-eskilstuna/foreningar/arla-stenkvista.html"
+    },
+    {
       "entry": 1235069950,
       "orgName": "Western Riders Association, WRAS",
       "orgNumber": "834001-1330",
@@ -94878,6 +95048,16 @@
         "kommun"
       ],
       "web": "https://www.haparanda.se/"
+    },
+    {
+      "entry": 1235154091,
+      "orgName": "Paksuniemi Bysamf\u00e4llighet",
+      "orgNumber": "717907-5325",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://jukkasjarvi-paksuniemi.se/"
     },
     {
       "entry": 1235154141,
@@ -99717,6 +99897,17 @@
         "byalag"
       ],
       "web": "https://www.hvensbyalag.se/"
+    },
+    {
+      "entry": 1235421268,
+      "orgName": "Hole Byf\u00f6rening",
+      "orgNumber": "884401-8971",
+      "comment": null,
+      "categories": [
+        "byalag",
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/profile.php?id=100067837996735"
     },
     {
       "entry": 1235421623,
@@ -108191,6 +108382,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235876529,
+      "orgName": "Gr\u00f6nsl\u00e4tts Intressef\u00f6rening",
+      "orgNumber": "836200-5806",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.gronslatt.com/"
+    },
+    {
       "entry": 1235877113,
       "orgName": "Trelleborgs IF",
       "orgNumber": "847000-2752",
@@ -110101,6 +110302,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "http://www.mellanstrom.se/foreningar/mellanstroms-idrottssallskap/"
+    },
+    {
+      "entry": 1235978747,
+      "orgName": "Pors\u00f6bergets Parksamf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716415-6171",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://sites.google.com/site/bergetparksam/"
     },
     {
       "entry": 1235979901,
@@ -113655,6 +113866,17 @@
       "web": "https://equmeniakyrkanhovslatt.se/"
     },
     {
+      "entry": 1236177893,
+      "orgName": "S\u00f6rfors Intresse- & Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "894002-9757",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.sorfors.se/"
+    },
+    {
       "entry": 1236177976,
       "orgName": "Sveriges Socialdemokratiska Arbetareparti",
       "orgNumber": "802003-1145",
@@ -115743,6 +115965,16 @@
       "web": "https://www.kungsorsbhk.com/"
     },
     {
+      "entry": 1236279210,
+      "orgName": "S\u00f6rbyns IF",
+      "orgNumber": "898500-1430",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/groups/1510767155882875"
+    },
+    {
       "entry": 1236279566,
       "orgName": "Skogsluffarnas OK",
       "orgNumber": "802006-3106",
@@ -116037,6 +116269,16 @@
         "religion"
       ],
       "web": "https://missionsforsamlingen.se/"
+    },
+    {
+      "entry": 1236297253,
+      "orgName": "Gubbmyrens Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716413-0499",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.gubbmyren.se/"
     },
     {
       "entry": 1236297303,
