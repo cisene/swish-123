@@ -2,1122 +2,1254 @@ organisations:
 
 - orgNumber: 252002-6135
   orgName: Trossamfundet Svenska Kyrkan
-  issued: 2020-01-22
+  issued: '2020-01-22'
   expires: null
   location: Uppsala
 
 - orgNumber: 252003-8858
   orgName: Norra Ölands Pastorat
-  issued: 2020-03-30
+  issued: '2020-03-30'
   expires: null
   location: Borgholm
 
 - orgNumber: 252004-3221
   orgName: Spånga-Kista Församling
-  issued: 2020-01-08
+  issued: '2020-01-08'
   expires: null
   location: Stockholm
 
 - orgNumber: 252004-7131
   orgName: Equmeniakyrkan
-  issued: 2019-09-19
+  issued: '2019-09-19'
   expires: null
   location: Stockholm
 
+- orgNumber: 502084-7967
+  orgName: Movember Europe
+  issued: '2020-11-09'
+  expires: '2023-12-31'
+  location: null
+
 - orgNumber: 502085-3775
   orgName: Against Malaria Foundation
-  issued: 2021-01-26
+  issued: '2021-01-26'
   expires: null
   location: London, Storbritannien
 
 - orgNumber: 802000-3276
   orgName: Evangelisk Luthersk Mission Bibeltrogna Vänner
-  issued: 2019-11-15
+  issued: '2019-11-15'
   expires: null
   location: Stockholm
 
 - orgNumber: 802000-6717
   orgName: Ersta Diakonisällskap
-  issued: 2019-09-17
+  issued: '2019-09-17'
   expires: null
   location: Stockholm
 
 - orgNumber: 802000-8184
   orgName: Evangeliska Fosterlandsstiftelsen
-  issued: 2019-07-22
+  issued: '2019-07-22'
   expires: null
   location: Uppsala
 
 - orgNumber: 802002-7838
   orgName: Reumatikerförbundet
-  issued: 2019-11-08
+  issued: '2019-11-08'
   expires: null
   location: Stockholm
 
 - orgNumber: 802002-8638
   orgName: Rädda Barnens Riksförbund
-  issued: 2019-10-24
+  issued: '2019-10-24'
   expires: null
   location: Stockholm
 
 - orgNumber: 802002-8711
   orgName: Svenska Röda Korsets Centralstyrelse
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802003-0832
   orgName: Skyddsvärnet
-  issued: 2024-01-18
+  issued: '2024-01-18'
   expires: null
   location: Stockholm
 
 - orgNumber: 802003-1178
   orgName: Sociala Missionen
-  issued: 2021-02-25
+  issued: '2021-02-25'
   expires: null
   location: Stockholm
 
 - orgNumber: 802003-1954
   orgName: Stockholms Stadsmission
-  issued: 2019-11-13
+  issued: '2019-11-13'
   expires: null
   location: Stockholm
 
+- orgNumber: 802003-3877
+  orgName: Södra KFUK-KFUM
+  issued: '2019-10-24'
+  expires: '2023-01-10'
+  location: null
+
 - orgNumber: 802004-0575
   orgName: Pingst - fria församlingar i samverkan
-  issued: 2019-10-02
+  issued: '2019-10-02'
   expires: null
   location: Stockholm
 
 - orgNumber: 802004-1441
   orgName: Stiftelsen Forska Utan Djurförsök
-  issued: 2020-03-13
+  issued: '2020-03-13'
   expires: null
   location: Stockholm
 
 - orgNumber: 802004-1524
   orgName: We Effect
-  issued: 2019-08-23
+  issued: '2019-08-23'
   expires: null
   location: Stockholm
 
+- orgNumber: 802004-4510
+  orgName: Hörselskadades Riksförbund
+  issued: '2021-08-27'
+  expires: '2023-01-03'
+  location: null
+
 - orgNumber: 802004-6044
   orgName: FMN Föräldraföreningen Mot Narkotika
-  issued: 2019-10-11
+  issued: '2019-10-11'
   expires: null
   location: Stockholm
 
 - orgNumber: 802005-0947
   orgName: Konung Gustaf V:s Jubileumsfond
-  issued: 2019-10-21
+  issued: '2019-10-21'
   expires: null
   location: Solna
 
 - orgNumber: 802005-3370
   orgName: Cancerfonden - Riksföreningen Mot Cancer
-  issued: 2019-09-16
+  issued: '2019-09-16'
   expires: null
   location: Stockholm
 
 - orgNumber: 802005-7512
   orgName: Astma- och allergiförbundet
-  issued: 2021-06-28
+  issued: '2021-06-28'
   expires: null
   location: Stockholm
 
 - orgNumber: 802005-9989
   orgName: Läkarmissionen - Stiftelse För Filantropisk verksamhet
-  issued: 2019-07-22
+  issued: '2019-07-22'
   expires: null
   location: Stockholm
 
 - orgNumber: 802006-0763
   orgName: Hjärt-Lungfonden SV Nat Förening mot Hjärt och Lungsjukdom
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802006-1688
   orgName: Frälsningsarmén
-  issued: 2019-08-15
+  issued: '2019-08-15'
   expires: null
   location: Stockholm
 
 - orgNumber: 802006-2231
   orgName: Stiftelsen Fanny Hirsch minne
-  issued: 2019-11-27
+  issued: '2019-11-27'
   expires: null
   location: Stockholm
 
 - orgNumber: 802006-2660
   orgName: Stiftelsen SIPRI
-  issued: 2024-06-13
+  issued: '2024-06-13'
   expires: null
   location: Stockholm
 
+- orgNumber: 802006-3676
+  orgName: Sverige-Amerika Stiftelsen
+  issued: '2019-11-04'
+  expires: '2022-12-31'
+  location: null
+
 - orgNumber: 802007-3436
   orgName: Synskadades Riksförbund
-  issued: 2020-02-26
+  issued: '2020-02-26'
   expires: null
   location: Stockholm
 
 - orgNumber: 802007-6512
   orgName: Svenska Diabetesförbundet
-  issued: 2021-09-21
+  issued: '2021-09-21'
   expires: null
   location: Stockholm
 
 - orgNumber: 802008-3534
   orgName: CancerRehabFonden
-  issued: 2019-07-30
+  issued: '2019-07-30'
   expires: null
   location: Stockholm
 
 - orgNumber: 802009-1370
   orgName: Stiftelsen Fountain House Stockholm
-  issued: 2021-07-21
+  issued: '2021-07-21'
   expires: null
   location: Stockholm
 
 - orgNumber: 802009-6627
   orgName: Amref Nordic
-  issued: 2024-01-01
+  issued: '2024-01-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802010-4264
   orgName: Bröstcancerförbundet
-  issued: 2021-04-07
+  issued: '2021-04-07'
   expires: null
   location: Stockholm
 
 - orgNumber: 802010-4850
   orgName: Svenska Afghanistankommittén
-  issued: 2024-01-18
+  issued: '2024-01-18'
   expires: null
   location: Stockholm
 
 - orgNumber: 802010-6566
   orgName: Barncancerfonden - Barncancerföreningarnas Riksförening
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802010-8315
   orgName: Stiftelsen The Hunger Project Sverige
-  issued: 2022-12-16
+  issued: '2022-12-16'
   expires: null
   location: Stockholm
 
 - orgNumber: 802012-1193
   orgName: Spädbarnsfonden
-  issued: 2024-02-20
+  issued: '2024-02-20'
+  expires: null
+  location: Stockholm
+
+- orgNumber: 802012-1581
+  orgName: Convictus
+  issued: '2024-08-23'
   expires: null
   location: Stockholm
 
 - orgNumber: 802012-8081
   orgName: Insamlingsstiftelsen Vi planterar träd
-  issued: 2019-08-16
+  issued: '2019-08-16'
   expires: null
   location: Stockholm
 
 - orgNumber: 802012-8628
   orgName: UN Women nationell kommitté Sverige
-  issued: 2022-02-24
+  issued: '2022-02-24'
   expires: null
   location: Stockholm
 
 - orgNumber: 802014-8550
   orgName: Stiftelsen New Hope Reseindustrins Barnfond
-  issued: 2022-05-25
+  issued: '2022-05-25'
   expires: null
   location: Stockholm
 
 - orgNumber: 802014-9483
   orgName: SPES - Riksförbundet för Suicidprevention och Efterlevandestöd
-  issued: 2023-02-13
+  issued: '2023-02-13'
   expires: null
   location: Stockholm
 
 - orgNumber: 802016-1306
   orgName: MdM Sverige Läkare i Världen
-  issued: 2024-03-14
+  issued: '2024-03-14'
   expires: null
   location: Stockholm
 
 - orgNumber: 802016-5463
   orgName: Föreningen Alla Kvinnors Hus
-  issued: 2023-11-06
+  issued: '2023-11-06'
   expires: null
   location: Stockholm
 
+- orgNumber: 802016-8707
+  orgName: Förbundet ung med psoriasis
+  issued: '2020-03-17'
+  expires: '2023-12-31'
+  location: null
+
 - orgNumber: 802017-2360
   orgName: Läkare Utan Gränser
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802017-3251
   orgName: Islamic Relief Sverige
-  issued: 2019-10-02
+  issued: '2019-10-02'
   expires: null
   location: Stockholm
 
 - orgNumber: 802017-3517
   orgName: Diakonia
-  issued: 2020-02-11
+  issued: '2020-02-11'
   expires: null
   location: Stockholm
 
 - orgNumber: 802017-5504
   orgName: Fonden för Psykisk Hälsa
-  issued: 2019-08-01
+  issued: '2019-08-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802017-8664
   orgName: Stiftelsen Hjärnfonden
-  issued: 2020-01-08
+  issued: '2020-01-08'
   expires: null
   location: Stockholm
 
 - orgNumber: 802401-4386
   orgName: UNICEF Sverige
-  issued: 2019-08-26
+  issued: '2019-08-26'
   expires: null
   location: Stockholm
 
 - orgNumber: 802401-6845
   orgName: Swedo - The Swedish Development Aid Organisation
-  issued: 2023-06-28
+  issued: '2023-06-28'
   expires: null
   location: Västerås
 
 - orgNumber: 802402-4831
   orgName: Anhörigas Riksförbund (AHR)
-  issued: 2021-05-14
+  issued: '2021-05-14'
   expires: null
   location: Varberg
 
 - orgNumber: 802402-5499
   orgName: ECPAT SVERIGE
-  issued: 2022-06-08
+  issued: '2022-06-08'
   expires: null
   location: Stockholm
 
 - orgNumber: 802404-3716
   orgName: LP-verksamhetens ideella riksförening
-  issued: 2020-04-03
+  issued: '2020-04-03'
   expires: null
   location: Stockholm
 
 - orgNumber: 802404-9150
   orgName: Plan International Sverige insamlingsstiftelse
-  issued: 2019-07-12
+  issued: '2019-07-12'
   expires: null
   location: Stockholm
 
 - orgNumber: 802405-7112
   orgName: Stiftelsen Astma och Allergiförbundets forskningsfond
-  issued: 2021-07-05
+  issued: '2021-07-05'
   expires: null
   location: Stockholm
 
 - orgNumber: 802405-7815
   orgName: SOS-barnbyar Sverige
-  issued: 2019-07-31
+  issued: '2019-07-31'
   expires: null
   location: Stockholm
 
 - orgNumber: 802406-2559
   orgName: Föräldralösa barn, Insamlingsstiftelse
-  issued: 2021-10-28
+  issued: '2021-10-28'
   expires: null
   location: Solna
 
 - orgNumber: 802406-7103
   orgName: Föreningen S:ta Clara Kyrka
-  issued: 2020-06-26
+  issued: '2020-06-26'
   expires: null
   location: Stockholm
 
 - orgNumber: 802407-4125
   orgName: Insamlingsstiftelsen Cancer-Allergifonden
-  issued: 2021-06-18
+  issued: '2021-06-18'
   expires: null
   location: Stockholm
 
 - orgNumber: 802409-1970
   orgName: TERRAFEM
-  issued: 2024-07-19
+  issued: '2024-07-19'
   expires: null
   location: Stockholm
 
 - orgNumber: 802409-3737
   orgName: Insamlingsstiftelsen Willefonden
-  issued: 2019-11-04
+  issued: '2019-11-04'
   expires: null
   location: Vallentuna
 
 - orgNumber: 802409-8264
   orgName: Stiftelsen Min Stora Dag
-  issued: 2024-01-25
+  issued: '2024-01-25'
   expires: null
   location: Stockholm
 
 - orgNumber: 802416-4280
   orgName: Ingenjörer utan gränser
-  issued: 2020-10-26
+  issued: '2020-10-26'
   expires: null
   location: Göteborg
 
 - orgNumber: 802416-7192
   orgName: Children Need Help
-  issued: 2020-07-21
+  issued: '2020-07-21'
   expires: null
   location: Alingsås
 
 - orgNumber: 802420-5968
   orgName: Love and Hope
-  issued: 2020-03-05
+  issued: '2020-03-05'
   expires: null
   location: Sigtuna
 
 - orgNumber: 802424-9289
   orgName: Insamlingsstiftelsen Akademiska Sjukhusets Barnfond
-  issued: 2024-01-26
+  issued: '2024-01-26'
   expires: null
   location: Uppsala
 
 - orgNumber: 802424-9396
   orgName: Mercy Ships Sverige Insamlingsstiftelse
-  issued: 2019-09-16
+  issued: '2019-09-16'
   expires: null
   location: Göteborg
 
 - orgNumber: 802425-1889
   orgName: Insamlingsstiftelsen Happy Child Foundation
-  issued: 2020-02-25
+  issued: '2020-02-25'
   expires: null
   location: Stockholm
 
 - orgNumber: 802425-5757
   orgName: Insamlingsstiftelsen Hope For Children Tanzania
-  issued: 2022-01-01
+  issued: '2022-01-01'
   expires: null
   location: Lidköping
 
 - orgNumber: 802425-7134
   orgName: Star for life
-  issued: 2020-04-14
+  issued: '2020-04-14'
   expires: null
   location: Malmö
 
 - orgNumber: 802426-0195
   orgName: Stiftelsen Göteborgs Kyrkliga Stadsmission
-  issued: 2020-03-25
+  issued: '2020-03-25'
   expires: null
   location: Göteborg
 
 - orgNumber: 802426-0484
   orgName: Insamlingsstiftelsen Indian Children
-  issued: 2019-07-31
+  issued: '2019-07-31'
   expires: null
   location: Uppsala
 
 - orgNumber: 802426-0492
   orgName: Lifewatch – Niclas Öberg Foundation
-  issued: 2021-02-24
+  issued: '2021-02-24'
   expires: null
   location: Stockholm
 
 - orgNumber: 802426-1250
   orgName: Sverige för UNHCR Insamlingsstiftelse
-  issued: 2019-09-27
+  issued: '2019-09-27'
   expires: null
   location: Stockholm
 
 - orgNumber: 802426-1268
   orgName: Insamlingsstiftelsen Wateraid
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802426-3090
   orgName: Insamlingsstiftelsen Lions Cancerforskningsfond i västra Sverige
-  issued: 2023-05-29
+  issued: '2023-05-29'
   expires: null
   location: Göteborg
 
 - orgNumber: 802426-3132
   orgName: Barn I Fokus Insamlingsstiftelse
-  issued: 2019-09-16
+  issued: '2019-09-16'
   expires: null
   location: Gävle
 
 - orgNumber: 802426-4734
   orgName: Insamlingsstiftelsen Operation Smile Sverige II
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802428-7636
   orgName: Nordisk Hjälp
-  issued: 2019-08-27
+  issued: '2019-08-27'
   expires: null
   location: Malmö
 
 - orgNumber: 802431-3044
   orgName: ActionAid International Sweden
-  issued: 2019-08-02
+  issued: '2019-08-02'
   expires: null
   location: Stockholm
 
+- orgNumber: 802432-6194
+  orgName: Föreningen Kontrakultur
+  issued: '2019-08-02'
+  expires: '2021-05-15'
+  location: null
+
 - orgNumber: 802435-8619
   orgName: Föreningen Kampi Ya Motos Barn
-  issued: 2024-01-04
+  issued: '2024-01-04'
   expires: null
   location: Malmö
 
 - orgNumber: 802439-9845
   orgName: Open Doors - Sverige
-  issued: 2020-05-04
+  issued: '2020-05-04'
   expires: null
   location: Jönköping
 
 - orgNumber: 802443-2364
   orgName: Äldrekontakt
-  issued: 2019-10-30
+  issued: '2019-10-30'
   expires: null
   location: Stockholm
 
 - orgNumber: 802445-3675
   orgName: Föreningen Skolprojekt Sudan, Anitha Academy
-  issued: 2019-12-17
+  issued: '2019-12-17'
   expires: null
   location: Skövde
 
 - orgNumber: 802450-1424
   orgName: Lyft ett barn ut ur mörkret
-  issued: 2021-01-01
+  issued: '2021-01-01'
   expires: null
   location: Upplands-Bro
 
 - orgNumber: 802452-4681
   orgName: ALEF, Adult Learning and Empowerment Facilitators
-  issued: 2020-02-26
+  issued: '2020-02-26'
   expires: null
   location: Stockholm
 
 - orgNumber: 802455-9794
   orgName: Föreningen för gatubarn i Nepal
-  issued: 2020-08-24
+  issued: '2020-08-24'
   expires: null
   location: Västerås
 
 - orgNumber: 802456-7417
   orgName: Mutomoprojekten
-  issued: 2020-02-28
+  issued: '2020-02-28'
   expires: null
   location: Uppsala
 
 - orgNumber: 802458-7720
   orgName: Föreningen Skolbarn Afrika
-  issued: 2019-07-12
+  issued: '2019-07-12'
   expires: null
   location: Alingsås
 
 - orgNumber: 802462-1453
   orgName: Insamlingsföreningen Kinondo Support
-  issued: 2020-05-27
+  issued: '2020-05-27'
   expires: null
   location: Stockholm
 
 - orgNumber: 802464-0065
   orgName: Uppsala Stadsmission
-  issued: 2020-04-03
+  issued: '2020-04-03'
   expires: null
   location: Uppsala
 
 - orgNumber: 802465-2169
   orgName: Föreningen Storasyster
-  issued: 2021-11-04
+  issued: '2021-11-04'
   expires: null
   location: Stockholm
 
 - orgNumber: 802467-4544
   orgName: Dandelion Africa Sverige
-  issued: 2019-11-26
+  issued: '2019-11-26'
   expires: null
   location: Göteborg
 
+- orgNumber: 802467-4676
+  orgName: Focus on Africa
+  issued: '2020-05-25'
+  expires: '2023-12-31'
+  location: null
+
+- orgNumber: 802467-5772
+  orgName: Föreningen Tilia
+  issued: '2020-04-30'
+  expires: '2023-12-31'
+  location: null
+
 - orgNumber: 802467-9956
   orgName: Compassion Sverige
-  issued: 2019-08-22
+  issued: '2019-08-22'
   expires: null
   location: Stockholm
 
 - orgNumber: 802469-5424
   orgName: From One To Another
-  issued: 2020-12-09
+  issued: '2020-12-09'
   expires: null
   location: Lidingö
 
 - orgNumber: 802471-1635
   orgName: Den Helige Savas Barnfond
-  issued: 2021-02-15
+  issued: '2021-02-15'
   expires: null
   location: Helsingborg
 
 - orgNumber: 802471-6451
   orgName: Al-Ayn for social care Sweden
-  issued: 2023-01-05
+  issued: '2023-01-05'
   expires: null
   location: Stockholm
 
 - orgNumber: 802472-8910
   orgName: World children need
-  issued: 2024-05-17
+  issued: '2024-05-17'
   expires: null
   location: Vetlanda
 
 - orgNumber: 802477-3643
   orgName: Insamlingsstiftelsen JLOF (Jeremiah Lucas Opira Foundation) Sweden
-  issued: 2023-03-03
+  issued: '2023-03-03'
   expires: null
   location: Stockholm
 
 - orgNumber: 802477-5267
   orgName: Insamlingsstiftelsen Perus vänner
-  issued: 2019-10-14
+  issued: '2019-10-14'
   expires: null
   location: Göteborg
 
 - orgNumber: 802477-7495
   orgName: Insamlingsstiftelsen till minne av Gustav Whitefield
-  issued: 2024-02-15
+  issued: '2024-02-15'
   expires: null
   location: Göteborg
 
 - orgNumber: 802477-8188
   orgName: Insamlingsstiftelsen Sightsavers International Sverige
-  issued: 2019-08-20
+  issued: '2019-08-20'
   expires: null
   location: Stockholm
 
 - orgNumber: 802477-8238
   orgName: Human Bridge Stiftelse
-  issued: 2019-07-30
+  issued: '2019-07-30'
   expires: null
   location: Stockholm
 
 - orgNumber: 802477-9202
   orgName: Insamlingsstiftelsen Njurfonden
-  issued: 2022-01-01
+  issued: '2022-01-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802477-9269
   orgName: Insamlingsstiftelsen för Oxfam Sverige
-  issued: 2021-06-24
+  issued: '2021-06-24'
   expires: null
   location: Stockholm
 
 - orgNumber: 802477-9293
   orgName: Solvatten Insamlingsstiftelse
-  issued: 2022-06-08
+  issued: '2022-06-08'
   expires: null
   location: Stockholm
 
 - orgNumber: 802477-9533
   orgName: Insamlingsstiftelsen Al Cuds
-  issued: 2021-10-12
+  issued: '2021-10-12'
   expires: null
   location: Malmö
 
+- orgNumber: 802477-9608
+  orgName: Stiftelsen The Espersen Foundation
+  issued: '2020-11-23'
+  expires: '2023-12-31'
+  location: null
+
 - orgNumber: 802478-1141
   orgName: Insamlingsstiftelsen Regnbågsfonden
-  issued: 2021-01-27
+  issued: '2021-01-27'
   expires: null
   location: Stockholm
 
 - orgNumber: 802478-1505
   orgName: Insamlingsstiftelsen Childfriend
-  issued: 2023-01-13
+  issued: '2023-01-13'
   expires: null
   location: Jönköping
 
 - orgNumber: 802478-1885
   orgName: Human Rights Watch Scandinavia Insamlingsstiftelsen
-  issued: 2020-09-30
+  issued: '2020-09-30'
   expires: null
   location: Stockholm
 
 - orgNumber: 802478-2842
   orgName: Help Kurdistan Insamlingsstiftelse
-  issued: 2020-04-07
+  issued: '2020-04-07'
   expires: null
   location: Stockholm
 
 - orgNumber: 802478-3410
   orgName: Stiftelsen New Life Mission
-  issued: 2020-09-01
+  issued: '2020-09-01'
   expires: null
   location: Ydre
 
 - orgNumber: 802478-3436
   orgName: Insamlingsstiftelsen 1000 Möjligheter
-  issued: 2024-06-20
+  issued: '2024-06-20'
   expires: null
   location: Stockholm
 
 - orgNumber: 802478-3733
   orgName: Insamlingsstiftelsen Mitt Fadderbarn
-  issued: 2019-11-13
+  issued: '2019-11-13'
   expires: null
   location: Mullsjö
 
 - orgNumber: 802478-8476
   orgName: Insamlingsstiftelsen Hudfonden
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802479-8327
   orgName: Insamlingsstiftelsen Y.O.U.N.G.
-  issued: 2022-01-11
+  issued: '2022-01-11'
   expires: null
   location: Borås
 
 - orgNumber: 802479-8467
   orgName: Insamlingsstiftelsen för Filipinernas skolbarn
-  issued: 2019-07-31
+  issued: '2019-07-31'
   expires: null
   location: Göteborg
 
 - orgNumber: 802480-1253
   orgName: Stiftelsen Bernt Katinas Minne
-  issued: 2021-03-04
+  issued: '2021-03-04'
   expires: null
   location: Malmö
 
+- orgNumber: 802480-1568
+  orgName: Insamlingsstiftelsen High-Five till minne av Martha Elin
+  issued: '2019-10-15'
+  expires: '2020-10-28'
+  location: null
+
 - orgNumber: 802480-2558
   orgName: Loza Foundation insamlingsstiftelse
-  issued: 2024-07-15
+  issued: '2024-07-15'
   expires: null
   location: Varberg
 
 - orgNumber: 802480-4679
   orgName: Stiftelsen Musikbojen
-  issued: 2021-05-17
+  issued: '2021-05-17'
   expires: null
   location: Viken
 
 - orgNumber: 802480-8472
   orgName: Insamlingsstiftelsen Mi Casita Argentina
-  issued: 2021-01-21
+  issued: '2021-01-21'
   expires: null
   location: Sollentuna
 
 - orgNumber: 802481-1922
   orgName: Lena Wäpplings Stiftelse
-  issued: 2022-11-22
+  issued: '2022-11-22'
   expires: null
   location: Västerås
 
 - orgNumber: 802481-2359
   orgName: Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-Örebro
-  issued: 2022-03-17
+  issued: '2022-03-17'
   expires: null
   location: Nordanstig
 
 - orgNumber: 802481-2953
   orgName: International Rescue Committee Sverige Insamlingsstiftelse
-  issued: 2022-04-20
+  issued: '2022-04-20'
   expires: null
   location: Stockholm
 
 - orgNumber: 802489-9265
   orgName: Muslim Aid Sweden
-  issued: 2021-02-17
+  issued: '2021-02-17'
   expires: null
   location: Stockholm
 
 - orgNumber: 802497-7434
   orgName: IOGT-NTO-rörelsen ideell förening
-  issued: 2023-06-01
+  issued: '2023-06-01'
   expires: null
   location: Stockholm
 
 - orgNumber: 802498-2301
   orgName: Projekt NIMA
-  issued: 2023-11-08
+  issued: '2023-11-08'
   expires: null
   location: Stockholm
 
 - orgNumber: 802502-3220
   orgName: Help at Hand
-  issued: 2022-02-23
+  issued: '2022-02-23'
   expires: null
   location: Vellinge
 
+- orgNumber: 802505-4464
+  orgName: Springaid International Development (SAID) Sweden
+  issued: '2020-03-19'
+  expires: '2023-12-31'
+  location: null
+
 - orgNumber: 802505-9208
   orgName: Nema Problema
-  issued: 2023-02-24
+  issued: '2023-02-24'
   expires: null
   location: Stockholm
 
 - orgNumber: 802507-8182
   orgName: Project Education
-  issued: 2019-09-19
+  issued: '2019-09-19'
   expires: null
   location: Stockholm
 
+- orgNumber: 802511-5489
+  orgName: Gula bandet
+  issued: '2021-01-01'
+  expires: '2021-12-31'
+  location: null
+
 - orgNumber: 802516-2671
   orgName: Friends of the Panzi Hospital
-  issued: 2024-05-06
+  issued: '2024-05-06'
   expires: null
   location: Stockholm
 
 - orgNumber: 802526-3420
   orgName: Givande Hand
-  issued: 2023-03-31
+  issued: '2023-03-31'
   expires: null
   location: Huddinge
 
 - orgNumber: 802529-0662
   orgName: Nationell Kvinnojour och stöd på teckenspråk
-  issued: 2023-06-15
+  issued: '2023-06-15'
   expires: null
   location: Stockholm
 
 - orgNumber: 802536-0739
   orgName: Ge effektivt
-  issued: 2023-01-25
+  issued: '2023-01-25'
   expires: null
   location: Stockholm
 
+- orgNumber: 802538-8045
+  orgName: Help Ukraine in Gothenburg
+  issued: '2024-09-05'
+  expires: null
+  location: Göteborg
+
 - orgNumber: 802539-3862
   orgName: Kraftens Hus Stockholm
-  issued: 2024-06-14
+  issued: '2024-06-14'
   expires: null
   location: Stockholm
 
 - orgNumber: 814000-8643
   orgName: Föreningen Hand in Hand Sweden
-  issued: 2019-07-18
+  issued: '2019-07-18'
   expires: null
   location: Stockholm, Värmdö
 
 - orgNumber: 814400-9639
   orgName: Stiftelsen Motorfabriken Pythagoras
-  issued: 2020-09-30
+  issued: '2020-09-30'
   expires: null
   location: Norrtälje
 
 - orgNumber: 814800-9353
   orgName: Föreningen Palmeras Vänner
-  issued: 2021-06-10
+  issued: '2021-06-10'
   expires: null
   location: Stockholm
 
 - orgNumber: 814801-2324
   orgName: A World of Friends Sweden
-  issued: 2019-10-30
+  issued: '2019-10-30'
   expires: null
   location: Upplands Väsby
 
 - orgNumber: 815200-2583
   orgName: Cancerföreningen i Stockholm
-  issued: 2019-10-21
+  issued: '2019-10-21'
   expires: null
   location: Solna
 
 - orgNumber: 815200-8317
   orgName: Svenska sällskapet för medicinsk forskning
-  issued: 2019-10-04
+  issued: '2019-10-04'
   expires: null
   location: Solna
 
+- orgNumber: 816400-0922
+  orgName: Sjundedags Adventistsamfundet
+  issued: '2020-09-11'
+  expires: '2023-12-31'
+  location: null
+
 - orgNumber: 817001-4388
   orgName: MDD Merhamet Sverige, Humanitär Förening
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Enköping
 
 - orgNumber: 822001-0022
   orgName: Östergötlands stadsmission
-  issued: 2020-11-25
+  issued: '2020-11-25'
   expires: null
   location: Linköping
 
 - orgNumber: 822001-7506
   orgName: MAF Sweden
-  issued: 2019-12-16
+  issued: '2019-12-16'
   expires: null
   location: Örebro
 
 - orgNumber: 822002-0187
   orgName: Biståndsorganisationen Hjärta till Hjärta
-  issued: 2019-07-30
+  issued: '2019-07-30'
   expires: null
   location: Linköping
 
+- orgNumber: 824000-1779
+  orgName: Birgittastiftelsen
+  issued: '2019-08-08'
+  expires: '2022-12-31'
+  location: null
+
 - orgNumber: 826000-4372
   orgName: Svenska Alliansmissionen
-  issued: 2024-01-05
+  issued: '2024-01-05'
   expires: null
   location: Jönköping
 
 - orgNumber: 826002-2630
   orgName: Sam-Hjälp
-  issued: 2019-07-31
+  issued: '2019-07-31'
   expires: null
   location: Jönköping
 
 - orgNumber: 826500-5010
   orgName: Insamlingsstiftelsen Svenska Barnhjälpen (ISB)
-  issued: 2020-06-03
+  issued: '2020-06-03'
   expires: null
   location: Aneby
 
 - orgNumber: 826500-5556
   orgName: Insamlingsstiftelsen Caminul Felix
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Aneby
 
 - orgNumber: 827500-4789
   orgName: Erikshjälpen, Insamlingsstiftelsen farbror Eriks barn- och hjälpverksamhet
-  issued: 2019-09-02
+  issued: '2019-09-02'
   expires: null
   location: Jönköping
 
 - orgNumber: 828001-0359
   orgName: Sveriges Veteranförbund
-  issued: 2022-01-01
+  issued: '2022-01-01'
   expires: null
   location: Stockholm
 
+- orgNumber: 829502-1748
+  orgName: Cancerstiftelsen i Kronobergs län
+  issued: '2024-08-19'
+  expires: null
+  location: Växjö
+
 - orgNumber: 832401-8376
   orgName: Föreningen Kalmar Stadsmission
-  issued: 2021-01-01
+  issued: '2021-01-01'
   expires: null
   location: Kalmar
 
 - orgNumber: 837000-7240
   orgName: Stiftelsen Team Mission
-  issued: 2020-07-02
+  issued: '2020-07-02'
   expires: null
   location: Mullsjö
 
 - orgNumber: 838200-5281
   orgName: Föreningen Furuboda
-  issued: 2019-12-03
+  issued: '2019-12-03'
   expires: null
   location: Kristianstad
 
 - orgNumber: 838201-5777
   orgName: Föreningen Barnens Bästa
-  issued: 2020-03-23
+  issued: '2020-03-23'
   expires: null
   location: Lund
 
 - orgNumber: 843003-3160
   orgName: Insamlingsstiftelsen stödfonden för hemlösa i Helsingborg
-  issued: 2019-09-23
+  issued: '2019-09-23'
   expires: null
   location: Helsingborg
 
 - orgNumber: 845000-0768
   orgName: IM Individuell Människohjälp
-  issued: 2021-04-08
+  issued: '2021-04-08'
   expires: null
   location: Lund
 
 - orgNumber: 845000-0842
   orgName: Kulturhistoriska Föreningen för Södra Sverige
-  issued: 2020-01-15
+  issued: '2020-01-15'
   expires: null
   location: Lund
 
 - orgNumber: 845000-4240
   orgName: Föreningen Svalorna Indien
-  issued: 2021-10-11
+  issued: '2021-10-11'
   expires: null
   location: Lund
 
 - orgNumber: 845001-8844
   orgName: Insamlingsstiftelsen alzheimerfonden
-  issued: 2020-03-11
+  issued: '2020-03-11'
   expires: null
   location: Lund
 
+- orgNumber: 846000-5088
+  orgName: Pastor Anders Svärds Stiftelse
+  issued: '2020-07-22'
+  expires: '2024-04-16'
+  location: null
+
 - orgNumber: 846002-8734
   orgName: Stiftelsen Skandinaviska barnmissionen
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Malmö
 
 - orgNumber: 846003-5150
   orgName: Stiftelsen Rotarys Läkarbank
-  issued: 2020-01-13
+  issued: '2020-01-13'
   expires: null
   location: Malmö
 
 - orgNumber: 846003-9020
   orgName: Barnfonden
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Malmö
 
 - orgNumber: 846004-8716
   orgName: Stiftelsen Skåne Stadsmission
-  issued: 2020-01-28
+  issued: '2020-01-28'
   expires: null
   location: Malmö
 
 - orgNumber: 846005-8418
   orgName: Senapsfröet
-  issued: 2020-02-06
+  issued: '2020-02-06'
   expires: null
   location: Malmö
 
+- orgNumber: 848001-1843
+  orgName: Freezonen – kvinno-, tjej- och brottsofferjour
+  issued: '2020-06-26'
+  expires: '2023-12-31'
+  location: null
+
 - orgNumber: 849202-0287
   orgName: Insamlingsstiftelsen Hjälp Margit Hjälpa
-  issued: 2019-11-04
+  issued: '2019-11-04'
   expires: null
   location: Halmstad
 
 - orgNumber: 852000-5995
   orgName: Barn i nöd – insamlingsstiftelse svensk internationell barnhjälp
-  issued: 2019-08-26
+  issued: '2019-08-26'
   expires: null
   location: Göteborg
 
+- orgNumber: 855100-2002
+  orgName: Insamlingsstiftelsen Gatubarn
+  issued: '2019-08-29'
+  expires: '2022-12-31'
+  location: null
+
 - orgNumber: 855100-5161
   orgName: Insamlingsstiftelsen för Abrigo Rainha Silvia
-  issued: 2019-08-02
+  issued: '2019-08-02'
   expires: null
   location: Göteborg
 
 - orgNumber: 855101-4874
   orgName: Stiftelsen Parkinsonförbundets forskningsfond
-  issued: 2019-08-15
+  issued: '2019-08-15'
   expires: null
   location: Göteborg
 
 - orgNumber: 857202-5974
   orgName: Göteborgs Räddningsmission
-  issued: 2020-01-01
+  issued: '2020-01-01'
   expires: null
   location: Göteborg
 
 - orgNumber: 857206-6812
   orgName: Reningsborg
-  issued: 2020-03-04
+  issued: '2020-03-04'
   expires: null
   location: Göteborg
 
 - orgNumber: 857209-1034
   orgName: Insamlingsstiftelsen Shatilas Barn O Ungdomscenter
-  issued: 2021-06-01
+  issued: '2021-06-01'
   expires: null
   location: Göteborg
 
 - orgNumber: 857209-1422
   orgName: Prostatacancerförbundet
-  issued: 2022-07-07
+  issued: '2022-07-07'
   expires: null
   location: Solna
 
 - orgNumber: 857209-4129
   orgName: Rav, Riksorganisationen för anhöriga
-  issued: 2021-10-22
+  issued: '2021-10-22'
   expires: null
   location: Stockholm
 
 - orgNumber: 857209-6272
   orgName: Insamlingsstiftelsen Utbildning för Brasiliens Framtid
-  issued: 2019-10-14
+  issued: '2019-10-14'
   expires: null
   location: Nora
 
 - orgNumber: 862000-4344
   orgName: Insamlingsstiftelsen Barnsamariten
-  issued: 2019-08-16
+  issued: '2019-08-16'
   expires: null
   location: Jönköping
 
 - orgNumber: 864501-7768
   orgName: Stiftelsen Borås forsknings och utvecklingsfond mot cancer
-  issued: 2021-05-26
+  issued: '2021-05-26'
   expires: null
   location: Borås
 
 - orgNumber: 866000-8809
   orgName: Hannas Hjälpverksamhet
-  issued: 2020-09-03
+  issued: '2020-09-03'
   expires: null
   location: Örebro
 
 - orgNumber: 867200-7393
   orgName: Gambiagrupperna
-  issued: 2022-10-31
+  issued: '2022-10-31'
   expires: null
   location: Jönköping
 
+- orgNumber: 873201-7747
+  orgName: Boliviavännernas Insamlingsstiftelse
+  issued: '2024-08-05'
+  expires: null
+  location: Grums
+
 - orgNumber: 875001-4063
   orgName: Lepramissionen Sverige
-  issued: 2019-08-28
+  issued: '2019-08-28'
   expires: null
   location: Kumla
 
 - orgNumber: 875001-9807
   orgName: Stiftelsen för medicinsk forskning vid RSÖ-nyckelfonden
-  issued: 2020-03-31
+  issued: '2020-03-31'
   expires: null
   location: Örebro
 
 - orgNumber: 875002-7271
   orgName: Evangeliska Frikyrkan
-  issued: 2019-09-23
+  issued: '2019-09-23'
   expires: null
   location: Örebro
 
 - orgNumber: 875002-7800
   orgName: Insamlingsstiftelsen Ankaret
-  issued: 2024-04-17
+  issued: '2024-04-17'
   expires: null
   location: Tibro
 
 - orgNumber: 882600-8321
   orgName: Hoppets stjärna insamlingsstiftelse
-  issued: 2019-08-01
+  issued: '2019-08-01'
   expires: null
   location: Örnsköldsvik
 
+- orgNumber: 885000-0251
+  orgName: Pingstförsamlingen i Gävle
+  issued: '2019-07-23'
+  expires: '2022-12-31'
+  location: null
+
 - orgNumber: 886500-6947
   orgName: Trosgnistans Mission
-  issued: 2019-09-19
+  issued: '2019-09-19'
   expires: null
   location: Bollnäs
 
 - orgNumber: 887501-2687
   orgName: Hjälp till Liv International
-  issued: 2020-06-12
+  issued: '2020-06-12'
   expires: null
   location: Hudiksvall
 
 - orgNumber: 894001-4007
   orgName: Cancerforskningsfonden i Norrland
-  issued: 2021-03-26
+  issued: '2021-03-26'
   expires: null
   location: Umeå
 
 - orgNumber: 898800-8796
   orgName: Sri Lanka Barns Vänner
-  issued: 2019-11-14
+  issued: '2019-11-14'
   expires: null
   location: Stockholm
