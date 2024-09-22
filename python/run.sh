@@ -4,6 +4,8 @@
 # Sort entries
 python3 ./entries-sort.py
 
+# Uppdate gåvomottagare from Masterdata
+python3 ./entries-update-gåvomottagare.py
 
 # Render JSON
 python3 ./entries-to-json.py
