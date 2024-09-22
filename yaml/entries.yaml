@@ -88,6 +88,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://www.rodakorset.se/
 
@@ -97,6 +98,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://www.rodakorset.se/
 
@@ -106,6 +108,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://www.rodakorset.se/
 
@@ -684,6 +687,7 @@ entries:
   orgNumber: 802006-1688
   comment: Musikkåren Norrköping
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/norrkoping/
 
@@ -1562,6 +1566,7 @@ entries:
   orgNumber: 252002-6135
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.svenskakyrkan.se/costablanca
 
@@ -2081,6 +2086,7 @@ entries:
   orgNumber: 802006-1688
   comment: Malmö Julgrytan
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/malmo/
 
@@ -3708,6 +3714,7 @@ entries:
   orgNumber: 817001-4388
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   - välgörenhet
   web: https://www.merhamet.se/
@@ -3901,6 +3908,7 @@ entries:
   orgNumber: 802006-1688
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/officersskolan/
 
@@ -5051,6 +5059,7 @@ entries:
   orgNumber: 802002-8638
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://www.forsoningsgruppen.com/
 
@@ -5518,6 +5527,7 @@ entries:
   orgNumber: 802006-1688
   comment: Nyköping
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Nykoping/
 
@@ -5699,6 +5709,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://sverigeforunhcr.se/
 
@@ -6434,6 +6445,7 @@ entries:
   orgNumber: 802006-1688
   comment: Falun
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Falun/
 
@@ -7841,6 +7853,7 @@ entries:
   comment: null
   categories:
   - föräldraförening
+  - godkänd gåvomottagare
   web: https://fmn-sthlm.se/
 
 - entry: 1230484923
@@ -7909,6 +7922,7 @@ entries:
   orgNumber: 802006-1688
   comment: Skövde
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/skovde/
 
@@ -8537,6 +8551,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - hjälporganisation
   - stiftelse
   web: https://se.rescue.org/
@@ -8811,6 +8826,7 @@ entries:
   orgNumber: 802006-1688
   comment: Norrtälje
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/norrtalje/
 
@@ -9233,6 +9249,7 @@ entries:
   comment: Team Aron CK
   categories:
   - cancerforskning
+  - godkänd gåvomottagare
   web: https://www.barncancerfonden.se/event/team-aron-ck/
 
 - entry: 1230569814
@@ -9266,6 +9283,7 @@ entries:
   orgNumber: 802002-8711
   comment: Ukraina
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   - insamling
   - ukraina
@@ -10121,6 +10139,7 @@ entries:
   orgNumber: 802006-1688
   comment: Templet Stockholm socialt arbete
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/templet-stockholm/
 
@@ -10129,6 +10148,7 @@ entries:
   orgNumber: 802538-8045
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   - insamling
   - ukraina
@@ -10856,6 +10876,7 @@ entries:
   comment: Gula bandet
   categories:
   - förbund
+  - godkänd gåvomottagare
   web: http://www.gulabandet.se/
 
 - entry: 1230705566
@@ -11000,6 +11021,7 @@ entries:
   orgNumber: 802426-1268
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   - insamling
   web: https://www.wateraid.org/
@@ -11328,6 +11350,7 @@ entries:
   orgNumber: 802006-1688
   comment: Söderkåren
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/soderkaren/
 
@@ -11666,6 +11689,7 @@ entries:
   orgNumber: 802006-1688
   comment: Ystad
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Ystad/
 
@@ -11906,6 +11930,7 @@ entries:
   orgNumber: 802004-0575
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.pingst.se/forsamling/natverk/pastor/
 
@@ -11986,6 +12011,7 @@ entries:
   comment: null
   categories:
   - förening
+  - godkänd gåvomottagare
   - kulturförening
   - kulturhistoria
   web: https://www.kulturen.com/
@@ -12047,6 +12073,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://sverigeforunhcr.se/
 
@@ -12178,6 +12205,7 @@ entries:
   orgNumber: 802478-8476
   comment: null
   categories:
+  - godkänd gåvomottagare
   - stiftelse
   web: https://hudfonden.se/
 
@@ -13099,6 +13127,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - intresseförening
   web: https://www.sipri.org/
 
@@ -14301,6 +14330,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://sverigeforunhcr.se/
 
@@ -15030,6 +15060,7 @@ entries:
   orgNumber: 802006-1688
   comment: Skillingaryd
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/skillingaryd/
 
@@ -15808,6 +15839,7 @@ entries:
   orgNumber: 802002-8711
   comment: Ukraina-insamling
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   - ukraina
   web: https://www.rodakorset.se/
@@ -17788,6 +17820,7 @@ entries:
   orgNumber: 802006-1688
   comment: Kalmar
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://fakalmar.se/
 
@@ -18132,6 +18165,7 @@ entries:
   orgNumber: 802006-1688
   comment: Skövde
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/skovde/
 
@@ -19374,6 +19408,7 @@ entries:
   orgNumber: 802479-8327
   comment: null
   categories:
+  - godkänd gåvomottagare
   - stiftelse
   web: http://www.stiftelsenyoung.se/
 
@@ -19681,6 +19716,7 @@ entries:
   orgNumber: 802006-1688
   comment: Visby
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/visby/
 
@@ -20053,6 +20089,7 @@ entries:
   comment: null
   categories:
   - forskning
+  - godkänd gåvomottagare
   - stiftelse
   web: http://www.cancerstiftelsen-kronoberg.se/
 
@@ -20832,6 +20869,7 @@ entries:
   orgNumber: 802426-1250
   comment: Insamling Ukraina
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   - insamling
   - ukraina
@@ -21106,6 +21144,7 @@ entries:
   orgNumber: 802406-7103
   comment: '#claravintern'
   categories:
+  - godkänd gåvomottagare
   - humanitär hjälpverksamhet
   - religion
   - sociala insatser
@@ -22452,6 +22491,7 @@ entries:
   orgNumber: 826000-4372
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://alliansmissionen.se/
 
@@ -23662,6 +23702,7 @@ entries:
   orgNumber: 802006-1688
   comment: Trollhättan
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Trollhattan/
 
@@ -24457,6 +24498,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://sverigeforunhcr.se/
 
@@ -24869,6 +24911,7 @@ entries:
   orgNumber: 802006-1688
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/karlstad
 
@@ -26490,6 +26533,7 @@ entries:
   orgNumber: 802006-1688
   comment: Historiska Sällskapet
   categories:
+  - godkänd gåvomottagare
   - historieförening
   - religion
   web: https://www.fralsningsarmen.se/templet-stockholm/
@@ -26899,6 +26943,7 @@ entries:
   orgNumber: 802489-9265
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   - välgörenhet
   web: https://muslimaid.se/
@@ -29157,6 +29202,7 @@ entries:
   categories:
   - förbund
   - förening
+  - godkänd gåvomottagare
   web: https://www.sverigesveteranforbund.se/
 
 - entry: 1231814565
@@ -30273,6 +30319,7 @@ entries:
   orgNumber: 802000-8184
   comment: Johannelunds teologiska högskola
   categories:
+  - godkänd gåvomottagare
   - religion
   - utbildning
   web: https://www.efs.nu/
@@ -32184,6 +32231,7 @@ entries:
   orgNumber: 802006-1688
   comment: Eskilstuna
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/eskilstuna/
 
@@ -32211,6 +32259,7 @@ entries:
   orgNumber: 802003-1178
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: http://www.socialamissionen.se/
 
@@ -32368,6 +32417,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://sverigeforunhcr.se/
 
@@ -35551,6 +35601,7 @@ entries:
   orgNumber: 802006-1688
   comment: Haparanda
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/haparanda/
 
@@ -38215,6 +38266,7 @@ entries:
   orgNumber: 252004-7131
   comment: Gåvor
   categories:
+  - godkänd gåvomottagare
   - religion
   web: http://equmeniakyrkan.se/
 
@@ -39415,6 +39467,7 @@ entries:
   orgNumber: 802006-1688
   comment: Arvika
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/arvika/
 
@@ -40777,6 +40830,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   - insamling
   web: https://www.sverigeforunhcr.se/
@@ -42308,6 +42362,7 @@ entries:
   orgNumber: 802006-1688
   comment: Tranås
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Tranas/
 
@@ -43517,6 +43572,7 @@ entries:
   orgNumber: 802006-1688
   comment: Södertälje Musikkår
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/sodertalje/
 
@@ -45256,6 +45312,7 @@ entries:
   orgNumber: 802006-1688
   comment: Helsingborg
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Helsingborg/
 
@@ -45516,6 +45573,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - hjälporganisation
   - humanitär hjälpverksamhet
   web: https://www.senapsfroet.org/
@@ -45679,6 +45737,7 @@ entries:
   orgNumber: 846003-5150
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   - rotaryklubb
   web: https://www.rotarydoctors.se/
@@ -45794,6 +45853,7 @@ entries:
   orgNumber: 802006-1688
   comment: Sala
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/sala/
 
@@ -45952,6 +46012,7 @@ entries:
   orgNumber: 802478-3436
   comment: null
   categories:
+  - godkänd gåvomottagare
   - stiftelse
   web: http://www.1000mojligheter.se/
 
@@ -46112,6 +46173,7 @@ entries:
   comment: null
   categories:
   - förening
+  - godkänd gåvomottagare
   web: http://www.nemaproblema.se/
 
 - entry: 1232918662
@@ -47403,6 +47465,7 @@ entries:
   orgNumber: 802472-8910
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://worldchildrenneed.org/
 
@@ -48789,6 +48852,7 @@ entries:
   orgNumber: 802002-8638
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://www.raddabarnen-uppsala.se/
 
@@ -49896,6 +49960,7 @@ entries:
   orgNumber: 802006-1688
   comment: Västerås
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Vasteras/
 
@@ -49989,6 +50054,7 @@ entries:
   orgNumber: 802405-7815
   comment: Katastroffond
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   - insamling
   web: https://sos-barnbyar.se/
@@ -51508,6 +51574,7 @@ entries:
   orgNumber: 802006-1688
   comment: Hisingskåren
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/hisingskaren/
 
@@ -51854,6 +51921,7 @@ entries:
   orgNumber: 802006-1688
   comment: Eksjö
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/eksjo/
 
@@ -53438,6 +53506,7 @@ entries:
   orgNumber: 802006-1688
   comment: Norrköping
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/norrkoping/
 
@@ -55084,6 +55153,7 @@ entries:
   orgNumber: 802006-1688
   comment: Linköping
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/linkoping/
 
@@ -56476,6 +56546,7 @@ entries:
   orgNumber: 802467-4544
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: http://www.dandelionafrica.se/
 
@@ -56611,6 +56682,7 @@ entries:
   orgNumber: 802006-1688
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/oskarshamn/
 
@@ -57272,6 +57344,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://sverigeforunhcr.se/
 
@@ -58513,6 +58586,7 @@ entries:
   orgNumber: 802006-1688
   comment: Uppsala, Kåren
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Uppsala/
 
@@ -58788,6 +58862,7 @@ entries:
   orgNumber: 802006-1688
   comment: Nässjö
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/nassjo/
 
@@ -59025,6 +59100,7 @@ entries:
   orgNumber: 802478-1141
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamling
   - stiftelse
   web: https://www.regnbågshjärtan.se/
@@ -60522,6 +60598,7 @@ entries:
   orgNumber: 802006-1688
   comment: Strängnäs
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Strangnas/
 
@@ -60941,6 +61018,7 @@ entries:
   comment: Ekwall Rullar
   categories:
   - cancerforskning
+  - godkänd gåvomottagare
   - intresseförening
   web: https://www.ekwallrullar.se/
 
@@ -61084,6 +61162,7 @@ entries:
   comment: Salt - barn och unga i EFS
   categories:
   - donation
+  - godkänd gåvomottagare
   - religion
   - stiftelse
   web: https://www.efs.nu/
@@ -62220,6 +62299,7 @@ entries:
   orgNumber: 814400-9639
   comment: null
   categories:
+  - godkänd gåvomottagare
   - kulturförening
   - museum
   - stiftelse
@@ -63161,6 +63241,7 @@ entries:
   comment: null
   categories:
   - cancerförening
+  - godkänd gåvomottagare
   - intresseförening
   web: https://www.cancerfonden.se/rosabandet
 
@@ -65197,6 +65278,7 @@ entries:
   orgNumber: 802000-8184
   comment: BIAL - Barn i alla länder
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.efs.nu/
 
@@ -66198,6 +66280,7 @@ entries:
   orgNumber: 802006-1688
   comment: Sundsvall
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/sundsvall/
 
@@ -66868,6 +66951,7 @@ entries:
   orgNumber: 802006-1688
   comment: Borlänge
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Borlange/
 
@@ -67150,6 +67234,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://sverigeforunhcr.se/
 
@@ -67650,6 +67735,7 @@ entries:
   orgNumber: 802006-1688
   comment: Luleå
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Lulea/
 
@@ -67736,6 +67822,7 @@ entries:
   orgNumber: 802006-1688
   comment: Skellefteå
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/skelleftea/
 
@@ -70067,6 +70154,7 @@ entries:
   orgNumber: 802006-1688
   comment: Sociala Centret
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/sociala-centret/
 
@@ -71059,6 +71147,7 @@ entries:
   orgNumber: 802006-1688
   comment: Uppsala, Sociala Arbetet
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Uppsala/
 
@@ -72151,6 +72240,7 @@ entries:
   orgNumber: 802006-1688
   comment: Kristinehamn
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/kristinehamn/
 
@@ -73136,6 +73226,7 @@ entries:
   orgNumber: 802006-1688
   comment: Öckerö Öarna
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/faockerooarna/
 
@@ -74652,6 +74743,7 @@ entries:
   comment: null
   categories:
   - förbund
+  - godkänd gåvomottagare
   - intresseorganisation
   web: http://www.astmaoallergiforbundet.se/
 
@@ -74864,6 +74956,7 @@ entries:
   orgNumber: 802000-3276
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.elmbv.se/
 
@@ -75597,6 +75690,7 @@ entries:
   orgNumber: 802529-0662
   comment: null
   categories:
+  - godkänd gåvomottagare
   - kvinnojour
   - teckenspråk
   web: https://nkjt.se/
@@ -76166,6 +76260,7 @@ entries:
   orgNumber: 802502-3220
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://www.helpathand.se/
 
@@ -76253,6 +76348,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://sverigeforunhcr.se/
 
@@ -77278,6 +77374,7 @@ entries:
   orgNumber: 802401-4386
   comment: Namibia
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://www.unicef.org/namibia/
 
@@ -79798,6 +79895,7 @@ entries:
   orgNumber: 802006-1688
   comment: Gävle
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Gavle/
 
@@ -79806,6 +79904,7 @@ entries:
   orgNumber: 802006-1688
   comment: Skövde, Sociala arbetet
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/skovde/
 
@@ -79840,6 +79939,7 @@ entries:
   orgNumber: 802006-1688
   comment: Östersund
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/ostersund/
 
@@ -79912,6 +80012,7 @@ entries:
   orgNumber: 802006-1688
   comment: Varberg
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Varberg/
 
@@ -80372,6 +80473,7 @@ entries:
   orgNumber: 802006-1688
   comment: Krokek
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Krokek/
 
@@ -81270,6 +81372,7 @@ entries:
   orgNumber: 802006-1688
   comment: Mora
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Mora/
 
@@ -81874,6 +81977,7 @@ entries:
   orgNumber: 846003-9020
   comment: Indonesien
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://barnfonden.se/
 
@@ -82496,6 +82600,7 @@ entries:
   orgNumber: 802006-1688
   comment: Södertälje
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Sodertalje/
 
@@ -82916,6 +83021,7 @@ entries:
   orgNumber: 802006-1688
   comment: Tranås Julgryta
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/tranas/
 
@@ -83260,6 +83366,7 @@ entries:
   orgNumber: 802006-1688
   comment: Home Stockholm
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/home-stockholm/
 
@@ -84241,6 +84348,7 @@ entries:
   comment: Folkhögskolan
   categories:
   - folkhögskola
+  - godkänd gåvomottagare
   - hjälporganisation
   - rödakorset
   web: https://www.rodakorsetsfolkhogskola.se/
@@ -84572,6 +84680,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - rödakorset
   web: https://www.rodakorset.se/
 
@@ -84581,6 +84690,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - rödakorset
   web: https://www.rodakorset.se/
 
@@ -84632,6 +84742,7 @@ entries:
   orgNumber: 802006-1688
   comment: Västerås
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/vasteras/
 
@@ -85099,6 +85210,7 @@ entries:
   orgNumber: 802006-1688
   comment: Gävle
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Gavle/
 
@@ -87215,6 +87327,7 @@ entries:
   orgNumber: 802006-1688
   comment: Borås
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Boras/
 
@@ -87548,6 +87661,7 @@ entries:
   comment: null
   categories:
   - anhörigorganisation
+  - godkänd gåvomottagare
   - intresseorganisation
   - riksförbund
   web: https://anhorigasriksforbund.se/
@@ -89517,6 +89631,7 @@ entries:
   categories:
   - cancerforskning
   - donation
+  - godkänd gåvomottagare
   - lionsklubb
   web: https://www.lcfm.se/
 
@@ -91285,6 +91400,7 @@ entries:
   orgNumber: 802006-1688
   comment: Alingsås
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Alingsas/
 
@@ -91347,6 +91463,7 @@ entries:
   orgNumber: 802006-1688
   comment: Trollhättan Ungdomskåren
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Trollhattan/
 
@@ -91673,6 +91790,7 @@ entries:
   orgNumber: 802000-8184
   comment: EFS internationella mission
   categories:
+  - godkänd gåvomottagare
   - religion
   - stiftelse
   web: https://www.efs.nu/
@@ -91787,6 +91905,7 @@ entries:
   categories:
   - cancerforskning
   - donation
+  - godkänd gåvomottagare
   - lionsklubb
   web: null
 
@@ -92494,6 +92613,7 @@ entries:
   orgNumber: 252002-6135
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.svenskakyrkan.se/teneriffa
 
@@ -94641,6 +94761,7 @@ entries:
   orgNumber: 802004-1524
   comment: LRFs insamling
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://weeffect.se/
 
@@ -97018,6 +97139,7 @@ entries:
   orgNumber: 802426-1250
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://www.sverigeforunhcr.se/
 
@@ -97893,6 +98015,7 @@ entries:
   orgNumber: 802006-1688
   comment: Umeå
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Umea/Umea/
 
@@ -100501,6 +100624,7 @@ entries:
   orgNumber: 802010-6566
   comment: null
   categories:
+  - godkänd gåvomottagare
   - retired
   web: https://www.barncancerfonden.se/event/ride-of-hope/
 
@@ -100930,8 +101054,8 @@ entries:
   web: https://fryshuset.se/
 
 - entry: 1236667935
-  orgName: 556747-2781
-  orgNumber: Förarutbildning i Vindeln AB
+  orgName: Förarutbildning i Vindeln AB
+  orgNumber: 556747-2781
   comment: null
   categories:
   - trafikskola
@@ -103367,6 +103491,7 @@ entries:
   orgNumber: 802478-2842
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://www.helpkurdistan.se/
 
@@ -104061,6 +104186,7 @@ entries:
   orgNumber: 802477-9293
   comment: null
   categories:
+  - godkänd gåvomottagare
   - hjälporganisation
   web: https://solvatten.org/
 
@@ -105689,6 +105815,7 @@ entries:
   orgNumber: 802006-1688
   comment: Templet Stockholm Kåren
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/templet-stockholm/
 
@@ -105784,6 +105911,7 @@ entries:
   orgNumber: 802006-1688
   comment: Malmö
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/malmo/
 
@@ -105803,6 +105931,7 @@ entries:
   orgNumber: 802006-1688
   comment: Vilhelmina
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/vilhelmina/
 
@@ -106710,7 +106839,6 @@ entries:
   orgNumber: 802004-4510
   comment: Spontangåva
   categories:
-  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.hrf.se/
 
@@ -106851,6 +106979,7 @@ entries:
   orgNumber: 802010-8315
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - overifierad
   web: https://thehungerproject.se/
@@ -106908,6 +107037,7 @@ entries:
   orgNumber: 857209-1422
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.prostatacancerforbundet.se/
 
@@ -107019,6 +107149,7 @@ entries:
   orgNumber: 802435-8619
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.kampiyamotosbarn.se/
 
@@ -107036,6 +107167,7 @@ entries:
   orgNumber: 802010-4850
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - overifierad
   web: https://www.sak.se/
@@ -107975,6 +108107,7 @@ entries:
   orgNumber: 867200-7393
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.gambiagrupperna.org/
 
@@ -107992,6 +108125,7 @@ entries:
   orgNumber: 802009-6627
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   web: https://www.amref.se/
@@ -108581,7 +108715,6 @@ entries:
   orgNumber: 802004-4510
   comment: null
   categories:
-  - godkänd gåvomottagare
   - insamlingskontroll
   - overifierad
   web: https://www.hrf.se/
@@ -108977,6 +109110,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   - välgörenhet
@@ -109227,7 +109361,6 @@ entries:
   orgNumber: 855100-2002
   comment: null
   categories:
-  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   - terminated
@@ -109296,6 +109429,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   web: https://www.jlof.net/
@@ -109314,7 +109448,6 @@ entries:
   orgNumber: 855100-2002
   comment: null
   categories:
-  - godkänd gåvomottagare
   - insamlingskontroll
   - overifierad
   web: https://www.stiftelsengatubarn.se/
@@ -109423,6 +109556,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   web: https://www.childfriend.se/
@@ -109619,6 +109753,7 @@ entries:
   categories:
   - donation
   - förening
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.allakvinnorshus.org/
 
@@ -109951,6 +110086,7 @@ entries:
   orgNumber: 802009-6627
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - overifierad
   web: https://www.amref.se/
@@ -110130,6 +110266,7 @@ entries:
   orgNumber: 802497-7434
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.iogtntororelsen.se/
 
@@ -110395,6 +110532,7 @@ entries:
   orgNumber: 802012-1581
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.convictus.org/
 
@@ -110485,7 +110623,6 @@ entries:
   orgNumber: 802477-9608
   comment: null
   categories:
-  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   web: https://www.espersenfoundation.se/
@@ -110757,6 +110894,7 @@ entries:
   orgNumber: 857209-1422
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.prostatacancerforbundet.se/
 
@@ -110877,6 +111015,7 @@ entries:
   orgNumber: 802480-2558
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   web: https://www.lozafoundation.org/
@@ -110998,6 +111137,7 @@ entries:
   orgNumber: 802498-2301
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.projectnima.org/
 
@@ -111064,6 +111204,7 @@ entries:
   comment: null
   categories:
   - förbund
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.prostatacancerforbundet.se/
 
@@ -111180,6 +111321,7 @@ entries:
   orgNumber: 802009-6627
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - overifierad
   web: https://www.amref.se/
@@ -111276,6 +111418,7 @@ entries:
   orgNumber: 802502-3220
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.helpathand.se/
 
@@ -111313,6 +111456,7 @@ entries:
   orgNumber: 802505-9208
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - overifierad
   web: https://www.nemaproblema.se/
@@ -111578,7 +111722,6 @@ entries:
   comment: null
   categories:
   - brottsofferjour
-  - godkänd gåvomottagare
   - insamlingskontroll
   - kvinnojour
   web: https://www.freezonen.se/
@@ -111860,6 +112003,7 @@ entries:
   orgNumber: 802526-3420
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - välgörenhet
   web: https://www.givandehand.se/
@@ -111992,6 +112136,7 @@ entries:
   orgNumber: 802014-9483
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - riksförbund
   - välgörenhet
@@ -112002,6 +112147,7 @@ entries:
   orgNumber: 802478-3436
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   web: https://www.1000mojligheter.se/
@@ -112084,6 +112230,7 @@ entries:
   orgNumber: 802010-4850
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - välgörenhet
   web: https://www.sak.se/
@@ -112154,6 +112301,7 @@ entries:
   orgNumber: 802481-1922
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.lenawfoundation.com/
 
@@ -112379,6 +112527,7 @@ entries:
   comment: null
   categories:
   - cancerforskning
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://brostcancerforbundet.se/
 
@@ -112551,6 +112700,7 @@ entries:
   orgNumber: 826000-4372
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.alliansmissionen.se/
 
@@ -112560,6 +112710,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - hjälporganisation
   - insamlingskontroll
   web: https://worldchildrenneed.org/
@@ -112931,6 +113082,7 @@ entries:
   orgNumber: 802409-1970
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - kvinnojour
   web: https://www.terrafem.org/
@@ -113700,6 +113852,7 @@ entries:
   orgNumber: 802010-8315
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   - välgörenhet
