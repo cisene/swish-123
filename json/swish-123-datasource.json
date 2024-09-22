@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-22-rev-161741",
+    "date": "2024-09-22-rev-181843",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6878,6 +6878,17 @@
       "web": "https://lbsf.sksf.se/"
     },
     {
+      "entry": 1230353391,
+      "orgName": "S\u00f6dra Ljuster\u00f6 Byggnadsf\u00f6rening",
+      "orgNumber": "716400-1112",
+      "comment": null,
+      "categories": [
+        "byggnadsf\u00f6rening",
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://granliden-ljustero.se/"
+    },
+    {
       "entry": 1230354654,
       "orgName": "Vaksala Trafikskola AB",
       "orgNumber": "556884-9789",
@@ -9155,6 +9166,16 @@
         "skidorienteringsklubb"
       ],
       "web": "https://www.svenskalag.se/timrasok"
+    },
+    {
+      "entry": 1230470609,
+      "orgName": "Mysings\u00f6 Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716404-5606",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://mysingsosamf\u00e4llighet.se/"
     },
     {
       "entry": 1230470963,
@@ -22681,6 +22702,16 @@
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/pildammen.html"
     },
     {
+      "entry": 1231157122,
+      "orgName": "Svank\u00e4rrets Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717906-2950",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://sites.google.com/view/svankarret/"
+    },
+    {
       "entry": 1231157965,
       "orgName": "J\u00e4mtland Charity - Templar Knights Motorcycle Club",
       "orgNumber": "802465-6384",
@@ -32138,6 +32169,16 @@
       "web": "https://gifsundsvall.se/"
     },
     {
+      "entry": 1231630227,
+      "orgName": "Hensviks Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716418-9388",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://hensvik.eu/"
+    },
+    {
       "entry": 1231631092,
       "orgName": "Avesta Diamonds BBK",
       "orgNumber": "802538-4358",
@@ -33627,6 +33668,16 @@
         "orienteringsklubb"
       ],
       "web": "https://www.sno.nu/"
+    },
+    {
+      "entry": 1231730357,
+      "orgName": "\u00c5stols Samh\u00e4llsf\u00f6rening",
+      "orgNumber": "853300-7145",
+      "comment": null,
+      "categories": [
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://astol.se/"
     },
     {
       "entry": 1231730431,
@@ -40961,6 +41012,16 @@
       "web": "https://www.johanstrafikskola.com/"
     },
     {
+      "entry": 1232145621,
+      "orgName": "Snatra Sportstugef\u00f6rening",
+      "orgNumber": "802519-0151",
+      "comment": null,
+      "categories": [
+        "stug\u00e4garef\u00f6rening"
+      ],
+      "web": "http://www.snatra.se/"
+    },
+    {
       "entry": 1232145654,
       "orgName": "Landskrona Konstf\u00f6rening",
       "orgNumber": "844000-8038",
@@ -47751,6 +47812,16 @@
       "web": "https://klosterbryggeri.com/"
     },
     {
+      "entry": 1232468387,
+      "orgName": "F\u00f6reningen Ejgdetj\u00e4rnet",
+      "orgNumber": "802530-4240",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/groups/158673540856929/"
+    },
+    {
       "entry": 1232468673,
       "orgName": "Wembo\u00f6 Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "729500-4274",
@@ -53259,6 +53330,16 @@
       "web": "https://www.ljungbyif.nu/"
     },
     {
+      "entry": 1232776581,
+      "orgName": "Klockhammars Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717909-4268",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://klockhammar.se/"
+    },
+    {
       "entry": 1232776722,
       "orgName": "Bukten MTB",
       "orgNumber": "802517-1433",
@@ -56240,6 +56321,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232942316,
+      "orgName": "Br\u00e4nntorps V\u00e4gf\u00f6rening",
+      "orgNumber": "717902-3895",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening",
+        "v\u00e4gf\u00f6rening"
+      ],
+      "web": "https://www.branntorp.se/"
     },
     {
       "entry": 1232943686,
@@ -64080,6 +64172,16 @@
       "web": "https://sxk.se/bottenvikskretsen/"
     },
     {
+      "entry": 1233384286,
+      "orgName": "F\u00f6reningen Fram\u00e5t K\u00e4mpersvik",
+      "orgNumber": "855900-3267",
+      "comment": null,
+      "categories": [
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://www.kampersvik.com/"
+    },
+    {
       "entry": 1233384542,
       "orgName": "Sunne Tennisklubb",
       "orgNumber": "874000-1030",
@@ -69254,7 +69356,7 @@
       "categories": [
         "samf\u00e4llighetsf\u00f6rening"
       ],
-      "web": null
+      "web": "https://www.kvarnakershamn.se/"
     },
     {
       "entry": 1233644002,
@@ -89627,6 +89729,17 @@
       "web": "https://umea.pingst.se/"
     },
     {
+      "entry": 1234863585,
+      "orgName": "Fiskarbo Byf\u00f6rening",
+      "orgNumber": "802535-8451",
+      "comment": null,
+      "categories": [
+        "byf\u00f6rening",
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://fiskarboby.se/"
+    },
+    {
       "entry": 1234869079,
       "orgName": "N\u00e4tra GIF",
       "orgNumber": "889600-1594",
@@ -108385,6 +108498,17 @@
       "web": "https://www.facebook.com/tjornshjalptillukraina"
     },
     {
+      "entry": 1235864855,
+      "orgName": "Storsj\u00f6ns V\u00e4gf\u00f6rening",
+      "orgNumber": "802518-3107",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening",
+        "v\u00e4gf\u00f6rening"
+      ],
+      "web": null
+    },
+    {
       "entry": 1235867619,
       "orgName": "Enk\u00f6pings Biodlare",
       "orgNumber": "810607-XXXX",
@@ -114886,6 +115010,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/amal"
+    },
+    {
+      "entry": 1236218150,
+      "orgName": "\u00d6stra Klubbvikens Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "717910-8399",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://ostraklubbviken.n.nu/"
     },
     {
       "entry": 1236218408,
@@ -125658,6 +125792,16 @@
       "web": "https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-hudiksvall/foreningar/hudiksvall.html"
     },
     {
+      "entry": 1236812564,
+      "orgName": "\u00c5stols Tr\u00e4dg\u00e5rdsf\u00f6rening",
+      "orgNumber": "802433-3000",
+      "comment": null,
+      "categories": [
+        "tr\u00e4dg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://astol.se/"
+    },
+    {
       "entry": 1236814131,
       "orgName": "Skogs Hembygds- & Intressef\u00f6rening",
       "orgNumber": "886000-5258",
@@ -126213,6 +126357,16 @@
         "religion"
       ],
       "web": "https://sanktlukas.se/"
+    },
+    {
+      "entry": 1236847065,
+      "orgName": "B\u00f6rsag\u00e5rdens Samf\u00e4llighetsf\u00f6rening",
+      "orgNumber": "716409-6047",
+      "comment": null,
+      "categories": [
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://www.borsagarden.se/"
     },
     {
       "entry": 1236847289,
