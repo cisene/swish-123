@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-19-rev-142201",
+    "date": "2024-09-22-rev-161741",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -113,6 +113,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.rodakorset.se/"
@@ -124,6 +125,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.rodakorset.se/"
@@ -135,6 +137,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.rodakorset.se/"
@@ -820,6 +823,7 @@
       "orgNumber": "802006-1688",
       "comment": "Musikk\u00e5ren Norrk\u00f6ping",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/norrkoping/"
@@ -1886,6 +1890,7 @@
       "orgNumber": "252002-6135",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/costablanca"
@@ -2523,6 +2528,7 @@
       "orgNumber": "802006-1688",
       "comment": "Malm\u00f6 Julgrytan",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/malmo/"
@@ -4513,6 +4519,7 @@
       "orgNumber": "817001-4388",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion",
         "v\u00e4lg\u00f6renhet"
       ],
@@ -4748,6 +4755,7 @@
       "orgNumber": "802006-1688",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/officersskolan/"
@@ -6137,6 +6145,7 @@
       "orgNumber": "802002-8638",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.forsoningsgruppen.com/"
@@ -6703,6 +6712,7 @@
       "orgNumber": "802006-1688",
       "comment": "Nyk\u00f6ping",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Nykoping/"
@@ -6915,6 +6925,7 @@
       "orgNumber": "802426-1250",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://sverigeforunhcr.se/"
@@ -7796,6 +7807,7 @@
       "orgNumber": "802006-1688",
       "comment": "Falun",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Falun/"
@@ -9504,7 +9516,8 @@
       "orgNumber": "802004-6044",
       "comment": null,
       "categories": [
-        "f\u00f6r\u00e4ldraf\u00f6rening"
+        "f\u00f6r\u00e4ldraf\u00f6rening",
+        "godk\u00e4nd g\u00e5vomottagare"
       ],
       "web": "https://fmn-sthlm.se/"
     },
@@ -9589,6 +9602,7 @@
       "orgNumber": "802006-1688",
       "comment": "Sk\u00f6vde",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/skovde/"
@@ -10351,6 +10365,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "stiftelse"
       ],
@@ -10687,6 +10702,7 @@
       "orgNumber": "802006-1688",
       "comment": "Norrt\u00e4lje",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/norrtalje/"
@@ -11202,7 +11218,8 @@
       "orgNumber": "802010-6566",
       "comment": "Team Aron CK",
       "categories": [
-        "cancerforskning"
+        "cancerforskning",
+        "godk\u00e4nd g\u00e5vomottagare"
       ],
       "web": "https://www.barncancerfonden.se/event/team-aron-ck/"
     },
@@ -11244,6 +11261,7 @@
       "orgNumber": "802002-8711",
       "comment": "Ukraina",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamling",
         "ukraina"
@@ -12293,6 +12311,7 @@
       "orgNumber": "802006-1688",
       "comment": "Templet Stockholm socialt arbete",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/templet-stockholm/"
@@ -12303,6 +12322,7 @@
       "orgNumber": "802538-8045",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamling",
         "ukraina"
@@ -13180,7 +13200,8 @@
       "orgNumber": "828001-0359",
       "comment": "Gula bandet",
       "categories": [
-        "f\u00f6rbund"
+        "f\u00f6rbund",
+        "godk\u00e4nd g\u00e5vomottagare"
       ],
       "web": "http://www.gulabandet.se/"
     },
@@ -13357,6 +13378,7 @@
       "orgNumber": "802426-1268",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamling"
       ],
@@ -13759,6 +13781,7 @@
       "orgNumber": "802006-1688",
       "comment": "S\u00f6derk\u00e5ren",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/soderkaren/"
@@ -14165,6 +14188,7 @@
       "orgNumber": "802006-1688",
       "comment": "Ystad",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Ystad/"
@@ -14457,6 +14481,7 @@
       "orgNumber": "802004-0575",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.pingst.se/forsamling/natverk/pastor/"
@@ -14555,6 +14580,7 @@
       "comment": null,
       "categories": [
         "f\u00f6rening",
+        "godk\u00e4nd g\u00e5vomottagare",
         "kulturf\u00f6rening",
         "kulturhistoria"
       ],
@@ -14630,6 +14656,7 @@
       "orgNumber": "802426-1250",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://sverigeforunhcr.se/"
@@ -14791,6 +14818,7 @@
       "orgNumber": "802478-8476",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "stiftelse"
       ],
       "web": "https://hudfonden.se/"
@@ -15913,6 +15941,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "intressef\u00f6rening"
       ],
       "web": "https://www.sipri.org/"
@@ -17367,6 +17396,7 @@
       "orgNumber": "802426-1250",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://sverigeforunhcr.se/"
@@ -18244,6 +18274,7 @@
       "orgNumber": "802006-1688",
       "comment": "Skillingaryd",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/skillingaryd/"
@@ -19186,6 +19217,7 @@
       "orgNumber": "802002-8711",
       "comment": "Ukraina-insamling",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "ukraina"
       ],
@@ -21571,6 +21603,7 @@
       "orgNumber": "802006-1688",
       "comment": "Kalmar",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://fakalmar.se/"
@@ -21991,6 +22024,7 @@
       "orgNumber": "802006-1688",
       "comment": "Sk\u00f6vde",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/skovde/"
@@ -23501,6 +23535,7 @@
       "orgNumber": "802479-8327",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "stiftelse"
       ],
       "web": "http://www.stiftelsenyoung.se/"
@@ -23869,6 +23904,7 @@
       "orgNumber": "802006-1688",
       "comment": "Visby",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/visby/"
@@ -24325,6 +24361,7 @@
       "comment": null,
       "categories": [
         "forskning",
+        "godk\u00e4nd g\u00e5vomottagare",
         "stiftelse"
       ],
       "web": "http://www.cancerstiftelsen-kronoberg.se/"
@@ -25271,6 +25308,7 @@
       "orgNumber": "802426-1250",
       "comment": "Insamling Ukraina",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamling",
         "ukraina"
@@ -25597,6 +25635,7 @@
       "orgNumber": "802406-7103",
       "comment": "#claravintern",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "humanit\u00e4r hj\u00e4lpverksamhet",
         "religion",
         "sociala insatser"
@@ -27222,6 +27261,7 @@
       "orgNumber": "826000-4372",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://alliansmissionen.se/"
@@ -28695,6 +28735,7 @@
       "orgNumber": "802006-1688",
       "comment": "Trollh\u00e4ttan",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Trollhattan/"
@@ -29659,6 +29700,7 @@
       "orgNumber": "802426-1250",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://sverigeforunhcr.se/"
@@ -30157,6 +30199,7 @@
       "orgNumber": "802006-1688",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/karlstad"
@@ -32132,6 +32175,7 @@
       "orgNumber": "802006-1688",
       "comment": "Historiska S\u00e4llskapet",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "historief\u00f6rening",
         "religion"
       ],
@@ -32635,6 +32679,7 @@
       "orgNumber": "802489-9265",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion",
         "v\u00e4lg\u00f6renhet"
       ],
@@ -35381,7 +35426,8 @@
       "comment": null,
       "categories": [
         "f\u00f6rbund",
-        "f\u00f6rening"
+        "f\u00f6rening",
+        "godk\u00e4nd g\u00e5vomottagare"
       ],
       "web": "https://www.sverigesveteranforbund.se/"
     },
@@ -36717,6 +36763,7 @@
       "orgNumber": "802000-8184",
       "comment": "Johannelunds teologiska h\u00f6gskola",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion",
         "utbildning"
       ],
@@ -39054,6 +39101,7 @@
       "orgNumber": "802006-1688",
       "comment": "Eskilstuna",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/eskilstuna/"
@@ -39087,6 +39135,7 @@
       "orgNumber": "802003-1178",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "http://www.socialamissionen.se/"
@@ -39278,6 +39327,7 @@
       "orgNumber": "802426-1250",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://sverigeforunhcr.se/"
@@ -43125,6 +43175,7 @@
       "orgNumber": "802006-1688",
       "comment": "Haparanda",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/haparanda/"
@@ -46355,6 +46406,7 @@
       "orgNumber": "252004-7131",
       "comment": "G\u00e5vor",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "http://equmeniakyrkan.se/"
@@ -47780,6 +47832,7 @@
       "orgNumber": "802006-1688",
       "comment": "Arvika",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/arvika/"
@@ -49422,6 +49475,7 @@
       "orgNumber": "802426-1250",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamling"
       ],
@@ -51284,6 +51338,7 @@
       "orgNumber": "802006-1688",
       "comment": "Tran\u00e5s",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Tranas/"
@@ -52753,6 +52808,7 @@
       "orgNumber": "802006-1688",
       "comment": "S\u00f6dert\u00e4lje Musikk\u00e5r",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/sodertalje/"
@@ -54871,6 +54927,7 @@
       "orgNumber": "802006-1688",
       "comment": "Helsingborg",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Helsingborg/"
@@ -55179,6 +55236,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "humanit\u00e4r hj\u00e4lpverksamhet"
       ],
@@ -55378,6 +55436,7 @@
       "orgNumber": "846003-5150",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "rotaryklubb"
       ],
@@ -55517,6 +55576,7 @@
       "orgNumber": "802006-1688",
       "comment": "Sala",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/sala/"
@@ -55711,6 +55771,7 @@
       "orgNumber": "802478-3436",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "stiftelse"
       ],
       "web": "http://www.1000mojligheter.se/"
@@ -55908,7 +55969,8 @@
       "orgNumber": "802505-9208",
       "comment": null,
       "categories": [
-        "f\u00f6rening"
+        "f\u00f6rening",
+        "godk\u00e4nd g\u00e5vomottagare"
       ],
       "web": "http://www.nemaproblema.se/"
     },
@@ -57470,6 +57532,7 @@
       "orgNumber": "802472-8910",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://worldchildrenneed.org/"
@@ -59129,6 +59192,7 @@
       "orgNumber": "802002-8638",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.raddabarnen-uppsala.se/"
@@ -60461,6 +60525,7 @@
       "orgNumber": "802006-1688",
       "comment": "V\u00e4ster\u00e5s",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Vasteras/"
@@ -60567,6 +60632,7 @@
       "orgNumber": "802405-7815",
       "comment": "Katastroffond",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamling"
       ],
@@ -62400,6 +62466,7 @@
       "orgNumber": "802006-1688",
       "comment": "Hisingsk\u00e5ren",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/hisingskaren/"
@@ -62815,6 +62882,7 @@
       "orgNumber": "802006-1688",
       "comment": "Eksj\u00f6",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/eksjo/"
@@ -64745,6 +64813,7 @@
       "orgNumber": "802006-1688",
       "comment": "Norrk\u00f6ping",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/norrkoping/"
@@ -66763,6 +66832,7 @@
       "orgNumber": "802006-1688",
       "comment": "Link\u00f6ping",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/linkoping/"
@@ -68467,6 +68537,7 @@
       "orgNumber": "802467-4544",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "http://www.dandelionafrica.se/"
@@ -68632,6 +68703,7 @@
       "orgNumber": "802006-1688",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/oskarshamn/"
@@ -69436,6 +69508,7 @@
       "orgNumber": "802426-1250",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://sverigeforunhcr.se/"
@@ -70932,6 +71005,7 @@
       "orgNumber": "802006-1688",
       "comment": "Uppsala, K\u00e5ren",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Uppsala/"
@@ -71267,6 +71341,7 @@
       "orgNumber": "802006-1688",
       "comment": "N\u00e4ssj\u00f6",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/nassjo/"
@@ -71560,6 +71635,7 @@
       "orgNumber": "802478-1141",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamling",
         "stiftelse"
       ],
@@ -73395,6 +73471,7 @@
       "orgNumber": "802006-1688",
       "comment": "Str\u00e4ngn\u00e4s",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Strangnas/"
@@ -73886,6 +73963,7 @@
       "comment": "Ekwall Rullar",
       "categories": [
         "cancerforskning",
+        "godk\u00e4nd g\u00e5vomottagare",
         "intressef\u00f6rening"
       ],
       "web": "https://www.ekwallrullar.se/"
@@ -74061,6 +74139,7 @@
       "comment": "Salt - barn och unga i EFS",
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion",
         "stiftelse"
       ],
@@ -75444,6 +75523,7 @@
       "orgNumber": "814400-9639",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "kulturf\u00f6rening",
         "museum",
         "stiftelse"
@@ -76575,6 +76655,7 @@
       "comment": null,
       "categories": [
         "cancerf\u00f6rening",
+        "godk\u00e4nd g\u00e5vomottagare",
         "intressef\u00f6rening"
       ],
       "web": "https://www.cancerfonden.se/rosabandet"
@@ -79060,6 +79141,7 @@
       "orgNumber": "802000-8184",
       "comment": "BIAL - Barn i alla l\u00e4nder",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.efs.nu/"
@@ -80282,6 +80364,7 @@
       "orgNumber": "802006-1688",
       "comment": "Sundsvall",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/sundsvall/"
@@ -81072,6 +81155,7 @@
       "orgNumber": "802006-1688",
       "comment": "Borl\u00e4nge",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Borlange/"
@@ -81409,6 +81493,7 @@
       "orgNumber": "802426-1250",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://sverigeforunhcr.se/"
@@ -82012,6 +82097,7 @@
       "orgNumber": "802006-1688",
       "comment": "Lule\u00e5",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Lulea/"
@@ -82118,6 +82204,7 @@
       "orgNumber": "802006-1688",
       "comment": "Skellefte\u00e5",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/skelleftea/"
@@ -84960,6 +85047,7 @@
       "orgNumber": "802006-1688",
       "comment": "Sociala Centret",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/sociala-centret/"
@@ -86160,6 +86248,7 @@
       "orgNumber": "802006-1688",
       "comment": "Uppsala, Sociala Arbetet",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Uppsala/"
@@ -87491,6 +87580,7 @@
       "orgNumber": "802006-1688",
       "comment": "Kristinehamn",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/kristinehamn/"
@@ -88702,6 +88792,7 @@
       "orgNumber": "802006-1688",
       "comment": "\u00d6cker\u00f6 \u00d6arna",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/faockerooarna/"
@@ -90556,6 +90647,7 @@
       "comment": null,
       "categories": [
         "f\u00f6rbund",
+        "godk\u00e4nd g\u00e5vomottagare",
         "intresseorganisation"
       ],
       "web": "http://www.astmaoallergiforbundet.se/"
@@ -90818,6 +90910,7 @@
       "orgNumber": "802000-3276",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.elmbv.se/"
@@ -91704,6 +91797,7 @@
       "orgNumber": "802529-0662",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "kvinnojour",
         "teckenspr\u00e5k"
       ],
@@ -92382,6 +92476,7 @@
       "orgNumber": "802502-3220",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.helpathand.se/"
@@ -92489,6 +92584,7 @@
       "orgNumber": "802426-1250",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://sverigeforunhcr.se/"
@@ -93715,6 +93811,7 @@
       "orgNumber": "802401-4386",
       "comment": "Namibia",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.unicef.org/namibia/"
@@ -96776,6 +96873,7 @@
       "orgNumber": "802006-1688",
       "comment": "G\u00e4vle",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Gavle/"
@@ -96786,6 +96884,7 @@
       "orgNumber": "802006-1688",
       "comment": "Sk\u00f6vde, Sociala arbetet",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/skovde/"
@@ -96828,6 +96927,7 @@
       "orgNumber": "802006-1688",
       "comment": "\u00d6stersund",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/ostersund/"
@@ -96916,6 +97016,7 @@
       "orgNumber": "802006-1688",
       "comment": "Varberg",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Varberg/"
@@ -97478,6 +97579,7 @@
       "orgNumber": "802006-1688",
       "comment": "Krokek",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Krokek/"
@@ -98574,6 +98676,7 @@
       "orgNumber": "802006-1688",
       "comment": "Mora",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Mora/"
@@ -99314,6 +99417,7 @@
       "orgNumber": "846003-9020",
       "comment": "Indonesien",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://barnfonden.se/"
@@ -100076,6 +100180,7 @@
       "orgNumber": "802006-1688",
       "comment": "S\u00f6dert\u00e4lje",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Sodertalje/"
@@ -100576,6 +100681,7 @@
       "orgNumber": "802006-1688",
       "comment": "Tran\u00e5s Julgryta",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/tranas/"
@@ -100978,6 +101084,7 @@
       "orgNumber": "802006-1688",
       "comment": "Home Stockholm",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/home-stockholm/"
@@ -102170,6 +102277,7 @@
       "comment": "Folkh\u00f6gskolan",
       "categories": [
         "folkh\u00f6gskola",
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "r\u00f6dakorset"
       ],
@@ -102575,6 +102683,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
@@ -102586,6 +102695,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
@@ -102649,6 +102759,7 @@
       "orgNumber": "802006-1688",
       "comment": "V\u00e4ster\u00e5s",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/vasteras/"
@@ -103222,6 +103333,7 @@
       "orgNumber": "802006-1688",
       "comment": "G\u00e4vle",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Gavle/"
@@ -105799,6 +105911,7 @@
       "orgNumber": "802006-1688",
       "comment": "Bor\u00e5s",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Boras/"
@@ -106208,6 +106321,7 @@
       "comment": null,
       "categories": [
         "anh\u00f6rigorganisation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "intresseorganisation",
         "riksf\u00f6rbund"
       ],
@@ -108561,6 +108675,7 @@
       "categories": [
         "cancerforskning",
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "lionsklubb"
       ],
       "web": "https://www.lcfm.se/"
@@ -110676,6 +110791,7 @@
       "orgNumber": "802006-1688",
       "comment": "Alings\u00e5s",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Alingsas/"
@@ -110752,6 +110868,7 @@
       "orgNumber": "802006-1688",
       "comment": "Trollh\u00e4ttan Ungdomsk\u00e5ren",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Trollhattan/"
@@ -111143,6 +111260,7 @@
       "orgNumber": "802000-8184",
       "comment": "EFS internationella mission",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion",
         "stiftelse"
       ],
@@ -111283,6 +111401,7 @@
       "categories": [
         "cancerforskning",
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "lionsklubb"
       ],
       "web": null
@@ -112142,6 +112261,7 @@
       "orgNumber": "252002-6135",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/teneriffa"
@@ -114717,6 +114837,7 @@
       "orgNumber": "802004-1524",
       "comment": "LRFs insamling",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://weeffect.se/"
@@ -117590,6 +117711,7 @@
       "orgNumber": "802426-1250",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.sverigeforunhcr.se/"
@@ -118639,6 +118761,7 @@
       "orgNumber": "802006-1688",
       "comment": "Ume\u00e5",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/Umea/Umea/"
@@ -122296,8 +122419,8 @@
     },
     {
       "entry": 1236667935,
-      "orgName": "556747-2781",
-      "orgNumber": "F\u00f6rarutbildning i Vindeln AB",
+      "orgName": "F\u00f6rarutbildning i Vindeln AB",
+      "orgNumber": "556747-2781",
       "comment": null,
       "categories": [
         "trafikskola",
@@ -125252,6 +125375,7 @@
       "orgNumber": "802478-2842",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.helpkurdistan.se/"
@@ -126096,6 +126220,7 @@
       "orgNumber": "802477-9293",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
       "web": "https://solvatten.org/"
@@ -128080,6 +128205,7 @@
       "orgNumber": "802006-1688",
       "comment": "Templet Stockholm K\u00e5ren",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/templet-stockholm/"
@@ -128197,6 +128323,7 @@
       "orgNumber": "802006-1688",
       "comment": "Malm\u00f6",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/malmo/"
@@ -128220,6 +128347,7 @@
       "orgNumber": "802006-1688",
       "comment": "Vilhelmina",
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/vilhelmina/"
@@ -129022,7 +129150,6 @@
       "orgNumber": "802004-4510",
       "comment": "Spontang\u00e5va",
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.hrf.se/"
@@ -129129,6 +129256,7 @@
       "orgNumber": "857209-1422",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.prostatacancerforbundet.se/"
@@ -129207,6 +129335,7 @@
       "orgNumber": "802435-8619",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.kampiyamotosbarn.se/"
@@ -129764,6 +129893,7 @@
       "orgNumber": "867200-7393",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.gambiagrupperna.org/"
@@ -129774,6 +129904,7 @@
       "orgNumber": "802009-6627",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -130239,6 +130370,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse",
         "v\u00e4lg\u00f6renhet"
@@ -130422,6 +130554,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -130499,6 +130632,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -130624,6 +130758,7 @@
       "categories": [
         "donation",
         "f\u00f6rening",
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.allakvinnorshus.org/"
@@ -130934,6 +131069,7 @@
       "orgNumber": "802497-7434",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.iogtntororelsen.se/"
@@ -131099,6 +131235,7 @@
       "orgNumber": "802012-1581",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.convictus.org/"
@@ -131185,7 +131322,6 @@
       "orgNumber": "802477-9608",
       "comment": null,
       "categories": [
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -131424,6 +131560,7 @@
       "orgNumber": "857209-1422",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.prostatacancerforbundet.se/"
@@ -131467,6 +131604,7 @@
       "orgNumber": "802480-2558",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -131524,6 +131662,7 @@
       "orgNumber": "802498-2301",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.projectnima.org/"
@@ -131560,6 +131699,7 @@
       "comment": null,
       "categories": [
         "f\u00f6rbund",
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.prostatacancerforbundet.se/"
@@ -131634,6 +131774,7 @@
       "orgNumber": "802502-3220",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.helpathand.se/"
@@ -131855,7 +131996,6 @@
       "comment": null,
       "categories": [
         "brottsofferjour",
-        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "kvinnojour"
       ],
@@ -132030,6 +132170,7 @@
       "orgNumber": "802526-3420",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
@@ -132136,6 +132277,7 @@
       "orgNumber": "802014-9483",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "riksf\u00f6rbund",
         "v\u00e4lg\u00f6renhet"
@@ -132148,6 +132290,7 @@
       "orgNumber": "802478-3436",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse"
       ],
@@ -132226,6 +132369,7 @@
       "orgNumber": "802010-4850",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "v\u00e4lg\u00f6renhet"
       ],
@@ -132288,6 +132432,7 @@
       "orgNumber": "802481-1922",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.lenawfoundation.com/"
@@ -132427,6 +132572,7 @@
       "comment": null,
       "categories": [
         "cancerforskning",
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://brostcancerforbundet.se/"
@@ -132584,6 +132730,7 @@
       "orgNumber": "826000-4372",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll"
       ],
       "web": "https://www.alliansmissionen.se/"
@@ -132595,6 +132742,7 @@
       "comment": null,
       "categories": [
         "donation",
+        "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
         "insamlingskontroll"
       ],
@@ -132898,6 +133046,7 @@
       "orgNumber": "802409-1970",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "kvinnojour"
       ],
@@ -133471,6 +133620,7 @@
       "orgNumber": "802010-8315",
       "comment": null,
       "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
         "insamlingskontroll",
         "stiftelse",
         "v\u00e4lg\u00f6renhet"
