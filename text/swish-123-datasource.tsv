@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-09-24-rev-152358
+# Date: 2024-09-24-rev-162842
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4837,6 +4837,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232717916	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Täby, Futuraskolan International Bergtorp
 1232717924	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Täby, Näsbyparksskolan
 1232720316	802419-5904	Svenska Volvo 7/900 Klubben	https://www.7900klubben.se/	bilklubb,fordonhistoria,märkesklubb	
+1232720456	802437-0481	Birth Right Sweden	https://www.birthrightssweden.se/	intresseförening	
 1232720548	852000-3354	Hindås Kanot- o Friluftsklubb	https://hindaskanotklubb.se/	friluftsklubb,idrottsförening,kanotklubb	
 1232721140	829502-6606	Vilhelm Moberg-Sällskapet	https://vilhelmmobergsallskapet.se/	intresseförening	
 1232721223	802470-2725	NXTME	https://www.nxtme.se/	kvinnojour	
@@ -5304,6 +5305,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233006939	802538-3319	IHusbil	https://ihusbil.se/	camping,intresseförening	
 1233007366	882000-5869	PRO Hedemora	https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-hedemora/foreningar/hedemora.html	pensionärsklubb	
 1233008232	802401-4576	Specialklubben Rhodesian Ridgeback Sverige, SRRS	https://www.srrs.org/	hundklubb,hunduppfödning	Västra
+1233008463	802403-5241	Sveriges Kvinnolobby	https://sverigeskvinnoorganisationer.se/	intresseförening	
 1233010212	802016-8624	Svenska Avdelningen av Internationella Juristkommissionen, ICJ-Sweden	https://www.icj-sweden.org/	intresseorganisation,juridik	
 1233010972	854600-4469	Lysekils HK	https://www.laget.se/LysekilHK/	handbollsklubb,idrottsförening	
 1233011087	802440-0403	Bloom Nyköping	https://www.bloomnykoping.se/	intresseförening	

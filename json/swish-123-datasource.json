@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-24-rev-152342",
+    "date": "2024-09-24-rev-162826",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -52544,6 +52544,16 @@
       "web": "https://www.7900klubben.se/"
     },
     {
+      "entry": 1232720456,
+      "orgName": "Birth Right Sweden",
+      "orgNumber": "802437-0481",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.birthrightssweden.se/"
+    },
+    {
       "entry": 1232720548,
       "orgName": "Hind\u00e5s Kanot- o Friluftsklubb",
       "orgNumber": "852000-3354",
@@ -57652,6 +57662,16 @@
         "hunduppf\u00f6dning"
       ],
       "web": "https://www.srrs.org/"
+    },
+    {
+      "entry": 1233008463,
+      "orgName": "Sveriges Kvinnolobby",
+      "orgNumber": "802403-5241",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://sverigeskvinnoorganisationer.se/"
     },
     {
       "entry": 1233010212,

@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2024-09-24-rev-152406
+Date: 2024-09-24-rev-162850
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -4837,6 +4837,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1232717916"><organization><number>802534-5466</number><name>Team Rynkeby</name></organization><comment>Täby, Futuraskolan International Bergtorp</comment><categories><category type="cancerforskning"/><category type="forskning"/><category type="hjärnforskning"/></categories><web>https://www.team-rynkeby.se/</web></entry>
     <entry number="1232717924"><organization><number>802534-5466</number><name>Team Rynkeby</name></organization><comment>Täby, Näsbyparksskolan</comment><categories><category type="cancerforskning"/><category type="forskning"/><category type="hjärnforskning"/></categories><web>https://www.team-rynkeby.se/</web></entry>
     <entry number="1232720316"><organization><number>802419-5904</number><name>Svenska Volvo 7/900 Klubben</name></organization><comment/><categories><category type="bilklubb"/><category type="fordonhistoria"/><category type="märkesklubb"/></categories><web>https://www.7900klubben.se/</web></entry>
+    <entry number="1232720456"><organization><number>802437-0481</number><name>Birth Right Sweden</name></organization><comment/><categories><category type="intresseförening"/></categories><web>https://www.birthrightssweden.se/</web></entry>
     <entry number="1232720548"><organization><number>852000-3354</number><name>Hindås Kanot- o Friluftsklubb</name></organization><comment/><categories><category type="friluftsklubb"/><category type="idrottsförening"/><category type="kanotklubb"/></categories><web>https://hindaskanotklubb.se/</web></entry>
     <entry number="1232721140"><organization><number>829502-6606</number><name>Vilhelm Moberg-Sällskapet</name></organization><comment/><categories><category type="intresseförening"/></categories><web>https://vilhelmmobergsallskapet.se/</web></entry>
     <entry number="1232721223"><organization><number>802470-2725</number><name>NXTME</name></organization><comment/><categories><category type="kvinnojour"/></categories><web>https://www.nxtme.se/</web></entry>
@@ -5304,6 +5305,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1233006939"><organization><number>802538-3319</number><name>IHusbil</name></organization><comment/><categories><category type="camping"/><category type="intresseförening"/></categories><web>https://ihusbil.se/</web></entry>
     <entry number="1233007366"><organization><number>882000-5869</number><name>PRO Hedemora</name></organization><comment/><categories><category type="pensionärsklubb"/></categories><web>https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-hedemora/foreningar/hedemora.html</web></entry>
     <entry number="1233008232"><organization><number>802401-4576</number><name>Specialklubben Rhodesian Ridgeback Sverige, SRRS</name></organization><comment>Västra</comment><categories><category type="hundklubb"/><category type="hunduppfödning"/></categories><web>https://www.srrs.org/</web></entry>
+    <entry number="1233008463"><organization><number>802403-5241</number><name>Sveriges Kvinnolobby</name></organization><comment/><categories><category type="intresseförening"/></categories><web>https://sverigeskvinnoorganisationer.se/</web></entry>
     <entry number="1233010212"><organization><number>802016-8624</number><name>Svenska Avdelningen av Internationella Juristkommissionen, ICJ-Sweden</name></organization><comment/><categories><category type="intresseorganisation"/><category type="juridik"/></categories><web>https://www.icj-sweden.org/</web></entry>
     <entry number="1233010972"><organization><number>854600-4469</number><name>Lysekils HK</name></organization><comment/><categories><category type="handbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.laget.se/LysekilHK/</web></entry>
     <entry number="1233011087"><organization><number>802440-0403</number><name>Bloom Nyköping</name></organization><comment/><categories><category type="intresseförening"/></categories><web>https://www.bloomnykoping.se/</web></entry>
