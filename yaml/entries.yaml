@@ -1983,7 +1983,7 @@ entries:
   - hästsport
   - ridklubb
   - ryttarförening
-  web: null
+  web: https://www.laget.se/BergslagsbygdensRyttarforening/
 
 - entry: 1230126193
   orgName: Riksförbundet HjärtLung Stockholm
@@ -17588,11 +17588,11 @@ entries:
 
 - entry: 1231072891
   orgName: Storsjö Bygdegård
-  orgNumber: 93202-2505
+  orgNumber: 893202-2505
   comment: null
   categories:
   - bygdegårdsförening
-  web: null
+  web: https://storsjo-byalag.bokamera.se/
 
 - entry: 1231072966
   orgName: Dalarö Sportklubb

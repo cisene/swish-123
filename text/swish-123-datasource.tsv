@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-09-24-rev-162842
+# Date: 2024-09-24-rev-163433
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -226,7 +226,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230124206	826000-3648	Kungsportskyrkan	https://www.kungsporten.com/	religion	Projekt BeGe
 1230124610	802526-8544	Team Kalmarsund Cykel	https://www.svenskalag.se/teamkalmarsund	cykelklubb,idrottsförening	
 1230125302	864500-0962	Borås Sportfiskeklubb	https://www.laget.se/BorasSFK/	sportfiske,sportfiskeklubb	
-1230125666	802451-3080	Bergslagsbygdens Ryttarförening		hästsport,ridklubb,ryttarförening	
+1230125666	802451-3080	Bergslagsbygdens Ryttarförening	https://www.laget.se/BergslagsbygdensRyttarforening/	hästsport,ridklubb,ryttarförening	
 1230126193	802013-3099	Riksförbundet HjärtLung Stockholm	https://www.hjart-lung.se/riksforbundet/stockholm/lokalforeningar/stockholm/	anhörigorganisation,patientförening,riksförbund	
 1230127076	802521-4621	Partiet Vändpunkt	https://partietvandpunkt.se/	politiskt parti	
 1230129171	802463-5289	Staffanstorps Bowlingklubb	https://www.stabk.se/	bowlingklubb,idrottsförening	
@@ -1974,7 +1974,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231070192	802447-0208	Helsingborgs Film- & Fotoklubb	https://www.helsingborgsfotoklubb.se/	filmklubb,fotoklubb	
 1231071018	829502-4825	Ingelstad IBK	https://www.laget.se/Ingelstad/	idrottsförening,innebandyklubb	P-10/11
 1231072578	802513-5164	Team KBK Bikes Cykelklubb & Triathlon	https://kbkbikes.se/team-kbk-bikes/team-kbk-bikes-cykel-triathlon-30465179	cykelklubb,idrottsförening,triathlonklubb	
-1231072891	93202-2505	Storsjö Bygdegård		bygdegårdsförening	
+1231072891	893202-2505	Storsjö Bygdegård	https://storsjo-byalag.bokamera.se/	bygdegårdsförening	
 1231072966	812400-3677	Dalarö Sportklubb	https://www.dalarosk.se/	badmintonklubb,bordtennisklubb,fotbollsklubb,gymnastikförening,handbollsklubb,idrottsförening,innebandyklubb	
 1231073329	802410-6661	Livrustkammarens Vänner	https://livrustkammaren.se/museet-om-sveriges-kungliga-historia/om-museet/livrustkammarens-vanforening/	historieförening,kulturförening,museum	
 1231073550	886000-6090	Holmsvedenbygdens Intresseförening	https://www.holmsveden.se/	hembygdsförening,intresseförening	

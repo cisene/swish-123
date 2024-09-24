@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2024-09-24-rev-162850
+Date: 2024-09-24-rev-163442
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -226,7 +226,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1230124206"><organization><number>826000-3648</number><name>Kungsportskyrkan</name></organization><comment>Projekt BeGe</comment><categories><category type="religion"/></categories><web>https://www.kungsporten.com/</web></entry>
     <entry number="1230124610"><organization><number>802526-8544</number><name>Team Kalmarsund Cykel</name></organization><comment/><categories><category type="cykelklubb"/><category type="idrottsförening"/></categories><web>https://www.svenskalag.se/teamkalmarsund</web></entry>
     <entry number="1230125302"><organization><number>864500-0962</number><name>Borås Sportfiskeklubb</name></organization><comment/><categories><category type="sportfiske"/><category type="sportfiskeklubb"/></categories><web>https://www.laget.se/BorasSFK/</web></entry>
-    <entry number="1230125666"><organization><number>802451-3080</number><name>Bergslagsbygdens Ryttarförening</name></organization><comment/><categories><category type="hästsport"/><category type="ridklubb"/><category type="ryttarförening"/></categories><web></web></entry>
+    <entry number="1230125666"><organization><number>802451-3080</number><name>Bergslagsbygdens Ryttarförening</name></organization><comment/><categories><category type="hästsport"/><category type="ridklubb"/><category type="ryttarförening"/></categories><web>https://www.laget.se/BergslagsbygdensRyttarforening/</web></entry>
     <entry number="1230126193"><organization><number>802013-3099</number><name>Riksförbundet HjärtLung Stockholm</name></organization><comment/><categories><category type="anhörigorganisation"/><category type="patientförening"/><category type="riksförbund"/></categories><web>https://www.hjart-lung.se/riksforbundet/stockholm/lokalforeningar/stockholm/</web></entry>
     <entry number="1230127076"><organization><number>802521-4621</number><name>Partiet Vändpunkt</name></organization><comment/><categories><category type="politiskt parti"/></categories><web>https://partietvandpunkt.se/</web></entry>
     <entry number="1230129171"><organization><number>802463-5289</number><name>Staffanstorps Bowlingklubb</name></organization><comment/><categories><category type="bowlingklubb"/><category type="idrottsförening"/></categories><web>https://www.stabk.se/</web></entry>
@@ -1974,7 +1974,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1231070192"><organization><number>802447-0208</number><name>Helsingborgs Film- &amp; Fotoklubb</name></organization><comment/><categories><category type="filmklubb"/><category type="fotoklubb"/></categories><web>https://www.helsingborgsfotoklubb.se/</web></entry>
     <entry number="1231071018"><organization><number>829502-4825</number><name>Ingelstad IBK</name></organization><comment>P-10/11</comment><categories><category type="idrottsförening"/><category type="innebandyklubb"/></categories><web>https://www.laget.se/Ingelstad/</web></entry>
     <entry number="1231072578"><organization><number>802513-5164</number><name>Team KBK Bikes Cykelklubb &amp; Triathlon</name></organization><comment/><categories><category type="cykelklubb"/><category type="idrottsförening"/><category type="triathlonklubb"/></categories><web>https://kbkbikes.se/team-kbk-bikes/team-kbk-bikes-cykel-triathlon-30465179</web></entry>
-    <entry number="1231072891"><organization><number>93202-2505</number><name>Storsjö Bygdegård</name></organization><comment/><categories><category type="bygdegårdsförening"/></categories><web></web></entry>
+    <entry number="1231072891"><organization><number>893202-2505</number><name>Storsjö Bygdegård</name></organization><comment/><categories><category type="bygdegårdsförening"/></categories><web>https://storsjo-byalag.bokamera.se/</web></entry>
     <entry number="1231072966"><organization><number>812400-3677</number><name>Dalarö Sportklubb</name></organization><comment/><categories><category type="badmintonklubb"/><category type="bordtennisklubb"/><category type="fotbollsklubb"/><category type="gymnastikförening"/><category type="handbollsklubb"/><category type="idrottsförening"/><category type="innebandyklubb"/></categories><web>https://www.dalarosk.se/</web></entry>
     <entry number="1231073329"><organization><number>802410-6661</number><name>Livrustkammarens Vänner</name></organization><comment/><categories><category type="historieförening"/><category type="kulturförening"/><category type="museum"/></categories><web>https://livrustkammaren.se/museet-om-sveriges-kungliga-historia/om-museet/livrustkammarens-vanforening/</web></entry>
     <entry number="1231073550"><organization><number>886000-6090</number><name>Holmsvedenbygdens Intresseförening</name></organization><comment/><categories><category type="hembygdsförening"/><category type="intresseförening"/></categories><web>https://www.holmsveden.se/</web></entry>

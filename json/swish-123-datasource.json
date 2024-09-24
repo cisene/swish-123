@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-24-rev-162826",
+    "date": "2024-09-24-rev-163416",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2402,7 +2402,7 @@
         "ridklubb",
         "ryttarf\u00f6rening"
       ],
-      "web": null
+      "web": "https://www.laget.se/BergslagsbygdensRyttarforening/"
     },
     {
       "entry": 1230126193,
@@ -21357,12 +21357,12 @@
     {
       "entry": 1231072891,
       "orgName": "Storsj\u00f6 Bygdeg\u00e5rd",
-      "orgNumber": "93202-2505",
+      "orgNumber": "893202-2505",
       "comment": null,
       "categories": [
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
-      "web": null
+      "web": "https://storsjo-byalag.bokamera.se/"
     },
     {
       "entry": 1231072966,
