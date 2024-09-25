@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-24-rev-163416",
+    "date": "2024-09-25-rev-115653",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -27315,6 +27315,17 @@
       "web": "https://www.svenskakyrkan.se/huskvarna"
     },
     {
+      "entry": 1231375989,
+      "orgName": "Stall Gran\u00e5s",
+      "orgNumber": "802442-6010",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://stallgranas.se/"
+    },
+    {
       "entry": 1231376367,
       "orgName": "Norums F\u00f6rsamling",
       "orgNumber": "252001-4487",
@@ -28722,6 +28733,16 @@
       "web": "https://www.svenskakyrkan.se/bollnaspastorat/hanebo-segersta-forsamling"
     },
     {
+      "entry": 1231472992,
+      "orgName": "Sveriges Ekumeniska Kvinnor\u00e5d",
+      "orgNumber": "802008-9721",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svekumeniskakvinnor.se/"
+    },
+    {
       "entry": 1231473529,
       "orgName": "S:t Petrus Syrisk Ortodoxa kyrkan i Sundbyberg",
       "orgNumber": "802009-2105",
@@ -30112,6 +30133,17 @@
         "stiftelse"
       ],
       "web": "https://domsten.nu/stiftelse-havsbris/"
+    },
+    {
+      "entry": 1231517572,
+      "orgName": "Revsuddens Sports\u00e4llskap",
+      "orgNumber": "802533-7828",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb"
+      ],
+      "web": "https://revsuddensportsallskap.se/"
     },
     {
       "entry": 1231518612,
@@ -33642,6 +33674,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231719491,
+      "orgName": "Radions och Televisionens Pension\u00e4rsklubb, RTPK",
+      "orgNumber": "802016-3666",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.rtpk.se/"
     },
     {
       "entry": 1231720176,
@@ -53219,6 +53261,17 @@
         "medium"
       ],
       "web": "https://www.deninretradgarden.se/"
+    },
+    {
+      "entry": 1232761526,
+      "orgName": "Bosnien och Hercegovinas Kvinnoriksf\u00f6rbund i Sverige",
+      "orgNumber": "866601-5824",
+      "comment": null,
+      "categories": [
+        "f\u00f6rbund",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.bhkrf.se/"
     },
     {
       "entry": 1232762086,
@@ -96120,6 +96173,17 @@
       "web": "https://www.laget.se/SunneIK/"
     },
     {
+      "entry": 1235160080,
+      "orgName": "Bosnien och Hercegovinas Kvinnoriksf\u00f6rbund i Sverige",
+      "orgNumber": "866601-5824",
+      "comment": null,
+      "categories": [
+        "f\u00f6rbund",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.bhkrf.se/"
+    },
+    {
       "entry": 1235160262,
       "orgName": "L\u00f6nneberga-Silverdalens NSF-Scoutk\u00e5r",
       "orgNumber": "802529-9945",
@@ -113395,6 +113459,17 @@
         "vandrarhem"
       ],
       "web": "https://vandrarhemmetriso.se/"
+    },
+    {
+      "entry": 1236098420,
+      "orgName": "Liding\u00f6 AK - Styrkelyft",
+      "orgNumber": "802457-0213",
+      "comment": null,
+      "categories": [
+        "atletklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://lidingoatletklubb.klubbenonline.se/"
     },
     {
       "entry": 1236098487,

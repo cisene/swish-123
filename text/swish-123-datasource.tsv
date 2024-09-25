@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-09-24-rev-163433
+# Date: 2024-09-25-rev-115708
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2521,6 +2521,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231375831	252002-7794	Vä-Skepparslövs Församling	https://www.svenskakyrkan.se/va-skepparslov	religion	Djurröds kyrka
 1231375849	895400-2104	Tärna IK Fjällvinden	https://www.fjallvinden.com/	alpinklubb,idrottsförening,motionsklubb,skidlöparklubb	
 1231375955	252003-0897	Huskvarna Pastorat	https://www.svenskakyrkan.se/huskvarna	religion	Kollekt Hakarps kyrka
+1231375989	802442-6010	Stall Granås	https://stallgranas.se/	hästsport,ridklubb	
 1231376367	252001-4487	Norums Församling	https://www.svenskakyrkan.se/stenungsund	religion	Kollekt
 1231376490	802430-3755	Ingen Människa är Illegal - Östersund	https://www.ingenillegal.org/ostersund/	intresseförening	
 1231376524	802475-9436	Giving People	https://givingpeople.se/	barnfattigdom,donation,hjälporganisation	
@@ -2651,6 +2652,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231471879	812400-8809	Bygdemuseet Ornö Sockenstuga	https://www.orno.se/	bygdegårdsförening	
 1231472588	252002-8131	Maria i Rosengårds Katolska Församling	https://maria-rosengard.se/	religion	
 1231472687	252004-0904	Hanebo-Segersta Församling	https://www.svenskakyrkan.se/bollnaspastorat/hanebo-segersta-forsamling	religion	
+1231472992	802008-9721	Sveriges Ekumeniska Kvinnoråd	https://www.svekumeniskakvinnor.se/	religion	
 1231473529	802009-2105	S:t Petrus Syrisk Ortodoxa kyrkan i Sundbyberg		religion	
 1231473925	252004-8352	Victory Center Helsingborg	https://victorycenter.se/	religion	
 1231474253	845002-2903	SPF Seniorerna Lund-Centrum	https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/lundcentrum/	pensionärsklubb	
@@ -2778,6 +2780,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231510411	855100-4214	Föreningen Göteborgs Moské	https://goteborgsmoske.se/	religion	
 1231510841	864501-3999	S:t Örjans Scoutkår	https://storjan.se/	scoutkår	
 1231513498	843002-1033	Stiftelsen Havsbris	https://domsten.nu/stiftelse-havsbris/	intresseförening,stiftelse	
+1231517572	802533-7828	Revsuddens Sportsällskap	https://revsuddensportsallskap.se/	idrottsförening,löparklubb	
 1231518612	898801-0636	Öjebyns IBF	https://www.laget.se/OjebynsIBF/	idrottsförening,innebandyklubb	F16
 1231520428	836201-2406	Kvinnojouren Embla / Kvinnojouren I Sölvesborg	https://www.kvinnojourenembla.se/	kvinnojour	
 1231522085	559168-1480	Frösö Hästgård AB	http://www.frosohastgard.se/	hästsport,stallplats	
@@ -3106,6 +3109,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231717891	802533-0450	Wermdö Parkour & Gymnastik	https://wermdoparkour.se/	gymnastikförening,idrottsförening,parkourförening	
 1231718832	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Stockholm, Borgvallaskolan
 1231718865	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Göteborg, Hålta skola
+1231719491	802016-3666	Radions och Televisionens Pensionärsklubb, RTPK	https://www.rtpk.se/	pensionärsklubb	
 1231720176	834001-2718	Gotlands Kennelklubb, GKK	https://www.skk.se/sv/GKK/	hundsport,kennelklubb	
 1231720440	865500-6511	Lions Club Tranemo	https://tranemolion.se/	lionsklubb	
 1231720762	826000-1436	Equmeniakyrkan Huskvarna	https://equmeniakyrkanhuskvarna.se/	religion	
@@ -4899,6 +4903,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232760833	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/sodertalje/	godkänd gåvomottagare,religion	Södertälje Musikkår
 1232761104	802411-1497	Situation Stockholm	https://www.situationsthlm.se/	hjälporganisation	
 1232761419	559173-0360	Den inre trädgården AB	https://www.deninretradgarden.se/	healing,hypnosterapi,medium	
+1232761526	866601-5824	Bosnien och Hercegovinas Kvinnoriksförbund i Sverige	http://www.bhkrf.se/	förbund,intresseförening	
 1232762086	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Täby, Noblaskolan Lännersta
 1232762342	857209-0440	Föreningen Bogserbåten Herkules	https://msherkules.se/	intresseförening	
 1232762912	202100-2874	Umeå Universitet	https://www.umu.se/kontakta-oss/ge-en-gava/sa-har-gor-du/donation/	donation	Klimatforskning
@@ -8840,6 +8845,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235158217	802426-5947	Stiftelsen Ronald McDonald Barnfond Uppsala	https://uppsala.ronaldmcdonaldhus.se/	hjälporganisation,stiftelse	
 1235158571	802430-4407	Ullared Flädje Golfklubb	http://www.ullaredfladjegk.se/se/cafe	cafe,golfklubb	Café
 1235158597	874000-4042	Sunne IK	https://www.laget.se/SunneIK/	idrottsförening,ishockeyklubb	
+1235160080	866601-5824	Bosnien och Hercegovinas Kvinnoriksförbund i Sverige	http://www.bhkrf.se/	förbund,intresseförening	
 1235160262	802529-9945	Lönneberga-Silverdalens NSF-Scoutkår	https://www.nsf.scout.se/karer/lonneberga-silverdalen-scoutkar/	scoutkår	
 1235161229	802480-9967	Insamlingsstiftelsen Rewilding Europe - Sweden	http://www.rewilding-sweden.com/	djurskydd,naturvård,stiftelse	
 1235161344	833200-5498	Riksteatern Hultsfred	https://www.riksteatern.se/hultsfred	eventarrangör,teater,teatersällskap	
@@ -10419,6 +10425,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236098149	556941-8139	Cigarrkungenshus	https://cigarrkungenshus.se/	bed and breakfast,hotell,stuguthyrning,vandrarhem,övernattning	
 1236098172	825003-9610	Arsenal FC Official Supporters Club Sweden	https://www.arsenal.se/	förening,supporterklubb	
 1236098206	802448-1882	Vandrarhemmet LP Risö	https://vandrarhemmetriso.se/	hostel,vandrarhem	
+1236098420	802457-0213	Lidingö AK - Styrkelyft	https://lidingoatletklubb.klubbenonline.se/	atletklubb,idrottsförening	
 1236098487	842000-6325	Ludvigsborgs Byförening	http://ludvigsborg.com/	byförening,samhällsförening	
 1236098818	848000-4483	Lions Club Sjöbo	https://lions.sjobo.nu/	lionsklubb	
 1236099972	832400-4624	Kalmar OK	https://www.svenskalag.se/kalmarok	idrottsförening,orienteringsklubb	
