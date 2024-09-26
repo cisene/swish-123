@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-25-rev-204724",
+    "date": "2024-09-26-rev-184526",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -16,6 +16,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/alnoif"
+    },
+    {
+      "entry": 1230002634,
+      "orgName": "Landskrona Shotokan Academy",
+      "orgNumber": "844001-1370",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.landskronakarate.se/"
     },
     {
       "entry": 1230003194,
@@ -3810,6 +3822,18 @@
       "web": "https://www.vik.se/"
     },
     {
+      "entry": 1230204602,
+      "orgName": "Stockholms Kyokushin Karate",
+      "orgNumber": "802406-1551",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://stockholmskarate.com/"
+    },
+    {
       "entry": 1230205724,
       "orgName": "Kungsg\u00e5rdens SK",
       "orgNumber": "885500-3490",
@@ -5057,6 +5081,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230265488,
+      "orgName": "Wadokai Karatedo AB",
+      "orgNumber": "556630-6832",
+      "comment": null,
+      "categories": [
+        "f\u00f6rlag",
+        "utbildning"
+      ],
+      "web": null
     },
     {
       "entry": 1230265496,
@@ -13462,6 +13497,17 @@
       "web": "https://honsnatet.com/"
     },
     {
+      "entry": 1230713875,
+      "orgName": "Tygelsj\u00f6 Brukshundklubb",
+      "orgNumber": "846004-7882",
+      "comment": null,
+      "categories": [
+        "brukshundsklubb",
+        "hundsport"
+      ],
+      "web": "https://www.tygelsjobrukshundklubb.com/"
+    },
+    {
       "entry": 1230713974,
       "orgName": "Ljungag\u00e5rdens Allehanda / Carl Magnus Svensson",
       "orgNumber": "640821-XXXX",
@@ -17063,6 +17109,17 @@
       "web": "https://mjolby.scout.se/"
     },
     {
+      "entry": 1230867135,
+      "orgName": "Konst\u00e5kningsklubben Trollh\u00e4ttan-V\u00e4nersborg",
+      "orgNumber": "863000-6131",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.kktv.se/"
+    },
+    {
       "entry": 1230867259,
       "orgName": "Hem Ljuva Hem / Investmentbolaget LGAB Sverige AB",
       "orgNumber": "556227-9942",
@@ -17814,6 +17871,18 @@
       "web": "https://www.skeabk.se/"
     },
     {
+      "entry": 1230907758,
+      "orgName": "Stallet V\u00e4rldens Musik / Riksf\u00f6rbundet f\u00f6r Folkmusik & Dans",
+      "orgNumber": "802010-9255",
+      "comment": null,
+      "categories": [
+        "konsert",
+        "livemusik",
+        "musikf\u00f6rening"
+      ],
+      "web": "https://www.stallet.st/"
+    },
+    {
       "entry": 1230907766,
       "orgName": "Fabian Tanz / Fabian Unghanse Macklin",
       "orgNumber": "880630-XXXX",
@@ -18514,6 +18583,18 @@
         "ridklubb"
       ],
       "web": "https://www.areridklubb.se/"
+    },
+    {
+      "entry": 1230926055,
+      "orgName": "Karates\u00e4llskapet Ume\u00e5 Kyokushinkai",
+      "orgNumber": "802443-5953",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.karatesallskapet.se/"
     },
     {
       "entry": 1230926519,
@@ -19366,6 +19447,18 @@
         "skytteklubb"
       ],
       "web": "https://www.svenskalag.se/kristianstadspk"
+    },
+    {
+      "entry": 1230972984,
+      "orgName": "Norrt\u00e4lje Karateklubb",
+      "orgNumber": "814400-8680",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "http://www.norrtaljekarate.se/"
     },
     {
       "entry": 1230973263,
@@ -23991,7 +24084,7 @@
     },
     {
       "entry": 1231217082,
-      "orgName": "Lule\u00e5 KK",
+      "orgName": "Lule\u00e5 Karateklubb",
       "orgNumber": "897001-2186",
       "comment": null,
       "categories": [
@@ -26534,6 +26627,17 @@
         "hundhem"
       ],
       "web": "https://the-black-dog.se/"
+    },
+    {
+      "entry": 1231336841,
+      "orgName": "Botkyrka Hembygdsgille",
+      "orgNumber": "812800-1396",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "hembygdsgille"
+      ],
+      "web": "https://www.hembygd.se/botkyrka"
     },
     {
       "entry": 1231339308,
@@ -30104,6 +30208,18 @@
       "web": "https://www.husieif.com/"
     },
     {
+      "entry": 1231509439,
+      "orgName": "Falu Shotokan KarateKlubb",
+      "orgNumber": "883201-7308",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://falukarateklubb.se/"
+    },
+    {
       "entry": 1231509884,
       "orgName": "Larz-Kristerz Orkester AB",
       "orgNumber": "556777-2511",
@@ -30260,6 +30376,18 @@
         "truppgymnastik"
       ],
       "web": "https://www.borlangetruppgymnaster.se/"
+    },
+    {
+      "entry": 1231528587,
+      "orgName": "Kung\u00e4lvs Karateklubb",
+      "orgNumber": "802419-8122",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://kungalvskarateklubb.se/"
     },
     {
       "entry": 1231530492,
@@ -32721,6 +32849,18 @@
       "web": "https://www.domare.org/"
     },
     {
+      "entry": 1231658111,
+      "orgName": "Kalmar Shotokan Karateklubb",
+      "orgNumber": "832401-6305",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://kalmarkarate.se/"
+    },
+    {
       "entry": 1231658210,
       "orgName": "Kungs\u00f6rs Hembygdsf\u00f6rening",
       "orgNumber": "878500-0764",
@@ -34222,6 +34362,18 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-uppsala/foreningar/svartbacken.html"
+    },
+    {
+      "entry": 1231736388,
+      "orgName": "Kazuki Shotokan Klubb",
+      "orgNumber": "802491-5509",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://kazuki.se/"
     },
     {
       "entry": 1231737212,
@@ -37854,6 +38006,18 @@
       "web": "https://pro.se/distrikt/distrikt-sodermanland/samorganisationer/samorganisation-gnesta/foreningar/gnesta.html"
     },
     {
+      "entry": 1231935139,
+      "orgName": "Karateklubb Samuraj-Dojo",
+      "orgNumber": "857203-8977",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.samuraidojo.se/"
+    },
+    {
       "entry": 1231935352,
       "orgName": "Hadj Omra Resor",
       "orgNumber": "969681-1612",
@@ -39097,6 +39261,18 @@
         "naturv\u00e5rd"
       ],
       "web": "https://www.faltbiologerna.se/"
+    },
+    {
+      "entry": 1231997337,
+      "orgName": "Inyon Karateklubb Pite\u00e5",
+      "orgNumber": "802422-5941",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "http://www.inyon.se/"
     },
     {
       "entry": 1231997881,
@@ -42762,6 +42938,18 @@
       "web": "https://karringbloggen.se/"
     },
     {
+      "entry": 1232208015,
+      "orgName": "V\u00e4stsvenska Wadokai",
+      "orgNumber": "857204-3605",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.wadokai.se/"
+    },
+    {
       "entry": 1232208064,
       "orgName": "F\u00f6reningen Kulturbojen",
       "orgNumber": "802493-5648",
@@ -44185,6 +44373,16 @@
         "triathlonklubb"
       ],
       "web": "https://www.sigtunasportsclub.se/"
+    },
+    {
+      "entry": 1232261261,
+      "orgName": "Finska f\u00f6rsamlingen i Stockholm, Tukholman suomalainen seurakunta",
+      "orgNumber": "252003-8114",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/finskaforsamlingen"
     },
     {
       "entry": 1232261915,
@@ -47652,6 +47850,17 @@
       "web": "https://pro.se/distrikt/distrikt-goteborg/samorganisationer/samorganisation-goteborg/foreningar/backa.html"
     },
     {
+      "entry": 1232433217,
+      "orgName": "M\u00f6lndals Konst\u00e5kningsklubb",
+      "orgNumber": "852000-2877",
+      "comment": "Falkenbergsl\u00e4gret",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.molndals-kk.com/"
+    },
+    {
       "entry": 1232437374,
       "orgName": "Stiftelsen Linnea Dahl",
       "orgNumber": "802479-9051",
@@ -48225,6 +48434,18 @@
       "web": "https://klosterbryggeri.com/"
     },
     {
+      "entry": 1232467710,
+      "orgName": "Karlstads Karate F\u00f6rening",
+      "orgNumber": "873200-8639",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.karlstad-karate.nu/"
+    },
+    {
       "entry": 1232468387,
       "orgName": "F\u00f6reningen Ejgdetj\u00e4rnet",
       "orgNumber": "802530-4240",
@@ -48243,6 +48464,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "http://vembo\u00f6bygdeg\u00e5rd.com/"
+    },
+    {
+      "entry": 1232476596,
+      "orgName": "IFK Liding\u00f6 Konst\u00e5kningsklubb",
+      "orgNumber": "813600-2832",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.lidingokonstakning.nu/"
     },
     {
       "entry": 1232477313,
@@ -49362,6 +49594,18 @@
       "web": "https://fjallbackabatochbil.se/"
     },
     {
+      "entry": 1232576601,
+      "orgName": "Halmstad Karate-do Kai",
+      "orgNumber": "802459-0963",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://halmstadskarateklubb.com/"
+    },
+    {
       "entry": 1232578755,
       "orgName": "Team Rynkeby",
       "orgNumber": "802532-9916",
@@ -49521,6 +49765,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.sifbandy.nu/"
+    },
+    {
+      "entry": 1232586824,
+      "orgName": "Broby Karate Klubb",
+      "orgNumber": "802436-8311",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://brobykarate.se/"
     },
     {
       "entry": 1232587236,
@@ -51316,7 +51572,7 @@
         "kampsportsf\u00f6rening",
         "karateklubb"
       ],
-      "web": "https://www.svenskalag.se/eskilstunakarateklubb"
+      "web": "https://www.karateklubben.com/"
     },
     {
       "entry": 1232670552,
@@ -54042,6 +54298,18 @@
       "web": "https://www.svenskalag.se/knaredsik"
     },
     {
+      "entry": 1232788735,
+      "orgName": "Swedish Karate Kyokushinkai, SKK",
+      "orgNumber": "817602-7434",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://kyokushin.se/"
+    },
+    {
       "entry": 1232788875,
       "orgName": "Veddige Buss & Transport AB",
       "orgNumber": "556510-4972",
@@ -55709,6 +55977,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://lsdk.se/"
+    },
+    {
+      "entry": 1232881068,
+      "orgName": "Klippans Karateklubb",
+      "orgNumber": "802450-5045",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "http://www.klippanskarateklubb.se/"
     },
     {
       "entry": 1232881134,
@@ -59194,6 +59474,7 @@
       "orgNumber": "802456-0826",
       "comment": null,
       "categories": [
+        "atletklubb",
         "idrottsf\u00f6rening",
         "styrketr\u00e4ning",
         "tyngdlyftning"
@@ -59284,6 +59565,18 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "http://www.bygdeforeningentararpnotabrane.se/"
+    },
+    {
+      "entry": 1233079316,
+      "orgName": "Ketsui Karate Do Ludvika Shotokan IF",
+      "orgNumber": "802521-3565",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.ludvikakarate.se/"
     },
     {
       "entry": 1233079472,
@@ -59898,6 +60191,17 @@
       "web": "https://www.filadelfiakyrkan.se/"
     },
     {
+      "entry": 1233117959,
+      "orgName": "Ulricehamns Konst\u00e5kningsklubb",
+      "orgNumber": "865500-8483",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.ulricehamnskk.com/"
+    },
+    {
       "entry": 1233123312,
       "orgName": "Bj\u00f6rs\u00e4ters Scoutk\u00e5r",
       "orgNumber": "822002-4122",
@@ -60401,6 +60705,18 @@
         "ryttars\u00e4llskap"
       ],
       "web": "https://www.svenskalag.se/kindaryttarforening"
+    },
+    {
+      "entry": 1233139102,
+      "orgName": "\u00c5kersberga Karateklubb",
+      "orgNumber": "802458-3026",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://budoalliansen.se/index.php/akersbergakarateklubb-se/"
     },
     {
       "entry": 1233139144,
@@ -62205,6 +62521,18 @@
       "web": "https://www.laget.se/IKrosso/"
     },
     {
+      "entry": 1233255742,
+      "orgName": "Hammar\u00f6 Karateklubb",
+      "orgNumber": "873201-3142",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.laget.se/HammaroKarate/"
+    },
+    {
       "entry": 1233256245,
       "orgName": "Mariefreds Hundpark",
       "orgNumber": "802529-2007",
@@ -62852,6 +63180,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://falubordtennisklubb.klubbenonline.se/"
+    },
+    {
+      "entry": 1233278033,
+      "orgName": "Enk\u00f6pings Karateklubb",
+      "orgNumber": "817001-3919",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://enkopingskarateklubb.se/"
     },
     {
       "entry": 1233278124,
@@ -69733,6 +70073,18 @@
       "web": "https://bonnstan.se/"
     },
     {
+      "entry": 1233632536,
+      "orgName": "Vittsj\u00f6 Shotokan Karateklubb",
+      "orgNumber": "802489-7061",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.vittsjokarate.se/"
+    },
+    {
       "entry": 1233632551,
       "orgName": "Partille F\u00f6rsamling",
       "orgNumber": "252001-4453",
@@ -73115,6 +73467,17 @@
       "web": "https://www.monsunen.se/"
     },
     {
+      "entry": 1233841657,
+      "orgName": "\u00d6desh\u00f6gs Kenneklubb",
+      "orgNumber": "823000-8206",
+      "comment": null,
+      "categories": [
+        "hundsport",
+        "kennelklubb"
+      ],
+      "web": "https://www.odeshogskennelklubb.se/"
+    },
+    {
       "entry": 1233844271,
       "orgName": "Ringarums IF",
       "orgNumber": "825001-5123",
@@ -75214,6 +75577,18 @@
         "padelklubb"
       ],
       "web": "https://www.ryssbyif.com/"
+    },
+    {
+      "entry": 1233944014,
+      "orgName": "Karateklubb Elit",
+      "orgNumber": "802453-0654",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.kkelit.se/"
     },
     {
       "entry": 1233944048,
@@ -78451,6 +78826,18 @@
       "web": "https://www.laget.se/Fjugesta_IF/"
     },
     {
+      "entry": 1234142709,
+      "orgName": "\u00d6sthammars Shotokan Karateklubb",
+      "orgNumber": "802449-5585",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://oskk.se/"
+    },
+    {
       "entry": 1234143814,
       "orgName": "Insamlingsstiftelsen Support For Ukraine",
       "orgNumber": "802482-4131",
@@ -80025,6 +80412,18 @@
         "religion"
       ],
       "web": "https://www.israelinsamlingen.org/"
+    },
+    {
+      "entry": 1234219275,
+      "orgName": "Avesta Shotokan Karateklubb",
+      "orgNumber": "802457-9305",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.avestakarate.se/"
     },
     {
       "entry": 1234219853,
@@ -81928,6 +82327,18 @@
       "web": "https://tekniskvalsamverkan.se/"
     },
     {
+      "entry": 1234339883,
+      "orgName": "Ljusdals Shotokan Karateklubb",
+      "orgNumber": "802461-0225",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://ljusdalskarateklubb.se/"
+    },
+    {
       "entry": 1234340022,
       "orgName": "Insamlingsstiftelsen L\u00e4rargalan",
       "orgNumber": "802480-5197",
@@ -82314,6 +82725,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://huddunge.se/hembygdsforeningen/"
+    },
+    {
+      "entry": 1234361184,
+      "orgName": "Uppsala Okinawa Karateklubb",
+      "orgNumber": "802524-6664",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://uokk.se/"
     },
     {
       "entry": 1234363883,
@@ -86303,6 +86726,18 @@
       "web": "http://ujh.se/"
     },
     {
+      "entry": 1234589941,
+      "orgName": "Karateklubben Wado Kenkyukai S\u00e4tila",
+      "orgNumber": "802510-9193",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.wadokenkyukai.se/"
+    },
+    {
       "entry": 1234594156,
       "orgName": "\u00d6rebro Tifo",
       "orgNumber": "802454-0661",
@@ -89435,6 +89870,18 @@
       "web": "https://www.svenskalag.se/mumk"
     },
     {
+      "entry": 1234763561,
+      "orgName": "\u00c5kersberga Judoklubb, \u00c5JK",
+      "orgNumber": "816400-2944",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "judoklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://budoalliansen.se/index.php/akersbergajudo-se/"
+    },
+    {
       "entry": 1234763686,
       "orgName": "L\u00e5ngasj\u00f6-Emmaboda Pingstf\u00f6rsamling",
       "orgNumber": "832400-3139",
@@ -90360,6 +90807,18 @@
       "web": "https://www.laget.se/BrynasIFFK/"
     },
     {
+      "entry": 1234838876,
+      "orgName": "Ichiban Karate Perstorp",
+      "orgNumber": "802469-4500",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://ichibankarate.se/"
+    },
+    {
       "entry": 1234840195,
       "orgName": "Blackebergs sj\u00f6scoutk\u00e5r",
       "orgNumber": "802008-6842",
@@ -90700,6 +91159,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/EskilstunaGuifUngdom/"
+    },
+    {
+      "entry": 1234879771,
+      "orgName": "V\u00e4ster\u00e5s Kraftsportssklubb",
+      "orgNumber": "802519-2553",
+      "comment": null,
+      "categories": [
+        "atletklubb",
+        "idrottsf\u00f6rening",
+        "tyngdlyftarklubb"
+      ],
+      "web": "https://www.facebook.com/vasteraskraftsportsklubb/"
     },
     {
       "entry": 1234879797,
@@ -91060,6 +91531,18 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/OjebynsIBF/"
+    },
+    {
+      "entry": 1234905329,
+      "orgName": "GojuKai KarateDo Stockholm",
+      "orgNumber": "802007-4301",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://stockholm.gojukai.se/"
     },
     {
       "entry": 1234905725,
@@ -93876,6 +94359,18 @@
       "web": "https://www.waxholmsgolfklubb.se/"
     },
     {
+      "entry": 1235083720,
+      "orgName": "Zenshinkai Karateklubb",
+      "orgNumber": "802449-6013",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.zenshinkai.se/"
+    },
+    {
       "entry": 1235084009,
       "orgName": "SPF Seniorerna Engelbrekt",
       "orgNumber": "802463-3789",
@@ -94584,6 +95079,18 @@
       "web": "https://www.svenskakyrkan.se/alvdalen"
     },
     {
+      "entry": 1235110440,
+      "orgName": "Bor\u00e5s Karateklubb",
+      "orgNumber": "864501-8220",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "http://www.boraskarateklubb.se/"
+    },
+    {
       "entry": 1235110705,
       "orgName": "\u00c5hus Missionsg\u00e5rd",
       "orgNumber": "838201-2576",
@@ -95091,6 +95598,18 @@
         "intresseorganisation"
       ],
       "web": "https://danielsolander.se/"
+    },
+    {
+      "entry": 1235118583,
+      "orgName": "Uppsala Shotokan Karateklubb",
+      "orgNumber": "802422-2849",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://uskk.net/"
     },
     {
       "entry": 1235120100,
@@ -96154,6 +96673,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://parliamentaryforum.org/"
+    },
+    {
+      "entry": 1235152095,
+      "orgName": "V\u00e4stra Fr\u00f6lunda Konst\u00e5kningsklubb, VFKK",
+      "orgNumber": "857203-2012",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.vfkk.se/"
     },
     {
       "entry": 1235152566,
@@ -102238,6 +102768,18 @@
       "web": "https://www.wrpshop.se/"
     },
     {
+      "entry": 1235479001,
+      "orgName": "\u00d6rkelljunga Karateklubb",
+      "orgNumber": "802458-7589",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://orkelljungajka.se/"
+    },
+    {
       "entry": 1235480231,
       "orgName": "Filmbyn Sm\u00e5land i Marinnelund / Snickerboa Mariannelund AB",
       "orgNumber": "556936-7617",
@@ -105289,6 +105831,18 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/vasterviksjudo"
+    },
+    {
+      "entry": 1235624267,
+      "orgName": "IPPON Karateklubb",
+      "orgNumber": "802438-9283",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.ipponkarate.se/"
     },
     {
       "entry": 1235624390,
@@ -113605,6 +114159,17 @@
       "web": "https://equmeniakyrkan.se/ockelbo/"
     },
     {
+      "entry": 1236097158,
+      "orgName": "LiTHe Vilse",
+      "orgNumber": "802455-0108",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://vilse.studorg.liu.se/"
+    },
+    {
       "entry": 1236097190,
       "orgName": "\u00c5hus Horna BK",
       "orgNumber": "838200-4474",
@@ -116355,6 +116920,18 @@
       "web": "https://www.vallentunajudo.se/"
     },
     {
+      "entry": 1236234447,
+      "orgName": "Shogun Shitoryu-Shukokai Karateklubb",
+      "orgNumber": "802528-3659",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://shitoryu-shukokai.se/"
+    },
+    {
       "entry": 1236234686,
       "orgName": "Knivsta Optimist och Jolleklubb",
       "orgNumber": "817601-4689",
@@ -118928,6 +119505,17 @@
       "web": "http://asneforeningen.org/"
     },
     {
+      "entry": 1236373088,
+      "orgName": "M\u00f6lndals Konst\u00e5kningsklubb",
+      "orgNumber": "852000-2877",
+      "comment": "Skridskoskolan",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.molndals-kk.com/"
+    },
+    {
       "entry": 1236373385,
       "orgName": "Finsp\u00e5ngs SK",
       "orgNumber": "825001-2757",
@@ -121361,6 +121949,18 @@
       "web": "https://www.ljungbyrpg.se/"
     },
     {
+      "entry": 1236517767,
+      "orgName": "\u00d6rnsk\u00f6ldsviks Goju Ryu Karateklubb",
+      "orgNumber": "802454-2915",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.ogkk.se/"
+    },
+    {
       "entry": 1236519300,
       "orgName": "Karlstads Kyrkliga Stadsmission",
       "orgNumber": "873200-6823",
@@ -121970,6 +122570,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/hargsbk"
+    },
+    {
+      "entry": 1236537302,
+      "orgName": "Sydsk\u00e5nska Kennelklubben",
+      "orgNumber": "846001-7877",
+      "comment": null,
+      "categories": [
+        "hundsport",
+        "kennelklubb"
+      ],
+      "web": "https://www2.skk.se/sv/SYDSKAKK/"
     },
     {
       "entry": 1236537682,
@@ -123300,6 +123911,17 @@
       "web": "https://saron.se/"
     },
     {
+      "entry": 1236641450,
+      "orgName": "M\u00f6lndals Konst\u00e5kningsklubb",
+      "orgNumber": "852000-2877",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.molndals-kk.com/"
+    },
+    {
       "entry": 1236641807,
       "orgName": "F\u00f6reningen Ekets Framtid",
       "orgNumber": "802451-9277",
@@ -123376,6 +123998,17 @@
         "religion"
       ],
       "web": "https://lekerydsforsamling.se/"
+    },
+    {
+      "entry": 1236643498,
+      "orgName": "MFK Myggen\u00e4s Fritidsklubb",
+      "orgNumber": "853300-6873",
+      "comment": "Sp\u00e5ravgift",
+      "categories": [
+        "intressef\u00f6rening",
+        "sociala insatser"
+      ],
+      "web": "https://www.facebook.com/groups/112674512228193/"
     },
     {
       "entry": 1236643894,
@@ -124058,6 +124691,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/JBBK/"
+    },
+    {
+      "entry": 1236676381,
+      "orgName": "Kokoro-Kai Warberg Karateklubb",
+      "orgNumber": "849600-6753",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://kokorokaidojo.se/"
     },
     {
       "entry": 1236677173,
