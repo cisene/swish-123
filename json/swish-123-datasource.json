@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-26-rev-184526",
+    "date": "2024-09-27-rev-140802",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -26501,6 +26501,18 @@
       "web": "https://bygdegardarna.se/bergshamra/"
     },
     {
+      "entry": 1231326941,
+      "orgName": "Hanmoosa Kampsport / KFUM Taekwondo Link\u00f6ping",
+      "orgNumber": "822000-1831",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "taekwondoklubb"
+      ],
+      "web": "https://www.hanmoosadojang.se/"
+    },
+    {
       "entry": 1231329515,
       "orgName": "Betesdaf\u00f6rsamling H\u00e4llabrottet",
       "orgNumber": "875700-0339",
@@ -43924,6 +43936,18 @@
       "web": "https://www.ibpssweden.se/"
     },
     {
+      "entry": 1232244903,
+      "orgName": "Chae Taekwondo Malm\u00f6",
+      "orgNumber": "802491-8867",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "taekwondoklubb"
+      ],
+      "web": null
+    },
+    {
       "entry": 1232245041,
       "orgName": "Insamlingsstiftelsen till minne av Anna-Karin Nyberg Mazeka",
       "orgNumber": "802477-6026",
@@ -46193,6 +46217,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.ludvikagymmix.se/"
+    },
+    {
+      "entry": 1232340016,
+      "orgName": "Stenkullens Aikido",
+      "orgNumber": "802454-5918",
+      "comment": null,
+      "categories": [
+        "aikidoklubb",
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://stenkullensaikido.se/"
     },
     {
       "entry": 1232341352,
@@ -59139,6 +59175,18 @@
         "intresseorganisation"
       ],
       "web": "http://www.voices4change.se/"
+    },
+    {
+      "entry": 1233054285,
+      "orgName": "Stockholm BJJ Center",
+      "orgNumber": "802457-7325",
+      "comment": null,
+      "categories": [
+        "brasiliansk jiu-jitsu",
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "http://bjjcenter.se/"
     },
     {
       "entry": 1233054384,
@@ -73388,6 +73436,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/storforsaik"
+    },
+    {
+      "entry": 1233838521,
+      "orgName": "Taekwondo Klubben Jeong Sool Kwan, JSK",
+      "orgNumber": "802407-5338",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "taekwondoklubb"
+      ],
+      "web": "https://tkd.nu/"
     },
     {
       "entry": 1233838869,
@@ -90164,6 +90224,18 @@
       "web": "https://www.svenskalag.se/brosk"
     },
     {
+      "entry": 1234803029,
+      "orgName": "Billdal Taekwon-Do",
+      "orgNumber": "802448-3045",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "taekwondoklubb"
+      ],
+      "web": "https://www.billdalkampsport.se/"
+    },
+    {
       "entry": 1234803334,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
@@ -90661,6 +90733,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/garsnasais"
+    },
+    {
+      "entry": 1234833208,
+      "orgName": "Equmeniakyrkan Link\u00f6ping",
+      "orgNumber": "822000-2805",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkanlinkoping.se/"
     },
     {
       "entry": 1234834370,
@@ -106567,6 +106649,19 @@
       "web": "https://www.hogsweden.se/hog-arosvikinguppsalachapter"
     },
     {
+      "entry": 1235673561,
+      "orgName": "Flow Kampsportsf\u00f6rening",
+      "orgNumber": "802465-0981",
+      "comment": null,
+      "categories": [
+        "brasiliansk jiu-jitsu",
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "muaythaiklubb"
+      ],
+      "web": "http://www.flowmartialarts.se/"
+    },
+    {
       "entry": 1235673603,
       "orgName": "Trollh\u00e4ttan Syrianska FK",
       "orgNumber": "802518-8437",
@@ -106788,6 +106883,17 @@
         "samf\u00e4llighetsf\u00f6rening"
       ],
       "web": "http://www.malmonhk.se/"
+    },
+    {
+      "entry": 1235681663,
+      "orgName": "Budof\u00f6reningen Kristianstad Kampsportcenter",
+      "orgNumber": "838200-6487",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://kristianstadkampsportcenter.se/"
     },
     {
       "entry": 1235681705,
@@ -114710,6 +114816,18 @@
         "samh\u00e4llsf\u00f6rening"
       ],
       "web": "https://mansbyn.se/"
+    },
+    {
+      "entry": 1236133359,
+      "orgName": "Bor\u00e5s Aikidoklubb",
+      "orgNumber": "802515-6046",
+      "comment": null,
+      "categories": [
+        "aikidoklubb",
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.borasaikido.se/"
     },
     {
       "entry": 1236133680,
@@ -124745,6 +124863,16 @@
         "hundklubb"
       ],
       "web": "https://americanakitaklubbsverige.se/"
+    },
+    {
+      "entry": 1236680243,
+      "orgName": "Riksf\u00f6rbundet Pension\u00e4rsGemenskap V\u00e4sterbotten",
+      "orgNumber": "802453-0704",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.rpg.org.se/foreningsprogram/vasterbotten/"
     },
     {
       "entry": 1236680615,

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-09-26-rev-184534
+# Date: 2024-09-27-rev-140810
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2445,6 +2445,7 @@
 "1231326701","864000-4266","Sävens BK","https://www.svenskalag.se/savensbk","dansförening,fotbollsklubb,idrottsförening,innebandyklubb",""
 "1231326735","802407-2814","Hammarby Handboll","https://www.svenskalag.se/hifhandboll","handbollsklubb,idrottsförening","Försäljning Lotter"
 "1231326842","814401-0850","Bergshamra Bygdegårdsförening","https://bygdegardarna.se/bergshamra/","bygdegårdsförening,hembygdsförening",""
+"1231326941","822000-1831","Hanmoosa Kampsport / KFUM Taekwondo Linköping","https://www.hanmoosadojang.se/","idrottsförening,kampsportsförening,taekwondoklubb",""
 "1231329515","875700-0339","Betesdaförsamling Hällabrottet","https://betesda.se/","religion",""
 "1231331081","848000-7346","Abbekås Båtklubb","https://abbekasbatklubb.se/","båtklubb",""
 "1231331495","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Svarteskolan"
@@ -4043,6 +4044,7 @@
 "1232243541","701023-XXXX","Jenny Ström","https://www.jennystrom.se/","utbildning,yoga",""
 "1232244465","822003-5037","Åtvidabergs Hundklubb","https://www.atvidabergshundklubb.se/","hundklubb,hundsport",""
 "1232244721","802401-7041","International Buddhist Progress Society Sweden, IBPS Sweden","https://www.ibpssweden.se/","donation,religion",""
+"1232244903","802491-8867","Chae Taekwondo Malmö","","idrottsförening,kampsportsförening,taekwondoklubb",""
 "1232245041","802477-6026","Insamlingsstiftelsen till minne av Anna-Karin Nyberg Mazeka","http://nybergmazekastiftelsen.se/","hjälporganisation,stiftelse",""
 "1232247229","857200-9317","Korpen Göteborg","https://www.korpen.se/korpengoteborg","idrottsförening,korpenförening",""
 "1232247450","559250-7106","Hair of Sweden","https://hairofswedenco.se/","försäljning,hudvård,hårvård",""
@@ -4252,6 +4254,7 @@
 "1232339786","889600-7690","CK Örnen","http://www.ckornen.se/","cykelklubb,idrottsförening",""
 "1232339935","892000-8631","Trångsvikens IF","https://www.svenskalag.se/trangsvikensif","friidrottsförening,idrottsförening,skidlöparklubb",""
 "1232339943","883800-7063","Föreningen Ludvika Gymmix","https://www.ludvikagymmix.se/","gymnastikförening,idrottsförening",""
+"1232340016","802454-5918","Stenkullens Aikido","https://stenkullensaikido.se/","aikidoklubb,idrottsförening,kampsportsförening",""
 "1232341352","802512-2154","Svea Kvinnojour","https://www.sveakvinnojour.se/","kvinnojour",""
 "1232341402","889200-6282","Matfors IF","https://www.laget.se/MatforsIF/","fotbollsklubb,idrottsförening","P06/P07"
 "1232342988","556550-6622","Skånes Auktionsverk AB","https://www.skanesauktionsverk.se/","auktioner,auktionsverk",""
@@ -5439,6 +5442,7 @@
 "1233052719","802533-7653","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Jönköping, Fagerhult skola"
 "1233052933","252002-3694","Säbrå Församling","https://www.svenskakyrkan.se/harnosand/sabra-kyrka","religion",""
 "1233053352","802479-8863","Voices4Change","http://www.voices4change.se/","intresseorganisation",""
+"1233054285","802457-7325","Stockholm BJJ Center","http://bjjcenter.se/","brasiliansk jiu-jitsu,idrottsförening,kampsportsförening",""
 "1233054384","854600-3016","Bärfendals Hembygdsförening","http://barfendal.se/","hembygdsförening",""
 "1233054525","556808-1169","Falu Vildvattenpark","https://faluvildvattenpark.se/","camping,forspaddling",""
 "1233054798","012552-5790","Älmhults Konstförening","https://almhult.konstforeningar.se/","konstförening",""
@@ -6750,6 +6754,7 @@
 "1233837028","232100-0172","Regional Kulturskola i Västmanland / Region Västmanland","https://regionalkulturskola.se/","kultur,utbildning",""
 "1233837499","802505-7442","Mosstorps Villaägarförening","https://www.svenskalag.se/mosstorpva","intresseförening,villaägareförening",""
 "1233838208","898800-1247","Storfors AIK","https://www.svenskalag.se/storforsaik","fotbollsklubb,idrottsförening","F2012"
+"1233838521","802407-5338","Taekwondo Klubben Jeong Sool Kwan, JSK","https://tkd.nu/","idrottsförening,kampsportsförening,taekwondoklubb",""
 "1233838869","817301-3064","Ekeby Bygdegårdsförening","https://bygdegardarna.se/upplands-ekeby/","bygdegårdsförening",""
 "1233839131","802507-7523","Nätmagasinet Mänsklig Säkerhet","https://manskligsakerhet.se/","lokaltidning,mediaproduktion",""
 "1233839404","802504-4234","Vadsbro-Blacksta Hembygdsförening","https://www.hembygd.se/vadsbro-blacksta-hembygdsforening","hembygdsförening",""
@@ -8291,6 +8296,7 @@
 "1234796389","827000-9957","Kvinnojouren Linneorna","https://www.unizonjourer.se/kvinnojourenlinneorna","kvinnojour",""
 "1234796702","559350-7535","LS Tatueringar / Creamstyles AB","https://www.facebook.com/lstatueringar/","kroppssmyckning,tatuering",""
 "1234798146","834000-1679","Gotlands Bro SK","https://www.svenskalag.se/brosk","fotbollsklubb,idrottsförening",""
+"1234803029","802448-3045","Billdal Taekwon-Do","https://www.billdalkampsport.se/","idrottsförening,kampsportsförening,taekwondoklubb",""
 "1234803334","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/faockerooarna/","godkänd gåvomottagare,religion","Öckerö Öarna"
 "1234803987","802458-7308","Veterinärer Utan Gränser - Sverige","https://www.vsf-sverige.org/","djurskydd,djurvård,intresseförening",""
 "1234804092","858500-4628","Lions Club Uddevalla","https://lionsuddevalla.se/","lionsklubb",""
@@ -8336,6 +8342,7 @@
 "1234832077","802513-7731","Rotary Lerum Aspen","https://lerumaspenrk.se/","rotaryklubb",""
 "1234832499","815600-4346","Turinge Scoutkår","https://turinge.scout.se/","scoutkår",""
 "1234832937","838800-0716","Gärsnäs AIS","https://www.svenskalag.se/garsnasais","fotbollsklubb,idrottsförening",""
+"1234833208","822000-2805","Equmeniakyrkan Linköping","https://equmeniakyrkanlinkoping.se/","religion",""
 "1234834370","802454-7682","Rydaholms Frikyrka","http://www.rydaholmsfrikyrka.se/","religion","Barn och Ungdomsverksamheten"
 "1234836565","815200-6576","Adelsö IF","https://www.svenskalag.se/adelsoif","discgolfklubb,fotbollsklubb,idrottsförening,innebandyklubb,tennisklubb",""
 "1234836649","802009-5348","Humanisterna","http://humanisterna.se/","intresseförening",""
@@ -9791,6 +9798,7 @@
 "1235672431","769636-8773","Historier från Hälsingland","https://www.historierfranhalsingland.se/","historia,historieförening,podcast",""
 "1235672662","802513-8069","Ungdomsjouren Bellis","https://www.bellis.nu/","kvinnojour",""
 "1235672829","802440-4736","Harley Owners Group, HOG Aros Viking Uppsala Chapter","https://www.hogsweden.se/hog-arosvikinguppsalachapter","motorcykelklubb",""
+"1235673561","802465-0981","Flow Kampsportsförening","http://www.flowmartialarts.se/","brasiliansk jiu-jitsu,idrottsförening,kampsportsförening,muaythaiklubb",""
 "1235673603","802518-8437","Trollhättan Syrianska FK","https://www.svenskalag.se/syrianskathn","fotbollsklubb,idrottsförening",""
 "1235673652","802518-8650","Skellefteå Senioruniversitet","https://skese.se/","seniorverksamhet,utbildning",""
 "1235673777","802434-3025","SPF Seniorerna Romele","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spfseniorerna-romele/","pensionärsklubb",""
@@ -9811,6 +9819,7 @@
 "1235680988","802471-4464","Glädjeknuff","http://gladjeknuff.se/","funktionsnedsättning,funktionsvariation,intresseförening",""
 "1235681051","802508-1228","SPF Seniorerna Hoheda","https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/spf-seniorerna-moheda/","pensionärsklubb",""
 "1235681655","716414-1199","Malmöns Samfällighetsförening","http://www.malmonhk.se/","samfällighetsförening",""
+"1235681663","838200-6487","Budoföreningen Kristianstad Kampsportcenter","https://kristianstadkampsportcenter.se/","idrottsförening,kampsportsförening",""
 "1235681705","252003-0970","Helsingborgs Pastorat","https://www.svenskakyrkan.se/helsingborg","religion",""
 "1235681721","802000-6600","Det Norske Samfund","https://norske-samfund.se/","hemlandsförening",""
 "1235682240","802444-5523","Frontier MMA Academy","https://www.frontiermma.se/","brasiliansk jiu-jitsu,capoeiraklubb,idrottsförening,kampsportsförening,mmaklubb,muaythaiklubb",""
@@ -10536,6 +10545,7 @@
 "1236132864","252004-9475","Nordanstigskustens Församling","https://www.svenskakyrkan.se/nordanstigskusten","religion","Kollekt Strömsbruk"
 "1236133003","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Förslövs skola"
 "1236133292","898200-7000","Månsbyns Framtid","https://mansbyn.se/","intresseförening,samhällsförening",""
+"1236133359","802515-6046","Borås Aikidoklubb","https://www.borasaikido.se/","aikidoklubb,idrottsförening,kampsportsförening",""
 "1236133680","252004-1969","Storfors Församling","https://www.svenskakyrkan.se/storfors","bastukultur","Bastuflotten"
 "1236133748","845002-6466","Föreningen Skånska Gårdar","https://www.skanskagardar.se/","historieförening,kulturförening",""
 "1236133920","817605-3893","Tierps HK","https://www.laget.se/TierpHockey/","idrottsförening,ishockeyklubb",""
@@ -11456,6 +11466,7 @@
 "1236677785","835001-3093","Kvinnojouren Karlskrona","https://kvinnojourenkarlskrona.se/","kvinnojour",""
 "1236677868","829000-8450","Sweden Stands With Ukraine / Lions Club Älmhult","https://www.supportukraine.se/","insamling,lionsklubb,ukraina",""
 "1236678262","802432-2078","American Akita Klubb Sverige","https://americanakitaklubbsverige.se/","hundklubb",""
+"1236680243","802453-0704","Riksförbundet PensionärsGemenskap Västerbotten","https://www.rpg.org.se/foreningsprogram/vasterbotten/","pensionärsklubb",""
 "1236680615","878500-7512","Klöver Dam Västra Mälardalen","https://www.kloverdamvm.se/","företagande,företagarförening,professionellt nätverk",""
 "1236682025","839400-4686","Sällskapet Hallands Väderös natur","https://shvn.se/","intresseförening",""
 "1236682322","252002-4866","Nordmalings Församling","https://www.svenskakyrkan.se/nordmaling","religion",""

@@ -21850,6 +21850,16 @@ entries:
   - hembygdsförening
   web: https://bygdegardarna.se/bergshamra/
 
+- entry: 1231326941
+  orgName: Hanmoosa Kampsport / KFUM Taekwondo Linköping
+  orgNumber: 822000-1831
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - taekwondoklubb
+  web: https://www.hanmoosadojang.se/
+
 - entry: 1231329515
   orgName: Betesdaförsamling Hällabrottet
   orgNumber: 875700-0339
@@ -36219,6 +36229,16 @@ entries:
   - religion
   web: https://www.ibpssweden.se/
 
+- entry: 1232244903
+  orgName: Chae Taekwondo Malmö
+  orgNumber: 802491-8867
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - taekwondoklubb
+  web: null
+
 - entry: 1232245041
   orgName: Insamlingsstiftelsen till minne av Anna-Karin Nyberg Mazeka
   orgNumber: 802477-6026
@@ -38101,6 +38121,16 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.ludvikagymmix.se/
+
+- entry: 1232340016
+  orgName: Stenkullens Aikido
+  orgNumber: 802454-5918
+  comment: null
+  categories:
+  - aikidoklubb
+  - idrottsförening
+  - kampsportsförening
+  web: https://stenkullensaikido.se/
 
 - entry: 1232341352
   orgName: Svea Kvinnojour
@@ -48801,6 +48831,16 @@ entries:
   categories:
   - intresseorganisation
   web: http://www.voices4change.se/
+
+- entry: 1233054285
+  orgName: Stockholm BJJ Center
+  orgNumber: 802457-7325
+  comment: null
+  categories:
+  - brasiliansk jiu-jitsu
+  - idrottsförening
+  - kampsportsförening
+  web: http://bjjcenter.se/
 
 - entry: 1233054384
   orgName: Bärfendals Hembygdsförening
@@ -60533,6 +60573,16 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/storforsaik
+
+- entry: 1233838521
+  orgName: Taekwondo Klubben Jeong Sool Kwan, JSK
+  orgNumber: 802407-5338
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - taekwondoklubb
+  web: https://tkd.nu/
 
 - entry: 1233838869
   orgName: Ekeby Bygdegårdsförening
@@ -74354,6 +74404,16 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/brosk
 
+- entry: 1234803029
+  orgName: Billdal Taekwon-Do
+  orgNumber: 802448-3045
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - taekwondoklubb
+  web: https://www.billdalkampsport.se/
+
 - entry: 1234803334
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -74762,6 +74822,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/garsnasais
+
+- entry: 1234833208
+  orgName: Equmeniakyrkan Linköping
+  orgNumber: 822000-2805
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkanlinkoping.se/
 
 - entry: 1234834370
   orgName: Rydaholms Frikyrka
@@ -87867,6 +87935,17 @@ entries:
   - motorcykelklubb
   web: https://www.hogsweden.se/hog-arosvikinguppsalachapter
 
+- entry: 1235673561
+  orgName: Flow Kampsportsförening
+  orgNumber: 802465-0981
+  comment: null
+  categories:
+  - brasiliansk jiu-jitsu
+  - idrottsförening
+  - kampsportsförening
+  - muaythaiklubb
+  web: http://www.flowmartialarts.se/
+
 - entry: 1235673603
   orgName: Trollhättan Syrianska FK
   orgNumber: 802518-8437
@@ -88049,6 +88128,15 @@ entries:
   categories:
   - samfällighetsförening
   web: http://www.malmonhk.se/
+
+- entry: 1235681663
+  orgName: Budoföreningen Kristianstad Kampsportcenter
+  orgNumber: 838200-6487
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  web: https://kristianstadkampsportcenter.se/
 
 - entry: 1235681705
   orgName: Helsingborgs Pastorat
@@ -94635,6 +94723,16 @@ entries:
   - intresseförening
   - samhällsförening
   web: https://mansbyn.se/
+
+- entry: 1236133359
+  orgName: Borås Aikidoklubb
+  orgNumber: 802515-6046
+  comment: null
+  categories:
+  - aikidoklubb
+  - idrottsförening
+  - kampsportsförening
+  web: https://www.borasaikido.se/
 
 - entry: 1236133680
   orgName: Storfors Församling
@@ -102968,7 +103066,7 @@ entries:
 
 - entry: 1236680243
   orgName: Riksförbundet PensionärsGemenskap Västerbotten
-  orgNumber: null
+  orgNumber: 802453-0704
   comment: null
   categories:
   - pensionärsklubb
