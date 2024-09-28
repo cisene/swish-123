@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-27-rev-140802",
+    "date": "2024-09-28-rev-130018",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -28200,6 +28200,17 @@
       "web": "https://fvardasodertalje.se/"
     },
     {
+      "entry": 1231433747,
+      "orgName": "Minneskonto Riksf\u00f6rbundet Hj\u00e4rtlung Ljungby",
+      "orgNumber": "829000-8740",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.hjart-lung.se/foreningar/kronoberg/lokalforeningar/ljungby/"
+    },
+    {
       "entry": 1231433895,
       "orgName": "Fogels Nya Trafikskola / Kappes Education AB",
       "orgNumber": "556836-5448",
@@ -31691,6 +31702,17 @@
       "web": "https://sodraviaso.se/"
     },
     {
+      "entry": 1231598390,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "848000-3980",
+      "comment": "Ystadskretsen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/skane/ystads-kommun/"
+    },
+    {
       "entry": 1231599976,
       "orgName": "Melleruds Golfklubb",
       "orgNumber": "559147-7152",
@@ -32173,6 +32195,17 @@
         "skoterklubb"
       ],
       "web": "https://www.savarskoterklubb.se/"
+    },
+    {
+      "entry": 1231616051,
+      "orgName": "G\u00f6ta Traneberg",
+      "orgNumber": "802006-7586",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/gotatraneberg"
     },
     {
       "entry": 1231616127,
@@ -71946,9 +71979,9 @@
     },
     {
       "entry": 1233745551,
-      "orgName": "Svenska Hundklubben, S\u00f6dert\u00e4lje",
+      "orgName": "Svenska Hundklubben",
       "orgNumber": "815600-8537",
-      "comment": null,
+      "comment": "S\u00f6dert\u00e4lje",
       "categories": [
         "hundklubb",
         "hundsport"
@@ -73491,6 +73524,17 @@
       "web": "https://gamlaborasare.se/"
     },
     {
+      "entry": 1233840295,
+      "orgName": "IK Sturehov",
+      "orgNumber": "875001-0384",
+      "comment": "P2010",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/iksturehov"
+    },
+    {
       "entry": 1233840667,
       "orgName": "Team Rynkeby",
       "orgNumber": "802533-7869",
@@ -74272,6 +74316,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.ljungbyif.nu/"
+    },
+    {
+      "entry": 1233882024,
+      "orgName": "Pingstf\u00f6rsamlingen Filadelfia Bor\u00e5s",
+      "orgNumber": "864500-2125",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://boraspingst.se/"
     },
     {
       "entry": 1233883071,
@@ -80996,6 +81050,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://harryarnold.se/"
+    },
+    {
+      "entry": 1234243598,
+      "orgName": "Svenska Hundklubben",
+      "orgNumber": "815600-8537",
+      "comment": "S\u00f6dert\u00e4lje",
+      "categories": [
+        "hundklubb",
+        "hundsport"
+      ],
+      "web": "https://svenskahundklubben.se/sodertalje/"
     },
     {
       "entry": 1234245692,
@@ -104794,6 +104859,17 @@
       "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/hoor-klubb-72/"
     },
     {
+      "entry": 1235574819,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "816000-2773",
+      "comment": "Vallentuna",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/vallentuna-kommun/"
+    },
+    {
       "entry": 1235574926,
       "orgName": "Lycksele kommun",
       "orgNumber": "212000-2635",
@@ -106358,6 +106434,17 @@
         "hundsport"
       ],
       "web": "https://www.springertrestad.se/"
+    },
+    {
+      "entry": 1235646526,
+      "orgName": "IK Sturehov",
+      "orgNumber": "875001-0384",
+      "comment": "P2017",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/iksturehov"
     },
     {
       "entry": 1235647599,
@@ -113878,6 +113965,17 @@
       "web": "https://speleo.se/"
     },
     {
+      "entry": 1236084297,
+      "orgName": "Norrk\u00f6ping Dolphins",
+      "orgNumber": "825003-8141",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/dolphins"
+    },
+    {
       "entry": 1236084370,
       "orgName": "Stockholms universitet",
       "orgNumber": "202100-3062",
@@ -116548,6 +116646,17 @@
         "yoga"
       ],
       "web": "http://www.lilashala.se/"
+    },
+    {
+      "entry": 1236204861,
+      "orgName": "KB65 Hockey",
+      "orgNumber": "889600-6858",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/kb65-hockey"
     },
     {
       "entry": 1236205603,
@@ -120021,6 +120130,17 @@
       "web": "http://www.varfralsare.se/"
     },
     {
+      "entry": 1236405096,
+      "orgName": "Holmalunds IF Alings\u00e5s",
+      "orgNumber": "864000-1015",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/holmalundsif"
+    },
+    {
       "entry": 1236405179,
       "orgName": "Sjundehimmelen / 33:ans i Malm\u00f6 Ekonomiska f\u00f6rening",
       "orgNumber": "769629-3583",
@@ -120158,6 +120278,17 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.laget.se/AsboRyttarforening/"
+    },
+    {
+      "entry": 1236409312,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "817601-2188",
+      "comment": "Knivsta",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/uppsala/knivsta-kommun/"
     },
     {
       "entry": 1236409320,

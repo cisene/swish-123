@@ -23265,6 +23265,15 @@ entries:
   - intresseförening
   web: https://fvardasodertalje.se/
 
+- entry: 1231433747
+  orgName: Minneskonto Riksförbundet Hjärtlung Ljungby
+  orgNumber: 829000-8740
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.hjart-lung.se/foreningar/kronoberg/lokalforeningar/ljungby/
+
 - entry: 1231433895
   orgName: Fogels Nya Trafikskola / Kappes Education AB
   orgNumber: 556836-5448
@@ -26139,6 +26148,15 @@ entries:
   - viltvård
   web: https://sodraviaso.se/
 
+- entry: 1231598390
+  orgName: Svenska Röda Korset
+  orgNumber: 848000-3980
+  comment: Ystadskretsen
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/skane/ystads-kommun/
+
 - entry: 1231599976
   orgName: Melleruds Golfklubb
   orgNumber: 559147-7152
@@ -26532,6 +26550,15 @@ entries:
   - förening
   - skoterklubb
   web: https://www.savarskoterklubb.se/
+
+- entry: 1231616051
+  orgName: Göta Traneberg
+  orgNumber: 802006-7586
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/gotatraneberg
 
 - entry: 1231616127
   orgName: MK Jämke Jämshög
@@ -59349,9 +59376,9 @@ entries:
   web: null
 
 - entry: 1233745551
-  orgName: Svenska Hundklubben, Södertälje
+  orgName: Svenska Hundklubben
   orgNumber: 815600-8537
-  comment: null
+  comment: Södertälje
   categories:
   - hundklubb
   - hundsport
@@ -60617,6 +60644,15 @@ entries:
   - intresseförening
   web: https://gamlaborasare.se/
 
+- entry: 1233840295
+  orgName: IK Sturehov
+  orgNumber: 875001-0384
+  comment: P2010
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/iksturehov
+
 - entry: 1233840667
   orgName: Team Rynkeby
   orgNumber: 802533-7869
@@ -61255,6 +61291,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.ljungbyif.nu/
+
+- entry: 1233882024
+  orgName: Pingstförsamlingen Filadelfia Borås
+  orgNumber: 864500-2125
+  comment: null
+  categories:
+  - religion
+  web: https://boraspingst.se/
 
 - entry: 1233883071
   orgName: Skärså AIK
@@ -66793,6 +66837,15 @@ entries:
   categories:
   - intresseförening
   web: https://harryarnold.se/
+
+- entry: 1234243598
+  orgName: Svenska Hundklubben
+  orgNumber: 815600-8537
+  comment: Södertälje
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://svenskahundklubben.se/sodertalje/
 
 - entry: 1234245437
   orgName: REKO-ring Arvika
@@ -86413,6 +86466,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/hoor-klubb-72/
 
+- entry: 1235574819
+  orgName: Svenska Röda Korset
+  orgNumber: 816000-2773
+  comment: Vallentuna
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/stockholm/vallentuna-kommun/
+
 - entry: 1235574926
   orgName: Lycksele kommun
   orgNumber: 212000-2635
@@ -87699,6 +87761,15 @@ entries:
   - hundklubb
   - hundsport
   web: https://www.springertrestad.se/
+
+- entry: 1235646526
+  orgName: IK Sturehov
+  orgNumber: 875001-0384
+  comment: P2017
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/iksturehov
 
 - entry: 1235647599
   orgName: Jönköpings Södra IF
@@ -93946,6 +94017,15 @@ entries:
   - speleologi
   web: https://speleo.se/
 
+- entry: 1236084297
+  orgName: Norrköping Dolphins
+  orgNumber: 825003-8141
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/dolphins
+
 - entry: 1236084370
   orgName: Stockholms universitet
   orgNumber: 202100-3062
@@ -96169,6 +96249,15 @@ entries:
   categories:
   - yoga
   web: http://www.lilashala.se/
+
+- entry: 1236204861
+  orgName: KB65 Hockey
+  orgNumber: 889600-6858
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/kb65-hockey
 
 - entry: 1236205603
   orgName: PRO Trekanten
@@ -99049,6 +99138,15 @@ entries:
   - religion
   web: http://www.varfralsare.se/
 
+- entry: 1236405096
+  orgName: Holmalunds IF Alingsås
+  orgNumber: 864000-1015
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/holmalundsif
+
 - entry: 1236405179
   orgName: Sjundehimmelen / 33:ans i Malmö Ekonomiska förening
   orgNumber: 769629-3583
@@ -99161,6 +99259,15 @@ entries:
   - ridklubb
   - ryttarförening
   web: https://www.laget.se/AsboRyttarforening/
+
+- entry: 1236409312
+  orgName: Svenska Röda Korset
+  orgNumber: 817601-2188
+  comment: Knivsta
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/uppsala/knivsta-kommun/
 
 - entry: 1236409320
   orgName: Härkeberga Hund- & Katthotell / Härkeberga Konsulttjänst
