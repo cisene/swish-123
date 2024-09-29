@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2024-09-29-rev-144153
+Date: 2024-09-29-rev-163536
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -813,6 +813,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1230435354"><organization><number>802470-2451</number><name>Quinnoqraft Sandviken</name></organization><comment/><categories><category type="ideell förening"/></categories><web>https://www.qvinnoqraft-sandviken.se/</web></entry>
     <entry number="1230436055"><organization><number>559085-1183</number><name>Svenska Inkassogruppen AB</name></organization><comment/><categories><category type="betaltjänster"/><category type="inkasso"/><category type="kredittjänster"/></categories><web>https://www.inkassogruppen.se/</web></entry>
     <entry number="1230437053"><organization><number>802542-5979</number><name>Föreningen Interkultur i Lund</name></organization><comment>Al-Jasmin - Arabisk sektion</comment><categories><category type="intresseförening"/><category type="kulturförening"/></categories><web>https://www.interkultur.nu/</web></entry>
+    <entry number="1230437673"><organization><number>836200-7240</number><name>Hörvik-Krokås hembygdsförening</name></organization><comment/><categories><category type="hembygdsförening"/></categories><web>https://bygdegardarna.se/horvik-krokas/</web></entry>
     <entry number="1230438077"><organization><number>802422-9497</number><name>Feministiskt Initiativ</name></organization><comment/><categories><category type="politiskt parti"/></categories><web>https://feministisktinitiativ.se/</web></entry>
     <entry number="1230438093"><organization><number>817602-0637</number><name>Bröstcancerföreningen Uppsala Län</name></organization><comment/><categories><category type="bröstcancer"/><category type="cancer"/><category type="förening"/></categories><web>https://uppsala.brostcancerforbundet.se/</web></entry>
     <entry number="1230438143"><organization><number>818000-1144</number><name>IFK Eskilstuna</name></organization><comment/><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://ifkeskilstuna.com/</web></entry>

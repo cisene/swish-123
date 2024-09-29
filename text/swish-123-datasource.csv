@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-09-29-rev-144136
+# Date: 2024-09-29-rev-163521
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -813,6 +813,7 @@
 "1230435354","802470-2451","Quinnoqraft Sandviken","https://www.qvinnoqraft-sandviken.se/","ideell förening",""
 "1230436055","559085-1183","Svenska Inkassogruppen AB","https://www.inkassogruppen.se/","betaltjänster,inkasso,kredittjänster",""
 "1230437053","802542-5979","Föreningen Interkultur i Lund","https://www.interkultur.nu/","intresseförening,kulturförening","Al-Jasmin - Arabisk sektion"
+"1230437673","836200-7240","Hörvik-Krokås hembygdsförening","https://bygdegardarna.se/horvik-krokas/","hembygdsförening",""
 "1230438077","802422-9497","Feministiskt Initiativ","https://feministisktinitiativ.se/","politiskt parti",""
 "1230438093","817602-0637","Bröstcancerföreningen Uppsala Län","https://uppsala.brostcancerforbundet.se/","bröstcancer,cancer,förening",""
 "1230438143","818000-1144","IFK Eskilstuna","https://ifkeskilstuna.com/","fotbollsklubb,idrottsförening",""

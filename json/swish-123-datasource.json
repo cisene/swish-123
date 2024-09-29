@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-29-rev-144127",
+    "date": "2024-09-29-rev-163513",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8751,6 +8751,16 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.interkultur.nu/"
+    },
+    {
+      "entry": 1230437673,
+      "orgName": "H\u00f6rvik-Krok\u00e5s hembygdsf\u00f6rening",
+      "orgNumber": "836200-7240",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/horvik-krokas/"
     },
     {
       "entry": 1230438077,
