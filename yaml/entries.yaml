@@ -12814,6 +12814,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/OlmstadIS/
 
+- entry: 1230804138
+  orgName: Utomskogens Bygdegårdsförening
+  orgNumber: 886500-3647
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/utomskogen/
+
 - entry: 1230804237
   orgName: Bureå Församling
   orgNumber: 252002-5194
@@ -50687,6 +50695,14 @@ entries:
   - intresseförening
   web: https://suderbyn.se/
 
+- entry: 1233188679
+  orgName: Missenträsk bygdegårdsförening
+  orgNumber: 894700-5750
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://glommersbygden.se/en/byaforeningar/
+
 - entry: 1233188885
   orgName: Ale Ponnyranch AB
   orgNumber: 559320-9629
@@ -55494,6 +55510,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegardarna.se/boalt/
+
+- entry: 1233481702
+  orgName: Burs Hembygdsförening
+  orgNumber: 834001-2379
+  comment: null
+  categories:
+  - hembygdsförening
+  web: http://hembygd.se/burs
 
 - entry: 1233481868
   orgName: Tip-Top Läder
@@ -84751,6 +84775,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/EskilstunaCityFK/
 
+- entry: 1235456223
+  orgName: Taxinge Bygdegårdsförening
+  orgNumber: 802472-1162
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://taxingebygdegard.se/
+
 - entry: 1235456629
   orgName: Degeberga-Everöds Församling
   orgNumber: 252004-7750
@@ -89846,6 +89878,14 @@ entries:
   - kulturförening
   web: https://sta.nu/
 
+- entry: 1235770177
+  orgName: Vittinge Hembygdsförening
+  orgNumber: 879500-2677
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.vittingehembygdsforening.se/
+
 - entry: 1235770318
   orgName: Västmanlands Ornitologiska Förening
   orgNumber: 878001-6047
@@ -94793,6 +94833,15 @@ entries:
   - media
   web: https://nyadagbladet.se/
 
+- entry: 1236115125
+  orgName: Utterlidens byastugeförening
+  orgNumber: 802536-6025
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - bystuga
+  web: https://glommersbygden.se/en/byaforeningar/
+
 - entry: 1236115786
   orgName: Piteå Basket
   orgNumber: 898801-3184
@@ -94938,6 +94987,16 @@ entries:
   - mountainbikeklubb
   - skidlöparklubb
   web: https://bsmk.se/
+
+- entry: 1236128342
+  orgName: Burs GoIF
+  orgNumber: 834000-7775
+  comment: null
+  categories:
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  web: null
 
 - entry: 1236128599
   orgName: Svenska Fyrverkerimuseet
@@ -98848,6 +98907,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.bullerbycup.com/
+
+- entry: 1236359087
+  orgName: Järvträsk Byastugeförening
+  orgNumber: 999100-1802
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - bystuga
+  web: https://glommersbygden.se/en/byaforeningar/
 
 - entry: 1236359210
   orgName: Sundbergs Hundtjänst / Frida Wallén
@@ -104922,6 +104990,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/leksandsfotboll
 
+- entry: 1236763031
+  orgName: Vattan-Lövåker-Stocksbo Bygdegårdsförening
+  orgNumber: 802444-5473
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://v-l-s.se/
+
 - entry: 1236763718
   orgName: Torrbergstjärn / Sjulnäs Fiskevårdsförening
   orgNumber: 898801-0834
@@ -107594,6 +107670,14 @@ entries:
   - biodling
   - riksförbund
   web: https://www.biodlarna.se/
+
+- entry: 1236932875
+  orgName: Böloms Bygdegårdsförening
+  orgNumber: 889200-0459
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://www.bolom.se/
 
 - entry: 1236934251
   orgName: Rotary Stockholm-Vällingby och Spånga

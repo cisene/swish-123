@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-09-29-rev-163513",
+    "date": "2024-10-01-rev-174302",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -15565,6 +15565,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/OlmstadIS/"
+    },
+    {
+      "entry": 1230804138,
+      "orgName": "Utomskogens Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "886500-3647",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/utomskogen/"
     },
     {
       "entry": 1230804237,
@@ -61389,6 +61399,16 @@
       "web": "https://suderbyn.se/"
     },
     {
+      "entry": 1233188679,
+      "orgName": "Missentr\u00e4sk bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "894700-5750",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://glommersbygden.se/en/byaforeningar/"
+    },
+    {
       "entry": 1233188885,
       "orgName": "Ale Ponnyranch AB",
       "orgNumber": "559320-9629",
@@ -67231,6 +67251,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/boalt/"
+    },
+    {
+      "entry": 1233481702,
+      "orgName": "Burs Hembygdsf\u00f6rening",
+      "orgNumber": "834001-2379",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://hembygd.se/burs"
     },
     {
       "entry": 1233481868,
@@ -102769,6 +102799,16 @@
       "web": "https://www.laget.se/EskilstunaCityFK/"
     },
     {
+      "entry": 1235456223,
+      "orgName": "Taxinge Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "802472-1162",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://taxingebygdegard.se/"
+    },
+    {
       "entry": 1235456629,
       "orgName": "Degeberga-Ever\u00f6ds F\u00f6rsamling",
       "orgNumber": "252004-7750",
@@ -108944,6 +108984,16 @@
       "web": "https://sta.nu/"
     },
     {
+      "entry": 1235770177,
+      "orgName": "Vittinge Hembygdsf\u00f6rening",
+      "orgNumber": "879500-2677",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.vittingehembygdsforening.se/"
+    },
+    {
       "entry": 1235770318,
       "orgName": "V\u00e4stmanlands Ornitologiska F\u00f6rening",
       "orgNumber": "878001-6047",
@@ -114870,6 +114920,17 @@
       "web": "https://nyadagbladet.se/"
     },
     {
+      "entry": 1236115125,
+      "orgName": "Utterlidens byastugef\u00f6rening",
+      "orgNumber": "802536-6025",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "bystuga"
+      ],
+      "web": "https://glommersbygden.se/en/byaforeningar/"
+    },
+    {
       "entry": 1236115786,
       "orgName": "Pite\u00e5 Basket",
       "orgNumber": "898801-3184",
@@ -115046,6 +115107,18 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://bsmk.se/"
+    },
+    {
+      "entry": 1236128342,
+      "orgName": "Burs GoIF",
+      "orgNumber": "834000-7775",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": null
     },
     {
       "entry": 1236128599,
@@ -119770,6 +119843,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.bullerbycup.com/"
+    },
+    {
+      "entry": 1236359087,
+      "orgName": "J\u00e4rvtr\u00e4sk Byastugef\u00f6rening",
+      "orgNumber": "999100-1802",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "bystuga"
+      ],
+      "web": "https://glommersbygden.se/en/byaforeningar/"
     },
     {
       "entry": 1236359210,
@@ -127099,6 +127183,16 @@
       "web": "https://www.svenskalag.se/leksandsfotboll"
     },
     {
+      "entry": 1236763031,
+      "orgName": "Vattan-L\u00f6v\u00e5ker-Stocksbo Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "802444-5473",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://v-l-s.se/"
+    },
+    {
       "entry": 1236763718,
       "orgName": "Torrbergstj\u00e4rn / Sjuln\u00e4s Fiskev\u00e5rdsf\u00f6rening",
       "orgNumber": "898801-0834",
@@ -130346,6 +130440,16 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://www.biodlarna.se/"
+    },
+    {
+      "entry": 1236932875,
+      "orgName": "B\u00f6loms Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "889200-0459",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://www.bolom.se/"
     },
     {
       "entry": 1236934251,
