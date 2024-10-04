@@ -6457,6 +6457,14 @@ entries:
   - motorsport
   web: https://www.pgandersson.se/
 
+- entry: 1230398107
+  orgName: Kungsåra Hembygdsförening
+  orgNumber: 802415-9173
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/kungsara
+
 - entry: 1230398883
   orgName: Cykelregister.se
   orgNumber: null
@@ -12137,6 +12145,15 @@ entries:
   categories:
   - teater
   web: https://teaterslaget.se/
+
+- entry: 1230763789
+  orgName: Mackans Garage / Markus Lindh
+  orgNumber: 830110-XXXX
+  comment: null
+  categories:
+  - e-handel
+  - försäljning
+  web: https://www.mackansgarage.se/
 
 - entry: 1230763888
   orgName: Radioklubben Vasa - SK6DG
@@ -33279,6 +33296,14 @@ entries:
   - bygdegårdsförening
   web: https://guldsmebacken.se/
 
+- entry: 1232074680
+  orgName: Bygdelaget i Sturefors
+  orgNumber: 802470-4929
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegarden.sturefors.se/
+
 - entry: 1232077220
   orgName: Åkagårdens Golfklubb
   orgNumber: 839401-0568
@@ -37902,6 +37927,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/uppsala
+
+- entry: 1232316065
+  orgName: Böle Bygdegårds- och Idrottsförening
+  orgNumber: 889202-0846
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - idrottsförening
+  web: http://www.bolegarden.se/
 
 - entry: 1232316560
   orgName: Föreningen Nösund
@@ -48050,6 +48084,14 @@ entries:
   - stiftelse
   web: https://www.larsobritta.se/
 
+- entry: 1232996874
+  orgName: Norums Bygdegårdsförening
+  orgNumber: 894003-8006
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://norumsbygdegard.se/
+
 - entry: 1232999340
   orgName: Wånga Klippan Bygdegårdsförening
   orgNumber: 825002-7532
@@ -54380,6 +54422,14 @@ entries:
   - ridklubb
   web: https://www.svenskalag.se/norramsbergsridklubb
 
+- entry: 1233409778
+  orgName: Vuollerims Hembygdsförening
+  orgNumber: 898500-5969
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/vuollerim
+
 - entry: 1233409786
   orgName: Skellefteå AIK CK
   orgNumber: 894701-3804
@@ -57296,6 +57346,13 @@ entries:
   - fiskekort
   - kommun
   web: https://amal.se/
+
+- entry: 1233575446
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1233575842
   orgName: Boden Hockey AB
@@ -61255,6 +61312,14 @@ entries:
   - museum
   - musik
   web: https://www.alfvengarden.se/
+
+- entry: 1233872561
+  orgName: Långheds Bygdeförening
+  orgNumber: 886501-2036
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://langhed.se/
 
 - entry: 1233873015
   orgName: SPF Seniorerna St Ragnhild Söderköping
@@ -75148,6 +75213,15 @@ entries:
   - religion
   web: http://www.rydaholmsfrikyrka.se/
 
+- entry: 1234836166
+  orgName: FFK-Dunkroken
+  orgNumber: 802518-8247
+  comment: null
+  categories:
+  - fiskevård
+  - sportfiske
+  web: https://www.facebook.com/Dunkroken.se/
+
 - entry: 1234836565
   orgName: Adelsö IF
   orgNumber: 815200-6576
@@ -86401,6 +86475,14 @@ entries:
   - bygdegårdsförening
   web: http://www.sodraradabygdegard.se/
 
+- entry: 1235556220
+  orgName: Repbäckens Bygdegård
+  orgNumber: 882602-0011
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://repbackensbygdegard.se/
+
 - entry: 1235557319
   orgName: Skogslöparna - Orientering
   orgNumber: 889600-7609
@@ -87781,6 +87863,14 @@ entries:
   - musikförening
   web: https://niosangare.se/
 
+- entry: 1235626080
+  orgName: Gränna Visingsö Pastorat
+  orgNumber: 252003-4634
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/grannavisingso
+
 - entry: 1235626221
   orgName: QBIK
   orgNumber: 873200-9454
@@ -88744,6 +88834,14 @@ entries:
   - idrottsförening
   - löparklubb
   web: https://www.runformentalhealth.se/
+
+- entry: 1235694617
+  orgName: Västra Torups Bygdegårdsförening
+  orgNumber: 837000-6135
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://vastratorupsbygdegard.se/
 
 - entry: 1235694906
   orgName: Västerort/Norrorts Trafikskola AB
@@ -91676,6 +91774,16 @@ entries:
   - massage
   - yoga
   web: https://www.matildasprofylax.se/
+
+- entry: 1235890827
+  orgName: Ruda Revy och Teatersällskap
+  orgNumber: 802545-0829
+  comment: null
+  categories:
+  - revysällskap
+  - teatergrupp
+  - teatersällskap
+  web: http://rudarevyn.se/
 
 - entry: 1235890975
   orgName: Svensk-Kubanska Föreningen
@@ -98413,6 +98521,14 @@ entries:
   categories:
   - bridgeklubb
   web: https://www.svenskbridge.se/bohuslän-dals-bf/
+
+- entry: 1236330898
+  orgName: Kumla Tärna Kila Pastorat
+  orgNumber: 252003-4345
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/kumla-tarna-kila
 
 - entry: 1236332993
   orgName: Vansbro AIK FK

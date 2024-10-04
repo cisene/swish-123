@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-04-rev-131849",
+    "date": "2024-10-04-rev-205530",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7831,6 +7831,16 @@
       "web": "https://www.pgandersson.se/"
     },
     {
+      "entry": 1230398107,
+      "orgName": "Kungs\u00e5ra Hembygdsf\u00f6rening",
+      "orgNumber": "802415-9173",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/kungsara"
+    },
+    {
       "entry": 1230399485,
       "orgName": "Crazy Flutters Square Dance Club",
       "orgNumber": "814801-2340",
@@ -14735,6 +14745,17 @@
         "teater"
       ],
       "web": "https://teaterslaget.se/"
+    },
+    {
+      "entry": 1230763789,
+      "orgName": "Mackans Garage / Markus Lindh",
+      "orgNumber": "830110-XXXX",
+      "comment": null,
+      "categories": [
+        "e-handel",
+        "f\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://www.mackansgarage.se/"
     },
     {
       "entry": 1230763888,
@@ -40365,6 +40386,16 @@
       "web": "https://guldsmebacken.se/"
     },
     {
+      "entry": 1232074680,
+      "orgName": "Bygdelaget i Sturefors",
+      "orgNumber": "802470-4929",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegarden.sturefors.se/"
+    },
+    {
       "entry": 1232077220,
       "orgName": "\u00c5kag\u00e5rdens Golfklubb",
       "orgNumber": "839401-0568",
@@ -45939,6 +45970,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/uppsala"
+    },
+    {
+      "entry": 1232316065,
+      "orgName": "B\u00f6le Bygdeg\u00e5rds- och Idrottsf\u00f6rening",
+      "orgNumber": "889202-0846",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://www.bolegarden.se/"
     },
     {
       "entry": 1232316560,
@@ -58214,6 +58256,16 @@
       "web": "https://www.larsobritta.se/"
     },
     {
+      "entry": 1232996874,
+      "orgName": "Norums Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "894003-8006",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://norumsbygdegard.se/"
+    },
+    {
       "entry": 1232999340,
       "orgName": "W\u00e5nga Klippan Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "825002-7532",
@@ -65868,6 +65920,16 @@
         "ridklubb"
       ],
       "web": "https://www.svenskalag.se/norramsbergsridklubb"
+    },
+    {
+      "entry": 1233409778,
+      "orgName": "Vuollerims Hembygdsf\u00f6rening",
+      "orgNumber": "898500-5969",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/vuollerim"
     },
     {
       "entry": 1233409786,
@@ -74258,6 +74320,16 @@
         "musik"
       ],
       "web": "https://www.alfvengarden.se/"
+    },
+    {
+      "entry": 1233872561,
+      "orgName": "L\u00e5ngheds Bygdef\u00f6rening",
+      "orgNumber": "886501-2036",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://langhed.se/"
     },
     {
       "entry": 1233873015,
@@ -91120,6 +91192,17 @@
       "web": "http://www.rydaholmsfrikyrka.se/"
     },
     {
+      "entry": 1234836166,
+      "orgName": "FFK-Dunkroken",
+      "orgNumber": "802518-8247",
+      "comment": null,
+      "categories": [
+        "fiskev\u00e5rd",
+        "sportfiske"
+      ],
+      "web": "https://www.facebook.com/Dunkroken.se/"
+    },
+    {
       "entry": 1234836565,
       "orgName": "Adels\u00f6 IF",
       "orgNumber": "815200-6576",
@@ -104766,6 +104849,16 @@
       "web": "http://www.sodraradabygdegard.se/"
     },
     {
+      "entry": 1235556220,
+      "orgName": "Repb\u00e4ckens Bygdeg\u00e5rd",
+      "orgNumber": "882602-0011",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://repbackensbygdegard.se/"
+    },
+    {
       "entry": 1235557319,
       "orgName": "Skogsl\u00f6parna - Orientering",
       "orgNumber": "889600-7609",
@@ -106454,6 +106547,16 @@
       "web": "https://niosangare.se/"
     },
     {
+      "entry": 1235626080,
+      "orgName": "Gr\u00e4nna Visings\u00f6 Pastorat",
+      "orgNumber": "252003-4634",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/grannavisingso"
+    },
+    {
       "entry": 1235626775,
       "orgName": "IFK Skoghall",
       "orgNumber": "873200-0941",
@@ -107606,6 +107709,16 @@
         "l\u00f6parklubb"
       ],
       "web": "https://www.runformentalhealth.se/"
+    },
+    {
+      "entry": 1235694617,
+      "orgName": "V\u00e4stra Torups Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "837000-6135",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://vastratorupsbygdegard.se/"
     },
     {
       "entry": 1235694906,
@@ -111136,6 +111249,18 @@
         "yoga"
       ],
       "web": "https://www.matildasprofylax.se/"
+    },
+    {
+      "entry": 1235890827,
+      "orgName": "Ruda Revy och Teaters\u00e4llskap",
+      "orgNumber": "802545-0829",
+      "comment": null,
+      "categories": [
+        "revys\u00e4llskap",
+        "teatergrupp",
+        "teaters\u00e4llskap"
+      ],
+      "web": "http://rudarevyn.se/"
     },
     {
       "entry": 1235890975,
@@ -119243,6 +119368,16 @@
         "bridgeklubb"
       ],
       "web": "https://www.svenskbridge.se/bohusl\u00e4n-dals-bf/"
+    },
+    {
+      "entry": 1236330898,
+      "orgName": "Kumla T\u00e4rna Kila Pastorat",
+      "orgNumber": "252003-4345",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/kumla-tarna-kila"
     },
     {
       "entry": 1236332993,
