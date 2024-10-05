@@ -14482,6 +14482,14 @@ entries:
   - simsällskap
   web: https://www.harnosim.se/
 
+- entry: 1230879932
+  orgName: Stenungsund, Tjörn och Orust FN-förening
+  orgNumber: 853300-9349
+  comment: null
+  categories:
+  - intresseförening
+  web: https://fn.se/stenungsund-tjorn-och-orust/
+
 - entry: 1230879981
   orgName: Högskolan Dalarnas Fritidsförening
   orgNumber: 802488-3632
@@ -28390,6 +28398,15 @@ entries:
   - golfbana
   - golfklubb
   web: https://www.hogbogk.com/
+
+- entry: 1231732049
+  orgName: Bohusläns Ornitologiska Förening
+  orgNumber: 858501-1946
+  comment: null
+  categories:
+  - fågelskådning
+  - ornitologi
+  web: https://bohof.com/
 
 - entry: 1231732122
   orgName: Sjulsmarks SK
@@ -70721,6 +70738,14 @@ entries:
   - religion
   web: https://www.norrmalmskyrkan.se/
 
+- entry: 1234512455
+  orgName: Svenska Skolidrottsförbundet
+  orgNumber: 802003-0618
+  comment: null
+  categories:
+  - idrottsförbund
+  web: https://www.skolidrott.se/
+
 - entry: 1234512760
   orgName: Hedvig Eleonora Församling
   orgNumber: 252000-0577
@@ -88026,6 +88051,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/bjuraker
+
+- entry: 1235628714
+  orgName: EFS Missionsförening i Umeå
+  orgNumber: 894000-2606
+  comment: null
+  categories:
+  - religion
+  web: https://www.vasakyrkan.com/
 
 - entry: 1235633979
   orgName: Falköpings Schacksällskap
@@ -107570,6 +107603,14 @@ entries:
   - simklubb
   - simsällskap
   web: https://www.laget.se/AmalsSS/
+
+- entry: 1236905459
+  orgName: Hyresgästföreningen
+  orgNumber: 802001-5106
+  comment: Region Norrland
+  categories:
+  - hyresgästförening
+  web: https://www.hyresgastforeningen.se/regioner/norrland/
 
 - entry: 1236905616
   orgName: Torsby Marknad

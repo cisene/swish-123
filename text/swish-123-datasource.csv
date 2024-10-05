@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-10-05-rev-141428
+# Date: 2024-10-05-rev-182143
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1624,6 +1624,7 @@
 "1230879569","802466-8900","Boo & Lännersta Villaägareförening","http://www.boovilla.se/","förening,villaägareförening",""
 "1230879809","814800-5724","Märsta Scoutkår","https://marsta.scout.se/","scoutkår",""
 "1230879890","888000-7821","Härnösands Simsällskap","https://www.harnosim.se/","idrottsförening,simklubb,simsällskap",""
+"1230879932","853300-9349","Stenungsund, Tjörn och Orust FN-förening","https://fn.se/stenungsund-tjorn-och-orust/","intresseförening",""
 "1230879981","802488-3632","Högskolan Dalarnas Fritidsförening","https://www.du.se/sv/medarbetarwebb/din-anstallning/friskvard-och-halsa/fritidsforeningen/","förening",""
 "1230880765","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Stockholm, Solstiftesskolan"
 "1230881094","873200-1386","Karlstad Fotboll Ungdom","https://www.karlstadfotbollungdom.com/","fotbollsklubb,idrottsförening",""
@@ -3179,6 +3180,7 @@
 "1231731397","826000-0784","Pingst Jönköping","https://pingstjonkoping.se/","religion","LP"
 "1231731827","802489-5750","Svillinge IF","https://www.instagram.com/svillingeif/","friidrottsförening,idrottsförening,löparklubb",""
 "1231731991","885500-2625","Högbo Golfklubb","https://www.hogbogk.com/","golfbana,golfklubb","Greenfee"
+"1231732049","858501-1946","Bohusläns Ornitologiska Förening","https://bohof.com/","fågelskådning,ornitologi",""
 "1231732122","898800-1072","Sjulsmarks SK","https://www.svenskalag.se/sjulsmarkssk","fotbollsklubb,idrottsförening,skidlöparklubb",""
 "1231732700","894000-0691","KFUM Umeå","https://umea.kfum.se/","ungdomsverksamhet",""
 "1231732932","802488-2873","Homeless Foundation","https://hemlosa.se/","hjälporganisation,ideell förening",""
@@ -7880,6 +7882,7 @@
 "1234512166","827500-0480","Pingstförsamlingen Vetlanda","https://vetlanda.pingst.se/","religion",""
 "1234512208","872800-5110","Hembygdsföreningen i Ransäter","https://www.ransater.com/","hembygdsförening","Medlemsavgift"
 "1234512224","802002-4892","Norrmalms baptistförsamling","https://www.norrmalmskyrkan.se/","religion",""
+"1234512455","802003-0618","Svenska Skolidrottsförbundet","https://www.skolidrott.se/","idrottsförbund",""
 "1234512760","252000-0577","Hedvig Eleonora Församling","https://hedvigeleonora.se/","religion",""
 "1234513032","252003-6282","Solberga Pastorat","https://www.svenskakyrkan.se/solberga","religion","Kollekt i Hålta"
 "1234513115","802436-3981","Asylgruppen i Malmö","https://asylgruppenimalmo.se/","flyktingstöd,intresseförening",""
@@ -9806,6 +9809,7 @@
 "1235628482","802456-4224","Tranemo MK","https://www.svenskalag.se/tranemomk","motorklubb,motorsport",""
 "1235628557","828500-0090","Anderstorps IF","https://www.svenskalag.se/anderstorpsif","fotbollsklubb,idrottsförening",""
 "1235628680","887500-0310","Bjuråkers Hembygdsförening","https://www.hembygd.se/bjuraker","hembygdsförening",""
+"1235628714","894000-2606","EFS Missionsförening i Umeå","https://www.vasakyrkan.com/","religion",""
 "1235633979","864001-1568","Falköpings Schacksällskap","https://falkopingschack.se/","schackklubb,schacksällskap",""
 "1235634530","802405-8615","SKPF Pensionärerna, avd 2 Distrikt Stockholm","https://www.skpf.se/","pensionärsklubb",""
 "1235634936","863500-4503","Lerums BK","https://www.laget.se/LerumsBK/","idrottsförening,ishockeyklubb","Team 14"
@@ -11966,6 +11970,7 @@
 "1236903900","819500-5726","Olivehällkyrkan","https://olivehallkyrkan.se/","religion",""
 "1236905004","802506-8514","Vardagsrummet i Örnsköldsvik","https://vardagsrummet.org/","religion",""
 "1236905020","862000-6109","Åmåls Simsällskap","https://www.laget.se/AmalsSS/","idrottsförening,simklubb,simsällskap",""
+"1236905459","802001-5106","Hyresgästföreningen","https://www.hyresgastforeningen.se/regioner/norrland/","hyresgästförening","Region Norrland"
 "1236905616","769613-2302","Torsby Marknad","https://torsbymarknad.se/","intresseförening",""
 "1236905798","839401-0253","Bjäre BS","https://www.svenskalag.se/bjarebs","bågskytteklubb,idrottsförening",""
 "1236906556","556829-5637","Sportjouren AB","https://www.sportjouren.se/","försäljning,sportmaterial",""
