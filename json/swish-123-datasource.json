@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-04-rev-205530",
+    "date": "2024-10-05-rev-141420",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8484,6 +8484,18 @@
       "web": "https://jhstovare.se/"
     },
     {
+      "entry": 1230425538,
+      "orgName": "Neurof\u00f6rbundet Uppsala-Knivsta",
+      "orgNumber": "817600-8541",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "parasport",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://neuro.se/forening/foereningar-a-oe/uppsala-knivsta-och-parasport-foerening/"
+    },
+    {
       "entry": 1230425603,
       "orgName": "Gribbylunds Fastighets\u00e4garef\u00f6rening",
       "orgNumber": "702000-7972",
@@ -10068,6 +10080,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.annelundsif.com/"
+    },
+    {
+      "entry": 1230500280,
+      "orgName": "Neurof\u00f6rbundet Kalmar",
+      "orgNumber": "832400-8948",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://neuro.se/forening/foereningar-a-oe/kalmar/"
     },
     {
       "entry": 1230502062,
@@ -14735,6 +14758,17 @@
         "religion"
       ],
       "web": "https://equmeniakyrkan.se/boden/"
+    },
+    {
+      "entry": 1230761528,
+      "orgName": "Neurof\u00f6rbundet Sm\u00e5l\u00e4ndska H\u00f6glandet",
+      "orgNumber": "827000-8140",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://neuro.se/forening/foereningar-a-oe/smaalaendska-hoeglandet/"
     },
     {
       "entry": 1230761759,
@@ -20617,6 +20651,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/harnosand"
+    },
+    {
+      "entry": 1231027150,
+      "orgName": "Neurof\u00f6rbundet Hallands L\u00e4n",
+      "orgNumber": "849201-1393",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://neuro.se/forening/foereningar-a-oe/hallands-laen/"
     },
     {
       "entry": 1231027473,
@@ -56433,6 +56478,16 @@
       "web": "https://www.svenskalag.se/lagf"
     },
     {
+      "entry": 1232886695,
+      "orgName": "Svensk Barnfetmaf\u00f6rening / Svenska Barnl\u00e4karf\u00f6reningen",
+      "orgNumber": "833600-4885",
+      "comment": "Barnfetma",
+      "categories": [
+        "yrkesf\u00f6rening"
+      ],
+      "web": "https://www.barnlakarforeningen.se/"
+    },
+    {
       "entry": 1232886802,
       "orgName": "SoS - Svenska Service- och Signalhundsf\u00f6rbundet",
       "orgNumber": "843003-3038",
@@ -57514,6 +57569,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/aspered"
+    },
+    {
+      "entry": 1232955920,
+      "orgName": "Elunds F\u00f6r\u00e4ldraf\u00f6rening",
+      "orgNumber": "802470-4689",
+      "comment": null,
+      "categories": [
+        "f\u00f6r\u00e4ldraf\u00f6rening"
+      ],
+      "web": null
     },
     {
       "entry": 1232956316,
@@ -66470,13 +66535,14 @@
     },
     {
       "entry": 1233444957,
-      "orgName": "F\u00f6reningen - Neuro Malm\u00f6",
+      "orgName": "Neurof\u00f6rbundet Malm\u00f6",
       "orgNumber": "846001-3942",
       "comment": null,
       "categories": [
-        "f\u00f6rening"
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
       ],
-      "web": "https://neuro.se/"
+      "web": "https://neuro.se/forening/foereningar-a-oe/malmoe/"
     },
     {
       "entry": 1233445335,
@@ -83434,6 +83500,16 @@
       "web": "https://www.sk70.se/"
     },
     {
+      "entry": 1234383840,
+      "orgName": "Hofsl\u00e4tts Hembygdsf\u00f6rening",
+      "orgNumber": "826001-8844",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://hofslatt.se/"
+    },
+    {
       "entry": 1234384343,
       "orgName": "Team Rynkeby",
       "orgNumber": "802532-8033",
@@ -98956,6 +99032,17 @@
       "web": "https://www.ckuni.com/"
     },
     {
+      "entry": 1235262175,
+      "orgName": "Lule\u00e5 Roller Derby F\u00f6rening",
+      "orgNumber": "802451-5820",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "rollerderbyklubb"
+      ],
+      "web": "https://www.lulearollerderby.se/"
+    },
+    {
       "entry": 1235262191,
       "orgName": "G\u00e4llstadbygdens Skid- & Orienteringsklubb",
       "orgNumber": "802441-0139",
@@ -99013,6 +99100,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/tidaholm"
+    },
+    {
+      "entry": 1235262829,
+      "orgName": "Kareby Hembygdsf\u00f6rening",
+      "orgNumber": "853300-4423",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/kareby"
     },
     {
       "entry": 1235263132,
@@ -114036,6 +114133,17 @@
       "web": "https://www.facebook.com/RickardWilsonSociety"
     },
     {
+      "entry": 1236041586,
+      "orgName": "Neurof\u00f6rbundet Arvika V\u00e4stra V\u00e4rmland",
+      "orgNumber": "872000-7841",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://neuro.se/forening/foereningar-a-oe/arvika-vaestra-vaermland/"
+    },
+    {
       "entry": 1236042485,
       "orgName": "H\u00f6n\u00f6 Missionsf\u00f6rsamling",
       "orgNumber": "857200-7600",
@@ -114198,6 +114306,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vantor"
+    },
+    {
+      "entry": 1236064745,
+      "orgName": "Neurof\u00f6rbundet",
+      "orgNumber": "802002-3605",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://neuro.se/"
     },
     {
       "entry": 1236065007,
@@ -117768,6 +117887,17 @@
       "web": "https://www.vastsvenskakattklubben.se/"
     },
     {
+      "entry": 1236237242,
+      "orgName": "Neurof\u00f6rbundet Nord\u00f6stra Sk\u00e5ne",
+      "orgNumber": "837001-0665",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://neuro.se/forening/foereningar-a-oe/nordoestra-skaane/"
+    },
+    {
       "entry": 1236238091,
       "orgName": "SPF Seniorerna Jernet \u00d6sterbybruk",
       "orgNumber": "802464-2533",
@@ -119564,6 +119694,17 @@
       "web": "https://www.glommers.se/"
     },
     {
+      "entry": 1236337109,
+      "orgName": "Neurof\u00f6rbundet V\u00e4stra Sk\u00e5ne",
+      "orgNumber": "843001-2180",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://neuro.se/forening/foereningar-a-oe/vaestra-skaane/"
+    },
+    {
       "entry": 1236337901,
       "orgName": "Hargs BK",
       "orgNumber": "819000-0623",
@@ -121118,6 +121259,17 @@
       "web": "https://www.kvillestreamen.se/"
     },
     {
+      "entry": 1236425417,
+      "orgName": "Neurof\u00f6rbundet Varberg-Falkenberg",
+      "orgNumber": "849600-7165",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://neuro.se/forening/foereningar-a-oe/varberg-falkenberg/"
+    },
+    {
       "entry": 1236426654,
       "orgName": "Sveriges Lantbruksuniversitet, SLU",
       "orgNumber": "202100-2817",
@@ -122455,6 +122607,17 @@
         "scoutk\u00e5r"
       ],
       "web": "https://dosjebro.scout.se/"
+    },
+    {
+      "entry": 1236506182,
+      "orgName": "Neurof\u00f6rbundet Lundabygden",
+      "orgNumber": "845001-1831",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://neuro.se/forening/foereningar-a-oe/neuro-lundabygden/"
     },
     {
       "entry": 1236506406,

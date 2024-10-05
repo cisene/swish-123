@@ -6996,6 +6996,16 @@ entries:
   - stövarklubb
   web: https://jhstovare.se/
 
+- entry: 1230425538
+  orgName: Neuroförbundet Uppsala-Knivsta
+  orgNumber: 817600-8541
+  comment: null
+  categories:
+  - anhörigorganisation
+  - parasport
+  - patientförening
+  web: https://neuro.se/forening/foereningar-a-oe/uppsala-knivsta-och-parasport-foerening/
+
 - entry: 1230425603
   orgName: Gribbylunds Fastighetsägareförening
   orgNumber: 702000-7972
@@ -8294,6 +8304,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.annelundsif.com/
+
+- entry: 1230500280
+  orgName: Neuroförbundet Kalmar
+  orgNumber: 832400-8948
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://neuro.se/forening/foereningar-a-oe/kalmar/
 
 - entry: 1230502062
   orgName: Atracco Group AB
@@ -12137,6 +12156,15 @@ entries:
   categories:
   - religion
   web: https://equmeniakyrkan.se/boden/
+
+- entry: 1230761528
+  orgName: Neuroförbundet Småländska Höglandet
+  orgNumber: 827000-8140
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://neuro.se/forening/foereningar-a-oe/smaalaendska-hoeglandet/
 
 - entry: 1230761759
   orgName: Teater sLAgeT
@@ -16989,6 +17017,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/harnosand
+
+- entry: 1231027150
+  orgName: Neuroförbundet Hallands Län
+  orgNumber: 849201-1393
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://neuro.se/forening/foereningar-a-oe/hallands-laen/
 
 - entry: 1231027473
   orgName: Norrbo Hembygds- och Fornminnesförening
@@ -46566,6 +46603,14 @@ entries:
   - motionsklubb
   web: https://www.svenskalag.se/lagf
 
+- entry: 1232886695
+  orgName: Svensk Barnfetmaförening / Svenska Barnläkarföreningen
+  orgNumber: 833600-4885
+  comment: Barnfetma
+  categories:
+  - yrkesförening
+  web: https://www.barnlakarforeningen.se/
+
 - entry: 1232886802
   orgName: SoS - Svenska Service- och Signalhundsförbundet
   orgNumber: 843003-3038
@@ -47450,6 +47495,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/aspered
+
+- entry: 1232955920
+  orgName: Elunds Föräldraförening
+  orgNumber: 802470-4689
+  comment: null
+  categories:
+  - föräldraförening
+  web: null
 
 - entry: 1232956290
   orgName: Fightgym Borås
@@ -54870,12 +54923,13 @@ entries:
   web: http://www.barkakrascoutkar.se/
 
 - entry: 1233444957
-  orgName: Föreningen - Neuro Malmö
+  orgName: Neuroförbundet Malmö
   orgNumber: 846001-3942
   comment: null
   categories:
-  - förening
-  web: https://neuro.se/
+  - anhörigorganisation
+  - patientförening
+  web: https://neuro.se/forening/foereningar-a-oe/malmoe/
 
 - entry: 1233445335
   orgName: Aspeboda Ridklubb - Ridsport
@@ -68839,6 +68893,14 @@ entries:
   - simsällskap
   web: https://www.sk70.se/
 
+- entry: 1234383840
+  orgName: Hofslätts Hembygdsförening
+  orgNumber: 826001-8844
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://hofslatt.se/
+
 - entry: 1234384343
   orgName: Team Rynkeby
   orgNumber: 802532-8033
@@ -81623,6 +81685,15 @@ entries:
   - idrottsförening
   web: https://www.ckuni.com/
 
+- entry: 1235262175
+  orgName: Luleå Roller Derby Förening
+  orgNumber: 802451-5820
+  comment: null
+  categories:
+  - idrottsförening
+  - rollerderbyklubb
+  web: https://www.lulearollerderby.se/
+
 - entry: 1235262191
   orgName: Gällstadbygdens Skid- & Orienteringsklubb
   orgNumber: 802441-0139
@@ -81671,6 +81742,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/tidaholm
+
+- entry: 1235262829
+  orgName: Kareby Hembygdsförening
+  orgNumber: 853300-4423
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/kareby
 
 - entry: 1235263132
   orgName: Frälsningsarmén
@@ -94096,6 +94175,15 @@ entries:
   - intresseförening
   web: https://www.facebook.com/RickardWilsonSociety
 
+- entry: 1236041586
+  orgName: Neuroförbundet Arvika Västra Värmland
+  orgNumber: 872000-7841
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://neuro.se/forening/foereningar-a-oe/arvika-vaestra-vaermland/
+
 - entry: 1236042485
   orgName: Hönö Missionsförsamling
   orgNumber: 857200-7600
@@ -94237,6 +94325,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vantor
+
+- entry: 1236064745
+  orgName: Neuroförbundet
+  orgNumber: 802002-3605
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://neuro.se/
 
 - entry: 1236065007
   orgName: Wästra Bolmens Båtklubb, VBBK
@@ -97201,6 +97298,15 @@ entries:
   - kattklubb
   web: https://www.vastsvenskakattklubben.se/
 
+- entry: 1236237242
+  orgName: Neuroförbundet Nordöstra Skåne
+  orgNumber: 837001-0665
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://neuro.se/forening/foereningar-a-oe/nordoestra-skaane/
+
 - entry: 1236238091
   orgName: SPF Seniorerna Jernet Österbybruk
   orgNumber: 802464-2533
@@ -98682,6 +98788,15 @@ entries:
   - bygdegårdsförening
   web: https://www.glommers.se/
 
+- entry: 1236337109
+  orgName: Neuroförbundet Västra Skåne
+  orgNumber: 843001-2180
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://neuro.se/forening/foereningar-a-oe/vaestra-skaane/
+
 - entry: 1236337901
   orgName: Hargs BK
   orgNumber: 819000-0623
@@ -99982,6 +100097,15 @@ entries:
   - supporterklubb
   web: https://www.kvillestreamen.se/
 
+- entry: 1236425417
+  orgName: Neuroförbundet Varberg-Falkenberg
+  orgNumber: 849600-7165
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://neuro.se/forening/foereningar-a-oe/varberg-falkenberg/
+
 - entry: 1236426654
   orgName: Sveriges Lantbruksuniversitet, SLU
   orgNumber: 202100-2817
@@ -101083,6 +101207,15 @@ entries:
   categories:
   - scoutkår
   web: https://dosjebro.scout.se/
+
+- entry: 1236506182
+  orgName: Neuroförbundet Lundabygden
+  orgNumber: 845001-1831
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://neuro.se/forening/foereningar-a-oe/neuro-lundabygden/
 
 - entry: 1236506406
   orgName: Leksands Friidrottsklubb
