@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-06-rev-160518",
+    "date": "2024-10-06-rev-181621",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -39549,6 +39549,16 @@
       "web": "https://alnobatklubb.com/"
     },
     {
+      "entry": 1231998228,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Gullvivan i Arboga",
+      "orgNumber": "778500-1426",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://gullvivan.com/"
+    },
+    {
       "entry": 1231998467,
       "orgName": "Polhemskliniken / Fortunatus AB",
       "orgNumber": "556903-7921",
@@ -44991,6 +45001,16 @@
         "ideell f\u00f6rening"
       ],
       "web": "https://tjorn.egnahemsfabriken.se/"
+    },
+    {
+      "entry": 1232274744,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Grindstugan i Stockholm",
+      "orgNumber": "702000-7998",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "http://www.brfgrindstugan.se/"
     },
     {
       "entry": 1232274934,
@@ -52627,6 +52647,16 @@
       "web": "https://www.laget.se/RoslagsbroIF/"
     },
     {
+      "entry": 1232697415,
+      "orgName": "F\u00f6reningen Briggen Tre Kronor",
+      "orgNumber": "802404-7352",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.briggentrekronor.se/"
+    },
+    {
       "entry": 1232697936,
       "orgName": "Sankt Peters klosters F\u00f6rsamling",
       "orgNumber": "252003-5086",
@@ -52856,6 +52886,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/bengtsfors/torrskogs-kyrka"
+    },
+    {
+      "entry": 1232707297,
+      "orgName": "Kulturhuset Saga Torsh\u00e4lla",
+      "orgNumber": "559150-8550",
+      "comment": null,
+      "categories": [
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://sagasalongen.se/"
     },
     {
       "entry": 1232707677,
@@ -53957,6 +53997,16 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/sodertalje/"
+    },
+    {
+      "entry": 1232761062,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Klarb\u00e4ret i Stockholm",
+      "orgNumber": "716420-4799",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://brfklarbaret.se/"
     },
     {
       "entry": 1232761104,
@@ -60769,6 +60819,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/hyssna"
+    },
+    {
+      "entry": 1233125309,
+      "orgName": "H I Juristbyr\u00e5 AB",
+      "orgNumber": "559005-2600",
+      "comment": null,
+      "categories": [
+        "juridik",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://hilaw.se/"
     },
     {
       "entry": 1233125457,
@@ -72224,6 +72285,16 @@
       "web": "https://www.laget.se/sbscheat/"
     },
     {
+      "entry": 1233730819,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Tun\u00f6 i Stockholm",
+      "orgNumber": "716416-3912",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.tuno.org/"
+    },
+    {
       "entry": 1233730884,
       "orgName": "Sveriges Buddhistiska Gemenskap",
       "orgNumber": "252004-9566",
@@ -72526,6 +72597,16 @@
         "lokaltidning"
       ],
       "web": "https://fagerstanyheter.com/"
+    },
+    {
+      "entry": 1233748886,
+      "orgName": "Skeldervikens Byalag",
+      "orgNumber": "802467-9972",
+      "comment": null,
+      "categories": [
+        "byalag"
+      ],
+      "web": "https://www.skelderviken.se/"
     },
     {
       "entry": 1233749173,
@@ -77968,6 +78049,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/Fjugesta_IF/"
+    },
+    {
+      "entry": 1234048039,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Vasa i Sollentuna",
+      "orgNumber": "769612-4085",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "http://brfvasa.hemsida24.se/"
     },
     {
       "entry": 1234048070,
@@ -97428,6 +97519,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://ostersundsfk.se/"
+    },
+    {
+      "entry": 1235151063,
+      "orgName": "Svenska Europainkasso AB",
+      "orgNumber": "556655-9380",
+      "comment": null,
+      "categories": [
+        "inkasso",
+        "kredittj\u00e4nster"
+      ],
+      "web": "https://www.europainkasso.se/"
     },
     {
       "entry": 1235151253,
@@ -120780,6 +120882,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://www.nsf.scout.se/karer/moheda-scoutkar/"
+    },
+    {
+      "entry": 1236382956,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Sj\u00f6staden 3",
+      "orgNumber": "769612-0794",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.sjostaden3.se/"
     },
     {
       "entry": 1236383434,
