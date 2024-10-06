@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-05-rev-182134",
+    "date": "2024-10-06-rev-160518",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3042,6 +3042,16 @@
       "web": "https://www.redfarmers.se/"
     },
     {
+      "entry": 1230181032,
+      "orgName": "SOND Skoterledsn\u00e4tet",
+      "orgNumber": "769603-1975",
+      "comment": null,
+      "categories": [
+        "sn\u00f6skoterklubb"
+      ],
+      "web": "https://sond.se/"
+    },
+    {
       "entry": 1230181479,
       "orgName": "Kr\u00e5kshults Hembygdsf\u00f6rening",
       "orgNumber": "827000-7316",
@@ -5446,6 +5456,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/fiffen"
+    },
+    {
+      "entry": 1230294280,
+      "orgName": "Eldsberga Gymnastikf\u00f6rening",
+      "orgNumber": "849201-2151",
+      "comment": null,
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://eldsbergagf.se/"
     },
     {
       "entry": 1230294827,
@@ -40366,6 +40387,18 @@
       "web": "https://www.laget.se/EndreIF/"
     },
     {
+      "entry": 1232061513,
+      "orgName": "Sverok Kalmar-Blekinge",
+      "orgNumber": "802461-0944",
+      "comment": "Calcon",
+      "categories": [
+        "folkr\u00f6relse",
+        "lajvspel",
+        "spelf\u00f6rening"
+      ],
+      "web": "https://kalmarblekinge.sverok.se/"
+    },
+    {
       "entry": 1232062644,
       "orgName": "\u00c4ngelholms Ekumeniska F\u00f6rsamling",
       "orgNumber": "839400-6590",
@@ -48765,6 +48798,16 @@
       "web": "http://vembo\u00f6bygdeg\u00e5rd.com/"
     },
     {
+      "entry": 1232472702,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Bergmossen",
+      "orgNumber": "769619-6638",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.bergmossen.se/"
+    },
+    {
       "entry": 1232476596,
       "orgName": "IFK Liding\u00f6 Konst\u00e5kningsklubb",
       "orgNumber": "813600-2832",
@@ -52998,6 +53041,17 @@
         "b\u00e5ts\u00e4llskap"
       ],
       "web": "http://www.kungsangensbatsallskap.se/"
+    },
+    {
+      "entry": 1232711166,
+      "orgName": "LFS - Ljungby Fuktkontroll & Sanering AB",
+      "orgNumber": "556766-0435",
+      "comment": null,
+      "categories": [
+        "fuktkontroll",
+        "sanering"
+      ],
+      "web": "https://www.lfs-web.se/"
     },
     {
       "entry": 1232711190,
@@ -59583,6 +59637,16 @@
       "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/prostatacancerforeningen-skaraborg/"
     },
     {
+      "entry": 1233057684,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Elin W\u00e4gners Gata",
+      "orgNumber": "769610-7569",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "http://www.elinwagnersgata.se/"
+    },
+    {
       "entry": 1233057858,
       "orgName": "Upplands Ornitologiska F\u00f6rening",
       "orgNumber": "817602-4746",
@@ -64911,6 +64975,16 @@
       "web": "https://www.bosjoklostergk.se/"
     },
     {
+      "entry": 1233366606,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Ljuset",
+      "orgNumber": "702001-3137",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.ljuset.se/"
+    },
+    {
       "entry": 1233366788,
       "orgName": "Gymmix Falun GF - Gymnastik",
       "orgNumber": "883201-2655",
@@ -66629,6 +66703,16 @@
         "hundsport"
       ],
       "web": "https://arjeplogbk.com/"
+    },
+    {
+      "entry": 1233450087,
+      "orgName": "Tyres\u00f6 Utlands- och Fredsf\u00f6rening, TUFF",
+      "orgNumber": "812400-8882",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://tuff.nu/"
     },
     {
       "entry": 1233450442,
@@ -69930,6 +70014,17 @@
         "mountainbikeklubb"
       ],
       "web": "https://www.svenskalag.se/ekeromtb"
+    },
+    {
+      "entry": 1233595287,
+      "orgName": "St\u00e4dkompaniet AB",
+      "orgNumber": "559211-0448",
+      "comment": null,
+      "categories": [
+        "storst\u00e4dning",
+        "st\u00e4dning"
+      ],
+      "web": "https://www.stadkompanietkarlstad.se/"
     },
     {
       "entry": 1233595618,
@@ -74382,6 +74477,16 @@
         "kvinnojour"
       ],
       "web": "https://kvinnojourennike.se/"
+    },
+    {
+      "entry": 1233864469,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Bj\u00f6rkpyrolan",
+      "orgNumber": "716458-6179",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "http://www.bjorkpyrolan.se/"
     },
     {
       "entry": 1233869047,
@@ -83913,6 +84018,16 @@
       "web": "https://lionsmjolby.se/"
     },
     {
+      "entry": 1234406716,
+      "orgName": "Stockholms Herpetologiska F\u00f6rening, SHF",
+      "orgNumber": "802411-9847",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.sthlm-herp.net/"
+    },
+    {
       "entry": 1234406823,
       "orgName": "N\u00e4tverket f\u00f6r Spinal Muskelatrofi, NSMA",
       "orgNumber": "802475-2332",
@@ -91885,6 +92000,17 @@
       "web": "https://vmcs.se/"
     },
     {
+      "entry": 1234884334,
+      "orgName": "Spokesman AB",
+      "orgNumber": "559069-0110",
+      "comment": null,
+      "categories": [
+        "webportaler",
+        "webutveckling"
+      ],
+      "web": "https://spokesman.se/"
+    },
+    {
       "entry": 1234884532,
       "orgName": "Hembygdsf\u00f6reningen Umbygda",
       "orgNumber": "894000-2366",
@@ -98801,6 +98927,16 @@
       "web": "https://www.perikles.se/"
     },
     {
+      "entry": 1235246459,
+      "orgName": "Svensk f\u00f6rening f\u00f6r sjuksk\u00f6terskor inom k\u00e4rlkirurgisk omv\u00e5rdnad",
+      "orgNumber": "802457-3274",
+      "comment": null,
+      "categories": [
+        "yrkesf\u00f6rening"
+      ],
+      "web": "https://swenurse.se/sektionerochnatverk/svenskforeninginomkarlkirurgiskomvardnad.4.17badfa01722c2fa17311f79.html"
+    },
+    {
       "entry": 1235246954,
       "orgName": "ISAAC Sverige",
       "orgNumber": "802014-1431",
@@ -102030,6 +102166,16 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/fria/"
+    },
+    {
+      "entry": 1235402508,
+      "orgName": "Patientf\u00f6reningen Lymf",
+      "orgNumber": "802518-3081",
+      "comment": null,
+      "categories": [
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.lip\u00f6demf\u00f6reningen.se/"
     },
     {
       "entry": 1235402813,
@@ -106612,6 +106758,16 @@
       "web": "https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-skelleftea/foreningar/byske.html"
     },
     {
+      "entry": 1235625124,
+      "orgName": "N\u00e4tverket Skona G\u00f6teborg",
+      "orgNumber": "802500-2539",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "http://skonagoteborg.nu/"
+    },
+    {
       "entry": 1235625165,
       "orgName": "F\u00f6reningen Flat\u00f6n",
       "orgNumber": "858500-6292",
@@ -110540,6 +110696,18 @@
         "strokeforskning"
       ],
       "web": "https://orebrolansstrokeforening.org/"
+    },
+    {
+      "entry": 1235838453,
+      "orgName": "Tassens Katthj\u00e4lp",
+      "orgNumber": "802532-0600",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "djurv\u00e5rd",
+        "katthem"
+      ],
+      "web": "https://tassenskatthj\u00e4lp.se/"
     },
     {
       "entry": 1235839576,
@@ -120548,6 +120716,17 @@
       "web": "https://skargardsstad.se/"
     },
     {
+      "entry": 1236378418,
+      "orgName": "Helsingborgs Medicinhistoriska F\u00f6rening",
+      "orgNumber": "843002-0142",
+      "comment": null,
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://hmhf.se/"
+    },
+    {
       "entry": 1236378566,
       "orgName": "Stockholms Gitarrakademi / Emil Kjellbom",
       "orgNumber": "741225-XXXX",
@@ -122483,6 +122662,16 @@
         "skytteklubb"
       ],
       "web": "https://www.svenskalag.se/slitepistolskytteklubb"
+    },
+    {
+      "entry": 1236496988,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Djingis Khan",
+      "orgNumber": "716406-9820",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.djingis.se/"
     },
     {
       "entry": 1236497028,
@@ -131141,6 +131330,16 @@
       "web": "https://www.laget.se/KallbyIF/"
     },
     {
+      "entry": 1236946701,
+      "orgName": "Svensk f\u00f6rening f\u00f6r obesitas och metabol kirurgi, SFOK",
+      "orgNumber": "802437-8716",
+      "comment": null,
+      "categories": [
+        "yrkesf\u00f6rening"
+      ],
+      "web": "https://sfok.se/"
+    },
+    {
       "entry": 1236946917,
       "orgName": "Rotary Staffanstorp",
       "orgNumber": "802497-6311",
@@ -133353,6 +133552,17 @@
         "stiftelse"
       ],
       "web": "https://www.nyckelfonden.se/"
+    },
+    {
+      "entry": 1239003013,
+      "orgName": "Sk\u00e5nes Ornitologiska F\u00f6rening",
+      "orgNumber": "845000-8399",
+      "comment": null,
+      "categories": [
+        "insamlingskontroll",
+        "ornitologi"
+      ],
+      "web": "https://www.skof.se/"
     },
     {
       "entry": 1239003054,
