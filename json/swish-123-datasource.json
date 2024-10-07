@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-06-rev-181621",
+    "date": "2024-10-07-rev-151046",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3929,6 +3929,16 @@
       "web": "https://www.laget.se/IKScania/"
     },
     {
+      "entry": 1230212803,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Hamnkranen i Stockholm",
+      "orgNumber": "769613-9349",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hamnkranen.se/"
+    },
+    {
       "entry": 1230213371,
       "orgName": "Kl\u00e5ver\u00f6ds SK",
       "orgNumber": "844000-9861",
@@ -4338,6 +4348,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://lhon.se/"
+    },
+    {
+      "entry": 1230231530,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Sk\u00e4pplandsgatan 13-17",
+      "orgNumber": "769625-6721",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://brfskapplandsgatan.se/"
     },
     {
       "entry": 1230231753,
@@ -7420,6 +7440,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/partille"
+    },
+    {
+      "entry": 1230374298,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen H\u00e4st\u00e4ngen",
+      "orgNumber": "716447-7403",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://hastangen.bostadsratterna.se/"
     },
     {
       "entry": 1230374587,
@@ -11591,6 +11621,16 @@
       "web": "https://bygdegardarna.se/ljustorp/"
     },
     {
+      "entry": 1230588673,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen \u00c5sen i Kil",
+      "orgNumber": "769607-4603",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/varmland/brf/asen/"
+    },
+    {
       "entry": 1230591644,
       "orgName": "Svenska Evangeliska Alliansen",
       "orgNumber": "802410-9418",
@@ -12153,6 +12193,16 @@
         "innebandyklubb"
       ],
       "web": "https://www.svenskalag.se/saffleibf"
+    },
+    {
+      "entry": 1230630111,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Lunden i \u00d6rebro",
+      "orgNumber": "775000-1203",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://brflunden.nu/"
     },
     {
       "entry": 1230630194,
@@ -13888,6 +13938,16 @@
         "flygklubb"
       ],
       "web": "https://www.ljusdalsflygklubb.se/"
+    },
+    {
+      "entry": 1230728279,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen \u00d6nneredsterrassen i V\u00e4stra Fr\u00f6lunda",
+      "orgNumber": "716408-9075",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://onneredsterrassen.se/"
     },
     {
       "entry": 1230729285,
@@ -28090,6 +28150,16 @@
       "web": "https://www.svenskbridge.se/pri-bri-1936"
     },
     {
+      "entry": 1231407154,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Svartvik i Stockholm",
+      "orgNumber": "716418-6913",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/Svartvik/"
+    },
+    {
       "entry": 1231408475,
       "orgName": "R\u00f6dde Ranch, Timotej & Andersen / R\u00f6dde Natur & Livskvalite AB",
       "orgNumber": "559467-3914",
@@ -30526,6 +30596,16 @@
       "web": "https://www.kvinnojourenembla.se/"
     },
     {
+      "entry": 1231520964,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Hagaterrassen 1 i Stockholm",
+      "orgNumber": "769631-5055",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://brfhagaterrassen1.bostadsratterna.se/"
+    },
+    {
       "entry": 1231522085,
       "orgName": "Fr\u00f6s\u00f6 H\u00e4stg\u00e5rd AB",
       "orgNumber": "559168-1480",
@@ -31230,6 +31310,17 @@
         "ishockeyklubb"
       ],
       "web": "https://www.lindloven.com/"
+    },
+    {
+      "entry": 1231566900,
+      "orgName": "Salmi & Partners",
+      "orgNumber": "556633-0865",
+      "comment": null,
+      "categories": [
+        "juridisk r\u00e5dgivning",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://www.salmipartners.se/"
     },
     {
       "entry": 1231566926,
@@ -33674,6 +33765,16 @@
       "web": "https://www.laget.se/AppelboAIKStyrelse/"
     },
     {
+      "entry": 1231699180,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Min\u00f6ren 2 i Vaxholm",
+      "orgNumber": "769609-7190",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.minoren2.se/"
+    },
+    {
       "entry": 1231699263,
       "orgName": "Loh\u00e4rads Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "814400-1172",
@@ -34321,6 +34422,16 @@
         "djurv\u00e5rd"
       ],
       "web": "https://www.djurskyddet.se/landskrona/"
+    },
+    {
+      "entry": 1231724954,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen G\u00e4rdan i Lule\u00e5",
+      "orgNumber": "797000-2106",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.brfgardan.se/"
     },
     {
       "entry": 1231726728,
@@ -46702,6 +46813,16 @@
       "web": "https://www.laget.se/BromollaVattenskidklubb/"
     },
     {
+      "entry": 1232360741,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen \u00c5reskutan i G\u00f6teborg",
+      "orgNumber": "757200-9483",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.brfareskutan.se/"
+    },
+    {
       "entry": 1232360949,
       "orgName": "Djurg\u00e5rdens Supporters Club",
       "orgNumber": "802000-6790",
@@ -49241,7 +49362,7 @@
     },
     {
       "entry": 1232523140,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Linero I Lund",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Linero i Lund",
       "orgNumber": "745000-3871",
       "comment": null,
       "categories": [
@@ -58603,6 +58724,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.bloomnykoping.se/"
+    },
+    {
+      "entry": 1233015062,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Venus i T\u00e4by",
+      "orgNumber": "716000-1009",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/venus/"
     },
     {
       "entry": 1233015484,
@@ -74496,6 +74627,16 @@
       "web": "https://www.smfotografi.se/"
     },
     {
+      "entry": 1233862885,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Strandparken 2 i Askersund",
+      "orgNumber": "769633-9436",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://brf-strandparken2.se/"
+    },
+    {
       "entry": 1233862984,
       "orgName": "Team Rynkeby",
       "orgNumber": "802533-3421",
@@ -81992,6 +82133,16 @@
       "web": "https://teamequusforhope.se/"
     },
     {
+      "entry": 1234270294,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen M\u00e5rden p\u00e5 R\u00e4vpasset i G\u00e4vle",
+      "orgNumber": "785000-3406",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.ravpasset.se/"
+    },
+    {
       "entry": 1234270450,
       "orgName": "EFS i S\u00f6derk\u00f6ping",
       "orgNumber": "825000-5843",
@@ -83953,6 +84104,16 @@
         "padelspel"
       ],
       "web": "https://avestapadelcenter.se/"
+    },
+    {
+      "entry": 1234402087,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen H\u00f6ga i Bollebygd",
+      "orgNumber": "764500-2572",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/gota/brf/brf-hoga/"
     },
     {
       "entry": 1234402293,
@@ -92518,12 +92679,11 @@
     },
     {
       "entry": 1234925095,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Idrottsplatsen",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Idrottsplatsen i H\u00f6gan\u00e4s",
       "orgNumber": "769634-8130",
       "comment": null,
       "categories": [
-        "bostadsr\u00e4ttsf\u00f6rening",
-        "f\u00f6rening"
+        "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://brf-idrottsplatsen.se/"
     },
@@ -97807,6 +97967,16 @@
       "web": "https://www.riksteatern.se/hultsfred"
     },
     {
+      "entry": 1235161633,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Asplunden i Solna",
+      "orgNumber": "769614-4489",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/asplunden/"
+    },
+    {
       "entry": 1235162052,
       "orgName": "Korpen Mariannelund",
       "orgNumber": "827001-1771",
@@ -101360,6 +101530,16 @@
       "web": "https://atransturist.se/"
     },
     {
+      "entry": 1235360664,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen L\u00f6tbacken i Eskilstuna",
+      "orgNumber": "718000-1286",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://lotbacken.bostadsratterna.se/"
+    },
+    {
       "entry": 1235361001,
       "orgName": "Munsk\u00e4nkarna",
       "orgNumber": "814401-1403",
@@ -103325,6 +103505,16 @@
       "web": "http://www.baptistkyrkan.se/"
     },
     {
+      "entry": 1235455803,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Sandvik",
+      "orgNumber": "716418-6889",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.hsb.se/stockholm/brf/sandvik/"
+    },
+    {
       "entry": 1235455944,
       "orgName": "Lule\u00e5 HIF - Parasport",
       "orgNumber": "897000-8077",
@@ -105039,6 +105229,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-skelleftea/foreningar/skelleftea---kagedalen.html"
+    },
+    {
+      "entry": 1235542444,
+      "orgName": "Soller\u00f6 \u00c5ldringsfond",
+      "orgNumber": "884400-7354",
+      "comment": null,
+      "categories": [
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.solleron.se/verksamhet/sollero-aldringsfond/"
     },
     {
       "entry": 1235542642,
@@ -108896,6 +109096,18 @@
         "sl\u00e4ktforskning"
       ],
       "web": "https://anhedenslaktforskare.com/"
+    },
+    {
+      "entry": 1235726906,
+      "orgName": "S\u00f6dra Stavsudda B\u00e5tbryggef\u00f6rening",
+      "orgNumber": "802443-4261",
+      "comment": null,
+      "categories": [
+        "bryggf\u00f6rening",
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap"
+      ],
+      "web": "http://www.sodrastavsuddabrygga.se/"
     },
     {
       "entry": 1235727771,
@@ -114256,6 +114468,16 @@
       "web": "https://www.hudikgympan.nu/"
     },
     {
+      "entry": 1236033450,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Mossen i Tidaholm",
+      "orgNumber": "716410-3595",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://brfmossen.se/"
+    },
+    {
       "entry": 1236033526,
       "orgName": "Heffnersklubbans BK",
       "orgNumber": "889202-7312",
@@ -115086,6 +115308,16 @@
         "ishockeyklubb"
       ],
       "web": "https://www.hammarbyhockey.se/"
+    },
+    {
+      "entry": 1236087548,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen \u00c5kanten i Lerum",
+      "orgNumber": "763500-1360",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://brfakanten.se/"
     },
     {
       "entry": 1236088595,
@@ -117613,6 +117845,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/skarke-varnhem"
+    },
+    {
+      "entry": 1236204317,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen V\u00e4ster\u00e5shus 19",
+      "orgNumber": "778000-4953",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://www.vasterashus19.se/"
     },
     {
       "entry": 1236204325,
@@ -125549,6 +125791,16 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://www.shuren.se/"
+    },
+    {
+      "entry": 1236652606,
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Marmorn i Stockholm",
+      "orgNumber": "702001-4085",
+      "comment": null,
+      "categories": [
+        "bostadsr\u00e4ttsf\u00f6rening"
+      ],
+      "web": "https://marmorn.se/"
     },
     {
       "entry": 1236652895,
