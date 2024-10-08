@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-10-07-rev-151054
+# Date: 2024-10-08-rev-131242
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2350,6 +2350,7 @@
 "1231266360","802516-8447","Katthjälpen Strömstad","https://katthjalpenstromstad.se/","djurskydd,katthem",""
 "1231266386","819000-0672","IFK Nyköping","https://www.svenskalag.se/ifknykoping","fotbollsklubb,idrottsförening","P10"
 "1231267012","802526-6878","Gotland Enduro Cross MS, GEC","https://gec.nu/","enduroklubb,motorcykelklubb,motorklubb,motorsport",""
+"1231267079","802526-8767","Laksjöbadet Ideell förening","https://laksjobadet.se/","intresseförening",""
 "1231267194","556321-8758","Un Po D'italia / Fardis i Umeå AB","https://unpoditalia.se/","restaurant",""
 "1231267673","252001-6474","Öxabäcks Församling","http://torestorpspastorat.se/","religion","Kollekt"
 "1231268283","780302-XXXX","Elins Glashus / Sensibelle","https://elinorebrand.se/elins-glashus/","musik,sång",""
@@ -3121,6 +3122,7 @@
 "1231699263","814400-1172","Lohärads Bygdegårdsförening","https://loharadbygdegard.se/","bygdegårdsförening",""
 "1231700707","559385-9886","Säva Ridcenter AB","http://savaridcenter.se/","hästsport,ridklubb,ridskola",""
 "1231702687","556706-5262","Västerås Domkyrka","https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka","religion","Ny musik"
+"1231702786","802501-1282","Tanto Bastuförening","https://www.tantobastuforening.se/","bastuförening,bastukultur,intresseförening",""
 "1231703206","865501-0307","Ambjörnarps Bygdegårdsförening","https://ambjornarpsbygdegard.se/","bygdegårdsförening",""
 "1231703214","846000-1475","Israels Vänner","https://www.israelsvanner.se/","religion,turistbyrå",""
 "1231703230","826000-3739","Smålands Stövarklubb","https://www.smstk.se/","hundklubb,hundsport,stövarklubb",""
@@ -5845,6 +5847,7 @@
 "1233266012","875000-3009","SMK Örebro","https://smkorebro.se/","kartingklubb,motorklubb,motorsport",""
 "1233266186","888000-0305","Hemsö IF","http://www.hemso.com/hemso-if/","fotbollsklubb,idrottsförening,skidlöparklubb",""
 "1233266525","824000-0193","BK Zeros","https://www.svenskalag.se/bkzeros","fotbollsklubb,idrottsförening",""
+"1233266624","556412-9053","Stefan Sauk / Aktiebolaget Zenskräck","http://www.sauk.se/","artist,skådespel",""
 "1233266673","872400-0271","Filipstads SF","https://www.svenskalag.se/filipstadssf","idrottsförening,skidlöparklubb",""
 "1233266756","802468-3149","Svenska Newfoundlandshundklubben","https://snkinfo.wordpress.com/","hundklubb,hundsport","Södra"
 "1233268257","556911-0322","Finspångs Solvärme AB","http://www.finspangssolvarme.se/","solceller,solfångare,solpaneler",""
@@ -9328,7 +9331,7 @@
 "1235358007","838800-7075","PRO Tomelilla","https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-tomelilla/foreningar/tomelilla.html","pensionärsklubb",""
 "1235358197","252004-3841","Alfta-Ovanåkers Församling","https://www.svenskakyrkan.se/alfta-ovanaker","religion",""
 "1235358668","252000-0973","Vaxholms Församling","https://www.svenskakyrkan.se/vaxholm","religion","Musikverksamhet/konsert"
-"1235358692","559074-2184","Svensk Webbtelevision AB","https://swebbtv.se/","alternativa media,alternativa nyheter",""
+"1235358692","559074-2184","Svensk Webbtelevision AB","https://swebbtv.se/","alternativa media,alternativa nyheter","Swebbtv"
 "1235358718","680506-XXXX","Rultiga Rut Hälsa för Kropp & Själ / Jeanette Johansson","https://rultigarut.wordpress.com/","healing,kraniosakralterapi,massage,meditation,reflexologi,reiki,yoga,zonterapi",""
 "1235359005","559296-0586","Restaurang Ellis / Ellis Mat & Dryck AB","http://restaurangellis.se/","restaurant",""
 "1235359153","556596-9382","Ätrans Turist & Fritid AB","https://atransturist.se/","aktivitetshus,logi,stuguthyrning",""
@@ -11212,6 +11215,7 @@
 "1236433130","802509-3009","Lunds Skogsträdgårdsförening","https://lundstradgardssallskap.se/","trädgårdsförening,trädgårdssällskap",""
 "1236433445","837000-7968","Tyringe Konstförening","https://tyringe.konstforeningar.se/","konstförening",""
 "1236434542","817001-3091","Frösundavikens Båtklubb","https://www.frosundaviken.com/","båtklubb",""
+"1236441364","556556-5073","Haninge Bostäder AB","https://www.haningebostader.se/","bostadsbolag",""
 "1236441927","802444-2405","Svenska Gospelverkstaden","https://www.gospelverkstaden.se/","förening,gospel,körsång",""
 "1236442396","252003-7215","Eda-Köla Pastorat","https://www.svenskakyrkan.se/eda-kola","religion","Köla kyrka"
 "1236442438","702000-5992","Bostadsrättsföreningen Svenska Folkbyggen nr 2","https://hemsida.sbc.se/svenska-folkbyggens-brf-nr-2-i-goteborg","bostadsrättsförening",""

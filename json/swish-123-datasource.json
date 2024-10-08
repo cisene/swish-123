@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-07-rev-151046",
+    "date": "2024-10-08-rev-131233",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -25471,6 +25471,16 @@
       "web": "https://gec.nu/"
     },
     {
+      "entry": 1231267079,
+      "orgName": "Laksj\u00f6badet Ideell f\u00f6rening",
+      "orgNumber": "802526-8767",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://laksjobadet.se/"
+    },
+    {
       "entry": 1231267194,
       "orgName": "Un Po D'italia / Fardis i Ume\u00e5 AB",
       "orgNumber": "556321-8758",
@@ -33805,6 +33815,18 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
+    },
+    {
+      "entry": 1231702786,
+      "orgName": "Tanto Bastuf\u00f6rening",
+      "orgNumber": "802501-1282",
+      "comment": null,
+      "categories": [
+        "bastuf\u00f6rening",
+        "bastukultur",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.tantobastuforening.se/"
     },
     {
       "entry": 1231703206,
@@ -63532,6 +63554,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/bkzeros"
+    },
+    {
+      "entry": 1233266624,
+      "orgName": "Stefan Sauk / Aktiebolaget Zenskr\u00e4ck",
+      "orgNumber": "556412-9053",
+      "comment": null,
+      "categories": [
+        "artist",
+        "sk\u00e5despel"
+      ],
+      "web": "http://www.sauk.se/"
     },
     {
       "entry": 1233266673,
@@ -101483,7 +101516,7 @@
       "entry": 1235358692,
       "orgName": "Svensk Webbtelevision AB",
       "orgNumber": "559074-2184",
-      "comment": null,
+      "comment": "Swebbtv",
       "categories": [
         "alternativa media",
         "alternativa nyheter"
@@ -122037,6 +122070,16 @@
         "b\u00e5tklubb"
       ],
       "web": "https://www.frosundaviken.com/"
+    },
+    {
+      "entry": 1236441364,
+      "orgName": "Haninge Bost\u00e4der AB",
+      "orgNumber": "556556-5073",
+      "comment": null,
+      "categories": [
+        "bostadsbolag"
+      ],
+      "web": "https://www.haningebostader.se/"
     },
     {
       "entry": 1236441927,

@@ -20995,6 +20995,14 @@ entries:
   - motorsport
   web: https://gec.nu/
 
+- entry: 1231267079
+  orgName: Laksjöbadet Ideell förening
+  orgNumber: 802526-8767
+  comment: null
+  categories:
+  - intresseförening
+  web: https://laksjobadet.se/
+
 - entry: 1231267194
   orgName: Un Po D'italia / Fardis i Umeå AB
   orgNumber: 556321-8758
@@ -27869,6 +27877,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka
+
+- entry: 1231702786
+  orgName: Tanto Bastuförening
+  orgNumber: 802501-1282
+  comment: null
+  categories:
+  - bastuförening
+  - bastukultur
+  - intresseförening
+  web: https://www.tantobastuforening.se/
 
 - entry: 1231703206
   orgName: Ambjörnarps Bygdegårdsförening
@@ -46680,7 +46698,7 @@ entries:
   comment: null
   categories:
   - terminated
-  web: null
+  web: https://enpoddomteknik.se/
 
 - entry: 1232882405
   orgName: Filadelfiaförsamlingen I Dorotea
@@ -52454,6 +52472,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/bkzeros
+
+- entry: 1233266624
+  orgName: Stefan Sauk / Aktiebolaget Zenskräck
+  orgNumber: 556412-9053
+  comment: null
+  categories:
+  - artist
+  - skådespel
+  web: http://www.sauk.se/
 
 - entry: 1233266673
   orgName: Filipstads SF
@@ -83686,7 +83713,7 @@ entries:
 - entry: 1235358692
   orgName: Svensk Webbtelevision AB
   orgNumber: 559074-2184
-  comment: null
+  comment: Swebbtv
   categories:
   - alternativa media
   - alternativa nyheter
@@ -100726,6 +100753,14 @@ entries:
   categories:
   - båtklubb
   web: https://www.frosundaviken.com/
+
+- entry: 1236441364
+  orgName: Haninge Bostäder AB
+  orgNumber: 556556-5073
+  comment: null
+  categories:
+  - bostadsbolag
+  web: https://www.haningebostader.se/
 
 - entry: 1236441927
   orgName: Svenska Gospelverkstaden
