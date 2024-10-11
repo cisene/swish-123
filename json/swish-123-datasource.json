@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-08-rev-131233",
+    "date": "2024-10-11-rev-162607",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7851,6 +7851,16 @@
       "web": "https://blekinge.naturskyddsforeningen.se/"
     },
     {
+      "entry": 1230396044,
+      "orgName": "PRO Enskede",
+      "orgNumber": "802013-5805",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/stockholm/kommun/stockholm/pro-enskede"
+    },
+    {
       "entry": 1230396150,
       "orgName": "Veckans Valfl\u00e4sk / Aktiebolaget Zenskr\u00e4ck",
       "orgNumber": "556412-9053",
@@ -10272,6 +10282,20 @@
       "web": "https://www.seglarna.se/"
     },
     {
+      "entry": 1230506949,
+      "orgName": "Bra\u00e5s GoIF",
+      "orgNumber": "829501-3984",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "mountainbikeklubb"
+      ],
+      "web": "https://www.laget.se/BraasGoIF/"
+    },
+    {
       "entry": 1230506972,
       "orgName": "H\u00e4stcraft Lyckebo G\u00e5rd",
       "orgNumber": "802543-4922",
@@ -11919,6 +11943,17 @@
         "synskadad"
       ],
       "web": "https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/srf-ostergotland/"
+    },
+    {
+      "entry": 1230612366,
+      "orgName": "Kareby IS",
+      "orgNumber": "853300-1742",
+      "comment": "F11/12",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/Kareby_IS/"
     },
     {
       "entry": 1230612564,
@@ -21170,6 +21205,16 @@
       "web": "https://www.hjart-lung.se/riksforbundet/orebrolan/lokalforeningar/orebro/"
     },
     {
+      "entry": 1231049675,
+      "orgName": "PRO Hallsberg",
+      "orgNumber": "875700-7227",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/orebro-lan/kommun/hallsberg/pro-hallsberg"
+    },
+    {
       "entry": 1231051465,
       "orgName": "V\u00e4rmlandsbro SK",
       "orgNumber": "874400-4667",
@@ -23077,6 +23122,16 @@
       "web": "https://www.lerumsfotoklubb.se/"
     },
     {
+      "entry": 1231149574,
+      "orgName": "PRO Teckomatorp",
+      "orgNumber": "844000-4946",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/skane/kommun/svalov/pro-teckomatorp"
+    },
+    {
       "entry": 1231149624,
       "orgName": "Wermd\u00f6 Taekwondo F\u00f6rening",
       "orgNumber": "802463-7053",
@@ -23678,6 +23733,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231172360,
+      "orgName": "PRO Veber\u00f6d",
+      "orgNumber": "802417-9718",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/skane/kommun/lund/pro-veberod"
     },
     {
       "entry": 1231173939,
@@ -30182,6 +30247,16 @@
       "web": "https://www.sverigesbuddhister.se/sbg-medlemmar/"
     },
     {
+      "entry": 1231497544,
+      "orgName": "PRO Fisks\u00e4tra",
+      "orgNumber": "814000-8874",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/stockholm/kommun/nacka/pro-fisksatra"
+    },
+    {
       "entry": 1231497569,
       "orgName": "S\u00f6sdala IF",
       "orgNumber": "837000-7984",
@@ -34456,6 +34531,16 @@
       "web": "https://www.brfgardan.se/"
     },
     {
+      "entry": 1231726637,
+      "orgName": "PRO Skarpn\u00e4ck",
+      "orgNumber": "802406-5453",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/stockholm/kommun/stockholm/pro-skarpnack"
+    },
+    {
       "entry": 1231726728,
       "orgName": "Partille F\u00f6rsamling",
       "orgNumber": "252001-4453",
@@ -37075,6 +37160,16 @@
       "web": "https://alvsjo.scout.se/"
     },
     {
+      "entry": 1231852540,
+      "orgName": "PRO Brunflo",
+      "orgNumber": "893202-8148",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/jamtland/kommun/ostersund/pro-brunflo"
+    },
+    {
       "entry": 1231853993,
       "orgName": "KAIS Mora",
       "orgNumber": "884401-5126",
@@ -38522,6 +38617,16 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://www.svenskalag.se/lidkopingsvsk"
+    },
+    {
+      "entry": 1231948405,
+      "orgName": "PRO Sval\u00f6v",
+      "orgNumber": "844000-8632",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/skane/kommun/svalov/pro-svalov"
     },
     {
       "entry": 1231950013,
@@ -42171,6 +42276,16 @@
       "web": "https://www.svenskalag.se/leksandsifkonstakning"
     },
     {
+      "entry": 1232150282,
+      "orgName": "PRO H\u00e4rsl\u00f6v",
+      "orgNumber": "844000-8962",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/skane/kommun/landskrona/pro-harslov"
+    },
+    {
       "entry": 1232155505,
       "orgName": "Ulricehamns IHS",
       "orgNumber": "802520-1628",
@@ -42388,6 +42503,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232161313,
+      "orgName": "PRO Konsulten",
+      "orgNumber": "802468-8841",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/skane/kommun/malmo/pro-konsulten"
     },
     {
       "entry": 1232163632,
@@ -42836,6 +42961,17 @@
         "sims\u00e4llskap"
       ],
       "web": "https://www.eskilstunasimklubb.se/"
+    },
+    {
+      "entry": 1232182467,
+      "orgName": "Fagersta S\u00f6dra IK",
+      "orgNumber": "879000-2060",
+      "comment": "P14",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/FSIK/"
     },
     {
       "entry": 1232182590,
@@ -43366,6 +43502,20 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.vartorpskvarn.com/"
+    },
+    {
+      "entry": 1232207173,
+      "orgName": "Bra\u00e5s GoIF",
+      "orgNumber": "829501-3984",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "mountainbikeklubb"
+      ],
+      "web": "https://www.laget.se/BraasGoIF/"
     },
     {
       "entry": 1232207975,
@@ -51503,6 +51653,16 @@
       "web": "https://www.thielskagalleriet.se/"
     },
     {
+      "entry": 1232643864,
+      "orgName": "PRO Byggfacken",
+      "orgNumber": "834001-9051",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/gotland/kommun/gotland/pro-byggfacken"
+    },
+    {
       "entry": 1232644052,
       "orgName": "Karlstadpartiet Livskvalitet",
       "orgNumber": "802514-7979",
@@ -53855,6 +54015,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-stockholm/foreningar/kungsholmen.html"
+    },
+    {
+      "entry": 1232747020,
+      "orgName": "PRO V\u00e4stj\u00e4mtland",
+      "orgNumber": "892000-8995",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/jamtland/kommun/are/pro-vastjamtland"
     },
     {
       "entry": 1232747681,
@@ -57475,6 +57645,16 @@
         "villa\u00e4garef\u00f6rening"
       ],
       "web": "http://www.sandviken-solvesborg.se/"
+    },
+    {
+      "entry": 1232924884,
+      "orgName": "PRO Fr\u00f6s\u00f6n",
+      "orgNumber": "893202-2257",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/jamtland/kommun/ostersund/pro-froson"
     },
     {
       "entry": 1232927044,
@@ -71299,6 +71479,16 @@
       "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-rattvik/foreningar/rattvik.html"
     },
     {
+      "entry": 1233651452,
+      "orgName": "PRO Huvudsta-R\u00e5sunda",
+      "orgNumber": "815200-5750",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/stockholm/kommun/solna/pro-huvudsta-rasunda"
+    },
+    {
       "entry": 1233651650,
       "orgName": "Caritas Link\u00f6ping",
       "orgNumber": "822003-0723",
@@ -74519,6 +74709,16 @@
       "web": "https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg"
     },
     {
+      "entry": 1233855643,
+      "orgName": "PRO J\u00e4rna V\u00e5rdinge",
+      "orgNumber": "815600-5715",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/stockholm/kommun/sydvastra/pro-jarna-vardinge"
+    },
+    {
       "entry": 1233856085,
       "orgName": "Oaxen Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "815601-1101",
@@ -75955,6 +76155,16 @@
       "web": "https://ubhk.se/"
     },
     {
+      "entry": 1233908951,
+      "orgName": "PRO Landskrona V\u00e4stra",
+      "orgNumber": "844000-7949",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/skane/kommun/landskrona/pro-landskrona-vastra"
+    },
+    {
       "entry": 1233910429,
       "orgName": "Furuh\u00f6jdskyrkans F\u00f6rsamling",
       "orgNumber": "817301-4229",
@@ -76174,6 +76384,16 @@
         "motorb\u00e5tsklubb"
       ],
       "web": "https://www.hammarbyledensmbk.one/"
+    },
+    {
+      "entry": 1233936465,
+      "orgName": "PRO H\u00f6rby",
+      "orgNumber": "802414-0843",
+      "comment": "Resor",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-horby/foreningar/horby.html"
     },
     {
       "entry": 1233937695,
@@ -84015,6 +84235,16 @@
       "web": "https://www.svenskalag.se/falkopingsvk"
     },
     {
+      "entry": 1234389136,
+      "orgName": "PRO Offerdal-Alsen",
+      "orgNumber": "802510-6256",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/jamtland/kommun/krokom/pro-offerdal-alsen"
+    },
+    {
       "entry": 1234389995,
       "orgName": "F\u00f6reningen Isbj\u00f6rnarna",
       "orgNumber": "802536-8898",
@@ -90634,6 +90864,16 @@
       "web": "https://www.laget.se/VasternorrlandsIBF/"
     },
     {
+      "entry": 1234745709,
+      "orgName": "PRO \u00c5rsta",
+      "orgNumber": "802010-9784",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/stockholm/kommun/stockholm/pro-arsta"
+    },
+    {
       "entry": 1234745816,
       "orgName": "Diakonala fonden / Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
@@ -93326,6 +93566,16 @@
         "muaythaiklubb"
       ],
       "web": "https://www.svenskalag.se/umeamuaythai"
+    },
+    {
+      "entry": 1234951950,
+      "orgName": "PRO Ystad",
+      "orgNumber": "848000-7908",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/skane/kommun/ystad/pro-ystad"
     },
     {
       "entry": 1234953717,
@@ -124748,6 +124998,16 @@
       "web": "https://ganeshasrum.se/"
     },
     {
+      "entry": 1236576631,
+      "orgName": "PRO Boo",
+      "orgNumber": "814000-7751",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/stockholm/kommun/nacka/pro-boo"
+    },
+    {
       "entry": 1236577746,
       "orgName": "Svenska Ridsportf\u00f6rbundet",
       "orgNumber": "802002-8042",
@@ -125923,6 +126183,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://vardnad.se/"
+    },
+    {
+      "entry": 1236660815,
+      "orgName": "PRO Viskafors",
+      "orgNumber": "864501-2686",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/sodra-alvsborg/kommun/boras/pro-viskafors"
     },
     {
       "entry": 1236661003,
@@ -128605,6 +128875,16 @@
         "transporttj\u00e4nst"
       ],
       "web": "https://www.akersbergalbc.se/"
+    },
+    {
+      "entry": 1236778872,
+      "orgName": "PRO V\u00e4xj\u00f6",
+      "orgNumber": "829501-4503",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/kronoberg/kommun/vaxjo/pro-vaxjo"
     },
     {
       "entry": 1236779201,
@@ -132113,6 +132393,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/ifktrollhattan"
+    },
+    {
+      "entry": 1236958805,
+      "orgName": "PRO H\u00f6\u00f6r",
+      "orgNumber": "842000-8081",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/skane/kommun/hoor/pro-hoor"
     },
     {
       "entry": 1236959431,

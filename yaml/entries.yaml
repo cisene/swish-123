@@ -2015,6 +2015,13 @@ entries:
   - riksförbund
   web: https://www.hjart-lung.se/riksforbundet/stockholm/lokalforeningar/stockholm/
 
+- entry: 1230126540
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230127076
   orgName: Partiet Vändpunkt
   orgNumber: 802521-4621
@@ -6473,6 +6480,14 @@ entries:
   - intresseförening
   web: https://blekinge.naturskyddsforeningen.se/
 
+- entry: 1230396044
+  orgName: PRO Enskede
+  orgNumber: 802013-5805
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/stockholm/pro-enskede
+
 - entry: 1230396150
   orgName: Veckans Valfläsk / Aktiebolaget Zenskräck
   orgNumber: 556412-9053
@@ -8459,6 +8474,18 @@ entries:
   - segelsällskap
   web: https://www.seglarna.se/
 
+- entry: 1230506949
+  orgName: Braås GoIF
+  orgNumber: 829501-3984
+  comment: null
+  categories:
+  - fotbollsklubb
+  - friidrottsförening
+  - idrottsförening
+  - innebandyklubb
+  - mountainbikeklubb
+  web: https://www.laget.se/BraasGoIF/
+
 - entry: 1230506972
   orgName: Hästcraft Lyckebo Gård
   orgNumber: 802543-4922
@@ -9818,6 +9845,15 @@ entries:
   - riksförbund
   - synskadad
   web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/srf-ostergotland/
+
+- entry: 1230612366
+  orgName: Kareby IS
+  orgNumber: 853300-1742
+  comment: F11/12
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/Kareby_IS/
 
 - entry: 1230612564
   orgName: Spekeröds Bygdegårdsförening
@@ -17437,6 +17473,14 @@ entries:
   - patientförening
   web: https://www.hjart-lung.se/riksforbundet/orebrolan/lokalforeningar/orebro/
 
+- entry: 1231049675
+  orgName: PRO Hallsberg
+  orgNumber: 875700-7227
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/orebro-lan/kommun/hallsberg/pro-hallsberg
+
 - entry: 1231051465
   orgName: Värmlandsbro SK
   orgNumber: 874400-4667
@@ -19032,6 +19076,14 @@ entries:
   - intresseförening
   web: https://www.lerumsfotoklubb.se/
 
+- entry: 1231149574
+  orgName: PRO Teckomatorp
+  orgNumber: 844000-4946
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/skane/kommun/svalov/pro-teckomatorp
+
 - entry: 1231149624
   orgName: Wermdö Taekwondo Förening
   orgNumber: 802463-7053
@@ -19526,6 +19578,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1231172360
+  orgName: PRO Veberöd
+  orgNumber: 802417-9718
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/skane/kommun/lund/pro-veberod
 
 - entry: 1231173939
   orgName: Engsö Hembygds- och Intresseförening
@@ -24883,6 +24943,14 @@ entries:
   - religion
   web: https://www.sverigesbuddhister.se/sbg-medlemmar/
 
+- entry: 1231497544
+  orgName: PRO Fisksätra
+  orgNumber: 814000-8874
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/nacka/pro-fisksatra
+
 - entry: 1231497569
   orgName: Sösdala IF
   orgNumber: 837000-7984
@@ -27249,6 +27317,13 @@ entries:
   - charterbuss
   web: https://sorbygdensbuss.se/
 
+- entry: 1231644814
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1231646629
   orgName: Kvinnojouren Frida Säffle Åmål
   orgNumber: 874400-7942
@@ -28398,6 +28473,14 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://www.brfgardan.se/
+
+- entry: 1231726637
+  orgName: PRO Skarpnäck
+  orgNumber: 802406-5453
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/stockholm/pro-skarpnack
 
 - entry: 1231726728
   orgName: Partille Församling
@@ -30567,6 +30650,14 @@ entries:
   - scoutkår
   web: https://alvsjo.scout.se/
 
+- entry: 1231852540
+  orgName: PRO Brunflo
+  orgNumber: 893202-8148
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/jamtland/kommun/ostersund/pro-brunflo
+
 - entry: 1231853993
   orgName: KAIS Mora
   orgNumber: 884401-5126
@@ -31769,6 +31860,14 @@ entries:
   - orienteringsklubb
   - skidlöparklubb
   web: https://www.svenskalag.se/lidkopingsvsk
+
+- entry: 1231948405
+  orgName: PRO Svalöv
+  orgNumber: 844000-8632
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/skane/kommun/svalov/pro-svalov
 
 - entry: 1231950013
   orgName: Hushållningssällskapet i Stockholms, Uppsala och Södermanlands län
@@ -34762,6 +34861,14 @@ entries:
   - konståkningsklubb
   web: https://www.svenskalag.se/leksandsifkonstakning
 
+- entry: 1232150282
+  orgName: PRO Härslöv
+  orgNumber: 844000-8962
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/skane/kommun/landskrona/pro-harslov
+
 - entry: 1232155505
   orgName: Ulricehamns IHS
   orgNumber: 802520-1628
@@ -34942,6 +35049,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1232161313
+  orgName: PRO Konsulten
+  orgNumber: 802468-8841
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/skane/kommun/malmo/pro-konsulten
 
 - entry: 1232163632
   orgName: Storasystrarna
@@ -35315,6 +35430,15 @@ entries:
   - simklubb
   - simsällskap
   web: https://www.eskilstunasimklubb.se/
+
+- entry: 1232182467
+  orgName: Fagersta Södra IK
+  orgNumber: 879000-2060
+  comment: P14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/FSIK/
 
 - entry: 1232182590
   orgName: Heliga Hjärtas Kloster / Mariadöttrarna OSB
@@ -35755,6 +35879,18 @@ entries:
   - historieförening
   - intresseförening
   web: https://www.vartorpskvarn.com/
+
+- entry: 1232207173
+  orgName: Braås GoIF
+  orgNumber: 829501-3984
+  comment: null
+  categories:
+  - fotbollsklubb
+  - friidrottsförening
+  - idrottsförening
+  - innebandyklubb
+  - mountainbikeklubb
+  web: https://www.laget.se/BraasGoIF/
 
 - entry: 1232207975
   orgName: Kärringbloggen / Helene Bergman Media / Helene Bergman
@@ -42498,6 +42634,14 @@ entries:
   - vänskapsförening
   web: https://www.thielskagalleriet.se/
 
+- entry: 1232643864
+  orgName: PRO Byggfacken
+  orgNumber: 834001-9051
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/gotland/kommun/gotland/pro-byggfacken
+
 - entry: 1232644052
   orgName: Karlstadpartiet Livskvalitet
   orgNumber: 802514-7979
@@ -44432,6 +44576,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-stockholm/foreningar/kungsholmen.html
+
+- entry: 1232747020
+  orgName: PRO Västjämtland
+  orgNumber: 892000-8995
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/jamtland/kommun/are/pro-vastjamtland
 
 - entry: 1232747681
   orgName: Cultureclub Engelholm AB
@@ -47415,6 +47567,14 @@ entries:
   - stugägareförening
   - villaägareförening
   web: http://www.sandviken-solvesborg.se/
+
+- entry: 1232924884
+  orgName: PRO Frösön
+  orgNumber: 893202-2257
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/jamtland/kommun/ostersund/pro-froson
 
 - entry: 1232927044
   orgName: Lidköpings Discgolfklubb
@@ -52788,6 +52948,13 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.svegshembygdsförening.se/
+
+- entry: 1233278918
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1233278983
   orgName: Flyktinggruppernas Riksråd, FARR
@@ -58821,6 +58988,14 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-rattvik/foreningar/rattvik.html
 
+- entry: 1233651452
+  orgName: PRO Huvudsta-Råsunda
+  orgNumber: 815200-5750
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/solna/pro-huvudsta-rasunda
+
 - entry: 1233651650
   orgName: Caritas Linköping
   orgNumber: 822003-0723
@@ -60748,6 +60923,13 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/spf-seniorerna-mellersta-kinnevald/
 
+- entry: 1233805595
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1233806122
   orgName: Borlänge Tunabygdens Konstförening
   orgNumber: 882601-0335
@@ -61469,6 +61651,14 @@ entries:
   categories:
   - hjälporganisation
   web: https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg
+
+- entry: 1233855643
+  orgName: PRO Järna Vårdinge
+  orgNumber: 815600-5715
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/sydvastra/pro-jarna-vardinge
 
 - entry: 1233856085
   orgName: Oaxen Bygdegårdsförening
@@ -62658,6 +62848,14 @@ entries:
   - retired
   web: null
 
+- entry: 1233908951
+  orgName: PRO Landskrona Västra
+  orgNumber: 844000-7949
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/skane/kommun/landskrona/pro-landskrona-vastra
+
 - entry: 1233910429
   orgName: Furuhöjdskyrkans Församling
   orgNumber: 817301-4229
@@ -62838,6 +63036,14 @@ entries:
   - båtklubb
   - motorbåtsklubb
   web: https://www.hammarbyledensmbk.one/
+
+- entry: 1233936465
+  orgName: PRO Hörby
+  orgNumber: 802414-0843
+  comment: Resor
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-horby/foreningar/horby.html
 
 - entry: 1233937695
   orgName: PRO Timrå
@@ -69310,6 +69516,14 @@ entries:
   - volleybollklubb
   web: https://www.svenskalag.se/falkopingsvk
 
+- entry: 1234389136
+  orgName: PRO Offerdal-Alsen
+  orgNumber: 802510-6256
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/jamtland/kommun/krokom/pro-offerdal-alsen
+
 - entry: 1234389995
   orgName: Föreningen Isbjörnarna
   orgNumber: 802536-8898
@@ -70478,6 +70692,13 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1234472718
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1234474995
   orgName: Buråskyrkans Vänner
@@ -74753,6 +74974,14 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/VasternorrlandsIBF/
 
+- entry: 1234745709
+  orgName: PRO Årsta
+  orgNumber: 802010-9784
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/stockholm/pro-arsta
+
 - entry: 1234745816
   orgName: Diakonala fonden / Strömsunds Pastorat
   orgNumber: 252003-9203
@@ -75085,6 +75314,13 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-varmdo/foreningar/gustavsberg-ingaro.html
+
+- entry: 1234781829
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1234782926
   orgName: PRO Huskvarna
@@ -76952,6 +77188,14 @@ entries:
   - kickboxningsklubb
   - muaythaiklubb
   web: https://www.svenskalag.se/umeamuaythai
+
+- entry: 1234951950
+  orgName: PRO Ystad
+  orgNumber: 848000-7908
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/skane/kommun/ystad/pro-ystad
 
 - entry: 1234953717
   orgName: Asarums MS
@@ -102968,6 +103212,14 @@ entries:
   - tarot
   web: https://ganeshasrum.se/
 
+- entry: 1236576631
+  orgName: PRO Boo
+  orgNumber: 814000-7751
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/nacka/pro-boo
+
 - entry: 1236577746
   orgName: Svenska Ridsportförbundet
   orgNumber: 802002-8042
@@ -103951,6 +104203,14 @@ entries:
   - föräldraskap
   - intresseförening
   web: https://vardnad.se/
+
+- entry: 1236660815
+  orgName: PRO Viskafors
+  orgNumber: 864501-2686
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/sodra-alvsborg/kommun/boras/pro-viskafors
 
 - entry: 1236661003
   orgName: Svenska Brukshundsklubben Gotlandsdistriktet
@@ -106164,6 +106424,14 @@ entries:
   categories:
   - transporttjänst
   web: https://www.akersbergalbc.se/
+
+- entry: 1236778872
+  orgName: PRO Växjö
+  orgNumber: 829501-4503
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/kronoberg/kommun/vaxjo/pro-vaxjo
 
 - entry: 1236779201
   orgName: Föreningen För Katekumenatet
@@ -109040,6 +109308,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/ifktrollhattan
+
+- entry: 1236958805
+  orgName: PRO Höör
+  orgNumber: 842000-8081
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/skane/kommun/hoor/pro-hoor
 
 - entry: 1236959431
   orgName: Österfärnebo RS - Ridsport
