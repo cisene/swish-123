@@ -4087,6 +4087,14 @@ entries:
   - musikförening
   web: https://www.vamlingbokammarmusik.se/
 
+- entry: 1230257972
+  orgName: RPG Sörmland-Östergötlands Distrikt
+  orgNumber: 823000-4742
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://rpg.org.se/foreningsprogram/sormland-ostergotland/
+
 - entry: 1230259051
   orgName: Björkviks Bygdegårdsförening
   orgNumber: 818500-8508
@@ -5727,6 +5735,15 @@ entries:
   - jolleklubb
   - segelklubb
   web: https://www.bojk.se/
+
+- entry: 1230346775
+  orgName: Söråkers Folkets Hus Förening
+  orgNumber: 789200-4826
+  comment: null
+  categories:
+  - folkets hus
+  - intresseförening
+  web: https://sorakersfolketshus.se/
 
 - entry: 1230346957
   orgName: Tapanis Buss i Haparanda AB
@@ -22471,6 +22488,14 @@ entries:
   - utbildning
   web: https://www.nftrafikskola.se/
 
+- entry: 1231352210
+  orgName: PRO Alingsås
+  orgNumber: 864001-1246
+  comment: Resegruppen
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/norra-alvsborg/kommun/alingsas/pro-alingsas
+
 - entry: 1231352830
   orgName: Börje Salming ALS-stiftelse
   orgNumber: 802482-1921
@@ -24192,7 +24217,7 @@ entries:
   web: https://www.laget.se/RMIF/
 
 - entry: 1231475193
-  orgName: RPG - Riksförbundet PensionärsGemenskap - Kullabygden
+  orgName: RPG Kullabygden
   orgNumber: 802445-1448
   comment: null
   categories:
@@ -24561,6 +24586,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/almby
+
+- entry: 1231482913
+  orgName: PRO Värmdö
+  orgNumber: 814000-9088
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/varmdo/pro-varmdo
 
 - entry: 1231482967
   orgName: Husqvarna IK
@@ -51841,6 +51874,14 @@ entries:
   - golfklubb
   web: https://vgk.nu/
 
+- entry: 1233217015
+  orgName: Ringströms Restaurang
+  orgNumber: 559004-0605
+  comment: null
+  categories:
+  - restaurant
+  web: https://ringstromsrestaurang.se/
+
 - entry: 1233217635
   orgName: Svenska Weimaranerklubben
   orgNumber: null
@@ -54965,6 +55006,14 @@ entries:
   - idrottsförening
   web: https://www.hudiksvallsff.se/
 
+- entry: 1233420742
+  orgName: PRO Älmhult
+  orgNumber: 829000-8005
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/kronoberg/kommun/almhult/pro-almhult
+
 - entry: 1233421054
   orgName: Jagriti Viharas Vänner
   orgNumber: 858500-8991
@@ -57571,6 +57620,14 @@ entries:
   - segelklubb
   - segling
   web: https://klaramarie.se/
+
+- entry: 1233556396
+  orgName: SPF Seniorerna Tibble Täby
+  orgNumber: 802409-1814
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-tibble-taby/
 
 - entry: 1233558210
   orgName: Apelvikshöjds kyrka
@@ -65937,6 +65994,14 @@ entries:
   - ridskola
   web: https://www.alvkarlebyridklubb.nu/
 
+- entry: 1234138631
+  orgName: SKPF Pensionärerna Laholm, avd 259
+  orgNumber: 849201-8042
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.skpf.se/avdelningar/halland/laholm-avd-259/
+
 - entry: 1234138681
   orgName: SKPF Pensionärerna Laholm, avd 259
   orgNumber: 849201-8042
@@ -68684,6 +68749,14 @@ entries:
   - personlig träning
   web: https://www.känn-in.se/
 
+- entry: 1234313870
+  orgName: RPG Sundsvall
+  orgNumber: 802501-8188
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://rpg.org.se/foreningsprogram/sodra-norrland/
+
 - entry: 1234313904
   orgName: Kållereds Boxningsklubb
   orgNumber: 802521-0884
@@ -70694,11 +70767,12 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1234472718
-  orgName: null
-  orgNumber: null
+  orgName: PRO Frötuna-Rådmansö
+  orgNumber: 814401-0348
   comment: null
-  categories: null
-  web: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/norrtalje/pro-frotuna-radmanso
 
 - entry: 1234474995
   orgName: Buråskyrkans Vänner
@@ -71274,7 +71348,7 @@ entries:
   web: https://www.ransater.com/
 
 - entry: 1234512224
-  orgName: Norrmalms baptistförsamling
+  orgName: Norrmalms Baptistförsamling
   orgNumber: 802002-4892
   comment: null
   categories:
@@ -78892,6 +78966,14 @@ entries:
   - dansförening
   - intresseförening
   web: https://streetstar.se/
+
+- entry: 1235079629
+  orgName: SPF Seniorerna Fräkne Ljungskile
+  orgNumber: 802430-2195
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/frakne/
 
 - entry: 1235079751
   orgName: Tågarps Trädgård
@@ -91312,6 +91394,14 @@ entries:
   - religion
   web: https://korskyrkanumea.se/
 
+- entry: 1235796180
+  orgName: Saab Tjänstemannapensionärer i Linköping
+  orgNumber: 822001-6771
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://stpl.se/
+
 - entry: 1235801105
   orgName: Bullaregårdens Byggnadsförening
   orgNumber: 855900-4356
@@ -95841,6 +95931,14 @@ entries:
   - dagstidning
   - media
   web: https://nyadagbladet.se/
+
+- entry: 1236114987
+  orgName: RPG Norrmalmskyrkan
+  orgNumber: 802537-4508
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.norrmalmskyrkan.se/senior/
 
 - entry: 1236115125
   orgName: Utterlidens byastugeförening
@@ -101244,6 +101342,14 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/hitta-bygdegard/klovertrask/
 
+- entry: 1236454763
+  orgName: RPG Habo Mullsjö
+  orgNumber: 802443-5607
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.rpg-smaland-oland.se/rpg-smaland-oland/extern/habo-mullsjo.htm
+
 - entry: 1236455182
   orgName: Team Rynkeby
   orgNumber: 802535-9137
@@ -102243,7 +102349,7 @@ entries:
   web: https://www.svenskakyrkan.se/vargarda/lenaforsamling
 
 - entry: 1236517478
-  orgName: Pensionärsförening RPG Ljungby
+  orgName: RPG Ljungby
   orgNumber: 829001-5075
   comment: null
   categories:
@@ -104601,7 +104707,7 @@ entries:
   web: https://americanakitaklubbsverige.se/
 
 - entry: 1236680243
-  orgName: Riksförbundet PensionärsGemenskap Västerbotten
+  orgName: RPG Västerbotten
   orgNumber: 802453-0704
   comment: null
   categories:
@@ -107974,6 +108080,14 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/dalfors/
 
+- entry: 1236882831
+  orgName: PRO Upplands Väsby
+  orgNumber: 802408-9446
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/upplands-vasby/pro-upplands-vasby
+
 - entry: 1236883268
   orgName: Kojbyns naturcamping / Stina Torén AB
   orgNumber: 556885-7063
@@ -109129,6 +109243,14 @@ entries:
   - samfällighetsförening
   web: https://raketen-2.webnode.se/
 
+- entry: 1236951735
+  orgName: PRO Onsala
+  orgNumber: 849400-4362
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/halland/kommun/kungsbacka/pro-onsala
+
 - entry: 1236952436
   orgName: Västanå Musik & Teater
   orgNumber: 872800-4634
@@ -109532,6 +109654,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/OAFK/
+
+- entry: 1236979199
+  orgName: SKPF Pensionärerna Eskilstuna-Strängnäs, avd 8
+  orgNumber: 802416-5071
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.skpf.se/avdelningar/distrikt-sodermanlands-lan/eskilstuna-avd-8/
 
 - entry: 1236982839
   orgName: IK Tun
