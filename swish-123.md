@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-13-rev-174314
+Revision: 2024-10-13-rev-190252
 
-Nummer: 12712
+Nummer: 12721
 
 
 
@@ -4202,6 +4202,8 @@ Nummer: 12712
 
 
 **Borlänge HF**
+
+    123 504 66 93 - Team 11
 
     123 565 26 31
 
@@ -9026,9 +9028,12 @@ Nummer: 12712
     123 592 32 14
 
 
-**Eksjö RC Klubb - Bilsport**
+**Eksjö RC Klubb**
 
     123 033 70 48 - Båt
+
+
+**Eksjö RC Klubb - Bilsport**
 
     123 275 18 99 - Bil
 
@@ -10805,6 +10810,11 @@ Nummer: 12712
 **Fegens Sågverk AB**
 
     123 504 63 96
+
+
+**Fem i Topp / Firma Carl Johan Östling AB**
+
+    123 500 69 52
 
 
 **FemCenter Kvinnojour**
@@ -13578,6 +13588,11 @@ Nummer: 12712
 **Föreningen Rädda Regnskog, Sverige**
 
     123 628 46 16
+
+
+**Föreningen RåFILM**
+
+    123 568 18 79
 
 
 **Föreningen S/S Nalle**
@@ -22364,6 +22379,8 @@ Nummer: 12712
 
     123 421 37 99
 
+    123 611 87 56
+
 
 **Kalmar JSK - Skyttesport**
 
@@ -28333,6 +28350,11 @@ Nummer: 12712
 **Lycksele Tjejjour**
 
     123 401 67 96
+
+
+**Lyckå FF**
+
+    123 682 61 43
 
 
 **Lyckå Församling**
@@ -37790,13 +37812,6 @@ Nummer: 12712
     123 210 76 70
 
 
-**Rättvisepartiet Socialisterna**
-
-    123 240 32 85 - Valfonden
-
-    123 311 40 48 - Valfonden
-
-
 **Rävlanda AIS**
 
     123 303 63 16
@@ -40742,7 +40757,7 @@ Nummer: 12712
     123 331 99 93
 
 
-**SMK Söderhamnsavdelning**
+**SMK Söderhamn**
 
     123 033 70 71
 
@@ -40920,6 +40935,15 @@ Nummer: 12712
     123 278 32 72 - Internationalen veckotidning
 
     123 539 30 53
+
+
+**Socialistiskt Alternativ**
+
+    123 028 34 32 - Insamling
+
+    123 240 32 85 - Socialistiskt Alternativs veckotidning Offensiv!
+
+    123 311 40 48 - Valfonden
 
 
 **Sockenrådet Västra Torsås**
@@ -50108,6 +50132,11 @@ Nummer: 12712
     123 080 82 87
 
 
+**Tranås BoIS**
+
+    123 612 63 20
+
+
 **Tranås Kvinnojour**
 
     123 495 08 46
@@ -53596,6 +53625,13 @@ Nummer: 12712
 **Värmdö Nattvandrare**
 
     123 374 77 71
+
+
+**Värmestugan Helsingborg**
+
+    123 396 22 14
+
+    123 553 74 36
 
 
 **Värmland mot Kärnkraft**

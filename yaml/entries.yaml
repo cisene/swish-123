@@ -4441,6 +4441,14 @@ entries:
   - tennisklubb
   web: https://norrmjole.com/spela-tennis/
 
+- entry: 1230283432
+  orgName: Socialistiskt Alternativ
+  orgNumber: 802404-0308
+  comment: Insamling
+  categories:
+  - politiskt parti
+  web: https://www.socialisterna.org/
+
 - entry: 1230286500
   orgName: SPF Seniorerna Rengen Linköping
   orgNumber: 802440-2458
@@ -5595,7 +5603,7 @@ entries:
   web: https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan
 
 - entry: 1230337048
-  orgName: Eksjö RC Klubb - Bilsport
+  orgName: Eksjö RC Klubb
   orgNumber: 802456-7581
   comment: Båt
   categories:
@@ -5603,7 +5611,7 @@ entries:
   web: https://www.eksjorck.se/
 
 - entry: 1230337071
-  orgName: SMK Söderhamnsavdelning
+  orgName: SMK Söderhamn
   orgNumber: 886000-5944
   comment: null
   categories:
@@ -39655,9 +39663,9 @@ entries:
   web: https://vaxjo.aktivaseniorer.com/
 
 - entry: 1232403285
-  orgName: Rättvisepartiet Socialisterna
+  orgName: Socialistiskt Alternativ
   orgNumber: 802404-0308
-  comment: Valfonden
+  comment: Socialistiskt Alternativs veckotidning Offensiv!
   categories:
   - politiskt parti
   web: https://www.socialisterna.org/
@@ -49482,6 +49490,13 @@ entries:
   - idrottsförening
   web: https://www.oskarshamnsaik.se/
 
+- entry: 1233048022
+  orgName: Häxmuseet
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://haxmuseet.se/
+
 - entry: 1233048097
   orgName: Ransta Nästa Bygdegårdsförening
   orgNumber: 879500-6942
@@ -50371,7 +50386,7 @@ entries:
   web: https://www.ortagarden.se/
 
 - entry: 1233114048
-  orgName: Rättvisepartiet Socialisterna
+  orgName: Socialistiskt Alternativ
   orgNumber: 802404-0308
   comment: Valfonden
   categories:
@@ -63937,6 +63952,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/OSKUINNEBANDYP13V/
+
+- entry: 1233962214
+  orgName: Värmestugan Helsingborg
+  orgNumber: 802471-9885
+  comment: null
+  categories:
+  - hjälporganisation
+  - sociala insatser
+  web: https://varmestuganhelsingborg.se/
 
 - entry: 1233962404
   orgName: Blomsterhuset Ullånger
@@ -78368,8 +78392,8 @@ entries:
   web: https://www.bjuvsbk.se/
 
 - entry: 1235006952
-  orgName: Fem i Topp
-  orgNumber: null
+  orgName: Fem i Topp / Firma Carl Johan Östling AB
+  orgNumber: 556871-8364
   comment: null
   categories:
   - podcast
@@ -78908,6 +78932,15 @@ entries:
   - byggmaterial
   - sågverk
   web: http://www.fegenssag.se/
+
+- entry: 1235046693
+  orgName: Borlänge HF
+  orgNumber: 882600-8669
+  comment: Team 11
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/borlangehockey
 
 - entry: 1235047436
   orgName: Länna Församling
@@ -87418,6 +87451,15 @@ entries:
   - idrottsförening
   web: https://ludvikabk.klubbenonline.se/
 
+- entry: 1235537436
+  orgName: Värmestugan Helsingborg
+  orgNumber: 802471-9885
+  comment: null
+  categories:
+  - hjälporganisation
+  - sociala insatser
+  web: https://varmestuganhelsingborg.se/
+
 - entry: 1235540018
   orgName: PRO Skellefteå-Kågedalen
   orgNumber: 802539-9208
@@ -89749,6 +89791,17 @@ entries:
   categories:
   - hemlandsförening
   web: https://norske-samfund.se/
+
+- entry: 1235681879
+  orgName: Föreningen RåFILM
+  orgNumber: 845003-3728
+  comment: null
+  categories:
+  - filmklubb
+  - filmkollektiv
+  - filmproduktion
+  - intresseförening
+  web: https://rafilm.se/
 
 - entry: 1235682240
   orgName: Frontier MMA Academy
@@ -96311,6 +96364,15 @@ entries:
   - pensionärsklubb
   web: https://www.svenskalag.se/glanshammarsbowlarna
 
+- entry: 1236118756
+  orgName: Kalmar HC
+  orgNumber: 832401-9135
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.kalmarhockey.com/
+
 - entry: 1236119788
   orgName: Ältas medicinska fotvård & ReflexRummet
   orgNumber: 791011-XXXX
@@ -96381,6 +96443,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://enangersbygdegard.se/
+
+- entry: 1236126320
+  orgName: Tranås BoIS
+  orgNumber: 826500-4351
+  comment: null
+  categories:
+  - bandyklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/tranasbois
 
 - entry: 1236126882
   orgName: Kulturföreningen Uddevallakassetten
@@ -107747,6 +107818,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/forlosa
+
+- entry: 1236826143
+  orgName: Lyckå FF
+  orgNumber: 802457-3019
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/lyckaff
 
 - entry: 1236826267
   orgName: Vegby SK

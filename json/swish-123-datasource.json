@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-13-rev-174240",
+    "date": "2024-10-13-rev-190219",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5390,6 +5390,16 @@
       "web": "https://norrmjole.com/spela-tennis/"
     },
     {
+      "entry": 1230283432,
+      "orgName": "Socialistiskt Alternativ",
+      "orgNumber": "802404-0308",
+      "comment": "Insamling",
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://www.socialisterna.org/"
+    },
+    {
       "entry": 1230286500,
       "orgName": "SPF Seniorerna Rengen Link\u00f6ping",
       "orgNumber": "802440-2458",
@@ -6787,7 +6797,7 @@
     },
     {
       "entry": 1230337048,
-      "orgName": "Eksj\u00f6 RC Klubb - Bilsport",
+      "orgName": "Eksj\u00f6 RC Klubb",
       "orgNumber": "802456-7581",
       "comment": "B\u00e5t",
       "categories": [
@@ -6797,7 +6807,7 @@
     },
     {
       "entry": 1230337071,
-      "orgName": "SMK S\u00f6derhamnsavdelning",
+      "orgName": "SMK S\u00f6derhamn",
       "orgNumber": "886000-5944",
       "comment": null,
       "categories": [
@@ -48059,9 +48069,9 @@
     },
     {
       "entry": 1232403285,
-      "orgName": "R\u00e4ttvisepartiet Socialisterna",
+      "orgName": "Socialistiskt Alternativ",
       "orgNumber": "802404-0308",
-      "comment": "Valfonden",
+      "comment": "Socialistiskt Alternativs veckotidning Offensiv!",
       "categories": [
         "politiskt parti"
       ],
@@ -61018,7 +61028,7 @@
     },
     {
       "entry": 1233114048,
-      "orgName": "R\u00e4ttvisepartiet Socialisterna",
+      "orgName": "Socialistiskt Alternativ",
       "orgNumber": "802404-0308",
       "comment": "Valfonden",
       "categories": [
@@ -77480,6 +77490,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/OSKUINNEBANDYP13V/"
+    },
+    {
+      "entry": 1233962214,
+      "orgName": "V\u00e4rmestugan Helsingborg",
+      "orgNumber": "802471-9885",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "sociala insatser"
+      ],
+      "web": "https://varmestuganhelsingborg.se/"
     },
     {
       "entry": 1233962404,
@@ -95012,6 +95033,16 @@
       "web": "https://www.bjuvsbk.se/"
     },
     {
+      "entry": 1235006952,
+      "orgName": "Fem i Topp / Firma Carl Johan \u00d6stling AB",
+      "orgNumber": "556871-8364",
+      "comment": null,
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://shows.acast.com/femitopp"
+    },
+    {
       "entry": 1235009345,
       "orgName": "CK Stabil",
       "orgNumber": "802507-7903",
@@ -95666,6 +95697,17 @@
         "s\u00e5gverk"
       ],
       "web": "http://www.fegenssag.se/"
+    },
+    {
+      "entry": 1235046693,
+      "orgName": "Borl\u00e4nge HF",
+      "orgNumber": "882600-8669",
+      "comment": "Team 11",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/borlangehockey"
     },
     {
       "entry": 1235047436,
@@ -105975,6 +106017,17 @@
       "web": "https://ludvikabk.klubbenonline.se/"
     },
     {
+      "entry": 1235537436,
+      "orgName": "V\u00e4rmestugan Helsingborg",
+      "orgNumber": "802471-9885",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "sociala insatser"
+      ],
+      "web": "https://varmestuganhelsingborg.se/"
+    },
+    {
       "entry": 1235540018,
       "orgName": "PRO Skellefte\u00e5-K\u00e5gedalen",
       "orgNumber": "802539-9208",
@@ -108820,6 +108873,19 @@
         "hemlandsf\u00f6rening"
       ],
       "web": "https://norske-samfund.se/"
+    },
+    {
+      "entry": 1235681879,
+      "orgName": "F\u00f6reningen R\u00e5FILM",
+      "orgNumber": "845003-3728",
+      "comment": null,
+      "categories": [
+        "filmklubb",
+        "filmkollektiv",
+        "filmproduktion",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://rafilm.se/"
     },
     {
       "entry": 1235682240,
@@ -116698,6 +116764,17 @@
       "web": "https://www.svenskalag.se/glanshammarsbowlarna"
     },
     {
+      "entry": 1236118756,
+      "orgName": "Kalmar HC",
+      "orgNumber": "832401-9135",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.kalmarhockey.com/"
+    },
+    {
       "entry": 1236119788,
       "orgName": "\u00c4ltas medicinska fotv\u00e5rd & ReflexRummet",
       "orgNumber": "791011-XXXX",
@@ -116783,6 +116860,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://enangersbygdegard.se/"
+    },
+    {
+      "entry": 1236126320,
+      "orgName": "Tran\u00e5s BoIS",
+      "orgNumber": "826500-4351",
+      "comment": null,
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/tranasbois"
     },
     {
       "entry": 1236126882,
@@ -130509,6 +130597,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/forlosa"
+    },
+    {
+      "entry": 1236826143,
+      "orgName": "Lyck\u00e5 FF",
+      "orgNumber": "802457-3019",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/lyckaff"
     },
     {
       "entry": 1236826267,
