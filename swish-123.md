@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-12-rev-170341
+Revision: 2024-10-13-rev-174314
 
-Nummer: 12670
+Nummer: 12712
 
 
 
@@ -3472,6 +3472,15 @@ Nummer: 12670
     123 614 66 33
 
 
+**Björnekulla-Västra Broby Församling**
+
+    123 238 34 61 - Kollekt
+
+    123 589 24 92 - Övrigt
+
+    123 668 62 32 - Gåva till Act
+
+
 **Björnlunda Hembygdsförening**
 
     123 083 63 20
@@ -6182,9 +6191,9 @@ Nummer: 12670
 
 **Båstad-Östra Karups Församling**
 
-    123 272 33 10
+    123 272 33 10 - Båstad Kollekt
 
-    123 570 64 78
+    123 570 64 78 - Östra Karup Kollekt
 
 
 **Båstads Fritidshamn Ekonomisk Förening, BFEF**
@@ -9748,6 +9757,11 @@ Nummer: 12670
 **Equmeniakyrkan Malmköping**
 
     123 214 80 05
+
+
+**Equmeniakyrkan Skeda**
+
+    123 422 82 01
 
 
 **Equmeniakyrkan Sävedalen**
@@ -15113,6 +15127,17 @@ Nummer: 12670
 **Gryts Sockenförening**
 
     123 218 99 34
+
+
+**Gränge-Säfsnäs Församling**
+
+    123 278 65 23 - Kollekt
+
+    123 471 31 52 - Kyrkans Prydande
+
+    123 563 68 40 - Deltagaravgifter/Köp
+
+    123 593 06 31 - Gåva till Diakoniarbete
 
 
 **Grängesbergs BK**
@@ -22223,7 +22248,7 @@ Nummer: 12670
 
 **Kafjärdens Församling**
 
-    123 157 93 25
+    123 157 93 25 - Kollekt
 
 
 **KAIS Mora**
@@ -27614,6 +27639,13 @@ Nummer: 12670
 **Ljungby Padelförening**
 
     123 382 42 40
+
+
+**Ljungby Pastorat**
+
+    123 395 24 21 - Lokalhyra/kyrkresa
+
+    123 657 01 88 - Begravningsmuseet i Ljungby
 
 
 **Ljungby Ridklubb**
@@ -34370,6 +34402,13 @@ Nummer: 12670
     123 503 15 05
 
 
+**PRG Abrahamsbergskyrkans Senoirer**
+
+    123 221 21 73
+
+    123 698 31 34
+
+
 **Pride Lysekil**
 
     123 523 28 22
@@ -37307,14 +37346,64 @@ Nummer: 12670
     123 381 87 62
 
 
+**RPG Alingsås**
+
+    123 096 70 67
+
+
+**RPG Eksjö**
+
+    123 360 94 50
+
+
+**RPG Fiskebäck Önnered**
+
+    123 497 53 14
+
+
+**RPG Fjällstugan Senior**
+
+    123 205 75 45
+
+
+**RPG Flen**
+
+    123 110 22 19
+
+
+**RPG Gamla Uppsala**
+
+    123 384 12 85
+
+
+**RPG Göteborgs Norra Skärgård**
+
+    123 081 32 53
+
+
 **RPG Habo Mullsjö**
 
     123 645 47 63
 
 
+**RPG Jönköping Öst**
+
+    123 242 12 87
+
+
+**RPG Karlskrona**
+
+    123 533 07 66
+
+
 **RPG Kullabygden**
 
     123 147 51 93
+
+
+**RPG Kumla**
+
+    123 141 93 08
 
 
 **RPG Lidköping**
@@ -37327,9 +37416,29 @@ Nummer: 12670
     123 651 74 78
 
 
+**RPG Malmö Ekumeniska**
+
+    123 267 70 86
+
+
 **RPG Norrmalmskyrkan**
 
     123 611 49 87
+
+
+**RPG Pingstkyrkan i Linköping**
+
+    123 267 54 86
+
+
+**RPG Skåne-Blekinge Distriktet**
+
+    123 413 89 54
+
+
+**RPG Sollentuna**
+
+    123 289 66 94
 
 
 **RPG Sundsvall**
@@ -37342,6 +37451,11 @@ Nummer: 12670
     123 025 79 72
 
 
+**RPG Umeå**
+
+    123 315 70 88
+
+
 **RPG Vetlanda**
 
     123 247 83 37
@@ -37350,6 +37464,21 @@ Nummer: 12670
 **RPG Västerbotten**
 
     123 668 02 43
+
+
+**RPG Årstakyrkan Uppsala**
+
+    123 042 17 92
+
+
+**RPG Örnsköldsvik**
+
+    123 653 40 69
+
+
+**RPG Östernärke**
+
+    123 628 83 69
 
 
 **Ruda Revy och Teatersällskap**
@@ -47001,6 +47130,25 @@ Nummer: 12670
     123 339 51 75
 
 
+**Söderköping S:t Anna Församling**
+
+    123 219 30 27 - Drothems kyrka
+
+    123 275 33 66 - Mogata kyrka
+
+    123 321 76 27 - Skönberga kyrka
+
+    123 389 88 55 - S:t Anna stora kyrka
+
+    123 395 59 45 - S:t Anna gamla kyrka
+
+    123 402 91 87 - Börrums kyrka
+
+    123 418 11 11 - Skällviks kyrka
+
+    123 494 57 62 - S:t Laurentii kyrka
+
+
 **Söderköpings Brukshundklubb**
 
     123 366 23 76
@@ -52923,6 +53071,11 @@ Nummer: 12670
     123 188 20 67
 
 
+**Vist Församling**
+
+    123 510 25 61
+
+
 **Vistträsk IF**
 
     123 321 47 23
@@ -53123,7 +53276,7 @@ Nummer: 12670
 
 **Vrå Församling**
 
-    123 540 74 57
+    123 540 74 57 - Övrigt
 
     123 657 01 54 - Kollekt
 
@@ -54222,6 +54375,13 @@ Nummer: 12670
     123 034 62 62
 
 
+**Västra Marks Församling**
+
+    123 040 80 62
+
+    123 092 47 04 - Kollekt
+
+
 **Västra Mälardalen Innebandy**
 
     123 033 51 25
@@ -54430,6 +54590,11 @@ Nummer: 12670
 **Vårdinge Församling**
 
     123 551 69 43 - Kollekt
+
+
+**Vårdnäs Församling**
+
+    123 545 80 39
 
 
 **Vårdnäs Hembygdsförening**

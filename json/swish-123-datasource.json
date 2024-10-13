@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-12-rev-170309",
+    "date": "2024-10-13-rev-174240",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4972,7 +4972,8 @@
       "orgNumber": "823000-4742",
       "comment": null,
       "categories": [
-        "pension\u00e4rsklubb"
+        "pension\u00e4rsklubb",
+        "religion"
       ],
       "web": "https://rpg.org.se/foreningsprogram/sormland-ostergotland/"
     },
@@ -8079,6 +8080,16 @@
       "web": "https://www.svenskalag.se/trollhattansif"
     },
     {
+      "entry": 1230408062,
+      "orgName": "V\u00e4stra Marks F\u00f6rsamling",
+      "orgNumber": "252004-3445",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vastramark"
+    },
+    {
       "entry": 1230410035,
       "orgName": "Films SK",
       "orgNumber": "817300-3339",
@@ -8453,6 +8464,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/tofteryd-hagshults-hembygdsf-rening"
+    },
+    {
+      "entry": 1230421792,
+      "orgName": "RPG \u00c5rstakyrkan Uppsala",
+      "orgNumber": "817605-6086",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg.org.se/foreningsprogram/norra-svealand-rpg-aktiviteter/"
     },
     {
       "entry": 1230422709,
@@ -16063,6 +16085,17 @@
       "web": "https://holibeyoga.se/"
     },
     {
+      "entry": 1230813253,
+      "orgName": "RPG G\u00f6teborgs Norra Sk\u00e4rg\u00e5rd",
+      "orgNumber": "802510-7460",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg.org.se/foreningsprogram/vastkusten/"
+    },
+    {
       "entry": 1230813451,
       "orgName": "Lions Club Svenljunga",
       "orgNumber": "865000-5849",
@@ -18824,6 +18857,16 @@
       "web": "http://clownclubben.se/"
     },
     {
+      "entry": 1230924704,
+      "orgName": "V\u00e4stra Marks F\u00f6rsamling",
+      "orgNumber": "252004-3445",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vastramark"
+    },
+    {
       "entry": 1230924993,
       "orgName": "Bergsj\u00f6 F\u00f6rsamling",
       "orgNumber": "252004-7396",
@@ -19607,6 +19650,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/runsten/"
+    },
+    {
+      "entry": 1230967067,
+      "orgName": "RPG Alings\u00e5s",
+      "orgNumber": "802539-3672",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg.org.se/foreningsprogram/vastgota-dalarna/"
     },
     {
       "entry": 1230967737,
@@ -22355,6 +22409,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/spf-seniorerna-bjorkekarr-/"
+    },
+    {
+      "entry": 1231102219,
+      "orgName": "RPG Flen",
+      "orgNumber": "802440-7036",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg.org.se/foreningsprogram/sormland-ostergotland/"
     },
     {
       "entry": 1231102508,
@@ -28372,6 +28437,17 @@
       "web": "https://www.alvkarlebyridklubb.nu/"
     },
     {
+      "entry": 1231419308,
+      "orgName": "RPG Kumla",
+      "orgNumber": "875701-0916",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg.org.se/foreningsprogram/orebro-varmland/"
+    },
+    {
       "entry": 1231421858,
       "orgName": "Team Rynkeby",
       "orgNumber": "802537-0241",
@@ -29365,7 +29441,8 @@
       "orgNumber": "802445-1448",
       "comment": null,
       "categories": [
-        "pension\u00e4rsklubb"
+        "pension\u00e4rsklubb",
+        "religion"
       ],
       "web": "https://rpg.org.se/distrikt/skane-blekinge/"
     },
@@ -31749,7 +31826,7 @@
       "entry": 1231579325,
       "orgName": "Kafj\u00e4rdens F\u00f6rsamling",
       "orgNumber": "252002-6028",
-      "comment": null,
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
@@ -40655,6 +40732,17 @@
       "web": "https://www.svenskakyrkan.se/vargarda/lenaforsamling"
     },
     {
+      "entry": 1232057545,
+      "orgName": "RPG Fj\u00e4llstugan Senior",
+      "orgNumber": "802524-9536",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://www.fjallstugan.se/"
+    },
+    {
       "entry": 1232059616,
       "orgName": "Ropgr\u00e4nds Samf\u00e4llighetsf\u00f6rening",
       "orgNumber": "716418-5808",
@@ -43276,6 +43364,16 @@
       "web": "https://artworks.se/ljusterokonstforening"
     },
     {
+      "entry": 1232193027,
+      "orgName": "S\u00f6derk\u00f6ping S:t Anna F\u00f6rsamling",
+      "orgNumber": "252004-2082",
+      "comment": "Drothems kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/soderkoping"
+    },
+    {
       "entry": 1232193084,
       "orgName": "G\u00e4vle Travs\u00e4llskap",
       "orgNumber": "885000-0913",
@@ -43676,6 +43774,17 @@
         "intresseorganisation"
       ],
       "web": "https://vapenagaren.se/"
+    },
+    {
+      "entry": 1232212173,
+      "orgName": "PRG Abrahamsbergskyrkans Senoirer",
+      "orgNumber": "802545-5307",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://abrahamsbergskyrkan.se/abrahamsbergskyrkans-seniorer-abrasenior/"
     },
     {
       "entry": 1232212488,
@@ -47576,6 +47685,16 @@
       "web": "https://birgittaskloster.se/"
     },
     {
+      "entry": 1232383461,
+      "orgName": "Bj\u00f6rnekulla-V\u00e4stra Broby F\u00f6rsamling",
+      "orgNumber": "252002-7737",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/bjornekulla"
+    },
+    {
       "entry": 1232383743,
       "orgName": "Upsala Studenters Idrottsf\u00f6rening, USIF",
       "orgNumber": "817600-6180",
@@ -48405,6 +48524,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/IKrosso/"
+    },
+    {
+      "entry": 1232421287,
+      "orgName": "RPG J\u00f6nk\u00f6ping \u00d6st",
+      "orgNumber": "802539-7665",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://www.rpg-smaland-oland.se/rpg-smaland-oland/extern/jonkoping-ost.htm"
     },
     {
       "entry": 1232423374,
@@ -52402,6 +52532,28 @@
       "web": "https://www.hembygd.se/stode"
     },
     {
+      "entry": 1232675486,
+      "orgName": "RPG Pingstkyrkan i Link\u00f6ping",
+      "orgNumber": "802449-8472",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://equmeniakyrkanlinkoping.se/rpg/"
+    },
+    {
+      "entry": 1232677086,
+      "orgName": "RPG Malm\u00f6 Ekumeniska",
+      "orgNumber": "802437-5332",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://stadionkyrkan.se/rpg-traffar/"
+    },
+    {
       "entry": 1232677763,
       "orgName": "V\u00e5r B\u00e4sta V\u00e4n AB",
       "orgNumber": "559021-7161",
@@ -53855,7 +54007,7 @@
       "entry": 1232723310,
       "orgName": "B\u00e5stad-\u00d6stra Karups F\u00f6rsamling",
       "orgNumber": "252004-1902",
-      "comment": null,
+      "comment": "B\u00e5stad Kollekt",
       "categories": [
         "religion"
       ],
@@ -54165,6 +54317,16 @@
         "ungdomsverksamhet"
       ],
       "web": "https://www.ikarlekenstecken.se/"
+    },
+    {
+      "entry": 1232753366,
+      "orgName": "S\u00f6derk\u00f6ping S:t Anna F\u00f6rsamling",
+      "orgNumber": "252004-2082",
+      "comment": "Mogata kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/soderkoping"
     },
     {
       "entry": 1232753440,
@@ -54988,6 +55150,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/viksangskyrkan"
+    },
+    {
+      "entry": 1232786523,
+      "orgName": "Gr\u00e4nge-S\u00e4fsn\u00e4s F\u00f6rsamling",
+      "orgNumber": "252004-2520",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/grange-safsnas"
     },
     {
       "entry": 1232786812,
@@ -57168,6 +57340,17 @@
         "yoga"
       ],
       "web": "https://healingrummet.webnode.se/"
+    },
+    {
+      "entry": 1232896694,
+      "orgName": "RPG Sollentuna",
+      "orgNumber": "814801-1466",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpgsollentuna.se/"
     },
     {
       "entry": 1232898815,
@@ -61833,6 +62016,17 @@
       "web": "https://backaryd.se/"
     },
     {
+      "entry": 1233157088,
+      "orgName": "RPG Ume\u00e5",
+      "orgNumber": "802453-0704",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://www.rpg.org.se/foreningsprogram/vasterbotten/"
+    },
+    {
       "entry": 1233157427,
       "orgName": "Trelleborgs Scoutk\u00e5r",
       "orgNumber": "847000-2059",
@@ -62835,6 +63029,16 @@
         "restaurant"
       ],
       "web": "https://ringstromsrestaurang.se/"
+    },
+    {
+      "entry": 1233217627,
+      "orgName": "S\u00f6derk\u00f6ping S:t Anna F\u00f6rsamling",
+      "orgNumber": "252004-2082",
+      "comment": "Sk\u00f6nberga kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/soderkoping"
     },
     {
       "entry": 1233217890,
@@ -70708,6 +70912,17 @@
       "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
+      "entry": 1233609450,
+      "orgName": "RPG Eksj\u00f6",
+      "orgNumber": "802439-7179",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://www.rpg-smaland-oland.se/rpg-smaland-oland/extern/eksjo.htm"
+    },
+    {
       "entry": 1233609765,
       "orgName": "Sverige Runt AB",
       "orgNumber": "556898-9254",
@@ -74563,6 +74778,17 @@
       "web": "https://www.monsunen.se/"
     },
     {
+      "entry": 1233841285,
+      "orgName": "RPG Gamla Uppsala",
+      "orgNumber": "817605-5799",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg.org.se/kontakt/norra-svealand/"
+    },
+    {
       "entry": 1233841657,
       "orgName": "\u00d6desh\u00f6gs Kenneklubb",
       "orgNumber": "823000-8206",
@@ -75952,6 +76178,16 @@
       "web": "https://www.svenskakyrkan.se/hjarnarp-tastarp"
     },
     {
+      "entry": 1233898855,
+      "orgName": "S\u00f6derk\u00f6ping S:t Anna F\u00f6rsamling",
+      "orgNumber": "252004-2082",
+      "comment": "S:t Anna stora kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/soderkoping"
+    },
+    {
       "entry": 1233898962,
       "orgName": "Br\u00f6stcancerf\u00f6reningen \u00d6rnsk\u00f6ldsvik",
       "orgNumber": "802422-6634",
@@ -77001,6 +77237,16 @@
       "web": "https://www.laget.se/kungalvsbowlingklubb/"
     },
     {
+      "entry": 1233952421,
+      "orgName": "Ljungby Pastorat",
+      "orgNumber": "252003-8775",
+      "comment": "Lokalhyra/kyrkresa",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby"
+    },
+    {
       "entry": 1233952850,
       "orgName": "Lions Club Sundbyberg",
       "orgNumber": "802456-3762",
@@ -77065,6 +77311,16 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://hallbysok.se/"
+    },
+    {
+      "entry": 1233955945,
+      "orgName": "S\u00f6derk\u00f6ping S:t Anna F\u00f6rsamling",
+      "orgNumber": "252004-2082",
+      "comment": "S:t Anna gamla kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/soderkoping"
     },
     {
       "entry": 1233956000,
@@ -78256,6 +78512,16 @@
         "politiskt parti"
       ],
       "web": "https://www.medborgerligsamling.se/"
+    },
+    {
+      "entry": 1234029187,
+      "orgName": "S\u00f6derk\u00f6ping S:t Anna F\u00f6rsamling",
+      "orgNumber": "252004-2082",
+      "comment": "B\u00f6rrums kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/soderkoping"
     },
     {
       "entry": 1234029435,
@@ -80034,6 +80300,17 @@
       "web": "https://www.laget.se/Fjugesta_IF/"
     },
     {
+      "entry": 1234138954,
+      "orgName": "RPG Sk\u00e5ne-Blekinge Distriktet",
+      "orgNumber": "802472-0297",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg.org.se/foreningsprogram/skane-blekinge/"
+    },
+    {
       "entry": 1234142709,
       "orgName": "\u00d6sthammars Shotokan Karateklubb",
       "orgNumber": "802449-5585",
@@ -80579,6 +80856,16 @@
         "korpenf\u00f6rening"
       ],
       "web": "https://korpenaseda.webnode.se/home/"
+    },
+    {
+      "entry": 1234181111,
+      "orgName": "S\u00f6derk\u00f6ping S:t Anna F\u00f6rsamling",
+      "orgNumber": "252004-2082",
+      "comment": "Sk\u00e4llviks kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/soderkoping"
     },
     {
       "entry": 1234181277,
@@ -81783,6 +82070,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://gamlalund.se/"
+    },
+    {
+      "entry": 1234228201,
+      "orgName": "Equmeniakyrkan Skeda",
+      "orgNumber": "822000-3886",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.kyrktorget.se/equmeniakyrkan.skeda"
     },
     {
       "entry": 1234228268,
@@ -83314,7 +83611,8 @@
       "orgNumber": "802501-8188",
       "comment": null,
       "categories": [
-        "pension\u00e4rsklubb"
+        "pension\u00e4rsklubb",
+        "religion"
       ],
       "web": "https://rpg.org.se/foreningsprogram/sodra-norrland/"
     },
@@ -90512,6 +90810,16 @@
       "web": "https://www.svenskakyrkan.se/stigtomta-vrena"
     },
     {
+      "entry": 1234713152,
+      "orgName": "Gr\u00e4nge-S\u00e4fsn\u00e4s F\u00f6rsamling",
+      "orgNumber": "252004-2520",
+      "comment": "Kyrkans Prydande",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/grange-safsnas"
+    },
+    {
       "entry": 1234713376,
       "orgName": "Elektra Bio i V\u00e4ster\u00e5s, Folkets Bio",
       "orgNumber": "878001-3580",
@@ -93499,6 +93807,16 @@
       "web": "https://jonkoping.kfum.se/"
     },
     {
+      "entry": 1234945762,
+      "orgName": "S\u00f6derk\u00f6ping S:t Anna F\u00f6rsamling",
+      "orgNumber": "252004-2082",
+      "comment": "S:t Laurentii kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/soderkoping"
+    },
+    {
       "entry": 1234946059,
       "orgName": "Astma- och Allergif\u00f6rbundet",
       "orgNumber": "802005-7512",
@@ -94128,6 +94446,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234975314,
+      "orgName": "RPG Fiskeb\u00e4ck \u00d6nnered",
+      "orgNumber": "802493-9566",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg.org.se/foreningsprogram/vastkusten/"
     },
     {
       "entry": 1234977526,
@@ -96225,6 +96554,16 @@
         "golfklubb"
       ],
       "web": "https://www.trosagk.se/"
+    },
+    {
+      "entry": 1235102561,
+      "orgName": "Vist F\u00f6rsamling",
+      "orgNumber": "252000-3878",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vistvardnas"
     },
     {
       "entry": 1235102843,
@@ -101234,6 +101573,17 @@
       "web": "https://www.konsthalltornedalen.se/"
     },
     {
+      "entry": 1235330766,
+      "orgName": "RPG Karlskrona",
+      "orgNumber": "802452-4996",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg-karlskrona.se/"
+    },
+    {
       "entry": 1235330808,
       "orgName": "Osby Sims\u00e4llskap",
       "orgNumber": "837000-6416",
@@ -102945,7 +103295,7 @@
       "entry": 1235407457,
       "orgName": "Vr\u00e5 F\u00f6rsamling",
       "orgNumber": "252000-6970",
-      "comment": null,
+      "comment": "\u00d6vrigt",
       "categories": [
         "religion"
       ],
@@ -104075,6 +104425,16 @@
         "hamnf\u00f6rening"
       ],
       "web": "https://www.framnashamnen.se/"
+    },
+    {
+      "entry": 1235458039,
+      "orgName": "V\u00e5rdn\u00e4s F\u00f6rsamling",
+      "orgNumber": "252000-3886",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vistvardnas"
     },
     {
       "entry": 1235458328,
@@ -107730,6 +108090,16 @@
       "web": "https://www.svenskalag.se/alundaibf"
     },
     {
+      "entry": 1235636840,
+      "orgName": "Gr\u00e4nge-S\u00e4fsn\u00e4s F\u00f6rsamling",
+      "orgNumber": "252004-2520",
+      "comment": "Deltagaravgifter/K\u00f6p",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/grange-safsnas"
+    },
+    {
       "entry": 1235637327,
       "orgName": "Stenkumla Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "734000-4030",
@@ -109136,7 +109506,7 @@
       "entry": 1235706478,
       "orgName": "B\u00e5stad-\u00d6stra Karups F\u00f6rsamling",
       "orgNumber": "252004-1902",
-      "comment": null,
+      "comment": "\u00d6stra Karup Kollekt",
       "categories": [
         "religion"
       ],
@@ -112341,6 +112711,16 @@
       "web": "https://www.korpen.se/korpenvannas"
     },
     {
+      "entry": 1235892492,
+      "orgName": "Bj\u00f6rnekulla-V\u00e4stra Broby F\u00f6rsamling",
+      "orgNumber": "252002-7737",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/bjornekulla"
+    },
+    {
       "entry": 1235893359,
       "orgName": "\u00c5mots SK - Skidor",
       "orgNumber": "802465-4074",
@@ -113006,6 +113386,16 @@
         "linedanceklubb"
       ],
       "web": "http://fireonline.se/"
+    },
+    {
+      "entry": 1235930631,
+      "orgName": "Gr\u00e4nge-S\u00e4fsn\u00e4s F\u00f6rsamling",
+      "orgNumber": "252004-2520",
+      "comment": "G\u00e5va till Diakoniarbete",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/grange-safsnas"
     },
     {
       "entry": 1235931118,
@@ -116236,7 +116626,8 @@
       "orgNumber": "802537-4508",
       "comment": null,
       "categories": [
-        "pension\u00e4rsklubb"
+        "pension\u00e4rsklubb",
+        "religion"
       ],
       "web": "https://www.norrmalmskyrkan.se/senior/"
     },
@@ -120042,6 +120433,17 @@
       "web": "http://www.gavlesim.se/"
     },
     {
+      "entry": 1236288369,
+      "orgName": "RPG \u00d6stern\u00e4rke",
+      "orgNumber": "802441-0931",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg.org.se/foreningsprogram/orebro-varmland/"
+    },
+    {
       "entry": 1236288633,
       "orgName": "VidaScouter - Equmenia Vidablickskyrkan",
       "orgNumber": "825001-2500",
@@ -122760,7 +123162,8 @@
       "orgNumber": "802443-5607",
       "comment": null,
       "categories": [
-        "pension\u00e4rsklubb"
+        "pension\u00e4rsklubb",
+        "religion"
       ],
       "web": "https://www.rpg-smaland-oland.se/rpg-smaland-oland/extern/habo-mullsjo.htm"
     },
@@ -123977,7 +124380,8 @@
       "orgNumber": "829001-5075",
       "comment": null,
       "categories": [
-        "pension\u00e4rsklubb"
+        "pension\u00e4rsklubb",
+        "religion"
       ],
       "web": "https://www.ljungbyrpg.se/"
     },
@@ -124428,6 +124832,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/Laxa-IF/"
+    },
+    {
+      "entry": 1236534069,
+      "orgName": "RPG \u00d6rnsk\u00f6ldsvik",
+      "orgNumber": "802499-5402",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://rpg.org.se/foreningsprogram/sodra-norrland/"
     },
     {
       "entry": 1236534275,
@@ -125017,6 +125432,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/ljungby/vra-forsamling"
+    },
+    {
+      "entry": 1236570188,
+      "orgName": "Ljungby Pastorat",
+      "orgNumber": "252003-8775",
+      "comment": "Begravningsmuseet i Ljungby",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ljungby"
     },
     {
       "entry": 1236570337,
@@ -126815,7 +127240,8 @@
       "orgNumber": "802453-0704",
       "comment": null,
       "categories": [
-        "pension\u00e4rsklubb"
+        "pension\u00e4rsklubb",
+        "religion"
       ],
       "web": "https://www.rpg.org.se/foreningsprogram/vasterbotten/"
     },
@@ -127035,6 +127461,16 @@
         "golfklubb"
       ],
       "web": "https://www.golfuppsala.se/"
+    },
+    {
+      "entry": 1236686232,
+      "orgName": "Bj\u00f6rnekulla-V\u00e4stra Broby F\u00f6rsamling",
+      "orgNumber": "252002-7737",
+      "comment": "G\u00e5va till Act",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/bjornekulla"
     },
     {
       "entry": 1236686604,
@@ -132849,6 +133285,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/IKTun/"
+    },
+    {
+      "entry": 1236983134,
+      "orgName": "PRG Abrahamsbergskyrkans Senoirer",
+      "orgNumber": "802545-5307",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb",
+        "religion"
+      ],
+      "web": "https://abrahamsbergskyrkan.se/abrahamsbergskyrkans-seniorer-abrasenior/"
     },
     {
       "entry": 1236985543,
