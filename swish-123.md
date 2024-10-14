@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-13-rev-190252
+Revision: 2024-10-14-rev-133701
 
-Nummer: 12721
+Nummer: 12773
 
 
 
@@ -1930,6 +1930,11 @@ Nummer: 12721
 **Ask4Life / Anna Sundkvist Kräutner**
 
     123 100 87 62
+
+
+**Asker-Lännäs Församling**
+
+    123 401 21 75
 
 
 **Askersunds Brukshundklubb**
@@ -9517,6 +9522,11 @@ Nummer: 12721
     123 165 72 61
 
 
+**Enånger-Njutångers Församling**
+
+    123 189 95 09
+
+
 **Enångers Bygdegårdsförening**
 
     123 612 31 94
@@ -14917,6 +14927,11 @@ Nummer: 12721
     123 299 31 37
 
 
+**Grava Församling**
+
+    123 219 43 97
+
+
 **Grava Jaktskytteklubb**
 
     123 372 27 17
@@ -18680,6 +18695,11 @@ Nummer: 12721
     123 452 48 80
 
 
+**Hällstads Församling**
+
+    123 686 81 03
+
+
 **Hälsingborgs Jaktskytteklubb**
 
     123 196 28 28
@@ -19269,6 +19289,11 @@ Nummer: 12721
 **Hörvikens IF**
 
     123 029 42 07
+
+
+**Hössna Församling**
+
+    123 158 38 30
 
 
 **Hössna IF**
@@ -24376,7 +24401,7 @@ Nummer: 12721
 
 **Kramfors Pastorat**
 
-    123 271 73 95
+    123 271 73 95 - Bjärtrå, Dal, Styrnäs, Torsåker
 
 
 **KRIF Hockey**
@@ -25985,6 +26010,23 @@ Nummer: 12721
 **Landvetter Fotboll**
 
     123 290 98 51
+
+
+**Landvetter-Härryda Pastorat**
+
+    123 122 34 45 - Övrigt
+
+    123 122 34 52 - Dopkollekt
+
+    123 147 73 14 - Insamling
+
+    123 337 19 86 - Evenemang
+
+    123 476 26 62 - Prästgården
+
+    123 561 47 30 - Uthyrning
+
+    123 593 53 17 - Kollekt
 
 
 **Landvetter Ryttarsällskap**
@@ -28651,6 +28693,13 @@ Nummer: 12721
     123 163 99 05
 
 
+**Löftadalens Pastorat**
+
+    123 651 17 78 - Landa kyrkas bokbord
+
+    123 691 60 19 - S:t Lars kyrka
+
+
 **Lönneberga-Silverdalens NSF-Scoutkår**
 
     123 516 02 62
@@ -29210,6 +29259,19 @@ Nummer: 12721
 **Mariestads Enduroklubb**
 
     123 352 57 14
+
+
+**Mariestads Församling**
+
+    123 100 88 95 - ACT Svenska kyrkan
+
+    123 105 16 97 - Kollekt
+
+    123 275 96 29 - Café Maria
+
+    123 304 77 68 - Kyrkshopen
+
+    123 593 62 73 - Diakonifonden
 
 
 **Mariestads Golfklubb**
@@ -31727,7 +31789,21 @@ Nummer: 12721
 
 **Norra Gotlands Pastorat**
 
+    123 006 19 45 - Othem-Boge församling
+
     123 029 78 20 - Kollekt
+
+    123 079 45 78 - Bunge-Rute-Fleringe församling
+
+    123 114 88 73 - Fårö församling
+
+    123 288 70 24 - Stenkyrka församling
+
+    123 326 36 47 - Väskinde församling
+
+    123 514 42 74 - Forsa församling
+
+    123 553 17 36 - Gothem församling
 
 
 **Norra Hallands Konstförening**
@@ -33634,7 +33710,9 @@ Nummer: 12721
 
 **Perstorps Församling**
 
-    123 668 95 25
+    123 170 39 58 - Övrigt, Gåvor
+
+    123 668 95 25 - Kollekt
 
 
 **Persåsens Skid och KK - Kälksport**
@@ -36093,6 +36171,11 @@ Nummer: 12721
     123 135 58 82
 
 
+**Redvägs Församling**
+
+    123 639 60 22
+
+
 **Reformisterna / S-Föreningen SEPRIU**
 
     123 650 04 74
@@ -36835,6 +36918,14 @@ Nummer: 12721
     123 036 83 73
 
     123 048 47 58
+
+    123 475 75 30 - Rommele kyrka
+
+    123 536 10 43 - Upphärads kyrka
+
+    123 607 60 79 - Sopplunch, Bokbord, Fairtrade
+
+    123 683 41 21 - Fors kyrka
 
 
 **Ronald McDonald Hus Lund**
@@ -42491,6 +42582,15 @@ Nummer: 12721
     123 033 61 72
 
 
+**Spånga-Kista Församling**
+
+    123 036 93 89 - Kollekt Spånga kyrka
+
+    123 467 39 68 - Övrigt, Gåvor
+
+    123 680 29 79 - Kollekt Kista kyrka
+
+
 **Spårvägen Cykelförening**
 
     123 077 14 44
@@ -45606,6 +45706,15 @@ Nummer: 12721
     123 385 11 85 - HBE (Hopp för barn i Etiopien)
 
 
+**Svenska kyrkan på Orust**
+
+    123 098 42 78 - Diakoni på Orust
+
+    123 113 11 35 - Kyrkkaffe och gemenskapsluncher
+
+    123 636 56 47 - Pilgrim Orust
+
+
 **Svenska Kyrkan Teneriffa**
 
     123 609 19 20
@@ -47435,6 +47544,11 @@ Nummer: 12721
 **Södra Vi Älg- och Kronhjortsskötselområde**
 
     123 159 82 91
+
+
+**Södra Vings Församling**
+
+    123 391 14 84
 
 
 **Södra Älvsborgs & Hallands Ardennerklubb**
@@ -49473,6 +49587,11 @@ Nummer: 12721
     123 240 82 27
 
 
+**Timmele Församling**
+
+    123 306 16 37
+
+
 **Timmermansorden**
 
     123 687 02 24
@@ -51090,6 +51209,11 @@ Nummer: 12721
     123 055 46 34
 
 
+**Ulricehamns Församling**
+
+    123 404 72 05
+
+
 **Ulricehamns IF**
 
     123 269 25 98 - Skidskytte
@@ -51703,6 +51827,19 @@ Nummer: 12721
 **Uppsalas Akademiska Vinsällskap**
 
     123 303 72 72
+
+
+**Uppvidinge Pastorat**
+
+    123 196 15 49 - Kollekt Lenhovda
+
+    123 336 06 90 - Kollekt Åseda
+
+    123 520 86 73 - Kollekt Älghult
+
+    123 554 37 07 - Kollekt
+
+    123 640 99 73 - Kollekt Nottebäck
 
 
 **Upsala IF Friidrott**
@@ -53021,7 +53158,13 @@ Nummer: 12721
 
     123 175 75 33 - Gåva
 
+    123 280 12 15 - Domkyrkan
+
     123 472 99 68 - Familj till Familj
+
+    123 543 16 22 - Terra Nova kyrkan
+
+    123 593 36 92 - Visborgskyrkan
 
     123 657 19 05 - Diakonalt arbete
 
@@ -53968,7 +54111,11 @@ Nummer: 12721
 
 **Västermalms Församling**
 
-    123 264 88 89
+    123 033 68 34 - Kollekt
+
+    123 127 83 73 - ACT Svenska kyrkans internationella arbete
+
+    123 264 88 89 - Västermalm hjälper
 
 
 **Västernorrlands IdrottsHistoriska Sällskap**
@@ -56379,6 +56526,11 @@ Nummer: 12721
     123 005 35 87 - Tävling
 
     123 440 77 48 - Träning
+
+
+**Åsundens Församling**
+
+    123 639 60 14
 
 
 **Åsundens Simsällskap**
