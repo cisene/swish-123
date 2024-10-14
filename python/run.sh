@@ -19,6 +19,12 @@ python3 ./entries-to-tsv.py
 # Render XML
 python3 ./entries-to-xml.py
 
+# Render Markdown
+python3 ./entries-to-markdown.py
+
+
+# Render PDF from MD
+pandoc --pdf-engine=pdfroff --toc-depth=1 ../swish-123.md -o ../swish-123.pdf
 
 # Add to git
 git add ../yaml/entries.yaml
@@ -26,6 +32,9 @@ git add ../json/swish-123-datasource.json
 git add ../text/swish-123-datasource.csv
 git add ../text/swish-123-datasource.tsv
 git add ../xml/swish-123-datasource.xml
+
+git add ../swish-123.md
+git add ../swish-123.pdf
 
 git commit -m "Automated commit"
 
