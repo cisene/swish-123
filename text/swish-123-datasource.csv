@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-10-18-rev-194050
+# Date: 2024-10-18-rev-200213
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -312,7 +312,7 @@
 "1230183939","802003-2754","Strindbergssällskapet","https://auguststrindberg.se/","intresseförening",""
 "1230183947","885500-0173","Filadelfiaförsamlingen i Sandviken","https://www.sandvikenpingst.se/","religion",""
 "1230184119","894700-6006","Evangelisk-Luthersk Samling","https://els.nu/","religion",""
-"1230184143","818000-5012","Torshälla Golfklubb","https://www.torshallagk.se/","golfklubb",""
+"1230184143","818000-5012","Torshälla Golfklubb","https://www.torshallagk.se/","golfbana,golfklubb",""
 "1230184374","894000-1558","Sandviks IK","https://www.sandviksik.se/","idrottsförening","Medlems & Deltagaravgifter"
 "1230184531","879000-2060","Fagersta Södra IK","https://www.laget.se/FSIK/","idrottsförening,skidlöparklubb,triathlonklubb",""
 "1230184788","838200-2221","Christianstads Skyttesällskap","https://www.svenskalag.se/christianstadsskyttesallskap","skytteklubb,sportskytteklubb","Tävlingsavgifter"
@@ -4336,6 +4336,7 @@
 "1232318665","834001-9705","Föreningen Fårö Framtid","https://www.faroframtid.se/","intresseförening",""
 "1232318673","556345-8156","Billdals Blommor AB","https://www.billdalsblommor.se/","blommor,florist",""
 "1232318905","875002-4633","Örebro Hundsällskap Brukshundklubb","https://www.ohsbk.hundpoolen.nu/","brukshundsklubb,hundsport,hundsällskap",""
+"1232320109","828000-2570","Värnamo Missionsförsamling","https://missionskyrkan.org/","religion",""
 "1232324341","872000-4517","Arvika SG","https://www.svenskalag.se/arvikasg","skytteklubb,sportskytteklubb",""
 "1232324861","832000-4404","Ölands Radioamatörer, SK7RN","https://www.sk7rn.se/","radioamatörer,radioklubb",""
 "1232324937","252003-7355","Ärtemark och Bengtsfors kyrka","https://www.svenskakyrkan.se/bengtsfors","religion",""
@@ -6652,6 +6653,7 @@
 "1233636057","915600-2363","Friluftsfrämjandet","https://www.friluftsframjandet.se/sodertalje","friluftsliv","Södertälje lokalavdelning"
 "1233638194","716404-8121","Södra Kvarnåkershamns Samfällighetsförening","https://www.kvarnakershamn.se/","samfällighetsförening",""
 "1233644002","819001-5084","SPF Seniorerna Gnestabygden","https://www.spfseniorerna.se/distrikt/sormland/foreningslista/gnestabygden/","pensionärsklubb",""
+"1233644309","828000-3115","Värnamo Alliansförsamling","https://varnamoallians.se/","religion","Hjärta för barn"
 "1233645272","802478-3865","Insamlingsstiftelsen Bygdens Fond","https://bygdensfond.se/","intresseförening,stiftelse",""
 "1233646155","889201-6984","Njurunda Hembygdsförening","https://www.hembygd.se/njurunda","hembygdsförening",""
 "1233646262","556982-6711","HepCat AB","https://www.hepcat.se/","försäljning,kläder,profilkläder",""
@@ -12412,7 +12414,6 @@
 "1236992952","802445-9607","Förbundet Arbetarsolidaritet","https://arbetarsolidaritet.org/","förbund",""
 "1236997928","846002-5573","PRO Borgmästaregården","https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/borgmastaregarden.html","pensionärsklubb",""
 "1236997977","886500-1302","Rengsjö SK - Discgolf","https://www.rengsjosk.se/","discgolfbana,discgolfklubb","Discgolf"
-"1238605519","828000-2570","Värnamo Missionsförsamling","https://missionskyrkan.org/","religion",""
 "1239000035","802416-7192","Children Need Help","https://www.childrenneedhelp.org/","godkänd gåvomottagare,insamlingskontroll",""
 "1239000043","802007-3436","Synskadades Riksförbund","https://www.srf.nu/","godkänd gåvomottagare,insamlingskontroll",""
 "1239000068","815200-4134","Personskadeförbundet RTP","https://www.rtp.se/","insamlingskontroll,välgörenhet",""

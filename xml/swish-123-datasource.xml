@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2024-10-18-rev-194107
+Date: 2024-10-18-rev-200230
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -312,7 +312,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1230183939"><organization><number>802003-2754</number><name>Strindbergssällskapet</name></organization><comment/><categories><category type="intresseförening"/></categories><web>https://auguststrindberg.se/</web></entry>
     <entry number="1230183947"><organization><number>885500-0173</number><name>Filadelfiaförsamlingen i Sandviken</name></organization><comment/><categories><category type="religion"/></categories><web>https://www.sandvikenpingst.se/</web></entry>
     <entry number="1230184119"><organization><number>894700-6006</number><name>Evangelisk-Luthersk Samling</name></organization><comment/><categories><category type="religion"/></categories><web>https://els.nu/</web></entry>
-    <entry number="1230184143"><organization><number>818000-5012</number><name>Torshälla Golfklubb</name></organization><comment/><categories><category type="golfklubb"/></categories><web>https://www.torshallagk.se/</web></entry>
+    <entry number="1230184143"><organization><number>818000-5012</number><name>Torshälla Golfklubb</name></organization><comment/><categories><category type="golfbana"/><category type="golfklubb"/></categories><web>https://www.torshallagk.se/</web></entry>
     <entry number="1230184374"><organization><number>894000-1558</number><name>Sandviks IK</name></organization><comment>Medlems &amp; Deltagaravgifter</comment><categories><category type="idrottsförening"/></categories><web>https://www.sandviksik.se/</web></entry>
     <entry number="1230184531"><organization><number>879000-2060</number><name>Fagersta Södra IK</name></organization><comment/><categories><category type="idrottsförening"/><category type="skidlöparklubb"/><category type="triathlonklubb"/></categories><web>https://www.laget.se/FSIK/</web></entry>
     <entry number="1230184788"><organization><number>838200-2221</number><name>Christianstads Skyttesällskap</name></organization><comment>Tävlingsavgifter</comment><categories><category type="skytteklubb"/><category type="sportskytteklubb"/></categories><web>https://www.svenskalag.se/christianstadsskyttesallskap</web></entry>
@@ -4336,6 +4336,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1232318665"><organization><number>834001-9705</number><name>Föreningen Fårö Framtid</name></organization><comment/><categories><category type="intresseförening"/></categories><web>https://www.faroframtid.se/</web></entry>
     <entry number="1232318673"><organization><number>556345-8156</number><name>Billdals Blommor AB</name></organization><comment/><categories><category type="blommor"/><category type="florist"/></categories><web>https://www.billdalsblommor.se/</web></entry>
     <entry number="1232318905"><organization><number>875002-4633</number><name>Örebro Hundsällskap Brukshundklubb</name></organization><comment/><categories><category type="brukshundsklubb"/><category type="hundsport"/><category type="hundsällskap"/></categories><web>https://www.ohsbk.hundpoolen.nu/</web></entry>
+    <entry number="1232320109"><organization><number>828000-2570</number><name>Värnamo Missionsförsamling</name></organization><comment/><categories><category type="religion"/></categories><web>https://missionskyrkan.org/</web></entry>
     <entry number="1232324341"><organization><number>872000-4517</number><name>Arvika SG</name></organization><comment/><categories><category type="skytteklubb"/><category type="sportskytteklubb"/></categories><web>https://www.svenskalag.se/arvikasg</web></entry>
     <entry number="1232324861"><organization><number>832000-4404</number><name>Ölands Radioamatörer, SK7RN</name></organization><comment/><categories><category type="radioamatörer"/><category type="radioklubb"/></categories><web>https://www.sk7rn.se/</web></entry>
     <entry number="1232324937"><organization><number>252003-7355</number><name>Ärtemark och Bengtsfors kyrka</name></organization><comment/><categories><category type="religion"/></categories><web>https://www.svenskakyrkan.se/bengtsfors</web></entry>
@@ -6652,6 +6653,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1233636057"><organization><number>915600-2363</number><name>Friluftsfrämjandet</name></organization><comment>Södertälje lokalavdelning</comment><categories><category type="friluftsliv"/></categories><web>https://www.friluftsframjandet.se/sodertalje</web></entry>
     <entry number="1233638194"><organization><number>716404-8121</number><name>Södra Kvarnåkershamns Samfällighetsförening</name></organization><comment/><categories><category type="samfällighetsförening"/></categories><web>https://www.kvarnakershamn.se/</web></entry>
     <entry number="1233644002"><organization><number>819001-5084</number><name>SPF Seniorerna Gnestabygden</name></organization><comment/><categories><category type="pensionärsklubb"/></categories><web>https://www.spfseniorerna.se/distrikt/sormland/foreningslista/gnestabygden/</web></entry>
+    <entry number="1233644309"><organization><number>828000-3115</number><name>Värnamo Alliansförsamling</name></organization><comment>Hjärta för barn</comment><categories><category type="religion"/></categories><web>https://varnamoallians.se/</web></entry>
     <entry number="1233645272"><organization><number>802478-3865</number><name>Insamlingsstiftelsen Bygdens Fond</name></organization><comment/><categories><category type="intresseförening"/><category type="stiftelse"/></categories><web>https://bygdensfond.se/</web></entry>
     <entry number="1233646155"><organization><number>889201-6984</number><name>Njurunda Hembygdsförening</name></organization><comment/><categories><category type="hembygdsförening"/></categories><web>https://www.hembygd.se/njurunda</web></entry>
     <entry number="1233646262"><organization><number>556982-6711</number><name>HepCat AB</name></organization><comment/><categories><category type="försäljning"/><category type="kläder"/><category type="profilkläder"/></categories><web>https://www.hepcat.se/</web></entry>
@@ -12412,7 +12414,6 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1236992952"><organization><number>802445-9607</number><name>Förbundet Arbetarsolidaritet</name></organization><comment/><categories><category type="förbund"/></categories><web>https://arbetarsolidaritet.org/</web></entry>
     <entry number="1236997928"><organization><number>846002-5573</number><name>PRO Borgmästaregården</name></organization><comment/><categories><category type="pensionärsklubb"/></categories><web>https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/borgmastaregarden.html</web></entry>
     <entry number="1236997977"><organization><number>886500-1302</number><name>Rengsjö SK - Discgolf</name></organization><comment>Discgolf</comment><categories><category type="discgolfbana"/><category type="discgolfklubb"/></categories><web>https://www.rengsjosk.se/</web></entry>
-    <entry number="1238605519"><organization><number>828000-2570</number><name>Värnamo Missionsförsamling</name></organization><comment/><categories><category type="religion"/></categories><web>https://missionskyrkan.org/</web></entry>
     <entry number="1239000035"><organization><number>802416-7192</number><name>Children Need Help</name></organization><comment/><categories><category type="godkänd gåvomottagare"/><category type="insamlingskontroll"/></categories><web>https://www.childrenneedhelp.org/</web></entry>
     <entry number="1239000043"><organization><number>802007-3436</number><name>Synskadades Riksförbund</name></organization><comment/><categories><category type="godkänd gåvomottagare"/><category type="insamlingskontroll"/></categories><web>https://www.srf.nu/</web></entry>
     <entry number="1239000068"><organization><number>815200-4134</number><name>Personskadeförbundet RTP</name></organization><comment/><categories><category type="insamlingskontroll"/><category type="välgörenhet"/></categories><web>https://www.rtp.se/</web></entry>

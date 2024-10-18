@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-18-rev-194042",
+    "date": "2024-10-18-rev-200204",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3319,6 +3319,7 @@
       "orgNumber": "818000-5012",
       "comment": null,
       "categories": [
+        "golfbana",
         "golfklubb"
       ],
       "web": "https://www.torshallagk.se/"
@@ -47065,6 +47066,16 @@
       "web": "https://www.ohsbk.hundpoolen.nu/"
     },
     {
+      "entry": 1232320109,
+      "orgName": "V\u00e4rnamo Missionsf\u00f6rsamling",
+      "orgNumber": "828000-2570",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://missionskyrkan.org/"
+    },
+    {
       "entry": 1232324341,
       "orgName": "Arvika SG",
       "orgNumber": "872000-4517",
@@ -72243,6 +72254,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/sormland/foreningslista/gnestabygden/"
+    },
+    {
+      "entry": 1233644309,
+      "orgName": "V\u00e4rnamo Alliansf\u00f6rsamling",
+      "orgNumber": "828000-3115",
+      "comment": "Hj\u00e4rta f\u00f6r barn",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://varnamoallians.se/"
     },
     {
       "entry": 1233645272,
@@ -134971,16 +134992,6 @@
         "discgolfklubb"
       ],
       "web": "https://www.rengsjosk.se/"
-    },
-    {
-      "entry": 1238605519,
-      "orgName": "V\u00e4rnamo Missionsf\u00f6rsamling",
-      "orgNumber": "828000-2570",
-      "comment": null,
-      "categories": [
-        "religion"
-      ],
-      "web": "https://missionskyrkan.org/"
     },
     {
       "entry": 1239000035,

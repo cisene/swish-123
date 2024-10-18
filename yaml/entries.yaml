@@ -2743,6 +2743,7 @@ entries:
   orgNumber: 818000-5012
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.torshallagk.se/
 
@@ -38825,6 +38826,14 @@ entries:
   - hundsällskap
   web: https://www.ohsbk.hundpoolen.nu/
 
+- entry: 1232320109
+  orgName: Värnamo Missionsförsamling
+  orgNumber: 828000-2570
+  comment: null
+  categories:
+  - religion
+  web: https://missionskyrkan.org/
+
 - entry: 1232324341
   orgName: Arvika SG
   orgNumber: 872000-4517
@@ -59608,6 +59617,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/sormland/foreningslista/gnestabygden/
+
+- entry: 1233644309
+  orgName: Värnamo Alliansförsamling
+  orgNumber: 828000-3115
+  comment: Hjärta för barn
+  categories:
+  - religion
+  web: https://varnamoallians.se/
 
 - entry: 1233645272
   orgName: Insamlingsstiftelsen Bygdens Fond
@@ -111378,14 +111395,6 @@ entries:
   - discgolfbana
   - discgolfklubb
   web: https://www.rengsjosk.se/
-
-- entry: 1238605519
-  orgName: Värnamo Missionsförsamling
-  orgNumber: 828000-2570
-  comment: null
-  categories:
-  - religion
-  web: https://missionskyrkan.org/
 
 - entry: 1239000001
   orgName: Svensk Insamlingskontroll

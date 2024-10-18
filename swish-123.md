@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-18-rev-194116
+Revision: 2024-10-18-rev-200238
 
-Nummer: 12853
+Nummer: 12854
 
 
 
@@ -73902,6 +73902,8 @@ Nummer: 12853
 
     123 018 53 48
 
+    123 364 43 09 - Hjärta för barn
+
 
 
 
@@ -73956,9 +73958,9 @@ Nummer: 12853
 
 **Värnamo Missionsförsamling**
 
-    123 680 55 19
+    123 232 01 09
 
-    123 860 55 19
+    123 680 55 19
 
 
 
