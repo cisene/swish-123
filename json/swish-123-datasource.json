@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-18-rev-185131",
+    "date": "2024-10-18-rev-194042",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4918,9 +4918,9 @@
     },
     {
       "entry": 1230246967,
-      "orgName": "Fr\u00e4lsningsarm\u00e9n Officersskolan",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
-      "comment": null,
+      "comment": "Officersskolan",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "religion"
@@ -9324,7 +9324,7 @@
       "entry": 1230452391,
       "orgName": "Skiljebo SK",
       "orgNumber": "878000-4480",
-      "comment": "F13",
+      "comment": "F-13",
       "categories": [
         "fotbollsklubb",
         "idrottsf\u00f6rening"
@@ -17606,9 +17606,9 @@
     },
     {
       "entry": 1230867259,
-      "orgName": "Hem Ljuva Hem / Investmentbolaget LGAB Sverige AB",
+      "orgName": "Investmentbolaget LGAB Sverige AB",
       "orgNumber": "556227-9942",
-      "comment": "Prenumeration",
+      "comment": "Prenumeration Hem Ljuva Hem",
       "categories": [
         "tidsskrifter"
       ],
@@ -31462,9 +31462,9 @@
     },
     {
       "entry": 1231550813,
-      "orgName": "Fr\u00e4lsningsarm\u00e9n Karlstad",
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
-      "comment": null,
+      "comment": "Karlstad",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "religion"
@@ -31696,7 +31696,7 @@
     },
     {
       "entry": 1231557156,
-      "orgName": "EFS Evangeliska Fosterlands-stiftelsen",
+      "orgName": "EFS - Evangeliska Fosterlands-stiftelsen",
       "orgNumber": "802000-8184",
       "comment": "Afrika sv\u00e4lter",
       "categories": [
@@ -37115,9 +37115,9 @@
     },
     {
       "entry": 1231822899,
-      "orgName": "Frostvikens f\u00f6rsamling / Str\u00f6msunds Pastorat",
+      "orgName": "Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
-      "comment": null,
+      "comment": "Frostvikens f\u00f6rsamling",
       "categories": [
         "religion"
       ],
@@ -42132,9 +42132,9 @@
     },
     {
       "entry": 1232126274,
-      "orgName": "T\u00e5sj\u00f6 f\u00f6rsamling / Str\u00f6msunds Pastorat",
+      "orgName": "Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
-      "comment": null,
+      "comment": "T\u00e5sj\u00f6 f\u00f6rsamling",
       "categories": [
         "religion"
       ],
@@ -42554,9 +42554,9 @@
     },
     {
       "entry": 1232142321,
-      "orgName": "Hammerdals f\u00f6rsamling / Str\u00f6msunds Pastorat",
+      "orgName": "Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
-      "comment": null,
+      "comment": "Hammerdals f\u00f6rsamling",
       "categories": [
         "religion"
       ],
@@ -46839,9 +46839,9 @@
     },
     {
       "entry": 1232313310,
-      "orgName": "Plaza Uomo / Investmentbolaget LGAB Sverige AB",
+      "orgName": "Investmentbolaget LGAB Sverige AB",
       "orgNumber": "556227-9942",
-      "comment": "Prenumeration",
+      "comment": "Prenumeration Plaza Uomo",
       "categories": [
         "tidsskrifter"
       ],
@@ -49473,9 +49473,9 @@
     },
     {
       "entry": 1232454080,
-      "orgName": "V\u00e4ster\u00e5s IK Ungdom Team 08 (U14)",
+      "orgName": "V\u00e4ster\u00e5s IK Ungdom",
       "orgNumber": "878000-6055",
-      "comment": null,
+      "comment": "Team 08 (U14)",
       "categories": [
         "idrottsf\u00f6rening",
         "ishockeyklubb"
@@ -51088,9 +51088,9 @@
     },
     {
       "entry": 1232587244,
-      "orgName": "G\u00e5xsj\u00f6 f\u00f6rsamling / Str\u00f6msunds Pastorat",
+      "orgName": "Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
-      "comment": null,
+      "comment": "G\u00e5xsj\u00f6 f\u00f6rsamling",
       "categories": [
         "religion"
       ],
@@ -51402,9 +51402,9 @@
     },
     {
       "entry": 1232595296,
-      "orgName": "Bodums f\u00f6rsamling / Str\u00f6msunds Pastorat",
+      "orgName": "Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
-      "comment": null,
+      "comment": "Bodums f\u00f6rsamling",
       "categories": [
         "religion"
       ],
@@ -58171,9 +58171,9 @@
     },
     {
       "entry": 1232909828,
-      "orgName": "Gourmet / Investmentbolaget LGAB Sverige AB",
+      "orgName": "Investmentbolaget LGAB Sverige AB",
       "orgNumber": "556227-9942",
-      "comment": "Prenumeration",
+      "comment": "Prenumeration Gourmet",
       "categories": [
         "tidsskrifter"
       ],
@@ -71665,9 +71665,9 @@
     },
     {
       "entry": 1233617297,
-      "orgName": "Fr\u00e4lsningsarmen i Oskarshamn",
+      "orgName": "Fr\u00e4lsningsarmen",
       "orgNumber": "802006-1688",
-      "comment": null,
+      "comment": "Oskarshamn",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "religion"
@@ -80062,9 +80062,9 @@
     },
     {
       "entry": 1234090619,
-      "orgName": "V\u00e4ster\u00e5s IK Ungdom Team 09 (U13)",
+      "orgName": "V\u00e4ster\u00e5s IK Ungdom",
       "orgNumber": "878000-6055",
-      "comment": null,
+      "comment": "Team 09 (U13)",
       "categories": [
         "idrottsf\u00f6rening",
         "ishockeyklubb"
@@ -88810,9 +88810,9 @@
     },
     {
       "entry": 1234578233,
-      "orgName": "Fj\u00e4llsj\u00f6 f\u00f6rsamling / Str\u00f6msunds Pastorat",
+      "orgName": "Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
-      "comment": null,
+      "comment": "Fj\u00e4llsj\u00f6 f\u00f6rsamling",
       "categories": [
         "religion"
       ],
@@ -91844,9 +91844,9 @@
     },
     {
       "entry": 1234718631,
-      "orgName": "Plaza Interi\u00f6r / Investmentbolaget LGAB Sverige AB",
+      "orgName": "Investmentbolaget LGAB Sverige AB",
       "orgNumber": "556227-9942",
-      "comment": "Prenumeration",
+      "comment": "Prenumeration Plaza Interi\u00f6r",
       "categories": [
         "tidsskrifter"
       ],
@@ -92157,9 +92157,9 @@
     },
     {
       "entry": 1234745816,
-      "orgName": "Diakonala fonden / Str\u00f6msunds Pastorat",
+      "orgName": "Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
-      "comment": null,
+      "comment": "Diakonala fonden",
       "categories": [
         "religion"
       ],
@@ -93750,7 +93750,7 @@
     },
     {
       "entry": 1234879615,
-      "orgName": "Eskilstuna Guif",
+      "orgName": "Eskilstuna GUIF IF",
       "orgNumber": "818000-1029",
       "comment": null,
       "categories": [
@@ -94634,9 +94634,9 @@
     },
     {
       "entry": 1234943726,
-      "orgName": "Plaza Deco / Investmentbolaget LGAB Sverige AB",
+      "orgName": "Investmentbolaget LGAB Sverige AB",
       "orgNumber": "556227-9942",
-      "comment": "Prenumeration",
+      "comment": "Prenumeration Plaza Deco",
       "categories": [
         "tidsskrifter"
       ],
@@ -104066,9 +104066,9 @@
     },
     {
       "entry": 1235398029,
-      "orgName": "Plaza Magazine / Investmentbolaget LGAB Sverige AB",
+      "orgName": "Investmentbolaget LGAB Sverige AB",
       "orgNumber": "556227-9942",
-      "comment": "Prenumeration",
+      "comment": "Prenumeration Plaza Magazine",
       "categories": [
         "tidsskrifter"
       ],
@@ -104860,9 +104860,9 @@
     },
     {
       "entry": 1235437553,
-      "orgName": "Str\u00f6m-Alan\u00e4s f\u00f6rsamling / Str\u00f6msunds Pastorat",
+      "orgName": "Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
-      "comment": null,
+      "comment": "Str\u00f6m-Alan\u00e4s f\u00f6rsamling",
       "categories": [
         "religion"
       ],
@@ -106944,9 +106944,9 @@
     },
     {
       "entry": 1235535000,
-      "orgName": "Plaza Kvinna / Investmentbolaget LGAB Sverige AB",
+      "orgName": "Investmentbolaget LGAB Sverige AB",
       "orgNumber": "556227-9942",
-      "comment": "Prenumeration",
+      "comment": "Prenumeration Plaza Kvinna",
       "categories": [
         "tidsskrifter"
       ],
@@ -110306,7 +110306,7 @@
     },
     {
       "entry": 1235700174,
-      "orgName": "EFS Evangeliska Fosterlands-stiftelsen",
+      "orgName": "EFS - Evangeliska Fosterlands-stiftelsen",
       "orgNumber": "802000-8184",
       "comment": "Sverigemission",
       "categories": [
@@ -139083,7 +139083,7 @@
     },
     {
       "entry": 1239009903,
-      "orgName": "EFS Evangeliska Fosterlands-stiftelsen",
+      "orgName": "EFS - Evangeliska Fosterlands-stiftelsen",
       "orgNumber": "802000-8184",
       "comment": null,
       "categories": [

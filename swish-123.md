@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-18-rev-185204
+Revision: 2024-10-18-rev-194116
 
 Nummer: 12853
 
@@ -5398,13 +5398,6 @@ Nummer: 12853
 
 
 
-**Bodums församling / Strömsunds Pastorat**
-
-    123 259 52 96
-
-
-
-
 **Bogesunds Gård och Ridskola AB**
 
     123 599 54 93
@@ -10584,13 +10577,6 @@ Nummer: 12853
 
 
 
-**Diakonala fonden / Strömsunds Pastorat**
-
-    123 474 58 16
-
-
-
-
 **Diakonia**
 
     123 903 30 36
@@ -12029,7 +12015,7 @@ Nummer: 12853
 
 
 
-**EFS Evangeliska Fosterlands-stiftelsen**
+**EFS - Evangeliska Fosterlands-stiftelsen**
 
     123 155 71 56 - Afrika svälter
 
@@ -13787,13 +13773,6 @@ Nummer: 12853
 
 
 
-**Eskilstuna Guif**
-
-    123 487 96 15
-
-
-
-
 **Eskilstuna GUIF IF**
 
     123 033 68 26 - Garderob
@@ -13807,6 +13786,8 @@ Nummer: 12853
     123 299 06 87 - Å-loppet
 
     123 379 19 36 - Entré
+
+    123 487 96 15
 
     123 508 99 66 - Servering SSA
 
@@ -15421,13 +15402,6 @@ Nummer: 12853
 
 
 
-**Fjällsjö församling / Strömsunds Pastorat**
-
-    123 457 82 33
-
-
-
-
 **Fjällstallet / Sälenfjällets Ridklubb**
 
     123 139 07 23
@@ -16802,13 +16776,6 @@ Nummer: 12853
 
 
 
-**Frostvikens församling / Strömsunds Pastorat**
-
-    123 182 28 99
-
-
-
-
 **FRS Kungsbacka**
 
     123 090 80 12
@@ -16866,6 +16833,8 @@ Nummer: 12853
 
     123 013 45 36 - Malmö Julgrytan
 
+    123 024 69 67 - Officersskolan
+
     123 033 93 58 - Nyköping
 
     123 040 18 51 - Falun
@@ -16889,6 +16858,8 @@ Nummer: 12853
     123 122 37 75 - Visby
 
     123 147 76 78 - Trollhättan
+
+    123 155 08 13 - Karlstad
 
     123 163 56 55 - Historiska Sällskapet
 
@@ -16981,23 +16952,9 @@ Nummer: 12853
 
 
 
-**Frälsningsarmén Karlstad**
+**Frälsningsarmen**
 
-    123 155 08 13
-
-
-
-
-**Frälsningsarmén Officersskolan**
-
-    123 024 69 67
-
-
-
-
-**Frälsningsarmen i Oskarshamn**
-
-    123 361 72 97
+    123 361 72 97 - Oskarshamn
 
 
 
@@ -20463,13 +20420,6 @@ Nummer: 12853
 
 
 
-**Gourmet / Investmentbolaget LGAB Sverige AB**
-
-    123 290 98 28 - Prenumeration
-
-
-
-
 **Grafik i Väst**
 
     123 259 21 60
@@ -21776,13 +21726,6 @@ Nummer: 12853
 
 
 
-**Gåxsjö församling / Strömsunds Pastorat**
-
-    123 258 72 44
-
-
-
-
 **Gödestads Hembygdsförening**
 
     123 419 42 13
@@ -22538,13 +22481,6 @@ Nummer: 12853
 **Hammenhögs IF**
 
     123 527 30 32
-
-
-
-
-**Hammerdals församling / Strömsunds Pastorat**
-
-    123 214 23 21
 
 
 
@@ -23742,13 +23678,6 @@ Nummer: 12853
 **HelsingPadel**
 
     123 498 02 07
-
-
-
-
-**Hem Ljuva Hem / Investmentbolaget LGAB Sverige AB**
-
-    123 086 72 59 - Prenumeration
 
 
 
@@ -29360,6 +29289,25 @@ Nummer: 12853
 **Intressegruppen för Assistansberättigade, IfA**
 
     123 558 96 35
+
+
+
+
+**Investmentbolaget LGAB Sverige AB**
+
+    123 086 72 59 - Prenumeration Hem Ljuva Hem
+
+    123 231 33 10 - Prenumeration Plaza Uomo
+
+    123 290 98 28 - Prenumeration Gourmet
+
+    123 471 86 31 - Prenumeration Plaza Interiör
+
+    123 494 37 26 - Prenumeration Plaza Deco
+
+    123 539 80 29 - Prenumeration Plaza Magazine
+
+    123 553 50 00 - Prenumeration Plaza Kvinna
 
 
 
@@ -47421,41 +47369,6 @@ Nummer: 12853
 
 
 
-**Plaza Deco / Investmentbolaget LGAB Sverige AB**
-
-    123 494 37 26 - Prenumeration
-
-
-
-
-**Plaza Interiör / Investmentbolaget LGAB Sverige AB**
-
-    123 471 86 31 - Prenumeration
-
-
-
-
-**Plaza Kvinna / Investmentbolaget LGAB Sverige AB**
-
-    123 553 50 00 - Prenumeration
-
-
-
-
-**Plaza Magazine / Investmentbolaget LGAB Sverige AB**
-
-    123 539 80 29 - Prenumeration
-
-
-
-
-**Plaza Uomo / Investmentbolaget LGAB Sverige AB**
-
-    123 231 33 10 - Prenumeration
-
-
-
-
 **Plexus Vänner**
 
     123 236 34 22
@@ -55344,7 +55257,7 @@ Nummer: 12853
 
 **Skiljebo SK**
 
-    123 045 23 91 - F13
+    123 045 23 91 - F-13
 
     123 197 19 93
 
@@ -61280,13 +61193,6 @@ Nummer: 12853
 
 
 
-**Ström-Alanäs församling / Strömsunds Pastorat**
-
-    123 543 75 53
-
-
-
-
 **Strömkarlens Karateklubb**
 
     123 223 15 38
@@ -61390,6 +61296,27 @@ Nummer: 12853
 **Strömsunds Brukshundklubb, SBHK**
 
     123 040 59 85
+
+
+
+
+**Strömsunds Pastorat**
+
+    123 182 28 99 - Frostvikens församling
+
+    123 212 62 74 - Tåsjö församling
+
+    123 214 23 21 - Hammerdals församling
+
+    123 258 72 44 - Gåxsjö församling
+
+    123 259 52 96 - Bodums församling
+
+    123 457 82 33 - Fjällsjö församling
+
+    123 474 58 16 - Diakonala fonden
+
+    123 543 75 53 - Ström-Alanäs församling
 
 
 
@@ -70036,13 +69963,6 @@ Nummer: 12853
 
 
 
-**Tåsjö församling / Strömsunds Pastorat**
-
-    123 212 62 74
-
-
-
-
 **Tåsjö IF**
 
     123 085 15 84
@@ -74584,25 +74504,15 @@ Nummer: 12853
 
 **Västerås IK Ungdom**
 
+    123 245 40 80 - Team 08 (U14)
+
+    123 409 06 19 - Team 09 (U13)
+
     123 432 63 93 - Team 14 (U 11)
 
     123 510 56 55 - Team 11 (U14)
 
     123 613 97 45
-
-
-
-
-**Västerås IK Ungdom Team 08 (U14)**
-
-    123 245 40 80
-
-
-
-
-**Västerås IK Ungdom Team 09 (U13)**
-
-    123 409 06 19
 
 
 
