@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-14-rev-133701
+Revision: 2024-10-18-rev-185204
 
-Nummer: 12773
+Nummer: 12853
 
 
 
@@ -17,9 +17,13 @@ Nummer: 12773
     123 512 20 56
 
 
+
+
 **1 2 3 SCHTUNK Aktiebolag**
 
     123 212 67 79
+
+
 
 
 **1,6 Miljonerklubben**
@@ -27,9 +31,13 @@ Nummer: 12773
     123 338 49 89
 
 
+
+
 **1GYM Sweden AB**
 
     123 029 94 38
+
+
 
 
 
@@ -41,14 +49,20 @@ Nummer: 12773
     123 649 35 22
 
 
+
+
 **24meter AB**
 
     123 426 34 71
 
 
+
+
 **2HelpingHands**
 
     123 165 68 26
+
+
 
 
 
@@ -60,9 +74,13 @@ Nummer: 12773
     123 350 22 75
 
 
+
+
 **3vallare / Anna Larsson**
 
     123 252 75 13
+
+
 
 
 
@@ -76,11 +94,15 @@ Nummer: 12773
 
 
 
+
+
 ## Š
 
 **Širi Dobro - Sverige**
 
     123 601 43 36
+
+
 
 
 
@@ -94,6 +116,8 @@ Nummer: 12773
 
 
 
+
+
 ## A
 
 **A Demand For Action**
@@ -101,9 +125,13 @@ Nummer: 12773
     123 545 72 70
 
 
+
+
 **A World of Friends**
 
     123 901 23 29
+
+
 
 
 **AB Kiropraktorerna Vejlo**
@@ -111,9 +139,13 @@ Nummer: 12773
     123 311 70 41
 
 
+
+
 **AB Svensk Discsport**
 
     123 396 88 23
+
+
 
 
 **AB Örnen Och Kråkan**
@@ -121,9 +153,13 @@ Nummer: 12773
     123 148 55 56
 
 
+
+
 **ABB Bridge Klubb**
 
     123 561 42 68
+
+
 
 
 **ABB:s Pensionärsklubb Ludvika**
@@ -131,9 +167,13 @@ Nummer: 12773
     123 172 43 19
 
 
+
+
 **Abbekås Byalag**
 
     123 590 38 02
+
+
 
 
 **Abbekås Båtklubb**
@@ -141,9 +181,13 @@ Nummer: 12773
     123 133 10 81
 
 
+
+
 **ABC Aktiva Insatser för Människa och Miljö**
 
     123 681 48 42
+
+
 
 
 **ABCD Budokai Sverige**
@@ -151,9 +195,13 @@ Nummer: 12773
     123 089 83 38
 
 
+
+
 **ABF Fotoklubb**
 
     123 033 65 60
+
+
 
 
 **ABF Malmö**
@@ -161,9 +209,13 @@ Nummer: 12773
     123 148 56 06
 
 
+
+
 **Abisko Intresseförening**
 
     123 514 91 82
+
+
 
 
 **ABLE Foundation**
@@ -171,9 +223,13 @@ Nummer: 12773
     123 673 79 28
 
 
+
+
 **Ably Cicada Catering AB**
 
     123 422 05 21
+
+
 
 
 **Abrahamsbergskyrkan**
@@ -181,9 +237,13 @@ Nummer: 12773
     123 030 03 84
 
 
+
+
 **AbSolut Kattklubb**
 
     123 390 16 59
+
+
 
 
 **Accent Språkservice / Nordic Accent Translation AB**
@@ -191,9 +251,13 @@ Nummer: 12773
     123 470 27 42
 
 
+
+
 **Acem-Sverige**
 
     123 379 52 42
+
+
 
 
 **ACIF**
@@ -201,9 +265,13 @@ Nummer: 12773
     123 269 42 63
 
 
+
+
 **Acting For Change**
 
     123 440 70 78
+
+
 
 
 **Action10**
@@ -211,9 +279,13 @@ Nummer: 12773
     123 496 80 20
 
 
+
+
 **Action Aid International Sweden**
 
     123 900 08 37
+
+
 
 
 **Action For Humanity**
@@ -221,9 +293,13 @@ Nummer: 12773
     123 420 62 80
 
 
+
+
 **Action Reaction Sports AB**
 
     123 067 88 88
+
+
 
 
 **Active Fysio Matilda Hellman AB**
@@ -231,9 +307,13 @@ Nummer: 12773
     123 319 16 81
 
 
+
+
 **AD-Konsult / Tomas Hell**
 
     123 289 02 26
+
+
 
 
 **AD-Teknik AB**
@@ -241,9 +321,13 @@ Nummer: 12773
     123 699 11 45
 
 
+
+
 **ADA-Hundar En Andra Chans**
 
     123 207 23 12
+
+
 
 
 **ADAS United**
@@ -251,9 +335,13 @@ Nummer: 12773
     123 115 91 93
 
 
+
+
 **Adelsö Hembygdslag**
 
     123 387 84 36
+
+
 
 
 **Adelsö IF**
@@ -261,9 +349,13 @@ Nummer: 12773
     123 483 65 65
 
 
+
+
 **Adolfsbergs IK**
 
     123 512 56 38 - P2012
+
+
 
 
 **ADRA Sverige, Adventist Development and Relief Agency**
@@ -271,14 +363,20 @@ Nummer: 12773
     123 900 72 12
 
 
+
+
 **Adria Club Syd**
 
     123 373 25 67
 
 
+
+
 **Adrianas Danshus AB**
 
     123 240 93 57
+
+
 
 
 **Adventisterna i Lund**
@@ -288,9 +386,13 @@ Nummer: 12773
     123 162 41 54
 
 
+
+
 **Adventistförsamlingen i Stockholm**
 
     123 470 40 11
+
+
 
 
 **Adventkyrkan i Delsbo**
@@ -298,9 +400,13 @@ Nummer: 12773
     123 529 87 32
 
 
+
+
 **Adventkyrkan i Göteborg**
 
     123 561 41 36
+
+
 
 
 **Adventkyrkan i Kalmar**
@@ -308,9 +414,13 @@ Nummer: 12773
     123 319 49 33
 
 
+
+
 **Adventkyrkan i Linköping**
 
     123 138 81 64
+
+
 
 
 **Adventkyrkan i Malmö**
@@ -318,9 +428,13 @@ Nummer: 12773
     123 526 66 97
 
 
+
+
 **Advokatbyrå Z & Co**
 
     123 401 16 31
+
+
 
 
 **Advokatbyrån Advocatum AB**
@@ -328,9 +442,13 @@ Nummer: 12773
     123 407 82 18
 
 
+
+
 **Advokatbyrån Jenny Persdotter**
 
     123 687 68 33
+
+
 
 
 **Advokatbyrån Mats Cederqvist**
@@ -338,9 +456,13 @@ Nummer: 12773
     123 502 54 32
 
 
+
+
 **Advokatfirman INTER AB**
 
     123 406 26 34
+
+
 
 
 **Advokatfirman Nodby AB**
@@ -348,9 +470,13 @@ Nummer: 12773
     123 253 24 55
 
 
+
+
 **Aerotech Telub Fritid Arboga**
 
     123 383 65 90
+
+
 
 
 **Afasiförbundet i Sverige**
@@ -360,9 +486,13 @@ Nummer: 12773
     123 576 32 71 - Afasifonden
 
 
+
+
 **Afasiföreningen i Malmö med omnejd**
 
     123 513 53 89
+
+
 
 
 **AFiCoN Produktion AB**
@@ -370,9 +500,13 @@ Nummer: 12773
     123 134 21 95
 
 
+
+
 **Afrikagrupperna**
 
     123 900 33 77
+
+
 
 
 **Afrogarden**
@@ -380,9 +514,13 @@ Nummer: 12773
     123 024 44 26
 
 
+
+
 **AFS Interkultur Sverige**
 
     123 578 85 67
+
+
 
 
 **Aftonstjärnans Kulturförening**
@@ -390,14 +528,20 @@ Nummer: 12773
     123 614 35 23
 
 
+
+
 **Aga BTK - Bordtennis**
 
     123 411 63 64
 
 
+
+
 **Agapes Vänner i Uddevalla, Munkedal, Tanum**
 
     123 669 52 41
+
+
 
 
 **Agera Kvinnojour**
@@ -407,9 +551,13 @@ Nummer: 12773
     123 452 52 75
 
 
+
+
 **Agersta Islandshästcenter AB**
 
     123 694 17 36
+
+
 
 
 **AIK Amerikansk Fotboll**
@@ -417,9 +565,13 @@ Nummer: 12773
     123 538 31 61
 
 
+
+
 **AIK Atlas**
 
     123 544 79 09
+
+
 
 
 **AIK Fotboll**
@@ -427,9 +579,13 @@ Nummer: 12773
     123 018 26 18
 
 
+
+
 **AIK Friidrott**
 
     123 442 00 06
+
+
 
 
 **AIK Handboll**
@@ -437,9 +593,13 @@ Nummer: 12773
     123 329 55 81
 
 
+
+
 **AIK Innebandy**
 
     123 265 68 41
+
+
 
 
 **AIK Ishockey**
@@ -447,9 +607,13 @@ Nummer: 12773
     123 120 93 03
 
 
+
+
 **AIK Ishockey**
 
     123 427 56 08
+
+
 
 
 **AIK-Tifo**
@@ -463,9 +627,13 @@ Nummer: 12773
     123 574 81 16 - SOL INVICTUS
 
 
+
+
 **AIK-Tifo**
 
     123 147 58 13 - Black Ladies
+
+
 
 
 **Aikido Dojo Gamlestaden**
@@ -473,14 +641,20 @@ Nummer: 12773
     123 161 71 09
 
 
+
+
 **Aisha Center**
 
     123 689 96 03
 
 
+
+
 **Aizhans Massage & Hälsa / Aizhan Henrysson**
 
     123 016 53 73
+
+
 
 
 **AjaBajaCancer**
@@ -490,9 +664,13 @@ Nummer: 12773
     123 900 75 92
 
 
+
+
 **Ajna Retreat / Johanna Bandmann**
 
     123 352 06 08
+
+
 
 
 **AK Stockholmsatleterna**
@@ -500,9 +678,13 @@ Nummer: 12773
     123 575 26 88
 
 
+
+
 **Akademikerförbundet SSR**
 
     123 594 85 00
+
+
 
 
 **Akademiska Roddföreningen**
@@ -510,9 +692,13 @@ Nummer: 12773
     123 175 68 08
 
 
+
+
 **Akeauktioner**
 
     123 225 16 84
+
+
 
 
 **Akhuwat Sweden**
@@ -520,9 +706,13 @@ Nummer: 12773
     123 500 06 25
 
 
+
+
 **AKS Taxi Västra Skåne**
 
     123 217 73 76
+
+
 
 
 **Aktiespararnas Ledningsgrupp**
@@ -530,9 +720,13 @@ Nummer: 12773
     123 238 30 81
 
 
+
+
 **Aktiva Seniorer Alingsås**
 
     123 140 25 51
+
+
 
 
 **Aktiva Seniorer Arboga**
@@ -540,9 +734,13 @@ Nummer: 12773
     123 415 11 55
 
 
+
+
 **Aktiva Seniorer Borås**
 
     123 202 89 75
+
+
 
 
 **Aktiva Seniorer Eskilstuna**
@@ -550,9 +748,13 @@ Nummer: 12773
     123 353 43 36
 
 
+
+
 **Aktiva Seniorer Gislaved**
 
     123 007 39 08
+
+
 
 
 **Aktiva Seniorer Gävle**
@@ -560,9 +762,13 @@ Nummer: 12773
     123 357 10 23
 
 
+
+
 **Aktiva Seniorer Hisingen**
 
     123 191 65 76
+
+
 
 
 **Aktiva Seniorer Kungsbacka**
@@ -570,9 +776,13 @@ Nummer: 12773
     123 019 07 02
 
 
+
+
 **Aktiva Seniorer Köping**
 
     123 626 06 40
+
+
 
 
 **Aktiva Seniorer Lerum**
@@ -580,9 +790,13 @@ Nummer: 12773
     123 422 87 63
 
 
+
+
 **Aktiva Seniorer Linköping**
 
     123 342 29 95
+
+
 
 
 **Aktiva Seniorer Luleå**
@@ -590,9 +804,13 @@ Nummer: 12773
     123 118 87 96
 
 
+
+
 **Aktiva Seniorer Mariestad**
 
     123 260 16 07
+
+
 
 
 **Aktiva Seniorer Nora**
@@ -600,9 +818,13 @@ Nummer: 12773
     123 242 99 83
 
 
+
+
 **Aktiva Seniorer Nyköping & Oxelösund**
 
     123 462 93 90
+
+
 
 
 **Aktiva Seniorer Skellefteå**
@@ -610,9 +832,13 @@ Nummer: 12773
     123 104 12 35
 
 
+
+
 **Aktiva Seniorer Sundsvall**
 
     123 081 58 45
+
+
 
 
 **Aktiva Seniorer Trollhättan**
@@ -620,9 +846,13 @@ Nummer: 12773
     123 225 61 21
 
 
+
+
 **Aktiva Seniorer Umeå**
 
     123 030 85 93
+
+
 
 
 **Aktiva Seniorer Visby**
@@ -630,9 +860,13 @@ Nummer: 12773
     123 044 18 65
 
 
+
+
 **Aktiva Seniorer Vänersborg**
 
     123 632 82 80
+
+
 
 
 **Aktiva Seniorer Värnamo**
@@ -640,9 +874,13 @@ Nummer: 12773
     123 526 45 10
 
 
+
+
 **Aktiva Seniorer Växjö**
 
     123 240 28 65
+
+
 
 
 **Aktiva Seniorer Ystad**
@@ -650,9 +888,13 @@ Nummer: 12773
     123 635 80 48
 
 
+
+
 **Aktiva Seniorer Örnsköldsvik**
 
     123 159 67 17
+
+
 
 
 **Aktivt närvarande / Heléne Hellman**
@@ -660,14 +902,20 @@ Nummer: 12773
     123 135 72 01
 
 
+
+
 **Akutgruppen**
 
     123 693 17 29
 
 
+
+
 **Al-Anon Familjegrupper i Sverige**
 
     123 083 58 84
+
+
 
 
 **Al-Rashideen Moské i Gävle**
@@ -677,9 +925,13 @@ Nummer: 12773
     123 197 92 28
 
 
+
+
 **Al-Siweedi bilservice**
 
     123 162 52 68
+
+
 
 
 **Ala IF**
@@ -687,9 +939,13 @@ Nummer: 12773
     123 331 08 77
 
 
+
+
 **Alami Kampsport Akademi IF**
 
     123 080 69 92
+
+
 
 
 **Albertz Racing & Hobby**
@@ -697,9 +953,13 @@ Nummer: 12773
     123 129 78 11
 
 
+
+
 **Albo Härads Hembygdsförening**
 
     123 445 46 25
+
+
 
 
 **Albo Ridklubb**
@@ -707,9 +967,13 @@ Nummer: 12773
     123 123 62 72
 
 
+
+
 **Alby IF**
 
     123 227 13 10
+
+
 
 
 **Alby SnöSkoterklubb**
@@ -717,9 +981,13 @@ Nummer: 12773
     123 116 79 31
 
 
+
+
 **Aldrig Ensam**
 
     123 222 80 39
+
+
 
 
 **Ale Basket**
@@ -727,9 +995,13 @@ Nummer: 12773
     123 631 58 32
 
 
+
+
 **Ale GK**
 
     123 193 07 59 - Juniorverksamhet
+
+
 
 
 **Ale Golfklubb**
@@ -737,9 +1009,13 @@ Nummer: 12773
     123 485 29 76
 
 
+
+
 **Ale-Jennylunds RK - Ridsport**
 
     123 198 17 60
+
+
 
 
 **Ale Ponnyranch AB**
@@ -747,9 +1023,13 @@ Nummer: 12773
     123 318 88 85
 
 
+
+
 **Ale-Skövdeortens Bygdegårdsförening**
 
     123 621 85 98
+
+
 
 
 **Alealiber IF**
@@ -757,9 +1037,13 @@ Nummer: 12773
     123 177 82 08
 
 
+
+
 **ALEF, Adult Learning and Empowerment Faciliators**
 
     123 900 21 71
+
+
 
 
 **Alemana DK**
@@ -767,9 +1051,13 @@ Nummer: 12773
     123 204 25 70
 
 
+
+
 **Alets IK**
 
     123 351 53 92
+
+
 
 
 **Alfazulu Group / Andreas Zetterlund Social Enterprise Group**
@@ -777,9 +1065,13 @@ Nummer: 12773
     123 322 03 73
 
 
+
+
 **Alfhild Agrell-sällskapet**
 
     123 649 48 50
+
+
 
 
 **Alfta-Edsbyns Golfklubb**
@@ -787,14 +1079,20 @@ Nummer: 12773
     123 690 20 19
 
 
+
+
 **Alfta GIF Handboll**
 
     123 106 87 41
 
 
+
+
 **Alfta IBK**
 
     123 303 43 52
+
+
 
 
 **Alfta-Ovanåkers Församling**
@@ -804,9 +1102,13 @@ Nummer: 12773
     123 535 81 97
 
 
+
+
 **Alfvéngårdens vänner**
 
     123 386 90 54
+
+
 
 
 **Alingsås Bågskytteklubb**
@@ -814,9 +1116,13 @@ Nummer: 12773
     123 041 67 84
 
 
+
+
 **Alingsås CF**
 
     123 089 90 96
+
+
 
 
 **Alingsås Fotoklubb**
@@ -832,9 +1138,13 @@ Nummer: 12773
     123 678 31 04 - Tävlingar
 
 
+
+
 **Alingsås Frivilliga Skarpskytteförening**
 
     123 237 45 02
+
+
 
 
 **Alingsås Fäktklubb**
@@ -842,14 +1152,20 @@ Nummer: 12773
     123 678 47 22
 
 
+
+
 **Alingsås IF**
 
     123 351 67 62
 
 
+
+
 **Alingsås Ju-Jutsuklubb**
 
     123 120 93 60
+
+
 
 
 **Alingsås Karateklubb**
@@ -861,9 +1177,13 @@ Nummer: 12773
     123 447 19 59 - Träningsutrustning och material
 
 
+
+
 **Alingsås Klätterklubb, AKK**
 
     123 019 96 38
+
+
 
 
 **Alingsås Konståkningsklubb**
@@ -871,9 +1191,13 @@ Nummer: 12773
     123 421 82 85
 
 
+
+
 **Alingsås Krav Maga IF**
 
     123 005 51 94
+
+
 
 
 **Alingsås Padel Club**
@@ -881,9 +1205,13 @@ Nummer: 12773
     123 661 19 58
 
 
+
+
 **Alingsås Rygg & Idrottsklinik AB**
 
     123 676 39 73
+
+
 
 
 **Alingsås Ryttarsällskap**
@@ -891,9 +1219,13 @@ Nummer: 12773
     123 263 91 77
 
 
+
+
 **Alingsås Sjöscoutkår**
 
     123 036 65 91
+
+
 
 
 **Alingsås Sportsclub**
@@ -901,14 +1233,20 @@ Nummer: 12773
     123 012 33 31
 
 
+
+
 **Alingsås Volleybollklubb**
 
     123 680 28 13
 
 
+
+
 **Alingsås VSK**
 
     123 470 05 48
+
+
 
 
 **Alingsås Vårgårda Discgolf**
@@ -918,9 +1256,13 @@ Nummer: 12773
     123 510 46 41 - tävlingsavgifter
 
 
+
+
 **Alingsåsortens Jaktskytteförening**
 
     123 281 01 33
+
+
 
 
 **Alivio Massageterapi / Anette Ling**
@@ -928,9 +1270,13 @@ Nummer: 12773
     123 504 61 31
 
 
+
+
 **Allégårdens Pensionärsförening**
 
     123 559 74 55
+
+
 
 
 **Allekyrkans Församling**
@@ -938,9 +1284,13 @@ Nummer: 12773
     123 580 91 16
 
 
+
+
 **Allerum Golfklubb**
 
     123 055 30 99
+
+
 
 
 **Allerums GIF**
@@ -948,9 +1298,13 @@ Nummer: 12773
     123 172 13 64
 
 
+
+
 **Alliansföreningen Ljungskilegården**
 
     123 648 97 10
+
+
 
 
 **Alliansförsamlingen Aneby**
@@ -958,9 +1312,13 @@ Nummer: 12773
     123 283 83 16
 
 
+
+
 **Allianskyrkan i Västerås**
 
     123 304 82 04
+
+
 
 
 **Allianskyrkan i Älta**
@@ -968,9 +1326,13 @@ Nummer: 12773
     123 553 13 30
 
 
+
+
 **Allianskyrkan i Ölmstad**
 
     123 113 75 46
+
+
 
 
 **Allianskyrkan Jönköping**
@@ -978,9 +1340,13 @@ Nummer: 12773
     123 174 23 60
 
 
+
+
 **Allmogens Norden AB**
 
     123 258 97 29
+
+
 
 
 **Allmänna Försvarsföreningen**
@@ -988,9 +1354,13 @@ Nummer: 12773
     123 465 66 41
 
 
+
+
 **Alltid Sedd**
 
     123 689 67 08
+
+
 
 
 **Alma Löv Museum**
@@ -998,9 +1368,13 @@ Nummer: 12773
     123 170 55 24
 
 
+
+
 **Almby Församling**
 
     123 148 26 94
+
+
 
 
 **Almedals Körskola & Trafikskola Göteborg / Mani Samei**
@@ -1008,14 +1382,20 @@ Nummer: 12773
     123 432 72 35
 
 
+
+
 **Almena Tours AB**
 
     123 089 06 08
 
 
+
+
 **Almo BK**
 
     123 082 08 11
+
+
 
 
 **Almundsryds Församling**
@@ -1025,9 +1405,13 @@ Nummer: 12773
     123 691 80 64 - Kollekt
 
 
+
+
 **Almundsryds Hembygdsförening**
 
     123 068 47 61
+
+
 
 
 **Alnarps Tennisklubb**
@@ -1035,9 +1419,13 @@ Nummer: 12773
     123 050 51 07
 
 
+
+
 **Alnö BC**
 
     123 551 07 55
+
+
 
 
 **Alnö Båtklubb**
@@ -1045,9 +1433,13 @@ Nummer: 12773
     123 199 78 81
 
 
+
+
 **Alnö Hembygdsförening**
 
     123 263 12 99
+
+
 
 
 **Alnö IF**
@@ -1075,9 +1467,13 @@ Nummer: 12773
     123 695 56 45
 
 
+
+
 **Alnö SK**
 
     123 007 67 86
+
+
 
 
 **Alpacka Koncept / Dittoo AB**
@@ -1085,9 +1481,13 @@ Nummer: 12773
     123 044 49 84
 
 
+
+
 **Alpha & Omega School InsamlingsStiftelse**
 
     123 232 52 31
+
+
 
 
 **Alsens Bygdegårdsförening**
@@ -1095,9 +1495,13 @@ Nummer: 12773
     123 158 85 08
 
 
+
+
 **Alsike IF**
 
     123 620 91 00
+
+
 
 
 **Alsterbro IF**
@@ -1105,9 +1509,13 @@ Nummer: 12773
     123 201 04 45
 
 
+
+
 **Alsters Sockens Hembygdsförening**
 
     123 000 93 57
+
+
 
 
 **Alternativ för Sverige**
@@ -1115,14 +1523,20 @@ Nummer: 12773
     123 483 20 69
 
 
+
+
 **Alunda IBF**
 
     123 563 68 24
 
 
+
+
 **Alunda SK**
 
     123 684 86 91
+
+
 
 
 **Alva, Hemse och Rone Församling**
@@ -1132,9 +1546,13 @@ Nummer: 12773
     123 583 02 78 - Kollekt
 
 
+
+
 **Alvastraryttarna Föreningen - Ridsport**
 
     123 580 88 52
+
+
 
 
 **Alvesta GK**
@@ -1142,14 +1560,20 @@ Nummer: 12773
     123 082 11 32
 
 
+
+
 **Alvesta Ridklubb**
 
     123 633 37 93
 
 
+
+
 **Alvesta Simsällskap**
 
     123 378 22 24
+
+
 
 
 **Alvesta SK**
@@ -1159,9 +1583,13 @@ Nummer: 12773
     123 324 45 71 - Supporterspelaren
 
 
+
+
 **Alvesta SOK - Skidor**
 
     123 071 43 78
+
+
 
 
 **Alvikstorpet**
@@ -1169,9 +1597,13 @@ Nummer: 12773
     123 394 03 84
 
 
+
+
 **Alzheimer Sverige**
 
     123 270 06 31
+
+
 
 
 **AMAL Sweden / Amal Express Ekonomisk Förening**
@@ -1179,9 +1611,13 @@ Nummer: 12773
     123 611 17 44
 
 
+
+
 **Amalthea Bokkafé / Amalthea Studieförening**
 
     123 120 47 91
+
+
 
 
 **Amandas Hus**
@@ -1189,9 +1625,13 @@ Nummer: 12773
     123 567 46 43
 
 
+
+
 **Amazon Watch Sverige**
 
     123 900 54 22
+
+
 
 
 **Ambjörnarps Bygdegårdsförening**
@@ -1199,9 +1639,13 @@ Nummer: 12773
     123 170 32 06
 
 
+
+
 **American Akita Klubb Sverige**
 
     123 667 82 62
+
+
 
 
 **Amigos Mios**
@@ -1209,9 +1653,13 @@ Nummer: 12773
     123 045 17 65
 
 
+
+
 **AMK Morgon / AMK Studios AB**
 
     123 646 20 06
+
+
 
 
 **Ammarnäs Idrottsförening**
@@ -1219,9 +1667,13 @@ Nummer: 12773
     123 079 52 52
 
 
+
+
 **Amnesty International, Svenska sektionen**
 
     123 900 07 20
+
+
 
 
 **Amnesty Sápmi**
@@ -1229,9 +1681,13 @@ Nummer: 12773
     123 335 74 56
 
 
+
+
 **Amningshjälpen**
 
     123 115 58 11
+
+
 
 
 **Amo handbollsklubb**
@@ -1241,9 +1697,13 @@ Nummer: 12773
     123 357 95 13
 
 
+
+
 **Amrit Yoga / Jessica Eklöf**
 
     123 262 02 92
+
+
 
 
 **Amundöns Båtklubb**
@@ -1251,9 +1711,13 @@ Nummer: 12773
     123 042 04 14
 
 
+
+
 **Anders Andersson Text & Konsult AB**
 
     123 258 11 89
+
+
 
 
 **Anders Olsson Golf AB**
@@ -1261,14 +1725,20 @@ Nummer: 12773
     123 187 31 16
 
 
+
+
 **Anderssons Begravningsbyrå**
 
     123 345 19 78
 
 
+
+
 **Anderstorp Racing Club, ARC**
 
     123 680 06 50
+
+
 
 
 **Anderstorps Församling**
@@ -1278,9 +1748,13 @@ Nummer: 12773
     123 668 73 62 - Kollekt
 
 
+
+
 **Anderstorps IF**
 
     123 562 85 57
+
+
 
 
 **Anderstorps OK**
@@ -1288,9 +1762,13 @@ Nummer: 12773
     123 494 10 27
 
 
+
+
 **Anderstorps SK**
 
     123 452 83 03
+
+
 
 
 **Anderstorps Skytteförening**
@@ -1298,9 +1776,13 @@ Nummer: 12773
     123 162 80 80
 
 
+
+
 **Anderstorps SS**
 
     123 114 64 97
+
+
 
 
 **Andras Novak instrumentmakare AB**
@@ -1308,9 +1790,13 @@ Nummer: 12773
     123 661 33 68
 
 
+
+
 **Andreas Lindahl AB**
 
     123 312 62 65
+
+
 
 
 **Andreasförsamlingen**
@@ -1318,9 +1804,13 @@ Nummer: 12773
     123 056 91 11
 
 
+
+
 **Andrew Petersonsällskapet**
 
     123 081 66 94
+
+
 
 
 **Andrins Hälsa / Karin Backensved**
@@ -1328,9 +1818,13 @@ Nummer: 12773
     123 077 15 84
 
 
+
+
 **Aneby Baptistförsamling**
 
     123 589 72 93
+
+
 
 
 **Aneby Bibliotek / Aneby Kommun**
@@ -1338,11 +1832,15 @@ Nummer: 12773
     123 001 95 21
 
 
+
+
 **Aneby SK**
 
     123 173 90 51 - A-lag herr
 
     123 419 46 19
+
+
 
 
 **Angel Island Army, AIA**
@@ -1354,6 +1852,8 @@ Nummer: 12773
     123 589 00 82 - Souvenirer
 
 
+
+
 **Angelstads Församling**
 
     123 189 68 28
@@ -1363,9 +1863,13 @@ Nummer: 12773
     123 378 43 45 - Bokbord
 
 
+
+
 **Angered Folkhögskola**
 
     123 602 69 75
+
+
 
 
 **Angered Marieholm Boll och Idrottsklubb**
@@ -1373,9 +1877,13 @@ Nummer: 12773
     123 563 89 45
 
 
+
+
 **Angered SK**
 
     123 570 67 59
+
+
 
 
 **Angereds Atletiska Förening**
@@ -1383,9 +1891,13 @@ Nummer: 12773
     123 038 58 98
 
 
+
+
 **Angereds Brukshundklubb**
 
     123 383 57 33
+
+
 
 
 **Angereds IS**
@@ -1393,9 +1905,13 @@ Nummer: 12773
     123 538 36 82
 
 
+
+
 **Anheden Släktforskning**
 
     123 572 66 82
+
+
 
 
 **Anhörigas Riksförbund**
@@ -1405,9 +1921,13 @@ Nummer: 12773
     123 900 64 53
 
 
+
+
 **Anhörigföreningen Göteborg**
 
     123 131 99 12
+
+
 
 
 **Animal Protection Network (APN)**
@@ -1415,9 +1935,13 @@ Nummer: 12773
     123 466 56 75
 
 
+
+
 **Animals H.O.P.E.**
 
     123 253 59 12 - Fågelcentralen
+
+
 
 
 **Anklams Distansryttarsällskap**
@@ -1425,9 +1949,13 @@ Nummer: 12773
     123 030 29 50
 
 
+
+
 **Anna Fahlgren / Anna Åhlgren / GoMobile nu AB**
 
     123 424 84 80
+
+
 
 
 **Anna Redin Yoga / Anna Redin**
@@ -1435,9 +1963,13 @@ Nummer: 12773
     123 594 36 59
 
 
+
+
 **Anna Rydstedt-sällskapet**
 
     123 092 74 42
+
+
 
 
 **Annas Veranda / Anna Jakobsson**
@@ -1445,9 +1977,13 @@ Nummer: 12773
     123 257 96 96
 
 
+
+
 **Anne-Marie Berglund-Sällskapet**
 
     123 621 94 71
+
+
 
 
 **Anneberg Solberga Flisby Missionsförsamlingar**
@@ -1455,9 +1991,13 @@ Nummer: 12773
     123 629 54 63
 
 
+
+
 **Annebergs GIF**
 
     123 274 00 58
+
+
 
 
 **Annebergs IF**
@@ -1465,9 +2005,13 @@ Nummer: 12773
     123 032 36 59
 
 
+
+
 **Annelis Hundtjänst / Anneli Johansson**
 
     123 304 85 50
+
+
 
 
 **Annelunds IF**
@@ -1479,6 +2023,8 @@ Nummer: 12773
     123 570 02 73 - Ungdomssektion
 
 
+
+
 **Annerstads Församling**
 
     123 271 05 56 - Kollekt
@@ -1486,9 +2032,13 @@ Nummer: 12773
     123 512 75 92
 
 
+
+
 **Annikas Mediala och Kreativa Center / Annika Vikingsson**
 
     123 083 59 83
+
+
 
 
 **AnnonsMarknan / Markbladet AB**
@@ -1496,9 +2046,13 @@ Nummer: 12773
     123 159 02 31
 
 
+
+
 **Anomar Förlag AB**
 
     123 646 37 07
+
+
 
 
 **Ansgariikyrkans Församling**
@@ -1508,9 +2062,13 @@ Nummer: 12773
     123 587 11 65 - Servering, kyrkkaffe
 
 
+
+
 **Ansgarsförsamlingen i Västerås**
 
     123 272 17 44
+
+
 
 
 **Antens Gammaldansare**
@@ -1518,9 +2076,13 @@ Nummer: 12773
     123 651 56 39
 
 
+
+
 **Antes Knivsliperi AB**
 
     123 570 43 41
+
+
 
 
 **Antifa / Föreningen Fånggruppen**
@@ -1528,14 +2090,20 @@ Nummer: 12773
     123 091 64 45
 
 
+
+
 **Antik & Antikvariat Tranan / Monica Holmén**
 
     123 312 99 39
 
 
+
+
 **Antroposofiska Sällskapet**
 
     123 499 13 86
+
+
 
 
 **Anundsjö Församlning**
@@ -1551,9 +2119,13 @@ Nummer: 12773
     123 662 64 51 - Diakoni
 
 
+
+
 **AP Häst AB**
 
     123 512 80 87
+
+
 
 
 **Apelvikshöjds kyrka**
@@ -1561,9 +2133,13 @@ Nummer: 12773
     123 355 82 10
 
 
+
+
 **Apelviksstrand**
 
     123 000 87 97
+
+
 
 
 **Apladalens Löparklubb**
@@ -1571,9 +2147,13 @@ Nummer: 12773
     123 105 22 32
 
 
+
+
 **Apollon Solna FK**
 
     123 332 68 24
+
+
 
 
 **Apostle Meheret Mercy / Last Bell International Church**
@@ -1581,9 +2161,13 @@ Nummer: 12773
     123 103 50 21
 
 
+
+
 **Apotek Hjärtat AB**
 
     123 555 77 80 - Ukraina-insamling
+
+
 
 
 **Apotekets konstförening**
@@ -1591,9 +2175,13 @@ Nummer: 12773
     123 383 57 09
 
 
+
+
 **Appalosa Föreningen i Sverige**
 
     123 129 06 91
+
+
 
 
 **Appeal Advokatbyrå AB**
@@ -1601,9 +2189,13 @@ Nummer: 12773
     123 334 94 20
 
 
+
+
 **Aqua Spa i Skellefteå AB**
 
     123 516 39 10
+
+
 
 
 **Aqvakul Aktiv Ungdom**
@@ -1611,9 +2203,13 @@ Nummer: 12773
     123 694 87 72
 
 
+
+
 **Araslövs Församling**
 
     123 538 19 91
+
+
 
 
 **Arbetarnas Kulturhistoriska Sällskap, AKS**
@@ -1621,9 +2217,13 @@ Nummer: 12773
     123 230 88 98
 
 
+
+
 **Arbetarpartiet**
 
     123 059 55 61
+
+
 
 
 **Arbetarrörelsens hyllnings- och blomsterfond i Jämtland**
@@ -1631,9 +2231,13 @@ Nummer: 12773
     123 542 70 42
 
 
+
+
 **Arbetskraftförmedlingen**
 
     123 308 88 46
+
+
 
 
 **Arboga AK**
@@ -1641,9 +2245,13 @@ Nummer: 12773
     123 123 42 36
 
 
+
+
 **Arboga Folkets Park**
 
     123 287 38 42
+
+
 
 
 **Arboga GF**
@@ -1651,14 +2259,20 @@ Nummer: 12773
     123 322 89 96
 
 
+
+
 **Arboga Musikförening**
 
     123 456 67 58
 
 
+
+
 **Arboga Ryttarsällskap**
 
     123 107 74 45
+
+
 
 
 **Arboga SK**
@@ -1668,9 +2282,13 @@ Nummer: 12773
     123 184 05 78
 
 
+
+
 **Arboga Södra IF**
 
     123 587 06 13
+
+
 
 
 **Arbogabygdens Församling**
@@ -1694,9 +2312,13 @@ Nummer: 12773
     123 671 26 40 - Svenska kyrkans internationella arbete
 
 
+
+
 **Arbrå Hembygds- och Fornminnesförening**
 
     123 114 16 88
+
+
 
 
 **Archives For the Unexplained, AFU / Stiftelsen Arkivet för det Oförklarade**
@@ -1704,14 +2326,20 @@ Nummer: 12773
     123 585 43 69
 
 
+
+
 **Ardennerklubben Sydost**
 
     123 508 44 13
 
 
+
+
 **Arentorp Helås FK**
 
     123 001 86 71
+
+
 
 
 **Arilds Byalag**
@@ -1727,9 +2355,13 @@ Nummer: 12773
     123 514 14 03 - Övriga evenemang
 
 
+
+
 **Arjeplogs Brukshundsklubb**
 
     123 344 94 10
+
+
 
 
 **ArkDes Vänner**
@@ -1737,9 +2369,13 @@ Nummer: 12773
     123 386 03 68
 
 
+
+
 **Arkelstorps Scoutkår KFUK-KFUM**
 
     123 501 07 56
+
+
 
 
 **Arlanda MC - Motorcykel och Snöskoter**
@@ -1747,9 +2383,13 @@ Nummer: 12773
     123 344 21 75
 
 
+
+
 **Arlövs Motor Club**
 
     123 147 85 36
+
+
 
 
 **Armeniska Riksförbundet i Sverige (ARS)**
@@ -1757,9 +2397,13 @@ Nummer: 12773
     123 324 47 79
 
 
+
+
 **Armeniska United FK**
 
     123 402 97 40
+
+
 
 
 **Armystuff / Norrbottens Skogsteknik Handelsbolag**
@@ -1767,9 +2411,13 @@ Nummer: 12773
     123 533 48 18
 
 
+
+
 **ARNA - Art and Nature**
 
     123 176 11 54
+
+
 
 
 **Arnäs IF**
@@ -1777,9 +2425,13 @@ Nummer: 12773
     123 308 84 57
 
 
+
+
 **Arnäs Trädgårdsförening**
 
     123 006 54 25
+
+
 
 
 **Aros Basket**
@@ -1787,9 +2439,13 @@ Nummer: 12773
     123 106 80 97
 
 
+
+
 **Aros Catering**
 
     123 123 28 75
+
+
 
 
 **Aros Ice Cream**
@@ -1797,9 +2453,13 @@ Nummer: 12773
     123 437 38 33
 
 
+
+
 **Arsenal FC Official Supporters Club Sweden**
 
     123 609 81 72
+
+
 
 
 **Art of Rhythm.Sweden / Sophie Aronsson**
@@ -1807,9 +2467,13 @@ Nummer: 12773
     123 467 15 33
 
 
+
+
 **Artie**
 
     123 145 28 04
+
+
 
 
 **Artikel 2 - Peace and Sustainability**
@@ -1817,9 +2481,13 @@ Nummer: 12773
     123 900 39 71
 
 
+
+
 **Arvidsjaurs Golfklubb**
 
     123 148 09 04
+
+
 
 
 **Arvidsjaurs Hembygdsförening**
@@ -1827,9 +2495,13 @@ Nummer: 12773
     123 449 28 07
 
 
+
+
 **Arvika BMK - Badminton**
 
     123 568 54 58
+
+
 
 
 **Arvika Bordtennisklubb**
@@ -1837,9 +2509,13 @@ Nummer: 12773
     123 264 78 57
 
 
+
+
 **Arvika BS**
 
     123 071 62 66
+
+
 
 
 **Arvika Flygklubb**
@@ -1847,9 +2523,13 @@ Nummer: 12773
     123 645 46 23 - Bränsle-köp
 
 
+
+
 **Arvika Golfklubb**
 
     123 657 13 43
+
+
 
 
 **Arvika HK**
@@ -1857,9 +2537,13 @@ Nummer: 12773
     123 086 95 86
 
 
+
+
 **Arvika IBF**
 
     123 170 64 07
+
+
 
 
 **Arvika Idrottscenter AB**
@@ -1867,9 +2551,13 @@ Nummer: 12773
     123 583 63 66
 
 
+
+
 **Arvika Jaktskytteklubb**
 
     123 269 72 41
+
+
 
 
 **Arvika Motorbåtsklubb, AMBK**
@@ -1877,9 +2565,13 @@ Nummer: 12773
     123 567 93 94
 
 
+
+
 **Arvika Padelsällskap**
 
     123 210 91 55
+
+
 
 
 **Arvika Ridklubb**
@@ -1887,9 +2579,13 @@ Nummer: 12773
     123 079 85 46
 
 
+
+
 **Arvika SG**
 
     123 232 43 41
+
+
 
 
 **Arvika Simsällskap**
@@ -1897,9 +2593,13 @@ Nummer: 12773
     123 453 52 66
 
 
+
+
 **Arvika SS**
 
     123 680 00 72
+
+
 
 
 **Asarums IF FK**
@@ -1907,9 +2607,13 @@ Nummer: 12773
     123 249 44 33
 
 
+
+
 **Asarums MS**
 
     123 495 37 17
+
+
 
 
 **Ashtanga Yoga Center / Anita Westlund**
@@ -1917,9 +2621,13 @@ Nummer: 12773
     123 470 64 87
 
 
+
+
 **AshtangaYoga Gävle / Viktoria Sandberg**
 
     123 335 61 69
+
+
 
 
 **Asia Restaurang Arlöv / Kim Tuán Anh Nguyén**
@@ -1927,9 +2635,13 @@ Nummer: 12773
     123 153 82 55
 
 
+
+
 **Ask4Life / Anna Sundkvist Kräutner**
 
     123 100 87 62
+
+
 
 
 **Asker-Lännäs Församling**
@@ -1937,9 +2649,13 @@ Nummer: 12773
     123 401 21 75
 
 
+
+
 **Askersunds Brukshundklubb**
 
     123 560 01 19
+
+
 
 
 **Askersunds Gymnastikförening**
@@ -1947,9 +2663,13 @@ Nummer: 12773
     123 658 00 13
 
 
+
+
 **Askersunds IBK**
 
     123 346 77 27
+
+
 
 
 **Askeryds Hembygdsförening**
@@ -1957,9 +2677,13 @@ Nummer: 12773
     123 269 04 77
 
 
+
+
 **Askims bastu**
 
     123 661 61 89
+
+
 
 
 **Askims Sjöscoutkår**
@@ -1967,9 +2691,13 @@ Nummer: 12773
     123 137 85 87
 
 
+
+
 **Asklanda-Ornunga Missionsförsamling**
 
     123 170 71 73
+
+
 
 
 **Askunga Dovvilt / Peter Widebrant**
@@ -1977,9 +2705,13 @@ Nummer: 12773
     123 249 09 93
 
 
+
+
 **Asmundtorps IF**
 
     123 512 40 03
+
+
 
 
 **Ason Outdoor AB**
@@ -1987,9 +2719,13 @@ Nummer: 12773
     123 119 22 28
 
 
+
+
 **Aspeboda Foundation For Children**
 
     123 098 27 10
+
+
 
 
 **Aspeboda Hembygdsförening**
@@ -1997,9 +2733,13 @@ Nummer: 12773
     123 148 53 41
 
 
+
+
 **Aspeboda Ridklubb - Ridsport**
 
     123 344 53 35
+
+
 
 
 **Aspelands Musikförening**
@@ -2007,9 +2747,13 @@ Nummer: 12773
     123 347 47 56
 
 
+
+
 **Aspnäskyrkan / Järfälla Pingstförsamling**
 
     123 588 51 08
+
+
 
 
 **Aspås Hembygdsförening**
@@ -2017,9 +2761,13 @@ Nummer: 12773
     123 105 65 63
 
 
+
+
 **Assistanskoll / Independent Living Institute, ILI**
 
     123 191 01 40
+
+
 
 
 **Assoraya / Kicki Jörgensen**
@@ -2027,9 +2775,13 @@ Nummer: 12773
     123 142 82 34
 
 
+
+
 **Assyrier utan Gränser**
 
     123 900 12 15
+
+
 
 
 **Assyriska BK**
@@ -2037,9 +2789,13 @@ Nummer: 12773
     123 161 26 13
 
 
+
+
 **Assyriska IK**
 
     123 539 87 71
+
+
 
 
 **Astma- och Allergiförbundet**
@@ -2051,14 +2807,20 @@ Nummer: 12773
     123 900 93 25 - Blomsterfonden
 
 
+
+
 **Astrid Lindgren-Sällskapet**
 
     123 412 61 65
 
 
+
+
 **Astrid Lindgrens Hembygd**
 
     123 085 87 38
+
+
 
 
 **Astronomisk Ungdom, AU**
@@ -2068,9 +2830,13 @@ Nummer: 12773
     123 618 43 60
 
 
+
+
 **Astronomiska Sällskapet Tycho Brahe**
 
     123 148 23 30
+
+
 
 
 **Asylgruppen i Malmö**
@@ -2078,9 +2844,13 @@ Nummer: 12773
     123 451 31 15
 
 
+
+
 **Asylrättscentrum**
 
     123 900 57 94
+
+
 
 
 **at Kungsholmen AB**
@@ -2088,9 +2858,13 @@ Nummer: 12773
     123 529 60 41
 
 
+
+
 **Ateljé Backman / Anette Backman**
 
     123 297 56 88
+
+
 
 
 **Atlas Copco Pistolskytteklubb, ACPK**
@@ -2098,9 +2872,13 @@ Nummer: 12773
     123 208 94 49
 
 
+
+
 **Atomer och Bitar AB**
 
     123 284 50 71 - Bakom kulisserna
+
+
 
 
 **Atracco AB**
@@ -2108,9 +2886,13 @@ Nummer: 12773
     123 502 46 58
 
 
+
+
 **Atracco Group AB**
 
     123 050 20 62
+
+
 
 
 **Atracco Valla / Atracco Group AB**
@@ -2118,9 +2900,13 @@ Nummer: 12773
     123 085 68 49
 
 
+
+
 **Atracco Växjö**
 
     123 179 19 04
+
+
 
 
 **Atrium Ideell Förening**
@@ -2128,9 +2914,13 @@ Nummer: 12773
     123 259 07 43
 
 
+
+
 **ATSUB - Föreningen Anhöriga till sexuellt utnyttjade barn**
 
     123 694 62 14
+
+
 
 
 **ATSUB/Göteborg - Föreningen Anhöriga Till Sexuellt Utnyttjade Barn Och Ungdomar**
@@ -2138,9 +2928,13 @@ Nummer: 12773
     123 018 21 88
 
 
+
+
 **Attention Jämtland-Härjedalen**
 
     123 209 66 18
+
+
 
 
 **ATTENTION Västerås**
@@ -2148,9 +2942,13 @@ Nummer: 12773
     123 451 32 97
 
 
+
+
 **Attila RG**
 
     123 082 01 42
+
+
 
 
 **Attunda Orienteringsklubb**
@@ -2158,9 +2956,13 @@ Nummer: 12773
     123 510 14 56
 
 
+
+
 **Audiorama**
 
     123 405 55 05
+
+
 
 
 **Augustas Bed & Breakfast**
@@ -2168,9 +2970,13 @@ Nummer: 12773
     123 470 47 22
 
 
+
+
 **Aulis Hästsportklubb, AHSK**
 
     123 416 51 71
+
+
 
 
 **Austria Travel Sweden AB**
@@ -2178,9 +2984,13 @@ Nummer: 12773
     123 105 26 87
 
 
+
+
 **Ausås Bygdegårdsförening**
 
     123 539 27 17
+
+
 
 
 **Ausås Scoutkår**
@@ -2188,9 +2998,13 @@ Nummer: 12773
     123 618 63 32
 
 
+
+
 **Autism & Aspergerföreningen Värmland**
 
     123 259 58 90
+
+
 
 
 **Autism- och Aspergerföreningen Dalarna**
@@ -2198,9 +3012,13 @@ Nummer: 12773
     123 537 07 62
 
 
+
+
 **Autism- och Aspergerföreningen Skåne**
 
     123 115 27 01
+
+
 
 
 **Autism- och Aspergerföreningen Stockholms län**
@@ -2208,9 +3026,13 @@ Nummer: 12773
     123 464 26 82
 
 
+
+
 **Autism- och Aspergerföreningen Västerbotten**
 
     123 526 63 90
+
+
 
 
 **Autism- och Aspergerföreningen Östergötland**
@@ -2218,9 +3040,13 @@ Nummer: 12773
     123 544 14 98
 
 
+
+
 **Autism Sverige**
 
     123 900 15 79
+
+
 
 
 **Autofab**
@@ -2228,9 +3054,13 @@ Nummer: 12773
     123 452 45 00
 
 
+
+
 **Autoklar Trafikskola**
 
     123 080 12 25
+
+
 
 
 **Autolane AB**
@@ -2238,9 +3068,13 @@ Nummer: 12773
     123 303 64 31
 
 
+
+
 **Automobilbilsällskapet i Nyköping**
 
     123 143 21 37
+
+
 
 
 **Avelsföreningen Svenska Ardennerhästen**
@@ -2248,9 +3082,13 @@ Nummer: 12773
     123 381 86 48
 
 
+
+
 **Avesta Brovallen HF**
 
     123 291 95 53
+
+
 
 
 **Avesta Bågskytteklubb**
@@ -2258,9 +3096,13 @@ Nummer: 12773
     123 380 90 84
 
 
+
+
 **Avesta Dansklubb**
 
     123 144 82 32
+
+
 
 
 **Avesta Diamonds BBK**
@@ -2268,9 +3110,13 @@ Nummer: 12773
     123 163 10 92
 
 
+
+
 **Avesta Golfklubb**
 
     123 338 19 69
+
+
 
 
 **Avesta JSK**
@@ -2278,9 +3124,13 @@ Nummer: 12773
     123 460 69 19
 
 
+
+
 **Avesta katthem**
 
     123 312 36 35
+
+
 
 
 **Avesta OK - Orientering**
@@ -2288,9 +3138,13 @@ Nummer: 12773
     123 196 15 31
 
 
+
+
 **Avesta Padel Center AB**
 
     123 440 08 18
+
+
 
 
 **Avesta Shotokan Karateklubb**
@@ -2298,9 +3152,13 @@ Nummer: 12773
     123 421 92 75
 
 
+
+
 **Avlidna Salakonstnärers Sällskap, ASS**
 
     123 684 05 99
+
+
 
 
 **Awesome People**
@@ -2308,9 +3166,13 @@ Nummer: 12773
     123 225 80 69
 
 
+
+
 **Axbergs IF**
 
     123 472 71 29
+
+
 
 
 **Axel, Julia och Torsten Nordströms Stiftelse**
@@ -2318,9 +3180,13 @@ Nummer: 12773
     123 104 34 96
 
 
+
+
 **Axel Konståkningsklubb**
 
     123 061 18 06
+
+
 
 
 **Axelsson Trafikskolor / On Via TS AB**
@@ -2332,14 +3198,20 @@ Nummer: 12773
     123 685 80 21 - Västerås
 
 
+
+
 **Axmar Brygga Havskrog / Scandinavian Fine Food AB**
 
     123 612 21 39
 
 
+
+
 **Axmarby Intresseförening**
 
     123 452 33 61
+
+
 
 
 **Ayshamoskén / Skandinaviska Islamiska Organisationen**
@@ -2349,14 +3221,20 @@ Nummer: 12773
     123 670 27 73 - gåvor, sadaqa, donationer
 
 
+
+
 **AyuEmy / Emy Ekholm**
 
     123 117 01 09
 
 
+
+
 **Azech Oldboys BK**
 
     123 600 70 82
+
+
 
 
 
@@ -2368,9 +3246,13 @@ Nummer: 12773
     123 029 74 73
 
 
+
+
 **Backa Karate Klubb**
 
     123 076 72 44
+
+
 
 
 **Backa Stugförening**
@@ -2378,9 +3260,13 @@ Nummer: 12773
     123 006 26 95
 
 
+
+
 **Backa Säteri Golf**
 
     123 197 33 95
+
+
 
 
 **Backaryds Samhällsförening**
@@ -2388,14 +3274,20 @@ Nummer: 12773
     123 315 70 21
 
 
+
+
 **Backatorp IF**
 
     123 062 20 19
 
 
+
+
 **Backia**
 
     123 653 53 14
+
+
 
 
 **Baggage Loppis / Daghia AB**
@@ -2405,9 +3297,13 @@ Nummer: 12773
     123 290 41 59
 
 
+
+
 **Baggbrobygdens Byalag**
 
     123 288 94 26
+
+
 
 
 **Bajen Club Sofia Kulturförening**
@@ -2415,9 +3311,13 @@ Nummer: 12773
     123 476 88 83
 
 
+
+
 **Balans med Omtanke**
 
     123 009 21 63
+
+
 
 
 **Balsta Bygdegårdsförening**
@@ -2425,9 +3325,13 @@ Nummer: 12773
     123 077 97 85
 
 
+
+
 **Bandieras tifo / Kvillestreamen**
 
     123 642 50 37
+
+
 
 
 **Bandyförbund distrikt Stockholm**
@@ -2435,9 +3339,13 @@ Nummer: 12773
     123 621 53 47
 
 
+
+
 **Bankeryds Basket**
 
     123 622 20 61
+
+
 
 
 **Bankeryds Hembygdsförening**
@@ -2445,9 +3353,13 @@ Nummer: 12773
     123 422 90 68
 
 
+
+
 **Bankeryds Scoutkår**
 
     123 658 34 13
+
+
 
 
 **Bankeryds SK**
@@ -2457,9 +3369,13 @@ Nummer: 12773
     123 674 49 99
 
 
+
+
 **Bankeryds Skid o Motionsklubb, BSMK**
 
     123 612 77 32
+
+
 
 
 **Baptistförsamlingen Immanuel**
@@ -2467,9 +3383,13 @@ Nummer: 12773
     123 107 91 28 - kyrkfonden
 
 
+
+
 **Baptistförsamlingen Korskyrkan**
 
     123 079 28 20
+
+
 
 
 **Bara vanlig hälsa**
@@ -2477,9 +3397,13 @@ Nummer: 12773
     123 019 10 23
 
 
+
+
 **Barbalander AB**
 
     123 694 75 43
+
+
 
 
 **Barfota productions / Maria Viklund**
@@ -2487,9 +3411,13 @@ Nummer: 12773
     123 270 02 43
 
 
+
+
 **Barigårds Ishestar / Emma Barigård**
 
     123 561 87 15
+
+
 
 
 **Barkarby-Skälby Scoutkår**
@@ -2497,9 +3425,13 @@ Nummer: 12773
     123 051 79 79
 
 
+
+
 **Barkarö Bygdegårdsförening**
 
     123 006 44 69
+
+
 
 
 **Barkarö - Dingtuna - Rytterne Församling**
@@ -2507,11 +3439,15 @@ Nummer: 12773
     123 691 75 46 - Husmor
 
 
+
+
 **Barkarö Församling**
 
     123 220 62 66 - Kollekt
 
     123 578 98 70 - Honung
+
+
 
 
 **Barkarö SK**
@@ -2527,9 +3463,13 @@ Nummer: 12773
     123 656 13 36 - P16
 
 
+
+
 **Barks Buss / Jahn Bark**
 
     123 191 04 39
+
+
 
 
 **Barkåkra Scoutkår**
@@ -2541,9 +3481,13 @@ Nummer: 12773
     123 459 98 66
 
 
+
+
 **Barmhärtighetens Hus**
 
     123 631 38 29
+
+
 
 
 **Barn i Fokus Insamlingsstiftelse**
@@ -2551,21 +3495,29 @@ Nummer: 12773
     123 900 27 83
 
 
+
+
 **Barn i Nöd - Insamlingsstiftelsen Svensk Internationell Barnhjälp**
 
     123 900 57 52
 
 
+
+
 **Barnarp Ödestugu Församling**
 
-    123 214 14 06
+    123 214 14 06 - Övrigt
 
     123 454 36 09 - Kollekt
+
+
 
 
 **Barnarps IF**
 
     123 018 53 63
+
+
 
 
 **Barncancerfonden**
@@ -2575,9 +3527,13 @@ Nummer: 12773
     123 902 09 00
 
 
+
+
 **Barncancerfonden Mellansverige**
 
     123 900 01 00
+
+
 
 
 **Barncancerfonden Norra**
@@ -2585,9 +3541,13 @@ Nummer: 12773
     123 903 08 00
 
 
+
+
 **Barncancerfonden Stockholm Gotland**
 
     123 900 29 08
+
+
 
 
 **Barncancerfonden Södra**
@@ -2595,9 +3555,13 @@ Nummer: 12773
     123 900 33 02
 
 
+
+
 **Barncancerfonden Västra**
 
     123 900 66 02
+
+
 
 
 **Barncancerfonden Östra**
@@ -2605,9 +3569,13 @@ Nummer: 12773
     123 900 70 71
 
 
+
+
 **Barnen Framför Allt - Adoptioner**
 
     123 900 27 26
+
+
 
 
 **BarnEndokrinologiska Sällskapet, BES**
@@ -2615,9 +3583,13 @@ Nummer: 12773
     123 030 75 20
 
 
+
+
 **Barnendometriosfonden**
 
     123 668 57 54
+
+
 
 
 **Barnens Ambassad**
@@ -2627,9 +3599,13 @@ Nummer: 12773
     123 113 78 76
 
 
+
+
 **Barnens Hopp**
 
     123 901 06 46
+
+
 
 
 **Barnens Oas**
@@ -2637,9 +3613,13 @@ Nummer: 12773
     123 281 85 81
 
 
+
+
 **Barnens Underjordiska Scen, BUS**
 
     123 552 33 60
+
+
 
 
 **BarnensHjältar**
@@ -2647,9 +3627,13 @@ Nummer: 12773
     123 190 03 72
 
 
+
+
 **Barnets bästa ideell förening**
 
     123 338 98 55
+
+
 
 
 **Barnfonden Insamlingsstiftelse**
@@ -2657,9 +3641,13 @@ Nummer: 12773
     123 539 40 69 - Indonesien
 
 
+
+
 **Barnfondens Insamlingsstiftelse**
 
     123 901 30 20
+
+
 
 
 **Barnombudet i Uppsala län**
@@ -2669,9 +3657,13 @@ Nummer: 12773
     123 900 86 24
 
 
+
+
 **Barnrättsbyrån Sverige**
 
     123 900 68 00
+
+
 
 
 **Barsebäcks Bygdegård**
@@ -2679,9 +3671,13 @@ Nummer: 12773
     123 373 57 35
 
 
+
+
 **Barva Framtid**
 
     123 079 72 25
+
+
 
 
 **Barva Hembygdsförening**
@@ -2689,9 +3685,13 @@ Nummer: 12773
     123 103 52 78
 
 
+
+
 **Barva IF**
 
     123 510 21 81
+
+
 
 
 **Batalj Event AB**
@@ -2699,9 +3699,13 @@ Nummer: 12773
     123 034 51 40
 
 
+
+
 **BatLife Sweden**
 
     123 266 03 06
+
+
 
 
 **Batteridoktorn / Patrik Storm**
@@ -2709,9 +3713,13 @@ Nummer: 12773
     123 156 88 56
 
 
+
+
 **BBN Football Education AB**
 
     123 191 79 05
+
+
 
 
 **Bcbuddz Live / Branislav Pavlovic**
@@ -2719,9 +3727,13 @@ Nummer: 12773
     123 360 39 90
 
 
+
+
 **BCP Wakeboardklubb**
 
     123 034 60 98
+
+
 
 
 **Beach Center / Ipanema Beach AB**
@@ -2729,9 +3741,13 @@ Nummer: 12773
     123 263 14 55
 
 
+
+
 **Beach Volley-Aid**
 
     123 137 16 99
+
+
 
 
 **Beas Gong Yoga / Handgreppet Beatrice Nilsson**
@@ -2739,9 +3755,13 @@ Nummer: 12773
     123 018 69 99
 
 
+
+
 **Bebyggelsehistoriska Föreningen i Stockholm**
 
     123 235 89 01
+
+
 
 
 **Beckomberga Maniacs**
@@ -2749,9 +3769,13 @@ Nummer: 12773
     123 617 30 25
 
 
+
+
 **Bee Thalin, layout & foto**
 
     123 000 36 57
+
+
 
 
 **Bele Barkarby FF**
@@ -2759,9 +3783,13 @@ Nummer: 12773
     123 095 05 50 - U17
 
 
+
+
 **Bellö Samhällsförening**
 
     123 628 22 14
+
+
 
 
 **Belt and Road Institute in Sweden, BRIX**
@@ -2769,9 +3797,13 @@ Nummer: 12773
     123 241 24 43
 
 
+
+
 **Bengtsfors Motorbåtsklubb, BMBK**
 
     123 461 08 46
+
+
 
 
 **Bengtsfors Motorclub**
@@ -2779,9 +3811,13 @@ Nummer: 12773
     123 670 36 64
 
 
+
+
 **Bengtsforstraktens Hembygdsförening**
 
     123 099 06 30 - Gammelgårdens friluftsmuseum
+
+
 
 
 **Bengtssons Cykel & Service AB**
@@ -2789,9 +3825,13 @@ Nummer: 12773
     123 322 30 13
 
 
+
+
 **Bengtssons Smide AB**
 
     123 268 00 64
+
+
 
 
 **Bensby Ungdoms & FF**
@@ -2799,9 +3839,13 @@ Nummer: 12773
     123 352 46 59
 
 
+
+
 **Bensinupproret 2.0 / Föreningen Uppror**
 
     123 498 69 15
+
+
 
 
 **Beredskapslyftet**
@@ -2809,9 +3853,13 @@ Nummer: 12773
     123 604 25 68
 
 
+
+
 **Beredskapsmuseet - Kanonerna på Djuramossa**
 
     123 468 80 40
+
+
 
 
 **Berga Hembygdsförening**
@@ -2819,9 +3867,13 @@ Nummer: 12773
     123 233 86 71
 
 
+
+
 **Berga Husvagnsuthyrning**
 
     123 384 88 43
+
+
 
 
 **Berga USKF**
@@ -2829,9 +3881,13 @@ Nummer: 12773
     123 215 72 12
 
 
+
+
 **Bergeforsens SK**
 
     123 594 73 61
+
+
 
 
 **Berghems Hembygdsförening**
@@ -2839,9 +3895,13 @@ Nummer: 12773
     123 626 64 23
 
 
+
+
 **Berghems Kyrkliga Ungdomshem**
 
     123 421 11 40
+
+
 
 
 **Bergkvara AIF**
@@ -2849,9 +3909,13 @@ Nummer: 12773
     123 332 41 18
 
 
+
+
 **Bergkvara Scoutkår**
 
     123 677 78 74
+
+
 
 
 **Bergs Bygdegård**
@@ -2859,9 +3923,13 @@ Nummer: 12773
     123 268 17 73
 
 
+
+
 **Bergs Båtklubb**
 
     123 041 06 39
+
+
 
 
 **Bergs Hembygdsförening**
@@ -2869,9 +3937,13 @@ Nummer: 12773
     123 419 98 81
 
 
+
+
 **Bergs Lås AB**
 
     123 145 21 19
+
+
 
 
 **Bergsbyns Sportklubb**
@@ -2879,14 +3951,20 @@ Nummer: 12773
     123 089 94 19
 
 
+
+
 **Bergshamra Bygdegårdsförening**
 
     123 132 68 42
 
 
+
+
 **Bergshamra Scoutkår**
 
     123 369 03 10
+
+
 
 
 **Bergsjö Församling**
@@ -2900,9 +3978,13 @@ Nummer: 12773
     123 676 69 92 - Ilsbo kyrka
 
 
+
+
 **Bergskyrkan i Laxå**
 
     123 388 15 62
+
+
 
 
 **Bergslagens Älghundsklubb**
@@ -2910,9 +3992,13 @@ Nummer: 12773
     123 132 37 24
 
 
+
+
 **Bergslagsbygdens Ryttarförening**
 
     123 012 56 66
+
+
 
 
 **Bergums Bygdegårdsförening**
@@ -2920,9 +4006,13 @@ Nummer: 12773
     123 639 47 46
 
 
+
+
 **Beroendevårdens Framtid**
 
     123 297 91 10
+
+
 
 
 **Berts Värld, Bert Karlsson / Jokarjo AB**
@@ -2930,9 +4020,13 @@ Nummer: 12773
     123 170 55 16
 
 
+
+
 **Beso Ur & Antik AB**
 
     123 519 04 67
+
+
 
 
 **Best Western Eurostop Örebro**
@@ -2940,9 +4034,13 @@ Nummer: 12773
     123 089 48 99
 
 
+
+
 **Bestorps Båtklubb**
 
     123 612 21 05
+
+
 
 
 **Betania-Risvedens frikyrkoförsamling**
@@ -2950,9 +4048,13 @@ Nummer: 12773
     123 369 90 89
 
 
+
+
 **Betaniaförsamlingen i Östra Ryd**
 
     123 161 09 30
+
+
 
 
 **Betaniaförsamlingen Möklinta**
@@ -2960,9 +4062,13 @@ Nummer: 12773
     123 219 32 41
 
 
+
+
 **Betaniaförsamlingen Åbytorp**
 
     123 616 22 26
+
+
 
 
 **Betaniakyrkan Örebro**
@@ -2970,9 +4076,13 @@ Nummer: 12773
     123 512 84 75
 
 
+
+
 **Betel Klädesholmen**
 
     123 514 58 59
+
+
 
 
 **Betelförsamlingen Hönö**
@@ -2980,9 +4090,13 @@ Nummer: 12773
     123 580 78 70
 
 
+
+
 **Betelförsamlingen Jönåker**
 
     123 198 24 46
+
+
 
 
 **Betelsförsamlingen Vaggeryd**
@@ -2990,14 +4104,20 @@ Nummer: 12773
     123 638 92 90 - Ungdomsverksamhet
 
 
+
+
 **Betelsförsamlingen Vaggeryd**
 
     123 471 66 01
 
 
+
+
 **Betesdaförsamling Hällabrottet**
 
     123 132 95 15
+
+
 
 
 **Betlehemskyrkan i Gävle**
@@ -3007,9 +4127,13 @@ Nummer: 12773
     123 652 60 16
 
 
+
+
 **Betlehemskyrkan Malmö**
 
     123 213 97 15
+
+
 
 
 **Betlehemskyrkan Örebro**
@@ -3017,9 +4141,13 @@ Nummer: 12773
     123 680 21 85
 
 
+
+
 **Bettna Församling**
 
     123 033 72 20
+
+
 
 
 **Bettna Hembygdsförening**
@@ -3027,9 +4155,13 @@ Nummer: 12773
     123 406 63 87
 
 
+
+
 **BFF Strays**
 
     123 572 94 39
+
+
 
 
 **BGK VK-78 - Bangolf**
@@ -3037,9 +4169,13 @@ Nummer: 12773
     123 161 65 98
 
 
+
+
 **Bharat Indien-Bistånd**
 
     123 900 91 92
+
+
 
 
 **Biathlon Östersund IF - Skidskytte**
@@ -3047,9 +4183,13 @@ Nummer: 12773
     123 275 72 84
 
 
+
+
 **Bibeln idag**
 
     123 452 41 87
+
+
 
 
 **Bibelns värld**
@@ -3057,9 +4197,13 @@ Nummer: 12773
     123 026 32 36
 
 
+
+
 **Bie GoIF**
 
     123 506 66 91
+
+
 
 
 **Bierkeller AB**
@@ -3067,9 +4211,13 @@ Nummer: 12773
     123 103 35 54
 
 
+
+
 **BIF föreningshus**
 
     123 476 29 85
+
+
 
 
 **Bifrost Islandshäst Förening**
@@ -3077,9 +4225,13 @@ Nummer: 12773
     123 174 48 95
 
 
+
+
 **Bifrostföreningen 34 Linneus Växjö**
 
     123 213 34 37
+
+
 
 
 **Bifrostkyrkans Församling**
@@ -3087,9 +4239,13 @@ Nummer: 12773
     123 326 51 88
 
 
+
+
 **Bifrostorden Logen 28 Gondler**
 
     123 180 73 79
+
+
 
 
 **Bifrostorden Logen nr 12 Nicopia**
@@ -3097,9 +4253,13 @@ Nummer: 12773
     123 204 42 04
 
 
+
+
 **BIK Karlskoga**
 
     123 351 58 06
+
+
 
 
 **BIK Karlskoga Ungdom**
@@ -3109,9 +4269,13 @@ Nummer: 12773
     123 690 87 19 - Team 12
 
 
+
+
 **BIKE Trollhättan AB**
 
     123 147 67 38
+
+
 
 
 **Bil-Månsson i Skåne AB**
@@ -3119,9 +4283,13 @@ Nummer: 12773
     123 311 12 91
 
 
+
+
 **Bilbingon.se / Moonserver AB**
 
     123 104 12 92
+
+
 
 
 **Biljardklubben Åtvidaberg**
@@ -3129,9 +4297,13 @@ Nummer: 12773
     123 324 77 80
 
 
+
+
 **Bilkårernas Stipendie Fond RTLM-Fond**
 
     123 511 03 58 - Totos fond
+
+
 
 
 **Billdal Taekwon-Do**
@@ -3139,9 +4311,13 @@ Nummer: 12773
     123 480 30 29
 
 
+
+
 **Billdals Blommor AB**
 
     123 231 86 73
+
+
 
 
 **Billdals Ridklubb**
@@ -3149,9 +4325,13 @@ Nummer: 12773
     123 281 23 45
 
 
+
+
 **Billeberga Byalag**
 
     123 345 33 88
+
+
 
 
 **Billeberga GIF**
@@ -3159,9 +4339,13 @@ Nummer: 12773
     123 339 72 62
 
 
+
+
 **Billeberga Scoutkår**
 
     123 304 72 71
+
+
 
 
 **Billeruds Jaktskytteklubb**
@@ -3169,9 +4353,13 @@ Nummer: 12773
     123 312 38 74
 
 
+
+
 **Billesholms IK**
 
     123 022 41 21
+
+
 
 
 **Billinge Brukshundklubb**
@@ -3179,9 +4367,13 @@ Nummer: 12773
     123 069 58 41
 
 
+
+
 **Billingebydens Kattklubb**
 
     123 372 13 70
+
+
 
 
 **Billingens Golfklubb**
@@ -3189,9 +4381,13 @@ Nummer: 12773
     123 695 59 59
 
 
+
+
 **Bindu Yoga Helsingborg / Hot Yoga Bindu Helsingborg AB**
 
     123 482 66 99
+
+
 
 
 **Binnebergs Tingshus Stiftelsen**
@@ -3199,9 +4395,13 @@ Nummer: 12773
     123 228 74 56
 
 
+
+
 **Biodlartips & Jalin Film AB**
 
     123 416 25 90
+
+
 
 
 **Biosfärområde Kristianstads Vattenrike / Kristianstads Kommun**
@@ -3209,9 +4409,13 @@ Nummer: 12773
     123 197 20 66
 
 
+
+
 **Birgittasystrarna i Vadstena**
 
     123 238 32 22
+
+
 
 
 **Birth Right Sweden**
@@ -3219,9 +4423,13 @@ Nummer: 12773
     123 272 04 56
 
 
+
+
 **Biskopsängens Koloniträdgårdsförening**
 
     123 344 56 16
+
+
 
 
 **Biståndsföreningen Sri Lankas Barns Vänner**
@@ -3229,9 +4437,13 @@ Nummer: 12773
     123 900 13 97
 
 
+
+
 **Biståndsorganisationen Hjärta till Hjärta**
 
     123 900 78 57
+
+
 
 
 **Biyun Health & Medicine Center**
@@ -3239,9 +4451,13 @@ Nummer: 12773
     123 621 62 61
 
 
+
+
 **Biyunföreningen Gröna Draken**
 
     123 012 22 00
+
+
 
 
 **Bjelleforsgruppen Kontor AB**
@@ -3249,9 +4465,13 @@ Nummer: 12773
     123 039 55 17
 
 
+
+
 **Bjurholms Golfklubb**
 
     123 551 49 14
+
+
 
 
 **Bjurholms Lokala Kennelklubb**
@@ -3259,9 +4479,13 @@ Nummer: 12773
     123 120 35 95
 
 
+
+
 **Bjursnäs Bygdegårdsförening**
 
     123 648 19 15
+
+
 
 
 **Bjursås Församling**
@@ -3269,9 +4493,13 @@ Nummer: 12773
     123 388 84 68
 
 
+
+
 **Bjursås Hembygdsförening**
 
     123 172 14 97
+
+
 
 
 **Bjursås RK - Ridsport**
@@ -3279,9 +4507,13 @@ Nummer: 12773
     123 240 39 05
 
 
+
+
 **Bjursås Snöskoterklubb**
 
     123 511 13 31
+
+
 
 
 **Bjurtjärns Byalag**
@@ -3289,9 +4521,13 @@ Nummer: 12773
     123 245 76 87
 
 
+
+
 **Bjurtjärns Hembygdsförening**
 
     123 277 08 16
+
+
 
 
 **Bjuråkers Hembygdsförening**
@@ -3299,9 +4535,13 @@ Nummer: 12773
     123 562 86 80
 
 
+
+
 **Bjuröns Samfällighetsförening**
 
     123 372 19 17
+
+
 
 
 **Bjuvs Brukshundklubb**
@@ -3309,9 +4549,13 @@ Nummer: 12773
     123 240 49 94
 
 
+
+
 **Bjuvs Brukshundsklubb**
 
     123 500 65 56
+
+
 
 
 **Bjuvstorps FF**
@@ -3319,9 +4563,13 @@ Nummer: 12773
     123 303 30 40
 
 
+
+
 **Bjäre BS**
 
     123 690 57 98
+
+
 
 
 **Bjärelaget DFF**
@@ -3329,9 +4577,13 @@ Nummer: 12773
     123 311 54 41
 
 
+
+
 **Bjärka-Säby RF**
 
     123 231 38 98
+
+
 
 
 **Bjärke SKF**
@@ -3339,9 +4591,13 @@ Nummer: 12773
     123 473 90 66
 
 
+
+
 **Bjärnums Biljardklubb - Biljard**
 
     123 166 81 85
+
+
 
 
 **Bjärnums GOIF**
@@ -3349,9 +4605,13 @@ Nummer: 12773
     123 666 34 39
 
 
+
+
 **Bjärnums Handbollsklubb**
 
     123 446 46 03
+
+
 
 
 **Bjärnums Museum / Bjärnums Hembygdssförening**
@@ -3359,9 +4619,13 @@ Nummer: 12773
     123 447 82 44
 
 
+
+
 **Bjärreds Badmintonklubb, BBMK**
 
     123 681 98 25
+
+
 
 
 **Bjärreds Optimistjolle Klubb, BOJK**
@@ -3369,9 +4633,13 @@ Nummer: 12773
     123 034 63 46
 
 
+
+
 **Bjärres Bygdegårdsförening**
 
     123 054 08 98
+
+
 
 
 **Björbo IF**
@@ -3379,14 +4647,20 @@ Nummer: 12773
     123 006 92 86
 
 
+
+
 **Björkekärr Scoutkår**
 
     123 363 05 63
 
 
+
+
 **Björkhagens Golfklubb**
 
     123 570 52 15
+
+
 
 
 **Björklinge BK**
@@ -3398,9 +4672,13 @@ Nummer: 12773
     123 517 79 85 - Damlaget
 
 
+
+
 **Björklinge Församling**
 
     123 395 21 08 - Kollekt
+
+
 
 
 **Björklinge Hembygdsförening**
@@ -3408,9 +4686,13 @@ Nummer: 12773
     123 051 86 21
 
 
+
+
 **Björklinge Ryttarförening**
 
     123 006 20 18
+
+
 
 
 **Björklinge Sportförening**
@@ -3420,9 +4702,13 @@ Nummer: 12773
     123 373 14 29
 
 
+
+
 **Björknä Kennel / Arne Persson**
 
     123 019 99 92
+
+
 
 
 **Björkviks Bygdegårdsförening**
@@ -3430,14 +4716,20 @@ Nummer: 12773
     123 025 90 51
 
 
+
+
 **Björkviks Hembygdsförening**
 
     123 281 36 65
 
 
+
+
 **Björkviks IF**
 
     123 682 63 25
+
+
 
 
 **Björkåfrihet**
@@ -3447,9 +4739,13 @@ Nummer: 12773
     123 900 17 10
 
 
+
+
 **Björkö 4H-klubb, Linköpingskretsen**
 
     123 377 15 65
+
+
 
 
 **Björlanda Kile Segelsällskap, BKSS**
@@ -3457,9 +4753,13 @@ Nummer: 12773
     123 343 04 85
 
 
+
+
 **Björn Bernström AB**
 
     123 329 12 00
+
+
 
 
 **Björn Thomasson Design**
@@ -3467,14 +4767,20 @@ Nummer: 12773
     123 321 63 71
 
 
+
+
 **Björna Församling**
 
     123 697 30 93
 
 
+
+
 **Björneborgs Jaktskytteklubb**
 
     123 614 66 33
+
+
 
 
 **Björnekulla-Västra Broby Församling**
@@ -3486,9 +4792,13 @@ Nummer: 12773
     123 668 62 32 - Gåva till Act
 
 
+
+
 **Björnlunda Hembygdsförening**
 
     123 083 63 20
+
+
 
 
 **Björnlunda Kammarmusikförening**
@@ -3496,9 +4806,13 @@ Nummer: 12773
     123 221 30 56
 
 
+
+
 **Björnstorps IF**
 
     123 084 58 75
+
+
 
 
 **Björntaget**
@@ -3506,9 +4820,13 @@ Nummer: 12773
     123 228 27 54
 
 
+
+
 **Björsäters Hembygdsförening**
 
     123 212 31 56
+
+
 
 
 **Björsäters Scoutkår**
@@ -3516,9 +4834,13 @@ Nummer: 12773
     123 312 33 12
 
 
+
+
 **Björsäters SK**
 
     123 189 99 39
+
+
 
 
 **BK Albrekts**
@@ -3526,9 +4848,13 @@ Nummer: 12773
     123 091 09 01
 
 
+
+
 **BK Allön**
 
     123 663 21 03
+
+
 
 
 **BK Atlas**
@@ -3536,9 +4862,13 @@ Nummer: 12773
     123 678 97 21
 
 
+
+
 **BK Bore**
 
     123 323 65 69
+
+
 
 
 **BK Bowino**
@@ -3546,9 +4876,13 @@ Nummer: 12773
     123 642 74 21
 
 
+
+
 **BK Bussenhus**
 
     123 644 46 99
+
+
 
 
 **BK Derby**
@@ -3556,9 +4890,13 @@ Nummer: 12773
     123 218 40 83
 
 
+
+
 **BK Enig**
 
     123 036 92 07
+
+
 
 
 **BK Femtionian**
@@ -3566,9 +4904,13 @@ Nummer: 12773
     123 688 99 92
 
 
+
+
 **BK Flagg**
 
     123 211 85 11
+
+
 
 
 **BK Flamman**
@@ -3576,9 +4918,13 @@ Nummer: 12773
     123 672 25 16 - A-lag Damer
 
 
+
+
 **BK Forward**
 
     123 184 06 51 - U15
+
+
 
 
 **BK Halna**
@@ -3586,14 +4932,20 @@ Nummer: 12773
     123 421 69 74
 
 
+
+
 **BK Häcken**
 
     123 097 33 05
 
 
+
+
 **BK Kenty**
 
     123 680 20 37
+
+
 
 
 **BK Ljungsbro**
@@ -3603,9 +4955,13 @@ Nummer: 12773
     123 147 60 92
 
 
+
+
 **BK Loke**
 
     123 377 33 63
+
+
 
 
 **BK Marbo**
@@ -3617,9 +4973,13 @@ Nummer: 12773
     123 563 56 69 - Lotteri
 
 
+
+
 **BK Mix Eslöv**
 
     123 266 17 59
+
+
 
 
 **BK Möllan**
@@ -3627,9 +4987,13 @@ Nummer: 12773
     123 496 47 30
 
 
+
+
 **BK Olympic**
 
     123 371 82 28
+
+
 
 
 **BK Skottfint**
@@ -3637,9 +5001,13 @@ Nummer: 12773
     123 286 18 05
 
 
+
+
 **BK Spark**
 
     123 081 04 99
+
+
 
 
 **BK Union**
@@ -3647,9 +5015,13 @@ Nummer: 12773
     123 458 08 17
 
 
+
+
 **BK X-et**
 
     123 261 63 73
+
+
 
 
 **BK Zeros**
@@ -3657,9 +5029,13 @@ Nummer: 12773
     123 326 65 25
 
 
+
+
 **BK-Öster Katrineholm**
 
     123 320 80 63
+
+
 
 
 **BKV Norrtälje**
@@ -3673,9 +5049,13 @@ Nummer: 12773
     123 693 10 91
 
 
+
+
 **Black Support Trollhättan**
 
     123 302 17 55
+
+
 
 
 **Blackebergs sjöscoutkår**
@@ -3683,9 +5063,13 @@ Nummer: 12773
     123 484 01 95
 
 
+
+
 **Blackout Family AB**
 
     123 415 26 90
+
+
 
 
 **Blackstads IF**
@@ -3693,9 +5077,13 @@ Nummer: 12773
     123 393 05 75
 
 
+
+
 **Blank Spot Project AB**
 
     123 554 35 41
+
+
 
 
 **Blasieholmens Vänner**
@@ -3703,9 +5091,13 @@ Nummer: 12773
     123 157 38 31
 
 
+
+
 **Blekinge Fornminnesförening**
 
     123 220 90 21
+
+
 
 
 **Blekinge Idrottshistoriska Sällskap**
@@ -3713,9 +5105,13 @@ Nummer: 12773
     123 381 63 03
 
 
+
+
 **Blekinge Körsällskap**
 
     123 553 05 55
+
+
 
 
 **Blekinge Ridsportförbund**
@@ -3723,9 +5119,13 @@ Nummer: 12773
     123 651 99 53
 
 
+
+
 **Blekinge Släktforskarförening**
 
     123 280 10 09
+
+
 
 
 **Blekingska Nationen**
@@ -3733,9 +5133,13 @@ Nummer: 12773
     123 207 36 58
 
 
+
+
 **Blidsbergs Bygdegårdsförening**
 
     123 089 90 21
+
+
 
 
 **Blidö Församling**
@@ -3743,9 +5147,13 @@ Nummer: 12773
     123 074 18 76
 
 
+
+
 **BLLF Sweden**
 
     123 900 42 84
+
+
 
 
 **Blodcancerförbundet KBS**
@@ -3753,9 +5161,13 @@ Nummer: 12773
     123 213 27 28
 
 
+
+
 **Blomskogs Idrottsförening**
 
     123 600 40 48
+
+
 
 
 **Blomsterboden Eksjö**
@@ -3763,9 +5175,13 @@ Nummer: 12773
     123 042 39 62
 
 
+
+
 **Blomsterhuset Ullånger**
 
     123 396 24 04
+
+
 
 
 **Blomstermåla Ryttarförening**
@@ -3773,9 +5189,13 @@ Nummer: 12773
     123 085 69 55
 
 
+
+
 **Bloom Nyköping**
 
     123 301 10 87
+
+
 
 
 **BLs Hundtjänst / Bodil Lundell**
@@ -3783,9 +5203,13 @@ Nummer: 12773
     123 308 83 66
 
 
+
+
 **Blue Berets MC Sweden, BBMC**
 
     123 007 98 14
+
+
 
 
 **Blue Circle / NSG Sweden AB**
@@ -3793,9 +5217,13 @@ Nummer: 12773
     123 153 33 63
 
 
+
+
 **Blue Front Support**
 
     123 695 51 99
+
+
 
 
 **Blå Ugglan / Johan Vickberg**
@@ -3803,9 +5231,13 @@ Nummer: 12773
     123 684 11 34
 
 
+
+
 **Blågula Bilen AB**
 
     123 607 66 65
+
+
 
 
 **Blågula Korset**
@@ -3815,9 +5247,13 @@ Nummer: 12773
     123 343 23 25
 
 
+
+
 **Blåljuspersonalens Insamlingsstiftelse**
 
     123 049 49 06
+
+
 
 
 **Blåsut BK**
@@ -3825,9 +5261,13 @@ Nummer: 12773
     123 580 72 35
 
 
+
+
 **Blåvittquiz / Restaurang Olivedal**
 
     123 148 47 24
+
+
 
 
 **BMK Uddevalla - Motorcykel och Snöskoter**
@@ -3835,9 +5275,13 @@ Nummer: 12773
     123 526 25 06
 
 
+
+
 **BMK Wätterstad**
 
     123 317 89 93
+
+
 
 
 **Boa GK Olofström**
@@ -3845,9 +5289,13 @@ Nummer: 12773
     123 495 57 61
 
 
+
+
 **Boalts Bygdeförening**
 
     123 348 16 60
+
+
 
 
 **Bockara Hembygdsförening**
@@ -3855,9 +5303,13 @@ Nummer: 12773
     123 399 11 14
 
 
+
+
 **Boda Hembygdsförening**
 
     123 539 19 82
+
+
 
 
 **Boda Hembygdsförening**
@@ -3865,9 +5317,13 @@ Nummer: 12773
     123 635 66 20
 
 
+
+
 **Boden City FC**
 
     123 319 48 42
+
+
 
 
 **Boden Handboll IF**
@@ -3877,9 +5333,13 @@ Nummer: 12773
     123 424 81 83
 
 
+
+
 **Boden Hockey AB**
 
     123 357 58 42
+
+
 
 
 **Bodens BK FF**
@@ -3887,9 +5347,13 @@ Nummer: 12773
     123 570 40 44
 
 
+
+
 **Bodens BK HF**
 
     123 418 33 72
+
+
 
 
 **Bodens Cykelklubb**
@@ -3897,9 +5361,13 @@ Nummer: 12773
     123 194 79 02
 
 
+
+
 **Bodens Draghund IF**
 
     123 560 69 91
+
+
 
 
 **Bodens Jaktskytteförening**
@@ -3907,9 +5375,13 @@ Nummer: 12773
     123 492 72 99
 
 
+
+
 **Bodens Scoutkår**
 
     123 536 95 58
+
+
 
 
 **Bodens Sportskytteklubb**
@@ -3917,9 +5389,13 @@ Nummer: 12773
     123 335 02 87
 
 
+
+
 **Bodens Trädgårdssällskap**
 
     123 320 64 97
+
+
 
 
 **Bodums församling / Strömsunds Pastorat**
@@ -3927,9 +5403,13 @@ Nummer: 12773
     123 259 52 96
 
 
+
+
 **Bogesunds Gård och Ridskola AB**
 
     123 599 54 93
+
+
 
 
 **Bogesundslandets Ryttare - Ridsport**
@@ -3937,9 +5417,13 @@ Nummer: 12773
     123 510 49 14
 
 
+
+
 **Bohus IF**
 
     123 421 22 39
+
+
 
 
 **Bohuslän-Dals Bridgeförening**
@@ -3947,9 +5431,13 @@ Nummer: 12773
     123 632 97 18
 
 
+
+
 **Bohuslän Dals Fjordhästförening**
 
     123 068 52 22
+
+
 
 
 **Bohuslän Dals Ishockeyförbund**
@@ -3957,9 +5445,13 @@ Nummer: 12773
     123 679 43 58 - P09
 
 
+
+
 **Bohuslän-Dals Stövarklubb, BDSK**
 
     123 405 59 50
+
+
 
 
 **Bohuslän-Dals Taxklubb**
@@ -3967,9 +5459,13 @@ Nummer: 12773
     123 356 84 74
 
 
+
+
 **Bohusläns Hembygdsförbund**
 
     123 404 89 22
+
+
 
 
 **Bohusläns Klätterklubb**
@@ -3977,9 +5473,13 @@ Nummer: 12773
     123 098 98 30
 
 
+
+
 **Bohusläns Ornitologiska Förening**
 
     123 173 20 49
+
+
 
 
 **BOJEN Förening för barn och ungdomar som bevittnat våld i hemmet**
@@ -3987,9 +5487,13 @@ Nummer: 12773
     123 121 35 78
 
 
+
+
 **Bokenäs IF**
 
     123 447 57 11
+
+
 
 
 **Bokenäsets Församling**
@@ -3997,9 +5501,13 @@ Nummer: 12773
     123 000 70 62
 
 
+
+
 **Bokhandeln Laholm AB**
 
     123 603 92 83
+
+
 
 
 **Bokhistoriska Sällskapet**
@@ -4009,9 +5517,13 @@ Nummer: 12773
     123 695 28 40
 
 
+
+
 **Boksjö Bygdegårdsförening**
 
     123 493 52 92
+
+
 
 
 **Bolidens FFI**
@@ -4019,9 +5531,13 @@ Nummer: 12773
     123 615 10 62 - F 09-11
 
 
+
+
 **Bollebygd Hembygds- o Fornminnesförening**
 
     123 465 72 27
+
+
 
 
 **Bollebygds Pastorat**
@@ -4029,9 +5545,13 @@ Nummer: 12773
     123 024 32 87
 
 
+
+
 **Bollnäs AK - Skidor**
 
     123 539 84 74
+
+
 
 
 **Bollnäs CK**
@@ -4041,9 +5561,13 @@ Nummer: 12773
     123 079 50 21 - Bollnäsrundan
 
 
+
+
 **Bollnäs Filmklubb**
 
     123 230 17 03
+
+
 
 
 **Bollnäs jaktskytteklubb**
@@ -4051,9 +5575,13 @@ Nummer: 12773
     123 213 88 08
 
 
+
+
 **Bollnäs RS**
 
     123 593 57 62
+
+
 
 
 **Bollnäs Scoutkår**
@@ -4061,9 +5589,13 @@ Nummer: 12773
     123 319 16 16
 
 
+
+
 **Bollnäs Simsällskap**
 
     123 570 65 36
+
+
 
 
 **Bolmsö Bygdegårdsförening**
@@ -4071,9 +5603,13 @@ Nummer: 12773
     123 281 71 53
 
 
+
+
 **Bolmsö Hembygdsförening**
 
     123 667 50 45
+
+
 
 
 **Bolmsö Sockenråd**
@@ -4081,9 +5617,13 @@ Nummer: 12773
     123 240 81 77
 
 
+
+
 **Bolmsö Tannåkers Räddningsvärn**
 
     123 558 26 63
+
+
 
 
 **Bolstad Grinstad Byalag och Bygdegårdsförening**
@@ -4091,9 +5631,13 @@ Nummer: 12773
     123 435 18 47
 
 
+
+
 **Bombali Health Development**
 
     123 900 65 52
+
+
 
 
 **Bommedal RF - Ridsport**
@@ -4101,9 +5645,13 @@ Nummer: 12773
     123 567 44 03
 
 
+
+
 **Bondepraktikan Podcast / Per-Ola Olsson**
 
     123 382 79 87
+
+
 
 
 **Bondesonsällskapet**
@@ -4111,9 +5659,13 @@ Nummer: 12773
     123 067 88 39
 
 
+
+
 **Boo Folkets Hus Föreningen**
 
     123 174 70 39
+
+
 
 
 **Boo Församling**
@@ -4121,9 +5673,13 @@ Nummer: 12773
     123 432 66 17
 
 
+
+
 **Boo & Lännersta Villaägareförening**
 
     123 087 95 69
+
+
 
 
 **Borbygdens Missionsförsamling**
@@ -4131,9 +5687,13 @@ Nummer: 12773
     123 146 30 74
 
 
+
+
 **Borbygdens SMU**
 
     123 639 48 60
+
+
 
 
 **Borensbergs IF SK**
@@ -4141,9 +5701,13 @@ Nummer: 12773
     123 400 45 52
 
 
+
+
 **Borett Interiör AB**
 
     123 637 85 74
+
+
 
 
 **Borgeby Fotbollsklubb**
@@ -4151,9 +5715,13 @@ Nummer: 12773
     123 327 68 62
 
 
+
+
 **Borgehage Byalag**
 
     123 139 19 60
+
+
 
 
 **Borgenkyrkan Tierp**
@@ -4161,9 +5729,13 @@ Nummer: 12773
     123 238 66 47
 
 
+
+
 **Borgenkyrkan Ung i Tierp**
 
     123 087 84 39 - Ungdomssektionen
+
+
 
 
 **Borggårds IK**
@@ -4171,9 +5743,13 @@ Nummer: 12773
     123 394 06 65
 
 
+
+
 **Borgholms Båtklubb**
 
     123 629 73 03
+
+
 
 
 **Borgia-Norrköping BK**
@@ -4181,9 +5757,13 @@ Nummer: 12773
     123 529 67 44
 
 
+
+
 **Borgsjö Hembygdsförening**
 
     123 653 52 72
+
+
 
 
 **Borgunda IK**
@@ -4191,9 +5771,13 @@ Nummer: 12773
     123 190 24 10
 
 
+
+
 **Borlänge Bandy**
 
     123 173 32 11
+
+
 
 
 **Borlänge Bridgeklubb**
@@ -4201,9 +5785,13 @@ Nummer: 12773
     123 533 94 29
 
 
+
+
 **Borlänge Brukshundklubb**
 
     123 161 28 60
+
+
 
 
 **Borlänge HF**
@@ -4213,9 +5801,13 @@ Nummer: 12773
     123 565 26 31
 
 
+
+
 **Borlänge Kanotklubb**
 
     123 547 38 14
+
+
 
 
 **Borlänge Missionsförsamling**
@@ -4223,9 +5815,13 @@ Nummer: 12773
     123 594 91 44
 
 
+
+
 **Borlänge Ridklubb - Ridsport**
 
     123 504 95 64
+
+
 
 
 **Borlänge Scoutkår**
@@ -4233,9 +5829,13 @@ Nummer: 12773
     123 618 58 54
 
 
+
+
 **Borlänge Sjundedags Adventistförsamling**
 
     123 104 37 10
+
+
 
 
 **Borlänge Truppgymnaster**
@@ -4243,9 +5843,13 @@ Nummer: 12773
     123 152 84 39
 
 
+
+
 **Borlänge Tunabygdens Konstförening**
 
     123 380 61 22
+
+
 
 
 **Boro Vetlanda HC**
@@ -4253,9 +5857,13 @@ Nummer: 12773
     123 364 64 45
 
 
+
+
 **Borrby Byalag**
 
     123 663 96 11
+
+
 
 
 **Borrby IF**
@@ -4263,9 +5871,13 @@ Nummer: 12773
     123 031 44 76
 
 
+
+
 **Borrelia och TBE föreningen**
 
     123 308 83 17
+
+
 
 
 **Bors SK**
@@ -4273,9 +5885,13 @@ Nummer: 12773
     123 557 79 52
 
 
+
+
 **Borås Adventistförsamling**
 
     123 593 55 15
+
+
 
 
 **Borås Aikidoklubb**
@@ -4285,9 +5901,13 @@ Nummer: 12773
     123 613 33 59
 
 
+
+
 **Borås Bandy**
 
     123 501 42 20
+
+
 
 
 **Borås Basket**
@@ -4299,9 +5919,13 @@ Nummer: 12773
     123 652 60 99
 
 
+
+
 **Borås Bouleallians**
 
     123 619 20 74
+
+
 
 
 **Borås CA - Cykel**
@@ -4309,9 +5933,13 @@ Nummer: 12773
     123 048 39 25
 
 
+
+
 **Borås Cafékyrka**
 
     123 515 82 09
+
+
 
 
 **Borås Dykförening**
@@ -4319,9 +5947,13 @@ Nummer: 12773
     123 359 95 86
 
 
+
+
 **Borås Finska Pingstförsamling**
 
     123 092 04 88 - Jesus4Eurasia
+
+
 
 
 **Borås GIF**
@@ -4329,9 +5961,13 @@ Nummer: 12773
     123 568 60 76
 
 
+
+
 **Borås Hockeyklubb**
 
     123 009 54 22
+
+
 
 
 **Borås Idrottshistoriska Sällskap, BIS**
@@ -4339,9 +5975,13 @@ Nummer: 12773
     123 373 70 61
 
 
+
+
 **Borås Judoklubb**
 
     123 543 14 73
+
+
 
 
 **Borås Karateklubb**
@@ -4349,9 +5989,13 @@ Nummer: 12773
     123 511 04 40
 
 
+
+
 **Borås Kristna Center / AB Borås Kristna Skola**
 
     123 691 92 78
+
+
 
 
 **Borås Museum med textilmuseet / Borås Kommun**
@@ -4359,14 +6003,20 @@ Nummer: 12773
     123 143 72 19
 
 
+
+
 **Borås och Sjuhäradsbygdens konstförening, Flaménska galleriet**
 
     123 225 76 32
 
 
+
+
 **Borås Rugby FC**
 
     123 607 27 71
+
+
 
 
 **Borås Skidlöparklubb**
@@ -4376,9 +6026,13 @@ Nummer: 12773
     123 221 47 32
 
 
+
+
 **Borås Sportfiskeklubb**
 
     123 012 53 02
+
+
 
 
 **Borås Trädgårdssällskap**
@@ -4386,9 +6040,13 @@ Nummer: 12773
     123 085 14 51
 
 
+
+
 **Borås Yoga centrum / Kristina Andersson**
 
     123 672 04 45
+
+
 
 
 **Bosebo Församling**
@@ -4398,9 +6056,13 @@ Nummer: 12773
     123 418 01 39 - Övrigt
 
 
+
+
 **Bosjökloster GK**
 
     123 336 63 90
+
+
 
 
 **Bosna FC**
@@ -4408,9 +6070,13 @@ Nummer: 12773
     123 344 77 03
 
 
+
+
 **Bosna IF Göteborg**
 
     123 181 84 91
+
+
 
 
 **Bosniakiska Islamiska Församling och Kulturcenter**
@@ -4418,9 +6084,13 @@ Nummer: 12773
     123 155 04 33
 
 
+
+
 **Bosniakiska Islamiska Församlingen Jönköping**
 
     123 149 98 39
+
+
 
 
 **Bosnien och Hercegovinas Kvinnoriksförbund i Sverige**
@@ -4430,6 +6100,8 @@ Nummer: 12773
     123 516 00 80
 
 
+
+
 **Bosnisk Islamiska Kultur Föreningen-Landskrona**
 
     123 129 04 10
@@ -4437,9 +6109,13 @@ Nummer: 12773
     123 366 45 39
 
 
+
+
 **Bosnisk Sport Klubb**
 
     123 427 33 30
+
+
 
 
 **Bosnjakiska Islamska Församlingen Halmstad**
@@ -4447,9 +6123,13 @@ Nummer: 12773
     123 596 45 80
 
 
+
+
 **Bosses Hundhjälp**
 
     123 049 83 03
+
+
 
 
 **Bostadsrättsföreningen Agaten**
@@ -4459,9 +6139,13 @@ Nummer: 12773
     123 664 45 20
 
 
+
+
 **Bostadsrättsföreningen Akallahöjden**
 
     123 561 90 44
+
+
 
 
 **Bostadsrättsföreningen Asplunden i Solna**
@@ -4469,9 +6153,13 @@ Nummer: 12773
     123 516 16 33
 
 
+
+
 **Bostadsrättsföreningen Bergmossen**
 
     123 247 27 02
+
+
 
 
 **Bostadsrättsföreningen Bergsund 75**
@@ -4479,9 +6167,13 @@ Nummer: 12773
     123 578 86 58
 
 
+
+
 **Bostadsrättsföreningen Björkpyrolan**
 
     123 386 44 69
+
+
 
 
 **Bostadsrättsföreningen Brofästet 1 i Åkersberga**
@@ -4489,9 +6181,13 @@ Nummer: 12773
     123 442 49 33
 
 
+
+
 **Bostadsrättsföreningen Brunnsviken**
 
     123 271 67 28
+
+
 
 
 **Bostadsrättsföreningen Charlottenburg**
@@ -4499,9 +6195,13 @@ Nummer: 12773
     123 100 65 27
 
 
+
+
 **Bostadsrättsföreningen Den Gyldene Porten**
 
     123 546 56 12
+
+
 
 
 **Bostadsrättsföreningen Diamanten i Tyresö**
@@ -4509,9 +6209,13 @@ Nummer: 12773
     123 012 37 94
 
 
+
+
 **Bostadsrättsföreningen Djingis Khan**
 
     123 649 69 88
+
+
 
 
 **Bostadsrättsföreningen Ekbacken i Högdalen**
@@ -4519,9 +6223,13 @@ Nummer: 12773
     123 266 58 34
 
 
+
+
 **Bostadsrättsföreningen Elin Wägners Gata**
 
     123 305 76 84
+
+
 
 
 **Bostadsrättsföreningen Essinge Mälarstrand**
@@ -4529,9 +6237,13 @@ Nummer: 12773
     123 461 62 56
 
 
+
+
 **Bostadsrättsföreningen Essinge Port**
 
     123 020 17 72
+
+
 
 
 **Bostadsrättsföreningen Finnboda Port i Nacka**
@@ -4539,9 +6251,13 @@ Nummer: 12773
     123 261 62 66
 
 
+
+
 **Bostadsrättsföreningen Flintgodset**
 
     123 414 47 21
+
+
 
 
 **Bostadsrättsföreningen Flygvärdinnan 1 i Skarpnäck**
@@ -4549,9 +6265,13 @@ Nummer: 12773
     123 541 31 41
 
 
+
+
 **Bostadsrättsföreningen Främby Gård**
 
     123 136 71 19
+
+
 
 
 **Bostadsrättsföreningen Furan**
@@ -4559,9 +6279,13 @@ Nummer: 12773
     123 305 98 21
 
 
+
+
 **Bostadsrättsföreningen Fågelsången i Helsingborg**
 
     123 291 81 18
+
+
 
 
 **Bostadsrättsföreningen Grindstugan i Stockholm**
@@ -4569,9 +6293,13 @@ Nummer: 12773
     123 227 47 44
 
 
+
+
 **Bostadsrättsföreningen Gullvivan i Arboga**
 
     123 199 82 28
+
+
 
 
 **Bostadsrättsföreningen Gyllene Tiden**
@@ -4579,9 +6307,13 @@ Nummer: 12773
     123 032 11 41
 
 
+
+
 **Bostadsrättsföreningen Gärdan i Luleå**
 
     123 172 49 54
+
+
 
 
 **Bostadsrättsföreningen Göteborgshus 13**
@@ -4591,9 +6323,13 @@ Nummer: 12773
     123 318 23 00
 
 
+
+
 **Bostadsrättsföreningen Göteborgshus 26**
 
     123 347 22 89
+
+
 
 
 **Bostadsrättsföreningen Göteborgshus 37**
@@ -4601,9 +6337,13 @@ Nummer: 12773
     123 006 82 47
 
 
+
+
 **Bostadsrättsföreningen Hagaterrassen 1 i Stockholm**
 
     123 152 09 64
+
+
 
 
 **Bostadsrättsföreningen Hamnkranen i Stockholm**
@@ -4611,9 +6351,13 @@ Nummer: 12773
     123 021 28 03
 
 
+
+
 **Bostadsrättsföreningen Harald Stake i Mölndal**
 
     123 641 89 90
+
+
 
 
 **Bostadsrättsföreningen Hemmet 17**
@@ -4621,9 +6365,13 @@ Nummer: 12773
     123 338 78 75
 
 
+
+
 **Bostadsrättsföreningen Hägerstenshamnen nr 2**
 
     123 669 29 33
+
+
 
 
 **Bostadsrättsföreningen Hästängen**
@@ -4631,9 +6379,13 @@ Nummer: 12773
     123 037 42 98
 
 
+
+
 **Bostadsrättsföreningen Höga i Bollebygd**
 
     123 440 20 87
+
+
 
 
 **Bostadsrättsföreningen Idrottsplatsen i Höganäs**
@@ -4641,9 +6393,13 @@ Nummer: 12773
     123 492 50 95
 
 
+
+
 **Bostadsrättsföreningen Ingebäckslyckan 1**
 
     123 690 15 57
+
+
 
 
 **Bostadsrättsföreningen Jämlikheten i Malmö**
@@ -4651,14 +6407,20 @@ Nummer: 12773
     123 439 87 56
 
 
+
+
 **Bostadsrättsföreningen Kedjebacken**
 
     123 263 61 40
 
 
+
+
 **Bostadsrättsföreningen Klarbäret i Stockholm**
 
     123 276 10 62
+
+
 
 
 **Bostadsrättsföreningen Kolarängen**
@@ -4672,9 +6434,13 @@ Nummer: 12773
     123 627 23 22 - Samlingslokal Turbingränd
 
 
+
+
 **Bostadsrättsföreningen Koltrasten**
 
     123 252 50 87
+
+
 
 
 **Bostadsrättsföreningen Krusbäret**
@@ -4682,9 +6448,13 @@ Nummer: 12773
     123 428 40 71
 
 
+
+
 **Bostadsrättsföreningen Kullasund i Vaxholm**
 
     123 180 77 91
+
+
 
 
 **Bostadsrättsföreningen Kärleksörten i Göteborg**
@@ -4692,9 +6462,13 @@ Nummer: 12773
     123 558 61 77
 
 
+
+
 **Bostadsrättsföreningen Limnologen 1**
 
     123 225 29 63
+
+
 
 
 **Bostadsrättsföreningen Lindöporten 2**
@@ -4702,9 +6476,13 @@ Nummer: 12773
     123 198 32 20
 
 
+
+
 **Bostadsrättsföreningen Linero i Lund**
 
     123 252 31 40
+
+
 
 
 **Bostadsrättsföreningen Ljuset**
@@ -4712,9 +6490,13 @@ Nummer: 12773
     123 336 66 06
 
 
+
+
 **Bostadsrättsföreningen Lotsen i Karlstad**
 
     123 230 08 61
+
+
 
 
 **Bostadsrättsföreningen Lunden i Örebro**
@@ -4722,9 +6504,13 @@ Nummer: 12773
     123 063 01 11
 
 
+
+
 **Bostadsrättsföreningen Lärkträdet i Karlskrona**
 
     123 108 07 46
+
+
 
 
 **Bostadsrättsföreningen Lötbacken i Eskilstuna**
@@ -4732,9 +6518,13 @@ Nummer: 12773
     123 536 06 64
 
 
+
+
 **Bostadsrättsföreningen Lövsmygen 1**
 
     123 026 54 96
+
+
 
 
 **Bostadsrättsföreningen Marmorn i Stockholm**
@@ -4742,9 +6532,13 @@ Nummer: 12773
     123 665 26 06
 
 
+
+
 **Bostadsrättsföreningen Minören 2 i Vaxholm**
 
     123 169 91 80
+
+
 
 
 **Bostadsrättsföreningen Mossen i Tidaholm**
@@ -4752,9 +6546,13 @@ Nummer: 12773
     123 603 34 50
 
 
+
+
 **Bostadsrättsföreningen Mälarängen i Järfälla**
 
     123 580 39 37
+
+
 
 
 **Bostadsrättsföreningen Mården på Rävpasset i Gävle**
@@ -4762,9 +6560,13 @@ Nummer: 12773
     123 427 02 94
 
 
+
+
 **Bostadsrättsföreningen Nolered**
 
     123 355 47 63
+
+
 
 
 **Bostadsrättsföreningen Norrköpingshus nr 32**
@@ -4772,9 +6574,13 @@ Nummer: 12773
     123 433 12 94
 
 
+
+
 **Bostadsrättsföreningen Paulus i Malmö**
 
     123 490 32 17
+
+
 
 
 **Bostadsrättsföreningen Paviljongen i Limhamn**
@@ -4782,9 +6588,13 @@ Nummer: 12773
     123 307 55 38
 
 
+
+
 **Bostadsrättsföreningen Pinneberget**
 
     123 637 46 31
+
+
 
 
 **Bostadsrättsföreningen Pinnpojken**
@@ -4792,9 +6602,13 @@ Nummer: 12773
     123 031 38 33
 
 
+
+
 **Bostadsrättsföreningen Rektangeln 22**
 
     123 317 59 32
+
+
 
 
 **Bostadsrättsföreningen Rubinen i Nacka**
@@ -4802,9 +6616,13 @@ Nummer: 12773
     123 492 41 06
 
 
+
+
 **Bostadsrättsföreningen Rödshöjden i Strömstad**
 
     123 458 30 01
+
+
 
 
 **Bostadsrättsföreningen Rönnen i Märsta**
@@ -4812,9 +6630,13 @@ Nummer: 12773
     123 190 12 22
 
 
+
+
 **Bostadsrättsföreningen Sandfallet**
 
     123 503 72 13
+
+
 
 
 **Bostadsrättsföreningen Sandvik**
@@ -4822,9 +6644,13 @@ Nummer: 12773
     123 545 58 03
 
 
+
+
 **Bostadsrättsföreningen Siken**
 
     123 006 42 53
+
+
 
 
 **Bostadsrättsföreningen Sikreno Strand**
@@ -4832,9 +6658,13 @@ Nummer: 12773
     123 102 49 00
 
 
+
+
 **Bostadsrättsföreningen Sjöstaden 3**
 
     123 638 29 56
+
+
 
 
 **Bostadsrättsföreningen Skarpöhöjden i Nacka**
@@ -4842,9 +6672,13 @@ Nummer: 12773
     123 258 80 93
 
 
+
+
 **Bostadsrättsföreningen Skogsgläntan i Umeå**
 
     123 330 42 92
+
+
 
 
 **Bostadsrättsföreningen Skäpplandsgatan 13-17**
@@ -4852,9 +6686,13 @@ Nummer: 12773
     123 023 15 30
 
 
+
+
 **Bostadsrättsföreningen Soldaten i Västerås**
 
     123 618 91 95
+
+
 
 
 **Bostadsrättsföreningen Stabbygårdarna**
@@ -4862,9 +6700,13 @@ Nummer: 12773
     123 653 25 01
 
 
+
+
 **Bostadsrättsföreningen Staven**
 
     123 323 27 09
+
+
 
 
 **Bostadsrättsföreningen Stjärnhusen i Motala**
@@ -4872,9 +6714,13 @@ Nummer: 12773
     123 691 39 90
 
 
+
+
 **Bostadsrättsföreningen Stockholmshus nr 37**
 
     123 549 37 47
+
+
 
 
 **Bostadsrättsföreningen Strandparken 2 i Askersund**
@@ -4882,9 +6728,13 @@ Nummer: 12773
     123 386 28 85
 
 
+
+
 **Bostadsrättsföreningen Strandparken i Bredsand**
 
     123 537 39 64
+
+
 
 
 **Bostadsrättsföreningen Strandpiparen 1934**
@@ -4892,9 +6742,13 @@ Nummer: 12773
     123 297 73 95
 
 
+
+
 **Bostadsrättsföreningen Styrfarten**
 
     123 342 31 18
+
+
 
 
 **Bostadsrättsföreningen Svartvik i Stockholm**
@@ -4902,9 +6756,13 @@ Nummer: 12773
     123 140 71 54
 
 
+
+
 **Bostadsrättsföreningen Svenska Folkbyggen nr 2**
 
     123 644 24 38
+
+
 
 
 **Bostadsrättsföreningen Svetsaren**
@@ -4912,9 +6770,13 @@ Nummer: 12773
     123 191 01 81
 
 
+
+
 **Bostadsrättsföreningen Syrenen 1**
 
     123 517 33 64
+
+
 
 
 **Bostadsrättsföreningen Söderängen i Hörby**
@@ -4922,9 +6784,13 @@ Nummer: 12773
     123 400 54 50
 
 
+
+
 **Bostadsrättsföreningen Sörbyängen i Örebro**
 
     123 649 99 66
+
+
 
 
 **Bostadsrättsföreningen Tegen**
@@ -4932,9 +6798,13 @@ Nummer: 12773
     123 063 14 40
 
 
+
+
 **Bostadsrättsföreningen Tinget i Nacka**
 
     123 331 86 72
+
+
 
 
 **Bostadsrättsföreningen Tollare Marina i Saltsjö-Boo**
@@ -4942,9 +6812,13 @@ Nummer: 12773
     123 125 44 57
 
 
+
+
 **Bostadsrättsföreningen Torpet**
 
     123 057 45 82
+
+
 
 
 **Bostadsrättsföreningen Trumman**
@@ -4952,9 +6826,13 @@ Nummer: 12773
     123 333 87 38
 
 
+
+
 **Bostadsrättsföreningen Tunö i Stockholm**
 
     123 373 08 19
+
+
 
 
 **Bostadsrättsföreningen Tåget**
@@ -4962,9 +6840,13 @@ Nummer: 12773
     123 647 82 83
 
 
+
+
 **Bostadsrättsföreningen Ugnen i Helsingborg**
 
     123 142 41 42
+
+
 
 
 **Bostadsrättsföreningen Vasa i Sollentuna**
@@ -4972,9 +6854,13 @@ Nummer: 12773
     123 404 80 39
 
 
+
+
 **Bostadsrättsföreningen Venus i Täby**
 
     123 301 50 62
+
+
 
 
 **Bostadsrättsföreningen Vesslan Örebro**
@@ -4982,9 +6868,13 @@ Nummer: 12773
     123 091 22 79
 
 
+
+
 **Bostadsrättsföreningen Västeråshus 19**
 
     123 620 43 17
+
+
 
 
 **Bostadsrättsföreningen Västeråshus 23**
@@ -4992,9 +6882,13 @@ Nummer: 12773
     123 166 08 93
 
 
+
+
 **Bostadsrättsföreningen Västeråshus 37**
 
     123 624 91 06
+
+
 
 
 **Bostadsrättsföreningen Växjöhus nr 4**
@@ -5002,9 +6896,13 @@ Nummer: 12773
     123 624 77 61
 
 
+
+
 **Bostadsrättsföreningen Zinken**
 
     123 698 85 54
+
+
 
 
 **Bostadsrättsföreningen Ängen i Mölndal**
@@ -5012,9 +6910,13 @@ Nummer: 12773
     123 159 73 84
 
 
+
+
 **Bostadsrättsföreningen Äpplet 1-5**
 
     123 094 69 54
+
+
 
 
 **Bostadsrättsföreningen Åkanten i Lerum**
@@ -5022,9 +6924,13 @@ Nummer: 12773
     123 608 75 48
 
 
+
+
 **Bostadsrättsföreningen Åreskutan i Göteborg**
 
     123 236 07 41
+
+
 
 
 **Bostadsrättsföreningen Åsen i Kil**
@@ -5032,9 +6938,13 @@ Nummer: 12773
     123 058 86 73
 
 
+
+
 **Bostadsrättsföreningen Önneredsterrassen i Västra Frölunda**
 
     123 072 82 79
+
+
 
 
 **Botkyrka Brukshundklubb**
@@ -5042,9 +6952,13 @@ Nummer: 12773
     123 226 79 20
 
 
+
+
 **Botkyrka Församling**
 
     123 677 66 37 - Botkyrkabarn
+
+
 
 
 **Botkyrka Golfklubb**
@@ -5052,9 +6966,13 @@ Nummer: 12773
     123 689 58 58
 
 
+
+
 **Botkyrka Hembygdsgille**
 
     123 133 68 41
+
+
 
 
 **Botkyrka Kvinno- och tjejjour**
@@ -5062,9 +6980,13 @@ Nummer: 12773
     123 118 41 67
 
 
+
+
 **Botkyrka Pingstförsamling**
 
     123 132 53 23
+
+
 
 
 **Botkyrka Ridsällskap**
@@ -5072,9 +6994,13 @@ Nummer: 12773
     123 120 94 10
 
 
+
+
 **Bottnaryds Alliansförsamling**
 
     123 033 37 81
+
+
 
 
 **Bottnaryds Idrottsförening**
@@ -5082,9 +7008,13 @@ Nummer: 12773
     123 441 80 67
 
 
+
+
 **Bottnarydskretsen**
 
     123 007 87 90
+
+
 
 
 **Boule von Platen**
@@ -5092,9 +7022,13 @@ Nummer: 12773
     123 403 00 86
 
 
+
+
 **Bouleföreningen Lillens Vänner**
 
     123 687 34 67
+
+
 
 
 **Bovallstrand IF**
@@ -5102,9 +7036,13 @@ Nummer: 12773
     123 036 72 43
 
 
+
+
 **Bovallstrands Hembygdsförening**
 
     123 682 53 76
+
+
 
 
 **Bowenpraktiken i Osby / Christel Falk**
@@ -5112,9 +7050,13 @@ Nummer: 12773
     123 609 06 25
 
 
+
+
 **Bowlingklubben Köpings PBK**
 
     123 480 87 70
+
+
 
 
 **Bowlingklubben Prime STHLM**
@@ -5122,9 +7064,13 @@ Nummer: 12773
     123 095 34 22
 
 
+
+
 **Boxholm-Ekeby Skidklubb**
 
     123 480 77 49
+
+
 
 
 **Boxholms Bågskytteklubb**
@@ -5132,9 +7078,13 @@ Nummer: 12773
     123 462 29 73
 
 
+
+
 **Boxholms Församling**
 
     123 232 51 08
+
+
 
 
 **Boxholms Orienteringsklubb**
@@ -5142,9 +7092,13 @@ Nummer: 12773
     123 223 28 25
 
 
+
+
 **Boxholms Ridklubb**
 
     123 677 85 91
+
+
 
 
 **Boxningsklubben Falken**
@@ -5152,9 +7106,13 @@ Nummer: 12773
     123 229 92 95
 
 
+
+
 **Boxningsklubben Ringen**
 
     123 611 13 30
+
+
 
 
 **Boxvike Segelsällskap, BoSS**
@@ -5162,9 +7120,13 @@ Nummer: 12773
     123 638 85 65
 
 
+
+
 **Bra Flyt**
 
     123 097 36 85
+
+
 
 
 **Brahe Basket**
@@ -5172,9 +7134,13 @@ Nummer: 12773
     123 272 29 16
 
 
+
+
 **Brahma Kumaris Andliga Världsuniversitet**
 
     123 422 94 15
+
+
 
 
 **Brand New Profile**
@@ -5182,9 +7148,13 @@ Nummer: 12773
     123 446 31 05
 
 
+
+
 **Brandel & Skogsborg AB**
 
     123 609 50 46
+
+
 
 
 **Brandhjärtans Insamlingsstiftelse**
@@ -5192,9 +7162,13 @@ Nummer: 12773
     123 124 41 85
 
 
+
+
 **Branne Pavlovic**
 
     123 089 23 07
+
+
 
 
 **Brastad Golfklubb**
@@ -5204,9 +7178,13 @@ Nummer: 12773
     123 653 71 38
 
 
+
+
 **Brastads Församling**
 
     123 650 21 16
+
+
 
 
 **Brattby-Gubböle IF**
@@ -5214,9 +7192,13 @@ Nummer: 12773
     123 322 02 82
 
 
+
+
 **Bratteborgs Ryttarsällskap**
 
     123 683 95 26
+
+
 
 
 **Brattvalls Jaktskytteklubb**
@@ -5224,9 +7206,13 @@ Nummer: 12773
     123 517 59 30
 
 
+
+
 **Brattås CK - Friidrott**
 
     123 344 19 53
+
+
 
 
 **Braås GoIF**
@@ -5236,9 +7222,13 @@ Nummer: 12773
     123 220 71 73
 
 
+
+
 **Braås Ponny- och Ridklubb**
 
     123 030 56 15
+
+
 
 
 **Breanäs Hotell AB**
@@ -5246,9 +7236,13 @@ Nummer: 12773
     123 347 55 63
 
 
+
+
 **Bredareds GK**
 
     123 149 80 13
+
+
 
 
 **Bredareds Sportskytteklubb**
@@ -5256,9 +7250,13 @@ Nummer: 12773
     123 512 36 33
 
 
+
+
 **Bredaryds Bygdegårdsförening**
 
     123 394 25 62
+
+
 
 
 **Bredestads Hembygdsförening**
@@ -5266,9 +7264,13 @@ Nummer: 12773
     123 230 12 65
 
 
+
+
 **Bredsels Bygdegårdsförening**
 
     123 319 99 24
+
+
 
 
 **Bredvikens Bygdegårdsförening**
@@ -5276,9 +7278,13 @@ Nummer: 12773
     123 555 83 33
 
 
+
+
 **Brevens Bruks Hembygdsförening**
 
     123 278 70 18
+
+
 
 
 **Breviksstiftelsen**
@@ -5286,9 +7292,13 @@ Nummer: 12773
     123 195 11 36
 
 
+
+
 **Brickebergskyrkans Församling**
 
     123 350 03 78
+
+
 
 
 **Bridgeklubben 2 Klöver**
@@ -5296,9 +7306,13 @@ Nummer: 12773
     123 673 64 41
 
 
+
+
 **Bridgeklubben Pri-Bri 1936**
 
     123 140 67 27
+
+
 
 
 **Bridgestone Padel Arena Vemdalen / PGMG Fastigheter AB**
@@ -5306,9 +7320,13 @@ Nummer: 12773
     123 332 60 97
 
 
+
+
 **Bridging Health Development, Bombali Health Development**
 
     123 252 51 60
+
+
 
 
 **Brinkens IF**
@@ -5316,9 +7334,13 @@ Nummer: 12773
     123 410 45 01
 
 
+
+
 **Brinn för Barnen**
 
     123 380 92 58
+
+
 
 
 **BRIS - Barnens Rätt i Samhället**
@@ -5326,9 +7348,13 @@ Nummer: 12773
     123 901 50 41
 
 
+
+
 **Bro Församling**
 
     123 022 61 26
+
+
 
 
 **Bro Församling**
@@ -5336,9 +7362,13 @@ Nummer: 12773
     123 082 22 96
 
 
+
+
 **Bro-Håbo Brukshundklubb**
 
     123 001 74 42
+
+
 
 
 **Broakulla Folkets Hus**
@@ -5346,14 +7376,20 @@ Nummer: 12773
     123 601 78 75
 
 
+
+
 **Broby Dans**
 
     123 525 27 96
 
 
+
+
 **Broby- Emmislövs Församling**
 
     123 049 73 47
+
+
 
 
 **Broby IF**
@@ -5363,9 +7399,13 @@ Nummer: 12773
     123 507 63 10 - P08/P09
 
 
+
+
 **Broby Karate Klubb**
 
     123 258 68 24
+
+
 
 
 **Brogårdens Bygdegårdsförening**
@@ -5373,9 +7413,13 @@ Nummer: 12773
     123 188 13 82
 
 
+
+
 **Brokinds IF**
 
     123 653 57 44
+
+
 
 
 **Brokyrkan I Borås**
@@ -5383,14 +7427,20 @@ Nummer: 12773
     123 249 48 88
 
 
+
+
 **Brokyrkans Församling**
 
     123 344 38 35 - Ungdomssektionen
 
 
+
+
 **Brokyrkans Församling**
 
     123 526 12 19
+
+
 
 
 **Bromma Församling**
@@ -5402,9 +7452,13 @@ Nummer: 12773
     123 494 80 71
 
 
+
+
 **Bromma Hembygdsförening**
 
     123 474 99 25
+
+
 
 
 **Bromma Jollekappseglingssällskap**
@@ -5412,9 +7466,13 @@ Nummer: 12773
     123 512 01 00
 
 
+
+
 **Bromma-Solna Skytteförening**
 
     123 413 43 18
+
+
 
 
 **Bromma Support**
@@ -5422,9 +7480,13 @@ Nummer: 12773
     123 589 00 17
 
 
+
+
 **Bromma-Vällingby SOK**
 
     123 198 69 34
+
+
 
 
 **Bromölla Jujutsuklubb**
@@ -5432,9 +7494,13 @@ Nummer: 12773
     123 492 94 44
 
 
+
+
 **Bromölla Padelklubb**
 
     123 146 61 68
+
+
 
 
 **Bromölla Skytteförening**
@@ -5442,9 +7508,13 @@ Nummer: 12773
     123 388 74 37
 
 
+
+
 **Bromölla Vattenskidklubb**
 
     123 236 06 42
+
+
 
 
 **Brooklyn Tigers HF**
@@ -5452,9 +7522,13 @@ Nummer: 12773
     123 123 68 76
 
 
+
+
 **Brooklyn Tigers Unga HF**
 
     123 388 54 72
+
+
 
 
 **Brottby SK**
@@ -5462,9 +7536,13 @@ Nummer: 12773
     123 284 19 48
 
 
+
+
 **Brottsofferjouren Borås-Sjuhärad**
 
     123 071 48 24
+
+
 
 
 **Brottsofferjouren Helsingborg**
@@ -5472,9 +7550,13 @@ Nummer: 12773
     123 516 49 83
 
 
+
+
 **Brottsofferjouren i Västerort**
 
     123 605 99 27
+
+
 
 
 **Brottsofferjouren Luleå**
@@ -5482,9 +7564,13 @@ Nummer: 12773
     123 518 92 38
 
 
+
+
 **Brottsofferjouren Mellersta Skåne**
 
     123 063 16 89
+
+
 
 
 **Brottsofferjouren Nacka-Tyresö-Värmdö**
@@ -5492,9 +7578,13 @@ Nummer: 12773
     123 208 89 53
 
 
+
+
 **Brottsofferjouren Norra Dalarna**
 
     123 615 65 58
+
+
 
 
 **Brottsofferjouren Stockholm - Gotland**
@@ -5502,9 +7592,13 @@ Nummer: 12773
     123 367 85 05
 
 
+
+
 **Brottsofferjouren Storgöteborg**
 
     123 688 84 16
+
+
 
 
 **Brottsofferjouren Sverige**
@@ -5512,9 +7606,13 @@ Nummer: 12773
     123 900 34 43
 
 
+
+
 **Brottsofferjouren Varberg**
 
     123 213 22 56
+
+
 
 
 **Brottsofferjouren Värmland, BOJ**
@@ -5522,9 +7620,13 @@ Nummer: 12773
     123 439 42 19
 
 
+
+
 **Brottsofferjouren Västmanland**
 
     123 170 42 87
+
+
 
 
 **Brottsofferjouren Västra Östergötland**
@@ -5532,9 +7634,13 @@ Nummer: 12773
     123 109 65 36
 
 
+
+
 **Brottsofferjouren Växjö**
 
     123 168 69 97
+
+
 
 
 **Brottsofferjouren Örebro Län**
@@ -5542,9 +7648,13 @@ Nummer: 12773
     123 289 48 30
 
 
+
+
 **Brottsofferjouren Östra Värmland**
 
     123 258 80 85
+
+
 
 
 **Brottsofferjouren Övre Dalarna**
@@ -5552,9 +7662,13 @@ Nummer: 12773
     123 305 23 54
 
 
+
+
 **Brudpiga RK - Rodd**
 
     123 074 03 65
+
+
 
 
 **Brukarföreningen Stockholm**
@@ -5562,9 +7676,13 @@ Nummer: 12773
     123 531 16 00
 
 
+
+
 **Brukbar - Cirkulär Järnhandel i Sverige AB**
 
     123 366 75 81
+
+
 
 
 **Brunflo FK**
@@ -5572,9 +7690,13 @@ Nummer: 12773
     123 245 53 27
 
 
+
+
 **Brunnsbo Musikklassförening**
 
     123 113 48 40
+
+
 
 
 **Brunnsjöns Vintervänner**
@@ -5582,9 +7704,13 @@ Nummer: 12773
     123 477 97 24
 
 
+
+
 **Brunnskyrkans Församling**
 
     123 338 27 44 - Kollekt
+
+
 
 
 **Brunnskyrkans Församling**
@@ -5592,9 +7718,13 @@ Nummer: 12773
     123 401 83 39 - Ungdomsverksamhet
 
 
+
+
 **Brunnsparkskyrkan**
 
     123 682 66 63
+
+
 
 
 **Brynäs IF Fotboll**
@@ -5602,9 +7732,13 @@ Nummer: 12773
     123 483 88 43
 
 
+
+
 **Brynäs Kyokushin Karate**
 
     123 239 10 27
+
+
 
 
 **Brynäs Support Gävle**
@@ -5612,9 +7746,13 @@ Nummer: 12773
     123 080 28 35
 
 
+
+
 **Bräcke Ridklubb**
 
     123 412 35 84
+
+
 
 
 **Bräcke Strand / Syrligt AB**
@@ -5622,14 +7760,20 @@ Nummer: 12773
     123 186 97 59
 
 
+
+
 **Brämaregårdens FC**
 
     123 672 96 77
 
 
+
+
 **Brännans IF**
 
     123 697 57 83
+
+
 
 
 **Brännkyrka Församling**
@@ -5653,9 +7797,13 @@ Nummer: 12773
     123 690 89 66
 
 
+
+
 **Brännkyrka Församlings Fredsgrupp**
 
     123 610 96 15
+
+
 
 
 **Brännskadefonden - Swedish Burn Care Foundation**
@@ -5663,11 +7811,15 @@ Nummer: 12773
     123 900 77 25
 
 
+
+
 **Bränntorps Vägförening**
 
     123 094 39 69
 
     123 294 23 16
+
+
 
 
 **Brännöföreningen**
@@ -5687,14 +7839,20 @@ Nummer: 12773
     123 680 44 88
 
 
+
+
 **Brålanda IF**
 
     123 501 34 12
 
 
+
+
 **Bråvalla IK**
 
     123 637 07 04
+
+
 
 
 **Bröstcancerförbundet**
@@ -5704,9 +7862,13 @@ Nummer: 12773
     123 900 82 28
 
 
+
+
 **Bröstcancerföreningen Agatha Skaraborg**
 
     123 199 37 08
+
+
 
 
 **Bröstcancerföreningen Amazona Stockholm**
@@ -5714,9 +7876,13 @@ Nummer: 12773
     123 514 20 39
 
 
+
+
 **Bröstcancerföreningen Blekinge**
 
     123 419 41 63
+
+
 
 
 **Bröstcancerföreningen Dalsland**
@@ -5724,9 +7890,13 @@ Nummer: 12773
     123 279 68 29
 
 
+
+
 **Bröstcancerföreningen Halland**
 
     123 042 90 76
+
+
 
 
 **Bröstcancerföreningen Johanna Trollhättan**
@@ -5734,9 +7904,13 @@ Nummer: 12773
     123 641 02 78
 
 
+
+
 **Bröstcancerföreningen Maria Gävleborg**
 
     123 527 99 06
+
+
 
 
 **Bröstcancerföreningen Norrbotten**
@@ -5744,9 +7918,13 @@ Nummer: 12773
     123 339 51 59
 
 
+
+
 **Bröstcancerföreningen Pärlan Helsingborg**
 
     123 048 23 64
+
+
 
 
 **Bröstcancerföreningen Svea Alingsås**
@@ -5754,9 +7932,13 @@ Nummer: 12773
     123 048 36 93
 
 
+
+
 **Bröstcancerföreningen Uppsala Län**
 
     123 043 80 93
+
+
 
 
 **Bröstcancerföreningen Örnsköldsvik**
@@ -5764,9 +7946,13 @@ Nummer: 12773
     123 389 89 62
 
 
+
+
 **BS Gothia - Bågskytte**
 
     123 031 71 31
+
+
 
 
 **BS Nordboulen**
@@ -5774,9 +7960,13 @@ Nummer: 12773
     123 541 73 57
 
 
+
+
 **BSK Pilen**
 
     123 298 43 34
+
+
 
 
 **BSK Sturarna - Bågskytte**
@@ -5784,14 +7974,20 @@ Nummer: 12773
     123 230 38 40
 
 
+
+
 **BTK Clipper**
 
     123 464 13 04
 
 
+
+
 **BTK Scania**
 
     123 561 43 67
+
+
 
 
 **Buddhistiska Gemenskapen Triratna**
@@ -5801,9 +7997,13 @@ Nummer: 12773
     123 699 13 68 - Karuna
 
 
+
+
 **Buddhistiska Gemenskapen Triratna / Stockholms Buddhistcenter**
 
     123 131 29 90
+
+
 
 
 **Budo Höör IF**
@@ -5811,9 +8011,13 @@ Nummer: 12773
     123 352 55 81
 
 
+
+
 **Budoföreningen Kristianstad Kampsportcenter**
 
     123 568 16 63
+
+
 
 
 **Budoklubben Shindo**
@@ -5821,9 +8025,13 @@ Nummer: 12773
     123 653 71 20
 
 
+
+
 **Budoklubben Yoi**
 
     123 075 82 27
+
+
 
 
 **Bufff Sverige**
@@ -5831,9 +8039,13 @@ Nummer: 12773
     123 900 51 41
 
 
+
+
 **Bujinkan Ninpo Taijutsu Göteborg**
 
     123 006 88 90
+
+
 
 
 **Bukten MTB**
@@ -5841,9 +8053,13 @@ Nummer: 12773
     123 277 67 22
 
 
+
+
 **Bullaregårdens Byggnadsförening**
 
     123 580 11 05
+
+
 
 
 **Bullarens GoIF**
@@ -5853,9 +8069,13 @@ Nummer: 12773
     123 560 41 11 - Medlemsavgift
 
 
+
+
 **Bullermyrens IK**
 
     123 023 22 64
+
+
 
 
 **Bulletin Media Sverige AB**
@@ -5863,6 +8083,8 @@ Nummer: 12773
     123 298 10 90
 
     123 402 68 94
+
+
 
 
 **Bureå Församling**
@@ -5878,9 +8100,13 @@ Nummer: 12773
     123 545 84 76 - Minnesgåvor
 
 
+
+
 **Burlövs RF - Ridsport**
 
     123 440 82 09
+
+
 
 
 **Burmaklubben**
@@ -5888,9 +8114,13 @@ Nummer: 12773
     123 356 73 44
 
 
+
+
 **Burn Valley Swedala Line Dancers**
 
     123 364 89 95
+
+
 
 
 **Burs Bygdegårdsförening**
@@ -5898,9 +8128,13 @@ Nummer: 12773
     123 014 09 54
 
 
+
+
 **Burs GoIF**
 
     123 612 83 42
+
+
 
 
 **Burs Hembygdsförening**
@@ -5908,9 +8142,13 @@ Nummer: 12773
     123 348 17 02
 
 
+
+
 **Burseryds Församling**
 
     123 464 39 79 - Kollekt
+
+
 
 
 **Burseryds GF**
@@ -5918,14 +8156,20 @@ Nummer: 12773
     123 394 54 09
 
 
+
+
 **Burseryds IF**
 
     123 618 50 78 - Seniorfotboll
 
 
+
+
 **Burträsk Hembygdsförening**
 
     123 302 11 69
+
+
 
 
 **Burundi-hjälpen**
@@ -5935,9 +8179,13 @@ Nummer: 12773
     123 667 26 38
 
 
+
+
 **Burviks Golfklubb**
 
     123 303 68 52
+
+
 
 
 **Buråskyrkans Vänner**
@@ -5945,9 +8193,13 @@ Nummer: 12773
     123 447 49 95
 
 
+
+
 **BUS - Barn och Unga i Sverige**
 
     123 430 97 04
+
+
 
 
 **Bushido Karate Karlskrona**
@@ -5955,9 +8207,13 @@ Nummer: 12773
     123 575 02 45
 
 
+
+
 **Busjöns Intresseförening**
 
     123 506 45 63
+
+
 
 
 **Busmat AB**
@@ -5965,9 +8221,13 @@ Nummer: 12773
     123 082 18 84
 
 
+
+
 **Butik Korner AB**
 
     123 092 57 19
+
+
 
 
 **Butiken Förr i Skövde AB**
@@ -5975,9 +8235,13 @@ Nummer: 12773
     123 616 27 96
 
 
+
+
 **Buttle Hembygdsförening**
 
     123 009 22 70
+
+
 
 
 **Byagården Runemo**
@@ -5985,9 +8249,13 @@ Nummer: 12773
     123 514 81 76
 
 
+
+
 **Byalag 1050**
 
     123 253 23 72
+
+
 
 
 **Byalaget på Kivik**
@@ -5995,9 +8263,13 @@ Nummer: 12773
     123 184 76 98
 
 
+
+
 **Bygdeföreningen Tararp Nötabråne**
 
     123 307 82 01
+
+
 
 
 **Bygdegårdsföreningen Rönnehäll**
@@ -6005,9 +8277,13 @@ Nummer: 12773
     123 098 07 89
 
 
+
+
 **Bygdegårdsföreningen Södra Råda**
 
     123 555 12 63
+
+
 
 
 **Bygdelaget i Sturefors**
@@ -6015,9 +8291,13 @@ Nummer: 12773
     123 207 46 80
 
 
+
+
 **Bygdemuseet Ornö Sockenstuga**
 
     123 147 18 79
+
+
 
 
 **Bygdsam Anundsjö**
@@ -6025,9 +8305,13 @@ Nummer: 12773
     123 590 46 69
 
 
+
+
 **Bygdsiljums Motorklubb**
 
     123 232 85 73
+
+
 
 
 **Byggnads**
@@ -6035,9 +8319,13 @@ Nummer: 12773
     123 671 26 24
 
 
+
+
 **Byggnadsföreningen Ringblomma, Ringsta**
 
     123 685 02 26
+
+
 
 
 **Byggnadsföreningen Å-gården i Vollsjö**
@@ -6045,9 +8333,13 @@ Nummer: 12773
     123 382 67 57
 
 
+
+
 **Byggoteknik Halland / Daniel Rytterqvist**
 
     123 640 82 07
+
+
 
 
 **Byrådet Åmot**
@@ -6055,14 +8347,20 @@ Nummer: 12773
     123 392 79 44
 
 
+
+
 **Byske Kyrkstad Förening**
 
     123 198 68 35
 
 
+
+
 **Byxelkroks Golfklubb**
 
     123 608 68 47
+
+
 
 
 **Bäckby Församling**
@@ -6074,9 +8372,13 @@ Nummer: 12773
     123 226 28 63 - Husmor
 
 
+
+
 **Bäckebo GOIF**
 
     123 320 19 77
+
+
 
 
 **Bäckebo Hembygdsförening**
@@ -6084,9 +8386,13 @@ Nummer: 12773
     123 258 64 44
 
 
+
+
 **Bäckefors Hembygds- & Framtidsförening**
 
     123 499 00 08
+
+
 
 
 **Bäcken HC**
@@ -6094,9 +8400,13 @@ Nummer: 12773
     123 584 01 60
 
 
+
+
 **Bälaryds IK**
 
     123 615 86 04
+
+
 
 
 **Bälgvikens Skytteförening**
@@ -6104,9 +8414,13 @@ Nummer: 12773
     123 070 17 55
 
 
+
+
 **Bälinge Bygdegårdsförening**
 
     123 317 05 03
+
+
 
 
 **Bälinge Ryttarförening**
@@ -6114,9 +8428,13 @@ Nummer: 12773
     123 018 20 63
 
 
+
+
 **Bälingebygdens Församling**
 
     123 326 31 67
+
+
 
 
 **Bärens Hus**
@@ -6124,9 +8442,13 @@ Nummer: 12773
     123 314 33 02
 
 
+
+
 **Bärfendals Hembygdsförening**
 
     123 305 43 84
+
+
 
 
 **Bästkustens Aktiva Skytteförening, BAS**
@@ -6134,9 +8456,13 @@ Nummer: 12773
     123 601 03 42
 
 
+
+
 **Bästkustens UCBF**
 
     123 515 66 09
+
+
 
 
 **BÄTTRE STADSDEL Lokal Media AB**
@@ -6144,14 +8470,20 @@ Nummer: 12773
     123 086 79 86
 
 
+
+
 **Bäverdalens Ishockeyklubb**
 
     123 150 35 49
 
 
+
+
 **Bålsta Konståkningsklubb**
 
     123 262 69 68
+
+
 
 
 **Bålsta Ridsportförening**
@@ -6161,9 +8493,13 @@ Nummer: 12773
     123 454 17 77
 
 
+
+
 **Bålsta SK**
 
     123 601 38 25
+
+
 
 
 **Bårmans Trafikskola AB**
@@ -6171,9 +8507,13 @@ Nummer: 12773
     123 254 94 91
 
 
+
+
 **Båsenberga Slalomklubb**
 
     123 596 86 49
+
+
 
 
 **Båstad Bjäre Konstförening**
@@ -6181,9 +8521,13 @@ Nummer: 12773
     123 118 78 97
 
 
+
+
 **Båstad Budoklubb**
 
     123 473 19 64
+
+
 
 
 **Båstad Kammarmusikförening**
@@ -6191,9 +8535,13 @@ Nummer: 12773
     123 162 97 08
 
 
+
+
 **Båstad Makerspace**
 
     123 326 95 86
+
+
 
 
 **Båstad-Östra Karups Församling**
@@ -6203,6 +8551,8 @@ Nummer: 12773
     123 570 64 78 - Östra Karup Kollekt
 
 
+
+
 **Båstads Fritidshamn Ekonomisk Förening, BFEF**
 
     123 135 97 36
@@ -6210,9 +8560,13 @@ Nummer: 12773
     123 678 99 86
 
 
+
+
 **Båstads Ridklubb**
 
     123 312 35 02
+
+
 
 
 **Båt & Byggnadsvård i Roslagen**
@@ -6220,9 +8574,13 @@ Nummer: 12773
     123 313 97 63
 
 
+
+
 **Båtabackens Bryggförening**
 
     123 108 52 65
+
+
 
 
 **Båtklubben Wega**
@@ -6230,9 +8588,13 @@ Nummer: 12773
     123 682 70 34
 
 
+
+
 **Böda Hembygdsförening**
 
     123 105 23 64
+
+
 
 
 **Böle Bygdegårds- och Idrottsförening**
@@ -6240,9 +8602,13 @@ Nummer: 12773
     123 231 60 65
 
 
+
+
 **Böle Bygdegårdsförening**
 
     123 211 49 81
+
+
 
 
 **Bölebyn SK**
@@ -6250,14 +8616,20 @@ Nummer: 12773
     123 388 16 20
 
 
+
+
 **Böloms Bygdegårdsförening**
 
     123 693 28 75
 
 
+
+
 **Bönetåget**
 
     123 511 18 28
+
+
 
 
 **Börje Salming ALS-stiftelse**
@@ -6267,9 +8639,13 @@ Nummer: 12773
     123 383 14 84
 
 
+
+
 **Börringe Bygdeförening**
 
     123 310 27 38
+
+
 
 
 **Börrums Bygdegårdsförening**
@@ -6277,9 +8653,13 @@ Nummer: 12773
     123 195 07 24
 
 
+
+
 **Börsagårdens Samfällighetsförening**
 
     123 684 70 65
+
+
 
 
 
@@ -6291,9 +8671,13 @@ Nummer: 12773
     123 128 22 27
 
 
+
+
 **Café Cuvée Stockholm AB**
 
     123 022 73 30
+
+
 
 
 **Café Malin / Svenska kyrkan Västerås**
@@ -6301,14 +8685,20 @@ Nummer: 12773
     123 240 86 56
 
 
+
+
 **Café Trappanér / Göteborgs Baptistförsamling**
 
     123 560 79 65
 
 
+
+
 **Calles Loge / Carl-Bertil Gullberg**
 
     123 643 31 06
+
+
 
 
 **Camp Sweden TIFO**
@@ -6318,9 +8708,13 @@ Nummer: 12773
     123 188 47 58
 
 
+
+
 **Cancerfonden - Riksföreningen mot cancer**
 
     123 901 95 14
+
+
 
 
 **Cancerföreningen Gävleborg**
@@ -6328,9 +8722,13 @@ Nummer: 12773
     123 901 40 77
 
 
+
+
 **Cancerföreningen i Stockholm, Radiumhemmets forskningsfonder**
 
     123 900 69 09
+
+
 
 
 **Cancerföreningen PALEMA**
@@ -6338,9 +8736,13 @@ Nummer: 12773
     123 338 01 85
 
 
+
+
 **Cancergalan / Karin Wöyer Amcoff**
 
     123 653 23 86 - Cancergalan
+
+
 
 
 **Cancerhjälpen**
@@ -6348,9 +8750,13 @@ Nummer: 12773
     123 900 43 75
 
 
+
+
 **Cancerkompisar**
 
     123 245 91 05
+
+
 
 
 **CancerRehabFonden**
@@ -6358,9 +8764,13 @@ Nummer: 12773
     123 900 20 64
 
 
+
+
 **Cancerstiftelsen i Kalmar län**
 
     123 221 04 90
+
+
 
 
 **Cancerstiftelsen i Kronobergs län**
@@ -6368,9 +8778,13 @@ Nummer: 12773
     123 123 78 41
 
 
+
+
 **Candanza Dansförening**
 
     123 467 75 89
+
+
 
 
 **Cannstaff / Cilla Cannerheim**
@@ -6380,14 +8794,20 @@ Nummer: 12773
     123 556 49 01
 
 
+
+
 **Capella Ecumenica**
 
     123 041 02 90
 
 
+
+
 **Capoeira Arte Popular**
 
     123 073 74 11
+
+
 
 
 **Capoeira Club Cultura Brasileira**
@@ -6397,9 +8817,13 @@ Nummer: 12773
     123 326 53 52
 
 
+
+
 **Capoeira Guanabara Stockholm**
 
     123 504 04 64
+
+
 
 
 **Capoeiraklubb Senzala IF**
@@ -6407,9 +8831,13 @@ Nummer: 12773
     123 670 51 31
 
 
+
+
 **Caporales San Simón**
 
     123 092 91 09
+
+
 
 
 **Caps and Candles for Ukraine - insamling till Ukraina**
@@ -6417,9 +8845,13 @@ Nummer: 12773
     123 278 21 59
 
 
+
+
 **Cariannas Restaurang & Catering AB**
 
     123 672 21 36
+
+
 
 
 **CarinosYoga / Cristina Adams**
@@ -6427,9 +8859,13 @@ Nummer: 12773
     123 391 30 27
 
 
+
+
 **Caritas Linköping**
 
     123 365 16 50
+
+
 
 
 **Carl Johans Pastorat**
@@ -6437,9 +8873,13 @@ Nummer: 12773
     123 664 93 62 - Teckenspråkig verksamhet
 
 
+
+
 **Carl Olof Rosenius-sällskapet**
 
     123 615 64 75
+
+
 
 
 **Carl von Linnékliniken**
@@ -6447,9 +8887,13 @@ Nummer: 12773
     123 207 42 35
 
 
+
+
 **Carlanders Båtvarv AB**
 
     123 494 03 42
+
+
 
 
 **Carlsberg Pripps Pensionärsförening**
@@ -6457,9 +8901,13 @@ Nummer: 12773
     123 353 50 10
 
 
+
+
 **Carlsborgs Segelsällskap, CSS**
 
     123 050 66 75
+
+
 
 
 **Carlshamn Crusaders**
@@ -6467,9 +8915,13 @@ Nummer: 12773
     123 651 60 33
 
 
+
+
 **Carlshamns Badmintonförening**
 
     123 319 55 83
+
+
 
 
 **Carlshamns IBK**
@@ -6477,14 +8929,20 @@ Nummer: 12773
     123 137 06 91
 
 
+
+
 **Carlskrona Shotokan Club**
 
     123 506 54 95
 
 
+
+
 **Carlsson Ring Fastighetsmäklare AB**
 
     123 499 38 95
+
+
 
 
 **Carlstad Crusaders**
@@ -6494,9 +8952,13 @@ Nummer: 12773
     123 555 76 40
 
 
+
+
 **Carlstads BTK**
 
     123 174 73 85
+
+
 
 
 **Caroline Larsson - Massage Hälsa / MassageHLR i Kiruna AB**
@@ -6504,9 +8966,13 @@ Nummer: 12773
     123 117 51 99
 
 
+
+
 **Carrickläktaren**
 
     123 671 35 56
+
+
 
 
 **Carrier Transport AB**
@@ -6514,9 +8980,13 @@ Nummer: 12773
     123 622 23 76
 
 
+
+
 **Casanovas / Casanovas i Vadstena AB**
 
     123 492 97 82
+
+
 
 
 **Cecilia Kyllinge Humor, Musik & Allvar AB**
@@ -6524,9 +8994,13 @@ Nummer: 12773
     123 208 06 20
 
 
+
+
 **Cecilia Tolone / Tolone Studios AB**
 
     123 103 59 71
+
+
 
 
 **Celestin / Branka Okeijn**
@@ -6534,9 +9008,13 @@ Nummer: 12773
     123 307 94 72
 
 
+
+
 **Celiakiföreningen i Kronobergs län**
 
     123 632 64 41
+
+
 
 
 **Celiakiföreningen i Stockholms län**
@@ -6544,9 +9022,13 @@ Nummer: 12773
     123 209 52 30
 
 
+
+
 **Centerpartiets Riksorganisation**
 
     123 421 85 33
+
+
 
 
 **Centrala Soldatregistret / Soldatregistrets Stödförening**
@@ -6554,9 +9036,13 @@ Nummer: 12773
     123 209 53 13
 
 
+
+
 **Centrum för rättvisa, en insamlingsstiftelse**
 
     123 900 15 38
+
+
 
 
 **Centrum För Urbankonst, CFUK**
@@ -6564,9 +9050,13 @@ Nummer: 12773
     123 404 28 91
 
 
+
+
 **Centrumförsamlingen i Forserum**
 
     123 570 00 67
+
+
 
 
 **Centrumkyrkan Bjästa**
@@ -6574,9 +9064,13 @@ Nummer: 12773
     123 326 55 27
 
 
+
+
 **Centrumkyrkan Farsta**
 
     123 054 04 43
+
+
 
 
 **Centrumkyrkan i Finspång**
@@ -6584,9 +9078,13 @@ Nummer: 12773
     123 561 59 50
 
 
+
+
 **Centrumkyrkan i Sundbyberg**
 
     123 653 86 23
+
+
 
 
 **Centrumkyrkan Vallentuna**
@@ -6594,9 +9092,13 @@ Nummer: 12773
     123 570 01 41
 
 
+
+
 **Centrumkyrkans församling i Norrköping**
 
     123 219 60 38
+
+
 
 
 **Centrumkyrkans Ungdom**
@@ -6604,9 +9106,13 @@ Nummer: 12773
     123 568 28 36
 
 
+
+
 **CH Anderssons Trafikskola AB**
 
     123 624 37 29
+
+
 
 
 **Chae Taekwondo Malmö**
@@ -6614,9 +9120,13 @@ Nummer: 12773
     123 224 49 03
 
 
+
+
 **Chalmers Alternative Sports**
 
     123 547 64 03
+
+
 
 
 **Chalmers Golfklubb**
@@ -6626,9 +9136,13 @@ Nummer: 12773
     123 611 27 67 - Restaurant
 
 
+
+
 **Chalmers Studentkårs Idrottsällskap**
 
     123 091 09 92
+
+
 
 
 **Chalmers Sångkör**
@@ -6636,9 +9150,13 @@ Nummer: 12773
     123 083 30 87
 
 
+
+
 **Chalmersska Ingenjörsföreningen - Göteborg**
 
     123 218 38 87
+
+
 
 
 **CHANDRA*KY Gotlands Kundaliniyoga / Marianella Mata-Escobar**
@@ -6646,9 +9164,13 @@ Nummer: 12773
     123 400 62 92
 
 
+
+
 **Change Attitude**
 
     123 589 36 23
+
+
 
 
 **Charity Yoga / Marie Mallmin AB**
@@ -6656,9 +9178,13 @@ Nummer: 12773
     123 107 97 06
 
 
+
+
 **Charlie's House - Fredagskassen / Christian & Louise i Båstad AB**
 
     123 466 50 63
+
+
 
 
 **Charlottenbergs HC**
@@ -6666,9 +9192,13 @@ Nummer: 12773
     123 363 46 56
 
 
+
+
 **Charlottendals MC / Kim Mortensen**
 
     123 684 92 44
+
+
 
 
 **Charterbuss Resetjänst i Kristinehamn AB**
@@ -6676,9 +9206,13 @@ Nummer: 12773
     123 399 11 97
 
 
+
+
 **Chikondi Chimodzi Child Care Centre**
 
     123 269 28 46
+
+
 
 
 **Children Aid-Now / Filadelfiaförsamling**
@@ -6686,9 +9220,13 @@ Nummer: 12773
     123 174 24 69
 
 
+
+
 **Children Need Help**
 
     123 900 00 35
+
+
 
 
 **Children's Equal Rights**
@@ -6696,9 +9234,13 @@ Nummer: 12773
     123 570 01 58
 
 
+
+
 **Children's Home**
 
     123 338 55 31
+
+
 
 
 **Chinese Crested Club**
@@ -6706,14 +9248,20 @@ Nummer: 12773
     123 312 49 22
 
 
+
+
 **Christ for People**
 
     123 155 21 32
 
 
+
+
 **Christianstad Frisbee Club**
 
     123 312 61 82
+
+
 
 
 **Christianstads Skyttesällskap**
@@ -6723,9 +9271,13 @@ Nummer: 12773
     123 362 05 98 - Medlemsavgift
 
 
+
+
 **Christina Nilsson-Sällskapet**
 
     123 677 60 25
+
+
 
 
 **Christinehamns Idrottshistoriska Sällskap, CIS**
@@ -6733,9 +9285,13 @@ Nummer: 12773
     123 270 82 61
 
 
+
+
 **Christinehamns Motorbåtsklubb**
 
     123 355 10 33
+
+
 
 
 **Christinehamns RK**
@@ -6743,9 +9299,13 @@ Nummer: 12773
     123 346 95 41
 
 
+
+
 **Christofer Columbusresor**
 
     123 629 01 26
+
+
 
 
 **Chung-Sim Taekwondo**
@@ -6753,9 +9313,13 @@ Nummer: 12773
     123 123 66 86
 
 
+
+
 **Cigarrkungenshus**
 
     123 609 81 49
+
+
 
 
 **Citrus Advokatbyrå**
@@ -6763,9 +9327,13 @@ Nummer: 12773
     123 039 39 83
 
 
+
+
 **City Church International / City Church Stockholm**
 
     123 003 85 21
+
+
 
 
 **City Skolidrottsförening**
@@ -6773,9 +9341,13 @@ Nummer: 12773
     123 261 77 36
 
 
+
+
 **City Trafikskola i Västerås**
 
     123 136 75 49
+
+
 
 
 **City Trafikskola Sundsvall AB**
@@ -6783,9 +9355,13 @@ Nummer: 12773
     123 056 10 19
 
 
+
+
 **Cityfötter i Borås AB**
 
     123 499 25 82
+
+
 
 
 **Cityidrott Landskrona**
@@ -6793,9 +9369,13 @@ Nummer: 12773
     123 036 69 30
 
 
+
+
 **Citykyrkan i Linköping**
 
     123 041 30 62
+
+
 
 
 **Citykyrkan i Stockholm**
@@ -6803,9 +9383,13 @@ Nummer: 12773
     123 457 27 07
 
 
+
+
 **Civil Rights Defenders**
 
     123 900 12 98
+
+
 
 
 **CK Bure**
@@ -6813,9 +9397,13 @@ Nummer: 12773
     123 535 08 06
 
 
+
+
 **CK Dainon**
 
     123 272 21 71
+
+
 
 
 **CK Falken - Cykel**
@@ -6823,9 +9411,13 @@ Nummer: 12773
     123 427 06 66
 
 
+
+
 **CK Hymer**
 
     123 174 58 68
+
+
 
 
 **CK Ringen**
@@ -6833,9 +9425,13 @@ Nummer: 12773
     123 350 66 49
 
 
+
+
 **CK Stabil**
 
     123 500 93 45
+
+
 
 
 **CK Sundet**
@@ -6843,9 +9439,13 @@ Nummer: 12773
     123 137 13 50
 
 
+
+
 **CK Trafikskola AB**
 
     123 128 18 49
+
+
 
 
 **CK U6 - Cykel**
@@ -6853,9 +9453,13 @@ Nummer: 12773
     123 092 77 98
 
 
+
+
 **CK Uni - Cykel**
 
     123 526 18 47
+
+
 
 
 **CK Vansbro Mtb**
@@ -6863,9 +9467,13 @@ Nummer: 12773
     123 383 27 71
 
 
+
+
 **CK Wänershof**
 
     123 122 43 10
+
+
 
 
 **CK Örnen**
@@ -6873,9 +9481,13 @@ Nummer: 12773
     123 233 97 86
 
 
+
+
 **Clarajouren - Kvinnojouren i Årjäng**
 
     123 209 86 89
+
+
 
 
 **Clarity - Yoga, hälsa & massage i Halmstad / Sara Hagehall**
@@ -6883,14 +9495,20 @@ Nummer: 12773
     123 521 36 57
 
 
+
+
 **Clas Ohlson Foundation**
 
     123 357 64 93
 
 
+
+
 **Classic Car Week**
 
     123 091 75 18
+
+
 
 
 **Clemensnäs IF**
@@ -6904,9 +9522,13 @@ Nummer: 12773
     123 576 30 40 - Klubbline
 
 
+
+
 **Cleos Tarot / Angelina Elander**
 
     123 612 09 01
+
+
 
 
 **Climate Live / Live Green**
@@ -6914,14 +9536,20 @@ Nummer: 12773
     123 062 66 97
 
 
+
+
 **Clownclubben**
 
     123 092 46 47
 
 
+
+
 **Clowner utan Gränser**
 
     123 900 02 09
+
+
 
 
 **Clownkliniken**
@@ -6931,9 +9559,13 @@ Nummer: 12773
     123 900 77 82
 
 
+
+
 **Clownmedicin-Glädjeverkstan**
 
     123 900 83 01
+
+
 
 
 **Clownronden ideell förening**
@@ -6941,9 +9573,13 @@ Nummer: 12773
     123 900 27 00
 
 
+
+
 **Club Parapente Syd, CPS**
 
     123 525 26 63
+
+
 
 
 **Clubhouse Restaurant Kristianstad / Saga Mat och Event AB**
@@ -6951,9 +9587,13 @@ Nummer: 12773
     123 322 40 43
 
 
+
+
 **CMK - Christianstads MotorbåtsKlubb**
 
     123 638 71 12
+
+
 
 
 **Cocaine Anonymous Sverige / CA Sverige**
@@ -6961,9 +9601,13 @@ Nummer: 12773
     123 351 18 70
 
 
+
+
 **Cockerpoo Sverige**
 
     123 271 05 23
+
+
 
 
 **Combat Camp Sweden / Nikolaos Christoforidis**
@@ -6971,9 +9615,13 @@ Nummer: 12773
     123 494 81 96
 
 
+
+
 **Comet Norden AB**
 
     123 282 47 12
+
+
 
 
 **Compassion Sverige**
@@ -6981,9 +9629,13 @@ Nummer: 12773
     123 900 36 41
 
 
+
+
 **Contribution To Opportunities**
 
     123 601 39 65
+
+
 
 
 **Convictus**
@@ -6991,9 +9643,13 @@ Nummer: 12773
     123 900 55 62
 
 
+
+
 **Cornelis Vreeswijksällskapet**
 
     123 554 41 68
+
+
 
 
 **Cosmetic By Sanna Hammes / Sanna Hammes**
@@ -7001,9 +9657,13 @@ Nummer: 12773
     123 124 19 18
 
 
+
+
 **Cosmos Fotbollsklubb**
 
     123 008 11 74
+
+
 
 
 **Crêperiet i Lund**
@@ -7011,9 +9671,13 @@ Nummer: 12773
     123 313 12 65
 
 
+
+
 **Craftstaden IBK**
 
     123 514 67 25
+
+
 
 
 **Crazy Flutters Square Dance Club**
@@ -7021,9 +9685,13 @@ Nummer: 12773
     123 039 94 85
 
 
+
+
 **Credo Sverige**
 
     123 049 68 85
+
+
 
 
 **Crevoice AB**
@@ -7031,9 +9699,13 @@ Nummer: 12773
     123 539 97 20
 
 
+
+
 **Crossfit Bifrost / Knutshyttan AB**
 
     123 223 22 13
+
+
 
 
 **Crossfit Eken / Ekens Sport och Media AB**
@@ -7041,9 +9713,13 @@ Nummer: 12773
     123 000 57 10
 
 
+
+
 **Cultureclub Engelholm AB**
 
     123 274 76 81
+
+
 
 
 **Cupkoncept Sverige AB**
@@ -7051,9 +9727,13 @@ Nummer: 12773
     123 168 80 43
 
 
+
+
 **Curo Riksföreningen för Cancersjuka**
 
     123 690 84 12
+
+
 
 
 **Cykelklubben Bike4Life**
@@ -7061,9 +9741,13 @@ Nummer: 12773
     123 656 84 89
 
 
+
+
 **Cykelklubben Ceres**
 
     123 570 43 66
+
+
 
 
 **Cykelklubben Lygnens Venner**
@@ -7071,9 +9755,13 @@ Nummer: 12773
     123 249 56 38
 
 
+
+
 **Cykelklubben Wheels of Carlshamn**
 
     123 150 74 90
+
+
 
 
 **Cykling Utan Ålder**
@@ -7085,6 +9773,8 @@ Nummer: 12773
 
 
 
+
+
 ## D
 
 **Džemat Trollhättan / Bosniakiska Kultur - Islamiska Församlingen**
@@ -7092,14 +9782,20 @@ Nummer: 12773
     123 105 69 02
 
 
+
+
 **Dagen Gry AB**
 
     123 489 68 74
 
 
+
+
 **Dagen Vision / Tidnings AB Nya Dagen**
 
     123 427 57 07
+
+
 
 
 **Dagens ETC AB**
@@ -7109,9 +9805,13 @@ Nummer: 12773
     123 508 75 49
 
 
+
+
 **Dagens Vimmerby AB**
 
     123 006 96 25
+
+
 
 
 **Dagnys Träning / Donsö Idrottssällskap**
@@ -7119,9 +9819,13 @@ Nummer: 12773
     123 188 34 20
 
 
+
+
 **Dagsbergs IF**
 
     123 213 46 58
+
+
 
 
 **Dagstorpssjön Fiskekort / Höörs Kommun**
@@ -7129,9 +9833,13 @@ Nummer: 12773
     123 431 69 98
 
 
+
+
 **Dala-Floda IF**
 
     123 698 74 24
+
+
 
 
 **Dala-Järna IK, DJIK**
@@ -7145,9 +9853,13 @@ Nummer: 12773
     123 584 98 07 - Huvudstyrelsen
 
 
+
+
 **Dala Padel**
 
     123 166 76 33
+
+
 
 
 **DalaMitts Nose Work Förening, DNWF**
@@ -7155,9 +9867,13 @@ Nummer: 12773
     123 109 95 30
 
 
+
+
 **Dalarna Femund-forkörarförening**
 
     123 095 07 74
+
+
 
 
 **Dalarna hjälper / För Falun I Falun**
@@ -7165,9 +9881,13 @@ Nummer: 12773
     123 020 08 32
 
 
+
+
 **Dalarnas Andlig Healingcenter / Anna-Karin Berg**
 
     123 226 69 22
+
+
 
 
 **Dalarnas Bilkår**
@@ -7175,9 +9895,13 @@ Nummer: 12773
     123 132 46 07
 
 
+
+
 **Dalarnas Dreverklubb**
 
     123 561 57 94
+
+
 
 
 **Dalarnas Kennelklubb**
@@ -7185,9 +9909,13 @@ Nummer: 12773
     123 668 57 13
 
 
+
+
 **Dalarnas Konstförening**
 
     123 359 56 18
+
+
 
 
 **Dalarnas Militära och Polisiära skytteförening**
@@ -7195,9 +9923,13 @@ Nummer: 12773
     123 462 21 97
 
 
+
+
 **Dalarnas Ornitologiska Förening**
 
     123 062 43 20
+
+
 
 
 **Dalarnas Ridsportförbund**
@@ -7205,9 +9937,13 @@ Nummer: 12773
     123 562 21 13
 
 
+
+
 **Dalarnas Skogskarlars Klubb**
 
     123 009 89 47
+
+
 
 
 **Dalarnas Stövarklubb, DSK**
@@ -7215,14 +9951,20 @@ Nummer: 12773
     123 230 22 14
 
 
+
+
 **Dalarö Sportklubb**
 
     123 107 29 66
 
 
+
+
 **Dalbackens Friskola i Hemmingsmark**
 
     123 232 98 60
+
+
 
 
 **Dalby Församling**
@@ -7232,9 +9974,13 @@ Nummer: 12773
     123 510 22 23 - Övrigt
 
 
+
+
 **Dalby GIF**
 
     123 577 63 80
+
+
 
 
 **Dalby Västeråker Bygdegårdsförening**
@@ -7242,9 +9988,13 @@ Nummer: 12773
     123 281 06 53
 
 
+
+
 **Dalbybygdens Släkt- och Folklivsforskarförening**
 
     123 644 56 54
+
+
 
 
 **Dalfors Bygdegårdsförening**
@@ -7252,9 +10002,13 @@ Nummer: 12773
     123 688 23 77
 
 
+
+
 **Dalhem IF**
 
     123 437 38 82
+
+
 
 
 **Dalkurd FF**
@@ -7262,9 +10016,13 @@ Nummer: 12773
     123 255 97 97
 
 
+
+
 **Dalsjö Golfklubb**
 
     123 041 74 36
+
+
 
 
 **Dalskogs Bygdegårdsförening**
@@ -7272,9 +10030,13 @@ Nummer: 12773
     123 552 78 25
 
 
+
+
 **Dalslands Gille i Göteborg**
 
     123 657 83 30
+
+
 
 
 **Dalslands Hästsportklubb**
@@ -7282,9 +10044,13 @@ Nummer: 12773
     123 417 08 25
 
 
+
+
 **Dalslands Travsällskap**
 
     123 677 56 47
+
+
 
 
 **Dalstorps IF**
@@ -7292,9 +10058,13 @@ Nummer: 12773
     123 668 92 28 - Gymnastik
 
 
+
+
 **Dalstorps SKF**
 
     123 049 73 88
+
+
 
 
 **Damföreningen YPSILON**
@@ -7302,9 +10072,13 @@ Nummer: 12773
     123 156 97 06
 
 
+
+
 **Dan Andersson-Sällskapet**
 
     123 009 95 07
+
+
 
 
 **Dan's cykel o skid**
@@ -7312,9 +10086,13 @@ Nummer: 12773
     123 648 84 56
 
 
+
+
 **Dance In Line**
 
     123 161 35 38
+
+
 
 
 **Dandelion Africa Sverige**
@@ -7322,9 +10100,13 @@ Nummer: 12773
     123 360 50 03
 
 
+
+
 **Danderyds Hembygdsförening**
 
     123 222 22 63
+
+
 
 
 **Danderyds Konstrum**
@@ -7332,9 +10114,13 @@ Nummer: 12773
     123 141 06 87
 
 
+
+
 **Danderyds SK Friidrottsförening**
 
     123 005 23 81
+
+
 
 
 **Daniels Betting / Daniel Domeij**
@@ -7342,9 +10128,13 @@ Nummer: 12773
     123 077 53 53
 
 
+
+
 **Dannemora Ridklubb**
 
     123 264 30 88
+
+
 
 
 **Dannike Hembygdsförening**
@@ -7352,9 +10142,13 @@ Nummer: 12773
     123 360 28 36
 
 
+
+
 **Dannike IK**
 
     123 668 71 49
+
+
 
 
 **Dansa Salsa / Event Trading Af Stockholm AB**
@@ -7362,9 +10156,13 @@ Nummer: 12773
     123 347 71 30
 
 
+
+
 **Dansande Krigaren / Pia Lund**
 
     123 215 90 02
+
+
 
 
 **Dansarna**
@@ -7372,9 +10170,13 @@ Nummer: 12773
     123 538 37 16
 
 
+
+
 **Danscenter / Westlund Englund AB**
 
     123 276 65 17
+
+
 
 
 **Dansklubben Nyckeln**
@@ -7382,9 +10184,13 @@ Nummer: 12773
     123 558 08 40
 
 
+
+
 **DansLola / Lola Svensson**
 
     123 137 98 33
+
+
 
 
 **Danssportföreningen Piteswänget**
@@ -7392,9 +10198,13 @@ Nummer: 12773
     123 378 55 24
 
 
+
+
 **Dansstationen Mariestad**
 
     123 466 86 38
+
+
 
 
 **Dante Alighieriföreningen i Ängelholm**
@@ -7402,9 +10212,13 @@ Nummer: 12773
     123 054 03 69
 
 
+
+
 **Dardania Stockholm FF**
 
     123 529 31 13
+
+
 
 
 **Darin Trafikskola**
@@ -7412,9 +10226,13 @@ Nummer: 12773
     123 176 67 08
 
 
+
+
 **Dark Funeral Official Merchandise / Dark Funeral AB**
 
     123 088 74 89
+
+
 
 
 **Dataföreningen i Sverige**
@@ -7424,9 +10242,13 @@ Nummer: 12773
     123 615 18 72
 
 
+
+
 **Dawaa Islamisk Skolförening**
 
     123 091 24 44
+
+
 
 
 **DCL Data Centrum Linköping AB**
@@ -7434,9 +10256,13 @@ Nummer: 12773
     123 580 41 17
 
 
+
+
 **DD Content & Invest AB**
 
     123 688 22 37
+
+
 
 
 **De Bacchanaliska Drinkarne**
@@ -7444,9 +10270,13 @@ Nummer: 12773
     123 638 79 63
 
 
+
+
 **De Heliga Apostlarna Petri och Pauli Ortodoxa Församling**
 
     123 435 50 46
+
+
 
 
 **De litterära sällskapen i Sverige, DELS**
@@ -7454,14 +10284,20 @@ Nummer: 12773
     123 461 62 50
 
 
+
+
 **Deaf Refugees Welcome Sweden, DRW**
 
     123 507 74 66
 
 
+
+
 **Deer light healing / Anna Näsén**
 
     123 026 64 45
+
+
 
 
 **Degeberga-Everöds Församling**
@@ -7471,9 +10307,13 @@ Nummer: 12773
     123 578 90 03
 
 
+
+
 **Degeberga-Widsköfle Golfklubb**
 
     123 213 60 59
+
+
 
 
 **Degerfors Brukshundklubb**
@@ -7481,9 +10321,13 @@ Nummer: 12773
     123 401 87 35
 
 
+
+
 **Degerfors Golf AB (publ)**
 
     123 199 44 90
+
+
 
 
 **Degerfors Volley Orion**
@@ -7491,9 +10335,13 @@ Nummer: 12773
     123 074 02 58
 
 
+
+
 **Degerön-Godegårds IF**
 
     123 069 37 05
+
+
 
 
 **Deila och dåtiden AB**
@@ -7501,9 +10349,13 @@ Nummer: 12773
     123 088 31 16
 
 
+
+
 **Deje SF**
 
     123 185 94 61
+
+
 
 
 **Dekalbolaget i Sala AB**
@@ -7511,9 +10363,13 @@ Nummer: 12773
     123 345 78 19
 
 
+
+
 **Delary IF**
 
     123 512 86 24
+
+
 
 
 **Delborn & Preisler**
@@ -7521,9 +10377,13 @@ Nummer: 12773
     123 075 79 14
 
 
+
+
 **Dellenbygdens fiskevårdsområde**
 
     123 541 72 82
+
+
 
 
 **Delsbo IF**
@@ -7531,9 +10391,13 @@ Nummer: 12773
     123 132 58 44
 
 
+
+
 **Delta Inkasso / Great Week AB**
 
     123 459 99 24
+
+
 
 
 **Demokraterna**
@@ -7541,9 +10405,13 @@ Nummer: 12773
     123 238 66 39
 
 
+
+
 **Demokrati utan gränser**
 
     123 208 83 34
+
+
 
 
 **Demokratibygget**
@@ -7551,14 +10419,20 @@ Nummer: 12773
     123 063 79 67
 
 
+
+
 **Demokratipiloterna**
 
     123 225 64 44
 
 
+
+
 **Den Episkopala Kyrkan i Stockholm**
 
     123 494 19 93
+
+
 
 
 **Den Goda Jorden**
@@ -7568,9 +10442,13 @@ Nummer: 12773
     123 254 48 31
 
 
+
+
 **Den Gode Herdens Församling**
 
     123 489 75 26
+
+
 
 
 **Den Helige Savas Barnfond i Skandinavien**
@@ -7578,9 +10456,13 @@ Nummer: 12773
     123 900 33 85
 
 
+
+
 **Den inre trädgården AB**
 
     123 276 14 19
+
+
 
 
 **Den kulturella hjärnan / Lottie Vikings Insamlingsstiftelse för Forskning på Kultur och Hjärnan**
@@ -7588,9 +10470,13 @@ Nummer: 12773
     123 584 66 05
 
 
+
+
 **Den Lilla Krogen Skövde AB**
 
     123 120 67 21
+
+
 
 
 **Den Väntades Vänner, DVV**
@@ -7598,9 +10484,13 @@ Nummer: 12773
     123 469 99 55
 
 
+
+
 **Denniz Pop Awards Insamlingsstiftelse**
 
     123 092 85 23
+
+
 
 
 **Derby/Linköping Bandyklubb**
@@ -7608,9 +10498,13 @@ Nummer: 12773
     123 434 33 72
 
 
+
+
 **Derome BK**
 
     123 409 08 41
+
+
 
 
 **Derome-Åskloster FF**
@@ -7618,9 +10512,13 @@ Nummer: 12773
     123 243 95 29
 
 
+
+
 **Destination Halmstad**
 
     123 216 57 77
+
+
 
 
 **Det Fria Sverige / Svegot-DFS**
@@ -7628,9 +10526,13 @@ Nummer: 12773
     123 510 57 62
 
 
+
+
 **Det Norske Samfund**
 
     123 568 17 21
+
+
 
 
 **Det nya hoppet, DNH**
@@ -7638,9 +10540,13 @@ Nummer: 12773
     123 453 19 43
 
 
+
+
 **DFK HaSko**
 
     123 067 00 91
+
+
 
 
 **DFK Katrineholm**
@@ -7648,9 +10554,13 @@ Nummer: 12773
     123 042 85 08
 
 
+
+
 **DGFB Flugan/RCD**
 
     123 243 79 29
+
+
 
 
 **Diabetesföreningen Kalmar-Öland m. o.**
@@ -7658,9 +10568,13 @@ Nummer: 12773
     123 116 05 55
 
 
+
+
 **Diabetesmammorna**
 
     123 443 51 52
+
+
 
 
 **Diabetesorganisationen i Sverige, DIOS**
@@ -7668,9 +10582,13 @@ Nummer: 12773
     123 015 70 24
 
 
+
+
 **Diakonala fonden / Strömsunds Pastorat**
 
     123 474 58 16
+
+
 
 
 **Diakonia**
@@ -7680,9 +10598,13 @@ Nummer: 12773
     123 903 30 44
 
 
+
+
 **Din Kiropraktor Falkenberg AB**
 
     123 605 90 59
+
+
 
 
 **Din Trafikskola Partille AB**
@@ -7690,9 +10612,13 @@ Nummer: 12773
     123 273 07 11
 
 
+
+
 **Din Värmepump Service i Skåne AB**
 
     123 092 68 40
+
+
 
 
 **Dina Grundberg**
@@ -7700,9 +10626,13 @@ Nummer: 12773
     123 001 33 00
 
 
+
+
 **Dingtuna Bygdegårdsförening**
 
     123 544 17 87
+
+
 
 
 **Dingtuna Kyrka**
@@ -7710,9 +10640,13 @@ Nummer: 12773
     123 154 24 14 - Kollekt
 
 
+
+
 **Direct Help For Ukraine**
 
     123 418 99 16
+
+
 
 
 **Direktdemokraterna**
@@ -7720,9 +10654,13 @@ Nummer: 12773
     123 538 37 40
 
 
+
+
 **Disability Rights Defenders Sweden, DRDS**
 
     123 063 01 94
+
+
 
 
 **Disabled Refugees Welcome / Stiftelse Institutet för Independent Living**
@@ -7730,9 +10668,13 @@ Nummer: 12773
     123 527 25 21
 
 
+
+
 **Divers Against Ghost Nets**
 
     123 441 08 09
+
+
 
 
 **Djupadals Scoutkår**
@@ -7740,9 +10682,13 @@ Nummer: 12773
     123 172 72 47
 
 
+
+
 **Djur i Balans i Sverige AB**
 
     123 560 43 27
+
+
 
 
 **Djura hembygdsförening**
@@ -7750,9 +10696,13 @@ Nummer: 12773
     123 148 95 82
 
 
+
+
 **Djurens Chans**
 
     123 694 72 79
+
+
 
 
 **Djurens Rätt**
@@ -7760,9 +10710,13 @@ Nummer: 12773
     123 901 08 77
 
 
+
+
 **Djurens Vänner Borås**
 
     123 508 26 72
+
+
 
 
 **Djurens Vänner Götegorg**
@@ -7770,9 +10724,13 @@ Nummer: 12773
     123 225 86 89
 
 
+
+
 **Djurens Vänner Jönköping**
 
     123 634 76 94
+
+
 
 
 **Djurens Vänner Karlshamn**
@@ -7780,9 +10738,13 @@ Nummer: 12773
     123 116 13 30
 
 
+
+
 **Djurens Vänner Lidköping**
 
     123 074 07 12
+
+
 
 
 **Djurens Vänner Mönsterås**
@@ -7790,9 +10752,13 @@ Nummer: 12773
     123 418 33 07
 
 
+
+
 **Djurens Vänner Nässjö**
 
     123 545 54 07
+
+
 
 
 **Djurens Vänner Skåne**
@@ -7800,9 +10766,13 @@ Nummer: 12773
     123 303 41 96
 
 
+
+
 **Djurens Vänner Tranås**
 
     123 430 07 11
+
+
 
 
 **Djurens Vänner Umeå**
@@ -7810,9 +10780,13 @@ Nummer: 12773
     123 472 35 24
 
 
+
+
 **Djurens Vänner Vetlanda**
 
     123 041 66 02
+
+
 
 
 **Djurens Vänner Värnamo**
@@ -7820,9 +10794,13 @@ Nummer: 12773
     123 529 29 74
 
 
+
+
 **Djurens Vänner Växjö**
 
     123 097 04 75
+
+
 
 
 **Djurens Vänners Riksorganisation**
@@ -7830,9 +10808,13 @@ Nummer: 12773
     123 354 91 51
 
 
+
+
 **Djurgården Innebandy**
 
     123 576 68 03
+
+
 
 
 **Djurgårdens Handikappfotboll**
@@ -7840,9 +10822,13 @@ Nummer: 12773
     123 423 36 23
 
 
+
+
 **Djurgårdens Hembygdsförening**
 
     123 238 40 48
+
+
 
 
 **Djurgårdens IF Boxningsförening**
@@ -7850,9 +10836,13 @@ Nummer: 12773
     123 617 28 37
 
 
+
+
 **Djurgårdens IF Cykel**
 
     123 608 38 10
+
+
 
 
 **Djurgårdens IF Fotboll**
@@ -7860,14 +10850,20 @@ Nummer: 12773
     123 084 44 07 - Lotteri
 
 
+
+
 **Djurgårdens IF Fäktförening**
 
     123 481 90 09
 
 
+
+
 **Djurgårdens IF Padel**
 
     123 296 89 23
+
+
 
 
 **Djurgårdens Ridskola AB**
@@ -7877,9 +10873,13 @@ Nummer: 12773
     123 114 90 20
 
 
+
+
 **Djurgårdens Supporters Club**
 
     123 236 09 49
+
+
 
 
 **Djurhemmet Tassebo / Stiftelsen Djurhemmet I Helsingborg**
@@ -7887,9 +10887,13 @@ Nummer: 12773
     123 419 70 26
 
 
+
+
 **Djurhemmet Tigerharen Vegan Sanctuary**
 
     123 018 56 03
+
+
 
 
 **Djurrättsalliansen**
@@ -7897,9 +10901,13 @@ Nummer: 12773
     123 073 07 39
 
 
+
+
 **Djursholm Scoutkår**
 
     123 218 22 44
+
+
 
 
 **Djursholms Forntid och Framtid, Samfundet**
@@ -7907,9 +10915,13 @@ Nummer: 12773
     123 400 37 45
 
 
+
+
 **Djursholms GK**
 
     123 022 67 20
+
+
 
 
 **Djursholms Ridklubb**
@@ -7917,9 +10929,13 @@ Nummer: 12773
     123 461 07 47
 
 
+
+
 **Djurskydd i Östeuropa, DiÖ**
 
     123 182 38 06
+
+
 
 
 **Djurskydddet Helsingborg**
@@ -7927,9 +10943,13 @@ Nummer: 12773
     123 115 41 78
 
 
+
+
 **Djurskyddet**
 
     123 062 10 86
+
+
 
 
 **Djurskyddet Bill & Bull i Söderhamn**
@@ -7937,9 +10957,13 @@ Nummer: 12773
     123 048 49 23
 
 
+
+
 **Djurskyddet Bohuslän**
 
     123 458 60 46
+
+
 
 
 **Djurskyddet Bollnäs-Ovanåker**
@@ -7947,9 +10971,13 @@ Nummer: 12773
     123 660 43 75
 
 
+
+
 **Djurskyddet Dalarna**
 
     123 634 84 11
+
+
 
 
 **Djurskyddet Fiahemmet Norrköping**
@@ -7957,9 +10985,13 @@ Nummer: 12773
     123 379 53 90
 
 
+
+
 **Djurskyddet Flyingebygden**
 
     123 051 26 81
+
+
 
 
 **Djurskyddet i Nyköping**
@@ -7967,9 +10999,13 @@ Nummer: 12773
     123 360 26 79
 
 
+
+
 **Djurskyddet Jämtlands Län**
 
     123 441 76 55
+
+
 
 
 **Djurskyddet Kalmar**
@@ -7977,9 +11013,13 @@ Nummer: 12773
     123 240 39 13
 
 
+
+
 **Djurskyddet Karlshamn**
 
     123 281 33 19
+
+
 
 
 **Djurskyddet Karlstad**
@@ -7987,9 +11027,13 @@ Nummer: 12773
     123 417 16 90
 
 
+
+
 **Djurskyddet Kattfotens Katthem Halmstad**
 
     123 408 51 63
+
+
 
 
 **Djurskyddet Kattvärnet**
@@ -7997,14 +11041,20 @@ Nummer: 12773
     123 319 63 34
 
 
+
+
 **Djurskyddet Kristinehamn**
 
     123 553 49 04
 
 
+
+
 **Djurskyddet Landskrona**
 
     123 172 45 82
+
+
 
 
 **Djurskyddet Mälartassen**
@@ -8014,9 +11064,13 @@ Nummer: 12773
     123 439 74 51 - Kastrering
 
 
+
+
 **Djurskyddet Norra Halland**
 
     123 394 40 48
+
+
 
 
 **Djurskyddet Norra Värmland**
@@ -8024,9 +11078,13 @@ Nummer: 12773
     123 237 26 39
 
 
+
+
 **Djurskyddet Sigfrid Växjö**
 
     123 024 63 55
+
+
 
 
 **Djurskyddet Skaraborg**
@@ -8034,9 +11092,13 @@ Nummer: 12773
     123 433 16 09
 
 
+
+
 **Djurskyddet Skellefteå**
 
     123 047 44 37
+
+
 
 
 **Djurskyddet Stockholm Norrort**
@@ -8044,9 +11106,13 @@ Nummer: 12773
     123 487 36 59
 
 
+
+
 **Djurskyddet Strängnäs**
 
     123 231 56 53
+
+
 
 
 **Djurskyddet Sundsvall**
@@ -8054,9 +11120,13 @@ Nummer: 12773
     123 644 45 58
 
 
+
+
 **Djurskyddet Sverige**
 
     123 900 10 66
+
+
 
 
 **Djurskyddet Säffle-Åmål**
@@ -8064,9 +11134,13 @@ Nummer: 12773
     123 688 01 40
 
 
+
+
 **Djurskyddet Vilsna Tassar Hällefors**
 
     123 565 22 43
+
+
 
 
 **Djurskyddet Västerbotten**
@@ -8074,9 +11148,13 @@ Nummer: 12773
     123 664 00 64
 
 
+
+
 **Djurskyddet Västervik**
 
     123 143 81 00
+
+
 
 
 **Djurskyddet Ådalen**
@@ -8084,9 +11162,13 @@ Nummer: 12773
     123 137 44 87
 
 
+
+
 **Djurskyddet Åsele Katthem Kurrlyan**
 
     123 263 35 92
+
+
 
 
 **Djurskyddet Örnsköldsvik**
@@ -8094,9 +11176,13 @@ Nummer: 12773
     123 602 18 85
 
 
+
+
 **DjurVarDag AB**
 
     123 441 96 69
+
+
 
 
 **Djurö Byalag**
@@ -8104,9 +11190,13 @@ Nummer: 12773
     123 420 30 22
 
 
+
+
 **Djurö Konst & Kultur**
 
     123 547 45 49
+
+
 
 
 **Djurö, Möja och Nämdö Församling**
@@ -8120,9 +11210,13 @@ Nummer: 12773
     123 667 27 60 - Kollekt Djurö
 
 
+
+
 **Djurö-Vindö IF**
 
     123 513 97 46
+
+
 
 
 **DK-9 Hundskola / DK-9 Säkerhetstjänst AB**
@@ -8130,9 +11224,13 @@ Nummer: 12773
     123 210 78 45
 
 
+
+
 **DK Dream Team - Danssport**
 
     123 545 16 95
+
+
 
 
 **DK Mälarbuggarna - Danssport**
@@ -8140,9 +11238,13 @@ Nummer: 12773
     123 436 73 63
 
 
+
+
 **DK Rocksulan - Danssport**
 
     123 440 73 67
+
+
 
 
 **DK Snésteg - Danssport**
@@ -8150,14 +11252,20 @@ Nummer: 12773
     123 614 84 49
 
 
+
+
 **DK Swing - Danssport**
 
     123 232 58 68
 
 
+
+
 **Do Music Records**
 
     123 012 34 89
+
+
 
 
 **Docksta Bordtennisklubb (DBTK)**
@@ -8169,9 +11277,13 @@ Nummer: 12773
     123 621 27 57 - 888400-7287
 
 
+
+
 **DogRescue Sweden**
 
     123 545 71 06
+
+
 
 
 **Domarringens Samfällighetsförening**
@@ -8179,9 +11291,13 @@ Nummer: 12773
     123 232 77 16
 
 
+
+
 **Dominicaines de Sainte Marie des Tourelles**
 
     123 396 92 19
+
+
 
 
 **Domkyrkopastoratet Göteborg**
@@ -8189,9 +11305,13 @@ Nummer: 12773
     123 511 79 08 - Johannebergs församling
 
 
+
+
 **Domnarvets GoIF**
 
     123 344 00 47
+
+
 
 
 **Domsjö Församling**
@@ -8199,9 +11319,13 @@ Nummer: 12773
     123 679 50 17
 
 
+
+
 **Domstens Byförening**
 
     123 357 99 50
+
+
 
 
 **Domstens Båtklubb**
@@ -8209,9 +11333,13 @@ Nummer: 12773
     123 547 05 39
 
 
+
+
 **Donnez Orkester AB**
 
     123 013 44 86
+
+
 
 
 **Dooman Teknik AB**
@@ -8219,9 +11347,13 @@ Nummer: 12773
     123 084 49 10
 
 
+
+
 **Dorotea IF**
 
     123 269 80 25
+
+
 
 
 **Dotzsky Jiujitsu och Friskvård**
@@ -8229,9 +11361,13 @@ Nummer: 12773
     123 688 67 41
 
 
+
+
 **Drabbrikan / Frantzwagner Sällskapet - Sinti Kettanepa**
 
     123 071 64 64
+
+
 
 
 **Drakamöllans Vänner för Kultur och Vetenskap**
@@ -8239,14 +11375,20 @@ Nummer: 12773
     123 304 92 77
 
 
+
+
 **Drakbergsskolan / Kannebäcks friskoleförening**
 
     123 576 34 53
 
 
+
+
 **Drakfight AB**
 
     123 480 84 65 - Kim Falk
+
+
 
 
 **Dravets Syndrome Association Sweden, DSAS**
@@ -8258,9 +11400,13 @@ Nummer: 12773
     123 466 55 01
 
 
+
+
 **Dreamcenter Ideell Förening**
 
     123 900 37 99
+
+
 
 
 **Drevinge Ryttarsällskap**
@@ -8268,9 +11414,13 @@ Nummer: 12773
     123 255 58 03
 
 
+
+
 **Drive Cool Trafikskola i Löddeköpinge/Kävlinge / Leif Swahn**
 
     123 535 19 45
+
+
 
 
 **Drivkraft Malmö**
@@ -8278,9 +11428,13 @@ Nummer: 12773
     123 240 45 07
 
 
+
+
 **Droginformation för alla**
 
     123 901 12 06
+
+
 
 
 **Drones2Ukraine / Make A Difference Foundation**
@@ -8288,9 +11442,13 @@ Nummer: 12773
     123 205 07 14
 
 
+
+
 **Drop In Sporta**
 
     123 664 32 74
+
+
 
 
 **Dropzone Discgolfklubb**
@@ -8298,14 +11456,20 @@ Nummer: 12773
     123 555 09 91
 
 
+
+
 **Drott Hemservice AB**
 
     123 095 08 81
 
 
+
+
 **Drottningskärs IF**
 
     123 639 85 23
+
+
 
 
 **Drottningstadens Scoutkår**
@@ -8315,9 +11479,13 @@ Nummer: 12773
     123 467 20 77
 
 
+
+
 **Drängsereds Hembygdsförening**
 
     123 129 46 10
+
+
 
 
 **DSK Dalir**
@@ -8325,9 +11493,13 @@ Nummer: 12773
     123 545 60 74
 
 
+
+
 **Dundret MTB**
 
     123 134 04 96
+
+
 
 
 **Dunker-Lilla Malma Församling**
@@ -8335,9 +11507,13 @@ Nummer: 12773
     123 132 63 47
 
 
+
+
 **Dunkers IF**
 
     123 464 36 64
+
+
 
 
 **Duvbo IK**
@@ -8345,9 +11521,13 @@ Nummer: 12773
     123 059 40 51
 
 
+
+
 **Duveskogs Reseservice AB**
 
     123 271 00 36
+
+
 
 
 **Dvärgschnauzerringen**
@@ -8355,9 +11535,13 @@ Nummer: 12773
     123 302 33 89
 
 
+
+
 **Dvärsätts BK**
 
     123 652 01 18
+
+
 
 
 **Dybecks Byalag**
@@ -8365,9 +11549,13 @@ Nummer: 12773
     123 381 51 49
 
 
+
+
 **Dyggur Islandshästförening**
 
     123 198 53 08
+
+
 
 
 **Dyk & Hav / Thomas Edin**
@@ -8375,9 +11563,13 @@ Nummer: 12773
     123 214 90 11
 
 
+
+
 **DYKNING.NET Sverige AB**
 
     123 222 71 63
+
+
 
 
 **Dyltabruks Ryttarförening**
@@ -8385,9 +11577,13 @@ Nummer: 12773
     123 026 79 22
 
 
+
+
 **Dyröns Samhällsförening**
 
     123 161 65 72
+
+
 
 
 **Dyslexiförbundet**
@@ -8397,9 +11593,13 @@ Nummer: 12773
     123 900 82 85
 
 
+
+
 **Däckcenter Stora Höga**
 
     123 500 04 92
+
+
 
 
 **Däckgubben / Transport & Lager Eskilstuna Aktiebolag**
@@ -8407,9 +11607,13 @@ Nummer: 12773
     123 689 67 40
 
 
+
+
 **Dänningelanda BTK**
 
     123 022 65 14
+
+
 
 
 **Döderhults Församling**
@@ -8417,14 +11621,20 @@ Nummer: 12773
     123 222 21 49
 
 
+
+
 **Döderhults Pistolskytteklubb**
 
     123 087 89 67
 
 
+
+
 **Dösjebro Scoutkår**
 
     123 650 51 19
+
+
 
 
 **Dösjöbro IF**
@@ -8456,9 +11666,13 @@ Nummer: 12773
     123 613 07 77 - Buster Bus
 
 
+
+
 **Dövas Afrika Mission, DAM**
 
     123 148 56 14
+
+
 
 
 
@@ -8470,9 +11684,13 @@ Nummer: 12773
     123 039 47 75
 
 
+
+
 **E.F.S Missionsförening i Järvsö**
 
     123 454 70 89
+
+
 
 
 **E & P Event AB**
@@ -8480,9 +11698,13 @@ Nummer: 12773
     123 169 86 04
 
 
+
+
 **EAD Sweden AB**
 
     123 303 73 89
+
+
 
 
 **Early Morning Swingers / Claes Hanngren**
@@ -8490,9 +11712,13 @@ Nummer: 12773
     123 670 13 38
 
 
+
+
 **East Front, Östers IF**
 
     123 338 34 86
+
+
 
 
 **Eastfield's Linedancers Club**
@@ -8500,9 +11726,13 @@ Nummer: 12773
     123 211 22 58
 
 
+
+
 **Eastside Basketklubb**
 
     123 302 39 67
+
+
 
 
 **Eastwoods Kiropraktik / Eva Eastwood**
@@ -8510,9 +11740,13 @@ Nummer: 12773
     123 640 13 50
 
 
+
+
 **Easy Gym / PT-Team Haparanda AB**
 
     123 162 56 64
+
+
 
 
 **Easy Moving / Anna Harrstedt**
@@ -8520,9 +11754,13 @@ Nummer: 12773
     123 663 92 98
 
 
+
+
 **Ebba Pettersson**
 
     123 275 25 17
+
+
 
 
 **Ebba Petterssons Föräldraförening**
@@ -8530,9 +11768,13 @@ Nummer: 12773
     123 314 30 96
 
 
+
+
 **Ebbas Vandrarhem i Borgholm**
 
     123 482 95 03
+
+
 
 
 **EChurch**
@@ -8540,9 +11782,13 @@ Nummer: 12773
     123 350 32 57
 
 
+
+
 **ECO Butiken**
 
     123 617 23 73
+
+
 
 
 **Ecodive Stockholm**
@@ -8550,14 +11796,20 @@ Nummer: 12773
     123 559 94 10
 
 
+
+
 **Econordica / TUFA AB**
 
     123 073 09 29
 
 
+
+
 **ECPAT Sverige**
 
     123 903 43 49
+
+
 
 
 **Eda Församling**
@@ -8567,9 +11819,13 @@ Nummer: 12773
     123 202 91 55
 
 
+
+
 **Eda Golfklubb**
 
     123 363 46 07
+
+
 
 
 **Eda-Köla Pastorat**
@@ -8585,9 +11841,13 @@ Nummer: 12773
     123 644 23 96 - Köla kyrka
 
 
+
+
 **Eda Ryttarförening**
 
     123 006 32 14
+
+
 
 
 **Edebäcks Bygdegårdsförening**
@@ -8595,9 +11855,13 @@ Nummer: 12773
     123 598 11 39
 
 
+
+
 **Edenhamn Terapi / Ann-Sofie Edenhamn**
 
     123 113 99 48
+
+
 
 
 **Edenryds Båtklubb**
@@ -8605,9 +11869,13 @@ Nummer: 12773
     123 190 60 80
 
 
+
+
 **Edhsläktens förening**
 
     123 490 41 08
+
+
 
 
 **Eds Atlet**
@@ -8615,9 +11883,13 @@ Nummer: 12773
     123 280 17 02
 
 
+
+
 **Eds Brukshundklubb**
 
     123 431 34 41
+
+
 
 
 **Eds FF**
@@ -8627,9 +11899,13 @@ Nummer: 12773
     123 678 31 87
 
 
+
+
 **Eds Församling**
 
     123 067 19 58
+
+
 
 
 **Eds Ryttarsällskap**
@@ -8639,9 +11915,13 @@ Nummer: 12773
     123 588 19 09
 
 
+
+
 **Eds Skidklubb**
 
     123 422 75 42
+
+
 
 
 **Edsbergs Båtklubb**
@@ -8649,9 +11929,13 @@ Nummer: 12773
     123 540 21 51
 
 
+
+
 **Edsbro Hembygdsförening**
 
     123 445 11 26
+
+
 
 
 **Edsbro RF**
@@ -8659,9 +11943,13 @@ Nummer: 12773
     123 426 43 05
 
 
+
+
 **Edsbyn Red Farmers**
 
     123 018 07 78
+
+
 
 
 **Edsbyns Gymnastikförening**
@@ -8669,9 +11957,13 @@ Nummer: 12773
     123 618 50 11
 
 
+
+
 **Edsbyns IF**
 
     123 283 87 95 - Bandysektionen
+
+
 
 
 **Edsbyns IF HF - Handboll**
@@ -8679,9 +11971,13 @@ Nummer: 12773
     123 577 43 51
 
 
+
+
 **Edsvikens Båtklubb**
 
     123 084 98 93
+
+
 
 
 **Edsvikskyrkans Församling**
@@ -8689,9 +11985,13 @@ Nummer: 12773
     123 304 75 60
 
 
+
+
 **Edsvära Bygdegårdsförening**
 
     123 570 40 85
+
+
 
 
 **Education4Future**
@@ -8699,9 +11999,13 @@ Nummer: 12773
     123 323 31 11
 
 
+
+
 **Education Nepal**
 
     123 122 74 53
+
+
 
 
 **Eezer Sverige Ideell Förening**
@@ -8709,14 +12013,20 @@ Nummer: 12773
     123 349 59 26
 
 
+
+
 **EFI Fadder Insamlingsstiftelse**
 
     123 900 43 00
 
 
+
+
 **eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning / eFolkets Vänner**
 
     123 467 31 82
+
+
 
 
 **EFS Evangeliska Fosterlands-stiftelsen**
@@ -8726,6 +12036,8 @@ Nummer: 12773
     123 570 01 74 - Sverigemission
 
     123 900 99 03
+
+
 
 
 **EFS - Evangeliska Fosterlandsstiftelsen**
@@ -8741,14 +12053,20 @@ Nummer: 12773
     123 901 00 26
 
 
+
+
 **EFS gården Åsljunga**
 
     123 173 12 80
 
 
+
+
 **EFS Hörbykrets**
 
     123 668 96 65
+
+
 
 
 **EFS i Sydsverige**
@@ -8758,9 +12076,13 @@ Nummer: 12773
     123 626 85 93 - Övrigt
 
 
+
+
 **EFS i Söderköping**
 
     123 427 04 50
+
+
 
 
 **EFS Missionsförening Hammarbykyrkan**
@@ -8768,9 +12090,13 @@ Nummer: 12773
     123 419 50 12
 
 
+
+
 **EFS Missionsförening i Betlehemskyrkan**
 
     123 163 99 96
+
+
 
 
 **EFS Missionsförening i Borås**
@@ -8778,9 +12104,13 @@ Nummer: 12773
     123 181 21 97
 
 
+
+
 **EFS Missionsförening i Skellefteå**
 
     123 282 68 73
+
+
 
 
 **EFS Missionsförening i Sävar**
@@ -8790,9 +12120,13 @@ Nummer: 12773
     123 588 10 57 - Salt
 
 
+
+
 **EFS Missionsförening i Umeå**
 
     123 562 87 14
+
+
 
 
 **EFS Missionsförening i Örebro**
@@ -8800,9 +12134,13 @@ Nummer: 12773
     123 555 78 97
 
 
+
+
 **EFS Missionsförening i Örnsköldsvik**
 
     123 538 35 00
+
+
 
 
 **EFS Missionsförening Östersund**
@@ -8812,14 +12150,20 @@ Nummer: 12773
     123 421 83 27 - Frösövallen
 
 
+
+
 **EFS Norrbotten**
 
     123 013 37 44
 
 
+
+
 **EFS Norrfjärden**
 
     123 579 24 29
+
+
 
 
 **EFS Västerbotten**
@@ -8829,9 +12173,13 @@ Nummer: 12773
     123 453 68 19
 
 
+
+
 **EFS Västerås**
 
     123 280 52 24
+
+
 
 
 **EFS Ås**
@@ -8839,9 +12187,13 @@ Nummer: 12773
     123 470 10 82
 
 
+
+
 **Eggvena Hembygdsförening**
 
     123 499 38 87
+
+
 
 
 **Eglise Suédoise, Svenska Kyrkan i Paris**
@@ -8849,9 +12201,13 @@ Nummer: 12773
     123 133 50 58
 
 
+
+
 **Egnahems BK**
 
     123 345 33 62
+
+
 
 
 **Egnahemsfabriken Tjörn**
@@ -8859,9 +12215,13 @@ Nummer: 12773
     123 227 46 29
 
 
+
+
 **Ekarnas Golfklubb**
 
     123 476 32 49
+
+
 
 
 **Ekbackens Ryttarförening**
@@ -8869,9 +12229,13 @@ Nummer: 12773
     123 188 17 05
 
 
+
+
 **Ekbackskyrkans Församling**
 
     123 268 31 34
+
+
 
 
 **Ekbackskyrkans Innebandyklubb**
@@ -8879,14 +12243,20 @@ Nummer: 12773
     123 640 11 94
 
 
+
+
 **Ekeby Bygdegårdsförening**
 
     123 383 88 69
 
 
+
+
 **Ekeby GIF**
 
     123 030 57 48
+
+
 
 
 **Ekeby IF**
@@ -8898,9 +12268,13 @@ Nummer: 12773
     123 695 42 34
 
 
+
+
 **Ekeby Sockenförening**
 
     123 198 36 83
+
+
 
 
 **Ekebyholms Adventkyrka**
@@ -8908,9 +12282,13 @@ Nummer: 12773
     123 272 53 49
 
 
+
+
 **Ekens Djurklinik i Skövde & Tidaholm**
 
     123 570 47 88
+
+
 
 
 **Ekerö Båtklubb**
@@ -8918,9 +12296,13 @@ Nummer: 12773
     123 024 59 51
 
 
+
+
 **Ekerö IK**
 
     123 123 59 85
+
+
 
 
 **Ekerö MTB**
@@ -8928,9 +12310,13 @@ Nummer: 12773
     123 359 48 01
 
 
+
+
 **Ekerö Ridskola**
 
     123 349 01 66
+
+
 
 
 **Ekerö Shotokan Karate Do**
@@ -8938,9 +12324,13 @@ Nummer: 12773
     123 444 29 01
 
 
+
+
 **Ekhagens IF**
 
     123 467 65 24
+
+
 
 
 **EKHO Göteborg**
@@ -8948,9 +12338,13 @@ Nummer: 12773
     123 494 87 82
 
 
+
+
 **EKHO Skåne**
 
     123 270 85 68
+
+
 
 
 **EKHO Stockholm / EKHO Riksförbund**
@@ -8958,9 +12352,13 @@ Nummer: 12773
     123 550 33 39
 
 
+
+
 **EKHO Sydöst**
 
     123 640 85 20
+
+
 
 
 **Ekholmsnäs Golf Lidingö**
@@ -8968,9 +12366,13 @@ Nummer: 12773
     123 557 36 96
 
 
+
+
 **Ekholmsnäs Golf Lidingö AB**
 
     123 533 21 43
+
+
 
 
 **Eknäs Musikförening**
@@ -8978,9 +12380,13 @@ Nummer: 12773
     123 291 56 68
 
 
+
+
 **EKO Bowling Ball Center AB**
 
     123 427 71 66
+
+
 
 
 **Ekos Trafikskola E.D. AB**
@@ -8988,9 +12394,13 @@ Nummer: 12773
     123 062 65 31
 
 
+
+
 **Ekshärads Församling**
 
     123 237 54 42 - Blomsterfonden
+
+
 
 
 **Eksjö Bridgeklubb**
@@ -8998,9 +12408,13 @@ Nummer: 12773
     123 637 28 41
 
 
+
+
 **Eksjö Brukshundklubb**
 
     123 290 97 37
+
+
 
 
 **Eksjö Cykelklubb**
@@ -9008,9 +12422,13 @@ Nummer: 12773
     123 128 04 86
 
 
+
+
 **Eksjö Djurskyddsförening**
 
     123 047 49 65
+
+
 
 
 **Eksjö Fiskeklubb**
@@ -9018,9 +12436,13 @@ Nummer: 12773
     123 264 48 88
 
 
+
+
 **Eksjö Konstförening**
 
     123 303 40 48
+
+
 
 
 **Eksjö Naturskyddsförening**
@@ -9028,9 +12450,13 @@ Nummer: 12773
     123 224 18 83
 
 
+
+
 **Eksjö Pingstförsamling**
 
     123 592 32 14
+
+
 
 
 **Eksjö RC Klubb**
@@ -9038,9 +12464,13 @@ Nummer: 12773
     123 033 70 48 - Båt
 
 
+
+
 **Eksjö RC Klubb - Bilsport**
 
     123 275 18 99 - Bil
+
+
 
 
 **Eksjö Skyttegille**
@@ -9048,14 +12478,20 @@ Nummer: 12773
     123 006 82 96
 
 
+
+
 **Eksjö SOK**
 
     123 542 16 23
 
 
+
+
 **Eksjö Tjejjour**
 
     123 084 48 51
+
+
 
 
 **Eksjöortens RF - Ridsport**
@@ -9071,9 +12507,13 @@ Nummer: 12773
     123 449 21 20 - Ungdomssektionen
 
 
+
+
 **Ekström & Garay AB**
 
     123 181 87 56
+
+
 
 
 **Eksätra Ryttarsällskap**
@@ -9081,9 +12521,13 @@ Nummer: 12773
     123 277 22 42
 
 
+
+
 **Ekuddens Camping / Kungsör Camping AB**
 
     123 170 46 00
+
+
 
 
 **Ekumeniakyrkan Tibro**
@@ -9091,9 +12535,13 @@ Nummer: 12773
     123 153 35 87
 
 
+
+
 **Ekwall Rullar / Bröstcancerförbundet**
 
     123 391 24 09 - Ekwall Rullar
+
+
 
 
 **Ekängens IF**
@@ -9101,9 +12549,13 @@ Nummer: 12773
     123 607 17 40
 
 
+
+
 **Elbilsmagasinet / Bonize Digital AB**
 
     123 145 30 42
+
+
 
 
 **Eldsberga Gymnastikförening**
@@ -9111,14 +12563,20 @@ Nummer: 12773
     123 029 42 80
 
 
+
+
 **Eldsberga - Tönnersjö Scoutkår**
 
     123 333 75 24
 
 
+
+
 **Elektra Bio i Västerås, Folkets Bio**
 
     123 471 33 76
+
+
 
 
 **Elektronikföreningen Admittansen**
@@ -9128,9 +12586,13 @@ Nummer: 12773
     123 331 70 47 - Medlemsavgift
 
 
+
+
 **ElektroTekniska Föreningen vid Lunds Tekniska Högskola, Lunds Universitet**
 
     123 019 24 76
+
+
 
 
 **Eleria AB, Elena Öberg**
@@ -9138,9 +12600,13 @@ Nummer: 12773
     123 076 44 56
 
 
+
+
 **Elfsborgskatten**
 
     123 174 77 73
+
+
 
 
 **Elias Adestam AB**
@@ -9148,9 +12614,13 @@ Nummer: 12773
     123 324 65 68
 
 
+
+
 **Elimförsamlingen Bjuråker**
 
     123 030 56 07
+
+
 
 
 **Elimförsamlingen i Örebro**
@@ -9162,9 +12632,13 @@ Nummer: 12773
     123 592 23 64 - Kollekt
 
 
+
+
 **Elimförsamlingen Styrsö**
 
     123 222 32 12
+
+
 
 
 **Elimkyrkan Skövde Baptistförsamling**
@@ -9174,9 +12648,13 @@ Nummer: 12773
     123 602 56 47
 
 
+
+
 **Elimkyrkans Baptistförsamling**
 
     123 175 86 89
+
+
 
 
 **Elins Glashus / Sensibelle**
@@ -9184,9 +12662,13 @@ Nummer: 12773
     123 126 82 83
 
 
+
+
 **Elisabeth Bergstrand-Poulsen Sällskapet, EBP-Sällskapet**
 
     123 334 99 66
+
+
 
 
 **Elisedahls ridskola / Johanna Holmgren**
@@ -9194,9 +12676,13 @@ Nummer: 12773
     123 220 67 79
 
 
+
+
 **Ellen Key-Sällskapet**
 
     123 245 89 66
+
+
 
 
 **Ellen Keys Stiftelse Strand**
@@ -9204,9 +12690,13 @@ Nummer: 12773
     123 378 00 79
 
 
+
+
 **Elm Falketorp**
 
     123 594 77 75
+
+
 
 
 **ELM-Nord, Evangelisk Luthersk Mission**
@@ -9214,9 +12704,13 @@ Nummer: 12773
     123 551 08 96
 
 
+
+
 **ELM Vittsjö**
 
     123 527 67 53
+
+
 
 
 **Elsas Blommor i Östercentrum**
@@ -9224,9 +12718,13 @@ Nummer: 12773
     123 321 43 27
 
 
+
+
 **Elunds Föräldraförening**
 
     123 295 59 20
+
+
 
 
 **Elöverkänsligas Riksförbund**
@@ -9234,9 +12732,13 @@ Nummer: 12773
     123 337 56 72
 
 
+
+
 **Embassy of Ukraine in Sweden / Ukrainska Ambassaden**
 
     123 460 99 21
+
+
 
 
 **Emerichfonden**
@@ -9244,9 +12746,13 @@ Nummer: 12773
     123 259 34 24
 
 
+
+
 **Emilia Löf Karlsson / Exlabs AB**
 
     123 315 81 28
+
+
 
 
 **Emmaboda BMK**
@@ -9254,9 +12760,13 @@ Nummer: 12773
     123 082 24 03
 
 
+
+
 **Emådalens Brukshundsklubb**
 
     123 355 36 74
+
+
 
 
 **Emådalens Naturskyddsförening**
@@ -9264,9 +12774,13 @@ Nummer: 12773
     123 046 01 21
 
 
+
+
 **En Frisk Generation**
 
     123 900 75 50
+
+
 
 
 **En Garde Fäktförening Solna**
@@ -9274,14 +12788,20 @@ Nummer: 12773
     123 228 45 29
 
 
+
+
 **En Hjälpande Hand**
 
     123 268 33 32
 
 
+
+
 **Ena Bygdegårdsförening**
 
     123 614 74 66
+
+
 
 
 **Endre IF**
@@ -9291,9 +12811,13 @@ Nummer: 12773
     123 350 55 18
 
 
+
+
 **Eneby BK**
 
     123 545 08 46
+
+
 
 
 **Enebybergs IF**
@@ -9303,9 +12827,13 @@ Nummer: 12773
     123 627 44 84 - Fotbollssektionen
 
 
+
+
 **Energifullt - Emma Stockman / Flexmedic AB**
 
     123 427 52 85
+
+
 
 
 **Energikraft / CMM Redovisning / Marie Melin**
@@ -9313,9 +12841,13 @@ Nummer: 12773
     123 611 71 54
 
 
+
+
 **Engelholm Marching Band**
 
     123 362 94 41 - Engelholm Marching Band
+
+
 
 
 **Engelholms Volleybollsällskap, EVS**
@@ -9323,9 +12855,13 @@ Nummer: 12773
     123 635 97 98
 
 
+
+
 **Engelsberg Norbergs Järnvägshistoriska Förening, ENJ**
 
     123 098 92 69
+
+
 
 
 **Engineering For Development, EFD**
@@ -9333,9 +12869,13 @@ Nummer: 12773
     123 084 63 45
 
 
+
+
 **Engströms Artstudio AB**
 
     123 350 04 51
+
+
 
 
 **Engsö Hembygds- och Intresseförening**
@@ -9343,9 +12883,13 @@ Nummer: 12773
     123 117 39 39
 
 
+
+
 **Enhangens FVO**
 
     123 448 77 57
+
+
 
 
 **Enhörna Båtklubb**
@@ -9353,9 +12897,13 @@ Nummer: 12773
     123 181 73 29
 
 
+
+
 **Enhörna Frikyrkoförsamling**
 
     123 131 35 76
+
+
 
 
 **Enkel Teknik / Christoffer Orre**
@@ -9363,9 +12911,13 @@ Nummer: 12773
     123 404 34 36
 
 
+
+
 **Enkla Ting Vallåkra AB**
 
     123 538 25 02
+
+
 
 
 **Enköping Ki Aikido**
@@ -9373,9 +12925,13 @@ Nummer: 12773
     123 372 11 31
 
 
+
+
 **Enköping United FK**
 
     123 245 92 79
+
+
 
 
 **Enköpings Biodlare**
@@ -9383,9 +12939,13 @@ Nummer: 12773
     123 586 76 19
 
 
+
+
 **Enköpings Brukshundklubb**
 
     123 125 87 48
+
+
 
 
 **Enköpings IS**
@@ -9393,14 +12953,20 @@ Nummer: 12773
     123 455 23 86
 
 
+
+
 **Enköpings Karateklubb**
 
     123 327 80 33
 
 
+
+
 **Enköpings KK**
 
     123 084 49 44
+
+
 
 
 **Enköpings Klätterklubb**
@@ -9410,9 +12976,13 @@ Nummer: 12773
     123 530 28 98
 
 
+
+
 **Enköpings Konstförening**
 
     123 256 68 34
+
+
 
 
 **Enköpings MK - Bilsport**
@@ -9420,9 +12990,13 @@ Nummer: 12773
     123 162 65 06
 
 
+
+
 **Enköpings Padel Team**
 
     123 003 96 51
+
+
 
 
 **Enköpings RK - Ridsport**
@@ -9430,9 +13004,13 @@ Nummer: 12773
     123 553 71 21
 
 
+
+
 **Enköpings Rugbyklubb**
 
     123 555 76 99
+
+
 
 
 **Enköpings SK HK**
@@ -9442,6 +13020,8 @@ Nummer: 12773
     123 281 69 99 - 50/50
 
     123 381 80 02 - Team 11
+
+
 
 
 **Enköpings SK UK**
@@ -9455,9 +13035,13 @@ Nummer: 12773
     123 673 47 68 - Dam J
 
 
+
+
 **Enköpingsnäs Bygdegårdsförening**
 
     123 677 79 81
+
+
 
 
 **Enmanuel Medicinsk Fotvård / Martha Tavarez**
@@ -9465,9 +13049,13 @@ Nummer: 12773
     123 678 09 28
 
 
+
+
 **Enskede Ridskola AB**
 
     123 595 92 67
+
+
 
 
 **Enskede Ridsällskap**
@@ -9477,9 +13065,13 @@ Nummer: 12773
     123 041 78 32
 
 
+
+
 **Enskede Scoutkår**
 
     123 423 61 96
+
+
 
 
 **Enskede Sportfiskeklubb**
@@ -9487,9 +13079,13 @@ Nummer: 12773
     123 425 63 19
 
 
+
+
 **Enskede-Årsta Församling**
 
     123 087 16 16
+
+
 
 
 **Enskild Firma / Maria Jonsson**
@@ -9497,9 +13093,13 @@ Nummer: 12773
     123 220 00 38
 
 
+
+
 **Enskilda Högskolan Stockholm / Teologiska Högskolan Stockholm AB**
 
     123 100 35 32
+
+
 
 
 **Ensta Parks Byalag**
@@ -9507,9 +13107,13 @@ Nummer: 12773
     123 385 20 43
 
 
+
+
 **Entomologiska Föreningen i Stockholm**
 
     123 476 33 97
+
+
 
 
 **Envikens Församling**
@@ -9517,9 +13121,13 @@ Nummer: 12773
     123 453 78 58
 
 
+
+
 **Envikens Hembygdsförening**
 
     123 165 72 61
+
+
 
 
 **Enånger-Njutångers Församling**
@@ -9527,9 +13135,13 @@ Nummer: 12773
     123 189 95 09
 
 
+
+
 **Enångers Bygdegårdsförening**
 
     123 612 31 94
+
+
 
 
 **Eolshälls 4H-gård**
@@ -9537,9 +13149,13 @@ Nummer: 12773
     123 594 95 16
 
 
+
+
 **Equmenia Ansgarskyrkan Västerås**
 
     123 417 08 90
+
+
 
 
 **Equmenia Ekbackskyrkan**
@@ -9547,9 +13163,13 @@ Nummer: 12773
     123 181 95 15
 
 
+
+
 **Equmenia Elimkyrkan Eskilstuna**
 
     123 239 22 49
+
+
 
 
 **Equmenia Fjällstugan**
@@ -9557,9 +13177,13 @@ Nummer: 12773
     123 618 59 79
 
 
+
+
 **Equmenia Fridhemskyrkan**
 
     123 690 68 95
+
+
 
 
 **Equmenia Fristad**
@@ -9567,9 +13191,13 @@ Nummer: 12773
     123 526 17 63
 
 
+
+
 **Equmenia Habo**
 
     123 042 68 17
+
+
 
 
 **Equmenia Hovslätt**
@@ -9577,9 +13205,13 @@ Nummer: 12773
     123 617 78 51 - Ungdomssektionen
 
 
+
+
 **Equmenia Hönö**
 
     123 494 86 91
+
+
 
 
 **Equmenia i Ansgariikyrkan**
@@ -9587,9 +13219,13 @@ Nummer: 12773
     123 079 56 82
 
 
+
+
 **Equmenia i Asklanda-Ornunga**
 
     123 302 20 35
+
+
 
 
 **Equmenia Johanneberg**
@@ -9597,9 +13233,13 @@ Nummer: 12773
     123 147 04 26
 
 
+
+
 **Equmenia Knivsta**
 
     123 493 64 07
+
+
 
 
 **Equmenia Lidköping**
@@ -9607,9 +13247,13 @@ Nummer: 12773
     123 576 31 56
 
 
+
+
 **Equmenia Ljurhalla**
 
     123 311 71 65 - Ungdomssektionen
+
+
 
 
 **Equmenia Nord**
@@ -9617,9 +13261,13 @@ Nummer: 12773
     123 461 13 07
 
 
+
+
 **Equmenia på Smögen**
 
     123 240 81 44
+
+
 
 
 **Equmenia Rambergskyrkan**
@@ -9627,9 +13275,13 @@ Nummer: 12773
     123 267 01 15
 
 
+
+
 **Equmenia Riks, Ungdomsarbete**
 
     123 213 48 31
+
+
 
 
 **Equmenia Rodenkyrkan Norrtälje**
@@ -9637,9 +13289,13 @@ Nummer: 12773
     123 137 14 00 - Gåvor, Kollekt
 
 
+
+
 **Equmenia Sala**
 
     123 671 96 60
+
+
 
 
 **Equmenia Skellefteå**
@@ -9647,9 +13303,13 @@ Nummer: 12773
     123 528 98 22
 
 
+
+
 **Equmenia Stora Skedvi**
 
     123 073 76 76
+
+
 
 
 **Equmenia Vrigstad**
@@ -9657,14 +13317,20 @@ Nummer: 12773
     123 422 86 98
 
 
+
+
 **Equmenia Älvsjö**
 
     123 442 47 68
 
 
+
+
 **Equmenia Örbyhus**
 
     123 390 81 00
+
+
 
 
 **Equmeniakyrkan**
@@ -9674,9 +13340,13 @@ Nummer: 12773
     123 900 32 86
 
 
+
+
 **Equmeniakyrkan Anderstorp**
 
     123 172 17 11
+
+
 
 
 **Equmeniakyrkan Bohus-Björkö**
@@ -9684,9 +13354,13 @@ Nummer: 12773
     123 649 23 00
 
 
+
+
 **Equmeniakyrkan Ekenässjön**
 
     123 106 55 49
+
+
 
 
 **Equmeniakyrkan Gotland, Snäckan**
@@ -9694,9 +13368,13 @@ Nummer: 12773
     123 580 89 02
 
 
+
+
 **Equmeniakyrkan Gräfsnäs Sollebrunn**
 
     123 187 07 65
+
+
 
 
 **Equmeniakyrkan Gråbo**
@@ -9704,9 +13382,13 @@ Nummer: 12773
     123 511 13 49
 
 
+
+
 **Equmeniakyrkan Hallunda**
 
     123 225 86 22
+
+
 
 
 **Equmeniakyrkan Hjo**
@@ -9714,9 +13396,13 @@ Nummer: 12773
     123 223 97 88
 
 
+
+
 **Equmeniakyrkan Hovslätt**
 
     123 282 67 25
+
+
 
 
 **Equmeniakyrkan Huskvarna**
@@ -9724,9 +13410,13 @@ Nummer: 12773
     123 172 07 62
 
 
+
+
 **Equmeniakyrkan Hökerum**
 
     123 106 93 50
+
+
 
 
 **Equmeniakyrkan i Surte**
@@ -9734,9 +13424,13 @@ Nummer: 12773
     123 042 80 45
 
 
+
+
 **Equmeniakyrkan Jonsered**
 
     123 602 54 07
+
+
 
 
 **Equmeniakyrkan Kvillsfors**
@@ -9744,9 +13438,13 @@ Nummer: 12773
     123 131 41 60
 
 
+
+
 **Equmeniakyrkan Lagmansholm**
 
     123 466 41 08
+
+
 
 
 **Equmeniakyrkan Lerkil**
@@ -9754,9 +13452,13 @@ Nummer: 12773
     123 458 29 53
 
 
+
+
 **Equmeniakyrkan Linköping**
 
     123 483 32 08
+
+
 
 
 **Equmeniakyrkan Ljurhalla**
@@ -9764,9 +13466,13 @@ Nummer: 12773
     123 652 43 34
 
 
+
+
 **Equmeniakyrkan Lycksele**
 
     123 173 04 31
+
+
 
 
 **Equmeniakyrkan Malmköping**
@@ -9774,14 +13480,20 @@ Nummer: 12773
     123 214 80 05
 
 
+
+
 **Equmeniakyrkan Skeda**
 
     123 422 82 01
 
 
+
+
 **Equmeniakyrkan Sävedalen**
 
     123 588 12 14
+
+
 
 
 **Equmeniakyrkan Södra Nissadalen**
@@ -9791,9 +13503,13 @@ Nummer: 12773
     123 539 85 73 - Barnverksamhet, ungdomsverksamhet
 
 
+
+
 **Equmeniakyrkan Tåstorp Rensvist Eggvena Lagmansholm**
 
     123 039 20 68
+
+
 
 
 **Equmeniakyrkan Vaggeryd**
@@ -9801,9 +13517,13 @@ Nummer: 12773
     123 580 79 61
 
 
+
+
 **Equmeniakyrkan Värmlandsnäs**
 
     123 023 48 98
+
+
 
 
 **Equmeniakyrkan Vårgårda**
@@ -9811,9 +13531,13 @@ Nummer: 12773
     123 502 23 48
 
 
+
+
 **Equmeniakyrkan Vårgårdabygden**
 
     123 080 01 93
+
+
 
 
 **Equmeniakyrkan Åmål**
@@ -9821,9 +13545,13 @@ Nummer: 12773
     123 109 59 00
 
 
+
+
 **Equmeniakyrkan Ölme**
 
     123 267 05 94
+
+
 
 
 **Equmeniakyrkan Örbyhus**
@@ -9831,9 +13559,13 @@ Nummer: 12773
     123 681 74 80
 
 
+
+
 **Equmeniakyrkan Östervallskog**
 
     123 006 38 59
+
+
 
 
 **Equmeniayrkan Holmedal & Blomskog**
@@ -9843,9 +13575,13 @@ Nummer: 12773
     123 105 39 17
 
 
+
+
 **Equus Caballus Rescue Foundation, ECRF**
 
     123 150 55 10
+
+
 
 
 **Ergonomi Center i Västerås / Lennart Vingehag**
@@ -9853,9 +13589,13 @@ Nummer: 12773
     123 281 66 43
 
 
+
+
 **Eric Svensson Musik & Underhållning**
 
     123 022 70 17
+
+
 
 
 **Erika Givell**
@@ -9863,9 +13603,13 @@ Nummer: 12773
     123 697 21 86
 
 
+
+
 **Erikssons Trafikskola i Malmö AB**
 
     123 155 48 72
+
+
 
 
 **Eritreanska Ortodoxa Tewahedo Kyrkan I Skandinavien (koptiska patriarkatet), EOTCS**
@@ -9873,6 +13617,8 @@ Nummer: 12773
     123 614 48 85
 
     123 614 67 65
+
+
 
 
 **Ersmarks IK**
@@ -9922,9 +13668,13 @@ Nummer: 12773
     123 622 09 90 - F12
 
 
+
+
 **Ersnäs IF**
 
     123 264 83 68
+
+
 
 
 **Ersta Bigårdar / Cecilia Almlöf**
@@ -9932,9 +13682,13 @@ Nummer: 12773
     123 134 12 88
 
 
+
+
 **Ersta Diakonisällskap**
 
     123 900 05 48
+
+
 
 
 **Escape Outdoors / Solid Skills AB**
@@ -9942,9 +13696,13 @@ Nummer: 12773
     123 650 75 78
 
 
+
+
 **Eskelhems Bygdegårdsförening**
 
     123 545 68 27
+
+
 
 
 **Eskilstuna Basket**
@@ -9952,9 +13710,13 @@ Nummer: 12773
     123 480 51 23
 
 
+
+
 **Eskilstuna Boule Petanque**
 
     123 561 14 88
+
+
 
 
 **Eskilstuna Brukshundsklubb**
@@ -9962,9 +13724,13 @@ Nummer: 12773
     123 160 54 68
 
 
+
+
 **Eskilstuna BS**
 
     123 251 78 60
+
+
 
 
 **Eskilstuna City FK**
@@ -9984,9 +13750,13 @@ Nummer: 12773
     123 638 99 44 - P08
 
 
+
+
 **Eskilstuna Djurskyddsförening och Kälby Djurhem**
 
     123 609 58 71
+
+
 
 
 **Eskilstuna FC**
@@ -9994,9 +13764,13 @@ Nummer: 12773
     123 053 89 83
 
 
+
+
 **Eskilstuna Friidrottsförening**
 
     123 143 28 14
+
+
 
 
 **Eskilstuna Golf AB**
@@ -10004,14 +13778,20 @@ Nummer: 12773
     123 058 76 18
 
 
+
+
 **Eskilstuna Golfklubb**
 
     123 113 59 87
 
 
+
+
 **Eskilstuna Guif**
 
     123 487 96 15
+
+
 
 
 **Eskilstuna GUIF IF**
@@ -10033,6 +13813,8 @@ Nummer: 12773
     123 697 20 20 - Rosabandetkampanjen
 
 
+
+
 **Eskilstuna Hunddressyrklubb**
 
     123 087 51 61 - Köket
@@ -10040,9 +13822,13 @@ Nummer: 12773
     123 410 93 36 - Tävling, Kurs
 
 
+
+
 **Eskilstuna IK Triathlon-Cykel**
 
     123 453 55 48
+
+
 
 
 **Eskilstuna Jaktskytteklubb**
@@ -10050,9 +13836,13 @@ Nummer: 12773
     123 221 86 34
 
 
+
+
 **Eskilstuna Karateklubb**
 
     123 267 01 80
+
+
 
 
 **Eskilstuna Klätterklubb**
@@ -10060,9 +13850,13 @@ Nummer: 12773
     123 047 28 29
 
 
+
+
 **Eskilstuna Linden Hockeyklubb**
 
     123 463 80 60 - J18
+
+
 
 
 **Eskilstuna Motorbåtsklubb, EMBK**
@@ -10070,9 +13864,13 @@ Nummer: 12773
     123 041 05 89
 
 
+
+
 **Eskilstuna Motorflygklubb, EMFK**
 
     123 181 64 95
+
+
 
 
 **Eskilstuna OL - Orientering**
@@ -10080,9 +13878,13 @@ Nummer: 12773
     123 340 95 21
 
 
+
+
 **Eskilstuna Pensionärernas Motions Klubb, PMK**
 
     123 646 07 29
+
+
 
 
 **Eskilstuna Pistolskytteklubb**
@@ -10090,9 +13892,13 @@ Nummer: 12773
     123 334 95 94
 
 
+
+
 **Eskilstuna Ponnytravsällskap**
 
     123 188 18 38
+
+
 
 
 **Eskilstuna Simklubb**
@@ -10100,9 +13906,13 @@ Nummer: 12773
     123 218 22 85 - cafeteria
 
 
+
+
 **Eskilstuna Simklubb, ESK**
 
     123 258 08 19
+
+
 
 
 **Eskilstuna Sushi Bar / Spicy Soup AB**
@@ -10110,9 +13920,13 @@ Nummer: 12773
     123 681 17 07
 
 
+
+
 **Eskilstuna Trafikskola AB**
 
     123 354 20 65
+
+
 
 
 **Eskilstuna United DFF**
@@ -10120,9 +13934,13 @@ Nummer: 12773
     123 662 92 73
 
 
+
+
 **Eskilstunaortens Jägarklubb, EOJK**
 
     123 691 70 33
+
+
 
 
 **Eskilstunaortens Ryttarförening**
@@ -10130,9 +13948,13 @@ Nummer: 12773
     123 651 08 95
 
 
+
+
 **Eslövs BK**
 
     123 354 83 93
+
+
 
 
 **Eslövs Brukshundklubb**
@@ -10140,9 +13962,13 @@ Nummer: 12773
     123 563 65 35
 
 
+
+
 **Eslövs Cykelklubb**
 
     123 539 30 61
+
+
 
 
 **Eslövs IBF**
@@ -10150,9 +13976,13 @@ Nummer: 12773
     123 311 35 03
 
 
+
+
 **Eslövs JSK - Skyttesport**
 
     123 370 89 63
+
+
 
 
 **Eslövs kommun**
@@ -10160,9 +13990,13 @@ Nummer: 12773
     123 056 41 20 - Marieholmsbadet
 
 
+
+
 **Eslövs Ridklubb**
 
     123 287 57 30
+
+
 
 
 **Eslövs Scout Föräldraförening**
@@ -10170,9 +14004,13 @@ Nummer: 12773
     123 182 40 10
 
 
+
+
 **Eslövs Simsällskap**
 
     123 097 17 05
+
+
 
 
 **Eslövs Taekwondo Klubb**
@@ -10180,9 +14018,13 @@ Nummer: 12773
     123 617 30 09
 
 
+
+
 **Esperssons Åkeri AB**
 
     123 437 34 60
+
+
 
 
 **Essense i Kiruna AB**
@@ -10190,9 +14032,13 @@ Nummer: 12773
     123 039 99 72
 
 
+
+
 **Essinge Båtklubb**
 
     123 230 24 38
+
+
 
 
 **Essinge IK**
@@ -10202,9 +14048,13 @@ Nummer: 12773
     123 185 01 89 - F15/16
 
 
+
+
 **Essunga skytteförening**
 
     123 213 68 02
+
+
 
 
 **Ester's Help**
@@ -10212,9 +14062,13 @@ Nummer: 12773
     123 548 98 93
 
 
+
+
 **Estlandssvenskarnas Kulturförening - Svenska Odlingens Vänner, SOV**
 
     123 669 21 80
+
+
 
 
 **Estniska Kultursamfundet**
@@ -10222,9 +14076,13 @@ Nummer: 12773
     123 486 97 23
 
 
+
+
 **Estuna Bygdegårdsförening**
 
     123 600 69 44
+
+
 
 
 **Estuna IF**
@@ -10232,9 +14090,13 @@ Nummer: 12773
     123 561 12 98
 
 
+
+
 **Estuna-Söderbykarls Församling**
 
     123 516 63 19
+
+
 
 
 **Ethar Relief Sverige**
@@ -10242,9 +14104,13 @@ Nummer: 12773
     123 061 35 05
 
 
+
+
 **Ethelhelms Idrottsförening**
 
     123 561 50 26
+
+
 
 
 **Etiopienhjälpen**
@@ -10252,9 +14118,13 @@ Nummer: 12773
     123 601 37 75
 
 
+
+
 **Ett hem för alla**
 
     123 154 45 27
+
+
 
 
 **Europeiska Ungdomsparlamentet Sverige, EUP**
@@ -10262,9 +14132,13 @@ Nummer: 12773
     123 321 97 30
 
 
+
+
 **Evangelisk Luthersk Mission Örkelljunga**
 
     123 495 65 95
+
+
 
 
 **Evangelisk-Luthersk Samling**
@@ -10272,9 +14146,13 @@ Nummer: 12773
     123 018 41 19
 
 
+
+
 **Evangeliska Brödraförsamlingen**
 
     123 676 10 35
+
+
 
 
 **Evangeliska Frikyrkan**
@@ -10284,9 +14162,13 @@ Nummer: 12773
     123 900 55 88
 
 
+
+
 **Eventrace AB**
 
     123 423 77 49
+
+
 
 
 **Everywhere yoga / Jenny Sörling Kommunikation AB**
@@ -10294,9 +14176,13 @@ Nummer: 12773
     123 242 73 42
 
 
+
+
 **Everywhere yoga / Katrin Urbäck**
 
     123 329 56 98
+
+
 
 
 **Existensis / Susanna Westman**
@@ -10304,9 +14190,13 @@ Nummer: 12773
     123 403 30 07
 
 
+
+
 **Existera**
 
     123 367 88 02
+
+
 
 
 **Experimental Aircraft Association - EAA Sverige**
@@ -10314,14 +14204,20 @@ Nummer: 12773
     123 057 33 60
 
 
+
+
 **Extinction Rebellion Skåne / XR Skåne**
 
     123 160 00 63
 
 
+
+
 **Extinction Rebellion (XR) / Föreningen för Hållbar Framtid**
 
     123 273 66 19
+
+
 
 
 
@@ -10333,9 +14229,13 @@ Nummer: 12773
     123 133 93 08
 
 
+
+
 **Fabian Tanz / Fabian Unghanse Macklin**
 
     123 090 77 66
+
+
 
 
 **Fackeltåget Lysekil / Bengt Haverby**
@@ -10343,9 +14243,13 @@ Nummer: 12773
     123 672 89 01
 
 
+
+
 **Fagersta Brukshundklubb**
 
     123 377 20 76
+
+
 
 
 **Fagersta Nyheter / Ola Wahlsten**
@@ -10353,14 +14257,20 @@ Nummer: 12773
     123 374 77 89
 
 
+
+
 **Fagersta OK**
 
     123 241 04 13
 
 
+
+
 **Fagersta Pensionärsbowling**
 
     123 139 22 57
+
+
 
 
 **Fagersta Södra IK**
@@ -10378,9 +14288,13 @@ Nummer: 12773
     123 442 56 58 - P10
 
 
+
+
 **Fagervikens Bygdegårdsförening**
 
     123 362 65 79
+
+
 
 
 **Fageråsens Bygdegårdsförening**
@@ -10388,14 +14302,20 @@ Nummer: 12773
     123 321 32 04
 
 
+
+
 **Faktum Skåne AB**
 
     123 039 97 17
 
 
+
+
 **Falbygdens Brukshundklubb**
 
     123 413 80 79
+
+
 
 
 **Falbygdens Häststportsförening**
@@ -10405,14 +14325,20 @@ Nummer: 12773
     123 588 51 65
 
 
+
+
 **Falerums IF**
 
     123 365 50 99
 
 
+
+
 **Falken Parasport**
 
     123 091 67 18
+
+
 
 
 **Falkenbergs Brukshundklubb**
@@ -10422,9 +14348,13 @@ Nummer: 12773
     123 576 02 28
 
 
+
+
 **Falkenbergs Cykelklubb**
 
     123 130 05 08
+
+
 
 
 **Falkenbergs FF**
@@ -10432,9 +14362,13 @@ Nummer: 12773
     123 551 00 11
 
 
+
+
 **Falkenbergs Golfklubb**
 
     123 515 75 32 - Tävlingsavgift
+
+
 
 
 **Falkenbergs Kvinnojour**
@@ -10442,9 +14376,13 @@ Nummer: 12773
     123 220 69 77
 
 
+
+
 **Falkenbergs Orienteringsklubb**
 
     123 059 35 41
+
+
 
 
 **Falkenbergs Pastorat**
@@ -10452,9 +14390,13 @@ Nummer: 12773
     123 369 98 24 - Diakoni
 
 
+
+
 **Falkenbergs Schackklubb**
 
     123 566 20 51
+
+
 
 
 **Falkenbergs Simklubb**
@@ -10462,9 +14404,13 @@ Nummer: 12773
     123 344 45 51
 
 
+
+
 **Falkenbergs VBK**
 
     123 594 76 35
+
+
 
 
 **Falkens Scoutkår**
@@ -10472,9 +14418,13 @@ Nummer: 12773
     123 050 39 12
 
 
+
+
 **Falköpings AIK Handboll**
 
     123 091 16 36
+
+
 
 
 **Falköpings Cykelklubb**
@@ -10482,9 +14432,13 @@ Nummer: 12773
     123 494 38 25
 
 
+
+
 **Falköpings FK**
 
     123 162 93 28
+
+
 
 
 **Falköpings Golfklubb**
@@ -10492,14 +14446,20 @@ Nummer: 12773
     123 225 51 64
 
 
+
+
 **Falköpings MK**
 
     123 380 20 55
 
 
+
+
 **Falköpings Schacksällskap**
 
     123 563 39 79
+
+
 
 
 **Falköpings Sportskytteklubb**
@@ -10511,9 +14471,13 @@ Nummer: 12773
     123 498 90 18 - Jägarexamen, kiosk/kafeteria
 
 
+
+
 **Falköpings VK**
 
     123 438 72 05
+
+
 
 
 **Falsterbo Fågelstation**
@@ -10521,9 +14485,13 @@ Nummer: 12773
     123 196 24 55
 
 
+
+
 **Falsterbo Golfklubb**
 
     123 595 21 06
+
+
 
 
 **Falsterbonäsets Pistolskytteklubb**
@@ -10531,9 +14499,13 @@ Nummer: 12773
     123 383 11 61
 
 
+
+
 **Falu BMK**
 
     123 222 17 52
+
+
 
 
 **Falu Bordtennisklubb**
@@ -10541,9 +14513,13 @@ Nummer: 12773
     123 327 79 44
 
 
+
+
 **Falu Brukshundklubb**
 
     123 395 18 94
+
+
 
 
 **Falu BS Bandy**
@@ -10553,9 +14529,13 @@ Nummer: 12773
     123 386 23 72
 
 
+
+
 **Falu Däckservice AB**
 
     123 053 08 32
+
+
 
 
 **Falu IF Hockey Camps**
@@ -10563,9 +14543,13 @@ Nummer: 12773
     123 690 29 44
 
 
+
+
 **Falu Massage & Hälsa / Anna Gellner**
 
     123 023 96 81
+
+
 
 
 **Falu Padelklubb**
@@ -10573,9 +14557,13 @@ Nummer: 12773
     123 358 38 79
 
 
+
+
 **Falu Ridklubb**
 
     123 464 28 07
+
+
 
 
 **Falu Ryttarsällskap**
@@ -10583,9 +14571,13 @@ Nummer: 12773
     123 074 75 35
 
 
+
+
 **Falu Shotokan KarateKlubb**
 
     123 150 94 39
+
+
 
 
 **Falu Stigcyklister**
@@ -10593,9 +14585,13 @@ Nummer: 12773
     123 594 78 25
 
 
+
+
 **Falu Vildvattenpark**
 
     123 305 45 25
+
+
 
 
 **Falu VK**
@@ -10603,9 +14599,13 @@ Nummer: 12773
     123 021 96 42
 
 
+
+
 **Familjebutiken Calimero AB**
 
     123 593 53 82
+
+
 
 
 **Familjecentret Kraftkällan**
@@ -10613,14 +14613,20 @@ Nummer: 12773
     123 355 60 99
 
 
+
+
 **Familjefridsjouren**
 
     123 281 37 56
 
 
+
+
 **Familjen Daneshmand AB / Sff i Sverige AB**
 
     123 259 71 10
+
+
 
 
 **Familjen Einhorns Stiftelse**
@@ -10630,9 +14636,13 @@ Nummer: 12773
     123 900 61 49
 
 
+
+
 **Familjen Munthes Stiftelse för Hildasholm**
 
     123 209 24 19
+
+
 
 
 **FAMY Västerbotten**
@@ -10640,9 +14650,13 @@ Nummer: 12773
     123 275 94 05
 
 
+
+
 **Fanatic Fusion Vi Unga**
 
     123 087 88 35
+
+
 
 
 **Fanna BK**
@@ -10658,9 +14672,13 @@ Nummer: 12773
     123 518 81 23 - P-10
 
 
+
+
 **Farhult-Jonstorp Församling**
 
     123 559 96 59
+
+
 
 
 **Faringe Bygdegårdsförening**
@@ -10668,9 +14686,13 @@ Nummer: 12773
     123 577 60 83
 
 
+
+
 **Farmaceuter utan Gränser**
 
     123 900 74 69
+
+
 
 
 **Farmacevtiska Studentkåren, FAS**
@@ -10678,9 +14700,13 @@ Nummer: 12773
     123 226 22 85
 
 
+
+
 **Farsta Ridskola AB**
 
     123 320 80 55
+
+
 
 
 **Farsta Ryttarvänner**
@@ -10688,9 +14714,13 @@ Nummer: 12773
     123 354 03 82
 
 
+
+
 **Farstadals Samfällighetsförening**
 
     123 393 93 37
+
+
 
 
 **Farstorps Bygdegårdsförening**
@@ -10698,9 +14728,13 @@ Nummer: 12773
     123 533 21 50
 
 
+
+
 **FAS-Portalen / FAS-föreningen**
 
     123 535 46 75
+
+
 
 
 **Fasching**
@@ -10708,14 +14742,20 @@ Nummer: 12773
     123 061 08 24
 
 
+
+
 **Fasterna Hembygdsförening**
 
     123 595 25 85
 
 
+
+
 **Fatta!**
 
     123 049 18 29
+
+
 
 
 **FBC Bollnäs**
@@ -10727,9 +14767,13 @@ Nummer: 12773
     123 464 07 44 - Entré, match och övrigt
 
 
+
+
 **FBC Engelholm**
 
     123 182 94 49
+
+
 
 
 **FBC Karlskrona**
@@ -10737,9 +14781,13 @@ Nummer: 12773
     123 499 29 21
 
 
+
+
 **FBC Lo**
 
     123 083 94 64
+
+
 
 
 **FBC Moröbacke**
@@ -10747,9 +14795,13 @@ Nummer: 12773
     123 116 51 82
 
 
+
+
 **FBC Nyköping**
 
     123 113 47 33
+
+
 
 
 **FBC Viljan**
@@ -10757,9 +14809,13 @@ Nummer: 12773
     123 461 63 48
 
 
+
+
 **FC City Trelleborg**
 
     123 660 68 18
+
+
 
 
 **FC Corner**
@@ -10767,9 +14823,13 @@ Nummer: 12773
     123 695 58 76
 
 
+
+
 **FC Kallfors**
 
     123 031 53 82
+
+
 
 
 **FC Kopparmöllan**
@@ -10777,9 +14837,13 @@ Nummer: 12773
     123 322 91 50
 
 
+
+
 **FC Möjligheten**
 
     123 489 99 36
+
+
 
 
 **FC Norrköping City**
@@ -10787,9 +14851,13 @@ Nummer: 12773
     123 684 81 70
 
 
+
+
 **FC Peking**
 
     123 417 16 66
+
+
 
 
 **FC Staffanstorp**
@@ -10797,9 +14865,13 @@ Nummer: 12773
     123 691 65 30
 
 
+
+
 **FC Trollhättan**
 
     123 162 99 30
+
+
 
 
 **Federationen WIZO Sverige**
@@ -10807,9 +14879,13 @@ Nummer: 12773
     123 258 74 42
 
 
+
+
 **Feeding Hope Sweden**
 
     123 242 88 37
+
+
 
 
 **Feel free by nature AB**
@@ -10817,9 +14893,13 @@ Nummer: 12773
     123 534 72 24
 
 
+
+
 **Fegens Sågverk AB**
 
     123 504 63 96
+
+
 
 
 **Fem i Topp / Firma Carl Johan Östling AB**
@@ -10827,9 +14907,13 @@ Nummer: 12773
     123 500 69 52
 
 
+
+
 **FemCenter Kvinnojour**
 
     123 466 90 57
+
+
 
 
 **Feministiskt Initiativ**
@@ -10839,9 +14923,13 @@ Nummer: 12773
     123 282 42 82
 
 
+
+
 **Fempowerment**
 
     123 331 11 07
+
+
 
 
 **Femsjö Församling**
@@ -10849,9 +14937,13 @@ Nummer: 12773
     123 339 85 83 - Kollekt Femsjö församling
 
 
+
+
 **Fenix Skärmflygklubb**
 
     123 529 99 38
+
+
 
 
 **FF Synskadade Barn och Ungdomar - Parasport, FSBU**
@@ -10859,9 +14951,13 @@ Nummer: 12773
     123 526 75 70
 
 
+
+
 **FFK-Dunkroken**
 
     123 483 61 66
+
+
 
 
 **FIAN Sverige**
@@ -10869,9 +14965,13 @@ Nummer: 12773
     123 006 93 10
 
 
+
+
 **Fibromyalgi Förbundet**
 
     123 112 23 57
+
+
 
 
 **Fibromyalgiförbundets forskningsstiftelse**
@@ -10879,9 +14979,13 @@ Nummer: 12773
     123 900 39 97
 
 
+
+
 **Fight Center Linköping / Jonas Ivung**
 
     123 313 82 86
+
+
 
 
 **Fightclub Freestyle Stockholm IF**
@@ -10889,9 +14993,13 @@ Nummer: 12773
     123 575 11 93
 
 
+
+
 **Filadelfia Församlingen i Bohus**
 
     123 502 50 44
+
+
 
 
 **Filadelfia Kvillsfors / Filadelfiaförsamlingen Vetlanda**
@@ -10899,9 +15007,13 @@ Nummer: 12773
     123 284 48 92
 
 
+
+
 **Filadelfiaförsamlingen Avesta**
 
     123 089 86 92
+
+
 
 
 **Filadelfiaförsamlingen Gällivare**
@@ -10909,9 +15021,13 @@ Nummer: 12773
     123 211 05 91
 
 
+
+
 **Filadelfiaförsamlingen i Borgholm**
 
     123 096 11 93
+
+
 
 
 **Filadelfiaförsamlingen I Dorotea**
@@ -10919,9 +15035,13 @@ Nummer: 12773
     123 288 24 05
 
 
+
+
 **Filadelfiaförsamlingen I Hultsfred**
 
     123 041 32 03
+
+
 
 
 **Filadelfiaförsamlingen i Sandviken**
@@ -10929,9 +15049,13 @@ Nummer: 12773
     123 018 39 47
 
 
+
+
 **Filadelfiaförsamlingen I Stockholm**
 
     123 311 76 94
+
+
 
 
 **Filadelfiaförsamlingen I Töcksfors**
@@ -10939,9 +15063,13 @@ Nummer: 12773
     123 578 30 06
 
 
+
+
 **Filadelfiaförsamlingen i Östersund**
 
     123 114 57 54
+
+
 
 
 **Filadelfiagruppen Bockara**
@@ -10949,14 +15077,20 @@ Nummer: 12773
     123 452 58 46
 
 
+
+
 **Filadelfiakyrkan Örebro**
 
     123 033 42 76
 
 
+
+
 **Filipstads SF**
 
     123 326 66 73
+
+
 
 
 **Filipstads Simklubb**
@@ -10976,9 +15110,13 @@ Nummer: 12773
     123 615 18 07 - Övrigt
 
 
+
+
 **Filmbyn Småland i Marinnelund / Snickerboa Mariannelund AB**
 
     123 548 02 31
+
+
 
 
 **Films SK**
@@ -10986,9 +15124,13 @@ Nummer: 12773
     123 041 00 35
 
 
+
+
 **Finndinkraft i Dalarna AB**
 
     123 159 46 21
+
+
 
 
 **Finnmarkens Hembygdsförening**
@@ -10996,9 +15138,13 @@ Nummer: 12773
     123 326 24 74
 
 
+
+
 **Finntorps Gård / Lisa Vrang**
 
     123 278 49 16
+
+
 
 
 **Finntorps Ridklubb**
@@ -11006,9 +15152,13 @@ Nummer: 12773
     123 339 56 21
 
 
+
+
 **Finnvedens Begravningsbyrå AB**
 
     123 153 62 67
+
+
 
 
 **Finsk Ortodoxa Församlingen i Sverige**
@@ -11016,9 +15166,13 @@ Nummer: 12773
     123 413 79 23
 
 
+
+
 **Finska Bastun / Jönköpings Finska Förening**
 
     123 551 74 87
+
+
 
 
 **Finska Filadelfia i Stockholm**
@@ -11026,9 +15180,13 @@ Nummer: 12773
     123 042 87 89
 
 
+
+
 **Finska församlingen i Stockholm, Tukholman suomalainen seurakunta**
 
     123 226 12 61
+
+
 
 
 **Finspångs AIK**
@@ -11036,9 +15194,13 @@ Nummer: 12773
     123 496 93 90
 
 
+
+
 **Finspångs BSK**
 
     123 466 79 78
+
+
 
 
 **Finspångs CA**
@@ -11046,9 +15208,13 @@ Nummer: 12773
     123 168 72 92
 
 
+
+
 **Finspångs Församling**
 
     123 190 19 74
+
+
 
 
 **Finspångs Golfklubb och Stugby**
@@ -11056,9 +15222,13 @@ Nummer: 12773
     123 541 41 64
 
 
+
+
 **Finspångs Missionsförsamling**
 
     123 421 81 29
+
+
 
 
 **Finspångs Motorsällskap**
@@ -11066,9 +15236,13 @@ Nummer: 12773
     123 440 53 46
 
 
+
+
 **Finspångs SK**
 
     123 637 33 85
+
+
 
 
 **Finspångs SOK - Orientering**
@@ -11076,9 +15250,13 @@ Nummer: 12773
     123 327 57 40
 
 
+
+
 **Finspångs Solvärme AB**
 
     123 326 82 57
+
+
 
 
 **Fire On Line**
@@ -11086,9 +15264,13 @@ Nummer: 12773
     123 593 05 57
 
 
+
+
 **Fishers Creek International Church / Equmeniakyrkan Fiskebäck**
 
     123 268 41 32
+
+
 
 
 **Fiskarbo Byförening**
@@ -11096,14 +15278,20 @@ Nummer: 12773
     123 486 35 85
 
 
+
+
 **Fiskebäckskils Tennisklubb**
 
     123 570 54 88
 
 
+
+
 **Fiskebäckskyrkan**
 
     123 270 21 40 - Ungdomsverksamhet
+
+
 
 
 **Fiskebäckskyrkan**
@@ -11113,9 +15301,13 @@ Nummer: 12773
     123 338 11 91 - Barn- och ungdomsverksamhet
 
 
+
+
 **Fiskebåten Edit KN18 Karlshamn / Kulturföreningen Edits Vänner**
 
     123 037 55 76
+
+
 
 
 **Fiskeviks IF**
@@ -11123,9 +15315,13 @@ Nummer: 12773
     123 653 80 45
 
 
+
+
 **Fiskevårdsföreningen Öringen Väja**
 
     123 156 80 88
+
+
 
 
 **Fiskfoder.se**
@@ -11133,9 +15329,13 @@ Nummer: 12773
     123 105 23 72
 
 
+
+
 **Fisksätra Kattförening**
 
     123 109 95 48
+
+
 
 
 **Fjellfotografen Tomas Johansson HB**
@@ -11143,14 +15343,20 @@ Nummer: 12773
     123 155 75 45
 
 
+
+
 **Fjordklubben**
 
     123 401 06 82
 
 
+
+
 **FJSweden / Fredrik Jakobsson**
 
     123 191 91 25
+
+
 
 
 **Fjugesta IF**
@@ -11178,9 +15384,13 @@ Nummer: 12773
     123 652 05 48 - F14-F17
 
 
+
+
 **Fjugesta Motorsällskap**
 
     123 457 25 25
+
+
 
 
 **Fjälkestads RK**
@@ -11188,9 +15398,13 @@ Nummer: 12773
     123 573 23 00
 
 
+
+
 **Fjällbacka Båt och Bil AB**
 
     123 257 61 89
+
+
 
 
 **Fjällorna - fiskeföreningen för kvinnor**
@@ -11198,9 +15412,13 @@ Nummer: 12773
     123 364 86 56
 
 
+
+
 **Fjällsjö Alpina Klubb**
 
     123 312 66 46
+
+
 
 
 **Fjällsjö församling / Strömsunds Pastorat**
@@ -11208,9 +15426,13 @@ Nummer: 12773
     123 457 82 33
 
 
+
+
 **Fjällstallet / Sälenfjällets Ridklubb**
 
     123 139 07 23
+
+
 
 
 **Fjällstugan i Jönköping, Andreasförsamlingen**
@@ -11218,14 +15440,20 @@ Nummer: 12773
     123 249 45 32
 
 
+
+
 **Fjällturen AB**
 
     123 105 19 37
 
 
+
+
 **Fjärdsjömåla AIF**
 
     123 036 80 68
+
+
 
 
 **Fjärås-Förlanda Församling**
@@ -11235,9 +15463,13 @@ Nummer: 12773
     123 427 52 51
 
 
+
+
 **FK Aspen**
 
     123 157 53 31
+
+
 
 
 **FK Boken**
@@ -11245,9 +15477,13 @@ Nummer: 12773
     123 218 17 74
 
 
+
+
 **FK Bosna 08**
 
     123 675 49 49 - A-lag Herrar
+
+
 
 
 **FK Bromma**
@@ -11255,9 +15491,13 @@ Nummer: 12773
     123 305 91 02
 
 
+
+
 **FK Herkules**
 
     123 120 92 95
+
+
 
 
 **FK Karlshamn United**
@@ -11265,9 +15505,13 @@ Nummer: 12773
     123 552 68 43
 
 
+
+
 **FK Studenterna**
 
     123 179 10 78
+
+
 
 
 **FK Älmeboda-Linneryd**
@@ -11277,9 +15521,13 @@ Nummer: 12773
     123 397 81 52
 
 
+
+
 **Flamman**
 
     123 441 76 30
+
+
 
 
 **Flammor / Antikvariatet, Vetlanda / Holger Nilsson**
@@ -11287,9 +15535,13 @@ Nummer: 12773
     123 305 53 57
 
 
+
+
 **Flashback Media Group Aktiebolag**
 
     123 536 99 96
+
+
 
 
 **Flatcoated retrieverklubben Norr**
@@ -11297,9 +15549,13 @@ Nummer: 12773
     123 452 10 27
 
 
+
+
 **Flatcoated Retrieverklubben Östergötland**
 
     123 137 01 21
+
+
 
 
 **Flatviksgårdens Förening**
@@ -11307,9 +15563,13 @@ Nummer: 12773
     123 449 15 51
 
 
+
+
 **Flatåskyrkan**
 
     123 218 48 93
+
+
 
 
 **Flatö Kyrkas Vänner**
@@ -11317,9 +15577,13 @@ Nummer: 12773
     123 467 37 60
 
 
+
+
 **Flatö-Malö Hembygdsförening**
 
     123 388 17 78
+
+
 
 
 **Flemminge Golfklubb**
@@ -11327,9 +15591,13 @@ Nummer: 12773
     123 056 53 17
 
 
+
+
 **Flen Sport & Hälsa IF**
 
     123 571 49 85
+
+
 
 
 **Flens Bordtennisklubb**
@@ -11337,9 +15605,13 @@ Nummer: 12773
     123 230 03 82
 
 
+
+
 **Flens Brukshundklubb**
 
     123 526 35 20
+
+
 
 
 **Flens Golfklubb**
@@ -11349,9 +15621,13 @@ Nummer: 12773
     123 464 11 71
 
 
+
+
 **Flens HC Flames**
 
     123 022 48 65
+
+
 
 
 **Flens Jaktskytteklubb**
@@ -11359,9 +15635,13 @@ Nummer: 12773
     123 471 12 97
 
 
+
+
 **Flerohopps GOIF**
 
     123 096 04 43 - Herrlaget
+
+
 
 
 **Flisby Östra Byalag & Bygdegårdsförening**
@@ -11369,9 +15649,13 @@ Nummer: 12773
     123 029 61 94
 
 
+
+
 **Fliseryds Jaktskytteklubb**
 
     123 539 46 06
+
+
 
 
 **Floby Församling**
@@ -11379,9 +15663,13 @@ Nummer: 12773
     123 040 11 82
 
 
+
+
 **Floby IF**
 
     123 691 57 48
+
+
 
 
 **Floby Pastorat**
@@ -11389,9 +15677,13 @@ Nummer: 12773
     123 545 78 74 - ACT
 
 
+
+
 **Floby VK**
 
     123 155 00 94
+
+
 
 
 **Floda BoIF**
@@ -11401,9 +15693,13 @@ Nummer: 12773
     123 365 02 15 - Damjuniorer
 
 
+
+
 **Floda Församling**
 
     123 000 82 35
+
+
 
 
 **Floda Hembygdsförening**
@@ -11411,9 +15707,13 @@ Nummer: 12773
     123 577 17 04
 
 
+
+
 **Floda Hembygdsförening**
 
     123 452 02 43
+
+
 
 
 **Floda IBK**
@@ -11421,9 +15721,13 @@ Nummer: 12773
     123 458 03 12
 
 
+
+
 **Floda Nova Padel Club**
 
     123 004 23 33
+
+
 
 
 **Floroteket AB**
@@ -11431,9 +15735,13 @@ Nummer: 12773
     123 022 72 56
 
 
+
+
 **Flottans Minklubb**
 
     123 073 09 94
+
+
 
 
 **Flottiljområdets kamrat- och veteranförening Halmstad**
@@ -11441,9 +15749,13 @@ Nummer: 12773
     123 072 43 44
 
 
+
+
 **Flow It Now / Leonardo Lazcano**
 
     123 333 96 78
+
+
 
 
 **Flow Kampsportsförening**
@@ -11451,9 +15763,13 @@ Nummer: 12773
     123 567 35 61
 
 
+
+
 **Flyktinggruppernas Riksråd, FARR**
 
     123 327 89 83
+
+
 
 
 **Flykälens byalag**
@@ -11461,9 +15777,13 @@ Nummer: 12773
     123 388 14 48
 
 
+
+
 **Flyttfirman Säkra Händer AB**
 
     123 293 19 13
+
+
 
 
 **FMK Höglandet**
@@ -11471,9 +15791,13 @@ Nummer: 12773
     123 134 78 71
 
 
+
+
 **FMK Tre Vapen**
 
     123 573 10 21
+
+
 
 
 **Focus On Africa, FONA**
@@ -11481,9 +15805,13 @@ Nummer: 12773
     123 500 96 83
 
 
+
+
 **Fogels Nya Trafikskola / Kappes Education AB**
 
     123 143 38 95
+
+
 
 
 **Fohle Hembygdsförening**
@@ -11491,9 +15819,13 @@ Nummer: 12773
     123 513 93 65
 
 
+
+
 **Folk & Språk**
 
     123 900 72 87
+
+
 
 
 **Folket i Bild/Kulturfront**
@@ -11501,9 +15833,13 @@ Nummer: 12773
     123 224 03 56
 
 
+
+
 **Folkets Radio**
 
     123 405 89 39
+
+
 
 
 **FolkhemsEliten / Oliver Dagnå**
@@ -11511,9 +15847,13 @@ Nummer: 12773
     123 357 41 00
 
 
+
+
 **Folkhögskolan Hvilan**
 
     123 090 93 66
+
+
 
 
 **Folkkyrkan i Sölvesborg**
@@ -11521,9 +15861,13 @@ Nummer: 12773
     123 080 45 59
 
 
+
+
 **Folkliberalerna**
 
     123 380 96 54
+
+
 
 
 **Folklistan**
@@ -11531,9 +15875,13 @@ Nummer: 12773
     123 521 37 72
 
 
+
+
 **Folkmusikens hus**
 
     123 098 72 55
+
+
 
 
 **Folkungakyrkan Stockholm**
@@ -11541,9 +15889,13 @@ Nummer: 12773
     123 615 15 26
 
 
+
+
 **Fonden för Psykisk Hälsa**
 
     123 900 75 01
+
+
 
 
 **Food2Change**
@@ -11551,9 +15903,13 @@ Nummer: 12773
     123 557 75 23
 
 
+
+
 **Food Addicts Anonymous, Anonyma matmissbrukare, FAA**
 
     123 535 03 50
+
+
 
 
 **Fools Gold**
@@ -11561,9 +15917,13 @@ Nummer: 12773
     123 073 26 77
 
 
+
+
 **Footnet AB**
 
     123 075 11 15
+
+
 
 
 **Ford Club Sweden**
@@ -11571,9 +15931,13 @@ Nummer: 12773
     123 666 18 88
 
 
+
+
 **Formcraft / Marianne Ljungström**
 
     123 422 82 84
+
+
 
 
 **Formenca AB**
@@ -11581,9 +15945,13 @@ Nummer: 12773
     123 298 01 91
 
 
+
+
 **Fornminnessällskapet på Mälaröarna**
 
     123 013 46 35
+
+
 
 
 **Forsa IF**
@@ -11591,9 +15959,13 @@ Nummer: 12773
     123 084 69 80
 
 
+
+
 **Forsa SkF**
 
     123 664 31 83
+
+
 
 
 **Forsakars Brukshundklubb**
@@ -11601,9 +15973,13 @@ Nummer: 12773
     123 522 93 07
 
 
+
+
 **Forsbloms Jakt & Cykel / Sune Forsblom**
 
     123 147 04 18
+
+
 
 
 **Forsbrokyrkans Församling i Arbrå**
@@ -11611,9 +15987,13 @@ Nummer: 12773
     123 235 96 85
 
 
+
+
 **Forsby Idrottsplats / Forsby Idrottsförening**
 
     123 210 38 85
+
+
 
 
 **Forserums Brukshundklubb**
@@ -11621,9 +16001,13 @@ Nummer: 12773
     123 281 28 81
 
 
+
+
 **Forserums Hembygdsförening**
 
     123 302 46 19
+
+
 
 
 **Forserums IF**
@@ -11631,14 +16015,20 @@ Nummer: 12773
     123 209 17 91
 
 
+
+
 **Forserums Ryttarsällskap**
 
     123 041 01 83
 
 
+
+
 **Forshaga Brukshundklubb**
 
     123 419 70 91
+
+
 
 
 **Forshaga HK**
@@ -11648,6 +16038,8 @@ Nummer: 12773
     123 462 36 90
 
 
+
+
 **Forsheda Missionsförsamling**
 
     123 592 37 68 - Ungdomsverksamheten
@@ -11655,9 +16047,13 @@ Nummer: 12773
     123 595 99 03
 
 
+
+
 **Forshälla-Herrestad-Torp SKF**
 
     123 496 94 32
+
+
 
 
 **Forsmark Samfällighetsförening**
@@ -11665,9 +16061,13 @@ Nummer: 12773
     123 567 68 38
 
 
+
+
 **Forssa BK**
 
     123 222 37 66
+
+
 
 
 **ForumCiv**
@@ -11675,9 +16075,13 @@ Nummer: 12773
     123 900 77 66
 
 
+
+
 **Fotfixaren / Fotfixaren Helene Thomasson AB**
 
     123 478 35 85
+
+
 
 
 **Fotoklubben Kamera - Ängelholm**
@@ -11685,9 +16089,13 @@ Nummer: 12773
     123 528 12 33
 
 
+
+
 **Fotskäls HC**
 
     123 263 83 77
+
+
 
 
 **Fotvalvet / EC Moments AB**
@@ -11695,9 +16103,13 @@ Nummer: 12773
     123 108 34 01
 
 
+
+
 **Fotvårdskliniken / Karin Fransson**
 
     123 550 39 33
+
+
 
 
 **Framnäs Hamnförening**
@@ -11705,9 +16117,13 @@ Nummer: 12773
     123 545 80 13
 
 
+
+
 **Framtid Kalmar**
 
     123 423 91 82
+
+
 
 
 **Fredag Hela Veckan AB**
@@ -11715,9 +16131,13 @@ Nummer: 12773
     123 141 05 47
 
 
+
+
 **Fredhälls Badklubb**
 
     123 130 31 63
+
+
 
 
 **Fredrick Andréason, Personlig Tränare och PGA Professional**
@@ -11725,9 +16145,13 @@ Nummer: 12773
     123 043 82 67
 
 
+
+
 **Fredrik D Anderssons Minnesfond**
 
     123 004 59 71
+
+
 
 
 **Fredrik Schmids IT-Service**
@@ -11735,9 +16159,13 @@ Nummer: 12773
     123 030 22 81
 
 
+
+
 **Fredrik Zillén Löpteknikspecialist, Spring Snabbare AB**
 
     123 223 34 92
+
+
 
 
 **Fredrika Framtid**
@@ -11745,9 +16173,13 @@ Nummer: 12773
     123 328 94 69
 
 
+
+
 **Fredriksbergs BK**
 
     123 226 60 88
+
+
 
 
 **Fredrikshofs IF**
@@ -11755,9 +16187,13 @@ Nummer: 12773
     123 561 97 62
 
 
+
+
 **Fredsbergs Friskola**
 
     123 385 08 80
+
+
 
 
 **Fredstorgskyrkan Aneby**
@@ -11765,9 +16201,13 @@ Nummer: 12773
     123 394 06 73
 
 
+
+
 **Free Them**
 
     123 122 35 93
+
+
 
 
 **FreeZone Sweden**
@@ -11775,9 +16215,13 @@ Nummer: 12773
     123 590 88 50
 
 
+
+
 **Freezonen, Kvinno-,Tjej- och Brottsofferjour**
 
     123 900 71 21
+
+
 
 
 **Freija Roslagens Företagarkvinnor**
@@ -11787,9 +16231,13 @@ Nummer: 12773
     123 513 31 78
 
 
+
+
 **Frej Bildelar AB**
 
     123 323 30 79
+
+
 
 
 **Freja Samfällighetsförening**
@@ -11797,9 +16245,13 @@ Nummer: 12773
     123 418 17 15
 
 
+
+
 **Frida Kvinnojour Hässleholm**
 
     123 018 49 94
+
+
 
 
 **Fridays For Future Sweden / Klimataktion Stockholm**
@@ -11807,9 +16259,13 @@ Nummer: 12773
     123 132 07 61
 
 
+
+
 **Fridens Hälsa AB**
 
     123 265 61 89
+
+
 
 
 **Fridhems Friskola**
@@ -11817,9 +16273,13 @@ Nummer: 12773
     123 097 00 53
 
 
+
+
 **Fridhemskanotisterna**
 
     123 556 66 74 - Bastu
+
+
 
 
 **Fridhemskyrkans Församling**
@@ -11827,9 +16287,13 @@ Nummer: 12773
     123 189 75 78
 
 
+
+
 **Fridlevstad GOIF**
 
     123 122 46 33
+
+
 
 
 **Fridlevstads Hembygdsförening**
@@ -11837,9 +16301,13 @@ Nummer: 12773
     123 217 33 91
 
 
+
+
 **Friends of Mio**
 
     123 333 04 04
+
+
 
 
 **Friends of the Panzi Hospital**
@@ -11847,9 +16315,13 @@ Nummer: 12773
     123 900 69 74
 
 
+
+
 **FriendsForever**
 
     123 074 80 04
+
+
 
 
 **Friggeråkers Bygdegårdsförening**
@@ -11857,9 +16329,13 @@ Nummer: 12773
     123 018 28 65
 
 
+
+
 **Frihet och Hälsa / Nuidag.se**
 
     123 498 04 96 - Skola
+
+
 
 
 **FrihetsNytt / Marketing4Future M4F AB**
@@ -11867,9 +16343,13 @@ Nummer: 12773
     123 519 63 73
 
 
+
+
 **Frillesås Rid o KK**
 
     123 427 59 21
+
+
 
 
 **Frillesås Sportskytteklubb**
@@ -11877,14 +16357,20 @@ Nummer: 12773
     123 080 37 34
 
 
+
+
 **Friluftsfrämjandet**
 
     123 363 60 57 - Södertälje lokalavdelning
 
 
+
+
 **Friluftsfrämjandet Björnlunda-Gnestas Långfärdsskridskogrupp**
 
     123 504 77 90
+
+
 
 
 **Friluftsfrämjandet Hudiksvall**
@@ -11904,9 +16390,13 @@ Nummer: 12773
     123 679 30 79 - Onsdagsvandring
 
 
+
+
 **Friluftsfrämjandet Ljungskile**
 
     123 122 45 67
+
+
 
 
 **Friluftsfrämjandet Luleå**
@@ -11914,9 +16404,13 @@ Nummer: 12773
     123 197 39 24
 
 
+
+
 **Friluftsfrämjandet Märsta-Sigtuna**
 
     123 458 00 23
+
+
 
 
 **Friluftsfrämjandet Nyköping**
@@ -11924,9 +16418,13 @@ Nummer: 12773
     123 618 90 39 - Ryssbergsbacken
 
 
+
+
 **Friluftsfrämjandet Söderåsen**
 
     123 514 07 02
+
+
 
 
 **Friluftsfrämjandet Västerås**
@@ -11934,9 +16432,13 @@ Nummer: 12773
     123 010 99 91
 
 
+
+
 **Friluftsgården Getsjötorp**
 
     123 517 54 92
+
+
 
 
 **Frimärksauktioner Tre Kronor / Upplev Media i Lindesberg AB**
@@ -11944,14 +16446,20 @@ Nummer: 12773
     123 681 59 48
 
 
+
+
 **Frisk & Fri - Riksföreningen mot ätstörningar**
 
     123 900 08 78
 
 
+
+
 **Frisk Mat**
 
     123 511 73 87
+
+
 
 
 **Friska Viljor FC**
@@ -11961,9 +16469,13 @@ Nummer: 12773
     123 066 67 92 - Akademi
 
 
+
+
 **Friskis & Svettis Arboga**
 
     123 268 33 65
+
+
 
 
 **Friskis & Svettis Borlänge**
@@ -11971,9 +16483,13 @@ Nummer: 12773
     123 642 99 89
 
 
+
+
 **Friskis & Svettis Flen**
 
     123 050 49 44
+
+
 
 
 **Friskis & Svettis Färgelanda**
@@ -11981,9 +16497,13 @@ Nummer: 12773
     123 422 86 15
 
 
+
+
 **Friskis & Svettis Helsingborg**
 
     123 592 39 90
+
+
 
 
 **Friskis & Svettis Härnösand**
@@ -11991,9 +16511,13 @@ Nummer: 12773
     123 112 26 70
 
 
+
+
 **Friskis & Svettis Höör-Hörby**
 
     123 668 85 35
+
+
 
 
 **Friskis & Svettis Kalmar**
@@ -12001,9 +16525,13 @@ Nummer: 12773
     123 245 89 17
 
 
+
+
 **Friskis & Svettis Karlshamn**
 
     123 299 32 44
+
+
 
 
 **Friskis & Svettis Kiruna**
@@ -12011,9 +16539,13 @@ Nummer: 12773
     123 545 05 72
 
 
+
+
 **Friskis & Svettis Knivsta**
 
     123 001 81 92
+
+
 
 
 **Friskis & Svettis Lerum**
@@ -12021,9 +16553,13 @@ Nummer: 12773
     123 511 09 29
 
 
+
+
 **Friskis & Svettis Lidköping**
 
     123 199 51 58
+
+
 
 
 **Friskis & Svettis Ljungby**
@@ -12031,9 +16567,13 @@ Nummer: 12773
     123 555 73 27
 
 
+
+
 **Friskis & Svettis Markaryd**
 
     123 042 77 57
+
+
 
 
 **Friskis & Svettis Mellerud**
@@ -12041,9 +16581,13 @@ Nummer: 12773
     123 368 08 57
 
 
+
+
 **Friskis & Svettis Mora**
 
     123 422 86 31
+
+
 
 
 **Friskis & Svettis Mälaröarna**
@@ -12051,9 +16595,13 @@ Nummer: 12773
     123 006 23 72
 
 
+
+
 **Friskis & Svettis Olofström**
 
     123 653 80 52
+
+
 
 
 **Friskis & Svettis Ronneby**
@@ -12061,9 +16609,13 @@ Nummer: 12773
     123 464 38 21
 
 
+
+
 **Friskis & Svettis Rönninge-Salem**
 
     123 562 30 61
+
+
 
 
 **Friskis & Svettis Strömstad**
@@ -12071,9 +16623,13 @@ Nummer: 12773
     123 587 01 42
 
 
+
+
 **Friskis & Svettis Sundsvall**
 
     123 199 96 30
+
+
 
 
 **Friskis & Svettis Svedala**
@@ -12081,9 +16637,13 @@ Nummer: 12773
     123 170 91 20
 
 
+
+
 **Friskis & Svettis Svenljunga**
 
     123 286 16 23
+
+
 
 
 **Friskis & Svettis Säffle**
@@ -12091,9 +16651,13 @@ Nummer: 12773
     123 113 76 03
 
 
+
+
 **Friskis & Svettis Tomelilla**
 
     123 188 40 06
+
+
 
 
 **Friskis & Svettis Torsby**
@@ -12101,9 +16665,13 @@ Nummer: 12773
     123 355 93 09
 
 
+
+
 **Friskis & Svettis Trelleborg**
 
     123 667 36 69
+
+
 
 
 **Friskis & Svettis Trosa**
@@ -12111,9 +16679,13 @@ Nummer: 12773
     123 000 38 89
 
 
+
+
 **Friskis & Svettis Vellinge**
 
     123 049 84 36
+
+
 
 
 **Friskis & Svettis Örebro**
@@ -12121,14 +16693,20 @@ Nummer: 12773
     123 512 84 59
 
 
+
+
 **Friskis & Svettis Östhammar**
 
     123 120 95 43
 
 
+
+
 **Friskvårdsklubben i Malmö**
 
     123 340 86 22
+
+
 
 
 **Fristad GoIF**
@@ -12138,9 +16716,13 @@ Nummer: 12773
     123 510 19 44
 
 
+
+
 **Fritsla Hockeyklubb**
 
     123 219 94 46
+
+
 
 
 **Frivilliga Automobilkåren Jönköpings län, FAK**
@@ -12148,9 +16730,13 @@ Nummer: 12773
     123 315 59 91
 
 
+
+
 **Frivilliga Automobilkåren Riksförbundet**
 
     123 472 02 72
+
+
 
 
 **Frivilliga Insatser vid Kris och Katastrof - FIKK Sweden**
@@ -12158,9 +16744,13 @@ Nummer: 12773
     123 112 36 45
 
 
+
+
 **Frivilligcenter GoKungsbacka**
 
     123 549 04 87
+
+
 
 
 **Frizonen**
@@ -12168,9 +16758,13 @@ Nummer: 12773
     123 640 70 68
 
 
+
+
 **From One To Another**
 
     123 900 58 36
+
+
 
 
 **Frontier MMA Academy**
@@ -12178,9 +16772,13 @@ Nummer: 12773
     123 568 22 40
 
 
+
+
 **Frontier Muay Thai**
 
     123 590 66 07
+
+
 
 
 **Frosta Ryttarförening**
@@ -12188,9 +16786,13 @@ Nummer: 12773
     123 346 90 95
 
 
+
+
 **Frostheim**
 
     123 149 96 98
+
+
 
 
 **Frostviken-Hotagens Sameförening**
@@ -12198,9 +16800,13 @@ Nummer: 12773
     123 147 89 99
 
 
+
+
 **Frostvikens församling / Strömsunds Pastorat**
 
     123 182 28 99
+
+
 
 
 **FRS Kungsbacka**
@@ -12208,9 +16814,13 @@ Nummer: 12773
     123 090 80 12
 
 
+
+
 **Fru Berta Kamprads stiftelse för utforskning och bekämpning av cancersjukdomar**
 
     123 900 70 30
+
+
 
 
 **Frusna Tassar**
@@ -12218,9 +16828,22 @@ Nummer: 12773
     123 180 87 57
 
 
+
+
+**Frustuna Församling**
+
+    123 468 98 24 - Insamling
+
+    123 512 21 55 - Kollekt
+
+
+
+
 **Fruängens Bilskola AB**
 
     123 132 49 87
+
+
 
 
 **Fryksände Hembygdsförening**
@@ -12228,9 +16851,13 @@ Nummer: 12773
     123 570 70 47
 
 
+
+
 **Fryksände Pastorat**
 
     123 506 87 39
+
+
 
 
 **Frälsningsarmén**
@@ -12352,9 +16979,13 @@ Nummer: 12773
     123 900 69 90
 
 
+
+
 **Frälsningsarmén Karlstad**
 
     123 155 08 13
+
+
 
 
 **Frälsningsarmén Officersskolan**
@@ -12362,9 +16993,13 @@ Nummer: 12773
     123 024 69 67
 
 
+
+
 **Frälsningsarmen i Oskarshamn**
 
     123 361 72 97
+
+
 
 
 **Främmestads IK**
@@ -12372,9 +17007,13 @@ Nummer: 12773
     123 092 80 93
 
 
+
+
 **Frändefors IF**
 
     123 029 42 64
+
+
 
 
 **Fränsta IK**
@@ -12382,9 +17021,13 @@ Nummer: 12773
     123 175 60 63
 
 
+
+
 **Frödinge Bygdegårdsförening**
 
     123 205 07 55
+
+
 
 
 **Fröjereds IF**
@@ -12394,9 +17037,13 @@ Nummer: 12773
     123 392 61 28
 
 
+
+
 **Fröken Nilssons Hälsa / Annica Nilsson**
 
     123 304 81 62
+
+
 
 
 **Frölunda Hockey Club**
@@ -12404,9 +17051,13 @@ Nummer: 12773
     123 403 41 20
 
 
+
+
 **Frösthults Bygdegård**
 
     123 634 52 76
+
+
 
 
 **Frösunda Hembygdsförening**
@@ -12414,9 +17065,13 @@ Nummer: 12773
     123 183 45 30
 
 
+
+
 **Frösundavikens Båtklubb**
 
     123 643 45 42
+
+
 
 
 **Frösåker Golf & Country Club AB**
@@ -12424,9 +17079,13 @@ Nummer: 12773
     123 608 67 06
 
 
+
+
 **Frösö Hästgård AB**
 
     123 152 20 85
+
+
 
 
 **Frösö Sunne Norderö Församling**
@@ -12444,9 +17103,13 @@ Nummer: 12773
     123 693 02 75 - Kollekt Sunne kyrka
 
 
+
+
 **Frötuna Församling**
 
     123 133 57 85
+
+
 
 
 **Frötuna IBF**
@@ -12454,9 +17117,13 @@ Nummer: 12773
     123 496 06 13
 
 
+
+
 **FSK Lodjuret Älvsbyns kommuns Skoterklubb**
 
     123 387 97 15
+
+
 
 
 **FTM-Mission**
@@ -12464,9 +17131,13 @@ Nummer: 12773
     123 419 35 61
 
 
+
+
 **FUB Gävle**
 
     123 395 91 60
+
+
 
 
 **FUB Västerås**
@@ -12474,9 +17145,13 @@ Nummer: 12773
     123 214 67 02
 
 
+
+
 **FUBB Basket**
 
     123 535 11 43
+
+
 
 
 **Fugelsta Gård**
@@ -12484,9 +17159,13 @@ Nummer: 12773
     123 616 19 13 - Fugelsta stigbyggare
 
 
+
+
 **Full Personality Expression Sweden, FPES**
 
     123 431 24 19
+
+
 
 
 **Fullerö Golfklubb**
@@ -12494,9 +17173,13 @@ Nummer: 12773
     123 442 55 34 - Ställplats
 
 
+
+
 **Funktionsmedicin / Eva-Lotta Ryd**
 
     123 271 71 71
+
+
 
 
 **Funäsdalens IF Erik Halvarsson Minnesfond**
@@ -12504,9 +17187,13 @@ Nummer: 12773
     123 346 98 89
 
 
+
+
 **Furubackskyrkan / Barnarps Frikyrkoförsamling**
 
     123 122 29 42
+
+
 
 
 **Furuby IF**
@@ -12514,9 +17201,13 @@ Nummer: 12773
     123 529 26 44
 
 
+
+
 **Furudals Bruks Golfklubb**
 
     123 350 17 98
+
+
 
 
 **Furuhöjdskyrkans Församling**
@@ -12524,14 +17215,20 @@ Nummer: 12773
     123 391 04 29
 
 
+
+
 **Furuhöjdskyrkans Församling Alunda**
 
     123 097 49 64
 
 
+
+
 **Furuhöjdskyrkans Ungdomsförening, FURUF**
 
     123 138 17 71
+
+
 
 
 **Furulunds Församling**
@@ -12549,9 +17246,13 @@ Nummer: 12773
     123 695 83 75 - Kollekt i Furulundskyrkan
 
 
+
+
 **Furulunds Jujutsuklubb**
 
     123 198 68 84
+
+
 
 
 **Furusunds Byalag**
@@ -12559,9 +17260,13 @@ Nummer: 12773
     123 167 05 46
 
 
+
+
 **Furusunds Båtklubb**
 
     123 445 30 56
+
+
 
 
 **Furusunds Kulturförening**
@@ -12569,9 +17274,13 @@ Nummer: 12773
     123 321 45 66
 
 
+
+
 **Futsal Club Ljiljan**
 
     123 230 81 46
+
+
 
 
 **Future with Hope - For children in EastAfrica**
@@ -12579,9 +17288,13 @@ Nummer: 12773
     123 199 37 16
 
 
+
+
 **FVBU, Föreningen för Värdefulla Barn och Ungdomar**
 
     123 900 41 36
+
+
 
 
 **Fyllingarums Bygdegårdsförening**
@@ -12589,9 +17302,13 @@ Nummer: 12773
     123 619 87 74
 
 
+
+
 **Fyrklöverns Stugby AB**
 
     123 571 53 70
+
+
 
 
 **Fyshuset / Svensk Idrottskonsult AB**
@@ -12599,9 +17316,13 @@ Nummer: 12773
     123 558 65 40
 
 
+
+
 **Fältbiologerna**
 
     123 199 73 11
+
+
 
 
 **Fältjägarnas Enduroförening**
@@ -12609,9 +17330,13 @@ Nummer: 12773
     123 198 49 88
 
 
+
+
 **Färgaryds Församling**
 
     123 223 23 04 - Kollekt Färgaryds församling
+
+
 
 
 **Färgelanda-Högsäters Församling**
@@ -12619,9 +17344,13 @@ Nummer: 12773
     123 158 38 71
 
 
+
+
 **Färgelanda IF**
 
     123 189 53 58
+
+
 
 
 **Färila Hembygdsförening**
@@ -12629,9 +17358,13 @@ Nummer: 12773
     123 338 31 14
 
 
+
+
 **Färila-Kårböle Församling**
 
     123 570 78 56
+
+
 
 
 **Färingsö Församling**
@@ -12639,9 +17372,13 @@ Nummer: 12773
     123 633 36 86
 
 
+
+
 **Färingsö Hembygdsförening**
 
     123 282 69 23
+
+
 
 
 **Färingsö Sjöscoutkår**
@@ -12649,9 +17386,13 @@ Nummer: 12773
     123 338 36 43
 
 
+
+
 **Färingtofta Idrottsklubb**
 
     123 634 57 48
+
+
 
 
 **Färjestad Ridklubb**
@@ -12659,9 +17400,13 @@ Nummer: 12773
     123 147 52 19
 
 
+
+
 **Färjestadens IBS**
 
     123 013 89 41
+
+
 
 
 **Färjestadens Segelsällskap, FSS**
@@ -12669,9 +17414,13 @@ Nummer: 12773
     123 254 97 23
 
 
+
+
 **Färnebo Eagles BBK**
 
     123 512 40 37
+
+
 
 
 **Färnebo Folkhögskola**
@@ -12679,9 +17428,13 @@ Nummer: 12773
     123 389 25 28
 
 
+
+
 **Färs Härads Hembygdsförening**
 
     123 165 88 22
+
+
 
 
 **Fässbergs Församling**
@@ -12689,9 +17442,13 @@ Nummer: 12773
     123 640 98 90
 
 
+
+
 **Fässbergs IF**
 
     123 605 72 28
+
+
 
 
 **Fågelboden Mälardalen AB**
@@ -12699,9 +17456,13 @@ Nummer: 12773
     123 359 22 35
 
 
+
+
 **Fågelföreningen Tärnan**
 
     123 617 94 69
+
+
 
 
 **Fårö StrandCafé / Sand & Music AB**
@@ -12709,9 +17470,13 @@ Nummer: 12773
     123 661 31 60
 
 
+
+
 **För Falun I Falun**
 
     123 020 08 31
+
+
 
 
 **För-Festivalen / Alla ska få mat**
@@ -12719,9 +17484,13 @@ Nummer: 12773
     123 260 49 73
 
 
+
+
 **Föra Hembygdsförening**
 
     123 149 79 08
+
+
 
 
 **Förarutbildning i Vindeln AB**
@@ -12729,9 +17498,13 @@ Nummer: 12773
     123 666 79 35
 
 
+
+
 **Förbundet Arbetarsolidaritet**
 
     123 699 29 52
+
+
 
 
 **Förbundet Blödarsjuka i Sverige, FBIS**
@@ -12741,9 +17514,13 @@ Nummer: 12773
     123 901 95 55 - Aroseniusfonden
 
 
+
+
 **Förbundet för Ekoparken**
 
     123 294 89 09
+
+
 
 
 **Förbundet ST Lukas**
@@ -12751,9 +17528,13 @@ Nummer: 12773
     123 684 62 65
 
 
+
+
 **Förebildarna / Ung Handlingskraft Göteborg**
 
     123 511 85 00
+
+
 
 
 **Förenade Byggingenjörer, FBI**
@@ -12761,9 +17542,13 @@ Nummer: 12773
     123 176 66 74
 
 
+
+
 **Förenade Israelinsamlingen / Keren Hayesod**
 
     123 421 88 89
+
+
 
 
 **Förenade Reikiförbundet i Sverige**
@@ -12771,9 +17556,13 @@ Nummer: 12773
     123 050 62 87
 
 
+
+
 **Förening i Konst, FIK**
 
     123 484 45 85
+
+
 
 
 **Föreningen 021 Grappling**
@@ -12781,9 +17570,13 @@ Nummer: 12773
     123 071 11 76
 
 
+
+
 **Föreningen 22q11**
 
     123 381 19 08
+
+
 
 
 **Föreningen 9 Liv Östergötland**
@@ -12791,9 +17584,13 @@ Nummer: 12773
     123 161 53 76
 
 
+
+
 **Föreningen Afrikas Barn, FAB**
 
     123 900 59 68
+
+
 
 
 **Föreningen Aktiva Hundar i Linköping**
@@ -12801,9 +17598,13 @@ Nummer: 12773
     123 122 00 37
 
 
+
+
 **Föreningen Albatrossmuseet**
 
     123 056 22 80
+
+
 
 
 **Föreningen Ale Aerobic och Dansstudio**
@@ -12811,9 +17612,13 @@ Nummer: 12773
     123 378 36 10
 
 
+
+
 **Föreningen Alla Kvinnors Hus**
 
     123 900 45 65
+
+
 
 
 **Föreningen Alternativ till Psykofarmaka, FAP**
@@ -12821,9 +17626,13 @@ Nummer: 12773
     123 076 69 98
 
 
+
+
 **Föreningen Altunagården**
 
     123 578 92 50
+
+
 
 
 **Föreningen Angarns Ryttare**
@@ -12831,9 +17640,13 @@ Nummer: 12773
     123 693 10 75
 
 
+
+
 **Föreningen Antoniosgården**
 
     123 371 66 28
+
+
 
 
 **Föreningen Arboga Medeltid**
@@ -12841,9 +17654,13 @@ Nummer: 12773
     123 666 43 79
 
 
+
+
 **Föreningen Asperö Fritid**
 
     123 214 94 33
+
+
 
 
 **Föreningen Autisterna**
@@ -12851,9 +17668,13 @@ Nummer: 12773
     123 436 38 83
 
 
+
+
 **Föreningen Backamo Skjutbana**
 
     123 406 63 95
+
+
 
 
 **Föreningen Backamo Vänner**
@@ -12861,9 +17682,13 @@ Nummer: 12773
     123 454 23 04
 
 
+
+
 **Föreningen Bajenfonden**
 
     123 360 71 40
+
+
 
 
 **Föreningen Biblis**
@@ -12871,9 +17696,13 @@ Nummer: 12773
     123 519 43 03
 
 
+
+
 **Föreningen Big in Kramfors**
 
     123 299 97 95
+
+
 
 
 **Föreningen Björndammens Masugn**
@@ -12881,9 +17710,13 @@ Nummer: 12773
     123 510 63 49
 
 
+
+
 **Föreningen Blomsterfonden**
 
     123 902 53 05
+
+
 
 
 **Föreningen Bogserbåten Herkules**
@@ -12891,9 +17724,13 @@ Nummer: 12773
     123 276 23 42
 
 
+
+
 **Föreningen Bota FA!**
 
     123 237 53 19
+
+
 
 
 **Föreningen Briggen Tre Kronor**
@@ -12903,9 +17740,13 @@ Nummer: 12773
     123 361 57 62
 
 
+
+
 **Föreningen Bruksgården**
 
     123 554 74 68
+
+
 
 
 **Föreningen Bölegården**
@@ -12913,9 +17754,13 @@ Nummer: 12773
     123 683 75 61
 
 
+
+
 **Föreningen Camerata Incantus**
 
     123 614 28 55
+
+
 
 
 **Föreningen Children with love**
@@ -12923,9 +17768,13 @@ Nummer: 12773
     123 256 17 85
 
 
+
+
 **Föreningen Dalkarlsvägen**
 
     123 352 71 57
+
+
 
 
 **Föreningen Digital Demokrati**
@@ -12933,9 +17782,13 @@ Nummer: 12773
     123 556 00 81
 
 
+
+
 **Föreningen Dumpen**
 
     123 250 22 84
+
+
 
 
 **Föreningen Dunkers Församlingshem**
@@ -12943,9 +17796,13 @@ Nummer: 12773
     123 483 67 89
 
 
+
+
 **Föreningen Ejgdetjärnet**
 
     123 246 83 87
+
+
 
 
 **Föreningen Ekets Framtid**
@@ -12953,9 +17810,13 @@ Nummer: 12773
     123 664 18 07
 
 
+
+
 **Föreningen Ekhagen**
 
     123 545 72 05
+
+
 
 
 **Föreningen Ellös**
@@ -12963,9 +17824,13 @@ Nummer: 12773
     123 394 36 36
 
 
+
+
 **Föreningen End Ecocide**
 
     123 201 11 04
+
+
 
 
 **Föreningen Fellingsbro Socken**
@@ -12973,9 +17838,13 @@ Nummer: 12773
     123 262 00 29
 
 
+
+
 **Föreningen Femörefortet**
 
     123 350 52 78
+
+
 
 
 **Föreningen FHS**
@@ -12983,9 +17852,13 @@ Nummer: 12773
     123 361 59 52
 
 
+
+
 **Föreningen Filharmonikernas Vänner**
 
     123 352 59 20
+
+
 
 
 **Föreningen Fiskhuset i Nyköping**
@@ -12993,9 +17866,13 @@ Nummer: 12773
     123 155 61 17
 
 
+
+
 **Föreningen Fjärde Världen**
 
     123 566 92 96
+
+
 
 
 **Föreningen Fjärilar i Pite Lappmark**
@@ -13003,9 +17880,13 @@ Nummer: 12773
     123 215 65 78
 
 
+
+
 **Föreningen Flatön**
 
     123 562 51 65
+
+
 
 
 **Föreningen Floby Ryttare**
@@ -13013,9 +17894,13 @@ Nummer: 12773
     123 572 96 11
 
 
+
+
 **Föreningen Flottans Män i Västerås**
 
     123 519 28 85
+
+
 
 
 **Föreningen Folkets Hus Långshyttan**
@@ -13023,9 +17908,13 @@ Nummer: 12773
     123 027 95 13
 
 
+
+
 **Föreningen Folkets Park Örebro**
 
     123 552 70 98
+
+
 
 
 **Föreningen Folkrörelsearkiv för Uppsala Län**
@@ -13033,9 +17922,13 @@ Nummer: 12773
     123 483 69 20
 
 
+
+
 **Föreningen Forbonden Klövsjö**
 
     123 156 72 54
+
+
 
 
 **Föreningen Framtidsjorden**
@@ -13043,9 +17936,13 @@ Nummer: 12773
     123 900 21 89
 
 
+
+
 **Föreningen Framåt Kämpersvik**
 
     123 338 42 86
+
+
 
 
 **Föreningen Furuboda**
@@ -13053,9 +17950,13 @@ Nummer: 12773
     123 900 59 43
 
 
+
+
 **Föreningen Fårö Framtid**
 
     123 231 86 65
+
+
 
 
 **Föreningen för den Beridna Högvakten**
@@ -13063,9 +17964,13 @@ Nummer: 12773
     123 901 55 04
 
 
+
+
 **Föreningen för Digitala Fri- och Rättigheter, DFRI**
 
     123 624 35 70
+
+
 
 
 **Föreningen för gatubarn i Nepal**
@@ -13073,9 +17978,13 @@ Nummer: 12773
     123 900 36 58
 
 
+
+
 **Föreningen för Göteborgs Försvar**
 
     123 068 67 09
+
+
 
 
 **Föreningen för Göteborgs Försvar, FFGF**
@@ -13083,9 +17992,13 @@ Nummer: 12773
     123 274 68 81
 
 
+
+
 **Föreningen för Höörs Hemlösa Katter**
 
     123 390 72 92
+
+
 
 
 **Föreningen för Kammarmusik**
@@ -13093,9 +18006,13 @@ Nummer: 12773
     123 260 79 84
 
 
+
+
 **Föreningen För Katekumenatet**
 
     123 677 92 01
+
+
 
 
 **Föreningen för kyrkopedagogik i Sverige**
@@ -13103,14 +18020,20 @@ Nummer: 12773
     123 436 81 55
 
 
+
+
 **Föreningen För Lotsbåten Ilse**
 
     123 640 64 66
 
 
+
+
 **Föreningen för M/S Moa**
 
     123 001 84 65
+
+
 
 
 **Föreningen för Olympisk Kortdistansskjutning FOK Borås**
@@ -13126,9 +18049,13 @@ Nummer: 12773
     123 668 37 26 - Ammo
 
 
+
+
 **Föreningen för Sverigevänliga intressen, SamNytt**
 
     123 083 33 50
+
+
 
 
 **Föreningen för terapikolonier**
@@ -13138,9 +18065,13 @@ Nummer: 12773
     123 900 76 00
 
 
+
+
 **Föreningen för Tibetansk Buddhism i Göteborg**
 
     123 018 21 21
+
+
 
 
 **Föreningen för Utvecklingsfrågor, FUF**
@@ -13148,9 +18079,13 @@ Nummer: 12773
     123 481 86 13
 
 
+
+
 **Föreningen Förvildade Katter, FFK**
 
     123 033 62 89
+
+
 
 
 **Föreningen Gagnefs Bio**
@@ -13158,9 +18093,13 @@ Nummer: 12773
     123 002 02 89
 
 
+
+
 **Föreningen Gamla Bion i Örsundsbro**
 
     123 081 69 67
+
+
 
 
 **Föreningen Gamla Carlscrona**
@@ -13168,9 +18107,13 @@ Nummer: 12773
     123 287 39 41
 
 
+
+
 **Föreningen Gamla Halmstad**
 
     123 107 73 95
+
+
 
 
 **Föreningen Gamla Lund**
@@ -13178,9 +18121,13 @@ Nummer: 12773
     123 422 78 07
 
 
+
+
 **Föreningen Gamla SSK:are**
 
     123 145 41 72
+
+
 
 
 **Föreningen Garpens Vänner**
@@ -13188,9 +18135,13 @@ Nummer: 12773
     123 174 77 40
 
 
+
+
 **Föreningen Genesis**
 
     123 652 03 99
+
+
 
 
 **Föreningen Gotlands Fornvänner**
@@ -13198,9 +18149,13 @@ Nummer: 12773
     123 225 92 24
 
 
+
+
 **Föreningen Gotlandståget**
 
     123 512 38 31
+
+
 
 
 **Föreningen Greenpeace Norden**
@@ -13208,9 +18163,13 @@ Nummer: 12773
     123 901 24 02
 
 
+
+
 **Föreningen Gräsgårds Bastu / Gräsgårds Badhus**
 
     123 636 58 60
+
+
 
 
 **Föreningen Gutefåret**
@@ -13218,9 +18177,13 @@ Nummer: 12773
     123 032 01 68
 
 
+
+
 **Föreningen Gärdslösa Prästgård**
 
     123 188 04 42
+
+
 
 
 **Föreningen Göteborgs Moské**
@@ -13228,9 +18191,13 @@ Nummer: 12773
     123 151 04 11
 
 
+
+
 **Föreningen Göteborgs Räddningsmission**
 
     123 900 44 41
+
+
 
 
 **Föreningen Hand in Hand Sweden**
@@ -13238,9 +18205,13 @@ Nummer: 12773
     123 900 09 10
 
 
+
+
 **Föreningen Hedemora Gammelgård**
 
     123 130 05 81
+
+
 
 
 **Föreningen HEM**
@@ -13248,9 +18219,13 @@ Nummer: 12773
     123 588 50 74
 
 
+
+
 **Föreningen Hjälp Utsatta Katter få Hem**
 
     123 676 42 03
+
+
 
 
 **Föreningen Hyttan, Axmar Bruk**
@@ -13258,14 +18233,20 @@ Nummer: 12773
     123 327 66 56
 
 
+
+
 **Föreningen Hälsobro**
 
     123 561 87 72
 
 
+
+
 **Föreningen Idla - Gymnastik**
 
     123 259 23 27
+
+
 
 
 **Föreningen Interkultur i Lund**
@@ -13285,9 +18266,13 @@ Nummer: 12773
     123 659 87 42 - Português - Portugisisk sektion
 
 
+
+
 **Föreningen Isbjörnarna**
 
     123 438 99 95
+
+
 
 
 **Föreningen Jagaren Smålands Vänner, J19**
@@ -13295,9 +18280,13 @@ Nummer: 12773
     123 455 79 97
 
 
+
+
 **Föreningen Jordbro United Dans & Show, JUDS**
 
     123 536 89 80
+
+
 
 
 **Föreningen Jädersgården Ekonomisk förening**
@@ -13305,9 +18294,13 @@ Nummer: 12773
     123 027 89 52
 
 
+
+
 **Föreningen Kallbadhusets Vänner**
 
     123 097 39 74
+
+
 
 
 **Föreningen Kampi Ya Moto:s Barn**
@@ -13315,9 +18308,13 @@ Nummer: 12773
     123 900 11 81
 
 
+
+
 **Föreningen Karlshamns Museum**
 
     123 608 63 59
+
+
 
 
 **Föreningen Kattakuten i Norrbotten**
@@ -13325,9 +18322,13 @@ Nummer: 12773
     123 338 48 72
 
 
+
+
 **Föreningen Kattstallet**
 
     123 900 22 47
+
+
 
 
 **Föreningen Kisumu**
@@ -13335,9 +18336,13 @@ Nummer: 12773
     123 607 26 98
 
 
+
+
 **Föreningen Kivik Tång**
 
     123 162 08 97
+
+
 
 
 **Föreningen Klimatriksdagen**
@@ -13345,9 +18350,13 @@ Nummer: 12773
     123 336 34 39
 
 
+
+
 **Föreningen Knutby Folketspark**
 
     123 456 73 43
+
+
 
 
 **Föreningen Kompass**
@@ -13355,9 +18364,13 @@ Nummer: 12773
     123 313 24 20
 
 
+
+
 **Föreningen Kopparslagaren Galleri**
 
     123 005 42 21
+
+
 
 
 **Föreningen kultur vid Örbyhus Slott**
@@ -13365,9 +18378,13 @@ Nummer: 12773
     123 535 05 25
 
 
+
+
 **Föreningen Kulturarv Djurhamn**
 
     123 306 89 39
+
+
 
 
 **Föreningen Kulturbojen**
@@ -13375,9 +18392,13 @@ Nummer: 12773
     123 220 80 64
 
 
+
+
 **Föreningen Kvickbadhuset Höganäs**
 
     123 344 18 39
+
+
 
 
 **Föreningen Kvinnohuset i Västerås**
@@ -13385,9 +18406,13 @@ Nummer: 12773
     123 032 04 65
 
 
+
+
 **Föreningen Labbehjärtat**
 
     123 602 56 13
+
+
 
 
 **Föreningen Lilla Barnets Fond**
@@ -13395,9 +18420,13 @@ Nummer: 12773
     123 900 15 53
 
 
+
+
 **Föreningen Lilla Hjärtat**
 
     123 579 21 89
+
+
 
 
 **Föreningen Linköpings Ungdomsorkestrar, LUO**
@@ -13405,9 +18434,13 @@ Nummer: 12773
     123 596 61 14
 
 
+
+
 **Föreningen Ljugarn**
 
     123 304 01 69
+
+
 
 
 **Föreningen Ljungs Slotts Bevarande**
@@ -13415,9 +18448,13 @@ Nummer: 12773
     123 359 21 85
 
 
+
+
 **Föreningen Ludvika Gymmix**
 
     123 233 99 43
+
+
 
 
 **Föreningen Lysekils Vänner**
@@ -13425,9 +18462,13 @@ Nummer: 12773
     123 098 05 24
 
 
+
+
 **Föreningen Lästringebygden**
 
     123 312 73 88
+
+
 
 
 **Föreningen M 20**
@@ -13435,9 +18476,13 @@ Nummer: 12773
     123 303 11 68
 
 
+
+
 **Föreningen Marmabygden**
 
     123 064 35 85
+
+
 
 
 **Föreningen Medveten Konsumtion Sverige**
@@ -13445,9 +18490,13 @@ Nummer: 12773
     123 900 68 91
 
 
+
+
 **Föreningen Mot Bättre Vetande**
 
     123 563 63 52
+
+
 
 
 **Föreningen Musica Viva**
@@ -13455,9 +18504,13 @@ Nummer: 12773
     123 677 98 47
 
 
+
+
 **Föreningen Musik i Linköping**
 
     123 094 30 35
+
+
 
 
 **Föreningen Mästerkatten, FMK**
@@ -13465,9 +18518,13 @@ Nummer: 12773
     123 590 90 64
 
 
+
+
 **Föreningen Nennngesund**
 
     123 641 93 94
+
+
 
 
 **Föreningen Nepals Vänner - Friends Of Nepal**
@@ -13475,9 +18532,13 @@ Nummer: 12773
     123 567 23 81
 
 
+
+
 **Föreningen Norden**
 
     123 333 64 35
+
+
 
 
 **Föreningen Norden Arvika**
@@ -13485,9 +18546,13 @@ Nummer: 12773
     123 609 05 18
 
 
+
+
 **Föreningen Norden Ätradalen**
 
     123 276 00 80
+
+
 
 
 **Föreningen Nordsvenska Hästen Bohuslän**
@@ -13495,9 +18560,13 @@ Nummer: 12773
     123 256 72 20
 
 
+
+
 **Föreningen Nordsvenska Hästen, FNH**
 
     123 063 13 82
+
+
 
 
 **Föreningen Nordsvenska Hästen Södra Älvsborg**
@@ -13505,9 +18574,13 @@ Nummer: 12773
     123 412 37 82
 
 
+
+
 **Föreningen Ny Gemenskap**
 
     123 900 53 31
+
+
 
 
 **Föreningen Nyckelharpan**
@@ -13515,9 +18588,13 @@ Nummer: 12773
     123 612 26 34
 
 
+
+
 **Föreningen Nyhemsveckan**
 
     123 680 55 92
+
+
 
 
 **Föreningen Nässjö SKI**
@@ -13525,9 +18602,13 @@ Nummer: 12773
     123 657 11 11
 
 
+
+
 **Föreningen Nösund**
 
     123 231 65 60 - Varmbadhuset
+
+
 
 
 **Föreningen Om dissociation**
@@ -13535,9 +18616,13 @@ Nummer: 12773
     123 565 31 75
 
 
+
+
 **Föreningen Omsorgsjul-Hemlösa i Norrköping**
 
     123 900 01 26
+
+
 
 
 **Föreningen Omtanke**
@@ -13545,9 +18630,13 @@ Nummer: 12773
     123 074 72 87
 
 
+
+
 **Föreningen Orusts Släktforskare**
 
     123 174 24 85
+
+
 
 
 **Föreningen Palmeras Vänner**
@@ -13555,9 +18644,13 @@ Nummer: 12773
     123 901 19 17
 
 
+
+
 **Föreningen Partrederiet Klara Marie**
 
     123 355 62 48
+
+
 
 
 **Föreningen Pennskaftet**
@@ -13565,9 +18658,13 @@ Nummer: 12773
     123 132 44 74
 
 
+
+
 **Föreningen Rogs bystuga**
 
     123 304 44 19
+
+
 
 
 **Föreningen Run for Mental Health i Lund**
@@ -13575,9 +18672,13 @@ Nummer: 12773
     123 569 22 56
 
 
+
+
 **Föreningen Runnsvattnets Vänner**
 
     123 685 35 01
+
+
 
 
 **Föreningen Runsten Equestrians**
@@ -13585,9 +18686,13 @@ Nummer: 12773
     123 342 49 00
 
 
+
+
 **Föreningen Ryafåret**
 
     123 513 40 02
+
+
 
 
 **Föreningen Rädda Björndammsdalen och Finngösaravinen**
@@ -13595,9 +18700,13 @@ Nummer: 12773
     123 321 23 70
 
 
+
+
 **Föreningen Rädda Regnskog, Sverige**
 
     123 628 46 16
+
+
 
 
 **Föreningen RåFILM**
@@ -13605,9 +18714,13 @@ Nummer: 12773
     123 568 18 79
 
 
+
+
 **Föreningen S/S Nalle**
 
     123 008 68 19
+
+
 
 
 **Föreningen S:t Martin**
@@ -13615,9 +18728,13 @@ Nummer: 12773
     123 264 92 34
 
 
+
+
 **Föreningen S:t Mikael**
 
     123 571 64 02
+
+
 
 
 **Föreningen S:ta Clara Kyrka**
@@ -13625,9 +18742,13 @@ Nummer: 12773
     123 131 28 83 - #claravintern
 
 
+
+
 **Föreningen Scoutmuseèt Göteborg**
 
     123 427 27 87
+
+
 
 
 **Föreningen Senapsfröet**
@@ -13635,9 +18756,13 @@ Nummer: 12773
     123 288 43 02
 
 
+
+
 **Föreningen Seniorverkstan**
 
     123 254 06 49
+
+
 
 
 **Föreningen Sesam**
@@ -13645,9 +18770,13 @@ Nummer: 12773
     123 113 11 19
 
 
+
+
 **Föreningen Sinnen & Perception**
 
     123 065 53 32
+
+
 
 
 **Föreningen Själ och Hjärta**
@@ -13655,9 +18784,13 @@ Nummer: 12773
     123 130 07 30
 
 
+
+
 **Föreningen Skolprojekt Sudan, Anitha Academy**
 
     123 900 40 29
+
+
 
 
 **Föreningen Skärgårdsmuseet**
@@ -13665,9 +18798,13 @@ Nummer: 12773
     123 652 01 26
 
 
+
+
 **Föreningen Skånska Gårdar**
 
     123 613 37 48
+
+
 
 
 **Föreningen Släktdata**
@@ -13675,9 +18812,13 @@ Nummer: 12773
     123 499 98 84
 
 
+
+
 **Föreningen Smålands Husarer**
 
     123 187 28 11
+
+
 
 
 **Föreningen Spiran Linköping**
@@ -13685,9 +18826,13 @@ Nummer: 12773
     123 042 60 23
 
 
+
+
 **Föreningen Station Linné**
 
     123 377 01 04
+
+
 
 
 **Föreningen Stickan / Stiftelsen Stickan**
@@ -13695,9 +18840,13 @@ Nummer: 12773
     123 294 36 86
 
 
+
+
 **Föreningen Stockholms Katthem**
 
     123 900 17 93
+
+
 
 
 **Föreningen Storasyster**
@@ -13705,9 +18854,13 @@ Nummer: 12773
     123 900 67 92
 
 
+
+
 **Föreningen Svedala - Barabygden**
 
     123 366 92 98
+
+
 
 
 **Föreningen Svenska Finullsfår**
@@ -13715,14 +18868,20 @@ Nummer: 12773
     123 044 13 03
 
 
+
+
 **Föreningen Svenska Patrullbåtar**
 
     123 469 26 79
 
 
+
+
 **Föreningen Svenska Tonsättare, FST**
 
     123 675 88 74
+
+
 
 
 **Föreningen Svenskbyborna**
@@ -13732,9 +18891,13 @@ Nummer: 12773
     123 437 61 41
 
 
+
+
 **Föreningen Sättra Byhus**
 
     123 689 61 61
+
+
 
 
 **Föreningen Södergården**
@@ -13742,14 +18905,20 @@ Nummer: 12773
     123 363 51 90
 
 
+
+
 **Föreningen Söderhamns museum**
 
     123 406 02 16
 
 
+
+
 **Föreningen Theofil**
 
     123 470 17 85
+
+
 
 
 **Föreningen Tidigt Föräldrastöd**
@@ -13759,9 +18928,13 @@ Nummer: 12773
     123 360 00 61 - Medlemsavgift
 
 
+
+
 **Föreningen till minne av Jocke Nyberg**
 
     123 161 38 01
+
+
 
 
 **Föreningen Tomtarna**
@@ -13769,9 +18942,13 @@ Nummer: 12773
     123 538 32 78
 
 
+
+
 **Föreningen Träibatn**
 
     123 501 61 59
+
+
 
 
 **Föreningen Trögdsgården**
@@ -13779,9 +18956,13 @@ Nummer: 12773
     123 521 88 21
 
 
+
+
 **Föreningen Turf Västmanland**
 
     123 499 72 43
+
+
 
 
 **Föreningen Umeå RadioAmatörer, FURA**
@@ -13789,9 +18970,13 @@ Nummer: 12773
     123 441 66 65
 
 
+
+
 **Föreningen Vadstena Konstgalleri**
 
     123 290 59 58
+
+
 
 
 **Föreningen Vadtorps Vänner**
@@ -13799,9 +18984,13 @@ Nummer: 12773
     123 109 83 91
 
 
+
+
 **Föreningen Valhalla-Lokalen**
 
     123 196 17 47
+
+
 
 
 **Föreningen Vendelsjön**
@@ -13809,9 +18998,13 @@ Nummer: 12773
     123 133 23 03
 
 
+
+
 **Föreningen Verkstan RSMH Valegården**
 
     123 045 96 10
+
+
 
 
 **Föreningen Vikingaskeppet Sigrid Storråda**
@@ -13819,9 +19012,13 @@ Nummer: 12773
     123 162 82 54
 
 
+
+
 **Föreningen Väderöbod**
 
     123 384 08 81
+
+
 
 
 **Föreningen Växbobygden**
@@ -13829,9 +19026,13 @@ Nummer: 12773
     123 592 38 67
 
 
+
+
 **Föreningen Vårda Södertälje**
 
     123 143 37 13
+
+
 
 
 **Föreningen Vårdnad Boende Umgänge i Sverige, VBU**
@@ -13839,9 +19040,13 @@ Nummer: 12773
     123 666 06 82
 
 
+
+
 **Föreningen We Love Italy**
 
     123 696 17 26
+
+
 
 
 **Föreningen Wendelas Vänner**
@@ -13849,9 +19054,13 @@ Nummer: 12773
     123 006 85 93
 
 
+
+
 **Föreningen Yari**
 
     123 239 56 39
+
+
 
 
 **Föreningen Ymna**
@@ -13859,9 +19068,13 @@ Nummer: 12773
     123 351 56 99
 
 
+
+
 **Föreningen Ystads Kallbadhus**
 
     123 503 09 94
+
+
 
 
 **Föreningen Zendokai Karate**
@@ -13869,9 +19082,13 @@ Nummer: 12773
     123 483 85 12
 
 
+
+
 **Föreningen Ädelkatten**
 
     123 511 67 93
+
+
 
 
 **Föreningen Åh Stiftsgårds vänner**
@@ -13879,9 +19096,13 @@ Nummer: 12773
     123 389 37 32
 
 
+
+
 **Föreningen Örtagården**
 
     123 311 38 75
+
+
 
 
 **Föreningsalliansen Gnosjö Hjälper**
@@ -13889,9 +19110,13 @@ Nummer: 12773
     123 900 60 57
 
 
+
+
 **Föreningshuset Fontänen**
 
     123 296 11 00
+
+
 
 
 **Föreningstjänst i Vänersborg / Kaj Dahlqvist**
@@ -13899,9 +19124,13 @@ Nummer: 12773
     123 041 20 07
 
 
+
+
 **Företagarna Svenljunga & Tranemo**
 
     123 447 97 54
+
+
 
 
 **Förlösa-Kläckeberga Församling**
@@ -13909,9 +19138,13 @@ Nummer: 12773
     123 682 60 36
 
 
+
+
 **Förr och Nu**
 
     123 077 42 57
+
+
 
 
 **Församlingen Arken**
@@ -13919,9 +19152,13 @@ Nummer: 12773
     123 056 90 46
 
 
+
+
 **Församlingen Betel**
 
     123 100 78 97
+
+
 
 
 **Församlingen Fristaden**
@@ -13929,9 +19166,13 @@ Nummer: 12773
     123 049 91 03
 
 
+
+
 **Församlingen i Stockholm**
 
     123 167 31 69
+
+
 
 
 **Församlingen Liv i Överflöd**
@@ -13939,14 +19180,20 @@ Nummer: 12773
     123 466 51 54
 
 
+
+
 **Församlinggården Bredbyn**
 
     123 241 28 64
 
 
+
+
 **Församlingsfakulteten, FFG**
 
     123 100 84 57
+
+
 
 
 **Förslövs IF**
@@ -13956,9 +19203,13 @@ Nummer: 12773
     123 694 75 01
 
 
+
+
 **Försoningsgruppen**
 
     123 032 01 35
+
+
 
 
 **Första Hjälpengruppen Alpha**
@@ -13966,9 +19217,13 @@ Nummer: 12773
     123 263 04 65
 
 
+
+
 **Försvarsutbildarna Västmanlands Skytteförening**
 
     123 190 57 85
+
+
 
 
 **FörsäkringsMedicinska Sällskapet, FMS**
@@ -13976,9 +19231,13 @@ Nummer: 12773
     123 688 70 53
 
 
+
+
 **Föräldraföreningen Mot Narkotika, FMN**
 
     123 413 37 99 - Norrbotten
+
+
 
 
 **Föräldraföreningen Mot Narkotika Storstockholm, FMN**
@@ -13986,14 +19245,20 @@ Nummer: 12773
     123 048 48 81
 
 
+
+
 **Föräldrakooperativet Kojan**
 
     123 105 17 96
 
 
+
+
 **Föräldralösa barn, Insamlingsstiftelse**
 
     123 900 98 95
+
+
 
 
 
@@ -14005,9 +19270,13 @@ Nummer: 12773
     123 155 58 95
 
 
+
+
 **Gûnnerskemârten / Martens-Alliansen Gunnarskog**
 
     123 422 64 60
+
+
 
 
 **GAF:s Jaktskytteklubb**
@@ -14015,9 +19284,13 @@ Nummer: 12773
     123 575 01 38
 
 
+
+
 **GAFFA**
 
     123 333 96 94
+
+
 
 
 **Gagnef-Floda Brukshundklubb**
@@ -14025,9 +19298,13 @@ Nummer: 12773
     123 576 00 95
 
 
+
+
 **Gagnefs Flygklubb**
 
     123 543 46 18
+
+
 
 
 **Gagnefs GK**
@@ -14035,9 +19312,13 @@ Nummer: 12773
     123 276 53 86
 
 
+
+
 **Gagnefs Pastorat**
 
     123 615 59 49
+
+
 
 
 **Gagnefs Ridklubb**
@@ -14045,9 +19326,13 @@ Nummer: 12773
     123 617 80 65
 
 
+
+
 **GAIS, Göteborgs Atlet- & Idrottssällskap**
 
     123 018 67 34
+
+
 
 
 **GAIS Tifo / KJIG**
@@ -14055,9 +19340,13 @@ Nummer: 12773
     123 086 83 80
 
 
+
+
 **Galleri Fågel / Anders Borgenhag Holmqvist**
 
     123 011 14 27
+
+
 
 
 **Galleri Lindberg / Lindbergs Konst & Ramar AB**
@@ -14065,9 +19354,13 @@ Nummer: 12773
     123 269 83 71
 
 
+
+
 **Galleri Loza / Loza Foundation**
 
     123 077 31 19
+
+
 
 
 **Galtabäck Båtklubb, GBK**
@@ -14075,9 +19368,13 @@ Nummer: 12773
     123 677 85 42
 
 
+
+
 **Gambiagrupperna**
 
     123 900 23 87
+
+
 
 
 **Game Workers Unite, GWU Sweden**
@@ -14085,9 +19382,13 @@ Nummer: 12773
     123 492 62 67
 
 
+
+
 **GameManiacs HB**
 
     123 148 90 79
+
+
 
 
 **Gamla Stans Yacht Sällskap**
@@ -14095,9 +19396,13 @@ Nummer: 12773
     123 278 98 81
 
 
+
+
 **Gamla Upsala Hembygdsförening**
 
     123 668 34 45
+
+
 
 
 **Gamla Upsala SK**
@@ -14105,9 +19410,13 @@ Nummer: 12773
     123 511 67 44
 
 
+
+
 **Gamleby Brukshundklubb**
 
     123 520 32 37
+
+
 
 
 **Gamleby Ridklubb**
@@ -14115,9 +19424,13 @@ Nummer: 12773
     123 502 14 64
 
 
+
+
 **Gamleby SG**
 
     123 459 78 37
+
+
 
 
 **Gamlens Gård / Johanna Skotte**
@@ -14125,9 +19438,13 @@ Nummer: 12773
     123 007 44 01
 
 
+
+
 **Gamlestaden FF**
 
     123 107 83 85
+
+
 
 
 **Gammalkils Hembygdsförening**
@@ -14135,14 +19452,20 @@ Nummer: 12773
     123 122 89 56
 
 
+
+
 **Gammeldansens vänner i Jakobsberg, GDV**
 
     123 641 86 69
 
 
+
+
 **Gammeldansföreningen Öresund**
 
     123 109 33 92
+
+
 
 
 **Gammelgårdens IF**
@@ -14160,9 +19483,13 @@ Nummer: 12773
     123 604 50 17
 
 
+
+
 **Gammelstads BBK**
 
     123 333 51 63
+
+
 
 
 **Gandur Islandshästförening**
@@ -14170,9 +19497,13 @@ Nummer: 12773
     123 540 75 23
 
 
+
+
 **Ganeshas Rum / Malla Malin Johansson**
 
     123 657 27 13
+
+
 
 
 **Gantofta IF**
@@ -14180,9 +19511,13 @@ Nummer: 12773
     123 480 52 48
 
 
+
+
 **Gardenize AB**
 
     123 474 53 03
+
+
 
 
 **Garphyttans IF**
@@ -14192,9 +19527,13 @@ Nummer: 12773
     123 521 96 62
 
 
+
+
 **Gastsjöns Bygdegårdsförening / Gastsjöns Vägsamfällighet**
 
     123 405 82 93
+
+
 
 
 **Gata Upp Gata Ner**
@@ -14202,9 +19541,13 @@ Nummer: 12773
     123 443 39 59
 
 
+
+
 **Gatujuristerna**
 
     123 655 96 94
+
+
 
 
 **GB Fågelguidning AB**
@@ -14212,9 +19555,13 @@ Nummer: 12773
     123 501 08 22
 
 
+
+
 **GBA Konsult i Falun AB**
 
     123 698 89 35
+
+
 
 
 **Ge Det Vidare**
@@ -14222,9 +19569,13 @@ Nummer: 12773
     123 056 05 40
 
 
+
+
 **Gefle BC**
 
     123 593 49 63
+
+
 
 
 **Gefle Katthem**
@@ -14232,9 +19583,13 @@ Nummer: 12773
     123 085 01 49
 
 
+
+
 **Gefle Segel Sällskap**
 
     123 390 72 84
+
+
 
 
 **Gelinstiftelsen**
@@ -14242,9 +19597,13 @@ Nummer: 12773
     123 900 75 19
 
 
+
+
 **Gemla Folkpark**
 
     123 346 84 77
+
+
 
 
 **Genealogiska Föreningen**
@@ -14252,9 +19611,13 @@ Nummer: 12773
     123 511 42 85
 
 
+
+
 **Genevad-Veinge IF**
 
     123 337 12 18
+
+
 
 
 **George Graham Foundation ideell förening**
@@ -14262,9 +19625,13 @@ Nummer: 12773
     123 075 79 48
 
 
+
+
 **Gerstaberg Gård / Gerstaberg Säteri AB**
 
     123 636 04 08
+
+
 
 
 **Gerstorps Ryttarsällskap, GRS**
@@ -14272,9 +19639,13 @@ Nummer: 12773
     123 326 50 30
 
 
+
+
 **Gessie Villastads Samfällighetsförening**
 
     123 239 60 18
+
+
 
 
 **Gestad Bygdegårdsförening**
@@ -14282,9 +19653,13 @@ Nummer: 12773
     123 667 71 73
 
 
+
+
 **Gesunda Bystugeförening**
 
     123 671 67 73
+
+
 
 
 **Getinge Bowling BK**
@@ -14292,9 +19667,13 @@ Nummer: 12773
     123 570 05 47
 
 
+
+
 **GF Finnveden**
 
     123 303 71 73
+
+
 
 
 **GGG Gemenskap, Glädje och Guldkant**
@@ -14302,9 +19681,13 @@ Nummer: 12773
     123 510 59 78
 
 
+
+
 **Gharsah Sweden**
 
     123 354 06 71
+
+
 
 
 **Gideonsbergskyrkan**
@@ -14322,9 +19705,13 @@ Nummer: 12773
     123 674 22 09 - Barnverksamhet
 
 
+
+
 **Gideå Bygdegårdsförening**
 
     123 530 15 02
+
+
 
 
 **GIF Sundsvall**
@@ -14332,9 +19719,13 @@ Nummer: 12773
     123 162 99 97
 
 
+
+
 **GIF Sundsvalls Supporterklubb**
 
     123 644 60 33
+
+
 
 
 **GIFS Damklubb**
@@ -14342,9 +19733,13 @@ Nummer: 12773
     123 593 50 28 - Gnosjötrampen
 
 
+
+
 **GigWatch / Gigekonomiska Föreningen**
 
     123 583 33 48
+
+
 
 
 **Gillberga-Lista Hembygdsförening**
@@ -14352,9 +19747,13 @@ Nummer: 12773
     123 676 16 47
 
 
+
+
 **Gilleby IF**
 
     123 377 35 53
+
+
 
 
 **Gimdalsprojektets Ekonomiska förening**
@@ -14362,9 +19761,13 @@ Nummer: 12773
     123 474 86 95
 
 
+
+
 **Gimo IF SK**
 
     123 170 32 89
+
+
 
 
 **Gimo Ridklubb**
@@ -14372,9 +19775,13 @@ Nummer: 12773
     123 395 22 72
 
 
+
+
 **Gimo RK**
 
     123 570 31 45 - Tävlingssektionen
+
+
 
 
 **Gimo SKF**
@@ -14382,9 +19789,13 @@ Nummer: 12773
     123 618 10 44
 
 
+
+
 **Gimo SS**
 
     123 550 32 97
+
+
 
 
 **Gimonäs Båtklubb**
@@ -14392,9 +19803,13 @@ Nummer: 12773
     123 677 67 77
 
 
+
+
 **Gimåfors Bygdegårdsförening**
 
     123 188 09 21
+
+
 
 
 **Gingri Bygdegård**
@@ -14402,9 +19817,13 @@ Nummer: 12773
     123 597 99 01
 
 
+
+
 **Giraffernas Vänner**
 
     123 003 83 56
+
+
 
 
 **Gislaved Skridsko Klubb**
@@ -14412,9 +19831,13 @@ Nummer: 12773
     123 671 86 21
 
 
+
+
 **Gislaved-Västbo Brukshundklubb**
 
     123 642 97 73
+
+
 
 
 **Gislaveds Frikyrkoförsamling**
@@ -14422,14 +19845,20 @@ Nummer: 12773
     123 395 79 66
 
 
+
+
 **Gislaveds IS**
 
     123 067 09 35
 
 
+
+
 **Gislaveds JvF**
 
     123 051 67 40
+
+
 
 
 **Gislaveds Pastorat**
@@ -14479,9 +19908,13 @@ Nummer: 12773
     123 626 23 64 - Kollekt Reftele kyrka
 
 
+
+
 **Gislaveds TK**
 
     123 036 99 18
+
+
 
 
 **Gittan Crafoords Insamlingsstiftelse**
@@ -14489,9 +19922,13 @@ Nummer: 12773
     123 528 80 14
 
 
+
+
 **Givande Hand**
 
     123 900 74 93
+
+
 
 
 **Give a Child a Family Sverige**
@@ -14499,9 +19936,13 @@ Nummer: 12773
     123 161 15 57
 
 
+
+
 **Giving People**
 
     123 137 65 24
+
+
 
 
 **Gjuterihistoriska Sällskapet**
@@ -14509,9 +19950,13 @@ Nummer: 12773
     123 235 01 06
 
 
+
+
 **GK9 hundtjänst**
 
     123 582 27 21
+
+
 
 
 **GK Engelholmsgymnasterna**
@@ -14523,9 +19968,13 @@ Nummer: 12773
     123 686 68 34
 
 
+
+
 **Glada svansen i Flen / Anja Skog**
 
     123 327 43 39
+
+
 
 
 **Gladans Båtklubb**
@@ -14533,9 +19982,13 @@ Nummer: 12773
     123 482 94 53
 
 
+
+
 **Glanshammars Gymnastikförening - MIXIT**
 
     123 464 58 83
+
+
 
 
 **Glanshammarsbowlarna**
@@ -14543,9 +19996,13 @@ Nummer: 12773
     123 611 82 44
 
 
+
+
 **Glasets Hus / Ardagh Glass Limmared AB**
 
     123 628 02 26
+
+
 
 
 **Glasrikets Golfklubb**
@@ -14553,14 +20010,20 @@ Nummer: 12773
     123 476 30 90
 
 
+
+
 **Glemminge Byalag**
 
     123 161 26 05
 
 
+
+
 **Glicko.me Glenn Andersson**
 
     123 144 71 68
+
+
 
 
 **Glimma Hockey**
@@ -14570,9 +20033,13 @@ Nummer: 12773
     123 514 07 93
 
 
+
+
 **Glimåkra Folkets Park Förening**
 
     123 640 65 24
+
+
 
 
 **Glitne AB**
@@ -14580,9 +20047,13 @@ Nummer: 12773
     123 215 89 13
 
 
+
+
 **Glommens Bygdegårdsförening**
 
     123 378 17 47
+
+
 
 
 **Glommens Båtklubb**
@@ -14590,9 +20061,13 @@ Nummer: 12773
     123 609 66 06
 
 
+
+
 **Glommens Samhällsförening**
 
     123 398 46 71
+
+
 
 
 **Glommers Bygderåd**
@@ -14600,9 +20075,13 @@ Nummer: 12773
     123 633 62 83
 
 
+
+
 **Glommersträsk Hembygdsförening**
 
     123 671 50 23
+
+
 
 
 **Gluggens IF**
@@ -14610,9 +20089,13 @@ Nummer: 12773
     123 187 18 70
 
 
+
+
 **Glumslövs Byalag**
 
     123 022 43 03
+
+
 
 
 **Glumslövs GIF**
@@ -14620,9 +20103,13 @@ Nummer: 12773
     123 464 45 48
 
 
+
+
 **Glädjeknuff**
 
     123 568 09 88
+
+
 
 
 **Glömminge-Algutsrum Församling**
@@ -14630,9 +20117,13 @@ Nummer: 12773
     123 020 14 18
 
 
+
+
 **Glöte Byalag**
 
     123 158 36 16
+
+
 
 
 **Gmf-Förening I Samverkan**
@@ -14640,9 +20131,13 @@ Nummer: 12773
     123 566 24 08
 
 
+
+
 **GMF i Blekinge**
 
     123 392 71 75
+
+
 
 
 **Gnarps ridklubb**
@@ -14650,9 +20145,13 @@ Nummer: 12773
     123 677 95 65
 
 
+
+
 **Gnesta IK**
 
     123 465 81 75
+
+
 
 
 **Gnesta Motorklubb**
@@ -14660,9 +20159,13 @@ Nummer: 12773
     123 174 99 28
 
 
+
+
 **Gnesta Scoutkår**
 
     123 062 84 20
+
+
 
 
 **Gnesta Skyttegille**
@@ -14670,9 +20173,13 @@ Nummer: 12773
     123 428 40 97
 
 
+
+
 **Gnesta-Trosa Brukshundklubb**
 
     123 525 23 82
+
+
 
 
 **Gnosjo Global Association**
@@ -14680,9 +20187,13 @@ Nummer: 12773
     123 349 86 64
 
 
+
+
 **Gnosjö IBK**
 
     123 311 74 88
+
+
 
 
 **Gnosjö IF**
@@ -14702,6 +20213,8 @@ Nummer: 12773
     123 601 33 61 - P-15
 
 
+
+
 **Gnosjö Missionsförsamling**
 
     123 198 38 73
@@ -14709,9 +20222,13 @@ Nummer: 12773
     123 422 88 05
 
 
+
+
 **Gnosjö Strand AB**
 
     123 367 25 81
+
+
 
 
 **Go-kart Örebro Motorstadion / Go-Race Hs AB**
@@ -14719,9 +20236,13 @@ Nummer: 12773
     123 205 01 28
 
 
+
+
 **God Moves Dansskola**
 
     123 511 26 28
+
+
 
 
 **God Ton™ Podcast**
@@ -14729,9 +20250,13 @@ Nummer: 12773
     123 128 15 18
 
 
+
+
 **Goda Nyheter - för livet**
 
     123 900 90 85
+
+
 
 
 **Goda Resan AB**
@@ -14739,9 +20264,13 @@ Nummer: 12773
     123 386 09 54
 
 
+
+
 **Godegårds Skidklubb**
 
     123 422 85 99
+
+
 
 
 **GoF IF**
@@ -14749,9 +20278,13 @@ Nummer: 12773
     123 667 48 24
 
 
+
+
 **GojuKai KarateDo Stockholm**
 
     123 490 53 29
+
+
 
 
 **Golden klubben Skaraborg-Älvsborg**
@@ -14759,9 +20292,13 @@ Nummer: 12773
     123 281 15 03
 
 
+
+
 **Golden Retrieverklubben Dalarna**
 
     123 187 97 17
+
+
 
 
 **Golden Retrieverklubben Skåne/Blekinge**
@@ -14769,9 +20306,13 @@ Nummer: 12773
     123 346 90 04
 
 
+
+
 **Golden Retriverklubben Sektion Halland**
 
     123 457 95 87
+
+
 
 
 **Golf & Blandat i Sverige AB**
@@ -14779,9 +20320,13 @@ Nummer: 12773
     123 029 84 71
 
 
+
+
 **Golf Store Group**
 
     123 001 72 51
+
+
 
 
 **Golf Uppsala AB**
@@ -14795,9 +20340,13 @@ Nummer: 12773
     123 668 61 33 - Söderby Golf - Kiosk, Restaurant
 
 
+
+
 **Golftorget**
 
     123 423 84 16
+
+
 
 
 **Golftorget AB**
@@ -14805,9 +20354,13 @@ Nummer: 12773
     123 136 47 28
 
 
+
+
 **Gongiversum Sadhana Yoga & meditationsskola i Motala / Ildiko Kasza**
 
     123 222 35 35
+
+
 
 
 **Good Green / Sport Lodge i Höganäs AB**
@@ -14815,9 +20368,13 @@ Nummer: 12773
     123 124 37 40
 
 
+
+
 **Gothems Sockenförening**
 
     123 075 25 92
+
+
 
 
 **Gotland Enduro Cross MS, GEC**
@@ -14825,9 +20382,13 @@ Nummer: 12773
     123 126 70 12
 
 
+
+
 **Gotlands Bro SK**
 
     123 479 81 46
+
+
 
 
 **Gotlands Brukshästförening - JUF**
@@ -14835,9 +20396,13 @@ Nummer: 12773
     123 511 10 34
 
 
+
+
 **Gotlands Fiskerimuseum Kovik**
 
     123 345 30 32
+
+
 
 
 **Gotlands Igelkottsfond**
@@ -14845,9 +20410,13 @@ Nummer: 12773
     123 036 80 50
 
 
+
+
 **Gotlands Kennelklubb, GKK**
 
     123 172 01 76
+
+
 
 
 **Gotlands Motorförenings Bilklubb**
@@ -14857,9 +20426,13 @@ Nummer: 12773
     123 642 81 89
 
 
+
+
 **Gotlands Russtrav Klubb**
 
     123 356 92 41
+
+
 
 
 **Gotlands Stövarklubb, GSK**
@@ -14867,9 +20440,13 @@ Nummer: 12773
     123 277 78 45
 
 
+
+
 **Gottnebygdens Samhällsförening - Gottne Byskola**
 
     123 008 12 57
+
+
 
 
 **Gottskärs Kallbadhus**
@@ -14877,9 +20454,13 @@ Nummer: 12773
     123 642 06 65
 
 
+
+
 **Gottsunda Församling**
 
     123 081 07 54 - Kollekt Sunnersta kyrka
+
+
 
 
 **Gourmet / Investmentbolaget LGAB Sverige AB**
@@ -14887,9 +20468,13 @@ Nummer: 12773
     123 290 98 28 - Prenumeration
 
 
+
+
 **Grafik i Väst**
 
     123 259 21 60
+
+
 
 
 **Grafikgruppen Visby**
@@ -14897,9 +20482,13 @@ Nummer: 12773
     123 214 57 20
 
 
+
+
 **Granbergsdals IF**
 
     123 511 49 47
+
+
 
 
 **Granheds Bygdegårdsförening**
@@ -14907,9 +20496,13 @@ Nummer: 12773
     123 049 82 79
 
 
+
+
 **Granparkens Gård och Kafé / Dorotea Marek**
 
     123 333 45 21
+
+
 
 
 **Granöbygdens Golfklubb**
@@ -14917,9 +20510,13 @@ Nummer: 12773
     123 658 37 69
 
 
+
+
 **Gratis Koran / Islamic Info Sweden**
 
     123 130 07 14
+
+
 
 
 **Gratistidningarnas Förening**
@@ -14927,9 +20524,13 @@ Nummer: 12773
     123 299 31 37
 
 
+
+
 **Grava Församling**
 
     123 219 43 97
+
+
 
 
 **Grava Jaktskytteklubb**
@@ -14937,9 +20538,13 @@ Nummer: 12773
     123 372 27 17
 
 
+
+
 **Gravidbolaget i Stockholm / Sara Gylleus**
 
     123 442 16 32
+
+
 
 
 **Gredelbykyrkan**
@@ -14947,9 +20552,13 @@ Nummer: 12773
     123 554 53 30 - Gåva
 
 
+
+
 **Green Devils, Björklövens Supporterklubb**
 
     123 049 88 24
+
+
 
 
 **Green Forum**
@@ -14957,9 +20566,13 @@ Nummer: 12773
     123 263 71 30
 
 
+
+
 **Green Machine**
 
     123 160 55 59
+
+
 
 
 **Greksåsars Byalag**
@@ -14967,9 +20580,13 @@ Nummer: 12773
     123 511 58 29
 
 
+
+
 **Gremo Maskinservice AB**
 
     123 313 95 81
+
+
 
 
 **Greta Garbo-museet i Högsby / Garbosällskapet i Högsby**
@@ -14977,9 +20594,13 @@ Nummer: 12773
     123 551 48 23
 
 
+
+
 **Gribbylunds Fastighetsägareförening**
 
     123 042 56 03
+
+
 
 
 **Grimskaftet Samfällighetsförening**
@@ -14987,9 +20608,13 @@ Nummer: 12773
     123 081 85 59
 
 
+
+
 **Grimsta Båtsällskap**
 
     123 671 46 61
+
+
 
 
 **Grimsås Bassängförening**
@@ -14997,9 +20622,13 @@ Nummer: 12773
     123 278 49 65 - Medlemsavgift, Badavgift
 
 
+
+
 **Grindtorpskyrkan**
 
     123 354 89 06
+
+
 
 
 **Griparna - Nyköpings Speedway Klubb, NSK**
@@ -15007,9 +20636,13 @@ Nummer: 12773
     123 668 56 48
 
 
+
+
 **Gripenbergs BK**
 
     123 578 88 98
+
+
 
 
 **Gripens Draghundsklubb**
@@ -15017,9 +20650,13 @@ Nummer: 12773
     123 204 80 31
 
 
+
+
 **Grisbacka EFS Missionsförening**
 
     123 081 06 89
+
+
 
 
 **Groblad Garden**
@@ -15027,9 +20664,13 @@ Nummer: 12773
     123 146 04 35
 
 
+
+
 **Grobruket AB**
 
     123 134 65 43
+
+
 
 
 **Grolanda IF**
@@ -15037,9 +20678,13 @@ Nummer: 12773
     123 271 09 29
 
 
+
+
 **Grosshamns Fältstation**
 
     123 079 55 67
+
+
 
 
 **Grothica / Janet Björklund**
@@ -15047,9 +20692,13 @@ Nummer: 12773
     123 196 03 68
 
 
+
+
 **Grottans blommor**
 
     123 533 28 46
+
+
 
 
 **Grottbyn AB**
@@ -15057,9 +20706,13 @@ Nummer: 12773
     123 404 01 43
 
 
+
+
 **Grums Brukshundklubb**
 
     123 281 83 83
+
+
 
 
 **Grums Båtsällskap**
@@ -15067,9 +20720,13 @@ Nummer: 12773
     123 419 99 56
 
 
+
+
 **Grums IBK**
 
     123 691 64 49
+
+
 
 
 **Grums IK FK**
@@ -15077,9 +20734,13 @@ Nummer: 12773
     123 174 74 76
 
 
+
+
 **Grums IK Hockey**
 
     123 553 20 64
+
+
 
 
 **Grums Simsällskap**
@@ -15087,14 +20748,20 @@ Nummer: 12773
     123 312 55 64
 
 
+
+
 **Grunden Bois - Prioritet Serneke Arena**
 
     123 288 11 34
 
 
+
+
 **Grundfors Byaförening**
 
     123 413 34 84
+
+
 
 
 **Grundsunda Församling**
@@ -15104,9 +20771,13 @@ Nummer: 12773
     123 579 08 45 - minnesgåvor/insamlingar
 
 
+
+
 **Grundsunda Hembygdsförening**
 
     123 056 48 72
+
+
 
 
 **Grundsunds Båtklubb**
@@ -15114,9 +20785,13 @@ Nummer: 12773
     123 411 34 03
 
 
+
+
 **Grycksbo IF OK**
 
     123 382 87 79
+
+
 
 
 **Grynkorvens Vänner**
@@ -15124,9 +20799,13 @@ Nummer: 12773
     123 396 75 51
 
 
+
+
 **Gryphons**
 
     123 420 81 61
+
+
 
 
 **Grytnäs GF**
@@ -15134,9 +20813,13 @@ Nummer: 12773
     123 178 16 08
 
 
+
+
 **Gryts Bygdegårdsförening**
 
     123 041 19 83
+
+
 
 
 **Gryts Hembygdsförening**
@@ -15144,9 +20827,13 @@ Nummer: 12773
     123 392 16 72
 
 
+
+
 **Gryts IF**
 
     123 481 76 15
+
+
 
 
 **Gryts Segelsällskap**
@@ -15154,9 +20841,13 @@ Nummer: 12773
     123 625 01 79
 
 
+
+
 **Gryts Sockenförening**
 
     123 218 99 34
+
+
 
 
 **Gränge-Säfsnäs Församling**
@@ -15170,9 +20861,13 @@ Nummer: 12773
     123 593 06 31 - Gåva till Diakoniarbete
 
 
+
+
 **Grängesbergs BK**
 
     123 471 26 00
+
+
 
 
 **Grängsbo Bygdegårdsförening**
@@ -15180,9 +20875,13 @@ Nummer: 12773
     123 127 17 33
 
 
+
+
 **Gränna Adventkyrka**
 
     123 237 58 14
+
+
 
 
 **Gränna AIS**
@@ -15194,6 +20893,8 @@ Nummer: 12773
     123 595 97 21
 
 
+
+
 **Gränna-Bygdens OK**
 
     123 126 92 40
@@ -15201,9 +20902,13 @@ Nummer: 12773
     123 179 03 85
 
 
+
+
 **Gränna Båtklubb**
 
     123 695 67 75
+
+
 
 
 **Gränna Pingst**
@@ -15211,9 +20916,13 @@ Nummer: 12773
     123 131 27 76
 
 
+
+
 **Gränna Scoutkår**
 
     123 675 19 78
+
+
 
 
 **Gränna Visingsö Pastorat**
@@ -15221,9 +20930,13 @@ Nummer: 12773
     123 562 60 80
 
 
+
+
 **Grännabygdens Ryttarförening**
 
     123 148 30 23
+
+
 
 
 **Gräppås GK**
@@ -15231,9 +20944,13 @@ Nummer: 12773
     123 576 44 10
 
 
+
+
 **Gräs Bygdegårdsförening**
 
     123 073 61 24
+
+
 
 
 **Gräsmyr Idrottsklubb**
@@ -15241,9 +20958,13 @@ Nummer: 12773
     123 468 92 53
 
 
+
+
 **Gräsmyr Loge / Gräsmyr Bygdegårdsförening**
 
     123 105 81 63
+
+
 
 
 **Grästorps Kampsportsförening**
@@ -15251,9 +20972,13 @@ Nummer: 12773
     123 413 81 11
 
 
+
+
 **Grästorps Kommun**
 
     123 213 68 77 - Bibliotek, förseningsavgift
+
+
 
 
 **Gråbergets ÄJO**
@@ -15261,9 +20986,13 @@ Nummer: 12773
     123 349 15 37
 
 
+
+
 **Gråbo Ridklubb**
 
     123 312 49 55
+
+
 
 
 **Gråbröderna Jönköping**
@@ -15271,9 +21000,13 @@ Nummer: 12773
     123 291 73 26
 
 
+
+
 **Gråmanstorps Bygdegård**
 
     123 531 85 71
+
+
 
 
 **Grödinge SK**
@@ -15281,9 +21014,13 @@ Nummer: 12773
     123 304 03 18
 
 
+
+
 **Grödinge Skytteklubb**
 
     123 222 72 70
+
+
 
 
 **Gröna Brigaden**
@@ -15291,9 +21028,13 @@ Nummer: 12773
     123 011 48 35
 
 
+
+
 **Gröna Ladans Vänner**
 
     123 112 23 24
+
+
 
 
 **Grönahögs IK**
@@ -15301,9 +21042,13 @@ Nummer: 12773
     123 427 57 23
 
 
+
+
 **Grönbo Bygdegårdsförening**
 
     123 641 73 98
+
+
 
 
 **Grönby Akademi**
@@ -15311,9 +21056,13 @@ Nummer: 12773
     123 127 03 39
 
 
+
+
 **Grönby Byalag**
 
     123 517 59 06
+
+
 
 
 **Grönemads Samhällsförening**
@@ -15321,9 +21070,13 @@ Nummer: 12773
     123 615 71 43
 
 
+
+
 **Grönhögens IF**
 
     123 442 15 41
+
+
 
 
 **Grönslätts Intresseförening**
@@ -15331,9 +21084,13 @@ Nummer: 12773
     123 587 65 29
 
 
+
+
 **Grötö Hamnförening**
 
     123 121 33 05
+
+
 
 
 **Gubbmyrens Samfällighetsförening**
@@ -15341,9 +21098,13 @@ Nummer: 12773
     123 629 72 53
 
 
+
+
 **Gudhems Klostermuseiförening**
 
     123 453 18 69
+
+
 
 
 **Gudmundrås Församling**
@@ -15353,9 +21114,13 @@ Nummer: 12773
     123 548 46 05 - Diakoni
 
 
+
+
 **Guds Hus Vänförening**
 
     123 023 59 03
+
+
 
 
 **Guidance vägledning för kropp och själ Örnsköldsvik / Tina Olofsson**
@@ -15363,9 +21128,13 @@ Nummer: 12773
     123 259 44 48
 
 
+
+
 **Gula Båten / Millkeeper AB**
 
     123 078 63 27
+
+
 
 
 **Gula Änglarna**
@@ -15373,9 +21142,13 @@ Nummer: 12773
     123 149 39 80
 
 
+
+
 **Guldkant i Söderköping**
 
     123 626 52 35
+
+
 
 
 **Guldsmedsbackens Bygdegårdsförening**
@@ -15383,9 +21156,13 @@ Nummer: 12773
     123 207 44 41
 
 
+
+
 **Guldsmedshyttan-Stråssa Bollklubb, GSBK**
 
     123 161 07 24
+
+
 
 
 **Guldstadens kvinnojour & Guldstadens tjejjour**
@@ -15393,9 +21170,13 @@ Nummer: 12773
     123 350 01 88
 
 
+
+
 **Guldtassens Trim & Hund Spa / Anette Hissing**
 
     123 662 38 39
+
+
 
 
 **Guliganerna**
@@ -15403,9 +21184,13 @@ Nummer: 12773
     123 029 48 27
 
 
+
+
 **Gullabo SF**
 
     123 196 23 15
+
+
 
 
 **Gullaboås IF**
@@ -15413,9 +21198,13 @@ Nummer: 12773
     123 350 24 08
 
 
+
+
 **Gullbrandstorps AIS**
 
     123 510 28 43 - Herrar
+
+
 
 
 **Gullbrannakyrkan**
@@ -15423,9 +21212,13 @@ Nummer: 12773
     123 018 60 15
 
 
+
+
 **Gullbringa Golf & Country Club**
 
     123 355 38 98
+
+
 
 
 **Gullmarsplans Trafikskola**
@@ -15433,9 +21226,13 @@ Nummer: 12773
     123 631 15 18
 
 
+
+
 **Gullringens GoIF**
 
     123 512 77 41
+
+
 
 
 **Gullspångs IF**
@@ -15443,9 +21240,13 @@ Nummer: 12773
     123 448 77 99
 
 
+
+
 **Gullspångs Skytteförening**
 
     123 443 33 89
+
+
 
 
 **Gullängets Församling**
@@ -15453,9 +21254,13 @@ Nummer: 12773
     123 153 89 33
 
 
+
+
 **Gunnarsbyn SK**
 
     123 286 11 10
+
+
 
 
 **Gunnarsbyns byaförening**
@@ -15463,9 +21268,13 @@ Nummer: 12773
     123 374 40 18
 
 
+
+
 **Gunnarskogs Bygdelag**
 
     123 400 93 20
+
+
 
 
 **Gunnebo och Västerviks SFK**
@@ -15473,9 +21282,13 @@ Nummer: 12773
     123 503 63 14
 
 
+
+
 **Gunnebo Slott & Trädgårdar AB**
 
     123 007 46 58
+
+
 
 
 **Gustaf Fröding-Sällskapet**
@@ -15483,9 +21296,13 @@ Nummer: 12773
     123 584 14 99
 
 
+
+
 **Gustafs GoIF**
 
     123 268 36 47 - F06,07,08
+
+
 
 
 **Gustafs Missionsförsamling**
@@ -15493,9 +21310,13 @@ Nummer: 12773
     123 491 92 39
 
 
+
+
 **Gustavsberg-Ingarö Församling**
 
     123 513 45 23
+
+
 
 
 **Gustavsbergs IF Handboll**
@@ -15503,9 +21324,13 @@ Nummer: 12773
     123 440 76 56
 
 
+
+
 **Gustavsbergs RS - Ridsport**
 
     123 613 51 72
+
+
 
 
 **Gustavsbergs Simsällskap, GSS**
@@ -15513,9 +21338,13 @@ Nummer: 12773
     123 272 35 34
 
 
+
+
 **Gustavsbergs Vänner**
 
     123 634 66 88
+
+
 
 
 **Gusums Hembygdsförening**
@@ -15523,9 +21352,13 @@ Nummer: 12773
     123 092 70 20
 
 
+
+
 **Guövikens Båtklubb**
 
     123 658 12 50
+
+
 
 
 **Gymmet i Vissefjärda / Vissefjärda Samhällsförening**
@@ -15533,9 +21366,13 @@ Nummer: 12773
     123 580 90 66
 
 
+
+
 **Gymmix Falun GF - Gymnastik**
 
     123 336 67 88
+
+
 
 
 **Gymmix Ljung och Ljungs Gymnastikförening**
@@ -15543,9 +21380,13 @@ Nummer: 12773
     123 055 39 82
 
 
+
+
 **Gymmix Ulricehamn**
 
     123 280 18 01
+
+
 
 
 **Gymnastikföreningen Astra**
@@ -15553,9 +21394,13 @@ Nummer: 12773
     123 526 24 49
 
 
+
+
 **Gymnastikföreningen Svea af 1872**
 
     123 111 59 22
+
+
 
 
 **Gymnastikföreningen Örebro**
@@ -15563,9 +21408,13 @@ Nummer: 12773
     123 540 22 84
 
 
+
+
 **Gymnastikklubben Hermes**
 
     123 528 87 25
+
+
 
 
 **GynCancerförbundet**
@@ -15573,9 +21422,13 @@ Nummer: 12773
     123 075 23 29
 
 
+
+
 **GynCancerförbundet Gävleborg**
 
     123 036 93 06
+
+
 
 
 **Gyncancerföreningen Västmanland**
@@ -15583,9 +21436,13 @@ Nummer: 12773
     123 633 54 26
 
 
+
+
 **Gällared Bygdegård**
 
     123 372 86 98
+
+
 
 
 **Gällivare SK**
@@ -15595,9 +21452,13 @@ Nummer: 12773
     123 098 55 49
 
 
+
+
 **Gällivare Skytteförening**
 
     123 617 43 12
+
+
 
 
 **Gällsta IK**
@@ -15605,9 +21466,13 @@ Nummer: 12773
     123 132 63 88
 
 
+
+
 **Gällstadbygdens Skid- & Orienteringsklubb**
 
     123 526 21 91
+
+
 
 
 **Gällstads Hembygdsförening**
@@ -15615,9 +21480,13 @@ Nummer: 12773
     123 240 36 57
 
 
+
+
 **Gärdhems Hembygdsförening**
 
     123 609 04 84
+
+
 
 
 **Gärds Köpinge IF**
@@ -15625,9 +21494,13 @@ Nummer: 12773
     123 575 03 10
 
 
+
+
 **Gärdslösa Hembygdsförening**
 
     123 595 57 60
+
+
 
 
 **Gärsnäs AIS**
@@ -15635,14 +21508,20 @@ Nummer: 12773
     123 483 29 37
 
 
+
+
 **Gäsene Hembygds- och Fornminnesförening**
 
     123 696 17 91
 
 
+
+
 **Gästrike Katthem**
 
     123 137 45 78
+
+
 
 
 **Gästriklands Kennelklubb, GÄKK**
@@ -15656,9 +21535,13 @@ Nummer: 12773
     123 695 43 17 - Juniorhandling
 
 
+
+
 **Gävle Folkmusikförening**
 
     123 064 23 89
+
+
 
 
 **Gävle Församling**
@@ -15686,6 +21569,8 @@ Nummer: 12773
     123 659 05 66 - Bomhus kyrka kollekt
 
 
+
+
 **Gävle GIK**
 
     123 165 89 21
@@ -15693,9 +21578,13 @@ Nummer: 12773
     123 393 77 11 - Team 14
 
 
+
+
 **Gävle GIK**
 
     123 512 75 84
+
+
 
 
 **Gävle Handboll**
@@ -15703,9 +21592,13 @@ Nummer: 12773
     123 310 28 37
 
 
+
+
 **Gävle JazzClub**
 
     123 258 00 41
+
+
 
 
 **Gävle Ju-Jutsu**
@@ -15713,9 +21606,13 @@ Nummer: 12773
     123 617 88 26
 
 
+
+
 **Gävle kammarmusikförening**
 
     123 221 44 92
+
+
 
 
 **Gävle Pingstförsamling**
@@ -15723,9 +21620,13 @@ Nummer: 12773
     123 471 13 05
 
 
+
+
 **Gävle Ryttarsällskap**
 
     123 123 75 51
+
+
 
 
 **Gävle Sandviken Trafikskola AB**
@@ -15733,9 +21634,13 @@ Nummer: 12773
     123 205 04 90
 
 
+
+
 **Gävle Shotokan Karateklubb**
 
     123 602 13 80
+
+
 
 
 **Gävle Skateboardförening**
@@ -15743,9 +21648,13 @@ Nummer: 12773
     123 513 42 18
 
 
+
+
 **Gävle SS - Simidrott**
 
     123 628 83 28
+
+
 
 
 **Gävle Travsällskap**
@@ -15753,9 +21662,13 @@ Nummer: 12773
     123 219 30 84
 
 
+
+
 **Gävle Yogaskola AB**
 
     123 156 91 77
+
+
 
 
 **Gävleborgs Dreverklubb**
@@ -15763,9 +21676,13 @@ Nummer: 12773
     123 218 09 09
 
 
+
+
 **Gävleborgs Läns Stövarklubb**
 
     123 693 57 61
+
+
 
 
 **Gävleborgs Taxklubb**
@@ -15773,9 +21690,13 @@ Nummer: 12773
     123 434 93 61
 
 
+
+
 **Gävunda Sportklubb**
 
     123 578 95 16
+
+
 
 
 **Gå Ut Mission**
@@ -15783,9 +21704,13 @@ Nummer: 12773
     123 412 30 89
 
 
+
+
 **Gåke Gunnarssons Fanclub / Berndt-Åke Gunnarsson**
 
     123 109 74 50
+
+
 
 
 **Gånghester SK**
@@ -15793,9 +21718,13 @@ Nummer: 12773
     123 091 52 80
 
 
+
+
 **Gårda Budoklubb - Wadoryu Karate**
 
     123 669 97 06
+
+
 
 
 **Gårdakvarnen**
@@ -15803,9 +21732,13 @@ Nummer: 12773
     123 281 11 98
 
 
+
+
 **Gårdby Buss**
 
     123 682 35 53
+
+
 
 
 **Gåsinge-Dillnäs Hembygdsförening**
@@ -15813,9 +21746,13 @@ Nummer: 12773
     123 177 23 34
 
 
+
+
 **Gåsö Gille**
 
     123 093 59 57
+
+
 
 
 **Gåsö Samfällighetförening**
@@ -15823,9 +21760,13 @@ Nummer: 12773
     123 690 86 44
 
 
+
+
 **Gåvan Sverige**
 
     123 399 08 01
+
+
 
 
 **Gåxsjö Bygdegårdsförening**
@@ -15833,9 +21774,13 @@ Nummer: 12773
     123 303 82 39
 
 
+
+
 **Gåxsjö församling / Strömsunds Pastorat**
 
     123 258 72 44
+
+
 
 
 **Gödestads Hembygdsförening**
@@ -15843,9 +21788,13 @@ Nummer: 12773
     123 419 42 13
 
 
+
+
 **Göinge-Broby Brukshundsklubb**
 
     123 577 09 46
+
+
 
 
 **Göingebygdens Biologiska Förening**
@@ -15853,14 +21802,20 @@ Nummer: 12773
     123 628 41 52
 
 
+
+
 **Gökstens BK**
 
     123 615 95 45 - F-12/13
 
 
+
+
 **Gör Nått Då!**
 
     123 140 64 04
+
+
 
 
 **Göta Bollklubb**
@@ -15870,9 +21825,13 @@ Nummer: 12773
     123 512 86 16
 
 
+
+
 **Göta Motorsällskap**
 
     123 017 31 61
+
+
 
 
 **Göta Traneberg**
@@ -15880,9 +21839,13 @@ Nummer: 12773
     123 161 60 51
 
 
+
+
 **Götaholm BK**
 
     123 006 80 64
+
+
 
 
 **Göteborgs Akademiska Ryttarsällskap, GARS**
@@ -15890,9 +21853,13 @@ Nummer: 12773
     123 263 62 98
 
 
+
+
 **Göteborgs Barnmorskesällskap**
 
     123 537 29 25
+
+
 
 
 **Göteborgs Bluesförening**
@@ -15900,9 +21867,13 @@ Nummer: 12773
     123 686 31 12
 
 
+
+
 **Göteborgs Dövas Förening**
 
     123 682 46 19
+
+
 
 
 **Göteborgs Fäktklubb**
@@ -15910,9 +21881,13 @@ Nummer: 12773
     123 366 49 27
 
 
+
+
 **Göteborgs Hundkapplöpningsklubb**
 
     123 024 27 92
+
+
 
 
 **Göteborgs Ju-Jutsuklubb**
@@ -15920,9 +21895,13 @@ Nummer: 12773
     123 538 42 27
 
 
+
+
 **Göteborgs Kungliga Segel Sällskap, GKSS**
 
     123 337 29 92
+
+
 
 
 **Göteborgs Magiska Klubb**
@@ -15930,11 +21909,15 @@ Nummer: 12773
     123 435 49 65
 
 
+
+
 **Göteborgs Ornitologiska Förening, GOF**
 
     123 268 23 26
 
     123 335 08 16
+
+
 
 
 **Göteborgs Skidklubb**
@@ -15946,9 +21929,13 @@ Nummer: 12773
     123 545 54 31 - Orienteringssektionen
 
 
+
+
 **Göteborgs Skidklubb, Längd**
 
     123 238 53 00 - Längdsektionen
+
+
 
 
 **Göteborgs SSF - Skyttesport**
@@ -15956,9 +21943,13 @@ Nummer: 12773
     123 412 52 90
 
 
+
+
 **Göteborgs Stigcyklister**
 
     123 174 59 18
+
+
 
 
 **Göteborgs Symfonikers Vänner**
@@ -15966,9 +21957,13 @@ Nummer: 12773
     123 683 72 49
 
 
+
+
 **Göteborgs Ungdomskör**
 
     123 041 72 95
+
+
 
 
 **Göteborgs Vasa Församling**
@@ -15976,9 +21971,13 @@ Nummer: 12773
     123 614 76 64
 
 
+
+
 **Göteborgspolisens Pensionärsförening**
 
     123 088 17 06
+
+
 
 
 **Göteborgsregionens Nämndemannaförening**
@@ -15986,9 +21985,13 @@ Nummer: 12773
     123 440 36 48
 
 
+
+
 **Götene Brukshundklubb**
 
     123 671 36 30
+
+
 
 
 **Götene Dykarklubb**
@@ -15996,9 +21999,13 @@ Nummer: 12773
     123 419 41 97
 
 
+
+
 **Götene FK**
 
     123 128 03 79
+
+
 
 
 **Götene Fornminnes- och Hembygdsförening**
@@ -16006,9 +22013,13 @@ Nummer: 12773
     123 189 88 32
 
 
+
+
 **Götene Ridskola AB**
 
     123 243 09 32
+
+
 
 
 **Götene Ryttarklubb**
@@ -16022,14 +22033,20 @@ Nummer: 12773
     123 461 12 99 - Cafeteria
 
 
+
+
 **Götene Skyttegille**
 
     123 401 88 83
 
 
+
+
 **Götlunda-Vads Bygdegårdsförening**
 
     123 311 19 11
+
+
 
 
 
@@ -16041,9 +22058,13 @@ Nummer: 12773
     123 278 93 52
 
 
+
+
 **H I Juristbyrå AB**
 
     123 312 53 09
+
+
 
 
 **HA74**
@@ -16053,9 +22074,13 @@ Nummer: 12773
     123 676 37 75
 
 
+
+
 **Habo Gymnastikförening**
 
     123 389 91 50
+
+
 
 
 **Habo IF**
@@ -16063,9 +22088,13 @@ Nummer: 12773
     123 576 30 99
 
 
+
+
 **Habo Missionsförsamling**
 
     123 453 55 30
+
+
 
 
 **Habo PK**
@@ -16073,9 +22102,13 @@ Nummer: 12773
     123 099 31 05
 
 
+
+
 **Habo Wolley**
 
     123 414 96 13
+
+
 
 
 **Hadj Omra Resor**
@@ -16083,9 +22116,13 @@ Nummer: 12773
     123 193 53 52
 
 
+
+
 **Haga-Brunnsvikens Vänner**
 
     123 221 35 10
+
+
 
 
 **Haga FF**
@@ -16093,9 +22130,13 @@ Nummer: 12773
     123 211 58 06
 
 
+
+
 **Haga Taekwondo**
 
     123 560 61 16
+
+
 
 
 **Hagabergs Kapell / EFS Missionsförening Södertälje**
@@ -16103,9 +22144,13 @@ Nummer: 12773
     123 081 07 62
 
 
+
+
 **Hagakyrkan Habo**
 
     123 174 51 16
+
+
 
 
 **Hagakyrkan Sundsvall / Haga Baptistförsamling**
@@ -16113,14 +22158,20 @@ Nummer: 12773
     123 173 40 37
 
 
+
+
 **Hagaströms SK**
 
     123 452 84 69
 
 
+
+
 **Hagby IK**
 
     123 161 18 62
+
+
 
 
 **Hagfors Uddeholms RK- Ridsport**
@@ -16132,9 +22183,13 @@ Nummer: 12773
     123 421 49 46
 
 
+
+
 **Hagge Byalag**
 
     123 441 82 16
+
+
 
 
 **Hagunda IF**
@@ -16148,9 +22203,13 @@ Nummer: 12773
     123 585 79 90 - Vängeloppet
 
 
+
+
 **Hair of Sweden**
 
     123 224 74 50
+
+
 
 
 **HairAgain Nordic AB**
@@ -16158,9 +22217,13 @@ Nummer: 12773
     123 205 53 09
 
 
+
+
 **Hallands Fotbollförbund**
 
     123 553 70 22
+
+
 
 
 **Hallands Naturskyddsförening**
@@ -16168,9 +22231,13 @@ Nummer: 12773
     123 325 70 11
 
 
+
+
 **Hallands Släktforskarförening**
 
     123 655 27 80
+
+
 
 
 **Hallaröds Hembygdsförening**
@@ -16178,9 +22245,13 @@ Nummer: 12773
     123 411 63 80
 
 
+
+
 **Hallberg-Rassy Varvs AB**
 
     123 346 92 93
+
+
 
 
 **Hallens Hembygdsförening**
@@ -16188,9 +22259,13 @@ Nummer: 12773
     123 495 67 44
 
 
+
+
 **Hallmansgårdens Förlag HB - CTVC**
 
     123 690 17 97
+
+
 
 
 **Halloween 2.0**
@@ -16198,9 +22273,13 @@ Nummer: 12773
     123 176 50 15
 
 
+
+
 **Hallsberg Kumla Simklubb**
 
     123 693 05 80
+
+
 
 
 **Hallsberg PK**
@@ -16208,9 +22287,13 @@ Nummer: 12773
     123 036 92 80
 
 
+
+
 **Hallsbergs Brukshundsklubb**
 
     123 326 22 76
+
+
 
 
 **Hallsbergs Ridklubb**
@@ -16218,9 +22301,13 @@ Nummer: 12773
     123 363 58 02
 
 
+
+
 **Hallsbergs SkF - Skyttesport**
 
     123 601 12 58
+
+
 
 
 **Hallstahammars Orienteringsklubb**
@@ -16228,9 +22315,13 @@ Nummer: 12773
     123 517 44 95
 
 
+
+
 **Hallstahammars SK Fotbollsklubb**
 
     123 048 36 51
+
+
 
 
 **Hallstahammars Tennisklubb**
@@ -16238,9 +22329,13 @@ Nummer: 12773
     123 331 15 60
 
 
+
+
 **HallåHund**
 
     123 495 39 15
+
+
 
 
 **Halmstad Discgolfklubb**
@@ -16248,9 +22343,13 @@ Nummer: 12773
     123 511 69 42
 
 
+
+
 **Halmstad Hammers**
 
     123 006 87 59
+
+
 
 
 **Halmstad Hammers HC**
@@ -16258,9 +22357,13 @@ Nummer: 12773
     123 175 70 53
 
 
+
+
 **Halmstad Handboll**
 
     123 211 09 89
+
+
 
 
 **Halmstad Karate-do Kai**
@@ -16268,9 +22371,13 @@ Nummer: 12773
     123 257 66 01
 
 
+
+
 **Halmstad MTB**
 
     123 166 23 94
+
+
 
 
 **Halmstad Triathlon & Multisport**
@@ -16278,9 +22385,13 @@ Nummer: 12773
     123 049 85 01
 
 
+
+
 **Halmstad University Solar Team**
 
     123 218 93 22
+
+
 
 
 **Halmstad Wakeboardklubb**
@@ -16288,9 +22399,13 @@ Nummer: 12773
     123 099 40 53
 
 
+
+
 **Halmstad Wakepark**
 
     123 064 22 72
+
+
 
 
 **Halmstads Roddklubb**
@@ -16298,9 +22413,13 @@ Nummer: 12773
     123 427 12 76
 
 
+
+
 **Halse-Nabbs Hamn- och Fritidsförening**
 
     123 211 24 07
+
+
 
 
 **Halvorstorps IS**
@@ -16308,9 +22427,13 @@ Nummer: 12773
     123 050 31 28
 
 
+
+
 **Hammarby Fotboll**
 
     123 155 64 71
+
+
 
 
 **Hammarby Handboll**
@@ -16324,14 +22447,20 @@ Nummer: 12773
     123 555 97 60 - Försäljning Biljetter & Säsongskort
 
 
+
+
 **Hammarby Idrottsförening**
 
     123 281 62 05
 
 
+
+
 **Hammarby IF Bouleförening**
 
     123 302 51 11
+
+
 
 
 **Hammarby IF Ishockeyförening**
@@ -16351,9 +22480,13 @@ Nummer: 12773
     123 652 00 68 - Lotterier
 
 
+
+
 **Hammarby Tifo**
 
     123 662 54 38
+
+
 
 
 **Hammarbyledens Motorbåtsklubb**
@@ -16365,9 +22498,13 @@ Nummer: 12773
     123 576 98 72 - Hamn/el/Dusch Bastu
 
 
+
+
 **Hammarkinds SK**
 
     123 162 06 57
+
+
 
 
 **Hammarö fågelstation**
@@ -16375,9 +22512,13 @@ Nummer: 12773
     123 647 53 05
 
 
+
+
 **Hammarö Karateklubb**
 
     123 325 57 42
+
+
 
 
 **Hammarö Konstförening**
@@ -16385,9 +22526,13 @@ Nummer: 12773
     123 668 68 02
 
 
+
+
 **Hammarö Ryttarförening**
 
     123 512 88 48
+
+
 
 
 **Hammenhögs IF**
@@ -16395,9 +22540,13 @@ Nummer: 12773
     123 527 30 32
 
 
+
+
 **Hammerdals församling / Strömsunds Pastorat**
 
     123 214 23 21
+
+
 
 
 **Hamneda Gymnastik & Idrottsklubb**
@@ -16405,9 +22554,13 @@ Nummer: 12773
     123 156 69 26
 
 
+
+
 **Hamnkaféet Klintehamn / Smörgås Kungen AB**
 
     123 394 00 87
+
+
 
 
 **Hamnkyrkan Oskarshamn / Oskarshamns Missionsförsamling**
@@ -16415,9 +22568,13 @@ Nummer: 12773
     123 084 72 85
 
 
+
+
 **Hamre Scoutkår**
 
     123 508 76 22
+
+
 
 
 **Hamrånge Hembygdsförening**
@@ -16425,9 +22582,13 @@ Nummer: 12773
     123 232 76 33
 
 
+
+
 **Hand med Hund AB**
 
     123 336 32 72
+
+
 
 
 **Handbollklubben Varberg**
@@ -16435,9 +22596,13 @@ Nummer: 12773
     123 399 88 95
 
 
+
+
 **Handbollsakademin i Sverige**
 
     123 511 71 06
+
+
 
 
 **Handbollsförbundet Väst**
@@ -16445,9 +22610,13 @@ Nummer: 12773
     123 296 90 87
 
 
+
+
 **Handbollsklubben Ankaret**
 
     123 617 10 94
+
+
 
 
 **Handelsbankens Fadderbarnsfond**
@@ -16455,9 +22624,13 @@ Nummer: 12773
     123 503 97 89
 
 
+
+
 **Handens Pistolskytteklubb, HPSK**
 
     123 162 59 53
+
+
 
 
 **Handens Trafikskola**
@@ -16465,9 +22638,13 @@ Nummer: 12773
     123 124 28 25
 
 
+
+
 **Handikappsrörelsens fastighetsförening i Ulricehamn**
 
     123 042 52 07
+
+
 
 
 **Handöls Byalag**
@@ -16475,9 +22652,13 @@ Nummer: 12773
     123 307 49 29
 
 
+
+
 **Hanebo Hembygdsförening**
 
     123 187 15 57
+
+
 
 
 **Hanebo-Segersta Församling**
@@ -16485,9 +22666,13 @@ Nummer: 12773
     123 147 26 87
 
 
+
+
 **Haninge Anchors HC**
 
     123 031 56 22
+
+
 
 
 **Haninge BMK - Badminton**
@@ -16495,9 +22680,13 @@ Nummer: 12773
     123 318 71 92
 
 
+
+
 **Haninge Bostäder AB**
 
     123 644 13 64
+
+
 
 
 **Haninge Handbollsklubb**
@@ -16505,9 +22694,13 @@ Nummer: 12773
     123 224 15 52
 
 
+
+
 **Haninge Hembygdsgille**
 
     123 031 91 29
+
+
 
 
 **Haninge Islamiska KulturCenter / Stiftelsen Haninge Kultur Center**
@@ -16515,9 +22708,13 @@ Nummer: 12773
     123 646 63 20
 
 
+
+
 **Haninge Kvinnojour**
 
     123 522 99 01
+
+
 
 
 **Haninge SOK**
@@ -16525,9 +22722,13 @@ Nummer: 12773
     123 098 62 81
 
 
+
+
 **Hanmoosa Kampsport / KFUM Taekwondo Linköping**
 
     123 132 69 41
+
+
 
 
 **Hannas Hjälpverksamhet**
@@ -16535,9 +22736,13 @@ Nummer: 12773
     123 901 22 20
 
 
+
+
 **Hannäs Hembygdsförening**
 
     123 265 84 25
+
+
 
 
 **Hannäs Sockenförening**
@@ -16545,9 +22750,13 @@ Nummer: 12773
     123 190 39 47
 
 
+
+
 **Hantverk och Design i Hedemora**
 
     123 195 07 81
+
+
 
 
 **Hanviksens SK Ishockey T06**
@@ -16555,9 +22764,13 @@ Nummer: 12773
     123 057 94 58
 
 
+
+
 **Haparanda AIK**
 
     123 379 08 54
+
+
 
 
 **Haparanda FF**
@@ -16565,9 +22778,13 @@ Nummer: 12773
     123 229 91 70
 
 
+
+
 **Haparanda Fridsförbund**
 
     123 614 18 08
+
+
 
 
 **Haparanda Församling**
@@ -16575,9 +22792,13 @@ Nummer: 12773
     123 452 57 39
 
 
+
+
 **Haparanda stad**
 
     123 515 38 04
+
+
 
 
 **HaparandaTornio Ungdomshockey Club, HTUHC**
@@ -16585,9 +22806,13 @@ Nummer: 12773
     123 690 88 67
 
 
+
+
 **Happy Picnic AB**
 
     123 104 79 84
+
+
 
 
 **Harabäckens GK**
@@ -16595,9 +22820,13 @@ Nummer: 12773
     123 346 61 82
 
 
+
+
 **Harabäckens GK / Himledalens Golf AB**
 
     123 657 05 19
+
+
 
 
 **Haraldssons Auktioner AB**
@@ -16605,9 +22834,13 @@ Nummer: 12773
     123 116 90 28
 
 
+
+
 **Hardeberga BK**
 
     123 182 63 87
+
+
 
 
 **Hardemo Hembygdsförenng**
@@ -16615,9 +22848,13 @@ Nummer: 12773
     123 032 55 06
 
 
+
+
 **Harestads Skyttegille**
 
     123 608 47 19
+
+
 
 
 **Hargs BK**
@@ -16627,9 +22864,13 @@ Nummer: 12773
     123 653 72 78
 
 
+
+
 **Harley Owners Group, HOG Aros Viking Uppsala Chapter**
 
     123 567 28 29
+
+
 
 
 **Harley Owners Group, HOG Dala River Chapter**
@@ -16637,9 +22878,13 @@ Nummer: 12773
     123 696 05 95
 
 
+
+
 **Harley Owners Group, HOG Göteborg Chapter**
 
     123 299 95 89
+
+
 
 
 **Harley Owners Group, HOG Helsingborg Chapter**
@@ -16647,9 +22892,13 @@ Nummer: 12773
     123 179 53 43
 
 
+
+
 **Harley Owners Group, HOG Järvsö Chapter**
 
     123 232 96 47
+
+
 
 
 **Harley Owners Group, HOG Stockholm Chapter**
@@ -16657,9 +22906,13 @@ Nummer: 12773
     123 189 10 35
 
 
+
+
 **Harley Owners Group, HOG Umeå Chapter**
 
     123 225 05 04
+
+
 
 
 **Harmony Heights**
@@ -16667,9 +22920,13 @@ Nummer: 12773
     123 032 14 63
 
 
+
+
 **Harnäs-Skutskär SS - Simidrott**
 
     123 691 51 93
+
+
 
 
 **Harplinge Ridklubb**
@@ -16677,9 +22934,13 @@ Nummer: 12773
     123 550 81 22
 
 
+
+
 **Harry Arnold-Sällskapet**
 
     123 424 34 73
+
+
 
 
 **Harry Martinson-sällskapet**
@@ -16687,14 +22948,20 @@ Nummer: 12773
     123 097 07 98
 
 
+
+
 **Haruyama Aikijujutus Budoklubb**
 
     123 568 28 10
 
 
+
+
 **Harvs Bygdegårdsförening**
 
     123 071 28 02
+
+
 
 
 **Hasene Sverige**
@@ -16704,6 +22971,8 @@ Nummer: 12773
     123 523 43 64
 
 
+
+
 **Hasse & Tage-Museets Vänner**
 
     123 019 26 90
@@ -16711,9 +22980,13 @@ Nummer: 12773
     123 154 22 65 - Medlemskap
 
 
+
+
 **Hassela Hundklubb**
 
     123 691 18 04
+
+
 
 
 **Hassela IF**
@@ -16721,9 +22994,13 @@ Nummer: 12773
     123 213 78 00
 
 
+
+
 **Hassela Jakt & Sportskytteklubb**
 
     123 667 54 09
+
+
 
 
 **Hassela Ski Resort**
@@ -16731,9 +23008,13 @@ Nummer: 12773
     123 252 30 33 - Längdpass
 
 
+
+
 **Hasselabygdens Golfklubb**
 
     123 602 67 69
+
+
 
 
 **Hassels IF**
@@ -16741,9 +23022,13 @@ Nummer: 12773
     123 086 31 18
 
 
+
+
 **Hassle-Torsö GOIF - Fotboll**
 
     123 327 54 01
+
+
 
 
 **Hasslö GoIF**
@@ -16751,9 +23036,13 @@ Nummer: 12773
     123 199 43 00
 
 
+
+
 **Hasslövs IS**
 
     123 344 44 52
+
+
 
 
 **Havdhems Församling**
@@ -16763,9 +23052,13 @@ Nummer: 12773
     123 262 03 59 - Kollekt
 
 
+
+
 **Haverdals Golfklubb**
 
     123 267 14 10
+
+
 
 
 **Havets Hus i Lysekil AB**
@@ -16773,9 +23066,13 @@ Nummer: 12773
     123 350 68 39
 
 
+
+
 **Havsnäs Bygdeförening**
 
     123 440 65 18
+
+
 
 
 **Havsnäsbygdens Skoterklubb**
@@ -16783,9 +23080,13 @@ Nummer: 12773
     123 231 46 72
 
 
+
+
 **HC3 Kemjoh Hapkido TKD**
 
     123 281 60 98
+
+
 
 
 **HC Dalen**
@@ -16797,9 +23098,13 @@ Nummer: 12773
     123 394 29 35
 
 
+
+
 **Healingrummet- För Kropp & Själ / Maja Åkerling**
 
     123 289 52 17
+
+
 
 
 **Health in Balance by Christa AB**
@@ -16807,9 +23112,13 @@ Nummer: 12773
     123 655 87 79
 
 
+
+
 **Heart of Evengelism**
 
     123 693 68 19
+
+
 
 
 **Heby Allmänna IF**
@@ -16819,9 +23128,13 @@ Nummer: 12773
     123 282 69 56
 
 
+
+
 **Heby Folkets Hus & Parkförening**
 
     123 129 42 06
+
+
 
 
 **Heby Ryttarförening**
@@ -16829,9 +23142,13 @@ Nummer: 12773
     123 313 84 19
 
 
+
+
 **Heby SkF - Skyttesport**
 
     123 373 66 83
+
+
 
 
 **Heda RK - Ridsport**
@@ -16839,9 +23156,13 @@ Nummer: 12773
     123 189 81 54
 
 
+
+
 **Hedbergs Industri AB**
 
     123 417 17 73
+
+
 
 
 **Hede Hembygdsförening**
@@ -16849,9 +23170,13 @@ Nummer: 12773
     123 105 21 58
 
 
+
+
 **Hede IK**
 
     123 611 10 17
+
+
 
 
 **Hede Samfällighetsförening**
@@ -16859,9 +23184,13 @@ Nummer: 12773
     123 032 86 41
 
 
+
+
 **Hede Skidklubb**
 
     123 175 87 88
+
+
 
 
 **Hedebygdens Församling**
@@ -16869,9 +23198,13 @@ Nummer: 12773
     123 032 18 85
 
 
+
+
 **Hedekas Idrottsförening**
 
     123 001 80 02
+
+
 
 
 **Hedemora Gammelgård**
@@ -16879,9 +23212,13 @@ Nummer: 12773
     123 352 14 40
 
 
+
+
 **Hedemora Golfklubb**
 
     123 059 37 64
+
+
 
 
 **Hedemora Kvinnojour**
@@ -16889,9 +23226,13 @@ Nummer: 12773
     123 079 93 79
 
 
+
+
 **Hedemora Scoutkår**
 
     123 371 95 72
+
+
 
 
 **Hedemora Simsällskap**
@@ -16899,9 +23240,13 @@ Nummer: 12773
     123 452 05 57
 
 
+
+
 **Hedemora SK**
 
     123 560 86 82 - A-lag
+
+
 
 
 **Hedemora SK, HSK**
@@ -16909,9 +23254,13 @@ Nummer: 12773
     123 509 96 50
 
 
+
+
 **Hedemora Träningsverk**
 
     123 225 55 60
+
+
 
 
 **Hedengrens Bokhandel AB**
@@ -16919,9 +23268,13 @@ Nummer: 12773
     123 085 73 91
 
 
+
+
 **Hedesunda Hembygdsförening**
 
     123 160 59 71
+
+
 
 
 **Hedesunda IF**
@@ -16929,9 +23282,13 @@ Nummer: 12773
     123 326 45 95
 
 
+
+
 **Hedesundavävarna och Skaparbyn / Stiftelsen Hedesundavävarna**
 
     123 158 16 85
+
+
 
 
 **Hedins Orkester / Bengt Hedins Orkester Aktiebolag**
@@ -16939,9 +23296,13 @@ Nummer: 12773
     123 687 43 33
 
 
+
+
 **Hedvig Eleonora Församling**
 
     123 451 27 60
+
+
 
 
 **Heffnersklubbans BK**
@@ -16949,9 +23310,13 @@ Nummer: 12773
     123 603 35 26
 
 
+
+
 **Hej Främling!**
 
     123 113 51 51
+
+
 
 
 **Hejde Sockenförening**
@@ -16959,9 +23324,13 @@ Nummer: 12773
     123 275 78 96
 
 
+
+
 **Hejnum Bygdegårdsförening**
 
     123 230 82 78
+
+
 
 
 **Hela Människan**
@@ -16969,9 +23338,13 @@ Nummer: 12773
     123 903 21 60
 
 
+
+
 **Hela Människan**
 
     123 900 01 59 - Falun
+
+
 
 
 **Hela Människan**
@@ -16979,14 +23352,20 @@ Nummer: 12773
     123 009 39 55 - Malmö
 
 
+
+
 **Hela Människan**
 
     123 386 15 15 - Oskarshamn
 
 
+
+
 **Hela Människan**
 
     123 041 11 32 - Enköping
+
+
 
 
 **Hela Människan**
@@ -16996,6 +23375,8 @@ Nummer: 12773
     123 624 68 39 - Norrköping Second Hand
 
 
+
+
 **Hela Människan**
 
     123 198 83 02 - Jönköping DeLa-verksamheten
@@ -17003,9 +23384,13 @@ Nummer: 12773
     123 427 75 62 - Jönköping
 
 
+
+
 **Hela Människan**
 
     123 166 13 96 - Partille
+
+
 
 
 **Hela Människan**
@@ -17013,9 +23398,13 @@ Nummer: 12773
     123 602 12 99 - Lerum
 
 
+
+
 **Hela Människan**
 
     123 575 24 07 - Falköping
+
+
 
 
 **Hela Människan**
@@ -17023,9 +23412,13 @@ Nummer: 12773
     123 319 95 02 - Kristinehamn
 
 
+
+
 **Hela Människan**
 
     123 400 36 87 - Köping
+
+
 
 
 **Hela Människan**
@@ -17035,9 +23428,13 @@ Nummer: 12773
     123 615 84 71 - Sala-Heby
 
 
+
+
 **Hela Människan**
 
     123 147 93 28 - Gävle
+
+
 
 
 **Hela Människan**
@@ -17045,9 +23442,13 @@ Nummer: 12773
     123 653 88 54 - Skellefteå Stadsmission
 
 
+
+
 **Hela Rättvik Rullar**
 
     123 626 97 99
+
+
 
 
 **Helena Lyth**
@@ -17055,9 +23456,13 @@ Nummer: 12773
     123 140 26 50
 
 
+
+
 **Helenas Hållbara / Wildros Miljö & Kommunikation AB**
 
     123 042 49 60
+
+
 
 
 **Helenas Vapenverkstad / Helena Tiborsdotter**
@@ -17065,9 +23470,13 @@ Nummer: 12773
     123 452 45 75
 
 
+
+
 **Helenelund IK Bandy**
 
     123 480 88 20
+
+
 
 
 **Helenes M.Y Balance på Råå / Helene Kroll**
@@ -17075,9 +23484,13 @@ Nummer: 12773
     123 629 13 22
 
 
+
+
 **Helens för körkort AB**
 
     123 105 93 28
+
+
 
 
 **Helga Trefaldighets Församling Växjö**
@@ -17085,9 +23498,13 @@ Nummer: 12773
     123 182 65 69
 
 
+
+
 **Helgarö Bygdegård**
 
     123 326 95 94
+
+
 
 
 **Helhetens Hus AB**
@@ -17095,9 +23512,13 @@ Nummer: 12773
     123 161 75 62
 
 
+
+
 **Helhetens Kraft / Katharina Johansson**
 
     123 363 10 17
+
+
 
 
 **Helhetshälsan i Östergötland AB**
@@ -17105,9 +23526,13 @@ Nummer: 12773
     123 069 28 55
 
 
+
+
 **Heliga Annas Ortodoxa Församling**
 
     123 085 78 54 - Kollekt
+
+
 
 
 **Heliga Familjens Katolska Församling**
@@ -17115,9 +23540,13 @@ Nummer: 12773
     123 182 72 11
 
 
+
+
 **Heliga Hjärtas Kloster / Mariadättrarna OSB**
 
     123 396 97 89 - köp i boden
+
+
 
 
 **Heliga Hjärtas Kloster / Mariadöttrarna OSB**
@@ -17125,14 +23554,20 @@ Nummer: 12773
     123 218 25 90 - gåvor till klostret
 
 
+
+
 **Heliga Korsets Församling**
 
     123 298 47 55
 
 
+
+
 **Heljarödsgården**
 
     123 049 87 41
+
+
 
 
 **Hellasgården / Krasiva AB**
@@ -17142,9 +23577,13 @@ Nummer: 12773
     123 314 12 72
 
 
+
+
 **Hellidens Slott**
 
     123 482 17 08
+
+
 
 
 **Hello World! Ideell förening**
@@ -17154,11 +23593,15 @@ Nummer: 12773
     123 395 32 71
 
 
+
+
 **Help at Hand**
 
     123 504 76 18
 
     123 900 67 76
+
+
 
 
 **Help Kurdistan Insamlingsstiftelse**
@@ -17168,9 +23611,13 @@ Nummer: 12773
     123 900 46 56
 
 
+
+
 **Help Ukraine in Gothenburg, HUG**
 
     123 064 54 81
+
+
 
 
 **Helpfulness Foundation**
@@ -17178,9 +23625,13 @@ Nummer: 12773
     123 431 63 45
 
 
+
+
 **Helping Hands**
 
     123 108 90 10
+
+
 
 
 **Helsigborgs IK - Idrott För Alla**
@@ -17188,9 +23639,13 @@ Nummer: 12773
     123 235 73 90
 
 
+
+
 **Helsingborg BBK**
 
     123 106 76 77
+
+
 
 
 **Helsingborg Jaguars American Football Club - HJ AFC**
@@ -17198,9 +23653,13 @@ Nummer: 12773
     123 441 06 92
 
 
+
+
 **Helsingborg Östra IF**
 
     123 345 65 89
+
+
 
 
 **Helsingborgs Bapistförsamling**
@@ -17208,9 +23667,13 @@ Nummer: 12773
     123 623 63 43
 
 
+
+
 **Helsingborgs Curlingklubb**
 
     123 197 36 43
+
+
 
 
 **Helsingborgs Film- & Fotoklubb**
@@ -17218,9 +23681,13 @@ Nummer: 12773
     123 107 01 92
 
 
+
+
 **Helsingborgs HC**
 
     123 271 02 00
+
+
 
 
 **Helsingborgs KK**
@@ -17228,9 +23695,13 @@ Nummer: 12773
     123 377 15 24
 
 
+
+
 **Helsingborgs Konstförening**
 
     123 691 58 96
+
+
 
 
 **Helsingborgs Medicinhistoriska Förening**
@@ -17238,9 +23709,13 @@ Nummer: 12773
     123 637 84 18
 
 
+
+
 **Helsingborgs Moské Ahelalsunnah**
 
     123 319 54 50
+
+
 
 
 **Helsingborgs Pastorat**
@@ -17248,9 +23723,13 @@ Nummer: 12773
     123 568 17 05
 
 
+
+
 **Helsingborgs Tjej Och Transjour**
 
     123 382 70 29
+
+
 
 
 **Helsingkrona Nation, Helsingkrona Gilles Stödförening**
@@ -17258,14 +23737,20 @@ Nummer: 12773
     123 174 65 10
 
 
+
+
 **HelsingPadel**
 
     123 498 02 07
 
 
+
+
 **Hem Ljuva Hem / Investmentbolaget LGAB Sverige AB**
 
     123 086 72 59 - Prenumeration
+
+
 
 
 **Hembygdsföreningen Arboga Minne**
@@ -17275,14 +23760,20 @@ Nummer: 12773
     123 230 89 30
 
 
+
+
 **Hembygdsföreningen Facklan**
 
     123 089 80 49
 
 
+
+
 **Hembygdsföreningen Gamla Urshult**
 
     123 668 52 83
+
+
 
 
 **Hembygdsföreningen i Ransäter**
@@ -17292,9 +23783,13 @@ Nummer: 12773
     123 646 63 12
 
 
+
+
 **Hembygdsföreningen Noraskog**
 
     123 317 02 89
+
+
 
 
 **Hembygdsföreningen Oskarshamn-Döderhult**
@@ -17302,9 +23797,13 @@ Nummer: 12773
     123 577 61 82
 
 
+
+
 **Hembygdsföreningen Skarke-Varnhem**
 
     123 620 36 40
+
+
 
 
 **Hembygdsföreningen Umbygda**
@@ -17312,9 +23811,13 @@ Nummer: 12773
     123 488 45 32
 
 
+
+
 **Hembygdsföreningen Ydregården**
 
     123 484 40 31
+
+
 
 
 **Hemlingby LK - Friidrott**
@@ -17322,9 +23825,13 @@ Nummer: 12773
     123 189 50 02
 
 
+
+
 **Hemlösa Katter Kalmar**
 
     123 176 62 11
+
+
 
 
 **Hemlösa Tassar**
@@ -17332,9 +23839,13 @@ Nummer: 12773
     123 108 95 49
 
 
+
+
 **Hemlösas Julbord / Homeless Foundation**
 
     123 633 97 41
+
+
 
 
 **Hemmaodlat**
@@ -17344,9 +23855,13 @@ Nummer: 12773
     123 231 30 39
 
 
+
+
 **Hemse BK**
 
     123 666 84 61
+
+
 
 
 **Hemse Bollklubb**
@@ -17354,9 +23869,13 @@ Nummer: 12773
     123 280 13 14
 
 
+
+
 **Hemsjö Hembygdsförening**
 
     123 422 65 51
+
+
 
 
 **Hemsö Församling**
@@ -17364,9 +23883,13 @@ Nummer: 12773
     123 270 13 08
 
 
+
+
 **Hemsö IF**
 
     123 326 61 86
+
+
 
 
 **Henrik Jönsson Media AB**
@@ -17374,9 +23897,13 @@ Nummer: 12773
     123 168 90 66
 
 
+
+
 **Hensviks Samfällighetsförening**
 
     123 163 02 27
+
+
 
 
 **Henåns ställplats / Orust Yachtservice AB**
@@ -17384,14 +23911,20 @@ Nummer: 12773
     123 662 56 28
 
 
+
+
 **HepCat AB**
 
     123 364 62 62
 
 
+
+
 **Herminge Ridskola AB**
 
     123 366 80 27
+
+
 
 
 **Herrestads AIF**
@@ -17403,9 +23936,13 @@ Nummer: 12773
     123 187 14 66
 
 
+
+
 **Herrestads Församling**
 
     123 511 37 33
+
+
 
 
 **Herrljunga Hembygdsförening**
@@ -17413,9 +23950,13 @@ Nummer: 12773
     123 413 63 88
 
 
+
+
 **Herrljunga Scoutkår**
 
     123 017 37 24
+
+
 
 
 **Herrljunga SK FK**
@@ -17423,9 +23964,13 @@ Nummer: 12773
     123 073 01 43
 
 
+
+
 **Herrljunga SS**
 
     123 170 57 14
+
+
 
 
 **Herrljungakorpen**
@@ -17433,9 +23978,13 @@ Nummer: 12773
     123 378 30 57
 
 
+
+
 **Herrviks Motorförening**
 
     123 593 47 08
+
+
 
 
 **Hertsölandets Byaförening**
@@ -17443,9 +23992,13 @@ Nummer: 12773
     123 039 16 72
 
 
+
+
 **Heyman & Glittsjö AB**
 
     123 123 45 74 - Hegli Restaurang
+
+
 
 
 **HG Golf Glumslöv / HG Golf AB**
@@ -17453,9 +24006,13 @@ Nummer: 12773
     123 345 04 42
 
 
+
+
 **HGH FC**
 
     123 617 12 35
+
+
 
 
 **Hifhistoria**
@@ -17463,9 +24020,13 @@ Nummer: 12773
     123 053 00 06
 
 
+
+
 **High Five Taekwondo Idrottsförening**
 
     123 160 12 44
+
+
 
 
 **HIK Kick Off**
@@ -17473,9 +24034,13 @@ Nummer: 12773
     123 349 11 64
 
 
+
+
 **Hildas Tassebo**
 
     123 140 25 44
+
+
 
 
 **Hillareds IF**
@@ -17483,9 +24048,13 @@ Nummer: 12773
     123 670 31 36
 
 
+
+
 **Hills Golf & Sports Club / Hills Golf AB**
 
     123 399 68 65
+
+
 
 
 **Hillsong Church Sweden**
@@ -17505,9 +24074,13 @@ Nummer: 12773
     123 616 13 01 - Stockholm Norra
 
 
+
+
 **Hilti BJJ Västerås**
 
     123 593 68 44
+
+
 
 
 **Hilti Brazilian Jiu-Jitsu Stockholm**
@@ -17515,9 +24088,22 @@ Nummer: 12773
     123 584 15 80
 
 
+
+
 **Himlabacken Skoter**
 
     123 099 32 53
+
+
+
+
+**Himledalens Församling**
+
+    123 486 03 67 - Bokbord
+
+    123 579 22 13 - Kollekt
+
+
 
 
 **Himledalens RK - Ridsport**
@@ -17525,9 +24111,13 @@ Nummer: 12773
     123 041 78 65
 
 
+
+
 **Himlen TV7 (Korsets Stöd R.F.)**
 
     123 677 93 00
+
+
 
 
 **Himlen är överskattad**
@@ -17535,9 +24125,13 @@ Nummer: 12773
     123 281 78 31
 
 
+
+
 **Himmelska Fötter i Hölö / Helena Johansson**
 
     123 582 07 25
+
+
 
 
 **Hindu Mandir Society i Stockholm**
@@ -17545,9 +24139,13 @@ Nummer: 12773
     123 218 02 55
 
 
+
+
 **Hindås IBK**
 
     123 583 95 76
+
+
 
 
 **Hindås Kanot- o Friluftsklubb**
@@ -17555,9 +24153,13 @@ Nummer: 12773
     123 272 05 48
 
 
+
+
 **Hindås Scoutkår**
 
     123 197 15 48
+
+
 
 
 **Hindås station Bygdegårdsförening**
@@ -17565,9 +24167,13 @@ Nummer: 12773
     123 370 36 91
 
 
+
+
 **Hishults Byalag**
 
     123 227 77 62
+
+
 
 
 **Hishults Gymnastikförening**
@@ -17575,9 +24181,13 @@ Nummer: 12773
     123 563 91 74
 
 
+
+
 **Hisingens Cykelklubb**
 
     123 085 58 74
+
+
 
 
 **Hisingsbacka FC**
@@ -17585,9 +24195,13 @@ Nummer: 12773
     123 029 29 87
 
 
+
+
 **Historical textiles AB**
 
     123 154 30 24
+
+
 
 
 **Historier från Hälsingland**
@@ -17595,9 +24209,13 @@ Nummer: 12773
     123 567 24 31
 
 
+
+
 **Historiska Sällskapet Gamla Wernamo**
 
     123 338 70 08
+
+
 
 
 **Hittarps RK - Ridsport**
@@ -17605,14 +24223,20 @@ Nummer: 12773
     123 671 85 30
 
 
+
+
 **Hjo Pastorat**
 
     123 222 08 53
 
 
+
+
 **Hjortbergets Skidklubb**
 
     123 550 35 37
+
+
 
 
 **Hjortensbergskyrkans Församling**
@@ -17622,9 +24246,13 @@ Nummer: 12773
     123 222 24 95 - Hjortensbergskyrkan Hjälper
 
 
+
+
 **Hjortensbergskyrkans Församling**
 
     123 388 73 79 - Hjortensbergskyrkans ungdom
+
+
 
 
 **Hjortnäs-Sunnanängs Hembygdsförening**
@@ -17632,9 +24260,13 @@ Nummer: 12773
     123 020 11 94
 
 
+
+
 **Hjortsberga Samhällsförening**
 
     123 595 24 94
+
+
 
 
 **Hjulsbro IK**
@@ -17642,9 +24274,13 @@ Nummer: 12773
     123 197 31 71
 
 
+
+
 **Hjälmared folkhögskolas Kamratförbund**
 
     123 049 84 44
+
+
 
 
 **Hjälmareds Folkhögskola**
@@ -17652,9 +24288,13 @@ Nummer: 12773
     123 105 20 91
 
 
+
+
 **Hjälmö Brygga Samfällighet**
 
     123 476 44 86
+
+
 
 
 **Hjälp Holger Nu**
@@ -17662,9 +24302,13 @@ Nummer: 12773
     123 647 70 79
 
 
+
+
 **Hjälp Oss Att Hjälpa Andra**
 
     123 263 61 65
+
+
 
 
 **Hjälp till Liv International**
@@ -17672,9 +24316,13 @@ Nummer: 12773
     123 900 11 57
 
 
+
+
 **Hjälpmedel Utan Gränser, HUG**
 
     123 626 73 14
+
+
 
 
 **Hjälptransporten Filippus**
@@ -17682,9 +24330,13 @@ Nummer: 12773
     123 006 82 05
 
 
+
+
 **Hjältarnas Hus**
 
     123 123 75 69
+
+
 
 
 **Hjärnarp-Tåstarp Församling**
@@ -17692,9 +24344,13 @@ Nummer: 12773
     123 389 83 50
 
 
+
+
 **Hjärnarps GIF**
 
     123 418 01 88
+
+
 
 
 **Hjärnarps Innebandyklubb**
@@ -17702,14 +24358,20 @@ Nummer: 12773
     123 634 65 22
 
 
+
+
 **Hjärnarps Scoutkår**
 
     123 303 76 11
 
 
+
+
 **Hjärnskadeförbundet Hjärnkraft**
 
     123 900 50 75
+
+
 
 
 **Hjärsås-Värestorp IF**
@@ -17719,9 +24381,13 @@ Nummer: 12773
     123 617 82 06
 
 
+
+
 **Hjärt-Lungfonden, Svenska Nationalföreningen mot Hjärt- och Lungsjukdomar**
 
     123 909 19 27
+
+
 
 
 **Hjärt-och Lungsjukas Lok För Örebro**
@@ -17731,9 +24397,13 @@ Nummer: 12773
     123 689 56 92 - Sverigelotter
 
 
+
+
 **Hjärtebarnsfonden**
 
     123 900 58 77
+
+
 
 
 **HjärtLung Borås-Ulricehamn**
@@ -17741,9 +24411,13 @@ Nummer: 12773
     123 512 04 56
 
 
+
+
 **Hjärups Budoklubb**
 
     123 600 94 76
+
+
 
 
 **Hjåggsjödrakarna**
@@ -17751,9 +24425,13 @@ Nummer: 12773
     123 175 71 11
 
 
+
+
 **HK Brukspôjkera**
 
     123 362 24 12
+
+
 
 
 **HK Ceres Norrtälje**
@@ -17761,14 +24439,20 @@ Nummer: 12773
     123 618 55 24
 
 
+
+
 **HK Country**
 
     123 271 07 47
 
 
+
+
 **HK Drott Halmstad**
 
     123 031 00 78
+
+
 
 
 **HK Eskil**
@@ -17780,14 +24464,20 @@ Nummer: 12773
     123 578 84 92 - Övrigt
 
 
+
+
 **Höjdhagens Villaägareförening**
 
     123 329 86 92
 
 
+
+
 **Hobby & Leksaksmuseum Stiftelsen**
 
     123 143 27 49
+
+
 
 
 **Hoburgs Församling**
@@ -17797,9 +24487,13 @@ Nummer: 12773
     123 104 31 40 - Gåvor, vykort, böcker, dylikt
 
 
+
+
 **Hofors AIF**
 
     123 538 02 58
+
+
 
 
 **Hofors Brukshundklubb**
@@ -17807,9 +24501,13 @@ Nummer: 12773
     123 312 72 89
 
 
+
+
 **Hofors Hembygdsförening**
 
     123 056 98 14
+
+
 
 
 **Hofors IBK**
@@ -17817,9 +24515,13 @@ Nummer: 12773
     123 123 91 02
 
 
+
+
 **Hofors Motorsällskap**
 
     123 338 10 92
+
+
 
 
 **Hofslätts Hembygdsförening**
@@ -17827,9 +24529,13 @@ Nummer: 12773
     123 438 38 40
 
 
+
+
 **Hofterup IBF**
 
     123 326 44 39
+
+
 
 
 **Hogdal Bygdegård**
@@ -17837,9 +24543,13 @@ Nummer: 12773
     123 157 29 81
 
 
+
+
 **Hoj-O-Mat / Alexander Svartvatten**
 
     123 285 82 56
+
+
 
 
 **Hokbygdens Frikyrkoförsamling**
@@ -17847,9 +24557,13 @@ Nummer: 12773
     123 261 24 14
 
 
+
+
 **Hole Byförening**
 
     123 542 12 68
+
+
 
 
 **HoliBeYoga / Holistic Being AB**
@@ -17857,14 +24571,20 @@ Nummer: 12773
     123 081 18 28
 
 
+
+
 **Holistic Makeover Angelius / Anna Angelius**
 
     123 631 14 01
 
 
+
+
 **Holistic Traning AB**
 
     123 602 75 93
+
+
 
 
 **Holmalunds IF Alingsås**
@@ -17874,9 +24594,13 @@ Nummer: 12773
     123 640 50 96
 
 
+
+
 **Holmeja IS**
 
     123 538 03 24
+
+
 
 
 **Holmestadgården**
@@ -17884,9 +24608,13 @@ Nummer: 12773
     123 162 61 18
 
 
+
+
 **Holms Fiskevårdsområdesförening**
 
     123 442 59 14
+
+
 
 
 **Holmstrand-Helgums Sportklubb**
@@ -17894,9 +24622,13 @@ Nummer: 12773
     123 108 79 98
 
 
+
+
 **Holmsvedenbygdens Intresseförening**
 
     123 107 35 50
+
+
 
 
 **Holmsvedens AIK**
@@ -17904,14 +24636,20 @@ Nummer: 12773
     123 045 92 22
 
 
+
+
 **Holmträsk Fiskevårdsområde**
 
     123 013 51 52
 
 
+
+
 **Hols Hembygdsförening**
 
     123 306 08 60
+
+
 
 
 **Holsby Frikyrka**
@@ -17923,9 +24661,13 @@ Nummer: 12773
     123 412 35 19
 
 
+
+
 **Holsby SK**
 
     123 242 86 13
+
+
 
 
 **Holsljunga Byalag**
@@ -17933,9 +24675,13 @@ Nummer: 12773
     123 618 88 74
 
 
+
+
 **Homeless Foundation**
 
     123 173 29 32
+
+
 
 
 **Hopajola**
@@ -17943,9 +24689,13 @@ Nummer: 12773
     123 901 10 24
 
 
+
+
 **HOPE587 - Today for Tomorrow**
 
     123 551 20 66
+
+
 
 
 **Hope For This Nation, Sweden**
@@ -17953,9 +24703,13 @@ Nummer: 12773
     123 121 81 63
 
 
+
+
 **Hoppets Stjärna Insamlingsstiftelse**
 
     123 900 25 36
+
+
 
 
 **Horda Frikyrka**
@@ -17963,9 +24717,13 @@ Nummer: 12773
     123 593 55 64
 
 
+
+
 **Horn-Hycklinge IF**
 
     123 041 92 26
+
+
 
 
 **Hornbore Ting**
@@ -17973,9 +24731,13 @@ Nummer: 12773
     123 269 58 31
 
 
+
+
 **Horns Skärgårdscamping / NFS Marin AB**
 
     123 063 46 26
+
+
 
 
 **Hornskrokens IF**
@@ -17983,9 +24745,13 @@ Nummer: 12773
     123 177 21 85
 
 
+
+
 **Horses Coffee and Western Riders**
 
     123 577 39 65
+
+
 
 
 **Hos Malin - Medicinsk fotvård / Malin Danielsson**
@@ -17993,9 +24759,13 @@ Nummer: 12773
     123 584 13 66
 
 
+
+
 **Hossmo BK**
 
     123 227 52 79
+
+
 
 
 **Hossmo Sockens Hembygdsförening**
@@ -18003,9 +24773,13 @@ Nummer: 12773
     123 072 64 22
 
 
+
+
 **Hot Yoga Helsingborg / Helsingborgs Yoga Center AB**
 
     123 068 45 06
+
+
 
 
 **Hotagens Hembygdsförening**
@@ -18013,9 +24787,13 @@ Nummer: 12773
     123 650 74 20
 
 
+
+
 **Hotell Oskar i Lund**
 
     123 485 10 85
+
+
 
 
 **Hotell Royal i Göteborg AB**
@@ -18023,9 +24801,13 @@ Nummer: 12773
     123 552 29 09
 
 
+
+
 **House of Evergreen AB**
 
     123 145 93 46
+
+
 
 
 **House of Samurai IF**
@@ -18033,9 +24815,13 @@ Nummer: 12773
     123 408 65 26
 
 
+
+
 **House of Zen i Söderköping AB**
 
     123 278 96 00
+
+
 
 
 **Hova IF**
@@ -18043,9 +24829,13 @@ Nummer: 12773
     123 091 12 55
 
 
+
+
 **Hovmantorp GoIF**
 
     123 327 67 06
+
+
 
 
 **Hovs GIF**
@@ -18053,9 +24843,13 @@ Nummer: 12773
     123 199 62 63
 
 
+
+
 **HP Skövde**
 
     123 511 21 56
+
+
 
 
 **HPR Pensionärsförening Reimersholme**
@@ -18063,9 +24857,13 @@ Nummer: 12773
     123 301 54 84
 
 
+
+
 **Hrimfaxi Islandshästklubb - Islandshäst**
 
     123 181 31 38
+
+
 
 
 **Hrvatsko kulturno sportsko društvo Helsingborg**
@@ -18073,9 +24871,13 @@ Nummer: 12773
     123 441 94 46
 
 
+
+
 **HS Häst**
 
     123 389 21 22
+
+
 
 
 **HS Sierra Ängelholm - Handboll**
@@ -18083,9 +24885,13 @@ Nummer: 12773
     123 146 50 04
 
 
+
+
 **Huaröds Byalag**
 
     123 074 00 68
+
+
 
 
 **Huddinge Gymnastikförening**
@@ -18093,14 +24899,20 @@ Nummer: 12773
     123 552 62 15
 
 
+
+
 **Huddinge HK**
 
     123 694 81 78
 
 
+
+
 **Huddinge IBS**
 
     123 010 90 09
+
+
 
 
 **Huddinge IK Hockey**
@@ -18110,9 +24922,13 @@ Nummer: 12773
     123 224 10 81
 
 
+
+
 **Huddinge kommun**
 
     123 505 63 87 - Vux Huddinge
+
+
 
 
 **Huddunge hembygdsförening**
@@ -18120,9 +24936,13 @@ Nummer: 12773
     123 435 94 02
 
 
+
+
 **Hudiksvall Ju-Jutsuklubb**
 
     123 041 66 51
+
+
 
 
 **Hudiksvalls BBK**
@@ -18130,9 +24950,13 @@ Nummer: 12773
     123 357 79 47
 
 
+
+
 **Hudiksvalls Brukshundsklubb**
 
     123 413 39 06
+
+
 
 
 **Hudiksvalls FF**
@@ -18140,9 +24964,13 @@ Nummer: 12773
     123 378 58 96
 
 
+
+
 **Hudiksvalls Förenade Fotboll**
 
     123 341 99 67
+
+
 
 
 **Hudiksvalls Gymnastikförening**
@@ -18150,9 +24978,13 @@ Nummer: 12773
     123 603 32 94
 
 
+
+
 **Hudiksvalls Rid och Ponnyklubb**
 
     123 018 28 99
+
+
 
 
 **Hudiksvalls Sportdykarklubb**
@@ -18160,9 +24992,13 @@ Nummer: 12773
     123 470 18 43
 
 
+
+
 **Hudiksvalls Stads Hembygdsförening**
 
     123 296 24 05
+
+
 
 
 **Hudiksvallsbygdens Församling**
@@ -18172,9 +25008,13 @@ Nummer: 12773
     123 515 73 91
 
 
+
+
 **Hugos Stiftelse**
 
     123 203 79 68
+
+
 
 
 **Hullsjöns Bygdegårdsförening**
@@ -18184,9 +25024,13 @@ Nummer: 12773
     123 130 33 61
 
 
+
+
 **Hulta Golf AB**
 
     123 117 57 51
+
+
 
 
 **Hultafors Bygdegårdsförening & Byalag**
@@ -18194,9 +25038,13 @@ Nummer: 12773
     123 568 43 78
 
 
+
+
 **Hultanäs sport och fritidsklubb, HSoFK**
 
     123 473 29 62
+
+
 
 
 **Hulterstad-Stenåsa Församling**
@@ -18204,9 +25052,13 @@ Nummer: 12773
     123 548 63 78
 
 
+
+
 **Hulterstads AIK**
 
     123 288 74 46
+
+
 
 
 **Hultic BK**
@@ -18214,9 +25066,13 @@ Nummer: 12773
     123 115 94 90
 
 
+
+
 **Hultsberg-Björkås IBF**
 
     123 202 15 74
+
+
 
 
 **Hultsfred Brukshundklubb**
@@ -18224,9 +25080,13 @@ Nummer: 12773
     123 473 21 94
 
 
+
+
 **Hultsfred Gymnastikklubb**
 
     123 079 22 34
+
+
 
 
 **Hultsfred Vimmerby Kvinnojour**
@@ -18234,9 +25094,13 @@ Nummer: 12773
     123 291 21 45
 
 
+
+
 **Hultsfreds FK**
 
     123 494 14 23
+
+
 
 
 **Hultsfreds Flygklubb**
@@ -18244,9 +25108,13 @@ Nummer: 12773
     123 039 51 86
 
 
+
+
 **Hultsfreds HF**
 
     123 414 99 28
+
+
 
 
 **Hultsfredsbygdens Ridklubb**
@@ -18254,9 +25122,13 @@ Nummer: 12773
     123 634 80 31
 
 
+
+
 **Human Bridge Stiftelse**
 
     123 900 41 85
+
+
 
 
 **Human Framtid**
@@ -18264,9 +25136,13 @@ Nummer: 12773
     123 293 18 63
 
 
+
+
 **Human Rescue Sweden**
 
     123 392 76 96 - Insamling Ukraina
+
+
 
 
 **Human Rights Watch Scandinavia Insamlingsstiftelsen**
@@ -18274,14 +25150,20 @@ Nummer: 12773
     123 900 45 40
 
 
+
+
 **Humanisterna**
 
     123 483 66 49
 
 
+
+
 **Hundar längtar hem**
 
     123 109 35 74 - Rumänska gatuhundar
+
+
 
 
 **Hundar Utan Hem**
@@ -18293,9 +25175,13 @@ Nummer: 12773
     123 900 84 83
 
 
+
+
 **HundBiten / Lovisa Viktoria Dynér**
 
     123 412 79 65
+
+
 
 
 **Hundens Hus AB**
@@ -18303,9 +25189,13 @@ Nummer: 12773
     123 390 72 68
 
 
+
+
 **Hundens Hus Skåne**
 
     123 438 29 90
+
+
 
 
 **Hundfantasten Uppland / Mari Landelius**
@@ -18313,14 +25203,20 @@ Nummer: 12773
     123 575 39 91
 
 
+
+
 **Hundfeeling / Norrköpings Hundsporthall AB**
 
     123 100 22 52
 
 
+
+
 **Hundhemmet Black Dog / TigerLind Creative AB**
 
     123 133 66 92
+
+
 
 
 **Hundhjälpen**
@@ -18330,9 +25226,13 @@ Nummer: 12773
     123 432 44 48
 
 
+
+
 **Hundledarskap i Hofterup / Hundägarskolan - Short Stop i Malmö**
 
     123 157 63 96
+
+
 
 
 **Hundomplaceringsverksamheten**
@@ -18340,9 +25240,13 @@ Nummer: 12773
     123 588 32 69
 
 
+
+
 **Hundstallet - Svenska Hundskyddsföreningen**
 
     123 900 55 70
+
+
 
 
 **Hundtrixet / Marianne Blixt**
@@ -18350,9 +25254,13 @@ Nummer: 12773
     123 389 63 05
 
 
+
+
 **Hundvis Dagis & Skola / Yvonne Fång AB**
 
     123 684 04 90
+
+
 
 
 **Hunneberg Sport och Motionsklubb**
@@ -18360,9 +25268,13 @@ Nummer: 12773
     123 577 10 84
 
 
+
+
 **Hunnebostrands Bildarkiv**
 
     123 161 23 65
+
+
 
 
 **Hunnebostrands Gymnastik och Idrottsförening**
@@ -18370,9 +25282,13 @@ Nummer: 12773
     123 311 24 55
 
 
+
+
 **Hur kan vi? / Navid Modiri & Gudarna Ekonomisk förening**
 
     123 124 77 33
+
+
 
 
 **Husapoteket.eu**
@@ -18380,9 +25296,13 @@ Nummer: 12773
     123 013 05 26
 
 
+
+
 **Husarö Lotsmuseum och HembygdsFörening**
 
     123 358 02 89
+
+
 
 
 **Husbussens Vänner**
@@ -18390,9 +25310,13 @@ Nummer: 12773
     123 107 91 77
 
 
+
+
 **Husby Allmänna IK**
 
     123 552 44 83
+
+
 
 
 **Husby Frikyrkoförsamling**
@@ -18400,9 +25324,13 @@ Nummer: 12773
     123 527 80 15
 
 
+
+
 **Husby-Rekarne Scoutkår**
 
     123 645 93 90
+
+
 
 
 **Husby-Ärlinghundra Märsta Hembygdsförening**
@@ -18410,9 +25338,13 @@ Nummer: 12773
     123 513 73 36
 
 
+
+
 **Huset på höjden / Järfälla kommun**
 
     123 386 21 25
+
+
 
 
 **Hushållningssällskapet i Stockholms, Uppsala och Södermanlands län**
@@ -18420,9 +25352,13 @@ Nummer: 12773
     123 195 00 13
 
 
+
+
 **Hushållningssällskapet Örebro**
 
     123 481 75 08
+
+
 
 
 **Husie-Hohögs Scoutkår**
@@ -18430,9 +25366,13 @@ Nummer: 12773
     123 697 80 84
 
 
+
+
 **Husie IF**
 
     123 150 93 71
+
+
 
 
 **Huskatten Västerås**
@@ -18440,9 +25380,13 @@ Nummer: 12773
     123 571 93 80
 
 
+
+
 **Huskvarna Alliansförsamling**
 
     123 343 49 66
+
+
 
 
 **Huskvarna Alliansförsamlings Barn och ungdom, HABU**
@@ -18450,14 +25394,20 @@ Nummer: 12773
     123 181 93 25
 
 
+
+
 **Huskvarna BK**
 
     123 364 64 94
 
 
+
+
 **Huskvarna Hundklubb**
 
     123 042 68 90
+
+
 
 
 **Huskvarna Pastorat**
@@ -18473,9 +25423,13 @@ Nummer: 12773
     123 607 19 89 - Övrigt Öxnehagakyrkan
 
 
+
+
 **Huskvarna Sportryttare**
 
     123 474 03 95
+
+
 
 
 **Huskvarna Södra IS**
@@ -18483,9 +25437,13 @@ Nummer: 12773
     123 031 47 57
 
 
+
+
 **Husqvarna IK**
 
     123 148 29 67
+
+
 
 
 **HV-71**
@@ -18493,9 +25451,13 @@ Nummer: 12773
     123 617 94 44
 
 
+
+
 **Hvens Byalag**
 
     123 542 04 43
+
+
 
 
 **Hvens Båtklubb**
@@ -18503,9 +25465,13 @@ Nummer: 12773
     123 425 74 24
 
 
+
+
 **Hworangi Taekwondo Förening**
 
     123 263 98 70
+
+
 
 
 **Hyllie Park Kyrkan**
@@ -18513,9 +25479,13 @@ Nummer: 12773
     123 395 23 55
 
 
+
+
 **Hylte Bastubadareförening**
 
     123 376 03 86
+
+
 
 
 **Hylte/Halmstad VBK**
@@ -18523,9 +25493,13 @@ Nummer: 12773
     123 026 64 11
 
 
+
+
 **Hyltebruks IF**
 
     123 299 02 99
+
+
 
 
 **Hyltebruks Pastorat**
@@ -18533,9 +25507,13 @@ Nummer: 12773
     123 024 48 71 - fika, sopplunch
 
 
+
+
 **Hyltinge Hembygsdförening**
 
     123 230 45 09
+
+
 
 
 **Hymerhusbilsklubb**
@@ -18543,9 +25521,13 @@ Nummer: 12773
     123 003 74 32
 
 
+
+
 **Hypéns Fotvård AB**
 
     123 223 49 04
+
+
 
 
 **Hyresgästföreningen**
@@ -18553,9 +25535,13 @@ Nummer: 12773
     123 690 54 59 - Region Norrland
 
 
+
+
 **Hyresgästföreningen Djäknegatan**
 
     123 539 40 36
+
+
 
 
 **Hyssna Bygdegård**
@@ -18563,9 +25549,13 @@ Nummer: 12773
     123 127 86 39
 
 
+
+
 **Hyssna Församling**
 
     123 362 90 94
+
+
 
 
 **Hyssna Hembygdsförening**
@@ -18573,9 +25563,13 @@ Nummer: 12773
     123 312 50 51
 
 
+
+
 **Hyssna Pensionärsförening**
 
     123 387 90 12
+
+
 
 
 **Hyssnabornas Bygdegårdsförening**
@@ -18583,14 +25577,20 @@ Nummer: 12773
     123 063 76 37
 
 
+
+
 **Häggdångers Församling**
 
     123 019 44 31
 
 
+
+
 **Häggdångers Intresseförening**
 
     123 567 64 73
+
+
 
 
 **Häggenås-Lit-Kyrkås Församling**
@@ -18600,11 +25600,15 @@ Nummer: 12773
     123 501 52 43 - Kollekt
 
 
+
+
 **Hägglunds IoFK**
 
     123 039 04 92
 
     123 464 08 19
+
+
 
 
 **Hägglunds Ski Team SK - Skidor**
@@ -18618,9 +25622,13 @@ Nummer: 12773
     123 588 34 83 - Spårkort
 
 
+
+
 **Hägra Bygdegårdsförening**
 
     123 458 61 78
+
+
 
 
 **Häljarps SK**
@@ -18628,9 +25636,13 @@ Nummer: 12773
     123 370 66 60
 
 
+
+
 **Hällans Bygdegårdsförening**
 
     123 621 87 05
+
+
 
 
 **Hällans Scoutkår**
@@ -18638,9 +25650,13 @@ Nummer: 12773
     123 420 62 98
 
 
+
+
 **Hällaryds IF**
 
     123 287 55 57
+
+
 
 
 **Hällbybrunns IF**
@@ -18650,9 +25666,13 @@ Nummer: 12773
     123 573 88 77 - P12
 
 
+
+
 **Hälleberga Hembygdsförening**
 
     123 023 65 47
+
+
 
 
 **Hällefors Hembygdsföreningen**
@@ -18660,9 +25680,13 @@ Nummer: 12773
     123 427 60 36
 
 
+
+
 **Hällefors IK**
 
     123 350 55 91
+
+
 
 
 **Hällefors Löparklubb**
@@ -18670,9 +25694,13 @@ Nummer: 12773
     123 204 55 73
 
 
+
+
 **Hällefors Ornitologiska Förening**
 
     123 302 10 03
+
+
 
 
 **Hälleforsnäs Bygderåd**
@@ -18680,9 +25708,13 @@ Nummer: 12773
     123 590 93 79
 
 
+
+
 **Hälleforsnäs IF**
 
     123 464 44 64
+
+
 
 
 **Hälleviks Båtklubb**
@@ -18690,9 +25722,13 @@ Nummer: 12773
     123 268 95 29
 
 
+
+
 **Hälleviksstrands Främjande**
 
     123 452 48 80
+
+
 
 
 **Hällstads Församling**
@@ -18700,9 +25736,13 @@ Nummer: 12773
     123 686 81 03
 
 
+
+
 **Hälsingborgs Jaktskytteklubb**
 
     123 196 28 28
+
+
 
 
 **Hälsinglands Fordonshistoriker HFH**
@@ -18710,9 +25750,13 @@ Nummer: 12773
     123 217 75 74
 
 
+
+
 **Hälsinglands Kennelklubb**
 
     123 357 88 38
+
+
 
 
 **Hälsinglands Sportklubb**
@@ -18720,9 +25764,13 @@ Nummer: 12773
     123 002 73 26
 
 
+
+
 **Hälsogårdens Ridcenter / Lovisa Nordström Andersson**
 
     123 502 12 82
+
+
 
 
 **Hälsohaket / Stella Harjapää**
@@ -18730,9 +25778,13 @@ Nummer: 12773
     123 204 34 53
 
 
+
+
 **Hälsohuset Skänninge**
 
     123 611 07 38
+
+
 
 
 **Hälsö BK**
@@ -18740,9 +25792,13 @@ Nummer: 12773
     123 344 37 44
 
 
+
+
 **Häradsbygdens Sportsällskap**
 
     123 131 46 73
+
+
 
 
 **Härjedalens Pastorat**
@@ -18750,9 +25806,13 @@ Nummer: 12773
     123 522 95 13
 
 
+
+
 **Härjedalens Pingstförsamling**
 
     123 167 44 56
+
+
 
 
 **Härjedalens Skateboardklubb**
@@ -18760,9 +25820,13 @@ Nummer: 12773
     123 567 63 17
 
 
+
+
 **Härkeberga Gille**
 
     123 458 95 94
+
+
 
 
 **Härkeberga Hund- & Katthotell / Härkeberga Konsulttjänst**
@@ -18770,9 +25834,13 @@ Nummer: 12773
     123 640 93 20
 
 
+
+
 **Härliga Hjörnered / Elver Åkesson**
 
     123 385 22 74
+
+
 
 
 **Härlunda-Bjärka Hembygdsförening**
@@ -18780,9 +25848,13 @@ Nummer: 12773
     123 514 12 88
 
 
+
+
 **Härnösand FC United**
 
     123 420 99 46
+
+
 
 
 **Härnösands Cykelklubb**
@@ -18790,9 +25862,13 @@ Nummer: 12773
     123 237 20 27
 
 
+
+
 **Härnösands Folkhögskola**
 
     123 264 35 75
+
+
 
 
 **Härnösands Kvinnojour**
@@ -18800,9 +25876,13 @@ Nummer: 12773
     123 524 25 73
 
 
+
+
 **Härnösands Musiksällskap**
 
     123 431 21 04
+
+
 
 
 **Härnösands Pastorat**
@@ -18822,9 +25902,13 @@ Nummer: 12773
     123 323 79 30 - Café Trädgårn
 
 
+
+
 **Härnösands Pistolskytteklubb, HPSK**
 
     123 061 36 20
+
+
 
 
 **Härnösands Simsällskap**
@@ -18832,9 +25916,13 @@ Nummer: 12773
     123 087 98 90
 
 
+
+
 **Härnösands VBK**
 
     123 500 46 27
+
+
 
 
 **Härryda IF**
@@ -18842,9 +25930,13 @@ Nummer: 12773
     123 371 56 04
 
 
+
+
 **Härryda Jaktvårdsförening**
 
     123 675 08 48
+
+
 
 
 **Härryda Scoutkår**
@@ -18852,9 +25944,13 @@ Nummer: 12773
     123 319 95 44
 
 
+
+
 **Hässelby Missionsförsamling**
 
     123 146 18 54
+
+
 
 
 **Hässelby Scoutkår**
@@ -18862,9 +25958,13 @@ Nummer: 12773
     123 601 52 91
 
 
+
+
 **Hässjö Baptistförsamling Ebeneser**
 
     123 044 74 82
+
+
 
 
 **Hässleholm Hovdala Vandrarförening**
@@ -18872,9 +25972,13 @@ Nummer: 12773
     123 422 64 11
 
 
+
+
 **Hässleholms BTK**
 
     123 580 12 79
+
+
 
 
 **Hässleholms CK**
@@ -18882,9 +25986,13 @@ Nummer: 12773
     123 321 27 19
 
 
+
+
 **Hässleholms Församling**
 
     123 313 91 44
+
+
 
 
 **Hässleholms Hästsportförening**
@@ -18892,9 +26000,13 @@ Nummer: 12773
     123 085 64 68
 
 
+
+
 **Hässleholms Ridhusförening**
 
     123 280 56 53
+
+
 
 
 **Hässleholms SMU**
@@ -18902,9 +26014,13 @@ Nummer: 12773
     123 276 83 64 - Equmenia
 
 
+
+
 **Hässlö Flygförening**
 
     123 304 59 37
+
+
 
 
 **Hästcraft Lyckebo Gård**
@@ -18912,9 +26028,13 @@ Nummer: 12773
     123 050 69 72
 
 
+
+
 **Hästhagens Ryttarförening i Billinge**
 
     123 296 84 77
+
+
 
 
 **Hästholmens Bygdegårdsförening**
@@ -18922,9 +26042,13 @@ Nummer: 12773
     123 515 25 66
 
 
+
+
 **Hästholmens Fiskeklubb, HFK**
 
     123 548 52 71
+
+
 
 
 **Hästravaganza AB**
@@ -18932,9 +26056,13 @@ Nummer: 12773
     123 547 34 91
 
 
+
+
 **Hästtjärns Fiske Handelsbolag**
 
     123 360 08 22
+
+
 
 
 **Hästveda Hembygdsförening**
@@ -18942,9 +26070,13 @@ Nummer: 12773
     123 195 97 58
 
 
+
+
 **Häståkeriet Djurgården AB**
 
     123 497 26 00
+
+
 
 
 **Häverö Brukshundsklubb**
@@ -18952,9 +26084,13 @@ Nummer: 12773
     123 363 50 00
 
 
+
+
 **Häverö-Edebo Hembygdsförening**
 
     123 137 86 29
+
+
 
 
 **Häverödals SK**
@@ -18968,9 +26104,13 @@ Nummer: 12773
     123 551 57 88 - Spåravgift
 
 
+
+
 **Hävla Sportklubb**
 
     123 266 47 61
+
+
 
 
 **Håbo Fotbollförening**
@@ -18978,9 +26118,13 @@ Nummer: 12773
     123 470 10 33
 
 
+
+
 **Håbo Internationella Kvinnors Förening - Systerskap utan gränser**
 
     123 464 25 18
+
+
 
 
 **Håbo Pastorat**
@@ -18988,9 +26132,13 @@ Nummer: 12773
     123 032 12 65
 
 
+
+
 **Håbo RK - Ridsport**
 
     123 653 66 84
+
+
 
 
 **Håbo Scoutkår**
@@ -18998,9 +26146,13 @@ Nummer: 12773
     123 036 29 70
 
 
+
+
 **Håbro IF - Fotboll**
 
     123 161 50 79
+
+
 
 
 **Håcksviks Hembygdsförening**
@@ -19008,9 +26160,13 @@ Nummer: 12773
     123 645 54 30
 
 
+
+
 **Håkans Hästtransporter / Stall Camino AB**
 
     123 562 28 81
+
+
 
 
 **Håknäs Bygdegårdsförening**
@@ -19018,9 +26174,13 @@ Nummer: 12773
     123 166 66 35
 
 
+
+
 **Hållnäs Skytteförening**
 
     123 398 56 94
+
+
 
 
 **Hållö Kapellförening**
@@ -19028,9 +26188,13 @@ Nummer: 12773
     123 091 66 50
 
 
+
+
 **Hånger Hembygdsförening**
 
     123 493 35 29
+
+
 
 
 **Hångers IF**
@@ -19038,9 +26202,13 @@ Nummer: 12773
     123 029 57 17
 
 
+
+
 **Håsjögården**
 
     123 148 26 86
+
+
 
 
 **Håsta IBK**
@@ -19048,9 +26216,13 @@ Nummer: 12773
     123 276 69 39
 
 
+
+
 **Håtuna Pistol & Sportskytteklubb, HPSSK**
 
     123 448 23 11
+
+
 
 
 **Håvens Bygdegårdförening**
@@ -19058,9 +26230,13 @@ Nummer: 12773
     123 147 81 89
 
 
+
+
 **Högadals IS**
 
     123 640 93 95
+
+
 
 
 **Högalid Församling**
@@ -19068,9 +26244,13 @@ Nummer: 12773
     123 120 45 77
 
 
+
+
 **Högalids Församling**
 
     123 286 20 92
+
+
 
 
 **Höganäs Båtsällskap**
@@ -19078,9 +26258,13 @@ Nummer: 12773
     123 681 63 75
 
 
+
+
 **Höganäs GF, HGF**
 
     123 059 41 43
+
+
 
 
 **Höganäs Golfklubb**
@@ -19088,9 +26272,13 @@ Nummer: 12773
     123 540 76 14
 
 
+
+
 **Höganäs Jujutsuklubb**
 
     123 071 30 08
+
+
 
 
 **Högbergskyrkans Församling**
@@ -19098,14 +26286,20 @@ Nummer: 12773
     123 419 62 26
 
 
+
+
 **Högbo Folkdansgille**
 
     123 670 12 05
 
 
+
+
 **Högbo GIF**
 
     123 430 76 66
+
+
 
 
 **Högbo Golfklubb**
@@ -19117,9 +26311,13 @@ Nummer: 12773
     123 422 84 09 - Klubbtävlingar
 
 
+
+
 **Högbo Ridklubb**
 
     123 351 68 95
+
+
 
 
 **Högdalens Budoklubb**
@@ -19127,9 +26325,13 @@ Nummer: 12773
     123 069 02 48
 
 
+
+
 **Högestad & Christinehof Förvaltnings AB**
 
     123 511 54 80
+
+
 
 
 **Höglandsnäs Byaförening**
@@ -19137,9 +26339,13 @@ Nummer: 12773
     123 065 74 94
 
 
+
+
 **Höglidenkyrkan Pingst Hudiksvall**
 
     123 024 14 14
+
+
 
 
 **Högs SK**
@@ -19147,9 +26353,13 @@ Nummer: 12773
     123 108 18 19
 
 
+
+
 **Högsbo Basket**
 
     123 188 51 77
+
+
 
 
 **Högsby Biodlarförening**
@@ -19157,9 +26367,13 @@ Nummer: 12773
     123 263 12 57
 
 
+
+
 **Högsby Sockens Hembygdsförening**
 
     123 233 93 72
+
+
 
 
 **Högsjö Församling**
@@ -19167,9 +26381,13 @@ Nummer: 12773
     123 259 48 10
 
 
+
+
 **Högskolan Dalarnas Fritidsförening**
 
     123 087 99 81
+
+
 
 
 **Högsrums Hembygdsförening**
@@ -19177,9 +26395,13 @@ Nummer: 12773
     123 373 78 97
 
 
+
+
 **Högsäters Kanotklubb**
 
     123 264 45 16
+
+
 
 
 **Högträsk Fiskevårdsområde**
@@ -19187,9 +26409,13 @@ Nummer: 12773
     123 672 18 56
 
 
+
+
 **Högvalta Bygdegårdförening**
 
     123 440 22 93
+
+
 
 
 **Höks Pastorat**
@@ -19197,9 +26423,13 @@ Nummer: 12773
     123 092 41 18
 
 
+
+
 **Hökåsens Scoutkår**
 
     123 019 03 97
+
+
 
 
 **Hölicks Hamns Samfällighetsförening**
@@ -19209,14 +26439,20 @@ Nummer: 12773
     123 528 45 18
 
 
+
+
 **Hönsa Bygdegårdsförening**
 
     123 635 03 83
 
 
+
+
 **Hönö IS**
 
     123 188 10 10
+
+
 
 
 **Hönö Missionsförsamling**
@@ -19226,9 +26462,13 @@ Nummer: 12773
     123 604 24 85 - Barn- och ungdomsverksamhet
 
 
+
+
 **Hönökonferensen / Hönö Missionsförsamling**
 
     123 521 88 96
+
+
 
 
 **Hörby Brukshundsklubb**
@@ -19236,9 +26476,13 @@ Nummer: 12773
     123 543 84 45
 
 
+
+
 **Hörby Cykelklubb**
 
     123 189 18 29
+
+
 
 
 **Hörby EFS**
@@ -19246,9 +26490,13 @@ Nummer: 12773
     123 031 07 55
 
 
+
+
 **Höreda GIF**
 
     123 218 03 96
+
+
 
 
 **Hörnsjö Intresseförening**
@@ -19256,9 +26504,13 @@ Nummer: 12773
     123 054 05 83
 
 
+
+
 **Hörselskadades Riksförbund**
 
     123 900 07 38 - Spontangåva
+
+
 
 
 **Hörselskadades Riksförbund Kristianstad**
@@ -19266,9 +26518,13 @@ Nummer: 12773
     123 520 04 07
 
 
+
+
 **Hörselskadades Riksförbund Kristinehamn**
 
     123 594 28 26
+
+
 
 
 **Hörselskadades Riksförbund Lidköping - Götene**
@@ -19276,9 +26532,13 @@ Nummer: 12773
     123 619 09 95
 
 
+
+
 **Hörsångs Camping & Havsbad AB**
 
     123 184 52 62
+
+
 
 
 **Hörvik-Krokås hembygdsförening**
@@ -19286,9 +26546,13 @@ Nummer: 12773
     123 043 76 73
 
 
+
+
 **Hörvikens IF**
 
     123 029 42 07
+
+
 
 
 **Hössna Församling**
@@ -19296,9 +26560,13 @@ Nummer: 12773
     123 158 38 30
 
 
+
+
 **Hössna IF**
 
     123 603 42 92
+
+
 
 
 **Höviksnäs Båtförening**
@@ -19306,9 +26574,13 @@ Nummer: 12773
     123 467 33 80
 
 
+
+
 **Höörs Församling**
 
     123 043 86 30
+
+
 
 
 **Höörs GDF Glada Gänget, Höörs Gammaldansförening**
@@ -19316,9 +26588,13 @@ Nummer: 12773
     123 473 40 59
 
 
+
+
 **Höörs HK H65**
 
     123 159 07 93 - P 09/10
+
+
 
 
 **Höörs Konståkningsförening - Konståkning**
@@ -19326,9 +26602,13 @@ Nummer: 12773
     123 668 66 04
 
 
+
+
 **Höörs Skytteförening**
 
     123 325 81 83
+
+
 
 
 
@@ -19340,9 +26620,13 @@ Nummer: 12773
     123 617 36 37
 
 
+
+
 **I kärlekens tecken**
 
     123 275 31 92
+
+
 
 
 **IA Bil AB**
@@ -19350,9 +26634,13 @@ Nummer: 12773
     123 570 79 55
 
 
+
+
 **IB Wahlström Konstnärsmaterial**
 
     123 209 64 51
+
+
 
 
 **IBF Antvarden**
@@ -19360,9 +26648,13 @@ Nummer: 12773
     123 594 84 68
 
 
+
+
 **IBF Falun**
 
     123 112 24 72
+
+
 
 
 **IBF Falun Ungdom**
@@ -19372,9 +26664,13 @@ Nummer: 12773
     123 345 76 78
 
 
+
+
 **IBF Falun Ungdom & Barn**
 
     123 190 27 25
+
+
 
 
 **IBF Frösön**
@@ -19382,9 +26678,13 @@ Nummer: 12773
     123 023 17 53
 
 
+
+
 **IBF Hedemora**
 
     123 221 46 74
+
+
 
 
 **IBF Horsby**
@@ -19392,9 +26692,13 @@ Nummer: 12773
     123 001 88 20
 
 
+
+
 **IBF Norrköping**
 
     123 087 78 11
+
+
 
 
 **IBF Roslagsalliansen**
@@ -19402,9 +26706,13 @@ Nummer: 12773
     123 267 14 51
 
 
+
+
 **IBF Säter**
 
     123 669 93 18
+
+
 
 
 **IBF Täby**
@@ -19412,9 +26720,13 @@ Nummer: 12773
     123 362 66 78
 
 
+
+
 **IBF Örebro Herr**
 
     123 155 47 40
+
+
 
 
 **IBF Örebro Ungdom**
@@ -19424,9 +26736,13 @@ Nummer: 12773
     123 561 48 13 - Damer Allsvenskan
 
 
+
+
 **IBK Alba**
 
     123 590 96 27
+
+
 
 
 **IBK Alingsås**
@@ -19434,9 +26750,13 @@ Nummer: 12773
     123 120 40 80
 
 
+
+
 **IBK Elfhög**
 
     123 312 46 90
+
+
 
 
 **IBK Husar**
@@ -19444,9 +26764,13 @@ Nummer: 12773
     123 444 28 28
 
 
+
+
 **IBK Köping**
 
     123 390 70 60
+
+
 
 
 **IBK Lidköping**
@@ -19454,9 +26778,13 @@ Nummer: 12773
     123 667 46 67
 
 
+
+
 **IBK Runsten**
 
     123 122 25 79
+
+
 
 
 **IBK Svala**
@@ -19464,9 +26792,13 @@ Nummer: 12773
     123 275 77 22
 
 
+
+
 **IBK Uppsala Teknologer**
 
     123 155 52 75
+
+
 
 
 **IBK Vänersborg**
@@ -19474,9 +26806,13 @@ Nummer: 12773
     123 602 51 42
 
 
+
+
 **IBK Östhammar Innebandy**
 
     123 323 64 94
+
+
 
 
 **IBRA Radio Federation**
@@ -19484,9 +26820,13 @@ Nummer: 12773
     123 900 07 61
 
 
+
+
 **Ichiban Karate Perstorp**
 
     123 483 88 76
+
+
 
 
 **Iconic Events STHLM AB**
@@ -19494,9 +26834,13 @@ Nummer: 12773
     123 443 42 47 - Future Stars
 
 
+
+
 **Icons FC Arvika**
 
     123 244 98 17
+
+
 
 
 **Idéburen Utveckling**
@@ -19504,9 +26848,13 @@ Nummer: 12773
     123 513 46 14
 
 
+
+
 **Idag i historien / Nils Hjort, Enhjort AB**
 
     123 447 83 27
+
+
 
 
 **Idda Consulting**
@@ -19514,9 +26862,13 @@ Nummer: 12773
     123 600 43 03
 
 
+
+
 **Ideella bildelareföreningen Sambil**
 
     123 204 14 73
+
+
 
 
 **Idre SK**
@@ -19524,9 +26876,13 @@ Nummer: 12773
     123 580 71 77
 
 
+
+
 **Idre-Särna Församling**
 
     123 281 11 72
+
+
 
 
 **Idrefjällens Orienteringsklubb**
@@ -19534,9 +26890,13 @@ Nummer: 12773
     123 444 12 59
 
 
+
+
 **Idrottens Idrottsförening - Korpen**
 
     123 091 52 23
+
+
 
 
 **Idrottsföreningen Linné**
@@ -19544,9 +26904,13 @@ Nummer: 12773
     123 566 32 99
 
 
+
+
 **Idrottsföreningen Linnéa**
 
     123 347 63 89
+
+
 
 
 **Idrottsgalans Insamlingsstiftelse Fair Play**
@@ -19554,9 +26918,13 @@ Nummer: 12773
     123 497 19 41
 
 
+
+
 **Idrottsklubben Studenterna I Umeå IKSU**
 
     123 237 15 08
+
+
 
 
 **Idrottsklubben Surd**
@@ -19564,9 +26932,13 @@ Nummer: 12773
     123 651 29 33
 
 
+
+
 **Idrottssällskapet Uppsala Norra, ISUN**
 
     123 345 64 31
+
+
 
 
 **Idåsen IF**
@@ -19574,9 +26946,13 @@ Nummer: 12773
     123 162 56 07
 
 
+
+
 **IF Aerostep Company - Korpen**
 
     123 512 89 70
+
+
 
 
 **IF Ale**
@@ -19584,9 +26960,13 @@ Nummer: 12773
     123 669 63 71
 
 
+
+
 **IF Ariel**
 
     123 182 94 31
+
+
 
 
 **IF Bodens Petanque**
@@ -19594,9 +26974,13 @@ Nummer: 12773
     123 162 30 40
 
 
+
+
 **IF Boule 14**
 
     123 307 06 04
+
+
 
 
 **IF Castor Östersund**
@@ -19604,9 +26988,13 @@ Nummer: 12773
     123 494 35 10
 
 
+
+
 **IF Eker Örebro**
 
     123 548 23 44
+
+
 
 
 **IF Göta Karlstad**
@@ -19614,9 +27002,13 @@ Nummer: 12773
     123 149 39 31
 
 
+
+
 **IF Hagen Skidklubb**
 
     123 520 05 55
+
+
 
 
 **IF Hallby SOK**
@@ -19626,9 +27018,13 @@ Nummer: 12773
     123 691 96 66
 
 
+
+
 **IF Kil**
 
     123 189 62 65
+
+
 
 
 **IF Leikin**
@@ -19636,9 +27032,13 @@ Nummer: 12773
     123 299 99 51
 
 
+
+
 **IF Marin Väst - Orientering**
 
     123 271 31 39
+
+
 
 
 **IF Mölndal Hockey**
@@ -19646,9 +27046,13 @@ Nummer: 12773
     123 653 42 75
 
 
+
+
 **IF Nerike**
 
     123 580 99 83
+
+
 
 
 **IF Norvalla**
@@ -19656,9 +27060,13 @@ Nummer: 12773
     123 161 12 68
 
 
+
+
 **IF Nyedshov**
 
     123 575 28 78
+
+
 
 
 **IF Roslagen SOL**
@@ -19666,9 +27074,13 @@ Nummer: 12773
     123 036 62 45
 
 
+
+
 **IF Salamis**
 
     123 596 60 49
+
+
 
 
 **IF Sundsvall Hockey**
@@ -19678,14 +27090,20 @@ Nummer: 12773
     123 699 24 65
 
 
+
+
 **IF Team Hudik**
 
     123 589 70 38
 
 
+
+
 **IF Trion**
 
     123 128 35 06
+
+
 
 
 **IF Troja-Ljungby**
@@ -19695,9 +27113,13 @@ Nummer: 12773
     123 352 56 56
 
 
+
+
 **IF Tymer**
 
     123 441 86 38
+
+
 
 
 **IF Väster**
@@ -19707,9 +27129,13 @@ Nummer: 12773
     123 260 36 86
 
 
+
+
 **IF Weimer Lyrestad**
 
     123 001 78 48
+
+
 
 
 **IF Åsen**
@@ -19717,9 +27143,13 @@ Nummer: 12773
     123 505 96 88
 
 
+
+
 **IF Örnen**
 
     123 092 77 64
+
+
 
 
 **IFK Anderstorp**
@@ -19735,9 +27165,13 @@ Nummer: 12773
     123 675 46 42 - 08-09 Mix
 
 
+
+
 **IFK Arboga IBK**
 
     123 106 56 71
+
+
 
 
 **IFK Arvidsjaur FK**
@@ -19747,14 +27181,20 @@ Nummer: 12773
     123 605 74 75 - F-12/13
 
 
+
+
 **IFK Arvidsjaur Skidor**
 
     123 699 12 69
 
 
+
+
 **IFK Bergshamra**
 
     123 063 73 30
+
+
 
 
 **IFK Björkö**
@@ -19764,6 +27204,8 @@ Nummer: 12773
     123 694 70 22
 
 
+
+
 **IFK Borås**
 
     123 179 07 73
@@ -19771,14 +27213,20 @@ Nummer: 12773
     123 440 54 45
 
 
+
+
 **IFK Dannemora-Österby**
 
     123 122 77 43
 
 
+
+
 **IFK Emtunga**
 
     123 259 84 49
+
+
 
 
 **IFK Eskilstuna**
@@ -19792,9 +27240,13 @@ Nummer: 12773
     123 481 41 09 - P12
 
 
+
+
 **IFK Falköping BTK**
 
     123 693 02 00
+
+
 
 
 **IFK Falköping Fotboll**
@@ -19802,9 +27254,13 @@ Nummer: 12773
     123 571 66 91
 
 
+
+
 **IFK Fjärås**
 
     123 468 80 73
+
+
 
 
 **IFK Grimslöv**
@@ -19814,9 +27270,13 @@ Nummer: 12773
     123 182 30 12
 
 
+
+
 **IFK Grängesberg Skidklubb**
 
     123 477 95 34
+
+
 
 
 **IFK Grängesbergs FK**
@@ -19824,9 +27284,13 @@ Nummer: 12773
     123 459 95 36
 
 
+
+
 **IFK Göteborg**
 
     123 180 11 90
+
+
 
 
 **IFK Hammarö**
@@ -19834,9 +27298,13 @@ Nummer: 12773
     123 614 00 40
 
 
+
+
 **IFK Hedemora FK**
 
     123 696 86 55
+
+
 
 
 **IFK Hedemora Orienteringsklubb**
@@ -19844,9 +27312,13 @@ Nummer: 12773
     123 201 31 42
 
 
+
+
 **IFK Kalmar**
 
     123 281 82 01
+
+
 
 
 **IFK Karlskrona**
@@ -19854,9 +27326,13 @@ Nummer: 12773
     123 090 78 08
 
 
+
+
 **IFK Kiruna**
 
     123 338 30 72
+
+
 
 
 **IFK Knislinge**
@@ -19864,9 +27340,13 @@ Nummer: 12773
     123 112 10 86
 
 
+
+
 **IFK Kristianstad**
 
     123 120 52 77
+
+
 
 
 **IFK Kristianstad Adolf J:s Stiftelse**
@@ -19874,9 +27354,13 @@ Nummer: 12773
     123 101 07 76
 
 
+
+
 **IFK Kungälv**
 
     123 420 66 52
+
+
 
 
 **IFK Kättbo**
@@ -19884,9 +27368,13 @@ Nummer: 12773
     123 510 49 71
 
 
+
+
 **IFK Lammhult**
 
     123 596 69 57
+
+
 
 
 **IFK Lidingö Konståkningsklubb**
@@ -19894,14 +27382,20 @@ Nummer: 12773
     123 247 65 96
 
 
+
+
 **IFK Lidingö Skid- och orienteringsklubb**
 
     123 000 47 13
 
 
+
+
 **IFK Lidingö Slalomklubb**
 
     123 213 71 56
+
+
 
 
 **IFK Lindesberg**
@@ -19913,14 +27407,20 @@ Nummer: 12773
     123 544 60 26 - Lotter
 
 
+
+
 **IFK Linköpings Boxningsklubb**
 
     123 395 60 00
 
 
+
+
 **IFK Luleå**
 
     123 699 27 47
+
+
 
 
 **IFK Mariefred**
@@ -19934,9 +27434,13 @@ Nummer: 12773
     123 651 17 11
 
 
+
+
 **IFK Mora Friidrottsklubb**
 
     123 007 51 27
+
+
 
 
 **IFK Mora Orienteringsklubb**
@@ -19944,9 +27448,13 @@ Nummer: 12773
     123 480 49 51
 
 
+
+
 **IFK Mora Skidklubb**
 
     123 350 21 01
+
+
 
 
 **IFK Motala Bandy**
@@ -19954,14 +27462,20 @@ Nummer: 12773
     123 288 51 84
 
 
+
+
 **IFK Motala FK**
 
     123 278 75 70
 
 
+
+
 **IFK Munkfors**
 
     123 442 85 61
+
+
 
 
 **IFK Norrköping**
@@ -19971,6 +27485,8 @@ Nummer: 12773
     123 262 48 15
 
     123 307 79 22
+
+
 
 
 **IFK Nyköping**
@@ -19986,9 +27502,13 @@ Nummer: 12773
     123 581 49 18 - P16
 
 
+
+
 **IFK Ore Hockey**
 
     123 084 51 98
+
+
 
 
 **IFK Påryd**
@@ -19996,9 +27516,13 @@ Nummer: 12773
     123 133 97 95
 
 
+
+
 **IFK Rättvik**
 
     123 170 36 44
+
+
 
 
 **IFK Skoghall**
@@ -20006,9 +27530,13 @@ Nummer: 12773
     123 562 67 75
 
 
+
+
 **IFK Skoghall**
 
     123 465 94 13 - Dam
+
+
 
 
 **IFK Skoghall Dam**
@@ -20016,9 +27544,13 @@ Nummer: 12773
     123 319 19 54 - F2007
 
 
+
+
 **IFK Skövde FK**
 
     123 513 81 69
+
+
 
 
 **IFK Skövde HK**
@@ -20026,9 +27558,13 @@ Nummer: 12773
     123 339 69 75
 
 
+
+
 **IFK Skövde SK**
 
     123 049 04 25
+
+
 
 
 **IFK Sunne**
@@ -20036,9 +27572,13 @@ Nummer: 12773
     123 476 07 57
 
 
+
+
 **IFK Tidaholm**
 
     123 615 79 94
+
+
 
 
 **IFK Trelleborg**
@@ -20046,9 +27586,13 @@ Nummer: 12773
     123 213 62 65
 
 
+
+
 **IFK Trelleborg Friidrottsklubb - Friidrott**
 
     123 099 75 85
+
+
 
 
 **IFK Trollhättan**
@@ -20056,9 +27600,13 @@ Nummer: 12773
     123 695 85 32
 
 
+
+
 **IFK Tumba FK**
 
     123 226 77 22
+
+
 
 
 **IFK Tumba Friidrott**
@@ -20066,9 +27614,13 @@ Nummer: 12773
     123 068 03 71
 
 
+
+
 **IFK Täby KK**
 
     123 668 74 53
+
+
 
 
 **IFK Uddevalla**
@@ -20076,9 +27628,13 @@ Nummer: 12773
     123 399 09 59
 
 
+
+
 **IFK Vaxholm**
 
     123 442 39 43
+
+
 
 
 **IFK Västerås FK**
@@ -20086,9 +27642,13 @@ Nummer: 12773
     123 512 35 75
 
 
+
+
 **IFK Wreta Kloster**
 
     123 602 30 89
+
+
 
 
 **IFK Ystad Handbollsklubb**
@@ -20096,9 +27656,13 @@ Nummer: 12773
     123 381 17 67
 
 
+
+
 **IFK Ås**
 
     123 395 50 36
+
+
 
 
 **IFK Örby**
@@ -20106,9 +27670,13 @@ Nummer: 12773
     123 331 94 15
 
 
+
+
 **IFK Örebro Handboll**
 
     123 467 78 86
+
+
 
 
 **IFK Östersund**
@@ -20116,9 +27684,13 @@ Nummer: 12773
     123 466 49 26
 
 
+
+
 **IFS Centrala Stockholm**
 
     123 337 80 15
+
+
 
 
 **Ifö Bromölla IF**
@@ -20126,9 +27698,13 @@ Nummer: 12773
     123 158 57 77
 
 
+
+
 **Igelstorp IK**
 
     123 274 18 90
+
+
 
 
 **Iggesunds IK**
@@ -20136,9 +27712,13 @@ Nummer: 12773
     123 351 43 12
 
 
+
+
 **Ignaberga Medborgarhus**
 
     123 580 43 49
+
+
 
 
 **IHusbil**
@@ -20146,14 +27726,20 @@ Nummer: 12773
     123 300 69 39
 
 
+
+
 **IK Akele**
 
     123 369 93 94
 
 
+
+
 **IK Argo**
 
     123 079 37 94
+
+
 
 
 **IK Brage**
@@ -20165,9 +27751,13 @@ Nummer: 12773
     123 219 64 83 - Biljetter
 
 
+
+
 **IK Franke**
 
     123 148 14 23
+
+
 
 
 **IK Frisco**
@@ -20175,9 +27765,13 @@ Nummer: 12773
     123 338 40 70
 
 
+
+
 **IK Friscopojkarna**
 
     123 388 40 70 - Typo?
+
+
 
 
 **IK Fyris Uppsala**
@@ -20185,9 +27779,13 @@ Nummer: 12773
     123 510 68 51 - Curling
 
 
+
+
 **IK Gandvik**
 
     123 081 02 75
+
+
 
 
 **IK Gauthiod**
@@ -20199,9 +27797,13 @@ Nummer: 12773
     123 542 25 55 - Medlemskläder
 
 
+
+
 **IK Granit**
 
     123 199 48 21
+
+
 
 
 **IK Guts Finspång**
@@ -20209,9 +27811,13 @@ Nummer: 12773
     123 335 61 51
 
 
+
+
 **IK Hephata**
 
     123 249 47 63
+
+
 
 
 **IK Juno**
@@ -20219,9 +27825,13 @@ Nummer: 12773
     123 497 12 30
 
 
+
+
 **IK Kamp**
 
     123 619 18 60
+
+
 
 
 **IK Kongahälla**
@@ -20231,9 +27841,13 @@ Nummer: 12773
     123 510 72 06
 
 
+
+
 **IK Makkabi**
 
     123 296 52 83
+
+
 
 
 **IK Oddevold**
@@ -20241,9 +27855,13 @@ Nummer: 12773
     123 237 35 12
 
 
+
+
 **IK Oden**
 
     123 441 34 31
+
+
 
 
 **IK Pandora FF**
@@ -20251,14 +27869,20 @@ Nummer: 12773
     123 145 90 15
 
 
+
+
 **IK Pantern**
 
     123 405 75 76
 
 
+
+
 **IK Rex**
 
     123 272 15 95
+
+
 
 
 **IK Rössö Uddevalla**
@@ -20280,9 +27904,13 @@ Nummer: 12773
     123 687 70 70 - Föreningen
 
 
+
+
 **IK Scania**
 
     123 021 18 21
+
+
 
 
 **IK Segro**
@@ -20290,9 +27918,13 @@ Nummer: 12773
     123 420 16 20
 
 
+
+
 **IK Sirius IBK**
 
     123 213 46 25
+
+
 
 
 **IK Sisu - Friidrott**
@@ -20300,9 +27932,13 @@ Nummer: 12773
     123 121 54 17
 
 
+
+
 **IK Sleipner**
 
     123 589 46 47
+
+
 
 
 **IK Spring Väst**
@@ -20310,9 +27946,13 @@ Nummer: 12773
     123 026 41 01
 
 
+
+
 **IK Stern**
 
     123 303 18 61
+
+
 
 
 **IK Sturehov**
@@ -20324,14 +27964,20 @@ Nummer: 12773
     123 564 65 26 - P2017
 
 
+
+
 **IK Stål**
 
     123 563 95 70
 
 
+
+
 **IK Sävehof**
 
     123 644 38 24
+
+
 
 
 **IK Tun**
@@ -20347,9 +27993,13 @@ Nummer: 12773
     123 698 28 39 - P-11
 
 
+
+
 **IK Uven**
 
     123 043 91 90
+
+
 
 
 **IK VAVD**
@@ -20357,9 +28007,13 @@ Nummer: 12773
     123 378 49 72
 
 
+
+
 **IK Waxholm**
 
     123 213 67 29
+
+
 
 
 **IK Wormo**
@@ -20367,9 +28021,13 @@ Nummer: 12773
     123 514 00 33
 
 
+
+
 **IK Ymer**
 
     123 550 29 50
+
+
 
 
 **IK Österviking**
@@ -20377,9 +28035,13 @@ Nummer: 12773
     123 551 01 44
 
 
+
+
 **IKHP Huskvarna**
 
     123 393 03 44
+
+
 
 
 **Ikigaivision of Sweden AB**
@@ -20387,9 +28049,13 @@ Nummer: 12773
     123 228 02 61
 
 
+
+
 **IKJ Haninge**
 
     123 187 30 90
+
+
 
 
 **Ikon Events, Ikon Sweden / Kamal Deep Singh Sahni**
@@ -20397,9 +28063,13 @@ Nummer: 12773
     123 619 78 34
 
 
+
+
 **Ikonverkstaden på Kållandsö AB**
 
     123 144 25 32
+
+
 
 
 **IKTYOS föreningen**
@@ -20407,9 +28077,13 @@ Nummer: 12773
     123 668 73 05
 
 
+
+
 **Ilsbo Hembygdsförening**
 
     123 365 34 09
+
+
 
 
 **Ilsbo SK**
@@ -20417,9 +28091,13 @@ Nummer: 12773
     123 198 86 41
 
 
+
+
 **IM Individuell Människohjälp/Swedish Development Partner**
 
     123 900 70 63
+
+
 
 
 **Imam Ali Islamic Center**
@@ -20427,9 +28105,13 @@ Nummer: 12773
     123 196 30 24
 
 
+
+
 **IMK / Maria Karlsson**
 
     123 268 34 15
+
+
 
 
 **Immanuelskyrkan Borås**
@@ -20437,9 +28119,13 @@ Nummer: 12773
     123 174 26 26
 
 
+
+
 **Immanuelskyrkan Halmstad**
 
     123 232 90 27
+
+
 
 
 **Immanuelskyrkan i Örebro**
@@ -20447,9 +28133,13 @@ Nummer: 12773
     123 199 39 55 - församlingsverksamheten
 
 
+
+
 **Immanuelskyrkans Församling Jönköping**
 
     123 006 77 69
+
+
 
 
 **immas / Ing-Mari Turesson**
@@ -20457,9 +28147,13 @@ Nummer: 12773
     123 161 74 55
 
 
+
+
 **Immetorp BK**
 
     123 162 95 00
+
+
 
 
 **Indals IF**
@@ -20467,9 +28161,13 @@ Nummer: 12773
     123 521 76 82
 
 
+
+
 **Indals-Lidens SK**
 
     123 209 36 15
+
+
 
 
 **Indian Motorcycle Club Sweden**
@@ -20477,14 +28175,20 @@ Nummer: 12773
     123 600 37 92
 
 
+
+
 **Indo-Swedish Rheumatology Foundation, ISRF**
 
     123 467 50 47
 
 
+
+
 **Indra Queer, Trans & Tjejjour**
 
     123 299 39 88
+
+
 
 
 **Infjärdens SK**
@@ -20502,9 +28206,13 @@ Nummer: 12773
     123 618 51 51
 
 
+
+
 **Ingareds byalag**
 
     123 687 98 94
+
+
 
 
 **Ingarö Golfklubb**
@@ -20512,9 +28220,13 @@ Nummer: 12773
     123 305 79 08
 
 
+
+
 **Ingarö IF**
 
     123 149 29 66
+
+
 
 
 **IngelaVocalis**
@@ -20522,9 +28234,13 @@ Nummer: 12773
     123 603 49 53
 
 
+
+
 **Ingelsbo Bygdegårds- och Fritidsförening**
 
     123 197 59 11
+
+
 
 
 **Ingelstad IBK**
@@ -20534,9 +28250,13 @@ Nummer: 12773
     123 607 13 10
 
 
+
+
 **Ingelstadgymnasiet / H S Naturbruksgymnasium AB**
 
     123 617 15 08 - Ridhuskort
+
+
 
 
 **Ingen Människa är Illegal - Göteborg**
@@ -20544,9 +28264,13 @@ Nummer: 12773
     123 395 66 20
 
 
+
+
 **Ingen Människa är Illegal - Stockholm**
 
     123 152 49 58
+
+
 
 
 **Ingen Människa är Illegal - Trollhättan och Vänersborg**
@@ -20554,9 +28278,13 @@ Nummer: 12773
     123 388 17 52
 
 
+
+
 **Ingen Människa är Illegal - Umeå**
 
     123 068 18 66
+
+
 
 
 **Ingen Människa är Illegal - Östersund**
@@ -20564,14 +28292,20 @@ Nummer: 12773
     123 137 64 90
 
 
+
+
 **Ingenjörer utan Gränser**
 
     123 900 68 42
 
 
+
+
 **Ingmarsspelen**
 
     123 307 56 52
+
+
 
 
 **Ingmarsö Bygdegårdsförening**
@@ -20581,9 +28315,13 @@ Nummer: 12773
     123 615 78 79 - Byalaget
 
 
+
+
 **Ingrid & Maria / Tryckfrihetssällskapet**
 
     123 587 22 54
+
+
 
 
 **Ingrid Unsöld**
@@ -20591,9 +28329,13 @@ Nummer: 12773
     123 296 77 76
 
 
+
+
 **Ingvallsbenning Turbo hembygdsförening**
 
     123 350 46 93
+
+
 
 
 **Inlands Folkdansare**
@@ -20601,9 +28343,13 @@ Nummer: 12773
     123 063 90 05
 
 
+
+
 **Inlands Släktforskare**
 
     123 010 07 43
+
+
 
 
 **Inlandsbanans Vänner IBV**
@@ -20611,9 +28357,13 @@ Nummer: 12773
     123 261 09 39
 
 
+
+
 **INRI Church**
 
     123 033 71 39
+
+
 
 
 **Insamlingsfonden Bissen Brainwalk**
@@ -20621,9 +28371,13 @@ Nummer: 12773
     123 900 41 44
 
 
+
+
 **Insamlingsstiftelse Respira**
 
     123 305 50 50
+
+
 
 
 **Insamlingsstiftelsen 1000 Möjligheter**
@@ -20633,9 +28387,13 @@ Nummer: 12773
     123 900 76 83
 
 
+
+
 **Insamlingsstiftelsen 2022 Initiative Foundation**
 
     123 259 00 24
+
+
 
 
 **Insamlingsstiftelsen Akademiska Sjukhusets Barnfond**
@@ -20643,9 +28401,13 @@ Nummer: 12773
     123 900 06 70
 
 
+
+
 **Insamlingsstiftelsen Alois Alzheim**
 
     123 348 98 46
+
+
 
 
 **Insamlingsstiftelsen Alzheimerfonden**
@@ -20653,9 +28415,13 @@ Nummer: 12773
     123 901 11 98
 
 
+
+
 **Insamlingsstiftelsen Ankaret**
 
     123 901 40 10
+
+
 
 
 **Insamlingsstiftelsen Baltic Waters**
@@ -20663,14 +28429,20 @@ Nummer: 12773
     123 900 77 90
 
 
+
+
 **Insamlingsstiftelsen BarnSamariten**
 
     123 901 13 05
 
 
+
+
 **Insamlingsstiftelsen Blåljus**
 
     123 618 02 69
+
+
 
 
 **Insamlingsstiftelsen Blåljus i Samverkan**
@@ -20680,9 +28452,13 @@ Nummer: 12773
     123 184 91 73
 
 
+
+
 **Insamlingsstiftelsen Bohus Fästning**
 
     123 432 85 48
+
+
 
 
 **Insamlingsstiftelsen Brandmännens Cancerfond**
@@ -20690,9 +28466,13 @@ Nummer: 12773
     123 130 54 81
 
 
+
+
 **Insamlingsstiftelsen Bygdens Fond**
 
     123 364 52 72
+
+
 
 
 **Insamlingsstiftelsen Caminul Felix**
@@ -20702,9 +28482,13 @@ Nummer: 12773
     123 900 64 95
 
 
+
+
 **Insamlingsstiftelsen Cancer- och Allergifonden**
 
     123 900 36 09
+
+
 
 
 **Insamlingsstiftelsen Cancerforskningsfonden i Norrland**
@@ -20712,9 +28496,13 @@ Nummer: 12773
     123 900 26 68
 
 
+
+
 **Insamlingsstiftelsen Chickas Minnesfond**
 
     123 900 63 62
+
+
 
 
 **Insamlingsstiftelsen ChildFriend**
@@ -20722,9 +28510,13 @@ Nummer: 12773
     123 900 42 68
 
 
+
+
 **Insamlingsstiftelsen Choice**
 
     123 900 56 61
+
+
 
 
 **Insamlingsstiftelsen Diabetes Wellness Network Sverige**
@@ -20732,9 +28524,13 @@ Nummer: 12773
     123 900 11 65
 
 
+
+
 **Insamlingsstiftelsen Din Gåva**
 
     123 215 84 18
+
+
 
 
 **Insamlingsstiftelsen DOKU**
@@ -20742,9 +28538,13 @@ Nummer: 12773
     123 257 08 44
 
 
+
+
 **Insamlingsstiftelsen Drottning Silvias Barnsjukhus**
 
     123 900 83 43
+
+
 
 
 **Insamlingsstiftelsen Ebbas Änglar**
@@ -20752,9 +28552,13 @@ Nummer: 12773
     123 546 81 52
 
 
+
+
 **Insamlingsstiftelsen Ellas Hjältar**
 
     123 382 48 77
+
+
 
 
 **Insamlingsstiftelsen Emma & Therese Children’s Project**
@@ -20762,9 +28566,13 @@ Nummer: 12773
     123 476 39 83
 
 
+
+
 **Insamlingsstiftelsen Erikshjälpen, Farbror Eriks barn- och hjälpverksamhet**
 
     123 900 92 83
+
+
 
 
 **Insamlingsstiftelsen European MS Foundation, EMSF**
@@ -20772,9 +28580,13 @@ Nummer: 12773
     123 900 13 89
 
 
+
+
 **Insamlingsstiftelsen Fogelstad**
 
     123 053 70 01
+
+
 
 
 **Insamlingsstiftelsen Framtidens Natur & Kulturarv**
@@ -20782,14 +28594,20 @@ Nummer: 12773
     123 900 78 32
 
 
+
+
 **Insamlingsstiftelsen Födelsefonden**
 
     123 900 79 31
 
 
+
+
 **Insamlingsstiftelsen För Abrigo Rainha Silvia**
 
     123 904 04 52
+
+
 
 
 **Insamlingsstiftelsen för Kevins Minne**
@@ -20799,6 +28617,8 @@ Nummer: 12773
     123 382 92 07
 
 
+
+
 **Insamlingsstiftelsen för medicinsk forskning vid Umeå universitet**
 
     123 618 24 63 - Infektionsforskning
@@ -20806,9 +28626,13 @@ Nummer: 12773
     123 618 25 21 - Medicinsk forskning
 
 
+
+
 **Insamlingsstiftelsen för MS Forskning**
 
     123 900 20 07
+
+
 
 
 **Insamlingsstiftelsen för Muskeldystrofiforskning**
@@ -20816,9 +28640,13 @@ Nummer: 12773
     123 091 63 20
 
 
+
+
 **Insamlingsstiftelsen för Resurssmart**
 
     123 239 12 17
+
+
 
 
 **Insamlingsstiftelsen för Tobias Forsberg**
@@ -20828,9 +28656,13 @@ Nummer: 12773
     123 474 48 19
 
 
+
+
 **Insamlingsstiftelsen Good Foundation**
 
     123 900 43 67
+
+
 
 
 **Insamlingsstiftelsen Göran Larssons Jubileumsfond**
@@ -20838,9 +28670,13 @@ Nummer: 12773
     123 087 24 24
 
 
+
+
 **Insamlingsstiftelsen Help to Help**
 
     123 900 54 06
+
+
 
 
 **Insamlingsstiftelsen Hepatica**
@@ -20848,9 +28684,13 @@ Nummer: 12773
     123 276 97 01
 
 
+
+
 **Insamlingsstiftelsen Her House Foundation**
 
     123 582 25 23
+
+
 
 
 **Insamlingsstiftelsen Hjälp Margit Hjälpa**
@@ -20858,9 +28698,13 @@ Nummer: 12773
     123 900 02 66
 
 
+
+
 **Insamlingsstiftelsen Hjärnfonden**
 
     123 901 12 55
+
+
 
 
 **Insamlingsstiftelsen HOPE Worldwide Sweden**
@@ -20868,9 +28712,13 @@ Nummer: 12773
     123 533 66 31
 
 
+
+
 **Insamlingsstiftelsen Hudfonden**
 
     123 077 86 88
+
+
 
 
 **Insamlingsstiftelsen Human Practice Foundation Sweden**
@@ -20878,9 +28726,13 @@ Nummer: 12773
     123 900 81 37
 
 
+
+
 **Insamlingsstiftelsen Humanisthjälpen Humanist Aid Sweden**
 
     123 900 27 91
+
+
 
 
 **Insamlingsstiftelsen Hållbar utveckling samt Kris och Beredskap**
@@ -20888,9 +28740,13 @@ Nummer: 12773
     123 534 87 01
 
 
+
+
 **Insamlingsstiftelsen Impande Foundation Sweden**
 
     123 900 69 82
+
+
 
 
 **Insamlingsstiftelsen Indian Children - Birgitta Ekmans fond för barn i Indien**
@@ -20900,9 +28756,13 @@ Nummer: 12773
     123 900 18 43
 
 
+
+
 **Insamlingsstiftelsen JLOF (Jeremiah Lucas Opira Foundation) Sweden**
 
     123 900 41 02
+
+
 
 
 **Insamlingsstiftelsen Jämtlands läns Cancer- och Omvårdnadsfond**
@@ -20910,9 +28770,13 @@ Nummer: 12773
     123 902 00 25
 
 
+
+
 **Insamlingsstiftelsen Kattjouren**
 
     123 182 56 03
+
+
 
 
 **Insamlingsstiftelsen Kurdiska Röda Solen**
@@ -20920,9 +28784,13 @@ Nummer: 12773
     123 179 04 76
 
 
+
+
 **Insamlingsstiftelsen Kurdiska Röda Solen (Roja Sor a Kurdistanê)**
 
     123 401 38 68
+
+
 
 
 **Insamlingsstiftelsen Kvinna till Kvinna**
@@ -20930,9 +28798,13 @@ Nummer: 12773
     123 901 80 03
 
 
+
+
 **Insamlingsstiftelsen Kvinnor och Hälsa - Kvinna mitt i livet**
 
     123 900 15 20
+
+
 
 
 **Insamlingsstiftelsen Life After Racing**
@@ -20940,9 +28812,13 @@ Nummer: 12773
     123 115 59 85
 
 
+
+
 **Insamlingsstiftelsen Lions Cancerforskningsfond i Västra Sverige**
 
     123 900 19 26
+
+
 
 
 **Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-Örebro**
@@ -20950,9 +28826,13 @@ Nummer: 12773
     123 900 67 84
 
 
+
+
 **Insamlingsstiftelsen Lions fond för medicinsk forskning inom Skåne**
 
     123 900 28 66
+
+
 
 
 **Insamlingsstiftelsen Lärargalan**
@@ -20960,9 +28840,13 @@ Nummer: 12773
     123 434 00 22
 
 
+
+
 **Insamlingsstiftelsen Läxhjälpen**
 
     123 900 55 54
+
+
 
 
 **Insamlingsstiftelsen 'Mag-tarmfonden' för Gastroenterologisk och Hepatologisk Forskning**
@@ -20970,9 +28854,13 @@ Nummer: 12773
     123 900 47 55
 
 
+
+
 **Insamlingsstiftelsen Magnoliabarnen**
 
     123 558 43 39
+
+
 
 
 **Insamlingsstiftelsen Mellannorrlands Hospice**
@@ -20980,9 +28868,13 @@ Nummer: 12773
     123 900 65 78
 
 
+
+
 **Insamlingsstiftelsen Midnattssolens Trädgård**
 
     123 035 00 33
+
+
 
 
 **Insamlingsstiftelsen Mitt Fadderbarn**
@@ -20990,9 +28882,13 @@ Nummer: 12773
     123 900 47 63
 
 
+
+
 **Insamlingsstiftelsen Mot Barncancer**
 
     123 243 83 98
+
+
 
 
 **Insamlingsstiftelsen Motus Vitae**
@@ -21000,9 +28896,13 @@ Nummer: 12773
     123 531 20 87
 
 
+
+
 **Insamlingsstiftelsen Nanne Network**
 
     123 473 43 31
+
+
 
 
 **Insamlingsstiftelsen Naturarvet**
@@ -21010,9 +28910,13 @@ Nummer: 12773
     123 901 11 72
 
 
+
+
 **Insamlingsstiftelsen Naturstiftelsen**
 
     123 178 25 31
+
+
 
 
 **Insamlingsstiftelsen Njurfonden**
@@ -21020,9 +28924,13 @@ Nummer: 12773
     123 900 36 74
 
 
+
+
 **Insamlingsstiftelsen NRC Flyktinghjälpen Sverige**
 
     123 900 58 10
+
+
 
 
 **Insamlingsstiftelsen Operation Smile Sverige II**
@@ -21030,9 +28938,13 @@ Nummer: 12773
     123 900 22 21
 
 
+
+
 **Insamlingsstiftelsen Oxfam Sverige**
 
     123 900 37 24
+
+
 
 
 **Insamlingsstiftelsen Perus Vänner**
@@ -21040,9 +28952,13 @@ Nummer: 12773
     123 900 57 60
 
 
+
+
 **Insamlingsstiftelsen Power Woman Foundation**
 
     123 416 11 88
+
+
 
 
 **Insamlingsstiftelsen Project Playground**
@@ -21050,9 +28966,13 @@ Nummer: 12773
     123 900 71 39
 
 
+
+
 **Insamlingsstiftelsen Regnbågsfonden**
 
     123 900 55 21
+
+
 
 
 **Insamlingsstiftelsen Rewilding Europe - Sweden**
@@ -21060,9 +28980,13 @@ Nummer: 12773
     123 516 12 29
 
 
+
+
 **Insamlingsstiftelsen RFSL**
 
     123 900 40 86
+
+
 
 
 **Insamlingsstiftelsen Rotary Hjälper**
@@ -21070,9 +28994,13 @@ Nummer: 12773
     123 900 29 73
 
 
+
+
 **Insamlingsstiftelsen Rättstödsfonden för uppfinnare och småföretagare**
 
     123 603 90 69
+
+
 
 
 **Insamlingsstiftelsen Rättvis Skatteprocess**
@@ -21080,9 +29008,13 @@ Nummer: 12773
     123 216 94 49
 
 
+
+
 **Insamlingsstiftelsen SAL Landskrona**
 
     123 109 22 61
+
+
 
 
 **Insamlingsstiftelsen School by School**
@@ -21090,9 +29022,13 @@ Nummer: 12773
     123 900 21 55
 
 
+
+
 **Insamlingsstiftelsen Sightsavers International, Sverige**
 
     123 900 36 33
+
+
 
 
 **Insamlingsstiftelsen Skiers Left - Mikaelas minne**
@@ -21100,14 +29036,20 @@ Nummer: 12773
     123 900 38 31
 
 
+
+
 **Insamlingsstiftelsen Skånsk MTB Utveckling**
 
     123 279 93 51
 
 
+
+
 **Insamlingsstiftelsen SOS Church Malmö**
 
     123 051 92 98
+
+
 
 
 **Insamlingsstiftelsen Stödfonden för hemlösa i Helsingborg**
@@ -21117,9 +29059,13 @@ Nummer: 12773
     123 900 35 26
 
 
+
+
 **Insamlingsstiftelsen Support For Ukraine**
 
     123 414 38 14
+
+
 
 
 **Insamlingsstiftelsen Svenska Barnhjälpen**
@@ -21127,9 +29073,13 @@ Nummer: 12773
     123 900 84 59
 
 
+
+
 **Insamlingsstiftelsen Svenska Musikfonden**
 
     123 900 73 45
+
+
 
 
 **Insamlingsstiftelsen Sverige-Ukraina**
@@ -21137,9 +29087,13 @@ Nummer: 12773
     123 301 84 39 - Hjälp till Ukraina
 
 
+
+
 **Insamlingsstiftelsen Sveriges Lions Hjälpfond**
 
     123 901 94 80
+
+
 
 
 **Insamlingsstiftelsen Sällskapsdjurens Forskningsfond vid SLU, SFF**
@@ -21147,9 +29101,13 @@ Nummer: 12773
     123 562 53 63
 
 
+
+
 **Insamlingsstiftelsen Teach for Sweden**
 
     123 900 48 39
+
+
 
 
 **Insamlingsstiftelsen The Chiparamba Foundation**
@@ -21157,9 +29115,13 @@ Nummer: 12773
     123 900 05 89
 
 
+
+
 **Insamlingsstiftelsen till minne av Anna-Karin Nyberg Mazeka**
 
     123 224 50 41
+
+
 
 
 **Insamlingsstiftelsen till minne av Gustav Whitefield**
@@ -21167,9 +29129,13 @@ Nummer: 12773
     123 900 36 66
 
 
+
+
 **Insamlingsstiftelsen Trust**
 
     123 404 12 99
+
+
 
 
 **Insamlingsstiftelsen Upplev Billesholm**
@@ -21177,9 +29143,13 @@ Nummer: 12773
     123 585 70 81
 
 
+
+
 **Insamlingsstiftelsen Vaggan**
 
     123 902 00 09
+
+
 
 
 **Insamlingsstiftelsen Vi planterar träd - Vi-Skogen**
@@ -21187,9 +29157,13 @@ Nummer: 12773
     123 900 50 83
 
 
+
+
 **Insamlingsstiftelsen Världsinfektionsfonden**
 
     123 900 06 54
+
+
 
 
 **Insamlingsstiftelsen Våra Barn**
@@ -21197,9 +29171,13 @@ Nummer: 12773
     123 900 48 13
 
 
+
+
 **Insamlingsstiftelsen War Child**
 
     123 900 55 47
+
+
 
 
 **Insamlingsstiftelsen WaterAid Sverige**
@@ -21207,14 +29185,20 @@ Nummer: 12773
     123 900 16 29
 
 
+
+
 **Insamlingsstiftelsen Wildhood Foundation**
 
     123 023 00 78
 
 
+
+
 **Insamlingsstiftelsen Willefonden**
 
     123 900 54 48
+
+
 
 
 **Insamlingsstiftelsen WONSA**
@@ -21224,9 +29208,13 @@ Nummer: 12773
     123 900 48 21
 
 
+
+
 **Insamlingsstiftelsen Y.O.U.N.G.**
 
     123 120 64 32
+
+
 
 
 **Insamlingsstiftelsen Zelmerlöw & Björkman Foundation**
@@ -21234,9 +29222,13 @@ Nummer: 12773
     123 900 68 83
 
 
+
+
 **Insamlingsstilftelsen Stadium**
 
     123 057 68 84
+
+
 
 
 **Insamlingstiftelsen Arthur Asp's Minnesfond för Åmot**
@@ -21244,9 +29236,13 @@ Nummer: 12773
     123 120 62 83
 
 
+
+
 **Insikt24 / Exakt24 / Svensk nätmedia AB**
 
     123 026 37 23
+
+
 
 
 **Insjön-Leksands BK**
@@ -21254,9 +29250,13 @@ Nummer: 12773
     123 651 56 54
 
 
+
+
 **Insjöns Båtklubb**
 
     123 453 97 71
+
+
 
 
 **Insjöns IF OK**
@@ -21264,9 +29264,13 @@ Nummer: 12773
     123 343 15 90
 
 
+
+
 **Intacts Vänner**
 
     123 479 56 13
+
+
 
 
 **Integrationssegling**
@@ -21274,9 +29278,13 @@ Nummer: 12773
     123 006 56 72
 
 
+
+
 **International Buddhist Progress Society Sweden, IBPS Sweden**
 
     123 224 47 21
+
+
 
 
 **International Rescue Committee Sverige Insamlingsstiftelse**
@@ -21284,9 +29292,13 @@ Nummer: 12773
     123 052 19 89
 
 
+
+
 **Internationella Folkdansklubben**
 
     123 007 62 73
+
+
 
 
 **Internationella Kristna Ambassaden Jerusalem, ICEJ / Gitten Öholm**
@@ -21294,9 +29306,13 @@ Nummer: 12773
     123 032 59 10
 
 
+
+
 **Internationella Kvinnoförbundet**
 
     123 460 55 98
+
+
 
 
 **Internationella Kvinnoförbundet för Fred och Frihet, IKFF**
@@ -21304,9 +29320,13 @@ Nummer: 12773
     123 900 77 74
 
 
+
+
 **Internationella Kyrkan / Södertälje Finska Pingstförsamling**
 
     123 633 50 61
+
+
 
 
 **Internationellt Vävcenter Sjuhärad**
@@ -21314,9 +29334,13 @@ Nummer: 12773
     123 458 44 13
 
 
+
+
 **Intimhälsan i Uppsala AB**
 
     123 435 57 80
+
+
 
 
 **Intresseföreningen Lilla Arkösundet**
@@ -21324,9 +29348,13 @@ Nummer: 12773
     123 516 42 72
 
 
+
+
 **Intresseföreningen Skorpeds Framtid**
 
     123 220 02 85
+
+
 
 
 **Intressegruppen för Assistansberättigade, IfA**
@@ -21334,9 +29362,13 @@ Nummer: 12773
     123 558 96 35
 
 
+
+
 **Invisible Friend**
 
     123 346 63 98
+
+
 
 
 **Involvaid**
@@ -21344,9 +29376,13 @@ Nummer: 12773
     123 900 23 20
 
 
+
+
 **Inyon Karateklubb Piteå**
 
     123 199 73 37
+
+
 
 
 **IOCA ARMA NOSTRA Insamlingsstiftelse**
@@ -21354,14 +29390,20 @@ Nummer: 12773
     123 581 22 68 - Aid for Ukraine
 
 
+
+
 **IOGT-NTO**
 
     123 671 31 35 - Medlemsavgift
 
 
+
+
 **IOGT-NTO 187 Afzelius Enköping**
 
     123 226 85 22 - Enköpings Lucia
+
+
 
 
 **IOGT-NTO Linköping**
@@ -21371,9 +29413,13 @@ Nummer: 12773
     123 494 09 46 - Kamratstödet
 
 
+
+
 **IOGT-NTO Medmänniska**
 
     123 438 22 71
+
+
 
 
 **IOGT-NTO-rörelsen Ideell förening**
@@ -21381,9 +29427,13 @@ Nummer: 12773
     123 900 51 90
 
 
+
+
 **IPPON Karateklubb**
 
     123 562 42 67
+
+
 
 
 **Irsta Kyrka**
@@ -21393,9 +29443,13 @@ Nummer: 12773
     123 511 78 41 - Öppna förskolan
 
 
+
+
 **ISAAC Sverige**
 
     123 524 69 54
+
+
 
 
 **Isak Berg**
@@ -21403,9 +29457,13 @@ Nummer: 12773
     123 051 34 65
 
 
+
+
 **Ishallen i Valdemarsvik AB**
 
     123 556 21 37
+
+
 
 
 **Iskalla Ryttares förening**
@@ -21413,9 +29471,13 @@ Nummer: 12773
     123 030 25 05
 
 
+
+
 **Islamakademin**
 
     123 271 01 27
+
+
 
 
 **Islamic Centers Församling**
@@ -21423,9 +29485,13 @@ Nummer: 12773
     123 180 19 35
 
 
+
+
 **Islamic Relief Sverige**
 
     123 900 18 19
+
+
 
 
 **Islandshästföreningen Frigg - Islandshäst**
@@ -21433,9 +29499,13 @@ Nummer: 12773
     123 005 23 16
 
 
+
+
 **Islandshästföreningen Glaumur - Islandshäst**
 
     123 114 65 96
+
+
 
 
 **Islandshästföreningen Oddur**
@@ -21443,9 +29513,13 @@ Nummer: 12773
     123 395 64 06
 
 
+
+
 **Islingby IK**
 
     123 488 21 55
+
+
 
 
 **Israels Vänner**
@@ -21453,9 +29527,13 @@ Nummer: 12773
     123 170 32 14
 
 
+
+
 **Istrums SK**
 
     123 580 95 20
+
+
 
 
 **Istrums SK Orientering**
@@ -21463,14 +29541,20 @@ Nummer: 12773
     123 463 04 55
 
 
+
+
 **IT for Children**
 
     123 900 49 46
 
 
+
+
 **Iyengaryogacenter Östra Göteborg / Ingrid Engström**
 
     123 452 02 19
+
+
 
 
 
@@ -21482,9 +29566,13 @@ Nummer: 12773
     123 394 55 73
 
 
+
+
 **J:Son Trafikskola AB**
 
     123 117 64 29
+
+
 
 
 **Ja Aktiv Häst / Jill Andersson**
@@ -21492,9 +29580,13 @@ Nummer: 12773
     123 024 01 01
 
 
+
+
 **Jagriti Viharas Vänner**
 
     123 342 10 54
+
+
 
 
 **Jakobsbergs IBF**
@@ -21502,9 +29594,13 @@ Nummer: 12773
     123 099 19 43
 
 
+
+
 **Jakobsbergskyrkans Församling**
 
     123 123 71 55
+
+
 
 
 **Jakten Hoppet av Brantevik**
@@ -21512,9 +29608,13 @@ Nummer: 12773
     123 653 07 37
 
 
+
+
 **Jaktkritikerna**
 
     123 533 08 32
+
+
 
 
 **Jaktskyttarna Trollhättan**
@@ -21522,9 +29622,13 @@ Nummer: 12773
     123 335 11 45
 
 
+
+
 **Jami Hundsport AB**
 
     123 131 40 95
+
+
 
 
 **Jan Myrdalsällskapet**
@@ -21532,9 +29636,13 @@ Nummer: 12773
     123 209 24 76
 
 
+
+
 **Jan-Olof Sundbergs Åkeri AB**
 
     123 175 63 94
+
+
 
 
 **Japhone AB**
@@ -21542,9 +29650,13 @@ Nummer: 12773
     123 205 60 59
 
 
+
+
 **Jarlabanke GK**
 
     123 102 64 75
+
+
 
 
 **Jarlabergs BTK**
@@ -21552,9 +29664,13 @@ Nummer: 12773
     123 063 58 21
 
 
+
+
 **JAST Säkerhet & Hälsa**
 
     123 037 26 64
+
+
 
 
 **Jazz i Hällevik**
@@ -21562,9 +29678,13 @@ Nummer: 12773
     123 146 65 49
 
 
+
+
 **Jazz i Jemtland**
 
     123 323 50 09
+
+
 
 
 **Jazzklubben Sundsvall**
@@ -21572,9 +29692,13 @@ Nummer: 12773
     123 190 01 09
 
 
+
+
 **JB CNC & Linear Components AB**
 
     123 239 61 58
+
+
 
 
 **Jenga Women Africa / Vili Go AB**
@@ -21582,9 +29706,13 @@ Nummer: 12773
     123 102 75 72
 
 
+
+
 **Jennebo Radio / Stenskott Productions**
 
     123 106 30 56
+
+
 
 
 **Jenny Ström**
@@ -21592,9 +29720,13 @@ Nummer: 12773
     123 224 35 41
 
 
+
+
 **Jennygården / Svenska Semesterhem AB**
 
     123 212 77 36
+
+
 
 
 **Jesus För Dig / Stiftelsen bibelskolan.com**
@@ -21602,9 +29734,13 @@ Nummer: 12773
     123 116 09 44
 
 
+
+
 **Jetson AB**
 
     123 294 57 56 - Megaloppis Solna
+
+
 
 
 **JFF Konstförening, Järnvägarnas Fritidsförbunds Konstförening**
@@ -21612,9 +29748,13 @@ Nummer: 12773
     123 640 95 51
 
 
+
+
 **JGs Husvagnar AB**
 
     123 042 52 15
+
+
 
 
 **Jipåt AB**
@@ -21622,9 +29762,13 @@ Nummer: 12773
     123 221 39 81
 
 
+
+
 **JiVA Golf Academy**
 
     123 115 18 36
+
+
 
 
 **JJK Samurai**
@@ -21632,9 +29776,13 @@ Nummer: 12773
     123 086 67 15
 
 
+
+
 **JK10 IF**
 
     123 634 53 91
+
+
 
 
 **Jockfalls Samfällighetsförening**
@@ -21642,9 +29790,13 @@ Nummer: 12773
     123 661 55 46
 
 
+
+
 **Joeström FVO**
 
     123 474 83 49
+
+
 
 
 **Johan Janssons Stiftelse för tumörforskning och Cancerskadade**
@@ -21652,9 +29804,13 @@ Nummer: 12773
     123 900 04 64
 
 
+
+
 **Johan Landbergs Trafikskola AB**
 
     123 214 39 49
+
+
 
 
 **Johan Ödberg-Sällskapet**
@@ -21662,9 +29818,13 @@ Nummer: 12773
     123 323 59 26
 
 
+
+
 **Johannas Golfshop Aktiebolag**
 
     123 456 32 35
+
+
 
 
 **Johannebergs Missionsförsamling**
@@ -21672,9 +29832,13 @@ Nummer: 12773
     123 589 73 50
 
 
+
+
 **Johannelunds Teologiska Högskola**
 
     123 066 34 01
+
+
 
 
 **Johannes Församling**
@@ -21682,14 +29846,20 @@ Nummer: 12773
     123 354 34 44
 
 
+
+
 **Johanneskyrkan Boden**
 
     123 076 07 69
 
 
+
+
 **Johannishus SK**
 
     123 652 65 94
+
+
 
 
 **Johanniterhjälpen**
@@ -21701,9 +29871,13 @@ Nummer: 12773
     123 431 18 90
 
 
+
+
 **Johans MC-Service AB**
 
     123 593 58 38
+
+
 
 
 **John Bauer Discgolf**
@@ -21711,9 +29885,13 @@ Nummer: 12773
     123 091 04 97
 
 
+
+
 **Johnny Sorman Music / Johnny Sörman**
 
     123 270 77 92
+
+
 
 
 **Jokkmokks Brukshundsklubb**
@@ -21721,9 +29899,24 @@ Nummer: 12773
     123 653 90 68
 
 
+
+
+**Jokkmokks Församling**
+
+    123 263 50 27 - Övrigt
+
+    123 321 78 58 - Minnestelegram
+
+    123 511 24 87 - Kollekt, Gåva
+
+
+
+
 **Jokkmokks Jakt & Fiskevård**
 
     123 510 98 71
+
+
 
 
 **Jokkmokks Ridklubb**
@@ -21731,9 +29924,13 @@ Nummer: 12773
     123 636 05 49
 
 
+
+
 **Jokkmokks Styrkelyftsklubb**
 
     123 084 64 93
+
+
 
 
 **Jonas Vildmark Bushcraftcenter - Lienshyttans Herrgård AB**
@@ -21741,9 +29938,13 @@ Nummer: 12773
     123 232 56 11
 
 
+
+
 **Jonsereds IF**
 
     123 056 66 61
+
+
 
 
 **Jonstorps Byalag**
@@ -21751,9 +29952,13 @@ Nummer: 12773
     123 027 30 11
 
 
+
+
 **Jontefondens Insamlingsstiftelse**
 
     123 900 48 70
+
+
 
 
 **Jord och Frihet Ideell Förening**
@@ -21761,14 +29966,20 @@ Nummer: 12773
     123 143 08 75
 
 
+
+
 **Jordan konsultation / Jordanos Yemane**
 
     123 447 94 08
 
 
+
+
 **Josef Mission Sverige**
 
     123 130 05 16
+
+
 
 
 **Josefssons Trafikskola**
@@ -21780,9 +29991,13 @@ Nummer: 12773
     123 337 19 52 - Kumla
 
 
+
+
 **Jourhavande Medmänniska**
 
     123 160 49 41
+
+
 
 
 **JP Hästveda**
@@ -21790,9 +30005,13 @@ Nummer: 12773
     123 290 55 78
 
 
+
+
 **JRF Forshälla**
 
     123 373 65 27
+
+
 
 
 **Judisk Enhet**
@@ -21800,9 +30019,13 @@ Nummer: 12773
     123 307 28 73
 
 
+
+
 **Judiska Församlingen Stockholm**
 
     123 001 85 49
+
+
 
 
 **Judoklubben Budo**
@@ -21810,9 +30033,13 @@ Nummer: 12773
     123 009 36 41
 
 
+
+
 **Jugansbo Bygdegårdsförening**
 
     123 042 77 73
+
+
 
 
 **Juha Takkinen**
@@ -21820,9 +30047,13 @@ Nummer: 12773
     123 280 68 59
 
 
+
+
 **Jukkasjärvi Församling**
 
     123 633 46 50
+
+
 
 
 **Julhjälpen i Gnesta**
@@ -21830,9 +30061,13 @@ Nummer: 12773
     123 089 31 64
 
 
+
+
 **Julita GoIF**
 
     123 222 12 16
+
+
 
 
 **Julita Hembygdsförening**
@@ -21840,9 +30075,13 @@ Nummer: 12773
     123 412 05 23
 
 
+
+
 **Junos Kamp**
 
     123 676 14 64
+
+
 
 
 **Junosuando IK**
@@ -21850,9 +30089,13 @@ Nummer: 12773
     123 497 79 71
 
 
+
+
 **Junsele IF**
 
     123 658 27 95
+
+
 
 
 **Jurist Nu / Wittulsbergs Juridiska AB**
@@ -21860,9 +30103,13 @@ Nummer: 12773
     123 007 45 00
 
 
+
+
 **Juvelernas Hus AB**
 
     123 490 57 25
+
+
 
 
 **Juvelia Tennisarmband AB**
@@ -21870,9 +30117,13 @@ Nummer: 12773
     123 161 99 72
 
 
+
+
 **Juvia AB**
 
     123 419 47 00
+
+
 
 
 **Jäders IF**
@@ -21886,9 +30137,13 @@ Nummer: 12773
     123 265 95 06 - P07/P08
 
 
+
+
 **Jägarnas Riksförbund Malmö**
 
     123 653 76 82
+
+
 
 
 **Jägarnas Riksförbund Söderköping**
@@ -21896,9 +30151,13 @@ Nummer: 12773
     123 633 61 84
 
 
+
+
 **Jägarvallens Byalag**
 
     123 013 35 20
+
+
 
 
 **Jämjö BTK**
@@ -21906,14 +30165,20 @@ Nummer: 12773
     123 628 21 49
 
 
+
+
 **Jämjö IBK**
 
     123 068 77 31
 
 
+
+
 **Jämjö SPK**
 
     123 560 07 54
+
+
 
 
 **Jämshögs Församling**
@@ -21927,9 +30192,13 @@ Nummer: 12773
     123 541 96 50 - Diakoni
 
 
+
+
 **Jämshögs IF**
 
     123 162 88 41
+
+
 
 
 **Jämt-Brasilianska Vänskapsföreningen**
@@ -21937,9 +30206,13 @@ Nummer: 12773
     123 621 84 08
 
 
+
+
 **Jämtdykarna**
 
     123 271 34 36
+
+
 
 
 **Jämtland Charity - Templar Knights Motorcycle Club**
@@ -21953,9 +30226,13 @@ Nummer: 12773
     123 479 03 33
 
 
+
+
 **Jämtland-Härjedalens BF**
 
     123 583 47 00
+
+
 
 
 **Jämtland-Härjedalens Stövarklubb, JHSK**
@@ -21963,9 +30240,13 @@ Nummer: 12773
     123 042 52 72
 
 
+
+
 **Jämtland/Härjedalens Taxklubb**
 
     123 448 26 75
+
+
 
 
 **JämtlandFjällens SlädhundKlubb**
@@ -21973,9 +30254,13 @@ Nummer: 12773
     123 537 55 97
 
 
+
+
 **Jämtlands Bågskytteklubb**
 
     123 354 78 66
+
+
 
 
 **Jämtlands Lokalhistoriker**
@@ -21983,9 +30268,13 @@ Nummer: 12773
     123 109 37 64
 
 
+
+
 **Jämtlands Län Konstförening**
 
     123 652 51 90
+
+
 
 
 **Jämtlands Travhästägarförening**
@@ -21993,9 +30282,13 @@ Nummer: 12773
     123 516 66 32
 
 
+
+
 **Jämtlands Travsällskap**
 
     123 589 41 00
+
+
 
 
 **Järbo Bygdegårdsförening**
@@ -22003,9 +30296,13 @@ Nummer: 12773
     123 272 05 89
 
 
+
+
 **Järbo Folkets Hus**
 
     123 313 27 68
+
+
 
 
 **Järbo Hembygdsförening**
@@ -22013,9 +30310,13 @@ Nummer: 12773
     123 350 16 24
 
 
+
+
 **Järfälla Basket**
 
     123 667 63 16
+
+
 
 
 **Järfälla Bele IBK**
@@ -22023,14 +30324,20 @@ Nummer: 12773
     123 056 74 12
 
 
+
+
 **Järfälla Brottarklubb**
 
     123 596 67 91
 
 
+
+
 **Järfälla CK**
 
     123 350 88 76
+
+
 
 
 **Järfälla Församling**
@@ -22044,9 +30351,13 @@ Nummer: 12773
     123 526 39 91 - Emmausfonden
 
 
+
+
 **Järfälla Kvinnojour**
 
     123 282 52 63
+
+
 
 
 **Järfälla Simsällskap**
@@ -22054,9 +30365,13 @@ Nummer: 12773
     123 164 21 23
 
 
+
+
 **Järfälla SK**
 
     123 627 19 10
+
+
 
 
 **Järle Byalag**
@@ -22064,9 +30379,13 @@ Nummer: 12773
     123 576 62 25
 
 
+
+
 **Järlåsa Bygdegårdsförening**
 
     123 445 25 53
+
+
 
 
 **Järna Akademi**
@@ -22074,9 +30393,13 @@ Nummer: 12773
     123 009 81 52
 
 
+
+
 **Järna Konstnärsförening, JKF**
 
     123 431 70 87
+
+
 
 
 **Järna Ridklubb**
@@ -22084,9 +30407,13 @@ Nummer: 12773
     123 288 99 39
 
 
+
+
 **Järnboås Bygdegårdsförening**
 
     123 357 82 67
+
+
 
 
 **Järnkaminerna**
@@ -22098,9 +30425,13 @@ Nummer: 12773
     123 699 24 40 - Östra
 
 
+
+
 **Järnsida Stugägareförening**
 
     123 529 02 00
+
+
 
 
 **Järva Discgolf Club**
@@ -22108,9 +30439,13 @@ Nummer: 12773
     123 483 20 28
 
 
+
+
 **Järvafältets Ornitologiska Klubb**
 
     123 405 93 58
+
+
 
 
 **Järveds IF**
@@ -22118,9 +30453,13 @@ Nummer: 12773
     123 394 53 91
 
 
+
+
 **Järvsö BK**
 
     123 389 32 52
+
+
 
 
 **Järvsö Båtklubb**
@@ -22128,9 +30467,13 @@ Nummer: 12773
     123 045 11 87
 
 
+
+
 **Järvsö Församling**
 
     123 412 07 62
+
+
 
 
 **Järvsö IK**
@@ -22140,9 +30483,13 @@ Nummer: 12773
     123 689 72 27
 
 
+
+
 **Järvsö skoterklubb**
 
     123 653 92 90
+
+
 
 
 **Järvträsk Byastugeförening**
@@ -22150,9 +30497,13 @@ Nummer: 12773
     123 635 90 87
 
 
+
+
 **Jäts Hembygdsförening**
 
     123 651 67 93
+
+
 
 
 **Jättendals IF**
@@ -22162,9 +30513,13 @@ Nummer: 12773
     123 534 84 87
 
 
+
+
 **Jönköpings Adventkyrka**
 
     123 228 82 80
+
+
 
 
 **Jönköpings Biljardklubb**
@@ -22172,9 +30527,13 @@ Nummer: 12773
     123 333 70 11
 
 
+
+
 **Jönköpings Filatelist-Förening**
 
     123 311 18 79
+
+
 
 
 **Jönköpings Fältrittklubb**
@@ -22192,9 +30551,13 @@ Nummer: 12773
     123 667 21 58
 
 
+
+
 **Jönköpings Församling**
 
     123 540 09 32 - Diakoni
+
+
 
 
 **Jönköpings IK**
@@ -22202,9 +30565,13 @@ Nummer: 12773
     123 657 17 80
 
 
+
+
 **Jönköpings Islamiska Förening**
 
     123 510 07 55
+
+
 
 
 **Jönköpings Karting Club, JKC**
@@ -22212,9 +30579,13 @@ Nummer: 12773
     123 449 14 37
 
 
+
+
 **Jönköpings Litteraturhus**
 
     123 012 34 48
+
+
 
 
 **Jönköpings Läns Bröstcancerförening**
@@ -22222,9 +30593,13 @@ Nummer: 12773
     123 593 16 05
 
 
+
+
 **Jönköpings OK - Orientering**
 
     123 155 63 15
+
+
 
 
 **Jönköpings Roddsällskap**
@@ -22232,9 +30607,13 @@ Nummer: 12773
     123 173 38 07
 
 
+
+
 **Jönköpings Sportdansklubb**
 
     123 385 15 73
+
+
 
 
 **Jönköpings Södra IF**
@@ -22242,9 +30621,13 @@ Nummer: 12773
     123 564 75 99
 
 
+
+
 **Jönköpingsbygdens Genealogiska Förening**
 
     123 370 53 08
+
+
 
 
 **Jörnbygdens Hembygsförening**
@@ -22252,9 +30635,13 @@ Nummer: 12773
     123 541 33 07
 
 
+
+
 **Jössehäringar Hjälper Barn**
 
     123 042 56 94
+
+
 
 
 
@@ -22266,9 +30653,13 @@ Nummer: 12773
     123 105 34 79
 
 
+
+
 **K.A. Almgren sidenväveri & museum / K.A. Almgren Museum Förening**
 
     123 653 06 38
+
+
 
 
 **Kümmerling Bil AB**
@@ -22276,9 +30667,13 @@ Nummer: 12773
     123 158 86 15
 
 
+
+
 **KA2 IF**
 
     123 663 22 69
+
+
 
 
 **Ka 2 SF - Skyttesport**
@@ -22286,9 +30681,13 @@ Nummer: 12773
     123 092 50 99
 
 
+
+
 **Kafjärdens Församling**
 
     123 157 93 25 - Kollekt
+
+
 
 
 **KAIS Mora**
@@ -22300,9 +30699,13 @@ Nummer: 12773
     123 668 93 76
 
 
+
+
 **Kaitumälvdals Skoter & Fritidsförening**
 
     123 046 13 27
+
+
 
 
 **Kajak och Fritid i Oxelösund AB**
@@ -22310,9 +30713,13 @@ Nummer: 12773
     123 343 07 25
 
 
+
+
 **Kalix AK**
 
     123 664 89 35
+
+
 
 
 **Kalix Bandy**
@@ -22320,9 +30727,13 @@ Nummer: 12773
     123 440 78 54
 
 
+
+
 **Kalix Basket**
 
     123 400 63 34
+
+
 
 
 **Kalix Golfklubb**
@@ -22330,9 +30741,13 @@ Nummer: 12773
     123 458 43 14
 
 
+
+
 **Kalix Konstförening**
 
     123 424 56 92
+
+
 
 
 **Kalix MK**
@@ -22340,9 +30755,13 @@ Nummer: 12773
     123 122 97 15
 
 
+
+
 **Kalix Ryttarförening**
 
     123 627 50 02
+
+
 
 
 **Kalix Skidklubb**
@@ -22350,9 +30769,13 @@ Nummer: 12773
     123 274 14 29
 
 
+
+
 **Kallbadhuset Sundet**
 
     123 104 79 43
+
+
 
 
 **Kallbadhusets Vänner i Vägga**
@@ -22360,9 +30783,13 @@ Nummer: 12773
     123 287 26 12
 
 
+
+
 **Kallbadhusföreningen Havsbadet i Ängelholm**
 
     123 027 87 62
+
+
 
 
 **Kallbadhusföreningen Havsbadet Ängelholm**
@@ -22370,9 +30797,13 @@ Nummer: 12773
     123 474 54 28
 
 
+
+
 **Kallhäll 4H-gård**
 
     123 069 25 82
+
+
 
 
 **Kallinge Museum**
@@ -22380,9 +30811,13 @@ Nummer: 12773
     123 226 77 30
 
 
+
+
 **Kallinge SK**
 
     123 312 70 24
+
+
 
 
 **Kalmar AIK FK**
@@ -22390,14 +30825,20 @@ Nummer: 12773
     123 497 45 07
 
 
+
+
 **Kalmar Båtklubb**
 
     123 026 28 08
 
 
+
+
 **Kalmar FF Supporterunion**
 
     123 592 23 72
+
+
 
 
 **Kalmar HC**
@@ -22407,9 +30848,13 @@ Nummer: 12773
     123 611 87 56
 
 
+
+
 **Kalmar JSK - Skyttesport**
 
     123 272 13 97
+
+
 
 
 **Kalmar Läns Museum**
@@ -22419,9 +30864,13 @@ Nummer: 12773
     123 393 05 26 - Gåva
 
 
+
+
 **Kalmar Motocross & Enduroklubb**
 
     123 135 46 46
+
+
 
 
 **Kalmar OK**
@@ -22429,9 +30878,13 @@ Nummer: 12773
     123 609 99 72
 
 
+
+
 **Kalmar RC Triathlon**
 
     123 197 91 29
+
+
 
 
 **Kalmar Shotokan Karateklubb**
@@ -22439,9 +30892,13 @@ Nummer: 12773
     123 165 81 11
 
 
+
+
 **Kalmar Soroptimistklubb**
 
     123 265 27 82
+
+
 
 
 **Kalmar Stads Hembygdsförening**
@@ -22449,9 +30906,13 @@ Nummer: 12773
     123 302 81 31
 
 
+
+
 **Kalmar Stadsmission**
 
     123 901 13 88
+
+
 
 
 **Kalmar Södra Idrottsförening**
@@ -22459,9 +30920,13 @@ Nummer: 12773
     123 149 31 62
 
 
+
+
 **Kalmar TK - Tennis**
 
     123 388 50 43
+
+
 
 
 **Kalmarbygdens Jägare**
@@ -22469,9 +30934,13 @@ Nummer: 12773
     123 589 15 36
 
 
+
+
 **Kalvbergsåsens Islandshästar**
 
     123 094 11 79
+
+
 
 
 **Kalvsviks Bygdegård**
@@ -22479,9 +30948,13 @@ Nummer: 12773
     123 225 66 18
 
 
+
+
 **Kammarmusikföreningen i Kalmar**
 
     123 571 45 89
+
+
 
 
 **Kammi Rosenskjöld / Kammi Production AB**
@@ -22489,9 +30962,13 @@ Nummer: 12773
     123 405 13 97
 
 
+
+
 **Kamratföreningen Bodenartilleristen**
 
     123 074 14 54
+
+
 
 
 **Kamratföreningen Flottans Män i Jönköping**
@@ -22499,9 +30976,13 @@ Nummer: 12773
     123 123 49 13
 
 
+
+
 **Kamratföreningen Flottans Män i Lysekil**
 
     123 077 85 22
+
+
 
 
 **Kamratföreningen Flottans Män i Norrtälje**
@@ -22509,9 +30990,13 @@ Nummer: 12773
     123 546 87 15
 
 
+
+
 **Kamratföreningen Flottans Män i Stockholm**
 
     123 449 22 11
+
+
 
 
 **Kamratföreningen Flottans Män i Växjö**
@@ -22519,9 +31004,13 @@ Nummer: 12773
     123 292 70 77
 
 
+
+
 **Kamratföreningen Flottans Män i Ängelholm**
 
     123 553 26 92
+
+
 
 
 **Kamratföreningen Försvarets Tekniska Officerare / KamraToff**
@@ -22529,9 +31018,13 @@ Nummer: 12773
     123 666 23 81
 
 
+
+
 **Kamratföreningen Lapplands Jägare**
 
     123 518 17 89
+
+
 
 
 **Kamratföreningen Yngve Röd**
@@ -22539,9 +31032,13 @@ Nummer: 12773
     123 058 57 52
 
 
+
+
 **Kanal 10 Asia / Kristen TV i Asien AB**
 
     123 596 79 22
+
+
 
 
 **Kanalflottans Ångfartygs-Befälhafvare Sällskap**
@@ -22549,9 +31046,13 @@ Nummer: 12773
     123 549 25 66
 
 
+
+
 **Kanalkyrkans Församling i Sandviken**
 
     123 579 26 35
+
+
 
 
 **Kangos IK**
@@ -22561,9 +31062,13 @@ Nummer: 12773
     123 584 77 44
 
 
+
+
 **Kangos Kultur- & Ekologiskola**
 
     123 674 25 06
+
+
 
 
 **Kanotklubben Strömstararna**
@@ -22571,9 +31076,13 @@ Nummer: 12773
     123 118 43 73
 
 
+
+
 **Kapasi Event**
 
     123 156 02 42
+
+
 
 
 **Kappelshamns IK, KIK**
@@ -22581,9 +31090,13 @@ Nummer: 12773
     123 154 26 12
 
 
+
+
 **Kappi Islandshästförening**
 
     123 038 37 78
+
+
 
 
 **Karateklubb Elit**
@@ -22591,9 +31104,13 @@ Nummer: 12773
     123 394 40 14
 
 
+
+
 **Karateklubb Samuraj-Dojo**
 
     123 193 51 39
+
+
 
 
 **Karateklubben Wado Kenkyukai Sätila**
@@ -22601,9 +31118,13 @@ Nummer: 12773
     123 458 99 41
 
 
+
+
 **Karatesällskapet Umeå Kyokushinkai**
 
     123 092 60 55
+
+
 
 
 **Karbenning Bygdegårdförening**
@@ -22611,9 +31132,13 @@ Nummer: 12773
     123 498 46 47
 
 
+
+
 **Kareby Hembygdsförening**
 
     123 526 28 29
+
+
 
 
 **Kareby IS**
@@ -22631,9 +31156,13 @@ Nummer: 12773
     123 363 41 69
 
 
+
+
 **Karesuando Församling**
 
     123 389 99 86
+
+
 
 
 **Karin Boye-Sällskapet**
@@ -22641,9 +31170,13 @@ Nummer: 12773
     123 367 40 58
 
 
+
+
 **Karin Fagerblom Pilates / Karin Fagerblom**
 
     123 287 31 72
+
+
 
 
 **Karl-Oskars Krypin**
@@ -22651,9 +31184,13 @@ Nummer: 12773
     123 029 08 25
 
 
+
+
 **Karlholms GoIF**
 
     123 219 34 64
+
+
 
 
 **Karlsborgs Lyftarklubb**
@@ -22661,14 +31198,20 @@ Nummer: 12773
     123 594 97 63
 
 
+
+
 **Karlsbyhedens IK**
 
     123 693 13 72
 
 
+
+
 **Karlshamn OCR**
 
     123 499 76 64
+
+
 
 
 **Karlshamns Församling**
@@ -22686,9 +31229,13 @@ Nummer: 12773
     123 556 00 57 - Diakonihjälpen
 
 
+
+
 **Karlshamns Handel & Service Ekonomisk Förening**
 
     123 066 36 66
+
+
 
 
 **Karlshamns Ridklubb**
@@ -22696,9 +31243,13 @@ Nummer: 12773
     123 085 68 56
 
 
+
+
 **Karlskoga Agilitysports Kennelklubb, KASK**
 
     123 170 43 37
+
+
 
 
 **Karlskoga Bergslags Hembygdsförening**
@@ -22706,9 +31257,13 @@ Nummer: 12773
     123 038 52 60
 
 
+
+
 **Karlskoga-Bofors Motorbåtsklubb, KBMK**
 
     123 514 93 31
+
+
 
 
 **Karlskoga Brukshundsklubb**
@@ -22716,9 +31271,13 @@ Nummer: 12773
     123 147 62 17
 
 
+
+
 **Karlskoga Discgolfklubb**
 
     123 061 77 12
+
+
 
 
 **Karlskoga Enduroklubb**
@@ -22726,9 +31285,13 @@ Nummer: 12773
     123 594 84 27
 
 
+
+
 **Karlskoga Konsertförening**
 
     123 691 70 41
+
+
 
 
 **Karlskoga Ridklubb**
@@ -22736,9 +31299,13 @@ Nummer: 12773
     123 405 65 45
 
 
+
+
 **Karlskoga Simförening**
 
     123 589 65 68
+
+
 
 
 **Karlskoga SK**
@@ -22746,9 +31313,13 @@ Nummer: 12773
     123 173 37 65 - Bollek
 
 
+
+
 **Karlskrona Basketklubb**
 
     123 678 07 46
+
+
 
 
 **Karlskrona Boxningsklubb**
@@ -22756,9 +31327,13 @@ Nummer: 12773
     123 420 32 46
 
 
+
+
 **Karlskrona CK - Cykel**
 
     123 401 51 29
+
+
 
 
 **Karlskrona Hockeyklubb**
@@ -22766,9 +31341,13 @@ Nummer: 12773
     123 379 42 37
 
 
+
+
 **Karlskrona Segelsällkap, KSS**
 
     123 562 27 41
+
+
 
 
 **Karlslunds IF FK**
@@ -22786,9 +31365,13 @@ Nummer: 12773
     123 638 17 35 - F013/14
 
 
+
+
 **Karlslunds IF skidor**
 
     123 690 24 64
+
+
 
 
 **Karlsro Scoutkår**
@@ -22796,9 +31379,13 @@ Nummer: 12773
     123 582 64 66
 
 
+
+
 **Karlstad Brukshundsklubb**
 
     123 240 88 54
+
+
 
 
 **Karlstad Fotboll Supporterklubb**
@@ -22806,9 +31393,13 @@ Nummer: 12773
     123 685 85 26
 
 
+
+
 **Karlstad Fotboll Ungdom**
 
     123 088 10 94
+
+
 
 
 **Karlstad Golfklubb**
@@ -22816,9 +31407,13 @@ Nummer: 12773
     123 493 39 66
 
 
+
+
 **Karlstad IBF**
 
     123 653 66 01
+
+
 
 
 **Karlstad MX Klubb - Motorcykel och Snöskoter**
@@ -22826,9 +31421,13 @@ Nummer: 12773
     123 288 60 67
 
 
+
+
 **Karlstad Suns Basket**
 
     123 621 36 80
+
+
 
 
 **Karlstadpartiet Livskvalitet**
@@ -22836,9 +31435,13 @@ Nummer: 12773
     123 264 40 52
 
 
+
+
 **Karlstads Dykarklubb**
 
     123 653 90 92
+
+
 
 
 **Karlstads Fågelhundklubb**
@@ -22846,9 +31449,13 @@ Nummer: 12773
     123 123 99 79
 
 
+
+
 **Karlstads Karate Förening**
 
     123 246 77 10
+
+
 
 
 **Karlstads Kommun**
@@ -22856,14 +31463,20 @@ Nummer: 12773
     123 664 91 98 - ansökan om serveringstillstånd
 
 
+
+
 **Karlstads Kvinnojour / Alla Kvinnors Hus**
 
     123 149 81 46
 
 
+
+
 **Karlstads Kyrkliga Stadsmission**
 
     123 651 93 00
+
+
 
 
 **Karlstads Pastorat**
@@ -22883,9 +31496,13 @@ Nummer: 12773
     123 570 43 17 - Diakonalt arbete
 
 
+
+
 **Karlstads Pistol och Sportskytteklubb**
 
     123 148 02 01
+
+
 
 
 **Karlstads Ridklubb**
@@ -22893,9 +31510,13 @@ Nummer: 12773
     123 440 58 58
 
 
+
+
 **Karlstads Simsällskap**
 
     123 056 51 19
+
+
 
 
 **Karlstads Tennisklubb**
@@ -22903,9 +31524,13 @@ Nummer: 12773
     123 032 03 74
 
 
+
+
 **Karlstadsjuristerna**
 
     123 161 39 18
+
+
 
 
 **Karmaklubben**
@@ -22913,9 +31538,13 @@ Nummer: 12773
     123 676 45 26
 
 
+
+
 **Karmeliterna, Samfundet Karmelitsystrarna**
 
     123 676 10 27
+
+
 
 
 **KaRo IBF**
@@ -22923,9 +31552,13 @@ Nummer: 12773
     123 527 45 27
 
 
+
+
 **Karolinska Institutet**
 
     123 559 80 81 - KI SÖS fond
+
+
 
 
 **Karolinska Institutet, Fondförvaltning**
@@ -22933,9 +31566,13 @@ Nummer: 12773
     123 202 32 08
 
 
+
+
 **Kassjö intresse- och bygdegårdsförening**
 
     123 662 12 13
+
+
 
 
 **Kasubi Friends**
@@ -22943,14 +31580,20 @@ Nummer: 12773
     123 452 28 01
 
 
+
+
 **Katalys - Institut för facklig idéutveckling**
 
     123 169 72 91
 
 
+
+
 **Katalysator Sverige**
 
     123 329 29 35
+
+
 
 
 **Katarina Församling**
@@ -22964,9 +31607,13 @@ Nummer: 12773
     123 681 63 18 - Kollekt i Morgonmässan
 
 
+
+
 **Katedralskolans Historiska Förening**
 
     123 333 63 77
+
+
 
 
 **Katrineholm-Flen-Vingåkers Släktforskarförening**
@@ -22974,9 +31621,13 @@ Nummer: 12773
     123 110 40 90
 
 
+
+
 **Katrineholm Griffins Rugby Club**
 
     123 640 77 79
+
+
 
 
 **Katrineholm Värmbol BS**
@@ -22984,9 +31635,13 @@ Nummer: 12773
     123 494 17 61
 
 
+
+
 **Katrineholms Hembygdsförening**
 
     123 506 35 57
+
+
 
 
 **Katrineholms IBF**
@@ -22994,9 +31649,13 @@ Nummer: 12773
     123 414 93 16
 
 
+
+
 **Katrineholms IF Basket**
 
     123 378 34 87
+
+
 
 
 **Katrineholms Karateförening**
@@ -23004,9 +31663,13 @@ Nummer: 12773
     123 669 20 40
 
 
+
+
 **Katrineholms Padelklubb**
 
     123 178 33 31
+
+
 
 
 **Katrineholms Pistolklubb**
@@ -23014,9 +31677,13 @@ Nummer: 12773
     123 036 85 14
 
 
+
+
 **Katrineholms Ryttarförening**
 
     123 231 42 50 - Kusen
+
+
 
 
 **Katrineholms Scoutkår**
@@ -23024,9 +31691,13 @@ Nummer: 12773
     123 626 30 57
 
 
+
+
 **Katrineholms SK FIK**
 
     123 197 92 02
+
+
 
 
 **Katrineholms SK FK**
@@ -23034,9 +31705,13 @@ Nummer: 12773
     123 527 95 67
 
 
+
+
 **Kattfonden - Insamlingsstiftelsen för hemlösa katter**
 
     123 024 33 37
+
+
 
 
 **Kattförbundet SVERAK**
@@ -23044,9 +31719,13 @@ Nummer: 12773
     123 280 42 35
 
 
+
+
 **Katthemmet i Vaxholm / Föreningen Djurhjälpen**
 
     123 362 04 57
+
+
 
 
 **Katthemmet Oskarshamn**
@@ -23054,9 +31733,13 @@ Nummer: 12773
     123 033 14 88
 
 
+
+
 **Katthjälpen**
 
     123 156 82 29
+
+
 
 
 **Katthjälpen Strömstad**
@@ -23064,9 +31747,13 @@ Nummer: 12773
     123 126 63 60
 
 
+
+
 **Kattkommando Syd**
 
     123 554 90 27
+
+
 
 
 **Kattkommando Syd Kalmar**
@@ -23074,9 +31761,13 @@ Nummer: 12773
     123 511 12 73
 
 
+
+
 **Kattkommando Syd Kågeröd/Bjuv**
 
     123 389 38 64
+
+
 
 
 **Kattkommando Syd Landskrona**
@@ -23084,9 +31775,13 @@ Nummer: 12773
     123 667 35 94
 
 
+
+
 **Kattkommando Syd Malmö/Österlen**
 
     123 412 53 08
+
+
 
 
 **Kattkommando Syd SmålandsKatten**
@@ -23094,9 +31789,13 @@ Nummer: 12773
     123 354 81 61
 
 
+
+
 **Kattpatrullen**
 
     123 621 30 86
+
+
 
 
 **Kattpensionat Egypten / Egypten Service AB**
@@ -23104,9 +31803,13 @@ Nummer: 12773
     123 147 61 67
 
 
+
+
 **Kavalleri- och Jägarförbundet, KAVJF**
 
     123 662 72 85
+
+
 
 
 **Kazuki Shotokan Klubb**
@@ -23114,9 +31817,13 @@ Nummer: 12773
     123 173 63 88
 
 
+
+
 **KB65 Fotboll**
 
     123 352 97 99
+
+
 
 
 **KB65 Hockey**
@@ -23126,6 +31833,8 @@ Nummer: 12773
     123 620 48 61
 
 
+
+
 **KB Karlskoga**
 
     123 150 71 10 - A-sektion
@@ -23133,9 +31842,13 @@ Nummer: 12773
     123 303 76 03 - U-sektion
 
 
+
+
 **Kempo Karate-Föreningen, Dalby**
 
     123 261 26 61
+
+
 
 
 **Keren Kajemet Sverige, KKL Israelfonden**
@@ -23143,9 +31856,13 @@ Nummer: 12773
     123 683 76 78
 
 
+
+
 **Kerstin Hesselgren-Sällskapet**
 
     123 152 27 96
+
+
 
 
 **Kerstins Trafikskola i Åkersberga / Kerstins Trafikskola AB**
@@ -23153,9 +31870,13 @@ Nummer: 12773
     123 103 07 58
 
 
+
+
 **Ketsui Karate Do Ludvika Shotokan IF**
 
     123 307 93 16
+
+
 
 
 **KFUK - KFUM Sverige**
@@ -23163,9 +31884,13 @@ Nummer: 12773
     123 901 85 57
 
 
+
+
 **KFUM Alnäs**
 
     123 671 23 19
+
+
 
 
 **KFUM Blackebergs IK**
@@ -23173,9 +31898,13 @@ Nummer: 12773
     123 555 88 38
 
 
+
+
 **KFUM Central**
 
     123 124 38 07
+
+
 
 
 **KFUM Gävle Basket**
@@ -23183,9 +31912,13 @@ Nummer: 12773
     123 269 54 27
 
 
+
+
 **KFUM Gården Vidablick**
 
     123 385 06 66
+
+
 
 
 **KFUM Jönköping**
@@ -23193,9 +31926,13 @@ Nummer: 12773
     123 367 41 32
 
 
+
+
 **KFUM Karlshamns Volleybollklubb**
 
     123 291 55 93
+
+
 
 
 **KFUM Kristianstad BTF**
@@ -23203,9 +31940,13 @@ Nummer: 12773
     123 686 35 91
 
 
+
+
 **KFUM Kristianstad VK**
 
     123 543 79 67
+
+
 
 
 **KFUM Ragunda Basketbollförening**
@@ -23213,9 +31954,13 @@ Nummer: 12773
     123 112 21 26
 
 
+
+
 **KFUM Sundsvall Basket**
 
     123 417 19 06
+
+
 
 
 **KFUM Umeå**
@@ -23223,9 +31968,13 @@ Nummer: 12773
     123 173 27 00
 
 
+
+
 **KFUM Ungdomens Hus**
 
     123 494 55 23
+
+
 
 
 **KFUM Uppsala Basket**
@@ -23235,14 +31984,20 @@ Nummer: 12773
     123 574 95 85
 
 
+
+
 **KFUM Uppsala Kyokushin Karate**
 
     123 080 42 94
 
 
+
+
 **KFUM ZLIPROAD CSC Stockholm**
 
     123 278 72 40
+
+
 
 
 **KFUM Örebro Basket**
@@ -23252,14 +32007,20 @@ Nummer: 12773
     123 680 28 88
 
 
+
+
 **KFUM Örebro Frisbee**
 
     123 121 04 83
 
 
+
+
 **KFUM Östersund Basket**
 
     123 146 53 68
+
+
 
 
 **KFUM Östersund Basket Ungdom**
@@ -23271,9 +32032,13 @@ Nummer: 12773
     123 502 07 89
 
 
+
+
 **KFUMs Scoutkår i Härnösand**
 
     123 291 71 93
+
+
 
 
 **KG SleepOver / Industriunderhåll Kungsäter AB**
@@ -23281,14 +32046,20 @@ Nummer: 12773
     123 532 43 97
 
 
+
+
 **KGoIF Veteranklubb**
 
     123 301 71 91
 
 
+
+
 **Kids Future**
 
     123 900 05 14
+
+
 
 
 **KIF Örebro DFF**
@@ -23300,9 +32071,13 @@ Nummer: 12773
     123 251 12 77 - F2014
 
 
+
+
 **Kila IF**
 
     123 059 47 47
+
+
 
 
 **Kilafors Kammarmusikförening**
@@ -23310,9 +32085,13 @@ Nummer: 12773
     123 517 67 63
 
 
+
+
 **Kilafors Ridklubb**
 
     123 327 81 24
+
+
 
 
 **Kils AIK FIK**
@@ -23320,9 +32099,13 @@ Nummer: 12773
     123 369 84 95
 
 
+
+
 **Kils AIK Fotboll**
 
     123 539 92 17
+
+
 
 
 **Kils Bordtennisklubb**
@@ -23330,9 +32113,13 @@ Nummer: 12773
     123 170 90 47
 
 
+
+
 **Kils Golfklubb**
 
     123 363 50 67
+
+
 
 
 **Kils Gymnaster**
@@ -23340,9 +32127,13 @@ Nummer: 12773
     123 501 04 59
 
 
+
+
 **Kils Hästcenter Hannäs, KHH**
 
     123 390 85 22
+
+
 
 
 **Kils Motorklubb MC**
@@ -23350,9 +32141,13 @@ Nummer: 12773
     123 245 44 52
 
 
+
+
 **Kils OK - Orientering**
 
     123 209 38 70
+
+
 
 
 **Kilsbergen Trailrun / AH-Event HB**
@@ -23360,9 +32155,13 @@ Nummer: 12773
     123 007 80 97
 
 
+
+
 **Kilsbergens Hembygdsförening**
 
     123 132 17 28
+
+
 
 
 **KiM - Kvinnojouren i Mark Svenljunga & Tranemo**
@@ -23370,9 +32169,13 @@ Nummer: 12773
     123 008 23 39
 
 
+
+
 **Kinda RF**
 
     123 313 90 29
+
+
 
 
 **Kinds Brukshundklubb**
@@ -23380,9 +32183,13 @@ Nummer: 12773
     123 146 18 39
 
 
+
+
 **Kinds Golfrestaurang**
 
     123 176 76 56
+
+
 
 
 **Kindstugans Syförening**
@@ -23390,9 +32197,13 @@ Nummer: 12773
     123 677 69 91
 
 
+
+
 **Kinesiska Riksförbundet i Sverige**
 
     123 397 81 45
+
+
 
 
 **Kingpin Grappling Academy If**
@@ -23400,9 +32211,13 @@ Nummer: 12773
     123 510 13 57
 
 
+
+
 **Kings Garden Ministries / Arise Living Productions AB**
 
     123 126 29 06
+
+
 
 
 **Kinna IBK**
@@ -23412,9 +32227,13 @@ Nummer: 12773
     123 616 14 67 - Kiosk
 
 
+
+
 **Kinnareds Hembygdsförening**
 
     123 406 83 00
+
+
 
 
 **Kinnarumma Hembygdsförening**
@@ -23422,9 +32241,13 @@ Nummer: 12773
     123 327 83 89
 
 
+
+
 **Kinne-Vedums IF**
 
     123 018 30 38
+
+
 
 
 **Kinneveds Församling**
@@ -23432,9 +32255,13 @@ Nummer: 12773
     123 395 29 26
 
 
+
+
 **Kinneveds Hembygdsförening**
 
     123 582 15 09
+
+
 
 
 **Kinnevikens Segelmakeri AB**
@@ -23442,9 +32269,13 @@ Nummer: 12773
     123 351 63 82
 
 
+
+
 **Kiruna AIF**
 
     123 545 25 52
+
+
 
 
 **Kiruna AIF Ishockey**
@@ -23462,9 +32293,13 @@ Nummer: 12773
     123 675 02 85 - Andelslotteriet, 1927, Souvenirer, Halva potten på internet
 
 
+
+
 **Kiruna Brukshundklubb**
 
     123 691 78 92
+
+
 
 
 **Kiruna City HF**
@@ -23472,9 +32307,13 @@ Nummer: 12773
     123 197 97 07
 
 
+
+
 **Kiruna FF**
 
     123 418 12 93
+
+
 
 
 **Kiruna Fjällkyrkan**
@@ -23482,14 +32321,20 @@ Nummer: 12773
     123 390 86 47
 
 
+
+
 **Kiruna Hockeyskola**
 
     123 137 42 06
 
 
+
+
 **Kiruna Ishockeyförening**
 
     123 601 38 41
+
+
 
 
 **Kiruna jakt- och fiskevårdsförening**
@@ -23507,9 +32352,13 @@ Nummer: 12773
     123 578 24 79 - Jägarexamen
 
 
+
+
 **Kiruna Konståkningsförening**
 
     123 281 31 03
+
+
 
 
 **Kiruna Missionsförsamling**
@@ -23517,9 +32366,13 @@ Nummer: 12773
     123 621 50 08
 
 
+
+
 **Kiruna SK**
 
     123 453 97 30
+
+
 
 
 **Kiruna Whiskysällskap**
@@ -23527,9 +32380,13 @@ Nummer: 12773
     123 421 52 32
 
 
+
+
 **Kirurgicentrum Skåne**
 
     123 673 74 31
+
+
 
 
 **Kisa BK**
@@ -23537,9 +32394,13 @@ Nummer: 12773
     123 240 93 65
 
 
+
+
 **Kisa Båtklubb**
 
     123 078 50 14
+
+
 
 
 **Kisa Scoutkår**
@@ -23547,9 +32408,13 @@ Nummer: 12773
     123 148 42 11
 
 
+
+
 **Kisa-Västra Eneby Hembygdsförening**
 
     123 170 66 05
+
+
 
 
 **Kisäng Samfällighetsförening**
@@ -23557,9 +32422,13 @@ Nummer: 12773
     123 456 84 99
 
 
+
+
 **Kittelfjällsliftarna AB**
 
     123 340 94 22 - Spårkort
+
+
 
 
 **KIV - Konstvetenskapliga Institutionens Vänner i Uppsala**
@@ -23567,9 +32436,13 @@ Nummer: 12773
     123 398 74 27
 
 
+
+
 **Kjula Baptistförsamling**
 
     123 603 47 55 - Sjukhuskyrkan på Mälarsjukhuset
+
+
 
 
 **Kjula Dragway Ekonomisk förening**
@@ -23577,9 +32450,13 @@ Nummer: 12773
     123 364 70 39
 
 
+
+
 **KK Eleiko**
 
     123 307 47 96
+
+
 
 
 **KKRVA Tibellska Fonden / Kungliga Krigsvetenskapsakademien**
@@ -23587,9 +32464,13 @@ Nummer: 12773
     123 624 94 60
 
 
+
+
 **Klacksparken**
 
     123 699 23 90
+
+
 
 
 **Klagstorps IF - Fotboll**
@@ -23597,9 +32478,13 @@ Nummer: 12773
     123 068 07 28
 
 
+
+
 **Klampenborgföreningen**
 
     123 051 60 05
+
+
 
 
 **Klartext Stockholm AB**
@@ -23607,9 +32492,13 @@ Nummer: 12773
     123 250 22 19 - Alice Teodorescu Måwe
 
 
+
+
 **Klarälvens Lokala Kennelklubb**
 
     123 104 33 14
+
+
 
 
 **Klassiskt liberala partiet**
@@ -23617,9 +32506,13 @@ Nummer: 12773
     123 388 34 69
 
 
+
+
 **Klevshults SK**
 
     123 338 12 82
+
+
 
 
 **Klickerförlaget Göteborg AB**
@@ -23627,9 +32520,13 @@ Nummer: 12773
     123 552 66 78
 
 
+
+
 **Klickerklok**
 
     123 231 79 07
+
+
 
 
 **Klimataktion**
@@ -23637,9 +32534,13 @@ Nummer: 12773
     123 149 30 89
 
 
+
+
 **Klimatpodden / Konvoj Produktion**
 
     123 396 29 74
+
+
 
 
 **Klippans Förenade FF**
@@ -23647,9 +32548,13 @@ Nummer: 12773
     123 467 34 48
 
 
+
+
 **Klippans Karateklubb**
 
     123 288 10 68
+
+
 
 
 **Klippans Pistolklubb**
@@ -23657,9 +32562,13 @@ Nummer: 12773
     123 450 31 81
 
 
+
+
 **Klippens FVO**
 
     123 171 74 46
+
+
 
 
 **Klockarbergets BK**
@@ -23667,9 +32576,13 @@ Nummer: 12773
     123 056 26 45
 
 
+
+
 **Klockaregården i Högsrum**
 
     123 166 67 42
+
+
 
 
 **Klockarejordens Samfällighetsförening**
@@ -23677,9 +32590,13 @@ Nummer: 12773
     123 512 27 59
 
 
+
+
 **Klockestrands Båtklubb, KLBK**
 
     123 593 45 91
+
+
 
 
 **Klockhammars Samfällighetsförening**
@@ -23687,9 +32604,13 @@ Nummer: 12773
     123 277 65 81
 
 
+
+
 **Klockrike Hembygdsförening**
 
     123 652 06 39
+
+
 
 
 **Klubb Energi**
@@ -23697,9 +32618,13 @@ Nummer: 12773
     123 174 53 06
 
 
+
+
 **Klubb Maritim - Göteborg**
 
     123 505 49 45
+
+
 
 
 **Klubb Söderträffen**
@@ -23707,9 +32632,13 @@ Nummer: 12773
     123 649 57 90
 
 
+
+
 **Klubbgärdets Bryggförening**
 
     123 211 29 10
+
+
 
 
 **Klädesholmens Samhällsförening**
@@ -23717,9 +32646,13 @@ Nummer: 12773
     123 377 08 98
 
 
+
+
 **Klässbols Båtklubb**
 
     123 520 01 67
+
+
 
 
 **Klässbols SK**
@@ -23727,9 +32660,13 @@ Nummer: 12773
     123 319 92 70
 
 
+
+
 **Klåveröds SK**
 
     123 021 33 71
+
+
 
 
 **Klövedals Missionsförsamling**
@@ -23737,9 +32674,13 @@ Nummer: 12773
     123 137 95 10
 
 
+
+
 **Klöver Dam Västra Mälardalen**
 
     123 668 06 15
+
+
 
 
 **Klöverträsk Bygdegårdsförening**
@@ -23747,9 +32688,13 @@ Nummer: 12773
     123 645 47 14
 
 
+
+
 **Klövsjö-Vemdalens Golfklubb**
 
     123 420 42 85
+
+
 
 
 **KME - Krafter mot ensamhet**
@@ -23757,9 +32702,13 @@ Nummer: 12773
     123 632 46 36
 
 
+
+
 **KMS Nordön - Kungälvs Motor- och Segelbåtssällskap**
 
     123 355 54 97
+
+
 
 
 **Knallebladet / Markbladet AB**
@@ -23767,9 +32716,13 @@ Nummer: 12773
     123 443 61 27
 
 
+
+
 **Knallens Karateklubb**
 
     123 253 68 11
+
+
 
 
 **Knarrbacken FC**
@@ -23777,14 +32730,20 @@ Nummer: 12773
     123 311 71 24
 
 
+
+
 **Knippla IK**
 
     123 394 26 12
 
 
+
+
 **Knislinge Budoklubb**
 
     123 458 48 01
+
+
 
 
 **Knista Församling**
@@ -23796,9 +32755,13 @@ Nummer: 12773
     123 419 50 20 - Kollekt
 
 
+
+
 **Knivsta Boxningsklubb**
 
     123 260 99 72
+
+
 
 
 **Knivsta Brukshundklubb**
@@ -23806,9 +32769,13 @@ Nummer: 12773
     123 195 11 85
 
 
+
+
 **Knivsta CK**
 
     123 296 73 96
+
+
 
 
 **Knivsta IS**
@@ -23816,14 +32783,32 @@ Nummer: 12773
     123 600 23 49
 
 
+
+
 **Knivsta Optimist och Jolleklubb**
 
     123 623 46 86
 
 
+
+
 **Knivsta Pastorat**
 
-    123 539 93 65
+    123 107 89 89 - Kollekt Lagga församling
+
+    123 254 98 48 - Kollekt Östuna församling
+
+    123 313 16 53 - Kollekt Vassunda församling
+
+    123 461 80 70 - Kollekt Husby-Långhundra församling
+
+    123 528 47 73 - Kollekt Alsike församling
+
+    123 539 93 65 - vänförsamlingen i Musume, Zimbabwe
+
+    123 555 72 93 - Kollekt Knivsta församling
+
+
 
 
 **Knivsta Scoutkår**
@@ -23831,9 +32816,13 @@ Nummer: 12773
     123 263 68 84
 
 
+
+
 **Knut och Tora Larssons, Stiftelse Mårtagården**
 
     123 149 97 63
+
+
 
 
 **Knutby-Faringe-Bladåkers Hembygdsförening**
@@ -23841,9 +32830,13 @@ Nummer: 12773
     123 146 05 42
 
 
+
+
 **Knäreds Idrottsklubb**
 
     123 278 81 56
+
+
 
 
 **Knöppelåsens Ryttarsällskap**
@@ -23851,9 +32844,13 @@ Nummer: 12773
     123 378 05 25
 
 
+
+
 **Kode IF**
 
     123 279 91 61
+
+
 
 
 **Kode Scoutkår**
@@ -23861,9 +32858,13 @@ Nummer: 12773
     123 146 16 56
 
 
+
+
 **Kojbyns naturcamping / Stina Torén AB**
 
     123 688 32 68
+
+
 
 
 **Kokoro-Kai Warberg Karateklubb**
@@ -23871,9 +32872,13 @@ Nummer: 12773
     123 667 63 81
 
 
+
+
 **Kollberggården / Ölands YogaStudio & Islandshästar AB**
 
     123 668 99 62
+
+
 
 
 **Kollektivhusföreningen Södra station**
@@ -23881,9 +32886,13 @@ Nummer: 12773
     123 133 38 55
 
 
+
+
 **Kolsbro Häst och Fritid AB**
 
     123 098 52 42
+
+
 
 
 **Kolströms Båtklubb**
@@ -23891,9 +32900,13 @@ Nummer: 12773
     123 662 06 78
 
 
+
+
 **Kommissionen för skattenytta**
 
     123 077 17 58
+
+
 
 
 **Kommunistiska Partiet Göteborg**
@@ -23901,14 +32914,20 @@ Nummer: 12773
     123 199 90 51
 
 
+
+
 **Kompis Sverige**
 
     123 900 71 13
 
 
+
+
 **Konditori Janeling**
 
     123 125 43 66
+
+
 
 
 **Konserthuset Stockholm / Stockholms Konserthusstiftelse**
@@ -23920,9 +32939,13 @@ Nummer: 12773
     123 498 99 89
 
 
+
+
 **Konst & Kulturrundan i Kolbäcksådalen**
 
     123 362 95 99
+
+
 
 
 **KonstArt**
@@ -23930,9 +32953,13 @@ Nummer: 12773
     123 081 41 78
 
 
+
+
 **Konstbild 82**
 
     123 277 10 87
+
+
 
 
 **Konstfrämjandet Värmland**
@@ -23940,9 +32967,13 @@ Nummer: 12773
     123 080 20 09
 
 
+
+
 **Konstföreningen Fri Form**
 
     123 674 19 20
+
+
 
 
 **Konstföreningen Lundensia vid Lunds Universitet**
@@ -23950,9 +32981,13 @@ Nummer: 12773
     123 241 13 79
 
 
+
+
 **Konstföreningen Panorama**
 
     123 359 44 13
+
+
 
 
 **Konstföreningen Westmannia**
@@ -23960,9 +32995,13 @@ Nummer: 12773
     123 117 86 23
 
 
+
+
 **Konsthistoriska Sällskapet**
 
     123 150 32 42 - Örebrosektionen
+
+
 
 
 **Konstmuseets vänner, Norrköpings Konstmuseum**
@@ -23970,9 +33009,13 @@ Nummer: 12773
     123 069 57 59
 
 
+
+
 **Konstnären Sebastian Rudolph Jensen / WISRJ AB**
 
     123 533 59 06
+
+
 
 
 **Konstnärstryck Andreas Krook**
@@ -23980,9 +33023,13 @@ Nummer: 12773
     123 379 06 98
 
 
+
+
 **Konståkningsklubben Trollhättan-Vänersborg**
 
     123 086 71 35
+
+
 
 
 **Konsumentorganisationen Elbil Sverige**
@@ -23990,9 +33037,13 @@ Nummer: 12773
     123 396 33 86
 
 
+
+
 **Kontext Press**
 
     123 621 21 79
+
+
 
 
 **Konung Carl XVI Gustavs insamlingsstiftelse Ungt Ledarskap**
@@ -24000,9 +33051,13 @@ Nummer: 12773
     123 900 08 11
 
 
+
+
 **Kopparbergs Brukshundklubb**
 
     123 651 62 72
+
+
 
 
 **Koppoms IK**
@@ -24010,9 +33065,13 @@ Nummer: 12773
     123 226 71 85
 
 
+
+
 **Koranpodden**
 
     123 669 10 18
+
+
 
 
 **Kornas Vänner / Almviks Gård Hare Krishna Temple**
@@ -24020,9 +33079,13 @@ Nummer: 12773
     123 680 08 41
 
 
+
+
 **Kornhult-Hishult FF**
 
     123 264 83 35
+
+
 
 
 **Korpen Borås**
@@ -24030,9 +33093,13 @@ Nummer: 12773
     123 378 53 75
 
 
+
+
 **Korpen Emmaboda**
 
     123 108 96 63
+
+
 
 
 **Korpen Engelholms Tennisveteraner**
@@ -24040,9 +33107,13 @@ Nummer: 12773
     123 063 18 12
 
 
+
+
 **Korpen Enköping**
 
     123 454 79 31
+
+
 
 
 **Korpen Eskilstuna**
@@ -24050,9 +33121,13 @@ Nummer: 12773
     123 147 98 15
 
 
+
+
 **Korpen Forsmarks IF**
 
     123 615 06 27
+
+
 
 
 **Korpen Gotland**
@@ -24060,9 +33135,13 @@ Nummer: 12773
     123 635 97 72
 
 
+
+
 **Korpen Gävle**
 
     123 102 25 99
+
+
 
 
 **Korpen Göteborg**
@@ -24070,9 +33149,13 @@ Nummer: 12773
     123 224 72 29
 
 
+
+
 **Korpen Heby**
 
     123 120 45 93
+
+
 
 
 **Korpen Hede**
@@ -24080,9 +33163,13 @@ Nummer: 12773
     123 394 33 13
 
 
+
+
 **Korpen Hörby**
 
     123 589 48 11
+
+
 
 
 **Korpen Kalmar**
@@ -24090,9 +33177,13 @@ Nummer: 12773
     123 019 21 20
 
 
+
+
 **Korpen Karlstad**
 
     123 144 85 13
+
+
 
 
 **Korpen Kinda**
@@ -24100,9 +33191,13 @@ Nummer: 12773
     123 563 81 35
 
 
+
+
 **Korpen Kiruna**
 
     123 494 85 01
+
+
 
 
 **Korpen Luleå**
@@ -24110,9 +33205,13 @@ Nummer: 12773
     123 589 53 88
 
 
+
+
 **Korpen Lund**
 
     123 422 71 38
+
+
 
 
 **Korpen Mariannelund**
@@ -24120,9 +33219,13 @@ Nummer: 12773
     123 516 20 52
 
 
+
+
 **Korpen Mark**
 
     123 128 94 46
+
+
 
 
 **Korpen Nybro**
@@ -24130,9 +33233,13 @@ Nummer: 12773
     123 268 19 22
 
 
+
+
 **Korpen Piteå**
 
     123 311 58 54
+
+
 
 
 **Korpen Sickla Seniorer**
@@ -24140,9 +33247,13 @@ Nummer: 12773
     123 629 36 58
 
 
+
+
 **Korpen Silvbergs Fritidsförening**
 
     123 530 60 22
+
+
 
 
 **Korpen Simrishamn**
@@ -24150,9 +33261,13 @@ Nummer: 12773
     123 279 43 29
 
 
+
+
 **Korpen Sjöbo**
 
     123 401 81 31
+
+
 
 
 **Korpen Storsjön**
@@ -24160,9 +33275,13 @@ Nummer: 12773
     123 263 25 03
 
 
+
+
 **Korpen Sundsvall**
 
     123 031 79 09
+
+
 
 
 **Korpen Svenska Motionsidrottsförbundet**
@@ -24170,9 +33289,13 @@ Nummer: 12773
     123 900 78 16
 
 
+
+
 **Korpen Söderbärke**
 
     123 456 55 78
+
+
 
 
 **Korpen Uppsala**
@@ -24180,9 +33303,13 @@ Nummer: 12773
     123 453 64 47
 
 
+
+
 **Korpen Valdemarsvik**
 
     123 258 72 36
+
+
 
 
 **Korpen Vallentuna**
@@ -24190,9 +33317,13 @@ Nummer: 12773
     123 536 88 81
 
 
+
+
 **Korpen Vattenfall IF Motala**
 
     123 683 81 06
+
+
 
 
 **Korpen Vattenfall IF Umeå**
@@ -24200,9 +33331,13 @@ Nummer: 12773
     123 303 46 26
 
 
+
+
 **Korpen Vattenfalls IF Trollhättan**
 
     123 541 19 21
+
+
 
 
 **Korpen Vännäs**
@@ -24210,9 +33345,13 @@ Nummer: 12773
     123 589 19 57
 
 
+
+
 **Korpen Växjö**
 
     123 264 86 40
+
+
 
 
 **Korpen Ystad**
@@ -24220,9 +33359,13 @@ Nummer: 12773
     123 471 35 33
 
 
+
+
 **Korpen Älmhult**
 
     123 257 39 13
+
+
 
 
 **Korpen Åseda**
@@ -24230,9 +33373,13 @@ Nummer: 12773
     123 418 06 83
 
 
+
+
 **Korpförening Haparanda - Korpen**
 
     123 388 11 90
+
+
 
 
 **Korpförening Heros**
@@ -24240,9 +33387,13 @@ Nummer: 12773
     123 525 11 94
 
 
+
+
 **Korpförening Hässleholm**
 
     123 119 74 41
+
+
 
 
 **Korpförening Lycksele**
@@ -24250,9 +33401,13 @@ Nummer: 12773
     123 018 64 29
 
 
+
+
 **Korpförening Västerås - Korpen**
 
     123 494 66 38
+
+
 
 
 **Korpikå Bygdegårdsförening**
@@ -24260,9 +33415,13 @@ Nummer: 12773
     123 277 25 07
 
 
+
+
 **Korsberga Hembygdssällskap**
 
     123 327 84 62
+
+
 
 
 **Korsets Kloster**
@@ -24270,9 +33429,13 @@ Nummer: 12773
     123 531 98 01
 
 
+
+
 **Korskyrkan Frövi**
 
     123 470 22 62
+
+
 
 
 **Korskyrkan Gävle**
@@ -24280,9 +33443,13 @@ Nummer: 12773
     123 694 82 36
 
 
+
+
 **Korskyrkan i Karlstad**
 
     123 657 10 04
+
+
 
 
 **Korskyrkan i Ludvika**
@@ -24290,14 +33457,20 @@ Nummer: 12773
     123 527 96 82
 
 
+
+
 **Korskyrkan i Västerås / Baptistförsamlingen Filadelfia**
 
     123 213 60 67
 
 
+
+
 **Korskyrkan Umeå**
 
     123 579 29 24
+
+
 
 
 **Korskyrkans Församling**
@@ -24309,9 +33482,13 @@ Nummer: 12773
     123 691 91 79
 
 
+
+
 **Korsnäs IF Fotbollsklubb**
 
     123 290 42 09
+
+
 
 
 **Korsträsk Byaförening**
@@ -24319,9 +33496,13 @@ Nummer: 12773
     123 627 62 81
 
 
+
+
 **Kortedala BBK**
 
     123 043 87 47
+
+
 
 
 **Kortedala Scoutkår**
@@ -24329,9 +33510,13 @@ Nummer: 12773
     123 563 65 27
 
 
+
+
 **Korthårsgruppen**
 
     123 156 19 50
+
+
 
 
 **Kosta Lodge**
@@ -24339,9 +33524,13 @@ Nummer: 12773
     123 149 85 18
 
 
+
+
 **Kostfonden**
 
     123 900 42 43
+
+
 
 
 **Kottecentralen**
@@ -24349,9 +33538,13 @@ Nummer: 12773
     123 091 63 79
 
 
+
+
 **Kovlands IF**
 
     123 543 81 22
+
+
 
 
 **Kovlands Ishockeyförening**
@@ -24359,9 +33552,13 @@ Nummer: 12773
     123 319 85 87
 
 
+
+
 **Kraftbyrån**
 
     123 252 79 43
+
+
 
 
 **Kraftens Hus Göteborg**
@@ -24369,9 +33566,13 @@ Nummer: 12773
     123 341 75 08
 
 
+
+
 **Kraftens Hus Sjuhärad**
 
     123 209 00 90
+
+
 
 
 **Kraftens Hus Stockholm**
@@ -24379,9 +33580,13 @@ Nummer: 12773
     123 424 00 99
 
 
+
+
 **Krama Era Barn**
 
     123 600 15 31
+
+
 
 
 **Kramfors BK**
@@ -24389,9 +33594,13 @@ Nummer: 12773
     123 203 91 62
 
 
+
+
 **Kramfors Båtklubb, KBK**
 
     123 105 98 80
+
+
 
 
 **Kramfors Kvinnojour**
@@ -24399,9 +33608,13 @@ Nummer: 12773
     123 111 62 43
 
 
+
+
 **Kramfors Pastorat**
 
     123 271 73 95 - Bjärtrå, Dal, Styrnäs, Torsåker
+
+
 
 
 **KRIF Hockey**
@@ -24411,9 +33624,13 @@ Nummer: 12773
     123 404 40 46
 
 
+
+
 **KriNa / A Rochas Vänner**
 
     123 099 38 32
+
+
 
 
 **Kringlans Trafikskola AB**
@@ -24421,9 +33638,13 @@ Nummer: 12773
     123 271 08 46
 
 
+
+
 **KRIS Kriminellas Revansch I Samhället Sverige, RIKS KRIS**
 
     123 336 60 44
+
+
 
 
 **Kristdemokraterna Riksorganisationen**
@@ -24431,9 +33652,13 @@ Nummer: 12773
     123 515 70 03
 
 
+
+
 **Kristdemokratiska Ungdomsförbundet Riksorganisationen**
 
     123 527 56 31
+
+
 
 
 **Kristen Gemenskap**
@@ -24441,9 +33666,13 @@ Nummer: 12773
     123 557 72 42
 
 
+
+
 **Kristen Idrottskontakt, KRIK**
 
     123 170 78 76
+
+
 
 
 **Kristen Samverkan Småland-Blekinge**
@@ -24451,9 +33680,13 @@ Nummer: 12773
     123 601 35 69
 
 
+
+
 **Kristet Center Väst**
 
     123 464 10 07
+
+
 
 
 **Kristet Center Örebro**
@@ -24461,9 +33694,13 @@ Nummer: 12773
     123 189 73 62
 
 
+
+
 **Kristi Lekamens Katolska Församling, Visby**
 
     123 228 97 26
+
+
 
 
 **Kristi Uppståndelses Ortodoxa Församling**
@@ -24471,9 +33708,13 @@ Nummer: 12773
     123 278 80 99
 
 
+
+
 **Kristianstad FC**
 
     123 288 80 89
+
+
 
 
 **Kristianstad Handboll**
@@ -24481,9 +33722,13 @@ Nummer: 12773
     123 103 70 68 - Biljetter/evenemang
 
 
+
+
 **Kristianstad Kvinnojour**
 
     123 199 88 14
+
+
 
 
 **Kristianstad MC-grupp**
@@ -24491,14 +33736,20 @@ Nummer: 12773
     123 081 36 91
 
 
+
+
 **Kristianstad Padelklubb**
 
     123 599 02 47
 
 
+
+
 **Kristianstad RS - Ridsport**
 
     123 279 97 08
+
+
 
 
 **Kristianstads Brukshundklubb**
@@ -24510,9 +33761,13 @@ Nummer: 12773
     123 602 18 44 - Kiosk
 
 
+
+
 **Kristianstads DFF**
 
     123 098 44 19
+
+
 
 
 **Kristianstads JSK - Skyttesport**
@@ -24520,9 +33775,42 @@ Nummer: 12773
     123 568 08 89
 
 
+
+
 **Kristianstads Makalösa Föräldrar**
 
     123 631 20 37
+
+
+
+
+**Kristianstads Pastorat**
+
+    123 041 98 12 - Dagens kollekt Norra Åsum
+
+    123 076 53 88 - Sommarkyrkan
+
+    123 224 09 01 - Kollekt till EFS Österängskyrkan
+
+    123 390 84 80 - Underhåll av församlingens kyrkor
+
+    123 407 63 37 - Serviceverksamhet/gravskötsel
+
+    123 451 27 29 - Gåvor pastoratets musikverksamhet
+
+    123 465 31 76 - Gåvor pastoratets diakoniarbete
+
+    123 467 66 98 - Gåvor Act Svenska kyrkan
+
+    123 476 06 66 - Gåvor EFS internationella mission
+
+    123 512 87 15 - Gåvor pastoratets barn- och ungdomsarbete
+
+    123 512 87 23 - Dagens kollekt Heliga Trefaldighet
+
+    123 699 18 63 - Gåvor Svenska kyrkan i Kristianstad
+
+
 
 
 **Kristianstads Pistolklubb**
@@ -24530,9 +33818,13 @@ Nummer: 12773
     123 097 26 38
 
 
+
+
 **Kristianstads Radioamatörer, SK7BQ**
 
     123 648 35 72
+
+
 
 
 **Kristianstads Zontaklubb**
@@ -24540,9 +33832,13 @@ Nummer: 12773
     123 176 72 35
 
 
+
+
 **Kristina Scoutkår**
 
     123 368 09 98
+
+
 
 
 **Kristineberg SK**
@@ -24550,9 +33846,13 @@ Nummer: 12773
     123 432 54 45
 
 
+
+
 **Kristinehamns Artilleriförening**
 
     123 688 65 19
+
+
 
 
 **Kristinehamns Cykelklubb**
@@ -24560,9 +33860,13 @@ Nummer: 12773
     123 226 97 77
 
 
+
+
 **Kristinehamns Gymnastiksällskap**
 
     123 303 34 95
+
+
 
 
 **Kristinehamns IBF**
@@ -24574,9 +33878,13 @@ Nummer: 12773
     123 430 72 52 - Försäljning
 
 
+
+
 **Kristinehamns Nämndemannaförening**
 
     123 134 44 98
+
+
 
 
 **Kristinehamns Pastorat**
@@ -24584,9 +33892,13 @@ Nummer: 12773
     123 155 57 05
 
 
+
+
 **Kristna Fredsrörelsen**
 
     123 900 03 16
+
+
 
 
 **Kristna Läkare och Medicinstudenter, KLM, CMDA Sweden**
@@ -24594,9 +33906,13 @@ Nummer: 12773
     123 692 93 50
 
 
+
+
 **Kristna Synskadades Förening Syskonbandet**
 
     123 148 82 20
+
+
 
 
 **Kristus Konungens Institut i Sverige**
@@ -24604,9 +33920,13 @@ Nummer: 12773
     123 500 51 37
 
 
+
+
 **Kristus Konungens Katolska Församling**
 
     123 047 49 81
+
+
 
 
 **Kroatiska Föreningen VELEBIT**
@@ -24614,9 +33934,13 @@ Nummer: 12773
     123 147 70 74
 
 
+
+
 **Krokom Dvärsätts IF**
 
     123 435 79 76
+
+
 
 
 **Krokshultsbygdens byalag**
@@ -24624,9 +33948,13 @@ Nummer: 12773
     123 321 42 28
 
 
+
+
 **Kronans FK**
 
     123 140 45 16
+
+
 
 
 **Kronobergs Dreverklubb**
@@ -24634,9 +33962,13 @@ Nummer: 12773
     123 036 58 82
 
 
+
+
 **Kronobergs Läns Hembygdsförbund**
 
     123 148 82 38
+
+
 
 
 **Kronobergs Taxklubb**
@@ -24644,14 +33976,20 @@ Nummer: 12773
     123 148 61 66
 
 
+
+
 **Kronofors Idrottsförening**
 
     123 260 32 23
 
 
+
+
 **Kronogård Nord AB**
 
     123 366 56 35
+
+
 
 
 **Kronprinsens Tennisklubb**
@@ -24661,9 +33999,13 @@ Nummer: 12773
     123 533 14 59 - Tennisskola, medlemsavgifter
 
 
+
+
 **Kronprinsessparets Stiftelse**
 
     123 188 33 96
+
+
 
 
 **Kronängs IF**
@@ -24671,9 +34013,13 @@ Nummer: 12773
     123 092 78 71
 
 
+
+
 **Kroppefjälls IF**
 
     123 338 27 28
+
+
 
 
 **Kryddan i tillvaron AB**
@@ -24681,9 +34027,13 @@ Nummer: 12773
     123 222 05 64
 
 
+
+
 **Krylbo Trafikskola AB**
 
     123 624 85 95
+
+
 
 
 **Krägga Herrgård AB**
@@ -24691,9 +34041,13 @@ Nummer: 12773
     123 259 82 25
 
 
+
+
 **Kräklingbo bygdegårdsförening / Torsburgs Bygdegårdsförening**
 
     123 323 50 90
+
+
 
 
 **Kråkens Byaförening**
@@ -24701,9 +34055,13 @@ Nummer: 12773
     123 554 51 99
 
 
+
+
 **Kråkjohan Jakt & Viltvård AB**
 
     123 533 17 23
+
+
 
 
 **Kråkshults Hembygdsförening**
@@ -24711,9 +34069,13 @@ Nummer: 12773
     123 018 14 79
 
 
+
+
 **KTH Elektrosektionens Elektroniklaboratorium, ELAB**
 
     123 531 22 77
+
+
 
 
 **KTH Konstförening**
@@ -24721,9 +34083,13 @@ Nummer: 12773
     123 309 73 26
 
 
+
+
 **Kubanerna Örebro**
 
     123 122 54 73
+
+
 
 
 **Kubbe-Norrflärke Bygdegårdsförening**
@@ -24731,9 +34097,13 @@ Nummer: 12773
     123 059 27 66
 
 
+
+
 **Kukkolaforsen Turist & Konferens AB**
 
     123 287 03 27
+
+
 
 
 **Kulla Pastorat**
@@ -24741,9 +34111,13 @@ Nummer: 12773
     123 539 03 15
 
 
+
+
 **Kullabergs Islandshästar / Kristine Barner**
 
     123 275 78 39
+
+
 
 
 **Kullabergs Naturreservat / Länsstyrelsen Skåne**
@@ -24751,9 +34125,13 @@ Nummer: 12773
     123 194 22 42
 
 
+
+
 **Kullabygdens Idrottshistoriska Förening**
 
     123 406 24 10
+
+
 
 
 **Kulladals Fotbollsförening**
@@ -24761,9 +34139,13 @@ Nummer: 12773
     123 042 58 76
 
 
+
+
 **Kullafrukt AB**
 
     123 388 73 61
+
+
 
 
 **Kullagillet**
@@ -24771,9 +34153,13 @@ Nummer: 12773
     123 291 86 62
 
 
+
+
 **Kullavikskyrkan**
 
     123 653 79 14 - Kollekt
+
+
 
 
 **Kullavägens BK**
@@ -24781,9 +34167,13 @@ Nummer: 12773
     123 463 04 14
 
 
+
+
 **Kulltorp Katla Ryttarförening, KKRF**
 
     123 509 41 98
+
+
 
 
 **Kultur 1740**
@@ -24791,9 +34181,13 @@ Nummer: 12773
     123 106 87 74
 
 
+
+
 **Kultur och Kvalitet**
 
     123 057 69 42
+
+
 
 
 **Kulturens Bildningsverksamhet**
@@ -24801,9 +34195,13 @@ Nummer: 12773
     123 063 33 70
 
 
+
+
 **Kulturföreningen Club UFO**
 
     123 474 63 43
+
+
 
 
 **Kulturföreningen Gamla Grebbestad**
@@ -24811,14 +34209,20 @@ Nummer: 12773
     123 535 08 22
 
 
+
+
 **Kulturföreningen Gösta Johanssons Varv**
 
     123 268 02 70
 
 
+
+
 **Kulturföreningen Hönsnätet**
 
     123 071 36 51
+
+
 
 
 **Kulturföreningen Kilbolokalen**
@@ -24828,9 +34232,13 @@ Nummer: 12773
     123 588 45 15
 
 
+
+
 **Kulturföreningen Uddevallakassetten**
 
     123 612 68 82
+
+
 
 
 **Kulturföreningen Vasaplan**
@@ -24838,9 +34246,13 @@ Nummer: 12773
     123 201 44 62
 
 
+
+
 **Kulturförningen India Däck**
 
     123 252 58 89
+
+
 
 
 **Kulturhistoriska Föreningen för Södra Sverige**
@@ -24848,9 +34260,13 @@ Nummer: 12773
     123 076 63 37
 
 
+
+
 **Kulturhuset Anders / Anders Föreningen**
 
     123 033 05 71
+
+
 
 
 **Kulturhuset Saga Torshälla**
@@ -24858,9 +34274,13 @@ Nummer: 12773
     123 270 72 97
 
 
+
+
 **Kulturkraft i Långshyttan**
 
     123 262 71 80
+
+
 
 
 **Kulturkvarter Snösätra**
@@ -24868,9 +34288,13 @@ Nummer: 12773
     123 186 82 80
 
 
+
+
 **Kultursjukhuset**
 
     123 440 29 96
+
+
 
 
 **Kulturskolan, Tierps Kommun**
@@ -24878,9 +34302,13 @@ Nummer: 12773
     123 014 92 86
 
 
+
+
 **KULTWATCH**
 
     123 680 08 33
+
+
 
 
 **Kumgang Taekwondo Klubb**
@@ -24888,9 +34316,13 @@ Nummer: 12773
     123 122 38 74
 
 
+
+
 **Kumla Bridgesällskap**
 
     123 622 36 97
+
+
 
 
 **Kumla Brukshundsklubb**
@@ -24898,9 +34330,13 @@ Nummer: 12773
     123 286 17 30
 
 
+
+
 **Kumla Golfklubb**
 
     123 440 80 76
+
+
 
 
 **Kumla Hockey**
@@ -24908,9 +34344,13 @@ Nummer: 12773
     123 223 93 82
 
 
+
+
 **Kumla Tärna Kila Pastorat**
 
     123 633 08 98
+
+
 
 
 **Kung Karl BK**
@@ -24918,9 +34358,13 @@ Nummer: 12773
     123 415 66 75
 
 
+
+
 **Kung Karls Bygdegårdsförening**
 
     123 694 26 76
+
+
 
 
 **Kung Över Livet**
@@ -24928,9 +34372,13 @@ Nummer: 12773
     123 553 33 93
 
 
+
+
 **Kungliga Automobil Klubben, KAK**
 
     123 000 88 54
+
+
 
 
 **Kungliga Södermanlands Regementes Kamratförening**
@@ -24938,9 +34386,13 @@ Nummer: 12773
     123 475 26 22
 
 
+
+
 **Kungliga Örlogsmannasällskapet**
 
     123 179 75 13
+
+
 
 
 **Kungsbacka IF**
@@ -24952,14 +34404,20 @@ Nummer: 12773
     123 477 88 09
 
 
+
+
 **Kungsbacka kvinnojour**
 
     123 193 89 84
 
 
+
+
 **Kungsbacka MMA Klubb**
 
     123 134 60 71
+
+
 
 
 **Kungsbacka Ridklubb**
@@ -24969,9 +34427,13 @@ Nummer: 12773
     123 483 15 41 - tävling/ridskola
 
 
+
+
 **Kungsbacka Simsällskap**
 
     123 552 67 02
+
+
 
 
 **Kungsbacka Tillsammansodling**
@@ -24979,9 +34441,13 @@ Nummer: 12773
     123 317 35 07
 
 
+
+
 **Kungsbacka-Wiske Sportskyttar**
 
     123 664 18 80
+
+
 
 
 **Kungsberga Ridskola**
@@ -24989,9 +34455,13 @@ Nummer: 12773
     123 264 30 70
 
 
+
+
 **Kungsbygget Äventyrspark AB**
 
     123 377 16 56
+
+
 
 
 **Kungsgården Långvind / Infopress AB**
@@ -24999,9 +34469,13 @@ Nummer: 12773
     123 538 42 43
 
 
+
+
 **Kungsgårdens SK**
 
     123 020 57 24
+
+
 
 
 **Kungshaga 4H**
@@ -25009,14 +34483,20 @@ Nummer: 12773
     123 478 15 71
 
 
+
+
 **Kungsholmens Folkfotboll**
 
     123 559 41 89
 
 
+
+
 **Kungsleden Hiking Society**
 
     123 135 88 60
+
+
 
 
 **Kungsportskyrkan**
@@ -25026,9 +34506,13 @@ Nummer: 12773
     123 427 73 49 - Församling
 
 
+
+
 **Kungsängen-Västra Ryds Församling**
 
     123 121 98 23
+
+
 
 
 **Kungsängens Båtsällskap**
@@ -25036,9 +34520,13 @@ Nummer: 12773
     123 271 10 26
 
 
+
+
 **Kungsängens SK**
 
     123 128 50 55
+
+
 
 
 **Kungsåra bygdegård**
@@ -25046,9 +34534,13 @@ Nummer: 12773
     123 025 26 92
 
 
+
+
 **Kungsåra Hembygdsförening**
 
     123 039 81 07
+
+
 
 
 **Kungsåra Kyrka**
@@ -25056,9 +34548,13 @@ Nummer: 12773
     123 085 55 51 - Kollekt
 
 
+
+
 **Kungsörs Brukshundsklubb**
 
     123 627 91 37
+
+
 
 
 **Kungsörs Hembygdsförening**
@@ -25066,9 +34562,13 @@ Nummer: 12773
     123 165 82 10
 
 
+
+
 **Kungsörs Ishockeyklubb**
 
     123 278 68 12
+
+
 
 
 **Kungälv Kode Golfklubb**
@@ -25076,9 +34576,13 @@ Nummer: 12773
     123 000 31 94
 
 
+
+
 **Kungälvs Bowlingklubb**
 
     123 395 23 97
+
+
 
 
 **Kungälvs Brukshundklubb**
@@ -25086,9 +34590,13 @@ Nummer: 12773
     123 441 24 58
 
 
+
+
 **Kungälvs HK**
 
     123 615 15 00
+
+
 
 
 **Kungälvs Karateklubb**
@@ -25096,9 +34604,13 @@ Nummer: 12773
     123 152 85 87
 
 
+
+
 **Kuoksu Hembygdsförening**
 
     123 651 23 13
+
+
 
 
 **KuRi Sweden AB**
@@ -25106,9 +34618,13 @@ Nummer: 12773
     123 055 30 65
 
 
+
+
 **Kustens Pensionärsklubb**
 
     123 397 32 86
+
+
 
 
 **Kvarnby Basket**
@@ -25116,9 +34632,13 @@ Nummer: 12773
     123 060 34 72
 
 
+
+
 **Kvarnsveden Friidrott**
 
     123 680 36 21
+
+
 
 
 **Kvarnsvedens GOIF IK**
@@ -25126,9 +34646,13 @@ Nummer: 12773
     123 209 26 90
 
 
+
+
 **Kvarnsvedens GOIF OK**
 
     123 556 65 00
+
+
 
 
 **Kvarnsvedens IK**
@@ -25140,9 +34664,13 @@ Nummer: 12773
     123 062 66 55 - Kiosk
 
 
+
+
 **Kvarnvikens Båtsällskap**
 
     123 357 85 07
+
+
 
 
 **Kvibergskatterna**
@@ -25150,9 +34678,13 @@ Nummer: 12773
     123 091 08 77
 
 
+
+
 **Kvibille Allförening**
 
     123 431 75 25
+
+
 
 
 **Kvibille BK**
@@ -25162,9 +34694,13 @@ Nummer: 12773
     123 085 83 73
 
 
+
+
 **Kvibille Föräldrarförening**
 
     123 072 03 26
+
+
 
 
 **Kvibille Gymnastikförening**
@@ -25172,9 +34708,13 @@ Nummer: 12773
     123 218 76 23
 
 
+
+
 **Kvibille Hembygdsförening**
 
     123 663 22 51
+
+
 
 
 **Kvicksunds SK**
@@ -25184,9 +34724,13 @@ Nummer: 12773
     123 639 45 30 - P11
 
 
+
+
 **Kvidinge IF**
 
     123 299 06 12
+
+
 
 
 **Kvidinge Skytteförening**
@@ -25194,9 +34738,13 @@ Nummer: 12773
     123 657 83 48
 
 
+
+
 **Kville Billiard Club**
 
     123 249 09 77
+
+
 
 
 **Kvinno- och tjejjouren Borås**
@@ -25204,9 +34752,13 @@ Nummer: 12773
     123 023 03 00
 
 
+
+
 **Kvinno- och tjejjouren Jönköping**
 
     123 666 29 02
+
+
 
 
 **Kvinno- och Tjejjouren Miranda**
@@ -25214,9 +34766,13 @@ Nummer: 12773
     123 378 58 54
 
 
+
+
 **Kvinno- och tjejjouren Pax**
 
     123 435 70 00
+
+
 
 
 **Kvinno-& tjejjouren Måna**
@@ -25224,9 +34780,13 @@ Nummer: 12773
     123 324 95 47
 
 
+
+
 **Kvinnoföreningen mot Våld / Kvinnojouren Maggan**
 
     123 092 75 90
+
+
 
 
 **Kvinnohistoriska Sällskapet**
@@ -25234,9 +34794,13 @@ Nummer: 12773
     123 430 39 54
 
 
+
+
 **Kvinnohuset Tranan / Skaraborgs Kvinnohusförening**
 
     123 160 45 60
+
+
 
 
 **Kvinnohuset Västerås, Tjejjouren Ronja**
@@ -25244,9 +34808,13 @@ Nummer: 12773
     123 419 67 62
 
 
+
+
 **Kvinnohuset Örebro**
 
     123 627 52 75
+
+
 
 
 **Kvinnojouren Ada**
@@ -25254,9 +34822,13 @@ Nummer: 12773
     123 677 72 70
 
 
+
+
 **Kvinnojouren Amanda**
 
     123 673 16 24
+
+
 
 
 **Kvinnojouren Anna**
@@ -25264,9 +34836,13 @@ Nummer: 12773
     123 162 60 01
 
 
+
+
 **Kvinnojouren Annfrid**
 
     123 302 26 88
+
+
 
 
 **Kvinnojouren Athena Övertorneå-Överkalix**
@@ -25274,9 +34850,13 @@ Nummer: 12773
     123 025 99 78
 
 
+
+
 **Kvinnojouren Blenda**
 
     123 313 87 81
+
+
 
 
 **Kvinnojouren Blåklockan**
@@ -25284,9 +34864,13 @@ Nummer: 12773
     123 189 84 69
 
 
+
+
 **Kvinnojouren Boden**
 
     123 309 30 44
+
+
 
 
 **Kvinnojouren Borlänge**
@@ -25294,9 +34878,13 @@ Nummer: 12773
     123 312 77 84
 
 
+
+
 **Kvinnojouren Duvan**
 
     123 309 06 51
+
+
 
 
 **Kvinnojouren Ellinor och Tjejjouren Beata**
@@ -25306,9 +34894,13 @@ Nummer: 12773
     123 514 40 76
 
 
+
+
 **Kvinnojouren Embla / Kvinnojouren I Sölvesborg**
 
     123 152 04 28
+
+
 
 
 **Kvinnojouren Enköping**
@@ -25316,9 +34908,13 @@ Nummer: 12773
     123 495 54 07
 
 
+
+
 **Kvinnojouren Eva**
 
     123 117 46 89
+
+
 
 
 **Kvinnojouren Freja**
@@ -25326,9 +34922,13 @@ Nummer: 12773
     123 198 33 11
 
 
+
+
 **Kvinnojouren Frida Säffle Åmål**
 
     123 164 66 29
+
+
 
 
 **Kvinnojouren Frideborg**
@@ -25336,9 +34936,13 @@ Nummer: 12773
     123 675 14 32
 
 
+
+
 **Kvinnojouren Helsingborg**
 
     123 141 30 20
+
+
 
 
 **Kvinnojouren Hera**
@@ -25346,9 +34950,13 @@ Nummer: 12773
     123 030 33 05
 
 
+
+
 **Kvinnojouren Huddinge**
 
     123 427 23 08
+
+
 
 
 **Kvinnojouren i Lycksele**
@@ -25356,9 +34964,13 @@ Nummer: 12773
     123 313 64 70
 
 
+
+
 **Kvinnojouren i Motala**
 
     123 029 81 17
+
+
 
 
 **Kvinnojouren i Norrköping**
@@ -25366,9 +34978,13 @@ Nummer: 12773
     123 656 00 23
 
 
+
+
 **Kvinnojouren i Sala**
 
     123 513 72 94
+
+
 
 
 **Kvinnojouren i Sandviken**
@@ -25376,9 +34992,13 @@ Nummer: 12773
     123 617 74 22
 
 
+
+
 **Kvinnojouren i Stenungsund**
 
     123 109 55 61
+
+
 
 
 **Kvinnojouren I Sundberg**
@@ -25386,9 +35006,13 @@ Nummer: 12773
     123 550 20 59
 
 
+
+
 **Kvinnojouren i Ulricehamn**
 
     123 308 65 43
+
+
 
 
 **Kvinnojouren i Umeå**
@@ -25396,9 +35020,13 @@ Nummer: 12773
     123 471 83 75
 
 
+
+
 **Kvinnojouren i Österåker**
 
     123 182 47 96
+
+
 
 
 **Kvinnojouren Iris i Luleå**
@@ -25406,9 +35034,13 @@ Nummer: 12773
     123 378 16 14
 
 
+
+
 **Kvinnojouren Jämtlands län**
 
     123 422 84 17 - Gunhilds fond
+
+
 
 
 **Kvinnojouren KAK**
@@ -25416,9 +35048,13 @@ Nummer: 12773
     123 627 84 10
 
 
+
+
 **Kvinnojouren Karlshamn**
 
     123 037 84 06
+
+
 
 
 **Kvinnojouren Karlskrona**
@@ -25428,9 +35064,13 @@ Nummer: 12773
     123 676 52 42
 
 
+
+
 **Kvinnojouren Kiruna**
 
     123 314 52 65
+
+
 
 
 **Kvinnojouren Kullan**
@@ -25438,9 +35078,13 @@ Nummer: 12773
     123 319 21 68
 
 
+
+
 **Kvinnojouren Liljan**
 
     123 118 80 51
+
+
 
 
 **Kvinnojouren Linnéan**
@@ -25448,9 +35092,13 @@ Nummer: 12773
     123 323 60 31
 
 
+
+
 **Kvinnojouren Linneorna**
 
     123 479 63 89
+
+
 
 
 **Kvinnojouren Linneorna i Eksjö**
@@ -25458,9 +35106,13 @@ Nummer: 12773
     123 426 34 48
 
 
+
+
 **Kvinnojouren Lund**
 
     123 098 79 82
+
+
 
 
 **Kvinnojouren Malva**
@@ -25468,9 +35120,13 @@ Nummer: 12773
     123 040 43 01
 
 
+
+
 **Kvinnojouren Maria & Tjejjouren Mila**
 
     123 354 75 85
+
+
 
 
 **Kvinnojouren Mira**
@@ -25480,9 +35136,13 @@ Nummer: 12773
     123 602 22 89
 
 
+
+
 **Kvinnojouren Moa**
 
     123 150 85 89
+
+
 
 
 **Kvinnojouren Märta**
@@ -25490,14 +35150,20 @@ Nummer: 12773
     123 357 49 44
 
 
+
+
 **Kvinnojouren Nacka Värmdö**
 
     123 184 54 94
 
 
+
+
 **Kvinnojouren Nike / Segergudinnan I Gällivare**
 
     123 386 44 44
+
+
 
 
 **Kvinnojouren Nina**
@@ -25507,9 +35173,13 @@ Nummer: 12773
     123 669 11 41 - Gåva
 
 
+
+
 **Kvinnojouren Nässjö**
 
     123 130 70 99
+
+
 
 
 **Kvinnojouren och Ungdomsjouren Kalmar**
@@ -25517,9 +35187,13 @@ Nummer: 12773
     123 498 75 41
 
 
+
+
 **Kvinnojouren Olivia**
 
     123 207 33 10
+
+
 
 
 **Kvinnojouren Olivia**
@@ -25527,9 +35201,13 @@ Nummer: 12773
     123 350 83 14
 
 
+
+
 **Kvinnojouren Online**
 
     123 123 55 22
+
+
 
 
 **Kvinnojouren Piilopirtti**
@@ -25537,9 +35215,13 @@ Nummer: 12773
     123 432 69 89
 
 
+
+
 **Kvinnojouren på Österlen**
 
     123 499 60 88
+
+
 
 
 **Kvinnojouren Runan**
@@ -25547,9 +35229,13 @@ Nummer: 12773
     123 348 12 72
 
 
+
+
 **Kvinnojouren Sandviken**
 
     123 617 41 79
+
+
 
 
 **Kvinnojouren Sigtuna**
@@ -25557,9 +35243,13 @@ Nummer: 12773
     123 418 16 57
 
 
+
+
 **Kvinnojouren Stöttan**
 
     123 585 67 29
+
+
 
 
 **Kvinnojouren Sundsvall**
@@ -25567,9 +35257,13 @@ Nummer: 12773
     123 348 10 90
 
 
+
+
 **Kvinnojouren Säter**
 
     123 696 37 30
+
+
 
 
 **Kvinnojouren Söderslätt**
@@ -25577,9 +35271,13 @@ Nummer: 12773
     123 052 84 22
 
 
+
+
 **Kvinnojouren & Tjejjouren Ludvika Smedjebacken**
 
     123 535 44 02
+
+
 
 
 **Kvinnojouren Täby-Danderyd**
@@ -25587,9 +35285,13 @@ Nummer: 12773
     123 413 44 82
 
 
+
+
 **Kvinnojouren Vallentuna**
 
     123 188 25 70
+
+
 
 
 **Kvinnojouren Viktoria**
@@ -25597,9 +35299,13 @@ Nummer: 12773
     123 463 97 79
 
 
+
+
 **Kvinnojouren Viljan**
 
     123 148 61 58
+
+
 
 
 **Kvinnojouren Vändpunkten Hudiksvall-Nordanstig**
@@ -25607,9 +35313,13 @@ Nummer: 12773
     123 006 85 69
 
 
+
+
 **Kvinnojouren Öresund**
 
     123 182 64 29
+
+
 
 
 **Kvinnojouren Örnsköldsvik**
@@ -25617,9 +35327,13 @@ Nummer: 12773
     123 125 44 16
 
 
+
+
 **Kvinnors Rätt**
 
     123 091 22 87
+
+
 
 
 **Kvistbro Skytteförening**
@@ -25627,9 +35341,13 @@ Nummer: 12773
     123 673 65 32
 
 
+
+
 **Kväkarhjälpen**
 
     123 900 73 52
+
+
 
 
 **Kvänums IF**
@@ -25637,9 +35355,13 @@ Nummer: 12773
     123 173 35 34
 
 
+
+
 **Kyrkbacksgården**
 
     123 668 88 65 - Serveringen
+
+
 
 
 **Kyrkbergets Vänner**
@@ -25647,9 +35369,13 @@ Nummer: 12773
     123 681 17 15
 
 
+
+
 **Kyrkesunds Byalag**
 
     123 385 24 98
+
+
 
 
 **Kyrkhults Scoutkår**
@@ -25657,9 +35383,13 @@ Nummer: 12773
     123 263 82 78
 
 
+
+
 **Kyrklig Samling**
 
     123 181 84 75
+
+
 
 
 **Kyrkobacka Stall & Ridhus / Elisbeth Hultgren**
@@ -25667,14 +35397,20 @@ Nummer: 12773
     123 106 35 51
 
 
+
+
 **Kyrkornas Omsorgscentrum**
 
     123 373 55 45
 
 
+
+
 **Källa Hembygdsförening**
 
     123 520 57 11
+
+
 
 
 **Källby IF**
@@ -25686,9 +35422,13 @@ Nummer: 12773
     123 694 66 51
 
 
+
+
 **Källkritikbyrån AB**
 
     123 144 84 30
+
+
 
 
 **Källslättenföreningen**
@@ -25696,9 +35436,13 @@ Nummer: 12773
     123 295 64 49
 
 
+
+
 **Källstorps Församling**
 
     123 412 59 02
+
+
 
 
 **Kämpinge Gymnastikförening**
@@ -25706,9 +35450,13 @@ Nummer: 12773
     123 249 31 87
 
 
+
+
 **Kämpinge vattensportklubb, KVSK**
 
     123 466 28 96
+
+
 
 
 **Känn In / Sari Sandstedt**
@@ -25716,9 +35464,13 @@ Nummer: 12773
     123 431 36 49
 
 
+
+
 **Känslogalan / Musik i Syd**
 
     123 010 04 38
+
+
 
 
 **Kärda Hembygdsförening**
@@ -25726,9 +35478,13 @@ Nummer: 12773
     123 278 24 31
 
 
+
+
 **Käringbergets Bystugeförening**
 
     123 288 77 68
+
+
 
 
 **Käringöns IF, KIF / Käringöns Idrott & Fritid**
@@ -25736,9 +35492,13 @@ Nummer: 12773
     123 149 91 85
 
 
+
+
 **Kärra HF**
 
     123 069 02 97
+
+
 
 
 **Kärrdalens Egnahemsförening**
@@ -25746,9 +35506,13 @@ Nummer: 12773
     123 568 03 84
 
 
+
+
 **Kärringbloggen / Helene Bergman Media / Helene Bergman**
 
     123 220 79 75
+
+
 
 
 **Kärrtorps Scoutkår**
@@ -25756,9 +35520,13 @@ Nummer: 12773
     123 588 12 06
 
 
+
+
 **Kättilsröds 4H-Gård**
 
     123 137 82 98
+
+
 
 
 **Kävlinge HK**
@@ -25766,9 +35534,13 @@ Nummer: 12773
     123 629 96 89
 
 
+
+
 **Kävlinge IBK**
 
     123 264 42 84
+
+
 
 
 **Kävlinge Scoutkår**
@@ -25776,9 +35548,13 @@ Nummer: 12773
     123 464 10 31
 
 
+
+
 **Kävlinge Sportskytteklubb**
 
     123 286 21 91
+
+
 
 
 **Kåfalla Herrgård / Bejfab - Berthil Jansson Fastigheter**
@@ -25786,9 +35562,13 @@ Nummer: 12773
     123 038 81 08
 
 
+
+
 **Kågeröds Skyttegille**
 
     123 624 30 67
+
+
 
 
 **Kållandsö-Stenhammar Missionsförsamling**
@@ -25796,9 +35576,13 @@ Nummer: 12773
     123 108 50 91
 
 
+
+
 **Kållered SK**
 
     123 033 16 78
+
+
 
 
 **Kållereds Boxningsklubb**
@@ -25806,9 +35590,13 @@ Nummer: 12773
     123 431 39 04
 
 
+
+
 **Kåremo Bygdegårdsförening**
 
     123 223 23 20
+
+
 
 
 **Kårsta-Ekskogen Bygdegårdsförening**
@@ -25816,9 +35604,13 @@ Nummer: 12773
     123 181 44 66
 
 
+
+
 **Kårsta Golfklubb**
 
     123 063 35 03 - Ställplats
+
+
 
 
 **Köket Åsele / Lisa Lindh**
@@ -25826,9 +35618,13 @@ Nummer: 12773
     123 622 06 28
 
 
+
+
 **Köping Basket**
 
     123 006 95 75
+
+
 
 
 **Köping-Egby Hembygdsförening**
@@ -25836,9 +35632,13 @@ Nummer: 12773
     123 230 08 46
 
 
+
+
 **Köping-Kolsva Orientering**
 
     123 147 47 09
+
+
 
 
 **Köpingebro IF**
@@ -25846,9 +35646,13 @@ Nummer: 12773
     123 313 27 43
 
 
+
+
 **Köpings Brukshundklubb**
 
     123 179 24 98
+
+
 
 
 **Köpings GF**
@@ -25856,9 +35660,13 @@ Nummer: 12773
     123 452 49 55
 
 
+
+
 **Köpings Golfklubb**
 
     123 003 36 96
+
+
 
 
 **Köpings Judoklubb**
@@ -25866,9 +35674,13 @@ Nummer: 12773
     123 596 68 82
 
 
+
+
 **Köpings Nya Trafikskola AB**
 
     123 139 49 49
+
+
 
 
 **Köpstadsö bryggförening**
@@ -25876,9 +35688,13 @@ Nummer: 12773
     123 264 98 87
 
 
+
+
 **Körkortcenter i Halmstad**
 
     123 653 86 56
+
+
 
 
 **Körkortscenter Göteborg AB**
@@ -25888,14 +35704,20 @@ Nummer: 12773
     123 190 82 43
 
 
+
+
 **Körkortscenter i Nyköping AB**
 
     123 115 40 12
 
 
+
+
 **Köttsjöns Fiskevårdsområde**
 
     123 381 30 78
+
+
 
 
 
@@ -25907,9 +35729,13 @@ Nummer: 12773
     123 020 60 45
 
 
+
+
 **Lagan IBK**
 
     123 386 44 36
+
+
 
 
 **Lagans AIK**
@@ -25917,9 +35743,13 @@ Nummer: 12773
     123 422 60 15
 
 
+
+
 **Lagg & Hoj AB**
 
     123 528 43 85
+
+
 
 
 **Lagga Långhundra BK**
@@ -25927,9 +35757,13 @@ Nummer: 12773
     123 200 15 19
 
 
+
+
 **Lagunda Hembygdsförening**
 
     123 461 84 68
+
+
 
 
 **Laholm IF FIK - Friidrott**
@@ -25937,9 +35771,13 @@ Nummer: 12773
     123 410 69 02
 
 
+
+
 **Laholm utan gränser**
 
     123 614 08 67
+
+
 
 
 **Laholms FK**
@@ -25947,9 +35785,13 @@ Nummer: 12773
     123 033 44 58
 
 
+
+
 **Laholms IF Träningsverket**
 
     123 197 96 24
+
+
 
 
 **Laholms Jujutsuklubb**
@@ -25957,9 +35799,13 @@ Nummer: 12773
     123 508 78 12
 
 
+
+
 **Laholms OK**
 
     123 611 67 19
+
+
 
 
 **Laholms Ryttarförening**
@@ -25967,9 +35813,13 @@ Nummer: 12773
     123 225 51 15
 
 
+
+
 **Lahti Group AB**
 
     123 538 22 05
+
+
 
 
 **Laika Film & Television AB**
@@ -25977,9 +35827,13 @@ Nummer: 12773
     123 052 90 32
 
 
+
+
 **Lakers Lakejers Tifo**
 
     123 320 08 39
+
+
 
 
 **Laksjöbadet Ideell förening**
@@ -25987,9 +35841,13 @@ Nummer: 12773
     123 126 70 79
 
 
+
+
 **Landskrona Konstförening**
 
     123 214 56 54
+
+
 
 
 **Landskrona MK**
@@ -25997,9 +35855,13 @@ Nummer: 12773
     123 302 49 24
 
 
+
+
 **Landskrona Shotokan Academy**
 
     123 000 26 34
+
+
 
 
 **Landvetter Boule Club**
@@ -26007,9 +35869,13 @@ Nummer: 12773
     123 348 26 92
 
 
+
+
 **Landvetter Fotboll**
 
     123 290 98 51
+
+
 
 
 **Landvetter-Härryda Pastorat**
@@ -26029,9 +35895,13 @@ Nummer: 12773
     123 593 53 17 - Kollekt
 
 
+
+
 **Landvetter Ryttarsällskap**
 
     123 274 28 98
+
+
 
 
 **Landvetter Scoutkår**
@@ -26039,9 +35909,13 @@ Nummer: 12773
     123 512 75 01
 
 
+
+
 **Lanna Golfklubb**
 
     123 262 59 86
+
+
 
 
 **Lantmäteriet**
@@ -26051,9 +35925,13 @@ Nummer: 12773
     123 322 27 34 - Samfällighetsföreningsregistret
 
 
+
+
 **Lapplandsveckan**
 
     123 607 27 97
+
+
 
 
 **Lappmarkens släkt- och bygdeforskare**
@@ -26063,9 +35941,13 @@ Nummer: 12773
     123 525 54 92
 
 
+
+
 **Lars och Britta Johanssons Insamlingsstiftelse**
 
     123 299 45 23
+
+
 
 
 **Larz-Kristerz Orkester AB**
@@ -26073,9 +35955,13 @@ Nummer: 12773
     123 150 98 84
 
 
+
+
 **Lasse Dahlquist-sällskapet**
 
     123 679 32 51
+
+
 
 
 **Lasses Resor**
@@ -26083,9 +35969,13 @@ Nummer: 12773
     123 649 40 58
 
 
+
+
 **Lastar & Kastar / Px3 Entreprenad & Konsult AB**
 
     123 331 97 46
+
+
 
 
 **Latinamerika i Centrum, LatiCe**
@@ -26093,14 +35983,20 @@ Nummer: 12773
     123 629 80 95
 
 
+
+
 **Latinamerikagrupperna**
 
     123 901 01 74
 
 
+
+
 **Latorps Byalag**
 
     123 441 92 71
+
+
 
 
 **Latorps IF**
@@ -26112,9 +36008,13 @@ Nummer: 12773
     123 587 00 27 - Ungdom
 
 
+
+
 **Laurentiistiftelsen**
 
     123 550 30 73
+
+
 
 
 **Lavad Bygdegårdsförening**
@@ -26122,9 +36022,13 @@ Nummer: 12773
     123 511 41 11
 
 
+
+
 **Laxarby och Vårviks kyrka**
 
     123 061 03 03
+
+
 
 
 **LaxTon Ghost Sweden AB**
@@ -26132,9 +36036,13 @@ Nummer: 12773
     123 043 42 90
 
 
+
+
 **Laxå IF**
 
     123 653 33 43
+
+
 
 
 **Laxå Villaägareförening**
@@ -26142,9 +36050,13 @@ Nummer: 12773
     123 527 90 21
 
 
+
+
 **LedR KF**
 
     123 246 52 35
+
+
 
 
 **Lejonkulan Petanque Club**
@@ -26152,9 +36064,13 @@ Nummer: 12773
     123 197 58 87
 
 
+
+
 **Lekander Boende & Bär / Lekanders Gourmet AB**
 
     123 313 40 79
+
+
 
 
 **Lekebergs IF**
@@ -26162,9 +36078,13 @@ Nummer: 12773
     123 419 53 50
 
 
+
+
 **Lekeryds Församling**
 
     123 664 33 24
+
+
 
 
 **Lekeryds Missionsförsamling**
@@ -26174,9 +36094,13 @@ Nummer: 12773
     123 663 12 87 - Ungdomssektionen
 
 
+
+
 **Leksaksbiblioteket - Allmänna Arvsfonden**
 
     123 241 69 64
+
+
 
 
 **Leksand Baseboll-Softbollklubb**
@@ -26184,9 +36108,13 @@ Nummer: 12773
     123 187 13 75
 
 
+
+
 **Leksand Jujutsuklubb**
 
     123 000 45 80
+
+
 
 
 **Leksand Superstars**
@@ -26194,14 +36122,20 @@ Nummer: 12773
     123 228 52 11
 
 
+
+
 **Leksands Friidrottsklubb**
 
     123 650 64 06
 
 
+
+
 **Leksands Fågelklubb**
 
     123 381 91 58
+
+
 
 
 **Leksands IF Fotboll**
@@ -26211,9 +36145,13 @@ Nummer: 12773
     123 676 18 45
 
 
+
+
 **Leksands IF Ishockey AB**
 
     123 074 71 21
+
+
 
 
 **Leksands IF Konståkning**
@@ -26221,9 +36159,13 @@ Nummer: 12773
     123 214 94 82
 
 
+
+
 **Leksands Kommun**
 
     123 048 39 41
+
+
 
 
 **Leksands Konstsällskap**
@@ -26231,9 +36173,13 @@ Nummer: 12773
     123 491 01 47
 
 
+
+
 **Leksands OK**
 
     123 321 67 51
+
+
 
 
 **Leksands Ridklubb**
@@ -26245,9 +36191,13 @@ Nummer: 12773
     123 511 68 01 - klubbtävling, läger
 
 
+
+
 **Leksands Skidklubb**
 
     123 114 88 40
+
+
 
 
 **Leksands Slalomklubb**
@@ -26255,9 +36205,13 @@ Nummer: 12773
     123 173 37 81
 
 
+
+
 **Lektema c/o Envelop AB**
 
     123 431 89 11
+
+
 
 
 **Lekvattnets Hembygdsförening**
@@ -26265,9 +36219,13 @@ Nummer: 12773
     123 046 93 61
 
 
+
+
 **Lekvattnets Skoterklubb**
 
     123 351 19 38
+
+
 
 
 **Lena Församling**
@@ -26281,9 +36239,13 @@ Nummer: 12773
     123 651 70 64
 
 
+
+
 **Lena Prästgård Ridhus / Ove Stenson**
 
     123 417 05 51
+
+
 
 
 **Lena Wäpplings Stiftelse**
@@ -26291,9 +36253,13 @@ Nummer: 12773
     123 900 78 73
 
 
+
+
 **Lenas katthem i Sölvesborg / Lena Kristiansson**
 
     123 354 66 03
+
+
 
 
 **Lenhovda IF**
@@ -26301,9 +36267,13 @@ Nummer: 12773
     123 073 10 18
 
 
+
+
 **Lennart Matikainen**
 
     123 565 23 26
+
+
 
 
 **Lenninge Island & Ponnystall / Annika Wengelin**
@@ -26311,9 +36281,13 @@ Nummer: 12773
     123 157 99 29
 
 
+
+
 **Lenoa AB**
 
     123 338 12 41
+
+
 
 
 **Lepramissionen Sverige**
@@ -26321,9 +36295,13 @@ Nummer: 12773
     123 900 39 30
 
 
+
+
 **Lerbergets Byalag**
 
     123 157 92 18
+
+
 
 
 **Lerdala IF**
@@ -26331,9 +36309,13 @@ Nummer: 12773
     123 453 60 09
 
 
+
+
 **Lerkils IF**
 
     123 087 70 68
+
+
 
 
 **Lerum Basket**
@@ -26341,14 +36323,20 @@ Nummer: 12773
     123 121 88 33
 
 
+
+
 **Lerum Cykelklubb**
 
     123 006 89 65
 
 
+
+
 **Lerums Biodlarförening**
 
     123 680 28 21
+
+
 
 
 **Lerums BK**
@@ -26362,9 +36350,13 @@ Nummer: 12773
     123 654 88 46 - A-ungdom
 
 
+
+
 **Lerums Bridgeklubb**
 
     123 608 69 46
+
+
 
 
 **Lerums Fotoklubb**
@@ -26374,9 +36366,13 @@ Nummer: 12773
     123 278 79 27 - Fika
 
 
+
+
 **Lerums Församling**
 
     123 498 34 66
+
+
 
 
 **Lerums IS**
@@ -26384,9 +36380,13 @@ Nummer: 12773
     123 288 50 10
 
 
+
+
 **Lerums Luftgevärsskytteförening**
 
     123 041 99 03
+
+
 
 
 **Lerums Scoutkår**
@@ -26396,9 +36396,13 @@ Nummer: 12773
     123 504 96 48 - Hyror
 
 
+
+
 **Leråkra Golfklubb**
 
     123 157 94 40
+
+
 
 
 **Lessebo Scoutkår**
@@ -26406,9 +36410,13 @@ Nummer: 12773
     123 379 17 12
 
 
+
+
 **Let's Skyrocket / Skyrocket Podden / Carola Von Ahn**
 
     123 654 65 19
+
+
 
 
 **Lettlandshjälpen Gotland**
@@ -26416,9 +36424,13 @@ Nummer: 12773
     123 672 94 53
 
 
+
+
 **Leufstabruk Bryggeri AB**
 
     123 126 23 93
+
+
 
 
 **Levád Fysiotherapi AB**
@@ -26426,9 +36438,13 @@ Nummer: 12773
     123 172 76 27
 
 
+
+
 **Levande Önneköp**
 
     123 203 95 43
+
+
 
 
 **Lex Femme**
@@ -26436,9 +36452,13 @@ Nummer: 12773
     123 646 91 00
 
 
+
+
 **LFC.se - Svenska Supporterklubben**
 
     123 445 42 03
+
+
 
 
 **LFS - Ljungby Fuktkontroll & Sanering AB**
@@ -26446,9 +36466,13 @@ Nummer: 12773
     123 271 11 66
 
 
+
+
 **LG Lönns Buss AB**
 
     123 451 39 41
+
+
 
 
 **LG-Produkter AB**
@@ -26456,9 +36480,13 @@ Nummer: 12773
     123 122 27 51
 
 
+
+
 **LGM Fotboll**
 
     123 108 06 70
+
+
 
 
 **LHON Eye Society**
@@ -26466,9 +36494,13 @@ Nummer: 12773
     123 023 07 14
 
 
+
+
 **Liatorps JSK**
 
     123 608 69 53
+
+
 
 
 **Liberala Podden / Liberalerna i Uppsala**
@@ -26476,9 +36508,13 @@ Nummer: 12773
     123 555 94 30
 
 
+
+
 **Liberalerna**
 
     123 176 04 04
+
+
 
 
 **Liberalerna**
@@ -26486,9 +36522,13 @@ Nummer: 12773
     123 148 12 41
 
 
+
+
 **Liberalerna Göteborg**
 
     123 520 94 08
+
+
 
 
 **Liberia Dujar Association - Sweden**
@@ -26496,9 +36536,13 @@ Nummer: 12773
     123 901 84 74
 
 
+
+
 **Libras Hundhjälp**
 
     123 532 41 40
+
+
 
 
 **License Trafikskola AB**
@@ -26506,14 +36550,20 @@ Nummer: 12773
     123 631 43 14
 
 
+
+
 **Licensfritt.se Bromölla AB**
 
     123 652 29 81
 
 
+
+
 **Lidens Hembygdsförening**
 
     123 189 83 86
+
+
 
 
 **Lidhults Församling**
@@ -26523,14 +36573,20 @@ Nummer: 12773
     123 544 09 53 - Kollekt
 
 
+
+
 **Lidija Dokuzovic**
 
     123 404 64 62
 
 
+
+
 **Lidingö AK - Styrkelyft**
 
     123 609 84 20
+
+
 
 
 **Lidingö Församling**
@@ -26542,9 +36598,13 @@ Nummer: 12773
     123 430 31 60 - ACT
 
 
+
+
 **Lidingö Golfklubb**
 
     123 281 14 87
+
+
 
 
 **Lidingö Hembygdsförening**
@@ -26552,9 +36612,13 @@ Nummer: 12773
     123 181 45 65
 
 
+
+
 **Lidingö Islanders HC**
 
     123 518 31 99
+
+
 
 
 **Lidingö Kvinnojour**
@@ -26562,14 +36626,20 @@ Nummer: 12773
     123 106 39 16
 
 
+
+
 **Lidingö Sportklubb Handboll**
 
     123 175 64 10
 
 
+
+
 **Lidingö Vikings HC**
 
     123 115 80 39
+
+
 
 
 **Lidköpings Atletsällskap**
@@ -26579,9 +36649,13 @@ Nummer: 12773
     123 412 64 13
 
 
+
+
 **Lidköpings Basketsällskap, LIDBAS**
 
     123 092 94 22
+
+
 
 
 **Lidköpings Brukshundklubb**
@@ -26589,9 +36663,13 @@ Nummer: 12773
     123 173 08 11
 
 
+
+
 **Lidköpings Cykelklubb**
 
     123 086 95 11
+
+
 
 
 **Lidköpings Discgolfklubb**
@@ -26599,9 +36677,13 @@ Nummer: 12773
     123 292 70 44
 
 
+
+
 **Lidköpings Flygklubb**
 
     123 268 22 84
+
+
 
 
 **Lidköpings Golfklubb**
@@ -26609,14 +36691,20 @@ Nummer: 12773
     123 495 65 46
 
 
+
+
 **Lidköpings Kampsport IF**
 
     123 649 07 83
 
 
+
+
 **Lidköpings Konstförening**
 
     123 389 48 62
+
+
 
 
 **Lidköpings Missionsförsamling**
@@ -26626,14 +36714,20 @@ Nummer: 12773
     123 696 83 58
 
 
+
+
 **Lidköpings Pistolskytteförening**
 
     123 687 62 88
 
 
+
+
 **Lidköpings R/C Klubb, LRCK**
 
     123 579 04 23
+
+
 
 
 **Lidköpings VSK**
@@ -26651,9 +36745,13 @@ Nummer: 12773
     123 494 54 81 - Medlemsavgifter
 
 
+
+
 **Lidköpingsbygdens Släktforskarförening**
 
     123 350 53 10
+
+
 
 
 **Lids Bygdegårdsförening**
@@ -26661,14 +36759,20 @@ Nummer: 12773
     123 098 91 11
 
 
+
+
 **LIF Lindesberg**
 
     123 396 85 59
 
 
+
+
 **Life in motion Kämpinge / Caroline Montelius**
 
     123 290 11 22
+
+
 
 
 **Lifecenter International Church**
@@ -26680,9 +36784,13 @@ Nummer: 12773
     123 389 47 55 - Västerås
 
 
+
+
 **Lifeforum Sweden AB**
 
     123 231 54 55
+
+
 
 
 **LifeTV Sverige / Hillevi Sjögren**
@@ -26690,9 +36798,13 @@ Nummer: 12773
     123 004 00 97
 
 
+
+
 **LightTransmission / Karin Åberg**
 
     123 671 84 72
+
+
 
 
 **Liisas Friskvårdsmassage / Liisa Falkenlund**
@@ -26700,9 +36812,13 @@ Nummer: 12773
     123 494 31 06
 
 
+
+
 **Liksjuon Sámiensiäbrrie - Lycksele Sameförening**
 
     123 282 49 36
+
+
 
 
 **Lila shala / Kim Mariancila**
@@ -26710,9 +36826,13 @@ Nummer: 12773
     123 620 43 25
 
 
+
+
 **Liljans SK**
 
     123 394 41 21
+
+
 
 
 **Liljeholmens BJJ & MMA**
@@ -26720,9 +36840,13 @@ Nummer: 12773
     123 417 07 34
 
 
+
+
 **Liljeholmens folkhögskola**
 
     123 616 12 77
+
+
 
 
 **Lilla Bandet från Färgelanda / Johan Pettersen AB**
@@ -26732,9 +36856,13 @@ Nummer: 12773
     123 435 17 30
 
 
+
+
 **Lilla Beddinge BK**
 
     123 580 39 45
+
+
 
 
 **Lilla Beddinge Byalag**
@@ -26742,9 +36870,13 @@ Nummer: 12773
     123 079 63 18
 
 
+
+
 **Lilla Edets Pistolskytteklubb**
 
     123 573 22 50
+
+
 
 
 **Lilla Götafors / Malin Och Simon Färg och Form AB**
@@ -26752,9 +36884,13 @@ Nummer: 12773
     123 520 08 60
 
 
+
+
 **Lilla hjärtat vänförening**
 
     123 529 64 88
+
+
 
 
 **Lilla Tjärby IK**
@@ -26762,9 +36898,13 @@ Nummer: 12773
     123 202 17 07
 
 
+
+
 **Lilla Träslövs FF**
 
     123 132 59 84
+
+
 
 
 **Lillhagens RK - Ridsport**
@@ -26772,9 +36912,13 @@ Nummer: 12773
     123 351 35 95
 
 
+
+
 **Lillpite Fiske Fiskevårdsförening**
 
     123 113 75 20
+
+
 
 
 **Lillpite Idrottsförening**
@@ -26782,9 +36926,13 @@ Nummer: 12773
     123 562 77 08
 
 
+
+
 **Lillsjöns Pistolskytteklubb**
 
     123 448 02 65
+
+
 
 
 **Lillsved Gymnastik- och Idrottsfolkhögskola**
@@ -26792,9 +36940,13 @@ Nummer: 12773
     123 213 86 91
 
 
+
+
 **Lillån IBK**
 
     123 517 74 31
+
+
 
 
 **Lillån TK - Tennis**
@@ -26802,9 +36954,13 @@ Nummer: 12773
     123 551 06 80
 
 
+
+
 **Lillöringen Fiskeklubb**
 
     123 662 02 15
+
+
 
 
 **Lima Fiskevårdsförening i Malung**
@@ -26816,9 +36972,13 @@ Nummer: 12773
     123 529 77 75
 
 
+
+
 **Lima Hembygdsförening**
 
     123 532 41 32
+
+
 
 
 **Lima IF**
@@ -26826,9 +36986,13 @@ Nummer: 12773
     123 245 22 25
 
 
+
+
 **Lima Motorsällskap**
 
     123 471 78 07
+
+
 
 
 **Lima Skyttegille**
@@ -26836,9 +37000,13 @@ Nummer: 12773
     123 337 22 65
 
 
+
+
 **Lima Transtrands Församling**
 
     123 515 79 38
+
+
 
 
 **Limhamns Brassband**
@@ -26846,9 +37014,13 @@ Nummer: 12773
     123 412 10 18
 
 
+
+
 **Limhamns Konstförening**
 
     123 211 65 80
+
+
 
 
 **Limhamns Museiförening**
@@ -26856,9 +37028,13 @@ Nummer: 12773
     123 137 40 65
 
 
+
+
 **Limhamns Segelsällskap**
 
     123 368 07 09
+
+
 
 
 **Limhams Shotokan Karateklubb**
@@ -26866,9 +37042,13 @@ Nummer: 12773
     123 252 04 76
 
 
+
+
 **Limmud Stockholm**
 
     123 414 98 11
+
+
 
 
 **Limone Ristorante Italiano / HE Lind AB**
@@ -26876,14 +37056,20 @@ Nummer: 12773
     123 372 46 89
 
 
+
+
 **Limonia Dalarna AB**
 
     123 082 19 34
 
 
+
+
 **Linas Trafikskola**
 
     123 512 75 19
+
+
 
 
 **Lindberga Församling**
@@ -26893,9 +37079,13 @@ Nummer: 12773
     123 555 85 80
 
 
+
+
 **Lindberga Hembygdsförening**
 
     123 340 01 32
+
+
 
 
 **Linde Bergslags Församling**
@@ -26903,9 +37093,13 @@ Nummer: 12773
     123 366 33 17
 
 
+
+
 **Lindeborgs Eco Retreat / Lindeborg Development AB**
 
     123 534 51 78
+
+
 
 
 **Lindesberg Golf & Hotell**
@@ -26915,9 +37109,13 @@ Nummer: 12773
     123 695 61 63 - Golfverksamheten
 
 
+
+
 **Lindesberg Volley**
 
     123 695 44 81
+
+
 
 
 **Lindesbergs Allmänna Gymnastikförening**
@@ -26925,9 +37123,13 @@ Nummer: 12773
     123 288 66 20
 
 
+
+
 **Lindesbergs Brukshundklubb**
 
     123 209 35 99
+
+
 
 
 **Lindesbergs Curlingklubb**
@@ -26935,9 +37137,13 @@ Nummer: 12773
     123 496 64 79
 
 
+
+
 **Lindesbergs Fotoklubb**
 
     123 678 45 73
+
+
 
 
 **Lindesbergs Hembygdsförening**
@@ -26945,9 +37151,13 @@ Nummer: 12773
     123 671 83 65
 
 
+
+
 **Lindesbergs Konstförening**
 
     123 500 46 35
+
+
 
 
 **Lindia AB**
@@ -26955,9 +37165,13 @@ Nummer: 12773
     123 042 85 32
 
 
+
+
 **Lindlövens IF**
 
     123 156 67 44
+
+
 
 
 **Lindome Basket**
@@ -26965,9 +37179,13 @@ Nummer: 12773
     123 626 20 34
 
 
+
+
 **Lindome Bågskytteklubb**
 
     123 124 26 01
+
+
 
 
 **Lindome Församling**
@@ -26977,9 +37195,13 @@ Nummer: 12773
     123 480 75 66 - Kollekt
 
 
+
+
 **Lindome GIF**
 
     123 160 59 97
+
+
 
 
 **Lindome IBK**
@@ -26989,9 +37211,13 @@ Nummer: 12773
     123 427 46 50
 
 
+
+
 **Lindy Hop Östersund**
 
     123 147 67 04
+
+
 
 
 **Lindö Minigolf och Haga Bangolfklubb**
@@ -26999,9 +37225,13 @@ Nummer: 12773
     123 560 61 99
 
 
+
+
 **Linedanceföreningen Thunderboots**
 
     123 402 95 75
+
+
 
 
 **Linero IF**
@@ -27009,9 +37239,13 @@ Nummer: 12773
     123 225 91 17
 
 
+
+
 **LineUp Gundogs / Emso Consulting AB**
 
     123 430 66 19
+
+
 
 
 **Lingbo Hembygdsförening**
@@ -27019,9 +37253,13 @@ Nummer: 12773
     123 096 15 57
 
 
+
+
 **Lingham Enterprise AB**
 
     123 121 84 29
+
+
 
 
 **Linghemskyrkans Församling**
@@ -27031,9 +37269,13 @@ Nummer: 12773
     123 157 99 94
 
 
+
+
 **Linköping Football Club**
 
     123 054 01 46
+
+
 
 
 **Linköpingpolisens Konstförening**
@@ -27041,9 +37283,13 @@ Nummer: 12773
     123 103 99 81
 
 
+
+
 **Linköpings Allmänna Schacksällskap**
 
     123 521 97 38
+
+
 
 
 **Linköpings Budoklubb**
@@ -27051,9 +37297,13 @@ Nummer: 12773
     123 222 30 63
 
 
+
+
 **Linköpings domkyrkopastorat**
 
     123 325 88 52
+
+
 
 
 **Linköpings Fältrittklubb**
@@ -27061,14 +37311,20 @@ Nummer: 12773
     123 511 66 60
 
 
+
+
 **Linköpings GIF**
 
     123 335 75 89
 
 
+
+
 **Linköpings GMF**
 
     123 517 75 30
+
+
 
 
 **Linköpings Missionsförsamling**
@@ -27078,9 +37334,13 @@ Nummer: 12773
     123 175 86 63
 
 
+
+
 **Linköpings Moskéstiftelse**
 
     123 219 38 11
+
+
 
 
 **Linköpings MS - Bilsport**
@@ -27088,9 +37348,13 @@ Nummer: 12773
     123 000 93 81
 
 
+
+
 **Linköpings Senioruniversitet**
 
     123 265 66 43
+
+
 
 
 **Linköpings Sportdykarklubb, LSDK**
@@ -27098,9 +37362,13 @@ Nummer: 12773
     123 288 09 46
 
 
+
+
 **LinköpingsPolisens SeniorKlubb, LPSK**
 
     123 014 19 60
+
+
 
 
 **Linköpnings Nämndemannaförening**
@@ -27108,9 +37376,13 @@ Nummer: 12773
     123 320 82 20
 
 
+
+
 **Linnébygdens Hundägarförening**
 
     123 603 32 60
+
+
 
 
 **Linnés vänner**
@@ -27118,9 +37390,13 @@ Nummer: 12773
     123 333 58 17
 
 
+
+
 **Linneo Yoga AB**
 
     123 628 06 63
+
+
 
 
 **Linneryds Församling**
@@ -27130,9 +37406,13 @@ Nummer: 12773
     123 287 39 90 - Kollekt
 
 
+
+
 **Linsells Byalag och Bygdegårdsförening**
 
     123 330 44 58
+
+
 
 
 **Lions Barnfond Hjärtat**
@@ -27140,9 +37420,13 @@ Nummer: 12773
     123 148 23 55
 
 
+
+
 **Lions Båstad Skåne**
 
     123 514 47 61
+
+
 
 
 **Lions Cancerforskningsfond**
@@ -27150,9 +37434,13 @@ Nummer: 12773
     123 603 40 60 - Umeå Universitet
 
 
+
+
 **Lions Cancerforskningsfond, LCFM**
 
     123 588 43 41
+
+
 
 
 **Lions Club Arvika**
@@ -27160,9 +37448,13 @@ Nummer: 12773
     123 387 90 61
 
 
+
+
 **Lions Club Avesta**
 
     123 137 13 27
+
+
 
 
 **Lions Club Bara**
@@ -27170,9 +37462,13 @@ Nummer: 12773
     123 209 64 36
 
 
+
+
 **Lions Club Bergsjö**
 
     123 172 83 85
+
+
 
 
 **Lions Club Borensberg**
@@ -27180,9 +37476,13 @@ Nummer: 12773
     123 275 24 59
 
 
+
+
 **Lions Club Borås**
 
     123 682 60 02
+
+
 
 
 **Lions Club Bålsta**
@@ -27190,9 +37490,13 @@ Nummer: 12773
     123 426 09 80
 
 
+
+
 **Lions Club Distrikt 101M**
 
     123 564 04 38
+
+
 
 
 **Lions Club Falkenberg**
@@ -27200,9 +37504,13 @@ Nummer: 12773
     123 149 29 41
 
 
+
+
 **Lions Club Finspång**
 
     123 589 44 72
+
+
 
 
 **Lions Club Gnesta**
@@ -27210,9 +37518,13 @@ Nummer: 12773
     123 237 09 06
 
 
+
+
 **Lions Club Hedemora**
 
     123 320 02 50
+
+
 
 
 **Lions Club Hindås**
@@ -27220,9 +37532,13 @@ Nummer: 12773
     123 580 73 18
 
 
+
+
 **Lions Club Hudiksvall**
 
     123 688 77 80
+
+
 
 
 **Lions Club Högsby**
@@ -27230,9 +37546,13 @@ Nummer: 12773
     123 240 42 83
 
 
+
+
 **Lions Club Jarramas Karlskrona**
 
     123 686 39 63
+
+
 
 
 **Lions Club Karlskrona**
@@ -27240,14 +37560,20 @@ Nummer: 12773
     123 074 35 91
 
 
+
+
 **Lions Club Karlskrona Jarramas**
 
     123 672 20 52
 
 
+
+
 **Lions Club Kinna-Skene**
 
     123 644 98 96
+
+
 
 
 **Lions Club Laholm**
@@ -27257,14 +37583,20 @@ Nummer: 12773
     123 666 15 16
 
 
+
+
 **Lions Club Leksand**
 
     123 627 36 35
 
 
+
+
 **Lions Club Lerum**
 
     123 379 08 13
+
+
 
 
 **Lions Club Ljugarn**
@@ -27274,14 +37606,20 @@ Nummer: 12773
     123 617 83 39
 
 
+
+
 **Lions Club Lomma**
 
     123 456 78 48
 
 
+
+
 **Lions Club Ludvika**
 
     123 083 31 86
+
+
 
 
 **Lions Club Löddeköpinge**
@@ -27291,9 +37629,13 @@ Nummer: 12773
     123 572 40 59
 
 
+
+
 **Lions Club Malmö Ellenbogen**
 
     123 010 07 50
+
+
 
 
 **Lions Club Mariestad**
@@ -27301,9 +37643,13 @@ Nummer: 12773
     123 288 66 04
 
 
+
+
 **Lions Club Mjölby**
 
     123 440 66 66
+
+
 
 
 **Lions Club Motala Blåklinten**
@@ -27311,9 +37657,13 @@ Nummer: 12773
     123 197 31 48
 
 
+
+
 **Lions Club Märsta-Arlanda**
 
     123 694 33 51
+
+
 
 
 **Lions Club Mölndal**
@@ -27323,9 +37673,13 @@ Nummer: 12773
     123 656 94 79 - Bakluckeloppis
 
 
+
+
 **Lions Club Mönsterås**
 
     123 410 26 46
+
+
 
 
 **Lions Club Nossebro**
@@ -27335,9 +37689,13 @@ Nummer: 12773
     123 362 29 25 - Klubbkassan
 
 
+
+
 **Lions Club Nybro**
 
     123 345 56 07
+
+
 
 
 **Lions Club Nässjö**
@@ -27345,9 +37703,13 @@ Nummer: 12773
     123 471 47 96
 
 
+
+
 **Lions Club Oskarström**
 
     123 426 42 22
+
+
 
 
 **Lions Club Oxelösund**
@@ -27355,9 +37717,13 @@ Nummer: 12773
     123 503 17 03
 
 
+
+
 **Lions Club Piteå**
 
     123 218 40 67
+
+
 
 
 **Lions Club Piteå-Öjebyn**
@@ -27365,9 +37731,13 @@ Nummer: 12773
     123 160 44 46
 
 
+
+
 **Lions Club Romeleåsen**
 
     123 047 09 63
+
+
 
 
 **Lions Club Rättvik**
@@ -27375,9 +37745,13 @@ Nummer: 12773
     123 576 78 76
 
 
+
+
 **Lions Club Sigtuna**
 
     123 122 97 64
+
+
 
 
 **Lions Club Simrishamn**
@@ -27385,9 +37759,13 @@ Nummer: 12773
     123 161 95 01
 
 
+
+
 **Lions Club Sjöbo**
 
     123 609 88 18
+
+
 
 
 **Lions Club Skellefteå**
@@ -27395,9 +37773,13 @@ Nummer: 12773
     123 326 16 17
 
 
+
+
 **Lions Club Skurup**
 
     123 553 11 16
+
+
 
 
 **Lions Club Smålandsstenar**
@@ -27405,9 +37787,13 @@ Nummer: 12773
     123 458 09 65
 
 
+
+
 **Lions Club Staffanstorp**
 
     123 290 42 41
+
+
 
 
 **Lions Club Sundborn**
@@ -27415,14 +37801,20 @@ Nummer: 12773
     123 160 55 67
 
 
+
+
 **Lions Club Sundbyberg**
 
     123 395 28 50
 
 
+
+
 **Lions Club Svedala**
 
     123 291 82 82
+
+
 
 
 **Lions Club Svenljunga**
@@ -27432,9 +37824,13 @@ Nummer: 12773
     123 117 57 85
 
 
+
+
 **Lions Club Söderköping**
 
     123 559 20 92
+
+
 
 
 **Lions Club Tibro**
@@ -27442,9 +37838,13 @@ Nummer: 12773
     123 699 15 09
 
 
+
+
 **Lions Club Tidaholm**
 
     123 465 25 25
+
+
 
 
 **Lions Club Tollarp**
@@ -27452,9 +37852,13 @@ Nummer: 12773
     123 312 37 34
 
 
+
+
 **Lions Club Tranemo**
 
     123 172 04 40
+
+
 
 
 **Lions Club Tyringe**
@@ -27462,9 +37866,13 @@ Nummer: 12773
     123 538 35 91
 
 
+
+
 **Lions Club Täby**
 
     123 210 68 54
+
+
 
 
 **Lions Club Uddevalla**
@@ -27472,9 +37880,13 @@ Nummer: 12773
     123 480 40 92
 
 
+
+
 **Lions Club Ulricehamn**
 
     123 589 64 36
+
+
 
 
 **Lions Club Uppsala**
@@ -27482,9 +37894,13 @@ Nummer: 12773
     123 514 86 63
 
 
+
+
 **Lions Club Upsala Disa**
 
     123 426 23 41
+
+
 
 
 **Lions Club Vaxholm**
@@ -27492,9 +37908,13 @@ Nummer: 12773
     123 477 43 78
 
 
+
+
 **Lions Club Vimmerby**
 
     123 271 16 12
+
+
 
 
 **Lions Club Visby**
@@ -27502,9 +37922,13 @@ Nummer: 12773
     123 147 11 27
 
 
+
+
 **Lions Club Wä**
 
     123 288 77 19
+
+
 
 
 **Lions Club Älmhult**
@@ -27512,9 +37936,13 @@ Nummer: 12773
     123 086 63 27
 
 
+
+
 **Lions Club Älvsbyn**
 
     123 398 12 30
+
+
 
 
 **Lions Club Österåker**
@@ -27522,9 +37950,13 @@ Nummer: 12773
     123 274 19 99
 
 
+
+
 **Lions Forskningsfond mot Folksjukdomar**
 
     123 900 23 61
+
+
 
 
 **Lions Färjestaden**
@@ -27532,9 +37964,13 @@ Nummer: 12773
     123 162 76 52
 
 
+
+
 **Lions Genarp**
 
     123 658 07 57
+
+
 
 
 **Lions Hallstavik-Väddö**
@@ -27542,9 +37978,13 @@ Nummer: 12773
     123 221 39 65
 
 
+
+
 **Lions Knivsta**
 
     123 554 48 87
+
+
 
 
 **Lions Luleå**
@@ -27552,9 +37992,13 @@ Nummer: 12773
     123 019 17 42
 
 
+
+
 **Lions Åhus**
 
     123 091 01 41
+
+
 
 
 **Listeners Without Borders**
@@ -27562,9 +38006,13 @@ Nummer: 12773
     123 305 95 99
 
 
+
+
 **Listerby IK**
 
     123 330 83 76
+
+
 
 
 **LiTHe Vilse**
@@ -27572,9 +38020,13 @@ Nummer: 12773
     123 609 71 58
 
 
+
+
 **Litografiska Museet**
 
     123 680 93 70
+
+
 
 
 **Lits Hembygdsförening**
@@ -27582,9 +38034,13 @@ Nummer: 12773
     123 082 13 22
 
 
+
+
 **Litslena Bygdegårdsförening**
 
     123 461 14 48
+
+
 
 
 **Little Lambs Vänner**
@@ -27592,9 +38048,13 @@ Nummer: 12773
     123 390 63 77
 
 
+
+
 **Little Lions**
 
     123 302 44 94
+
+
 
 
 **Liv i Balans Dalarna AB**
@@ -27602,9 +38062,13 @@ Nummer: 12773
     123 041 38 07
 
 
+
+
 **Liv i Sverige**
 
     123 677 36 83
+
+
 
 
 **Livbojen för Hemlösa Katter**
@@ -27612,9 +38076,13 @@ Nummer: 12773
     123 435 03 69
 
 
+
+
 **Live Jazz Emmaboda**
 
     123 128 00 31
+
+
 
 
 **Livemusik UF / Nikki Hatton**
@@ -27622,9 +38090,13 @@ Nummer: 12773
     123 027 23 02
 
 
+
+
 **Livet Och Själen i Varberg / Ann Häggebrant**
 
     123 181 47 06
+
+
 
 
 **Livgrenadjärmässens Ideella Förening**
@@ -27632,9 +38104,13 @@ Nummer: 12773
     123 275 27 80
 
 
+
+
 **Liviöjärvi IF**
 
     123 582 35 96
+
+
 
 
 **Livrustkammarens Vänner**
@@ -27642,9 +38118,13 @@ Nummer: 12773
     123 107 33 29
 
 
+
+
 **Livräddarna Tylösand**
 
     123 554 48 38
+
+
 
 
 **Livsmedelsarbetareförbundet**
@@ -27652,9 +38132,13 @@ Nummer: 12773
     123 098 46 41
 
 
+
+
 **Ljudkonstgalleriet**
 
     123 349 05 05
+
+
 
 
 **Ljudtekniska Sällskapet**
@@ -27662,9 +38146,13 @@ Nummer: 12773
     123 129 76 88
 
 
+
+
 **Ljungagårdens Allehanda / Carl Magnus Svensson**
 
     123 071 39 74
+
+
 
 
 **Ljungby Brukshundsklubb**
@@ -27672,11 +38160,15 @@ Nummer: 12773
     123 097 38 26
 
 
+
+
 **Ljungby Församling**
 
     123 137 45 11 - Kollekt
 
     123 354 66 78
+
+
 
 
 **Ljungby IF**
@@ -27688,6 +38180,8 @@ Nummer: 12773
     123 388 19 50
 
 
+
+
 **Ljungby Maria Församling**
 
     123 427 42 05
@@ -27695,9 +38189,13 @@ Nummer: 12773
     123 540 74 16
 
 
+
+
 **Ljungby Padelförening**
 
     123 382 42 40
+
+
 
 
 **Ljungby Pastorat**
@@ -27707,9 +38205,13 @@ Nummer: 12773
     123 657 01 88 - Begravningsmuseet i Ljungby
 
 
+
+
 **Ljungby Ridklubb**
 
     123 179 31 08
+
+
 
 
 **Ljungbyheds Golfklubb**
@@ -27717,9 +38219,13 @@ Nummer: 12773
     123 434 91 97
 
 
+
+
 **Ljungbyheds IF**
 
     123 231 82 10
+
+
 
 
 **Ljungbyheds Pistolklubb**
@@ -27727,9 +38233,13 @@ Nummer: 12773
     123 389 66 85
 
 
+
+
 **Ljungdalens Friluftsförening Turist- & Informations Byrå**
 
     123 032 89 22
+
+
 
 
 **Ljunghusens Golfklubb**
@@ -27737,14 +38247,20 @@ Nummer: 12773
     123 184 58 82
 
 
+
+
 **Ljunghusens Golfklubb**
 
     123 276 52 79
 
 
+
+
 **Ljungsjögården Bed & Box**
 
     123 655 37 96
+
+
 
 
 **Ljungskile Församling**
@@ -27756,9 +38272,13 @@ Nummer: 12773
     123 680 87 78 - Kollekt
 
 
+
+
 **Ljungskile Innebandyklubb**
 
     123 360 34 04
+
+
 
 
 **Ljungskile Padelklubb**
@@ -27766,9 +38286,13 @@ Nummer: 12773
     123 638 45 64
 
 
+
+
 **Ljungskile RK - Ridsport**
 
     123 263 38 32
+
+
 
 
 **Ljungskile Segelsällskap**
@@ -27776,9 +38300,13 @@ Nummer: 12773
     123 143 69 55
 
 
+
+
 **Ljungskile SK**
 
     123 609 62 18
+
+
 
 
 **Ljungskile Teatersällskap**
@@ -27786,9 +38314,13 @@ Nummer: 12773
     123 192 98 68
 
 
+
+
 **Ljungskileortens Hembygdsförening**
 
     123 077 94 47
+
+
 
 
 **Ljus i Öster**
@@ -27796,14 +38328,20 @@ Nummer: 12773
     123 900 36 25
 
 
+
+
 **Ljusdal Archery Club**
 
     123 691 79 67
 
 
+
+
 **Ljusdal-Ramsjö Församling**
 
     123 278 55 25
+
+
 
 
 **Ljusdals FK - Flygsport**
@@ -27817,9 +38355,13 @@ Nummer: 12773
     123 599 41 24 - Motorflyg
 
 
+
+
 **Ljusdals Hembygdsförening**
 
     123 458 69 54
+
+
 
 
 **Ljusdals Ridklubb**
@@ -27827,9 +38369,13 @@ Nummer: 12773
     123 337 12 83
 
 
+
+
 **Ljusdals Shotokan Karateklubb**
 
     123 433 98 83
+
+
 
 
 **Ljusfallshammars Byaråd**
@@ -27837,9 +38383,13 @@ Nummer: 12773
     123 046 06 34
 
 
+
+
 **Ljusne AIK FF**
 
     123 452 36 35
+
+
 
 
 **Ljusne Sportfiskeklubb**
@@ -27847,9 +38397,13 @@ Nummer: 12773
     123 055 48 08
 
 
+
+
 **Ljusterö Bygdegårdsförening**
 
     123 561 41 44
+
+
 
 
 **Ljusterö Hembygdsförening**
@@ -27857,9 +38411,13 @@ Nummer: 12773
     123 449 15 28
 
 
+
+
 **Ljusterö Idrottssällskap**
 
     123 085 81 83
+
+
 
 
 **Ljusterö Jakt & Sportskytteklubb**
@@ -27867,9 +38425,13 @@ Nummer: 12773
     123 286 25 97
 
 
+
+
 **Ljusterö Konstförening**
 
     123 219 29 46
+
+
 
 
 **Ljustorps Bygdegård**
@@ -27877,9 +38439,13 @@ Nummer: 12773
     123 058 82 69
 
 
+
+
 **LL Dance Studio / Lina Larsson**
 
     123 354 91 10
+
+
 
 
 **Locker Room Talk**
@@ -27887,9 +38453,13 @@ Nummer: 12773
     123 379 00 37
 
 
+
+
 **Locknevi Bygdegårdsförening**
 
     123 226 88 52
+
+
 
 
 **Locktorps Festplats & Kulturförening**
@@ -27897,9 +38467,13 @@ Nummer: 12773
     123 499 92 72
 
 
+
+
 **Loftahammars Hembygdsförening**
 
     123 227 95 60
+
+
 
 
 **Lohärads Bygdegårdsförening**
@@ -27907,9 +38481,13 @@ Nummer: 12773
     123 169 92 63
 
 
+
+
 **Lohärads Församling**
 
     123 147 04 00
+
+
 
 
 **Lohärads Hembygdsförening**
@@ -27917,9 +38495,13 @@ Nummer: 12773
     123 365 19 65
 
 
+
+
 **Lojstaträskens Samfällighetsförening**
 
     123 122 48 07
+
+
 
 
 **Lokala Hjälpen - Tillsammans för Västerås**
@@ -27927,9 +38509,13 @@ Nummer: 12773
     123 523 17 90
 
 
+
+
 **Lokalhistoriska Sällskapet i Örebro Län**
 
     123 083 37 98
+
+
 
 
 **Lokrume Hembygdsförening**
@@ -27937,9 +38523,13 @@ Nummer: 12773
     123 473 99 83
 
 
+
+
 **Lomma-Burlöv Släkt och Folklivsforskare**
 
     123 035 16 84
+
+
 
 
 **Lomma Combat Jujutsu**
@@ -27947,9 +38537,13 @@ Nummer: 12773
     123 407 42 74
 
 
+
+
 **Lomma Event**
 
     123 104 36 29
+
+
 
 
 **Lomma Konstförening**
@@ -27957,9 +38551,13 @@ Nummer: 12773
     123 070 25 06
 
 
+
+
 **Lomma Ridklubb**
 
     123 038 80 66
+
+
 
 
 **Lomma Scoutkår**
@@ -27967,9 +38565,13 @@ Nummer: 12773
     123 394 01 78
 
 
+
+
 **Lomma Tennis Förening**
 
     123 031 95 25
+
+
 
 
 **Los-Hamra Församling**
@@ -27977,9 +38579,13 @@ Nummer: 12773
     123 652 27 67
 
 
+
+
 **Lost Goats AB**
 
     123 519 41 39
+
+
 
 
 **Lottas Trafikskola AB**
@@ -27987,9 +38593,13 @@ Nummer: 12773
     123 287 08 14
 
 
+
+
 **Lotus Education / Jenny Damm**
 
     123 619 15 06
+
+
 
 
 **Lotus Spa - Massage / Kristofer Haglund**
@@ -27997,9 +38607,13 @@ Nummer: 12773
     123 380 44 40
 
 
+
+
 **Love and Hope**
 
     123 900 50 67
+
+
 
 
 **Love by Force International**
@@ -28007,9 +38621,13 @@ Nummer: 12773
     123 500 05 26
 
 
+
+
 **Lovö Hembygdsförening**
 
     123 576 35 94
+
+
 
 
 **Loza Foundation Insamlingsstiftelse**
@@ -28017,9 +38635,13 @@ Nummer: 12773
     123 900 62 48
 
 
+
+
 **LP-föreningen i Örebro Län**
 
     123 450 34 70
+
+
 
 
 **LP:s Biodling AB**
@@ -28027,9 +38649,13 @@ Nummer: 12773
     123 238 55 08
 
 
+
+
 **LP-Verksamhetens Ideella Riksförening**
 
     123 900 48 96
+
+
 
 
 **LP-vännernas Kamratförening**
@@ -28037,9 +38663,13 @@ Nummer: 12773
     123 051 65 91 - Hörnstenen Stödboende
 
 
+
+
 **LS Tatueringar / Creamstyles AB**
 
     123 479 67 02
+
+
 
 
 **LSW IF**
@@ -28047,9 +38677,13 @@ Nummer: 12773
     123 460 40 21
 
 
+
+
 **Lucky Feet Linedancers**
 
     123 258 88 95
+
+
 
 
 **Lucky Tarot / Tarotlink I Stockholm / Aaryan Paras Sharma**
@@ -28057,9 +38691,13 @@ Nummer: 12773
     123 019 27 24
 
 
+
+
 **Ludgo-Spelviks Bygdegårdsförening**
 
     123 180 25 11
+
+
 
 
 **Ludvigsborgs Byförening**
@@ -28067,9 +38705,13 @@ Nummer: 12773
     123 609 84 87
 
 
+
+
 **Ludvika BK**
 
     123 553 74 10
+
+
 
 
 **Ludvika HF**
@@ -28077,14 +38719,20 @@ Nummer: 12773
     123 006 86 68
 
 
+
+
 **Ludvika Paddlarklubb**
 
     123 578 72 62
 
 
+
+
 **Ludvika TK - Tennis**
 
     123 680 85 54
+
+
 
 
 **LUGI Handboll**
@@ -28094,9 +38742,13 @@ Nummer: 12773
     123 467 78 94 - Soffbiljett
 
 
+
+
 **Lugi Judoklubb**
 
     123 465 70 11
+
+
 
 
 **LUGI Vattenpoloklubb**
@@ -28104,9 +38756,13 @@ Nummer: 12773
     123 197 56 06
 
 
+
+
 **Lugnås Församling**
 
     123 082 12 23
+
+
 
 
 **Lugnås-Ullervads Pastorat**
@@ -28114,9 +38770,13 @@ Nummer: 12773
     123 208 81 69 - Kollekt
 
 
+
+
 **Lula Wellbeing / Cecilia Vintesnö**
 
     123 673 12 69
+
+
 
 
 **Lule Volley**
@@ -28124,9 +38784,13 @@ Nummer: 12773
     123 511 18 51
 
 
+
+
 **Lulegymnasterna**
 
     123 527 94 68
+
+
 
 
 **Luleå AKF**
@@ -28134,9 +38798,13 @@ Nummer: 12773
     123 691 97 08
 
 
+
+
 **Luleå Badmintonklubb**
 
     123 652 21 14
+
+
 
 
 **Luleå Basketbollklubb**
@@ -28144,9 +38812,13 @@ Nummer: 12773
     123 086 63 50
 
 
+
+
 **Luleå Bouleklubb**
 
     123 394 08 55
+
+
 
 
 **Luleå Brottarklubb - Brottning**
@@ -28154,9 +38826,13 @@ Nummer: 12773
     123 162 70 90
 
 
+
+
 **Luleå Brukshundklubb**
 
     123 413 88 97
+
+
 
 
 **Luleå Discgolfförening**
@@ -28164,9 +38840,13 @@ Nummer: 12773
     123 651 18 69
 
 
+
+
 **Luleå Domarklubb**
 
     123 073 79 24
+
+
 
 
 **Luleå FC**
@@ -28174,9 +38854,13 @@ Nummer: 12773
     123 387 34 11
 
 
+
+
 **Luleå Fotboll Dam**
 
     123 295 41 21
+
+
 
 
 **Luleå Fridsförbund**
@@ -28184,9 +38868,13 @@ Nummer: 12773
     123 440 79 61
 
 
+
+
 **Luleå HIF - Parasport**
 
     123 545 59 44
+
+
 
 
 **Luleå Hockey**
@@ -28194,9 +38882,13 @@ Nummer: 12773
     123 009 52 32
 
 
+
+
 **Luleå Jaktvårdsklubb, LJVK**
 
     123 228 98 09
+
+
 
 
 **Luleå ju-jutsuklubb**
@@ -28206,9 +38898,13 @@ Nummer: 12773
     123 602 12 16
 
 
+
+
 **Luleå Karateklubb**
 
     123 121 70 82
+
+
 
 
 **Luleå KK - Kanot**
@@ -28216,9 +38912,13 @@ Nummer: 12773
     123 539 26 42
 
 
+
+
 **Luleå klätterklubb**
 
     123 529 49 05
+
+
 
 
 **Luleå Kommun**
@@ -28226,9 +38926,13 @@ Nummer: 12773
     123 019 04 13 - Hamnavgift
 
 
+
+
 **Luleå Pistolklubb**
 
     123 281 23 94
+
+
 
 
 **Luleå RC Klubb**
@@ -28236,9 +38940,13 @@ Nummer: 12773
     123 149 32 46
 
 
+
+
 **Luleå Ridklubb**
 
     123 471 64 29
+
+
 
 
 **Luleå Roller Derby Förening**
@@ -28246,9 +38954,13 @@ Nummer: 12773
     123 526 21 75
 
 
+
+
 **Luleå SK**
 
     123 553 21 63
+
+
 
 
 **Luleå Skatepark / Luleå Extremsportförening**
@@ -28256,9 +38968,13 @@ Nummer: 12773
     123 185 96 44
 
 
+
+
 **Luleå Skärgårdförening**
 
     123 300 35 89
+
+
 
 
 **LuleåFans**
@@ -28270,9 +38986,13 @@ Nummer: 12773
     123 608 58 15
 
 
+
+
 **Lund FC**
 
     123 665 47 84
+
+
 
 
 **Lund Vikings AFC**
@@ -28280,9 +39000,13 @@ Nummer: 12773
     123 671 99 59
 
 
+
+
 **Lunda Hembygdsförening**
 
     123 424 72 76
+
+
 
 
 **Lundabygdens Dövas Förening**
@@ -28290,9 +39014,13 @@ Nummer: 12773
     123 075 24 36
 
 
+
+
 **Lundby Egnahemsförening**
 
     123 644 71 48
+
+
 
 
 **Lundby IF**
@@ -28300,9 +39028,13 @@ Nummer: 12773
     123 231 69 25
 
 
+
+
 **Lunds Akademiska Ryttarsällskap, LARS**
 
     123 480 49 28
+
+
 
 
 **Lunds Biodlare**
@@ -28310,9 +39042,13 @@ Nummer: 12773
     123 134 06 52
 
 
+
+
 **Lunds BK Mamba**
 
     123 218 88 03
+
+
 
 
 **Lunds BoIS**
@@ -28322,9 +39058,13 @@ Nummer: 12773
     123 197 41 38
 
 
+
+
 **Lunds Botaniska Förening**
 
     123 095 91 30
+
+
 
 
 **Lunds Kommun**
@@ -28332,9 +39072,13 @@ Nummer: 12773
     123 006 78 92 - Vinteraktiviteter
 
 
+
+
 **Lunds skateboard- och konstförening**
 
     123 655 59 16
+
+
 
 
 **Lunds Skogsträdgårdsförening**
@@ -28342,9 +39086,13 @@ Nummer: 12773
     123 643 31 30
 
 
+
+
 **Lunds Sportklubb**
 
     123 677 99 95
+
+
 
 
 **Lunds Universitet**
@@ -28354,9 +39102,13 @@ Nummer: 12773
     123 132 23 61
 
 
+
+
 **Lunds Universitetshistoriska Sällskap, LUHS**
 
     123 697 38 79
+
+
 
 
 **Lundsberg Bygdegårdsförening**
@@ -28364,9 +39116,13 @@ Nummer: 12773
     123 097 03 84
 
 
+
+
 **Lungcancerföreningen**
 
     123 662 44 15
+
+
 
 
 **Lurs sockens bygdeförening**
@@ -28374,9 +39130,13 @@ Nummer: 12773
     123 173 38 23
 
 
+
+
 **Lycksele Golfklubb**
 
     123 452 36 76
+
+
 
 
 **Lycksele IF Fotboll**
@@ -28384,9 +39144,13 @@ Nummer: 12773
     123 670 32 50
 
 
+
+
 **Lycksele kommun**
 
     123 557 49 26 - Spåravgift Tannen
+
+
 
 
 **Lycksele Tjejjour**
@@ -28394,9 +39158,13 @@ Nummer: 12773
     123 401 67 96
 
 
+
+
 **Lyckå FF**
 
     123 682 61 43
+
+
 
 
 **Lyckå Församling**
@@ -28408,14 +39176,20 @@ Nummer: 12773
     123 626 18 04 - Fair-Trade-varor
 
 
+
+
 **Lye Ridhus / Börje Jakobson**
 
     123 627 12 17
 
 
+
+
 **Lyft ett barn ur mörkret**
 
     123 900 19 34
+
+
 
 
 **Lyftidrottens Ungdomsfond**
@@ -28425,9 +39199,13 @@ Nummer: 12773
     123 363 52 24 - Styrkelyft
 
 
+
+
 **Lymf- och lipödemföreningen Stockholms län**
 
     123 113 31 07
+
+
 
 
 **Lymf Sverige**
@@ -28435,9 +39213,13 @@ Nummer: 12773
     123 698 55 43
 
 
+
+
 **Lyrestads Hundcenter / Eva Gustavsson**
 
     123 254 19 36
+
+
 
 
 **Lyse Församling**
@@ -28445,9 +39227,13 @@ Nummer: 12773
     123 441 28 96 - Kollekt
 
 
+
+
 **Lysekils Allmänna Idrottsklubb**
 
     123 024 44 91
+
+
 
 
 **Lysekils HK**
@@ -28455,9 +39241,13 @@ Nummer: 12773
     123 301 09 72
 
 
+
+
 **Lysekils HV**
 
     123 281 63 95
+
+
 
 
 **Lysekils Klätterklubb**
@@ -28465,9 +39255,13 @@ Nummer: 12773
     123 150 81 91
 
 
+
+
 **Lysekils Konstförening**
 
     123 309 40 59
+
+
 
 
 **Lysekils Pastorat**
@@ -28475,9 +39269,13 @@ Nummer: 12773
     123 130 45 00
 
 
+
+
 **Lysekils Ryttarförening – Ridsport**
 
     123 390 15 92
+
+
 
 
 **Lysestrandsstiftelsen**
@@ -28485,14 +39283,20 @@ Nummer: 12773
     123 103 85 12
 
 
+
+
 **Lysingbadets GK**
 
     123 042 87 06
 
 
+
+
 **Läbyvads Hembygdsförening**
 
     123 426 41 64
+
+
 
 
 **Läckö Golfklubb**
@@ -28504,9 +39308,13 @@ Nummer: 12773
     123 438 57 38 - Kiosk
 
 
+
+
 **Läkare för framtiden**
 
     123 512 02 09
+
+
 
 
 **Läkare utan Gränser**
@@ -28514,9 +39322,13 @@ Nummer: 12773
     123 900 60 32
 
 
+
+
 **Läkarmissionen - stiftelse för filantropisk verksamhet**
 
     123 900 02 17
+
+
 
 
 **Läkarsekreterares och Sjukvårdsadministratörers Förbund, LSF**
@@ -28524,9 +39336,13 @@ Nummer: 12773
     123 371 13 89
 
 
+
+
 **Läkaruppropet**
 
     123 059 78 56
+
+
 
 
 **Länghems IF**
@@ -28534,9 +39350,13 @@ Nummer: 12773
     123 098 28 35
 
 
+
+
 **Länna Församling**
 
     123 504 74 36
+
+
 
 
 **Länna Hembygdsförening**
@@ -28544,9 +39364,13 @@ Nummer: 12773
     123 061 34 14
 
 
+
+
 **Länna Sport Cykelklubb, LSCK**
 
     123 406 76 82
+
+
 
 
 **Länsföreningen Hjärnkoll Västerbotten**
@@ -28556,9 +39380,13 @@ Nummer: 12773
     123 439 63 05
 
 
+
+
 **Lärbro Hembygdsförening**
 
     123 218 13 29
+
+
 
 
 **Lärcentrum / Flens kommun**
@@ -28566,9 +39394,13 @@ Nummer: 12773
     123 417 85 21
 
 
+
+
 **Lågkostnadsbolaget i Skandinavien AB**
 
     123 314 04 98
+
+
 
 
 **Låke 109 AB**
@@ -28576,9 +39408,13 @@ Nummer: 12773
     123 548 21 38
 
 
+
+
 **Långaryds Församling**
 
     123 024 48 97 - Kollekt Långaryds församling
+
+
 
 
 **Långaryds Hembygdsförening**
@@ -28586,9 +39422,13 @@ Nummer: 12773
     123 386 43 11
 
 
+
+
 **Långasands Byalag**
 
     123 624 47 76
+
+
 
 
 **Långasands Idrottsförening**
@@ -28596,9 +39436,13 @@ Nummer: 12773
     123 000 49 45
 
 
+
+
 **Långasjö Bygdegårdsförening**
 
     123 514 97 94
+
+
 
 
 **Långasjö-Emmaboda Pingstförsamling**
@@ -28606,9 +39450,13 @@ Nummer: 12773
     123 476 36 86
 
 
+
+
 **Långasjö Hembygdsförening**
 
     123 555 95 47
+
+
 
 
 **Långasjö Hästsportklubb**
@@ -28616,9 +39464,13 @@ Nummer: 12773
     123 309 35 72
 
 
+
+
 **Långbergets Sporthotell AB**
 
     123 048 95 42
+
+
 
 
 **Långelanda Församling**
@@ -28626,9 +39478,13 @@ Nummer: 12773
     123 084 74 75
 
 
+
+
 **Långhalmens FVO**
 
     123 294 05 67 - Fiskekort
+
+
 
 
 **Långheds Bygdeförening**
@@ -28636,9 +39492,13 @@ Nummer: 12773
     123 387 25 61
 
 
+
+
 **Långsele Intresseförening**
 
     123 634 54 82
+
+
 
 
 **Långsele Intresseförening**
@@ -28646,9 +39506,13 @@ Nummer: 12773
     123 222 28 18
 
 
+
+
 **Långshyttans Brukshistoriska Förening**
 
     123 641 96 00
+
+
 
 
 **Långsjöby Intresseförening**
@@ -28656,9 +39520,13 @@ Nummer: 12773
     123 494 65 21
 
 
+
+
 **Löa Sportklubb**
 
     123 570 28 99
+
+
 
 
 **Löberöds Hembygdsförening**
@@ -28666,9 +39534,13 @@ Nummer: 12773
     123 282 95 88
 
 
+
+
 **Lödde Padel Club, LPC**
 
     123 625 07 73
+
+
 
 
 **Löddebygdens Församling**
@@ -28676,9 +39548,13 @@ Nummer: 12773
     123 068 07 10
 
 
+
+
 **Löderups Församling**
 
     123 072 40 88
+
+
 
 
 **Lödöse Nygård IK**
@@ -28688,9 +39564,13 @@ Nummer: 12773
     123 398 77 32 - Seniorlag Herrar
 
 
+
+
 **Löfstadkyrkans Församling**
 
     123 163 99 05
+
+
 
 
 **Löftadalens Pastorat**
@@ -28700,9 +39580,13 @@ Nummer: 12773
     123 691 60 19 - S:t Lars kyrka
 
 
+
+
 **Lönneberga-Silverdalens NSF-Scoutkår**
 
     123 516 02 62
+
+
 
 
 **Lörby IF**
@@ -28710,9 +39594,13 @@ Nummer: 12773
     123 344 42 39
 
 
+
+
 **Löts Hembygdsförening**
 
     123 608 31 74
+
+
 
 
 **Lötsjö Trafikskola**
@@ -28720,9 +39608,13 @@ Nummer: 12773
     123 691 67 38
 
 
+
+
 **Lövslättens Hästklubb**
 
     123 150 90 90
+
+
 
 
 **Lövsta Gårds Ridskola AB**
@@ -28730,14 +39622,20 @@ Nummer: 12773
     123 279 93 85
 
 
+
+
 **Lövstaölets Vänner**
 
     123 422 66 68
 
 
+
+
 **Lövånger-Uttersjöbäcken AIK**
 
     123 690 75 88
+
+
 
 
 
@@ -28749,9 +39647,13 @@ Nummer: 12773
     123 112 12 50
 
 
+
+
 **M Holms bilcenter AB**
 
     123 284 30 92
+
+
 
 
 **M/S Råsvalen - Lindesbergs Turistbåtförening**
@@ -28759,9 +39661,13 @@ Nummer: 12773
     123 578 76 35
 
 
+
+
 **Ma Deva Lina / Lina Ahlqvist**
 
     123 598 14 36
+
+
 
 
 **Maana**
@@ -28769,9 +39675,13 @@ Nummer: 12773
     123 900 81 78
 
 
+
+
 **Mabel Massage / Mabel Morales**
 
     123 102 30 92
+
+
 
 
 **Mackans Garage / Markus Lindh**
@@ -28779,9 +39689,13 @@ Nummer: 12773
     123 076 37 89
 
 
+
+
 **Madesjö Örsjö Kristvalla Hembygdsförening**
 
     123 552 45 17
+
+
 
 
 **Madinah insamlingsstiftelse**
@@ -28789,9 +39703,13 @@ Nummer: 12773
     123 203 27 04
 
 
+
+
 **MAF-Sweden**
 
     123 900 89 13
+
+
 
 
 **Magasin Dikko AB**
@@ -28799,9 +39717,13 @@ Nummer: 12773
     123 242 83 40
 
 
+
+
 **Magazin24 / Earton Media AB**
 
     123 399 79 96
+
+
 
 
 **Magpie Discgolfklubb**
@@ -28809,9 +39731,13 @@ Nummer: 12773
     123 062 50 79
 
 
+
+
 **Maingat Yoga Västervik / Kerstin Severin**
 
     123 299 18 26
+
+
 
 
 **Majblommans Riksförbund**
@@ -28819,9 +39745,13 @@ Nummer: 12773
     123 901 90 76
 
 
+
+
 **Majorna VBK - Volleyboll**
 
     123 127 58 58
+
+
 
 
 **Majornas Kattvakt / Anders Karlstam**
@@ -28829,9 +39759,13 @@ Nummer: 12773
     123 071 26 95
 
 
+
+
 **Makalösa Föräldrar**
 
     123 226 19 15 - Stockholm
+
+
 
 
 **Makalösa Föräldrar**
@@ -28839,9 +39773,13 @@ Nummer: 12773
     123 633 30 41 - Umeå
 
 
+
+
 **Makalösa Föräldrar**
 
     123 242 33 74 - Halmstad
+
+
 
 
 **Makalösa Föräldrar**
@@ -28849,9 +39787,13 @@ Nummer: 12773
     123 422 89 20 - Helsingborg
 
 
+
+
 **Makalösa Föräldrar Lund**
 
     123 517 24 57
+
+
 
 
 **Makalösa Föräldrar Uppsala**
@@ -28859,9 +39801,13 @@ Nummer: 12773
     123 687 03 31
 
 
+
+
 **Make Trade**
 
     123 073 50 68
+
+
 
 
 **Makeri 14 / Stephanie Wesslau**
@@ -28869,9 +39815,13 @@ Nummer: 12773
     123 146 12 35
 
 
+
+
 **Makers Jönköping**
 
     123 624 34 97
+
+
 
 
 **Makers of Västerås**
@@ -28879,9 +39829,13 @@ Nummer: 12773
     123 542 55 25
 
 
+
+
 **Mala IF**
 
     123 651 09 94
+
+
 
 
 **Malbas BBK - Basket**
@@ -28889,9 +39843,13 @@ Nummer: 12773
     123 373 51 07
 
 
+
+
 **Malen Gym**
 
     123 338 11 34
+
+
 
 
 **Malexanders Hembygdsförening**
@@ -28901,9 +39859,13 @@ Nummer: 12773
     123 582 41 56
 
 
+
+
 **Malexanders Sportfiskeklubb**
 
     123 592 05 90
+
+
 
 
 **Malins Skafferi AB**
@@ -28911,9 +39873,13 @@ Nummer: 12773
     123 368 04 02
 
 
+
+
 **Mallbackens IF Sunne**
 
     123 470 46 64
+
+
 
 
 **Malma Buggarna**
@@ -28921,9 +39887,13 @@ Nummer: 12773
     123 268 11 53
 
 
+
+
 **Malma Bygdegårdsförening**
 
     123 642 92 29
+
+
 
 
 **Malma Hembygdsförening**
@@ -28931,9 +39901,13 @@ Nummer: 12773
     123 691 04 59
 
 
+
+
 **Malma Intresseförening**
 
     123 541 93 12
+
+
 
 
 **Malmbergets AIF**
@@ -28943,9 +39917,13 @@ Nummer: 12773
     123 662 53 54
 
 
+
+
 **Malmbergets Missionsförsamling**
 
     123 593 62 57
+
+
 
 
 **Malmfältens Draghundsklubb**
@@ -28953,9 +39931,13 @@ Nummer: 12773
     123 682 80 73
 
 
+
+
 **Malmköpings IF**
 
     123 113 38 34
+
+
 
 
 **Malmköpings Trädgårdsförening**
@@ -28963,9 +39945,13 @@ Nummer: 12773
     123 686 13 30
 
 
+
+
 **Malmö Bastugille**
 
     123 261 65 71
+
+
 
 
 **Malmö BK**
@@ -28973,9 +39959,13 @@ Nummer: 12773
     123 585 84 10
 
 
+
+
 **Malmö Brukshundsklubb**
 
     123 231 46 56
+
+
 
 
 **Malmö Budoklubb**
@@ -28983,9 +39973,13 @@ Nummer: 12773
     123 352 37 35
 
 
+
+
 **Malmö Burlöv Golfklubb**
 
     123 266 73 76
+
+
 
 
 **Malmö Civila Ryttareförening, MCR**
@@ -28993,9 +39987,13 @@ Nummer: 12773
     123 005 30 74
 
 
+
+
 **Malmö Curlingklubb**
 
     123 337 81 55
+
+
 
 
 **Malmö E-sportförening**
@@ -29003,9 +40001,13 @@ Nummer: 12773
     123 264 91 19
 
 
+
+
 **Malmö Floorball Club**
 
     123 346 75 45
+
+
 
 
 **Malmö Folk / Malmö Folkmusikförening**
@@ -29013,9 +40015,13 @@ Nummer: 12773
     123 466 43 63
 
 
+
+
 **Malmö Fotbollförening, MFF**
 
     123 614 56 43
+
+
 
 
 **Malmö Helps**
@@ -29023,9 +40029,13 @@ Nummer: 12773
     123 688 04 13
 
 
+
+
 **Malmö IF**
 
     123 674 57 64
+
+
 
 
 **Malmö Konststudio**
@@ -29033,9 +40043,13 @@ Nummer: 12773
     123 646 30 12
 
 
+
+
 **Malmö Kvinnojour**
 
     123 690 20 92
+
+
 
 
 **Malmö-Lund Fotbolldomarklubb, MLFDK**
@@ -29043,9 +40057,13 @@ Nummer: 12773
     123 123 48 48
 
 
+
+
 **Malmö Lyftarklubb**
 
     123 355 34 35
+
+
 
 
 **Malmö Pride**
@@ -29053,9 +40071,13 @@ Nummer: 12773
     123 499 37 70
 
 
+
+
 **Malmö SFK - Flygsport**
 
     123 350 62 43
+
+
 
 
 **Malmö Släktforskarförening**
@@ -29063,9 +40085,13 @@ Nummer: 12773
     123 018 31 94
 
 
+
+
 **Malmö Sportdykarklubb**
 
     123 379 53 58
+
+
 
 
 **Malmöns Intresseförening**
@@ -29073,9 +40099,13 @@ Nummer: 12773
     123 312 72 71
 
 
+
+
 **Malmöns Samfällighetsförening**
 
     123 568 16 55
+
+
 
 
 **Malungs Församling**
@@ -29083,9 +40113,13 @@ Nummer: 12773
     123 527 53 83
 
 
+
+
 **Malungs Hembygdsförening**
 
     123 259 58 17
+
+
 
 
 **Malungs SLK**
@@ -29093,9 +40127,13 @@ Nummer: 12773
     123 390 61 95
 
 
+
+
 **Malva Arbetsliv och Terapi AB**
 
     123 093 68 98
+
+
 
 
 **Malöklubben**
@@ -29103,9 +40141,13 @@ Nummer: 12773
     123 221 24 88
 
 
+
+
 **Mamma till Mamma**
 
     123 208 51 16
+
+
 
 
 **Mamma United**
@@ -29113,9 +40155,13 @@ Nummer: 12773
     123 631 40 17
 
 
+
+
 **Mandorla Spa / Danijel Bajric**
 
     123 092 74 00
+
+
 
 
 **Mannaminnes Vänner**
@@ -29123,9 +40169,13 @@ Nummer: 12773
     123 313 19 19
 
 
+
+
 **Mansjouren i Stockholms län**
 
     123 189 88 99
+
+
 
 
 **Manskören Harmoni**
@@ -29133,9 +40183,13 @@ Nummer: 12773
     123 635 58 46
 
 
+
+
 **Mantorp Hästsportförening**
 
     123 585 53 17
+
+
 
 
 **Mantorps FF**
@@ -29143,9 +40197,13 @@ Nummer: 12773
     123 081 02 26
 
 
+
+
 **Maranata Församlingen**
 
     123 155 15 71
+
+
 
 
 **Marbäcks IF**
@@ -29153,9 +40211,13 @@ Nummer: 12773
     123 223 87 72
 
 
+
+
 **Margarethas Livsrum / Margareta Härnlund**
 
     123 197 96 16
+
+
 
 
 **Margit Friberg-sällskapet**
@@ -29163,14 +40225,20 @@ Nummer: 12773
     123 404 49 96
 
 
+
+
 **Maria i Rosengårds Katolska Församling**
 
     123 147 25 88
 
 
+
+
 **Maria Ignérus Islandshästutbildning**
 
     123 125 10 81
+
+
 
 
 **Mariagården i Skultuna**
@@ -29184,9 +40252,13 @@ Nummer: 12773
     123 634 89 99 - ACT
 
 
+
+
 **Mariakyrkans församling Uddevalla**
 
     123 527 81 06
+
+
 
 
 **Mariannelunds Fiskeklubb**
@@ -29194,9 +40266,13 @@ Nummer: 12773
     123 042 60 56
 
 
+
+
 **Mariannelunds Frikyrkoförsamling**
 
     123 276 50 55
+
+
 
 
 **Mariannelunds och Hässleby Hembygdsförening**
@@ -29204,14 +40280,20 @@ Nummer: 12773
     123 259 16 42
 
 
+
+
 **Marias Logi AB**
 
     123 036 52 88
 
 
+
+
 **Mariebo IK**
 
     123 617 70 34
+
+
 
 
 **Mariedalskyrkan Equmeniakyrkan**
@@ -29221,9 +40303,13 @@ Nummer: 12773
     123 588 39 05
 
 
+
+
 **Mariefred-Kärnbo SKF**
 
     123 511 57 79
+
+
 
 
 **Mariefreds Församling**
@@ -29231,9 +40317,13 @@ Nummer: 12773
     123 340 88 61
 
 
+
+
 **Mariefreds Hundpark**
 
     123 325 62 45
+
+
 
 
 **Mariefreds Ridklubb**
@@ -29241,9 +40331,13 @@ Nummer: 12773
     123 216 75 83
 
 
+
+
 **Marieholms IS**
 
     123 312 54 57
+
+
 
 
 **Mariestads AIF**
@@ -29251,14 +40345,20 @@ Nummer: 12773
     123 519 30 73
 
 
+
+
 **Mariestads BK**
 
     123 679 00 91
 
 
+
+
 **Mariestads Enduroklubb**
 
     123 352 57 14
+
+
 
 
 **Mariestads Församling**
@@ -29274,9 +40374,13 @@ Nummer: 12773
     123 593 62 73 - Diakonifonden
 
 
+
+
 **Mariestads Golfklubb**
 
     123 371 59 68
+
+
 
 
 **Mariestads Ridklubb**
@@ -29284,9 +40388,13 @@ Nummer: 12773
     123 553 41 36
 
 
+
+
 **Mariestads SG**
 
     123 069 08 75
+
+
 
 
 **Mariestads Sportfiskeklubb**
@@ -29294,9 +40402,13 @@ Nummer: 12773
     123 080 59 52
 
 
+
+
 **Marinarkeologiska Sällskapet, MAS**
 
     123 155 47 32
+
+
 
 
 **Markaryd-Strömsnäsbruks IBK**
@@ -29304,9 +40416,13 @@ Nummer: 12773
     123 073 03 09
 
 
+
+
 **Markaryds IF**
 
     123 099 79 99
+
+
 
 
 **Markaryds Jujutsuklubb**
@@ -29314,9 +40430,13 @@ Nummer: 12773
     123 264 98 12
 
 
+
+
 **Markaryds kommun**
 
     123 137 06 75 - Världens Barn
+
+
 
 
 **Markaryds Sportskytteklubb**
@@ -29324,9 +40444,13 @@ Nummer: 12773
     123 369 18 96
 
 
+
+
 **Markbladet AB**
 
     123 339 85 00
+
+
 
 
 **Marknadsföreningen i Halland MiH**
@@ -29334,9 +40458,13 @@ Nummer: 12773
     123 448 93 24
 
 
+
+
 **Marks Brukshundklubb**
 
     123 569 77 68
+
+
 
 
 **Marks Budoklubb**
@@ -29344,9 +40472,13 @@ Nummer: 12773
     123 651 11 17
 
 
+
+
 **Marks Fågelklubb**
 
     123 431 57 76
+
+
 
 
 **Markus Holst**
@@ -29354,9 +40486,13 @@ Nummer: 12773
     123 356 68 74
 
 
+
+
 **Markus och Malcom / Markus Allard AB**
 
     123 367 02 05
+
+
 
 
 **Marma IF**
@@ -29364,9 +40500,13 @@ Nummer: 12773
     123 059 38 55
 
 
+
+
 **Marsjö-Byle GOIF**
 
     123 303 45 43
+
+
 
 
 **Marstrands Gammaldansförening MGF**
@@ -29374,9 +40514,13 @@ Nummer: 12773
     123 649 94 46
 
 
+
+
 **Martin Koch-sällskapet**
 
     123 471 23 03
+
+
 
 
 **Marxist / Tidskriftsföreningen Revolution**
@@ -29384,9 +40528,13 @@ Nummer: 12773
     123 390 74 90
 
 
+
+
 **Marö Samfällighetsförening**
 
     123 045 52 12 - Marötornet
+
+
 
 
 **Masen i Mora / Bokstaven AB**
@@ -29394,9 +40542,13 @@ Nummer: 12773
     123 156 57 95
 
 
+
+
 **Maskinfirma Glaj AB**
 
     123 397 58 51
+
+
 
 
 **Maskrosbarn**
@@ -29404,9 +40556,13 @@ Nummer: 12773
     123 467 34 55
 
 
+
+
 **Massage & Hälsa i Sundbyberg**
 
     123 543 98 64
+
+
 
 
 **Mat och Klimat**
@@ -29414,9 +40570,13 @@ Nummer: 12773
     123 509 53 51
 
 
+
+
 **Matchen Mot Cancer**
 
     123 508 74 08
+
+
 
 
 **Matfors IF**
@@ -29428,9 +40588,13 @@ Nummer: 12773
     123 523 34 57
 
 
+
+
 **Matfors Konstförening**
 
     123 019 31 10
+
+
 
 
 **Matfors Ryttarförening**
@@ -29438,9 +40602,13 @@ Nummer: 12773
     123 431 64 77
 
 
+
+
 **Matildas Profylax & Gravidmassage / Matilda Haggärde**
 
     123 589 04 05
+
+
 
 
 **MatMattes Catering AB**
@@ -29448,9 +40616,13 @@ Nummer: 12773
     123 000 58 19
 
 
+
+
 **Mattecentrum**
 
     123 900 26 84
+
+
 
 
 **Matteröds Byalag**
@@ -29458,9 +40630,13 @@ Nummer: 12773
     123 678 27 75
 
 
+
+
 **Mattias Enn - Estradör och Sångare**
 
     123 333 43 31
+
+
 
 
 **Mattias Enn Produktioner / Mattias Nilsson**
@@ -29468,9 +40644,13 @@ Nummer: 12773
     123 078 86 38
 
 
+
+
 **Mattila Byagårdsförening**
 
     123 157 43 42
+
+
 
 
 **Mattmars Hembygdsförening**
@@ -29478,9 +40658,13 @@ Nummer: 12773
     123 137 03 60
 
 
+
+
 **Mattssons Trafikskola i Värnamo AB**
 
     123 019 29 48
+
+
 
 
 **Max Tänt med Max Villman / Mvnx Labs AB**
@@ -29488,9 +40672,13 @@ Nummer: 12773
     123 490 29 79
 
 
+
+
 **MC-Kompaniet i Väring AB**
 
     123 226 11 21
+
+
 
 
 **MC Proffsen i Jönköping AB**
@@ -29498,9 +40686,13 @@ Nummer: 12773
     123 021 46 76
 
 
+
+
 **MCACA - Many Cares Against Child Abuse**
 
     123 167 07 93
+
+
 
 
 **MCK Hallandia - Motorcykel och Snöskoter**
@@ -29508,9 +40700,13 @@ Nummer: 12773
     123 237 14 66
 
 
+
+
 **McPloys Jakt & Vildmark AB**
 
     123 428 57 71
+
+
 
 
 **MD Hund / Marlene Ådin Dunbäck**
@@ -29518,9 +40714,13 @@ Nummer: 12773
     123 327 58 15
 
 
+
+
 **MDD Merhamet Sverige**
 
     123 024 15 70
+
+
 
 
 **MdM Sverige/Läkare i Världen**
@@ -29528,14 +40728,20 @@ Nummer: 12773
     123 900 10 90
 
 
+
+
 **Med Israel för fred, MIFF Sverige**
 
     123 331 82 19
 
 
+
+
 **Medborgarrättsrörelsen i Sverige, MRRS**
 
     123 036 42 81
+
+
 
 
 **Medborgerlig Samling**
@@ -29545,9 +40751,13 @@ Nummer: 12773
     123 460 40 39
 
 
+
+
 **Medeltidsmode Sweden AB**
 
     123 123 50 35
+
+
 
 
 **Medevi IF**
@@ -29555,9 +40765,13 @@ Nummer: 12773
     123 466 08 33
 
 
+
+
 **Mediaverkstan**
 
     123 290 62 46
+
+
 
 
 **Medicinska Idrottsföreningen**
@@ -29565,9 +40779,13 @@ Nummer: 12773
     123 351 11 44
 
 
+
+
 **MedicRehab Team i Jönköping AB**
 
     123 544 41 12
+
+
 
 
 **MedieMission International**
@@ -29575,9 +40793,13 @@ Nummer: 12773
     123 454 88 22
 
 
+
+
 **Medium Hannu Koskinen**
 
     123 277 16 65
+
+
 
 
 **Mediumförbundet**
@@ -29585,9 +40807,13 @@ Nummer: 12773
     123 416 29 88
 
 
+
+
 **Medskogsbrons BK**
 
     123 013 07 16
+
+
 
 
 **Meetly / Festmäklarna Sverige AB**
@@ -29595,9 +40821,13 @@ Nummer: 12773
     123 115 48 48
 
 
+
+
 **Melanomföreningen**
 
     123 380 01 90
+
+
 
 
 **Melissafonden insamlingsstiftelse**
@@ -29605,9 +40835,13 @@ Nummer: 12773
     123 901 98 11
 
 
+
+
 **Mellanhedens Biljardklubb**
 
     123 016 91 85
+
+
 
 
 **Mellansels IF**
@@ -29615,9 +40849,13 @@ Nummer: 12773
     123 225 94 63 - Mellansels Gym
 
 
+
+
 **Mellanskärgårdens Intresseförening**
 
     123 535 66 70
+
+
 
 
 **Mellanströms Idrottssällskap**
@@ -29625,9 +40863,13 @@ Nummer: 12773
     123 597 85 98
 
 
+
+
 **Mellanströms Skoterklubb**
 
     123 635 72 30
+
+
 
 
 **Mellanösternpodden / Trail AB**
@@ -29635,9 +40877,13 @@ Nummer: 12773
     123 679 09 43
 
 
+
+
 **Mellby Bygdegårdsförening**
 
     123 539 49 37
+
+
 
 
 **Mellby IK**
@@ -29645,9 +40891,13 @@ Nummer: 12773
     123 642 74 70
 
 
+
+
 **Mellbystrandsföreningen**
 
     123 672 15 75
+
+
 
 
 **Mellersta Hallands Konstförening**
@@ -29655,9 +40905,13 @@ Nummer: 12773
     123 552 22 48
 
 
+
+
 **Melleruds Båtklubb**
 
     123 668 96 73
+
+
 
 
 **Melleruds Golfklubb**
@@ -29665,9 +40919,13 @@ Nummer: 12773
     123 159 99 76
 
 
+
+
 **Melleruds HK**
 
     123 277 02 87
+
+
 
 
 **Melleruds IF**
@@ -29675,9 +40933,13 @@ Nummer: 12773
     123 034 94 07
 
 
+
+
 **Melleruds Ridklubb**
 
     123 418 25 56
+
+
 
 
 **Melleruds SK**
@@ -29685,9 +40947,13 @@ Nummer: 12773
     123 596 54 21
 
 
+
+
 **Mellisklubben**
 
     123 523 09 82
+
+
 
 
 **Mellringekyrkan**
@@ -29695,9 +40961,13 @@ Nummer: 12773
     123 699 14 26
 
 
+
+
 **Mellösa Bygderåd**
 
     123 305 78 82
+
+
 
 
 **Melodifestivalklubben**
@@ -29705,9 +40975,13 @@ Nummer: 12773
     123 400 96 92
 
 
+
+
 **Meningsfull fritid - Riksförbundet Attention**
 
     123 663 83 73
+
+
 
 
 **Mentor Sverige Insamlingsstiftelse**
@@ -29715,9 +40989,13 @@ Nummer: 12773
     123 902 50 24
 
 
+
+
 **Mercedes-Benz Klubben Sverige**
 
     123 680 91 64
+
+
 
 
 **Mercy Ships Sverige insamlingsstiftelse**
@@ -29725,9 +41003,13 @@ Nummer: 12773
     123 900 09 36
 
 
+
+
 **Mesta IBK**
 
     123 240 73 51
+
+
 
 
 **metmask.com / Animal-A Alltjänst AB**
@@ -29735,9 +41017,13 @@ Nummer: 12773
     123 298 17 10
 
 
+
+
 **MeyQ Cards consultants AB**
 
     123 501 61 18 - Claus Meyer
+
+
 
 
 **MFF Tifosi 96**
@@ -29745,9 +41031,13 @@ Nummer: 12773
     123 592 31 23
 
 
+
+
 **MFK Myggenäs Fritidsklubb**
 
     123 664 34 98 - Spåravgift
+
+
 
 
 **Michael Larsen / Scandinavian Shield AB**
@@ -29755,9 +41045,13 @@ Nummer: 12773
     123 252 69 29
 
 
+
+
 **Micke Ahlgrens Orkester Aktiebolag**
 
     123 446 57 20
+
+
 
 
 **Mickes Resor AB**
@@ -29765,9 +41059,13 @@ Nummer: 12773
     123 582 53 77
 
 
+
+
 **Mid Sweden Aid**
 
     123 280 61 56
+
+
 
 
 **Midas IBK**
@@ -29775,9 +41073,13 @@ Nummer: 12773
     123 321 63 22
 
 
+
+
 **Midsommarkransens Trafikskola AB**
 
     123 661 59 26
+
+
 
 
 **Mikaelikyrkan**
@@ -29791,9 +41093,13 @@ Nummer: 12773
     123 694 17 51 - Bokbordet
 
 
+
+
 **Mikosällskapet**
 
     123 349 13 54
+
+
 
 
 **Mikrobryggeriet i Mönsterås / Mattias Hammargren**
@@ -29801,9 +41107,13 @@ Nummer: 12773
     123 578 32 12
 
 
+
+
 **Militärsällskapet**
 
     123 389 25 77
+
+
 
 
 **Miljömagasinet Alternativet Aktiebolag**
@@ -29811,9 +41121,13 @@ Nummer: 12773
     123 462 91 43
 
 
+
+
 **Miljöpartiet De Gröna**
 
     123 453 50 50
+
+
 
 
 **Millas Villa AB / CHECKINN AB**
@@ -29821,9 +41135,13 @@ Nummer: 12773
     123 099 00 10
 
 
+
+
 **Millennia Animal Project**
 
     123 620 25 92
+
+
 
 
 **Millesgårdens Vänner**
@@ -29831,9 +41149,13 @@ Nummer: 12773
     123 036 20 46
 
 
+
+
 **MiM Kunskapscentrum**
 
     123 350 30 26
+
+
 
 
 **Mimersborg bygdegård**
@@ -29841,9 +41163,13 @@ Nummer: 12773
     123 214 90 78
 
 
+
+
 **Mimmi Design**
 
     123 034 80 94
+
+
 
 
 **Min Stund AB**
@@ -29851,9 +41177,13 @@ Nummer: 12773
     123 045 13 02
 
 
+
+
 **Mind**
 
     123 900 85 33
+
+
 
 
 **Mindful Training i Värnamo / Maria Modeé**
@@ -29861,9 +41191,13 @@ Nummer: 12773
     123 335 26 22
 
 
+
+
 **Minnebergs Samfällighetsförening**
 
     123 401 33 06
+
+
 
 
 **Minneskonto Riksförbundet Hjärtlung Ljungby**
@@ -29871,9 +41205,13 @@ Nummer: 12773
     123 143 37 47
 
 
+
+
 **Miracle Connect**
 
     123 354 94 66
+
+
 
 
 **Missenträsk bygdegårdsförening**
@@ -29881,14 +41219,20 @@ Nummer: 12773
     123 318 86 79
 
 
+
+
 **Missing People Sweden**
 
     123 900 56 20
 
 
+
+
 **Mission Possible Sweden**
 
     123 901 15 45
+
+
 
 
 **Missionskyrkan Hässleholm**
@@ -29898,9 +41242,13 @@ Nummer: 12773
     123 319 64 41 - Servering
 
 
+
+
 **Missionskyrkan Nässjö**
 
     123 156 95 40
+
+
 
 
 **Missionskyrkan Skillingaryd**
@@ -29908,9 +41256,13 @@ Nummer: 12773
     123 553 70 97
 
 
+
+
 **Missionsprovinsen**
 
     123 445 32 21
+
+
 
 
 **Missionssällskapet Fackelbärarna**
@@ -29918,9 +41270,13 @@ Nummer: 12773
     123 182 97 38
 
 
+
+
 **Mitt Livs Val Insamlingsstiftelse**
 
     123 071 22 32
+
+
 
 
 **Mjölby AI FF**
@@ -29928,9 +41284,13 @@ Nummer: 12773
     123 602 58 86
 
 
+
+
 **Mjölby CK**
 
     123 396 93 83
+
+
 
 
 **Mjölby Församling**
@@ -29938,9 +41298,13 @@ Nummer: 12773
     123 695 47 88
 
 
+
+
 **Mjölby Golfklubb**
 
     123 426 32 08
+
+
 
 
 **Mjölby IBK**
@@ -29948,9 +41312,13 @@ Nummer: 12773
     123 083 89 53
 
 
+
+
 **Mjölby Mills BBK**
 
     123 572 85 22
+
+
 
 
 **Mjölby Orienteringsklubb**
@@ -29958,9 +41326,13 @@ Nummer: 12773
     123 203 94 77
 
 
+
+
 **Mjölby Scoutkår**
 
     123 086 71 27
+
+
 
 
 **Mjölby Ungdomsmusikkår**
@@ -29968,9 +41340,13 @@ Nummer: 12773
     123 476 35 53
 
 
+
+
 **Mjölkkossan**
 
     123 464 30 94
+
+
 
 
 **Mjönäs Bygdegårdsförening**
@@ -29978,9 +41354,13 @@ Nummer: 12773
     123 561 04 64
 
 
+
+
 **MK Jämke Jämshög**
 
     123 161 61 27
+
+
 
 
 **MK Ratten**
@@ -29988,9 +41368,13 @@ Nummer: 12773
     123 363 15 12
 
 
+
+
 **Mo Bygdegårdsförening**
 
     123 411 56 30
+
+
 
 
 **Mo Församling**
@@ -29998,9 +41382,13 @@ Nummer: 12773
     123 324 83 17
 
 
+
+
 **Moberg Bil AB**
 
     123 563 94 97
+
+
 
 
 **Mockfjärds Församling**
@@ -30008,9 +41396,13 @@ Nummer: 12773
     123 617 28 11 - Kollekt
 
 
+
+
 **Mockfjärds Hembygdsförening**
 
     123 079 91 06
+
+
 
 
 **MOD - Mer organdonation**
@@ -30018,9 +41410,13 @@ Nummer: 12773
     123 900 39 48
 
 
+
+
 **Mode Eva**
 
     123 019 65 50
+
+
 
 
 **Moderata Samlingspartiet Riksorganisationen**
@@ -30028,9 +41424,13 @@ Nummer: 12773
     123 336 00 70
 
 
+
+
 **Moderata Ungdomsförbundet, MUF**
 
     123 043 85 31
+
+
 
 
 **Modiga Människor**
@@ -30038,9 +41438,13 @@ Nummer: 12773
     123 092 36 31
 
 
+
+
 **Moga Fritid / Svenljunga Kommun**
 
     123 223 43 18 - Överlida Idrottshall
+
+
 
 
 **Moheda IBK**
@@ -30048,9 +41452,13 @@ Nummer: 12773
     123 197 30 80
 
 
+
+
 **Moheda IF**
 
     123 225 12 21
+
+
 
 
 **Moheda Scoutkår**
@@ -30058,9 +41466,13 @@ Nummer: 12773
     123 638 21 13
 
 
+
+
 **Moheda Sockens Hembygdsförening**
 
     123 488 07 04
+
+
 
 
 **Moheds Vattenskidklubb**
@@ -30068,9 +41480,13 @@ Nummer: 12773
     123 614 54 86
 
 
+
+
 **Moholms SK**
 
     123 091 77 99
+
+
 
 
 **Molidens IK**
@@ -30078,9 +41494,13 @@ Nummer: 12773
     123 198 42 44
 
 
+
+
 **Monica och Carl-Axel Ekmans Insamlingsstiftelse**
 
     123 900 17 77
+
+
 
 
 **MopsOrden - Rasklubben För Mops**
@@ -30088,14 +41508,20 @@ Nummer: 12773
     123 477 97 65
 
 
+
+
 **Mora Brukshundsklubb**
 
     123 369 98 16
 
 
+
+
 **Mora Folkhögskola**
 
     123 124 93 58
+
+
 
 
 **Mora Församling**
@@ -30107,6 +41533,8 @@ Nummer: 12773
     123 458 56 59
 
 
+
+
 **Mora Golfklubb**
 
     123 649 26 64
@@ -30114,9 +41542,13 @@ Nummer: 12773
     123 683 60 68
 
 
+
+
 **Mora Hembygdslag**
 
     123 336 48 66
+
+
 
 
 **Mora IK**
@@ -30124,9 +41556,13 @@ Nummer: 12773
     123 505 15 60
 
 
+
+
 **Mora Klätterklubb**
 
     123 170 65 22
+
+
 
 
 **Mora Orsa BK**
@@ -30134,9 +41570,13 @@ Nummer: 12773
     123 340 78 30
 
 
+
+
 **Mora Ridklubb**
 
     123 197 48 15
+
+
 
 
 **Mora Tennisklubb**
@@ -30144,9 +41584,13 @@ Nummer: 12773
     123 137 02 04
 
 
+
+
 **Morgan Owners Group of Sweden**
 
     123 185 00 31
+
+
 
 
 **Moriks Fårgård / Therese Magnusson**
@@ -30154,9 +41598,13 @@ Nummer: 12773
     123 634 03 76
 
 
+
+
 **Morjhults Fiskevårdsområde**
 
     123 383 27 06
+
+
 
 
 **Morjärvs Sportklubb**
@@ -30164,9 +41612,13 @@ Nummer: 12773
     123 211 08 64
 
 
+
+
 **Morkarla Bygdegårdsförening**
 
     123 535 59 12
+
+
 
 
 **Morkarlby Bygdegårdsförening**
@@ -30174,9 +41626,13 @@ Nummer: 12773
     123 539 56 86
 
 
+
+
 **Morlanda Församling**
 
     123 326 88 28
+
+
 
 
 **Morlanda GoIF**
@@ -30184,9 +41640,13 @@ Nummer: 12773
     123 158 57 44
 
 
+
+
 **Morlanda Hembygdsförening**
 
     123 343 10 12
+
+
 
 
 **Morrhåret Hundsport AB**
@@ -30194,9 +41654,13 @@ Nummer: 12773
     123 691 51 77
 
 
+
+
 **MorrRingens AB**
 
     123 014 29 27
+
+
 
 
 **Morup-Stafsinge Hembygdsförening**
@@ -30204,9 +41668,13 @@ Nummer: 12773
     123 027 48 45
 
 
+
+
 **Mosquito / Thomas Gylling / Tropicopop**
 
     123 148 39 08
+
+
 
 
 **Mossens BK**
@@ -30214,9 +41682,13 @@ Nummer: 12773
     123 590 40 73
 
 
+
+
 **Mosstorps Villaägarförening**
 
     123 383 74 99
+
+
 
 
 **Mosätts Skoterklubb**
@@ -30224,9 +41696,13 @@ Nummer: 12773
     123 621 57 92
 
 
+
+
 **Motala AIF HK**
 
     123 461 09 78
+
+
 
 
 **Motala AIF SK Skrinnarna**
@@ -30234,14 +41710,20 @@ Nummer: 12773
     123 226 80 84
 
 
+
+
 **Motala BK**
 
     123 465 91 65
 
 
+
+
 **Motala Golfklubb**
 
     123 378 41 13
+
+
 
 
 **Motala Missionsförsamling**
@@ -30251,9 +41733,13 @@ Nummer: 12773
     123 285 80 58
 
 
+
+
 **Motala Pistolklubb**
 
     123 150 83 73
+
+
 
 
 **Motala Ryttarförening**
@@ -30261,9 +41747,13 @@ Nummer: 12773
     123 338 30 80
 
 
+
+
 **Motala Simsällskap**
 
     123 664 48 01
+
+
 
 
 **Motala Vattenskidklubb**
@@ -30271,9 +41761,13 @@ Nummer: 12773
     123 467 25 64
 
 
+
+
 **Motalas Medmänniskor / Danijela Acimovic**
 
     123 663 87 12
+
+
 
 
 **Mother Mercy**
@@ -30281,9 +41775,13 @@ Nummer: 12773
     123 697 36 63
 
 
+
+
 **Motor & nostalgimuséet i Grängesberg**
 
     123 033 50 67
+
+
 
 
 **Motorcykelhistoriska Klubben Södermanland**
@@ -30291,9 +41789,13 @@ Nummer: 12773
     123 512 10 33
 
 
+
+
 **Motorentusiasterna i Norr**
 
     123 494 49 14
+
+
 
 
 **Motorförarnas Helnykterhetsförbund, MHF**
@@ -30301,9 +41803,13 @@ Nummer: 12773
     123 578 05 15
 
 
+
+
 **Motorhistoriska Sällskapet i Sverige, MHS**
 
     123 453 64 21
+
+
 
 
 **Motorklubben Rimo**
@@ -30311,9 +41817,13 @@ Nummer: 12773
     123 085 08 59
 
 
+
+
 **Motormedlarna AB**
 
     123 166 54 05
+
+
 
 
 **Motorrad Nordic AB**
@@ -30321,9 +41831,13 @@ Nummer: 12773
     123 543 28 85
 
 
+
+
 **Motvind Sverige**
 
     123 383 27 63
+
+
 
 
 **Move Breathe Pause**
@@ -30331,9 +41845,13 @@ Nummer: 12773
     123 519 28 51
 
 
+
+
 **Move Catarina Hagstrand**
 
     123 326 40 66
+
+
 
 
 **Move Idrottsförening**
@@ -30341,9 +41859,13 @@ Nummer: 12773
     123 672 27 30
 
 
+
+
 **MovieZine**
 
     123 307 69 99
+
+
 
 
 **MOWE Hälso- & Yogacenter AB**
@@ -30351,9 +41873,13 @@ Nummer: 12773
     123 304 44 84
 
 
+
+
 **MPIYO / Merethe Bråthen / Björn Östlund AB**
 
     123 228 89 75
+
+
 
 
 **Mrs Skager Coaching / CCG sports AB**
@@ -30361,9 +41887,13 @@ Nummer: 12773
     123 384 87 36
 
 
+
+
 **MT96, MFF Tifosi 96**
 
     123 442 56 82
+
+
 
 
 **MTB Hjulsjö / Hjulsjö Byförening & LK**
@@ -30371,9 +41901,13 @@ Nummer: 12773
     123 091 62 21
 
 
+
+
 **MTB Täby**
 
     123 281 76 25
+
+
 
 
 **Mtwapa AB**
@@ -30381,9 +41915,13 @@ Nummer: 12773
     123 126 55 37
 
 
+
+
 **Mukimbungugruppen i Sverige**
 
     123 352 09 96
+
+
 
 
 **Mukti Center / Kenneth Riton**
@@ -30391,9 +41929,13 @@ Nummer: 12773
     123 675 40 48
 
 
+
+
 **Mulde Varpa Klubb**
 
     123 044 21 86
+
+
 
 
 **Mullhyttans IF**
@@ -30401,9 +41943,13 @@ Nummer: 12773
     123 567 46 76
 
 
+
+
 **Mullsjö Allmänna Innebandysällskap**
 
     123 312 94 00
+
+
 
 
 **Mullsjö Bygdegårsförening**
@@ -30411,9 +41957,13 @@ Nummer: 12773
     123 576 33 05
 
 
+
+
 **Mullsjö Discogolf**
 
     123 538 81 86
+
+
 
 
 **Mullsjö IF**
@@ -30421,9 +41971,13 @@ Nummer: 12773
     123 319 93 79
 
 
+
+
 **Mullsjö SOK**
 
     123 032 29 90 - Orientering
+
+
 
 
 **Mulvad Jakt och Hundträning AB**
@@ -30431,14 +41985,20 @@ Nummer: 12773
     123 429 04 41
 
 
+
+
 **Munkedals BK**
 
     123 017 37 81
 
 
+
+
 **Munkedals Brukhundsklubb**
 
     123 569 66 53
+
+
 
 
 **Munkedals IF**
@@ -30448,9 +42008,13 @@ Nummer: 12773
     123 511 13 07
 
 
+
+
 **Munkedals SCK**
 
     123 017 22 62
+
+
 
 
 **Munkfors Brukshundklubb**
@@ -30458,9 +42022,13 @@ Nummer: 12773
     123 464 08 76
 
 
+
+
 **Munkhagskyrkans Församling**
 
     123 149 95 16
+
+
 
 
 **Munskänkarna**
@@ -30468,9 +42036,13 @@ Nummer: 12773
     123 126 09 00 - Saltsjöbaden
 
 
+
+
 **Munskänkarna**
 
     123 044 66 74 - Trosa
+
+
 
 
 **Munskänkarna**
@@ -30478,9 +42050,13 @@ Nummer: 12773
     123 109 35 90 - Skaftö
 
 
+
+
 **Munskänkarna**
 
     123 378 03 84 - Nyköping
+
+
 
 
 **Munskänkarna**
@@ -30488,9 +42064,13 @@ Nummer: 12773
     123 371 85 33 - Steneby
 
 
+
+
 **Munskänkarna**
 
     123 467 33 64 - Tranås
+
+
 
 
 **Munskänkarna**
@@ -30498,9 +42078,13 @@ Nummer: 12773
     123 549 35 49 - Kisa
 
 
+
+
 **Munskänkarna**
 
     123 163 22 98 - Örebro
+
+
 
 
 **Munskänkarna**
@@ -30508,9 +42092,13 @@ Nummer: 12773
     123 018 27 74 - Lysekil
 
 
+
+
 **Munskänkarna**
 
     123 401 80 65 - Skövde
+
+
 
 
 **Munskänkarna**
@@ -30518,9 +42106,13 @@ Nummer: 12773
     123 251 48 34 - Emmaboda
 
 
+
+
 **Munskänkarna**
 
     123 350 09 23 - Hjo
+
+
 
 
 **Munskänkarna**
@@ -30528,9 +42120,13 @@ Nummer: 12773
     123 418 32 08 - Kunsholmen
 
 
+
+
 **Munskänkarna**
 
     123 371 78 65 - Strömstad
+
+
 
 
 **Munskänkarna**
@@ -30538,9 +42134,13 @@ Nummer: 12773
     123 049 53 90 - Luleå Stålstaden
 
 
+
+
 **Munskänkarna**
 
     123 648 99 59 - Olofström
+
+
 
 
 **Munskänkarna**
@@ -30548,9 +42148,13 @@ Nummer: 12773
     123 536 10 01 - Norrtälje
 
 
+
+
 **Munskänkarna**
 
     123 351 54 00 - Ulricehamn
+
+
 
 
 **Munskänkarna**
@@ -30558,9 +42162,13 @@ Nummer: 12773
     123 404 46 99 - Sotenäs
 
 
+
+
 **Munskänkarna**
 
     123 368 12 69 - Skara
+
+
 
 
 **Munskänkarna**
@@ -30568,9 +42176,13 @@ Nummer: 12773
     123 544 03 18 - Haparanda
 
 
+
+
 **Munsö Adelsö Lokala Kennelklubb, MALKK**
 
     123 005 20 92
+
+
 
 
 **Museiföreningen Ångfartyget Ejdern**
@@ -30578,9 +42190,13 @@ Nummer: 12773
     123 033 79 64
 
 
+
+
 **Musethica Sverige**
 
     123 056 41 46
+
+
 
 
 **Musik i Fristad**
@@ -30588,9 +42204,13 @@ Nummer: 12773
     123 092 94 06
 
 
+
+
 **Musik i Lerum**
 
     123 042 45 23
+
+
 
 
 **Musik Mot Cancer**
@@ -30598,9 +42218,13 @@ Nummer: 12773
     123 276 64 83
 
 
+
+
 **Musikföreningen Garaget**
 
     123 345 36 10
+
+
 
 
 **Musikföreningen Lilith Eve**
@@ -30608,9 +42232,13 @@ Nummer: 12773
     123 270 90 79
 
 
+
+
 **Musikskolans Föräldraförening i Höör**
 
     123 133 51 73
+
+
 
 
 **Musiksällskapet, Markaryds kommun**
@@ -30618,9 +42246,13 @@ Nummer: 12773
     123 668 50 77
 
 
+
+
 **Musikvalvet Baggen - A-C Sång & Konsert / Ann-Christin Edblad**
 
     123 324 88 20
+
+
 
 
 **Muskelfonden - Insamlingsstiftelsen Forskningsfonden för Neuromuskulära Sjukdomar**
@@ -30628,9 +42260,13 @@ Nummer: 12773
     123 900 83 92
 
 
+
+
 **Musketörerna i Sollentuna**
 
     123 595 42 43
+
+
 
 
 **Muskö IF**
@@ -30638,9 +42274,13 @@ Nummer: 12773
     123 363 50 18
 
 
+
+
 **Muslim Aid Sweden**
 
     123 167 07 28
+
+
 
 
 **Muslimska församlingen I Malmö**
@@ -30648,9 +42288,13 @@ Nummer: 12773
     123 147 49 07
 
 
+
+
 **Mussehjälpen - Hjälper Katter i Nöd**
 
     123 121 74 21
+
+
 
 
 **Mustasch AB**
@@ -30658,9 +42302,13 @@ Nummer: 12773
     123 043 99 68
 
 
+
+
 **Musubi Dojo Kampsportsförening**
 
     123 557 34 07
+
+
 
 
 **MW's Mat AB**
@@ -30668,9 +42316,13 @@ Nummer: 12773
     123 218 73 83
 
 
+
+
 **MX Indoor Vallentuna EK Förening**
 
     123 323 32 02
+
+
 
 
 **MX Visby**
@@ -30678,9 +42330,13 @@ Nummer: 12773
     123 223 99 37
 
 
+
+
 **Myckelby Bygdegårdsförening**
 
     123 105 84 29
+
+
 
 
 **Myckelgensjö Lillkyrka**
@@ -30688,9 +42344,13 @@ Nummer: 12773
     123 360 87 91
 
 
+
+
 **Myckleby Bygdegårdsförening**
 
     123 397 46 49
+
+
 
 
 **Myckleby Församling**
@@ -30698,9 +42358,13 @@ Nummer: 12773
     123 263 96 72
 
 
+
+
 **Myrflodammens Skidförening**
 
     123 550 36 93
+
+
 
 
 **MyRight - Empowers People with Disability**
@@ -30708,9 +42372,13 @@ Nummer: 12773
     123 900 11 08
 
 
+
+
 **Mysingsö Samfällighetsförening**
 
     123 047 06 09
+
+
 
 
 **Mysore Malmö / Upalaya AB**
@@ -30718,9 +42386,13 @@ Nummer: 12773
     123 509 21 35
 
 
+
+
 **Myter & Mysterier / Diakrino - urskillning i mångfald**
 
     123 565 38 03
+
+
 
 
 **Mälarbadens Golfklubb**
@@ -30728,9 +42400,13 @@ Nummer: 12773
     123 122 46 66
 
 
+
+
 **Mälardalens Rör & Montage AB**
 
     123 050 97 52
+
+
 
 
 **Mälarhöjdens Dansskola AB**
@@ -30738,9 +42414,13 @@ Nummer: 12773
     123 434 95 85
 
 
+
+
 **Mälarhöjdens Ryttarsällskap, MRS**
 
     123 512 75 50
+
+
 
 
 **Mälarhöjdens Scoutkår**
@@ -30748,9 +42428,13 @@ Nummer: 12773
     123 670 89 11
 
 
+
+
 **Mälarstadens Trafikskola AB**
 
     123 427 24 56
+
+
 
 
 **Mälarstrandens Båtklubb**
@@ -30758,9 +42442,13 @@ Nummer: 12773
     123 464 76 08
 
 
+
+
 **Mälarö Brukshundsklubb**
 
     123 464 21 95
+
+
 
 
 **Mälsåkers Framtid**
@@ -30768,9 +42456,13 @@ Nummer: 12773
     123 056 68 44
 
 
+
+
 **Män för Jämställdhet**
 
     123 900 58 51
+
+
 
 
 **Män För Kvinnofrid**
@@ -30778,9 +42470,50 @@ Nummer: 12773
     123 652 06 21
 
 
+
+
 **Människovärde**
 
     123 147 13 41
+
+
+
+
+**Märsta Pastorat**
+
+    123 000 76 25 - Övrigt Arlanda kapell
+
+    123 005 40 23 - Kollekt Husby-Ärlinghundra kyrka
+
+    123 007 83 86 - Övrigt Valsta församlingshem
+
+    123 019 08 76 - Kollekt Skepptuna kyrka
+
+    123 079 56 17 - Övrigt Märsta församlingshem
+
+    123 226 79 79 - Kollekt Vidbo kyrka
+
+    123 259 14 69 - Övrigt Rosersbergs Församlingsgård
+
+    123 269 66 98 - Övrigt Skepptuna församling
+
+    123 287 60 92 - Kollekt Norrsunda kyrka
+
+    123 353 71 98 - ACT Märsta Pastorat
+
+    123 389 90 85 - Kollekt Lunda kyrka
+
+    123 421 10 58 - Kollekt Märsta kyrka
+
+    123 427 26 96 - Kollekt Skånela kyrka
+
+    123 653 53 30 - Kollekt Odensala kyrka
+
+    123 691 57 14 - Kollekt Rosersbergs församlingsgård
+
+    123 694 17 10 - Kollekt Valsta kyrka
+
+
 
 
 **Märsta Ridklubb**
@@ -30788,9 +42521,13 @@ Nummer: 12773
     123 147 57 55
 
 
+
+
 **Märsta Scoutkår**
 
     123 087 98 09
+
+
 
 
 **Mästarregistret / Stiftelsen Hantverk och Utbildning**
@@ -30798,9 +42535,13 @@ Nummer: 12773
     123 123 98 62
 
 
+
+
 **Mäster Olofsgården**
 
     123 108 39 48
+
+
 
 
 **Mästermansgårdens Samfällighet**
@@ -30808,9 +42549,13 @@ Nummer: 12773
     123 390 14 85
 
 
+
+
 **Målilla GOIF**
 
     123 381 74 00
+
+
 
 
 **Målillaortens Jaktskytteklubb**
@@ -30818,9 +42563,13 @@ Nummer: 12773
     123 311 44 36
 
 
+
+
 **Månens Scoutkår**
 
     123 373 58 67
+
+
 
 
 **Mångbergs & Holens Fäbodlag**
@@ -30828,9 +42577,13 @@ Nummer: 12773
     123 680 02 70
 
 
+
+
 **Månsarps Församling**
 
     123 033 42 92 - ACT
+
+
 
 
 **Månsbyns Framtid**
@@ -30838,9 +42591,13 @@ Nummer: 12773
     123 613 32 92
 
 
+
+
 **Möja Kulturella Ungdomsrörelse, MKU**
 
     123 296 67 78
+
+
 
 
 **Möja Turistförening**
@@ -30848,9 +42605,13 @@ Nummer: 12773
     123 129 03 29
 
 
+
+
 **Möklinta Hembygdsförening**
 
     123 344 41 89
+
+
 
 
 **Möklinta Kennelklubb**
@@ -30858,9 +42619,13 @@ Nummer: 12773
     123 429 56 71
 
 
+
+
 **Möklinta Missionsförsamling**
 
     123 215 95 15
+
+
 
 
 **Möklinta SMU**
@@ -30868,9 +42633,13 @@ Nummer: 12773
     123 494 85 35
 
 
+
+
 **Mölle By- och Kulturförening**
 
     123 079 45 86
+
+
 
 
 **Mölltorps Ridsällskap**
@@ -30878,9 +42647,13 @@ Nummer: 12773
     123 033 33 77
 
 
+
+
 **Mölndal OCR IF**
 
     123 092 29 30
+
+
 
 
 **Mölndal Outdoor IF**
@@ -30888,9 +42661,13 @@ Nummer: 12773
     123 281 30 53
 
 
+
+
 **Mölndals AIK**
 
     123 314 30 70
+
+
 
 
 **Mölndals Bildemontering AB**
@@ -30898,9 +42675,13 @@ Nummer: 12773
     123 440 77 55
 
 
+
+
 **Mölndals IBF**
 
     123 422 82 68
+
+
 
 
 **Mölndals Konståkningsklubb**
@@ -30912,9 +42693,13 @@ Nummer: 12773
     123 664 14 50
 
 
+
+
 **Mölndals Pastorat**
 
     123 410 24 30 - Diakoni
+
+
 
 
 **Mölndals Stad**
@@ -30922,9 +42707,13 @@ Nummer: 12773
     123 646 84 25 - Lärcentrum
 
 
+
+
 **Mönsterås Brukshundklubb**
 
     123 417 18 98
+
+
 
 
 **Mönsterås Fotoklubb**
@@ -30932,9 +42721,13 @@ Nummer: 12773
     123 061 99 40
 
 
+
+
 **Mönsterås Jazz och Kammarmusik**
 
     123 304 33 79
+
+
 
 
 **Mönsterås Scoutkår**
@@ -30942,9 +42735,13 @@ Nummer: 12773
     123 352 64 23
 
 
+
+
 **Mönsterås SK - Segling**
 
     123 085 49 76
+
+
 
 
 **Mönsterås Skytteförening**
@@ -30952,9 +42749,13 @@ Nummer: 12773
     123 282 94 48
 
 
+
+
 **Mörarps IF**
 
     123 092 85 49
+
+
 
 
 **Mörbyfjärdens Idrottsförening, MIF**
@@ -30962,9 +42763,13 @@ Nummer: 12773
     123 113 50 60
 
 
+
+
 **Mörbylånga GoIF**
 
     123 543 07 80
+
+
 
 
 **Mörbylånga MK**
@@ -30972,9 +42777,13 @@ Nummer: 12773
     123 556 53 87
 
 
+
+
 **Mörkö Nya Bygdegårdsförening**
 
     123 389 63 13
+
+
 
 
 **Mörlunda GIF**
@@ -30982,9 +42791,13 @@ Nummer: 12773
     123 521 77 32
 
 
+
+
 **Mörrums Folkets Hus och Park**
 
     123 322 99 45
+
+
 
 
 **Mörrums GoIS FK**
@@ -30992,9 +42805,13 @@ Nummer: 12773
     123 245 28 45
 
 
+
+
 **Mörrums GOIS HK**
 
     123 634 99 48
+
+
 
 
 **Mörrums Hembygds- och Fornminnesförening**
@@ -31002,9 +42819,13 @@ Nummer: 12773
     123 173 09 51
 
 
+
+
 **Mörrums RF - Ridsport**
 
     123 258 75 09
+
+
 
 
 **Mörrums Scoutkår**
@@ -31012,9 +42833,13 @@ Nummer: 12773
     123 184 90 33
 
 
+
+
 **Mörsil SKF**
 
     123 617 87 01
+
+
 
 
 **Mörsils Hembygdsförening**
@@ -31022,9 +42847,13 @@ Nummer: 12773
     123 457 99 00
 
 
+
+
 **Mösjöhults Nya Bygdegårdsförening**
 
     123 059 57 44
+
+
 
 
 
@@ -31036,9 +42865,13 @@ Nummer: 12773
     123 553 21 89
 
 
+
+
 **Nacka FC**
 
     123 313 88 80
+
+
 
 
 **Nacka Församling**
@@ -31052,9 +42885,13 @@ Nummer: 12773
     123 363 58 51 - Gatubarn i Manilla
 
 
+
+
 **Nacka GK**
 
     123 010 00 73
+
+
 
 
 **Nacka Gymnastikförening**
@@ -31062,9 +42899,13 @@ Nummer: 12773
     123 551 41 87
 
 
+
+
 **Nacka Taekwondo IF**
 
     123 293 12 10
+
+
 
 
 **Nacka-Värmdö Trädgårdssällskap, NVTS**
@@ -31072,9 +42913,13 @@ Nummer: 12773
     123 429 67 86
 
 
+
+
 **Naitisport AB**
 
     123 470 95 98
+
+
 
 
 **Nansta Sportryttarförening**
@@ -31082,9 +42927,13 @@ Nummer: 12773
     123 603 54 22
 
 
+
+
 **Naprapaterna Falkenberg**
 
     123 394 74 21
+
+
 
 
 **NapraSpa Anna / Anna Didi**
@@ -31092,9 +42941,13 @@ Nummer: 12773
     123 287 58 39
 
 
+
+
 **Narcotics Anonymous, Anonyma Narkomaner, NA**
 
     123 264 96 63 - Mälardalens distrikt
+
+
 
 
 **Narcotics Anonymous, Anonyma Narkomaner, NA**
@@ -31102,9 +42955,13 @@ Nummer: 12773
     123 126 04 05 - Västra Distriktet
 
 
+
+
 **Narcotics Anonymous, Anonyma Narkomaner, NA**
 
     123 216 96 54
+
+
 
 
 **Narkolepsiföreningen i Sverige**
@@ -31112,9 +42969,13 @@ Nummer: 12773
     123 466 58 16
 
 
+
+
 **Narva BK**
 
     123 344 05 18
+
+
 
 
 **Natalie Carrion**
@@ -31122,9 +42983,13 @@ Nummer: 12773
     123 036 38 46
 
 
+
+
 **Nationell kvinnojour och stöd på teckenspråk, NKJT**
 
     123 500 58 97
+
+
 
 
 **Nationell Samverkan för Psykisk Hälsa, NSPH**
@@ -31132,9 +42997,13 @@ Nummer: 12773
     123 430 54 88
 
 
+
+
 **Nattavaara Hembygdsförening**
 
     123 277 09 15
+
+
 
 
 **Nattsvart Stödförening**
@@ -31142,9 +43011,13 @@ Nummer: 12773
     123 473 00 99
 
 
+
+
 **Naturhjältarnas 4H-klubb**
 
     123 667 54 74
+
+
 
 
 **Naturligtvis Golf & Country Club / Utmaningarnas Hus i Malmö AB**
@@ -31152,9 +43025,13 @@ Nummer: 12773
     123 114 16 47
 
 
+
+
 **Naturläras Hästsällskap**
 
     123 485 63 08
+
+
 
 
 **Naturnära Kundalini Yoga center / Tenth Gate Sweden AB**
@@ -31162,9 +43039,13 @@ Nummer: 12773
     123 213 93 50
 
 
+
+
 **Naturskyddsföreningen Borlänge**
 
     123 248 87 73
+
+
 
 
 **Naturskyddsföreningen i Blekinge**
@@ -31172,9 +43053,13 @@ Nummer: 12773
     123 039 56 57
 
 
+
+
 **Naturskyddsföreningen i Motala**
 
     123 387 37 18
+
+
 
 
 **Naturskyddsföreningen i Skåne**
@@ -31184,9 +43069,13 @@ Nummer: 12773
     123 290 49 44 - Storkprojektet
 
 
+
+
 **Naturum Hornborgasjön / Länsstyrelsen Västra Götaland**
 
     123 543 84 11 - Parkering husbil
+
+
 
 
 **Natuvital Sweden AB**
@@ -31194,9 +43083,13 @@ Nummer: 12773
     123 217 94 48
 
 
+
+
 **Naums Hembygdsförening**
 
     123 171 85 92
+
+
 
 
 **NAV Sweden**
@@ -31204,9 +43097,13 @@ Nummer: 12773
     123 612 31 60
 
 
+
+
 **Nduguföreningen**
 
     123 263 26 85
+
+
 
 
 **Nedansjö IK**
@@ -31214,9 +43111,13 @@ Nummer: 12773
     123 133 49 37
 
 
+
+
 **Nederluleå Församling**
 
     123 099 72 70 - Kollekt
+
+
 
 
 **Nedre Fryksdals Konstförening, NFK**
@@ -31224,9 +43125,13 @@ Nummer: 12773
     123 122 82 38
 
 
+
+
 **Nedre Helgeåns FVO**
 
     123 023 43 10
+
+
 
 
 **Nedre Soppero IK**
@@ -31234,14 +43139,20 @@ Nummer: 12773
     123 685 58 52
 
 
+
+
 **Nema Problema**
 
     123 291 85 22
 
 
+
+
 **Neuro Ung Med MS**
 
     123 307 96 96
+
+
 
 
 **Neuroförbundet**
@@ -31253,9 +43164,13 @@ Nummer: 12773
     123 901 00 75
 
 
+
+
 **Neuroförbundet Arvika Västra Värmland**
 
     123 604 15 86
+
+
 
 
 **Neuroförbundet Hallands Län**
@@ -31263,9 +43178,13 @@ Nummer: 12773
     123 102 71 50
 
 
+
+
 **Neuroförbundet Kalmar**
 
     123 050 02 80
+
+
 
 
 **Neuroförbundet Lundabygden**
@@ -31273,9 +43192,13 @@ Nummer: 12773
     123 650 61 82
 
 
+
+
 **Neuroförbundet Malmö**
 
     123 344 49 57
+
+
 
 
 **Neuroförbundet Nordöstra Skåne**
@@ -31283,9 +43206,13 @@ Nummer: 12773
     123 623 72 42
 
 
+
+
 **Neuroförbundet Skellefteå**
 
     123 000 87 14
+
+
 
 
 **Neuroförbundet Småländska Höglandet**
@@ -31293,9 +43220,13 @@ Nummer: 12773
     123 076 15 28
 
 
+
+
 **Neuroförbundet Uppsala-Knivsta**
 
     123 042 55 38
+
+
 
 
 **Neuroförbundet Varberg-Falkenberg**
@@ -31303,9 +43234,13 @@ Nummer: 12773
     123 642 54 17
 
 
+
+
 **Neuroförbundet Västra Skåne**
 
     123 633 71 09
+
+
 
 
 **New Wine Sverige**
@@ -31313,9 +43248,13 @@ Nummer: 12773
     123 419 34 96
 
 
+
+
 **NewsVoice / Sasser Media Lab AB**
 
     123 530 20 05
+
+
 
 
 **NF Trafikskola AB**
@@ -31323,9 +43262,13 @@ Nummer: 12773
     123 135 20 20
 
 
+
+
 **Nicklastorp Golfklubb / Nicklastorp Golf AB**
 
     123 511 64 88
+
+
 
 
 **NiD Veterinärklinik AB**
@@ -31333,9 +43276,13 @@ Nummer: 12773
     123 680 95 60
 
 
+
+
 **Nidingens Fågelstation**
 
     123 544 28 92
+
+
 
 
 **Niemisels AIK, NAIK**
@@ -31343,14 +43290,20 @@ Nummer: 12773
     123 040 11 74
 
 
+
+
 **Nikus**
 
     123 111 11 03
 
 
+
+
 **Nils Bastu Spa AB**
 
     123 296 54 16
+
+
 
 
 **Nimbuskyrkan**
@@ -31360,9 +43313,13 @@ Nummer: 12773
     123 607 03 20 - Nimbus Ungs verksamhet
 
 
+
+
 **Nina Fox Stark**
 
     123 398 38 89
+
+
 
 
 **Ninpo Dragons Stockholm / IF Bujinkan Bushin Dojo**
@@ -31370,9 +43327,13 @@ Nummer: 12773
     123 683 52 27
 
 
+
+
 **Nippon & Frezon Catering AB**
 
     123 264 89 39
+
+
 
 
 **NISIU - Näringslivets Insamlingsstiftelse i Umeå**
@@ -31380,9 +43341,13 @@ Nummer: 12773
     123 359 21 44
 
 
+
+
 **Nittorps FVO**
 
     123 312 36 43
+
+
 
 
 **Nittorps IK**
@@ -31390,9 +43355,13 @@ Nummer: 12773
     123 580 99 75
 
 
+
+
 **Njurförbundet Sydsverige**
 
     123 222 72 05
+
+
 
 
 **Njurunda Brukshundklubb**
@@ -31400,9 +43369,13 @@ Nummer: 12773
     123 682 75 13
 
 
+
+
 **Njurunda Byavakt Förening**
 
     123 503 17 37
+
+
 
 
 **Njurunda Hembygdsförening**
@@ -31410,9 +43383,13 @@ Nummer: 12773
     123 364 61 55
 
 
+
+
 **Njurunda IK**
 
     123 162 60 43
+
+
 
 
 **Njurunda OK - Orientering**
@@ -31420,9 +43397,13 @@ Nummer: 12773
     123 419 95 50
 
 
+
+
 **Njurunda Simsällskap**
 
     123 526 65 72
+
+
 
 
 **Njurunda SK**
@@ -31432,9 +43413,13 @@ Nummer: 12773
     123 667 46 59
 
 
+
+
 **Njurunda Slöjdförening och Vävstugan**
 
     123 297 53 73
+
+
 
 
 **NK-Villans Vänner**
@@ -31442,9 +43427,13 @@ Nummer: 12773
     123 545 72 39
 
 
+
+
 **Nkingas Vänner**
 
     123 288 91 52
+
+
 
 
 **NN Golf AB**
@@ -31452,9 +43441,13 @@ Nummer: 12773
     123 003 66 73
 
 
+
+
 **No Connection AB**
 
     123 682 14 82
+
+
 
 
 **Noaks Ark Göteborg och Västra Götaland**
@@ -31462,9 +43455,13 @@ Nummer: 12773
     123 280 12 72
 
 
+
+
 **Noaks Ark Norra Norrland**
 
     123 358 39 78
+
+
 
 
 **Noaks Ark Småland & Halland**
@@ -31472,9 +43469,13 @@ Nummer: 12773
     123 354 69 67
 
 
+
+
 **Noaks Ark Stockholm**
 
     123 304 82 12
+
+
 
 
 **Noaks Ark Östergötland**
@@ -31482,14 +43483,20 @@ Nummer: 12773
     123 582 24 57
 
 
+
+
 **Nog Nu - Nu får det vara nog!**
 
     123 512 41 44
 
 
+
+
 **Nogersunds Hembygdsförening**
 
     123 551 05 57
+
+
 
 
 **Nolaskogs Biståndscenter, NBC**
@@ -31499,9 +43506,13 @@ Nummer: 12773
     123 413 88 22 - Fraktbidrag
 
 
+
+
 **Nolberga Veterinärpraktik - Leg.vet. Annelie Hellström / Nolberga Veterinärpraktik AB**
 
     123 294 66 97
+
+
 
 
 **Nolsokna Byalag**
@@ -31511,9 +43522,13 @@ Nummer: 12773
     123 344 57 07
 
 
+
+
 **Nor IK**
 
     123 449 40 19
+
+
 
 
 **Nora Biologiska Förening**
@@ -31521,9 +43536,13 @@ Nummer: 12773
     123 200 69 63
 
 
+
+
 **Nora BK**
 
     123 041 69 82
+
+
 
 
 **Nora Bridgeklubb**
@@ -31531,9 +43550,13 @@ Nummer: 12773
     123 327 87 93
 
 
+
+
 **Nora Brukshundklubb**
 
     123 635 58 61
+
+
 
 
 **Nora Bågskytteklubb**
@@ -31541,9 +43564,13 @@ Nummer: 12773
     123 042 68 58
 
 
+
+
 **Nora Golfklubb**
 
     123 196 33 05
+
+
 
 
 **Nora HC**
@@ -31551,9 +43578,13 @@ Nummer: 12773
     123 615 99 82
 
 
+
+
 **Nora Hembygdsförening**
 
     123 680 72 59
+
+
 
 
 **Nora-Skogs Församling**
@@ -31561,9 +43592,13 @@ Nummer: 12773
     123 036 24 59
 
 
+
+
 **Nora Släktforskarklubb**
 
     123 069 25 58
+
+
 
 
 **Nora-Tärnsjö Baptistförsamling**
@@ -31571,9 +43606,13 @@ Nummer: 12773
     123 602 61 73
 
 
+
+
 **Nora - Tärnsjö Hembygdsförening**
 
     123 448 67 34
+
+
 
 
 **Nora-Tärnsjö Missionsförsamling**
@@ -31581,9 +43620,13 @@ Nummer: 12773
     123 634 55 65
 
 
+
+
 **Nora VSK**
 
     123 042 57 44
+
+
 
 
 **Noraå Bruks Samfällighetsförening**
@@ -31591,9 +43634,13 @@ Nummer: 12773
     123 104 30 09
 
 
+
+
 **Norbergs CK**
 
     123 540 66 99
+
+
 
 
 **Norbergs Orienteringsklubb**
@@ -31601,9 +43648,13 @@ Nummer: 12773
     123 421 49 38
 
 
+
+
 **Norboda AB**
 
     123 528 15 55
+
+
 
 
 **Nordanstigskustens Församling**
@@ -31625,9 +43676,13 @@ Nummer: 12773
     123 644 64 21 - Kollekt Harmånger
 
 
+
+
 **Nordea Konstförening**
 
     123 422 45 31
+
+
 
 
 **Nordea Seniorklubb**
@@ -31635,9 +43690,13 @@ Nummer: 12773
     123 465 78 21
 
 
+
+
 **Nordebros Trädgård / Kent Haglund**
 
     123 004 06 91
+
+
 
 
 **Nordhallands RK - Ridsport**
@@ -31645,9 +43704,13 @@ Nummer: 12773
     123 354 64 62
 
 
+
+
 **Nordic Area**
 
     123 106 95 58
+
+
 
 
 **Nordic Deaf Bridge**
@@ -31655,9 +43718,13 @@ Nummer: 12773
     123 036 82 41
 
 
+
+
 **Nordic Reel Icons / Nordic Legions**
 
     123 018 06 95
+
+
 
 
 **Nordic Rehab AB**
@@ -31665,9 +43732,13 @@ Nummer: 12773
     123 544 25 95
 
 
+
+
 **Nordic SeaFarm AB**
 
     123 185 62 36
+
+
 
 
 **Nordic Ukraine Forum**
@@ -31675,9 +43746,13 @@ Nummer: 12773
     123 437 52 83
 
 
+
+
 **Nordingrå EFS**
 
     123 615 25 81
+
+
 
 
 **Nordingrå Församling**
@@ -31685,14 +43760,20 @@ Nummer: 12773
     123 214 10 59
 
 
+
+
 **Nordingrå Församlings Vänner**
 
     123 509 64 33
 
 
+
+
 **Nordisk Förening för Spädbarns Utveckling, NFSU**
 
     123 014 27 45
+
+
 
 
 **Nordisk Hjälp**
@@ -31702,9 +43783,13 @@ Nummer: 12773
     123 900 32 37
 
 
+
+
 **Nordisk Salong / Helsingborgs Konstförening**
 
     123 317 57 83
+
+
 
 
 **Nordiska Asa-samfundet**
@@ -31712,9 +43797,13 @@ Nummer: 12773
     123 097 20 91
 
 
+
+
 **Nordiska Veteranbilstv AB**
 
     123 511 60 33
+
+
 
 
 **Nordlund Sports AB**
@@ -31722,9 +43811,13 @@ Nummer: 12773
     123 616 16 40
 
 
+
+
 **Nordmalings Baptistförsamling**
 
     123 137 48 42
+
+
 
 
 **Nordmalings Församling**
@@ -31732,9 +43825,13 @@ Nummer: 12773
     123 668 23 22
 
 
+
+
 **Nordmarks Hembygdsförening**
 
     123 355 15 95
+
+
 
 
 **Nordupplandskyrkan**
@@ -31742,9 +43839,13 @@ Nummer: 12773
     123 561 51 33
 
 
+
+
 **Nordvärmlands Snöskoterklubb**
 
     123 276 62 69
+
+
 
 
 **Nordöstra Skånes Fågelklubb**
@@ -31752,9 +43853,13 @@ Nummer: 12773
     123 225 16 27
 
 
+
+
 **Noretskolan IF**
 
     123 119 78 96
+
+
 
 
 **Norje Båtklubb**
@@ -31762,9 +43867,13 @@ Nummer: 12773
     123 161 23 57
 
 
+
+
 **Norje Monsun**
 
     123 384 11 29
+
+
 
 
 **Norr Amsbergs ridklubb**
@@ -31772,9 +43881,13 @@ Nummer: 12773
     123 340 96 79
 
 
+
+
 **Norra Allbo Hembygdsförening**
 
     123 397 17 10
+
+
 
 
 **Norra Billings Hembygdsförening**
@@ -31782,9 +43895,28 @@ Nummer: 12773
     123 355 60 24
 
 
+
+
+**Norra Billings Pastorat**
+
+    123 175 60 97 - Kollekt Värings Församling
+
+    123 396 90 94 - Kollekt Bergs Församling
+
+    123 652 66 10 - Kollekt Götlunda Församling
+
+    123 690 11 51 - Övrigt
+
+    123 690 11 85 - Kollekt Frösve Församling
+
+
+
+
 **Norra Gotlands Brukshundsklubb**
 
     123 003 99 33
+
+
 
 
 **Norra Gotlands Pastorat**
@@ -31806,9 +43938,13 @@ Nummer: 12773
     123 553 17 36 - Gothem församling
 
 
+
+
 **Norra Hallands Konstförening**
 
     123 616 06 75
+
+
 
 
 **Norra Hälsinglands Travsällskap**
@@ -31816,9 +43952,13 @@ Nummer: 12773
     123 006 41 70
 
 
+
+
 **Norra Järva Hembygdsförening**
 
     123 173 74 51
+
+
 
 
 **Norra Järva Scoutkår**
@@ -31826,9 +43966,13 @@ Nummer: 12773
     123 010 58 41
 
 
+
+
 **Norra Kållands USKF**
 
     123 105 89 65
+
+
 
 
 **Norra Möckleby-Sandby-Gårdby Församling**
@@ -31836,9 +43980,13 @@ Nummer: 12773
     123 177 95 37
 
 
+
+
 **Norra Nöbbelövs Församling**
 
     123 059 47 88
+
+
 
 
 **Norra Roslagens Fårklubb**
@@ -31846,9 +43994,13 @@ Nummer: 12773
     123 275 39 94
 
 
+
+
 **Norra Simmesjöns FVO**
 
     123 675 06 81
+
+
 
 
 **Norra Skånes Fjordhästförening**
@@ -31856,9 +44008,13 @@ Nummer: 12773
     123 374 65 91
 
 
+
+
 **Norra Smålands Scoutdistrikt**
 
     123 032 03 66
+
+
 
 
 **Norra Taxklubben**
@@ -31866,9 +44022,13 @@ Nummer: 12773
     123 155 20 74
 
 
+
+
 **Norra Tredenborgsslättens Samfällighetsförening**
 
     123 541 97 91
+
+
 
 
 **Norra Ugglarps Bygdegårdsförening**
@@ -31876,9 +44036,13 @@ Nummer: 12773
     123 087 57 08
 
 
+
+
 **Norra Venjans Hembygdsförening**
 
     123 296 93 43
+
+
 
 
 **Norra Älvsborgs RK**
@@ -31886,9 +44050,13 @@ Nummer: 12773
     123 354 84 92
 
 
+
+
 **Norrahammar - Tabergs Ridklubb**
 
     123 552 97 30
+
+
 
 
 **Norrahammars Församling**
@@ -31902,9 +44070,13 @@ Nummer: 12773
     123 454 92 59 - Insamlingar
 
 
+
+
 **Norrahammars Jakt- och Sportskytteklubb**
 
     123 626 31 31
+
+
 
 
 **Norrala Hembygdsförening**
@@ -31912,9 +44084,13 @@ Nummer: 12773
     123 648 66 25
 
 
+
+
 **Norrala IF**
 
     123 592 39 74
+
+
 
 
 **Norrala SK**
@@ -31922,9 +44098,13 @@ Nummer: 12773
     123 457 17 17
 
 
+
+
 **Norrala-Trönö Församling**
 
     123 654 88 53
+
+
 
 
 **Norrbo Hembygds- och Fornminnesförening**
@@ -31932,9 +44112,13 @@ Nummer: 12773
     123 102 74 73
 
 
+
+
 **Norrbottens läns Stövarklubb, NBSK**
 
     123 007 40 05
+
+
 
 
 **Norrbottens Motorsällskap, NMS Boden**
@@ -31942,14 +44126,20 @@ Nummer: 12773
     123 001 70 87
 
 
+
+
 **Norrby Bygdegårdsförening**
 
     123 557 24 25
 
 
+
+
 **Norrby Hembygdsförening**
 
     123 064 29 00
+
+
 
 
 **Norrby IF**
@@ -31967,9 +44157,13 @@ Nummer: 12773
     123 661 45 07 - Kiosk Hemma
 
 
+
+
 **Norrby Jakt & Sportskytteklubb**
 
     123 642 98 80
+
+
 
 
 **Norrbärke SK Alpin**
@@ -31977,9 +44171,13 @@ Nummer: 12773
     123 621 60 22
 
 
+
+
 **Norrhults BK**
 
     123 336 59 39
+
+
 
 
 **Norrköping Adventistförsamling**
@@ -31987,9 +44185,13 @@ Nummer: 12773
     123 277 81 65
 
 
+
+
 **Norrköping DiscgolfPark / Delicious Darling AB / M2 Fly AB**
 
     123 628 23 39
+
+
 
 
 **Norrköping Dolphins**
@@ -31997,9 +44199,13 @@ Nummer: 12773
     123 608 42 97
 
 
+
+
 **Norrköping Panthers**
 
     123 664 95 60
+
+
 
 
 **Norrköpings Jaktskytteklubb**
@@ -32007,9 +44213,13 @@ Nummer: 12773
     123 344 59 54
 
 
+
+
 **Norrköpings Raggarklubb**
 
     123 473 11 54
+
+
 
 
 **Norrköpings Segelsällskap**
@@ -32017,9 +44227,13 @@ Nummer: 12773
     123 000 92 74
 
 
+
+
 **Norrköpings Sportdansare, NOSD**
 
     123 003 86 79
+
+
 
 
 **Norrlands Kundaliniyoga Center / Maja Tellegård**
@@ -32027,9 +44241,13 @@ Nummer: 12773
     123 005 36 60
 
 
+
+
 **Norrlands nations idrottsförening**
 
     123 073 09 86
+
+
 
 
 **Norrmalms Baptistförsamling**
@@ -32037,9 +44255,13 @@ Nummer: 12773
     123 451 22 24
 
 
+
+
 **Norrmjöle Golfklubb**
 
     123 156 98 88
+
+
 
 
 **Norrmjöle Tennisklubb**
@@ -32047,9 +44269,13 @@ Nummer: 12773
     123 028 10 48
 
 
+
+
 **Norrorts Motorbolag AB**
 
     123 153 94 77
+
+
 
 
 **NorrortsSporten - Peaking Media / Oliver Funke**
@@ -32057,9 +44283,13 @@ Nummer: 12773
     123 577 09 12
 
 
+
+
 **Norrotens Bygdeförening**
 
     123 464 30 78
+
+
 
 
 **Norrsken Mind / Stiftelsen Osmand Foundation**
@@ -32067,9 +44297,13 @@ Nummer: 12773
     123 406 64 11
 
 
+
+
 **Norrtälje Basket**
 
     123 559 48 82
+
+
 
 
 **Norrtälje Biljardklubb**
@@ -32077,14 +44311,20 @@ Nummer: 12773
     123 174 44 73
 
 
+
+
 **Norrtälje IK**
 
     123 029 58 73
 
 
+
+
 **Norrtälje Karateklubb**
 
     123 097 29 84
+
+
 
 
 **Norrtälje Katthem**
@@ -32094,9 +44334,13 @@ Nummer: 12773
     123 161 20 01 - katthemmet
 
 
+
+
 **Norrtälje Konstförening**
 
     123 593 29 59
+
+
 
 
 **Norrtälje Kvinnojour Snäckan**
@@ -32104,9 +44348,13 @@ Nummer: 12773
     123 005 29 28
 
 
+
+
 **Norrtälje Lokala Kennelklubb**
 
     123 144 81 82
+
+
 
 
 **Norrtälje-Malsta Församling**
@@ -32114,9 +44362,13 @@ Nummer: 12773
     123 356 80 94
 
 
+
+
 **Norrtälje Simklubb**
 
     123 562 79 06
+
+
 
 
 **Norrtälje Släktforskarförening**
@@ -32124,9 +44376,13 @@ Nummer: 12773
     123 510 03 00
 
 
+
+
 **Norråkers Jaktskytteklubb**
 
     123 379 32 05
+
+
 
 
 **Norråva Golfklubb**
@@ -32134,9 +44390,13 @@ Nummer: 12773
     123 304 84 69
 
 
+
+
 **Norsjö Brukshundklubb**
 
     123 470 17 51
+
+
 
 
 **Norsjö Golfklubb**
@@ -32144,9 +44404,13 @@ Nummer: 12773
     123 664 42 98
 
 
+
+
 **North Bank Supporters, NBS**
 
     123 669 23 05
+
+
 
 
 **Northern Light Aid**
@@ -32154,9 +44418,13 @@ Nummer: 12773
     123 244 56 17
 
 
+
+
 **Northern Lights Skating**
 
     123 224 91 91
+
+
 
 
 **Norums Bygdegårdsförening**
@@ -32164,9 +44432,13 @@ Nummer: 12773
     123 299 68 74
 
 
+
+
 **Norums Församling**
 
     123 137 63 67 - Kollekt
+
+
 
 
 **Nosaby IF**
@@ -32176,9 +44448,13 @@ Nummer: 12773
     123 502 98 14 - P-2010
 
 
+
+
 **Nossan Ljusfestival / Grästorps framtidsförening**
 
     123 105 37 27
+
+
 
 
 **Nossebro IF**
@@ -32186,9 +44462,13 @@ Nummer: 12773
     123 602 77 83
 
 
+
+
 **Not Quite Ekonomisk förening**
 
     123 402 68 11
+
+
 
 
 **Not Quite Vänners Konstförening**
@@ -32196,9 +44476,13 @@ Nummer: 12773
     123 544 19 10
 
 
+
+
 **Novahuset**
 
     123 514 68 40
+
+
 
 
 **Novellix AB**
@@ -32206,9 +44490,13 @@ Nummer: 12773
     123 671 22 44
 
 
+
+
 **NRH Trauma Riks**
 
     123 442 82 56
+
+
 
 
 **Nusnäs Båtklubb**
@@ -32216,9 +44504,13 @@ Nummer: 12773
     123 501 07 23
 
 
+
+
 **NXTME**
 
     123 272 12 23
+
+
 
 
 **Ny Generation Elev och Studentorganisation**
@@ -32226,9 +44518,13 @@ Nummer: 12773
     123 175 79 13
 
 
+
+
 **Nya Dagbladet, NyD / Aeon Media AB**
 
     123 611 30 21
+
+
 
 
 **Nya Ekenäs Samfällighetsförening**
@@ -32236,9 +44532,13 @@ Nummer: 12773
     123 063 90 21
 
 
+
+
 **Nya Kompisbyrån**
 
     123 900 81 60
+
+
 
 
 **Nya Kopparbergsbergslags Hembygdsförening**
@@ -32246,9 +44546,13 @@ Nummer: 12773
     123 438 20 24
 
 
+
+
 **Nya Riksföreningen hepatit C - och andra leversjukdomar**
 
     123 623 58 40
+
+
 
 
 **Nya Ronnebygymnasterna IF**
@@ -32256,9 +44560,13 @@ Nummer: 12773
     123 411 32 13
 
 
+
+
 **Nya Scandinavia SSB Club Sweden**
 
     123 006 40 06
+
+
 
 
 **Nya Staffans Trafikskola AB**
@@ -32266,9 +44574,13 @@ Nummer: 12773
     123 245 48 09
 
 
+
+
 **Nya Vägar Trafikskola AB**
 
     123 051 39 37
+
+
 
 
 **Nya Åhusparken**
@@ -32276,9 +44588,13 @@ Nummer: 12773
     123 512 78 57
 
 
+
+
 **Nya Örlenbadets Samfällighetsförening**
 
     123 266 11 06
+
+
 
 
 **Nybergs Buss AB**
@@ -32286,9 +44602,13 @@ Nummer: 12773
     123 635 99 62
 
 
+
+
 **Nyborgs SK**
 
     123 089 82 39
+
+
 
 
 **Nybro Brukshundklubb**
@@ -32296,9 +44616,13 @@ Nummer: 12773
     123 390 77 22
 
 
+
+
 **Nybro Discgolfklubb**
 
     123 646 49 94
+
+
 
 
 **Nybro Drill**
@@ -32306,9 +44630,13 @@ Nummer: 12773
     123 166 62 05
 
 
+
+
 **Nybro Företagsgrupp**
 
     123 145 22 75
+
+
 
 
 **Nybro Golfklubb**
@@ -32316,9 +44644,13 @@ Nummer: 12773
     123 639 43 73
 
 
+
+
 **Nybro Idrottsförening**
 
     123 283 82 17
+
+
 
 
 **Nybro IF**
@@ -32326,9 +44658,13 @@ Nummer: 12773
     123 580 75 65
 
 
+
+
 **Nybro Simklubb**
 
     123 683 90 47
+
+
 
 
 **Nybrons Trafikskola AB**
@@ -32336,9 +44672,13 @@ Nummer: 12773
     123 602 34 10
 
 
+
+
 **Nybrostrands Byalag**
 
     123 216 46 48
+
+
 
 
 **Nyby Bygdegårdsförening**
@@ -32346,9 +44686,13 @@ Nummer: 12773
     123 238 55 57
 
 
+
+
 **Nyckelby Bygdegårdsförening**
 
     123 504 87 07
+
+
 
 
 **Nydala Byalag**
@@ -32356,9 +44700,13 @@ Nummer: 12773
     123 098 52 00
 
 
+
+
 **Nyeds Hembygdsförening**
 
     123 685 81 87
+
+
 
 
 **Nyehusens Villaägareförening**
@@ -32366,9 +44714,13 @@ Nummer: 12773
     123 487 89 89
 
 
+
+
 **NyFramtid**
 
     123 632 24 32
+
+
 
 
 **Nygammal Dansförening, NGDF**
@@ -32376,9 +44728,13 @@ Nummer: 12773
     123 183 54 20
 
 
+
+
 **Nyhetsbyrån / Vainar Mediagroup AB**
 
     123 384 82 49
+
+
 
 
 **Nyhetskartan Media AB**
@@ -32386,9 +44742,13 @@ Nummer: 12773
     123 632 55 34
 
 
+
+
 **Nyhyttans Adventistförsamling**
 
     123 538 37 81
+
+
 
 
 **Nykvarns BSK - Bågskytte**
@@ -32396,9 +44756,13 @@ Nummer: 12773
     123 092 78 14
 
 
+
+
 **Nykvarns Hundhall**
 
     123 395 12 58
+
+
 
 
 **Nykvarns IF**
@@ -32408,9 +44772,13 @@ Nummer: 12773
     123 613 07 51
 
 
+
+
 **Nykvarns Sportklubb**
 
     123 653 72 11
+
+
 
 
 **Nyköping - i Fighten mot Cancer**
@@ -32418,9 +44786,13 @@ Nummer: 12773
     123 091 51 16
 
 
+
+
 **Nyköping i samverkan, NYSAM**
 
     123 167 61 13
+
+
 
 
 **Nyköping Oxelösund BTK**
@@ -32428,9 +44800,13 @@ Nummer: 12773
     123 394 37 35
 
 
+
+
 **Nyköping-Oxelösunds Demensförening**
 
     123 533 55 26
+
+
 
 
 **Nyköpings AIK**
@@ -32438,9 +44814,13 @@ Nummer: 12773
     123 126 94 14
 
 
+
+
 **Nyköpings BIS Fotboll**
 
     123 390 82 09
+
+
 
 
 **Nyköpings BIS Friidrott**
@@ -32448,9 +44828,13 @@ Nummer: 12773
     123 001 81 76
 
 
+
+
 **Nyköpings Bowlingsällskap, NBS**
 
     123 349 23 03
+
+
 
 
 **Nyköpings Curlingklubb**
@@ -32458,9 +44842,13 @@ Nummer: 12773
     123 015 61 74
 
 
+
+
 **Nyköpings Församling**
 
     123 199 52 99
+
+
 
 
 **Nyköpings Konstförening**
@@ -32468,9 +44856,13 @@ Nummer: 12773
     123 303 77 77
 
 
+
+
 **Nyköpings Konståkningsförening**
 
     123 492 88 18
+
+
 
 
 **Nyköpings OK - Orientering**
@@ -32478,9 +44870,13 @@ Nummer: 12773
     123 179 17 63
 
 
+
+
 **Nyköpings Scoutkår**
 
     123 560 13 98
+
+
 
 
 **Nyköpings SG**
@@ -32488,9 +44884,13 @@ Nummer: 12773
     123 653 31 94
 
 
+
+
 **Nyköpings Sportklubb**
 
     123 025 98 46
+
+
 
 
 **Nymans Trafikskola HB**
@@ -32498,9 +44898,13 @@ Nummer: 12773
     123 257 06 87
 
 
+
+
 **Nynäs Havsbad / Sodexo**
 
     123 212 44 02
+
+
 
 
 **Nynäshamns Brukshundklubb**
@@ -32508,9 +44912,13 @@ Nummer: 12773
     123 269 94 03
 
 
+
+
 **Nynäshamns Katthemsförening**
 
     123 050 91 82
+
+
 
 
 **Nyox Vipers Nyköping Oxelösund Discgolfklubb**
@@ -32518,9 +44926,13 @@ Nummer: 12773
     123 477 67 12
 
 
+
+
 **Nysätra IF**
 
     123 268 07 67
+
+
 
 
 **Nytänk I Alunda Ekonomiska förening**
@@ -32528,9 +44940,13 @@ Nummer: 12773
     123 626 05 25
 
 
+
+
 **Näckrosbröderna**
 
     123 469 12 00
+
+
 
 
 **Nälstaskolans Föräldraförening**
@@ -32538,9 +44954,13 @@ Nummer: 12773
     123 570 25 68
 
 
+
+
 **Nämdö Hembygdsförening**
 
     123 527 84 29
+
+
 
 
 **När IF**
@@ -32548,9 +44968,13 @@ Nummer: 12773
     123 535 06 16
 
 
+
+
 **Näsby IF**
 
     123 299 02 81
+
+
 
 
 **Näsbyvikens Båtsällskap**
@@ -32558,9 +44982,13 @@ Nummer: 12773
     123 198 12 65
 
 
+
+
 **Näset Surf Club**
 
     123 039 07 65
+
+
 
 
 **Näsets Budoklubb**
@@ -32568,9 +44996,13 @@ Nummer: 12773
     123 487 32 61
 
 
+
+
 **Näsets Ekumeniska Församling**
 
     123 006 97 81
+
+
 
 
 **Näshulta Gymnastik- och Idrottsförening**
@@ -32578,9 +45010,13 @@ Nummer: 12773
     123 032 23 13
 
 
+
+
 **Näshulta Hembygdsförening**
 
     123 602 23 70
+
+
 
 
 **Näshulta-Österby Samfällighetsförening**
@@ -32588,9 +45024,13 @@ Nummer: 12773
     123 576 53 59
 
 
+
+
 **Näshultasjöns Samfällighetsförening**
 
     123 628 29 09
+
+
 
 
 **Näshults Hembygdsförening**
@@ -32600,9 +45040,13 @@ Nummer: 12773
     123 413 64 38
 
 
+
+
 **Näske Båtsällskap**
 
     123 615 14 43
+
+
 
 
 **Nässjö Dansförening**
@@ -32612,9 +45056,13 @@ Nummer: 12773
     123 230 20 16 - Entré
 
 
+
+
 **Nässjö IBF**
 
     123 237 77 52
+
+
 
 
 **Nässjö IF**
@@ -32622,9 +45070,13 @@ Nummer: 12773
     123 044 01 64
 
 
+
+
 **Nässjö Järnvägsmuseum**
 
     123 489 16 36
+
+
 
 
 **Nässjö Skyttegille**
@@ -32632,9 +45084,13 @@ Nummer: 12773
     123 115 23 88
 
 
+
+
 **Nässjö Trafikskola AB**
 
     123 200 72 01
+
+
 
 
 **Näsums IF**
@@ -32642,9 +45098,13 @@ Nummer: 12773
     123 426 22 91
 
 
+
+
 **Näsåkers camping & stugby / Lars Abrahamsson**
 
     123 351 97 41
+
+
 
 
 **Näthatsgranskaren**
@@ -32652,9 +45112,13 @@ Nummer: 12773
     123 501 44 28
 
 
+
+
 **Nätmagasinet Mänsklig Säkerhet**
 
     123 383 91 31
+
+
 
 
 **Nätra Församling**
@@ -32662,9 +45126,13 @@ Nummer: 12773
     123 348 58 85 - Nätra kollekt
 
 
+
+
 **Nätra GIF**
 
     123 486 90 79
+
+
 
 
 **Nätra SK**
@@ -32672,9 +45140,13 @@ Nummer: 12773
     123 240 48 87
 
 
+
+
 **Nättidskriften Västerbotten Förr & Nu**
 
     123 429 21 40
+
+
 
 
 **Nättraby-Hasslö Församling**
@@ -32682,9 +45154,13 @@ Nummer: 12773
     123 350 47 76
 
 
+
+
 **Nätverket för Spinal Muskelatrofi, NSMA**
 
     123 440 68 23
+
+
 
 
 **Nätverket Prosit**
@@ -32692,9 +45168,13 @@ Nummer: 12773
     123 022 49 72
 
 
+
+
 **Nätverket Skona Göteborg**
 
     123 562 51 24
+
+
 
 
 **Nätverket Vägen / Stiftelsen bibelskolan.com**
@@ -32702,9 +45182,13 @@ Nummer: 12773
     123 404 15 05
 
 
+
+
 **Nävertjäls Bygdegårdsförening**
 
     123 339 83 02
+
+
 
 
 **Nävsjöns Sportfiskeklubb**
@@ -32712,9 +45196,13 @@ Nummer: 12773
     123 158 67 75
 
 
+
+
 **Nääs Hästsportförening**
 
     123 699 24 08
+
+
 
 
 **Nääs Ridförening**
@@ -32722,9 +45210,13 @@ Nummer: 12773
     123 137 01 70
 
 
+
+
 **Näässamfundet**
 
     123 511 28 34
+
+
 
 
 **Nålbolaget Fahlgren AB**
@@ -32732,9 +45224,13 @@ Nummer: 12773
     123 547 60 56
 
 
+
+
 **Nödinge Församling**
 
     123 628 69 26
+
+
 
 
 **Nössemarks Hembygdsförening**
@@ -32742,9 +45238,13 @@ Nummer: 12773
     123 338 97 80
 
 
+
+
 **Nötbackens TerapiDjurgård AB**
 
     123 062 49 99
+
+
 
 
 
@@ -32756,6 +45256,8 @@ Nummer: 12773
     123 412 38 40
 
 
+
+
 **Oaxen Bygdegårdsförening**
 
     123 079 41 07
@@ -32763,9 +45265,13 @@ Nummer: 12773
     123 385 60 85
 
 
+
+
 **Oaxenfärjan / Oaxens Samfällighetsförening**
 
     123 619 00 94
+
+
 
 
 **OCD-föreningen Göteborgsregionen**
@@ -32773,9 +45279,13 @@ Nummer: 12773
     123 252 53 84
 
 
+
+
 **OCD-föreningen Stockholm**
 
     123 165 24 03
+
+
 
 
 **OceaniaAcademy / Spinn MGMT AB**
@@ -32783,9 +45293,13 @@ Nummer: 12773
     123 170 92 45
 
 
+
+
 **Ockelbo Atlet Klubb**
 
     123 465 99 75
+
+
 
 
 **Ockelbo Församling**
@@ -32793,9 +45307,13 @@ Nummer: 12773
     123 513 92 66
 
 
+
+
 **Ockelbo IF**
 
     123 091 71 46
+
+
 
 
 **Ockelbo Missionsförsamling**
@@ -32803,14 +45321,20 @@ Nummer: 12773
     123 609 68 95
 
 
+
+
 **Odd Fellow Logen NR 64 Sven Erikson**
 
     123 525 11 78
 
 
+
+
 **Odenplan Fightgym**
 
     123 187 17 55
+
+
 
 
 **Odensjö Församling**
@@ -32820,9 +45344,13 @@ Nummer: 12773
     123 570 33 01
 
 
+
+
 **Odinn Islandshästklubb**
 
     123 571 57 01
+
+
 
 
 **Offerdals Hembygdsförening**
@@ -32830,9 +45358,13 @@ Nummer: 12773
     123 232 72 11
 
 
+
+
 **OK Fryksdalen**
 
     123 353 91 29
+
+
 
 
 **OK Grip**
@@ -32840,9 +45372,13 @@ Nummer: 12773
     123 664 76 30
 
 
+
+
 **OK Kroppefjäll**
 
     123 225 22 94
+
+
 
 
 **OK Kullingshof**
@@ -32850,14 +45386,20 @@ Nummer: 12773
     123 551 27 02
 
 
+
+
 **OK Kåre**
 
     123 399 90 18
 
 
+
+
 **OK Löftan**
 
     123 461 10 34
+
+
 
 
 **OK Milan**
@@ -32867,9 +45409,13 @@ Nummer: 12773
     123 440 27 15
 
 
+
+
 **OK Motala**
 
     123 416 14 44
+
+
 
 
 **OK Måsen**
@@ -32877,9 +45423,13 @@ Nummer: 12773
     123 417 02 70
 
 
+
+
 **OK Nackhe**
 
     123 272 12 49
+
+
 
 
 **OK Njudung**
@@ -32887,9 +45437,13 @@ Nummer: 12773
     123 636 65 53
 
 
+
+
 **OK Nolaskogsarna**
 
     123 067 01 41
+
+
 
 
 **OK Renen**
@@ -32897,9 +45451,13 @@ Nummer: 12773
     123 048 95 75
 
 
+
+
 **OK Rodhen**
 
     123 298 05 14
+
+
 
 
 **OK Tisaren**
@@ -32907,9 +45465,13 @@ Nummer: 12773
     123 295 69 93
 
 
+
+
 **OK Tor**
 
     123 006 30 73
+
+
 
 
 **Olaus Petri Församling**
@@ -32917,9 +45479,13 @@ Nummer: 12773
     123 105 29 35
 
 
+
+
 **Old English Sheepdogsällskapet, OESS**
 
     123 258 57 92
+
+
 
 
 **Olivehällkyrkan**
@@ -32927,9 +45493,13 @@ Nummer: 12773
     123 690 39 00
 
 
+
+
 **Olle Adolphson-Sällskapet, OAS**
 
     123 654 40 35
+
+
 
 
 **Olof Palmes Internationella Center**
@@ -32937,9 +45507,13 @@ Nummer: 12773
     123 240 60 72
 
 
+
+
 **Olof von Dalin-sällskapet**
 
     123 664 74 08
+
+
 
 
 **Olofsbo Stugägarförening**
@@ -32947,9 +45521,13 @@ Nummer: 12773
     123 164 67 85
 
 
+
+
 **Olofströms Brukshundklubb**
 
     123 535 16 97
+
+
 
 
 **Olofströms Judoklubb**
@@ -32957,9 +45535,13 @@ Nummer: 12773
     123 105 21 41
 
 
+
+
 **Olofströms Motorklubb**
 
     123 454 15 79
+
+
 
 
 **Olofströms Pistolskytteklubb**
@@ -32967,9 +45549,13 @@ Nummer: 12773
     123 525 36 38
 
 
+
+
 **Olofströms RK - Ridsport**
 
     123 345 59 61
+
+
 
 
 **Olofströms Tennisklubb**
@@ -32977,9 +45563,13 @@ Nummer: 12773
     123 140 36 25
 
 
+
+
 **Olsnäsgårdens Vänner**
 
     123 019 25 26
+
+
 
 
 **Olsängsgården**
@@ -32987,9 +45577,13 @@ Nummer: 12773
     123 018 19 17
 
 
+
+
 **Oltokkens Intresseförening**
 
     123 024 22 71
+
+
 
 
 **Olympia Kampsportcenter**
@@ -32997,9 +45591,13 @@ Nummer: 12773
     123 055 54 82 - Ukraina
 
 
+
+
 **OM Sverige**
 
     123 570 42 91
+
+
 
 
 **Omduvill / Margaretha Tärnström**
@@ -33007,9 +45605,13 @@ Nummer: 12773
     123 167 76 16
 
 
+
+
 **ON Training AB**
 
     123 037 64 67
+
+
 
 
 **One Heart Church**
@@ -33019,9 +45621,13 @@ Nummer: 12773
     123 527 83 87 - kollekt
 
 
+
+
 **One Hope Village Sweden**
 
     123 538 09 85
+
+
 
 
 **Onlineklubben Inom Sverigeunionen**
@@ -33029,9 +45635,13 @@ Nummer: 12773
     123 566 62 27
 
 
+
+
 **Onsala BK**
 
     123 024 14 22
+
+
 
 
 **Onsala Församling**
@@ -33043,14 +45653,20 @@ Nummer: 12773
     123 667 57 30 - Kollekt
 
 
+
+
 **Onsala Hembygdsgille**
 
     123 245 59 96
 
 
+
+
 **Onsala Pirates BBK**
 
     123 218 03 21
+
+
 
 
 **Ope IF**
@@ -33060,9 +45676,13 @@ Nummer: 12773
     123 204 51 10 - P-13
 
 
+
+
 **Opel Club Sweden**
 
     123 480 45 63
+
+
 
 
 **Open Doors Sverige**
@@ -33070,9 +45690,13 @@ Nummer: 12773
     123 900 30 54
 
 
+
+
 **Operation Mercy**
 
     123 902 02 07
+
+
 
 
 **OperationAid**
@@ -33080,9 +45704,13 @@ Nummer: 12773
     123 139 37 01
 
 
+
+
 **OperationChange Sweden**
 
     123 093 33 25
+
+
 
 
 **Oppmanna Vånga Bygdegårdsförening**
@@ -33090,9 +45718,13 @@ Nummer: 12773
     123 547 53 89
 
 
+
+
 **Oppunda Jaktskytteklubb**
 
     123 682 38 01
+
+
 
 
 **Optimal Hundglädje**
@@ -33100,9 +45732,13 @@ Nummer: 12773
     123 073 47 07
 
 
+
+
 **Optimal Service AB**
 
     123 043 40 43
+
+
 
 
 **Orakel Sara / Eva Edman**
@@ -33110,9 +45746,13 @@ Nummer: 12773
     123 099 32 46
 
 
+
+
 **Orbitibro Frisbeegolfklubb**
 
     123 594 96 15
+
+
 
 
 **Ordens-Sällskapet W.F., Wänskapsförbundet**
@@ -33120,9 +45760,13 @@ Nummer: 12773
     123 613 08 76 - Jönköping
 
 
+
+
 **Ore Hembygdsförening**
 
     123 137 88 50
+
+
 
 
 **Oreparken Ideell Förening**
@@ -33130,9 +45774,13 @@ Nummer: 12773
     123 239 05 24
 
 
+
+
 **Orienteringsklubben 64 Torpa**
 
     123 526 47 91
+
+
 
 
 **Orkesta Hembygdsförening**
@@ -33140,9 +45788,13 @@ Nummer: 12773
     123 045 32 25
 
 
+
+
 **Orlandohus.se / Hybris Holding AB**
 
     123 577 67 60
+
+
 
 
 **Ormsta HC**
@@ -33150,9 +45802,13 @@ Nummer: 12773
     123 048 93 77
 
 
+
+
 **Ornitologisk Förening, Tjörn**
 
     123 147 05 33 - Kårsundskretsen
+
+
 
 
 **Ornäs IK**
@@ -33160,9 +45816,13 @@ Nummer: 12773
     123 223 30 62
 
 
+
+
 **Ornö Bygdegårdsförening**
 
     123 159 64 85
+
+
 
 
 **Orphan Care**
@@ -33170,9 +45830,13 @@ Nummer: 12773
     123 412 51 75
 
 
+
+
 **Orrefors IF**
 
     123 512 53 64
+
+
 
 
 **Orresta IF**
@@ -33184,9 +45848,13 @@ Nummer: 12773
     123 368 74 80 - PF 14-17
 
 
+
+
 **Orresta Ö / Flens kommun**
 
     123 264 42 19
+
+
 
 
 **Orrvikens IK**
@@ -33194,9 +45862,30 @@ Nummer: 12773
     123 228 25 31
 
 
+
+
 **Orrvikens Segelsällskap**
 
     123 552 82 52
+
+
+
+
+**Orsa Församling**
+
+    123 036 88 78 - Fikaförsäljning
+
+    123 148 27 28 - Församlingsverksamhet
+
+    123 166 93 81 - ACT internationell hjälpverksamhet
+
+    123 226 85 06 - Diakonal verksamhet
+
+    123 232 63 95 - Kollekt Gudstjänst
+
+    123 681 93 12 - Present och kortförsäljning
+
+
 
 
 **Orsa IF FK**
@@ -33204,9 +45893,13 @@ Nummer: 12773
     123 577 35 02
 
 
+
+
 **Orsa Pistolskytteklubb**
 
     123 552 67 85
+
+
 
 
 **Orsa Ridklubb**
@@ -33214,9 +45907,13 @@ Nummer: 12773
     123 351 41 30
 
 
+
+
 **Orsa-Skattuge Hembygdsförening**
 
     123 149 27 19
+
+
 
 
 **Orsa Slipstensförening**
@@ -33224,9 +45921,13 @@ Nummer: 12773
     123 148 23 63
 
 
+
+
 **Orust FC**
 
     123 525 14 91
+
+
 
 
 **Orust Fotboll**
@@ -33234,9 +45935,13 @@ Nummer: 12773
     123 417 02 13
 
 
+
+
 **Orust IBK**
 
     123 602 70 80
+
+
 
 
 **Orust Ridklubb**
@@ -33244,14 +45949,20 @@ Nummer: 12773
     123 048 45 01
 
 
+
+
 **Osby Simsällskap**
 
     123 533 08 08
 
 
+
+
 **Oscars Församling**
 
     123 693 01 50
+
+
 
 
 **Oskarshamns AIK**
@@ -33261,9 +45972,13 @@ Nummer: 12773
     123 618 58 13
 
 
+
+
 **Oskarshamns Boxningsklubb**
 
     123 589 34 82
+
+
 
 
 **Oskarshamns Golfklubb**
@@ -33271,9 +45986,13 @@ Nummer: 12773
     123 244 04 69
 
 
+
+
 **Oskarshamns Ju-jutsuklubb**
 
     123 662 54 87
+
+
 
 
 **Oskarshamns Kammarmusikförening & Jazzklubb**
@@ -33281,9 +46000,13 @@ Nummer: 12773
     123 476 09 06
 
 
+
+
 **Oskarshamns SK**
 
     123 691 15 31
+
+
 
 
 **Oskarström Racing Shop / Kenneth Schjønning-Larsen**
@@ -33291,14 +46014,20 @@ Nummer: 12773
     123 332 05 53
 
 
+
+
 **Oskarströms Hembygdsförening**
 
     123 227 76 63
 
 
+
+
 **Oskarströms IS**
 
     123 282 48 60
+
+
 
 
 **Osprey Farm & Studio / Osprey Sweden AB**
@@ -33308,9 +46037,13 @@ Nummer: 12773
     123 682 11 77
 
 
+
+
 **Ostkustens Framtid**
 
     123 099 40 95
+
+
 
 
 **OV Helsingborg**
@@ -33318,14 +46051,20 @@ Nummer: 12773
     123 285 81 16
 
 
+
+
 **OV Helsingborg HK**
 
     123 677 96 07
 
 
+
+
 **Ovanhedens Bygdegårdsförening**
 
     123 468 79 19
+
+
 
 
 **Ovanåkers FVOF**
@@ -33337,9 +46076,13 @@ Nummer: 12773
     123 574 89 18 - Fiskekort Björatjärn, Östra Nyasen
 
 
+
+
 **Ovanåkers Hembygdsförening**
 
     123 047 21 67
+
+
 
 
 **Ovesholms IF**
@@ -33347,9 +46090,13 @@ Nummer: 12773
     123 240 80 11
 
 
+
+
 **Oxelösunds Församling**
 
     123 379 60 42
+
+
 
 
 **Oxelösunds Hembygdsförening**
@@ -33357,14 +46104,20 @@ Nummer: 12773
     123 120 96 83
 
 
+
+
 **Oxelösunds Skyttegille**
 
     123 012 95 93
 
 
+
+
 **Oxyboost-O2 Sweden AB**
 
     123 014 37 92
+
+
 
 
 
@@ -33376,9 +46129,13 @@ Nummer: 12773
     123 198 80 13
 
 
+
+
 **Pajala Hockey**
 
     123 516 75 98
+
+
 
 
 **Pajala IF**
@@ -33386,9 +46143,13 @@ Nummer: 12773
     123 346 43 36
 
 
+
+
 **Pakistanhjälpen**
 
     123 276 68 97
+
+
 
 
 **Paksuniemi Bysamfällighet**
@@ -33396,9 +46157,13 @@ Nummer: 12773
     123 515 40 91
 
 
+
+
 **Palaestra podd / Palaestra Media**
 
     123 026 52 98
+
+
 
 
 **Palestinagruppen i Stockholm**
@@ -33406,9 +46171,13 @@ Nummer: 12773
     123 412 78 82
 
 
+
+
 **Palestinagrupperna i Sverige**
 
     123 901 15 78
+
+
 
 
 **Paletten**
@@ -33418,9 +46187,13 @@ Nummer: 12773
     123 373 73 76 - Café
 
 
+
+
 **Panda Dojo IF**
 
     123 510 40 13
+
+
 
 
 **Panipirotiska Sällskapet Stockholm**
@@ -33428,9 +46201,13 @@ Nummer: 12773
     123 007 98 48
 
 
+
+
 **Pannkakskyrkan / Reach**
 
     123 105 36 77
+
+
 
 
 **Pantbanken Skövde**
@@ -33438,9 +46215,13 @@ Nummer: 12773
     123 510 01 28
 
 
+
+
 **Pantbanken Trollhättan**
 
     123 056 16 21
+
+
 
 
 **Pantbanken Vänersborg**
@@ -33448,9 +46229,13 @@ Nummer: 12773
     123 389 45 08
 
 
+
+
 **Pantbanken Östersund AB**
 
     123 578 79 40
+
+
 
 
 **Paradisets Fastighetsägareförening, PFF**
@@ -33458,9 +46243,13 @@ Nummer: 12773
     123 150 77 06
 
 
+
+
 **Parkalompolo IK**
 
     123 175 77 64
+
+
 
 
 **Parkinsonförbundet**
@@ -33468,9 +46257,13 @@ Nummer: 12773
     123 074 31 87
 
 
+
+
 **Parkinsonförbundet - Norrbotten**
 
     123 015 96 99
+
+
 
 
 **Parkinsonförbundet - Skaraborg**
@@ -33478,9 +46271,13 @@ Nummer: 12773
     123 531 09 74
 
 
+
+
 **Parkinsonförbundet - Skåne**
 
     123 062 44 03
+
+
 
 
 **Parkinsonföreningen Eslöv**
@@ -33488,9 +46285,13 @@ Nummer: 12773
     123 171 31 14
 
 
+
+
 **Parlamentarikerforum för Lätta Vapen-frågor**
 
     123 515 16 42
+
+
 
 
 **Partiet MoD, Mänskliga rättigheter och Demokrati**
@@ -33498,14 +46299,20 @@ Nummer: 12773
     123 004 55 67
 
 
+
+
 **Partiet Nyans**
 
     123 404 18 36
 
 
+
+
 **Partiet Vändpunkt**
 
     123 012 70 76
+
+
 
 
 **Partille Församling**
@@ -33523,9 +46330,13 @@ Nummer: 12773
     123 597 82 59 - Kollekt i Partille kyrka
 
 
+
+
 **Partille Golfklubb**
 
     123 481 97 69
+
+
 
 
 **Partille Hembygdsförening**
@@ -33533,9 +46344,13 @@ Nummer: 12773
     123 037 39 69
 
 
+
+
 **Partille Pastorat**
 
     123 317 95 38 - Ukraina
+
+
 
 
 **Partille Pingstförsamling**
@@ -33543,9 +46358,13 @@ Nummer: 12773
     123 149 27 50
 
 
+
+
 **Partille Ridklubb**
 
     123 395 80 14
+
+
 
 
 **Partille Scoutkår**
@@ -33553,9 +46372,13 @@ Nummer: 12773
     123 070 09 06
 
 
+
+
 **Partipolitiskt Obundna i Svenska Kyrkan, POSK, Lundby Församling**
 
     123 313 42 93
+
+
 
 
 **Partipolitiskt Obundna i Svenska Kyrkan, POSK, Motala**
@@ -33563,9 +46386,13 @@ Nummer: 12773
     123 129 56 33
 
 
+
+
 **Partipolitiskt Obundna i Svenska Kyrkan, POSK, Örgryte Pastorat**
 
     123 131 95 99
+
+
 
 
 **Pastor Tommy Lilja Ministries / PTL-Ministries**
@@ -33573,9 +46400,13 @@ Nummer: 12773
     123 263 97 71
 
 
+
+
 **Pataholms Segelklubb**
 
     123 511 43 43
+
+
 
 
 **Pater Nosters Vänner**
@@ -33583,9 +46414,13 @@ Nummer: 12773
     123 365 18 25
 
 
+
+
 **Patholmvikens Båtklubb**
 
     123 510 69 76
+
+
 
 
 **Patientförening för Integrativ Medicin / Förening för Integrativ Medicin och Hälsa**
@@ -33593,9 +46428,13 @@ Nummer: 12773
     123 371 66 02
 
 
+
+
 **Patientföreningen CarpaNet**
 
     123 432 63 51
+
+
 
 
 **Patientföreningen Lymf**
@@ -33603,9 +46442,13 @@ Nummer: 12773
     123 540 25 08
 
 
+
+
 **Patientföreningen T-Pro**
 
     123 437 95 41
+
+
 
 
 **Paulusgemenskapen**
@@ -33613,9 +46456,13 @@ Nummer: 12773
     123 016 76 50
 
 
+
+
 **PBC Sverige**
 
     123 682 38 50
+
+
 
 
 **Peace Parks Foundation - Sweden**
@@ -33623,9 +46470,13 @@ Nummer: 12773
     123 900 15 87
 
 
+
+
 **Pediatric Health Initiative**
 
     123 627 22 56
+
+
 
 
 **Pegasus Discgolfklubb**
@@ -33633,9 +46484,13 @@ Nummer: 12773
     123 309 69 63
 
 
+
+
 **Peggy Ödgren**
 
     123 287 96 25
+
+
 
 
 **Peking Fanz**
@@ -33643,9 +46498,13 @@ Nummer: 12773
     123 069 12 12
 
 
+
+
 **Pensionsrättvisa**
 
     123 051 60 62
+
+
 
 
 **Pensionärer i Gröna Västar**
@@ -33653,9 +46512,13 @@ Nummer: 12773
     123 216 41 68
 
 
+
+
 **Pensionärernas BTK - Bordtennis**
 
     123 499 50 15
+
+
 
 
 **Pensionärsbowlarna i Örebro**
@@ -33663,9 +46526,13 @@ Nummer: 12773
     123 358 14 77
 
 
+
+
 **Per Ekströmsällskapet**
 
     123 556 07 27
+
+
 
 
 **Per-Ols IBF**
@@ -33673,9 +46540,13 @@ Nummer: 12773
     123 069 27 15
 
 
+
+
 **PerHåkans, PH:s / P. Heléns Musikproduktion AB**
 
     123 191 96 46
+
+
 
 
 **Perikles Nöjes Aktiebolag**
@@ -33683,9 +46554,13 @@ Nummer: 12773
     123 524 50 06
 
 
+
+
 **Period Pack Sweden AB**
 
     123 296 31 48 - Ukraina
+
+
 
 
 **Pernova Hjälpmedel AB**
@@ -33693,9 +46568,13 @@ Nummer: 12773
     123 050 25 34
 
 
+
+
 **Persköps Ställplats / Wnk Skogsgallring AB**
 
     123 012 16 40
+
+
 
 
 **Persnäs AIF**
@@ -33703,9 +46582,13 @@ Nummer: 12773
     123 055 40 55 - Padel & Pickleball
 
 
+
+
 **Personskadeförbundet RTP**
 
     123 900 00 68
+
+
 
 
 **Perstorps Församling**
@@ -33715,9 +46598,13 @@ Nummer: 12773
     123 668 95 25 - Kollekt
 
 
+
+
 **Persåsens Skid och KK - Kälksport**
 
     123 124 24 86
+
+
 
 
 **Pet Vet Sweden AB**
@@ -33725,9 +46612,13 @@ Nummer: 12773
     123 025 39 30
 
 
+
+
 **Peter Frisk Produktion / Peter Frisk**
 
     123 621 97 78
+
+
 
 
 **Peter o Susanne Bowling AB**
@@ -33735,9 +46626,13 @@ Nummer: 12773
     123 018 66 84
 
 
+
+
 **Petras Hundfys / Petra Johansson**
 
     123 532 24 90
+
+
 
 
 **PFAS-föreningen**
@@ -33745,9 +46640,13 @@ Nummer: 12773
     123 525 61 85
 
 
+
+
 **PG Andersson Rally / Per-Gunnar Andersson**
 
     123 039 71 74
+
+
 
 
 **Phalène Sällskapet**
@@ -33755,9 +46654,13 @@ Nummer: 12773
     123 646 19 09
 
 
+
+
 **Pharos Media Productions AB**
 
     123 177 91 98
+
+
 
 
 **Phoenixmottagningen / Stiftelsen Vidarkliniken**
@@ -33765,9 +46668,13 @@ Nummer: 12773
     123 253 23 07
 
 
+
+
 **Pilgrimage Yoga / Action Port AB**
 
     123 048 16 06
+
+
 
 
 **Pilgrimstads Båtklubb**
@@ -33775,9 +46682,13 @@ Nummer: 12773
     123 610 80 13
 
 
+
+
 **Pilgrimstads IF**
 
     123 595 01 91
+
+
 
 
 **Pingskyrkan Tyresö**
@@ -33785,14 +46696,20 @@ Nummer: 12773
     123 629 97 54 - Second Hand
 
 
+
+
 **Pingst Fria Församlingar i samverkan**
 
     123 075 97 12
 
 
+
+
 **Pingst - Fria församlingar i samverkan (PMU)**
 
     123 900 05 06
+
+
 
 
 **Pingst Jönköping**
@@ -33806,9 +46723,13 @@ Nummer: 12773
     123 667 21 74 - Missionskassan
 
 
+
+
 **Pingst Sollebrunn**
 
     123 302 49 32
+
+
 
 
 **Pingst Umeå**
@@ -33828,9 +46749,13 @@ Nummer: 12773
     123 695 65 36 - Donationer och kyrkfika
 
 
+
+
 **Pingst Ung Bromma**
 
     123 381 12 96
+
+
 
 
 **Pingst Vaggeryd**
@@ -33838,9 +46763,13 @@ Nummer: 12773
     123 303 18 87
 
 
+
+
 **Pingstförsamlingen Arvika**
 
     123 147 97 65
+
+
 
 
 **Pingstförsamlingen Bottnaryd**
@@ -33848,14 +46777,20 @@ Nummer: 12773
     123 056 56 22
 
 
+
+
 **Pingstförsamlingen Eskilstuna**
 
     123 256 33 44
 
 
+
+
 **Pingstförsamlingen Falkenberg**
 
     123 304 55 98
+
+
 
 
 **Pingstförsamlingen Filadelfia Borås**
@@ -33865,9 +46800,13 @@ Nummer: 12773
     123 388 20 24
 
 
+
+
 **Pingstförsamlingen Hallstahammar**
 
     123 513 85 73
+
+
 
 
 **Pingstförsamlingen Hedemora**
@@ -33875,9 +46814,13 @@ Nummer: 12773
     123 147 55 16
 
 
+
+
 **Pingstförsamlingen Huskvarna**
 
     123 389 45 73
+
+
 
 
 **Pingstförsamlingen i Arboga**
@@ -33885,9 +46828,13 @@ Nummer: 12773
     123 545 74 29 - Offer, tionde, hjälpkassa
 
 
+
+
 **Pingstförsamlingen i Eskilstuna**
 
     123 175 89 45
+
+
 
 
 **Pingstförsamlingen i Halmstad**
@@ -33895,14 +46842,20 @@ Nummer: 12773
     123 272 53 64
 
 
+
+
 **Pingstförsamlingen i Kalix**
 
     123 292 94 21
 
 
+
+
 **Pingstförsamlingen i Karlskrona**
 
     123 060 99 17
+
+
 
 
 **Pingstförsamlingen i Kinna**
@@ -33912,6 +46865,8 @@ Nummer: 12773
     123 551 60 26 - Missionskassan
 
 
+
+
 **Pingstförsamlingen i Klöverträsk**
 
     123 661 68 58 - Ignite Sverige
@@ -33919,9 +46874,13 @@ Nummer: 12773
     123 668 91 78 - Församlingskassan
 
 
+
+
 **Pingstförsamlingen i Kumla**
 
     123 018 38 22
+
+
 
 
 **Pingstförsamlingen I Landskrona**
@@ -33929,9 +46888,13 @@ Nummer: 12773
     123 634 91 20
 
 
+
+
 **Pingstförsamlingen i Lindesberg**
 
     123 187 02 29
+
+
 
 
 **Pingstförsamlingen i Ljungby**
@@ -33939,9 +46902,13 @@ Nummer: 12773
     123 213 75 52
 
 
+
+
 **Pingstförsamlingen i Luleå**
 
     123 343 05 92
+
+
 
 
 **Pingstförsamlingen i Mölndal**
@@ -33949,9 +46916,13 @@ Nummer: 12773
     123 603 43 91
 
 
+
+
 **Pingstförsamlingen i Mörlunda**
 
     123 132 53 31
+
+
 
 
 **Pingstförsamlingen i Sala**
@@ -33959,9 +46930,13 @@ Nummer: 12773
     123 223 83 84
 
 
+
+
 **Pingstförsamlingen i Skövde**
 
     123 237 70 18
+
+
 
 
 **Pingstförsamlingen i Sundsvall**
@@ -33969,9 +46944,13 @@ Nummer: 12773
     123 393 06 58
 
 
+
+
 **Pingstförsamlingen I Trollhättan**
 
     123 228 50 21
+
+
 
 
 **Pingstförsamlingen i Varberg**
@@ -33983,9 +46962,13 @@ Nummer: 12773
     123 465 41 58 - Församlingskassan
 
 
+
+
 **Pingstförsamlingen I Värnamo**
 
     123 268 40 90
+
+
 
 
 **Pingstförsamlingen i Västerbottens Mellanbygd**
@@ -33993,9 +46976,13 @@ Nummer: 12773
     123 412 54 23
 
 
+
+
 **Pingstförsamlingen i Västerås**
 
     123 304 52 34
+
+
 
 
 **Pingstförsamlingen i Örnsköldsvik**
@@ -34003,9 +46990,13 @@ Nummer: 12773
     123 412 65 95
 
 
+
+
 **Pingstförsamlingen Karlshamn**
 
     123 543 06 65
+
+
 
 
 **Pingstförsamlingen Kramfors**
@@ -34013,9 +47004,13 @@ Nummer: 12773
     123 221 09 61
 
 
+
+
 **Pingstförsamlingen Kristinehamn**
 
     123 269 29 45
+
+
 
 
 **Pingstförsamlingen Kungsör**
@@ -34027,9 +47022,13 @@ Nummer: 12773
     123 392 81 32 - Missionskassan
 
 
+
+
 **Pingstförsamlingen Kungälv**
 
     123 476 06 82
+
+
 
 
 **Pingstförsamlingen Köping**
@@ -34037,9 +47036,13 @@ Nummer: 12773
     123 225 53 13
 
 
+
+
 **Pingstförsamlingen Skillingaryd**
 
     123 253 96 58
+
+
 
 
 **Pingstförsamlingen Tenhult**
@@ -34053,9 +47056,13 @@ Nummer: 12773
     123 453 76 76 - Missionskassan
 
 
+
+
 **Pingstförsamlingen Torsby**
 
     123 281 79 06
+
+
 
 
 **Pingstförsamlingen Upplands Väsby**
@@ -34063,9 +47070,13 @@ Nummer: 12773
     123 174 22 87
 
 
+
+
 **Pingstförsamlingen Vetlanda**
 
     123 451 21 66
+
+
 
 
 **Pingstförsamlingen Vireda**
@@ -34073,9 +47084,13 @@ Nummer: 12773
     123 146 46 01
 
 
+
+
 **Pingstförsamlingen Åsenhöga - Marieholm**
 
     123 281 76 41
+
+
 
 
 **Pingstkyrkan Degerfors**
@@ -34085,9 +47100,13 @@ Nummer: 12773
     123 584 32 48 - Missionskassan
 
 
+
+
 **Pingstkyrkan Hemse**
 
     123 576 30 73
+
+
 
 
 **Pingstkyrkan i Norrköping**
@@ -34095,9 +47114,13 @@ Nummer: 12773
     123 465 31 43
 
 
+
+
 **Pingstkyrkan i Rottne**
 
     123 503 04 08
+
+
 
 
 **Pingstkyrkan I Söderköping**
@@ -34105,9 +47128,13 @@ Nummer: 12773
     123 345 68 86
 
 
+
+
 **Pingstkyrkan i Vännäs**
 
     123 281 69 57
+
+
 
 
 **Pingstkyrkan Kaxholmen**
@@ -34115,6 +47142,8 @@ Nummer: 12773
     123 395 10 19 - Församlingskassan
 
     123 699 11 60 - Missionskassan
+
+
 
 
 **Pingstkyrkan Lidköping**
@@ -34130,6 +47159,8 @@ Nummer: 12773
     123 555 80 77 - Byggnadskonto
 
 
+
+
 **Pingstkyrkan Mjölby**
 
     123 467 60 03
@@ -34137,9 +47168,13 @@ Nummer: 12773
     123 503 63 48 - Ung Pingst
 
 
+
+
 **Pingstkyrkan Mullsjö-Nyhem**
 
     123 464 12 21
+
+
 
 
 **Pingstkyrkan Nybro**
@@ -34149,14 +47184,20 @@ Nummer: 12773
     123 226 83 57
 
 
+
+
 **Pingstkyrkan Saron Granö**
 
     123 047 43 04
 
 
+
+
 **Pingstkyrkan Uppsala**
 
     123 602 52 74
+
+
 
 
 **Pingstkyrkan Västra Frölunda**
@@ -34168,6 +47209,8 @@ Nummer: 12773
     123 588 11 07
 
 
+
+
 **Pingstkyrkan Ärla**
 
     123 338 08 47
@@ -34175,9 +47218,13 @@ Nummer: 12773
     123 699 19 88
 
 
+
+
 **Pink Programming**
 
     123 450 23 99
+
+
 
 
 **Pinocchio Massage & Friskvård AB**
@@ -34185,9 +47232,13 @@ Nummer: 12773
     123 385 16 31
 
 
+
+
 **Piperska / Lundsbrunnsfonderna**
 
     123 052 05 02
+
+
 
 
 **Piratpartiet**
@@ -34195,9 +47246,13 @@ Nummer: 12773
     123 179 21 59
 
 
+
+
 **Pistolklubben Elbogen**
 
     123 241 92 81
+
+
 
 
 **Pistolklubben ENA/S1**
@@ -34205,9 +47260,13 @@ Nummer: 12773
     123 486 05 16
 
 
+
+
 **Piteå Basket**
 
     123 611 57 86
+
+
 
 
 **Piteå Bouleklubb**
@@ -34215,14 +47274,20 @@ Nummer: 12773
     123 682 41 14
 
 
+
+
 **Piteå Folketshusförening**
 
     123 079 78 37
 
 
+
+
 **Piteå Församling**
 
     123 115 94 17
+
+
 
 
 **Piteå HC**
@@ -34236,14 +47301,20 @@ Nummer: 12773
     123 527 86 68 - Hockeyskola
 
 
+
+
 **Piteå IF Damfotboll**
 
     123 287 37 27 - Damlaget
 
 
+
+
 **Piteå IF FF**
 
     123 313 11 74
+
+
 
 
 **Piteå IF Fotbollsförening**
@@ -34253,9 +47324,13 @@ Nummer: 12773
     123 557 73 09
 
 
+
+
 **Piteå IF Orienteringsklubb**
 
     123 236 16 99 - Tävling
+
+
 
 
 **Piteå IF Orienteringsklubb - Orientering**
@@ -34267,9 +47342,13 @@ Nummer: 12773
     123 691 84 37 - Träning
 
 
+
+
 **Piteå KK**
 
     123 326 82 99
+
+
 
 
 **Piteå Motorsällskap**
@@ -34277,9 +47356,13 @@ Nummer: 12773
     123 017 36 74
 
 
+
+
 **Piteå Sim**
 
     123 495 99 12
+
+
 
 
 **Piteå SKF**
@@ -34287,9 +47370,13 @@ Nummer: 12773
     123 612 30 79
 
 
+
+
 **Piteå Skidskytte Klubb**
 
     123 279 53 67
+
+
 
 
 **Piteå Snöskoterklubb**
@@ -34297,9 +47384,13 @@ Nummer: 12773
     123 480 78 06
 
 
+
+
 **Piteå Summer Games**
 
     123 222 22 06
+
+
 
 
 **Pixbo IBF**
@@ -34307,9 +47398,13 @@ Nummer: 12773
     123 216 88 21
 
 
+
+
 **Pizzeria Happy Time**
 
     123 534 72 16
+
+
 
 
 **Pjätteryds GOIF**
@@ -34317,9 +47412,13 @@ Nummer: 12773
     123 396 98 21
 
 
+
+
 **Plan International Sverige Insamlingsstiftelse**
 
     123 900 73 11
+
+
 
 
 **Plaza Deco / Investmentbolaget LGAB Sverige AB**
@@ -34327,9 +47426,13 @@ Nummer: 12773
     123 494 37 26 - Prenumeration
 
 
+
+
 **Plaza Interiör / Investmentbolaget LGAB Sverige AB**
 
     123 471 86 31 - Prenumeration
+
+
 
 
 **Plaza Kvinna / Investmentbolaget LGAB Sverige AB**
@@ -34337,9 +47440,13 @@ Nummer: 12773
     123 553 50 00 - Prenumeration
 
 
+
+
 **Plaza Magazine / Investmentbolaget LGAB Sverige AB**
 
     123 539 80 29 - Prenumeration
+
+
 
 
 **Plaza Uomo / Investmentbolaget LGAB Sverige AB**
@@ -34347,9 +47454,13 @@ Nummer: 12773
     123 231 33 10 - Prenumeration
 
 
+
+
 **Plexus Vänner**
 
     123 236 34 22
+
+
 
 
 **Plintsbergs Bystuga**
@@ -34357,9 +47468,13 @@ Nummer: 12773
     123 037 38 37
 
 
+
+
 **Plogga Sverige AB**
 
     123 202 55 18
+
+
 
 
 **Podcasten Brottarbröder**
@@ -34367,9 +47482,13 @@ Nummer: 12773
     123 478 91 03
 
 
+
+
 **Podcasten Cirkus Speedway / MAX500 AB**
 
     123 010 72 92
+
+
 
 
 **Podden De assimilerade / Robin Tinglöf**
@@ -34377,9 +47496,13 @@ Nummer: 12773
     123 135 61 04
 
 
+
+
 **Polcirkelns Skoterklubb**
 
     123 326 30 19
+
+
 
 
 **Polhemskliniken / Fortunatus AB**
@@ -34387,9 +47510,13 @@ Nummer: 12773
     123 199 84 67
 
 
+
+
 **Polis och Brand SM / FINEC Accounting AB**
 
     123 371 72 20
+
+
 
 
 **Polisens Pensionärsklubb i Umeå**
@@ -34397,9 +47524,13 @@ Nummer: 12773
     123 282 85 80
 
 
+
+
 **Polisskadestiftelsen**
 
     123 455 95 97
+
+
 
 
 **Polska Kongressen i Sverige**
@@ -34407,9 +47538,13 @@ Nummer: 12773
     123 615 05 85
 
 
+
+
 **PON Unionen**
 
     123 599 15 34
+
+
 
 
 **Porjus Golf Club**
@@ -34417,9 +47552,13 @@ Nummer: 12773
     123 669 47 49
 
 
+
+
 **Porrfri Barndom**
 
     123 313 37 17
+
+
 
 
 **Porsche 356 Klubb Sverige**
@@ -34427,9 +47566,13 @@ Nummer: 12773
     123 448 97 79
 
 
+
+
 **Porsöbergets Parksamfällighetsförening**
 
     123 597 87 47
+
+
 
 
 **Porter & Thorells Syndrom AB**
@@ -34437,9 +47580,13 @@ Nummer: 12773
     123 220 89 16
 
 
+
+
 **PositHIVa Gruppen**
 
     123 592 20 18
+
+
 
 
 **Positiva Gruppen Syd**
@@ -34447,9 +47594,13 @@ Nummer: 12773
     123 655 44 22
 
 
+
+
 **POSK - Partipolitiskt Obundna i Svenska Kyrkan**
 
     123 143 13 60
+
+
 
 
 **Postbox24 Entreprenad Handelsbolag**
@@ -34457,9 +47608,13 @@ Nummer: 12773
     123 651 67 36
 
 
+
+
 **Posten Seniorerna Kronoberg**
 
     123 458 43 63
+
+
 
 
 **Potatisbilarna AB**
@@ -34467,9 +47622,13 @@ Nummer: 12773
     123 410 00 04
 
 
+
+
 **Poul Bjerre Sällskapet**
 
     123 678 04 31
+
+
 
 
 **Povel Ramel-Sällskapet**
@@ -34477,9 +47636,13 @@ Nummer: 12773
     123 530 54 12
 
 
+
+
 **Power Of Sun - CM-Bild & Reklam / Michael Balassa**
 
     123 122 98 89
+
+
 
 
 **PowerUpUkraine / EFS Missionsförening i Kalmar**
@@ -34487,9 +47650,13 @@ Nummer: 12773
     123 315 05 05
 
 
+
+
 **Prana Friskvård / Frank Granström**
 
     123 394 38 67
+
+
 
 
 **Pratham Sweden**
@@ -34497,9 +47664,13 @@ Nummer: 12773
     123 900 48 62
 
 
+
+
 **Predikan & Undervisning - Elvor & Janne**
 
     123 503 15 05
+
+
 
 
 **PRG Abrahamsbergskyrkans Senoirer**
@@ -34509,9 +47680,13 @@ Nummer: 12773
     123 698 31 34
 
 
+
+
 **Pride Lysekil**
 
     123 523 28 22
+
+
 
 
 **Prima Trafikskola AB**
@@ -34519,14 +47694,20 @@ Nummer: 12773
     123 418 14 26
 
 
+
+
 **Prinsessan Estelles Kulturstiftelse**
 
     123 585 30 72
 
 
+
+
 **Private Training Online, PTO / PTO Group AB**
 
     123 003 73 17
+
+
 
 
 **PRO Alingsås**
@@ -34536,9 +47717,13 @@ Nummer: 12773
     123 590 32 32
 
 
+
+
 **PRO Arjeplog**
 
     123 582 57 57
+
+
 
 
 **PRO Asker Lännäs**
@@ -34546,9 +47731,13 @@ Nummer: 12773
     123 350 54 43
 
 
+
+
 **PRO Asmundtorp**
 
     123 679 97 46
+
+
 
 
 **PRO Backa**
@@ -34556,9 +47745,13 @@ Nummer: 12773
     123 243 19 22
 
 
+
+
 **PRO Backen**
 
     123 628 49 21
+
+
 
 
 **PRO Bara**
@@ -34566,9 +47759,13 @@ Nummer: 12773
     123 325 89 28
 
 
+
+
 **PRO Billesholm**
 
     123 052 87 29
+
+
 
 
 **PRO Billinge-Stockamöllan**
@@ -34576,9 +47773,13 @@ Nummer: 12773
     123 561 10 90
 
 
+
+
 **PRO Bjärke**
 
     123 292 99 41
+
+
 
 
 **PRO Bjärnum**
@@ -34586,9 +47787,13 @@ Nummer: 12773
     123 095 27 70
 
 
+
+
 **PRO Blidö**
 
     123 688 37 55
+
+
 
 
 **PRO Bodafors**
@@ -34596,9 +47801,13 @@ Nummer: 12773
     123 285 47 84
 
 
+
+
 **PRO Bomhus**
 
     123 640 15 74
+
+
 
 
 **PRO Boo**
@@ -34606,9 +47815,13 @@ Nummer: 12773
     123 657 66 31
 
 
+
+
 **PRO Borgmästaregården**
 
     123 699 79 28
+
+
 
 
 **PRO Brastad**
@@ -34616,9 +47829,13 @@ Nummer: 12773
     123 341 74 17
 
 
+
+
 **PRO Broby**
 
     123 326 40 09
+
+
 
 
 **PRO Brunflo**
@@ -34626,9 +47843,13 @@ Nummer: 12773
     123 185 25 40
 
 
+
+
 **PRO Byggfacken**
 
     123 264 38 64
+
+
 
 
 **PRO Byske**
@@ -34636,9 +47857,13 @@ Nummer: 12773
     123 562 48 46
 
 
+
+
 **PRO Bälinge**
 
     123 595 34 92
+
+
 
 
 **PRO Centrala Tälje**
@@ -34646,9 +47871,13 @@ Nummer: 12773
     123 177 71 92
 
 
+
+
 **PRO Dalstorp - Grimsås**
 
     123 429 92 44
+
+
 
 
 **PRO Domsjö**
@@ -34656,9 +47885,13 @@ Nummer: 12773
     123 114 37 26
 
 
+
+
 **PRO Enköping**
 
     123 013 49 24 - Resor
+
+
 
 
 **PRO Enskede**
@@ -34666,9 +47899,13 @@ Nummer: 12773
     123 039 60 44
 
 
+
+
 **PRO Eslöv**
 
     123 006 24 48
+
+
 
 
 **PRO Fagersta**
@@ -34676,9 +47913,13 @@ Nummer: 12773
     123 331 60 72
 
 
+
+
 **PRO Faxe Söderhamn**
 
     123 367 07 18
+
+
 
 
 **PRO Fellingsbro**
@@ -34686,9 +47927,13 @@ Nummer: 12773
     123 009 64 79
 
 
+
+
 **PRO Fisksätra**
 
     123 149 75 44
+
+
 
 
 **PRO Fjälkinge**
@@ -34696,9 +47941,13 @@ Nummer: 12773
     123 251 96 92
 
 
+
+
 **PRO Flen**
 
     123 372 90 01
+
+
 
 
 **PRO Forsbacka**
@@ -34710,9 +47959,13 @@ Nummer: 12773
     123 446 54 98
 
 
+
+
 **PRO Fosie**
 
     123 371 22 88
+
+
 
 
 **PRO Fridhill Landskrona**
@@ -34720,9 +47973,13 @@ Nummer: 12773
     123 123 74 52
 
 
+
+
 **PRO Frösön**
 
     123 292 48 84
+
+
 
 
 **PRO Frötuna-Rådmansö**
@@ -34730,9 +47987,13 @@ Nummer: 12773
     123 447 27 18
 
 
+
+
 **PRO Frövi**
 
     123 675 50 45
+
+
 
 
 **PRO Gimo**
@@ -34740,9 +48001,13 @@ Nummer: 12773
     123 020 73 99
 
 
+
+
 **PRO Gnesta**
 
     123 193 50 14
+
+
 
 
 **PRO Gotlands Distrikt**
@@ -34750,9 +48015,13 @@ Nummer: 12773
     123 251 63 18
 
 
+
+
 **PRO Gourmet**
 
     123 287 25 54
+
+
 
 
 **PRO Graniten Kalmar**
@@ -34760,9 +48029,13 @@ Nummer: 12773
     123 643 16 39
 
 
+
+
 **PRO Gustavsberg-Ingarö**
 
     123 478 18 26
+
+
 
 
 **PRO Gävle Ettan**
@@ -34770,9 +48043,13 @@ Nummer: 12773
     123 470 60 08
 
 
+
+
 **PRO Gävle Samorganisation**
 
     123 626 06 81
+
+
 
 
 **PRO Hallsberg**
@@ -34780,9 +48057,13 @@ Nummer: 12773
     123 104 96 75
 
 
+
+
 **PRO Hammarö**
 
     123 405 78 81
+
+
 
 
 **PRO Handen**
@@ -34790,9 +48071,13 @@ Nummer: 12773
     123 127 79 12
 
 
+
+
 **PRO Harads**
 
     123 340 07 44
+
+
 
 
 **PRO Hasslö**
@@ -34800,9 +48085,13 @@ Nummer: 12773
     123 063 16 63
 
 
+
+
 **PRO Hedemora**
 
     123 300 73 66
+
+
 
 
 **PRO Hovmantorp**
@@ -34810,9 +48099,13 @@ Nummer: 12773
     123 183 85 15
 
 
+
+
 **PRO Hudiksvall**
 
     123 681 19 21
+
+
 
 
 **PRO Husie**
@@ -34820,9 +48113,13 @@ Nummer: 12773
     123 538 13 71
 
 
+
+
 **PRO Huskvarna**
 
     123 478 29 26
+
+
 
 
 **PRO Huvudsta-Råsunda**
@@ -34830,9 +48127,13 @@ Nummer: 12773
     123 365 14 52
 
 
+
+
 **PRO Häljarp**
 
     123 592 21 33
+
+
 
 
 **PRO Hällefors**
@@ -34840,9 +48141,13 @@ Nummer: 12773
     123 108 25 10
 
 
+
+
 **PRO Härslöv**
 
     123 215 02 82
+
+
 
 
 **PRO Hässelby Villastad**
@@ -34850,9 +48155,13 @@ Nummer: 12773
     123 095 87 02
 
 
+
+
 **PRO Hässleholm**
 
     123 572 77 71
+
+
 
 
 **PRO Hästveda**
@@ -34860,9 +48169,13 @@ Nummer: 12773
     123 198 66 78
 
 
+
+
 **PRO Hållnäs**
 
     123 531 76 64
+
+
 
 
 **PRO Höganäs**
@@ -34870,9 +48183,13 @@ Nummer: 12773
     123 181 83 68
 
 
+
+
 **PRO Högsjö**
 
     123 229 19 87
+
+
 
 
 **PRO Hörby**
@@ -34882,14 +48199,20 @@ Nummer: 12773
     123 393 64 65 - Resor
 
 
+
+
 **PRO Hörnefors**
 
     123 155 33 46
 
 
+
+
 **PRO Höör**
 
     123 695 88 05
+
+
 
 
 **PRO Järna Vårdinge**
@@ -34899,14 +48222,20 @@ Nummer: 12773
     123 385 56 43
 
 
+
+
 **PRO Järnskog**
 
     123 394 80 49
 
 
+
+
 **PRO Kalix**
 
     123 418 13 35
+
+
 
 
 **PRO Karlshamn**
@@ -34916,9 +48245,13 @@ Nummer: 12773
     123 416 67 73
 
 
+
+
 **PRO Katarina**
 
     123 077 35 07
+
+
 
 
 **PRO Katrineholm**
@@ -34926,9 +48259,13 @@ Nummer: 12773
     123 537 03 82
 
 
+
+
 **PRO Kinna**
 
     123 652 12 56
+
+
 
 
 **PRO Klippan**
@@ -34936,9 +48273,13 @@ Nummer: 12773
     123 537 23 21
 
 
+
+
 **PRO Knivsta**
 
     123 037 61 60
+
+
 
 
 **PRO Knutby**
@@ -34946,9 +48287,13 @@ Nummer: 12773
     123 303 02 10
 
 
+
+
 **PRO Konsulten**
 
     123 216 13 13
+
+
 
 
 **PRO Kopparberg**
@@ -34956,9 +48301,13 @@ Nummer: 12773
     123 423 27 81
 
 
+
+
 **PRO Korsnäs-Vika**
 
     123 026 06 61
+
+
 
 
 **PRO Kristdala**
@@ -34966,9 +48315,13 @@ Nummer: 12773
     123 646 81 85
 
 
+
+
 **PRO Kultur i Kalmar Län**
 
     123 621 23 93
+
+
 
 
 **PRO Kultur Västerås**
@@ -34976,9 +48329,13 @@ Nummer: 12773
     123 428 18 20
 
 
+
+
 **PRO Kultur Örnsköldsvik**
 
     123 649 04 45
+
+
 
 
 **PRO Kungsgården**
@@ -34986,9 +48343,13 @@ Nummer: 12773
     123 276 49 59
 
 
+
+
 **PRO Kungsholmen**
 
     123 274 69 72
+
+
 
 
 **PRO Kungsängen**
@@ -34996,14 +48357,20 @@ Nummer: 12773
     123 287 79 34
 
 
+
+
 **PRO Kungsör**
 
     123 662 76 99
 
 
+
+
 **PRO Kvarnsveden**
 
     123 238 01 11
+
+
 
 
 **PRO Köla**
@@ -35013,9 +48380,13 @@ Nummer: 12773
     123 605 95 70
 
 
+
+
 **PRO Laholm**
 
     123 539 44 16
+
+
 
 
 **PRO Landskrona Västra**
@@ -35023,9 +48394,13 @@ Nummer: 12773
     123 390 89 51
 
 
+
+
 **PRO Lenhovda**
 
     123 051 20 95
+
+
 
 
 **PRO Lerum**
@@ -35033,9 +48408,13 @@ Nummer: 12773
     123 146 04 01
 
 
+
+
 **PRO Lidingö**
 
     123 124 09 02
+
+
 
 
 **PRO Liljeholmen**
@@ -35043,9 +48422,13 @@ Nummer: 12773
     123 063 32 97
 
 
+
+
 **PRO Lindeborg-Tygelsjö**
 
     123 439 44 41
+
+
 
 
 **PRO Lindesberg**
@@ -35053,9 +48436,13 @@ Nummer: 12773
     123 004 03 11
 
 
+
+
 **PRO Lindome Kållered**
 
     123 410 73 48
+
+
 
 
 **PRO Lindsdal**
@@ -35063,9 +48450,13 @@ Nummer: 12773
     123 216 50 90
 
 
+
+
 **PRO Ljusdal**
 
     123 375 83 80
+
+
 
 
 **PRO Lomma**
@@ -35073,9 +48464,13 @@ Nummer: 12773
     123 571 61 21
 
 
+
+
 **PRO Lugnvik**
 
     123 027 17 91
+
+
 
 
 **PRO Lund**
@@ -35083,14 +48478,20 @@ Nummer: 12773
     123 603 43 67
 
 
+
+
 **PRO Lycksele**
 
     123 653 21 54
 
 
+
+
 **PRO Lysekil**
 
     123 223 56 95
+
+
 
 
 **PRO Malmö Centrum**
@@ -35100,9 +48501,13 @@ Nummer: 12773
     123 071 65 97
 
 
+
+
 **PRO Mantorp**
 
     123 210 16 81
+
+
 
 
 **PRO Marieholm**
@@ -35110,9 +48515,13 @@ Nummer: 12773
     123 406 88 13
 
 
+
+
 **PRO Mo-Bergvik**
 
     123 524 02 21
+
+
 
 
 **PRO Munka Ljungby**
@@ -35120,9 +48529,13 @@ Nummer: 12773
     123 593 01 69
 
 
+
+
 **PRO Målilla**
 
     123 090 89 54
+
+
 
 
 **PRO Månkarbo-Kyrkbyn**
@@ -35130,9 +48543,13 @@ Nummer: 12773
     123 252 03 85
 
 
+
+
 **PRO Mörarp - Påarp**
 
     123 355 41 36
+
+
 
 
 **PRO Nacka**
@@ -35140,9 +48557,13 @@ Nummer: 12773
     123 143 73 26
 
 
+
+
 **PRO Nederluleå Södra**
 
     123 388 33 60
+
+
 
 
 **PRO Njurunda**
@@ -35150,9 +48571,13 @@ Nummer: 12773
     123 504 09 28
 
 
+
+
 **PRO Norje**
 
     123 584 10 36
+
+
 
 
 **PRO Norrtälje**
@@ -35160,9 +48585,13 @@ Nummer: 12773
     123 538 88 30
 
 
+
+
 **PRO Nynäshamn**
 
     123 509 24 08
+
+
 
 
 **PRO Nässjö**
@@ -35170,9 +48599,13 @@ Nummer: 12773
     123 497 46 55
 
 
+
+
 **PRO Offerdal-Alsen**
 
     123 438 91 36
+
+
 
 
 **PRO Onsala**
@@ -35180,9 +48613,13 @@ Nummer: 12773
     123 695 17 35
 
 
+
+
 **PRO Osby**
 
     123 116 75 84
+
+
 
 
 **PRO Ovanåker**
@@ -35190,9 +48627,13 @@ Nummer: 12773
     123 166 61 30
 
 
+
+
 **PRO Oxie**
 
     123 561 12 72
+
+
 
 
 **PRO Pildammen**
@@ -35200,9 +48641,13 @@ Nummer: 12773
     123 115 70 23
 
 
+
+
 **PRO Revsund**
 
     123 375 29 04
+
+
 
 
 **PRO Rockneby-Läckeby**
@@ -35210,9 +48655,13 @@ Nummer: 12773
     123 195 77 11
 
 
+
+
 **PRO Rydaholm**
 
     123 666 12 92
+
+
 
 
 **PRO Rättvik**
@@ -35220,9 +48669,13 @@ Nummer: 12773
     123 365 07 85
 
 
+
+
 **PRO Sala**
 
     123 077 40 83
+
+
 
 
 **PRO Samorganisation Landskrona**
@@ -35230,9 +48683,13 @@ Nummer: 12773
     123 114 56 63
 
 
+
+
 **PRO Sandviken**
 
     123 569 68 44
+
+
 
 
 **PRO Sandvången**
@@ -35240,9 +48697,13 @@ Nummer: 12773
     123 521 54 39
 
 
+
+
 **PRO Skarpnäck**
 
     123 172 66 37
+
+
 
 
 **PRO Skellefteå-Kågedalen**
@@ -35250,9 +48711,13 @@ Nummer: 12773
     123 554 00 18
 
 
+
+
 **PRO Skultorp**
 
     123 006 24 14
+
+
 
 
 **PRO Skurup**
@@ -35260,9 +48725,13 @@ Nummer: 12773
     123 167 45 22
 
 
+
+
 **PRO Skutskär**
 
     123 080 49 06
+
+
 
 
 **PRO Sköns Södra**
@@ -35270,9 +48739,13 @@ Nummer: 12773
     123 417 75 80
 
 
+
+
 **PRO Sofia**
 
     123 145 68 47
+
+
 
 
 **PRO Stala**
@@ -35280,9 +48753,13 @@ Nummer: 12773
     123 202 81 32
 
 
+
+
 **PRO Stora Skedvi**
 
     123 462 32 60
+
+
 
 
 **PRO Storvreta**
@@ -35290,9 +48767,13 @@ Nummer: 12773
     123 566 48 91
 
 
+
+
 **PRO Storå-Guldsmedshyttan**
 
     123 639 36 64
+
+
 
 
 **PRO Strömstad**
@@ -35300,9 +48781,13 @@ Nummer: 12773
     123 497 75 26
 
 
+
+
 **Pro-Suit / COPMOD AB**
 
     123 582 55 42
+
+
 
 
 **PRO Sundbyberg**
@@ -35310,9 +48795,13 @@ Nummer: 12773
     123 237 55 25
 
 
+
+
 **PRO Sunnanå-Prästbordet**
 
     123 270 60 67
+
+
 
 
 **PRO Svalöv**
@@ -35320,9 +48809,13 @@ Nummer: 12773
     123 194 84 05
 
 
+
+
 **PRO Svartbäcken**
 
     123 173 63 54
+
+
 
 
 **PRO Svärdsjö**
@@ -35330,9 +48823,13 @@ Nummer: 12773
     123 569 63 56
 
 
+
+
 **PRO Sydöland**
 
     123 069 08 42
+
+
 
 
 **PRO Sätra**
@@ -35340,9 +48837,13 @@ Nummer: 12773
     123 617 78 28
 
 
+
+
 **PRO Sävsjö-Vrigstad**
 
     123 490 13 51
+
+
 
 
 **PRO Söderbärke**
@@ -35350,9 +48851,13 @@ Nummer: 12773
     123 496 34 76
 
 
+
+
 **PRO Södra Hagunda**
 
     123 204 67 46
+
+
 
 
 **PRO Södra Sandby**
@@ -35360,14 +48865,20 @@ Nummer: 12773
     123 299 27 17
 
 
+
+
 **PRO Sölvesborg**
 
     123 182 97 95
 
 
+
+
 **PRO Teckomatorp**
 
     123 114 95 74
+
+
 
 
 **PRO Teg**
@@ -35377,9 +48888,13 @@ Nummer: 12773
     123 682 16 56
 
 
+
+
 **PRO Tierp**
 
     123 353 95 41
+
+
 
 
 **PRO Timrå**
@@ -35387,9 +48902,13 @@ Nummer: 12773
     123 393 76 95
 
 
+
+
 **PRO Tjörn Kaprifolen**
 
     123 652 24 11
+
+
 
 
 **PRO Tomelilla**
@@ -35397,9 +48916,13 @@ Nummer: 12773
     123 535 80 07
 
 
+
+
 **PRO Traryd**
 
     123 509 05 27
+
+
 
 
 **PRO Trekanten**
@@ -35407,9 +48930,13 @@ Nummer: 12773
     123 620 56 03
 
 
+
+
 **PRO Trelleborg**
 
     123 504 82 36
+
+
 
 
 **PRO Trollhättan**
@@ -35417,9 +48944,13 @@ Nummer: 12773
     123 481 40 00
 
 
+
+
 **PRO Trollhättans Södra**
 
     123 069 81 59
+
+
 
 
 **PRO Trångsund**
@@ -35427,9 +48958,13 @@ Nummer: 12773
     123 204 28 10
 
 
+
+
 **PRO Tumba**
 
     123 462 26 35
+
+
 
 
 **PRO Tyresö**
@@ -35437,9 +48972,13 @@ Nummer: 12773
     123 075 32 44
 
 
+
+
 **PRO Tyringe**
 
     123 174 57 44
+
+
 
 
 **PRO Tärnsjö**
@@ -35447,9 +48986,13 @@ Nummer: 12773
     123 626 13 82
 
 
+
+
 **PRO Upplands Väsby**
 
     123 688 28 31
+
+
 
 
 **PRO Vaggeryd**
@@ -35457,9 +49000,13 @@ Nummer: 12773
     123 473 91 99
 
 
+
+
 **PRO Vaksala-Danmark**
 
     123 374 09 25
+
+
 
 
 **PRO Vantör**
@@ -35467,9 +49014,13 @@ Nummer: 12773
     123 133 28 73
 
 
+
+
 **PRO Veberöd**
 
     123 117 23 60
+
+
 
 
 **PRO Vellinge**
@@ -35477,9 +49028,13 @@ Nummer: 12773
     123 061 12 85
 
 
+
+
 **PRO Vendel**
 
     123 566 62 43
+
+
 
 
 **PRO Viksjö Järfälla**
@@ -35487,9 +49042,13 @@ Nummer: 12773
     123 343 56 41
 
 
+
+
 **PRO Vinslöv**
 
     123 644 62 49
+
+
 
 
 **PRO Viskafors**
@@ -35497,9 +49056,13 @@ Nummer: 12773
     123 666 08 15
 
 
+
+
 **PRO Vreta kloster**
 
     123 659 40 30
+
+
 
 
 **PRO Vällingby-Spånga**
@@ -35507,9 +49070,13 @@ Nummer: 12773
     123 548 41 18
 
 
+
+
 **PRO Vännäsby**
 
     123 624 43 13
+
+
 
 
 **PRO Värmdö**
@@ -35519,9 +49086,13 @@ Nummer: 12773
     123 184 29 13
 
 
+
+
 **PRO Värnamo**
 
     123 614 53 04
+
+
 
 
 **PRO Västjämtland**
@@ -35529,9 +49100,13 @@ Nummer: 12773
     123 274 70 20
 
 
+
+
 **PRO Västre Jär**
 
     123 336 38 01
+
+
 
 
 **PRO Växjö**
@@ -35539,9 +49114,13 @@ Nummer: 12773
     123 677 88 72
 
 
+
+
 **PRO Vålberg**
 
     123 122 00 45
+
+
 
 
 **PRO Ystad**
@@ -35549,9 +49128,13 @@ Nummer: 12773
     123 495 19 50
 
 
+
+
 **PRO Älmhult**
 
     123 342 07 42
+
+
 
 
 **PRO Älta**
@@ -35559,9 +49142,13 @@ Nummer: 12773
     123 289 88 15
 
 
+
+
 **PRO Ärla-Stenkvista**
 
     123 506 96 87
+
+
 
 
 **PRO Åhus**
@@ -35569,9 +49156,13 @@ Nummer: 12773
     123 019 37 48
 
 
+
+
 **PRO Ånge**
 
     123 027 93 23
+
+
 
 
 **PRO Årjäng**
@@ -35579,9 +49170,13 @@ Nummer: 12773
     123 256 93 25
 
 
+
+
 **PRO Årsta**
 
     123 474 57 09
+
+
 
 
 **PRO Åshammar**
@@ -35589,9 +49184,13 @@ Nummer: 12773
     123 018 20 30
 
 
+
+
 **PRO Öja-Gemla**
 
     123 406 80 60
+
+
 
 
 **PRO Örebro City**
@@ -35599,9 +49198,13 @@ Nummer: 12773
     123 114 97 72
 
 
+
+
 **PRO Öregrund**
 
     123 333 52 70
+
+
 
 
 **PRO Örkelljunga**
@@ -35609,9 +49212,13 @@ Nummer: 12773
     123 691 09 39
 
 
+
+
 **ProCup**
 
     123 254 78 59
+
+
 
 
 **Procyon BK**
@@ -35619,9 +49226,13 @@ Nummer: 12773
     123 217 39 04
 
 
+
+
 **Profeel AB**
 
     123 340 99 68 - Donationer Barncancerfonden
+
+
 
 
 **Profiltryckeriet / Training & Events i Östersund AB**
@@ -35629,9 +49240,13 @@ Nummer: 12773
     123 005 28 94
 
 
+
+
 **Project Vita**
 
     123 667 39 82
+
+
 
 
 **Projekt Nima**
@@ -35639,9 +49254,13 @@ Nummer: 12773
     123 900 64 04
 
 
+
+
 **Projekt Runeberg / Datorföreningen Lysator**
 
     123 423 92 24
+
+
 
 
 **Projekt Rågsved**
@@ -35649,9 +49268,13 @@ Nummer: 12773
     123 645 95 15
 
 
+
+
 **Projekt Rödbergsvik**
 
     123 073 28 42
+
+
 
 
 **Proknekt**
@@ -35659,9 +49282,13 @@ Nummer: 12773
     123 351 64 73
 
 
+
+
 **Proletären FF**
 
     123 342 23 00
+
+
 
 
 **ProLivskvalitet**
@@ -35669,9 +49296,13 @@ Nummer: 12773
     123 220 28 69
 
 
+
+
 **Prostatabröderna, Stockholm**
 
     123 481 30 51
+
+
 
 
 **Prostatacancerförbundet**
@@ -35683,9 +49314,13 @@ Nummer: 12773
     123 900 65 03
 
 
+
+
 **Prostatacancerföreningen i Kalmar Län**
 
     123 615 57 17
+
+
 
 
 **Prostatacancerföreningen i Uppsala län**
@@ -35693,9 +49328,13 @@ Nummer: 12773
     123 594 32 46
 
 
+
+
 **Prostatacancerföreningen Möre**
 
     123 410 50 37
+
+
 
 
 **Prostatacancerföreningen Norrsken**
@@ -35703,9 +49342,13 @@ Nummer: 12773
     123 371 86 16
 
 
+
+
 **Prostatacancerföreningen ProLiv Väst**
 
     123 515 13 11
+
+
 
 
 **Prostatacancerföreningen Skaraborg**
@@ -35713,9 +49356,13 @@ Nummer: 12773
     123 305 67 10
 
 
+
+
 **Prostatacancerföreningen Syd**
 
     123 348 53 07
+
+
 
 
 **Prostatacancerföreningen Träpatronerna**
@@ -35723,9 +49370,13 @@ Nummer: 12773
     123 621 31 02
 
 
+
+
 **Prostatacancerföreningen Viktor**
 
     123 346 32 88
+
+
 
 
 **Prostatacancerföreningen Värmland**
@@ -35733,9 +49384,13 @@ Nummer: 12773
     123 420 52 58
 
 
+
+
 **Prostataföreningen Betula**
 
     123 668 97 56
+
+
 
 
 **Prostataföreningen Gävleborg**
@@ -35743,9 +49398,13 @@ Nummer: 12773
     123 092 45 55
 
 
+
+
 **Protect Our Winters Sweden**
 
     123 079 57 73
+
+
 
 
 **Provitae Östra Skånes Prostataförening**
@@ -35753,9 +49412,13 @@ Nummer: 12773
     123 071 11 84
 
 
+
+
 **Prässebo Bygdegårdsförening**
 
     123 185 79 52
+
+
 
 
 **Prästakullens Koloniförening**
@@ -35763,9 +49426,13 @@ Nummer: 12773
     123 691 70 17
 
 
+
+
 **Prästgården Holmön / Holmöns Bygdebolag AB**
 
     123 446 73 87
+
+
 
 
 **Prästholms Byahusförening**
@@ -35773,14 +49440,20 @@ Nummer: 12773
     123 198 64 13
 
 
+
+
 **PSALTO - Kristna Dansgemenskapen i Skandinavien**
 
     123 162 33 54
 
 
+
+
 **PSKF Magnus Stenbock**
 
     123 314 30 21
+
+
 
 
 **Psoriasisförbundet**
@@ -35790,9 +49463,13 @@ Nummer: 12773
     123 900 06 62
 
 
+
+
 **Psykiatriska Riksföreningen**
 
     123 069 28 06
+
+
 
 
 **PsykoterapiStiftelsen**
@@ -35800,9 +49477,13 @@ Nummer: 12773
     123 511 83 85
 
 
+
+
 **PT Cam / Camilla Åström**
 
     123 278 78 02
+
+
 
 
 **PTEvaE / Toro Elmén AB**
@@ -35810,9 +49491,13 @@ Nummer: 12773
     123 204 53 00
 
 
+
+
 **Pub Stallyktan / Stallyktan AB**
 
     123 294 58 06
+
+
 
 
 **Purusa AB**
@@ -35820,9 +49505,13 @@ Nummer: 12773
     123 662 44 49
 
 
+
+
 **Pustervik / Pustervik Kultur AB**
 
     123 129 33 56
+
+
 
 
 **Pythagoras Industrimuseum / Stiftelsen Motorfabriken Pythagoras**
@@ -35830,14 +49519,20 @@ Nummer: 12773
     123 400 44 79
 
 
+
+
 **På Limhamn Ekonomisk Förening**
 
     123 114 72 22
 
 
+
+
 **Pålsboda RF**
 
     123 438 59 69
+
+
 
 
 
@@ -35849,9 +49544,13 @@ Nummer: 12773
     123 652 22 96
 
 
+
+
 **Qjouren Väst**
 
     123 252 68 46
+
+
 
 
 **QRUT - Aktivt Förädrastöd**
@@ -35859,9 +49558,13 @@ Nummer: 12773
     123 299 35 74
 
 
+
+
 **QSS, Quinnliga SegelSällskapet**
 
     123 199 72 79
+
+
 
 
 **Quinnoqraft Sandviken**
@@ -35869,9 +49572,13 @@ Nummer: 12773
     123 043 53 54
 
 
+
+
 **Qviding FIF**
 
     123 073 67 28
+
+
 
 
 
@@ -35883,9 +49590,13 @@ Nummer: 12773
     123 539 62 70
 
 
+
+
 **Rabbalshede Park och bygdeförening**
 
     123 218 36 71
+
+
 
 
 **Race for the Baltic Stiftelse**
@@ -35893,9 +49604,13 @@ Nummer: 12773
     123 166 02 81
 
 
+
+
 **Racerbåtklubben Ruskprickarna**
 
     123 560 47 64
+
+
 
 
 **Rackarungarnas Hundskola / Susanne Lindberg**
@@ -35903,9 +49618,13 @@ Nummer: 12773
     123 514 82 18
 
 
+
+
 **Radio Haninge Direkt!**
 
     123 569 13 65
+
+
 
 
 **Radio Hope Classic**
@@ -35913,9 +49632,13 @@ Nummer: 12773
     123 090 93 33
 
 
+
+
 **Radio Viking - Radio och TV Reklam AB**
 
     123 130 53 33
+
+
 
 
 **Radio Wake Up / Falkenbergs Kommun**
@@ -35923,9 +49646,13 @@ Nummer: 12773
     123 596 57 44
 
 
+
+
 **Radioklubben Vasa - SK6DG**
 
     123 076 38 88
+
+
 
 
 **Radions och Televisionens Pensionärsklubb, RTPK**
@@ -35933,9 +49660,13 @@ Nummer: 12773
     123 171 94 91
 
 
+
+
 **Radiosol**
 
     123 334 44 13
+
+
 
 
 **Raftötångens Samfällighetsförening**
@@ -35943,9 +49674,13 @@ Nummer: 12773
     123 487 97 97
 
 
+
+
 **Raggarö Hembygdsförening**
 
     123 682 82 71
+
+
 
 
 **Ragnhild Sjöbloms Minnesfond**
@@ -35953,9 +49688,13 @@ Nummer: 12773
     123 134 33 00
 
 
+
+
 **Ragunda BK**
 
     123 394 23 56
+
+
 
 
 **Ragunda Skoterklubb**
@@ -35963,9 +49702,13 @@ Nummer: 12773
     123 092 83 66
 
 
+
+
 **Ragundadalens Rally Club**
 
     123 015 78 59
+
+
 
 
 **Rahmqvist Serama, Eric Rahmqvist AB**
@@ -35973,9 +49716,13 @@ Nummer: 12773
     123 100 16 01
 
 
+
+
 **Raketens Samfällighetsförening NR 2**
 
     123 695 16 85
+
+
 
 
 **Raksta Båtklubb**
@@ -35983,9 +49730,13 @@ Nummer: 12773
     123 389 73 94
 
 
+
+
 **Ralingsåsgården / Kristen Samverkan Småland-Blekinge**
 
     123 098 15 48
+
+
 
 
 **Rambergskyrkans Missionsförsamling**
@@ -35993,9 +49744,13 @@ Nummer: 12773
     123 041 63 54
 
 
+
+
 **Ramhälls Bygdegårds- och Hembygdsförening**
 
     123 528 21 32
+
+
 
 
 **Ramkvilla Golfklubb**
@@ -36003,9 +49758,13 @@ Nummer: 12773
     123 394 56 80
 
 
+
+
 **Rammakarna på Östermalm AB**
 
     123 618 27 45
+
+
 
 
 **Ramsberg - En bygd i Bergslagen**
@@ -36013,9 +49772,13 @@ Nummer: 12773
     123 311 26 79
 
 
+
+
 **Ramsbergs Handel**
 
     123 548 58 00
+
+
 
 
 **Ramsbergs Hembygdsförening**
@@ -36023,9 +49786,13 @@ Nummer: 12773
     123 225 76 08
 
 
+
+
 **Ramsele Hembygdsförening**
 
     123 180 47 64
+
+
 
 
 **Ramsele IK**
@@ -36033,9 +49800,13 @@ Nummer: 12773
     123 633 48 25
 
 
+
+
 **Ramsjö Skytteförening**
 
     123 307 96 70
+
+
 
 
 **Ramsta Bygdegårdsförening**
@@ -36043,14 +49814,20 @@ Nummer: 12773
     123 439 49 04
 
 
+
+
 **Ramstrand Foundation Insamlingsstiftelse**
 
     123 563 86 48
 
 
+
+
 **Ramviks Folkets Hus**
 
     123 161 10 03
+
+
 
 
 **Ransbergs Scoutkår**
@@ -36060,9 +49837,13 @@ Nummer: 12773
     123 588 43 25
 
 
+
+
 **Ransta Nästa Bygdegårdsförening**
 
     123 304 80 97
+
+
 
 
 **Raoul Wallenberg Academy for Young Leaders Insamlingsstiftelse**
@@ -36070,9 +49851,13 @@ Nummer: 12773
     123 900 47 06
 
 
+
+
 **Rappestad Ridklubb**
 
     123 600 40 22
+
+
 
 
 **Rasbo IK**
@@ -36084,9 +49869,13 @@ Nummer: 12773
     123 652 70 14 - P10/P11 IB
 
 
+
+
 **Rasbo MK**
 
     123 446 96 64
+
+
 
 
 **Rasbokils Hembygdsförening**
@@ -36094,9 +49883,13 @@ Nummer: 12773
     123 411 74 95
 
 
+
+
 **Rasklubben Alaskan Malamute**
 
     123 040 44 67
+
+
 
 
 **Rasklubben för Gos D'atura Catalá**
@@ -36104,9 +49897,13 @@ Nummer: 12773
     123 337 53 59
 
 
+
+
 **Rastaborgs Ridklubb**
 
     123 655 59 99
+
+
 
 
 **Rastplats Söder**
@@ -36114,9 +49911,13 @@ Nummer: 12773
     123 385 22 25
 
 
+
+
 **Rattens Internationella Trafikskola**
 
     123 605 62 04
+
+
 
 
 **RAV - Riksorganisationen för anhöriga till våldsdödade**
@@ -36124,9 +49925,13 @@ Nummer: 12773
     123 900 65 45
 
 
+
+
 **RC-Janne i Vallda / Vallda Teknik & Ekonomi HB**
 
     123 348 68 00
+
+
 
 
 **Reach Beyond Sverige**
@@ -36134,9 +49939,13 @@ Nummer: 12773
     123 137 49 33
 
 
+
+
 **ReAct Europe / Uppsala Universitet**
 
     123 687 07 03
+
+
 
 
 **Real Fighter**
@@ -36144,9 +49953,13 @@ Nummer: 12773
     123 652 74 28
 
 
+
+
 **Rebeckaloge 116 Charlotta Taube**
 
     123 001 88 04
+
+
 
 
 **Redbergslids Idrottsklubb**
@@ -36154,9 +49967,13 @@ Nummer: 12773
     123 526 49 24
 
 
+
+
 **Redbergslids Scoutkår**
 
     123 395 70 08
+
+
 
 
 **Redhawks Support**
@@ -36166,9 +49983,13 @@ Nummer: 12773
     123 362 92 92 - TIFO
 
 
+
+
 **Redslareds Bygdegårdsförening**
 
     123 135 58 82
+
+
 
 
 **Redvägs Församling**
@@ -36176,9 +49997,13 @@ Nummer: 12773
     123 639 60 22
 
 
+
+
 **Reformisterna / S-Föreningen SEPRIU**
 
     123 650 04 74
+
+
 
 
 **Refugees Welcome Stockholm**
@@ -36186,9 +50011,13 @@ Nummer: 12773
     123 280 00 01
 
 
+
+
 **Refugees Welcome Uppsala**
 
     123 617 88 18
+
+
 
 
 **Regional Kulturskola i Västmanland / Region Västmanland**
@@ -36196,9 +50025,13 @@ Nummer: 12773
     123 383 70 28
 
 
+
+
 **Rehabhuset Tomelilla AB**
 
     123 624 42 14
+
+
 
 
 **Rehns BK**
@@ -36206,9 +50039,13 @@ Nummer: 12773
     123 570 76 66
 
 
+
+
 **Reijmyre IF**
 
     123 237 17 63
+
+
 
 
 **Reiki-kliniken i Göteborg AB / Secourong Förlag**
@@ -36218,9 +50055,13 @@ Nummer: 12773
     123 320 76 69 - Eventuellt tidigare Swish nummer
 
 
+
+
 **Reiki-Ringen I Väst**
 
     123 675 80 23
+
+
 
 
 **Reikicentrum Lidköping / Lilian Gustavsson**
@@ -36228,9 +50069,13 @@ Nummer: 12773
     123 621 20 62
 
 
+
+
 **Rejmyre Bågskytteklubb**
 
     123 472 48 94
+
+
 
 
 **Rekarne Folkdans Gille**
@@ -36238,9 +50083,13 @@ Nummer: 12773
     123 241 12 70
 
 
+
+
 **Reklambyrån Stt AB**
 
     123 534 50 04
+
+
 
 
 **Relearn Suderbyn**
@@ -36248,9 +50097,13 @@ Nummer: 12773
     123 318 75 15
 
 
+
+
 **Rembo IK**
 
     123 683 62 09
+
+
 
 
 **Remingtons Kattlya / Christina Jansson**
@@ -36258,9 +50111,13 @@ Nummer: 12773
     123 192 86 05
 
 
+
+
 **Rena Bilar i Sverige / Rena Hem i Vardagen Stockholm AB**
 
     123 259 58 09
+
+
 
 
 **Rena Mälaren Ideell Förening**
@@ -36268,14 +50125,20 @@ Nummer: 12773
     123 013 87 27
 
 
+
+
 **Rengsjö Fiskevårdsområdesförening**
 
     123 196 24 89
 
 
+
+
 **Rengsjö SK - Discgolf**
 
     123 699 79 77 - Discgolf
+
+
 
 
 **Rengsjö SK - Fotboll**
@@ -36285,9 +50148,13 @@ Nummer: 12773
     123 198 14 97 - Bingo
 
 
+
+
 **Reningsborg**
 
     123 900 69 33
+
+
 
 
 **RenOptik AB**
@@ -36295,9 +50162,13 @@ Nummer: 12773
     123 521 55 20
 
 
+
+
 **Renoveringsraseriet**
 
     123 256 57 37
+
+
 
 
 **Rent A Chef / Racademy AB**
@@ -36307,9 +50178,13 @@ Nummer: 12773
     123 307 45 31
 
 
+
+
 **Rent-A-Wreck Sollentuna / Aksilsson AB**
 
     123 622 29 70
+
+
 
 
 **Repbäckens Bygdegård**
@@ -36317,9 +50192,13 @@ Nummer: 12773
     123 555 62 20
 
 
+
+
 **Reportrar utan Gränser**
 
     123 900 44 90
+
+
 
 
 **Republikanska Föreningen**
@@ -36327,9 +50206,13 @@ Nummer: 12773
     123 319 84 05
 
 
+
+
 **Research For Recovery**
 
     123 498 53 05
+
+
 
 
 **Resele Hembygsförening**
@@ -36337,9 +50220,13 @@ Nummer: 12773
     123 422 94 56
 
 
+
+
 **Reseproducenten Skellefteå AB**
 
     123 415 08 19
+
+
 
 
 **Resmo-Vickleby Församling**
@@ -36347,9 +50234,13 @@ Nummer: 12773
     123 435 65 31
 
 
+
+
 **Resta Bygdegård**
 
     123 419 98 65
+
+
 
 
 **Restaurang Ellis / Ellis Mat & Dryck AB**
@@ -36357,9 +50248,13 @@ Nummer: 12773
     123 535 90 05
 
 
+
+
 **Restaurang Schnitzelplatz Lagerhuset AB**
 
     123 290 67 33
+
+
 
 
 **Restaurang Taiwan**
@@ -36367,9 +50262,13 @@ Nummer: 12773
     123 325 74 82
 
 
+
+
 **Restaurang Thai Corner AB**
 
     123 141 02 57
+
+
 
 
 **Reumatikerförbundet**
@@ -36377,9 +50276,13 @@ Nummer: 12773
     123 900 31 95
 
 
+
+
 **Reumatikerförening Östra Sörmland**
 
     123 441 97 84
+
+
 
 
 **Reumatikerföreningen Motala-Vadstena**
@@ -36387,9 +50290,13 @@ Nummer: 12773
     123 520 90 44
 
 
+
+
 **Reumatikerföreningen Norrköping**
 
     123 107 79 73
+
+
 
 
 **Reumatikerföreningen Stockholm**
@@ -36397,9 +50304,13 @@ Nummer: 12773
     123 240 66 43
 
 
+
+
 **Revsuddens Sportsällskap**
 
     123 151 75 72
+
+
 
 
 **RF-SISU Stockholm**
@@ -36407,9 +50318,13 @@ Nummer: 12773
     123 617 82 55
 
 
+
+
 **RF-SISU Västmanland**
 
     123 383 60 95
+
+
 
 
 **RFSL Stockholm**
@@ -36417,9 +50332,13 @@ Nummer: 12773
     123 354 83 44 - Gåva
 
 
+
+
 **RFSU, Riksförbundet för Sexuell Upplysning**
 
     123 900 60 99
+
+
 
 
 **Riala Församling**
@@ -36427,9 +50346,13 @@ Nummer: 12773
     123 037 54 93
 
 
+
+
 **Riala GoIF**
 
     123 179 15 32
+
+
 
 
 **Rickard Wilson-Sällskapet**
@@ -36437,9 +50360,13 @@ Nummer: 12773
     123 604 08 69
 
 
+
+
 **Rid och Musik Föreningen Lindebolarna**
 
     123 596 41 84
+
+
 
 
 **RideAlong MTB**
@@ -36447,9 +50374,13 @@ Nummer: 12773
     123 497 21 39
 
 
+
+
 **Ridföreningen Lunk i Kring**
 
     123 335 08 57
+
+
 
 
 **Ridklubben Norrtälje Ryttare**
@@ -36457,9 +50388,13 @@ Nummer: 12773
     123 034 58 01
 
 
+
+
 **Ridklubben Udden**
 
     123 371 68 75
+
+
 
 
 **Ridleder Tiveden**
@@ -36467,9 +50402,13 @@ Nummer: 12773
     123 618 07 15
 
 
+
+
 **RidLycka i Öppinge / Joanna Svensson**
 
     123 183 82 83
+
+
 
 
 **Ridskolepedagogik / Björkviks Ponnyridskola AB**
@@ -36477,9 +50416,13 @@ Nummer: 12773
     123 460 47 24
 
 
+
+
 **Right Livelihood Award Stiftelsen**
 
     123 900 24 94
+
+
 
 
 **RIK Karlskoga**
@@ -36491,9 +50434,13 @@ Nummer: 12773
     123 686 27 91 - F14
 
 
+
+
 **Rikhälsa / Kajsa Henningsson**
 
     123 411 48 72
+
+
 
 
 **Rikkenbergets Hembygdsförening**
@@ -36501,9 +50448,13 @@ Nummer: 12773
     123 565 27 06
 
 
+
+
 **Riks / Vainar mediagroup AB**
 
     123 121 49 31
+
+
 
 
 **Riksbyggen**
@@ -36511,9 +50462,13 @@ Nummer: 12773
     123 449 48 03 - We Effect
 
 
+
+
 **Riksförbundet Cystisk Fibros**
 
     123 351 31 32
+
+
 
 
 **Riksförbundet Ehlers-Danlos Syndrom**
@@ -36521,9 +50476,13 @@ Nummer: 12773
     123 059 42 34
 
 
+
+
 **Riksförbundet FUB**
 
     123 900 80 38
+
+
 
 
 **Riksförbundet för ME-patienter - Myalgic Encephalomyelitis, RME**
@@ -36533,9 +50492,13 @@ Nummer: 12773
     123 252 98 16 - Gåvor
 
 
+
+
 **Riksförbundet för Rörelsehindrade Barn och Ungdomar, RBU**
 
     123 900 07 12
+
+
 
 
 **Riksförbundet för Rörelsehindrade Barn och Ungdomarm Skåne, RBU**
@@ -36543,9 +50506,13 @@ Nummer: 12773
     123 181 82 77
 
 
+
+
 **Riksförbundet för Social och Mental Hälsa Mittpunkten Malmö, RSMH**
 
     123 062 71 74
+
+
 
 
 **Riksförbundet Föräldraföreningen mot Narkotika, FMN Riks**
@@ -36553,9 +50520,13 @@ Nummer: 12773
     123 901 00 00
 
 
+
+
 **Riksförbundet Hjärnkoll**
 
     123 364 89 61
+
+
 
 
 **Riksförbundet HjärtLung**
@@ -36563,9 +50534,13 @@ Nummer: 12773
     123 901 01 09
 
 
+
+
 **Riksförbundet HjärtLung Lycksele**
 
     123 675 21 66
+
+
 
 
 **Riksförbundet HjärtLung Piteå**
@@ -36573,9 +50548,13 @@ Nummer: 12773
     123 299 20 22
 
 
+
+
 **Riksförbundet HjärtLung Stockholm**
 
     123 012 61 93
+
+
 
 
 **Riksförbundet Hälsofrämjandet**
@@ -36583,9 +50562,13 @@ Nummer: 12773
     123 165 99 78
 
 
+
+
 **Riksförbundet Narkotikafritt Samhälle, RNS**
 
     123 617 80 40
+
+
 
 
 **Riksförbundet Noaks Ark**
@@ -36593,14 +50576,20 @@ Nummer: 12773
     123 900 60 65
 
 
+
+
 **Riksförbundet Ofrivillig Barnlöshet**
 
     123 544 22 56
 
 
+
+
 **Riksförbundet PensionärsGemenskap Örebro-Värmlands Läns Distrikt**
 
     123 650 92 77
+
+
 
 
 **Riksförbundet Svensk Trädgård**
@@ -36610,9 +50599,13 @@ Nummer: 12773
     123 900 60 16
 
 
+
+
 **Riksförbundet Sveriges 4H**
 
     123 161 13 26
+
+
 
 
 **Riksförbundet Sällsynta diagnoser**
@@ -36620,9 +50613,13 @@ Nummer: 12773
     123 900 15 61
 
 
+
+
 **Riksförbundet Veterinär Omtanke Om Våldsutsatta, VOOV**
 
     123 667 40 22
+
+
 
 
 **Riksförbundet Vi Som Inte Röker, Visir**
@@ -36630,9 +50627,13 @@ Nummer: 12773
     123 324 46 21
 
 
+
+
 **Riksföreningen Aktiva Synskadade**
 
     123 900 96 97
+
+
 
 
 **Riksföreningen Den Öppna Dörren**
@@ -36640,14 +50641,20 @@ Nummer: 12773
     123 900 91 50
 
 
+
+
 **Riksföreningen för operationssjukvård, RFop**
 
     123 357 86 48
 
 
+
+
 **Riksföreningen för SLE**
 
     123 000 79 22
+
+
 
 
 **Riksföreningen Jordens Vänner**
@@ -36657,9 +50664,13 @@ Nummer: 12773
     123 900 47 48
 
 
+
+
 **Riksföreningen Metabol Hälsa**
 
     123 270 04 41
+
+
 
 
 **Riksföreningen Nej till NATO**
@@ -36667,9 +50678,13 @@ Nummer: 12773
     123 534 64 99
 
 
+
+
 **Riksföreningen Sveriges Stadsmissioner**
 
     123 900 17 51
+
+
 
 
 **Riksföreningen Äldres Hälsa**
@@ -36677,9 +50692,13 @@ Nummer: 12773
     123 119 99 75
 
 
+
+
 **Riksorganisationen för fortbildning om Förintelsen**
 
     123 054 16 31
+
+
 
 
 **Riksorganisationen för kvinnojourer och tjejjourer i Sverige, ROKS**
@@ -36687,9 +50706,13 @@ Nummer: 12773
     123 001 78 22
 
 
+
+
 **Riksorganisationen GAPF - Glöm Aldrig Pela & Fadime**
 
     123 900 62 71
+
+
 
 
 **Riksorganisationen UFO-Sverige**
@@ -36697,9 +50720,13 @@ Nummer: 12773
     123 615 89 35
 
 
+
+
 **Riksorganisationen Unga Reumatiker**
 
     123 901 70 47
+
+
 
 
 **Riksteatern Hultsfred**
@@ -36707,9 +50734,13 @@ Nummer: 12773
     123 516 13 44
 
 
+
+
 **Rimbo Hembygdsförening**
 
     123 466 05 02
+
+
 
 
 **Rimbo IF**
@@ -36721,9 +50752,13 @@ Nummer: 12773
     123 304 71 64
 
 
+
+
 **Rimbo Skid- & Orienteringsklubb**
 
     123 427 37 02
+
+
 
 
 **Rimforsa IF**
@@ -36731,9 +50766,13 @@ Nummer: 12773
     123 270 76 77
 
 
+
+
 **Rimforsa Jaktskytteklubb**
 
     123 137 51 46
+
+
 
 
 **Ringamåla SKF**
@@ -36741,9 +50780,13 @@ Nummer: 12773
     123 132 40 03
 
 
+
+
 **Ringarums Hembygdsförening**
 
     123 571 99 19
+
+
 
 
 **Ringarums IF**
@@ -36751,9 +50794,13 @@ Nummer: 12773
     123 384 42 71
 
 
+
+
 **Ringbloms Trafikskola**
 
     123 100 00 09
+
+
 
 
 **Ringens Bilskola AB**
@@ -36761,9 +50808,13 @@ Nummer: 12773
     123 230 44 18
 
 
+
+
 **Ringmurens Cykelklubb**
 
     123 621 86 06
+
+
 
 
 **Ringnäs RF**
@@ -36771,9 +50822,13 @@ Nummer: 12773
     123 520 11 65
 
 
+
+
 **Ringsjöortens Biodlarförening**
 
     123 284 91 80
+
+
 
 
 **Ringsjöortens Lantliga RF - Ridsport**
@@ -36781,9 +50836,13 @@ Nummer: 12773
     123 299 21 62
 
 
+
+
 **Ringströms Restaurang**
 
     123 321 70 15
+
+
 
 
 **Rinia IF**
@@ -36791,9 +50850,13 @@ Nummer: 12773
     123 091 29 15
 
 
+
+
 **Rinkeby Internationella Församling**
 
     123 603 50 83
+
+
 
 
 **Risbäcks Hembygdsförening**
@@ -36801,9 +50864,13 @@ Nummer: 12773
     123 087 74 64
 
 
+
+
 **Rise - Riksföreningen mot incest och andra sexuella övergrepp i barndomen**
 
     123 055 55 08
+
+
 
 
 **Rissnaortens Hembygdsförening**
@@ -36811,9 +50878,13 @@ Nummer: 12773
     123 388 15 88
 
 
+
+
 **Rixö Båtklubb**
 
     123 558 10 53
+
+
 
 
 **Ro för Livet**
@@ -36821,9 +50892,13 @@ Nummer: 12773
     123 900 44 33
 
 
+
+
 **Roasjöns-Ramsjöns FVO**
 
     123 650 88 99
+
+
 
 
 **Robertsfors Golfklubb**
@@ -36831,14 +50906,20 @@ Nummer: 12773
     123 005 42 54
 
 
+
+
 **Robertsfors IK**
 
     123 459 61 28
 
 
+
+
 **Robertsfors Skyttesportförening**
 
     123 277 82 31
+
+
 
 
 **Rockneby Idrottsklubb**
@@ -36848,9 +50929,13 @@ Nummer: 12773
     123 523 36 30
 
 
+
+
 **Rodenkyrkan Norrtälje**
 
     123 237 52 93
+
+
 
 
 **Rogsta Baptistförsamling**
@@ -36858,9 +50943,13 @@ Nummer: 12773
     123 634 65 89
 
 
+
+
 **Rogsta Hembygdsförening**
 
     123 001 77 56
+
+
 
 
 **Roj Fans**
@@ -36868,9 +50957,13 @@ Nummer: 12773
     123 023 28 68
 
 
+
+
 **Rojalistiska Föreningen**
 
     123 390 05 45
+
+
 
 
 **Roma Hembygdsförening**
@@ -36878,9 +50971,13 @@ Nummer: 12773
     123 132 26 27
 
 
+
+
 **Romelanda Hembygdsförening**
 
     123 272 20 56
+
+
 
 
 **Romelanda UF**
@@ -36888,9 +50985,13 @@ Nummer: 12773
     123 069 01 64
 
 
+
+
 **Romeleåsens GK**
 
     123 640 85 61
+
+
 
 
 **Romeleåsens Jujutsu**
@@ -36898,9 +50999,13 @@ Nummer: 12773
     123 202 97 67
 
 
+
+
 **Romeo och Julia Kören**
 
     123 447 68 91
+
+
 
 
 **Romfartuna JSK**
@@ -36908,9 +51013,13 @@ Nummer: 12773
     123 326 31 00
 
 
+
+
 **Romfartuna Ved AB**
 
     123 464 06 86
+
+
 
 
 **Rommele Församling**
@@ -36928,9 +51037,13 @@ Nummer: 12773
     123 683 41 21 - Fors kyrka
 
 
+
+
 **Ronald McDonald Hus Lund**
 
     123 137 19 12
+
+
 
 
 **Ronneby Brukshundklubb**
@@ -36938,9 +51051,13 @@ Nummer: 12773
     123 551 51 50
 
 
+
+
 **Ronneby Folkteater**
 
     123 170 90 13
+
+
 
 
 **Ronneby HK**
@@ -36948,9 +51065,13 @@ Nummer: 12773
     123 634 42 04
 
 
+
+
 **Ronneby Kvinnojour**
 
     123 308 92 40
+
+
 
 
 **Roo Gård Ridskola och Ryttarklubb**
@@ -36958,9 +51079,13 @@ Nummer: 12773
     123 137 06 67
 
 
+
+
 **Ropgränds Samfällighetsförening**
 
     123 205 96 16
+
+
 
 
 **Rosabandetkampanjen / Cancerfonden**
@@ -36968,9 +51093,13 @@ Nummer: 12773
     123 409 00 72
 
 
+
+
 **Rosenborgs Gård AB**
 
     123 037 62 44 - Vinterförvaring
+
+
 
 
 **Rosenborgs Koloniförening**
@@ -36978,9 +51107,13 @@ Nummer: 12773
     123 090 35 34
 
 
+
+
 **Rosenfors IK**
 
     123 368 03 78
+
+
 
 
 **Rosengrenska Insamlingsstiftelsen**
@@ -36988,9 +51121,13 @@ Nummer: 12773
     123 237 11 28
 
 
+
+
 **Rosenlöfs Vänner**
 
     123 135 98 35
+
+
 
 
 **Roshan SPA och Friskvård**
@@ -36998,9 +51135,13 @@ Nummer: 12773
     123 259 37 96
 
 
+
+
 **Roslagens Antik och Auktionsverk AB**
 
     123 535 66 62
+
+
 
 
 **Roslagens bokhandel / NaturNära Äventyr i Sverige AB**
@@ -37008,9 +51149,13 @@ Nummer: 12773
     123 075 37 15
 
 
+
+
 **Roslagens Brukshundklubb**
 
     123 544 09 79
+
+
 
 
 **Roslagens Jakt & Vilt AB**
@@ -37018,9 +51163,13 @@ Nummer: 12773
     123 240 33 35
 
 
+
+
 **Roslagens MHF Ungdom**
 
     123 265 81 02
+
+
 
 
 **Roslagens Ornitologiska Förening, ROF**
@@ -37028,9 +51177,13 @@ Nummer: 12773
     123 072 93 35
 
 
+
+
 **Roslagens Träningsverk**
 
     123 666 11 51
+
+
 
 
 **Roslags Näsby Scoutkår**
@@ -37038,9 +51191,13 @@ Nummer: 12773
     123 102 92 48
 
 
+
+
 **RoslagsBlomman**
 
     123 155 38 74
+
+
 
 
 **Roslagsbro IF**
@@ -37058,9 +51215,13 @@ Nummer: 12773
     123 553 30 70
 
 
+
+
 **Roslagsbro-Vätö Församling**
 
     123 662 48 52
+
+
 
 
 **Roslagsveteranerna**
@@ -37068,9 +51229,13 @@ Nummer: 12773
     123 353 94 59
 
 
+
+
 **Roslätt3:s Samfällighetsförening**
 
     123 378 14 57
+
+
 
 
 **Rossmix / Helene Strömbom**
@@ -37078,9 +51243,13 @@ Nummer: 12773
     123 699 21 35
 
 
+
+
 **Rossmix / Moa Persson**
 
     123 676 54 08
+
+
 
 
 **Rossöns Fiskevårdsområdesförening**
@@ -37088,9 +51257,13 @@ Nummer: 12773
     123 413 82 10
 
 
+
+
 **Rossöns Golfklubb**
 
     123 085 10 71
+
+
 
 
 **Rossöns IF**
@@ -37098,9 +51271,13 @@ Nummer: 12773
     123 305 26 93
 
 
+
+
 **Rost Bar Ängelholm / RobinDaniel Aktiebolag**
 
     123 230 15 96
+
+
 
 
 **Rotaract Kristianstad**
@@ -37108,9 +51285,13 @@ Nummer: 12773
     123 116 26 01
 
 
+
+
 **Rotary Alvesta**
 
     123 237 08 80
+
+
 
 
 **Rotary Bromölla**
@@ -37118,9 +51299,13 @@ Nummer: 12773
     123 043 89 37
 
 
+
+
 **Rotary Distrikt 2340**
 
     123 461 03 25
+
+
 
 
 **Rotary Distrikt 2360**
@@ -37130,9 +51315,13 @@ Nummer: 12773
     123 429 65 13
 
 
+
+
 **Rotary Distrikt 2365**
 
     123 055 64 31
+
+
 
 
 **Rotary Distrikt 2370**
@@ -37140,9 +51329,13 @@ Nummer: 12773
     123 313 35 84
 
 
+
+
 **Rotary Distrikt 2390**
 
     123 443 12 01
+
+
 
 
 **Rotary Doctors Sweden**
@@ -37150,9 +51343,13 @@ Nummer: 12773
     123 288 83 52
 
 
+
+
 **Rotary E-Club 2410**
 
     123 126 63 52
+
+
 
 
 **Rotary Eslöv**
@@ -37160,9 +51357,13 @@ Nummer: 12773
     123 088 99 56
 
 
+
+
 **Rotary Eslöv-Sallerup**
 
     123 575 29 36
+
+
 
 
 **Rotary Göteborg-Kungsporten**
@@ -37170,9 +51371,13 @@ Nummer: 12773
     123 398 75 00
 
 
+
+
 **Rotary Göteborg-Örgryte**
 
     123 675 17 96
+
+
 
 
 **Rotary Hammenhög**
@@ -37180,9 +51385,13 @@ Nummer: 12773
     123 285 93 38
 
 
+
+
 **Rotary Helsingborg International**
 
     123 239 88 65
+
+
 
 
 **Rotary Helsingborg Kärnan**
@@ -37190,9 +51399,13 @@ Nummer: 12773
     123 377 22 25
 
 
+
+
 **Rotary Hässleholm**
 
     123 373 74 18
+
+
 
 
 **Rotary Höganäs-Kullen**
@@ -37200,9 +51413,13 @@ Nummer: 12773
     123 085 50 64
 
 
+
+
 **Rotary Kalmar**
 
     123 236 04 85
+
+
 
 
 **Rotary Karlskrona - Nova**
@@ -37210,9 +51427,13 @@ Nummer: 12773
     123 077 90 41
 
 
+
+
 **Rotary Katrineholm**
 
     123 269 72 17
+
+
 
 
 **Rotary Kivik**
@@ -37220,9 +51441,13 @@ Nummer: 12773
     123 202 55 34
 
 
+
+
 **Rotary Kristianstad Nova**
 
     123 614 03 62
+
+
 
 
 **Rotary Laholm-Hök**
@@ -37232,9 +51457,13 @@ Nummer: 12773
     123 512 81 11
 
 
+
+
 **Rotary Landskrona Citadell**
 
     123 107 96 07
+
+
 
 
 **Rotary Landskrona-Glumslöv**
@@ -37242,14 +51471,20 @@ Nummer: 12773
     123 360 73 55
 
 
+
+
 **Rotary Landvetter-Råda**
 
     123 453 62 07
 
 
+
+
 **Rotary Lerum**
 
     123 213 19 85
+
+
 
 
 **Rotary Lerum Aspen**
@@ -37261,14 +51496,20 @@ Nummer: 12773
     123 483 20 77
 
 
+
+
 **Rotary Lomma-Bjärred**
 
     123 085 61 95
 
 
+
+
 **Rotary Malmö**
 
     123 492 51 03
+
+
 
 
 **Rotary Malmö Södra**
@@ -37278,9 +51519,13 @@ Nummer: 12773
     123 517 59 55
 
 
+
+
 **Rotary Malmö Öresund**
 
     123 560 47 31
+
+
 
 
 **Rotary Mariefred**
@@ -37290,9 +51535,13 @@ Nummer: 12773
     123 230 25 37
 
 
+
+
 **Rotary Nybro Glasriket**
 
     123 692 97 56
+
+
 
 
 **Rotary Nyköping Öster**
@@ -37300,14 +51549,20 @@ Nummer: 12773
     123 007 57 05
 
 
+
+
 **Rotary Riddarfjärden**
 
     123 146 60 36
 
 
+
+
 **Rotary Saltsjöbaden**
 
     123 351 46 84
+
+
 
 
 **Rotary Simrishamn**
@@ -37317,9 +51572,13 @@ Nummer: 12773
     123 650 70 32
 
 
+
+
 **Rotary Staffanstorp**
 
     123 694 69 17
+
+
 
 
 **Rotary Stenungsund**
@@ -37327,9 +51586,13 @@ Nummer: 12773
     123 246 53 59
 
 
+
+
 **Rotary Stockholm Global City**
 
     123 288 11 83
+
+
 
 
 **Rotary Stockholm Strand**
@@ -37337,9 +51600,13 @@ Nummer: 12773
     123 049 90 20
 
 
+
+
 **Rotary Stockholm-Vällingby och Spånga**
 
     123 693 42 51
+
+
 
 
 **Rotary Svedala**
@@ -37347,9 +51614,13 @@ Nummer: 12773
     123 616 06 67
 
 
+
+
 **Rotary Söderköping**
 
     123 255 87 57
+
+
 
 
 **Rotary Trosa**
@@ -37357,9 +51628,13 @@ Nummer: 12773
     123 176 67 16
 
 
+
+
 **Rotary Täby-Attunda**
 
     123 583 39 18
+
+
 
 
 **Rotary Uddevalla-Byfjorden**
@@ -37367,9 +51642,13 @@ Nummer: 12773
     123 114 38 41
 
 
+
+
 **Rotary Uppsala Peace Center**
 
     123 209 15 51
+
+
 
 
 **Rotary Vadstena Kloster**
@@ -37377,9 +51656,13 @@ Nummer: 12773
     123 030 19 60
 
 
+
+
 **Rotary Vimmerby Astrid Lindgren**
 
     123 188 51 28
+
+
 
 
 **Rotary Växjö**
@@ -37387,9 +51670,13 @@ Nummer: 12773
     123 570 59 00
 
 
+
+
 **Rotary Växjö S:t Sigfrid**
 
     123 290 53 62
+
+
 
 
 **Rotary Ystad**
@@ -37397,14 +51684,20 @@ Nummer: 12773
     123 526 89 74
 
 
+
+
 **Rotary Älmhult Linnébygden**
 
     123 348 12 64
 
 
+
+
 **Rotary Ängelholm-Bjäre**
 
     123 048 13 09
+
+
 
 
 **Rotary Åstorp**
@@ -37414,9 +51707,13 @@ Nummer: 12773
     123 585 99 54
 
 
+
+
 **Rotary Örebro**
 
     123 553 03 65
+
+
 
 
 **Rotaryklubb Halmstad-Tylösand**
@@ -37424,9 +51721,13 @@ Nummer: 12773
     123 423 42 66
 
 
+
+
 **Rotaryklubb Trollhättan**
 
     123 667 52 76
+
+
 
 
 **Rotarys U-Fond**
@@ -37434,9 +51735,13 @@ Nummer: 12773
     123 562 24 28
 
 
+
+
 **Rotbrunna häst och kursgård / Claes Eningsjö**
 
     123 686 60 40
+
+
 
 
 **Rotbrunna RF - Ridsport**
@@ -37444,9 +51749,13 @@ Nummer: 12773
     123 175 79 54
 
 
+
+
 **Rottne IF**
 
     123 024 35 01
+
+
 
 
 **Rottne Scoutkår**
@@ -37454,9 +51763,13 @@ Nummer: 12773
     123 441 30 35
 
 
+
+
 **Royal Thai Embassy / Royal Thai Consulate**
 
     123 381 87 62
+
+
 
 
 **RPG Alingsås**
@@ -37464,9 +51777,13 @@ Nummer: 12773
     123 096 70 67
 
 
+
+
 **RPG Eksjö**
 
     123 360 94 50
+
+
 
 
 **RPG Fiskebäck Önnered**
@@ -37474,9 +51791,13 @@ Nummer: 12773
     123 497 53 14
 
 
+
+
 **RPG Fjällstugan Senior**
 
     123 205 75 45
+
+
 
 
 **RPG Flen**
@@ -37484,9 +51805,13 @@ Nummer: 12773
     123 110 22 19
 
 
+
+
 **RPG Gamla Uppsala**
 
     123 384 12 85
+
+
 
 
 **RPG Göteborgs Norra Skärgård**
@@ -37494,9 +51819,13 @@ Nummer: 12773
     123 081 32 53
 
 
+
+
 **RPG Habo Mullsjö**
 
     123 645 47 63
+
+
 
 
 **RPG Jönköping Öst**
@@ -37504,9 +51833,13 @@ Nummer: 12773
     123 242 12 87
 
 
+
+
 **RPG Karlskrona**
 
     123 533 07 66
+
+
 
 
 **RPG Kullabygden**
@@ -37514,9 +51847,13 @@ Nummer: 12773
     123 147 51 93
 
 
+
+
 **RPG Kumla**
 
     123 141 93 08
+
+
 
 
 **RPG Lidköping**
@@ -37524,9 +51861,13 @@ Nummer: 12773
     123 037 45 87
 
 
+
+
 **RPG Ljungby**
 
     123 651 74 78
+
+
 
 
 **RPG Malmö Ekumeniska**
@@ -37534,9 +51875,13 @@ Nummer: 12773
     123 267 70 86
 
 
+
+
 **RPG Norrmalmskyrkan**
 
     123 611 49 87
+
+
 
 
 **RPG Pingstkyrkan i Linköping**
@@ -37544,9 +51889,13 @@ Nummer: 12773
     123 267 54 86
 
 
+
+
 **RPG Skåne-Blekinge Distriktet**
 
     123 413 89 54
+
+
 
 
 **RPG Sollentuna**
@@ -37554,9 +51903,13 @@ Nummer: 12773
     123 289 66 94
 
 
+
+
 **RPG Sundsvall**
 
     123 431 38 70
+
+
 
 
 **RPG Sörmland-Östergötlands Distrikt**
@@ -37564,9 +51917,13 @@ Nummer: 12773
     123 025 79 72
 
 
+
+
 **RPG Umeå**
 
     123 315 70 88
+
+
 
 
 **RPG Vetlanda**
@@ -37574,9 +51931,13 @@ Nummer: 12773
     123 247 83 37
 
 
+
+
 **RPG Västerbotten**
 
     123 668 02 43
+
+
 
 
 **RPG Årstakyrkan Uppsala**
@@ -37584,9 +51945,13 @@ Nummer: 12773
     123 042 17 92
 
 
+
+
 **RPG Örnsköldsvik**
 
     123 653 40 69
+
+
 
 
 **RPG Östernärke**
@@ -37594,9 +51959,13 @@ Nummer: 12773
     123 628 83 69
 
 
+
+
 **Ruda Revy och Teatersällskap**
 
     123 589 08 27
+
+
 
 
 **Rude Food**
@@ -37604,9 +51973,13 @@ Nummer: 12773
     123 388 32 38
 
 
+
+
 **Rude Intresseförening**
 
     123 132 11 24
+
+
 
 
 **Rudolfsons Trafikskola**
@@ -37614,9 +51987,13 @@ Nummer: 12773
     123 079 69 61
 
 
+
+
 **Rudsjö Scoutkår**
 
     123 069 10 97
+
+
 
 
 **Rudskoga Församling**
@@ -37624,9 +52001,13 @@ Nummer: 12773
     123 311 57 30
 
 
+
+
 **Rugbyklubben Trojan**
 
     123 313 75 44
+
+
 
 
 **Rultiga Rut Hälsa för Kropp & Själ / Jeanette Johansson**
@@ -37634,9 +52015,13 @@ Nummer: 12773
     123 535 87 18
 
 
+
+
 **RUM - Riksförbundet Unga Musikanter**
 
     123 900 75 84
+
+
 
 
 **Runby IF**
@@ -37644,9 +52029,13 @@ Nummer: 12773
     123 019 19 81
 
 
+
+
 **Runmarö Hembygdsförening**
 
     123 597 82 18
+
+
 
 
 **Runmarö Kapellstiftelse**
@@ -37654,9 +52043,13 @@ Nummer: 12773
     123 054 34 21
 
 
+
+
 **Runon AB**
 
     123 062 66 06
+
+
 
 
 **Runsten-Möckleby IF**
@@ -37670,9 +52063,13 @@ Nummer: 12773
     123 626 21 66 - Entré o kiosk
 
 
+
+
 **Runstens Bygdegårds Förening**
 
     123 096 18 54
+
+
 
 
 **Runstens Hembygdsförening**
@@ -37680,9 +52077,13 @@ Nummer: 12773
     123 356 14 38
 
 
+
+
 **Rusty P´s Kulturförening**
 
     123 459 52 37
+
+
 
 
 **Rutvik SK - Fotboll**
@@ -37690,14 +52091,20 @@ Nummer: 12773
     123 551 15 63
 
 
+
+
 **Rutviks Bygdegårdsförening**
 
     123 688 66 34
 
 
+
+
 **Rydaholms Folkets Park**
 
     123 217 07 10
+
+
 
 
 **Rydaholms Frikyrka**
@@ -37709,9 +52116,13 @@ Nummer: 12773
     123 541 92 05 - Café
 
 
+
+
 **Rydaholms SK**
 
     123 174 64 37
+
+
 
 
 **Rydboholms SK**
@@ -37719,9 +52130,13 @@ Nummer: 12773
     123 345 74 13 - A-lag Innebandy
 
 
+
+
 **Rydgårds Hästtransport Center - RHTC AB**
 
     123 512 64 79
+
+
 
 
 **Rydkampen**
@@ -37729,14 +52144,20 @@ Nummer: 12773
     123 479 00 85
 
 
+
+
 **Ryds Scoutkår**
 
     123 013 22 90
 
 
+
+
 **Rydöbruks Samhällsförening**
 
     123 174 40 36
+
+
 
 
 **Ryfors Golfklubb**
@@ -37746,9 +52167,13 @@ Nummer: 12773
     123 695 65 02
 
 
+
+
 **Ryggensjöföreningen**
 
     123 596 79 89
+
+
 
 
 **Ryggesbo-Homnabo Byalag**
@@ -37756,9 +52181,13 @@ Nummer: 12773
     123 554 69 73
 
 
+
+
 **Rymdreglage - The best band in the world / Lutofia / Tomas Redigh**
 
     123 641 68 46
+
+
 
 
 **Rynninge IK**
@@ -37772,6 +52201,8 @@ Nummer: 12773
     123 609 03 85 - P-14
 
 
+
+
 **Ryssby IF**
 
     123 394 38 75
@@ -37779,14 +52210,20 @@ Nummer: 12773
     123 429 35 77
 
 
+
+
 **Ryssby-Åby Pastorat**
 
     123 090 79 15
 
 
+
+
 **Ryttargårdskyrkan i Linköping**
 
     123 476 03 85
+
+
 
 
 **Ryttarkamraterna Kumla**
@@ -37796,9 +52233,13 @@ Nummer: 12773
     123 553 12 31
 
 
+
+
 **Rytterne Hembygdsförening**
 
     123 570 40 10 - Rytternegården
+
+
 
 
 **Rytterne IS**
@@ -37806,9 +52247,13 @@ Nummer: 12773
     123 114 86 34
 
 
+
+
 **Rytterne Kyrka**
 
     123 225 08 19 - Kollekt
+
+
 
 
 **Rädda Barnen distrikt Malmö**
@@ -37816,9 +52261,13 @@ Nummer: 12773
     123 900 12 49
 
 
+
+
 **Rädda Barnen Uppsala**
 
     123 311 56 64
+
+
 
 
 **Rädda Barnens Riksförbund**
@@ -37826,9 +52275,13 @@ Nummer: 12773
     123 902 00 33
 
 
+
+
 **Rädda Djuren**
 
     123 516 60 95
+
+
 
 
 **Rämmens Bygdegårdsförening**
@@ -37836,14 +52289,20 @@ Nummer: 12773
     123 683 86 01
 
 
+
+
 **Rämshyttans Bygdegårdsförening**
 
     123 677 84 19
 
 
+
+
 **Rännans Vänner**
 
     123 374 64 76
+
+
 
 
 **Räppe GoIF**
@@ -37853,9 +52312,13 @@ Nummer: 12773
     123 476 30 41 - Entré A-lag Dam
 
 
+
+
 **Rätans Hembygdsförening**
 
     123 640 76 62
+
+
 
 
 **Rättvik Butchers**
@@ -37863,9 +52326,13 @@ Nummer: 12773
     123 449 37 89
 
 
+
+
 **Rättviks GK**
 
     123 436 94 01 - 55+
+
+
 
 
 **Rättviks Golfby AB**
@@ -37873,9 +52340,13 @@ Nummer: 12773
     123 245 38 76
 
 
+
+
 **Rättviks Golfklubb**
 
     123 402 94 35
+
+
 
 
 **Rättviks Ridklubb**
@@ -37883,9 +52354,13 @@ Nummer: 12773
     123 394 52 01
 
 
+
+
 **Rättviks Roddklubb**
 
     123 662 14 37
+
+
 
 
 **Rättviks Scoutkår**
@@ -37893,9 +52368,13 @@ Nummer: 12773
     123 439 14 05
 
 
+
+
 **Rättviksnytt på Internet / Bokstaven i Rättvik AB**
 
     123 086 72 75
+
+
 
 
 **Rättvisa Vindar Norra Östergötland, RVNO**
@@ -37903,9 +52382,13 @@ Nummer: 12773
     123 210 76 70
 
 
+
+
 **Rävlanda AIS**
 
     123 303 63 16
+
+
 
 
 **Råbäcks Mekaniska Stenhuggeri / Föreningen Stenhuggeriets Vänner**
@@ -37913,9 +52396,13 @@ Nummer: 12773
     123 036 57 00
 
 
+
+
 **Råda Församling**
 
     123 545 20 81
+
+
 
 
 **Råda IK**
@@ -37923,9 +52410,13 @@ Nummer: 12773
     123 520 84 34
 
 
+
+
 **Råda Ridklubb**
 
     123 124 96 06
+
+
 
 
 **Rådmansö Bygdegårdsförening**
@@ -37933,9 +52424,13 @@ Nummer: 12773
     123 514 43 08
 
 
+
+
 **Rådmansö Församling**
 
     123 088 86 10
+
+
 
 
 **Rådmansö SK**
@@ -37943,9 +52438,13 @@ Nummer: 12773
     123 467 65 73
 
 
+
+
 **Råggärds Hembygdsförening**
 
     123 629 80 79
+
+
 
 
 **Rågsveds IF**
@@ -37953,9 +52452,13 @@ Nummer: 12773
     123 449 12 70
 
 
+
+
 **Råneå BK**
 
     123 000 90 50
+
+
 
 
 **Råneå Församling**
@@ -37963,9 +52466,13 @@ Nummer: 12773
     123 465 37 96
 
 
+
+
 **Råneå Hembygdsförening**
 
     123 617 49 57
+
+
 
 
 **Rånäs 4 H**
@@ -37975,9 +52482,13 @@ Nummer: 12773
     123 335 25 80
 
 
+
+
 **Rånäs Orienteringsklubb**
 
     123 517 22 00
+
+
 
 
 **Rånö Livs**
@@ -37985,9 +52496,13 @@ Nummer: 12773
     123 264 80 53
 
 
+
+
 **Råslätts Församlingsgemenskap**
 
     123 667 20 83
+
+
 
 
 **Råsunda IS**
@@ -37995,9 +52510,13 @@ Nummer: 12773
     123 056 65 21 - Café
 
 
+
+
 **Råtthjälpen**
 
     123 287 30 57
+
+
 
 
 **Råå Byalag**
@@ -38005,9 +52524,13 @@ Nummer: 12773
     123 521 99 93
 
 
+
+
 **Råå IF**
 
     123 430 95 63
+
+
 
 
 **Råå-Åns Fiskevårdsområdesförening Anno ÅR 2000**
@@ -38015,9 +52538,13 @@ Nummer: 12773
     123 249 34 84
 
 
+
+
 **Råådalens Brukshundsklubb**
 
     123 629 11 65
+
+
 
 
 **Rö IK**
@@ -38025,14 +52552,20 @@ Nummer: 12773
     123 230 42 44 - Herrar
 
 
+
+
 **Rödde Ranch, Timotej & Andersen / Rödde Natur & Livskvalite AB**
 
     123 140 84 75
 
 
+
+
 **Rödeby Brukshundklubb**
 
     123 545 66 37
+
+
 
 
 **Rödeby CK - Motorcykel och Snöskoter**
@@ -38044,6 +52577,8 @@ Nummer: 12773
     123 545 86 90 - Träningsavgifter
 
 
+
+
 **Rödeby Församling**
 
     123 086 93 13 - Kollekt
@@ -38051,9 +52586,13 @@ Nummer: 12773
     123 539 17 50
 
 
+
+
 **Rödsle BK**
 
     123 532 68 22
+
+
 
 
 **Rödöns Jaktskytteklubb**
@@ -38061,9 +52600,13 @@ Nummer: 12773
     123 483 82 56
 
 
+
+
 **Rödöns SK**
 
     123 452 23 48
+
+
 
 
 **Rökåbygdens Byaförening**
@@ -38071,14 +52614,20 @@ Nummer: 12773
     123 414 94 64
 
 
+
+
 **Rönneberga Bygdegårdsförening**
 
     123 202 53 36
 
 
+
+
 **Rönnebergs Härads Hembygdsförening**
 
     123 499 32 00
+
+
 
 
 **Rönnskär Railcare IF**
@@ -38088,14 +52637,20 @@ Nummer: 12773
     123 228 37 11
 
 
+
+
 **Rönnäs Bystugeförening**
 
     123 476 24 23
 
 
+
+
 **Rönås Byakrog AB**
 
     123 533 19 13
+
+
 
 
 **Rönö Bygdeförening**
@@ -38105,9 +52660,13 @@ Nummer: 12773
     123 239 65 05
 
 
+
+
 **Rönö Församling**
 
     123 467 63 75
+
+
 
 
 **Röra Församling**
@@ -38115,9 +52674,13 @@ Nummer: 12773
     123 494 48 56
 
 
+
+
 **Rörbäcksnäs IS**
 
     123 417 05 93
+
+
 
 
 **Rörs Bygdegårdsförening**
@@ -38125,9 +52688,13 @@ Nummer: 12773
     123 618 55 65
 
 
+
+
 **Rörviks SS - Segling**
 
     123 085 13 86
+
+
 
 
 **Röste Bygdegårdsförening**
@@ -38135,9 +52702,13 @@ Nummer: 12773
     123 086 69 39
 
 
+
+
 **Rötvikens Byalag**
 
     123 199 99 37
+
+
 
 
 
@@ -38149,9 +52720,13 @@ Nummer: 12773
     123 388 07 62
 
 
+
+
 **Sáminuorra**
 
     123 099 74 45
+
+
 
 
 **S Pigga Motionärer IF**
@@ -38159,9 +52734,13 @@ Nummer: 12773
     123 630 80 01
 
 
+
+
 **S/S Boxholm II, Ångbåtens Vänner**
 
     123 566 00 55
+
+
 
 
 **S:t Afrems Kyrka / Syrianska Fastighetsbolag Handelsbolag**
@@ -38169,9 +52748,13 @@ Nummer: 12773
     123 314 57 03
 
 
+
+
 **S:t Eskils Skyttar**
 
     123 326 50 71
+
+
 
 
 **S:t Franciskus Katolska Församling**
@@ -38179,9 +52762,13 @@ Nummer: 12773
     123 050 94 48
 
 
+
+
 **S:t Helena BK**
 
     123 018 30 95
+
+
 
 
 **S:t Johannes Församling**
@@ -38189,9 +52776,13 @@ Nummer: 12773
     123 555 74 83
 
 
+
+
 **S:t Johannes Syrisk Ortodoxa Kyrka**
 
     123 124 75 84
+
+
 
 
 **S:t Konrads Katolska Församling**
@@ -38199,9 +52790,13 @@ Nummer: 12773
     123 263 00 77
 
 
+
+
 **S:t Lars Församling**
 
     123 410 58 13
+
+
 
 
 **S:t Lukas Bromma**
@@ -38209,9 +52804,13 @@ Nummer: 12773
     123 256 56 87
 
 
+
+
 **S:t Lukas i Västerås**
 
     123 019 54 95
+
+
 
 
 **S:t Lukas Järfälla**
@@ -38219,9 +52818,13 @@ Nummer: 12773
     123 103 82 07
 
 
+
+
 **S:t Lukas Uppsala**
 
     123 175 67 17
+
+
 
 
 **S:t Månslyckans koloniområde**
@@ -38229,9 +52832,13 @@ Nummer: 12773
     123 663 83 08
 
 
+
+
 **S:t Nikolai Katolska Församling**
 
     123 075 23 03
+
+
 
 
 **S:t Olofs IF**
@@ -38239,9 +52846,13 @@ Nummer: 12773
     123 069 05 86
 
 
+
+
 **S:t Olofs Scoutkår**
 
     123 266 74 18
+
+
 
 
 **S:t Pauli Katolska Församling**
@@ -38249,9 +52860,13 @@ Nummer: 12773
     123 561 10 82
 
 
+
+
 **S:t Peters Församling**
 
     123 390 86 88
+
+
 
 
 **S.t. Petrus och Paulos Syrisk Ortodoxa Kyrka**
@@ -38259,9 +52874,13 @@ Nummer: 12773
     123 626 77 69
 
 
+
+
 **S:t Petrus Syrisk Ortodoxa kyrkan i Sundbyberg**
 
     123 147 35 29
+
+
 
 
 **S:t Sigfrids Byahus**
@@ -38269,9 +52888,13 @@ Nummer: 12773
     123 079 98 66
 
 
+
+
 **S:t Sigfrids IF**
 
     123 029 48 35
+
+
 
 
 **S:t Stefanus Koinonia**
@@ -38279,9 +52902,13 @@ Nummer: 12773
     123 037 58 99
 
 
+
+
 **S:t Örjans Scoutkår**
 
     123 151 08 41
+
+
 
 
 **S:ta Eugenia Katolska Församling**
@@ -38289,9 +52916,13 @@ Nummer: 12773
     123 639 44 15
 
 
+
+
 **S:ta Maria Syrisk Ortodoxa Kyrkan i Göteborg**
 
     123 099 12 73
+
+
 
 
 **S:ta Marias Syrisk Ortodoxa Kyrka / Azech Syrianska Föreningen**
@@ -38299,9 +52930,13 @@ Nummer: 12773
     123 244 10 79
 
 
+
+
 **Saab:s Konstförening**
 
     123 159 81 76
+
+
 
 
 **Saab Tjänstemannapensionärer i Linköping**
@@ -38309,9 +52944,13 @@ Nummer: 12773
     123 579 61 80
 
 
+
+
 **Saab Turbo Club of Sweden**
 
     123 219 92 30
+
+
 
 
 **Sackeuskyrkan / Evangelisk luthersk församling Umeå**
@@ -38319,9 +52958,13 @@ Nummer: 12773
     123 521 76 90
 
 
+
+
 **Sacred Spine Yoga Therapy / Petra Kalla**
 
     123 529 47 56
+
+
 
 
 **Sadelmakarna i Stockholm AB**
@@ -38329,9 +52972,13 @@ Nummer: 12773
     123 570 36 57
 
 
+
+
 **SAgiK Växjö**
 
     123 634 71 40
+
+
 
 
 **Sail Training Association of Sweden, STAS**
@@ -38339,9 +52986,13 @@ Nummer: 12773
     123 091 07 52
 
 
+
+
 **Sakura Blomsterhandel AB**
 
     123 062 75 62
+
+
 
 
 **Sala Basket**
@@ -38349,9 +53000,13 @@ Nummer: 12773
     123 259 45 47
 
 
+
+
 **Sala Brukshundklubb**
 
     123 615 86 20
+
+
 
 
 **Sala Cykelklubb**
@@ -38359,9 +53014,13 @@ Nummer: 12773
     123 202 23 58
 
 
+
+
 **Sala-Heby Fotboll**
 
     123 131 03 09
+
+
 
 
 **Sala Konstförening - Aguelimuseet**
@@ -38369,9 +53028,13 @@ Nummer: 12773
     123 321 82 45
 
 
+
+
 **Sala MSK - Motorcykel och Snöskoter**
 
     123 271 03 58
+
+
 
 
 **Sala-Norrby-Möklinta Pastorat**
@@ -38383,9 +53046,13 @@ Nummer: 12773
     123 495 61 40 - Kollekt
 
 
+
+
 **Sala OK**
 
     123 213 49 89
+
+
 
 
 **Sala Simsällskap**
@@ -38393,9 +53060,13 @@ Nummer: 12773
     123 226 62 11
 
 
+
+
 **Sala Skyttegille**
 
     123 588 05 21
+
+
 
 
 **Salemförsamlingen Mullhyttan**
@@ -38403,9 +53074,13 @@ Nummer: 12773
     123 395 29 00
 
 
+
+
 **Salemgymnasterna**
 
     123 307 55 95
+
+
 
 
 **Saljesällskapet**
@@ -38413,9 +53088,13 @@ Nummer: 12773
     123 321 86 90
 
 
+
+
 **Salmi & Partners**
 
     123 156 69 00
+
+
 
 
 **Salsa Sabrosa Dansskola**
@@ -38423,9 +53102,13 @@ Nummer: 12773
     123 217 98 02
 
 
+
+
 **Salsakurs.se, Firma Rocio / Guillermo Gutierrez Relé**
 
     123 356 35 74
+
+
 
 
 **Salsåker-Ullångers IF**
@@ -38433,9 +53116,13 @@ Nummer: 12773
     123 607 24 74
 
 
+
+
 **Salt i Södertälje**
 
     123 471 17 92
+
+
 
 
 **Salt Sydsverige**
@@ -38443,9 +53130,13 @@ Nummer: 12773
     123 354 77 91
 
 
+
+
 **Saltsjö-Duvnäs Tennisklubb, SDTK**
 
     123 103 06 42
+
+
 
 
 **Saltsjöbaden CK**
@@ -38453,9 +53144,13 @@ Nummer: 12773
     123 693 67 02
 
 
+
+
 **Saltsjöbadens Båtklubb**
 
     123 298 00 35
+
+
 
 
 **Saltsjöbadens Diakonikrets**
@@ -38463,9 +53158,13 @@ Nummer: 12773
     123 036 81 26
 
 
+
+
 **Saltsjöbadens Hembygdsförening**
 
     123 005 23 32
+
+
 
 
 **Saltvattensguiden.se Ideell Förening**
@@ -38473,9 +53172,13 @@ Nummer: 12773
     123 268 41 16
 
 
+
+
 **Saltö-Ekholmens Trädgårdsförening & Intresseförening**
 
     123 651 08 38
+
+
 
 
 **SAM-hjälp**
@@ -38483,9 +53186,13 @@ Nummer: 12773
     123 900 34 19
 
 
+
+
 **SAM:s Insamlingsstiftelse**
 
     123 900 08 45
+
+
 
 
 **SAMA Yoga AB**
@@ -38493,9 +53200,13 @@ Nummer: 12773
     123 021 40 64
 
 
+
+
 **Samarbetsrådet för Judar och Kristna**
 
     123 444 98 72
+
+
 
 
 **Sambandscentralen IFÖ Center**
@@ -38505,9 +53216,13 @@ Nummer: 12773
     123 345 75 95
 
 
+
+
 **Sambruket i Sösdalabygden**
 
     123 578 88 72
+
+
 
 
 **Samepartiet Skogssamerna**
@@ -38515,9 +53230,13 @@ Nummer: 12773
     123 348 74 69
 
 
+
+
 **Sameslöjdstiftelsen Sámi Duodji**
 
     123 154 39 74
+
+
 
 
 **Samfälligheten i Årsta Havsbad**
@@ -38525,9 +53244,13 @@ Nummer: 12773
     123 185 61 86
 
 
+
+
 **Samfällighetsföreningen Spoven**
 
     123 506 84 24
+
+
 
 
 **Samiska föreningen i Uppsala**
@@ -38535,9 +53258,13 @@ Nummer: 12773
     123 382 09 58
 
 
+
+
 **Sammakko Fritids och Skoterförening**
 
     123 259 22 85
+
+
 
 
 **Sammakko-Lillbergets Hembygdsförening**
@@ -38545,9 +53272,13 @@ Nummer: 12773
     123 127 73 83
 
 
+
+
 **Samtal i Trosa / Erik Karlberg AB**
 
     123 600 90 93
+
+
 
 
 **Samtal i Trosa / Finkontoret Sverige AB**
@@ -38555,9 +53286,13 @@ Nummer: 12773
     123 660 90 93
 
 
+
+
 **Samuelsdal Golfklubb**
 
     123 677 39 49
+
+
 
 
 **Samuelsson & Partner AB**
@@ -38565,9 +53300,13 @@ Nummer: 12773
     123 288 16 62
 
 
+
+
 **Samverkarna i Östernärke**
 
     123 574 84 21
+
+
 
 
 **Sanct Botvids Scoutkår**
@@ -38577,9 +53316,13 @@ Nummer: 12773
     123 550 45 92
 
 
+
+
 **Sanda Hembygdsförening**
 
     123 671 35 72
+
+
 
 
 **Sandareds IF**
@@ -38589,9 +53332,13 @@ Nummer: 12773
     123 355 16 52
 
 
+
+
 **Sandareds Scoutkår**
 
     123 365 87 39
+
+
 
 
 **Sandbergs Goaltending AB**
@@ -38599,9 +53346,13 @@ Nummer: 12773
     123 680 77 70
 
 
+
+
 **Sandby-Gårdby Hembygdsförening**
 
     123 502 45 34
+
+
 
 
 **Sanden Ryttarsällskap**
@@ -38609,9 +53360,13 @@ Nummer: 12773
     123 425 68 63
 
 
+
+
 **Sandhems Framtidsförening**
 
     123 077 68 56
+
+
 
 
 **Sandhems IF**
@@ -38621,9 +53376,13 @@ Nummer: 12773
     123 570 46 89
 
 
+
+
 **Sandhults Hembygdsförening**
 
     123 229 96 67
+
+
 
 
 **Sandhults SK**
@@ -38631,9 +53390,13 @@ Nummer: 12773
     123 264 82 36
 
 
+
+
 **Sandsbro AIK**
 
     123 671 35 23
+
+
 
 
 **Sandviken Budo & Kampsportklubb, SBKK**
@@ -38641,14 +53404,20 @@ Nummer: 12773
     123 080 01 28
 
 
+
+
 **Sandvikens AIK/BK, SAIK**
 
     123 214 80 39
 
 
+
+
 **Sandvikens AIK/BK, SAIK Bandy**
 
     123 657 03 37
+
+
 
 
 **Sandvikens AIK FK**
@@ -38660,9 +53429,13 @@ Nummer: 12773
     123 634 40 05 - SAIK Lotten
 
 
+
+
 **Sandvikens AIK Innebandy**
 
     123 579 06 54
+
+
 
 
 **Sandvikens Basketbollklubb**
@@ -38670,9 +53443,13 @@ Nummer: 12773
     123 488 73 78
 
 
+
+
 **Sandvikens Brottarklubb**
 
     123 527 95 00
+
+
 
 
 **Sandvikens IF**
@@ -38680,9 +53457,13 @@ Nummer: 12773
     123 464 19 08
 
 
+
+
 **Sandvikens JSK**
 
     123 670 01 24
+
+
 
 
 **Sandvikens Kammarmusikförening**
@@ -38690,9 +53471,13 @@ Nummer: 12773
     123 084 67 33
 
 
+
+
 **Sandvikens Padel Förening**
 
     123 317 87 04
+
+
 
 
 **Sandvikens Pistolskytteklubb**
@@ -38700,9 +53485,13 @@ Nummer: 12773
     123 674 10 86
 
 
+
+
 **Sandvikens skyttegille**
 
     123 257 99 10
+
+
 
 
 **Sandvikens Ungdomsskytteförening**
@@ -38710,9 +53499,13 @@ Nummer: 12773
     123 665 97 83
 
 
+
+
 **Sandvikens Östra Stugägareförening**
 
     123 292 07 75
+
+
 
 
 **Sandvikensupporters**
@@ -38722,9 +53515,13 @@ Nummer: 12773
     123 667 26 53
 
 
+
+
 **Sandviks Byalag**
 
     123 494 09 79
+
+
 
 
 **Sandviks IK**
@@ -38738,9 +53535,13 @@ Nummer: 12773
     123 453 74 94 - Bingolotto
 
 
+
+
 **Sankt Ansgar**
 
     123 267 05 52
+
+
 
 
 **Sankt Botvids Katolska Församling**
@@ -38748,9 +53549,13 @@ Nummer: 12773
     123 100 08 50
 
 
+
+
 **Sankt Eriks Gille Roslagsbro**
 
     123 619 04 82
+
+
 
 
 **Sankt Josef Arbetarens Katolska Församling**
@@ -38758,9 +53563,13 @@ Nummer: 12773
     123 413 63 05
 
 
+
+
 **Sankt Markus i Linköping**
 
     123 459 98 17
+
+
 
 
 **Sankt Matteus Församling**
@@ -38768,9 +53577,13 @@ Nummer: 12773
     123 647 01 24
 
 
+
+
 **Sankt Peters klosters Församling**
 
     123 269 79 36
+
+
 
 
 **Sankt Staffans Kapell Älvåsen**
@@ -38778,9 +53591,13 @@ Nummer: 12773
     123 030 50 11
 
 
+
+
 **Sannadals Sportklubb**
 
     123 673 46 93
+
+
 
 
 **Sannas Yoga / Sanna Hagman Communication AB**
@@ -38788,9 +53605,13 @@ Nummer: 12773
     123 491 44 53
 
 
+
+
 **Sanne Bygdegård**
 
     123 417 32 90
+
+
 
 
 **Sannerudskyrkan**
@@ -38798,9 +53619,13 @@ Nummer: 12773
     123 459 52 78
 
 
+
+
 **Sannex Orkester AB**
 
     123 072 00 37
+
+
 
 
 **Sans & Balans**
@@ -38808,9 +53633,13 @@ Nummer: 12773
     123 499 77 97
 
 
+
+
 **Sanshi Budo & Kampcenter IF**
 
     123 130 00 94
+
+
 
 
 **Sara Danius Minnesfond**
@@ -38818,14 +53647,20 @@ Nummer: 12773
     123 688 38 39
 
 
+
+
 **Sara Lidman-sällskapet**
 
     123 240 75 42
 
 
+
+
 **Saran Yoga AB**
 
     123 354 88 07
+
+
 
 
 **Sarkomföreningen**
@@ -38835,9 +53670,13 @@ Nummer: 12773
     123 184 91 81
 
 
+
+
 **Saronförsamlingen i Göteborg**
 
     123 664 09 99
+
+
 
 
 **Saronförsamlingen Näsviken**
@@ -38845,14 +53684,20 @@ Nummer: 12773
     123 520 88 48
 
 
+
+
 **Saronhuset i Uddevalla**
 
     123 222 69 34
 
 
+
+
 **SAU-Föreningen i Ölmstad**
 
     123 467 38 51
+
+
 
 
 **Save the Orangutan**
@@ -38862,9 +53707,13 @@ Nummer: 12773
     123 900 14 21
 
 
+
+
 **Saxemara IF**
 
     123 115 87 65
+
+
 
 
 **Saxå Golfklubb**
@@ -38872,9 +53721,13 @@ Nummer: 12773
     123 603 88 30
 
 
+
+
 **SCA Network**
 
     123 130 59 37
+
+
 
 
 **Scandinavian Human Rights Lawyers**
@@ -38884,9 +53737,13 @@ Nummer: 12773
     123 332 75 41
 
 
+
+
 **Scandinavian Safe**
 
     123 519 64 23
+
+
 
 
 **Scandinavian Vocal Academy / Kulturfiluren HB**
@@ -38894,9 +53751,13 @@ Nummer: 12773
     123 144 81 09
 
 
+
+
 **Scandinavian Wilderness Experience AB**
 
     123 102 25 08
+
+
 
 
 **SCB-Seniorerna i Örebro**
@@ -38904,9 +53765,13 @@ Nummer: 12773
     123 626 85 44
 
 
+
+
 **Schack 08**
 
     123 608 33 56
+
+
 
 
 **Schacksällskapet Manhem**
@@ -38914,9 +53779,13 @@ Nummer: 12773
     123 358 27 07
 
 
+
+
 **Schedvinska Ättens Släktförening**
 
     123 624 41 72
+
+
 
 
 **Schizofreniförbundet, Intresseförbundet för personer med schizofreni och liknande psykoser**
@@ -38924,9 +53793,13 @@ Nummer: 12773
     123 900 72 79
 
 
+
+
 **Scouterna**
 
     123 900 52 24
+
+
 
 
 **Scoutkåren Engelbrekt**
@@ -38934,9 +53807,13 @@ Nummer: 12773
     123 414 96 96
 
 
+
+
 **Scoutkåren Finn**
 
     123 275 34 40
+
+
 
 
 **Scoutkåren Tor**
@@ -38944,9 +53821,13 @@ Nummer: 12773
     123 137 66 15
 
 
+
+
 **Scoutkåren Tornugglan**
 
     123 664 99 66
+
+
 
 
 **Scoutkåren Vikingarna**
@@ -38954,9 +53835,13 @@ Nummer: 12773
     123 153 04 92
 
 
+
+
 **Scoutkåren Vikingen Ekeby**
 
     123 563 77 15
+
+
 
 
 **Scrapdraken**
@@ -38964,9 +53849,13 @@ Nummer: 12773
     123 236 09 98
 
 
+
+
 **Scuba Travel Scandinavia AB**
 
     123 232 79 06
+
+
 
 
 **SDK Isbjörnarna**
@@ -38974,9 +53863,13 @@ Nummer: 12773
     123 674 42 21
 
 
+
+
 **Sea Shepherd Scandinavia**
 
     123 007 94 26
+
+
 
 
 **Seahorse.nu / Stuteri Light IT AB**
@@ -38984,9 +53877,13 @@ Nummer: 12773
     123 695 98 37
 
 
+
+
 **Seasick AB**
 
     123 672 87 37
+
+
 
 
 **Sebastian C Hansson AB**
@@ -38994,9 +53891,13 @@ Nummer: 12773
     123 013 55 25
 
 
+
+
 **SECNET - Samlingsplatsen för Sveriges säkerhetsproffs**
 
     123 518 86 02
+
+
 
 
 **Segelsällskapet Aros**
@@ -39004,9 +53905,13 @@ Nummer: 12773
     123 303 75 87
 
 
+
+
 **Segelsällskapet FRAM**
 
     123 132 34 35
+
+
 
 
 **Segelsällskapet Sjöhästen**
@@ -39014,9 +53919,13 @@ Nummer: 12773
     123 255 87 16
 
 
+
+
 **Segelsällskapet Slören**
 
     123 158 19 58
+
+
 
 
 **Segelsällskapet Åmålsviken, SSAV**
@@ -39024,9 +53933,13 @@ Nummer: 12773
     123 389 92 26
 
 
+
+
 **Segersta Hembygdsförening**
 
     123 258 82 00
+
+
 
 
 **Segerstads Hembygsförening**
@@ -39034,9 +53947,13 @@ Nummer: 12773
     123 401 12 01
 
 
+
+
 **Sekelskiftesdagarna i Marstrand ideella förening**
 
     123 632 86 29
+
+
 
 
 **Sektion 84**
@@ -39044,9 +53961,13 @@ Nummer: 12773
     123 467 76 54
 
 
+
+
 **Selma Lagerlöf-sällskapet**
 
     123 441 70 36
+
+
 
 
 **Selånger SK Bandy**
@@ -39054,9 +53975,13 @@ Nummer: 12773
     123 351 77 60
 
 
+
+
 **Selångers Hembygdsförening**
 
     123 291 81 59
+
+
 
 
 **Semente Cultural Productions**
@@ -39064,9 +53989,13 @@ Nummer: 12773
     123 348 09 36
 
 
+
+
 **SeniorNet Botkyrka**
 
     123 075 33 92
+
+
 
 
 **SeniorNet Göteborg**
@@ -39074,9 +54003,13 @@ Nummer: 12773
     123 641 71 41
 
 
+
+
 **Senioruniversitetet Hudiksvall**
 
     123 165 63 62
+
+
 
 
 **Senorens Missionshus**
@@ -39084,9 +54017,13 @@ Nummer: 12773
     123 552 69 00
 
 
+
+
 **Sepsisfonden Insamlingsstiftelse**
 
     123 900 52 65
+
+
 
 
 **Sergel Kredittjänster AB**
@@ -39094,9 +54031,13 @@ Nummer: 12773
     123 214 87 65
 
 
+
+
 **Seriesam AB**
 
     123 125 14 12
+
+
 
 
 **Serik Fans**
@@ -39104,9 +54045,13 @@ Nummer: 12773
     123 339 85 34
 
 
+
+
 **Servas Sverige**
 
     123 223 42 01
+
+
 
 
 **Seskarö Hembygdsförening**
@@ -39114,9 +54059,13 @@ Nummer: 12773
     123 081 53 24
 
 
+
+
 **Seskarö IF Orientering**
 
     123 335 56 58
+
+
 
 
 **Settings - Normkreativa möjligheter**
@@ -39124,9 +54073,13 @@ Nummer: 12773
     123 688 37 63
 
 
+
+
 **SETU Sverige Foundation**
 
     123 643 03 83
+
+
 
 
 **Sevalla Bygdegårdsförening**
@@ -39134,9 +54087,13 @@ Nummer: 12773
     123 331 04 22
 
 
+
+
 **Seven Star AB**
 
     123 097 48 73
+
+
 
 
 **Sexdrega Hembygdsförening**
@@ -39144,9 +54101,13 @@ Nummer: 12773
     123 015 88 24
 
 
+
+
 **SFK Härvan**
 
     123 250 07 26
+
+
 
 
 **SFK Storfiskarna**
@@ -39154,9 +54115,13 @@ Nummer: 12773
     123 664 90 73
 
 
+
+
 **Shanta Idrottsförening**
 
     123 338 75 03
+
+
 
 
 **ShareMusic & Performing Arts insamlingsstiftelse**
@@ -39164,9 +54129,13 @@ Nummer: 12773
     123 198 17 03
 
 
+
+
 **She Rides**
 
     123 072 47 08
+
+
 
 
 **SHEDO - Self Harm and Eating Disorder Organisation**
@@ -39174,9 +54143,13 @@ Nummer: 12773
     123 222 29 66
 
 
+
+
 **Shelterbox Sverige**
 
     123 319 91 14
+
+
 
 
 **Shelterbox Sverige Ideell förening**
@@ -39184,9 +54157,13 @@ Nummer: 12773
     123 900 54 30
 
 
+
+
 **Ship to Gaza Sverige**
 
     123 658 16 80
+
+
 
 
 **Shoe4Africa Sweden**
@@ -39194,9 +54171,13 @@ Nummer: 12773
     123 320 54 99
 
 
+
+
 **Shogun Shitoryu-Shukokai Karateklubb**
 
     123 623 44 47
+
+
 
 
 **SHRA Luleå**
@@ -39204,9 +54185,13 @@ Nummer: 12773
     123 594 71 63
 
 
+
+
 **Shuren Aikido Malmö Klubb**
 
     123 665 21 50
+
+
 
 
 **Sibbarps Bastuvänner**
@@ -39214,9 +54199,13 @@ Nummer: 12773
     123 053 36 20
 
 
+
+
 **Sibräcka Bygdegård**
 
     123 219 49 83
+
+
 
 
 **Sidensjö Församling**
@@ -39224,9 +54213,13 @@ Nummer: 12773
     123 212 80 07 - Kollekt
 
 
+
+
 **Sidensjö Hembygdsförening**
 
     123 217 85 56
+
+
 
 
 **SIF Norrtelje**
@@ -39234,9 +54227,13 @@ Nummer: 12773
     123 409 02 47
 
 
+
+
 **Sig Security**
 
     123 396 86 66
+
+
 
 
 **Sigfrids - Bageri, Bistro & Bar AB**
@@ -39244,9 +54241,13 @@ Nummer: 12773
     123 124 13 06
 
 
+
+
 **Siggaruds Bygdegårdsförening**
 
     123 516 44 88
+
+
 
 
 **Sigge Cykel**
@@ -39254,9 +54255,13 @@ Nummer: 12773
     123 088 67 13
 
 
+
+
 **Sigge Cykelklubb**
 
     123 167 03 30
+
+
 
 
 **Sigtuna Basket**
@@ -39264,9 +54269,13 @@ Nummer: 12773
     123 484 94 36
 
 
+
+
 **Sigtuna Budoklubb**
 
     123 063 59 53
+
+
 
 
 **Sigtuna Båtklubb, SiBK**
@@ -39274,9 +54283,13 @@ Nummer: 12773
     123 489 76 25
 
 
+
+
 **Sigtuna IF Fotboll**
 
     123 221 89 80
+
+
 
 
 **Sigtuna IF Innebandy**
@@ -39284,9 +54297,13 @@ Nummer: 12773
     123 395 21 24
 
 
+
+
 **Sigtuna Orienteringsklubb**
 
     123 467 41 15
+
+
 
 
 **Sigtuna SK**
@@ -39294,9 +54311,13 @@ Nummer: 12773
     123 012 06 18
 
 
+
+
 **Sigtuna Sportsclub**
 
     123 226 12 53
+
+
 
 
 **Sigtunabygdens Ryttarförening**
@@ -39306,9 +54327,13 @@ Nummer: 12773
     123 308 61 70 - Medlemsavgift
 
 
+
+
 **Sigur Islandshästförening - Islandshäst**
 
     123 503 60 82
+
+
 
 
 **Sigvard och Marianne Bernadottes Forskningsstiftelse för Barnögonvård**
@@ -39316,9 +54341,13 @@ Nummer: 12773
     123 408 82 82
 
 
+
+
 **Sikeå Båtklubb**
 
     123 503 71 22
+
+
 
 
 **Sikeå SK Handboll**
@@ -39326,9 +54355,13 @@ Nummer: 12773
     123 458 63 50
 
 
+
+
 **Siknäs Fiskevårdsförening**
 
     123 442 59 55
+
+
 
 
 **Siknäs Framtid**
@@ -39336,9 +54369,13 @@ Nummer: 12773
     123 503 93 42
 
 
+
+
 **Silf Competence AB**
 
     123 140 65 78
+
+
 
 
 **Siljansnäs Hembygdsförening**
@@ -39346,9 +54383,13 @@ Nummer: 12773
     123 512 71 62
 
 
+
+
 **Sillastrybarna**
 
     123 100 69 23
+
+
 
 
 **Silleruds Båtsällskap IDUN**
@@ -39356,9 +54397,13 @@ Nummer: 12773
     123 141 46 06
 
 
+
+
 **Sils IF**
 
     123 696 33 83
+
+
 
 
 **Silverdalens Evangelisk Lutherska Församling**
@@ -39366,9 +54411,13 @@ Nummer: 12773
     123 024 05 98
 
 
+
+
 **Silverforsen Folkets Park / Folkets Park i Kjeflinge**
 
     123 097 32 63
+
+
 
 
 **Silvköparens Vattenskidklubb**
@@ -39376,9 +54425,13 @@ Nummer: 12773
     123 356 98 94
 
 
+
+
 **Silyns Massage o Fotvård**
 
     123 015 47 24
+
+
 
 
 **Simklubben 1970, SK70**
@@ -39386,9 +54439,13 @@ Nummer: 12773
     123 438 32 12
 
 
+
+
 **Simklubben ENA**
 
     123 288 41 61
+
+
 
 
 **Simklubben Nereus**
@@ -39396,9 +54453,13 @@ Nummer: 12773
     123 045 83 49
 
 
+
+
 **Simklubben Ran**
 
     123 232 73 10
+
+
 
 
 **Simklubben S02**
@@ -39406,9 +54467,13 @@ Nummer: 12773
     123 050 94 63
 
 
+
+
 **Simklubben Triton**
 
     123 083 50 25
+
+
 
 
 **Simklubben Vänersborg**
@@ -39416,9 +54481,13 @@ Nummer: 12773
     123 146 16 31
 
 
+
+
 **Simklubben Ägir**
 
     123 280 08 37
+
+
 
 
 **Simon Advokatbyrå AB**
@@ -39426,9 +54495,13 @@ Nummer: 12773
     123 674 17 89
 
 
+
+
 **Simon Ådahls Evangelisationsfond**
 
     123 422 94 72
+
+
 
 
 **Simrishamns AIF**
@@ -39436,9 +54509,13 @@ Nummer: 12773
     123 202 50 39
 
 
+
+
 **Simrishamns Brukshundklubb**
 
     123 422 53 14
+
+
 
 
 **Singö Bygdegårdsförening**
@@ -39446,9 +54523,13 @@ Nummer: 12773
     123 526 62 00
 
 
+
+
 **Sionförsamlingen i Hallstavik**
 
     123 379 11 83
+
+
 
 
 **Sionförsamlingen i Linköping**
@@ -39456,9 +54537,13 @@ Nummer: 12773
     123 570 41 68
 
 
+
+
 **Sipples Patientförening - Patienter med MEN 2A**
 
     123 360 06 99
+
+
 
 
 **Siretorp-Mörby Bygdegårdsförening**
@@ -39466,9 +54551,13 @@ Nummer: 12773
     123 123 98 54
 
 
+
+
 **Sisam Kult / Sisam-Sandarne i Samverkan**
 
     123 290 42 74
+
+
 
 
 **Sisters International**
@@ -39476,9 +54565,13 @@ Nummer: 12773
     123 394 32 30
 
 
+
+
 **Sisu Forshaga SK**
 
     123 311 34 04
+
+
 
 
 **Situation Baltikum**
@@ -39486,9 +54579,13 @@ Nummer: 12773
     123 321 84 19
 
 
+
+
 **Situation Stockholm**
 
     123 276 11 04
+
+
 
 
 **Sixtydays AB**
@@ -39496,9 +54593,13 @@ Nummer: 12773
     123 627 14 49
 
 
+
+
 **Sjonhems Hembygdsförening**
 
     123 396 43 84
+
+
 
 
 **Sjuhärads Basketbollförening**
@@ -39506,9 +54607,13 @@ Nummer: 12773
     123 334 04 03
 
 
+
+
 **Sjukvårdspartiet i Värmland**
 
     123 470 02 41
+
+
 
 
 **Sjulnäs Byaförening**
@@ -39518,9 +54623,13 @@ Nummer: 12773
     123 652 57 78
 
 
+
+
 **Sjulsmarks SK**
 
     123 173 21 22
+
+
 
 
 **Sjulsmarks Skoter Och Fiskevårdsförening**
@@ -39532,9 +54641,13 @@ Nummer: 12773
     123 410 56 98 - Nävertjärn
 
 
+
+
 **Sjundedags Adventistsamfundet**
 
     123 419 41 48
+
+
 
 
 **Sjundehimmelen / 33:ans i Malmö Ekonomiska förening**
@@ -39544,9 +54657,13 @@ Nummer: 12773
     123 640 51 79 - Entré
 
 
+
+
 **Sjuntorps IF**
 
     123 161 70 67
+
+
 
 
 **SjälaGott / Kajsa Sjögren**
@@ -39554,9 +54671,13 @@ Nummer: 12773
     123 631 04 94
 
 
+
+
 **Själevads Församling**
 
     123 639 63 60
+
+
 
 
 **Själglans Ideella Förening**
@@ -39564,9 +54685,13 @@ Nummer: 12773
     123 098 06 23
 
 
+
+
 **Sjöbo Golfklubb**
 
     123 311 58 96
+
+
 
 
 **Sjöbo Simsällskap**
@@ -39574,9 +54699,13 @@ Nummer: 12773
     123 122 44 92
 
 
+
+
 **Sjöbohem AB**
 
     123 326 36 96
+
+
 
 
 **Sjökaptensgården Bed & Breakfast / Marie Johansson**
@@ -39584,9 +54713,13 @@ Nummer: 12773
     123 042 27 09
 
 
+
+
 **Sjölin & Lantz AB**
 
     123 532 58 24
+
+
 
 
 **Sjömarkens IF**
@@ -39596,9 +54729,13 @@ Nummer: 12773
     123 452 41 20
 
 
+
+
 **Sjörup-Vallösa Byalag**
 
     123 653 23 11
+
+
 
 
 **Sjösa IF**
@@ -39606,14 +54743,20 @@ Nummer: 12773
     123 245 20 43
 
 
+
+
 **Sjöscoutkåren af Chapman**
 
     123 075 29 31
 
 
+
+
 **Sjöscoutkåren Drakarna**
 
     123 545 94 90
+
+
 
 
 **Sjöscoutkåren S:t Göran**
@@ -39623,9 +54766,13 @@ Nummer: 12773
     123 214 59 77
 
 
+
+
 **Sjösportskolan Swedish Maritime Academy AB**
 
     123 120 31 32
+
+
 
 
 **Sjöstadens Hembygdsförening**
@@ -39633,9 +54780,13 @@ Nummer: 12773
     123 267 16 42
 
 
+
+
 **Sjösås, Drev-Hornaryds Hembygdsförening**
 
     123 576 51 51
+
+
 
 
 **Sjövalladoktorn / Sjövalla Klint Health Care AB**
@@ -39643,9 +54794,13 @@ Nummer: 12773
     123 261 85 85
 
 
+
+
 **Sjövikens Båtklubb**
 
     123 011 32 25
+
+
 
 
 **Sjöviks Missionsförsamling**
@@ -39653,9 +54808,13 @@ Nummer: 12773
     123 160 60 94
 
 
+
+
 **SK4KO - Siljanbygdens Sändareamatörer - 7S4VL**
 
     123 165 01 42
+
+
 
 
 **SK GavleSkäret**
@@ -39663,14 +54822,20 @@ Nummer: 12773
     123 490 24 66
 
 
+
+
 **SK Granan**
 
     123 588 42 67
 
 
+
+
 **SK Iron**
 
     123 566 47 68
+
+
 
 
 **SK Lejon Skellefteå**
@@ -39684,9 +54849,13 @@ Nummer: 12773
     123 663 13 03 - J20
 
 
+
+
 **SK Mjörn**
 
     123 147 65 71
+
+
 
 
 **SK Neptun**
@@ -39694,9 +54863,13 @@ Nummer: 12773
     123 572 93 22
 
 
+
+
 **SK Rockaden**
 
     123 131 82 52
+
+
 
 
 **SK Stimmet - Simidrott**
@@ -39704,9 +54877,13 @@ Nummer: 12773
     123 470 29 08
 
 
+
+
 **SK Täby Synchro**
 
     123 343 16 57
+
+
 
 
 **SK Vide**
@@ -39718,9 +54895,13 @@ Nummer: 12773
     123 647 16 19 - Kings
 
 
+
+
 **Skabersjö IF**
 
     123 401 79 35
+
+
 
 
 **Skaftö Ridklubb**
@@ -39728,9 +54909,13 @@ Nummer: 12773
     123 596 54 13
 
 
+
+
 **Skalets IF**
 
     123 253 28 02
+
+
 
 
 **Skallsjö Församling**
@@ -39738,9 +54923,13 @@ Nummer: 12773
     123 350 81 99
 
 
+
+
 **Skallsjö Hembygds-och Fornminnesförening**
 
     123 370 77 83
+
+
 
 
 **Skandinaviska Läkarbanken**
@@ -39748,9 +54937,13 @@ Nummer: 12773
     123 900 84 42
 
 
+
+
 **Skandinaviska Turistkyrkan**
 
     123 006 43 37
+
+
 
 
 **Skandinaviska WAKF i Sverige**
@@ -39758,9 +54951,13 @@ Nummer: 12773
     123 553 72 79
 
 
+
+
 **Skansens Småstugor & HMJ Service AB**
 
     123 062 31 32
+
+
 
 
 **Skanör-Falsterbo Församling**
@@ -39768,9 +54965,13 @@ Nummer: 12773
     123 616 13 19
 
 
+
+
 **Skanörs Båtklubb**
 
     123 056 30 64
+
+
 
 
 **Skapande Broderi Stockholm**
@@ -39778,9 +54979,13 @@ Nummer: 12773
     123 001 39 79
 
 
+
+
 **Skara Baptistförsamling**
 
     123 032 19 76
+
+
 
 
 **Skara Brukshundsklubb**
@@ -39788,9 +54993,13 @@ Nummer: 12773
     123 041 69 41
 
 
+
+
 **Skara Bågskytteklubb**
 
     123 688 56 10
+
+
 
 
 **Skara Gille**
@@ -39798,11 +55007,15 @@ Nummer: 12773
     123 538 33 02
 
 
+
+
 **Skara Handbollsklubb**
 
     123 538 41 93
 
     123 671 77 48 - Kiosk
+
+
 
 
 **Skara HF**
@@ -39818,9 +55031,13 @@ Nummer: 12773
     123 452 84 28 - U/J lag Damer
 
 
+
+
 **Skara Idrottshistoriska Förening**
 
     123 203 40 80
+
+
 
 
 **Skara Pastorat**
@@ -39828,9 +55045,13 @@ Nummer: 12773
     123 375 55 43 - Orgel Varnhem
 
 
+
+
 **Skara Tennisklubb**
 
     123 377 19 61
+
+
 
 
 **Skaraborgs Biljardklubb**
@@ -39838,9 +55059,13 @@ Nummer: 12773
     123 145 24 65
 
 
+
+
 **Skaraborgs Godman och Förvaltarförening**
 
     123 442 57 08
+
+
 
 
 **Skaraortens Ryttarförening**
@@ -39850,9 +55075,13 @@ Nummer: 12773
     123 497 10 73 - Kiosk
 
 
+
+
 **Skarpnäcks AIK**
 
     123 517 41 72
+
+
 
 
 **Skarv Sthlm / Sofia Sjöqvist**
@@ -39860,9 +55089,13 @@ Nummer: 12773
     123 461 54 49
 
 
+
+
 **Skattkärrs IF**
 
     123 132 38 80
+
+
 
 
 **Skebergs Bygdegård**
@@ -39872,9 +55105,13 @@ Nummer: 12773
     123 350 13 50
 
 
+
+
 **Skede Hembygdsförening**
 
     123 214 58 94
+
+
 
 
 **Skedvi-Säter IF, SSIF**
@@ -39882,9 +55119,13 @@ Nummer: 12773
     123 465 84 80
 
 
+
+
 **Skeldervikens Byalag**
 
     123 374 88 86
+
+
 
 
 **Skelleftebygdens Jujutsuklubb**
@@ -39892,9 +55133,13 @@ Nummer: 12773
     123 176 39 60
 
 
+
+
 **Skellefteå AIK CK**
 
     123 340 97 86
+
+
 
 
 **Skellefteå AIK Hockey**
@@ -39904,9 +55149,13 @@ Nummer: 12773
     123 513 93 32
 
 
+
+
 **Skellefteå Baseboll Softboll Klubb, SBSK**
 
     123 252 78 69
+
+
 
 
 **Skellefteå Brukshundklubb**
@@ -39914,6 +55163,8 @@ Nummer: 12773
     123 059 37 49
 
     123 090 73 03
+
+
 
 
 **Skellefteå CK - Curling**
@@ -39931,9 +55182,13 @@ Nummer: 12773
     123 626 53 42 - Övrigt
 
 
+
+
 **Skellefteå Discgolf, SDG**
 
     123 592 31 15
+
+
 
 
 **Skellefteå Fotoklubb**
@@ -39941,9 +55196,13 @@ Nummer: 12773
     123 346 05 65
 
 
+
+
 **Skellefteå IBS**
 
     123 640 10 20
+
+
 
 
 **Skellefteå Kyokushin Karateklubb**
@@ -39951,9 +55210,13 @@ Nummer: 12773
     123 576 61 18
 
 
+
+
 **Skellefteå Kyrkstads Kammarägarförening**
 
     123 363 22 96
+
+
 
 
 **Skellefteå Makerspace**
@@ -39961,9 +55224,13 @@ Nummer: 12773
     123 420 35 35
 
 
+
+
 **Skellefteå Motorsällskap**
 
     123 213 94 83
+
+
 
 
 **Skellefteå Scoutkår**
@@ -39971,9 +55238,13 @@ Nummer: 12773
     123 513 67 75
 
 
+
+
 **Skellefteå Senioruniversitet**
 
     123 567 36 52
+
+
 
 
 **Skellefteå Skidklubb**
@@ -39981,9 +55252,13 @@ Nummer: 12773
     123 495 78 90
 
 
+
+
 **Skellefteå Tennisklubb**
 
     123 188 45 01
+
+
 
 
 **Skene IF**
@@ -39991,9 +55266,13 @@ Nummer: 12773
     123 461 11 82
 
 
+
+
 **Skene-Örby Hembygdsförening**
 
     123 225 31 02
+
+
 
 
 **Skenshyttans Bygdegårdsförening**
@@ -40001,14 +55280,20 @@ Nummer: 12773
     123 506 75 25
 
 
+
+
 **Skepparslövs Golfklubb**
 
     123 137 47 01
 
 
+
+
 **Skepparslövs IF**
 
     123 018 37 15
+
+
 
 
 **Skepplanda BTK**
@@ -40020,9 +55305,13 @@ Nummer: 12773
     123 687 32 28 - Medlemsavgift
 
 
+
+
 **Skepplanda-Hålanda Församling**
 
     123 085 82 25
+
+
 
 
 **Skepplanda Pastorat**
@@ -40030,9 +55319,13 @@ Nummer: 12773
     123 263 73 95
 
 
+
+
 **Skerike Kyrka**
 
     123 134 25 26 - Kollekt
+
+
 
 
 **Skicka vidare till Ukraina**
@@ -40040,9 +55333,13 @@ Nummer: 12773
     123 233 46 39
 
 
+
+
 **Skifte För Sverige**
 
     123 395 13 81
+
+
 
 
 **Skiljebo SK**
@@ -40060,9 +55357,13 @@ Nummer: 12773
     123 411 59 60 - F-12
 
 
+
+
 **Skillingaryd Attila Brukshundsklubb**
 
     123 568 58 21
+
+
 
 
 **Skillingaryds IK**
@@ -40070,9 +55371,13 @@ Nummer: 12773
     123 533 65 65
 
 
+
+
 **Skillingaryds IS**
 
     123 346 68 02 - P-11/12 Fotboll
+
+
 
 
 **Skillingaryds Jaktvårdsförening**
@@ -40080,9 +55385,13 @@ Nummer: 12773
     123 668 53 17
 
 
+
+
 **Skillingaryds Pistolskytteklubb PSK**
 
     123 130 13 40
+
+
 
 
 **Skillingeudds Intresseförening / Västra Skilling Fritidshusförening**
@@ -40090,9 +55399,13 @@ Nummer: 12773
     123 062 14 41
 
 
+
+
 **Skinnsbergs Atletklubb**
 
     123 595 30 88
+
+
 
 
 **Skipås Byalag**
@@ -40100,9 +55413,13 @@ Nummer: 12773
     123 539 41 76
 
 
+
+
 **Skirö AIK**
 
     123 568 68 78
+
+
 
 
 **Skirö Sockens Bygdeförening, SSBF**
@@ -40110,9 +55427,13 @@ Nummer: 12773
     123 065 60 58
 
 
+
+
 **Skitenkelt AB**
 
     123 329 18 46
+
+
 
 
 **Skivarps Församling**
@@ -40122,9 +55443,13 @@ Nummer: 12773
     123 541 87 51
 
 
+
+
 **Skjutsgruppen**
 
     123 658 26 39
+
+
 
 
 **Skogakyrkan**
@@ -40132,9 +55457,13 @@ Nummer: 12773
     123 249 45 65
 
 
+
+
 **Skogs Hembygds- & Intresseförening**
 
     123 681 41 31
+
+
 
 
 **Skogs Hembygdsförening**
@@ -40142,9 +55471,13 @@ Nummer: 12773
     123 622 29 39
 
 
+
+
 **Skogskvinnorna**
 
     123 570 85 40
+
+
 
 
 **Skogsluffarnas OK**
@@ -40152,9 +55485,13 @@ Nummer: 12773
     123 627 95 66
 
 
+
+
 **Skogslöparna - Orientering**
 
     123 555 73 19
+
+
 
 
 **SkogsMatning, SkåneVandring / Monica Frangeur**
@@ -40162,9 +55499,13 @@ Nummer: 12773
     123 378 01 60
 
 
+
+
 **Skogås HK**
 
     123 017 19 42
+
+
 
 
 **Skoklosters Bygdegårdsförening**
@@ -40172,9 +55513,13 @@ Nummer: 12773
     123 280 09 77
 
 
+
+
 **Skolkyrkan Eskilstuna**
 
     123 049 74 20
+
+
 
 
 **Skonaren Ingos Vänner, Göteborg**
@@ -40182,14 +55527,20 @@ Nummer: 12773
     123 036 85 48
 
 
+
+
 **Skorpeds Baptistförsamling**
 
     123 089 81 14
 
 
+
+
 **Skorpeds Bygdegårdsförening**
 
     123 315 89 04
+
+
 
 
 **Skorpeds Församling**
@@ -40201,9 +55552,13 @@ Nummer: 12773
     123 493 55 65 - Barnverksamhet
 
 
+
+
 **Skoterdårarnas förening**
 
     123 379 90 53
+
+
 
 
 **Skottorps IF**
@@ -40211,9 +55566,13 @@ Nummer: 12773
     123 275 81 83
 
 
+
+
 **SKPF Pensionärerna Arvidsjaur, avd 126**
 
     123 309 46 53
+
+
 
 
 **SKPF Pensionärerna, avd 2 Distrikt Stockholm**
@@ -40221,9 +55580,13 @@ Nummer: 12773
     123 563 45 30
 
 
+
+
 **SKPF Pensionärerna, avd 43 Nyköping Oxelösund**
 
     123 082 55 54
+
+
 
 
 **SKPF Pensionärerna Avdelning 84 Gällivare**
@@ -40231,9 +55594,13 @@ Nummer: 12773
     123 096 77 37
 
 
+
+
 **SKPF Pensionärerna Avesta-Hedemora, avd 109**
 
     123 071 89 65
+
+
 
 
 **SKPF Pensionärerna Bollnäs-Ovanåker, avd 60**
@@ -40241,9 +55608,13 @@ Nummer: 12773
     123 217 35 73
 
 
+
+
 **SKPF Pensionärerna Distrikt Jämtland-Härjedalen, avd 30**
 
     123 460 50 93
+
+
 
 
 **SKPF Pensionärerna Distrikt Norrtälje, avd 110**
@@ -40251,9 +55622,13 @@ Nummer: 12773
     123 400 58 64
 
 
+
+
 **SKPF Pensionärerna Distrikt Stockholm, avd 28**
 
     123 180 59 69
+
+
 
 
 **SKPF Pensionärerna Eskilstuna-Strängnäs, avd 8**
@@ -40261,9 +55636,13 @@ Nummer: 12773
     123 697 91 99
 
 
+
+
 **SKPF Pensionärerna Fagersta, avd 82**
 
     123 134 58 67
+
+
 
 
 **SKPF Pensionärerna Halmstad, avd 21**
@@ -40271,9 +55650,13 @@ Nummer: 12773
     123 060 19 22
 
 
+
+
 **SKPF Pensionärerna Hudiksvall, avd 50**
 
     123 327 55 42
+
+
 
 
 **SKPF Pensionärerna Kalmar, avd 48**
@@ -40281,9 +55664,13 @@ Nummer: 12773
     123 676 09 38
 
 
+
+
 **SKPF Pensionärerna Kramfors, avd 114**
 
     123 585 60 00
+
+
 
 
 **SKPF Pensionärerna Laholm, avd 259**
@@ -40293,9 +55680,13 @@ Nummer: 12773
     123 413 86 81
 
 
+
+
 **SKPF Pensionärerna Småländska Höglandet, avd 87**
 
     123 436 65 06
+
+
 
 
 **SKPF Pensionärerna Sollefteå, avd 113**
@@ -40303,9 +55694,13 @@ Nummer: 12773
     123 065 99 04
 
 
+
+
 **SKPF Pensionärerna Örnsköldsvik, avd 75**
 
     123 153 11 69
+
+
 
 
 **SKPF Pensionärernam, avd 53 Alingsås**
@@ -40313,9 +55708,13 @@ Nummer: 12773
     123 220 25 39
 
 
+
+
 **SkrattYoga / HT Helhetstanken**
 
     123 000 73 44
+
+
 
 
 **Skromberga Ryttarförening**
@@ -40323,9 +55722,13 @@ Nummer: 12773
     123 512 62 48
 
 
+
+
 **Skruvs IF**
 
     123 404 15 54
+
+
 
 
 **Skruvs Sportfiskeklubb**
@@ -40333,9 +55736,13 @@ Nummer: 12773
     123 388 77 18
 
 
+
+
 **Skrå Sverige AB**
 
     123 537 38 24
+
+
 
 
 **Skulpturpark Vadstena Folkets Park Krogaränga**
@@ -40343,9 +55750,13 @@ Nummer: 12773
     123 327 61 44
 
 
+
+
 **Skultorps Vagn & LokVerkstad**
 
     123 624 40 16
+
+
 
 
 **Skultuna Brukshundklubb**
@@ -40353,9 +55764,13 @@ Nummer: 12773
     123 143 12 20
 
 
+
+
 **Skultuna Scoutkår**
 
     123 165 82 44
+
+
 
 
 **Skurup Padelklubb**
@@ -40363,9 +55778,13 @@ Nummer: 12773
     123 650 77 92
 
 
+
+
 **Skurusundets Båtsällskap**
 
     123 668 56 22
+
+
 
 
 **Skutskärs IF Bandy**
@@ -40375,9 +55794,13 @@ Nummer: 12773
     123 258 65 35
 
 
+
+
 **Skutskärs SK**
 
     123 355 82 28
+
+
 
 
 **SkyMining AB**
@@ -40385,9 +55808,13 @@ Nummer: 12773
     123 330 13 71
 
 
+
+
 **Skyttorps IF**
 
     123 227 24 33
+
+
 
 
 **Skytts Härads Hembygdsförening**
@@ -40395,9 +55822,13 @@ Nummer: 12773
     123 330 08 29
 
 
+
+
 **Skäggenäs Bygdegårdsförening**
 
     123 629 86 08
+
+
 
 
 **Skälby 4H-gård i Kalmar**
@@ -40405,9 +55836,13 @@ Nummer: 12773
     123 196 21 74
 
 
+
+
 **Skälbykyrkans Församling**
 
     123 575 24 56
+
+
 
 
 **Skällinge SKF - Skyttesport**
@@ -40417,14 +55852,20 @@ Nummer: 12773
     123 645 15 87 - Ammunition och serieavgifter
 
 
+
+
 **Skänninge Församling**
 
     123 005 40 15
 
 
+
+
 **Skärblacka IF**
 
     123 670 95 39
+
+
 
 
 **Skärgårdens SK**
@@ -40436,9 +55877,13 @@ Nummer: 12773
     123 559 76 87
 
 
+
+
 **Skärgårdens Trafikantförening**
 
     123 352 78 35
+
+
 
 
 **Skärgårdshotellet Hönö**
@@ -40446,9 +55891,13 @@ Nummer: 12773
     123 489 64 52
 
 
+
+
 **Skärgårdsstads Samfällighetsförening**
 
     123 637 80 04
+
+
 
 
 **Skärgårdsstiftelsen I Stockholms Län**
@@ -40464,9 +55913,13 @@ Nummer: 12773
     123 568 68 11 - Nämdö Bastu
 
 
+
+
 **Skärshults Fiskevårdsområdesförening**
 
     123 516 47 51
+
+
 
 
 **Skärså AIK**
@@ -40474,9 +55927,13 @@ Nummer: 12773
     123 388 30 71
 
 
+
+
 **Skålleruds Fornminnes och Hembygdsförening**
 
     123 388 14 55 - Kanalmuseet
+
+
 
 
 **Skålö Bystugeförening**
@@ -40484,9 +55941,13 @@ Nummer: 12773
     123 610 79 40
 
 
+
+
 **Skåne-Blekinge Stövarklubb, SBSK**
 
     123 427 50 53
+
+
 
 
 **Skånela IF Handboll**
@@ -40494,9 +55955,13 @@ Nummer: 12773
     123 188 22 16
 
 
+
+
 **Skånes Auktionsverk AB**
 
     123 234 29 88
+
+
 
 
 **Skånes BF**
@@ -40504,9 +55969,13 @@ Nummer: 12773
     123 255 53 73
 
 
+
+
 **Skånes bygdegårdsdistrikt**
 
     123 554 58 50
+
+
 
 
 **Skånes Fagerhults IF**
@@ -40514,9 +55983,13 @@ Nummer: 12773
     123 554 77 57
 
 
+
+
 **Skånes Fagerhults SkF**
 
     123 421 37 40
+
+
 
 
 **Skånes Ornitologiska Förening**
@@ -40524,9 +55997,13 @@ Nummer: 12773
     123 900 30 13
 
 
+
+
 **Skånes Russavelsförening**
 
     123 386 40 48
+
+
 
 
 **Skånes Änglar**
@@ -40534,9 +56011,13 @@ Nummer: 12773
     123 694 87 98
 
 
+
+
 **Skånska Körsällskapet**
 
     123 551 77 92
+
+
 
 
 **Skånsta Ryttare**
@@ -40544,9 +56025,13 @@ Nummer: 12773
     123 134 13 38
 
 
+
+
 **Sköldkörtelförbundet**
 
     123 048 66 96
+
+
 
 
 **Sköllersta Hembygdsförening**
@@ -40554,9 +56039,13 @@ Nummer: 12773
     123 513 68 58
 
 
+
+
 **Skölvene Bygdegårdsförening**
 
     123 602 66 94
+
+
 
 
 **Sköndals Land- och Sjöscoutkår**
@@ -40564,9 +56053,13 @@ Nummer: 12773
     123 614 51 55 - Scouter stöttar
 
 
+
+
 **Sköns Församling**
 
     123 097 35 37
+
+
 
 
 **Skönsbergs BK**
@@ -40574,9 +56067,13 @@ Nummer: 12773
     123 134 04 21
 
 
+
+
 **Skönsbergs Bouleklubb**
 
     123 160 00 71
+
+
 
 
 **Skövde Adventistförsamling**
@@ -40584,9 +56081,13 @@ Nummer: 12773
     123 512 72 79
 
 
+
+
 **Skövde Allmänna Konstförening**
 
     123 166 96 88
+
+
 
 
 **Skövde Bandy**
@@ -40594,9 +56095,13 @@ Nummer: 12773
     123 589 58 75
 
 
+
+
 **Skövde Brukshundklubb**
 
     123 098 86 59
+
+
 
 
 **Skövde CK**
@@ -40604,9 +56109,13 @@ Nummer: 12773
     123 440 61 46
 
 
+
+
 **Skövde Discgolfklubb**
 
     123 416 24 91
+
+
 
 
 **Skövde Drill**
@@ -40614,9 +56123,13 @@ Nummer: 12773
     123 124 76 83
 
 
+
+
 **Skövde HYRTEC AB**
 
     123 343 14 83
+
+
 
 
 **Skövde IBF**
@@ -40624,9 +56137,13 @@ Nummer: 12773
     123 034 53 06
 
 
+
+
 **Skövde Simsällskap**
 
     123 162 88 58
+
+
 
 
 **Skövde-Skultorp Scoutkår**
@@ -40634,9 +56151,13 @@ Nummer: 12773
     123 610 87 73
 
 
+
+
 **Skövde Taekwon-Do**
 
     123 624 45 86
+
+
 
 
 **Skövdehem Arena AB / Billingen Skövde**
@@ -40644,9 +56165,13 @@ Nummer: 12773
     123 471 81 77
 
 
+
+
 **Slakmöre Bygdegårdsförening**
 
     123 154 38 59
+
+
 
 
 **Slava Ukraini Sverige**
@@ -40654,9 +56179,13 @@ Nummer: 12773
     123 367 32 25
 
 
+
+
 **Sledgehammers**
 
     123 575 70 26
+
+
 
 
 **Sliceit Golf Aktiebolag**
@@ -40664,9 +56193,13 @@ Nummer: 12773
     123 024 09 52
 
 
+
+
 **Sliperiet Gylsboda**
 
     123 576 38 67
+
+
 
 
 **Slite Pistolskytteklubb**
@@ -40674,9 +56207,13 @@ Nummer: 12773
     123 649 69 62
 
 
+
+
 **Slofallets Islandshästar AB**
 
     123 103 49 66
+
+
 
 
 **Slottsbrons Båtsällskap**
@@ -40684,9 +56221,13 @@ Nummer: 12773
     123 654 18 74
 
 
+
+
 **Slottsbrons IF**
 
     123 227 49 34
+
+
 
 
 **Slottsskogsobservatoriets Vänner**
@@ -40694,9 +56235,13 @@ Nummer: 12773
     123 165 55 70
 
 
+
+
 **Släps kyrka**
 
     123 187 16 49 - Kollekt
+
+
 
 
 **Slätafly Byalag**
@@ -40704,9 +56249,13 @@ Nummer: 12773
     123 649 01 48
 
 
+
+
 **Slätta SK**
 
     123 041 64 38
+
+
 
 
 **Slätterne Gård & Eir pyskoterapi / Slätterne Gård AB**
@@ -40714,9 +56263,13 @@ Nummer: 12773
     123 678 95 80
 
 
+
+
 **Slätthögs BOIF**
 
     123 228 91 89
+
+
 
 
 **Slätthögs Hembygdsförening**
@@ -40724,9 +56277,13 @@ Nummer: 12773
     123 670 42 41
 
 
+
+
 **Slättmissionens Hjälpande Hand**
 
     123 282 44 64
+
+
 
 
 **Slättåkragården Förening**
@@ -40734,9 +56291,13 @@ Nummer: 12773
     123 105 58 88
 
 
+
+
 **Slöinge-Eftra Hembygdsförening**
 
     123 018 93 57
+
+
 
 
 **Slöinge GoIF**
@@ -40746,9 +56307,13 @@ Nummer: 12773
     123 687 13 88
 
 
+
+
 **Slöinge TK - Tennis**
 
     123 237 46 92
+
+
 
 
 **Slöseriombudsmannen, SlösO / Skattebetalarnas Förening**
@@ -40756,9 +56321,13 @@ Nummer: 12773
     123 166 91 59
 
 
+
+
 **SM i Fotografi / Svenska Porträttfotografers Förbund**
 
     123 386 24 71
+
+
 
 
 **Smaka på Värmdö**
@@ -40766,9 +56335,13 @@ Nummer: 12773
     123 585 33 38
 
 
+
+
 **Smakvandring i Skåne**
 
     123 313 21 98
+
+
 
 
 **Smalspåret Växjö-Västervik**
@@ -40776,9 +56349,13 @@ Nummer: 12773
     123 369 92 12
 
 
+
+
 **Smedernas Speedwayförening**
 
     123 593 30 72
+
+
 
 
 **Smedjan Stjärnsund / Stjärnsunds Bygdebolag**
@@ -40786,14 +56363,20 @@ Nummer: 12773
     123 008 86 90
 
 
+
+
 **Smedjebacken Makerspace**
 
     123 434 52 60
 
 
+
+
 **Smedjebackens Båtklubb**
 
     123 601 33 46
+
+
 
 
 **Smedjebackens FK**
@@ -40803,9 +56386,13 @@ Nummer: 12773
     123 511 40 04
 
 
+
+
 **Smedjebackens Ridsport**
 
     123 269 70 35
+
+
 
 
 **Smedsbo PK**
@@ -40813,9 +56400,13 @@ Nummer: 12773
     123 421 32 37
 
 
+
+
 **Smedstorps Byalag och Bygdegårdsförening**
 
     123 662 16 84
+
+
 
 
 **Smedstorps Församling**
@@ -40823,9 +56414,13 @@ Nummer: 12773
     123 277 23 25
 
 
+
+
 **SMK Hälsinge**
 
     123 172 14 71
+
+
 
 
 **SMK Hörby - Bilsport**
@@ -40833,9 +56428,13 @@ Nummer: 12773
     123 389 69 74
 
 
+
+
 **SMK Ljungby**
 
     123 568 47 90
+
+
 
 
 **SMK Motala Bil**
@@ -40843,9 +56442,13 @@ Nummer: 12773
     123 552 75 77
 
 
+
+
 **SMK Sundsvall**
 
     123 331 99 93
+
+
 
 
 **SMK Söderhamn**
@@ -40853,9 +56456,13 @@ Nummer: 12773
     123 033 70 71
 
 
+
+
 **SMK Uppsala**
 
     123 501 08 14
+
+
 
 
 **SMK Örebro**
@@ -40863,9 +56470,13 @@ Nummer: 12773
     123 326 60 12
 
 
+
+
 **SMU i Immanuelskyrkan Jönköping**
 
     123 182 42 67
+
+
 
 
 **SMU i Sjövik**
@@ -40873,9 +56484,13 @@ Nummer: 12773
     123 577 35 28
 
 
+
+
 **Smygehuks Båt & Segelklubb, SBSK**
 
     123 278 02 78
+
+
 
 
 **Smygehus Havsbad**
@@ -40883,14 +56498,20 @@ Nummer: 12773
     123 071 46 91
 
 
+
+
 **Smygeskolans föräldraförening**
 
     123 660 96 06
 
 
+
+
 **Smyrnaförsamlingen**
 
     123 100 88 38
+
+
 
 
 **Smyrnaförsamlingen I Ed**
@@ -40902,11 +56523,15 @@ Nummer: 12773
     123 513 87 06 - Missionskassan
 
 
+
+
 **Smyrnakyrkan Göteborg**
 
     123 564 00 73
 
     123 588 16 44
+
+
 
 
 **Små IF**
@@ -40916,9 +56541,13 @@ Nummer: 12773
     123 285 47 43 - FP 10-12
 
 
+
+
 **Smådjurschansen**
 
     123 470 52 65
+
+
 
 
 **Smålands Bilsportförbund**
@@ -40926,9 +56555,13 @@ Nummer: 12773
     123 263 19 35
 
 
+
+
 **Smålands Innebandyförbund**
 
     123 461 13 98
+
+
 
 
 **Smålands Stövarklubb**
@@ -40936,9 +56569,13 @@ Nummer: 12773
     123 170 32 30
 
 
+
+
 **Smålands Taxklubb**
 
     123 406 80 78
+
+
 
 
 **Smålandsstenar Brukshundklubb**
@@ -40946,9 +56583,13 @@ Nummer: 12773
     123 617 95 43
 
 
+
+
 **Smårsgårdens Islandshästar HB**
 
     123 419 77 03
+
+
 
 
 **Småskärsuddens Samfällighetsförening**
@@ -40956,9 +56597,13 @@ Nummer: 12773
     123 525 49 66
 
 
+
+
 **Småspararguiden Sverige AB**
 
     123 648 44 48
+
+
 
 
 **Smögens IF**
@@ -40966,9 +56611,13 @@ Nummer: 12773
     123 098 48 07
 
 
+
+
 **Snabb Grus Sverige AB**
 
     123 652 16 37
+
+
 
 
 **Snatra Sportstugeförening**
@@ -40976,9 +56625,13 @@ Nummer: 12773
     123 214 56 21
 
 
+
+
 **Snitths Hantverksbageri i Furudal / Kärsti Hård**
 
     123 055 50 94
+
+
 
 
 **Snogeröds IF**
@@ -40986,9 +56639,13 @@ Nummer: 12773
     123 056 24 21
 
 
+
+
 **Snättringe Fastighetsägareförening**
 
     123 091 64 86
+
+
 
 
 **Snöå Golfklubb**
@@ -40996,9 +56653,13 @@ Nummer: 12773
     123 175 70 20 - Greenfee
 
 
+
+
 **Sociala Missionen**
 
     123 203 17 55
+
+
 
 
 **Socialdemokraterna Halland**
@@ -41006,9 +56667,13 @@ Nummer: 12773
     123 007 88 73
 
 
+
+
 **Socialdemokraterna i Haninge**
 
     123 304 97 98
+
+
 
 
 **Socialdemokraterna i Sundbyberg**
@@ -41016,9 +56681,13 @@ Nummer: 12773
     123 081 03 41
 
 
+
+
 **Socialdemokraterna Ystad**
 
     123 019 68 16
+
+
 
 
 **Socialistisk Politik**
@@ -41026,6 +56695,8 @@ Nummer: 12773
     123 278 32 72 - Internationalen veckotidning
 
     123 539 30 53
+
+
 
 
 **Socialistiskt Alternativ**
@@ -41037,9 +56708,13 @@ Nummer: 12773
     123 311 40 48 - Valfonden
 
 
+
+
 **Sockenrådet Västra Torsås**
 
     123 222 18 28
+
+
 
 
 **Sockenstugans Vänner i Funbo**
@@ -41047,9 +56722,13 @@ Nummer: 12773
     123 050 47 61
 
 
+
+
 **Sofia Församling**
 
     123 244 13 50 - Kollekt
+
+
 
 
 **Sofialäktaren TIFO**
@@ -41057,9 +56736,13 @@ Nummer: 12773
     123 176 95 46
 
 
+
+
 **Sogo Budoklubb Stockholm**
 
     123 266 59 82
+
+
 
 
 **Sol Tranås**
@@ -41067,9 +56750,13 @@ Nummer: 12773
     123 555 76 32
 
 
+
+
 **Solanderföreningen**
 
     123 511 85 42
+
+
 
 
 **Solanderleden**
@@ -41079,14 +56766,20 @@ Nummer: 12773
     123 416 60 21
 
 
+
+
 **Solbackakyrkan / EFS Missionsförening i Holmsund**
 
     123 557 72 00
 
 
+
+
 **Solbackens Bygdegårdsförening**
 
     123 244 19 88
+
+
 
 
 **Solberga Pastorat**
@@ -41100,9 +56793,13 @@ Nummer: 12773
     123 634 40 48 - Kollekt i Solberga
 
 
+
+
 **Solbergs kyrka**
 
     123 211 64 73
+
+
 
 
 **Soldathemmet / Stiftelsen Sällskapet Hälsinge regemente**
@@ -41110,9 +56807,13 @@ Nummer: 12773
     123 477 86 50
 
 
+
+
 **Solfjäderstaden IBK**
 
     123 194 72 33
+
+
 
 
 **Solkarina / Sinnligkunskap AB**
@@ -41120,14 +56821,20 @@ Nummer: 12773
     123 007 90 61
 
 
+
+
 **Sollebrunns AIK**
 
     123 640 23 09
 
 
+
+
 **Sollefteå Bridgeklubb**
 
     123 439 80 20
+
+
 
 
 **Sollefteå GK**
@@ -41137,9 +56844,13 @@ Nummer: 12773
     123 442 47 84
 
 
+
+
 **Sollefteå Golfklubb**
 
     123 652 51 25
+
+
 
 
 **Sollefteå HK**
@@ -41147,9 +56858,13 @@ Nummer: 12773
     123 561 52 16
 
 
+
+
 **Sollefteå Skidor Idrottsförening**
 
     123 326 58 16
+
+
 
 
 **Sollentuna Församling**
@@ -41165,9 +56880,13 @@ Nummer: 12773
     123 690 34 21 - Sollentuna kyrka
 
 
+
+
 **Sollentuna Handboll**
 
     123 601 12 82
+
+
 
 
 **Sollentuna Hockey Club**
@@ -41175,9 +56894,13 @@ Nummer: 12773
     123 426 23 74
 
 
+
+
 **Sollentuna Kvinnojour**
 
     123 653 65 44
+
+
 
 
 **Sollerö IF**
@@ -41185,9 +56908,13 @@ Nummer: 12773
     123 464 13 61
 
 
+
+
 **Sollerö Pensionärsförening**
 
     123 214 58 86
+
+
 
 
 **Sollerö Sockenförening**
@@ -41195,9 +56922,13 @@ Nummer: 12773
     123 501 37 27
 
 
+
+
 **Sollerö Åldringsfond**
 
     123 554 24 44
+
+
 
 
 **Sollyckans kyrka**
@@ -41205,9 +56936,13 @@ Nummer: 12773
     123 576 03 43
 
 
+
+
 **Solna Landhockeyförening Mens Sana In Corpore Sano, MESAICOS**
 
     123 025 22 54
+
+
 
 
 **Solna Marin i Stockholm AB**
@@ -41215,9 +56950,13 @@ Nummer: 12773
     123 033 69 82
 
 
+
+
 **Solna Yogaskola / Siddha Vidya Harlin**
 
     123 149 23 70
+
+
 
 
 **Solrosen Kvinnojour**
@@ -41225,9 +56964,13 @@ Nummer: 12773
     123 467 17 72
 
 
+
+
 **Solshesters MCK - Motorcykel och Snöskoter**
 
     123 143 63 77
+
+
 
 
 **Solskensfarmarna**
@@ -41235,14 +56978,20 @@ Nummer: 12773
     123 421 34 43
 
 
+
+
 **SOLSKÄNKT Solelföreningen i Sala och Heby ek. för.**
 
     123 261 28 36
 
 
+
+
 **Solvalla Amatörklubb**
 
     123 298 17 85
+
+
 
 
 **Solvatten Insamlingsstiftelse**
@@ -41252,9 +57001,13 @@ Nummer: 12773
     123 900 78 65
 
 
+
+
 **Solängens BK**
 
     123 313 79 32
+
+
 
 
 **Solängskolan / Kristna Skolföreningen i Örkelljunga**
@@ -41262,9 +57015,13 @@ Nummer: 12773
     123 585 92 85
 
 
+
+
 **Somaya kvinno- och tjejjour**
 
     123 538 28 41
+
+
 
 
 **Sommaro Golf AB**
@@ -41272,9 +57029,13 @@ Nummer: 12773
     123 188 19 94
 
 
+
+
 **Sommens AIF**
 
     123 576 72 72
+
+
 
 
 **SOND Skoterledsnätet**
@@ -41282,9 +57043,13 @@ Nummer: 12773
     123 018 10 32
 
 
+
+
 **Sonstorps IK**
 
     123 259 06 10
+
+
 
 
 **Soppero Byars Samfällighetsförening**
@@ -41292,9 +57057,13 @@ Nummer: 12773
     123 351 11 36
 
 
+
+
 **Sorbykyrkans Församling**
 
     123 269 52 78
+
+
 
 
 **Sorunda Församling**
@@ -41302,9 +57071,13 @@ Nummer: 12773
     123 457 21 86
 
 
+
+
 **Sorunda Hemslöjdsvänner**
 
     123 193 72 26
+
+
 
 
 **Sorunda IF**
@@ -41312,14 +57085,20 @@ Nummer: 12773
     123 221 09 46
 
 
+
+
 **Sorunda Kampsport IF**
 
     123 433 02 62
 
 
+
+
 **Sorunda RK**
 
     123 224 21 39
+
+
 
 
 **SOS Barnbyar Sverige**
@@ -41329,9 +57108,13 @@ Nummer: 12773
     123 900 22 96
 
 
+
+
 **SOS Church Västerås / New Life Västerås**
 
     123 231 39 06
+
+
 
 
 **SoS - Svenska Service- och Signalhundsförbundet**
@@ -41339,9 +57122,13 @@ Nummer: 12773
     123 288 68 02
 
 
+
+
 **Sotefjordens Segelsällskap, SFSS**
 
     123 611 01 83
+
+
 
 
 **Sotenäs Biodlareförening**
@@ -41349,9 +57136,13 @@ Nummer: 12773
     123 293 05 27
 
 
+
+
 **Sotenäs Fältrittklubb**
 
     123 515 60 47
+
+
 
 
 **Sotenäs Hundklubb**
@@ -41359,9 +57150,13 @@ Nummer: 12773
     123 199 41 51
 
 
+
+
 **SoulMind / Anna Candela**
 
     123 348 62 06
+
+
 
 
 **Spannarps Hembygdsförening**
@@ -41369,9 +57164,13 @@ Nummer: 12773
     123 592 34 12
 
 
+
+
 **Spanska Akademins fotbollsförening**
 
     123 029 40 33
+
+
 
 
 **Sparrens Natur- och Vattenvårdsförening**
@@ -41379,9 +57178,13 @@ Nummer: 12773
     123 502 67 94
 
 
+
+
 **Sparsörs AIK**
 
     123 641 55 09
+
+
 
 
 **Sparven**
@@ -41391,9 +57194,13 @@ Nummer: 12773
     123 052 03 79 - Kollekt
 
 
+
+
 **Specialklubben för Bearded Collie**
 
     123 405 82 51
+
+
 
 
 **Specialklubben Rhodesian Ridgeback Sverige, SRRS**
@@ -41409,9 +57216,13 @@ Nummer: 12773
     123 655 79 87 - Norra
 
 
+
+
 **Speedshop i Krokom**
 
     123 337 78 19
+
+
 
 
 **Speedwayfans / Sportfans Sverige, Adam Holman**
@@ -41419,9 +57230,13 @@ Nummer: 12773
     123 090 82 36
 
 
+
+
 **Spekeröds Bygdegårdsförening**
 
     123 061 25 64
+
+
 
 
 **Spektrumkörerna**
@@ -41429,9 +57244,13 @@ Nummer: 12773
     123 115 29 25
 
 
+
+
 **Spelberoendes Förening Göteborg**
 
     123 496 63 39
+
+
 
 
 **Spelberoendes Riksförbund**
@@ -41439,9 +57258,13 @@ Nummer: 12773
     123 135 07 92
 
 
+
+
 **Spelrum Kammarmusik i Falun**
 
     123 627 50 28
+
+
 
 
 **SPES - Riksförbundet för SuicidPrevention och EfterlevandeStöd**
@@ -41449,9 +57272,13 @@ Nummer: 12773
     123 900 76 67
 
 
+
+
 **SPF Gillhög Bowling**
 
     123 482 13 10
+
+
 
 
 **SPF Kamraterna Örebro**
@@ -41459,9 +57286,13 @@ Nummer: 12773
     123 012 14 83
 
 
+
+
 **SPF Seniorerena Nöbbele**
 
     123 523 35 98
+
+
 
 
 **SPF Seniorerna 108 Vänkretsen I Eslöv**
@@ -41469,9 +57300,13 @@ Nummer: 12773
     123 551 42 11
 
 
+
+
 **SPF Seniorerna 478 Tre Byar**
 
     123 245 34 13
+
+
 
 
 **SPF Seniorerna Aktiv Arboga**
@@ -41479,9 +57314,13 @@ Nummer: 12773
     123 470 01 26
 
 
+
+
 **SPF Seniorerna Almunge-Knutby**
 
     123 157 65 60
+
+
 
 
 **SPF Seniorerna Anneberg**
@@ -41489,9 +57328,13 @@ Nummer: 12773
     123 428 12 75
 
 
+
+
 **SPF Seniorerna Araslöv**
 
     123 069 05 37
+
+
 
 
 **SPF Seniorerna Askim Hovås**
@@ -41499,9 +57342,13 @@ Nummer: 12773
     123 437 88 81
 
 
+
+
 **SPF Seniorerna Ballingslöv**
 
     123 348 53 15
+
+
 
 
 **SPF Seniorerna Baltzar**
@@ -41509,9 +57356,13 @@ Nummer: 12773
     123 600 58 13
 
 
+
+
 **SPF Seniorerna Bankeryd**
 
     123 193 90 08
+
+
 
 
 **SPF Seniorerna Barkåkra**
@@ -41519,9 +57370,13 @@ Nummer: 12773
     123 338 99 21
 
 
+
+
 **SPF Seniorerna Billdal**
 
     123 011 27 22
+
+
 
 
 **SPF Seniorerna Björka-Ödåkra**
@@ -41529,9 +57384,13 @@ Nummer: 12773
     123 365 05 38
 
 
+
+
 **SPF Seniorerna Björkekärr**
 
     123 110 20 86
+
+
 
 
 **SPF Seniorerna Björken Umeå**
@@ -41539,14 +57398,20 @@ Nummer: 12773
     123 121 78 50
 
 
+
+
 **SPF Seniorerna Björkvik**
 
     123 197 11 59
 
 
+
+
 **SPF Seniorerna Blåelden Borgholm**
 
     123 630 40 83
+
+
 
 
 **SPF Seniorerna Bogesund**
@@ -41558,9 +57423,13 @@ Nummer: 12773
     123 619 20 09 - Resor
 
 
+
+
 **SPF Seniorerna Boken Sölvesborg**
 
     123 030 83 79
+
+
 
 
 **SPF Seniorerna Bollebygd**
@@ -41568,9 +57437,13 @@ Nummer: 12773
     123 450 27 20
 
 
+
+
 **SPF Seniorerna Boo**
 
     123 125 91 67
+
+
 
 
 **SPF Seniorerna Borås 3:an**
@@ -41578,9 +57451,13 @@ Nummer: 12773
     123 227 79 45
 
 
+
+
 **SPF Seniorerna Breared**
 
     123 346 91 45
+
+
 
 
 **SPF Seniorerna Bromma**
@@ -41588,9 +57465,13 @@ Nummer: 12773
     123 455 05 05
 
 
+
+
 **SPF Seniorerna Club 73 Svedala**
 
     123 392 93 04
+
+
 
 
 **SPF Seniorerna Dacke Mjölby**
@@ -41598,9 +57479,13 @@ Nummer: 12773
     123 648 59 99
 
 
+
+
 **SPF Seniorerna Degeberga**
 
     123 493 71 99
+
+
 
 
 **SPF Seniorerna Djupadal**
@@ -41608,9 +57493,13 @@ Nummer: 12773
     123 514 77 15
 
 
+
+
 **SPF Seniorerna Draken Kungsholmen**
 
     123 291 65 67
+
+
 
 
 **SPF Seniorerna Eken Perstorp**
@@ -41618,9 +57507,13 @@ Nummer: 12773
     123 026 06 04
 
 
+
+
 **SPF Seniorerna Eklandet Linköping**
 
     123 507 99 59
+
+
 
 
 **SPF Seniorerna Eksjö**
@@ -41628,9 +57521,13 @@ Nummer: 12773
     123 618 20 26
 
 
+
+
 **SPF Seniorerna Emmaboda**
 
     123 158 29 64
+
+
 
 
 **SPF Seniorerna Enabygden**
@@ -41638,9 +57535,13 @@ Nummer: 12773
     123 230 89 06
 
 
+
+
 **SPF Seniorerna Engelbrekt**
 
     123 508 40 09
+
+
 
 
 **SPF Seniorerna Enskede-Årsta**
@@ -41648,9 +57549,13 @@ Nummer: 12773
     123 159 46 13
 
 
+
+
 **SPF Seniorerna Eskilstuna**
 
     123 363 07 79
+
+
 
 
 **SPF Seniorerna Falkenberg-Skrea**
@@ -41658,9 +57563,13 @@ Nummer: 12773
     123 023 18 03
 
 
+
+
 **SPF Seniorerna Filbyter**
 
     123 280 70 71
+
+
 
 
 **SPF Seniorerna Fjärås**
@@ -41668,9 +57577,13 @@ Nummer: 12773
     123 327 31 82
 
 
+
+
 **SPF Seniorerna Flensbygden**
 
     123 320 70 08
+
+
 
 
 **SPF Seniorerna Freja Sundsvall**
@@ -41678,9 +57591,13 @@ Nummer: 12773
     123 516 73 66
 
 
+
+
 **SPF Seniorerna Fridhem**
 
     123 253 04 34
+
+
 
 
 **SPF Seniorerna Fruängen-Älvsjö**
@@ -41688,9 +57605,13 @@ Nummer: 12773
     123 143 68 64
 
 
+
+
 **SPF Seniorerna Fräkne Ljungskile**
 
     123 507 96 29
+
+
 
 
 **SPF Seniorerna Fyrklövern Gideå**
@@ -41698,9 +57619,13 @@ Nummer: 12773
     123 166 89 38
 
 
+
+
 **SPF Seniorerna Fyrklövern Vansbro**
 
     123 179 75 05
+
+
 
 
 **SPF Seniorerna Gamla Bjered**
@@ -41708,9 +57633,13 @@ Nummer: 12773
     123 217 73 68
 
 
+
+
 **SPF Seniorerna Gavle**
 
     123 271 70 15
+
+
 
 
 **SPF Seniorerna Glanshammar**
@@ -41718,9 +57647,13 @@ Nummer: 12773
     123 383 62 36
 
 
+
+
 **SPF Seniorerna Gnestabygden**
 
     123 364 40 02
+
+
 
 
 **SPF Seniorerna Gnistan**
@@ -41728,9 +57661,13 @@ Nummer: 12773
     123 375 91 15
 
 
+
+
 **SPF Seniorerna Guldstaden Skellefteå**
 
     123 363 18 01
+
+
 
 
 **SPF Seniorerna Gullspång-Hova**
@@ -41738,9 +57675,13 @@ Nummer: 12773
     123 607 66 32
 
 
+
+
 **SPF Seniorerna Gärdet-Djurgården**
 
     123 638 68 58
+
+
 
 
 **SPF Seniorerna Götene-Kinnekulle**
@@ -41748,9 +57689,13 @@ Nummer: 12773
     123 288 14 49
 
 
+
+
 **SPF Seniorerna Habo**
 
     123 220 15 07
+
+
 
 
 **SPF Seniorerna Hallsberg**
@@ -41758,9 +57703,13 @@ Nummer: 12773
     123 217 09 83
 
 
+
+
 **SPF Seniorerna Hamre Västerås**
 
     123 158 11 23
+
+
 
 
 **SPF Seniorerna Handen**
@@ -41768,9 +57717,13 @@ Nummer: 12773
     123 383 16 82
 
 
+
+
 **SPF Seniorerna Haparanda**
 
     123 148 94 83
+
+
 
 
 **SPF Seniorerna Havsvinden Åhus**
@@ -41778,9 +57731,13 @@ Nummer: 12773
     123 212 46 18
 
 
+
+
 **SPF Seniorerna Havsörnen**
 
     123 075 02 57
+
+
 
 
 **SPF Seniorerna Hedemora**
@@ -41788,9 +57745,13 @@ Nummer: 12773
     123 087 66 98
 
 
+
+
 **SPF Seniorerna Hedvig Eleonora**
 
     123 698 87 94
+
+
 
 
 **SPF Seniorerna Helsingborg Sydöstra**
@@ -41798,9 +57759,13 @@ Nummer: 12773
     123 670 58 26
 
 
+
+
 **SPF Seniorerna Hestra**
 
     123 240 91 18
+
+
 
 
 **SPF Seniorerna Hjorten Alingsås**
@@ -41808,9 +57773,13 @@ Nummer: 12773
     123 594 73 04
 
 
+
+
 **SPF Seniorerna Hoheda**
 
     123 568 10 51
+
+
 
 
 **SPF Seniorerna Hultsfredsbygden**
@@ -41818,9 +57787,13 @@ Nummer: 12773
     123 345 33 13
 
 
+
+
 **SPF Seniorerna Humleaxet Tierp**
 
     123 071 98 56
+
+
 
 
 **SPF Seniorerna Håbo**
@@ -41828,9 +57801,13 @@ Nummer: 12773
     123 559 95 19
 
 
+
+
 **SPF Seniorerna Hökerum**
 
     123 271 60 66
+
+
 
 
 **SPF Seniorerna Höstsol Timrå**
@@ -41838,9 +57815,13 @@ Nummer: 12773
     123 380 34 91
 
 
+
+
 **SPF Seniorerna Höör Klubb 72**
 
     123 557 41 24
+
+
 
 
 **SPF Seniorerna Jernet Österbybruk**
@@ -41848,9 +57829,13 @@ Nummer: 12773
     123 623 80 91
 
 
+
+
 **SPF Seniorerna Järvsö**
 
     123 374 62 37
+
+
 
 
 **SPF Seniorerna Jössebygden Arvika**
@@ -41858,9 +57843,13 @@ Nummer: 12773
     123 674 59 54
 
 
+
+
 **SPF Seniorerna Kabusa**
 
     123 013 52 44
+
+
 
 
 **SPF Seniorerna Kalmar**
@@ -41868,9 +57857,13 @@ Nummer: 12773
     123 332 29 89
 
 
+
+
 **SPF Seniorerna Karlaplan**
 
     123 009 71 62
+
+
 
 
 **SPF Seniorerna Karlsborgsbygden**
@@ -41878,9 +57871,13 @@ Nummer: 12773
     123 298 06 05
 
 
+
+
 **SPF Seniorerna Karlskoga**
 
     123 552 32 12
+
+
 
 
 **SPF Seniorerna Katarina Sofia**
@@ -41888,9 +57885,13 @@ Nummer: 12773
     123 688 22 86
 
 
+
+
 **SPF Seniorerna Klinten Åstorp**
 
     123 021 77 29
+
+
 
 
 **SPF Seniorerna Klubb 67 Tomelilla**
@@ -41898,9 +57899,13 @@ Nummer: 12773
     123 679 60 64
 
 
+
+
 **SPF Seniorerna Klubb 69 Sjöbo**
 
     123 670 65 43
+
+
 
 
 **SPF Seniorerna Knutpunkten**
@@ -41908,9 +57913,13 @@ Nummer: 12773
     123 039 52 77
 
 
+
+
 **SPF Seniorerna Kung Karl Kungsör**
 
     123 484 41 97
+
+
 
 
 **SPF Seniorerna Kungsholmen St:Erik Stockholm**
@@ -41918,9 +57927,13 @@ Nummer: 12773
     123 506 18 25
 
 
+
+
 **SPF Seniorerna Kvarnen**
 
     123 475 98 17
+
+
 
 
 **SPF Seniorerna Kärnan Helsingborg**
@@ -41928,9 +57941,13 @@ Nummer: 12773
     123 349 70 70
 
 
+
+
 **SPF Seniorerna Laholm**
 
     123 044 63 51
+
+
 
 
 **SPF Seniorerna Landsbrobygden**
@@ -41938,9 +57955,13 @@ Nummer: 12773
     123 428 74 54
 
 
+
+
 **SPF Seniorerna Leksand**
 
     123 271 54 98
+
+
 
 
 **SPF Seniorerna Lidköping**
@@ -41948,9 +57969,13 @@ Nummer: 12773
     123 603 51 58
 
 
+
+
 **SPF Seniorerna Liljan Fagersta**
 
     123 582 95 44
+
+
 
 
 **SPF Seniorerna Linderöd-Äsphult**
@@ -41958,9 +57983,13 @@ Nummer: 12773
     123 195 92 61
 
 
+
+
 **SPF Seniorerna Ljungen Seniorer Höllviken**
 
     123 609 78 69
+
+
 
 
 **SPF Seniorerna Lund-Centrum**
@@ -41968,9 +57997,13 @@ Nummer: 12773
     123 147 42 53
 
 
+
+
 **SPF Seniorerna Löberöd**
 
     123 609 12 92
+
+
 
 
 **SPF Seniorerna Maria-Högalid**
@@ -41978,9 +58011,13 @@ Nummer: 12773
     123 153 64 73
 
 
+
+
 **SPF Seniorerna Marmen Matfors**
 
     123 019 44 23
+
+
 
 
 **SPF Seniorerna Mellersta Kinnevald**
@@ -41988,9 +58025,13 @@ Nummer: 12773
     123 380 54 70
 
 
+
+
 **SPF Seniorerna Moringen Nynäshamn**
 
     123 548 96 87
+
+
 
 
 **SPF Seniorerna Munka**
@@ -41998,9 +58039,13 @@ Nummer: 12773
     123 259 24 75
 
 
+
+
 **SPF Seniorerna Mälarhöjden-Hägersten**
 
     123 366 42 40
+
+
 
 
 **SPF Seniorerna Mönsterås**
@@ -42008,9 +58053,13 @@ Nummer: 12773
     123 399 02 07
 
 
+
+
 **SPF Seniorerna Nacka**
 
     123 614 58 17
+
+
 
 
 **SPF Seniorerna Nivrén Njurunda**
@@ -42018,9 +58067,13 @@ Nummer: 12773
     123 559 46 92
 
 
+
+
 **SPF Seniorerna Nolaskog Örnsköldsvik**
 
     123 148 96 81
+
+
 
 
 **SPF Seniorerna Norrsken Lycksele**
@@ -42028,9 +58081,13 @@ Nummer: 12773
     123 128 88 28
 
 
+
+
 **SPF Seniorerna Norsjö**
 
     123 264 84 91
+
+
 
 
 **SPF Seniorerna Nykvarn**
@@ -42038,9 +58095,13 @@ Nummer: 12773
     123 651 06 14
 
 
+
+
 **SPF Seniorerna Nyköping**
 
     123 489 62 47
+
+
 
 
 **SPF Seniorerna Okome-Köinge-Svartrå**
@@ -42048,9 +58109,13 @@ Nummer: 12773
     123 024 72 39
 
 
+
+
 **SPF Seniorerna Onsala**
 
     123 095 33 64
+
+
 
 
 **SPF Seniorerna Oppeby-Harg**
@@ -42058,9 +58123,13 @@ Nummer: 12773
     123 559 49 24
 
 
+
+
 **SPF Seniorerna Orsa**
 
     123 448 79 71
+
+
 
 
 **SPF Seniorerna Orustveteranerna**
@@ -42068,9 +58137,13 @@ Nummer: 12773
     123 468 70 34
 
 
+
+
 **SPF Seniorerna Oxelösund**
 
     123 512 86 57
+
+
 
 
 **SPF Seniorerna Oxie**
@@ -42078,9 +58151,13 @@ Nummer: 12773
     123 277 71 59
 
 
+
+
 **SPF Seniorerna Petri**
 
     123 251 86 37
+
+
 
 
 **SPF Seniorerna Plogen Linghem**
@@ -42088,9 +58165,13 @@ Nummer: 12773
     123 077 22 77
 
 
+
+
 **SPF Seniorerna Polstjärnan Timrå**
 
     123 260 20 43
+
+
 
 
 **SPF Seniorerna Reftele**
@@ -42098,9 +58179,13 @@ Nummer: 12773
     123 051 39 11
 
 
+
+
 **SPF Seniorerna Rengen Linköping**
 
     123 028 65 00
+
+
 
 
 **SPF Seniorerna Ringstorp Helsingborg**
@@ -42108,9 +58193,13 @@ Nummer: 12773
     123 016 67 69
 
 
+
+
 **SPF Seniorerna Romelanda**
 
     123 362 38 57
+
+
 
 
 **SPF Seniorerna Romele**
@@ -42118,9 +58207,13 @@ Nummer: 12773
     123 567 37 77
 
 
+
+
 **SPF Seniorerna Rosenkälla Nyköping**
 
     123 189 99 21
+
+
 
 
 **SPF Seniorerna Rottne**
@@ -42128,9 +58221,13 @@ Nummer: 12773
     123 586 76 68
 
 
+
+
 **SPF Seniorerna Runstenen Västerhaninge**
 
     123 537 05 80
+
+
 
 
 **SPF Seniorerna S.ta Birgitta Vadstena**
@@ -42138,9 +58235,13 @@ Nummer: 12773
     123 012 24 65
 
 
+
+
 **SPF Seniorerna Sagsjön, Kållered och Lindome**
 
     123 166 13 39
+
+
 
 
 **SPF Seniorerna Salem**
@@ -42148,9 +58249,13 @@ Nummer: 12773
     123 210 51 04
 
 
+
+
 **SPF Seniorerna Sankt Olof**
 
     123 271 76 35
+
+
 
 
 **SPF Seniorerna Sigtuna Stad**
@@ -42158,9 +58263,13 @@ Nummer: 12773
     123 107 88 49
 
 
+
+
 **SPF Seniorerna Skutan Väddö**
 
     123 036 86 54
+
+
 
 
 **SPF Seniorerna Skärgården Holmsund-Obbola**
@@ -42168,9 +58277,13 @@ Nummer: 12773
     123 609 18 88
 
 
+
+
 **SPF Seniorerna Skövde**
 
     123 290 64 36
+
+
 
 
 **SPF Seniorerna Skövde Elin**
@@ -42178,9 +58291,13 @@ Nummer: 12773
     123 520 86 65
 
 
+
+
 **SPF Seniorerna Snöstorp**
 
     123 296 57 39
+
+
 
 
 **SPF Seniorerna Sotenäs**
@@ -42188,9 +58305,13 @@ Nummer: 12773
     123 689 61 46
 
 
+
+
 **SPF Seniorerna St Ragnhild Söderköping**
 
     123 387 30 15
+
+
 
 
 **SPF Seniorerna Storfors**
@@ -42198,9 +58319,13 @@ Nummer: 12773
     123 191 80 28
 
 
+
+
 **SPF Seniorerna Strövelstorp Ausås**
 
     123 532 97 19
+
+
 
 
 **SPF Seniorerna Stångby**
@@ -42208,9 +58333,13 @@ Nummer: 12773
     123 246 60 27
 
 
+
+
 **SPF Seniorerna Sumaros Simrishamn**
 
     123 236 19 62
+
+
 
 
 **SPF Seniorerna Sundet Helsingborg**
@@ -42218,9 +58347,13 @@ Nummer: 12773
     123 261 70 25
 
 
+
+
 **SPF Seniorerna Svalan Partille**
 
     123 450 96 91
+
+
 
 
 **SPF Seniorerna Svalöv**
@@ -42228,9 +58361,13 @@ Nummer: 12773
     123 225 90 67
 
 
+
+
 **SPF Seniorerna Svanen Älta**
 
     123 078 44 62
+
+
 
 
 **SPF Seniorerna Svärdsjö-Enviken**
@@ -42238,9 +58375,13 @@ Nummer: 12773
     123 424 95 04
 
 
+
+
 **SPF Seniorerna Sydhalland**
 
     123 617 49 32
+
+
 
 
 **SPF Seniorerna Sydporten Hörnefors**
@@ -42248,9 +58389,13 @@ Nummer: 12773
     123 226 26 16
 
 
+
+
 **SPF Seniorerna Syrenen Sandviken**
 
     123 142 40 50
+
+
 
 
 **SPF Seniorerna Sällskapet Armeria Skanör-Falsterbo**
@@ -42258,9 +58403,13 @@ Nummer: 12773
     123 417 70 51
 
 
+
+
 **SPF Seniorerna Södra Sandby**
 
     123 313 37 33
+
+
 
 
 **SPF Seniorerna Sösdala Hembygdskontakten**
@@ -42268,9 +58417,13 @@ Nummer: 12773
     123 593 17 53
 
 
+
+
 **SPF Seniorerna Tibble Täby**
 
     123 355 63 96
+
+
 
 
 **SPF Seniorerna Tibro**
@@ -42278,9 +58431,13 @@ Nummer: 12773
     123 677 38 65
 
 
+
+
 **SPF Seniorerna Tinnerbäcken Linköping**
 
     123 139 68 60
+
+
 
 
 **SPF Seniorerna Tjörnveteranerna**
@@ -42290,9 +58447,13 @@ Nummer: 12773
     123 665 13 92
 
 
+
+
 **SPF Seniorerna Toarp-Dalsjöfors**
 
     123 516 61 03
+
+
 
 
 **SPF Seniorerna Tomas Västerås**
@@ -42300,9 +58461,13 @@ Nummer: 12773
     123 259 70 94
 
 
+
+
 **SPF Seniorerna Torsby**
 
     123 685 26 77
+
+
 
 
 **SPF Seniorerna Tranemo**
@@ -42310,9 +58475,13 @@ Nummer: 12773
     123 592 33 88
 
 
+
+
 **SPF Seniorerna Triangeln Malmö**
 
     123 069 18 65
+
+
 
 
 **SPF Seniorerna Trosa**
@@ -42320,9 +58489,13 @@ Nummer: 12773
     123 619 21 81
 
 
+
+
 **SPF Seniorerna Tuna-Säter**
 
     123 659 89 65
+
+
 
 
 **SPF Seniorerna Tycho Brahe Ljungbyhed**
@@ -42330,9 +58503,13 @@ Nummer: 12773
     123 337 50 29
 
 
+
+
 **SPF Seniorerna Tyresö**
 
     123 533 53 77
+
+
 
 
 **SPF Seniorerna Tågaborg**
@@ -42340,9 +58517,13 @@ Nummer: 12773
     123 167 44 49
 
 
+
+
 **SPF Seniorerna Tölö-Älvsåker**
 
     123 190 03 49
+
+
 
 
 **SPF Seniorerna Umeå Norra**
@@ -42350,9 +58531,13 @@ Nummer: 12773
     123 074 36 74
 
 
+
+
 **SPF Seniorerna Vaksala-Almtuna**
 
     123 655 46 12
+
+
 
 
 **SPF Seniorerna Vallonen - Skärplinge**
@@ -42360,9 +58545,13 @@ Nummer: 12773
     123 128 94 04
 
 
+
+
 **SPF Seniorerna Vartofta**
 
     123 070 15 81
+
+
 
 
 **SPF Seniorerna Veddige**
@@ -42370,9 +58559,13 @@ Nummer: 12773
     123 279 60 19
 
 
+
+
 **SPF Seniorerna Vendelsö-Brandbergen**
 
     123 157 57 37
+
+
 
 
 **SPF Seniorerna Vetlanda**
@@ -42380,9 +58573,13 @@ Nummer: 12773
     123 450 69 60
 
 
+
+
 **SPF Seniorerna Vikbolandet**
 
     123 428 83 53
+
+
 
 
 **SPF Seniorerna Vikingarna Upplands-Bro**
@@ -42390,9 +58587,13 @@ Nummer: 12773
     123 674 10 94
 
 
+
+
 **SPF Seniorerna Villstad**
 
     123 430 26 00
+
+
 
 
 **SPF Seniorerna Vintergäcken Mölnlycke**
@@ -42400,9 +58601,13 @@ Nummer: 12773
     123 552 95 99
 
 
+
+
 **SPF Seniorerna Vittsjö**
 
     123 158 46 48
+
+
 
 
 **SPF Seniorerna Vreta Kloster**
@@ -42410,9 +58615,13 @@ Nummer: 12773
     123 505 57 93
 
 
+
+
 **SPF Seniorerna Väsby**
 
     123 227 81 58
+
+
 
 
 **SPF Seniorerna Väse-Fågelvik**
@@ -42420,9 +58629,13 @@ Nummer: 12773
     123 486 92 36
 
 
+
+
 **SPF Seniorerna Wä Skepparslöv**
 
     123 520 69 66
+
+
 
 
 **SPF Seniorerna Ydre Österbymo**
@@ -42430,9 +58643,13 @@ Nummer: 12773
     123 257 88 70
 
 
+
+
 **SPF Seniorerna Ystad**
 
     123 458 67 98
+
+
 
 
 **SPF Seniorerna Älvdalen**
@@ -42440,9 +58657,13 @@ Nummer: 12773
     123 420 56 96
 
 
+
+
 **SPF Seniorerna Älvsborg Göteborg**
 
     123 171 72 06
+
+
 
 
 **SPF Seniorerna Ängelholm**
@@ -42450,9 +58671,13 @@ Nummer: 12773
     123 422 99 69
 
 
+
+
 **SPF Seniorerna Åby Klippan**
 
     123 624 83 30
+
+
 
 
 **SPF Seniorerna Åmåliterna**
@@ -42460,9 +58685,13 @@ Nummer: 12773
     123 473 50 80
 
 
+
+
 **SPF Seniorerna Åseda-Nottebäck**
 
     123 665 43 54
+
+
 
 
 **SPF Seniorerna Örebro City**
@@ -42470,9 +58699,13 @@ Nummer: 12773
     123 491 24 65
 
 
+
+
 **SPF Seniorerna Örgryte**
 
     123 133 33 84
+
+
 
 
 **SPF Seniorerna Örserum**
@@ -42480,9 +58713,13 @@ Nummer: 12773
     123 167 91 58
 
 
+
+
 **SPF Seniorerna Östra Kind**
 
     123 168 90 74
+
+
 
 
 **Spiritbird Yoga / Jenni Enigk**
@@ -42490,9 +58727,13 @@ Nummer: 12773
     123 659 27 60
 
 
+
+
 **Spiritualistiska Sällskapet i Göteborg**
 
     123 108 94 16
+
+
 
 
 **Spjutstorps IF**
@@ -42502,9 +58743,13 @@ Nummer: 12773
     123 626 16 97
 
 
+
+
 **Spokesman AB**
 
     123 488 43 34
+
+
 
 
 **Spontankören**
@@ -42512,9 +58757,13 @@ Nummer: 12773
     123 498 64 02
 
 
+
+
 **Sport for Life**
 
     123 172 43 27
+
+
 
 
 **Sportfiskarna Skåne**
@@ -42522,9 +58771,13 @@ Nummer: 12773
     123 616 26 55
 
 
+
+
 **Sportfiskebolaget / Sportfiske & VVS Bolaget i Hässleholm AB**
 
     123 075 14 87
+
+
 
 
 **Sportfiskeklubb Minkarna**
@@ -42532,9 +58785,13 @@ Nummer: 12773
     123 261 55 08
 
 
+
+
 **Sportfiskeklubben Kroken**
 
     123 388 00 10
+
+
 
 
 **Sportfiskeklubben Spinn**
@@ -42542,9 +58799,13 @@ Nummer: 12773
     123 056 58 79
 
 
+
+
 **Sportjouren AB**
 
     123 690 65 56
+
+
 
 
 **Sports Heart**
@@ -42552,9 +58813,13 @@ Nummer: 12773
     123 188 09 39
 
 
+
+
 **Springerklubben Bohuslän**
 
     123 564 06 36
+
+
 
 
 **Språklärarnas Riksförbund**
@@ -42562,9 +58827,13 @@ Nummer: 12773
     123 627 28 68
 
 
+
+
 **Språktidningens podd / Vetenskapsmedia i Sverige AB**
 
     123 110 07 26
+
+
 
 
 **Spädbarnsfonden**
@@ -42572,14 +58841,20 @@ Nummer: 12773
     123 900 21 22
 
 
+
+
 **Spånga-Bromstens Bandyklubb**
 
     123 360 33 88
 
 
+
+
 **Spånga Friskvård Hälsocenter AB**
 
     123 033 61 72
+
+
 
 
 **Spånga-Kista Församling**
@@ -42591,9 +58866,13 @@ Nummer: 12773
     123 680 29 79 - Kollekt Kista kyrka
 
 
+
+
 **Spårvägen Cykelförening**
 
     123 077 14 44
+
+
 
 
 **Spårvägen Simförening**
@@ -42601,9 +58880,13 @@ Nummer: 12773
     123 024 20 32
 
 
+
+
 **Spårvägens BTK**
 
     123 429 31 89
+
+
 
 
 **Spårvägens FF**
@@ -42611,9 +58894,13 @@ Nummer: 12773
     123 360 67 87
 
 
+
+
 **Spårvägens Friidrottsklubb**
 
     123 346 95 58
+
+
 
 
 **Spårvägens Tyngdlyftning**
@@ -42621,14 +58908,20 @@ Nummer: 12773
     123 453 88 64
 
 
+
+
 **Spårvägens Veteran BTK**
 
     123 154 22 99
 
 
+
+
 **Spårvägspersonalens Semesterhemsförening**
 
     123 457 93 14
+
+
 
 
 **Spöland Vännäs IF**
@@ -42638,9 +58931,13 @@ Nummer: 12773
     123 098 23 14
 
 
+
+
 **SR Modell**
 
     123 673 29 03
+
+
 
 
 **Ssenyange Education Project**
@@ -42650,9 +58947,13 @@ Nummer: 12773
     123 312 39 99
 
 
+
+
 **St:Paulus av Korset Katolska Församling**
 
     123 454 36 25
+
+
 
 
 **Stackbo Islandshästar / Carina Eklund**
@@ -42660,9 +58961,13 @@ Nummer: 12773
     123 514 79 05
 
 
+
+
 **Stadsbrudskåren**
 
     123 430 23 45
+
+
 
 
 **Stadsmagasinet Oskarshamn / Krepart AB**
@@ -42670,9 +58975,13 @@ Nummer: 12773
     123 307 21 96
 
 
+
+
 **Stadsodlingsvandringar.se / Gatsmart, Ulrika Flodin Furås**
 
     123 600 08 89
+
+
 
 
 **Staffanstorp United**
@@ -42680,9 +58989,13 @@ Nummer: 12773
     123 338 80 22
 
 
+
+
 **Staffanstorps Bowlingklubb**
 
     123 012 91 71
+
+
 
 
 **Staffanstorps Hembygdsförening**
@@ -42690,9 +59003,13 @@ Nummer: 12773
     123 054 47 42
 
 
+
+
 **Staffanstorps Scoutkår Torparna**
 
     123 629 85 74
+
+
 
 
 **Stala Församling**
@@ -42700,9 +59017,13 @@ Nummer: 12773
     123 172 10 42
 
 
+
+
 **Stall Annika / Annika Johansson**
 
     123 047 43 12
+
+
 
 
 **Stall Granås**
@@ -42710,9 +59031,13 @@ Nummer: 12773
     123 137 59 89
 
 
+
+
 **Stall JG AB**
 
     123 446 25 52
+
+
 
 
 **Stall Krabbängen / Amanda Staam**
@@ -42720,9 +59045,13 @@ Nummer: 12773
     123 022 21 66
 
 
+
+
 **Stall Kungsgården / Stiftelsen Hippocampus**
 
     123 015 76 93
+
+
 
 
 **Stall Liori / Linda Stångberg**
@@ -42730,9 +59059,13 @@ Nummer: 12773
     123 224 22 20
 
 
+
+
 **Stall Nyckelby**
 
     123 033 35 91
+
+
 
 
 **Stall Släte / Regina Fallberg**
@@ -42740,9 +59073,13 @@ Nummer: 12773
     123 006 19 60
 
 
+
+
 **Stallarholmens Båtklubb**
 
     123 019 18 58
+
+
 
 
 **Stallarholmens Församling**
@@ -42750,9 +59087,13 @@ Nummer: 12773
     123 224 28 65
 
 
+
+
 **Stallarholmens Nätverk**
 
     123 661 93 40
+
+
 
 
 **Stallarholmens SK**
@@ -42760,9 +59101,13 @@ Nummer: 12773
     123 173 37 32
 
 
+
+
 **Stallebrottet Kulturproduktion Ideell förening / Stallebrottet Kulturproduktion**
 
     123 569 07 48
+
+
 
 
 **Stallet Världens Musik / Riksförbundet för Folkmusik & Dans**
@@ -42770,9 +59115,13 @@ Nummer: 12773
     123 090 77 58
 
 
+
+
 **Stallyckans Gård och Ryttarförening**
 
     123 244 11 52
+
+
 
 
 **Stamningsförbundet**
@@ -42780,9 +59129,13 @@ Nummer: 12773
     123 306 93 90
 
 
+
+
 **Star for Life Insamlingsstiftelse**
 
     123 900 16 11
+
+
 
 
 **Starlight Psykologi AB**
@@ -42790,9 +59143,13 @@ Nummer: 12773
     123 027 93 72
 
 
+
+
 **StartupTools Europe AB**
 
     123 624 94 37
+
+
 
 
 **Stationsparken i Tällberg Ideell Förening, STIF**
@@ -42800,9 +59157,13 @@ Nummer: 12773
     123 324 45 89
 
 
+
+
 **Stavby Bygdegårdsförening**
 
     123 324 86 30
+
+
 
 
 **Stavnäs Hembygdsförening**
@@ -42810,9 +59171,13 @@ Nummer: 12773
     123 085 85 06
 
 
+
+
 **Stavsjö Föreningshus**
 
     123 326 96 77
+
+
 
 
 **Stefan Sauk / Aktiebolaget Zenskräck**
@@ -42820,9 +59185,13 @@ Nummer: 12773
     123 326 66 24
 
 
+
+
 **Stefanushjälpen**
 
     123 426 31 90
+
+
 
 
 **Stegeborgs Båtklubb**
@@ -42830,9 +59199,13 @@ Nummer: 12773
     123 625 33 97
 
 
+
+
 **Stegeborgs IF**
 
     123 327 57 08
+
+
 
 
 **Stella Academica**
@@ -42840,9 +59213,13 @@ Nummer: 12773
     123 570 50 17
 
 
+
+
 **Stellafonden**
 
     123 249 42 01
+
+
 
 
 **Steneby Bygdegårdsförening**
@@ -42850,9 +59227,13 @@ Nummer: 12773
     123 319 43 13
 
 
+
+
 **Stenkullens Aikido**
 
     123 234 00 16
+
+
 
 
 **Stenkumla Bygdegårdsförening**
@@ -42860,9 +59241,13 @@ Nummer: 12773
     123 563 73 27
 
 
+
+
 **Stensjöns Församling**
 
     123 085 86 54
+
+
 
 
 **Stensjöns IF**
@@ -42870,9 +59255,13 @@ Nummer: 12773
     123 178 08 73
 
 
+
+
 **Stenstorps IF**
 
     123 098 75 45
+
+
 
 
 **Stenströms Cykel AB**
@@ -42880,9 +59269,13 @@ Nummer: 12773
     123 558 46 28
 
 
+
+
 **Stensätra IF**
 
     123 006 85 10
+
+
 
 
 **Stenungsund, Tjörn och Orust FN-förening**
@@ -42890,9 +59283,13 @@ Nummer: 12773
     123 087 99 32
 
 
+
+
 **Stenungsunds Amatör Radio Klubb**
 
     123 006 17 88
+
+
 
 
 **Stenungsunds BK**
@@ -42900,9 +59297,13 @@ Nummer: 12773
     123 130 36 35
 
 
+
+
 **Stenungsunds Boxningsklubb**
 
     123 335 04 10
+
+
 
 
 **Stenungsunds Discgolf**
@@ -42910,9 +59311,13 @@ Nummer: 12773
     123 520 92 91
 
 
+
+
 **Stenungsunds HRF - Ridsport**
 
     123 350 23 82
+
+
 
 
 **Stenungsunds IBK**
@@ -42920,9 +59325,13 @@ Nummer: 12773
     123 305 90 78
 
 
+
+
 **Stenungsunds MS**
 
     123 602 16 53
+
+
 
 
 **Stenungsunds Pastorat**
@@ -42936,9 +59345,13 @@ Nummer: 12773
     123 613 05 87 - Bokbord
 
 
+
+
 **Stenungsunds Scoutkår**
 
     123 512 68 67
+
+
 
 
 **Step by Step-Dansskola / Hanna Alneberg**
@@ -42946,9 +59359,13 @@ Nummer: 12773
     123 620 27 41
 
 
+
+
 **STHLM Tactical Fundraising Ukraine**
 
     123 054 90 30
+
+
 
 
 **STHLM VÄST Tjej- och kvinnojour**
@@ -42956,9 +59373,13 @@ Nummer: 12773
     123 076 97 45
 
 
+
+
 **Stiftelse Coelho Growth Foundation**
 
     123 513 65 44
+
+
 
 
 **Stiftelse Institutet för Independent Living**
@@ -42966,9 +59387,13 @@ Nummer: 12773
     123 031 75 45
 
 
+
+
 **Stiftelsemedel.se**
 
     123 427 59 62
+
+
 
 
 **Stiftelsen Akademiska Sjukhusets utvecklingsfond**
@@ -42976,9 +59401,13 @@ Nummer: 12773
     123 900 29 24
 
 
+
+
 **Stiftelsen Alfons Åbergs Kulturhus**
 
     123 640 64 25
+
+
 
 
 **Stiftelsen Amref Nordic**
@@ -42986,9 +59415,13 @@ Nummer: 12773
     123 900 24 29
 
 
+
+
 **Stiftelsen Anna Lindhs Minnesfond**
 
     123 683 74 96
+
+
 
 
 **Stiftelsen Astma- och Allergiförbundets Forskningsfond**
@@ -42996,14 +59429,20 @@ Nummer: 12773
     123 900 37 40
 
 
+
+
 **Stiftelsen Autism**
 
     123 514 83 09
 
 
+
+
 **Stiftelsen Backamo Lägerplats**
 
     123 355 12 98
+
+
 
 
 **Stiftelsen Barndiabetesfonden**
@@ -43013,9 +59452,13 @@ Nummer: 12773
     123 900 72 04
 
 
+
+
 **Stiftelsen Barnens RäddningsArk**
 
     123 901 11 15
+
+
 
 
 **Stiftelsen Barnhjälp Soluppgång**
@@ -43023,9 +59466,13 @@ Nummer: 12773
     123 263 82 29
 
 
+
+
 **Stiftelsen BERAS Intenational**
 
     123 625 76 95
+
+
 
 
 **Stiftelsen Berget**
@@ -43033,9 +59480,13 @@ Nummer: 12773
     123 337 20 75
 
 
+
+
 **Stiftelsen Berättarministeriet**
 
     123 615 88 93
+
+
 
 
 **Stiftelsen bibelskolan.com**
@@ -43043,9 +59494,13 @@ Nummer: 12773
     123 574 99 40
 
 
+
+
 **Stiftelsen Biblicum**
 
     123 626 96 33
+
+
 
 
 **Stiftelsen Blodcancerfonden**
@@ -43053,9 +59508,13 @@ Nummer: 12773
     123 900 42 19
 
 
+
+
 **Stiftelsen Borås Forsknings- och Utvecklingsfond mot cancer**
 
     123 900 75 68
+
+
 
 
 **Stiftelsen Bräcke Diakoni**
@@ -43063,14 +59522,20 @@ Nummer: 12773
     123 585 45 00
 
 
+
+
 **Stiftelsen Brödet**
 
     123 900 42 01
 
 
+
+
 **Stiftelsen Båstadsfontänen**
 
     123 001 95 13
+
+
 
 
 **Stiftelsen ChildX**
@@ -43080,9 +59545,13 @@ Nummer: 12773
     123 900 82 93
 
 
+
+
 **Stiftelsen Claphaminstitutet**
 
     123 331 14 87
+
+
 
 
 **Stiftelsen Demensfonden**
@@ -43090,9 +59559,13 @@ Nummer: 12773
     123 900 85 82
 
 
+
+
 **Stiftelsen Dispurse**
 
     123 900 59 92
+
+
 
 
 **Stiftelsen Dynamis Världsevangelisation**
@@ -43100,9 +59573,13 @@ Nummer: 12773
     123 417 17 99
 
 
+
+
 **Stiftelsen Ekocentrum**
 
     123 420 25 03
+
+
 
 
 **Stiftelsen Ekolsunds Slott och Park**
@@ -43110,9 +59587,13 @@ Nummer: 12773
     123 255 60 09
 
 
+
+
 **Stiftelsen Ellen Bachrachs Minne**
 
     123 255 91 85
+
+
 
 
 **Stiftelsen En rökfri generation - A Non Smoking Generation**
@@ -43120,9 +59601,13 @@ Nummer: 12773
     123 901 97 95
 
 
+
+
 **Stiftelsen Eric Sahlström Institutet**
 
     123 198 23 13
+
+
 
 
 **Stiftelsen Estniska Skolan i Stockholm**
@@ -43130,9 +59615,13 @@ Nummer: 12773
     123 521 91 67
 
 
+
+
 **Stiftelsen Estoniaoffren och Anhöriga, SEA**
 
     123 366 25 41
+
+
 
 
 **Stiftelsen Expo**
@@ -43140,9 +59629,13 @@ Nummer: 12773
     123 271 02 59
 
 
+
+
 **Stiftelsen Fistulasjukhuset**
 
     123 900 29 65
+
+
 
 
 **Stiftelsen Forska utan djurförsök**
@@ -43150,9 +59643,13 @@ Nummer: 12773
     123 907 09 05
 
 
+
+
 **Stiftelsen Friends**
 
     123 900 52 73
+
+
 
 
 **Stiftelsen Fryshuset**
@@ -43170,9 +59667,13 @@ Nummer: 12773
     123 900 27 67
 
 
+
+
 **Stiftelsen för Astrid Lindgrens Barnsjukhus**
 
     123 290 95 62
+
+
 
 
 **Stiftelsen för befrämjande av cancerforskning vid Onkologiska kliniken universitetssjukhuset MAS**
@@ -43180,14 +59681,20 @@ Nummer: 12773
     123 900 39 22
 
 
+
+
 **Stiftelsen för Medicinsk forskning vid Universitetssjukhuset Örebro - Nyckelfonden**
 
     123 900 29 81
 
 
+
+
 **Stiftelsen för transplantations- och cancerforskning**
 
     123 267 08 18
+
+
 
 
 **Stiftelsen för Östersjölaxen**
@@ -43197,9 +59704,13 @@ Nummer: 12773
     123 900 59 35
 
 
+
+
 **Stiftelsen Gagnefs Minnesstuga**
 
     123 470 18 92
+
+
 
 
 **Stiftelsen Gapminder**
@@ -43207,9 +59718,13 @@ Nummer: 12773
     123 327 55 75
 
 
+
+
 **Stiftelsen Gruppsamlingsgården Kuvarp**
 
     123 146 57 49
+
+
 
 
 **Stiftelsen Guldfällen**
@@ -43217,9 +59732,13 @@ Nummer: 12773
     123 341 15 35
 
 
+
+
 **Stiftelsen Gundua**
 
     123 900 21 63
+
+
 
 
 **Stiftelsen Gävle Cancerfond**
@@ -43227,9 +59746,13 @@ Nummer: 12773
     123 901 11 23
 
 
+
+
 **Stiftelsen Göteborgs Kyrkliga Stadsmission**
 
     123 900 17 02
+
+
 
 
 **Stiftelsen Harald Edelstam**
@@ -43237,9 +59760,13 @@ Nummer: 12773
     123 197 46 82
 
 
+
+
 **Stiftelsen Havsbris**
 
     123 151 34 98
+
+
 
 
 **Stiftelsen Heliga Philothei**
@@ -43247,9 +59774,13 @@ Nummer: 12773
     123 101 16 34
 
 
+
+
 **Stiftelsen Hemmet Vid Vägen**
 
     123 026 31 03
+
+
 
 
 **Stiftelsen Henrik Superman**
@@ -43257,9 +59788,13 @@ Nummer: 12773
     123 900 32 11
 
 
+
+
 **Stiftelsen Hillesgårdspriset**
 
     123 137 66 80
+
+
 
 
 **Stiftelsen Hjelmseryds Prästgård**
@@ -43267,9 +59802,13 @@ Nummer: 12773
     123 323 67 26
 
 
+
+
 **Stiftelsen Hästforskning**
 
     123 499 91 99
+
+
 
 
 **Stiftelsen Håll Sverige Rent**
@@ -43277,9 +59816,13 @@ Nummer: 12773
     123 900 28 17
 
 
+
+
 **Stiftelsen Jubileumsklinikens forskningsfond mot cancer**
 
     123 900 97 96
+
+
 
 
 **Stiftelsen Kajsa och Olle Nymans Kulturstiftelse**
@@ -43287,9 +59830,13 @@ Nummer: 12773
     123 184 32 75
 
 
+
+
 **Stiftelsen Kiviks Museum & Arkiv**
 
     123 441 85 96
+
+
 
 
 **Stiftelsen Konsthall Tornedalen**
@@ -43297,9 +59844,13 @@ Nummer: 12773
     123 532 99 17
 
 
+
+
 **Stiftelsen Konung Gustaf V:s Jubileumsfond, Radiumhemmets Forskningsfonder**
 
     123 900 88 06
+
+
 
 
 **Stiftelsen Kurdiska Biblioteket**
@@ -43307,9 +59858,13 @@ Nummer: 12773
     123 343 14 91
 
 
+
+
 **Stiftelsen Kyrkans SOS**
 
     123 411 44 76
+
+
 
 
 **Stiftelsen Ladan**
@@ -43317,9 +59872,13 @@ Nummer: 12773
     123 664 43 89
 
 
+
+
 **Stiftelsen Lean On Me**
 
     123 900 76 42
+
+
 
 
 **Stiftelsen Ligula Foundation**
@@ -43327,9 +59886,13 @@ Nummer: 12773
     123 647 97 45
 
 
+
+
 **Stiftelsen Linnea Dahl**
 
     123 243 73 74
+
+
 
 
 **Stiftelsen Livets Ord**
@@ -43337,9 +59900,13 @@ Nummer: 12773
     123 900 16 60
 
 
+
+
 **Stiftelsen Livsuniversitetet**
 
     123 048 67 38
+
+
 
 
 **Stiftelsen LKR Forskningsfond**
@@ -43347,9 +59914,13 @@ Nummer: 12773
     123 571 52 30
 
 
+
+
 **Stiftelsen Läkare mot AIDs Forskningsfond**
 
     123 900 69 58
+
+
 
 
 **Stiftelsen Lööf Foundation**
@@ -43357,9 +59928,13 @@ Nummer: 12773
     123 386 10 44
 
 
+
+
 **Stiftelsen Mannaminne**
 
     123 651 27 92
+
+
 
 
 **Stiftelsen Min Stora Dag**
@@ -43367,9 +59942,13 @@ Nummer: 12773
     123 900 51 33
 
 
+
+
 **Stiftelsen Musikbojen**
 
     123 900 63 47
+
+
 
 
 **Stiftelsen New Hope Reseindustrins Barnfond**
@@ -43377,9 +59956,13 @@ Nummer: 12773
     123 901 18 83
 
 
+
+
 **Stiftelsen New Life Mission**
 
     123 900 46 98
+
+
 
 
 **Stiftelsen Nordens Ark**
@@ -43389,9 +59972,13 @@ Nummer: 12773
     123 900 46 07
 
 
+
+
 **Stiftelsen Nordiska Museet**
 
     123 628 04 24 - Märkes 'Insamling till Ukraina'
+
+
 
 
 **Stiftelsen Norrländska Hjärtfonden**
@@ -43399,9 +59986,13 @@ Nummer: 12773
     123 900 26 19
 
 
+
+
 **Stiftelsen Onkologiska Klinikens i Uppsala Forskningsfond**
 
     123 900 05 30
+
+
 
 
 **Stiftelsen Ordets Mission**
@@ -43409,9 +60000,13 @@ Nummer: 12773
     123 448 16 85
 
 
+
+
 **Stiftelsen ParkinsonFörbundets Forskningsfond**
 
     123 900 79 49
+
+
 
 
 **Stiftelsen Pharos**
@@ -43419,9 +60014,13 @@ Nummer: 12773
     123 291 93 97
 
 
+
+
 **Stiftelsen Radiohjälpen**
 
     123 901 95 06
+
+
 
 
 **Stiftelsen Reach for Change**
@@ -43429,9 +60028,13 @@ Nummer: 12773
     123 900 23 53
 
 
+
+
 **Stiftelsen Regnbågshjärtan**
 
     123 380 28 65
+
+
 
 
 **Stiftelsen Ronald McDonald Barnfond**
@@ -43439,9 +60042,13 @@ Nummer: 12773
     123 900 70 22
 
 
+
+
 **Stiftelsen Ronald McDonald Barnfond Göteborg**
 
     123 178 05 01
+
+
 
 
 **Stiftelsen Ronald McDonald Barnfond Huddinge**
@@ -43449,9 +60056,13 @@ Nummer: 12773
     123 467 74 31
 
 
+
+
 **Stiftelsen Ronald McDonald Barnfond Linköping**
 
     123 276 59 64
+
+
 
 
 **Stiftelsen Ronald McDonald Barnfond Lund**
@@ -43459,9 +60070,13 @@ Nummer: 12773
     123 137 10 12
 
 
+
+
 **Stiftelsen Ronald McDonald Barnfond Uppsala**
 
     123 515 82 17
+
+
 
 
 **Stiftelsen Rosendals Trädgård**
@@ -43469,9 +60084,13 @@ Nummer: 12773
     123 404 19 27
 
 
+
+
 **Stiftelsen Rotarys Läkarbank**
 
     123 900 47 22
+
+
 
 
 **Stiftelsen Rotarys Ungdomsutbyte i Sverige & Lettland**
@@ -43479,9 +60098,13 @@ Nummer: 12773
     123 628 33 94
 
 
+
+
 **Stiftelsen Sjömanskyrkan i Göteborgs Stift**
 
     123 387 87 41
+
+
 
 
 **Stiftelsen Skandinavisk Yoga och Meditationsskola**
@@ -43491,9 +60114,13 @@ Nummer: 12773
     123 684 08 96
 
 
+
+
 **Stiftelsen Skandinaviska Barnmissionen**
 
     123 901 08 02
+
+
 
 
 **Stiftelsen Skota Hem**
@@ -43501,9 +60128,13 @@ Nummer: 12773
     123 571 47 95
 
 
+
+
 **Stiftelsen Skåne Stadsmission**
 
     123 900 32 52
+
+
 
 
 **Stiftelsen Skövde Moské och Kulturhus**
@@ -43511,9 +60142,13 @@ Nummer: 12773
     123 168 48 51
 
 
+
+
 **Stiftelsen Spinalis**
 
     123 263 42 44
+
+
 
 
 **Stiftelsen Station Linné**
@@ -43521,9 +60156,13 @@ Nummer: 12773
     123 635 94 00
 
 
+
+
 **Stiftelsen Stockholms Sjukhem**
 
     123 280 68 83
+
+
 
 
 **Stiftelsen Storholmen Norden**
@@ -43533,9 +60172,13 @@ Nummer: 12773
     123 442 83 63
 
 
+
+
 **Stiftelsen Svensk Våtmarksfond**
 
     123 653 03 64
+
+
 
 
 **Stiftelsen Svenska Amnestyfonden**
@@ -43543,9 +60186,13 @@ Nummer: 12773
     123 900 07 04
 
 
+
+
 **Stiftelsen Svenska Diabetesförbundets Forskningsfond - Diabetesfonden**
 
     123 900 90 10
+
+
 
 
 **Stiftelsen Svenska Hjärtan - till minne av Ebba Stefansdotter Åkerlund**
@@ -43553,9 +60200,13 @@ Nummer: 12773
     123 662 48 94
 
 
+
+
 **Stiftelsen Svenskt Internationellt Hjälparbete, SIRA**
 
     123 900 07 79
+
+
 
 
 **Stiftelsen Sällsyntafonden**
@@ -43563,9 +60214,13 @@ Nummer: 12773
     123 900 56 04
 
 
+
+
 **Stiftelsen Team Mission**
 
     123 901 32 02
+
+
 
 
 **Stiftelsen the Espersen Foundation**
@@ -43573,9 +60228,13 @@ Nummer: 12773
     123 900 57 03
 
 
+
+
 **Stiftelsen The Hunger Project Sverige**
 
     123 901 99 77
+
+
 
 
 **Stiftelsen Tim Bergling Foundation**
@@ -43583,9 +60242,13 @@ Nummer: 12773
     123 065 67 44 - Avicii-fonden
 
 
+
+
 **Stiftelsen Torghuset**
 
     123 677 74 94
+
+
 
 
 **Stiftelsen Trygga Barnen**
@@ -43593,9 +60256,13 @@ Nummer: 12773
     123 900 82 51
 
 
+
+
 **Stiftelsen Unga Kvinnors Värn**
 
     123 900 74 44
+
+
 
 
 **Stiftelsen Uppåkra Arkeologiska Center**
@@ -43607,6 +60274,8 @@ Nummer: 12773
     123 421 21 97 - Gåvor och insamlingar
 
 
+
+
 **Stiftelsen Världsnaturfonden WWF**
 
     123 901 97 12
@@ -43614,9 +60283,13 @@ Nummer: 12773
     123 901 97 46
 
 
+
+
 **Stiftelsen Västmanlands forskningsfond mot cancer**
 
     123 900 55 05
+
+
 
 
 **Stiftelsen Våga va' dig själv!!!**
@@ -43624,9 +60297,13 @@ Nummer: 12773
     123 900 73 94
 
 
+
+
 **Stiftelsen Waldos Wänner**
 
     123 338 88 40
+
+
 
 
 **Stiftelsen Womengineer**
@@ -43634,9 +60311,13 @@ Nummer: 12773
     123 323 46 48
 
 
+
+
 **Stiftelsen World Childhood Foundation**
 
     123 909 00 36
+
+
 
 
 **Stiftelsen World's Children's Prize Foundation**
@@ -43644,9 +60325,13 @@ Nummer: 12773
     123 900 18 68
 
 
+
+
 **Stiftelsen Zonny**
 
     123 161 39 75
+
+
 
 
 **Stiftsgården Rättvik**
@@ -43654,9 +60339,13 @@ Nummer: 12773
     123 037 60 61
 
 
+
+
 **Stiftsgården Tallnäs**
 
     123 238 67 53
+
+
 
 
 **Stiftshistoriska sällskapet, Luleå stift**
@@ -43664,9 +60353,13 @@ Nummer: 12773
     123 435 68 46
 
 
+
+
 **Stig Sjödin Sällskapet**
 
     123 209 13 04
+
+
 
 
 **Stigens kyrka / Bohuslän-Dals Pastorat**
@@ -43674,9 +60367,13 @@ Nummer: 12773
     123 678 90 36
 
 
+
+
 **Stigmännen - Karlshamns OK**
 
     123 678 47 63
+
+
 
 
 **Stigsjö Församling**
@@ -43684,9 +60381,13 @@ Nummer: 12773
     123 262 00 94
 
 
+
+
 **Stigtomta Hembygdsförening**
 
     123 267 82 25
+
+
 
 
 **Stigtomta-Vrena Församling**
@@ -43700,9 +60401,13 @@ Nummer: 12773
     123 601 01 69 - Kollekt
 
 
+
+
 **Stillingsön & Kårekile Sportklubb, SKSK**
 
     123 152 40 65
+
+
 
 
 **Stina's Equestrian Services**
@@ -43710,9 +60415,13 @@ Nummer: 12773
     123 543 16 97
 
 
+
+
 **Stjernfors Golfklubb**
 
     123 160 27 88
+
+
 
 
 **Stjärnholms Ryttarförening**
@@ -43720,9 +60429,13 @@ Nummer: 12773
     123 274 05 53
 
 
+
+
 **Stjärnhovs IK**
 
     123 419 44 29
+
+
 
 
 **Stjärnjouren**
@@ -43730,9 +60443,13 @@ Nummer: 12773
     123 042 72 29
 
 
+
+
 **Stjärnkrigspodden / Punktliga Produktioner AB**
 
     123 141 51 99
+
+
 
 
 **Stjärnsunds AIF, SAIF**
@@ -43740,9 +60457,13 @@ Nummer: 12773
     123 510 64 71
 
 
+
+
 **Stockaryd-Wrigstad 2010 Innebandyklubb**
 
     123 510 46 66
+
+
 
 
 **Stockholm 12**
@@ -43750,9 +60471,13 @@ Nummer: 12773
     123 362 32 12
 
 
+
+
 **Stockholm Aiki Kai, SAK**
 
     123 373 37 22
+
+
 
 
 **Stockholm BJJ Center**
@@ -43760,9 +60485,13 @@ Nummer: 12773
     123 305 42 85
 
 
+
+
 **Stockholm Bulgarienturkarnas Kulturförening**
 
     123 226 20 46
+
+
 
 
 **Stockholm Framefotboll IF**
@@ -43770,9 +60499,13 @@ Nummer: 12773
     123 639 82 18
 
 
+
+
 **Stockholm Frontrunners IF**
 
     123 453 72 54
+
+
 
 
 **Stockholm International Peace Research Institute, SIPRI**
@@ -43780,9 +60513,13 @@ Nummer: 12773
     123 083 33 76
 
 
+
+
 **Stockholm Kiteboardcenter SKBC**
 
     123 465 68 64
+
+
 
 
 **Stockholm Kärsön frisbeeklubb**
@@ -43790,9 +60527,13 @@ Nummer: 12773
     123 098 40 54
 
 
+
+
 **Stockholm Trekkers, Star Trek fan club**
 
     123 641 85 86
+
+
 
 
 **Stockholms Barnidrottsförening**
@@ -43800,9 +60541,13 @@ Nummer: 12773
     123 304 52 83
 
 
+
+
 **Stockholms BSK - Baseboll och Softboll**
 
     123 115 81 38
+
+
 
 
 **Stockholms Byggnadsförening**
@@ -43810,9 +60555,13 @@ Nummer: 12773
     123 370 03 66
 
 
+
+
 **Stockholms Cykelförbund**
 
     123 594 86 33
+
+
 
 
 **Stockholms Dartförbund**
@@ -43820,9 +60569,13 @@ Nummer: 12773
     123 073 83 93
 
 
+
+
 **Stockholms Dövas Förening**
 
     123 468 80 99
+
+
 
 
 **Stockholms Gitarrakademi / Emil Kjellbom**
@@ -43830,9 +60583,13 @@ Nummer: 12773
     123 637 85 66
 
 
+
+
 **Stockholms Herpetologiska Förening, SHF**
 
     123 440 67 16
+
+
 
 
 **Stockholms Hundhälsa**
@@ -43840,9 +60597,13 @@ Nummer: 12773
     123 268 69 05
 
 
+
+
 **Stockholms Hundkapplöpningssällskap**
 
     123 267 15 19
+
+
 
 
 **Stockholms Hundsportcentrum AB**
@@ -43850,9 +60611,13 @@ Nummer: 12773
     123 048 40 71
 
 
+
+
 **Stockholms Improvisationsteater AB**
 
     123 359 05 28
+
+
 
 
 **Stockholms Isjaktklubb**
@@ -43860,9 +60625,13 @@ Nummer: 12773
     123 078 84 89
 
 
+
+
 **Stockholms Judoklubb**
 
     123 122 75 29
+
+
 
 
 **Stockholms Kajak Klubb, SKK**
@@ -43870,9 +60639,13 @@ Nummer: 12773
     123 465 75 32
 
 
+
+
 **Stockholms kattklubb**
 
     123 224 14 20
+
+
 
 
 **Stockholms KK - Karate**
@@ -43880,9 +60653,13 @@ Nummer: 12773
     123 021 87 01
 
 
+
+
 **Stockholms Klätterförbund**
 
     123 593 13 16
+
+
 
 
 **Stockholms Kyokushin Karate**
@@ -43890,9 +60667,13 @@ Nummer: 12773
     123 020 46 02
 
 
+
+
 **Stockholms Köpmansklubb**
 
     123 591 04 43
+
+
 
 
 **Stockholms Ornitologiska Förening, StOF**
@@ -43900,9 +60681,13 @@ Nummer: 12773
     123 457 82 58
 
 
+
+
 **Stockholms Rullskidklubb**
 
     123 188 12 00
+
+
 
 
 **Stockholms Schacksällskap**
@@ -43910,9 +60695,13 @@ Nummer: 12773
     123 609 53 92
 
 
+
+
 **Stockholms Scoutskeppslag**
 
     123 546 45 16
+
+
 
 
 **Stockholms Skyttesportförbund**
@@ -43920,9 +60709,13 @@ Nummer: 12773
     123 139 34 12
 
 
+
+
 **Stockholms Skärgårds Tennisklubb, SSTK**
 
     123 280 16 45
+
+
 
 
 **Stockholms Stadsmission**
@@ -43932,9 +60725,13 @@ Nummer: 12773
     123 900 35 18
 
 
+
+
 **Stockholms Studentsångare**
 
     123 451 20 91
+
+
 
 
 **Stockholms Tjej-jour**
@@ -43942,9 +60739,13 @@ Nummer: 12773
     123 562 25 27
 
 
+
+
 **Stockholms universitet**
 
     123 608 43 70 - Victoriahuset, Bergianska trädgården
+
+
 
 
 **Stockholms Universitets Fakultetsklubb**
@@ -43952,9 +60753,13 @@ Nummer: 12773
     123 104 34 39
 
 
+
+
 **Stockholms Universitets Konstförening**
 
     123 669 46 32
+
+
 
 
 **Stockholms Vildfågel Rehab**
@@ -43962,9 +60767,13 @@ Nummer: 12773
     123 281 19 58
 
 
+
+
 **Stockholms Wushu & Kung fu IF**
 
     123 321 98 39
+
+
 
 
 **Stockholmspolisens Skytteförening**
@@ -43972,9 +60781,13 @@ Nummer: 12773
     123 683 88 25
 
 
+
+
 **Stocksbergskyrkan i Korsberga**
 
     123 339 76 19
+
+
 
 
 **Stocksbo-Åbo-Brinnasen Byalag**
@@ -43982,9 +60795,13 @@ Nummer: 12773
     123 208 88 39
 
 
+
+
 **Stoopendaal & Sundfelt Podcast / Andres Stoopendahl**
 
     123 433 41 73
+
+
 
 
 **Stopthewar.se**
@@ -43992,9 +60809,13 @@ Nummer: 12773
     123 092 29 97
 
 
+
+
 **Stora Ekeby Kött & Korvmakeri / Stora Ekeby Säteri i Västerås AB**
 
     123 089 74 54
+
+
 
 
 **Stora Höga RK**
@@ -44002,14 +60823,20 @@ Nummer: 12773
     123 303 32 89
 
 
+
+
 **Stora Kils Hembygdsförening**
 
     123 560 61 65
 
 
+
+
 **Stora Levene Scoutkår**
 
     123 402 70 25
+
+
 
 
 **Stora Mellösa Baptistförsamling**
@@ -44021,14 +60848,20 @@ Nummer: 12773
     123 576 31 15
 
 
+
+
 **Stora Rörs Båtsällskap**
 
     123 238 39 17
 
 
+
+
 **Stora Tolvsbo Jaktskytteklubb**
 
     123 029 91 31
+
+
 
 
 **Stora Tuna och Torsångs Pastorat**
@@ -44054,9 +60887,13 @@ Nummer: 12773
     123 609 12 76 - Kollekt Väster Tuna kapell
 
 
+
+
 **Stora Tuna Scoutkår**
 
     123 029 93 13
+
+
 
 
 **Stora Wäsby Fältrittklubb**
@@ -44064,9 +60901,13 @@ Nummer: 12773
     123 449 15 36
 
 
+
+
 **Storasystrarna**
 
     123 216 36 32
+
+
 
 
 **Store Mosse Förening**
@@ -44074,9 +60915,13 @@ Nummer: 12773
     123 024 28 91
 
 
+
+
 **Storebro IF**
 
     123 476 32 72
+
+
 
 
 **Storfors AIK**
@@ -44086,9 +60931,13 @@ Nummer: 12773
     123 483 77 46
 
 
+
+
 **Storfors Båtklubb**
 
     123 324 12 96
+
+
 
 
 **Storfors Församling**
@@ -44096,9 +60945,13 @@ Nummer: 12773
     123 613 36 80 - Bastuflotten
 
 
+
+
 **Storfors Hundklubb Lokala Kennelklubb**
 
     123 190 29 56
+
+
 
 
 **Storfors Idrottshistoriska Sällskap**
@@ -44106,9 +60959,13 @@ Nummer: 12773
     123 644 67 28
 
 
+
+
 **Storklintens AK Skalp - Skidor**
 
     123 147 90 70
+
+
 
 
 **Storsjö Bygdegård**
@@ -44116,9 +60973,13 @@ Nummer: 12773
     123 107 28 91
 
 
+
+
 **Storsjöbygdens Golfklubb**
 
     123 633 45 02
+
+
 
 
 **Storsjöns Kallbadhus**
@@ -44126,9 +60987,13 @@ Nummer: 12773
     123 606 94 21
 
 
+
+
 **Storsjöns Vägförening**
 
     123 586 48 55
+
+
 
 
 **Storstrand Kursgård / Storstrandsföreningen**
@@ -44136,14 +61001,20 @@ Nummer: 12773
     123 084 72 77
 
 
+
+
 **Storumans Brukshundklubb**
 
     123 053 61 93
 
 
+
+
 **Storumans Idrottsklubb**
 
     123 653 79 30
+
+
 
 
 **Storviks IF**
@@ -44155,9 +61026,13 @@ Nummer: 12773
     123 583 45 44
 
 
+
+
 **Storvreta IK**
 
     123 520 08 86
+
+
 
 
 **Storvreta Ärentuna Kultur & Hembygdsförening**
@@ -44165,9 +61040,13 @@ Nummer: 12773
     123 304 08 96
 
 
+
+
 **Strandabygdens SpSk**
 
     123 416 86 39
+
+
 
 
 **Strandbadens Byaförening**
@@ -44175,9 +61054,13 @@ Nummer: 12773
     123 562 54 47
 
 
+
+
 **Strandgården Vilshärad / Stiftelsen Fritidsgårdar**
 
     123 449 45 22
+
+
 
 
 **Strandhugg Förlag / Johan Thyberg**
@@ -44185,9 +61068,13 @@ Nummer: 12773
     123 582 19 05
 
 
+
+
 **Strandkliniken Stockholm / Kibele AB**
 
     123 332 04 54
+
+
 
 
 **Strandkyrkans Församling av Equmeniakyrkan**
@@ -44195,9 +61082,13 @@ Nummer: 12773
     123 056 43 10
 
 
+
+
 **Strandstädarna**
 
     123 230 66 11
+
+
 
 
 **Strandtorp Golfklubb**
@@ -44205,9 +61096,13 @@ Nummer: 12773
     123 514 51 07
 
 
+
+
 **Stratos Enköping BTK**
 
     123 146 31 16
+
+
 
 
 **Street Stars Cruisers**
@@ -44215,9 +61110,13 @@ Nummer: 12773
     123 511 16 87
 
 
+
+
 **Streetstar**
 
     123 507 87 61
+
+
 
 
 **Strindbergssällskapet**
@@ -44225,9 +61124,13 @@ Nummer: 12773
     123 018 39 39
 
 
+
+
 **Stroke - Länsföreningen Jämtland och Härjedalen**
 
     123 072 63 49
+
+
 
 
 **Strokeförbundet**
@@ -44235,9 +61138,13 @@ Nummer: 12773
     123 900 53 07
 
 
+
+
 **Strokeföreningen i Norra Örebro Län, SNÖ**
 
     123 585 78 00
+
+
 
 
 **Strokeföreningen i Stockholms län**
@@ -44245,9 +61152,13 @@ Nummer: 12773
     123 038 95 44
 
 
+
+
 **Strokeföreningen Malmö**
 
     123 563 83 41
+
+
 
 
 **Strokeföreningen Tranås**
@@ -44255,9 +61166,13 @@ Nummer: 12773
     123 669 53 57
 
 
+
+
 **Strokeföreningen Örebro, SÖ**
 
     123 583 77 52
+
+
 
 
 **StrokeRide CK**
@@ -44265,9 +61180,13 @@ Nummer: 12773
     123 087 19 70
 
 
+
+
 **StrongBySunden / Agnes Sundén**
 
     123 037 50 97
+
+
 
 
 **Strumpis / Panatta Of Sweden AB**
@@ -44275,9 +61194,13 @@ Nummer: 12773
     123 026 63 20
 
 
+
+
 **Strädelängan Ekonomisk förening**
 
     123 295 75 95
+
+
 
 
 **Strängnäs BSK**
@@ -44285,9 +61208,13 @@ Nummer: 12773
     123 617 19 38
 
 
+
+
 **Strängnäs JSK - Skyttesport**
 
     123 030 02 02
+
+
 
 
 **Strängnäs Lokala Kennelklubb**
@@ -44295,9 +61222,13 @@ Nummer: 12773
     123 419 67 54
 
 
+
+
 **Strängnäs Scoutkår**
 
     123 019 93 64
+
+
 
 
 **Strängnäs Segelsällskap**
@@ -44305,9 +61236,13 @@ Nummer: 12773
     123 344 02 60
 
 
+
+
 **Strängnäs Simklubb**
 
     123 098 11 18
+
+
 
 
 **Strängnäsbygdens Släktforskarförening**
@@ -44315,9 +61250,13 @@ Nummer: 12773
     123 241 08 76
 
 
+
+
 **Strängnäspartiet**
 
     123 469 34 12
+
+
 
 
 **Strålskyddsstiftelsen**
@@ -44325,9 +61264,13 @@ Nummer: 12773
     123 049 29 83
 
 
+
+
 **Stråssa Byförening**
 
     123 351 38 01
+
+
 
 
 **Strödetaljer AB**
@@ -44335,9 +61278,13 @@ Nummer: 12773
     123 156 93 83
 
 
+
+
 **Ström-Alanäs församling / Strömsunds Pastorat**
 
     123 543 75 53
+
+
 
 
 **Strömkarlens Karateklubb**
@@ -44345,9 +61292,13 @@ Nummer: 12773
     123 223 15 38
 
 
+
+
 **Ströms Bowlingshop**
 
     123 085 43 31
+
+
 
 
 **Ströms Hembygdsförening**
@@ -44359,9 +61310,13 @@ Nummer: 12773
     123 690 68 53
 
 
+
+
 **Strömsbergs IF**
 
     123 056 58 20
+
+
 
 
 **Strömsbro IF**
@@ -44381,9 +61336,13 @@ Nummer: 12773
     123 653 63 95
 
 
+
+
 **Strömsholms GK**
 
     123 083 66 35
+
+
 
 
 **Strömsholms Kanalaktiebolag**
@@ -44391,9 +61350,13 @@ Nummer: 12773
     123 449 26 82
 
 
+
+
 **Strömsnäsbruks IF**
 
     123 237 38 43
+
+
 
 
 **Strömstad Cykelklubb**
@@ -44401,9 +61364,13 @@ Nummer: 12773
     123 245 40 72
 
 
+
+
 **Strömstad Tanums KK**
 
     123 222 26 36
+
+
 
 
 **Strömstads Brukshundklubb**
@@ -44411,9 +61378,13 @@ Nummer: 12773
     123 093 97 28
 
 
+
+
 **Strömstads Motorklubb**
 
     123 452 59 29
+
+
 
 
 **Strömsunds Brukshundklubb, SBHK**
@@ -44421,9 +61392,13 @@ Nummer: 12773
     123 040 59 85
 
 
+
+
 **Strömsunds RK - Ridsport**
 
     123 494 16 47
+
+
 
 
 **Strövelstorps Församling**
@@ -44431,9 +61406,13 @@ Nummer: 12773
     123 660 90 02
 
 
+
+
 **Studebakerklubben Sweden**
 
     123 603 98 20
+
+
 
 
 **Studentkåren i Sundsvall**
@@ -44441,9 +61420,13 @@ Nummer: 12773
     123 007 39 24 - Journalistförbundet Sundsvall
 
 
+
+
 **Studentkåren vid Johannelunds Teologiska Högskola**
 
     123 024 18 51
+
+
 
 
 **Studiehemmet Hemgården**
@@ -44451,9 +61434,13 @@ Nummer: 12773
     123 571 94 48
 
 
+
+
 **Studio Fagerstedt - Tettes keramik**
 
     123 399 03 71
+
+
 
 
 **Studio Wellness / Skärgårdens Rökeri AB**
@@ -44461,9 +61448,13 @@ Nummer: 12773
     123 049 26 45
 
 
+
+
 **Stugsunds IK**
 
     123 616 24 40
+
+
 
 
 **Styrsjöbo Byförening**
@@ -44471,9 +61462,13 @@ Nummer: 12773
     123 615 69 88
 
 
+
+
 **Styrsö Missionsförsamling**
 
     123 196 34 38
+
+
 
 
 **Styrsö Sockens Hembygdsförening**
@@ -44481,9 +61476,13 @@ Nummer: 12773
     123 423 33 34
 
 
+
+
 **Städkompaniet AB**
 
     123 359 52 87
+
+
 
 
 **Stäkets Idrottsförening**
@@ -44491,9 +61490,13 @@ Nummer: 12773
     123 113 55 08
 
 
+
+
 **Ställning & Fallskyddsprodukter Sverige AB**
 
     123 134 14 29
+
+
 
 
 **Ställplats Fengersfors / Fengersfors Fröskogs lanthandel AB**
@@ -44501,9 +61504,13 @@ Nummer: 12773
     123 380 46 55
 
 
+
+
 **Stämningsgårdens Byaförening**
 
     123 333 86 70
+
+
 
 
 **Stärnö Vindhamns Båtklubb**
@@ -44511,14 +61518,20 @@ Nummer: 12773
     123 225 07 93
 
 
+
+
 **Stättareds 4H-gård**
 
     123 222 24 04
 
 
+
+
 **Stålboms konditori**
 
     123 123 94 74
+
+
 
 
 **Stöde Hembygdsförening**
@@ -44528,11 +61541,15 @@ Nummer: 12773
     123 267 47 86
 
 
+
+
 **Stöde IF**
 
     123 276 83 49
 
     123 542 60 51 - Dam
+
+
 
 
 **Stödföreningen för Barbro Johanssons fond för utbildning av flickor i Tanzania, JOHAfonden**
@@ -44542,9 +61559,13 @@ Nummer: 12773
     123 900 60 73
 
 
+
+
 **Stödföreningen för Lödöse Museum**
 
     123 351 12 19
+
+
 
 
 **Stödföreningen för Martaskolan i Uganda**
@@ -44552,9 +61573,13 @@ Nummer: 12773
     123 900 44 09
 
 
+
+
 **Stödföreningen för Svenska Kulturstiftelsen**
 
     123 620 70 88
+
+
 
 
 **Stödföreningen Mama Norah Education Centre**
@@ -44562,9 +61587,13 @@ Nummer: 12773
     123 092 79 13
 
 
+
+
 **Stöpen IBK**
 
     123 281 60 80
+
+
 
 
 **Stöttepelaren - Stödförening för Ensamkommande Barn och Ungdomar**
@@ -44574,9 +61603,13 @@ Nummer: 12773
     123 583 19 04
 
 
+
+
 **Suderkyrkan**
 
     123 494 14 49
+
+
 
 
 **Suicide Zero**
@@ -44584,9 +61617,13 @@ Nummer: 12773
     123 900 39 89
 
 
+
+
 **Suicidprevention i Väst**
 
     123 900 16 86
+
+
 
 
 **Sundals Ryrs Byalag**
@@ -44594,9 +61631,13 @@ Nummer: 12773
     123 098 83 03
 
 
+
+
 **Sundbergs Busstrafik AB**
 
     123 116 96 30
+
+
 
 
 **Sundbergs Hundtjänst / Frida Wallén**
@@ -44604,9 +61645,13 @@ Nummer: 12773
     123 635 92 10
 
 
+
+
 **Sundborns Församling**
 
     123 627 35 10
+
+
 
 
 **Sundby Ridklubb**
@@ -44614,9 +61659,13 @@ Nummer: 12773
     123 202 28 04
 
 
+
+
 **Sundbybergs BSC**
 
     123 372 95 55
+
+
 
 
 **Sundbybergs Församling**
@@ -44628,14 +61677,20 @@ Nummer: 12773
     123 602 56 88 - Kollekt
 
 
+
+
 **Sundbybergs Hockeysällskap**
 
     123 117 76 93
 
 
+
+
 **Sundbyviks Golfklubb**
 
     123 323 14 61
+
+
 
 
 **Sunderby SK**
@@ -44655,9 +61710,13 @@ Nummer: 12773
     123 579 05 06 - Fotbollssektionen
 
 
+
+
 **Sundsjö Hembygdsförening**
 
     123 400 76 05
+
+
 
 
 **Sundsjö Idrottsförening**
@@ -44665,9 +61724,13 @@ Nummer: 12773
     123 381 52 06
 
 
+
+
 **Sundskanalen Nordvästra Skåne**
 
     123 342 25 65
+
+
 
 
 **Sundsvall Blue Heroes BBK**
@@ -44675,9 +61738,13 @@ Nummer: 12773
     123 034 18 67
 
 
+
+
 **Sundsvall City IBC**
 
     123 600 02 93
+
+
 
 
 **Sundsvall Demolition Rollers**
@@ -44685,9 +61752,13 @@ Nummer: 12773
     123 681 94 94
 
 
+
+
 **Sundsvall GBK**
 
     123 225 08 84
+
+
 
 
 **Sundsvall - Njurunda Båtklubb, SNBK**
@@ -44695,9 +61766,13 @@ Nummer: 12773
     123 213 66 04
 
 
+
+
 **Sundsvalls Brukshundklubb**
 
     123 100 78 55
+
+
 
 
 **Sundsvalls Budoklubb**
@@ -44705,9 +61780,13 @@ Nummer: 12773
     123 252 98 08
 
 
+
+
 **Sundsvalls FK - Ridsport**
 
     123 480 46 70
+
+
 
 
 **Sundsvalls Frisbee Förening**
@@ -44715,9 +61794,13 @@ Nummer: 12773
     123 426 36 20
 
 
+
+
 **Sundsvalls Golfklubb**
 
     123 571 58 67
+
+
 
 
 **Sundsvalls IBF**
@@ -44737,9 +61820,13 @@ Nummer: 12773
     123 680 21 69
 
 
+
+
 **Sundsvalls Pistolskytteklubb**
 
     123 183 49 77
+
+
 
 
 **Sundsvalls Segelflygklubb**
@@ -44747,9 +61834,13 @@ Nummer: 12773
     123 103 11 11
 
 
+
+
 **Sundsvalls Simsällskap**
 
     123 458 26 64
+
+
 
 
 **Sundsvalls Sportdykarklubb Lagun**
@@ -44757,9 +61848,13 @@ Nummer: 12773
     123 099 66 60
 
 
+
+
 **Sundsvalls Sportskytteklubb**
 
     123 326 39 28
+
+
 
 
 **Sundsvalls Squash Club Arena AB**
@@ -44767,9 +61862,13 @@ Nummer: 12773
     123 510 46 58
 
 
+
+
 **Sundsvalls Tekniska Förening, SUTF**
 
     123 359 17 57
+
+
 
 
 **Sundsvalls Trafikskola AB**
@@ -44777,9 +61876,13 @@ Nummer: 12773
     123 600 60 84
 
 
+
+
 **Sunnansjö Gård / Gunnar Rundgren**
 
     123 174 21 05
+
+
 
 
 **Sunnanå SK**
@@ -44787,9 +61890,13 @@ Nummer: 12773
     123 350 08 65
 
 
+
+
 **Sunne Hembygdsförening**
 
     123 378 22 57
+
+
 
 
 **Sunne IK**
@@ -44799,9 +61906,13 @@ Nummer: 12773
     123 515 85 97
 
 
+
+
 **Sunne-Nytt**
 
     123 668 94 91
+
+
 
 
 **Sunne Pastorat**
@@ -44809,9 +61920,13 @@ Nummer: 12773
     123 420 40 61
 
 
+
+
 **Sunne Tennisklubb**
 
     123 338 45 42
+
+
 
 
 **Sunnerbo Dam**
@@ -44819,9 +61934,13 @@ Nummer: 12773
     123 058 80 79
 
 
+
+
 **Sunnersbergs Församling**
 
     123 601 33 79
+
+
 
 
 **Sunnersta AIF**
@@ -44831,9 +61950,13 @@ Nummer: 12773
     123 602 35 76
 
 
+
+
 **Sunvära SK**
 
     123 538 21 22
+
+
 
 
 **Supercenter Soccer / Supersports International AB**
@@ -44841,9 +61964,13 @@ Nummer: 12773
     123 362 40 53
 
 
+
+
 **Support For Ukraine / Malmö FN-förening**
 
     123 581 53 52
+
+
 
 
 **Support Group Network**
@@ -44851,9 +61978,13 @@ Nummer: 12773
     123 223 37 32
 
 
+
+
 **Supporterföreningen North Power**
 
     123 458 24 66
+
+
 
 
 **Supporterhuset**
@@ -44861,9 +61992,13 @@ Nummer: 12773
     123 188 32 48
 
 
+
+
 **Supporterklubb Bohus Bataljon**
 
     123 602 51 18
+
+
 
 
 **Supporterklubben**
@@ -44871,9 +62006,13 @@ Nummer: 12773
     123 036 38 12
 
 
+
+
 **Supporterklubben Getingarna**
 
     123 388 36 91
+
+
 
 
 **Supporterklubben Kärnan**
@@ -44881,9 +62020,13 @@ Nummer: 12773
     123 576 64 49
 
 
+
+
 **Supporterklubben Röda Bollen**
 
     123 466 95 37
+
+
 
 
 **Supporterklubben Änglarna**
@@ -44893,9 +62036,13 @@ Nummer: 12773
     123 460 65 54 - Änglahjälpen
 
 
+
+
 **Supporterspelaren / Björklöven AB**
 
     123 427 59 13
+
+
 
 
 **Surahammars Golfklubb**
@@ -44903,9 +62050,13 @@ Nummer: 12773
     123 056 46 41
 
 
+
+
 **Surahammars IF**
 
     123 590 46 77
+
+
 
 
 **Surahammars Skytteförening**
@@ -44913,14 +62064,20 @@ Nummer: 12773
     123 346 18 45
 
 
+
+
 **Surahammars SOK**
 
     123 694 64 46
 
 
+
+
 **Surte BK**
 
     123 527 97 24
+
+
 
 
 **Surte IS**
@@ -44930,9 +62087,13 @@ Nummer: 12773
     123 510 44 50
 
 
+
+
 **Susedalens Hälsocenter / Susedalen Health & Consulting AB**
 
     123 570 96 96
+
+
 
 
 **Svabensverks Bygdeförening**
@@ -44940,9 +62101,13 @@ Nummer: 12773
     123 540 77 62
 
 
+
+
 **Svaide Roma SOK**
 
     123 100 79 13
+
+
 
 
 **Svalorna Indien-Bangladesh**
@@ -44950,9 +62115,13 @@ Nummer: 12773
     123 901 23 45
 
 
+
+
 **Svalorna Latinamerika**
 
     123 900 91 27
+
+
 
 
 **Svalövs BK**
@@ -44960,9 +62129,13 @@ Nummer: 12773
     123 409 03 46
 
 
+
+
 **Svalövs brukshundklubb**
 
     123 593 13 81
+
+
 
 
 **Svanesunds Båtklubb**
@@ -44970,9 +62143,13 @@ Nummer: 12773
     123 502 10 01
 
 
+
+
 **Svaneviks Bryggförening**
 
     123 092 65 43
+
+
 
 
 **Svankärrets Samfällighetsförening**
@@ -44980,9 +62157,13 @@ Nummer: 12773
     123 115 71 22
 
 
+
+
 **Svanskogs Hundfysik / Sofia Malmberg**
 
     123 346 44 27
+
+
 
 
 **Svanskogs IF**
@@ -44990,9 +62171,13 @@ Nummer: 12773
     123 508 95 78
 
 
+
+
 **Svanviks Samfällighetsförening**
 
     123 546 59 76
+
+
 
 
 **Svartbjörnsbyns IF**
@@ -45002,9 +62187,13 @@ Nummer: 12773
     123 320 17 61
 
 
+
+
 **Svarte Byalag**
 
     123 262 60 42
+
+
 
 
 **Svartå IF**
@@ -45012,9 +62201,13 @@ Nummer: 12773
     123 122 71 23
 
 
+
+
 **Svartådalens Bygdeutveckling**
 
     123 608 34 48
+
+
 
 
 **Svartöstans Intresseförening**
@@ -45022,9 +62215,13 @@ Nummer: 12773
     123 593 50 85
 
 
+
+
 **Svea Kvinnojour**
 
     123 234 13 52
+
+
 
 
 **Svedala Församling**
@@ -45032,9 +62229,13 @@ Nummer: 12773
     123 681 48 34
 
 
+
+
 **Svedala Trafikskola AB**
 
     123 615 53 52
+
+
 
 
 **Svedbergs GIF**
@@ -45042,9 +62243,13 @@ Nummer: 12773
     123 526 24 98
 
 
+
+
 **Svedens Ponnyklubb**
 
     123 132 64 53
+
+
 
 
 **Svedjeholmen IF**
@@ -45052,9 +62257,13 @@ Nummer: 12773
     123 132 30 47
 
 
+
+
 **Svedjeholmskyrkan, Trons Sköld Stiftelsen**
 
     123 363 42 76
+
+
 
 
 **Sveduddens Båtklubb**
@@ -45062,9 +62271,13 @@ Nummer: 12773
     123 634 84 60
 
 
+
+
 **Svegs Golfklubb**
 
     123 580 80 27
+
+
 
 
 **Svegs Hembygdsförening**
@@ -45072,9 +62285,13 @@ Nummer: 12773
     123 327 88 92
 
 
+
+
 **Sveilis Design**
 
     123 204 22 73
+
+
 
 
 **Svenarums Hembygdsförening**
@@ -45082,9 +62299,13 @@ Nummer: 12773
     123 083 95 71
 
 
+
+
 **Svenljunga Scoutkår**
 
     123 016 09 52
+
+
 
 
 **Svensby Fiskevårdsförening**
@@ -45092,9 +62313,13 @@ Nummer: 12773
     123 648 39 52
 
 
+
+
 **Svensby Hembygdsförening**
 
     123 669 45 25
+
+
 
 
 **Svensby SK**
@@ -45102,9 +62327,13 @@ Nummer: 12773
     123 050 92 40
 
 
+
+
 **Svenshögens SK**
 
     123 544 41 53
+
+
 
 
 **Svensk-Albanska Nätverket, SAN**
@@ -45112,9 +62341,13 @@ Nummer: 12773
     123 091 98 60
 
 
+
+
 **Svensk Barnfetmaförening / Svenska Barnläkarföreningen**
 
     123 288 66 95 - Barnfetma
+
+
 
 
 **Svensk Dystoni-Förening, SDF**
@@ -45122,9 +62355,13 @@ Nummer: 12773
     123 637 25 77
 
 
+
+
 **Svensk - Eritreanskt Forum, S-ERI**
 
     123 392 97 34
+
+
 
 
 **Svensk Förening för Bröstradiologi, SFBR**
@@ -45132,9 +62369,13 @@ Nummer: 12773
     123 347 79 08
 
 
+
+
 **Svensk Förening för Endoskopi och Gastroenterologi Personal, SEGP**
 
     123 642 98 07
+
+
 
 
 **Svensk Förening för Flödescytometri, SFFF**
@@ -45142,9 +62383,13 @@ Nummer: 12773
     123 503 66 37
 
 
+
+
 **Svensk Förening för Lymfologi, SFL**
 
     123 154 44 69
+
+
 
 
 **Svensk förening för obesitas och metabol kirurgi, SFOK**
@@ -45152,9 +62397,13 @@ Nummer: 12773
     123 694 67 01
 
 
+
+
 **Svensk Förening för Obesitasforskning - SFO**
 
     123 544 64 22
+
+
 
 
 **Svensk Förening för Odontologisk Radiologi, SFOR**
@@ -45162,9 +62411,13 @@ Nummer: 12773
     123 023 76 10
 
 
+
+
 **Svensk Förening för Radiofysik**
 
     123 560 44 91
+
+
 
 
 **Svensk Förening för Resemedicin**
@@ -45172,9 +62425,13 @@ Nummer: 12773
     123 174 71 46
 
 
+
+
 **Svensk Förening för Sjuksköterskor i Diabetesvård, SFSD**
 
     123 443 45 36
+
+
 
 
 **Svensk förening för sjuksköterskor inom kärlkirurgisk omvårdnad**
@@ -45182,9 +62439,13 @@ Nummer: 12773
     123 524 64 59
 
 
+
+
 **Svensk Förening för Socialmedicin och Folkhälsa**
 
     123 327 85 61
+
+
 
 
 **Svensk-Grekiska föreningen Jönköping, Ελληνο-Σουηδική κοινότητα Jönköping**
@@ -45192,14 +62453,20 @@ Nummer: 12773
     123 359 13 10
 
 
+
+
 **Svensk-irländska föreningen**
 
     123 395 95 33
 
 
+
+
 **Svensk Knivförening**
 
     123 534 24 64
+
+
 
 
 **Svensk-Kubanska Föreningen**
@@ -45209,9 +62476,13 @@ Nummer: 12773
     123 589 09 75
 
 
+
+
 **Svensk-Litauiska Riksföreningen**
 
     123 679 29 31
+
+
 
 
 **Svensk Magisk Cirkel**
@@ -45219,9 +62490,13 @@ Nummer: 12773
     123 172 76 50
 
 
+
+
 **Svensk-Norska Föreningen, SNF**
 
     123 297 54 49
+
+
 
 
 **Svensk Röda Korset**
@@ -45229,9 +62504,13 @@ Nummer: 12773
     123 337 17 54 - Helsingborg
 
 
+
+
 **Svensk Sjuksköterskeförening**
 
     123 283 03 47
+
+
 
 
 **Svensk Socialpolitisk Förening**
@@ -45239,9 +62518,13 @@ Nummer: 12773
     123 298 49 79
 
 
+
+
 **Svensk-Taiwanesiska Vänskapsföreningen**
 
     123 687 10 57
+
+
 
 
 **Svensk Webbtelevision AB**
@@ -45249,14 +62532,20 @@ Nummer: 12773
     123 535 86 92 - Swebbtv
 
 
+
+
 **Svensk-Österrikiska Föreningen**
 
     123 669 52 66
 
 
+
+
 **Svenska Afghanistankommittén**
 
     123 900 78 08
+
+
 
 
 **Svenska Agilityklubben**
@@ -45266,9 +62555,13 @@ Nummer: 12773
     123 321 68 84 - Shop
 
 
+
+
 **Svenska Aikidoförbundet**
 
     123 665 44 79
+
+
 
 
 **Svenska Alarm Gruppen AB**
@@ -45276,9 +62569,13 @@ Nummer: 12773
     123 064 76 69
 
 
+
+
 **Svenska Alliansmissionen**
 
     123 138 89 82
+
+
 
 
 **Svenska Alliansmissionen (SAM)**
@@ -45286,9 +62583,13 @@ Nummer: 12773
     123 900 85 90
 
 
+
+
 **Svenska ATM podden / Feldenkrais Skolan i Solna**
 
     123 412 67 51
+
+
 
 
 **Svenska Avdelningen av Internationella Juristkommissionen, ICJ-Sweden**
@@ -45296,9 +62597,13 @@ Nummer: 12773
     123 301 02 12
 
 
+
+
 **Svenska Avelsorganisationen för Irish Cob och Irish Cob partbred**
 
     123 115 96 07
+
+
 
 
 **Svenska Barbetklubben**
@@ -45306,9 +62611,13 @@ Nummer: 12773
     123 246 54 25
 
 
+
+
 **Svenska Barnläkarföreningen**
 
     123 049 49 71
+
+
 
 
 **Svenska Barnmorskeförbundet**
@@ -45318,9 +62627,13 @@ Nummer: 12773
     123 369 83 62
 
 
+
+
 **Svenska Baseboll-, Softboll- och Lacrosseförbundet**
 
     123 321 29 25
+
+
 
 
 **Svenska Bassetklubben Mellan**
@@ -45328,9 +62641,13 @@ Nummer: 12773
     123 558 90 07
 
 
+
+
 **Svenska Bassetklubben Nordöstra**
 
     123 519 11 27
+
+
 
 
 **Svenska Bassetklubben Syd**
@@ -45338,9 +62655,13 @@ Nummer: 12773
     123 449 29 97
 
 
+
+
 **Svenska Bassetklubben Väst**
 
     123 441 27 63
+
+
 
 
 **Svenska Bastuakademien**
@@ -45348,9 +62669,13 @@ Nummer: 12773
     123 026 97 95
 
 
+
+
 **Svenska Bibelsällskapet**
 
     123 900 62 63
+
+
 
 
 **Svenska Bilsportförbundet**
@@ -45358,9 +62683,13 @@ Nummer: 12773
     123 253 57 97
 
 
+
+
 **Svenska Bin ideell förening**
 
     123 083 91 34
+
+
 
 
 **Svenska Blå Stjärnan Riksorganisationen**
@@ -45368,9 +62697,13 @@ Nummer: 12773
     123 635 79 25
 
 
+
+
 **Svenska Bostonterrierklubben, SBTK**
 
     123 290 33 34
+
+
 
 
 **Svenska Bowlingförbundet**
@@ -45378,9 +62711,13 @@ Nummer: 12773
     123 538 40 86
 
 
+
+
 **Svenska Boxerklubben**
 
     123 626 61 83
+
+
 
 
 **Svenska Brand och Räddningstjänst Idrottsförbund, SBRIF**
@@ -45388,9 +62725,13 @@ Nummer: 12773
     123 089 64 07
 
 
+
+
 **Svenska Brottningsdomarförbundet**
 
     123 165 80 38
+
+
 
 
 **Svenska Brukshundklubben Övre Norrlands Distikt**
@@ -45398,9 +62739,13 @@ Nummer: 12773
     123 618 43 29
 
 
+
+
 **Svenska Brukshundsklubben Gotlandsdistriktet**
 
     123 666 10 03
+
+
 
 
 **Svenska Brukshundsklubben Stockholmsavdelning**
@@ -45408,9 +62753,13 @@ Nummer: 12773
     123 122 74 95
 
 
+
+
 **Svenska Budo & Kampsportsförbundet**
 
     123 510 93 19
+
+
 
 
 **Svenska Bullterrierklubben**
@@ -45418,9 +62767,13 @@ Nummer: 12773
     123 179 10 29
 
 
+
+
 **Svenska Celiakiförbundet**
 
     123 900 24 60
+
+
 
 
 **Svenska Covidförenigen**
@@ -45428,9 +62781,13 @@ Nummer: 12773
     123 217 81 35
 
 
+
+
 **Svenska Curlingförbundet**
 
     123 079 88 19
+
+
 
 
 **Svenska Danssportförbundet**
@@ -45438,9 +62795,13 @@ Nummer: 12773
     123 385 11 51
 
 
+
+
 **Svenska Dartmoorsällskapet**
 
     123 484 18 05
+
+
 
 
 **Svenska Diabetesförbundet**
@@ -45448,9 +62809,13 @@ Nummer: 12773
     123 900 77 41
 
 
+
+
 **Svenska Djurambulansen**
 
     123 618 82 47
+
+
 
 
 **Svenska Djurskyddsföreningen**
@@ -45458,9 +62823,13 @@ Nummer: 12773
     123 096 07 08 - Ukraina
 
 
+
+
 **Svenska Downföreningen**
 
     123 634 52 35
+
+
 
 
 **Svenska Dvärgkaninklubben**
@@ -45468,9 +62837,13 @@ Nummer: 12773
     123 103 38 85
 
 
+
+
 **Svenska Dövidrottsförbundet**
 
     123 355 40 52
+
+
 
 
 **Svenska Epidermolysis Bullosa-föreningen/DEBRA Sweden**
@@ -45478,9 +62851,13 @@ Nummer: 12773
     123 546 79 23
 
 
+
+
 **Svenska Epilepsiförbundet**
 
     123 087 86 29
+
+
 
 
 **Svenska Epilepsiförbundet**
@@ -45488,9 +62865,13 @@ Nummer: 12773
     123 642 94 01 - Epilepsifonden
 
 
+
+
 **Svenska Europainkasso AB**
 
     123 515 10 63
+
+
 
 
 **Svenska Evangeliska Alliansen**
@@ -45498,9 +62879,13 @@ Nummer: 12773
     123 059 16 44
 
 
+
+
 **Svenska Expeditionssällskapet, SWES**
 
     123 048 58 05
+
+
 
 
 **Svenska Finnjolleförbundet**
@@ -45508,9 +62893,13 @@ Nummer: 12773
     123 029 02 13
 
 
+
+
 **Svenska FN-förbundet**
 
     123 900 56 38
+
+
 
 
 **Svenska Fornminnesföreningen**
@@ -45518,9 +62907,13 @@ Nummer: 12773
     123 600 96 17
 
 
+
+
 **Svenska Freds- och Skiljedomsföreningen**
 
     123 901 08 51
+
+
 
 
 **Svenska Fyrverkerimuseet**
@@ -45528,9 +62921,13 @@ Nummer: 12773
     123 612 85 99
 
 
+
+
 **Svenska Föreningen för Allergologi**
 
     123 543 94 84
+
+
 
 
 **Svenska Gospelverkstaden**
@@ -45538,9 +62935,13 @@ Nummer: 12773
     123 644 19 27
 
 
+
+
 **Svenska Greyhoundklubben**
 
     123 542 01 61
+
+
 
 
 **Svenska Handtryck AB**
@@ -45548,9 +62949,13 @@ Nummer: 12773
     123 539 56 29
 
 
+
+
 **Svenska Heinrich Schütz-sällskapet**
 
     123 493 75 87
+
+
 
 
 **Svenska Hoopersklubben, SHoK**
@@ -45558,9 +62963,13 @@ Nummer: 12773
     123 639 76 16
 
 
+
+
 **Svenska Hovvårdares Riksförbund, SHR**
 
     123 539 46 71
+
+
 
 
 **Svenska Hoyasällskapet**
@@ -45568,9 +62977,13 @@ Nummer: 12773
     123 352 67 87
 
 
+
+
 **Svenska HPN-föreningen**
 
     123 602 19 35
+
+
 
 
 **Svenska Hundklubben**
@@ -45580,9 +62993,13 @@ Nummer: 12773
     123 424 35 98 - Södertälje
 
 
+
+
 **Svenska Hundklubben, Södertälje**
 
     123 688 18 66 - Köket
+
+
 
 
 **Svenska Hundklubben Västerås**
@@ -45590,9 +63007,13 @@ Nummer: 12773
     123 338 40 62
 
 
+
+
 **Svenska Hästars Värn**
 
     123 900 44 17
+
+
 
 
 **Svenska Inkassogruppen AB**
@@ -45600,9 +63021,13 @@ Nummer: 12773
     123 043 60 55
 
 
+
+
 **Svenska Innebandyförbundet, IBF**
 
     123 189 96 16
+
+
 
 
 **Svenska ishavet AB**
@@ -45610,9 +63035,13 @@ Nummer: 12773
     123 345 65 97
 
 
+
+
 **Svenska Journalistförbundets Insamlingsfond**
 
     123 673 01 70
+
+
 
 
 **Svenska Jägareförbundet**
@@ -45620,9 +63049,13 @@ Nummer: 12773
     123 626 19 86
 
 
+
+
 **Svenska Karateförbundet**
 
     123 365 32 01
+
+
 
 
 **Svenska Klubben för Engelsk Bulldogg, SKEB**
@@ -45630,14 +63063,20 @@ Nummer: 12773
     123 139 11 43
 
 
+
+
 **Svenska Kommittén Mot Antisemitism, SKMA**
 
     123 288 68 93
 
 
+
+
 **Svenska Konstnärernas Förening, SKF**
 
     123 015 65 13
+
+
 
 
 **Svenska Kryssarklubben SXK**
@@ -45649,9 +63088,13 @@ Nummer: 12773
     123 570 53 55 - Stockholmskretsen, Skötrökan
 
 
+
+
 **Svenska Kryssarklubben SXK**
 
     123 201 25 81 - Dackekretsen
+
+
 
 
 **Svenska Kryssarklubben SXK**
@@ -45659,9 +63102,13 @@ Nummer: 12773
     123 315 82 35 - Eggegrundskretsen
 
 
+
+
 **Svenska Kryssarklubben SXK**
 
     123 680 71 92 - Sörmlandskretsen
+
+
 
 
 **Svenska Kryssarklubben SXK**
@@ -45669,14 +63116,20 @@ Nummer: 12773
     123 181 41 28 - Öresundskretsen
 
 
+
+
 **Svenska Kryssarklubben SXK**
 
     123 202 23 66 - Västkustkretsen
 
 
+
+
 **Svenska Kryssarklubben SXK**
 
     123 049 05 73 - Vänerkretsen
+
+
 
 
 **Svenska Kryssarklubben SXK**
@@ -45686,9 +63139,13 @@ Nummer: 12773
     123 467 50 54 - Bottenvikskretsen
 
 
+
+
 **Svenska Kuvaszklubben, SVKK**
 
     123 157 31 38
+
+
 
 
 **Svenska kyrkan i Borås**
@@ -45696,14 +63153,20 @@ Nummer: 12773
     123 608 48 42
 
 
+
+
 **Svenska kyrkan i Tidaholm**
 
     123 526 27 95
 
 
+
+
 **Svenska kyrkan Mölndal**
 
     123 385 11 85 - HBE (Hopp för barn i Etiopien)
+
+
 
 
 **Svenska kyrkan på Orust**
@@ -45715,9 +63178,13 @@ Nummer: 12773
     123 636 56 47 - Pilgrim Orust
 
 
+
+
 **Svenska Kyrkan Teneriffa**
 
     123 609 19 20
+
+
 
 
 **Svenska Kyrkan Torrevieja**
@@ -45725,9 +63192,13 @@ Nummer: 12773
     123 009 31 04
 
 
+
+
 **Svenska Kyrkans Unga Riksförbundet**
 
     123 389 36 58
+
+
 
 
 **Svenska Lacrosseförbundet**
@@ -45745,6 +63216,8 @@ Nummer: 12773
     123 559 85 60 - Svenska Lacrosse Ligan, SLL
 
 
+
+
 **Svenska Livräddningssällskapet**
 
     123 305 22 30
@@ -45752,9 +63225,13 @@ Nummer: 12773
     123 900 22 62
 
 
+
+
 **Svenska Livräddningssällskapet Göteborg**
 
     123 699 16 40
+
+
 
 
 **Svenska Livräddningssällskapet Götegorg**
@@ -45762,9 +63239,13 @@ Nummer: 12773
     123 370 04 16
 
 
+
+
 **Svenska Lundehundsällskapet**
 
     123 156 17 03
+
+
 
 
 **Svenska Läkare för Miljön o mot Miljöförstöring**
@@ -45772,9 +63253,13 @@ Nummer: 12773
     123 458 57 09
 
 
+
+
 **Svenska Läkare mot Kärnvapen**
 
     123 901 09 01
+
+
 
 
 **Svenska med Baby**
@@ -45786,9 +63271,13 @@ Nummer: 12773
     123 900 86 57
 
 
+
+
 **Svenska Miniature American Shepherdklubben**
 
     123 600 56 15
+
+
 
 
 **Svenska Naturskyddsföreningen**
@@ -45808,6 +63297,8 @@ Nummer: 12773
     123 901 90 92
 
 
+
+
 **Svenska Newfoundlandshundklubben**
 
     123 326 67 56 - Södra
@@ -45817,9 +63308,13 @@ Nummer: 12773
     123 612 71 20 - Östra
 
 
+
+
 **Svenska OCD-förbundet**
 
     123 116 69 66
+
+
 
 
 **Svenska Omnibusföreningen**
@@ -45827,9 +63322,13 @@ Nummer: 12773
     123 468 27 12
 
 
+
+
 **Svenska Organisation Mondiale pour l’Éducation Préscolaire, OMEP**
 
     123 017 80 79
+
+
 
 
 **Svenska P.E.N.**
@@ -45837,9 +63336,13 @@ Nummer: 12773
     123 900 50 91
 
 
+
+
 **Svenska Pappers Industriarbetareförbundet**
 
     123 589 03 22
+
+
 
 
 **Svenska Polarhundklubben, SPHK**
@@ -45847,9 +63350,13 @@ Nummer: 12773
     123 148 45 42
 
 
+
+
 **Svenska Popskolan AB**
 
     123 059 28 99
+
+
 
 
 **Svenska Prazsky Krysarik klubben, SPKK**
@@ -45857,9 +63364,13 @@ Nummer: 12773
     123 441 78 38
 
 
+
+
 **Svenska Psykiatriska Föreningen, SPF**
 
     123 009 42 68
+
+
 
 
 **Svenska Psykoanalytiska Föreningen**
@@ -45867,9 +63378,13 @@ Nummer: 12773
     123 337 74 47
 
 
+
+
 **Svenska Reimpregnerings AB Lavtox**
 
     123 024 08 38
+
+
 
 
 **Svenska Ridsportförbundet**
@@ -45877,9 +63392,13 @@ Nummer: 12773
     123 657 77 46
 
 
+
+
 **Svenska Ridtravarföreningen Uppland Västmanland**
 
     123 259 24 26
+
+
 
 
 **Svenska Rikslagen**
@@ -45887,9 +63406,13 @@ Nummer: 12773
     123 136 60 38
 
 
+
+
 **Svenska Rosensällskapet, SRS**
 
     123 259 32 91
+
+
 
 
 **Svenska Rottweilerklubben**
@@ -45901,9 +63424,13 @@ Nummer: 12773
     123 303 62 66 - Utställning
 
 
+
+
 **Svenska Rovdjursföreningen**
 
     123 054 03 77
+
+
 
 
 **Svenska RP-föreningen**
@@ -45911,9 +63438,13 @@ Nummer: 12773
     123 125 91 83
 
 
+
+
 **Svenska Räddare, Swedish Rescuers**
 
     123 380 95 22
+
+
 
 
 **Svenska Röda Korset**
@@ -45945,9 +63476,13 @@ Nummer: 12773
     123 900 80 95
 
 
+
+
 **Svenska Röda Korset**
 
     123 511 29 58 - Uppsala, Ungdomsförbund
+
+
 
 
 **Svenska Röda Korset**
@@ -45957,9 +63492,13 @@ Nummer: 12773
     123 499 13 94 - Malmö
 
 
+
+
 **Svenska Röda Korset**
 
     123 093 43 15 - Emmaboda
+
+
 
 
 **Svenska Röda Korset**
@@ -45967,9 +63506,13 @@ Nummer: 12773
     123 362 91 44 - Lidingö
 
 
+
+
 **Svenska Röda Korset**
 
     123 557 48 19 - Vallentuna
+
+
 
 
 **Svenska Röda Korset**
@@ -45977,14 +63520,20 @@ Nummer: 12773
     123 640 93 12 - Knivsta
 
 
+
+
 **Svenska Röda Korset**
 
     123 476 00 62 - Eskilstuna
 
 
+
+
 **Svenska Röda Korset**
 
     123 418 38 28 - Katrineholm
+
+
 
 
 **Svenska Röda Korset**
@@ -45994,6 +63543,8 @@ Nummer: 12773
     123 400 95 28 - Hästveda
 
 
+
+
 **Svenska Röda Korset**
 
     123 376 04 77 - Landskronabygden
@@ -46001,9 +63552,13 @@ Nummer: 12773
     123 522 97 60 - Landskrona, Beredskapsgruppen
 
 
+
+
 **Svenska Röda Korset**
 
     123 389 24 78 - Lundakretsen
+
+
 
 
 **Svenska Röda Korset**
@@ -46011,9 +63566,13 @@ Nummer: 12773
     123 019 35 40 - Lomma
 
 
+
+
 **Svenska Röda Korset**
 
     123 440 74 90 - Trelleborg
+
+
 
 
 **Svenska Röda Korset**
@@ -46021,9 +63580,13 @@ Nummer: 12773
     123 159 83 90 - Ystadskretsen
 
 
+
+
 **Svenska Röda Korset**
 
     123 320 16 70 - Kungsälv
+
+
 
 
 **Svenska Röda Korset**
@@ -46031,9 +63594,13 @@ Nummer: 12773
     123 562 58 01 - Åmål
 
 
+
+
 **Svenska Röda Korset**
 
     123 117 97 95 - Säfflebygden
+
+
 
 
 **Svenska Röda Korset**
@@ -46041,9 +63608,13 @@ Nummer: 12773
     123 517 62 01 - Ludvika
 
 
+
+
 **Svenska Röda Korset**
 
     123 385 29 51 - Skönsberg
+
+
 
 
 **Svenska Röda Korset**
@@ -46051,9 +63622,13 @@ Nummer: 12773
     123 353 93 84 - Åre
 
 
+
+
 **Svenska Schipperke Ringen**
 
     123 427 96 83
+
+
 
 
 **Svenska Schäferhundklubben**
@@ -46063,9 +63638,13 @@ Nummer: 12773
     123 545 20 32
 
 
+
+
 **Svenska Service- och Signalhundsförbundet, SoS**
 
     123 471 80 52
+
+
 
 
 **Svenska Sjöräddningssällskapet SSRS**
@@ -46073,14 +63652,20 @@ Nummer: 12773
     123 900 50 00
 
 
+
+
 **Svenska Skolidrottsförbundet**
 
     123 451 24 55
 
 
+
+
 **Svenska Skridsko-, Kälk- och Rullidrottsförbundet**
 
     123 134 09 18
+
+
 
 
 **Svenska Skyttesportförbundet**
@@ -46092,9 +63677,13 @@ Nummer: 12773
     123 404 05 15
 
 
+
+
 **Svenska Smålandsstövareföreningen**
 
     123 131 83 36
+
+
 
 
 **Svenska Spaniel och Retrieverklubben - Piteå sektionen**
@@ -46102,9 +63691,13 @@ Nummer: 12773
     123 116 85 90
 
 
+
+
 **Svenska Spikmattan AB**
 
     123 000 90 35
+
+
 
 
 **Svenska Squashförbundet**
@@ -46112,9 +63705,13 @@ Nummer: 12773
     123 337 28 93
 
 
+
+
 **Svenska Standardbolag AB**
 
     123 083 32 69
+
+
 
 
 **Svenska Stråklärarförbundet - ESTA Sweden**
@@ -46122,9 +63719,13 @@ Nummer: 12773
     123 578 76 76
 
 
+
+
 **Svenska Sällskapet för Dermatologisk Kirurgi och Onkologi, SDKO**
 
     123 275 27 15
+
+
 
 
 **Svenska Sällskapet för Filosofisk Praxis, SSFP**
@@ -46132,9 +63733,13 @@ Nummer: 12773
     123 321 66 45
 
 
+
+
 **Svenska Sällskapet för Medicinsk forskning**
 
     123 901 10 99
+
+
 
 
 **Svenska Sällskapet för Nykterhet och Folkbildning**
@@ -46142,9 +63747,13 @@ Nummer: 12773
     123 296 85 50
 
 
+
+
 **Svenska Ukrainahjälpen**
 
     123 486 19 93
+
+
 
 
 **Svenska Utbildningsfonden för Liberia**
@@ -46152,9 +63761,13 @@ Nummer: 12773
     123 618 18 20
 
 
+
+
 **Svenska Vattenskid- och Wakeboardförbundet**
 
     123 314 91 01
+
+
 
 
 **Svenska Volvo 7/900 Klubben**
@@ -46162,9 +63775,13 @@ Nummer: 12773
     123 272 03 16
 
 
+
+
 **Svenska Volvo Amazonklubben**
 
     123 616 17 64
+
+
 
 
 **Svenska Vorstehklubben**
@@ -46172,9 +63789,13 @@ Nummer: 12773
     123 149 96 23
 
 
+
+
 **Svenska Vorstehklubben Småland-Östergötland**
 
     123 615 85 39
+
+
 
 
 **Svenska Vägtekniska Föreningen**
@@ -46182,9 +63803,13 @@ Nummer: 12773
     123 491 15 82
 
 
+
+
 **Svenska vänföreningen till Magen David Adom, SMDA**
 
     123 551 71 72
+
+
 
 
 **Svenska Wachtelhundklubben, Östergötland/Närke**
@@ -46192,9 +63817,13 @@ Nummer: 12773
     123 245 74 14
 
 
+
+
 **Svenska Weimaranerklubben**
 
     123 183 44 80
+
+
 
 
 **Svenska Wheaten Terrier Klubben, SWTK**
@@ -46202,9 +63831,13 @@ Nummer: 12773
     123 077 68 72
 
 
+
+
 **Svenska Whippetklubben**
 
     123 452 50 36
+
+
 
 
 **Svenska Älghundsklubben**
@@ -46212,9 +63845,13 @@ Nummer: 12773
     123 533 97 91
 
 
+
+
 **Svenska Åsneföreningen**
 
     123 637 28 90
+
+
 
 
 **Svenska Ölfrämjandet**
@@ -46222,9 +63859,13 @@ Nummer: 12773
     123 041 71 62
 
 
+
+
 **Sverige-Amerika Stiftelsen**
 
     123 595 22 39
+
+
 
 
 **Sverige för UNHCR**
@@ -46252,14 +63893,20 @@ Nummer: 12773
     123 638 34 34
 
 
+
+
 **Sverige för UNHCR Insamlingsstiftelse**
 
     123 900 16 45
 
 
+
+
 **Sverige-Nepalföreningen, The Sweden Nepal Society**
 
     123 633 58 30
+
+
 
 
 **Sverige Runt AB**
@@ -46275,14 +63922,20 @@ Nummer: 12773
     123 360 97 65
 
 
+
+
 **Sverige Springer, En Svensk Klassiker**
 
     123 260 00 96
 
 
+
+
 **Sverigebönen**
 
     123 100 85 23
+
+
 
 
 **Sverigedemokraterna**
@@ -46292,9 +63945,13 @@ Nummer: 12773
     123 677 53 08
 
 
+
+
 **Sverigeide**
 
     123 008 65 79
+
+
 
 
 **Sveriges Akademiska Etologer**
@@ -46302,9 +63959,13 @@ Nummer: 12773
     123 465 19 80
 
 
+
+
 **Sveriges Bilkårers Riksförbund**
 
     123 283 89 36
+
+
 
 
 **Sveriges Biodlares Riksförbund**
@@ -46312,9 +63973,13 @@ Nummer: 12773
     123 693 28 34
 
 
+
+
 **Sveriges Blåbandsungdom, SBU**
 
     123 449 53 62
+
+
 
 
 **Sveriges Buddhistiska Gemenskap**
@@ -46322,9 +63987,13 @@ Nummer: 12773
     123 373 08 84
 
 
+
+
 **Sveriges Centralförening för Idrottens Främjande, SCIF**
 
     123 039 70 75
+
+
 
 
 **Sveriges Dövas Riksförbund**
@@ -46334,9 +64003,13 @@ Nummer: 12773
     123 900 02 41
 
 
+
+
 **Sveriges Dövas Ungdomsförbund, SDUF**
 
     123 218 14 77
+
+
 
 
 **Sveriges Ekumeniska Kvinnoråd**
@@ -46344,9 +64017,13 @@ Nummer: 12773
     123 147 29 92
 
 
+
+
 **Sveriges entomologiska förening**
 
     123 483 69 95
+
+
 
 
 **Sveriges Hortonomförbund**
@@ -46354,9 +64031,13 @@ Nummer: 12773
     123 502 03 83
 
 
+
+
 **Sveriges Hundungdom**
 
     123 676 07 63
+
+
 
 
 **Sveriges Kaninvälfärdsförening**
@@ -46364,9 +64045,13 @@ Nummer: 12773
     123 122 24 96
 
 
+
+
 **Sveriges Kattklubbars Riksförbund, SVERAK**
 
     123 222 82 94
+
+
 
 
 **Sveriges Kommunistiska Parti**
@@ -46374,9 +64059,13 @@ Nummer: 12773
     123 557 00 15 - Kampfonden
 
 
+
+
 **Sveriges Kristna Handikappförbund, SKrH**
 
     123 177 30 27
+
+
 
 
 **Sveriges Kvinnolobby**
@@ -46384,9 +64073,13 @@ Nummer: 12773
     123 300 84 63
 
 
+
+
 **Sveriges Kyrkosångsförbund**
 
     123 084 52 22
+
+
 
 
 **Sveriges Lantbruksuniversitet, SLU**
@@ -46396,9 +64089,13 @@ Nummer: 12773
     123 642 66 54
 
 
+
+
 **Sveriges Ledarhundsförare**
 
     123 578 67 36
+
+
 
 
 **Sveriges Makalösa Föräldrar**
@@ -46406,9 +64103,13 @@ Nummer: 12773
     123 608 35 21
 
 
+
+
 **Sveriges Ornitologiska Förening - Birdlife Sverige**
 
     123 900 56 53
+
+
 
 
 **Sveriges Papegojförening**
@@ -46416,14 +64117,20 @@ Nummer: 12773
     123 349 02 73
 
 
+
+
 **Sveriges Skateboardförbund**
 
     123 550 23 49
 
 
+
+
 **Sveriges Socialdemokratiska Arbetareparti**
 
     123 617 79 76
+
+
 
 
 **Sveriges Speleologförbund SSF**
@@ -46435,9 +64142,13 @@ Nummer: 12773
     123 608 40 65 - Medlemsavgifter
 
 
+
+
 **Sveriges Sportfiske- och Fiskevårdsförbund, Sportfiskarna**
 
     123 900 72 95
+
+
 
 
 **Sveriges Vapenägares Förbund**
@@ -46445,9 +64156,13 @@ Nummer: 12773
     123 221 20 33
 
 
+
+
 **Sveriges Veteranförbund, SVF**
 
     123 181 44 82
+
+
 
 
 **Sveriges Veteranförbund (SVF)**
@@ -46455,9 +64170,13 @@ Nummer: 12773
     123 070 46 35 - Gula bandet
 
 
+
+
 **Sveriges VVS-Museum**
 
     123 551 61 58
+
+
 
 
 **Sveriges Ångbåtsförening**
@@ -46465,9 +64184,13 @@ Nummer: 12773
     123 679 09 19
 
 
+
+
 **Sverok**
 
     123 900 82 77
+
+
 
 
 **Sverok Kalmar-Blekinge**
@@ -46475,9 +64198,13 @@ Nummer: 12773
     123 206 15 13 - Calcon
 
 
+
+
 **Svillinge IF**
 
     123 173 18 27
+
+
 
 
 **Svältornas Fornminnesförening**
@@ -46485,9 +64212,13 @@ Nummer: 12773
     123 511 28 42
 
 
+
+
 **Svärdsjö Församling**
 
     123 055 52 35
+
+
 
 
 **Svärdsjö Ridklubb**
@@ -46495,9 +64226,13 @@ Nummer: 12773
     123 091 70 47
 
 
+
+
 **Swartlings Ridskola Ryttarstadion AB**
 
     123 551 09 53
+
+
 
 
 **SWB Örebro**
@@ -46505,9 +64240,13 @@ Nummer: 12773
     123 613 80 36
 
 
+
+
 **SwebbTube / Svensk Webbtelevision AB**
 
     123 431 01 08
+
+
 
 
 **Sweden Help East, SHELPE**
@@ -46515,9 +64254,13 @@ Nummer: 12773
     123 391 27 06
 
 
+
+
 **Sweden Stands With Ukraine / Lions Club Älmhult**
 
     123 667 78 68
+
+
 
 
 **Sweden UNRWA Reform**
@@ -46525,9 +64268,13 @@ Nummer: 12773
     123 517 38 51
 
 
+
+
 **Swedish Animal Aid**
 
     123 543 89 57
+
+
 
 
 **Swedish Animation and Visual Arts, SAAVA**
@@ -46535,9 +64282,13 @@ Nummer: 12773
     123 515 12 53
 
 
+
+
 **Swedish Arkani Rohingya Organisation**
 
     123 228 43 21
+
+
 
 
 **Swedish Association of Regulated Quality Assurance, SARQA**
@@ -46545,9 +64296,13 @@ Nummer: 12773
     123 318 00 15
 
 
+
+
 **Swedish Elephant AB**
 
     123 509 98 25
+
+
 
 
 **Swedish Executive Jazz Society, SWEJS**
@@ -46555,9 +64310,13 @@ Nummer: 12773
     123 166 24 93
 
 
+
+
 **Swedish International Relief Association, SIRA**
 
     123 222 04 81
+
+
 
 
 **Swedish Karate Kyokushinkai, SKK**
@@ -46565,9 +64324,13 @@ Nummer: 12773
     123 278 87 35
 
 
+
+
 **Swedish Oldtimers Hockey Association, SOHA**
 
     123 263 78 90
+
+
 
 
 **Swedish Organization for Global Health, SOGH**
@@ -46575,9 +64338,13 @@ Nummer: 12773
     123 378 28 93
 
 
+
+
 **Swedish Reined Cow Horse Association, SRCHA**
 
     123 457 11 21
+
+
 
 
 **Swedish Stokies**
@@ -46585,9 +64352,13 @@ Nummer: 12773
     123 561 13 89
 
 
+
+
 **Swedish Taco AB**
 
     123 198 66 94
+
+
 
 
 **Swexitpartiet**
@@ -46595,9 +64366,13 @@ Nummer: 12773
     123 673 34 48
 
 
+
+
 **Sya SK**
 
     123 276 86 61
+
+
 
 
 **Sydkatten Förening**
@@ -46605,9 +64380,13 @@ Nummer: 12773
     123 189 63 23
 
 
+
+
 **Sydskånska Kennelklubben**
 
     123 653 73 02
+
+
 
 
 **Sydskånska Nationen**
@@ -46615,9 +64394,13 @@ Nummer: 12773
     123 018 94 07
 
 
+
+
 **Sydslättens Ryttarförening**
 
     123 621 61 70
+
+
 
 
 **Sydölands Församling**
@@ -46625,14 +64408,20 @@ Nummer: 12773
     123 358 09 41
 
 
+
+
 **SYNLAB Sverige AB**
 
     123 479 56 88
 
 
+
+
 **Synnove Nylin Helande Dimensioner**
 
     123 228 32 16
+
+
 
 
 **Synskadades Riksförbund**
@@ -46646,9 +64435,13 @@ Nummer: 12773
     123 900 79 15
 
 
+
+
 **Synskadades Riksförbund Bohuslän**
 
     123 649 24 66
+
+
 
 
 **Synskadades Riksförbund Borås**
@@ -46656,9 +64449,13 @@ Nummer: 12773
     123 669 25 29
 
 
+
+
 **Synskadades Riksförbund Göteborg**
 
     123 116 87 07
+
+
 
 
 **Synskadades Riksförbund Kronoberg**
@@ -46666,9 +64463,13 @@ Nummer: 12773
     123 252 35 04
 
 
+
+
 **Synskadades Riksförbund Malmö**
 
     123 077 80 50
+
+
 
 
 **Synskadades Riksförbund Skåne**
@@ -46676,9 +64477,13 @@ Nummer: 12773
     123 312 62 99
 
 
+
+
 **Synskadades Riksförbund Östergötland**
 
     123 061 21 76
+
+
 
 
 **Synskadades Stiftelse**
@@ -46686,9 +64491,13 @@ Nummer: 12773
     123 900 32 60
 
 
+
+
 **Syntolkning Nu i Sverige Ekonomisk förening**
 
     123 504 77 09
+
+
 
 
 **Syrianska FC**
@@ -46698,9 +64507,13 @@ Nummer: 12773
     123 396 93 26
 
 
+
+
 **Syrianska IF Kerburan**
 
     123 288 75 29
+
+
 
 
 **Syrisk Ortodoxa Kyrkan i Sverige**
@@ -46708,9 +64521,13 @@ Nummer: 12773
     123 426 22 18
 
 
+
+
 **Systrarna Sisters AB**
 
     123 340 88 38
+
+
 
 
 **Säbrå Församling**
@@ -46718,9 +64535,13 @@ Nummer: 12773
     123 305 29 33
 
 
+
+
 **Säbrå Hembygdsförening**
 
     123 073 29 66
+
+
 
 
 **Säffle IBF**
@@ -46728,9 +64549,13 @@ Nummer: 12773
     123 062 97 17
 
 
+
+
 **Säffle Karateklubb**
 
     123 608 53 85
+
+
 
 
 **Säffle KK**
@@ -46738,9 +64563,13 @@ Nummer: 12773
     123 237 35 38
 
 
+
+
 **Säffle Motocrossklubb**
 
     123 079 36 79
+
+
 
 
 **Säffle Schackklubb**
@@ -46748,9 +64577,13 @@ Nummer: 12773
     123 425 73 41
 
 
+
+
 **Säffle Segelklubb**
 
     123 484 26 62
+
+
 
 
 **Säffle Simsällskap**
@@ -46758,9 +64591,13 @@ Nummer: 12773
     123 264 75 43
 
 
+
+
 **Säffle SK**
 
     123 343 10 53
+
+
 
 
 **Säffle Trollingklubb**
@@ -46768,9 +64605,13 @@ Nummer: 12773
     123 107 36 42
 
 
+
+
 **Säffle-Åmål Dykarklubb**
 
     123 633 46 68
+
+
 
 
 **Säfsta Bygdegårdsförening**
@@ -46778,9 +64619,13 @@ Nummer: 12773
     123 658 18 96
 
 
+
+
 **Sälas Bystugeförening**
 
     123 378 27 37
+
+
 
 
 **Sälens IF**
@@ -46788,9 +64633,13 @@ Nummer: 12773
     123 069 21 37
 
 
+
+
 **Sällskapet Arbores**
 
     123 531 96 86
+
+
 
 
 **Sällskapet Arconaseglare**
@@ -46798,9 +64647,13 @@ Nummer: 12773
     123 227 01 06
 
 
+
+
 **Sällskapet Blomstervännerna**
 
     123 419 00 88
+
+
 
 
 **Sällskapet Boule Hjo**
@@ -46808,9 +64661,13 @@ Nummer: 12773
     123 392 73 32
 
 
+
+
 **Sällskapet Castellanerna**
 
     123 176 67 65
+
+
 
 
 **Sällskapet Enköpingskamraterna**
@@ -46818,9 +64675,13 @@ Nummer: 12773
     123 136 50 30
 
 
+
+
 **Sällskapet Erik Johan Stagnelii Vänner**
 
     123 658 04 01
+
+
 
 
 **Sällskapet Fredrik Henrik af Chapman**
@@ -46828,9 +64689,13 @@ Nummer: 12773
     123 242 76 07
 
 
+
+
 **Sällskapet för Parapsykologisk Forskning, SPF**
 
     123 601 12 90
+
+
 
 
 **Sällskapet för Restaureringskonst**
@@ -46838,9 +64703,13 @@ Nummer: 12773
     123 412 03 41
 
 
+
+
 **Sällskapet Gamla Boråsare**
 
     123 383 96 02
+
+
 
 
 **Sällskapet Gamla Tävlingscyklister**
@@ -46848,9 +64717,13 @@ Nummer: 12773
     123 244 44 12
 
 
+
+
 **Sällskapet Gamla Örebro**
 
     123 179 79 01
+
+
 
 
 **Sällskapet Hallands Väderös Natur**
@@ -46860,9 +64733,13 @@ Nummer: 12773
     123 668 20 25
 
 
+
+
 **Sällskapet Herulerna**
 
     123 132 54 71
+
+
 
 
 **Sällskapet Jultomtarna i Skövde**
@@ -46870,9 +64747,13 @@ Nummer: 12773
     123 510 02 27
 
 
+
+
 **Sällskapet Kumla Trädgårdsamatörer**
 
     123 495 53 81
+
+
 
 
 **Sällskapet Länkarna**
@@ -46880,9 +64761,13 @@ Nummer: 12773
     123 386 12 26 - Borlänge
 
 
+
+
 **Sällskapet Malte**
 
     123 213 87 41
+
+
 
 
 **Sällskapet Moderata kvinnors historia**
@@ -46890,9 +64775,13 @@ Nummer: 12773
     123 019 22 11
 
 
+
+
 **Sällskapet Pro Musica**
 
     123 323 67 91
+
+
 
 
 **Sällskapet S/S Trafiks Vänner**
@@ -46900,9 +64789,13 @@ Nummer: 12773
     123 137 54 68
 
 
+
+
 **Sällskapet Sibirisk Katt**
 
     123 020 59 22
+
+
 
 
 **Sällskapet Släktforskarna Sandviken**
@@ -46910,9 +64803,13 @@ Nummer: 12773
     123 456 61 05
 
 
+
+
 **Sällskapet Trädgårdsamatörerna**
 
     123 589 73 84 - Hammastrand
+
+
 
 
 **Sällskapet Trädgårdsamatörerna**
@@ -46920,9 +64817,13 @@ Nummer: 12773
     123 084 91 09 - Skaraborg
 
 
+
+
 **Sällskapet Trädgårdsamatörerna Södra Småland, STASS**
 
     123 467 47 50
+
+
 
 
 **Sällskapet Trädgårdsamatörerna, Upplandskretsen**
@@ -46930,9 +64831,13 @@ Nummer: 12773
     123 441 58 40
 
 
+
+
 **Sällskapet Wermlänningarne**
 
     123 021 50 61
+
+
 
 
 **Sällskapet Ångbåten**
@@ -46940,9 +64845,13 @@ Nummer: 12773
     123 335 29 45
 
 
+
+
 **Särna Hembygdsförening**
 
     123 091 29 72
+
+
 
 
 **Särna SK**
@@ -46950,9 +64859,13 @@ Nummer: 12773
     123 617 30 58
 
 
+
+
 **Särö IK**
 
     123 276 92 30
+
+
 
 
 **Särö Kyrkostiftelse**
@@ -46960,9 +64873,13 @@ Nummer: 12773
     123 387 34 29
 
 
+
+
 **Särö Pastorat**
 
     123 494 49 89
+
+
 
 
 **Särö Seahawks IBK**
@@ -46970,9 +64887,13 @@ Nummer: 12773
     123 502 20 17
 
 
+
+
 **Särökometernas HK**
 
     123 000 41 92
+
+
 
 
 **Säters IF FK**
@@ -46982,9 +64903,13 @@ Nummer: 12773
     123 687 06 95 - P13
 
 
+
+
 **Säters Jaktskytteklubb**
 
     123 122 05 08
+
+
 
 
 **Sätila BBK**
@@ -46992,14 +64917,20 @@ Nummer: 12773
     123 085 46 87
 
 
+
+
 **Sätila Bygdegårdsförening**
 
     123 569 55 31
 
 
+
+
 **Sätila Församling**
 
     123 355 33 44
+
+
 
 
 **Sätila SK**
@@ -47009,9 +64940,13 @@ Nummer: 12773
     123 460 59 03
 
 
+
+
 **Sätila Skytteförening**
 
     123 624 73 40
+
+
 
 
 **Sätra Båtsällskap**
@@ -47019,9 +64954,13 @@ Nummer: 12773
     123 413 43 83
 
 
+
+
 **Sätra IF**
 
     123 412 31 13 - Skidsektionen
+
+
 
 
 **Sätterstabygdens Hembygdsförening**
@@ -47029,9 +64968,13 @@ Nummer: 12773
     123 271 11 90
 
 
+
+
 **Sättna Baptistförsamling / Betania Kovland**
 
     123 023 01 51
+
+
 
 
 **Sättra Samfällighetsförening**
@@ -47039,9 +64982,13 @@ Nummer: 12773
     123 071 88 09
 
 
+
+
 **Sättraby Bygdegårdsförening**
 
     123 634 68 11
+
+
 
 
 **Sätunakyrkans Ekumeniska Församling**
@@ -47049,14 +64996,20 @@ Nummer: 12773
     123 471 62 13
 
 
+
+
 **Säva Ridcenter AB**
 
     123 170 07 07
 
 
+
+
 **Sävar Jaktskytteklubb**
 
     123 354 06 22
+
+
 
 
 **Sävare Församling**
@@ -47066,9 +65019,13 @@ Nummer: 12773
     123 454 87 56 - Kollekt
 
 
+
+
 **Sävarådalens Snöskoterklubb**
 
     123 161 56 08
+
+
 
 
 **Sävarådalens Trädgårdssällskap**
@@ -47076,9 +65033,13 @@ Nummer: 12773
     123 442 81 40
 
 
+
+
 **Sävaråkyrkan**
 
     123 389 41 77
+
+
 
 
 **Sävast Ski Team IF**
@@ -47086,14 +65047,20 @@ Nummer: 12773
     123 029 51 13
 
 
+
+
 **Säve Rödbo Hembygdsförening**
 
     123 424 78 96
 
 
+
+
 **Sävedalens AIK**
 
     123 113 76 29
+
+
 
 
 **Sävedalens Församling**
@@ -47111,9 +65078,13 @@ Nummer: 12773
     123 514 87 62 - Kollekt i Sävedalens kyrka
 
 
+
+
 **Sävedalens IF**
 
     123 317 21 03
+
+
 
 
 **Säveln-Rinnens FVO**
@@ -47121,9 +65092,13 @@ Nummer: 12773
     123 347 09 78
 
 
+
+
 **Sävens BK**
 
     123 132 67 01
+
+
 
 
 **Sävsjö Brukshundklubb**
@@ -47131,9 +65106,13 @@ Nummer: 12773
     123 085 18 73
 
 
+
+
 **Sävsjö RK**
 
     123 442 40 24
+
+
 
 
 **Sävsjöortens JVF**
@@ -47141,9 +65120,13 @@ Nummer: 12773
     123 621 01 99
 
 
+
+
 **Sågmyra SK**
 
     123 677 78 17
+
+
 
 
 **Sågvikens Bygdeförening**
@@ -47151,9 +65134,13 @@ Nummer: 12773
     123 071 73 71
 
 
+
+
 **Sångföreningen Manhem**
 
     123 156 19 27
+
+
 
 
 **Sångkören Divertimento**
@@ -47161,9 +65148,13 @@ Nummer: 12773
     123 011 36 70
 
 
+
+
 **Sångsällskapet NS, Nio Sångare**
 
     123 562 59 00
+
+
 
 
 **Söderala Bygdegårdsförening**
@@ -47171,9 +65162,13 @@ Nummer: 12773
     123 525 70 27
 
 
+
+
 **Söderala Hembygdsförening**
 
     123 608 65 81
+
+
 
 
 **Söderblommor**
@@ -47181,14 +65176,20 @@ Nummer: 12773
     123 229 44 03
 
 
+
+
 **Söderbärke GoIF**
 
     123 033 44 33
 
 
+
+
 **Söderbärke Hembygdsförening**
 
     123 627 63 98
+
+
 
 
 **Söderfors GoIF**
@@ -47198,9 +65199,13 @@ Nummer: 12773
     123 675 45 43
 
 
+
+
 **Söderfors Hembygdsförening**
 
     123 067 07 60
+
+
 
 
 **Söderhamn-Ljusne HC**
@@ -47208,9 +65213,13 @@ Nummer: 12773
     123 553 40 45
 
 
+
+
 **Söderhamn Mossne JSK**
 
     123 383 29 61
+
+
 
 
 **Söderhamns BK**
@@ -47218,9 +65227,13 @@ Nummer: 12773
     123 161 18 96
 
 
+
+
 **Söderhamns Brukshundklubb**
 
     123 539 34 91
+
+
 
 
 **Söderhamns FF**
@@ -47228,9 +65241,13 @@ Nummer: 12773
     123 034 54 54
 
 
+
+
 **Söderhamns Flygklubb**
 
     123 668 89 07
+
+
 
 
 **Söderhamns IBF**
@@ -47238,9 +65255,13 @@ Nummer: 12773
     123 287 23 80
 
 
+
+
 **Söderhamns IK**
 
     123 214 90 52
+
+
 
 
 **Söderhamns kammarmusikförening**
@@ -47248,9 +65269,13 @@ Nummer: 12773
     123 403 35 85
 
 
+
+
 **Söderhamns SS**
 
     123 026 87 63
+
+
 
 
 **Söderhamns UIF**
@@ -47258,9 +65283,13 @@ Nummer: 12773
     123 512 74 77
 
 
+
+
 **Söderhamnsortens Ryttarförening**
 
     123 339 51 75
+
+
 
 
 **Söderköping S:t Anna Församling**
@@ -47282,14 +65311,20 @@ Nummer: 12773
     123 494 57 62 - S:t Laurentii kyrka
 
 
+
+
 **Söderköpings Brukshundklubb**
 
     123 366 23 76
 
 
+
+
 **Söderköpings Gästabud Ekonomisk Förening**
 
     123 179 46 01
+
+
 
 
 **Söderköpings OK**
@@ -47299,9 +65334,13 @@ Nummer: 12773
     123 285 94 94
 
 
+
+
 **Söderköpings Ryttarsällskap**
 
     123 680 43 97
+
+
 
 
 **Söderköpings Skidklubb**
@@ -47309,9 +65348,13 @@ Nummer: 12773
     123 615 29 53
 
 
+
+
 **Söderköpings stads hembygdsförening, S:t Ragnhilds Gille i Söderköping**
 
     123 213 62 16
+
+
 
 
 **Södermalm Scoutkår**
@@ -47319,9 +65362,13 @@ Nummer: 12773
     123 554 49 78
 
 
+
+
 **Södermalmskyrkans Kristna Skola**
 
     123 106 78 00
+
+
 
 
 **Södermanlands Hembygdsförbund**
@@ -47329,9 +65376,13 @@ Nummer: 12773
     123 483 72 33
 
 
+
+
 **Södermanlands Hästavelsförening**
 
     123 551 45 26
+
+
 
 
 **Södermanlands Regementes Officerares Kamratförening**
@@ -47339,9 +65390,13 @@ Nummer: 12773
     123 069 85 22
 
 
+
+
 **Södersens Auktionshus AB**
 
     123 459 67 97
+
+
 
 
 **Söderskogs IF**
@@ -47349,9 +65404,13 @@ Nummer: 12773
     123 635 55 64
 
 
+
+
 **Södertälje Amatörfiskeklubb**
 
     123 319 43 54
+
+
 
 
 **Södertälje Bil & Alldemo AB**
@@ -47359,9 +65418,13 @@ Nummer: 12773
     123 029 77 21
 
 
+
+
 **Södertälje Brukshundklubb**
 
     123 352 87 18
+
+
 
 
 **Södertälje BTK**
@@ -47369,9 +65432,13 @@ Nummer: 12773
     123 077 79 87
 
 
+
+
 **Södertälje Båtsällskap**
 
     123 162 96 66
+
+
 
 
 **Södertälje Cykelklubb**
@@ -47379,9 +65446,13 @@ Nummer: 12773
     123 522 29 71
 
 
+
+
 **Södertälje Lokala Kennelklubb**
 
     123 495 63 55
+
+
 
 
 **Södertälje-Nykvarn Orientering**
@@ -47389,9 +65460,13 @@ Nummer: 12773
     123 173 03 32
 
 
+
+
 **Södertälje Ortsförbund / Lantbrukarnas Ekonomi-Aktiebolag**
 
     123 092 24 01
+
+
 
 
 **Södertälje Ridklubb**
@@ -47399,9 +65474,13 @@ Nummer: 12773
     123 155 54 08
 
 
+
+
 **Södertälje SK**
 
     123 642 94 50
+
+
 
 
 **Södertälje Sportklubb, SSK**
@@ -47409,9 +65488,13 @@ Nummer: 12773
     123 234 91 40
 
 
+
+
 **Södertälje Teateramatörer**
 
     123 577 01 44
+
+
 
 
 **Södertörnkyrkan**
@@ -47419,9 +65502,13 @@ Nummer: 12773
     123 602 54 49
 
 
+
+
 **Södertörns Scoutdistrikt**
 
     123 030 58 96
+
+
 
 
 **Söderåsen**
@@ -47429,9 +65516,13 @@ Nummer: 12773
     123 059 26 75 - Tegelbruksdammen
 
 
+
+
 **Söderåsens Brukshundklubb**
 
     123 615 18 31
+
+
 
 
 **Söderåsens GK**
@@ -47439,9 +65530,13 @@ Nummer: 12773
     123 303 48 08 - Juniorverksamheten
 
 
+
+
 **Söderö Gård**
 
     123 216 53 06
+
+
 
 
 **Söderögårdens Bygdegårdsförening**
@@ -47449,9 +65544,13 @@ Nummer: 12773
     123 228 51 87
 
 
+
+
 **Södra Bilsportförbundet**
 
     123 689 90 17
+
+
 
 
 **Södra Dals PSF**
@@ -47459,9 +65558,13 @@ Nummer: 12773
     123 128 78 79
 
 
+
+
 **Södra Gotlands Rid- och Körklubb**
 
     123 223 93 25
+
+
 
 
 **Södra Gärdslös Kulturgrupp**
@@ -47469,9 +65572,13 @@ Nummer: 12773
     123 046 22 26
 
 
+
+
 **Södra Härene IF**
 
     123 388 48 89
+
+
 
 
 **Södra Kurvan**
@@ -47479,9 +65586,13 @@ Nummer: 12773
     123 346 78 42
 
 
+
+
 **Södra Kvarnåkershamns Samfällighetsförening**
 
     123 363 81 94
+
+
 
 
 **Södra Livereds Samfällighetsförening**
@@ -47489,9 +65600,13 @@ Nummer: 12773
     123 354 88 64
 
 
+
+
 **Södra Ljusterö Byggnadsförening**
 
     123 035 33 91
+
+
 
 
 **Södra Mörebygdens Älgskötselområde**
@@ -47499,9 +65614,13 @@ Nummer: 12773
     123 292 03 87
 
 
+
+
 **Södra Rörums Bygdeförening**
 
     123 568 56 49
+
+
 
 
 **Södra Sallerups Ryttareförening**
@@ -47509,14 +65628,20 @@ Nummer: 12773
     123 520 97 39
 
 
+
+
 **Södra Sandby Jujitsuklubb**
 
     123 332 52 22
 
 
+
+
 **Södra Sandsjö Hembygdsförening**
 
     123 456 31 51
+
+
 
 
 **Södra Sandsjös Församling**
@@ -47526,9 +65651,13 @@ Nummer: 12773
     123 275 36 55 - Kollekt
 
 
+
+
 **Södra Stavsudda Båtbryggeförening**
 
     123 572 69 06
+
+
 
 
 **Södra Vedbo Pastorat**
@@ -47536,9 +65665,13 @@ Nummer: 12773
     123 318 63 92
 
 
+
+
 **Södra Venjans Hembygdsförening**
 
     123 098 93 84
+
+
 
 
 **Södra Vi Älg- och Kronhjortsskötselområde**
@@ -47546,14 +65679,20 @@ Nummer: 12773
     123 159 82 91
 
 
+
+
 **Södra Vings Församling**
 
     123 391 14 84
 
 
+
+
 **Södra Älvsborgs & Hallands Ardennerklubb**
 
     123 698 66 32
+
+
 
 
 **Södra Ölands Pastorat**
@@ -47599,9 +65738,13 @@ Nummer: 12773
     123 495 94 82 - Hulterstads kyrka
 
 
+
+
 **Sölvesborgs Brukshundklubb**
 
     123 146 49 24
+
+
 
 
 **Sölvesborgs Cykel & Sportklubb SCSK**
@@ -47609,9 +65752,13 @@ Nummer: 12773
     123 189 77 76
 
 
+
+
 **Sölvesborgs Filmstudio**
 
     123 005 41 06
+
+
 
 
 **Sölvesborgs GIF**
@@ -47619,9 +65766,13 @@ Nummer: 12773
     123 395 20 25
 
 
+
+
 **Sölvesborgs Trädgårdsförening**
 
     123 370 34 93
+
+
 
 
 **Sölvevikens Båtklubb**
@@ -47629,9 +65780,13 @@ Nummer: 12773
     123 091 91 75
 
 
+
+
 **Söndrums Hembygdsförening**
 
     123 209 17 18
+
+
 
 
 **Söndrums Tennisklubb**
@@ -47639,9 +65794,13 @@ Nummer: 12773
     123 371 73 78
 
 
+
+
 **Sönner och Mellantjärns FVOF**
 
     123 489 45 98
+
+
 
 
 **Sönnertorp Golf**
@@ -47649,9 +65808,13 @@ Nummer: 12773
     123 041 60 32
 
 
+
+
 **Sörbygdens Buss AB**
 
     123 164 46 73
+
+
 
 
 **Sörbyns IF**
@@ -47659,9 +65822,13 @@ Nummer: 12773
     123 627 92 10
 
 
+
+
 **SörbyÄngens Bouleklubb**
 
     123 206 38 08
+
+
 
 
 **Sörfjärdens Golfklubb**
@@ -47669,9 +65836,13 @@ Nummer: 12773
     123 256 79 80
 
 
+
+
 **Sörfjärdens Intresseförening**
 
     123 138 07 08
+
+
 
 
 **Sörfors Bönhusförening**
@@ -47679,9 +65850,13 @@ Nummer: 12773
     123 083 41 35
 
 
+
+
 **Sörfors Intresse- & Bygdegårdsförening**
 
     123 617 78 93
+
+
 
 
 **Sörgårdskyrkan i Ryd**
@@ -47689,9 +65864,13 @@ Nummer: 12773
     123 527 87 59
 
 
+
+
 **Sörmlands Stadsmission**
 
     123 900 51 17
+
+
 
 
 **Sörmons Hundklubb**
@@ -47699,9 +65878,13 @@ Nummer: 12773
     123 000 42 34
 
 
+
+
 **Sörmons Ridklubb**
 
     123 259 06 28
+
+
 
 
 **Sörängs Byalag**
@@ -47709,9 +65892,13 @@ Nummer: 12773
     123 458 69 47
 
 
+
+
 **Söråker Kyokushin Karate**
 
     123 627 39 73
+
+
 
 
 **Söråkers Båtsällskap**
@@ -47719,9 +65906,13 @@ Nummer: 12773
     123 508 77 54
 
 
+
+
 **Söråkers Folkets Hus Förening**
 
     123 034 67 75
+
+
 
 
 **Sösdala IF**
@@ -47729,14 +65920,20 @@ Nummer: 12773
     123 149 75 69
 
 
+
+
 **Sösdalaortens Lantliga Ryttarförening**
 
     123 584 39 09
 
 
+
+
 **Sövdeborgs Jaktskytteklubb**
 
     123 000 99 85
+
+
 
 
 
@@ -47748,9 +65945,13 @@ Nummer: 12773
     123 337 94 50
 
 
+
+
 **Tabergs Missionsförsamling**
 
     123 363 41 36
+
+
 
 
 **Tabergs Missionskyrkas Ungdom**
@@ -47758,9 +65959,13 @@ Nummer: 12773
     123 437 86 00
 
 
+
+
 **Taekwondo Klubben Jeong Sool Kwan, JSK**
 
     123 383 85 21
+
+
 
 
 **Taidokan**
@@ -47768,9 +65973,13 @@ Nummer: 12773
     123 073 25 60
 
 
+
+
 **Tails Rescue Sweden**
 
     123 560 73 12
+
+
 
 
 **Tailzone AB**
@@ -47778,9 +65987,13 @@ Nummer: 12773
     123 008 62 23
 
 
+
+
 **Takstolar i Stockholm AB**
 
     123 654 35 73
+
+
 
 
 **Talita**
@@ -47790,9 +66003,13 @@ Nummer: 12773
     123 900 59 84
 
 
+
+
 **Talktrigging / Bobbo Sundgren**
 
     123 090 59 19
+
+
 
 
 **Tallparkens Vänner**
@@ -47800,9 +66017,13 @@ Nummer: 12773
     123 180 78 09
 
 
+
+
 **Tallåskyrkan i Brunskog**
 
     123 311 75 04
+
+
 
 
 **Tandalaföreningen**
@@ -47810,9 +66031,13 @@ Nummer: 12773
     123 608 69 04
 
 
+
+
 **Tandläkare Sandbacka / Dental Rental Aktiebolag**
 
     123 527 86 43
+
+
 
 
 **Tango Norteño**
@@ -47820,9 +66045,13 @@ Nummer: 12773
     123 180 49 70
 
 
+
+
 **Tango Sol**
 
     123 000 46 97
+
+
 
 
 **TangoJamt**
@@ -47830,9 +66059,13 @@ Nummer: 12773
     123 576 37 50
 
 
+
+
 **Tangorama**
 
     123 485 89 32
+
+
 
 
 **Tankarnas Trädgård i Växjö**
@@ -47840,9 +66073,13 @@ Nummer: 12773
     123 114 97 64
 
 
+
+
 **Tankesmedjan Balans**
 
     123 063 57 14
+
+
 
 
 **Tankesmedjan Fores**
@@ -47850,9 +66087,13 @@ Nummer: 12773
     123 521 87 63
 
 
+
+
 **Tannåker Pingstförsamling**
 
     123 040 04 99
+
+
 
 
 **Tanto Bastuförening**
@@ -47860,9 +66101,13 @@ Nummer: 12773
     123 170 27 86
 
 
+
+
 **Tanums Brukshundsklubb**
 
     123 281 75 75
+
+
 
 
 **Tanums Bygdegårdsförening**
@@ -47870,9 +66115,13 @@ Nummer: 12773
     123 068 47 46
 
 
+
+
 **Tapanis Buss i Haparanda AB**
 
     123 034 69 57
+
+
 
 
 **Tapazio Capoeira Club**
@@ -47880,9 +66129,13 @@ Nummer: 12773
     123 051 70 86
 
 
+
+
 **Tassarnas Djurklinik AB**
 
     123 117 10 08
+
+
 
 
 **Tassens Katthjälp**
@@ -47890,9 +66143,13 @@ Nummer: 12773
     123 583 84 53
 
 
+
+
 **Tasspalatset AB**
 
     123 593 11 18
+
+
 
 
 **Taubesällskapet**
@@ -47900,9 +66157,13 @@ Nummer: 12773
     123 536 50 69
 
 
+
+
 **TaudienTraining Aktiebolag**
 
     123 609 63 25
+
+
 
 
 **Taure Western Riders Stockholm**
@@ -47910,9 +66171,13 @@ Nummer: 12773
     123 593 19 69
 
 
+
+
 **Taurus Combat Center IF**
 
     123 368 78 45
+
+
 
 
 **Tavelsjö AIK TAIK**
@@ -47920,9 +66185,13 @@ Nummer: 12773
     123 553 44 33
 
 
+
+
 **Taxi Lilla Edet AB**
 
     123 617 29 85
+
+
 
 
 **Taxinge Bygdegårdsförening**
@@ -47930,9 +66199,13 @@ Nummer: 12773
     123 545 62 23
 
 
+
+
 **TBN Nordic**
 
     123 203 74 06
+
+
 
 
 **Teachers Across Borders Sweden**
@@ -47940,9 +66213,13 @@ Nummer: 12773
     123 059 32 28
 
 
+
+
 **Team Albert MTB**
 
     123 002 14 44
+
+
 
 
 **Team Dolphins Bowlingklubb**
@@ -47950,9 +66227,13 @@ Nummer: 12773
     123 315 79 22
 
 
+
+
 **Team East TKD Klubb Kalmar**
 
     123 333 53 12
+
+
 
 
 **Team East TKD Klubb Öland**
@@ -47960,9 +66241,13 @@ Nummer: 12773
     123 457 12 87
 
 
+
+
 **Team Equus for Hope**
 
     123 427 00 96
+
+
 
 
 **Team Gotland VBK**
@@ -47970,9 +66255,13 @@ Nummer: 12773
     123 029 58 16
 
 
+
+
 **Team i Norr**
 
     123 527 84 60
+
+
 
 
 **Team Kalix IBK**
@@ -47982,9 +66271,13 @@ Nummer: 12773
     123 624 68 62
 
 
+
+
 **Team Kalmarsund Cykel**
 
     123 012 46 10
+
+
 
 
 **Team KBK Bikes Cykelklubb & Triathlon**
@@ -47992,9 +66285,13 @@ Nummer: 12773
     123 107 25 78
 
 
+
+
 **Team Med Uppdrag, TMU / Kristen Samverkan Småland-Blekinge**
 
     123 245 00 88
+
+
 
 
 **Team One Taekwondo**
@@ -48002,14 +66299,20 @@ Nummer: 12773
     123 162 92 11
 
 
+
+
 **Team Powerwoman**
 
     123 347 59 51
 
 
+
+
 **Team Rynkeby**
 
     123 618 21 74 - Sverige, TRGM School run Sweden
+
+
 
 
 **Team Rynkeby**
@@ -48145,6 +66448,8 @@ Nummer: 12773
     123 687 98 60 - Helsingborg, Dibber Fyrklövern
 
 
+
+
 **Team Rynkeby**
 
     123 004 50 96 - Värmland, Fageråsskolan
@@ -48248,6 +66553,8 @@ Nummer: 12773
     123 677 65 87 - Värmland, Fredricelundsskolan
 
 
+
+
 **Team Rynkeby**
 
     123 064 29 67 - Växjö, Borbackaskolan
@@ -48281,6 +66588,8 @@ Nummer: 12773
     123 678 44 90 - Växjö, Örtagårdens skola
 
     123 689 82 25 - Växjö, Högstorps skola
+
+
 
 
 **Team Rynkeby**
@@ -48394,6 +66703,8 @@ Nummer: 12773
     123 650 07 14 - Malmö, Lindeborgsskolan
 
 
+
+
 **Team Rynkeby**
 
     123 026 56 37 - Linköping, Vidingsjöskolan
@@ -48445,6 +66756,8 @@ Nummer: 12773
     123 675 79 18 - Linköping, Vallastadens skola
 
     123 678 94 24 - Linköping
+
+
 
 
 **Team Rynkeby**
@@ -48506,6 +66819,8 @@ Nummer: 12773
     123 668 40 70 - Jönköping, Sörgårdsskolan
 
 
+
+
 **Team Rynkeby**
 
     123 184 57 91 - Dalarna, Morkarlbyhöjdensskola 7-9
@@ -48529,6 +66844,8 @@ Nummer: 12773
     123 578 06 14 - Dalarna, Hedängsskolan
 
     123 624 67 30 - Dalarna, Danholsskolan
+
+
 
 
 **Team Rynkeby**
@@ -48560,6 +66877,8 @@ Nummer: 12773
     123 454 30 05 - Lund, Nyvångskolan
 
     123 455 99 93 - Lund, västervangakolan 5-9D
+
+
 
 
 **Team Rynkeby**
@@ -48607,6 +66926,8 @@ Nummer: 12773
     123 648 61 87 - Skaraborg, Svärtagårdsskolan
 
     123 677 65 95 - Skaraborg, Lundenskolan
+
+
 
 
 **Team Rynkeby**
@@ -48710,6 +67031,8 @@ Nummer: 12773
     123 686 27 67 - Stockholm, Norra Strandskolan
 
     123 687 99 93 - Stockholm, Björknässkolan
+
+
 
 
 **Team Rynkeby**
@@ -48829,6 +67152,8 @@ Nummer: 12773
     123 689 98 35 - Täby, ISSR International School of the Stockholm Region
 
 
+
+
 **Team Rynkeby**
 
     123 004 12 85 - Göteborg, vallhamraskolan
@@ -48938,6 +67263,8 @@ Nummer: 12773
     123 693 44 42 - Göteborg, Hallenskolan
 
 
+
+
 **Team Rynkeby**
 
     123 024 00 85 - Kalmar
@@ -48969,6 +67296,8 @@ Nummer: 12773
     123 647 50 99 - Kalmar län, Lindsdalsskolan
 
     123 648 06 36 - Kalmar län, Lindåsskolan
+
+
 
 
 **Team Rynkeby**
@@ -49052,6 +67381,8 @@ Nummer: 12773
     123 645 51 82 - Kristianstad, Österslövs skola
 
     123 650 07 06 - Kristianstad, Öllsjöskolans fritidshem
+
+
 
 
 **Team Rynkeby**
@@ -49141,6 +67472,8 @@ Nummer: 12773
     123 687 99 10 - Sjuhärad, Bogesundsskolan
 
 
+
+
 **Team Rynkeby**
 
     123 022 74 21 - Halland, Almers skola
@@ -49200,9 +67533,13 @@ Nummer: 12773
     123 678 44 41 - Halland, Bäckagårdsskolan
 
 
+
+
 **Team Sweden Volunteers**
 
     123 355 94 08
+
+
 
 
 **Team Utan Gränser Cykelklubb**
@@ -49210,9 +67547,13 @@ Nummer: 12773
     123 338 01 77
 
 
+
+
 **Team Västernorrland Innebandy**
 
     123 474 55 68
+
+
 
 
 **Team Walles MK - Motorcykel och Snöskoter**
@@ -49220,9 +67561,13 @@ Nummer: 12773
     123 271 14 22
 
 
+
+
 **TeamNorr IT-Partner AB**
 
     123 284 53 60
+
+
 
 
 **Teater sLAgeT**
@@ -49230,14 +67575,20 @@ Nummer: 12773
     123 076 17 59
 
 
+
+
 **Teater Trassel**
 
     123 509 22 75
 
 
+
+
 **Teaterkören**
 
     123 462 72 38
+
+
 
 
 **Ted Ström Konst & Musik**
@@ -49247,9 +67598,13 @@ Nummer: 12773
     123 566 66 98
 
 
+
+
 **Teeview / Top View AB**
 
     123 502 53 58
+
+
 
 
 **Tegelhagens Samfällighetsförening**
@@ -49257,9 +67612,13 @@ Nummer: 12773
     123 428 22 73
 
 
+
+
 **Tegelträsk Bygdegårdsförening**
 
     123 466 01 06
+
+
 
 
 **Teglund Publishing AB**
@@ -49267,9 +67626,13 @@ Nummer: 12773
     123 559 71 33
 
 
+
+
 **Tegneby Församling**
 
     123 440 77 71
+
+
 
 
 **Tekken Wadokai Karate-Do - Karate**
@@ -49277,9 +67640,13 @@ Nummer: 12773
     123 076 61 54
 
 
+
+
 **Teknisk Valsamverkan**
 
     123 433 84 06
+
+
 
 
 **Tekniska Föreningen Pars i Västerås**
@@ -49287,9 +67654,13 @@ Nummer: 12773
     123 434 91 63
 
 
+
+
 **Telegrafverkets Pistolskytteförening / Härlanda Pistolskytteklubb**
 
     123 005 39 42
+
+
 
 
 **Televeteranerna i Umeå**
@@ -49297,9 +67668,13 @@ Nummer: 12773
     123 490 09 53
 
 
+
+
 **Telge United FF**
 
     123 351 41 48
+
+
 
 
 **Tennisportalen / Tennisportalen Media Sweden**
@@ -49307,9 +67682,13 @@ Nummer: 12773
     123 439 72 87
 
 
+
+
 **Tensta Bygdegårdsförening**
 
     123 299 17 92
+
+
 
 
 **Tensta Församling**
@@ -49317,9 +67696,13 @@ Nummer: 12773
     123 657 13 01
 
 
+
+
 **Tensta Turkiska Begravningsförening**
 
     123 435 11 77
+
+
 
 
 **Tenstakyrkan**
@@ -49327,9 +67710,13 @@ Nummer: 12773
     123 298 08 78
 
 
+
+
 **Terapeut Jinder / AB ÅSA JINDER**
 
     123 042 63 46
+
+
 
 
 **Terapicenter för unga vuxna / Stiftelsen Young Solidarity Foundation**
@@ -49337,9 +67724,13 @@ Nummer: 12773
     123 435 09 14
 
 
+
+
 **Terminologifrämjandet**
 
     123 003 80 42
+
+
 
 
 **Terrafem**
@@ -49347,9 +67738,13 @@ Nummer: 12773
     123 901 06 87
 
 
+
+
 **Terrafem Göteborg**
 
     123 505 39 88
+
+
 
 
 **Terrafem Skåne**
@@ -49357,9 +67752,13 @@ Nummer: 12773
     123 078 34 31
 
 
+
+
 **Terrafem Stockholm**
 
     123 094 65 09
+
+
 
 
 **Terrafem Uppsala**
@@ -49367,9 +67766,13 @@ Nummer: 12773
     123 697 50 15
 
 
+
+
 **Terrafem Örebro**
 
     123 286 37 36
+
+
 
 
 **Terräng Gruppen**
@@ -49377,9 +67780,13 @@ Nummer: 12773
     123 093 95 20
 
 
+
+
 **Textil Gotland**
 
     123 238 72 07
+
+
 
 
 **Thailändska Buddhistiska Föreningen Wat Thai Uppsala วัดไทยอุปซอลา**
@@ -49387,9 +67794,13 @@ Nummer: 12773
     123 149 60 66
 
 
+
+
 **The English Bookshop**
 
     123 038 70 01 - Vivat
+
+
 
 
 **The House Sweden / Church Service**
@@ -49397,9 +67808,13 @@ Nummer: 12773
     123 668 59 29
 
 
+
+
 **The Humane school / Föreningen Sofia**
 
     123 442 53 77
+
+
 
 
 **The Light of My Soul / Ulrika Knutsdotter**
@@ -49407,9 +67822,13 @@ Nummer: 12773
     123 696 84 24
 
 
+
+
 **The Maine Club**
 
     123 566 66 80
+
+
 
 
 **The Perfect World Foundation**
@@ -49417,9 +67836,13 @@ Nummer: 12773
     123 900 38 80
 
 
+
+
 **The Swedish Surfing Association**
 
     123 419 08 80
+
+
 
 
 **Theleborgs RS - Ridsport**
@@ -49427,9 +67850,13 @@ Nummer: 12773
     123 082 25 44
 
 
+
+
 **Therese Lind**
 
     123 512 61 49
+
+
 
 
 **Thermotech Scandinavia AB**
@@ -49437,9 +67864,13 @@ Nummer: 12773
     123 615 82 57
 
 
+
+
 **Thielska Galleriets Vänner**
 
     123 264 37 32
+
+
 
 
 **Thong Thai Massage / Thongjan Skaar**
@@ -49447,9 +67878,13 @@ Nummer: 12773
     123 025 39 89
 
 
+
+
 **Thoralf Alfsson**
 
     123 011 48 01
+
+
 
 
 **Tian Dao Kamsports Förening**
@@ -49457,9 +67892,13 @@ Nummer: 12773
     123 534 20 84
 
 
+
+
 **Tibro CK**
 
     123 070 68 46
+
+
 
 
 **Tibro JSK**
@@ -49467,9 +67906,13 @@ Nummer: 12773
     123 011 49 18
 
 
+
+
 **Tibro Konstförening**
 
     123 666 27 38
+
+
 
 
 **Tidaholms Pensionärers Bowlingklubb**
@@ -49477,9 +67920,13 @@ Nummer: 12773
     123 314 94 08
 
 
+
+
 **Tidans IF**
 
     123 100 68 08
+
+
 
 
 **Tidningen Arbetaren**
@@ -49487,9 +67934,13 @@ Nummer: 12773
     123 480 99 84
 
 
+
+
 **Tidningen Proletären**
 
     123 465 04 46 - Frankrike
+
+
 
 
 **Tidskrift i Sjöväsendet - Kungliga Örlogsmannasällskapet**
@@ -49497,9 +67948,13 @@ Nummer: 12773
     123 437 59 29
 
 
+
+
 **Tierp Arena**
 
     123 004 35 05
+
+
 
 
 **Tierp IBK**
@@ -49507,9 +67962,13 @@ Nummer: 12773
     123 417 13 44
 
 
+
+
 **Tierp-Tolfta Skytteförening**
 
     123 104 91 62
+
+
 
 
 **Tierp Yoga & Hälsa / Carina Järvi**
@@ -49517,9 +67976,13 @@ Nummer: 12773
     123 245 02 03
 
 
+
+
 **Tierps Brukshundsklubb**
 
     123 402 98 31
+
+
 
 
 **Tierps HK**
@@ -49529,6 +67992,8 @@ Nummer: 12773
     123 613 39 20
 
 
+
+
 **Tierps IF**
 
     123 098 82 95
@@ -49536,9 +68001,13 @@ Nummer: 12773
     123 405 64 95
 
 
+
+
 **Tierps Matcentral**
 
     123 688 45 22
+
+
 
 
 **Tifo Lincopia**
@@ -49546,9 +68015,13 @@ Nummer: 12773
     123 095 93 46
 
 
+
+
 **Tilia**
 
     123 170 71 81
+
+
 
 
 **Till Sängs / Samanda Ekman**
@@ -49556,11 +68029,15 @@ Nummer: 12773
     123 468 08 15
 
 
+
+
 **Tillberga IK Bandy**
 
     123 079 50 39
 
     123 281 61 71
+
+
 
 
 **Tillberga Kyrka**
@@ -49572,9 +68049,13 @@ Nummer: 12773
     123 671 97 44 - Klädbytardagar, jullunch
 
 
+
+
 **Tillman Entertainment AB**
 
     123 555 77 56
+
+
 
 
 **Tillsammans Gör Vi Skillnad, TGVS**
@@ -49582,9 +68063,13 @@ Nummer: 12773
     123 589 62 04
 
 
+
+
 **Tillsammans Höör / Mittpunkten Höör**
 
     123 240 82 27
+
+
 
 
 **Timmele Församling**
@@ -49592,14 +68077,20 @@ Nummer: 12773
     123 306 16 37
 
 
+
+
 **Timmermansorden**
 
     123 687 02 24
 
 
+
+
 **Timmernabbens MSK**
 
     123 114 75 29
+
+
 
 
 **Timrå IK**
@@ -49611,9 +68102,13 @@ Nummer: 12773
     123 406 51 65
 
 
+
+
 **Timrå IK Supporterklubb**
 
     123 026 17 50
+
+
 
 
 **Timrå IK U16**
@@ -49621,9 +68116,13 @@ Nummer: 12773
     123 045 61 94
 
 
+
+
 **Timrå KK - Konståkning**
 
     123 218 47 78
+
+
 
 
 **Timrå Kustvandring**
@@ -49631,9 +68130,13 @@ Nummer: 12773
     123 203 08 07
 
 
+
+
 **Timrå SOK**
 
     123 047 03 10
+
+
 
 
 **Timråpartiet**
@@ -49641,14 +68144,20 @@ Nummer: 12773
     123 337 31 49
 
 
+
+
 **Tina FC Lidköping**
 
     123 398 37 07
 
 
+
+
 **Tingsryds Pastorat**
 
     123 380 19 09 - Gravljus
+
+
 
 
 **Tingsryds Rid O KK - Ridsport**
@@ -49658,9 +68167,13 @@ Nummer: 12773
     123 363 58 36
 
 
+
+
 **Tingsryds Tennissällskap**
 
     123 668 91 86
+
+
 
 
 **Tingsås Församling**
@@ -49670,9 +68183,13 @@ Nummer: 12773
     123 275 36 48 - Kollekt
 
 
+
+
 **Tingvalla Dans i Åstorp**
 
     123 692 94 59
+
+
 
 
 **TiP Generations Höör**
@@ -49680,9 +68197,13 @@ Nummer: 12773
     123 240 97 46
 
 
+
+
 **Tip-Top Läder**
 
     123 348 18 68
+
+
 
 
 **TipsExtra / Peter Härder AB**
@@ -49690,9 +68211,13 @@ Nummer: 12773
     123 552 36 67
 
 
+
+
 **Tisnarbro IF**
 
     123 413 82 69
+
+
 
 
 **Tjalve Friidrott**
@@ -49700,9 +68225,13 @@ Nummer: 12773
     123 242 67 73
 
 
+
+
 **Tjej- & Kvinnojouren Nordvärmland**
 
     123 275 30 10
+
+
 
 
 **Tjej och Transjouren Lina**
@@ -49710,9 +68239,13 @@ Nummer: 12773
     123 086 63 35
 
 
+
+
 **Tjejjouren Luleå**
 
     123 254 16 13
+
+
 
 
 **Tjejjouren Norrköping**
@@ -49720,9 +68253,13 @@ Nummer: 12773
     123 420 58 52
 
 
+
+
 **Tjejjouren Rut**
 
     123 399 83 58
+
+
 
 
 **Tjejjouren Skogsrå**
@@ -49730,9 +68267,13 @@ Nummer: 12773
     123 096 05 83
 
 
+
+
 **TjejJouren Väst**
 
     123 640 96 35
+
+
 
 
 **Tjejzonen**
@@ -49740,9 +68281,13 @@ Nummer: 12773
     123 900 20 72
 
 
+
+
 **Tjureda Bygdegårdsförening**
 
     123 386 43 94
+
+
 
 
 **Tjust Bandy**
@@ -49750,9 +68295,13 @@ Nummer: 12773
     123 539 96 62
 
 
+
+
 **Tjust IF Fotboll**
 
     123 680 42 49
+
+
 
 
 **Tjust Släktforskarförening**
@@ -49760,9 +68309,13 @@ Nummer: 12773
     123 557 10 70
 
 
+
+
 **Tjärnö Hembygdsförening**
 
     123 519 52 84
+
+
 
 
 **Tjärstad Hembygdsförening**
@@ -49770,9 +68323,13 @@ Nummer: 12773
     123 009 46 98
 
 
+
+
 **Tjörns Hembygdsförening**
 
     123 346 64 14
+
+
 
 
 **Tjörns hjälp till Ukraina / Betelförsamlingen Klädesholmen**
@@ -49780,9 +68337,13 @@ Nummer: 12773
     123 586 00 93
 
 
+
+
 **Tjörns Konstförening**
 
     123 095 59 71
+
+
 
 
 **Tjörns Pastorat**
@@ -49802,9 +68363,13 @@ Nummer: 12773
     123 525 24 99 - Skärhamns kyrka
 
 
+
+
 **Tjörns RK**
 
     123 468 80 81
+
+
 
 
 **Tjörns Släktforskare**
@@ -49812,9 +68377,13 @@ Nummer: 12773
     123 497 10 40
 
 
+
+
 **TN Telgenytt / TNM Aktiebolag**
 
     123 473 66 41
+
+
 
 
 **To be continued**
@@ -49822,9 +68391,13 @@ Nummer: 12773
     123 173 72 12
 
 
+
+
 **Tobias Stiftelsen**
 
     123 901 00 42
+
+
 
 
 **Tobiasregistret**
@@ -49832,9 +68405,13 @@ Nummer: 12773
     123 454 19 67
 
 
+
+
 **Tobo GK**
 
     123 077 67 40
+
+
 
 
 **Tofta Bygdegårdsförening**
@@ -49842,9 +68419,13 @@ Nummer: 12773
     123 153 83 54
 
 
+
+
 **Tofta Gif**
 
     123 695 04 14 - Gymnastiksektionen
+
+
 
 
 **Tofteryd-Hagshults Hembygdsförening**
@@ -49856,9 +68437,13 @@ Nummer: 12773
     123 670 63 86
 
 
+
+
 **Together for Better**
 
     123 025 98 04
+
+
 
 
 **Tolg IF**
@@ -49866,9 +68451,13 @@ Nummer: 12773
     123 634 46 00
 
 
+
+
 **Tollans Häst & Foder / Inga-Lill Allvin**
 
     123 351 99 31
+
+
 
 
 **Tollarps IF**
@@ -49876,9 +68465,13 @@ Nummer: 12773
     123 614 06 44
 
 
+
+
 **Tollereds IF**
 
     123 427 92 12
+
+
 
 
 **Tomaskyrkan**
@@ -49892,9 +68485,13 @@ Nummer: 12773
     123 694 18 76 - Kollekt
 
 
+
+
 **Tomatboden i Varv / Assarsson Trädgård AB**
 
     123 237 09 30
+
+
 
 
 **Tomelilla Församling**
@@ -49902,9 +68499,13 @@ Nummer: 12773
     123 457 91 32
 
 
+
+
 **Tomelilla Golf**
 
     123 595 26 35
+
+
 
 
 **Top of Arjeplog / Midsommarviken Maria Söderberg AB**
@@ -49912,9 +68513,13 @@ Nummer: 12773
     123 345 35 94
 
 
+
+
 **Top of Skellefteå / Midsommarviken AB**
 
     123 500 94 10
+
+
 
 
 **Topfunhoppborgar AB**
@@ -49922,9 +68527,13 @@ Nummer: 12773
     123 105 19 78
 
 
+
+
 **Torekov Kallbadhus**
 
     123 116 26 68
+
+
 
 
 **Torekovs Golfklubb**
@@ -49932,9 +68541,13 @@ Nummer: 12773
     123 084 54 53
 
 
+
+
 **Torekovs IK**
 
     123 690 26 05
+
+
 
 
 **Torestorp-Älekulla FF**
@@ -49942,9 +68555,13 @@ Nummer: 12773
     123 006 87 18
 
 
+
+
 **Torestorps Församling**
 
     123 450 40 64 - Kollekt
+
+
 
 
 **Torg- och Marknadshandlarnas Ekonomiska Riksförening, TOMER**
@@ -49952,9 +68569,13 @@ Nummer: 12773
     123 468 95 35
 
 
+
+
 **Tornedalen FC**
 
     123 612 88 13
+
+
 
 
 **Tornedalens Lokala Kennelklubb**
@@ -49962,9 +68583,13 @@ Nummer: 12773
     123 471 43 17
 
 
+
+
 **Torns Församling**
 
     123 105 97 57
+
+
 
 
 **Torp Församling**
@@ -49972,9 +68597,13 @@ Nummer: 12773
     123 303 43 60
 
 
+
+
 **Torp GoIF**
 
     123 395 19 93
+
+
 
 
 **Torpa AIS**
@@ -49982,9 +68611,13 @@ Nummer: 12773
     123 694 77 82
 
 
+
+
 **Torpa Bygdegårdsförening**
 
     123 538 18 19
+
+
 
 
 **Torpa Församling**
@@ -49994,9 +68627,13 @@ Nummer: 12773
     123 480 43 57
 
 
+
+
 **Torps Bygdegård**
 
     123 045 10 54
+
+
 
 
 **Torrbergstjärn / Sjulnäs Fiskevårdsförening**
@@ -50004,9 +68641,13 @@ Nummer: 12773
     123 676 37 18
 
 
+
+
 **Torrekulla Golfklubb**
 
     123 511 75 85
+
+
 
 
 **Torrskogs Bygdegårdsförening**
@@ -50014,9 +68655,13 @@ Nummer: 12773
     123 635 53 58
 
 
+
+
 **Torrskogs Församlings Blomsterfond**
 
     123 270 69 84
+
+
 
 
 **Torrskogs kyrka**
@@ -50024,9 +68669,13 @@ Nummer: 12773
     123 649 73 90
 
 
+
+
 **Torsby Brukshundklubb**
 
     123 448 64 52
+
+
 
 
 **Torsby Båtklubb**
@@ -50034,9 +68683,13 @@ Nummer: 12773
     123 108 16 52
 
 
+
+
 **Torsby Golfklubb**
 
     123 336 56 99
+
+
 
 
 **Torsby Marknad**
@@ -50044,9 +68697,13 @@ Nummer: 12773
     123 690 56 16
 
 
+
+
 **Torsby Ridklubb**
 
     123 218 30 02
+
+
 
 
 **Torsby Samfällighetsförening på Värmdö**
@@ -50054,9 +68711,13 @@ Nummer: 12773
     123 674 32 64
 
 
+
+
 **Torshalls Bygdegårdsförening**
 
     123 327 60 86
+
+
 
 
 **Torshälla Golfklubb**
@@ -50064,9 +68725,13 @@ Nummer: 12773
     123 018 41 43
 
 
+
+
 **Torshälla IBK**
 
     123 218 06 36 - F13-16
+
+
 
 
 **Torshälla-Nyby IS**
@@ -50076,9 +68741,13 @@ Nummer: 12773
     123 150 59 32 - P09
 
 
+
+
 **Torslanda Filmstudio**
 
     123 455 92 74
+
+
 
 
 **Torslanda IK**
@@ -50086,9 +68755,13 @@ Nummer: 12773
     123 695 10 08 - P12
 
 
+
+
 **Torslunda Församling**
 
     123 407 91 25
+
+
 
 
 **Torslunda Hembygdsförening**
@@ -50096,9 +68769,13 @@ Nummer: 12773
     123 270 30 49
 
 
+
+
 **Torsten Renqvist Sällskapet**
 
     123 363 26 27
+
+
 
 
 **Torstorps IF**
@@ -50106,9 +68783,13 @@ Nummer: 12773
     123 560 01 50
 
 
+
+
 **Torsåker Bluegrassfestival**
 
     123 552 83 36
+
+
 
 
 **Torsåkers Församling**
@@ -50116,9 +68797,13 @@ Nummer: 12773
     123 059 44 73
 
 
+
+
 **Torsåkers Hembygdsförening**
 
     123 435 38 68
+
+
 
 
 **Torsås Ryttare**
@@ -50126,9 +68811,13 @@ Nummer: 12773
     123 466 48 76
 
 
+
+
 **Torsö Bygdegårds & Idrottsförening**
 
     123 661 58 19
+
+
 
 
 **Torsö Bygdegårds & Idrottsförening, TBIF**
@@ -50136,9 +68825,13 @@ Nummer: 12773
     123 520 34 01
 
 
+
+
 **Torsö Hembygdsförening**
 
     123 669 42 02
+
+
 
 
 **Tortuna Bygdegårdsförening**
@@ -50146,9 +68839,13 @@ Nummer: 12773
     123 040 36 59
 
 
+
+
 **Tortuna Golfklubb**
 
     123 388 11 09
+
+
 
 
 **Torup Rydö FF**
@@ -50156,9 +68853,13 @@ Nummer: 12773
     123 313 85 67
 
 
+
+
 **Torups Pistolklubb**
 
     123 401 69 86
+
+
 
 
 **Torvalla IP / IFK Haninge**
@@ -50166,9 +68867,13 @@ Nummer: 12773
     123 269 88 84
 
 
+
+
 **Torö Bygdegårdsförening**
 
     123 093 67 99
+
+
 
 
 **TOSTAN Sverige**
@@ -50176,9 +68881,13 @@ Nummer: 12773
     123 900 04 72
 
 
+
+
 **Tosäters Byhistoriska Förening**
 
     123 055 01 11
+
+
 
 
 **Tottenham Hotspur Supporters Sweden**
@@ -50186,9 +68895,13 @@ Nummer: 12773
     123 155 78 26
 
 
+
+
 **Towas Massage & hälsa / Towa Schedvins**
 
     123 263 05 56
+
+
 
 
 **TPs Hundbutik / Linda Ling**
@@ -50196,9 +68909,13 @@ Nummer: 12773
     123 466 11 20
 
 
+
+
 **TRABDIN / Andreas Sunal**
 
     123 104 18 70
+
+
 
 
 **TrafficSec**
@@ -50206,9 +68923,13 @@ Nummer: 12773
     123 275 82 33
 
 
+
+
 **Trafikcenter i Varberg AB**
 
     123 174 69 16
+
+
 
 
 **Train Station Brewery AB**
@@ -50216,9 +68937,13 @@ Nummer: 12773
     123 287 32 14
 
 
+
+
 **Tranemo MK**
 
     123 562 84 82
+
+
 
 
 **Tranemoryttarna**
@@ -50226,9 +68951,13 @@ Nummer: 12773
     123 311 37 76
 
 
+
+
 **Trankils Hembygdsförening**
 
     123 466 95 11
+
+
 
 
 **Trans Fest Stockholm**
@@ -50236,9 +68965,13 @@ Nummer: 12773
     123 087 64 17
 
 
+
+
 **Transnational Records / Transnational Music Group HB**
 
     123 126 85 64
+
+
 
 
 **Transparency International Sverige**
@@ -50246,9 +68979,13 @@ Nummer: 12773
     123 266 85 56
 
 
+
+
 **Tranås AIF FIF**
 
     123 080 82 87
+
+
 
 
 **Tranås BoIS**
@@ -50256,9 +68993,13 @@ Nummer: 12773
     123 612 63 20
 
 
+
+
 **Tranås Kvinnojour**
 
     123 495 08 46
+
+
 
 
 **Tranås Muaythai Klubb**
@@ -50266,9 +69007,13 @@ Nummer: 12773
     123 129 84 21
 
 
+
+
 **Tranås RK**
 
     123 270 34 78
+
+
 
 
 **Tranås Sportfiskeförening**
@@ -50276,9 +69021,13 @@ Nummer: 12773
     123 217 11 30
 
 
+
+
 **Tranås SS**
 
     123 093 97 51
+
+
 
 
 **Trappern / Christian Nilsson**
@@ -50286,9 +69035,13 @@ Nummer: 12773
     123 100 82 26
 
 
+
+
 **Travel Zmart Sweden AB**
 
     123 359 37 12
+
+
 
 
 **Trelleborg Judo**
@@ -50296,9 +69049,13 @@ Nummer: 12773
     123 137 93 95
 
 
+
+
 **Trelleborg Padelklubb**
 
     123 646 89 38
+
+
 
 
 **Trelleborg Sjöscoutkår**
@@ -50306,14 +69063,20 @@ Nummer: 12773
     123 073 82 45
 
 
+
+
 **Trelleborgs Brukshundklubb**
 
     123 514 72 02
 
 
+
+
 **Trelleborgs Församling**
 
     123 120 93 11
+
+
 
 
 **Trelleborgs IF**
@@ -50323,9 +69086,13 @@ Nummer: 12773
     123 587 71 13 - Ungdom A
 
 
+
+
 **Trelleborgs Karateklubb**
 
     123 525 19 47
+
+
 
 
 **Trelleborgs Missionsförsamling**
@@ -50335,9 +69102,13 @@ Nummer: 12773
     123 678 39 14
 
 
+
+
 **Trelleborgs Scoutkår**
 
     123 315 74 27
+
+
 
 
 **Trelleborgs Taekwondo Klubb**
@@ -50345,9 +69116,13 @@ Nummer: 12773
     123 275 81 42
 
 
+
+
 **TREPCA FC**
 
     123 294 37 77
+
+
 
 
 **TreSkaBliNoll Sverige**
@@ -50357,9 +69132,13 @@ Nummer: 12773
     123 900 75 76
 
 
+
+
 **Triangelns IK**
 
     123 413 67 01
+
+
 
 
 **TRIS - Tjejers rätt i samhället**
@@ -50367,14 +69146,20 @@ Nummer: 12773
     123 576 01 11
 
 
+
+
 **Trollbäcken Ju-Jutsuklubb**
 
     123 638 91 83
 
 
+
+
 **Trollbäckens Trafikskola / VICCEC AB**
 
     123 509 03 03
+
+
 
 
 **Trollenäs IF**
@@ -50384,9 +69169,13 @@ Nummer: 12773
     123 668 57 47
 
 
+
+
 **Trollhättan Syrianska FK**
 
     123 567 36 03
+
+
 
 
 **Trollhättans AK**
@@ -50394,9 +69183,13 @@ Nummer: 12773
     123 525 26 55
 
 
+
+
 **Trollhättans BOIS**
 
     123 068 05 53
+
+
 
 
 **Trollhättans FF**
@@ -50404,9 +69197,13 @@ Nummer: 12773
     123 039 38 50
 
 
+
+
 **Trollhättans FK**
 
     123 059 29 15
+
+
 
 
 **Trollhättans HC**
@@ -50414,9 +69211,13 @@ Nummer: 12773
     123 614 05 03
 
 
+
+
 **Trollhättans Idrottshistoriska Sällskap, TIHS**
 
     123 570 76 90
+
+
 
 
 **Trollhättans IF**
@@ -50424,9 +69225,13 @@ Nummer: 12773
     123 040 77 34
 
 
+
+
 **Trollhättans Kattsluss**
 
     123 145 11 03
+
+
 
 
 **Trollhättans Scoutkår**
@@ -50434,9 +69239,13 @@ Nummer: 12773
     123 621 85 23
 
 
+
+
 **Trollhättans SOK**
 
     123 281 80 94
+
+
 
 
 **Trollhättans Sportryttare**
@@ -50444,9 +69253,13 @@ Nummer: 12773
     123 298 09 93
 
 
+
+
 **Trosa Båtklubb**
 
     123 645 64 87
+
+
 
 
 **Trosa Edanö IBK**
@@ -50454,9 +69267,13 @@ Nummer: 12773
     123 589 51 98
 
 
+
+
 **Trosa Golfklubb**
 
     123 510 24 88
+
+
 
 
 **Trosa Ridsällskap**
@@ -50464,9 +69281,13 @@ Nummer: 12773
     123 489 10 40 - Ridavgifter
 
 
+
+
 **Trosa Ridsällskap, TRS**
 
     123 543 00 20
+
+
 
 
 **Trosabygdens Konstförening**
@@ -50474,14 +69295,20 @@ Nummer: 12773
     123 334 81 09
 
 
+
+
 **Trosabygdens Trädgårdssällskap**
 
     123 554 68 90
 
 
+
+
 **Trosgnistans Mission**
 
     123 900 73 78
+
+
 
 
 **Trossamfundet Romersk-Katolska Kyrkan**
@@ -50493,6 +69320,8 @@ Nummer: 12773
     123 900 50 34
 
 
+
+
 **Trossamfundet Svenska Kyrkan**
 
     123 900 12 23
@@ -50500,9 +69329,13 @@ Nummer: 12773
     123 901 60 31
 
 
+
+
 **Trossnäs FRK Karlstad - Ridsport**
 
     123 321 49 13
+
+
 
 
 **TROTS Kvinnojour**
@@ -50510,9 +69343,13 @@ Nummer: 12773
     123 540 63 27
 
 
+
+
 **Trummenäs Golfklubb**
 
     123 654 83 90
+
+
 
 
 **Trygga Tassen / Annette Lindberg**
@@ -50520,9 +69357,13 @@ Nummer: 12773
     123 447 56 46
 
 
+
+
 **Trygghetsboende Resele**
 
     123 557 07 42
+
+
 
 
 **Trädgården Alfta / Alfta Garden AB**
@@ -50530,9 +69371,13 @@ Nummer: 12773
     123 346 84 69
 
 
+
+
 **Trädgårdstrollet / Jasmine Waara**
 
     123 638 63 79
+
+
 
 
 **Trälhavets Båtklubb**
@@ -50540,14 +69385,20 @@ Nummer: 12773
     123 453 67 69
 
 
+
+
 **Träningsforum Tollarp**
 
     123 365 22 45
 
 
+
+
 **Träningsshoppen by Ace / Åsa Rydén Pålsson**
 
     123 143 10 06
+
+
 
 
 **Träslövsläge IF**
@@ -50557,9 +69408,13 @@ Nummer: 12773
     123 440 84 80
 
 
+
+
 **Trässbergs BK**
 
     123 587 09 36
+
+
 
 
 **Trångsvikens IF**
@@ -50567,9 +69422,13 @@ Nummer: 12773
     123 233 99 35
 
 
+
+
 **Trökörna Frambo bygdegård**
 
     123 517 78 52
+
+
 
 
 **Trönningenäs Södra Hamnförening**
@@ -50577,9 +69436,13 @@ Nummer: 12773
     123 277 86 60
 
 
+
+
 **Trönö Fiskevårdsförening**
 
     123 562 46 06
+
+
 
 
 **Tröskens Samfällighetsförening**
@@ -50587,9 +69450,13 @@ Nummer: 12773
     123 528 83 03
 
 
+
+
 **Tuki Nepal Society Sweden**
 
     123 900 50 42
+
+
 
 
 **Tullinge FIF - Friidrott**
@@ -50597,9 +69464,13 @@ Nummer: 12773
     123 122 91 60
 
 
+
+
 **Tullus SG - Skidskytte**
 
     123 596 88 54
+
+
 
 
 **Tumba Gymnastik o IF**
@@ -50607,14 +69478,20 @@ Nummer: 12773
     123 103 93 61
 
 
+
+
 **Tumba Trafikskola / Körkortsutbildarna i Tumba AB**
 
     123 386 90 47
 
 
+
+
 **Tun Bygdens Intresseförening**
 
     123 514 41 18
+
+
 
 
 **Tuna-Attmars Församling**
@@ -50624,9 +69501,13 @@ Nummer: 12773
     123 533 12 10 - Diakonala gåvomedel
 
 
+
+
 **Tuna hembygdsförening**
 
     123 199 91 84
+
+
 
 
 **Tuna Hembygdsförening**
@@ -50634,14 +69515,20 @@ Nummer: 12773
     123 634 88 17
 
 
+
+
 **Tuna-Hästbergs Hembygdsförening**
 
     123 566 88 76
 
 
+
+
 **Tunabergs Församling**
 
     123 388 04 57
+
+
 
 
 **Tunabergskyrkan i Uppsala**
@@ -50651,9 +69538,13 @@ Nummer: 12773
     123 457 14 02 - Kollekt
 
 
+
+
 **Tunadalskyrkans Församling**
 
     123 666 35 79
+
+
 
 
 **Tunalids RK - Ridsport**
@@ -50661,9 +69552,13 @@ Nummer: 12773
     123 499 39 37
 
 
+
+
 **Tureholms Nya Golfklubb**
 
     123 562 71 53
+
+
 
 
 **Turfman**
@@ -50671,9 +69566,13 @@ Nummer: 12773
     123 237 13 34
 
 
+
+
 **Turinge Scoutkår**
 
     123 483 24 99
+
+
 
 
 **Turinge-Taxinge Hembygdsförening**
@@ -50681,9 +69580,13 @@ Nummer: 12773
     123 157 95 80
 
 
+
+
 **Turistbyrån Arvika**
 
     123 230 04 57
+
+
 
 
 **Tuve Scoutkår**
@@ -50691,9 +69594,13 @@ Nummer: 12773
     123 328 98 40
 
 
+
+
 **TV16**
 
     123 228 09 49
+
+
 
 
 **TV Inter Club**
@@ -50701,9 +69608,13 @@ Nummer: 12773
     123 900 62 06
 
 
+
+
 **Tvärskogs IF**
 
     123 369 86 10
+
+
 
 
 **Tvärskogs MK**
@@ -50711,9 +69622,13 @@ Nummer: 12773
     123 311 43 03
 
 
+
+
 **Tvärålunds IF**
 
     123 032 36 67
+
+
 
 
 **Tvååkers IF**
@@ -50731,9 +69646,13 @@ Nummer: 12773
     123 648 42 73
 
 
+
+
 **Tvååkers SKG**
 
     123 452 28 68
+
+
 
 
 **Tyft Arena Idrottsförening**
@@ -50741,9 +69660,13 @@ Nummer: 12773
     123 603 94 08
 
 
+
+
 **Tygelsjö Brukshundklubb**
 
     123 071 38 75
+
+
 
 
 **Tynderö Bygdegårdsförening**
@@ -50751,9 +69674,13 @@ Nummer: 12773
     123 395 68 44
 
 
+
+
 **Tynderö Hembygdsförening**
 
     123 349 40 28
+
+
 
 
 **Tynderö IK**
@@ -50761,9 +69688,13 @@ Nummer: 12773
     123 625 04 43
 
 
+
+
 **Tyngdlyftarklubben Trossö**
 
     123 666 41 97
+
+
 
 
 **Tyngsjö Bygdegårdsförening**
@@ -50771,9 +69702,13 @@ Nummer: 12773
     123 401 89 33
 
 
+
+
 **Tynningö Idrottsförening - Simidrott**
 
     123 018 67 26
+
+
 
 
 **Tynningö-Ramsö Byalag & Bygdegårdsförening**
@@ -50781,9 +69716,13 @@ Nummer: 12773
     123 109 46 48
 
 
+
+
 **Tyresö Bridgeklubb**
 
     123 338 82 04
+
+
 
 
 **Tyresö Bygdegård**
@@ -50791,14 +69730,20 @@ Nummer: 12773
     123 668 25 20
 
 
+
+
 **Tyresö DiscGolf**
 
     123 488 34 68
 
 
+
+
 **Tyresö Dyviksudde Tomtägareförening**
 
     123 528 18 86
+
+
 
 
 **Tyresö Församling**
@@ -50810,9 +69755,13 @@ Nummer: 12773
     123 543 02 85 - Trollbäckens kyrka
 
 
+
+
 **Tyresö Handboll**
 
     123 572 53 12
+
+
 
 
 **Tyresö Hembygdsförening**
@@ -50820,9 +69769,13 @@ Nummer: 12773
     123 372 89 79
 
 
+
+
 **Tyresö Kampsports Klubb**
 
     123 184 10 14
+
+
 
 
 **Tyresö kommun**
@@ -50830,9 +69783,13 @@ Nummer: 12773
     123 634 68 86 - Tyresö fritidsgårdars parkour
 
 
+
+
 **Tyresö kvinno- och tjejjour**
 
     123 268 30 92
+
+
 
 
 **Tyresö Närradioförening**
@@ -50840,9 +69797,13 @@ Nummer: 12773
     123 679 37 07
 
 
+
+
 **Tyresö Pingstkyrka**
 
     123 228 94 37 - Församlingskassan
+
+
 
 
 **Tyresö Royal Crowns**
@@ -50850,9 +69811,13 @@ Nummer: 12773
     123 419 89 90
 
 
+
+
 **Tyresö Trollbäcken IBK**
 
     123 092 31 36
+
+
 
 
 **Tyresö Utlands- och Fredsförening, TUFF**
@@ -50860,9 +69825,13 @@ Nummer: 12773
     123 345 00 87
 
 
+
+
 **Tyresögymnastiken**
 
     123 272 35 85
+
+
 
 
 **Tyringe IF**
@@ -50870,9 +69839,13 @@ Nummer: 12773
     123 477 83 53
 
 
+
+
 **Tyringe Konstförening**
 
     123 643 34 45
+
+
 
 
 **Tyringe SS**
@@ -50880,9 +69853,13 @@ Nummer: 12773
     123 617 20 68
 
 
+
+
 **Tyringe Tennisklubb**
 
     123 156 83 77
+
+
 
 
 **Tysk Jaktterrier Klubb**
@@ -50890,9 +69867,13 @@ Nummer: 12773
     123 636 95 65
 
 
+
+
 **Tyska Församlingen i Malmö**
 
     123 668 68 85
+
+
 
 
 **Tyska S:ta Gertruds Församling**
@@ -50900,9 +69881,13 @@ Nummer: 12773
     123 694 29 08
 
 
+
+
 **Tysslinge Skytteklubb**
 
     123 569 06 56
+
+
 
 
 **Tystberga GIF**
@@ -50910,14 +69895,20 @@ Nummer: 12773
     123 158 87 06
 
 
+
+
 **Tystberga Jaktskyteklubb**
 
     123 321 78 90
 
 
+
+
 **Täby Discgolfklubb**
 
     123 057 32 46
+
+
 
 
 **Täby Församling**
@@ -50943,9 +69934,13 @@ Nummer: 12773
     123 664 06 43 - Övrigt
 
 
+
+
 **Täby Hembygdsförening**
 
     123 183 97 94
+
+
 
 
 **Täby Ju-Jutsuklubb**
@@ -50953,9 +69948,13 @@ Nummer: 12773
     123 527 21 41
 
 
+
+
 **Täby Judoklubb**
 
     123 678 97 47
+
+
 
 
 **Täby Ryttarcenter / Ryttarcenter i TÄBY AB**
@@ -50963,9 +69962,13 @@ Nummer: 12773
     123 228 83 06
 
 
+
+
 **Täby Ryttarsällskap**
 
     123 263 06 63
+
+
 
 
 **Tällbergs Hembygdsförening**
@@ -50973,9 +69976,13 @@ Nummer: 12773
     123 063 18 20
 
 
+
+
 **Tämta Ridklubb**
 
     123 081 07 70
+
+
 
 
 **Tärna Bygdegårdsförening**
@@ -50983,9 +69990,13 @@ Nummer: 12773
     123 670 37 14
 
 
+
+
 **Tärna IK Fjällvinden**
 
     123 137 58 49
+
+
 
 
 **Tävelsås Bygdegårdsförening**
@@ -50993,9 +70004,13 @@ Nummer: 12773
     123 031 74 61
 
 
+
+
 **Tådene Bygdegårdsförening**
 
     123 263 70 31
+
+
 
 
 **Tågarps Allmänna IK**
@@ -51005,9 +70020,13 @@ Nummer: 12773
     123 319 83 89
 
 
+
+
 **Tågarps Trädgård**
 
     123 507 97 51
+
+
 
 
 **Tåkernfonden**
@@ -51015,9 +70034,13 @@ Nummer: 12773
     123 427 51 29
 
 
+
+
 **Tåsjö församling / Strömsunds Pastorat**
 
     123 212 62 74
+
+
 
 
 **Tåsjö IF**
@@ -51025,9 +70048,13 @@ Nummer: 12773
     123 085 15 84
 
 
+
+
 **Töllsjö IF**
 
     123 520 91 76
+
+
 
 
 **Töre Hembygdsförening**
@@ -51035,9 +70062,13 @@ Nummer: 12773
     123 220 89 40
 
 
+
+
 **Töreboda Brukshundklubb**
 
     123 043 88 95
+
+
 
 
 **Töreboda HK**
@@ -51045,9 +70076,13 @@ Nummer: 12773
     123 268 49 91
 
 
+
+
 **Töreboda Missionsförsamling**
 
     123 414 92 17
+
+
 
 
 **Töreboda Pistolskytteklubb**
@@ -51055,14 +70090,20 @@ Nummer: 12773
     123 186 51 20
 
 
+
+
 **Töreboda Scoutkår**
 
     123 050 33 00
 
 
+
+
 **Tösse IF**
 
     123 183 42 09
+
+
 
 
 
@@ -51074,9 +70115,13 @@ Nummer: 12773
     123 689 91 24
 
 
+
+
 **Uddeholms JSK**
 
     123 533 33 80
+
+
 
 
 **Uddevalla Bangolfklubb**
@@ -51084,9 +70129,13 @@ Nummer: 12773
     123 653 52 98
 
 
+
+
 **Uddevalla Bluesförening**
 
     123 072 48 31
+
+
 
 
 **Uddevalla Golfklubb**
@@ -51094,9 +70143,13 @@ Nummer: 12773
     123 614 13 37
 
 
+
+
 **Uddevalla Handbollklubb**
 
     123 602 37 25
+
+
 
 
 **Uddevalla IS - Skidor Skridsko Friidrott**
@@ -51104,9 +70157,13 @@ Nummer: 12773
     123 268 95 11
 
 
+
+
 **Uddevalla Konståkningsförening**
 
     123 514 99 50
+
+
 
 
 **Uddevalla MTB Alliansen**
@@ -51114,9 +70171,54 @@ Nummer: 12773
     123 588 06 46
 
 
+
+
+**Uddevalla Pastorat**
+
+    123 000 76 17 - Uddevalla fikaavgifter
+
+    123 023 22 72 - Dalaberg kollekter
+
+    123 043 86 55 - Dalaberg Ccy Tanzania
+
+    123 059 26 42 - Bäve fika
+
+    123 085 85 71 - Dalaberg gåvor diakoni
+
+    123 132 15 04 - Uddevalla ungdomsverksamhet
+
+    123 240 32 44 - Agape World Ministries
+
+    123 275 18 08 - Uddevalla kollekter
+
+    123 345 57 71 - Fair Trade Shop
+
+    123 346 60 42 - Lane-Ryr kollekter
+
+    123 377 01 95 - Bäve sopplunch
+
+    123 496 95 72 - Uddevalla musik/biljetter
+
+    123 511 20 65 - Bäve internationell mission
+
+    123 515 78 21 - Bäve kollekt
+
+    123 571 58 00 - Saronhuset
+
+    123 593 09 38 - Uddevalla barnverksamheten
+
+    123 609 60 02 - Bäve diakoni
+
+    123 641 50 04 - Dalaberg biljetter
+
+
+
+
 **Uddevalla Pistolskytteförening**
 
     123 073 01 84
+
+
 
 
 **Uddevalla Rugby**
@@ -51124,9 +70226,13 @@ Nummer: 12773
     123 000 42 83
 
 
+
+
 **Uddevalla Skidklubb**
 
     123 601 02 01
+
+
 
 
 **Uddevalla Skyttegille**
@@ -51134,9 +70240,13 @@ Nummer: 12773
     123 381 50 65
 
 
+
+
 **Ukna Hembygdsförening**
 
     123 395 69 27
+
+
 
 
 **UkrainaHjälpen Skåne**
@@ -51144,9 +70254,13 @@ Nummer: 12773
     123 127 74 17
 
 
+
+
 **Ukrainian Volunteer Hub Stockholm**
 
     123 685 67 44
+
+
 
 
 **Ukrainska Föreningen Östergötland**
@@ -51154,9 +70268,13 @@ Nummer: 12773
     123 279 73 06
 
 
+
+
 **Ukrainska Instituetet i Sverige**
 
     123 098 82 12
+
+
 
 
 **Ulla-Carin Lindquists Stiftelse för ALS-forskning**
@@ -51164,9 +70282,13 @@ Nummer: 12773
     123 900 04 98
 
 
+
+
 **Ullared Flädje Golfklubb**
 
     123 515 85 71 - Café
+
+
 
 
 **Ullareds Brukshundklubb**
@@ -51174,9 +70296,13 @@ Nummer: 12773
     123 114 93 92
 
 
+
+
 **Ullaredsresor - Gothenburg Office / Håkan Kindström Arnoldson**
 
     123 350 87 69
+
+
 
 
 **Ullersäters Bygdegårdsförening**
@@ -51184,9 +70310,13 @@ Nummer: 12773
     123 680 52 20
 
 
+
+
 **Ullervads Församling**
 
     123 571 55 37
+
+
 
 
 **Ullforsgruppen**
@@ -51194,9 +70324,13 @@ Nummer: 12773
     123 496 09 28
 
 
+
+
 **Ullstorps Stugor AB**
 
     123 294 06 17
+
+
 
 
 **Ullångers Församling**
@@ -51204,14 +70338,20 @@ Nummer: 12773
     123 346 28 84
 
 
+
+
 **Ulricehamns Brukshundklubb**
 
     123 055 46 34
 
 
+
+
 **Ulricehamns Församling**
 
     123 404 72 05
+
+
 
 
 **Ulricehamns IF**
@@ -51223,9 +70363,13 @@ Nummer: 12773
     123 490 24 33 - Discgolf
 
 
+
+
 **Ulricehamns IF - Boule**
 
     123 469 99 14
+
+
 
 
 **Ulricehamns IFK**
@@ -51233,9 +70377,13 @@ Nummer: 12773
     123 074 65 37
 
 
+
+
 **Ulricehamns IHS**
 
     123 215 55 05
+
+
 
 
 **Ulricehamns Kallbadshus**
@@ -51243,9 +70391,13 @@ Nummer: 12773
     123 222 24 38
 
 
+
+
 **Ulricehamns Konståkningsklubb**
 
     123 311 79 59
+
+
 
 
 **Ulricehamns MK**
@@ -51253,9 +70405,13 @@ Nummer: 12773
     123 593 62 40
 
 
+
+
 **Ulricehamns Pastorat**
 
     123 568 52 68
+
+
 
 
 **Ulricehamns Pistolklubb**
@@ -51263,9 +70419,13 @@ Nummer: 12773
     123 115 82 60
 
 
+
+
 **Ulrika Rosander - Soul & Body Treatments**
 
     123 302 42 13
+
+
 
 
 **Ulriksbergskyrkan**
@@ -51273,9 +70433,13 @@ Nummer: 12773
     123 180 01 19
 
 
+
+
 **Ulriksdals Golfklubb**
 
     123 177 75 72
+
+
 
 
 **Ultimate Gym Trollhättan**
@@ -51283,9 +70447,13 @@ Nummer: 12773
     123 290 90 83
 
 
+
+
 **Ulvsby IF**
 
     123 664 25 73
+
+
 
 
 **Ulvåkers IF**
@@ -51293,9 +70461,13 @@ Nummer: 12773
     123 449 26 17
 
 
+
+
 **Umeå Biljardklubb**
 
     123 569 88 65
+
+
 
 
 **Umeå Brukshundklubb**
@@ -51305,9 +70477,13 @@ Nummer: 12773
     123 390 87 79
 
 
+
+
 **Umeå Brukshundklubb, UBHK**
 
     123 626 68 60
+
+
 
 
 **Umeå bågskytteklubb**
@@ -51315,9 +70491,13 @@ Nummer: 12773
     123 692 69 19
 
 
+
+
 **Umeå City IBF**
 
     123 304 85 68
+
+
 
 
 **Umeå Discgolf Club, UDGC**
@@ -51325,9 +70505,13 @@ Nummer: 12773
     123 388 55 06
 
 
+
+
 **Umeå Draghundsklubb, DHK**
 
     123 420 39 15
+
+
 
 
 **Umeå FC**
@@ -51337,9 +70521,13 @@ Nummer: 12773
     123 545 83 28
 
 
+
+
 **Umeå Golfklubb**
 
     123 304 52 26
+
+
 
 
 **Umeå Hockeyklubb**
@@ -51347,9 +70535,13 @@ Nummer: 12773
     123 340 27 99
 
 
+
+
 **Umeå IK**
 
     123 676 97 23
+
+
 
 
 **Umeå Jaktskytteklubb**
@@ -51357,9 +70549,13 @@ Nummer: 12773
     123 617 73 72
 
 
+
+
 **Umeå Kallbad / Massvis Förening**
 
     123 463 40 77
+
+
 
 
 **Umeå Kommuns Personalförening**
@@ -51367,9 +70563,13 @@ Nummer: 12773
     123 041 67 19
 
 
+
+
 **Umeå Muay Thai**
 
     123 495 14 06
+
+
 
 
 **Umeå Nämndemannaförening**
@@ -51377,9 +70577,13 @@ Nummer: 12773
     123 332 00 33
 
 
+
+
 **Umeå Ryttarförening**
 
     123 232 72 86
+
+
 
 
 **Umeå Salsa Club**
@@ -51387,9 +70591,13 @@ Nummer: 12773
     123 658 32 98
 
 
+
+
 **Umeå Scoutkår**
 
     123 592 01 11
+
+
 
 
 **Umeå Segelsällskap, USS**
@@ -51399,14 +70607,20 @@ Nummer: 12773
     123 653 58 27
 
 
+
+
 **Umeå Sjundedags Adventistförsamling**
 
     123 105 86 68
 
 
+
+
 **Umeå Stadsmission**
 
     123 900 66 28
+
+
 
 
 **Umeå Universitet**
@@ -51432,9 +70646,13 @@ Nummer: 12773
     123 618 23 72 - Demokratiforskning
 
 
+
+
 **Umeå Västra IF**
 
     123 080 35 36
+
+
 
 
 **Umeå Yogaskola / Susanne Edenor**
@@ -51442,9 +70660,13 @@ Nummer: 12773
     123 381 18 17
 
 
+
+
 **Un Po D'italia / Fardis i Umeå AB**
 
     123 126 71 94
+
+
 
 
 **UN Women nationell kommité Sverige**
@@ -51452,9 +70674,13 @@ Nummer: 12773
     123 900 29 32
 
 
+
+
 **Undenäsbygdens Byalag**
 
     123 589 12 62
+
+
 
 
 **Underbara ADHD / Psykisk Samhälsa i Norden AB**
@@ -51462,9 +70688,13 @@ Nummer: 12773
     123 079 33 98
 
 
+
+
 **Undersviks Hembygdsförening**
 
     123 464 14 29
+
+
 
 
 **Undersåkers Hembygdsförening**
@@ -51472,9 +70702,13 @@ Nummer: 12773
     123 418 12 77
 
 
+
+
 **Undersåkers Snickeri**
 
     123 329 49 72
+
+
 
 
 **Ung Cancer**
@@ -51482,9 +70716,13 @@ Nummer: 12773
     123 900 57 45
 
 
+
+
 **Ung Företagsamhet i Kronbergs Län**
 
     123 304 55 49
+
+
 
 
 **Ung Företagsamhet i Älvsborg**
@@ -51492,9 +70730,13 @@ Nummer: 12773
     123 051 33 17
 
 
+
+
 **Unga mot Antisemitism & Främlingsfientlighet, UMAF**
 
     123 057 59 69
+
+
 
 
 **Unga Örnars Riksförbund**
@@ -51502,9 +70744,13 @@ Nummer: 12773
     123 571 54 95
 
 
+
+
 **Ungdomens Hus / Ystads Kommun**
 
     123 286 23 08
+
+
 
 
 **Ungdomsförbundet Sveriges Flotta - Gripen**
@@ -51512,9 +70758,13 @@ Nummer: 12773
     123 598 29 88
 
 
+
+
 **Ungdomsjouren Animo**
 
     123 410 40 14
+
+
 
 
 **Ungdomsjouren Bellis**
@@ -51522,14 +70772,20 @@ Nummer: 12773
     123 567 26 62
 
 
+
+
 **Ungdomsjouren Fria**
 
     123 540 22 92
 
 
+
+
 **Ungdomsjouren Tigerlilja**
 
     123 197 38 17
+
+
 
 
 **UNICEF Sverige**
@@ -51543,6 +70799,8 @@ Nummer: 12773
     123 902 50 16
 
 
+
+
 **UNIK BK**
 
     123 075 39 62
@@ -51550,9 +70808,13 @@ Nummer: 12773
     123 306 17 51
 
 
+
+
 **Unionen Seniorer Jönköping**
 
     123 596 03 72
+
+
 
 
 **Unite 2 Learn**
@@ -51560,9 +70822,13 @@ Nummer: 12773
     123 900 58 02
 
 
+
+
 **United Hearts**
 
     123 084 51 31
+
+
 
 
 **Unity Line Ltd. Filial Sverige**
@@ -51570,9 +70836,13 @@ Nummer: 12773
     123 634 71 24
 
 
+
+
 **Unnaryd-Jälluntofta-Hembygdsförening**
 
     123 458 96 10
+
+
 
 
 **Unnaryds Församling**
@@ -51580,9 +70850,13 @@ Nummer: 12773
     123 545 72 62 - Kollekt Unnaryds församling
 
 
+
+
 **Uppgränna Byalag & Byagård**
 
     123 097 03 43
+
+
 
 
 **Upplands-Bro Broncos**
@@ -51590,9 +70864,13 @@ Nummer: 12773
     123 499 32 34
 
 
+
+
 **Upplands-Bro Budo & Kampsport**
 
     123 225 11 06
+
+
 
 
 **Upplands-Bro Ryttarförening**
@@ -51604,9 +70882,13 @@ Nummer: 12773
     123 525 03 29 - Ungdomssektionen
 
 
+
+
 **Upplands-Bro United**
 
     123 370 56 62
+
+
 
 
 **Upplands-Ekeby IF**
@@ -51614,9 +70896,13 @@ Nummer: 12773
     123 031 00 86
 
 
+
+
 **Upplands fornminnesförening och hembygdsförbund**
 
     123 366 88 60
+
+
 
 
 **Upplands Grythundklubb, UGK**
@@ -51624,9 +70910,13 @@ Nummer: 12773
     123 114 86 26
 
 
+
+
 **Upplands Innebandyförbund**
 
     123 127 52 62
+
+
 
 
 **Upplands Kyokushinkai Karate**
@@ -51634,9 +70924,13 @@ Nummer: 12773
     123 410 64 49
 
 
+
+
 **Upplands Nation**
 
     123 147 50 37
+
+
 
 
 **Upplands Ornitologiska Förening**
@@ -51644,9 +70938,13 @@ Nummer: 12773
     123 305 78 58
 
 
+
+
 **Upplands Taxklubb**
 
     123 056 30 98
+
+
 
 
 **Upplands Väsby JK**
@@ -51654,9 +70952,13 @@ Nummer: 12773
     123 508 77 13
 
 
+
+
 **Upplands Väsby Pistolskytteklubb**
 
     123 256 13 71
+
+
 
 
 **UpplevVadstena AB**
@@ -51664,9 +70966,13 @@ Nummer: 12773
     123 675 02 51
 
 
+
+
 **Uppsala AFC 86ers**
 
     123 449 17 42
+
+
 
 
 **Uppsala BC 90**
@@ -51680,9 +70986,13 @@ Nummer: 12773
     123 697 19 23 - Medlemsavgift
 
 
+
+
 **Uppsala Biodlareförening**
 
     123 566 46 28
+
+
 
 
 **Uppsala BoIS**
@@ -51690,9 +71000,13 @@ Nummer: 12773
     123 225 78 48 - Damer
 
 
+
+
 **Uppsala Budoklubb**
 
     123 204 58 62
+
+
 
 
 **Uppsala Domkyrkoförsamling**
@@ -51702,9 +71016,13 @@ Nummer: 12773
     123 231 60 24 - Act
 
 
+
+
 **Uppsala Fotografiska Sällskap**
 
     123 560 78 90
+
+
 
 
 **Uppsala Handeldvapenförening**
@@ -51712,9 +71030,13 @@ Nummer: 12773
     123 651 21 80
 
 
+
+
 **Uppsala Hundungdom**
 
     123 085 42 16
+
+
 
 
 **Uppsala JSK - Skyttesport**
@@ -51722,9 +71044,13 @@ Nummer: 12773
     123 212 62 66
 
 
+
+
 **Uppsala ju-jutsuklubb**
 
     123 182 69 16
+
+
 
 
 **Uppsala Katthem / Föreningen Samvetet**
@@ -51732,9 +71058,13 @@ Nummer: 12773
     123 272 16 94
 
 
+
+
 **Uppsala Kvinnojour**
 
     123 690 21 18
+
+
 
 
 **Uppsala Lägenhetshotell AB**
@@ -51742,9 +71072,13 @@ Nummer: 12773
     123 089 36 77
 
 
+
+
 **Uppsala Löparklubb**
 
     123 401 68 53
+
+
 
 
 **Uppsala Makerspace**
@@ -51752,14 +71086,20 @@ Nummer: 12773
     123 056 57 47
 
 
+
+
 **Uppsala Okinawa Karateklubb**
 
     123 436 11 84
 
 
+
+
 **Uppsala Parkour**
 
     123 166 77 99
+
+
 
 
 **Uppsala PonnyKlubb, UPK**
@@ -51769,9 +71109,13 @@ Nummer: 12773
     123 634 68 60 - Strölektioner, trailerhyra, barnridning, ridbanehyra
 
 
+
+
 **Uppsala Rugby FC**
 
     123 175 77 07
+
+
 
 
 **Uppsala Shotokan Karateklubb**
@@ -51779,9 +71123,13 @@ Nummer: 12773
     123 511 85 83
 
 
+
+
 **Uppsala Spelmanslag**
 
     123 560 45 33
+
+
 
 
 **Uppsala Squash Club**
@@ -51789,9 +71137,13 @@ Nummer: 12773
     123 108 25 36
 
 
+
+
 **Uppsala Stadsmission**
 
     123 900 28 25
+
+
 
 
 **Uppsala Stift**
@@ -51799,9 +71151,13 @@ Nummer: 12773
     123 271 47 15
 
 
+
+
 **Uppsala tjej- och transjour**
 
     123 155 29 67
+
+
 
 
 **Uppsala TrädgårdsSällskap**
@@ -51809,9 +71165,13 @@ Nummer: 12773
     123 447 07 53
 
 
+
+
 **Uppsala Universitet**
 
     123 080 43 36 - Babylab
+
+
 
 
 **Uppsala Universitets Internationella Stipendiefond / Uppsala Universitet**
@@ -51819,14 +71179,20 @@ Nummer: 12773
     123 667 58 54
 
 
+
+
 **Uppsalamagasinet Luthagsnytt, UMLN / Strandh-Klefbeck Media KB**
 
     123 568 01 60
 
 
+
+
 **Uppsalas Akademiska Vinsällskap**
 
     123 303 72 72
+
+
 
 
 **Uppvidinge Pastorat**
@@ -51842,9 +71208,13 @@ Nummer: 12773
     123 640 99 73 - Kollekt Nottebäck
 
 
+
+
 **Upsala IF Friidrott**
 
     123 506 40 43
+
+
 
 
 **Upsala Studenters Idrottsförening, USIF**
@@ -51852,9 +71222,13 @@ Nummer: 12773
     123 238 37 43
 
 
+
+
 **Urbergsgruppen**
 
     123 399 60 14 - #räddaklinte!
+
+
 
 
 **Urbergsgruppen Klintehamn**
@@ -51862,9 +71236,13 @@ Nummer: 12773
     123 479 00 10
 
 
+
+
 **Uroterapeutisk Förening, UTF**
 
     123 165 95 31
+
+
 
 
 **Urshults Församling**
@@ -51874,9 +71252,13 @@ Nummer: 12773
     123 382 76 15 - Bokbord
 
 
+
+
 **Uråsa Hembygdsförening**
 
     123 578 09 11
+
+
 
 
 **UtbildningsStiftelsen**
@@ -51884,9 +71266,13 @@ Nummer: 12773
     123 900 82 69
 
 
+
+
 **Utby NSF Scoutkår**
 
     123 350 57 99
+
+
 
 
 **Utomskogens Bygdegårdsförening**
@@ -51894,9 +71280,13 @@ Nummer: 12773
     123 080 41 38
 
 
+
+
 **Utsiktens BK**
 
     123 527 88 41
+
+
 
 
 **Utterlidens byastugeförening**
@@ -51904,9 +71294,13 @@ Nummer: 12773
     123 611 51 25
 
 
+
+
 **Utvecklingspartiet Demokraterna**
 
     123 010 05 11
+
+
 
 
 **Utvecklingsrådet i Dals Långed**
@@ -51914,9 +71308,13 @@ Nummer: 12773
     123 641 60 44
 
 
+
+
 **Utvängstorp Hembygdsförening**
 
     123 645 98 61
+
+
 
 
 **Utö Hembygdsförening**
@@ -51924,14 +71322,20 @@ Nummer: 12773
     123 160 58 80
 
 
+
+
 **Uvell Kommunikation AB**
 
     123 444 58 47
 
 
+
+
 **UWC Sverige**
 
     123 373 54 53
+
+
 
 
 
@@ -51943,9 +71347,13 @@ Nummer: 12773
     123 383 94 04
 
 
+
+
 **Vadsbro-Blacksta Scoutkår**
 
     123 630 39 37
+
+
 
 
 **Vadstena GIF**
@@ -51953,9 +71361,13 @@ Nummer: 12773
     123 515 67 65
 
 
+
+
 **Vaggeryd-Skillingaryds Ridklubb**
 
     123 024 43 43
+
+
 
 
 **Vaggeryds BTK**
@@ -51963,9 +71375,13 @@ Nummer: 12773
     123 239 94 67
 
 
+
+
 **Vaggeryds Konstförening**
 
     123 644 56 13
+
+
 
 
 **Vaggeryds SOK**
@@ -51973,9 +71389,13 @@ Nummer: 12773
     123 440 38 61
 
 
+
+
 **Vaggeryds Tennisklubb**
 
     123 470 10 58
+
+
 
 
 **Vaikijaur Bygdegårdsförening**
@@ -51983,9 +71403,13 @@ Nummer: 12773
     123 668 27 02
 
 
+
+
 **Vaken.se / Exoteriska Fonden**
 
     123 668 29 00
+
+
 
 
 **Vaksala Församling**
@@ -51995,9 +71419,13 @@ Nummer: 12773
     123 670 14 60
 
 
+
+
 **Vaksala Trafikskola AB**
 
     123 035 46 54
+
+
 
 
 **Valbo AIF**
@@ -52005,6 +71433,8 @@ Nummer: 12773
     123 093 87 46 - P-09
 
     123 178 06 91
+
+
 
 
 **Valbo FF**
@@ -52018,9 +71448,13 @@ Nummer: 12773
     123 562 24 10 - Lasse Wahlbergs minnesfond
 
 
+
+
 **Valbo Hembygdsförening**
 
     123 477 89 99
+
+
 
 
 **Valdemarsviks Brukshundsklubb**
@@ -52028,9 +71462,13 @@ Nummer: 12773
     123 275 93 22
 
 
+
+
 **Valdemarsviks Hembygdsförening**
 
     123 676 98 06
+
+
 
 
 **Valinge IF**
@@ -52038,9 +71476,13 @@ Nummer: 12773
     123 552 87 24
 
 
+
+
 **Valla Idrottsförening**
 
     123 232 87 55
+
+
 
 
 **Valla Missionsförsamling**
@@ -52048,9 +71490,13 @@ Nummer: 12773
     123 064 34 29
 
 
+
+
 **Valla Scoutkår**
 
     123 100 05 12
+
+
 
 
 **Vallberga Byalag**
@@ -52058,9 +71504,13 @@ Nummer: 12773
     123 218 78 96
 
 
+
+
 **Vallda kyrka**
 
     123 228 82 07 - Kollekt
+
+
 
 
 **Valle Camping AB**
@@ -52068,9 +71518,13 @@ Nummer: 12773
     123 542 61 01
 
 
+
+
 **Vallens bmxhall / Kerstin Hallenheim**
 
     123 260 87 27
+
+
 
 
 **Vallens IF**
@@ -52088,14 +71542,20 @@ Nummer: 12773
     123 664 38 94 - Damer A-trupp
 
 
+
+
 **Vallentuna Brukshundklubb**
 
     123 420 26 77
 
 
+
+
 **Vallentuna CK**
 
     123 615 79 52
+
+
 
 
 **Vallentuna Församling**
@@ -52105,14 +71565,20 @@ Nummer: 12773
     123 588 55 38
 
 
+
+
 **Vallentuna Golfklubb**
 
     123 029 67 49
 
 
+
+
 **Vallentuna Hockey**
 
     123 521 74 19
+
+
 
 
 **Vallentuna IBK**
@@ -52122,9 +71588,13 @@ Nummer: 12773
     123 474 66 08 - Café
 
 
+
+
 **Vallentuna Judoklubb - Judo**
 
     123 623 27 63
+
+
 
 
 **Vallentuna Kattcenter AB**
@@ -52132,9 +71602,13 @@ Nummer: 12773
     123 030 48 16
 
 
+
+
 **Vallentuna Konståkningsklubb**
 
     123 290 99 76
+
+
 
 
 **Vallentuna Taekwondo**
@@ -52142,9 +71616,13 @@ Nummer: 12773
     123 634 18 46
 
 
+
+
 **Vallentuna TK**
 
     123 204 30 32
+
+
 
 
 **Vallentuna VBK**
@@ -52152,9 +71630,13 @@ Nummer: 12773
     123 216 04 30
 
 
+
+
 **Vallerstad Hembygdsförening**
 
     123 548 58 18
+
+
 
 
 **Vallersviks Ekumeniska Församling**
@@ -52162,9 +71644,13 @@ Nummer: 12773
     123 693 17 37
 
 
+
+
 **Vallgårdens Golfklubb Åkarp**
 
     123 357 79 70
+
+
 
 
 **Vallhovskyrkan Sandviken**
@@ -52172,9 +71658,13 @@ Nummer: 12773
     123 237 72 81
 
 
+
+
 **Vallåsen Fritidsanläggning AB**
 
     123 376 22 42
+
+
 
 
 **Valsängs RF**
@@ -52182,9 +71672,13 @@ Nummer: 12773
     123 526 46 50
 
 
+
+
 **Valsätrakyrkan**
 
     123 580 85 63
+
+
 
 
 **Valvträsk byaförening**
@@ -52192,9 +71686,13 @@ Nummer: 12773
     123 489 72 60
 
 
+
+
 **Vamlingbo Kammarmusikfestivals Stödförening**
 
     123 025 72 46
+
+
 
 
 **Vandrarhemmet LP Risö**
@@ -52202,9 +71700,13 @@ Nummer: 12773
     123 609 82 06
 
 
+
+
 **Vanille & Co**
 
     123 207 97 47
+
+
 
 
 **Vankiva IF**
@@ -52212,9 +71714,13 @@ Nummer: 12773
     123 199 66 77
 
 
+
+
 **Vanlife Sverige / Isabel Waite**
 
     123 053 95 02
+
+
 
 
 **Vansbro AIK FK**
@@ -52222,9 +71728,13 @@ Nummer: 12773
     123 633 29 93
 
 
+
+
 **Vansbro Jakt & Sportskytteklubb**
 
     123 226 80 35
+
+
 
 
 **Vansbro Ryttarsällskap**
@@ -52236,9 +71746,13 @@ Nummer: 12773
     123 553 20 72 - Cafeteria
 
 
+
+
 **Vanstads Byalag**
 
     123 346 91 52
+
+
 
 
 **Vantörs Församling**
@@ -52248,9 +71762,13 @@ Nummer: 12773
     123 606 47 29 - Diakoni
 
 
+
+
 **Vapenprodukter Sverige AB**
 
     123 006 77 10
+
+
 
 
 **Vapnö IF**
@@ -52258,9 +71776,13 @@ Nummer: 12773
     123 006 96 58
 
 
+
+
 **Vara Hästsportklubb**
 
     123 614 73 91
+
+
 
 
 **Vara IBK**
@@ -52268,9 +71790,13 @@ Nummer: 12773
     123 592 24 48
 
 
+
+
 **Vara SK**
 
     123 551 14 80
+
+
 
 
 **Varbergs BOIS BK**
@@ -52278,9 +71804,13 @@ Nummer: 12773
     123 570 24 77
 
 
+
+
 **Varbergs Bouleklubb - Kulknappen**
 
     123 394 07 72
+
+
 
 
 **Varbergs Fotoklubb**
@@ -52288,9 +71818,13 @@ Nummer: 12773
     123 355 92 59
 
 
+
+
 **Varbergs Förenade Surfare**
 
     123 149 38 08
+
+
 
 
 **Varbergs Hembygdskrets**
@@ -52298,9 +71832,13 @@ Nummer: 12773
     123 554 26 42
 
 
+
+
 **Varbergs Konståkningsklubb**
 
     123 146 49 81
+
+
 
 
 **Varbergs Kvinnojour**
@@ -52308,9 +71846,13 @@ Nummer: 12773
     123 570 87 14
 
 
+
+
 **Varbergs kyrka**
 
     123 304 70 32
+
+
 
 
 **Varbergs Massage och Behandling / Nils Tennberg**
@@ -52318,9 +71860,13 @@ Nummer: 12773
     123 540 74 40
 
 
+
+
 **Varbergs Thaiboxningsklubb**
 
     123 521 74 43
+
+
 
 
 **Varbergs Tidning**
@@ -52328,9 +71874,13 @@ Nummer: 12773
     123 697 24 34
 
 
+
+
 **Vardagsrummet i Örnsköldsvik**
 
     123 690 50 04
+
+
 
 
 **Varelse AB**
@@ -52338,9 +71888,13 @@ Nummer: 12773
     123 356 43 41
 
 
+
+
 **Vargöns Musikkår och Vargöns drill- & flaggflickor**
 
     123 276 98 34
+
+
 
 
 **Varken hora eller kuvad, VHEK**
@@ -52348,9 +71902,13 @@ Nummer: 12773
     123 399 05 53
 
 
+
+
 **Varla IBK**
 
     123 311 12 75
+
+
 
 
 **Varnhems IF**
@@ -52358,9 +71916,13 @@ Nummer: 12773
     123 520 27 42
 
 
+
+
 **Varnums Hembygdsförening**
 
     123 240 98 78
+
+
 
 
 **Varpen Samfällighetsförening**
@@ -52368,9 +71930,13 @@ Nummer: 12773
     123 624 58 15
 
 
+
+
 **Varpsjö Bygdegårdsförening**
 
     123 268 45 04
+
+
 
 
 **Vartofta Rid och Körsällskap**
@@ -52380,9 +71946,13 @@ Nummer: 12773
     123 615 18 49
 
 
+
+
 **Vartorps Kvarnförening**
 
     123 220 71 57
+
+
 
 
 **Varuhandel i Mönsterås AB**
@@ -52390,9 +71960,13 @@ Nummer: 12773
     123 537 34 85
 
 
+
+
 **Varuhuset Rönneshytta AB**
 
     123 531 16 26
+
+
 
 
 **Vasakyrkan / EFS Missionsförening**
@@ -52400,9 +71974,13 @@ Nummer: 12773
     123 551 12 90 - Mobila elverk
 
 
+
+
 **Vasaskolans Skol IF**
 
     123 697 40 34
+
+
 
 
 **Vasatorps Golfklubb**
@@ -52412,9 +71990,13 @@ Nummer: 12773
     123 542 26 54 - Reception/Shop/Greenfee
 
 
+
+
 **Vassunda IF**
 
     123 029 13 02
+
+
 
 
 **Vattan-Lövåker-Stocksbo Bygdegårdsförening**
@@ -52422,9 +72004,13 @@ Nummer: 12773
     123 676 30 31
 
 
+
+
 **Vattenfalls Veteraner i Stockholm**
 
     123 171 28 68
+
+
 
 
 **Vattenpoolarna Höganäs - Ängelholm**
@@ -52432,9 +72018,13 @@ Nummer: 12773
     123 494 45 59
 
 
+
+
 **Vattjoms IK**
 
     123 431 55 29 - P08
+
+
 
 
 **Vaxholms Församling**
@@ -52450,14 +72040,20 @@ Nummer: 12773
     123 607 13 44 - Ljus
 
 
+
+
 **Vaxholms IBF**
 
     123 056 67 45
 
 
+
+
 **Vaxholms Konstförening**
 
     123 505 38 22
+
+
 
 
 **Vaxmora Samfällighetsförening**
@@ -52467,9 +72063,13 @@ Nummer: 12773
     123 631 64 00
 
 
+
+
 **VBK Tierp**
 
     123 511 17 37
+
+
 
 
 **Veberöds BMF**
@@ -52477,9 +72077,13 @@ Nummer: 12773
     123 449 47 38
 
 
+
+
 **Veberöds Brukshundklubb**
 
     123 617 82 71
+
+
 
 
 **Veberöds Scoutkår**
@@ -52487,9 +72091,13 @@ Nummer: 12773
     123 174 54 70
 
 
+
+
 **Veberöds Trafikskola**
 
     123 510 11 59
+
+
 
 
 **Veckans Valfläsk / Aktiebolaget Zenskräck**
@@ -52497,9 +72105,13 @@ Nummer: 12773
     123 039 61 50
 
 
+
+
 **Vectrum Trafikutbildning AB**
 
     123 254 58 12
+
+
 
 
 **Vectrum Trafikutbildning / Sindex Trafikutbildning AB**
@@ -52507,9 +72119,13 @@ Nummer: 12773
     123 670 15 85
 
 
+
+
 **Vedaklubben Skoter & Fiske**
 
     123 265 92 82
+
+
 
 
 **Vedbände Ridläger & Ridskola**
@@ -52517,9 +72133,13 @@ Nummer: 12773
     123 658 19 38
 
 
+
+
 **Veddige Buss & Transport AB**
 
     123 278 88 75
+
+
 
 
 **Veddige-Ås-Sällstorps Hembygdsförening**
@@ -52527,9 +72147,13 @@ Nummer: 12773
     123 007 43 93
 
 
+
+
 **Vederslöv-Dänningelanda IF**
 
     123 577 33 61
+
+
 
 
 **Vedums Allmänna Idrottssällskap**
@@ -52537,9 +72161,13 @@ Nummer: 12773
     123 208 84 58
 
 
+
+
 **Vedums Scoutkårs Föräldraförening**
 
     123 320 02 01
+
+
 
 
 **Vegby SK**
@@ -52547,9 +72175,13 @@ Nummer: 12773
     123 682 62 67
 
 
+
+
 **Vegeå Båtklubb**
 
     123 638 80 94
+
+
 
 
 **Vellinge FF**
@@ -52557,9 +72189,13 @@ Nummer: 12773
     123 544 16 05
 
 
+
+
 **Vellinge Hästsportförening, VHF**
 
     123 084 62 46
+
+
 
 
 **Vellinge Södra Tanzania**
@@ -52567,9 +72203,13 @@ Nummer: 12773
     123 110 34 72
 
 
+
+
 **Vem tar hand om Doktorn? / AB Själ och kropp AB**
 
     123 156 60 09
+
+
 
 
 **Vemdalens Alpina**
@@ -52577,9 +72217,13 @@ Nummer: 12773
     123 620 86 31
 
 
+
+
 **Vemdalens IF**
 
     123 097 06 32 - Cykelsektionen
+
+
 
 
 **Vendels Bygdegårdsförening**
@@ -52587,9 +72231,13 @@ Nummer: 12773
     123 626 50 86
 
 
+
+
 **Vendels Hembygdsförening**
 
     123 514 55 37
+
+
 
 
 **Vendelsö Scoutkår**
@@ -52597,9 +72245,13 @@ Nummer: 12773
     123 215 55 47
 
 
+
+
 **Venjans AIK**
 
     123 338 06 07
+
+
 
 
 **Venjansslöjd**
@@ -52607,9 +72259,13 @@ Nummer: 12773
     123 498 42 41
 
 
+
+
 **Ventin.se / GOIN AB**
 
     123 470 18 19
+
+
 
 
 **Ventlinge Hembygdsförening**
@@ -52617,9 +72273,13 @@ Nummer: 12773
     123 295 14 16
 
 
+
+
 **Verkavikens Samfällighetsförening**
 
     123 094 52 12
+
+
 
 
 **Verkö byalag**
@@ -52627,9 +72287,13 @@ Nummer: 12773
     123 085 75 40
 
 
+
+
 **Vessige-Alfshögs Hembygdsförening**
 
     123 645 79 72
+
+
 
 
 **Vessigebro Samhällsförening**
@@ -52637,9 +72301,13 @@ Nummer: 12773
     123 671 73 42
 
 
+
+
 **Vetenskap och Folkbildning, VoF**
 
     123 420 53 65
+
+
 
 
 **Veteranernas Bowlingklubb**
@@ -52647,9 +72315,13 @@ Nummer: 12773
     123 488 97 54
 
 
+
+
 **Veteranstöd Rapid Reaction**
 
     123 470 48 62
+
+
 
 
 **Veterantraktorklubben Norrtelje**
@@ -52657,9 +72329,13 @@ Nummer: 12773
     123 266 83 09
 
 
+
+
 **Veterinärer Utan Gränser - Sverige**
 
     123 480 39 87
+
+
 
 
 **Vetlanda Bandyklubb**
@@ -52667,9 +72343,13 @@ Nummer: 12773
     123 593 33 20
 
 
+
+
 **Vetlanda BK**
 
     123 099 44 00 - P19 (06/07)
+
+
 
 
 **Vetlanda BTK - Bordtennis**
@@ -52677,14 +72357,20 @@ Nummer: 12773
     123 009 82 93
 
 
+
+
 **Vetlanda Bågskytteklubb**
 
     123 350 46 69
 
 
+
+
 **Vetlanda FF**
 
     123 594 73 38
+
+
 
 
 **Vetlanda Friförsamling**
@@ -52696,9 +72382,13 @@ Nummer: 12773
     123 677 23 96 - Fastighetskassan
 
 
+
+
 **Vetlanda Golfklubb**
 
     123 579 24 03
+
+
 
 
 **Vetlanda JuJutsuklubb**
@@ -52706,9 +72396,13 @@ Nummer: 12773
     123 032 84 27
 
 
+
+
 **Vetlanda Konstförening**
 
     123 033 68 75
+
+
 
 
 **Vetlanda Missionskyrka**
@@ -52716,9 +72410,38 @@ Nummer: 12773
     123 276 80 75
 
 
+
+
 **Vetlanda Missionskyrka**
 
     123 483 75 14
+
+
+
+
+**Vetlanda Pastorat**
+
+    123 142 17 42 - Kollekt Bäckseda församling
+
+    123 156 12 08 - Kollekt Lannaskede församling
+
+    123 156 12 16 - Kollekt Ekenässjön församling
+
+    123 166 85 81 - Kollekt Näsby församling
+
+    123 441 26 56 - Kollekt Nävelsjö församling
+
+    123 448 25 84 - Kollekt Alseda församling
+
+    123 448 25 92 - Kollekt Vetlanda församling
+
+    123 449 54 04 - Kollekt Björkö församling
+
+    123 473 96 11 - Kollekt Korsberga församling
+
+    123 677 62 49 - Kollekt Nye-Näshult-Stenberga församling
+
+
 
 
 **Vi i Maglehem, VIM**
@@ -52726,9 +72449,13 @@ Nummer: 12773
     123 514 17 18
 
 
+
+
 **VI mot barncancer / Föreningen VI**
 
     123 611 71 05
+
+
 
 
 **Vi på Limhamn ideell förening**
@@ -52736,9 +72463,13 @@ Nummer: 12773
     123 686 15 46
 
 
+
+
 **Vi som gillar Fredags-Gruppen**
 
     123 255 52 33
+
+
 
 
 **Vi Som Kämpar För Våra Barn**
@@ -52746,9 +72477,13 @@ Nummer: 12773
     123 210 98 09
 
 
+
+
 **Viby Församlning**
 
     123 237 37 93
+
+
 
 
 **Viby IF**
@@ -52756,9 +72491,13 @@ Nummer: 12773
     123 187 08 98
 
 
+
+
 **Vibyggerå Byalag**
 
     123 374 31 19
+
+
 
 
 **Vickleby Hembygdsförening**
@@ -52766,9 +72505,13 @@ Nummer: 12773
     123 113 12 59
 
 
+
+
 **Victoria Säker**
 
     123 231 43 75
+
+
 
 
 **Victoriateatern / Kulturföreningen Kontrast**
@@ -52776,9 +72519,13 @@ Nummer: 12773
     123 374 91 73
 
 
+
+
 **Victory Center Helsingborg**
 
     123 147 39 25
+
+
 
 
 **Vid Din Sida**
@@ -52788,9 +72535,13 @@ Nummer: 12773
     123 435 24 80 - Stockholm
 
 
+
+
 **VidaScouter - Equmenia Vidablickskyrkan**
 
     123 628 86 33
+
+
 
 
 **Videdals GIF**
@@ -52798,9 +72549,13 @@ Nummer: 12773
     123 561 55 88
 
 
+
+
 **Vidinge Gård / Per Philip**
 
     123 132 52 24
+
+
 
 
 **Vidsels Aktivitetshus Ekonomisk Förening**
@@ -52808,9 +72563,13 @@ Nummer: 12773
     123 309 79 46
 
 
+
+
 **Viggo Foundation - Insamlingsstifte**
 
     123 671 39 03
+
+
 
 
 **VIK Västerås Hockeyklubb**
@@ -52818,9 +72577,13 @@ Nummer: 12773
     123 020 44 38
 
 
+
+
 **Vika Bygdegårdsförening**
 
     123 599 26 07
+
+
 
 
 **Vika Fiskevårdsområde**
@@ -52828,9 +72591,13 @@ Nummer: 12773
     123 041 95 72
 
 
+
+
 **Vika IF**
 
     123 149 24 20
+
+
 
 
 **Vika Scoutkår**
@@ -52838,9 +72605,13 @@ Nummer: 12773
     123 227 97 19
 
 
+
+
 **Vikabygdens Intresseförening**
 
     123 042 93 24
+
+
 
 
 **Vikaryds Köttbod / Vikaryds Egendoms Aktiebolag**
@@ -52848,14 +72619,20 @@ Nummer: 12773
     123 387 98 06
 
 
+
+
 **Vikens Församling**
 
     123 625 31 32
 
 
+
+
 **Vikens IK**
 
     123 468 83 39
+
+
 
 
 **Viking HC**
@@ -52865,9 +72642,13 @@ Nummer: 12773
     123 553 55 70
 
 
+
+
 **Viking Support**
 
     123 512 74 85
+
+
 
 
 **Vikingarnas Segelsällskap**
@@ -52875,9 +72656,13 @@ Nummer: 12773
     123 238 73 06 - Ekholmen
 
 
+
+
 **Viksbergs Golfklubb**
 
     123 232 86 07
+
+
 
 
 **Viksjö Båtklubb, VBK**
@@ -52885,14 +72670,20 @@ Nummer: 12773
     123 356 41 35
 
 
+
+
 **Viksjö Församling**
 
     123 021 14 25
 
 
+
+
 **Viksjö Scoutkår**
 
     123 075 11 23
+
+
 
 
 **Viksängskyrkan**
@@ -52908,9 +72699,13 @@ Nummer: 12773
     123 517 11 37 - Anna K/ Ungdom Öst
 
 
+
+
 **Viktor Klemming / Viktor Klemming AB**
 
     123 145 40 16
+
+
 
 
 **Vilans Nya Byggnadsförening**
@@ -52918,9 +72713,13 @@ Nummer: 12773
     123 264 90 77
 
 
+
+
 **Vildhallon / Mattias Dristig**
 
     123 539 86 07
+
+
 
 
 **Vilhelm Moberg-Sällskapet**
@@ -52928,9 +72727,13 @@ Nummer: 12773
     123 272 11 40
 
 
+
+
 **Vilhelmina Brukshundklubb**
 
     123 607 23 00
+
+
 
 
 **Vilhelmina Församling**
@@ -52938,9 +72741,13 @@ Nummer: 12773
     123 389 27 59
 
 
+
+
 **Villa Lidköping BK**
 
     123 349 92 66
+
+
 
 
 **Villa Sunshine AB**
@@ -52948,9 +72755,13 @@ Nummer: 12773
     123 256 63 13
 
 
+
+
 **Villands Härads Hembygdsförening**
 
     123 331 85 65
+
+
 
 
 **Villberga Hembygdsförening**
@@ -52958,9 +72769,13 @@ Nummer: 12773
     123 120 58 22
 
 
+
+
 **Villingsbergs Jaktskytteklubb**
 
     123 663 70 60
+
+
 
 
 **Vilse.nu / SVEKATT (Svenska Kattskyddsförbundet)**
@@ -52968,9 +72783,13 @@ Nummer: 12773
     123 628 64 62
 
 
+
+
 **Vilske Kleva Bygdegårdsförening**
 
     123 444 18 79
+
+
 
 
 **Vimmerby brukshundklubb**
@@ -52978,9 +72797,13 @@ Nummer: 12773
     123 695 45 98
 
 
+
+
 **Vimmerby HC**
 
     123 188 50 11
+
+
 
 
 **Vimmerby Idrottsförening**
@@ -52988,9 +72811,13 @@ Nummer: 12773
     123 635 86 18 - Bullerby Cup
 
 
+
+
 **Vimmerby Konstförening**
 
     123 422 77 81
+
+
 
 
 **Vimmerby Sportdansklubb**
@@ -52998,9 +72825,13 @@ Nummer: 12773
     123 354 22 55
 
 
+
+
 **Vimmerbyortens Ryttarförening**
 
     123 543 48 65
+
+
 
 
 **Vinberg-Ljungby Hembygdsförening**
@@ -53008,9 +72839,13 @@ Nummer: 12773
     123 336 69 78
 
 
+
+
 **Vinbergs Golfklubb**
 
     123 330 42 43
+
+
 
 
 **Vinbergs IF**
@@ -53022,9 +72857,13 @@ Nummer: 12773
     123 652 04 07
 
 
+
+
 **Vincent & Ebba AB**
 
     123 184 96 37
+
+
 
 
 **Vindelns Församling**
@@ -53032,9 +72871,13 @@ Nummer: 12773
     123 143 09 09
 
 
+
+
 **Vindelns Hembygdsförening**
 
     123 420 24 79
+
+
 
 
 **Vindelns Ridklubb**
@@ -53046,9 +72889,13 @@ Nummer: 12773
     123 634 63 40 - Ungdomssektionen
 
 
+
+
 **Vindrarps VK**
 
     123 652 18 35
+
+
 
 
 **Vineyard Norden**
@@ -53056,9 +72903,13 @@ Nummer: 12773
     123 149 91 44
 
 
+
+
 **Vingåkers GF**
 
     123 056 36 35
+
+
 
 
 **Vingåkers RF**
@@ -53068,9 +72919,13 @@ Nummer: 12773
     123 601 34 52 - Cafeteria
 
 
+
+
 **Vingåkers VK**
 
     123 272 26 84
+
+
 
 
 **VingåkersVeterinärerna AB**
@@ -53078,9 +72933,13 @@ Nummer: 12773
     123 644 33 94
 
 
+
+
 **Vinninga AIF**
 
     123 096 18 47
+
+
 
 
 **Vinslövs Bygdedansare**
@@ -53088,9 +72947,13 @@ Nummer: 12773
     123 118 41 00
 
 
+
+
 **Vinslövs IF**
 
     123 197 94 34
+
+
 
 
 **Vinternatt Västervik**
@@ -53098,9 +72961,13 @@ Nummer: 12773
     123 599 94 53
 
 
+
+
 **Vintjärns Intresseförening**
 
     123 175 75 66
+
+
 
 
 **Vintrosa IS**
@@ -53112,9 +72979,13 @@ Nummer: 12773
     123 413 76 34
 
 
+
+
 **Vinöns Kultur och hembygdsförening**
 
     123 396 25 29
+
+
 
 
 **Virestads Friskola Ekonomisk Förening**
@@ -53122,9 +72993,13 @@ Nummer: 12773
     123 072 52 00
 
 
+
+
 **Virserums Konsthall Ideell Förening**
 
     123 363 54 63
+
+
 
 
 **Virus- och pandemifonden - Svenska Sällskapet för Virologi**
@@ -53132,9 +73007,13 @@ Nummer: 12773
     123 900 74 85
 
 
+
+
 **Visby BBK - Basket**
 
     123 228 80 09
+
+
 
 
 **Visby BoIS**
@@ -53142,14 +73021,20 @@ Nummer: 12773
     123 690 16 15
 
 
+
+
 **Visby Bridgesällskap**
 
     123 064 32 21
 
 
+
+
 **Visby Brukshundklubb**
 
     123 081 11 41
+
+
 
 
 **Visby Domkyrkoförsamling**
@@ -53169,9 +73054,13 @@ Nummer: 12773
     123 657 19 05 - Diakonalt arbete
 
 
+
+
 **Visby IF Gute FIK**
 
     123 137 47 92
+
+
 
 
 **Visby IF Gute Handboll**
@@ -53179,9 +73068,13 @@ Nummer: 12773
     123 113 35 52
 
 
+
+
 **Visby Judo**
 
     123 218 82 82
+
+
 
 
 **Visby Roma HK Ungdom**
@@ -53193,9 +73086,13 @@ Nummer: 12773
     123 611 23 87 - Team 12 - U12
 
 
+
+
 **Visen & Opperhalens FVOF**
 
     123 482 02 54
+
+
 
 
 **Visingsö AIS**
@@ -53203,9 +73100,13 @@ Nummer: 12773
     123 148 26 45
 
 
+
+
 **Vision for All**
 
     123 900 66 10
+
+
 
 
 **Vision for Culture, Arts and Research Enhancement, V-CARE**
@@ -53213,9 +73114,13 @@ Nummer: 12773
     123 576 46 91
 
 
+
+
 **Visions Pensionärsförening i Kalmar**
 
     123 046 79 51
+
+
 
 
 **Visit Blekinge**
@@ -53223,9 +73128,13 @@ Nummer: 12773
     123 188 12 18
 
 
+
+
 **Visit Orsa**
 
     123 110 36 96
+
+
 
 
 **Viskadalen IBK**
@@ -53233,9 +73142,13 @@ Nummer: 12773
     123 414 94 07
 
 
+
+
 **Vissefjärda GIF**
 
     123 092 67 17
+
+
 
 
 **Vissefjärda Hembygdsförening**
@@ -53243,9 +73156,13 @@ Nummer: 12773
     123 188 20 67
 
 
+
+
 **Vist Församling**
 
     123 510 25 61
+
+
 
 
 **Vistträsk IF**
@@ -53253,9 +73170,13 @@ Nummer: 12773
     123 321 47 23
 
 
+
+
 **Visumpartner i Stockholm AB**
 
     123 100 77 64
+
+
 
 
 **Visättra DGC - Frisbee**
@@ -53263,9 +73184,13 @@ Nummer: 12773
     123 114 83 60
 
 
+
+
 **Vita Raeda / Iris Krüger**
 
     123 668 28 01
+
+
 
 
 **Vitasjöns FVO**
@@ -53273,9 +73198,13 @@ Nummer: 12773
     123 407 55 37
 
 
+
+
 **Vitemölle Kulturhistoriska Förening**
 
     123 294 52 02
+
+
 
 
 **Vittangi församling, Kiruna Pastorat**
@@ -53283,9 +73212,13 @@ Nummer: 12773
     123 422 90 76
 
 
+
+
 **Vittangi Sportklubb, VSK**
 
     123 412 26 77
+
+
 
 
 **Vittergummans Samfällighetsförening**
@@ -53293,9 +73226,13 @@ Nummer: 12773
     123 012 17 23
 
 
+
+
 **Vittinge Församling**
 
     123 389 37 08
+
+
 
 
 **Vittinge Hembygdsförening**
@@ -53303,9 +73240,13 @@ Nummer: 12773
     123 577 01 77
 
 
+
+
 **Vittjärvs IK**
 
     123 189 81 13
+
+
 
 
 **Vittsjö GIK**
@@ -53313,9 +73254,13 @@ Nummer: 12773
     123 695 44 24
 
 
+
+
 **Vittsjö Shotokan Karateklubb**
 
     123 363 25 36
+
+
 
 
 **VIYoga AB**
@@ -53323,9 +73268,13 @@ Nummer: 12773
     123 526 35 12
 
 
+
+
 **VKKS - Vackra Kurviga Kvinnans Shop**
 
     123 326 58 24
+
+
 
 
 **Vmax Club Sweden**
@@ -53333,9 +73282,13 @@ Nummer: 12773
     123 488 43 03
 
 
+
+
 **Voices4Change**
 
     123 305 33 52
+
+
 
 
 **Voijtjajaure och Tärna Församling**
@@ -53343,9 +73296,13 @@ Nummer: 12773
     123 655 85 71 - Voijtjajaure/Tärna blomsterfond
 
 
+
+
 **Volontärt Initiativ**
 
     123 299 09 92
+
+
 
 
 **Vomitory**
@@ -53353,9 +73310,13 @@ Nummer: 12773
     123 004 03 52
 
 
+
+
 **VOOV Malmö-Skåne**
 
     123 246 55 65
+
+
 
 
 **VOOV Stockholm**
@@ -53363,9 +73324,13 @@ Nummer: 12773
     123 226 36 55
 
 
+
+
 **Vovven & Jag / Vera Nyström**
 
     123 355 40 29
+
+
 
 
 **VOX Idrottsförening**
@@ -53373,9 +73338,13 @@ Nummer: 12773
     123 482 09 73
 
 
+
+
 **Voxna Hembygdsförening**
 
     123 603 36 66
+
+
 
 
 **Vrena Folkets Hus**
@@ -53383,9 +73352,13 @@ Nummer: 12773
     123 023 76 93
 
 
+
+
 **Vrena och Husby-Oppunda Hembygdsförening**
 
     123 296 18 11
+
+
 
 
 **Vrenabygdens Intresseförening**
@@ -53393,9 +73366,13 @@ Nummer: 12773
     123 099 39 23
 
 
+
+
 **Vreta IF**
 
     123 291 72 27
+
+
 
 
 **Vreta Kloster Bryggeri / Vuxenpedagogisk Konsultation i Linköping AB**
@@ -53403,9 +73380,13 @@ Nummer: 12773
     123 246 62 58
 
 
+
+
 **Vreta Klosters Hembygdsförening**
 
     123 408 80 76
+
+
 
 
 **Vreta SoMK**
@@ -53413,9 +73394,13 @@ Nummer: 12773
     123 197 94 83
 
 
+
+
 **Vrigstad Missionsförsamling**
 
     123 418 50 96
+
+
 
 
 **Vrigstad MK**
@@ -53425,9 +73410,13 @@ Nummer: 12773
     123 412 25 52
 
 
+
+
 **Vrigstads Hembygdsförening**
 
     123 471 36 40
+
+
 
 
 **Vrigstads IF**
@@ -53441,9 +73430,13 @@ Nummer: 12773
     123 651 99 46 - VIF Damfotboll lotteri
 
 
+
+
 **Vristulven FVO**
 
     123 357 50 65
+
+
 
 
 **Vrå Församling**
@@ -53453,9 +73446,13 @@ Nummer: 12773
     123 657 01 54 - Kollekt
 
 
+
+
 **Vrångö bygdegårdsförening**
 
     123 372 08 44
+
+
 
 
 **Vrångö Fritidsförening**
@@ -53463,9 +73460,13 @@ Nummer: 12773
     123 503 73 12
 
 
+
+
 **VSK Kringlan**
 
     123 694 63 21
+
+
 
 
 **VSK Vännerna**
@@ -53473,9 +73474,13 @@ Nummer: 12773
     123 655 55 02
 
 
+
+
 **Vuojatvägens Vägsamfällighetsförening**
 
     123 366 67 81
+
+
 
 
 **Vuollerims Hembygdsförening**
@@ -53483,9 +73488,13 @@ Nummer: 12773
     123 340 97 78
 
 
+
+
 **Vuollerims Motorförening**
 
     123 559 60 28
+
+
 
 
 **Vuollerims Ridklubb**
@@ -53493,9 +73502,13 @@ Nummer: 12773
     123 371 72 61
 
 
+
+
 **Vuono Hembygds och Kulturförening**
 
     123 132 45 81
+
+
 
 
 **Vä-Skepparslövs Församling**
@@ -53513,6 +73526,8 @@ Nummer: 12773
     123 459 48 00 - Skepparslövs kyrka
 
 
+
+
 **Väckelsångs Församling**
 
     123 375 58 24 - Bokbord
@@ -53520,9 +73535,13 @@ Nummer: 12773
     123 537 13 23 - Kollekt
 
 
+
+
 **Väckelsångs Hembygdsförening**
 
     123 670 24 01
+
+
 
 
 **Väckelsångs IK**
@@ -53530,14 +73549,20 @@ Nummer: 12773
     123 607 16 90
 
 
+
+
 **Väddö Församling**
 
     123 399 12 96
 
 
+
+
 **Väddö Golfklubb**
 
     123 321 69 67
+
+
 
 
 **Väddö IF**
@@ -53549,9 +73574,13 @@ Nummer: 12773
     123 629 85 09 - P10/P11
 
 
+
+
 **Väddöbygden Ideell Förening**
 
     123 000 95 63
+
+
 
 
 **Väderstad Hembygds- och Byalagsförening**
@@ -53559,9 +73588,13 @@ Nummer: 12773
     123 533 72 66
 
 
+
+
 **Väderstads Församling**
 
     123 326 21 02
+
+
 
 
 **Väderstads IK**
@@ -53569,9 +73602,13 @@ Nummer: 12773
     123 276 56 83
 
 
+
+
 **Vägkorsets Vänner**
 
     123 693 51 26
+
+
 
 
 **Vägpress AB/Tidningen Proffs**
@@ -53579,9 +73616,13 @@ Nummer: 12773
     123 597 84 24
 
 
+
+
 **Vägsjöfors Herrgård**
 
     123 225 50 40
+
+
 
 
 **Väktarskolan VS AB**
@@ -53589,9 +73630,13 @@ Nummer: 12773
     123 022 71 40
 
 
+
+
 **Välkommen till Saltis**
 
     123 042 52 64
+
+
 
 
 **Vän i Umeå**
@@ -53599,9 +73644,13 @@ Nummer: 12773
     123 354 21 80
 
 
+
+
 **Vänersborgs FK**
 
     123 040 37 09
+
+
 
 
 **Vänersborgs HC**
@@ -53609,9 +73658,13 @@ Nummer: 12773
     123 468 80 57
 
 
+
+
 **Vänersborgs IF**
 
     123 113 56 80
+
+
 
 
 **Vänersborgs Ryttarförening, Brätte Ridskola**
@@ -53619,9 +73672,13 @@ Nummer: 12773
     123 344 18 13
 
 
+
+
 **Vänersnäs Bygdegårdsförening**
 
     123 488 35 00
+
+
 
 
 **Vänföreningen Fogelstad**
@@ -53629,9 +73686,13 @@ Nummer: 12773
     123 204 72 31
 
 
+
+
 **Vänföreningen Nilssons El & Teknikmuseum**
 
     123 577 43 93
+
+
 
 
 **Vänga Hembygdsförening**
@@ -53639,9 +73700,13 @@ Nummer: 12773
     123 527 51 93
 
 
+
+
 **Vännerna Uppsala**
 
     123 534 73 31
+
+
 
 
 **Vännernas Samfund i Sverige, Kväkarna**
@@ -53649,11 +73714,15 @@ Nummer: 12773
     123 603 45 40
 
 
+
+
 **Vännfors Byaförening**
 
     123 428 66 54
 
     123 648 12 20
+
+
 
 
 **Vännäs Brukshundklubb**
@@ -53665,9 +73734,13 @@ Nummer: 12773
     123 430 05 21 - Tävlingar
 
 
+
+
 **Vännäs Motormuseum**
 
     123 651 64 96
+
+
 
 
 **Vännäs RF - Ridsport**
@@ -53675,9 +73748,13 @@ Nummer: 12773
     123 545 16 79 - Tävling
 
 
+
+
 **Vännäs Ryttarförening**
 
     123 448 00 34 - Ridskola
+
+
 
 
 **Vännäsbygdens Hembygdsförening**
@@ -53685,9 +73762,13 @@ Nummer: 12773
     123 552 81 79
 
 
+
+
 **Vänskapsförbundet Sverige-Israel Riksorganisation, VSI**
 
     123 326 43 30
+
+
 
 
 **Vänskapsgalan**
@@ -53695,9 +73776,13 @@ Nummer: 12773
     123 623 59 56
 
 
+
+
 **Vänsterpartiet**
 
     123 041 01 91
+
+
 
 
 **Vänsterpartiet Malmö**
@@ -53705,9 +73790,13 @@ Nummer: 12773
     123 173 33 85
 
 
+
+
 **Vänsterpartiet Partille**
 
     123 399 76 32
+
+
 
 
 **Värbyängens Samfällighetsförening**
@@ -53715,9 +73804,13 @@ Nummer: 12773
     123 660 00 27
 
 
+
+
 **Värends Gode Man Och Förvaltare**
 
     123 386 12 67
+
+
 
 
 **Värends Scoutkår**
@@ -53725,9 +73818,13 @@ Nummer: 12773
     123 694 03 99
 
 
+
+
 **Värjan-Eskilstuna fäktklubb**
 
     123 515 80 76
+
+
 
 
 **Världen idag AB**
@@ -53735,9 +73832,13 @@ Nummer: 12773
     123 396 94 17
 
 
+
+
 **Världens Ände Friskvårdare / Trosa Kombo Kunsult AB**
 
     123 017 21 55
+
+
 
 
 **Värmbols FC**
@@ -53745,9 +73846,13 @@ Nummer: 12773
     123 222 26 02
 
 
+
+
 **Värmdö Allmänna Skridskoklubb**
 
     123 025 28 41
+
+
 
 
 **Värmdö Bygdegårdsförening**
@@ -53755,9 +73860,13 @@ Nummer: 12773
     123 424 04 38
 
 
+
+
 **Värmdö Fågelklubb / Wermdö Ornitologer**
 
     123 386 04 83
+
+
 
 
 **Värmdö Gymnastikakademi**
@@ -53765,9 +73874,13 @@ Nummer: 12773
     123 085 40 42
 
 
+
+
 **Värmdö Nattvandrare**
 
     123 374 77 71
+
+
 
 
 **Värmestugan Helsingborg**
@@ -53777,9 +73890,13 @@ Nummer: 12773
     123 553 74 36
 
 
+
+
 **Värmland mot Kärnkraft**
 
     123 630 61 79
+
+
 
 
 **Värmlands Brandhistoriska Klubb**
@@ -53787,9 +73904,13 @@ Nummer: 12773
     123 517 03 60
 
 
+
+
 **Värmlands Bygdegårdsdistrikt**
 
     123 501 47 74
+
+
 
 
 **Värmlands dreverklubb**
@@ -53797,9 +73918,13 @@ Nummer: 12773
     123 063 71 73
 
 
+
+
 **Värmlands Fotbollförbund**
 
     123 481 88 60
+
+
 
 
 **Värmlands Heraldiska Sällskap**
@@ -53807,9 +73932,13 @@ Nummer: 12773
     123 157 59 01
 
 
+
+
 **Värmlands Konstförening**
 
     123 440 45 21
+
+
 
 
 **Värmlands Konstnärsförbund**
@@ -53817,9 +73946,13 @@ Nummer: 12773
     123 294 58 71
 
 
+
+
 **Värmlandsbro SK**
 
     123 105 14 65
+
+
 
 
 **Värmskog Bygdegårdsförening**
@@ -53827,9 +73960,13 @@ Nummer: 12773
     123 484 42 54
 
 
+
+
 **Värmskogs Hembygdsförening**
 
     123 100 03 55
+
+
 
 
 **Värmskogs Sportklubb**
@@ -53839,9 +73976,13 @@ Nummer: 12773
     123 429 63 72
 
 
+
+
 **Värnamo Alliansförsamling**
 
     123 018 53 48
+
+
 
 
 **Värnamo Bouleklubb**
@@ -53849,9 +73990,13 @@ Nummer: 12773
     123 231 72 20
 
 
+
+
 **Värnamo Boxningsklubb**
 
     123 629 15 20
+
+
 
 
 **Värnamo Frisbee Club**
@@ -53859,9 +74004,13 @@ Nummer: 12773
     123 405 55 88
 
 
+
+
 **Värnamo Hockey**
 
     123 442 43 13
+
+
 
 
 **Värnamo IK**
@@ -53869,14 +74018,20 @@ Nummer: 12773
     123 156 99 79
 
 
+
+
 **Värnamo Kvinno- och tjejjour**
 
     123 141 30 46
 
 
+
+
 **Värnamo Martial Arts Center**
 
     123 265 87 22
+
+
 
 
 **Värnamo Missionsförsamling**
@@ -53886,9 +74041,13 @@ Nummer: 12773
     123 860 55 19
 
 
+
+
 **Värnamo Modelljärnvägsförening, VMJF**
 
     123 544 07 63
+
+
 
 
 **Värnamo Simsällskap**
@@ -53896,9 +74055,13 @@ Nummer: 12773
     123 499 29 39
 
 
+
+
 **Värnamo Södra FF**
 
     123 390 80 92
+
+
 
 
 **Värnamohonung / Dahlbäck Bisyssla AB**
@@ -53906,9 +74069,13 @@ Nummer: 12773
     123 066 90 85
 
 
+
+
 **Värpinge IF**
 
     123 345 32 55
+
+
 
 
 **Värsås Missionsförsamling**
@@ -53916,9 +74083,13 @@ Nummer: 12773
     123 024 40 95
 
 
+
+
 **Värsås SMU**
 
     123 622 94 05
+
+
 
 
 **Värtans IK**
@@ -53928,9 +74099,13 @@ Nummer: 12773
     123 602 35 84
 
 
+
+
 **Värö-Stråvalla Hembygdsförening**
 
     123 196 36 10
+
+
 
 
 **Väröbacka GIF**
@@ -53938,9 +74113,13 @@ Nummer: 12773
     123 351 45 36
 
 
+
+
 **Väsby badmintonklubb**
 
     123 153 86 51
+
+
 
 
 **Väsby Brukshundklubb**
@@ -53948,14 +74127,20 @@ Nummer: 12773
     123 361 08 13
 
 
+
+
 **Väsby FF**
 
     123 529 51 67
 
 
+
+
 **Väsby FK**
 
     123 678 41 10
+
+
 
 
 **Väsby OK**
@@ -53965,9 +74150,13 @@ Nummer: 12773
     123 496 81 52
 
 
+
+
 **Väsby Ridklubb**
 
     123 624 94 78
+
+
 
 
 **Väsby Rock Podcast / Väsby Musikförening**
@@ -53975,9 +74164,13 @@ Nummer: 12773
     123 107 73 38
 
 
+
+
 **Väsby Tjejjour**
 
     123 163 99 62
+
+
 
 
 **Väse Framtid**
@@ -53985,9 +74178,13 @@ Nummer: 12773
     123 000 89 12
 
 
+
+
 **Väskinde Bygdegårdsförening**
 
     123 614 18 81
+
+
 
 
 **Väsman VinterArena**
@@ -53995,9 +74192,13 @@ Nummer: 12773
     123 586 99 20
 
 
+
+
 **Västanede Byförening**
 
     123 131 60 74
+
+
 
 
 **Västanfors IF Bandyklubb**
@@ -54007,9 +74208,13 @@ Nummer: 12773
     123 435 21 67
 
 
+
+
 **Västanfors IF Fotbollsklubb**
 
     123 001 33 67
+
+
 
 
 **Västanfors Västervåla Församling**
@@ -54017,9 +74222,13 @@ Nummer: 12773
     123 468 76 38
 
 
+
+
 **Västanviks Samfällighetsförening**
 
     123 189 22 49
+
+
 
 
 **Västanå HästFörening**
@@ -54027,14 +74236,20 @@ Nummer: 12773
     123 519 63 08
 
 
+
+
 **Västanå Musik & Teater**
 
     123 695 24 36
 
 
+
+
 **Västbo BSK - Bågskytte**
 
     123 463 85 99
+
+
 
 
 **Västbo Judoklubb**
@@ -54044,9 +74259,13 @@ Nummer: 12773
     123 188 66 21 - Judoshopen
 
 
+
+
 **Väster Konsult & Etreprenad Teknik AB**
 
     123 351 12 76
+
+
 
 
 **Väster Silfbergs Vänner**
@@ -54054,9 +74273,13 @@ Nummer: 12773
     123 252 97 58
 
 
+
+
 **Västerbackens Bygdegårdsförening**
 
     123 618 91 61
+
+
 
 
 **Västerbottens läns Stövarklubb, VBSK**
@@ -54064,9 +74287,13 @@ Nummer: 12773
     123 098 63 72
 
 
+
+
 **Västerfärnebo Hembygdsförening**
 
     123 221 84 36
+
+
 
 
 **Västergarns Hembygdsförening**
@@ -54074,9 +74301,13 @@ Nummer: 12773
     123 188 69 44
 
 
+
+
 **Västergötlands Hembygdsförbund**
 
     123 358 23 68
+
+
 
 
 **Västergötlands Schackförbund**
@@ -54084,9 +74315,13 @@ Nummer: 12773
     123 338 46 17
 
 
+
+
 **Västergötlands Travsällskap**
 
     123 161 73 56
+
+
 
 
 **Västerlanda Bygdegårdsförening**
@@ -54094,9 +74329,13 @@ Nummer: 12773
     123 624 56 74
 
 
+
+
 **Västerledskyrkans Församling**
 
     123 218 31 50
+
+
 
 
 **Västerljungs Hembygdsförening**
@@ -54104,9 +74343,13 @@ Nummer: 12773
     123 237 05 26
 
 
+
+
 **Västermalms Båtklubb**
 
     123 346 71 72
+
+
 
 
 **Västermalms Församling**
@@ -54118,9 +74361,13 @@ Nummer: 12773
     123 264 88 89 - Västermalm hjälper
 
 
+
+
 **Västernorrlands IdrottsHistoriska Sällskap**
 
     123 591 72 08
+
+
 
 
 **Västernorrlands Sameförening, Noerhtenaestie**
@@ -54128,9 +74375,13 @@ Nummer: 12773
     123 501 46 75
 
 
+
+
 **Västernorrlands Stövarklubb, VNSK**
 
     123 311 15 23
+
+
 
 
 **Västerort/Norrorts Trafikskola AB**
@@ -54138,9 +74389,13 @@ Nummer: 12773
     123 569 49 06
 
 
+
+
 **Västers Bordtennisklubb Motala**
 
     123 015 71 31
+
+
 
 
 **Västerviks Brukshundsklubb**
@@ -54148,9 +74403,13 @@ Nummer: 12773
     123 231 45 24
 
 
+
+
 **Västerviks JK**
 
     123 562 40 51
+
+
 
 
 **Västerviks Kennelklubb**
@@ -54158,9 +74417,13 @@ Nummer: 12773
     123 134 53 21
 
 
+
+
 **Västerviks Orienteringsklubb**
 
     123 599 32 58
+
+
 
 
 **Västerviksortens Ryttareförening**
@@ -54172,14 +74435,20 @@ Nummer: 12773
     123 609 48 66
 
 
+
+
 **Västerås Adventistförsamling**
 
     123 623 67 80
 
 
+
+
 **Västerås Astronomi o Rymdforskning Förening, VARF**
 
     123 230 37 90
+
+
 
 
 **Västerås Basket**
@@ -54189,14 +74458,20 @@ Nummer: 12773
     123 361 56 97
 
 
+
+
 **Västerås Bil & MC Skola**
 
     123 137 49 41
 
 
+
+
 **Västerås BK30 / Västerås Bollklubb av ÅR 1930**
 
     123 013 54 34
+
+
 
 
 **Västerås BK - Brottning**
@@ -54212,9 +74487,13 @@ Nummer: 12773
     123 373 78 89 - Stödmedlem/Wresfit
 
 
+
+
 **Västerås Bordtennisklubb**
 
     123 464 52 89
+
+
 
 
 **Västerås Bouleklubb**
@@ -54222,9 +74501,13 @@ Nummer: 12773
     123 266 17 26
 
 
+
+
 **Västerås Brukshundsklubb**
 
     123 117 40 02
+
+
 
 
 **Västerås Cablepark Förening**
@@ -54232,9 +74515,13 @@ Nummer: 12773
     123 113 29 19
 
 
+
+
 **Västerås CK**
 
     123 466 44 96
+
+
 
 
 **Västerås Domkyrka**
@@ -54254,9 +74541,13 @@ Nummer: 12773
     123 682 56 32 - Katedralbutiken
 
 
+
+
 **Västerås Friidrottsklubb**
 
     123 322 81 60
+
+
 
 
 **Västerås Golfklubb**
@@ -54264,14 +74555,20 @@ Nummer: 12773
     123 225 82 59
 
 
+
+
 **Västerås Gymnastikförening**
 
     123 036 99 59
 
 
+
+
 **Västerås IK**
 
     123 237 51 60 - Värvningspotten
+
+
 
 
 **Västerås IK Fotboll**
@@ -54283,6 +74580,8 @@ Nummer: 12773
     123 552 82 37
 
 
+
+
 **Västerås IK Ungdom**
 
     123 432 63 93 - Team 14 (U 11)
@@ -54292,9 +74591,13 @@ Nummer: 12773
     123 613 97 45
 
 
+
+
 **Västerås IK Ungdom Team 08 (U14)**
 
     123 245 40 80
+
+
 
 
 **Västerås IK Ungdom Team 09 (U13)**
@@ -54302,9 +74605,13 @@ Nummer: 12773
     123 409 06 19
 
 
+
+
 **Västerås Ishockeyklubb, VIK**
 
     123 468 48 25
+
+
 
 
 **Västerås Jaktskytteklubb**
@@ -54312,9 +74619,13 @@ Nummer: 12773
     123 483 74 49
 
 
+
+
 **Västerås Judoklubb**
 
     123 434 39 84
+
+
 
 
 **Västerås Kammarmusikförening**
@@ -54322,9 +74633,13 @@ Nummer: 12773
     123 293 12 69
 
 
+
+
 **Västerås Karatecenter**
 
     123 387 41 79
+
+
 
 
 **Västerås Kattklubb**
@@ -54332,9 +74647,13 @@ Nummer: 12773
     123 150 65 67
 
 
+
+
 **Västerås Ki-Aikido**
 
     123 362 67 10
+
+
 
 
 **Västerås Konstförening**
@@ -54342,9 +74661,13 @@ Nummer: 12773
     123 598 45 47
 
 
+
+
 **Västerås Kraftsportssklubb**
 
     123 487 97 71
+
+
 
 
 **Västerås Löparklubb**
@@ -54352,9 +74675,13 @@ Nummer: 12773
     123 130 11 91
 
 
+
+
 **Västerås Moské**
 
     123 585 78 42
+
+
 
 
 **Västerås Moskén / Västerås Islamiska Kulturcentrum**
@@ -54362,9 +74689,13 @@ Nummer: 12773
     123 551 75 11
 
 
+
+
 **Västerås Musiksällskap**
 
     123 459 68 54
+
+
 
 
 **Västerås Pickels HC**
@@ -54372,9 +74703,13 @@ Nummer: 12773
     123 647 37 97
 
 
+
+
 **Västerås Pistolskyttar**
 
     123 209 97 45
+
+
 
 
 **Västerås Roedeers**
@@ -54382,9 +74717,13 @@ Nummer: 12773
     123 520 65 94
 
 
+
+
 **Västerås Roller Derby**
 
     123 230 19 27
+
+
 
 
 **Västerås Ryttarsällskap**
@@ -54392,9 +74731,13 @@ Nummer: 12773
     123 384 92 13
 
 
+
+
 **Västerås Segelflygklubb**
 
     123 268 93 21
+
+
 
 
 **Västerås Shukokai Karateklubb**
@@ -54402,9 +74745,13 @@ Nummer: 12773
     123 077 29 05
 
 
+
+
 **Västerås Simsällskap**
 
     123 268 02 96
+
+
 
 
 **Västerås Sinfoniettas vänförening**
@@ -54412,9 +74759,13 @@ Nummer: 12773
     123 298 38 23
 
 
+
+
 **Västerås Sjöscoutkår**
 
     123 661 92 82
+
+
 
 
 **Västerås SK Bandy**
@@ -54426,9 +74777,13 @@ Nummer: 12773
     123 665 11 94
 
 
+
+
 **Västerås SK FK**
 
     123 335 71 83 - F13/F14
+
+
 
 
 **Västerås SK Fotbollklubb**
@@ -54436,9 +74791,13 @@ Nummer: 12773
     123 539 34 00
 
 
+
+
 **Västerås SK Fotbollsklubb**
 
     123 394 09 47 - Stödkonto
+
+
 
 
 **Västerås SK Fotbollsklubb, VSK**
@@ -54446,9 +74805,13 @@ Nummer: 12773
     123 237 27 38
 
 
+
+
 **Västerås Skid- och Orienteringsklubb**
 
     123 633 60 28
+
+
 
 
 **Västerås Skidklubb**
@@ -54456,9 +74819,13 @@ Nummer: 12773
     123 326 08 58
 
 
+
+
 **Västerås Slalomklubb, VSLK**
 
     123 496 62 55
+
+
 
 
 **Västerås SportDykarKlubb Mollusca**
@@ -54466,9 +74833,13 @@ Nummer: 12773
     123 360 52 19
 
 
+
+
 **Västerås stad**
 
     123 677 99 12 - dagkort och säsongskort skidåkning
+
+
 
 
 **Västerås Stadsmission**
@@ -54476,9 +74847,13 @@ Nummer: 12773
     123 900 16 03
 
 
+
+
 **Västerås Stifts Kyrkosångsförbund**
 
     123 286 26 39
+
+
 
 
 **Västerås Taekwondoklubb**
@@ -54486,9 +74861,13 @@ Nummer: 12773
     123 688 87 47
 
 
+
+
 **Västerås Trafikskola**
 
     123 185 42 23
+
+
 
 
 **Västerås Trädgårdssällskap**
@@ -54496,9 +74875,13 @@ Nummer: 12773
     123 626 95 67
 
 
+
+
 **Västerås Volleybollklubb**
 
     123 274 23 28
+
+
 
 
 **Västmanlands Ornitologiska Förening**
@@ -54506,9 +74889,13 @@ Nummer: 12773
     123 577 03 18
 
 
+
+
 **Västmanlands Pistolskyttekrets**
 
     123 070 72 57
+
+
 
 
 **Västmanlands Scoutdistrikt**
@@ -54516,9 +74903,13 @@ Nummer: 12773
     123 678 04 07
 
 
+
+
 **Västra Eds Hembygdsförening**
 
     123 542 83 70
+
+
 
 
 **Västra Frölunda Konståkningsklubb, VFKK**
@@ -54528,9 +74919,13 @@ Nummer: 12773
     123 682 73 15 - Konståkning
 
 
+
+
 **Västra Hargs IF**
 
     123 213 87 82
+
+
 
 
 **Västra Hargs Missionsförsamling**
@@ -54538,9 +74933,13 @@ Nummer: 12773
     123 327 09 98
 
 
+
+
 **Västra Husby Hembygdsförening**
 
     123 584 37 50
+
+
 
 
 **Västra Husby IF**
@@ -54548,14 +74947,20 @@ Nummer: 12773
     123 588 50 17
 
 
+
+
 **Västra Ingelstad IS**
 
     123 464 54 20
 
 
+
+
 **Västra Karups IF**
 
     123 034 62 62
+
+
 
 
 **Västra Marks Församling**
@@ -54565,9 +74970,13 @@ Nummer: 12773
     123 092 47 04 - Kollekt
 
 
+
+
 **Västra Mälardalen Innebandy**
 
     123 033 51 25
+
+
 
 
 **Västra Ny Hembygdsförening**
@@ -54575,9 +74984,13 @@ Nummer: 12773
     123 644 41 29
 
 
+
+
 **Västra Sidan**
 
     123 231 43 42
+
+
 
 
 **Västra Skedvi Hembygds- och Bygdegårdsförening**
@@ -54585,9 +74998,13 @@ Nummer: 12773
     123 457 22 10
 
 
+
+
 **Västra Torups Bygdegårdsförening**
 
     123 569 46 17
+
+
 
 
 **Västra Vikbolandets Församling**
@@ -54595,14 +75012,20 @@ Nummer: 12773
     123 673 60 03 - ACT
 
 
+
+
 **Västra Ämterviks Hembygdsförening**
 
     123 113 45 01
 
 
+
+
 **Västra Ämterviks IF**
 
     123 147 60 01
+
+
 
 
 **Västra Ångermanlands Travsällskap**
@@ -54612,9 +75035,13 @@ Nummer: 12773
     123 134 32 92
 
 
+
+
 **Västrums Hembygdsförening**
 
     123 276 92 22
+
+
 
 
 **Västsvenska Kattklubben**
@@ -54622,9 +75049,13 @@ Nummer: 12773
     123 623 69 05
 
 
+
+
 **Västsvenska Roller Derby-Sällskapet**
 
     123 657 10 79
+
+
 
 
 **Västsvenska Simförbundet VSSF**
@@ -54632,9 +75063,13 @@ Nummer: 12773
     123 029 54 69
 
 
+
+
 **Västsvenska Wadokai**
 
     123 220 80 15
+
+
 
 
 **Vätterbygdens Veteranfordonsklubb**
@@ -54642,9 +75077,13 @@ Nummer: 12773
     123 247 73 13
 
 
+
+
 **Vätöstrands Samfällighetsförening**
 
     123 412 21 49
+
+
 
 
 **Växjö Adventistförsamling**
@@ -54652,9 +75091,13 @@ Nummer: 12773
     123 395 81 54
 
 
+
+
 **Växjö Allmänna Idrottssällskap, VAIS**
 
     123 395 17 04
+
+
 
 
 **Växjö BK**
@@ -54662,9 +75105,13 @@ Nummer: 12773
     123 363 59 01
 
 
+
+
 **Växjö City FC**
 
     123 574 39 84
+
+
 
 
 **Växjö Damfotbollsförening, Växjö DFF**
@@ -54672,9 +75119,13 @@ Nummer: 12773
     123 160 53 28
 
 
+
+
 **Växjö IBK Utveckling**
 
     123 511 16 38
+
+
 
 
 **Växjö Jaktskytteklubb**
@@ -54682,9 +75133,13 @@ Nummer: 12773
     123 563 59 17
 
 
+
+
 **Växjö Kanot Club**
 
     123 323 16 69
+
+
 
 
 **Växjö Lakers Hockeyklubb**
@@ -54692,9 +75147,13 @@ Nummer: 12773
     123 295 18 38
 
 
+
+
 **Växjö OCR Förening**
 
     123 254 58 61
+
+
 
 
 **Växjö RC-klubb**
@@ -54702,14 +75161,20 @@ Nummer: 12773
     123 094 82 73
 
 
+
+
 **Växjö RK - Ridsport**
 
     123 452 27 36
 
 
+
+
 **Växjöortens Folkdanslag**
 
     123 347 43 50
+
+
 
 
 **Våmbs IF**
@@ -54725,9 +75190,13 @@ Nummer: 12773
     123 543 88 17 - Lagkonto REF lag
 
 
+
+
 **Vånga Missionsförsamling**
 
     123 680 87 37
+
+
 
 
 **Vångabergets SLK**
@@ -54735,9 +75204,13 @@ Nummer: 12773
     123 676 09 95
 
 
+
+
 **Vår Bästa Vän AB**
 
     123 267 77 63
+
+
 
 
 **Vår Fru av Rosenkransens Församling**
@@ -54745,9 +75218,13 @@ Nummer: 12773
     123 170 99 48
 
 
+
+
 **Vår Frus Katolska Församling i Täby**
 
     123 000 92 17
+
+
 
 
 **Vår Frus Katolska Församling i Västerås**
@@ -54755,9 +75232,13 @@ Nummer: 12773
     123 337 86 19
 
 
+
+
 **Vår Frälsares Katolska Församling**
 
     123 640 28 04
+
+
 
 
 **Vård för Pengarna**
@@ -54765,9 +75246,13 @@ Nummer: 12773
     123 319 60 94
 
 
+
+
 **Vårddemokraterna**
 
     123 669 68 43
+
+
 
 
 **Vårdinge Församling**
@@ -54775,9 +75260,13 @@ Nummer: 12773
     123 551 69 43 - Kollekt
 
 
+
+
 **Vårdnäs Församling**
 
     123 545 80 39
+
+
 
 
 **Vårdnäs Hembygdsförening**
@@ -54785,9 +75274,13 @@ Nummer: 12773
     123 326 95 11
 
 
+
+
 **Vårdnäs Stiftsgård / Linköpings Stift**
 
     123 320 02 76
+
+
 
 
 **Vårgårda IK**
@@ -54795,9 +75288,13 @@ Nummer: 12773
     123 179 22 66
 
 
+
+
 **Vårt Söderslätt**
 
     123 344 45 28
+
+
 
 
 
@@ -54809,9 +75306,13 @@ Nummer: 12773
     123 170 33 54
 
 
+
+
 **Wadokai Karatedo AB**
 
     123 026 54 88
+
+
 
 
 **Waggeryds Atletklubb**
@@ -54819,9 +75320,13 @@ Nummer: 12773
     123 467 73 16
 
 
+
+
 **Waggeryds IK**
 
     123 419 49 65
+
+
 
 
 **Wagner-Sällskapet i Göteborg**
@@ -54829,9 +75334,13 @@ Nummer: 12773
     123 209 74 83
 
 
+
+
 **Wake me up**
 
     123 364 86 49
+
+
 
 
 **Waldemarsviks IF**
@@ -54839,9 +75348,13 @@ Nummer: 12773
     123 512 70 63
 
 
+
+
 **Wanås Konst**
 
     123 393 02 29
+
+
 
 
 **WAP Padel Club Örebro**
@@ -54849,9 +75362,13 @@ Nummer: 12773
     123 450 21 59
 
 
+
+
 **Wargöns IK**
 
     123 241 19 16
+
+
 
 
 **Warnums Bygdegårdsförening**
@@ -54859,9 +75376,13 @@ Nummer: 12773
     123 331 18 83
 
 
+
+
 **Wasa Golfklubb**
 
     123 299 28 40
+
+
 
 
 **Wasteland Discgolf Club**
@@ -54869,9 +75390,13 @@ Nummer: 12773
     123 278 98 08
 
 
+
+
 **Water Matters**
 
     123 103 38 36
+
+
 
 
 **WaterAid**
@@ -54879,9 +75404,13 @@ Nummer: 12773
     123 071 39 90
 
 
+
+
 **Wattholma Golfklubb**
 
     123 614 50 56
+
+
 
 
 **Wattholma IF**
@@ -54889,9 +75418,13 @@ Nummer: 12773
     123 633 61 35
 
 
+
+
 **Waxholms Golfklubb**
 
     123 508 29 46 - Martin Wiklund
+
+
 
 
 **Waxholms Gymnastikförening**
@@ -54899,9 +75432,13 @@ Nummer: 12773
     123 219 60 04
 
 
+
+
 **Waxholms Scoutkår**
 
     123 290 43 32
+
+
 
 
 **We Effect**
@@ -54911,9 +75448,13 @@ Nummer: 12773
     123 901 00 18
 
 
+
+
 **Webb.se / Perfect Sense AB**
 
     123 562 71 95
+
+
 
 
 **Wedevågs IF**
@@ -54921,9 +75462,13 @@ Nummer: 12773
     123 668 70 99
 
 
+
+
 **Wedumsdalens Nejder**
 
     123 282 86 71
+
+
 
 
 **Weld**
@@ -54931,9 +75476,13 @@ Nummer: 12773
     123 073 63 97
 
 
+
+
 **Wellness 4 Life Sweden AB**
 
     123 333 46 61
+
+
 
 
 **Wemboö Bygdegårdsförening**
@@ -54941,9 +75490,13 @@ Nummer: 12773
     123 246 86 73
 
 
+
+
 **Wemmentorp-Örkelljunga Skytteförening**
 
     123 167 69 56
+
+
 
 
 **Wermdö Parkour & Gymnastik**
@@ -54951,9 +75504,13 @@ Nummer: 12773
     123 171 78 91
 
 
+
+
 **Wermdö Taekwondo Förening**
 
     123 114 96 24
+
+
 
 
 **Wermland Western Riders**
@@ -54961,9 +75518,13 @@ Nummer: 12773
     123 538 30 96
 
 
+
+
 **Wermlands Ornitologiska Förening**
 
     123 561 95 72
+
+
 
 
 **Wermländska Sällskapet**
@@ -54971,9 +75532,13 @@ Nummer: 12773
     123 216 88 54
 
 
+
+
 **Werner Aspenströmsällskapet**
 
     123 557 06 43
+
+
 
 
 **West Coast Kickboxing**
@@ -54981,9 +75546,13 @@ Nummer: 12773
     123 275 31 50
 
 
+
+
 **West Coast Pole & Dance Studio AB**
 
     123 072 92 85
+
+
 
 
 **West Pride**
@@ -54991,9 +75560,13 @@ Nummer: 12773
     123 900 68 26
 
 
+
+
 **West Stockholm Shooting School / Xcact Konsult AB**
 
     123 456 78 55
+
+
 
 
 **Westbo Innebandyklubb**
@@ -55001,9 +75574,13 @@ Nummer: 12773
     123 132 47 48
 
 
+
+
 **Westbo-Mo Forskarförening**
 
     123 025 59 43
+
+
 
 
 **Westbopartiet - det lokala partiet för hela Gislaveds kommun**
@@ -55011,9 +75588,13 @@ Nummer: 12773
     123 427 38 76
 
 
+
+
 **Westcoast Evolution Training AB**
 
     123 532 27 89
+
+
 
 
 **Westerlundsällskapet**
@@ -55021,9 +75602,13 @@ Nummer: 12773
     123 571 68 16
 
 
+
+
 **Western Riders Association, WRAS**
 
     123 506 99 50
+
+
 
 
 **Westernryttarna i Skåne, WRIS**
@@ -55031,9 +75616,13 @@ Nummer: 12773
     123 208 81 93
 
 
+
+
 **Westerviks Boulesällskap**
 
     123 589 02 15
+
+
 
 
 **Westerviks KK - Kanot**
@@ -55041,9 +75630,13 @@ Nummer: 12773
     123 398 69 08
 
 
+
+
 **Westerwikspartiet**
 
     123 380 97 53
+
+
 
 
 **Westie i Syd**
@@ -55051,9 +75644,13 @@ Nummer: 12773
     123 152 42 97
 
 
+
+
 **Wexiö Discgolf**
 
     123 540 34 80
+
+
 
 
 **Wexiö Rugby Klubb**
@@ -55061,9 +75658,13 @@ Nummer: 12773
     123 074 63 21
 
 
+
+
 **Wexiö Velo Cykelklubb**
 
     123 494 32 62
+
+
 
 
 **White Lions**
@@ -55071,9 +75672,13 @@ Nummer: 12773
     123 389 42 76
 
 
+
+
 **Wibax IBF Piteå**
 
     123 423 26 58
+
+
 
 
 **Wickström Coaching**
@@ -55081,9 +75686,13 @@ Nummer: 12773
     123 553 13 89
 
 
+
+
 **Widelius Dans / Viktoria Widelius**
 
     123 452 27 44
+
+
 
 
 **Wikimedia Sverige**
@@ -55093,9 +75702,13 @@ Nummer: 12773
     123 900 68 59
 
 
+
+
 **Wikmans Buss AB**
 
     123 608 24 08
+
+
 
 
 **Wild Capoeira Kids & Akrobatrix**
@@ -55103,9 +75716,13 @@ Nummer: 12773
     123 074 67 76
 
 
+
+
 **Wilhelm Stenhammar-Sällskapet**
 
     123 560 73 95
+
+
 
 
 **Willands Ryttarförening**
@@ -55113,9 +75730,13 @@ Nummer: 12773
     123 449 43 81
 
 
+
+
 **Williams Syndromförening i Sverige**
 
     123 176 57 00
+
+
 
 
 **Willow Hälsa / Villa Cosmos AB / Helena Lundvik**
@@ -55123,9 +75744,13 @@ Nummer: 12773
     123 288 43 36
 
 
+
+
 **Winfield AB**
 
     123 324 30 52
+
+
 
 
 **Wings HC**
@@ -55137,9 +75762,13 @@ Nummer: 12773
     123 434 51 87 - Team 13
 
 
+
+
 **Wings Trafikskola / Gabi Lahdo**
 
     123 580 22 85
+
+
 
 
 **Winnö IF**
@@ -55147,9 +75776,13 @@ Nummer: 12773
     123 345 56 15
 
 
+
+
 **WIP i Borlänge AB**
 
     123 553 10 41
+
+
 
 
 **Wisseltofta IF**
@@ -55157,9 +75790,13 @@ Nummer: 12773
     123 226 56 27
 
 
+
+
 **Wist Hembygdsförening**
 
     123 131 64 21
+
+
 
 
 **Wittsjö Hembygdsförening**
@@ -55167,9 +75804,13 @@ Nummer: 12773
     123 266 56 77
 
 
+
+
 **Wollsjö AIF**
 
     123 641 97 33
+
+
 
 
 **Women to Remember**
@@ -55177,14 +75818,20 @@ Nummer: 12773
     123 688 76 40
 
 
+
+
 **Woolrich International WI AB**
 
     123 572 98 50
 
 
+
+
 **World Animal Protection Sverige**
 
     123 900 17 44
+
+
 
 
 **World Children Need**
@@ -55194,9 +75841,13 @@ Nummer: 12773
     123 900 86 16
 
 
+
+
 **World Cup Ulricehamn / Ulricehamn Ski Event AB**
 
     123 050 54 87
+
+
 
 
 **World Evangelical Restoration Ministries, WERM**
@@ -55204,9 +75855,13 @@ Nummer: 12773
     123 008 65 61
 
 
+
+
 **World Flaming Gospel Ministries International**
 
     123 269 65 99
+
+
 
 
 **World Sessions / Göteborgs Kommun**
@@ -55214,9 +75869,13 @@ Nummer: 12773
     123 662 88 20
 
 
+
+
 **Worship Sweden Production / Stefan Jernsand**
 
     123 089 88 41
+
+
 
 
 **WRP Sweden**
@@ -55224,9 +75883,13 @@ Nummer: 12773
     123 547 67 00
 
 
+
+
 **WT-Metall Norden AB**
 
     123 305 99 53
+
+
 
 
 **WT Trailer AB**
@@ -55234,9 +75897,13 @@ Nummer: 12773
     123 363 42 27
 
 
+
+
 **Wä Scoutkår**
 
     123 413 49 04
+
+
 
 
 **Wäsby Warriors**
@@ -55244,9 +75911,13 @@ Nummer: 12773
     123 626 13 17
 
 
+
+
 **Wästra Bolmens Båtklubb, VBBK**
 
     123 606 50 07
+
+
 
 
 **Wånga Klippan Bygdegårdsförening**
@@ -55254,9 +75925,13 @@ Nummer: 12773
     123 299 93 40
 
 
+
+
 **Wårgårda IBK**
 
     123 127 48 36
+
+
 
 
 
@@ -55268,14 +75943,20 @@ Nummer: 12773
     123 621 05 79
 
 
+
+
 **Yalla Jönköping Ideell Förening**
 
     123 058 67 35
 
 
+
+
 **YaMax Travel AB - Norrskenlodge**
 
     123 287 44 44
+
+
 
 
 **Yankee Car Club**
@@ -55285,9 +75966,13 @@ Nummer: 12773
     123 635 75 94 - Borlänge Dragracing Klubb
 
 
+
+
 **YDRE Sportbar / Kenth Lindgren**
 
     123 130 73 96
+
+
 
 
 **Ydrefors Samhällsförening**
@@ -55297,9 +75982,13 @@ Nummer: 12773
     123 582 58 80 - Camping
 
 
+
+
 **Yennenga Progress**
 
     123 900 24 37
+
+
 
 
 **Yngsjö IF**
@@ -55309,9 +75998,13 @@ Nummer: 12773
     123 573 13 85 - Loppisförsäljning
 
 
+
+
 **Yoga 121 / Maria Nahringbauer**
 
     123 263 99 04
+
+
 
 
 **Yoga & Body Organics / Ulrika Corneliusson**
@@ -55319,9 +76012,13 @@ Nummer: 12773
     123 605 93 56
 
 
+
+
 **Yoga By Atma, Studio Atma / Atma Nilsson**
 
     123 357 90 34
+
+
 
 
 **Yoga by Inner Gaze / Innergaze AB**
@@ -55329,9 +76026,13 @@ Nummer: 12773
     123 054 96 00
 
 
+
+
 **Yoga by Sandra Adrian / Sandra Adrian**
 
     123 575 36 45
+
+
 
 
 **Yoga & Hälsa Öland / Tina Petersson**
@@ -55339,9 +76040,13 @@ Nummer: 12773
     123 634 12 59
 
 
+
+
 **Yoga i Hagen / Male & Female Production HB**
 
     123 039 21 42
+
+
 
 
 **Yoga i Åkersberga AB**
@@ -55349,9 +76054,13 @@ Nummer: 12773
     123 024 88 72
 
 
+
+
 **Yoga Jajaja / Heléne Clemensson**
 
     123 421 54 71
+
+
 
 
 **Yoga Med Helen / Helen Kåselöv**
@@ -55359,9 +76068,13 @@ Nummer: 12773
     123 399 11 63
 
 
+
+
 **Yoga med L8 / Lotta Fröjdfeldt**
 
     123 204 50 60
+
+
 
 
 **Yoga NU Nacka - Stockholm**
@@ -55369,9 +76082,13 @@ Nummer: 12773
     123 608 58 07
 
 
+
+
 **Yoga Nu Stockholm AB**
 
     123 648 94 96
+
+
 
 
 **Yoga Resan i Lerum / Lena Johansson**
@@ -55379,9 +76096,13 @@ Nummer: 12773
     123 220 39 41
 
 
+
+
 **YOGA VEDA i Hamburgsund**
 
     123 676 48 07
+
+
 
 
 **Yoga & Vänner AB**
@@ -55389,9 +76110,13 @@ Nummer: 12773
     123 159 18 17
 
 
+
+
 **Yoga-Åsa, Kropp och själ / Åsa Hansson**
 
     123 666 45 51
+
+
 
 
 **Yogafarmen / Linnéa El-Solh**
@@ -55399,9 +76124,13 @@ Nummer: 12773
     123 026 33 43
 
 
+
+
 **YogaJenny / Jenny Sjöberg Yoga AB**
 
     123 688 01 08
+
+
 
 
 **YogaJoy / Jennie Carlsson**
@@ -55409,9 +76138,13 @@ Nummer: 12773
     123 388 40 46
 
 
+
+
 **Yogakällan Bommen-Juniskär / Monica Gustafsson**
 
     123 065 57 53
+
+
 
 
 **Yogakällan Friskvård i Borås / Anne Lötjönen Sund**
@@ -55419,9 +76152,13 @@ Nummer: 12773
     123 198 37 25
 
 
+
+
 **Yogalistic AB**
 
     123 124 34 50
+
+
 
 
 **Yogama / Marika Andersson**
@@ -55429,9 +76166,13 @@ Nummer: 12773
     123 149 56 70
 
 
+
+
 **Yogami / Marie Karlsson**
 
     123 610 08 12
+
+
 
 
 **Yoganathi / Kundaliniyoga med Nathalie Parkvall / Nathalie Parkvall**
@@ -55439,9 +76180,13 @@ Nummer: 12773
     123 031 67 60
 
 
+
+
 **Yogashala South Sweden AB**
 
     123 135 51 55
+
+
 
 
 **YOGAVI / Ulrika Wee-Ellis**
@@ -55449,9 +76194,13 @@ Nummer: 12773
     123 693 49 47
 
 
+
+
 **Your Light / Yonova - Birgitta Olsson**
 
     123 380 49 86
+
+
 
 
 **Your Wise Soul by Camilla / Camilla Nilsson**
@@ -55459,9 +76208,13 @@ Nummer: 12773
     123 554 38 06
 
 
+
+
 **Yousse Bilcenter AB**
 
     123 623 07 18
+
+
 
 
 **Youth With A Mission - YWAM Stockholm**
@@ -55469,9 +76222,13 @@ Nummer: 12773
     123 041 60 65
 
 
+
+
 **Youth With A Mission - YWAM Sweden**
 
     123 087 24 40
+
+
 
 
 **Ysane Norje Hembygdsförening**
@@ -55479,9 +76236,13 @@ Nummer: 12773
     123 263 38 73
 
 
+
+
 **Ystad Golfklubb**
 
     123 281 13 62
+
+
 
 
 **Ystad Skyttegille**
@@ -55489,9 +76250,13 @@ Nummer: 12773
     123 407 49 02
 
 
+
+
 **Ystad-Sövestads Församling**
 
     123 114 71 15
+
+
 
 
 **Ystads Brukhundklubb**
@@ -55499,9 +76264,13 @@ Nummer: 12773
     123 590 42 55
 
 
+
+
 **Ystads Frivillige Bergnings-Corps, Ystads FBC**
 
     123 048 55 73
+
+
 
 
 **Ystads IF FF**
@@ -55509,9 +76278,13 @@ Nummer: 12773
     123 335 23 09
 
 
+
+
 **Ystads IF Handboll**
 
     123 100 86 89
+
+
 
 
 **Ystads JVF**
@@ -55519,9 +76292,13 @@ Nummer: 12773
     123 547 19 66
 
 
+
+
 **Ytterby Hembygds- och Fornminnesförening**
 
     123 362 67 77
+
+
 
 
 **Ytterby Samfällighetsförening 1**
@@ -55529,9 +76306,13 @@ Nummer: 12773
     123 308 71 45
 
 
+
+
 **Ytterbyns viltvårdsområdesförening, VVO**
 
     123 160 26 48
+
+
 
 
 **Ytterjärna Församling**
@@ -55539,9 +76320,13 @@ Nummer: 12773
     123 189 97 98 - Kollekt
 
 
+
+
 **Yttersta Hembygdsförening**
 
     123 679 13 21
+
+
 
 
 **Ytteråns Hembygdsförening**
@@ -55549,9 +76334,13 @@ Nummer: 12773
     123 570 55 95 - Mus-Olles Museum
 
 
+
+
 **YuBe AB**
 
     123 509 34 14
+
+
 
 
 **Yviva Hälsoutveckling / Ylva Flennegård**
@@ -55559,9 +76348,13 @@ Nummer: 12773
     123 134 53 70
 
 
+
+
 **YWAM Transform**
 
     123 421 82 10
+
+
 
 
 
@@ -55573,9 +76366,13 @@ Nummer: 12773
     123 148 37 83
 
 
+
+
 **Zahlo Photo / Zandra Olausson**
 
     123 567 82 63
+
+
 
 
 **Zakrisdal Outdoor Padel AB**
@@ -55583,9 +76380,13 @@ Nummer: 12773
     123 410 67 20
 
 
+
+
 **Zambian Association for Sustainable Projects, ZASP**
 
     123 340 93 80
+
+
 
 
 **Zarah Leandersällskapet på Vikbolandet**
@@ -55593,9 +76394,13 @@ Nummer: 12773
     123 518 52 28
 
 
+
+
 **Zemasmycken / George Bchara**
 
     123 127 52 39
+
+
 
 
 **Zenshinkai Karateklubb**
@@ -55603,9 +76408,13 @@ Nummer: 12773
     123 508 37 20
 
 
+
+
 **Zerillas Hundcenter AB**
 
     123 044 09 17
+
+
 
 
 **ZignSec AB**
@@ -55613,9 +76422,13 @@ Nummer: 12773
     123 118 11 89
 
 
+
+
 **Zoloz Yoga / Pia Burman**
 
     123 495 79 99
+
+
 
 
 **Zonta International District 21**
@@ -55623,14 +76436,20 @@ Nummer: 12773
     123 320 40 13
 
 
+
+
 **Zonterapi Linköping - Corazone / Rose-Marie Andersson**
 
     123 237 38 84
 
 
+
+
 **Zumba Danscenter Köping / Linda Onatsu**
 
     123 048 64 56
+
+
 
 
 
@@ -55642,9 +76461,13 @@ Nummer: 12773
     123 900 26 35
 
 
+
+
 **Älekulla Bygdegårdsförening-Byalag**
 
     123 251 20 77
+
+
 
 
 **Älekulla Församling**
@@ -55652,9 +76475,13 @@ Nummer: 12773
     123 559 44 94 - Kollekt
 
 
+
+
 **Älghults Sockens Hembygdsförening**
 
     123 165 00 35
+
+
 
 
 **Älgskadefondsföreningen**
@@ -55662,9 +76489,13 @@ Nummer: 12773
     123 514 80 10
 
 
+
+
 **Älgå Hembygdsförening**
 
     123 653 63 53
+
+
 
 
 **Älmeboda Församling**
@@ -55674,9 +76505,13 @@ Nummer: 12773
     123 403 10 27 - Bokbord
 
 
+
+
 **Älmhult Brukshundklubb**
 
     123 635 07 06
+
+
 
 
 **Älmhult Handbollsklubb**
@@ -55684,9 +76519,13 @@ Nummer: 12773
     123 120 49 16
 
 
+
+
 **Älmhult Linnebygdens RK - Ridsport**
 
     123 311 47 74
+
+
 
 
 **Älmhults Discgolfklubb**
@@ -55694,9 +76533,13 @@ Nummer: 12773
     123 457 16 42
 
 
+
+
 **Älmhults GK**
 
     123 303 43 94
+
+
 
 
 **Älmhults Hembygdsförening**
@@ -55704,9 +76547,13 @@ Nummer: 12773
     123 315 77 40
 
 
+
+
 **Älmhults IBK**
 
     123 239 49 89
+
+
 
 
 **Älmhults IF**
@@ -55714,9 +76561,13 @@ Nummer: 12773
     123 189 23 55
 
 
+
+
 **Älmhults Jaktskytteklubb**
 
     123 218 12 61
+
+
 
 
 **Älmhults Konstförening**
@@ -55724,9 +76575,13 @@ Nummer: 12773
     123 305 47 98
 
 
+
+
 **Älmhults Pistolklubb**
 
     123 484 32 98
+
+
 
 
 **Älmhults Skytteförening**
@@ -55734,9 +76589,13 @@ Nummer: 12773
     123 072 49 30
 
 
+
+
 **Älta Kulturförening**
 
     123 281 98 52
+
+
 
 
 **Älta Scoutkår**
@@ -55744,14 +76603,20 @@ Nummer: 12773
     123 211 24 15
 
 
+
+
 **Ältas medicinska fotvård & ReflexRummet**
 
     123 611 97 88
 
 
+
+
 **Älvdalens CK**
 
     123 279 91 20
+
+
 
 
 **Älvdalens Församling**
@@ -55761,9 +76626,13 @@ Nummer: 12773
     123 511 04 24
 
 
+
+
 **Älvdalens HC**
 
     123 275 96 45
+
+
 
 
 **Älvdalens IF FK**
@@ -55771,9 +76640,13 @@ Nummer: 12773
     123 219 35 30
 
 
+
+
 **Älvdalens IF Innebandy**
 
     123 319 94 45
+
+
 
 
 **Älvdalens IF OK**
@@ -55781,9 +76654,13 @@ Nummer: 12773
     123 064 58 53
 
 
+
+
 **Älvdalens IF - Skidor**
 
     123 182 97 12
+
+
 
 
 **Älvdalens Motorklubb**
@@ -55791,9 +76668,13 @@ Nummer: 12773
     123 222 28 91
 
 
+
+
 **Älvenäs Bygdegårdsförening**
 
     123 075 98 94
+
+
 
 
 **Älvkarleby Fiskevårdsområdesförening**
@@ -55801,14 +76682,20 @@ Nummer: 12773
     123 333 65 83
 
 
+
+
 **Älvkarleby Golfklubb**
 
     123 122 45 34 - Grön grupp
 
 
+
+
 **Älvkarleby IK**
 
     123 570 43 90
+
+
 
 
 **Älvkarleby RK - Ridsport**
@@ -55822,9 +76709,13 @@ Nummer: 12773
     123 413 83 76 - Café
 
 
+
+
 **Älvros Hembygdsförening**
 
     123 232 70 54
+
+
 
 
 **Älvräddarna**
@@ -55832,9 +76723,13 @@ Nummer: 12773
     123 471 82 43
 
 
+
+
 **Älvsbacka Hembygdsförening**
 
     123 379 03 26
+
+
 
 
 **Älvsby Basketbollklubb**
@@ -55842,9 +76737,13 @@ Nummer: 12773
     123 593 50 10
 
 
+
+
 **Älvsby IF SK**
 
     123 465 90 25
+
+
 
 
 **Älvsby IF SSK - Skidskytte**
@@ -55852,14 +76751,20 @@ Nummer: 12773
     123 669 13 23
 
 
+
+
 **Älvsjö AIK Simning**
 
     123 633 30 82
 
 
+
+
 **Älvsjö BMX-klubb**
 
     123 290 42 90
+
+
 
 
 **Älvsjö Missionsförsamling**
@@ -55871,6 +76776,8 @@ Nummer: 12773
     123 454 88 71 - Kyrkkaffe
 
 
+
+
 **Älvsjö Scoutkår**
 
     123 185 06 01
@@ -55880,9 +76787,13 @@ Nummer: 12773
     123 267 00 81
 
 
+
+
 **Älvsåkers Bygdegårdsförening**
 
     123 330 66 69
+
+
 
 
 **Älvtomta koloni 055**
@@ -55890,14 +76801,20 @@ Nummer: 12773
     123 467 56 17
 
 
+
+
 **Älvängens IK**
 
     123 321 90 52
 
 
+
+
 **Ämterviks FF**
 
     123 263 62 72
+
+
 
 
 **Ängelholms Ekumeniska Församling**
@@ -55907,9 +76824,13 @@ Nummer: 12773
     123 644 92 19
 
 
+
+
 **Ängelholms FF**
 
     123 399 25 26
+
+
 
 
 **Ängelholms Gymnastikförening**
@@ -55917,9 +76838,13 @@ Nummer: 12773
     123 071 92 86
 
 
+
+
 **Ängelholms Hembygdsförening**
 
     123 596 56 78
+
+
 
 
 **Ängelholms PSK**
@@ -55927,9 +76852,13 @@ Nummer: 12773
     123 576 74 70
 
 
+
+
 **Ängelholms SF**
 
     123 190 11 72
+
+
 
 
 **Änglakatten**
@@ -55937,9 +76866,13 @@ Nummer: 12773
     123 552 76 19
 
 
+
+
 **Ängsbacka Kursgård AB**
 
     123 538 12 56 - Donation Of Joy
+
+
 
 
 **Ängsholmens Friluftsförening**
@@ -55947,9 +76880,13 @@ Nummer: 12773
     123 116 83 84
 
 
+
+
 **Ängsö Golfklubb**
 
     123 209 36 56
+
+
 
 
 **Ängsö Röda Korskrets**
@@ -55957,9 +76894,13 @@ Nummer: 12773
     123 529 21 31
 
 
+
+
 **Ängsö Trail Run / Race ID**
 
     123 557 16 66
+
+
 
 
 **Ängvaktartorps Gård / Hanna Blomqvist**
@@ -55967,9 +76908,13 @@ Nummer: 12773
     123 644 96 56
 
 
+
+
 **Äppelbo AIK**
 
     123 169 88 77
+
+
 
 
 **Äppelbo Hembygdsförening**
@@ -55977,9 +76922,13 @@ Nummer: 12773
     123 589 43 81
 
 
+
+
 **Äppelgårdens Golfklubb / Äppelgårdens Golf AB**
 
     123 198 63 55
+
+
 
 
 **Äpplegårdens Boule Center**
@@ -55987,9 +76936,13 @@ Nummer: 12773
     123 051 69 06
 
 
+
+
 **Ärentuna Församling**
 
     123 073 15 70
+
+
 
 
 **Ärla Byaråd**
@@ -55997,9 +76950,13 @@ Nummer: 12773
     123 488 40 45
 
 
+
+
 **Ärla IF**
 
     123 366 98 92
+
+
 
 
 **Ärla Skytteförening**
@@ -56007,9 +76964,13 @@ Nummer: 12773
     123 176 75 40
 
 
+
+
 **Ärtan - Idé & Design / Anita Fåhraeus**
 
     123 606 40 67
+
+
 
 
 **Ärtemark och Bengtsfors kyrka**
@@ -56017,9 +76978,13 @@ Nummer: 12773
     123 232 49 37
 
 
+
+
 **Äskeberga Kulturförening**
 
     123 034 52 98
+
+
 
 
 **Äspereds Hembygdsförening**
@@ -56027,9 +76992,13 @@ Nummer: 12773
     123 295 44 44
 
 
+
+
 **Äspereds IF**
 
     123 588 43 74
+
+
 
 
 **Ätbart**
@@ -56037,9 +77006,13 @@ Nummer: 12773
     123 247 76 85
 
 
+
+
 **Ätrafors BK**
 
     123 561 98 79
+
+
 
 
 **Ätrans Turist & Fritid AB**
@@ -56047,9 +77020,13 @@ Nummer: 12773
     123 535 91 53
 
 
+
+
 **Ättekulla lunchen / Fortuna Strandkrog / Fortuna by the Sea AB**
 
     123 000 90 19
+
+
 
 
 
@@ -56061,9 +77038,13 @@ Nummer: 12773
     123 102 65 17
 
 
+
+
 **Åby NSF Scoutkår**
 
     123 413 65 60
+
+
 
 
 **Åby Ridklubb**
@@ -56073,9 +77054,13 @@ Nummer: 12773
     123 421 43 34
 
 
+
+
 **Åby-Tjureda IF**
 
     123 465 20 46
+
+
 
 
 **Åbyggeby Byförening**
@@ -56083,9 +77068,13 @@ Nummer: 12773
     123 529 56 05
 
 
+
+
 **Åbyn-Byske Brukshundklubb**
 
     123 069 17 66
+
+
 
 
 **Ågrenska Vänskapsföreningen**
@@ -56093,9 +77082,13 @@ Nummer: 12773
     123 909 11 09
 
 
+
+
 **Åh Stiftsgård Stiftelsen**
 
     123 132 31 46
+
+
 
 
 **Åhls Hembygdsförening**
@@ -56103,14 +77096,20 @@ Nummer: 12773
     123 379 11 67
 
 
+
+
 **Åhus Brukshundklubb**
 
     123 369 85 45
 
 
+
+
 **Åhus Friidrottsklubb**
 
     123 502 13 32
+
+
 
 
 **Åhus Församling**
@@ -56120,14 +77119,20 @@ Nummer: 12773
     123 311 22 08
 
 
+
+
 **Åhus Hembygdsförening Sankta Annas Gille**
 
     123 459 88 92
 
 
+
+
 **Åhus Horna BK**
 
     123 609 71 90
+
+
 
 
 **Åhus Missionsgård**
@@ -56137,9 +77142,13 @@ Nummer: 12773
     123 511 07 05 - Camping
 
 
+
+
 **Åhus Simsällskap**
 
     123 388 47 07
+
+
 
 
 **ÅhusGården EFS**
@@ -56147,9 +77156,13 @@ Nummer: 12773
     123 668 96 99
 
 
+
+
 **Åkagårdens Golfklubb**
 
     123 207 72 20
+
+
 
 
 **Åkarp-Burlövs Tennisklubb**
@@ -56157,9 +77170,13 @@ Nummer: 12773
     123 510 44 43
 
 
+
+
 **Åkarp IF**
 
     123 281 77 65
+
+
 
 
 **Åker-Länna Församling**
@@ -56167,9 +77184,13 @@ Nummer: 12773
     123 272 55 47
 
 
+
+
 **Åkerbo Frikyrkoförsamling**
 
     123 199 31 12
+
+
 
 
 **Åkerbygdens Alliansförsamling**
@@ -56177,14 +77198,20 @@ Nummer: 12773
     123 571 62 61
 
 
+
+
 **Åkerlunds Busstrafik AB**
 
     123 139 20 59
 
 
+
+
 **Åkers Hembygdsförening**
 
     123 351 14 09
+
+
 
 
 **Åkers IF**
@@ -56194,9 +77221,13 @@ Nummer: 12773
     123 593 16 70 - PF-junior
 
 
+
+
 **Åkersberga FC**
 
     123 648 76 31
+
+
 
 
 **Åkersberga Golfklubb**
@@ -56204,9 +77235,13 @@ Nummer: 12773
     123 401 78 51
 
 
+
+
 **Åkersberga Judoklubb, ÅJK**
 
     123 476 35 61
+
+
 
 
 **Åkersberga Karateklubb**
@@ -56214,9 +77249,13 @@ Nummer: 12773
     123 313 91 02
 
 
+
+
 **Åkersberga Lastbilcentral**
 
     123 677 87 99
+
+
 
 
 **Åkersberga SK**
@@ -56224,9 +77263,13 @@ Nummer: 12773
     123 672 01 63
 
 
+
+
 **Åkersberga Trädgårdssällskap**
 
     123 346 67 78
+
+
 
 
 **Åkersjöns Snöskoterklubb**
@@ -56234,9 +77277,13 @@ Nummer: 12773
     123 345 78 01
 
 
+
+
 **Ålems Skytteförening**
 
     123 427 15 24
+
+
 
 
 **Ålleberg Cafe och Lunchrestaurang**
@@ -56244,9 +77291,13 @@ Nummer: 12773
     123 649 70 51
 
 
+
+
 **Åmbergs Allaktivitetshus**
 
     123 580 14 93
+
+
 
 
 **Åmotfors Folketshus**
@@ -56254,9 +77305,13 @@ Nummer: 12773
     123 449 04 21
 
 
+
+
 **Åmots Fiskevårdsområdesförening**
 
     123 576 40 71
+
+
 
 
 **Åmots SK - Skidor**
@@ -56264,9 +77319,13 @@ Nummer: 12773
     123 589 33 59
 
 
+
+
 **Åmåls Brukshundsklubb**
 
     123 644 42 10
+
+
 
 
 **Åmåls Församling**
@@ -56276,9 +77335,13 @@ Nummer: 12773
     123 621 66 00 - Övrigt
 
 
+
+
 **Åmåls IBK**
 
     123 147 49 72
+
+
 
 
 **Åmåls Kommun**
@@ -56286,9 +77349,13 @@ Nummer: 12773
     123 357 52 63
 
 
+
+
 **Åmåls Nya Tennisklubb**
 
     123 690 12 68
+
+
 
 
 **Åmåls OK**
@@ -56296,9 +77363,13 @@ Nummer: 12773
     123 440 69 97
 
 
+
+
 **Åmåls Ridklubb**
 
     123 680 55 35
+
+
 
 
 **Åmåls Simsällskap**
@@ -56306,9 +77377,13 @@ Nummer: 12773
     123 690 50 20
 
 
+
+
 **Åmåls SK**
 
     123 588 40 10
+
+
 
 
 **Ångbåtssällskapet Polstjärnan**
@@ -56316,9 +77391,13 @@ Nummer: 12773
     123 535 09 47
 
 
+
+
 **Ånge Discgolfklubb**
 
     123 502 51 68
+
+
 
 
 **Ånge IF**
@@ -56326,9 +77405,13 @@ Nummer: 12773
     123 539 90 92
 
 
+
+
 **Ångestförbundet ÅSS**
 
     123 277 17 07
+
+
 
 
 **Ångslupen Munter**
@@ -56336,9 +77419,13 @@ Nummer: 12773
     123 346 73 70
 
 
+
+
 **Årbols skolmuseum**
 
     123 376 41 72
+
+
 
 
 **Åre/Duved Scoutkår**
@@ -56346,9 +77433,13 @@ Nummer: 12773
     123 379 49 30
 
 
+
+
 **Åre Församling**
 
     123 662 46 54
+
+
 
 
 **Åre Golfklubb**
@@ -56356,14 +77447,20 @@ Nummer: 12773
     123 652 55 70
 
 
+
+
 **Åre Konstförening**
 
     123 148 44 50
 
 
+
+
 **Åre Lighthouse**
 
     123 287 26 95
+
+
 
 
 **Åre Ridklubb**
@@ -56377,11 +77474,15 @@ Nummer: 12773
     123 644 35 76 - Tävlingssektionen
 
 
+
+
 **Åre Slalomklubb**
 
     123 254 93 76 - Fotbollssektionen
 
     123 609 55 09 - Alpint
+
+
 
 
 **Årjängs Golfklubb**
@@ -56391,9 +77492,13 @@ Nummer: 12773
     123 650 72 06
 
 
+
+
 **Årjängs IF**
 
     123 434 30 59
+
+
 
 
 **Årjängs MK**
@@ -56401,9 +77506,13 @@ Nummer: 12773
     123 083 42 91
 
 
+
+
 **Årjängs SLK**
 
     123 069 58 74
+
+
 
 
 **Årnäs Båtklubb, ÅBK**
@@ -56411,9 +77520,13 @@ Nummer: 12773
     123 084 67 66
 
 
+
+
 **Årstadals Båtklubb**
 
     123 525 21 50
+
+
 
 
 **Årsunda IF**
@@ -56421,9 +77534,13 @@ Nummer: 12773
     123 087 93 79
 
 
+
+
 **Årås Kvarn Bygdegårdsförening**
 
     123 155 76 10
+
+
 
 
 **Ås Båtklubb**
@@ -56431,9 +77548,13 @@ Nummer: 12773
     123 370 89 97
 
 
+
+
 **Åsa Kjellsdotter Nilsson**
 
     123 264 93 90
+
+
 
 
 **Åsa Löfströms terapi, handledning och konsultation AB**
@@ -56441,9 +77562,13 @@ Nummer: 12773
     123 614 66 82
 
 
+
+
 **Åsarps Församling**
 
     123 540 79 29
+
+
 
 
 **Åsbo Ryttarförening**
@@ -56451,9 +77576,13 @@ Nummer: 12773
     123 640 93 04
 
 
+
+
 **Åsbygdens RF**
 
     123 441 97 92
+
+
 
 
 **Åsebro IF**
@@ -56461,9 +77590,13 @@ Nummer: 12773
     123 197 94 75
 
 
+
+
 **Åseda Hembygdsförening**
 
     123 037 63 76
+
+
 
 
 **Åseda-Lenhovda Brukshundsklubb**
@@ -56471,9 +77604,13 @@ Nummer: 12773
     123 677 93 83
 
 
+
+
 **Åseda Ryttarförening - Ridsport**
 
     123 550 32 22
+
+
 
 
 **Åsele Brukshundklubb**
@@ -56481,9 +77618,13 @@ Nummer: 12773
     123 021 94 93
 
 
+
+
 **Åsele Hembygdsförening**
 
     123 614 87 46
+
+
 
 
 **Åsele Nappet/ÅIK**
@@ -56491,9 +77632,13 @@ Nummer: 12773
     123 105 94 43
 
 
+
+
 **Åsele Nya Golfklubb**
 
     123 553 23 04
+
+
 
 
 **Åsenhöga Hembygdsförening**
@@ -56501,9 +77646,13 @@ Nummer: 12773
     123 179 09 06
 
 
+
+
 **Åstols Samhällsförening**
 
     123 173 03 57
+
+
 
 
 **Åstols Trädgårdsförening**
@@ -56511,14 +77660,20 @@ Nummer: 12773
     123 681 25 64
 
 
+
+
 **Åstorps Cykelklubb**
 
     123 259 26 40
 
 
+
+
 **Åstorps FF**
 
     123 031 06 31
+
+
 
 
 **Åstorpsortens RF - Ridsport**
@@ -56528,9 +77683,13 @@ Nummer: 12773
     123 440 77 48 - Träning
 
 
+
+
 **Åsundens Församling**
 
     123 639 60 14
+
+
 
 
 **Åsundens Simsällskap**
@@ -56538,9 +77697,13 @@ Nummer: 12773
     123 303 46 42
 
 
+
+
 **Åsätra MK**
 
     123 541 23 09
+
+
 
 
 **Återställ Våtmarker / Våtmarkernas Stödförening**
@@ -56548,9 +77711,13 @@ Nummer: 12773
     123 066 34 43
 
 
+
+
 **Åtorps IF**
 
     123 340 72 28
+
+
 
 
 **Åträsk Bygdeförening**
@@ -56558,14 +77725,20 @@ Nummer: 12773
     123 459 48 83
 
 
+
+
 **Åttonde Decemberföreningen**
 
     123 152 83 71
 
 
+
+
 **Åtvidabergs Bågskytteklubb**
 
     123 031 63 15
+
+
 
 
 **Åtvidabergs FF**
@@ -56575,9 +77748,13 @@ Nummer: 12773
     123 282 54 87
 
 
+
+
 **Åtvidabergs Frikyrkoförsamling**
 
     123 180 56 39
+
+
 
 
 **Åtvidabergs GK**
@@ -56585,9 +77762,13 @@ Nummer: 12773
     123 427 26 70
 
 
+
+
 **Åtvidabergs Golfklubb**
 
     123 146 01 79
+
+
 
 
 **Åtvidabergs Hundklubb**
@@ -56595,9 +77776,13 @@ Nummer: 12773
     123 224 44 65
 
 
+
+
 **Åtvidabergs MCK**
 
     123 575 00 05
+
+
 
 
 **Åtvids Församling**
@@ -56609,6 +77794,8 @@ Nummer: 12773
 
 
 
+
+
 ## Ö
 
 **Öckerö Hembygdsförening**
@@ -56616,14 +77803,20 @@ Nummer: 12773
     123 335 13 35
 
 
+
+
 **Öckerö Skytteförening**
 
     123 075 91 83
 
 
+
+
 **Ödenäs IF**
 
     123 608 51 20
+
+
 
 
 **Ödeshögs Baptistförsamling**
@@ -56633,9 +77826,13 @@ Nummer: 12773
     123 664 21 02
 
 
+
+
 **Ödeshögs Församling**
 
     123 122 72 97
+
+
 
 
 **Ödeshögs Idrottsklubb**
@@ -56643,9 +77840,13 @@ Nummer: 12773
     123 666 18 70 - Klas Ingessons Minnescup
 
 
+
+
 **Ödeshögs Kenneklubb**
 
     123 384 16 57
+
+
 
 
 **Ödeshögs Kennelklubb**
@@ -56653,9 +77854,13 @@ Nummer: 12773
     123 658 18 88
 
 
+
+
 **Ödeshögs Skidklubb**
 
     123 280 06 70
+
+
 
 
 **Ödeshögs TK**
@@ -56663,9 +77868,13 @@ Nummer: 12773
     123 577 32 96
 
 
+
+
 **Ödskölt Fiber**
 
     123 188 36 77
+
+
 
 
 **Ödskölts Bygdegårdsförening**
@@ -56673,9 +77882,13 @@ Nummer: 12773
     123 036 56 50
 
 
+
+
 **Ödsmåls Bygdegård**
 
     123 311 58 47
+
+
 
 
 **Ödsmåls Församling**
@@ -56683,9 +77896,13 @@ Nummer: 12773
     123 468 70 67 - Kollekt
 
 
+
+
 **Ödsmåls IK**
 
     123 172 13 23
+
+
 
 
 **Ödåkra IF**
@@ -56695,9 +77912,13 @@ Nummer: 12773
     123 288 52 18
 
 
+
+
 **Ödåkra Tennisklubb**
 
     123 037 05 77
+
+
 
 
 **ÖGK Kultur & Fritid**
@@ -56705,9 +77926,13 @@ Nummer: 12773
     123 677 62 80
 
 
+
+
 **Ögonfonden/Stiftelsen Synfrämjandets Forskningsfond**
 
     123 900 72 20
+
+
 
 
 **Öijared Resort**
@@ -56715,9 +77940,13 @@ Nummer: 12773
     123 471 11 98
 
 
+
+
 **ÖIS Handboll**
 
     123 608 52 03
+
+
 
 
 **ÖIS Supporterklubb Balders Hage**
@@ -56725,9 +77954,13 @@ Nummer: 12773
     123 274 50 16
 
 
+
+
 **Öjeby AK**
 
     123 213 47 32
+
+
 
 
 **Öjebyns IBF**
@@ -56771,9 +78004,13 @@ Nummer: 12773
     123 660 17 85 - P15
 
 
+
+
 **Ölands Golfklubb**
 
     123 589 35 65
+
+
 
 
 **Ölands Kulturminnesförening**
@@ -56781,9 +78018,13 @@ Nummer: 12773
     123 189 28 19
 
 
+
+
 **Ölands Radioamatörer, SK7RN**
 
     123 232 48 61
+
+
 
 
 **Ölands Ryttarförening**
@@ -56791,9 +78032,13 @@ Nummer: 12773
     123 199 36 17
 
 
+
+
 **Ölands Simklubb**
 
     123 081 04 73
+
+
 
 
 **Ölands Skördefest AB**
@@ -56801,14 +78046,20 @@ Nummer: 12773
     123 222 02 67
 
 
+
+
 **Ölme Församling**
 
     123 147 75 46
 
 
+
+
 **Ölme Hembygdsförening**
 
     123 355 31 12
+
+
 
 
 **Ölmstad IS**
@@ -56818,6 +78069,8 @@ Nummer: 12773
     123 147 61 42
 
 
+
+
 **Ölmstad Rid- & Körsällskap**
 
     123 029 50 14 - Café
@@ -56825,9 +78078,13 @@ Nummer: 12773
     123 510 91 03
 
 
+
+
 **Ölsta Folketshus & park**
 
     123 551 64 30
+
+
 
 
 **Öna Bygdegårdsförening**
@@ -56835,9 +78092,13 @@ Nummer: 12773
     123 388 62 31
 
 
+
+
 **Önneköps IF**
 
     123 350 17 23
+
+
 
 
 **Önnereds Båtlag**
@@ -56845,14 +78106,20 @@ Nummer: 12773
     123 032 58 60
 
 
+
+
 **Önskeambulansen**
 
     123 389 48 13
 
 
+
+
 **Önskestjärnan**
 
     123 110 25 08
+
+
 
 
 **Önsta-Gryta Kyrka**
@@ -56866,9 +78133,13 @@ Nummer: 12773
     123 694 20 15 - Husmor
 
 
+
+
 **Öppet Hus**
 
     123 238 73 89
+
+
 
 
 **Örbyhus Golfklubb**
@@ -56876,9 +78147,13 @@ Nummer: 12773
     123 253 45 27
 
 
+
+
 **Örbyhus Idrottsförening**
 
     123 240 41 19
+
+
 
 
 **Öre-Långsele Fiskevårdsförening**
@@ -56886,9 +78161,13 @@ Nummer: 12773
     123 471 73 44
 
 
+
+
 **Örebro Black Knights**
 
     123 268 16 09
+
+
 
 
 **Örebro Boulesällskap**
@@ -56896,9 +78175,13 @@ Nummer: 12773
     123 467 60 60
 
 
+
+
 **Örebro Brukshundklubb**
 
     123 388 42 93
+
+
 
 
 **Örebro City Golf & CC**
@@ -56906,14 +78189,20 @@ Nummer: 12773
     123 167 95 05 - Greenfee Pay & Playbanan
 
 
+
+
 **Örebro City Golf & CC**
 
     123 049 77 92
 
 
+
+
 **Örebro Dövas Ungdomsklubb**
 
     123 528 46 82
+
+
 
 
 **Örebro Fältrittklubb**
@@ -56925,6 +78214,8 @@ Nummer: 12773
     123 544 34 29 - Tävling
 
 
+
+
 **Örebro Hockey Ungdom**
 
     123 120 93 78
@@ -56932,9 +78223,13 @@ Nummer: 12773
     123 544 46 58 - Team 08
 
 
+
+
 **Örebro Hundkapplöpningsklubb**
 
     123 183 80 77
+
+
 
 
 **Örebro Hundsällskap Brukshundklubb**
@@ -56942,9 +78237,13 @@ Nummer: 12773
     123 231 89 05
 
 
+
+
 **Örebro Jazz & Beyond**
 
     123 617 89 90
+
+
 
 
 **Örebro Karateförening**
@@ -56952,9 +78251,13 @@ Nummer: 12773
     123 091 59 83
 
 
+
+
 **Örebro Katthem**
 
     123 082 21 55
+
+
 
 
 **Örebro Klätterklubb**
@@ -56962,9 +78265,13 @@ Nummer: 12773
     123 609 63 33
 
 
+
+
 **Örebro Konståkningsklubb**
 
     123 187 11 85
+
+
 
 
 **Örebro Läns Idrottshistoriska**
@@ -56972,9 +78279,13 @@ Nummer: 12773
     123 232 67 59
 
 
+
+
 **Örebro Läns Kennelklubb**
 
     123 029 51 05
+
+
 
 
 **Örebro Läns Strokeförening, ÖLS**
@@ -56982,9 +78293,13 @@ Nummer: 12773
     123 353 42 86
 
 
+
+
 **Örebro Rättighetscenter**
 
     123 514 83 66
+
+
 
 
 **Örebro Scoutkår**
@@ -56992,9 +78307,13 @@ Nummer: 12773
     123 232 51 16
 
 
+
+
 **Örebro Simallians**
 
     123 468 95 19
+
+
 
 
 **Örebro Sjundedags Adventistförsamling**
@@ -57002,14 +78321,20 @@ Nummer: 12773
     123 535 08 71
 
 
+
+
 **Örebro SK Futsal**
 
     123 420 56 21
 
 
+
+
 **Örebro SK Handboll Dam**
 
     123 636 79 81
+
+
 
 
 **Örebro SK Ungdom**
@@ -57047,14 +78372,20 @@ Nummer: 12773
     123 680 32 41 - F07
 
 
+
+
 **Örebro Sportklubb 10-årsförening**
 
     123 172 41 37
 
 
+
+
 **Örebro Stadsmission**
 
     123 900 53 15
+
+
 
 
 **Örebro Syrianska IF Ungdom**
@@ -57070,9 +78401,13 @@ Nummer: 12773
     123 635 84 02 - P2012
 
 
+
+
 **Örebro Tifo**
 
     123 459 41 56
+
+
 
 
 **Örebro tjejjour**
@@ -57080,9 +78415,13 @@ Nummer: 12773
     123 351 59 13
 
 
+
+
 **Örebro Volleyboll Sällskap**
 
     123 445 20 82
+
+
 
 
 **Örebrocyklisterna**
@@ -57090,9 +78429,13 @@ Nummer: 12773
     123 690 11 28
 
 
+
+
 **Öredalens IK**
 
     123 087 80 90
+
+
 
 
 **Öregrunds Bygdegårdsförening Societetshuset**
@@ -57100,9 +78443,13 @@ Nummer: 12773
     123 225 96 12
 
 
+
+
 **Öregrunds Båtklubb**
 
     123 098 79 25
+
+
 
 
 **Öregrunds Hembygdsförening**
@@ -57110,9 +78457,13 @@ Nummer: 12773
     123 670 11 71
 
 
+
+
 **Öregrunds Idrottsklubb**
 
     123 116 69 09
+
+
 
 
 **Öresunds Golf / Nya Öresundsgolf i Häljarp AB**
@@ -57120,9 +78471,13 @@ Nummer: 12773
     123 090 45 08
 
 
+
+
 **ÖresundsLimmud Sverige**
 
     123 047 02 37
+
+
 
 
 **Örgryte Pastorat**
@@ -57134,9 +78489,13 @@ Nummer: 12773
     123 595 34 19 - kollekt Skårs kyrka
 
 
+
+
 **Örgryteföreningen**
 
     123 129 80 33
+
+
 
 
 **Örkelljunga Brukshundklubb**
@@ -57144,9 +78503,13 @@ Nummer: 12773
     123 345 55 08
 
 
+
+
 **Örkelljunga Karateklubb**
 
     123 547 90 01
+
+
 
 
 **Örkelljunga Outdoor**
@@ -57154,9 +78517,13 @@ Nummer: 12773
     123 641 51 78
 
 
+
+
 **Örkelljunga Padel**
 
     123 684 36 68
+
+
 
 
 **Örkelljunga VK**
@@ -57164,9 +78531,13 @@ Nummer: 12773
     123 196 35 03
 
 
+
+
 **Örnsbergs Scoutkår**
 
     123 419 53 19
+
+
 
 
 **Örnsköldsvik Hockey**
@@ -57174,9 +78545,13 @@ Nummer: 12773
     123 181 31 95
 
 
+
+
 **Örnsköldsviks Biodlarförening**
 
     123 503 08 20
+
+
 
 
 **Örnsköldsviks Brukshundsklubb**
@@ -57184,9 +78559,13 @@ Nummer: 12773
     123 596 89 53
 
 
+
+
 **Örnsköldsviks Goju Ryu Karateklubb**
 
     123 651 77 67
+
+
 
 
 **Örnsköldsviks Jaktskytteklubb**
@@ -57194,9 +78573,13 @@ Nummer: 12773
     123 189 75 86
 
 
+
+
 **Örnsköldsviks JJC**
 
     123 105 99 55
+
+
 
 
 **Örnsköldsviks Kommun**
@@ -57206,9 +78589,13 @@ Nummer: 12773
     123 481 95 87 - Avgift bad
 
 
+
+
 **Örnsköldsviks MC Club, ÖMCC**
 
     123 420 36 83
+
+
 
 
 **Örnsköldsviks MK Folkrace**
@@ -57216,9 +78603,13 @@ Nummer: 12773
     123 113 44 28
 
 
+
+
 **Örnsköldsviks Musiksällskap**
 
     123 238 60 43
+
+
 
 
 **Örnsköldsviks södra Pastorat**
@@ -57228,6 +78619,8 @@ Nummer: 12773
     123 698 85 05
 
 
+
+
 **Örnsköldsviksortens RK**
 
     123 510 09 95 - Tävlingssektionen
@@ -57235,9 +78628,13 @@ Nummer: 12773
     123 592 20 91
 
 
+
+
 **Örs Bygdegårdsförening**
 
     123 469 99 06
+
+
 
 
 **Örserums Idrottsklubb**
@@ -57245,9 +78642,13 @@ Nummer: 12773
     123 198 43 92
 
 
+
+
 **Örsjö Bygdegårdsförening**
 
     123 695 42 91
+
+
 
 
 **Örsjö Idrottsförening**
@@ -57255,9 +78656,13 @@ Nummer: 12773
     123 024 16 04
 
 
+
+
 **Örsundsbro Skytteförening**
 
     123 616 04 28
+
+
 
 
 **Örsås Byalag**
@@ -57265,9 +78670,13 @@ Nummer: 12773
     123 691 70 90
 
 
+
+
 **Örtofta Scoutkår**
 
     123 314 94 99
+
+
 
 
 **Örtomta Hembygdsförening**
@@ -57275,9 +78684,13 @@ Nummer: 12773
     123 172 40 38
 
 
+
+
 **Örträskbygdens Intresse- & Hembygdsförening**
 
     123 666 00 88
+
+
 
 
 **Ösmo Torö Församling**
@@ -57289,9 +78702,13 @@ Nummer: 12773
     123 350 25 56 - Internationella gruppen
 
 
+
+
 **Ösmo Villaägarförening**
 
     123 543 24 48
+
+
 
 
 **Össeby-Garns Skytteförening**
@@ -57299,9 +78716,13 @@ Nummer: 12773
     123 562 17 50
 
 
+
+
 **Össjö Hästsällskap**
 
     123 074 86 08
+
+
 
 
 **Össjö Skytteförening**
@@ -57309,9 +78730,13 @@ Nummer: 12773
     123 486 97 56
 
 
+
+
 **Östadkulle SK**
 
     123 652 60 24
+
+
 
 
 **Östavalls IF**
@@ -57319,14 +78744,20 @@ Nummer: 12773
     123 465 38 95
 
 
+
+
 **Österby Bygdegård**
 
     123 132 48 21
 
 
+
+
 **Österfärnebo Hembygdsförening**
 
     123 224 28 08
+
+
 
 
 **Österfärnebo IF**
@@ -57336,9 +78767,13 @@ Nummer: 12773
     123 238 46 83 - Orientering
 
 
+
+
 **Österfärnebo RS - Ridsport**
 
     123 695 94 31
+
+
 
 
 **Östergarns Bygdegård**
@@ -57346,9 +78781,13 @@ Nummer: 12773
     123 291 98 01
 
 
+
+
 **Östergrändens Bygdegårdsförening**
 
     123 378 59 12
+
+
 
 
 **Östergötland i Bilder / Mattias Brauns**
@@ -57356,9 +78795,13 @@ Nummer: 12773
     123 575 27 38
 
 
+
+
 **Östergötlands Fjordhästförening**
 
     123 115 47 64
+
+
 
 
 **Östergötlands Hembygdsförbund**
@@ -57366,9 +78809,13 @@ Nummer: 12773
     123 125 69 99
 
 
+
+
 **Östergötlands Sjukhusclowner**
 
     123 305 90 60
+
+
 
 
 **Östergötlands Stadsmission**
@@ -57376,9 +78823,13 @@ Nummer: 12773
     123 900 87 80
 
 
+
+
 **Östergötlands Stövareklubb, ÖGSK**
 
     123 215 85 09
+
+
 
 
 **Östergötlands Taxklubb**
@@ -57386,14 +78837,20 @@ Nummer: 12773
     123 048 57 30
 
 
+
+
 **Österhaninge IF**
 
     123 085 12 12
 
 
+
+
 **Österhaninge Skytteförening**
 
     123 605 57 43
+
+
 
 
 **Österledskyrkan i Gamla Uppsala**
@@ -57405,9 +78862,13 @@ Nummer: 12773
     123 680 82 99 - Barn- och Ungdomsverksamheten
 
 
+
+
 **Österlen FF**
 
     123 159 00 74
+
+
 
 
 **Österlens Ridklubb**
@@ -57415,9 +78876,13 @@ Nummer: 12773
     123 472 61 96
 
 
+
+
 **Österlövsta FF**
 
     123 092 67 82
+
+
 
 
 **Östermalmskyrkans Församling**
@@ -57429,9 +78894,13 @@ Nummer: 12773
     123 244 15 41 - Café
 
 
+
+
 **Östers IF**
 
     123 084 58 91
+
+
 
 
 **Östersund-Frösö Ridklubb**
@@ -57439,9 +78908,13 @@ Nummer: 12773
     123 269 69 53
 
 
+
+
 **Östersund Volleyboll**
 
     123 513 86 31
+
+
 
 
 **Östersunds Bouleklubb**
@@ -57449,9 +78922,13 @@ Nummer: 12773
     123 400 22 91
 
 
+
+
 **Östersunds Brukshundklubb**
 
     123 047 45 69
+
+
 
 
 **Östersunds Bugg o Rock’n’Roll Klubb**
@@ -57459,9 +78936,13 @@ Nummer: 12773
     123 249 51 33
 
 
+
+
 **Östersunds Fallskärmsklubb**
 
     123 449 07 10
+
+
 
 
 **Östersunds FK**
@@ -57469,9 +78950,13 @@ Nummer: 12773
     123 515 03 05
 
 
+
+
 **Östersunds GF**
 
     123 574 98 09
+
+
 
 
 **Östersunds GIF**
@@ -57479,9 +78964,13 @@ Nummer: 12773
     123 607 15 18
 
 
+
+
 **Östersunds IK - Ishockey**
 
     123 657 10 38
+
+
 
 
 **Östersunds Jaktskytteklubb**
@@ -57489,9 +78978,13 @@ Nummer: 12773
     123 172 14 06
 
 
+
+
 **Östersunds konståkningsförening**
 
     123 489 87 97
+
+
 
 
 **Östersunds OK**
@@ -57499,9 +78992,13 @@ Nummer: 12773
     123 172 12 08
 
 
+
+
 **Östersunds Scoutkår**
 
     123 374 98 43
+
+
 
 
 **Östersundsgymnasterna**
@@ -57509,9 +79006,13 @@ Nummer: 12773
     123 091 65 85
 
 
+
+
 **Österviks Kapell**
 
     123 608 60 86
+
+
 
 
 **Östervärns Express AB**
@@ -57519,9 +79020,13 @@ Nummer: 12773
     123 635 98 71
 
 
+
+
 **Östervåla Hembygdsförening**
 
     123 238 44 36
+
+
 
 
 **Österängs Bygdegårdsförening**
@@ -57529,9 +79034,13 @@ Nummer: 12773
     123 440 39 37
 
 
+
+
 **Österåkers Brukshundsklubb**
 
     123 399 61 13
+
+
 
 
 **Österåkers Hembygds- och fornminnesförening**
@@ -57539,9 +79048,13 @@ Nummer: 12773
     123 097 37 19
 
 
+
+
 **Österåkers Idrottssällskap (ÖIS)**
 
     123 019 30 45
+
+
 
 
 **Österåkers Konsthall på Länsmansgården / Österåkers Konstförening**
@@ -57549,9 +79062,13 @@ Nummer: 12773
     123 047 09 71
 
 
+
+
 **Österåkers Sportfiskeklubb**
 
     123 465 34 32
+
+
 
 
 **Östgruppen**
@@ -57559,9 +79076,13 @@ Nummer: 12773
     123 219 28 96
 
 
+
+
 **Östgöta Nation**
 
     123 202 85 53
+
+
 
 
 **Östgöta SaabKlubb**
@@ -57569,9 +79090,13 @@ Nummer: 12773
     123 595 46 23
 
 
+
+
 **Östgötafolk**
 
     123 590 49 25
+
+
 
 
 **Östhammar Friidrott**
@@ -57579,9 +79104,13 @@ Nummer: 12773
     123 551 52 34
 
 
+
+
 **Östhammars Shotokan Karateklubb**
 
     123 414 27 09
+
+
 
 
 **Östhammars SK**
@@ -57589,9 +79118,13 @@ Nummer: 12773
     123 284 98 59
 
 
+
+
 **Östhjälpen**
 
     123 551 01 02
+
+
 
 
 **Östra Almby FK**
@@ -57601,9 +79134,13 @@ Nummer: 12773
     123 697 82 66 - Team P2011/2012
 
 
+
+
 **Östra Frölunda-Mårdaklev FVO**
 
     123 166 67 91
+
+
 
 
 **Östra Göinge Ryttarförening**
@@ -57611,9 +79148,13 @@ Nummer: 12773
     123 576 07 80
 
 
+
+
 **Östra Härjedalens Brukshundsklubb**
 
     123 563 92 99
+
+
 
 
 **Östra Karups Bygdegård**
@@ -57621,14 +79162,20 @@ Nummer: 12773
     123 345 56 80
 
 
+
+
 **Östra Klubbvikens Samfällighetsförening**
 
     123 621 81 50
 
 
+
+
 **Östra Ljungby Bygdegårdsförening**
 
     123 441 98 83
+
+
 
 
 **Östra Ryds Församling**
@@ -57642,14 +79189,20 @@ Nummer: 12773
     123 464 24 76 - Vuxenverksamhet
 
 
+
+
 **Östra Ryds IF**
 
     123 577 36 43
 
 
+
+
 **Östra Sallerups Byggdegårdsförening**
 
     123 224 18 42
+
+
 
 
 **Östra SK Jönköping**
@@ -57665,9 +79218,13 @@ Nummer: 12773
     123 682 78 51 - Marknad
 
 
+
+
 **Östra Stadsgränsen TK**
 
     123 255 60 66
+
+
 
 
 **Östra Stå**
@@ -57675,9 +79232,13 @@ Nummer: 12773
     123 552 70 31
 
 
+
+
 **Östra Sörmlands Jaktskytteklubb**
 
     123 646 71 04
+
+
 
 
 **Östra Tommarps Bygdegårdsförening**
@@ -57685,9 +79246,13 @@ Nummer: 12773
     123 279 74 96
 
 
+
+
 **Östra Örträsk Jaktvårdsområde**
 
     123 449 03 30
+
+
 
 
 **ÖSU - Örnsköldsviks SeniorUniversitet**
@@ -57695,9 +79260,13 @@ Nummer: 12773
     123 589 13 38
 
 
+
+
 **Öveds Jakt & Fältrittklubb**
 
     123 601 04 66
+
+
 
 
 **Över-Enhörna Bygdegårdsförening**
@@ -57705,9 +79274,13 @@ Nummer: 12773
     123 069 13 86
 
 
+
+
 **Överby Hästsportförening**
 
     123 565 52 12 - Ungdomssektionen
+
+
 
 
 **Överby Ridskola**
@@ -57715,14 +79288,20 @@ Nummer: 12773
     123 369 99 31
 
 
+
+
 **Överjärna Församling**
 
     123 037 92 71 - Kollekt
 
 
+
+
 **Överkalix FF**
 
     123 111 99 73
+
+
 
 
 **Överkalix IF**
@@ -57734,9 +79313,13 @@ Nummer: 12773
     123 504 85 25 - P 10-11-12
 
 
+
+
 **Överkalix Kommun**
 
     123 328 45 77 - Cafeteria
+
+
 
 
 **Överlida Byalag**
@@ -57744,9 +79327,13 @@ Nummer: 12773
     123 137 83 63 - Tennisbanan
 
 
+
+
 **Övertorneå Församling**
 
     123 158 49 45
+
+
 
 
 **Övertorneå församlings vänner**
@@ -57754,9 +79341,13 @@ Nummer: 12773
     123 194 18 63
 
 
+
+
 **Övik Beachvolley Club**
 
     123 283 25 74
+
+
 
 
 **Övre Jumkil Bygdegårdsförening**
@@ -57764,9 +79355,13 @@ Nummer: 12773
     123 584 31 07
 
 
+
+
 **Övre Norrlands Taxklubb, ÖNTK**
 
     123 395 72 55
+
+
 
 
 **Övsjö Bygdegårdsförening**
@@ -57774,12 +79369,18 @@ Nummer: 12773
     123 368 07 25
 
 
+
+
 **Öxabäcks Fiskevårdsområdesförening**
 
     123 314 34 92
 
 
+
+
 **Öxabäcks Församling**
 
     123 126 76 73 - Kollekt
+
+
 
