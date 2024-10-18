@@ -156,6 +156,23 @@ def testIsValidEntry(data):
   result = False
   if re.search(r"^123(\d{7})$", str(data), flags=re.IGNORECASE):
     result = True
+
+  # Only test if prefixed correctly
+  if result == True:
+    # Test if
+    # 123[000 .. 699] and 123[900 .. 999]
+    if re.search(r"^123([0-69]{1})([0-9]{6})$", str(data), flags=re.IGNORECASE):
+      # Only 123[900 .. 909] are valid
+      if re.search(r"^1239", str(data), flags=re.IGNORECASE):
+        if re.search(r"^12390", str(data), flags=re.IGNORECASE):
+          result = True
+        else:
+          result = False
+          #print(f"'{data}' was malformed")
+    else:
+      result = False
+      #print(f"'{data}' was malformed")
+
   return result
 
 def testIsEntryNumber(data):
@@ -179,6 +196,7 @@ def testEntries(entries):
 
   result = {
     'malformed-vo': [],
+    'malformed-entry': [],
     'malformed-orgName': [],
     'malformed-orgName-uppercase': [],
     'malformed-orgName-lowercase': [],
@@ -194,6 +212,12 @@ def testEntries(entries):
   if entries != None:
     if "entries" in entries:
       for entryVO in entries['entries']:
+
+        # skip out early - invalid entry
+        if testIsValidEntry(entryVO['entry']) == False:
+          result['malformed-entry'].append(entryVO)
+          #print(f"Logged '{entryVO['entry']}'")
+          continue
 
         # Skip out early - invalid entry
         if testIsEntryNumber(entryVO['entry']) == False:
@@ -309,7 +333,8 @@ def main():
 
   result = testEntries(entries)
 
-  renderYAMLfromResult(result)
+  if result != None:
+    renderYAMLfromResult(result)
 
   #print(result)
 
