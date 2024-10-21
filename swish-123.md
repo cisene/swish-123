@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-18-rev-200238
+Revision: 2024-10-21-rev-140237
 
-Nummer: 12854
+Nummer: 12902
 
 
 
@@ -425,7 +425,7 @@ Nummer: 12854
 
 **Adventkyrkan i Malmö**
 
-    123 526 66 97
+    123 526 66 97 - Kollekter, Gåvor, tionde och andra initiativ
 
 
 
@@ -1099,7 +1099,7 @@ Nummer: 12854
 
     123 071 33 47 - Minnesgåvor
 
-    123 535 81 97
+    123 535 81 97 - Kollekt, Gåva
 
 
 
@@ -1107,6 +1107,13 @@ Nummer: 12854
 **Alfvéngårdens vänner**
 
     123 386 90 54
+
+
+
+
+**Algutstorps Församling**
+
+    123 651 70 64 - Kollekt
 
 
 
@@ -1551,6 +1558,29 @@ Nummer: 12854
 **Alvastraryttarna Föreningen - Ridsport**
 
     123 580 88 52
+
+
+
+
+**Alvesta Församling**
+
+    123 023 03 75 - Alvesta kyrka
+
+    123 170 66 39 - Skogskyrkan
+
+    123 267 84 98 - Kyrkan Mitt i Byn
+
+    123 275 38 46 - Diakoni
+
+    123 371 84 42 - Lekaryds kyrka
+
+    123 465 71 10 - Härlövs kyrka
+
+    123 641 66 22 - Församlingshemmet
+
+    123 664 18 49 - Kvenneberga kapell
+
+    123 675 52 76 - Biljetter och diverse
 
 
 
@@ -2689,6 +2719,13 @@ Nummer: 12854
 **Askims Sjöscoutkår**
 
     123 137 85 87
+
+
+
+
+**Asklanda Församling**
+
+    123 202 00 89 - Kollekt
 
 
 
@@ -8137,6 +8174,13 @@ Nummer: 12854
 
 
 
+**Burs Pastorat**
+
+    123 321 37 17 - Kollekt
+
+
+
+
 **Burseryds Församling**
 
     123 464 39 79 - Kollekt
@@ -9090,6 +9134,13 @@ Nummer: 12854
 **Centrumkyrkans församling i Norrköping**
 
     123 219 60 38
+
+
+
+
+**Centrumkyrkans Församling Säffle**
+
+    123 338 40 39
 
 
 
@@ -11889,7 +11940,7 @@ Nummer: 12854
 
 **Eds Församling**
 
-    123 067 19 58
+    123 067 19 58 - Kollekt
 
 
 
@@ -17319,7 +17370,7 @@ Nummer: 12854
 
 **Färila-Kårböle Församling**
 
-    123 570 78 56
+    123 570 78 56 - Kollekt
 
 
 
@@ -19092,7 +19143,7 @@ Nummer: 12854
 
 **Förlösa-Kläckeberga Församling**
 
-    123 682 60 36
+    123 682 60 36 - Kollekt
 
 
 
@@ -24574,6 +24625,13 @@ Nummer: 12854
 
 
 
+**Hols Församling**
+
+    123 115 38 16 - Kollekt
+
+
+
+
 **Hols Hembygdsförening**
 
     123 306 08 60
@@ -25662,7 +25720,7 @@ Nummer: 12854
 
 **Hällstads Församling**
 
-    123 686 81 03
+    123 686 81 03 - Kollekt
 
 
 
@@ -26486,7 +26544,7 @@ Nummer: 12854
 
 **Hössna Församling**
 
-    123 158 38 30
+    123 158 38 30 - Kollekt
 
 
 
@@ -28060,6 +28118,17 @@ Nummer: 12854
 **Immanuelskyrkan i Örebro**
 
     123 199 39 55 - församlingsverksamheten
+
+
+
+
+**Immanuelskyrkans Församling**
+
+    123 184 98 43 - Annan verksamhet
+
+    123 189 13 08 - Internationella verksamheten
+
+    123 418 32 24 - Svenska verksamheten
 
 
 
@@ -30419,7 +30488,7 @@ Nummer: 12854
 
 **Järvsö Församling**
 
-    123 412 07 62
+    123 412 07 62 - Kollekt
 
 
 
@@ -31231,6 +31300,13 @@ Nummer: 12854
 **Karlskoga Enduroklubb**
 
     123 594 84 27
+
+
+
+
+**Karlskoga Församling**
+
+    123 570 26 42
 
 
 
@@ -33872,7 +33948,7 @@ Nummer: 12854
 
 **Kristus Konungens Katolska Församling**
 
-    123 047 49 81
+    123 047 49 81 - Kollekt eller gåva
 
 
 
@@ -36178,13 +36254,11 @@ Nummer: 12854
 
 **Lena Församling**
 
-    123 072 53 25
+    123 072 53 25 - Kollekt
 
     123 205 67 78
 
     123 269 50 47
-
-    123 651 70 64
 
 
 
@@ -37247,9 +37321,17 @@ Nummer: 12854
 
 
 
-**Linköpings domkyrkopastorat**
+**Linköpings Domkyrkopastorat**
+
+    123 149 82 86 - Kollekt S:t Hans kyrka
+
+    123 188 19 11 - Övrig gåva
+
+    123 281 66 27 - Kollekt Landeryds kyrka
 
     123 325 88 52
+
+    123 688 82 26 - Act Svenska kyrkan
 
 
 
@@ -38287,7 +38369,7 @@ Nummer: 12854
 
 **Ljusdal-Ramsjö Församling**
 
-    123 278 55 25
+    123 278 55 25 - Kollekt
 
 
 
@@ -38524,7 +38606,7 @@ Nummer: 12854
 
 **Los-Hamra Församling**
 
-    123 652 27 67
+    123 652 27 67 - Kollekt
 
 
 
@@ -44841,6 +44923,25 @@ Nummer: 12854
 
 
 
+**Nylöse Pastorat**
+
+    123 056 05 81 - Gåva
+
+    123 063 45 43 - Kollekt Hjällbo kyrka
+
+    123 104 25 97 - Kollekt Angereds kyrka och Bergums kyrka
+
+    123 211 13 42 - Kollekt Nylöse kyrka och Utby kyrka
+
+    123 313 21 56 - Kollekt Gunnareds kyrka
+
+    123 456 69 72 - Kollekt Allhelgonakyrkan i Kortedala
+
+    123 675 19 86 - Kollekt Bergsjöns kyrka
+
+
+
+
 **Nymans Trafikskola HB**
 
     123 257 06 87
@@ -45170,6 +45271,13 @@ Nummer: 12854
 **Nålbolaget Fahlgren AB**
 
     123 547 60 56
+
+
+
+
+**Nårunga Församling**
+
+    123 516 67 72 - Kollekt
 
 
 
@@ -49907,7 +50015,7 @@ Nummer: 12854
 
 **Redvägs Församling**
 
-    123 639 60 22
+    123 639 60 22 - Kollekt
 
 
 
@@ -52749,7 +52857,7 @@ Nummer: 12854
 
 **S:t Nikolai Katolska Församling**
 
-    123 075 23 03
+    123 075 23 03 - Kollekt
 
 
 
@@ -56440,7 +56548,7 @@ Nummer: 12854
 
 **Smyrnakyrkan Göteborg**
 
-    123 564 00 73
+    123 564 00 73 - Frihamnsgåvan
 
     123 588 16 44
 
@@ -65221,6 +65329,8 @@ Nummer: 12854
 
 **Söderköping S:t Anna Församling**
 
+    123 150 83 65 - Gåvor
+
     123 219 30 27 - Drothems kyrka
 
     123 275 33 66 - Mogata kyrka
@@ -65315,6 +65425,21 @@ Nummer: 12854
 **Södermanlands Regementes Officerares Kamratförening**
 
     123 069 85 22
+
+
+
+
+**Södermöre Pastorat**
+
+    123 017 20 80 - Kollekt Halltorp-Voxtorp
+
+    123 228 76 88 - Kollekt Arby-Hagby
+
+    123 458 06 76 - Kollekt Karlslunda-Mortorp
+
+    123 540 75 31 - Pilgrimsverksamhet
+
+    123 693 06 06 - Kollekt Ljungby
 
 
 
@@ -65610,7 +65735,7 @@ Nummer: 12854
 
 **Södra Vings Församling**
 
-    123 391 14 84
+    123 391 14 84 - Kollekt
 
 
 
@@ -68001,7 +68126,7 @@ Nummer: 12854
 
 **Timmele Församling**
 
-    123 306 16 37
+    123 306 16 37 - Kollekt
 
 
 
@@ -68316,6 +68441,13 @@ Nummer: 12854
 **To be continued**
 
     123 173 72 12
+
+
+
+
+**Toarps Församling**
+
+    123 436 05 25 - Diakonala Gåvokontot
 
 
 
@@ -70269,7 +70401,7 @@ Nummer: 12854
 
 **Ulricehamns Församling**
 
-    123 404 72 05
+    123 404 72 05 - Kollekt
 
 
 
@@ -70328,6 +70460,10 @@ Nummer: 12854
 
 
 **Ulricehamns Pastorat**
+
+    123 269 41 49
+
+    123 488 78 99 - Ungdomskonto
 
     123 568 52 68
 
@@ -74253,6 +74389,13 @@ Nummer: 12854
 
 
 
+**Västerleds Församling**
+
+    123 609 43 38 - Kollekt
+
+
+
+
 **Västerledskyrkans Församling**
 
     123 218 31 50
@@ -75198,6 +75341,19 @@ Nummer: 12854
 **Vårgårda IK**
 
     123 179 22 66
+
+
+
+
+**Vårgårda Pastorat**
+
+    123 056 61 33 - Act Svenska kyrkan
+
+    123 203 33 97 - Kollekt Centrumkyrkan
+
+    123 225 81 19 - Jul / Fastekampanj
+
+    123 589 77 07 - Fairtradevaror och bokbord
 
 
 
@@ -76623,6 +76779,21 @@ Nummer: 12854
 
 
 
+**Älvkarleby-Skutskärs Församling**
+
+    123 096 04 19 - Riks- och stiftskollekt
+
+    123 230 47 49 - Blomsterfonden
+
+    123 231 63 70 - Församlings kampanjer
+
+    123 453 89 48 - Övriga gåvor
+
+    123 676 35 77 - Församlingskollekt
+
+
+
+
 **Älvros Hembygdsförening**
 
     123 232 70 54
@@ -77599,7 +77770,7 @@ Nummer: 12854
 
 **Åsundens Församling**
 
-    123 639 60 14
+    123 639 60 14 - Kollekt
 
 
 
@@ -78398,7 +78569,7 @@ Nummer: 12854
 
     123 578 62 15 - Kollekt Örgryte Nya Kyrka
 
-    123 595 34 19 - kollekt Skårs kyrka
+    123 595 34 19 - Kollekt Skårs kyrka
 
 
 
