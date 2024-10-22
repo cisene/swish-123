@@ -16966,7 +16966,7 @@ entries:
   comment: null
   categories:
   - hembygdsförening
-  web: null
+  web: https://www.soromsjobygden.se/soromsjobygden-2/foreningslivet/sodra-venjans-hembygdsforening/
 
 - entry: 1230989830
   orgName: Bohusläns Klätterklubb
@@ -17010,7 +17010,7 @@ entries:
   comment: null
   categories:
   - religion
-  web: null
+  web: https://www.facebook.com/StMariaSyriskOrtodoxaKyrkanGoteborg/
 
 - entry: 1230991364
   orgName: PRO Teg
@@ -17955,6 +17955,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/olauspetri
+
+- entry: 1231053099
+  orgName: Evangelisk Luthersk Mission - Syd
+  orgNumber: 802428-6158
+  comment: null
+  categories:
+  - religion
+  web: https://elmbv.se/
 
 - entry: 1231053347
   orgName: Tyresö Församling
@@ -43791,6 +43799,14 @@ entries:
   - stödverksamhet
   web: https://www.soroptimistsweden.se/klubb/kalmar/
 
+- entry: 1232655702
+  orgName: Missionsgården Strandhem
+  orgNumber: 837600-4829
+  comment: null
+  categories:
+  - religion
+  web: https://www.strandhem.nu/
+
 - entry: 1232656189
   orgName: Fridens Hälsa AB
   orgNumber: 559100-1952
@@ -46238,6 +46254,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.ljungbyif.nu/
+
+- entry: 1232772879
+  orgName: Svenska Postkodlotteriet AB
+  orgNumber: 556375-6328
+  comment: null
+  categories:
+  - försäljning
+  - lotteri
+  web: https://www.postkodlotteriet.se/
 
 - entry: 1232776581
   orgName: Klockhammars Samfällighetsförening
@@ -69959,7 +69984,8 @@ entries:
   orgName: Skolbal Håbo 2020
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - retired
   web: https://www.instagram.com/skolbalhabo2020/?hl=en
 
 - entry: 1234292140
@@ -75786,6 +75812,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/kristianstad
+
+- entry: 1234676862
+  orgName: Evangelisk Luthersk Mission Ungdom
+  orgNumber: 843000-4542
+  comment: null
+  categories:
+  - religion
+  web: https://elungdom.se/
 
 - entry: 1234677316
   orgName: Waggeryds Atletklubb
@@ -85867,6 +85901,14 @@ entries:
   - neurohälsa
   web: https://www.fasportalen.se/
 
+- entry: 1235354758
+  orgName: Rosersbergs Jaktskytteklubb
+  orgNumber: 814800-1012
+  comment: null
+  categories:
+  - jaktskytteklubb
+  web: https://www.rjsk.se/
+
 - entry: 1235354956
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -88325,7 +88367,7 @@ entries:
   web: https://www.svenskalag.se/alnobc
 
 - entry: 1235510896
-  orgName: ELM-Nord, Evangelisk Luthersk Mission
+  orgName: Evangelisk Luthersk Mission - Nord
   orgNumber: 802452-8393
   comment: null
   categories:
@@ -99776,7 +99818,7 @@ entries:
 
 - entry: 1236203046
   orgName: Göteborgs Domkyrkoförsamling
-  orgNumber: null
+  orgNumber: 252001-4883
   comment: null
   categories:
   - religion
@@ -105201,6 +105243,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/saro/kullavikskyrkan
+
+- entry: 1236537922
+  orgName: Breanäs Missionsgård
+  orgNumber: 838201-0273
+  comment: null
+  categories:
+  - religion
+  web: https://www.breanas.se/
 
 - entry: 1236537930
   orgName: Storumans Idrottsklubb

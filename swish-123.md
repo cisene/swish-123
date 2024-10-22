@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-22-rev-164721
+Revision: 2024-10-22-rev-172828
 
-Nummer: 12977
+Nummer: 12984
 
 
 
@@ -7305,6 +7305,13 @@ Nummer: 12977
 
 
 
+**Breanäs Missionsgård**
+
+    123 653 79 22
+
+
+
+
 **Bredareds GK**
 
     123 149 80 13
@@ -12787,13 +12794,6 @@ Nummer: 12977
 
 
 
-**ELM-Nord, Evangelisk Luthersk Mission**
-
-    123 551 08 96
-
-
-
-
 **ELM Vittsjö**
 
     123 527 67 53
@@ -14213,6 +14213,27 @@ Nummer: 12977
 **Europeiska Ungdomsparlamentet Sverige, EUP**
 
     123 321 97 30
+
+
+
+
+**Evangelisk Luthersk Mission - Nord**
+
+    123 551 08 96
+
+
+
+
+**Evangelisk Luthersk Mission - Syd**
+
+    123 105 30 99
+
+
+
+
+**Evangelisk Luthersk Mission Ungdom**
+
+    123 467 68 62
 
 
 
@@ -21937,6 +21958,13 @@ Nummer: 12977
 **Göteborgs Bluesförening**
 
     123 686 31 12
+
+
+
+
+**Göteborgs Domkyrkoförsamling**
+
+    123 620 30 46
 
 
 
@@ -41403,6 +41431,13 @@ Nummer: 12977
 
 
 
+**Missionsgården Strandhem**
+
+    123 265 57 02
+
+
+
+
 **Missionskyrkan Hässleholm**
 
     123 245 05 59 - Gåvor och kollekt
@@ -51336,6 +51371,13 @@ Nummer: 12977
 **Rosenlöfs Vänner**
 
     123 135 98 35
+
+
+
+
+**Rosersbergs Jaktskytteklubb**
+
+    123 535 47 58
 
 
 
@@ -63621,6 +63663,13 @@ Nummer: 12977
 **Svenska Popskolan AB**
 
     123 059 28 99
+
+
+
+
+**Svenska Postkodlotteriet AB**
+
+    123 277 28 79
 
 
 

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-22-rev-164645",
+    "date": "2024-10-22-rev-172752",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -20594,7 +20594,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": null
+      "web": "https://www.soromsjobygden.se/soromsjobygden-2/foreningslivet/sodra-venjans-hembygdsforening/"
     },
     {
       "entry": 1230989830,
@@ -20639,7 +20639,7 @@
       "categories": [
         "religion"
       ],
-      "web": null
+      "web": "https://www.facebook.com/StMariaSyriskOrtodoxaKyrkanGoteborg/"
     },
     {
       "entry": 1230991364,
@@ -21802,6 +21802,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/olauspetri"
+    },
+    {
+      "entry": 1231053099,
+      "orgName": "Evangelisk Luthersk Mission - Syd",
+      "orgNumber": "802428-6158",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://elmbv.se/"
     },
     {
       "entry": 1231053347,
@@ -53090,6 +53100,16 @@
       "web": "https://www.soroptimistsweden.se/klubb/kalmar/"
     },
     {
+      "entry": 1232655702,
+      "orgName": "Missionsg\u00e5rden Strandhem",
+      "orgNumber": "837600-4829",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.strandhem.nu/"
+    },
+    {
       "entry": 1232656189,
       "orgName": "Fridens H\u00e4lsa AB",
       "orgNumber": "559100-1952",
@@ -56052,6 +56072,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.ljungbyif.nu/"
+    },
+    {
+      "entry": 1232772879,
+      "orgName": "Svenska Postkodlotteriet AB",
+      "orgNumber": "556375-6328",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "lotteri"
+      ],
+      "web": "https://www.postkodlotteriet.se/"
     },
     {
       "entry": 1232776581,
@@ -91893,6 +91924,16 @@
       "web": "https://www.svenskakyrkan.se/kristianstad"
     },
     {
+      "entry": 1234676862,
+      "orgName": "Evangelisk Luthersk Mission Ungdom",
+      "orgNumber": "843000-4542",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://elungdom.se/"
+    },
+    {
       "entry": 1234677316,
       "orgName": "Waggeryds Atletklubb",
       "orgNumber": "802422-9364",
@@ -104158,6 +104199,16 @@
       "web": "https://www.fasportalen.se/"
     },
     {
+      "entry": 1235354758,
+      "orgName": "Rosersbergs Jaktskytteklubb",
+      "orgNumber": "814800-1012",
+      "comment": null,
+      "categories": [
+        "jaktskytteklubb"
+      ],
+      "web": "https://www.rjsk.se/"
+    },
+    {
       "entry": 1235354956,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
@@ -107127,7 +107178,7 @@
     },
     {
       "entry": 1235510896,
-      "orgName": "ELM-Nord, Evangelisk Luthersk Mission",
+      "orgName": "Evangelisk Luthersk Mission - Nord",
       "orgNumber": "802452-8393",
       "comment": null,
       "categories": [
@@ -120954,6 +121005,16 @@
       "web": "https://www.stepbystepdansskola.com/"
     },
     {
+      "entry": 1236203046,
+      "orgName": "G\u00f6teborgs Domkyrkof\u00f6rsamling",
+      "orgNumber": "252001-4883",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/gbgdomkyrko"
+    },
+    {
       "entry": 1236203640,
       "orgName": "Hembygdsf\u00f6reningen Skarke-Varnhem",
       "orgNumber": "868400-9874",
@@ -127503,6 +127564,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/saro/kullavikskyrkan"
+    },
+    {
+      "entry": 1236537922,
+      "orgName": "Brean\u00e4s Missionsg\u00e5rd",
+      "orgNumber": "838201-0273",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.breanas.se/"
     },
     {
       "entry": 1236537930,
