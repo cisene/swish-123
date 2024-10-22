@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-21-rev-140237
+Revision: 2024-10-22-rev-161305
 
-Nummer: 12902
+Nummer: 12977
 
 
 
@@ -2160,7 +2160,7 @@ Nummer: 12902
 
 **Apelvikshöjds kyrka**
 
-    123 355 82 10
+    123 355 82 10 - Kollekt
 
 
 
@@ -2600,6 +2600,13 @@ Nummer: 12902
 **Arvika Padelsällskap**
 
     123 210 91 55
+
+
+
+
+**Arvika Pastorat**
+
+    123 010 87 38 - Julgåva
 
 
 
@@ -3353,6 +3360,25 @@ Nummer: 12902
 **Balans med Omtanke**
 
     123 009 21 63
+
+
+
+
+**Balingsta Pastorat**
+
+    123 149 38 16 - Kollekt Västeråkers församling
+
+    123 214 86 17 - Kollekt Hagby församling
+
+    123 305 95 40 - Gåvor
+
+    123 338 39 16 - Kollekt Balingsta församling
+
+    123 351 56 57 - Kollekt Ramsta församling
+
+    123 451 36 10 - Kollekt Uppsala Näs församling
+
+    123 468 95 01 - Kollekt Dalby församling
 
 
 
@@ -4689,6 +4715,17 @@ Nummer: 12902
 **Björkekärr Scoutkår**
 
     123 363 05 63
+
+
+
+
+**Björketorps Församling**
+
+    123 226 87 20 - Kollekt Björketorps kyrka
+
+    123 326 16 09
+
+    123 544 38 66 - Kollekt Hindås kyrka
 
 
 
@@ -10430,6 +10467,13 @@ Nummer: 12902
 
 
 
+**Dellenbygdens Pastorat**
+
+    123 206 49 62 - Gåvor
+
+
+
+
 **Delsbo IF**
 
     123 132 58 44
@@ -11663,6 +11707,13 @@ Nummer: 12902
 **Döderhults Pistolskytteklubb**
 
     123 087 89 67
+
+
+
+
+**Dörby-Hossmo Pastorat**
+
+    123 123 75 36 - Act Svenska kyrkan
 
 
 
@@ -14487,6 +14538,19 @@ Nummer: 12902
 
 
 
+**Falköpings Pastorat**
+
+    123 271 00 69 - Slöta-Karleby församling
+
+    123 413 75 50 - Falköping och Yllestads församling
+
+    123 459 41 15 - Åslebygdens församling
+
+    123 635 61 41 - Mössebergs församling
+
+
+
+
 **Falköpings Schacksällskap**
 
     123 563 39 79
@@ -15210,6 +15274,13 @@ Nummer: 12902
 **Finska Filadelfia i Stockholm**
 
     123 042 87 89
+
+
+
+
+**Finska församlingen i Stockholm**
+
+    123 427 16 31 - Act Svenska kyrkan
 
 
 
@@ -17377,7 +17448,7 @@ Nummer: 12902
 
 **Färingsö Församling**
 
-    123 633 36 86
+    123 633 36 86 - Diakoni
 
 
 
@@ -20968,6 +21039,13 @@ Nummer: 12902
 
 
 
+**Grästorp Pastorat**
+
+    123 611 87 72 - Diakonin
+
+
+
+
 **Grästorps Kampsportsförening**
 
     123 413 81 11
@@ -22164,6 +22242,17 @@ Nummer: 12902
 **Hagby IK**
 
     123 161 18 62
+
+
+
+
+**Hagfors Pastorat**
+
+    123 119 96 52 - Sunnemo blomsterfond
+
+    123 643 35 02 - Gustav Adolfs Blomsterfond
+
+    123 655 45 05 - Norra Råda kyrkas blomsterfond
 
 
 
@@ -24483,6 +24572,13 @@ Nummer: 12902
 
 
 
+**Hofors Församling**
+
+    123 237 73 56
+
+
+
+
 **Hofors Hembygdsförening**
 
     123 056 98 14
@@ -24992,7 +25088,7 @@ Nummer: 12902
 
     123 039 22 17
 
-    123 515 73 91
+    123 515 73 91 - Kollekt
 
 
 
@@ -25943,6 +26039,13 @@ Nummer: 12902
 **Hässelby Scoutkår**
 
     123 601 52 91
+
+
+
+
+**Hässelby Villastads kyrka**
+
+    123 236 19 47 - Aktiviteter
 
 
 
@@ -31626,7 +31729,7 @@ Nummer: 12902
 
     123 196 20 34 - Kollekt i Allhelgonamässan
 
-    123 413 75 35
+    123 413 75 35 - Gåvor
 
     123 681 63 18 - Kollekt i Morgonmässan
 
@@ -33967,6 +34070,23 @@ Nummer: 12902
 
 
 
+**Krokoms Pastorat**
+
+    123 068 04 13 - Kollekt Aspås
+
+    123 312 05 40 - Kollekt Föllingebygden
+
+    123 349 91 42 - Kollekt Offerdal
+
+    123 364 53 63 - Kollekt Näskott
+
+    123 635 44 50 - Kollekt Alsen
+
+    123 676 04 74 - Kollekt Ås
+
+
+
+
 **Krokshultsbygdens byalag**
 
     123 321 42 28
@@ -34535,6 +34655,8 @@ Nummer: 12902
 **Kungsängen-Västra Ryds Församling**
 
     123 121 98 23
+
+    123 278 71 09
 
 
 
@@ -35863,6 +35985,13 @@ Nummer: 12902
 **Laksjöbadet Ideell förening**
 
     123 126 70 79
+
+
+
+
+**Landskrona Församling**
+
+    123 385 09 22 - Gåvor
 
 
 
@@ -38875,6 +39004,15 @@ Nummer: 12902
 **Luleå Domarklubb**
 
     123 073 79 24
+
+
+
+
+**Luleå Domkyrkoförsamling**
+
+    123 189 56 14 - Minnestelegram
+
+    123 378 40 30 - Fasteaktion
 
 
 
@@ -44005,6 +44143,13 @@ Nummer: 12902
 
 
 
+**Norra Mo Församling**
+
+    123 609 72 99 - Kollekt
+
+
+
+
 **Norra Möckleby-Sandby-Gårdby Församling**
 
     123 177 95 37
@@ -44015,6 +44160,8 @@ Nummer: 12902
 **Norra Nöbbelövs Församling**
 
     123 059 47 88
+
+    123 189 63 98 - Kollekt
 
 
 
@@ -44876,7 +45023,7 @@ Nummer: 12902
 
 **Nyköpings Församling**
 
-    123 199 52 99
+    123 199 52 99 - Nyköpingshjälpen
 
 
 
@@ -46007,6 +46154,25 @@ Nummer: 12902
 
 
 
+**Osby Pastorat**
+
+    123 055 31 98 - Kollekt Osby kyrka
+
+    123 091 59 91 - Diakoni
+
+    123 199 31 04 - Övrigt
+
+    123 444 26 61 - Grogrund
+
+    123 446 33 37 - Tillsammans Hjälps Vi Åt
+
+    123 477 95 18 - Kollekt Loshults kyrka
+
+    123 481 80 35 - Kollekt Visseltofta
+
+
+
+
 **Osby Simsällskap**
 
     123 533 08 08
@@ -46119,6 +46285,13 @@ Nummer: 12902
 **Ovanhedens Bygdegårdsförening**
 
     123 468 79 19
+
+
+
+
+**Ovansjö-Järbo Pastorat**
+
+    123 466 47 69 - Gåvor
 
 
 
@@ -46998,6 +47171,15 @@ Nummer: 12902
 **Pingstförsamlingen i Sundsvall**
 
     123 393 06 58
+
+
+
+
+**Pingstförsamlingen i Södertälje**
+
+    123 156 28 34
+
+    123 461 09 94
 
 
 
@@ -51001,6 +51183,13 @@ Nummer: 12902
 
 
 
+**Romelanda Pastorat**
+
+    123 655 92 80 - Second Hand St:Anna
+
+
+
+
 **Romelanda UF**
 
     123 069 01 64
@@ -52235,7 +52424,15 @@ Nummer: 12902
 
 **Ryssby-Åby Pastorat**
 
+    123 087 52 03 - Ryssby Församling
+
     123 090 79 15
+
+    123 398 11 56 - Åby Församling
+
+    123 569 43 85 - Åby Församling
+
+    123 636 90 45 - Ryssby Församling
 
 
 
@@ -52794,6 +52991,8 @@ Nummer: 12902
 
 **S:t Johannes Församling**
 
+    123 374 75 73 - Filt Johannes
+
     123 555 74 83
 
 
@@ -53060,6 +53259,8 @@ Nummer: 12902
 
 **Sala-Norrby-Möklinta Pastorat**
 
+    123 022 38 59
+
     123 288 41 87 - Övrigt
 
     123 417 01 97 - Gåva
@@ -53100,6 +53301,13 @@ Nummer: 12902
 **Salemgymnasterna**
 
     123 307 55 95
+
+
+
+
+**Salems Församling**
+
+    123 287 33 21 - LT-klappen
 
 
 
@@ -55254,6 +55462,15 @@ Nummer: 12902
 
 
 
+**Skellefteå Pastorat**
+
+    123 275 94 62 - Gåvor
+
+    123 408 47 60 - Sjukhuskyrkan
+
+
+
+
 **Skellefteå Scoutkår**
 
     123 513 67 75
@@ -56188,6 +56405,13 @@ Nummer: 12902
 
 
 
+**Slaka-Nykils Pastorat**
+
+    123 173 27 67 - Kyrkläger
+
+
+
+
 **Slakmöre Bygdegårdsförening**
 
     123 154 38 59
@@ -56954,7 +57178,7 @@ Nummer: 12902
 
 **Sollyckans kyrka**
 
-    123 576 03 43
+    123 576 03 43 - Kollekt
 
 
 
@@ -63229,6 +63453,13 @@ Nummer: 12902
 
 
 
+**Svenska Kyrkans Unga i Uppsala stift**
+
+    123 608 54 27
+
+
+
+
 **Svenska Kyrkans Unga Riksförbundet**
 
     123 389 36 58
@@ -65834,6 +66065,13 @@ Nummer: 12902
 
 
 
+**Söndrum-Vapnö Församling**
+
+    123 181 43 91 - Hjälpkassan
+
+
+
+
 **Söndrums Hembygdsförening**
 
     123 209 17 18
@@ -68414,6 +68652,8 @@ Nummer: 12902
 
     123 525 24 99 - Skärhamns kyrka
 
+    123 664 27 48 - Diakonikassan
+
 
 
 
@@ -68515,6 +68755,13 @@ Nummer: 12902
 **Tollans Häst & Foder / Inga-Lill Allvin**
 
     123 351 99 31
+
+
+
+
+**Tollarps Församling**
+
+    123 273 69 24 - Ljuständning på grav
 
 
 
@@ -68646,7 +68893,7 @@ Nummer: 12902
 
 **Torns Församling**
 
-    123 105 97 57
+    123 105 97 57 - Kollekt
 
 
 
@@ -68775,6 +69022,23 @@ Nummer: 12902
 **Torshalls Bygdegårdsförening**
 
     123 327 60 86
+
+
+
+
+**Torshälla Församling**
+
+    123 082 15 46 - Kollekt
+
+    123 132 61 31 - Diakoni
+
+    123 232 92 90 - Fairtrade
+
+    123 512 70 30 - Övrigt
+
+    123 545 28 18 - Internationellt arbete
+
+    123 670 16 27 - Arbetskretsen
 
 
 
@@ -69134,6 +69398,8 @@ Nummer: 12902
 **Trelleborgs Församling**
 
     123 120 93 11
+
+    123 216 45 23 - Sopplunch
 
 
 
@@ -70137,6 +70403,13 @@ Nummer: 12902
 
 
 
+**Töreboda Pastorat**
+
+    123 473 88 11 - Diakoni
+
+
+
+
 **Töreboda Pistolskytteklubb**
 
     123 186 51 20
@@ -70631,6 +70904,13 @@ Nummer: 12902
 **Umeå Nämndemannaförening**
 
     123 332 00 33
+
+
+
+
+**Umeå Pastorat**
+
+    123 584 60 50 - Diakonala arbetet
 
 
 
@@ -71906,7 +72186,7 @@ Nummer: 12902
 
 **Varbergs kyrka**
 
-    123 304 70 32
+    123 304 70 32 - Kollekt
 
 
 
@@ -72924,7 +73204,7 @@ Nummer: 12902
 
 **Vindelns Församling**
 
-    123 143 09 09
+    123 143 09 09 - Kollekt
 
 
 
@@ -73403,6 +73683,19 @@ Nummer: 12902
 
 
 
+**Voxtorps Pastorat**
+
+    123 047 11 69 - Kollekt Gällaryds församling
+
+    123 170 24 71 - Voxtorps pastorat
+
+    123 335 04 02 - Kollekt Voxtorps församling
+
+    123 544 23 63 - Kollekt Tånnö församling
+
+
+
+
 **Vrena Folkets Hus**
 
     123 023 76 93
@@ -73648,7 +73941,7 @@ Nummer: 12902
 
 **Väderstads Församling**
 
-    123 326 21 02
+    123 326 21 02 - Kollekt
 
 
 
@@ -74277,7 +74570,7 @@ Nummer: 12902
 
 **Västanfors Västervåla Församling**
 
-    123 468 76 38
+    123 468 76 38 - Kollekt
 
 
 
@@ -76912,6 +77205,13 @@ Nummer: 12902
 **Ängelholms FF**
 
     123 399 25 26
+
+
+
+
+**Ängelholms Församling**
+
+    123 001 42 09 - Ukraina, Zaporizjzja
 
 
 
