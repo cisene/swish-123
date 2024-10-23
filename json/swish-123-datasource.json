@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-22-rev-172752",
+    "date": "2024-10-23-rev-143040",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4235,7 +4235,7 @@
       "entry": 1230223859,
       "orgName": "Sala-Norrby-M\u00f6klinta Pastorat",
       "orgNumber": "252003-4337",
-      "comment": null,
+      "comment": "Svenska kyrkans unga Sala",
       "categories": [
         "religion"
       ],
@@ -4298,7 +4298,7 @@
       "entry": 1230226126,
       "orgName": "Bro F\u00f6rsamling",
       "orgNumber": "252001-5369",
-      "comment": null,
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
@@ -6766,6 +6766,16 @@
       "web": "https://bottnarydallians.se/"
     },
     {
+      "entry": 1230334268,
+      "orgName": "Str\u00e4ngn\u00e4s Domkyrkof\u00f6rsamling med Asp\u00f6",
+      "orgNumber": "252002-7117",
+      "comment": "Kyrkans prydande",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/strangnas"
+    },
+    {
       "entry": 1230334276,
       "orgName": "Filadelfiakyrkan \u00d6rebro",
       "orgNumber": "875000-0310",
@@ -6967,6 +6977,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/bettna"
+    },
+    {
+      "entry": 1230337550,
+      "orgName": "Blentarps F\u00f6rsamling",
+      "orgNumber": "252002-9717",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/blentarp"
     },
     {
       "entry": 1230337964,
@@ -8077,6 +8097,16 @@
       "web": "https://www.pgandersson.se/"
     },
     {
+      "entry": 1230397414,
+      "orgName": "G\u00e4llivare F\u00f6rsamling",
+      "orgNumber": "252005-0192",
+      "comment": "Minnestelegram",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/gallivare"
+    },
+    {
       "entry": 1230398107,
       "orgName": "Kungs\u00e5ra Hembygdsf\u00f6rening",
       "orgNumber": "802415-9173",
@@ -8146,6 +8176,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/floby"
+    },
+    {
+      "entry": 1230401471,
+      "orgName": "Gimo Pastorat",
+      "orgNumber": "252003-1853",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/gimopastorat"
     },
     {
       "entry": 1230401851,
@@ -10240,6 +10280,16 @@
       "web": "https://orebrogolf.se/"
     },
     {
+      "entry": 1230498170,
+      "orgName": "Slaka-Nykils Pastorat",
+      "orgNumber": "252004-7495",
+      "comment": "Ungdomsverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/slaka-nykil"
+    },
+    {
       "entry": 1230498279,
       "orgName": "Granheds Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "818500-9886",
@@ -11450,6 +11500,16 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://rme.nu/"
+    },
+    {
+      "entry": 1230563452,
+      "orgName": "Berga Pastorat",
+      "orgNumber": "252003-4493",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/bergapastorat"
     },
     {
       "entry": 1230563635,
@@ -13106,6 +13166,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/LNIK/"
+    },
+    {
+      "entry": 1230670067,
+      "orgName": "Norra \u00d6lands Pastorat",
+      "orgNumber": "252003-8858",
+      "comment": "Kollekt R\u00e4pplinge-H\u00f6gsrums f\u00f6rsamling",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norraoland"
     },
     {
       "entry": 1230670091,
@@ -15703,6 +15774,16 @@
       "web": "http://www.underbaraadhd.se/"
     },
     {
+      "entry": 1230793604,
+      "orgName": "Skarpn\u00e4cks F\u00f6rsamling",
+      "orgNumber": "252000-0742",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/skarpnack"
+    },
+    {
       "entry": 1230793646,
       "orgName": "Rimbo IF",
       "orgNumber": "814400-1677",
@@ -15967,6 +16048,16 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/sbkk"
+    },
+    {
+      "entry": 1230800144,
+      "orgName": "T\u00f6l\u00f6-\u00c4lvs\u00e5ker Pastorat",
+      "orgNumber": "252003-6720",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tolo"
     },
     {
       "entry": 1230800193,
@@ -17011,6 +17102,16 @@
       "web": "http://www.togk.se/"
     },
     {
+      "entry": 1230845842,
+      "orgName": "H\u00f6galids F\u00f6rsamling",
+      "orgNumber": "252000-0601",
+      "comment": "F\u00f6rs\u00e4ljning",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hogalid"
+    },
+    {
       "entry": 1230845875,
       "orgName": "Bj\u00f6rnstorps IF",
       "orgNumber": "845003-0864",
@@ -17616,6 +17717,16 @@
       "web": "https://www.laget.se/VIKFotboll/"
     },
     {
+      "entry": 1230860065,
+      "orgName": "Roslagens Norra Pastorat",
+      "orgNumber": "252004-8899",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagensnorrapastorat"
+    },
+    {
       "entry": 1230862854,
       "orgName": "Capoeira Club Cultura Brasileira",
       "orgNumber": "802442-2068",
@@ -17865,6 +17976,17 @@
         "religion"
       ],
       "web": "https://www.ywam.se/"
+    },
+    {
+      "entry": 1230872945,
+      "orgName": "Norra \u00d6lands Pastorat",
+      "orgNumber": "252003-8858",
+      "comment": "Kollekt Nord\u00f6lands f\u00f6rsamling",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norraoland"
     },
     {
       "entry": 1230875161,
@@ -18303,6 +18425,17 @@
       "web": "https://www.facebook.com/julhjalpenignesta"
     },
     {
+      "entry": 1230893438,
+      "orgName": "Norra \u00d6lands Pastorat",
+      "orgNumber": "252003-8858",
+      "comment": "Diakoni",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norraoland"
+    },
+    {
       "entry": 1230893677,
       "orgName": "Uppsala L\u00e4genhetshotell AB",
       "orgNumber": "556730-3580",
@@ -18400,6 +18533,16 @@
         "religion"
       ],
       "web": "https://www.avesta.pingst.se/"
+    },
+    {
+      "entry": 1230898791,
+      "orgName": "Str\u00e4ngn\u00e4s Domkyrkof\u00f6rsamling med Asp\u00f6",
+      "orgNumber": "252002-7117",
+      "comment": "Kyrkkaffe och Tisdagssoppan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/strangnas"
     },
     {
       "entry": 1230898841,
@@ -19932,6 +20075,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/huskvarna"
+    },
+    {
+      "entry": 1230961094,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Kollekt/G\u00e5vor Lerbo",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
     },
     {
       "entry": 1230961193,
@@ -23221,6 +23374,16 @@
       "web": "https://www.svenskalag.se/stakets_if"
     },
     {
+      "entry": 1231135656,
+      "orgName": "H\u00f6galids F\u00f6rsamling",
+      "orgNumber": "252000-0601",
+      "comment": "Musikverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hogalid"
+    },
+    {
       "entry": 1231135680,
       "orgName": "V\u00e4nersborgs IF",
       "orgNumber": "862500-4042",
@@ -23942,7 +24105,7 @@
       "entry": 1231159417,
       "orgName": "Pite\u00e5 F\u00f6rsamling",
       "orgNumber": "252004-2868",
-      "comment": null,
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
@@ -24352,6 +24515,16 @@
       "web": "https://lionssvenljunga.se/"
     },
     {
+      "entry": 1231176387,
+      "orgName": "Halmstads F\u00f6rsamling",
+      "orgNumber": "252004-8493",
+      "comment": "Act Svenska kyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/halmstad"
+    },
+    {
       "entry": 1231176429,
       "orgName": "J:Son Trafikskola AB",
       "orgNumber": "556298-6223",
@@ -24632,7 +24805,7 @@
       "entry": 1231204577,
       "orgName": "H\u00f6galid F\u00f6rsamling",
       "orgNumber": "252000-0601",
-      "comment": null,
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
@@ -24990,7 +25163,7 @@
       "entry": 1231219823,
       "orgName": "Kungs\u00e4ngen-V\u00e4stra Ryds F\u00f6rsamling",
       "orgNumber": "252003-1952",
-      "comment": null,
+      "comment": "Musikverksamhet",
       "categories": [
         "religion"
       ],
@@ -28824,6 +28997,16 @@
       "web": "https://www.hsb.se/stockholm/brf/Svartvik/"
     },
     {
+      "entry": 1231407261,
+      "orgName": "Lysekils Pastorat",
+      "orgNumber": "252004-9285",
+      "comment": "Musikverksamheten Lysekil",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/lysekils-pastorat"
+    },
+    {
       "entry": 1231408475,
       "orgName": "R\u00f6dde Ranch, Timotej & Andersen / R\u00f6dde Natur & Livskvalite AB",
       "orgNumber": "559467-3914",
@@ -29535,6 +29718,16 @@
         "scoutk\u00e5r"
       ],
       "web": "https://kode.scout.se/"
+    },
+    {
+      "entry": 1231461714,
+      "orgName": "Norrfj\u00e4rdens F\u00f6rsamling",
+      "orgNumber": "252002-5566",
+      "comment": "Minnestelegram",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norrfjarden"
     },
     {
       "entry": 1231461839,
@@ -31895,6 +32088,16 @@
       "web": "https://gallerifiskhuset.se/"
     },
     {
+      "entry": 1231556281,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Kollekt/G\u00e5vor Stora Malm",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
+    },
+    {
       "entry": 1231556315,
       "orgName": "J\u00f6nk\u00f6pings OK - Orientering",
       "orgNumber": "826000-2061",
@@ -34118,6 +34321,17 @@
       "web": "http://www.swejs.se/"
     },
     {
+      "entry": 1231664770,
+      "orgName": "Norra \u00d6lands Pastorat",
+      "orgNumber": "252003-8858",
+      "comment": "Kollekt F\u00f6ra-Alb\u00f6ke-L\u00f6ts f\u00f6rsamling",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norraoland"
+    },
+    {
       "entry": 1231665405,
       "orgName": "Motormedlarna AB",
       "orgNumber": "559179-3517",
@@ -35220,6 +35434,16 @@
       "web": "https://www.equmeniakyrkananderstorp.se/"
     },
     {
+      "entry": 1231721919,
+      "orgName": "Str\u00e4ngn\u00e4s Domkyrkof\u00f6rsamling med Asp\u00f6",
+      "orgNumber": "252002-7117",
+      "comment": "Diakonernas hj\u00e4lpkassa",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/strangnas"
+    },
+    {
       "entry": 1231721943,
       "orgName": "Sundbybergs F\u00f6rsamling",
       "orgNumber": "252000-0932",
@@ -35690,6 +35914,16 @@
       "web": "https://www.allianskyrkan.se/"
     },
     {
+      "entry": 1231742444,
+      "orgName": "Link\u00f6pings Domkyrkopastorat",
+      "orgNumber": "252003-0228",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/linkoping"
+    },
+    {
       "entry": 1231742469,
       "orgName": "Children Aid-Now / Filadelfiaf\u00f6rsamling",
       "orgNumber": "874400-0210",
@@ -35773,6 +36007,16 @@
         "religion"
       ],
       "web": "https://hagakyrkanhabo.se/"
+    },
+    {
+      "entry": 1231745124,
+      "orgName": "Skarpn\u00e4cks F\u00f6rsamling",
+      "orgNumber": "252000-0742",
+      "comment": "Regnb\u00e5gsfonden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/skarpnack"
     },
     {
       "entry": 1231745298,
@@ -39160,6 +39404,16 @@
       "web": "https://aktivaseniorerhisingen.hemsida24.se/"
     },
     {
+      "entry": 1231916873,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Musikverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
+    },
+    {
       "entry": 1231917723,
       "orgName": "Team Rynkeby",
       "orgNumber": "802533-7869",
@@ -40302,6 +40556,16 @@
         "ridklubb"
       ],
       "web": "https://www.svenskalag.se/dyggurislandshastforening"
+    },
+    {
+      "entry": 1231985431,
+      "orgName": "Hudiksvallsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-7404",
+      "comment": "Bokbordet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hudiksvallsbygden"
     },
     {
       "entry": 1231986355,
@@ -42945,6 +43209,16 @@
       "web": "https://www.svenskakyrkan.se/barnarp-odestugu"
     },
     {
+      "entry": 1232141562,
+      "orgName": "Lysekils Pastorat",
+      "orgNumber": "252004-9285",
+      "comment": "Caf\u00e9 XP",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/lysekils-pastorat"
+    },
+    {
       "entry": 1232142321,
       "orgName": "Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
@@ -44282,6 +44556,16 @@
       "web": "https://www.svenskalag.se/atvidabergsff"
     },
     {
+      "entry": 1232195378,
+      "orgName": "Dannemorabygdens F\u00f6rsamling",
+      "orgNumber": "252004-2330",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/dannemorabygden"
+    },
+    {
       "entry": 1232196004,
       "orgName": "Waxholms Gymnastikf\u00f6rening",
       "orgNumber": "812000-0289",
@@ -44813,6 +45097,16 @@
       "web": "https://www.svenskakyrkan.se/hjo"
     },
     {
+      "entry": 1232221067,
+      "orgName": "Norrfj\u00e4rdens F\u00f6rsamling",
+      "orgNumber": "252002-5566",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norrfjarden"
+    },
+    {
       "entry": 1232221216,
       "orgName": "Julita GoIF",
       "orgNumber": "818500-0950",
@@ -44965,6 +45259,16 @@
         "skoterklubb"
       ],
       "web": "https://www.gasvarv.com/"
+    },
+    {
+      "entry": 1232222958,
+      "orgName": "Skarpn\u00e4cks F\u00f6rsamling",
+      "orgNumber": "252000-0742",
+      "comment": "Diakoni",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/skarpnack"
     },
     {
       "entry": 1232222966,
@@ -45271,6 +45575,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.marbacksif.se/"
+    },
+    {
+      "entry": 1232239192,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Kollekt/G\u00e5vor Sk\u00f6ldinge",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
     },
     {
       "entry": 1232239325,
@@ -46112,6 +46426,17 @@
       "web": "https://www.laget.se/KoppomsIK/"
     },
     {
+      "entry": 1232267680,
+      "orgName": "Hopp f\u00f6r barn i Etiopien, HBE",
+      "orgNumber": "802422-9810",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "sociala insatser"
+      ],
+      "web": "https://www.hbe.nu/"
+    },
+    {
       "entry": 1232267722,
       "orgName": "IFK Tumba FK",
       "orgNumber": "812800-9597",
@@ -46795,6 +47120,16 @@
       "web": "https://ljvk.se/"
     },
     {
+      "entry": 1232290021,
+      "orgName": "Norrfj\u00e4rdens F\u00f6rsamling",
+      "orgNumber": "252002-5566",
+      "comment": "Act Svenska kyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norrfjarden"
+    },
+    {
       "entry": 1232291987,
       "orgName": "PRO H\u00f6gsj\u00f6",
       "orgNumber": "802538-4879",
@@ -47363,6 +47698,16 @@
         "hundsport"
       ],
       "web": "https://www.v\u00e4sterviksbk.se/"
+    },
+    {
+      "entry": 1232314540,
+      "orgName": "Skarpn\u00e4cks F\u00f6rsamling",
+      "orgNumber": "252000-0742",
+      "comment": "ACT Svenska kyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/skarpnack"
     },
     {
       "entry": 1232314656,
@@ -49085,6 +49430,17 @@
         "katthem"
       ],
       "web": "https://www.djurskyddet.se/kalmardjurhem/"
+    },
+    {
+      "entry": 1232403939,
+      "orgName": "Norra \u00d6lands Pastorat",
+      "orgNumber": "252003-8858",
+      "comment": "Kollekt Borgholms f\u00f6rsamling",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norraoland"
     },
     {
       "entry": 1232404119,
@@ -51686,6 +52042,16 @@
       "web": "http://www.hallbart.nu/"
     },
     {
+      "entry": 1232590156,
+      "orgName": "Kungs\u00e4ngen-V\u00e4stra Ryds F\u00f6rsamling",
+      "orgNumber": "252003-1952",
+      "comment": "Diakoni",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/kungsangen"
+    },
+    {
       "entry": 1232590610,
       "orgName": "Sonstorps IK",
       "orgNumber": "825000-8417",
@@ -52307,6 +52673,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sudrets-pastorat"
+    },
+    {
+      "entry": 1232620417,
+      "orgName": "Lysekils Pastorat",
+      "orgNumber": "252004-9285",
+      "comment": "Act Svenska kyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/lysekils-pastorat"
     },
     {
       "entry": 1232624815,
@@ -53446,6 +53822,16 @@
       "web": "https://www.equmeniakyrkanolme.se/equmeniakyrkanolme/"
     },
     {
+      "entry": 1232670693,
+      "orgName": "H\u00f6galids F\u00f6rsamling",
+      "orgNumber": "252000-0601",
+      "comment": "Act Svenska kyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hogalid"
+    },
+    {
       "entry": 1232670727,
       "orgName": "Sunderby SK",
       "orgNumber": "897000-1833",
@@ -53544,6 +53930,16 @@
         "religion"
       ],
       "web": "https://equmeniakyrkanlinkoping.se/rpg/"
+    },
+    {
+      "entry": 1232676211,
+      "orgName": "Roslagens Norra Pastorat",
+      "orgNumber": "252004-8899",
+      "comment": "Zimbabwefonden",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/roslagensnorrapastorat"
     },
     {
       "entry": 1232677086,
@@ -55014,6 +55410,26 @@
       "web": "https://www.svenskalag.se/ckdainon"
     },
     {
+      "entry": 1232722239,
+      "orgName": "Mullsj\u00f6-Sandhems F\u00f6rsamling",
+      "orgNumber": "252004-2017",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/mullsjosandhem"
+    },
+    {
+      "entry": 1232722247,
+      "orgName": "Mullsj\u00f6-Sandhems F\u00f6rsamling",
+      "orgNumber": "252004-2017",
+      "comment": "Fairtrade",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/mullsjosandhem"
+    },
+    {
       "entry": 1232722684,
       "orgName": "Ving\u00e5kers VK",
       "orgNumber": "818500-9779",
@@ -55432,6 +55848,16 @@
       "web": "https://www.svenskakyrkan.se/alvesta"
     },
     {
+      "entry": 1232753952,
+      "orgName": "V\u00e4sterl\u00f6vsta Pastorat",
+      "orgNumber": "252003-1986",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vasterlovsta"
+    },
+    {
       "entry": 1232753994,
       "orgName": "Norra Roslagens F\u00e5rklubb",
       "orgNumber": "802471-5305",
@@ -55722,6 +56148,16 @@
         "golfklubb"
       ],
       "web": "https://www.gagnefsgk.com/"
+    },
+    {
+      "entry": 1232765469,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Kollekt/G\u00e5vor Floda",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
     },
     {
       "entry": 1232765493,
@@ -56290,7 +56726,7 @@
       "entry": 1232787109,
       "orgName": "Kungs\u00e4ngen-V\u00e4stra Ryds F\u00f6rsamling",
       "orgNumber": "252003-1952",
-      "comment": null,
+      "comment": "Diakoni",
       "categories": [
         "religion"
       ],
@@ -56317,6 +56753,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/ifkmotalafk"
+    },
+    {
+      "entry": 1232787604,
+      "orgName": "R\u00e5ne\u00e5 F\u00f6rsamling",
+      "orgNumber": "252002-5533",
+      "comment": "Forsn\u00e4s kapell",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ranea"
     },
     {
       "entry": 1232787802,
@@ -57734,7 +58180,7 @@
       "entry": 1232862092,
       "orgName": "H\u00f6galids F\u00f6rsamling",
       "orgNumber": "252000-0601",
-      "comment": null,
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
@@ -58193,6 +58639,16 @@
         "spiritualism"
       ],
       "web": "https://willow.se/"
+    },
+    {
+      "entry": 1232884559,
+      "orgName": "St\u00f6de F\u00f6rsamling",
+      "orgNumber": "252002-3777",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/stodeforsamling"
     },
     {
       "entry": 1232885010,
@@ -59952,6 +60408,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/hyltebruksif"
+    },
+    {
+      "entry": 1232990398,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Kollekt/G\u00e5vor Julita",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
     },
     {
       "entry": 1232990513,
@@ -62221,6 +62687,16 @@
       "web": "https://www.socialisterna.org/"
     },
     {
+      "entry": 1233114170,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Kollekt/G\u00e5vor Sandb\u00e4cken",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
+    },
+    {
       "entry": 1233114303,
       "orgName": "Tv\u00e4rskogs MK",
       "orgNumber": "802474-4446",
@@ -62462,6 +62938,16 @@
         "scoutk\u00e5r"
       ],
       "web": "http://bj\u00f6rs\u00e4tersscoutk\u00e5r.se/"
+    },
+    {
+      "entry": 1233123486,
+      "orgName": "Halmstads F\u00f6rsamling",
+      "orgNumber": "252004-8493",
+      "comment": "Act Svenska kyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/halmstad"
     },
     {
       "entry": 1233123502,
@@ -63466,7 +63952,7 @@
       "entry": 1233186392,
       "orgName": "S\u00f6dra Vedbo Pastorat",
       "orgNumber": "252004-7503",
-      "comment": null,
+      "comment": "Diakoni",
       "categories": [
         "religion"
       ],
@@ -66929,6 +67415,16 @@
       "web": "https://www.ljuset.se/"
     },
     {
+      "entry": 1233366762,
+      "orgName": "Norrfj\u00e4rdens F\u00f6rsamling",
+      "orgNumber": "252002-5566",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norrfjarden"
+    },
+    {
       "entry": 1233366788,
       "orgName": "Gymmix Falun GF - Gymnastik",
       "orgNumber": "883201-2655",
@@ -67784,6 +68280,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/sundbyberg"
+    },
+    {
+      "entry": 1233396355,
+      "orgName": "Str\u00e4ngn\u00e4s Domkyrkof\u00f6rsamling med Asp\u00f6",
+      "orgNumber": "252002-7117",
+      "comment": "Svenska kyrkan i Utlandet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/strangnas"
     },
     {
       "entry": 1233396975,
@@ -68790,6 +69296,16 @@
         "f\u00f6rening"
       ],
       "web": "http://blog.kulturgaraget.se/"
+    },
+    {
+      "entry": 1233454493,
+      "orgName": "Sandvikens Pastorat",
+      "orgNumber": "252004-7412",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sandviken"
     },
     {
       "entry": 1233455508,
@@ -71048,6 +71564,16 @@
       "web": "http://www.kvinnojourenmaria.se/"
     },
     {
+      "entry": 1233547676,
+      "orgName": "Str\u00e4ngn\u00e4s Domkyrkof\u00f6rsamling med Asp\u00f6",
+      "orgNumber": "252002-7117",
+      "comment": "Musikverksamheten i f\u00f6rsamlingen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/strangnas"
+    },
+    {
       "entry": 1233547791,
       "orgName": "Salt Sydsverige",
       "orgNumber": "802435-6878",
@@ -71256,7 +71782,7 @@
       "entry": 1233553344,
       "orgName": "S\u00e4tila F\u00f6rsamling",
       "orgNumber": "252001-6334",
-      "comment": null,
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
@@ -72561,7 +73087,7 @@
       "entry": 1233629094,
       "orgName": "Hyssna F\u00f6rsamling",
       "orgNumber": "252001-6342",
-      "comment": null,
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
@@ -73147,6 +73673,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samorganisation-rattvik/foreningar/rattvik.html"
+    },
+    {
+      "entry": 1233651171,
+      "orgName": "Norrfj\u00e4rdens F\u00f6rsamling",
+      "orgNumber": "252002-5566",
+      "comment": "SKUT, Svenska kyrkan i Utlandet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norrfjarden"
     },
     {
       "entry": 1233651452,
@@ -73771,6 +74307,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/holmalundsif"
+    },
+    {
+      "entry": 1233699360,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Kollekt/G\u00e5vor Katrineholm",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
     },
     {
       "entry": 1233699394,
@@ -75221,6 +75767,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/alvsbacka"
+    },
+    {
+      "entry": 1233790391,
+      "orgName": "G\u00f6teborgs Domkyrkof\u00f6rsamling",
+      "orgNumber": "252001-4883",
+      "comment": "Musikverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/gbgdomkyrko"
     },
     {
       "entry": 1233790474,
@@ -77075,7 +77631,7 @@
       "entry": 1233883790,
       "orgName": "Tuna-Attmars F\u00f6rsamling",
       "orgNumber": "252004-8469",
-      "comment": null,
+      "comment": "Diakoni",
       "categories": [
         "religion"
       ],
@@ -77388,7 +77944,7 @@
       "entry": 1233893708,
       "orgName": "Vittinge F\u00f6rsamling",
       "orgNumber": "252002-1904",
-      "comment": null,
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
@@ -79170,6 +79726,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://nah.se/"
+    },
+    {
+      "entry": 1233972619,
+      "orgName": "Maria Magdalena F\u00f6rsamling",
+      "orgNumber": "252000-0593",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/mariamagdalena"
     },
     {
       "entry": 1233973286,
@@ -81221,6 +81787,16 @@
         "orkester"
       ],
       "web": "https://www.limhamnsbrassband.se/"
+    },
+    {
+      "entry": 1234121646,
+      "orgName": "Vindelns F\u00f6rsamling",
+      "orgNumber": "252004-1050",
+      "comment": "Diakoni",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vindeln"
     },
     {
       "entry": 1234121836,
@@ -84424,6 +85000,16 @@
       "web": "https://malarstadenstrafikskola.se/"
     },
     {
+      "entry": 1234272514,
+      "orgName": "Norrfj\u00e4rdens F\u00f6rsamling",
+      "orgNumber": "252002-5566",
+      "comment": "Serveringsavgift",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norrfjarden"
+    },
+    {
       "entry": 1234272670,
       "orgName": "\u00c5tvidabergs GK",
       "orgNumber": "822000-5808",
@@ -84612,6 +85198,16 @@
         "skidor"
       ],
       "web": "https://www.gronahogsik.com/"
+    },
+    {
+      "entry": 1234275871,
+      "orgName": "Str\u00e4ngn\u00e4s Domkyrkof\u00f6rsamling med Asp\u00f6",
+      "orgNumber": "252002-7117",
+      "comment": "Bokbordet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/strangnas"
     },
     {
       "entry": 1234275913,
@@ -87040,6 +87636,16 @@
       "web": "https://www.svenskalag.se/aikfriidrott"
     },
     {
+      "entry": 1234421392,
+      "orgName": "Alfta-Ovan\u00e5kers F\u00f6rsamling",
+      "orgNumber": "252004-3841",
+      "comment": "Musikverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/alfta-ovanaker"
+    },
+    {
       "entry": 1234421541,
       "orgName": "Gr\u00f6nh\u00f6gens IF",
       "orgNumber": "832000-2069",
@@ -87875,6 +88481,17 @@
         "hundklubb"
       ],
       "web": "https://www.jhtk.se/"
+    },
+    {
+      "entry": 1234486270,
+      "orgName": "Norra \u00d6lands Pastorat",
+      "orgNumber": "252003-8858",
+      "comment": "Kollekt G\u00e4rdsl\u00f6sa-L\u00e5ngl\u00f6t-Runstens f\u00f6rsamling",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norraoland"
     },
     {
       "entry": 1234486452,
@@ -90422,6 +91039,16 @@
       "web": "https://www.bmbk.se/"
     },
     {
+      "entry": 1234610895,
+      "orgName": "Fresta F\u00f6rsamling",
+      "orgNumber": "252000-0031",
+      "comment": "Act Svenska kyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/fresta"
+    },
+    {
       "entry": 1234610978,
       "orgName": "Motala AIF HK",
       "orgNumber": "824000-9400",
@@ -91072,6 +91699,16 @@
       "web": "https://www.ggif.se/"
     },
     {
+      "entry": 1234645255,
+      "orgName": "Hudiksvallsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-7404",
+      "comment": "Servering/verksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hudiksvallsbygden"
+    },
+    {
       "entry": 1234645289,
       "orgName": "V\u00e4ster\u00e5s Bordtennisklubb",
       "orgNumber": "878000-5032",
@@ -91226,7 +91863,7 @@
       "entry": 1234653796,
       "orgName": "R\u00e5ne\u00e5 F\u00f6rsamling",
       "orgNumber": "252002-5533",
-      "comment": null,
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
@@ -95838,6 +96475,16 @@
       "web": "https://m\u00f6klintamissionskyrka.se/"
     },
     {
+      "entry": 1234948626,
+      "orgName": "S\u00e4terbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2462",
+      "comment": "Fairtrade",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/saterbygden"
+    },
+    {
       "entry": 1234948691,
       "orgName": "Equmenia H\u00f6n\u00f6",
       "orgNumber": "802439-5264",
@@ -96503,6 +97150,16 @@
       "web": "https://www.laget.se/FalkopingsSpSK/"
     },
     {
+      "entry": 1234989075,
+      "orgName": "Lysekils Pastorat",
+      "orgNumber": "252004-9285",
+      "comment": "Musikverksamheten Skaft\u00f6",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/lysekils-pastorat"
+    },
+    {
       "entry": 1234989950,
       "orgName": "Team Rynkeby",
       "orgNumber": "802537-0241",
@@ -96699,6 +97356,16 @@
         "kvinnojour"
       ],
       "web": "https://kvinnojourenpaosterlen.se/"
+    },
+    {
+      "entry": 1234996294,
+      "orgName": "Pite\u00e5 F\u00f6rsamling",
+      "orgNumber": "252004-2868",
+      "comment": "Fasteinsamlingen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/pitea"
     },
     {
       "entry": 1234997243,
@@ -98935,6 +99602,16 @@
       "web": "https://www.svenskalag.se/lulevolley"
     },
     {
+      "entry": 1235111927,
+      "orgName": "Str\u00e4ngn\u00e4s Domkyrkof\u00f6rsamling med Asp\u00f6",
+      "orgNumber": "252002-7117",
+      "comment": "Dagens kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/strangnas"
+    },
+    {
       "entry": 1235111984,
       "orgName": "Karlstads Pastorat",
       "orgNumber": "252003-1382",
@@ -100541,6 +101218,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/VSKBandy/"
+    },
+    {
+      "entry": 1235156468,
+      "orgName": "H\u00f6galids F\u00f6rsamling",
+      "orgNumber": "252000-0601",
+      "comment": "\u00d6ppna f\u00f6rskolan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hogalid"
     },
     {
       "entry": 1235156609,
@@ -102264,6 +102951,16 @@
       "web": "https://www.gsok.se/"
     },
     {
+      "entry": 1235262316,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Kollekt/G\u00e5vor N\u00e4vertorp",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
+    },
+    {
       "entry": 1235262449,
       "orgName": "Gymnastikf\u00f6reningen Astra",
       "orgNumber": "802461-6073",
@@ -102341,6 +103038,16 @@
         "religion"
       ],
       "web": "https://www.fralsningsarmen.se/skovde/"
+    },
+    {
+      "entry": 1235263314,
+      "orgName": "H\u00f6galids F\u00f6rsamling",
+      "orgNumber": "252000-0601",
+      "comment": "Sjukhuskyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hogalid"
     },
     {
       "entry": 1235263512,
@@ -107634,6 +108341,16 @@
       "web": "https://inferno-orgryte.com/"
     },
     {
+      "entry": 1235527056,
+      "orgName": "Str\u00e4ngn\u00e4s Domkyrkof\u00f6rsamling med Asp\u00f6",
+      "orgNumber": "252002-7117",
+      "comment": "Act Svenska kyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/strangnas"
+    },
+    {
       "entry": 1235527098,
       "orgName": "F\u00f6reningen Folkets Park \u00d6rebro",
       "orgNumber": "775000-0734",
@@ -107741,6 +108458,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/ValingeIF/"
+    },
+    {
+      "entry": 1235528740,
+      "orgName": "Fresta F\u00f6rsamling",
+      "orgNumber": "252000-0031",
+      "comment": "G\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/fresta"
     },
     {
       "entry": 1235529599,
@@ -108868,6 +109595,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/borssk"
+    },
+    {
+      "entry": 1235579792,
+      "orgName": "Hudiksvallsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-7404",
+      "comment": "G\u00e5vor/Insamlingar",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hudiksvallsbygden"
     },
     {
       "entry": 1235580840,
@@ -111148,6 +111885,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.skiroaik.se/"
+    },
+    {
+      "entry": 1235686969,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Kollekt/G\u00e5vor \u00d6stra Ving\u00e5ker",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
     },
     {
       "entry": 1235690037,
@@ -115789,6 +116536,16 @@
       "web": "https://www.herrvikmotor.se/"
     },
     {
+      "entry": 1235934955,
+      "orgName": "Skellefte\u00e5 Pastorat",
+      "orgNumber": "252004-8030",
+      "comment": "Scouterna",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/skelleftea"
+    },
+    {
       "entry": 1235934963,
       "orgName": "Gefle BC",
       "orgNumber": "885001-9798",
@@ -116117,6 +116874,16 @@
       "web": "https://akademssr.se/"
     },
     {
+      "entry": 1235948575,
+      "orgName": "Link\u00f6pings Domkyrkopastorat",
+      "orgNumber": "252003-0228",
+      "comment": "Bokbord",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/linkoping"
+    },
+    {
       "entry": 1235948633,
       "orgName": "Stockholms Cykelf\u00f6rbund",
       "orgNumber": "802008-2486",
@@ -116392,6 +117159,16 @@
         "sims\u00e4llskap"
       ],
       "web": "https://www.svenskalag.se/mellerudssimklubb"
+    },
+    {
+      "entry": 1235965447,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "G\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
     },
     {
       "entry": 1235965678,
@@ -118031,6 +118808,26 @@
       "web": "https://www.svenskalag.se/ekangensif"
     },
     {
+      "entry": 1236071773,
+      "orgName": "Sandvikens Pastorat",
+      "orgNumber": "252004-7412",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/sandviken"
+    },
+    {
+      "entry": 1236071922,
+      "orgName": "Katrineholmsbygdens F\u00f6rsamling",
+      "orgNumber": "252004-2074",
+      "comment": "Kollekt/G\u00e5vor Valla",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
+    },
+    {
       "entry": 1236071989,
       "orgName": "Huskvarna Pastorat",
       "orgNumber": "252003-0897",
@@ -118512,7 +119309,7 @@
       "entry": 1236091920,
       "orgName": "Svenska Kyrkan Teneriffa",
       "orgNumber": "252002-6135",
-      "comment": null,
+      "comment": "G\u00e5vor",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "religion"
@@ -119683,6 +120480,16 @@
       "web": "https://www.bffi.se/"
     },
     {
+      "entry": 1236151112,
+      "orgName": "Str\u00e4ngn\u00e4s Domkyrkof\u00f6rsamling med Asp\u00f6",
+      "orgNumber": "252002-7117",
+      "comment": "Ljusb\u00e4raren i domkyrkan",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/strangnas"
+    },
+    {
       "entry": 1236151443,
       "orgName": "N\u00e4ske B\u00e5ts\u00e4llskap",
       "orgNumber": "889600-6296",
@@ -120759,6 +121566,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://www.rorsbygdegard.se/"
+    },
+    {
+      "entry": 1236185581,
+      "orgName": "Norra \u00d6lands Pastorat",
+      "orgNumber": "252003-8858",
+      "comment": "Kollekt K\u00f6pingsviks f\u00f6rsamling",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/norraoland"
     },
     {
       "entry": 1236185680,
@@ -122044,6 +122862,16 @@
       "web": "https://www.berasinternational.se/"
     },
     {
+      "entry": 1236259873,
+      "orgName": "Lycksele F\u00f6rsamling",
+      "orgNumber": "252004-0649",
+      "comment": "Diakoni Lycksele",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/lycksele"
+    },
+    {
       "entry": 1236260525,
       "orgName": "Nyt\u00e4nk I Alunda Ekonomiska f\u00f6rening",
       "orgNumber": "769632-9585",
@@ -123245,7 +124073,7 @@
       "entry": 1236330898,
       "orgName": "Kumla T\u00e4rna Kila Pastorat",
       "orgNumber": "252003-4345",
-      "comment": null,
+      "comment": "Act Svenska kyrkan",
       "categories": [
         "religion"
       ],
@@ -126476,7 +127304,7 @@
       "entry": 1236502116,
       "orgName": "Brastads F\u00f6rsamling",
       "orgNumber": "252001-5377",
-      "comment": null,
+      "comment": "Kollekt",
       "categories": [
         "religion"
       ],
@@ -127336,6 +128164,16 @@
         "religion"
       ],
       "web": "https://rpg.org.se/foreningsprogram/sodra-norrland/"
+    },
+    {
+      "entry": 1236534135,
+      "orgName": "Maria Magdalena F\u00f6rsamling",
+      "orgNumber": "252000-0593",
+      "comment": "Musikverksamheten",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/mariamagdalena"
     },
     {
       "entry": 1236534275,
@@ -128223,6 +129061,16 @@
       "web": "https://vedbande.nu/"
     },
     {
+      "entry": 1236582399,
+      "orgName": "R\u00e5ne\u00e5 F\u00f6rsamling",
+      "orgNumber": "252002-5533",
+      "comment": "J\u00e4mt\u00f6 sm\u00e5kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ranea"
+    },
+    {
       "entry": 1236582639,
       "orgName": "Skjutsgruppen",
       "orgNumber": "802461-7477",
@@ -128703,6 +129551,16 @@
         "st\u00e4llplats"
       ],
       "web": "https://www.henansstallplats.com/"
+    },
+    {
+      "entry": 1236625834,
+      "orgName": "Lysekils Pastorat",
+      "orgNumber": "252004-9285",
+      "comment": "musikverksamheten Norra - Lyse, Bro & Brastad",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/lysekils-pastorat"
     },
     {
       "entry": 1236626451,
@@ -129575,6 +130433,16 @@
       "web": "https://www.svenskakyrkan.se/djuro-moja-namdo"
     },
     {
+      "entry": 1236673230,
+      "orgName": "Lycksele F\u00f6rsamling",
+      "orgNumber": "252004-0649",
+      "comment": "Barnens julg\u00e5va",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/lycksele"
+    },
+    {
       "entry": 1236673594,
       "orgName": "Kattkommando Syd Landskrona",
       "orgNumber": "802436-6349",
@@ -130251,6 +131119,16 @@
         "\u00f6vernattning"
       ],
       "web": "https://www.ahusgarden.se/"
+    },
+    {
+      "entry": 1236689731,
+      "orgName": "Link\u00f6pings Domkyrkopastorat",
+      "orgNumber": "252003-0228",
+      "comment": "Insamlingar",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/linkoping"
     },
     {
       "entry": 1236689756,
@@ -133887,6 +134765,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1236879829,
+      "orgName": "Str\u00e4ngn\u00e4s Domkyrkof\u00f6rsamling med Asp\u00f6",
+      "orgNumber": "252002-7117",
+      "comment": "St\u00f6d till barns utbildning och skolg\u00e5ng p\u00e5 landet i Egypten",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/strangnas"
     },
     {
       "entry": 1236879860,

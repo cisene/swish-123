@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-22-rev-172828
+Revision: 2024-10-23-rev-143118
 
-Nummer: 12984
+Nummer: 13072
 
 
 
@@ -1098,6 +1098,8 @@ Nummer: 12984
 **Alfta-Ovanåkers Församling**
 
     123 071 33 47 - Minnesgåvor
+
+    123 442 13 92 - Musikverksamhet
 
     123 535 81 97 - Kollekt, Gåva
 
@@ -3939,6 +3941,13 @@ Nummer: 12984
 
 
 
+**Berga Pastorat**
+
+    123 056 34 52 - Kollekt
+
+
+
+
 **Berga USKF**
 
     123 215 72 12
@@ -5205,6 +5214,13 @@ Nummer: 12984
 **Blekingska Nationen**
 
     123 207 36 58
+
+
+
+
+**Blentarps Församling**
+
+    123 033 75 50
 
 
 
@@ -7249,7 +7265,7 @@ Nummer: 12984
 
 **Brastads Församling**
 
-    123 650 21 16
+    123 650 21 16 - Kollekt
 
 
 
@@ -7426,7 +7442,7 @@ Nummer: 12984
 
 **Bro Församling**
 
-    123 022 61 26
+    123 022 61 26 - Kollekt
 
 
 
@@ -10221,6 +10237,13 @@ Nummer: 12984
 **Dannemora Ridklubb**
 
     123 264 30 88
+
+
+
+
+**Dannemorabygdens Församling**
+
+    123 219 53 78
 
 
 
@@ -16364,6 +16387,15 @@ Nummer: 12984
 
 
 
+**Fresta Församling**
+
+    123 461 08 95 - Act Svenska kyrkan
+
+    123 552 87 40 - Gåvor
+
+
+
+
 **Frida Kvinnojour Hässleholm**
 
     123 018 49 94
@@ -19870,6 +19902,13 @@ Nummer: 12984
 
 
 
+**Gimo Pastorat**
+
+    123 040 14 71
+
+
+
+
 **Gimo Ridklubb**
 
     123 395 22 72
@@ -21545,6 +21584,13 @@ Nummer: 12984
 
 
 
+**Gällivare Församling**
+
+    123 039 74 14 - Minnestelegram
+
+
+
+
 **Gällivare SK**
 
     123 081 09 45
@@ -21963,6 +22009,8 @@ Nummer: 12984
 
 
 **Göteborgs Domkyrkoförsamling**
+
+    123 379 03 91 - Musikverksamhet
 
     123 620 30 46
 
@@ -22515,6 +22563,15 @@ Nummer: 12984
 **Halmstad Wakepark**
 
     123 064 22 72
+
+
+
+
+**Halmstads Församling**
+
+    123 117 63 87 - Act Svenska kyrkan
+
+    123 312 34 86 - Act Svenska kyrkan
 
 
 
@@ -24816,6 +24873,13 @@ Nummer: 12984
 
 
 
+**Hopp för barn i Etiopien, HBE**
+
+    123 226 76 80
+
+
+
+
 **Hoppets Stjärna Insamlingsstiftelse**
 
     123 900 25 36
@@ -25116,7 +25180,13 @@ Nummer: 12984
 
     123 039 22 17
 
+    123 198 54 31 - Bokbordet
+
+    123 464 52 55 - Servering/verksamhet
+
     123 515 73 91 - Kollekt
+
+    123 557 97 92 - Gåvor/Insamlingar
 
 
 
@@ -25664,7 +25734,7 @@ Nummer: 12984
 
 **Hyssna Församling**
 
-    123 362 90 94
+    123 362 90 94 - Kollekt
 
 
 
@@ -26359,14 +26429,24 @@ Nummer: 12984
 
 **Högalid Församling**
 
-    123 120 45 77
+    123 120 45 77 - Kollekt
 
 
 
 
 **Högalids Församling**
 
-    123 286 20 92
+    123 084 58 42 - Försäljning
+
+    123 113 56 56 - Musikverksamhet
+
+    123 267 06 93 - Act Svenska kyrkan
+
+    123 286 20 92 - Kollekt
+
+    123 515 64 68 - Öppna förskolan
+
+    123 526 33 14 - Sjukhuskyrkan
 
 
 
@@ -31862,6 +31942,35 @@ Nummer: 12984
 
 
 
+**Katrineholmsbygdens Församling**
+
+    123 096 10 94 - Kollekt/Gåvor Lerbo
+
+    123 155 62 81 - Kollekt/Gåvor Stora Malm
+
+    123 191 68 73 - Musikverksamhet
+
+    123 223 91 92 - Kollekt/Gåvor Sköldinge
+
+    123 276 54 69 - Kollekt/Gåvor Floda
+
+    123 299 03 98 - Kollekt/Gåvor Julita
+
+    123 311 41 70 - Kollekt/Gåvor Sandbäcken
+
+    123 369 93 60 - Kollekt/Gåvor Katrineholm
+
+    123 526 23 16 - Kollekt/Gåvor Nävertorp
+
+    123 568 69 69 - Kollekt/Gåvor Östra Vingåker
+
+    123 596 54 47 - Gåvor
+
+    123 607 19 22 - Kollekt/Gåvor Valla
+
+
+
+
 **Kattfonden - Insamlingsstiftelsen för hemlösa katter**
 
     123 024 33 37
@@ -34520,7 +34629,7 @@ Nummer: 12984
 
 **Kumla Tärna Kila Pastorat**
 
-    123 633 08 98
+    123 633 08 98 - Act Svenska kyrkan
 
 
 
@@ -34682,9 +34791,11 @@ Nummer: 12984
 
 **Kungsängen-Västra Ryds Församling**
 
-    123 121 98 23
+    123 121 98 23 - Musikverksamhet
 
-    123 278 71 09
+    123 259 01 56 - Diakoni
+
+    123 278 71 09 - Diakoni
 
 
 
@@ -37482,11 +37593,17 @@ Nummer: 12984
 
     123 149 82 86 - Kollekt S:t Hans kyrka
 
+    123 174 24 44 - Kollekt
+
     123 188 19 11 - Övrig gåva
 
     123 281 66 27 - Kollekt Landeryds kyrka
 
     123 325 88 52
+
+    123 594 85 75 - Bokbord
+
+    123 668 97 31 - Insamlingar
 
     123 688 82 26 - Act Svenska kyrkan
 
@@ -39328,6 +39445,15 @@ Nummer: 12984
 
 
 
+**Lycksele Församling**
+
+    123 625 98 73 - Diakoni Lycksele
+
+    123 667 32 30 - Barnens julgåva
+
+
+
+
 **Lycksele Golfklubb**
 
     123 452 36 76
@@ -39463,6 +39589,16 @@ Nummer: 12984
 **Lysekils Pastorat**
 
     123 130 45 00
+
+    123 140 72 61 - Musikverksamheten Lysekil
+
+    123 214 15 62 - Café XP
+
+    123 262 04 17 - Act Svenska kyrkan
+
+    123 498 90 75 - Musikverksamheten Skaftö
+
+    123 662 58 34 - musikverksamheten Norra - Lyse, Bro & Brastad
 
 
 
@@ -40433,6 +40569,15 @@ Nummer: 12984
 **Maria Ignérus Islandshästutbildning**
 
     123 125 10 81
+
+
+
+
+**Maria Magdalena Församling**
+
+    123 397 26 19
+
+    123 653 41 35 - Musikverksamheten
 
 
 
@@ -42172,6 +42317,15 @@ Nummer: 12984
 **Mullsjö IF**
 
     123 319 93 79
+
+
+
+
+**Mullsjö-Sandhems Församling**
+
+    123 272 22 39 - Kollekt
+
+    123 272 22 47 - Fairtrade
 
 
 
@@ -44264,6 +44418,25 @@ Nummer: 12984
 
 
 
+**Norra Ölands Pastorat**
+
+    123 067 00 67 - Kollekt Räpplinge-Högsrums församling
+
+    123 087 29 45 - Kollekt Nordölands församling
+
+    123 089 34 38 - Diakoni
+
+    123 166 47 70 - Kollekt Föra-Alböke-Löts församling
+
+    123 240 39 39 - Kollekt Borgholms församling
+
+    123 448 62 70 - Kollekt Gärdslösa-Långlöt-Runstens församling
+
+    123 618 55 81 - Kollekt Köpingsviks församling
+
+
+
+
 **Norrahammar - Tabergs Ridklubb**
 
     123 552 97 30
@@ -44381,6 +44554,23 @@ Nummer: 12984
 **Norrbärke SK Alpin**
 
     123 621 60 22
+
+
+
+
+**Norrfjärdens Församling**
+
+    123 146 17 14 - Minnestelegram
+
+    123 222 10 67
+
+    123 229 00 21 - Act Svenska kyrkan
+
+    123 336 67 62 - Kollekt
+
+    123 365 11 71 - SKUT, Svenska kyrkan i Utlandet
+
+    123 427 25 14 - Serveringsavgift
 
 
 
@@ -47558,7 +47748,9 @@ Nummer: 12984
 
 **Piteå Församling**
 
-    123 115 94 17
+    123 115 94 17 - Kollekt
+
+    123 499 62 94 - Fasteinsamlingen
 
 
 
@@ -51424,6 +51616,15 @@ Nummer: 12984
 
 
 
+**Roslagens Norra Pastorat**
+
+    123 086 00 65 - Kollekt
+
+    123 267 62 11 - Zimbabwefonden
+
+
+
+
 **Roslagens Ornitologiska Förening, ROF**
 
     123 072 93 35
@@ -52723,7 +52924,11 @@ Nummer: 12984
 
 **Råneå Församling**
 
-    123 465 37 96
+    123 278 76 04 - Forsnäs kapell
+
+    123 465 37 96 - Kollekt
+
+    123 658 23 99 - Jämtö småkyrka
 
 
 
@@ -53301,7 +53506,7 @@ Nummer: 12984
 
 **Sala-Norrby-Möklinta Pastorat**
 
-    123 022 38 59
+    123 022 38 59 - Svenska kyrkans unga Sala
 
     123 288 41 87 - Övrigt
 
@@ -53747,6 +53952,15 @@ Nummer: 12984
 **Sandvikens Padel Förening**
 
     123 317 87 04
+
+
+
+
+**Sandvikens Pastorat**
+
+    123 345 44 93 - Kollekt
+
+    123 607 17 73 - Övrigt
 
 
 
@@ -55355,6 +55569,19 @@ Nummer: 12984
 
 
 
+**Skarpnäcks Församling**
+
+    123 079 36 04 - Kollekt
+
+    123 174 51 24 - Regnbågsfonden
+
+    123 222 29 58 - Diakoni
+
+    123 231 45 40 - ACT Svenska kyrkan
+
+
+
+
 **Skarv Sthlm / Sofia Sjöqvist**
 
     123 461 54 49
@@ -55509,6 +55736,8 @@ Nummer: 12984
     123 275 94 62 - Gåvor
 
     123 408 47 60 - Sjukhuskyrkan
+
+    123 593 49 55 - Scouterna
 
 
 
@@ -56448,6 +56677,8 @@ Nummer: 12984
 
 
 **Slaka-Nykils Pastorat**
+
+    123 049 81 70 - Ungdomsverksamhet
 
     123 173 27 67 - Kyrkläger
 
@@ -61497,6 +61728,31 @@ Nummer: 12984
 
 
 
+**Strängnäs Domkyrkoförsamling med Aspö**
+
+    123 033 42 68 - Kyrkans prydande
+
+    123 089 87 91 - Kyrkkaffe och Tisdagssoppan
+
+    123 172 19 19 - Diakonernas hjälpkassa
+
+    123 339 63 55 - Svenska kyrkan i Utlandet
+
+    123 354 76 76 - Musikverksamheten i församlingen
+
+    123 427 58 71 - Bokbordet
+
+    123 511 19 27 - Dagens kollekt
+
+    123 552 70 56 - Act Svenska kyrkan
+
+    123 615 11 12 - Ljusbäraren i domkyrkan
+
+    123 687 98 29 - Stöd till barns utbildning och skolgång på landet i Egypten
+
+
+
+
 **Strängnäs JSK - Skyttesport**
 
     123 030 02 02
@@ -61831,6 +62087,13 @@ Nummer: 12984
 **Stålboms konditori**
 
     123 123 94 74
+
+
+
+
+**Stöde Församling**
+
+    123 288 45 59
 
 
 
@@ -63483,7 +63746,7 @@ Nummer: 12984
 
 **Svenska Kyrkan Teneriffa**
 
-    123 609 19 20
+    123 609 19 20 - Gåvor
 
 
 
@@ -65211,6 +65474,13 @@ Nummer: 12984
 
 
 
+**Säterbygdens Församling**
+
+    123 494 86 26 - Fairtrade
+
+
+
+
 **Säters IF FK**
 
     123 077 62 78 - F 06-08
@@ -65243,7 +65513,7 @@ Nummer: 12984
 
 **Sätila Församling**
 
-    123 355 33 44
+    123 355 33 44 - Kollekt
 
 
 
@@ -65994,7 +66264,7 @@ Nummer: 12984
 
 **Södra Vedbo Pastorat**
 
-    123 318 63 92
+    123 318 63 92 - Diakoni
 
 
 
@@ -69870,7 +70140,7 @@ Nummer: 12984
 
 **Tuna-Attmars Församling**
 
-    123 388 37 90
+    123 388 37 90 - Diakoni
 
     123 533 12 10 - Diakonala gåvomedel
 
@@ -70420,6 +70690,13 @@ Nummer: 12984
 **Töllsjö IF**
 
     123 520 91 76
+
+
+
+
+**Tölö-Älvsåker Pastorat**
+
+    123 080 01 44 - Kollekt
 
 
 
@@ -73255,6 +73532,8 @@ Nummer: 12984
 
     123 143 09 09 - Kollekt
 
+    123 412 16 46 - Diakoni
+
 
 
 
@@ -73615,7 +73894,7 @@ Nummer: 12984
 
 **Vittinge Församling**
 
-    123 389 37 08
+    123 389 37 08 - Kollekt
 
 
 
@@ -74748,6 +75027,13 @@ Nummer: 12984
 **Västerljungs Hembygdsförening**
 
     123 237 05 26
+
+
+
+
+**Västerlövsta Pastorat**
+
+    123 275 39 52 - Kollekt
 
 
 
