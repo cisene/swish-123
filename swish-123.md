@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-23-rev-143118
+Revision: 2024-10-25-rev-153608
 
-Nummer: 13072
+Nummer: 13180
 
 
 
@@ -1444,6 +1444,13 @@ Nummer: 13072
 
 
 
+**Alnö Församling**
+
+    123 441 60 38 - Bokbord
+
+
+
+
 **Alnö Hembygdsförening**
 
     123 263 12 99
@@ -2795,6 +2802,25 @@ Nummer: 13072
 
 
 
+**Aspelands Pastorat**
+
+    123 166 92 41 - Kollekt Målilla församling
+
+    123 202 05 84 - Kollekt Vena församling
+
+    123 220 16 48 - Kollekt Hultsfred församling
+
+    123 535 58 54 - Kollekt Mörlunda församling
+
+    123 645 40 60 - Kollekt Lönneberga församling
+
+    123 654 70 61 - Kollekt Virserum församling
+
+    123 676 09 79 - Kollekt Järeda församling
+
+
+
+
 **Aspnäskyrkan / Järfälla Pingstförsamling**
 
     123 588 51 08
@@ -3368,6 +3394,10 @@ Nummer: 13072
 
 **Balingsta Pastorat**
 
+    123 055 51 85 - Kyrkis/tiotretton
+
+    123 091 79 06 - Ljus och bok
+
     123 149 38 16 - Kollekt Västeråkers församling
 
     123 214 86 17 - Kollekt Hagby församling
@@ -3378,9 +3408,15 @@ Nummer: 13072
 
     123 351 56 57 - Kollekt Ramsta församling
 
+    123 417 09 40 - Konfirmationsundervisning
+
     123 451 36 10 - Kollekt Uppsala Näs församling
 
+    123 459 67 30 - Ungdomsverksamhet
+
     123 468 95 01 - Kollekt Dalby församling
+
+    123 693 04 16 - Vuxenverksamhet
 
 
 
@@ -5581,7 +5617,7 @@ Nummer: 13072
 
 **Bokenäsets Församling**
 
-    123 000 70 62
+    123 000 70 62 - Kollekt
 
 
 
@@ -7349,6 +7385,19 @@ Nummer: 13072
 
 
 
+**Bredaryds Pastorat**
+
+    123 326 37 12 - Övrigt Bredaryd
+
+    123 467 45 29 - Övrigt Kulltorp
+
+    123 633 59 88 - Kollekt Kulltorp
+
+    123 683 61 18 - Kollekt Bredaryd
+
+
+
+
 **Bredestads Hembygdsförening**
 
     123 230 12 65
@@ -7450,6 +7499,13 @@ Nummer: 13072
 **Bro Församling**
 
     123 082 22 96
+
+
+
+
+**Bro Församling**
+
+    123 457 91 57 - Kollekt
 
 
 
@@ -10118,6 +10174,13 @@ Nummer: 13072
 **Dalkurd FF**
 
     123 255 97 97
+
+
+
+
+**Dals-Eds Församling**
+
+    123 304 34 11 - Minnesfond
 
 
 
@@ -14098,6 +14161,23 @@ Nummer: 13072
 
 
 
+**Eslövs Pastorat**
+
+    123 030 40 63 - Kollekt Marieholms församling
+
+    123 050 40 76 - Diakoni
+
+    123 069 53 20 - Sopplunch Flyinge
+
+    123 216 08 51 - Act Svenska kyrkan
+
+    123 551 51 27 - Kollekt Östra Onsjö församling
+
+    123 560 06 30 - Kollekt Eslövs församling
+
+
+
+
 **Eslövs Ridklubb**
 
     123 287 57 30
@@ -14152,6 +14232,33 @@ Nummer: 13072
     123 041 24 60
 
     123 185 01 89 - F15/16
+
+
+
+
+**Essunga Pastorat**
+
+    123 087 72 41 - Kollekt Essunga Kyrka
+
+    123 130 32 05 - Café Crossroad
+
+    123 207 40 03 - Kollekt Fåglums kyrka
+
+    123 221 29 67 - Kollekt Främmestads kyrka
+
+    123 232 55 12 - Kollekt Barne-Åsaka kyrka
+
+    123 287 05 58 - Övrigt
+
+    123 370 58 29 - Kollekt Bärebergs kyrka
+
+    123 386 42 20 - Kollekt Lekåsa kyrka
+
+    123 442 55 75 - Kollekt Kyrkås kyrka
+
+    123 511 72 88 - Ungdomsgruppen
+
+    123 626 71 16 - Kollekt Nossebro kyrka
 
 
 
@@ -14589,6 +14696,8 @@ Nummer: 13072
     123 413 75 50 - Falköping och Yllestads församling
 
     123 459 41 15 - Åslebygdens församling
+
+    123 520 55 70 - Kollekt
 
     123 635 61 41 - Mössebergs församling
 
@@ -15837,7 +15946,7 @@ Nummer: 13072
 
 **Floda Församling**
 
-    123 000 82 35
+    123 000 82 35 - Kollekt
 
 
 
@@ -18183,6 +18292,13 @@ Nummer: 13072
 
 
 
+**Föreningen för Sankta Thoras pilgrimsled**
+
+    123 607 43 63
+
+
+
+
 **Föreningen för Sverigevänliga intressen, SamNytt**
 
     123 083 33 50
@@ -19448,7 +19564,7 @@ Nummer: 13072
 
 **Gagnefs Pastorat**
 
-    123 615 59 49
+    123 615 59 49 - Kollekt
 
 
 
@@ -20786,7 +20902,7 @@ Nummer: 13072
 
 **Grisbacka EFS Missionsförening**
 
-    123 081 06 89
+    123 081 06 89 - Gåvor
 
 
 
@@ -23881,7 +23997,19 @@ Nummer: 13072
 
 **Helsingborgs Pastorat**
 
+    123 096 01 46 - Kollekt Raus församling
+
+    123 370 08 87 - Act svenska kyrkan
+
+    123 378 56 07 - Projekt Hutano
+
+    123 388 05 98
+
     123 568 17 05
+
+    123 593 34 60 - Kollekt Gustav Adolfs församling
+
+    123 609 80 99 - Kollekt Maria församling
 
 
 
@@ -28365,6 +28493,19 @@ Nummer: 13072
 
 
 
+**Indalens Pastorat**
+
+    123 019 39 20 - Kollekt Holms församling
+
+    123 198 80 54 - Kollekt Indals församling
+
+    123 362 92 19 - Kollekt Lidens församling
+
+    123 662 42 58 - Kollekt Sättna församling
+
+
+
+
 **Indals IF**
 
     123 521 76 82
@@ -31108,6 +31249,13 @@ Nummer: 13072
 
 
 
+**Kalmar Pastorat**
+
+    123 644 16 53 - Kollekt Kalmar Slottskyrka
+
+
+
+
 **Kalmar RC Triathlon**
 
     123 197 91 29
@@ -31424,6 +31572,27 @@ Nummer: 13072
 **Karlsborgs Lyftarklubb**
 
     123 594 97 63
+
+
+
+
+**Karlsborgs Pastorat**
+
+    123 069 68 72 - Kollekt Breviks kyrka
+
+    123 263 10 26 - Kollekt Forsviks kyrka
+
+    123 331 18 42 - Kollekt Skaga stavkyrka
+
+    123 345 02 51 - Kollekt Undenäs kyrka
+
+    123 483 27 88 - Kollekt Mölltorps kyrka
+
+    123 515 03 13 - Kollekt Garnisonskyrkan
+
+    123 527 31 98 - Kollekt Tacksägelsekyrkan
+
+    123 618 04 00 - Kollekt Bocksjö kapell
 
 
 
@@ -34213,13 +34382,15 @@ Nummer: 13072
 
     123 312 05 40 - Kollekt Föllingebygden
 
+    123 348 27 00 - Kollekt Ås
+
     123 349 91 42 - Kollekt Offerdal
 
     123 364 53 63 - Kollekt Näskott
 
     123 635 44 50 - Kollekt Alsen
 
-    123 676 04 74 - Kollekt Ås
+    123 676 04 74 - Kollekt Rödön
 
 
 
@@ -34623,6 +34794,19 @@ Nummer: 13072
 **Kumla Hockey**
 
     123 223 93 82
+
+
+
+
+**Kumla Pastorat**
+
+    123 196 29 43 - Kollekt Hardemo
+
+    123 199 54 55 - Kollekt Ekeby
+
+    123 595 93 33 - Act Svenska kyrkan
+
+    123 695 60 15 - Kollekt Kumla
 
 
 
@@ -35097,7 +35281,9 @@ Nummer: 13072
 
 **Kvinnohuset Örebro**
 
-    123 627 52 75
+    123 589 74 91 - Gåvor
+
+    123 627 52 75 - Medlemsavgift
 
 
 
@@ -36474,6 +36660,17 @@ Nummer: 13072
 
 
 
+**Leksands Pastorat**
+
+    123 024 14 97 - Gåvor Siljansnäs församling
+
+    123 034 65 36 - Gåvor Djura församling
+
+    123 131 31 96 - Gåvor Leksands församling
+
+
+
+
 **Leksands Ridklubb**
 
     123 354 81 53 - Tävlingar, Omstart
@@ -36526,7 +36723,7 @@ Nummer: 13072
 
     123 205 67 78
 
-    123 269 50 47
+    123 269 50 47 - Kollekt
 
 
 
@@ -37378,9 +37575,17 @@ Nummer: 13072
 
 
 
-**Linde Bergslags Församling**
+**Linde bergslags Församling**
 
-    123 366 33 17
+    123 149 79 81 - Kollekt Ramsbergs kyrka
+
+    123 244 02 46 - Kollekt Vedevågs kyrka
+
+    123 336 44 29 - Kollekt Lindesbergs kyrka
+
+    123 366 33 17 - Sociala Stiftelsen
+
+    123 422 74 35 - Kollekt Guldsmedshyttans kyrka
 
 
 
@@ -39014,6 +39219,15 @@ Nummer: 13072
 **Ludvika BK**
 
     123 553 74 10
+
+
+
+
+**Ludvika Församling**
+
+    123 319 87 77 - Kollekt Ulrika kyrka
+
+    123 527 66 47 - Kollekt Lillkyrkan
 
 
 
@@ -42340,6 +42554,13 @@ Nummer: 13072
 **Mulvad Jakt och Hundträning AB**
 
     123 429 04 41
+
+
+
+
+**Munka Ljungby Församling**
+
+    123 561 49 04 - Kollekt, Gåvor
 
 
 
@@ -45898,13 +46119,6 @@ Nummer: 13072
 **OK Tor**
 
     123 006 30 73
-
-
-
-
-**Olaus Petri Församling**
-
-    123 105 29 35
 
 
 
@@ -53242,6 +53456,8 @@ Nummer: 13072
 
     123 555 74 83
 
+    123 641 66 06 - Musikverksamheten
+
 
 
 
@@ -57166,6 +57382,13 @@ Nummer: 13072
 
 
 
+**Snöstorps Församling**
+
+    123 690 03 02 - Kollekt
+
+
+
+
 **Snöå Golfklubb**
 
     123 175 70 20 - Greenfee
@@ -57452,6 +57675,13 @@ Nummer: 13072
 **Sollyckans kyrka**
 
     123 576 03 43 - Kollekt
+
+
+
+
+**Solna Församling**
+
+    123 480 73 43
 
 
 
@@ -62093,6 +62323,8 @@ Nummer: 13072
 
 **Stöde Församling**
 
+    123 204 66 21
+
     123 288 45 59
 
 
@@ -62698,6 +62930,13 @@ Nummer: 13072
 **Svalövs brukshundklubb**
 
     123 593 13 81
+
+
+
+
+**Svalövsbygdens Pastorat**
+
+    123 345 28 85 - Kollekt
 
 
 
@@ -65756,6 +65995,19 @@ Nummer: 13072
 
 
 
+**Söderala Pastorat**
+
+    123 167 78 55 - Kollekt Ljusne
+
+    123 387 84 02 - Kollekt Skog
+
+    123 400 23 25 - Kollekt Mo-Bergvik
+
+    123 535 42 38 - Kollekt Söderala
+
+
+
+
 **Söderblommor**
 
     123 229 44 03
@@ -65886,6 +66138,8 @@ Nummer: 13072
     123 275 33 66 - Mogata kyrka
 
     123 321 76 27 - Skönberga kyrka
+
+    123 343 01 39 - Diakoni
 
     123 389 88 55 - S:t Anna stora kyrka
 
@@ -68302,7 +68556,7 @@ Nummer: 13072
 
 **Tensta Församling**
 
-    123 657 13 01
+    123 657 13 01 - Kollekt
 
 
 
@@ -70275,6 +70529,13 @@ Nummer: 13072
 
 
 
+**Två Systrars Församling**
+
+    123 370 79 65 - Two Sisters School i Kenya
+
+
+
+
 **Tvååkers IF**
 
     123 083 27 09 - Kiosken
@@ -72025,6 +72286,27 @@ Nummer: 13072
 
 
 
+**Vadstena Pastorat**
+
+    123 105 28 28 - Klosterkyrkans gåvofond
+
+    123 122 42 52 - Svenska kyrkans internationella arbete
+
+    123 179 46 68 - Diakoni
+
+    123 311 40 89 - Barn- och ungdomsverksamheten
+
+    123 389 34 01 - Söndagens kollekt
+
+    123 476 39 18 - Gåvokistan
+
+    123 593 55 72 - Musikverksamheten
+
+    123 603 34 35 - Bokbordet
+
+
+
+
 **Vaggeryd-Skillingaryds Ridklubb**
 
     123 024 43 43
@@ -73533,6 +73815,8 @@ Nummer: 13072
     123 143 09 09 - Kollekt
 
     123 412 16 46 - Diakoni
+
+    123 471 84 09 - Paltogram
 
 
 
@@ -75690,6 +75974,19 @@ Nummer: 13072
 
 
 
+**Västra Tunhems Pastorat**
+
+    123 172 00 77 - Kollekt Vänersnäs
+
+    123 288 65 88 - Kollekt Västra Tunhem
+
+    123 421 90 44 - Kollekt Åsaka-Björke
+
+    123 589 61 96 - Kollekt Gärdhem
+
+
+
+
 **Västra Vikbolandets Församling**
 
     123 673 60 03 - ACT
@@ -76950,7 +77247,7 @@ Nummer: 13072
 
 **Ystad-Sövestads Församling**
 
-    123 114 71 15
+    123 114 71 15 - Gåvor
 
 
 
@@ -77658,7 +77955,7 @@ Nummer: 13072
 
 **Ärentuna Församling**
 
-    123 073 15 70
+    123 073 15 70 - Kollekt
 
 
 
@@ -79009,6 +79306,35 @@ Nummer: 13072
 **Örebro Läns Strokeförening, ÖLS**
 
     123 353 42 86
+
+
+
+
+**Örebro Pastorat**
+
+    123 096 13 42 - Café/Servering Olaus Petri församling
+
+    123 097 37 76 - Kollekt Olaus Petri församling
+
+    123 105 29 35 - Gåvor/ljus Olaus Petri församling
+
+    123 106 79 41 - Kollekt Mikaels församling
+
+    123 237 26 13 - Kollekt/Gåvor Edsbergs församling
+
+    123 281 70 13 - Diakoni Mikaels församling
+
+    123 313 75 69 - Bokbord Olaus Petri församling
+
+    123 343 12 44 - Servering/försäljning Edsbergs församling
+
+    123 343 12 51 - Kollekt/Gåvor Mosjö-Täby församling
+
+    123 464 26 90 - Servering/försäljning Mosjö-Täby församling
+
+    123 539 80 78 - S:t Mikaels kyrkan Bastu
+
+    123 690 72 57 - Lokalhyra
 
 
 
