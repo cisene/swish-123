@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-25-rev-153608
+Revision: 2024-10-26-rev-125533
 
-Nummer: 13180
+Nummer: 13241
 
 
 
@@ -1841,6 +1841,13 @@ Nummer: 13180
 **Andreasförsamlingen**
 
     123 056 91 11
+
+
+
+
+**Andreaskyrkan**
+
+    123 029 44 39
 
 
 
@@ -4158,6 +4165,13 @@ Nummer: 13180
 
 
 
+**Betaniaförsamlingen i Rönnäng**
+
+    123 172 04 32
+
+
+
+
 **Betaniaförsamlingen i Östra Ryd**
 
     123 161 09 30
@@ -6127,6 +6141,13 @@ Nummer: 13180
 **Borås och Sjuhäradsbygdens konstförening, Flaménska galleriet**
 
     123 225 76 32
+
+
+
+
+**Borås Pastorat**
+
+    123 608 48 42 - Diakoni
 
 
 
@@ -12154,6 +12175,13 @@ Nummer: 13180
 
 
 
+**Edsbyns Missionsförsamling**
+
+    123 538 40 03
+
+
+
+
 **Edsvikens Båtklubb**
 
     123 084 98 93
@@ -12266,6 +12294,13 @@ Nummer: 13180
 
 
 
+**EFS Kretsförening Sandvikengården**
+
+    123 362 21 07
+
+
+
+
 **EFS Missionsförening Hammarbykyrkan**
 
     123 419 50 12
@@ -12283,6 +12318,13 @@ Nummer: 13180
 **EFS Missionsförening i Borås**
 
     123 181 21 97
+
+
+
+
+**EFS Missionsförening i Helsingborg**
+
+    123 652 40 86
 
 
 
@@ -12329,6 +12371,13 @@ Nummer: 13180
     123 223 84 18
 
     123 421 83 27 - Frösövallen
+
+
+
+
+**EFS Missonsförsamling i Töllsjö**
+
+    123 626 31 23
 
 
 
@@ -13370,6 +13419,13 @@ Nummer: 13180
 **Equmenia Habo**
 
     123 042 68 17
+
+
+
+
+**Equmenia Harbo**
+
+    123 135 06 28
 
 
 
@@ -15258,9 +15314,30 @@ Nummer: 13180
 
 
 
+**Filadelfia Västerort - Spånga Kyrkan**
+
+    123 198 57 38
+
+
+
+
+**Filadelfia Överhörnäs**
+
+    123 276 81 82
+
+
+
+
 **Filadelfiaförsamlingen Avesta**
 
     123 089 86 92
+
+
+
+
+**Filadelfiaförsamlingen Delsbo**
+
+    123 441 50 55
 
 
 
@@ -15300,7 +15377,14 @@ Nummer: 13180
 
 
 
-**Filadelfiaförsamlingen I Stockholm**
+**Filadelfiaförsamlingen i Sollentuna**
+
+    123 029 41 40
+
+
+
+
+**Filadelfiaförsamlingen i Stockholm**
 
     123 311 76 94
 
@@ -15317,6 +15401,13 @@ Nummer: 13180
 **Filadelfiaförsamlingen i Östersund**
 
     123 114 57 54
+
+
+
+
+**Filadelfiaförsamlingen Stigsjö**
+
+    123 668 51 76
 
 
 
@@ -17276,6 +17367,13 @@ Nummer: 13180
     123 321 21 98
 
     123 392 61 28
+
+
+
+
+**Fröjereds Missionsförsamling**
+
+    123 350 19 39
 
 
 
@@ -22103,6 +22201,13 @@ Nummer: 13180
 
 
 
+**Göteborgkyrkan**
+
+    123 218 49 76
+
+
+
+
 **Göteborgs Akademiska Ryttarsällskap, GARS**
 
     123 263 62 98
@@ -22567,6 +22672,13 @@ Nummer: 13180
 **Hallsbergs Brukshundsklubb**
 
     123 326 22 76
+
+
+
+
+**Hallsbergs Församling**
+
+    123 555 72 10 - Kollekt
 
 
 
@@ -23109,6 +23221,13 @@ Nummer: 13180
 **Haraldssons Auktioner AB**
 
     123 116 90 28
+
+
+
+
+**Harbo Missionsförsamling**
+
+    123 690 81 98 - Församlingskassan
 
 
 
@@ -24913,6 +25032,15 @@ Nummer: 13180
 
 
 
+**Holmsunds Församling**
+
+    123 268 20 29 - Kollekt Obbola kyrka
+
+    123 287 03 76 - Kollekt Holmsunds kyrka
+
+
+
+
 **Holmsvedenbygdens Intresseförening**
 
     123 107 35 50
@@ -26555,18 +26683,13 @@ Nummer: 13180
 
 
 
-**Högalid Församling**
-
-    123 120 45 77 - Kollekt
-
-
-
-
 **Högalids Församling**
 
     123 084 58 42 - Försäljning
 
     123 113 56 56 - Musikverksamhet
+
+    123 120 45 77 - Kollekt
 
     123 267 06 93 - Act Svenska kyrkan
 
@@ -26695,6 +26818,13 @@ Nummer: 13180
 
 
 
+**Högsby Filadelfiaförsamling**
+
+    123 495 79 08
+
+
+
+
 **Högsby Sockens Hembygdsförening**
 
     123 233 93 72
@@ -26783,7 +26913,7 @@ Nummer: 13180
 
 **Hönö Missionsförsamling**
 
-    123 560 09 45
+    123 560 09 45 - Församlingskassan
 
     123 604 24 85 - Barn- och ungdomsverksamhet
 
@@ -34108,7 +34238,7 @@ Nummer: 13180
 
 
 
-**Kristen Samverkan Småland-Blekinge**
+**Kristen Samverkan Småland-Blekinge, KSSB**
 
     123 601 35 69
 
@@ -39601,6 +39731,15 @@ Nummer: 13180
 
 
 
+**Lunds Pastorat**
+
+    123 337 83 12 - Övrigt
+
+    123 624 67 14 - Diakoni
+
+
+
+
 **Lunds skateboard- och konstförening**
 
     123 655 59 16
@@ -40608,6 +40747,13 @@ Nummer: 13180
 **Malmö Lyftarklubb**
 
     123 355 34 35
+
+
+
+
+**Malmö Pingstförsamling**
+
+    123 580 84 49
 
 
 
@@ -41779,6 +41925,13 @@ Nummer: 13180
 **Missing People Sweden**
 
     123 900 56 20
+
+
+
+
+**Mission i Murmanskområdet**
+
+    123 220 35 86
 
 
 
@@ -44429,6 +44582,13 @@ Nummer: 13180
 **Nordöstra Skånes Fågelklubb**
 
     123 225 16 27
+
+
+
+
+**Norea Sverige**
+
+    123 514 20 54
 
 
 
@@ -47390,6 +47550,8 @@ Nummer: 13180
 
     123 667 21 74 - Missionskassan
 
+    123 673 50 62 - Singoalla
+
 
 
 
@@ -47433,6 +47595,15 @@ Nummer: 13180
 
 
 
+**Pingst Västerås**
+
+    123 050 69 80
+
+    123 304 52 34
+
+
+
+
 **Pingstförsamlingen Arvika**
 
     123 147 97 65
@@ -47457,6 +47628,13 @@ Nummer: 13180
 **Pingstförsamlingen Falkenberg**
 
     123 304 55 98
+
+
+
+
+**Pingstförsamlingen Falköping**
+
+    123 059 18 26
 
 
 
@@ -47491,6 +47669,17 @@ Nummer: 13180
 
 
 
+**Pingstförsamlingen i Alingsås**
+
+    123 032 31 47
+
+    123 045 08 09 - Specialmission
+
+    123 105 34 20 - En gåva till stan
+
+
+
+
 **Pingstförsamlingen i Arboga**
 
     123 545 74 29 - Offer, tionde, hjälpkassa
@@ -47521,7 +47710,20 @@ Nummer: 13180
 
 **Pingstförsamlingen i Karlskrona**
 
-    123 060 99 17
+    123 060 99 17 - Gåvor
+
+
+
+
+**Pingstförsamlingen i Karlstad**
+
+    123 056 73 88 - Församlingen
+
+    123 195 04 19 - Renovering
+
+    123 219 50 63 - Sociala fonden
+
+    123 562 59 42 - Ungdomsverksamhet
 
 
 
@@ -47558,6 +47760,13 @@ Nummer: 13180
 
 
 
+**Pingstförsamlingen i Leksand**
+
+    123 173 31 87
+
+
+
+
 **Pingstförsamlingen i Lindesberg**
 
     123 187 02 29
@@ -47575,6 +47784,15 @@ Nummer: 13180
 **Pingstförsamlingen i Luleå**
 
     123 343 05 92
+
+
+
+
+**Pingstförsamlingen i Lycksele**
+
+    123 056 61 25 - Församlingskassan
+
+    123 263 44 34 - Kyrkfonden
 
 
 
@@ -47630,6 +47848,13 @@ Nummer: 13180
 
 
 
+**Pingstförsamlingen i Uddevalla**
+
+    123 049 95 33
+
+
+
+
 **Pingstförsamlingen i Varberg**
 
     123 014 13 74 - Matkassen
@@ -47651,13 +47876,6 @@ Nummer: 13180
 **Pingstförsamlingen i Västerbottens Mellanbygd**
 
     123 412 54 23
-
-
-
-
-**Pingstförsamlingen i Västerås**
-
-    123 304 52 34
 
 
 
@@ -47711,6 +47929,13 @@ Nummer: 13180
 **Pingstförsamlingen Köping**
 
     123 225 53 13
+
+
+
+
+**Pingstförsamlingen Norrahammar-Taberg**
+
+    123 197 31 22
 
 
 
@@ -47800,7 +48025,7 @@ Nummer: 13180
 
 
 
-**Pingstkyrkan I Söderköping**
+**Pingstkyrkan i Söderköping**
 
     123 345 68 86
 
@@ -47823,17 +48048,40 @@ Nummer: 13180
 
 
 
+**Pingstkyrkan Kungsbacka**
+
+    123 072 05 32 - Breaking Ground
+
+    123 338 57 21 - Församlingskassan
+
+    123 447 48 05 - Café Pingstkyrkan
+
+    123 461 32 87 - Glassboden
+
+
+
+
 **Pingstkyrkan Lidköping**
 
-    123 137 19 21 - Församlingskassan
+    123 024 82 86 - Fika Grästorpskassan
+
+    123 033 45 57 - Kyrkkaffe
+
+    123 137 19 21 - Kollekt
+
+    123 147 79 34 - Örslösa Royal
 
     123 269 59 89 - Missionskassan
 
-    123 272 16 60 - Örslösakassan
+    123 272 16 60 - Kollekt Örslösa
 
-    123 346 11 00 - Grästorpskassan
+    123 346 11 00 - Gåva Grästorpskassan
 
     123 555 80 77 - Byggnadskonto
+
+    123 555 80 93 - Fika Örslösa
+
+    123 680 32 58 - Kaj
 
 
 
@@ -53713,6 +53961,13 @@ Nummer: 13180
 
 
 
+**Sala Missionsförsamling**
+
+    123 275 76 23
+
+
+
+
 **Sala MSK - Motorcykel och Snöskoter**
 
     123 271 03 58
@@ -55748,6 +56003,13 @@ Nummer: 13180
 
 
 
+**Skara Pingstförsamling**
+
+    123 086 73 58
+
+
+
+
 **Skara Tennisklubb**
 
     123 377 19 61
@@ -56115,6 +56377,13 @@ Nummer: 13180
 **Skillingaryds Pistolskytteklubb PSK**
 
     123 130 13 40
+
+
+
+
+**Skillinge Missionshus**
+
+    123 511 21 07
 
 
 
@@ -57796,6 +58065,15 @@ Nummer: 13180
 **Sonstorps IK**
 
     123 259 06 10
+
+
+
+
+**Sonstorps Missionskyrka, Hällestad Friförsamling**
+
+    123 222 16 87 - Byggnadskassan
+
+    123 362 26 51 - Missionskassan
 
 
 
@@ -63947,13 +64225,6 @@ Nummer: 13180
 **Svenska Kuvaszklubben, SVKK**
 
     123 157 31 38
-
-
-
-
-**Svenska kyrkan i Borås**
-
-    123 608 48 42
 
 
 
@@ -78806,6 +79077,12 @@ Nummer: 13180
 
     123 080 31 30 - Barnverksamhet, ungdomsverksamhet
 
+    123 148 16 54 - Kollekt
+
+    123 148 28 27 - Musikverksamhet
+
+    123 189 83 29 - Bokbord
+
 
 
 
@@ -79153,6 +79430,15 @@ Nummer: 13180
 **Öppet Hus**
 
     123 238 73 89
+
+
+
+
+**Örby-Skene Församling**
+
+    123 552 29 58
+
+    123 696 85 07 - Kollekt
 
 
 
@@ -80104,6 +80390,17 @@ Nummer: 13180
 **Österåkers Konsthall på Länsmansgården / Österåkers Konstförening**
 
     123 047 09 71
+
+
+
+
+**Österåkers Pastorat**
+
+    123 262 02 76 - Kollekt Ljusterö-Kulla församling
+
+    123 501 53 18 - Kollekt Österåker-Östra Ryds församling
+
+    123 516 61 29 - Övrigt
 
 
 
