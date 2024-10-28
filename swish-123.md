@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-26-rev-125533
+Revision: 2024-10-28-rev-155724
 
-Nummer: 13241
+Nummer: 13296
 
 
 
@@ -3500,6 +3500,13 @@ Nummer: 13241
 
 
 
+**Baptistkyrkan Sundsvall**
+
+    123 185 11 53
+
+
+
+
 **Bara vanlig hälsa**
 
     123 019 10 23
@@ -5825,6 +5832,13 @@ Nummer: 13241
 **Borbygdens SMU**
 
     123 639 48 60
+
+
+
+
+**Borensbergs Baptistförsamling**
+
+    123 040 03 82
 
 
 
@@ -12301,6 +12315,17 @@ Nummer: 13241
 
 
 
+**EFS-Kyrkan i Ängelholm**
+
+    123 018 50 90 - Servering
+
+    123 067 09 19 - UG Fika
+
+    123 122 47 32 - Kollekt
+
+
+
+
 **EFS Missionsförening Hammarbykyrkan**
 
     123 419 50 12
@@ -12521,6 +12546,20 @@ Nummer: 13241
 
 
 
+**Ekeryd-Byarum SAU**
+
+    123 243 23 59
+
+
+
+
+**Ekeryds Missionsförsamling**
+
+    123 082 26 92
+
+
+
+
 **Ekerö Båtklubb**
 
     123 024 59 51
@@ -12570,9 +12609,23 @@ Nummer: 13241
 
 
 
+**EKHO Mälardalen**
+
+    123 464 63 78
+
+
+
+
 **EKHO Skåne**
 
     123 270 85 68
+
+
+
+
+**EKHO Stockholm**
+
+    123 369 00 70
 
 
 
@@ -13374,6 +13427,20 @@ Nummer: 13241
 
 
 
+**Eqmeniakyrkan Toarp**
+
+    123 652 50 67
+
+
+
+
+**Eqmeniakyrkan Toarp**
+
+    123 198 91 51 - Ungdomsarbetet
+
+
+
+
 **Equmenia Ansgarskyrkan Västerås**
 
     123 417 08 90
@@ -13381,9 +13448,23 @@ Nummer: 13241
 
 
 
+**Equmenia Bromma**
+
+    123 150 61 87
+
+
+
+
 **Equmenia Ekbackskyrkan**
 
     123 181 95 15
+
+
+
+
+**Equmenia Eksjö**
+
+    123 245 42 21
 
 
 
@@ -13416,6 +13497,13 @@ Nummer: 13241
 
 
 
+**Equmenia Gråbo**
+
+    123 614 74 25
+
+
+
+
 **Equmenia Habo**
 
     123 042 68 17
@@ -13426,6 +13514,20 @@ Nummer: 13241
 **Equmenia Harbo**
 
     123 135 06 28
+
+
+
+
+**Equmenia Hemsjö**
+
+    123 396 85 26
+
+
+
+
+**Equmenia Hestra/Grimsås**
+
+    123 653 72 86
 
 
 
@@ -13468,6 +13570,13 @@ Nummer: 13241
 **Equmenia Knivsta**
 
     123 493 64 07
+
+
+
+
+**Equmenia Lerum**
+
+    123 633 58 89
 
 
 
@@ -13535,6 +13644,13 @@ Nummer: 13241
 
 
 
+**Equmenia Skårekyrkan**
+
+    123 550 28 77
+
+
+
+
 **Equmenia Stora Skedvi**
 
     123 073 76 76
@@ -13542,9 +13658,41 @@ Nummer: 13241
 
 
 
+**Equmenia TRE**
+
+    123 106 79 90 - Fika
+
+    123 174 72 29 - Scout
+
+    123 275 95 04 - Läger
+
+
+
+
+**Equmenia Tureholmskyrkan**
+
+    123 542 24 31 - Läger
+
+
+
+
+**Equmenia Vaggeryd**
+
+    123 288 73 05
+
+
+
+
 **Equmenia Vrigstad**
 
     123 422 86 98
+
+
+
+
+**Equmenia Värö**
+
+    123 069 28 63
 
 
 
@@ -13579,6 +13727,13 @@ Nummer: 13241
 
 
 
+**Equmeniakyrkan Arvika**
+
+    123 225 58 75
+
+
+
+
 **Equmeniakyrkan Bohus-Björkö**
 
     123 649 23 00
@@ -13589,6 +13744,13 @@ Nummer: 13241
 **Equmeniakyrkan Ekenässjön**
 
     123 106 55 49
+
+
+
+
+**Equmeniakyrkan Eksjö**
+
+    123 222 21 64
 
 
 
@@ -13614,9 +13776,30 @@ Nummer: 13241
 
 
 
+**Equmeniakyrkan Götene**
+
+    123 033 60 73
+
+
+
+
 **Equmeniakyrkan Hallunda**
 
     123 225 86 22
+
+
+
+
+**Equmeniakyrkan Hemsjö**
+
+    123 467 64 33
+
+
+
+
+**Equmeniakyrkan Hestra**
+
+    123 056 26 52
 
 
 
@@ -13684,6 +13867,13 @@ Nummer: 13241
 
 
 
+**Equmeniakyrkan Lerum**
+
+    123 696 81 01
+
+
+
+
 **Equmeniakyrkan Linköping**
 
     123 483 32 08
@@ -13712,6 +13902,13 @@ Nummer: 13241
 
 
 
+**Equmeniakyrkan Nossebro**
+
+    123 470 26 84
+
+
+
+
 **Equmeniakyrkan Skeda**
 
     123 422 82 01
@@ -13731,6 +13928,13 @@ Nummer: 13241
     123 459 46 93
 
     123 539 85 73 - Barnverksamhet, ungdomsverksamhet
+
+
+
+
+**Equmeniakyrkan Tibro**
+
+    123 471 65 93
 
 
 
@@ -13756,6 +13960,20 @@ Nummer: 13241
 
 
 
+**Equmeniakyrkan Värö**
+
+    123 589 54 79
+
+
+
+
+**Equmeniakyrkan Väse**
+
+    123 098 52 91
+
+
+
+
 **Equmeniakyrkan Vårgårda**
 
     123 502 23 48
@@ -13773,6 +13991,13 @@ Nummer: 13241
 **Equmeniakyrkan Åmål**
 
     123 109 59 00
+
+
+
+
+**Equmeniakyrkan Åsenhöga**
+
+    123 418 33 80
 
 
 
@@ -22501,6 +22726,13 @@ Nummer: 13241
 
 
 
+**Haga Missionsförsamling**
+
+    123 480 34 66
+
+
+
+
 **Haga Taekwondo**
 
     123 560 61 16
@@ -26783,6 +27015,13 @@ Nummer: 13241
 
 
 
+**Höglandskyrkan Sävsjö**
+
+    123 464 18 09
+
+
+
+
 **Höglandsnäs Byaförening**
 
     123 065 74 94
@@ -30350,6 +30589,13 @@ Nummer: 13241
 **Johanneskyrkan Boden**
 
     123 076 07 69
+
+
+
+
+**Johanneskyrkan i Lindome**
+
+    123 225 57 35
 
 
 
@@ -34036,6 +34282,13 @@ Nummer: 13241
 
 
 
+**Korskyrkan Örkelljunga**
+
+    123 048 94 19
+
+
+
+
 **Korskyrkans Församling**
 
     123 389 44 09 - Ungdomskassa
@@ -34910,6 +35163,13 @@ Nummer: 13241
 **Kumla Brukshundsklubb**
 
     123 286 17 30
+
+
+
+
+**Kumla Equmeniaförsamling**
+
+    123 511 36 34
 
 
 
@@ -53557,6 +53817,13 @@ Nummer: 13241
 
 
 
+**Rönninge Missionsförsamling**
+
+    123 275 72 43
+
+
+
+
 **Rönnskär Railcare IF**
 
     123 188 23 07
@@ -53691,6 +53958,13 @@ Nummer: 13241
 
 
 
+**S:t Gabriel Västra Frölunda, Syrisk Ortodoxa Kyrkan i Västra Frölunda**
+
+    123 351 63 41
+
+
+
+
 **S:t Helena BK**
 
     123 018 30 95
@@ -53703,6 +53977,8 @@ Nummer: 13241
     123 374 75 73 - Filt Johannes
 
     123 555 74 83
+
+    123 569 61 58
 
     123 641 66 06 - Musikverksamheten
 
@@ -53726,6 +54002,13 @@ Nummer: 13241
 **S:t Lars Församling**
 
     123 410 58 13
+
+
+
+
+**S:t Lars katolska församling Uppsala**
+
+    123 197 28 84
 
 
 
@@ -53824,6 +54107,15 @@ Nummer: 13241
 **S:t Sigfrids IF**
 
     123 029 48 35
+
+
+
+
+**S:t Simon Borås, Syrisk Ortodoxa Kyrkan i Borås**
+
+    123 216 36 99 - Gåvor
+
+    123 465 99 42
 
 
 
@@ -55687,6 +55979,13 @@ Nummer: 13241
 
 
 
+**Sjömarkens Missionsförsamling**
+
+    123 162 69 85
+
+
+
+
 **Sjörup-Vallösa Byalag**
 
     123 653 23 11
@@ -57017,6 +57316,13 @@ Nummer: 13241
 **Skånsta Ryttare**
 
     123 134 13 38
+
+
+
+
+**Skårekyrkans Församling**
+
+    123 540 61 52
 
 
 
@@ -59985,6 +60291,13 @@ Nummer: 13241
 **Stackbo Islandshästar / Carina Eklund**
 
     123 514 79 05
+
+
+
+
+**Stadionkyrkans Församling**
+
+    123 394 33 96
 
 
 
@@ -65814,6 +66127,13 @@ Nummer: 13241
 
 
 
+**Sällskapet Gustafs Skål**
+
+    123 410 51 28
+
+
+
+
 **Sällskapet Hallands Väderös Natur**
 
     123 635 59 60
@@ -69522,6 +69842,13 @@ Nummer: 13241
 
 
 
+**To All Mission**
+
+    123 663 13 29
+
+
+
+
 **To be continued**
 
     123 173 72 12
@@ -70820,6 +71147,13 @@ Nummer: 13241
     123 635 80 71
 
     123 648 42 73
+
+
+
+
+**Tvååkers Pastorat**
+
+    123 237 50 38 - ACT Svenska kyrkan
 
 
 
@@ -75335,6 +75669,13 @@ Nummer: 13241
 
 
 
+**Värö-Stråvalla Församling**
+
+    123 470 18 50
+
+
+
+
 **Värö-Stråvalla Hembygdsförening**
 
     123 196 36 10
@@ -75410,6 +75751,13 @@ Nummer: 13241
 **Väse Framtid**
 
     123 000 89 12
+
+
+
+
+**Väse Missionsförsamling**
+
+    123 616 12 44
 
 
 
@@ -76372,9 +76720,9 @@ Nummer: 13241
 
 
 
-**Växjö IBK Utveckling**
+**Växjö IBK**
 
-    123 511 16 38
+    123 511 16 38 - Utveckling
 
 
 
@@ -78923,6 +79271,13 @@ Nummer: 13241
 **Åsele Nya Golfklubb**
 
     123 553 23 04
+
+
+
+
+**Åsenhöga Equmenia**
+
+    123 218 33 74 - Insamlingar
 
 
 
