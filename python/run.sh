@@ -24,7 +24,7 @@ python3 ./entries-to-markdown.py
 
 
 # Render PDF from MD
-pandoc --pdf-engine=pdfroff --toc-depth=1 ../swish-123.md -o ../swish-123.pdf
+pandoc --pdf-engine=pdfroff --toc-depth=1 ../swish-123.md -o ../swish-123.pdf > /dev/null
 
 # Add to git
 git add ../yaml/entries.yaml
