@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-28-rev-155724
+Revision: 2024-10-29-rev-201147
 
-Nummer: 13296
+Nummer: 13311
 
 
 
@@ -10609,6 +10609,13 @@ Nummer: 13296
 
 
 
+**DelsboYoga / Cecilia Andrén**
+
+    123 228 46 02
+
+
+
+
 **Delta Inkasso / Great Week AB**
 
     123 459 99 24
@@ -12917,9 +12924,23 @@ Nummer: 13296
 
 
 
+**Elimförsamlingen Simrishamn**
+
+    123 590 64 17
+
+
+
+
 **Elimförsamlingen Styrsö**
 
     123 222 32 12
+
+
+
+
+**Elimkyrkan**
+
+    123 049 71 23
 
 
 
@@ -24072,6 +24093,15 @@ Nummer: 13296
 
 
 
+**Hela Människan - LP Finnveden Värnamo**
+
+    123 515 89 93 - Vuxenverksamhet
+
+    123 538 42 84 - Hjärta för Barn
+
+
+
+
 **Hela Rättvik Rullar**
 
     123 626 97 99
@@ -32396,6 +32426,27 @@ Nummer: 13296
 
 
 
+**Katolska Domkyrkoförsamlingen**
+
+    123 511 08 04 - Gåvor
+
+
+
+
+**Katolska Pedagogiska Nämnden, KPN**
+
+    123 005 49 32
+
+
+
+
+**Katolska Skolan av Notre Dame**
+
+    123 649 38 94
+
+
+
+
 **Katrineholm-Flen-Vingåkers Släktforskarförening**
 
     123 110 40 90
@@ -34732,6 +34783,8 @@ Nummer: 13296
 
 
 **Kristus Konungens Institut i Sverige**
+
+    123 260 11 28
 
     123 500 51 37
 
@@ -51667,6 +51720,13 @@ Nummer: 13296
 
 
 
+**Riksförbundet för Sveriges Unga Katoliker, SUK**
+
+    123 571 53 13
+
+
+
+
 **Riksförbundet Föräldraföreningen mot Narkotika, FMN Riks**
 
     123 901 00 00
@@ -63155,6 +63215,13 @@ Nummer: 13296
 
 
 
+**Sundsvalls Baptistförsamling**
+
+    123 401 82 22
+
+
+
+
 **Sundsvalls Brukshundklubb**
 
     123 100 78 55
@@ -65280,6 +65347,8 @@ Nummer: 13296
     123 129 50 21 - Insamling Ukraina
 
     123 150 75 57
+
+    123 158 50 74
 
     123 204 34 38
 
@@ -76755,6 +76824,15 @@ Nummer: 13296
 
 
 
+**Växjö Pastorat**
+
+    123 113 74 88 - Diakonicentrum
+
+    123 526 16 15 - Diakoni
+
+
+
+
 **Växjö RC-klubb**
 
     123 094 82 73
@@ -77049,6 +77127,13 @@ Nummer: 13296
 **Waxholms Scoutkår**
 
     123 290 43 32
+
+
+
+
+**WE ARE ONE Church**
+
+    123 099 90 45
 
 
 

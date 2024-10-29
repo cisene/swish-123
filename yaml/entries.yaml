@@ -935,6 +935,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/FSIK/
 
+- entry: 1230054932
+  orgName: Katolska Pedagogiska Nämnden, KPN
+  orgNumber: 252002-6531
+  comment: null
+  categories:
+  - religion
+  web: https://kpn.se/
+
 - entry: 1230055160
   orgName: Familjen Einhorns Stiftelse
   orgNumber: 802426-0229
@@ -8548,6 +8556,14 @@ entries:
   categories:
   - religion
   web: https://credosverige.se/
+
+- entry: 1230497123
+  orgName: Elimkyrkan
+  orgNumber: 802445-8922
+  comment: null
+  categories:
+  - religion
+  web: https://elimkyrkan.net/
 
 - entry: 1230497347
   orgName: Broby- Emmislövs Församling
@@ -17582,6 +17598,14 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/CIF/
 
+- entry: 1230999045
+  orgName: WE ARE ONE Church
+  orgNumber: 802003-3687
+  comment: null
+  categories:
+  - religion
+  web: https://www.waochurch.com/
+
 - entry: 1231000009
   orgName: Ringbloms Trafikskola
   orgNumber: 559114-4901
@@ -17729,6 +17753,7 @@ entries:
   orgNumber: 857200-3666
   comment: null
   categories:
+  - podcast
   - religion
   web: https://ffg.se/
 
@@ -19610,6 +19635,14 @@ entries:
   categories:
   - dokumentär
   web: https://www.facebook.com/difdokumentaren
+
+- entry: 1231137488
+  orgName: Växjö Pastorat
+  orgNumber: 252004-7701
+  comment: Diakonicentrum
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/vaxjo
 
 - entry: 1231137520
   orgName: Lillpite Fiske Fiskevårdsförening
@@ -27427,6 +27460,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/overtornea-forsamling
 
+- entry: 1231585074
+  orgName: Sverige för UNHCR
+  orgNumber: 802426-1250
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - hjälporganisation
+  web: https://sverigeforunhcr.se/
+
 - entry: 1231585744
   orgName: Morlanda GoIF
   orgNumber: 858500-1426
@@ -29958,7 +30000,6 @@ entries:
   orgNumber: 889200-2786
   comment: null
   categories:
-  - donation
   - religion
   web: http://www.hagakyrkan.nu/
 
@@ -29986,7 +30027,7 @@ entries:
   comment: null
   categories:
   - religion
-  web: https://tobecontinued.nu/partner/
+  web: https://tobecontinued.nu/
 
 - entry: 1231737451
   orgName: Norra Järva Hembygdsförening
@@ -30042,7 +30083,8 @@ entries:
   orgNumber: 874400-0210
   comment: null
   categories:
-  - donation
+  - hjälporganisation
+  - religion
   web: http://www.childrenaid-now.com/
 
 - entry: 1231742485
@@ -30127,7 +30169,6 @@ entries:
   orgNumber: 828500-6113
   comment: null
   categories:
-  - förening
   - gymnastikförening
   - idrottsförening
   web: https://www.facebook.com/KlubbEnergi/
@@ -39329,6 +39370,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/engarde
 
+- entry: 1232284602
+  orgName: DelsboYoga / Cecilia Andrén
+  orgNumber: 640817-XXXX
+  comment: null
+  categories:
+  - kurser
+  - yoga
+  web: https://www.delsboyoga.se/
+
 - entry: 1232285021
   orgName: Pingstförsamlingen I Trollhättan
   orgNumber: 855900-9389
@@ -43898,6 +43948,14 @@ entries:
   - mästerskap
   web: https://www.sverigespringer.se/
 
+- entry: 1232601128
+  orgName: Kristus Konungens Institut i Sverige
+  orgNumber: 252004-9863
+  comment: null
+  categories:
+  - religion
+  web: https://icrss.se/
+
 - entry: 1232601607
   orgName: Aktiva Seniorer Mariestad
   orgNumber: 802420-6339
@@ -45982,7 +46040,7 @@ entries:
   orgNumber: 802465-4389
   comment: null
   categories:
-  - förening
+  - religion
   web: https://www.ekho.se/
 
 - entry: 1232709079
@@ -62170,7 +62228,7 @@ entries:
   orgNumber: 802515-7481
   comment: null
   categories:
-  - förening
+  - religion
   web: https://www.ekho.se/
 
 - entry: 1233690310
@@ -67415,6 +67473,14 @@ entries:
   - friskvård
   - intresseförening
   web: https://www.team-rynkeby.se/
+
+- entry: 1234018222
+  orgName: Sundsvalls Baptistförsamling
+  orgNumber: 889200-5417
+  comment: null
+  categories:
+  - religion
+  web: https://www.baptistsundsvall.se/
 
 - entry: 1234018339
   orgName: Brunnskyrkans Församling
@@ -76829,7 +76895,7 @@ entries:
   orgNumber: 802538-1503
   comment: null
   categories:
-  - förening
+  - religion
   web: https://www.ekho.se/
 
 - entry: 1234647608
@@ -76864,7 +76930,7 @@ entries:
   comment: null
   categories:
   - etologi
-  - förening
+  - intresseförening
   web: https://www.sverigesakademiskaetologer.se/
 
 - entry: 1234652046
@@ -80812,7 +80878,7 @@ entries:
   orgNumber: 855101-5582
   comment: null
   categories:
-  - förening
+  - religion
   web: https://www.ekho.se/
 
 - entry: 1234950713
@@ -83299,6 +83365,14 @@ entries:
   - religion
   web: https://ahusmissionsgard.se/
 
+- entry: 1235110804
+  orgName: Katolska Domkyrkoförsamlingen
+  orgNumber: 252002-6556
+  comment: Gåvor
+  categories:
+  - religion
+  web: http://www.katolskadomkyrkan.se/
+
 - entry: 1235110929
   orgName: Friskis & Svettis Lerum
   orgNumber: 863500-6813
@@ -84876,6 +84950,14 @@ entries:
   - ishockeyklubb
   web: https://www.laget.se/SunneIK/
 
+- entry: 1235158993
+  orgName: Hela Människan - LP Finnveden Värnamo
+  orgNumber: 802416-9636
+  comment: Vuxenverksamhet
+  categories:
+  - religion
+  web: https://helamanniskan.se/varnamo/
+
 - entry: 1235160080
   orgName: Bosnien och Hercegovinas Kvinnoriksförbund i Sverige
   orgNumber: 866601-5824
@@ -86154,6 +86236,14 @@ entries:
   categories:
   - religion
   web: http://brokyrkan.com/
+
+- entry: 1235261615
+  orgName: Växjö Pastorat
+  orgNumber: 252004-7701
+  comment: Diakoni
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/vaxjo
 
 - entry: 1235261698
   orgName: Sollentuna Församling
@@ -88368,6 +88458,14 @@ entries:
   - logi
   web: https://langvind.com/
 
+- entry: 1235384284
+  orgName: Hela Människan - LP Finnveden Värnamo
+  orgNumber: 802416-9636
+  comment: Hjärta för Barn
+  categories:
+  - religion
+  web: https://helamanniskan.se/varnamo/
+
 - entry: 1235388186
   orgName: Mullsjö Discogolf
   orgNumber: 802544-9334
@@ -90244,7 +90342,7 @@ entries:
   orgNumber: 802515-7481
   comment: null
   categories:
-  - förening
+  - religion
   web: https://www.ekho.se/
 
 - entry: 1235503537
@@ -94318,6 +94416,14 @@ entries:
   - stiftelse
   web: https://lkr.se/stiftelsen-lkr-forskningsfond/
 
+- entry: 1235715313
+  orgName: Riksförbundet för Sveriges Unga Katoliker, SUK
+  orgNumber: 802006-2694
+  comment: null
+  categories:
+  - religion
+  web: https://www.suk.se/
+
 - entry: 1235715370
   orgName: Fyrklöverns Stugby AB
   orgNumber: 556171-8924
@@ -97179,6 +97285,14 @@ entries:
   - folkmusik
   - musikförening
   web: https://folkmusik.nu/
+
+- entry: 1235906417
+  orgName: Elimförsamlingen Simrishamn
+  orgNumber: 838800-0468
+  comment: null
+  categories:
+  - religion
+  web: http://www.elimsimrishamn.se/
 
 - entry: 1235906607
   orgName: Frontier Muay Thai
@@ -105237,7 +105351,7 @@ entries:
   orgNumber: 802503-2049
   comment: null
   categories:
-  - förening
+  - religion
   web: https://www.ekho.se/
 
 - entry: 1236408561
@@ -106491,6 +106605,16 @@ entries:
   categories:
   - hållbar innovation
   web: https://www.2022initiative.org/
+
+- entry: 1236493894
+  orgName: Katolska Skolan av Notre Dame
+  orgNumber: 857204-2581
+  comment: null
+  categories:
+  - religion
+  - skola
+  - utbildning
+  web: https://www.katolska.com/
 
 - entry: 1236494058
   orgName: Lasses Resor
@@ -118446,6 +118570,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - religion
   web: https://www.katolskakyrkan.se/
 
 - entry: 1239004698
@@ -118533,6 +118658,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - religion
   web: https://www.katolskakyrkan.se/
 
 - entry: 1239004797
@@ -118743,6 +118869,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - religion
   web: https://www.katolskakyrkan.se/
 
 - entry: 1239005042

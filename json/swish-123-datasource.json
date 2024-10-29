@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-10-28-rev-155649",
+    "date": "2024-10-29-rev-201113",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1127,6 +1127,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/FSIK/"
+    },
+    {
+      "entry": 1230054932,
+      "orgName": "Katolska Pedagogiska N\u00e4mnden, KPN",
+      "orgNumber": "252002-6531",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://kpn.se/"
     },
     {
       "entry": 1230055160,
@@ -10377,6 +10387,16 @@
         "religion"
       ],
       "web": "https://credosverige.se/"
+    },
+    {
+      "entry": 1230497123,
+      "orgName": "Elimkyrkan",
+      "orgNumber": "802445-8922",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://elimkyrkan.net/"
     },
     {
       "entry": 1230497347,
@@ -21350,6 +21370,16 @@
       "web": "https://www.laget.se/CIF/"
     },
     {
+      "entry": 1230999045,
+      "orgName": "WE ARE ONE Church",
+      "orgNumber": "802003-3687",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.waochurch.com/"
+    },
+    {
       "entry": 1231000009,
       "orgName": "Ringbloms Trafikskola",
       "orgNumber": "559114-4901",
@@ -21529,6 +21559,7 @@
       "orgNumber": "857200-3666",
       "comment": null,
       "categories": [
+        "podcast",
         "religion"
       ],
       "web": "https://ffg.se/"
@@ -23793,6 +23824,16 @@
         "golfklubb"
       ],
       "web": "https://www.eskilstunagk.se/"
+    },
+    {
+      "entry": 1231137488,
+      "orgName": "V\u00e4xj\u00f6 Pastorat",
+      "orgNumber": "252004-7701",
+      "comment": "Diakonicentrum",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vaxjo"
     },
     {
       "entry": 1231137520,
@@ -33286,6 +33327,17 @@
       "web": "https://www.svenskakyrkan.se/overtornea-forsamling"
     },
     {
+      "entry": 1231585074,
+      "orgName": "Sverige f\u00f6r UNHCR",
+      "orgNumber": "802426-1250",
+      "comment": null,
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "hj\u00e4lporganisation"
+      ],
+      "web": "https://sverigeforunhcr.se/"
+    },
+    {
       "entry": 1231585744,
       "orgName": "Morlanda GoIF",
       "orgNumber": "858500-1426",
@@ -36375,7 +36427,6 @@
       "orgNumber": "889200-2786",
       "comment": null,
       "categories": [
-        "donation",
         "religion"
       ],
       "web": "http://www.hagakyrkan.nu/"
@@ -36410,7 +36461,7 @@
       "categories": [
         "religion"
       ],
-      "web": "https://tobecontinued.nu/partner/"
+      "web": "https://tobecontinued.nu/"
     },
     {
       "entry": 1231737451,
@@ -36479,7 +36530,8 @@
       "orgNumber": "874400-0210",
       "comment": null,
       "categories": [
-        "donation"
+        "hj\u00e4lporganisation",
+        "religion"
       ],
       "web": "http://www.childrenaid-now.com/"
     },
@@ -36584,7 +36636,6 @@
       "orgNumber": "828500-6113",
       "comment": null,
       "categories": [
-        "f\u00f6rening",
         "gymnastikf\u00f6rening",
         "idrottsf\u00f6rening"
       ],
@@ -47740,6 +47791,17 @@
       "web": "https://www.svenskalag.se/engarde"
     },
     {
+      "entry": 1232284602,
+      "orgName": "DelsboYoga / Cecilia Andr\u00e9n",
+      "orgNumber": "640817-XXXX",
+      "comment": null,
+      "categories": [
+        "kurser",
+        "yoga"
+      ],
+      "web": "https://www.delsboyoga.se/"
+    },
+    {
       "entry": 1232285021,
       "orgName": "Pingstf\u00f6rsamlingen I Trollh\u00e4ttan",
       "orgNumber": "855900-9389",
@@ -53243,6 +53305,16 @@
       "web": "https://www.sverigespringer.se/"
     },
     {
+      "entry": 1232601128,
+      "orgName": "Kristus Konungens Institut i Sverige",
+      "orgNumber": "252004-9863",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://icrss.se/"
+    },
+    {
       "entry": 1232601607,
       "orgName": "Aktiva Seniorer Mariestad",
       "orgNumber": "802420-6339",
@@ -55782,7 +55854,7 @@
       "orgNumber": "802465-4389",
       "comment": null,
       "categories": [
-        "f\u00f6rening"
+        "religion"
       ],
       "web": "https://www.ekho.se/"
     },
@@ -75412,7 +75484,7 @@
       "orgNumber": "802515-7481",
       "comment": null,
       "categories": [
-        "f\u00f6rening"
+        "religion"
       ],
       "web": "https://www.ekho.se/"
     },
@@ -81799,6 +81871,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1234018222,
+      "orgName": "Sundsvalls Baptistf\u00f6rsamling",
+      "orgNumber": "889200-5417",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.baptistsundsvall.se/"
     },
     {
       "entry": 1234018339,
@@ -93217,7 +93299,7 @@
       "orgNumber": "802538-1503",
       "comment": null,
       "categories": [
-        "f\u00f6rening"
+        "religion"
       ],
       "web": "https://www.ekho.se/"
     },
@@ -93260,7 +93342,7 @@
       "comment": null,
       "categories": [
         "etologi",
-        "f\u00f6rening"
+        "intressef\u00f6rening"
       ],
       "web": "https://www.sverigesakademiskaetologer.se/"
     },
@@ -98088,7 +98170,7 @@
       "orgNumber": "855101-5582",
       "comment": null,
       "categories": [
-        "f\u00f6rening"
+        "religion"
       ],
       "web": "https://www.ekho.se/"
     },
@@ -101086,6 +101168,16 @@
       "web": "https://ahusmissionsgard.se/"
     },
     {
+      "entry": 1235110804,
+      "orgName": "Katolska Domkyrkof\u00f6rsamlingen",
+      "orgNumber": "252002-6556",
+      "comment": "G\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.katolskadomkyrkan.se/"
+    },
+    {
       "entry": 1235110929,
       "orgName": "Friskis & Svettis Lerum",
       "orgNumber": "863500-6813",
@@ -103016,6 +103108,16 @@
       "web": "https://www.laget.se/SunneIK/"
     },
     {
+      "entry": 1235158993,
+      "orgName": "Hela M\u00e4nniskan - LP Finnveden V\u00e4rnamo",
+      "orgNumber": "802416-9636",
+      "comment": "Vuxenverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://helamanniskan.se/varnamo/"
+    },
+    {
       "entry": 1235160080,
       "orgName": "Bosnien och Hercegovinas Kvinnoriksf\u00f6rbund i Sverige",
       "orgNumber": "866601-5824",
@@ -104561,6 +104663,16 @@
         "religion"
       ],
       "web": "http://brokyrkan.com/"
+    },
+    {
+      "entry": 1235261615,
+      "orgName": "V\u00e4xj\u00f6 Pastorat",
+      "orgNumber": "252004-7701",
+      "comment": "Diakoni",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/vaxjo"
     },
     {
       "entry": 1235261698,
@@ -107268,6 +107380,16 @@
       "web": "https://langvind.com/"
     },
     {
+      "entry": 1235384284,
+      "orgName": "Hela M\u00e4nniskan - LP Finnveden V\u00e4rnamo",
+      "orgNumber": "802416-9636",
+      "comment": "Hj\u00e4rta f\u00f6r Barn",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://helamanniskan.se/varnamo/"
+    },
+    {
       "entry": 1235388186,
       "orgName": "Mullsj\u00f6 Discogolf",
       "orgNumber": "802544-9334",
@@ -109525,7 +109647,7 @@
       "orgNumber": "802515-7481",
       "comment": null,
       "categories": [
-        "f\u00f6rening"
+        "religion"
       ],
       "web": "https://www.ekho.se/"
     },
@@ -114489,6 +114611,16 @@
       "web": "https://lkr.se/stiftelsen-lkr-forskningsfond/"
     },
     {
+      "entry": 1235715313,
+      "orgName": "Riksf\u00f6rbundet f\u00f6r Sveriges Unga Katoliker, SUK",
+      "orgNumber": "802006-2694",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.suk.se/"
+    },
+    {
       "entry": 1235715370,
       "orgName": "Fyrkl\u00f6verns Stugby AB",
       "orgNumber": "556171-8924",
@@ -117937,6 +118069,16 @@
         "musikf\u00f6rening"
       ],
       "web": "https://folkmusik.nu/"
+    },
+    {
+      "entry": 1235906417,
+      "orgName": "Elimf\u00f6rsamlingen Simrishamn",
+      "orgNumber": "838800-0468",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "http://www.elimsimrishamn.se/"
     },
     {
       "entry": 1235906607,
@@ -127648,7 +127790,7 @@
       "orgNumber": "802503-2049",
       "comment": null,
       "categories": [
-        "f\u00f6rening"
+        "religion"
       ],
       "web": "https://www.ekho.se/"
     },
@@ -129166,6 +129308,18 @@
         "h\u00e5llbar innovation"
       ],
       "web": "https://www.2022initiative.org/"
+    },
+    {
+      "entry": 1236493894,
+      "orgName": "Katolska Skolan av Notre Dame",
+      "orgNumber": "857204-2581",
+      "comment": null,
+      "categories": [
+        "religion",
+        "skola",
+        "utbildning"
+      ],
+      "web": "https://www.katolska.com/"
     },
     {
       "entry": 1236494058,
@@ -141382,7 +141536,8 @@
       "orgNumber": "252002-6531",
       "comment": null,
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "religion"
       ],
       "web": "https://www.katolskakyrkan.se/"
     },
@@ -141455,7 +141610,8 @@
       "orgNumber": "252002-6531",
       "comment": null,
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "religion"
       ],
       "web": "https://www.katolskakyrkan.se/"
     },
@@ -141562,7 +141718,8 @@
       "orgNumber": "252002-6531",
       "comment": null,
       "categories": [
-        "insamlingskontroll"
+        "insamlingskontroll",
+        "religion"
       ],
       "web": "https://www.katolskakyrkan.se/"
     },
