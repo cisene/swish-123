@@ -4,8 +4,11 @@
 # Sort entries
 python3 ./entries-sort.py
 
-# Uppdate gåvomottagare from Masterdata
+# Update gåvomottagare from Masterdata
 python3 ./entries-update-gåvomottagare.py
+
+# Update varningslistan from Masterdata
+python3 ./entries-update-forenadebolag-varningslistan.py
 
 # Render JSON
 python3 ./entries-to-json.py
@@ -24,7 +27,7 @@ python3 ./entries-to-markdown.py
 
 
 # Render PDF from MD
-pandoc --pdf-engine=pdfroff --toc-depth=1 ../swish-123.md -o ../swish-123.pdf > /dev/null
+pandoc --pdf-engine=pdfroff --toc-depth=1 ../swish-123.md -o ../swish-123.pdf
 
 # Add to git
 git add ../yaml/entries.yaml
