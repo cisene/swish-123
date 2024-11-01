@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-10-29-rev-201147
+Revision: 2024-11-01-rev-184256
 
-Nummer: 13311
+Nummer: 13349
 
 
 
@@ -333,6 +333,13 @@ Nummer: 13311
 **ADAS United**
 
     123 115 91 93
+
+
+
+
+**Adat Jeschurun / Judiska Traditionella Föreningen**
+
+    123 269 51 04
 
 
 
@@ -7873,6 +7880,13 @@ Nummer: 13311
 
 
 
+**Brunnby Församling**
+
+    123 123 47 64
+
+
+
+
 **Brunnsbo Musikklassförening**
 
     123 113 48 40
@@ -8868,13 +8882,6 @@ Nummer: 13311
 
 
 
-**Café Malin / Svenska kyrkan Västerås**
-
-    123 240 86 56
-
-
-
-
 **Café Trappanér / Göteborgs Baptistförsamling**
 
     123 560 79 65
@@ -9306,6 +9313,13 @@ Nummer: 13311
 **CH Anderssons Trafikskola AB**
 
     123 624 37 29
+
+
+
+
+**Chabad Lubavitch Stockholm**
+
+    123 418 26 48
 
 
 
@@ -12361,6 +12375,19 @@ Nummer: 13311
 
 
 
+**EFS missionsförening i Lötenkyrkan**
+
+    123 113 57 30 - Övrigt
+
+    123 209 34 66 - Gåvor
+
+    123 278 99 31 - Kollekt
+
+    123 395 87 66 - Fika
+
+
+
+
 **EFS Missionsförening i Skellefteå**
 
     123 282 68 73
@@ -12380,6 +12407,13 @@ Nummer: 13311
 **EFS Missionsförening i Umeå**
 
     123 562 87 14
+
+
+
+
+**EFS missionsförening i Yttersjö**
+
+    123 431 77 31
 
 
 
@@ -13121,7 +13155,7 @@ Nummer: 13311
 
     123 296 60 42
 
-    123 627 44 84 - Fotbollssektionen
+    123 627 44 84 - P2010
 
 
 
@@ -14763,6 +14797,13 @@ Nummer: 13311
 **F16 Pistolklubb**
 
     123 133 93 08
+
+
+
+
+**F V F Öringen**
+
+    123 449 34 58
 
 
 
@@ -22326,6 +22367,13 @@ Nummer: 13311
 
 
 
+**Gårda BK**
+
+    123 313 41 86 - Senior
+
+
+
+
 **Gårda Budoklubb - Wadoryu Karate**
 
     123 669 97 06
@@ -23507,6 +23555,8 @@ Nummer: 13311
 
 
 **Hargs BK**
+
+    123 524 08 41 - P12
 
     123 633 79 01 - P-11
 
@@ -26187,7 +26237,7 @@ Nummer: 13311
 
 
 
-**Hylte/Halmstad VBK**
+**Hylte-Halmstad VBK**
 
     123 026 64 11
 
@@ -26398,6 +26448,13 @@ Nummer: 13311
 **Hällefors Ornitologiska Förening**
 
     123 302 10 03
+
+
+
+
+**Hällefors SK**
+
+    123 307 45 23
 
 
 
@@ -27851,6 +27908,8 @@ Nummer: 13311
 
     123 170 93 10
 
+    123 239 77 01
+
     123 260 36 86
 
 
@@ -28219,6 +28278,8 @@ Nummer: 13311
     123 085 01 07
 
     123 126 63 86 - P10
+
+    123 370 89 14 - U15
 
     123 525 56 41 - P2013
 
@@ -30258,6 +30319,13 @@ Nummer: 13311
 **Islamic Relief Sverige**
 
     123 900 18 19
+
+
+
+
+**IslamNu**
+
+    123 643 39 40
 
 
 
@@ -39477,6 +39545,13 @@ Nummer: 13311
 
 
 
+**Lomma Basket, Lobas**
+
+    123 296 67 45
+
+
+
+
 **Lomma-Burlöv Släkt och Folklivsforskare**
 
     123 035 16 84
@@ -41432,6 +41507,13 @@ Nummer: 13311
 
 
 
+**Markaryds Församling**
+
+    123 074 79 07 - Gravskötsel
+
+
+
+
 **Markaryds IF**
 
     123 099 79 99
@@ -43323,6 +43405,8 @@ Nummer: 13311
 **Muslim Aid Sweden**
 
     123 167 07 28
+
+    123 234 42 65
 
 
 
@@ -46184,6 +46268,8 @@ Nummer: 13311
 
     123 044 01 64
 
+    123 412 34 77 - NIF-familjen
+
 
 
 
@@ -46780,6 +46866,13 @@ Nummer: 13311
 **Onsala Pirates BBK**
 
     123 218 03 21
+
+
+
+
+**Onyx Innebandy**
+
+    123 345 79 18 - Dam U (D2/DJ)
 
 
 
@@ -54025,6 +54118,13 @@ Nummer: 13311
 
 
 
+**S:t Georgis Syrisk Ortodoxa Kyrkan i Norsborg**
+
+    123 397 53 64
+
+
+
+
 **S:t Helena BK**
 
     123 018 30 95
@@ -54143,7 +54243,7 @@ Nummer: 13311
 
 
 
-**S.t. Petrus och Paulos Syrisk Ortodoxa Kyrka**
+**S:t Petrus och Paulos Syrisk Ortodoxa Kyrka**
 
     123 626 77 69
 
@@ -56854,6 +56954,13 @@ Nummer: 13311
 
 
 
+**Skogsrokyrkan i Skövde**
+
+    123 551 22 72 - Gåvor
+
+
+
+
 **Skogås HK**
 
     123 017 19 42
@@ -57716,6 +57823,20 @@ Nummer: 13311
 **Smalspåret Växjö-Västervik**
 
     123 369 92 12
+
+
+
+
+**Smart Savannahs**
+
+    123 493 71 81
+
+
+
+
+**Smedby AIS**
+
+    123 343 12 36
 
 
 
@@ -62325,6 +62446,8 @@ Nummer: 13311
 
 **Storfors AIK**
 
+    123 057 00 69 - F2013
+
     123 383 82 08 - F2012
 
     123 483 77 46
@@ -64636,6 +64759,8 @@ Nummer: 13311
 
 **Svenska Kyrkan Teneriffa**
 
+    123 508 03 04
+
     123 609 19 20 - Gåvor
 
 
@@ -64644,6 +64769,13 @@ Nummer: 13311
 **Svenska Kyrkan Torrevieja**
 
     123 009 31 04
+
+
+
+
+**Svenska kyrkan Västerås**
+
+    123 240 86 56 - Café Malin
 
 
 
@@ -64742,6 +64874,8 @@ Nummer: 13311
 
 
 **Svenska Naturskyddsföreningen**
+
+    123 267 02 55
 
     123 901 20 14
 
@@ -67470,6 +67604,13 @@ Nummer: 13311
 
 
 
+**Tabergs GF**
+
+    123 395 24 54
+
+
+
+
 **Tabergs Missionsförsamling**
 
     123 363 41 36
@@ -69985,6 +70126,13 @@ Nummer: 13311
 
 
 
+**Tokarp Gräshagens IF**
+
+    123 491 06 91
+
+
+
+
 **Tolg IF**
 
     123 634 46 00
@@ -70175,6 +70323,13 @@ Nummer: 13311
 
 
 
+**Torpedo Kamrat BK**
+
+    123 468 12 01
+
+
+
+
 **Torps Bygdegård**
 
     123 045 10 54
@@ -70314,6 +70469,8 @@ Nummer: 13311
 
 
 **Torslanda IK**
+
+    123 665 22 26
 
     123 695 10 08 - P12
 
@@ -70706,6 +70863,13 @@ Nummer: 13311
 
 
 
+**Trifit IF**
+
+    123 027 61 39
+
+
+
+
 **TRIS - Tjejers rätt i samhället**
 
     123 576 01 11
@@ -70753,6 +70917,8 @@ Nummer: 13311
 **Trollhättans BOIS**
 
     123 068 05 53
+
+    123 123 75 28
 
 
 
@@ -71171,6 +71337,15 @@ Nummer: 13311
 **TV Inter Club**
 
     123 900 62 06
+
+
+
+
+**Tving GoIF**
+
+    123 022 75 20 - Medlemsavgift
+
+    123 030 37 19
 
 
 
@@ -74530,6 +74705,13 @@ Nummer: 13311
 **Vingåkers GF**
 
     123 056 36 35
+
+
+
+
+**Vingåkers IF**
+
+    123 551 25 53
 
 
 
@@ -80463,6 +80645,13 @@ Nummer: 13311
 
 
 
+**Ösets BK**
+
+    123 533 55 42
+
+
+
+
 **Ösmo Torö Församling**
 
     123 157 52 73 - Kollekt
@@ -81111,6 +81300,8 @@ Nummer: 13311
 
 
 **Övertorneå Församling**
+
+    123 040 46 81 - Medlemsavgift/Blomsterfond Juoksengi kyrka
 
     123 158 49 45
 
