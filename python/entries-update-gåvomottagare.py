@@ -85,7 +85,8 @@ def getActiveSTA(source_dict):
           continue
         else:
           # Was not within range .. just skip it
-          print(f"\t{orgNumber}: Not included due to not being within span {date_issued_date} and {date_expires_date} ..")
+          #print(f"\t{orgNumber}: Not included due to not being within span {date_issued_date} and {date_expires_date} ..")
+          pass
   print(f".. where {len(approved_org)} where active.")
   return approved_org
 
