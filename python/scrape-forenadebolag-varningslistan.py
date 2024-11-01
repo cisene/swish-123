@@ -77,7 +77,7 @@ def main():
   url = 'https://forenadebolag.se/varningslistan-filter/'
 
   vl = {}
-  vl["entries"] = []
+  vl["organisations"] = []
 
   urls = []
   urls.append(url)
@@ -135,7 +135,7 @@ def main():
 
       if obj["orgNumber"] != None:
         if re.match(r"^(\d{6})\x2d([0-9X]{4})$", obj["orgNumber"], flags=re.IGNORECASE):
-          vl["entries"].append(obj)
+          vl["organisations"].append(obj)
           print(f"\t{obj}")
 
 
