@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-11-01-rev-184238
+# Date: 2024-11-01-rev-200505
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3760,7 +3760,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231959758	837000-3595	Hästveda Hembygdsförening	https://www.hembygd.se/h-stveda-hembygdsf-rening	hembygdsförening	
 1231960368	700610-XXXX	Grothica / Janet Björklund	https://www.grothica.se/	försäljning,kläder	
 1231960798	835000-6923	Rödeby CK - Motorcykel och Snöskoter	https://www.rck.se/	enduroklubb,motorcykelklubb,snöskoterklubb	Uthyrning
-1231961531	882000-5075	Avesta OK - Orientering	https://www.avestaok.se/	idrottsförening,orienteringsklubb	
+1231961531	882000-5075	Avesta OK	https://www.avestaok.se/	idrottsförening,orienteringsklubb	
 1231961549	252003-8973	Uppvidinge Pastorat	https://www.svenskakyrkan.se/uppvidinge	religion	Kollekt Lenhovda
 1231961747	889600-6882	Föreningen Valhalla-Lokalen	http://dromme.se/	förening	
 1231962034	252000-0619	Katarina Församling	https://www.svenskakyrkan.se/katarina	religion	Kollekt i Allhelgonamässan
@@ -3904,6 +3904,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232032704	802480-4117	Madinah insamlingsstiftelse	https://www.madinahinsamlingsstiftelse.se/	religion,stiftelse	
 1232033397	252003-3602	Vårgårda Pastorat	https://www.svenskakyrkan.se/vargarda	religion	Kollekt Centrumkyrkan
 1232034080	802475-7083	Skara Idrottshistoriska Förening	https://www.skaraihs.se/	idrottshistoria,intresseförening	
+1232037182	556976-9242	Oljans Matsal & Catering / Oljans Catering i Nynäs AB	https://www.oljanscatering.se/	catering,restaurant	
 1232037406	802517-4056	TBN Nordic	https://www.tbnplay.se/	religion,streamingtjänst	
 1232037968	802480-8654	Hugos Stiftelse	https://hugosstiftelse.se/	aktiv fritid,barnverksamhet,funktionsnedsättning,stiftelse	
 1232039162	802474-6649	Kramfors BK	https://www.kramforsbk.se/	bowlingklubb,idrottsförening	
@@ -5557,6 +5558,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232891612	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Stockholm, Björkhaga skola
 1232891752	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Kristianstad, Hässleholms Montessoriskola F-9
 1232891885	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Malmö, Toftanässkolan
+1232893691	802531-7473	Radioart	https://www.radioart.se/	konstförening,ljudkonst	
 1232894830	802430-4498	Brottsofferjouren Örebro Län	https://www.brottsofferjouren.se/	brottsofferjour	
 1232895217	730911-XXXX	Healingrummet- För Kropp & Själ / Maja Åkerling	https://healingrummet.webnode.se/	healing,massage,meditation,yoga	
 1232896694	814801-1466	RPG Sollentuna	https://rpgsollentuna.se/	pensionärsklubb,religion	
@@ -6752,6 +6754,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233548393	842000-5764	Eslövs BK	https://www.laget.se/EslovsBK/	fotbollsklubb,idrottsförening	
 1233548492	863000-0738	Norra Älvsborgs RK	https://www.nark.se/	hästsport,ridklubb,ridskola	
 1233548807	556979-6997	Saran Yoga AB	https://saranyoga.se/	yoga	
+1233548823	556622-6956	RJ Spolservice AB	https://www.rjspolservice.se/	avloppsrensning,avloppsspolning	
 1233548864	717907-9566	Södra Livereds Samfällighetsförening	https://sodralivered.wordpress.com/	samfällighetsförening	
 1233548906	802474-5393	Grindtorpskyrkan	https://www.grindtorpskyrkan.se/	religion	
 1233549110	770526-XXXX	LL Dance Studio / Lina Larsson	https://lldancestudio.se/	danskurser,dansstudio	

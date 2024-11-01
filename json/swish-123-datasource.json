@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-01-rev-184220",
+    "date": "2024-11-01-rev-200448",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -40651,7 +40651,7 @@
     },
     {
       "entry": 1231961531,
-      "orgName": "Avesta OK - Orientering",
+      "orgName": "Avesta OK",
       "orgNumber": "882000-5075",
       "comment": null,
       "categories": [
@@ -42217,6 +42217,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.skaraihs.se/"
+    },
+    {
+      "entry": 1232037182,
+      "orgName": "Oljans Matsal & Catering / Oljans Catering i Nyn\u00e4s AB",
+      "orgNumber": "556976-9242",
+      "comment": null,
+      "categories": [
+        "catering",
+        "restaurant"
+      ],
+      "web": "https://www.oljanscatering.se/"
     },
     {
       "entry": 1232037406,
@@ -60179,6 +60190,17 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1232893691,
+      "orgName": "Radioart",
+      "orgNumber": "802531-7473",
+      "comment": null,
+      "categories": [
+        "konstf\u00f6rening",
+        "ljudkonst"
+      ],
+      "web": "https://www.radioart.se/"
+    },
+    {
       "entry": 1232894830,
       "orgName": "Brottsofferjouren \u00d6rebro L\u00e4n",
       "orgNumber": "802430-4498",
@@ -73125,6 +73147,17 @@
         "yoga"
       ],
       "web": "https://saranyoga.se/"
+    },
+    {
+      "entry": 1233548823,
+      "orgName": "RJ Spolservice AB",
+      "orgNumber": "556622-6956",
+      "comment": null,
+      "categories": [
+        "avloppsrensning",
+        "avloppsspolning"
+      ],
+      "web": "https://www.rjspolservice.se/"
     },
     {
       "entry": 1233548864,

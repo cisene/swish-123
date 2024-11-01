@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-01-rev-184256
+Revision: 2024-11-01-rev-200523
 
-Nummer: 13349
+Nummer: 13352
 
 
 
@@ -3219,7 +3219,7 @@ Nummer: 13349
 
 
 
-**Avesta OK - Orientering**
+**Avesta OK**
 
     123 196 15 31
 
@@ -46696,6 +46696,13 @@ Nummer: 13349
 
 
 
+**Oljans Matsal & Catering / Oljans Catering i Nynäs AB**
+
+    123 203 71 82
+
+
+
+
 **Olle Adolphson-Sällskapet, OAS**
 
     123 654 40 35
@@ -50946,6 +50953,13 @@ Nummer: 13349
 
 
 
+**Radioart**
+
+    123 289 36 91
+
+
+
+
 **Radioklubben Vasa - SK6DG**
 
     123 076 38 88
@@ -52188,6 +52202,13 @@ Nummer: 13349
 **Rixö Båtklubb**
 
     123 558 10 53
+
+
+
+
+**RJ Spolservice AB**
+
+    123 354 88 23
 
 
 

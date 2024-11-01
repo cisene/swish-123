@@ -19361,6 +19361,13 @@ entries:
   - släktforskning
   web: https://kfvslakt.se/
 
+- entry: 1231108208
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1231111103
   orgName: Nikus
   orgNumber: 802545-5851
@@ -33495,7 +33502,7 @@ entries:
   web: https://www.rck.se/
 
 - entry: 1231961531
-  orgName: Avesta OK - Orientering
+  orgName: Avesta OK
   orgNumber: 882000-5075
   comment: null
   categories:
@@ -34774,6 +34781,15 @@ entries:
   - idrottshistoria
   - intresseförening
   web: https://www.skaraihs.se/
+
+- entry: 1232037182
+  orgName: Oljans Matsal & Catering / Oljans Catering i Nynäs AB
+  orgNumber: 556976-9242
+  comment: null
+  categories:
+  - catering
+  - restaurant
+  web: https://www.oljanscatering.se/
 
 - entry: 1232037406
   orgName: TBN Nordic
@@ -49592,6 +49608,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1232893691
+  orgName: Radioart
+  orgNumber: 802531-7473
+  comment: null
+  categories:
+  - konstförening
+  - ljudkonst
+  web: https://www.radioart.se/
+
 - entry: 1232894830
   orgName: Brottsofferjouren Örebro Län
   orgNumber: 802430-4498
@@ -60283,6 +60308,15 @@ entries:
   categories:
   - yoga
   web: https://saranyoga.se/
+
+- entry: 1233548823
+  orgName: RJ Spolservice AB
+  orgNumber: 556622-6956
+  comment: null
+  categories:
+  - avloppsrensning
+  - avloppsspolning
+  web: https://www.rjspolservice.se/
 
 - entry: 1233548864
   orgName: Södra Livereds Samfällighetsförening
