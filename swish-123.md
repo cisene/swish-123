@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-01-rev-200523
+Revision: 2024-11-09-rev-190627
 
-Nummer: 13352
+Nummer: 13402
 
 
 
@@ -1063,6 +1063,13 @@ Nummer: 13352
 **Alets IK**
 
     123 351 53 92
+
+
+
+
+**Alfa Mobility Sweden AB**
+
+    123 088 66 71
 
 
 
@@ -3399,6 +3406,13 @@ Nummer: 13352
 
 
 
+**Bajen Fans**
+
+    123 615 65 82 - Bajen Fans Colombia
+
+
+
+
 **Balans med Omtanke**
 
     123 009 21 63
@@ -3896,6 +3910,13 @@ Nummer: 13352
 **Bee Thalin, layout & foto**
 
     123 000 36 57
+
+
+
+
+**Beijer Anatomi / Erik Beijer**
+
+    123 673 68 62
 
 
 
@@ -4410,6 +4431,13 @@ Nummer: 13352
 **BIKE Trollhättan AB**
 
     123 147 67 38
+
+
+
+
+**BikeTrace AB**
+
+    123 450 64 32
 
 
 
@@ -5077,6 +5105,13 @@ Nummer: 13352
 **BK Halna**
 
     123 421 69 74
+
+
+
+
+**BK Häcken**
+
+    123 069 90 82 - Rosa startelvan
 
 
 
@@ -8101,6 +8136,13 @@ Nummer: 13352
 
 
 
+**Bröstcancerföreningen Jönköpings Län**
+
+    123 593 16 05
+
+
+
+
 **Bröstcancerföreningen Maria Gävleborg**
 
     123 527 99 06
@@ -8132,6 +8174,13 @@ Nummer: 13352
 **Bröstcancerföreningen Uppsala Län**
 
     123 043 80 93
+
+
+
+
+**Bröstcancerföreningen Värmland**
+
+    123 224 34 83
 
 
 
@@ -10779,6 +10828,13 @@ Nummer: 13352
 
 
 
+**Det Perfekta Kastet**
+
+    123 169 21 44
+
+
+
+
 **DFK HaSko**
 
     123 067 00 91
@@ -10882,6 +10938,13 @@ Nummer: 13352
 **Direktdemokraterna**
 
     123 538 37 40
+
+
+
+
+**DIS-FILBYTER, Datorhjälp i Släktforskningen**
+
+    123 483 11 29
 
 
 
@@ -13128,6 +13191,13 @@ Nummer: 13352
 
 
 
+**En hjälpande hand Fagersta**
+
+    123 253 09 70 - Julhjälpen
+
+
+
+
 **Ena Bygdegårdsförening**
 
     123 614 74 66
@@ -14127,6 +14197,13 @@ Nummer: 13352
     123 614 48 85
 
     123 614 67 65
+
+
+
+
+**Erlandsdals Samfällighet**
+
+    123 664 80 67
 
 
 
@@ -18529,6 +18606,13 @@ Nummer: 13352
 
 
 
+**Föreningen Fokus Estonia**
+
+    123 296 11 42
+
+
+
+
 **Föreningen Folkets Hus Långshyttan**
 
     123 027 95 13
@@ -19342,6 +19426,13 @@ Nummer: 13352
 
 
 
+**Föreningen Rädda Vallaskogen**
+
+    123 505 58 92
+
+
+
+
 **Föreningen RåFILM**
 
     123 568 18 79
@@ -19862,6 +19953,13 @@ Nummer: 13352
 **FörsäkringsMedicinska Sällskapet, FMS**
 
     123 688 70 53
+
+
+
+
+**Föräldraföreningen mot narkotika, FMN**
+
+    123 276 40 25 - Umeå
 
 
 
@@ -21064,6 +21162,13 @@ Nummer: 13352
     123 093 97 93
 
     123 642 81 89
+
+
+
+
+**Gotlands Ridsportförbund**
+
+    123 558 62 01
 
 
 
@@ -22553,6 +22658,13 @@ Nummer: 13352
 
 
 
+**Göteborgs Ishockey Domarklubb, GIDK**
+
+    123 054 00 47
+
+
+
+
 **Göteborgs Ju-Jutsuklubb**
 
     123 538 42 27
@@ -22900,6 +23012,13 @@ Nummer: 13352
 
 
 
+**Hairfor2 / Starbrands AB**
+
+    123 213 83 03
+
+
+
+
 **Hallands Fotbollförbund**
 
     123 553 70 22
@@ -23092,6 +23211,13 @@ Nummer: 13352
 **Halmstad Wakepark**
 
     123 064 22 72
+
+
+
+
+**Halmstads Bollklubb**
+
+    123 543 47 58
 
 
 
@@ -23794,6 +23920,8 @@ Nummer: 13352
 
     123 102 17 73 - Soffbiljett
 
+    123 291 36 06 - Rosa Oktober
+
     123 394 29 35
 
 
@@ -23860,6 +23988,13 @@ Nummer: 13352
 **Hedbergs Industri AB**
 
     123 417 17 73
+
+
+
+
+**Hedby Byalag**
+
+    123 017 88 97
 
 
 
@@ -24738,6 +24873,13 @@ Nummer: 13352
 **High Five Taekwondo Idrottsförening**
 
     123 160 12 44
+
+
+
+
+**Highlight Bålsta**
+
+    123 361 83 84
 
 
 
@@ -28290,6 +28432,13 @@ Nummer: 13352
 
 
 
+**IFK Ore**
+
+    123 342 80 75 - Robert Gräsberg 1978-2024 Minnesfond
+
+
+
+
 **IFK Ore Hockey**
 
     123 084 51 98
@@ -28949,6 +29098,13 @@ Nummer: 13352
 **Immetorp BK**
 
     123 162 95 00
+
+
+
+
+**ImplementDiversity AB**
+
+    123 493 44 44
 
 
 
@@ -30467,6 +30623,13 @@ Nummer: 13352
 
 
 
+**Jan Fredrik Sundlöf Aktiebolag**
+
+    123 432 50 15
+
+
+
+
 **Jan Myrdalsällskapet**
 
     123 209 24 76
@@ -31106,6 +31269,13 @@ Nummer: 13352
 
 
 
+**Jämtlands Flyg och Lottamuseum / Svensk Flyghistorisk Förening Region Jämtland-Härjedalen**
+
+    123 027 12 96
+
+
+
+
 **Jämtlands Lokalhistoriker**
 
     123 109 37 64
@@ -31431,13 +31601,6 @@ Nummer: 13352
 
 
 
-**Jönköpings Läns Bröstcancerförening**
-
-    123 593 16 05
-
-
-
-
 **Jönköpings OK - Orientering**
 
     123 155 63 15
@@ -31494,6 +31657,13 @@ Nummer: 13352
 **K4 Idrottsförening**
 
     123 105 34 79
+
+
+
+
+**K9 Education / Jaqueline Nikolic**
+
+    123 222 02 59
 
 
 
@@ -33464,6 +33634,13 @@ Nummer: 13352
 
 
 
+**Klimataktion Uppsala**
+
+    123 221 04 17
+
+
+
+
 **Klimatpodden / Konvoj Produktion**
 
     123 396 29 74
@@ -33837,6 +34014,13 @@ Nummer: 13352
 
 
 
+**Kommunistiska Partiet**
+
+    123 563 69 98 - Kampfond
+
+
+
+
 **Kommunistiska Partiet Göteborg**
 
     123 199 90 51
@@ -33984,6 +34168,13 @@ Nummer: 13352
 **Kopparbergs Brukshundklubb**
 
     123 651 62 72
+
+
+
+
+**Kopparlundens Bageri AB**
+
+    123 233 96 46
 
 
 
@@ -34359,6 +34550,13 @@ Nummer: 13352
 
 
 
+**Korskyrkan Borlänge**
+
+    123 055 55 65
+
+
+
+
 **Korskyrkan Frövi**
 
     123 470 22 62
@@ -34450,6 +34648,13 @@ Nummer: 13352
 **Korthårsgruppen**
 
     123 156 19 50
+
+
+
+
+**Kos intresseförening**
+
+    123 308 58 59
 
 
 
@@ -39794,6 +39999,13 @@ Nummer: 13352
 
 
 
+**Lugnetkyrkan**
+
+    123 161 51 11
+
+
+
+
 **Lugnås Församling**
 
     123 082 12 23
@@ -40347,6 +40559,13 @@ Nummer: 13352
 **Lysekils Ryttarförening – Ridsport**
 
     123 390 15 92
+
+
+
+
+**Lysekils Trafikskola AB**
+
+    123 514 41 75
 
 
 
@@ -43907,6 +44126,13 @@ Nummer: 13352
 
 
 
+**Mörkersdottir Förlag / Frida Arwen Rosesund**
+
+    123 452 38 33
+
+
+
+
 **Mörkö Nya Bygdegårdsförening**
 
     123 389 63 13
@@ -44195,6 +44421,13 @@ Nummer: 13352
     123 245 44 94
 
     123 290 49 44 - Storkprojektet
+
+
+
+
+**Naturskyddsföreningen Norrköping**
+
+    123 169 88 36
 
 
 
@@ -45360,6 +45593,13 @@ Nummer: 13352
 
 
 
+**Norrhund AB**
+
+    123 632 85 12
+
+
+
+
 **Norrköping Adventistförsamling**
 
     123 277 81 65
@@ -45381,6 +45621,13 @@ Nummer: 13352
 
 
 
+**Norrköping Futsal Klubb**
+
+    123 486 77 27
+
+
+
+
 **Norrköping Panthers**
 
     123 664 95 60
@@ -45398,6 +45645,13 @@ Nummer: 13352
 **Norrköpings Raggarklubb**
 
     123 473 11 54
+
+
+
+
+**Norrköpings RK Troján**
+
+    123 682 58 63 - U8-U14
 
 
 
@@ -46815,6 +47069,13 @@ Nummer: 13352
 
 
 
+**OmYoga i Arboga / Mia Hultgren**
+
+    123 166 58 84
+
+
+
+
 **ON Training AB**
 
     123 037 64 67
@@ -47162,6 +47423,13 @@ Nummer: 13352
 **Orust Ridklubb**
 
     123 048 45 01
+
+
+
+
+**Orust Återbruk / Insamlingsstiftelsen Cirkus Cirkulär**
+
+    123 497 22 20
 
 
 
@@ -58644,6 +58912,13 @@ Nummer: 13352
 
 
 
+**SOS Church Stockholm / Evangelical Mission SOS International**
+
+    123 290 73 01
+
+
+
+
 **SOS Church Västerås / New Life Västerås**
 
     123 231 39 06
@@ -60476,9 +60751,9 @@ Nummer: 13352
 
 **Ssenyange Education Project**
 
-    123 070 55 66
+    123 070 55 66 - Minnesgåvor
 
-    123 312 39 99
+    123 312 39 99 - Gåvor
 
 
 
@@ -62224,6 +62499,13 @@ Nummer: 13352
 
 
 
+**Stockholms Radioamatörer, SRA**
+
+    123 459 02 53
+
+
+
+
 **Stockholms Rullskidklubb**
 
     123 188 12 00
@@ -63434,6 +63716,13 @@ Nummer: 13352
 
 
 
+**Sundsvalls Segelsällskap, SUSS**
+
+    123 613 56 77
+
+
+
+
 **Sundsvalls Simsällskap**
 
     123 458 26 64
@@ -63965,6 +64254,13 @@ Nummer: 13352
 **Svensk - Eritreanskt Forum, S-ERI**
 
     123 392 97 34
+
+
+
+
+**Svensk-Etiopiska Föreningen**
+
+    123 633 91 54
 
 
 
@@ -67907,6 +68203,13 @@ Nummer: 13352
 
 
 
+**Team Blekinge Löparförening**
+
+    123 240 37 49
+
+
+
+
 **Team Dolphins Bowlingklubb**
 
     123 315 79 22
@@ -69474,6 +69777,13 @@ Nummer: 13352
 
 
 
+**Thai Cha-da AB**
+
+    123 012 90 80
+
+
+
+
 **Thailändska Buddhistiska Föreningen Wat Thai Uppsala วัดไทยอุปซอลา**
 
     123 149 60 66
@@ -70240,6 +70550,13 @@ Nummer: 13352
 **Topfunhoppborgar AB**
 
     123 105 19 78
+
+
+
+
+**Tordyvel AB**
+
+    123 124 96 30
 
 
 
@@ -72020,6 +72337,13 @@ Nummer: 13352
 **Uddevalla Skyttegille**
 
     123 381 50 65
+
+
+
+
+**Uddevalla Varvs- och Industrihistoriska förening**
+
+    123 553 07 53
 
 
 
@@ -74379,7 +74703,7 @@ Nummer: 13352
 
 
 
-**Viggo Foundation - Insamlingsstifte**
+**Viggo Foundation - Insamlingsstiftelse**
 
     123 671 39 03
 
@@ -76763,6 +77087,13 @@ Nummer: 13352
 
 
 
+**Västra Blekinge Sändaramatörer SK7JC**
+
+    123 333 43 64
+
+
+
+
 **Västra Eds Hembygdsförening**
 
     123 542 83 70
@@ -77260,6 +77591,8 @@ Nummer: 13352
 **Wargöns IK**
 
     123 241 19 16
+
+    123 606 67 32
 
 
 
@@ -81235,6 +81568,13 @@ Nummer: 13352
 **Östra Tommarps Bygdegårdsförening**
 
     123 279 74 96
+
+
+
+
+**Östra Ämtervik LRF**
+
+    123 317 42 73
 
 
 
