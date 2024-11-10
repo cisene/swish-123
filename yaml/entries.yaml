@@ -418,7 +418,7 @@ entries:
   orgNumber: 813200-3461
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.bhbk.se/
 
@@ -670,7 +670,7 @@ entries:
   orgNumber: 802474-8074
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://ngbk.org/
 
@@ -3439,7 +3439,7 @@ entries:
   orgNumber: 896100-3541
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://aselebhk.se/
 
@@ -4491,6 +4491,15 @@ entries:
   - kulturförening
   web: https://www.bastuakademien.se/
 
+- entry: 1230271072
+  orgName: Korsets Stöd R.F.
+  orgNumber: 802470-6767
+  comment: null
+  categories:
+  - lokaltelevision
+  - religion
+  web: https://www.himlentv7.se/
+
 - entry: 1230271296
   orgName: Jämtlands Flyg och Lottamuseum / Svensk Flyghistorisk Förening Region Jämtland-Härjedalen
   orgNumber: 893202-8700
@@ -4650,6 +4659,17 @@ entries:
   - idrottsförbund
   - segelklubb
   web: https://www.finnjolle.se/
+
+- entry: 1230290585
+  orgName: Camerata PLAY / Camerata Nordicas Vänner
+  orgNumber: 802540-2010
+  comment: null
+  categories:
+  - eventarrangör
+  - inspelningar
+  - konserter
+  - musikevenemang
+  web: https://camerataplay.com/
 
 - entry: 1230290825
   orgName: Karl-Oskars Krypin
@@ -5639,6 +5659,17 @@ entries:
   - intresseförening
   - turistförening
   web: https://ljungdalsfjallen.se/
+
+- entry: 1230330001
+  orgName: Norsjöbygdens Kulturleder
+  orgNumber: 802492-5417
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  - kulturleder
+  - vandringsleder
+  web: https://vandringsleden.nu/
 
 - entry: 1230330571
   orgName: Kulturhuset Anders / Anders Föreningen
@@ -6991,7 +7022,7 @@ entries:
   orgNumber: 802413-6940
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://stromsundsbhk.wixsite.com/sbhk
 
@@ -7208,7 +7239,7 @@ entries:
   orgNumber: 868400-5575
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.skarabk.se/
 
@@ -7753,7 +7784,7 @@ entries:
   orgNumber: 866000-9526
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.torebodabhk.com/
 
@@ -8293,7 +8324,7 @@ entries:
   orgNumber: 893202-2950
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://osdhund.se/
 
@@ -9271,7 +9302,7 @@ entries:
   orgNumber: 895400-6485
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   web: https://brukshundklubben.se/storumans-brukshundklubb/
 
 - entry: 1230537001
@@ -9553,7 +9584,7 @@ entries:
   orgNumber: 865500-9523
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://ulricehamnsbk.se/
 
@@ -10228,7 +10259,7 @@ entries:
   orgNumber: 894700-7723
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.skeabk.se/
 
@@ -11284,9 +11315,9 @@ entries:
   web: https://www.klagstorp.com/
 
 - entry: 1230681866
-  orgName: Ingen Människa är Illegal - Umeå
+  orgName: Ingen Människa är Illegal
   orgNumber: 802466-5062
-  comment: null
+  comment: Umeå
   categories:
   - donation
   - intresseförening
@@ -11466,7 +11497,7 @@ entries:
   orgNumber: 894701-8399
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.abynbyskebk.hundpoolen.nu/
 
@@ -11579,7 +11610,7 @@ entries:
   orgNumber: 866001-1571
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.billingebk.se/
 
@@ -11878,7 +11909,7 @@ entries:
   orgNumber: 846004-7882
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.tygelsjobrukshundklubb.com/
 
@@ -13871,7 +13902,7 @@ entries:
   orgNumber: 834000-0226
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://brukshundklubben.se/visby-brukshundklubb/
 
@@ -14670,7 +14701,7 @@ entries:
   orgNumber: 802413-4788
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.savsjobk.se/
 
@@ -15108,6 +15139,16 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/arvikahk
 
+- entry: 1230869727
+  orgName: DIBB Förlag
+  orgNumber: 769624-0030
+  comment: null
+  categories:
+  - bokutgivning
+  - förlag
+  - försäljning
+  web: http://www.dibbforlag.se/
+
 - entry: 1230870444
   orgName: Mariagården i Skultuna
   orgNumber: 556706-5262
@@ -15448,6 +15489,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1230887463
+  orgName: Ort Till Ort, OTO
+  orgNumber: 802513-2625
+  comment: Stödfond
+  categories:
+  - hyresgästförening
+  web: https://orttillort.org/
+
 - entry: 1230887489
   orgName: Dark Funeral Official Merchandise / Dark Funeral AB
   orgNumber: 559161-5132
@@ -15730,7 +15779,7 @@ entries:
   orgNumber: 894700-7723
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.skeabk.se/
 
@@ -16597,7 +16646,7 @@ entries:
   orgNumber: 838201-9464
   comment: Övrigt
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.kristianstadsbk.se/
 
@@ -16681,7 +16730,7 @@ entries:
   orgNumber: 855900-3184
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://brukshundklubben.se/stromstads-brukshundklubb/
 
@@ -17192,7 +17241,7 @@ entries:
   orgNumber: 829000-7395
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.ljungbybrukshundklubb.se/
 
@@ -17477,7 +17526,7 @@ entries:
   orgNumber: 866601-0064
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.skovdebk.se/
 
@@ -17823,7 +17872,7 @@ entries:
   orgNumber: 889200-9716
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://sundsvallsbhk.se/
 
@@ -20072,7 +20121,7 @@ entries:
   orgNumber: 849000-9548
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.ullaredsbk.se/
 
@@ -20619,7 +20668,7 @@ entries:
   orgNumber: 878001-6591
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.vasterasbk.se/
 
@@ -21476,7 +21525,7 @@ entries:
   orgNumber: 802406-0199
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.sthlmsavd.se/
 
@@ -21637,6 +21686,17 @@ entries:
   - kläder
   - medeltidskläder
   web: http://www.medeltidsmode.se/
+
+- entry: 1231235431
+  orgName: Retrolivet / René Bakkum
+  orgNumber: 641225-XXXX
+  comment: null
+  categories:
+  - försäljning
+  - inredningstextilier
+  - nostalgi
+  - retro
+  web: https://retrolivet.se/
 
 - entry: 1231235522
   orgName: Kvinnojouren Online
@@ -22047,7 +22107,7 @@ entries:
   orgNumber: 817000-6418
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.enkopingsbk.se/
 
@@ -23897,6 +23957,14 @@ entries:
   - religion
   web: https://rodenkyrkan.se/
 
+- entry: 1231371525
+  orgName: EFS Sommargård Höllviksstrand
+  orgNumber: 847000-8387
+  comment: null
+  categories:
+  - religion
+  web: https://www.hollviksstrand.se/
+
 - entry: 1231371699
   orgName: Beach Volley-Aid
   orgNumber: 802445-8526
@@ -24677,7 +24745,7 @@ entries:
   orgNumber: 878001-7441
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.skultunabrukshundklubb.se/
 
@@ -24695,6 +24763,15 @@ entries:
   comment: null
   categories: null
   web: null
+
+- entry: 1231431584
+  orgName: Svensk Andungeklubb
+  orgNumber: 802506-5510
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://www.andunge.se/
 
 - entry: 1231432137
   orgName: Automobilbilsällskapet i Nyköping
@@ -25059,7 +25136,7 @@ entries:
   orgNumber: 865000-5138
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://wordpress.kindbk.com/
 
@@ -25118,7 +25195,7 @@ entries:
   orgNumber: 836200-6275
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://solvesborgsbrukshundklubb.se/
 
@@ -25474,7 +25551,7 @@ entries:
   orgNumber: 876400-3938
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.karlskogabhk.se/
 
@@ -27922,7 +27999,7 @@ entries:
   orgNumber: 818000-7166
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.eskilstunabk.se/
 
@@ -28112,7 +28189,7 @@ entries:
   orgNumber: 882600-5921
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.borlangebk.se/
 
@@ -30013,7 +30090,7 @@ entries:
   orgNumber: 869000-9975
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://lidkopingbk.se/
 
@@ -31026,7 +31103,7 @@ entries:
   orgNumber: 838201-9464
   comment: El/Ställplats
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   - ställplats
   web: http://www.kristianstadsbk.se/
@@ -31163,7 +31240,7 @@ entries:
   orgNumber: 878500-6258
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://kopingsbrukshundklubb.se/
 
@@ -33520,7 +33597,7 @@ entries:
   orgNumber: 817603-2996
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.knivstabk.se/
 
@@ -35372,6 +35449,14 @@ entries:
   - underhållning
   web: https://www.ceciliakyllinge.se/
 
+- entry: 1232082501
+  orgName: Frillegården / Adreas Graba
+  orgNumber: 890813-XXXX
+  comment: null
+  categories:
+  - hästsport
+  web: https://frillegarden.se/
+
 - entry: 1232084283
   orgName: Team Rynkeby
   orgNumber: 802535-9137
@@ -35574,7 +35659,7 @@ entries:
   orgNumber: 877100-7070
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.lindebk.se/
 
@@ -36963,7 +37048,7 @@ entries:
   orgNumber: 894002-8726
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://ubhk.se/
 
@@ -39240,7 +39325,7 @@ entries:
   orgNumber: 812800-3897
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.botkyrkabk.se/
 
@@ -40276,7 +40361,7 @@ entries:
   orgNumber: 833600-8373
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.västerviksbk.se/
 
@@ -40293,7 +40378,7 @@ entries:
   orgNumber: 846000-7282
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.sbkmalmo.se/
 
@@ -40415,7 +40500,7 @@ entries:
   orgNumber: 875002-4633
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   - hundsällskap
   web: https://www.ohsbk.hundpoolen.nu/
@@ -41835,7 +41920,7 @@ entries:
   orgNumber: 843001-5944
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundklubb
   web: https://www.bjuvsbk.se/
 
@@ -41933,7 +42018,7 @@ entries:
   orgNumber: 873200-5890
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://karlstadbhk.wordpress.com/
 
@@ -43715,6 +43800,14 @@ entries:
   categories:
   - stiftelse
   web: https://doku.nu/
+
+- entry: 1232571552
+  orgName: Jönköping Qom Ut
+  orgNumber: 802468-7934
+  comment: null
+  categories:
+  - intresseförening
+  web: http://www.qomut.se/
 
 - entry: 1232573913
   orgName: Korpen Älmhult
@@ -46164,7 +46257,7 @@ entries:
   orgNumber: 802491-6291
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://nbk.nynasbk.com/
 
@@ -47267,7 +47360,7 @@ entries:
   orgNumber: 802429-2453
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://valdemarsvikbrukshundklubb.se/
 
@@ -48434,7 +48527,7 @@ entries:
   orgNumber: 827000-9619
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://forserumsbk.se/
 
@@ -48600,7 +48693,7 @@ entries:
   orgNumber: 855900-4042
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.tanumsbk.se/
 
@@ -48681,7 +48774,7 @@ entries:
   orgNumber: 873201-7358
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.grumsbrukshundklubb.hundpoolen.se/
 
@@ -49107,7 +49200,7 @@ entries:
   orgNumber: 875700-7045
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.kumlabk.se/
 
@@ -50043,7 +50136,7 @@ entries:
   orgNumber: 802452-7783
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://eksjobk.se/
 
@@ -53370,7 +53463,7 @@ entries:
   orgNumber: 885501-1626
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.hoforsbrukshundklubb.se/
 
@@ -55335,7 +55428,7 @@ entries:
   orgNumber: 875701-1310
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.hallsbergsbk.se/
 
@@ -55858,6 +55951,16 @@ entries:
   categories:
   - bridgeklubb
   web: https://www.svenskbridge.se/nora-bk
+
+- entry: 1233278868
+  orgName: Scandinavian Ragdoll Club
+  orgNumber: 817606-9956
+  comment: null
+  categories:
+  - avel
+  - kattklubb
+  - kattuppfödning
+  web: https://scandinavianragdoll.com/
 
 - entry: 1233278892
   orgName: Svegs Hembygdsförening
@@ -56966,7 +57069,7 @@ entries:
   web: https://www.svenskakyrkan.se/norrfjarden
 
 - entry: 1233366788
-  orgName: Gymmix Falun GF - Gymnastik
+  orgName: Gymmix Falun GF
   orgNumber: 883201-2655
   comment: null
   categories:
@@ -58478,7 +58581,7 @@ entries:
   orgNumber: 802418-2712
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://arjeplogbk.com/
 
@@ -58594,7 +58697,7 @@ entries:
   orgNumber: 837600-4779
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.orkelljunga-bk.se/
 
@@ -60225,7 +60328,7 @@ entries:
   orgNumber: 815600-6119
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.sodertaljebk.se/
 
@@ -60670,7 +60773,7 @@ entries:
   orgNumber: 012360-4639
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.högsbybk.se/
 
@@ -61523,7 +61626,7 @@ entries:
   orgNumber: 814800-5831
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.vasbybrukshundklubb.se/
 
@@ -61971,7 +62074,7 @@ entries:
   orgNumber: 814400-9027
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://haverobk.se/
 
@@ -62343,7 +62446,7 @@ entries:
   orgNumber: 825003-1294
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.soderkopingsbk.com/
 
@@ -62749,7 +62852,7 @@ entries:
   orgNumber: 838202-3508
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.ahusbk.se/
 
@@ -62820,7 +62923,7 @@ entries:
   orgNumber: 884400-8881
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.morabk.com/
 
@@ -62929,6 +63032,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/essunga
+
+- entry: 1233706181
+  orgName: Prisma Götene
+  orgNumber: 802488-3434
+  comment: null
+  categories:
+  - religion
+  web: https://prismagotene.se/
 
 - entry: 1233706660
   orgName: Häljarps SK
@@ -63737,7 +63848,7 @@ entries:
   orgNumber: 879000-3704
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.fagerstabk.com/
 
@@ -64704,7 +64815,7 @@ entries:
   orgNumber: 857206-5228
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.abhk.se/
 
@@ -65614,7 +65725,7 @@ entries:
   orgNumber: 875001-8338
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://orebrobk.nu/
 
@@ -66206,7 +66317,7 @@ entries:
   orgNumber: 832401-1934
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://nybrobk.se/
 
@@ -66274,7 +66385,7 @@ entries:
   orgNumber: 894002-8726
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://ubhk.se/
 
@@ -66871,7 +66982,7 @@ entries:
   orgNumber: 883200-7523
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://falubk.org/
 
@@ -67621,7 +67732,7 @@ entries:
   orgNumber: 812000-3333
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.osterakersbk.se/
 
@@ -67999,7 +68110,7 @@ entries:
   orgNumber: 802504-4655
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://degerforsbk.se/
 
@@ -68118,7 +68229,7 @@ entries:
   orgNumber: 817300-6431
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://tierpsbk.se/
 
@@ -68822,7 +68933,7 @@ entries:
   orgNumber: 894002-7827
   comment: Kurser
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://vannasbhk.weebly.com/
 
@@ -69375,7 +69486,7 @@ entries:
   orgNumber: 894002-7827
   comment: Fika
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://vannasbhk.weebly.com/
 
@@ -69393,7 +69504,7 @@ entries:
   orgNumber: 887500-5426
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://hudiksvallsbrukshundklubb.se/
 
@@ -69521,7 +69632,7 @@ entries:
   orgNumber: 867800-3008
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.falbygdensbrukshundklubb.se/
 
@@ -69593,7 +69704,7 @@ entries:
   orgNumber: 897000-6758
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://lulebk.nu/
 
@@ -69992,7 +70103,7 @@ entries:
   orgNumber: 832800-9959
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.monsterasbk.se/
 
@@ -70477,7 +70588,7 @@ entries:
   orgNumber: 802420-8061
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.forshagabk.se/
 
@@ -70601,7 +70712,7 @@ entries:
   orgNumber: 802429-6280
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.vallentunabrukshundklubb.se/
 
@@ -71018,7 +71129,7 @@ entries:
   orgNumber: 838800-5996
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.simbk.se/
 
@@ -72249,7 +72360,7 @@ entries:
   orgNumber: 894002-7827
   comment: Tävlingar
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://vannasbhk.weebly.com/
 
@@ -72418,7 +72529,7 @@ entries:
   orgNumber: 802423-0776
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://edsbrukshundklubb.se/
 
@@ -73770,7 +73881,7 @@ entries:
   orgNumber: 853300-9794
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.kungalvbk.com/
 
@@ -74712,7 +74823,7 @@ entries:
   orgNumber: 874000-8795
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://torsbybk.com/
 
@@ -76583,6 +76694,16 @@ entries:
   - supporterklubb
   web: https://www.facebook.com/OrebroTifo2002/
 
+- entry: 1234594172
+  orgName: Felan - förening för folkmusik och dans
+  orgNumber: 875001-6464
+  comment: null
+  categories:
+  - dansförening
+  - folkmusik
+  - musikförening
+  web: http://felan.se/
+
 - entry: 1234594693
   orgName: Equmeniakyrkan Södra Nissadalen
   orgNumber: 849200-1600
@@ -77202,7 +77323,7 @@ entries:
   orgNumber: 874001-2656
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://munkforsbrukshundklubb.wordpress.com/
 
@@ -77302,7 +77423,7 @@ entries:
   orgNumber: 802411-4368
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.malarobk.se/
 
@@ -78535,7 +78656,7 @@ entries:
   orgNumber: 894701-6328
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.norsjobk.se/
 
@@ -79042,7 +79163,7 @@ entries:
   orgNumber: 833200-7759
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.hultsfredbrukshundklubb.se/
 
@@ -79609,6 +79730,15 @@ entries:
   categories:
   - hjälporganisation
   web: https://templarknightsmc.se/jamtland/jamtland-charity/
+
+- entry: 1234790945
+  orgName: Gavlecon Studentförening
+  orgNumber: 885001-8600
+  comment: null
+  categories:
+  - studentkår
+  - studentorganisation
+  web: http://gavlecon.com/
 
 - entry: 1234794434
   orgName: Filipstads Simklubb
@@ -81065,6 +81195,14 @@ entries:
   - orkester
   web: https://casanovas.se/
 
+- entry: 1234931713
+  orgName: KodachiKai
+  orgNumber: 802428-5333
+  comment: null
+  categories:
+  - spelförening
+  web: https://kodachikai.se/
+
 - entry: 1234933529
   orgName: Hånger Hembygdsförening
   orgNumber: 828000-4980
@@ -81510,6 +81648,15 @@ entries:
   categories:
   - religion
   web: https://www.ekho.se/
+
+- entry: 1234950218
+  orgName: Magnarps Intresseförening
+  orgNumber: 839400-8679
+  comment: null
+  categories:
+  - intresseförening
+  - samhällsförening
+  web: https://www.magnarp.com/
 
 - entry: 1234950713
   orgName: Team Rynkeby
@@ -82424,7 +82571,7 @@ entries:
   orgNumber: 843001-5944
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.bjuvsbk.se/
 
@@ -85245,7 +85392,7 @@ entries:
   orgNumber: 847000-8155
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://brukshundklubben.se/om-oss/hitta-din-klubb/sbk-skanes-distrikt/lokala-klubbar/trelleborgs-brukshundklubb/
 
@@ -86224,7 +86371,7 @@ entries:
   orgNumber: 833601-0064
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.gamlebybrukshundklubb.se/
 
@@ -86532,7 +86679,7 @@ entries:
   orgNumber: 802469-7008
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.forsakarsbrukshundklubb.se/
 
@@ -86802,7 +86949,7 @@ entries:
   orgNumber: 819001-2347
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://gnesta-trosa-bk.se/
 
@@ -87069,7 +87216,7 @@ entries:
   orgNumber: 818501-5537
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.flensbrukshundklubb.se/
 
@@ -88570,7 +88717,7 @@ entries:
   orgNumber: 836201-0004
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.sbkolofstrom.se/
 
@@ -89257,7 +89404,7 @@ entries:
   orgNumber: 886000-2453
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.soderhamnsbrukshundklubb.se/
 
@@ -89519,7 +89666,7 @@ entries:
   orgNumber: 849000-5405
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.falkenbergsbk.se/
 
@@ -90101,7 +90248,7 @@ entries:
   orgNumber: 842000-9030
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://horbybk.se/
 
@@ -90171,7 +90318,7 @@ entries:
   orgNumber: 802438-5455
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.roslagensbk.se/
 
@@ -90510,7 +90657,7 @@ entries:
   orgNumber: 835000-8317
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://rodebybrukshundklubb.se/
 
@@ -91305,7 +91452,7 @@ entries:
   orgNumber: 835600-1670
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://ronnebybrukshundklubb.se/
 
@@ -92906,7 +93053,7 @@ entries:
   orgNumber: 875700-8621
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.askersundsbk.se/
 
@@ -93763,7 +93910,7 @@ entries:
   orgNumber: 842001-0558
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.sbkeslov.se/
 
@@ -93869,7 +94016,7 @@ entries:
   orgNumber: 892001-3342
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.ohbk.hundpoolen.nu/
 
@@ -94484,7 +94631,7 @@ entries:
   orgNumber: 802458-9411
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://sbkattila.se/
 
@@ -94673,7 +94820,7 @@ entries:
   orgNumber: 854600-5623
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://munkedalsbrukshundklubb.se/
 
@@ -94690,7 +94837,7 @@ entries:
   orgNumber: 865000-5393
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.marksbk.se/
 
@@ -95642,7 +95789,7 @@ entries:
   orgNumber: 882602-0086
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.g-fbk.se/
 
@@ -95660,7 +95807,7 @@ entries:
   orgNumber: 849000-5405
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.falkenbergsbk.se/
 
@@ -95930,7 +96077,7 @@ entries:
   orgNumber: 838201-4325
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: null
 
@@ -97994,7 +98141,7 @@ entries:
   orgNumber: 848000-6892
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://ystadsbrukshundklubb.se/
 
@@ -98348,11 +98495,11 @@ entries:
   web: https://stkf.se/
 
 - entry: 1235931381
-  orgName: Svalövs brukshundklubb
+  orgName: Svalövs Brukshundklubb
   orgNumber: 802457-1690
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://svalovsbrukshundklubb.com/
 
@@ -99106,7 +99253,7 @@ entries:
   orgNumber: 889600-3046
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://sbk-ovik.se/
 
@@ -99696,7 +99843,7 @@ entries:
   orgNumber: 838201-9464
   comment: Kiosk
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.kristianstadsbk.se/
 
@@ -100407,7 +100554,7 @@ entries:
   orgNumber: 896100-3277
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.vbhk.hundpoolen.nu/
 
@@ -101859,7 +102006,7 @@ entries:
   orgNumber: 837600-3383
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.soderasensbk.com/
 
@@ -102053,7 +102200,7 @@ entries:
   orgNumber: 879500-3014
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.salabrukshundklubb.hundpoolen.nu/
 
@@ -102486,7 +102633,7 @@ entries:
   orgNumber: 845002-6995
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://vbkhund.se/
 
@@ -102560,7 +102707,7 @@ entries:
   orgNumber: 828500-3581
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.smalandsstenarbk.se/
 
@@ -102666,7 +102813,7 @@ entries:
   orgNumber: 898800-5214
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://brukshundklubben.se/sbk-ovre-norrlands-distrikt/
 
@@ -103965,7 +104112,7 @@ entries:
   orgNumber: 894002-8726
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - förening
   web: https://ubhk.se/
 
@@ -104280,7 +104427,7 @@ entries:
   orgNumber: 802414-0579
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.kungsorsbhk.com/
 
@@ -104485,7 +104632,7 @@ entries:
   orgNumber: 843001-6140
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.raadalensbk.se/
 
@@ -104583,6 +104730,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.vaddoif.se/
+
+- entry: 1236298533
+  orgName: OA Anonyma Överätare
+  orgNumber: 802444-8287
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://oasverige.org/
 
 - entry: 1236298574
   orgName: Staffanstorps Scoutkår Torparna
@@ -105330,7 +105486,7 @@ entries:
   orgNumber: 829000-9037
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.elmhultbrukshundklubb.se/
 
@@ -105373,7 +105529,7 @@ entries:
   orgNumber: 877100-5322
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.norabrukshundklubb.se/
 
@@ -106484,7 +106640,7 @@ entries:
   orgNumber: 828500-7376
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://gislavedvastbobk.se/
 
@@ -106673,7 +106829,7 @@ entries:
   orgNumber: 802434-9840
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://åmålsbrukshundklubb.se/
 
@@ -107839,7 +107995,7 @@ entries:
   orgNumber: 875003-4012
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.kopparbergsbk.se/
 
@@ -108564,7 +108720,7 @@ entries:
   orgNumber: 898500-8203
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://jokkmokksbhk.se/
 
@@ -110016,7 +110172,7 @@ entries:
   orgNumber: 834001-5695
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://brukshundklubben.se/sbk-gotlandsdistriktet/
 
@@ -111271,7 +111427,7 @@ entries:
   orgNumber: 869001-0056
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: http://www.gotenebk.com/
 
@@ -112364,7 +112520,7 @@ entries:
   orgNumber: 829502-6432
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.a-lbk.se/
 
@@ -113290,7 +113446,7 @@ entries:
   orgNumber: 889201-4195
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.njurundabhk.se/
 
@@ -114676,7 +114832,7 @@ entries:
   orgNumber: 897300-3109
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundklubb
   web: https://kirunabhk.wordpress.com/
 
@@ -115285,11 +115441,11 @@ entries:
   web: https://www.svenskalag.se/lindesbergvolley
 
 - entry: 1236954598
-  orgName: Vimmerby brukshundklubb
+  orgName: Vimmerby Brukshundklubb
   orgNumber: 833200-4350
   comment: null
   categories:
-  - brukshundsklubb
+  - brukshundklubb
   - hundsport
   web: https://www.vimmerbybrukshundklubb.se/
 

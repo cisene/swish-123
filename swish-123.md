@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-09-rev-190627
+Revision: 2024-11-10-rev-133717
 
-Nummer: 13402
+Nummer: 13419
 
 
 
@@ -8945,6 +8945,13 @@ Nummer: 13402
 
 
 
+**Camerata PLAY / Camerata Nordicas Vänner**
+
+    123 029 05 85
+
+
+
+
 **Camp Sweden TIFO**
 
     123 045 09 73
@@ -10886,6 +10893,13 @@ Nummer: 13402
 
 
 
+**DIBB Förlag**
+
+    123 086 97 27
+
+
+
+
 **Din Kiropraktor Falkenberg AB**
 
     123 605 90 59
@@ -12521,6 +12535,13 @@ Nummer: 13402
 **EFS Norrfjärden**
 
     123 579 24 29
+
+
+
+
+**EFS Sommargård Höllviksstrand**
+
+    123 137 15 25
 
 
 
@@ -15571,6 +15592,13 @@ Nummer: 13402
 
 
 
+**Felan - förening för folkmusik och dans**
+
+    123 459 41 72
+
+
+
+
 **Fem i Topp / Firma Carl Johan Östling AB**
 
     123 500 69 52
@@ -17054,6 +17082,13 @@ Nummer: 13402
 **FrihetsNytt / Marketing4Future M4F AB**
 
     123 519 63 73
+
+
+
+
+**Frillegården / Adreas Graba**
+
+    123 208 25 01
 
 
 
@@ -20281,6 +20316,13 @@ Nummer: 13402
 
 
 
+**Gavlecon Studentförening**
+
+    123 479 09 45
+
+
+
+
 **GB Fågelguidning AB**
 
     123 501 08 22
@@ -22113,7 +22155,7 @@ Nummer: 13402
 
 
 
-**Gymmix Falun GF - Gymnastik**
+**Gymmix Falun GF**
 
     123 336 67 88
 
@@ -29225,6 +29267,13 @@ Nummer: 13402
 
 
 
+**Ingen Människa är Illegal**
+
+    123 068 18 66 - Umeå
+
+
+
+
 **Ingen Människa är Illegal - Göteborg**
 
     123 395 66 20
@@ -29242,13 +29291,6 @@ Nummer: 13402
 **Ingen Människa är Illegal - Trollhättan och Vänersborg**
 
     123 388 17 52
-
-
-
-
-**Ingen Människa är Illegal - Umeå**
-
-    123 068 18 66
 
 
 
@@ -31524,6 +31566,13 @@ Nummer: 13402
     123 533 18 89
 
     123 534 84 87
+
+
+
+
+**Jönköping Qom Ut**
+
+    123 257 15 52
 
 
 
@@ -33951,6 +34000,13 @@ Nummer: 13402
 
 
 
+**KodachiKai**
+
+    123 493 17 13
+
+
+
+
 **Kode IF**
 
     123 279 91 61
@@ -34546,6 +34602,13 @@ Nummer: 13402
 **Korsets Kloster**
 
     123 531 98 01
+
+
+
+
+**Korsets Stöd R.F.**
+
+    123 027 10 72
 
 
 
@@ -41018,6 +41081,13 @@ Nummer: 13402
 
 
 
+**Magnarps Intresseförening**
+
+    123 495 02 18
+
+
+
+
 **Magpie Discgolfklubb**
 
     123 062 50 79
@@ -45840,6 +45910,13 @@ Nummer: 13402
 
 
 
+**Norsjöbygdens Kulturleder**
+
+    123 033 00 01
+
+
+
+
 **North Bank Supporters, NBS**
 
     123 669 23 05
@@ -46713,6 +46790,13 @@ Nummer: 13402
 
 ## O
 
+**OA Anonyma Överätare**
+
+    123 629 85 33
+
+
+
+
 **Oasrörelsen i Sverige**
 
     123 412 38 40
@@ -47395,6 +47479,13 @@ Nummer: 13402
 **Orsa Slipstensförening**
 
     123 148 23 63
+
+
+
+
+**Ort Till Ort, OTO**
+
+    123 088 74 63 - Stödfond
 
 
 
@@ -49272,6 +49363,13 @@ Nummer: 13402
 **Prinsessan Estelles Kulturstiftelse**
 
     123 585 30 72
+
+
+
+
+**Prisma Götene**
+
+    123 370 61 81
 
 
 
@@ -51847,6 +51945,13 @@ Nummer: 13402
 **Restaurang Thai Corner AB**
 
     123 141 02 57
+
+
+
+
+**Retrolivet / René Bakkum**
+
+    123 123 54 31
 
 
 
@@ -55432,6 +55537,13 @@ Nummer: 13402
     123 064 63 07
 
     123 332 75 41
+
+
+
+
+**Scandinavian Ragdoll Club**
+
+    123 327 88 68
 
 
 
@@ -64018,7 +64130,7 @@ Nummer: 13402
 
 
 
-**Svalövs brukshundklubb**
+**Svalövs Brukshundklubb**
 
     123 593 13 81
 
@@ -64233,6 +64345,13 @@ Nummer: 13402
 **Svensk-Albanska Nätverket, SAN**
 
     123 091 98 60
+
+
+
+
+**Svensk Andungeklubb**
+
+    123 143 15 84
 
 
 
@@ -74930,7 +75049,7 @@ Nummer: 13402
 
 
 
-**Vimmerby brukshundklubb**
+**Vimmerby Brukshundklubb**
 
     123 695 45 98
 
