@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-10-rev-133717
+Revision: 2024-11-11-rev-193058
 
-Nummer: 13419
+Nummer: 13450
 
 
 
@@ -544,6 +544,13 @@ Nummer: 13419
 
 
 
+**Agape Sverige**
+
+    123 197 99 13
+
+
+
+
 **Agapes Vänner i Uddevalla, Munkedal, Tanum**
 
     123 669 52 41
@@ -958,6 +965,13 @@ Nummer: 13419
 **Albertz Racing & Hobby**
 
     123 129 78 11
+
+
+
+
+**Albion Nordic AB**
+
+    123 363 07 53
 
 
 
@@ -6117,6 +6131,13 @@ Nummer: 13419
 
 
 
+**Borås Bågskyttesällskap**
+
+    123 370 48 97
+
+
+
+
 **Borås CA - Cykel**
 
     123 048 39 25
@@ -8439,6 +8460,13 @@ Nummer: 13419
 
 
 
+**Burviks Golfrestaurang / Starks Kitchen AB**
+
+    123 399 87 39
+
+
+
+
 **Buråskyrkans Vänner**
 
     123 447 49 95
@@ -10363,6 +10391,13 @@ Nummer: 13419
 **Dance In Line**
 
     123 161 35 38
+
+
+
+
+**DanceWithUSoul**
+
+    123 270 13 16
 
 
 
@@ -16823,6 +16858,13 @@ Nummer: 13419
 
 
 
+**Fotoklubben Zoom**
+
+    123 539 89 20
+
+
+
+
 **Fotskäls HC**
 
     123 263 83 77
@@ -17086,7 +17128,7 @@ Nummer: 13419
 
 
 
-**Frillegården / Adreas Graba**
+**Frillegården / Andreas Graba**
 
     123 208 25 01
 
@@ -19815,6 +19857,13 @@ Nummer: 13419
 
 
 
+**Föreningen Wilhelmsberg Norderön**
+
+    123 351 33 89
+
+
+
+
 **Föreningen Yari**
 
     123 239 56 39
@@ -21053,6 +21102,13 @@ Nummer: 13419
 
 
 
+**Godoymedia AB**
+
+    123 309 12 20
+
+
+
+
 **GoF IF**
 
     123 667 48 24
@@ -21873,6 +21929,13 @@ Nummer: 13419
 
 
 
+**Grötviks Segelsällskap**
+
+    123 311 17 96
+
+
+
+
 **Grötö Hamnförening**
 
     123 121 33 05
@@ -22144,6 +22207,13 @@ Nummer: 13419
 **Guövikens Båtklubb**
 
     123 658 12 50
+
+
+
+
+**Gyllene Hjorten**
+
+    123 029 05 10
 
 
 
@@ -23778,6 +23848,13 @@ Nummer: 13419
 **Harley Owners Group, HOG Umeå Chapter**
 
     123 225 05 04
+
+
+
+
+**Harmoni - Center för hälsa och helhet**
+
+    123 071 89 81
 
 
 
@@ -28797,6 +28874,13 @@ Nummer: 13419
 
 
 
+**IK Heros Tennisklubb**
+
+    123 525 11 45
+
+
+
+
 **IK Juno**
 
     123 497 12 30
@@ -30658,6 +30742,13 @@ Nummer: 13419
 
 
 
+**Jaktspanielklubben**
+
+    123 338 98 63
+
+
+
+
 **Jami Hundsport AB**
 
     123 131 40 95
@@ -30822,6 +30913,13 @@ Nummer: 13419
 **JK10 IF**
 
     123 634 53 91
+
+
+
+
+**Joakim Løvgren - Historical Riding**
+
+    123 446 22 97
 
 
 
@@ -33693,6 +33791,13 @@ Nummer: 13419
 **Klimatpodden / Konvoj Produktion**
 
     123 396 29 74
+
+
+
+
+**Klingsbergs Förlag AB**
+
+    123 484 07 24
 
 
 
@@ -39897,6 +40002,13 @@ Nummer: 13419
 
 
 
+**Lotus - School of Life / Gerti Förster**
+
+    123 055 05 09
+
+
+
+
 **Lotus Spa - Massage / Kristofer Haglund**
 
     123 380 44 40
@@ -42152,6 +42264,13 @@ Nummer: 13419
 
 
 
+**Mediaföretaget Fempers AB**
+
+    123 062 14 33
+
+
+
+
 **Mediaverkstan**
 
     123 290 62 46
@@ -42379,6 +42498,13 @@ Nummer: 13419
 **Mercedes-Benz Klubben Sverige**
 
     123 680 91 64
+
+
+
+
+**Mercus Yrkeskläder AB**
+
+    123 394 55 08
 
 
 
@@ -45056,6 +45182,13 @@ Nummer: 13419
 **Nora VSK**
 
     123 042 57 44
+
+
+
+
+**Norah Kohle - Häst i Balans**
+
+    123 231 40 03
 
 
 
@@ -52523,7 +52656,7 @@ Nummer: 13419
 
 
 
-**Ringsjöortens Lantliga RF - Ridsport**
+**Ringsjöortens Lantliga Ryttarförening**
 
     123 299 21 62
 
@@ -55495,6 +55628,13 @@ Nummer: 13419
 
 
 
+**Satsa Friskt**
+
+    123 680 02 96
+
+
+
+
 **SAU-Föreningen i Ölmstad**
 
     123 467 38 51
@@ -55551,6 +55691,13 @@ Nummer: 13419
 **Scandinavian Safe**
 
     123 519 64 23
+
+
+
+
+**Scandinavian Seaweed Company AB**
+
+    123 530 23 85
 
 
 
@@ -64789,6 +64936,13 @@ Nummer: 13419
 
 
 
+**Svenska Bågjägareförbundet**
+
+    123 663 03 21
+
+
+
+
 **Svenska Celiakiförbundet**
 
     123 900 24 60
@@ -66070,6 +66224,8 @@ Nummer: 13419
 
     123 502 03 83
 
+    123 632 99 16
+
 
 
 
@@ -66348,6 +66504,13 @@ Nummer: 13419
 **Swedish Executive Jazz Society, SWEJS**
 
     123 166 24 93
+
+
+
+
+**Swedish Hot Rod Association Göteborg, SHRA**
+
+    123 387 40 47
 
 
 
@@ -74588,6 +74751,13 @@ Nummer: 13419
 
 
 
+**Veterinärbilen Nacka Värmdö / Eva Norén**
+
+    123 538 35 26
+
+
+
+
 **Veterinärer Utan Gränser - Sverige**
 
     123 480 39 87
@@ -75119,6 +75289,13 @@ Nummer: 13419
 **Vincent & Ebba AB**
 
     123 184 96 37
+
+
+
+
+**Vindelngruppen**
+
+    123 224 29 64 - Konst i Kvarn
 
 
 
@@ -77138,6 +77315,8 @@ Nummer: 13419
 
 **Västerås stad**
 
+    123 173 13 63
+
     123 677 99 12 - dagkort och säsongskort skidåkning
 
 
@@ -78288,6 +78467,17 @@ Nummer: 13419
 
 
 
+## X
+
+**X-Cons Magazine / X-Cons Stockholm**
+
+    123 129 06 67
+
+
+
+
+
+
 ## Y
 
 **Y:ets Framtid Intresseförening**
@@ -78411,6 +78601,13 @@ Nummer: 13419
 **Yoga Jajaja / Heléne Clemensson**
 
     123 421 54 71
+
+
+
+
+**Yoga Med Helen Ab**
+
+    123 697 75 08
 
 
 
@@ -79563,6 +79760,13 @@ Nummer: 13419
 **Åkerbo Frikyrkoförsamling**
 
     123 199 31 12
+
+
+
+
+**Åkerby Suzukiförening**
+
+    123 513 71 04
 
 
 
@@ -81306,6 +81510,13 @@ Nummer: 13419
 **Österlens Ridklubb**
 
     123 472 61 96
+
+
+
+
+**Österlenvännerna**
+
+    123 459 02 38
 
 
 
