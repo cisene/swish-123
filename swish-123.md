@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-11-rev-193058
+Revision: 2024-11-12-rev-134927
 
-Nummer: 13450
+Nummer: 13479
 
 
 
@@ -4547,6 +4547,13 @@ Nummer: 13450
 
 
 
+**Billinge Föreläsningsförening**
+
+    123 289 58 11
+
+
+
+
 **Billingebydens Kattklubb**
 
     123 372 13 70
@@ -4557,6 +4564,15 @@ Nummer: 13450
 **Billingens Golfklubb**
 
     123 695 59 59
+
+
+
+
+**Billingens Skidallians**
+
+    123 333 28 14
+
+    123 699 80 82
 
 
 
@@ -5327,6 +5343,13 @@ Nummer: 13450
 **Blekingska Nationen**
 
     123 207 36 58
+
+
+
+
+**Blender / Blender Produktion AB**
+
+    123 303 43 78
 
 
 
@@ -9129,6 +9152,13 @@ Nummer: 13450
 **Cariannas Restaurang & Catering AB**
 
     123 672 21 36
+
+
+
+
+**Carina Holgersson**
+
+    123 048 69 28
 
 
 
@@ -14027,6 +14057,13 @@ Nummer: 13450
 
 
 
+**Equmeniakyrkan Kaxholmen**
+
+    123 123 74 03
+
+
+
+
 **Equmeniakyrkan Kvillsfors**
 
     123 131 41 60
@@ -18506,6 +18543,13 @@ Nummer: 13450
 
 
 
+**Föreningen Bohuslin**
+
+    123 690 22 17
+
+
+
+
 **Föreningen Bota FA!**
 
     123 237 53 19
@@ -20237,6 +20281,8 @@ Nummer: 13450
 **Gamleby Ridklubb**
 
     123 502 14 64
+
+    123 691 47 66
 
 
 
@@ -26169,6 +26215,13 @@ Nummer: 13450
 
 
 
+**Humlebyns / Åsa Sjöberg**
+
+    123 281 63 79
+
+
+
+
 **Hundar längtar hem**
 
     123 109 35 74 - Rumänska gatuhundar
@@ -30372,6 +30425,13 @@ Nummer: 13450
 
 
 
+**Intercontact AB**
+
+    123 379 14 49
+
+
+
+
 **International Buddhist Progress Society Sweden, IBPS Sweden**
 
     123 224 47 21
@@ -30773,6 +30833,13 @@ Nummer: 13450
 **Jan-Olof Sundbergs Åkeri AB**
 
     123 175 63 94
+
+
+
+
+**Jan Persson - Hästträning & Westernridning**
+
+    123 105 28 69
 
 
 
@@ -34735,6 +34802,15 @@ Nummer: 13450
 **Korskyrkan Gävle**
 
     123 694 82 36
+
+
+
+
+**Korskyrkan i Götene**
+
+    123 213 47 65 - Församlingens verksamhet
+
+    123 401 01 87 - Insamlingar
 
 
 
@@ -41575,6 +41651,13 @@ Nummer: 13450
 
 
 
+**Malmölistan**
+
+    123 284 99 09
+
+
+
+
 **Malmöns Intresseförening**
 
     123 312 72 71
@@ -42307,6 +42390,8 @@ Nummer: 13450
 
 
 **Mediumförbundet**
+
+    123 375 32 09
 
     123 416 29 88
 
@@ -43358,6 +43443,13 @@ Nummer: 13450
 
 
 
+**Motortorpedbåten T38 Vänner**
+
+    123 258 90 34
+
+
+
+
 **Motvind Sverige**
 
     123 383 27 63
@@ -43799,6 +43891,13 @@ Nummer: 13450
 **Muskelfonden - Insamlingsstiftelsen Forskningsfonden för Neuromuskulära Sjukdomar**
 
     123 900 83 92
+
+
+
+
+**MuskelVerket / Jan Nilsson**
+
+    123 464 50 57
 
 
 
@@ -44652,6 +44751,13 @@ Nummer: 13450
 **NAV Sweden**
 
     123 612 31 60
+
+
+
+
+**Navigationsakademien / Anders Rude**
+
+    123 201 51 21
 
 
 
@@ -47025,7 +47131,7 @@ Nummer: 13450
 
 
 
-**Odinn Islandshästklubb**
+**Odinn's Islandshästklubb**
 
     123 571 57 01
 
@@ -48396,9 +48502,23 @@ Nummer: 13450
 
 
 
+**Philochoros**
+
+    123 546 92 91
+
+
+
+
 **Phoenixmottagningen / Stiftelsen Vidarkliniken**
 
     123 253 23 07
+
+
+
+
+**PILAB, Pär-Inge Larsson AB**
+
+    123 573 69 88
 
 
 
@@ -48926,6 +49046,13 @@ Nummer: 13450
 **Pingstkyrkan i Rottne**
 
     123 503 04 08
+
+
+
+
+**Pingstkyrkan i Stöpen / Stöpen Sionförsamlingen**
+
+    123 571 45 63
 
 
 
@@ -52282,6 +52409,13 @@ Nummer: 13450
 
 
 
+**Riksdagens Veteranförening**
+
+    123 246 79 75
+
+
+
+
 **Riksförbundet Cystisk Fibros**
 
     123 351 31 32
@@ -54984,6 +55118,13 @@ Nummer: 13450
 **Sala Skyttegille**
 
     123 588 05 21
+
+
+
+
+**Salemförsamlingen-Korskyrkan i Mölndal**
+
+    123 522 23 85
 
 
 
@@ -58492,6 +58633,13 @@ Nummer: 13450
 **SMK Söderhamn**
 
     123 033 70 71
+
+
+
+
+**SMK Trollhättan**
+
+    123 280 19 00
 
 
 
@@ -68171,6 +68319,13 @@ Nummer: 13450
 
 
 
+**Sösdala Föreläsning**
+
+    123 212 12 34
+
+
+
+
 **Sösdala IF**
 
     123 149 75 69
@@ -68390,6 +68545,13 @@ Nummer: 13450
 **Tapazio Capoeira Club**
 
     123 051 70 86
+
+
+
+
+**Tarja Runfeldt AB**
+
+    123 448 21 88
 
 
 
@@ -71616,6 +71778,13 @@ Nummer: 13450
 **Trosa Edanö IBK**
 
     123 589 51 98
+
+
+
+
+**Trosa Flygklubb**
+
+    123 694 60 32
 
 
 
@@ -76062,6 +76231,13 @@ Nummer: 13450
 
 
 
+**Väderöarnas Lotsutkik**
+
+    123 024 14 89
+
+
+
+
 **Vägkorsets Vänner**
 
     123 693 51 26
@@ -80124,6 +80300,13 @@ Nummer: 13450
 **Ås Båtklubb**
 
     123 370 89 97
+
+
+
+
+**Åsa Hagberg - Författare, föreläsare och psalmist**
+
+    123 409 02 05
 
 
 
