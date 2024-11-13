@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-12-rev-134927
+Revision: 2024-11-13-rev-213238
 
-Nummer: 13479
+Nummer: 13537
 
 
 
@@ -2004,7 +2004,7 @@ Nummer: 13479
 
 
 
-**Animal Protection Network (APN)**
+**Animal Protection Network, APN**
 
     123 466 56 75
 
@@ -2261,6 +2261,13 @@ Nummer: 13479
 **Appeal Advokatbyrå AB**
 
     123 334 94 20
+
+
+
+
+**APUS Förlag**
+
+    123 361 86 59
 
 
 
@@ -4577,6 +4584,13 @@ Nummer: 13479
 
 
 
+**Billingsudde Vänner**
+
+    123 240 38 22
+
+
+
+
 **Bindu Yoga Helsingborg / Hot Yoga Bindu Helsingborg AB**
 
     123 482 66 99
@@ -4587,6 +4601,13 @@ Nummer: 13479
 **Binnebergs Tingshus Stiftelsen**
 
     123 228 74 56
+
+
+
+
+**Bio Kontrast i Vingåker**
+
+    123 527 71 81
 
 
 
@@ -5448,6 +5469,13 @@ Nummer: 13479
 **Blue Front Support**
 
     123 695 51 99
+
+
+
+
+**Blädingegården**
+
+    123 157 32 29
 
 
 
@@ -8839,6 +8867,13 @@ Nummer: 13479
 
 
 
+**Båstad Kite / Ingrid Pihlsgård**
+
+    123 556 01 23
+
+
+
+
 **Båstad Makerspace**
 
     123 326 95 86
@@ -9145,6 +9180,13 @@ Nummer: 13479
 **Caps and Candles for Ukraine - insamling till Ukraina**
 
     123 278 21 59
+
+
+
+
+**Caravan Club of Sweden, Dalasektionen**
+
+    123 453 99 53
 
 
 
@@ -11742,6 +11784,13 @@ Nummer: 13479
 
 
 
+**Dragsviks husvagnsklubb**
+
+    123 561 91 35
+
+
+
+
 **Drakamöllans Vänner för Kultur och Vetenskap**
 
     123 304 92 77
@@ -12862,6 +12911,13 @@ Nummer: 13479
 
 
 
+**Ekolinjen Entreprenad AB**
+
+    123 288 62 16
+
+
+
+
 **Ekos Trafikskola E.D. AB**
 
     123 062 65 31
@@ -13089,6 +13145,13 @@ Nummer: 13479
 
 
 
+**Elimförsamlingen Billdal**
+
+    123 677 78 66
+
+
+
+
 **Elimförsamlingen Bjuråker**
 
     123 030 56 07
@@ -13238,6 +13301,13 @@ Nummer: 13479
 **Emmaboda BMK**
 
     123 082 24 03
+
+
+
+
+**Emmaboda Motorveteraner**
+
+    123 223 29 16
 
 
 
@@ -16625,6 +16695,13 @@ Nummer: 13479
 
 
 
+**Folk och Trädgård i Tungelsta**
+
+    123 199 58 69
+
+
+
+
 **Folk & Språk**
 
     123 900 72 87
@@ -18587,6 +18664,13 @@ Nummer: 13479
 
 
 
+**Föreningen Carolinae Damkör**
+
+    123 091 74 50
+
+
+
+
 **Föreningen Children with love**
 
     123 256 17 85
@@ -19981,6 +20065,13 @@ Nummer: 13479
 **Företagarna Svenljunga & Tranemo**
 
     123 447 97 54
+
+
+
+
+**Förläggargårdar i Sjuhärad**
+
+    123 586 88 23
 
 
 
@@ -21968,6 +22059,13 @@ Nummer: 13479
 
 
 
+**Grönkvist Blommor / Boarps Blomsterhandel AB**
+
+    123 336 58 06
+
+
+
+
 **Grönslätts Intresseförening**
 
     123 587 65 29
@@ -21985,6 +22083,13 @@ Nummer: 13479
 **Grötö Hamnförening**
 
     123 121 33 05
+
+
+
+
+**Gröveldalens Fornminnesförening**
+
+    123 435 30 90 - Fjällbondegården vid Jotli
 
 
 
@@ -24571,6 +24676,13 @@ Nummer: 13479
 
 
 
+**Helikopterkamrater i Norr**
+
+    123 203 33 89
+
+
+
+
 **Heljarödsgården**
 
     123 049 87 41
@@ -24940,6 +25052,13 @@ Nummer: 13479
 
 
 
+**Hernö Cruisers**
+
+    123 448 04 22
+
+
+
+
 **Herrestads AIF**
 
     123 115 88 80
@@ -25106,6 +25225,13 @@ Nummer: 13479
 **Hilti Brazilian Jiu-Jitsu Stockholm**
 
     123 584 15 80
+
+
+
+
+**Hilti Fight Center Knivsta**
+
+    123 508 96 93
 
 
 
@@ -29228,6 +29354,13 @@ Nummer: 13479
 
 
 
+**Immanuel Brass Enköping**
+
+    123 124 34 19
+
+
+
+
 **Immanuelskyrkan Borås**
 
     123 174 26 26
@@ -29695,6 +29828,13 @@ Nummer: 13479
 **Insamlingsstiftelsen Ebbas Änglar**
 
     123 546 81 52
+
+
+
+
+**Insamlingsstiftelsen Ecoforestry Foundation - Ekosystembaserat skogsbruk**
+
+    123 237 08 64
 
 
 
@@ -31712,6 +31852,13 @@ Nummer: 13479
 
 
 
+**Järvsö Sörby Viltvårdsområde**
+
+    123 651 88 31
+
+
+
+
 **Järvträsk Byastugeförening**
 
     123 635 90 87
@@ -33583,6 +33730,13 @@ Nummer: 13479
 
 
 
+**Kiropraktiskt Sverige AB**
+
+    123 302 21 59
+
+
+
+
 **Kiruna AIF**
 
     123 545 25 52
@@ -33970,6 +34124,13 @@ Nummer: 13479
 **Klädesholmens Samhällsförening**
 
     123 377 08 98
+
+
+
+
+**Klädnypan Second Hand**
+
+    123 553 00 92
 
 
 
@@ -35639,6 +35800,13 @@ Nummer: 13479
 
 
 
+**Kulturföreningen PUSH**
+
+    123 276 66 08
+
+
+
+
 **Kulturföreningen Uddevallakassetten**
 
     123 612 68 82
@@ -36031,6 +36199,13 @@ Nummer: 13479
 **Kungälvs Karateklubb**
 
     123 152 85 87
+
+
+
+
+**KUNO - Kulturförening Norra Gotland**
+
+    123 135 16 75
 
 
 
@@ -38006,6 +38181,13 @@ Nummer: 13479
 
 
 
+**Lidakyrkan**
+
+    123 157 95 15
+
+
+
+
 **Lidens Hembygdsförening**
 
     123 189 83 86
@@ -39725,6 +39907,13 @@ Nummer: 13479
 
 
 
+**Ljungs VVS AB**
+
+    123 108 99 78
+
+
+
+
 **Ljungsjögården Bed & Box**
 
     123 655 37 96
@@ -40679,6 +40868,13 @@ Nummer: 13479
 
 
 
+**Lycksele Motorklubb**
+
+    123 483 79 51
+
+
+
+
 **Lycksele Tjejjour**
 
     123 401 67 96
@@ -41121,6 +41317,13 @@ Nummer: 13479
     123 651 17 78 - Landa kyrkas bokbord
 
     123 691 60 19 - S:t Lars kyrka
+
+
+
+
+**Lögdö Bruk Intresseförening**
+
+    123 540 71 19
 
 
 
@@ -42412,6 +42615,13 @@ Nummer: 13479
 
 
 
+**Megilla-förlaget**
+
+    123 113 23 23
+
+
+
+
 **Melanomföreningen**
 
     123 380 01 90
@@ -42882,6 +43092,13 @@ Nummer: 13479
 
 
 
+**Misterhults AIS**
+
+    123 022 49 80
+
+
+
+
 **Mitt Livs Val Insamlingsstiftelse**
 
     123 071 22 32
@@ -43039,6 +43256,13 @@ Nummer: 13479
 **Moderata Ungdomsförbundet, MUF**
 
     123 043 85 31
+
+
+
+
+**Moderna Trafikskola**
+
+    123 036 28 55
 
 
 
@@ -43523,6 +43747,13 @@ Nummer: 13479
 **MTB Täby**
 
     123 281 76 25
+
+
+
+
+**MTM Stockholms Möbeltransport AB**
+
+    123 634 73 97
 
 
 
@@ -44906,6 +45137,13 @@ Nummer: 13479
 
 
 
+**New Life for You**
+
+    123 619 21 24
+
+
+
+
 **New Wine Sverige**
 
     123 419 34 96
@@ -44923,6 +45161,13 @@ Nummer: 13479
 **NF Trafikskola AB**
 
     123 135 20 20
+
+
+
+
+**Nicecloud HB**
+
+    123 404 23 88
 
 
 
@@ -47159,6 +47404,13 @@ Nummer: 13479
 
 
 
+**OK Kompassen**
+
+    123 309 58 41
+
+
+
+
 **OK Kroppefjäll**
 
     123 225 22 94
@@ -47269,6 +47521,13 @@ Nummer: 13479
 **Olivehällkyrkan**
 
     123 690 39 00
+
+
+
+
+**Oliver Mattssons Minnesfond / OM21 Stiftelsen**
+
+    123 217 79 88
 
 
 
@@ -47871,6 +48130,13 @@ Nummer: 13479
 
 
 
+**Ostkakans Vänner**
+
+    123 543 11 01
+
+
+
+
 **Ostkustens Framtid**
 
     123 099 40 95
@@ -48230,6 +48496,13 @@ Nummer: 13479
 **Partipolitiskt Obundna i Svenska Kyrkan, POSK, Örgryte Pastorat**
 
     123 131 95 99
+
+
+
+
+**Partivis / Mikael Karlsson**
+
+    123 394 06 99
 
 
 
@@ -49194,6 +49467,13 @@ Nummer: 13479
 **Piperska / Lundsbrunnsfonderna**
 
     123 052 05 02
+
+
+
+
+**PippiFlax AB**
+
+    123 098 51 35
 
 
 
@@ -51705,6 +51985,13 @@ Nummer: 13479
 
 
 
+**Rammsjö Bad & Turistförening**
+
+    123 264 73 11
+
+
+
+
 **Ramsberg - En bygd i Bergslagen**
 
     123 311 26 79
@@ -52691,6 +52978,13 @@ Nummer: 13479
 **Riksteatern Hultsfred**
 
     123 516 13 44
+
+
+
+
+**Riksvävarna**
+
+    123 382 94 70
 
 
 
@@ -55248,6 +55542,13 @@ Nummer: 13479
 
 
 
+**Salusand Soulsurfers**
+
+    123 566 54 68
+
+
+
+
 **SAM-hjälp**
 
     123 900 34 19
@@ -55515,6 +55816,13 @@ Nummer: 13479
 **Sandvikens Brottarklubb**
 
     123 527 95 00
+
+
+
+
+**Sandvikens Brukshundklubb**
+
+    123 063 30 08
 
 
 
@@ -56284,6 +56592,13 @@ Nummer: 13479
 
 
 
+**SHRA RoadRunners Rättvik**
+
+    123 354 95 16
+
+
+
+
 **Shuren Aikido Malmö Klubb**
 
     123 665 21 50
@@ -56831,6 +57146,13 @@ Nummer: 13479
 **Sjömarkens Missionsförsamling**
 
     123 162 69 85
+
+
+
+
+**Sjöofficerssällskapet i Göteborg, SOSG**
+
+    123 479 08 38
 
 
 
@@ -57948,6 +58270,13 @@ Nummer: 13479
 **Skutskärs SK**
 
     123 355 82 28
+
+
+
+
+**Skydive Gotland - Gotlands Fallskärmsklubb**
+
+    123 288 46 09
 
 
 
@@ -59486,6 +59815,13 @@ Nummer: 13479
 **SPES - Riksförbundet för SuicidPrevention och EfterlevandeStöd**
 
     123 900 76 67
+
+
+
+
+**Spetsamåla Gård**
+
+    123 510 55 49
 
 
 
@@ -62323,6 +62659,13 @@ Nummer: 13479
 
 
 
+**Stiftelsen Samiska Minnesfonden**
+
+    123 299 49 29
+
+
+
+
 **Stiftelsen Sjömanskyrkan i Göteborgs Stift**
 
     123 387 87 41
@@ -63544,6 +63887,15 @@ Nummer: 13479
 
 
 
+**Strömnäskyrkan**
+
+    123 174 25 27 - Församlingskassan
+
+    123 543 01 11 - Missionskassan
+
+
+
+
 **Ströms Bowlingshop**
 
     123 085 43 31
@@ -63710,6 +64062,13 @@ Nummer: 13479
 **Studio Fagerstedt - Tettes keramik**
 
     123 399 03 71
+
+
+
+
+**Studio Santosha AB**
+
+    123 353 89 31
 
 
 
@@ -64009,6 +64368,13 @@ Nummer: 13479
 **Sundskanalen Nordvästra Skåne**
 
     123 342 25 65
+
+
+
+
+**Sundsta Säteri / Sundsta Drift & Event AB**
+
+    123 583 55 58
 
 
 
@@ -65967,6 +66333,13 @@ Nummer: 13479
 **Svenska Schipperke Ringen**
 
     123 427 96 83
+
+
+
+
+**Svenska Schnauzer-Pinscherklubben, SSPK**
+
+    123 395 65 54
 
 
 
@@ -73586,6 +73959,13 @@ Nummer: 13479
 
 
 
+**Uppsala Dykarklubb Tumlaren, UDKT**
+
+    123 048 51 36
+
+
+
+
 **Uppsala Fotografiska Sällskap**
 
     123 560 78 90
@@ -74196,6 +74576,13 @@ Nummer: 13479
 **Vallentuna Konståkningsklubb**
 
     123 290 99 76
+
+
+
+
+**Vallentuna MK**
+
+    123 412 93 34
 
 
 
@@ -76415,6 +76802,13 @@ Nummer: 13479
 **Vänsterpartiet**
 
     123 041 01 91
+
+
+
+
+**Vänsterpartiet**
+
+    123 327 85 46 - Malung
 
 
 
@@ -80300,6 +80694,13 @@ Nummer: 13479
 **Ås Båtklubb**
 
     123 370 89 97
+
+
+
+
+**Åsa Carlström Workshop Aktiebolag**
+
+    123 025 34 19
 
 
 
