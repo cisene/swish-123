@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-13-rev-213159",
+    "date": "2024-11-14-rev-000452",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1799,7 +1799,7 @@
       "categories": [
         "politiskt parti"
       ],
-      "web": "http://www.socialdemokraternahalland.se/"
+      "web": "https://www.socialdemokraternahalland.se/"
     },
     {
       "entry": 1230079061,
@@ -1943,7 +1943,7 @@
         "lokaluthyrning",
         "musik"
       ],
-      "web": "http://www.smedjanstjarnsund.se/"
+      "web": "https://www.smedjanstjarnsund.se/"
     },
     {
       "entry": 1230092163,
@@ -2603,7 +2603,7 @@
       "categories": [
         "byalag"
       ],
-      "web": "http://www.jagarvallensbyalag.se/"
+      "web": "https://www.jagarvallensbyalag.se/"
     },
     {
       "entry": 1230133744,
@@ -3515,7 +3515,7 @@
         "bowling",
         "f\u00f6rs\u00e4ljning"
       ],
-      "web": "http://www.psbowling.se/"
+      "web": "https://psbowling.se/"
     },
     {
       "entry": 1230186726,
@@ -6553,7 +6553,7 @@
         "meditation",
         "yoga"
       ],
-      "web": "http://yoganathi.se/"
+      "web": "https://yoganathi.se/"
     },
     {
       "entry": 1230317131,
@@ -6574,7 +6574,7 @@
       "categories": [
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
-      "web": "http://www.tavelsas.se/"
+      "web": "https://www.tavelsas.se/"
     },
     {
       "entry": 1230317545,
@@ -6901,7 +6901,7 @@
         "fiskev\u00e5rd",
         "sportfiske"
       ],
-      "web": "http://fiskeihede.se/"
+      "web": "https://fiskeihede.se/"
     },
     {
       "entry": 1230328922,
@@ -6993,7 +6993,7 @@
         "ridklubb",
         "ridskola"
       ],
-      "web": "http://www.stallnyckelby.se/"
+      "web": "https://www.stallnyckelby.se/"
     },
     {
       "entry": 1230333781,
@@ -7023,7 +7023,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.filadelfiaorebro.se/"
+      "web": "https://www.filadelfiaorebro.se/"
     },
     {
       "entry": 1230334292,
@@ -7108,7 +7108,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.equmeniakyrkangotene.se/"
+      "web": "https://www.equmeniakyrkangotene.se/"
     },
     {
       "entry": 1230336172,
@@ -7545,7 +7545,7 @@
         "artist",
         "musik"
       ],
-      "web": "http://www.nataliecarrion.se/"
+      "web": "https://www.nataliecarrion.se/"
     },
     {
       "entry": 1230364281,
@@ -7685,7 +7685,7 @@
         "djurskydd",
         "intressef\u00f6rening"
       ],
-      "web": "http://www.gotlandsigelkottfond.se/"
+      "web": "https://www.gotlandsigelkottfond.se/"
     },
     {
       "entry": 1230368068,
@@ -7846,7 +7846,7 @@
         "brottningsklubb",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.vasterasbrottarklubb.se/"
+      "web": "https://www.vasterasbrottarklubb.se/"
     },
     {
       "entry": 1230369918,
@@ -7868,7 +7868,7 @@
         "gymnastikf\u00f6rening",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.vgf.nu/"
+      "web": "https://www.vgf.nu/"
     },
     {
       "entry": 1230370577,
@@ -8052,7 +8052,7 @@
         "gym",
         "tr\u00e4ning"
       ],
-      "web": "http://ontraining.se/"
+      "web": "https://ontraining.se/"
     },
     {
       "entry": 1230378406,
@@ -8688,7 +8688,7 @@
         "gravyr",
         "metallbearbetning"
       ],
-      "web": "http://foreningstjanst.se/"
+      "web": "https://foreningstjanst.se/"
     },
     {
       "entry": 1230412460,
@@ -8740,7 +8740,7 @@
         "golfbana",
         "golfklubb"
       ],
-      "web": "http://sonnertorpgolf.se/"
+      "web": "https://www.sonnertorpgolf.se/"
     },
     {
       "entry": 1230416065,
@@ -8751,7 +8751,7 @@
         "hj\u00e4lporganisation",
         "religion"
       ],
-      "web": "http://www.ywamstockholm.se/"
+      "web": "https://www.ywamstockholm.se/"
     },
     {
       "entry": 1230416354,
@@ -8783,7 +8783,7 @@
         "idrottsf\u00f6rening",
         "sportklubb"
       ],
-      "web": "http://www.slattask.se/"
+      "web": "https://www.slattask.se/"
     },
     {
       "entry": 1230416602,
@@ -8914,7 +8914,7 @@
         "h\u00e4stsport",
         "ridklubb"
       ],
-      "web": "http://www.himledalensridklubb.se/"
+      "web": "https://www.himledalensridklubb.se/"
     },
     {
       "entry": 1230419226,
@@ -9087,7 +9087,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://www.valkommentillsaltis.se/"
+      "web": "https://www.valkommentillsaltis.se/"
     },
     {
       "entry": 1230425272,
@@ -9163,7 +9163,7 @@
       "categories": [
         "spiritualism"
       ],
-      "web": "http://www.spiranlinkoping.se/"
+      "web": "https://www.spiranlinkoping.se/"
     },
     {
       "entry": 1230426056,
@@ -9560,7 +9560,7 @@
         "hundsport",
         "utbildning"
       ],
-      "web": "http://www.zerillas.se/"
+      "web": "https://www.zerillas.se/"
     },
     {
       "entry": 1230441303,
@@ -9679,7 +9679,7 @@
         "fotbollsklubb",
         "supporterklubb"
       ],
-      "web": "http://campsweden.se/"
+      "web": "https://campsweden.se/"
     },
     {
       "entry": 1230451054,
@@ -9861,7 +9861,7 @@
         "fritidsf\u00f6rening",
         "skoterklubb"
       ],
-      "web": "http://www.kaitumalven.nu/"
+      "web": "https://www.kaitumalven.nu/"
     },
     {
       "entry": 1230461632,
@@ -10715,7 +10715,7 @@
       "categories": [
         "supporterklubb"
       ],
-      "web": "http://www.greendevils.nu/"
+      "web": "https://www.greendevils.nu/"
     },
     {
       "entry": 1230499020,
@@ -10963,7 +10963,7 @@
         "hovslageri",
         "h\u00e4stsport"
       ],
-      "web": "http://www.lyckebogard.com/"
+      "web": "https://www.lyckebogard.com/"
     },
     {
       "entry": 1230506980,
@@ -11028,7 +11028,7 @@
         "reparationer",
         "vattenv\u00e5rd"
       ],
-      "web": "http://mrmab.se/"
+      "web": "https://mrmab.se/"
     },
     {
       "entry": 1230509943,
@@ -11318,7 +11318,7 @@
       "categories": [
         "filmproduktion"
       ],
-      "web": "http://laikafilm.se/"
+      "web": "https://laikafilm.se/"
     },
     {
       "entry": 1230530006,
@@ -11471,7 +11471,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.centrumkyrkanfarsta.se/"
+      "web": "https://www.centrumkyrkanfarsta.se/"
     },
     {
       "entry": 1230540583,
@@ -11735,7 +11735,7 @@
         "sportfiske",
         "vattenv\u00e5rd"
       ],
-      "web": "http://www.ljusnesportfiskeklubb.com/"
+      "web": "https://www.ljusnesportfiskeklubb.com/"
     },
     {
       "entry": 1230555094,
@@ -11926,7 +11926,7 @@
         "hundklubb",
         "hundsport"
       ],
-      "web": "http://upplandstaxklubb.com/"
+      "web": "https://upplandstaxklubb.com/"
     },
     {
       "entry": 1230563395,
@@ -12467,7 +12467,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://pingstkyrkan.nu/"
+      "web": "https://pingstkyrkan.nu/"
     },
     {
       "entry": 1230592642,
@@ -12599,7 +12599,7 @@
       "categories": [
         "gymnastikf\u00f6rening"
       ],
-      "web": "http://www.hoganasgf.se/"
+      "web": "https://www.hoganasgf.se/"
     },
     {
       "entry": 1230594234,
@@ -12843,7 +12843,7 @@
         "fotoklubb",
         "f\u00f6rening"
       ],
-      "web": "http://monsteras-fotoklubb.se/"
+      "web": "https://monsteras-fotoklubb.se/"
     },
     {
       "entry": 1230621086,
@@ -13935,7 +13935,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://goteborgsforsvar.se/"
+      "web": "https://goteborgsforsvar.se/"
     },
     {
       "entry": 1230687731,
@@ -14416,7 +14416,7 @@
         "f\u00f6rbund",
         "godk\u00e4nd g\u00e5vomottagare"
       ],
-      "web": "http://www.gulabandet.se/"
+      "web": "https://sverigesveteranforbund.se/gula-bandet/"
     },
     {
       "entry": 1230705566,
@@ -14530,7 +14530,7 @@
       "categories": [
         "kattvakt"
       ],
-      "web": "http://majornaskattvakt.se/"
+      "web": "https://majornaskattvakt.se/"
     },
     {
       "entry": 1230712802,
@@ -14820,7 +14820,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://fkvf.se/"
+      "web": "https://fkvf.se/"
     },
     {
       "entry": 1230724708,
@@ -14947,7 +14947,7 @@
         "f\u00e5gelklubb",
         "ornitologi"
       ],
-      "web": "http://www.rofnet.se/"
+      "web": "https://www.rofnet.se/"
     },
     {
       "entry": 1230730028,
@@ -15332,7 +15332,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://www.bodenartilleristen.se/"
+      "web": "https://www.bodenartilleristen.se/"
     },
     {
       "entry": 1230741876,
@@ -15469,7 +15469,7 @@
         "barnverksamhet",
         "ungdomsverksamhet"
       ],
-      "web": "http://www.foreningenomtanke.se/"
+      "web": "https://www.foreningenomtanke.se/"
     },
     {
       "entry": 1230747535,
@@ -15913,7 +15913,7 @@
         "kampsportsf\u00f6rening",
         "karateklubb"
       ],
-      "web": "http://tekkenkarate.se/"
+      "web": "https://tekkenkarate.se/"
     },
     {
       "entry": 1230766337,
@@ -15959,7 +15959,7 @@
       "categories": [
         "kvinnojour"
       ],
-      "web": "http://sthlmvastjour.se/"
+      "web": "https://www.unizonjourer.se/sthlmvastjour/"
     },
     {
       "entry": 1230771444,
@@ -16066,7 +16066,7 @@
         "kulturtidskrift",
         "mediaproduktion"
       ],
-      "web": "http://www.forrochnu.se/"
+      "web": "https://www.forrochnu.se/"
     },
     {
       "entry": 1230775353,
@@ -16098,7 +16098,7 @@
         "golfbana",
         "golfklubb"
       ],
-      "web": "http://www.tobogk.se/"
+      "web": "https://www.tobogk.se/"
     },
     {
       "entry": 1230776856,
@@ -16357,7 +16357,7 @@
         "neuroh\u00e4lsa",
         "utbildning"
       ],
-      "web": "http://www.underbaraadhd.se/"
+      "web": "https://www.underbaraadhd.se/"
     },
     {
       "entry": 1230793604,
@@ -16663,7 +16663,7 @@
       "categories": [
         "trafikskola"
       ],
-      "web": "http://autoklartrafikskola.se/"
+      "web": "https://autoklartrafikskola.se/"
     },
     {
       "entry": 1230801316,
@@ -16726,7 +16726,7 @@
         "idrottsf\u00f6rening",
         "innebandyklubb"
       ],
-      "web": "http://www.umeavastra.se/"
+      "web": "https://www.umeavastra.se/"
     },
     {
       "entry": 1230803734,
@@ -17208,7 +17208,7 @@
       "categories": [
         "donation"
       ],
-      "web": "http://www.oneheartchurch.se/"
+      "web": "https://www.oneheart.church/"
     },
     {
       "entry": 1230821884,
@@ -17412,7 +17412,7 @@
         "historief\u00f6rening",
         "intressef\u00f6rening"
       ],
-      "web": "http://www.lokalhistoriska.se/"
+      "web": "https://www.lokalhistoriska.se/"
     },
     {
       "entry": 1230834051,
@@ -17433,7 +17433,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.sorfors.se/om-betel"
+      "web": "https://www.sorfors.se/om-betel"
     },
     {
       "entry": 1230834291,
@@ -17695,7 +17695,7 @@
       "categories": [
         "golfklubb"
       ],
-      "web": "http://www.togk.se/"
+      "web": "https://www.togk.se/"
     },
     {
       "entry": 1230845842,
@@ -17739,7 +17739,7 @@
         "h\u00e4stsport",
         "ridklubb"
       ],
-      "web": "http://vhf.nu/"
+      "web": "https://vhf.nu/"
     },
     {
       "entry": 1230846345,
@@ -17851,7 +17851,7 @@
       "categories": [
         "b\u00e5tklubb"
       ],
-      "web": "http://www.edsvikensbatklubb.com/"
+      "web": "https://www.edsvikensbatklubb.com/"
     },
     {
       "entry": 1230850107,
@@ -17931,7 +17931,7 @@
       "categories": [
         "golfklubb"
       ],
-      "web": "http://rossongk.nu/"
+      "web": "https://rossongk.nu/"
     },
     {
       "entry": 1230851212,
@@ -17978,7 +17978,7 @@
         "idrottsf\u00f6rening",
         "skidl\u00f6parklubb"
       ],
-      "web": "http://tasjoif.se/"
+      "web": "https://tasjoif.se/"
     },
     {
       "entry": 1230851600,
@@ -18172,7 +18172,7 @@
       "categories": [
         "bokhandel"
       ],
-      "web": "http://hedengrens.se/"
+      "web": "https://hedengrens.se/"
     },
     {
       "entry": 1230857540,
@@ -18364,7 +18364,7 @@
       "categories": [
         "lionsklubb"
       ],
-      "web": "http://lionsclubalmhult.blogspot.com/"
+      "web": "https://lionsclubalmhult.blogspot.com/"
     },
     {
       "entry": 1230866335,
@@ -18537,7 +18537,7 @@
         "f\u00f6rlag",
         "f\u00f6rs\u00e4ljning"
       ],
-      "web": "http://www.dibbforlag.se/"
+      "web": "https://www.dibbforlag.se/"
     },
     {
       "entry": 1230870444,
@@ -19008,7 +19008,7 @@
         "ridskola",
         "ryttarf\u00f6rening"
       ],
-      "web": "http://www.vingakersrf.se/"
+      "web": "https://www.vingakersrf.se/"
     },
     {
       "entry": 1230889956,
@@ -19233,7 +19233,7 @@
       "categories": [
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.sandviksik.se/"
+      "web": "https://www.sandviksik.se/"
     },
     {
       "entry": 1230899419,
@@ -19567,7 +19567,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://www.sarnahembygdsforening.se/"
+      "web": "https://www.sarnahembygdsforening.se/"
     },
     {
       "entry": 1230915116,
@@ -19990,7 +19990,7 @@
       "categories": [
         "donation"
       ],
-      "web": "http://clownclubben.se/"
+      "web": "https://clownclubben.se/"
     },
     {
       "entry": 1230924704,
@@ -20326,7 +20326,7 @@
       "categories": [
         "musikf\u00f6rening"
       ],
-      "web": "http://musikifristad.se/"
+      "web": "https://musikifristad.se/"
     },
     {
       "entry": 1230929422,
@@ -20359,7 +20359,7 @@
         "brukshundklubb",
         "hundsport"
       ],
-      "web": "http://www.kristianstadsbk.se/"
+      "web": "https://www.kristianstadsbk.se/"
     },
     {
       "entry": 1230934315,
@@ -20409,7 +20409,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.tenhult.pingst.se/"
+      "web": "https://www.tenhultpingst.se/"
     },
     {
       "entry": 1230938357,
@@ -21078,7 +21078,7 @@
         "brukshundklubb",
         "hundsport"
       ],
-      "web": "http://www.ljungbybrukshundklubb.se/"
+      "web": "https://www.ljungbybrukshundklubb.se/"
     },
     {
       "entry": 1230973974,
@@ -21089,7 +21089,7 @@
         "intressef\u00f6rening",
         "kallbadhus"
       ],
-      "web": "http://www.lysekilkallbadhus.se/"
+      "web": "https://lysekilkallbadhus.se/"
     },
     {
       "entry": 1230974873,
@@ -21260,7 +21260,7 @@
         "f\u00e5gelklubb",
         "tidsskrifter"
       ],
-      "web": "http://www.pippiflax.se/"
+      "web": "https://www.pippiflax.se/"
     },
     {
       "entry": 1230985200,
@@ -21427,7 +21427,7 @@
       "categories": [
         "byalag"
       ],
-      "web": "http://sundalsryr.se/"
+      "web": "https://sundalsryr.se/"
     },
     {
       "entry": 1230988659,
@@ -21684,7 +21684,7 @@
         "intressef\u00f6rening",
         "kulturf\u00f6rening"
       ],
-      "web": "http://www.saminuorra.org/"
+      "web": "https://www.saminuorra.org/"
     },
     {
       "entry": 1230997585,
@@ -21891,7 +21891,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.tenhult.pingst.se/"
+      "web": "https://www.tenhultpingst.se/"
     },
     {
       "entry": 1231008226,
@@ -21902,7 +21902,7 @@
         "friluftsliv",
         "jakt"
       ],
-      "web": "http://www.trappern.se/"
+      "web": "https://www.trappern.se/"
     },
     {
       "entry": 1231008457,
@@ -22243,7 +22243,7 @@
         "husdjur",
         "kanin"
       ],
-      "web": "http://www.dvargkaninklubben.se/"
+      "web": "https://www.dvargkaninklubben.se/"
     },
     {
       "entry": 1231034248,
@@ -22461,7 +22461,7 @@
         "museum",
         "stiftelse"
       ],
-      "web": "http://www.nordstromsmuseum.se/"
+      "web": "https://www.nordstromsmuseum.se/"
     },
     {
       "entry": 1231043629,
@@ -22802,7 +22802,7 @@
         "bygdeg\u00e5rdsf\u00f6rening",
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://slattakra.com/"
+      "web": "https://slattakra.com/"
     },
     {
       "entry": 1231056563,
@@ -22982,7 +22982,7 @@
       "categories": [
         "ridskola"
       ],
-      "web": "http://kyrkobacka.se/ridskola"
+      "web": "https://kyrkobacka.se/ridskola"
     },
     {
       "entry": 1231063916,
@@ -23013,7 +23013,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://equmeniakyrkanekenassjon.se/"
+      "web": "https://equmeniakyrkanekenassjon.se/"
     },
     {
       "entry": 1231065671,
@@ -23098,7 +23098,7 @@
       "categories": [
         "kulturf\u00f6rening"
       ],
-      "web": "http://glasetshuslimmared.se/medlem-kultur-1740/"
+      "web": "https://glasetshuslimmared.se/medlem-kultur-1740/"
     },
     {
       "entry": 1231069350,
@@ -23527,7 +23527,7 @@
         "brottningsklubb",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.vasterasbrottarklubb.se/"
+      "web": "https://www.vasterasbrottarklubb.se/"
     },
     {
       "entry": 1231089663,
@@ -23646,7 +23646,7 @@
       "categories": [
         "kvinnojour"
       ],
-      "web": "http://kvinnojouren-stenungsund.se/"
+      "web": "https://kvinnojouren-stenungsund.se/"
     },
     {
       "entry": 1231095900,
@@ -23832,7 +23832,7 @@
         "f\u00f6rening",
         "gymnastikf\u00f6rening"
       ],
-      "web": "http://www.sveagym.se/"
+      "web": "https://www.sveagym.se/"
     },
     {
       "entry": 1231116243,
@@ -24273,7 +24273,7 @@
       "categories": [
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.savedalensaik.se/"
+      "web": "https://www.savedalensaik.se/"
     },
     {
       "entry": 1231137637,
@@ -24867,7 +24867,7 @@
         "skytteklubb",
         "sportskytteklubb"
       ],
-      "web": "http://www.ulricehamnspk.se/"
+      "web": "https://www.ulricehamnspk.se/"
     },
     {
       "entry": 1231158625,
@@ -25185,7 +25185,7 @@
       "categories": [
         "busstrafik"
       ],
-      "web": "http://www.sundbergsbuss.se/"
+      "web": "https://www.sundbergsbuss.se/"
     },
     {
       "entry": 1231170109,
@@ -25433,7 +25433,7 @@
         "idrottsf\u00f6rening",
         "kanotklubb"
       ],
-      "web": "http://www.kkss.se/"
+      "web": "https://www.kkss.se/"
     },
     {
       "entry": 1231184381,
@@ -25594,7 +25594,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.baptistkyrkan.com/"
+      "web": "https://baptistkyrkan.com/"
     },
     {
       "entry": 1231203595,
@@ -25733,7 +25733,7 @@
         "godk\u00e4nd g\u00e5vomottagare",
         "stiftelse"
       ],
-      "web": "http://www.stiftelsenyoung.se/"
+      "web": "https://www.stiftelsenyoung.se/"
     },
     {
       "entry": 1231206721,
@@ -25791,7 +25791,7 @@
         "jujutsuklubb",
         "kampsportsf\u00f6rening"
       ],
-      "web": "http://www.alingsasju-jutsu.se/"
+      "web": "https://www.alingsasju-jutsu.se/"
     },
     {
       "entry": 1231209378,
@@ -26417,7 +26417,7 @@
       "categories": [
         "lionsklubb"
       ],
-      "web": "http://www.sigtuna-lionsclub.se/"
+      "web": "https://www.sigtuna-lionsclub.se/"
     },
     {
       "entry": 1231229889,
@@ -26501,7 +26501,7 @@
         "kl\u00e4der",
         "medeltidskl\u00e4der"
       ],
-      "web": "http://www.medeltidsmode.se/"
+      "web": "https://www.medeltidsmode.se/"
     },
     {
       "entry": 1231235431,
@@ -26697,7 +26697,7 @@
         "bageri",
         "konditori"
       ],
-      "web": "http://stalboms.se/"
+      "web": "https://stalboms.se/"
     },
     {
       "entry": 1231239854,
@@ -26776,7 +26776,7 @@
       "categories": [
         "skidl\u00f6parklubb"
       ],
-      "web": "http://www.pers\u00e5sbacken.se/"
+      "web": "https://persasbacken.se/"
     },
     {
       "entry": 1231242601,
@@ -26824,7 +26824,7 @@
         "utbildning",
         "yoga"
       ],
-      "web": "http://www.yogalistic.se/"
+      "web": "https://www.yogalistic.se/"
     },
     {
       "entry": 1231243740,
@@ -26866,7 +26866,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://stjohanneskyrka.se/"
+      "web": "https://stjohanneskyrka.se/"
     },
     {
       "entry": 1231247683,
@@ -27040,7 +27040,7 @@
         "brukshundklubb",
         "hundsport"
       ],
-      "web": "http://www.enkopingsbk.se/"
+      "web": "https://www.enkopingsbk.se/"
     },
     {
       "entry": 1231259167,
@@ -27198,7 +27198,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://torestorpspastorat.se/"
+      "web": "https://torestorpspastorat.se/"
     },
     {
       "entry": 1231268283,
@@ -27425,7 +27425,7 @@
         "jazzclub",
         "musikf\u00f6rening"
       ],
-      "web": "http://www.emmabodajazz.se/"
+      "web": "https://www.emmabodajazz.se/"
     },
     {
       "entry": 1231280379,
@@ -27653,7 +27653,7 @@
         "brottningsklubb",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.vasterasbrottarklubb.se/"
+      "web": "https://www.vasterasbrottarklubb.se/"
     },
     {
       "entry": 1231295021,
@@ -27676,7 +27676,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.pingsted.se/"
+      "web": "https://www.pingsted.se/"
     },
     {
       "entry": 1231295633,
@@ -27763,7 +27763,7 @@
         "hj\u00e4lporganisation",
         "religion"
       ],
-      "web": "http://www.josefmissionsverige.se/"
+      "web": "https://www.josefmissionsverige.se/"
     },
     {
       "entry": 1231300581,
@@ -27783,7 +27783,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://gratiskoran.se/"
+      "web": "https://gratiskoran.se/"
     },
     {
       "entry": 1231300730,
@@ -28140,7 +28140,7 @@
         "f\u00f6rening",
         "hundklubb"
       ],
-      "web": "http://www.smalandsstovaren.se/"
+      "web": "https://smalandsstovaren.se/"
     },
     {
       "entry": 1231319599,
@@ -28266,7 +28266,7 @@
         "segels\u00e4llskap",
         "segling"
       ],
-      "web": "http://www.ssfram.com/"
+      "web": "https://www.ssfram.com/"
     },
     {
       "entry": 1231323724,
@@ -28277,7 +28277,7 @@
         "hundklubb",
         "hundsport"
       ],
-      "web": "http://bergslagen.alghundklubben.com/"
+      "web": "https://bergslagen.alghundklubben.com/"
     },
     {
       "entry": 1231323880,
@@ -28427,7 +28427,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://herulerna.blekingska.se/"
+      "web": "https://herulerna.blekingska.se/"
     },
     {
       "entry": 1231325844,
@@ -28581,7 +28581,7 @@
         "naturskydd",
         "naturv\u00e5rd"
       ],
-      "web": "http://www.vendelsjon.se/"
+      "web": "https://www.vendelsjon.se/"
     },
     {
       "entry": 1231332873,
@@ -29116,7 +29116,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://enkopingskamraterna.se/"
+      "web": "https://enkopingskamraterna.se/"
     },
     {
       "entry": 1231366038,
@@ -29268,7 +29268,7 @@
       "categories": [
         "lionsklubb"
       ],
-      "web": "http://avesta.lions.se/"
+      "web": "https://avesta.lions.se/"
     },
     {
       "entry": 1231371350,
@@ -29343,7 +29343,7 @@
         "museif\u00f6rening",
         "museum"
       ],
-      "web": "http://limhamnsmuseum.se/"
+      "web": "https://limhamnsmuseum.se/"
     },
     {
       "entry": 1231374206,
@@ -29720,7 +29720,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://holsbyfrikyrka.se/"
+      "web": "https://holsbyfrikyrka.se/"
     },
     {
       "entry": 1231388982,
@@ -30494,7 +30494,7 @@
         "intresseorganisation",
         "katthem"
       ],
-      "web": "http://www.kattslussen.se/"
+      "web": "https://www.kattslussen.se/"
     },
     {
       "entry": 1231452119,
@@ -30658,7 +30658,7 @@
         "idrottsf\u00f6rening",
         "sportklubb"
       ],
-      "web": "http://varmskog.se/"
+      "web": "https://varmskog.se/"
     },
     {
       "entry": 1231460542,
@@ -30722,7 +30722,7 @@
         "brukshundklubb",
         "hundsport"
       ],
-      "web": "http://wordpress.kindbk.com/"
+      "web": "https://wordpress.kindbk.com/"
     },
     {
       "entry": 1231461854,
@@ -30732,7 +30732,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.hasselby.com/"
+      "web": "https://hasselby.com/"
     },
     {
       "entry": 1231463074,
@@ -30830,7 +30830,7 @@
         "f\u00f6rening",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.ostersundbasket.se/"
+      "web": "https://ostersundbasket.se/"
     },
     {
       "entry": 1231465749,
@@ -30959,7 +30959,7 @@
       "categories": [
         "ornitologi"
       ],
-      "web": "http://karsund.se/"
+      "web": "https://karsund.se/"
     },
     {
       "entry": 1231471127,
@@ -31231,7 +31231,7 @@
         "brukshundklubb",
         "hundsport"
       ],
-      "web": "http://www.karlskogabhk.se/"
+      "web": "https://www.karlskogabhk.se/"
     },
     {
       "entry": 1231476571,
@@ -31375,7 +31375,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://ankarede.com/"
+      "web": "https://ankarede.com/"
     },
     {
       "entry": 1231479070,
@@ -31430,7 +31430,7 @@
         "skytteklubb",
         "sportskytteklubb"
       ],
-      "web": "http://www.kpsk.se/"
+      "web": "https://www.kpsk.se/"
     },
     {
       "entry": 1231480326,
@@ -31548,7 +31548,7 @@
       "categories": [
         "hj\u00e4lporganisation"
       ],
-      "web": "http://pitea.lions.se/p-o/gava-till-lions-barnmfond-hjartat/"
+      "web": "https://pitea.lions.se/p-o/gava-till-lions-barnmfond-hjartat/"
     },
     {
       "entry": 1231482363,
@@ -32070,7 +32070,7 @@
         "friidrottsf\u00f6rening",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://ifgota.se/"
+      "web": "https://ifgota.se/"
     },
     {
       "entry": 1231493980,
@@ -32503,7 +32503,7 @@
         "musik",
         "orkester"
       ],
-      "web": "http://larzkristerz.com/"
+      "web": "https://larzkristerz.com/"
     },
     {
       "entry": 1231510395,
@@ -33390,7 +33390,7 @@
         "husdjur",
         "katthem"
       ],
-      "web": "http://katthjalpen.nu/"
+      "web": "https://katthjalpen.nu/"
     },
     {
       "entry": 1231568377,
@@ -33670,7 +33670,7 @@
       "categories": [
         "golfklubb"
       ],
-      "web": "http://www.lerakragolf.se/"
+      "web": "https://www.lerakragolf.se/"
     },
     {
       "entry": 1231579515,
@@ -33752,7 +33752,7 @@
       "categories": [
         "stiftelse"
       ],
-      "web": "http://skaparbyn.nu/"
+      "web": "https://skaparbyn.nu/"
     },
     {
       "entry": 1231581867,
@@ -33775,7 +33775,7 @@
         "segelklubb",
         "segels\u00e4llskap"
       ],
-      "web": "http://sloren.se/"
+      "web": "https://sloren.se/"
     },
     {
       "entry": 1231581974,
@@ -34022,7 +34022,7 @@
       "categories": [
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
-      "web": "http://www.brfangen.com/"
+      "web": "https://www.brfangen.com/"
     },
     {
       "entry": 1231597962,
@@ -34140,7 +34140,7 @@
         "golfbana",
         "golfklubb"
       ],
-      "web": "http://www.stjernforsgk.com/"
+      "web": "https://www.stjernforsgk.com/"
     },
     {
       "entry": 1231604263,
@@ -34161,7 +34161,7 @@
       "categories": [
         "lionsklubb"
       ],
-      "web": "http://pitea.lions.se/"
+      "web": "https://pitea.lions.se/"
     },
     {
       "entry": 1231604560,
@@ -34492,7 +34492,7 @@
         "advokatbyr\u00e5",
         "juridiska tj\u00e4nster"
       ],
-      "web": "http://www.karlstadsjuristerna.se/"
+      "web": "https://www.karlstadsjuristerna.se/"
     },
     {
       "entry": 1231613975,
@@ -35252,7 +35252,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://www.envikenshembygdsforening.se/"
+      "web": "https://www.envikenshembygdsforening.se/"
     },
     {
       "entry": 1231658038,
@@ -35404,7 +35404,7 @@
         "kulturf\u00f6rening",
         "musikf\u00f6rening"
       ],
-      "web": "http://www.swejs.se/"
+      "web": "https://www.swejs.se/"
     },
     {
       "entry": 1231664770,
@@ -35961,7 +35961,7 @@
         "ridklubb",
         "ridskola"
       ],
-      "web": "http://savaridcenter.se/"
+      "web": "https://savaridcenter.se/"
     },
     {
       "entry": 1231702471,
@@ -36111,7 +36111,7 @@
         "camping",
         "logi"
       ],
-      "web": "http://www.ekuddenscamping.com/"
+      "web": "https://ekuddenscamping.com/"
     },
     {
       "entry": 1231705516,
@@ -36776,7 +36776,7 @@
         "brukshundklubb",
         "hundsport"
       ],
-      "web": "http://lidkopingbk.se/"
+      "web": "https://lidkopingbk.se/"
     },
     {
       "entry": 1231730951,
@@ -37109,7 +37109,7 @@
         "hj\u00e4lporganisation",
         "religion"
       ],
-      "web": "http://www.childrenaid-now.com/"
+      "web": "https://www.childrenaid-now.com/"
     },
     {
       "entry": 1231742485,
@@ -37333,7 +37333,7 @@
         "h\u00e4lsa",
         "medicin"
       ],
-      "web": "http://www.sefr.se/"
+      "web": "https://www.sefr.se/"
     },
     {
       "entry": 1231747229,
@@ -37498,7 +37498,7 @@
         "hembygdsf\u00f6rening",
         "intresseorganisation"
       ],
-      "web": "http://www.hjaggsjodrakarna.se/"
+      "web": "https://hjaggsjodrakarna.se/"
     },
     {
       "entry": 1231757533,
@@ -37683,7 +37683,7 @@
         "f\u00f6rening",
         "syndromf\u00f6rening"
       ],
-      "web": "http://williamssyndrom.se/"
+      "web": "https://williamssyndrom.se/"
     },
     {
       "entry": 1231766211,
@@ -37704,7 +37704,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://fbiare.se/"
+      "web": "https://fbiare.se/"
     },
     {
       "entry": 1231766708,
@@ -38039,7 +38039,7 @@
         "hundsport",
         "st\u00e4llplats"
       ],
-      "web": "http://www.kristianstadsbk.se/"
+      "web": "https://www.kristianstadsbk.se/"
     },
     {
       "entry": 1231790385,
@@ -38205,7 +38205,7 @@
         "brukshundklubb",
         "hundsport"
       ],
-      "web": "http://kopingsbrukshundklubb.se/"
+      "web": "https://kopingsbrukshundklubb.se/"
     },
     {
       "entry": 1231792944,
@@ -38568,7 +38568,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://holsbyfrikyrka.se/"
+      "web": "https://holsbyfrikyrka.se/"
     },
     {
       "entry": 1231813138,
@@ -38940,7 +38940,7 @@
       "categories": [
         "kvinnojour"
       ],
-      "web": "http://www.kvinnojoureniosteraker.se/"
+      "web": "https://www.kvinnojoureniosteraker.se/"
     },
     {
       "entry": 1231825603,
@@ -39129,7 +39129,7 @@
         "dansf\u00f6rening",
         "motionsdans"
       ],
-      "web": "http://www.ngdf.se/"
+      "web": "https://www.ngdf.se/"
     },
     {
       "entry": 1231838036,
@@ -39515,7 +39515,7 @@
         "skateboard",
         "skatepark"
       ],
-      "web": "http://www.luleaskatepark.com/"
+      "web": "https://www.luleaskatepark.com/"
     },
     {
       "entry": 1231865120,
@@ -39553,7 +39553,7 @@
         "st\u00e4llplats",
         "t\u00e4ltplats"
       ],
-      "web": "http://www.brackestrand.se/"
+      "web": "https://www.brackestrand.se/"
     },
     {
       "entry": 1231870229,
@@ -39731,7 +39731,7 @@
         "hembygdsf\u00f6rening",
         "logi"
       ],
-      "web": "http://www.gardslosaprastgard.se/"
+      "web": "https://www.gardslosaprastgard.se/"
     },
     {
       "entry": 1231880921,
@@ -39963,7 +39963,7 @@
       "categories": [
         "supporterklubb"
       ],
-      "web": "http://campsweden.se/"
+      "web": "https://campsweden.se/"
     },
     {
       "entry": 1231885011,
@@ -40057,7 +40057,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://www.vastergarn.info/"
+      "web": "https://www.vastergarn.info/"
     },
     {
       "entry": 1231886977,
@@ -40154,7 +40154,7 @@
       "categories": [
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.fargelandaif.se/"
+      "web": "https://www.fargelandaif.se/"
     },
     {
       "entry": 1231895614,
@@ -40773,7 +40773,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://degerfors.pingst.se/"
+      "web": "https://degerfors.pingst.se/"
     },
     {
       "entry": 1231928605,
@@ -41223,7 +41223,7 @@
         "naturv\u00e5rd",
         "sportfiske"
       ],
-      "web": "http://www.rengsjofiske.se/"
+      "web": "https://www.rengsjofiske.se/"
     },
     {
       "entry": 1231962828,
@@ -41401,7 +41401,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.pingstkyrkantaberg.com/"
+      "web": "https://pingstkyrkantaberg.com/"
     },
     {
       "entry": 1231973148,
@@ -41658,7 +41658,7 @@
         "agilityklubb",
         "hundsport"
       ],
-      "web": "http://agilityklubben.se/"
+      "web": "https://agilityklubben.se/"
     },
     {
       "entry": 1231979913,
@@ -41777,7 +41777,7 @@
       "categories": [
         "yoga"
       ],
-      "web": "http://yogakallan.se/"
+      "web": "https://www.yogakallan.se/"
     },
     {
       "entry": 1231983873,
@@ -42008,7 +42008,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.akerbofrikyrkoforsamling.se/"
+      "web": "https://www.akerbofrikyrkoforsamling.se/"
     },
     {
       "entry": 1231993260,
@@ -42052,7 +42052,7 @@
       "categories": [
         "donation"
       ],
-      "web": "http://futurewithhope.se/"
+      "web": "https://futurewithhope.se/"
     },
     {
       "entry": 1231993773,
@@ -42266,7 +42266,7 @@
         "friskv\u00e5rd",
         "massage"
       ],
-      "web": "http://www.polhemskliniken.se/"
+      "web": "https://www.bokadirekt.se/places/polhemskliniken-3990"
     },
     {
       "entry": 1231998814,
@@ -42362,7 +42362,7 @@
         "naturskydd",
         "naturv\u00e5rd"
       ],
-      "web": "http://www.norabf.se/"
+      "web": "https://www.norabf.se/"
     },
     {
       "entry": 1232007201,
@@ -42527,7 +42527,7 @@
         "ridklubb",
         "ridskola"
       ],
-      "web": "http://www.sundbyridskola.se/"
+      "web": "https://www.sundbyridskola.se/"
     },
     {
       "entry": 1232023034,
@@ -42695,7 +42695,7 @@
         "f\u00f6rening",
         "intressef\u00f6rening"
       ],
-      "web": "http://timrakustvandring.se/"
+      "web": "https://www.timrakustvandring.se/"
     },
     {
       "entry": 1232031755,
@@ -42706,7 +42706,7 @@
         "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation"
       ],
-      "web": "http://www.socialamissionen.se/"
+      "web": "https://socialamissionen.se/"
     },
     {
       "entry": 1232032704,
@@ -42727,7 +42727,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://rotorwings.se/"
+      "web": "https://rotorwings.se/"
     },
     {
       "entry": 1232033397,
@@ -43202,7 +43202,7 @@
         "religion",
         "ukraina"
       ],
-      "web": "http://www.ronnekyrkan.se/"
+      "web": "https://www.ronnekyrkan.se/"
     },
     {
       "entry": 1232063808,
@@ -43234,7 +43234,7 @@
         "djurskydd",
         "hundhem"
       ],
-      "web": "http://www.enandrachans.org/"
+      "web": "https://ada.enandrachans.org/"
     },
     {
       "entry": 1232073310,
@@ -43419,7 +43419,7 @@
         "intressef\u00f6rening",
         "western riding"
       ],
-      "web": "http://wris.se/"
+      "web": "https://wris.se/"
     },
     {
       "entry": 1232088292,
@@ -43560,7 +43560,7 @@
       "categories": [
         "stiftelse"
       ],
-      "web": "http://hildasholm.org/"
+      "web": "https://hildasholm.org/"
     },
     {
       "entry": 1232092476,
@@ -43625,7 +43625,7 @@
       "categories": [
         "golfklubb"
       ],
-      "web": "http://angsogolfklubb.com/"
+      "web": "https://angsogolfklubb.com/"
     },
     {
       "entry": 1232093870,
@@ -44637,7 +44637,7 @@
         "brottningsklubb",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.vasterasbrottarklubb.se/"
+      "web": "https://www.vasterasbrottarklubb.se/"
     },
     {
       "entry": 1232141406,
@@ -45080,7 +45080,7 @@
         "hundsport",
         "st\u00f6varklubb"
       ],
-      "web": "http://www.ostgotastovare.se/"
+      "web": "https://www.ostgotastovare.se/"
     },
     {
       "entry": 1232158913,
@@ -45320,7 +45320,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://www.rattvisskatteprocess.se/"
+      "web": "https://rattvisskatteprocess.se/"
     },
     {
       "entry": 1232169654,
@@ -45462,7 +45462,7 @@
         "veteranbil",
         "veteranfordon"
       ],
-      "web": "http://www.fordonshistoriker.se/"
+      "web": "https://www.fordonshistoriker.se/"
     },
     {
       "entry": 1232177988,
@@ -45614,7 +45614,7 @@
         "h\u00f6rselskadad",
         "ungdomsverksamhet"
       ],
-      "web": "http://sduf.se/"
+      "web": "https://sduf.se/"
     },
     {
       "entry": 1232181774,
@@ -45899,7 +45899,7 @@
         "forskning",
         "studentorganisation"
       ],
-      "web": "http://www.husolarteam.com/"
+      "web": "https://www.husolarteam.com/"
     },
     {
       "entry": 1232189744,
@@ -46014,7 +46014,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.linkopingmoske.se/"
+      "web": "https://www.linkopingmoske.se/"
     },
     {
       "entry": 1232194397,
@@ -46139,7 +46139,7 @@
         "hembygdsf\u00f6rening",
         "intressef\u00f6rening"
       ],
-      "web": "http://skorped.se/"
+      "web": "https://skorped.se/"
     },
     {
       "entry": 1232201507,
@@ -46548,7 +46548,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://www.vasterfarnebo.se/"
+      "web": "https://www.vasterfarnebo.se/"
     },
     {
       "entry": 1232218634,
@@ -46613,7 +46613,7 @@
         "hj\u00e4lporganisation",
         "stiftelse"
       ],
-      "web": "http://www.sira.se/"
+      "web": "https://www.sira.se/"
     },
     {
       "entry": 1232220564,
@@ -46862,7 +46862,7 @@
         "idrottsf\u00f6rening",
         "kampsportsf\u00f6rening"
       ],
-      "web": "http://www.linkopingbudo.se/"
+      "web": "https://www.linkopingbudo.se/"
     },
     {
       "entry": 1232223212,
@@ -46872,7 +46872,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.styrsopingst.se/"
+      "web": "https://www.styrsopingst.se/"
     },
     {
       "entry": 1232223535,
@@ -46959,7 +46959,7 @@
         "minnesinsamling",
         "psykisk h\u00e4lsa"
       ],
-      "web": "http://aldrigensam.com/"
+      "web": "https://www.aldrigensam.com/"
     },
     {
       "entry": 1232228294,
@@ -47274,7 +47274,7 @@
         "kattklubb",
         "kattuppf\u00f6dning"
       ],
-      "web": "http://www.stockholmskattklubb.se/"
+      "web": "https://stockholmskattklubb.se/"
     },
     {
       "entry": 1232241438,
@@ -47338,7 +47338,7 @@
       "categories": [
         "ridskola"
       ],
-      "web": "http://www.liori.se/"
+      "web": "https://www.liori.se/"
     },
     {
       "entry": 1232242808,
@@ -47567,7 +47567,7 @@
       "categories": [
         "f\u00f6rening"
       ],
-      "web": "http://www.svenskbyborna.se/"
+      "web": "https://www.svenskbyborna.se/"
     },
     {
       "entry": 1232252294,
@@ -47621,7 +47621,7 @@
         "camping",
         "stuguthyrning"
       ],
-      "web": "http://vagsjofors.se/"
+      "web": "https://vagsjofors.se/"
     },
     {
       "entry": 1232255115,
@@ -47642,7 +47642,7 @@
       "categories": [
         "golfklubb"
       ],
-      "web": "http://www.falkopingsgk.com/"
+      "web": "https://www.falkopingsgk.com/"
     },
     {
       "entry": 1232255313,
@@ -47704,7 +47704,7 @@
         "dansf\u00f6rening",
         "f\u00f6rening"
       ],
-      "web": "http://www.nassjodansforening.se/"
+      "web": "https://www.nassjodansforening.se/"
     },
     {
       "entry": 1232256444,
@@ -48081,7 +48081,7 @@
         "f\u00f6rening",
         "museum"
       ],
-      "web": "http://www.kallingemuseum.se/"
+      "web": "https://www.kallingemuseum.se/"
     },
     {
       "entry": 1232267920,
@@ -48266,7 +48266,7 @@
       "categories": [
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
-      "web": "http://www.brfgrindstugan.se/"
+      "web": "https://www.brfgrindstugan.se/"
     },
     {
       "entry": 1232274934,
@@ -48309,7 +48309,7 @@
       "categories": [
         "supporterklubb"
       ],
-      "web": "http://aia.nu/"
+      "web": "https://aia.nu/"
     },
     {
       "entry": 1232277762,
@@ -48319,7 +48319,7 @@
       "categories": [
         "byalag"
       ],
-      "web": "http://hishult.net/"
+      "web": "https://hishult.net/"
     },
     {
       "entry": 1232277945,
@@ -48585,7 +48585,7 @@
       "categories": [
         "supporterklubb"
       ],
-      "web": "http://www.leksandtifocrew.com/"
+      "web": "https://www.leksandtifocrew.com/"
     },
     {
       "entry": 1232287134,
@@ -48935,7 +48935,7 @@
         "dansf\u00f6rening",
         "f\u00f6rening"
       ],
-      "web": "http://www.nassjodansforening.se/"
+      "web": "https://www.nassjodansforening.se/"
     },
     {
       "entry": 1232302214,
@@ -48947,7 +48947,7 @@
         "hundsport",
         "st\u00f6varklubb"
       ],
-      "web": "http://dalarnasstovarklubb.se/"
+      "web": "https://dalarnasstovarklubb.se/"
     },
     {
       "entry": 1232302438,
@@ -49290,7 +49290,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://soschurchvasteras.se/"
+      "web": "https://soschurchvasteras.se/"
     },
     {
       "entry": 1232314003,
@@ -49364,7 +49364,7 @@
         "brukshundklubb",
         "hundsport"
       ],
-      "web": "http://www.sbkmalmo.se/"
+      "web": "https://www.sbkmalmo.se/"
     },
     {
       "entry": 1232314672,
@@ -49416,7 +49416,7 @@
         "bygdeg\u00e5rdsf\u00f6rening",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.bolegarden.se/"
+      "web": "https://www.bolegarden.se/"
     },
     {
       "entry": 1232316370,
@@ -49887,7 +49887,7 @@
         "cykelklubb",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.ckornen.se/"
+      "web": "https://www.ckornen.se/"
     },
     {
       "entry": 1232339935,
@@ -50589,7 +50589,7 @@
       "categories": [
         "lionsklubb"
       ],
-      "web": "http://lionsclubnossebro.nu/"
+      "web": "https://lionsclubnossebro.nu/"
     },
     {
       "entry": 1232377752,
@@ -50741,7 +50741,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://djurgardenshembygdsforening.se/"
+      "web": "https://djurgardenshembygdsforening.se/"
     },
     {
       "entry": 1232384436,
@@ -50809,7 +50809,7 @@
       "categories": [
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
-      "web": "http://www.nybybygdegard.se/"
+      "web": "https://www.nybybygdegard.se/"
     },
     {
       "entry": 1232386043,
@@ -50894,7 +50894,7 @@
         "godk\u00e4nd g\u00e5vomottagare",
         "religion"
       ],
-      "web": "http://equmeniakyrkan.se/"
+      "web": "https://equmeniakyrkan.se/"
     },
     {
       "entry": 1232389823,
@@ -51117,7 +51117,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.rydaholmsfrikyrka.se/"
+      "web": "https://www.rydaholmsfrikyrka.se/"
     },
     {
       "entry": 1232403657,
@@ -51347,7 +51347,7 @@
         "hembygdsf\u00f6rening",
         "sockenf\u00f6rening"
       ],
-      "web": "http://www.bolmso.se/"
+      "web": "https://www.bolmso.se/"
     },
     {
       "entry": 1232408227,
@@ -51434,7 +51434,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://www.varnum.nu/"
+      "web": "https://varnum.nu/"
     },
     {
       "entry": 1232409936,
@@ -51756,7 +51756,7 @@
       "categories": [
         "stiftelse"
       ],
-      "web": "http://linneasstiftelse.se/"
+      "web": "https://linneasstiftelse.se/"
     },
     {
       "entry": 1232437929,
@@ -51855,7 +51855,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.azech.se/"
+      "web": "https://www.azech.se/"
     },
     {
       "entry": 1232441152,
@@ -52196,7 +52196,7 @@
       "categories": [
         "hundklubb"
       ],
-      "web": "http://wachtelhundklubben.com/swk-ostergotland-narke/"
+      "web": "https://wachtelhundklubben.com/swk-ostergotland-narke/"
     },
     {
       "entry": 1232457687,
@@ -52308,7 +52308,7 @@
         "hundklubb",
         "hunduppf\u00f6dning"
       ],
-      "web": "http://www.barbet.se/"
+      "web": "https://www.barbet.se/"
     },
     {
       "entry": 1232465565,
@@ -52525,7 +52525,7 @@
         "fiskev\u00e5rd",
         "f\u00f6rening"
       ],
-      "web": "http://www.rfvo.se/"
+      "web": "https://www.rfvo.se/"
     },
     {
       "entry": 1232494086,
@@ -52689,7 +52689,7 @@
         "byalag",
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
-      "web": "http://alekullabyalag.hemsida24.se/"
+      "web": "https://alekullabyalag.hemsida24.se/"
     },
     {
       "entry": 1232512374,
@@ -52879,7 +52879,7 @@
       "categories": [
         "kulturf\u00f6rening"
       ],
-      "web": "http://www.indiadack.net/"
+      "web": "https://www.indiadack.net/"
     },
     {
       "entry": 1232526671,
@@ -53165,7 +53165,7 @@
       "categories": [
         "pension\u00e4rsklubb"
       ],
-      "web": "http://www.seniorverkstan.se/"
+      "web": "https://www.seniorverkstan.se/"
     },
     {
       "entry": 1232541613,
@@ -53394,7 +53394,7 @@
         "f\u00f6rening",
         "pistolskytteklubb"
       ],
-      "web": "http://www.uvpsk.se/"
+      "web": "https://www.uvpsk.se/"
     },
     {
       "entry": 1232561785,
@@ -53414,7 +53414,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://pingsteskilstunaweb.se/"
+      "web": "https://pingsteskilstunaweb.se/"
     },
     {
       "entry": 1232565687,
@@ -53528,7 +53528,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://www.qomut.se/"
+      "web": "https://www.qomut.se/"
     },
     {
       "entry": 1232573913,
@@ -53712,7 +53712,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://www.backebo.nu/"
+      "web": "https://www.backebo.nu/"
     },
     {
       "entry": 1232586535,
@@ -53855,7 +53855,7 @@
       "categories": [
         "stiftelse"
       ],
-      "web": "http://www.hallbart.nu/"
+      "web": "https://hallbart.nu/"
     },
     {
       "entry": 1232590156,
@@ -53899,7 +53899,7 @@
         "f\u00f6rening",
         "ideell f\u00f6rening"
       ],
-      "web": "http://www.atrium-vaxjo.org/"
+      "web": "https://www.atrium-vaxjo.org/"
     },
     {
       "entry": 1232591469,
@@ -54061,7 +54061,7 @@
         "meditation",
         "seans"
       ],
-      "web": "http://www.guidance.se/"
+      "web": "https://www.guidance.se/"
     },
     {
       "entry": 1232594547,
@@ -55271,7 +55271,7 @@
       "categories": [
         "hj\u00e4lporganisation"
       ],
-      "web": "http://www.sanktmartin.se/"
+      "web": "https://sanktmartin.se/"
     },
     {
       "entry": 1232649390,
@@ -55284,7 +55284,7 @@
         "hypnosterapi",
         "reiki"
       ],
-      "web": "http://www.kjellsdotternilsson.com/"
+      "web": "https://www.kjellsdotternilsson.com/"
     },
     {
       "entry": 1232649663,
@@ -55361,7 +55361,7 @@
         "massage",
         "yoga"
       ],
-      "web": "http://www.fridenshalsa.se/"
+      "web": "https://www.fridenshalsa.se/"
     },
     {
       "entry": 1232656643,
@@ -55549,7 +55549,7 @@
       "categories": [
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
-      "web": "http://www.brfekbacken.se/"
+      "web": "https://www.brfekbacken.se/"
     },
     {
       "entry": 1232665982,
@@ -56125,7 +56125,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.fisherscreek.net/"
+      "web": "https://www.fisherscreek.net/"
     },
     {
       "entry": 1232684504,
@@ -56205,7 +56205,7 @@
       "categories": [
         "b\u00e5tklubb"
       ],
-      "web": "http://halleviksbatklubb.se/"
+      "web": "https://halleviksbatklubb.se/"
     },
     {
       "entry": 1232690477,
@@ -56763,7 +56763,7 @@
         "idrottshistoria",
         "intressef\u00f6rening"
       ],
-      "web": "http://christinehamn.weebly.com/"
+      "web": "https://christinehamn.weebly.com/"
     },
     {
       "entry": 1232708568,
@@ -57499,7 +57499,7 @@
         "ridklubb",
         "ryttarf\u00f6rening"
       ],
-      "web": "http://stjarnholmsrf.se/"
+      "web": "https://stjarnholmsrf.se/"
     },
     {
       "entry": 1232741429,
@@ -58172,7 +58172,7 @@
         "skoterklubb",
         "sport"
       ],
-      "web": "http://nvssk.se/"
+      "web": "https://nvssk.se/"
     },
     {
       "entry": 1232766483,
@@ -58959,7 +58959,7 @@
       "categories": [
         "stiftelse"
       ],
-      "web": "http://www.skanskmtbutveckling.se/"
+      "web": "https://www.skanskmtbutveckling.se/"
     },
     {
       "entry": 1232799385,
@@ -59090,7 +59090,7 @@
         "idrottsf\u00f6rening",
         "tennisklubb"
       ],
-      "web": "http://www.sstk.se/"
+      "web": "https://www.sstk.se/"
     },
     {
       "entry": 1232801702,
@@ -59156,7 +59156,7 @@
         "idrottsf\u00f6rening",
         "tennisklubb"
       ],
-      "web": "http://www.kronprinsenstk.se/"
+      "web": "https://kronprinsenstk.se/"
     },
     {
       "entry": 1232805224,
@@ -59271,7 +59271,7 @@
       "categories": [
         "golfklubb"
       ],
-      "web": "http://www.ystadgk.se/"
+      "web": "https://ystadgk.se/"
     },
     {
       "entry": 1232811487,
@@ -59492,7 +59492,7 @@
       "categories": [
         "ergonomi"
       ],
-      "web": "http://www.ergonomicenter.com/"
+      "web": "https://ergonomicenter.com/"
     },
     {
       "entry": 1232816957,
@@ -59555,7 +59555,7 @@
         "brukshundklubb",
         "hundsport"
       ],
-      "web": "http://www.tanumsbk.se/"
+      "web": "https://tanumsbk.se/"
     },
     {
       "entry": 1232817609,
@@ -59588,7 +59588,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://asenhogamarieholm.pingst.se/"
+      "web": "https://asenhogamarieholm.pingst.se/"
     },
     {
       "entry": 1232817765,
@@ -59609,7 +59609,7 @@
         "cancerf\u00f6rening",
         "stipendium"
       ],
-      "web": "http://www.himlenaroverskattad.se/"
+      "web": "https://www.himlenaroverskattad.se/"
     },
     {
       "entry": 1232817906,
@@ -59802,7 +59802,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.efskyrkan.nu/"
+      "web": "https://efskyrkan.nu/"
     },
     {
       "entry": 1232826923,
@@ -59924,7 +59924,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.allianskyrkananeby.se/"
+      "web": "https://allianskyrkananeby.se/"
     },
     {
       "entry": 1232838332,
@@ -60746,7 +60746,7 @@
         "h\u00e4lsa",
         "intressef\u00f6rening"
       ],
-      "web": "http://www.dravetssweden.se/"
+      "web": "https://www.dravetssweden.se/"
     },
     {
       "entry": 1232886067,
@@ -60876,7 +60876,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.pingsted.se/"
+      "web": "https://www.pingsted.se/"
     },
     {
       "entry": 1232887446,
@@ -61332,7 +61332,7 @@
         "godk\u00e4nd g\u00e5vomottagare",
         "stiftelse"
       ],
-      "web": "http://www.1000mojligheter.se/"
+      "web": "https://1000mojligheter.se/"
     },
     {
       "entry": 1232909729,
@@ -61616,7 +61616,7 @@
         "stug\u00e4garef\u00f6rening",
         "villa\u00e4garef\u00f6rening"
       ],
-      "web": "http://www.sandviken-solvesborg.se/"
+      "web": "https://www.sandviken-solvesborg.se/"
     },
     {
       "entry": 1232924884,
@@ -61784,7 +61784,7 @@
         "flyttfirma",
         "transporttj\u00e4nst"
       ],
-      "web": "http://www.sakrahander.se/"
+      "web": "https://sakrahander.se/"
     },
     {
       "entry": 1232940567,
@@ -62476,7 +62476,7 @@
       "categories": [
         "travsport"
       ],
-      "web": "http://solvalla-amatorklubb.se/"
+      "web": "https://solvalla-amatorklubb.se/"
     },
     {
       "entry": 1232983823,
@@ -62649,7 +62649,7 @@
       "categories": [
         "yoga"
       ],
-      "web": "http://www.maingatyoga.se/"
+      "web": "https://www.maingatyoga.se/"
     },
     {
       "entry": 1232992006,
@@ -62748,7 +62748,7 @@
         "f\u00f6r\u00e4ldraskap",
         "f\u00f6r\u00e4ldrast\u00f6d"
       ],
-      "web": "http://qrut.se/"
+      "web": "https://qrut.se/"
     },
     {
       "entry": 1232993988,
@@ -62853,7 +62853,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://www.luleskargard.se/"
+      "web": "https://www.luleskargard.se/"
     },
     {
       "entry": 1233006350,
@@ -63016,7 +63016,7 @@
       "categories": [
         "supporterklubb"
       ],
-      "web": "http://www.blacksupport.se/tifo/"
+      "web": "https://www.blacksupport.se/tifo/"
     },
     {
       "entry": 1233022035,
@@ -63622,7 +63622,7 @@
         "byalag",
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
-      "web": "http://www.rogsby.se/"
+      "web": "https://www.rogsby.se/"
     },
     {
       "entry": 1233044484,
@@ -63799,7 +63799,7 @@
         "andningsteknik",
         "massage"
       ],
-      "web": "http://frokennilssonshalsa.se/"
+      "web": "https://frokennilssonshalsa.se/"
     },
     {
       "entry": 1233048204,
@@ -63841,7 +63841,7 @@
         "djurv\u00e5rd",
         "valpkurs"
       ],
-      "web": "http://www.annelishundtjanst.se/"
+      "web": "https://annelishundtjanst.se/"
     },
     {
       "entry": 1233048568,
@@ -64126,7 +64126,7 @@
       "categories": [
         "underh\u00e5llning"
       ],
-      "web": "http://www.ostergotlandssjukhusclowner.se/"
+      "web": "https://www.ostergotlandssjukhusclowner.se/"
     },
     {
       "entry": 1233059078,
@@ -64476,7 +64476,7 @@
       "categories": [
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
-      "web": "http://www.bygdeforeningentararpnotabrane.se/"
+      "web": "https://www.bygdeforeningentararpnotabrane.se/"
     },
     {
       "entry": 1233079316,
@@ -64684,7 +64684,7 @@
         "intressef\u00f6rening",
         "konstf\u00f6rening"
       ],
-      "web": "http://www.lysekilskonstforening.se/"
+      "web": "https://www.lysekilskonstforening.se/"
     },
     {
       "entry": 1233094653,
@@ -65006,7 +65006,7 @@
         "bordtennisklubb",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.dbtk.se/"
+      "web": "https://www.dbtk.se/"
     },
     {
       "entry": 1233114774,
@@ -65248,7 +65248,7 @@
       "categories": [
         "lionsklubb"
       ],
-      "web": "http://www.tollarplions.se/"
+      "web": "https://www.tollarplions.se/"
     },
     {
       "entry": 1233123874,
@@ -65420,7 +65420,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://www.malmonhk.se/"
+      "web": "https://malmonhk.se"
     },
     {
       "entry": 1233127289,
@@ -65495,7 +65495,7 @@
       "categories": [
         "restaurant"
       ],
-      "web": "http://www.creperiet.nu/"
+      "web": "https://www.creperiet.nu/"
     },
     {
       "entry": 1233131653,
@@ -65785,7 +65785,7 @@
         "serviceverkstad",
         "skogsmaskiner"
       ],
-      "web": "http://www.gremo.se/"
+      "web": "https://www.gremo.se/"
     },
     {
       "entry": 1233139763,
@@ -65796,7 +65796,7 @@
         "byggnadsv\u00e5rd",
         "b\u00e5tv\u00e5rd"
       ],
-      "web": "http://www.bbviroslagen.se/"
+      "web": "https://www.bbviroslagen.se/"
     },
     {
       "entry": 1233140498,
@@ -66402,7 +66402,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://kalmaradventkyrka.se/"
+      "web": "https://kalmaradventkyrka.se/"
     },
     {
       "entry": 1233195450,
@@ -66582,7 +66582,7 @@
       "categories": [
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
-      "web": "http://www.bredsel.se/"
+      "web": "https://www.bredsel.se/"
     },
     {
       "entry": 1233200201,
@@ -66646,7 +66646,7 @@
       "categories": [
         "supporterklubb"
       ],
-      "web": "http://www.lakerslakejer.se/"
+      "web": "https://lakerslakejer.se/"
     },
     {
       "entry": 1233201670,
@@ -67026,7 +67026,7 @@
         "agilityklubb",
         "hundsport"
       ],
-      "web": "http://agilityklubben.se/"
+      "web": "https://agilityklubben.se/"
     },
     {
       "entry": 1233216967,
@@ -67330,7 +67330,7 @@
         "idrottsf\u00f6rening",
         "kanotklubb"
       ],
-      "web": "http://www.vaxjokanot.com/"
+      "web": "https://www.vaxjokanot.com/"
     },
     {
       "entry": 1233232709,
@@ -67374,7 +67374,7 @@
         "motorcykel",
         "motorsport"
       ],
-      "web": "http://www.mxindoor.se/"
+      "web": "https://www.mxindoor.se/"
     },
     {
       "entry": 1233234648,
@@ -67541,7 +67541,7 @@
       "categories": [
         "golfklubb"
       ],
-      "web": "http://www.brastadgk.se/"
+      "web": "https://www.brastadgk.se/"
     },
     {
       "entry": 1233244571,
@@ -67626,7 +67626,7 @@
       "categories": [
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
-      "web": "http://www.stavby.se/"
+      "web": "https://www.stavby.se/"
     },
     {
       "entry": 1233248820,
@@ -67637,7 +67637,7 @@
         "konsert",
         "restaurant"
       ],
-      "web": "http://musikvalvet.se/"
+      "web": "https://musikvalvet.se/"
     },
     {
       "entry": 1233249547,
@@ -68035,7 +68035,7 @@
         "idrottsf\u00f6rening",
         "skidl\u00f6parklubb"
       ],
-      "web": "http://www.hemso.com/hemso-if/"
+      "web": "https://www.hemso.com/hemso-if/"
     },
     {
       "entry": 1233266525,
@@ -68057,7 +68057,7 @@
         "artist",
         "sk\u00e5despel"
       ],
-      "web": "http://www.sauk.se/"
+      "web": "https://www.sauk.se/"
     },
     {
       "entry": 1233266673,
@@ -68091,7 +68091,7 @@
         "solf\u00e5ngare",
         "solpaneler"
       ],
-      "web": "http://www.finspangssolvarme.se/"
+      "web": "https://www.finspangssolvarme.se/"
     },
     {
       "entry": 1233268299,
@@ -68122,7 +68122,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://vardnashbf.se/"
+      "web": "https://vardnashbf.se/"
     },
     {
       "entry": 1233269586,
@@ -68338,7 +68338,7 @@
       "categories": [
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.landvetteris.com/"
+      "web": "https://www.landvetteris.com/"
     },
     {
       "entry": 1233276862,
@@ -68349,7 +68349,7 @@
         "fotbollsklubb",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.borgebyfk.se/"
+      "web": "https://www.borgebyfk.se/"
     },
     {
       "entry": 1233277944,
@@ -68830,7 +68830,7 @@
         "idrottsf\u00f6rening",
         "tennisklubb"
       ],
-      "web": "http://www.hallstatennis.se/"
+      "web": "https://hallstatennis.se/"
     },
     {
       "entry": 1233311842,
@@ -69111,7 +69111,7 @@
         "musiker",
         "s\u00e5ngare"
       ],
-      "web": "http://www.mattiasenn.se/"
+      "web": "https://www.mattiasenn.se/"
     },
     {
       "entry": 1233334364,
@@ -69291,7 +69291,7 @@
       "categories": [
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
-      "web": "http://www.brftrumman.se/"
+      "web": "https://www.brftrumman.se/"
     },
     {
       "entry": 1233339611,
@@ -69474,7 +69474,7 @@
         "funktionsvariation",
         "ridklubb"
       ],
-      "web": "http://lunkikring.nu/"
+      "web": "https://lunkikring.nu/"
     },
     {
       "entry": 1233351145,
@@ -69516,7 +69516,7 @@
       "categories": [
         "byalag"
       ],
-      "web": "http://nolsokna.se/"
+      "web": "https://nolsokna.se/"
     },
     {
       "entry": 1233352309,
@@ -69900,7 +69900,7 @@
       "categories": [
         "stiftelse"
       ],
-      "web": "http://www.berget.se/"
+      "web": "https://www.stiftelsenberget.com/"
     },
     {
       "entry": 1233372174,
@@ -69944,7 +69944,7 @@
         "segelklubb",
         "segels\u00e4llskap"
       ],
-      "web": "http://www.gkss.se/"
+      "web": "https://gkss.se/"
     },
     {
       "entry": 1233373149,
@@ -70188,7 +70188,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://pingstarla.se/"
+      "web": "https://pingstarla.se/"
     },
     {
       "entry": 1233381092,
@@ -70264,7 +70264,7 @@
         "anh\u00f6rigorganisation",
         "patientf\u00f6rening"
       ],
-      "web": "http://www.fbis.se/"
+      "web": "https://www.fbis.se/"
     },
     {
       "entry": 1233382728,
@@ -70556,7 +70556,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.baptistkyrkan.com/"
+      "web": "https://baptistkyrkan.com/"
     },
     {
       "entry": 1233387875,
@@ -70779,7 +70779,7 @@
       "categories": [
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
-      "web": "http://www.navertjal.com/"
+      "web": "https://navertjal.com/"
     },
     {
       "entry": 1233398336,
@@ -70929,7 +70929,7 @@
       "categories": [
         "scoutk\u00e5r"
       ],
-      "web": "http://www.barkakrascoutkar.se/"
+      "web": "https://www.barkakrascoutkar.se/"
     },
     {
       "entry": 1233409380,
@@ -71021,7 +71021,7 @@
         "ungdomsverksamhet",
         "vuxenst\u00f6d"
       ],
-      "web": "http://www.guldfallen.se/"
+      "web": "https://www.guldfallen.se/"
     },
     {
       "entry": 1233417417,
@@ -71118,7 +71118,7 @@
       "categories": [
         "pension\u00e4rsklubb"
       ],
-      "web": "http://linkoping.aktivaseniorer.com/"
+      "web": "https://linkoping.aktivaseniorer.com/"
     },
     {
       "entry": 1233423118,
@@ -71182,7 +71182,7 @@
         "segelklubb",
         "segels\u00e4llskap"
       ],
-      "web": "http://www.bkss.se/"
+      "web": "https://bkss.se/"
     },
     {
       "entry": 1233430592,
@@ -71192,7 +71192,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.lulea.pingst.se/"
+      "web": "https://www.lulea.pingst.se/"
     },
     {
       "entry": 1233430725,
@@ -71421,7 +71421,7 @@
         "segelklubb",
         "segels\u00e4llskap"
       ],
-      "web": "http://www.strangnassegelsallskap.se/"
+      "web": "https://www.strangnassegelsallskap.se/"
     },
     {
       "entry": 1233440518,
@@ -71455,7 +71455,7 @@
         "bastu",
         "intressef\u00f6rening"
       ],
-      "web": "http://kvickbadhuset.se/"
+      "web": "https://kvickbadhuset.se/"
     },
     {
       "entry": 1233441953,
@@ -71583,7 +71583,7 @@
       "categories": [
         "scoutk\u00e5r"
       ],
-      "web": "http://www.barkakrascoutkar.se/"
+      "web": "https://www.barkakrascoutkar.se/"
     },
     {
       "entry": 1233444957,
@@ -71626,7 +71626,7 @@
       "categories": [
         "byalag"
       ],
-      "web": "http://nolsokna.se/"
+      "web": "https://nolsokna.se/"
     },
     {
       "entry": 1233445954,
@@ -71782,7 +71782,7 @@
       "categories": [
         "f\u00f6rening"
       ],
-      "web": "http://blog.kulturgaraget.se/"
+      "web": "https://blog.kulturgaraget.se/"
     },
     {
       "entry": 1233454493,
@@ -71813,7 +71813,7 @@
       "categories": [
         "lionsklubb"
       ],
-      "web": "http://www.lionsnybro.se/"
+      "web": "https://www.lionsnybro.se/"
     },
     {
       "entry": 1233455615,
@@ -72028,7 +72028,7 @@
         "pistolskytteklubb",
         "sportskytteklubb"
       ],
-      "web": "http://surahammarsskytteforening.se/"
+      "web": "https://surahammarsskytteforening.se/"
     },
     {
       "entry": 1233462157,
@@ -72159,7 +72159,7 @@
       "categories": [
         "hundkurser"
       ],
-      "web": "http://svanskogshundfysik.se/"
+      "web": "https://svanskogshundfysik.se/"
     },
     {
       "entry": 1233466042,
@@ -72201,7 +72201,7 @@
       "categories": [
         "hembygdsf\u00f6rening"
       ],
-      "web": "http://www.tjornshembygdsforening.se/"
+      "web": "https://www.tjornshembygdsforening.se/"
     },
     {
       "entry": 1233466778,
@@ -72292,7 +72292,7 @@
       "categories": [
         "supporterklubb"
       ],
-      "web": "http://sodrakurvan.se/"
+      "web": "https://sodrakurvan.se/"
     },
     {
       "entry": 1233468469,
@@ -72303,7 +72303,7 @@
         "blomarrangemang",
         "tr\u00e4dg\u00e5rdsodling"
       ],
-      "web": "http://tradgardenalfta.se/"
+      "web": "https://www.tradgardenalfta.se/"
     },
     {
       "entry": 1233468477,
@@ -127897,7 +127897,7 @@
         "soma move",
         "yoga"
       ],
-      "web": "http://linneo.se/"
+      "web": "https://linneo.se/"
     },
     {
       "entry": 1236282149,
@@ -127981,7 +127981,7 @@
         "f\u00f6rening",
         "intresseorganisation"
       ],
-      "web": "http://www.raddaregnskog.se/"
+      "web": "https://raddaregnskog.se/"
     },
     {
       "entry": 1236284772,
@@ -128049,7 +128049,7 @@
         "simklubb",
         "sims\u00e4llskap"
       ],
-      "web": "http://www.gavlesim.se/"
+      "web": "https://www.gavlesim.se/"
     },
     {
       "entry": 1236288369,
@@ -128071,7 +128071,7 @@
         "religion",
         "scoutk\u00e5r"
       ],
-      "web": "http://www.vidascouter.se/"
+      "web": "https://www.vidascouter.se/"
     },
     {
       "entry": 1236290126,
@@ -128293,7 +128293,7 @@
         "intressef\u00f6rening",
         "opinionsbildning"
       ],
-      "web": "http://varmlandmotkarnkraft.se/"
+      "web": "https://varmlandmotkarnkraft.se/"
     },
     {
       "entry": 1236308001,
@@ -128652,7 +128652,7 @@
         "intressef\u00f6rening",
         "patientf\u00f6rening"
       ],
-      "web": "http://www.gcfmariarosen.se/"
+      "web": "https://www.gcfmariarosen.se/"
     },
     {
       "entry": 1236335830,
@@ -128663,7 +128663,7 @@
         "hj\u00e4lporganisation",
         "intressef\u00f6rening"
       ],
-      "web": "http://www.sverigenepal.se/"
+      "web": "https://www.sverigenepal.se/"
     },
     {
       "entry": 1236335889,
@@ -128799,7 +128799,7 @@
         "meditation",
         "yoga"
       ],
-      "web": "http://yogaochhalsa.se/"
+      "web": "https://yogaochhalsa.se/"
     },
     {
       "entry": 1236341846,
@@ -129129,7 +129129,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://landskronapingst.se/"
+      "web": "https://landskronapingst.se/"
     },
     {
       "entry": 1236349948,
@@ -129256,7 +129256,7 @@
       "categories": [
         "skoterklubb"
       ],
-      "web": "http://www.mellanstrom.se/foreningar/mellanstroms-skoterklubb/"
+      "web": "https://www.mellanstrom.se/foreningar/mellanstroms-skoterklubb/"
     },
     {
       "entry": 1236357594,
@@ -129379,7 +129379,7 @@
         "idrottsf\u00f6rening",
         "volleybollklubb"
       ],
-      "web": "http://www.engelholmsvolley.se/"
+      "web": "https://www.engelholmsvolley.se/"
     },
     {
       "entry": 1236359871,
@@ -129415,7 +129415,7 @@
         "mj\u00f6lkproducent",
         "n\u00e4rproducerat"
       ],
-      "web": "http://gerstaberg.com/"
+      "web": "https://gerstaberg.com/"
     },
     {
       "entry": 1236360549,
@@ -129503,7 +129503,7 @@
       "categories": [
         "hundklubb"
       ],
-      "web": "http://www.tjtk.se/"
+      "web": "https://tjtk.se/"
     },
     {
       "entry": 1236370704,
@@ -129553,7 +129553,7 @@
         "djurv\u00e5rd",
         "\u00e5snor"
       ],
-      "web": "http://asneforeningen.org/"
+      "web": "https://asneforeningen.org/"
     },
     {
       "entry": 1236373088,
@@ -129992,7 +129992,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.varfralsare.se/"
+      "web": "https://www.varfralsare.se/"
     },
     {
       "entry": 1236405096,
@@ -130054,7 +130054,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": "http://ilse.se/"
+      "web": "https://ilse.se/"
     },
     {
       "entry": 1236406524,
@@ -130130,7 +130130,7 @@
         "golfbana",
         "golfklubb"
       ],
-      "web": "http://www.ragk.se/"
+      "web": "https://ragk.se/"
     },
     {
       "entry": 1236409304,
@@ -130314,7 +130314,7 @@
       "categories": [
         "musik"
       ],
-      "web": "http://www.rymdreglage.se/"
+      "web": "https://www.rymdreglage.se/"
     },
     {
       "entry": 1236416853,
@@ -130376,7 +130376,7 @@
       "categories": [
         "dansf\u00f6rening"
       ],
-      "web": "http://gdvjakobsberg.one/"
+      "web": "https://gdvjakobsberg.one/"
     },
     {
       "entry": 1236418990,
@@ -131191,7 +131191,7 @@
         "f\u00f6rening",
         "jaktskytteklubb"
       ],
-      "web": "http://www.gnestajsk.se/"
+      "web": "https://www.gnestajsk.se/"
     },
     {
       "entry": 1236468185,
@@ -132013,7 +132013,7 @@
         "intressef\u00f6rening",
         "tr\u00e4dg\u00e5rdsf\u00f6rening"
       ],
-      "web": "http://salto-ekholmen.se/"
+      "web": "https://salto-ekholmen.se/"
     },
     {
       "entry": 1236510895,
@@ -132089,7 +132089,7 @@
         "discgolfbana",
         "discgolfklubb"
       ],
-      "web": "http://www.luleadiscgolf.se/"
+      "web": "https://luleadiscgolf.se/"
     },
     {
       "entry": 1236512180,
@@ -133953,7 +133953,7 @@
         "bastu",
         "intressef\u00f6rening"
       ],
-      "web": "http://www.askimsbastu.se/"
+      "web": "https://www.askimsbastu.se/"
     },
     {
       "entry": 1236616858,
@@ -134232,7 +134232,7 @@
         "jaktskytteklubb",
         "jaktv\u00e5rdsklubb"
       ],
-      "web": "http://bagjakt.org/"
+      "web": "https://bagjakt.org/"
     },
     {
       "entry": 1236631287,
@@ -134375,7 +134375,7 @@
         "djurv\u00e5rd",
         "katthem"
       ],
-      "web": "http://www.djurskyddetvasterbotten.se/"
+      "web": "https://www.djurskyddetvasterbotten.se/"
     },
     {
       "entry": 1236640643,
@@ -134448,7 +134448,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://www.baptistkyrkan.se/"
+      "web": "https://www.baptistkyrkan.se/"
     },
     {
       "entry": 1236642573,
@@ -134547,7 +134547,7 @@
         "religion",
         "stiftelse"
       ],
-      "web": "http://www.welcometoladan.nu/"
+      "web": "https://www.welcometoladan.nu/"
     },
     {
       "entry": 1236644520,
@@ -134569,7 +134569,7 @@
         "simklubb",
         "sims\u00e4llskap"
       ],
-      "web": "http://www.motalass.se/"
+      "web": "https://www.motalass.se/"
     },
     {
       "entry": 1236647408,
@@ -134600,7 +134600,7 @@
       "categories": [
         "samf\u00e4llighetsf\u00f6rening"
       ],
-      "web": "http://www.erlandsdalsgarden.se/erlandsdals-samfallighet/"
+      "web": "https://www.erlandsdalsgarden.se/erlandsdals-samfallighet/"
     },
     {
       "entry": 1236648935,
@@ -134978,7 +134978,7 @@
       "categories": [
         "yoga"
       ],
-      "web": "http://www.yogaasa.se/"
+      "web": "https://www.yogaasa.se/"
     },
     {
       "entry": 1236666531,
@@ -135038,7 +135038,7 @@
         "ridklubb",
         "ryttarf\u00f6rening"
       ],
-      "web": "http://www.jonkopingsfaltrittklubb.se/"
+      "web": "https://www.jonkopingsfaltrittklubb.se/"
     },
     {
       "entry": 1236672174,
@@ -135476,7 +135476,7 @@
         "b\u00e5tklubb",
         "b\u00e5ts\u00e4llskap"
       ],
-      "web": "http://skurusundetsbatsallskap.se/"
+      "web": "https://skurusundetsbatsallskap.se/"
     },
     {
       "entry": 1236685648,
@@ -137572,7 +137572,7 @@
         "mountainbikeklubb",
         "skidl\u00f6parklubb"
       ],
-      "web": "http://sagmyrask.com/"
+      "web": "https://sagmyrask.com/"
     },
     {
       "entry": 1236777866,
@@ -137592,7 +137592,7 @@
       "categories": [
         "scoutk\u00e5r"
       ],
-      "web": "http://bergkvarascoutkar.se/"
+      "web": "https://bergkvarascoutkar.se/"
     },
     {
       "entry": 1236777981,
@@ -137894,7 +137894,7 @@
         "idrottsf\u00f6rening",
         "orienteringsklubb"
       ],
-      "web": "http://stigmannen.se/"
+      "web": "http://web.stigmannen.se/"
     },
     {
       "entry": 1236789036,
@@ -138613,7 +138613,7 @@
         "badmintonklubb",
         "idrottsf\u00f6rening"
       ],
-      "web": "http://www.bjarredsbadminton.se/"
+      "web": "https://www.bjarredsbadminton.se/"
     },
     {
       "entry": 1236821177,
@@ -139223,7 +139223,7 @@
         "insamling",
         "ukraina"
       ],
-      "web": "http://www.fb.com/uavhub.stockholm"
+      "web": "https://www.facebook.com/uavhub.stockholm"
     },
     {
       "entry": 1236858021,
@@ -139681,7 +139681,7 @@
         "personalutbildning",
         "utbildning"
       ],
-      "web": "http://settings.se/"
+      "web": "https://settings.se/"
     },
     {
       "entry": 1236883839,
@@ -140412,7 +140412,7 @@
         "simklubb",
         "sims\u00e4llskap"
       ],
-      "web": "http://www.hss.nu/"
+      "web": "https://www.hss.nu/"
     },
     {
       "entry": 1236915714,
@@ -141675,7 +141675,7 @@
       "categories": [
         "historief\u00f6rening"
       ],
-      "web": "http://www.luhs.se/"
+      "web": "https://www.luhs.se/"
     },
     {
       "entry": 1236974034,
