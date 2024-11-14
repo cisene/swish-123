@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-11-14-rev-005223
+# Date: 2024-11-14-rev-011422
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -7718,7 +7718,7 @@
 "1234029831","817300-6431","Tierps Brukshundsklubb","https://tierpsbk.se/","brukshundklubb,hundsport",""
 "1234030086","824001-0747","Boule von Platen","https://www.svenskalag.se/boulevonplaten","bouleklubb,idrottsförening",""
 "1234031027","252000-6301","Älmeboda Församling","","religion","Bokbord"
-"1234033007","721003-XXXX","Existensis / Susanna Westman","http://www.vardagsmystik.se/","coaching,samtalsterapi,terapisamtal",""
+"1234033007","721003-XXXX","Existensis / Susanna Westman","https://www.vardagsmystik.se/","coaching,samtalsterapi,terapisamtal",""
 "1234033585","886000-5605","Söderhamns kammarmusikförening","https://www.facebook.com/p/S%C3%B6derhamns-kammarmusikf%C3%B6rening-100064439931752/","kammarmusikförening,musikförening",""
 "1234034120","857204-5683","Frölunda Hockey Club","https://www.frolundahockey.com/","idrottsförening,ishockeyklubb",""
 "1234040143","556668-0020","Grottbyn AB","https://grottbyn.se/","camping,konferens,minigolf,stuguthyrning",""
@@ -8643,7 +8643,7 @@
 "1234580312","802461-3757","Floda IBK","https://www.svenskalag.se/flodaibk","idrottsförening,innebandyklubb",""
 "1234580676","252003-4956","Södermöre Pastorat","https://sodermore.se/","religion","Kollekt Karlslunda-Mortorp"
 "1234580817","829500-7424","BK Union","https://www.laget.se/BKUnion/","fotbollsklubb,idrottsförening",""
-"1234580965","928500-5485","Lions Club Smålandsstenar","http://lionsclubsmalandsstenar.se/","lionsklubb",""
+"1234580965","928500-5485","Lions Club Smålandsstenar","https://lionsclubsmalandsstenar.se/","lionsklubb",""
 "1234582466","802462-3392","Supporterföreningen North Power","https://www.northpower.nu/","supporterklubb",""
 "1234582664","889200-8510","Sundsvalls Simsällskap","https://www.sundsvalls-ss.se/","idrottsförening,simklubb,simsällskap",""
 "1234582953","857202-1403","Equmeniakyrkan Lerkil","https://equmeniakyrkan.se/lerkil/","religion",""
@@ -12149,7 +12149,7 @@
 "1236497051","857205-4875","Ålleberg Cafe och Lunchrestaurang","https://www.allebergcafeorestaurang.se/","cafe,restaurant",""
 "1236497069","802539-3649","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Halland, Våxtorpsskolan"
 "1236497390","252003-7355","Torrskogs kyrka","https://www.svenskakyrkan.se/bengtsfors","religion",""
-"1236499446","802473-1336","Marstrands Gammaldansförening MGF","","dansförening",""
+"1236499446","802473-1336","Marstrands Gammaldansförening MGF","https://gammaldanssidan.com/arrang-rer","dansförening",""
 "1236499966","769629-5422","Bostadsrättsföreningen Sörbyängen i Örebro","https://brfsorbyangen.se/","bostadsrättsförening",""
 "1236500474","802518-6043","Reformisterna / S-Föreningen SEPRIU","https://www.reformisterna.se/","intresseförening",""
 "1236500508","802532-8033","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Värmland, Tingvallagymnasiet"
@@ -12169,7 +12169,7 @@
 "1236507511","827500-2189","Vrigstads IF","https://www.vrigstad.nu/","idrottsförening","Såll-lotteri"
 "1236507578","556542-6847","Escape Outdoors / Solid Skills AB","https://escapeoutdoors.se/","friluftsliv,kayak,utbildning",""
 "1236507792","802519-9533","Skurup Padelklubb","https://www.skuruppadelklubb.se/","idrottsförening,padelklubb",""
-"1236508899","802600-7636","Roasjöns-Ramsjöns FVO","","fiskeklubb,fiskekort,fiskevårdsområde",""
+"1236508899","802600-7636","Roasjöns-Ramsjöns FVO","https://www.ifiske.se/fiskekort-ramsjon.htm","fiskeklubb,fiskekort,fiskevårdsområde",""
 "1236509277","875001-1986","Riksförbundet PensionärsGemenskap Örebro-Värmlands Läns Distrikt","https://www.rpg-orebro-varmland.se/","pensionärsklubb",""
 "1236510614","802417-6425","SPF Seniorerna Nykvarn","https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/nykvarn/","pensionärsklubb",""
 "1236510838","802507-9313","Saltö-Ekholmens Trädgårdsförening & Intresseförening","https://salto-ekholmen.se/","intresseförening,trädgårdsförening",""
@@ -12233,7 +12233,7 @@
 "1236530737","838800-8362","Jakten Hoppet av Brantevik","https://www.jaktenhoppet.com/","båtklubb,intresseförening,segelklubb,segelsällskap",""
 "1236532154","895400-9299","PRO Lycksele","https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-lycksele/foreningar/lycksele.html","pensionärsklubb",""
 "1236532311","802532-7902","Sjörup-Vallösa Byalag","https://www.sjorupvallosabyalag.se/","byalag",""
-"1236532386","580907-XXXX","Cancergalan / Karin Wöyer Amcoff","","insamling,stödverksamhet","Cancergalan"
+"1236532386","580907-XXXX","Cancergalan / Karin Wöyer Amcoff","https://www.cancerfonden.se/nyhet/karin-har-samlat-in-over-400-000-till-forskningen","insamling,stödverksamhet","Cancergalan"
 "1236532501","717600-3171","Bostadsrättsföreningen Stabbygårdarna","https://stabbygårdarna.se/","bostadsrättsförening",""
 "1236533194","819000-1845","Nyköpings SG","https://www.svenskalag.se/nykopingssg","skytteklubb,sportskytteklubb",""
 "1236533343","875700-6757","Laxå IF","https://www.laget.se/Laxa-IF/","fotbollsklubb,idrottsförening",""
@@ -12519,7 +12519,7 @@
 "1236689673","862500-3887","Melleruds Båtklubb","http://www.mellerudsbatklubb.com/","båtklubb",""
 "1236689699","838202-3706","ÅhusGården EFS","https://www.ahusgarden.se/","logi,religion,vandrarhem,övernattning",""
 "1236689731","252003-0228","Linköpings Domkyrkopastorat","https://www.svenskakyrkan.se/linkoping","religion","Insamlingar"
-"1236689756","802429-7478","Prostataföreningen Betula","","anhörigorganisation,cancerförening,patientförening,prostatacancer",""
+"1236689756","802429-7478","Prostataföreningen Betula","https://prostatacancerforbundet.se/umea/","anhörigorganisation,cancerförening,patientförening,prostatacancer",""
 "1236689962","556894-9266","Kollberggården / Ölands YogaStudio & Islandshästar AB","https://www.kollberggarden.se/yogawellness/","ridläger,stuguthyrning,yoga",""
 "1236691018","802514-6708","Koranpodden","https://www.koranpodden.se/","podcast,religion",""
 "1236691141","802411-4129","Kvinnojouren Nina","https://ikkr.org/","kvinnojour","Gåva"
@@ -12627,7 +12627,7 @@
 "1236745954","802528-3691","SPF Seniorerna Jössebygden Arvika","https://www.spfseniorerna.se/distrikt/varmlandsdistriktet/foreningslista/spf-seniorerna-jossebygden-arvika/","pensionärsklubb",""
 "1236750251","559085-8576","UpplevVadstena AB","https://www.upplevvadstena.se/","turism",""
 "1236750285","802496-0687","Kiruna AIF Ishockey","https://www.svenskalag.se/kirunaaif","idrottsförening,ishockeyklubb","Andelslotteriet, 1927, Souvenirer, Halva potten på internet"
-"1236750681","802601-2511","Norra Simmesjöns FVO","","fiskeklubb,fiskekort,fiskevårdsområde",""
+"1236750681","802601-2511","Norra Simmesjöns FVO","https://www.vastsverige.com/svenljunga-tranemo/produkter/fvo-norra-simmesjon/","fiskeklubb,fiskekort,fiskevårdsområde",""
 "1236750848","852000-7587","Härryda Jaktvårdsförening","https://www.svenskalag.se/harrydajvf","jaktskytteklubb,jaktvårdsklubb,skytteklubb",""
 "1236751432","852000-4998","Kvinnojouren Frideborg","https://www.frideborg.se/","kvinnojour",""
 "1236751796","857203-4208","Rotary Göteborg-Örgryte","https://goteborg-orgryte.rotary2360.se/","rotaryklubb",""
@@ -12870,7 +12870,7 @@
 "1236880140","802449-1980","Djurskyddet Säffle-Åmål","https://www.djurskyddet.se/saffleamal/","djurskydd,djurvård,katthem",""
 "1236880413","802539-2708","Malmö Helps","https://malmohelps.se/","donation,hjälporganisation,välgörenhet",""
 "1236881866","815600-8537","Svenska Hundklubben, Södertälje","https://svenskahundklubben.se/sodertalje/","hundklubb,hundsport","Köket"
-"1236882237","559303-8374","DD Content & Invest AB","","sportanalys",""
+"1236882237","559303-8374","DD Content & Invest AB","https://www.linkedin.com/in/daniel-domeij-9102633a/","sportanalys",""
 "1236882286","802015-9490","SPF Seniorerna Katarina Sofia","https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-katarina/","pensionärsklubb",""
 "1236882377","884400-0441","Dalfors Bygdegårdsförening","https://bygdegardarna.se/dalfors/","bygdegårdsförening",""
 "1236882831","802408-9446","PRO Upplands Väsby","https://pro.se/distrikt/stockholm/kommun/upplands-vasby/pro-upplands-vasby","pensionärsklubb",""
@@ -13009,7 +13009,7 @@
 "1236947022","857209-7759","IFK Björkö","https://www.laget.se/IFKBjorko/","badmintonklubb,fotbollsklubb,idrottsförening",""
 "1236947279","802453-4037","Djurens Chans","https://www.djurenschans.se/","djurskydd,katthem",""
 "1236947501","839400-3043","Förslövs IF","https://www.fif.se/","fotbollsklubb,idrottsförening,innebandyklubb",""
-"1236947543","556730-1576","Barbalander AB","","förlag,försäljning",""
+"1236947543","556730-1576","Barbalander AB","https://www.facebook.com/barbalander/","filmproduktion,förlag,försäljning",""
 "1236947782","822000-5014","Torpa AIS","https://www.svenskalag.se/torpaais","beachvolleyballklubb,bouleklubb,fotbollsklubb,idrottsförening,padelklubb,tennisklubb",""
 "1236948178","812800-4028","Huddinge HK","https://www.svenskalag.se/huddingehk","handbollsklubb,idrottsförening",""
 "1236948236","885000-3164","Korskyrkan Gävle","https://korskyrkangavle.podbean.com/","podcast,religion",""

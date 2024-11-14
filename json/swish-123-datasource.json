@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-14-rev-005215",
+    "date": "2024-11-14-rev-011413",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -83603,7 +83603,7 @@
         "samtalsterapi",
         "terapisamtal"
       ],
-      "web": "http://www.vardagsmystik.se/"
+      "web": "https://www.vardagsmystik.se/"
     },
     {
       "entry": 1234033585,
@@ -93675,7 +93675,7 @@
       "categories": [
         "lionsklubb"
       ],
-      "web": "http://lionsclubsmalandsstenar.se/"
+      "web": "https://lionsclubsmalandsstenar.se/"
     },
     {
       "entry": 1234582466,
@@ -131763,7 +131763,7 @@
       "categories": [
         "dansf\u00f6rening"
       ],
-      "web": null
+      "web": "https://gammaldanssidan.com/arrang-rer"
     },
     {
       "entry": 1236499966,
@@ -131982,7 +131982,7 @@
         "fiskekort",
         "fiskev\u00e5rdsomr\u00e5de"
       ],
-      "web": null
+      "web": "https://www.ifiske.se/fiskekort-ramsjon.htm"
     },
     {
       "entry": 1236509277,
@@ -132696,7 +132696,7 @@
         "insamling",
         "st\u00f6dverksamhet"
       ],
-      "web": null
+      "web": "https://www.cancerfonden.se/nyhet/karin-har-samlat-in-over-400-000-till-forskningen"
     },
     {
       "entry": 1236532501,
@@ -135800,7 +135800,7 @@
         "patientf\u00f6rening",
         "prostatacancer"
       ],
-      "web": null
+      "web": "https://prostatacancerforbundet.se/umea/"
     },
     {
       "entry": 1236689962,
@@ -136969,7 +136969,7 @@
         "fiskekort",
         "fiskev\u00e5rdsomr\u00e5de"
       ],
-      "web": null
+      "web": "https://www.vastsverige.com/svenljunga-tranemo/produkter/fvo-norra-simmesjon/"
     },
     {
       "entry": 1236750848,
@@ -139619,7 +139619,7 @@
       "categories": [
         "sportanalys"
       ],
-      "web": null
+      "web": "https://www.linkedin.com/in/daniel-domeij-9102633a/"
     },
     {
       "entry": 1236882286,
@@ -141104,10 +141104,11 @@
       "orgNumber": "556730-1576",
       "comment": null,
       "categories": [
+        "filmproduktion",
         "f\u00f6rlag",
         "f\u00f6rs\u00e4ljning"
       ],
-      "web": null
+      "web": "https://www.facebook.com/barbalander/"
     },
     {
       "entry": 1236947782,

@@ -68917,7 +68917,7 @@ entries:
   - coaching
   - samtalsterapi
   - terapisamtal
-  web: http://www.vardagsmystik.se/
+  web: https://www.vardagsmystik.se/
 
 - entry: 1234033585
   orgName: Söderhamns kammarmusikförening
@@ -77213,7 +77213,7 @@ entries:
   comment: null
   categories:
   - lionsklubb
-  web: http://lionsclubsmalandsstenar.se/
+  web: https://lionsclubsmalandsstenar.se/
 
 - entry: 1234582466
   orgName: Supporterföreningen North Power
@@ -108633,7 +108633,7 @@ entries:
   comment: null
   categories:
   - dansförening
-  web: null
+  web: https://gammaldanssidan.com/arrang-rer
 
 - entry: 1236499966
   orgName: Bostadsrättsföreningen Sörbyängen i Örebro
@@ -108812,7 +108812,7 @@ entries:
   - fiskeklubb
   - fiskekort
   - fiskevårdsområde
-  web: null
+  web: https://www.ifiske.se/fiskekort-ramsjon.htm
 
 - entry: 1236509277
   orgName: Riksförbundet PensionärsGemenskap Örebro-Värmlands Läns Distrikt
@@ -109406,7 +109406,7 @@ entries:
   categories:
   - insamling
   - stödverksamhet
-  web: null
+  web: https://www.cancerfonden.se/nyhet/karin-har-samlat-in-over-400-000-till-forskningen
 
 - entry: 1236532501
   orgName: Bostadsrättsföreningen Stabbygårdarna
@@ -111970,7 +111970,7 @@ entries:
   - cancerförening
   - patientförening
   - prostatacancer
-  web: null
+  web: https://prostatacancerforbundet.se/umea/
 
 - entry: 1236689962
   orgName: Kollberggården / Ölands YogaStudio & Islandshästar AB
@@ -112932,7 +112932,7 @@ entries:
   - fiskeklubb
   - fiskekort
   - fiskevårdsområde
-  web: null
+  web: https://www.vastsverige.com/svenljunga-tranemo/produkter/fvo-norra-simmesjon/
 
 - entry: 1236750848
   orgName: Härryda Jaktvårdsförening
@@ -115114,7 +115114,7 @@ entries:
   comment: null
   categories:
   - sportanalys
-  web: null
+  web: https://www.linkedin.com/in/daniel-domeij-9102633a/
 
 - entry: 1236882286
   orgName: SPF Seniorerna Katarina Sofia
@@ -116330,9 +116330,10 @@ entries:
   orgNumber: 556730-1576
   comment: null
   categories:
+  - filmproduktion
   - förlag
   - försäljning
-  web: null
+  web: https://www.facebook.com/barbalander/
 
 - entry: 1236947782
   orgName: Torpa AIS
