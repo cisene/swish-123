@@ -10877,9 +10877,10 @@ entries:
   orgNumber: 875002-2736
   comment: Ställplats
   categories:
+  - golfbana
   - golfklubb
   - ställplats
-  web: null
+  web: https://www.karstagk.se/
 
 - entry: 1230634543
   orgName: Nylöse Pastorat
@@ -17706,11 +17707,12 @@ entries:
   web: https://www.gammelgarden.com/
 
 - entry: 1230990747
-  orgName: null
+  orgName: The Night Flight Orchestra
   orgNumber: null
   comment: null
-  categories: null
-  web: null
+  categories:
+  - orkester
+  web: https://www.therockpit.net/
 
 - entry: 1230991273
   orgName: S:ta Maria Syrisk Ortodoxa Kyrkan i Göteborg
@@ -102173,7 +102175,7 @@ entries:
   comment: null
   categories:
   - bygdegårdsförening
-  web: null
+  web: https://www.facebook.com/skalobystuga1/
 
 - entry: 1236108013
   orgName: Pilgrimstads Båtklubb
@@ -103463,7 +103465,7 @@ entries:
   comment: null
   categories:
   - kvinnojour
-  web: null
+  web: https://www.unizonjourer.se/jourer/kvinnojouren-i-sandviken/kvinnojouren-sandviken/
 
 - entry: 1236174312
   orgName: Gällivare Skytteförening
@@ -107231,7 +107233,7 @@ entries:
   comment: null
   categories:
   - folkets park
-  web: null
+  web: https://glimakrafolketspark.se/
 
 - entry: 1236407068
   orgName: Frizonen

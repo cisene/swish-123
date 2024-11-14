@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-14-rev-013317",
+    "date": "2024-11-14-rev-144006",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13214,10 +13214,11 @@
       "orgNumber": "875002-2736",
       "comment": "St\u00e4llplats",
       "categories": [
+        "golfbana",
         "golfklubb",
         "st\u00e4llplats"
       ],
-      "web": null
+      "web": "https://www.karstagk.se/"
     },
     {
       "entry": 1230634543,
@@ -123950,7 +123951,7 @@
       "categories": [
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
-      "web": null
+      "web": "https://www.facebook.com/skalobystuga1/"
     },
     {
       "entry": 1236108013,
@@ -125498,7 +125499,7 @@
       "categories": [
         "kvinnojour"
       ],
-      "web": null
+      "web": "https://www.unizonjourer.se/jourer/kvinnojouren-i-sandviken/kvinnojouren-sandviken/"
     },
     {
       "entry": 1236174312,
@@ -130064,7 +130065,7 @@
       "categories": [
         "folkets park"
       ],
-      "web": null
+      "web": "https://glimakrafolketspark.se/"
     },
     {
       "entry": 1236407068,

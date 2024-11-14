@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-11-14-rev-013326
+# Date: 2024-11-14-rev-144016
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1227,7 +1227,7 @@
 "1230633008","885500-5008","Sandvikens Brukshundklubb","https://www.sandvikensbk.hundpoolen.se/","brukshundklubb,hundsport",""
 "1230633297","802497-5453","PRO Liljeholmen","https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-stockholm/foreningar/liljeholmen.html","pensionärsklubb",""
 "1230633370","802435-1689","Kulturens Bildningsverksamhet","https://www.kulturens.se/","kultur,utbildning",""
-"1230633503","875002-2736","Kårsta Golfklubb","","golfklubb,ställplats","Ställplats"
+"1230633503","875002-2736","Kårsta Golfklubb","https://www.karstagk.se/","golfbana,golfklubb,ställplats","Ställplats"
 "1230634543","252004-8931","Nylöse Pastorat","https://www.svenskakyrkan.se/nylose","religion","Kollekt Hjällbo kyrka"
 "1230634626","556727-1522","Horns Skärgårdscamping / NFS Marin AB","https://www.hornscamping.se/","camping,logi,stuguthyrning",""
 "1230634840","846501-9662","Bokhistoriska Sällskapet","https://bokhistoriska.se/","historiesällskap,kulturförening",""
@@ -11429,7 +11429,7 @@
 "1236107296","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Svensgårdsskolan"
 "1236107809","802533-7653","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Jönköping, Ribbaskolan"
 "1236107817","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Helsingborg, Montessoriskolan Tellus"
-"1236107940","882601-2034","Skålö Bystugeförening","","bygdegårdsförening",""
+"1236107940","882601-2034","Skålö Bystugeförening","https://www.facebook.com/skalobystuga1/","bygdegårdsförening",""
 "1236108013","893202-9278","Pilgrimstads Båtklubb","https://pilgrimstad.com/batklubben/","båtklubb",""
 "1236108773","866601-0486","Skövde-Skultorp Scoutkår","https://www.nsf.scout.se/karer/skovde-skultorp-scoutkar/","scoutkår",""
 "1236109615","802452-4913","Brännkyrka Församlings Fredsgrupp","https://www.brannkyrka.org/forsamlingen/internationellt-arbete/fredsgruppen/","intresseförening,religion",""
@@ -11571,7 +11571,7 @@
 "1236173025","802504-6221","Beckomberga Maniacs","https://www.laget.se/Maniacs/","amerikansk fotbollsklubb,idrottsförening",""
 "1236173058","884400-5192","Särna SK","https://www.svenskalag.se/sarnask","alpinklubb,fotbollsklubb,idrottsförening,orienteringsklubb,skidlöparklubb",""
 "1236173637","874001-1211","I 2 Skytteförening","https://www.i2skf.se/","skytteklubb,sportskytteklubb",""
-"1236174179","885500-7715","Kvinnojouren Sandviken","","kvinnojour",""
+"1236174179","885500-7715","Kvinnojouren Sandviken","https://www.unizonjourer.se/jourer/kvinnojouren-i-sandviken/kvinnojouren-sandviken/","kvinnojour",""
 "1236174312","897900-0125","Gällivare Skytteförening","https://www.svenskalag.se/gallivaresf","skytteklubb,sportskytteklubb",""
 "1236174932","802452-2883","SPF Seniorerna Sydhalland","https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spfseniorerna_sydhaland/","pensionärsklubb",""
 "1236174957","897000-3490","Råneå Hembygdsförening","https://www.hembygd.se/ranea-hembygdsforening","hembygdsförening",""
@@ -11992,7 +11992,7 @@
 "1236406110","894000-0345","Pingst Umeå","https://umea.pingst.se/","religion","Grace Children"
 "1236406425","802477-3759","Stiftelsen Alfons Åbergs Kulturhus","https://alfonskulturhus.se/","donation,kulturförening",""
 "1236406466","802490-3976","Föreningen För Lotsbåten Ilse","https://ilse.se/","intresseförening",""
-"1236406524","738200-1571","Glimåkra Folkets Park Förening","","folkets park",""
+"1236406524","738200-1571","Glimåkra Folkets Park Förening","https://glimakrafolketspark.se/","folkets park",""
 "1236407068","802505-4290","Frizonen","http://www.frizonen.org/","suicid prevention,utsatthet",""
 "1236407662","892600-7165","Rätans Hembygdsförening","https://ratan.nu/","hembygdsförening",""
 "1236407779","802503-1678","Katrineholm Griffins Rugby Club","https://www.svenskalag.se/kgrc","idrottsförening,rugbyklubb",""
