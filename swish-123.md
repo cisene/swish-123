@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-14-rev-144044
+Revision: 2024-11-14-rev-205609
 
-Nummer: 13537
+Nummer: 13557
 
 
 
@@ -3580,6 +3580,13 @@ Nummer: 13537
 **Barkarby-Skälby Scoutkår**
 
     123 051 79 79
+
+
+
+
+**Barkarby Trafikskola AB**
+
+    123 515 05 37
 
 
 
@@ -7833,6 +7840,13 @@ Nummer: 13537
 
 
 
+**Brottsofferjouren**
+
+    123 208 89 53 - Nacka-Tyresö-Värmdö
+
+
+
+
 **Brottsofferjouren Borås-Sjuhärad**
 
     123 071 48 24
@@ -7864,13 +7878,6 @@ Nummer: 13537
 **Brottsofferjouren Mellersta Skåne**
 
     123 063 16 89
-
-
-
-
-**Brottsofferjouren Nacka-Tyresö-Värmdö**
-
-    123 208 89 53
 
 
 
@@ -8856,6 +8863,13 @@ Nummer: 13537
 **Båstad Budoklubb**
 
     123 473 19 64
+
+
+
+
+**Båstad Båt- och Segelsällskap**
+
+    123 699 10 46
 
 
 
@@ -10080,6 +10094,13 @@ Nummer: 13537
 
 
 
+**Cubik Textil & Agentur AB**
+
+    123 458 05 02
+
+
+
+
 **Cultureclub Engelholm AB**
 
     123 274 76 81
@@ -10875,6 +10896,13 @@ Nummer: 13537
 **Den Lilla Krogen Skövde AB**
 
     123 120 67 21
+
+
+
+
+**Den Väntades Vänner**
+
+    123 680 01 89
 
 
 
@@ -32089,6 +32117,13 @@ Nummer: 13537
 
 
 
+**Kajs Fisk o Rökeri / Stefan Dahlstrand**
+
+    123 302 28 37
+
+
+
+
 **Kalix AK**
 
     123 664 89 35
@@ -32671,6 +32706,13 @@ Nummer: 13537
 **Karlskoga Brukshundsklubb**
 
     123 147 62 17
+
+
+
+
+**Karlskoga-Degerfors Baptistförsamling**
+
+    123 696 85 72
 
 
 
@@ -38271,6 +38313,13 @@ Nummer: 13537
 
 
 
+**Lidingö Vävstuga**
+
+    123 023 72 06
+
+
+
+
 **Lidköpings Atletsällskap**
 
     123 105 80 15 - Vinninga Drive-in Bingo
@@ -40723,6 +40772,13 @@ Nummer: 13537
 **Lundby IF**
 
     123 231 69 25
+
+
+
+
+**Lunds akademiska körförening**
+
+    123 637 92 67
 
 
 
@@ -43500,6 +43556,13 @@ Nummer: 13537
 **Morup-Stafsinge Hembygdsförening**
 
     123 027 48 45
+
+
+
+
+**Moshults Vandrarhem / Leif Berglund**
+
+    123 511 26 93
 
 
 
@@ -46366,6 +46429,13 @@ Nummer: 13537
 
 
 
+**Norrveda Ponnystuteri**
+
+    123 651 76 84
+
+
+
+
 **Norråkers Jaktskytteklubb**
 
     123 379 32 05
@@ -48350,6 +48420,13 @@ Nummer: 13537
 
 
 
+**Parc Monceau Publishing AB**
+
+    123 643 26 52
+
+
+
+
 **Parkalompolo IK**
 
     123 175 77 64
@@ -49139,7 +49216,7 @@ Nummer: 13537
 
 
 
-**Pingstförsamlingen I Trollhättan**
+**Pingstförsamlingen i Trollhättan**
 
     123 228 50 21
 
@@ -53178,6 +53255,13 @@ Nummer: 13537
 **Robertsfors Skyttesportförening**
 
     123 277 82 31
+
+
+
+
+**Rock n’ Roll West**
+
+    123 264 39 14
 
 
 
@@ -58389,6 +58473,13 @@ Nummer: 13537
     123 559 71 25 - Österviken Bastu
 
     123 568 68 11 - Nämdö Bastu
+
+
+
+
+**Skärmflygskolan Stockholm HB**
+
+    123 567 90 06
 
 
 
@@ -66711,6 +66802,13 @@ Nummer: 13537
 
 
 
+**Sveriges Domareförbund**
+
+    123 262 79 66
+
+
+
+
 **Sveriges Dövas Riksförbund**
 
     123 510 16 70
@@ -68845,6 +68943,13 @@ Nummer: 13537
 
 
 
+**Tango Varberg**
+
+    123 227 19 48
+
+
+
+
 **TangoJamt**
 
     123 576 37 50
@@ -70615,6 +70720,13 @@ Nummer: 13537
 
 
 
+**THE ENGLISH SCHOOL GOTHENBURG**
+
+    123 611 15 61
+
+
+
+
 **The House Sweden / Church Service**
 
     123 668 59 29
@@ -70702,6 +70814,13 @@ Nummer: 13537
 **Tian Dao Kamsports Förening**
 
     123 534 20 84
+
+
+
+
+**Tibro Brukshundklubb**
+
+    123 204 49 72
 
 
 
@@ -77238,6 +77357,13 @@ Nummer: 13537
 
 
 
+**Västafrikahjälpen**
+
+    123 593 53 41
+
+
+
+
 **Västanede Byförening**
 
     123 131 60 74
@@ -80576,6 +80702,13 @@ Nummer: 13537
 
 
 
+**Åre Brukshundklubb**
+
+    123 054 07 32
+
+
+
+
 **Åre/Duved Scoutkår**
 
     123 379 49 30
@@ -81902,6 +82035,13 @@ Nummer: 13537
 **Örträskbygdens Intresse- & Hembygdsförening**
 
     123 666 00 88
+
+
+
+
+**Öråkers Kulturcentrum**
+
+    123 126 81 01
 
 
 

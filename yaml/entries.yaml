@@ -3836,6 +3836,17 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/halleberga
 
+- entry: 1230237206
+  orgName: Lidingö Vävstuga
+  orgNumber: 802522-3424
+  comment: null
+  categories:
+  - kulturförening
+  - kurser
+  - vävkonst
+  - vävstuga
+  web: https://www.lidingovavstuga.se/
+
 - entry: 1230237610
   orgName: Svensk Förening för Odontologisk Radiologi, SFOR
   orgNumber: 846002-3305
@@ -9458,6 +9469,15 @@ entries:
   - byalag
   - intresseförening
   web: http://www.hornsjo.se/
+
+- entry: 1230540732
+  orgName: Åre Brukshundklubb
+  orgNumber: 893200-8439
+  comment: null
+  categories:
+  - brukshundklubb
+  - hundsport
+  web: https://brukshundklubben.se/are-brukshundklubb/
 
 - entry: 1230540872
   orgName: Team Rynkeby
@@ -22408,6 +22428,15 @@ entries:
   categories:
   - religion
   web: https://torestorpspastorat.se/
+
+- entry: 1231268101
+  orgName: Öråkers Kulturcentrum
+  orgNumber: 802451-2264
+  comment: null
+  categories:
+  - kulturförening
+  - kulturhus
+  web: https://www.ladanoraker.se/
 
 - entry: 1231268283
   orgName: Elins Glashus / Sensibelle
@@ -35395,6 +35424,15 @@ entries:
   - ordensällskap
   web: https://www.bifrostorden.se/
 
+- entry: 1232044972
+  orgName: Tibro Brukshundklubb
+  orgNumber: 866600-7110
+  comment: null
+  categories:
+  - brukshundklubb
+  - hundsport
+  web: https://www.tibrobrukshundklubb.com/
+
 - entry: 1232045060
   orgName: Yoga med L8 / Lotta Fröjdfeldt
   orgNumber: 701010-XXXX
@@ -35810,9 +35848,9 @@ entries:
   web: https://www.stocksbo.se/
 
 - entry: 1232088953
-  orgName: Brottsofferjouren Nacka-Tyresö-Värmdö
+  orgName: Brottsofferjouren
   orgNumber: 814000-0301
-  comment: null
+  comment: Nacka-Tyresö-Värmdö
   categories:
   - brottsofferjour
   web: https://www.brottsofferjouren.se/
@@ -39723,6 +39761,15 @@ entries:
   - softbollklubb
   web: https://www.svenskalag.se/albyif
 
+- entry: 1232271948
+  orgName: Tango Varberg
+  orgNumber: 802519-0482
+  comment: null
+  categories:
+  - dansförening
+  - dansundervisning
+  web: https://www.tangovarberg.se/
+
 - entry: 1232272433
   orgName: Skyttorps IF
   orgNumber: 817600-3062
@@ -40006,11 +40053,10 @@ entries:
   web: https://www.delsboyoga.se/
 
 - entry: 1232285021
-  orgName: Pingstförsamlingen I Trollhättan
+  orgName: Pingstförsamlingen i Trollhättan
   orgNumber: 855900-9389
   comment: null
   categories:
-  - donation
   - religion
   web: https://www.trollhattanpingst.se/
 
@@ -44994,6 +45040,15 @@ entries:
   - musikförening
   web: https://www.facebook.com/brukskultur
 
+- entry: 1232627966
+  orgName: Sveriges Domareförbund
+  orgNumber: 802004-2126
+  comment: null
+  categories:
+  - förbund
+  - intresseförening
+  web: https://domareforbundet.se/
+
 - entry: 1232630077
   orgName: S:t Konrads Katolska Församling
   orgNumber: 252002-8297
@@ -45386,6 +45441,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/gotland/kommun/gotland/pro-byggfacken
+
+- entry: 1232643914
+  orgName: Rock n’ Roll West
+  orgNumber: 864001-1766
+  comment: null
+  categories:
+  - bilklubb
+  - raggarklubb
+  web: https://rocknrollwest.se/
 
 - entry: 1232644052
   orgName: Karlstadpartiet Livskvalitet
@@ -51980,6 +52044,16 @@ entries:
   categories:
   - kvinnojour
   web: https://www.unizonjourer.se/kvinnojourenannfrid/
+
+- entry: 1233022837
+  orgName: Kajs Fisk o Rökeri / Stefan Dahlstrand
+  orgNumber: 740626-XXXX
+  comment: null
+  categories:
+  - försäljning
+  - livsmedel
+  - rökeri
+  web: https://kajsfiskrokeri.se/
 
 - entry: 1233023389
   orgName: Dvärgschnauzerringen
@@ -77192,6 +77266,16 @@ entries:
   - innebandyklubb
   web: https://www.svenskalag.se/flodaibk
 
+- entry: 1234580502
+  orgName: Cubik Textil & Agentur AB
+  orgNumber: 556269-9339
+  comment: null
+  categories:
+  - agentur
+  - textil
+  - yrkeskläder
+  web: https://cubik.se/
+
 - entry: 1234580676
   orgName: Södermöre Pastorat
   orgNumber: 252003-4956
@@ -85124,6 +85208,15 @@ entries:
   - dansundervisning
   web: https://godmoves.se/
 
+- entry: 1235112693
+  orgName: Moshults Vandrarhem / Leif Berglund
+  orgNumber: 650501-XXXX
+  comment: null
+  categories:
+  - logi
+  - vandrarhem
+  web: https://www.moshultsvandrarhem.com/
+
 - entry: 1235112743
   orgName: Kiruna AIF Ishockey
   orgNumber: 802496-0687
@@ -86339,6 +86432,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/karlsborg
+
+- entry: 1235150537
+  orgName: Barkarby Trafikskola AB
+  orgNumber: 556958-1704
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://www.barkarbytrafikskola.se/
 
 - entry: 1235151063
   orgName: Svenska Europainkasso AB
@@ -90343,7 +90445,9 @@ entries:
   comment: null
   categories:
   - försäljning
+  - textil
   - tillverkning
+  - trikå
   web: https://www.ratrika.se/
 
 - entry: 1235398029
@@ -90351,6 +90455,7 @@ entries:
   orgNumber: 556227-9942
   comment: Prenumeration Plaza Magazine
   categories:
+  - mediaproduktion
   - tidsskrifter
   web: https://plaza.se/
 
@@ -95366,6 +95471,18 @@ entries:
   - fotograf
   web: https://www.zahlo.se/
 
+- entry: 1235679006
+  orgName: Skärmflygskolan Stockholm HB
+  orgNumber: 969784-4091
+  comment: null
+  categories:
+  - fallskärmsklubb
+  - kurser
+  - paragliding
+  - skärmflygning
+  - utbildning
+  web: https://www.paraglidingstockholm.se/
+
 - entry: 1235679394
   orgName: Arvika Motorbåtsklubb, AMBK
   orgNumber: 872000-0044
@@ -99608,6 +99725,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/landvetterharryda
 
+- entry: 1235935341
+  orgName: Västafrikahjälpen
+  orgNumber: 802449-5635
+  comment: null
+  categories:
+  - hjälporganisation
+  - humanitär hjälpverksamhet
+  web: https://www.vastafrikahjalpen.org/
+
 - entry: 1235935382
   orgName: Familjebutiken Calimero AB
   orgNumber: 556737-6560
@@ -102239,6 +102365,15 @@ entries:
   - boxningsklubb
   - idrottsförening
   web: https://www.svenskalag.se/bkringen
+
+- entry: 1236111561
+  orgName: THE ENGLISH SCHOOL GOTHENBURG
+  orgNumber: 855100-9148
+  comment: null
+  categories:
+  - grundskola
+  - skola
+  web: https://www.theenglishschool.se/
 
 - entry: 1236111744
   orgName: AMAL Sweden / Amal Express Ekonomisk Förening
@@ -106870,6 +107005,15 @@ entries:
   - kontorsinredning
   web: https://borett.se/
 
+- entry: 1236379267
+  orgName: Lunds akademiska körförening
+  orgNumber: 845001-1013
+  comment: null
+  categories:
+  - körsång
+  - musikförening
+  web: https://lak.se/
+
 - entry: 1236379887
   orgName: Västerås SK Bandy
   orgNumber: 878001-4638
@@ -107682,6 +107826,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-kalmar/foreningar/graniten-kalmar.html
+
+- entry: 1236432652
+  orgName: Parc Monceau Publishing AB
+  orgNumber: 559218-0284
+  comment: null
+  categories:
+  - bokutgivning
+  - förlag
+  web: https://parcmonceau.se/
 
 - entry: 1236433106
   orgName: Calles Loge / Carl-Bertil Gullberg
@@ -109028,6 +109181,18 @@ entries:
   - pensionärsklubb
   - religion
   web: https://www.ljungbyrpg.se/
+
+- entry: 1236517684
+  orgName: Norrveda Ponnystuteri
+  orgNumber: 934001-6709
+  comment: null
+  categories:
+  - hästavel
+  - hästgård
+  - hästklubb
+  - hästsport
+  - hästuppfödning
+  web: https://www.norrveda.se/
 
 - entry: 1236517767
   orgName: Örnsköldsviks Goju Ryu Karateklubb
@@ -113872,6 +114037,15 @@ entries:
   - segelsällskap
   web: https://www.svenskalag.se/arvikass
 
+- entry: 1236800189
+  orgName: Den Väntades Vänner
+  orgNumber: 252004-9830
+  comment: null
+  categories:
+  - bokhandel
+  - religion
+  web: https://dvv.se/
+
 - entry: 1236800270
   orgName: Mångbergs & Holens Fäbodlag
   orgNumber: 884400-8568
@@ -116730,6 +116904,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/orbyskene
 
+- entry: 1236968572
+  orgName: Karlskoga-Degerfors Baptistförsamling
+  orgNumber: 876400-1783
+  comment: null
+  categories:
+  - religion
+  web: https://www.karlskogabaptist.se/
+
 - entry: 1236968655
   orgName: IFK Hedemora FK
   orgNumber: 882000-4565
@@ -116943,6 +117125,16 @@ entries:
   - intresseorganisation
   - nätverksgrupp
   web: https://www.gruppandersson.se/
+
+- entry: 1236991046
+  orgName: Båstad Båt- och Segelsällskap
+  orgNumber: 839400-3274
+  comment: null
+  categories:
+  - båtklubb
+  - segelklubb
+  - segelsällskap
+  web: https://www.bbss.se/
 
 - entry: 1236991145
   orgName: AD-Teknik AB
