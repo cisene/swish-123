@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-14-rev-205609
+Revision: 2024-11-15-rev-191127
 
-Nummer: 13557
+Nummer: 13582
 
 
 
@@ -498,6 +498,13 @@ Nummer: 13557
 **Afasiföreningen i Malmö med omnejd**
 
     123 513 53 89
+
+
+
+
+**Afflux Water AB**
+
+    123 127 98 19
 
 
 
@@ -1711,6 +1718,13 @@ Nummer: 13557
 **American Akita Klubb Sverige**
 
     123 667 82 62
+
+
+
+
+**Americars i Höör**
+
+    123 688 54 53
 
 
 
@@ -5915,6 +5929,13 @@ Nummer: 13557
 
 
 
+**Boo Backlunds Minnesfond**
+
+    123 201 39 36
+
+
+
+
 **Boo Folkets Hus Föreningen**
 
     123 174 70 39
@@ -7847,6 +7868,13 @@ Nummer: 13557
 
 
 
+**Brottsofferjouren**
+
+    123 170 42 87 - Västmanland
+
+
+
+
 **Brottsofferjouren Borås-Sjuhärad**
 
     123 071 48 24
@@ -7920,13 +7948,6 @@ Nummer: 13557
 **Brottsofferjouren Värmland, BOJ**
 
     123 439 42 19
-
-
-
-
-**Brottsofferjouren Västmanland**
-
-    123 170 42 87
 
 
 
@@ -8031,7 +8052,11 @@ Nummer: 13557
 
 **Brunnsparkskyrkan**
 
-    123 682 66 63
+    123 034 64 94 - Byggfonden
+
+    123 099 70 15 - Missionskassan
+
+    123 682 66 63 - Församlingskassan
 
 
 
@@ -9038,6 +9063,13 @@ Nummer: 13557
 
 
 
+**Calexico Design AB**
+
+    123 091 55 87
+
+
+
+
 **Calles Loge / Carl-Bertil Gullberg**
 
     123 643 31 06
@@ -9441,6 +9473,13 @@ Nummer: 13557
 **Centrumkyrkan i Finspång**
 
     123 561 59 50
+
+
+
+
+**Centrumkyrkan i Staffanstorp**
+
+    123 156 61 40
 
 
 
@@ -11436,6 +11475,13 @@ Nummer: 13557
 
 
 
+**Djurskyddet Gotland**
+
+    123 302 44 86
+
+
+
+
 **Djurskyddet i Nyköping**
 
     123 360 26 79
@@ -13280,6 +13326,13 @@ Nummer: 13557
 **ELM Vittsjö**
 
     123 527 67 53
+
+
+
+
+**Elsa Berggren AB**
+
+    123 439 99 11
 
 
 
@@ -17070,6 +17123,13 @@ Nummer: 13557
 
 
 
+**Fredrik D Anderssons Minnesfond**
+
+    123 136 25 32
+
+
+
+
 **Fredrik Schmids IT-Service**
 
     123 030 22 81
@@ -18891,6 +18951,13 @@ Nummer: 13557
 **Föreningen Furuboda**
 
     123 900 59 43
+
+
+
+
+**Föreningen Fyrhuset**
+
+    123 267 14 44
 
 
 
@@ -25951,6 +26018,13 @@ Nummer: 13557
 
 
 
+**HorseGuard Stängsel och Franska Elbandet AB**
+
+    123 143 99 00
+
+
+
+
 **Horses Coffee and Western Riders**
 
     123 577 39 65
@@ -29035,6 +29109,13 @@ Nummer: 13557
 
 
 
+**IK Fryken**
+
+    123 534 68 95
+
+
+
+
 **IK Fyris Uppsala**
 
     123 510 68 51 - Curling
@@ -31317,6 +31398,13 @@ Nummer: 13557
 **Jonas Vildmark Bushcraftcenter - Lienshyttans Herrgård AB**
 
     123 232 56 11
+
+
+
+
+**JonBengtssätern Stödföreningen Barncancerstugan**
+
+    123 114 80 97
 
 
 
@@ -39834,6 +39922,13 @@ Nummer: 13557
 
 
 
+**Livsval**
+
+    123 184 33 90
+
+
+
+
 **Ljudkonstgalleriet**
 
     123 349 05 05
@@ -41083,6 +41178,15 @@ Nummer: 13557
 **Lysingbadets GK**
 
     123 042 87 06
+
+
+
+
+**Lysviks Församling**
+
+    123 344 20 50 - Minnesfond
+
+    123 593 28 68
 
 
 
@@ -43619,6 +43723,13 @@ Nummer: 13557
 **Motala Golfklubb**
 
     123 378 41 13
+
+
+
+
+**Motala Jazz- och Bluesklubb**
+
+    123 395 92 69
 
 
 
@@ -46199,6 +46310,13 @@ Nummer: 13557
     123 365 11 71 - SKUT, Svenska kyrkan i Utlandet
 
     123 427 25 14 - Serveringsavgift
+
+
+
+
+**Norrgym AB**
+
+    123 085 46 95
 
 
 
@@ -48813,6 +48931,13 @@ Nummer: 13557
 **Peter o Susanne Bowling AB**
 
     123 018 66 84
+
+
+
+
+**Petit Plaisir AB**
+
+    123 293 94 11
 
 
 
@@ -54132,6 +54257,13 @@ Nummer: 13557
 
 
 
+**Royal Limousine Gbg AB**
+
+    123 343 17 98
+
+
+
+
 **Royal Thai Embassy / Royal Thai Consulate**
 
     123 381 87 62
@@ -57546,6 +57678,13 @@ Nummer: 13557
 **Skara Idrottshistoriska Förening**
 
     123 203 40 80
+
+
+
+
+**Skara-Lundsbrunns Järnvägar, SkLJ**
+
+    123 511 60 66
 
 
 
@@ -62753,6 +62892,13 @@ Nummer: 13557
 **Stiftelsen Samiska Minnesfonden**
 
     123 299 49 29
+
+
+
+
+**Stiftelsen SELMA, Stiftelse för Evangeliskt-Lutherskt Missionsarbete i Afrika**
+
+    123 077 83 08
 
 
 
@@ -78060,6 +78206,13 @@ Nummer: 13557
 
 
 
+**Västmanlands Läns Taxklubb**
+
+    123 158 56 52
+
+
+
+
 **Västmanlands Ornitologiska Förening**
 
     123 577 03 18
@@ -79437,6 +79590,13 @@ Nummer: 13557
 **YOGAVI / Ulrika Wee-Ellis**
 
     123 693 49 47
+
+
+
+
+**Youngsters Oasrörelsen**
+
+    123 351 59 62
 
 
 
