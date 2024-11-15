@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-15-rev-191127
+Revision: 2024-11-15-rev-210347
 
-Nummer: 13582
+Nummer: 13587
 
 
 
@@ -2770,6 +2770,13 @@ Nummer: 13582
 **Askersunds IBK**
 
     123 346 77 27
+
+
+
+
+**Askersunds Småbåtshamn**
+
+    123 514 90 34
 
 
 
@@ -13006,6 +13013,13 @@ Nummer: 13582
 
 
 
+**Eksjö Badmintonförening**
+
+    123 502 09 38
+
+
+
+
 **Eksjö Bridgeklubb**
 
     123 637 28 41
@@ -20313,6 +20327,13 @@ Nummer: 13582
 **G-A Muaythai**
 
     123 155 58 95
+
+
+
+
+**G:a Prästgården i Rörum AB**
+
+    123 566 47 01
 
 
 
@@ -51855,6 +51876,13 @@ Nummer: 13582
 
 
 
+**PS Hundnytta / Pernilla Stenqvist**
+
+    123 083 44 40
+
+
+
+
 **PSALTO - Kristna Dansgemenskapen i Skandinavien**
 
     123 162 33 54
@@ -52269,6 +52297,13 @@ Nummer: 13582
 **Ransta Nästa Bygdegårdsförening**
 
     123 304 80 97
+
+
+
+
+**Ranstaby Fritidsförening**
+
+    123 441 71 27
 
 
 

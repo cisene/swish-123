@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-15-rev-191049",
+    "date": "2024-11-15-rev-210311",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -17493,6 +17493,18 @@
         "motorsport"
       ],
       "web": "https://www.svenskalag.se/amk"
+    },
+    {
+      "entry": 1230834440,
+      "orgName": "PS Hundnytta / Pernilla Stenqvist",
+      "orgNumber": "821116-XXXX",
+      "comment": null,
+      "categories": [
+        "hundkurser",
+        "hundsport",
+        "valpkurs"
+      ],
+      "web": "https://www.pshundnytta.se/"
     },
     {
       "entry": 1230835025,
@@ -52359,7 +52371,8 @@
       "orgNumber": "556444-2274",
       "comment": null,
       "categories": [
-        "trafikskola"
+        "trafikskola",
+        "utbildning"
       ],
       "web": "https://www.staffanstrafikskola.se/"
     },
@@ -79126,6 +79139,7 @@
       "orgNumber": "560216-XXXX",
       "comment": null,
       "categories": [
+        "konstn\u00e4r",
         "medium",
         "spiritualism"
       ],
@@ -90905,6 +90919,16 @@
       "web": "https://www.selmalagerlof.org/"
     },
     {
+      "entry": 1234417127,
+      "orgName": "Ranstaby Fritidsf\u00f6rening",
+      "orgNumber": "879500-5266",
+      "comment": null,
+      "categories": [
+        "fritidsf\u00f6rening"
+      ],
+      "web": "https://www.ranstaby.se/"
+    },
+    {
       "entry": 1234417630,
       "orgName": "Flamman",
       "orgNumber": "797000-1819",
@@ -101735,6 +101759,17 @@
       "web": "https://www.laget.se/KFUMOstersundBasketUngdom/"
     },
     {
+      "entry": 1235020938,
+      "orgName": "Eksj\u00f6 Badmintonf\u00f6rening",
+      "orgNumber": "827000-6144",
+      "comment": null,
+      "categories": [
+        "badmintonklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://eksjobadminton.se/"
+    },
+    {
       "entry": 1235021001,
       "orgName": "Svanesunds B\u00e5tklubb",
       "orgNumber": "858500-9577",
@@ -105088,6 +105123,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/partille"
+    },
+    {
+      "entry": 1235149034,
+      "orgName": "Askersunds Sm\u00e5b\u00e5tshamn",
+      "orgNumber": "716411-6506",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "hamnf\u00f6rening"
+      ],
+      "web": "http://www.batklubben.se/"
     },
     {
       "entry": 1235149182,
@@ -115843,6 +115889,20 @@
       "web": "https://uppsalabiodlare.se/"
     },
     {
+      "entry": 1235664701,
+      "orgName": "G:a Pr\u00e4stg\u00e5rden i R\u00f6rum AB",
+      "orgNumber": "556925-6893",
+      "comment": null,
+      "categories": [
+        "byggnadshantverk",
+        "byggnadskonst",
+        "byggnadsrenovering",
+        "logi",
+        "\u00f6vernattning"
+      ],
+      "web": "https://gaprastgarden.se/"
+    },
+    {
       "entry": 1235664768,
       "orgName": "SK Iron",
       "orgNumber": "817600-3120",
@@ -126214,6 +126274,7 @@
       "comment": null,
       "categories": [
         "h\u00e4stsport",
+        "ridleder",
         "ridsport"
       ],
       "web": "https://ridledertiveden.se/"

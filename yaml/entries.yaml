@@ -14394,6 +14394,16 @@ entries:
   - motorsport
   web: https://www.svenskalag.se/amk
 
+- entry: 1230834440
+  orgName: PS Hundnytta / Pernilla Stenqvist
+  orgNumber: 821116-XXXX
+  comment: null
+  categories:
+  - hundkurser
+  - hundsport
+  - valpkurs
+  web: https://www.pshundnytta.se/
+
 - entry: 1230835025
   orgName: Simklubben Triton
   orgNumber: 845000-7474
@@ -43158,6 +43168,7 @@ entries:
   comment: null
   categories:
   - trafikskola
+  - utbildning
   web: https://www.staffanstrafikskola.se/
 
 - entry: 1232455327
@@ -65231,6 +65242,7 @@ entries:
   orgNumber: 560216-XXXX
   comment: null
   categories:
+  - konstnär
   - medium
   - spiritualism
   web: https://yourlight.se/
@@ -74941,6 +74953,14 @@ entries:
   - intresseförening
   web: https://www.selmalagerlof.org/
 
+- entry: 1234417127
+  orgName: Ranstaby Fritidsförening
+  orgNumber: 879500-5266
+  comment: null
+  categories:
+  - fritidsförening
+  web: https://www.ranstaby.se/
+
 - entry: 1234417630
   orgName: Flamman
   orgNumber: 797000-1819
@@ -83822,6 +83842,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/KFUMOstersundBasketUngdom/
 
+- entry: 1235020938
+  orgName: Eksjö Badmintonförening
+  orgNumber: 827000-6144
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://eksjobadminton.se/
+
 - entry: 1235021001
   orgName: Svanesunds Båtklubb
   orgNumber: 858500-9577
@@ -86588,6 +86617,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
+
+- entry: 1235149034
+  orgName: Askersunds Småbåtshamn
+  orgNumber: 716411-6506
+  comment: null
+  categories:
+  - båtklubb
+  - hamnförening
+  web: http://www.batklubben.se/
 
 - entry: 1235149182
   orgName: Abisko Intresseförening
@@ -95433,6 +95471,18 @@ entries:
   - förening
   web: https://uppsalabiodlare.se/
 
+- entry: 1235664701
+  orgName: G:a Prästgården i Rörum AB
+  orgNumber: 556925-6893
+  comment: null
+  categories:
+  - byggnadshantverk
+  - byggnadskonst
+  - byggnadsrenovering
+  - logi
+  - övernattning
+  web: https://gaprastgarden.se/
+
 - entry: 1235664768
   orgName: SK Iron
   orgNumber: 817600-3120
@@ -104053,6 +104103,7 @@ entries:
   comment: null
   categories:
   - hästsport
+  - ridleder
   - ridsport
   web: https://ridledertiveden.se/
 
