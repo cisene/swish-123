@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-15-rev-210347
+Revision: 2024-11-16-rev-142011
 
-Nummer: 13587
+Nummer: 13598
 
 
 
@@ -9633,6 +9633,13 @@ Nummer: 13587
 
 
 
+**Chefsassistenterna Stockholm**
+
+    123 223 51 17
+
+
+
+
 **Chikondi Chimodzi Child Care Centre**
 
     123 269 28 46
@@ -15839,6 +15846,13 @@ Nummer: 13587
 **Fem i Topp / Firma Carl Johan Östling AB**
 
     123 500 69 52
+
+
+
+
+**Fembyarna förening**
+
+    123 296 99 47
 
 
 
@@ -25259,6 +25273,13 @@ Nummer: 13587
 **HGH FC**
 
     123 617 12 35
+
+
+
+
+**Hietala Trädgård AB**
+
+    123 020 25 80
 
 
 
@@ -39378,6 +39399,13 @@ Nummer: 13587
 
 
 
+**Lions Club Kilsbergen**
+
+    123 162 55 16
+
+
+
+
 **Lions Club Kinna-Skene**
 
     123 644 98 96
@@ -44515,6 +44543,13 @@ Nummer: 13587
 **Mälarö Brukshundsklubb**
 
     123 464 21 95
+
+
+
+
+**Mälaröarnas Ridklubb**
+
+    123 126 10 31
 
 
 
@@ -55079,6 +55114,13 @@ Nummer: 13587
 
 
 
+**Råå Vattenskidklubb**
+
+    123 424 74 09
+
+
+
+
 **Råå-Åns Fiskevårdsområdesförening Anno ÅR 2000**
 
     123 249 34 84
@@ -64310,6 +64352,13 @@ Nummer: 13587
 
 
 
+**StudentFabriken AB**
+
+    123 467 65 16
+
+
+
+
 **Studentkåren i Sundsvall**
 
     123 007 39 24 - Journalistförbundet Sundsvall
@@ -65313,6 +65362,13 @@ Nummer: 13587
 **Svensk-Etiopiska Föreningen**
 
     123 633 91 54
+
+
+
+
+**Svensk Flöjt**
+
+    123 640 22 67
 
 
 
@@ -68301,6 +68357,13 @@ Nummer: 13587
 
 
 
+**Söderhamns Kust & Skärgårdsförening**
+
+    123 363 55 54
+
+
+
+
 **Söderhamns SS**
 
     123 026 87 63
@@ -69106,6 +69169,13 @@ Nummer: 13587
 **Tandläkare Sandbacka / Dental Rental Aktiebolag**
 
     123 527 86 43
+
+
+
+
+**Tango Blekinge**
+
+    123 520 72 20
 
 
 
@@ -72569,6 +72639,13 @@ Nummer: 13587
 **Trädgårdstrollet / Jasmine Waara**
 
     123 638 63 79
+
+
+
+
+**Trädgårdsveckan i Uppland**
+
+    123 478 66 79
 
 
 

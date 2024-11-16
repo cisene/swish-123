@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-15-rev-210311",
+    "date": "2024-11-16-rev-141935",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3973,6 +3973,17 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://www.essingeport.se/"
+    },
+    {
+      "entry": 1230202580,
+      "orgName": "Hietala Tr\u00e4dg\u00e5rd AB",
+      "orgNumber": "556523-0041",
+      "comment": null,
+      "categories": [
+        "handelstr\u00e4dg\u00e5rd",
+        "tr\u00e4dg\u00e5rdsodling"
+      ],
+      "web": "https://www.hietala.se/"
     },
     {
       "entry": 1230204438,
@@ -12706,7 +12717,8 @@
       "orgNumber": "802540-5922",
       "comment": null,
       "categories": [
-        "intressef\u00f6rening"
+        "intressef\u00f6rening",
+        "yrkesf\u00f6rening"
       ],
       "web": "https://lakaruppropet.se/"
     },
@@ -27203,6 +27215,17 @@
       "web": "https://www.munskankarna.se/sv/regioner/stor-stockholm-sodra/saltsjobaden/"
     },
     {
+      "entry": 1231261031,
+      "orgName": "M\u00e4lar\u00f6arnas Ridklubb",
+      "orgNumber": "815200-5917",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb"
+      ],
+      "web": "https://www.malaroarnasridklubb.se/"
+    },
+    {
       "entry": 1231262393,
       "orgName": "Leufstabruk Bryggeri AB",
       "orgNumber": "556808-7976",
@@ -34935,6 +34958,16 @@
         "bilv\u00e5rd"
       ],
       "web": "https://www.al-siweedi.se/"
+    },
+    {
+      "entry": 1231625516,
+      "orgName": "Lions Club Kilsbergen",
+      "orgNumber": "802505-8820",
+      "comment": null,
+      "categories": [
+        "lionsklubb"
+      ],
+      "web": "https://lionskilsbergen.se/"
     },
     {
       "entry": 1231625607,
@@ -47326,6 +47359,17 @@
       "web": "https://www.hurk.nu/"
     },
     {
+      "entry": 1232235117,
+      "orgName": "Chefsassistenterna Stockholm",
+      "orgNumber": "802005-4006",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "yrkesf\u00f6rening"
+      ],
+      "web": "https://cassto.se/"
+    },
+    {
       "entry": 1232235695,
       "orgName": "PRO Lysekil",
       "orgNumber": "854600-5235",
@@ -49286,7 +49330,9 @@
       "orgNumber": "802464-9827",
       "comment": null,
       "categories": [
-        "naturv\u00e5rd"
+        "intressef\u00f6rening",
+        "naturv\u00e5rd",
+        "strandst\u00e4dning"
       ],
       "web": "https://www.strandstadarna.se/"
     },
@@ -62572,6 +62618,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232969947,
+      "orgName": "Fembyarna f\u00f6rening",
+      "orgNumber": "769638-2931",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.fembyarna.se/"
     },
     {
       "entry": 1232975373,
@@ -76358,6 +76414,17 @@
       "web": "https://www.virserumskonsthall.com/"
     },
     {
+      "entry": 1233635554,
+      "orgName": "S\u00f6derhamns Kust & Sk\u00e4rg\u00e5rdsf\u00f6rening",
+      "orgNumber": "886000-5159",
+      "comment": null,
+      "categories": [
+        "kulturf\u00f6rening",
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://www.skargardsforeningen.se/"
+    },
+    {
       "entry": 1233635802,
       "orgName": "Hallsbergs Ridklubb",
       "orgNumber": "875700-4745",
@@ -87994,6 +88061,17 @@
       "web": "https://www.hembygd.se/lunda"
     },
     {
+      "entry": 1234247409,
+      "orgName": "R\u00e5\u00e5 Vattenskidklubb",
+      "orgNumber": "802436-2793",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "vattenskidklubb"
+      ],
+      "web": "https://www.vattenskidor-helsingborg.se/"
+    },
+    {
       "entry": 1234247896,
       "orgName": "S\u00e4ve R\u00f6dbo Hembygdsf\u00f6rening",
       "orgNumber": "802435-7868",
@@ -96215,6 +96293,17 @@
       "web": "https://equmeniakyrkanhemsjo.se/"
     },
     {
+      "entry": 1234676516,
+      "orgName": "StudentFabriken AB",
+      "orgNumber": "556892-5563",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "studenttj\u00e4nster"
+      ],
+      "web": "https://studentfabriken.se/"
+    },
+    {
       "entry": 1234676524,
       "orgName": "Ekhagens IF",
       "orgNumber": "826001-1963",
@@ -97972,6 +98061,17 @@
         "massage"
       ],
       "web": "https://www.fotfixaren.se/"
+    },
+    {
+      "entry": 1234786679,
+      "orgName": "Tr\u00e4dg\u00e5rdsveckan i Uppland",
+      "orgNumber": "802545-6065",
+      "comment": null,
+      "categories": [
+        "tr\u00e4dg\u00e5rdsf\u00f6rening",
+        "tr\u00e4dg\u00e5rdsodling"
+      ],
+      "web": "https://tradgardsveckan.com/"
     },
     {
       "entry": 1234789103,
@@ -106263,6 +106363,19 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/Waskepparslov/"
+    },
+    {
+      "entry": 1235207220,
+      "orgName": "Tango Blekinge",
+      "orgNumber": "802470-7955",
+      "comment": null,
+      "categories": [
+        "dansf\u00f6rening",
+        "danskurser",
+        "dansundervisning",
+        "workshop"
+      ],
+      "web": "https://tangoblekinge.se/"
     },
     {
       "entry": 1235208434,
@@ -130480,6 +130593,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle/foreningar/bomhus.html"
+    },
+    {
+      "entry": 1236402267,
+      "orgName": "Svensk Fl\u00f6jt",
+      "orgNumber": "802473-8760",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://svenskflojt.se/"
     },
     {
       "entry": 1236402309,

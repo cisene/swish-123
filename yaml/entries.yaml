@@ -3275,6 +3275,15 @@ entries:
   - bostadsrättsförening
   web: https://www.essingeport.se/
 
+- entry: 1230202580
+  orgName: Hietala Trädgård AB
+  orgNumber: 556523-0041
+  comment: null
+  categories:
+  - handelsträdgård
+  - trädgårdsodling
+  web: https://www.hietala.se/
+
 - entry: 1230204438
   orgName: VIK Västerås Hockeyklubb
   orgNumber: 817605-3166
@@ -10464,6 +10473,7 @@ entries:
   comment: null
   categories:
   - intresseförening
+  - yrkesförening
   web: https://lakaruppropet.se/
 
 - entry: 1230601922
@@ -22412,6 +22422,15 @@ entries:
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/stor-stockholm-sodra/saltsjobaden/
 
+- entry: 1231261031
+  orgName: Mälaröarnas Ridklubb
+  orgNumber: 815200-5917
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://www.malaroarnasridklubb.se/
+
 - entry: 1231262393
   orgName: Leufstabruk Bryggeri AB
   orgNumber: 556808-7976
@@ -28785,6 +28804,14 @@ entries:
   - bilservice
   - bilvård
   web: https://www.al-siweedi.se/
+
+- entry: 1231625516
+  orgName: Lions Club Kilsbergen
+  orgNumber: 802505-8820
+  comment: null
+  categories:
+  - lionsklubb
+  web: https://lionskilsbergen.se/
 
 - entry: 1231625607
   orgName: Idåsen IF
@@ -38988,6 +39015,15 @@ entries:
   - ridsport
   web: https://www.hurk.nu/
 
+- entry: 1232235117
+  orgName: Chefsassistenterna Stockholm
+  orgNumber: 802005-4006
+  comment: null
+  categories:
+  - intresseförening
+  - yrkesförening
+  web: https://cassto.se/
+
 - entry: 1232235695
   orgName: PRO Lysekil
   orgNumber: 854600-5235
@@ -40622,7 +40658,9 @@ entries:
   orgNumber: 802464-9827
   comment: null
   categories:
+  - intresseförening
   - naturvård
+  - strandstädning
   web: https://www.strandstadarna.se/
 
 - entry: 1232307114
@@ -51569,6 +51607,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1232969947
+  orgName: Fembyarna förening
+  orgNumber: 769638-2931
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.fembyarna.se/
 
 - entry: 1232975373
   orgName: Njurunda Slöjdförening och Vävstugan
@@ -62947,6 +62993,15 @@ entries:
   - museum
   web: https://www.virserumskonsthall.com/
 
+- entry: 1233635554
+  orgName: Söderhamns Kust & Skärgårdsförening
+  orgNumber: 886000-5159
+  comment: null
+  categories:
+  - kulturförening
+  - samhällsförening
+  web: https://www.skargardsforeningen.se/
+
 - entry: 1233635802
   orgName: Hallsbergs Ridklubb
   orgNumber: 875700-4745
@@ -72525,6 +72580,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/lunda
 
+- entry: 1234247409
+  orgName: Råå Vattenskidklubb
+  orgNumber: 802436-2793
+  comment: null
+  categories:
+  - idrottsförening
+  - vattenskidklubb
+  web: https://www.vattenskidor-helsingborg.se/
+
 - entry: 1234247896
   orgName: Säve Rödbo Hembygdsförening
   orgNumber: 802435-7868
@@ -79308,6 +79372,15 @@ entries:
   - religion
   web: https://equmeniakyrkanhemsjo.se/
 
+- entry: 1234676516
+  orgName: StudentFabriken AB
+  orgNumber: 556892-5563
+  comment: null
+  categories:
+  - försäljning
+  - studenttjänster
+  web: https://studentfabriken.se/
+
 - entry: 1234676524
   orgName: Ekhagens IF
   orgNumber: 826001-1963
@@ -80744,6 +80817,15 @@ entries:
   - massage
   web: https://www.fotfixaren.se/
 
+- entry: 1234786679
+  orgName: Trädgårdsveckan i Uppland
+  orgNumber: 802545-6065
+  comment: null
+  categories:
+  - trädgårdsförening
+  - trädgårdsodling
+  web: https://tradgardsveckan.com/
+
 - entry: 1234789103
   orgName: Podcasten Brottarbröder
   orgNumber: 559318-1604
@@ -81632,6 +81714,13 @@ entries:
   - dansundervisning
   - ideell förening
   web: https://tangorama.se/
+
+- entry: 1234860128
+  orgName: Sankta Katarina - Katolska Kyrkan i Trelleborg
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.katolskakyrkantrelleborg.com/
 
 - entry: 1234860367
   orgName: Himledalens Församling
@@ -87570,6 +87659,17 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/Waskepparslov/
+
+- entry: 1235207220
+  orgName: Tango Blekinge
+  orgNumber: 802470-7955
+  comment: null
+  categories:
+  - dansförening
+  - danskurser
+  - dansundervisning
+  - workshop
+  web: https://tangoblekinge.se/
 
 - entry: 1235208434
   orgName: Råda IK
@@ -107578,6 +107678,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle/foreningar/bomhus.html
+
+- entry: 1236402267
+  orgName: Svensk Flöjt
+  orgNumber: 802473-8760
+  comment: null
+  categories:
+  - intresseförening
+  web: https://svenskflojt.se/
 
 - entry: 1236402309
   orgName: Sollebrunns AIK
