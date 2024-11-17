@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-16-rev-141935",
+    "date": "2024-11-17-rev-162032",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4412,6 +4412,18 @@
         "golfklubb"
       ],
       "web": "https://dgk.nu/"
+    },
+    {
+      "entry": 1230226779,
+      "orgName": "Gr\u00e4s\u00f6 Sk\u00f6tb\u00e5tsf\u00f6rening",
+      "orgNumber": "802487-6552",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5ts\u00e4llskap",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://graso-sf.se/"
     },
     {
       "entry": 1230227017,
@@ -18963,6 +18975,19 @@
       "web": "https://gppf.se/"
     },
     {
+      "entry": 1230882845,
+      "orgName": "Abborresj\u00f6ns Fiskev\u00e5rdsf\u00f6rening",
+      "orgNumber": "863500-3141",
+      "comment": "Fiskekort",
+      "categories": [
+        "fiskeklubb",
+        "fiskekort",
+        "fiskev\u00e5rdsf\u00f6rening",
+        "fiskev\u00e5rdsomr\u00e5de"
+      ],
+      "web": "https://www.abborresjon.se/"
+    },
+    {
       "entry": 1230883116,
       "orgName": "Deila och d\u00e5tiden AB",
       "orgNumber": "559220-4092",
@@ -25360,6 +25385,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/skane/kommun/lund/pro-veberod"
+    },
+    {
+      "entry": 1231173079,
+      "orgName": "Trelleborgs Hundarena AB",
+      "orgNumber": "559245-2477",
+      "comment": null,
+      "categories": [
+        "hundkurser",
+        "hundsport"
+      ],
+      "web": "https://trelleborgshundarena.se/"
     },
     {
       "entry": 1231173939,
@@ -40684,6 +40720,17 @@
       "web": "https://www.svenskakyrkan.se/finspang"
     },
     {
+      "entry": 1231902287,
+      "orgName": "Str\u00f6mstad Sl\u00e4ktforskare",
+      "orgNumber": "802525-1284",
+      "comment": null,
+      "categories": [
+        "genealogi",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://bohuslan.eu/"
+    },
+    {
       "entry": 1231902410,
       "orgName": "Borgunda IK",
       "orgNumber": "867800-3305",
@@ -55059,6 +55106,18 @@
       "web": "https://www.pingstlse.se/"
     },
     {
+      "entry": 1232634533,
+      "orgName": "LovelyLine Sandviken",
+      "orgNumber": "802502-6967",
+      "comment": null,
+      "categories": [
+        "dansf\u00f6rening",
+        "dansundervisning",
+        "linedanceklubb"
+      ],
+      "web": "https://lovelyline.se/"
+    },
+    {
       "entry": 1232635027,
       "orgName": "Jokkmokks F\u00f6rsamling",
       "orgNumber": "252004-0656",
@@ -64196,6 +64255,18 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/UmeaCity/"
+    },
+    {
+      "entry": 1233049269,
+      "orgName": "Dyk & Sport Gotland AB",
+      "orgNumber": "559046-5588",
+      "comment": null,
+      "categories": [
+        "dykning",
+        "f\u00f6rs\u00e4ljning",
+        "sportmaterial"
+      ],
+      "web": "https://dykochsportgotland.se/"
     },
     {
       "entry": 1233049277,
@@ -103765,6 +103836,7 @@
       "orgNumber": "802451-8360",
       "comment": null,
       "categories": [
+        "danskurser",
         "dansundervisning"
       ],
       "web": "https://godmoves.se/"
@@ -108138,6 +108210,17 @@
       "web": "https://jarnsida.nu/"
     },
     {
+      "entry": 1235290945,
+      "orgName": "\u00c5sa Askne AB",
+      "orgNumber": "559005-7419",
+      "comment": null,
+      "categories": [
+        "konsulttj\u00e4nster",
+        "r\u00e5dgivning"
+      ],
+      "web": "https://asknekommunikation.se/"
+    },
+    {
       "entry": 1235292131,
       "orgName": "\u00c4ngs\u00f6 R\u00f6da Korskrets",
       "orgNumber": "878001-5684",
@@ -108341,6 +108424,22 @@
         "kl\u00e4tterklubb"
       ],
       "web": "https://www.enkopingsklatterklubb.se/"
+    },
+    {
+      "entry": 1235304902,
+      "orgName": "F\u00f6reningen f\u00f6r Sociala Tj\u00e4nstehundar, FFSTH",
+      "orgNumber": "802445-3386",
+      "comment": null,
+      "categories": [
+        "bes\u00f6kshund",
+        "pedagoghund",
+        "skolhund",
+        "terapihund",
+        "tj\u00e4nstehundar",
+        "utbildning",
+        "v\u00e5rdhund"
+      ],
+      "web": "https://www.ffsth.se/"
     },
     {
       "entry": 1235305412,
@@ -110583,6 +110682,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/floby"
+    },
+    {
+      "entry": 1235411327,
+      "orgName": "Alega Software AB",
+      "orgNumber": "556698-3309",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "mjukvaruutveckling"
+      ],
+      "web": "https://alegasoftware.se/"
     },
     {
       "entry": 1235411921,
@@ -116100,6 +116210,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/uppsalabc90"
+    },
+    {
+      "entry": 1235667597,
+      "orgName": "Svenska Boxerklubben",
+      "orgNumber": "802460-4517",
+      "comment": "S\u00f6dra Lokalomr\u00e5det",
+      "categories": [
+        "hundklubb",
+        "hunduppf\u00f6dning"
+      ],
+      "web": "https://boxerklubben.org/index.php/valkommen-till-slo"
     },
     {
       "entry": 1235668876,
@@ -123553,13 +123674,13 @@
     },
     {
       "entry": 1236059927,
-      "orgName": "Brottsofferjouren i V\u00e4sterort",
+      "orgName": "Brottsofferjouren",
       "orgNumber": "802015-4822",
-      "comment": null,
+      "comment": "V\u00e4sterort",
       "categories": [
         "brottsofferjour"
       ],
-      "web": "https://www.brottsofferjouren.se/"
+      "web": "https://vasterort.boj.se/"
     },
     {
       "entry": 1236064067,
@@ -128814,6 +128935,17 @@
       "web": "https://latice.org/"
     },
     {
+      "entry": 1236298319,
+      "orgName": "Bred\u00e5kers Skoter- & Touring F\u00f6rening, BSTF",
+      "orgNumber": "897001-9090",
+      "comment": null,
+      "categories": [
+        "skoterklubb",
+        "touringklubb"
+      ],
+      "web": "https://www.bredaker-skoter.se/"
+    },
+    {
       "entry": 1236298509,
       "orgName": "V\u00e4dd\u00f6 IF",
       "orgNumber": "814400-2899",
@@ -133367,6 +133499,16 @@
       "web": "https://stabbyg\u00e5rdarna.se/"
     },
     {
+      "entry": 1236532964,
+      "orgName": "Sollefte\u00e5 Bluesf\u00f6rening",
+      "orgNumber": "802433-9304",
+      "comment": null,
+      "categories": [
+        "musikf\u00f6rening"
+      ],
+      "web": "https://slabluesforening.se/"
+    },
+    {
       "entry": 1236533194,
       "orgName": "Nyk\u00f6pings SG",
       "orgNumber": "819000-1845",
@@ -134313,6 +134455,18 @@
         "ridskola"
       ],
       "web": "https://vedbande.nu/"
+    },
+    {
+      "entry": 1236582340,
+      "orgName": "Sk\u00e5ningsm\u00e5la Mohair / Birgitta Arnesdotter",
+      "orgNumber": "620831-XXXX",
+      "comment": null,
+      "categories": [
+        "k\u00f6ttproducent",
+        "lantbruk",
+        "ullprodukter"
+      ],
+      "web": "https://www.skaningsmala.se/"
     },
     {
       "entry": 1236582399,
@@ -135553,6 +135707,17 @@
         "kennelklubb"
       ],
       "web": "https://www.skk.se/sv/GAKK/"
+    },
+    {
+      "entry": 1236662365,
+      "orgName": "Trafikskolan Evelina AB",
+      "orgNumber": "559103-3039",
+      "comment": null,
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://trafikskolanevelina.se/"
     },
     {
       "entry": 1236662381,
@@ -141058,6 +141223,16 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://www.stj\u00e4rnhusenmotala.se/"
+    },
+    {
+      "entry": 1236914154,
+      "orgName": "Brunnag\u00e5rden Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "817000-0940",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://brunnagarden.se/"
     },
     {
       "entry": 1236914766,

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-16-rev-142011
+Revision: 2024-11-17-rev-162107
 
-Nummer: 13598
+Nummer: 13613
 
 
 
@@ -179,6 +179,13 @@ Nummer: 13598
 **Abbekås Båtklubb**
 
     123 133 10 81
+
+
+
+
+**Abborresjöns Fiskevårdsförening**
+
+    123 088 28 45 - Fiskekort
 
 
 
@@ -1070,6 +1077,13 @@ Nummer: 13598
 **ALEF, Adult Learning and Empowerment Faciliators**
 
     123 900 21 71
+
+
+
+
+**Alega Software AB**
+
+    123 541 13 27
 
 
 
@@ -7603,6 +7617,13 @@ Nummer: 13598
 
 
 
+**Bredåkers Skoter- & Touring Förening, BSTF**
+
+    123 629 83 19
+
+
+
+
 **Brevens Bruks Hembygdsförening**
 
     123 278 70 18
@@ -7870,6 +7891,13 @@ Nummer: 13598
 
 **Brottsofferjouren**
 
+    123 605 99 27 - Västerort
+
+
+
+
+**Brottsofferjouren**
+
     123 208 89 53 - Nacka-Tyresö-Värmdö
 
 
@@ -7892,13 +7920,6 @@ Nummer: 13598
 **Brottsofferjouren Helsingborg**
 
     123 516 49 83
-
-
-
-
-**Brottsofferjouren i Västerort**
-
-    123 605 99 27
 
 
 
@@ -8018,6 +8039,13 @@ Nummer: 13598
 **Brunflo FK**
 
     123 245 53 27
+
+
+
+
+**Brunnagården Bygdegårdsförening**
+
+    123 691 41 54
 
 
 
@@ -12070,6 +12098,13 @@ Nummer: 13598
 **Dyk & Hav / Thomas Edin**
 
     123 214 90 11
+
+
+
+
+**Dyk & Sport Gotland AB**
+
+    123 304 92 69
 
 
 
@@ -19096,6 +19131,13 @@ Nummer: 13598
 
 
 
+**Föreningen för Sociala Tjänstehundar, FFSTH**
+
+    123 530 49 02
+
+
+
+
 **Föreningen för Sverigevänliga intressen, SamNytt**
 
     123 083 33 50
@@ -22087,6 +22129,13 @@ Nummer: 13598
 **Grästorps Kommun**
 
     123 213 68 77 - Bibliotek, förseningsavgift
+
+
+
+
+**Gräsö Skötbåtsförening**
+
+    123 022 67 79
 
 
 
@@ -40488,6 +40537,13 @@ Nummer: 13598
 
 
 
+**LovelyLine Sandviken**
+
+    123 263 45 33
+
+
+
+
 **Lovö Hembygdsförening**
 
     123 576 35 94
@@ -58798,6 +58854,13 @@ Nummer: 13598
 
 
 
+**Skåningsmåla Mohair / Birgitta Arnesdotter**
+
+    123 658 23 40
+
+
+
+
 **Skånska Körsällskapet**
 
     123 551 77 92
@@ -59655,6 +59718,13 @@ Nummer: 13598
 **Sollebrunns AIK**
 
     123 640 23 09
+
+
+
+
+**Sollefteå Bluesförening**
+
+    123 653 29 64
 
 
 
@@ -64282,6 +64352,13 @@ Nummer: 13598
 
 
 
+**Strömstad Släktforskare**
+
+    123 190 22 87
+
+
+
+
 **Strömstad Tanums KK**
 
     123 222 26 36
@@ -65718,6 +65795,13 @@ Nummer: 13598
 **Svenska Bowlingförbundet**
 
     123 538 40 86
+
+
+
+
+**Svenska Boxerklubben**
+
+    123 566 75 97 - Södra Lokalområdet
 
 
 
@@ -72177,6 +72261,13 @@ Nummer: 13598
 
 
 
+**Trafikskolan Evelina AB**
+
+    123 666 23 65
+
+
+
+
 **Train Station Brewery AB**
 
     123 287 32 14
@@ -72322,6 +72413,13 @@ Nummer: 13598
     123 120 93 11
 
     123 216 45 23 - Sopplunch
+
+
+
+
+**Trelleborgs Hundarena AB**
+
+    123 117 30 79
 
 
 
@@ -81099,6 +81197,13 @@ Nummer: 13598
 **Ås Båtklubb**
 
     123 370 89 97
+
+
+
+
+**Åsa Askne AB**
+
+    123 529 09 45
 
 
 

@@ -3636,6 +3636,16 @@ entries:
   - golfklubb
   web: https://dgk.nu/
 
+- entry: 1230226779
+  orgName: Gräsö Skötbåtsförening
+  orgNumber: 802487-6552
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  - kulturförening
+  web: https://graso-sf.se/
+
 - entry: 1230227017
   orgName: Eric Svensson Musik & Underhållning
   orgNumber: 880505-XXXX
@@ -15608,6 +15618,17 @@ entries:
   - pensionärsklubb
   web: https://gppf.se/
 
+- entry: 1230882845
+  orgName: Abborresjöns Fiskevårdsförening
+  orgNumber: 863500-3141
+  comment: Fiskekort
+  categories:
+  - fiskeklubb
+  - fiskekort
+  - fiskevårdsförening
+  - fiskevårdsområde
+  web: https://www.abborresjon.se/
+
 - entry: 1230883116
   orgName: Deila och dåtiden AB
   orgNumber: 559220-4092
@@ -20903,6 +20924,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/skane/kommun/lund/pro-veberod
+
+- entry: 1231173079
+  orgName: Trelleborgs Hundarena AB
+  orgNumber: 559245-2477
+  comment: null
+  categories:
+  - hundkurser
+  - hundsport
+  web: https://trelleborgshundarena.se/
 
 - entry: 1231173939
   orgName: Engsö Hembygds- och Intresseförening
@@ -33532,6 +33562,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/finspang
 
+- entry: 1231902287
+  orgName: Strömstad Släktforskare
+  orgNumber: 802525-1284
+  comment: null
+  categories:
+  - genealogi
+  - släktforskning
+  web: https://bohuslan.eu/
+
 - entry: 1231902410
   orgName: Borgunda IK
   orgNumber: 867800-3305
@@ -45390,6 +45429,16 @@ entries:
   - religion
   web: https://www.pingstlse.se/
 
+- entry: 1232634533
+  orgName: LovelyLine Sandviken
+  orgNumber: 802502-6967
+  comment: null
+  categories:
+  - dansförening
+  - dansundervisning
+  - linedanceklubb
+  web: https://lovelyline.se/
+
 - entry: 1232635027
   orgName: Jokkmokks Församling
   orgNumber: 252004-0656
@@ -52926,6 +52975,16 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/UmeaCity/
+
+- entry: 1233049269
+  orgName: Dyk & Sport Gotland AB
+  orgNumber: 559046-5588
+  comment: null
+  categories:
+  - dykning
+  - försäljning
+  - sportmaterial
+  web: https://dykochsportgotland.se/
 
 - entry: 1233049277
   orgName: Drakamöllans Vänner för Kultur och Vetenskap
@@ -85521,6 +85580,7 @@ entries:
   orgNumber: 802451-8360
   comment: null
   categories:
+  - danskurser
   - dansundervisning
   web: https://godmoves.se/
 
@@ -89109,6 +89169,15 @@ entries:
   - villaägareförening
   web: https://jarnsida.nu/
 
+- entry: 1235290945
+  orgName: Åsa Askne AB
+  orgNumber: 559005-7419
+  comment: null
+  categories:
+  - konsulttjänster
+  - rådgivning
+  web: https://asknekommunikation.se/
+
 - entry: 1235292131
   orgName: Ängsö Röda Korskrets
   orgNumber: 878001-5684
@@ -89275,6 +89344,20 @@ entries:
   - idrottsförening
   - klätterklubb
   web: https://www.enkopingsklatterklubb.se/
+
+- entry: 1235304902
+  orgName: Föreningen för Sociala Tjänstehundar, FFSTH
+  orgNumber: 802445-3386
+  comment: null
+  categories:
+  - besökshund
+  - pedagoghund
+  - skolhund
+  - terapihund
+  - tjänstehundar
+  - utbildning
+  - vårdhund
+  web: https://www.ffsth.se/
 
 - entry: 1235305412
   orgName: Povel Ramel-Sällskapet
@@ -91107,6 +91190,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/floby
+
+- entry: 1235411327
+  orgName: Alega Software AB
+  orgNumber: 556698-3309
+  comment: null
+  categories:
+  - försäljning
+  - mjukvaruutveckling
+  web: https://alegasoftware.se/
 
 - entry: 1235411921
   orgName: Korpen Vattenfalls IF Trollhättan
@@ -95652,6 +95744,15 @@ entries:
   - bowlingklubb
   - idrottsförening
   web: https://www.svenskalag.se/uppsalabc90
+
+- entry: 1235667597
+  orgName: Svenska Boxerklubben
+  orgNumber: 802460-4517
+  comment: Södra Lokalområdet
+  categories:
+  - hundklubb
+  - hunduppfödning
+  web: https://boxerklubben.org/index.php/valkommen-till-slo
 
 - entry: 1235668876
   orgName: Tuna-Hästbergs Hembygdsförening
@@ -101853,12 +101954,12 @@ entries:
   web: https://pro.se/distrikt/distrikt-varmland/samorganisationer/samorganisation-eda/foreningar/kola.html
 
 - entry: 1236059927
-  orgName: Brottsofferjouren i Västerort
+  orgName: Brottsofferjouren
   orgNumber: 802015-4822
-  comment: null
+  comment: Västerort
   categories:
   - brottsofferjour
-  web: https://www.brottsofferjouren.se/
+  web: https://vasterort.boj.se/
 
 - entry: 1236064067
   orgName: Ärtan - Idé & Design / Anita Fåhraeus
@@ -106202,6 +106303,15 @@ entries:
   - hjälporganisation
   web: https://latice.org/
 
+- entry: 1236298319
+  orgName: Bredåkers Skoter- & Touring Förening, BSTF
+  orgNumber: 897001-9090
+  comment: null
+  categories:
+  - skoterklubb
+  - touringklubb
+  web: https://www.bredaker-skoter.se/
+
 - entry: 1236298509
   orgName: Väddö IF
   orgNumber: 814400-2899
@@ -109968,6 +110078,14 @@ entries:
   - bostadsrättsförening
   web: https://stabbygårdarna.se/
 
+- entry: 1236532964
+  orgName: Sollefteå Bluesförening
+  orgNumber: 802433-9304
+  comment: null
+  categories:
+  - musikförening
+  web: https://slabluesforening.se/
+
 - entry: 1236533194
   orgName: Nyköpings SG
   orgNumber: 819000-1845
@@ -110748,6 +110866,16 @@ entries:
   - ridläger
   - ridskola
   web: https://vedbande.nu/
+
+- entry: 1236582340
+  orgName: Skåningsmåla Mohair / Birgitta Arnesdotter
+  orgNumber: 620831-XXXX
+  comment: null
+  categories:
+  - köttproducent
+  - lantbruk
+  - ullprodukter
+  web: https://www.skaningsmala.se/
 
 - entry: 1236582399
   orgName: Råneå Församling
@@ -111783,6 +111911,15 @@ entries:
   - hundsport
   - kennelklubb
   web: https://www.skk.se/sv/GAKK/
+
+- entry: 1236662365
+  orgName: Trafikskolan Evelina AB
+  orgNumber: 559103-3039
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://trafikskolanevelina.se/
 
 - entry: 1236662381
   orgName: Kamratföreningen Försvarets Tekniska Officerare / KamraToff
@@ -116301,6 +116438,14 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://www.stjärnhusenmotala.se/
+
+- entry: 1236914154
+  orgName: Brunnagården Bygdegårdsförening
+  orgNumber: 817000-0940
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://brunnagarden.se/
 
 - entry: 1236914766
   orgName: Gamleby Ridklubb
