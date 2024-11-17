@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-17-rev-162107
+Revision: 2024-11-17-rev-174252
 
-Nummer: 13613
+Nummer: 13621
 
 
 
@@ -4657,6 +4657,13 @@ Nummer: 13613
 **Biodlartips & Jalin Film AB**
 
     123 416 25 90
+
+
+
+
+**Biodlingsföretagarna**
+
+    123 107 14 06
 
 
 
@@ -25622,6 +25629,13 @@ Nummer: 13613
 
 
 
+**Hjälmrydshästar**
+
+    123 146 66 30
+
+
+
+
 **Hjälmö Brygga Samfällighet**
 
     123 476 44 86
@@ -29830,7 +29844,7 @@ Nummer: 13613
 
 
 
-**Inlandsbanans Vänner IBV**
+**Inlandsbanans Vänner, IBV**
 
     123 261 09 39
 
@@ -33067,6 +33081,13 @@ Nummer: 13613
 
 
 
+**Karlstads Atletklubb**
+
+    123 396 84 50
+
+
+
+
 **Karlstads Dykarklubb**
 
     123 653 90 92
@@ -34648,6 +34669,13 @@ Nummer: 13613
 **Konditori Janeling**
 
     123 125 43 66
+
+
+
+
+**Konga Folkets Hus**
+
+    123 512 79 72
 
 
 
@@ -38760,6 +38788,13 @@ Nummer: 13613
 **Lilla Träslövs FF**
 
     123 132 59 84
+
+
+
+
+**LillaVi Naturhälsa / Johan Lennstam**
+
+    123 137 12 69
 
 
 
@@ -47951,6 +47986,13 @@ Nummer: 13613
 
 
 
+**Omhälla Islandshästar / Linda Andersson**
+
+    123 557 44 47
+
+
+
+
 **OmYoga i Arboga / Mia Hultgren**
 
     123 166 58 84
@@ -48590,6 +48632,13 @@ Nummer: 13613
     123 135 90 17 - Kollekt
 
     123 373 73 76 - Café
+
+
+
+
+**Pampas Marina AB**
+
+    123 172 72 96
 
 
 
@@ -49654,6 +49703,13 @@ Nummer: 13613
 **Pingstkyrkan i Vännäs**
 
     123 281 69 57
+
+
+
+
+**Pingstkyrkan i Älmhult**
+
+    123 595 02 74
 
 
 

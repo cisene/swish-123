@@ -19160,6 +19160,15 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/Ingelstad/
 
+- entry: 1231071406
+  orgName: Biodlingsföretagarna
+  orgNumber: 857209-0275
+  comment: null
+  categories:
+  - biodling
+  - intresseorganisation
+  web: https://biodlingsforetagarna.se/
+
 - entry: 1231072578
   orgName: Team KBK Bikes Cykelklubb & Triathlon
   orgNumber: 802513-5164
@@ -24282,6 +24291,15 @@ entries:
   - stiftelse
   web: https://lund.ronaldmcdonaldhus.se/
 
+- entry: 1231371269
+  orgName: LillaVi Naturhälsa / Johan Lennstam
+  orgNumber: 790926-XXXX
+  comment: null
+  categories:
+  - föreläsningar
+  - massage
+  web: https://lillavinaturhalsa.se/
+
 - entry: 1231371327
   orgName: Lions Club Avesta
   orgNumber: 882000-6214
@@ -25633,6 +25651,15 @@ entries:
   - konsert
   - musikförening
   web: https://jazzen.nu/
+
+- entry: 1231466630
+  orgName: Hjälmrydshästar
+  orgNumber: 969648-1317
+  comment: null
+  categories:
+  - hästsport
+  - islandshäst
+  web: http://www.miaochsven.se/
 
 - entry: 1231467364
   orgName: Sundsvalls IBF
@@ -30435,6 +30462,15 @@ entries:
   categories:
   - scoutkår
   web: https://djupadal.scout.se/
+
+- entry: 1231727296
+  orgName: Pampas Marina AB
+  orgNumber: 556205-6894
+  comment: null
+  categories:
+  - båtklubb
+  - båtvarv
+  web: https://www.pampas.se/
 
 - entry: 1231727627
   orgName: Levád Fysiotherapi AB
@@ -44102,7 +44138,9 @@ entries:
   orgName: Mora Discgolf Park
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - discgolfbana
+  - discgolfklubb
   web: null
 
 - entry: 1232544831
@@ -45045,7 +45083,7 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1232610939
-  orgName: Inlandsbanans Vänner IBV
+  orgName: Inlandsbanans Vänner, IBV
   orgNumber: 802436-7289
   comment: null
   categories:
@@ -65233,6 +65271,13 @@ entries:
   - katthem
   web: https://www.fiahemmet.se/
 
+- entry: 1233795507
+  orgName: Floghall
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.floghall.se/
+
 - entry: 1233796042
   orgName: Oxelösunds Församling
   orgNumber: 252000-2854
@@ -65318,6 +65363,13 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/hostsoltimra/
+
+- entry: 1233803608
+  orgName: Kalmar Padel Arena
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://kalmarpadelarena.se/
 
 - entry: 1233803707
   orgName: Skiljebo SK
@@ -68374,6 +68426,15 @@ entries:
   categories:
   - intresseförening
   web: https://grynkorv.se/
+
+- entry: 1233968450
+  orgName: Karlstads Atletklubb
+  orgNumber: 873200-6708
+  comment: null
+  categories:
+  - atletklubb
+  - idrottsförening
+  web: https://karlstadsak.se/
 
 - entry: 1233968526
   orgName: Equmenia Hemsjö
@@ -83268,6 +83329,7 @@ entries:
   comment: null
   categories:
   - event
+  - hästsport
   - konferens
   - turridning
   web: https://www.hastakeriet.se/
@@ -86224,6 +86286,15 @@ entries:
   - intresseförening
   - kulturförening
   web: https://nyaahusparken.se/
+
+- entry: 1235127972
+  orgName: Konga Folkets Hus
+  orgNumber: 729500-1213
+  comment: null
+  categories:
+  - folkets hus
+  - intresseförening
+  web: http://www.kongafolketshus.se/
 
 - entry: 1235128087
   orgName: AP Häst AB
@@ -94137,6 +94208,17 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/hoor-klubb-72/
 
+- entry: 1235574447
+  orgName: Omhälla Islandshästar / Linda Andersson
+  orgNumber: 711120-XXXX
+  comment: null
+  categories:
+  - hästsport
+  - islandshäst
+  - ridlektioner
+  - ridskola
+  web: https://www.omhalla.se/
+
 - entry: 1235574819
   orgName: Svenska Röda Korset
   orgNumber: 816000-2773
@@ -100523,6 +100605,14 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.svenskalag.se/pilgrimstadsif
+
+- entry: 1235950274
+  orgName: Pingstkyrkan i Älmhult
+  orgNumber: 829000-0572
+  comment: null
+  categories:
+  - religion
+  web: https://pingstkyrkan.almhult.com/
 
 - entry: 1235952106
   orgName: Falsterbo Golfklubb

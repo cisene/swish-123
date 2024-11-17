@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-17-rev-162032",
+    "date": "2024-11-17-rev-174217",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -23276,6 +23276,17 @@
       "web": "https://www.laget.se/Ingelstad/"
     },
     {
+      "entry": 1231071406,
+      "orgName": "Biodlingsf\u00f6retagarna",
+      "orgNumber": "857209-0275",
+      "comment": null,
+      "categories": [
+        "biodling",
+        "intresseorganisation"
+      ],
+      "web": "https://biodlingsforetagarna.se/"
+    },
+    {
       "entry": 1231072578,
       "orgName": "Team KBK Bikes Cykelklubb & Triathlon",
       "orgNumber": "802513-5164",
@@ -29460,6 +29471,17 @@
       "web": "https://lund.ronaldmcdonaldhus.se/"
     },
     {
+      "entry": 1231371269,
+      "orgName": "LillaVi Naturh\u00e4lsa / Johan Lennstam",
+      "orgNumber": "790926-XXXX",
+      "comment": null,
+      "categories": [
+        "f\u00f6rel\u00e4sningar",
+        "massage"
+      ],
+      "web": "https://lillavinaturhalsa.se/"
+    },
+    {
       "entry": 1231371327,
       "orgName": "Lions Club Avesta",
       "orgNumber": "882000-6214",
@@ -31098,6 +31120,17 @@
         "musikf\u00f6rening"
       ],
       "web": "https://jazzen.nu/"
+    },
+    {
+      "entry": 1231466630,
+      "orgName": "Hj\u00e4lmrydsh\u00e4star",
+      "orgNumber": "969648-1317",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "islandsh\u00e4st"
+      ],
+      "web": "http://www.miaochsven.se/"
     },
     {
       "entry": 1231467364,
@@ -36945,6 +36978,17 @@
         "scoutk\u00e5r"
       ],
       "web": "https://djupadal.scout.se/"
+    },
+    {
+      "entry": 1231727296,
+      "orgName": "Pampas Marina AB",
+      "orgNumber": "556205-6894",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "b\u00e5tvarv"
+      ],
+      "web": "https://www.pampas.se/"
     },
     {
       "entry": 1231727627,
@@ -54634,7 +54678,7 @@
     },
     {
       "entry": 1232610939,
-      "orgName": "Inlandsbanans V\u00e4nner IBV",
+      "orgName": "Inlandsbanans V\u00e4nner, IBV",
       "orgNumber": "802436-7289",
       "comment": null,
       "categories": [
@@ -82940,6 +82984,17 @@
       "web": "https://grynkorv.se/"
     },
     {
+      "entry": 1233968450,
+      "orgName": "Karlstads Atletklubb",
+      "orgNumber": "873200-6708",
+      "comment": null,
+      "categories": [
+        "atletklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://karlstadsak.se/"
+    },
+    {
       "entry": 1233968526,
       "orgName": "Equmenia Hemsj\u00f6",
       "orgNumber": "864000-9950",
@@ -101053,6 +101108,7 @@
       "comment": null,
       "categories": [
         "event",
+        "h\u00e4stsport",
         "konferens",
         "turridning"
       ],
@@ -104625,6 +104681,17 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://nyaahusparken.se/"
+    },
+    {
+      "entry": 1235127972,
+      "orgName": "Konga Folkets Hus",
+      "orgNumber": "729500-1213",
+      "comment": null,
+      "categories": [
+        "folkets hus",
+        "intressef\u00f6rening"
+      ],
+      "web": "http://www.kongafolketshus.se/"
     },
     {
       "entry": 1235128087,
@@ -114251,6 +114318,19 @@
       "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/hoor-klubb-72/"
     },
     {
+      "entry": 1235574447,
+      "orgName": "Omh\u00e4lla Islandsh\u00e4star / Linda Andersson",
+      "orgNumber": "711120-XXXX",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "islandsh\u00e4st",
+        "ridlektioner",
+        "ridskola"
+      ],
+      "web": "https://www.omhalla.se/"
+    },
+    {
       "entry": 1235574819,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "816000-2773",
@@ -121946,6 +122026,16 @@
         "innebandyklubb"
       ],
       "web": "https://www.svenskalag.se/pilgrimstadsif"
+    },
+    {
+      "entry": 1235950274,
+      "orgName": "Pingstkyrkan i \u00c4lmhult",
+      "orgNumber": "829000-0572",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://pingstkyrkan.almhult.com/"
     },
     {
       "entry": 1235952106,
