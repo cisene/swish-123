@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-17-rev-174252
+Revision: 2024-11-20-rev-210754
 
-Nummer: 13621
+Nummer: 13639
 
 
 
@@ -8103,6 +8103,13 @@ Nummer: 13621
 
 
 
+**Brynäs Idrottsförening**
+
+    123 216 61 97
+
+
+
+
 **Brynäs IF Fotboll**
 
     123 483 88 43
@@ -9817,6 +9824,13 @@ Nummer: 13621
 
 
 
+**City Trafikskola i Örebro**
+
+    123 240 34 34
+
+
+
+
 **City Trafikskola Sundsvall AB**
 
     123 056 10 19
@@ -10080,6 +10094,20 @@ Nummer: 13621
 **Combat Camp Sweden / Nikolaos Christoforidis**
 
     123 494 81 96
+
+
+
+
+**Combo Training and Wellness / Emma Hjalmarsson**
+
+    123 180 27 84
+
+
+
+
+**Combo Training and Wellness / Jeanette Björkman**
+
+    123 625 02 94
 
 
 
@@ -11196,6 +11224,13 @@ Nummer: 13621
 **Disabled Refugees Welcome / Stiftelse Institutet för Independent Living**
 
     123 527 25 21
+
+
+
+
+**Diskrimineringsbyrån Humanitas**
+
+    123 187 10 29
 
 
 
@@ -13178,6 +13213,13 @@ Nummer: 13621
 **Ekström & Garay AB**
 
     123 181 87 56
+
+
+
+
+**Ekströms Livsklubb Procordia Food AB**
+
+    123 653 50 74
 
 
 
@@ -19276,6 +19318,13 @@ Nummer: 13621
 **Föreningen Gärdslösa Prästgård**
 
     123 188 04 42
+
+
+
+
+**Föreningen Göteborgs Domkyrkas Goss- och Flickkörer**
+
+    123 195 16 56
 
 
 
@@ -26831,6 +26880,13 @@ Nummer: 13621
 **Huskvarna Södra IS**
 
     123 031 47 57
+
+
+
+
+**Husmusen AB**
+
+    123 592 26 61
 
 
 
@@ -39171,6 +39227,13 @@ Nummer: 13621
 
 
 
+**Linköping FC**
+
+    123 587 10 09
+
+
+
+
 **Linköping Football Club**
 
     123 054 01 46
@@ -41125,6 +41188,13 @@ Nummer: 13621
 **Lurs sockens bygdeförening**
 
     123 173 38 23
+
+
+
+
+**Lyckeby Gille**
+
+    123 305 36 00
 
 
 
@@ -47319,6 +47389,13 @@ Nummer: 13621
 
 
 
+**Nära Utveckling AB**
+
+    123 512 65 78
+
+
+
+
 **Näsby IF**
 
     123 299 02 81
@@ -49631,6 +49708,13 @@ Nummer: 13621
 **Pingstförsamlingen Upplands Väsby**
 
     123 174 22 87
+
+
+
+
+**Pingstförsamlingen Valdemarsvik**
+
+    123 068 05 04
 
 
 
@@ -53083,6 +53167,13 @@ Nummer: 13621
 **Riksdagens Veteranförening**
 
     123 246 79 75
+
+
+
+
+**Riksförbundet Balans**
+
+    123 547 70 47
 
 
 
@@ -59693,6 +59784,13 @@ Nummer: 13621
 
 
 
+**SOK Knallen**
+
+    123 671 50 49
+
+
+
+
 **Sol Tranås**
 
     123 555 76 32
@@ -62095,6 +62193,13 @@ Nummer: 13621
 
 
 
+**StallBröms / Camilla Bröms**
+
+    123 405 61 56
+
+
+
+
 **Stallebrottet Kulturproduktion Ideell förening / Stallebrottet Kulturproduktion**
 
     123 569 07 48
@@ -62918,6 +63023,13 @@ Nummer: 13621
 **Stiftelsen Lööf Foundation**
 
     123 386 10 44
+
+
+
+
+**Stiftelsen Make a difference**
+
+    123 122 52 00
 
 
 
@@ -66214,6 +66326,13 @@ Nummer: 13621
 
 
 
+**Svenska KennethKlubben**
+
+    123 090 93 74
+
+
+
+
 **Svenska Klubben för Engelsk Bulldogg, SKEB**
 
     123 139 11 43
@@ -66655,6 +66774,13 @@ Nummer: 13621
 **Svenska Röda Korset**
 
     123 511 29 58 - Uppsala, Ungdomsförbund
+
+
+
+
+**Svenska Röda Korset**
+
+    123 527 45 76 - Linköping
 
 
 

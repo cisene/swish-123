@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-17-rev-174217",
+    "date": "2024-11-20-rev-210718",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13894,6 +13894,16 @@
       "web": "https://www.svenskakyrkan.se/krokom"
     },
     {
+      "entry": 1230680504,
+      "orgName": "Pingstf\u00f6rsamlingen Valdemarsvik",
+      "orgNumber": "825000-0802",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://pkviken.se/"
+    },
+    {
       "entry": 1230680553,
       "orgName": "Trollh\u00e4ttans BOIS",
       "orgNumber": "863000-1777",
@@ -19507,6 +19517,16 @@
         "utbildning"
       ],
       "web": "https://hvilan.se/"
+    },
+    {
+      "entry": 1230909374,
+      "orgName": "Svenska KennethKlubben",
+      "orgNumber": "889202-4400",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "http://kenneth.se/"
     },
     {
       "entry": 1230910141,
@@ -26398,6 +26418,17 @@
         "samf\u00e4llighetsf\u00f6rening"
       ],
       "web": "https://www.lojsta.se/"
+    },
+    {
+      "entry": 1231225200,
+      "orgName": "Stiftelsen Make a difference",
+      "orgNumber": "802477-4799",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "stiftelse"
+      ],
+      "web": "https://www.stiftelsenmakeadifference.se/"
     },
     {
       "entry": 1231225259,
@@ -38630,6 +38661,17 @@
       "web": "https://bygdegardarna.se/ludgo-spelvik/"
     },
     {
+      "entry": 1231802784,
+      "orgName": "Combo Training and Wellness / Emma Hjalmarsson",
+      "orgNumber": "920325-XXXX",
+      "comment": null,
+      "categories": [
+        "personlig tr\u00e4nare",
+        "tr\u00e4ningsr\u00e5dgivning"
+      ],
+      "web": "https://www.trainingandwellness.se/"
+    },
+    {
       "entry": 1231804764,
       "orgName": "Ramsele Hembygdsf\u00f6rening",
       "orgNumber": "888800-3830",
@@ -39883,6 +39925,19 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/vibyif"
+    },
+    {
+      "entry": 1231871029,
+      "orgName": "Diskrimineringsbyr\u00e5n Humanitas",
+      "orgNumber": "802429-2313",
+      "comment": null,
+      "categories": [
+        "diskriminering",
+        "juridik",
+        "juridiska tj\u00e4nster",
+        "ombudsman"
+      ],
+      "web": "https://humanitas.se/"
     },
     {
       "entry": 1231871185,
@@ -41368,6 +41423,16 @@
         "ryttars\u00e4llskap"
       ],
       "web": "https://www.sigtunaridskola.com/"
+    },
+    {
+      "entry": 1231951656,
+      "orgName": "F\u00f6reningen G\u00f6teborgs Domkyrkas Goss- och Flickk\u00f6rer",
+      "orgNumber": "802437-2594",
+      "comment": null,
+      "categories": [
+        "k\u00f6rs\u00e5ng"
+      ],
+      "web": "https://musikidomkyrkan.se/"
     },
     {
       "entry": 1231951862,
@@ -45586,6 +45651,17 @@
         "turistf\u00f6rening"
       ],
       "web": "https://www.destinationhalmstad.se/"
+    },
+    {
+      "entry": 1232166197,
+      "orgName": "Bryn\u00e4s Idrottsf\u00f6rening",
+      "orgNumber": "885000-0152",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.brynas.se/"
     },
     {
       "entry": 1232166585,
@@ -51463,6 +51539,17 @@
         "utbildning"
       ],
       "web": "http://www.roslagensjaktvilt.se/"
+    },
+    {
+      "entry": 1232403434,
+      "orgName": "City Trafikskola i \u00d6rebro",
+      "orgNumber": "556772-9305",
+      "comment": null,
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://www.citytrafikskolan.se/"
     },
     {
       "entry": 1232403590,
@@ -64456,6 +64543,17 @@
         "intresseorganisation"
       ],
       "web": "http://www.voices4change.se/"
+    },
+    {
+      "entry": 1233053600,
+      "orgName": "Lyckeby Gille",
+      "orgNumber": "835000-2013",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://www.lyckebygille.com/"
     },
     {
       "entry": 1233054285,
@@ -84441,6 +84539,17 @@
         "st\u00f6varklubb"
       ],
       "web": "https://bdstovare.se/"
+    },
+    {
+      "entry": 1234056156,
+      "orgName": "StallBr\u00f6ms / Camilla Br\u00f6ms",
+      "orgNumber": "680228-XXXX",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "h\u00e4sttransport"
+      ],
+      "web": "https://www.stallbroms.com/"
     },
     {
       "entry": 1234056495,
@@ -104518,6 +104627,19 @@
       "web": "https://www.rhtc.se/"
     },
     {
+      "entry": 1235126578,
+      "orgName": "N\u00e4ra Utveckling AB",
+      "orgNumber": "556884-4517",
+      "comment": null,
+      "categories": [
+        "kurser",
+        "mindfulness",
+        "psykologi",
+        "yoga"
+      ],
+      "web": "https://www.narautveckling.se/"
+    },
+    {
       "entry": 1235126867,
       "orgName": "Stenungsunds Scoutk\u00e5r",
       "orgNumber": "853300-9406",
@@ -107786,6 +107908,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.svenskalag.se/karoibf"
+    },
+    {
+      "entry": 1235274576,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802434-3397",
+      "comment": "Link\u00f6ping",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/ostergotland/linkopings-kommun/"
     },
     {
       "entry": 1235275193,
@@ -112184,6 +112317,18 @@
         "f\u00f6rs\u00e4ljning"
       ],
       "web": "https://www.wrpshop.se/"
+    },
+    {
+      "entry": 1235477047,
+      "orgName": "Riksf\u00f6rbundet Balans",
+      "orgNumber": "802407-9074",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://balansriks.se/"
     },
     {
       "entry": 1235479001,
@@ -120270,6 +120415,17 @@
       "web": "https://www.trassbergsbk.se/"
     },
     {
+      "entry": 1235871009,
+      "orgName": "Link\u00f6ping FC",
+      "orgNumber": "822003-8916",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.linkopingfc.com/"
+    },
+    {
       "entry": 1235871165,
       "orgName": "Ansgariikyrkans F\u00f6rsamling",
       "orgNumber": "826000-0073",
@@ -121293,6 +121449,18 @@
         "innebandyklubb"
       ],
       "web": "https://www.svenskalag.se/varaibk"
+    },
+    {
+      "entry": 1235922661,
+      "orgName": "Husmusen AB",
+      "orgNumber": "556786-7642",
+      "comment": null,
+      "categories": [
+        "erotik",
+        "f\u00f6rs\u00e4ljning",
+        "sexleksaker"
+      ],
+      "web": "https://www.husmusen.se/"
     },
     {
       "entry": 1235923115,
@@ -128019,6 +128187,17 @@
       "web": "https://grss.bloggo.nu/"
     },
     {
+      "entry": 1236250294,
+      "orgName": "Combo Training and Wellness / Jeanette Bj\u00f6rkman",
+      "orgNumber": "710724-XXXX",
+      "comment": null,
+      "categories": [
+        "personlig tr\u00e4nare",
+        "tr\u00e4ningsr\u00e5dgivning"
+      ],
+      "web": "https://www.trainingandwellness.se/"
+    },
+    {
       "entry": 1236250443,
       "orgName": "Tynder\u00f6 IK",
       "orgNumber": "889201-0854",
@@ -133653,6 +133832,16 @@
       "web": "https://www.laget.se/MHS/"
     },
     {
+      "entry": 1236535074,
+      "orgName": "Ekstr\u00f6ms Livsklubb Procordia Food AB",
+      "orgNumber": "802419-1317",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.instagram.com/livsmedelsarbetarsolidaritet/"
+    },
+    {
       "entry": 1236535272,
       "orgName": "Borgsj\u00f6 Hembygdsf\u00f6rening",
       "orgNumber": "889200-6647",
@@ -137303,6 +137492,20 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://glommerlia.se/"
+    },
+    {
+      "entry": 1236715049,
+      "orgName": "SOK Knallen",
+      "orgNumber": "864501-9525",
+      "comment": null,
+      "categories": [
+        "cykelklubb",
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "motionsklubb",
+        "simklubb"
+      ],
+      "web": "https://sok-knallen.se/"
     },
     {
       "entry": 1236716773,
