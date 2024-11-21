@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-20-rev-210754
+Revision: 2024-11-21-rev-210620
 
-Nummer: 13639
+Nummer: 13651
 
 
 
@@ -5701,6 +5701,13 @@ Nummer: 13639
 
 
 
+**BodyAdjust AB**
+
+    123 304 76 36
+
+
+
+
 **Bogesunds Gård och Ridskola AB**
 
     123 599 54 93
@@ -7491,6 +7498,13 @@ Nummer: 13639
 **Branne Pavlovic**
 
     123 089 23 07
+
+
+
+
+**Branteviks IF, BIF**
+
+    123 674 85 94
 
 
 
@@ -27440,6 +27454,13 @@ Nummer: 13639
 
 
 
+**Hässleholms AIS**
+
+    123 569 57 05
+
+
+
+
 **Hässleholms BTK**
 
     123 580 12 79
@@ -35348,6 +35369,13 @@ Nummer: 13639
 
 
 
+**Kortedala Museum**
+
+    123 471 18 42
+
+
+
+
 **Kortedala Scoutkår**
 
     123 563 65 27
@@ -42126,6 +42154,13 @@ Nummer: 13639
 
 
 
+**Malmö FF Foundation / Malmö Fotbollförening**
+
+    123 684 75 11
+
+
+
+
 **Malmö Floorball Club**
 
     123 346 75 45
@@ -44440,6 +44475,13 @@ Nummer: 13639
 
 
 
+**Museiföreningen Östra Södermanlands Järnväg**
+
+    123 442 10 95
+
+
+
+
 **Musethica Sverige**
 
     123 056 41 46
@@ -44969,6 +45011,13 @@ Nummer: 13639
 **Mölndals Stad**
 
     123 646 84 25 - Lärcentrum
+
+
+
+
+**Mölnlycke Garden Center AB**
+
+    123 515 72 35
 
 
 
@@ -52221,6 +52270,13 @@ Nummer: 13639
 **Qjouren Väst**
 
     123 252 68 46
+
+
+
+
+**QLM Media / Joachim Kåhlman**
+
+    123 424 82 25
 
 
 
@@ -62007,6 +62063,13 @@ Nummer: 13639
 
 
 
+**Spökgarn / Rescue Ocean**
+
+    123 612 14 53
+
+
+
+
 **Spöland Vännäs IF**
 
     123 078 79 11 - Cykel-gänget
@@ -62245,6 +62308,13 @@ Nummer: 13639
 **StartupTools Europe AB**
 
     123 624 94 37
+
+
+
+
+**Stationen Lakvik / MF Risten Lakviks Järnväg**
+
+    123 578 93 00
 
 
 
@@ -67007,6 +67077,13 @@ Nummer: 13639
 
 
 
+**Svenska Spårvägssällskapet, SSS**
+
+    123 667 71 24 - Medlemsavgifter
+
+
+
+
 **Svenska Squashförbundet**
 
     123 337 28 93
@@ -67865,6 +67942,13 @@ Nummer: 13639
 **Säbrå Hembygdsförening**
 
     123 073 29 66
+
+
+
+
+**Säffle Friidrott**
+
+    123 084 66 83
 
 
 

@@ -3683,7 +3683,7 @@ entries:
   orgNumber: 559140-5914
   comment: null
   categories:
-  - cafe
+  - café
   web: https://www.cafecuvee.se/
 
 - entry: 1230227421
@@ -14692,6 +14692,15 @@ entries:
   - styrkelyftsklubb
   web: https://jokkmokksstyrkelyftsklubb.se/
 
+- entry: 1230846683
+  orgName: Säffle Friidrott
+  orgNumber: 874400-7272
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  web: https://safflefriidrott.se/
+
 - entry: 1230846733
   orgName: Sandvikens Kammarmusikförening
   orgNumber: 885500-9075
@@ -17783,6 +17792,9 @@ entries:
   comment: null
   categories:
   - intresseförening
+  - museiförening
+  - museijärnväg
+  - museum
   web: https://www.enj.se/
 
 - entry: 1230989384
@@ -21295,7 +21307,7 @@ entries:
   comment: null
   categories:
   - bokkafé
-  - cafe
+  - café
   web: https://amaltheabokkafe.tumblr.com/
 
 - entry: 1231204916
@@ -42695,7 +42707,7 @@ entries:
   orgNumber: 556706-5262
   comment: Café Malin
   categories:
-  - cafe
+  - café
   - religion
   web: https://www.svenskakyrkan.se/vasteras/om-cafet
 
@@ -51592,7 +51604,7 @@ entries:
   orgNumber: 822002-7737
   comment: null
   categories:
-  - cafe
+  - café
   - förening
   web: https://www.fontanen.se/
 
@@ -52984,6 +52996,17 @@ entries:
   categories:
   - religion
   web: https://edsvikskyrkan.se/
+
+- entry: 1233047636
+  orgName: BodyAdjust AB
+  orgNumber: 556926-5761
+  comment: null
+  categories:
+  - ansiktsmassage
+  - ansiktszonterapi
+  - kroppsjustering
+  - laserterapi
+  web: https://bodyadjust.se/
 
 - entry: 1233047768
   orgName: Mariestads Församling
@@ -56958,7 +56981,7 @@ entries:
   orgNumber: 212000-2684
   comment: Cafeteria
   categories:
-  - cafe
+  - café
   web: https://www.overkalix.se/
 
 - entry: 1233289469
@@ -63939,6 +63962,7 @@ entries:
   comment: null
   categories:
   - intresseförening
+  - smalspårs järnväg
   web: https://smalsparet.com/
 
 - entry: 1233699246
@@ -67771,7 +67795,7 @@ entries:
   orgNumber: 556967-4202
   comment: null
   categories:
-  - cafe
+  - café
   - restaurant
   web: https://www.hamnkafeet.se/
 
@@ -72816,6 +72840,14 @@ entries:
   - idrottsförening
   web: https://www.bodenhandboll.se/
 
+- entry: 1234248225
+  orgName: QLM Media / Joachim Kåhlman
+  orgNumber: 770927-XXXX
+  comment: null
+  categories:
+  - mediaproduktion
+  web: https://qlm.se/
+
 - entry: 1234248480
   orgName: Anna Fahlgren / Anna Åhlgren / GoMobile nu AB
   orgNumber: 556588-3427
@@ -75355,6 +75387,17 @@ entries:
   - friidrottsförening
   - idrottsförening
   web: https://www.svenskalag.se/aikfriidrott
+
+- entry: 1234421095
+  orgName: Museiföreningen Östra Södermanlands Järnväg
+  orgNumber: 819500-2004
+  comment: null
+  categories:
+  - kulturförening
+  - museiförening
+  - museijärnväg
+  - museum
+  web: https://www.oslj.nu/
 
 - entry: 1234421392
   orgName: Alfta-Ovanåkers Församling
@@ -80187,6 +80230,15 @@ entries:
   - religion
   web: https://hagaberg.nu/omoss/omsalt
 
+- entry: 1234711842
+  orgName: Kortedala Museum
+  orgNumber: 855100-4255
+  comment: null
+  categories:
+  - museiförening
+  - museum
+  web: https://kortedalamuseum.se/
+
 - entry: 1234712303
   orgName: Martin Koch-sällskapet
   orgNumber: 882000-8129
@@ -82194,6 +82246,9 @@ entries:
   orgNumber: 827001-0492
   comment: null
   categories:
+  - café
+  - museiförening
+  - museijärnväg
   - museum
   web: https://nassjojarnvagsmuseum.se/
 
@@ -85907,6 +85962,8 @@ entries:
   comment: null
   categories:
   - kulturförening
+  - museiförening
+  - museijärnväg
   - museum
   web: https://www.sklj.se/
 
@@ -87151,6 +87208,15 @@ entries:
   - politiskt parti
   web: https://kristdemokraterna.se/
 
+- entry: 1235157235
+  orgName: Mölnlycke Garden Center AB
+  orgNumber: 556575-3224
+  comment: null
+  categories:
+  - trädgårdsodling
+  - trädgårdsplanering
+  web: https://www.molnlyckegc.se/
+
 - entry: 1235157391
   orgName: Hudiksvallsbygdens Församling
   orgNumber: 252004-7404
@@ -87214,7 +87280,7 @@ entries:
   orgNumber: 802430-4407
   comment: Café
   categories:
-  - cafe
+  - café
   - golfklubb
   web: http://www.ullaredfladjegk.se/se/cafe
 
@@ -96508,6 +96574,15 @@ entries:
   - bygdegårdsförening
   web: https://satilabygdegard.se/
 
+- entry: 1235695705
+  orgName: Hässleholms AIS
+  orgNumber: 837000-3835
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  web: https://hassleholmsais.se/
+
 - entry: 1235696158
   orgName: S:t Johannes Församling
   orgNumber: 252000-0528
@@ -98163,6 +98238,17 @@ entries:
   - bygdegårdsförening
   - förening
   web: https://www.altunagarden.se/
+
+- entry: 1235789300
+  orgName: Stationen Lakvik / MF Risten Lakviks Järnväg
+  orgNumber: 825001-1908
+  comment: null
+  categories:
+  - café
+  - museiförening
+  - museijärnväg
+  - museum
+  web: https://rlj.se/
 
 - entry: 1235789516
   orgName: Gävunda Sportklubb
@@ -103215,6 +103301,16 @@ entries:
   - tarot
   web: https://cleostarot.wordpress.com/
 
+- entry: 1236121453
+  orgName: Spökgarn / Rescue Ocean
+  orgNumber: 802521-1098
+  comment: null
+  categories:
+  - fiskevård
+  - intresseförening
+  - vattenvård
+  web: https://spokgarn.se/
+
 - entry: 1236122105
   orgName: Bestorps Båtklubb
   orgNumber: 802510-9573
@@ -105509,6 +105605,16 @@ entries:
   - byalag
   web: https://www.soligalangasand.se/
 
+- entry: 1236245666
+  orgName: Hyrbro AB
+  orgNumber: 559140-0204
+  comment: null
+  categories:
+  - byggmaskiner
+  - retired
+  - uthyrning
+  web: https://www.hyrbro.se/
+
 - entry: 1236245674
   orgName: Västerlanda Bygdegårdsförening
   orgNumber: 802544-5894
@@ -107024,7 +107130,7 @@ entries:
   orgNumber: 740119-XXXX
   comment: null
   categories:
-  - cafe
+  - café
   - djuruppfödning
   - gårdsbutik
   - gårdsförsäljning
@@ -109492,7 +109598,7 @@ entries:
   orgNumber: 857205-4875
   comment: null
   categories:
-  - cafe
+  - café
   - restaurant
   web: https://www.allebergcafeorestaurang.se/
 
@@ -111324,7 +111430,7 @@ entries:
   orgNumber: 559132-0055
   comment: null
   categories:
-  - cafe
+  - café
   - restaurant
   web: https://farostrandcafe.se/
 
@@ -112465,6 +112571,14 @@ entries:
   - kampsportsförening
   - karateklubb
   web: https://kokorokaidojo.se/
+
+- entry: 1236677124
+  orgName: Svenska Spårvägssällskapet, SSS
+  orgNumber: 802004-7414
+  comment: Medlemsavgifter
+  categories:
+  - intresseförening
+  web: https://www.sparvagssallskapet.se/
 
 - entry: 1236677173
   orgName: Gestad Bygdegårdsförening
@@ -113852,6 +113966,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/varmlandsdistriktet/foreningslista/spf-seniorerna-jossebygden-arvika/
+
+- entry: 1236748594
+  orgName: Branteviks IF, BIF
+  orgNumber: 838800-0211
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://branteviksif.se/
 
 - entry: 1236750251
   orgName: UpplevVadstena AB
@@ -115675,6 +115798,15 @@ entries:
   - godkänd gåvomottagare
   - hjälporganisation
   web: https://solvatten.org/
+
+- entry: 1236847511
+  orgName: Malmö FF Foundation / Malmö Fotbollförening
+  orgNumber: 846000-4487
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.mff.se/
 
 - entry: 1236848170
   orgName: FC Norrköping City
