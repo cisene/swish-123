@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-21-rev-210620
+Revision: 2024-11-23-rev-165018
 
-Nummer: 13651
+Nummer: 13662
 
 
 
@@ -13498,6 +13498,13 @@ Nummer: 13651
 
 
 
+**EMMA Sweden**
+
+    123 541 45 78
+
+
+
+
 **Emmaboda BMK**
 
     123 082 24 03
@@ -16058,6 +16065,13 @@ Nummer: 13651
 **Filadelfia Västerort - Spånga Kyrkan**
 
     123 198 57 38
+
+
+
+
+**Filadelfia Öckerö**
+
+    123 634 47 41
 
 
 
@@ -23798,6 +23812,13 @@ Nummer: 13651
 
 
 
+**Hammarby IF Boxning**
+
+    123 205 90 95
+
+
+
+
 **Hammarby IF Ishockeyförening**
 
     123 296 02 76 - A-lag Herr
@@ -26329,6 +26350,13 @@ Nummer: 13651
 **HS Sierra Ängelholm - Handboll**
 
     123 146 50 04
+
+
+
+
+**HST Sverige / Kbg hundtjänst AB**
+
+    123 209 71 37
 
 
 
@@ -31790,6 +31818,13 @@ Nummer: 13651
 
 
 
+**Jädersbruks Vänner**
+
+    123 426 29 78
+
+
+
+
 **Jägarnas Riksförbund Malmö**
 
     123 653 76 82
@@ -34116,6 +34151,8 @@ Nummer: 13651
 
 
 **Kiruna Ishockeyförening**
+
+    123 249 43 26 - Ungdomssektionen
 
     123 601 38 41
 
@@ -59276,6 +59313,13 @@ Nummer: 13651
 
 
 
+**Sloeberry Bay / L Lydeking AB**
+
+    123 145 29 60
+
+
+
+
 **Slofallets Islandshästar AB**
 
     123 103 49 66
@@ -72759,6 +72803,13 @@ Nummer: 13651
 
 
 
+**Trinity Karlstad**
+
+    123 524 04 60
+
+
+
+
 **TRIS - Tjejers rätt i samhället**
 
     123 576 01 11
@@ -74096,6 +74147,13 @@ Nummer: 13651
 
 
 
+**Ulricehamnsbygdens Forskarklubb**
+
+    123 298 60 40
+
+
+
+
 **Ulrika Rosander - Soul & Body Treatments**
 
     123 302 42 13
@@ -75127,6 +75185,13 @@ Nummer: 13651
     123 562 58 84 - Kollekt
 
     123 670 14 60
+
+
+
+
+**Vaksala SK**
+
+    123 554 45 23
 
 
 
@@ -83237,6 +83302,13 @@ Nummer: 13651
     123 544 47 57 - Herr
 
     123 682 78 51 - Marknad
+
+
+
+
+**Östra Sommarstadens Koloniförening i Ystad**
+
+    123 040 93 75
 
 
 

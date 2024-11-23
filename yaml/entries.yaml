@@ -7129,6 +7129,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vastramark
 
+- entry: 1230409375
+  orgName: Östra Sommarstadens Koloniförening i Ystad
+  orgNumber: 848000-7627
+  comment: null
+  categories:
+  - koloniförening
+  - koloniträdgårdsförening
+  web: https://ostrasommarstaden.se/
+
 - entry: 1230410035
   orgName: Films SK
   orgNumber: 817300-3339
@@ -25302,6 +25311,7 @@ entries:
   orgNumber: 559450-8797
   comment: null
   categories:
+  - konstmåleri
   - religion
   web: https://ikonverkstaden.se/
 
@@ -25415,6 +25425,17 @@ entries:
   - galleri
   - konstförening
   web: https://artie.se/
+
+- entry: 1231452960
+  orgName: Sloeberry Bay / L Lydeking AB
+  orgNumber: 556311-2662
+  comment: null
+  categories:
+  - hundsport
+  - hundträning
+  - hunduppfödning
+  - jaktvårdsklubb
+  web: https://sloeberry.se/
 
 - entry: 1231453042
   orgName: Elbilsmagasinet / Bonize Digital AB
@@ -34228,6 +34249,7 @@ entries:
   orgNumber: 882000-5075
   comment: null
   categories:
+  - friidrottsförening
   - idrottsförening
   - orienteringsklubb
   web: https://www.avestaok.se/
@@ -35891,6 +35913,16 @@ entries:
   - religion
   web: https://www.fjallstugan.se/
 
+- entry: 1232059095
+  orgName: Hammarby IF Boxning
+  orgNumber: 802414-0751
+  comment: null
+  categories:
+  - boxningsklubb
+  - idrottsförening
+  - kampsportsförening
+  web: https://www.svenskalag.se/hifboxning
+
 - entry: 1232059616
   orgName: Ropgränds Samfällighetsförening
   orgNumber: 716418-5808
@@ -36332,6 +36364,17 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka
+
+- entry: 1232097137
+  orgName: HST Sverige / Kbg hundtjänst AB
+  orgNumber: 559124-8371
+  comment: null
+  categories:
+  - försäljning
+  - hundkurser
+  - hundsport
+  - utrustning
+  web: https://hstsverige.webnode.se/
 
 - entry: 1232097483
   orgName: Wagner-Sällskapet i Göteborg
@@ -43693,6 +43736,15 @@ entries:
   categories:
   - naturskydd
   web: null
+
+- entry: 1232494326
+  orgName: Kiruna Ishockeyförening
+  orgNumber: 897300-4156
+  comment: Ungdomssektionen
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.kirunaif.se/
 
 - entry: 1232494433
   orgName: Asarums IF FK
@@ -51978,6 +52030,16 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.laget.se/Fjugesta_IF/
+
+- entry: 1232986040
+  orgName: Ulricehamnsbygdens Forskarklubb
+  orgNumber: 802523-4181
+  comment: null
+  categories:
+  - genealogi
+  - intresseförening
+  - släktforskning
+  web: https://uf.konkordia.se/
 
 - entry: 1232990281
   orgName: Näsby IF
@@ -72952,6 +73014,16 @@ entries:
   - intresseförening
   web: https://www.team-rynkeby.se/
 
+- entry: 1234262978
+  orgName: Jädersbruks Vänner
+  orgNumber: 817607-2786
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  - museum
+  web: https://www.jadersbruksvanner.se/
+
 - entry: 1234263190
   orgName: Stefanushjälpen
   orgNumber: 802489-8481
@@ -88366,6 +88438,17 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-soderhamn/foreningar/mo-bergvik.html
 
+- entry: 1235240460
+  orgName: Trinity Karlstad
+  orgNumber: 802442-0823
+  comment: null
+  categories:
+  - barnverksamhet
+  - humanitär hjälpverksamhet
+  - utbildning
+  - utbildningsstöd
+  web: https://www.trinitynepal.se/
+
 - entry: 1235240718
   orgName: Gävle Församling
   orgNumber: 252004-9947
@@ -91496,6 +91579,16 @@ entries:
   - golfklubb
   web: https://www.finspangsgk.se/
 
+- entry: 1235414578
+  orgName: EMMA Sweden
+  orgNumber: 802514-8134
+  comment: null
+  categories:
+  - billjud
+  - intresseförening
+  - ljudsystem
+  web: https://www.emmasweden.se/
+
 - entry: 1235417282
   orgName: Dellenbygdens fiskevårdsområde
   orgNumber: 802600-3668
@@ -93874,6 +93967,16 @@ entries:
   - kultur
   - musik
   web: https://www.cornelis.se/
+
+- entry: 1235544523
+  orgName: Vaksala SK
+  orgNumber: 817606-7695
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.svenskalag.se/vaksalask
 
 - entry: 1235544838
   orgName: Livräddarna Tylösand
@@ -107193,6 +107296,14 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.svenskalag.se/tolgif
+
+- entry: 1236344741
+  orgName: Filadelfia Öckerö
+  orgNumber: 857200-4110
+  comment: null
+  categories:
+  - religion
+  web: https://www.filadelfia.se/
 
 - entry: 1236345235
   orgName: Svenska Downföreningen

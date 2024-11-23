@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-21-rev-210545",
+    "date": "2024-11-23-rev-164942",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8640,6 +8640,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vastramark"
+    },
+    {
+      "entry": 1230409375,
+      "orgName": "\u00d6stra Sommarstadens Kolonif\u00f6rening i Ystad",
+      "orgNumber": "848000-7627",
+      "comment": null,
+      "categories": [
+        "kolonif\u00f6rening",
+        "kolonitr\u00e4dg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://ostrasommarstaden.se/"
     },
     {
       "entry": 1230410035,
@@ -30692,6 +30703,7 @@
       "orgNumber": "559450-8797",
       "comment": null,
       "categories": [
+        "konstm\u00e5leri",
         "religion"
       ],
       "web": "https://ikonverkstaden.se/"
@@ -30830,6 +30842,19 @@
         "konstf\u00f6rening"
       ],
       "web": "https://artie.se/"
+    },
+    {
+      "entry": 1231452960,
+      "orgName": "Sloeberry Bay / L Lydeking AB",
+      "orgNumber": "556311-2662",
+      "comment": null,
+      "categories": [
+        "hundsport",
+        "hundtr\u00e4ning",
+        "hunduppf\u00f6dning",
+        "jaktv\u00e5rdsklubb"
+      ],
+      "web": "https://sloeberry.se/"
     },
     {
       "entry": 1231453042,
@@ -41532,6 +41557,7 @@
       "orgNumber": "882000-5075",
       "comment": null,
       "categories": [
+        "friidrottsf\u00f6rening",
         "idrottsf\u00f6rening",
         "orienteringsklubb"
       ],
@@ -43569,6 +43595,18 @@
       "web": "https://www.fjallstugan.se/"
     },
     {
+      "entry": 1232059095,
+      "orgName": "Hammarby IF Boxning",
+      "orgNumber": "802414-0751",
+      "comment": null,
+      "categories": [
+        "boxningsklubb",
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hifboxning"
+    },
+    {
       "entry": 1232059616,
       "orgName": "Ropgr\u00e4nds Samf\u00e4llighetsf\u00f6rening",
       "orgNumber": "716418-5808",
@@ -44109,6 +44147,19 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka"
+    },
+    {
+      "entry": 1232097137,
+      "orgName": "HST Sverige / Kbg hundtj\u00e4nst AB",
+      "orgNumber": "559124-8371",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "hundkurser",
+        "hundsport",
+        "utrustning"
+      ],
+      "web": "https://hstsverige.webnode.se/"
     },
     {
       "entry": 1232097483,
@@ -53003,6 +53054,17 @@
         "naturskydd"
       ],
       "web": null
+    },
+    {
+      "entry": 1232494326,
+      "orgName": "Kiruna Ishockeyf\u00f6rening",
+      "orgNumber": "897300-4156",
+      "comment": "Ungdomssektionen",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.kirunaif.se/"
     },
     {
       "entry": 1232494433,
@@ -63059,6 +63121,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/Fjugesta_IF/"
+    },
+    {
+      "entry": 1232986040,
+      "orgName": "Ulricehamnsbygdens Forskarklubb",
+      "orgNumber": "802523-4181",
+      "comment": null,
+      "categories": [
+        "genealogi",
+        "intressef\u00f6rening",
+        "sl\u00e4ktforskning"
+      ],
+      "web": "https://uf.konkordia.se/"
     },
     {
       "entry": 1232990281,
@@ -88495,6 +88569,18 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1234262978,
+      "orgName": "J\u00e4dersbruks V\u00e4nner",
+      "orgNumber": "817607-2786",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "kulturf\u00f6rening",
+        "museum"
+      ],
+      "web": "https://www.jadersbruksvanner.se/"
+    },
+    {
       "entry": 1234263190,
       "orgName": "Stefanushj\u00e4lpen",
       "orgNumber": "802489-8481",
@@ -107205,6 +107291,19 @@
       "web": "https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-soderhamn/foreningar/mo-bergvik.html"
     },
     {
+      "entry": 1235240460,
+      "orgName": "Trinity Karlstad",
+      "orgNumber": "802442-0823",
+      "comment": null,
+      "categories": [
+        "barnverksamhet",
+        "humanit\u00e4r hj\u00e4lpverksamhet",
+        "utbildning",
+        "utbildningsst\u00f6d"
+      ],
+      "web": "https://www.trinitynepal.se/"
+    },
+    {
       "entry": 1235240718,
       "orgName": "G\u00e4vle F\u00f6rsamling",
       "orgNumber": "252004-9947",
@@ -111035,6 +111134,18 @@
       "web": "https://www.finspangsgk.se/"
     },
     {
+      "entry": 1235414578,
+      "orgName": "EMMA Sweden",
+      "orgNumber": "802514-8134",
+      "comment": null,
+      "categories": [
+        "billjud",
+        "intressef\u00f6rening",
+        "ljudsystem"
+      ],
+      "web": "https://www.emmasweden.se/"
+    },
+    {
       "entry": 1235417282,
       "orgName": "Dellenbygdens fiskev\u00e5rdsomr\u00e5de",
       "orgNumber": "802600-3668",
@@ -113903,6 +114014,18 @@
         "musik"
       ],
       "web": "https://www.cornelis.se/"
+    },
+    {
+      "entry": 1235544523,
+      "orgName": "Vaksala SK",
+      "orgNumber": "817606-7695",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/vaksalask"
     },
     {
       "entry": 1235544838,
@@ -129986,6 +130109,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/tolgif"
+    },
+    {
+      "entry": 1236344741,
+      "orgName": "Filadelfia \u00d6cker\u00f6",
+      "orgNumber": "857200-4110",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.filadelfia.se/"
     },
     {
       "entry": 1236345235,
