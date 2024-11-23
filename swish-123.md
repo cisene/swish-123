@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-23-rev-165018
+Revision: 2024-11-23-rev-195152
 
-Nummer: 13662
+Nummer: 13677
 
 
 
@@ -1165,6 +1165,13 @@ Nummer: 13662
 **Algutstorps Församling**
 
     123 651 70 64 - Kollekt
+
+
+
+
+**Alingsås Biodlarförening**
+
+    123 157 26 43
 
 
 
@@ -8155,6 +8162,13 @@ Nummer: 13662
 **Bräcke Strand / Syrligt AB**
 
     123 186 97 59
+
+
+
+
+**Bräkne Härads Biodlareförening**
+
+    123 356 96 96
 
 
 
@@ -20034,6 +20048,13 @@ Nummer: 13662
 
 
 
+**Föreningen Supermiljöbloggen**
+
+    123 136 87 03
+
+
+
+
 **Föreningen Svedala - Barabygden**
 
     123 366 92 98
@@ -27948,6 +27969,13 @@ Nummer: 13662
 **Högvalta Bygdegårdförening**
 
     123 440 22 93
+
+
+
+
+**Hökensås Bigårdar / Marcus Schoultz**
+
+    123 176 37 88
 
 
 
@@ -45020,6 +45048,13 @@ Nummer: 13662
 
 
 
+**Mölndals biodlarförening**
+
+    123 374 72 43
+
+
+
+
 **Mölndals IBF**
 
     123 422 82 68
@@ -45687,6 +45722,13 @@ Nummer: 13662
 **Nils Bastu Spa AB**
 
     123 296 54 16
+
+
+
+
+**Nilssons Logomattor AB**
+
+    123 054 82 71
 
 
 
@@ -54273,6 +54315,13 @@ Nummer: 13662
 
 
 
+**Rotary International District 2395**
+
+    123 067 77 40
+
+
+
+
 **Rotary Kalmar**
 
     123 236 04 85
@@ -54297,6 +54346,13 @@ Nummer: 13662
 **Rotary Kivik**
 
     123 202 55 34
+
+
+
+
+**Rotary Kristianstad Gärds**
+
+    123 219 12 52
 
 
 
@@ -54359,6 +54415,13 @@ Nummer: 13662
 **Rotary Lomma-Bjärred**
 
     123 085 61 95
+
+
+
+
+**Rotary Lund**
+
+    123 316 03 30
 
 
 
@@ -54525,6 +54588,8 @@ Nummer: 13662
 
 **Rotary Växjö**
 
+    123 099 62 64
+
     123 570 59 00
 
 
@@ -54560,6 +54625,13 @@ Nummer: 13662
 
 **Rotary Åstorp**
 
+    123 377 82 48
+
+
+
+
+**Rotary Åstorp**
+
     123 584 32 71
 
     123 585 99 54
@@ -54570,6 +54642,13 @@ Nummer: 13662
 **Rotary Örebro**
 
     123 553 03 65
+
+
+
+
+**Rotary Örkelljunga**
+
+    123 557 87 52
 
 
 
@@ -69087,6 +69166,13 @@ Nummer: 13662
 
 
 
+**Södra Kalmar Biodlardistrikt**
+
+    123 604 00 67
+
+
+
+
 **Södra Kurvan**
 
     123 346 78 42
@@ -72096,6 +72182,13 @@ Nummer: 13662
 **Tomatboden i Varv / Assarsson Trädgård AB**
 
     123 237 09 30
+
+
+
+
+**Tomelilla Biodlarförening**
+
+    123 064 18 60
 
 
 
@@ -82018,6 +82111,13 @@ Nummer: 13662
     123 591 72 73 - F15(F14)
 
     123 660 17 85 - P15
+
+
+
+
+**Ölands Biodlarförening**
+
+    123 673 60 37
 
 
 
