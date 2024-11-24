@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-23-rev-200448
+Revision: 2024-11-24-rev-153443
 
-Nummer: 13677
+Nummer: 13705
 
 
 
@@ -1295,7 +1295,7 @@ Nummer: 13677
 
 **Alingsås Sportsclub**
 
-    123 012 33 31
+    123 012 33 31 - Medlemsavgift
 
 
 
@@ -3998,6 +3998,13 @@ Nummer: 13677
 
 
 
+**Bellevue Farm / Norrmalmsodlarna**
+
+    123 371 76 83
+
+
+
+
 **Bellö Samhällsförening**
 
     123 628 22 14
@@ -6399,6 +6406,13 @@ Nummer: 13677
 **Bosjökloster GK**
 
     123 336 63 90
+
+
+
+
+**Bosjöklosters Vänner**
+
+    123 332 70 46
 
 
 
@@ -20912,6 +20926,13 @@ Nummer: 13677
 
 
 
+**GF Hököns Intresseförening**
+
+    123 652 05 97
+
+
+
+
 **GGG Gemenskap, Glädje och Guldkant**
 
     123 510 59 78
@@ -20922,6 +20943,13 @@ Nummer: 13677
 **Gharsah Sweden**
 
     123 354 06 71
+
+
+
+
+**Gide Get - Getgården i Djuptjärn**
+
+    123 455 32 77
 
 
 
@@ -23012,6 +23040,13 @@ Nummer: 13677
 
 
 
+**Gångemad Fårgård**
+
+    123 615 76 06
+
+
+
+
 **Gånghester SK**
 
     123 091 52 80
@@ -23238,6 +23273,13 @@ Nummer: 13677
     123 268 23 26
 
     123 335 08 16
+
+
+
+
+**Göteborgs Rullstolsbasketklubb, GRBK**
+
+    123 121 20 75
 
 
 
@@ -29140,6 +29182,13 @@ Nummer: 13677
 
 
 
+**IFK Stockaryd**
+
+    123 635 68 85
+
+
+
+
 **IFK Sunne**
 
     123 476 07 57
@@ -31197,6 +31246,8 @@ Nummer: 13677
 **Istrums SK**
 
     123 580 95 20
+
+    123 651 59 77 - Orienteringssektionen
 
 
 
@@ -34181,6 +34232,8 @@ Nummer: 13677
 **Kiruna Ishockeyförening**
 
     123 249 43 26 - Ungdomssektionen
+
+    123 359 72 34 - Junior
 
     123 601 38 41
 
@@ -40693,6 +40746,13 @@ Nummer: 13677
 
 
 
+**Lottenlunds Vinsällskap / Lottenlund Estate Events Aktiebolag**
+
+    123 060 27 71
+
+
+
+
 **Lotus Education / Jenny Damm**
 
     123 619 15 06
@@ -43600,6 +43660,13 @@ Nummer: 13677
 **Mjölby Golfklubb**
 
     123 426 32 08
+
+
+
+
+**Mjölby HC**
+
+    123 204 56 80
 
 
 
@@ -46831,6 +46898,8 @@ Nummer: 13677
 
     123 029 58 73
 
+    123 534 67 62
+
 
 
 
@@ -47686,6 +47755,8 @@ Nummer: 13677
 
 **Nätra GIF**
 
+    123 064 00 60
+
     123 486 90 79
 
 
@@ -47926,6 +47997,13 @@ Nummer: 13677
 **Offerdals Hembygdsförening**
 
     123 232 72 11
+
+
+
+
+**OK Alehof**
+
+    123 657 12 51
 
 
 
@@ -49169,6 +49247,13 @@ Nummer: 13677
 **Peking Fanz**
 
     123 069 12 12
+
+
+
+
+**Pekoe Ekologiskt Te**
+
+    123 183 14 86
 
 
 
@@ -52920,6 +53005,13 @@ Nummer: 13677
 
 
 
+**RekoHemma Skåne / Jonatan Andersson**
+
+    123 575 70 67
+
+
+
+
 **Relearn Suderbyn**
 
     123 318 75 15
@@ -54134,6 +54226,13 @@ Nummer: 13677
 **Roslätt3:s Samfällighetsförening**
 
     123 378 14 57
+
+
+
+
+**Rospiggorna / Terése Wahlgren**
+
+    123 462 23 46
 
 
 
@@ -56931,6 +57030,13 @@ Nummer: 13677
 
 
 
+**SDE HF**
+
+    123 594 97 89
+
+
+
+
 **SDK Isbjörnarna**
 
     123 674 42 21
@@ -57018,6 +57124,13 @@ Nummer: 13677
 **Segerstads Hembygsförening**
 
     123 401 12 01
+
+
+
+
+**Seiki Kai**
+
+    123 679 99 02
 
 
 
@@ -58349,7 +58462,13 @@ Nummer: 13677
 
 **Skellefteå Motorsällskap**
 
+    123 040 02 59 - MCES/Enduro Klutmarksbanan
+
+    123 085 89 51 - Radiostyrd bil
+
     123 213 94 83
+
+    123 635 98 22 - Karting
 
 
 
@@ -58424,6 +58543,8 @@ Nummer: 13677
 **Skepparslövs IF**
 
     123 018 37 15
+
+    123 692 52 26 - Skippetgalan
 
 
 
@@ -67781,6 +67902,13 @@ Nummer: 13677
 
 
 
+**Sweden-Uganda Aid, SWEDUGA**
+
+    123 617 83 96
+
+
+
+
 **Sweden UNRWA Reform**
 
     123 517 38 51
@@ -69852,6 +69980,13 @@ Nummer: 13677
 **Team Albert MTB**
 
     123 002 14 44
+
+
+
+
+**Team Alingsås Bowling**
+
+    123 418 36 79
 
 
 
@@ -72748,9 +72883,11 @@ Nummer: 13677
 
 
 
-**Tranås RK**
+**Tranås Ridklubb**
 
     123 270 34 78
+
+    123 550 38 26 - Ingerträningar i TRK
 
 
 
@@ -76863,6 +77000,13 @@ Nummer: 13677
 
 
 
+**Vintervikens Trädgård**
+
+    123 541 90 72
+
+
+
+
 **Vintjärns Intresseförening**
 
     123 175 75 66
@@ -77159,6 +77303,13 @@ Nummer: 13677
 **Vittsjö Shotokan Karateklubb**
 
     123 363 25 36
+
+
+
+
+**Vivåsen**
+
+    123 285 09 49
 
 
 
@@ -78083,7 +78234,7 @@ Nummer: 13677
 
     123 118 51 23
 
-    123 496 81 52
+    123 496 81 52 - Maj och Göte minnesfond
 
 
 

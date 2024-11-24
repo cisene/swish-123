@@ -2003,7 +2003,7 @@ entries:
 - entry: 1230123331
   orgName: Alingsås Sportsclub
   orgNumber: 802452-5266
-  comment: null
+  comment: Medlemsavgift
   categories:
   - idrottsförening
   - sportklubb
@@ -6996,6 +6996,15 @@ entries:
   - yoga
   web: https://essense.se/
 
+- entry: 1230400259
+  orgName: Skellefteå Motorsällskap
+  orgNumber: 894700-6667
+  comment: MCES/Enduro Klutmarksbanan
+  categories:
+  - motorklubb
+  - motorsällskap
+  web: https://www.svenskalag.se/skellefteamotorsallskap
+
 - entry: 1230400382
   orgName: Borensbergs Baptistförsamling
   orgNumber: 824000-0243
@@ -10514,6 +10523,15 @@ entries:
   - pensionärsklubb
   web: https://www.skpf.se/avdelningar/halland/halmstad-avd-21/
 
+- entry: 1230602771
+  orgName: Lottenlunds Vinsällskap / Lottenlund Estate Events Aktiebolag
+  orgNumber: 559429-3135
+  comment: null
+  categories:
+  - vinprovning
+  - vinsällskap
+  web: https://www.lottenlundestate.se/
+
 - entry: 1230603472
   orgName: Kvarnby Basket
   orgNumber: 802473-3423
@@ -11056,6 +11074,16 @@ entries:
   categories:
   - samfällighetsförening
   web: https://www.nyaekenas.se/
+
+- entry: 1230640060
+  orgName: Nätra GIF
+  orgNumber: 889600-1594
+  comment: null
+  categories:
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.svenskalag.se/ngif
 
 - entry: 1230640342
   orgName: Jäders IF
@@ -15186,6 +15214,15 @@ entries:
   - intresseförening
   - kulturförening
   web: https://astridlindgrenshembygd.se/
+
+- entry: 1230858951
+  orgName: Skellefteå Motorsällskap
+  orgNumber: 894700-6667
+  comment: Radiostyrd bil
+  categories:
+  - motorklubb
+  - motorsällskap
+  web: https://www.svenskalag.se/skellefteamotorsallskap
 
 - entry: 1230859181
   orgName: Västerås IK Fotboll
@@ -21533,6 +21570,17 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/SundsvallsIBF/
+
+- entry: 1231212075
+  orgName: Göteborgs Rullstolsbasketklubb, GRBK
+  orgNumber: 857203-8779
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  - parasport
+  - rullstolsbasketklubb
+  web: https://www.svenskalag.se/goteborgs-rullstolsbasketklubb
 
 - entry: 1231213305
   orgName: Grötö Hamnförening
@@ -32563,6 +32611,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-blekinge/samorganisationer/samorganisation-solvesborg/foreningar/solvesborg.html
 
+- entry: 1231831486
+  orgName: Pekoe Ekologiskt Te
+  orgNumber: 556880-0477
+  comment: null
+  categories:
+  - ekologiskt odlat
+  - försäljning
+  web: https://www.pekoe.se/
+
 - entry: 1231834019
   orgName: Team Rynkeby
   orgNumber: 802533-7653
@@ -35866,6 +35923,15 @@ entries:
   - idrottsförening
   - löparklubb
   web: https://www.svenskalag.se/halleforslk
+
+- entry: 1232045680
+  orgName: Mjölby HC
+  orgNumber: 823000-7315
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/mhc
 
 - entry: 1232045862
   orgName: Uppsala Budoklubb
@@ -47298,7 +47364,7 @@ entries:
   web: https://www.hembygd.se/torslunda
 
 - entry: 1232703478
-  orgName: Tranås RK
+  orgName: Tranås Ridklubb
   orgNumber: 826500-1951
   comment: null
   categories:
@@ -50078,6 +50144,15 @@ entries:
   categories:
   - politiskt parti
   web: https://www.malmolistan.se/
+
+- entry: 1232850949
+  orgName: Vivåsen
+  orgNumber: 802416-0338
+  comment: null
+  categories:
+  - idrottsplats
+  - samlingsplats
+  web: https://www.skidspar.se/ostergotland/boxholm/boxholmvivasen
 
 - entry: 1232854743
   orgName: Små IF
@@ -57635,6 +57710,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/apollonsolna
 
+- entry: 1233327046
+  orgName: Bosjöklosters Vänner
+  orgNumber: 802494-2768
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.bosjokloster.se/
+
 - entry: 1233327541
   orgName: Scandinavian Human Rights Lawyers
   orgNumber: 802487-9085
@@ -57745,6 +57828,7 @@ entries:
   comment: null
   categories:
   - historia
+  - historieförening
   - kulturförening
   web: https://www.lundshistoriedagar.se/
 
@@ -62677,6 +62761,15 @@ entries:
   - konstförening
   web: https://dalarna.konstforeningar.se/
 
+- entry: 1233597234
+  orgName: Kiruna Ishockeyförening
+  orgNumber: 897300-4156
+  comment: Junior
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.kirunaif.se/
+
 - entry: 1233599586
   orgName: Borås Dykförening
   orgNumber: 802542-8577
@@ -64518,6 +64611,15 @@ entries:
   - idrottsförening
   - tennisklubb
   web: https://www.sondrumstk.se/
+
+- entry: 1233717683
+  orgName: Bellevue Farm / Norrmalmsodlarna
+  orgNumber: 802499-2987
+  comment: null
+  categories:
+  - ekologisk odling
+  - trädgårdsodling
+  web: https://www.bellevuefarm.se/
 
 - entry: 1233717865
   orgName: Munskänkarna
@@ -71796,6 +71898,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/arboga
 
+- entry: 1234183679
+  orgName: Team Alingsås Bowling
+  orgNumber: 802441-9759
+  comment: null
+  categories:
+  - bowlingklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/teamabc
+
 - entry: 1234183828
   orgName: Svenska Röda Korset
   orgNumber: 818500-5694
@@ -77607,6 +77718,16 @@ entries:
   - idrottsförening
   web: https://www.laget.se/EnkopingsIS_/
 
+- entry: 1234553277
+  orgName: Gide Get - Getgården i Djuptjärn
+  orgNumber: 916469-6537
+  comment: null
+  categories:
+  - djuruppfödning
+  - gårdsförsäljning
+  - lokalproducerat
+  web: http://gideget.se/
+
 - entry: 1234557997
   orgName: Föreningen Jagaren Smålands Vänner, J19
   orgNumber: 802533-3066
@@ -78732,6 +78853,15 @@ entries:
   - skytteklubb
   - sportskytteklubb
   web: https://dala-mp.se/
+
+- entry: 1234622346
+  orgName: Rospiggorna / Terése Wahlgren
+  orgNumber: 880416-XXXX
+  comment: null
+  categories:
+  - gårdsförsäljning
+  - lokalproducerat
+  web: https://www.rospiggorna.se/
 
 - entry: 1234622635
   orgName: PRO Tumba
@@ -83611,9 +83741,10 @@ entries:
 - entry: 1234968152
   orgName: Väsby OK
   orgNumber: 814800-5815
-  comment: null
+  comment: Maj och Göte minnesfond
   categories:
   - idrottsförening
+  - minnesfond
   - orienteringsklubb
   web: https://www.svenskalag.se/vasbyok
 
@@ -85691,6 +85822,7 @@ entries:
   categories:
   - biodling
   - försäljning
+  - gårdsförsäljning
   - konferens
   - naturvård
   web: https://spetsamalagard.se/
@@ -90452,6 +90584,15 @@ entries:
   - opinionsbildning
   web: https://www.nejtillnato.se/
 
+- entry: 1235346762
+  orgName: Norrtälje IK
+  orgNumber: 814400-5454
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/nik
+
 - entry: 1235346895
   orgName: IK Fryken
   orgNumber: 874000-0412
@@ -91783,6 +91924,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/skivarp
+
+- entry: 1235419072
+  orgName: Vintervikens Trädgård
+  orgNumber: 802408-0015
+  comment: null
+  categories:
+  - intresseförening
+  - trädgårdsförening
+  web: https://vinterviken.com/
 
 - entry: 1235419122
   orgName: Stiftelsen Skandinavisk Yoga och Meditationsskola
@@ -93159,6 +93309,16 @@ entries:
   - skidklubb
   - skidlöparklubb
   web: https://myrflodammen.se/
+
+- entry: 1235503826
+  orgName: Tranås Ridklubb
+  orgNumber: 826500-1951
+  comment: Ingerträningar i TRK
+  categories:
+  - hästsport
+  - ridklubb
+  - träning
+  web: https://www.svenskalag.se/tranasrk
 
 - entry: 1235503933
   orgName: Fotvårdskliniken / Karin Fransson
@@ -97853,6 +98013,15 @@ entries:
   - supporterklubb
   web: https://www.facebook.com/profile.php?id=100064413413291
 
+- entry: 1235757067
+  orgName: RekoHemma Skåne / Jonatan Andersson
+  orgNumber: 021021-XXXX
+  comment: null
+  categories:
+  - försäljning
+  - lokalproducerat
+  web: https://www.rekohemma.se/
+
 - entry: 1235757638
   orgName: Hillsong Church Sweden
   orgNumber: 802433-8553
@@ -101114,6 +101283,15 @@ entries:
   - idrottsförening
   web: http://klk.nu/
 
+- entry: 1235949789
+  orgName: SDE HF
+  orgNumber: 802452-1737
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/sdehockey
+
 - entry: 1235950191
   orgName: Pilgrimstads IF
   orgNumber: 893200-9841
@@ -104328,6 +104506,17 @@ entries:
   - samhällsförening
   web: https://gronemad.se/
 
+- entry: 1236157606
+  orgName: Gångemad Fårgård
+  orgNumber: 934009-8798
+  comment: null
+  categories:
+  - biodling
+  - djuruppfödning
+  - försäljning
+  - gårdsförsäljning
+  web: https://gangemad.se/
+
 - entry: 1236157879
   orgName: Ingmarsö Bygdegårdsförening
   orgNumber: 816400-0617
@@ -104841,6 +105030,15 @@ entries:
   categories:
   - lionsklubb
   web: https://e-clubhouse.org/sites/ljugarn/
+
+- entry: 1236178396
+  orgName: Sweden-Uganda Aid, SWEDUGA
+  orgNumber: 802497-0991
+  comment: null
+  categories:
+  - hjälporganisation
+  - humanitär hjälpverksamhet
+  web: https://sweduga.se/
 
 - entry: 1236178701
   orgName: Mörsil SKF
@@ -107821,6 +108019,20 @@ entries:
   - hembygdsförening
   web: http://bodabygden.se/
 
+- entry: 1236356885
+  orgName: IFK Stockaryd
+  orgNumber: 827500-3831
+  comment: null
+  categories:
+  - fotbollsklubb
+  - gåhandboll
+  - idrottsförening
+  - motionsgymnastik
+  - motionsklubb
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.svenskalag.se/ifkstockaryd
+
 - entry: 1236357230
   orgName: Mellanströms Skoterklubb
   orgNumber: 898801-3549
@@ -107929,6 +108141,15 @@ entries:
   - idrottsförening
   - volleybollklubb
   web: https://www.engelholmsvolley.se/
+
+- entry: 1236359822
+  orgName: Skellefteå Motorsällskap
+  orgNumber: 894700-6667
+  comment: Karting
+  categories:
+  - motorklubb
+  - motorsällskap
+  web: https://www.svenskalag.se/skellefteamotorsallskap
 
 - entry: 1236359871
   orgName: Östervärns Express AB
@@ -110269,6 +110490,15 @@ entries:
   - bridgeklubb
   web: https://www.svenskbridge.se/insjön-leksands-bk
 
+- entry: 1236515977
+  orgName: Istrums SK
+  orgNumber: 868400-6086
+  comment: Orienteringssektionen
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.svenskalag.se/istrumssk
+
 - entry: 1236516033
   orgName: Carlshamn Crusaders
   orgNumber: 802498-2343
@@ -110443,6 +110673,14 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.laget.se/Fjugesta_IF/
+
+- entry: 1236520597
+  orgName: GF Hököns Intresseförening
+  orgNumber: 802458-7258
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.hokon.se/
 
 - entry: 1236520621
   orgName: Män För Kvinnofrid
@@ -111391,6 +111629,15 @@ entries:
   - idrottsförening
   - skidskytteklubb
   web: https://www.nassjoski.se/
+
+- entry: 1236571251
+  orgName: OK Alehof
+  orgNumber: 863500-2911
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.svenskalag.se/okalehof
 
 - entry: 1236571301
   orgName: Tensta Församling
@@ -115260,6 +115507,16 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-landskrona/foreningar/asmundtorp.html
 
+- entry: 1236799902
+  orgName: Seiki Kai
+  orgNumber: 802446-8806
+  comment: null
+  categories:
+  - idrottsförening
+  - jujutsuklubb
+  - kampsportsförening
+  web: https://www.svenskalag.se/seiki-kai
+
 - entry: 1236800072
   orgName: Arvika SS
   orgNumber: 872000-0085
@@ -117369,6 +117626,15 @@ entries:
   - idrottsförening
   - konståkningsklubb
   web: https://www.svenskalag.se/luleaakf
+
+- entry: 1236925226
+  orgName: Skepparslövs IF
+  orgNumber: 838200-3633
+  comment: Skippetgalan
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/skippet
 
 - entry: 1236926919
   orgName: Umeå bågskytteklubb
