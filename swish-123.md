@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-24-rev-153443
+Revision: 2024-11-27-rev-125500
 
-Nummer: 13705
+Nummer: 13735
 
 
 
@@ -1521,6 +1521,8 @@ Nummer: 13705
     123 092 75 33 - P16
 
     123 104 13 18 - P10
+
+    123 197 47 40
 
     123 281 76 09 - A-lag/Herrar
 
@@ -21764,6 +21766,12 @@ Nummer: 13705
 
 **Granbergsdals IF**
 
+    123 070 52 10 - Skidsektionen
+
+    123 177 91 80 - Fotbollssektionen
+
+    123 403 17 95 - medlemsavgifter
+
     123 511 49 47
 
 
@@ -34476,7 +34484,9 @@ Nummer: 13705
 
 **Klippans Pistolklubb**
 
-    123 450 31 81
+    123 248 71 22 - Luftsektionen
+
+    123 450 31 81 - Krutsektionen
 
 
 
@@ -48347,7 +48357,31 @@ Nummer: 13705
 
 **Onyx Innebandy**
 
+    123 033 39 71 - F 13/14 Oxelösund
+
+    123 071 11 50 - P 12
+
+    123 182 35 82 - P 10 Nyköping
+
+    123 304 78 83 - F 09/10
+
     123 345 79 18 - Dam U (D2/DJ)
+
+    123 352 13 17 - F 15/16 Oxelösund
+
+    123 369 84 87 - P 08/09
+
+    123 417 79 29 - P 15/16 Oxelösund
+
+    123 553 56 46 - P 13
+
+    123 559 89 25 - P 11
+
+    123 580 71 69 - P 10 Oxelösund
+
+    123 591 18 54 - F 16 Nyköping
+
+    123 654 72 44 - F 11/12
 
 
 
@@ -60801,7 +60835,7 @@ Nummer: 13705
 
     123 418 22 00
 
-    123 461 53 57
+    123 461 53 57 - Teaterbesök
 
     123 619 20 09 - Resor
 
@@ -60846,6 +60880,13 @@ Nummer: 13705
 **SPF Seniorerna Bromma**
 
     123 455 05 05
+
+
+
+
+**SPF Seniorerna Bråbo Åby**
+
+    123 135 13 29
 
 
 
@@ -60990,9 +61031,23 @@ Nummer: 13705
 
 
 
+**SPF Seniorerna Fryksdalen Sunne**
+
+    123 109 98 11
+
+
+
+
 **SPF Seniorerna Fräkne Ljungskile**
 
     123 507 96 29
+
+
+
+
+**SPF Seniorerna Furuby**
+
+    123 277 63 00
 
 
 
@@ -61039,9 +61094,16 @@ Nummer: 13705
 
 
 
-**SPF Seniorerna Gnistan**
+**SPF Seniorerna Gnistan Vännäs**
 
     123 375 91 15
+
+
+
+
+**SPF Seniorerna Gruvan Hällestad**
+
+    123 151 32 09
 
 
 
@@ -61270,6 +61332,13 @@ Nummer: 13705
 
 
 
+**SPF Seniorerna Kivik**
+
+    123 300 13 85
+
+
+
+
 **SPF Seniorerna Klinten Åstorp**
 
     123 021 77 29
@@ -61343,6 +61412,13 @@ Nummer: 13705
 **SPF Seniorerna Leksand**
 
     123 271 54 98
+
+
+
+
+**SPF Seniorerna Lidingöskeppet**
+
+    123 127 98 01
 
 
 
@@ -61839,6 +61915,13 @@ Nummer: 13705
 
 
 
+**SPF Seniorerna Tollarpsorten**
+
+    123 199 45 81
+
+
+
+
 **SPF Seniorerna Tomas Västerås**
 
     123 259 70 94
@@ -61923,7 +62006,7 @@ Nummer: 13705
 
 
 
-**SPF Seniorerna Vallonen - Skärplinge**
+**SPF Seniorerna Vallonen Skärplinge**
 
     123 128 94 04
 
@@ -61947,6 +62030,13 @@ Nummer: 13705
 **SPF Seniorerna Vendelsö-Brandbergen**
 
     123 157 57 37
+
+
+
+
+**SPF Seniorerna Vessigebro**
+
+    123 594 43 84
 
 
 
@@ -62010,6 +62100,13 @@ Nummer: 13705
 **SPF Seniorerna Väse-Fågelvik**
 
     123 486 92 36
+
+
+
+
+**SPF Seniorerna Västra Rekarne**
+
+    123 289 56 96
 
 
 
@@ -72386,6 +72483,8 @@ Nummer: 13705
 
 **Torekovs IK**
 
+    123 423 12 70
+
     123 690 26 05
 
 
@@ -79428,6 +79527,13 @@ Nummer: 13705
 
 **Vårgårda IK**
 
+    123 640 26 55 - Handbollssektionen
+
+
+
+
+**Vårgårda IK**
+
     123 179 22 66
 
 
@@ -80060,6 +80166,13 @@ Nummer: 13705
 **WT Trailer AB**
 
     123 363 42 27
+
+
+
+
+**Wä IF**
+
+    123 051 67 32
 
 
 
@@ -81758,6 +81871,13 @@ Nummer: 13705
 **Årsunda IF**
 
     123 087 93 79
+
+
+
+
+**Åryds IK**
+
+    123 137 95 69
 
 
 
