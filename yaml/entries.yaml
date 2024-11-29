@@ -1950,7 +1950,7 @@ entries:
   web: https://www.svenskalag.se/sigtunask
 
 - entry: 1230121483
-  orgName: SPF Kamraterna Örebro
+  orgName: SPF Seniorerna Kamraterna Örebro
   orgNumber: 802421-8474
   comment: null
   categories:
@@ -11092,6 +11092,14 @@ entries:
   categories:
   - samfällighetsförening
   web: https://www.nyaekenas.se/
+
+- entry: 1230639450
+  orgName: SPF Seniorerna Husby
+  orgNumber: 802469-8626
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/husby/
 
 - entry: 1230640060
   orgName: Nätra GIF
@@ -87766,6 +87774,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/bastkustensunicurlobf
 
+- entry: 1235156674
+  orgName: SPF Seniorerna Bogesund
+  orgNumber: 865500-7493
+  comment: Resor
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bogesund/
+
 - entry: 1235156765
   orgName: Vadstena GIF
   orgNumber: 824000-2520
@@ -88203,6 +88219,14 @@ entries:
   categories:
   - förening
   web: https://godmanlinkoping.se/
+
+- entry: 1235177532
+  orgName: SPF Seniorerna Rydebäck
+  orgNumber: 802438-0589
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-rydeback/
 
 - entry: 1235177852
   orgName: Trökörna Frambo bygdegård
@@ -116792,6 +116816,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.rikkarlskoga.se/
+
+- entry: 1236862973
+  orgName: SPF Seniorerna Hult-Höreda
+  orgNumber: 642242-1401
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-hult-horeda/
 
 - entry: 1236863112
   orgName: Göteborgs Bluesförening

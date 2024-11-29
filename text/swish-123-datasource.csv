@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2024-11-27-rev-125434
+# Date: 2024-11-29-rev-082338
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -223,7 +223,7 @@
 "1230114835","802531-5477","Gröna Brigaden","https://www.facebook.com/p/Gr%C3%B6na-Brigaden-100057590074270/","supporterklubb",""
 "1230114918","802463-9745","Tibro JSK","https://www.svenskalag.se/tibrojsk","jaktskytteklubb,jaktvårdsklubb,skytteklubb",""
 "1230120618","802413-1461","Sigtuna SK","https://www.svenskalag.se/sigtunask","idrottsförening,konståkningsklubb",""
-"1230121483","802421-8474","SPF Kamraterna Örebro","https://www.spfseniorerna.se/distrikt/orebrodistriktet/foreningslista/kamraterna/","pensionärsklubb",""
+"1230121483","802421-8474","SPF Seniorerna Kamraterna Örebro","https://www.spfseniorerna.se/distrikt/orebrodistriktet/foreningslista/kamraterna/","pensionärsklubb",""
 "1230121640","556459-0510","Persköps Ställplats / Wnk Skogsgallring AB","https://www.perskopsstallplats.com/","ställplats",""
 "1230121723","717907-2686","Vittergummans Samfällighetsförening","https://www.vittergumman.se/","samfällighetsförening",""
 "1230122200","857207-8288","Biyunföreningen Gröna Draken","https://gronadraken.se/","kurser,qigong,utbildning",""
@@ -1251,6 +1251,7 @@
 "1230637967","802505-5255","Demokratibygget","https://demokratibygget.se/","utbildning",""
 "1230639005","853301-2194","Inlands Folkdansare","https://www.inlandsfolkdansare.se/","dansförening,folkdans",""
 "1230639021","717905-7026","Nya Ekenäs Samfällighetsförening","https://www.nyaekenas.se/","samfällighetsförening",""
+"1230639450","802469-8626","SPF Seniorerna Husby","https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/husby/","pensionärsklubb",""
 "1230640060","889600-1594","Nätra GIF","https://www.svenskalag.se/ngif","fotbollsklubb,gymnastikförening,idrottsförening",""
 "1230640342","818000-1235","Jäders IF","https://www.laget.se/JadersIF/","fotbollsklubb,idrottsförening","A-lag Damer"
 "1230641860","838800-2241","Tomelilla Biodlarförening","https://www.tomelillabiodlarforening.se/","biodlareförening,biodling",""
@@ -9814,6 +9815,7 @@
 "1235156153","878001-4638","Västerås SK Bandy","https://www.laget.se/VSKBandy/","bandyklubb,idrottsförening","P16"
 "1235156468","252000-0601","Högalids Församling","https://www.svenskakyrkan.se/hogalid","religion","Öppna förskolan"
 "1235156609","857209-8708","Bästkustens UCBF","https://www.svenskalag.se/bastkustensunicurlobf","bouleklubb,curlingklubb,idrottsförening",""
+"1235156674","865500-7493","SPF Seniorerna Bogesund","https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bogesund/","pensionärsklubb","Resor"
 "1235156765","824000-2520","Vadstena GIF","https://www.svenskalag.se/vadstena-gif","fotbollsklubb,idrottsförening,simklubb,tennisklubb",""
 "1235157003","802006-3940","Kristdemokraterna Riksorganisationen","https://kristdemokraterna.se/","politiskt parti",""
 "1235157235","556575-3224","Mölnlycke Garden Center AB","https://www.molnlyckegc.se/","trädgårdsodling,trädgårdsplanering",""
@@ -9864,6 +9866,7 @@
 "1235176763","886500-7952","Kilafors Kammarmusikförening","https://www.kikamusik.se/","kammarmusikförening,musikförening",""
 "1235177431","875003-4939","Lillån IBK","https://www.laget.se/LillanIBK/","idrottsförening,innebandyklubb",""
 "1235177530","822003-0665","Linköpings GMF","https://godmanlinkoping.se/","förening",""
+"1235177532","802438-0589","SPF Seniorerna Rydebäck","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-rydeback/","pensionärsklubb",""
 "1235177852","769000-2410","Trökörna Frambo bygdegård","https://bygdegardarna.se/trokorna-frambo/","bygdegårdsförening",""
 "1235177985","817602-2930","Björklinge BK","https://www.laget.se/BjorklingeBK_/","idrottsförening,innebandyklubb","Damlaget"
 "1235180443","556174-3765","Axelsson Trafikskolor / On Via TS AB","https://axts.se/","trafikskola,utbildning","Eskilstuna"
@@ -13035,6 +13038,7 @@
 "1236861546","802527-8832","Vi på Limhamn ideell förening","https://www.limhamnskortet.se/","ideell förening,turistförening",""
 "1236862767","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Stockholm, Norra Strandskolan"
 "1236862791","876400-2484","RIK Karlskoga","https://www.rikkarlskoga.se/","fotbollsklubb,idrottsförening","F14"
+"1236862973","642242-1401","SPF Seniorerna Hult-Höreda","https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-hult-horeda/","pensionärsklubb",""
 "1236863112","857207-5474","Göteborgs Bluesförening","https://gbgblues.se/","intresseförening,musikförening",""
 "1236863591","802457-0676","KFUM Kristianstad BTF","https://www.svenskalag.se/kfumkristianstadbtf","bordtennisklubb,idrottsförening",""
 "1236863963","835600-7677","Lions Club Jarramas Karlskrona","https://www.lionsjarramas.se/","lionsklubb",""

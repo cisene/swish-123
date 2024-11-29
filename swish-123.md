@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-27-rev-125500
+Revision: 2024-11-29-rev-082404
 
-Nummer: 13735
+Nummer: 13739
 
 
 
@@ -60698,13 +60698,6 @@ Nummer: 13735
 
 
 
-**SPF Kamraterna Örebro**
-
-    123 012 14 83
-
-
-
-
 **SPF Seniorerena Nöbbele**
 
     123 523 35 98
@@ -60836,6 +60829,8 @@ Nummer: 13735
     123 418 22 00
 
     123 461 53 57 - Teaterbesök
+
+    123 515 66 74 - Resor
 
     123 619 20 09 - Resor
 
@@ -61227,6 +61222,13 @@ Nummer: 13735
 
 
 
+**SPF Seniorerna Hult-Höreda**
+
+    123 686 29 73
+
+
+
+
 **SPF Seniorerna Hultsfredsbygden**
 
     123 345 33 13
@@ -61237,6 +61239,13 @@ Nummer: 13735
 **SPF Seniorerna Humleaxet Tierp**
 
     123 071 98 56
+
+
+
+
+**SPF Seniorerna Husby**
+
+    123 063 94 50
 
 
 
@@ -61300,6 +61309,13 @@ Nummer: 13735
 **SPF Seniorerna Kalmar**
 
     123 332 29 89
+
+
+
+
+**SPF Seniorerna Kamraterna Örebro**
+
+    123 012 14 83
 
 
 
@@ -61685,6 +61701,13 @@ Nummer: 13735
 **SPF Seniorerna Runstenen Västerhaninge**
 
     123 537 05 80
+
+
+
+
+**SPF Seniorerna Rydebäck**
+
+    123 517 75 32
 
 
 

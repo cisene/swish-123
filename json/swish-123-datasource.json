@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-11-27-rev-125425",
+    "date": "2024-11-29-rev-082329",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2362,7 +2362,7 @@
     },
     {
       "entry": 1230121483,
-      "orgName": "SPF Kamraterna \u00d6rebro",
+      "orgName": "SPF Seniorerna Kamraterna \u00d6rebro",
       "orgNumber": "802421-8474",
       "comment": null,
       "categories": [
@@ -13476,6 +13476,16 @@
         "samf\u00e4llighetsf\u00f6rening"
       ],
       "web": "https://www.nyaekenas.se/"
+    },
+    {
+      "entry": 1230639450,
+      "orgName": "SPF Seniorerna Husby",
+      "orgNumber": "802469-8626",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/husby/"
     },
     {
       "entry": 1230640060,
@@ -106408,6 +106418,16 @@
       "web": "https://www.svenskalag.se/bastkustensunicurlobf"
     },
     {
+      "entry": 1235156674,
+      "orgName": "SPF Seniorerna Bogesund",
+      "orgNumber": "865500-7493",
+      "comment": "Resor",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bogesund/"
+    },
+    {
       "entry": 1235156765,
       "orgName": "Vadstena GIF",
       "orgNumber": "824000-2520",
@@ -106937,6 +106957,16 @@
         "f\u00f6rening"
       ],
       "web": "https://godmanlinkoping.se/"
+    },
+    {
+      "entry": 1235177532,
+      "orgName": "SPF Seniorerna Rydeb\u00e4ck",
+      "orgNumber": "802438-0589",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-rydeback/"
     },
     {
       "entry": 1235177852,
@@ -141504,6 +141534,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.rikkarlskoga.se/"
+    },
+    {
+      "entry": 1236862973,
+      "orgName": "SPF Seniorerna Hult-H\u00f6reda",
+      "orgNumber": "642242-1401",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-hult-horeda/"
     },
     {
       "entry": 1236863112,
