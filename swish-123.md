@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-11-29-rev-082404
+Revision: 2024-12-03-rev-004511
 
-Nummer: 13739
+Nummer: 13772
 
 
 
@@ -3837,7 +3837,7 @@ Nummer: 13739
 
 
 
-**Barnets bästa ideell förening**
+**Barnets Bästa**
 
     123 338 98 55
 
@@ -6486,6 +6486,118 @@ Nummer: 13739
 
 
 
+**Bostadsarrendatorernas Riksorganisation, BARO**
+
+    123 638 36 40
+
+
+
+
+**Bostadsrättsförening Bergslagen 18 i Stockholm**
+
+    123 621 89 60
+
+
+
+
+**Bostadsrättsförening Bockemossen i Partille**
+
+    123 662 91 66
+
+
+
+
+**Bostadsrättsförening Britta-Lena i Kungsbacka**
+
+    123 620 28 99
+
+
+
+
+**Bostadsrättsförening Chauffören i Piteå**
+
+    123 659 06 65
+
+
+
+
+**Bostadsrättsförening Clareberg i Göteborg**
+
+    123 410 47 25
+
+
+
+
+**Bostadsrättsförening Gjutarmästaren i Järfälla**
+
+    123 437 28 27
+
+
+
+
+**Bostadsrättsförening Hjälmö i Stockholm**
+
+    123 278 00 54
+
+
+
+
+**Bostadsrättsförening Linåkern i Nora**
+
+    123 282 41 67
+
+
+
+
+**Bostadsrättsförening Randers i Malmö**
+
+    123 134 51 23
+
+
+
+
+**Bostadsrättsförening Runristaren i Lund**
+
+    123 621 57 27
+
+
+
+
+**Bostadsrättsförening Rödstjärten i Stockholm**
+
+    123 360 03 76
+
+
+
+
+**Bostadsrättsförening Rösjö Ängar i Sollentuna**
+
+    123 503 75 44
+
+
+
+
+**Bostadsrättsförening Siljan i Stockholm**
+
+    123 370 35 68
+
+
+
+
+**Bostadsrättsförening Skutan i Sundsvall**
+
+    123 328 82 89
+
+
+
+
+**Bostadsrättsförening Trollberget i Järfälla**
+
+    123 686 14 96
+
+
+
+
 **Bostadsrättsföreningen Agaten**
 
     123 650 49 89
@@ -7000,7 +7112,7 @@ Nummer: 13739
 
 
 
-**Bostadsrättsföreningen Siken**
+**Bostadsrättsföreningen Siken i Tyresö**
 
     123 006 42 53
 
@@ -7119,7 +7231,7 @@ Nummer: 13739
 
 
 
-**Bostadsrättsföreningen Svetsaren**
+**Bostadsrättsföreningen Svetsaren i Stockholm**
 
     123 191 01 81
 
@@ -7143,6 +7255,13 @@ Nummer: 13739
 **Bostadsrättsföreningen Sörbyängen i Örebro**
 
     123 649 99 66
+
+
+
+
+**Bostadsrättsföreningen Taltrasten i Stockholm**
+
+    123 677 94 25
 
 
 
@@ -7175,7 +7294,7 @@ Nummer: 13739
 
 
 
-**Bostadsrättsföreningen Trumman**
+**Bostadsrättsföreningen Trumman i Malmö**
 
     123 333 87 38
 
@@ -15299,6 +15418,13 @@ Nummer: 13739
 
 
 
+**Fagerhults Hembygdsförening**
+
+    123 536 61 66
+
+
+
+
 **Fagersta Brukshundklubb**
 
     123 377 20 76
@@ -22766,6 +22892,13 @@ Nummer: 13739
 
 
 
+**Gyttorps Ridklubb**
+
+    123 609 83 70
+
+
+
+
 **Gällared Bygdegård**
 
     123 372 86 98
@@ -25047,9 +25180,14 @@ Nummer: 13739
 
 
 
-**Hello World! Ideell förening**
+**Hello World!**
 
     123 394 32 71
+
+
+
+
+**Hello World! Ideell förening**
 
     123 395 32 71
 
@@ -29635,6 +29773,13 @@ Nummer: 13739
     123 591 86 02 - P14
 
     123 698 28 39 - P-11
+
+
+
+
+**IK Uppsala Fotboll**
+
+    123 084 92 16 - Fotboll som spelar roll
 
 
 
@@ -50673,6 +50818,13 @@ Nummer: 13739
 
 
 
+**PRO Bengtsfors**
+
+    123 158 39 62
+
+
+
+
 **PRO Billesholm**
 
     123 052 87 29
@@ -50904,6 +51056,13 @@ Nummer: 13739
 **PRO Frövi**
 
     123 675 50 45
+
+
+
+
+**PRO Furulund**
+
+    123 440 20 20
 
 
 
@@ -51450,6 +51609,13 @@ Nummer: 13739
 
 
 
+**PRO Målsryd-Gånghester**
+
+    123 156 05 07
+
+
+
+
 **PRO Månkarbo-Kyrkbyn**
 
     123 252 03 85
@@ -51494,7 +51660,23 @@ Nummer: 13739
 
 **PRO Norrtälje**
 
+    123 515 43 07
+
     123 538 88 30
+
+
+
+
+**PRO Nybro**
+
+    123 651 63 63
+
+
+
+
+**PRO Nyed**
+
+    123 409 93 47
 
 
 
@@ -51607,6 +51789,13 @@ Nummer: 13739
 **PRO Sandvången**
 
     123 521 54 39
+
+
+
+
+**PRO Simrishamn**
+
+    123 614 54 29
 
 
 
@@ -51740,6 +51929,13 @@ Nummer: 13739
 **PRO Sydöland**
 
     123 069 08 42
+
+
+
+
+**PRO Säffle**
+
+    123 005 73 56
 
 
 
@@ -51966,6 +52162,13 @@ Nummer: 13739
 **PRO Viskafors**
 
     123 666 08 15
+
+
+
+
+**PRO Vivalla-Lundby**
+
+    123 601 00 78
 
 
 
@@ -57169,7 +57372,7 @@ Nummer: 13739
 
 
 
-**Sekelskiftesdagarna i Marstrand ideella förening**
+**Sekelskiftesdagarna i Marstrand**
 
     123 632 86 29
 
@@ -60196,6 +60399,13 @@ Nummer: 13739
 
 
 
+**Solgläntans Hemlösa katter**
+
+    123 358 70 94
+
+
+
+
 **Solkarina / Sinnligkunskap AB**
 
     123 007 90 61
@@ -61036,6 +61246,13 @@ Nummer: 13739
 **SPF Seniorerna Fräkne Ljungskile**
 
     123 507 96 29
+
+
+
+
+**SPF Seniorerna Furan Järbo**
+
+    123 268 72 18
 
 
 
@@ -78352,6 +78569,13 @@ Nummer: 13739
 
 
 
+**Väsby Lås & Larm AB**
+
+    123 619 61 33
+
+
+
+
 **Väsby OK**
 
     123 118 51 23
@@ -81428,6 +81652,13 @@ Nummer: 13739
 **Ågrenska Vänskapsföreningen**
 
     123 909 11 09
+
+
+
+
+**Ågården**
+
+    123 268 10 13
 
 
 
