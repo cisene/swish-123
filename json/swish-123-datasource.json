@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-12-03-rev-004435",
+    "date": "2024-12-04-rev-152747",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13174,6 +13174,17 @@
       "web": "http://www.sakurablomsterhandel.se/"
     },
     {
+      "entry": 1230627828,
+      "orgName": "V\u00e4sby Hockey",
+      "orgNumber": "814800-8785",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/vasbyhockey"
+    },
+    {
       "entry": 1230628420,
       "orgName": "Gnesta Scoutk\u00e5r",
       "orgNumber": "802526-5581",
@@ -20506,6 +20517,17 @@
         "kvinnojour"
       ],
       "web": "https://kvinnojourenmaggan.se/"
+    },
+    {
+      "entry": 1230927673,
+      "orgName": "BK Skottfint",
+      "orgNumber": "802455-4621",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/bkskottfint"
     },
     {
       "entry": 1230927764,
@@ -29310,7 +29332,7 @@
     },
     {
       "entry": 1231345123,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Randers i Malm\u00f6",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Randers i Malm\u00f6",
       "orgNumber": "746000-5429",
       "comment": null,
       "categories": [
@@ -41077,6 +41099,17 @@
       "web": "https://innebandy.se/"
     },
     {
+      "entry": 1231899640,
+      "orgName": "V\u00e4sby Hockey",
+      "orgNumber": "814800-8785",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/vasbyhockey"
+    },
+    {
       "entry": 1231899798,
       "orgName": "Ytterj\u00e4rna F\u00f6rsamling",
       "orgNumber": "252000-0858",
@@ -41965,6 +41998,17 @@
         "sportfiske"
       ],
       "web": "https://www.rengsjofiske.se/"
+    },
+    {
+      "entry": 1231962745,
+      "orgName": "GT/76 Bandy",
+      "orgNumber": "802005-9104",
+      "comment": "Tellus A",
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/gt76"
     },
     {
       "entry": 1231962828,
@@ -59552,7 +59596,7 @@
     },
     {
       "entry": 1232780054,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Hj\u00e4lm\u00f6 i Stockholm",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Hj\u00e4lm\u00f6 i Stockholm",
       "orgNumber": "702000-8962",
       "comment": null,
       "categories": [
@@ -60686,7 +60730,7 @@
     },
     {
       "entry": 1232824167,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Lin\u00e5kern i Nora",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Lin\u00e5kern i Nora",
       "orgNumber": "777100-1067",
       "comment": null,
       "categories": [
@@ -66054,6 +66098,18 @@
       "web": "https://www.ortagarden.se/"
     },
     {
+      "entry": 1233113909,
+      "orgName": "\u00c5kerbo Rid- & K\u00f6rs\u00e4llskap",
+      "orgNumber": "822003-4550",
+      "comment": null,
+      "categories": [
+        "k\u00f6rs\u00e4llskap",
+        "ridklubb",
+        "rids\u00e4llskap"
+      ],
+      "web": "https://www.svenskalag.se/akerboridks"
+    },
+    {
       "entry": 1233114048,
       "orgName": "Socialistiskt Alternativ",
       "orgNumber": "802404-0308",
@@ -69645,7 +69701,7 @@
     },
     {
       "entry": 1233288289,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Skutan i Sundsvall",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Skutan i Sundsvall",
       "orgNumber": "789200-2564",
       "comment": null,
       "categories": [
@@ -74587,6 +74643,19 @@
       "web": "https://www.iggesundsik.se/"
     },
     {
+      "entry": 1233514429,
+      "orgName": "Vittsj\u00f6 GIK",
+      "orgNumber": "837000-3017",
+      "comment": "Damer",
+      "categories": [
+        "fotbollsklubb",
+        "friidrottsf\u00f6rening",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/vittsjo-gik"
+    },
+    {
       "entry": 1233514536,
       "orgName": "V\u00e4r\u00f6backa GIF",
       "orgNumber": "849600-2331",
@@ -75778,6 +75847,17 @@
       "web": "https://www.svenskakyrkan.se/taby"
     },
     {
+      "entry": 1233559887,
+      "orgName": "Aln\u00f6 IF",
+      "orgNumber": "889200-0053",
+      "comment": "F16",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/alnoif"
+    },
+    {
       "entry": 1233561438,
       "orgName": "Runstens Hembygdsf\u00f6rening",
       "orgNumber": "832000-2812",
@@ -76463,7 +76543,7 @@
     },
     {
       "entry": 1233600376,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening R\u00f6dstj\u00e4rten i Stockholm",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen R\u00f6dstj\u00e4rten i Stockholm",
       "orgNumber": "702001-8540",
       "comment": null,
       "categories": [
@@ -78348,7 +78428,7 @@
     },
     {
       "entry": 1233703568,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Siljan i Stockholm",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Siljan i Stockholm",
       "orgNumber": "702001-9209",
       "comment": null,
       "categories": [
@@ -85844,7 +85924,7 @@
     },
     {
       "entry": 1234104725,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Clareberg i G\u00f6teborg",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Clareberg i G\u00f6teborg",
       "orgNumber": "716409-4869",
       "comment": null,
       "categories": [
@@ -91072,7 +91152,7 @@
     },
     {
       "entry": 1234372827,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Gjutarm\u00e4staren i J\u00e4rf\u00e4lla",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Gjutarm\u00e4staren i J\u00e4rf\u00e4lla",
       "orgNumber": "769617-9881",
       "comment": null,
       "categories": [
@@ -103347,7 +103427,7 @@
     },
     {
       "entry": 1235037544,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening R\u00f6sj\u00f6 \u00c4ngar i Sollentuna",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen R\u00f6sj\u00f6 \u00c4ngar i Sollentuna",
       "orgNumber": "769618-0939",
       "comment": null,
       "categories": [
@@ -107389,6 +107469,19 @@
         "s\u00e4kerhetsutrustning"
       ],
       "web": "https://scandinaviansafe.se/"
+    },
+    {
+      "entry": 1235198783,
+      "orgName": "FBC Karlskrona",
+      "orgNumber": "835600-6430",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "motionsklubb",
+        "parasport"
+      ],
+      "web": "https://www.svenskalag.se/fbckarlskrona"
     },
     {
       "entry": 1235200167,
@@ -118577,6 +118670,17 @@
       "web": "https://vaxjo.rotary2400.se/"
     },
     {
+      "entry": 1235706429,
+      "orgName": "FC Trelleborg",
+      "orgNumber": "847000-8247",
+      "comment": "U16",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/FCTrelleborg"
+    },
+    {
       "entry": 1235706478,
       "orgName": "B\u00e5stad-\u00d6stra Karups F\u00f6rsamling",
       "orgNumber": "252004-1902",
@@ -123113,6 +123217,17 @@
         "segels\u00e4llskap"
       ],
       "web": "https://umss.se/gasthamnen/"
+    },
+    {
+      "entry": 1235947031,
+      "orgName": "Sundsvalls Konst\u00e5kning",
+      "orgNumber": "889202-8633",
+      "comment": "Restaurangchansen",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.svenskalag.se/sundsvallskonstakning"
     },
     {
       "entry": 1235947163,
@@ -128410,7 +128525,7 @@
     },
     {
       "entry": 1236202899,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Britta-Lena i Kungsbacka",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Britta-Lena i Kungsbacka",
       "orgNumber": "716408-3235",
       "comment": null,
       "categories": [
@@ -128714,7 +128829,7 @@
     },
     {
       "entry": 1236215727,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Runristaren i Lund",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Runristaren i Lund",
       "orgNumber": "716406-8160",
       "comment": null,
       "categories": [
@@ -128843,7 +128958,7 @@
     },
     {
       "entry": 1236218960,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Bergslagen 18 i Stockholm",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Bergslagen 18 i Stockholm",
       "orgNumber": "716419-8173",
       "comment": null,
       "categories": [
@@ -136172,7 +136287,7 @@
     },
     {
       "entry": 1236590665,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Chauff\u00f6ren i Pite\u00e5",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Chauff\u00f6ren i Pite\u00e5",
       "orgNumber": "798800-0217",
       "comment": null,
       "categories": [
@@ -136662,7 +136777,7 @@
     },
     {
       "entry": 1236629166,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Bockemossen i Partille",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Bockemossen i Partille",
       "orgNumber": "757200-8782",
       "comment": null,
       "categories": [
@@ -141828,7 +141943,7 @@
     },
     {
       "entry": 1236861496,
-      "orgName": "Bostadsr\u00e4ttsf\u00f6rening Trollberget i J\u00e4rf\u00e4lla",
+      "orgName": "Bostadsr\u00e4ttsf\u00f6reningen Trollberget i J\u00e4rf\u00e4lla",
       "orgNumber": "713200-0956",
       "comment": null,
       "categories": [

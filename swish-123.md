@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-12-03-rev-004511
+Revision: 2024-12-04-rev-152821
 
-Nummer: 13772
+Nummer: 13782
 
 
 
@@ -1525,6 +1525,8 @@ Nummer: 13772
     123 197 47 40
 
     123 281 76 09 - A-lag/Herrar
+
+    123 355 98 87 - F16
 
     123 426 36 53 - F15
 
@@ -5296,6 +5298,8 @@ Nummer: 13772
 
 **BK Skottfint**
 
+    123 092 76 73
+
     123 286 18 05
 
 
@@ -6493,111 +6497,6 @@ Nummer: 13772
 
 
 
-**Bostadsrättsförening Bergslagen 18 i Stockholm**
-
-    123 621 89 60
-
-
-
-
-**Bostadsrättsförening Bockemossen i Partille**
-
-    123 662 91 66
-
-
-
-
-**Bostadsrättsförening Britta-Lena i Kungsbacka**
-
-    123 620 28 99
-
-
-
-
-**Bostadsrättsförening Chauffören i Piteå**
-
-    123 659 06 65
-
-
-
-
-**Bostadsrättsförening Clareberg i Göteborg**
-
-    123 410 47 25
-
-
-
-
-**Bostadsrättsförening Gjutarmästaren i Järfälla**
-
-    123 437 28 27
-
-
-
-
-**Bostadsrättsförening Hjälmö i Stockholm**
-
-    123 278 00 54
-
-
-
-
-**Bostadsrättsförening Linåkern i Nora**
-
-    123 282 41 67
-
-
-
-
-**Bostadsrättsförening Randers i Malmö**
-
-    123 134 51 23
-
-
-
-
-**Bostadsrättsförening Runristaren i Lund**
-
-    123 621 57 27
-
-
-
-
-**Bostadsrättsförening Rödstjärten i Stockholm**
-
-    123 360 03 76
-
-
-
-
-**Bostadsrättsförening Rösjö Ängar i Sollentuna**
-
-    123 503 75 44
-
-
-
-
-**Bostadsrättsförening Siljan i Stockholm**
-
-    123 370 35 68
-
-
-
-
-**Bostadsrättsförening Skutan i Sundsvall**
-
-    123 328 82 89
-
-
-
-
-**Bostadsrättsförening Trollberget i Järfälla**
-
-    123 686 14 96
-
-
-
-
 **Bostadsrättsföreningen Agaten**
 
     123 650 49 89
@@ -6628,6 +6527,13 @@ Nummer: 13772
 
 
 
+**Bostadsrättsföreningen Bergslagen 18 i Stockholm**
+
+    123 621 89 60
+
+
+
+
 **Bostadsrättsföreningen Bergsund 75**
 
     123 578 86 58
@@ -6638,6 +6544,20 @@ Nummer: 13772
 **Bostadsrättsföreningen Björkpyrolan**
 
     123 386 44 69
+
+
+
+
+**Bostadsrättsföreningen Bockemossen i Partille**
+
+    123 662 91 66
+
+
+
+
+**Bostadsrättsföreningen Britta-Lena i Kungsbacka**
+
+    123 620 28 99
 
 
 
@@ -6659,6 +6579,20 @@ Nummer: 13772
 **Bostadsrättsföreningen Charlottenburg**
 
     123 100 65 27
+
+
+
+
+**Bostadsrättsföreningen Chauffören i Piteå**
+
+    123 659 06 65
+
+
+
+
+**Bostadsrättsföreningen Clareberg i Göteborg**
+
+    123 410 47 25
 
 
 
@@ -6754,6 +6688,13 @@ Nummer: 13772
 
 
 
+**Bostadsrättsföreningen Gjutarmästaren i Järfälla**
+
+    123 437 28 27
+
+
+
+
 **Bostadsrättsföreningen Grindstugan i Stockholm**
 
     123 227 47 44
@@ -6829,6 +6770,13 @@ Nummer: 13772
 **Bostadsrättsföreningen Hemmet 17**
 
     123 338 78 75
+
+
+
+
+**Bostadsrättsföreningen Hjälmö i Stockholm**
+
+    123 278 00 54
 
 
 
@@ -6947,6 +6895,13 @@ Nummer: 13772
 **Bostadsrättsföreningen Linero i Lund**
 
     123 252 31 40
+
+
+
+
+**Bostadsrättsföreningen Linåkern i Nora**
+
+    123 282 41 67
 
 
 
@@ -7070,6 +7025,13 @@ Nummer: 13772
 
 
 
+**Bostadsrättsföreningen Randers i Malmö**
+
+    123 134 51 23
+
+
+
+
 **Bostadsrättsföreningen Rektangeln 22**
 
     123 317 59 32
@@ -7084,6 +7046,13 @@ Nummer: 13772
 
 
 
+**Bostadsrättsföreningen Runristaren i Lund**
+
+    123 621 57 27
+
+
+
+
 **Bostadsrättsföreningen Rödshöjden i Strömstad**
 
     123 458 30 01
@@ -7091,9 +7060,23 @@ Nummer: 13772
 
 
 
+**Bostadsrättsföreningen Rödstjärten i Stockholm**
+
+    123 360 03 76
+
+
+
+
 **Bostadsrättsföreningen Rönnen i Märsta**
 
     123 190 12 22
+
+
+
+
+**Bostadsrättsföreningen Rösjö Ängar i Sollentuna**
+
+    123 503 75 44
 
 
 
@@ -7126,6 +7109,13 @@ Nummer: 13772
 
 
 
+**Bostadsrättsföreningen Siljan i Stockholm**
+
+    123 370 35 68
+
+
+
+
 **Bostadsrättsföreningen Sjöstaden 3**
 
     123 638 29 56
@@ -7143,6 +7133,13 @@ Nummer: 13772
 **Bostadsrättsföreningen Skogsgläntan i Umeå**
 
     123 330 42 92
+
+
+
+
+**Bostadsrättsföreningen Skutan i Sundsvall**
+
+    123 328 82 89
 
 
 
@@ -7290,6 +7287,13 @@ Nummer: 13772
 **Bostadsrättsföreningen Torpet**
 
     123 057 45 82
+
+
+
+
+**Bostadsrättsföreningen Trollberget i Järfälla**
+
+    123 686 14 96
 
 
 
@@ -15975,6 +15979,8 @@ Nummer: 13772
 
     123 499 29 21
 
+    123 519 87 83
+
 
 
 
@@ -16058,6 +16064,13 @@ Nummer: 13772
 **FC Staffanstorp**
 
     123 691 65 30
+
+
+
+
+**FC Trelleborg**
+
+    123 570 64 29 - U16
 
 
 
@@ -22536,6 +22549,13 @@ Nummer: 13772
 **Gröveldalens Fornminnesförening**
 
     123 435 30 90 - Fjällbondegården vid Jotli
+
+
+
+
+**GT/76 Bandy**
+
+    123 196 27 45 - Tellus A
 
 
 
@@ -65692,6 +65712,13 @@ Nummer: 13772
 
 
 
+**Sundsvalls Konståkning**
+
+    123 594 70 31 - Restaurangchansen
+
+
+
+
 **Sundsvalls Pistolskytteklubb**
 
     123 183 49 77
@@ -77634,6 +77661,8 @@ Nummer: 13772
 
 **Vittsjö GIK**
 
+    123 351 44 29 - Damer
+
     123 695 44 24
 
 
@@ -78565,6 +78594,15 @@ Nummer: 13772
 **Väsby FK**
 
     123 678 41 10
+
+
+
+
+**Väsby Hockey**
+
+    123 062 78 28
+
+    123 189 96 40
 
 
 
@@ -81768,6 +81806,13 @@ Nummer: 13772
 **Åkerbo Frikyrkoförsamling**
 
     123 199 31 12
+
+
+
+
+**Åkerbo Rid- & Körsällskap**
+
+    123 311 39 09
 
 
 

@@ -10845,6 +10845,15 @@ entries:
   - butikshandel
   web: http://www.sakurablomsterhandel.se/
 
+- entry: 1230627828
+  orgName: Väsby Hockey
+  orgNumber: 814800-8785
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/vasbyhockey
+
 - entry: 1230628420
   orgName: Gnesta Scoutkår
   orgNumber: 802526-5581
@@ -16882,6 +16891,15 @@ entries:
   categories:
   - kvinnojour
   web: https://kvinnojourenmaggan.se/
+
+- entry: 1230927673
+  orgName: BK Skottfint
+  orgNumber: 802455-4621
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/bkskottfint
 
 - entry: 1230927764
   orgName: IF Örnen
@@ -24160,7 +24178,7 @@ entries:
   web: https://kristianstad.nmrf.se/
 
 - entry: 1231345123
-  orgName: Bostadsrättsförening Randers i Malmö
+  orgName: Bostadsrättsföreningen Randers i Malmö
   orgNumber: 746000-5429
   comment: null
   categories:
@@ -33862,6 +33880,15 @@ entries:
   - innebandyklubb
   web: https://innebandy.se/
 
+- entry: 1231899640
+  orgName: Väsby Hockey
+  orgNumber: 814800-8785
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/vasbyhockey
+
 - entry: 1231899798
   orgName: Ytterjärna Församling
   orgNumber: 252000-0858
@@ -34589,6 +34616,15 @@ entries:
   - naturvård
   - sportfiske
   web: https://www.rengsjofiske.se/
+
+- entry: 1231962745
+  orgName: GT/76 Bandy
+  orgNumber: 802005-9104
+  comment: Tellus A
+  categories:
+  - bandyklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/gt76
 
 - entry: 1231962828
   orgName: Hälsingborgs Jaktskytteklubb
@@ -49115,7 +49151,7 @@ entries:
   web: http://www.tronningenas.org/soumldra-hamnfoumlreningen.html
 
 - entry: 1232780054
-  orgName: Bostadsrättsförening Hjälmö i Stockholm
+  orgName: Bostadsrättsföreningen Hjälmö i Stockholm
   orgNumber: 702000-8962
   comment: null
   categories:
@@ -50041,7 +50077,7 @@ entries:
   web: https://www.ibffalunu.se/
 
 - entry: 1232824167
-  orgName: Bostadsrättsförening Linåkern i Nora
+  orgName: Bostadsrättsföreningen Linåkern i Nora
   orgNumber: 777100-1067
   comment: null
   categories:
@@ -54504,6 +54540,16 @@ entries:
   - religion
   web: https://www.ortagarden.se/
 
+- entry: 1233113909
+  orgName: Åkerbo Rid- & Körsällskap
+  orgNumber: 822003-4550
+  comment: null
+  categories:
+  - körsällskap
+  - ridklubb
+  - ridsällskap
+  web: https://www.svenskalag.se/akerboridks
+
 - entry: 1233114048
   orgName: Socialistiskt Alternativ
   orgNumber: 802404-0308
@@ -57482,7 +57528,7 @@ entries:
   web: https://www.overkalix.se/
 
 - entry: 1233288289
-  orgName: Bostadsrättsförening Skutan i Sundsvall
+  orgName: Bostadsrättsföreningen Skutan i Sundsvall
   orgNumber: 789200-2564
   comment: null
   categories:
@@ -61534,6 +61580,17 @@ entries:
   - idrottsförening
   web: https://www.iggesundsik.se/
 
+- entry: 1233514429
+  orgName: Vittsjö GIK
+  orgNumber: 837000-3017
+  comment: Damer
+  categories:
+  - fotbollsklubb
+  - friidrottsförening
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.svenskalag.se/vittsjo-gik
+
 - entry: 1233514536
   orgName: Väröbacka GIF
   orgNumber: 849600-2331
@@ -62505,6 +62562,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/taby
 
+- entry: 1233559887
+  orgName: Alnö IF
+  orgNumber: 889200-0053
+  comment: F16
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/alnoif
+
 - entry: 1233561438
   orgName: Runstens Hembygdsförening
   orgNumber: 832000-2812
@@ -63073,7 +63139,7 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1233600376
-  orgName: Bostadsrättsförening Rödstjärten i Stockholm
+  orgName: Bostadsrättsföreningen Rödstjärten i Stockholm
   orgNumber: 702001-8540
   comment: null
   categories:
@@ -64638,7 +64704,7 @@ entries:
   web: http://solvesborgstradgardsforening.se/
 
 - entry: 1233703568
-  orgName: Bostadsrättsförening Siljan i Stockholm
+  orgName: Bostadsrättsföreningen Siljan i Stockholm
   orgNumber: 702001-9209
   comment: null
   categories:
@@ -70821,7 +70887,7 @@ entries:
   web: https://www.svenskalag.se/brinkensif
 
 - entry: 1234104725
-  orgName: Bostadsrättsförening Clareberg i Göteborg
+  orgName: Bostadsrättsföreningen Clareberg i Göteborg
   orgNumber: 716409-4869
   comment: null
   categories:
@@ -75145,7 +75211,7 @@ entries:
   web: https://www.rattviksgk.se/
 
 - entry: 1234372827
-  orgName: Bostadsrättsförening Gjutarmästaren i Järfälla
+  orgName: Bostadsrättsföreningen Gjutarmästaren i Järfälla
   orgNumber: 769617-9881
   comment: null
   categories:
@@ -85228,7 +85294,7 @@ entries:
   web: https://www.vrangofritidsforening.se/
 
 - entry: 1235037544
-  orgName: Bostadsrättsförening Rösjö Ängar i Sollentuna
+  orgName: Bostadsrättsföreningen Rösjö Ängar i Sollentuna
   orgNumber: 769618-0939
   comment: null
   categories:
@@ -88578,6 +88644,17 @@ entries:
   - försäljning
   - säkerhetsutrustning
   web: https://scandinaviansafe.se/
+
+- entry: 1235198783
+  orgName: FBC Karlskrona
+  orgNumber: 835600-6430
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - motionsklubb
+  - parasport
+  web: https://www.svenskalag.se/fbckarlskrona
 
 - entry: 1235200167
   orgName: Klässbols Båtklubb
@@ -97783,6 +97860,15 @@ entries:
   - rotaryklubb
   web: https://vaxjo.rotary2400.se/
 
+- entry: 1235706429
+  orgName: FC Trelleborg
+  orgNumber: 847000-8247
+  comment: U16
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/FCTrelleborg
+
 - entry: 1235706478
   orgName: Båstad-Östra Karups Församling
   orgNumber: 252004-1902
@@ -101574,6 +101660,15 @@ entries:
   - segelsällskap
   web: https://umss.se/gasthamnen/
 
+- entry: 1235947031
+  orgName: Sundsvalls Konståkning
+  orgNumber: 889202-8633
+  comment: Restaurangchansen
+  categories:
+  - idrottsförening
+  - konståkningsklubb
+  web: https://www.svenskalag.se/sundsvallskonstakning
+
 - entry: 1235947163
   orgName: SHRA Luleå
   orgNumber: 897000-5974
@@ -102220,7 +102315,7 @@ entries:
   web: https://bogesundsgård.se/
 
 - entry: 1235996699
-  orgName: Bostadsrättsförening Nunnan i Stockholm
+  orgName: Bostadsrättsföreningen Nunnan i Stockholm
   orgNumber: 716417-8100
   comment: null
   categories: null
@@ -105960,7 +106055,7 @@ entries:
   web: https://www.stepbystepdansskola.com/
 
 - entry: 1236202899
-  orgName: Bostadsrättsförening Britta-Lena i Kungsbacka
+  orgName: Bostadsrättsföreningen Britta-Lena i Kungsbacka
   orgNumber: 716408-3235
   comment: null
   categories:
@@ -106208,7 +106303,7 @@ entries:
   web: https://weeffect.se/
 
 - entry: 1236215727
-  orgName: Bostadsrättsförening Runristaren i Lund
+  orgName: Bostadsrättsföreningen Runristaren i Lund
   orgNumber: 716406-8160
   comment: null
   categories:
@@ -106313,7 +106408,7 @@ entries:
   web: https://hallansbg.se/
 
 - entry: 1236218960
-  orgName: Bostadsrättsförening Bergslagen 18 i Stockholm
+  orgName: Bostadsrättsföreningen Bergslagen 18 i Stockholm
   orgNumber: 716419-8173
   comment: null
   categories:
@@ -112399,7 +112494,7 @@ entries:
   web: https://www.svenskakyrkan.se/gavle/defaultaspxid668646
 
 - entry: 1236590665
-  orgName: Bostadsrättsförening Chauffören i Piteå
+  orgName: Bostadsrättsföreningen Chauffören i Piteå
   orgNumber: 798800-0217
   comment: null
   categories:
@@ -112806,7 +112901,7 @@ entries:
   web: https://worldsessions.se/
 
 - entry: 1236629166
-  orgName: Bostadsrättsförening Bockemossen i Partille
+  orgName: Bostadsrättsföreningen Bockemossen i Partille
   orgNumber: 757200-8782
   comment: null
   categories:
@@ -117058,7 +117153,7 @@ entries:
   web: https://www.facebook.com/groups/180614848768314
 
 - entry: 1236861496
-  orgName: Bostadsrättsförening Trollberget i Järfälla
+  orgName: Bostadsrättsföreningen Trollberget i Järfälla
   orgNumber: 713200-0956
   comment: null
   categories:
