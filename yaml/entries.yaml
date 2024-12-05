@@ -2473,6 +2473,15 @@ entries:
   - massage
   web: https://massagevetlanda.se/
 
+- entry: 1230166082
+  orgName: Wä IF
+  orgNumber: 838200-4342
+  comment: P15-16
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/waif
+
 - entry: 1230166769
   orgName: SPF Seniorerna Ringstorp Helsingborg
   orgNumber: 802493-8048
@@ -6411,6 +6420,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/saltsjobaden/saltsjobadens-diakoni
 
+- entry: 1230368225
+  orgName: Smålandsstenars SS
+  orgNumber: 828500-6063
+  comment: null
+  categories:
+  - idrottsförening
+  - simsällskap
+  web: https://www.svenskalag.se/sss
+
 - entry: 1230368241
   orgName: Nordic Deaf Bridge
   orgNumber: 802466-7258
@@ -7940,7 +7958,9 @@ entries:
   orgNumber: 827000-2036
   comment: null
   categories:
+  - bandyklubb
   - idrottsförening
+  - skridskoklubb
   web: https://www.svenskalag.se/nassjoif
 
 - entry: 1230440917
@@ -40208,6 +40228,15 @@ entries:
   - bygdegårdsförening
   web: https://societetshusetoregrund.se/
 
+- entry: 1232260412
+  orgName: Gerdsken BK
+  orgNumber: 864000-0793
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/gerdskensbk
+
 - entry: 1232261121
   orgName: MC-Kompaniet i Väring AB
   orgNumber: 556131-6026
@@ -46883,6 +46912,15 @@ entries:
   - fotoklubb
   web: https://www.alingsasfotoklubb.se/
 
+- entry: 1232678316
+  orgName: Fotbollsklubben Ulven
+  orgNumber: 802412-3807
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ulven
+
 - entry: 1232678498
   orgName: Alvesta Församling
   orgNumber: 252004-2736
@@ -49114,6 +49152,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1232777423
+  orgName: Mjölby Hockey Supporterklubb
+  orgNumber: 802508-6920
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.mhc.se/
 
 - entry: 1232777845
   orgName: Gotlands Stövarklubb, GSK
@@ -59486,6 +59532,16 @@ entries:
   - ishockeyklubb
   web: https://www.svenskalag.se/umeahockeyklubb
 
+- entry: 1233403276
+  orgName: Stegeborgs IF
+  orgNumber: 802432-1351
+  comment: Herrlaget
+  categories:
+  - bordtennisklubb
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/stegeborgsif
+
 - entry: 1233407228
   orgName: Åtorps IF
   orgNumber: 876400-5941
@@ -68260,6 +68316,15 @@ entries:
   - yoga
   web: https://www.carinosyoga.se/
 
+- entry: 1233915980
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: F14/15
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
+
 - entry: 1233921672
   orgName: Gryts Hembygdsförening
   orgNumber: 819001-0895
@@ -76750,6 +76815,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.bokenasif.com/
+
+- entry: 1234476446
+  orgName: Gerdsken BK
+  orgNumber: 864000-0793
+  comment: P2011
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/gerdskensbk
 
 - entry: 1234476891
   orgName: Romeo och Julia Kören
@@ -102367,6 +102441,15 @@ entries:
   - konståkningsklubb
   web: https://www.svenskalag.se/knivstais
 
+- entry: 1236003289
+  orgName: Råslätt SK
+  orgNumber: 826000-8332
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/raslattssk
+
 - entry: 1236003792
   orgName: Indian Motorcycle Club Sweden
   orgNumber: 802525-0427
@@ -108212,6 +108295,15 @@ entries:
   categories:
   - hjälporganisation
   web: https://svensk-etiopiska.se/
+
+- entry: 1236339493
+  orgName: IK Sturehov
+  orgNumber: 875001-0384
+  comment: P2012
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/iksturehov
 
 - entry: 1236339741
   orgName: Hemlösas Julbord / Homeless Foundation

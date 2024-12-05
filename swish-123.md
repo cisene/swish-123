@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-12-04-rev-152821
+Revision: 2024-12-05-rev-170216
 
-Nummer: 13782
+Nummer: 13792
 
 
 
@@ -17348,6 +17348,13 @@ Nummer: 13782
 
 
 
+**Fotbollsklubben Ulven**
+
+    123 267 83 16
+
+
+
+
 **Fotfixaren / Fotfixaren Helene Thomasson AB**
 
     123 478 35 85
@@ -21018,6 +21025,15 @@ Nummer: 13782
 
 
 
+**Gerdsken BK**
+
+    123 226 04 12
+
+    123 447 64 46 - P2011
+
+
+
+
 **Gerstaberg Gård / Gerstaberg Säteri AB**
 
     123 636 04 08
@@ -24438,6 +24454,8 @@ Nummer: 13782
 
 
 **Hargs BK**
+
+    123 391 59 80 - F14/15
 
     123 524 08 41 - P12
 
@@ -29764,6 +29782,8 @@ Nummer: 13782
     123 384 02 95 - P2010
 
     123 564 65 26 - P2017
+
+    123 633 94 93 - P2012
 
 
 
@@ -43846,6 +43866,13 @@ Nummer: 13782
 
 
 
+**Mjölby Hockey Supporterklubb**
+
+    123 277 74 23
+
+
+
+
 **Mjölby IBK**
 
     123 083 89 53
@@ -55810,6 +55837,13 @@ Nummer: 13782
 
 
 
+**Råslätt SK**
+
+    123 600 32 89
+
+
+
+
 **Råslätts Församlingsgemenskap**
 
     123 667 20 83
@@ -60174,6 +60208,13 @@ Nummer: 13782
 
 
 
+**Smålandsstenars SS**
+
+    123 036 82 25
+
+
+
+
 **Smårsgårdens Islandshästar HB**
 
     123 419 77 03
@@ -62972,6 +63013,8 @@ Nummer: 13782
 **Stegeborgs IF**
 
     123 327 57 08
+
+    123 340 32 76 - Herrlaget
 
 
 
@@ -80456,6 +80499,8 @@ Nummer: 13782
 
 
 **Wä IF**
+
+    123 016 60 82 - P15-16
 
     123 051 67 32
 

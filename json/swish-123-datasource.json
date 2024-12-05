@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-12-04-rev-152747",
+    "date": "2024-12-05-rev-170141",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2994,6 +2994,17 @@
         "massage"
       ],
       "web": "https://massagevetlanda.se/"
+    },
+    {
+      "entry": 1230166082,
+      "orgName": "W\u00e4 IF",
+      "orgNumber": "838200-4342",
+      "comment": "P15-16",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/waif"
     },
     {
       "entry": 1230166769,
@@ -7778,6 +7789,17 @@
       "web": "https://www.svenskakyrkan.se/saltsjobaden/saltsjobadens-diakoni"
     },
     {
+      "entry": 1230368225,
+      "orgName": "Sm\u00e5landsstenars SS",
+      "orgNumber": "828500-6063",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "sims\u00e4llskap"
+      ],
+      "web": "https://www.svenskalag.se/sss"
+    },
+    {
       "entry": 1230368241,
       "orgName": "Nordic Deaf Bridge",
       "orgNumber": "802466-7258",
@@ -9637,7 +9659,9 @@
       "orgNumber": "827000-2036",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "bandyklubb",
+        "idrottsf\u00f6rening",
+        "skridskoklubb"
       ],
       "web": "https://www.svenskalag.se/nassjoif"
     },
@@ -48778,6 +48802,17 @@
       "web": "https://societetshusetoregrund.se/"
     },
     {
+      "entry": 1232260412,
+      "orgName": "Gerdsken BK",
+      "orgNumber": "864000-0793",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/gerdskensbk"
+    },
+    {
       "entry": 1232261121,
       "orgName": "MC-Kompaniet i V\u00e4ring AB",
       "orgNumber": "556131-6026",
@@ -56850,6 +56885,17 @@
       "web": "https://www.alingsasfotoklubb.se/"
     },
     {
+      "entry": 1232678316,
+      "orgName": "Fotbollsklubben Ulven",
+      "orgNumber": "802412-3807",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ulven"
+    },
+    {
       "entry": 1232678498,
       "orgName": "Alvesta F\u00f6rsamling",
       "orgNumber": "252004-2736",
@@ -59550,6 +59596,16 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232777423,
+      "orgName": "Mj\u00f6lby Hockey Supporterklubb",
+      "orgNumber": "802508-6920",
+      "comment": null,
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.mhc.se/"
     },
     {
       "entry": 1232777845,
@@ -72084,6 +72140,18 @@
       "web": "https://www.svenskalag.se/umeahockeyklubb"
     },
     {
+      "entry": 1233403276,
+      "orgName": "Stegeborgs IF",
+      "orgNumber": "802432-1351",
+      "comment": "Herrlaget",
+      "categories": [
+        "bordtennisklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/stegeborgsif"
+    },
+    {
       "entry": 1233407228,
       "orgName": "\u00c5torps IF",
       "orgNumber": "876400-5941",
@@ -82736,6 +82804,17 @@
       "web": "https://www.carinosyoga.se/"
     },
     {
+      "entry": 1233915980,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "F14/15",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
+    },
+    {
       "entry": 1233921672,
       "orgName": "Gryts Hembygdsf\u00f6rening",
       "orgNumber": "819001-0895",
@@ -93029,6 +93108,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.bokenasif.com/"
+    },
+    {
+      "entry": 1234476446,
+      "orgName": "Gerdsken BK",
+      "orgNumber": "864000-0793",
+      "comment": "P2011",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/gerdskensbk"
     },
     {
       "entry": 1234476891,
@@ -124066,6 +124156,17 @@
       "web": "https://www.svenskalag.se/knivstais"
     },
     {
+      "entry": 1236003289,
+      "orgName": "R\u00e5sl\u00e4tt SK",
+      "orgNumber": "826000-8332",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/raslattssk"
+    },
+    {
       "entry": 1236003792,
       "orgName": "Indian Motorcycle Club Sweden",
       "orgNumber": "802525-0427",
@@ -131131,6 +131232,17 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://svensk-etiopiska.se/"
+    },
+    {
+      "entry": 1236339493,
+      "orgName": "IK Sturehov",
+      "orgNumber": "875001-0384",
+      "comment": "P2012",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/iksturehov"
     },
     {
       "entry": 1236339741,
