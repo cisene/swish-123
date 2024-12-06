@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-12-05-rev-170216
+Revision: 2024-12-06-rev-165634
 
-Nummer: 13792
+Nummer: 13830
 
 
 
@@ -1524,6 +1524,8 @@ Nummer: 13792
 
     123 197 47 40
 
+    123 214 50 19 - P13
+
     123 281 76 09 - A-lag/Herrar
 
     123 355 98 87 - F16
@@ -2360,7 +2362,7 @@ Nummer: 13792
 
 
 
-**Arboga AK**
+**Arboga Atletklubb**
 
     123 123 42 36
 
@@ -5254,6 +5256,8 @@ Nummer: 13792
 
     123 147 60 92
 
+    123 303 90 54 - F14
+
 
 
 
@@ -6133,7 +6137,7 @@ Nummer: 13792
 
 **Borlänge HF**
 
-    123 504 66 93 - Team 11
+    123 504 66 93
 
     123 565 26 31
 
@@ -16063,6 +16067,8 @@ Nummer: 13792
 
 **FC Staffanstorp**
 
+    123 567 76 04 - Damlaget
+
     123 691 65 30
 
 
@@ -18296,6 +18302,8 @@ Nummer: 13792
 **Främmestads IK**
 
     123 092 80 93
+
+    123 655 88 11 - Padel
 
 
 
@@ -24455,6 +24463,8 @@ Nummer: 13792
 
 **Hargs BK**
 
+    123 324 65 92 - P 10
+
     123 391 59 80 - F14/15
 
     123 524 08 41 - P12
@@ -26624,6 +26634,8 @@ Nummer: 13792
 
 **Huddinge HK**
 
+    123 376 31 41 - Blå Hjärtat
+
     123 694 81 78
 
 
@@ -27187,7 +27199,9 @@ Nummer: 13792
 
 
 
-**HV-71**
+**HV 71**
+
+    123 269 10 61 - U13
 
     123 617 94 44
 
@@ -28591,6 +28605,8 @@ Nummer: 13792
 
 **IBK Vänersborg**
 
+    123 432 75 16 - P11
+
     123 602 51 42
 
 
@@ -29286,6 +29302,8 @@ Nummer: 13792
     123 126 63 86 - P10
 
     123 370 89 14 - U15
+
+    123 442 61 85 - F15
 
     123 525 56 41 - P2013
 
@@ -33179,6 +33197,15 @@ Nummer: 13792
 
 
 
+**Karlbergs BK**
+
+    123 524 08 17
+
+    123 576 08 30
+
+
+
+
 **Karlholms GoIF**
 
     123 219 34 64
@@ -36913,6 +36940,8 @@ Nummer: 13792
 
     123 062 66 55 - Kiosk
 
+    123 545 71 55 - Restaurangchansen
+
 
 
 
@@ -38300,6 +38329,13 @@ Nummer: 13792
 **Laxå IF**
 
     123 653 33 43
+
+
+
+
+**Laxå OK**
+
+    123 614 08 26
 
 
 
@@ -40378,6 +40414,13 @@ Nummer: 13792
 **Little Lions**
 
     123 302 44 94
+
+
+
+
+**LiU AIF**
+
+    123 557 79 29 - Squash
 
 
 
@@ -46048,6 +46091,8 @@ Nummer: 13792
 
 **Nittorps IK**
 
+    123 077 66 82
+
     123 580 99 75
 
 
@@ -47678,7 +47723,7 @@ Nummer: 13792
 
 
 
-**Nyköpings SG**
+**Nyköpings Skyttegille**
 
     123 653 31 94
 
@@ -48553,6 +48598,8 @@ Nummer: 13792
 
     123 071 11 50 - P 12
 
+    123 162 97 16 - F15 Nyköping
+
     123 182 35 82 - P 10 Nyköping
 
     123 304 78 83 - F 09/10
@@ -48564,6 +48611,8 @@ Nummer: 13792
     123 369 84 87 - P 08/09
 
     123 417 79 29 - P 15/16 Oxelösund
+
+    123 495 68 27 - HJ, H3, JAS
 
     123 553 56 46 - P 13
 
@@ -49058,6 +49107,15 @@ Nummer: 13792
 **Oxelösunds Hembygdsförening**
 
     123 120 96 83
+
+
+
+
+**Oxelösunds IK**
+
+    123 178 62 43 - Fotbollssektionen Damer
+
+    123 344 21 91
 
 
 
@@ -53982,6 +54040,13 @@ Nummer: 13792
 
 
 
+**Rimbo HK Roslagen**
+
+    123 172 08 46
+
+
+
+
 **Rimbo IF**
 
     123 079 36 46 - Fotboll
@@ -57594,6 +57659,13 @@ Nummer: 13792
 
 
 
+**SG Ruddalen IF**
+
+    123 180 24 79 - F12/13
+
+
+
+
 **Shanta Idrottsförening**
 
     123 338 75 03
@@ -58160,6 +58232,13 @@ Nummer: 13792
 **Själevads Församling**
 
     123 639 63 60
+
+
+
+
+**Själevads IK**
+
+    123 222 08 46
 
 
 
@@ -64756,7 +64835,7 @@ Nummer: 13792
 
 
 
-**Storebro IF**
+**Storebro Idrottsförening**
 
     123 476 32 72
 
@@ -65293,6 +65372,15 @@ Nummer: 13792
 **Strömsunds RK - Ridsport**
 
     123 494 16 47
+
+
+
+
+**Strövelstorp GIF**
+
+    123 378 37 76
+
+    123 400 23 58
 
 
 
@@ -72515,6 +72603,13 @@ Nummer: 13792
 
 
 
+**Tjällmo-Godegårds OK**
+
+    123 304 70 65
+
+
+
+
 **Tjärnö Hembygdsförening**
 
     123 519 52 84
@@ -73513,6 +73608,8 @@ Nummer: 13792
 
     123 059 29 15
 
+    123 526 55 17
+
 
 
 
@@ -74258,6 +74355,13 @@ Nummer: 13792
 
 
 
+**Täby FC**
+
+    123 274 08 92
+
+
+
+
 **Täby Församling**
 
     123 048 92 29 - Kollekt Tibble Kyrka
@@ -74286,6 +74390,13 @@ Nummer: 13792
 **Täby Hembygdsförening**
 
     123 183 97 94
+
+
+
+
+**Täby IS Innebandy**
+
+    123 391 56 34
 
 
 
@@ -77455,6 +77566,13 @@ Nummer: 13792
 
 
 
+**Virserums Sport & GF**
+
+    123 055 45 84 - A-lag 21/22
+
+
+
+
 **Virus- och pandemifonden - Svenska Sällskapet för Virologi**
 
     123 900 74 85
@@ -77635,6 +77753,17 @@ Nummer: 13792
 **Visättra DGC - Frisbee**
 
     123 114 83 60
+
+
+
+
+**Vita Hästen**
+
+    123 213 96 81 - Team 05
+
+    123 311 12 42 - J18
+
+    123 395 78 42 - J20
 
 
 
@@ -81848,6 +81977,19 @@ Nummer: 13792
 
 
 
+**Åker/Strängnäs HC**
+
+    123 254 70 40 - Team 15/16
+
+    123 288 60 42
+
+    123 303 86 43 - Team 12/13
+
+    123 449 00 09 - J18
+
+
+
+
 **Åkerbo Frikyrkoförsamling**
 
     123 199 31 12
@@ -83594,6 +83736,15 @@ Nummer: 13792
 
 
 
+**Östergötlands Ishockeyförbund**
+
+    123 540 24 25
+
+    123 669 25 45
+
+
+
+
 **Östergötlands Sjukhusclowner**
 
     123 305 90 60
@@ -83770,7 +83921,7 @@ Nummer: 13792
 
 
 
-**Östersunds konståkningsförening**
+**Östersunds Konståkningsförening**
 
     123 489 87 97
 
