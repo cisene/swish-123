@@ -38752,6 +38752,15 @@ entries:
   - religion
   web: https://www.linkopingmoske.se/
 
+- entry: 1232193969
+  orgName: Väsby Hockey
+  orgNumber: 814800-8785
+  comment: Team 16 (U9)
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/vasbyhockey
+
 - entry: 1232194397
   orgName: Grava Församling
   orgNumber: 252002-0799
@@ -49207,6 +49216,22 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegardarna.se/hitta-bygdegard/korpika/
+
+- entry: 1232772705
+  orgName: Enebybergs IF
+  orgNumber: 812000-0503
+  comment: F2010
+  categories:
+  - bandyklubb
+  - fotbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  - konståkningsklubb
+  - löparklubb
+  - orienteringsklubb
+  - skidlöparklubb
+  - tennisklubb
+  web: https://www.svenskalag.se/eif
 
 - entry: 1232772820
   orgName: Ljungby IF
@@ -65601,6 +65626,15 @@ entries:
   - ridklubb
   web: https://nsff.se/
 
+- entry: 1233747227
+  orgName: Vallentuna Innebandyklubb
+  orgNumber: 802435-3537
+  comment: Flickor 12-13
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.svenskalag.se/vallentunaibk
+
 - entry: 1233747243
   orgName: Mölndals biodlarförening
   orgNumber: 802533-9063
@@ -69030,6 +69064,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-varmland/samorganisationer/samorganisation-eda/foreningar/jarnskog.html
 
+- entry: 1233948726
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: P16
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
+
 - entry: 1233951019
   orgName: Pingstkyrkan Kaxholmen
   orgNumber: 826000-3614
@@ -69593,6 +69636,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/tjorn
+
+- entry: 1233971553
+  orgName: Vallentuna IBK
+  orgNumber: 802435-3537
+  comment: Flickor 14
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.svenskalag.se/vallentunaibk
 
 - entry: 1233971710
   orgName: Norra Allbo Hembygdsförening
@@ -103760,6 +103812,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/wargonsik
 
+- entry: 1236067508
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: P09
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
+
 - entry: 1236069421
   orgName: Storsjöns Kallbadhus
   orgNumber: 802493-1498
@@ -108293,6 +108354,15 @@ entries:
   - föräldraskap
   web: https://makalosa.org/
 
+- entry: 1236313167
+  orgName: Norrtälje IK
+  orgNumber: 814400-5454
+  comment: Team 11/12
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/nik
+
 - entry: 1236313829
   orgName: Barmhärtighetens Hus
   orgNumber: 802517-4809
@@ -109496,6 +109566,19 @@ entries:
   - motorbåtsklubb
   web: http://kristianstadsbatklubb.se/
 
+- entry: 1236387609
+  orgName: Knivsta IK
+  orgNumber: 814800-0618
+  comment: F 2012
+  categories:
+  - basketbollklubb
+  - fotbollsklubb
+  - futsalklubb
+  - idrottsförening
+  - ishockeyklubb
+  - konståkningsklubb
+  web: https://www.svenskalag.se/knivstaik
+
 - entry: 1236387963
   orgName: De Bacchanaliska Drinkarne
   orgNumber: 802503-7360
@@ -110150,6 +110233,16 @@ entries:
   - bilklubb
   - motorsport
   web: https://gotlandsmfbk.se/
+
+- entry: 1236429039
+  orgName: Storfors AIK
+  orgNumber: 898800-1247
+  comment: A-lag dam
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/storforsaik
 
 - entry: 1236429229
   orgName: Malma Bygdegårdsförening
@@ -112756,6 +112849,15 @@ entries:
   - tarot
   web: https://ganeshasrum.se/
 
+- entry: 1236573000
+  orgName: Norrtälje IK
+  orgNumber: 814400-5454
+  comment: F16
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/nik
+
 - entry: 1236576631
   orgName: PRO Boo
   orgNumber: 814000-7751
@@ -112763,6 +112865,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/stockholm/kommun/nacka/pro-boo
+
+- entry: 1236577415
+  orgName: IK Sturehov
+  orgNumber: 875001-0384
+  comment: P2013
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/iksturehov
 
 - entry: 1236577746
   orgName: Svenska Ridsportförbundet

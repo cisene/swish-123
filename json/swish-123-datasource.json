@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-12-06-rev-165600",
+    "date": "2024-12-06-rev-175627",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -47014,6 +47014,17 @@
       "web": "https://www.linkopingmoske.se/"
     },
     {
+      "entry": 1232193969,
+      "orgName": "V\u00e4sby Hockey",
+      "orgNumber": "814800-8785",
+      "comment": "Team 16 (U9)",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/vasbyhockey"
+    },
+    {
       "entry": 1232194397,
       "orgName": "Grava F\u00f6rsamling",
       "orgNumber": "252002-0799",
@@ -59652,6 +59663,24 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/hitta-bygdegard/korpika/"
+    },
+    {
+      "entry": 1232772705,
+      "orgName": "Enebybergs IF",
+      "orgNumber": "812000-0503",
+      "comment": "F2010",
+      "categories": [
+        "bandyklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb",
+        "konst\u00e5kningsklubb",
+        "l\u00f6parklubb",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb",
+        "tennisklubb"
+      ],
+      "web": "https://www.svenskalag.se/eif"
     },
     {
       "entry": 1232772820,
@@ -79518,6 +79547,17 @@
       "web": "https://nsff.se/"
     },
     {
+      "entry": 1233747227,
+      "orgName": "Vallentuna Innebandyklubb",
+      "orgNumber": "802435-3537",
+      "comment": "Flickor 12-13",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/vallentunaibk"
+    },
+    {
       "entry": 1233747243,
       "orgName": "M\u00f6lndals biodlarf\u00f6rening",
       "orgNumber": "802533-9063",
@@ -83665,6 +83705,17 @@
       "web": "https://pro.se/distrikt/distrikt-varmland/samorganisationer/samorganisation-eda/foreningar/jarnskog.html"
     },
     {
+      "entry": 1233948726,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "P16",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
+    },
+    {
       "entry": 1233951019,
       "orgName": "Pingstkyrkan Kaxholmen",
       "orgNumber": "826000-3614",
@@ -84346,6 +84397,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/tjorn"
+    },
+    {
+      "entry": 1233971553,
+      "orgName": "Vallentuna IBK",
+      "orgNumber": "802435-3537",
+      "comment": "Flickor 14",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/vallentunaibk"
     },
     {
       "entry": 1233971710,
@@ -125743,6 +125805,17 @@
       "web": "https://www.svenskalag.se/wargonsik"
     },
     {
+      "entry": 1236067508,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "P09",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
+    },
+    {
       "entry": 1236069421,
       "orgName": "Storsj\u00f6ns Kallbadhus",
       "orgNumber": "802493-1498",
@@ -131218,6 +131291,17 @@
       "web": "https://makalosa.org/"
     },
     {
+      "entry": 1236313167,
+      "orgName": "Norrt\u00e4lje IK",
+      "orgNumber": "814400-5454",
+      "comment": "Team 11/12",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/nik"
+    },
+    {
       "entry": 1236313829,
       "orgName": "Barmh\u00e4rtighetens Hus",
       "orgNumber": "802517-4809",
@@ -132677,6 +132761,21 @@
       "web": "http://kristianstadsbatklubb.se/"
     },
     {
+      "entry": 1236387609,
+      "orgName": "Knivsta IK",
+      "orgNumber": "814800-0618",
+      "comment": "F 2012",
+      "categories": [
+        "basketbollklubb",
+        "fotbollsklubb",
+        "futsalklubb",
+        "idrottsf\u00f6rening",
+        "ishockeyklubb",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://www.svenskalag.se/knivstaik"
+    },
+    {
       "entry": 1236387963,
       "orgName": "De Bacchanaliska Drinkarne",
       "orgNumber": "802503-7360",
@@ -133454,6 +133553,18 @@
         "motorsport"
       ],
       "web": "https://gotlandsmfbk.se/"
+    },
+    {
+      "entry": 1236429039,
+      "orgName": "Storfors AIK",
+      "orgNumber": "898800-1247",
+      "comment": "A-lag dam",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/storforsaik"
     },
     {
       "entry": 1236429229,
@@ -136601,6 +136712,17 @@
       "web": "https://ganeshasrum.se/"
     },
     {
+      "entry": 1236573000,
+      "orgName": "Norrt\u00e4lje IK",
+      "orgNumber": "814400-5454",
+      "comment": "F16",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/nik"
+    },
+    {
       "entry": 1236576631,
       "orgName": "PRO Boo",
       "orgNumber": "814000-7751",
@@ -136609,6 +136731,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/stockholm/kommun/nacka/pro-boo"
+    },
+    {
+      "entry": 1236577415,
+      "orgName": "IK Sturehov",
+      "orgNumber": "875001-0384",
+      "comment": "P2013",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/iksturehov"
     },
     {
       "entry": 1236577746,
