@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-12-06-rev-175627",
+    "date": "2024-12-09-rev-200432",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -37781,6 +37781,16 @@
       "web": "https://www.jarvabygd.se/"
     },
     {
+      "entry": 1231738236,
+      "orgName": "Mats Westling",
+      "orgNumber": "620727-XXXX",
+      "comment": null,
+      "categories": [
+        "artist"
+      ],
+      "web": "https://www.matswestling.se/"
+    },
+    {
       "entry": 1231739051,
       "orgName": "Aneby SK",
       "orgNumber": "826500-0078",
@@ -53791,6 +53801,18 @@
       "web": "https://www.canwetalkaboutit.org/"
     },
     {
+      "entry": 1232512408,
+      "orgName": "IFK Nyk\u00f6ping",
+      "orgNumber": "819000-0672",
+      "comment": "P10",
+      "categories": [
+        "fotbollsklubb",
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ifknykoping"
+    },
+    {
       "entry": 1232512606,
       "orgName": "G\u00e4vle F\u00f6rsamling",
       "orgNumber": "252004-9947",
@@ -56018,6 +56040,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/skepplanda"
+    },
+    {
+      "entry": 1232637676,
+      "orgName": "FC Helsingborg",
+      "orgNumber": "802414-5735",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.fch.nu/"
     },
     {
       "entry": 1232637890,
@@ -61519,6 +61552,17 @@
         "religion"
       ],
       "web": "https://sjungikyrkan.nu/delforbund/vsters-stifts-kyrkosngsfrbund/"
+    },
+    {
+      "entry": 1232862985,
+      "orgName": "Vadstena HF",
+      "orgNumber": "824000-3940",
+      "comment": null,
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.vadstenahf.se/"
     },
     {
       "entry": 1232863736,
@@ -92123,6 +92167,17 @@
         "ridsport"
       ],
       "web": "https://krk.se/"
+    },
+    {
+      "entry": 1234405940,
+      "orgName": "Stefan Paulssons Cancerstiftelse",
+      "orgNumber": "802425-8207",
+      "comment": null,
+      "categories": [
+        "cancerforskning",
+        "stiftelse"
+      ],
+      "web": "https://www.matspaulssonstiftelserna.com/stiftelse/stefan-paulssons-cancerfond/"
     },
     {
       "entry": 1234406146,
@@ -123471,6 +123526,16 @@
       "web": "https://www.svenskakyrkan.se/helsingborg"
     },
     {
+      "entry": 1235933544,
+      "orgName": "Mats Paulsson Stiftelse",
+      "orgNumber": "802423-3150",
+      "comment": null,
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.matspaulssonstiftelserna.com/"
+    },
+    {
       "entry": 1235933692,
       "orgName": "Visby Domkyrkof\u00f6rsamling",
       "orgNumber": "252000-8083",
@@ -124714,6 +124779,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/azecholdboysbk"
+    },
+    {
+      "entry": 1236008817,
+      "orgName": "Bj\u00f6rk\u00e5frihet",
+      "orgNumber": "829500-1112",
+      "comment": null,
+      "categories": [
+        "butikshandel",
+        "f\u00f6rs\u00e4ljning",
+        "second hand"
+      ],
+      "web": "https://bjorkafrihet.se/"
     },
     {
       "entry": 1236009093,
@@ -126539,6 +126616,16 @@
         "kl\u00e4tterklubb"
       ],
       "web": "https://www.orebroklatterklubb.com/"
+    },
+    {
+      "entry": 1236096416,
+      "orgName": "Mats Paulssons stiftelse f\u00f6r forskning, innovation och samh\u00e4llsbyggande",
+      "orgNumber": "802426-7000",
+      "comment": null,
+      "categories": [
+        "stiftelse"
+      ],
+      "web": "https://www.matspaulssonstiftelserna.com/"
     },
     {
       "entry": 1236096606,
@@ -131368,6 +131455,17 @@
       "web": "https://vaxmora.se/"
     },
     {
+      "entry": 1236319040,
+      "orgName": "Leksands IF Ishockey",
+      "orgNumber": "883200-2078",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.leksandsif.se/"
+    },
+    {
       "entry": 1236322432,
       "orgName": "NyFramtid",
       "orgNumber": "802513-2336",
@@ -134416,6 +134514,16 @@
         "patientf\u00f6rening"
       ],
       "web": "https://helpholgernow.se/"
+    },
+    {
+      "entry": 1236477475,
+      "orgName": "Stiftelsen Br\u00e4cke Diakoni",
+      "orgNumber": "857200-3104",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://brackediakoni.se/"
     },
     {
       "entry": 1236478283,
@@ -145153,6 +145261,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/OAFK/"
+    },
+    {
+      "entry": 1236978969,
+      "orgName": "Kommunik\u00e9 Stockholm AB",
+      "orgNumber": "559285-4805",
+      "comment": "Christian Peterson, AssarChristian",
+      "categories": [
+        "mediaproduktion",
+        "swishjournalist"
+      ],
+      "web": "https://www.assarchristian.se/"
     },
     {
       "entry": 1236979199,

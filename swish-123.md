@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-12-06-rev-175701
+Revision: 2024-12-09-rev-200507
 
-Nummer: 13841
+Nummer: 13852
 
 
 
@@ -5030,6 +5030,8 @@ Nummer: 13841
 **Björkåfrihet**
 
     123 511 48 89
+
+    123 600 88 17
 
     123 900 17 10
 
@@ -16028,6 +16030,13 @@ Nummer: 13841
 **FC Corner**
 
     123 695 58 76
+
+
+
+
+**FC Helsingborg**
+
+    123 263 76 76
 
 
 
@@ -29307,6 +29316,8 @@ Nummer: 13841
 
     123 126 63 86 - P10
 
+    123 251 24 08 - P10
+
     123 370 89 14 - U15
 
     123 442 61 85 - F15
@@ -35077,6 +35088,13 @@ Nummer: 13841
 
 
 
+**Kommuniké Stockholm AB**
+
+    123 697 89 69 - Christian Peterson, AssarChristian
+
+
+
+
 **Kommunistiska Partiet**
 
     123 563 69 98 - Kampfond
@@ -38453,6 +38471,13 @@ Nummer: 13841
     123 163 25 46
 
     123 676 18 45
+
+
+
+
+**Leksands IF Ishockey**
+
+    123 631 90 40
 
 
 
@@ -43180,6 +43205,27 @@ Nummer: 13841
 **MatMattes Catering AB**
 
     123 000 58 19
+
+
+
+
+**Mats Paulsson Stiftelse**
+
+    123 593 35 44
+
+
+
+
+**Mats Paulssons stiftelse för forskning, innovation och samhällsbyggande**
+
+    123 609 64 16
+
+
+
+
+**Mats Westling**
+
+    123 173 82 36
 
 
 
@@ -63087,6 +63133,13 @@ Nummer: 13841
 
 
 
+**Stefan Paulssons Cancerstiftelse**
+
+    123 440 59 40
+
+
+
+
 **Stefan Sauk / Aktiebolaget Zenskräck**
 
     123 326 66 24
@@ -63429,6 +63482,8 @@ Nummer: 13841
 **Stiftelsen Bräcke Diakoni**
 
     123 585 45 00
+
+    123 647 74 75
 
 
 
@@ -75877,6 +75932,13 @@ Nummer: 13841
 **Vadstena GIF**
 
     123 515 67 65
+
+
+
+
+**Vadstena HF**
+
+    123 286 29 85
 
 
 

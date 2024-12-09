@@ -7382,6 +7382,14 @@ entries:
   - hundsport
   web: http://www.skarabk.se/
 
+- entry: 1230416958
+  orgName: Svenska Röda Korset
+  orgNumber: null
+  comment: null
+  categories:
+  - rödakorset
+  web: null
+
 - entry: 1230416982
   orgName: Nora BK
   orgNumber: 875003-5209
@@ -31134,6 +31142,14 @@ entries:
   - hembygdsförening
   web: https://www.jarvabygd.se/
 
+- entry: 1231738236
+  orgName: Mats Westling
+  orgNumber: 620727-XXXX
+  comment: null
+  categories:
+  - artist
+  web: https://www.matswestling.se/
+
 - entry: 1231739051
   orgName: Aneby SK
   orgNumber: 826500-0078
@@ -44375,6 +44391,16 @@ entries:
   - intresseförening
   web: https://www.canwetalkaboutit.org/
 
+- entry: 1232512408
+  orgName: IFK Nyköping
+  orgNumber: 819000-0672
+  comment: P10
+  categories:
+  - fotbollsklubb
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ifknykoping
+
 - entry: 1232512606
   orgName: Gävle Församling
   orgNumber: 252004-9947
@@ -46215,6 +46241,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/skepplanda
+
+- entry: 1232637676
+  orgName: FC Helsingborg
+  orgNumber: 802414-5735
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.fch.nu/
 
 - entry: 1232637890
   orgName: Swedish Oldtimers Hockey Association, SOHA
@@ -50739,6 +50774,15 @@ entries:
   categories:
   - religion
   web: https://sjungikyrkan.nu/delforbund/vsters-stifts-kyrkosngsfrbund/
+
+- entry: 1232862985
+  orgName: Vadstena HF
+  orgNumber: 824000-3940
+  comment: null
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.vadstenahf.se/
 
 - entry: 1232863736
   orgName: Terrafem Örebro
@@ -76023,6 +76067,15 @@ entries:
   - ridklubb
   - ridsport
   web: https://krk.se/
+
+- entry: 1234405940
+  orgName: Stefan Paulssons Cancerstiftelse
+  orgNumber: 802425-8207
+  comment: null
+  categories:
+  - cancerforskning
+  - stiftelse
+  web: https://www.matspaulssonstiftelserna.com/stiftelse/stefan-paulssons-cancerfond/
 
 - entry: 1234406146
   orgName: Skövde CK
@@ -101863,6 +101916,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/helsingborg
 
+- entry: 1235933544
+  orgName: Mats Paulsson Stiftelse
+  orgNumber: 802423-3150
+  comment: null
+  categories:
+  - stiftelse
+  web: https://www.matspaulssonstiftelserna.com/
+
 - entry: 1235933692
   orgName: Visby Domkyrkoförsamling
   orgNumber: 252000-8083
@@ -102909,6 +102970,16 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/azecholdboysbk
+
+- entry: 1236008817
+  orgName: Björkåfrihet
+  orgNumber: 829500-1112
+  comment: null
+  categories:
+  - butikshandel
+  - försäljning
+  - second hand
+  web: https://bjorkafrihet.se/
 
 - entry: 1236009093
   orgName: Samtal i Trosa / Erik Karlberg AB
@@ -104411,6 +104482,14 @@ entries:
   - idrottsförening
   - klätterklubb
   web: https://www.orebroklatterklubb.com/
+
+- entry: 1236096416
+  orgName: Mats Paulssons stiftelse för forskning, innovation och samhällsbyggande
+  orgNumber: 802426-7000
+  comment: null
+  categories:
+  - stiftelse
+  web: https://www.matspaulssonstiftelserna.com/
 
 - entry: 1236096606
   orgName: Glommens Båtklubb
@@ -108417,6 +108496,15 @@ entries:
   - samfällighetsförening
   web: https://vaxmora.se/
 
+- entry: 1236319040
+  orgName: Leksands IF Ishockey
+  orgNumber: 883200-2078
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.leksandsif.se/
+
 - entry: 1236322432
   orgName: NyFramtid
   orgNumber: 802513-2336
@@ -110946,6 +111034,14 @@ entries:
   - patientförening
   web: https://helpholgernow.se/
 
+- entry: 1236477475
+  orgName: Stiftelsen Bräcke Diakoni
+  orgNumber: 857200-3104
+  comment: null
+  categories:
+  - religion
+  web: https://brackediakoni.se/
+
 - entry: 1236478283
   orgName: Bostadsrättsföreningen Tåget
   orgNumber: 775000-1062
@@ -110961,6 +111057,13 @@ entries:
   categories:
   - stiftelse
   web: https://ligula.foundation/
+
+- entry: 1236479935
+  orgName: Trio Frottola
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.triofrottola.com/
 
 - entry: 1236480636
   orgName: Team Rynkeby
@@ -119800,6 +119903,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/OAFK/
+
+- entry: 1236978969
+  orgName: Kommuniké Stockholm AB
+  orgNumber: 559285-4805
+  comment: Christian Peterson, AssarChristian
+  categories:
+  - mediaproduktion
+  - swishjournalist
+  web: https://www.assarchristian.se/
 
 - entry: 1236979199
   orgName: SKPF Pensionärerna Eskilstuna-Strängnäs, avd 8
