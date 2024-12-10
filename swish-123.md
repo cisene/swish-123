@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-12-10-rev-154725
+Revision: 2024-12-10-rev-171836
 
-Nummer: 13921
+Nummer: 13937
 
 
 
@@ -13768,6 +13768,8 @@ Nummer: 13921
 
     123 627 44 84 - P2010
 
+    123 636 00 28 - P2012
+
 
 
 
@@ -13844,6 +13846,13 @@ Nummer: 13921
 **Enhörna Frikyrkoförsamling**
 
     123 131 35 76
+
+
+
+
+**Enhörna IF**
+
+    123 034 57 77
 
 
 
@@ -16064,9 +16073,19 @@ Nummer: 13921
 
     123 062 69 37 - F13-14
 
+    123 173 17 69
+
+    123 207 99 86 - Entré
+
+    123 209 50 40 - Kiosk
+
     123 216 55 61 - F09-10
 
+    123 270 74 95 - Försäljning
+
     123 357 39 46 - F08
+
+    123 447 60 65 - Sponsorfond Ungdom
 
     123 492 98 24 - F17-18
 
@@ -50663,6 +50682,12 @@ Nummer: 13921
 
 **Piteå IF Fotbollsförening**
 
+    123 118 35 08 - F10
+
+    123 317 64 84 - F14
+
+    123 366 39 03 - F11
+
     123 399 93 23
 
     123 557 73 09
@@ -62870,6 +62895,8 @@ Nummer: 13921
 
     123 299 40 85
 
+    123 479 23 54 - PF07/08
+
 
 
 
@@ -65942,6 +65969,17 @@ Nummer: 13921
 
 
 
+**Sundsvall FBC**
+
+    123 041 94 65 - P13 Öst
+
+    123 576 08 14 - Dam
+
+    123 621 01 73 - F10/11
+
+
+
+
 **Sundsvall GBK**
 
     123 225 08 84
@@ -65973,6 +66011,13 @@ Nummer: 13921
 **Sundsvalls Budoklubb**
 
     123 252 98 08
+
+
+
+
+**Sundsvalls FF**
+
+    123 596 38 89 - P16
 
 
 
@@ -71477,6 +71522,8 @@ Nummer: 13921
     123 548 92 16 - Stockholm, Eiraskolan
 
     123 567 42 39 - Stockholm, Krusbodaskola
+
+    123 614 08 91 - Stockholm
 
     123 650 07 22 - Stockholm, Träkvista skola
 

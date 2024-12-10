@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-12-10-rev-154648",
+    "date": "2024-12-10-rev-171759",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7452,6 +7452,20 @@
       "web": "https://www.svenskalag.se/soderhamnsff"
     },
     {
+      "entry": 1230345777,
+      "orgName": "Enh\u00f6rna IF",
+      "orgNumber": "815600-2258",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.enh\u00f6rnaif.se/"
+    },
+    {
       "entry": 1230345801,
       "orgName": "Ridklubben Norrt\u00e4lje Ryttare",
       "orgNumber": "814400-4853",
@@ -9094,6 +9108,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/hornhycklingeif"
+    },
+    {
+      "entry": 1230419465,
+      "orgName": "Sundsvall FBC",
+      "orgNumber": "802449-9306",
+      "comment": "P13 \u00d6st",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.sundsvallfbc.se/"
     },
     {
       "entry": 1230419572,
@@ -25957,6 +25982,17 @@
       "web": "https://www.zignsec.com/"
     },
     {
+      "entry": 1231183508,
+      "orgName": "Pite\u00e5 IF Fotbollsf\u00f6rening",
+      "orgNumber": "802505-8408",
+      "comment": "F10",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://piteaif.sportadmin.se/"
+    },
+    {
       "entry": 1231184100,
       "orgName": "Vinsl\u00f6vs Bygdedansare",
       "orgNumber": "012342-6652",
@@ -37686,6 +37722,17 @@
       "web": "https://pingstjonkoping.se/"
     },
     {
+      "entry": 1231731769,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
+    },
+    {
       "entry": 1231731827,
       "orgName": "Svillinge IF",
       "orgNumber": "802489-5750",
@@ -44437,6 +44484,17 @@
       "web": "https://www.vanilleco.se/"
     },
     {
+      "entry": 1232079986,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "Entr\u00e9",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
+    },
+    {
       "entry": 1232080620,
       "orgName": "Cecilia Kyllinge Humor, Musik & Allvar AB",
       "orgNumber": "559166-0294",
@@ -44742,6 +44800,17 @@
         "orienteringsklubb"
       ],
       "web": "https://www.kilsok.com/"
+    },
+    {
+      "entry": 1232095040,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "Kiosk",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
     },
     {
       "entry": 1232095230,
@@ -58173,6 +58242,17 @@
       "web": "https://sagasalongen.se/"
     },
     {
+      "entry": 1232707495,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "F\u00f6rs\u00e4ljning",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
+    },
+    {
       "entry": 1232707677,
       "orgName": "Rimforsa IF",
       "orgNumber": "822000-8273",
@@ -67936,6 +68016,17 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://rektangeln22.se/"
+    },
+    {
+      "entry": 1233176484,
+      "orgName": "Pite\u00e5 IF Fotbollsf\u00f6rening",
+      "orgNumber": "802505-8408",
+      "comment": "F14",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://piteaif.sportadmin.se/"
     },
     {
       "entry": 1233178704,
@@ -78482,6 +78573,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/linde-bergslags-forsamling"
+    },
+    {
+      "entry": 1233663903,
+      "orgName": "Pite\u00e5 IF Fotbollsf\u00f6rening",
+      "orgNumber": "802505-8408",
+      "comment": "F11",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://piteaif.sportadmin.se/"
     },
     {
       "entry": 1233664240,
@@ -93936,6 +94038,17 @@
       "web": "https://www.bokenasif.com/"
     },
     {
+      "entry": 1234476065,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "Sponsorfond Ungdom",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
+    },
+    {
       "entry": 1234476446,
       "orgName": "Gerdsken BK",
       "orgNumber": "864000-0793",
@@ -100287,6 +100400,17 @@
         "studentorganisation"
       ],
       "web": "https://gavlecon.com/"
+    },
+    {
+      "entry": 1234792354,
+      "orgName": "Sp\u00e5nga/Bromstens Bandyklubb, SBBK",
+      "orgNumber": "802407-5809",
+      "comment": "PF07/08",
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.sbbk.nu/"
     },
     {
       "entry": 1234794434,
@@ -120772,6 +120896,17 @@
       "web": "https://www.svenskalag.se/ostragoingerf"
     },
     {
+      "entry": 1235760814,
+      "orgName": "Sundsvall FBC",
+      "orgNumber": "802449-9306",
+      "comment": "Dam",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.sundsvallfbc.se/"
+    },
+    {
       "entry": 1235760830,
       "orgName": "Karlbergs BK",
       "orgNumber": "802001-7359",
@@ -124897,6 +125032,17 @@
       "web": "http://www.unsen.dinstudio.se/1/1/hem/"
     },
     {
+      "entry": 1235963889,
+      "orgName": "Sundsvalls FF",
+      "orgNumber": "802452-1133",
+      "comment": "P16",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.sundsvallsff.se/"
+    },
+    {
       "entry": 1235964184,
       "orgName": "Rid och Musik F\u00f6reningen Lindebolarna",
       "orgNumber": "839400-5220",
@@ -128176,6 +128322,18 @@
       "web": "https://www.svenskalag.se/laholmutangranser"
     },
     {
+      "entry": 1236140891,
+      "orgName": "Team Rynkeby",
+      "orgNumber": "802533-7869",
+      "comment": "Stockholm",
+      "categories": [
+        "cykelsport",
+        "friskv\u00e5rd",
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.team-rynkeby.se/"
+    },
+    {
       "entry": 1236141337,
       "orgName": "Uddevalla Golfklubb",
       "orgNumber": "858500-9684",
@@ -129977,6 +130135,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/AlsikeIF/"
+    },
+    {
+      "entry": 1236210173,
+      "orgName": "Sundsvall FBC",
+      "orgNumber": "802449-9306",
+      "comment": "F10/11",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.sundsvallfbc.se/"
     },
     {
       "entry": 1236210199,
@@ -133200,6 +133369,17 @@
         "charterbuss"
       ],
       "web": "https://www.nybergsbuss.se/"
+    },
+    {
+      "entry": 1236360028,
+      "orgName": "Enebybergs IF",
+      "orgNumber": "812000-0503",
+      "comment": "P2012",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eiftennis.se/eif"
     },
     {
       "entry": 1236360408,
