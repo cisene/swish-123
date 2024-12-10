@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-12-09-rev-200507
+Revision: 2024-12-10-rev-154725
 
-Nummer: 13852
+Nummer: 13921
 
 
 
@@ -5254,11 +5254,21 @@ Nummer: 13852
 
 **BK Ljungsbro**
 
-    123 088 16 80
+    123 028 77 06 - P12
+
+    123 052 01 97 - P15
+
+    123 088 16 80 - F12-13
 
     123 147 60 92
 
+    123 234 03 21 - P11
+
     123 303 90 54 - F14
+
+    123 446 69 26 - F08-09
+
+    123 496 95 31 - U15-16
 
 
 
@@ -10805,6 +10815,13 @@ Nummer: 13852
 
 
 
+**Danderyds SK Fotbollsförening**
+
+    123 308 61 47 - P08
+
+
+
+
 **Danderyds SK Friidrottsförening**
 
     123 005 23 81
@@ -16041,6 +16058,27 @@ Nummer: 13852
 
 
 
+**FC Hessleholm**
+
+    123 015 48 64 - DF17
+
+    123 062 69 37 - F13-14
+
+    123 216 55 61 - F09-10
+
+    123 357 39 46 - F08
+
+    123 492 98 24 - F17-18
+
+    123 582 07 58 - F11-12
+
+    123 622 24 75 - Dam
+
+    123 686 38 31 - F15-16
+
+
+
+
 **FC Kallfors**
 
     123 031 53 82
@@ -17324,6 +17362,13 @@ Nummer: 13852
     123 269 80 90
 
     123 462 36 90
+
+
+
+
+**Forsheda IF**
+
+    123 530 19 32
 
 
 
@@ -24367,6 +24412,13 @@ Nummer: 13852
 
 
 
+**Hanvikens SK Fotboll**
+
+    123 506 42 74 - F11
+
+
+
+
 **Hanviksens SK Ishockey T06**
 
     123 057 94 58
@@ -27793,6 +27845,13 @@ Nummer: 13852
 
 
 
+**Hässleholms IF**
+
+    123 540 16 58 - P13
+
+
+
+
 **Hässleholms Ridhusförening**
 
     123 280 56 53
@@ -28624,6 +28683,8 @@ Nummer: 13852
 
     123 602 51 42
 
+    123 664 28 96 - Dam-U
+
 
 
 
@@ -28735,6 +28796,15 @@ Nummer: 13852
 **Idrottsgalans Insamlingsstiftelse Fair Play**
 
     123 497 19 41
+
+
+
+
+**Idrottsklubben Baltichov**
+
+    123 576 30 08
+
+    123 610 00 85 - F-2013
 
 
 
@@ -29317,6 +29387,8 @@ Nummer: 13852
     123 126 63 86 - P10
 
     123 251 24 08 - P10
+
+    123 367 40 17 - P11/12
 
     123 370 89 14 - U15
 
@@ -34097,6 +34169,14 @@ Nummer: 13852
 **KFUM Umeå**
 
     123 173 27 00
+
+    123 242 49 68 - Norrland YMCA Hostel
+
+    123 273 88 54 - Basket
+
+    123 411 78 91 - Basket Div 1 dam
+
+    123 436 56 07 - Volleyboll
 
 
 
@@ -44748,6 +44828,15 @@ Nummer: 13852
 **Munkhagskyrkans Församling**
 
     123 149 95 16
+
+
+
+
+**Munksund-Skuthamn Sportklubb**
+
+    123 452 51 01 - P05
+
+    123 520 29 24 - P05
 
 
 
@@ -62775,6 +62864,15 @@ Nummer: 13852
 
 
 
+**Spånga/Bromstens Bandyklubb, SBBK**
+
+    123 119 73 67 - PF2010/U11
+
+    123 299 40 85
+
+
+
+
 **Spånga Friskvård Hälsocenter AB**
 
     123 033 61 72
@@ -69266,6 +69364,17 @@ Nummer: 13852
 
 
 
+**Sävars Idrottsklubb**
+
+    123 520 07 20 - Gymnastik
+
+    123 526 30 41 - Handboll
+
+    123 528 85 27 - Innebandy
+
+
+
+
 **Sävarådalens Snöskoterklubb**
 
     123 161 56 08
@@ -75598,6 +75707,81 @@ Nummer: 13852
 
 
 
+**Uppsala Handbollsklubb**
+
+    123 020 76 05 - P2015 Lindbacken
+
+    123 020 76 13 - P2013 Östra
+
+    123 026 20 97 - F2011
+
+    123 063 11 50 - Arrangemang
+
+    123 117 55 87 - F2010
+
+    123 147 13 58 - Fika 2
+
+    123 169 79 03 - P2013 City
+
+    123 178 63 00 - P2014 Södra
+
+    123 189 16 62 - Sponsor
+
+    123 209 87 88 - Entré seniormatch
+
+    123 216 48 79 - P2014 City
+
+    123 253 36 28 - P2011
+
+    123 318 31 42 - Herr Senior
+
+    123 332 49 28 - P2013 Södra
+
+    123 333 80 01 - Handbollsläger
+
+    123 342 12 52 - F2013
+
+    123 366 30 44 - F2015 Tiunda / F2015 Gamlis
+
+    123 404 02 34 - Dam Senior
+
+    123 407 43 57 - P2015 Hågadalen
+
+    123 410 21 74 - Dam J/U
+
+    123 435 17 63 - HerrJun + U
+
+    123 443 21 59 - P2012
+
+    123 456 60 55 - Beach
+
+    123 473 02 97 - F2009
+
+    123 485 47 09 - Lagkassa HS (Handbollsskolan)
+
+    123 498 05 87 - P2014 Norra
+
+    123 531 02 97 - P2009 (A-Pojk)
+
+    123 567 58 48 - Herr Motion
+
+    123 574 85 53 - Dam Motion
+
+    123 581 92 48 - P2014 Västra
+
+    123 647 95 39 - P2010
+
+    123 662 44 56 - Kläder
+
+    123 662 44 72 - Övrigt
+
+    123 684 39 40 - F2014 City
+
+    123 689 25 33 - F2014 Södra
+
+
+
+
 **Uppsala Handeldvapenförening**
 
     123 651 21 80
@@ -80177,6 +80361,13 @@ Nummer: 13852
 
 
 
+**Warberg IBF**
+
+    123 449 05 53
+
+
+
+
 **Wargöns IK**
 
     123 241 19 16
@@ -83708,6 +83899,8 @@ Nummer: 13852
 **Ösets BK**
 
     123 533 55 42
+
+    123 557 32 90
 
 
 

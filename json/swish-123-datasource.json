@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-12-09-rev-200432",
+    "date": "2024-12-10-rev-154648",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2875,6 +2875,17 @@
       "web": "https://www.bokadirekt.se/places/silyns-fotklinik-47427"
     },
     {
+      "entry": 1230154864,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "DF17",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
+    },
+    {
       "entry": 1230156174,
       "orgName": "Nyk\u00f6pings Curlingklubb",
       "orgNumber": "802421-8169",
@@ -4074,6 +4085,28 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samradsgrupp-osthammar/foreningar/gimo.html"
+    },
+    {
+      "entry": 1230207605,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2015 Lindbacken",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
+      "entry": 1230207613,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2013 \u00d6stra",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1230211425,
@@ -5349,6 +5382,17 @@
       "web": "https://tikare.se/"
     },
     {
+      "entry": 1230262097,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "F2011",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1230262808,
       "orgName": "Kalmar B\u00e5tklubb",
       "orgNumber": "832400-6504",
@@ -5740,6 +5784,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/rengen/"
+    },
+    {
+      "entry": 1230287706,
+      "orgName": "BK Ljungsbro",
+      "orgNumber": "822001-7696",
+      "comment": "P12",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/bkljungsbro"
     },
     {
       "entry": 1230290213,
@@ -11372,6 +11427,17 @@
       "web": "https://www.laget.se/GoteneRK/"
     },
     {
+      "entry": 1230520197,
+      "orgName": "BK Ljungsbro",
+      "orgNumber": "822001-7696",
+      "comment": "P15",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/bkljungsbro"
+    },
+    {
       "entry": 1230520379,
       "orgName": "Sparven",
       "orgNumber": "556706-5262",
@@ -13186,6 +13252,17 @@
       "web": "https://climatelive.se/"
     },
     {
+      "entry": 1230626937,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "F13-14",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
+    },
+    {
       "entry": 1230627174,
       "orgName": "Riksf\u00f6rbundet f\u00f6r Social och Mental H\u00e4lsa Mittpunkten Malm\u00f6, RSMH",
       "orgNumber": "846002-3925",
@@ -13297,6 +13374,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1230631150,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Arrangemang",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1230631382,
@@ -19202,7 +19290,7 @@
       "entry": 1230881680,
       "orgName": "BK Ljungsbro",
       "orgNumber": "822001-7696",
-      "comment": null,
+      "comment": "F12-13",
       "categories": [
         "fotbollsklubb",
         "idrottsf\u00f6rening"
@@ -25776,6 +25864,17 @@
       "web": "http://massagehalsa.com/"
     },
     {
+      "entry": 1231175587,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "F2010",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1231175751,
       "orgName": "Hulta Golf AB",
       "orgNumber": "559211-2055",
@@ -25961,6 +26060,17 @@
         "vapenv\u00e5rd"
       ],
       "web": "https://asonjakt.se/"
+    },
+    {
+      "entry": 1231197367,
+      "orgName": "Sp\u00e5nga/Bromstens Bandyklubb, SBBK",
+      "orgNumber": "802407-5809",
+      "comment": "PF2010/U11",
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.sbbk.nu/"
     },
     {
       "entry": 1231197441,
@@ -31607,6 +31717,17 @@
       "web": "https://manniskovarde.se/"
     },
     {
+      "entry": 1231471358,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Fika 2",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1231471879,
       "orgName": "Bygdemuseet Orn\u00f6 Sockenstuga",
       "orgNumber": "812400-8809",
@@ -36609,6 +36730,17 @@
       "web": "https://www.katalys.org/"
     },
     {
+      "entry": 1231697903,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2013 City",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1231698604,
       "orgName": "E & P Event AB",
       "orgNumber": "556936-6965",
@@ -38817,6 +38949,17 @@
       "web": "https://www.laget.se/OIK-Damer/"
     },
     {
+      "entry": 1231786300,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2014 S\u00f6dra",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1231790385,
       "orgName": "Gr\u00e4nna-Bygdens OK",
       "orgNumber": "826001-2078",
@@ -40932,6 +41075,17 @@
         "religion"
       ],
       "web": "https://www.immanuel.se/"
+    },
+    {
+      "entry": 1231891662,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Sponsor",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1231891829,
@@ -44688,6 +44842,17 @@
       "web": "http://www.clarajouren.n.nu/"
     },
     {
+      "entry": 1232098788,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Entr\u00e9 seniormatch",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1232099034,
       "orgName": "Team Rynkeby",
       "orgNumber": "802532-9916",
@@ -46209,6 +46374,17 @@
       "web": "https://www.svenskalag.se/nybrostrandsbyalag"
     },
     {
+      "entry": 1232164879,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2014 City",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1232165090,
       "orgName": "PRO Lindsdal",
       "orgNumber": "832401-7378",
@@ -46232,6 +46408,17 @@
         "\u00f6vernattning"
       ],
       "web": "https://www.sodero.se/"
+    },
+    {
+      "entry": 1232165561,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "F09-10",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
     },
     {
       "entry": 1232165777,
@@ -47662,6 +47849,7 @@
       "orgNumber": "889600-3772",
       "comment": null,
       "categories": [
+        "fotbollsklubb",
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.sjalevadsik.se/"
@@ -50987,6 +51175,17 @@
       "web": "https://stenkullensaikido.se/"
     },
     {
+      "entry": 1232340321,
+      "orgName": "BK Ljungsbro",
+      "orgNumber": "822001-7696",
+      "comment": "P11",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/bkljungsbro"
+    },
+    {
       "entry": 1232341352,
       "orgName": "Svea Kvinnojour",
       "orgNumber": "802512-2154",
@@ -52684,6 +52883,18 @@
       "web": "https://makalosa.org/"
     },
     {
+      "entry": 1232424968,
+      "orgName": "KFUM Ume\u00e5",
+      "orgNumber": "894000-0691",
+      "comment": "Norrland YMCA Hostel",
+      "categories": [
+        "logi",
+        "ungdomsverksamhet",
+        "\u00f6vernattning"
+      ],
+      "web": "https://umea.kfum.se/"
+    },
+    {
       "entry": 1232426773,
       "orgName": "Tjalve Friidrott",
       "orgNumber": "802531-7374",
@@ -54168,6 +54379,17 @@
         "skoterklubb"
       ],
       "web": "https://www.svenskalag.se/skaletsif"
+    },
+    {
+      "entry": 1232533628,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2011",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1232534527,
@@ -58684,6 +58906,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/tollarp"
+    },
+    {
+      "entry": 1232738854,
+      "orgName": "KFUM Ume\u00e5",
+      "orgNumber": "894000-0691",
+      "comment": "Basket",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://umea.kfum.se/"
     },
     {
       "entry": 1232740058,
@@ -64129,6 +64362,17 @@
       "web": "https://indrajour.se/"
     },
     {
+      "entry": 1232994085,
+      "orgName": "Sp\u00e5nga/Bromstens Bandyklubb, SBBK",
+      "orgNumber": "802407-5809",
+      "comment": null,
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.sbbk.nu/"
+    },
+    {
       "entry": 1232994523,
       "orgName": "Lars och Britta Johanssons Insamlingsstiftelse",
       "orgNumber": "857210-0199",
@@ -66028,6 +66272,17 @@
       "web": "https://www.facebook.com/kosintresseforening"
     },
     {
+      "entry": 1233086147,
+      "orgName": "Danderyds SK Fotbollsf\u00f6rening",
+      "orgNumber": "816400-3132",
+      "comment": "P08",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/dsk-fotboll"
+    },
+    {
       "entry": 1233086170,
       "orgName": "Sigtunabygdens Ryttarf\u00f6rening",
       "orgNumber": "814800-7647",
@@ -67747,6 +68002,17 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://goteborgshus13.se/"
+    },
+    {
+      "entry": 1233183142,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Herr Senior",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1233186392,
@@ -70556,6 +70822,17 @@
       "web": "https://www.bergkvaraaif.se/"
     },
     {
+      "entry": 1233324928,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2013 S\u00f6dra",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1233325222,
       "orgName": "S\u00f6dra Sandby Jujitsuklubb",
       "orgNumber": "845002-5849",
@@ -70815,6 +71092,17 @@
         "scoutk\u00e5r"
       ],
       "web": "https://et.scout.se/"
+    },
+    {
+      "entry": 1233338001,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Handbollsl\u00e4ger",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1233338670,
@@ -72632,6 +72920,17 @@
         "utbildning"
       ],
       "web": "https://www.jvv.se/"
+    },
+    {
+      "entry": 1233421252,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "F2013",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1233422292,
@@ -76373,6 +76672,17 @@
       "web": "https://gavle.aktivaseniorer.com/"
     },
     {
+      "entry": 1233573946,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "F08",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
+    },
+    {
       "entry": 1233574100,
       "orgName": "FolkhemsEliten / Oliver Dagn\u00e5",
       "orgNumber": "920730-XXXX",
@@ -78153,6 +78463,17 @@
       "web": "https://www.laget.se/FannaBK/"
     },
     {
+      "entry": 1233663044,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "F2015 Tiunda / F2015 Gamlis",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1233663317,
       "orgName": "Linde Bergslags F\u00f6rsamling",
       "orgNumber": "252004-8485",
@@ -78362,6 +78683,18 @@
         "ukraina"
       ],
       "web": "https://slavaukrainisv.com/"
+    },
+    {
+      "entry": 1233674017,
+      "orgName": "IFK Nyk\u00f6ping",
+      "orgNumber": "819000-0672",
+      "comment": "P11/12",
+      "categories": [
+        "fotbollsklubb",
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ifknykoping"
     },
     {
       "entry": 1233674058,
@@ -85519,6 +85852,17 @@
       "web": "https://grottbyn.se/"
     },
     {
+      "entry": 1234040234,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Dam Senior",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1234040515,
       "orgName": "Svenska Skyttesportf\u00f6rbundet",
       "orgNumber": "802003-1707",
@@ -86034,6 +86378,17 @@
       "web": "https://www.svenskalag.se/lommajujutsuif"
     },
     {
+      "entry": 1234074357,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2015 H\u00e5gadalen",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1234074902,
       "orgName": "Ystad Skyttegille",
       "orgNumber": "848000-1794",
@@ -86333,6 +86688,17 @@
       "web": "https://vannasbhk.weebly.com/"
     },
     {
+      "entry": 1234102174,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Dam J/U",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1234102430,
       "orgName": "M\u00f6lndals Pastorat",
       "orgNumber": "252003-0202",
@@ -86599,6 +86965,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/rasbokil"
+    },
+    {
+      "entry": 1234117891,
+      "orgName": "KFUM Ume\u00e5",
+      "orgNumber": "894000-0691",
+      "comment": "Basket Div 1 dam",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://umea.kfum.se/"
     },
     {
       "entry": 1234120341,
@@ -91366,6 +91743,17 @@
       "web": "https://www.lillabandet.se/"
     },
     {
+      "entry": 1234351763,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "HerrJun + U",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1234351847,
       "orgName": "Bolstad Grinstad Byalag och Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "862501-2060",
@@ -91557,6 +91945,17 @@
         "f\u00f6rening"
       ],
       "web": "https://autisterna.se/"
+    },
+    {
+      "entry": 1234365607,
+      "orgName": "KFUM Ume\u00e5",
+      "orgNumber": "894000-0691",
+      "comment": "Volleyboll",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "volleybollklubb"
+      ],
+      "web": "https://umea.kfum.se/"
     },
     {
       "entry": 1234365839,
@@ -93040,6 +93439,17 @@
       "web": "https://rotary2390.se/"
     },
     {
+      "entry": 1234432159,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2012",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1234432548,
       "orgName": "Hammarby IF Ishockeyf\u00f6rening",
       "orgNumber": "802442-1623",
@@ -93368,6 +93778,17 @@
         "orkester"
       ],
       "web": "https://mickeahlgrens.se/"
+    },
+    {
+      "entry": 1234466926,
+      "orgName": "BK Ljungsbro",
+      "orgNumber": "822001-7696",
+      "comment": "F08-09",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/bkljungsbro"
     },
     {
       "entry": 1234467387,
@@ -93815,6 +94236,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.fhamotfors.se/"
+    },
+    {
+      "entry": 1234490553,
+      "orgName": "Warberg IBF",
+      "orgNumber": "802435-1283",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.warbergic.se/"
     },
     {
       "entry": 1234490710,
@@ -94647,6 +95079,18 @@
       "web": "https://whippetklubben.se/"
     },
     {
+      "entry": 1234525101,
+      "orgName": "Munksund-Skuthamn Sportklubb",
+      "orgNumber": "898800-0660",
+      "comment": "P05",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/MSSK/"
+    },
+    {
       "entry": 1234525242,
       "orgName": "Dyslexif\u00f6rbundet",
       "orgNumber": "857204-1930",
@@ -95371,6 +95815,17 @@
         "korpenf\u00f6rening"
       ],
       "web": "https://www.korpen.se/korpensoderbarke"
+    },
+    {
+      "entry": 1234566055,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Beach",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1234566105,
@@ -99070,6 +99525,17 @@
       "web": "https://nattsvartverkstad.noblogs.org/"
     },
     {
+      "entry": 1234730297,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "F2009",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1234731154,
       "orgName": "Norrk\u00f6pings Raggarklubb",
       "orgNumber": "802504-0810",
@@ -100826,6 +101292,17 @@
       "web": "https://www.alegk.se/"
     },
     {
+      "entry": 1234854709,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Lagkassa HS (Handbollsskolan)",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1234856308,
       "orgName": "Naturl\u00e4ras H\u00e4sts\u00e4llskap",
       "orgNumber": "802504-6205",
@@ -101625,6 +102102,17 @@
         "orkester"
       ],
       "web": "https://casanovas.se/"
+    },
+    {
+      "entry": 1234929824,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "F17-18",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
     },
     {
       "entry": 1234931713,
@@ -102600,6 +103088,17 @@
       "web": "https://www.svenskalag.se/forshallaherrestadtorpskf"
     },
     {
+      "entry": 1234969531,
+      "orgName": "BK Ljungsbro",
+      "orgNumber": "822001-7696",
+      "comment": "U15-16",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/bkljungsbro"
+    },
+    {
       "entry": 1234969572,
       "orgName": "Uddevalla Pastorat",
       "orgNumber": "252003-1325",
@@ -102789,6 +103288,17 @@
         "utbildning"
       ],
       "web": "https://frihetochhalsa.se/"
+    },
+    {
+      "entry": 1234980587,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2014 Norra",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1234983466,
@@ -104284,6 +104794,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.uiffriidrott.se/"
+    },
+    {
+      "entry": 1235064274,
+      "orgName": "Hanvikens SK Fotboll",
+      "orgNumber": "812400-3412",
+      "comment": "F11",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://hanvikenssk.myclub.se/"
     },
     {
       "entry": 1235064563,
@@ -108035,6 +108556,21 @@
       "web": "https://www.svenskalag.se/ifhagenskidklubb"
     },
     {
+      "entry": 1235200720,
+      "orgName": "S\u00e4vars Idrottsklubb",
+      "orgNumber": "894000-8181",
+      "comment": "Gymnastik",
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "handbollsklubb",
+        "innebandyklubb",
+        "korpenf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.savarik.se/"
+    },
+    {
       "entry": 1235200860,
       "orgName": "Lilla G\u00f6tafors / Malin Och Simon F\u00e4rg och Form AB",
       "orgNumber": "556513-1207",
@@ -108085,6 +108621,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.varnhemsif.se/"
+    },
+    {
+      "entry": 1235202924,
+      "orgName": "Munksund-Skuthamn Sportklubb",
+      "orgNumber": "898800-0660",
+      "comment": "P05",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.laget.se/MSSK/"
     },
     {
       "entry": 1235203237,
@@ -109138,6 +109686,21 @@
       "web": "https://www.hembygd.se/kareby"
     },
     {
+      "entry": 1235263041,
+      "orgName": "S\u00e4vars Idrottsklubb",
+      "orgNumber": "894000-8181",
+      "comment": "Handboll",
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "handbollsklubb",
+        "innebandyklubb",
+        "korpenf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.savarik.se/"
+    },
+    {
       "entry": 1235263132,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
@@ -109939,6 +110502,21 @@
       "web": "https://tr\u00f6sken.se/"
     },
     {
+      "entry": 1235288527,
+      "orgName": "S\u00e4vars Idrottsklubb",
+      "orgNumber": "894000-8181",
+      "comment": "Innebandy",
+      "categories": [
+        "fotbollsklubb",
+        "gymnastikf\u00f6rening",
+        "handbollsklubb",
+        "innebandyklubb",
+        "korpenf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.savarik.se/"
+    },
+    {
       "entry": 1235288600,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
@@ -110166,6 +110744,17 @@
       "web": "https://gideagarden.se/"
     },
     {
+      "entry": 1235301932,
+      "orgName": "Forsheda IF",
+      "orgNumber": "828000-3511",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.forshedaif.se/"
+    },
+    {
       "entry": 1235302005,
       "orgName": "NewsVoice / Sasser Media Lab AB",
       "orgNumber": "556557-2061",
@@ -110247,6 +110836,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235310297,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2009 (A-Pojk)",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1235310974,
@@ -112265,6 +112865,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://brannoforeningen.se/"
+    },
+    {
+      "entry": 1235401658,
+      "orgName": "H\u00e4ssleholms IF",
+      "orgNumber": "837000-0872",
+      "comment": "P13",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.hassleholmsif.se/"
     },
     {
       "entry": 1235402151,
@@ -116078,6 +116689,17 @@
       "web": "https://www.rikkarlskoga.se/"
     },
     {
+      "entry": 1235573290,
+      "orgName": "\u00d6sets BK",
+      "orgNumber": "802451-0235",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/osetsbk"
+    },
+    {
       "entry": 1235573407,
       "orgName": "Musubi Dojo Kampsportsf\u00f6rening",
       "orgNumber": "802459-1730",
@@ -118338,6 +118960,17 @@
       "web": "https://www.laget.se/MullhyttansIF-klubben/"
     },
     {
+      "entry": 1235675848,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Herr Motion",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1235676317,
       "orgName": "H\u00e4rjedalens Skateboardklubb",
       "orgNumber": "802517-8396",
@@ -119831,6 +120464,17 @@
       "web": "https://samverkarna.se/"
     },
     {
+      "entry": 1235748553,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Dam Motion",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1235748918,
       "orgName": "Ovan\u00e5kers FVOF",
       "orgNumber": "886500-2631",
@@ -120138,6 +120782,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.karlbergsbk.se/"
+    },
+    {
+      "entry": 1235763008,
+      "orgName": "Idrottsklubben Baltichov",
+      "orgNumber": "863500-2572",
+      "comment": null,
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ikbaltichov.se/"
     },
     {
       "entry": 1235763040,
@@ -121375,6 +122030,17 @@
       "web": "https://www.supportforukraine.org/"
     },
     {
+      "entry": 1235819248,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2014 V\u00e4stra",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1235820105,
       "orgName": "Burundi-hj\u00e4lpen",
       "orgNumber": "802439-8797",
@@ -121396,6 +122062,17 @@
         "massage"
       ],
       "web": "https://www.himmelskafotter.se/"
+    },
+    {
+      "entry": 1235820758,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "F11-12",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
     },
     {
       "entry": 1235821004,
@@ -126791,6 +127468,17 @@
       "web": "https://www.svenskalag.se/kalmarok"
     },
     {
+      "entry": 1236100085,
+      "orgName": "Idrottsklubben Baltichov",
+      "orgNumber": "863500-2572",
+      "comment": "F-2013",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ikbaltichov.se/"
+    },
+    {
       "entry": 1236100812,
       "orgName": "Yogami / Marie Karlsson",
       "orgNumber": "720704-XXXX",
@@ -129693,6 +130381,17 @@
         "transporttj\u00e4nst"
       ],
       "web": "https://carrier.se/"
+    },
+    {
+      "entry": 1236222475,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "Dam",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
     },
     {
       "entry": 1236222939,
@@ -134536,6 +135235,17 @@
       "web": "https://www.hsb.se/malardalarna/brf/taget/"
     },
     {
+      "entry": 1236479539,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "P2010",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1236479745,
       "orgName": "Stiftelsen Ligula Foundation",
       "orgNumber": "802480-4885",
@@ -137418,6 +138128,28 @@
       "web": "https://purusa.nu/"
     },
     {
+      "entry": 1236624456,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "Kl\u00e4der",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
+      "entry": 1236624472,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1236624654,
       "orgName": "\u00c5re F\u00f6rsamling",
       "orgNumber": "252002-4494",
@@ -137816,6 +138548,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/tjorn"
+    },
+    {
+      "entry": 1236642896,
+      "orgName": "IBK V\u00e4nersborg",
+      "orgNumber": "867800-8056",
+      "comment": "Dam-U",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.ibkvanersborg.se/"
     },
     {
       "entry": 1236643183,
@@ -142551,6 +143294,17 @@
       "web": "https://www.svenskalag.se/orkelljungapadel"
     },
     {
+      "entry": 1236843940,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "F2014 City",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
+    },
+    {
       "entry": 1236846265,
       "orgName": "F\u00f6rbundet ST Lukas",
       "orgNumber": "802003-4032",
@@ -142795,6 +143549,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/kfumkristianstadbtf"
+    },
+    {
+      "entry": 1236863831,
+      "orgName": "FC Hessleholm",
+      "orgNumber": "802445-5761",
+      "comment": "F15-16",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.fchessleholm.se/"
     },
     {
       "entry": 1236863963,
@@ -143304,6 +144069,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/bkfemtionian"
+    },
+    {
+      "entry": 1236892533,
+      "orgName": "Uppsala Handbollsklubb",
+      "orgNumber": "802466-5401",
+      "comment": "F2014 S\u00f6dra",
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.uppsalahk.se/"
     },
     {
       "entry": 1236895692,
