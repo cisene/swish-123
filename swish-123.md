@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-12-10-rev-171836
+Revision: 2024-12-11-rev-175656
 
-Nummer: 13937
+Nummer: 13950
 
 
 
@@ -1215,6 +1215,13 @@ Nummer: 13937
 **Alingsås Fäktklubb**
 
     123 678 47 22
+
+
+
+
+**Alingsås HK**
+
+    123 152 80 90
 
 
 
@@ -5245,6 +5252,13 @@ Nummer: 13937
 
 
 
+**BK Häcken Ungdom**
+
+    123 550 70 41 - P2016
+
+
+
+
 **BK Kenty**
 
     123 680 20 37
@@ -5253,6 +5267,8 @@ Nummer: 13937
 
 
 **BK Ljungsbro**
+
+    123 011 92 48 - Försäljning
 
     123 028 77 06 - P12
 
@@ -21609,6 +21625,15 @@ Nummer: 13937
 
 
 
+**Glumslövs FF**
+
+    123 268 32 09 - Kiosk
+
+    123 492 50 61 - Övrigt
+
+
+
+
 **Glumslövs GIF**
 
     123 464 45 48
@@ -23676,6 +23701,13 @@ Nummer: 13937
 
 
 ## H
+
+**H78 Sölvesborg**
+
+    123 173 17 10
+
+
+
 
 **H.E.F Valbo BK**
 
@@ -26662,6 +26694,13 @@ Nummer: 13937
 
 
 
+**HP Tibro**
+
+    123 312 08 47
+
+
+
+
 **HPR Pensionärsförening Reimersholme**
 
     123 301 54 84
@@ -29170,6 +29209,8 @@ Nummer: 13937
 
     123 468 80 73
 
+    123 609 90 14
+
 
 
 
@@ -29507,6 +29548,8 @@ Nummer: 13937
 
 
 **IFK Tidaholm**
+
+    123 374 38 95 - Sverigelotten
 
     123 615 79 94
 
@@ -57223,6 +57266,13 @@ Nummer: 13937
 
 
 
+**Sandåkerns Sportklubb**
+
+    123 219 39 51 - P07
+
+
+
+
 **Sankt Ansgar**
 
     123 267 05 52
@@ -73757,6 +73807,8 @@ Nummer: 13937
 
 **Triangelns IK**
 
+    123 175 07 10 - P12
+
     123 413 67 01
 
 
@@ -82850,6 +82902,15 @@ Nummer: 13937
 **Åstols Trädgårdsförening**
 
     123 681 25 64
+
+
+
+
+**Åstorp/Kvidinge IBS**
+
+    123 412 62 72 - P07
+
+    123 485 75 95 - F07/08
 
 
 

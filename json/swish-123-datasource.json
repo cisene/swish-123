@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-12-10-rev-171759",
+    "date": "2024-12-11-rev-175621",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2358,6 +2358,17 @@
         "skytteklubb"
       ],
       "web": "https://www.svenskalag.se/tibrojsk"
+    },
+    {
+      "entry": 1230119248,
+      "orgName": "BK Ljungsbro",
+      "orgNumber": "822001-7696",
+      "comment": "F\u00f6rs\u00e4ljning",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/bkljungsbro"
     },
     {
       "entry": 1230120618,
@@ -33433,6 +33444,17 @@
       "web": "https://www.ingenillegal.org/stockholm/"
     },
     {
+      "entry": 1231528090,
+      "orgName": "Alings\u00e5s HK",
+      "orgNumber": "864000-4746",
+      "comment": null,
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://alingsashk.myclub.se/"
+    },
+    {
       "entry": 1231528371,
       "orgName": "\u00c5ttonde Decemberf\u00f6reningen",
       "orgNumber": "826000-4869",
@@ -37722,6 +37744,17 @@
       "web": "https://pingstjonkoping.se/"
     },
     {
+      "entry": 1231731710,
+      "orgName": "H78 S\u00f6lvesborg",
+      "orgNumber": "836201-1887",
+      "comment": null,
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.h78.se/"
+    },
+    {
       "entry": 1231731769,
       "orgName": "FC Hessleholm",
       "orgNumber": "802445-5761",
@@ -38319,6 +38352,17 @@
         "motorklubb"
       ],
       "web": "https://www.gnesta-mk.se/"
+    },
+    {
+      "entry": 1231750710,
+      "orgName": "Triangelns IK",
+      "orgNumber": "818000-2803",
+      "comment": "P12",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.triangelnsik.se/"
     },
     {
       "entry": 1231756063,
@@ -47278,6 +47322,19 @@
         "religion"
       ],
       "web": "https://www.linkopingmoske.se/"
+    },
+    {
+      "entry": 1232193951,
+      "orgName": "Sand\u00e5kerns Sportklubb",
+      "orgNumber": "894000-1566",
+      "comment": "P07",
+      "categories": [
+        "fotbollsklubb",
+        "futsalklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.sandakernssk.se/"
     },
     {
       "entry": 1232193969,
@@ -57530,6 +57587,17 @@
       "web": "https://ekbackskyrkan.se/"
     },
     {
+      "entry": 1232683209,
+      "orgName": "Glumsl\u00f6vs FF",
+      "orgNumber": "802442-4270",
+      "comment": "Kiosk",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.glumslovsff.se/"
+    },
+    {
       "entry": 1232683332,
       "orgName": "En Hj\u00e4lpande Hand",
       "orgNumber": "802534-0012",
@@ -67022,6 +67090,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/krokom"
+    },
+    {
+      "entry": 1233120847,
+      "orgName": "HP Tibro",
+      "orgNumber": "866601-4967",
+      "comment": null,
+      "categories": [
+        "handbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.hptibro.se/"
     },
     {
       "entry": 1233123312,
@@ -79972,6 +80051,17 @@
       "web": "https://www.vibyggera.se/"
     },
     {
+      "entry": 1233743895,
+      "orgName": "IFK Tidaholm",
+      "orgNumber": "867200-3822",
+      "comment": "Sverigelotten",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ifktidaholm.se/"
+    },
+    {
       "entry": 1233744018,
       "orgName": "Gunnarsbyns byaf\u00f6rening",
       "orgNumber": "898500-8666",
@@ -87379,6 +87469,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.astridlindgrensallskapet.se/"
+    },
+    {
+      "entry": 1234126272,
+      "orgName": "\u00c5storp/Kvidinge IBS",
+      "orgNumber": "802431-0438",
+      "comment": "P07",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.akibs.se/"
     },
     {
       "entry": 1234126413,
@@ -101439,6 +101540,17 @@
       "web": "https://naturlarahs.se/"
     },
     {
+      "entry": 1234857595,
+      "orgName": "\u00c5storp/Kvidinge IBS",
+      "orgNumber": "802431-0438",
+      "comment": "F07/08",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.akibs.se/"
+    },
+    {
       "entry": 1234858932,
       "orgName": "Tangorama",
       "orgNumber": "843003-3079",
@@ -102150,6 +102262,17 @@
         "bostadsr\u00e4ttsf\u00f6rening"
       ],
       "web": "https://www.hsb.se/stockholm/brf/rubinen/"
+    },
+    {
+      "entry": 1234925061,
+      "orgName": "Glumsl\u00f6vs FF",
+      "orgNumber": "802442-4270",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.glumslovsff.se/"
     },
     {
       "entry": 1234925095,
@@ -115034,6 +115157,17 @@
       "web": "https://stb.scout.se/"
     },
     {
+      "entry": 1235507041,
+      "orgName": "BK H\u00e4cken Ungdom",
+      "orgNumber": "857200-7485",
+      "comment": "P2016",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://bkhacken.sportadmin.se/"
+    },
+    {
       "entry": 1235508122,
       "orgName": "Harplinge Ridklubb",
       "orgNumber": "849201-2185",
@@ -127601,6 +127735,18 @@
         "lionsklubb"
       ],
       "web": "https://lions.sjobo.nu/"
+    },
+    {
+      "entry": 1236099014,
+      "orgName": "IFK Fj\u00e4r\u00e5s",
+      "orgNumber": "849400-1780",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "fotbollsskola",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ifkfjaras.se/"
     },
     {
       "entry": 1236099972,
