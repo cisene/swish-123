@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-12-11-rev-175656
+Revision: 2024-12-12-rev-192619
 
-Nummer: 13950
+Nummer: 13971
 
 
 
@@ -3532,7 +3532,7 @@ Nummer: 13950
 
 
 
-**Bandieras tifo / Kvillestreamen**
+**Bandieras Tifo / Kvillestreamen**
 
     123 642 50 37
 
@@ -5066,6 +5066,13 @@ Nummer: 13950
 
 
 
+**Björn's VVS / Björn Karlsson**
+
+    123 175 62 38
+
+
+
+
 **Björn Thomasson Design**
 
     123 321 63 71
@@ -5108,6 +5115,13 @@ Nummer: 13950
 **Björnlunda Kammarmusikförening**
 
     123 221 30 56
+
+
+
+
+**Björnol AB**
+
+    123 458 32 58
 
 
 
@@ -8926,7 +8940,7 @@ Nummer: 13950
 
 **Byggnads**
 
-    123 671 26 24
+    123 671 26 24 - Norrbotten
 
 
 
@@ -13110,6 +13124,13 @@ Nummer: 13950
 
 
 
+**Ekeby Baptistförsamling**
+
+    123 097 47 41 - Nävesta
+
+
+
+
 **Ekeby Bygdegårdsförening**
 
     123 383 88 69
@@ -14274,6 +14295,8 @@ Nummer: 13950
 
 **Equmenia Lidköping**
 
+    123 564 76 07 - Missionsarbete
+
     123 576 31 56
 
 
@@ -14607,6 +14630,13 @@ Nummer: 13950
 
 
 
+**Equmeniakyrkan Sennan**
+
+    123 459 46 93
+
+
+
+
 **Equmeniakyrkan Skeda**
 
     123 422 82 01
@@ -14622,8 +14652,6 @@ Nummer: 13950
 
 
 **Equmeniakyrkan Södra Nissadalen**
-
-    123 459 46 93
 
     123 539 85 73 - Barnverksamhet, ungdomsverksamhet
 
@@ -15797,6 +15825,13 @@ Nummer: 13950
 **Falu Massage & Hälsa / Anna Gellner**
 
     123 023 96 81
+
+
+
+
+**Falu Missionsförsamling**
+
+    123 257 17 50
 
 
 
@@ -17192,6 +17227,13 @@ Nummer: 13950
 **Folket i Bild/Kulturfront**
 
     123 224 03 56
+
+
+
+
+**Folkets Hus Kallhäll**
+
+    123 465 21 29
 
 
 
@@ -24019,6 +24061,15 @@ Nummer: 13950
 
 
 
+**Hallstaviks Ryttarförening**
+
+    123 320 15 06
+
+    123 424 45 88
+
+
+
+
 **HallåHund**
 
     123 495 39 15
@@ -28433,6 +28484,17 @@ Nummer: 13950
 
 
 
+**Hörnefors IF**
+
+    123 037 61 78 - Innebandysektionen
+
+    123 440 11 88 - Fotbollssektionen
+
+    123 580 83 24
+
+
+
+
 **Hörnsjö Intresseförening**
 
     123 054 05 83
@@ -32773,6 +32835,13 @@ Nummer: 13950
 
 
 
+**Jörgen Hübner Kreativ Fotografi / Jörgen O Hübner**
+
+    123 223 87 56
+
+
+
+
 **Jörnbygdens Hembygsförening**
 
     123 541 33 07
@@ -32829,6 +32898,13 @@ Nummer: 13950
 **Ka 2 SF - Skyttesport**
 
     123 092 50 99
+
+
+
+
+**Kaffepåsen i Göteborg**
+
+    123 013 28 11
 
 
 
@@ -39613,6 +39689,13 @@ Nummer: 13950
 **Lindeborgs Eco Retreat / Lindeborg Development AB**
 
     123 534 51 78
+
+
+
+
+**LindeNytt AB**
+
+    123 053 19 05
 
 
 
@@ -46972,6 +47055,13 @@ Nummer: 13950
 
 
 
+**Norra Råda Missionsförsamling**
+
+    123 568 27 94
+
+
+
+
 **Norra Simmesjöns FVO**
 
     123 675 06 81
@@ -47553,6 +47643,8 @@ Nummer: 13950
 
 
 **NRH Trauma Riks**
+
+    123 054 05 67
 
     123 442 82 56
 
@@ -58338,6 +58430,13 @@ Nummer: 13950
 
 
 
+**Siri Beauty & Massage / Manee Chimpradit**
+
+    123 489 54 47
+
+
+
+
 **Sisam Kult / Sisam-Sandarne i Samverkan**
 
     123 290 42 74
@@ -65199,6 +65298,13 @@ Nummer: 13950
 
 
 
+**Storvreta Barnloppis**
+
+    123 517 72 58
+
+
+
+
 **Storvreta IK**
 
     123 520 08 86
@@ -68423,6 +68529,13 @@ Nummer: 13950
 **Sveriges entomologiska förening**
 
     123 483 69 95
+
+
+
+
+**Sveriges Fridsföreningars Centralorganisation, SFC**
+
+    123 149 25 29
 
 
 
@@ -77014,6 +77127,13 @@ Nummer: 13950
 
 
 
+**Veckobladet / Textåbild i Hagfors AB**
+
+    123 048 96 90
+
+
+
+
 **Vectrum Trafikutbildning AB**
 
     123 254 58 12
@@ -83111,6 +83231,13 @@ Nummer: 13950
 **Ödeshögs Kennelklubb**
 
     123 658 18 88
+
+
+
+
+**Ödeshögs Lokalhistoriska Arkiv, ÖLA**
+
+    123 438 41 37
 
 
 

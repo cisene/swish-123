@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2024-12-11-rev-175621",
+    "date": "2024-12-12-rev-192544",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2616,6 +2616,19 @@
         "scoutk\u00e5r"
       ],
       "web": "https://ryd.scout.se/"
+    },
+    {
+      "entry": 1230132811,
+      "orgName": "Kaffep\u00e5sen i G\u00f6teborg",
+      "orgNumber": "916831-7460",
+      "comment": null,
+      "categories": [
+        "f\u00f6rs\u00e4ljning",
+        "kaffebryggare",
+        "kaffemaskiner",
+        "serviceverkstad"
+      ],
+      "web": "https://kaffepasen.nu/"
     },
     {
       "entry": 1230133520,
@@ -8194,6 +8207,18 @@
       "web": "https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-knivsta/foreningar/knivsta.html"
     },
     {
+      "entry": 1230376178,
+      "orgName": "H\u00f6rnefors IF",
+      "orgNumber": "894001-3132",
+      "comment": "Innebandysektionen",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.horneforsif.se/"
+    },
+    {
       "entry": 1230376244,
       "orgName": "Rosenborgs G\u00e5rd AB",
       "orgNumber": "559464-3974",
@@ -10689,6 +10714,18 @@
       "web": "https://www.laget.se/OKRenen/"
     },
     {
+      "entry": 1230489690,
+      "orgName": "Veckobladet / Text\u00e5bild i Hagfors AB",
+      "orgNumber": "556255-4666",
+      "comment": null,
+      "categories": [
+        "annonsblad",
+        "lokaltidning",
+        "mediaproduktion"
+      ],
+      "web": "https://veckobladet.se/"
+    },
+    {
       "entry": 1230490425,
       "orgName": "IFK Sk\u00f6vde SK",
       "orgNumber": "866601-3464",
@@ -11570,6 +11607,18 @@
       "web": "https://www.dackpartner.se/falun/falu-dackservice/"
     },
     {
+      "entry": 1230531905,
+      "orgName": "LindeNytt AB",
+      "orgNumber": "559113-4241",
+      "comment": null,
+      "categories": [
+        "annonsblad",
+        "lokaltidning",
+        "mediaproduktion"
+      ],
+      "web": "https://lindenytt.com/"
+    },
+    {
       "entry": 1230533620,
       "orgName": "Sibbarps Bastuv\u00e4nner",
       "orgNumber": "802461-9499",
@@ -11700,6 +11749,17 @@
         "religion"
       ],
       "web": "https://www.centrumkyrkanfarsta.se/"
+    },
+    {
+      "entry": 1230540567,
+      "orgName": "NRH Trauma Riks",
+      "orgNumber": "802496-4085",
+      "comment": null,
+      "categories": [
+        "riksf\u00f6rbund",
+        "skadef\u00f6rening"
+      ],
+      "web": "https://www.nrhtrauma.se/"
     },
     {
       "entry": 1230540583,
@@ -21601,6 +21661,16 @@
         "kallbadhus"
       ],
       "web": "https://lysekilkallbadhus.se/"
+    },
+    {
+      "entry": 1230974741,
+      "orgName": "Ekeby Baptistf\u00f6rsamling",
+      "orgNumber": "875700-0685",
+      "comment": "N\u00e4vesta",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://navesta.se/"
     },
     {
       "entry": 1230974873,
@@ -32748,6 +32818,16 @@
       "web": "https://www.laget.se/VikaIF/"
     },
     {
+      "entry": 1231492529,
+      "orgName": "Sveriges Fridsf\u00f6reningars Centralorganisation, SFC",
+      "orgNumber": "882601-0962",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://fridsforening.se/"
+    },
+    {
       "entry": 1231492719,
       "orgName": "Orsa-Skattuge Hembygdsf\u00f6rening",
       "orgNumber": "884401-4657",
@@ -38386,6 +38466,19 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/norrabilling"
+    },
+    {
+      "entry": 1231756238,
+      "orgName": "Bj\u00f6rn's VVS / Bj\u00f6rn Karlsson",
+      "orgNumber": "530331-XXXX",
+      "comment": null,
+      "categories": [
+        "husbyggnation",
+        "installation",
+        "reparationer",
+        "v\u00e4rme-sanitet"
+      ],
+      "web": null
     },
     {
       "entry": 1231756394,
@@ -48503,6 +48596,19 @@
       "web": "https://www.efsostersund.se/"
     },
     {
+      "entry": 1232238756,
+      "orgName": "J\u00f6rgen H\u00fcbner Kreativ Fotografi / J\u00f6rgen O H\u00fcbner",
+      "orgNumber": "610601-XXXX",
+      "comment": null,
+      "categories": [
+        "fotograf",
+        "f\u00f6rs\u00e4ljning",
+        "galleri",
+        "utrustning"
+      ],
+      "web": "https://kreativfotografi.se/"
+    },
+    {
       "entry": 1232238772,
       "orgName": "Marb\u00e4cks IF",
       "orgNumber": "865500-1769",
@@ -54999,6 +55105,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.qomut.se/"
+    },
+    {
+      "entry": 1232571750,
+      "orgName": "Falu Missionsf\u00f6rsamling",
+      "orgNumber": "883200-0981",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://nybrokyrkan.se/"
     },
     {
       "entry": 1232573913,
@@ -68597,6 +68713,18 @@
       "web": "https://lakerslakejer.se/"
     },
     {
+      "entry": 1233201506,
+      "orgName": "Hallstaviks Ryttarf\u00f6rening",
+      "orgNumber": "814401-2476",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.hallstaviksrf.com/"
+    },
+    {
       "entry": 1233201670,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "853300-8739",
@@ -78771,6 +78899,7 @@
       "orgNumber": "559323-3090",
       "comment": null,
       "categories": [
+        "j\u00e4rnhandel",
         "\u00e5terbruk",
         "\u00e5tervinning"
       ],
@@ -90165,6 +90294,18 @@
       "web": "https://svenskahundklubben.se/sodertalje/"
     },
     {
+      "entry": 1234244588,
+      "orgName": "Hallstaviks Ryttarf\u00f6rening",
+      "orgNumber": "814401-2476",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.hallstaviksrf.com/"
+    },
+    {
       "entry": 1234245692,
       "orgName": "Kalix Konstf\u00f6rening",
       "orgNumber": "802469-4898",
@@ -92379,6 +92520,18 @@
       "web": "https://hofslatt.se/"
     },
     {
+      "entry": 1234384137,
+      "orgName": "\u00d6desh\u00f6gs Lokalhistoriska Arkiv, \u00d6LA",
+      "orgNumber": "802429-6355",
+      "comment": null,
+      "categories": [
+        "historief\u00f6rening",
+        "intressef\u00f6rening",
+        "lokalhistoria"
+      ],
+      "web": "https://olaarkiv.se/"
+    },
+    {
       "entry": 1234384343,
       "orgName": "Team Rynkeby",
       "orgNumber": "802532-8033",
@@ -92627,6 +92780,18 @@
         "padelspel"
       ],
       "web": "https://avestapadelcenter.se/"
+    },
+    {
+      "entry": 1234401188,
+      "orgName": "H\u00f6rnefors IF",
+      "orgNumber": "894001-3132",
+      "comment": "Fotbollssektionen",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.horneforsif.se/"
     },
     {
       "entry": 1234402020,
@@ -96499,6 +96664,19 @@
       "web": "https://www.rodshojden.se/"
     },
     {
+      "entry": 1234583258,
+      "orgName": "Bj\u00f6rnol AB",
+      "orgNumber": "556106-9161",
+      "comment": null,
+      "categories": [
+        "butikshandel",
+        "f\u00f6rs\u00e4ljning",
+        "heminredning",
+        "mattor"
+      ],
+      "web": "https://bjornol.se/"
+    },
+    {
       "entry": 1234584314,
       "orgName": "Kalix Golfklubb",
       "orgNumber": "898200-4999",
@@ -96722,7 +96900,7 @@
     },
     {
       "entry": 1234594693,
-      "orgName": "Equmeniakyrkan S\u00f6dra Nissadalen",
+      "orgName": "Equmeniakyrkan Sennan",
       "orgNumber": "849200-1600",
       "comment": null,
       "categories": [
@@ -97877,6 +98055,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/AbyTjureda/"
+    },
+    {
+      "entry": 1234652129,
+      "orgName": "Folkets Hus Kallh\u00e4ll",
+      "orgNumber": "713200-0238",
+      "comment": null,
+      "categories": [
+        "aktivitetshus",
+        "folkets hus"
+      ],
+      "web": "https://bioseplus.se/webb/kallhall/"
     },
     {
       "entry": 1234652160,
@@ -101900,6 +102089,21 @@
         "friskv\u00e5rd"
       ],
       "web": "https://www.facebook.com/mellantjarn/"
+    },
+    {
+      "entry": 1234895447,
+      "orgName": "Siri Beauty & Massage / Manee Chimpradit",
+      "orgNumber": "840703-XXXX",
+      "comment": null,
+      "categories": [
+        "massage",
+        "oljemassage",
+        "sportmassage",
+        "thaimassage",
+        "varm oljemassage",
+        "\u00f6gonfransf\u00f6rl\u00e4ggning"
+      ],
+      "web": "https://siribeautyandmassage.se/"
     },
     {
       "entry": 1234896247,
@@ -108493,6 +108697,17 @@
         "musikf\u00f6rening"
       ],
       "web": "https://www.kikamusik.se/"
+    },
+    {
+      "entry": 1235177258,
+      "orgName": "Storvreta Barnloppis",
+      "orgNumber": "802517-5590",
+      "comment": null,
+      "categories": [
+        "loppis",
+        "loppmarknad"
+      ],
+      "web": "https://www.storvretabarnloppis.se/"
     },
     {
       "entry": 1235177431,
@@ -118784,6 +118999,16 @@
       "web": "https://www.jonkopingssodra.se/"
     },
     {
+      "entry": 1235647607,
+      "orgName": "Equmenia Lidk\u00f6ping",
+      "orgNumber": "869000-6286",
+      "comment": "Missionsarbete",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://mklidkoping.se/"
+    },
+    {
       "entry": 1235652243,
       "orgName": "Djurskyddet Vilsna Tassar H\u00e4llefors",
       "orgNumber": "802518-9195",
@@ -119428,6 +119653,16 @@
         "muaythaiklubb"
       ],
       "web": "https://www.frontiermma.se/"
+    },
+    {
+      "entry": 1235682794,
+      "orgName": "Norra R\u00e5da Missionsf\u00f6rsamling",
+      "orgNumber": "872800-0855",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.kyrktorget.se/hoje.missionskyrka"
     },
     {
       "entry": 1235682810,
@@ -122143,6 +122378,18 @@
         "golfklubb"
       ],
       "web": "https://www.svegsgk.se/"
+    },
+    {
+      "entry": 1235808324,
+      "orgName": "H\u00f6rnefors IF",
+      "orgNumber": "894001-3132",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.horneforsif.se/"
     },
     {
       "entry": 1235808449,
@@ -134614,7 +134861,7 @@
     },
     {
       "entry": 1236425037,
-      "orgName": "Bandieras tifo / Kvillestreamen",
+      "orgName": "Bandieras Tifo / Kvillestreamen",
       "orgNumber": "802535-4955",
       "comment": null,
       "categories": [
@@ -140731,7 +140978,7 @@
       "entry": 1236712624,
       "orgName": "Byggnads",
       "orgNumber": "897000-3078",
-      "comment": null,
+      "comment": "Norrbotten",
       "categories": [
         "facklig organisation"
       ],
