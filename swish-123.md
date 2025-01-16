@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-16-rev-011058
+Revision: 2025-01-16-rev-153525
 
-Nummer: 14023
+Nummer: 14050
 
 
 
@@ -361,6 +361,13 @@ Nummer: 14023
 **Adelsö IF**
 
     123 483 65 65
+
+
+
+
+**Adelsö-Munsö Församling**
+
+    123 596 81 36 - Kollekt
 
 
 
@@ -1159,6 +1166,8 @@ Nummer: 14023
 
     123 535 81 97 - Kollekt, Gåva
 
+    123 674 78 85 - ACT
+
 
 
 
@@ -1170,6 +1179,8 @@ Nummer: 14023
 
 
 **Algutstorps Församling**
+
+    123 651 70 04 - Kollekt
 
     123 651 70 64 - Kollekt
 
@@ -1856,6 +1867,13 @@ Nummer: 14023
 
 
 
+**Anderslövs Församling**
+
+    123 043 98 44 - Kollekt
+
+
+
+
 **Anderssons Begravningsbyrå**
 
     123 345 19 78
@@ -2139,6 +2157,13 @@ Nummer: 14023
 **Annebergs IF**
 
     123 032 36 59
+
+
+
+
+**Annedals Församling**
+
+    123 019 52 14
 
 
 
@@ -13261,6 +13286,13 @@ Nummer: 14023
 
 
 
+**Ekerö Församling**
+
+    123 640 65 32 - Kollekt
+
+
+
+
 **Ekerö IK**
 
     123 123 59 85
@@ -13890,6 +13922,19 @@ Nummer: 14023
 **Energikraft / CMM Redovisning / Marie Melin**
 
     123 611 71 54
+
+
+
+
+**Engelbrekts Församling**
+
+    123 033 95 15 - Kollekt
+
+    123 085 61 92 - Gåvor
+
+    123 223 49 12 - Diakoni
+
+    123 617 37 36 - ACT
 
 
 
@@ -28024,6 +28069,13 @@ Nummer: 14023
 
 
 
+**Hässleby-Kråkshult Församling**
+
+    123 199 52 24 - Kollekt
+
+
+
+
 **Hässleholm Hovdala Vandrarförening**
 
     123 422 64 11
@@ -28200,7 +28252,15 @@ Nummer: 14023
 
 **Håbo Pastorat**
 
-    123 032 12 65
+    123 032 12 65 - Övergrans kyrka
+
+    123 137 07 90 - Kalmar kyrka
+
+    123 218 42 16 - Skoklosters kyrka
+
+    123 351 40 80 - Magdalenakyrkan
+
+    123 454 90 28 - Yttergrans kyrka
 
 
 
@@ -28585,6 +28645,13 @@ Nummer: 14023
 **Hörby EFS**
 
     123 031 07 55
+
+
+
+
+**Höreda Församling**
+
+    123 592 43 29 - Kollekt
 
 
 
@@ -30439,6 +30506,13 @@ Nummer: 14023
 **Ingarö IF**
 
     123 149 29 66
+
+
+
+
+**Ingatorp-Bellö Församling**
+
+    123 170 99 55 - Kollekt
 
 
 
@@ -32888,6 +32962,8 @@ Nummer: 14023
 
 **Jönköpings Församling**
 
+    123 265 54 62 - Kollekt
+
     123 540 09 32 - Diakoni
 
 
@@ -33491,6 +33567,13 @@ Nummer: 14023
 **Karbenning Bygdegårdförening**
 
     123 498 46 47
+
+
+
+
+**Kareby Församling**
+
+    123 576 51 44 - Kollekt
 
 
 
@@ -41443,6 +41526,13 @@ Nummer: 14023
 
 
 
+**Lovö Församling**
+
+    123 051 84 49 - Kollekt
+
+
+
+
 **Lovö Hembygdsförening**
 
     123 576 35 94
@@ -41915,6 +42005,13 @@ Nummer: 14023
 **Lunds Botaniska Förening**
 
     123 095 91 30
+
+
+
+
+**Lunds Domkyrkoförsamling**
+
+    123 105 97 24 - Kollekt
 
 
 
@@ -43188,6 +43285,8 @@ Nummer: 14023
 
 **Maria Magdalena Församling**
 
+    123 327 66 23 - Kollekt
+
     123 397 26 19
 
     123 653 41 35 - Musikverksamheten
@@ -43880,6 +43979,13 @@ Nummer: 14023
 **Mellby Bygdegårdsförening**
 
     123 539 49 37
+
+
+
+
+**Mellby Församling**
+
+    123 337 13 66 - Kollekt
 
 
 
@@ -46842,6 +46948,13 @@ Nummer: 14023
 
 
 
+**Norberg-Karbennings Församling**
+
+    123 299 40 77 - Kollekt
+
+
+
+
 **Norbergs CK**
 
     123 540 66 99
@@ -47242,6 +47355,13 @@ Nummer: 14023
 **Norra Smålands Scoutdistrikt**
 
     123 032 03 66
+
+
+
+
+**Norra Solberga-Flisby Församling**
+
+    123 287 03 19 - Kollekt
 
 
 
@@ -54794,6 +54914,13 @@ Nummer: 14023
 **Roma Hembygdsförening**
 
     123 132 26 27
+
+
+
+
+**Romelanda Församling**
+
+    123 029 06 01 - Kollekt
 
 
 
@@ -69634,7 +69761,7 @@ Nummer: 14023
 
 **Särö Pastorat**
 
-    123 494 49 89
+    123 494 49 89 - Kollekt
 
 
 
@@ -79627,6 +79754,8 @@ Nummer: 14023
 
 
 **Västanfors Västervåla Församling**
+
+    123 050 67 41 - Café
 
     123 468 76 38 - Kollekt
 
