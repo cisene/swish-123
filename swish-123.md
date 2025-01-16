@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2024-12-12-rev-192619
+Revision: 2025-01-16-rev-011058
 
-Nummer: 13971
+Nummer: 14023
 
 
 
@@ -605,6 +605,13 @@ Nummer: 13971
 **AIK Fotboll**
 
     123 018 26 18
+
+
+
+
+**AIK Fotboll AB**
+
+    123 034 69 73
 
 
 
@@ -1431,6 +1438,13 @@ Nummer: 13971
 **Alltid Sedd**
 
     123 689 67 08
+
+
+
+
+**Alltmöjligt Verkstaden**
+
+    123 445 42 29
 
 
 
@@ -2386,6 +2400,17 @@ Nummer: 13971
 **Arboga GF**
 
     123 322 89 96
+
+
+
+
+**Arboga Inner Wheel klubb**
+
+    123 240 10 73 - Medlemsavgift
+
+    123 310 15 81 - Majblomman
+
+    123 424 47 78 - Garissa
 
 
 
@@ -4342,6 +4367,13 @@ Nummer: 13971
 **Betelförsamlingen Jönåker**
 
     123 198 24 46
+
+
+
+
+**Betelförsamlingen Kristdala**
+
+    123 602 72 54 - Kollekt
 
 
 
@@ -7605,7 +7637,7 @@ Nummer: 13971
 
 **Boxholms Församling**
 
-    123 232 51 08
+    123 232 51 08 - Kollekt
 
 
 
@@ -10540,6 +10572,8 @@ Nummer: 13971
 
     123 213 46 58
 
+    123 453 51 75 - Team Ungdom
+
 
 
 
@@ -11069,6 +11103,19 @@ Nummer: 13971
 **Degerfors Golf AB (publ)**
 
     123 199 44 90
+
+
+
+
+**Degerfors-Nysunds Församling**
+
+    123 028 20 95 - Bokbord och ljuskassa
+
+    123 378 99 06 - Stödfond
+
+    123 397 94 65 - Kollekt
+
+    123 475 30 91 - Café och lunch
 
 
 
@@ -12078,6 +12125,13 @@ Nummer: 13971
 
 
 
+**Doku Publicister i Göteborg Aktiebolag**
+
+    123 126 05 12
+
+
+
+
 **Domarringens Samfällighetsförening**
 
     123 232 77 16
@@ -12951,6 +13005,15 @@ Nummer: 13971
 
 
 
+**EFS Missionsförening i Luleå**
+
+    123 427 76 79 - Medlemsavgift
+
+    123 674 30 17 - Servering
+
+
+
+
 **EFS missionsförening i Lötenkyrkan**
 
     123 113 57 30 - Övrigt
@@ -13026,7 +13089,7 @@ Nummer: 13971
 
 **EFS Norrbotten**
 
-    123 013 37 44
+    123 013 37 44 - Kollekt och gåvor
 
 
 
@@ -13362,6 +13425,13 @@ Nummer: 13971
 **Eksjö Fiskeklubb**
 
     123 264 48 88
+
+
+
+
+**Eksjö Församling**
+
+    123 042 95 97 - Kollekt
 
 
 
@@ -14106,7 +14176,7 @@ Nummer: 13971
 
 **Envikens Församling**
 
-    123 453 78 58
+    123 453 78 58 - Kollekt
 
 
 
@@ -14486,6 +14556,13 @@ Nummer: 13971
 **Equmeniakyrkan Gråbo**
 
     123 511 13 49
+
+
+
+
+**Equmeniakyrkan Göteborg**
+
+    123 413 30 13 - Rosa Huset
 
 
 
@@ -15771,6 +15848,13 @@ Nummer: 13971
 
 
 
+**Falsterbonäsets Naturvårdsförening**
+
+    123 511 88 31
+
+
+
+
 **Falsterbonäsets Pistolskytteklubb**
 
     123 383 11 61
@@ -16471,6 +16555,13 @@ Nummer: 13971
 **Filadelfiakyrkan Örebro**
 
     123 033 42 76
+
+
+
+
+**Filipstads Församling**
+
+    123 548 90 42
 
 
 
@@ -24367,6 +24458,13 @@ Nummer: 13971
 
 
 
+**Handbollskanalen / Creative Media Nordic Group AB**
+
+    123 572 17 33
+
+
+
+
 **Handbollsklubben Ankaret**
 
     123 617 10 94
@@ -26195,6 +26293,13 @@ Nummer: 13971
 
 
 
+**Hjälteföreningen IF**
+
+    123 049 42 45
+
+
+
+
 **Hjärnarp-Tåstarp Församling**
 
     123 389 83 50
@@ -26937,6 +27042,13 @@ Nummer: 13971
     123 047 16 31
 
     123 130 33 61
+
+
+
+
+**Hult-Edshults Församling**
+
+    123 303 39 41 - Kollekt
 
 
 
@@ -29987,6 +30099,8 @@ Nummer: 13971
 
 **IK Sleipner**
 
+    123 478 77 84 - P-13 Randigt
+
     123 589 46 47
 
 
@@ -32548,6 +32662,8 @@ Nummer: 13971
 
     123 526 39 91 - Emmausfonden
 
+    123 682 70 91 - Kollekt
+
 
 
 
@@ -32616,11 +32732,16 @@ Nummer: 13971
 
 **Järnkaminerna**
 
-    123 067 07 86
-
     123 174 52 98
 
     123 699 24 40 - Östra
+
+
+
+
+**Järnkaminerna Tifo**
+
+    123 067 07 86
 
 
 
@@ -33566,7 +33687,15 @@ Nummer: 13971
 
 **Karlskoga Församling**
 
+    123 011 60 20 - Stödfond
+
+    123 342 84 55 - Bokbord och ljuskassa
+
+    123 402 02 36 - Kollekt
+
     123 570 26 42
+
+    123 657 35 96 - Café och lunch
 
 
 
@@ -34682,6 +34811,13 @@ Nummer: 13971
 **Kiruna Hockeyskola**
 
     123 137 42 06
+
+
+
+
+**Kiruna IF**
+
+    123 280 65 29 - 2013 / U12
 
 
 
@@ -38695,6 +38831,8 @@ Nummer: 13971
 
 **Leksands IF Ishockey**
 
+    123 200 02 89
+
     123 631 90 40
 
 
@@ -38710,6 +38848,13 @@ Nummer: 13971
 **Leksands IF Konståkning**
 
     123 214 94 82
+
+
+
+
+**Leksands IF Supporterklubb**
+
+    123 655 36 89
 
 
 
@@ -44118,6 +44263,15 @@ Nummer: 13971
 
 
 
+**Missionskyrkan i Mullsjö**
+
+    123 470 47 89
+
+    123 608 41 56
+
+
+
+
 **Missionskyrkan Nässjö**
 
     123 156 95 40
@@ -44176,7 +44330,7 @@ Nummer: 13971
 
 **Mjölby Församling**
 
-    123 695 47 88
+    123 695 47 88 - Kollekt
 
 
 
@@ -45533,6 +45687,8 @@ Nummer: 13971
 
     123 381 74 00
 
+    123 414 94 49 - Bandysektionen
+
 
 
 
@@ -45774,6 +45930,13 @@ Nummer: 13971
 **Mörkersdottir Förlag / Frida Arwen Rosesund**
 
     123 452 38 33
+
+
+
+
+**Mörksuggeparken / Raket IK**
+
+    123 547 14 04
 
 
 
@@ -47331,6 +47494,13 @@ Nummer: 13971
 
 
 
+**Norrköpings HK**
+
+    123 389 26 68
+
+
+
+
 **Norrköpings Jaktskytteklubb**
 
     123 344 59 54
@@ -47446,6 +47616,8 @@ Nummer: 13971
 **Norrtälje IK**
 
     123 029 58 73
+
+    123 317 71 51 - Team 15
 
     123 534 67 62
 
@@ -47624,6 +47796,13 @@ Nummer: 13971
 **Not Quite Vänners Konstförening**
 
     123 544 19 10
+
+
+
+
+**Nottebäcks Hembygdsförening**
+
+    123 519 63 16
 
 
 
@@ -49448,7 +49627,7 @@ Nummer: 13971
 
 **Pajala Församling**
 
-    123 198 80 13
+    123 198 80 13 - Kollekt
 
 
 
@@ -49874,6 +50053,13 @@ Nummer: 13971
 **Pensionärsbowlarna i Örebro**
 
     123 358 14 77
+
+
+
+
+**PeopleForFuture Umeå**
+
+    123 229 52 69
 
 
 
@@ -53065,6 +53251,13 @@ Nummer: 13971
 **På Limhamn Ekonomisk Förening**
 
     123 114 72 22
+
+
+
+
+**Pågen AB**
+
+    123 184 69 63 - Stadsmission
 
 
 
@@ -56341,6 +56534,13 @@ Nummer: 13971
 
 
 
+**Rögle BK**
+
+    123 124 04 98 - Team 14
+
+
+
+
 **Rökåbygdens Byaförening**
 
     123 414 94 64
@@ -56875,6 +57075,8 @@ Nummer: 13971
 
 
 **Salems Församling**
+
+    123 213 77 35 - Kollekt
 
     123 287 33 21 - LT-klappen
 
@@ -58529,7 +58731,7 @@ Nummer: 13971
 
 **Sjundedags Adventistsamfundet**
 
-    123 419 41 48
+    123 419 41 48 - Rikskollekt Världsmission
 
 
 
@@ -58948,6 +59150,13 @@ Nummer: 13971
 **Skara-Lundsbrunns Järnvägar, SkLJ**
 
     123 511 60 66
+
+
+
+
+**Skara Missionsförsamling**
+
+    123 557 42 98
 
 
 
@@ -59828,7 +60037,7 @@ Nummer: 13971
 
 **Skänninge Församling**
 
-    123 005 40 15
+    123 005 40 15 - Kollekt
 
 
 
@@ -66013,7 +66222,7 @@ Nummer: 13971
 
 **Sundborns Församling**
 
-    123 627 35 10
+    123 627 35 10 - Kollekt
 
 
 
@@ -67934,7 +68143,11 @@ Nummer: 13971
 
     123 057 43 01 - Ukraina
 
+    123 069 28 14 - Arvika
+
     123 097 36 44 - Ukraina-insamling
+
+    123 471 45 56 - Boråsbygden
 
     123 553 42 01 - Folkhögskolan
 
@@ -68732,7 +68945,7 @@ Nummer: 13971
 
 **Svärdsjö Församling**
 
-    123 055 52 35
+    123 055 52 35 - Kollekt
 
 
 
@@ -70590,6 +70803,13 @@ Nummer: 13971
 
 
 
+**Tabu och Kunskap**
+
+    123 206 63 97
+
+
+
+
 **Taekwondo Klubben Jeong Sool Kwan, JSK**
 
     123 383 85 21
@@ -70650,7 +70870,7 @@ Nummer: 13971
 
 **Tallåskyrkan i Brunskog**
 
-    123 311 75 04
+    123 311 75 04 - Kollekt
 
 
 
@@ -73442,6 +73662,34 @@ Nummer: 13971
 **Torsby Marknad**
 
     123 690 56 16
+
+
+
+
+**Torsby Pastorat**
+
+    123 664 25 32 - Kollekt Marstrands kyrka
+
+
+
+
+**Torsby Pastorat**
+
+    123 188 04 34 - Kollekt Harestads kyrka
+
+
+
+
+**Torsby Pastorat**
+
+    123 024 54 80 - Kollekt Torsby kyrka
+
+
+
+
+**Torsby Pastorat**
+
+    123 480 94 63 - Kollekt Lycke kyrka
 
 
 
@@ -77595,6 +77843,13 @@ Nummer: 13971
 **Vidsels Aktivitetshus Ekonomisk Förening**
 
     123 309 79 46
+
+
+
+
+**Vifolka Församling**
+
+    123 576 72 64 - Kollekt
 
 
 
@@ -83209,7 +83464,7 @@ Nummer: 13971
 
 **Ödeshögs Församling**
 
-    123 122 72 97
+    123 122 72 97 - Kollekt
 
 
 
@@ -83501,6 +83756,13 @@ Nummer: 13971
 
 
 
+**Önnereds HK**
+
+    123 488 45 81
+
+
+
+
 **Önskeambulansen**
 
     123 389 48 13
@@ -83672,6 +83934,13 @@ Nummer: 13971
 **Örebro Konståkningsklubb**
 
     123 187 11 85
+
+
+
+
+**Örebro Läns FF**
+
+    123 047 41 48
 
 
 
