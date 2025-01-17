@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-16-rev-153525
+Revision: 2025-01-17-rev-153356
 
-Nummer: 14050
+Nummer: 14080
 
 
 
@@ -1161,6 +1161,8 @@ Nummer: 14050
 **Alfta-Ovanåkers Församling**
 
     123 071 33 47 - Minnesgåvor
+
+    123 133 23 60 - Kollekt
 
     123 442 13 92 - Musikverksamhet
 
@@ -5966,9 +5968,9 @@ Nummer: 14050
 
 
 
-**Bollebygds Pastorat**
+**Bollebygds Församling**
 
-    123 024 32 87
+    123 024 32 87 - Kollekt
 
 
 
@@ -25454,6 +25456,13 @@ Nummer: 14050
 
 
 
+**Helgeands Församling**
+
+    123 174 71 87 - Kollekt
+
+
+
+
 **Helhetens Hus AB**
 
     123 161 75 62
@@ -26511,7 +26520,7 @@ Nummer: 14050
 
 **Hofors Församling**
 
-    123 237 73 56
+    123 237 73 56 - Kollekt
 
 
 
@@ -43094,6 +43103,43 @@ Nummer: 14050
 
 
 
+**Malmö Pastorat**
+
+    123 017 20 72 - Kollekt S:t Mikaels kyrka
+
+    123 067 01 17 - Kollekt Husie kyrka och församlingshem
+
+    123 080 47 73 - Kollekt S:t Pauli kyrka
+
+    123 199 59 01 - Kollekt S:t Matteus kyrka
+
+    123 238 99 89 - Kollekt S:t Andreas kyrka
+
+    123 271 17 29 - Kollekt Hyllie kyrka
+
+    123 336 72 24 - Kollekt Västra Skrävlinge kyrka
+
+    123 377 02 03 - Kollekt Tygelsjö kyrka
+
+    123 419 72 16 - Kollekt Oxie kyrka
+
+    123 466 58 24 - Kollekt Limhamns kyrka
+
+    123 512 69 09 - Kollekt Heliga trefaldighetskyrkan
+
+    123 512 86 08 - Kollekt Kirsebergskyrkan
+
+    123 609 77 78 - Kollekt Bunkeflo strandkyrka
+
+    123 611 14 70 - Kollekt S:t Johannes kyrka
+
+    123 614 35 07 - Kollekt Fosie kyrka
+
+    123 694 16 78 - Kollekt S:t Petri kyrka
+
+
+
+
 **Malmö Pingstförsamling**
 
     123 580 84 49
@@ -44014,6 +44060,21 @@ Nummer: 14050
 **Melleruds Båtklubb**
 
     123 668 96 73
+
+
+
+
+**Melleruds Församling**
+
+    123 107 72 39
+
+    123 205 21 81
+
+    123 478 48 07
+
+    123 650 03 67 - Kollekt
+
+    123 677 05 72
 
 
 
@@ -67991,6 +68052,13 @@ Nummer: 14050
 
 
 
+**Svenska Kyrkans Unga-Gröna Draken**
+
+    123 520 80 04
+
+
+
+
 **Svenska Kyrkans Unga i Uppsala stift**
 
     123 608 54 27
@@ -75273,6 +75341,13 @@ Nummer: 14050
 
 
 
+**Töllsjö Församling**
+
+    123 346 72 63 - Kollekt
+
+
+
+
 **Töllsjö IF**
 
     123 520 91 76
@@ -78859,6 +78934,13 @@ Nummer: 14050
 **Vreta Kloster Bryggeri / Vuxenpedagogisk Konsultation i Linköping AB**
 
     123 246 62 58
+
+
+
+
+**Vreta klosters Församling**
+
+    123 148 93 01 - Kollekt
 
 
 
@@ -84334,6 +84416,13 @@ Nummer: 14050
 
 
 
+**Örkelljunga Församling**
+
+    123 067 06 79 - Kollekt
+
+
+
+
 **Örkelljunga Karateklubb**
 
     123 547 90 01
@@ -84351,6 +84440,17 @@ Nummer: 14050
 **Örkelljunga Padel**
 
     123 684 36 68
+
+
+
+
+**Örkelljunga Pastorat**
+
+    123 123 66 03 - Kollekt Åsljunga Småkyrka
+
+    123 545 22 71 - Kollekt Rya Kyrka
+
+    123 615 99 09 - Kollekt Skånes Fagerhult Kyrka
 
 
 
