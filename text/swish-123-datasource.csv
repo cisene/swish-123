@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-01-17-rev-174547
+# Date: 2025-01-17-rev-183712
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3170,6 +3170,7 @@
 "1231554872","556353-2513","Erikssons Trafikskola i Malmö AB","https://www.erikssonstrafikskola.se/","trafikskola,utbildning",""
 "1231555275","802430-5289","IBK Uppsala Teknologer","https://www.svenskalag.se/ibkuppsalateknologer","idrottsförening,innebandyklubb",""
 "1231555408","815600-1508","Södertälje Ridklubb","https://www.srk.se/","hästsport,ridklubb",""
+"1231555473","556639-8441","Centrumadvokaterna i Syd AB","https://www.centrumadvokaterna.se/","advokatbyrå,juridiska tjänster",""
 "1231555705","252003-1416","Kristinehamns Pastorat","https://www.svenskakyrkan.se/kristinehamn","religion",""
 "1231555895","802453-6362","G-A Muaythai","https://www.svenskalag.se/gamuaythai","idrottsförening,kampsportsförening,thaiboxningsklubb",""
 "1231555911","802496-0687","Kiruna AIF Ishockey","https://www.svenskalag.se/kirunaaif","idrottsförening,ishockeyklubb","Entré"
@@ -4069,6 +4070,7 @@
 "1232001790","252000-6327","Södra Sandsjös Församling","https://www.svenskakyrkan.se/tingsryd","religion","Bokbord"
 "1232006963","877101-1056","Nora Biologiska Förening","https://www.norabf.se/","intresseförening,naturskydd,naturvård",""
 "1232007201","556105-5798","Nässjö Trafikskola AB","https://www.nassjotrafikskola.se/","trafikskola",""
+"1232007516","559374-3783","Advokatbyrå Prima AB","https://primalaw.se/","advokatbyrå,juridiska tjänster",""
 "1232010445","832400-0085","Alsterbro IF","https://alsterbroif.se/","förening,idrottsförening",""
 "1232011104","802499-8067","Föreningen End Ecocide","https://endecocide.se/","förening,naturvård",""
 "1232012581","802458-8017","Svenska Kryssarklubben SXK","https://sxk.se/dackekretsen/","båtklubb,kryssarklubb,segelklubb","Dackekretsen"
@@ -5016,6 +5018,7 @@
 "1232459279","802512-6684","Enköping United FK","https://www.laget.se/EnkopingUnitedFK/","fotbollsklubb,idrottsförening",""
 "1232462059","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Malmö, Ängsdals skolor"
 "1232462281","802537-0241","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Sjuhärad, Dalums skola"
+"1232464113","559130-2384","TM Juristbyrå AB","https://www.tmjurist.com/","juridiska tjänster,juristbyrå",""
 "1232465235","802458-2713","LedR KF","https://www.svenskalag.se/ledrkf","intresseförening,kamratförening",""
 "1232465359","802517-4460","Rotary Stenungsund","https://rotarystenungsund.com/","rotaryklubb",""
 "1232465425","802437-3329","Svenska Barbetklubben","https://www.barbet.se/","hundklubb,hunduppfödning",""
@@ -12126,6 +12129,7 @@
 "1236190094","716418-9420","Oaxenfärjan / Oaxens Samfällighetsförening","https://www.oaxenfarjan.se/","förening,samfällighetsförening",""
 "1236190482","814400-8631","Sankt Eriks Gille Roslagsbro","https://www.hembygd.se/sankt-eriks-roslagsbro","hembygdsförening",""
 "1236190995","869001-1294","Hörselskadades Riksförbund Lidköping - Götene","https://hrf.se/lidkoping-gotene/","riksförbund",""
+"1236191423","802487-9085","Skandinaviska Människorättsadvokaterna AB","https://manniskorattsadvokaterna.se/","advokatbyrå,juridiska tjänster",""
 "1236191506","780821-XXXX","Lotus Education / Jenny Damm","https://lotuseducation.se/","hundsport,kurser",""
 "1236191860","838200-1603","IK Kamp","https://www.svenskalag.se/ik-kamp-herrar","fotbollsklubb,idrottsförening",""
 "1236192009","865500-7493","SPF Seniorerna Bogesund","https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bogesund/","pensionärsklubb","Resor"

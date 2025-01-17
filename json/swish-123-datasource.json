@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-01-17-rev-174536",
+    "date": "2025-01-17-rev-183704",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -34298,6 +34298,17 @@
       "web": "https://www.srk.se/"
     },
     {
+      "entry": 1231555473,
+      "orgName": "Centrumadvokaterna i Syd AB",
+      "orgNumber": "556639-8441",
+      "comment": null,
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://www.centrumadvokaterna.se/"
+    },
+    {
       "entry": 1231555705,
       "orgName": "Kristinehamns Pastorat",
       "orgNumber": "252003-1416",
@@ -44041,6 +44052,17 @@
         "trafikskola"
       ],
       "web": "https://www.nassjotrafikskola.se/"
+    },
+    {
+      "entry": 1232007516,
+      "orgName": "Advokatbyr\u00e5 Prima AB",
+      "orgNumber": "559374-3783",
+      "comment": null,
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://primalaw.se/"
     },
     {
       "entry": 1232010445,
@@ -54334,6 +54356,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232464113,
+      "orgName": "TM Juristbyr\u00e5 AB",
+      "orgNumber": "559130-2384",
+      "comment": null,
+      "categories": [
+        "juridiska tj\u00e4nster",
+        "juristbyr\u00e5"
+      ],
+      "web": "https://www.tmjurist.com/"
     },
     {
       "entry": 1232465235,
@@ -131638,6 +131671,17 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://hrf.se/lidkoping-gotene/"
+    },
+    {
+      "entry": 1236191423,
+      "orgName": "Skandinaviska M\u00e4nniskor\u00e4ttsadvokaterna AB",
+      "orgNumber": "802487-9085",
+      "comment": null,
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://manniskorattsadvokaterna.se/"
     },
     {
       "entry": 1236191506,

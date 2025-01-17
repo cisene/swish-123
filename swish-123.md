@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-17-rev-174618
+Revision: 2025-01-17-rev-183738
 
-Nummer: 14110
+Nummer: 14114
 
 
 
@@ -447,6 +447,13 @@ Nummer: 14110
 **Adventkyrkan i Malmö**
 
     123 526 66 97 - Kollekter, Gåvor, tionde och andra initiativ
+
+
+
+
+**Advokatbyrå Prima AB**
+
+    123 200 75 16
 
 
 
@@ -9786,6 +9793,13 @@ Nummer: 14110
 **Centrum För Urbankonst, CFUK**
 
     123 404 28 91
+
+
+
+
+**Centrumadvokaterna i Syd AB**
+
+    123 155 54 73
 
 
 
@@ -59328,6 +59342,13 @@ Nummer: 14110
 
 
 
+**Skandinaviska Människorättsadvokaterna AB**
+
+    123 619 14 23
+
+
+
+
 **Skandinaviska Turistkyrkan**
 
     123 006 43 37
@@ -73624,6 +73645,13 @@ Nummer: 14110
 **Tjörns Släktforskare**
 
     123 497 10 40
+
+
+
+
+**TM Juristbyrå AB**
+
+    123 246 41 13
 
 
 
