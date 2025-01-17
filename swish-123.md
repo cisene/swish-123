@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-17-rev-173934
+Revision: 2025-01-17-rev-174618
 
 Nummer: 14110
 
@@ -54185,16 +54185,11 @@ Nummer: 14110
 
 
 
-**Rengsjö SK - Fotboll**
-
-    123 198 14 97 - Bingo
-
-
-
-
 **Rengsjö Sportklubb**
 
     123 083 84 82
+
+    123 198 14 97 - Bingo
 
 
 
@@ -82767,11 +82762,6 @@ Nummer: 14110
 **Ängelholms Pistolskytteklubb**
 
     123 395 95 09
-
-
-
-
-**Ängelholms PSK**
 
     123 576 74 70
 

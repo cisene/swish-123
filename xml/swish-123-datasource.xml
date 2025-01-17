@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2025-01-17-rev-173924
+Date: 2025-01-17-rev-174609
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -4001,7 +4001,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1231979749"><organization><number>802490-8231</number><name>Svenska Agilityklubben</name></organization><comment/><categories><category type="agilityklubb"/><category type="hundsport"/></categories><web>https://agilityklubben.se/</web></entry>
     <entry number="1231979913"><organization><number>817601-7401</number><name>Agape Sverige</name></organization><comment/><categories><category type="religion"/></categories><web>http://www.agapesverige.se/</web></entry>
     <entry number="1231981265"><organization><number>816000-1155</number><name>Näsbyvikens Båtsällskap</name></organization><comment/><categories><category type="båtklubb"/><category type="båtsällskap"/></categories><web>https://www.nasbyviken.se/</web></entry>
-    <entry number="1231981497"><organization><number>886500-1302</number><name>Rengsjö SK - Fotboll</name></organization><comment>Bingo</comment><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.rengsjosk.se/</web></entry>
+    <entry number="1231981497"><organization><number>886500-1302</number><name>Rengsjö Sportklubb</name></organization><comment>Bingo</comment><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.rengsjosk.se/</web></entry>
     <entry number="1231981703"><organization><number>802413-3640</number><name>ShareMusic &amp; Performing Arts insamlingsstiftelse</name></organization><comment/><categories><category type="kultur"/><category type="musik"/><category type="stiftelse"/></categories><web>https://www.sharemusic.se/</web></entry>
     <entry number="1231981760"><organization><number>863500-2580</number><name>Ale-Jennylunds RK - Ridsport</name></organization><comment/><categories><category type="hästsport"/><category type="ridskola"/><category type="ridsport"/></categories><web>https://www.ajrk.se/</web></entry>
     <entry number="1231982313"><organization><number>817301-5234</number><name>Stiftelsen Eric Sahlström Institutet</name></organization><comment/><categories><category type="institut"/><category type="musikkultur"/><category type="stiftelse"/></categories><web>https://esitobo.org/</web></entry>
@@ -11306,7 +11306,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1235766803"><organization><number>802436-7438</number><name>Djurgården Innebandy</name></organization><comment/><categories><category type="idrottsförening"/><category type="innebandyklubb"/></categories><web>https://www.svenskalag.se/difibs</web></entry>
     <entry number="1235767264"><organization><number>252004-9137</number><name>Vifolka Församling</name></organization><comment>Kollekt</comment><categories><category type="religion"/></categories><web>https://www.svenskakyrkan.se/folkungabygden/svenska-kyrkan-mantorp</web></entry>
     <entry number="1235767272"><organization><number>826500-3114</number><name>Sommens AIF</name></organization><comment/><categories><category type="fotbollsklubb"/><category type="idrottsförening"/><category type="tennisklubb"/></categories><web>https://www.sommensaif.se/</web></entry>
-    <entry number="1235767470"><organization><number>839400-4231</number><name>Ängelholms PSK</name></organization><comment/><categories><category type="pistolskytteklubb"/><category type="skytteklubb"/><category type="sportskytteklubb"/></categories><web>https://www.svenskalag.se/engelholmspk</web></entry>
+    <entry number="1235767470"><organization><number>839400-4231</number><name>Ängelholms Pistolskytteklubb</name></organization><comment/><categories><category type="pistolskytteklubb"/><category type="skytteklubb"/><category type="sportskytteklubb"/></categories><web>https://www.svenskalag.se/engelholmspk</web></entry>
     <entry number="1235767876"><organization><number>883201-8116</number><name>Lions Club Rättvik</name></organization><comment/><categories><category type="lionsklubb"/></categories><web>https://www.lionsrattvik.se/</web></entry>
     <entry number="1235769872"><organization><number>802001-3390</number><name>Hammarbyledens Motorbåtsklubb</name></organization><comment>Hamn/el/Dusch Bastu</comment><categories><category type="båtklubb"/><category type="motorbåtsklubb"/></categories><web>https://www.hammarbyledensmbk.one/</web></entry>
     <entry number="1235770144"><organization><number>815600-2043</number><name>Södertälje Teateramatörer</name></organization><comment/><categories><category type="kulturförening"/></categories><web>https://sta.nu/</web></entry>

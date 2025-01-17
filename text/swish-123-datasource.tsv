@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-01-17-rev-173915
+# Date: 2025-01-17-rev-174559
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4001,7 +4001,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231979749	802490-8231	Svenska Agilityklubben	https://agilityklubben.se/	agilityklubb,hundsport	
 1231979913	817601-7401	Agape Sverige	http://www.agapesverige.se/	religion	
 1231981265	816000-1155	Näsbyvikens Båtsällskap	https://www.nasbyviken.se/	båtklubb,båtsällskap	
-1231981497	886500-1302	Rengsjö SK - Fotboll	https://www.rengsjosk.se/	fotbollsklubb,idrottsförening	Bingo
+1231981497	886500-1302	Rengsjö Sportklubb	https://www.rengsjosk.se/	fotbollsklubb,idrottsförening	Bingo
 1231981703	802413-3640	ShareMusic & Performing Arts insamlingsstiftelse	https://www.sharemusic.se/	kultur,musik,stiftelse	
 1231981760	863500-2580	Ale-Jennylunds RK - Ridsport	https://www.ajrk.se/	hästsport,ridskola,ridsport	
 1231982313	817301-5234	Stiftelsen Eric Sahlström Institutet	https://esitobo.org/	institut,musikkultur,stiftelse	
@@ -11306,7 +11306,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235766803	802436-7438	Djurgården Innebandy	https://www.svenskalag.se/difibs	idrottsförening,innebandyklubb	
 1235767264	252004-9137	Vifolka Församling	https://www.svenskakyrkan.se/folkungabygden/svenska-kyrkan-mantorp	religion	Kollekt
 1235767272	826500-3114	Sommens AIF	https://www.sommensaif.se/	fotbollsklubb,idrottsförening,tennisklubb	
-1235767470	839400-4231	Ängelholms PSK	https://www.svenskalag.se/engelholmspk	pistolskytteklubb,skytteklubb,sportskytteklubb	
+1235767470	839400-4231	Ängelholms Pistolskytteklubb	https://www.svenskalag.se/engelholmspk	pistolskytteklubb,skytteklubb,sportskytteklubb	
 1235767876	883201-8116	Lions Club Rättvik	https://www.lionsrattvik.se/	lionsklubb	
 1235769872	802001-3390	Hammarbyledens Motorbåtsklubb	https://www.hammarbyledensmbk.one/	båtklubb,motorbåtsklubb	Hamn/el/Dusch Bastu
 1235770144	815600-2043	Södertälje Teateramatörer	https://sta.nu/	kulturförening	
