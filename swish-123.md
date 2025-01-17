@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-17-rev-153356
+Revision: 2025-01-17-rev-173934
 
-Nummer: 14080
+Nummer: 14110
 
 
 
@@ -533,6 +533,13 @@ Nummer: 14080
 **Afrikagrupperna**
 
     123 900 33 77
+
+
+
+
+**Afro Sports Klubb Malmö**
+
+    123 185 31 67
 
 
 
@@ -1250,6 +1257,8 @@ Nummer: 14080
 
     123 351 67 62
 
+    123 504 84 67
+
 
 
 
@@ -1493,6 +1502,8 @@ Nummer: 14080
 **Almo BK**
 
     123 082 08 11
+
+    123 602 73 87
 
 
 
@@ -4664,6 +4675,13 @@ Nummer: 14080
 **Billeruds Jaktskytteklubb**
 
     123 312 38 74
+
+
+
+
+**Billesholms GIF**
+
+    123 049 86 83
 
 
 
@@ -8095,6 +8113,8 @@ Nummer: 14080
 
     123 413 43 18
 
+    123 452 00 37
+
 
 
 
@@ -9873,6 +9893,13 @@ Nummer: 14080
     123 148 03 26
 
     123 611 27 67 - Restaurant
+
+
+
+
+**Chalmers HK**
+
+    123 338 55 07
 
 
 
@@ -12229,6 +12256,13 @@ Nummer: 14080
 
 
 
+**Dotteviks IF**
+
+    123 305 95 32
+
+
+
+
 **Dotzsky Jiujitsu och Friskvård**
 
     123 688 67 41
@@ -13836,6 +13870,13 @@ Nummer: 14080
 
 
 
+**Emmaboda Pistolklubb**
+
+    123 228 23 82
+
+
+
+
 **Emådalens Brukshundsklubb**
 
     123 355 36 74
@@ -14114,6 +14155,8 @@ Nummer: 14080
 **Enköpings Rugbyklubb**
 
     123 555 76 99
+
+    123 561 57 37
 
 
 
@@ -15599,13 +15642,6 @@ Nummer: 14080
 **F16 Pistolklubb**
 
     123 133 93 08
-
-
-
-
-**F V F Öringen**
-
-    123 449 34 58
 
 
 
@@ -18874,6 +18910,13 @@ Nummer: 14080
 
 
 
+**FVF Öringen**
+
+    123 449 34 58
+
+
+
+
 **Fyllingarums Bygdegårdsförening**
 
     123 619 87 74
@@ -21463,7 +21506,7 @@ Nummer: 14080
 
 
 
-**Gimo IF SK**
+**Gimo IF Skidklubb**
 
     123 170 32 89
 
@@ -25789,6 +25832,13 @@ Nummer: 14080
 **Hembygdsföreningen Ydregården**
 
     123 484 40 31
+
+
+
+
+**Hemgårdarnas Bollklubb**
+
+    123 173 90 77
 
 
 
@@ -33389,6 +33439,13 @@ Nummer: 14080
 
 
 
+**Kalvsunds IF**
+
+    123 670 38 62
+
+
+
+
 **Kalvsviks Bygdegård**
 
     123 225 66 18
@@ -35385,6 +35442,13 @@ Nummer: 14080
 **Knivsta CK**
 
     123 296 73 96
+
+
+
+
+**Knivsta Idrottsklubb**
+
+    123 463 97 53
 
 
 
@@ -39295,7 +39359,7 @@ Nummer: 14080
 
 
 
-**Liatorps JSK**
+**Liatorps Jaktskytteklubb**
 
     123 608 69 53
 
@@ -40872,6 +40936,8 @@ Nummer: 14080
 
 
 **Listerby IK**
+
+    123 008 48 30
 
     123 330 83 76
 
@@ -43489,7 +43555,7 @@ Nummer: 14080
 
 
 
-**Mariestads SG**
+**Mariestads Skyttegille**
 
     123 069 08 75
 
@@ -43608,6 +43674,13 @@ Nummer: 14080
 
 
 
+**Marockanska Göteborg FF**
+
+    123 010 12 04
+
+
+
+
 **Marsjö-Byle GOIF**
 
     123 303 45 43
@@ -43667,6 +43740,13 @@ Nummer: 14080
 **Massage & Hälsa i Sundbyberg**
 
     123 543 98 64
+
+
+
+
+**Masthuggets BK**
+
+    123 579 09 51
 
 
 
@@ -44910,6 +44990,13 @@ Nummer: 14080
 **Mossens BK**
 
     123 590 40 73
+
+
+
+
+**Mosseruds GF**
+
+    123 556 27 15
 
 
 
@@ -46645,6 +46732,13 @@ Nummer: 14080
 **Niemisels AIK, NAIK**
 
     123 040 11 74
+
+
+
+
+**NIF Bosna**
+
+    123 480 92 40
 
 
 
@@ -54093,9 +54187,14 @@ Nummer: 14080
 
 **Rengsjö SK - Fotboll**
 
-    123 083 84 82
-
     123 198 14 97 - Bingo
+
+
+
+
+**Rengsjö Sportklubb**
+
+    123 083 84 82
 
 
 
@@ -59884,6 +59983,13 @@ Nummer: 14080
 
 
 
+**Skolungdomens i Stockholm SkF**
+
+    123 428 65 89
+
+
+
+
 **Skonaren Ingos Vänner, Göteborg**
 
     123 036 85 48
@@ -65108,6 +65214,13 @@ Nummer: 14080
 
 
 
+**Stjärnorps Sportklubb**
+
+    123 007 71 07
+
+
+
+
 **Stjärnsunds AIF, SAIF**
 
     123 510 64 71
@@ -65188,6 +65301,13 @@ Nummer: 14080
 **Stockholm Trekkers, Star Trek fan club**
 
     123 641 85 86
+
+
+
+
+**Stockholms Allmänna Skridskoklubb, SASK**
+
+    123 338 31 71
 
 
 
@@ -66057,6 +66177,8 @@ Nummer: 14080
 
     123 237 38 43
 
+    123 284 84 63
+
 
 
 
@@ -66205,6 +66327,13 @@ Nummer: 14080
 **Stugsunds IK**
 
     123 616 24 40
+
+
+
+
+**Sturefors IF**
+
+    123 385 10 37
 
 
 
@@ -71084,6 +71213,13 @@ Nummer: 14080
 
 
 
+**Tang Soo Do Sweden**
+
+    123 208 88 88
+
+
+
+
 **Tango Blekinge**
 
     123 520 72 20
@@ -71362,6 +71498,13 @@ Nummer: 14080
 **Team KBK Bikes Cykelklubb & Triathlon**
 
     123 107 25 78
+
+
+
+
+**Team LeWa Sport**
+
+    123 337 10 44
 
 
 
@@ -76090,6 +76233,13 @@ Nummer: 14080
 
 
 
+**Ungdomsbrandkåren Laholm**
+
+    123 236 07 33
+
+
+
+
 **Ungdomsförbundet Sveriges Flotta - Gripen**
 
     123 598 29 88
@@ -79025,6 +79175,13 @@ Nummer: 14080
 
 
 
+**Vrångö IF**
+
+    123 264 28 90
+
+
+
+
 **VSK Kringlan**
 
     123 694 63 21
@@ -81425,6 +81582,8 @@ Nummer: 14080
 
 **Willands Ryttarförening**
 
+    123 298 15 79
+
     123 449 43 81
 
 
@@ -81714,6 +81873,10 @@ Nummer: 14080
     123 099 61 08
 
     123 573 13 85 - Loppisförsäljning
+
+    123 579 96 97 - Medlemsavgifter
+
+    123 642 75 20 - Entré/Inträde
 
 
 
@@ -82597,6 +82760,13 @@ Nummer: 14080
 **Ängelholms Hembygdsförening**
 
     123 596 56 78
+
+
+
+
+**Ängelholms Pistolskytteklubb**
+
+    123 395 95 09
 
 
 
