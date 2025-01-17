@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-01-17-rev-183712
+# Date: 2025-01-17-rev-221224
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -275,6 +275,7 @@
 "1230142927","559177-2198","MorrRingens AB","https://morrringens.se/","meditation,spiritualism",""
 "1230143792","559265-7158","Oxyboost-O2 Sweden AB","https://www.oxyboost-o2sweden.com/","hälsa,intresseförening",""
 "1230149286","212000-0266","Kulturskolan, Tierps Kommun","https://www.tierp.se/tierp.se/kultur-fritid-och-friluftsliv/kulturskolan.html","dans,musik,teater",""
+"1230149328","556612-7659","Crusner Advokatbyrå AB","https://www.crusner.se/","advokatbyrå,juridiska tjänster",""
 "1230154583","882600-9329","Kvarnsvedens IK","https://www.kvarnsvedensik.com/","fotbollsklubb,idrottsförening","Kiosk"
 "1230154724","820114-XXXX","Silyns Massage o Fotvård","https://www.bokadirekt.se/places/silyns-fotklinik-47427","fotvård,massage",""
 "1230154864","802445-5761","FC Hessleholm","https://www.fchessleholm.se/","fotbollsklubb,idrottsförening","DF17"

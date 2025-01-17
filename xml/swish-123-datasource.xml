@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2025-01-17-rev-183730
+Date: 2025-01-17-rev-221245
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -275,6 +275,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1230142927"><organization><number>559177-2198</number><name>MorrRingens AB</name></organization><comment/><categories><category type="meditation"/><category type="spiritualism"/></categories><web>https://morrringens.se/</web></entry>
     <entry number="1230143792"><organization><number>559265-7158</number><name>Oxyboost-O2 Sweden AB</name></organization><comment/><categories><category type="hälsa"/><category type="intresseförening"/></categories><web>https://www.oxyboost-o2sweden.com/</web></entry>
     <entry number="1230149286"><organization><number>212000-0266</number><name>Kulturskolan, Tierps Kommun</name></organization><comment/><categories><category type="dans"/><category type="musik"/><category type="teater"/></categories><web>https://www.tierp.se/tierp.se/kultur-fritid-och-friluftsliv/kulturskolan.html</web></entry>
+    <entry number="1230149328"><organization><number>556612-7659</number><name>Crusner Advokatbyrå AB</name></organization><comment/><categories><category type="advokatbyrå"/><category type="juridiska tjänster"/></categories><web>https://www.crusner.se/</web></entry>
     <entry number="1230154583"><organization><number>882600-9329</number><name>Kvarnsvedens IK</name></organization><comment>Kiosk</comment><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.kvarnsvedensik.com/</web></entry>
     <entry number="1230154724"><organization><number>820114-XXXX</number><name>Silyns Massage o Fotvård</name></organization><comment/><categories><category type="fotvård"/><category type="massage"/></categories><web>https://www.bokadirekt.se/places/silyns-fotklinik-47427</web></entry>
     <entry number="1230154864"><organization><number>802445-5761</number><name>FC Hessleholm</name></organization><comment>DF17</comment><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.fchessleholm.se/</web></entry>

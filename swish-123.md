@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-17-rev-183738
+Revision: 2025-01-17-rev-221256
 
-Nummer: 14114
+Nummer: 14115
 
 
 
@@ -10519,6 +10519,13 @@ Nummer: 14114
 **Crossfit Eken / Ekens Sport och Media AB**
 
     123 000 57 10
+
+
+
+
+**Crusner Advokatbyrå AB**
+
+    123 014 93 28
 
 
 

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-01-17-rev-183704",
+    "date": "2025-01-17-rev-221213",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2923,6 +2923,17 @@
         "teater"
       ],
       "web": "https://www.tierp.se/tierp.se/kultur-fritid-och-friluftsliv/kulturskolan.html"
+    },
+    {
+      "entry": 1230149328,
+      "orgName": "Crusner Advokatbyr\u00e5 AB",
+      "orgNumber": "556612-7659",
+      "comment": null,
+      "categories": [
+        "advokatbyr\u00e5",
+        "juridiska tj\u00e4nster"
+      ],
+      "web": "https://www.crusner.se/"
     },
     {
       "entry": 1230154583,
