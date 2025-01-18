@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-17-rev-221256
+Revision: 2025-01-18-rev-113212
 
-Nummer: 14115
+Nummer: 14145
 
 
 
@@ -1603,6 +1603,8 @@ Nummer: 14115
 
     123 007 67 86
 
+    123 628 36 91
+
 
 
 
@@ -2629,6 +2631,13 @@ Nummer: 14115
 **Arnäs Trädgårdsförening**
 
     123 006 54 25
+
+
+
+
+**Arnö IF**
+
+    123 507 47 52
 
 
 
@@ -4954,7 +4963,7 @@ Nummer: 14115
 
 
 
-**Bjärka-Säby RF**
+**Bjärka-Säby Ryttarförening**
 
     123 231 38 98
 
@@ -6273,6 +6282,13 @@ Nummer: 14115
 **Borlänge Kanotklubb**
 
     123 547 38 14
+
+
+
+
+**Borlänge Konståkningsklubb**
+
+    123 196 30 16
 
 
 
@@ -7659,6 +7675,13 @@ Nummer: 14115
 
 
 
+**Bowlingklubben Granen Hedemora**
+
+    123 305 28 75
+
+
+
+
 **Bowlingklubben Köpings PBK**
 
     123 480 87 70
@@ -8052,6 +8075,13 @@ Nummer: 14115
 **Broby Karate Klubb**
 
     123 258 68 24
+
+
+
+
+**Broddetorpsortens Intresseförening**
+
+    123 448 77 73
 
 
 
@@ -11195,6 +11225,13 @@ Nummer: 14115
 
 
 
+**Degerfors OK**
+
+    123 624 60 03
+
+
+
+
 **Degerfors Volley Orion**
 
     123 074 02 58
@@ -13596,6 +13633,13 @@ Nummer: 14115
 
 
 
+**Eksta IF**
+
+    123 392 30 59
+
+
+
+
 **Ekström & Garay AB**
 
     123 181 87 56
@@ -15244,7 +15288,7 @@ Nummer: 14115
 
 
 
-**Eskilstuna OL - Orientering**
+**Eskilstuna OL**
 
     123 340 95 21
 
@@ -17242,6 +17286,13 @@ Nummer: 14115
 
 
 
+**Fliseryds Motorklubb**
+
+    123 538 36 33
+
+
+
+
 **Floby Församling**
 
     123 040 11 82
@@ -19230,6 +19281,13 @@ Nummer: 14115
 **Föreningen Afrikas Barn, FAB**
 
     123 900 59 68
+
+
+
+
+**Föreningen Aktion Rädda Vättern, ARV**
+
+    123 694 80 87
 
 
 
@@ -23210,7 +23268,7 @@ Nummer: 14115
 
 
 
-**Gymmix Falun GF**
+**Gymmix Falun**
 
     123 336 67 88
 
@@ -24583,6 +24641,13 @@ Nummer: 14115
 
 
 
+**HandbollsSällskapet Sierra Ängelholm**
+
+    123 146 50 04
+
+
+
+
 **Handelsbankens Fadderbarnsfond**
 
     123 503 97 89
@@ -24854,51 +24919,51 @@ Nummer: 14115
 
 
 
-**Harley Owners Group, HOG Aros Viking Uppsala Chapter**
+**Harley Owners Group, HOG**
 
-    123 567 28 29
-
-
-
-
-**Harley Owners Group, HOG Dala River Chapter**
-
-    123 696 05 95
+    123 189 10 35 - Stockholm Chapter
 
 
 
 
-**Harley Owners Group, HOG Göteborg Chapter**
+**Harley Owners Group, HOG**
 
-    123 299 95 89
-
-
-
-
-**Harley Owners Group, HOG Helsingborg Chapter**
-
-    123 179 53 43
+    123 696 05 95 - Dala River Chapter
 
 
 
 
-**Harley Owners Group, HOG Järvsö Chapter**
+**Harley Owners Group, HOG**
 
-    123 232 96 47
-
-
-
-
-**Harley Owners Group, HOG Stockholm Chapter**
-
-    123 189 10 35
+    123 179 53 43 - Helsingborg Chapter
 
 
 
 
-**Harley Owners Group, HOG Umeå Chapter**
+**Harley Owners Group, HOG**
 
-    123 225 05 04
+    123 567 28 29 - Aros Viking Uppsala Chapter
+
+
+
+
+**Harley Owners Group, HOG**
+
+    123 232 96 47 - Järvsö Chapter
+
+
+
+
+**Harley Owners Group, HOG**
+
+    123 225 05 04 - Umeå Chapter
+
+
+
+
+**Harley Owners Group, HOG**
+
+    123 299 95 89 - Göteborg Chapter
 
 
 
@@ -27010,13 +27075,6 @@ Nummer: 14115
 
 
 
-**HS Sierra Ängelholm - Handboll**
-
-    123 146 50 04
-
-
-
-
 **HST Sverige / Kbg hundtjänst AB**
 
     123 209 71 37
@@ -27612,6 +27670,13 @@ Nummer: 14115
 
 
 
+**Husums IF Skidklubb**
+
+    123 089 85 85
+
+
+
+
 **HV 71**
 
     123 269 10 61 - U13
@@ -28042,6 +28107,13 @@ Nummer: 14115
 **Härnösands Folkhögskola**
 
     123 264 35 75
+
+
+
+
+**Härnösands klätterklubb**
+
+    123 177 67 31
 
 
 
@@ -28630,6 +28702,13 @@ Nummer: 14115
 **Högsäters Kanotklubb**
 
     123 264 45 16
+
+
+
+
+**Högsäters Skidklubb**
+
+    123 188 18 87
 
 
 
@@ -34798,6 +34877,13 @@ Nummer: 14115
 
 
 
+**Kils Ryttarförening**
+
+    123 378 39 09
+
+
+
+
 **Kilsbergen Trailrun / AH-Event HB**
 
     123 007 80 97
@@ -35969,6 +36055,13 @@ Nummer: 14115
 **Korpen Nybro**
 
     123 268 19 22
+
+
+
+
+**Korpen Nyköping**
+
+    123 545 17 11
 
 
 
@@ -37172,6 +37265,13 @@ Nummer: 14115
     123 595 93 33 - Act Svenska kyrkan
 
     123 695 60 15 - Kollekt Kumla
+
+
+
+
+**Kumla Ridklubb**
+
+    123 511 15 13
 
 
 
@@ -46910,6 +47010,13 @@ Nummer: 14115
 
 
 
+**NKIK Handboll Norrköping**
+
+    123 236 03 60
+
+
+
+
 **Nkingas Vänner**
 
     123 288 91 52
@@ -47131,6 +47238,13 @@ Nummer: 14115
 
 
 
+**Norberg Racing Academy / Philip Norberg**
+
+    123 279 45 76
+
+
+
+
 **Norbergs CK**
 
     123 540 66 99
@@ -47141,6 +47255,13 @@ Nummer: 14115
 **Norbergs Orienteringsklubb**
 
     123 421 49 38
+
+
+
+
+**Norbergs Skidklubb**
+
+    123 466 52 46
 
 
 
@@ -49052,6 +49173,13 @@ Nummer: 14115
 
 
 
+**OK Järnbärarna**
+
+    123 573 08 33
+
+
+
+
 **OK Kompassen**
 
     123 309 58 41
@@ -49141,6 +49269,13 @@ Nummer: 14115
 **OK Rodhen**
 
     123 298 05 14
+
+
+
+
+**OK Storsjön**
+
+    123 117 70 05
 
 
 
@@ -49524,6 +49659,13 @@ Nummer: 14115
 
 
 
+**Orienteringsklubben Orinto**
+
+    123 082 06 70
+
+
+
+
 **Orkesta Hembygdsförening**
 
     123 045 32 25
@@ -49844,6 +49986,13 @@ Nummer: 14115
 **Ovanhedens Bygdegårdsförening**
 
     123 468 79 19
+
+
+
+
+**Ovansiljans Sportklubb**
+
+    123 228 87 28
 
 
 
@@ -56796,11 +56945,16 @@ Nummer: 14115
 
 
 
-**Rödeby CK - Motorcykel och Snöskoter**
+**Rödeby CK**
 
     123 196 07 98 - Uthyrning
 
     123 339 73 87 - Kiosk
+
+
+
+
+**Rödeby CK - Motorcykel och Snöskoter**
 
     123 545 86 90 - Träningsavgifter
 
@@ -66275,6 +66429,13 @@ Nummer: 14115
 
 
 
+**Strövelstorp BTK**
+
+    123 219 32 33
+
+
+
+
 **Strövelstorp GIF**
 
     123 378 37 76
@@ -71104,6 +71265,13 @@ Nummer: 14115
 
 
 
+**Sösdala MK**
+
+    123 085 13 94
+
+
+
+
 **Sösdalaortens Lantliga Ryttarförening**
 
     123 584 39 09
@@ -71129,7 +71297,7 @@ Nummer: 14115
 
 
 
-**Tabergs GF**
+**Tabergs Gymnastikförening**
 
     123 395 24 54
 
@@ -73190,6 +73358,13 @@ Nummer: 14115
 
 
 
+**Tidaholms Tennisklubb**
+
+    123 105 11 19
+
+
+
+
 **Tidans IF**
 
     123 100 68 08
@@ -73357,6 +73532,13 @@ Nummer: 14115
 **Timmernabbens MSK**
 
     123 114 75 29
+
+
+
+
+**Timrå Discgolf**
+
+    123 201 38 45
 
 
 
@@ -74504,6 +74686,13 @@ Nummer: 14115
 
 
 
+**Trelleborgs Ryttarförening**
+
+    123 480 42 90
+
+
+
+
 **Trelleborgs Scoutkår**
 
     123 315 74 27
@@ -75549,7 +75738,7 @@ Nummer: 14115
 
 
 
-**Töreboda HK**
+**Töreboda Hästklubb**
 
     123 268 49 91
 
@@ -76694,6 +76883,13 @@ Nummer: 14115
 
 
 
+**Uppsala Paddlarklubb**
+
+    123 295 72 64
+
+
+
+
 **Uppsala Parkour**
 
     123 166 77 99
@@ -77258,6 +77454,8 @@ Nummer: 14115
 
     123 412 93 34
 
+    123 687 96 62
+
 
 
 
@@ -77391,7 +77589,7 @@ Nummer: 14115
 
     123 319 10 38
 
-    123 526 54 83
+    123 526 54 83 - Medlemsagift mm
 
     123 553 20 72 - Cafeteria
 
@@ -83655,6 +83853,13 @@ Nummer: 14115
 **Åsele Nya Golfklubb**
 
     123 553 23 04
+
+
+
+
+**Åsele Ridklubb**
+
+    123 326 30 84
 
 
 
