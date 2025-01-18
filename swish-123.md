@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-18-rev-113212
+Revision: 2025-01-18-rev-174110
 
-Nummer: 14145
+Nummer: 14161
 
 
 
@@ -3402,6 +3402,13 @@ Nummer: 14145
 
 
 
+**Avesta Volley**
+
+    123 662 50 81
+
+
+
+
 **Avlidna Salakonstnärers Sällskap, ASS**
 
     123 684 05 99
@@ -3534,6 +3541,13 @@ Nummer: 14145
 **Backia**
 
     123 653 53 14
+
+
+
+
+**Badmintonklubben Kruset Höganäs**
+
+    123 339 96 80
 
 
 
@@ -6488,6 +6502,13 @@ Nummer: 14145
 
 
 
+**Borås Minigolfklubb**
+
+    123 568 48 40
+
+
+
+
 **Borås Museum med textilmuseet / Borås Kommun**
 
     123 143 72 19
@@ -8824,6 +8845,13 @@ Nummer: 14145
     123 320 07 22 - Böcker/kort
 
     123 545 84 76 - Minnesgåvor
+
+
+
+
+**Bureå Simsällskap**
+
+    123 137 58 56
 
 
 
@@ -23296,6 +23324,13 @@ Nummer: 14145
 
 
 
+**Gymnastikföreningen Spänst Hestra**
+
+    123 553 86 73
+
+
+
+
 **Gymnastikföreningen Svea af 1872**
 
     123 111 59 22
@@ -23348,6 +23383,13 @@ Nummer: 14145
 **Gällared Bygdegård**
 
     123 372 86 98
+
+
+
+
+**Gällivare Endurance Club**
+
+    123 321 98 54
 
 
 
@@ -33518,7 +33560,7 @@ Nummer: 14145
 
 
 
-**Kalmar TK - Tennis**
+**Kalmar Tennisklubb**
 
     123 388 50 43
 
@@ -38474,6 +38516,13 @@ Nummer: 14145
 
 
 
+**Kävlinge Bågskytteklubb**
+
+    123 037 85 13
+
+
+
+
 **Kävlinge HK**
 
     123 629 96 89
@@ -40111,6 +40160,13 @@ Nummer: 14145
 **Lindeborgs Eco Retreat / Lindeborg Development AB**
 
     123 534 51 78
+
+
+
+
+**Lindebygdens Orienteringsklubb**
+
+    123 134 56 77
 
 
 
@@ -44023,6 +44079,13 @@ Nummer: 14145
 
 
 
+**MCHK-Racing**
+
+    123 231 82 36
+
+
+
+
 **MCK Hallandia - Motorcykel och Snöskoter**
 
     123 237 14 66
@@ -45411,6 +45474,13 @@ Nummer: 14145
 
 
 
+**Mullsjö Alpina Skidklubb**
+
+    123 202 81 65
+
+
+
+
 **Mullsjö Bygdegårsförening**
 
     123 576 33 05
@@ -46532,6 +46602,13 @@ Nummer: 14145
 **Nationell Samverkan för Psykisk Hälsa, NSPH**
 
     123 430 54 88
+
+
+
+
+**Nationella Inomhus Roddföreningen**
+
+    123 109 10 08
 
 
 
@@ -61605,6 +61682,13 @@ Nummer: 14145
 
 
 
+**Sollefteå Motorklubb**
+
+    123 225 18 33
+
+
+
+
 **Sollefteå Skidor Idrottsförening**
 
     123 326 58 16
@@ -70875,6 +70959,13 @@ Nummer: 14145
 
 
 
+**Södra Dalarnas Draghundsklubb**
+
+    123 527 36 44
+
+
+
+
 **Södra Dals PSF**
 
     123 128 78 79
@@ -79896,6 +79987,13 @@ Nummer: 14145
 
 
 
+**Värmlands Idrottshistoriska Sällskap**
+
+    123 429 20 41
+
+
+
+
 **Värmlands Konstförening**
 
     123 440 45 21
@@ -79959,6 +80057,13 @@ Nummer: 14145
 **Värnamo Boxningsklubb**
 
     123 629 15 20
+
+
+
+
+**Värnamo Cykelklubb**
+
+    123 664 01 97
 
 
 
@@ -81127,6 +81232,13 @@ Nummer: 14145
 **Växjö Adventistförsamling**
 
     123 395 81 54
+
+
+
+
+**Växjö Allmänna Idrottssällskap, VAIS**
+
+    123 598 11 47 - Bågskyttesektionen
 
 
 
