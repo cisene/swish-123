@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-18-rev-174110
+Revision: 2025-01-19-rev-193019
 
-Nummer: 14161
+Nummer: 14165
 
 
 
@@ -5812,6 +5812,8 @@ Nummer: 14161
 
 
 **Boden Hockey AB**
+
+    123 034 61 22
 
     123 357 58 42
 
@@ -14388,6 +14390,13 @@ Nummer: 14161
 **Eolshälls 4H-gård**
 
     123 594 95 16
+
+
+
+
+**Eos Cares / IK Eos**
+
+    123 239 91 45
 
 
 
@@ -25200,6 +25209,13 @@ Nummer: 14161
     123 291 36 06 - Rosa Oktober
 
     123 394 29 35
+
+
+
+
+**HDB Musik Produktion / Henrik Berggren**
+
+    123 017 64 53
 
 
 
@@ -45000,6 +45016,13 @@ Nummer: 14161
 **Mora Brukshundsklubb**
 
     123 369 98 16
+
+
+
+
+**Mora Discgolf Park**
+
+    123 254 26 52
 
 
 

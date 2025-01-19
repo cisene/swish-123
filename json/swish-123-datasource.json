@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-01-18-rev-174025",
+    "date": "2025-01-19-rev-192927",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3237,6 +3237,17 @@
         "ishockeyklubb"
       ],
       "web": "https://www.svenskalag.se/munkedalsbk"
+    },
+    {
+      "entry": 1230176453,
+      "orgName": "HDB Musik Produktion / Henrik Berggren",
+      "orgNumber": "741111-XXXX",
+      "comment": null,
+      "categories": [
+        "artist",
+        "musiker"
+      ],
+      "web": "https://henrikberggren.bandcamp.com/music"
     },
     {
       "entry": 1230178079,
@@ -7631,6 +7642,17 @@
         "wakepark"
       ],
       "web": "https://bcpwake.se/"
+    },
+    {
+      "entry": 1230346122,
+      "orgName": "Boden Hockey AB",
+      "orgNumber": "559256-1103",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.bodenhockey.se/"
     },
     {
       "entry": 1230346262,
@@ -18848,7 +18870,7 @@
         "h\u00e4lsoklubb",
         "styrketr\u00e4ning"
       ],
-      "web": "http://norrgym.se/"
+      "web": "https://norrgym.se/"
     },
     {
       "entry": 1230854976,
@@ -20461,7 +20483,7 @@
         "heminredning",
         "m\u00f6bler"
       ],
-      "web": "http://calexicodesign.se/"
+      "web": "https://calexicodesign.se/"
     },
     {
       "entry": 1230915983,
@@ -23689,7 +23711,7 @@
       "categories": [
         "religion"
       ],
-      "web": "http://pannkakskyrkan.se/"
+      "web": "https://pannkakskyrkan.se/"
     },
     {
       "entry": 1231053727,
@@ -24046,7 +24068,7 @@
       "categories": [
         "naturv\u00e5rd"
       ],
-      "web": "http://www.nordicarea.se/"
+      "web": "https://www.nordicarea.se/"
     },
     {
       "entry": 1231070192,
@@ -30260,7 +30282,7 @@
       "categories": [
         "hamnf\u00f6rening"
       ],
-      "web": "http://bfef.se/"
+      "web": "https://bfef.se/"
     },
     {
       "entry": 1231359835,
@@ -32320,7 +32342,7 @@
       "categories": [
         "religion"
       ],
-      "web": null
+      "web": "https://www.stpetrusopaulus.se/"
     },
     {
       "entry": 1231473925,
@@ -33928,7 +33950,7 @@
       "categories": [
         "intressef\u00f6rening"
       ],
-      "web": null
+      "web": "https://www.hembygd.se/hofors"
     },
     {
       "entry": 1231524065,
@@ -42611,7 +42633,7 @@
         "hemsl\u00f6jd",
         "intressef\u00f6rening"
       ],
-      "web": null
+      "web": "http://sorunda.b.se/hemslojdvanner.htm"
     },
     {
       "entry": 1231938984,
@@ -42663,7 +42685,7 @@
         "idrottsf\u00f6rening",
         "innebandyklubb"
       ],
-      "web": null
+      "web": "https://www.svenskalag.se/sibk"
     },
     {
       "entry": 1231947902,
@@ -44164,7 +44186,7 @@
       "categories": [
         "religion"
       ],
-      "web": null
+      "web": "https://www.svenskakyrkan.se/tingsryd/linneryd"
     },
     {
       "entry": 1232001790,
@@ -44283,7 +44305,7 @@
       "categories": [
         "minnesfond"
       ],
-      "web": null
+      "web": "https://www.laget.se/MallbackensIF/Page/378640"
     },
     {
       "entry": 1232014462,
@@ -49569,7 +49591,7 @@
         "kampsportsf\u00f6rening",
         "taekwondoklubb"
       ],
-      "web": null
+      "web": "https://chaemalmo.com/"
     },
     {
       "entry": 1232245041,
@@ -51584,7 +51606,7 @@
       "categories": [
         "skoterklubb"
       ],
-      "web": null
+      "web": "https://www.facebook.com/p/Havsn%C3%A4sbygdens-Skoterklubb-100064879740191/"
     },
     {
       "entry": 1232315455,
@@ -53321,6 +53343,17 @@
       "web": "https://helsingborg-international.rotary2390.se/"
     },
     {
+      "entry": 1232399145,
+      "orgName": "Eos Cares / IK Eos",
+      "orgNumber": "845000-6302",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.eoslund.se/"
+    },
+    {
       "entry": 1232399467,
       "orgName": "Vaggeryds BTK",
       "orgNumber": "802458-3562",
@@ -53993,7 +54026,7 @@
       "categories": [
         "hj\u00e4lporganisation"
       ],
-      "web": null
+      "web": "https://www.facebook.com/groups/534012990118633/"
     },
     {
       "entry": 1232429983,
@@ -54868,7 +54901,7 @@
       "categories": [
         "naturskydd"
       ],
-      "web": null
+      "web": "https://www.facebook.com/groups/1648254172117120/"
     },
     {
       "entry": 1232494326,
@@ -55544,6 +55577,17 @@
         "hundhem"
       ],
       "web": "http://lyrestadshundcenter.se/"
+    },
+    {
+      "entry": 1232542652,
+      "orgName": "Mora Discgolf Park",
+      "orgNumber": "802500-0061",
+      "comment": null,
+      "categories": [
+        "discgolfbana",
+        "discgolfklubb"
+      ],
+      "web": "https://www.facebook.com/profile.php?id=100039129854787"
     },
     {
       "entry": 1232544831,
@@ -57741,7 +57785,7 @@
         "jujutsuklubb",
         "kampsportsf\u00f6rening"
       ],
-      "web": null
+      "web": "https://www.gakeryu.se/"
     },
     {
       "entry": 1232649879,
@@ -60187,7 +60231,7 @@
       "categories": [
         "lionsklubb"
       ],
-      "web": "http://www.lionsborensberg.se/"
+      "web": "https://www.lionsborensberg.se/"
     },
     {
       "entry": 1232752517,
@@ -97358,7 +97402,7 @@
         "g\u00e5rdsf\u00f6rs\u00e4ljning",
         "lokalproducerat"
       ],
-      "web": "http://gideget.se/"
+      "web": "https://gideget.se/"
     },
     {
       "entry": 1234557997,
@@ -102417,7 +102461,7 @@
     {
       "entry": 1234809463,
       "orgName": "Torsby Pastorat",
-      "orgNumber": "52001-5278",
+      "orgNumber": "252003-6274",
       "comment": "Kollekt Lycke kyrka",
       "categories": [
         "religion"
@@ -108769,7 +108813,7 @@
         "folkets hus",
         "intressef\u00f6rening"
       ],
-      "web": "http://www.kongafolketshus.se/"
+      "web": "https://www.kongafolketshus.se/"
     },
     {
       "entry": 1235128087,
@@ -117910,7 +117954,7 @@
         "npf-diagnoser",
         "psykisk h\u00e4lsa"
       ],
-      "web": "http://www.kungoverlivet.se/"
+      "web": "https://kungoverlivet.se/"
     },
     {
       "entry": 1235534045,
@@ -125479,7 +125523,7 @@
         "teatergrupp",
         "teaters\u00e4llskap"
       ],
-      "web": "http://rudarevyn.se/"
+      "web": "https://www.rudarevyn.se/"
     },
     {
       "entry": 1235890975,
@@ -141541,7 +141585,7 @@
       "categories": [
         "konstf\u00f6rening"
       ],
-      "web": "http://www.tibrokonst.se/"
+      "web": "https://www.tibrokonst.se/"
     },
     {
       "entry": 1236662902,
@@ -144698,7 +144742,7 @@
       "categories": [
         "hamnf\u00f6rening"
       ],
-      "web": "http://bfef.se/"
+      "web": "https://bfef.se/"
     },
     {
       "entry": 1236790091,

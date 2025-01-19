@@ -2139,11 +2139,12 @@ entries:
   web: https://www.hjart-lung.se/riksforbundet/stockholm/lokalforeningar/stockholm/
 
 - entry: 1230126540
-  orgName: null
+  orgName: PRO Kolbäck
   orgNumber: null
   comment: null
-  categories: null
-  web: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/vastmanland/kommun/hallstahammar/pro-kolback
 
 - entry: 1230127076
   orgName: Partiet Vändpunkt
@@ -2673,11 +2674,13 @@ entries:
   web: https://www.svenskalag.se/munkedalsbk
 
 - entry: 1230176453
-  orgName: null
-  orgNumber: null
+  orgName: HDB Musik Produktion / Henrik Berggren
+  orgNumber: 741111-XXXX
   comment: null
-  categories: null
-  web: null
+  categories:
+  - artist
+  - musiker
+  web: https://henrikberggren.bandcamp.com/music
 
 - entry: 1230178079
   orgName: Svenska Organisation Mondiale pour l’Éducation Préscolaire, OMEP
@@ -6293,11 +6296,13 @@ entries:
   web: https://bcpwake.se/
 
 - entry: 1230346122
-  orgName: null
-  orgNumber: null
+  orgName: Boden Hockey AB
+  orgNumber: 559256-1103
   comment: null
-  categories: null
-  web: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.bodenhockey.se/
 
 - entry: 1230346262
   orgName: Västra Karups IF
@@ -15549,7 +15554,7 @@ entries:
   - gym
   - hälsoklubb
   - styrketräning
-  web: http://norrgym.se/
+  web: https://norrgym.se/
 
 - entry: 1230854976
   orgName: Mönsterås SK - Segling
@@ -16892,7 +16897,7 @@ entries:
   - försäljning
   - heminredning
   - möbler
-  web: http://calexicodesign.se/
+  web: https://calexicodesign.se/
 
 - entry: 1230915983
   orgName: Örebro Karateförening
@@ -19547,7 +19552,7 @@ entries:
   comment: null
   categories:
   - religion
-  web: http://pannkakskyrkan.se/
+  web: https://pannkakskyrkan.se/
 
 - entry: 1231053727
   orgName: Nossan Ljusfestival / Grästorps framtidsförening
@@ -19843,7 +19848,7 @@ entries:
   comment: null
   categories:
   - naturvård
-  web: http://www.nordicarea.se/
+  web: https://www.nordicarea.se/
 
 - entry: 1231069970
   orgName: Rotary Malmö Västra Hamnen
@@ -24987,7 +24992,7 @@ entries:
   comment: null
   categories:
   - hamnförening
-  web: http://bfef.se/
+  web: https://bfef.se/
 
 - entry: 1231359835
   orgName: Rosenlöfs Vänner
@@ -26690,7 +26695,7 @@ entries:
   comment: null
   categories:
   - religion
-  web: null
+  web: https://www.stpetrusopaulus.se/
 
 - entry: 1231473925
   orgName: Victory Center Helsingborg
@@ -28016,7 +28021,7 @@ entries:
   comment: null
   categories:
   - intresseförening
-  web: null
+  web: https://www.hembygd.se/hofors
 
 - entry: 1231524065
   orgName: Stillingsön & Kårekile Sportklubb, SKSK
@@ -35184,7 +35189,7 @@ entries:
   - hantverk
   - hemslöjd
   - intresseförening
-  web: null
+  web: http://sorunda.b.se/hemslojdvanner.htm
 
 - entry: 1231938984
   orgName: Kungsbacka kvinnojour
@@ -35226,7 +35231,7 @@ entries:
   categories:
   - idrottsförening
   - innebandyklubb
-  web: null
+  web: https://www.svenskalag.se/sibk
 
 - entry: 1231947902
   orgName: Bodens Cykelklubb
@@ -36451,7 +36456,7 @@ entries:
   comment: Bokbord
   categories:
   - religion
-  web: null
+  web: https://www.svenskakyrkan.se/tingsryd/linneryd
 
 - entry: 1232001790
   orgName: Södra Sandsjös Församling
@@ -36555,7 +36560,7 @@ entries:
   comment: null
   categories:
   - minnesfond
-  web: null
+  web: https://www.laget.se/MallbackensIF/Page/378640
 
 - entry: 1232014462
   orgName: Kulturföreningen Vasaplan
@@ -40918,7 +40923,7 @@ entries:
   - idrottsförening
   - kampsportsförening
   - taekwondoklubb
-  web: null
+  web: https://chaemalmo.com/
 
 - entry: 1232245041
   orgName: Insamlingsstiftelsen till minne av Anna-Karin Nyberg Mazeka
@@ -42591,7 +42596,7 @@ entries:
   comment: null
   categories:
   - skoterklubb
-  web: null
+  web: https://www.facebook.com/p/Havsn%C3%A4sbygdens-Skoterklubb-100064879740191/
 
 - entry: 1232315455
   orgName: Lifeforum Sweden AB
@@ -44021,10 +44026,12 @@ entries:
 
 - entry: 1232399145
   orgName: Eos Cares / IK Eos
-  orgNumber: null
+  orgNumber: 845000-6302
   comment: null
-  categories: null
-  web: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.eoslund.se/
 
 - entry: 1232399467
   orgName: Vaggeryds BTK
@@ -44591,7 +44598,7 @@ entries:
   comment: null
   categories:
   - hjälporganisation
-  web: null
+  web: https://www.facebook.com/groups/534012990118633/
 
 - entry: 1232429983
   orgName: Aktiva Seniorer Nora
@@ -45313,7 +45320,7 @@ entries:
   comment: null
   categories:
   - naturskydd
-  web: null
+  web: https://www.facebook.com/groups/1648254172117120/
 
 - entry: 1232494326
   orgName: Kiruna Ishockeyförening
@@ -45868,12 +45875,12 @@ entries:
 
 - entry: 1232542652
   orgName: Mora Discgolf Park
-  orgNumber: null
+  orgNumber: 802500-0061
   comment: null
   categories:
   - discgolfbana
   - discgolfklubb
-  web: null
+  web: https://www.facebook.com/profile.php?id=100039129854787
 
 - entry: 1232544831
   orgName: Den Goda Jorden
@@ -47680,7 +47687,7 @@ entries:
   - idrottsförening
   - jujutsuklubb
   - kampsportsförening
-  web: null
+  web: https://www.gakeryu.se/
 
 - entry: 1232649879
   orgName: Roslagsbro IF
@@ -49687,7 +49694,7 @@ entries:
   comment: null
   categories:
   - lionsklubb
-  web: http://www.lionsborensberg.se/
+  web: https://www.lionsborensberg.se/
 
 - entry: 1232752517
   orgName: Ebba Pettersson
@@ -80391,7 +80398,7 @@ entries:
   - djuruppfödning
   - gårdsförsäljning
   - lokalproducerat
-  web: http://gideget.se/
+  web: https://gideget.se/
 
 - entry: 1234557997
   orgName: Föreningen Jagaren Smålands Vänner, J19
@@ -84548,7 +84555,7 @@ entries:
 
 - entry: 1234809463
   orgName: Torsby Pastorat
-  orgNumber: 52001-5278
+  orgNumber: 252003-6274
   comment: Kollekt Lycke kyrka
   categories:
   - religion
@@ -89813,7 +89820,7 @@ entries:
   categories:
   - folkets hus
   - intresseförening
-  web: http://www.kongafolketshus.se/
+  web: https://www.kongafolketshus.se/
 
 - entry: 1235128087
   orgName: AP Häst AB
@@ -97334,7 +97341,7 @@ entries:
   categories:
   - npf-diagnoser
   - psykisk hälsa
-  web: http://www.kungoverlivet.se/
+  web: https://kungoverlivet.se/
 
 - entry: 1235534045
   orgName: Söderhamn-Ljusne HC
@@ -103608,7 +103615,7 @@ entries:
   - revysällskap
   - teatergrupp
   - teatersällskap
-  web: http://rudarevyn.se/
+  web: https://www.rudarevyn.se/
 
 - entry: 1235890975
   orgName: Svensk-Kubanska Föreningen
@@ -116936,7 +116943,7 @@ entries:
   comment: null
   categories:
   - konstförening
-  web: http://www.tibrokonst.se/
+  web: https://www.tibrokonst.se/
 
 - entry: 1236662902
   orgName: Kvinno- och tjejjouren Jönköping
@@ -119536,7 +119543,7 @@ entries:
   comment: null
   categories:
   - hamnförening
-  web: http://bfef.se/
+  web: https://bfef.se/
 
 - entry: 1236790091
   orgName: Mariestads BK
