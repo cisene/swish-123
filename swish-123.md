@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-19-rev-193019
+Revision: 2025-01-19-rev-200349
 
-Nummer: 14165
+Nummer: 14175
 
 
 
@@ -18607,6 +18607,8 @@ Nummer: 14165
 
     123 092 33 34 - Skillingaryd
 
+    123 105 16 48 - Hisingskåren, Fika
+
     123 109 50 17 - Kalmar
 
     123 113 44 44 - Skövde
@@ -18629,13 +18631,17 @@ Nummer: 14165
 
     123 276 08 33 - Södertälje Musikkår
 
+    123 281 72 45 - Hisingskåren, Ungdomsverksamheten
+
     123 287 04 59 - Helsingborg
 
     123 290 31 36 - Sala
 
+    123 311 59 46 - Hisingskåren, Julinsamling
+
     123 319 92 54 - Västerås
 
-    123 329 34 79 - Hisingskåren
+    123 329 34 79 - Hisingskåren, Gemenskapscentret
 
     123 332 66 34 - Eksjö
 
@@ -18692,6 +18698,10 @@ Nummer: 14165
     123 601 02 27 - Alingsås
 
     123 601 16 54 - Trollhättan Ungdomskåren
+
+    123 614 16 34 - Hisingskåren, Kollekt
+
+    123 634 79 91 - Hisingskåren, Öppna förskolan
 
     123 644 93 18 - Umeå
 
@@ -51532,6 +51542,13 @@ Nummer: 14165
 
 
 
+**Piteå Idrottsförening**
+
+    123 634 65 14 - P09
+
+
+
+
 **Piteå IF Damfotboll**
 
     123 287 37 27 - Damlaget
@@ -58900,6 +58917,15 @@ Nummer: 14165
 
 
 
+**Sigges Paradis**
+
+    123 044 05 86 - Josefin
+
+    123 331 81 10 - Sara
+
+
+
+
 **Sigtuna Basket**
 
     123 484 94 36
@@ -62815,6 +62841,8 @@ Nummer: 14165
 
 **SPF Seniorerna Katarina Sofia**
 
+    123 688 22 85
+
     123 688 22 86
 
 
@@ -62879,6 +62907,13 @@ Nummer: 14165
 **SPF Seniorerna Kärnan Helsingborg**
 
     123 349 70 70
+
+
+
+
+**SPF Seniorerna Köpingshus**
+
+    123 240 24 51
 
 
 

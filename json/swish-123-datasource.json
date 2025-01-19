@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-01-19-rev-192927",
+    "date": "2025-01-19-rev-200311",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -9963,6 +9963,17 @@
         "skridskoklubb"
       ],
       "web": "https://www.svenskalag.se/nassjoif"
+    },
+    {
+      "entry": 1230440586,
+      "orgName": "Sigges Paradis",
+      "orgNumber": "802536-0457",
+      "comment": "Josefin",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://www.facebook.com/groups/2135239593221333"
     },
     {
       "entry": 1230440917,
@@ -23488,6 +23499,17 @@
         "motionsklubb"
       ],
       "web": "https://www.svenskalag.se/varmlandsbrosk"
+    },
+    {
+      "entry": 1231051648,
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "orgNumber": "802006-1688",
+      "comment": "Hisingsk\u00e5ren, Fika",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "http://www.fralsningsarmen.se/hisingskaren"
     },
     {
       "entry": 1231051697,
@@ -53376,6 +53398,16 @@
       "web": "https://www.innerwheel.se/"
     },
     {
+      "entry": 1232402451,
+      "orgName": "SPF Seniorerna K\u00f6pingshus",
+      "orgNumber": "802420-6123",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/vastmanland/foreningslista/kopingshus-koping/"
+    },
+    {
       "entry": 1232402865,
       "orgName": "Aktiva Seniorer V\u00e4xj\u00f6",
       "orgNumber": "829502-8297",
@@ -62213,6 +62245,17 @@
       "web": "https://bygdegardarna.se/bolmso/"
     },
     {
+      "entry": 1232817245,
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "orgNumber": "802006-1688",
+      "comment": "Hisingsk\u00e5ren, Ungdomsverksamheten",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "http://www.fralsningsarmen.se/hisingskaren"
+    },
+    {
       "entry": 1232817575,
       "orgName": "Tanums Brukshundsklubb",
       "orgNumber": "855900-4042",
@@ -68102,6 +68145,17 @@
       "web": "https://www.sjobogk.com/"
     },
     {
+      "entry": 1233115946,
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "orgNumber": "802006-1688",
+      "comment": "Hisingsk\u00e5ren, Julinsamling",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "http://www.fralsningsarmen.se/hisingskaren"
+    },
+    {
       "entry": 1233117041,
       "orgName": "AB Kiropraktorerna Vejlo",
       "orgNumber": "556857-3694",
@@ -71732,7 +71786,7 @@
       "entry": 1233293479,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
-      "comment": "Hisingsk\u00e5ren",
+      "comment": "Hisingsk\u00e5ren, Gemenskapscentret",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "religion"
@@ -72011,6 +72065,17 @@
         "utbildning"
       ],
       "web": "https://admittansen.se/"
+    },
+    {
+      "entry": 1233318110,
+      "orgName": "Sigges Paradis",
+      "orgNumber": "802536-0457",
+      "comment": "Sara",
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://www.facebook.com/groups/2135239593221333"
     },
     {
       "entry": 1233318219,
@@ -130582,6 +130647,17 @@
       "web": "https://uddevallagk.se/"
     },
     {
+      "entry": 1236141634,
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "orgNumber": "802006-1688",
+      "comment": "Hisingsk\u00e5ren, Kollekt",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "http://www.fralsningsarmen.se/hisingskaren"
+    },
+    {
       "entry": 1236141808,
       "orgName": "Haparanda Fridsf\u00f6rbund",
       "orgNumber": "897600-0177",
@@ -135180,6 +135256,17 @@
       "web": "https://www.vindelnsridklubb.se/"
     },
     {
+      "entry": 1236346514,
+      "orgName": "Pite\u00e5 Idrottsf\u00f6rening",
+      "orgNumber": "802505-8408",
+      "comment": "P09",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://piteaif.sportadmin.se/"
+    },
+    {
       "entry": 1236346522,
       "orgName": "Hj\u00e4rnarps Innebandyklubb",
       "orgNumber": "839401-1525",
@@ -135306,6 +135393,17 @@
         "religion"
       ],
       "web": "https://www.brannkyrka.org/"
+    },
+    {
+      "entry": 1236347991,
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "orgNumber": "802006-1688",
+      "comment": "Hisingsk\u00e5ren, \u00d6ppna f\u00f6rskolan",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "http://www.fralsningsarmen.se/hisingskaren"
     },
     {
       "entry": 1236348031,
@@ -146499,6 +146597,16 @@
         "sportanalys"
       ],
       "web": "https://www.linkedin.com/in/daniel-domeij-9102633a/"
+    },
+    {
+      "entry": 1236882285,
+      "orgName": "SPF Seniorerna Katarina Sofia",
+      "orgNumber": "802015-9490",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-katarina/"
     },
     {
       "entry": 1236882286,

@@ -8210,6 +8210,15 @@ entries:
   - skridskoklubb
   web: https://www.svenskalag.se/nassjoif
 
+- entry: 1230440586
+  orgName: Sigges Paradis
+  orgNumber: 802536-0457
+  comment: Josefin
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.facebook.com/groups/2135239593221333
+
 - entry: 1230440917
   orgName: Zerillas Hundcenter AB
   orgNumber: 556404-6018
@@ -19371,6 +19380,15 @@ entries:
   - idrottsförening
   - motionsklubb
   web: https://www.svenskalag.se/varmlandsbrosk
+
+- entry: 1231051648
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Hisingskåren, Fika
+  categories:
+  - godkänd gåvomottagare
+  - religion
+  web: http://www.fralsningsarmen.se/hisingskaren
 
 - entry: 1231051697
   orgName: Mariestads Församling
@@ -44051,6 +44069,14 @@ entries:
   - intresseorganisation
   web: https://www.innerwheel.se/
 
+- entry: 1232402451
+  orgName: SPF Seniorerna Köpingshus
+  orgNumber: 802420-6123
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/vastmanland/foreningslista/kopingshus-koping/
+
 - entry: 1232402865
   orgName: Aktiva Seniorer Växjö
   orgNumber: 829502-8297
@@ -51328,6 +51354,15 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/bolmso/
 
+- entry: 1232817245
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Hisingskåren, Ungdomsverksamheten
+  categories:
+  - godkänd gåvomottagare
+  - religion
+  web: http://www.fralsningsarmen.se/hisingskaren
+
 - entry: 1232817575
   orgName: Tanums Brukshundsklubb
   orgNumber: 855900-4042
@@ -56223,6 +56258,15 @@ entries:
   - golfklubb
   web: https://www.sjobogk.com/
 
+- entry: 1233115946
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Hisingskåren, Julinsamling
+  categories:
+  - godkänd gåvomottagare
+  - religion
+  web: http://www.fralsningsarmen.se/hisingskaren
+
 - entry: 1233117041
   orgName: AB Kiropraktorerna Vejlo
   orgNumber: 556857-3694
@@ -59234,7 +59278,7 @@ entries:
 - entry: 1233293479
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
-  comment: Hisingskåren
+  comment: Hisingskåren, Gemenskapscentret
   categories:
   - godkänd gåvomottagare
   - religion
@@ -59469,6 +59513,15 @@ entries:
   - förening
   - utbildning
   web: https://admittansen.se/
+
+- entry: 1233318110
+  orgName: Sigges Paradis
+  orgNumber: 802536-0457
+  comment: Sara
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.facebook.com/groups/2135239593221333
 
 - entry: 1233318219
   orgName: Med Israel för fred, MIFF Sverige
@@ -107814,6 +107867,15 @@ entries:
   - golfklubb
   web: https://uddevallagk.se/
 
+- entry: 1236141634
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Hisingskåren, Kollekt
+  categories:
+  - godkänd gåvomottagare
+  - religion
+  web: http://www.fralsningsarmen.se/hisingskaren
+
 - entry: 1236141808
   orgName: Haparanda Fridsförbund
   orgNumber: 897600-0177
@@ -111619,6 +111681,15 @@ entries:
   - ryttarklubb
   web: https://www.vindelnsridklubb.se/
 
+- entry: 1236346514
+  orgName: Piteå Idrottsförening
+  orgNumber: 802505-8408
+  comment: P09
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://piteaif.sportadmin.se/
+
 - entry: 1236346522
   orgName: Hjärnarps Innebandyklubb
   orgNumber: 839401-1525
@@ -111722,6 +111793,15 @@ entries:
   categories:
   - religion
   web: https://www.brannkyrka.org/
+
+- entry: 1236347991
+  orgName: Frälsningsarmén
+  orgNumber: 802006-1688
+  comment: Hisingskåren, Öppna förskolan
+  categories:
+  - godkänd gåvomottagare
+  - religion
+  web: http://www.fralsningsarmen.se/hisingskaren
 
 - entry: 1236348031
   orgName: Hultsfredsbygdens Ridklubb
@@ -120984,11 +121064,12 @@ entries:
   web: https://www.linkedin.com/in/daniel-domeij-9102633a/
 
 - entry: 1236882285
-  orgName: null
-  orgNumber: null
+  orgName: SPF Seniorerna Katarina Sofia
+  orgNumber: 802015-9490
   comment: null
-  categories: null
-  web: https
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-katarina/
 
 - entry: 1236882286
   orgName: SPF Seniorerna Katarina Sofia
