@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-19-rev-200349
+Revision: 2025-01-23-rev-140713
 
-Nummer: 14175
+Nummer: 14207
 
 
 
@@ -2325,6 +2325,13 @@ Nummer: 14175
 
 
 
+**Apladalens Konståkningsklubb**
+
+    123 494 60 67
+
+
+
+
 **Apladalens Löparklubb**
 
     123 105 22 32
@@ -2465,6 +2472,13 @@ Nummer: 14175
 **Arboga Musikförening**
 
     123 456 67 58
+
+
+
+
+**Arboga Orienteringsklubb**
+
+    123 370 54 72
 
 
 
@@ -3398,6 +3412,13 @@ Nummer: 14175
 **Avesta Shotokan Karateklubb**
 
     123 421 92 75
+
+
+
+
+**Avesta Tennisklubb**
+
+    123 198 48 89
 
 
 
@@ -15916,6 +15937,13 @@ Nummer: 14175
 
 
 
+**Falkenbergs Roddklubb**
+
+    123 396 78 74
+
+
+
+
 **Falkenbergs Schackklubb**
 
     123 566 20 51
@@ -17577,6 +17605,13 @@ Nummer: 14175
 
 
 
+**Folkärna Ridsällskap**
+
+    123 130 09 46
+
+
+
+
 **Fonden för Psykisk Hälsa**
 
     123 900 75 01
@@ -17722,6 +17757,13 @@ Nummer: 14175
     123 269 80 90
 
     123 462 36 90
+
+
+
+
+**Forshaga Motor Club**
+
+    123 021 19 46
 
 
 
@@ -19057,6 +19099,20 @@ Nummer: 14175
 
 
 
+**Fägre Motorklubb**
+
+    123 541 22 67
+
+
+
+
+**Fäktklubben Chapman**
+
+    123 693 68 50
+
+
+
+
 **Fältbiologerna**
 
     123 199 73 11
@@ -19134,6 +19190,13 @@ Nummer: 14175
 
 
 
+**Färjestad BK Tifogruppen**
+
+    123 614 63 28
+
+
+
+
 **Färjestad Ridklubb**
 
     123 147 52 19
@@ -19144,6 +19207,13 @@ Nummer: 14175
 **Färjestadens IBS**
 
     123 013 89 41
+
+
+
+
+**Färjestadens Motions IF**
+
+    123 499 10 06
 
 
 
@@ -19482,6 +19552,13 @@ Nummer: 14175
 **Föreningen Bota FA!**
 
     123 237 53 19
+
+
+
+
+**Föreningen Boulestallet**
+
+    123 093 61 95
 
 
 
@@ -21496,6 +21573,13 @@ Nummer: 14175
 
 
 
+**Gespars Vänner**
+
+    123 340 85 07
+
+
+
+
 **Gessie Villastads Samfällighetsförening**
 
     123 239 60 18
@@ -21520,6 +21604,13 @@ Nummer: 14175
 **Getinge Bowling BK**
 
     123 570 05 47
+
+
+
+
+**Getinge MK**
+
+    123 032 28 34
 
 
 
@@ -22175,6 +22266,13 @@ Nummer: 14175
 **GojuKai KarateDo Stockholm**
 
     123 490 53 29
+
+
+
+
+**Golden Hill TIFO**
+
+    123 573 77 70
 
 
 
@@ -25396,6 +25494,13 @@ Nummer: 14175
 **Hedemora Träningsverk**
 
     123 225 55 60
+
+
+
+
+**Hedemorabygdens Ridklubb**
+
+    123 483 20 44
 
 
 
@@ -34423,6 +34528,13 @@ Nummer: 14175
 
 
 
+**Katrineholms MK**
+
+    123 280 16 37
+
+
+
+
 **Katrineholms Padelklubb**
 
     123 178 33 31
@@ -38391,6 +38503,13 @@ Nummer: 14175
 
 
 
+**Kyrkhults Bordtennisklubb**
+
+    123 211 02 03
+
+
+
+
 **Kyrkhults Scoutkår**
 
     123 263 82 78
@@ -41902,6 +42021,20 @@ Nummer: 14175
 
 
 
+**Ludvika Bowlingallians**
+
+    123 080 43 44
+
+
+
+
+**Ludvika FFI**
+
+    123 419 60 36
+
+
+
+
 **Ludvika Församling**
 
     123 319 87 77 - Kollekt Ulrika kyrka
@@ -45228,6 +45361,13 @@ Nummer: 14175
 **Mosätts Skoterklubb**
 
     123 621 57 92
+
+
+
+
+**Motala AIF FK Supporterklubb**
+
+    123 300 17 08
 
 
 
@@ -48747,6 +48887,8 @@ Nummer: 14175
 **Nyköpings Sportklubb**
 
     123 025 98 46
+
+    123 212 68 03
 
 
 
@@ -60016,6 +60158,13 @@ Nummer: 14175
 
 
 
+**Skene Motorsällskap**
+
+    123 113 41 13
+
+
+
+
 **Skene-Örby Hembygdsförening**
 
     123 225 31 02
@@ -60938,6 +61087,13 @@ Nummer: 14175
 
 
 
+**Skövde MK**
+
+    123 268 10 54
+
+
+
+
 **Skövde Simsällskap**
 
     123 162 88 58
@@ -61006,6 +61162,13 @@ Nummer: 14175
 **Sliperiet Gylsboda**
 
     123 576 38 67
+
+
+
+
+**Slite Golfklubb**
+
+    123 634 50 29
 
 
 
@@ -61297,6 +61460,13 @@ Nummer: 14175
 **SMK Uppsala**
 
     123 501 08 14
+
+
+
+
+**SMK Vingåker**
+
+    123 527 72 49
 
 
 
@@ -68845,6 +69015,8 @@ Nummer: 14175
 
     123 093 43 15 - Emmaboda
 
+    123 144 12 78 - Emmabodakretsen
+
 
 
 
@@ -70852,6 +71024,13 @@ Nummer: 14175
     123 540 75 31 - Pilgrimsverksamhet
 
     123 693 06 06 - Kollekt Ljungby
+
+
+
+
+**Söders-Tyresö Orienteringsklubb**
+
+    123 137 92 05
 
 
 
@@ -73468,6 +73647,13 @@ Nummer: 14175
 **Tian Dao Kamsports Förening**
 
     123 534 20 84
+
+
+
+
+**TIBAR International AB**
+
+    123 315 19 33 - Rawahel charity Association
 
 
 
@@ -78174,6 +78360,13 @@ Nummer: 14175
 
 
 
+**Vegan Runners IK**
+
+    123 572 77 89
+
+
+
+
 **Vegby SK**
 
     123 682 62 67
@@ -78761,6 +78954,13 @@ Nummer: 14175
 
 
 
+**Vilhelmina Ridklubb**
+
+    123 561 44 74
+
+
+
+
 **Villa Lidköping BK**
 
     123 349 92 66
@@ -78834,6 +79034,13 @@ Nummer: 14175
 **Vimmerby Konstförening**
 
     123 422 77 81
+
+
+
+
+**Vimmerby MS**
+
+    123 275 20 79
 
 
 
@@ -79336,6 +79543,13 @@ Nummer: 14175
 **VIYoga AB**
 
     123 526 35 12
+
+
+
+
+**VK Uvarna**
+
+    123 639 85 56
 
 
 
