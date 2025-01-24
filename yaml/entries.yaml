@@ -8754,6 +8754,16 @@ entries:
   - hundsport
   web: https://osdhund.se/
 
+- entry: 1230474593
+  orgName: Brynäs Kyokushin Karate
+  orgNumber: 802474-1376
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - karateklubb
+  web: https://www.svenskalag.se/brynaskarate
+
 - entry: 1230474965
   orgName: Eksjö Djurskyddsförening
   orgNumber: 827000-8603
@@ -18697,6 +18707,15 @@ entries:
   - ishockeyklubb
   web: https://www.laget.se/SunneIK/
 
+- entry: 1230996843
+  orgName: Holmalunds IF
+  orgNumber: 864000-1015
+  comment: Damlaget
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/holmalundsif
+
 - entry: 1230997015
   orgName: Brunnsparkskyrkan
   orgNumber: 826500-5234
@@ -21362,6 +21381,15 @@ entries:
   - djurskydd
   web: https://www.djurskyddet.se/helsingborg/
 
+- entry: 1231154350
+  orgName: Norrtälje IK
+  orgNumber: 814400-5454
+  comment: J18
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/nik
+
 - entry: 1231154764
   orgName: Östergötlands Fjordhästförening
   orgNumber: 802442-2332
@@ -22796,6 +22824,14 @@ entries:
   categories:
   - försäljning
   web: https://powerofsun.se/
+
+- entry: 1231232024
+  orgName: Västra Karups IF:s Supporterklubb
+  orgNumber: 839400-8463
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.svenskalag.se/vkif
 
 - entry: 1231232875
   orgName: Aros Catering
@@ -28642,6 +28678,15 @@ entries:
   - idrottsförening
   web: https://www.dosjobroif.com/
 
+- entry: 1231557362
+  orgName: Matfors Skidklubb
+  orgNumber: 889201-6570
+  comment: null
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.svenskalag.se/matforssk
+
 - entry: 1231557545
   orgName: Fjellfotografen Tomas Johansson HB
   orgNumber: 916472-0220
@@ -31793,6 +31838,15 @@ entries:
   - hjälporganisation
   - ideell förening
   web: https://hemlosa.se/
+
+- entry: 1231733070
+  orgName: Onyx Innebandy
+  orgNumber: 819001-3154
+  comment: P15 Nyköping
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.svenskalag.se/onyxinnebandy
 
 - entry: 1231733187
   orgName: Pingstförsamlingen i Leksand
@@ -36719,6 +36773,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/aspeland
+
+- entry: 1232021228
+  orgName: Kävlinge Harrie FF
+  orgNumber: 802443-7108
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.kavlingeharrieff.se/
 
 - entry: 1232021574
   orgName: Hultsberg-Björkås IBF
@@ -45281,7 +45344,7 @@ entries:
   web: https://www.tmjurist.com/
 
 - entry: 1232465235
-  orgName: LedR KF
+  orgName: Ledningsregementets kamratförening, LedR KF
   orgNumber: 802458-2713
   comment: null
   categories:
@@ -50959,6 +51022,15 @@ entries:
   - intresseförening
   web: https://www.jordensvanner.se/
 
+- entry: 1232794212
+  orgName: Riala GoIF
+  orgNumber: 814400-3533
+  comment: Supporterlotteri
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/rialagoif
+
 - entry: 1232794329
   orgName: Korpen Simrishamn
   orgNumber: 838800-4114
@@ -51722,6 +51794,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/oskarstromsis
+
+- entry: 1232824878
+  orgName: IFK Mora Gymnastikklubb
+  orgNumber: 884401-5795
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.svenskalag.se/ifkmora-gymnastik
 
 - entry: 1232824936
   orgName: Liksjuon Sámiensiäbrrie - Lycksele Sameförening
@@ -53986,6 +54067,16 @@ entries:
   categories:
   - beroendeproblematik
   web: https://www.beroendevardensframtid.se/
+
+- entry: 1232979789
+  orgName: Näsby Sportryttare
+  orgNumber: 802527-0771
+  comment: null
+  categories:
+  - hästsport
+  - ridsport
+  - ryttarförening
+  web: https://www.svenskalag.se/nasby-sportryttare
 
 - entry: 1232980035
   orgName: Saltsjöbadens Båtklubb
@@ -66665,7 +66756,7 @@ entries:
   web: https://smalsparet.com/
 
 - entry: 1233699246
-  orgName: Holmalunds IF Alingsås
+  orgName: Holmalunds IF
   orgNumber: 864000-1015
   comment: null
   categories:
@@ -75790,7 +75881,7 @@ entries:
   web: https://enskede.scout.se/
 
 - entry: 1234236717
-  orgName: Skällinge SKF - Skyttesport
+  orgName: Skällinge SKF
   orgNumber: 802429-5423
   comment: Medlemsavgift
   categories:
@@ -83889,6 +83980,17 @@ entries:
   - riksförbund
   - utbildning
   web: https://fak.se/
+
+- entry: 1234720868
+  orgName: Grevie GIK
+  orgNumber: 839400-4876
+  comment: null
+  categories:
+  - bordtennisklubb
+  - fotbollsklubb
+  - idrottsförening
+  - padelklubb
+  web: https://www.svenskalag.se/greviegik
 
 - entry: 1234721825
   orgName: Team Rynkeby
@@ -103816,6 +103918,17 @@ entries:
   - ishockeyklubb
   web: https://www.trelleborgsif.se/
 
+- entry: 1235880018
+  orgName: Grevie GIK
+  orgNumber: 839400-4876
+  comment: null
+  categories:
+  - bordtennisklubb
+  - fotbollsklubb
+  - idrottsförening
+  - padelklubb
+  web: https://www.svenskalag.se/greviegik
+
 - entry: 1235880521
   orgName: Sala Skyttegille
   orgNumber: 879500-0887
@@ -113008,6 +113121,15 @@ entries:
   - hundsport
   web: https://www.svenskahoopersklubben.se/
 
+- entry: 1236397889
+  orgName: Skällinge SKF
+  orgNumber: 802429-5423
+  comment: Luftskytte
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.svenskalag.se/skallingeskytteforening
+
 - entry: 1236398218
   orgName: Stockholm Framefotboll IF
   orgNumber: 802527-7701
@@ -113904,7 +114026,7 @@ entries:
   web: https://www.lionsclubkinnaskene.se/
 
 - entry: 1236451587
-  orgName: Skällinge SKF - Skyttesport
+  orgName: Skällinge SKF
   orgNumber: 802429-5423
   comment: Ammunition och serieavgifter
   categories:
@@ -120455,6 +120577,15 @@ entries:
   - religion
   - ungdomsverksamhet
   web: https://osterledskyrkan.se/
+
+- entry: 1236808331
+  orgName: Södermalms Idrottsklubb, SOIK
+  orgNumber: 802007-2164
+  comment: null
+  categories:
+  - idrottsförening
+  - skridskoklubb
+  web: https://www.svenskalag.se/soik
 
 - entry: 1236808554
   orgName: Ludvika TK - Tennis

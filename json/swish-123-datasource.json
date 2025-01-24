@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-01-24-rev-151106",
+    "date": "2025-01-24-rev-160624",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -10620,6 +10620,18 @@
         "hundsport"
       ],
       "web": "https://osdhund.se/"
+    },
+    {
+      "entry": 1230474593,
+      "orgName": "Bryn\u00e4s Kyokushin Karate",
+      "orgNumber": "802474-1376",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "karateklubb"
+      ],
+      "web": "https://www.svenskalag.se/brynaskarate"
     },
     {
       "entry": 1230474965,
@@ -22666,6 +22678,17 @@
       "web": "https://www.laget.se/SunneIK/"
     },
     {
+      "entry": 1230996843,
+      "orgName": "Holmalunds IF",
+      "orgNumber": "864000-1015",
+      "comment": "Damlaget",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/holmalundsif"
+    },
+    {
       "entry": 1230997015,
       "orgName": "Brunnsparkskyrkan",
       "orgNumber": "826500-5234",
@@ -25866,6 +25889,17 @@
       "web": "https://www.djurskyddet.se/helsingborg/"
     },
     {
+      "entry": 1231154350,
+      "orgName": "Norrt\u00e4lje IK",
+      "orgNumber": "814400-5454",
+      "comment": "J18",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/nik"
+    },
+    {
       "entry": 1231154764,
       "orgName": "\u00d6sterg\u00f6tlands Fjordh\u00e4stf\u00f6rening",
       "orgNumber": "802442-2332",
@@ -27612,6 +27646,16 @@
         "f\u00f6rs\u00e4ljning"
       ],
       "web": "https://powerofsun.se/"
+    },
+    {
+      "entry": 1231232024,
+      "orgName": "V\u00e4stra Karups IF:s Supporterklubb",
+      "orgNumber": "839400-8463",
+      "comment": null,
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.svenskalag.se/vkif"
     },
     {
       "entry": 1231232875,
@@ -34702,6 +34746,17 @@
       "web": "https://www.dosjobroif.com/"
     },
     {
+      "entry": 1231557362,
+      "orgName": "Matfors Skidklubb",
+      "orgNumber": "889201-6570",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.svenskalag.se/matforssk"
+    },
+    {
       "entry": 1231557545,
       "orgName": "Fjellfotografen Tomas Johansson HB",
       "orgNumber": "916472-0220",
@@ -38540,6 +38595,17 @@
         "ideell f\u00f6rening"
       ],
       "web": "https://hemlosa.se/"
+    },
+    {
+      "entry": 1231733070,
+      "orgName": "Onyx Innebandy",
+      "orgNumber": "819001-3154",
+      "comment": "P15 Nyk\u00f6ping",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/onyxinnebandy"
     },
     {
       "entry": 1231733187,
@@ -44498,6 +44564,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/aspeland"
+    },
+    {
+      "entry": 1232021228,
+      "orgName": "K\u00e4vlinge Harrie FF",
+      "orgNumber": "802443-7108",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.kavlingeharrieff.se/"
     },
     {
       "entry": 1232021574,
@@ -54851,7 +54928,7 @@
     },
     {
       "entry": 1232465235,
-      "orgName": "LedR KF",
+      "orgName": "Ledningsregementets kamratf\u00f6rening, LedR KF",
       "orgNumber": "802458-2713",
       "comment": null,
       "categories": [
@@ -61760,6 +61837,17 @@
       "web": "https://www.jordensvanner.se/"
     },
     {
+      "entry": 1232794212,
+      "orgName": "Riala GoIF",
+      "orgNumber": "814400-3533",
+      "comment": "Supporterlotteri",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/rialagoif"
+    },
+    {
       "entry": 1232794329,
       "orgName": "Korpen Simrishamn",
       "orgNumber": "838800-4114",
@@ -62692,6 +62780,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/oskarstromsis"
+    },
+    {
+      "entry": 1232824878,
+      "orgName": "IFK Mora Gymnastikklubb",
+      "orgNumber": "884401-5795",
+      "comment": null,
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ifkmora-gymnastik"
     },
     {
       "entry": 1232824936,
@@ -65432,6 +65531,18 @@
         "beroendeproblematik"
       ],
       "web": "https://www.beroendevardensframtid.se/"
+    },
+    {
+      "entry": 1232979789,
+      "orgName": "N\u00e4sby Sportryttare",
+      "orgNumber": "802527-0771",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridsport",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/nasby-sportryttare"
     },
     {
       "entry": 1232980035,
@@ -80759,7 +80870,7 @@
     },
     {
       "entry": 1233699246,
-      "orgName": "Holmalunds IF Alings\u00e5s",
+      "orgName": "Holmalunds IF",
       "orgNumber": "864000-1015",
       "comment": null,
       "categories": [
@@ -91838,7 +91949,7 @@
     },
     {
       "entry": 1234236717,
-      "orgName": "Sk\u00e4llinge SKF - Skyttesport",
+      "orgName": "Sk\u00e4llinge SKF",
       "orgNumber": "802429-5423",
       "comment": "Medlemsavgift",
       "categories": [
@@ -101656,6 +101767,19 @@
         "utbildning"
       ],
       "web": "https://fak.se/"
+    },
+    {
+      "entry": 1234720868,
+      "orgName": "Grevie GIK",
+      "orgNumber": "839400-4876",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "padelklubb"
+      ],
+      "web": "https://www.svenskalag.se/greviegik"
     },
     {
       "entry": 1234721825,
@@ -125765,6 +125889,19 @@
       "web": "https://www.trelleborgsif.se/"
     },
     {
+      "entry": 1235880018,
+      "orgName": "Grevie GIK",
+      "orgNumber": "839400-4876",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "padelklubb"
+      ],
+      "web": "https://www.svenskalag.se/greviegik"
+    },
+    {
       "entry": 1235880521,
       "orgName": "Sala Skyttegille",
       "orgNumber": "879500-0887",
@@ -136866,6 +137003,17 @@
       "web": "https://www.svenskahoopersklubben.se/"
     },
     {
+      "entry": 1236397889,
+      "orgName": "Sk\u00e4llinge SKF",
+      "orgNumber": "802429-5423",
+      "comment": "Luftskytte",
+      "categories": [
+        "skytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://www.svenskalag.se/skallingeskytteforening"
+    },
+    {
       "entry": 1236398218,
       "orgName": "Stockholm Framefotboll IF",
       "orgNumber": "802527-7701",
@@ -137949,7 +138097,7 @@
     },
     {
       "entry": 1236451587,
-      "orgName": "Sk\u00e4llinge SKF - Skyttesport",
+      "orgName": "Sk\u00e4llinge SKF",
       "orgNumber": "802429-5423",
       "comment": "Ammunition och serieavgifter",
       "categories": [
@@ -145862,6 +146010,17 @@
         "ungdomsverksamhet"
       ],
       "web": "https://osterledskyrkan.se/"
+    },
+    {
+      "entry": 1236808331,
+      "orgName": "S\u00f6dermalms Idrottsklubb, SOIK",
+      "orgNumber": "802007-2164",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skridskoklubb"
+      ],
+      "web": "https://www.svenskalag.se/soik"
     },
     {
       "entry": 1236808554,

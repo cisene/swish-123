@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-24-rev-151146
+Revision: 2025-01-24-rev-160659
 
-Nummer: 14225
+Nummer: 14239
 
 
 
@@ -8512,6 +8512,8 @@ Nummer: 14225
 
 
 **Brynäs Kyokushin Karate**
+
+    123 047 45 93
 
     123 239 10 27
 
@@ -22631,6 +22633,10 @@ Nummer: 14225
 
     123 206 17 52
 
+    123 472 08 68
+
+    123 588 00 18
+
 
 
 
@@ -26960,9 +26966,16 @@ Nummer: 14225
 
 
 
-**Holmalunds IF Alingsås**
+**Holmalunds IF**
+
+    123 099 68 43 - Damlaget
 
     123 369 92 46
+
+
+
+
+**Holmalunds IF Alingsås**
 
     123 640 50 96
 
@@ -30007,6 +30020,13 @@ Nummer: 14225
 **IFK Mora Friidrottsklubb**
 
     123 007 51 27
+
+
+
+
+**IFK Mora Gymnastikklubb**
+
+    123 282 48 78
 
 
 
@@ -38716,6 +38736,13 @@ Nummer: 14225
 
 
 
+**Kävlinge Harrie FF**
+
+    123 202 12 28
+
+
+
+
 **Kävlinge HK**
 
     123 629 96 89
@@ -39253,7 +39280,7 @@ Nummer: 14225
 
 
 
-**LedR KF**
+**Ledningsregementets kamratförening, LedR KF**
 
     123 246 52 35
 
@@ -44181,6 +44208,13 @@ Nummer: 14225
 
 
 
+**Matfors Skidklubb**
+
+    123 155 73 62
+
+
+
+
 **Matildas Profylax & Gravidmassage / Matilda Haggärde**
 
     123 589 04 05
@@ -48346,6 +48380,8 @@ Nummer: 14225
 
     123 029 58 73
 
+    123 115 43 50 - J18
+
     123 317 71 51 - Team 15
 
     123 534 67 62
@@ -49061,6 +49097,13 @@ Nummer: 14225
 **Näsby IF**
 
     123 299 02 81
+
+
+
+
+**Näsby Sportryttare**
+
+    123 297 97 89
 
 
 
@@ -49838,6 +49881,8 @@ Nummer: 14225
     123 071 11 50 - P 12
 
     123 162 97 16 - F15 Nyköping
+
+    123 173 30 70 - P15 Nyköping
 
     123 182 35 82 - P 10 Nyköping
 
@@ -54907,6 +54952,8 @@ Nummer: 14225
 **Riala GoIF**
 
     123 179 15 32
+
+    123 279 42 12 - Supporterlotteri
 
 
 
@@ -60857,9 +60904,11 @@ Nummer: 14225
 
 
 
-**Skällinge SKF - Skyttesport**
+**Skällinge SKF**
 
     123 423 67 17 - Medlemsavgift
+
+    123 639 78 89 - Luftskytte
 
     123 645 15 87 - Ammunition och serieavgifter
 
@@ -71066,6 +71115,13 @@ Nummer: 14225
 **Södermalm Scoutkår**
 
     123 554 49 78
+
+
+
+
+**Södermalms Idrottsklubb, SOIK**
+
+    123 680 83 31
 
 
 
@@ -81467,6 +81523,13 @@ Nummer: 14225
 **Västra Karups IF**
 
     123 034 62 62
+
+
+
+
+**Västra Karups IF:s Supporterklubb**
+
+    123 123 20 24
 
 
 
