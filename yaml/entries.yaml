@@ -9006,6 +9006,16 @@ entries:
   - restaurant
   web: https://langberget.se/
 
+- entry: 1230489559
+  orgName: Mölnlycke Frisbee Club
+  orgNumber: 802496-0372
+  comment: null
+  categories:
+  - discgolfklubb
+  - frisbeeklubb
+  - idrottsförening
+  web: https://molnlyckefrisbee.klubbenonline.se/
+
 - entry: 1230489575
   orgName: OK Renen
   orgNumber: 897000-5552
@@ -15626,6 +15636,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/kungsara-kyrka
+
+- entry: 1230855734
+  orgName: Ulricehamns Tennisklubb, UTK
+  orgNumber: 865500-5331
+  comment: null
+  categories:
+  - idrottsförening
+  - tennisklubb
+  web: https://ulricehamnstk.klubbenonline.se/
 
 - entry: 1230855874
   orgName: Hisingens Cykelklubb
@@ -37337,6 +37356,16 @@ entries:
   - spelförening
   web: https://kalmarblekinge.sverok.se/
 
+- entry: 1232061752
+  orgName: Grevie GIK
+  orgNumber: 839400-4876
+  comment: null
+  categories:
+  - bordtennisklubb
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.svenskalag.se/greviegik
+
 - entry: 1232062644
   orgName: Ängelholms Ekumeniska Församling
   orgNumber: 839400-6590
@@ -37522,6 +37551,16 @@ entries:
   - graviditet
   - psykisk hälsa
   web: https://mammatillmamma.com/
+
+- entry: 1232086007
+  orgName: Bengtsfors MCC
+  orgNumber: 862000-7867
+  comment: null
+  categories:
+  - motorcykelklubb
+  - motorklubb
+  - snöskoterklubb
+  web: https://bmcc.klubbenonline.se/
 
 - entry: 1232088169
   orgName: Lugnås-Ullervads Pastorat
@@ -41539,6 +41578,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/WisseltoftaIF/
 
+- entry: 1232265775
+  orgName: Täby IS Friidrott
+  orgNumber: 802453-2338
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  web: https://www.tabyfriidrott.se/
+
 - entry: 1232266088
   orgName: Fredriksbergs BK
   orgNumber: 835600-1415
@@ -43537,6 +43585,15 @@ entries:
   web: https://www.svenskalag.se/reijmyreif
 
 - entry: 1232372027
+  orgName: Härnösands Cykelklubb
+  orgNumber: 888000-3002
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  web: https://harnosandscykelklubb.klubbenonline.se/
+
+- entry: 1232372029
   orgName: Härnösands Cykelklubb
   orgNumber: 888000-3002
   comment: null
@@ -52714,6 +52771,15 @@ entries:
   categories:
   - hjälporganisation
   web: https://www.nkinga.se/
+
+- entry: 1232889228
+  orgName: OK Reftele
+  orgNumber: 828500-4522
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://okreftele.klubbenonline.se/
 
 - entry: 1232889426
   orgName: Baggbrobygdens Byalag
@@ -67599,6 +67665,15 @@ entries:
   - samhällsförening
   web: https://kladesholmen.com/
 
+- entry: 1233771185
+  orgName: Varbergs Roddklubb
+  orgNumber: 849600-1580
+  comment: null
+  categories:
+  - idrottsförening
+  - roddklubb
+  web: https://varbergsroddklubb.klubbenonline.se/
+
 - entry: 1233771318
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -69029,6 +69104,15 @@ entries:
   categories:
   - hjälporganisation
   web: https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg
+
+- entry: 1233853223
+  orgName: Bouleklubben Jamtboule
+  orgNumber: 802494-7023
+  comment: null
+  categories:
+  - bouleklubb
+  - idrottsförening
+  web: https://bkjamtboule.klubbenonline.se/
 
 - entry: 1233855643
   orgName: PRO Järna Vårdinge
@@ -72720,6 +72804,14 @@ entries:
   categories:
   - juridiska tjänster
   web: https://www.inter.se/
+
+- entry: 1234063152
+  orgName: Bangolfklubben Linjen
+  orgNumber: 844000-7303
+  comment: null
+  categories:
+  - golfklubb
+  web: https://bangolfklubbenlinjen.klubbenonline.se/
 
 - entry: 1234065165
   orgName: Timrå IK
@@ -78311,6 +78403,16 @@ entries:
   - hundklubb
   - hundsport
   web: https://sbakvast.se/
+
+- entry: 1234412789
+  orgName: BMW Club Schweden Motorsport
+  orgNumber: 838201-9738
+  comment: null
+  categories:
+  - bilklubb
+  - bilsport
+  - motorsport
+  web: https://www.bmwcs.com/
 
 - entry: 1234412896
   orgName: Lyse Församling
@@ -87354,6 +87456,16 @@ entries:
   - pensionärsklubb
   web: https://www.pbk-gbg.se/
 
+- entry: 1234995288
+  orgName: Kumla Ridklubb
+  orgNumber: 875700-6864
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://kumlaridklubb.klubbenonline.se/
+
 - entry: 1234996088
   orgName: Kvinnojouren på Österlen
   orgNumber: 802512-4796
@@ -92699,6 +92811,18 @@ entries:
   categories:
   - rotaryklubb
   web: https://ystad.rotary2390.se/
+
+- entry: 1235269469
+  orgName: IFK Stockaryd
+  orgNumber: 827500-3831
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - motionsklubb
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.svenskalag.se/ifkstockaryd
 
 - entry: 1235272141
   orgName: Täby Ju-Jutsuklubb
@@ -99582,6 +99706,16 @@ entries:
   - internettjänster
   web: https://www.webb.se/
 
+- entry: 1235627484
+  orgName: Skene Motorsällskap
+  orgNumber: 865000-4826
+  comment: null
+  categories:
+  - bilsport
+  - motorklubb
+  - motorsällskap
+  web: https://skenems.klubbenonline.se/
+
 - entry: 1235627708
   orgName: Lillpite Idrottsförening
   orgNumber: 898800-4191
@@ -104178,6 +104312,15 @@ entries:
   - idrottsförening
   web: https://www.teamhudik.se/
 
+- entry: 1235897160
+  orgName: Ludvika Flygklubb
+  orgNumber: 883800-1629
+  comment: null
+  categories:
+  - flygklubb
+  - sportflyg
+  web: https://ludvikaflyg.klubbenonline.se/
+
 - entry: 1235897293
   orgName: Aneby Baptistförsamling
   orgNumber: 826500-0052
@@ -105796,6 +105939,16 @@ entries:
   - körkort
   - trafikskola
   web: https://sundsvallstrafikskola.se/
+
+- entry: 1236006415
+  orgName: Segelsällskapet Åmålsviken, SSÅV
+  orgNumber: 862000-6307
+  comment: null
+  categories:
+  - båtklubb
+  - segelklubb
+  - segelsällskap
+  web: https://ssav.klubbenonline.se/
 
 - entry: 1236006944
   orgName: Estuna Bygdegårdsförening
@@ -108205,6 +108358,16 @@ entries:
   - religion
   web: https://eotcs.se/
 
+- entry: 1236145023
+  orgName: Edda Islandshästförening
+  orgNumber: 802416-3977
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - islandshäst
+  web: https://eddaislandshastforening.klubbenonline.se/
+
 - entry: 1236145056
   orgName: Wattholma Golfklubb
   orgNumber: 802445-6785
@@ -108826,6 +108989,15 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.hkankaret.se/
+
+- entry: 1236171201
+  orgName: Oskarshamns Squashklubb
+  orgNumber: 802488-0059
+  comment: null
+  categories:
+  - idrottsförening
+  - squashklubb
+  web: https://oskarshamnssquashklubb.klubbenonline.se/
 
 - entry: 1236171235
   orgName: HGH FC

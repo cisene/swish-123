@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-23-rev-140713
+Revision: 2025-01-24-rev-151146
 
-Nummer: 14207
+Nummer: 14225
 
 
 
@@ -3660,6 +3660,13 @@ Nummer: 14207
 
 
 
+**Bangolfklubben Linjen**
+
+    123 406 31 52
+
+
+
+
 **Bankeryds Basket**
 
     123 622 20 61
@@ -4142,6 +4149,13 @@ Nummer: 14207
 **Belt and Road Institute in Sweden, BRIX**
 
     123 241 24 43
+
+
+
+
+**Bengtsfors MCC**
+
+    123 208 60 07
 
 
 
@@ -5777,6 +5791,13 @@ Nummer: 14207
 **BMK Wätterstad**
 
     123 317 89 93
+
+
+
+
+**BMW Club Schweden Motorsport**
+
+    123 441 27 89
 
 
 
@@ -7694,6 +7715,13 @@ Nummer: 14207
 **Bouleföreningen Lillens Vänner**
 
     123 687 34 67
+
+
+
+
+**Bouleklubben Jamtboule**
+
+    123 385 32 23
 
 
 
@@ -12883,6 +12911,13 @@ Nummer: 14207
 **Eda Ryttarförening**
 
     123 006 32 14
+
+
+
+
+**Edda Islandshästförening**
+
+    123 614 50 23
 
 
 
@@ -22592,6 +22627,13 @@ Nummer: 14207
 
 
 
+**Grevie GIK**
+
+    123 206 17 52
+
+
+
+
 **Gribbylunds Fastighetsägareförening**
 
     123 042 56 03
@@ -28274,6 +28316,8 @@ Nummer: 14207
 
     123 237 20 27
 
+    123 237 20 29
+
 
 
 
@@ -30107,6 +30151,8 @@ Nummer: 14207
 
 
 **IFK Stockaryd**
+
+    123 526 94 69
 
     123 635 68 85
 
@@ -37451,6 +37497,8 @@ Nummer: 14207
 
 **Kumla Ridklubb**
 
+    123 499 52 88
+
     123 511 15 13
 
 
@@ -42035,6 +42083,13 @@ Nummer: 14207
 
 
 
+**Ludvika Flygklubb**
+
+    123 589 71 60
+
+
+
+
 **Ludvika Församling**
 
     123 319 87 77 - Kollekt Ulrika kyrka
@@ -46468,6 +46523,13 @@ Nummer: 14207
 
 
 
+**Mölnlycke Frisbee Club**
+
+    123 048 95 59
+
+
+
+
 **Mölnlycke Garden Center AB**
 
     123 515 72 35
@@ -49511,6 +49573,13 @@ Nummer: 14207
 
 
 
+**OK Reftele**
+
+    123 288 92 28
+
+
+
+
 **OK Renen**
 
     123 048 95 75
@@ -50173,6 +50242,13 @@ Nummer: 14207
 **Oskarshamns SK**
 
     123 691 15 31
+
+
+
+
+**Oskarshamns Squashklubb**
+
+    123 617 12 01
 
 
 
@@ -58709,6 +58785,13 @@ Nummer: 14207
 
 
 
+**Segelsällskapet Åmålsviken, SSÅV**
+
+    123 600 64 15
+
+
+
+
 **Segersta Hembygdsförening**
 
     123 258 82 00
@@ -60161,6 +60244,8 @@ Nummer: 14207
 **Skene Motorsällskap**
 
     123 113 41 13
+
+    123 562 74 84
 
 
 
@@ -75931,6 +76016,13 @@ Nummer: 14207
 
 
 
+**Täby IS Friidrott**
+
+    123 226 57 75
+
+
+
+
 **Täby IS Innebandy**
 
     123 391 56 34
@@ -76437,6 +76529,13 @@ Nummer: 14207
 **Ulricehamns Pistolklubb**
 
     123 115 82 60
+
+
+
+
+**Ulricehamns Tennisklubb, UTK**
+
+    123 085 57 34
 
 
 
@@ -78041,6 +78140,13 @@ Nummer: 14207
 **Varbergs Massage och Behandling / Nils Tennberg**
 
     123 540 74 40
+
+
+
+
+**Varbergs Roddklubb**
+
+    123 377 11 85
 
 
 

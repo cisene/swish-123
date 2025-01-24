@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-01-23-rev-140616",
+    "date": "2025-01-24-rev-151106",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -10932,6 +10932,18 @@
       "web": "https://langberget.se/"
     },
     {
+      "entry": 1230489559,
+      "orgName": "M\u00f6lnlycke Frisbee Club",
+      "orgNumber": "802496-0372",
+      "comment": null,
+      "categories": [
+        "discgolfklubb",
+        "frisbeeklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://molnlyckefrisbee.klubbenonline.se/"
+    },
+    {
       "entry": 1230489575,
       "orgName": "OK Renen",
       "orgNumber": "897000-5552",
@@ -18958,6 +18970,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vasteras/kungsara-kyrka"
+    },
+    {
+      "entry": 1230855734,
+      "orgName": "Ulricehamns Tennisklubb, UTK",
+      "orgNumber": "865500-5331",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "tennisklubb"
+      ],
+      "web": "https://ulricehamnstk.klubbenonline.se/"
     },
     {
       "entry": 1230855874,
@@ -45253,6 +45276,18 @@
       "web": "https://kalmarblekinge.sverok.se/"
     },
     {
+      "entry": 1232061752,
+      "orgName": "Grevie GIK",
+      "orgNumber": "839400-4876",
+      "comment": null,
+      "categories": [
+        "bordtennisklubb",
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/greviegik"
+    },
+    {
       "entry": 1232062644,
       "orgName": "\u00c4ngelholms Ekumeniska F\u00f6rsamling",
       "orgNumber": "839400-6590",
@@ -45479,6 +45514,18 @@
         "psykisk h\u00e4lsa"
       ],
       "web": "https://mammatillmamma.com/"
+    },
+    {
+      "entry": 1232086007,
+      "orgName": "Bengtsfors MCC",
+      "orgNumber": "862000-7867",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb",
+        "motorklubb",
+        "sn\u00f6skoterklubb"
+      ],
+      "web": "https://bmcc.klubbenonline.se/"
     },
     {
       "entry": 1232088169,
@@ -50339,6 +50386,17 @@
       "web": "https://www.laget.se/WisseltoftaIF/"
     },
     {
+      "entry": 1232265775,
+      "orgName": "T\u00e4by IS Friidrott",
+      "orgNumber": "802453-2338",
+      "comment": null,
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.tabyfriidrott.se/"
+    },
+    {
       "entry": 1232266088,
       "orgName": "Fredriksbergs BK",
       "orgNumber": "835600-1415",
@@ -52751,6 +52809,17 @@
     },
     {
       "entry": 1232372027,
+      "orgName": "H\u00e4rn\u00f6sands Cykelklubb",
+      "orgNumber": "888000-3002",
+      "comment": null,
+      "categories": [
+        "cykelklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://harnosandscykelklubb.klubbenonline.se/"
+    },
+    {
+      "entry": 1232372029,
       "orgName": "H\u00e4rn\u00f6sands Cykelklubb",
       "orgNumber": "888000-3002",
       "comment": null,
@@ -63889,6 +63958,17 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.nkinga.se/"
+    },
+    {
+      "entry": 1232889228,
+      "orgName": "OK Reftele",
+      "orgNumber": "828500-4522",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://okreftele.klubbenonline.se/"
     },
     {
       "entry": 1232889426,
@@ -81900,6 +81980,17 @@
       "web": "https://kladesholmen.com/"
     },
     {
+      "entry": 1233771185,
+      "orgName": "Varbergs Roddklubb",
+      "orgNumber": "849600-1580",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "roddklubb"
+      ],
+      "web": "https://varbergsroddklubb.klubbenonline.se/"
+    },
+    {
       "entry": 1233771318,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
@@ -83624,6 +83715,17 @@
         "hj\u00e4lporganisation"
       ],
       "web": "https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg"
+    },
+    {
+      "entry": 1233853223,
+      "orgName": "Bouleklubben Jamtboule",
+      "orgNumber": "802494-7023",
+      "comment": null,
+      "categories": [
+        "bouleklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://bkjamtboule.klubbenonline.se/"
     },
     {
       "entry": 1233855643,
@@ -88100,6 +88202,16 @@
         "juridiska tj\u00e4nster"
       ],
       "web": "https://www.inter.se/"
+    },
+    {
+      "entry": 1234063152,
+      "orgName": "Bangolfklubben Linjen",
+      "orgNumber": "844000-7303",
+      "comment": null,
+      "categories": [
+        "golfklubb"
+      ],
+      "web": "https://bangolfklubbenlinjen.klubbenonline.se/"
     },
     {
       "entry": 1234065165,
@@ -94868,6 +94980,18 @@
         "hundsport"
       ],
       "web": "https://sbakvast.se/"
+    },
+    {
+      "entry": 1234412789,
+      "orgName": "BMW Club Schweden Motorsport",
+      "orgNumber": "838201-9738",
+      "comment": null,
+      "categories": [
+        "bilklubb",
+        "bilsport",
+        "motorsport"
+      ],
+      "web": "https://www.bmwcs.com/"
     },
     {
       "entry": 1234412896,
@@ -105850,6 +105974,18 @@
       "web": "https://www.pbk-gbg.se/"
     },
     {
+      "entry": 1234995288,
+      "orgName": "Kumla Ridklubb",
+      "orgNumber": "875700-6864",
+      "comment": null,
+      "categories": [
+        "h\u00e4stsport",
+        "ridklubb",
+        "ryttarf\u00f6rening"
+      ],
+      "web": "https://kumlaridklubb.klubbenonline.se/"
+    },
+    {
       "entry": 1234996088,
       "orgName": "Kvinnojouren p\u00e5 \u00d6sterlen",
       "orgNumber": "802512-4796",
@@ -112313,6 +112449,20 @@
         "rotaryklubb"
       ],
       "web": "https://ystad.rotary2390.se/"
+    },
+    {
+      "entry": 1235269469,
+      "orgName": "IFK Stockaryd",
+      "orgNumber": "827500-3831",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "motionsklubb",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.svenskalag.se/ifkstockaryd"
     },
     {
       "entry": 1235272141,
@@ -120687,6 +120837,18 @@
       "web": "https://www.webb.se/"
     },
     {
+      "entry": 1235627484,
+      "orgName": "Skene Motors\u00e4llskap",
+      "orgNumber": "865000-4826",
+      "comment": null,
+      "categories": [
+        "bilsport",
+        "motorklubb",
+        "motors\u00e4llskap"
+      ],
+      "web": "https://skenems.klubbenonline.se/"
+    },
+    {
       "entry": 1235627708,
       "orgName": "Lillpite Idrottsf\u00f6rening",
       "orgNumber": "898800-4191",
@@ -126211,6 +126373,17 @@
       "web": "https://www.teamhudik.se/"
     },
     {
+      "entry": 1235897160,
+      "orgName": "Ludvika Flygklubb",
+      "orgNumber": "883800-1629",
+      "comment": null,
+      "categories": [
+        "flygklubb",
+        "sportflyg"
+      ],
+      "web": "https://ludvikaflyg.klubbenonline.se/"
+    },
+    {
       "entry": 1235897293,
       "orgName": "Aneby Baptistf\u00f6rsamling",
       "orgNumber": "826500-0052",
@@ -128136,6 +128309,18 @@
         "trafikskola"
       ],
       "web": "https://sundsvallstrafikskola.se/"
+    },
+    {
+      "entry": 1236006415,
+      "orgName": "Segels\u00e4llskapet \u00c5m\u00e5lsviken, SS\u00c5V",
+      "orgNumber": "862000-6307",
+      "comment": null,
+      "categories": [
+        "b\u00e5tklubb",
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://ssav.klubbenonline.se/"
     },
     {
       "entry": 1236006944,
@@ -131049,6 +131234,18 @@
       "web": "https://eotcs.se/"
     },
     {
+      "entry": 1236145023,
+      "orgName": "Edda Islandsh\u00e4stf\u00f6rening",
+      "orgNumber": "802416-3977",
+      "comment": null,
+      "categories": [
+        "h\u00e4stklubb",
+        "h\u00e4stsport",
+        "islandsh\u00e4st"
+      ],
+      "web": "https://eddaislandshastforening.klubbenonline.se/"
+    },
+    {
       "entry": 1236145056,
       "orgName": "Wattholma Golfklubb",
       "orgNumber": "802445-6785",
@@ -131811,6 +132008,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.hkankaret.se/"
+    },
+    {
+      "entry": 1236171201,
+      "orgName": "Oskarshamns Squashklubb",
+      "orgNumber": "802488-0059",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "squashklubb"
+      ],
+      "web": "https://oskarshamnssquashklubb.klubbenonline.se/"
     },
     {
       "entry": 1236171235,
