@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-24-rev-160659
+Revision: 2025-01-24-rev-165926
 
-Nummer: 14239
+Nummer: 14259
 
 
 
@@ -3342,6 +3342,13 @@ Nummer: 14239
 **Avelsföreningen Svenska Ardennerhästen**
 
     123 381 86 48
+
+
+
+
+**Avesta BK**
+
+    123 180 79 57
 
 
 
@@ -8207,6 +8214,13 @@ Nummer: 14239
 **Bromma Hembygdsförening**
 
     123 474 99 25
+
+
+
+
+**Bromma Idrottsförening**
+
+    123 594 98 88
 
 
 
@@ -16285,6 +16299,8 @@ Nummer: 14239
 
     123 196 37 43
 
+    123 332 57 50 - F15
+
     123 366 28 14 - P-08
 
     123 518 81 23 - P-10
@@ -17838,6 +17854,13 @@ Nummer: 14239
 **Forssa BK**
 
     123 222 37 66
+
+
+
+
+**Fortuna Fotbollsförening**
+
+    123 117 71 04
 
 
 
@@ -19633,6 +19656,13 @@ Nummer: 14239
 **Föreningen Carolinae Damkör**
 
     123 091 74 50
+
+
+
+
+**Föreningen Cheerxplosion**
+
+    123 008 13 72
 
 
 
@@ -21970,6 +22000,13 @@ Nummer: 14239
     123 330 68 42
 
     123 686 68 34
+
+
+
+
+**GK Norra Norden**
+
+    123 388 08 20
 
 
 
@@ -26972,11 +27009,6 @@ Nummer: 14239
 
     123 369 92 46
 
-
-
-
-**Holmalunds IF Alingsås**
-
     123 640 50 96
 
 
@@ -29511,6 +29543,13 @@ Nummer: 14239
 
 
 
+**Idrottsklubben Ymer**
+
+    123 029 67 98
+
+
+
+
 **Idrottssällskapet Uppsala Norra, ISUN**
 
     123 345 64 31
@@ -29556,6 +29595,13 @@ Nummer: 14239
 **IF Boule 14**
 
     123 307 06 04
+
+
+
+
+**IF Böljan**
+
+    123 006 82 13
 
 
 
@@ -40558,6 +40604,13 @@ Nummer: 14239
 
 
 
+**Linghems Sportklubb**
+
+    123 691 51 85
+
+
+
+
 **Linghemskyrkans Församling**
 
     123 106 35 44 - Magasinet
@@ -42208,6 +42261,8 @@ Nummer: 14239
 **Lulegymnasterna**
 
     123 527 94 68
+
+    123 667 47 74
 
 
 
@@ -49423,6 +49478,13 @@ Nummer: 14239
 
 
 
+**Obbola Idrottsklubb, OIK**
+
+    123 468 96 00
+
+
+
+
 **OCD-föreningen Göteborgsregionen**
 
     123 252 53 84
@@ -50442,6 +50504,13 @@ Nummer: 14239
 
 
 ## P
+
+**Padel United Club Sthlm South**
+
+    123 192 50 98
+
+
+
 
 **Pajala Församling**
 
@@ -60194,6 +60263,13 @@ Nummer: 14239
 
 
 
+**Skellefteå Fotbollsförening**
+
+    123 388 18 77
+
+
+
+
 **Skellefteå Fotoklubb**
 
     123 346 05 65
@@ -61345,6 +61421,13 @@ Nummer: 14239
 **Slottsskogsobservatoriets Vänner**
 
     123 165 55 70
+
+
+
+
+**Slottsstadens Konståkningsklubb**
+
+    123 504 73 45
 
 
 
@@ -71692,6 +71775,13 @@ Nummer: 14239
 
 
 
+**Sörskogens IF**
+
+    123 030 34 53
+
+
+
+
 **Sörängs Byalag**
 
     123 458 69 47
@@ -74986,6 +75076,13 @@ Nummer: 14239
 
 
 
+**Trampolinklubben Levo**
+
+    123 521 84 41
+
+
+
+
 **Tranemo MK**
 
     123 562 84 82
@@ -77327,6 +77424,13 @@ Nummer: 14239
 **Uppsala ju-jutsuklubb**
 
     123 182 69 16
+
+
+
+
+**Uppsala Judoklubb**
+
+    123 690 89 33
 
 
 
@@ -83444,6 +83548,13 @@ Nummer: 14239
 
 
 
+**Älvsbygymnasterna**
+
+    123 520 16 60
+
+
+
+
 **Älvsjö AIK Simning**
 
     123 633 30 82
@@ -85469,6 +85580,15 @@ Nummer: 14239
     123 295 68 52 - Träffpunkter, sociala aktiviteter för äldre
 
     123 481 95 87 - Avgift bad
+
+
+
+
+**Örnsköldsviks Konståkningsklubb, ÖKK**
+
+    123 355 93 41 - Isgalan Entré
+
+    123 601 15 63 - Fiskdamm
 
 
 
