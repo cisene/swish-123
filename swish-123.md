@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-26-rev-125925
+Revision: 2025-01-26-rev-164545
 
-Nummer: 14313
+Nummer: 14358
 
 
 
@@ -18583,6 +18583,8 @@ Nummer: 14313
 
 **Fristad GoIF**
 
+    123 105 78 01
+
     123 148 21 24
 
     123 510 19 44
@@ -19293,6 +19295,13 @@ Nummer: 14313
 **Färingtofta Idrottsklubb**
 
     123 634 57 48
+
+
+
+
+**Färjestad BK Ishockey**
+
+    123 318 63 43 - Team 13
 
 
 
@@ -23270,6 +23279,13 @@ Nummer: 14313
 
 
 
+**GT Söder HK**
+
+    123 209 33 34
+
+
+
+
 **Gubbmyrens Samfällighetsförening**
 
     123 629 72 53
@@ -23492,6 +23508,13 @@ Nummer: 14313
 **Gustavsberg-Ingarö Församling**
 
     123 513 45 23
+
+
+
+
+**Gustavsbergs IF Bandyklubb**
+
+    123 243 82 16
 
 
 
@@ -24204,6 +24227,13 @@ Nummer: 14313
 **Göteborgs Symfonikers Vänner**
 
     123 683 72 49
+
+
+
+
+**Göteborgs Turnförening**
+
+    123 004 10 53
 
 
 
@@ -29080,6 +29110,13 @@ Nummer: 14313
 
 
 
+**Höllvikens Innebandyförening**
+
+    123 157 90 77
+
+
+
+
 **Hönsa Bygdegårdsförening**
 
     123 635 03 83
@@ -30435,6 +30472,13 @@ Nummer: 14313
 
 
 
+**IFK Österåkers Konståkningsklubb**
+
+    123 083 33 01
+
+
+
+
 **IFS Centrala Stockholm**
 
     123 337 80 15
@@ -31176,6 +31220,15 @@ Nummer: 14313
 **Inlandsbanans Vänner, IBV**
 
     123 261 09 39
+
+
+
+
+**Innebandyklubben IBK Lund**
+
+    123 232 49 94
+
+    123 603 52 08
 
 
 
@@ -33367,6 +33420,13 @@ Nummer: 14313
 
 
 
+**Järpens Skidklubb**
+
+    123 170 94 01
+
+
+
+
 **Järva Discgolf Club**
 
     123 483 20 28
@@ -35021,6 +35081,13 @@ Nummer: 14313
 
 
 
+**KFUM Fryshuset Göteborg**
+
+    123 253 98 72
+
+
+
+
 **KFUM Gävle Basket**
 
     123 269 54 27
@@ -35711,6 +35778,13 @@ Nummer: 14313
 
 
 
+**Klippans Gymnastikkrets**
+
+    123 465 39 94 - Trupp Lila
+
+
+
+
 **Klippans Karateklubb**
 
     123 288 10 68
@@ -36233,6 +36307,13 @@ Nummer: 14313
 **Konstnärstryck Andreas Krook**
 
     123 379 06 98
+
+
+
+
+**Konståkarna Borås**
+
+    123 664 88 02
 
 
 
@@ -40474,6 +40555,13 @@ Nummer: 14313
 
 
 
+**Limmareds Idrottsförening**
+
+    123 092 82 75
+
+
+
+
 **Limmud Stockholm**
 
     123 414 98 11
@@ -42741,6 +42829,13 @@ Nummer: 14313
 
 
 
+**Lunds Volleybollklubb**
+
+    123 085 55 28
+
+
+
+
 **Lundsberg Bygdegårdsförening**
 
     123 097 03 84
@@ -43275,6 +43370,13 @@ Nummer: 14313
 
 
 
+**Lönsboda Innebandy**
+
+    123 576 70 74
+
+
+
+
 **Lörby IF**
 
     123 344 42 39
@@ -43626,6 +43728,13 @@ Nummer: 14313
 
 
 
+**Malmköpings IBF**
+
+    123 538 10 25
+
+
+
+
 **Malmköpings IF**
 
     123 113 38 34
@@ -43707,6 +43816,8 @@ Nummer: 14313
 
     123 346 75 45
 
+    123 454 27 75
+
 
 
 
@@ -43741,6 +43852,13 @@ Nummer: 14313
 **Malmö Konststudio**
 
     123 646 30 12
+
+
+
+
+**Malmö Konståkningsklubb**
+
+    123 506 81 76
 
 
 
@@ -43883,6 +44001,13 @@ Nummer: 14313
 **Malva Arbetsliv och Terapi AB**
 
     123 093 68 98
+
+
+
+
+**Malå Idrottsförening**
+
+    123 682 59 62
 
 
 
@@ -45980,6 +46105,22 @@ Nummer: 14313
 
 
 
+**Munka-Ljungby IBK**
+
+    123 237 74 63
+
+    123 360 09 88
+
+
+
+
+**Munka-Ljungby IF**
+
+    123 418 21 92
+
+
+
+
 **Munkedals BK**
 
     123 017 37 81
@@ -46470,6 +46611,8 @@ Nummer: 14313
 
 
 **Mälarö Skid- och Orienteringsklubb**
+
+    123 224 21 47
 
     123 420 41 78
 
@@ -49238,6 +49381,13 @@ Nummer: 14313
 
 
 
+**Nynäshamns Innebandyklubb**
+
+    123 492 49 08
+
+
+
+
 **Nynäshamns Katthemsförening**
 
     123 050 91 82
@@ -49383,6 +49533,13 @@ Nummer: 14313
 **Näske Båtsällskap**
 
     123 615 14 43
+
+
+
+
+**Nässjö Basket**
+
+    123 328 91 54
 
 
 
@@ -52048,6 +52205,14 @@ Nummer: 14313
 
 
 **Piteå Idrottsförening**
+
+    123 001 71 37
+
+    123 292 16 66 - P09
+
+    123 323 41 19 - F13
+
+    123 407 39 20 - P11
 
     123 599 33 73
 
@@ -58271,6 +58436,13 @@ Nummer: 14313
 
 
 
+**Saltsjöbadens Slalomklubb**
+
+    123 583 19 95
+
+
+
+
 **Saltvattensguiden.se Ideell Förening**
 
     123 268 41 16
@@ -58667,6 +58839,13 @@ Nummer: 14313
 **Sandåkerns Sportklubb**
 
     123 219 39 51 - P07
+
+
+
+
+**Sandö Innebandyklubb**
+
+    123 555 84 81 - P10/P11
 
 
 
@@ -61461,6 +61640,13 @@ Nummer: 14313
 **Skövde Adventistförsamling**
 
     123 512 72 79
+
+
+
+
+**Skövde Allmänna Idrottsklubb**
+
+    123 313 83 36
 
 
 
@@ -64485,6 +64671,13 @@ Nummer: 14313
 **Spånga Friskvård Hälsocenter AB**
 
     123 033 61 72
+
+
+
+
+**Spånga IS Ishockeyförening**
+
+    123 680 85 05
 
 
 
@@ -71756,6 +71949,13 @@ Nummer: 14313
 
 
 
+**Södra Sandby Tennisklubb**
+
+    123 160 05 19
+
+
+
+
 **Södra Sandsjö Hembygdsförening**
 
     123 456 31 51
@@ -73847,6 +74047,13 @@ Nummer: 14313
 
 
 
+**Tegs SK Hockey**
+
+    123 615 99 66
+
+
+
+
 **Tekken Wadokai Karate-Do - Karate**
 
     123 076 61 54
@@ -75459,6 +75666,13 @@ Nummer: 14313
 **Trelleborgs Brukshundklubb**
 
     123 514 72 02
+
+
+
+
+**Trelleborgs Fotbollsförening**
+
+    123 677 93 67
 
 
 
@@ -79741,6 +79955,8 @@ Nummer: 14313
 
     123 197 94 34
 
+    123 309 90 33
+
 
 
 
@@ -81866,6 +82082,13 @@ Nummer: 14313
 
 
 
+**Västra Frölunda Badmintonklubb**
+
+    123 467 67 48
+
+
+
+
 **Västra Frölunda IF**
 
     123 139 38 91
@@ -82098,6 +82321,13 @@ Nummer: 14313
 **Växjö City FC**
 
     123 574 39 84
+
+
+
+
+**Växjö Damfotbollförening**
+
+    123 121 03 68
 
 
 
@@ -83848,6 +84078,13 @@ Nummer: 14313
 
 
 
+**Älvsjö AIK Simförening**
+
+    123 677 65 46
+
+
+
+
 **Älvsjö AIK Simning**
 
     123 633 30 82
@@ -84242,6 +84479,13 @@ Nummer: 14313
     123 286 15 32 - Gåvor och kollekt
 
     123 311 22 08
+
+
+
+
+**Åhus Handboll**
+
+    123 500 17 55
 
 
 
@@ -84723,6 +84967,13 @@ Nummer: 14313
 
 
 
+**Ås Idrottsförening**
+
+    123 267 10 63
+
+
+
+
 **Åsa Askne AB**
 
     123 529 09 45
@@ -84817,6 +85068,13 @@ Nummer: 14313
 **Åsele Hembygdsförening**
 
     123 614 87 46
+
+
+
+
+**Åsele Idrottsklubb**
+
+    123 552 78 66
 
 
 
@@ -86619,6 +86877,13 @@ Nummer: 14313
 **Östra Tommarps Bygdegårdsförening**
 
     123 279 74 96
+
+
+
+
+**Östra Torp Gymnastikförening**
+
+    123 092 08 43
 
 
 
