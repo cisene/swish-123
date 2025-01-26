@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-26-rev-010628
+Revision: 2025-01-26-rev-125925
 
-Nummer: 14286
+Nummer: 14313
 
 
 
@@ -3348,9 +3348,15 @@ Nummer: 14286
 
 **Avesta BK**
 
+    123 030 59 53 - U15
+
     123 149 98 05 - J18
 
     123 180 79 57
+
+    123 339 74 37
+
+    123 470 05 89
 
     123 669 11 33
 
@@ -6321,6 +6327,13 @@ Nummer: 14286
 **Borlänge Bandy**
 
     123 173 32 11
+
+
+
+
+**Borlänge Basketbollklubb**
+
+    123 046 18 71
 
 
 
@@ -9550,6 +9563,13 @@ Nummer: 14286
 **Calles Loge / Carl-Bertil Gullberg**
 
     123 643 31 06
+
+
+
+
+**Calmare Lindsdals IBC**
+
+    123 055 35 78
 
 
 
@@ -15457,6 +15477,13 @@ Nummer: 14286
 
 
 
+**Eskilstuna United Damfotbollsförening**
+
+    123 110 14 92 - F09
+
+
+
+
 **Eskilstuna United DFF**
 
     123 662 92 73
@@ -16336,6 +16363,13 @@ Nummer: 14286
 **Farmacevtiska Studentkåren, FAS**
 
     123 226 22 85
+
+
+
+
+**Farsta Ishockeyförening, FOC**
+
+    123 068 16 01
 
 
 
@@ -17866,6 +17900,8 @@ Nummer: 14286
 
     123 117 71 04
 
+    123 319 83 22
+
 
 
 
@@ -19257,6 +19293,13 @@ Nummer: 14286
 **Färingtofta Idrottsklubb**
 
     123 634 57 48
+
+
+
+
+**Färjestad BK - Konståkning**
+
+    123 499 07 68
 
 
 
@@ -24662,6 +24705,13 @@ Nummer: 14286
 
 
 
+**Halmstads Allmänna Idrottssällskap**
+
+    123 267 09 09
+
+
+
+
 **Halmstads Bollklubb**
 
     123 543 47 58
@@ -28788,7 +28838,7 @@ Nummer: 14286
 
 
 
-**Högadals IS**
+**Högadals Idrottssällskap**
 
     123 640 93 95
 
@@ -29547,6 +29597,13 @@ Nummer: 14286
 
 
 
+**Idrottsklubben Eskilstuna Gymnasterna, IKEG**
+
+    123 389 27 42
+
+
+
+
 **Idrottsklubben Studenterna I Umeå IKSU**
 
     123 237 15 08
@@ -29962,6 +30019,13 @@ Nummer: 14286
 **IFK Hedemora Orienteringsklubb**
 
     123 201 31 42
+
+
+
+
+**IFK Hässleholm**
+
+    123 179 05 34
 
 
 
@@ -34925,6 +34989,13 @@ Nummer: 14286
 **KFUK - KFUM Sverige**
 
     123 901 85 57
+
+
+
+
+**KFUK-KFUM Uppsala Aikidoklubb**
+
+    123 370 51 75
 
 
 
@@ -40375,6 +40446,13 @@ Nummer: 14286
 
 
 
+**Limhamns Motorklubb**
+
+    123 006 58 62
+
+
+
+
 **Limhamns Museiförening**
 
     123 137 40 65
@@ -42241,6 +42319,13 @@ Nummer: 14286
 
 
 
+**Lugi Handbollsförening**
+
+    123 670 01 32
+
+
+
+
 **Lugi Judoklubb**
 
     123 465 70 11
@@ -42337,6 +42422,13 @@ Nummer: 14286
 **Luleå Brukshundklubb**
 
     123 413 88 97
+
+
+
+
+**Luleå Cheerleadingförening, LCD**
+
+    123 018 44 99
 
 
 
@@ -46377,6 +46469,13 @@ Nummer: 14286
 
 
 
+**Mälarö Skid- och Orienteringsklubb**
+
+    123 420 41 78
+
+
+
+
 **Mälaröarnas Ridklubb**
 
     123 126 10 31
@@ -50378,6 +50477,13 @@ Nummer: 14286
 
 
 
+**Oskarshamns Basketbollklubb, OBBK**
+
+    123 536 78 59
+
+
+
+
 **Oskarshamns Boxningsklubb**
 
     123 589 34 82
@@ -51942,6 +52048,8 @@ Nummer: 14286
 
 
 **Piteå Idrottsförening**
+
+    123 599 33 73
 
     123 634 65 14 - P09
 
@@ -57414,6 +57522,13 @@ Nummer: 14286
 
 
 
+**Råtorps Idrottsklubb**
+
+    123 137 17 31 - Kiosk
+
+
+
+
 **Råtthjälpen**
 
     123 287 30 57
@@ -60564,6 +60679,13 @@ Nummer: 14286
 **Skillingaryd Attila Brukshundsklubb**
 
     123 568 58 21
+
+
+
+
+**Skillingaryds Gymnastikförening**
+
+    123 197 98 55
 
 
 
@@ -64856,6 +64978,13 @@ Nummer: 14286
 **Stenungsunds Discgolf**
 
     123 520 92 91
+
+
+
+
+**Stenungsunds Handbollsklubb**
+
+    123 570 57 36
 
 
 
@@ -74278,6 +74407,13 @@ Nummer: 14286
 
 
 
+**Tingsryd United Footballclub**
+
+    123 240 36 81
+
+
+
+
 **Tingsryds Pastorat**
 
     123 380 19 09 - Gravljus
@@ -80756,6 +80892,13 @@ Nummer: 14286
 
 
 
+**Värnamo Gymnastikklubb**
+
+    123 614 69 89
+
+
+
+
 **Värnamo Hockey**
 
     123 442 43 13
@@ -83792,6 +83935,13 @@ Nummer: 14286
 
 
 
+**Ängelholms Fotbollsförening**
+
+    123 683 26 53 - F15
+
+
+
+
 **Ängelholms Församling**
 
     123 001 42 09 - Ukraina, Zaporizjzja
@@ -84235,6 +84385,13 @@ Nummer: 14286
 **Åkersberga Golfklubb**
 
     123 401 78 51
+
+
+
+
+**Åkersberga IBF**
+
+    123 393 03 28
 
 
 
@@ -84732,6 +84889,13 @@ Nummer: 14286
 **Åstorps FF**
 
     123 031 06 31
+
+
+
+
+**Åstorps Gymnastikförening**
+
+    123 005 23 99
 
 
 
