@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-01-26-rev-164510",
+    "date": "2025-01-26-rev-173508",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -44535,6 +44535,16 @@
       "web": "https://skargardsstiftelsen.se/"
     },
     {
+      "entry": 1231993898,
+      "orgName": "H\u00f6\u00f6rs F\u00f6rsamling",
+      "orgNumber": "252002-9386",
+      "comment": "Kollekt Norra R\u00f6rum kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hoor"
+    },
+    {
       "entry": 1231993955,
       "orgName": "Immanuelskyrkan i \u00d6rebro",
       "orgNumber": "875000-4502",
@@ -50463,6 +50473,16 @@
         "sn\u00f6skoterklubb"
       ],
       "web": "https://sollefteamotorklubb.klubbenonline.se/"
+    },
+    {
+      "entry": 1232251841,
+      "orgName": "Tysslinge F\u00f6rsamling",
+      "orgNumber": "252002-7257",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tysslinge"
     },
     {
       "entry": 1232252286,
@@ -67769,6 +67789,16 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://drakamollan.com/drakamollans-vanner/"
+    },
+    {
+      "entry": 1233049442,
+      "orgName": "Tollarps F\u00f6rsamling",
+      "orgNumber": "252005-0283",
+      "comment": "Kollekt Linder\u00f6ds kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/tollarp"
     },
     {
       "entry": 1233049459,
@@ -99327,6 +99357,16 @@
       "web": "https://www.laget.se/BKUnion/"
     },
     {
+      "entry": 1234580890,
+      "orgName": "Tr\u00e4sl\u00f6vs F\u00f6rsamling",
+      "orgNumber": "252001-4024",
+      "comment": "Kollekt",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/traslov"
+    },
+    {
       "entry": 1234580965,
       "orgName": "Lions Club Sm\u00e5landsstenar",
       "orgNumber": "928500-5485",
@@ -101653,6 +101693,16 @@
         "religion"
       ],
       "web": "https://elungdom.se/"
+    },
+    {
+      "entry": 1234676946,
+      "orgName": "H\u00f6\u00f6rs F\u00f6rsamling",
+      "orgNumber": "252002-9386",
+      "comment": "Kollekt Tj\u00f6rnarp kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hoor"
     },
     {
       "entry": 1234677316,
@@ -118709,6 +118759,16 @@
       "web": "https://www.lillantennis.nu/"
     },
     {
+      "entry": 1235510748,
+      "orgName": "H\u00f6\u00f6rs F\u00f6rsamling",
+      "orgNumber": "252002-9386",
+      "comment": "Kollekt Munkarp kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hoor"
+    },
+    {
       "entry": 1235510755,
       "orgName": "Aln\u00f6 BC",
       "orgNumber": "889201-2124",
@@ -128458,6 +128518,16 @@
       "web": "https://www.johansmc.se/"
     },
     {
+      "entry": 1235935903,
+      "orgName": "Sk\u00e4rstad-\u00d6lmstad F\u00f6rsamling",
+      "orgNumber": "252004-2751",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/skarstad"
+    },
+    {
       "entry": 1235936240,
       "orgName": "Ulricehamns MK",
       "orgNumber": "865500-5513",
@@ -132092,6 +132162,16 @@
       "web": "https://enangersbygdegard.se/"
     },
     {
+      "entry": 1236123947,
+      "orgName": "Melleruds F\u00f6rsamling",
+      "orgNumber": "252005-1208",
+      "comment": "Kollekt \u00d6rs kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/mellerud"
+    },
+    {
       "entry": 1236126320,
       "orgName": "Tran\u00e5s BoIS",
       "orgNumber": "826500-4351",
@@ -132646,6 +132726,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://varnamogymnastikklubb.sportadmin.se/"
+    },
+    {
+      "entry": 1236147086,
+      "orgName": "Melleruds F\u00f6rsamling",
+      "orgNumber": "252005-1208",
+      "comment": "Kollekt Sk\u00e5lleruds kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/mellerud"
     },
     {
       "entry": 1236147391,
@@ -147698,6 +147788,16 @@
       "web": "https://www.svenskalag.se/bjorkviksif"
     },
     {
+      "entry": 1236826549,
+      "orgName": "H\u00f6\u00f6rs F\u00f6rsamling",
+      "orgNumber": "252002-9386",
+      "comment": "Kollekt H\u00f6\u00f6rs kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hoor"
+    },
+    {
       "entry": 1236826663,
       "orgName": "Brunnsparkskyrkan",
       "orgNumber": "826500-5234",
@@ -151005,6 +151105,16 @@
         "religion"
       ],
       "web": "https://pingstkaxholmen.se/"
+    },
+    {
+      "entry": 1236991251,
+      "orgName": "H\u00f6\u00f6rs F\u00f6rsamling",
+      "orgNumber": "252002-9386",
+      "comment": "Kollekt Hallar\u00f6d kyrka",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/hoor"
     },
     {
       "entry": 1236991269,

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-26-rev-164545
+Revision: 2025-01-26-rev-173544
 
-Nummer: 14358
+Nummer: 14369
 
 
 
@@ -29281,6 +29281,16 @@ Nummer: 14358
 
     123 043 86 30
 
+    123 199 38 98 - Kollekt Norra Rörum kyrka
+
+    123 467 69 46 - Kollekt Tjörnarp kyrka
+
+    123 551 07 48 - Kollekt Munkarp kyrka
+
+    123 682 65 49 - Kollekt Höörs kyrka
+
+    123 699 12 51 - Kollekt Hallaröd kyrka
+
 
 
 
@@ -44894,6 +44904,10 @@ Nummer: 14358
     123 205 21 81
 
     123 478 48 07
+
+    123 612 39 47 - Kollekt Örs kyrka
+
+    123 614 70 86 - Kollekt Skålleruds kyrka
 
     123 650 03 67 - Kollekt
 
@@ -61462,6 +61476,13 @@ Nummer: 14358
 
 
 
+**Skärstad-Ölmstad Församling**
+
+    123 593 59 03
+
+
+
+
 **Skärså AIK**
 
     123 388 30 71
@@ -74969,6 +74990,8 @@ Nummer: 14358
 
     123 273 69 24 - Ljuständning på grav
 
+    123 304 94 42 - Kollekt Linderöds kyrka
+
 
 
 
@@ -76063,6 +76086,13 @@ Nummer: 14358
 
 
 
+**Träslövs Församling**
+
+    123 458 08 90 - Kollekt
+
+
+
+
 **Träslövsläge IF**
 
     123 161 06 41
@@ -76564,6 +76594,13 @@ Nummer: 14358
 **Tyska S:ta Gertruds Församling**
 
     123 694 29 08
+
+
+
+
+**Tysslinge Församling**
+
+    123 225 18 41
 
 
 
