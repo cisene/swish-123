@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-24-rev-165926
+Revision: 2025-01-26-rev-010628
 
-Nummer: 14259
+Nummer: 14286
 
 
 
@@ -3348,7 +3348,11 @@ Nummer: 14259
 
 **Avesta BK**
 
+    123 149 98 05 - J18
+
     123 180 79 57
+
+    123 669 11 33
 
 
 
@@ -18922,6 +18926,13 @@ Nummer: 14259
 
 
 
+**Frösö IF**
+
+    123 178 07 09
+
+
+
+
 **Frösö Sunne Norderö Församling**
 
     123 032 16 04 - Kollekt Hornsbergskyrkan
@@ -29070,6 +29081,13 @@ Nummer: 14259
 
 
 
+**Hörby Fotbollsförening**
+
+    123 162 78 92
+
+
+
+
 **Höreda Församling**
 
     123 592 43 29 - Kollekt
@@ -29795,6 +29813,13 @@ Nummer: 14259
 **IFK Arboga IBK**
 
     123 106 56 71
+
+
+
+
+**IFK Arboga Ishockeyklubb**
+
+    123 176 71 10
 
 
 
@@ -33202,6 +33227,13 @@ Nummer: 14259
 **Järfälla SK**
 
     123 627 19 10
+
+
+
+
+**Järla IF**
+
+    123 225 52 97
 
 
 
@@ -44519,6 +44551,13 @@ Nummer: 14259
 
 
 
+**Medåkers Idrottsförening**
+
+    123 146 47 67
+
+
+
+
 **Meetly / Festmäklarna Sverige AB**
 
     123 115 48 48
@@ -46828,6 +46867,20 @@ Nummer: 14259
 **Nacka Gymnastikförening**
 
     123 551 41 87
+
+
+
+
+**Nacka Hockeyklubb**
+
+    123 229 51 03
+
+
+
+
+**Nacka Judoklubb**
+
+    123 306 67 76
 
 
 
@@ -49244,6 +49297,13 @@ Nummer: 14259
 
 
 
+**Nässjö Hockeyclub**
+
+    123 318 39 51
+
+
+
+
 **Nässjö IBF**
 
     123 237 77 52
@@ -50772,6 +50832,13 @@ Nummer: 14259
 **Partille Scoutkår**
 
     123 070 09 06
+
+
+
+
+**Partille Taekwon-do**
+
+    123 577 52 83
 
 
 
@@ -55743,6 +55810,13 @@ Nummer: 14259
 
 
 
+**Romfartuna Gymnastik o IF**
+
+    123 553 35 83
+
+
+
+
 **Romfartuna JSK**
 
     123 326 31 00
@@ -55777,6 +55851,13 @@ Nummer: 14259
 **Ronald McDonald Hus Lund**
 
     123 137 19 12
+
+
+
+
+**Ronneby Bollklubb**
+
+    123 627 80 63
 
 
 
@@ -60078,6 +60159,13 @@ Nummer: 14259
 
 
 
+**Skara Innebandyklubb**
+
+    123 114 58 87
+
+
+
+
 **Skara-Lundsbrunns Järnvägar, SkLJ**
 
     123 511 60 66
@@ -60159,6 +60247,13 @@ Nummer: 14259
 **Skarv Sthlm / Sofia Sjöqvist**
 
     123 461 54 49
+
+
+
+
+**Skating & Dance Academy**
+
+    123 667 45 35
 
 
 
@@ -61195,6 +61290,13 @@ Nummer: 14259
 **Sköllersta Hembygdsförening**
 
     123 513 68 58
+
+
+
+
+**Sköllersta Idrottsförening**
+
+    123 577 44 50
 
 
 
@@ -66007,6 +66109,13 @@ Nummer: 14259
 **Stockholm Trekkers, Star Trek fan club**
 
     123 641 85 86
+
+
+
+
+**Stockholms AIF Boxning**
+
+    123 166 72 11
 
 
 
@@ -75479,6 +75588,13 @@ Nummer: 14259
 
 
 
+**Trosa-Vagnhärad Sportklubb**
+
+    123 540 38 60
+
+
+
+
 **Trosabygdens Konstförening**
 
     123 334 81 09
@@ -78738,6 +78854,13 @@ Nummer: 14259
 
 
 
+**Verdandi**
+
+    123 313 61 73
+
+
+
+
 **Verkavikens Samfällighetsförening**
 
     123 094 52 12
@@ -79382,6 +79505,19 @@ Nummer: 14259
 
 
 
+**Vindelns Idrottsförening**
+
+    123 188 46 42 - föreningen, fakturabetalningar
+
+    123 449 33 34 - Alpina sektionen
+
+    123 495 91 02 - Fotbollssektionen
+
+    123 652 66 69 - Innebandysektionen
+
+
+
+
 **Vindelns Ridklubb**
 
     123 147 43 78 - Hästtransport
@@ -79454,6 +79590,13 @@ Nummer: 14259
 **Vinslövs Bygdedansare**
 
     123 118 41 00
+
+
+
+
+**Vinslövs Idrottsförening**
+
+    123 416 09 09
 
 
 
@@ -81580,6 +81723,13 @@ Nummer: 14259
 
 
 
+**Västra Frölunda IF**
+
+    123 139 38 91
+
+
+
+
 **Västra Frölunda Konståkningsklubb, VFKK**
 
     123 515 20 95
@@ -83619,6 +83769,13 @@ Nummer: 14259
 
 
 
+**Ängelholms Brottarklubb**
+
+    123 570 03 80
+
+
+
+
 **Ängelholms Ekumeniska Församling**
 
     123 206 26 44 - Rönnekyrkan, Ukraina-insamling
@@ -85585,6 +85742,8 @@ Nummer: 14259
 
 
 **Örnsköldsviks Konståkningsklubb, ÖKK**
+
+    123 040 17 29
 
     123 355 93 41 - Isgalan Entré
 

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-01-24-rev-165851",
+    "date": "2025-01-26-rev-010553",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8913,6 +8913,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/gimopastorat"
+    },
+    {
+      "entry": 1230401729,
+      "orgName": "\u00d6rnsk\u00f6ldsviks Konst\u00e5kningsklubb, \u00d6KK",
+      "orgNumber": "889601-4589",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb"
+      ],
+      "web": "https://ovikskk.sportadmin.se/"
     },
     {
       "entry": 1230401851,
@@ -25562,6 +25573,17 @@
       "web": "http://www.pingstosd.se/"
     },
     {
+      "entry": 1231145887,
+      "orgName": "Skara Innebandyklubb",
+      "orgNumber": "868400-9510",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "http://skaraibk.sportadmin.se/"
+    },
+    {
       "entry": 1231146190,
       "orgName": "V\u00e4dd\u00f6 IF",
       "orgNumber": "814400-2899",
@@ -31299,6 +31321,17 @@
       "web": "https://www.operationaid.org/sv"
     },
     {
+      "entry": 1231393891,
+      "orgName": "V\u00e4stra Fr\u00f6lunda IF",
+      "orgNumber": "857201-9043",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": null
+    },
+    {
       "entry": 1231394949,
       "orgName": "K\u00f6pings Nya Trafikskola AB",
       "orgNumber": "559186-7675",
@@ -32311,6 +32344,16 @@
         "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/ort/skane/hassleholms-kommun/"
+    },
+    {
+      "entry": 1231464767,
+      "orgName": "Med\u00e5kers Idrottsf\u00f6rening",
+      "orgNumber": "878500-2422",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://medakersif.sportadmin.se/"
     },
     {
       "entry": 1231464924,
@@ -33843,6 +33886,17 @@
         "underh\u00e5llning"
       ],
       "web": "https://www.martagarden.se/"
+    },
+    {
+      "entry": 1231499805,
+      "orgName": "Avesta BK",
+      "orgNumber": "982000-1668",
+      "comment": "J18",
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://avestabk.sportadmin.se/"
     },
     {
       "entry": 1231499839,
@@ -36552,6 +36606,18 @@
       "web": "http://www.lionsfarjestaden.se/"
     },
     {
+      "entry": 1231627892,
+      "orgName": "H\u00f6rby Fotbollsf\u00f6rening",
+      "orgNumber": "842000-3348",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "parasport"
+      ],
+      "web": "https://www.horbyff.se/"
+    },
+    {
       "entry": 1231628080,
       "orgName": "Anderstorps Skyttef\u00f6rening",
       "orgNumber": "828500-2997",
@@ -37187,6 +37253,17 @@
         "fiskev\u00e5rdsomr\u00e5de"
       ],
       "web": "https://www.facebook.com/Storasjon"
+    },
+    {
+      "entry": 1231667211,
+      "orgName": "Stockholms AIF Boxning",
+      "orgNumber": "802008-4276",
+      "comment": null,
+      "categories": [
+        "boxningsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://aifboxning.se/"
     },
     {
       "entry": 1231667633,
@@ -39568,6 +39645,17 @@
       "web": "https://castellanerna.se/"
     },
     {
+      "entry": 1231767110,
+      "orgName": "IFK Arboga Ishockeyklubb",
+      "orgNumber": "878500-6076",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.arbogahockey.se/"
+    },
+    {
       "entry": 1231767235,
       "orgName": "Kristianstads Zontaklubb",
       "orgNumber": "802491-9683",
@@ -39822,6 +39910,19 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.valboaif.se/"
+    },
+    {
+      "entry": 1231780709,
+      "orgName": "Fr\u00f6s\u00f6 IF",
+      "orgNumber": "802530-2236",
+      "comment": null,
+      "categories": [
+        "cykelklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://frosoif.se/"
     },
     {
       "entry": 1231780873,
@@ -41950,6 +42051,19 @@
         "tennisklubb"
       ],
       "web": "https://sketennis.se/"
+    },
+    {
+      "entry": 1231884642,
+      "orgName": "Vindelns Idrottsf\u00f6rening",
+      "orgNumber": "894000-2671",
+      "comment": "f\u00f6reningen, fakturabetalningar",
+      "categories": [
+        "alpinklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "http://vindelnsif.sportadmin.se/"
     },
     {
       "entry": 1231884758,
@@ -50169,6 +50283,18 @@
       "web": "https://www.falkopingsgk.com/"
     },
     {
+      "entry": 1232255297,
+      "orgName": "J\u00e4rla IF",
+      "orgNumber": "814000-0202",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.jarlaif.se/"
+    },
+    {
       "entry": 1232255313,
       "orgName": "Pingstf\u00f6rsamlingen K\u00f6ping",
       "orgNumber": "878500-0921",
@@ -51363,6 +51489,17 @@
         "florist"
       ],
       "web": "https://soderblommor.interflora.se/"
+    },
+    {
+      "entry": 1232295103,
+      "orgName": "Nacka Hockeyklubb",
+      "orgNumber": "814000-3933",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.nackahockey.se/"
     },
     {
       "entry": 1232295269,
@@ -67704,6 +67841,18 @@
       "web": "https://www.hembygd.se/malexander"
     },
     {
+      "entry": 1233066776,
+      "orgName": "Nacka Judoklubb",
+      "orgNumber": "814000-5748",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "judoklubb",
+        "kampsportsf\u00f6rening"
+      ],
+      "web": "https://nackajudoklubb.sportadmin.se/"
+    },
+    {
       "entry": 1233068939,
       "orgName": "F\u00f6reningen Kulturarv Djurhamn",
       "orgNumber": "802519-3924",
@@ -69145,6 +69294,16 @@
       "web": "https://www.posk.se/lundby/"
     },
     {
+      "entry": 1233136173,
+      "orgName": "Verdandi",
+      "orgNumber": "802002-5097",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.verdandi.se/"
+    },
+    {
       "entry": 1233136470,
       "orgName": "Kvinnojouren i Lycksele",
       "orgNumber": "802420-4912",
@@ -69801,6 +69960,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.uppsalahk.se/"
+    },
+    {
+      "entry": 1233183951,
+      "orgName": "N\u00e4ssj\u00f6 Hockeyclub",
+      "orgNumber": "827000-5633",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://nassjohc.sportadmin.se/"
     },
     {
       "entry": 1233186392,
@@ -90085,6 +90255,16 @@
       "web": "https://www.svenskalag.se/kungkarlbk"
     },
     {
+      "entry": 1234160909,
+      "orgName": "Vinsl\u00f6vs Idrottsf\u00f6rening",
+      "orgNumber": "837000-2928",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://vinslovsif.sportadmin.se/"
+    },
+    {
       "entry": 1234161188,
       "orgName": "Insamlingsstiftelsen Power Woman Foundation",
       "orgNumber": "802481-3217",
@@ -96749,6 +96929,18 @@
         "hundsport"
       ],
       "web": "https://www.bassetsyd.se/"
+    },
+    {
+      "entry": 1234493334,
+      "orgName": "Vindelns Idrottsf\u00f6rening",
+      "orgNumber": "894000-2671",
+      "comment": "Alpina sektionen",
+      "categories": [
+        "alpinklubb",
+        "idrottsf\u00f6rening",
+        "slalomklubb"
+      ],
+      "web": "http://vindelnsif.sportadmin.se/"
     },
     {
       "entry": 1234493458,
@@ -105517,6 +105709,17 @@
         "yoga"
       ],
       "web": "https://zoloz.se/"
+    },
+    {
+      "entry": 1234959102,
+      "orgName": "Vindelns Idrottsf\u00f6rening",
+      "orgNumber": "894000-2671",
+      "comment": "Fotbollssektionen",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://vindelnsif.sportadmin.se/"
     },
     {
       "entry": 1234959482,
@@ -115810,6 +116013,16 @@
       "web": "https://tjing.se/club/wexio-disc-golf/"
     },
     {
+      "entry": 1235403860,
+      "orgName": "Trosa-Vagnh\u00e4rad Sportklubb",
+      "orgNumber": "819000-3908",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://trosavagnharadsk.sportadmin.se/"
+    },
+    {
       "entry": 1235406152,
       "orgName": "Sk\u00e5rekyrkans F\u00f6rsamling",
       "orgNumber": "873200-0610",
@@ -118742,6 +118955,17 @@
         "psykisk h\u00e4lsa"
       ],
       "web": "https://kungoverlivet.se/"
+    },
+    {
+      "entry": 1235533583,
+      "orgName": "Romfartuna Gymnastik o IF",
+      "orgNumber": "878001-7144",
+      "comment": null,
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://romfartunagif.sportadmin.se/"
     },
     {
       "entry": 1235534045,
@@ -122588,6 +122812,17 @@
       "web": "https://www.annelundsif.com/"
     },
     {
+      "entry": 1235700380,
+      "orgName": "\u00c4ngelholms Brottarklubb",
+      "orgNumber": "839400-1864",
+      "comment": null,
+      "categories": [
+        "brottningsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://angelholmsbrottarklubb.sportadmin.se/"
+    },
+    {
       "entry": 1235700547,
       "orgName": "Getinge Bowling BK",
       "orgNumber": "802447-5371",
@@ -124300,6 +124535,17 @@
       "web": "https://www.nilssonsmuseum.se/"
     },
     {
+      "entry": 1235774450,
+      "orgName": "Sk\u00f6llersta Idrottsf\u00f6rening",
+      "orgNumber": "875700-4752",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "motionsgymnastik"
+      ],
+      "web": "https://skollerstaif.sportadmin.se/"
+    },
+    {
       "entry": 1235775051,
       "orgName": "Stigtomta-Vrena F\u00f6rsamling",
       "orgNumber": "252002-7158",
@@ -124319,6 +124565,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.dosjobroif.com/"
+    },
+    {
+      "entry": 1235775283,
+      "orgName": "Partille Taekwon-do",
+      "orgNumber": "802456-9371",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kampsportsf\u00f6rening",
+        "taekwondoklubb"
+      ],
+      "web": "https://partilletaekwondo.sportadmin.se/"
     },
     {
       "entry": 1235776083,
@@ -134931,6 +135189,17 @@
       "web": "https://s\u00f6derb\u00e4rkehembygdsf\u00f6rening.se/"
     },
     {
+      "entry": 1236278063,
+      "orgName": "Ronneby Bollklubb",
+      "orgNumber": "835600-0714",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://ronnebybk.sportadmin.se/"
+    },
+    {
       "entry": 1236278410,
       "orgName": "Kvinnojouren KAK",
       "orgNumber": "802414-0389",
@@ -140062,6 +140331,17 @@
       "web": "https://www.svenskakyrkan.se/norrabilling"
     },
     {
+      "entry": 1236526669,
+      "orgName": "Vindelns Idrottsf\u00f6rening",
+      "orgNumber": "894000-2671",
+      "comment": "Innebandysektionen",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "http://vindelnsif.sportadmin.se/"
+    },
+    {
       "entry": 1236527014,
       "orgName": "Rasbo IK",
       "orgNumber": "817601-0299",
@@ -142800,6 +143080,18 @@
       "web": "https://voov.nu/"
     },
     {
+      "entry": 1236674535,
+      "orgName": "Skating & Dance Academy",
+      "orgNumber": "802459-0773",
+      "comment": null,
+      "categories": [
+        "dansf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "skridskoklubb"
+      ],
+      "web": "http://skatingodanceacademy.sportadmin.se/"
+    },
+    {
       "entry": 1236674659,
       "orgName": "Njurunda SK",
       "orgNumber": "889201-0953",
@@ -143505,6 +143797,17 @@
         "religion"
       ],
       "web": "https://www.koranpodden.se/"
+    },
+    {
+      "entry": 1236691133,
+      "orgName": "Avesta BK",
+      "orgNumber": "982000-1668",
+      "comment": null,
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "http://avestabk.sportadmin.se/"
     },
     {
       "entry": 1236691141,
