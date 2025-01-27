@@ -95,6 +95,10 @@ def httpHEAD(url):
     if r.status_code == 200:
       response['message'] = 'OK'
 
+    if r.status_code in [401, 402, 403, 404, 410]:
+      response['message'] = 'OK'
+
+
   except requests.exceptions.ConnectTimeout:
     response['status'] = 0
     response['message'] = 'requests.exceptions.ConnectTimeout'
@@ -152,7 +156,8 @@ def main():
 
     response = httpHEAD(web_url_upgraded)
 
-    if response['status'] == 200:
+    #if response['status'] == 200:
+    if response['status'] in [200, 401, 402, 403, 404, 410]:
       # Write back upgraded URL here - Done
 
       if web_url_upgraded != response['url']:
