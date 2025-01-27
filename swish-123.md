@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-26-rev-173544
+Revision: 2025-01-27-rev-183729
 
-Nummer: 14369
+Nummer: 14402
 
 
 
@@ -2918,6 +2918,19 @@ Nummer: 14369
 **Askims bastu**
 
     123 661 61 89
+
+
+
+
+**Askims Församling**
+
+    123 356 82 19 - Kollekt Mikaelskyrkan
+
+    123 442 43 62 - Kollekt Askims kyrka
+
+    123 589 40 27 - Kollekt
+
+    123 669 55 22 - Kollekt Billdals kyrka
 
 
 
@@ -5896,6 +5909,13 @@ Nummer: 14369
 **Bodens Cykelklubb**
 
     123 194 79 02
+
+
+
+
+**Bodens Diakonifond**
+
+    123 508 68 71
 
 
 
@@ -12377,6 +12397,13 @@ Nummer: 14369
 
 
 
+**Domkyrkoförsamlingen Göteborg**
+
+    123 219 65 09 - Kollekt
+
+
+
+
 **Domkyrkopastoratet Göteborg**
 
     123 511 79 08 - Johannebergs församling
@@ -16968,7 +16995,11 @@ Nummer: 14369
 
 **Finska församlingen i Stockholm**
 
-    123 427 16 31 - Act Svenska kyrkan
+    123 427 16 31 - Kollekt/Kolehti
+
+    123 667 75 12 - Avgifter/Maksut
+
+    123 682 27 12 - Försäljning/Myynti
 
 
 
@@ -28179,7 +28210,7 @@ Nummer: 14369
 
 **Häggenås-Lit-Kyrkås Församling**
 
-    123 142 27 08
+    123 142 27 08 - Gåvor
 
     123 501 52 43 - Kollekt
 
@@ -28211,6 +28242,13 @@ Nummer: 14369
 **Hägra Bygdegårdsförening**
 
     123 458 61 78
+
+
+
+
+**Häljarps Församling**
+
+    123 349 03 56 - Kollekt
 
 
 
@@ -29106,6 +29144,13 @@ Nummer: 14369
     123 238 45 43
 
     123 528 45 18
+
+
+
+
+**Höllvikens Församling**
+
+    123 591 50 53 - Kollekt
 
 
 
@@ -32453,6 +32498,19 @@ Nummer: 14369
 
 
 
+**Istorps Pastorat**
+
+    123 033 88 63 - Kollekt Öxnevalla kyrka
+
+    123 112 14 90 - Donationer & Gåvor
+
+    123 526 57 64 - Kollekt Horreds kyrka
+
+    123 664 46 86 - Kollekt Istorps kyrka
+
+
+
+
 **Istrums SK**
 
     123 580 95 20
@@ -35438,6 +35496,13 @@ Nummer: 14369
 **Kinnareds Hembygdsförening**
 
     123 406 83 00
+
+
+
+
+**Kinnarumma Församling**
+
+    123 554 43 41 - Kollekt
 
 
 
@@ -42447,7 +42512,7 @@ Nummer: 14369
 
 **Lugnås Församling**
 
-    123 082 12 23
+    123 082 12 23 - Gåva
 
 
 
@@ -44902,6 +44967,8 @@ Nummer: 14369
     123 107 72 39
 
     123 205 21 81
+
+    123 305 29 90 - Kollekt Erikstads kyrka
 
     123 478 48 07
 
@@ -49670,6 +49737,8 @@ Nummer: 14369
 
 
 **Nättraby-Hasslö Församling**
+
+    123 138 19 61
 
     123 350 47 76
 
@@ -55365,6 +55434,13 @@ Nummer: 14369
 
 
 
+**RIA i Boden**
+
+    123 181 28 25
+
+
+
+
 **Riala Församling**
 
     123 037 54 93
@@ -59311,6 +59387,13 @@ Nummer: 14369
 
 
 
+**Seglora Församling**
+
+    123 608 43 96 - Kollekt
+
+
+
+
 **Seiki Kai**
 
     123 679 99 02
@@ -62051,7 +62134,7 @@ Nummer: 14369
 
 **Smedstorps Församling**
 
-    123 277 23 25
+    123 277 23 25 - Kollekt
 
 
 
@@ -66776,6 +66859,13 @@ Nummer: 14369
 **Stora Levene Scoutkår**
 
     123 402 70 25
+
+
+
+
+**Stora Lundby-Östad Pastorat**
+
+    123 653 77 08 - Kollekt
 
 
 
@@ -72276,6 +72366,21 @@ Nummer: 14369
 
 
 
+**Sösdala Församling**
+
+    123 062 58 97 - Kollekt Brönnestad
+
+    123 134 46 05 - Kollekt Norra Mellby
+
+    123 246 56 15 - Kollekt Häglinge församlingshem
+
+    123 359 11 04 - Kollekt Johannesgården
+
+    123 450 40 23 - Kollekt Kyrkans hus
+
+
+
+
 **Sösdala IF**
 
     123 149 75 69
@@ -74988,9 +75093,15 @@ Nummer: 14369
 
 **Tollarps Församling**
 
+    123 019 08 92 - Kollekt Västra Vrams kyrka
+
+    123 161 15 08 - Kollekt Östra Vrams kyrka
+
     123 273 69 24 - Ljuständning på grav
 
     123 304 94 42 - Kollekt Linderöds kyrka
+
+    123 419 71 09 - Kollekt Äsphults kyrka
 
 
 
@@ -77078,7 +77189,7 @@ Nummer: 14369
 
 **Ullervads Församling**
 
-    123 571 55 37
+    123 571 55 37 - Kollekt
 
 
 
@@ -78102,6 +78213,13 @@ Nummer: 14369
 
 
 
+**Uppåkra Församling**
+
+    123 291 92 80 - Kollekt
+
+
+
+
 **Upsala IF Friidrott**
 
     123 506 40 43
@@ -79034,6 +79152,19 @@ Nummer: 14369
 **Veberöds Brukshundklubb**
 
     123 617 82 71
+
+
+
+
+**Veberöds Församling**
+
+    123 115 14 97 - Musik & Mat
+
+    123 162 84 11 - Kollekt
+
+    123 612 23 37 - Fredagsmys
+
+    123 678 30 21 - Sopplunch
 
 
 
