@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-01-27-rev-190725
+# Date: 2025-01-28-rev-194007
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -183,6 +183,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230079426	802501-8856	Sea Shepherd Scandinavia	https://www.seashepherdscandinavia.org/	donation,intresseförening,vattenvård	
 1230079814	825003-9693	Blue Berets MC Sweden, BBMC	https://www.bbmc.se/	intresseförening,motorcykelklubb	
 1230079848	802402-0979	Panipirotiska Sällskapet Stockholm	https://www.panipirotiska.se/	hemlandsförening,intresseförening	
+1230079947	252003-0038	Enköpings Pastorat	https://www.svenskakyrkan.se/enkoping	religion	Gåvor
 1230081174	802463-0199	Cosmos Fotbollsklubb	https://www.svenskalag.se/cosmosfk	fotbollsklubb,idrottsförening	
 1230081257	889601-1528	Gottnebygdens Samhällsförening - Gottne Byskola	https://www.gottnebyskola.se/	donation	
 1230081372	802530-4414	Föreningen Cheerxplosion	https://cheerxplosion.sportadmin.se/	idrottsförening	
@@ -2227,6 +2228,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231053727	802441-2952	Nossan Ljusfestival / Grästorps framtidsförening	https://www.facebook.com/nossanljusfestival/	kulturförening	
 1231053917	874400-2455	Equmeniayrkan Holmedal & Blomskog	https://equmeniakyrkan.se/holmedalblomskog/	religion	
 1231055888	849201-2938	Slättåkragården Förening	https://slattakra.com/	bygdegårdsförening,hembygdsförening	
+1231056209	252003-1747	Huddinge Pastorat	https://www.svenskakyrkan.se/huddinge	religion	Mikaelshjälpen
 1231056563	893201-4502	Aspås Hembygdsförening	https://www.hembygd.se/aspas	hembygdsförening	
 1231056571	818000-1029	Eskilstuna GUIF IF	https://www.guif.nu/	handbollsklubb,idrottsförening	Lotterier
 1231056902	863001-0984	Džemat Trollhättan / Bosniakiska Kultur - Islamiska Församlingen	https://izb.se/	hembygdsförening,religion	
@@ -7320,6 +7322,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233567344	802406-8184	Burmaklubben	https://burmaklubben.com/	förening,kattklubb	
 1233568094	252000-1021	Norrtälje-Malsta Församling	https://www.svenskakyrkan.se/roslagens-ostra-pastorat/norrtalje-malsta-forsamling	religion	
 1233568219	252001-5187	Askims Församling	https://www.svenskakyrkan.se/askim	religion	Kollekt Mikaelskyrkan
+1233568300	252003-1242	Partille Pastorat	https://www.svenskakyrkan.se/partille	religion	Gåvor
 1233568474	868401-3157	Bohuslän-Dals Taxklubb	http://www.bohuslandalstaxklubb.se/	hundklubb	
 1233569167	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Värmland, NORDMARKENS SKOLE 7-9
 1233569241	802413-3525	Gotlands Russtrav Klubb	https://www.gotlandsrusstravklubb.com/	ponnyklubb,ponnytrav,russ,travsport	
@@ -8616,6 +8619,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234264164	817602-8606	Läbyvads Hembygdsförening	https://bygdegardarna.se/labyvad/	bygdegårdsförening	
 1234264222	849201-4371	Lions Club Oskarström	https://lions.oskarstrom.com/	lionsklubb	
 1234264305	814401-2450	Edsbro RF	https://www.svenskalag.se/edsbrorf	hästsport,ryttarförening	
+1234267902	252005-0267	Örnsköldsviks södra Pastorat	https://www.svenskakyrkan.se/ornskoldsvikssodra	religion	Gåvor
 1234270096	802507-0809	Team Equus for Hope	https://teamequusforhope.se/	cancerforskning,hästsport	
 1234270294	785000-3406	Bostadsrättsföreningen Mården på Rävpasset i Gävle	https://www.ravpasset.se/	bostadsrättsförening	
 1234270450	825000-5843	EFS i Söderköping	https://www.efsarken.se/	religion	
@@ -8770,6 +8774,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234359402	879500-0226	Huddunge hembygdsförening	https://huddunge.se/hembygdsforeningen/	hembygdsförening	
 1234360525	252004-7537	Toarps Församling	https://www.svenskakyrkan.se/toarp	religion	Diakonala Gåvokontot
 1234361184	802524-6664	Uppsala Okinawa Karateklubb	https://uokk.se/	idrottsförening,kampsportsförening,karateklubb	
+1234361382	252003-8833	Aneby Pastorat	https://www.svenskakyrkan.se/aneby	religion	Gåvor
 1234363883	802534-2125	Föreningen Autisterna	https://autisterna.se/	förening	
 1234365607	894000-0691	KFUM Umeå	https://umea.kfum.se/	idrottsförening,volleybollklubb	Volleyboll
 1234365839	802426-1250	Sverige för UNHCR	https://sverigeforunhcr.se/	godkänd gåvomottagare,hjälporganisation	

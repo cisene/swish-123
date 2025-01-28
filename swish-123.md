@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-27-rev-190744
+Revision: 2025-01-28-rev-194027
 
-Nummer: 14402
+Nummer: 14407
 
 
 
@@ -2006,6 +2006,13 @@ Nummer: 14402
 **Aneby Bibliotek / Aneby Kommun**
 
     123 001 95 21
+
+
+
+
+**Aneby Pastorat**
+
+    123 436 13 82 - Gåvor
 
 
 
@@ -14359,6 +14366,13 @@ Nummer: 14402
 **Enköpings Padel Team**
 
     123 003 96 51
+
+
+
+
+**Enköpings Pastorat**
+
+    123 007 99 47 - Gåvor
 
 
 
@@ -27506,6 +27520,13 @@ Nummer: 14402
 **Huddinge kommun**
 
     123 505 63 87 - Vux Huddinge
+
+
+
+
+**Huddinge Pastorat**
+
+    123 105 62 09 - Mikaelshjälpen
 
 
 
@@ -51157,6 +51178,8 @@ Nummer: 14402
 **Partille Pastorat**
 
     123 317 95 38 - Ukraina
+
+    123 356 83 00 - Gåvor
 
 
 
@@ -86366,6 +86389,8 @@ Nummer: 14402
 **Örnsköldsviks södra Pastorat**
 
     123 217 48 86 - Kyrkogårdsversamheten
+
+    123 426 79 02 - Gåvor
 
     123 698 85 05
 

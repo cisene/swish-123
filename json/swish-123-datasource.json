@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-01-27-rev-190705",
+    "date": "2025-01-28-rev-193947",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -1926,6 +1926,16 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.panipirotiska.se/"
+    },
+    {
+      "entry": 1230079947,
+      "orgName": "Enk\u00f6pings Pastorat",
+      "orgNumber": "252003-0038",
+      "comment": "G\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/enkoping"
     },
     {
       "entry": 1230081174,
@@ -24084,6 +24094,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://slattakra.com/"
+    },
+    {
+      "entry": 1231056209,
+      "orgName": "Huddinge Pastorat",
+      "orgNumber": "252003-1747",
+      "comment": "Mikaelshj\u00e4lpen",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/huddinge"
     },
     {
       "entry": 1231056563,
@@ -79370,6 +79390,16 @@
       "web": "https://www.svenskakyrkan.se/askim"
     },
     {
+      "entry": 1233568300,
+      "orgName": "Partille Pastorat",
+      "orgNumber": "252003-1242",
+      "comment": "G\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/partille"
+    },
+    {
       "entry": 1233568474,
       "orgName": "Bohusl\u00e4n-Dals Taxklubb",
       "orgNumber": "868401-3157",
@@ -93430,6 +93460,16 @@
       "web": "https://www.svenskalag.se/edsbrorf"
     },
     {
+      "entry": 1234267902,
+      "orgName": "\u00d6rnsk\u00f6ldsviks s\u00f6dra Pastorat",
+      "orgNumber": "252005-0267",
+      "comment": "G\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra"
+    },
+    {
       "entry": 1234270096,
       "orgName": "Team Equus for Hope",
       "orgNumber": "802507-0809",
@@ -95115,6 +95155,16 @@
         "karateklubb"
       ],
       "web": "https://uokk.se/"
+    },
+    {
+      "entry": 1234361382,
+      "orgName": "Aneby Pastorat",
+      "orgNumber": "252003-8833",
+      "comment": "G\u00e5vor",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/aneby"
     },
     {
       "entry": 1234363883,
