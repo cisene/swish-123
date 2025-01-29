@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-28-rev-194027
+Revision: 2025-01-29-rev-214629
 
-Nummer: 14407
+Nummer: 14445
 
 
 
@@ -1336,6 +1336,13 @@ Nummer: 14407
 
 
 
+**Alingsås Släktforskarförening**
+
+    123 203 36 52
+
+
+
+
 **Alingsås Sportsclub**
 
     123 012 33 31 - Medlemsavgift
@@ -1914,6 +1921,8 @@ Nummer: 14407
 
     123 170 37 19 - Övrigt
 
+    123 668 72 62 - Gåvor
+
     123 668 73 62 - Kollekt
 
 
@@ -2013,6 +2022,8 @@ Nummer: 14407
 **Aneby Pastorat**
 
     123 436 13 82 - Gåvor
+
+    123 577 75 86 - Gåvor
 
 
 
@@ -2930,6 +2941,8 @@ Nummer: 14407
 
 
 **Askims Församling**
+
+    123 310 97 17 - Gåvor
 
     123 356 82 19 - Kollekt Mikaelskyrkan
 
@@ -6242,6 +6255,8 @@ Nummer: 14407
 **Boo Församling**
 
     123 432 66 17
+
+    123 533 49 66 - Gåvor
 
 
 
@@ -9962,6 +9977,13 @@ Nummer: 14407
 **Centrum för rättvisa, en insamlingsstiftelse**
 
     123 900 15 38
+
+
+
+
+**Centrum för Svensk Knyplling i Vadstena**
+
+    123 216 03 07
 
 
 
@@ -15137,6 +15159,13 @@ Nummer: 14407
 **Equmeniakyrkan Ölme**
 
     123 267 05 94
+
+
+
+
+**Equmeniakyrkan Ölme**
+
+    123 601 10 01
 
 
 
@@ -20378,6 +20407,13 @@ Nummer: 14407
 
 
 
+**Föreningen Kilsbergsstugan**
+
+    123 675 46 59
+
+
+
+
 **Föreningen Kisumu**
 
     123 607 26 98
@@ -23772,6 +23808,13 @@ Nummer: 14407
 **Gärds Köpinge IF**
 
     123 575 03 10
+
+
+
+
+**Gärds Ryttarförening**
+
+    123 468 85 78
 
 
 
@@ -28117,6 +28160,13 @@ Nummer: 14407
 
 
 
+**Hylliekrokens Golfcenter AB**
+
+    123 032 28 26
+
+
+
+
 **Hylte Bastubadareförening**
 
     123 376 03 86
@@ -28692,6 +28742,13 @@ Nummer: 14407
 **Hässleholms Ridhusförening**
 
     123 280 56 53
+
+
+
+
+**Hässleholms Ridklubb**
+
+    123 079 26 63
 
 
 
@@ -33098,6 +33155,8 @@ Nummer: 14407
 
 **Jukkasjärvi Församling**
 
+    123 343 12 10 - Gåvor
+
     123 633 46 50
 
 
@@ -35867,6 +35926,13 @@ Nummer: 14407
 
 
 
+**Klinte Pastorat**
+
+    123 181 36 25 - Gåvor
+
+
+
+
 **Klippans Förenade FF**
 
     123 467 34 48
@@ -37341,6 +37407,13 @@ Nummer: 14407
 
 
 
+**Kristinehamns Samkristna Råd, KSR**
+
+    123 607 12 45
+
+
+
+
 **Kristna Fredsrörelsen**
 
     123 900 03 16
@@ -37661,6 +37734,13 @@ Nummer: 14407
 **Kulturens Bildningsverksamhet**
 
     123 063 33 70
+
+
+
+
+**Kulturförening Norra Gotland, KUNO**
+
+    123 135 16 75
 
 
 
@@ -38037,6 +38117,13 @@ Nummer: 14407
 
 
 
+**Kungsängens Tennisklubb**
+
+    123 589 08 35
+
+
+
+
 **Kungsåra bygdegård**
 
     123 025 26 92
@@ -38110,13 +38197,6 @@ Nummer: 14407
 **Kungälvs Karateklubb**
 
     123 152 85 87
-
-
-
-
-**KUNO - Kulturförening Norra Gotland**
-
-    123 135 16 75
 
 
 
@@ -40914,6 +40994,13 @@ Nummer: 14407
 
 
 
+**Linköping Air Swing**
+
+    123 544 71 31
+
+
+
+
 **Linköping FC**
 
     123 587 10 09
@@ -42928,6 +43015,13 @@ Nummer: 14407
 **Lunds Volleybollklubb**
 
     123 085 55 28
+
+
+
+
+**Lunds Östra Stadsförsamling**
+
+    123 551 73 96 - Gåvor
 
 
 
@@ -47194,6 +47288,8 @@ Nummer: 14407
 
     123 228 80 17 - Guds Hus
 
+    123 240 33 68 - Burmagruppen
+
     123 303 43 29 - Diakonin i Nacka församling
 
     123 363 58 51 - Gatubarn i Manilla
@@ -49392,6 +49488,13 @@ Nummer: 14407
 
 
 
+**Nyköpings Frisksportklubb**
+
+    123 169 30 27
+
+
+
+
 **Nyköpings Församling**
 
     123 199 52 99 - Nyköpingshjälpen
@@ -49553,6 +49656,13 @@ Nummer: 14407
 
 
 
+**Näsby-Fellingsbro församlingar**
+
+    123 285 73 57 - Gåvor
+
+
+
+
 **Näsby IF**
 
     123 299 02 81
@@ -49702,6 +49812,13 @@ Nummer: 14407
 **Näsums IF**
 
     123 426 22 91
+
+
+
+
+**Näsvikens IK**
+
+    123 023 94 83
 
 
 
@@ -51444,6 +51561,8 @@ Nummer: 14407
 
 
 **Personskadeförbundet RTP**
+
+    123 526 26 47
 
     123 900 00 68
 
@@ -57279,6 +57398,13 @@ Nummer: 14407
 
 
 
+**Rullegruppen Göteborg / Rehab Alpin IFF**
+
+    123 127 48 77
+
+
+
+
 **Rultiga Rut Hälsa för Kropp & Själ / Jeanette Johansson**
 
     123 535 87 18
@@ -61117,7 +61243,7 @@ Nummer: 14407
 
 
 
-**Skogslöparna - Orientering**
+**Skogslöparna**
 
     123 555 73 19
 
@@ -61357,6 +61483,13 @@ Nummer: 14407
 **SkrattYoga / HT Helhetstanken**
 
     123 000 73 44
+
+
+
+
+**Skrea Hembygdsförening**
+
+    123 253 85 77
 
 
 
@@ -65118,6 +65251,13 @@ Nummer: 14407
 
 
 
+**Starrkärr-Kilanda Församling**
+
+    123 092 32 01 - Gåvor
+
+
+
+
 **StartupTools Europe AB**
 
     123 624 94 37
@@ -66847,6 +66987,13 @@ Nummer: 14407
 **Stoopendaal & Sundfelt Podcast / Andres Stoopendahl**
 
     123 433 41 73
+
+
+
+
+**Stoppa Bankekinds Bergtäkt**
+
+    123 044 32 18
 
 
 
@@ -69418,6 +69565,13 @@ Nummer: 14407
 
 
 
+**Svenska Kyrkan Mallorca / Svenska Kyrkan i Utlandet**
+
+    123 009 92 83 - Gåvor
+
+
+
+
 **Svenska kyrkan Mölndal**
 
     123 385 11 85 - HBE (Hopp för barn i Etiopien)
@@ -71373,6 +71527,13 @@ Nummer: 14407
 
 
 
+**Sävar-Holmöns Församling**
+
+    123 459 56 25 - Gåvor
+
+
+
+
 **Sävar Jaktskytteklubb**
 
     123 354 06 22
@@ -71988,6 +72149,13 @@ Nummer: 14407
 **Södra Dalarnas Draghundsklubb**
 
     123 527 36 44
+
+
+
+
+**Södra Dalarnas Medeltidsförening**
+
+    123 642 79 83
 
 
 
@@ -74399,6 +74567,13 @@ Nummer: 14407
 
 
 
+**The International Board on Books for Young People, IBBY**
+
+    123 135 28 22
+
+
+
+
 **The Light of My Soul / Ulrika Knutsdotter**
 
     123 696 84 24
@@ -76053,6 +76228,13 @@ Nummer: 14407
 
 
 
+**Trollsländeföreningen**
+
+    123 371 74 36
+
+
+
+
 **Trosa Båtklubb**
 
     123 645 64 87
@@ -76415,6 +76597,13 @@ Nummer: 14407
 
 
 
+**Tusen Toner**
+
+    123 130 03 59
+
+
+
+
 **Tuve Scoutkår**
 
     123 328 98 40
@@ -76577,6 +76766,13 @@ Nummer: 14407
 **Tyresö Bygdegård**
 
     123 668 25 20
+
+
+
+
+**Tyresö Bågskyttar**
+
+    123 430 76 58
 
 
 
@@ -78518,6 +78714,13 @@ Nummer: 14407
 
 
 
+**Valbo-Hedesunda Pastorat**
+
+    123 638 38 14 - Gåvor
+
+
+
+
 **Valbo Hembygdsförening**
 
     123 477 89 99
@@ -80427,7 +80630,7 @@ Nummer: 14407
 
 
 
-**Vittangi församling, Kiruna Pastorat**
+**Vittangi Församling**
 
     123 422 90 76
 
@@ -81118,6 +81321,13 @@ Nummer: 14407
 
 
 
+**Världsbutiken Klotet i Lund**
+
+    123 078 69 47
+
+
+
+
 **Värmbols FC**
 
     123 222 26 02
@@ -81403,7 +81613,7 @@ Nummer: 14407
 
 **Värö-Stråvalla Församling**
 
-    123 470 18 50
+    123 470 18 50 - Gåvor
 
 
 
@@ -82198,7 +82408,7 @@ Nummer: 14407
 
 **Västerås Stifts Kyrkosångsförbund**
 
-    123 286 26 39
+    123 286 26 39 - Gåvor
 
 
 
@@ -82697,6 +82907,13 @@ Nummer: 14407
 **Vårdnäs Stiftsgård / Linköpings Stift**
 
     123 320 02 76
+
+
+
+
+**Vårgårda Fotoklubb**
+
+    123 031 74 53
 
 
 
@@ -83371,6 +83588,13 @@ Nummer: 14407
 
 
 
+**Wällufsbygdens Hembygdsförening**
+
+    123 269 84 13
+
+
+
+
 **Wäsby Warriors**
 
     123 626 13 17
@@ -83381,6 +83605,13 @@ Nummer: 14407
 **Wästra Bolmens Båtklubb, VBBK**
 
     123 606 50 07
+
+
+
+
+**Wäxjö Motorsällskap**
+
+    123 686 05 55
 
 
 
@@ -86400,6 +86631,11 @@ Nummer: 14407
 **Örnsköldsviksortens RK**
 
     123 510 09 95 - Tävlingssektionen
+
+
+
+
+**Örnsköldsviksortens Ryttarklubb**
 
     123 592 20 91
 
