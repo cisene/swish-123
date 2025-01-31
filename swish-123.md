@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-29-rev-214629
+Revision: 2025-01-31-rev-220931
 
-Nummer: 14445
+Nummer: 14476
 
 
 
@@ -9210,7 +9210,7 @@ Nummer: 14445
 
 **Byggnads**
 
-    123 671 26 24 - Norrbotten
+    123 671 26 24 - Väst
 
 
 
@@ -11480,6 +11480,48 @@ Nummer: 14445
 **Delta Inkasso / Great Week AB**
 
     123 459 99 24
+
+
+
+
+**Demensföreningen i Alingsås-Vårgårda**
+
+    123 116 15 04
+
+
+
+
+**Demensföreningen i Bjäre**
+
+    123 638 09 19
+
+
+
+
+**Demensföreningen i Lerum**
+
+    123 528 41 12
+
+
+
+
+**Demensföreningen i Stockholm**
+
+    123 680 00 15
+
+
+
+
+**Demensföreningen i Vansbro**
+
+    123 432 81 18
+
+
+
+
+**Demensföreningen i Åmål**
+
+    123 469 37 43
 
 
 
@@ -17196,6 +17238,13 @@ Nummer: 14445
 
 
 
+**Fisksätra Folkets Hus**
+
+    123 598 35 49
+
+
+
+
 **Fisksätra Kattförening**
 
     123 109 95 48
@@ -20304,6 +20353,13 @@ Nummer: 14445
 
 
 
+**Föreningen Hofterups Byastuga**
+
+    123 570 88 05
+
+
+
+
 **Föreningen Hyttan, Axmar Bruk**
 
     123 327 66 56
@@ -21326,6 +21382,13 @@ Nummer: 14445
 **Första Hjälpengruppen Alpha**
 
     123 263 04 65
+
+
+
+
+**Försvarets Motorklubb Livgardet Kungsängen**
+
+    123 157 26 92
 
 
 
@@ -26547,6 +26610,13 @@ Nummer: 14445
 
 
 
+**Hestra IF**
+
+    123 024 13 80
+
+
+
+
 **Heyman & Glittsjö AB**
 
     123 123 45 74 - Hegli Restaurang
@@ -26982,6 +27052,11 @@ Nummer: 14445
 
     123 104 96 34
 
+
+
+
+**Hjärt-och Lungsjukas lokalförening Örebro**
+
     123 689 56 92 - Sverigelotter
 
 
@@ -27115,6 +27190,13 @@ Nummer: 14445
 **Hofors Motorsällskap**
 
     123 338 10 92
+
+
+
+
+**Hofors Ridsällskap**
+
+    123 040 09 52
 
 
 
@@ -27901,13 +27983,6 @@ Nummer: 14445
 **Hundomplaceringsverksamheten**
 
     123 588 32 69
-
-
-
-
-**Hundstallet - Svenska Hundskyddsföreningen**
-
-    123 900 55 70
 
 
 
@@ -29691,6 +29766,13 @@ Nummer: 14445
 **Idag i historien / Nils Hjort, Enhjort AB**
 
     123 447 83 27
+
+
+
+
+**Idbyns Vi Unga Klubb**
+
+    123 673 77 79
 
 
 
@@ -34819,6 +34901,13 @@ Nummer: 14445
 
 
 
+**Karolinska Institutet, Centrum för Molekylär Medicin, CMM**
+
+    123 245 79 76 - Myositforskningen
+
+
+
+
 **Karolinska Institutet, Fondförvaltning**
 
     123 202 32 08
@@ -36378,6 +36467,13 @@ Nummer: 14445
 
 
 
+**Konsertföreningen Tingsryd**
+
+    123 351 03 51
+
+
+
+
 **Konserthuset Stockholm / Stockholms Konserthusstiftelse**
 
     123 408 85 63
@@ -37396,6 +37492,13 @@ Nummer: 14445
 **Kristinehamns Nämndemannaförening**
 
     123 134 44 98
+
+
+
+
+**Kristinehamns Orienteringsklubb**
+
+    123 671 90 74
 
 
 
@@ -44495,6 +44598,13 @@ Nummer: 14445
 
 
 
+**Markaryds Fågelklubb**
+
+    123 267 61 61
+
+
+
+
 **Markaryds Församling**
 
     123 074 79 07 - Gravskötsel
@@ -47229,7 +47339,7 @@ Nummer: 14445
 
 
 
-**Mörrums RF - Ridsport**
+**Mörrums Ryttarförening**
 
     123 258 75 09
 
@@ -49048,6 +49158,13 @@ Nummer: 14445
 
 
 
+**North Power Stockholm**
+
+    123 120 93 94
+
+
+
+
 **Northern Light Aid**
 
     123 244 56 17
@@ -50316,6 +50433,13 @@ Nummer: 14445
 **Olofströms Brukshundklubb**
 
     123 535 16 97
+
+
+
+
+**Olofströms Ishockeyklubb**
+
+    123 648 04 87
 
 
 
@@ -55457,6 +55581,13 @@ Nummer: 14445
 
 
 
+**Reservofficersföreningen i Skåne**
+
+    123 494 90 61
+
+
+
+
 **Resmo-Vickleby Församling**
 
     123 435 65 31
@@ -55890,6 +56021,13 @@ Nummer: 14445
 **Riksförbundet Vi Som Inte Röker, Visir**
 
     123 324 46 21
+
+
+
+
+**Riksförening för Myositsjukdomar**
+
+    123 402 83 53 - Gåvor
 
 
 
@@ -59995,6 +60133,13 @@ Nummer: 14445
 
 
 
+**Sil:s IF**
+
+    123 605 57 92 - Newbody
+
+
+
+
 **Silf Competence AB**
 
     123 140 65 78
@@ -60025,7 +60170,7 @@ Nummer: 14445
 
 **Sils IF**
 
-    123 696 33 83
+    123 696 33 83 - F2011/F2012
 
 
 
@@ -60321,6 +60466,13 @@ Nummer: 14445
 **Själglans Ideella Förening**
 
     123 098 06 23
+
+
+
+
+**Sjöbo Försvarsutbildarna Skytteförening, FöUtb Skf**
+
+    123 608 39 01
 
 
 
@@ -69305,6 +69457,13 @@ Nummer: 14445
 
 
 
+**Svenska Formula Förbundet**
+
+    123 526 75 05
+
+
+
+
 **Svenska Fornminnesföreningen**
 
     123 600 96 17
@@ -69408,6 +69567,13 @@ Nummer: 14445
 **Svenska Hundklubben Västerås**
 
     123 338 40 62
+
+
+
+
+**Svenska Hundskyddsföreningen - Hundstallet**
+
+    123 900 55 70
 
 
 
@@ -69780,6 +69946,13 @@ Nummer: 14445
 
 
 
+**Svenska Pionsällskapet**
+
+    123 354 78 09
+
+
+
+
 **Svenska Polarhundklubben, SPHK**
 
     123 148 45 42
@@ -69818,6 +69991,13 @@ Nummer: 14445
 **Svenska Psykoanalytiska Föreningen**
 
     123 337 74 47
+
+
+
+
+**Svenska RC-Flygförbundet**
+
+    123 557 33 57
 
 
 
@@ -70837,6 +71017,13 @@ Nummer: 14445
 **Swedish Organization for Global Health, SOGH**
 
     123 378 28 93
+
+
+
+
+**Swedish Paint Horse Association, SPHA**
+
+    123 056 67 94
 
 
 
@@ -77239,7 +77426,7 @@ Nummer: 14445
 
 
 
-**Uddevalla IS - Skidor Skridsko Friidrott**
+**Uddevalla IS**
 
     123 268 95 11
 
@@ -79088,6 +79275,13 @@ Nummer: 14445
 
 
 
+**Varbergs Basket**
+
+    123 676 51 19
+
+
+
+
 **Varbergs BOIS BK**
 
     123 570 24 77
@@ -79147,6 +79341,13 @@ Nummer: 14445
 **Varbergs Massage och Behandling / Nils Tennberg**
 
     123 540 74 40
+
+
+
+
+**Varbergs Ridklubb**
+
+    123 627 85 50
 
 
 
@@ -80125,6 +80326,13 @@ Nummer: 14445
 **Villingsbergs Jaktskytteklubb**
 
     123 663 70 60
+
+
+
+
+**Villvattnets Körsällskap**
+
+    123 449 68 08
 
 
 
@@ -82740,6 +82948,13 @@ Nummer: 14445
 
 
 
+**Växjö Fågelklubb**
+
+    123 022 10 36
+
+
+
+
 **Växjö IBK**
 
     123 511 16 38 - Utveckling
@@ -82780,6 +82995,13 @@ Nummer: 14445
     123 113 74 88 - Diakonicentrum
 
     123 526 16 15 - Diakoni
+
+
+
+
+**Växjö Pride**
+
+    123 339 63 89
 
 
 
@@ -86617,6 +86839,13 @@ Nummer: 14445
 
 
 
+**Örnsköldsviks SeniorUniversitet, ÖSU**
+
+    123 589 13 38
+
+
+
+
 **Örnsköldsviks södra Pastorat**
 
     123 217 48 86 - Kyrkogårdsversamheten
@@ -87327,13 +87556,6 @@ Nummer: 14445
 **Östra Örträsk Jaktvårdsområde**
 
     123 449 03 30
-
-
-
-
-**ÖSU - Örnsköldsviks SeniorUniversitet**
-
-    123 589 13 38
 
 
 
