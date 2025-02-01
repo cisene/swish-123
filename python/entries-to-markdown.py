@@ -137,6 +137,8 @@ def main():
   buffer.append("")
   buffer.append(f"Nummer: {dest_dict_count}")
   buffer.append("")
+  buffer.append(f"PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)")
+  buffer.append("")
   buffer.append("")
   buffer.append("")
 
