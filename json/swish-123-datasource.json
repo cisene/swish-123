@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-01-31-rev-220851",
+    "date": "2025-02-01-rev-200037",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5652,6 +5652,17 @@
       "web": "https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-falun/foreningar/korsnas-vika-pro.html"
     },
     {
+      "entry": 1230260992,
+      "orgName": "Demensf\u00f6reningen i Nordv\u00e4rmland",
+      "orgNumber": "802537-5604",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/varmlands-lan/nordvarmland/"
+    },
+    {
       "entry": 1230261750,
       "orgName": "Timr\u00e5 IK Supporterklubb",
       "orgNumber": "889201-7974",
@@ -8988,6 +8999,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/kungsara"
+    },
+    {
+      "entry": 1230399097,
+      "orgName": "Demensf\u00f6reningen i Sjuh\u00e4rad",
+      "orgNumber": "802519-1357",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/vastra-gotalands-lan/sjuharad/"
     },
     {
       "entry": 1230399485,
@@ -13517,6 +13539,17 @@
       "web": "https://www.svenskakyrkan.se/torsaker"
     },
     {
+      "entry": 1230594655,
+      "orgName": "Lommabuktens Seglarklubb LBS",
+      "orgNumber": "846003-7594",
+      "comment": null,
+      "categories": [
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://www.lbs.nu/"
+    },
+    {
       "entry": 1230594747,
       "orgName": "Kila IF",
       "orgNumber": "874400-4659",
@@ -15678,14 +15711,15 @@
     },
     {
       "entry": 1230714378,
-      "orgName": "Alvesta SOK - Skidor",
+      "orgName": "Alvesta Skid- och Orienteringsklubb",
       "orgNumber": "829501-4313",
       "comment": null,
       "categories": [
-        "skidor",
-        "vintersport"
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
       ],
-      "web": "https://hanaslov.se/"
+      "web": "https://www.alvestasok.com/"
     },
     {
       "entry": 1230714691,
@@ -19229,6 +19263,17 @@
       "web": "https://uppsalahu.se/"
     },
     {
+      "entry": 1230854281,
+      "orgName": "Demensf\u00f6reningen i Robertsfors",
+      "orgNumber": "894003-8402",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/vasterbottens-lan/robertsfors/"
+    },
+    {
       "entry": 1230854315,
       "orgName": "IFK Mariefred",
       "orgNumber": "819500-2715",
@@ -21655,6 +21700,16 @@
         "linedanceklubb"
       ],
       "web": "https://www.laget.se/MorarpsIF/"
+    },
+    {
+      "entry": 1230928705,
+      "orgName": "Svenska Seglarf\u00f6rbundet",
+      "orgNumber": "802002-9545",
+      "comment": null,
+      "categories": [
+        "f\u00f6rbund"
+      ],
+      "web": "https://www.svensksegling.se/"
     },
     {
       "entry": 1230929109,
@@ -32201,6 +32256,17 @@
       "web": "https://www.laget.se/Fjugesta_IF/"
     },
     {
+      "entry": 1231430867,
+      "orgName": "Torsh\u00e4lla Segels\u00e4llskap",
+      "orgNumber": "818000-2696",
+      "comment": "Kiosk L\u00f6vsk\u00e4r",
+      "categories": [
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://www.torshallasegelsallskap.se/"
+    },
+    {
       "entry": 1231430875,
       "orgName": "Jord och Frihet Ideell F\u00f6rening",
       "orgNumber": "802438-6917",
@@ -38271,6 +38337,20 @@
       "web": "https://savaridcenter.se/"
     },
     {
+      "entry": 1231702125,
+      "orgName": "SOK Tr\u00e4ff",
+      "orgNumber": "866600-8233",
+      "comment": null,
+      "categories": [
+        "friidrottsf\u00f6rening",
+        "idrottsf\u00f6rening",
+        "kanotklubb",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.soktraff.se/"
+    },
+    {
       "entry": 1231702471,
       "orgName": "Voxtorps Pastorat",
       "orgNumber": "252003-4675",
@@ -43340,6 +43420,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1231914993,
+      "orgName": "Demensf\u00f6reningen i Norrt\u00e4lje",
+      "orgNumber": "802439-9365",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.demensforbundet.se/stockholms-lan/norrtalje/"
     },
     {
       "entry": 1231916576,
@@ -51248,6 +51339,18 @@
       "web": "https://www.svenskakyrkan.se/finskaforsamlingen"
     },
     {
+      "entry": 1232261675,
+      "orgName": "Skid & Orienteringsklubben Viljan",
+      "orgNumber": "832800-1436",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.sokviljan.se/"
+    },
+    {
       "entry": 1232261915,
       "orgName": "Makal\u00f6sa F\u00f6r\u00e4ldrar",
       "orgNumber": "802408-9032",
@@ -52837,6 +52940,17 @@
       "web": "https://www.nosund.nu/varmbadhuset"
     },
     {
+      "entry": 1232316883,
+      "orgName": "Torsh\u00e4lla Segels\u00e4llskap",
+      "orgNumber": "818000-2696",
+      "comment": "G\u00e4sthamn och el",
+      "categories": [
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://www.torshallasegelsallskap.se/"
+    },
+    {
       "entry": 1232316925,
       "orgName": "Lundby IF",
       "orgNumber": "802433-1459",
@@ -53763,6 +53877,18 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://www.iksu.se/"
+    },
+    {
+      "entry": 1232371524,
+      "orgName": "Sv\u00e4rdsj\u00f6 Skid- och Orienteringsklubb",
+      "orgNumber": "802466-7449",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.svardsjosok.se/"
     },
     {
       "entry": 1232371763,
@@ -57732,6 +57858,18 @@
         "stiftelse"
       ],
       "web": "https://emerichfonden.nu/"
+    },
+    {
+      "entry": 1232593580,
+      "orgName": "Simklubben Alesimmarna",
+      "orgNumber": "863500-6359",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "simklubb",
+        "sims\u00e4llskap"
+      ],
+      "web": "https://alesimmarna.kanslietonline.se/"
     },
     {
       "entry": 1232593796,
@@ -61833,6 +61971,18 @@
       "web": "https://fryshuset.se/"
     },
     {
+      "entry": 1232759272,
+      "orgName": "Lunds Konst\u00e5kningsklubb",
+      "orgNumber": "845000-5841",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "konst\u00e5kningsklubb",
+        "skridskoklubb"
+      ],
+      "web": "https://www.lundskk.se/"
+    },
+    {
       "entry": 1232759322,
       "orgName": "Valdemarsviks Brukshundsklubb",
       "orgNumber": "802429-2453",
@@ -63386,7 +63536,8 @@
       "orgNumber": "802458-1095",
       "comment": null,
       "categories": [
-        "idrottsf\u00f6rening"
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
       ],
       "web": "https://www.molndaloutdoor.se/"
     },
@@ -66542,6 +66693,17 @@
       "web": "https://www.svensknorska.se/"
     },
     {
+      "entry": 1232975555,
+      "orgName": "Demensf\u00f6reningen i Skellefte\u00e5",
+      "orgNumber": "894701-6518",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/vasterbottens-lan/skelleftea/"
+    },
+    {
       "entry": 1232975688,
       "orgName": "Atelj\u00e9 Backman / Anette Backman",
       "orgNumber": "650209-XXXX",
@@ -66634,7 +66796,9 @@
       "orgNumber": "817300-7447",
       "comment": null,
       "categories": [
+        "friidrottsf\u00f6rening",
         "idrottsf\u00f6rening",
+        "m\u00e5ngkampsklubb",
         "orienteringsklubb"
       ],
       "web": "https://www.okrodhen.se/"
@@ -74164,6 +74328,17 @@
       "web": "https://trosabygdens.konstforeningar.se/"
     },
     {
+      "entry": 1233348588,
+      "orgName": "Demensf\u00f6reningen i Boden",
+      "orgNumber": "802491-4007",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/norrbottens-lan/boden/"
+    },
+    {
       "entry": 1233349305,
       "orgName": "Karlslunds IF FK",
       "orgNumber": "875000-8438",
@@ -75781,6 +75956,20 @@
       "web": "https://www.svenskalag.se/moraorsabk"
     },
     {
+      "entry": 1233407962,
+      "orgName": "Kexholms SK",
+      "orgNumber": "829501-0980",
+      "comment": null,
+      "categories": [
+        "cykelklubb",
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.kexholmssk.se/"
+    },
+    {
       "entry": 1233408507,
       "orgName": "Gespars V\u00e4nner",
       "orgNumber": "802505-9638",
@@ -77129,6 +77318,17 @@
       "web": "https://svanskogshundfysik.se/"
     },
     {
+      "entry": 1233464559,
+      "orgName": "Uddevalla Idrottss\u00e4llskap Orientering",
+      "orgNumber": "858500-6581",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://uis-orientering.kanslietonline.se/"
+    },
+    {
       "entry": 1233466042,
       "orgName": "Uddevalla Pastorat",
       "orgNumber": "252003-1325",
@@ -77391,6 +77591,18 @@
         "fiskev\u00e5rd"
       ],
       "web": null
+    },
+    {
+      "entry": 1233471992,
+      "orgName": "Segels\u00e4llskapet Svearna",
+      "orgNumber": "818000-4940",
+      "comment": "Two Star Sundbyholm",
+      "categories": [
+        "segelklubb",
+        "segelskola",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://svearna.kanslietonline.se/"
     },
     {
       "entry": 1233472289,
@@ -80755,6 +80967,20 @@
       "web": "https://www.laget.se/HKBrukspojkera/"
     },
     {
+      "entry": 1233622453,
+      "orgName": "OK Roslagen",
+      "orgNumber": "814401-1114",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "mountainbikeklubb",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb",
+        "skidorienteringsklubb"
+      ],
+      "web": "https://www.okroslagen.se/"
+    },
+    {
       "entry": 1233622610,
       "orgName": "Gnosj\u00f6 IF",
       "orgNumber": "828000-0814",
@@ -81293,6 +81519,18 @@
         "samf\u00e4llighetsf\u00f6rening"
       ],
       "web": "https://www.kvarnakershamn.se/"
+    },
+    {
+      "entry": 1233638343,
+      "orgName": "Segels\u00e4llskapet Svearna",
+      "orgNumber": "818000-4940",
+      "comment": null,
+      "categories": [
+        "segelklubb",
+        "segelskola",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://svearna.kanslietonline.se/"
     },
     {
       "entry": 1233644002,
@@ -83343,6 +83581,19 @@
       "web": "https://vallasen.se/"
     },
     {
+      "entry": 1233762994,
+      "orgName": "Hjuviks B\u00e5tklubb",
+      "orgNumber": "857202-0652",
+      "comment": null,
+      "categories": [
+        "bouleklubb",
+        "b\u00e5tklubb",
+        "jolleklubb",
+        "segelklubb"
+      ],
+      "web": "https://www.hjbk.se/"
+    },
+    {
       "entry": 1233763141,
       "orgName": "Huddinge HK",
       "orgNumber": "812800-4028",
@@ -84762,6 +85013,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfglanshammar.se/"
+    },
+    {
+      "entry": 1233836277,
+      "orgName": "OK Malmia",
+      "orgNumber": "883800-0977",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://vbol.kanslietonline.se/ok-malmia/"
     },
     {
       "entry": 1233836590,
@@ -86199,6 +86461,17 @@
       "web": "https://svenskakyrkansunga.se/"
     },
     {
+      "entry": 1233893666,
+      "orgName": "Lerbergets Segels\u00e4llskap",
+      "orgNumber": "843003-4622",
+      "comment": null,
+      "categories": [
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://www.lerss.se/"
+    },
+    {
       "entry": 1233893682,
       "orgName": "Ersmarks IK",
       "orgNumber": "894001-6606",
@@ -86678,6 +86951,17 @@
       "web": "https://bjorkbackskyrkan.se/"
     },
     {
+      "entry": 1233908118,
+      "orgName": "Link\u00f6pings Skidklubb",
+      "orgNumber": "822001-0725",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.linkopingssk.se/"
+    },
+    {
       "entry": 1233908209,
       "orgName": "Nyk\u00f6pings BIS Fotboll",
       "orgNumber": "819000-1563",
@@ -87015,6 +87299,17 @@
         "stiftelse"
       ],
       "web": "https://www.efs.nu/"
+    },
+    {
+      "entry": 1233932910,
+      "orgName": "Demensf\u00f6reningen i Varberg",
+      "orgNumber": "849600-8304",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/hallands-lan/varberg/"
     },
     {
       "entry": 1233933579,
@@ -88839,6 +89134,17 @@
         "m\u00e4rkesklubb"
       ],
       "web": "https://www.fjordboatclub.se/"
+    },
+    {
+      "entry": 1234010971,
+      "orgName": "Demensf\u00f6reningen i Storsj\u00f6bygden",
+      "orgNumber": "893203-1316",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/jamtlands-lan/ostersund/"
     },
     {
       "entry": 1234011201,
@@ -93322,6 +93628,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/torekovsik"
+    },
+    {
+      "entry": 1234231726,
+      "orgName": "Demensf\u00f6reningen i Halmstad",
+      "orgNumber": "802524-4438",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/hallands-lan/halmstad/"
     },
     {
       "entry": 1234232658,
@@ -99116,6 +99433,18 @@
         "religion"
       ],
       "web": "https://efsvasterbotten.se/"
+    },
+    {
+      "entry": 1234536892,
+      "orgName": "OK Skogsvargarna",
+      "orgNumber": "862500-5940",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://okskogsvargarna.kanslietonline.se/"
     },
     {
       "entry": 1234537254,
@@ -115851,7 +116180,7 @@
     },
     {
       "entry": 1235335526,
-      "orgName": "Nyk\u00f6ping-Oxel\u00f6sunds Demensf\u00f6rening",
+      "orgName": "Demensf\u00f6reningen i Nyk\u00f6ping-Oxel\u00f6sund",
       "orgNumber": "819001-1190",
       "comment": null,
       "categories": [
@@ -117835,12 +118164,13 @@
     },
     {
       "entry": 1235421623,
-      "orgName": "Eksj\u00f6 SOK",
+      "orgName": "Eksj\u00f6 Skid- och Orienteringsklubb",
       "orgNumber": "827000-5468",
       "comment": null,
       "categories": [
         "idrottsf\u00f6rening",
-        "orienteringsklubb"
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
       ],
       "web": "https://www.eksjosok.se/"
     },
@@ -130294,6 +130624,18 @@
       "web": "https://vkfhemsida.wordpress.com/"
     },
     {
+      "entry": 1235985502,
+      "orgName": "Skid & Orienteringsklubben Viljan",
+      "orgNumber": "832800-1436",
+      "comment": "Klubbkl\u00e4der",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.sokviljan.se/"
+    },
+    {
       "entry": 1235990247,
       "orgName": "Kristianstad Padelklubb",
       "orgNumber": "802531-5188",
@@ -131922,6 +132264,17 @@
       "web": "https://lappis.se/"
     },
     {
+      "entry": 1236072938,
+      "orgName": "Torsh\u00e4lla Segels\u00e4llskap",
+      "orgNumber": "818000-2696",
+      "comment": "\u00d6vrigt",
+      "categories": [
+        "segelklubb",
+        "segels\u00e4llskap"
+      ],
+      "web": "https://www.torshallasegelsallskap.se/"
+    },
+    {
       "entry": 1236074363,
       "orgName": "F\u00f6reningen f\u00f6r Sankta Thoras pilgrimsled",
       "orgNumber": "802543-5028",
@@ -131950,6 +132303,18 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/gullspanghova/"
+    },
+    {
+      "entry": 1236076640,
+      "orgName": "Skid & Orienteringsklubben Viljan",
+      "orgNumber": "832800-1436",
+      "comment": "Medlemsavgift",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.sokviljan.se/"
     },
     {
       "entry": 1236076665,
@@ -134392,7 +134757,7 @@
     },
     {
       "entry": 1236172068,
-      "orgName": "Tyringe SS",
+      "orgName": "Tyringe Sims\u00e4llskap",
       "orgNumber": "837001-1499",
       "comment": null,
       "categories": [
@@ -134926,6 +135291,17 @@
       "web": "https://www.facebook.com/edsbygympan"
     },
     {
+      "entry": 1236185045,
+      "orgName": "Orienteringsklubben Denseln",
+      "orgNumber": "825001-6733",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://denseln.kanslietonline.se/"
+    },
+    {
       "entry": 1236185078,
       "orgName": "Burseryds IF",
       "orgNumber": "828500-0249",
@@ -135307,6 +135683,18 @@
         "yoga"
       ],
       "web": "https://www.lilashala.se/"
+    },
+    {
+      "entry": 1236204846,
+      "orgName": "Skid & Orienteringsklubben Viljan",
+      "orgNumber": "832800-1436",
+      "comment": "Tipspromenad",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.sokviljan.se/"
     },
     {
       "entry": 1236204861,
@@ -136977,6 +137365,17 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://varbergsridklubb.se/"
+    },
+    {
+      "entry": 1236278626,
+      "orgName": "OK Enen",
+      "orgNumber": "817000-6889",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.okenen.se/"
     },
     {
       "entry": 1236279137,
@@ -141345,6 +141744,17 @@
       "web": "https://www.agaten.se/"
     },
     {
+      "entry": 1236505036,
+      "orgName": "Grang\u00e4rde OK",
+      "orgNumber": "883800-5562",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://vbol.kanslietonline.se/grangarde-ok/"
+    },
+    {
       "entry": 1236505119,
       "orgName": "D\u00f6sjebro Scoutk\u00e5r",
       "orgNumber": "845000-9710",
@@ -142024,6 +142434,18 @@
         "religion"
       ],
       "web": "https://efshelsingborg.se/"
+    },
+    {
+      "entry": 1236524300,
+      "orgName": "Svenska Optimistjollef\u00f6rbundet, SOF",
+      "orgNumber": "857203-1485",
+      "comment": null,
+      "categories": [
+        "f\u00f6rbund",
+        "optimistjolleklubb",
+        "segelklubb"
+      ],
+      "web": "https://svof.kanslietonline.se/"
     },
     {
       "entry": 1236524334,
@@ -143887,6 +144309,18 @@
       "web": "https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped"
     },
     {
+      "entry": 1236626485,
+      "orgName": "Alvesta Skid- och Orienteringsklubb",
+      "orgNumber": "829501-4313",
+      "comment": "Servering",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.alvestasok.com/"
+    },
+    {
       "entry": 1236627285,
       "orgName": "Kavalleri- och J\u00e4garf\u00f6rbundet, KAVJF",
       "orgNumber": "802436-6968",
@@ -144362,6 +144796,18 @@
         "samf\u00e4llighetsf\u00f6rening"
       ],
       "web": "https://www.erlandsdalsgarden.se/erlandsdals-samfallighet/"
+    },
+    {
+      "entry": 1236648141,
+      "orgName": "Skid & Orienteringsklubben Viljan",
+      "orgNumber": "832800-1436",
+      "comment": "Servering",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.sokviljan.se/"
     },
     {
       "entry": 1236648802,
@@ -146262,6 +146708,17 @@
         "stiftelse"
       ],
       "web": "https://www.viggofoundation.se/"
+    },
+    {
+      "entry": 1236714133,
+      "orgName": "Ludvika OK",
+      "orgNumber": "883800-3161",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.ludvikaok.se/"
     },
     {
       "entry": 1236714661,

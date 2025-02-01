@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-01-31-rev-220931
+Revision: 2025-02-01-rev-200123
 
-Nummer: 14476
+Nummer: 14515
 
 
 
@@ -1747,9 +1747,11 @@ Nummer: 14476
 
 
 
-**Alvesta SOK - Skidor**
+**Alvesta Skid- och Orienteringsklubb**
 
     123 071 43 78
+
+    123 662 64 85 - Servering
 
 
 
@@ -11498,9 +11500,65 @@ Nummer: 14476
 
 
 
+**Demensföreningen i Boden**
+
+    123 334 85 88
+
+
+
+
+**Demensföreningen i Halmstad**
+
+    123 423 17 26
+
+
+
+
 **Demensföreningen i Lerum**
 
     123 528 41 12
+
+
+
+
+**Demensföreningen i Nordvärmland**
+
+    123 026 09 92
+
+
+
+
+**Demensföreningen i Norrtälje**
+
+    123 191 49 93
+
+
+
+
+**Demensföreningen i Nyköping-Oxelösund**
+
+    123 533 55 26
+
+
+
+
+**Demensföreningen i Robertsfors**
+
+    123 085 42 81
+
+
+
+
+**Demensföreningen i Sjuhärad**
+
+    123 039 90 97
+
+
+
+
+**Demensföreningen i Skellefteå**
+
+    123 297 55 55
 
 
 
@@ -11512,9 +11570,23 @@ Nummer: 14476
 
 
 
+**Demensföreningen i Storsjöbygden**
+
+    123 401 09 71
+
+
+
+
 **Demensföreningen i Vansbro**
 
     123 432 81 18
+
+
+
+
+**Demensföreningen i Varberg**
+
+    123 393 29 10
 
 
 
@@ -13821,16 +13893,16 @@ Nummer: 14476
 
 
 
+**Eksjö Skid- och Orienteringsklubb**
+
+    123 542 16 23
+
+
+
+
 **Eksjö Skyttegille**
 
     123 006 82 96
-
-
-
-
-**Eksjö SOK**
-
-    123 542 16 23
 
 
 
@@ -22768,6 +22840,13 @@ Nummer: 14476
 
 
 
+**Grangärde OK**
+
+    123 650 50 36
+
+
+
+
 **Granheds Bygdegårdsförening**
 
     123 049 82 79
@@ -26916,6 +26995,13 @@ Nummer: 14476
 **Hjulsbro IK**
 
     123 197 31 71
+
+
+
+
+**Hjuviks Båtklubb**
+
+    123 376 29 94
 
 
 
@@ -35283,6 +35369,13 @@ Nummer: 14476
 
 
 
+**Kexholms SK**
+
+    123 340 79 62
+
+
+
+
 **KFUK - KFUM Sverige**
 
     123 901 85 57
@@ -40066,6 +40159,13 @@ Nummer: 14476
 
 
 
+**Lerbergets Segelsällskap**
+
+    123 389 36 66
+
+
+
+
 **Lerdala IF**
 
     123 453 60 09
@@ -41207,6 +41307,13 @@ Nummer: 14476
 **Linköpings Senioruniversitet**
 
     123 265 66 43
+
+
+
+
+**Linköpings Skidklubb**
+
+    123 390 81 18
 
 
 
@@ -42465,6 +42572,13 @@ Nummer: 14476
 
 
 
+**Lommabuktens Seglarklubb LBS**
+
+    123 059 46 55
+
+
+
+
 **Los-Hamra Församling**
 
     123 652 27 67 - Kollekt
@@ -42666,6 +42780,13 @@ Nummer: 14476
 **Ludvika HF**
 
     123 006 86 68
+
+
+
+
+**Ludvika OK**
+
+    123 671 41 33
 
 
 
@@ -43065,6 +43186,13 @@ Nummer: 14476
 **Lunds Kommun**
 
     123 006 78 92 - Vinteraktiviteter
+
+
+
+
+**Lunds Konståkningsklubb**
+
+    123 275 92 72
 
 
 
@@ -49563,13 +49691,6 @@ Nummer: 14476
 
 
 
-**Nyköping-Oxelösunds Demensförening**
-
-    123 533 55 26
-
-
-
-
 **Nyköpings AIK**
 
     123 126 94 14
@@ -50232,6 +50353,13 @@ Nummer: 14476
 
 
 
+**OK Enen**
+
+    123 627 86 26
+
+
+
+
 **OK Fryksdalen**
 
     123 353 91 29
@@ -50284,6 +50412,13 @@ Nummer: 14476
 **OK Löftan**
 
     123 461 10 34
+
+
+
+
+**OK Malmia**
+
+    123 383 62 77
 
 
 
@@ -50349,6 +50484,20 @@ Nummer: 14476
 **OK Rodhen**
 
     123 298 05 14
+
+
+
+
+**OK Roslagen**
+
+    123 362 24 53
+
+
+
+
+**OK Skogsvargarna**
+
+    123 453 68 92
 
 
 
@@ -50744,6 +50893,13 @@ Nummer: 14476
 **Orienteringsklubben 64 Torpa**
 
     123 526 47 91
+
+
+
+
+**Orienteringsklubben Denseln**
+
+    123 618 50 45
 
 
 
@@ -59646,6 +59802,15 @@ Nummer: 14476
 
 
 
+**Segelsällskapet Svearna**
+
+    123 347 19 92 - Two Star Sundbyholm
+
+    123 363 83 43
+
+
+
+
 **Segelsällskapet Åmålsviken, SSAV**
 
     123 389 92 26
@@ -60206,6 +60371,13 @@ Nummer: 14476
 **Simklubben 1970, SK70**
 
     123 438 32 12
+
+
+
+
+**Simklubben Alesimmarna**
+
+    123 259 35 80
 
 
 
@@ -61225,6 +61397,21 @@ Nummer: 14476
 **Skicka vidare till Ukraina**
 
     123 233 46 39
+
+
+
+
+**Skid & Orienteringsklubben Viljan**
+
+    123 226 16 75 - Övrigt
+
+    123 598 55 02 - Klubbkläder
+
+    123 607 66 40 - Medlemsavgift
+
+    123 620 48 46 - Tipspromenad
+
+    123 664 81 41 - Servering
 
 
 
@@ -62807,6 +62994,13 @@ Nummer: 14476
 **SOK Knallen**
 
     123 671 50 49
+
+
+
+
+**SOK Träff**
+
+    123 170 21 25
 
 
 
@@ -69925,6 +70119,13 @@ Nummer: 14476
 
 
 
+**Svenska Optimistjolleförbundet, SOF**
+
+    123 652 43 00
+
+
+
+
 **Svenska Organisation Mondiale pour l’Éducation Préscolaire, OMEP**
 
     123 017 80 79
@@ -70278,6 +70479,13 @@ Nummer: 14476
     123 390 75 65
 
     123 545 20 32
+
+
+
+
+**Svenska Seglarförbundet**
+
+    123 092 87 05
 
 
 
@@ -70891,6 +71099,13 @@ Nummer: 14476
 **Svärdsjö Ridklubb**
 
     123 091 70 47
+
+
+
+
+**Svärdsjö Skid- och Orienteringsklubb**
+
+    123 237 15 24
 
 
 
@@ -75842,6 +76057,17 @@ Nummer: 14476
 
 
 
+**Torshälla Segelsällskap**
+
+    123 143 08 67 - Kiosk Lövskär
+
+    123 231 68 83 - Gästhamn och el
+
+    123 607 29 38 - Övrigt
+
+
+
+
 **Torslanda Filmstudio**
 
     123 455 92 74
@@ -77080,7 +77306,7 @@ Nummer: 14476
 
 
 
-**Tyringe SS**
+**Tyringe Simsällskap**
 
     123 617 20 68
 
@@ -77422,6 +77648,13 @@ Nummer: 14476
 **Uddevalla Handbollklubb**
 
     123 602 37 25
+
+
+
+
+**Uddevalla Idrottssällskap Orientering**
+
+    123 346 45 59
 
 
 

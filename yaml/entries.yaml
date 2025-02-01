@@ -4640,6 +4640,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-falun/foreningar/korsnas-vika-pro.html
 
+- entry: 1230260992
+  orgName: Demensföreningen i Nordvärmland
+  orgNumber: 802537-5604
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/varmlands-lan/nordvarmland/
+
 - entry: 1230261750
   orgName: Timrå IK Supporterklubb
   orgNumber: 889201-7974
@@ -7410,6 +7419,15 @@ entries:
   categories:
   - retired
   web: https://www.cykelregister.se/
+
+- entry: 1230399097
+  orgName: Demensföreningen i Sjuhärad
+  orgNumber: 802519-1357
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/vastra-gotalands-lan/sjuharad/
 
 - entry: 1230399485
   orgName: Crazy Flutters Square Dance Club
@@ -11130,6 +11148,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/torsaker
 
+- entry: 1230594655
+  orgName: Lommabuktens Seglarklubb LBS
+  orgNumber: 846003-7594
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://www.lbs.nu/
+
 - entry: 1230594747
   orgName: Kila IF
   orgNumber: 874400-4659
@@ -12925,13 +12952,14 @@ entries:
   web: https://www.wateraid.org/
 
 - entry: 1230714378
-  orgName: Alvesta SOK - Skidor
+  orgName: Alvesta Skid- och Orienteringsklubb
   orgNumber: 829501-4313
   comment: null
   categories:
-  - skidor
-  - vintersport
-  web: https://hanaslov.se/
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.alvestasok.com/
 
 - entry: 1230714691
   orgName: Smygehus Havsbad
@@ -15855,6 +15883,15 @@ entries:
   - ungdomsverksamhet
   web: https://uppsalahu.se/
 
+- entry: 1230854281
+  orgName: Demensföreningen i Robertsfors
+  orgNumber: 894003-8402
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/vasterbottens-lan/robertsfors/
+
 - entry: 1230854315
   orgName: IFK Mariefred
   orgNumber: 819500-2715
@@ -17864,6 +17901,14 @@ entries:
   - innebandyklubb
   - linedanceklubb
   web: https://www.laget.se/MorarpsIF/
+
+- entry: 1230928705
+  orgName: Svenska Seglarförbundet
+  orgNumber: 802002-9545
+  comment: null
+  categories:
+  - förbund
+  web: https://www.svensksegling.se/
 
 - entry: 1230929109
   orgName: Caporales San Simón
@@ -26581,6 +26626,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/Fjugesta_IF/
 
+- entry: 1231430867
+  orgName: Torshälla Segelsällskap
+  orgNumber: 818000-2696
+  comment: Kiosk Lövskär
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://www.torshallasegelsallskap.se/
+
 - entry: 1231430875
   orgName: Jord och Frihet Ideell Förening
   orgNumber: 802438-6917
@@ -31582,6 +31636,18 @@ entries:
   - ridskola
   web: https://savaridcenter.se/
 
+- entry: 1231702125
+  orgName: SOK Träff
+  orgNumber: 866600-8233
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  - kanotklubb
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.soktraff.se/
+
 - entry: 1231702471
   orgName: Voxtorps Pastorat
   orgNumber: 252003-4675
@@ -35775,6 +35841,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1231914993
+  orgName: Demensföreningen i Norrtälje
+  orgNumber: 802439-9365
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.demensforbundet.se/stockholms-lan/norrtalje/
 
 - entry: 1231916576
   orgName: Aktiva Seniorer Hisingen
@@ -42291,6 +42366,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/finskaforsamlingen
 
+- entry: 1232261675
+  orgName: Skid & Orienteringsklubben Viljan
+  orgNumber: 832800-1436
+  comment: Övrigt
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.sokviljan.se/
+
 - entry: 1232261915
   orgName: Makalösa Föräldrar
   orgNumber: 802408-9032
@@ -43611,6 +43696,15 @@ entries:
   - varmbadhus
   web: https://www.nosund.nu/varmbadhuset
 
+- entry: 1232316883
+  orgName: Torshälla Segelsällskap
+  orgNumber: 818000-2696
+  comment: Gästhamn och el
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://www.torshallasegelsallskap.se/
+
 - entry: 1232316925
   orgName: Lundby IF
   orgNumber: 802433-1459
@@ -44373,6 +44467,16 @@ entries:
   - lägerverksamhet
   - skidlöparklubb
   web: https://www.iksu.se/
+
+- entry: 1232371524
+  orgName: Svärdsjö Skid- och Orienteringsklubb
+  orgNumber: 802466-7449
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.svardsjosok.se/
 
 - entry: 1232371763
   orgName: Reijmyre IF
@@ -47657,6 +47761,16 @@ entries:
   - fond
   - stiftelse
   web: https://emerichfonden.nu/
+
+- entry: 1232593580
+  orgName: Simklubben Alesimmarna
+  orgNumber: 863500-6359
+  comment: null
+  categories:
+  - idrottsförening
+  - simklubb
+  - simsällskap
+  web: https://alesimmarna.kanslietonline.se/
 
 - entry: 1232593796
   orgName: Roshan SPA och Friskvård
@@ -51020,6 +51134,16 @@ entries:
   - stiftelse
   web: https://fryshuset.se/
 
+- entry: 1232759272
+  orgName: Lunds Konståkningsklubb
+  orgNumber: 845000-5841
+  comment: null
+  categories:
+  - idrottsförening
+  - konståkningsklubb
+  - skridskoklubb
+  web: https://www.lundskk.se/
+
 - entry: 1232759322
   orgName: Valdemarsviks Brukshundsklubb
   orgNumber: 802429-2453
@@ -52304,6 +52428,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
+  - orienteringsklubb
   web: https://www.molndaloutdoor.se/
 
 - entry: 1232813103
@@ -54907,6 +55032,15 @@ entries:
   - intresseförening
   web: https://www.svensknorska.se/
 
+- entry: 1232975555
+  orgName: Demensföreningen i Skellefteå
+  orgNumber: 894701-6518
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/vasterbottens-lan/skelleftea/
+
 - entry: 1232975688
   orgName: Ateljé Backman / Anette Backman
   orgNumber: 650209-XXXX
@@ -54983,7 +55117,9 @@ entries:
   orgNumber: 817300-7447
   comment: null
   categories:
+  - friidrottsförening
   - idrottsförening
+  - mångkampsklubb
   - orienteringsklubb
   web: https://www.okrodhen.se/
 
@@ -61245,6 +61381,15 @@ entries:
   - museum
   web: https://trosabygdens.konstforeningar.se/
 
+- entry: 1233348588
+  orgName: Demensföreningen i Boden
+  orgNumber: 802491-4007
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/norrbottens-lan/boden/
+
 - entry: 1233349305
   orgName: Karlslunds IF FK
   orgNumber: 875000-8438
@@ -62577,6 +62722,18 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/moraorsabk
 
+- entry: 1233407962
+  orgName: Kexholms SK
+  orgNumber: 829501-0980
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  - löparklubb
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.kexholmssk.se/
+
 - entry: 1233408507
   orgName: Gespars Vänner
   orgNumber: 802505-9638
@@ -63684,6 +63841,15 @@ entries:
   - hundkurser
   web: https://svanskogshundfysik.se/
 
+- entry: 1233464559
+  orgName: Uddevalla Idrottssällskap Orientering
+  orgNumber: 858500-6581
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://uis-orientering.kanslietonline.se/
+
 - entry: 1233466042
   orgName: Uddevalla Pastorat
   orgNumber: 252003-1325
@@ -63899,6 +64065,16 @@ entries:
   - fiskekort
   - fiskevård
   web: null
+
+- entry: 1233471992
+  orgName: Segelsällskapet Svearna
+  orgNumber: 818000-4940
+  comment: Two Star Sundbyholm
+  categories:
+  - segelklubb
+  - segelskola
+  - segelsällskap
+  web: https://svearna.kanslietonline.se/
 
 - entry: 1233472289
   orgName: Bostadsrättsföreningen Göteborgshus 26
@@ -66649,6 +66825,18 @@ entries:
   - idrottsförening
   web: https://www.laget.se/HKBrukspojkera/
 
+- entry: 1233622453
+  orgName: OK Roslagen
+  orgNumber: 814401-1114
+  comment: null
+  categories:
+  - idrottsförening
+  - mountainbikeklubb
+  - orienteringsklubb
+  - skidlöparklubb
+  - skidorienteringsklubb
+  web: https://www.okroslagen.se/
+
 - entry: 1233622610
   orgName: Gnosjö IF
   orgNumber: 828000-0814
@@ -67095,6 +67283,16 @@ entries:
   categories:
   - samfällighetsförening
   web: https://www.kvarnakershamn.se/
+
+- entry: 1233638343
+  orgName: Segelsällskapet Svearna
+  orgNumber: 818000-4940
+  comment: null
+  categories:
+  - segelklubb
+  - segelskola
+  - segelsällskap
+  web: https://svearna.kanslietonline.se/
 
 - entry: 1233644002
   orgName: SPF Seniorerna Gnestabygden
@@ -68792,6 +68990,17 @@ entries:
   - skidsportanläggning
   web: https://vallasen.se/
 
+- entry: 1233762994
+  orgName: Hjuviks Båtklubb
+  orgNumber: 857202-0652
+  comment: null
+  categories:
+  - bouleklubb
+  - båtklubb
+  - jolleklubb
+  - segelklubb
+  web: https://www.hjbk.se/
+
 - entry: 1233763141
   orgName: Huddinge HK
   orgNumber: 812800-4028
@@ -69974,6 +70183,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfglanshammar.se/
 
+- entry: 1233836277
+  orgName: OK Malmia
+  orgNumber: 883800-0977
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://vbol.kanslietonline.se/ok-malmia/
+
 - entry: 1233836590
   orgName: Aerotech Telub Fritid Arboga
   orgNumber: 012032-7119
@@ -71143,6 +71361,15 @@ entries:
   - religion
   web: https://svenskakyrkansunga.se/
 
+- entry: 1233893666
+  orgName: Lerbergets Segelsällskap
+  orgNumber: 843003-4622
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://www.lerss.se/
+
 - entry: 1233893682
   orgName: Ersmarks IK
   orgNumber: 894001-6606
@@ -71542,6 +71769,15 @@ entries:
   - religion
   web: https://bjorkbackskyrkan.se/
 
+- entry: 1233908118
+  orgName: Linköpings Skidklubb
+  orgNumber: 822001-0725
+  comment: null
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.linkopingssk.se/
+
 - entry: 1233908209
   orgName: Nyköpings BIS Fotboll
   orgNumber: 819000-1563
@@ -71828,6 +72064,15 @@ entries:
   - religion
   - stiftelse
   web: https://www.efs.nu/
+
+- entry: 1233932910
+  orgName: Demensföreningen i Varberg
+  orgNumber: 849600-8304
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/hallands-lan/varberg/
 
 - entry: 1233933579
   orgName: Hammarbyledens Motorbåtsklubb
@@ -73323,6 +73568,15 @@ entries:
   - båtklubb
   - märkesklubb
   web: https://www.fjordboatclub.se/
+
+- entry: 1234010971
+  orgName: Demensföreningen i Storsjöbygden
+  orgNumber: 893203-1316
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/jamtlands-lan/ostersund/
 
 - entry: 1234011201
   orgName: Segerstads Hembygsförening
@@ -77017,6 +77271,15 @@ entries:
   - agilityklubb
   - idrottsförening
   web: https://www.svenskalag.se/torekovsik
+
+- entry: 1234231726
+  orgName: Demensföreningen i Halmstad
+  orgNumber: 802524-4438
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/hallands-lan/halmstad/
 
 - entry: 1234232658
   orgName: Wibax IBF Piteå
@@ -81807,6 +82070,16 @@ entries:
   categories:
   - religion
   web: https://efsvasterbotten.se/
+
+- entry: 1234536892
+  orgName: OK Skogsvargarna
+  orgNumber: 862500-5940
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://okskogsvargarna.kanslietonline.se/
 
 - entry: 1234537254
   orgName: Stockholm Frontrunners IF
@@ -95608,7 +95881,7 @@ entries:
   web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-tyreso-/
 
 - entry: 1235335526
-  orgName: Nyköping-Oxelösunds Demensförening
+  orgName: Demensföreningen i Nyköping-Oxelösund
   orgNumber: 819001-1190
   comment: null
   categories:
@@ -97226,12 +97499,13 @@ entries:
   web: https://www.facebook.com/profile.php?id=100067837996735
 
 - entry: 1235421623
-  orgName: Eksjö SOK
+  orgName: Eksjö Skid- och Orienteringsklubb
   orgNumber: 827000-5468
   comment: null
   categories:
   - idrottsförening
   - orienteringsklubb
+  - skidlöparklubb
   web: https://www.eksjosok.se/
 
 - entry: 1235422266
@@ -107580,6 +107854,16 @@ entries:
   - konstförening
   web: https://vkfhemsida.wordpress.com/
 
+- entry: 1235985502
+  orgName: Skid & Orienteringsklubben Viljan
+  orgNumber: 832800-1436
+  comment: Klubbkläder
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.sokviljan.se/
+
 - entry: 1235990247
   orgName: Kristianstad Padelklubb
   orgNumber: 802531-5188
@@ -108930,6 +109214,15 @@ entries:
   - religion
   web: https://lappis.se/
 
+- entry: 1236072938
+  orgName: Torshälla Segelsällskap
+  orgNumber: 818000-2696
+  comment: Övrigt
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://www.torshallasegelsallskap.se/
+
 - entry: 1236074363
   orgName: Föreningen för Sankta Thoras pilgrimsled
   orgNumber: 802543-5028
@@ -108953,6 +109246,16 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/gullspanghova/
+
+- entry: 1236076640
+  orgName: Skid & Orienteringsklubben Viljan
+  orgNumber: 832800-1436
+  comment: Medlemsavgift
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.sokviljan.se/
 
 - entry: 1236076665
   orgName: Blågula Bilen AB
@@ -110962,7 +111265,7 @@ entries:
   web: https://www.svenskalag.se/strangnasbsk
 
 - entry: 1236172068
-  orgName: Tyringe SS
+  orgName: Tyringe Simsällskap
   orgNumber: 837001-1499
   comment: null
   categories:
@@ -111398,6 +111701,15 @@ entries:
   - idrottsförening
   web: https://www.facebook.com/edsbygympan
 
+- entry: 1236185045
+  orgName: Orienteringsklubben Denseln
+  orgNumber: 825001-6733
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://denseln.kanslietonline.se/
+
 - entry: 1236185078
   orgName: Burseryds IF
   orgNumber: 828500-0249
@@ -111708,6 +112020,16 @@ entries:
   categories:
   - yoga
   web: https://www.lilashala.se/
+
+- entry: 1236204846
+  orgName: Skid & Orienteringsklubben Viljan
+  orgNumber: 832800-1436
+  comment: Tipspromenad
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.sokviljan.se/
 
 - entry: 1236204861
   orgName: KB65 Hockey
@@ -113102,6 +113424,15 @@ entries:
   - ridklubb
   - ryttarförening
   web: https://varbergsridklubb.se/
+
+- entry: 1236278626
+  orgName: OK Enen
+  orgNumber: 817000-6889
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.okenen.se/
 
 - entry: 1236279137
   orgName: Kungsörs Brukshundsklubb
@@ -116720,6 +117051,15 @@ entries:
   - bostadsrättsförening
   web: https://www.agaten.se/
 
+- entry: 1236505036
+  orgName: Grangärde OK
+  orgNumber: 883800-5562
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://vbol.kanslietonline.se/grangarde-ok/
+
 - entry: 1236505119
   orgName: Dösjebro Scoutkår
   orgNumber: 845000-9710
@@ -117278,6 +117618,16 @@ entries:
   categories:
   - religion
   web: https://efshelsingborg.se/
+
+- entry: 1236524300
+  orgName: Svenska Optimistjolleförbundet, SOF
+  orgNumber: 857203-1485
+  comment: null
+  categories:
+  - förbund
+  - optimistjolleklubb
+  - segelklubb
+  web: https://svof.kanslietonline.se/
 
 - entry: 1236524334
   orgName: Equmeniakyrkan Ljurhalla
@@ -118837,6 +119187,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
 
+- entry: 1236626485
+  orgName: Alvesta Skid- och Orienteringsklubb
+  orgNumber: 829501-4313
+  comment: Servering
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.alvestasok.com/
+
 - entry: 1236627285
   orgName: Kavalleri- och Jägarförbundet, KAVJF
   orgNumber: 802436-6968
@@ -119234,6 +119594,16 @@ entries:
   categories:
   - samfällighetsförening
   web: https://www.erlandsdalsgarden.se/erlandsdals-samfallighet/
+
+- entry: 1236648141
+  orgName: Skid & Orienteringsklubben Viljan
+  orgNumber: 832800-1436
+  comment: Servering
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.sokviljan.se/
 
 - entry: 1236648802
   orgName: Konståkarna Borås
@@ -120793,6 +121163,15 @@ entries:
   - npf-diagnoser
   - stiftelse
   web: https://www.viggofoundation.se/
+
+- entry: 1236714133
+  orgName: Ludvika OK
+  orgNumber: 883800-3161
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.ludvikaok.se/
 
 - entry: 1236714661
   orgName: Grimsta Båtsällskap
