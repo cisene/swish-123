@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-02-02-rev-210514",
+    "date": "2025-02-02-rev-213924",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -130508,6 +130508,18 @@
         "hundsport"
       ],
       "web": "https://sbk-ovik.se/"
+    },
+    {
+      "entry": 1235973128,
+      "orgName": "Malpoza AB",
+      "orgNumber": "556301-2540",
+      "comment": null,
+      "categories": [
+        "belysning",
+        "f\u00f6rs\u00e4ljning",
+        "ljudsystem"
+      ],
+      "web": "https://www.malpoza.com/"
     },
     {
       "entry": 1235976212,

@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2025-02-02-rev-210550
+Date: 2025-02-02-rev-213957
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -12014,6 +12014,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1235968649"><organization><number>818500-9555</number><name>Båsenberga Slalomklubb</name></organization><comment/><categories><category type="idrottsförening"/><category type="slalomklubb"/></categories><web>https://www.svenskalag.se/basenbergaslk</web></entry>
     <entry number="1235968854"><organization><number>802442-7117</number><name>Tullus SG - Skidskytte</name></organization><comment/><categories><category type="idrottsförening"/><category type="skidskytteklubb"/></categories><web>https://www.tullus.se/</web></entry>
     <entry number="1235968953"><organization><number>889600-3046</number><name>Örnsköldsviks Brukshundsklubb</name></organization><comment/><categories><category type="brukshundklubb"/><category type="hundsport"/></categories><web>https://sbk-ovik.se/</web></entry>
+    <entry number="1235973128"><organization><number>556301-2540</number><name>Malpoza AB</name></organization><comment/><categories><category type="belysning"/><category type="försäljning"/><category type="ljudsystem"/></categories><web>https://www.malpoza.com/</web></entry>
     <entry number="1235976212"><organization><number>802534-5938</number><name>Team Rynkeby</name></organization><comment>Göteborg, Casa Montessori</comment><categories><category type="cancerforskning"/><category type="forskning"/><category type="hjärnforskning"/></categories><web>https://www.team-rynkeby.se/</web></entry>
     <entry number="1235978218"><organization><number>814000-7686</number><name>Runmarö Hembygdsförening</name></organization><comment/><categories><category type="hembygdsförening"/></categories><web>https://runmaro.org/</web></entry>
     <entry number="1235978259"><organization><number>252001-4453</number><name>Partille Församling</name></organization><comment>Kollekt i Partille kyrka</comment><categories><category type="religion"/></categories><web>https://www.svenskakyrkan.se/partille</web></entry>

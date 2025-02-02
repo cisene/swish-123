@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-02-rev-210600
+Revision: 2025-02-02-rev-214009
 
-Nummer: 14519
+Nummer: 14520
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -44410,6 +44410,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Malmöns Samfällighetsförening**
 
     123 568 16 55
+
+
+
+
+**Malpoza AB**
+
+    123 597 31 28
 
 
 
