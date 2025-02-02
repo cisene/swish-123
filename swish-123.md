@@ -2,9 +2,11 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-01-rev-200123
+Revision: 2025-02-02-rev-210600
 
-Nummer: 14515
+Nummer: 14519
+
+PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
 
 
@@ -6240,6 +6242,13 @@ Nummer: 14515
 
 
 
+**Bondsjöhöjdens IK Skidor, BIK**
+
+    123 149 39 15
+
+
+
+
 **Boo Backlunds Minnesfond**
 
     123 201 39 36
@@ -6259,6 +6268,13 @@ Nummer: 14515
     123 432 66 17
 
     123 533 49 66 - Gåvor
+
+
+
+
+**Boo Kanot och Skidklubb**
+
+    123 170 90 62
 
 
 
@@ -44775,6 +44791,13 @@ Nummer: 14515
 
 
 
+**Markbygdens Orienteringsklubb**
+
+    123 466 02 21
+
+
+
+
 **Marknadsföreningen i Halland MiH**
 
     123 448 93 24
@@ -50491,6 +50514,13 @@ Nummer: 14515
 **OK Roslagen**
 
     123 362 24 53
+
+
+
+
+**OK Skogsfalken, OKS**
+
+    123 146 45 28
 
 
 

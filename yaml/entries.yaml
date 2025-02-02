@@ -27127,6 +27127,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/stratosenkopingbtk
 
+- entry: 1231464528
+  orgName: OK Skogsfalken, OKS
+  orgNumber: 836200-1722
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.skogsfalken.nu/
+
 - entry: 1231464601
   orgName: Pingstförsamlingen Vireda
   orgNumber: 826500-1837
@@ -28240,6 +28249,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/balingsta
+
+- entry: 1231493915
+  orgName: Bondsjöhöjdens IK Skidor, BIK
+  orgNumber: 888000-2541
+  comment: null
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.bikskidor.se/
 
 - entry: 1231493931
   orgName: IF Göta Karlstad
@@ -31886,6 +31904,16 @@ entries:
   - bordtennisklubb
   - idrottsförening
   web: https://www.svenskalag.se/kilsbtk
+
+- entry: 1231709062
+  orgName: Boo Kanot och Skidklubb
+  orgNumber: 802455-3748
+  comment: null
+  categories:
+  - idrottsförening
+  - kanotklubb
+  - skidlöparklubb
+  web: https://www.bkos.se/
 
 - entry: 1231709120
   orgName: Friskis & Svettis Svedala
@@ -84301,6 +84329,16 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://aseleturism.se/produkter/boende/tegeltrask-bygdegard/
+
+- entry: 1234660221
+  orgName: Markbygdens Orienteringsklubb
+  orgNumber: 802455-3607
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://markbygdensok.kanslietonline.se/
 
 - entry: 1234660502
   orgName: Rimbo Hembygdsförening

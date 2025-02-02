@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-02-01-rev-200037",
+    "date": "2025-02-02-rev-210514",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -32860,6 +32860,17 @@
       "web": "https://www.svenskalag.se/stratosenkopingbtk"
     },
     {
+      "entry": 1231464528,
+      "orgName": "OK Skogsfalken, OKS",
+      "orgNumber": "836200-1722",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb"
+      ],
+      "web": "https://www.skogsfalken.nu/"
+    },
+    {
       "entry": 1231464601,
       "orgName": "Pingstf\u00f6rsamlingen Vireda",
       "orgNumber": "826500-1837",
@@ -34206,6 +34217,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/balingsta"
+    },
+    {
+      "entry": 1231493915,
+      "orgName": "Bondsj\u00f6h\u00f6jdens IK Skidor, BIK",
+      "orgNumber": "888000-2541",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.bikskidor.se/"
     },
     {
       "entry": 1231493931,
@@ -38642,6 +38664,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/kilsbtk"
+    },
+    {
+      "entry": 1231709062,
+      "orgName": "Boo Kanot och Skidklubb",
+      "orgNumber": "802455-3748",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "kanotklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://www.bkos.se/"
     },
     {
       "entry": 1231709120,
@@ -102134,6 +102168,18 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://aseleturism.se/produkter/boende/tegeltrask-bygdegard/"
+    },
+    {
+      "entry": 1234660221,
+      "orgName": "Markbygdens Orienteringsklubb",
+      "orgNumber": "802455-3607",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "orienteringsklubb",
+        "skidl\u00f6parklubb"
+      ],
+      "web": "https://markbygdensok.kanslietonline.se/"
     },
     {
       "entry": 1234660502,

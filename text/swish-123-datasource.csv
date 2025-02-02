@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-02-01-rev-200047
+# Date: 2025-02-02-rev-210526
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3035,6 +3035,7 @@
 "1231463074","828000-0046","Borbygdens Missionsförsamling","https://missionskyrkanibor.se/","religion",""
 "1231463090","824000-1209","Motala Missionsförsamling","https://equmeniakyrkanmotala.se/","religion",""
 "1231463116","817001-5617","Stratos Enköping BTK","https://www.svenskalag.se/stratosenkopingbtk","bordtennisklubb,idrottsförening",""
+"1231464528","836200-1722","OK Skogsfalken, OKS","https://www.skogsfalken.nu/","idrottsförening,orienteringsklubb",""
 "1231464601","826500-1837","Pingstförsamlingen Vireda","https://viredapingst.com/","religion",""
 "1231464684","837001-2679","Svenska Röda Korset","https://www.rodakorset.se/ort/skane/hassleholms-kommun/","hjälporganisation,rödakorset","Hässleholm"
 "1231464767","878500-2422","Medåkers Idrottsförening","https://medakersif.sportadmin.se/","idrottsförening",""
@@ -3159,6 +3160,7 @@
 "1231493444","802429-2420","Borås Skidlöparklubb","https://boråssk.se/","idrottsförening,skidlöparklubb",""
 "1231493808","802487-8632","Varbergs Förenade Surfare","https://www.svenskalag.se/varbergsforenadesurfare","idrottsförening,surfklubb",""
 "1231493816","252003-1911","Balingsta Pastorat","https://www.svenskakyrkan.se/balingsta","religion","Kollekt Västeråkers församling"
+"1231493915","888000-2541","Bondsjöhöjdens IK Skidor, BIK","https://www.bikskidor.se/","idrottsförening,skidlöparklubb",""
 "1231493931","873200-6658","IF Göta Karlstad","https://ifgota.se/","friidrottsförening,idrottsförening",""
 "1231493980","802412-9630","Gula Änglarna","https://gulaanglarna.se/","hjälporganisation,ideell förening",""
 "1231495670","780301-XXXX","Yogama / Marika Andersson","https://www.yogama.nu/","kurser,yoga",""
@@ -3572,6 +3574,7 @@
 "1231707876","802435-1515","Kristen Idrottskontakt, KRIK","https://krik.se/","idrottsförening,religion",""
 "1231709013","802451-3544","Ronneby Folkteater","http://ronnebyfolkteater.se/","improvisationsteater,skådespel,teater,underhållning",""
 "1231709047","802471-8523","Kils Bordtennisklubb","https://www.svenskalag.se/kilsbtk","bordtennisklubb,idrottsförening",""
+"1231709062","802455-3748","Boo Kanot och Skidklubb","https://www.bkos.se/","idrottsförening,kanotklubb,skidlöparklubb",""
 "1231709120","846502-2740","Friskis & Svettis Svedala","https://www.friskissvettis.se/svedala","friskvård,hälsa,idrottsförening",""
 "1231709245","556855-4470","OceaniaAcademy / Spinn MGMT AB","https://oceaniaacademy.com/","meditation,reiki,yoga",""
 "1231709310","857203-6690","IF Väster","https://www.svenskalag.se/ifvaster/","fotbollsklubb,idrottsförening",""
@@ -9413,6 +9416,7 @@
 "1234659942","864501-8881","S:t Simon Borås, Syrisk Ortodoxa Kyrkan i Borås","https://stsimon.se/","religion",""
 "1234659975","802458-2747","Ockelbo Atlet Klubb","https://www.ockelboatletklubb.se/","atletklubb,idrottsförening",""
 "1234660106","802413-8599","Tegelträsk Bygdegårdsförening","https://aseleturism.se/produkter/boende/tegeltrask-bygdegard/","bygdegårdsförening",""
+"1234660221","802455-3607","Markbygdens Orienteringsklubb","https://markbygdensok.kanslietonline.se/","idrottsförening,orienteringsklubb,skidlöparklubb",""
 "1234660502","814400-5785","Rimbo Hembygdsförening","https://www.hembygd.se/rimbo","hembygdsförening",""
 "1234660833","824000-2488","Medevi IF","https://www.svenskalag.se/medeviif","fotbollsklubb,idrottsförening",""
 "1234661120","760511-XXXX","TPs Hundbutik / Linda Ling","https://www.tpshundbutik.se/","djurvård,hundsport,husdjur",""
