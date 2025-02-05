@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-02-02-rev-213924",
+    "date": "2025-02-05-rev-205310",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -15787,6 +15787,16 @@
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/malmocentrum.html"
     },
     {
+      "entry": 1230716811,
+      "orgName": "Matro.nu",
+      "orgNumber": "802481-4199",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://matro.nu/"
+    },
+    {
       "entry": 1230717371,
       "orgName": "S\u00e5gvikens Bygdef\u00f6rening",
       "orgNumber": "889201-7743",
@@ -27556,6 +27566,17 @@
       "web": "https://www.hembygd.se/oxelosund"
     },
     {
+      "entry": 1231209782,
+      "orgName": "Lind\u00f6 FF",
+      "orgNumber": "825001-3748",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/lindoff"
+    },
+    {
       "entry": 1231209998,
       "orgName": "Team Rynkeby",
       "orgNumber": "802533-7786",
@@ -35439,6 +35460,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://araskvarn.se/"
+    },
+    {
+      "entry": 1231557651,
+      "orgName": "Torstorps IF",
+      "orgNumber": "825000-7153",
+      "comment": "Kiosk",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/tif"
     },
     {
       "entry": 1231557826,
@@ -51840,6 +51872,17 @@
       "web": "https://umea.pingst.se/"
     },
     {
+      "entry": 1232279230,
+      "orgName": "Gaffelkonst Restaurang & Catering",
+      "orgNumber": "559065-8315",
+      "comment": null,
+      "categories": [
+        "catering",
+        "restaurant"
+      ],
+      "web": "https://www.gaffelkonst.se/"
+    },
+    {
       "entry": 1232279560,
       "orgName": "Loftahammars Hembygdsf\u00f6rening",
       "orgNumber": "833600-5536",
@@ -54375,6 +54418,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://djurgardenshembygdsforening.se/"
+    },
+    {
+      "entry": 1232384246,
+      "orgName": "Torstorps IF",
+      "orgNumber": "825000-7153",
+      "comment": "Lotteri, Julkalender, Vibergalotteri",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/tif"
     },
     {
       "entry": 1232384436,
@@ -60757,7 +60811,8 @@
       "comment": null,
       "categories": [
         "ridklubb",
-        "ridskola"
+        "ridskola",
+        "ryttarf\u00f6rening"
       ],
       "web": "https://www.tranasridklubb.se/"
     },
@@ -84818,6 +84873,7 @@
       "orgNumber": "802481-2169",
       "comment": null,
       "categories": [
+        "hj\u00e4lporganisation",
         "stiftelse"
       ],
       "web": "https://www.ellashjaltar.se/"
@@ -89200,6 +89256,17 @@
         "juridiska tj\u00e4nster"
       ],
       "web": "https://zeijersborger.se/"
+    },
+    {
+      "entry": 1234012134,
+      "orgName": "Torstorps IF",
+      "orgNumber": "825000-7153",
+      "comment": "Folkspel, Bingolotto, Sverigelotten",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/tif"
     },
     {
       "entry": 1234012175,
@@ -108024,6 +108091,17 @@
       "web": null
     },
     {
+      "entry": 1234992491,
+      "orgName": "Torstorps IF",
+      "orgNumber": "825000-7153",
+      "comment": "Entr\u00e9, Halva potten",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/tif"
+    },
+    {
       "entry": 1234992582,
       "orgName": "Cityf\u00f6tter i Bor\u00e5s AB",
       "orgNumber": "559084-1515",
@@ -113193,17 +113271,6 @@
       "web": "https://www.hembygd.se/notteback"
     },
     {
-      "entry": 1235196373,
-      "orgName": "FrihetsNytt / Marketing4Future M4F AB",
-      "orgNumber": "559291-6455",
-      "comment": null,
-      "categories": [
-        "alternativa media",
-        "alternativa nyheter"
-      ],
-      "web": "https://frihetsnytt.se/"
-    },
-    {
       "entry": 1235196423,
       "orgName": "Scandinavian Safe",
       "orgNumber": "556617-1319",
@@ -115302,6 +115369,17 @@
       "web": "https://www.gittansstiftelse.se/"
     },
     {
+      "entry": 1235288154,
+      "orgName": "Restaurang V\u00e4llagat",
+      "orgNumber": "556748-2970",
+      "comment": null,
+      "categories": [
+        "catering",
+        "restaurant"
+      ],
+      "web": "https://www.vallagat.se/"
+    },
+    {
       "entry": 1235288162,
       "orgName": "Ansgariikyrkans F\u00f6rsamling",
       "orgNumber": "826000-0073",
@@ -115795,6 +115873,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/IKTun/"
+    },
+    {
+      "entry": 1235320445,
+      "orgName": "La Vera Pizza",
+      "orgNumber": "559373-4030",
+      "comment": null,
+      "categories": [
+        "catering",
+        "foodtruck"
+      ],
+      "web": "https://www.laverapizza.se/"
     },
     {
       "entry": 1235322490,
@@ -122323,7 +122412,7 @@
       "entry": 1235600150,
       "orgName": "Torstorps IF",
       "orgNumber": "825000-7153",
-      "comment": null,
+      "comment": "\u00d6vrigt, 12:e spelaren, Medlemshandel, M\u00e5llotto",
       "categories": [
         "fotbollsklubb",
         "idrottsf\u00f6rening"
@@ -135240,6 +135329,17 @@
       "web": "https://www.svenskalag.se/gimoskf"
     },
     {
+      "entry": 1236181143,
+      "orgName": "Magnusk\u00f6k - H\u00e4lsinge Catering, fest & event",
+      "orgNumber": "559129-2692",
+      "comment": null,
+      "categories": [
+        "catering",
+        "restaurant"
+      ],
+      "web": "https://magnusk\u00f6k.se/"
+    },
+    {
       "entry": 1236181820,
       "orgName": "Svenska Utbildningsfonden f\u00f6r Liberia",
       "orgNumber": "802466-3430",
@@ -141164,6 +141264,16 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1236470694,
+      "orgName": "Dissidentpodden / H\u00e5kan Julander",
+      "orgNumber": "650802-XXXX",
+      "comment": null,
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://dissidentpodden.substack.com/"
+    },
+    {
       "entry": 1236471619,
       "orgName": "SK Vide",
       "orgNumber": "817601-5835",
@@ -146900,6 +147010,17 @@
       "web": "https://www.kristinehamnsok.nu/"
     },
     {
+      "entry": 1236719207,
+      "orgName": "Torstorps IF",
+      "orgNumber": "825000-7153",
+      "comment": "Supporterprodukter",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/tif"
+    },
+    {
       "entry": 1236719660,
       "orgName": "Equmenia Sala",
       "orgNumber": "879500-4566",
@@ -151439,6 +151560,18 @@
         "konst\u00e5kningsklubb"
       ],
       "web": "https://www.svenskalag.se/luleaakf"
+    },
+    {
+      "entry": 1236920524,
+      "orgName": "Inblick med Nick / Nick Alinia",
+      "orgNumber": "950519-XXXX",
+      "comment": null,
+      "categories": [
+        "alternativa media",
+        "blog",
+        "podcast"
+      ],
+      "web": "https://www.nickalinia.se/"
     },
     {
       "entry": 1236925226,

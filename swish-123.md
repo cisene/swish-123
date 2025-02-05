@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-02-rev-214009
+Revision: 2025-02-05-rev-205345
 
-Nummer: 14520
+Nummer: 14532
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -11912,6 +11912,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dissidentpodden / Håkan Julander**
+
+    123 647 06 94
+
+
+
+
 **Divers Against Ghost Nets**
 
     123 441 08 09
@@ -18414,13 +18421,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**FrihetsNytt / Marketing4Future M4F AB**
-
-    123 519 63 73
-
-
-
-
 **Frillegården / Andreas Graba**
 
     123 208 25 01
@@ -21565,6 +21565,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **GAFFA**
 
     123 333 96 94
+
+
+
+
+**Gaffelkonst Restaurang & Catering**
+
+    123 227 92 30
 
 
 
@@ -31318,6 +31325,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Inblick med Nick / Nick Alinia**
+
+    123 692 05 24
+
+
+
+
 **Indalens Pastorat**
 
     123 019 39 20 - Kollekt Holms församling
@@ -39563,6 +39577,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**La Vera Pizza**
+
+    123 532 04 45
+
+
+
+
 **Lagan IBK**
 
     123 386 44 36
@@ -41151,6 +41172,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lindy Hop Östersund**
 
     123 147 67 04
+
+
+
+
+**Lindö FF**
+
+    123 120 97 82
 
 
 
@@ -43958,6 +43986,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Magnuskök - Hälsinge Catering, fest & event**
+
+    123 618 11 43
+
+
+
+
 **Magpie Discgolfklubb**
 
     123 062 50 79
@@ -44987,6 +45022,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **MatMattes Catering AB**
 
     123 000 58 19
+
+
+
+
+**Matro.nu**
+
+    123 071 68 11
 
 
 
@@ -55819,6 +55861,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Restaurang Thai Corner AB**
 
     123 141 02 57
+
+
+
+
+**Restaurang Vällagat**
+
+    123 528 81 54
 
 
 
@@ -76144,7 +76193,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Torstorps IF**
 
-    123 560 01 50
+    123 155 76 51 - Kiosk
+
+    123 238 42 46 - Lotteri, Julkalender, Vibergalotteri
+
+    123 401 21 34 - Folkspel, Bingolotto, Sverigelotten
+
+    123 499 24 91 - Entré, Halva potten
+
+    123 560 01 50 - Övrigt, 12:e spelaren, Medlemshandel, Mållotto
+
+    123 671 92 07 - Supporterprodukter
 
 
 
