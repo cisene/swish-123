@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-05-rev-205345
+Revision: 2025-02-07-rev-024010
 
-Nummer: 14532
+Nummer: 14550
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -9414,6 +9414,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bålstan Suomalainen Yhdistys - Bålsta Finska Förening**
+
+    123 209 72 69
+
+
+
+
 **Bårmans Trafikskola AB**
 
     123 254 94 91
@@ -11922,6 +11929,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Divers Against Ghost Nets**
 
     123 441 08 09
+
+
+
+
+**Diö Amatörfiskeklubb**
+
+    123 275 36 89
 
 
 
@@ -22933,6 +22947,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Green Cross**
+
+    123 102 78 79
+
+
+
+
 **Green Devils, Björklövens Supporterklubb**
 
     123 049 88 24
@@ -23360,6 +23381,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Grästorp Pastorat**
 
     123 611 87 72 - Diakonin
+
+
+
+
+**Grästorps Ishockeyklubb**
+
+    123 613 07 02
 
 
 
@@ -29584,6 +29612,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Höör Brukshundklubb**
+
+    123 621 49 10
+
+
+
+
 **Höörs Församling**
 
     123 043 86 30
@@ -31321,6 +31356,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **ImplementDiversity AB**
 
     123 493 44 44
+
+
+
+
+**In Balance fot-& friskvård / Partnia AB**
+
+    123 491 70 19
 
 
 
@@ -34203,6 +34245,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kalmar Atletklubb**
+
+    123 160 93 53
+
+
+
+
 **Kalmar Båtklubb**
 
     123 026 28 08
@@ -34788,6 +34837,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Karlskrona Hockeyklubb**
 
     123 379 42 37
+
+
+
+
+**Karlskrona Läkareförening**
+
+    123 540 38 94
 
 
 
@@ -38343,6 +38399,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kungsängens Sportfiskeklubb**
+
+    123 298 03 40
+
+
+
+
 **Kungsängens Tennisklubb**
 
     123 589 08 35
@@ -39536,6 +39599,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kör för alla! / Siloton AB**
+
+    123 223 83 43
+
+
+
+
 **Körkortcenter i Halmstad**
 
     123 653 86 56
@@ -39839,6 +39909,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Latinamerika i Centrum, LatiCe**
+
+    123 202 09 80
 
     123 629 80 95
 
@@ -41186,6 +41258,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lindö Minigolf och Haga Bangolfklubb**
 
     123 560 61 99
+
+
+
+
+**Linedance Helsingborg**
+
+    123 695 45 80
 
 
 
@@ -42842,7 +42921,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Ludvika TK - Tennis**
+**Ludvika Tennisklubb**
 
     123 680 85 54
 
@@ -48033,6 +48112,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nickebo IK**
+
+    123 187 26 96
+
+
+
+
 **Nicklastorp Golfklubb / Nicklastorp Golf AB**
 
     123 511 64 88
@@ -53135,6 +53221,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Pratham Sweden**
 
     123 900 48 62
+
+
+
+
+**PreBALANS AB**
+
+    123 185 88 85
 
 
 
@@ -69772,6 +69865,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska föreningen för textilkonservering, SFT**
+
+    123 265 52 15
+
+
+
+
 **Svenska Gospelverkstaden**
 
     123 644 19 27
@@ -70345,6 +70445,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska RP-föreningen**
 
     123 125 91 83
+
+
+
+
+**Svenska Rytmikförbundet, SRY**
+
+    123 382 94 13
 
 
 
@@ -84226,6 +84333,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Yantra Studio / Renee Breig**
+
+    123 562 56 37
+
+
+
+
 **YDRE Sportbar / Kenth Lindgren**
 
     123 130 73 96
@@ -85353,6 +85467,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ättekulla lunchen / Fortuna Strandkrog / Fortuna by the Sea AB**
 
     123 000 90 19
+
+
+
+
+**Äventyrsgolf i Linköping City / MS Berg AB**
+
+    123 121 52 84
 
 
 
