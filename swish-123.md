@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-07-rev-024010
+Revision: 2025-02-08-rev-160845
 
-Nummer: 14550
+Nummer: 14565
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3696,6 +3696,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Balsta Bygdegårdsförening**
 
     123 077 97 85
+
+
+
+
+**Bandhagen Dental Care AB**
+
+    123 362 38 16
 
 
 
@@ -18012,6 +18019,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Forsa Sockens Hembygdsförening**
+
+    123 442 81 99
+
+
+
+
 **Forsakars Brukshundklubb**
 
     123 522 93 07
@@ -26768,6 +26782,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hidinge-Lanna Byalag**
+
+    123 467 40 24
+
+
+
+
 **Hietala Trädgård AB**
 
     123 020 25 80
@@ -27505,6 +27526,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Holsljunga Byalag**
 
     123 618 88 74
+
+
+
+
+**Holsljunga Fiberförening**
+
+    123 060 01 71
 
 
 
@@ -58909,6 +58937,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sabeels vänner i Sverige**
+
+    123 350 88 43
+
+
+
+
 **Sackeuskyrkan / Evangelisk luthersk församling Umeå**
 
     123 521 76 90
@@ -59618,6 +59653,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sankta Elisabets Folkhögskola**
+
+    123 595 63 39
+
+
+
+
 **Sannadals Sportklubb**
 
     123 673 46 93
@@ -59684,6 +59726,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Saran Yoga AB**
 
     123 354 88 07
+
+
+
+
+**Saras Beauty & Esthetic AB**
+
+    123 592 98 23
 
 
 
@@ -59802,6 +59851,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Scandinavian Wilderness Experience AB**
 
     123 102 25 08
+
+
+
+
+**Scania Road Runners**
+
+    123 485 71 16
 
 
 
@@ -61970,6 +62026,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SKPF Pensionärerna Skellefteå, avd 58**
+
+    123 499 72 68
+
+
+
+
 **SKPF Pensionärerna Småländska Höglandet, avd 87**
 
     123 436 65 06
@@ -62411,6 +62474,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skönsbergs Bouleklubb**
 
     123 160 00 71
+
+
+
+
+**Sköt om dig - Massage & Friskvård / Agneta Westin**
+
+    123 237 00 47
 
 
 
@@ -75204,6 +75274,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Therese Hundvård / Therese Johansson**
+
+    123 276 05 93
+
+
+
+
 **Therese Lind**
 
     123 512 61 49
@@ -76553,6 +76630,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tranås Reumatikerförening**
+
+    123 499 51 14
+
+
+
+
 **Tranås Ridklubb**
 
     123 270 34 78
@@ -77568,6 +77652,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tystberga Jaktskyteklubb**
 
     123 321 78 90
+
+
+
+
+**Täby Atletklubb**
+
+    123 191 98 77
 
 
 
@@ -81214,6 +81305,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vissefjärda Samhällsförening**
+
+    123 243 51 39 - Gymmet
+
+
+
+
 **Vist Församling**
 
     123 510 25 61
@@ -84144,6 +84242,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Women in Film and Television Sverige, WIFT**
+
+    123 091 15 29
+
+
+
+
 **Women to Remember**
 
     123 688 76 40
@@ -86545,7 +86650,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Öjeby AK**
+**Öjeby Atletklubb**
 
     123 213 47 32
 

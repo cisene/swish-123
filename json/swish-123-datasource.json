@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-02-07-rev-023926",
+    "date": "2025-02-08-rev-160809",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -13602,6 +13602,17 @@
       "web": "https://lakaruppropet.se/"
     },
     {
+      "entry": 1230600171,
+      "orgName": "Holsljunga Fiberf\u00f6rening",
+      "orgNumber": "769625-6630",
+      "comment": null,
+      "categories": [
+        "fiberf\u00f6rening",
+        "samf\u00e4llighetsf\u00f6rening"
+      ],
+      "web": "https://holsljungafiber.se/"
+    },
+    {
       "entry": 1230601922,
       "orgName": "SKPF Pension\u00e4rerna Halmstad, avd 21",
       "orgNumber": "802468-6928",
@@ -20856,6 +20867,16 @@
         "padelklubb"
       ],
       "web": "https://www.svenskalag.se/hovaif"
+    },
+    {
+      "entry": 1230911529,
+      "orgName": "Women in Film and Television Sverige, WIFT",
+      "orgNumber": "802415-7375",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://www.wift.se/"
     },
     {
       "entry": 1230911636,
@@ -43629,6 +43650,17 @@
       "web": "https://www.perhakans.se/"
     },
     {
+      "entry": 1231919877,
+      "orgName": "T\u00e4by Atletklubb",
+      "orgNumber": "816000-4639",
+      "comment": null,
+      "categories": [
+        "atletklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://tabyak.se/"
+    },
+    {
       "entry": 1231925098,
       "orgName": "Padel United Club Sthlm South",
       "orgNumber": "802513-2484",
@@ -47678,7 +47710,7 @@
     },
     {
       "entry": 1232134732,
-      "orgName": "\u00d6jeby AK",
+      "orgName": "\u00d6jeby Atletklubb",
       "orgNumber": "898801-0503",
       "comment": null,
       "categories": [
@@ -53913,6 +53945,18 @@
       "web": "https://plexusvanner.se/"
     },
     {
+      "entry": 1232370047,
+      "orgName": "Sk\u00f6t om dig - Massage & Friskv\u00e5rd / Agneta Westin",
+      "orgNumber": "670228-XXXX",
+      "comment": null,
+      "categories": [
+        "hotstone massage",
+        "laserterapi",
+        "massage"
+      ],
+      "web": "https://skotomdig.se/"
+    },
+    {
       "entry": 1232370112,
       "orgName": "Golf Uppsala AB",
       "orgNumber": "556517-4231",
@@ -55606,6 +55650,16 @@
         "konst\u00e5kningsklubb"
       ],
       "web": "https://www.molndals-kk.com/"
+    },
+    {
+      "entry": 1232435139,
+      "orgName": "Vissefj\u00e4rda Samh\u00e4llsf\u00f6rening",
+      "orgNumber": "832401-8145",
+      "comment": "Gymmet",
+      "categories": [
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "http://gymmet.org/"
     },
     {
       "entry": 1232437374,
@@ -62250,6 +62304,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://norden.se/atradalen/"
+    },
+    {
+      "entry": 1232760593,
+      "orgName": "Therese Hundv\u00e5rd / Therese Johansson",
+      "orgNumber": "770916-XXXX",
+      "comment": null,
+      "categories": [
+        "hundtrim",
+        "hundv\u00e5rd"
+      ],
+      "web": "https://www.hundvard.com/"
     },
     {
       "entry": 1232760833,
@@ -78615,6 +78680,16 @@
       "web": "https://ullaredsresor.com/"
     },
     {
+      "entry": 1233508843,
+      "orgName": "Sabeels v\u00e4nner i Sverige",
+      "orgNumber": "802410-9095",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.sabeelsverige.se/"
+    },
+    {
       "entry": 1233508876,
       "orgName": "J\u00e4rf\u00e4lla CK",
       "orgNumber": "802449-9033",
@@ -81229,6 +81304,17 @@
         "donation"
       ],
       "web": "https://www.stockholm12.se/"
+    },
+    {
+      "entry": 1233623816,
+      "orgName": "Bandhagen Dental Care AB",
+      "orgNumber": "556796-5511",
+      "comment": null,
+      "categories": [
+        "tandkirurgi",
+        "tandl\u00e4kare"
+      ],
+      "web": "https://bandhagendental.se/"
     },
     {
       "entry": 1233623857,
@@ -97627,6 +97713,16 @@
       "web": "http://www.savartradgard.se/"
     },
     {
+      "entry": 1234428199,
+      "orgName": "Forsa Sockens Hembygdsf\u00f6rening",
+      "orgNumber": "887500-5228",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "http://www.forsahembygdsforening.se/"
+    },
+    {
       "entry": 1234428256,
       "orgName": "NRH Trauma Riks",
       "orgNumber": "802496-4085",
@@ -102772,6 +102868,17 @@
       "web": "https://www.svenskakyrkan.se/spanga-kista"
     },
     {
+      "entry": 1234674024,
+      "orgName": "Hidinge-Lanna Byalag",
+      "orgNumber": "875002-9731",
+      "comment": null,
+      "categories": [
+        "byalag",
+        "samh\u00e4llsf\u00f6rening"
+      ],
+      "web": "https://hidinge-lanna.se/"
+    },
+    {
       "entry": 1234674115,
       "orgName": "Sigtuna Orienteringsklubb",
       "orgNumber": "814800-3760",
@@ -105960,6 +106067,17 @@
       "web": "https://naturlarahs.se/"
     },
     {
+      "entry": 1234857116,
+      "orgName": "Scania Road Runners",
+      "orgNumber": "802494-9045",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb"
+      ],
+      "web": "https://www.scaniaroadrunners.se/"
+    },
+    {
       "entry": 1234857595,
       "orgName": "\u00c5storp/Kvidinge IBS",
       "orgNumber": "802431-0438",
@@ -108368,6 +108486,17 @@
       "web": "https://www.pbk-gbg.se/"
     },
     {
+      "entry": 1234995114,
+      "orgName": "Tran\u00e5s Reumatikerf\u00f6rening",
+      "orgNumber": "826500-2967",
+      "comment": null,
+      "categories": [
+        "anh\u00f6rigorganisation",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://tranas.reumatiker.se/"
+    },
+    {
       "entry": 1234995288,
       "orgName": "Kumla Ridklubb",
       "orgNumber": "875700-6864",
@@ -108409,6 +108538,16 @@
         "f\u00f6rening"
       ],
       "web": "https://www.uturf.se/"
+    },
+    {
+      "entry": 1234997268,
+      "orgName": "SKPF Pension\u00e4rerna Skellefte\u00e5, avd 58",
+      "orgNumber": "802418-9493",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.skpf.se/nyheter/local-category/avd-58-skelleftea/"
     },
     {
       "entry": 1234997664,
@@ -129671,6 +129810,17 @@
       "web": "https://www.svenskakyrkan.se/sodravedbopastorat"
     },
     {
+      "entry": 1235929823,
+      "orgName": "Saras Beauty & Esthetic AB",
+      "orgNumber": "559455-0344",
+      "comment": null,
+      "categories": [
+        "estetisk tandkirurgi",
+        "tandl\u00e4kare"
+      ],
+      "web": "https://bandhagendental.se/"
+    },
+    {
       "entry": 1235930169,
       "orgName": "PRO Munka Ljungby",
       "orgNumber": "839400-7564",
@@ -130496,6 +130646,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/gardslosa"
+    },
+    {
+      "entry": 1235956339,
+      "orgName": "Sankta Elisabets Folkh\u00f6gskola",
+      "orgNumber": "802013-6951",
+      "comment": null,
+      "categories": [
+        "folkh\u00f6gskola",
+        "religion"
+      ],
+      "web": "https://elisabet.se/"
     },
     {
       "entry": 1235959267,
