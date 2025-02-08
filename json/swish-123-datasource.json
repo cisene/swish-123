@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-02-08-rev-230332",
+    "date": "2025-02-08-rev-231134",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8941,9 +8941,9 @@
     },
     {
       "entry": 1230395657,
-      "orgName": "Naturskyddsf\u00f6reningen i Blekinge",
+      "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "orgNumber": "835600-7479",
-      "comment": null,
+      "comment": "Blekinge",
       "categories": [
         "intressef\u00f6rening"
       ],
@@ -10535,9 +10535,9 @@
     },
     {
       "entry": 1230460121,
-      "orgName": "Em\u00e5dalens Naturskyddsf\u00f6rening",
+      "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "orgNumber": "833200-6207",
-      "comment": null,
+      "comment": "Em\u00e5dalen",
       "categories": [
         "intressef\u00f6rening",
         "naturskydd"
@@ -38489,9 +38489,9 @@
     },
     {
       "entry": 1231698836,
-      "orgName": "Naturskyddsf\u00f6reningen Norrk\u00f6ping",
+      "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "orgNumber": "825002-5593",
-      "comment": null,
+      "comment": "Norrk\u00f6ping",
       "categories": [
         "naturskydd"
       ],
@@ -50953,9 +50953,9 @@
     },
     {
       "entry": 1232241883,
-      "orgName": "Eksj\u00f6 Naturskyddsf\u00f6rening",
+      "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "orgNumber": "802438-3484",
-      "comment": null,
+      "comment": "Eksj\u00f6",
       "categories": [
         "naturskydd",
         "naturv\u00e5rd"
@@ -56171,9 +56171,9 @@
     },
     {
       "entry": 1232454494,
-      "orgName": "Naturskyddsf\u00f6reningen i Sk\u00e5ne",
+      "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "orgNumber": "845000-4174",
-      "comment": null,
+      "comment": "Sk\u00e5ne",
       "categories": [
         "f\u00f6rening",
         "naturskydd",
@@ -56390,7 +56390,7 @@
     },
     {
       "entry": 1232465995,
-      "orgName": "Naturskyddsf\u00f6reningen",
+      "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "orgNumber": "833600-6534",
       "comment": "Tjust",
       "categories": [
@@ -56552,9 +56552,9 @@
     },
     {
       "entry": 1232488773,
-      "orgName": "Naturskyddsf\u00f6reningen Borl\u00e4nge",
+      "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "orgNumber": "882601-3784",
-      "comment": null,
+      "comment": "Borl\u00e4nge",
       "categories": [
         "f\u00f6rening",
         "naturskydd"
@@ -65925,9 +65925,9 @@
     },
     {
       "entry": 1232904944,
-      "orgName": "Naturskyddsf\u00f6reningen i Sk\u00e5ne",
+      "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "orgNumber": "845000-4174",
-      "comment": "Storkprojektet",
+      "comment": "Sk\u00e5ne, Storkprojektet",
       "categories": [
         "f\u00f6rening",
         "naturskydd"
@@ -73003,9 +73003,9 @@
     },
     {
       "entry": 1233257011,
-      "orgName": "Hallands Naturskyddsf\u00f6rening",
+      "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "orgNumber": "849200-0933",
-      "comment": null,
+      "comment": "Hallands l\u00e4n",
       "categories": [
         "naturskydd",
         "naturv\u00e5rd"
@@ -86268,9 +86268,9 @@
     },
     {
       "entry": 1233873718,
-      "orgName": "Naturskyddsf\u00f6reningen i Motala",
+      "orgName": "Svenska Naturskyddsf\u00f6reningen",
       "orgNumber": "824001-0606",
-      "comment": null,
+      "comment": "Motala",
       "categories": [
         "f\u00f6rening",
         "naturskydd",

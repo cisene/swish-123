@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-08-rev-230408
+Revision: 2025-02-08-rev-231219
 
 Nummer: 14597
 
@@ -13937,13 +13937,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Eksjö Naturskyddsförening**
-
-    123 224 18 83
-
-
-
-
 **Eksjö Pingstförsamling**
 
     123 592 32 14
@@ -14313,13 +14306,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Emådalens Brukshundsklubb**
 
     123 355 36 74
-
-
-
-
-**Emådalens Naturskyddsförening**
-
-    123 046 01 21
 
 
 
@@ -24863,13 +24849,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hallands Fotbollförbund**
 
     123 553 70 22
-
-
-
-
-**Hallands Naturskyddsförening**
-
-    123 325 70 11
 
 
 
@@ -47975,50 +47954,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Naturskyddsföreningen**
-
-    123 246 59 95 - Tjust
-
-
-
-
-**Naturskyddsföreningen Borlänge**
-
-    123 248 87 73
-
-
-
-
-**Naturskyddsföreningen i Blekinge**
-
-    123 039 56 57
-
-
-
-
-**Naturskyddsföreningen i Motala**
-
-    123 387 37 18
-
-
-
-
-**Naturskyddsföreningen i Skåne**
-
-    123 245 44 94
-
-    123 290 49 44 - Storkprojektet
-
-
-
-
-**Naturskyddsföreningen Norrköping**
-
-    123 169 88 36
-
-
-
-
 **Naturum Hornborgasjön / Länsstyrelsen Västra Götaland**
 
     123 543 84 11 - Parkering husbil
@@ -70509,6 +70444,71 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 901 68 34
 
     123 901 90 92
+
+
+
+
+**Svenska Naturskyddsföreningen**
+
+    123 224 18 83 - Eksjö
+
+
+
+
+**Svenska Naturskyddsföreningen**
+
+    123 387 37 18 - Motala
+
+
+
+
+**Svenska Naturskyddsföreningen**
+
+    123 169 88 36 - Norrköping
+
+
+
+
+**Svenska Naturskyddsföreningen**
+
+    123 046 01 21 - Emådalen
+
+
+
+
+**Svenska Naturskyddsföreningen**
+
+    123 246 59 95 - Tjust
+
+
+
+
+**Svenska Naturskyddsföreningen**
+
+    123 039 56 57 - Blekinge
+
+
+
+
+**Svenska Naturskyddsföreningen**
+
+    123 245 44 94 - Skåne
+
+    123 290 49 44 - Skåne, Storkprojektet
+
+
+
+
+**Svenska Naturskyddsföreningen**
+
+    123 325 70 11 - Hallands län
+
+
+
+
+**Svenska Naturskyddsföreningen**
+
+    123 248 87 73 - Borlänge
 
 
 
