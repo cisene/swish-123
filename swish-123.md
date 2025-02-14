@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-14-rev-213214
+Revision: 2025-02-15-rev-002015
 
-Nummer: 14648
+Nummer: 14661
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2828,6 +2828,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Arvika Jaktskytteklubb**
 
     123 269 72 41
+
+
+
+
+**Arvika Konsertförening**
+
+    123 351 19 95
 
 
 
@@ -5824,6 +5831,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Blue Berets MC Sweden, BBMC**
 
     123 007 98 14
+
+
+
+
+**Blue Bird Jazzclub**
+
+    123 380 91 42
 
 
 
@@ -18035,6 +18049,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Folkkulturcentrum**
+
+    123 075 87 06
+
+
+
+
 **Folkkyrkan i Sölvesborg**
 
     123 080 45 59
@@ -19428,6 +19449,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fullerö Golfklubb**
 
     123 442 55 34 - Ställplats
+
+
+
+
+**Fulltofta Gård**
+
+    123 232 59 26
 
 
 
@@ -24500,6 +24528,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gör Nått Då!**
 
     123 140 64 04
+
+
+
+
+**Gösta Werner Sällskapet**
+
+    123 346 40 13
 
 
 
@@ -33240,9 +33275,30 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jazz i Piteå**
+
+    123 133 98 52
+
+
+
+
+**Jazzhouse Landskrona**
+
+    123 427 94 44
+
+
+
+
 **Jazzklubb Nordost, JANO**
 
     123 494 71 72
+
+
+
+
+**Jazzklubben Boston**
+
+    123 578 54 15
 
 
 
@@ -36936,6 +36992,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Konstepidemin**
+
+    123 177 06 27
+
+
+
+
 **Konstfrämjandet Värmland**
 
     123 080 20 09
@@ -38318,6 +38381,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 528 39 81 - Chillbo
 
     123 588 45 15
+
+
+
+
+**Kulturföreningen PULS - Klubb Impuls**
+
+    123 398 72 37
 
 
 
@@ -57868,6 +57938,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Åtvidaberg**
+
+    123 002 84 98
+
+
+
+
 **Rotary Örebro**
 
     123 553 03 65
@@ -76278,6 +76355,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tjärstad Hembygdsförening**
 
     123 009 46 98
+
+
+
+
+**Tjörnjazz**
+
+    123 481 75 40
+
+    123 655 55 10
 
 
 

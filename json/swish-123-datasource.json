@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-02-14-rev-213132",
+    "date": "2025-02-15-rev-001933",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -708,6 +708,16 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://www.svenskalag.se/halsinglandssportklubb"
+    },
+    {
+      "entry": 1230028498,
+      "orgName": "Rotary \u00c5tvidaberg",
+      "orgNumber": "802531-2458",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://www.rotary2405.se/clubInfo/%C3%A5tvidaberg"
     },
     {
       "entry": 1230033696,
@@ -16995,6 +17005,17 @@
       "web": "https://och.nu/yoi/info.html"
     },
     {
+      "entry": 1230758706,
+      "orgName": "Folkkulturcentrum",
+      "orgNumber": "802011-1889",
+      "comment": null,
+      "categories": [
+        "konstf\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.folkkulturcentrum.se/"
+    },
+    {
       "entry": 1230759183,
       "orgName": "\u00d6cker\u00f6 Skyttef\u00f6rening",
       "orgNumber": "857202-4167",
@@ -30856,6 +30877,17 @@
       "web": "https://www.svenskalag.se/IFKParyd"
     },
     {
+      "entry": 1231339852,
+      "orgName": "Jazz i Pite\u00e5",
+      "orgNumber": "898801-0297",
+      "comment": null,
+      "categories": [
+        "jazzclub",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.jazzpitea.se/"
+    },
+    {
       "entry": 1231340421,
       "orgName": "Sk\u00f6nsbergs BK",
       "orgNumber": "889201-1076",
@@ -40701,6 +40733,16 @@
         "supporterklubb"
       ],
       "web": "https://www.jarnkaminerna.se/sofialaktaren-tifo/"
+    },
+    {
+      "entry": 1231770627,
+      "orgName": "Konstepidemin",
+      "orgNumber": "857205-3455",
+      "comment": null,
+      "categories": [
+        "konstf\u00f6rening"
+      ],
+      "web": "https://konstepidemin.se/"
     },
     {
       "entry": 1231772185,
@@ -53676,6 +53718,19 @@
         "dansf\u00f6rening"
       ],
       "web": "https://www.swing.se/"
+    },
+    {
+      "entry": 1232325926,
+      "orgName": "Fulltofta G\u00e5rd",
+      "orgNumber": "556942-8435",
+      "comment": null,
+      "categories": [
+        "bryggeri",
+        "destilleri",
+        "musikevenemang",
+        "ving\u00e5rd"
+      ],
+      "web": "https://fulltofta.com/"
     },
     {
       "entry": 1232326130,
@@ -78109,6 +78164,17 @@
       "web": "https://prostatacancerforbundet.se/viktor/"
     },
     {
+      "entry": 1233464013,
+      "orgName": "G\u00f6sta Werner S\u00e4llskapet",
+      "orgNumber": "838800-5657",
+      "comment": null,
+      "categories": [
+        "konstmuseum",
+        "museum"
+      ],
+      "web": "https://gostawerner.se/"
+    },
+    {
       "entry": 1233464336,
       "orgName": "Pajala IF",
       "orgNumber": "897600-1381",
@@ -79348,6 +79414,17 @@
         "skoterklubb"
       ],
       "web": "http://www.lekvattnetsskoterklubb.se/"
+    },
+    {
+      "entry": 1233511995,
+      "orgName": "Arvika Konsertf\u00f6rening",
+      "orgNumber": "872000-4483",
+      "comment": null,
+      "categories": [
+        "konsertf\u00f6rening",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.arvikakonsertforening.se/"
     },
     {
       "entry": 1233513132,
@@ -85371,6 +85448,17 @@
       "web": "https://www.svenskalag.se/avestabsk"
     },
     {
+      "entry": 1233809142,
+      "orgName": "Blue Bird Jazzclub",
+      "orgNumber": "838200-8434",
+      "comment": null,
+      "categories": [
+        "jazzclub",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.bluebird.se/"
+    },
+    {
       "entry": 1233809258,
       "orgName": "Brinn f\u00f6r Barnen",
       "orgNumber": "802535-4039",
@@ -89574,6 +89662,16 @@
         "kanotklubb"
       ],
       "web": "https://www.westervikskanotklubb.se/"
+    },
+    {
+      "entry": 1233987237,
+      "orgName": "Kulturf\u00f6reningen PULS - Klubb Impuls",
+      "orgNumber": "802017-5710",
+      "comment": null,
+      "categories": [
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.klubbimpuls.se/"
     },
     {
       "entry": 1233987427,
@@ -95535,6 +95633,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/tolleredsif"
+    },
+    {
+      "entry": 1234279444,
+      "orgName": "Jazzhouse Landskrona",
+      "orgNumber": "844001-2881",
+      "comment": null,
+      "categories": [
+        "jazzclub",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.jazzhouselandskrona.se/"
     },
     {
       "entry": 1234279600,
@@ -106052,6 +106161,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://hushallningssallskapet.se/hushallningssallskapet-orebro/"
+    },
+    {
+      "entry": 1234817540,
+      "orgName": "Tj\u00f6rnjazz",
+      "orgNumber": "802528-9714",
+      "comment": null,
+      "categories": [
+        "jazzclub",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://tjornjazz.se.builder.hemsida24.se/"
     },
     {
       "entry": 1234817615,
@@ -127871,6 +127991,17 @@
       "web": "https://www.dosjobroif.com/"
     },
     {
+      "entry": 1235785415,
+      "orgName": "Jazzklubben Boston",
+      "orgNumber": "894701-6088",
+      "comment": null,
+      "categories": [
+        "jazzclub",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://www.skelleftejazz.se/"
+    },
+    {
       "entry": 1235786215,
       "orgName": "\u00d6rgryte Pastorat",
       "orgNumber": "252004-8774",
@@ -144663,6 +144794,17 @@
         "supporterklubb"
       ],
       "web": "https://vskbandy.se/vsk-vannerna/"
+    },
+    {
+      "entry": 1236555510,
+      "orgName": "Tj\u00f6rnjazz",
+      "orgNumber": "802528-9714",
+      "comment": null,
+      "categories": [
+        "jazzclub",
+        "kulturf\u00f6rening"
+      ],
+      "web": "https://tjornjazz.se.builder.hemsida24.se/"
     },
     {
       "entry": 1236555916,
