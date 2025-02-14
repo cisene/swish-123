@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-08-rev-231219
+Revision: 2025-02-14-rev-213214
 
-Nummer: 14597
+Nummer: 14648
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -146,6 +146,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **AB Svensk Discsport**
 
     123 396 88 23
+
+
+
+
+**AB Trinus Travel**
+
+    123 317 89 44
 
 
 
@@ -1212,6 +1219,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Alice Barn**
+
+    123 666 26 88
+
+
+
+
 **Alingsås Biodlarförening**
 
     123 157 26 43
@@ -2026,6 +2040,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Aneby Bibliotek / Aneby Kommun**
 
     123 001 95 21
+
+
+
+
+**Aneby Jazzklubb**
+
+    123 525 06 34
 
 
 
@@ -4137,6 +4158,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**BC Luleå**
+
+    123 467 10 20
+
+    123 538 32 29
+
+
+
+
 **Bcbuddz Live / Branislav Pavlovic**
 
     123 360 39 90
@@ -5357,6 +5387,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Björntjänst Musikkurser Kb**
+
+    123 205 33 79
+
+
+
+
 **Björsäters Hembygdsförening**
 
     123 212 31 56
@@ -5808,6 +5845,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Blädingegården**
 
     123 157 32 29
+
+
+
+
+**Blå Gården i Hemavan**
+
+    123 674 97 66
 
 
 
@@ -6442,6 +6486,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Borlänge Jazzklubb**
+
+    123 265 71 38
+
+
+
+
 **Borlänge Kanotklubb**
 
     123 547 38 14
@@ -6616,6 +6667,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Borås Gymnastik och Idrottsförening**
+
+    123 327 27 96
+
+
+
+
 **Borås Hockeyklubb**
 
     123 009 54 22
@@ -6728,6 +6786,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bosjökloster GK**
 
     123 336 63 90
+
+
+
+
+**Bosjökloster Slottsförvaltning AB**
+
+    123 589 01 81
 
 
 
@@ -7946,6 +8011,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Brahma Kumaris Andliga Världsuniversitet**
 
     123 422 94 15
+
+
+
+
+**Brahmasthani Awareness Society, BAS Nepal**
+
+    123 562 72 45
 
 
 
@@ -9936,6 +10008,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Carlstad Jazz**
+
+    123 134 71 94
+
+
+
+
 **Carlstads BTK**
 
     123 174 73 85
@@ -10242,6 +10321,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Chikondi Chimodzi Child Care Centre**
 
     123 269 28 46
+
+
+
+
+**Child Care Thailand / Raija Larsson**
+
+    123 553 46 07
 
 
 
@@ -10613,6 +10699,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Club Jazz in time**
+
+    123 139 18 12
+
+
+
+
 **Club Parapente Syd, CPS**
 
     123 525 26 63
@@ -10763,6 +10856,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Crossfit Eken / Ekens Sport och Media AB**
 
     123 000 57 10
+
+
+
+
+**CrossFit Karlskoga / Träning och Hälsa Karlskoga AB**
+
+    123 096 84 95
 
 
 
@@ -12183,6 +12283,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Djurhemmet Tigerharen Vegan Sanctuary**
 
     123 018 56 03
+
+
+
+
+**Djurhults kapell / Stiftelsen Fjällbygdens Kapell**
+
+    123 023 48 49
 
 
 
@@ -14388,6 +14495,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Energirörelse / Firman Henry Linnsén**
+
+    123 046 25 64
+
+
+
+
 **Engelbrekts Församling**
 
     123 033 95 15 - Kollekt
@@ -16439,6 +16553,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Falu IF Hockey Camps**
 
     123 690 29 44
+
+
+
+
+**Falu Jazzklubb**
+
+    123 577 54 16
 
 
 
@@ -20203,6 +20324,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen för Digitala Fri- och Rättigheter, DFRI**
 
     123 624 35 70
+
+
+
+
+**Föreningen För Fri Improviserad Musik, FRIM**
+
+    123 630 14 77
 
 
 
@@ -29002,6 +29130,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hässleholms Jazzklubb**
+
+    123 037 99 25
+
+    123 391 56 59 - Bokförsäljning
+
+
+
+
 **Hässleholms Ridhusförening**
 
     123 280 56 53
@@ -32924,6 +33061,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ivar Arpi AB**
+
+    123 027 60 89
+
+
+
+
 **Iyengaryogacenter Östra Göteborg / Ingrid Engström**
 
     123 452 02 19
@@ -33068,6 +33212,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jazz i Alingsås**
+
+    123 082 29 16
+
+
+
+
+**Jazz i Halmstad**
+
+    123 105 99 22
+
+
+
+
 **Jazz i Hällevik**
 
     123 146 65 49
@@ -33078,6 +33236,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Jazz i Jemtland**
 
     123 323 50 09
+
+
+
+
+**Jazzklubb Nordost, JANO**
+
+    123 494 71 72
 
 
 
@@ -34046,6 +34211,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Jönköpings Islamiska Förening**
 
     123 510 07 55
+
+
+
+
+**Jönköpings Jazzklubb**
+
+    123 253 48 81
 
 
 
@@ -39303,6 +39475,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**KvinnorKan**
+
+    123 227 76 55
+
+
+
+
 **Kvinnors Rätt**
 
     123 091 22 87
@@ -43786,6 +43965,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Lärare mot Tobak**
+
+    123 670 20 47
+
+
+
+
 **Lärbro Hembygdsförening**
 
     123 218 13 29
@@ -44788,6 +44974,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Mariakyrkans församling Uddevalla**
 
     123 527 81 06
+
+
+
+
+**Marianne Hillerudhs Minnesfond**
+
+    123 420 68 01
 
 
 
@@ -48754,6 +48947,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nordisk Naturterapi**
+
+    123 234 97 77
+
+
+
+
 **Nordisk Salong / Helsingborgs Konstförening**
 
     123 317 57 83
@@ -49369,6 +49569,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Norrtelje Jazzclub / Jazzmusikens Vänner i Norrtelje**
+
+    123 663 03 96
+
+
+
+
 **Norrtälje Basket**
 
     123 559 48 82
@@ -49626,6 +49833,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ny Generation Elev och Studentorganisation**
 
     123 175 79 13
+
+
+
+
+**Ny Solidaritet**
+
+    123 046 22 18
 
 
 
@@ -51139,6 +51353,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Orienteringsklubben Vallonerna**
+
+    123 191 66 42
+
+
+
+
 **Orkesta Hembygdsförening**
 
     123 045 32 25
@@ -51994,6 +52215,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Pensionärer i Gröna Västar**
 
     123 216 41 68
+
+
+
+
+**Pensionärernas Badmintonklubb**
+
+    123 597 58 26
 
 
 
@@ -56344,6 +56572,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet HjärtLung**
+
+    123 295 52 50 - Skellefteå
+
+
+
+
 **Riksförbundet HjärtLung Lycksele**
 
     123 675 21 66
@@ -57965,6 +58200,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **RUM - Riksförbundet Unga Musikanter**
 
     123 900 75 84
+
+
+
+
+**Rumskulla Hembygdsförening**
+
+    123 272 90 69
 
 
 
@@ -60319,6 +60561,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Shalom över Israel**
+
+    123 352 68 03
+
+
+
+
 **Shanta Idrottsförening**
 
     123 338 75 03
@@ -61483,6 +61732,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skellefteå Baseboll Softboll Klubb, SBSK**
 
     123 252 78 69
+
+
+
+
+**Skellefteå Berättarförening**
+
+    123 535 02 77
 
 
 
@@ -63023,6 +63279,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Smoke Rings Jazzklubb Mariestad**
+
+    123 186 47 27
+
+
+
+
 **SMU i Immanuelskyrkan Jönköping**
 
     123 182 42 67
@@ -63251,6 +63514,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Socialdemokraterna Ystad**
 
     123 019 68 16
+
+
+
+
+**Socialisterna - Välfärdspartiet**
+
+    123 192 78 13
 
 
 
@@ -63778,6 +64048,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SoulMind / Anna Candela**
 
     123 348 62 06
+
+
+
+
+**Soulroom Yoga & Workshop AB**
+
+    123 095 75 14
+
+    123 144 88 85
 
 
 
@@ -67845,6 +68124,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Storkyrkans Stödförening**
+
+    123 259 48 02
+
+
+
+
 **Storsjö Bygdegård**
 
     123 107 28 91
@@ -68591,6 +68877,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Stöpen IBK**
+
+    123 095 95 10 - Trumma
 
     123 281 60 80
 
@@ -69591,6 +69879,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svensk Socialpolitisk Förening**
 
     123 298 49 79
+
+
+
+
+**Svensk-Sudanska Föreningen**
+
+    123 379 47 32
 
 
 
@@ -70853,6 +71148,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
+    123 032 87 24 - Laholm
+
+
+
+
+**Svenska Röda Korset**
+
     123 320 16 70 - Kungsälv
 
 
@@ -71263,6 +71565,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sveriges Biodlares Riksförbund**
 
     123 693 28 34
+
+
+
+
+**Sveriges Blåbandförbund**
+
+    123 180 81 20
 
 
 
@@ -80949,6 +81258,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Viksjöforsbaletten Gymnastikförening**
+
+    123 033 46 23
+
+
+
+
 **Viksängskyrkan**
 
     123 042 39 96 - Ungdomsverksamheten
@@ -86692,6 +87008,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 ## Ö
 
+**Öbacka Jazz & Blues**
+
+    123 306 75 76
+
+
+
+
 **Öckerö Hembygdsförening**
 
     123 335 13 35
@@ -86767,6 +87090,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ödeshögs TK**
 
     123 577 32 96
+
+
+
+
+**Ödmårdens Stavkyrka - Kultur Oklagård**
+
+    123 553 84 00
 
 
 
@@ -87514,6 +87844,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Örkelljunga VK**
 
     123 196 35 03
+
+
+
+
+**Örkelljunga Volleybollklubb**
+
+    123 625 39 18
 
 
 
