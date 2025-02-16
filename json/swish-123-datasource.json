@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-02-15-rev-001933",
+    "date": "2025-02-17-rev-003536",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -2688,6 +2688,16 @@
       "web": "https://www.hjart-lung.se/riksforbundet/stockholm/lokalforeningar/stockholm/"
     },
     {
+      "entry": 1230126540,
+      "orgName": "PRO Kolb\u00e4ck",
+      "orgNumber": "878001-6575",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/vastmanland/kommun/hallstahammar/pro-kolback"
+    },
+    {
       "entry": 1230127076,
       "orgName": "Partiet V\u00e4ndpunkt",
       "orgNumber": "802521-4621",
@@ -3367,6 +3377,16 @@
       "web": "https://www.hedby.se/"
     },
     {
+      "entry": 1230180307,
+      "orgName": "Munkedals Hembygdsf\u00f6rening",
+      "orgNumber": "854600-5458",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/munkedals-hembygdsf-rening"
+    },
+    {
       "entry": 1230180695,
       "orgName": "Nordic Reel Icons / Nordic Legions",
       "orgNumber": "802541-6721",
@@ -3557,6 +3577,17 @@
       "web": "https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan"
     },
     {
+      "entry": 1230183459,
+      "orgName": "K\u00f6gels Biodlingstj\u00e4nster AB",
+      "orgNumber": "559056-2491",
+      "comment": null,
+      "categories": [
+        "biodling",
+        "f\u00f6rs\u00e4ljning"
+      ],
+      "web": "https://lundahonung.se/"
+    },
+    {
       "entry": 1230183715,
       "orgName": "Skepparsl\u00f6vs IF",
       "orgNumber": "838200-3633",
@@ -3728,7 +3759,7 @@
     },
     {
       "entry": 1230186429,
-      "orgName": "Korpf\u00f6rening Lycksele",
+      "orgName": "Korpen Lycksele",
       "orgNumber": "895400-5651",
       "comment": null,
       "categories": [
@@ -7860,6 +7891,16 @@
       "web": "https://www.svenskalag.se/sundsvallblueheroesbbk"
     },
     {
+      "entry": 1230342568,
+      "orgName": "PRO Bergshamra-Ulriksdal",
+      "orgNumber": "802412-3930",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/stockholm/kommun/solna/pro-bergshamra-ulriksdal"
+    },
+    {
       "entry": 1230345140,
       "orgName": "Batalj Event AB",
       "orgNumber": "556779-7377",
@@ -10620,6 +10661,16 @@
       "web": "https://ljusfallshammar.nu/"
     },
     {
+      "entry": 1230461137,
+      "orgName": "PRO Bor\u00e5s V\u00e4stra",
+      "orgNumber": "802514-2319",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/sodra-alvsborg/kommun/boras/pro-boras-vastra"
+    },
+    {
       "entry": 1230461244,
       "orgName": "Arilds Byalag",
       "orgNumber": "843001-4087",
@@ -11121,6 +11172,17 @@
         "hundsport"
       ],
       "web": "https://stockholmshundsportcentrum.se/"
+    },
+    {
+      "entry": 1230484170,
+      "orgName": "Korpen V\u00e4nersborg",
+      "orgNumber": "862500-7706",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenvanersborg"
     },
     {
       "entry": 1230484501,
@@ -14569,6 +14631,17 @@
       "web": "https://www.hembygd.se/marmabygden"
     },
     {
+      "entry": 1230643965,
+      "orgName": "Skarpn\u00e4cks Fritidstr\u00e4dg\u00e5rdar",
+      "orgNumber": "802011-2309",
+      "comment": null,
+      "categories": [
+        "kolonif\u00f6rening",
+        "kolonitr\u00e4dg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://skarpnacksfritidstradgardar.wordpress.com/"
+    },
+    {
       "entry": 1230644427,
       "orgName": "Specialklubben Rhodesian Ridgeback Sverige, SRRS",
       "orgNumber": "802401-4576",
@@ -16637,6 +16710,18 @@
       "web": "https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-umea-norra-/"
     },
     {
+      "entry": 1230745398,
+      "orgName": "Nyk\u00f6pings Biodlaref\u00f6rening",
+      "orgNumber": "819001-4152",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://nykopingsbf.biodlarna.se/"
+    },
+    {
       "entry": 1230746321,
       "orgName": "Wexi\u00f6 Rugby Klubb",
       "orgNumber": "829502-0468",
@@ -17646,6 +17731,18 @@
         "utbildning"
       ],
       "web": "https://www.underbaraadhd.se/"
+    },
+    {
+      "entry": 1230793455,
+      "orgName": "Jimmie S\u00f6derquist Massage & Tr\u00e4ning",
+      "orgNumber": "556998-7653",
+      "comment": null,
+      "categories": [
+        "massage",
+        "tr\u00e4ning",
+        "tr\u00e4ningsr\u00e5dgivning"
+      ],
+      "web": "https://www.jimmiesoderquist.se/"
     },
     {
       "entry": 1230793604,
@@ -19084,6 +19181,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://ostersif.se/"
+    },
+    {
+      "entry": 1230846238,
+      "orgName": "Hubbestads Alliansf\u00f6rsamling",
+      "orgNumber": "828000-4055",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://hubbestadsalliansforsamling.com/"
     },
     {
       "entry": 1230846246,
@@ -27453,7 +27560,7 @@
     },
     {
       "entry": 1231197441,
-      "orgName": "Korpf\u00f6rening H\u00e4ssleholm",
+      "orgName": "Korpen H\u00e4ssleholm",
       "orgNumber": "837000-5525",
       "comment": null,
       "categories": [
@@ -33914,6 +34021,16 @@
       "web": "https://www.chgk.se/"
     },
     {
+      "entry": 1231480714,
+      "orgName": "Svenska Basketbollf\u00f6rbundet, SBBF",
+      "orgNumber": "802000-2690",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rbund"
+      ],
+      "web": "https://www.basket.se/"
+    },
+    {
       "entry": 1231480904,
       "orgName": "Arvidsjaurs Golfklubb",
       "orgNumber": "899100-6274",
@@ -38475,6 +38592,18 @@
       "web": "https://www.facebook.com/Orkelljungaskytte/"
     },
     {
+      "entry": 1231677418,
+      "orgName": "Gr\u00e4nnaortens Biodlarf\u00f6rening",
+      "orgNumber": "802459-8263",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://granna.biodlarna.se/"
+    },
+    {
       "entry": 1231677616,
       "orgName": "Omduvill / Margaretha T\u00e4rnstr\u00f6m",
       "orgNumber": "540104-XXXX",
@@ -41954,6 +42083,17 @@
       "web": "https://ekbackskyrkan.se/"
     },
     {
+      "entry": 1231822287,
+      "orgName": "Eskilstuna Fors Inner Wheel Club",
+      "orgNumber": "802457-3548",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1231822899,
       "orgName": "Str\u00f6msunds Pastorat",
       "orgNumber": "252003-9203",
@@ -45362,6 +45502,18 @@
       "web": "https://www.laget.se/IlsboSK1/"
     },
     {
+      "entry": 1231988807,
+      "orgName": "Lidk\u00f6pings Biodlaref\u00f6rening",
+      "orgNumber": "802449-6419",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://lidbi.se/"
+    },
+    {
       "entry": 1231989151,
       "orgName": "Eqmeniakyrkan Toarp",
       "orgNumber": "864501-3452",
@@ -45677,6 +45829,18 @@
         "b\u00e5tklubb"
       ],
       "web": "https://alnobatklubb.com/"
+    },
+    {
+      "entry": 1231997907,
+      "orgName": "Friskis & Svettis S\u00e4len-Malung",
+      "orgNumber": "884401-2925",
+      "comment": null,
+      "categories": [
+        "friskv\u00e5rd",
+        "h\u00e4lsa",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.friskissvettis.se/salenmalung"
     },
     {
       "entry": 1231998228,
@@ -50533,6 +50697,17 @@
         "simklubb"
       ],
       "web": "https://www.svenskalag.se/julitagoif"
+    },
+    {
+      "entry": 1232221564,
+      "orgName": "Kryddan i tillvaron AB",
+      "orgNumber": "556839-5734",
+      "comment": "S\u00e4l-/havs\u00f6rnsafari",
+      "categories": [
+        "naturv\u00e5rd",
+        "safariturer"
+      ],
+      "web": "https://kryddanitillvaron.se/"
     },
     {
       "entry": 1232221687,
@@ -55996,7 +56171,7 @@
     {
       "entry": 1232429983,
       "orgName": "Aktiva Seniorer Nora",
-      "orgNumber": "012278-7716",
+      "orgNumber": "802525-8131",
       "comment": null,
       "categories": [
         "pension\u00e4rsklubb"
@@ -56410,6 +56585,16 @@
         "stuguthyrning"
       ],
       "web": "https://rattviksgk.se/gast/golfbyn/"
+    },
+    {
+      "entry": 1232454049,
+      "orgName": "Hundklubben Dundret",
+      "orgNumber": "897300-7431",
+      "comment": null,
+      "categories": [
+        "hundklubb"
+      ],
+      "web": "http://www.hkdundret.se/"
     },
     {
       "entry": 1232454072,
@@ -58802,6 +58987,16 @@
       "web": "https://vallensbmxhall.se/"
     },
     {
+      "entry": 1232609170,
+      "orgName": "PRO Hede-Vemdalen",
+      "orgNumber": "892600-8650",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/jamtland/kommun/harjedalen/pro-hede-vemdalen"
+    },
+    {
       "entry": 1232609972,
       "orgName": "Knivsta Boxningsklubb",
       "orgNumber": "802541-1425",
@@ -60096,6 +60291,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/BKMix/"
+    },
+    {
+      "entry": 1232662302,
+      "orgName": "Korpen Halmstad",
+      "orgNumber": "849200-9603",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "korpenf\u00f6rening"
+      ],
+      "web": "https://www.korpen.se/korpenhalmstad"
     },
     {
       "entry": 1232664324,
@@ -66779,7 +66985,8 @@
       "comment": null,
       "categories": [
         "biodlaref\u00f6rening",
-        "biodling"
+        "biodling",
+        "naturbruk"
       ],
       "web": "https://sotenas.biodlarna.se/"
     },
@@ -66863,6 +67070,17 @@
         "transporttj\u00e4nst"
       ],
       "web": "https://sakrahander.se/"
+    },
+    {
+      "entry": 1232933976,
+      "orgName": "Silverkatts katthus / Kicki Lov\u00e9n",
+      "orgNumber": "860407-XXXX",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://www.facebook.com/people/Silverkatts-katthus/100089800024551/"
     },
     {
       "entry": 1232939411,
@@ -69381,6 +69599,19 @@
       "web": "https://www.lyckebygille.com/"
     },
     {
+      "entry": 1233053725,
+      "orgName": "N\u00e4tra Pr\u00e4stbord G\u00e5rd / Johan Nattglim",
+      "orgNumber": "771128-XXXX",
+      "comment": null,
+      "categories": [
+        "biodling",
+        "f\u00f6rs\u00e4ljning",
+        "gr\u00f6nsaksodling",
+        "h\u00f6nsavel"
+      ],
+      "web": "https://www.n\u00e4trapr\u00e4stbord.se/"
+    },
+    {
       "entry": 1233054285,
       "orgName": "Stockholm BJJ Center",
       "orgNumber": "802457-7325",
@@ -70970,6 +71201,16 @@
       "web": "https://www.hembygd.se/lastringebygden"
     },
     {
+      "entry": 1233127628,
+      "orgName": "Missionsf\u00f6rsamlingen G\u00e4llivare",
+      "orgNumber": "897900-0307",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.kyrktorget.se/missionforsamlingen.gallivare"
+    },
+    {
       "entry": 1233127784,
       "orgName": "Kvinnojouren Borl\u00e4nge",
       "orgNumber": "882601-0731",
@@ -71715,6 +71956,18 @@
         "intressef\u00f6rening"
       ],
       "web": "https://www.lrf.se/regioner/varmland/"
+    },
+    {
+      "entry": 1233174802,
+      "orgName": "Sundbybergs & Sp\u00e5ngaortens Biodlaref\u00f6rening",
+      "orgNumber": "802462-9241",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://ssb.biodlarna.se/"
     },
     {
       "entry": 1233175783,
@@ -73964,6 +74217,16 @@
       "web": "https://www.gapminder.org/"
     },
     {
+      "entry": 1233275690,
+      "orgName": "Vilhelminabygdens Skoterorganisation",
+      "orgNumber": "896100-8045",
+      "comment": null,
+      "categories": [
+        "skoterklubb"
+      ],
+      "web": "https://vilhelminaskoter.org/"
+    },
+    {
       "entry": 1233275708,
       "orgName": "Stegeborgs IF",
       "orgNumber": "802432-1351",
@@ -74188,6 +74451,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.svegshembygdsf\u00f6rening.se/"
+    },
+    {
+      "entry": 1233278918,
+      "orgName": "PRO Husby-L\u00e5ngshyttan",
+      "orgNumber": "882000-1884",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/dalarna/kommun/hedemora/pro-husby-langshyttan"
     },
     {
       "entry": 1233278983,
@@ -81861,6 +82134,16 @@
       "web": "https://www.svenskalag.se/christianstadsskyttesallskap"
     },
     {
+      "entry": 1233620671,
+      "orgName": "Rotary V\u00e4ster\u00e5s Aurora",
+      "orgNumber": "802498-3119",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://vasteras-aurora.rotary2335.se/"
+    },
+    {
       "entry": 1233622107,
       "orgName": "EFS Kretsf\u00f6rening Sandvikeng\u00e5rden",
       "orgNumber": "872000-3212",
@@ -83839,6 +84122,16 @@
       "web": "https://www.trollslandeforeningen.se/"
     },
     {
+      "entry": 1233717675,
+      "orgName": "Armeniska Kulturf\u00f6reningen i G\u00f6teborgs Kommun",
+      "orgNumber": "857206-5558",
+      "comment": null,
+      "categories": [
+        "hemlandsf\u00f6rening"
+      ],
+      "web": "https://www.facebook.com/groups/597282013795076/"
+    },
+    {
       "entry": 1233717683,
       "orgName": "Bellevue Farm / Norrmalmsodlarna",
       "orgNumber": "802499-2987",
@@ -84238,6 +84531,18 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1233742400,
+      "orgName": "H\u00e4ver\u00f6 Biodlaref\u00f6rening",
+      "orgNumber": "802492-8445",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://haverobf.biodlarna.se/"
     },
     {
       "entry": 1233742541,
@@ -85208,6 +85513,18 @@
       "web": "https://www.khk.se/"
     },
     {
+      "entry": 1233794393,
+      "orgName": "Kalmarbygdens biodlarf\u00f6rening",
+      "orgNumber": "802545-9549",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://kalmarbygdensbiodlare.biodlarna.se/"
+    },
+    {
       "entry": 1233794732,
       "orgName": "Svensk-Sudanska F\u00f6reningen",
       "orgNumber": "802013-0251",
@@ -85226,6 +85543,18 @@
         "scoutk\u00e5r"
       ],
       "web": "https://areduved.scout.se/"
+    },
+    {
+      "entry": 1233795069,
+      "orgName": "Norrt\u00e4ljeortens Biodlarf\u00f6rening",
+      "orgNumber": "814400-9969",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://norrtaljebiodlarna.se/"
     },
     {
       "entry": 1233795242,
@@ -87237,6 +87566,16 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "http://www.onaby.se/"
+    },
+    {
+      "entry": 1233887049,
+      "orgName": "Scouterna Br\u00f6sarp",
+      "orgNumber": "838800-9451",
+      "comment": null,
+      "categories": [
+        "scoutk\u00e5r"
+      ],
+      "web": "https://brosarp.scout.se/"
     },
     {
       "entry": 1233887361,
@@ -89654,6 +89993,16 @@
       "web": "https://www.svenskalag.se/hallnasskf"
     },
     {
+      "entry": 1233986452,
+      "orgName": "PRO Tullinge",
+      "orgNumber": "812800-8193",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/stockholm/kommun/botkyrka/pro-tullinge"
+    },
+    {
       "entry": 1233986908,
       "orgName": "Westerviks KK - Kanot",
       "orgNumber": "833600-1840",
@@ -91748,6 +92097,18 @@
       "web": "https://umea.kfum.se/"
     },
     {
+      "entry": 1234118220,
+      "orgName": "Timmervikens Skafferi / Josefina \u00c5kerlund",
+      "orgNumber": "810821-XXXX",
+      "comment": null,
+      "categories": [
+        "biodling",
+        "f\u00f6rs\u00e4ljning",
+        "gr\u00f6nsaksodling"
+      ],
+      "web": "https://www.timmervikensskafferi.se/"
+    },
+    {
       "entry": 1234120341,
       "orgName": "S\u00e4llskapet f\u00f6r Restaureringskonst",
       "orgNumber": "802468-9393",
@@ -93789,6 +94150,18 @@
       "web": "https://www.vallentunabrukshundklubb.se/"
     },
     {
+      "entry": 1234202842,
+      "orgName": "Munka Ljungby Biodlarf\u00f6rening",
+      "orgNumber": "802506-0354",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://munkabi.com/"
+    },
+    {
       "entry": 1234203022,
       "orgName": "Djur\u00f6 Byalag",
       "orgNumber": "802450-7918",
@@ -95501,7 +95874,8 @@
       "orgNumber": "556197-7025",
       "comment": null,
       "categories": [
-        "media"
+        "media",
+        "tidsskrifter"
       ],
       "web": "https://www.dagen.se/dagenvision/"
     },
@@ -98944,6 +99318,18 @@
       "web": "https://www.alingsaskarateklubb.se/"
     },
     {
+      "entry": 1234472130,
+      "orgName": "Ronnebyortens Biodlarf\u00f6rening",
+      "orgNumber": "835600-6877",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://rbybiodlare.blogspot.com/"
+    },
+    {
       "entry": 1234472387,
       "orgName": "Team Rynkeby",
       "orgNumber": "802534-5938",
@@ -99941,6 +100327,17 @@
         "persontransport"
       ],
       "web": "https://www.lonnsbuss.se/"
+    },
+    {
+      "entry": 1234518379,
+      "orgName": "IFK V\u00e4ster\u00e5s FK",
+      "orgNumber": "878001-2962",
+      "comment": "P12",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.ifk.nu/"
     },
     {
       "entry": 1234520037,
@@ -102798,6 +103195,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.ggif.se/"
+    },
+    {
+      "entry": 1234644571,
+      "orgName": "Ronnebyortens Biodlarf\u00f6rening",
+      "orgNumber": "835600-6877",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://rbybiodlare.blogspot.com/"
     },
     {
       "entry": 1234645057,
@@ -114895,6 +115304,16 @@
       "web": "https://lass.no-ip.com/"
     },
     {
+      "entry": 1235219787,
+      "orgName": "Kungs\u00f6rs Baptistf\u00f6rsamling",
+      "orgNumber": "878500-0749",
+      "comment": "L\u00e4gerverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.centrumkyrkankungsor.se/"
+    },
+    {
       "entry": 1235219993,
       "orgName": "R\u00e5\u00e5 Byalag",
       "orgNumber": "802463-4936",
@@ -122943,6 +123362,16 @@
       "web": "https://www.fridhemskanotisterna.se/"
     },
     {
+      "entry": 1235568951,
+      "orgName": "SKPF Pension\u00e4rerna Boden, avd 220",
+      "orgNumber": "897001-8886",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://www.skpf.se/nyheter/local-category/boden-avd-220/"
+    },
+    {
       "entry": 1235570015,
       "orgName": "Sveriges Kommunistiska Parti",
       "orgNumber": "815201-3598",
@@ -129115,6 +129544,18 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1235842927,
+      "orgName": "G\u00f6teborgs och Bohusl\u00e4ns Biodlardistrikt",
+      "orgNumber": "853300-8820",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": null
+    },
+    {
       "entry": 1235843107,
       "orgName": "\u00d6vre Jumkil Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "817605-3588",
@@ -129449,10 +129890,12 @@
     {
       "entry": 1235867619,
       "orgName": "Enk\u00f6pings Biodlare",
-      "orgNumber": "810607-XXXX",
+      "orgNumber": "817607-0822",
       "comment": null,
       "categories": [
-        "biodling"
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
       ],
       "web": "http://enkopingsbiodlare.se/"
     },
@@ -129853,6 +130296,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/vallentuna"
+    },
+    {
+      "entry": 1235889332,
+      "orgName": "PRO Limhamn",
+      "orgNumber": "846003-0730",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/skane/kommun/malmo/pro-limhamn"
     },
     {
       "entry": 1235890017,
@@ -132684,6 +133137,17 @@
       "web": "https://helamanniskan.se/lerum/"
     },
     {
+      "entry": 1236021372,
+      "orgName": "R\u00f6ke Sockengille",
+      "orgNumber": "837001-2265",
+      "comment": null,
+      "categories": [
+        "hembygdsf\u00f6rening",
+        "sockenf\u00f6rening"
+      ],
+      "web": "https://www.hembygd.se/roke"
+    },
+    {
       "entry": 1236021380,
       "orgName": "G\u00e4vle Shotokan Karateklubb",
       "orgNumber": "885000-7884",
@@ -134792,6 +135256,16 @@
         "ishockeyklubb"
       ],
       "web": "https://www.kalmarhockey.com/"
+    },
+    {
+      "entry": 1236118764,
+      "orgName": "PRO Falun",
+      "orgNumber": "883201-6953",
+      "comment": null,
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://pro.se/distrikt/dalarna/kommun/falun/pro-falun"
     },
     {
       "entry": 1236118772,
@@ -138797,6 +139271,16 @@
       "web": "https://www.unizonjourer.se/kvinnohusetorebro/"
     },
     {
+      "entry": 1236276083,
+      "orgName": "Aktiva Seniorer Nora",
+      "orgNumber": "802525-8131",
+      "comment": "Resor",
+      "categories": [
+        "pension\u00e4rsklubb"
+      ],
+      "web": "https://nora.aktivaseniorer.com/"
+    },
+    {
       "entry": 1236276281,
       "orgName": "Korstr\u00e4sk Byaf\u00f6rening",
       "orgNumber": "898801-3069",
@@ -139199,6 +139683,16 @@
         "religion"
       ],
       "web": "https://missionsforsamlingen.se/"
+    },
+    {
+      "entry": 1236297147,
+      "orgName": "Equmeniakyrkan S\u00f6derhamn",
+      "orgNumber": "886000-0986",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://equmeniakyrkan.se/soderhamn/"
     },
     {
       "entry": 1236297253,
@@ -143315,6 +143809,18 @@
       "web": "https://www.team-rynkeby.se/"
     },
     {
+      "entry": 1236506893,
+      "orgName": "Mariestads Biodlarf\u00f6rening",
+      "orgNumber": "802436-2488",
+      "comment": null,
+      "categories": [
+        "biodlaref\u00f6rening",
+        "biodling",
+        "naturbruk"
+      ],
+      "web": null
+    },
+    {
       "entry": 1236507032,
       "orgName": "Rotary Simrishamn",
       "orgNumber": "642384-1888",
@@ -144565,6 +145071,16 @@
         "utbildning"
       ],
       "web": "https://www.korkortcenter.com/"
+    },
+    {
+      "entry": 1236538706,
+      "orgName": "Kungs\u00f6rs \u00c5tervinning & Secondhand, K\u00c5S",
+      "orgNumber": "878500-0749",
+      "comment": null,
+      "categories": [
+        "\u00e5tervinning"
+      ],
+      "web": "https://secondhandkungsor.se/"
     },
     {
       "entry": 1236538854,
@@ -149255,6 +149771,23 @@
       "web": "https://www.evangeliskabrodraforsamlingen.se/"
     },
     {
+      "entry": 1236761217,
+      "orgName": "Korpen Malm\u00f6 IF",
+      "orgNumber": "802437-9748",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "bordtennisklubb",
+        "fotbollsklubb",
+        "handbollsklubb",
+        "innebandyklubb",
+        "ishockeyklubb",
+        "pickleballklubb",
+        "volleybollklubb"
+      ],
+      "web": "https://www.korpen.se/korpenmalmo"
+    },
+    {
       "entry": 1236761464,
       "orgName": "Junos Kamp",
       "orgNumber": "802515-2003",
@@ -150345,7 +150878,8 @@
       "comment": null,
       "categories": [
         "biodlaref\u00f6rening",
-        "biodling"
+        "biodling",
+        "naturbruk"
       ],
       "web": "https://lerumsbiodlare.se/"
     },
@@ -150721,6 +151255,16 @@
         "b\u00e5ts\u00e4llskap"
       ],
       "web": "https://hbs.se/"
+    },
+    {
+      "entry": 1236816490,
+      "orgName": "Kungs\u00f6rs Baptistf\u00f6rsamling",
+      "orgNumber": "878500-0749",
+      "comment": "Fadderverksamhet",
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.centrumkyrkankungsor.se/"
     },
     {
       "entry": 1236817480,
@@ -151928,6 +152472,17 @@
         "bygdeg\u00e5rdsf\u00f6rening"
       ],
       "web": "https://bygdegardarna.se/dalfors/"
+    },
+    {
+      "entry": 1236882575,
+      "orgName": "Honungsboden AB",
+      "orgNumber": "556362-5283",
+      "comment": null,
+      "categories": [
+        "biodling",
+        "naturbruk"
+      ],
+      "web": "https://honungsboden.se/"
     },
     {
       "entry": 1236882831,
@@ -153164,7 +153719,9 @@
       "orgNumber": "823000-1391",
       "comment": null,
       "categories": [
+        "biodlaref\u00f6rening",
         "biodling",
+        "naturbruk",
         "riksf\u00f6rbund"
       ],
       "web": "https://www.biodlarna.se/"

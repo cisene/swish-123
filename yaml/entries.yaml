@@ -2218,7 +2218,7 @@ entries:
 
 - entry: 1230126540
   orgName: PRO Kolbäck
-  orgNumber: null
+  orgNumber: 878001-6575
   comment: null
   categories:
   - pensionärsklubb
@@ -2784,6 +2784,14 @@ entries:
   - byalag
   web: https://www.hedby.se/
 
+- entry: 1230180307
+  orgName: Munkedals Hembygdsförening
+  orgNumber: 854600-5458
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/munkedals-hembygdsf-rening
+
 - entry: 1230180695
   orgName: Nordic Reel Icons / Nordic Legions
   orgNumber: 802541-6721
@@ -2938,6 +2946,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/gideonsbergskyrkan
 
+- entry: 1230183459
+  orgName: Kögels Biodlingstjänster AB
+  orgNumber: 559056-2491
+  comment: null
+  categories:
+  - biodling
+  - försäljning
+  web: https://lundahonung.se/
+
 - entry: 1230183715
   orgName: Skepparslövs IF
   orgNumber: 838200-3633
@@ -3077,7 +3094,7 @@ entries:
   web: https://www.gullbrannakyrkan.se/
 
 - entry: 1230186429
-  orgName: Korpförening Lycksele
+  orgName: Korpen Lycksele
   orgNumber: 895400-5651
   comment: null
   categories:
@@ -6478,6 +6495,14 @@ entries:
   - parasport
   web: https://www.svenskalag.se/sundsvallblueheroesbbk
 
+- entry: 1230342568
+  orgName: PRO Bergshamra-Ulriksdal
+  orgNumber: 802412-3930
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/solna/pro-bergshamra-ulriksdal
+
 - entry: 1230345140
   orgName: Batalj Event AB
   orgNumber: 556779-7377
@@ -8752,6 +8777,14 @@ entries:
   - förening
   web: https://ljusfallshammar.nu/
 
+- entry: 1230461137
+  orgName: PRO Borås Västra
+  orgNumber: 802514-2319
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/sodra-alvsborg/kommun/boras/pro-boras-vastra
+
 - entry: 1230461244
   orgName: Arilds Byalag
   orgNumber: 843001-4087
@@ -9169,6 +9202,15 @@ entries:
   categories:
   - hundsport
   web: https://stockholmshundsportcentrum.se/
+
+- entry: 1230484170
+  orgName: Korpen Vänersborg
+  orgNumber: 862500-7706
+  comment: null
+  categories:
+  - idrottsförening
+  - korpenförening
+  web: https://www.korpen.se/korpenvanersborg
 
 - entry: 1230484501
   orgName: Orust Ridklubb
@@ -11995,6 +12037,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/marmabygden
 
+- entry: 1230643965
+  orgName: Skarpnäcks Fritidsträdgårdar
+  orgNumber: 802011-2309
+  comment: null
+  categories:
+  - koloniförening
+  - koloniträdgårdsförening
+  web: https://skarpnacksfritidstradgardar.wordpress.com/
+
 - entry: 1230644427
   orgName: Specialklubben Rhodesian Ridgeback Sverige, SRRS
   orgNumber: 802401-4576
@@ -13721,6 +13772,16 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-umea-norra-/
 
+- entry: 1230745398
+  orgName: Nyköpings Biodlareförening
+  orgNumber: 819001-4152
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://nykopingsbf.biodlarna.se/
+
 - entry: 1230746321
   orgName: Wexiö Rugby Klubb
   orgNumber: 829502-0468
@@ -14547,6 +14608,16 @@ entries:
   - neurohälsa
   - utbildning
   web: https://www.underbaraadhd.se/
+
+- entry: 1230793455
+  orgName: Jimmie Söderquist Massage & Träning
+  orgNumber: 556998-7653
+  comment: null
+  categories:
+  - massage
+  - träning
+  - träningsrådgivning
+  web: https://www.jimmiesoderquist.se/
 
 - entry: 1230793604
   orgName: Skarpnäcks Församling
@@ -15742,6 +15813,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://ostersif.se/
+
+- entry: 1230846238
+  orgName: Hubbestads Alliansförsamling
+  orgNumber: 828000-4055
+  comment: null
+  categories:
+  - religion
+  web: https://hubbestadsalliansforsamling.com/
 
 - entry: 1230846246
   orgName: Vellinge Hästsportförening, VHF
@@ -22673,7 +22752,7 @@ entries:
   web: https://www.sbbk.nu/
 
 - entry: 1231197441
-  orgName: Korpförening Hässleholm
+  orgName: Korpen Hässleholm
   orgNumber: 837000-5525
   comment: null
   categories:
@@ -28001,6 +28080,14 @@ entries:
   - restaurant
   web: https://www.chgk.se/
 
+- entry: 1231480714
+  orgName: Svenska Basketbollförbundet, SBBF
+  orgNumber: 802000-2690
+  comment: null
+  categories:
+  - idrottsförbund
+  web: https://www.basket.se/
+
 - entry: 1231480904
   orgName: Arvidsjaurs Golfklubb
   orgNumber: 899100-6274
@@ -31755,6 +31842,16 @@ entries:
   - sportskytteklubb
   web: https://www.facebook.com/Orkelljungaskytte/
 
+- entry: 1231677418
+  orgName: Grännaortens Biodlarförening
+  orgNumber: 802459-8263
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://granna.biodlarna.se/
+
 - entry: 1231677616
   orgName: Omduvill / Margaretha Tärnström
   orgNumber: 540104-XXXX
@@ -34631,6 +34728,15 @@ entries:
   - religion
   web: https://ekbackskyrkan.se/
 
+- entry: 1231822287
+  orgName: Eskilstuna Fors Inner Wheel Club
+  orgNumber: 802457-3548
+  comment: null
+  categories:
+  - innerwheel
+  - kvinnligt nätverk
+  web: https://www.innerwheel.se/
+
 - entry: 1231822899
   orgName: Strömsunds Pastorat
   orgNumber: 252003-9203
@@ -37451,6 +37557,16 @@ entries:
   - idrottsförening
   web: https://www.laget.se/IlsboSK1/
 
+- entry: 1231988807
+  orgName: Lidköpings Biodlareförening
+  orgNumber: 802449-6419
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://lidbi.se/
+
 - entry: 1231989151
   orgName: Eqmeniakyrkan Toarp
   orgNumber: 864501-3452
@@ -37709,6 +37825,16 @@ entries:
   categories:
   - båtklubb
   web: https://alnobatklubb.com/
+
+- entry: 1231997907
+  orgName: Friskis & Svettis Sälen-Malung
+  orgNumber: 884401-2925
+  comment: null
+  categories:
+  - friskvård
+  - hälsa
+  - idrottsförening
+  web: https://www.friskissvettis.se/salenmalung
 
 - entry: 1231998228
   orgName: Bostadsrättsföreningen Gullvivan i Arboga
@@ -41714,6 +41840,15 @@ entries:
   - simklubb
   web: https://www.svenskalag.se/julitagoif
 
+- entry: 1232221564
+  orgName: Kryddan i tillvaron AB
+  orgNumber: 556839-5734
+  comment: Säl-/havsörnsafari
+  categories:
+  - naturvård
+  - safariturer
+  web: https://kryddanitillvaron.se/
+
 - entry: 1232221687
   orgName: Sonstorps Missionskyrka, Hällestad Friförsamling
   orgNumber: 825000-1545
@@ -42418,6 +42553,13 @@ entries:
   - hudvård
   - hårvård
   web: https://hairofswedenco.se/
+
+- entry: 1232248259
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1232249191
   orgName: Northern Lights Skating
@@ -46243,7 +46385,7 @@ entries:
 
 - entry: 1232429983
   orgName: Aktiva Seniorer Nora
-  orgNumber: 012278-7716
+  orgNumber: 802525-8131
   comment: null
   categories:
   - pensionärsklubb
@@ -46580,6 +46722,14 @@ entries:
   categories:
   - stuguthyrning
   web: https://rattviksgk.se/gast/golfbyn/
+
+- entry: 1232454049
+  orgName: Hundklubben Dundret
+  orgNumber: 897300-7431
+  comment: null
+  categories:
+  - hundklubb
+  web: http://www.hkdundret.se/
 
 - entry: 1232454072
   orgName: Strömstad Cykelklubb
@@ -48555,6 +48705,14 @@ entries:
   - cykelsport
   web: https://vallensbmxhall.se/
 
+- entry: 1232609170
+  orgName: PRO Hede-Vemdalen
+  orgNumber: 892600-8650
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/jamtland/kommun/harjedalen/pro-hede-vemdalen
+
 - entry: 1232609972
   orgName: Knivsta Boxningsklubb
   orgNumber: 802541-1425
@@ -49610,6 +49768,15 @@ entries:
   - bowlingklubb
   - idrottsförening
   web: https://www.laget.se/BKMix/
+
+- entry: 1232662302
+  orgName: Korpen Halmstad
+  orgNumber: 849200-9603
+  comment: null
+  categories:
+  - idrottsförening
+  - korpenförening
+  web: https://www.korpen.se/korpenhalmstad
 
 - entry: 1232664324
   orgName: Team Rynkeby
@@ -55117,6 +55284,7 @@ entries:
   categories:
   - biodlareförening
   - biodling
+  - naturbruk
   web: https://sotenas.biodlarna.se/
 
 - entry: 1232930550
@@ -55185,6 +55353,15 @@ entries:
   - flyttfirma
   - transporttjänst
   web: https://sakrahander.se/
+
+- entry: 1232933976
+  orgName: Silverkatts katthus / Kicki Lovén
+  orgNumber: 860407-XXXX
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.facebook.com/people/Silverkatts-katthus/100089800024551/
 
 - entry: 1232939411
   orgName: Petit Plaisir AB
@@ -57298,6 +57475,17 @@ entries:
   - samhällsförening
   web: https://www.lyckebygille.com/
 
+- entry: 1233053725
+  orgName: Nätra Prästbord Gård / Johan Nattglim
+  orgNumber: 771128-XXXX
+  comment: null
+  categories:
+  - biodling
+  - försäljning
+  - grönsaksodling
+  - hönsavel
+  web: https://www.nätraprästbord.se/
+
 - entry: 1233054285
   orgName: Stockholm BJJ Center
   orgNumber: 802457-7325
@@ -58615,6 +58803,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/lastringebygden
 
+- entry: 1233127628
+  orgName: Missionsförsamlingen Gällivare
+  orgNumber: 897900-0307
+  comment: null
+  categories:
+  - religion
+  web: https://www.kyrktorget.se/missionforsamlingen.gallivare
+
 - entry: 1233127784
   orgName: Kvinnojouren Borlänge
   orgNumber: 882601-0731
@@ -59239,6 +59435,16 @@ entries:
   categories:
   - intresseförening
   web: https://www.lrf.se/regioner/varmland/
+
+- entry: 1233174802
+  orgName: Sundbybergs & Spångaortens Biodlareförening
+  orgNumber: 802462-9241
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://ssb.biodlarna.se/
 
 - entry: 1233175783
   orgName: Nordisk Salong / Helsingborgs Konstförening
@@ -61096,6 +61302,14 @@ entries:
   - stiftelse
   web: https://www.gapminder.org/
 
+- entry: 1233275690
+  orgName: Vilhelminabygdens Skoterorganisation
+  orgNumber: 896100-8045
+  comment: null
+  categories:
+  - skoterklubb
+  web: https://vilhelminaskoter.org/
+
 - entry: 1233275708
   orgName: Stegeborgs IF
   orgNumber: 802432-1351
@@ -61281,11 +61495,12 @@ entries:
   web: https://www.svegshembygdsförening.se/
 
 - entry: 1233278918
-  orgName: null
-  orgNumber: null
+  orgName: PRO Husby-Långshyttan
+  orgNumber: 882000-1884
   comment: null
-  categories: null
-  web: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/dalarna/kommun/hedemora/pro-husby-langshyttan
 
 - entry: 1233278983
   orgName: Flyktinggruppernas Riksråd, FARR
@@ -67582,6 +67797,14 @@ entries:
   - sportskytteklubb
   web: https://www.svenskalag.se/christianstadsskyttesallskap
 
+- entry: 1233620671
+  orgName: Rotary Västerås Aurora
+  orgNumber: 802498-3119
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://vasteras-aurora.rotary2335.se/
+
 - entry: 1233622107
   orgName: EFS Kretsförening Sandvikengården
   orgNumber: 872000-3212
@@ -69224,6 +69447,14 @@ entries:
   - naturvård
   web: https://www.trollslandeforeningen.se/
 
+- entry: 1233717675
+  orgName: Armeniska Kulturföreningen i Göteborgs Kommun
+  orgNumber: 857206-5558
+  comment: null
+  categories:
+  - hemlandsförening
+  web: https://www.facebook.com/groups/597282013795076/
+
 - entry: 1233717683
   orgName: Bellevue Farm / Norrmalmsodlarna
   orgNumber: 802499-2987
@@ -69548,6 +69779,16 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1233742400
+  orgName: Häverö Biodlareförening
+  orgNumber: 802492-8445
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://haverobf.biodlarna.se/
 
 - entry: 1233742541
   orgName: Team Rynkeby
@@ -70346,6 +70587,16 @@ entries:
   - ishockeyklubb
   web: https://www.khk.se/
 
+- entry: 1233794393
+  orgName: Kalmarbygdens biodlarförening
+  orgNumber: 802545-9549
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://kalmarbygdensbiodlare.biodlarna.se/
+
 - entry: 1233794732
   orgName: Svensk-Sudanska Föreningen
   orgNumber: 802013-0251
@@ -70361,6 +70612,16 @@ entries:
   categories:
   - scoutkår
   web: https://areduved.scout.se/
+
+- entry: 1233795069
+  orgName: Norrtäljeortens Biodlarförening
+  orgNumber: 814400-9969
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://norrtaljebiodlarna.se/
 
 - entry: 1233795242
   orgName: Acem-Sverige
@@ -72023,6 +72284,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: http://www.onaby.se/
+
+- entry: 1233887049
+  orgName: Scouterna Brösarp
+  orgNumber: 838800-9451
+  comment: null
+  categories:
+  - scoutkår
+  web: https://brosarp.scout.se/
 
 - entry: 1233887361
   orgName: Kullafrukt AB
@@ -74020,6 +74289,14 @@ entries:
   - sportskytteklubb
   web: https://www.svenskalag.se/hallnasskf
 
+- entry: 1233986452
+  orgName: PRO Tullinge
+  orgNumber: 812800-8193
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/stockholm/kommun/botkyrka/pro-tullinge
+
 - entry: 1233986908
   orgName: Westerviks KK - Kanot
   orgNumber: 833600-1840
@@ -75746,6 +76023,16 @@ entries:
   - idrottsförening
   web: https://umea.kfum.se/
 
+- entry: 1234118220
+  orgName: Timmervikens Skafferi / Josefina Åkerlund
+  orgNumber: 810821-XXXX
+  comment: null
+  categories:
+  - biodling
+  - försäljning
+  - grönsaksodling
+  web: https://www.timmervikensskafferi.se/
+
 - entry: 1234120341
   orgName: Sällskapet för Restaureringskonst
   orgNumber: 802468-9393
@@ -77425,6 +77712,16 @@ entries:
   - hundsport
   web: https://www.vallentunabrukshundklubb.se/
 
+- entry: 1234202842
+  orgName: Munka Ljungby Biodlarförening
+  orgNumber: 802506-0354
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://munkabi.com/
+
 - entry: 1234203022
   orgName: Djurö Byalag
   orgNumber: 802450-7918
@@ -78834,6 +79131,7 @@ entries:
   comment: null
   categories:
   - media
+  - tidsskrifter
   web: https://www.dagen.se/dagenvision/
 
 - entry: 1234275723
@@ -81683,6 +81981,16 @@ entries:
   - karateklubb
   web: https://www.alingsaskarateklubb.se/
 
+- entry: 1234472130
+  orgName: Ronnebyortens Biodlarförening
+  orgNumber: 835600-6877
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://rbybiodlare.blogspot.com/
+
 - entry: 1234472387
   orgName: Team Rynkeby
   orgNumber: 802534-5938
@@ -82504,6 +82812,15 @@ entries:
   - charterbuss
   - persontransport
   web: https://www.lonnsbuss.se/
+
+- entry: 1234518379
+  orgName: IFK Västerås FK
+  orgNumber: 878001-2962
+  comment: P12
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.ifk.nu/
 
 - entry: 1234520037
   orgName: Bromma-Solna Skytteförening
@@ -84865,6 +85182,16 @@ entries:
   categories:
   - idrottsförening
   web: https://www.ggif.se/
+
+- entry: 1234644571
+  orgName: Ronnebyortens Biodlarförening
+  orgNumber: 835600-6877
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://rbybiodlare.blogspot.com/
 
 - entry: 1234645057
   orgName: MuskelVerket / Jan Nilsson
@@ -94863,6 +95190,14 @@ entries:
   - schacksällskap
   web: https://lass.no-ip.com/
 
+- entry: 1235219787
+  orgName: Kungsörs Baptistförsamling
+  orgNumber: 878500-0749
+  comment: Lägerverksamhet
+  categories:
+  - religion
+  web: https://www.centrumkyrkankungsor.se/
+
 - entry: 1235219993
   orgName: Råå Byalag
   orgNumber: 802463-4936
@@ -101481,6 +101816,14 @@ entries:
   - kanotklubb
   web: https://www.fridhemskanotisterna.se/
 
+- entry: 1235568951
+  orgName: SKPF Pensionärerna Boden, avd 220
+  orgNumber: 897001-8886
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.skpf.se/nyheter/local-category/boden-avd-220/
+
 - entry: 1235570015
   orgName: Sveriges Kommunistiska Parti
   orgNumber: 815201-3598
@@ -106591,6 +106934,16 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1235842927
+  orgName: Göteborgs och Bohusläns Biodlardistrikt
+  orgNumber: 853300-8820
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: null
+
 - entry: 1235843107
   orgName: Övre Jumkil Bygdegårdsförening
   orgNumber: 817605-3588
@@ -106895,10 +107248,12 @@ entries:
 
 - entry: 1235867619
   orgName: Enköpings Biodlare
-  orgNumber: 810607-XXXX
+  orgNumber: 817607-0822
   comment: null
   categories:
+  - biodlareförening
   - biodling
+  - naturbruk
   web: http://enkopingsbiodlare.se/
 
 - entry: 1235867668
@@ -107226,6 +107581,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vallentuna
+
+- entry: 1235889332
+  orgName: PRO Limhamn
+  orgNumber: 846003-0730
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/skane/kommun/malmo/pro-limhamn
 
 - entry: 1235890017
   orgName: Bromma Support
@@ -109589,6 +109952,15 @@ entries:
   - religion
   web: https://helamanniskan.se/lerum/
 
+- entry: 1236021372
+  orgName: Röke Sockengille
+  orgNumber: 837001-2265
+  comment: null
+  categories:
+  - hembygdsförening
+  - sockenförening
+  web: https://www.hembygd.se/roke
+
 - entry: 1236021380
   orgName: Gävle Shotokan Karateklubb
   orgNumber: 885000-7884
@@ -111326,6 +111698,14 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.kalmarhockey.com/
+
+- entry: 1236118764
+  orgName: PRO Falun
+  orgNumber: 883201-6953
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/dalarna/kommun/falun/pro-falun
 
 - entry: 1236118772
   orgName: Grästorp Pastorat
@@ -114632,6 +115012,14 @@ entries:
   - kvinnojour
   web: https://www.unizonjourer.se/kvinnohusetorebro/
 
+- entry: 1236276083
+  orgName: Aktiva Seniorer Nora
+  orgNumber: 802525-8131
+  comment: Resor
+  categories:
+  - pensionärsklubb
+  web: https://nora.aktivaseniorer.com/
+
 - entry: 1236276281
   orgName: Korsträsk Byaförening
   orgNumber: 898801-3069
@@ -114961,6 +115349,14 @@ entries:
   categories:
   - religion
   web: https://missionsforsamlingen.se/
+
+- entry: 1236297147
+  orgName: Equmeniakyrkan Söderhamn
+  orgNumber: 886000-0986
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkan.se/soderhamn/
 
 - entry: 1236297253
   orgName: Gubbmyrens Samfällighetsförening
@@ -118373,6 +118769,16 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1236506893
+  orgName: Mariestads Biodlarförening
+  orgNumber: 802436-2488
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: null
+
 - entry: 1236507032
   orgName: Rotary Simrishamn
   orgNumber: 642384-1888
@@ -119416,6 +119822,14 @@ entries:
   - trafikskola
   - utbildning
   web: https://www.korkortcenter.com/
+
+- entry: 1236538706
+  orgName: Kungsörs Återvinning & Secondhand, KÅS
+  orgNumber: 878500-0749
+  comment: null
+  categories:
+  - återvinning
+  web: https://secondhandkungsor.se/
 
 - entry: 1236538854
   orgName: Hela Människan
@@ -123280,6 +123694,21 @@ entries:
   - religion
   web: https://www.evangeliskabrodraforsamlingen.se/
 
+- entry: 1236761217
+  orgName: Korpen Malmö IF
+  orgNumber: 802437-9748
+  comment: null
+  categories:
+  - basketbollklubb
+  - bordtennisklubb
+  - fotbollsklubb
+  - handbollsklubb
+  - innebandyklubb
+  - ishockeyklubb
+  - pickleballklubb
+  - volleybollklubb
+  web: https://www.korpen.se/korpenmalmo
+
 - entry: 1236761464
   orgName: Junos Kamp
   orgNumber: 802515-2003
@@ -124187,6 +124616,7 @@ entries:
   categories:
   - biodlareförening
   - biodling
+  - naturbruk
   web: https://lerumsbiodlare.se/
 
 - entry: 1236802888
@@ -124493,6 +124923,14 @@ entries:
   - båtklubb
   - båtsällskap
   web: https://hbs.se/
+
+- entry: 1236816490
+  orgName: Kungsörs Baptistförsamling
+  orgNumber: 878500-0749
+  comment: Fadderverksamhet
+  categories:
+  - religion
+  web: https://www.centrumkyrkankungsor.se/
 
 - entry: 1236817480
   orgName: Equmeniakyrkan Örbyhus
@@ -125482,6 +125920,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegardarna.se/dalfors/
+
+- entry: 1236882575
+  orgName: Honungsboden AB
+  orgNumber: 556362-5283
+  comment: null
+  categories:
+  - biodling
+  - naturbruk
+  web: https://honungsboden.se/
 
 - entry: 1236882831
   orgName: PRO Upplands Väsby
@@ -126489,7 +126936,9 @@ entries:
   orgNumber: 823000-1391
   comment: null
   categories:
+  - biodlareförening
   - biodling
+  - naturbruk
   - riksförbund
   web: https://www.biodlarna.se/
 
