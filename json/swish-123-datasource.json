@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-02-17-rev-003536",
+    "date": "2025-02-17-rev-221306",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -3417,6 +3417,17 @@
       "web": "https://sond.se/"
     },
     {
+      "entry": 1230181040,
+      "orgName": "Inner Wheel Club Osby Broby",
+      "orgNumber": "802529-4482",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1230181479,
       "orgName": "Kr\u00e5kshults Hembygdsf\u00f6rening",
       "orgNumber": "827000-7316",
@@ -4087,6 +4098,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-kristianstad/foreningar/ahus.html"
+    },
+    {
+      "entry": 1230193896,
+      "orgName": "Inner Wheel Club Vetlanda",
+      "orgNumber": "802475-0989",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1230193920,
@@ -7401,6 +7423,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://hardemo.nu/"
+    },
+    {
+      "entry": 1230325779,
+      "orgName": "Inner Wheel Club Lund",
+      "orgNumber": "802455-4530",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1230325860,
@@ -20112,6 +20145,17 @@
       "web": "https://www.svenskakyrkan.se/vasteras/mariagarden-i-skultuna"
     },
     {
+      "entry": 1230870980,
+      "orgName": "Inner Wheel Club Skellefte\u00e5",
+      "orgNumber": "802520-7435",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1230871616,
       "orgName": "Enskede-\u00c5rsta F\u00f6rsamling",
       "orgNumber": "252000-0734",
@@ -26732,6 +26776,17 @@
         "ishockeyklubb"
       ],
       "web": "https://www.svenskalag.se/nik"
+    },
+    {
+      "entry": 1231154624,
+      "orgName": "Inner Wheel Club Simrishamn",
+      "orgNumber": "802516-4370",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1231154764,
@@ -40044,6 +40099,17 @@
       "web": "https://tobecontinued.nu/"
     },
     {
+      "entry": 1231737329,
+      "orgName": "Inner Wheel Club Karlshamn",
+      "orgNumber": "836201-2448",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1231737451,
       "orgName": "Norra J\u00e4rva Hembygdsf\u00f6rening",
       "orgNumber": "802016-8848",
@@ -40904,6 +40970,17 @@
         "r\u00f6relsehindrad"
       ],
       "web": "https://www.skrh.se/"
+    },
+    {
+      "entry": 1231773761,
+      "orgName": "Inner Wheel Club H\u00f6gan\u00e4s",
+      "orgNumber": "802541-9048",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1231775204,
@@ -42084,7 +42161,7 @@
     },
     {
       "entry": 1231822287,
-      "orgName": "Eskilstuna Fors Inner Wheel Club",
+      "orgName": "Inner Wheel Club Eskilstuna Fors",
       "orgNumber": "802457-3548",
       "comment": null,
       "categories": [
@@ -46323,6 +46400,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://aktivaseniorer-boras.se/"
+    },
+    {
+      "entry": 1232029122,
+      "orgName": "Inner Wheel Club Nyk\u00f6ping \u00d6ster",
+      "orgNumber": "802526-5714",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1232029155,
@@ -52411,6 +52499,17 @@
       "web": "https://www.svenskakyrkan.se/jamshog"
     },
     {
+      "entry": 1232272862,
+      "orgName": "Inner Wheel Club Malm\u00f6 Limhamn Slottsstaden",
+      "orgNumber": "802507-2912",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1232272953,
       "orgName": "Team Rynkeby",
       "orgNumber": "802532-9916",
@@ -52750,6 +52849,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/engarde"
+    },
+    {
+      "entry": 1232284594,
+      "orgName": "Inner Wheel Club Ystad",
+      "orgNumber": "802444-4781",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1232284602,
@@ -53205,6 +53315,17 @@
         "rotaryklubb"
       ],
       "web": "https://portal.clubrunner.ca/15598"
+    },
+    {
+      "entry": 1232303105,
+      "orgName": "Inner Wheel Club Alvesta",
+      "orgNumber": "802541-3512",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1232303790,
@@ -55475,12 +55596,12 @@
     },
     {
       "entry": 1232401073,
-      "orgName": "Arboga Inner Wheel klubb",
+      "orgName": "Inner Wheel Club Arboga",
       "orgNumber": "802462-1495",
       "comment": "Medlemsavgift",
       "categories": [
-        "hj\u00e4lporganisation",
-        "intresseorganisation"
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
       ],
       "web": "https://www.innerwheel.se/"
     },
@@ -58104,6 +58225,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://renoveringsraseriet.se/"
+    },
+    {
+      "entry": 1232565935,
+      "orgName": "Inner Wheel Club Nybro-Emmaboda",
+      "orgNumber": "832401-6255",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1232566313,
@@ -61046,6 +61178,17 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/torebodahk"
+    },
+    {
+      "entry": 1232686558,
+      "orgName": "Inner Wheel Club Kristianstad-Hammarshus",
+      "orgNumber": "838202-2724",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1232686905,
@@ -70420,12 +70563,12 @@
     },
     {
       "entry": 1233101581,
-      "orgName": "Arboga Inner Wheel klubb",
+      "orgName": "Inner Wheel Club Arboga",
       "orgNumber": "802462-1495",
       "comment": "Majblomman",
       "categories": [
-        "hj\u00e4lporganisation",
-        "intresseorganisation"
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
       ],
       "web": "https://www.innerwheel.se/"
     },
@@ -74845,6 +74988,17 @@
         "stiftelse"
       ],
       "web": "https://claphaminstitutet.se/"
+    },
+    {
+      "entry": 1233311503,
+      "orgName": "Inner Wheel Club Katrineholm",
+      "orgNumber": "802513-2211",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1233311560,
@@ -95245,12 +95399,12 @@
     },
     {
       "entry": 1234244778,
-      "orgName": "Arboga Inner Wheel klubb",
+      "orgName": "Inner Wheel Club Arboga",
       "orgNumber": "802462-1495",
       "comment": "Garissa",
       "categories": [
-        "hj\u00e4lporganisation",
-        "intresseorganisation"
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
       ],
       "web": "https://www.innerwheel.se/"
     },
@@ -113266,6 +113420,17 @@
       "web": "https://www.afasi-malmo.se/"
     },
     {
+      "entry": 1235135769,
+      "orgName": "Inner Wheel Club V\u00e4ster\u00e5s-St Ilian",
+      "orgNumber": "878000-8762",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1235136544,
       "orgName": "Stiftelse Coelho Growth Foundation",
       "orgNumber": "802479-5943",
@@ -114635,6 +114800,17 @@
       "web": "https://zarahleander.se/"
     },
     {
+      "entry": 1235187851,
+      "orgName": "Inner Wheel Club Sk\u00f6vde S:ta Elin",
+      "orgNumber": "642701-1231",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1235188123,
       "orgName": "Fanna BK",
       "orgNumber": "817000-6541",
@@ -115355,6 +115531,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://sodertaljeck.com/"
+    },
+    {
+      "entry": 1235229190,
+      "orgName": "Inner Wheel Sverige Distrikt 239",
+      "orgNumber": "802463-3268",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1235229307,
@@ -117936,6 +118123,17 @@
         "bridgeklubb"
       ],
       "web": "https://www.svenskbridge.se/borl\u00e4nge-bk"
+    },
+    {
+      "entry": 1235339700,
+      "orgName": "Inner Wheel Club Falun",
+      "orgNumber": "802536-3170",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1235339791,
@@ -127343,6 +127541,17 @@
       "web": "https://www.svenskalag.se/fjalkestadsrk"
     },
     {
+      "entry": 1235732706,
+      "orgName": "Inner Wheel Club \u00c4lmhult",
+      "orgNumber": "802529-0597",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1235736988,
       "orgName": "PILAB, P\u00e4r-Inge Larsson AB",
       "orgNumber": "556860-6502",
@@ -131013,6 +131222,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/IKTun/"
+    },
+    {
+      "entry": 1235919618,
+      "orgName": "Inner Wheel Club Norrk\u00f6ping Norra",
+      "orgNumber": "802501-9848",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1235920111,
@@ -141187,6 +141407,17 @@
       "web": "https://tjtk.se/"
     },
     {
+      "entry": 1236369664,
+      "orgName": "Inner Wheel Club Enk\u00f6ping",
+      "orgNumber": "817001-5070",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1236370704,
       "orgName": "Br\u00e5valla IK",
       "orgNumber": "825000-8615",
@@ -142872,6 +143103,17 @@
       "web": "https://www.hembygd.se/hacksvik"
     },
     {
+      "entry": 1236456412,
+      "orgName": "Inner Wheel Club H\u00e4ssleholm",
+      "orgNumber": "802511-4623",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1236456487,
       "orgName": "Trosa B\u00e5tklubb",
       "orgNumber": "819001-3931",
@@ -143030,6 +143272,17 @@
       "web": "https://www.gnestajsk.se/"
     },
     {
+      "entry": 1236467807,
+      "orgName": "Inner Wheel Club Bor\u00e5s-Sjuh\u00e4rad",
+      "orgNumber": "802499-9917",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
+    },
+    {
       "entry": 1236468185,
       "orgName": "PRO Kristdala",
       "orgNumber": "832800-3267",
@@ -143125,6 +143378,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.skvide.se/"
+    },
+    {
+      "entry": 1236471635,
+      "orgName": "Inner Wheel Club Sandviken",
+      "orgNumber": "802468-2489",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1236473797,
@@ -147502,7 +147766,7 @@
     },
     {
       "entry": 1236675276,
-      "orgName": "Rotaryklubb Trollh\u00e4ttan",
+      "orgName": "Rotary Trollh\u00e4ttan",
       "orgNumber": "802525-9261",
       "comment": null,
       "categories": [
@@ -150403,6 +150667,17 @@
         "medicinsk fotv\u00e5rd"
       ],
       "web": "https://enmanuel-fotvard.se/"
+    },
+    {
+      "entry": 1236782072,
+      "orgName": "Inner Wheel Club Lidk\u00f6ping",
+      "orgNumber": "802491-6556",
+      "comment": null,
+      "categories": [
+        "innerwheel",
+        "kvinnligt n\u00e4tverk"
+      ],
+      "web": "https://www.innerwheel.se/"
     },
     {
       "entry": 1236782775,

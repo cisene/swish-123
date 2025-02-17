@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-17-rev-003624
+Revision: 2025-02-17-rev-221348
 
-Nummer: 14711
+Nummer: 14736
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2506,17 +2506,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Arboga GF**
 
     123 322 89 96
-
-
-
-
-**Arboga Inner Wheel klubb**
-
-    123 240 10 73 - Medlemsavgift
-
-    123 310 15 81 - Majblomman
-
-    123 424 47 78 - Garissa
 
 
 
@@ -15701,13 +15690,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Eskilstuna FC**
 
     123 053 89 83
-
-
-
-
-**Eskilstuna Fors Inner Wheel Club**
-
-    123 182 22 87
 
 
 
@@ -31913,6 +31895,199 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 232 49 94
 
     123 603 52 08
+
+
+
+
+**Inner Wheel Club Alvesta**
+
+    123 230 31 05
+
+
+
+
+**Inner Wheel Club Arboga**
+
+    123 240 10 73 - Medlemsavgift
+
+    123 310 15 81 - Majblomman
+
+    123 424 47 78 - Garissa
+
+
+
+
+**Inner Wheel Club Borås-Sjuhärad**
+
+    123 646 78 07
+
+
+
+
+**Inner Wheel Club Enköping**
+
+    123 636 96 64
+
+
+
+
+**Inner Wheel Club Eskilstuna Fors**
+
+    123 182 22 87
+
+
+
+
+**Inner Wheel Club Falun**
+
+    123 533 97 00
+
+
+
+
+**Inner Wheel Club Hässleholm**
+
+    123 645 64 12
+
+
+
+
+**Inner Wheel Club Höganäs**
+
+    123 177 37 61
+
+
+
+
+**Inner Wheel Club Karlshamn**
+
+    123 173 73 29
+
+
+
+
+**Inner Wheel Club Katrineholm**
+
+    123 331 15 03
+
+
+
+
+**Inner Wheel Club Kristianstad-Hammarshus**
+
+    123 268 65 58
+
+
+
+
+**Inner Wheel Club Lidköping**
+
+    123 678 20 72
+
+
+
+
+**Inner Wheel Club Lund**
+
+    123 032 57 79
+
+
+
+
+**Inner Wheel Club Malmö Limhamn Slottsstaden**
+
+    123 227 28 62
+
+
+
+
+**Inner Wheel Club Norrköping Norra**
+
+    123 591 96 18
+
+
+
+
+**Inner Wheel Club Nybro-Emmaboda**
+
+    123 256 59 35
+
+
+
+
+**Inner Wheel Club Nyköping Öster**
+
+    123 202 91 22
+
+
+
+
+**Inner Wheel Club Osby Broby**
+
+    123 018 10 40
+
+
+
+
+**Inner Wheel Club Sandviken**
+
+    123 647 16 35
+
+
+
+
+**Inner Wheel Club Simrishamn**
+
+    123 115 46 24
+
+
+
+
+**Inner Wheel Club Skellefteå**
+
+    123 087 09 80
+
+
+
+
+**Inner Wheel Club Skövde S:ta Elin**
+
+    123 518 78 51
+
+
+
+
+**Inner Wheel Club Vetlanda**
+
+    123 019 38 96
+
+
+
+
+**Inner Wheel Club Västerås-St Ilian**
+
+    123 513 57 69
+
+
+
+
+**Inner Wheel Club Ystad**
+
+    123 228 45 94
+
+
+
+
+**Inner Wheel Club Älmhult**
+
+    123 573 27 06
+
+
+
+
+**Inner Wheel Sverige Distrikt 239**
+
+    123 522 91 90
 
 
 
@@ -58098,6 +58273,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Trollhättan**
+
+    123 667 52 76
+
+
+
+
 **Rotary Trosa**
 
     123 176 67 16
@@ -58224,13 +58406,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotaryklubb Halmstad-Tylösand**
 
     123 423 42 66
-
-
-
-
-**Rotaryklubb Trollhättan**
-
-    123 667 52 76
 
 
 
