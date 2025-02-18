@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-17-rev-222706
+Revision: 2025-02-18-rev-233119
 
-Nummer: 14736
+Nummer: 14747
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -12868,6 +12868,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Drivers Against Child Abuse, D.A.C.A.**
+
+    123 668 76 51
+
+
+
+
 **Drivkraft Malmö**
 
     123 240 45 07
@@ -15149,6 +15156,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 238 91 61 - Gåvor
 
     123 900 32 86
+
+
+
+
+**Equmeniakyrkan Alingsås**
+
+    123 554 92 33
 
 
 
@@ -20542,6 +20556,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen Gamla SSK:are**
 
     123 145 41 72
+
+
+
+
+**Föreningen Gamla Torvalla**
+
+    123 692 44 84
 
 
 
@@ -31966,6 +31987,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Inner Wheel Club Karlstad**
+
+    123 256 36 17
+
+
+
+
 **Inner Wheel Club Katrineholm**
 
     123 331 15 03
@@ -32081,6 +32109,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Inner Wheel Club Älmhult**
 
     123 573 27 06
+
+
+
+
+**Inner Wheel Club Örebrohus**
+
+    123 202 89 67
 
 
 
@@ -40033,6 +40068,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kärrbo Bygdegårdsförening**
+
+    123 412 09 52
+
+
+
+
 **Kärrdalens Egnahemsförening**
 
     123 568 03 84
@@ -41400,6 +41442,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **LIF Lindesberg**
 
     123 396 85 59
+
+
+
+
+**Lifbåt 416 - Skanör-Falsterbo Lifbåts Roddarelag**
+
+    123 532 51 47
 
 
 
@@ -62636,6 +62685,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skivarps Scoutkår**
+
+    123 394 87 83
+
+
+
+
 **Skjutsgruppen**
 
     123 658 26 39
@@ -67445,6 +67501,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen Håll Sverige Rent**
 
     123 900 28 17
+
+
+
+
+**Stiftelsen Idrottsmusei Vänner**
+
+    123 098 99 62
 
 
 
@@ -82949,6 +83012,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Välinge Bygdegårdsförening**
+
+    123 248 75 85
+
+
+
+
 **Välkommen till Saltis**
 
     123 042 52 64
@@ -87900,6 +87970,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 029 50 14 - Café
 
     123 510 91 03
+
+
+
+
+**Ölseruds Bygdegårdsförening**
+
+    123 287 24 30
 
 
 
