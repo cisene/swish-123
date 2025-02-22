@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-18-rev-233119
+Revision: 2025-02-22-rev-194238
 
-Nummer: 14747
+Nummer: 14773
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1559,6 +1559,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Almundsryds Hembygdsförening**
 
     123 068 47 61
+
+
+
+
+**Almunge Bygdegårdsförening HV**
+
+    123 345 47 90
 
 
 
@@ -3906,6 +3913,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Barkhyttans Byalag**
+
+    123 396 93 42
+
+
+
+
 **Barks Buss / Jahn Bark**
 
     123 191 04 39
@@ -6063,6 +6077,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Boets bygdegård**
+
+    123 585 64 89
+
+
+
+
 **Bogesunds Gård och Ridskola AB**
 
     123 599 54 93
@@ -6180,6 +6201,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Boksjö Bygdegårdsförening**
 
     123 493 52 92
+
+    123 511 07 96 - Servering
 
 
 
@@ -8143,6 +8166,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Brearedsortens Bygdegårdsförening**
+
+    123 436 75 95
+
+
+
+
 **Bredareds GK**
 
     123 149 80 13
@@ -9289,6 +9319,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bygdegårdsföreningen Rydsgårdshus**
+
+    123 312 62 16
+
+
+
+
 **Bygdegårdsföreningen Rönnehäll**
 
     123 098 07 89
@@ -9464,6 +9501,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bärfendals Hembygdsförening**
 
     123 305 43 84
+
+
+
+
+**Bäsna Bygdegård**
+
+    123 380 14 53
 
 
 
@@ -16087,6 +16131,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Etelhems Bygdegårdsförening**
+
+    123 645 79 80
+
+
+
+
 **Ethar Relief Sverige**
 
     123 061 35 05
@@ -18001,6 +18052,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Focus On Africa, FONA**
 
     123 500 96 83
+
+
+
+
+**Fogdö Bygdegårdsförening**
+
+    123 350 62 92
 
 
 
@@ -20165,6 +20223,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Dalbogården**
+
+    123 492 20 50
+
+
+
+
 **Föreningen Dalkarlsvägen**
 
     123 352 71 57
@@ -20971,9 +21036,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Muskö Bygdegård**
+
+    123 597 27 81
+
+
+
+
 **Föreningen Mästerkatten, FMK**
 
     123 590 90 64
+
+
+
+
+**Föreningen Möklintagården**
+
+    123 568 44 69
 
 
 
@@ -21880,6 +21959,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Galtabäck Båtklubb, GBK**
 
     123 677 85 42
+
+
+
+
+**Galtabäcks Bygdegårdsförening**
+
+    123 219 67 15
 
 
 
@@ -58829,6 +58915,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Runtuna Bygdegårdsförening**
+
+    123 515 74 25
+
+
+
+
 **Rusty P´s Kulturförening**
 
     123 459 52 37
@@ -59386,6 +59479,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rödsle BK**
 
     123 532 68 22
+
+
+
+
+**Rödöns Bygdegårdsförening**
+
+    123 108 49 12
 
 
 
@@ -63241,6 +63341,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skålbo, Rossla och Skridsviks Bygdegårdförening**
+
+    123 670 35 65
+
+
+
+
 **Skålleruds Fornminnes och Hembygdsförening**
 
     123 388 14 55 - Kanalmuseet
@@ -64611,6 +64718,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SOS Church Västerås / New Life Västerås**
 
     123 231 39 06
+
+
+
+
+**SOS-kören**
+
+    123 156 59 85
 
 
 
@@ -68184,6 +68298,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stjärnsunds AIF, SAIF**
 
     123 510 64 71
+
+
+
+
+**Stjärnviks Bygdeförening**
+
+    123 498 98 85
 
 
 
@@ -72478,6 +72599,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svärdsögården Bygdegårdsförening**
+
+    123 293 09 98
+
+
+
+
 **Swartlings Ridskola Ryttarstadion AB**
 
     123 551 09 53
@@ -74089,6 +74217,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Södra Älvsborgs & Hallands Ardennerklubb**
 
     123 698 66 32
+
+
+
+
+**Södra Åby Hembygdsförening**
+
+    123 227 51 13
 
 
 
@@ -78342,6 +78477,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 388 37 90 - Diakoni
 
     123 533 12 10 - Diakonala gåvomedel
+
+
+
+
+**Tuna Bygdegårdsförening**
+
+    123 259 59 57
 
 
 
@@ -83089,6 +83231,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vänge-Guldrupe Bygdegårdsförening**
+
+    123 661 67 75
+
+
+
+
 **Vännerna Uppsala**
 
     123 534 73 31
@@ -83789,6 +83938,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västerlanda Bygdegård**
+
+    123 055 66 54
+
+
+
+
 **Västerlanda Bygdegårdsförening**
 
     123 624 56 74
@@ -83813,6 +83969,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerljungs Hembygdsförening**
 
     123 237 05 26
+
+
+
+
+**Västerlösa Bygdegårsförening**
+
+    123 181 75 50
 
 
 
@@ -87345,6 +87508,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ås Förbundsgård**
+
+    123 616 11 37
+
+
+
+
 **Ås Idrottsförening**
 
     123 267 10 63
@@ -87952,6 +88122,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ölme Hembygdsförening**
 
     123 355 31 12
+
+
+
+
+**Ölmhult Intresseförening**
+
+    123 633 64 08
 
 
 
