@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-22-rev-194238
+Revision: 2025-02-23-rev-192418
 
-Nummer: 14773
+Nummer: 14818
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1524,6 +1524,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Almby-Norrbyås Hembygdsförening**
+
+    123 002 08 34
+
+
+
+
 **Almedals Körskola & Trafikskola Göteborg / Mani Samei**
 
     123 432 72 35
@@ -2601,6 +2608,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Arentorp Helås FK**
 
     123 001 86 71
+
+
+
+
+**Arholma Skärgårdskultur**
+
+    123 642 53 34
 
 
 
@@ -3700,6 +3714,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bajen Fans**
 
     123 615 65 82 - Bajen Fans Colombia
+
+
+
+
+**Baksjölidens Byaförening**
+
+    123 621 67 90
 
 
 
@@ -4889,6 +4910,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Billinge Byalag**
+
+    123 298 11 08
+
+
+
+
 **Billinge Föreläsningsförening**
 
     123 289 58 11
@@ -5349,6 +5377,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Björna Församling**
 
     123 697 30 93
+
+
+
+
+**Björna Sockens Hembygdsförening**
+
+    123 554 62 88
 
 
 
@@ -8074,6 +8109,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Brandhjärtans Insamlingsstiftelse**
 
     123 124 41 85
+
+
+
+
+**Brandstad Byalag**
+
+    123 276 04 37
 
 
 
@@ -11665,6 +11707,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Delsbo Byaråd**
+
+    123 629 75 43
+
+
+
+
 **Delsbo IF**
 
     123 132 58 44
@@ -14160,6 +14209,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 268 38 03 - Café, Mat
 
     123 449 21 20 - Ungdomssektionen
+
+
+
+
+**Eksta Hembygdsförening**
+
+    123 501 39 17
 
 
 
@@ -21444,6 +21500,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Sällstorpsgården**
+
+    123 030 75 04
+
+
+
+
 **Föreningen Sättra Byhus**
 
     123 689 61 61
@@ -24336,6 +24399,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gärdslövs Byalag**
+
+    123 690 55 33
+
+
+
+
 **Gärsnäs AIS**
 
     123 483 29 37
@@ -25075,6 +25145,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hagby IK**
 
     123 161 18 62
+
+
+
+
+**Hagestad Byalag**
+
+    123 391 07 42
 
 
 
@@ -26872,6 +26949,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hembygdsföreningen Umbygda**
 
     123 488 45 32
+
+
+
+
+**Hembygdsföreningen Vikingarna**
+
+    123 602 94 25
 
 
 
@@ -29771,6 +29855,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Högsrums Hembygdsförening**
+
+    123 391 87 29
+
+
+
+
 **Högsäters Kanotklubb**
 
     123 264 45 16
@@ -29985,6 +30076,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hössna Församling**
 
     123 158 38 30 - Kollekt
+
+
+
+
+**Hössna Hembygdsförening**
+
+    123 637 41 28
 
 
 
@@ -37055,6 +37153,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Klövsjö HembygdsFörening**
+
+    123 063 95 42
+
+
+
+
 **Klövsjö-Vemdalens Golfklubb**
 
     123 420 42 85
@@ -38862,6 +38967,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kulturreservatet Vallby Sörgården**
+
+    123 514 78 30
+
+
+
+
 **Kultursjukhuset**
 
     123 440 29 96
@@ -40098,6 +40210,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Käloms Byalag**
+
+    123 363 67 27
+
+
+
+
 **Kämpinge Gymnastikförening**
 
     123 249 31 87
@@ -40322,6 +40441,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Köpingebro Byalag**
+
+    123 496 41 51
+
+
+
+
 **Köpingebro IF**
 
     123 313 27 43
@@ -40443,6 +40569,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lagg & Hoj AB**
 
     123 528 43 85
+
+
+
+
+**Lagga Hembygds- o Fornminnesförening**
+
+    123 308 58 26
 
 
 
@@ -44456,6 +44589,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Länna Byalag**
+
+    123 278 71 90
+
+
+
+
 **Länna Församling**
 
     123 504 74 36
@@ -44633,6 +44773,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Långvinds Kapellförening**
+
+    123 619 69 01
+
+
+
+
 **Löa Sportklubb**
 
     123 570 28 99
@@ -44657,6 +44804,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Löddebygdens Församling**
 
     123 068 07 10
+
+
+
+
+**Löderups Byalag**
+
+    123 347 70 15
 
 
 
@@ -48183,6 +48337,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Möja Hembygdsmuseum**
+
+    123 389 97 05
+
+
+
+
 **Möja Kulturella Ungdomsrörelse, MKU**
 
     123 296 67 78
@@ -49098,6 +49259,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Njutångers Hembygdsförening**
+
+    123 037 63 84
+
+
+
+
 **NK-Villans Vänner**
 
     123 545 72 39
@@ -49881,6 +50049,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Norrbo Sockenförening**
+
+    123 578 26 85
+
+
+
+
 **Norrbottens läns Stövarklubb, NBSK**
 
     123 007 40 05
@@ -50584,6 +50759,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Nyeds Hembygdsförening**
 
+    123 511 24 20
+
     123 685 81 87
 
 
@@ -50627,6 +50804,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nyhyttans Adventistförsamling**
 
     123 538 37 81
+
+
+
+
+**Nykils Hembygdsförening**
+
+    123 613 51 49
 
 
 
@@ -52247,6 +52431,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ottsjö Byalag**
+
+    123 635 89 80
+
+
+
+
 **OV Helsingborg**
 
     123 285 81 16
@@ -52271,6 +52462,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ovansiljans Sportklubb**
 
     123 228 87 28
+
+
+
+
+**Ovansjö Hembygdsförening**
+
+    123 405 60 40
 
 
 
@@ -53879,6 +54077,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Pjätteryds GOIF**
 
     123 396 98 21
+
+
+
+
+**Pjätteryds Hembygdsförening**
+
+    123 355 20 98
 
 
 
@@ -56627,6 +56832,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Regional Kulturskola i Västmanland / Region Västmanland**
 
     123 383 70 28
+
+
+
+
+**Regna Hembygdsförening**
+
+    123 123 29 33
 
 
 
@@ -63252,6 +63464,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skällingegårdens Bygdegårsförening**
+
+    123 497 23 29
+
+
+
+
 **Skänninge Församling**
 
     123 005 40 15 - Kollekt
@@ -63724,6 +63943,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Slottsstadens Konståkningsklubb**
 
     123 504 73 45
+
+
+
+
+**Släps Hembygdsgille**
+
+    123 381 73 27
 
 
 
@@ -66725,6 +66951,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stadranejdens Byalag**
+
+    123 134 64 36
+
+
+
+
 **Stadsbrudskåren**
 
     123 430 23 45
@@ -66847,6 +67080,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stallarholmens Församling**
 
     123 224 28 65
+
+
+
+
+**Stallarholmens Hembygdsförening**
+
+    123 018 97 61
 
 
 
@@ -67948,6 +68188,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen Skandinaviska Barnmissionen**
 
     123 901 08 02
+
+
+
+
+**Stiftelsen Skansen**
+
+    123 471 77 57
 
 
 
@@ -74072,6 +74319,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Södra Delsbos byalag**
+
+    123 657 93 38
+
+
+
+
 **Södra Gotlands Rid- och Körklubb**
 
     123 223 93 25
@@ -74350,9 +74604,30 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sörby Byalag**
+
+    123 353 90 04
+
+
+
+
 **Sörbygdens Buss AB**
 
     123 164 46 73
+
+
+
+
+**Sörbygdens Hembygdsförening**
+
+    123 037 51 05
+
+
+
+
+**Sörbygdens Samhällsförening**
+
+    123 459 87 44
 
 
 
@@ -77940,6 +78215,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Travel Zmart Sweden AB**
 
     123 359 37 12
+
+
+
+
+**Trekantens Byalag**
+
+    123 043 87 13
 
 
 
@@ -81987,6 +82269,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vikens IK**
 
     123 468 83 39
+
+
+
+
+**Vikers Hembygdsförening**
+
+    123 326 18 56
 
 
 
@@ -87515,6 +87804,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ås Hembygdsförening**
+
+    123 685 43 19
+
+
+
+
 **Ås Idrottsförening**
 
     123 267 10 63
@@ -88880,6 +89176,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Örums Byalag**
+
+    123 402 56 07
+
+
+
+
 **Öråkers Kulturcentrum**
 
     123 126 81 01
@@ -88975,6 +89278,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Österfärnebo RS - Ridsport**
 
     123 695 94 31
+
+
+
+
+**Östergarn Gammelgarn Hembygdsförening**
+
+    123 158 63 04
 
 
 
