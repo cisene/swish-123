@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-25-rev-164732
+Revision: 2025-02-25-rev-172608
 
-Nummer: 14821
+Nummer: 14830
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -5255,6 +5255,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Björkhagens Golfklubb**
 
     123 570 52 15
+
+
+
+
+**Björkholmens Byalag**
+
+    123 554 53 89
 
 
 
@@ -14198,6 +14205,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**EksjöNejdens Jaktvårdsförening**
+
+    123 272 13 14
+
+
+
+
 **Eksjöortens RF - Ridsport**
 
     123 137 57 65 - PAY-Arrangemang, Startavgift, vet.besiktning hopptävlingar
@@ -14707,6 +14721,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Enkel Teknik / Christoffer Orre**
 
     123 404 34 36
+
+
+
+
+**EnkelP Media**
+
+    123 060 57 41
 
 
 
@@ -17423,6 +17444,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Finnmarkens Hembygdsförening**
 
     123 326 24 74
+
+
+
+
+**Finnskogarnas Sportklubb**
+
+    123 417 88 36
 
 
 
@@ -29848,6 +29876,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Högskolan Väst**
+
+    123 101 04 38
+
+
+
+
 **Högsrums Hembygdsförening**
 
     123 373 78 97
@@ -33486,6 +33521,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Islamiska Förbundet Stockholms Moské**
+
+    123 166 95 97
+
+
+
+
 **IslamNu**
 
     123 643 39 40
@@ -34443,6 +34485,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Järbo Hembygdsförening**
 
     123 350 16 24
+
+
+
+
+**Järbo Motorklubb**
+
+    123 280 18 76
 
 
 
@@ -58530,6 +58579,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 109 82 43
 
     123 230 25 37
+
+
+
+
+**Rotary Mönsterås**
+
+    123 041 60 57
 
 
 
@@ -89405,6 +89461,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Österlen FF**
 
     123 159 00 74
+
+
+
+
+**Österlens Hästvänner**
+
+    123 689 81 67
 
 
 
