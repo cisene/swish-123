@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-02-23-rev-192335",
+    "date": "2025-02-25-rev-164649",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -5787,6 +5787,17 @@
       "web": "https://kalmarbatklubb.se/"
     },
     {
+      "entry": 1230263095,
+      "orgName": "Tidningen Se Hit / Wedin Text & Reportage, Carina Vedin",
+      "orgNumber": "611109-XXXX",
+      "comment": null,
+      "categories": [
+        "lokaltidning",
+        "tidsskrifter"
+      ],
+      "web": "https://www.se-hit.se/"
+    },
+    {
       "entry": 1230263103,
       "orgName": "Stiftelsen Hemmet Vid V\u00e4gen",
       "orgNumber": "802012-0880",
@@ -9695,6 +9706,18 @@
         "hundsport"
       ],
       "web": "http://www.skarabk.se/"
+    },
+    {
+      "entry": 1230416958,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802002-8711",
+      "comment": "Vattenprojekt",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/"
     },
     {
       "entry": 1230416982,
@@ -131734,6 +131757,18 @@
         "muaythaiklubb"
       ],
       "web": "https://www.frontiermuaythai.se/"
+    },
+    {
+      "entry": 1235906813,
+      "orgName": "Svensk krigare i Ukraina / Christer Radecky",
+      "orgNumber": "710319-XXXX",
+      "comment": null,
+      "categories": [
+        "hj\u00e4lporganisation",
+        "insamling",
+        "ukraina"
+      ],
+      "web": "https://svenskkrigare.com/"
     },
     {
       "entry": 1235908603,

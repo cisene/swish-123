@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-23-rev-192418
+Revision: 2025-02-25-rev-164732
 
-Nummer: 14818
+Nummer: 14821
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -70819,6 +70819,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svensk krigare i Ukraina / Christer Radecky**
+
+    123 590 68 13
+
+
+
+
 **Svensk-Kubanska Föreningen**
 
     123 182 37 72 - Insamlingskontot Mediciner för Kuba
@@ -71992,6 +71999,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 000 46 55
 
     123 000 46 63
+
+    123 041 69 58 - Vattenprojekt
 
     123 057 43 01 - Ukraina
 
@@ -76911,6 +76920,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tidningen Proletären**
 
     123 465 04 46 - Frankrike
+
+
+
+
+**Tidningen Se Hit / Wedin Text & Reportage, Carina Vedin**
+
+    123 026 30 95
 
 
 

@@ -4749,8 +4749,8 @@ entries:
   web: https://kalmarbatklubb.se/
 
 - entry: 1230263095
-  orgName: Tidningen Se Hit
-  orgNumber: null
+  orgName: Tidningen Se Hit / Wedin Text & Reportage, Carina Vedin
+  orgNumber: 611109-XXXX
   comment: null
   categories:
   - lokaltidning
@@ -7985,11 +7985,13 @@ entries:
 
 - entry: 1230416958
   orgName: Svenska Röda Korset
-  orgNumber: null
-  comment: null
+  orgNumber: 802002-8711
+  comment: Vattenprojekt
   categories:
+  - godkänd gåvomottagare
+  - hjälporganisation
   - rödakorset
-  web: null
+  web: https://www.rodakorset.se/
 
 - entry: 1230416982
   orgName: Nora BK
@@ -108765,8 +108767,8 @@ entries:
   web: https://www.frontiermuaythai.se/
 
 - entry: 1235906813
-  orgName: Svensk Krigare
-  orgNumber: null
+  orgName: Svensk krigare i Ukraina / Christer Radecky
+  orgNumber: 710319-XXXX
   comment: null
   categories:
   - hjälporganisation

@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2025-02-23-rev-192406
+Date: 2025-02-25-rev-164720
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -540,6 +540,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1230261750"><organization><number>889201-7974</number><name>Timrå IK Supporterklubb</name></organization><comment/><categories><category type="supporterklubb"/></categories><web>https://tikare.se/</web></entry>
     <entry number="1230262097"><organization><number>802466-5401</number><name>Uppsala Handbollsklubb</name></organization><comment>F2011</comment><categories><category type="handbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.uppsalahk.se/</web></entry>
     <entry number="1230262808"><organization><number>832400-6504</number><name>Kalmar Båtklubb</name></organization><comment/><categories><category type="båtklubb"/></categories><web>https://kalmarbatklubb.se/</web></entry>
+    <entry number="1230263095"><organization><number>611109-XXXX</number><name>Tidningen Se Hit / Wedin Text &amp; Reportage, Carina Vedin</name></organization><comment/><categories><category type="lokaltidning"/><category type="tidsskrifter"/></categories><web>https://www.se-hit.se/</web></entry>
     <entry number="1230263103"><organization><number>802012-0880</number><name>Stiftelsen Hemmet Vid Vägen</name></organization><comment/><categories><category type="stiftelse"/></categories><web>https://hemmetvidvagen.se/</web></entry>
     <entry number="1230263236"><organization><number>802524-0097</number><name>Bibelns värld</name></organization><comment/><categories><category type="religion"/></categories><web>https://bibelnsvarld.nu/</web></entry>
     <entry number="1230263343"><organization><number>760815-XXXX</number><name>Yogafarmen / Linnéa El-Solh</name></organization><comment/><categories><category type="yoga"/></categories><web>https://www.yogafarmen.se/</web></entry>
@@ -901,6 +902,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1230416719"><organization><number>894001-0930</number><name>Umeå Kommuns Personalförening</name></organization><comment/><categories><category type="personalförening"/></categories><web>https://www.umea.se/sida/sporren/omoss</web></entry>
     <entry number="1230416784"><organization><number>802418-8495</number><name>Alingsås Bågskytteklubb</name></organization><comment/><categories><category type="bågskytteklubb"/><category type="idrottsförening"/></categories><web>https://www.svenskalag.se/alingsasbagskytteklubb</web></entry>
     <entry number="1230416941"><organization><number>868400-5575</number><name>Skara Brukshundsklubb</name></organization><comment/><categories><category type="brukshundklubb"/><category type="hundsport"/></categories><web>http://www.skarabk.se/</web></entry>
+    <entry number="1230416958"><organization><number>802002-8711</number><name>Svenska Röda Korset</name></organization><comment>Vattenprojekt</comment><categories><category type="godkänd gåvomottagare"/><category type="hjälporganisation"/><category type="rödakorset"/></categories><web>https://www.rodakorset.se/</web></entry>
     <entry number="1230416982"><organization><number>875003-5209</number><name>Nora BK</name></organization><comment/><categories><category type="idrottsförening"/></categories><web>https://www.norabk.com/</web></entry>
     <entry number="1230417162"><organization><number>802402-1084</number><name>Svenska Ölfrämjandet</name></organization><comment/><categories><category type="förening"/><category type="intresseorganisation"/></categories><web>https://svenskaolframjandet.se/</web></entry>
     <entry number="1230417295"><organization><number>855100-7704</number><name>Göteborgs Ungdomskör</name></organization><comment/><categories><category type="donation"/><category type="körsång"/><category type="ungdomsverksamhet"/></categories><web>https://www.goteborgsungdomskor.se/</web></entry>
@@ -12127,6 +12129,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1235904925"><organization><number>822001-5591</number><name>Östgötafolk</name></organization><comment/><categories><category type="folkmusik"/><category type="musikförening"/></categories><web>https://folkmusik.nu/</web></entry>
     <entry number="1235906417"><organization><number>838800-0468</number><name>Elimförsamlingen Simrishamn</name></organization><comment/><categories><category type="religion"/></categories><web>http://www.elimsimrishamn.se/</web></entry>
     <entry number="1235906607"><organization><number>802428-5002</number><name>Frontier Muay Thai</name></organization><comment/><categories><category type="idrottsförening"/><category type="kampsportsförening"/><category type="muaythaiklubb"/></categories><web>https://www.frontiermuaythai.se/</web></entry>
+    <entry number="1235906813"><organization><number>710319-XXXX</number><name>Svensk krigare i Ukraina / Christer Radecky</name></organization><comment/><categories><category type="hjälporganisation"/><category type="insamling"/><category type="ukraina"/></categories><web>https://svenskkrigare.com/</web></entry>
     <entry number="1235908603"><organization><number>802534-5938</number><name>Team Rynkeby</name></organization><comment>Göteborg, Internationella Engelska Skolan</comment><categories><category type="cancerforskning"/><category type="forskning"/><category type="hjärnforskning"/></categories><web>https://www.team-rynkeby.se/</web></entry>
     <entry number="1235908850"><organization><number>802470-6460</number><name>FreeZone Sweden</name></organization><comment/><categories><category type="kvinnojour"/></categories><web>https://freezonesweden.se/</web></entry>
     <entry number="1235909064"><organization><number>846500-2361</number><name>Föreningen Mästerkatten, FMK</name></organization><comment/><categories><category type="djurskydd"/><category type="katthem"/></categories><web>http://www.masterkatten.com/</web></entry>

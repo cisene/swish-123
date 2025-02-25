@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-02-23-rev-192346
+# Date: 2025-02-25-rev-164700
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -540,6 +540,7 @@
 "1230261750","889201-7974","Timrå IK Supporterklubb","https://tikare.se/","supporterklubb",""
 "1230262097","802466-5401","Uppsala Handbollsklubb","https://www.uppsalahk.se/","handbollsklubb,idrottsförening","F2011"
 "1230262808","832400-6504","Kalmar Båtklubb","https://kalmarbatklubb.se/","båtklubb",""
+"1230263095","611109-XXXX","Tidningen Se Hit / Wedin Text & Reportage, Carina Vedin","https://www.se-hit.se/","lokaltidning,tidsskrifter",""
 "1230263103","802012-0880","Stiftelsen Hemmet Vid Vägen","https://hemmetvidvagen.se/","stiftelse",""
 "1230263236","802524-0097","Bibelns värld","https://bibelnsvarld.nu/","religion",""
 "1230263343","760815-XXXX","Yogafarmen / Linnéa El-Solh","https://www.yogafarmen.se/","yoga",""
@@ -901,6 +902,7 @@
 "1230416719","894001-0930","Umeå Kommuns Personalförening","https://www.umea.se/sida/sporren/omoss","personalförening",""
 "1230416784","802418-8495","Alingsås Bågskytteklubb","https://www.svenskalag.se/alingsasbagskytteklubb","bågskytteklubb,idrottsförening",""
 "1230416941","868400-5575","Skara Brukshundsklubb","http://www.skarabk.se/","brukshundklubb,hundsport",""
+"1230416958","802002-8711","Svenska Röda Korset","https://www.rodakorset.se/","godkänd gåvomottagare,hjälporganisation,rödakorset","Vattenprojekt"
 "1230416982","875003-5209","Nora BK","https://www.norabk.com/","idrottsförening",""
 "1230417162","802402-1084","Svenska Ölfrämjandet","https://svenskaolframjandet.se/","förening,intresseorganisation",""
 "1230417295","855100-7704","Göteborgs Ungdomskör","https://www.goteborgsungdomskor.se/","donation,körsång,ungdomsverksamhet",""
@@ -12127,6 +12129,7 @@
 "1235904925","822001-5591","Östgötafolk","https://folkmusik.nu/","folkmusik,musikförening",""
 "1235906417","838800-0468","Elimförsamlingen Simrishamn","http://www.elimsimrishamn.se/","religion",""
 "1235906607","802428-5002","Frontier Muay Thai","https://www.frontiermuaythai.se/","idrottsförening,kampsportsförening,muaythaiklubb",""
+"1235906813","710319-XXXX","Svensk krigare i Ukraina / Christer Radecky","https://svenskkrigare.com/","hjälporganisation,insamling,ukraina",""
 "1235908603","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Göteborg, Internationella Engelska Skolan"
 "1235908850","802470-6460","FreeZone Sweden","https://freezonesweden.se/","kvinnojour",""
 "1235909064","846500-2361","Föreningen Mästerkatten, FMK","http://www.masterkatten.com/","djurskydd,katthem",""
