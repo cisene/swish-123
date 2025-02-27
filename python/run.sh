@@ -36,6 +36,7 @@ iconv -t utf-8 ../swish-123.md | pandoc --pdf-engine=pdfroff --toc-depth=1 -o ..
 
 # Add to git
 git add ../yaml/entries.yaml
+git add ../yaml/swish-123-datasource.yaml
 git add ../json/swish-123-datasource.json
 git add ../text/swish-123-datasource.csv
 git add ../text/swish-123-datasource.tsv
