@@ -14,7 +14,9 @@ from collections import defaultdict
 
 from datetime import datetime
 
-YAML_SOURCE_FILE = '../yaml/entries.yaml'
+#YAML_SOURCE_FILE = '../yaml/entries.yaml'
+YAML_SOURCE_FILE = '../yaml/swish-123-datasource.yaml'
+
 CSV_DEST_FILE = '../text/swish-123-datasource.csv'
 
 def writeCSV(filepath, contents):
@@ -82,41 +84,41 @@ def main():
 
   line_count = 0
   for entryVO in source_dict['entries']:
-    if validateEntry(entryVO['entry']) == False:
-      continue
+    #if validateEntry(entryVO['entry']) == False:
+    #  continue
 
-    cats = entryVO['categories']
+    #cats = entryVO['categories']
 
     # Filter categories
-    skip_cats = False
-    if cats != None:
-      for cat_block in category_block:
-        if cat_block in cats:
-          skip_cats = True
-          break
-    else:
-      skip_cats = True
-      continue
+    #skip_cats = False
+    #if cats != None:
+    #  for cat_block in category_block:
+    #    if cat_block in cats:
+    #      skip_cats = True
+    #      break
+    #else:
+    #  skip_cats = True
+    #  continue
 
-    if(
-      entryVO['orgNumber'] != None
-      and
-      entryVO['orgName'] != None
-      and
-      entryVO['categories'] != None
-      and
-      skip_cats == False
-    ):
-      if entryVO['comment'] == None:
-        entryVO['comment'] = ""
+    #if(
+    #  entryVO['orgNumber'] != None
+    #  and
+    #  entryVO['orgName'] != None
+    #  and
+    #  entryVO['categories'] != None
+    #  and
+    #  skip_cats == False
+    #):
+    if entryVO['comment'] == None:
+      entryVO['comment'] = ""
 
-      if entryVO['web'] == None:
-        entryVO['web'] = ""
+    if entryVO['web'] == None:
+      entryVO['web'] = ""
 
-      line = f"\"{entryVO['entry']}\",\"{entryVO['orgNumber']}\",\"{entryVO['orgName']}\",\"{entryVO['web']}\",\"{flattenList(entryVO['categories'])}\",\"{entryVO['comment']}\""
+    line = f"\"{entryVO['entry']}\",\"{entryVO['orgNumber']}\",\"{entryVO['orgName']}\",\"{entryVO['web']}\",\"{flattenList(entryVO['categories'])}\",\"{entryVO['comment']}\""
 
-      dest_list.append(line)
-      line_count += 1
+    dest_list.append(line)
+    line_count += 1
 
   source_dict_count = len(source_dict['entries'])
 

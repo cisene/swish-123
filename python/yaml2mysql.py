@@ -11,7 +11,8 @@ import yaml
 import mysql.connector
 
 
-YAML_SOURCE_FILE = '../yaml/entries.yaml'
+# YAML_SOURCE_FILE = '../yaml/entries.yaml'
+YAML_SOURCE_FILE = '../yaml/swish-123-datasource.yaml'
 
 APP_NAME = 'Yaml2MySQL'
 APP_VERSION = '0.0.1#20240106'
@@ -48,14 +49,14 @@ def updateDatabase(entries):
 
   line_count = 1
 
-  category_block = [
-    'overifierad',
-    'suspended',
-    'terminated',
-    'verified',
-    'verifierad',
-    'retired',
-  ]
+  #category_block = [
+  #  'overifierad',
+  #  'suspended',
+  #  'terminated',
+  #  'verified',
+  #  'verifierad',
+  #  'retired',
+  #]
 
   if len(entries['entries']) > 0:
     query = "TRUNCATE TABLE categories;"
@@ -78,20 +79,20 @@ def updateDatabase(entries):
     if "entry" in VO:
       entry = VO['entry']
 
-    if categories == None:
-      #print(f"{entry} had no categories .. skipping")
-      result['blocked'] += 1
-      continue
+    #if categories == None:
+    #  #print(f"{entry} had no categories .. skipping")
+    #  result['blocked'] += 1
+    #  continue
 
-    category_skip = False
-    for category in categories:
-      if category in category_block:
-        #print(f"{entry} had '{category}' .. skipping")
-        category_skip = True
+    #category_skip = False
+    #for category in categories:
+    #  if category in category_block:
+    #    #print(f"{entry} had '{category}' .. skipping")
+    #    category_skip = True
 
-    if category_skip == True:
-      result['blocked'] += 1
-      continue
+    #if category_skip == True:
+    #  result['blocked'] += 1
+    #  continue
 
     # Print progress
     if (line_count % 500) == 0:
@@ -104,9 +105,9 @@ def updateDatabase(entries):
         orgName = safeSQL(VO['orgName'])
 
     # If orgName is missing, skip it
-    if orgName == "":
-      result['blocked'] += 1
-      continue
+    #if orgName == "":
+    #  result['blocked'] += 1
+    #  continue
 
     orgNumber = ""
     if "orgNumber" in VO:
@@ -114,9 +115,9 @@ def updateDatabase(entries):
         orgNumber = safeSQL(VO['orgNumber'])
 
     # If orgNumber is missing, skip it
-    if orgNumber == "":
-      result['blocked'] += 1
-      continue
+    #if orgNumber == "":
+    #  result['blocked'] += 1
+    #  continue
 
     web = ""
     if "web" in VO:

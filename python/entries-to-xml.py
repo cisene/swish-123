@@ -14,7 +14,9 @@ from collections import defaultdict
 
 from datetime import datetime
 
-YAML_SOURCE_FILE = '../yaml/entries.yaml'
+#YAML_SOURCE_FILE = '../yaml/entries.yaml'
+YAML_SOURCE_FILE = '../yaml/swish-123-datasource.yaml'
+
 XML_DEST_FILE = '../xml/swish-123-datasource.xml'
 
 def writeXML(filepath, contents):
@@ -55,14 +57,14 @@ def main():
   print(f"Reading source YAML: {YAML_SOURCE_FILE} ..")
   source_dict = readYAML(YAML_SOURCE_FILE)
 
-  category_block = [
-    'overifierad',
-    'suspended',
-    'terminated',
-    'verified',
-    'verifierad',
-    'retired',
-  ]
+  #category_block = [
+  #  'overifierad',
+  #  'suspended',
+  #  'terminated',
+  #  'verified',
+  #  'verifierad',
+  #  'retired',
+  #]
   
   if source_dict == None:
     print(f"Could not read {YAML_SOURCE_FILE}")
@@ -87,70 +89,70 @@ def main():
 
   line_count = 0
   for entryVO in source_dict['entries']:
-    if validateEntry(entryVO['entry']) == False:
-      continue
+    #if validateEntry(entryVO['entry']) == False:
+    #  continue
 
-    cats = entryVO['categories']
+    #cats = entryVO['categories']
 
     # Filter categories
-    skip_cats = False
-    if cats != None:
-      for cat_block in category_block:
-        if cat_block in cats:
-          skip_cats = True
-          break
+    #skip_cats = False
+    #if cats != None:
+    #  for cat_block in category_block:
+    #    if cat_block in cats:
+    #      skip_cats = True
+    #      break
+    #else:
+    #  skip_cats = True
+    #  continue
+
+    #if(
+    #  entryVO['orgNumber'] != None
+    #  and
+    #  entryVO['orgName'] != None
+    #  and
+    #  entryVO['categories'] != None
+    #  and
+    #  skip_cats == False
+    #):
+    if entryVO['comment'] == None:
+      entryVO['comment'] = ""
+
+    if entryVO['web'] == None:
+      entryVO['web'] = ""
+
+    frag = []
+
+    # Open entry
+    frag.append(f"<entry number=\"{entryVO['entry']}\">")
+    
+    # Organisation
+    frag.append("<organization>")
+    frag.append(f"<number>{entryVO['orgNumber']}</number>")
+    frag.append(f"<name>{escapeXML(entryVO['orgName'])}</name>")
+    frag.append("</organization>")
+    
+    # Comment
+    if entryVO['comment'] == "":
+      frag.append("<comment/>")
     else:
-      skip_cats = True
-      continue
+      frag.append(f"<comment>{escapeXML(entryVO['comment'])}</comment>")
+    
+    # Categories
+    frag.append("<categories>")
+    for cat in entryVO['categories']:
+      frag.append(f"<category type=\"{escapeXML(cat)}\"/>")
 
-    if(
-      entryVO['orgNumber'] != None
-      and
-      entryVO['orgName'] != None
-      and
-      entryVO['categories'] != None
-      and
-      skip_cats == False
-    ):
-      if entryVO['comment'] == None:
-        entryVO['comment'] = ""
+    frag.append("</categories>")
+    
+    # Web
+    frag.append(f"<web>{escapeXML(entryVO['web'])}</web>")
 
-      if entryVO['web'] == None:
-        entryVO['web'] = ""
+    # Close entry
+    frag.append("</entry>")
 
-      frag = []
-
-      # Open entry
-      frag.append(f"<entry number=\"{entryVO['entry']}\">")
-      
-      # Organisation
-      frag.append("<organization>")
-      frag.append(f"<number>{entryVO['orgNumber']}</number>")
-      frag.append(f"<name>{escapeXML(entryVO['orgName'])}</name>")
-      frag.append("</organization>")
-      
-      # Comment
-      if entryVO['comment'] == "":
-        frag.append("<comment/>")
-      else:
-        frag.append(f"<comment>{escapeXML(entryVO['comment'])}</comment>")
-      
-      # Categories
-      frag.append("<categories>")
-      for cat in entryVO['categories']:
-        frag.append(f"<category type=\"{escapeXML(cat)}\"/>")
-
-      frag.append("</categories>")
-      
-      # Web
-      frag.append(f"<web>{escapeXML(entryVO['web'])}</web>")
-
-      # Close entry
-      frag.append("</entry>")
-
-      line = "".join(frag)
-      dest_list.append(f"    {line}")
-      line_count += 1
+    line = "".join(frag)
+    dest_list.append(f"    {line}")
+    line_count += 1
 
   dest_list.append("  </entries>")
   dest_list.append("</root>")

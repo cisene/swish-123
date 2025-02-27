@@ -12,7 +12,8 @@ from collections import OrderedDict
 from datetime import datetime
 
 
-YAML_SOURCE_FILE = '../yaml/entries.yaml'
+#YAML_SOURCE_FILE = '../yaml/entries.yaml'
+YAML_SOURCE_FILE = '../yaml/swish-123-datasource.yaml'
 
 MD_DEST_FILE = '../swish-123.md'
 
@@ -59,14 +60,14 @@ def prettyprintSwish(data):
 
 
 def main():
-  category_block = [
-    'overifierad',
-    'suspended',
-    'terminated',
-    'verified',
-    'verifierad',
-    'retired',
-  ]
+  #category_block = [
+  #  'overifierad',
+  #  'suspended',
+  #  'terminated',
+  #  'verified',
+  #  'verifierad',
+  #  'retired',
+  #]
 
   print(f"Reading source YAML: {YAML_SOURCE_FILE} ..")
   source_dict = readYAML(YAML_SOURCE_FILE)
@@ -87,21 +88,21 @@ def main():
   for vo in source_dict['entries']:
     if vo['orgName'] != None and vo['orgNumber'] != None:
 
-      skip_cats = False
-      if "categories" not in vo:
-        skip_cats = True
-      else:
-        cats = vo['categories']
-        if cats != None:
-          for cat_block in category_block:
-            if cat_block in cats:
-              skip_cats = True
-              break
-        else:
-          skip_cats = True
+      #skip_cats = False
+      #if "categories" not in vo:
+      #  skip_cats = True
+      #else:
+      #  cats = vo['categories']
+      #  if cats != None:
+      #    for cat_block in category_block:
+      #      if cat_block in cats:
+      #        skip_cats = True
+      #        break
+      #  else:
+      #    skip_cats = True
 
-      if skip_cats == True:
-        continue
+      #if skip_cats == True:
+      #  continue
 
       vo_sort_key = f"{flattenName(vo['orgName'])}:{vo['orgNumber']}"
 

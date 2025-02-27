@@ -201,6 +201,7 @@ def testEntries(entries):
     'malformed-orgName-uppercase': [],
     'malformed-orgName-lowercase': [],
     'malformed-orgNumber': [],
+    'malformed-orgNumber-missing': [],
     'malformed-orgNumberUnmasked': [],
 
     'malformed-categories-empty': [],
@@ -281,6 +282,9 @@ def testEntries(entries):
 
           if tested['type'] not in ['organisation', 'person']:
             malformed_orgNumber = True
+
+        else:
+          result['malformed-orgNumber-missing'].append(entryVO)
 
 
         if malformed_orgNumber == True:

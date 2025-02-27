@@ -10,6 +10,9 @@ python3 ./entries-update-gåvomottagare.py
 # Update varningslistan from Masterdata
 python3 ./entries-update-forenadebolag-varningslistan.py
 
+# Filter YAML
+python3 ./entries-filter.py
+
 # Render JSON
 python3 ./entries-to-json.py
 
