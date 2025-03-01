@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-01-rev-133115
+Revision: 2025-03-01-rev-220650
 
-Nummer: 14840
+Nummer: 14863
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -58312,6 +58312,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Alingsås**
+
+    123 588 05 54
+
+
+
+
 **Rotary Alingsås Nolhaga**
 
     123 096 02 37
@@ -58391,6 +58398,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Eksjö**
+
+    123 263 81 79
+
+
+
+
 **Rotary Eslöv**
 
     123 088 99 56
@@ -58401,6 +58415,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Eslöv-Sallerup**
 
     123 575 29 36
+
+
+
+
+**Rotary Falsterbo-Skytts**
+
+    123 610 82 86
+
+
+
+
+**Rotary Gislaved**
+
+    123 062 45 51
+
+
+
+
+**Rotary Gränna**
+
+    123 467 46 77
 
 
 
@@ -58426,6 +58461,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Haninge-Tyresö**
+
+    123 686 97 05
+
+
+
+
 **Rotary Helsingborg International**
 
     123 239 88 65
@@ -58440,6 +58482,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Helsingborg-Landborgen**
+
+    123 678 35 91
+
+
+
+
 **Rotary Hässleholm**
 
     123 373 74 18
@@ -58447,9 +58496,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Höganäs**
+
+    123 661 58 92
+
+
+
+
 **Rotary Höganäs-Kullen**
 
     123 085 50 64
+
+
+
+
+**Rotary Hörby**
+
+    123 154 42 53
 
 
 
@@ -58588,6 +58651,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Malmö Triangeln**
+
+    123 085 72 27
+
+
+
+
 **Rotary Malmö Öresund**
 
     123 560 47 31
@@ -58604,9 +58674,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Motala**
+
+    123 182 95 63
+
+
+
+
 **Rotary Mönsterås**
 
     123 041 60 57
+
+
+
+
+**Rotary Nacka**
+
+    123 584 64 49
 
 
 
@@ -58618,7 +58702,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Norrköping-Kneippbaden**
+
+    123 375 92 06
+
+
+
+
 **Rotary Nybro Glasriket**
+
+    123 033 79 07
 
     123 692 97 56
 
@@ -58708,6 +58801,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 513 85 32
 
+    123 517 82 32
+
 
 
 
@@ -58718,9 +58813,30 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Sävsjö**
+
+    123 523 45 47
+
+
+
+
 **Rotary Söderköping**
 
     123 255 87 57
+
+
+
+
+**Rotary Södertälje**
+
+    123 214 92 68
+
+
+
+
+**Rotary Torsås-Bergkvara**
+
+    123 501 45 68
 
 
 
@@ -58749,6 +58865,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Uddevalla-Byfjorden**
 
     123 114 38 41
+
+
+
+
+**Rotary Ulricehamn**
+
+    123 190 58 76
 
 
 
@@ -58788,6 +58911,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Vännäs**
+
+    123 626 18 87
+
+
+
+
 **Rotary Västerås Aurora**
 
     123 362 06 71
@@ -58807,6 +58937,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Växjö S:t Sigfrid**
 
     123 290 53 62
+
+
+
+
+**Rotary Växjö-Öjaby**
+
+    123 517 68 88
+
+
+
+
+**Rotary Wisborg**
+
+    123 214 66 60
 
 
 
@@ -58872,6 +59016,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Örkelljunga**
 
     123 557 87 52
+
+
+
+
+**Rotary Örnsköldsvik**
+
+    123 545 84 92
 
 
 

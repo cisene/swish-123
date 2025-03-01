@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-03-01-rev-133038",
+    "date": "2025-03-01-rev-220611",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -7910,6 +7910,16 @@
       "web": "https://www.svenskakyrkan.se/blentarp"
     },
     {
+      "entry": 1230337907,
+      "orgName": "Rotary Nybro Glasriket",
+      "orgNumber": "802506-9991",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/17245/"
+    },
+    {
       "entry": 1230337964,
       "orgName": "Museif\u00f6reningen \u00c5ngfartyget Ejdern",
       "orgNumber": "802006-8352",
@@ -14209,6 +14219,16 @@
       "web": "https://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Sk%E5ne.html"
     },
     {
+      "entry": 1230624551,
+      "orgName": "Rotary Gislaved",
+      "orgNumber": "802510-5092",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://gislaved.rotary2380.se/"
+    },
+    {
       "entry": 1230624569,
       "orgName": "Lindome IBK",
       "orgNumber": "802453-8939",
@@ -19881,6 +19901,16 @@
         "ryttarf\u00f6rening"
       ],
       "web": "https://www.blomstermalarf.se/"
+    },
+    {
+      "entry": 1230857227,
+      "orgName": "Rotary Malm\u00f6 Triangeln",
+      "orgNumber": "802505-0884",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://malmo-triangeln.rotary2395.se/"
     },
     {
       "entry": 1230857391,
@@ -35808,6 +35838,16 @@
       "web": "https://sameslojdstiftelsen.com/"
     },
     {
+      "entry": 1231544253,
+      "orgName": "Rotary H\u00f6rby",
+      "orgNumber": "842000-8784",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://horby.rotary2395.se/"
+    },
+    {
       "entry": 1231544469,
       "orgName": "Svensk F\u00f6rening f\u00f6r Lymfologi, SFL",
       "orgNumber": "802445-6355",
@@ -42604,6 +42644,16 @@
       "web": "https://www.svenskalag.se/fbce"
     },
     {
+      "entry": 1231829563,
+      "orgName": "Rotary Motala",
+      "orgNumber": "824000-7404",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/16508/"
+    },
+    {
       "entry": 1231829712,
       "orgName": "\u00c4lvdalens IF - Skidor",
       "orgNumber": "802416-3746",
@@ -44253,6 +44303,16 @@
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/fvskf"
+    },
+    {
+      "entry": 1231905876,
+      "orgName": "Rotary Ulricehamn",
+      "orgNumber": "802532-8744",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/16576/"
     },
     {
       "entry": 1231906031,
@@ -49030,6 +49090,16 @@
       "web": "https://stg.scout.se/"
     },
     {
+      "entry": 1232146660,
+      "orgName": "Rotary Wisborg",
+      "orgNumber": "834001-1249",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/15610/"
+    },
+    {
       "entry": 1232146702,
       "orgName": "FUB V\u00e4ster\u00e5s",
       "orgNumber": "878000-6006",
@@ -49150,6 +49220,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/arboga"
+    },
+    {
+      "entry": 1232149268,
+      "orgName": "Rotary S\u00f6dert\u00e4lje",
+      "orgNumber": "815600-6101",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://sodertalje.rotary2405.se/"
     },
     {
       "entry": 1232149433,
@@ -60093,6 +60173,16 @@
         "ishockeyklubb"
       ],
       "web": "https://www.laget.se/SOHA/"
+    },
+    {
+      "entry": 1232638179,
+      "orgName": "Rotary Eksj\u00f6",
+      "orgNumber": "802420-0829",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://eksjo.rotary2380.se/"
     },
     {
       "entry": 1232638229,
@@ -80428,7 +80518,7 @@
       "categories": [
         "rotaryklubb"
       ],
-      "web": "https://portal.clubrunner.ca/15685/"
+      "web": "https://saltsjobaden.rotary2405.se/"
     },
     {
       "entry": 1233515277,
@@ -85415,6 +85505,16 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-gnistan-vannas/"
+    },
+    {
+      "entry": 1233759206,
+      "orgName": "Rotary Norrk\u00f6ping-Kneippbaden",
+      "orgNumber": "825001-9760",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/16520/"
     },
     {
       "entry": 1233760386,
@@ -104868,6 +104968,16 @@
       "web": "https://www.svenskakyrkan.se/bredaryd"
     },
     {
+      "entry": 1234674677,
+      "orgName": "Rotary Gr\u00e4nna",
+      "orgNumber": "802549-8877",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://granna.rotary2380.se/"
+    },
+    {
       "entry": 1234674750,
       "orgName": "S\u00e4llskapet Tr\u00e4dg\u00e5rdsamat\u00f6rerna S\u00f6dra Sm\u00e5land, STASS",
       "orgNumber": "802444-7149",
@@ -110988,6 +111098,16 @@
       "web": "https://n\u00e4thatsgranskaren.se/"
     },
     {
+      "entry": 1235014568,
+      "orgName": "Rotary Tors\u00e5s-Bergkvara",
+      "orgNumber": "832400-2404",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/17246/"
+    },
+    {
       "entry": 1235014675,
       "orgName": "V\u00e4sternorrlands Samef\u00f6rening, Noerhtenaestie",
       "orgNumber": "889601-3789",
@@ -115429,6 +115549,16 @@
       "web": "https://www.kikamusik.se/"
     },
     {
+      "entry": 1235176888,
+      "orgName": "Rotary V\u00e4xj\u00f6-\u00d6jaby",
+      "orgNumber": "829500-9974",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/15812/"
+    },
+    {
       "entry": 1235177258,
       "orgName": "Storvreta Barnloppis",
       "orgNumber": "802517-5590",
@@ -115490,6 +115620,16 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/BjorklingeBK_/"
+    },
+    {
+      "entry": 1235178232,
+      "orgName": "Rotary Sundsvall-V\u00e4sthagen",
+      "orgNumber": "889202-5415",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/16772/"
     },
     {
       "entry": 1235180443,
@@ -116455,6 +116595,16 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://hasene.se/"
+    },
+    {
+      "entry": 1235234547,
+      "orgName": "Rotary S\u00e4vsj\u00f6",
+      "orgNumber": "802496-9654",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://savsjo.rotary2380.se/"
     },
     {
       "entry": 1235240221,
@@ -121905,6 +122055,16 @@
         "religion"
       ],
       "web": "https://www.burekyrkan.com/"
+    },
+    {
+      "entry": 1235458492,
+      "orgName": "Rotary \u00d6rnsk\u00f6ldsvik",
+      "orgNumber": "889601-0199",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/17227/"
     },
     {
       "entry": 1235458690,
@@ -130641,6 +130801,16 @@
       "web": "https://www.svenskakyrkan.se/umea"
     },
     {
+      "entry": 1235846449,
+      "orgName": "Rotary Nacka",
+      "orgNumber": "802430-8044",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/15607/"
+    },
+    {
       "entry": 1235846605,
       "orgName": "Den kulturella hj\u00e4rnan / Lottie Vikings Insamlingsstiftelse f\u00f6r Forskning p\u00e5 Kultur och Hj\u00e4rnan",
       "orgNumber": "802481-6871",
@@ -131097,6 +131267,16 @@
         "sportskytteklubb"
       ],
       "web": "https://www.svenskalag.se/salaskyttegille"
+    },
+    {
+      "entry": 1235880554,
+      "orgName": "Rotary Alings\u00e5s",
+      "orgNumber": "802506-0172",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/16418/"
     },
     {
       "entry": 1235880646,
@@ -136123,6 +136303,16 @@
       "web": "https://pilgrimstad.com/batklubben/"
     },
     {
+      "entry": 1236108286,
+      "orgName": "Rotary Falsterbo-Skytts",
+      "orgNumber": "802520-6965",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://falsterbo-skytts.rotary2395.se/"
+    },
+    {
       "entry": 1236108773,
       "orgName": "Sk\u00f6vde-Skultorp Scoutk\u00e5r",
       "orgNumber": "866601-0486",
@@ -139935,6 +140125,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/lycka-forsamling"
+    },
+    {
+      "entry": 1236261887,
+      "orgName": "Rotary V\u00e4nn\u00e4s",
+      "orgNumber": "802499-9982",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/16274/"
     },
     {
       "entry": 1236261986,
@@ -147318,6 +147518,16 @@
       "web": "https://tbif.se/"
     },
     {
+      "entry": 1236615892,
+      "orgName": "Rotary H\u00f6gan\u00e4s",
+      "orgNumber": "802527-5754",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://hoganas.rotary2395.se/"
+    },
+    {
       "entry": 1236615926,
       "orgName": "Midsommarkransens Trafikskola AB",
       "orgNumber": "559307-6671",
@@ -151741,6 +151951,16 @@
       "web": "https://www.laget.se/EdsFF/"
     },
     {
+      "entry": 1236783591,
+      "orgName": "Rotary Helsingborg-Landborgen",
+      "orgNumber": "802497-6717",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://helsingborg-landborgen.rotary2395.se/"
+    },
+    {
       "entry": 1236783914,
       "orgName": "Trelleborgs Missionsf\u00f6rsamling",
       "orgNumber": "847000-0988",
@@ -153481,6 +153701,16 @@
       "web": "https://www.svenskakyrkan.se/ulricehamn"
     },
     {
+      "entry": 1236869705,
+      "orgName": "Rotary Haninge-Tyres\u00f6",
+      "orgNumber": "802487-4953",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://portal.clubrunner.ca/15604/"
+    },
+    {
       "entry": 1236870224,
       "orgName": "Timmermansorden",
       "orgNumber": "802012-9089",
@@ -154928,7 +155158,7 @@
       "categories": [
         "rotaryklubb"
       ],
-      "web": "https://www.rotary2410.se/clubinfophoto/nybro-glasriket"
+      "web": "https://portal.clubrunner.ca/17245/"
     },
     {
       "entry": 1236930150,
@@ -157690,6 +157920,7 @@
         "hj\u00e4lporganisation",
         "insamling",
         "insamlingskontroll",
+        "rotaryklubb",
         "stiftelse"
       ],
       "web": "https://www.rotaryhjalper.se/"
