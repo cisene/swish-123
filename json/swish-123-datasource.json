@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-03-01-rev-220611",
+    "date": "2025-03-01-rev-221159",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -95954,7 +95954,7 @@
     },
     {
       "entry": 1234234266,
-      "orgName": "Rotaryklubb Halmstad-Tyl\u00f6sand",
+      "orgName": "Rotary Halmstad-Tyl\u00f6sand",
       "orgNumber": "849201-6327",
       "comment": null,
       "categories": [
@@ -131064,7 +131064,7 @@
       "categories": [
         "rotaryklubb"
       ],
-      "web": "https://portal.clubrunner.ca/15015"
+      "web": "https://portal.clubrunner.ca/15015/"
     },
     {
       "entry": 1235860093,

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-03-01-rev-220629
+# Date: 2025-03-01-rev-221221
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -8847,7 +8847,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234232781	802515-9453	PRO Kopparberg	https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samorganisation-ljusnarberg/foreningar/kopparberg.html	pensionärsklubb	
 1234233334	855100-0733	Styrsö Sockens Hembygdsförening	https://www.hembygd.se/styrso	hembygdsförening	
 1234233623	802403-2818	Djurgårdens Handikappfotboll	https://www.sportnik.com/group/17962	fotbollsklubb,idrottsförening	
-1234234266	849201-6327	Rotaryklubb Halmstad-Tylösand	https://portal.clubrunner.ca/15701/	rotaryklubb	
+1234234266	849201-6327	Rotary Halmstad-Tylösand	https://portal.clubrunner.ca/15701/	rotaryklubb	
 1234236196	802008-4953	Enskede Scoutkår	https://enskede.scout.se/	scoutkår	
 1234236717	802429-5423	Skällinge SKF	https://www.svenskalag.se/skallingeskytteforening	skytteklubb,sportskytteklubb	Medlemsavgift
 1234237418	817601-0083	Hagunda IF	https://www.hagundaif.se/	friidrottsförening,idrottsförening,innebandyklubb	
@@ -12066,7 +12066,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235857990	817601-0083	Hagunda IF	https://www.laget.se/Vangeloppet/	friidrottsförening,idrottsförening	Vängeloppet
 1235858410	846000-4040	Malmö BK	https://www.svenskbridge.se/malmö-bk	bridgeklubb	
 1235859285	837600-3672	Solängskolan / Kristna Skolföreningen i Örkelljunga	https://www.solangskolan.se/	friskola,religion	
-1235859954	837600-7095	Rotary Åstorp	https://portal.clubrunner.ca/15015	rotaryklubb	
+1235859954	837600-7095	Rotary Åstorp	https://portal.clubrunner.ca/15015/	rotaryklubb	
 1235860093	853300-2344	Tjörns hjälp till Ukraina / Betelförsamlingen Klädesholmen	https://www.facebook.com/tjornshjalptillukraina	hjälporganisation,insamling,ukraina	
 1235864855	802518-3107	Storsjöns Vägförening		samfällighetsförening,vägförening	
 1235867619	817607-0822	Enköpings Biodlare	http://enkopingsbiodlare.se/	biodlareförening,biodling,naturbruk	

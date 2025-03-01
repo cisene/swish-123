@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-01-rev-220650
+Revision: 2025-03-01-rev-221242
 
 Nummer: 14863
 
@@ -58454,6 +58454,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Halmstad-Tylösand**
+
+    123 423 42 66
+
+
+
+
 **Rotary Hammenhög**
 
     123 285 93 38
@@ -59023,13 +59030,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Örnsköldsvik**
 
     123 545 84 92
-
-
-
-
-**Rotaryklubb Halmstad-Tylösand**
-
-    123 423 42 66
 
 
 

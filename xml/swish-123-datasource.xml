@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2025-03-01-rev-220640
+Date: 2025-03-01-rev-221231
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -8847,7 +8847,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1234232781"><organization><number>802515-9453</number><name>PRO Kopparberg</name></organization><comment/><categories><category type="pensionärsklubb"/></categories><web>https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samorganisation-ljusnarberg/foreningar/kopparberg.html</web></entry>
     <entry number="1234233334"><organization><number>855100-0733</number><name>Styrsö Sockens Hembygdsförening</name></organization><comment/><categories><category type="hembygdsförening"/></categories><web>https://www.hembygd.se/styrso</web></entry>
     <entry number="1234233623"><organization><number>802403-2818</number><name>Djurgårdens Handikappfotboll</name></organization><comment/><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.sportnik.com/group/17962</web></entry>
-    <entry number="1234234266"><organization><number>849201-6327</number><name>Rotaryklubb Halmstad-Tylösand</name></organization><comment/><categories><category type="rotaryklubb"/></categories><web>https://portal.clubrunner.ca/15701/</web></entry>
+    <entry number="1234234266"><organization><number>849201-6327</number><name>Rotary Halmstad-Tylösand</name></organization><comment/><categories><category type="rotaryklubb"/></categories><web>https://portal.clubrunner.ca/15701/</web></entry>
     <entry number="1234236196"><organization><number>802008-4953</number><name>Enskede Scoutkår</name></organization><comment/><categories><category type="scoutkår"/></categories><web>https://enskede.scout.se/</web></entry>
     <entry number="1234236717"><organization><number>802429-5423</number><name>Skällinge SKF</name></organization><comment>Medlemsavgift</comment><categories><category type="skytteklubb"/><category type="sportskytteklubb"/></categories><web>https://www.svenskalag.se/skallingeskytteforening</web></entry>
     <entry number="1234237418"><organization><number>817601-0083</number><name>Hagunda IF</name></organization><comment/><categories><category type="friidrottsförening"/><category type="idrottsförening"/><category type="innebandyklubb"/></categories><web>https://www.hagundaif.se/</web></entry>
@@ -12066,7 +12066,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1235857990"><organization><number>817601-0083</number><name>Hagunda IF</name></organization><comment>Vängeloppet</comment><categories><category type="friidrottsförening"/><category type="idrottsförening"/></categories><web>https://www.laget.se/Vangeloppet/</web></entry>
     <entry number="1235858410"><organization><number>846000-4040</number><name>Malmö BK</name></organization><comment/><categories><category type="bridgeklubb"/></categories><web>https://www.svenskbridge.se/malmö-bk</web></entry>
     <entry number="1235859285"><organization><number>837600-3672</number><name>Solängskolan / Kristna Skolföreningen i Örkelljunga</name></organization><comment/><categories><category type="friskola"/><category type="religion"/></categories><web>https://www.solangskolan.se/</web></entry>
-    <entry number="1235859954"><organization><number>837600-7095</number><name>Rotary Åstorp</name></organization><comment/><categories><category type="rotaryklubb"/></categories><web>https://portal.clubrunner.ca/15015</web></entry>
+    <entry number="1235859954"><organization><number>837600-7095</number><name>Rotary Åstorp</name></organization><comment/><categories><category type="rotaryklubb"/></categories><web>https://portal.clubrunner.ca/15015/</web></entry>
     <entry number="1235860093"><organization><number>853300-2344</number><name>Tjörns hjälp till Ukraina / Betelförsamlingen Klädesholmen</name></organization><comment/><categories><category type="hjälporganisation"/><category type="insamling"/><category type="ukraina"/></categories><web>https://www.facebook.com/tjornshjalptillukraina</web></entry>
     <entry number="1235864855"><organization><number>802518-3107</number><name>Storsjöns Vägförening</name></organization><comment/><categories><category type="samfällighetsförening"/><category type="vägförening"/></categories><web></web></entry>
     <entry number="1235867619"><organization><number>817607-0822</number><name>Enköpings Biodlare</name></organization><comment/><categories><category type="biodlareförening"/><category type="biodling"/><category type="naturbruk"/></categories><web>http://enkopingsbiodlare.se/</web></entry>
