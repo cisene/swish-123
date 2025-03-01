@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-02-27-rev-192934
+Revision: 2025-03-01-rev-133115
 
-Nummer: 14830
+Nummer: 14840
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -58312,9 +58312,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Alingsås Nolhaga**
+
+    123 096 02 37
+
+
+
+
 **Rotary Alvesta**
 
     123 237 08 80
+
+
+
+
+**Rotary Anderstorp**
+
+    123 091 65 93
 
 
 
@@ -58544,6 +58558,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Lomma-Bjärred**
+
+    123 985 61 95
+
+
+
+
 **Rotary Lund**
 
     123 316 03 30
@@ -58590,6 +58611,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Nordmaling**
+
+    123 457 55 69
+
+
+
+
 **Rotary Nybro Glasriket**
 
     123 692 97 56
@@ -58627,6 +58655,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Skellefteå**
+
+    123 418 18 14
+
+
+
+
+**Rotary Smålandsstenar**
+
+    123 050 29 06
+
+
+
+
 **Rotary Staffanstorp**
 
     123 694 69 17
@@ -58658,6 +58700,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Stockholm-Vällingby och Spånga**
 
     123 693 42 51
+
+
+
+
+**Rotary Sundsvall-Västhagen**
+
+    123 513 85 32
 
 
 
@@ -58718,9 +58767,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Varberg Bocksten**
+
+    123 603 48 13
+
+
+
+
 **Rotary Vimmerby Astrid Lindgren**
 
     123 188 51 28
+
+
+
+
+**Rotary Vänersborg**
+
+    123 669 89 22
 
 
 
@@ -58758,6 +58821,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Älmhult Linnébygden**
 
     123 348 12 64
+
+
+
+
+**Rotary Ängelholm**
+
+    123 380 57 10
 
 
 
