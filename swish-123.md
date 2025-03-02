@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-01-rev-221242
+Revision: 2025-03-02-rev-135033
 
-Nummer: 14863
+Nummer: 14877
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -15661,6 +15661,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Erikslunds KF**
+
+    123 289 26 51
+
+
+
+
 **Erikssons Trafikskola i Malmö AB**
 
     123 155 48 72
@@ -18766,6 +18773,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**FrihetsNytt / Marketing4Future M4F AB**
+
+    123 519 63 73
+
+    123 615 07 42
+
+
+
+
 **Frillegården / Andreas Graba**
 
     123 208 25 01
@@ -21319,6 +21335,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen Rädda Björndammsdalen och Finngösaravinen**
 
     123 321 23 70
+
+
+
+
+**Föreningen Rädda Katterna**
+
+    123 041 22 13
 
 
 
@@ -31138,6 +31161,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 126 63 86 - P10
 
+    123 151 82 81 - P13
+
     123 251 24 08 - P10
 
     123 367 40 17 - P11/12
@@ -31145,6 +31170,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 370 89 14 - U15
 
     123 442 61 85 - F15
+
+    123 455 80 45 - F10/11
 
     123 525 56 41 - P2013
 
@@ -31660,6 +31687,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 633 94 93 - P2012
 
     123 657 74 15 - P2013
+
+    123 696 13 87 - P2011
 
 
 
@@ -35647,6 +35676,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Karlskoga SK**
 
     123 173 37 65 - Bollek
+
+    123 683 57 71 - Herrlaget
 
 
 
@@ -59631,6 +59662,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rädda Katten**
+
+    123 219 95 78
+
+
+
+
 **Rämmens Bygdegårdsförening**
 
     123 683 86 01
@@ -61427,6 +61465,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SDE HF**
 
     123 594 97 89
+
+
+
+
+**SDE Hockeyförening**
+
+    123 396 98 88 - Team 15, U10
 
 
 
@@ -74444,6 +74489,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Södertälje Basketbollklubb**
+
+    123 035 47 87 - Damlaget
+
+
+
+
 **Södertälje Bil & Alldemo AB**
 
     123 029 77 21
@@ -77271,6 +77323,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tierps Matcentral**
 
     123 688 45 22
+
+
+
+
+**Tifo39**
+
+    123 255 33 11
 
 
 
@@ -81859,6 +81918,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vasapodden / Lager 157 AB**
+
+    123 456 60 89
+
+
+
+
 **Vasaskolans Skol IF**
 
     123 697 40 34
@@ -82726,6 +82792,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Villberga Hembygdsförening**
 
     123 120 58 22
+
+
+
+
+**Villfarelser / ProjektApa AB**
+
+    123 262 66 61
 
 
 

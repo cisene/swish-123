@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-03-01-rev-221159",
+    "date": "2025-03-02-rev-134956",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8221,6 +8221,17 @@
       "web": "https://vaksalatrafikskola.se/"
     },
     {
+      "entry": 1230354787,
+      "orgName": "S\u00f6dert\u00e4lje Basketbollklubb",
+      "orgNumber": "815600-3454",
+      "comment": "Damlaget",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.sbbk.se/"
+    },
+    {
       "entry": 1230362046,
       "orgName": "Millesg\u00e5rdens V\u00e4nner",
       "orgNumber": "813600-4085",
@@ -9567,6 +9578,17 @@
         "metallbearbetning"
       ],
       "web": "https://foreningstjanst.se/"
+    },
+    {
+      "entry": 1230412213,
+      "orgName": "F\u00f6reningen R\u00e4dda Katterna",
+      "orgNumber": "802475-6861",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": null
     },
     {
       "entry": 1230412460,
@@ -35500,6 +35522,17 @@
       "web": "https://revsuddensportsallskap.se/"
     },
     {
+      "entry": 1231518281,
+      "orgName": "IFK Nyk\u00f6ping",
+      "orgNumber": "819000-0672",
+      "comment": "P13",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ifknykoping"
+    },
+    {
       "entry": 1231518612,
       "orgName": "\u00d6jebyns IBF",
       "orgNumber": "898801-0636",
@@ -50572,6 +50605,17 @@
       "web": "https://www.svenskalag.se/fritslahk"
     },
     {
+      "entry": 1232199578,
+      "orgName": "R\u00e4dda Katten",
+      "orgNumber": "802434-6150",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "katthem"
+      ],
+      "web": "https://raddakatten.se/"
+    },
+    {
       "entry": 1232200038,
       "orgName": "Enskild Firma / Maria Jonsson",
       "orgNumber": "610302-XXXX",
@@ -58426,6 +58470,16 @@
       "web": "https://www.svenskakyrkan.se/knivsta"
     },
     {
+      "entry": 1232553311,
+      "orgName": "Tifo39",
+      "orgNumber": "802545-3088",
+      "comment": null,
+      "categories": [
+        "supporterklubb"
+      ],
+      "web": "https://www.tifo39.se/"
+    },
+    {
       "entry": 1232554699,
       "orgName": "Ingenj\u00f6rer f\u00f6r Milj\u00f6n",
       "orgNumber": "802018-2427",
@@ -59784,6 +59838,17 @@
         "byalag"
       ],
       "web": "https://svarte.se/"
+    },
+    {
+      "entry": 1232626661,
+      "orgName": "Villfarelser / ProjektApa AB",
+      "orgNumber": "556677-8899",
+      "comment": null,
+      "categories": [
+        "konstn\u00e4r",
+        "mediaproduktion"
+      ],
+      "web": "https://villfarelserart.se/"
     },
     {
       "entry": 1232626968,
@@ -66861,6 +66926,18 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1232892651,
+      "orgName": "Erikslunds KF",
+      "orgNumber": "816000-3250",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "rugbyklubb"
+      ],
+      "web": "https://www.svenskalag.se/ekf"
     },
     {
       "entry": 1232893691,
@@ -90599,6 +90676,17 @@
       "web": "https://www.svenskalag.se/pjatterydsgoif"
     },
     {
+      "entry": 1233969888,
+      "orgName": "SDE Hockeyf\u00f6rening",
+      "orgNumber": "802452-1737",
+      "comment": "Team 15, U10",
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://www.svenskalag.se/sdehockey"
+    },
+    {
       "entry": 1233969946,
       "orgName": "Tj\u00f6rns Pastorat",
       "orgNumber": "252003-6357",
@@ -102156,6 +102244,17 @@
       "web": "https://j19smaland.se/"
     },
     {
+      "entry": 1234558045,
+      "orgName": "IFK Nyk\u00f6ping",
+      "orgNumber": "819000-0672",
+      "comment": "F10/11",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/ifknykoping"
+    },
+    {
       "entry": 1234558458,
       "orgName": "Stiftelsen ChildX",
       "orgNumber": "802481-5949",
@@ -102302,6 +102401,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.uppsalahk.se/"
+    },
+    {
+      "entry": 1234566089,
+      "orgName": "Vasapodden / Lager 157 AB",
+      "orgNumber": "556549-2690",
+      "comment": null,
+      "categories": [
+        "podcast"
+      ],
+      "web": "https://www.podomatic.com/podcasts/vasapodden"
     },
     {
       "entry": 1234566105,
@@ -115838,6 +115947,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/notteback"
+    },
+    {
+      "entry": 1235196373,
+      "orgName": "FrihetsNytt / Marketing4Future M4F AB",
+      "orgNumber": "559291-6455",
+      "comment": null,
+      "categories": [
+        "alternativa media",
+        "alternativa nyheter"
+      ],
+      "web": "https://frihetsnytt.se/"
     },
     {
       "entry": 1235196423,
@@ -137342,6 +137462,17 @@
       "web": "https://www.korpen.se/forsmarks-if"
     },
     {
+      "entry": 1236150742,
+      "orgName": "FrihetsNytt / Marketing4Future M4F AB",
+      "orgNumber": "559291-6455",
+      "comment": null,
+      "categories": [
+        "alternativa media",
+        "alternativa nyheter"
+      ],
+      "web": "https://frihetsnytt.se/"
+    },
+    {
       "entry": 1236151062,
       "orgName": "Bolidens FFI",
       "orgNumber": "894700-4860",
@@ -153164,6 +153295,17 @@
       "web": "https://ninpodragons.se/stockholm/"
     },
     {
+      "entry": 1236835771,
+      "orgName": "Karlskoga SK",
+      "orgNumber": "876400-2229",
+      "comment": "Herrlaget",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.laget.se/karlskogask"
+    },
+    {
       "entry": 1236836068,
       "orgName": "Mora Golfklubb",
       "orgNumber": "884401-1596",
@@ -156041,6 +156183,17 @@
         "motorcykelklubb"
       ],
       "web": "https://www.hogsweden.se/hog-dalariverchapter"
+    },
+    {
+      "entry": 1236961387,
+      "orgName": "IK Sturehov",
+      "orgNumber": "875001-0384",
+      "comment": "P2011",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/iksturehov"
     },
     {
       "entry": 1236961726,
