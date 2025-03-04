@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-02-rev-135033
+Revision: 2025-03-04-rev-202156
 
-Nummer: 14877
+Nummer: 14919
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -6049,6 +6049,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bodenalternativet**
+
+    123 618 47 66
+
+
+
+
 **Bodens BK FF**
 
     123 570 40 44
@@ -11031,6 +11038,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Cykelklubben Wheels of Carlshamn**
 
     123 150 74 90
+
+
+
+
+**Cykla Paris / Eva Hållsten**
+
+    123 108 53 49
 
 
 
@@ -16130,6 +16144,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Essinge Båtsällskap**
+
+    123 188 01 52
+
+
+
+
 **Essinge IK**
 
     123 041 24 60
@@ -19955,6 +19976,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Färsna 4H-klubb**
+
+    123 571 51 72
+
+
+
+
 **Fässbergs Församling**
 
     123 640 98 90
@@ -22926,6 +22954,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **GMF i Blekinge**
 
     123 392 71 75
+
+
+
+
+**Gnarps Hembygds- och Fornminnesförening**
+
+    123 081 35 50
 
 
 
@@ -29484,6 +29519,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hässlås kapell stiftelse**
+
+    123 361 71 49
+
+
+
+
 **Hässlö Flygförening**
 
     123 304 59 37
@@ -34469,6 +34511,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jämtlands Gille Ordenssällskapet**
+
+    123 265 63 04
+
+
+
+
 **Jämtlands Lokalhistoriker**
 
     123 109 37 64
@@ -35329,6 +35378,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kamratföreningen Lapplands Jägare**
 
     123 518 17 89
+
+
+
+
+**Kamratföreningen Undersviks Byalag**
+
+    123 055 41 96
 
 
 
@@ -38405,6 +38461,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kristianstad FC**
 
     123 288 80 89
+
+
+
+
+**Kristianstad-Hammarshus Rotary**
+
+    123 321 09 86
 
 
 
@@ -44915,6 +44978,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 163 99 05
 
+    123 258 70 95 - Ungdomssektionen
+
 
 
 
@@ -48113,6 +48178,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Musubi Dojo Kampsportsförening**
 
     123 557 34 07
+
+
+
+
+**Mutomoprojektet**
+
+    123 482 99 25
 
 
 
@@ -51581,6 +51653,34 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Odd Fellow Logen NR 64 Sven Erikson**
 
     123 525 11 78
+
+
+
+
+**Odd Fellow Orden**
+
+    123 411 39 40 - Seniorklubb
+
+
+
+
+**Odd Fellow Orden**
+
+    123 365 25 34 - Rebeckaloge 29
+
+
+
+
+**Odd Fellow Orden**
+
+    123 364 82 76 - Logen nr 8 Linnéa
+
+
+
+
+**Odd Fellow Orden**
+
+    123 283 86 05 - Brödraloge 122 Siljansbygd
 
 
 
@@ -57302,6 +57402,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riddare Templet Jämteborg**
+
+    123 577 39 73
+
+
+
+
+**Riddare Templet Stor Templet för Sverige och Finland**
+
+    123 495 58 37
+
+
+
+
 **RideAlong MTB**
 
     123 497 21 39
@@ -58487,6 +58601,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Rotary Halmstad-Tylösand**
 
+    123 123 66 37
+
     123 423 42 66
 
 
@@ -58634,6 +58750,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Leksand**
+
+    123 466 49 42
+
+
+
+
 **Rotary Lerum**
 
     123 213 19 85
@@ -58648,6 +58771,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 413 15 12
 
     123 483 20 77
+
+
+
+
+**Rotary Lindesberg**
+
+    123 570 93 57
 
 
 
@@ -58696,6 +58826,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Malmö Västra Hamnen**
+
+    123 106 99 70
+
+
+
+
 **Rotary Malmö Öresund**
 
     123 560 47 31
@@ -58708,6 +58845,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 109 82 43
 
     123 230 25 37
+
+
+
+
+**Rotary Mjölby**
+
+    123 683 88 90
 
 
 
@@ -58786,6 +58930,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Simrishamn**
+
+    123 334 46 94
+
+
+
+
 **Rotary Skellefteå**
 
     123 418 18 14
@@ -58810,6 +58961,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Stenungsund**
 
     123 246 53 59
+
+
+
+
+**Rotary Stockholm - Fryshuset**
+
+    123 428 72 72
 
 
 
@@ -58914,6 +59072,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Umeå**
+
+    123 623 02 05
+
+
+
+
 **Rotary Uppsala Peace Center**
 
     123 209 15 51
@@ -58943,6 +59108,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Rotary Vänersborg**
+
+    123 004 94 60
 
     123 669 89 22
 
@@ -58975,6 +59142,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Växjö S:t Sigfrid**
 
     123 290 53 62
+
+
+
+
+**Rotary Växjö-Tegnér**
+
+    123 303 86 01
 
 
 
@@ -68808,6 +68982,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiko Per Larsson**
+
+    123 319 97 67
+
+
+
+
 **Stillingsön & Kårekile Sportklubb, SKSK**
 
     123 152 40 65
@@ -69007,6 +69188,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stockholms Dövas Förening**
 
     123 468 80 99
+
+
+
+
+**Stockholms-Gillet**
+
+    123 400 22 34
 
 
 
@@ -73068,6 +73256,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sveriges Släktforskarförbund**
+
+    123 574 38 69
+
+
+
+
 **Sveriges Socialdemokratiska Arbetareparti**
 
     123 617 79 76
@@ -73334,6 +73529,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Swedish Taco AB**
 
     123 198 66 94
+
+
+
+
+**Swerock AB**
+
+    123 640 83 22
 
 
 
@@ -77099,6 +77301,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**The International Women's Club of Stockholm**
+
+    123 006 17 47
+
+
+
+
 **The Light of My Soul / Ulrika Knutsdotter**
 
     123 696 84 24
@@ -77109,6 +77318,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **The Maine Club**
 
     123 566 66 80
+
+
+
+
+**The Night Flight Orchestra**
+
+    123 099 07 47
 
 
 
@@ -78103,6 +78319,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Torrskogs kyrka**
 
     123 649 73 90
+
+
+
+
+**Tors Loge**
+
+    123 345 65 14
 
 
 
@@ -79292,7 +79515,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Tvååkers Pastorat**
 
-    123 237 50 38 - ACT Svenska kyrkan
+    123 055 47 17 - Kollekt Dagsås kyrka
+
+    123 237 50 38 - Kollekt Spannarps kyrka
+
+    123 336 02 29 - Kollekt Tvååkers Kyrka
+
+    123 551 03 00 - Kollekt Sibbarps kyrka
 
 
 
@@ -81178,6 +81407,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Utängens Loge / Göinge Kläder AB**
+
+    123 437 44 19
+
+
+
+
 **Utö Hembygdsförening**
 
     123 160 58 80
@@ -81217,6 +81453,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vadstena Föreläsningsförening**
+
+    123 629 25 77
+
+
+
+
 **Vadstena GIF**
 
     123 515 67 65
@@ -81248,6 +81491,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 593 55 72 - Musikverksamheten
 
     123 603 34 35 - Bokbordet
+
+
+
+
+**Vadstena Riksteaterförening**
+
+    123 692 92 85
 
 
 
@@ -83847,6 +84097,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vänersborgs IF**
 
     123 113 56 80
+
+
+
+
+**Vänersborgs Musikförening**
+
+    123 091 21 05
 
 
 
@@ -86593,6 +86850,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Yoga-Åsa, Kropp och själ / Åsa Hansson**
 
     123 666 45 51
+
+
+
+
+**Yogadagar / Ingrid Täpptorp**
+
+    123 084 25 83
 
 
 
