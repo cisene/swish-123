@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-08-rev-172017
+Revision: 2025-03-08-rev-174412
 
-Nummer: 14993
+Nummer: 14992
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -38636,13 +38636,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kristianstad-Hammarshus Rotary**
-
-    123 321 09 86
-
-
-
-
 **Kristianstad Handboll**
 
     123 103 70 68 - Biljetter/evenemang
@@ -58884,6 +58877,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Kristianstad-Hammarshus**
+
+    123 321 09 86
+
+
+
+
 **Rotary Kristianstad Nova**
 
     123 614 03 62
@@ -58956,13 +58956,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Lomma-Bjärred**
 
     123 085 61 95
-
-
-
-
-**Rotary Lomma-Bjärred**
-
-    123 985 61 95
 
 
 

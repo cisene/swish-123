@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-03-08-rev-171935",
+    "date": "2025-03-08-rev-174335",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -126,7 +126,8 @@
       "categories": [
         "donation",
         "godk\u00e4nd g\u00e5vomottagare",
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
     },
@@ -138,7 +139,8 @@
       "categories": [
         "donation",
         "godk\u00e4nd g\u00e5vomottagare",
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
     },
@@ -150,7 +152,8 @@
       "categories": [
         "donation",
         "godk\u00e4nd g\u00e5vomottagare",
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
     },
@@ -22466,7 +22469,8 @@
       "orgNumber": "802472-4273",
       "comment": "Emmaboda",
       "categories": [
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/emmaboda"
     },
@@ -23183,6 +23187,7 @@
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
         "hj\u00e4lporganisation",
+        "r\u00f6dakorset",
         "ukraina"
       ],
       "web": "https://www.rodakorset.se/"
@@ -27950,6 +27955,7 @@
       "orgNumber": "874001-5113",
       "comment": "S\u00e4fflebygden",
       "categories": [
+        "hj\u00e4lporganisation",
         "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/ort/varmland/saffle-kommun/"
@@ -51394,6 +51400,7 @@
       "orgNumber": "802440-9537",
       "comment": "Malm\u00f6",
       "categories": [
+        "hj\u00e4lporganisation",
         "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/ort/skane/malmo-stad/"
@@ -74029,7 +74036,7 @@
     },
     {
       "entry": 1233210986,
-      "orgName": "Kristianstad-Hammarshus Rotary",
+      "orgName": "Rotary Kristianstad-Hammarshus",
       "orgNumber": "838201-8268",
       "comment": null,
       "categories": [
@@ -86331,7 +86338,8 @@
       "orgNumber": "844000-3542",
       "comment": "Landskronabygden",
       "categories": [
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/landskrona"
     },
@@ -88270,7 +88278,8 @@
       "orgNumber": "889200-6159",
       "comment": "Sk\u00f6nsberg",
       "categories": [
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg"
     },
@@ -92106,7 +92115,8 @@
       "orgNumber": "837001-2679",
       "comment": "H\u00e4stveda",
       "categories": [
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/ort/skane/hassleholms-kommun/"
     },
@@ -99899,7 +99909,8 @@
       "orgNumber": "847000-4162",
       "comment": "Trelleborg",
       "categories": [
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/ort/skane/trelleborgs-kommun/"
     },
@@ -111564,7 +111575,8 @@
       "orgNumber": "802440-9537",
       "comment": "Malm\u00f6",
       "categories": [
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": null
     },
@@ -117582,7 +117594,8 @@
       "orgNumber": "844000-3542",
       "comment": "Landskrona, Beredskapsgruppen",
       "categories": [
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/ort/skane/landskrona-stad/"
     },
@@ -125427,6 +125440,7 @@
       "categories": [
         "donation",
         "godk\u00e4nd g\u00e5vomottagare",
+        "hj\u00e4lporganisation",
         "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/"
@@ -161715,6 +161729,7 @@
       "comment": "R\u00f6da Korsets arbete i Katastrofer",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
+        "hj\u00e4lporganisation",
         "insamlingskontroll",
         "r\u00f6dakorset"
       ],
@@ -161727,6 +161742,7 @@
       "comment": null,
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
+        "hj\u00e4lporganisation",
         "insamlingskontroll",
         "r\u00f6dakorset"
       ],
@@ -161749,6 +161765,7 @@
       "comment": "R\u00f6da Korsets arbete i Ukraina",
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
+        "hj\u00e4lporganisation",
         "insamlingskontroll",
         "r\u00f6dakorset",
         "ukraina"
@@ -161762,6 +161779,7 @@
       "comment": null,
       "categories": [
         "godk\u00e4nd g\u00e5vomottagare",
+        "hj\u00e4lporganisation",
         "insamlingskontroll",
         "r\u00f6dakorset"
       ],
@@ -163077,16 +163095,6 @@
         "v\u00e4lg\u00f6renhet"
       ],
       "web": "https://www.hjart-lungfonden.se/"
-    },
-    {
-      "entry": 1239856195,
-      "orgName": "Rotary Lomma-Bj\u00e4rred",
-      "orgNumber": "802534-8874",
-      "comment": null,
-      "categories": [
-        "rotaryklubb"
-      ],
-      "web": "https://lomma-bjarred.rotary2395.se/"
     }
   ]
 }

@@ -100,6 +100,7 @@ entries:
   - donation
   - godkänd gåvomottagare
   - hjälporganisation
+  - rödakorset
   web: https://www.rodakorset.se/
 
 - entry: 1230004655
@@ -110,6 +111,7 @@ entries:
   - donation
   - godkänd gåvomottagare
   - hjälporganisation
+  - rödakorset
   web: https://www.rodakorset.se/
 
 - entry: 1230004663
@@ -120,6 +122,7 @@ entries:
   - donation
   - godkänd gåvomottagare
   - hjälporganisation
+  - rödakorset
   web: https://www.rodakorset.se/
 
 - entry: 1230004697
@@ -18498,6 +18501,7 @@ entries:
   comment: Emmaboda
   categories:
   - hjälporganisation
+  - rödakorset
   web: https://www.rodakorset.se/emmaboda
 
 - entry: 1230935957
@@ -19090,6 +19094,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - hjälporganisation
+  - rödakorset
   - ukraina
   web: https://www.rodakorset.se/
 
@@ -23021,6 +23026,7 @@ entries:
   orgNumber: 874001-5113
   comment: Säfflebygden
   categories:
+  - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/ort/varmland/saffle-kommun/
 
@@ -42357,6 +42363,7 @@ entries:
   orgNumber: 802440-9537
   comment: Malmö
   categories:
+  - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/ort/skane/malmo-stad/
 
@@ -71197,6 +71204,7 @@ entries:
   comment: Landskronabygden
   categories:
   - hjälporganisation
+  - rödakorset
   web: https://www.rodakorset.se/landskrona
 
 - entry: 1233761368
@@ -72810,6 +72818,7 @@ entries:
   comment: Skönsberg
   categories:
   - hjälporganisation
+  - rödakorset
   web: https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg
 
 - entry: 1233853223
@@ -75963,6 +75972,7 @@ entries:
   comment: Hästveda
   categories:
   - hjälporganisation
+  - rödakorset
   web: https://www.rodakorset.se/ort/skane/hassleholms-kommun/
 
 - entry: 1234009692
@@ -82405,6 +82415,7 @@ entries:
   comment: Trelleborg
   categories:
   - hjälporganisation
+  - rödakorset
   web: https://www.rodakorset.se/ort/skane/trelleborgs-kommun/
 
 - entry: 1234407656
@@ -92008,6 +92019,7 @@ entries:
   comment: Malmö
   categories:
   - hjälporganisation
+  - rödakorset
   web: null
 
 - entry: 1234992491
@@ -96987,6 +96999,7 @@ entries:
   comment: Landskrona, Beredskapsgruppen
   categories:
   - hjälporganisation
+  - rödakorset
   web: https://www.rodakorset.se/ort/skane/landskrona-stad/
 
 - entry: 1235229901
@@ -103454,6 +103467,7 @@ entries:
   categories:
   - donation
   - godkänd gåvomottagare
+  - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/
 
@@ -136513,6 +136527,7 @@ entries:
   comment: Röda Korsets arbete i Katastrofer
   categories:
   - godkänd gåvomottagare
+  - hjälporganisation
   - insamlingskontroll
   - rödakorset
   web: https://www.rodakorset.se/
@@ -136523,6 +136538,7 @@ entries:
   comment: null
   categories:
   - godkänd gåvomottagare
+  - hjälporganisation
   - insamlingskontroll
   - rödakorset
   web: https://www.rodakorset.se/
@@ -136541,6 +136557,7 @@ entries:
   comment: Röda Korsets arbete i Ukraina
   categories:
   - godkänd gåvomottagare
+  - hjälporganisation
   - insamlingskontroll
   - rödakorset
   - ukraina
@@ -136552,6 +136569,7 @@ entries:
   comment: null
   categories:
   - godkänd gåvomottagare
+  - hjälporganisation
   - insamlingskontroll
   - rödakorset
   web: https://www.rodakorset.se/
@@ -138191,11 +138209,3 @@ entries:
   - insamlingskontroll
   - välgörenhet
   web: https://www.hjart-lungfonden.se/
-
-- entry: 1239856195
-  orgName: Rotary Lomma-Bjärred
-  orgNumber: 802534-8874
-  comment: null
-  categories:
-  - rotaryklubb
-  web: https://lomma-bjarred.rotary2395.se/

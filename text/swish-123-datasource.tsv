@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-03-08-rev-171957
+# Date: 2025-03-08-rev-174353
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -17,9 +17,9 @@ entry	orgNumber	orgName	web	categories	comment
 1230004275	889601-3219	Nolaskogs Biståndscenter, NBC	https://www.nbcgottne.se/	hjälporganisation	Hjälpverksamhet
 1230004283	802494-9417	Uddevalla Rugby	https://www.svenskalag.se/uddevallarugby	idrottsförening,rugbyklubb	
 1230004580	883201-5633	Leksand Jujutsuklubb	https://www.svenskalag.se/leksandsjujutsuklubb	idrottsförening,jujutsuklubb,kampsportsförening	
-1230004648	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,godkänd gåvomottagare,hjälporganisation	
-1230004655	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,godkänd gåvomottagare,hjälporganisation	
-1230004663	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,godkänd gåvomottagare,hjälporganisation	
+1230004648	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,godkänd gåvomottagare,hjälporganisation,rödakorset	
+1230004655	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,godkänd gåvomottagare,hjälporganisation,rödakorset	
+1230004663	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,godkänd gåvomottagare,hjälporganisation,rödakorset	
 1230004697	802450-2349	Tango Sol	https://www.tangosol.se/	danskurser,dansundervisning	
 1230004713	813600-1461	IFK Lidingö Skid- och orienteringsklubb	https://www.ifklidingo.se/	idrottsförening,orienteringsklubb,skidlöparklubb	
 1230004945	849000-3574	Långasands Idrottsförening	http://www.langasandsif.com/	idrottsförening	
@@ -2075,7 +2075,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230929422	802469-3635	Lidköpings Basketsällskap, LIDBAS	https://www.laget.se/LIDBAS/	basketbollklubb,idrottsförening	
 1230933325	802543-9467	OperationChange Sweden	https://operation-change.org/	hjälporganisation,insamling	
 1230934208	838201-9464	Kristianstads Brukshundklubb	https://www.kristianstadsbk.se/	brukshundklubb,hundsport	Övrigt
-1230934315	802472-4273	Svenska Röda Korset	https://www.rodakorset.se/emmaboda	hjälporganisation	Emmaboda
+1230934315	802472-4273	Svenska Röda Korset	https://www.rodakorset.se/emmaboda	hjälporganisation,rödakorset	Emmaboda
 1230935957	802532-2580	Gåsö Gille	https://www.gaso-gille.se/	intresseförening	
 1230936195	802508-3075	Föreningen Boulestallet	https://boulestallet.klubbenonline.se/	bouleklubb,idrottsförening	
 1230936799	712400-1681	Torö Bygdegårdsförening	https://bygdegardarna.se/toro/	bygdegårdsförening	
@@ -2142,7 +2142,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230973263	745000-0026	Silverforsen Folkets Park / Folkets Park i Kjeflinge	https://www.silverforsen.se/	folkets park,folkrörelse	
 1230973305	857200-7485	BK Häcken	https://bkhacken.se/	fotbollsklubb,idrottsförening	
 1230973537	252002-3736	Sköns Församling	https://www.svenskakyrkan.se/skon	religion	
-1230973644	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,hjälporganisation,ukraina	Ukraina-insamling
+1230973644	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,hjälporganisation,rödakorset,ukraina	Ukraina-insamling
 1230973685	556832-5475	Bra Flyt	https://www.braflyt.com/	barnverksamhet,simskola,utbildning,vuxenutbildning	
 1230973719	812000-1626	Österåkers Hembygds- och fornminnesförening	https://www.hembygd.se/osteraker	fornminnesförening,hembygdsförening	
 1230973776	252003-0731	Örebro Pastorat	https://www.svenskakyrkan.se/orebro	religion	Kollekt Olaus Petri församling
@@ -2582,7 +2582,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231177104	843000-9509	Fortuna Fotbollsförening	https://fortunaff.sportadmin.se/	fotbollsklubb,idrottsförening	
 1231177693	802488-7831	Sundbybergs Hockeysällskap	https://www.svenskalag.se/sundbybergshockeysallskap	idrottsförening,ishockeyklubb	
 1231178623	802508-4347	Konstföreningen Westmannia	https://www.westmanniakonst.se/	konstförening	
-1231179795	874001-5113	Svenska Röda Korset	https://www.rodakorset.se/ort/varmland/saffle-kommun/	rödakorset	Säfflebygden
+1231179795	874001-5113	Svenska Röda Korset	https://www.rodakorset.se/ort/varmland/saffle-kommun/	hjälporganisation,rödakorset	Säfflebygden
 1231181189	559016-5261	ZignSec AB	https://www.zignsec.com/	betaltjänster	
 1231183185	849200-8613	Svenska Röda Korset	https://www.rodakorset.se/ort/halland/halmstads-kommun/	hjälporganisation,rödakorset	Halmstad Rödakorskrets
 1231183508	802505-8408	Piteå IF Fotbollsförening	https://piteaif.sportadmin.se/	fotbollsklubb,idrottsförening	F10
@@ -4741,7 +4741,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232213056	802440-7226	Björnlunda Kammarmusikförening	http://www.bjornlundakammarmusikforening.se/	kammarmusik,musikförening	
 1232213510	815201-1634	Haga-Brunnsvikens Vänner	https://haga-brunnsviken.org/	intresseförening	
 1232213791	252003-7215	Eda-Köla Pastorat	https://www.svenskakyrkan.se/eda-kola	religion	Järnskogs kyrka
-1232213882	802440-9537	Svenska Röda Korset	https://www.rodakorset.se/ort/skane/malmo-stad/	rödakorset	Malmö
+1232213882	802440-9537	Svenska Röda Korset	https://www.rodakorset.se/ort/skane/malmo-stad/	hjälporganisation,rödakorset	Malmö
 1232213965	802510-5175	Lions Club Hallstavik-Väddö	https://e-clubhouse.org/sites/allstavikv%C3%A4dd%C3%B6/	lionsklubb	
 1232213981	556959-7908	Jipåt AB	https://jipt.se/	friskvård,massage	
 1232214492	885002-0010	Gävle kammarmusikförening	https://www.gavlekmf.net/	kammarmusikförening,musikförening	
@@ -6826,7 +6826,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233208055	556844-1439	Farsta Ridskola AB	https://farstaridskola.myclub.se/	hästsport,ridskola	
 1233208063	802521-8309	BK-Öster Katrineholm	https://www.svenskalag.se/bkoster	boxningsklubb,idrottsförening	
 1233208220	802447-6874	Linköpnings Nämndemannaförening	https://linkoping.nmrf.se/	förening	
-1233210986	838201-8268	Kristianstad-Hammarshus Rotary	https://kristianstad-hammarshus.rotary2395.se/	rotaryklubb	
+1233210986	838201-8268	Rotary Kristianstad-Hammarshus	https://kristianstad-hammarshus.rotary2395.se/	rotaryklubb	
 1233211930	892000-3905	Ströms Hembygdsförening	https://www.hembygd.se/strom	hembygdsförening	
 1233212198	867200-4119	Fröjereds IF	https://www.frojeredsif.se/	idrottsförening	
 1233212370	802510-6751	Föreningen Rädda Björndammsdalen och Finngösaravinen	https://www.finngosaravinen.se/	förening,intresseorganisation	
@@ -7960,7 +7960,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233759115	802516-3950	SPF Seniorerna Gnistan Vännäs	https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-gnistan-vannas/	pensionärsklubb	
 1233759206	825001-9760	Rotary Norrköping-Kneippbaden	https://portal.clubrunner.ca/16520/	rotaryklubb	
 1233760386	802530-1071	Hylte Bastubadareförening		bastukultur	
-1233760477	844000-3542	Svenska Röda Korset	https://www.rodakorset.se/landskrona	hjälporganisation	Landskronabygden
+1233760477	844000-3542	Svenska Röda Korset	https://www.rodakorset.se/landskrona	hjälporganisation,rödakorset	Landskronabygden
 1233762242	556109-6537	Vallåsen Fritidsanläggning AB	https://vallasen.se/	café,fritidsanläggning,kiosk,skidsportanläggning	
 1233762994	857202-0652	Hjuviks Båtklubb	https://www.hjbk.se/	bouleklubb,båtklubb,jolleklubb,segelklubb	
 1233763141	812800-4028	Huddinge HK	https://www.svenskalag.se/huddingehk	handbollsklubb,idrottsförening	Blå Hjärtat
@@ -8137,7 +8137,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233852274	480409-XXXX	Härliga Hjörnered / Elver Åkesson	https://harligahjornered.se/	friluftsliv	
 1233852498	853300-6360	Kyrkesunds Byalag	https://www.kyrkesundsbyalag.se/	byalag,hembygdsförening	
 1233852597	252002-9113	Lifecenter International Church	https://lifecenter.se/	religion	Ludvika
-1233852951	889200-6159	Svenska Röda Korset	https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg	hjälporganisation	Skönsberg
+1233852951	889200-6159	Svenska Röda Korset	https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg	hjälporganisation,rödakorset	Skönsberg
 1233853223	802494-7023	Bouleklubben Jamtboule	https://bkjamtboule.klubbenonline.se/	bouleklubb,idrottsförening	
 1233855643	815600-5715	PRO Järna Vårdinge	https://pro.se/distrikt/stockholm/kommun/sydvastra/pro-jarna-vardinge	pensionärsklubb	
 1233856085	815601-1101	Oaxen Bygdegårdsförening	https://bygdegardarna.se/oaxen/	bygdegårdsförening	
@@ -8492,7 +8492,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234006334	898200-6549	Kalix Basket	https://www.kalixbasket.se/	basketbollklubb,idrottsförening	
 1234007605	893200-5989	Sundsjö Hembygdsförening	https://www.hembygd.se/sundsjo	hembygdsförening	
 1234009320	872000-7759	Gunnarskogs Bygdelag	http://www.gunnarskog.nu/	byalag,bygdegårdsförening	
-1234009528	837001-2679	Svenska Röda Korset	https://www.rodakorset.se/ort/skane/hassleholms-kommun/	hjälporganisation	Hästveda
+1234009528	837001-2679	Svenska Röda Korset	https://www.rodakorset.se/ort/skane/hassleholms-kommun/	hjälporganisation,rödakorset	Hästveda
 1234009692	802421-0935	Melodifestivalklubben	https://melodifestivalklubben.se/	musik	
 1234010187	802488-3434	Korskyrkan i Götene	https://korskyrkangotene.se/	religion	Insamlingar
 1234010682	802417-2911	Fjordklubben	https://www.fjordboatclub.se/	båtklubb,märkesklubb	
@@ -9208,7 +9208,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234407078	802490-6953	Acting For Change	https://acting4change.org/	hjälporganisation	
 1234407367	873201-6657	DK Rocksulan - Danssport	https://www.rocksulan.com/	dansförening,danssport	
 1234407375	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/Lulea/	godkänd gåvomottagare,religion	Luleå
-1234407490	847000-4162	Svenska Röda Korset	https://www.rodakorset.se/ort/skane/trelleborgs-kommun/	hjälporganisation	Trelleborg
+1234407490	847000-4162	Svenska Röda Korset	https://www.rodakorset.se/ort/skane/trelleborgs-kommun/	hjälporganisation,rödakorset	Trelleborg
 1234407656	802430-2807	Gustavsbergs IF Handboll	https://www.laget.se/GustavsbergHandboll/	handbollsklubb,idrottsförening	
 1234407748	837600-2245	Åstorpsortens RF - Ridsport	https://www.astorprf.nu/	hästsport,ridklubb	Träning
 1234407755	556305-5481	Mölndals Bildemontering AB	https://www.molndalsbildemo.se/	bildelar,bildemontering	
@@ -10281,7 +10281,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234990875	556706-5262	Mariagården i Skultuna	https://www.svenskakyrkan.se/vasteras/mariagarden-i-skultuna	religion	Mariaboden
 1234991006	832000-3448	Färjestadens Motions IF	https://farjestadensmotionsif.klubbenonline.se/	idrottsförening,motionsklubb	
 1234991386	802000-1544	Antroposofiska Sällskapet	https://www.antroposofi.nu/	intresseförening	
-1234991394	802440-9537	Svenska Röda Korset		hjälporganisation	Malmö
+1234991394	802440-9537	Svenska Röda Korset		hjälporganisation,rödakorset	Malmö
 1234992491	825000-7153	Torstorps IF	https://www.svenskalag.se/tif	fotbollsklubb,idrottsförening	Entré, Halva potten
 1234992582	559084-1515	Cityfötter i Borås AB	https://cityfotter.se/	fotvård	
 1234992921	835600-6430	FBC Karlskrona	https://www.svenskalag.se/fbckarlskrona	fotbollsklubb,idrottsförening,motionsklubb,parasport	
@@ -10835,7 +10835,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235229190	802463-3268	Inner Wheel Sverige Distrikt 239	https://www.innerwheel.se/	innerwheel,kvinnligt nätverk	
 1235229307	802469-7008	Forsakars Brukshundklubb	https://www.forsakarsbrukshundklubb.se/	brukshundklubb,hundsport	
 1235229513	252004-8857	Härjedalens Pastorat	https://www.svenskakyrkan.se/harjedalen	religion	
-1235229760	844000-3542	Svenska Röda Korset	https://www.rodakorset.se/ort/skane/landskrona-stad/	hjälporganisation	Landskrona, Beredskapsgruppen
+1235229760	844000-3542	Svenska Röda Korset	https://www.rodakorset.se/ort/skane/landskrona-stad/	hjälporganisation,rödakorset	Landskrona, Beredskapsgruppen
 1235229901	812401-1274	Haninge Kvinnojour	https://www.haningekvinnojour.se/	kvinnojour	
 1235230479	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Skaraborg, prästgårdsskolan
 1235230552	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning	Linköping, Askeby skola
@@ -11551,7 +11551,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235557640	873202-1681	Carlstad Crusaders	https://www.crusaders.se/	fotbollsklubb,friidrottsförening,idrottsförening	
 1235557699	817000-9263	Enköpings Rugbyklubb	https://www.svenskalag.se/erkungdom	idrottsförening,rugbyklubb	
 1235557756	556921-8059	Tillman Entertainment AB	https://helasverigeskramlar.nu/	event,underhållning	
-1235557764	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,godkänd gåvomottagare,rödakorset	
+1235557764	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,godkänd gåvomottagare,hjälporganisation,rödakorset	
 1235557772	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	donation,godkänd gåvomottagare,rödakorset	
 1235557780	556773-8249	Apotek Hjärtat AB	https://www.apotekhjartat.se/	apotek,försäljning,insamling,ukraina	Ukraina-insamling
 1235557897	875000-7109	EFS Missionsförening i Örebro	https://www.sorbykyrkan.nu/	religion	
@@ -14879,11 +14879,11 @@ entry	orgNumber	orgName	web	categories	comment
 1239007915	802007-3436	Synskadades Riksförbund	https://www.srf.nu/	godkänd gåvomottagare,insamlingskontroll,riksförbund	
 1239007931	817602-0025	Insamlingsstiftelsen Födelsefonden	https://www.fodelsefonden.se/	insamlingskontroll,stiftelse	
 1239007949	855101-4874	Stiftelsen ParkinsonFörbundets Forskningsfond	https://www.parkinsonfonden.se/	donation,forskning,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet	
-1239008004	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,insamlingskontroll,rödakorset	Röda Korsets arbete i Katastrofer
-1239008012	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,insamlingskontroll,rödakorset	
+1239008004	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,hjälporganisation,insamlingskontroll,rödakorset	Röda Korsets arbete i Katastrofer
+1239008012	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,hjälporganisation,insamlingskontroll,rödakorset	
 1239008038	802006-1704	Riksförbundet FUB	https://www.fub.se/	insamlingskontroll	
-1239008079	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,insamlingskontroll,rödakorset,ukraina	Röda Korsets arbete i Ukraina
-1239008095	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,insamlingskontroll,rödakorset	
+1239008079	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,hjälporganisation,insamlingskontroll,rödakorset,ukraina	Röda Korsets arbete i Ukraina
+1239008095	802002-8711	Svenska Röda Korset	https://www.rodakorset.se/	godkänd gåvomottagare,hjälporganisation,insamlingskontroll,rödakorset	
 1239008137	802481-8935	Insamlingsstiftelsen Human Practice Foundation Sweden	https://www.humanpractice.org/country-se/	insamlingskontroll	
 1239008160	802491-8990	Nya Kompisbyrån	https://www.nyakompisbyran.se/	insamlingskontroll	
 1239008178	802460-9284	Maana	https://www.tjejjourenvast.se/	insamlingskontroll,kvinnojour	
@@ -14999,4 +14999,3 @@ entry	orgNumber	orgName	web	categories	comment
 1239090036	802407-5346	Stiftelsen World Childhood Foundation	https://www.childhood.se/	insamlingskontroll,stiftelse,välgörenhet	
 1239091109	857209-4152	Ågrenska Vänskapsföreningen	https://www.agrenska.se/	insamlingskontroll,välgörenhet	
 1239091927	802006-0763	Hjärt-Lungfonden, Svenska Nationalföreningen mot Hjärt- och Lungsjukdomar	https://www.hjart-lungfonden.se/	godkänd gåvomottagare,insamlingskontroll,välgörenhet	
-1239856195	802534-8874	Rotary Lomma-Bjärred	https://lomma-bjarred.rotary2395.se/	rotaryklubb	
