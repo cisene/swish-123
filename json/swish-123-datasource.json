@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-03-04-rev-202115",
+    "date": "2025-03-08-rev-151230",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4122,7 +4122,7 @@
       "entry": 1230193540,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "846006-8664",
-      "comment": "Lomma",
+      "comment": "Lommas R\u00f6dakorskrets",
       "categories": [
         "hj\u00e4lporganisation",
         "r\u00f6dakorset"
@@ -7554,7 +7554,7 @@
       "entry": 1230328724,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "849201-8596",
-      "comment": "Laholm",
+      "comment": "Laholm R\u00f6dakorskrets",
       "categories": [
         "hj\u00e4lporganisation",
         "r\u00f6dakorset"
@@ -9576,6 +9576,17 @@
         "religion"
       ],
       "web": "https://helamanniskan.se/enkoping"
+    },
+    {
+      "entry": 1230411181,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "889202-7619",
+      "comment": "Njurunda",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/"
     },
     {
       "entry": 1230411983,
@@ -13666,6 +13677,17 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://www.kulturochkvalitet.se/"
+    },
+    {
+      "entry": 1230577833,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "858500-5088",
+      "comment": "Uddevallakretsen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vastra-gotaland/uddevalla-kommun/"
     },
     {
       "entry": 1230578013,
@@ -21513,6 +21535,17 @@
       "web": "http://nykopingtillsammans.se/"
     },
     {
+      "entry": 1230915140,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "819000-8113",
+      "comment": "Nyk\u00f6ping",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/sodermanland/nykopings-kommun/"
+    },
+    {
       "entry": 1230915223,
       "orgName": "Idrottens Idrottsf\u00f6rening - Korpen",
       "orgNumber": "802421-7948",
@@ -22504,6 +22537,17 @@
         "intressef\u00f6rening"
       ],
       "web": "https://gotlandsmfbk.se/"
+    },
+    {
+      "entry": 1230941047,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "874000-4471",
+      "comment": "Torsby R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/varmland/torsby-kommun/"
     },
     {
       "entry": 1230941179,
@@ -24197,6 +24241,17 @@
       "web": "https://sikrenostrand.bostadsratterna.se/"
     },
     {
+      "entry": 1231024991,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "824000-6885",
+      "comment": "Vadstena R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/ostergotland/vadstena-kommun/"
+    },
+    {
       "entry": 1231026475,
       "orgName": "Jarlabanke GK",
       "orgNumber": "816000-5347",
@@ -24972,6 +25027,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://slattakra.com/"
+    },
+    {
+      "entry": 1231056167,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802005-9542",
+      "comment": "Stockholm Sydost",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/stockholms-stad/"
     },
     {
       "entry": 1231056209,
@@ -26160,6 +26226,17 @@
         "parasport"
       ],
       "web": "https://www.svenskalag.se/ifkknislinge"
+    },
+    {
+      "entry": 1231121193,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "857203-4844",
+      "comment": "\u00d6cker\u00f6 R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vastra-gotaland/ockero-kommun/"
     },
     {
       "entry": 1231121250,
@@ -27828,6 +27905,17 @@
       "web": "https://www.zignsec.com/"
     },
     {
+      "entry": 1231183185,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "849200-8613",
+      "comment": "Halmstad R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/halland/halmstads-kommun/"
+    },
+    {
       "entry": 1231183508,
       "orgName": "Pite\u00e5 IF Fotbollsf\u00f6rening",
       "orgNumber": "802505-8408",
@@ -29254,6 +29342,17 @@
       "web": "https://stalboms.se/"
     },
     {
+      "entry": 1231239821,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "814400-6973",
+      "comment": "Norrt\u00e4lje R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/norrtalje-kommun/"
+    },
+    {
       "entry": 1231239854,
       "orgName": "Siretorp-M\u00f6rby Bygdeg\u00e5rdsf\u00f6rening",
       "orgNumber": "836200-3033",
@@ -30383,6 +30482,17 @@
         "kampsportsf\u00f6rening"
       ],
       "web": "https://ninpodragons.se/kungsbacka/"
+    },
+    {
+      "entry": 1231300144,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802464-9744",
+      "comment": "Lindesbergs R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/orebro/lindesbergs-kommun/"
     },
     {
       "entry": 1231300359,
@@ -32453,6 +32563,17 @@
       "web": "https://overlida.se/"
     },
     {
+      "entry": 1231378561,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "883201-7456",
+      "comment": "Mariestadkretsen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vastra-gotaland/mariestads-kommun/"
+    },
+    {
       "entry": 1231378587,
       "orgName": "Askims Sj\u00f6scoutk\u00e5r",
       "orgNumber": "857203-7342",
@@ -32880,6 +33001,17 @@
         "tarot"
       ],
       "web": "https://timotejandersen.se/"
+    },
+    {
+      "entry": 1231410174,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "843000-2413",
+      "comment": "H\u00f6gan\u00e4s R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/skane/hoganas-kommun/"
     },
     {
       "entry": 1231410257,
@@ -33739,7 +33871,7 @@
       "entry": 1231464684,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "837001-2679",
-      "comment": "H\u00e4ssleholm",
+      "comment": "H\u00e4ssleholms R\u00f6dakorskrets",
       "categories": [
         "hj\u00e4lporganisation",
         "r\u00f6dakorset"
@@ -34027,7 +34159,7 @@
       "entry": 1231473834,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "826500-2611",
-      "comment": "Tran\u00e5s",
+      "comment": "Tran\u00e5s R\u00f6dakorskrets",
       "categories": [
         "hj\u00e4lporganisation",
         "r\u00f6dakorset"
@@ -35728,6 +35860,17 @@
       "web": "https://www.ingenillegal.org/stockholm/"
     },
     {
+      "entry": 1231527639,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802527-0532",
+      "comment": "Staffanstorps R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/skane/staffanstorps-kommun/"
+    },
+    {
       "entry": 1231528090,
       "orgName": "Alings\u00e5s HK",
       "orgNumber": "864000-4746",
@@ -36585,6 +36728,17 @@
         "reparationer"
       ],
       "web": "https://batteridoktorn.se/"
+    },
+    {
+      "entry": 1231568880,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "875003-3956",
+      "comment": "Degerforskretsen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/orebro/degerfors-kommun/"
     },
     {
       "entry": 1231569177,
@@ -40913,6 +41067,17 @@
         "kattuppf\u00f6dning"
       ],
       "web": "https://www.elfsborgskatten.se/"
+    },
+    {
+      "entry": 1231749001,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "813200-1598",
+      "comment": "J\u00e4rf\u00e4llakretsen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/jarfalla-kommun/"
     },
     {
       "entry": 1231749928,
@@ -45370,6 +45535,17 @@
       "web": "https://www.spfseniorerna.se/distrikt/sormland/foreningslista/bjorkvik/"
     },
     {
+      "entry": 1231971431,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "838800-6044",
+      "comment": "Simrishamns R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/skane/simrishamns-kommun/"
+    },
+    {
       "entry": 1231971548,
       "orgName": "Hind\u00e5s Scoutk\u00e5r",
       "orgNumber": "802413-3970",
@@ -48956,6 +49132,17 @@
         "religion"
       ],
       "web": "https://www.ljungby.pingst.se/"
+    },
+    {
+      "entry": 1232137586,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "814800-5377",
+      "comment": "Sollentunakretsen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/sollentuna-kommun/"
     },
     {
       "entry": 1232137735,
@@ -57699,6 +57886,17 @@
       "web": "https://borlange.naturskyddsforeningen.se/"
     },
     {
+      "entry": 1232490159,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "842000-3777",
+      "comment": "Esl\u00f6vsbygdens R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/skane/eslovs-kommun/"
+    },
+    {
       "entry": 1232490381,
       "orgName": "Fr\u00e4lsningsarm\u00e9n",
       "orgNumber": "802006-1688",
@@ -58233,6 +58431,17 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://rme.nu/"
+    },
+    {
+      "entry": 1232529824,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802459-0278",
+      "comment": "Skurp R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/skane/skurups-kommun/"
     },
     {
       "entry": 1232530434,
@@ -59244,6 +59453,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/kungsangen"
+    },
+    {
+      "entry": 1232590305,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "819001-0135",
+      "comment": "Oxel\u00f6sunds R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/sodermanland/oxelosunds-kommun/"
     },
     {
       "entry": 1232590610,
@@ -69094,6 +69314,17 @@
       "web": "https://www.svenskakyrkan.se/gavle/bjorsjokyrkan"
     },
     {
+      "entry": 1232999431,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "886000-2198",
+      "comment": "S\u00f6derhamns R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/gavleborg/soderhamns-kommun/"
+    },
+    {
       "entry": 1232999589,
       "orgName": "Harley Owners Group, HOG",
       "orgNumber": "857209-2677",
@@ -70760,6 +70991,17 @@
       "web": "https://obackajazzoblues.se/"
     },
     {
+      "entry": 1233068178,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "832401-8780",
+      "comment": "Kalmarkretsen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/kalmar/kalmar-kommun/"
+    },
+    {
       "entry": 1233068939,
       "orgName": "F\u00f6reningen Kulturarv Djurhamn",
       "orgNumber": "802519-3924",
@@ -72245,14 +72487,14 @@
     },
     {
       "entry": 1233134079,
-      "orgName": "Lekander Boende & B\u00e4r / Lekanders Gourmet AB",
-      "orgNumber": "559057-8828",
-      "comment": null,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "857209-8815",
+      "comment": "Tj\u00f6rnkretsen",
       "categories": [
-        "b\u00e4rodling",
-        "logi"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
-      "web": "https://lekander.nu/"
+      "web": "https://www.rodakorset.se/ort/vastra-gotaland/tjorns-kommun/"
     },
     {
       "entry": 1233134186,
@@ -72958,6 +73200,17 @@
       "web": "https://www.sarqa.com/"
     },
     {
+      "entry": 1233182227,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "897001-9306",
+      "comment": "Jokkmokks krets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/norrbotten/jokkmokks-kommun/"
+    },
+    {
       "entry": 1233182300,
       "orgName": "Bostadsr\u00e4ttsf\u00f6reningen G\u00f6teborgshus 13",
       "orgNumber": "757201-7262",
@@ -73450,7 +73703,7 @@
       "entry": 1233201670,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "853300-8739",
-      "comment": "Kungs\u00e4lv",
+      "comment": "Kungs\u00e4lvs R\u00f6dakorskrets",
       "categories": [
         "hj\u00e4lporganisation",
         "r\u00f6dakorset"
@@ -74194,6 +74447,17 @@
         "motorsport"
       ],
       "web": "https://www.mxindoor.se/"
+    },
+    {
+      "entry": 1233233624,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "868401-2506",
+      "comment": "Falbygdens R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vastra-gotaland/falkopings-kommun/"
     },
     {
       "entry": 1233234119,
@@ -76539,6 +76803,17 @@
       "web": "https://nolsokna.se/"
     },
     {
+      "entry": 1233352127,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802005-9542",
+      "comment": "Stockholm Sydost",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/stockholms-stad/"
+    },
+    {
       "entry": 1233352309,
       "orgName": "Ystads IF FF",
       "orgNumber": "848001-0407",
@@ -77433,6 +77708,17 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/balingsta"
+    },
+    {
+      "entry": 1233383965,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "812800-0208",
+      "comment": "Huddingekretsen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/huddinge-kommun/"
     },
     {
       "entry": 1233384039,
@@ -81006,6 +81292,17 @@
       "web": "https://hillsong.com/sweden/"
     },
     {
+      "entry": 1233519709,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "866601-4140",
+      "comment": "Karlsborgs R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vastra-gotaland/karlsborgs-kommun/"
+    },
+    {
       "entry": 1233519741,
       "orgName": "N\u00e4s\u00e5kers camping & stugby / Lars Abrahamsson",
       "orgNumber": "670122-XXXX",
@@ -81337,8 +81634,9 @@
       "entry": 1233539384,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "893203-2413",
-      "comment": "\u00c5re",
+      "comment": "\u00c5re R\u00f6dakorskrets",
       "categories": [
+        "hj\u00e4lporganisation",
         "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/ort/jamtland/are-kommun/"
@@ -85066,6 +85364,17 @@
       "web": "https://www.mariestadsgk.se/"
     },
     {
+      "entry": 1233716412,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "835001-1758",
+      "comment": "Karlskrona R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/blekinge/karlskrona-kommun/"
+    },
+    {
       "entry": 1233716602,
       "orgName": "Patientf\u00f6rening f\u00f6r Integrativ Medicin / F\u00f6rening f\u00f6r Integrativ Medicin och H\u00e4lsa",
       "orgNumber": "802444-2876",
@@ -88762,6 +89071,7 @@
       "orgNumber": "845000-4281",
       "comment": "Lundakretsen",
       "categories": [
+        "hj\u00e4lporganisation",
         "r\u00f6dakorset"
       ],
       "web": "https://www.rodakorset.se/ort/skane/lunds-kommun/"
@@ -96069,6 +96379,17 @@
       "web": "https://formcraft.se/"
     },
     {
+      "entry": 1234228383,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "815200-6451",
+      "comment": "Sundbybergs stad R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/sundbybergs-stad/"
+    },
+    {
       "entry": 1234228409,
       "orgName": "H\u00f6gbo Golfklubb",
       "orgNumber": "885500-2625",
@@ -96556,6 +96877,17 @@
         "pension\u00e4rsklubb"
       ],
       "web": "https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/svardsjoenviken/"
+    },
+    {
+      "entry": 1234255642,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "829502-9287",
+      "comment": "Second hand V\u00e4xj\u00f6",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/kronoberg/vaxjo-kommun/"
     },
     {
       "entry": 1234256319,
@@ -97999,6 +98331,17 @@
       "web": "https://www.almedaltrafikskola.se/"
     },
     {
+      "entry": 1234327433,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "824000-2470",
+      "comment": "Motalakretsen",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/ostergotland/motala-kommun/"
+    },
+    {
       "entry": 1234327516,
       "orgName": "IBK V\u00e4nersborg",
       "orgNumber": "867800-8056",
@@ -98088,6 +98431,17 @@
         "opinionsbildning"
       ],
       "web": "https://tekniskvalsamverkan.se/"
+    },
+    {
+      "entry": 1234339164,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "864000-8416",
+      "comment": "Alings\u00e5s R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vastra-gotaland/alingsas-kommun/"
     },
     {
       "entry": 1234339883,
@@ -101567,6 +101921,17 @@
       "web": "https://www.enkopingsklatterklubb.se/"
     },
     {
+      "entry": 1234513719,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "825002-3671",
+      "comment": "S\u00f6derk\u00f6pings R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/ostergotland/soderkopings-kommun/"
+    },
+    {
       "entry": 1234513941,
       "orgName": "LG L\u00f6nns Buss AB",
       "orgNumber": "556400-4041",
@@ -102681,6 +103046,17 @@
         "korpenf\u00f6rening"
       ],
       "web": "https://www.korpen.se/korpensoderbarke"
+    },
+    {
+      "entry": 1234565659,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "889202-7593",
+      "comment": "Matfors St\u00f6de Fr\u00e4nsta R\u00f6da Korskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/"
     },
     {
       "entry": 1234566055,
@@ -107915,6 +108291,17 @@
       "web": "https://www.gryt.se/foreningar/gryts-idrottsforening/"
     },
     {
+      "entry": 1234818019,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "898801-1469",
+      "comment": "Pite\u00e5 R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/norrbotten/pitea-kommun/"
+    },
+    {
       "entry": 1234818035,
       "orgName": "Osby Pastorat",
       "orgNumber": "252004-7867",
@@ -112805,6 +113192,17 @@
       "web": "https://pro.se/distrikt/distrikt-kronoberg/samorganisationer/samorganisation-markaryd/foreningar/traryd.html"
     },
     {
+      "entry": 1235091160,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802402-7073",
+      "comment": "S\u00f6dermalms R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/stockholms-stad/"
+    },
+    {
       "entry": 1235092135,
       "orgName": "Mysore Malm\u00f6 / Upalaya AB",
       "orgNumber": "559216-7281",
@@ -113728,7 +114126,8 @@
       "orgNumber": "802422-8556",
       "comment": "Uppsala, Ungdomsf\u00f6rbund",
       "categories": [
-        "hj\u00e4lporganisation"
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
       ],
       "web": "https://www.rkuf.se/uppsala/"
     },
@@ -115961,7 +116360,7 @@
       "entry": 1235176201,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "883800-5729",
-      "comment": "Ludvika",
+      "comment": "Ludvika R\u00f6dakorskrets",
       "categories": [
         "hj\u00e4lporganisation",
         "r\u00f6dakorset"
@@ -116105,6 +116504,17 @@
         "hj\u00e4rnforskning"
       ],
       "web": "https://www.team-rynkeby.se/"
+    },
+    {
+      "entry": 1235184841,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "815200-6428",
+      "comment": "Solna Stads R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/solna-stad/"
     },
     {
       "entry": 1235185228,
@@ -117987,7 +118397,7 @@
       "entry": 1235274576,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "802434-3397",
-      "comment": "Link\u00f6ping",
+      "comment": "Link\u00f6pings R\u00f6dakorskrets",
       "categories": [
         "hj\u00e4lporganisation",
         "r\u00f6dakorset"
@@ -121299,6 +121709,17 @@
       "web": "https://www.emmasweden.se/"
     },
     {
+      "entry": 1235417084,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "863500-2929",
+      "comment": "Lerums R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vastra-gotaland/lerums-kommun/"
+    },
+    {
       "entry": 1235417282,
       "orgName": "Dellenbygdens fiskev\u00e5rdsomr\u00e5de",
       "orgNumber": "802600-3668",
@@ -122540,6 +122961,17 @@
         "scoutk\u00e5r"
       ],
       "web": "https://www.stockholmsscoutskeppslag.se/"
+    },
+    {
+      "entry": 1235465059,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "825002-1907",
+      "comment": "H\u00e4llestad, Finsp\u00e5ng",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/ostergotland/finspangs-kommun/"
     },
     {
       "entry": 1235465612,
@@ -125150,7 +125582,7 @@
       "entry": 1235574819,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "816000-2773",
-      "comment": "Vallentuna",
+      "comment": "Vallentuna R\u00f6dakorskrets",
       "categories": [
         "hj\u00e4lporganisation",
         "r\u00f6dakorset"
@@ -133882,6 +134314,17 @@
         "religion"
       ],
       "web": "https://izbhalmstad.se/"
+    },
+    {
+      "entry": 1235965330,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "877100-4036",
+      "comment": "Nora R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/orebro/nora-kommun/"
     },
     {
       "entry": 1235965413,
@@ -143771,6 +144214,17 @@
       "web": "https://www.svenskakyrkan.se/ekero"
     },
     {
+      "entry": 1236406987,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "822000-6608",
+      "comment": "\u00c5tvidabergs R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/ostergotland/atvidabergs-kommun/"
+    },
+    {
       "entry": 1236407068,
       "orgName": "Frizonen",
       "orgNumber": "802505-4290",
@@ -145303,6 +145757,17 @@
         "utbildning"
       ],
       "web": "https://www.smaspararguiden.se/"
+    },
+    {
+      "entry": 1236485189,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802516-0055",
+      "comment": "Tranemobygden",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vastra-gotaland/tranemo-kommun/"
     },
     {
       "entry": 1236485999,
@@ -147966,6 +148431,17 @@
         "stiftelse"
       ],
       "web": "https://fryshuset.se/"
+    },
+    {
+      "entry": 1236608301,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "813200-1564",
+      "comment": "Upplands-Bro R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/stockholm/upplands-bro-kommun/"
     },
     {
       "entry": 1236609002,
@@ -151857,6 +152333,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/leksandsfotboll"
+    },
+    {
+      "entry": 1236763015,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "869000-6229",
+      "comment": "Lidk\u00f6pings R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/vastra-gotaland/lidkopings-kommun/"
     },
     {
       "entry": 1236763031,

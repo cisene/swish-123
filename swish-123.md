@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-04-rev-202156
+Revision: 2025-03-08-rev-151312
 
-Nummer: 14919
+Nummer: 14963
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -41053,13 +41053,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Lekander Boende & Bär / Lekanders Gourmet AB**
-
-    123 313 40 79
-
-
-
-
 **Lekebergs IF**
 
     123 419 53 50
@@ -72541,6 +72534,22 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
+    123 105 61 67 - Stockholm Sydost
+
+    123 335 21 27 - Stockholm Sydost
+
+
+
+
+**Svenska Röda Korset**
+
+    123 509 11 60 - Södermalms Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
     123 511 29 58 - Uppsala, Ungdomsförbund
 
 
@@ -72548,7 +72557,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
-    123 527 45 76 - Linköping
+    123 527 45 76 - Linköpings Rödakorskrets
 
 
 
@@ -72564,9 +72573,58 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
+    123 252 98 24 - Skurp Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 130 01 44 - Lindesbergs Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
     123 093 43 15 - Emmaboda
 
     123 144 12 78 - Emmabodakretsen
+
+
+
+
+**Svenska Röda Korset**
+
+    123 648 51 89 - Tranemobygden
+
+
+
+
+**Svenska Röda Korset**
+
+    123 152 76 39 - Staffanstorps Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 338 39 65 - Huddingekretsen
+
+
+
+
+**Svenska Röda Korset**
+
+    123 660 83 01 - Upplands-Bro Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 174 90 01 - Järfällakretsen
 
 
 
@@ -72580,7 +72638,35 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
-    123 557 48 19 - Vallentuna
+    123 123 98 21 - Norrtälje Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 213 75 86 - Sollentunakretsen
+
+
+
+
+**Svenska Röda Korset**
+
+    123 518 48 41 - Solna Stads Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 422 83 83 - Sundbybergs stad Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 557 48 19 - Vallentuna Rödakorskrets
 
 
 
@@ -72608,16 +72694,107 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
-    123 147 38 34 - Tranås
+    123 091 51 40 - Nyköping
 
 
 
 
 **Svenska Röda Korset**
 
-    123 146 46 84 - Hässleholm
+    123 259 03 05 - Oxelösunds Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 640 69 87 - Åtvidabergs Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 432 74 33 - Motalakretsen
+
+
+
+
+**Svenska Röda Korset**
+
+    123 102 49 91 - Vadstena Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 546 50 59 - Hällestad, Finspång
+
+
+
+
+**Svenska Röda Korset**
+
+    123 451 37 19 - Söderköpings Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 147 38 34 - Tranås Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 425 56 42 - Second hand Växjö
+
+
+
+
+**Svenska Röda Korset**
+
+    123 306 81 78 - Kalmarkretsen
+
+
+
+
+**Svenska Röda Korset**
+
+    123 371 64 12 - Karlskrona Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 146 46 84 - Hässleholms Rödakorskrets
 
     123 400 95 28 - Hästveda
+
+
+
+
+**Svenska Röda Korset**
+
+    123 197 14 31 - Simrishamns Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 249 01 59 - Eslövsbygdens Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 141 01 74 - Höganäs Rödakorskrets
 
 
 
@@ -72640,7 +72817,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
-    123 019 35 40 - Lomma
+    123 019 35 40 - Lommas Rödakorskrets
 
 
 
@@ -72661,14 +72838,42 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
-    123 032 87 24 - Laholm
+    123 118 31 85 - Halmstad Rödakorskrets
 
 
 
 
 **Svenska Röda Korset**
 
-    123 320 16 70 - Kungsälv
+    123 032 87 24 - Laholm Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 320 16 70 - Kungsälvs Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 112 11 93 - Öckerö Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 313 40 79 - Tjörnkretsen
+
+
+
+
+**Svenska Röda Korset**
+
+    123 057 78 33 - Uddevallakretsen
 
 
 
@@ -72682,6 +72887,48 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
+    123 541 70 84 - Lerums Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 433 91 64 - Alingsås Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 351 97 09 - Karlsborgs Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 323 36 24 - Falbygdens Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 676 30 15 - Lidköpings Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 094 10 47 - Torsby Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
     123 117 97 95 - Säfflebygden
 
 
@@ -72689,7 +72936,35 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
-    123 517 62 01 - Ludvika
+    123 156 88 80 - Degerforskretsen
+
+
+
+
+**Svenska Röda Korset**
+
+    123 596 53 30 - Nora Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 137 85 61 - Mariestadkretsen
+
+
+
+
+**Svenska Röda Korset**
+
+    123 517 62 01 - Ludvika Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 299 94 31 - Söderhamns Rödakorskrets
 
 
 
@@ -72703,7 +72978,35 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
-    123 353 93 84 - Åre
+    123 456 56 59 - Matfors Stöde Fränsta Röda Korskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 041 11 81 - Njurunda
+
+
+
+
+**Svenska Röda Korset**
+
+    123 353 93 84 - Åre Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 318 22 27 - Jokkmokks krets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 481 80 19 - Piteå Rödakorskrets
 
 
 
