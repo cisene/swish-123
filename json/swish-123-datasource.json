@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-03-08-rev-174335",
+    "date": "2025-03-08-rev-182821",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -94748,6 +94748,17 @@
       "web": "https://www.svenskalag.se/blackoutfamilyab"
     },
     {
+      "entry": 1234153003,
+      "orgName": "Rosersberg Pistolskytteklubb, RPK",
+      "orgNumber": "802511-7113",
+      "comment": "T\u00e4vling",
+      "categories": [
+        "pistolskytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://rpk.se/"
+    },
+    {
       "entry": 1234156188,
       "orgName": "Stiftelsen Svenska Djurfonden",
       "orgNumber": "802482-4313",
@@ -157886,6 +157897,17 @@
       "web": "https://pingstkaxholmen.se/"
     },
     {
+      "entry": 1236991228,
+      "orgName": "Njut i Orsanaturen / Kristina Lillpers",
+      "orgNumber": "540401-XXXX",
+      "comment": null,
+      "categories": [
+        "friluftsliv",
+        "guidade turer"
+      ],
+      "web": "https://www.njutiorsanaturen.se/"
+    },
+    {
       "entry": 1236991251,
       "orgName": "H\u00f6\u00f6rs F\u00f6rsamling",
       "orgNumber": "252002-9386",
@@ -157905,6 +157927,16 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://www.svenskalag.se/ifkarvidsjaurskidor"
+    },
+    {
+      "entry": 1236991277,
+      "orgName": "Ersmarkskyrkan EFS",
+      "orgNumber": "894000-9668",
+      "comment": null,
+      "categories": [
+        "religion"
+      ],
+      "web": "https://www.svenskakyrkan.se/umea/ersmarkskyrkan"
     },
     {
       "entry": 1236991368,
@@ -157935,6 +157967,22 @@
         "lionsklubb"
       ],
       "web": "https://lionsclubitibro.n.nu/"
+    },
+    {
+      "entry": 1236991632,
+      "orgName": "I dig finns allt / Jenny Sandehav",
+      "orgNumber": "760716-XXXX",
+      "comment": null,
+      "categories": [
+        "akupressur",
+        "energibehandling",
+        "healing",
+        "massage",
+        "shiatsu",
+        "stressterapi",
+        "zonterapi"
+      ],
+      "web": "https://idigfinnsallt.se/"
     },
     {
       "entry": 1236991640,
@@ -157980,6 +158028,16 @@
       "web": "https://rossmix.se/"
     },
     {
+      "entry": 1236992291,
+      "orgName": "S\u00f6derala Bygdeg\u00e5rdsf\u00f6rening",
+      "orgNumber": "886000-7825",
+      "comment": null,
+      "categories": [
+        "bygdeg\u00e5rdsf\u00f6rening"
+      ],
+      "web": "https://bygdegardarna.se/soderala/"
+    },
+    {
       "entry": 1236992390,
       "orgName": "Klacksparken",
       "orgNumber": "802461-6917",
@@ -158022,6 +158080,17 @@
       "web": "https://www.laget.se/SundsvallHockey/"
     },
     {
+      "entry": 1236992507,
+      "orgName": "Nacka IBK",
+      "orgNumber": "814000-0624",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.nackaibk.se/"
+    },
+    {
       "entry": 1236992747,
       "orgName": "IFK Lule\u00e5",
       "orgNumber": "897000-0520",
@@ -158041,6 +158110,53 @@
         "f\u00f6rbund"
       ],
       "web": "https://arbetarsolidaritet.org/"
+    },
+    {
+      "entry": 1236993620,
+      "orgName": "Ballers App / Selfmade Sverige AB",
+      "orgNumber": "556552-2603",
+      "comment": null,
+      "categories": [
+        "fotbollsskola",
+        "mobilapp",
+        "utbildning"
+      ],
+      "web": "https://www.ballersapp.com/"
+    },
+    {
+      "entry": 1236994388,
+      "orgName": "Gullsp\u00e5ngs IF",
+      "orgNumber": "866000-0715",
+      "comment": null,
+      "categories": [
+        "bouleklubb",
+        "fotbollsklubb",
+        "futsalklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.gullspangsif.se/"
+    },
+    {
+      "entry": 1236997639,
+      "orgName": "Ume\u00e5 BSKT",
+      "orgNumber": "802487-7618",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.umeabskt.se/"
+    },
+    {
+      "entry": 1236997886,
+      "orgName": "Rosersberg Pistolskytteklubb, RPK",
+      "orgNumber": "802511-7113",
+      "comment": "Medlemsavgift",
+      "categories": [
+        "pistolskytteklubb",
+        "sportskytteklubb"
+      ],
+      "web": "https://rpk.se/"
     },
     {
       "entry": 1236997928,
@@ -158073,6 +158189,18 @@
         "skidl\u00f6parklubb"
       ],
       "web": "https://billingensskidallians.se/"
+    },
+    {
+      "entry": 1236998371,
+      "orgName": "\u00d6st\u00e4ngens G\u00e5rd / Ylva Lundin",
+      "orgNumber": "630630-XXXX",
+      "comment": null,
+      "categories": [
+        "djuruppf\u00f6dning",
+        "g\u00e5rdsf\u00f6rs\u00e4ljning",
+        "lantbruk"
+      ],
+      "web": "https://ostangsgard.se/"
     },
     {
       "entry": 1239000035,

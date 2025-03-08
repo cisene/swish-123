@@ -78143,6 +78143,15 @@ entries:
   - dansstudio
   web: https://www.svenskalag.se/blackoutfamilyab
 
+- entry: 1234153003
+  orgName: Rosersberg Pistolskytteklubb, RPK
+  orgNumber: 802511-7113
+  comment: Tävling
+  categories:
+  - pistolskytteklubb
+  - sportskytteklubb
+  web: https://rpk.se/
+
 - entry: 1234156188
   orgName: Stiftelsen Svenska Djurfonden
   orgNumber: 802482-4313
@@ -130315,6 +130324,15 @@ entries:
   - religion
   web: https://pingstkaxholmen.se/
 
+- entry: 1236991228
+  orgName: Njut i Orsanaturen / Kristina Lillpers
+  orgNumber: 540401-XXXX
+  comment: null
+  categories:
+  - friluftsliv
+  - guidade turer
+  web: https://www.njutiorsanaturen.se/
+
 - entry: 1236991251
   orgName: Höörs Församling
   orgNumber: 252002-9386
@@ -130331,6 +130349,14 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: https://www.svenskalag.se/ifkarvidsjaurskidor
+
+- entry: 1236991277
+  orgName: Ersmarkskyrkan EFS
+  orgNumber: 894000-9668
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/umea/ersmarkskyrkan
 
 - entry: 1236991368
   orgName: Buddhistiska Gemenskapen Triratna
@@ -130355,6 +130381,20 @@ entries:
   categories:
   - lionsklubb
   web: https://lionsclubitibro.n.nu/
+
+- entry: 1236991632
+  orgName: I dig finns allt / Jenny Sandehav
+  orgNumber: 760716-XXXX
+  comment: null
+  categories:
+  - akupressur
+  - energibehandling
+  - healing
+  - massage
+  - shiatsu
+  - stressterapi
+  - zonterapi
+  web: https://idigfinnsallt.se/
 
 - entry: 1236991640
   orgName: Svenska Livräddningssällskapet Göteborg
@@ -130391,6 +130431,14 @@ entries:
   - kennel
   web: https://rossmix.se/
 
+- entry: 1236992291
+  orgName: Söderala Bygdegårdsförening
+  orgNumber: 886000-7825
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/soderala/
+
 - entry: 1236992390
   orgName: Klacksparken
   orgNumber: 802461-6917
@@ -130425,6 +130473,15 @@ entries:
   - ishockeyklubb
   web: https://www.laget.se/SundsvallHockey/
 
+- entry: 1236992507
+  orgName: Nacka IBK
+  orgNumber: 814000-0624
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.nackaibk.se/
+
 - entry: 1236992747
   orgName: IFK Luleå
   orgNumber: 897000-0520
@@ -130441,6 +130498,45 @@ entries:
   categories:
   - förbund
   web: https://arbetarsolidaritet.org/
+
+- entry: 1236993620
+  orgName: Ballers App / Selfmade Sverige AB
+  orgNumber: 556552-2603
+  comment: null
+  categories:
+  - fotbollsskola
+  - mobilapp
+  - utbildning
+  web: https://www.ballersapp.com/
+
+- entry: 1236994388
+  orgName: Gullspångs IF
+  orgNumber: 866000-0715
+  comment: null
+  categories:
+  - bouleklubb
+  - fotbollsklubb
+  - futsalklubb
+  - idrottsförening
+  web: https://www.gullspangsif.se/
+
+- entry: 1236997639
+  orgName: Umeå BSKT
+  orgNumber: 802487-7618
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.umeabskt.se/
+
+- entry: 1236997886
+  orgName: Rosersberg Pistolskytteklubb, RPK
+  orgNumber: 802511-7113
+  comment: Medlemsavgift
+  categories:
+  - pistolskytteklubb
+  - sportskytteklubb
+  web: https://rpk.se/
 
 - entry: 1236997928
   orgName: PRO Borgmästaregården
@@ -130467,6 +130563,16 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: https://billingensskidallians.se/
+
+- entry: 1236998371
+  orgName: Östängens Gård / Ylva Lundin
+  orgNumber: 630630-XXXX
+  comment: null
+  categories:
+  - djuruppfödning
+  - gårdsförsäljning
+  - lantbruk
+  web: https://ostangsgard.se/
 
 - entry: 1239000001
   orgName: Svensk Insamlingskontroll

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-08-rev-174412
+Revision: 2025-03-08-rev-182906
 
-Nummer: 14992
+Nummer: 15003
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3764,6 +3764,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 468 95 01 - Kollekt Dalby församling
 
     123 693 04 16 - Vuxenverksamhet
+
+
+
+
+**Ballers App / Selfmade Sverige AB**
+
+    123 699 36 20
 
 
 
@@ -15777,6 +15784,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ersmarkskyrkan EFS**
+
+    123 699 12 77
+
+
+
+
 **Ersnäs IF**
 
     123 264 83 68
@@ -24195,6 +24209,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 448 77 99
 
+    123 699 43 88
+
 
 
 
@@ -30429,6 +30445,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **I 2 Skytteförening**
 
     123 617 36 37
+
+
+
+
+**I dig finns allt / Jenny Sandehav**
+
+    123 699 16 32
 
 
 
@@ -49005,6 +49028,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nacka IBK**
+
+    123 699 25 07
+
+
+
+
 **Nacka Judoklubb**
 
     123 306 67 76
@@ -49564,6 +49594,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Njurunda Slöjdförening och Vävstugan**
 
     123 297 53 73
+
+
+
+
+**Njut i Orsanaturen / Kristina Lillpers**
+
+    123 699 12 28
 
 
 
@@ -58437,6 +58474,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rosenlöfs Vänner**
 
     123 135 98 35
+
+
+
+
+**Rosersberg Pistolskytteklubb, RPK**
+
+    123 415 30 03 - Tävling
+
+    123 699 78 86 - Medlemsavgift
 
 
 
@@ -74853,6 +74899,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 525 70 27
 
+    123 699 22 91
+
 
 
 
@@ -80929,6 +80977,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Umeå Brukshundklubb, UBHK**
 
     123 626 68 60
+
+
+
+
+**Umeå BSKT**
+
+    123 699 76 39
 
 
 
@@ -90930,6 +90985,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Östra Örträsk Jaktvårdsområde**
 
     123 449 03 30
+
+
+
+
+**Östängens Gård / Ylva Lundin**
+
+    123 699 83 71
 
 
 

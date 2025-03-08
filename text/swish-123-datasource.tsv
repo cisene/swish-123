@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-03-08-rev-174353
+# Date: 2025-03-08-rev-182843
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -8733,6 +8733,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234150819	556729-5802	Reseproducenten Skellefteå AB	https://reseproducenten.com/	researrangör,resebyrå	
 1234151155	802417-0352	Aktiva Seniorer Arboga	https://arboga.aktivaseniorer.com/	pensionärsklubb	
 1234152690	556977-3277	Blackout Family AB	https://www.svenskalag.se/blackoutfamilyab	dansförening,dansklubb,danskurser,danssport,dansstudio	
+1234153003	802511-7113	Rosersberg Pistolskytteklubb, RPK	https://rpk.se/	pistolskytteklubb,sportskytteklubb	Tävling
 1234156188	802482-4313	Stiftelsen Svenska Djurfonden	https://www.svenskadjurfonden.se/	djurskydd,stiftelse	
 1234156675	802453-4722	Kung Karl BK	https://www.svenskalag.se/kungkarlbk	fotbollsklubb,idrottsförening	
 1234160909	837000-2928	Vinslövs Idrottsförening	https://vinslovsif.sportadmin.se/	idrottsförening	
@@ -14534,24 +14535,34 @@ entry	orgNumber	orgName	web	categories	comment
 1236991046	839400-3274	Båstad Båt- och Segelsällskap	https://www.bbss.se/	båtklubb,segelklubb,segelsällskap	
 1236991145	556533-8257	AD-Teknik AB	https://www.adteknik.se/	fordonsutrustning	
 1236991160	826000-3614	Pingstkyrkan Kaxholmen	https://pingstkaxholmen.se/	religion	Missionskassan
+1236991228	540401-XXXX	Njut i Orsanaturen / Kristina Lillpers	https://www.njutiorsanaturen.se/	friluftsliv,guidade turer	
 1236991251	252002-9386	Höörs Församling	https://www.svenskakyrkan.se/hoor	religion	Kollekt Hallaröd kyrka
 1236991269	899100-5425	IFK Arvidsjaur Skidor	https://www.svenskalag.se/ifkarvidsjaurskidor	idrottsförening,skidlöparklubb	
+1236991277	894000-9668	Ersmarkskyrkan EFS	https://www.svenskakyrkan.se/umea/ersmarkskyrkan	religion	
 1236991368	802011-5484	Buddhistiska Gemenskapen Triratna	https://www.karuna.org/	religion	Karuna
 1236991426	875000-5517	Mellringekyrkan	https://mellringekyrkan.se/	religion	
 1236991509	866601-0395	Lions Club Tibro	https://lionsclubitibro.n.nu/	lionsklubb	
+1236991632	760716-XXXX	I dig finns allt / Jenny Sandehav	https://idigfinnsallt.se/	akupressur,energibehandling,healing,massage,shiatsu,stressterapi,zonterapi	
 1236991640	857201-5017	Svenska Livräddningssällskapet Göteborg	https://www.slsgoteborg.se/	intresseförening,livräddning,simskola	
 1236991863	252003-0996	Kristianstads Pastorat	https://www.svenskakyrkan.se/kristianstad	religion	Gåvor Svenska kyrkan i Kristianstad
 1236991988	818000-7521	Pingstkyrkan Ärla	https://pingstarla.se/	religion	
 1236992135	551122-XXXX	Rossmix / Helene Strömbom	https://rossmix.se/	hunduppfödning,kennel	
+1236992291	886000-7825	Söderala Bygdegårdsförening	https://bygdegardarna.se/soderala/	bygdegårdsförening	
 1236992390	802461-6917	Klacksparken	https://www.facebook.com/groups/158157900915191	supporterklubb	
 1236992408	802496-6981	Nääs Hästsportförening	https://www.svenskalag.se/naashastsportforening	hästsport,ridklubb	
 1236992440	802410-8501	Järnkaminerna	https://www.jarnkaminerna.se/	supporterklubb	Östra
 1236992465	889200-9278	IF Sundsvall Hockey	https://www.laget.se/SundsvallHockey/	idrottsförening,ishockeyklubb	
+1236992507	814000-0624	Nacka IBK	https://www.nackaibk.se/	idrottsförening,innebandyklubb	
 1236992747	897000-0520	IFK Luleå	https://www.laget.se/IFKLulea/	fotbollsklubb,idrottsförening	
 1236992952	802445-9607	Förbundet Arbetarsolidaritet	https://arbetarsolidaritet.org/	förbund	
+1236993620	556552-2603	Ballers App / Selfmade Sverige AB	https://www.ballersapp.com/	fotbollsskola,mobilapp,utbildning	
+1236994388	866000-0715	Gullspångs IF	https://www.gullspangsif.se/	bouleklubb,fotbollsklubb,futsalklubb,idrottsförening	
+1236997639	802487-7618	Umeå BSKT	https://www.umeabskt.se/	basketbollklubb,idrottsförening	
+1236997886	802511-7113	Rosersberg Pistolskytteklubb, RPK	https://rpk.se/	pistolskytteklubb,sportskytteklubb	Medlemsavgift
 1236997928	846002-5573	PRO Borgmästaregården	https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-malmo/foreningar/borgmastaregarden.html	pensionärsklubb	
 1236997977	886500-1302	Rengsjö SK - Discgolf	https://www.rengsjosk.se/	discgolfbana,discgolfklubb	Discgolf
 1236998082	802537-2601	Billingens Skidallians	https://billingensskidallians.se/	idrottsförening,skidlöparklubb	
+1236998371	630630-XXXX	Östängens Gård / Ylva Lundin	https://ostangsgard.se/	djuruppfödning,gårdsförsäljning,lantbruk	
 1239000035	802416-7192	Children Need Help	https://www.childrenneedhelp.org/	godkänd gåvomottagare,insamlingskontroll	
 1239000043	802007-3436	Synskadades Riksförbund	https://www.srf.nu/	godkänd gåvomottagare,insamlingskontroll	
 1239000068	815200-4134	Personskadeförbundet RTP	https://www.rtp.se/	insamlingskontroll,välgörenhet	
