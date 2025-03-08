@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-08-rev-151312
+Revision: 2025-03-08-rev-171158
 
-Nummer: 14963
+Nummer: 14993
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3169,6 +3169,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Astma- och Allergiföreningen i Västra Götaland**
+
+    123 595 82 36
+
+
+
+
 **Astrid Lindgren-Sällskapet**
 
     123 412 61 65
@@ -4187,6 +4194,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Batteridoktorn / Patrik Storm**
 
     123 156 88 56
+
+
+
+
+**Baushaus AB**
+
+    123 225 57 92 - Barncancerfonden
 
 
 
@@ -10975,6 +10989,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **CrossFit Karlskoga / Träning och Hälsa Karlskoga AB**
 
     123 096 84 95
+
+
+
+
+**Crossover Basketball Academy Club**
+
+    123 171 74 61
+
+    123 617 96 83 - Skills Day Game
 
 
 
@@ -30126,28 +30149,174 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Hörselskadades Riksförbund**
 
+    123 088 66 63 - Stockholm, Konstklubben
+
+    123 518 23 32 - Stockholm, Konstklubben
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 183 46 88 - Stockholm
+
     123 900 07 38 - Spontangåva
 
 
 
 
-**Hörselskadades Riksförbund Kristianstad**
+**Hörselskadades Riksförbund**
 
-    123 520 04 07
-
-
-
-
-**Hörselskadades Riksförbund Kristinehamn**
-
-    123 594 28 26
+    123 506 61 13 - Alvesta
 
 
 
 
-**Hörselskadades Riksförbund Lidköping - Götene**
+**Hörselskadades Riksförbund**
 
-    123 619 09 95
+    123 400 20 51 - Distrikt Östergötland
+
+    123 533 16 99 - Östra Östergötland
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 353 18 29 - Nacka-Värmdö
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 313 35 76 - Solna-Sundbyberg-Ekerö
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 676 17 20 - Enköping-Håbo
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 077 03 47 - Uppsala-Knivsta
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 209 59 90 - Katrineholm
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 512 18 76 - Eksjö
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 261 02 36 - Oskarshamn
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 633 31 24 - Karlshamn
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 520 04 07 - Kristianstad
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 494 75 86 - Varberg
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 036 83 24 - Göteborg
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 440 02 48 - Norra Skaraborg
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 045 57 58 - Skövde-Tibro
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 062 87 35 - Hjo-Karlsborg
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 469 23 64 - Distrikt Skaraborg
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 619 09 95 - Lidköping-Götene
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 594 28 26 - Kristinehamn
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 374 05 52 - Borlänge
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 555 11 97 - Sundsvall-Timrå
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 161 05 00 - Skellefteå
 
 
 
@@ -30794,6 +30963,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 214 39 15 - Team 10
 
     123 352 56 56
+
+    123 394 45 01
 
 
 
@@ -58065,6 +58236,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rojalistiska Föreningen**
 
     123 390 05 45
+
+
+
+
+**Rolda Sverige**
+
+    123 412 63 48
 
 
 
@@ -89842,6 +90020,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **ÖresundsLimmud Sverige**
 
     123 047 02 37
+
+
+
+
+**Örgryte IS Fotbollsförening**
+
+    123 543 21 90
 
 
 

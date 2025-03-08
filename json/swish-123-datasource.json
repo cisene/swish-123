@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-03-08-rev-151230",
+    "date": "2025-03-08-rev-171112",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -8508,6 +8508,18 @@
       "web": "https://www.facebook.com/groups/185872608118028/"
     },
     {
+      "entry": 1230368324,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "857200-7634",
+      "comment": "G\u00f6teborg",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/goteborg/"
+    },
+    {
       "entry": 1230368373,
       "orgName": "Rommele F\u00f6rsamling",
       "orgNumber": "252005-0721",
@@ -10782,6 +10794,18 @@
         "samf\u00e4llighetsf\u00f6rening"
       ],
       "web": "https://www.marotornet.se/"
+    },
+    {
+      "entry": 1230455758,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "866600-9546",
+      "comment": "Sk\u00f6vde-Tibro",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": null
     },
     {
       "entry": 1230456194,
@@ -14457,6 +14481,18 @@
       "web": "https://gnesta.scout.se/"
     },
     {
+      "entry": 1230628735,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "867200-5587",
+      "comment": "Hjo-Karlsborg",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/hjo-karlsborg/"
+    },
+    {
       "entry": 1230629717,
       "orgName": "S\u00e4ffle IBF",
       "orgNumber": "802546-8821",
@@ -17557,6 +17593,18 @@
         "kvinnojour"
       ],
       "web": "https://www.unizonjourer.se/sthlmvastjour/"
+    },
+    {
+      "entry": 1230770347,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "817601-1008",
+      "comment": "Uppsala-Knivsta",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/uppsala/"
     },
     {
       "entry": 1230771444,
@@ -20798,6 +20846,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.guif.nu/"
+    },
+    {
+      "entry": 1230886663,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "802001-5551",
+      "comment": "Stockholm, Konstklubben",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/stockholm/"
     },
     {
       "entry": 1230886671,
@@ -37721,6 +37781,18 @@
       "web": "https://www.brannkyrka.org/"
     },
     {
+      "entry": 1231610500,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "894701-2798",
+      "comment": "Skellefte\u00e5",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/skelleftea/"
+    },
+    {
       "entry": 1231610641,
       "orgName": "Tr\u00e4sl\u00f6vsl\u00e4ge IF",
       "orgNumber": "849600-1374",
@@ -39944,6 +40016,17 @@
         "fiskev\u00e5rd"
       ],
       "web": "https://friluftsguidelycksele.se/klippens-fvo/"
+    },
+    {
+      "entry": 1231717461,
+      "orgName": "Crossover Basketball Academy Club",
+      "orgNumber": "802532-5906",
+      "comment": null,
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/crossoverbasketball"
     },
     {
       "entry": 1231717891,
@@ -43051,6 +43134,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/frosunda"
+    },
+    {
+      "entry": 1231834688,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "802004-4510",
+      "comment": "Stockholm",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/stockholm/"
     },
     {
       "entry": 1231834977,
@@ -48217,6 +48312,18 @@
       "web": "https://www.soldatreg.se/"
     },
     {
+      "entry": 1232095990,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "818500-7609",
+      "comment": "Katrineholm",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/katrineholm/"
+    },
+    {
       "entry": 1232096436,
       "orgName": "Lions Club Bara",
       "orgNumber": "847000-9385",
@@ -52591,6 +52698,16 @@
         "religion"
       ],
       "web": "https://johanneskyrkan.com/"
+    },
+    {
+      "entry": 1232255792,
+      "orgName": "Baushaus AB",
+      "orgNumber": "556528-4634",
+      "comment": "Barncancerfonden",
+      "categories": [
+        "donation"
+      ],
+      "web": "https://www.bauhaus.se/"
     },
     {
       "entry": 1232255875,
@@ -59935,6 +60052,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/knivstaboxningsklubb"
+    },
+    {
+      "entry": 1232610236,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "832800-8209",
+      "comment": "Oskarshamn",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/oskarshamn/"
     },
     {
       "entry": 1232610319,
@@ -72456,6 +72585,18 @@
       "web": "https://jarboportalen.se/foreningar/folketshus.php"
     },
     {
+      "entry": 1233133576,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "815200-6709",
+      "comment": "Solna-Sundbyberg-Eker\u00f6",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/solna-sundbyberg/"
+    },
+    {
       "entry": 1233133584,
       "orgName": "Rotary Distrikt 2370",
       "orgNumber": "802005-3214",
@@ -81546,6 +81687,18 @@
       "web": "https://www.svenskalag.se/KB65FF"
     },
     {
+      "entry": 1233531829,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "814000-4725",
+      "comment": "Nacka-V\u00e4rmd\u00f6",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/nacka-varmdo/"
+    },
+    {
       "entry": 1233534286,
       "orgName": "\u00d6rebro L\u00e4ns Strokef\u00f6rening, \u00d6LS",
       "orgNumber": "875002-7933",
@@ -85860,6 +86013,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/hogsrums-hembygdsforening"
+    },
+    {
+      "entry": 1233740552,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "882601-4428",
+      "comment": "Borl\u00e4nge",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/borlange/"
     },
     {
       "entry": 1233740925,
@@ -90410,6 +90575,17 @@
       "web": "https://www.svenskalag.se/liljanssk"
     },
     {
+      "entry": 1233944501,
+      "orgName": "IF Troja-Ljungby",
+      "orgNumber": "829000-0861",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "ishockeyklubb"
+      ],
+      "web": "https://troja-ljungby.com/"
+    },
+    {
       "entry": 1233945201,
       "orgName": "R\u00e4ttviks Ridklubb",
       "orgNumber": "883200-6301",
@@ -91746,6 +91922,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://piteaif.sportadmin.se/"
+    },
+    {
+      "entry": 1234002051,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "802535-5036",
+      "comment": "Distrikt \u00d6sterg\u00f6tland",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/ostergotland/"
     },
     {
       "entry": 1234002234,
@@ -93925,6 +94113,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.akibs.se/"
+    },
+    {
+      "entry": 1234126348,
+      "orgName": "Rolda Sverige",
+      "orgNumber": "802490-7050",
+      "comment": null,
+      "categories": [
+        "djurskydd",
+        "hundhem"
+      ],
+      "web": "https://www.rolda.se/"
     },
     {
       "entry": 1234126413,
@@ -99409,6 +99608,18 @@
         "utbildning"
       ],
       "web": "http://elsaberggren.se/"
+    },
+    {
+      "entry": 1234400248,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "866000-4923",
+      "comment": "Norra Skaraborg",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/norraskaraborg/"
     },
     {
       "entry": 1234400818,
@@ -106250,6 +106461,18 @@
       "web": "https://prostatacancerforbundet.se/om-oss/patientforeningar/sormland/nackrosbroderna/"
     },
     {
+      "entry": 1234692364,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "868401-0260",
+      "comment": "Distrikt Skaraborg",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/skaraborg/"
+    },
+    {
       "entry": 1234692679,
       "orgName": "F\u00f6reningen Svenska Patrullb\u00e5tar",
       "orgNumber": "802470-4788",
@@ -110370,6 +110593,18 @@
       "web": "https://jano.nu/"
     },
     {
+      "entry": 1234947586,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "849600-6498",
+      "comment": "Varberg",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/varberg/"
+    },
+    {
       "entry": 1234947644,
       "orgName": "\u00d6nsta-Gryta Kyrka",
       "orgNumber": "556706-5262",
@@ -112800,6 +113035,18 @@
       "web": "https://www.svenskalag.se/carlskronashotokan"
     },
     {
+      "entry": 1235066113,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "802413-6767",
+      "comment": "Alvesta",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/alvesta/"
+    },
+    {
       "entry": 1235066691,
       "orgName": "Bie GoIF",
       "orgNumber": "818500-0141",
@@ -114522,6 +114769,18 @@
         "motorsport"
       ],
       "web": "https://mchksodermanland.weebly.com/"
+    },
+    {
+      "entry": 1235121876,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "827000-9411",
+      "comment": "Eksj\u00f6",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/eksjo/"
     },
     {
       "entry": 1235122056,
@@ -116483,6 +116742,18 @@
       "web": "https://www.lapplandsjagare.com/"
     },
     {
+      "entry": 1235182332,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "802001-5551",
+      "comment": "Stockholm, Konstklubben",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/stockholm/"
+    },
+    {
       "entry": 1235183199,
       "orgName": "Liding\u00f6 Islanders HC",
       "orgNumber": "802460-1687",
@@ -116728,11 +116999,12 @@
     },
     {
       "entry": 1235200407,
-      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund Kristianstad",
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
       "orgNumber": "838200-9887",
-      "comment": null,
+      "comment": "Kristianstad",
       "categories": [
-        "h\u00f6rselskadad",
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
         "riksf\u00f6rbund"
       ],
       "web": "https://hrf.se/kristianstad/"
@@ -119671,6 +119943,18 @@
       "web": "https://kronprinsenstk.se/"
     },
     {
+      "entry": 1235331699,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "802535-5036",
+      "comment": "\u00d6stra \u00d6sterg\u00f6tland",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/ostraostergotland/"
+    },
+    {
       "entry": 1235331723,
       "orgName": "Kr\u00e5kjohan Jakt & Viltv\u00e5rd AB",
       "orgNumber": "559090-2812",
@@ -122127,6 +122411,17 @@
         "utrustning"
       ],
       "web": "https://stinases.se/"
+    },
+    {
+      "entry": 1235432190,
+      "orgName": "\u00d6rgryte IS Fotbollsf\u00f6rening",
+      "orgNumber": "802493-7834",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://oisfotboll.se/"
     },
     {
       "entry": 1235432448,
@@ -124990,6 +125285,18 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/DropzoneDiscgolfklubb/"
+    },
+    {
+      "entry": 1235551197,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "889201-1027",
+      "comment": "Sundsvall-Timr\u00e5",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/sundsvall-timra/"
     },
     {
       "entry": 1235551263,
@@ -133803,11 +134110,12 @@
     },
     {
       "entry": 1235942826,
-      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund Kristinehamn",
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
       "orgNumber": "873201-9172",
-      "comment": null,
+      "comment": "Kristinehamn",
       "categories": [
-        "h\u00f6rselskadad",
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
         "riksf\u00f6rbund"
       ],
       "web": "https://hrf.se/kristinehamn/"
@@ -134225,6 +134533,18 @@
         "religion"
       ],
       "web": "https://elisabet.se/"
+    },
+    {
+      "entry": 1235958236,
+      "orgName": "Astma- och Allergif\u00f6reningen i V\u00e4stra G\u00f6taland",
+      "orgNumber": "855900-7169",
+      "comment": null,
+      "categories": [
+        "allergif\u00f6rening",
+        "astmaf\u00f6rening",
+        "patientf\u00f6rening"
+      ],
+      "web": "https://astmaoallergiforbundet.se/"
     },
     {
       "entry": 1235959267,
@@ -139303,6 +139623,17 @@
       "web": "https://www.smalandsstenarbk.se/"
     },
     {
+      "entry": 1236179683,
+      "orgName": "Crossover Basketball Academy Club",
+      "orgNumber": "802532-5906",
+      "comment": "Skills Day Game",
+      "categories": [
+        "basketbollklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/crossoverbasketball"
+    },
+    {
       "entry": 1236180269,
       "orgName": "Insamlingsstiftelsen Bl\u00e5ljus",
       "orgNumber": "802513-8150",
@@ -139681,10 +140012,12 @@
     },
     {
       "entry": 1236190995,
-      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund Lidk\u00f6ping - G\u00f6tene",
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
       "orgNumber": "869001-1294",
-      "comment": null,
+      "comment": "Lidk\u00f6ping-G\u00f6tene",
       "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
         "riksf\u00f6rbund"
       ],
       "web": "https://hrf.se/lidkoping-gotene/"
@@ -142467,6 +142800,18 @@
         "vattenpoloklubb"
       ],
       "web": "https://www.alvsjoaiksimning.se/"
+    },
+    {
+      "entry": 1236333124,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "836200-4569",
+      "comment": "Karlshamn",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/karlshamn/"
     },
     {
       "entry": 1236333686,
@@ -152322,6 +152667,18 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/gillberga-lista"
+    },
+    {
+      "entry": 1236761720,
+      "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
+      "orgNumber": "817000-5287",
+      "comment": "Enk\u00f6ping-H\u00e5bo",
+      "categories": [
+        "h\u00f6rselneds\u00e4ttning",
+        "patientf\u00f6rening",
+        "riksf\u00f6rbund"
+      ],
+      "web": "https://hrf.se/enkoping/"
     },
     {
       "entry": 1236761845,
