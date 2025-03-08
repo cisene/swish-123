@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-03-08-rev-171126
+# Date: 2025-03-08-rev-171946
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -373,7 +373,7 @@
 "1230190876","252003-0095","Märsta Pastorat","https://www.svenskakyrkan.se/marsta","religion","Kollekt Skepptuna kyrka"
 "1230190892","252005-0283","Tollarps Församling","https://www.svenskakyrkan.se/tollarp","religion","Kollekt Västra Vrams kyrka"
 "1230191023","802508-0469","Bara vanlig hälsa","https://baravanlig.se/","friskvård,hälsa",""
-"1230191742","897000-3623","Lions Luleå","https://e-clubhouse.org/sites/lulea/","lionsklubb",""
+"1230191742","897000-3623","Lions Club Luleå","https://e-clubhouse.org/sites/lulea/","lionsklubb",""
 "1230191858","719500-1230","Stallarholmens Båtklubb","https://www.stallarholmensbatklubb.se/","båtklubb",""
 "1230191981","814800-7738","Runby IF","https://www.svenskalag.se/runbyif","fotbollsklubb,idrottsförening",""
 "1230192120","832400-5654","Korpen Kalmar","https://www.korpen.se/korpenkalmar","idrottsförening,korpenförening",""
@@ -1977,7 +1977,7 @@
 "1230909333","802529-9242","Radio Hope Classic","https://radiohopeclassic.se/","podcast,religion",""
 "1230909366","846000-1822","Folkhögskolan Hvilan","https://hvilan.se/","folkhögskola,utbildning",""
 "1230909374","889202-4400","Svenska KennethKlubben","https://kenneth.se/","intresseförening",""
-"1230910141","838201-0067","Lions Åhus","https://www.ahuslions.se/","lionsklubb",""
+"1230910141","838201-0067","Lions Club Åhus","https://www.ahuslions.se/","lionsklubb",""
 "1230910216","782600-0601","Dala-Järna IK, DJIK","https://www.djik.se/","idrottsförening","Skidsektionen"
 "1230910497","802454-8912","John Bauer Discgolf","https://www.jbdg.se/","discgolfklubb,idrottsförening",""
 "1230910752","857209-3683","Sail Training Association of Sweden, STAS","http://www.sta-sweden.se/","segelklubb,utbildning",""
@@ -3549,7 +3549,7 @@
 "1231626787","252003-4725","Gislaveds Pastorat","https://www.svenskakyrkan.se/gislaved","religion","Kollekt Ås kyrka"
 "1231626985","864500-6456","Sjömarkens Missionsförsamling","https://www.sjomarkenkyrkan.se/","religion",""
 "1231627090","894004-0069","Luleå Brottarklubb - Brottning","https://www.lulebrottarklubb.se/","brottningsklubb,idrottsförening",""
-"1231627652","832000-3778","Lions Färjestaden","http://www.lionsfarjestaden.se/","lionsklubb",""
+"1231627652","832000-3778","Lions Club Färjestaden","http://www.lionsfarjestaden.se/","lionsklubb",""
 "1231627892","842000-3348","Hörby Fotbollsförening","https://www.horbyff.se/","fotbollsklubb,idrottsförening,parasport",""
 "1231628080","828500-2997","Anderstorps Skytteförening","https://www.anderstorpsskf.se/","skytteklubb,sportskytteklubb",""
 "1231628254","869001-0353","Föreningen Vikingaskeppet Sigrid Storråda","https://www.sigrid.se/","intresseförening,kulturförening",""
@@ -4742,7 +4742,7 @@
 "1232213510","815201-1634","Haga-Brunnsvikens Vänner","https://haga-brunnsviken.org/","intresseförening",""
 "1232213791","252003-7215","Eda-Köla Pastorat","https://www.svenskakyrkan.se/eda-kola","religion","Järnskogs kyrka"
 "1232213882","802440-9537","Svenska Röda Korset","https://www.rodakorset.se/ort/skane/malmo-stad/","rödakorset","Malmö"
-"1232213965","802510-5175","Lions Hallstavik-Väddö","https://e-clubhouse.org/sites/allstavikv%C3%A4dd%C3%B6/","lionsklubb",""
+"1232213965","802510-5175","Lions Club Hallstavik-Väddö","https://e-clubhouse.org/sites/allstavikv%C3%A4dd%C3%B6/","lionsklubb",""
 "1232213981","556959-7908","Jipåt AB","https://jipt.se/","friskvård,massage",""
 "1232214492","885002-0010","Gävle kammarmusikförening","https://www.gavlekmf.net/","kammarmusikförening,musikförening",""
 "1232214674","882000-7527","IBF Hedemora","https://www.laget.se/IBFHedemora/","idrottsförening,innebandyklubb",""
@@ -10659,7 +10659,7 @@
 "1235144175","556716-7076","Lysekils Trafikskola AB","https://lysekilstrafikskola.se/","trafikskola,utbildning",""
 "1235144274","252003-7926","Norra Gotlands Pastorat","https://www.svenskakyrkan.se/norragotland","religion","Forsa församling"
 "1235144308","814400-6387","Rådmansö Bygdegårdsförening","https://www.radmansobygdegard.se/","bygdegårdsförening",""
-"1235144761","802498-6112","Lions Båstad Skåne","https://e-clubhouse.org/sites/bastad/","lionsklubb",""
+"1235144761","802498-6112","Lions Club Båstad Skåne","https://e-clubhouse.org/sites/bastad/","lionsklubb",""
 "1235145107","802422-7871","Strandtorp Golfklubb","https://strandtorpgolf.com/","golfbana,golfklubb",""
 "1235145537","817300-7686","Vendels Hembygdsförening","https://www.hembygd.se/vendels-hembygdsforening","hembygdsförening",""
 "1235145859","853300-2344","Betel Klädesholmen","https://betelkladesholmen.se/","religion",""
@@ -11525,7 +11525,7 @@
 "1235544341","252001-7266","Kinnarumma Församling","https://www.svenskakyrkan.se/kinnarumma","religion","Kollekt"
 "1235544523","817606-7695","Vaksala SK","https://www.svenskalag.se/vaksalask","fotbollsklubb,idrottsförening,innebandyklubb",""
 "1235544838","849200-6948","Livräddarna Tylösand","https://tylosand.net/","livräddning",""
-"1235544887","817606-0468","Lions Knivsta","https://sites.google.com/lionsknivsta.se/lions-club-knivsta/aktuellt?authuser=0","lionsklubb",""
+"1235544887","817606-0468","Lions Club Knivsta","https://sites.google.com/lionsknivsta.se/lions-club-knivsta/aktuellt?authuser=0","lionsklubb",""
 "1235544978","802008-6065","Södermalm Scoutkår","https://sodermalm.scout.se/","scoutkår",""
 "1235545199","894003-8204","Kråkens Byaförening","https://krakenby.se/","byalag,byaråd",""
 "1235545330","814800-0592","Gredelbykyrkan","https://gredelbykyrkan.se/","religion","Gåva"
@@ -13671,7 +13671,7 @@
 "1236579338","802530-3770","Södra Delsbos byalag","https://delsbo-sodra-byalag.webnode.se/","byalag",""
 "1236580013","875700-3689","Askersunds Gymnastikförening","https://www.askersundsgf.se/","gymnastikförening,idrottsförening",""
 "1236580401","832000-5021","Sällskapet Erik Johan Stagnelii Vänner","https://stagnelius.com/","intresseförening",""
-"1236580757","845003-3942","Lions Genarp","https://e-clubhouse.org/sites/genarp/","lionsklubb",""
+"1236580757","845003-3942","Lions Club Genarp","https://e-clubhouse.org/sites/genarp/","lionsklubb",""
 "1236581250","802422-3961","Guövikens Båtklubb","https://www.guoviken.se/","båtklubb,båtsällskap",""
 "1236581680","802445-6967","Ship to Gaza Sverige","https://shiptogaza.se/","intresseförening,opinionsbildning",""
 "1236581888","823000-8206","Ödeshögs Kennelklubb","https://www.odeshogskennelklubb.se/","hundklubb",""

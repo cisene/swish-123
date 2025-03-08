@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-08-rev-171158
+Revision: 2025-03-08-rev-172017
 
 Nummer: 14993
 
@@ -42732,13 +42732,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Lions Båstad Skåne**
-
-    123 514 47 61
-
-
-
-
 **Lions Cancerforskningsfond**
 
     123 603 40 60 - Umeå Universitet
@@ -42802,6 +42795,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Lions Club Båstad Skåne**
+
+    123 514 47 61
+
+
+
+
 **Lions Club Distrikt 101M**
 
     123 564 04 38
@@ -42823,9 +42823,30 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Lions Club Färjestaden**
+
+    123 162 76 52
+
+
+
+
+**Lions Club Genarp**
+
+    123 658 07 57
+
+
+
+
 **Lions Club Gnesta**
 
     123 237 09 06
+
+
+
+
+**Lions Club Hallstavik-Väddö**
+
+    123 221 39 65
 
 
 
@@ -42893,6 +42914,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Lions Club Knivsta**
+
+    123 554 48 87
+
+
+
+
 **Lions Club Laholm**
 
     123 593 69 01
@@ -42935,6 +42963,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lions Club Ludvika**
 
     123 083 31 86
+
+
+
+
+**Lions Club Luleå**
+
+    123 019 17 42
 
 
 
@@ -43262,6 +43297,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Lions Club Åhus**
+
+    123 091 01 41
+
+
+
+
 **Lions Club Österåker**
 
     123 274 19 99
@@ -43272,48 +43314,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lions Forskningsfond mot Folksjukdomar**
 
     123 900 23 61
-
-
-
-
-**Lions Färjestaden**
-
-    123 162 76 52
-
-
-
-
-**Lions Genarp**
-
-    123 658 07 57
-
-
-
-
-**Lions Hallstavik-Väddö**
-
-    123 221 39 65
-
-
-
-
-**Lions Knivsta**
-
-    123 554 48 87
-
-
-
-
-**Lions Luleå**
-
-    123 019 17 42
-
-
-
-
-**Lions Åhus**
-
-    123 091 01 41
 
 
 
