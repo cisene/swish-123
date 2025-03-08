@@ -61,6 +61,19 @@ def flattenList(data):
 def validateEntry(data):
   return re.match(r"^123(\d{7})$", str(data), flags=re.IGNORECASE)
 
+def validateEntryStrict(data):
+  result = False
+
+  if re.match(r"^123(\d{7})$", str(data), flags=re.IGNORECASE):
+    if(
+      re.match(r"^123[0-6]{1}(\d{2})(\d{4})$", str(data), flags=re.IGNORECASE)
+      or
+      re.match(r"^^12390[0-9]{1}(\d{4})$", str(data), flags=re.IGNORECASE)
+    ):
+      result = True
+
+  return result
+
 def main():
   print(f"Reading source YAML: {YAML_SOURCE_FILE} ..")
   source_dict = readYAML(YAML_SOURCE_FILE)
@@ -84,9 +97,16 @@ def main():
 
   line_count = 0
   for entryVO in source_dict['entries']:
+
+    # Check format - simple
     if validateEntry(entryVO['entry']) == False:
       continue
 
+    # Validate ranges - complex
+    if validateEntryStrict(entryVO['entry']) == False:
+      continue
+
+    # Collect categories
     cats = entryVO['categories']
 
     # Filter categories
@@ -102,11 +122,11 @@ def main():
 
     if(
       entryVO['orgNumber'] != None
-      and
+    and
       entryVO['orgName'] != None
-      and
+    and
       entryVO['categories'] != None
-      and
+    and
       skip_cats == False
     ):
       dest_dict['entries'].append(entryVO)
