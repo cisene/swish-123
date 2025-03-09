@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2025-03-08-rev-182821",
+    "date": "2025-03-09-rev-173226",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -4365,6 +4365,17 @@
         "karateklubb"
       ],
       "web": "https://stockholmskarate.com/"
+    },
+    {
+      "entry": 1230204693,
+      "orgName": "Aros Robotics Club, ARC",
+      "orgNumber": "802431-9595",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening",
+        "robotics"
+      ],
+      "web": "https://arcsweden.github.io/"
     },
     {
       "entry": 1230205724,
@@ -18166,7 +18177,7 @@
       "entry": 1230795039,
       "orgName": "Tillberga IK Bandy",
       "orgNumber": "802496-4143",
-      "comment": null,
+      "comment": "Seniorverksamheten",
       "categories": [
         "bandyklubb",
         "idrottsf\u00f6rening"
@@ -23909,6 +23920,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/nederlulea"
+    },
+    {
+      "entry": 1230997346,
+      "orgName": "SMC G\u00e4vleborg",
+      "orgNumber": "886500-9305",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/gavleborg/"
     },
     {
       "entry": 1230997445,
@@ -34433,6 +34454,16 @@
         "hundsport"
       ],
       "web": "https://www.karlskogabhk.se/"
+    },
+    {
+      "entry": 1231476274,
+      "orgName": "SMC V\u00e4rmland",
+      "orgNumber": "873201-2359",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/varmland/"
     },
     {
       "entry": 1231476571,
@@ -45997,6 +46028,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://skillingarydsgymnastik.sportadmin.se/"
+    },
+    {
+      "entry": 1231979897,
+      "orgName": "Fr\u00e4lsningsarm\u00e9n",
+      "orgNumber": "802006-1688",
+      "comment": "Vasak\u00e5ren",
+      "categories": [
+        "godk\u00e4nd g\u00e5vomottagare",
+        "religion"
+      ],
+      "web": "https://www.fralsningsarmen.se/vasakaren/"
     },
     {
       "entry": 1231979913,
@@ -60793,6 +60835,16 @@
       "web": "https://www.svenskakyrkan.se/orust/myckleby-och-torp-forsamlingar"
     },
     {
+      "entry": 1232639730,
+      "orgName": "SMC Norrbotten",
+      "orgNumber": "898801-0206",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/norrbotten/"
+    },
+    {
       "entry": 1232639771,
       "orgName": "Pastor Tommy Lilja Ministries / PTL-Ministries",
       "orgNumber": "836201-3040",
@@ -65697,7 +65749,7 @@
       "entry": 1232816171,
       "orgName": "Tillberga IK Bandy",
       "orgNumber": "802496-4143",
-      "comment": null,
+      "comment": "Ungdomsverksamheten",
       "categories": [
         "bandyklubb",
         "idrottsf\u00f6rening"
@@ -72262,6 +72314,16 @@
       "web": "https://www.hogbogk.com/"
     },
     {
+      "entry": 1233123940,
+      "orgName": "SMC Uppsala",
+      "orgNumber": "802427-3040",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/uppsala/"
+    },
+    {
       "entry": 1233123999,
       "orgName": "Ssenyange Education Project",
       "orgNumber": "802447-7294",
@@ -75029,6 +75091,16 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/viker"
+    },
+    {
+      "entry": 1233261930,
+      "orgName": "Rotary Uppsala Aros",
+      "orgNumber": "802504-7138",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://upsala-aros.rotary2355.se/"
     },
     {
       "entry": 1233262102,
@@ -80604,6 +80676,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://vlbk.se/"
+    },
+    {
+      "entry": 1233499639,
+      "orgName": "IK Sirius Bandyklubb",
+      "orgNumber": "817602-7863",
+      "comment": null,
+      "categories": [
+        "bandyklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.siriusbandy.se/"
     },
     {
       "entry": 1233500147,
@@ -92722,6 +92805,17 @@
       "web": "https://cfuk.nu/"
     },
     {
+      "entry": 1234043113,
+      "orgName": "Aros Trafikskola AB",
+      "orgNumber": "556179-3745",
+      "comment": null,
+      "categories": [
+        "trafikskola",
+        "utbildning"
+      ],
+      "web": "https://arostrafikskola.se/"
+    },
+    {
       "entry": 1234043436,
       "orgName": "Enkel Teknik / Christoffer Orre",
       "orgNumber": "861021-XXXX",
@@ -104025,6 +104119,16 @@
       "web": "https://felan.se/"
     },
     {
+      "entry": 1234594495,
+      "orgName": "SMC \u00d6rebro",
+      "orgNumber": "875001-3776",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/orebro/"
+    },
+    {
       "entry": 1234594693,
       "orgName": "Equmeniakyrkan Sennan",
       "orgNumber": "849200-1600",
@@ -107100,6 +107204,16 @@
       "web": "https://www.skidklubben.se/"
     },
     {
+      "entry": 1234717559,
+      "orgName": "SMC Gotland",
+      "orgNumber": "834001-9499",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/gotland/"
+    },
+    {
       "entry": 1234717757,
       "orgName": "Stiftelsen Skansen",
       "orgNumber": "802003-0154",
@@ -110018,6 +110132,16 @@
       "web": "https://www.hsb.se/stockholm/brf/rubinen/"
     },
     {
+      "entry": 1234924403,
+      "orgName": "Svea Orden",
+      "orgNumber": "802003-3133",
+      "comment": null,
+      "categories": [
+        "ordens\u00e4llskap"
+      ],
+      "web": "https://www.sveaorden.se/"
+    },
+    {
       "entry": 1234924908,
       "orgName": "Nyn\u00e4shamns Innebandyklubb",
       "orgNumber": "802411-1836",
@@ -110739,6 +110863,16 @@
         "samh\u00e4llsf\u00f6rening"
       ],
       "web": "https://www.magnarp.com/"
+    },
+    {
+      "entry": 1234950317,
+      "orgName": "SMC V\u00e4stmanland",
+      "orgNumber": "817601-6494",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/vastmanland/"
     },
     {
       "entry": 1234950713,
@@ -122842,6 +122976,20 @@
       "web": "https://www.airswing.se/"
     },
     {
+      "entry": 1235447776,
+      "orgName": "Tango Rio Negro",
+      "orgNumber": "802513-1700",
+      "comment": null,
+      "categories": [
+        "dansf\u00f6rening",
+        "danskurser",
+        "dansskola",
+        "danssport",
+        "dansundervisning"
+      ],
+      "web": "https://tangorionegro.org/"
+    },
+    {
       "entry": 1235447909,
       "orgName": "AIK Atlas",
       "orgNumber": "835000-0066",
@@ -124800,6 +124948,16 @@
         "golfklubb"
       ],
       "web": "https://aselegk.com/"
+    },
+    {
+      "entry": 1235532544,
+      "orgName": "SMC Dalarna",
+      "orgNumber": "882600-8719",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/dalarna/"
     },
     {
       "entry": 1235532692,
@@ -127568,6 +127726,16 @@
       "web": "https://www.nsf.scout.se/karer/ekeby-vikingen-scoutkar/"
     },
     {
+      "entry": 1235638093,
+      "orgName": "SMC \u00d6sterg\u00f6tland",
+      "orgNumber": "822003-0848",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/ostergotland/"
+    },
+    {
       "entry": 1235638135,
       "orgName": "Korpen Kinda",
       "orgNumber": "822001-2697",
@@ -130117,6 +130285,16 @@
         "religion"
       ],
       "web": "https://www.svenskakyrkan.se/varberg"
+    },
+    {
+      "entry": 1235760434,
+      "orgName": "SMC \u00d6rebro",
+      "orgNumber": "875001-3776",
+      "comment": "Annikas minnesfond",
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/orebro/"
     },
     {
       "entry": 1235760780,
@@ -136490,6 +136668,20 @@
       "web": "https://neuro.se/"
     },
     {
+      "entry": 1236064802,
+      "orgName": "Aros Ballroom and Latin Club",
+      "orgNumber": "802517-9238",
+      "comment": null,
+      "categories": [
+        "dansf\u00f6rening",
+        "danskurser",
+        "dansskola",
+        "danssport",
+        "dansundervisning"
+      ],
+      "web": "https://www.arosballroom.com/"
+    },
+    {
       "entry": 1236065007,
       "orgName": "W\u00e4stra Bolmens B\u00e5tklubb, VBBK",
       "orgNumber": "828500-6287",
@@ -141658,7 +141850,8 @@
       "comment": null,
       "categories": [
         "fritidsodling",
-        "tr\u00e4dg\u00e5rdsf\u00f6rening"
+        "tr\u00e4dg\u00e5rdsf\u00f6rening",
+        "tr\u00e4dg\u00e5rdss\u00e4llskap"
       ],
       "web": "https://vasterastradgard.se/"
     },
@@ -142386,6 +142579,16 @@
         "byar\u00e5d"
       ],
       "web": "https://www.delsbo.org/"
+    },
+    {
+      "entry": 1236297766,
+      "orgName": "SMC S\u00f6dermanland",
+      "orgNumber": "818501-0447",
+      "comment": null,
+      "categories": [
+        "motorcykelklubb"
+      ],
+      "web": "https://www.svmc.se/distrikt/sodermanland/"
     },
     {
       "entry": 1236298079,
@@ -149370,6 +149573,17 @@
       "web": "https://www.villingsbergs-jsk.se/"
     },
     {
+      "entry": 1236638159,
+      "orgName": "V\u00e4ster\u00e5s Kommun",
+      "orgNumber": "212000-2080",
+      "comment": "Fiskekort",
+      "categories": [
+        "fiskekort",
+        "kommun"
+      ],
+      "web": "https://www.vasteras.se/uppleva-och-gora/idrott-motion-och-friluftsliv/fiske-och-jakt.html"
+    },
+    {
       "entry": 1236638308,
       "orgName": "S:t M\u00e5nslyckans koloniomr\u00e5de",
       "orgNumber": "802509-0955",
@@ -154929,6 +155143,17 @@
         "hembygdsf\u00f6rening"
       ],
       "web": "https://www.hembygd.se/as"
+    },
+    {
+      "entry": 1236854798,
+      "orgName": "Nordisk Filateli AB",
+      "orgNumber": "559251-1371",
+      "comment": null,
+      "categories": [
+        "filateli",
+        "frim\u00e4rkssamling"
+      ],
+      "web": "https://filateli.se/"
     },
     {
       "entry": 1236855852,

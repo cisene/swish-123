@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-08-rev-182906
+Revision: 2025-03-09-rev-173308
 
-Nummer: 15003
+Nummer: 15024
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2725,6 +2725,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Aros Ballroom and Latin Club**
+
+    123 606 48 02
+
+
+
+
 **Aros Basket**
 
     123 106 80 97
@@ -2742,6 +2749,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Aros Ice Cream**
 
     123 437 38 33
+
+
+
+
+**Aros Robotics Club, ARC**
+
+    123 020 46 93
+
+
+
+
+**Aros Trafikskola AB**
+
+    123 404 31 13
 
 
 
@@ -19402,6 +19423,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 163 56 55 - Historiska Sällskapet
 
+    123 197 98 97 - Vasakåren
+
     123 202 93 61 - Eskilstuna
 
     123 224 13 96 - Haparanda
@@ -31871,6 +31894,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **IK Segro**
 
     123 420 16 20
+
+
+
+
+**IK Sirius Bandyklubb**
+
+    123 349 96 39
 
 
 
@@ -49994,6 +50024,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nordisk Filateli AB**
+
+    123 685 47 98
+
+
+
+
 **Nordisk Förening för Spädbarns Utveckling, NFSU**
 
     123 014 27 45
@@ -59289,6 +59326,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Uppsala Aros**
+
+    123 326 19 30
+
+
+
+
 **Rotary Uppsala Peace Center**
 
     123 209 15 51
@@ -64777,6 +64821,78 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Smart Savannahs**
 
     123 493 71 81
+
+
+
+
+**SMC Dalarna**
+
+    123 553 25 44
+
+
+
+
+**SMC Gotland**
+
+    123 471 75 59
+
+
+
+
+**SMC Gävleborg**
+
+    123 099 73 46
+
+
+
+
+**SMC Norrbotten**
+
+    123 263 97 30
+
+
+
+
+**SMC Södermanland**
+
+    123 629 77 66
+
+
+
+
+**SMC Uppsala**
+
+    123 312 39 40
+
+
+
+
+**SMC Värmland**
+
+    123 147 62 74
+
+
+
+
+**SMC Västmanland**
+
+    123 495 03 17
+
+
+
+
+**SMC Örebro**
+
+    123 459 44 95
+
+    123 576 04 34 - Annikas minnesfond
+
+
+
+
+**SMC Östergötland**
+
+    123 563 80 93
 
 
 
@@ -71273,6 +71389,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svea Orden**
+
+    123 492 44 03
+
+
+
+
 **Svedala Församling**
 
     123 681 48 34
@@ -75988,6 +76111,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tango Rio Negro**
+
+    123 544 77 76
+
+
+
+
 **Tango Sol**
 
     123 000 46 97
@@ -78095,9 +78225,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Tillberga IK Bandy**
 
-    123 079 50 39
+    123 079 50 39 - Seniorverksamheten
 
-    123 281 61 71
+    123 281 61 71 - Ungdomsverksamheten
 
 
 
@@ -85725,6 +85855,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerås Ki-Aikido**
 
     123 362 67 10
+
+
+
+
+**Västerås Kommun**
+
+    123 663 81 59 - Fiskekort
 
 
 
