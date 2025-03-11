@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-09-rev-173308
+Revision: 2025-03-11-rev-203613
 
-Nummer: 15024
+Nummer: 15042
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2763,6 +2763,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Aros Trafikskola AB**
 
     123 404 31 13
+
+
+
+
+**AROS - Uppsalas akademiska militärsällskap**
+
+    123 414 67 00
 
 
 
@@ -9638,6 +9645,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bålsta CK**
+
+    123 238 30 08
+
+
+
+
 **Bålsta Konståkningsklubb**
 
     123 262 69 68
@@ -12641,9 +12655,14 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Djurskyddet Mälartassen**
 
-    123 109 74 76
-
     123 439 74 51 - Kastrering
+
+
+
+
+**Djurskyddet Mälartassen i Köping**
+
+    123 109 74 76
 
 
 
@@ -26687,6 +26706,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Hela Människan**
 
+    123 675 29 27 - Falun
+
+
+
+
+**Hela Människan**
+
     123 147 93 28 - Gävle
 
 
@@ -28718,6 +28744,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hundomplaceringsverksamheten**
 
     123 588 32 69
+
+
+
+
+**Hundprylar.com / Hunderiet Östra Aros HB**
+
+    123 269 63 67
 
 
 
@@ -31900,6 +31933,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **IK Sirius Bandyklubb**
 
+    123 131 25 45
+
     123 349 96 39
 
 
@@ -34531,6 +34566,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Julita Hembygdsförening**
 
     123 412 05 23
+
+
+
+
+**Junis Älvsborg**
+
+    123 679 62 39
 
 
 
@@ -37725,6 +37767,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kolbäck Hyzers DGK**
+
+    123 145 04 85
+
+
+
+
 **Kollberggården / Ölands YogaStudio & Islandshästar AB**
 
     123 668 99 62
@@ -39299,6 +39348,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kulturhistoriska Föreningen i Södertälje**
+
+    123 446 53 24 - Medlemsavgift
+
+    123 675 95 75 - Resor
+
+
+
+
 **Kulturhuset Anders / Anders Föreningen**
 
     123 033 05 71
@@ -40801,6 +40859,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Köping Stars Basket Förening**
+
+    123 116 64 53
+
+
+
+
 **Köpingebro Byalag**
 
     123 496 41 51
@@ -40839,6 +40904,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Köpings Judoklubb**
 
     123 596 68 82
+
+
+
+
+**Köpings Kennelklubb KAK**
+
+    123 290 36 15
 
 
 
@@ -56469,6 +56541,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Prolingus AB**
+
+    123 500 29 44
+
+
+
+
 **ProLivskvalitet**
 
     123 220 28 69
@@ -57039,6 +57118,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ramviks Folkets Hus**
 
     123 161 10 03
+
+
+
+
+**RangeMaster Store / Headbit AB**
+
+    123 650 91 11
 
 
 
@@ -59731,6 +59817,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**RSMH Hallstahammar**
+
+    123 368 46 77
+
+
+
+
 **Ruda Revy och Teatersällskap**
 
     123 589 08 27
@@ -61614,6 +61707,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sannex Orkester AB**
 
     123 072 00 37
+
+
+
+
+**Sanningsökarna Enköping**
+
+    123 495 95 16
 
 
 
@@ -69675,6 +69775,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stockholms Stadsmission**
 
     123 083 30 20
+
+    123 559 51 52
 
     123 900 35 18
 
@@ -86038,6 +86140,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västerås Släktforskarklubb**
+
+    123 088 19 87
+
+
+
+
 **Västerås SportDykarKlubb Mollusca**
 
     123 360 52 19
@@ -90982,6 +91091,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 412 04 81
 
     123 697 82 66 - Team P2011/2012
+
+
+
+
+**Östra Aros Judoklubb**
+
+    123 185 98 67
 
 
 
