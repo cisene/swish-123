@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-11-rev-203613
+Revision: 2025-03-15-rev-180849
 
-Nummer: 15042
+Nummer: 15052
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3972,6 +3972,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 464 84 73 - P-14
 
     123 656 13 36 - P16
+
+    123 689 93 06
 
 
 
@@ -10444,6 +10446,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Changsiam / Pha Karlsson**
+
+    123 349 10 08 - Karlskoga
+
+
+
+
 **Charity Yoga / Marie Mallmin AB**
 
     123 107 97 06
@@ -13210,7 +13219,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **DYKNING.NET Sverige AB**
 
-    123 222 71 63
+    123 222 71 63 - Köping
+
+    123 276 41 73
 
 
 
@@ -14173,6 +14184,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ekolinjen Entreprenad AB**
 
     123 288 62 16
+
+
+
+
+**Ekomuseum Bergslagen**
+
+    123 023 44 19
 
 
 
@@ -34505,6 +34523,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Judhults Bygdegårdsförening**
+
+    123 471 16 44
+
+
+
+
 **Judisk Enhet**
 
     123 307 28 73
@@ -38668,6 +38693,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kristdemokraterna**
+
+    123 443 07 40 - Köping
+
+
+
+
 **Kristdemokraterna Riksorganisationen**
 
     123 515 70 03
@@ -40863,6 +40895,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 116 64 53
 
+    123 356 77 24
+
 
 
 
@@ -41331,6 +41365,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ledningsregementets kamratförening, LedR KF**
 
     123 246 52 35
+
+
+
+
+**Leelawadee Thai Spa**
+
+    123 682 70 59
 
 
 
@@ -57055,6 +57096,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rammsjö Bad & Turistförening**
 
     123 264 73 11
+
+
+
+
+**Ramnäs Busstrafik & Resetjänst AB**
+
+    123 630 10 30
 
 
 
@@ -90861,6 +90909,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Östersund Volleyboll**
 
     123 513 86 31
+
+
+
+
+**Östersunds Bandysällskap**
+
+    123 652 70 63
 
 
 

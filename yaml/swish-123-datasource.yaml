@@ -4122,6 +4122,16 @@ entries:
   - sportfiske
   web: https://www.nedrehelgean.se/
 
+- entry: 1230234419
+  orgName: Ekomuseum Bergslagen
+  orgNumber: 879000-4249
+  comment: null
+  categories:
+  - ekologiskt
+  - intresseförening
+  - museum
+  web: https://ekomuseum.se/
+
 - entry: 1230234849
   orgName: Djurhults kapell / Stiftelsen Fjällbygdens Kapell
   orgNumber: 865000-9734
@@ -42374,10 +42384,11 @@ entries:
 - entry: 1232227163
   orgName: DYKNING.NET Sverige AB
   orgNumber: 556891-4575
-  comment: null
+  comment: Köping
   categories:
-  - intresseförening
-  - riksförbund
+  - dykning
+  - dykutrustning
+  - försäljning
   web: https://dykning.net/
 
 - entry: 1232227205
@@ -52481,6 +52492,16 @@ entries:
   categories:
   - intresseförening
   web: https://fmn-umea.se/
+
+- entry: 1232764173
+  orgName: Dykning.net Sverige AB
+  orgNumber: 556891-4575
+  comment: null
+  categories:
+  - dykning
+  - dykutrustning
+  - försäljning
+  web: https://www.dykning.net/
 
 - entry: 1232764959
   orgName: PRO Kungsgården
@@ -65778,6 +65799,14 @@ entries:
   - konst
   web: http://ljudkonstgalleriet.se/
 
+- entry: 1233491008
+  orgName: Changsiam / Pha Karlsson
+  orgNumber: 671202-XXXX
+  comment: Karlskoga
+  categories:
+  - massage
+  web: https://changsiam.se/
+
 - entry: 1233491164
   orgName: HIK Kick Off
   orgNumber: 802431-8076
@@ -67512,6 +67541,15 @@ entries:
   - förening
   - kattklubb
   web: https://burmaklubben.com/
+
+- entry: 1233567724
+  orgName: Köping Stars Basket Förening
+  orgNumber: 802416-5154
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.kopingstars.se/
 
 - entry: 1233568094
   orgName: Norrtälje-Malsta Församling
@@ -82316,6 +82354,14 @@ entries:
   - ishockeyklubb
   web: https://www.laget.se/IFKMunkforsHockey/
 
+- entry: 1234430740
+  orgName: Kristdemokraterna
+  orgNumber: 802525-8313
+  comment: Köping
+  categories:
+  - politiskt parti
+  web: https://wp.kristdemokraterna.se/koping/
+
 - entry: 1234431201
   orgName: Rotary Distrikt 2390
   orgNumber: 842000-8776
@@ -87399,6 +87445,14 @@ entries:
   categories:
   - religion
   web: https://hedvigslundskyrkan.se/
+
+- entry: 1234711644
+  orgName: Judhults Bygdegårdsförening
+  orgNumber: 729000-0996
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/judhult/
 
 - entry: 1234711792
   orgName: Salt i Södertälje
@@ -116550,6 +116604,16 @@ entries:
   - religion
   web: https://www.tyresopingst.se/
 
+- entry: 1236301030
+  orgName: Ramnäs Busstrafik & Resetjänst AB
+  orgNumber: 556926-6561
+  comment: null
+  categories:
+  - charterbuss
+  - persontransport
+  - researrangör
+  web: https://ramnasbussresor.com/
+
 - entry: 1236301477
   orgName: Föreningen För Fri Improviserad Musik, FRIM
   orgNumber: 802009-8672
@@ -120598,6 +120662,15 @@ entries:
   - innebandyklubb
   - orienteringsklubb
   web: https://www.rasboik.com/
+
+- entry: 1236527063
+  orgName: Östersunds Bandysällskap
+  orgNumber: 893202-8650
+  comment: null
+  categories:
+  - bandyklubb
+  - idrottsförening
+  web: https://ostersundbandy.se/
 
 - entry: 1236527428
   orgName: Real Fighter
@@ -126377,6 +126450,14 @@ entries:
   - ungdomsverksamhet
   web: https://www.bkwega.se/
 
+- entry: 1236827059
+  orgName: Leelawadee Thai Spa
+  orgNumber: 771221-XXXX
+  comment: null
+  categories:
+  - massage
+  web: https://thaimassagegruppen.se/leelawadee-thai-spa
+
 - entry: 1236827091
   orgName: Järfälla Församling
   orgNumber: 252004-3247
@@ -127464,6 +127545,16 @@ entries:
   - simklubb
   - simsällskap
   web: https://www.uddevallasim.se/
+
+- entry: 1236899306
+  orgName: Barkarö SK
+  orgNumber: 802415-0966
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/BarkaroSK
 
 - entry: 1236899603
   orgName: Aisha Center
