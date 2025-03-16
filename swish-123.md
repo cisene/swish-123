@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-16-rev-124739
+Revision: 2025-03-16-rev-192724
 
-Nummer: 15062
+Nummer: 15078
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -8777,6 +8777,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Brukshundservice Sverige AB**
+
+    123 583 88 18
+
+
+
+
 **Brunflo FK**
 
     123 245 53 27
@@ -10234,6 +10241,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Cavaliersällskapet, Specialklubben för Cavalier King Charles Spaniel, SCKCS**
+
+    123 597 85 56
+
+
+
+
 **Cecilia Kyllinge Humor, Musik & Allvar AB**
 
     123 208 06 20
@@ -11487,6 +11501,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dandelion Africa Sverige**
 
     123 360 50 03
+
+
+
+
+**Danderyd-Täby Brukshundklubb**
+
+    123 354 71 06
 
 
 
@@ -19961,6 +19982,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Färgelanda Brukshundklubb**
+
+    123 528 33 87
+
+
+
+
 **Färgelanda-Högsäters Församling**
 
     123 158 38 71
@@ -25129,6 +25157,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Göteborgs Vasa Församling**
 
     123 614 76 64
+
+
+
+
+**Göteborgsavdelning Brukshundklubb**
+
+    123 402 79 26
 
 
 
@@ -37686,6 +37721,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 195 11 85
 
+    123 361 08 13
+
 
 
 
@@ -38666,6 +38703,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kramfors BK**
 
     123 203 91 62
+
+
+
+
+**Kramfors Brukshundklubb**
+
+    123 628 84 68
 
 
 
@@ -48782,6 +48826,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Märsta-Sigtuna Brukshundklubb**
+
+    123 511 06 06
+
+
+
+
 **Mästarregistret / Stiftelsen Hantverk och Utbildning**
 
     123 123 98 62
@@ -49412,6 +49463,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nduguföreningen**
 
     123 263 26 85
+
+
+
+
+**Nedansiljans Brukshundklubb**
+
+    123 056 60 34
 
 
 
@@ -51439,6 +51497,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nyköpings Brukshundklubb**
+
+    123 613 09 42
+
+
+
+
 **Nyköpings Curlingklubb**
 
     123 015 61 74
@@ -52011,6 +52076,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ockelbo Atlet Klubb**
 
     123 465 99 75
+
+
+
+
+**Ockelbo Brukshundklubb**
+
+    123 596 53 97
 
 
 
@@ -52823,6 +52895,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ort Till Ort, OTO**
 
     123 088 74 63 - Stödfond
+
+
+
+
+**Orust Brukshundklubb**
+
+    123 150 83 81
 
 
 
@@ -72128,7 +72207,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Boxerklubben**
 
-    123 566 75 97 - Södra Lokalområdet
+    123 566 75 97 - Södra Lokalområdet, SLO
+
+    123 653 42 34 - Östra lokalområdet, ÖLO
+
+
+
+
+**Svenska Boxerklubben**
+
+    123 141 68 58 - Närke Värmlands lokalområde, NVLO
 
 
 
@@ -78299,6 +78387,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tidaholms Brukshundklubb**
+
+    123 417 15 67
+
+
+
+
 **Tidaholms Pensionärers Bowlingklubb**
 
     123 314 94 08
@@ -80464,6 +80559,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tyresö Bridgeklubb**
 
     123 338 82 04
+
+
+
+
+**Tyresö Brukshundklubb**
+
+    123 569 81 47
 
 
 
@@ -85486,13 +85588,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Väsby Brukshundklubb**
-
-    123 361 08 13
-
-
-
-
 **Väsby FF**
 
     123 529 51 67
@@ -89885,6 +89980,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ölands Biodlarförening**
 
     123 673 60 37
+
+
+
+
+**Ölands Brukshundklubb**
+
+    123 091 64 29
 
 
 
