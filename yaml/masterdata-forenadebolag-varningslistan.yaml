@@ -1,12 +1,48 @@
 organisations:
 
-- orgNumber: 559099-0189
-  orgName: BLUshop AB
-  date: '2024-10-14'
+- orgNumber: 559110-0556
+  orgName: Superial Consulting AB
+  date: '2025-03-14'
+
+- orgNumber: 559110-0556
+  orgName: Superial Consulting AB
+  date: '2025-03-06'
+
+- orgNumber: 769642-5037
+  orgName: KonVest ekonomisk förening
+  date: '2025-03-04'
+
+- orgNumber: 559318-7627
+  orgName: Network Hosting Europe AB
+  date: '2025-02-17'
+
+- orgNumber: 559484-3061
+  orgName: Appears AB
+  date: '2025-02-06'
+
+- orgNumber: 559338-8480
+  orgName: Svea Group AB
+  date: '2025-01-13'
+
+- orgNumber: 559466-5852
+  orgName: Bolagssidorna i Sverige AB
+  date: '2024-12-05'
 
 - orgNumber: 969799-1843
   orgName: Kuverta Kommanditbolag
-  date: '2024-10-09'
+  date: '2024-11-27'
+
+- orgNumber: 559484-3061
+  orgName: Appears AB
+  date: '2024-11-26'
+
+- orgNumber: 040103-XXXX
+  orgName: AVE Administration H18
+  date: '2024-11-19'
+
+- orgNumber: 559099-0189
+  orgName: BLUshop AB
+  date: '2024-10-14'
 
 - orgNumber: 559033-3638
   orgName: Nummerbyrån Sverige AB
@@ -15,14 +51,6 @@ organisations:
 - orgNumber: 559491-3393
   orgName: Keep connections Sverige AB
   date: '2024-10-01'
-
-- orgNumber: 559484-3061
-  orgName: Appears AB
-  date: '2024-09-24'
-
-- orgNumber: 559338-8480
-  orgName: Svea Group AB
-  date: '2024-09-19'
 
 - orgNumber: 559162-6816
   orgName: FS Data AB
@@ -41,7 +69,7 @@ organisations:
   date: '2024-08-26'
 
 - orgNumber: 559420-6970
-  orgName: Apphire Recruitment Agency AB
+  orgName: SABINA AI AB
   date: '2024-08-07'
 
 - orgNumber: 556783-4535
@@ -96,10 +124,6 @@ organisations:
   orgName: Medier Arfvidsson Blomgren AB
   date: '2023-11-20'
 
-- orgNumber: 559318-7627
-  orgName: Network Hosting Europe AB
-  date: '2023-11-09'
-
 - orgNumber: 969799-3419
   orgName: B2B-Connect Stockholm KB
   date: '2023-11-07'
@@ -116,13 +140,9 @@ organisations:
   orgName: Internhelp
   date: '1970-01-01'
 
-- orgNumber: 969799-1843
-  orgName: Kuverta Kommanditbolag
-  date: '2023-10-23'
-
 - orgNumber: 559252-8433
   orgName: Bolagsinspektionen Sverige AB
-  date: '1970-01-01'
+  date: '2023-10-23'
 
 - orgNumber: 556932-6696
   orgName: Redrent AB
@@ -151,10 +171,6 @@ organisations:
 - orgNumber: 559260-4481
   orgName: Företagsannonser i Norden AB
   date: '2023-01-30'
-
-- orgNumber: 556932-6696
-  orgName: Redrent AB
-  date: '2023-01-10'
 
 - orgNumber: 559338-6559
   orgName: Ednova AB
@@ -226,7 +242,7 @@ organisations:
 
 - orgNumber: 556996-9719
   orgName: Bolagsregistret Skandinavien AB
-  date: '1970-01-01'
+  date: '2021-01-29'
 
 - orgNumber: 559185-8971
   orgName: Netweb Media AB
@@ -360,21 +376,21 @@ organisations:
   orgName: Finansera AB
   date: '2018-07-11'
 
-- orgNumber: 556893-6370
-  orgName: BrngMe AB
-  date: '2018-05-09'
+- orgNumber: 969753-5996
+  orgName: SGG Media
+  date: '2016-05-17'
 
-- orgNumber: 556916-5094
-  orgName: Svenska Personalliggare AB
-  date: '2018-04-19'
+- orgNumber: 830805-XXXX
+  orgName: JT Belysning
+  date: '2016-05-10'
 
-- orgNumber: 556685-6455
-  orgName: larssonlindhe AB
-  date: '2018-04-11'
+- orgNumber: 556660-2131
+  orgName: Apoplex AB
+  date: '1970-01-01'
 
-- orgNumber: 559028-3510
-  orgName: Clarrot Group AB
-  date: '2018-04-09'
+- orgNumber: 556984-7659
+  orgName: Webbhotellet AB
+  date: '2016-05-02'
 
 - orgNumber: 556763-4398
   orgName: Vectrum
@@ -444,74 +460,6 @@ organisations:
   orgName: RSE Ekonomi
   date: '2015-10-16'
 
-- orgNumber: 556803-7682
-  orgName: Scandinavia Career AB
-  date: '2015-10-13'
-
-- orgNumber: 556968-5752
-  orgName: Campaign Solutions Stockholm AB
-  date: '2015-10-09'
-
-- orgNumber: 782258-4729
-  orgName: Domain City EU
-  date: '2015-10-07'
-
-- orgNumber: 556675-7620
-  orgName: SNSK Gruppen AB
-  date: '2015-09-30'
-
-- orgNumber: 556854-6823
-  orgName: Skandinavisk Företagsoptimering AB
-  date: '2015-04-01'
-
-- orgNumber: 556882-9641
-  orgName: Infodirekt Norden AB
-  date: '2015-02-28'
-
-- orgNumber: 556996-9693
-  orgName: Swebiz Solutions AB
-  date: '2014-11-28'
-
-- orgNumber: 516408-7552
-  orgName: Varumärkesbyrån i Sverige filial
-  date: '2014-10-23'
-
-- orgNumber: 556778-2031
-  orgName: All Business Online Sweden AB
-  date: '2014-10-22'
-
-- orgNumber: 556256-2768
-  orgName: Svensk Avtalsjuridik AB
-  date: '2014-08-20'
-
-- orgNumber: 556958-4310
-  orgName: Företagsupplysningen Sverige AB
-  date: '2014-06-25'
-
-- orgNumber: 556920-9710
-  orgName: Nordisk Mediahantering AB
-  date: '2014-05-22'
-
-- orgNumber: 969767-0421
-  orgName: NSG Media KB
-  date: '2013-11-08'
-
-- orgNumber: 669251-9281
-  orgName: EPTR European Patent & Trademark Register
-  date: '2013-09-09'
-
-- orgNumber: 556778-2031
-  orgName: All Business Online Sweden AB
-  date: '2013-06-13'
-
-- orgNumber: 556898-1368
-  orgName: Onlinekatalogen Sverige AB
-  date: '2013-03-04'
-
-- orgNumber: 556631-9025
-  orgName: Webfinder AB
-  date: '2011-10-13'
-
 - orgNumber: 556607-0735
   orgName: SGP Online Publishing AB
   date: '2011-09-24'
@@ -519,6 +467,22 @@ organisations:
 - orgNumber: 556882-9641
   orgName: Infodirekt Norden AB
   date: '2010-04-01'
+
+- orgNumber: 556893-6370
+  orgName: BrngMe AB
+  date: '2018-05-09'
+
+- orgNumber: 556916-5094
+  orgName: Svenska Personalliggare AB
+  date: '2018-04-19'
+
+- orgNumber: 556685-6455
+  orgName: larssonlindhe AB
+  date: '2018-04-11'
+
+- orgNumber: 559028-3510
+  orgName: Clarrot Group AB
+  date: '2018-04-09'
 
 - orgNumber: 556893-6370
   orgName: Brngme Applications AB
@@ -628,17 +592,25 @@ organisations:
   orgName: Loop Webbhotell
   date: '2017-04-05'
 
-- orgNumber: 556996-9693
-  orgName: Arventa Consulting
-  date: '2017-03-30'
+- orgNumber: 550623-8979
+  orgName: One Webbregistrering
+  date: '2016-10-26'
 
-- orgNumber: 480607-XXXX
-  orgName: Recruitment Finance Scandinavia
-  date: '2017-03-08'
+- orgNumber: 559064-8464
+  orgName: Mediasupporten Göteborg AB
+  date: '2016-10-14'
 
-- orgNumber: 559045-8427
-  orgName: ID Skydd i Sverige AB
-  date: '2017-03-07'
+- orgNumber: 556800-3973
+  orgName: Partners of Carpenters AB
+  date: '2016-10-13'
+
+- orgNumber: 559037-8120
+  orgName: Parkeringsinkasso Svenska AB
+  date: '2016-09-30'
+
+- orgNumber: 969706-2462
+  orgName: Sondera Företagsutveckling HB
+  date: '2016-09-26'
 
 - orgNumber: 556958-6778
   orgName: Zander Solutions AB
@@ -692,21 +664,17 @@ organisations:
   orgName: Propulsion webmedia Sweden AB
   date: '2016-05-25'
 
-- orgNumber: 969753-5996
-  orgName: SGG Media
-  date: '2016-05-17'
+- orgNumber: 556996-9693
+  orgName: Arventa Consulting
+  date: '2017-03-30'
 
-- orgNumber: 830805-XXXX
-  orgName: JT Belysning
-  date: '2016-05-10'
+- orgNumber: 480607-XXXX
+  orgName: Recruitment Finance Scandinavia
+  date: '2017-03-08'
 
-- orgNumber: 556660-2131
-  orgName: Apoplex AB
-  date: '1970-01-01'
-
-- orgNumber: 556984-7659
-  orgName: Webbhotellet AB
-  date: '2016-05-02'
+- orgNumber: 559045-8427
+  orgName: ID Skydd i Sverige AB
+  date: '2017-03-07'
 
 - orgNumber: 559001-4337
   orgName: One Web
@@ -756,25 +724,21 @@ organisations:
   orgName: Spenca AB
   date: '2016-10-27'
 
-- orgNumber: 550623-8979
-  orgName: One Webbregistrering
-  date: '2016-10-26'
+- orgNumber: 556803-7682
+  orgName: Scandinavia Career AB
+  date: '2015-10-13'
 
-- orgNumber: 559064-8464
-  orgName: Mediasupporten Göteborg AB
-  date: '2016-10-14'
+- orgNumber: 556968-5752
+  orgName: Campaign Solutions Stockholm AB
+  date: '2015-10-09'
 
-- orgNumber: 556800-3973
-  orgName: Partners of Carpenters AB
-  date: '2016-10-13'
+- orgNumber: 782258-4729
+  orgName: Domain City EU
+  date: '2015-10-07'
 
-- orgNumber: 559037-8120
-  orgName: Parkeringsinkasso Svenska AB
-  date: '2016-09-30'
-
-- orgNumber: 969706-2462
-  orgName: Sondera Företagsutveckling HB
-  date: '2016-09-26'
+- orgNumber: 556675-7620
+  orgName: SNSK Gruppen AB
+  date: '2015-09-30'
 
 - orgNumber: 556775-7637
   orgName: Stockholm Marketing Group AB
@@ -827,3 +791,55 @@ organisations:
 - orgNumber: 969764-5837
   orgName: Stockholm Reklam
   date: '2015-04-09'
+
+- orgNumber: 556854-6823
+  orgName: Skandinavisk Företagsoptimering AB
+  date: '2015-04-01'
+
+- orgNumber: 556882-9641
+  orgName: Infodirekt Norden AB
+  date: '2015-02-28'
+
+- orgNumber: 556996-9693
+  orgName: Swebiz Solutions AB
+  date: '2014-11-28'
+
+- orgNumber: 516408-7552
+  orgName: Varumärkesbyrån i Sverige filial
+  date: '2014-10-23'
+
+- orgNumber: 556778-2031
+  orgName: All Business Online Sweden AB
+  date: '2014-10-22'
+
+- orgNumber: 556256-2768
+  orgName: Svensk Avtalsjuridik AB
+  date: '2014-08-20'
+
+- orgNumber: 556958-4310
+  orgName: Företagsupplysningen Sverige AB
+  date: '2014-06-25'
+
+- orgNumber: 556920-9710
+  orgName: Nordisk Mediahantering AB
+  date: '2014-05-22'
+
+- orgNumber: 969767-0421
+  orgName: NSG Media KB
+  date: '2013-11-08'
+
+- orgNumber: 669251-9281
+  orgName: EPTR European Patent & Trademark Register
+  date: '2013-09-09'
+
+- orgNumber: 556778-2031
+  orgName: All Business Online Sweden AB
+  date: '2013-06-13'
+
+- orgNumber: 556898-1368
+  orgName: Onlinekatalogen Sverige AB
+  date: '2013-03-04'
+
+- orgNumber: 556631-9025
+  orgName: Webfinder AB
+  date: '2011-10-13'
