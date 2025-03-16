@@ -24652,6 +24652,16 @@ entries:
   - religion
   web: https://kingsgarden.tv/
 
+- entry: 1231263995
+  orgName: Lost Dogs AB
+  orgNumber: 559308-5250
+  comment: null
+  categories:
+  - hundkurser
+  - hundträning
+  - nosework
+  web: https://www.lostdogs.se/
+
 - entry: 1231265537
   orgName: Mtwapa AB
   orgNumber: 559345-4803
@@ -35311,7 +35321,10 @@ entries:
   orgName: C:nas Triss
   orgNumber: 550604-6209
   comment: null
-  categories: null
+  categories:
+  - hundkurser
+  - hundsport
+  - nosework
   web: https://www.cnastriss.se/
 
 - entry: 1231817329
@@ -36054,6 +36067,16 @@ entries:
   - jazzclub
   - kulturförening
   web: https://smokeringsjazzklubb.se/
+
+- entry: 1231864982
+  orgName: Hund och jakt i Dala-Järna AB
+  orgNumber: 559380-8586
+  comment: null
+  categories:
+  - hundkurser
+  - hundsport
+  - nosework
+  web: https://www.facebook.com/p/Hund-o-jakt-i-Dala-j%C3%A4rna-AB-100083047643176/
 
 - entry: 1231865120
   orgName: Töreboda Pistolskytteklubb
@@ -56316,6 +56339,13 @@ entries:
   - kamratförening
   web: https://flottansman.se/vaxjo/
 
+- entry: 1232927515
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1232929164
   orgName: Filipstads Simklubb
   orgNumber: 872400-2418
@@ -56806,6 +56836,15 @@ entries:
   - donation
   - idrottsförening
   web: https://www.ikmakkabi.se/
+
+- entry: 1232965408
+  orgName: Nose Work Sundsvall
+  orgNumber: 802538-9134
+  comment: null
+  categories:
+  - hundsport
+  - nosework
+  web: https://www.facebook.com/groups/486963421474790/
 
 - entry: 1232965416
   orgName: Nils Bastu Spa AB
@@ -61989,6 +62028,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/IKrosso/
+
+- entry: 1233254125
+  orgName: Kolbäcks Hembygdsförening
+  orgNumber: 878001-6013
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.kolbacksbygden.se/
 
 - entry: 1233255742
   orgName: Hammarö Karateklubb
@@ -80259,6 +80306,15 @@ entries:
   - konstförening
   web: https://kalixkonst.se/
 
+- entry: 1234246005
+  orgName: Västra Härjedalens Brukshundsklubb
+  orgNumber: 802456-7912
+  comment: null
+  categories:
+  - brukshundklubb
+  - hundsport
+  web: https://brukshundklubben.se/vastra-harjedalens-brukshundklubb/
+
 - entry: 1234247276
   orgName: Lunda Hembygdsförening
   orgNumber: 817606-9766
@@ -80621,6 +80677,13 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/norrfjarden
+
+- entry: 1234272613
+  orgName: / K-Bunsik AB
+  orgNumber: 559443-1800
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1234272670
   orgName: Åtvidabergs GK
@@ -109888,6 +109951,15 @@ entries:
   - idrottsförening
   web: https://www.asperedsif.se/
 
+- entry: 1235884473
+  orgName: Arvika Brukshundklubb
+  orgNumber: 872000-7502
+  comment: null
+  categories:
+  - brukshundklubb
+  - hundsport
+  web: https://arvikabrukshundklubb.se/
+
 - entry: 1235884515
   orgName: Kulturföreningen Kilbolokalen
   orgNumber: 817606-3173
@@ -110767,6 +110839,9 @@ entries:
   comment: null
   categories:
   - djurvård
+  - hundkurser
+  - hundsport
+  - nosework
   web: https://www.tasspalatset.se/
 
 - entry: 1235931316
@@ -117864,6 +117939,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1236293070
+  orgName: Sörstafors Kolbäck FK, SK 91
+  orgNumber: 878000-3979
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.sk91.se/
 
 - entry: 1236293658
   orgName: Korpen Sickla Seniorer
@@ -128987,6 +129071,15 @@ entries:
   - idrottsförening
   web: https://www.uppsalahk.se/
 
+- entry: 1236894406
+  orgName: Ovansiljans Nose Work förening
+  orgNumber: 802548-9116
+  comment: null
+  categories:
+  - hundsport
+  - nosework
+  web: https://onwf.se/
+
 - entry: 1236895692
   orgName: Hjärt-och Lungsjukas lokalförening Örebro
   orgNumber: 875001-8437
@@ -129409,6 +129502,16 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.bikkarlskogaungdom.se/
+
+- entry: 1236908800
+  orgName: Svenska Nose Work Klubben
+  orgNumber: 802488-9340
+  comment: null
+  categories:
+  - hundsport
+  - intresseförening
+  - nosework
+  web: https://www.snwk.se/
 
 - entry: 1236908867
   orgName: HaparandaTornio Ungdomshockey Club, HTUHC

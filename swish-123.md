@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-15-rev-180849
+Revision: 2025-03-16-rev-124739
 
-Nummer: 15052
+Nummer: 15062
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2826,6 +2826,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Arvika Bordtennisklubb**
 
     123 264 78 57
+
+
+
+
+**Arvika Brukshundklubb**
+
+    123 588 44 73
 
 
 
@@ -9861,6 +9868,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 ## C
+
+**C:nas Triss**
+
+    123 181 66 77
+
+
+
 
 **Caféboden Restaurang & Catering i Sverige AB**
 
@@ -28676,6 +28690,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hund och jakt i Dala-Järna AB**
+
+    123 186 49 82
+
+
+
+
 **Hundar längtar hem**
 
     123 109 35 74 - Rumänska gatuhundar
@@ -37799,6 +37820,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kolbäcks Hembygdsförening**
+
+    123 325 41 25
+
+
+
+
 **Kollberggården / Ölands YogaStudio & Islandshästar AB**
 
     123 668 99 62
@@ -44090,6 +44118,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Los-Hamra Församling**
 
     123 652 27 67 - Kollekt
+
+
+
+
+**Lost Dogs AB**
+
+    123 126 39 95
 
 
 
@@ -50985,6 +51020,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nose Work Sundsvall**
+
+    123 296 54 08
+
+
+
+
 **Nossan Ljusfestival / Grästorps framtidsförening**
 
     123 105 37 27
@@ -52979,6 +53021,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ovanhedens Bygdegårdsförening**
 
     123 468 79 19
+
+
+
+
+**Ovansiljans Nose Work förening**
+
+    123 689 44 06
 
 
 
@@ -72813,6 +72862,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Nose Work Klubben**
+
+    123 690 88 00
+
+
+
+
 **Svenska OCD-förbundet**
 
     123 116 69 66
@@ -76040,6 +76096,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sörskogens IF**
 
     123 030 34 53
+
+
+
+
+**Sörstafors Kolbäck FK, SK 91**
+
+    123 629 30 70
 
 
 
@@ -86342,6 +86405,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västra Husby IF**
 
     123 588 50 17
+
+
+
+
+**Västra Härjedalens Brukshundsklubb**
+
+    123 424 60 05
 
 
 
