@@ -14373,6 +14373,7 @@ entries:
   comment: null
   categories:
   - anhörigorganisation
+  - förbund
   - patientförening
   web: https://neuro.se/forening/foereningar-a-oe/smaalaendska-hoeglandet/
 
@@ -38677,6 +38678,15 @@ entries:
   - ryttarförening
   web: https://vasterviksrf.se/
 
+- entry: 1232013753
+  orgName: IFK Nyköping
+  orgNumber: 819000-0672
+  comment: F09 Handboll
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/ifknykoping
+
 - entry: 1232013845
   orgName: Timrå Discgolf
   orgNumber: 802528-4343
@@ -57571,9 +57581,9 @@ entries:
   web: https://pingstkyrkansollebrunn.se/
 
 - entry: 1233025111
-  orgName: Hammarby IF Bouleförening
+  orgName: Hammarby IF
   orgNumber: 802411-2909
-  comment: null
+  comment: Boulesektionen
   categories:
   - bouleklubb
   - idrottsförening
@@ -70069,6 +70079,14 @@ entries:
   categories:
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/skaraborg/skara/
+
+- entry: 1233681475
+  orgName: Neuroförbundet Alingsås
+  orgNumber: 864001-0644
+  comment: null
+  categories:
+  - förbund
+  web: https://neuro.se/forening/foereningar-a-oe/alingsaas/
 
 - entry: 1233684677
   orgName: RSMH Hallstahammar
@@ -87864,9 +87882,9 @@ entries:
   web: https://bygdegardarna.se/ors-krokfors/
 
 - entry: 1234699914
-  orgName: Ulricehamns IF - Boule
+  orgName: Ulricehamns IF
   orgNumber: 865500-3385
-  comment: null
+  comment: Boulesektionen
   categories:
   - bouleklubb
   - idrottsförening
@@ -88259,6 +88277,15 @@ entries:
   - hundsport
   - kennelklubb
   web: https://www.tlkk.hundpoolen.se/
+
+- entry: 1234714548
+  orgName: Segelklubben Måsungen
+  orgNumber: 814000-2737
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://www.skm.nu/
 
 - entry: 1234714556
   orgName: Svenska Röda Korset
@@ -106067,6 +106094,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/katrineholmsbygden
 
+- entry: 1235689898
+  orgName: Föreningen Traskatterna
+  orgNumber: 802547-8291
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.traskatterna.se/
+
 - entry: 1235690037
   orgName: Team Rynkeby
   orgNumber: 802534-5938
@@ -112642,6 +112678,7 @@ entries:
   comment: null
   categories:
   - anhörigorganisation
+  - förbund
   - patientförening
   web: https://neuro.se/
 
@@ -119682,6 +119719,7 @@ entries:
   comment: null
   categories:
   - anhörigorganisation
+  - förbund
   - patientförening
   web: https://neuro.se/forening/foereningar-a-oe/varberg-falkenberg/
 
@@ -120992,6 +121030,7 @@ entries:
   comment: null
   categories:
   - anhörigorganisation
+  - förbund
   - patientförening
   web: https://neuro.se/forening/foereningar-a-oe/neuro-lundabygden/
 
@@ -126700,6 +126739,14 @@ entries:
   - hästsport
   - ridskola
   web: https://www.slatternegard.se/
+
+- entry: 1236789671
+  orgName: Neuroförbundet Kronoberg
+  orgNumber: 829501-6979
+  comment: null
+  categories:
+  - förbund
+  web: https://neuro.se/forening/foereningar-a-oe/kronoberg/
 
 - entry: 1236789721
   orgName: BK Atlas

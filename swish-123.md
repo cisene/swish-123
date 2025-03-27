@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-25-rev-201135
+Revision: 2025-03-27-rev-200603
 
-Nummer: 15171
+Nummer: 15176
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -21862,6 +21862,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Traskatterna**
+
+    123 568 98 98
+
+
+
+
 **Föreningen Träibatn**
 
     123 501 61 59
@@ -25822,9 +25829,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Hammarby IF Bouleförening**
+**Hammarby IF**
 
-    123 302 51 11
+    123 302 51 11 - Boulesektionen
 
 
 
@@ -31677,6 +31684,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 126 63 86 - P10
 
     123 151 82 81 - P13
+
+    123 201 37 53 - F09 Handboll
 
     123 251 24 08 - P10
 
@@ -49823,6 +49832,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Neuroförbundet Alingsås**
+
+    123 368 14 75
+
+
+
+
 **Neuroförbundet Arvika Västra Värmland**
 
     123 604 15 86
@@ -49840,6 +49856,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Neuroförbundet Kalmar**
 
     123 050 02 80
+
+
+
+
+**Neuroförbundet Kronoberg**
+
+    123 678 96 71
 
 
 
@@ -62558,6 +62581,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SECNET - Samlingsplatsen för Sveriges säkerhetsproffs**
 
     123 518 86 02
+
+
+
+
+**Segelklubben Måsungen**
+
+    123 471 45 48
 
 
 
@@ -81780,14 +81810,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 440 82 90 - Skidsektionen
 
+    123 469 99 14 - Boulesektionen
+
     123 490 24 33 - Discgolf
-
-
-
-
-**Ulricehamns IF - Boule**
-
-    123 469 99 14
 
 
 
