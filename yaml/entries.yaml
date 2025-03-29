@@ -12106,7 +12106,7 @@ entries:
   web: https://nordsvensken.org/
 
 - entry: 1230631440
-  orgName: Bostadsrättsföreningen Tegen
+  orgName: Bostadsrättsföreningen Tegen i Mölndal
   orgNumber: 752000-1426
   comment: null
   categories:
@@ -13396,6 +13396,14 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1230711754
+  orgName: Bostadsrättsföreningen Ingenjören i Karlstad
+  orgNumber: 773200-1347
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/varmland/brf/ingenjoren/
 
 - entry: 1230712208
   orgName: Svenska med Baby
@@ -15124,6 +15132,14 @@ entries:
   - supporterklubb
   web: https://www.svenskalag.se/NHSupport
 
+- entry: 1230795435
+  orgName: Svenska Turistföreningen
+  orgNumber: 875001-8718
+  comment: Närke Bergslagen Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-narke-bergslagen/
+
 - entry: 1230795567
   orgName: Grosshamns Fältstation
   orgNumber: 802474-0105
@@ -16526,6 +16542,15 @@ entries:
   - hundsport
   - ungdomsverksamhet
   web: https://uppsalahu.se/
+
+- entry: 1230854232
+  orgName: Malmö Dövas Förening Svenske
+  orgNumber: 846001-3405
+  comment: null
+  categories:
+  - döv
+  - hörselnedsättning
+  web: https://www.svenske.se/
 
 - entry: 1230854281
   orgName: Demensföreningen i Robertsfors
@@ -18846,6 +18871,14 @@ entries:
   - musikförening
   web: https://musikilinkoping.se/
 
+- entry: 1230943217
+  orgName: Svenska Turistföreningen
+  orgNumber: 825002-7029
+  comment: Norrköping Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-norrkoping/
+
 - entry: 1230943969
   orgName: Bränntorps Vägförening
   orgNumber: 717902-3895
@@ -20607,6 +20640,14 @@ entries:
   categories:
   - catering
   web: https://happypicnic.se/
+
+- entry: 1231048727
+  orgName: Bostadsrättsföreningen Jordabalken
+  orgNumber: 716438-9442
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/skane/brf/jordabalken/
 
 - entry: 1231048966
   orgName: Enköpings HF
@@ -23409,6 +23450,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://aktivaseniorer.weebly.com/
+
+- entry: 1231191022
+  orgName: Svenska Turistföreningen
+  orgNumber: 802536-9151
+  comment: Marks Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-mark/
 
 - entry: 1231192228
   orgName: Ason Outdoor AB
@@ -27405,6 +27454,14 @@ entries:
   - idrottsförening
   web: null
 
+- entry: 1231394600
+  orgName: Svenska Turistföreningen
+  orgNumber: 814401-0447
+  comment: Roslagens Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-roslagens-lokalavdelning/
+
 - entry: 1231394949
   orgName: Köpings Nya Trafikskola AB
   orgNumber: 559186-7675
@@ -27481,6 +27538,14 @@ entries:
   categories:
   - heminredning
   web: https://helenalyth.se/
+
+- entry: 1231403278
+  orgName: Bostadsrättsföreningen Valhall nr 218 i Haninge
+  orgNumber: 716417-6658
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/stockholm/brf/valhall/
 
 - entry: 1231403625
   orgName: Olofströms Tennisklubb
@@ -32327,6 +32392,14 @@ entries:
   - patientförening
   web: https://ocdstockholm.se/
 
+- entry: 1231652502
+  orgName: Bostadsrättsföreningen Asplunden i Solna
+  orgNumber: 769614-4489
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/stockholm/brf/asplunden/
+
 - entry: 1231655570
   orgName: Slottsskogsobservatoriets Vänner
   orgNumber: 857204-8075
@@ -32642,6 +32715,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/fyrkloverngidea/
+
+- entry: 1231669126
+  orgName: Svenska Turistföreningen
+  orgNumber: 894002-3438
+  comment: Umeå Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-umeregionen/
 
 - entry: 1231669159
   orgName: Slöseriombudsmannen, SlösO / Skattebetalarnas Förening
@@ -34246,6 +34327,7 @@ entries:
   orgNumber: 814000-6613
   comment: null
   categories:
+  - folkets hus
   - förening
   web: https://www.boofolketshus.se/
 
@@ -40033,6 +40115,14 @@ entries:
   - hästsport
   web: https://frillegarden.se/
 
+- entry: 1232083632
+  orgName: Svenska Turistföreningen
+  orgNumber: 802445-8146
+  comment: Lerum-Partille Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-lerum-partille/
+
 - entry: 1232084283
   orgName: Team Rynkeby
   orgNumber: 802535-9137
@@ -45625,6 +45715,16 @@ entries:
   - hundsport
   web: https://www.klickerklok.se/
 
+- entry: 1232317915
+  orgName: Borkhults Festplats Förening
+  orgNumber: 802444-0862
+  comment: null
+  categories:
+  - festival
+  - festplatsförening
+  - intresseförening
+  web: https://borkhultsfestplats.se/
+
 - entry: 1232318210
   orgName: Ljungbyheds IF
   orgNumber: 837600-1023
@@ -48375,6 +48475,15 @@ entries:
   - ishockeyklubb
   web: https://www.laget.se/PHC/
 
+- entry: 1232479723
+  orgName: Mälaröarnas Ornitologiska Förening
+  orgNumber: 802460-8534
+  comment: null
+  categories:
+  - fågelskådning
+  - ornitologi
+  web: https://mof-ekero.se/
+
 - entry: 1232487122
   orgName: Klippans Pistolklubb
   orgNumber: 837600-7301
@@ -50344,6 +50453,14 @@ entries:
   - intresseförening
   - musikförening
   web: https://www.facebook.com/brukskultur
+
+- entry: 1232627404
+  orgName: Svenska Turistföreningen
+  orgNumber: 864502-1158
+  comment: Borås Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-boras/
 
 - entry: 1232627966
   orgName: Sveriges Domareförbund
@@ -59249,7 +59366,7 @@ entries:
   web: https://listenerswithoutborders.org/
 
 - entry: 1233059821
-  orgName: Bostadsrättsföreningen Furan
+  orgName: Bostadsrättsföreningen Furan i Sandviken
   orgNumber: 785500-0662
   comment: null
   categories:
@@ -64443,6 +64560,14 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://www.ljuset.se/
+
+- entry: 1233366655
+  orgName: Bostadsrättsföreningen Främby Gård i Falun
+  orgNumber: 716412-7230
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/malardalarna/brf/Framby_gard/
 
 - entry: 1233366762
   orgName: Norrfjärdens Församling
@@ -71239,6 +71364,14 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/HaljarpsSK/
 
+- entry: 1233707015
+  orgName: Bostadsrättsföreningen Asplunden i Solna
+  orgNumber: 769614-4489
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/stockholm/brf/asplunden/
+
 - entry: 1233707783
   orgName: Skallsjö Hembygds-och Fornminnesförening
   orgNumber: 863500-2499
@@ -76646,6 +76779,14 @@ entries:
   - orienteringsklubb
   web: https://www.svenskalag.se/okkare
 
+- entry: 1233999026
+  orgName: Svenska Turistföreningen
+  orgNumber: 802495-9283
+  comment: Norra Öresund Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-norra-oresund/
+
 - entry: 1233999323
   orgName: Piteå IF Fotbollsförening
   orgNumber: 802505-8408
@@ -81009,6 +81150,14 @@ entries:
   - rödakorset
   web: https://www.rodakorset.se/ort/kronoberg/vaxjo-kommun/
 
+- entry: 1234255709
+  orgName: Svenska Turistföreningen
+  orgNumber: 802468-0848
+  comment: Dala-Bergslagen Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-dala-bergslagen/
+
 - entry: 1234256319
   orgName: Enskede Sportfiskeklubb
   orgNumber: 802009-2345
@@ -84437,6 +84586,14 @@ entries:
   - naturbruk
   web: https://rbybiodlare.blogspot.com/
 
+- entry: 1234472163
+  orgName: Svenska Turistföreningen
+  orgNumber: 829501-6060
+  comment: Värend Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-varend/
+
 - entry: 1234472387
   orgName: Team Rynkeby
   orgNumber: 802534-5938
@@ -84542,6 +84699,14 @@ entries:
   categories:
   - podcast
   web: https://shows.acast.com/idagihistorien/episodes
+
+- entry: 1234479093
+  orgName: Bostadsrättsföreningen Käpplunda i Skövde
+  orgNumber: 766600-2949
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/ng/brf/kapplunda/
 
 - entry: 1234479408
   orgName: Jordan konsultation / Jordanos Yemane
@@ -88762,6 +88927,7 @@ entries:
   orgNumber: 802000-7046
   comment: null
   categories:
+  - döv
   - hörselnedsättning
   - intresseförening
   web: https://stockholmsdf.se/
@@ -89646,6 +89812,14 @@ entries:
   - idrottsförening
   - sportskytteklubb
   web: https://www.svenskalag.se/bjarkeskf
+
+- entry: 1234739181
+  orgName: Svenska Turistföreningen
+  orgNumber: 802432-2219
+  comment: Södertörn Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-sodertorn/
 
 - entry: 1234739199
   orgName: PRO Vaggeryd
@@ -90913,6 +91087,14 @@ entries:
   - motorklubb
   - motorsport
   web: https://www.lyckselemk.se/
+
+- entry: 1234838165
+  orgName: Svenska Turistföreningen
+  orgNumber: 802003-5955
+  comment: Kungsleden Gåvor
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/
 
 - entry: 1234838256
   orgName: Rödöns Jaktskytteklubb
@@ -101302,6 +101484,14 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-halland/samorganisationer/samorganisation-laholm/foreningar/laholm.html
 
+- entry: 1235394523
+  orgName: Svenska Turistföreningen
+  orgNumber: 878001-1915
+  comment: Västerås/Aroskretsen Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-vasteras/
+
 - entry: 1235394606
   orgName: Fliseryds Jaktskytteklubb
   orgNumber: 802452-7502
@@ -102498,6 +102688,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/aik-atlas
 
+- entry: 1235447990
+  orgName: Svenska Turistföreningen
+  orgNumber: 846003-4336
+  comment: Sydvästra Skåne Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-sydvastra-skane/
+
 - entry: 1235450572
   orgName: Friskis & Svettis Kiruna
   orgNumber: 802436-7669
@@ -102634,7 +102832,7 @@ entries:
   web: https://www.baptistkyrkan.se/
 
 - entry: 1235455803
-  orgName: Bostadsrättsföreningen Sandvik
+  orgName: Bostadsrättsföreningen Sandvik i Minneberg
   orgNumber: 716418-6889
   comment: null
   categories:
@@ -108319,6 +108517,14 @@ entries:
   - kvinnligt nätverk
   web: https://www.innerwheel.se/
 
+- entry: 1235736459
+  orgName: Bostadsrättsföreningen Mellangården i Partille
+  orgNumber: 716408-5636
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/goteborg/brf/mellangarden/
+
 - entry: 1235736988
   orgName: PILAB, Pär-Inge Larsson AB
   orgNumber: 556860-6502
@@ -111030,6 +111236,16 @@ entries:
   - korpenförening
   web: https://www.korpen.se/korpenvannas
 
+- entry: 1235892021
+  orgName: Feskevigas Badförening
+  orgNumber: 802431-9074
+  comment: null
+  categories:
+  - badförening
+  - badkultur
+  - intresseförening
+  web: https://www.facebook.com/p/Feskevigas-badf%C3%B6rening-100077065757151/
+
 - entry: 1235892492
   orgName: Björnekulla-Västra Broby Församling
   orgNumber: 252002-7737
@@ -112924,7 +113140,8 @@ entries:
   orgName: Bostadsrättsföreningen Nunnan i Stockholm
   orgNumber: 716417-8100
   comment: null
-  categories: null
+  categories:
+  - bostadsrättsförening
   web: https://www.hsb.se/stockholm/brf/nunnan/
 
 - entry: 1235999453
@@ -113334,6 +113551,14 @@ entries:
   categories:
   - scoutkår
   web: https://hasselby.scout.se/
+
+- entry: 1236015523
+  orgName: Bostadsrättsföreningen Munken i Stockholm
+  orgNumber: 716417-8027
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/stockholm/brf/munken/
 
 - entry: 1236017875
   orgName: Broakulla Folkets Hus
@@ -113918,6 +114143,14 @@ entries:
   - bowlingklubb
   - idrottsförening
   web: https://www.svenskalag.se/uppsalabc90
+
+- entry: 1236053573
+  orgName: Bostadsrättsföreningen Hilleröd i Malmö
+  orgNumber: 746000-5619
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/malmo/brf/hillerod/
 
 - entry: 1236055743
   orgName: Österhaninge Skytteförening
@@ -115924,6 +116157,14 @@ entries:
   - intresseförening
   - yrkesförening
   web: https://dfs.se/
+
+- entry: 1236152177
+  orgName: Svenska Turistföreningen
+  orgNumber: 802003-5955
+  comment: null
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/
 
 - entry: 1236152425
   orgName: Team Rynkeby
@@ -118018,6 +118259,14 @@ entries:
   - ridklubb
   web: https://vasbyridklubb.se/
 
+- entry: 1236249619
+  orgName: Svenska Turistföreningen
+  orgNumber: 846003-4336
+  comment: Sydvästra Skåne Lokalavdelning
+  categories:
+  - turistförening
+  web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-sydvastra-skane/
+
 - entry: 1236249650
   orgName: Team Rynkeby
   orgNumber: 802533-7794
@@ -119162,6 +119411,14 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.svenskalag.se/nik
+
+- entry: 1236313779
+  orgName: Bostadsrättsföreningen Stenkumlet i Sandviken
+  orgNumber: 716413-6603
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/sodra-norrland/brf/stenkumlet/
 
 - entry: 1236313829
   orgName: Barmhärtighetens Hus
@@ -122338,6 +122595,14 @@ entries:
   - intresseförening
   web: https://alfhildagrell.se/
 
+- entry: 1236495675
+  orgName: Bostadsrättsföreningen Silversmeden i Malmö
+  orgNumber: 746000-6021
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/malmo/brf/silversmeden/
+
 - entry: 1236495790
   orgName: Klubb Söderträffen
   orgNumber: 802405-3483
@@ -123303,7 +123568,7 @@ entries:
   web: https://www.cancerfonden.se/nyhet/karin-har-samlat-in-over-400-000-till-forskningen
 
 - entry: 1236532501
-  orgName: Bostadsrättsföreningen Stabbygårdarna
+  orgName: Bostadsrättsföreningen Stabbygårdarna i Uppsala
   orgNumber: 717600-3171
   comment: null
   categories:
@@ -124282,6 +124547,14 @@ entries:
   - golfbana
   - golfklubb
   web: https://www.granobygdensgk.se/
+
+- entry: 1236588974
+  orgName: Bostadsrättsföreningen Hyveln i Vänersborg
+  orgNumber: 762500-2303
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/ng/brf/hyveln/
 
 - entry: 1236590566
   orgName: Gävle Församling
@@ -127761,6 +128034,14 @@ entries:
   - kennel
   web: https://rossmix.se/
 
+- entry: 1236766901
+  orgName: St Olavsloppet ideella förening
+  orgNumber: 802506-4414
+  comment: null
+  categories:
+  - löpartävling
+  web: https://stolavsloppet.no/
+
 - entry: 1236766992
   orgName: Bergsjö Församling
   orgNumber: 252004-7396
@@ -130028,6 +130309,15 @@ entries:
   - bågskytteklubb
   - idrottsförening
   web: https://skarabagskytteklubb.se/
+
+- entry: 1236886261
+  orgName: VISIR Ideell Förening
+  orgNumber: 802530-2764
+  comment: null
+  categories:
+  - ideell förening
+  - intresseförening
+  web: https://www.visirofficial.com/
 
 - entry: 1236886519
   orgName: Kristinehamns Artilleriförening

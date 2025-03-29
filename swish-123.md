@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-27-rev-200603
+Revision: 2025-03-29-rev-142658
 
-Nummer: 15176
+Nummer: 15212
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -6612,6 +6612,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Borkhults Festplats Förening**
+
+    123 231 79 15
+
+
+
+
 **Borlänge Bandy**
 
     123 173 32 11
@@ -7066,6 +7073,10 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Bostadsrättsföreningen Asplunden i Solna**
 
+    123 165 25 02
+
+    123 370 70 15
+
     123 516 16 33
 
 
@@ -7225,7 +7236,14 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bostadsrättsföreningen Furan**
+**Bostadsrättsföreningen Främby Gård i Falun**
+
+    123 336 66 55
+
+
+
+
+**Bostadsrättsföreningen Furan i Sandviken**
 
     123 305 98 21
 
@@ -7325,9 +7343,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Hilleröd i Malmö**
+
+    123 605 35 73
+
+
+
+
 **Bostadsrättsföreningen Hjälmö i Stockholm**
 
     123 278 00 54
+
+
+
+
+**Bostadsrättsföreningen Hyveln i Vänersborg**
+
+    123 658 89 74
 
 
 
@@ -7363,6 +7395,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Ingebäckslyckan 1**
 
     123 690 15 57
+
+
+
+
+**Bostadsrättsföreningen Ingenjören i Karlstad**
+
+    123 071 17 54
+
+
+
+
+**Bostadsrättsföreningen Jordabalken**
+
+    123 104 87 27
 
 
 
@@ -7418,6 +7464,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Kullasund i Vaxholm**
 
     123 180 77 91
+
+
+
+
+**Bostadsrättsföreningen Käpplunda i Skövde**
+
+    123 447 90 93
 
 
 
@@ -7506,6 +7559,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Mellangården i Partille**
+
+    123 573 64 59
+
+
+
+
 **Bostadsrättsföreningen Minören 2 i Vaxholm**
 
     123 169 91 80
@@ -7516,6 +7576,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Mossen i Tidaholm**
 
     123 603 34 50
+
+
+
+
+**Bostadsrättsföreningen Munken i Stockholm**
+
+    123 601 55 23
 
 
 
@@ -7544,6 +7611,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Norrköpingshus nr 32**
 
     123 433 12 94
+
+
+
+
+**Bostadsrättsföreningen Nunnan i Stockholm**
+
+    123 599 66 99
 
 
 
@@ -7639,7 +7713,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bostadsrättsföreningen Sandvik**
+**Bostadsrättsföreningen Sandvik i Minneberg**
 
     123 545 58 03
 
@@ -7663,6 +7737,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Siljan i Stockholm**
 
     123 370 35 68
+
+
+
+
+**Bostadsrättsföreningen Silversmeden i Malmö**
+
+    123 649 56 75
 
 
 
@@ -7709,7 +7790,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bostadsrättsföreningen Stabbygårdarna**
+**Bostadsrättsföreningen Stabbygårdarna i Uppsala**
 
     123 653 25 01
 
@@ -7719,6 +7800,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Staven**
 
     123 323 27 09
+
+
+
+
+**Bostadsrättsföreningen Stenkumlet i Sandviken**
+
+    123 631 37 79
 
 
 
@@ -7814,7 +7902,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bostadsrättsföreningen Tegen**
+**Bostadsrättsföreningen Tegen i Mölndal**
 
     123 063 14 40
 
@@ -7873,6 +7961,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Ugnen i Helsingborg**
 
     123 142 41 42
+
+
+
+
+**Bostadsrättsföreningen Valhall nr 218 i Haninge**
+
+    123 140 32 78
 
 
 
@@ -17438,6 +17533,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fenix Skärmflygklubb**
 
     123 529 99 38
+
+
+
+
+**Feskevigas Badförening**
+
+    123 589 20 21
 
 
 
@@ -46113,6 +46215,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malmö Dövas Förening Svenske**
+
+    123 085 42 32
+
+
+
+
 **Malmö E-sportförening**
 
     123 264 91 19
@@ -49034,6 +49143,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 224 21 47
 
     123 420 41 78
+
+
+
+
+**Mälaröarnas Ornitologiska Förening**
+
+    123 247 97 23
 
 
 
@@ -68463,6 +68579,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**St Olavsloppet ideella förening**
+
+    123 676 69 01
+
+
+
+
 **St:Paulus av Korset Katolska Församling**
 
     123 454 36 25
@@ -74278,6 +74401,108 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Sällskapet för Nykterhet och Folkbildning**
 
     123 296 85 50
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 483 81 65 - Kungsleden Gåvor
+
+    123 615 21 77
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 473 91 81 - Södertörn Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 208 36 32 - Lerum-Partille Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 425 57 09 - Dala-Bergslagen Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 399 90 26 - Norra Öresund Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 119 10 22 - Marks Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 139 46 00 - Roslagens Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 094 32 17 - Norrköping Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 447 21 63 - Värend Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 544 79 90 - Sydvästra Skåne Lokalavdelning
+
+    123 624 96 19 - Sydvästra Skåne Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 262 74 04 - Borås Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 079 54 35 - Närke Bergslagen Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 539 45 23 - Västerås/Aroskretsen Lokalavdelning
+
+
+
+
+**Svenska Turistföreningen**
+
+    123 166 91 26 - Umeå Lokalavdelning
 
 
 
@@ -85009,6 +85234,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Visions Pensionärsförening i Kalmar**
 
     123 046 79 51
+
+
+
+
+**VISIR Ideell Förening**
+
+    123 688 62 61
 
 
 
