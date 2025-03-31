@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-30-rev-200635
+Revision: 2025-03-31-rev-195753
 
-Nummer: 15252
+Nummer: 15281
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -7159,6 +7159,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Bovieran i Växjö**
+
+    123 521 01 17
+
+
+
+
 **Bostadsrättsföreningen Britta-Lena i Kungsbacka**
 
     123 620 28 99
@@ -7218,6 +7225,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Djingis Khan i Lund**
 
     123 649 69 88
+
+
+
+
+**Bostadsrättsföreningen Drejaren i Västerås**
+
+    123 382 33 58
+
+
+
+
+**Bostadsrättsföreningen Drevvikens Strand**
+
+    123 646 76 58
 
 
 
@@ -7320,6 +7341,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Gjutaren**
+
+    123 110 09 40
+
+
+
+
 **Bostadsrättsföreningen Gjutarmästaren i Järfälla**
 
     123 437 28 27
@@ -7334,6 +7362,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Granen i Järfälla**
+
+    123 262 47 24
+
+
+
+
+**Bostadsrättsföreningen Grenadjären 1 i Linköping**
+
+    123 356 13 88
+
+
+
+
 **Bostadsrättsföreningen Grindstugan i Stockholm**
 
     123 227 47 44
@@ -7344,6 +7386,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Guldringen**
 
     123 143 81 34
+
+
+
+
+**Bostadsrättsföreningen Gullmaren Lysekil 1**
+
+    123 543 82 47
 
 
 
@@ -7420,6 +7469,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Hemfjällsbyn**
+
+    123 383 12 94
+
+
+
+
 **Bostadsrättsföreningen Hemmet 17**
 
     123 338 78 75
@@ -7448,6 +7504,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Holmen Sickla Kaj**
+
+    123 604 30 12
+
+
+
+
+**Bostadsrättsföreningen Hornsgatan-Hornsbruksgatan**
+
+    123 022 19 11
+
+
+
+
 **Bostadsrättsföreningen Hyveln i Vänersborg**
 
     123 658 89 74
@@ -7458,6 +7528,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Hägerstenshamnen nr 2**
 
     123 669 29 33
+
+
+
+
+**Bostadsrättsföreningen Härden 107 i Hammarbyhöjden**
+
+    123 632 56 74
 
 
 
@@ -7507,6 +7584,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Jämlikheten i Malmö**
 
     123 439 87 56
+
+
+
+
+**Bostadsrättsföreningen Kantdiket i Stockholm**
+
+    123 085 01 98
 
 
 
@@ -7566,9 +7650,37 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Kråkängen**
+
+    123 032 88 49
+
+
+
+
 **Bostadsrättsföreningen Kullasund i Vaxholm**
 
     123 180 77 91
+
+
+
+
+**Bostadsrättsföreningen Kuratorn i Umeå**
+
+    123 642 75 04
+
+
+
+
+**Bostadsrättsföreningen Kvarnskogen**
+
+    123 519 14 81
+
+
+
+
+**Bostadsrättsföreningen Kvarteret Semlan**
+
+    123 698 22 50
 
 
 
@@ -7587,9 +7699,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Lavetten Örnen i Sundbyberg**
+
+    123 457 27 98
+
+
+
+
 **Bostadsrättsföreningen Limnologen 1**
 
     123 225 29 63
+
+
+
+
+**Bostadsrättsföreningen Limnologen 2 i Växjö**
+
+    123 133 52 72
 
 
 
@@ -7653,6 +7779,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Lövsmygen 1**
 
     123 026 54 96
+
+
+
+
+**Bostadsrättsföreningen Majhill nr 648 i Solna**
+
+    123 464 77 23
 
 
 
@@ -7734,9 +7867,44 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Norrmalms Trädgårdsstad**
+
+    123 274 77 31
+
+
+
+
+**Bostadsrättsföreningen Norrskenet i Vällingby**
+
+    123 499 37 47
+
+
+
+
 **Bostadsrättsföreningen Nunnan i Stockholm**
 
     123 599 66 99
+
+
+
+
+**Bostadsrättsföreningen Nya Rio**
+
+    123 016 48 89
+
+
+
+
+**Bostadsrättsföreningen Närdingen 1**
+
+    123 285 43 39
+
+
+
+
+**Bostadsrättsföreningen Palatinen i Nacka**
+
+    123 669 94 17
 
 
 
@@ -7902,6 +8070,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Sjövikskajen**
+
+    123 380 30 38
+
+
+
+
 **Bostadsrättsföreningen Skarpöhöjden i Nacka**
 
     123 258 80 93
@@ -7937,6 +8112,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Skönstaholm**
+
+    123 075 74 19
+
+
+
+
 **Bostadsrättsföreningen Soldaten i Västerås**
 
     123 618 91 95
@@ -7968,6 +8150,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Stjärnhusen i Motala**
 
     123 691 39 90
+
+
+
+
+**Bostadsrättsföreningen Stockholms Garnison 1 & 2**
+
+    123 527 53 59
 
 
 
@@ -8070,6 +8259,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Tempelekot**
+
+    123 604 00 59
+
+
+
+
 **Bostadsrättsföreningen Tinget i Nacka**
 
     123 331 86 72
@@ -8164,6 +8360,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Vintervägen**
 
     123 602 70 98
+
+
+
+
+**Bostadsrättsföreningen Voxnan i Bagarmossen**
+
+    123 401 85 52
 
 
 
@@ -68779,7 +68982,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**St Olavsloppet ideella förening**
+**St Olavsloppet Ideella Förening**
 
     123 676 69 01
 
