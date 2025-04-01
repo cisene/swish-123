@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-03-31-rev-195753
+Revision: 2025-04-01-rev-100659
 
-Nummer: 15281
+Nummer: 15294
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -125,6 +125,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **A Demand For Action**
 
     123 545 72 70
+
+
+
+
+**A sip of joy AB**
+
+    123 190 05 70
 
 
 
@@ -7441,6 +7448,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Göteborgshus 38 i Hisings Kärra**
+
+    123 569 49 14
+
+
+
+
+**Bostadsrättsföreningen Göteborgshus nr 34 i Västra Frölunda**
+
+    123 034 11 98
+
+
+
+
 **Bostadsrättsföreningen Hagaterrassen 1 i Stockholm**
 
     123 152 09 64
@@ -7574,6 +7595,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Isrosen**
+
+    123 622 37 13
+
+
+
+
 **Bostadsrättsföreningen Jordabalken**
 
     123 104 87 27
@@ -7671,6 +7699,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Kvarnhjulet i Bromma**
+
+    123 324 42 58
+
+
+
+
 **Bostadsrättsföreningen Kvarnskogen**
 
     123 519 14 81
@@ -7710,6 +7745,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 225 29 63
 
+    123 681 90 72
+
 
 
 
@@ -7720,7 +7757,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bostadsrättsföreningen Lindöporten 2**
+**Bostadsrättsföreningen Lindöporten 2 i Norrköping**
 
     123 198 32 20
 
@@ -7790,6 +7827,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Malmöhus 28 i Tygelsjö**
+
+    123 367 10 70
+
+
+
+
+**Bostadsrättsföreningen Malmöhus nr 11**
+
+    123 255 63 63
+
+
+
+
 **Bostadsrättsföreningen Marmorn i Stockholm**
 
     123 665 26 06
@@ -7849,6 +7900,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Nackspegeln**
 
     123 003 87 86
+
+
+
+
+**Bostadsrättsföreningen Nedre Utkiken 1 i Tyresö**
+
+    123 094 40 41
 
 
 
@@ -7979,6 +8037,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Röda Höja**
+
+    123 108 33 93
+
+
+
+
 **Bostadsrättsföreningen Rödshöjden i Strömstad**
 
     123 458 30 01
@@ -8080,6 +8145,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Skarpöhöjden i Nacka**
 
     123 258 80 93
+
+
+
+
+**Bostadsrättsföreningen Skogalundsklippan i Nacka**
+
+    123 472 86 89
 
 
 
@@ -8241,6 +8313,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Sörbyängen i Örebro**
 
     123 649 99 66
+
+
+
+
+**Bostadsrättsföreningen Sörgården i Göteborg**
+
+    123 613 39 04
 
 
 
@@ -8409,6 +8488,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Ängen i Mölndal**
 
     123 159 73 84
+
+
+
+
+**Bostadsrättsföreningen Äppelträdet**
+
+    123 249 41 77
 
 
 
@@ -63712,9 +63798,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Silverkatts katthus / Kicki Lovén**
+**Silverkatts katthus, KKS Syd / Kicki Lovén**
 
-    123 293 39 76
+    123 293 39 76 - Eslöv
 
 
 
