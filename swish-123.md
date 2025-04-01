@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-01-rev-100659
+Revision: 2025-04-01-rev-201219
 
-Nummer: 15294
+Nummer: 15303
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2461,7 +2461,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Apotekets konstförening**
+**Apotekets Konstförening**
 
     123 383 57 09
 
@@ -7250,6 +7250,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Dykärret 23**
+
+    123 109 84 17
+
+
+
+
 **Bostadsrättsföreningen Ekbacken i Högdalen**
 
     123 266 58 34
@@ -7644,6 +7651,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Klippan Sockerbruket**
+
+    123 222 82 37
+
+
+
+
 **Bostadsrättsföreningen Kolarängen**
 
     123 074 33 28 - Gästrum Teknikvägen
@@ -7716,6 +7730,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Kvarteret Semlan**
 
     123 698 22 50
+
+
+
+
+**Bostadsrättsföreningen Källängsmården i Lidingö**
+
+    123 660 06 96
 
 
 
@@ -8509,6 +8530,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Åkanten i Lerum**
 
     123 608 75 48
+
+
+
+
+**Bostadsrättsföreningen Ånghästen**
+
+    123 623 60 12
 
 
 
@@ -19350,6 +19378,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Framtidshem Bostadsrättsförening nr 1 i Motala**
+
+    123 312 35 77
+
+
+
+
 **Fredag Hela Veckan AB**
 
     123 141 05 47
@@ -30133,6 +30168,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Häradsbygdens Sportsällskap**
 
     123 131 46 73
+
+
+
+
+**Härjedalens Kommun**
+
+    123 149 88 64 - Skidstadion Sveg spåravgift
 
 
 
@@ -46867,6 +46909,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malmö Uppfinnarklubb**
+
+    123 200 05 29 - Havsprinsen
+
+
+
+
 **Malmölistan**
 
     123 284 99 09
@@ -62069,7 +62118,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Saab Tjänstemannapensionärer i Linköping**
+**Saab Tjänstemannapensionärer i Linköping, STPL**
 
     123 579 61 80
 
@@ -69306,6 +69355,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Starrkärrs Bygdegårdsförening**
+
+    123 080 39 81
+
+
+
+
 **StartupTools Europe AB**
 
     123 624 94 37
@@ -72480,6 +72536,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Supercenter Soccer / Supersports International AB**
 
     123 362 40 53
+
+
+
+
+**Supergympan IF**
+
+    123 189 76 85
 
 
 

@@ -15266,6 +15266,14 @@ entries:
   - sportskytteklubb
   web: https://www.svenskalag.se/frillesasssk
 
+- entry: 1230803981
+  orgName: Starrkärrs Bygdegårdsförening
+  orgNumber: 763500-1535
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://www.starrkarrsbygdegard.se/
+
 - entry: 1230804021
   orgName: Ölmstad IS
   orgNumber: 826000-4901
@@ -21650,6 +21658,14 @@ entries:
   categories:
   - förening
   web: https://vadtorp.bokamera.se/
+
+- entry: 1231098417
+  orgName: Bostadsrättsföreningen Dykärret 23
+  orgNumber: 769604-0018
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://dykarret23.se/
 
 - entry: 1231099530
   orgName: DalaMitts Nose Work Förening, DNWF
@@ -29436,6 +29452,14 @@ entries:
   - restaurant
   web: https://kostalodge.se/
 
+- entry: 1231498864
+  orgName: Härjedalens Kommun
+  orgNumber: 212000-2510
+  comment: Skidstadion Sveg spåravgift
+  categories:
+  - kommun
+  web: https://www.herjedalen.se/
+
 - entry: 1231498906
   orgName: Gislaveds Pastorat
   orgNumber: 252003-4725
@@ -36901,6 +36925,15 @@ entries:
   - skytteklubb
   web: https://www.ovikjsk.se/
 
+- entry: 1231897685
+  orgName: Supergympan IF
+  orgNumber: 878500-6944
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.laget.se/SupergympanIF/
+
 - entry: 1231897776
   orgName: Sölvesborgs Cykel & Sportklubb SCSK
   orgNumber: 802470-9258
@@ -38854,6 +38887,15 @@ entries:
   - ishockeyklubb
   web: https://www.leksandsif.se/
 
+- entry: 1232000529
+  orgName: Malmö Uppfinnarklubb
+  orgNumber: 802530-7334
+  comment: Havsprinsen
+  categories:
+  - intresseförening
+  - uppfinnarklubb
+  web: http://havsprinsen.se/
+
 - entry: 1232001519
   orgName: Lagga Långhundra BK
   orgNumber: 817601-4838
@@ -39317,6 +39359,7 @@ entries:
   orgNumber: 802517-4056
   comment: null
   categories:
+  - mediaproduktion
   - religion
   - streamingtjänst
   web: https://www.tbnplay.se/
@@ -43102,6 +43145,14 @@ entries:
   - minnesinsamling
   - psykisk hälsa
   web: https://www.aldrigensam.com/
+
+- entry: 1232228237
+  orgName: Bostadsrättsföreningen Klippan Sockerbruket
+  orgNumber: 769612-0687
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.klippansockerbruket.se/
 
 - entry: 1232228294
   orgName: Sveriges Kattklubbars Riksförbund, SVERAK
@@ -54912,6 +54963,7 @@ entries:
   orgNumber: 802453-3500
   comment: null
   categories:
+  - blåljus
   - pensionärsklubb
   web: http://www.umepolisseniorer.se/
 
@@ -59905,6 +59957,14 @@ entries:
   - hästsport
   - ridklubb
   web: https://brk.hemsida24.se/
+
+- entry: 1233123577
+  orgName: Framtidshem Bostadsrättsförening nr 1 i Motala
+  orgNumber: 724000-0435
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.framtidshem.se/
 
 - entry: 1233123635
   orgName: Avesta katthem
@@ -72953,7 +73013,7 @@ entries:
   web: https://www.svenskalag.se/soderhamnmossnejsk
 
 - entry: 1233835709
-  orgName: Apotekets konstförening
+  orgName: Apotekets Konstförening
   orgNumber: 802468-7579
   comment: null
   categories:
@@ -108996,7 +109056,7 @@ entries:
   web: https://korskyrkanumea.se/
 
 - entry: 1235796180
-  orgName: Saab Tjänstemannapensionärer i Linköping
+  orgName: Saab Tjänstemannapensionärer i Linköping, STPL
   orgNumber: 822001-6771
   comment: null
   categories:
@@ -117122,6 +117182,14 @@ entries:
   - intresseförening
   web: https://vanskapsgalan.com/
 
+- entry: 1236236012
+  orgName: Bostadsrättsföreningen Ånghästen
+  orgNumber: 769603-8038
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.brfanghasten.se/
+
 - entry: 1236236343
   orgName: Helsingborgs Bapistförsamling
   orgNumber: 843000-1498
@@ -123744,6 +123812,14 @@ entries:
   categories:
   - samfällighetsförening
   web: https://www.varbyangen.se/
+
+- entry: 1236600696
+  orgName: Bostadsrättsföreningen Källängsmården i Lidingö
+  orgNumber: 769605-9372
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://kallangsmarden.se/
 
 - entry: 1236601785
   orgName: Öjebyns IBF
