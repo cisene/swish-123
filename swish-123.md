@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-01-rev-201219
+Revision: 2025-04-02-rev-193700
 
-Nummer: 15303
+Nummer: 15369
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -220,7 +220,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**ABF Fotoklubb**
+**ABF Fotoklubb i Uddevalla**
 
     123 033 65 60
 
@@ -1085,6 +1085,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ale 90 IK**
+
+    123 238 39 41
+
+
+
+
 **Ale Basket**
 
     123 631 58 32
@@ -1747,6 +1754,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Alvesta Allmänna Konstförening**
+
+    123 482 81 74
+
+
+
+
 **Alvesta Församling**
 
     123 023 03 75 - Alvesta kyrka
@@ -2196,6 +2210,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Anhörigas Riksförbund**
 
     123 657 64 74 - Malmö
+
+
+
+
+**Anhörigförening Göteborg**
+
+    123 345 71 16
 
 
 
@@ -3883,6 +3904,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bankeryds Basket**
 
     123 622 20 61
+
+
+
+
+**Bankeryds Fotoklubb**
+
+    123 409 06 84
 
 
 
@@ -6782,6 +6810,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Borstahusens Konstförening**
+
+    123 042 53 71
+
+
+
+
 **Borås Adventistförsamling**
 
     123 593 55 15
@@ -6854,6 +6889,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Borås Finska Pingstförsamling**
 
     123 092 04 88 - Jesus4Eurasia
+
+
+
+
+**Borås Fotoklubb**
+
+    123 427 91 70
 
 
 
@@ -15561,6 +15603,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Enköpings Fotoklubb, EFK**
+
+    123 027 72 10
+
+
+
+
 **Enköpings HF**
 
     123 104 89 66 - P-2012
@@ -16727,6 +16776,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Eskilstuna Konstförening**
+
+    123 115 48 22
+
+
+
+
 **Eskilstuna Linden Hockeyklubb**
 
     123 463 80 60 - J18
@@ -16849,6 +16905,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Eslövs Cykelklubb**
 
     123 539 30 61
+
+
+
+
+**Eslövs Fotoklubb**
+
+    123 622 00 24
 
 
 
@@ -18573,6 +18636,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Fjälkinge Fotoklubb Kristianstad**
+
+    123 092 03 30
+
+
+
+
 **Fjällbacka Båt och Bil AB**
 
     123 257 61 89
@@ -18973,6 +19043,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**FN-förening**
+
+    123 581 53 52 - Support For Ukraine / Malmö
+
+
+
+
+**FN-förening**
+
+    123 087 99 32 - Stenungsund, Tjörn och Orust
+
+
+
+
 **Focus On Africa, FONA**
 
     123 500 96 83
@@ -19011,6 +19095,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Folk & Språk**
 
     123 900 72 87
+
+
+
+
+**Folkare Fotoklubb**
+
+    123 145 41 54
+
+    123 154 41 54
 
 
 
@@ -19329,9 +19422,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Fotografiska Föreningen i Göteborg**
+
+    123 237 32 64
+
+
+
+
 **Fotoklubben Kamera - Ängelholm**
 
     123 528 12 33
+
+
+
+
+**Fotoklubben PAN**
+
+    123 054 50 79
 
 
 
@@ -22884,6 +22991,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gagnefs Fotoklubb**
+
+    123 224 37 23
+
+
+
+
 **Gagnefs GK**
 
     123 276 53 86
@@ -25278,6 +25392,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gällivare Malmbergets Fotoklubb**
+
+    123 143 60 70
+
+
+
+
 **Gällivare SK**
 
     123 081 09 45
@@ -25756,6 +25877,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Göteborgs Fäktklubb**
 
     123 366 49 27
+
+
+
+
+**Göteborgs Gatufotoförening, GGFF**
+
+    123 398 72 78
 
 
 
@@ -26285,6 +26413,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hallstahammars Tennisklubb**
 
     123 331 15 60
+
+
+
+
+**Hallstaviks Fotoklubb, HFK**
+
+    123 241 39 87
 
 
 
@@ -29906,6 +30041,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hyssna Fotoklubb**
+
+    123 268 71 50
+
+
+
+
 **Hyssna Församling**
 
     123 362 90 94 - Kollekt
@@ -30154,6 +30296,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hälsohuset Skänninge**
 
     123 611 07 38
+
+
+
+
+**Hälsorum Offerdal Jämtland**
+
+    123 418 79 28
 
 
 
@@ -37089,6 +37238,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Karlstads Nya Fotoklubb**
+
+    123 435 45 02
+
+
+
+
 **Karlstads Pastorat**
 
     123 037 93 62 - Musikverksamhet
@@ -37895,6 +38051,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kinda Konstförening**
+
+    123 564 44 22
+
+
+
+
 **Kinda RF**
 
     123 313 90 29
@@ -38159,6 +38322,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kisa Fotoklubb**
+
+    123 410 25 70
+
+
+
+
 **Kisa Scoutkår**
 
     123 148 42 11
@@ -38337,6 +38507,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Klippans Karateklubb**
 
     123 288 10 68
+
+
+
+
+**Klippans Konstförening**
+
+    123 087 95 02
 
 
 
@@ -38804,6 +38981,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Konst i Sörmlands hjärta**
+
+    123 088 23 40
+
+
+
+
 **Konst & Kulturrundan i Kolbäcksådalen**
 
     123 362 95 99
@@ -38846,6 +39030,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Konstföreningen Fröja i Östhammar**
+
+    123 676 13 24
+
+
+
+
+**Konstföreningen i Bromölla**
+
+    123 527 74 54
+
+
+
+
 **Konstföreningen Lundensia vid Lunds Universitet**
 
     123 241 13 79
@@ -38860,6 +39058,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Konstföreningen Sjöhästens vänner**
+
+    123 474 46 11
+
+
+
+
+**Konstföreningen vid Svalövs Kommun**
+
+    123 118 33 34
+
+
+
+
 **Konstföreningen Westmannia**
 
     123 117 86 23
@@ -38870,6 +39082,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Konsthistoriska Sällskapet**
 
     123 150 32 42 - Örebrosektionen
+
+
+
+
+**Konsthändigt**
+
+    123 254 16 21
+
+
+
+
+**Konstklubben NÄL**
+
+    123 618 99 48
 
 
 
@@ -39839,6 +40065,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kristinehamns Fotoklubb**
+
+    123 539 85 81
+
+
+
+
 **Kristinehamns Gymnastiksällskap**
 
     123 303 34 95
@@ -39979,6 +40212,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kronobergs Läns Hembygdsförbund**
 
     123 148 82 38
+
+
+
+
+**Kronobergs Läns Tekniska Förening, KLTF**
+
+    123 697 21 60
 
 
 
@@ -40471,6 +40711,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kungliga Örlogsmannasällskapet**
 
     123 179 75 13
+
+
+
+
+**Kungsbacka Fotoklubb**
+
+    123 588 09 84
 
 
 
@@ -41689,6 +41936,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kävlinge FotoKlubb**
+
+    123 505 13 13
+
+
+
+
 **Kävlinge Harrie FF**
 
     123 202 12 28
@@ -42314,6 +42568,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Lekebergs fotoförening**
+
+    123 553 94 08
+
+
+
+
 **Lekebergs IF**
 
     123 419 53 50
@@ -42637,6 +42898,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 114 94 42 - Höstutställning
 
     123 278 79 27 - Fika
+
+    123 327 36 79
 
 
 
@@ -46802,6 +47065,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malmö Kommunanställdas Konstförening**
+
+    123 191 58 83
+
+
+
+
 **Malmö Konststudio**
 
     123 646 30 12
@@ -47380,6 +47650,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Marks Fågelklubb**
 
     123 431 57 76
+
+
+
+
+**Marks Konstklubb**
+
+    123 469 43 11
 
 
 
@@ -48599,6 +48876,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Mora Biathlonklubb**
+
+    123 336 53 92
+
+
+
+
 **Mora Brukshundsklubb**
 
     123 369 98 16
@@ -48616,6 +48900,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Mora Folkhögskola**
 
     123 124 93 58
+
+
+
+
+**Mora Fotoklubb**
+
+    123 565 02 54
 
 
 
@@ -51769,6 +52060,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Norrköpings Konstforum**
+
+    123 429 83 52
+
+
+
+
 **Norrköpings Raggarklubb**
 
     123 473 11 54
@@ -51877,6 +52175,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Norrtälje Biljardklubb**
 
     123 174 44 73
+
+
+
+
+**Norrtälje Fotoklubb**
+
+    123 682 83 70
 
 
 
@@ -52285,6 +52590,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nybro IF**
 
     123 580 75 65
+
+
+
+
+**Nybro Konstförening**
+
+    123 609 06 33
 
 
 
@@ -62294,6 +62606,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Salems Konstförening**
+
+    123 685 93 75
+
+
+
+
 **Saljesällskapet**
 
     123 321 86 90
@@ -64149,6 +64468,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sjöbo Fotoklubb**
+
+    123 182 24 36
+
+
+
+
 **Sjöbo Försvarsutbildarna Skytteförening, FöUtb Skf**
 
     123 608 39 01
@@ -64497,6 +64823,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skara Bågskytteklubb**
 
     123 688 56 10
+
+
+
+
+**Skara Fotoklubb**
+
+    123 074 69 74
 
 
 
@@ -67280,6 +67613,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Spelberoendes Föreningen Borlänge**
+
+    123 661 53 06
+
+
+
+
+**Spelberoendes Föreningen Malmö**
+
+    123 634 91 53
+
+
+
+
+**Spelberoendes Föreningen Stockholm**
+
+    123 023 52 59
+
+
+
+
 **Spelberoendes Riksförbund**
 
     123 135 07 92
@@ -67534,6 +67888,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SPF Seniorerna Draken Kungsholmen**
 
     123 291 65 67
+
+
+
+
+**SPF Seniorerna Edabygden**
+
+    123 222 70 80
 
 
 
@@ -69518,13 +69879,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Stenungsund, Tjörn och Orust FN-förening**
-
-    123 087 99 32
-
-
-
-
 **Stenungsunds Amatör Radio Klubb**
 
     123 006 17 88
@@ -71500,6 +71854,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Street Minds Ideell Förening**
+
+    123 549 02 30
+
+
+
+
 **Street Padel Ekerö**
 
     123 284 56 67
@@ -71640,6 +72001,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Strängnäs Jaktskytteklubb**
 
     123 030 02 02
+
+
+
+
+**Strängnäs Konstförening**
+
+    123 078 27 71
 
 
 
@@ -72547,13 +72915,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Support For Ukraine / Malmö FN-förening**
-
-    123 581 53 52
-
-
-
-
 **Support Group Network**
 
     123 223 37 32
@@ -73059,7 +73420,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svensk förening för sjuksköterskor inom kärlkirurgisk omvårdnad**
+**Svensk förening för sjuksköterskor inom kärlkirurgisk omvårdnad, SSVN**
 
     123 524 64 59
 
@@ -79685,6 +80046,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tibro Fotoklubb**
+
+    123 156 13 64
+
+
+
+
 **Tibro JSK**
 
     123 011 49 18
@@ -80949,6 +81317,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Traktörens Fotoklubb**
+
+    123 336 49 16
+
+
+
+
 **Trampolinklubben Levo**
 
     123 521 84 41
@@ -82005,6 +82380,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tyresögymnastiken**
 
     123 272 35 85
+
+
+
+
+**Tyringe Fotoklubb**
+
+    123 213 83 11
 
 
 
@@ -84759,6 +85141,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vellinge IF**
+
+    123 396 20 99
+
+
+
+
 **Vellinge Södra Tanzania**
 
     123 110 34 72
@@ -84944,6 +85333,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vetlanda FF**
 
     123 594 73 38
+
+
+
+
+**Vetlanda Fotoklubb**
+
+    123 259 57 42
 
 
 
@@ -85593,6 +85989,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vingåkers VK**
 
     123 272 26 84
+
+
+
+
+**Vingåkersbygdens Konstförening**
+
+    123 031 66 20
 
 
 
@@ -87972,6 +88375,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västra Södermanlands Konstförening**
+
+    123 461 55 22
+
+
+
+
 **Västra Torups Bygdegårdsförening**
 
     123 569 46 17
@@ -88123,6 +88533,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Växjö Damfotbollsförening, Växjö DFF**
 
     123 160 53 28
+
+
+
+
+**Växjö Fotoklubb**
+
+    123 234 89 85
 
 
 
@@ -89430,6 +89847,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ystads Brukhundklubb**
 
     123 590 42 55
+
+
+
+
+**Ystads Fotoklubb**
+
+    123 349 99 28
 
 
 
@@ -91118,6 +91542,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Åtvidabergs Fotoklubb**
+
+    123 459 96 19
+
+
+
+
 **Åtvidabergs Frikyrkoförsamling**
 
     123 180 56 39
@@ -91425,6 +91856,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ölands Brukshundklubb**
 
     123 091 64 29
+
+
+
+
+**Ölands Fotoklubb**
+
+    123 330 05 63
 
 
 
@@ -92029,6 +92467,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Örkelljunga Fotoklubb**
+
+    123 380 83 18
+
+
+
+
 **Örkelljunga Församling**
 
     123 067 06 79 - Kollekt
@@ -92487,6 +92932,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Österlens Hästvänner**
 
     123 689 81 67
+
+
+
+
+**Österlens Konstförening BOSK**
+
+    123 208 46 97
 
 
 

@@ -4206,6 +4206,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sudrets-pastorat
 
+- entry: 1230235259
+  orgName: Spelberoendes Föreningen Stockholm
+  orgNumber: 802409-5484
+  comment: null
+  categories:
+  - intresseförening
+  - spelberoende
+  web: https://spelberoende.se/stockholm/
+
 - entry: 1230235903
   orgName: Guds Hus Vänförening
   orgNumber: 802469-5770
@@ -5051,6 +5060,15 @@ entries:
   - idrottsförening
   - triathlonklubb
   web: https://www.svenskalag.se/trifitif
+
+- entry: 1230277210
+  orgName: Enköpings Fotoklubb, EFK
+  orgNumber: 802515-1336
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://enkopingsfotoklubb.se/
 
 - entry: 1230278119
   orgName: Örebro SK Ungdom
@@ -5905,6 +5923,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1230316620
+  orgName: Vingåkersbygdens Konstförening
+  orgNumber: 802511-0266
+  comment: null
+  categories:
+  - konstförening
+  web: https://vingaker.konstforeningar.se/
+
 - entry: 1230316760
   orgName: Yoganathi / Kundaliniyoga med Nathalie Parkvall / Nathalie Parkvall
   orgNumber: 750811-XXXX
@@ -5928,7 +5954,7 @@ entries:
   orgNumber: 864000-9802
   comment: null
   categories:
-  - fotografering
+  - fotoförening
   - fotoklubb
   web: https://vgfk.se/
 
@@ -6467,7 +6493,7 @@ entries:
   web: https://forvildadekatter.se/
 
 - entry: 1230336560
-  orgName: ABF Fotoklubb
+  orgName: ABF Fotoklubb i Uddevalla
   orgNumber: 855900-8043
   comment: null
   categories:
@@ -8326,6 +8352,14 @@ entries:
   - hundsport
   - stövarklubb
   web: https://jhstovare.se/
+
+- entry: 1230425371
+  orgName: Borstahusens Konstförening
+  orgNumber: 844000-3617
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.borstahusenskonstforening.se/
 
 - entry: 1230425538
   orgName: Neuroförbundet Uppsala-Knivsta
@@ -10582,6 +10616,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/staffanstorp
 
+- entry: 1230545079
+  orgName: Fotoklubben PAN
+  orgNumber: 802460-2826
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.fkpan.se/
+
 - entry: 1230548271
   orgName: Nilssons Logomattor AB
   orgNumber: 559426-7535
@@ -11767,8 +11810,8 @@ entries:
   orgNumber: 802543-1852
   comment: null
   categories:
+  - fotoförening
   - fotoklubb
-  - förening
   web: https://monsteras-fotoklubb.se/
 
 - entry: 1230621086
@@ -14111,6 +14154,15 @@ entries:
   - religion
   web: https://www.ostermalmskyrkan.nu/
 
+- entry: 1230746974
+  orgName: Skara Fotoklubb
+  orgNumber: 868400-8645
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.skarafotoklubb.se/
+
 - entry: 1230747121
   orgName: Leksands IF Ishockey AB
   orgNumber: 556511-7974
@@ -14768,6 +14820,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://balstabygdegard.se/
+
+- entry: 1230782771
+  orgName: Strängnäs Konstförening
+  orgNumber: 819500-6138
+  comment: null
+  categories:
+  - konstförening
+  web: https://strangnas.konstforeningar.se/
 
 - entry: 1230782839
   orgName: Valbo Brukshundklubb
@@ -17146,6 +17206,14 @@ entries:
   - skidlöparklubb
   web: https://www.arsundaif.se/
 
+- entry: 1230879502
+  orgName: Klippans Konstförening
+  orgNumber: 837600-0660
+  comment: null
+  categories:
+  - konstförening
+  web: https://klippan.konstforeningar.se/
+
 - entry: 1230879569
   orgName: Boo & Lännersta Villaägareförening
   orgNumber: 802466-8900
@@ -17174,9 +17242,9 @@ entries:
   web: https://www.harnosim.se/
 
 - entry: 1230879932
-  orgName: Stenungsund, Tjörn och Orust FN-förening
+  orgName: FN-förening
   orgNumber: 853300-9349
-  comment: null
+  comment: Stenungsund, Tjörn och Orust
   categories:
   - intresseförening
   web: https://fn.se/stenungsund-tjorn-och-orust/
@@ -17233,6 +17301,14 @@ entries:
   - genealogi
   - släktforskning
   web: https://arosiana.se/
+
+- entry: 1230882340
+  orgName: Konst i Sörmlands hjärta
+  orgNumber: 802492-0616
+  comment: null
+  categories:
+  - konstförening
+  web: https://konstisormlandshjarta.konstforeningar.se/
 
 - entry: 1230882845
   orgName: Abborresjöns Fiskevårdsförening
@@ -18146,6 +18222,15 @@ entries:
   - futsalklubb
   - idrottsförening
   web: https://www.laget.se/LatorpsIF/
+
+- entry: 1230920330
+  orgName: Fjälkinge Fotoklubb Kristianstad
+  orgNumber: 802537-8152
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://fjalkingefotoklubb.se/
 
 - entry: 1230920488
   orgName: Borås Finska Pingstförsamling
@@ -21109,6 +21194,7 @@ entries:
   comment: null
   categories:
   - filmklubb
+  - fotoförening
   - fotoklubb
   web: https://www.helsingborgsfotoklubb.se/
 
@@ -22485,9 +22571,8 @@ entries:
   orgNumber: 802440-7507
   comment: Höstutställning
   categories:
+  - fotoförening
   - fotoklubb
-  - förening
-  - intresseförening
   web: https://www.lerumsfotoklubb.se/
 
 - entry: 1231149574
@@ -22646,6 +22731,14 @@ entries:
   - förening
   - hästsport
   web: https://www.ostergotlandsfjord.eu/
+
+- entry: 1231154822
+  orgName: Eskilstuna Konstförening
+  orgNumber: 818000-0724
+  comment: null
+  categories:
+  - konstförening
+  web: https://eskilstuna.konstforeningar.se/
 
 - entry: 1231154848
   orgName: Meetly / Festmäklarna Sverige AB
@@ -23237,6 +23330,14 @@ entries:
   - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/ort/halland/halmstads-kommun/
+
+- entry: 1231183334
+  orgName: Konstföreningen vid Svalövs Kommun
+  orgNumber: 802523-8810
+  comment: null
+  categories:
+  - konstförening
+  web: https://svalov.konstforeningar.se/
 
 - entry: 1231183508
   orgName: Piteå IF Fotbollsförening
@@ -26446,6 +26547,7 @@ entries:
   comment: null
   categories:
   - riksförbund
+  - spelberoende
   web: https://spelberoende.se/
 
 - entry: 1231351329
@@ -27765,6 +27867,15 @@ entries:
   - utbildning
   web: https://www.fogelstrafikskola.com/
 
+- entry: 1231436070
+  orgName: Gällivare Malmbergets Fotoklubb
+  orgNumber: 897900-5603
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://gemafoto.se/
+
 - entry: 1231436377
   orgName: Solshesters MCK - Motorcykel och Snöskoter
   orgNumber: 802508-5112
@@ -28021,6 +28132,14 @@ entries:
   categories:
   - mediaproduktion
   web: https://www.instagram.com/viktorklemming/
+
+- entry: 1231454154
+  orgName: Folkare Fotoklubb
+  orgNumber: 802509-8479
+  comment: null
+  categories:
+  - fotoklubb
+  web: https://folkarefotoklubb.se/
 
 - entry: 1231454172
   orgName: Föreningen Gamla SSK:are
@@ -30090,6 +30209,14 @@ entries:
   - stiftelse
   web: https://sameslojdstiftelsen.com/
 
+- entry: 1231544154
+  orgName: Folkare Fotoklubb
+  orgNumber: 802509-8479
+  comment: null
+  categories:
+  - fotoklubb
+  web: https://folkarefotoklubb.se/
+
 - entry: 1231544253
   orgName: Rotary Hörby
   orgNumber: 842000-8784
@@ -30436,6 +30563,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
+
+- entry: 1231561364
+  orgName: Tibro Fotoklubb
+  orgNumber: 802514-0453
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://tibrofotoklubb.blogspot.com/
 
 - entry: 1231561703
   orgName: Svenska Lundehundsällskapet
@@ -35605,6 +35741,15 @@ entries:
   - kvinnligt nätverk
   web: https://www.innerwheel.se/
 
+- entry: 1231822436
+  orgName: Sjöbo Fotoklubb
+  orgNumber: 802501-4047
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://sjobofotoklubb.com/
+
 - entry: 1231822899
   orgName: Strömsunds Pastorat
   orgNumber: 252003-9203
@@ -37280,6 +37425,14 @@ entries:
   - anhörigorganisation
   - patientförening
   web: https://www.demensforbundet.se/stockholms-lan/norrtalje/
+
+- entry: 1231915883
+  orgName: Malmö Kommunanställdas Konstförening
+  orgNumber: 802418-0492
+  comment: null
+  categories:
+  - konstförening
+  web: https://mkk.konstforeningar.se/
 
 - entry: 1231916576
   orgName: Aktiva Seniorer Hisingen
@@ -39949,6 +40102,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1232084697
+  orgName: Österlens Konstförening BOSK
+  orgNumber: 802431-0339
+  comment: null
+  categories:
+  - konstförening
+  web: https://osterlenbosk.konstforeningar.se/
+
 - entry: 1232085116
   orgName: Mamma till Mamma
   orgNumber: 802509-5822
@@ -41002,6 +41163,15 @@ entries:
   - försäljning
   - grossistfirma
   web: https://www.volluma.se/
+
+- entry: 1232138311
+  orgName: Tyringe Fotoklubb
+  orgNumber: 802488-2253
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.tyringefotoklubb.se/
 
 - entry: 1232138691
   orgName: Lillsved Gymnastik- och Idrottsfolkhögskola
@@ -43101,6 +43271,14 @@ entries:
   - religion
   web: https://www.saronhuset.se/
 
+- entry: 1232227080
+  orgName: SPF Seniorerna Edabygden
+  orgNumber: 802512-8284
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/varmlandsdistriktet/foreningslista/edabygden/
+
 - entry: 1232227163
   orgName: DYKNING.NET Sverige AB
   orgNumber: 556891-4575
@@ -43552,6 +43730,15 @@ entries:
   - utbildning
   - yoga
   web: https://www.jennystrom.se/
+
+- entry: 1232243723
+  orgName: Gagnefs Fotoklubb
+  orgNumber: 882601-4477
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.gagnefsfotoklubb.se/
 
 - entry: 1232244465
   orgName: Åtvidabergs Hundklubb
@@ -45935,6 +46122,15 @@ entries:
   - kommun
   web: https://www.karlskrona.se/
 
+- entry: 1232348985
+  orgName: Växjö Fotoklubb
+  orgNumber: 829501-4123
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.vaxjofotoklubb.se/
+
 - entry: 1232349140
   orgName: Södertälje Sportklubb, SSK
   orgNumber: 815600-1474
@@ -46313,6 +46509,15 @@ entries:
   - fotbollsklubb
   web: https://www.vskfotboll.nu/
 
+- entry: 1232373264
+  orgName: Fotografiska Föreningen i Göteborg
+  orgNumber: 857200-4490
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://fotografiska.org/
+
 - entry: 1232373512
   orgName: IK Oddevold
   orgNumber: 858500-1517
@@ -46628,6 +46833,14 @@ entries:
   - båtklubb
   - båtsällskap
   web: https://www.stora-ror.se/portal/?page_id=6
+
+- entry: 1232383941
+  orgName: Ale 90 IK
+  orgNumber: 863500-6508
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.svenskalag.se/foreningariale-ale90ik
 
 - entry: 1232384048
   orgName: Djurgårdens Hembygdsförening
@@ -47357,6 +47570,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.eik.se/
+
+- entry: 1232413987
+  orgName: Hallstaviks Fotoklubb, HFK
+  orgNumber: 802508-9403
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://hallstaviksfotoklubb.wordpress.com/
 
 - entry: 1232415990
   orgName: Team Rynkeby
@@ -48886,6 +49108,14 @@ entries:
   - kvinnojour
   web: https://www.unizonjourer.se/tjejjourenlulea/
 
+- entry: 1232541621
+  orgName: Konsthändigt
+  orgNumber: 802524-0881
+  comment: null
+  categories:
+  - konstförening
+  web: https://konsthandigt.konstforeningar.se/
+
 - entry: 1232541936
   orgName: Lyrestads Hundcenter / Eva Gustavsson
   orgNumber: 701212-XXXX
@@ -49738,6 +49968,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar
+
+- entry: 1232595742
+  orgName: Vetlanda Fotoklubb
+  orgNumber: 802511-0860
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.vetlandafotoklubb.se/
 
 - entry: 1232595809
   orgName: Rena Bilar i Sverige / Rena Hem i Vardagen Stockholm AB
@@ -51515,8 +51754,9 @@ entries:
   orgNumber: 857203-1725
   comment: null
   categories:
+  - fågelskådning
   - ornitologi
-  web: https://gof.nu/
+  web: https://gosf.nu/
 
 - entry: 1232683068
   orgName: Ersmarks IK
@@ -51661,6 +51901,15 @@ entries:
   - husdjur
   - rehab
   web: https://stockholmshundhalsa.se/
+
+- entry: 1232687150
+  orgName: Hyssna Fotoklubb
+  orgNumber: 802521-2161
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.hyssnafotoklubb.se/
 
 - entry: 1232687218
   orgName: SPF Seniorerna Furan Järbo
@@ -53989,8 +54238,8 @@ entries:
   orgNumber: 802440-7507
   comment: Fika
   categories:
+  - fotoförening
   - fotoklubb
-  - förening
   web: https://www.lerumsfotoklubb.se/
 
 - entry: 1232788099
@@ -58907,6 +59156,7 @@ entries:
   comment: null
   categories:
   - fågelklubb
+  - fågelskådning
   - ornitologi
   web: https://uppland.birdlife.se/
 
@@ -62685,6 +62935,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-seniorerna-fjaras/
 
+- entry: 1233273679
+  orgName: Lerums Fotoklubb
+  orgNumber: 802440-7507
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.lerumsfotoklubb.se/
+
 - entry: 1233274339
   orgName: Glada svansen i Flen / Anja Skog
   orgNumber: 601222-XXXX
@@ -63130,6 +63389,15 @@ entries:
   categories:
   - villaägareförening
   web: https://www.hojdhagen.se/
+
+- entry: 1233300563
+  orgName: Ölands Fotoklubb
+  orgNumber: 802469-0391
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.olandsfotoklubb.se/
 
 - entry: 1233300829
   orgName: Skytts Härads Hembygdsförening
@@ -64086,6 +64354,15 @@ entries:
   - hembygdslag
   web: https://www.morahembygd.se/
 
+- entry: 1233364916
+  orgName: Traktörens Fotoklubb
+  orgNumber: 003033-7240
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.traktorensfotoklubb.se/
+
 - entry: 1233365038
   orgName: Gislaveds Pastorat
   orgNumber: 252003-4725
@@ -64093,6 +64370,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/gislaved
+
+- entry: 1233365392
+  orgName: Mora Biathlonklubb
+  orgNumber: 802434-1904
+  comment: null
+  categories:
+  - biathlonklubb
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.svenskalag.se/Morabiathlonklubb
 
 - entry: 1233365699
   orgName: Torsby Golfklubb
@@ -64295,7 +64582,6 @@ entries:
   orgNumber: 857200-5513
   comment: null
   categories:
-  - förening
   - segelklubb
   - segelsällskap
   web: https://gkss.se/
@@ -66117,6 +66403,14 @@ entries:
   - idrottsförening
   web: https://www.eik.se/
 
+- entry: 1233457116
+  orgName: Anhörigförening Göteborg
+  orgNumber: 802462-5355
+  comment: null
+  categories:
+  - anhörigorganisation
+  web: https://www.anhoriggbg.se/
+
 - entry: 1233457413
   orgName: Rydboholms SK
   orgNumber: 864500-7074
@@ -66941,6 +67235,15 @@ entries:
   - bandyklubb
   - idrottsförening
   web: https://www.siriusbandy.se/
+
+- entry: 1233499928
+  orgName: Ystads Fotoklubb
+  orgNumber: 802439-0398
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://ystadsfotoklubb.com/
 
 - entry: 1233500147
   orgName: Borås Basket
@@ -69007,6 +69310,7 @@ entries:
   comment: null
   categories:
   - intresseförening
+  - teknisk förening
   web: https://www.sutf.se/
 
 - entry: 1233592144
@@ -72564,6 +72868,15 @@ entries:
   - konstförening
   web: https://www.borlangekonstforening.se/
 
+- entry: 1233808318
+  orgName: Örkelljunga Fotoklubb
+  orgNumber: 837600-8390
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.facebook.com/groups/878783594250793
+
 - entry: 1233809084
   orgName: Avesta Bågskytteklubb
   orgNumber: 802463-4696
@@ -75738,6 +76051,15 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/OSKUINNEBANDYP13V/
 
+- entry: 1233962099
+  orgName: Vellinge IF
+  orgNumber: 846001-0047
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.vellingeif.com/
+
 - entry: 1233962214
   orgName: Värmestugan Helsingborg
   orgNumber: 802471-9885
@@ -76145,6 +76467,16 @@ entries:
   categories:
   - kulturförening
   web: https://www.klubbimpuls.se/
+
+- entry: 1233987278
+  orgName: Göteborgs Gatufotoförening, GGFF
+  orgNumber: 802533-3181
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  - gatufoto
+  web: https://ggff.se/
 
 - entry: 1233987427
   orgName: KIV - Konstvetenskapliga Institutionens Vänner i Uppsala
@@ -77627,6 +77959,15 @@ entries:
   - ishockeyklubb
   web: https://www.laget.se/VIKHockey09/
 
+- entry: 1234090684
+  orgName: Bankeryds Fotoklubb
+  orgNumber: 802440-3522
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://bankerydsfoto.se/
+
 - entry: 1234090841
   orgName: Derome BK
   orgNumber: 849600-4386
@@ -77692,6 +78033,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/molndal
+
+- entry: 1234102570
+  orgName: Kisa Fotoklubb
+  orgNumber: 802435-8080
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.kisafotoklubb.se/
 
 - entry: 1234102646
   orgName: Lions Club Mönsterås
@@ -79299,6 +79649,16 @@ entries:
   categories:
   - religion
   web: https://vrigstadmissionskyrka.se/
+
+- entry: 1234187928
+  orgName: Hälsorum Offerdal Jämtland
+  orgNumber: 716462-0937
+  comment: null
+  categories:
+  - friskvård
+  - företagshälsa
+  - primärvård
+  web: https://halsorumz.se/
 
 - entry: 1234189916
   orgName: Direct Help For Ukraine
@@ -81231,6 +81591,15 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/sundsvall/
 
+- entry: 1234279170
+  orgName: Borås Fotoklubb
+  orgNumber: 802460-1505
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.borasfotoklubb.se/
+
 - entry: 1234279212
   orgName: Tollereds IF
   orgNumber: 863500-1111
@@ -81486,6 +81855,14 @@ entries:
   - trädgårdsförening
   - trädgårdsodling
   web: https://nvts.se/
+
+- entry: 1234298352
+  orgName: Norrköpings Konstforum
+  orgNumber: 825000-3111
+  comment: null
+  categories:
+  - konstförening
+  web: https://konstforumnorrkoping.konstforeningar.se/
 
 - entry: 1234299061
   orgName: IK Rössö Uddevalla
@@ -82229,6 +82606,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.torsakershembygdsforening.se/
+
+- entry: 1234354502
+  orgName: Karlstads Nya Fotoklubb
+  orgNumber: 874001-5253
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://wpknfk.photobjorn.se/
 
 - entry: 1234354965
   orgName: Göteborgs Magiska Klubb
@@ -86595,6 +86981,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/IFKGrangesbergFK/
 
+- entry: 1234599619
+  orgName: Åtvidabergs Fotoklubb
+  orgNumber: 822003-6480
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.atvidabergsfotoklubb.com/
+
 - entry: 1234599817
   orgName: Sankt Markus i Linköping
   orgNumber: 822004-9376
@@ -86880,6 +87275,14 @@ entries:
   - psykiska hälsa
   - samtalsterapi
   web: https://www.skarvsthlm.com/
+
+- entry: 1234615522
+  orgName: Västra Södermanlands Konstförening
+  orgNumber: 818501-0207
+  comment: null
+  categories:
+  - konstförening
+  web: https://vastrasormland.konstforeningar.se/
 
 - entry: 1234616250
   orgName: De litterära sällskapen i Sverige, DELS
@@ -88527,6 +88930,15 @@ entries:
   - patientförening
   web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/vastra-gotalands-lan/amal/
 
+- entry: 1234694311
+  orgName: Marks Konstklubb
+  orgNumber: 802513-9489
+  comment: null
+  categories:
+  - konstförening
+  - konstklubb
+  web: https://marks.konstforeningar.se/
+
 - entry: 1234694675
   orgName: Bostadsrättsföreningen Scenen i Teaterkvarteret
   orgNumber: 769630-1097
@@ -89351,6 +89763,14 @@ entries:
   - ryttarförening
   - ryttarsällskap
   web: https://www.svenskalag.se/huskvarnasportryttare
+
+- entry: 1234744611
+  orgName: Konstföreningen Sjöhästens vänner
+  orgNumber: 819001-6173
+  comment: null
+  categories:
+  - konstförening
+  web: https://sjohastensvanner.konstforeningar.se/
 
 - entry: 1234744819
   orgName: Insamlingsstiftelsen för Tobias Forsberg
@@ -90338,6 +90758,14 @@ entries:
   categories:
   - yoga
   web: https://hotyogahelsingborg.se/
+
+- entry: 1234828174
+  orgName: Alvesta Allmänna Konstförening
+  orgNumber: 829501-6573
+  comment: null
+  categories:
+  - konstförening
+  web: https://alvesta.konstforeningar.se/
 
 - entry: 1234829453
   orgName: Gladans Båtklubb
@@ -92372,6 +92800,7 @@ entries:
   comment: null
   categories:
   - intresseförening
+  - spelberoende
   web: https://spelberoende.se/goteborg/
 
 - entry: 1234966479
@@ -93836,6 +94265,15 @@ entries:
   - förening
   - scoutkår
   web: https://www.lerumsscoutkar.se/
+
+- entry: 1235051313
+  orgName: Kävlinge FotoKlubb
+  orgNumber: 802530-0990
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://kavlingefotoklubb.se/
 
 - entry: 1235051560
   orgName: Mora IK
@@ -97945,7 +98383,7 @@ entries:
   web: https://www.perikles.se/
 
 - entry: 1235246459
-  orgName: Svensk förening för sjuksköterskor inom kärlkirurgisk omvårdnad
+  orgName: Svensk förening för sjuksköterskor inom kärlkirurgisk omvårdnad, SSVN
   orgNumber: 802457-3274
   comment: null
   categories:
@@ -98712,6 +99150,14 @@ entries:
   - motorsport
   web: https://smkvingaker.klubbenonline.se/
 
+- entry: 1235277454
+  orgName: Konstföreningen i Bromölla
+  orgNumber: 802471-3193
+  comment: null
+  categories:
+  - konstförening
+  web: https://bromolla.konstforeningar.se/
+
 - entry: 1235278015
   orgName: Husby Frikyrkoförsamling
   orgNumber: 814800-5112
@@ -98865,8 +99311,9 @@ entries:
   orgNumber: 839400-8570
   comment: null
   categories:
+  - fotoförening
   - fotoklubb
-  web: https://www.svenskfotografi.org/fotoklubbar/fotoklubben-kamera-angelholm/
+  web: https://fkkamera.framer.website/
 
 - entry: 1235281555
   orgName: Norboda AB
@@ -101019,6 +101466,15 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/sennan/
 
+- entry: 1235398581
+  orgName: Kristinehamns Fotoklubb
+  orgNumber: 873600-1713
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://krifo.nu/
+
 - entry: 1235398607
   orgName: Vildhallon / Mattias Dristig
   orgNumber: 741228-XXXX
@@ -102779,6 +103235,15 @@ entries:
   - hjälporganisation
   web: http://www.estershelp.com/
 
+- entry: 1235490230
+  orgName: Street Minds Ideell Förening
+  orgNumber: 802524-2879
+  comment: null
+  categories:
+  - humanitär hjälpverksamhet
+  - ideell förening
+  web: https://www.streetminds.se/
+
 - entry: 1235490487
   orgName: Frivilligcenter GoKungsbacka
   orgNumber: 802526-5607
@@ -103954,6 +104419,15 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://gfspansthestra.klubbenonline.se/
+
+- entry: 1235539408
+  orgName: Lekebergs fotoförening
+  orgNumber: 802520-5207
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://lekebergsfotoforening.se/
 
 - entry: 1235540018
   orgName: PRO Skellefteå-Kågedalen
@@ -106172,6 +106646,14 @@ entries:
   - hundsport
   web: https://www.springertrestad.se/
 
+- entry: 1235644422
+  orgName: Kinda Konstförening
+  orgNumber: 802524-0733
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.kindakonstforening.se/
+
 - entry: 1235646526
   orgName: IK Sturehov
   orgNumber: 875001-0384
@@ -106197,6 +106679,15 @@ entries:
   categories:
   - religion
   web: https://mklidkoping.se/
+
+- entry: 1235650254
+  orgName: Mora Fotoklubb
+  orgNumber: 802498-2509
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.morafotoklubb.se/
 
 - entry: 1235652243
   orgName: Djurskyddet Vilsna Tassar Hällefors
@@ -109351,9 +109842,9 @@ entries:
   web: https://www.svenskalag.se/ifknykoping
 
 - entry: 1235815352
-  orgName: Support For Ukraine / Malmö FN-förening
+  orgName: FN-förening
   orgNumber: 846003-5358
-  comment: null
+  comment: Support For Ukraine / Malmö
   categories:
   - hjälporganisation
   - humanitär hjälpverksamhet
@@ -110194,6 +110685,15 @@ entries:
   - idrottsförening
   - mountainbikeklubb
   web: https://uddevallamtb.se/
+
+- entry: 1235880984
+  orgName: Kungsbacka Fotoklubb
+  orgNumber: 849400-7308
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://kungsbackafotoklubb.se/
 
 - entry: 1235881057
   orgName: EFS Missionsförening i Sävar
@@ -114106,6 +114606,14 @@ entries:
   - seans
   web: https://bowenpraktiken.com/
 
+- entry: 1236090633
+  orgName: Nybro Konstförening
+  orgNumber: 802487-9960
+  comment: null
+  categories:
+  - konstförening
+  web: https://nybro.konstforeningar.se/
+
 - entry: 1236091276
   orgName: Stora Tuna och Torsångs Pastorat
   orgNumber: 252003-4287
@@ -116478,6 +116986,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/OSKUFOTBOLLF12/
 
+- entry: 1236189948
+  orgName: Konstklubben NÄL
+  orgNumber: 863000-8756
+  comment: null
+  categories:
+  - konstförening
+  web: https://nal.konstforeningar.se/
+
 - entry: 1236190094
   orgName: Oaxenfärjan / Oaxens Samfällighetsförening
   orgNumber: 716418-9420
@@ -117035,6 +117551,15 @@ entries:
   - konst
   - stadsvandring
   web: https://www.peterfrisk.se/
+
+- entry: 1236220024
+  orgName: Eslövs Fotoklubb
+  orgNumber: 802520-4234
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://eslovsfotoklubb.se/
 
 - entry: 1236220628
   orgName: Köket Åsele / Lisa Lindh
@@ -119398,6 +119923,15 @@ entries:
   categories:
   - religion
   web: https://landskronapingst.se/
+
+- entry: 1236349153
+  orgName: Spelberoendes Föreningen Malmö
+  orgNumber: 846502-1072
+  comment: null
+  categories:
+  - intresseförening
+  - spelberoende
+  web: https://spelberoende.se/malmo/
 
 - entry: 1236349948
   orgName: Mörrums GOIS HK
@@ -123927,6 +124461,15 @@ entries:
   - idrottsförening
   web: https://www.norrbyif.se/
 
+- entry: 1236615306
+  orgName: Spelberoendes Föreningen Borlänge
+  orgNumber: 802415-2061
+  comment: null
+  categories:
+  - intresseförening
+  - spelberoende
+  web: https://spelberoende.se/borlange/
+
 - entry: 1236615546
   orgName: Jockfalls Samfällighetsförening
   orgNumber: 717922-3966
@@ -127058,6 +127601,14 @@ entries:
   - volleybollklubb
   web: https://www.korpen.se/korpenmalmo
 
+- entry: 1236761324
+  orgName: Konstföreningen Fröja i Östhammar
+  orgNumber: 802515-4553
+  comment: null
+  categories:
+  - konstförening
+  web: https://froja.konstforeningar.se/
+
 - entry: 1236761464
   orgName: Junos Kamp
   orgNumber: 802515-2003
@@ -127695,6 +128246,7 @@ entries:
   orgNumber: 012385-6619
   comment: null
   categories:
+  - fotoförening
   - fotoklubb
   web: https://www.lindesbergsfotoklubb.se/
 
@@ -128651,6 +129203,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/raggaro
 
+- entry: 1236828370
+  orgName: Norrtälje Fotoklubb
+  orgNumber: 802410-2504
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://sites.google.com/view/norrtaljefotoklubb/hem
+
 - entry: 1236832653
   orgName: Ängelholms Fotbollsförening
   orgNumber: 839400-3985
@@ -129020,6 +129581,14 @@ entries:
   categories:
   - supporterklubb
   web: https://www.laget.se/IFKF-Supporterklubb/
+
+- entry: 1236859375
+  orgName: Salems Konstförening
+  orgNumber: 802412-7154
+  comment: null
+  categories:
+  - konstförening
+  web: https://salem.konstforeningar.se/
 
 - entry: 1236860555
   orgName: Wäxjö Motorsällskap
@@ -131219,6 +131788,15 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.guif.nu/
+
+- entry: 1236972160
+  orgName: Kronobergs Läns Tekniska Förening, KLTF
+  orgNumber: 829502-0245
+  comment: null
+  categories:
+  - intresseförening
+  - teknisk förening
+  web: https://www.kltf.se/
 
 - entry: 1236972186
   orgName: Erika Givell
