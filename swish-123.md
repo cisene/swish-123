@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-02-rev-193700
+Revision: 2025-04-04-rev-153122
 
-Nummer: 15369
+Nummer: 15389
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2693,6 +2693,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Arjeplogs Brukshundsklubb**
 
     123 344 94 10
+
+
+
+
+**Arjeplogs Konstförening**
+
+    123 515 47 29
 
 
 
@@ -19629,6 +19636,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Fria Konstnärers Gille**
+
+    123 609 05 00
+
+
+
+
 **Frida Kvinnojour Hässleholm**
 
     123 018 49 94
@@ -23040,6 +23054,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Galleri Hantverket**
+
+    123 241 95 96
+
+
+
+
 **Galleri Lindberg / Lindbergs Konst & Ramar AB**
 
     123 269 83 71
@@ -25238,6 +25259,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gustavsbergs Konstförening**
+
+    123 428 77 93
+
+
+
+
 **Gustavsbergs RS - Ridsport**
 
     123 613 51 72
@@ -25395,6 +25423,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gällivare Malmbergets Fotoklubb**
 
     123 143 60 70
+
+
+
+
+**Gällivare-Malmbergets Konstklubb**
+
+    123 626 20 18
 
 
 
@@ -27459,6 +27494,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hedemorabygdens Ridklubb**
 
     123 483 20 44
+
+
+
+
+**Hedemorakultur**
+
+    123 535 05 58
 
 
 
@@ -36879,6 +36921,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Karlsborgs Konstförening**
+
+    123 507 73 42
+
+
+
+
 **Karlsborgs Lyftarklubb**
 
     123 594 97 63
@@ -38995,6 +39044,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Konst- och Bruksglasföreningen**
+
+    123 476 94 44
+
+
+
+
 **KonstArt**
 
     123 081 41 78
@@ -39016,9 +39072,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Konstforeningen PublicService**
+
+    123 477 71 16
+
+
+
+
 **Konstfrämjandet Värmland**
 
     123 080 20 09
+
+
+
+
+**Konstföreningen Apoteket**
+
+    123 152 79 69
 
 
 
@@ -43997,6 +44067,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Linköpings Konstmuseums Vänner, LKV**
+
+    123 425 52 46
+
+
+
+
 **Linköpings Missionsförsamling**
 
     123 157 97 05 - Ungdomssektionen
@@ -44834,6 +44911,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ljuders Konstförening**
+
+    123 470 53 23
+
+
+
+
 **Ljudkonstgalleriet**
 
     123 349 05 05
@@ -44878,6 +44962,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 277 28 20 - Fotboll
 
     123 388 19 50
+
+
+
+
+**Ljungby Konstförening**
+
+    123 593 68 69
 
 
 
@@ -47650,6 +47741,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Marks Fågelklubb**
 
     123 431 57 76
+
+
+
+
+**Marks Konstgille**
+
+    123 628 80 13
 
 
 
@@ -65113,6 +65211,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skellefteå Konstförening**
+
+    123 430 60 98
+
+
+
+
 **Skellefteå Kyokushin Karateklubb**
 
     123 576 61 18
@@ -82570,6 +82675,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tällbergs Konstförening**
+
+    123 675 91 53
+
+
+
+
 **Tämta Ridklubb**
 
     123 081 07 70
@@ -83527,6 +83639,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Uplands Konstförening**
+
+    123 326 25 73
+
+
+
+
 **Uppgränna Byalag & Byagård**
 
     123 097 03 43
@@ -83827,6 +83946,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Uppsala Kattklubb**
 
     123 544 27 93
+
+
+
+
+**Uppsala Konstnärsförening, UKF**
+
+    123 383 26 64
 
 
 
@@ -91326,6 +91452,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Åsbo Ponnyklubb**
+
+    123 682 78 02
+
+
+
+
 **Åsbo Ryttarförening**
 
     123 640 93 04
@@ -92900,6 +93033,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Österhaninge IF**
 
     123 085 12 12
+
+
+
+
+**Österhaninge Konstförening**
+
+    123 451 51 44
 
 
 

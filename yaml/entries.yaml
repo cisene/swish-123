@@ -26476,6 +26476,13 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1231332154
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1231332303
   orgName: Föreningen Vendelsjön
   orgNumber: 817301-4906
@@ -30346,6 +30353,15 @@ entries:
   - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/ort/skane/staffanstorps-kommun/
+
+- entry: 1231527969
+  orgName: Konstföreningen Apoteket
+  orgNumber: 802543-0490
+  comment: null
+  categories:
+  - konstförening
+  - konstgalleri
+  web: https://galleriapoteket.com/
 
 - entry: 1231528090
   orgName: Alingsås HK
@@ -48165,6 +48181,15 @@ entries:
   - sportskytteklubb
   web: https://www.pk-elbogen.se/
 
+- entry: 1232419596
+  orgName: Galleri Hantverket
+  orgNumber: 769604-7765
+  comment: null
+  categories:
+  - konstförening
+  - konstgalleri
+  web: https://gallerihantverket.se/
+
 - entry: 1232420297
   orgName: IK Rössö Uddevalla
   orgNumber: 858500-7290
@@ -63358,6 +63383,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/finnmarken
 
+- entry: 1233262573
+  orgName: Uplands Konstförening
+  orgNumber: 817600-7246
+  comment: null
+  categories:
+  - konstförening
+  web: https://uplandskonstforening.wordpress.com/
+
 - entry: 1233262755
   orgName: Södra Ölands Pastorat
   orgNumber: 252003-8874
@@ -74136,6 +74169,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-handen/
 
+- entry: 1233832664
+  orgName: Uppsala Konstnärsförening, UKF
+  orgNumber: 802460-0424
+  comment: null
+  categories:
+  - konstnärsförening
+  web: https://new.uppsalakf.se/
+
 - entry: 1233832706
   orgName: Morjhults Fiskevårdsområde
   orgNumber: 802601-1489
@@ -81965,6 +82006,16 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/svardsjoenviken/
 
+- entry: 1234255246
+  orgName: Linköpings Konstmuseums Vänner, LKV
+  orgNumber: 802537-7642
+  comment: null
+  categories:
+  - intresseförening
+  - konstförening
+  - konstmuseum
+  web: https://lkpgkonstmuseum.se/
+
 - entry: 1234255642
   orgName: Svenska Röda Korset
   orgNumber: 829502-9287
@@ -82690,6 +82741,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-landsbrobygden/
 
+- entry: 1234287793
+  orgName: Gustavsbergs Konstförening
+  orgNumber: 802440-3043
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.gkonst.se/
+
 - entry: 1234288353
   orgName: SPF Seniorerna Vikbolandet
   orgNumber: 802442-7844
@@ -82889,6 +82948,14 @@ entries:
   categories:
   - psykisk hälsa
   web: https://nsph.se/
+
+- entry: 1234306098
+  orgName: Skellefteå Konstförening
+  orgNumber: 894700-1403
+  comment: null
+  categories:
+  - konstförening
+  web: https://skellefteakonstforening.wordpress.com/
 
 - entry: 1234306619
   orgName: LineUp Gundogs / Emso Consulting AB
@@ -86300,6 +86367,14 @@ entries:
   - charterbuss
   - persontransport
   web: https://www.lonnsbuss.se/
+
+- entry: 1234515144
+  orgName: Österhaninge Konstförening
+  orgNumber: 802433-2440
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.osterhaningekonstforening.se/
 
 - entry: 1234518379
   orgName: IFK Västerås FK
@@ -90232,6 +90307,14 @@ entries:
   - djurskydd
   web: https://www.smadjurschansen.se/
 
+- entry: 1234705323
+  orgName: Ljuders Konstförening
+  orgNumber: 802517-7471
+  comment: null
+  categories:
+  - konstförening
+  web: https://skruv.net/ljuders-konstforening/
+
 - entry: 1234706008
   orgName: PRO Gävle Ettan
   orgNumber: 885002-0309
@@ -91111,6 +91194,14 @@ entries:
   - supporterklubb
   web: https://bajenclubsofia.com/
 
+- entry: 1234769444
+  orgName: Konst- och Bruksglasföreningen
+  orgNumber: 802418-1805
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.konstochbruksglasforeningen.se/
+
 - entry: 1234774378
   orgName: Lions Club Vaxholm
   orgNumber: 802532-0840
@@ -91128,6 +91219,14 @@ entries:
   - discgolfklubb
   - idrottsförening
   web: https://nyoxvipers.weebly.com/
+
+- entry: 1234777116
+  orgName: Konstforeningen PublicService
+  orgNumber: 802537-2460
+  comment: null
+  categories:
+  - konstförening
+  web: https://konstforeningenps.wordpress.com/
 
 - entry: 1234778353
   orgName: Tyringe IF
@@ -95611,6 +95710,14 @@ entries:
   - event
   web: https://stubbaraceosterlen.se/
 
+- entry: 1235077342
+  orgName: Karlsborgs Konstförening
+  orgNumber: 866601-1344
+  comment: null
+  categories:
+  - konstförening
+  web: https://artworks.se/karlsborgskonstforening
+
 - entry: 1235077466
   orgName: Deaf Refugees Welcome Sweden, DRW
   orgNumber: 846001-3405
@@ -98028,6 +98135,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/stockholm/kommun/norrtalje/pro-norrtalje
+
+- entry: 1235154729
+  orgName: Arjeplogs Konstförening
+  orgNumber: 898801-2897
+  comment: null
+  categories:
+  - konstförening
+  web: https://arjeplog.konstforeningar.se/
 
 - entry: 1235156047
   orgName: Sotenäs Fältrittklubb
@@ -101631,6 +101746,14 @@ entries:
   categories:
   - kulturförening
   web: https://www.orbyhusslott.se/
+
+- entry: 1235350558
+  orgName: Hedemorakultur
+  orgNumber: 802489-7210
+  comment: null
+  categories:
+  - konstförening
+  web: http://www.hedemorakonst.se/
 
 - entry: 1235350616
   orgName: När IF
@@ -113324,6 +113447,14 @@ entries:
   - kampsportsförening
   web: https://hiltivästerås.se/
 
+- entry: 1235936869
+  orgName: Ljungby Konstförening
+  orgNumber: 829000-6702
+  comment: null
+  categories:
+  - konstförening
+  web: https://ljungby.konstforeningar.se/
+
 - entry: 1235936901
   orgName: Lions Club Laholm
   orgNumber: 849201-3514
@@ -115943,6 +116074,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/gardhem
+
+- entry: 1236090500
+  orgName: Fria Konstnärers Gille
+  orgNumber: 802417-0469
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.friakonstnärersgille.se/
 
 - entry: 1236090518
   orgName: Föreningen Norden Arvika
@@ -119615,6 +119754,14 @@ entries:
   - riksförbund
   web: https://jagareforbundet.se/
 
+- entry: 1236262018
+  orgName: Gällivare-Malmbergets Konstklubb
+  orgNumber: 802444-4187
+  comment: null
+  categories:
+  - konstförening
+  web: http://gällivaremalmbergetskonstklubb.se/
+
 - entry: 1236262034
   orgName: Lindome Basket
   orgNumber: 802445-2271
@@ -120245,6 +120392,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/nodinge
+
+- entry: 1236288013
+  orgName: Marks Konstgille
+  orgNumber: 865000-4099
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.markskonstgille.se/
 
 - entry: 1236288328
   orgName: Gävle SS - Simidrott
@@ -129076,6 +129231,14 @@ entries:
   - musik
   web: https://fst.se/
 
+- entry: 1236759153
+  orgName: Tällbergs Konstförening
+  orgNumber: 802414-5123
+  comment: null
+  categories:
+  - konstförening
+  web: https://tallbergsby.se/konstforeningen/
+
 - entry: 1236759575
   orgName: Kulturhistoriska Föreningen i Södertälje
   orgNumber: 802408-5394
@@ -130750,6 +130913,16 @@ entries:
   - friskvård
   - intresseförening
   web: https://www.team-rynkeby.se/
+
+- entry: 1236827802
+  orgName: Åsbo Ponnyklubb
+  orgNumber: 837600-4407
+  comment: null
+  categories:
+  - hästsport
+  - ponnyklubb
+  - ridklubb
+  web: https://www.asboponnyklubb.se/
 
 - entry: 1236827851
   orgName: Östra SK Jönköping
