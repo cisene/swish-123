@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-04-rev-153122
+Revision: 2025-04-05-rev-153239
 
-Nummer: 15389
+Nummer: 15415
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -328,6 +328,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Active Fysio Matilda Hellman AB**
 
     123 319 16 81
+
+
+
+
+**Ad Art i Ängelholm**
+
+    123 448 77 08
 
 
 
@@ -1830,6 +1837,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Alvikstorpets Vänner**
+
+    123 677 64 96
+
+
+
+
 **Alzheimer Sverige**
 
     123 270 06 31
@@ -2224,6 +2238,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Anhörigföreningen Göteborg**
 
     123 131 99 12
+
+
+
+
+**Animal Farm Boda / Karin Olsson**
+
+    123 544 78 18
 
 
 
@@ -4954,6 +4975,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bildkällan - Föreningen Falköpings Kulturhus**
+
+    123 206 00 44
+
+
+
+
 **Biljardklubben Åtvidaberg**
 
     123 324 77 80
@@ -6963,7 +6991,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Borås Museum med textilmuseet / Borås Kommun**
+**Borås Museum med Textilmuseet / Borås Kommun**
 
     123 143 72 19
 
@@ -12354,6 +12382,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dark Funeral Official Merchandise / Dark Funeral AB**
 
     123 088 74 89
+
+
+
+
+**Darkroom Konsthall Riddersvik / Virtuelli Design, Ulla Gustavsson**
+
+    123 537 62 31
 
 
 
@@ -18337,6 +18372,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Filmis Uddevalla filmstudio**
+
+    123 345 41 47
+
+
+
+
 **Films SK**
 
     123 041 00 35
@@ -19404,6 +19446,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 117 71 04
 
     123 319 83 22
+
+
+
+
+**Forum Göteborg / House of Bradford AB**
+
+    123 633 83 39
 
 
 
@@ -23047,6 +23096,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Galleri AM / Michel Kalogridis**
+
+    123 309 65 91
+
+
+
+
 **Galleri Fågel / Anders Borgenhag Holmqvist**
 
     123 011 14 27
@@ -25217,6 +25273,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gustaf Dalén Memorial på Lidingö, GDM / Hans Olov Almqvist**
+
+    123 559 59 39
+
+
+
+
 **Gustaf Fröding-Sällskapet**
 
     123 584 14 99
@@ -25297,6 +25360,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Guövikens Båtklubb**
 
     123 658 12 50
+
+
+
+
+**Gycklargruppen TRiX / Traktor Entertainment**
+
+    123 617 26 88
 
 
 
@@ -39051,6 +39121,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Konst på Karlsfors**
+
+    123 504 08 45
+
+
+
+
 **KonstArt**
 
     123 081 41 78
@@ -39082,6 +39159,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Konstfrämjandet Värmland**
 
     123 080 20 09
+
+
+
+
+**Konstföreningen Akvatinten**
+
+    123 546 51 90
 
 
 
@@ -42388,6 +42472,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Laksjöbadet Ideell förening**
 
     123 126 70 79
+
+
+
+
+**Landskrona Direkt / Zebra Media HB**
+
+    123 360 46 00
 
 
 
@@ -53505,6 +53596,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Odalmannens Museum**
+
+    123 107 31 05
+
+
+
+
 **Odd Fellow Logen NR 64 Sven Erikson**
 
     123 525 11 78
@@ -56261,6 +56359,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Porsche 356 Klubb Sverige**
 
     123 448 97 79
+
+
+
+
+**Porslinets Vänner, Rörstrand Museum**
+
+    123 155 34 78
 
 
 
@@ -59403,7 +59508,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Riks / Vainar mediagroup AB**
+**Riks / Rplay Nordic Media AB**
 
     123 121 49 31
 
@@ -59892,6 +59997,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **RJ Spolservice AB**
 
     123 354 88 23
+
+
+
+
+**Röda Sten Konsthall**
+
+    123 603 87 15
 
 
 
@@ -65606,6 +65718,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skoklosters Slotts Vänner**
+
+    123 604 01 66
+
+
+
+
 **Skolkyrkan Eskilstuna**
 
     123 049 74 20
@@ -70547,6 +70666,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen Jamtli**
+
+    123 559 10 29
+
+
+
+
 **Stiftelsen Jubileumsklinikens forskningsfond mot cancer**
 
     123 900 97 96
@@ -71094,6 +71220,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen Zonny**
 
     123 161 39 75
+
+
+
+
+**Stiftelsen Östergötlands Museum**
+
+    123 050 06 78
 
 
 
@@ -71906,6 +72039,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Strandbadens Byaförening**
 
     123 562 54 47
+
+
+
+
+**Strandberg Elofsruds Konst / Johan Strandberg**
+
+    123 632 91 97
 
 
 
@@ -76452,6 +76592,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Säffle Konstförening**
+
+    123 242 85 22
+
+
+
+
 **Säffle Motocrossklubb**
 
     123 079 36 79
@@ -77714,6 +77861,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Södra Vings Församling**
 
     123 391 14 84 - Kollekt
+
+
+
+
+**Södra Vätterbygdens konstrunda**
+
+    123 106 49 97
 
 
 
@@ -80768,6 +80922,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tofta Galleriet AB**
+
+    123 504 99 94
+
+
+
+
 **Tofta Gif**
 
     123 695 04 14 - Gymnastiksektionen
@@ -82183,6 +82344,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Turistbyrån Arvika**
 
     123 230 04 57
+
+
+
+
+**Tusen-Ting / Euro Pacific i Roslagen AB**
+
+    123 170 26 61 - 6010876-8
 
 
 
@@ -88501,6 +88669,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västra Skånes Konstnärsgille, VSKG**
+
+    123 063 07 07
+
+
+
+
 **Västra Södermanlands Konstförening**
 
     123 461 55 22
@@ -89082,6 +89257,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Wedumsdalens Nejder**
 
     123 282 86 71
+
+
+
+
+**Wefakonst AB**
+
+    123 357 89 11
 
 
 

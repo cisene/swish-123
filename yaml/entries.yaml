@@ -5139,6 +5139,14 @@ entries:
   - lokaluthyrning
   web: https://jadersgarden.se/
 
+- entry: 1230279109
+  orgName: Woodstockeboda
+  orgNumber: null
+  comment: null
+  categories:
+  - festival
+  web: https://www.woodstockeboda.com/
+
 - entry: 1230279190
   orgName: Team Rynkeby
   orgNumber: 802532-8033
@@ -10011,6 +10019,15 @@ entries:
   - patientförening
   web: https://neuro.se/forening/foereningar-a-oe/kalmar/
 
+- entry: 1230500678
+  orgName: Stiftelsen Östergötlands Museum
+  orgNumber: 822000-6103
+  comment: null
+  categories:
+  - museum
+  - stiftelse
+  web: https://ostergotlandsmuseum.se/
+
 - entry: 1230502062
   orgName: Atracco Group AB
   orgNumber: 556798-0932
@@ -12186,6 +12203,15 @@ entries:
   - forskning
   - hjärnforskning
   web: https://www.team-rynkeby.se/
+
+- entry: 1230630707
+  orgName: Västra Skånes Konstnärsgille, VSKG
+  orgNumber: 846500-2080
+  comment: null
+  categories:
+  - konstnärsförening
+  - konstnärsgille
+  web: https://vskg.se/
 
 - entry: 1230631150
   orgName: Uppsala Handbollsklubb
@@ -21305,6 +21331,15 @@ entries:
   - kvinnojour
   web: https://www.unizonjourer.se/lidingokvinnojour/
 
+- entry: 1231064997
+  orgName: Södra Vätterbygdens konstrunda
+  orgNumber: 802500-2166
+  comment: null
+  categories:
+  - konstgalleri
+  - konstutställning
+  web: https://svkonstrunda.se/
+
 - entry: 1231065432
   orgName: Valbo FF
   orgNumber: 885000-8320
@@ -21474,6 +21509,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.dalarosk.se/
+
+- entry: 1231073105
+  orgName: Odalmannens Museum
+  orgNumber: 822003-1770
+  comment: null
+  categories:
+  - museiförening
+  - museum
+  web: https://odalmannensmuseum.com/
 
 - entry: 1231073246
   orgName: Västerås Schackklubb
@@ -24066,8 +24110,8 @@ entries:
   web: https://www.bojengoteborg.se/
 
 - entry: 1231214931
-  orgName: Riks / Vainar mediagroup AB
-  orgNumber: 559413-0840
+  orgName: Riks / Rplay Nordic Media AB
+  orgNumber: 559435-5678
   comment: null
   categories:
   - alternativa media
@@ -28226,7 +28270,7 @@ entries:
   web: https://www.ljss.se/
 
 - entry: 1231437219
-  orgName: Borås Museum med textilmuseet / Borås Kommun
+  orgName: Borås Museum med Textilmuseet / Borås Kommun
   orgNumber: 212000-1561
   comment: null
   categories:
@@ -30680,6 +30724,16 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-umea/foreningar/hornefors.html
+
+- entry: 1231553478
+  orgName: Porslinets Vänner, Rörstrand Museum
+  orgNumber: 802502-3071
+  comment: null
+  categories:
+  - intresseförening
+  - museiförening
+  - museum
+  web: https://rorstrand-museum.se/
 
 - entry: 1231553866
   orgName: Vindelns Ridklubb
@@ -33450,6 +33504,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/voxtorp
+
+- entry: 1231702661
+  orgName: Tusen-Ting / Euro Pacific i Roslagen AB
+  orgNumber: 556502-3099
+  comment: 6010876-8
+  categories:
+  - försäljning
+  web: https://www.facebook.com/p/Tusen-Ting-Finsta-Roslagen-100062706831291/
 
 - entry: 1231702687
   orgName: Västerås Domkyrka
@@ -40349,6 +40411,15 @@ entries:
   categories:
   - samfällighetsförening
   web: https://www.ropgrand.se/
+
+- entry: 1232060044
+  orgName: Bildkällan - Föreningen Falköpings Kulturhus
+  orgNumber: 868401-2969
+  comment: null
+  categories:
+  - konstgalleri
+  - kulturhus
+  web: https://bildkallan.com/
 
 - entry: 1232060820
   orgName: Endre IF
@@ -48289,6 +48360,14 @@ entries:
   - lokaltidning
   - mediaproduktion
   web: https://dikko.nu/
+
+- entry: 1232428522
+  orgName: Säffle Konstförening
+  orgNumber: 802464-8944
+  comment: null
+  categories:
+  - konstförening
+  web: https://artworks.se/safflekonstforening
 
 - entry: 1232428613
   orgName: Holsby SK
@@ -60448,6 +60527,14 @@ entries:
   - orienteringsklubb
   web: https://kompassen.org/
 
+- entry: 1233096591
+  orgName: Galleri AM / Michel Kalogridis
+  orgNumber: 751029-XXXX
+  comment: null
+  categories:
+  - konstgalleri
+  web: https://www.galleriam.se/
+
 - entry: 1233096963
   orgName: Pegasus Discgolfklubb
   orgNumber: 802537-5653
@@ -67093,6 +67180,14 @@ entries:
   - förening
   web: https://blog.kulturgaraget.se/
 
+- entry: 1233454147
+  orgName: Filmis Uddevalla filmstudio
+  orgNumber: 802464-5361
+  comment: null
+  categories:
+  - filmklubb
+  web: https://uddevalla.filmstudio.se/
+
 - entry: 1233454493
   orgName: Sandvikens Pastorat
   orgNumber: 252004-7412
@@ -69989,6 +70084,14 @@ entries:
   - kennelklubb
   web: https://www2.skk.se/sv/HAKK/
 
+- entry: 1233578911
+  orgName: Wefakonst AB
+  orgNumber: 559196-9240
+  comment: null
+  categories:
+  - konstgalleri
+  web: https://www.wefakonst.se/
+
 - entry: 1233579034
   orgName: Yoga By Atma, Studio Atma / Atma Nilsson
   orgNumber: 710123-XXXX
@@ -70342,6 +70445,15 @@ entries:
   categories:
   - podcast
   web: https://bcbuddzlive.libsyn.com/
+
+- entry: 1233604600
+  orgName: Landskrona Direkt / Zebra Media HB
+  orgNumber: 969666-9747
+  comment: null
+  categories:
+  - lokaltidning
+  - mediaproduktion
+  web: https://www.landskronadirekt.com/
 
 - entry: 1233605003
   orgName: Dandelion Africa Sverige
@@ -85764,6 +85876,16 @@ entries:
   - hembygdsförening
   web: https://nora-tärnsjöhembygdsförening.se/
 
+- entry: 1234487708
+  orgName: Ad Art i Ängelholm
+  orgNumber: 969780-9003
+  comment: null
+  categories:
+  - design
+  - konstreproduktioner
+  - trycksaker
+  web: https://www.adart.se/
+
 - entry: 1234487757
   orgName: Enhangens FVO
   orgNumber: 802600-3874
@@ -95303,6 +95425,14 @@ entries:
   - idrottsförening
   web: https://capoeiraguanabara.se/
 
+- entry: 1235040845
+  orgName: Konst på Karlsfors
+  orgNumber: 802533-8172
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.konstpakarlsfors.com/
+
 - entry: 1235040928
   orgName: PRO Njurunda
   orgNumber: 889201-8170
@@ -95445,6 +95575,14 @@ entries:
   - förening
   - scoutkår
   web: https://www.lerumsscoutkar.se/
+
+- entry: 1235049994
+  orgName: Tofta Galleriet AB
+  orgNumber: 556948-0659
+  comment: null
+  categories:
+  - konstgalleri
+  web: https://toftakonstgalleri.se/
 
 - entry: 1235051313
   orgName: Kävlinge FotoKlubb
@@ -102161,6 +102299,15 @@ entries:
   - hundsport
   web: https://www.jfshk.se/
 
+- entry: 1235376231
+  orgName: Darkroom Konsthall Riddersvik / Virtuelli Design, Ulla Gustavsson
+  orgNumber: 500112-XXXX
+  comment: null
+  categories:
+  - konstgalleri
+  - konsthall
+  web: https://darkroom.one/
+
 - entry: 1235380258
   orgName: Hofors AIF
   orgNumber: 885500-0405
@@ -103835,6 +103982,19 @@ entries:
   - dansundervisning
   web: https://tangorionegro.org/
 
+- entry: 1235447818
+  orgName: Animal Farm Boda / Karin Olsson
+  orgNumber: 700411-XXXX
+  comment: null
+  categories:
+  - djuruppfödning
+  - hundpensionat
+  - hundträning
+  - kattpensionat
+  - konstgalleri
+  - lantbruk
+  web: https://www.animalfarmboda.com/
+
 - entry: 1235447909
   orgName: AIK Atlas
   orgNumber: 835000-0066
@@ -104227,6 +104387,14 @@ entries:
   - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/ort/ostergotland/finspangs-kommun/
+
+- entry: 1235465190
+  orgName: Konstföreningen Akvatinten
+  orgNumber: 854600-8957
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.akvatinten.se/
 
 - entry: 1235465612
   orgName: Bostadsrättsföreningen Den Gyldene Porten
@@ -106686,6 +106854,15 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1235591029
+  orgName: Stiftelsen Jamtli
+  orgNumber: 893200-0303
+  comment: null
+  categories:
+  - museum
+  - stiftelse
+  web: https://www.jamtli.com/
+
 - entry: 1235592092
   orgName: Lions Club Söderköping
   orgNumber: 825002-6070
@@ -106744,6 +106921,14 @@ entries:
   - godkänd gåvomottagare
   - välgörenhet
   web: https://www.stadsmissionen.se/
+
+- entry: 1235595939
+  orgName: Gustaf Dalén Memorial på Lidingö, GDM / Hans Olov Almqvist
+  orgNumber: 361127-XXXX
+  comment: null
+  categories:
+  - intresseförening
+  web: null
 
 - entry: 1235596028
   orgName: Vuollerims Motorförening
@@ -115275,6 +115460,14 @@ entries:
   - ryttarförening
   web: https://nanstasrf0.webnode.se/
 
+- entry: 1236038715
+  orgName: Röda Sten Konsthall
+  orgNumber: 855101-3447
+  comment: null
+  categories:
+  - konstgalleri
+  web: https://rodastenkonsthall.se/
+
 - entry: 1236038830
   orgName: Saxå Golfklubb
   orgNumber: 877100-4002
@@ -115332,6 +115525,16 @@ entries:
   - biodlareförening
   - biodling
   web: https://sodra-kalmar.biodlarna.se/
+
+- entry: 1236040166
+  orgName: Skoklosters Slotts Vänner
+  orgNumber: 802459-2340
+  comment: null
+  categories:
+  - museiförening
+  - museum
+  - slott
+  web: https://skoklostersslott.se/
 
 - entry: 1236040869
   orgName: Rickard Wilson-Sällskapet
@@ -117907,6 +118110,15 @@ entries:
   - försäljning
   - hudvård
   web: https://www.eco-butiken.se/
+
+- entry: 1236172688
+  orgName: Gycklargruppen TRiX / Traktor Entertainment
+  orgNumber: 769606-7094
+  comment: null
+  categories:
+  - gycklargrupp
+  - underhållning
+  web: https://gycklarna.com/
 
 - entry: 1236172811
   orgName: Mockfjärds Församling
@@ -120898,6 +121110,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/EskilstunaCityFK/
 
+- entry: 1236329197
+  orgName: Strandberg Elofsruds Konst / Johan Strandberg
+  orgNumber: 630924-XXXX
+  comment: null
+  categories:
+  - konstnär
+  web: https://www.strandbergelofsrud.com/
+
 - entry: 1236329718
   orgName: Bohuslän-Dals Bridgeförening
   orgNumber: 802461-7998
@@ -121126,6 +121346,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/hargsbk
+
+- entry: 1236338339
+  orgName: Forum Göteborg / House of Bradford AB
+  orgNumber: 559045-9102
+  comment: null
+  categories:
+  - café
+  - konstgalleri
+  web: https://www.forum-goteborg.se/
 
 - entry: 1236339113
   orgName: null
@@ -129601,6 +129830,15 @@ entries:
   categories:
   - kommun
   web: https://www.ostragoinge.se/
+
+- entry: 1236776496
+  orgName: Alvikstorpets Vänner
+  orgNumber: 802432-5543
+  comment: null
+  categories:
+  - café
+  - konstgalleri
+  web: https://alvikstorpet.se/
 
 - entry: 1236776546
   orgName: Älvsjö AIK Simförening
