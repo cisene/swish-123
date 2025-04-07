@@ -1023,6 +1023,15 @@ entries:
   - krav maga
   web: https://www.kravmagavast.se/
 
+- entry: 1230056184
+  orgName: Malmö Pickleball Klubb
+  orgNumber: 802544-9607
+  comment: null
+  categories:
+  - idrottsförening
+  - pickleballklubb
+  web: https://malmopickleball.com/
+
 - entry: 1230057356
   orgName: PRO Säffle
   orgNumber: 874400-7686
@@ -1538,6 +1547,16 @@ entries:
   - folkdans
   - intresseförening
   web: https://internationellafolkdansklubben.com/
+
+- entry: 1230076570
+  orgName: Smålands Ornitologiska Förening, SmOF
+  orgNumber: 829501-7126
+  comment: null
+  categories:
+  - fågelklubb
+  - fågelskådning
+  - ornitologi
+  web: https://smof.se/
 
 - entry: 1230076786
   orgName: Alnö SK
@@ -2362,6 +2381,14 @@ entries:
   categories:
   - religion
   web: https://www.efs.nu/norrbotten/
+
+- entry: 1230133900
+  orgName: Hjälporganisation Serber för Serber
+  orgNumber: 802515-1310
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://serbsforserbs.org/
 
 - entry: 1230134486
   orgName: Donnez Orkester AB
@@ -5308,11 +5335,12 @@ entries:
   web: https://www.svenskalag.se/hbfc
 
 - entry: 1230294033
-  orgName: Spanska Akademins fotbollsförening
+  orgName: Spanska Akademins Fotbollsförening
   orgNumber: 802474-8561
   comment: null
   categories:
   - fotbollsklubb
+  - futsalklubb
   - idrottsförening
   web: https://www.spanskaakademin.se/
 
@@ -9211,6 +9239,13 @@ entries:
   - pensionärsklubb
   web: https://vision.se/system/avdelningar/stockholm/pensionarsavdelningen/sektioner/Kalmarpensionar/
 
+- entry: 1230468173
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230468710
   orgName: Uddevalla Hundägarförening
   orgNumber: 802543-7396
@@ -9510,6 +9545,7 @@ entries:
   comment: null
   categories:
   - fotbollsklubb
+  - futsalklubb
   - idrottsförening
   web: https://www.hsk-fotboll.nu/
 
@@ -12410,6 +12446,16 @@ entries:
   categories:
   - utbildning
   web: https://demokratibygget.se/
+
+- entry: 1230638783
+  orgName: Västblekinges Ornitologiska Förening
+  orgNumber: 802510-3006
+  comment: null
+  categories:
+  - fågelklubb
+  - fågelskådning
+  - ornitologi
+  web: https://www.vbof.se/
 
 - entry: 1230639005
   orgName: Inlands Folkdansare
@@ -16439,6 +16485,7 @@ entries:
   comment: null
   categories:
   - fotbollsklubb
+  - futsalklubb
   - idrottsförening
   web: https://ostersif.se/
 
@@ -17934,6 +17981,15 @@ entries:
   categories:
   - golfklubb
   web: https://www.oresundsgk.se/
+
+- entry: 1230905307
+  orgName: Kaizenkan IF
+  orgNumber: 802504-2600
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  web: https://www.kaizenkan.se/
 
 - entry: 1230905331
   orgName: Bostadsrättsföreningen Harsprånget i Stockholm
@@ -20759,6 +20815,13 @@ entries:
   - konstförening
   web: https://linkopingpolisen.konstforeningar.se/
 
+- entry: 1231041144
+  orgName: Nybyns Intresseförening
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1231041235
   orgName: Aktiva Seniorer Skellefteå
   orgNumber: 894701-3796
@@ -21477,6 +21540,14 @@ entries:
   categories:
   - naturvård
   web: https://www.nordicarea.se/
+
+- entry: 1231069772
+  orgName: GAIS Supporterklubb Makrillarna
+  orgNumber: 857200-5224
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://makrillarna.org/
 
 - entry: 1231069970
   orgName: Rotary Malmö Västra Hamnen
@@ -25087,6 +25158,16 @@ entries:
   - försäljning
   - konfektion
   web: https://tordyvel.com/
+
+- entry: 1231249721
+  orgName: Medeltidsföreningen Reengarda
+  orgNumber: 894702-0742
+  comment: null
+  categories:
+  - bågskytteklubb
+  - historieförening
+  - medeltidsförening
+  web: https://www.reengarda.se/
 
 - entry: 1231251065
   orgName: Team Rynkeby
@@ -30641,6 +30722,7 @@ entries:
   categories:
   - bowlsklubb
   - fotbollsklubb
+  - futsalklubb
   - idrottsförening
   web: https://www.kappelshamnsik.se/
 
@@ -32608,6 +32690,7 @@ entries:
   comment: null
   categories:
   - fotbollsklubb
+  - futsalklubb
   - idrottsförening
   web: https://www.kungsbackaif.se/
 
@@ -34059,6 +34142,7 @@ entries:
   comment: null
   categories:
   - fotbollsklubb
+  - futsalklubb
   - idrottsförening
   web: https://www.odsmalsik.se/
 
@@ -40032,6 +40116,16 @@ entries:
   - hjälporganisation
   web: https://socialamissionen.se/
 
+- entry: 1232032340
+  orgName: Björboholms Tennisklubb
+  orgNumber: 863500-4735
+  comment: null
+  categories:
+  - idrottsförening
+  - pickleballklubb
+  - tennisklubb
+  web: https://www.facebook.com/BjorboholmsTK
+
 - entry: 1232032704
   orgName: Madinah insamlingsstiftelse
   orgNumber: 802480-4117
@@ -45007,6 +45101,15 @@ entries:
   - simsällskap
   web: https://www.salass.nu/
 
+- entry: 1232266583
+  orgName: Gestriklands Fotbollsförbund
+  orgNumber: 885500-3649
+  comment: null
+  categories:
+  - fotbollsförbund
+  - idrottsförbund
+  web: https://gestrikland.svenskfotboll.se/
+
 - entry: 1232266922
   orgName: Dalarnas Andlig Healingcenter / Anna-Karin Berg
   orgNumber: 661225-XXXX
@@ -45739,6 +45842,14 @@ entries:
   categories:
   - intresseförening
   web: https://pffumea.se/
+
+- entry: 1232295277
+  orgName: Arkens Gärde Tifo
+  orgNumber: 802545-9176
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.siriusfotboll.se/
 
 - entry: 1232299170
   orgName: Haparanda FF
@@ -59004,8 +59115,8 @@ entries:
   orgNumber: 802492-0160
   comment: null
   categories:
+  - fågelklubb
   - fågelskådning
-  - förening
   - ornitologi
   web: https://halleforsornitologiskaforening.se/
 
@@ -61142,6 +61253,18 @@ entries:
   categories:
   - scoutkår
   web: https://björsätersscoutkår.se/
+
+- entry: 1233123445
+  orgName: Sagittarii Holmiae - Stockholms Långbågsfänika
+  orgNumber: 802491-6028
+  comment: null
+  categories:
+  - bågskytteklubb
+  - historieförening
+  - idrottsförening
+  - kulturförening
+  - medeltidsförening
+  web: https://longbows.se/
 
 - entry: 1233123486
   orgName: Halmstads Församling
@@ -70758,6 +70881,15 @@ entries:
   - bostadsrättsförening
   web: https://www.brfskolden.se/
 
+- entry: 1233618105
+  orgName: Wattholma IF
+  orgNumber: 817601-0737
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.wattholmaif.se/
+
 - entry: 1233618384
   orgName: Highlight Bålsta
   orgNumber: 916512-1220
@@ -72551,7 +72683,7 @@ entries:
 - entry: 1233717311
   orgName: Örebro Syrianska IF Ungdom
   orgNumber: 802489-0207
-  comment: P2014
+  comment: P2014/P2015
   categories:
   - fotbollsklubb
   - idrottsförening
@@ -77321,6 +77453,15 @@ entries:
   - intresseförening
   web: https://grynkorv.se/
 
+- entry: 1233967866
+  orgName: Dalecarlian Horse Adventures AB
+  orgNumber: 556922-3588
+  comment: null
+  categories:
+  - hästsport
+  - ridskola
+  web: https://www.beridetbagskytte.se/
+
 - entry: 1233967874
   orgName: Falkenbergs Roddklubb
   orgNumber: 849000-0299
@@ -80485,6 +80626,16 @@ entries:
   - ridklubb
   web: https://www.svenskalag.se/dalslandshastsportklubb
 
+- entry: 1234170858
+  orgName: IFK Karlshamn
+  orgNumber: 836200-0690
+  comment: null
+  categories:
+  - fotbollsklubb
+  - futsalklubb
+  - idrottsförening
+  web: https://www.ifkkarlshamn.com/
+
 - entry: 1234170890
   orgName: Equmenia Ansgarskyrkan Västerås
   orgNumber: 878000-8499
@@ -83469,6 +83620,16 @@ entries:
   - lekstugor
   web: https://www.lektema.se/
 
+- entry: 1234320735
+  orgName: Stiftelsen Falsterbo Fågelstation
+  orgNumber: 802482-6466
+  comment: null
+  categories:
+  - fågelklubb
+  - fågelskådning
+  - ornitologi
+  web: https://falsterbofagelstation.se/
+
 - entry: 1234322376
   orgName: Gammelgårdens IF
   orgNumber: 898200-6242
@@ -83637,6 +83798,15 @@ entries:
   - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/ort/vastra-gotaland/alingsas-kommun/
+
+- entry: 1234339503
+  orgName: Arboga Bågskytteklubb
+  orgNumber: 878500-6928
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://arbogabsk.webnode.se/
 
 - entry: 1234339883
   orgName: Ljusdals Shotokan Karateklubb
@@ -86151,6 +86321,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.rågsvedsif.se/
+
+- entry: 1234491395
+  orgName: Lagan IBK
+  orgNumber: 802436-8154
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/LaganIBK/
 
 - entry: 1234491437
   orgName: Jönköpings Karting Club, JKC
@@ -90917,6 +91096,15 @@ entries:
   - riksförbund
   - utbildning
   web: https://fak.se/
+
+- entry: 1234720645
+  orgName: Medeltidföreningen Juneborg
+  orgNumber: 826002-0444
+  comment: null
+  categories:
+  - historieförening
+  - medeltidsförening
+  web: https://juneborg.nordmark.org/
 
 - entry: 1234720868
   orgName: Grevie GIK
@@ -108404,11 +108592,12 @@ entries:
   web: https://mklidkoping.se/
 
 - entry: 1235648118
-  orgName: null
-  orgNumber: null
-  comment: Bara Vara Barn
-  categories: null
-  web: null
+  orgName: Bara Vara Barn
+  orgNumber: 769641-3017
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.facebook.com/groups/612582809902442/
 
 - entry: 1235650254
   orgName: Mora Fotoklubb
@@ -109450,6 +109639,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/ljungby/odensjo-forsamling
+
+- entry: 1235703582
+  orgName: Grimslövs AIF Bågskytte
+  orgNumber: 829501-1236
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://www.gaif.se/
 
 - entry: 1235703657
   orgName: Sadelmakarna i Stockholm AB
@@ -110698,6 +110896,15 @@ entries:
   - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/engelholmspk
+
+- entry: 1235767595
+  orgName: Sigtuna Bågskytteklubb
+  orgNumber: 802447-9340
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://www.sigtunabagskytte.se/
 
 - entry: 1235767876
   orgName: Lions Club Rättvik
@@ -120795,6 +121002,16 @@ entries:
   - naturskydd
   - naturvård
   web: https://www.gbfnatur.se/
+
+- entry: 1236284566
+  orgName: Nödinge SK
+  orgNumber: 863500-3232
+  comment: null
+  categories:
+  - fotbollsklubb
+  - futsalklubb
+  - idrottsförening
+  web: https://www.laget.se/NSKFotboll/
 
 - entry: 1236284616
   orgName: Föreningen Rädda Regnskog, Sverige

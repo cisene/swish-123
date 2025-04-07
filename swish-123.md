@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-06-rev-160626
+Revision: 2025-04-07-rev-210451
 
-Nummer: 15444
+Nummer: 15466
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2594,6 +2594,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Arboga Bågskytteklubb**
+
+    123 433 95 03
+
+
+
+
 **Arboga Folkets Park**
 
     123 287 38 42
@@ -2742,6 +2749,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Arkelstorps Scoutkår KFUK-KFUM**
 
     123 501 07 56
+
+
+
+
+**Arkens Gärde Tifo**
+
+    123 229 52 77
 
 
 
@@ -4011,6 +4025,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bara vanlig hälsa**
 
     123 019 10 23
+
+
+
+
+**Bara Vara Barn**
+
+    123 564 81 18
 
 
 
@@ -5407,6 +5428,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Björbo IF**
 
     123 006 92 86
+
+
+
+
+**Björboholms Tennisklubb**
+
+    123 203 23 40
 
 
 
@@ -12137,6 +12165,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dalbybygdens Släkt- och Folklivsforskarförening**
 
     123 644 56 54
+
+
+
+
+**Dalecarlian Horse Adventures AB**
+
+    123 396 78 66
 
 
 
@@ -23135,6 +23170,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**GAIS Supporterklubb Makrillarna**
+
+    123 106 97 72
+
+
+
+
 **GAIS Tifo / KJIG**
 
     123 086 83 80
@@ -23518,6 +23560,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gestrica Kattklubb**
 
     123 147 44 10
+
+
+
+
+**Gestriklands Fotbollsförbund**
+
+    123 226 65 83
 
 
 
@@ -24576,6 +24625,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Grimskaftet Samfällighetsförening**
 
     123 081 85 59
+
+
+
+
+**Grimslövs AIF Bågskytte**
+
+    123 570 35 82
 
 
 
@@ -28828,6 +28884,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hjälporganisation Serber för Serber**
+
+    123 013 39 00
+
+
+
+
 **Hjälptransporten Filippus**
 
     123 006 82 05
@@ -32443,6 +32506,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **IFK Kalmar**
 
     123 281 82 01
+
+
+
+
+**IFK Karlshamn**
+
+    123 417 08 58
 
 
 
@@ -36504,6 +36574,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kaitumälvdals Skoter & Fritidsförening**
 
     123 046 13 27
+
+
+
+
+**Kaizenkan IF**
+
+    123 090 53 07
 
 
 
@@ -42442,6 +42519,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 386 44 36
 
+    123 449 13 95
+
 
 
 
@@ -47407,6 +47486,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malmö Pickleball Klubb**
+
+    123 005 61 84
+
+
+
+
 **Malmö Pingstförsamling**
 
     123 580 84 49
@@ -48255,6 +48341,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 402 90 88
 
     123 460 40 39
+
+
+
+
+**Medeltidföreningen Juneborg**
+
+    123 472 06 45
+
+
+
+
+**Medeltidsföreningen Reengarda**
+
+    123 124 97 21
 
 
 
@@ -53576,6 +53676,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nödinge Församling**
 
     123 628 69 26
+
+
+
+
+**Nödinge SK**
+
+    123 628 45 66
 
 
 
@@ -62819,6 +62926,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sagittarii Holmiae - Stockholms Långbågsfänika**
+
+    123 312 34 45
+
+
+
+
 **Sail Training Association of Sweden, STAS**
 
     123 091 07 52
@@ -64360,6 +64474,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sigtuna Budoklubb**
 
     123 063 59 53
+
+
+
+
+**Sigtuna Bågskytteklubb**
+
+    123 576 75 95
 
 
 
@@ -67204,6 +67325,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Smålands Ornitologiska Förening, SmOF**
+
+    123 007 65 70
+
+
+
+
 **Smålands Stövarklubb**
 
     123 170 32 30
@@ -67901,7 +68029,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Spanska Akademins fotbollsförening**
+**Spanska Akademins Fotbollsförening**
 
     123 029 40 33
 
@@ -70619,6 +70747,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen Expo**
 
     123 271 02 59
+
+
+
+
+**Stiftelsen Falsterbo Fågelstation**
+
+    123 432 07 35
 
 
 
@@ -88017,6 +88152,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västblekinges Ornitologiska Förening**
+
+    123 063 87 83
+
+
+
+
 **Västbo BSK - Bågskytte**
 
     123 463 85 99
@@ -89383,6 +89525,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Wattholma IF**
+
+    123 361 81 05
 
     123 633 61 35
 
@@ -92848,7 +92992,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 000 87 22
 
-    123 371 73 11 - P2014
+    123 371 73 11 - P2014/P2015
 
     123 552 16 53
 
