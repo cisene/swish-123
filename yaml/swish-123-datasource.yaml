@@ -388,6 +388,14 @@ entries:
   - ukraina
   web: https://www.svenskakyrkan.se/angelholm
 
+- entry: 1230016246
+  orgName: Värmland-Dals Bridgeförbund
+  orgNumber: 874001-7176
+  comment: null
+  categories:
+  - bridgeförbund
+  web: https://www.svenskbridge.se/värmland-dals-bf
+
 - entry: 1230017087
   orgName: Norrbottens Motorsällskap, NMS Boden
   orgNumber: 898500-6397
@@ -575,6 +583,14 @@ entries:
   - idrottsförening
   - mountainbikeklubb
   web: https://teamalbertmtb.com/
+
+- entry: 1230021576
+  orgName: Motala Bridgeallians
+  orgNumber: 824000-7149
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/motala-bridgeallians
 
 - entry: 1230027326
   orgName: Hälsinglands Sportklubb
@@ -5114,6 +5130,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/OSKUHandbollPF14/
 
+- entry: 1230278218
+  orgName: Bågskytteklubben Friskyttarna
+  orgNumber: 825002-9785
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://www.bkfriskyttarna.se/
+
 - entry: 1230278762
   orgName: Kallbadhusföreningen Havsbadet i Ängelholm
   orgNumber: 802526-3669
@@ -7895,6 +7920,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/overtornea
 
+- entry: 1230405712
+  orgName: Göteborgs Bridgeförbund
+  orgNumber: 857203-9231
+  comment: null
+  categories:
+  - bridgeförbund
+  web: https://www.svenskbridge.se/göteborgs-bf
+
 - entry: 1230405985
   orgName: Strömsunds Brukshundklubb, SBHK
   orgNumber: 802413-6940
@@ -8171,6 +8204,7 @@ entries:
   orgNumber: 875003-5209
   comment: null
   categories:
+  - fotbollsklubb
   - idrottsförening
   web: https://www.norabk.com/
 
@@ -11720,6 +11754,14 @@ entries:
   - vinsällskap
   web: https://www.lottenlundestate.se/
 
+- entry: 1230602912
+  orgName: Kullabygdens Bridgeklubb
+  orgNumber: 802532-5567
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/kullabygdens-bk
+
 - entry: 1230603472
   orgName: Kvarnby Basket
   orgNumber: 802473-3423
@@ -11893,7 +11935,11 @@ entries:
   orgNumber: 855100-5401
   comment: null
   categories:
+  - fotbollsklubb
+  - futsalklubb
+  - gymnastikförening
   - idrottsförening
+  - motionsklubb
   web: https://www.laget.se/BackatorpIF/
 
 - entry: 1230622316
@@ -12514,6 +12560,14 @@ entries:
   - larmsystem
   - säkerhetsutrustning
   web: https://www.svenskaalarm.se/
+
+- entry: 1230654962
+  orgName: Bridgeklubben Freja
+  orgNumber: 802496-1065
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/bk-freja
 
 - entry: 1230655332
   orgName: Föreningen Sinnen & Perception
@@ -13478,6 +13532,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/alfta-ovanaker
+
+- entry: 1230713602
+  orgName: Bågskjutningsklubben Fiskgjusen
+  orgNumber: 802456-1394
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://bkfiskgjusen.se/
 
 - entry: 1230713651
   orgName: Kulturföreningen Hönsnätet
@@ -17747,6 +17810,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/BergsbynsSK/
 
+- entry: 1230902999
+  orgName: Ljungens Äggbod / Sandbyljung Lantbruk, Emil Stigsson
+  orgNumber: 870328-XXXX
+  comment: null
+  categories:
+  - försäljning
+  - lantbruk
+  web: https://www.facebook.com/people/Ljungens-%C3%A4ggbod/100076268053660/
+
 - entry: 1230903534
   orgName: Rosenborgs Koloniförening
   orgNumber: 825004-0162
@@ -17939,7 +18011,7 @@ entries:
   web: https://kvibergskatterna.se/
 
 - entry: 1230910901
-  orgName: BK Albrekts
+  orgName: Bridgeklubben Albrekts
   orgNumber: 849600-6670
   comment: null
   categories:
@@ -19832,6 +19904,14 @@ entries:
   - orkester
   web: https://www.therockpit.net/
 
+- entry: 1230990879
+  orgName: Rättviks Bridgesällskap
+  orgNumber: 883202-0922
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://svenskbridge.se/rättviks-bs
+
 - entry: 1230991273
   orgName: S:ta Maria Syrisk Ortodoxa Kyrkan i Göteborg
   orgNumber: 802495-4540
@@ -20579,6 +20659,14 @@ entries:
   categories:
   - konstförening
   web: https://linkopingpolisen.konstforeningar.se/
+
+- entry: 1231040682
+  orgName: Ludvikabygdens Bridgeklubb
+  orgNumber: 883800-4011
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/ludvikabygdens-bk
 
 - entry: 1231041235
   orgName: Aktiva Seniorer Skellefteå
@@ -22543,6 +22631,14 @@ entries:
   - bandyklubb
   - idrottsförening
   web: https://www.oskungdom.se/
+
+- entry: 1231146414
+  orgName: Trosa bridgesällskap
+  orgNumber: 802536-7262
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://svenskbridge.se/trosa-bs
 
 - entry: 1231146497
   orgName: Anderstorps SS
@@ -33077,6 +33173,14 @@ entries:
   - brottsofferjour
   web: https://www.brottsofferjouren.se/
 
+- entry: 1231687086
+  orgName: Skara Bridgesällskap
+  orgNumber: 802533-4916
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/skara-bs
+
 - entry: 1231687292
   orgName: Finspångs CA
   orgNumber: 802455-6360
@@ -33273,6 +33377,15 @@ entries:
   - bastukultur
   - intresseförening
   web: https://www.tantobastuforening.se/
+
+- entry: 1231702968
+  orgName: Borås Brukshundklubb
+  orgNumber: 864500-5557
+  comment: null
+  categories:
+  - brukshundklubb
+  - hundsport
+  web: https://borasbk.se/
 
 - entry: 1231703206
   orgName: Ambjörnarps Bygdegårdsförening
@@ -35408,6 +35521,7 @@ entries:
   orgNumber: 857200-8541
   comment: null
   categories:
+  - fotbollsklubb
   - idrottsförening
   web: https://ifkgoteborg.se/
 
@@ -38496,6 +38610,15 @@ entries:
   - triathlonklubb
   web: https://www.svenskalag.se/kalmarrc
 
+- entry: 1231979194
+  orgName: BK Astrio
+  orgNumber: 849200-0099
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.astrio.nu/
+
 - entry: 1231979202
   orgName: Katrineholms SK FIK
   orgNumber: 818501-5586
@@ -40673,6 +40796,14 @@ entries:
   - musikförening
   web: https://wsg.se/
 
+- entry: 1232098671
+  orgName: Stockholms Bridgeförbund
+  orgNumber: 802000-4373
+  comment: null
+  categories:
+  - bridgeförbund
+  web: https://www.svenskbridge.se/stockholms-bf
+
 - entry: 1232098689
   orgName: Clarajouren - Kvinnojouren i Årjäng
   orgNumber: 802466-2713
@@ -42078,6 +42209,14 @@ entries:
   - ridklubb
   - ridskola
   web: https://www.ekelunds-ridskola.se/
+
+- entry: 1232167948
+  orgName: Gävleborgs Bridgeförbund
+  orgNumber: 885500-6063
+  comment: null
+  categories:
+  - bridgeförbund
+  web: https://www.svenskbridge.se/gävleborgs-bf
 
 - entry: 1232168821
   orgName: Pixbo IBF
@@ -47899,6 +48038,14 @@ entries:
   - religion
   web: https://www.rpg-smaland-oland.se/rpg-smaland-oland/extern/jonkoping-ost.htm
 
+- entry: 1232422905
+  orgName: Bridgeklubben S:t Erik
+  orgNumber: 802003-3927
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.sterik.se/
+
 - entry: 1232423374
   orgName: Makalösa Föräldrar
   orgNumber: 802534-5243
@@ -49523,11 +49670,11 @@ entries:
   web: https://www.facebook.com/groups/118244715384127/
 
 - entry: 1232555373
-  orgName: Skånes BF
+  orgName: Skånes Bridgeförbund
   orgNumber: 846001-0583
   comment: null
   categories:
-  - bridgeklubb
+  - bridgeförbund
   web: https://www.svenskbridge.se/skånes-bf
 
 - entry: 1232555803
@@ -50990,6 +51137,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/skepplanda
+
+- entry: 1232637411
+  orgName: Gripen Trollhättan Bandyklubb
+  orgNumber: 863000-4201
+  comment: null
+  categories:
+  - bandyklubb
+  - idrottsförening
+  web: https://gripentrollhattan.se/
 
 - entry: 1232637676
   orgName: FC Helsingborg
@@ -58317,6 +58473,14 @@ entries:
   - segelsällskap
   web: https://www.ssdelfinen.se/
 
+- entry: 1233006004
+  orgName: Bridgeklubben Bridgehuset
+  orgNumber: 802466-2218
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/bk-bridgehuset
+
 - entry: 1233006350
   orgName: Häverödals SK
   orgNumber: 814400-5967
@@ -58804,6 +58968,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.eik.se/
+
+- entry: 1233035201
+  orgName: Flens Brottningsklubb
+  orgNumber: 818500-6775
+  comment: null
+  categories:
+  - brottningsklubb
+  - idrottsförening
+  web: https://flensbk.se/
 
 - entry: 1233036266
   orgName: Svenska Rottweilerklubben
@@ -59918,6 +60091,15 @@ entries:
   categories:
   - kvinnojour
   web: https://www.kvinnojourenulricehamn.se/
+
+- entry: 1233087087
+  orgName: Svenska Bridgeförbundet
+  orgNumber: 802000-4365
+  comment: null
+  categories:
+  - bridgeförbund
+  - förbund
+  web: https://www.svenskbridge.se/
 
 - entry: 1233087145
   orgName: Ytterby Samfällighetsförening 1
@@ -61214,6 +61396,14 @@ entries:
   categories:
   - scoutkår
   web: https://ortofta.scout.se/
+
+- entry: 1233149531
+  orgName: Norrorts Bridge
+  orgNumber: 802466-5781
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/norrorts-bridge
 
 - entry: 1233150505
   orgName: PowerUpUkraine / EFS Missionsförening i Kalmar
@@ -66398,6 +66588,15 @@ entries:
   - religion
   web: http://brokyrkan.com/
 
+- entry: 1233443876
+  orgName: Halmstad BK
+  orgNumber: 556789-7656
+  comment: Damkortet
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.hbk.se/
+
 - entry: 1233444189
   orgName: Möklinta Hembygdsförening
   orgNumber: 802501-2934
@@ -69064,6 +69263,14 @@ entries:
   - bostadsrättsförening
   web: http://brfnolered.se/
 
+- entry: 1233554979
+  orgName: Östra Mellansvenska Bridgeförbundet
+  orgNumber: 822001-6094
+  comment: null
+  categories:
+  - bridgeförbund
+  web: https://www.svenskbridge.se/östra-mellansvenska-bf
+
 - entry: 1233555331
   orgName: IFK Anderstorp
   orgNumber: 894701-4141
@@ -69641,6 +69848,14 @@ entries:
   - djurskydd
   - katthem
   web: https://vallentunakattcenter.se/
+
+- entry: 1233588266
+  orgName: Lunds Bridgeklubb
+  orgNumber: 802546-7997
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/lunds-bk
 
 - entry: 1233590528
   orgName: Stockholms Improvisationsteater AB
@@ -70436,6 +70651,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
+
+- entry: 1233632593
+  orgName: Betlehemskyrkans Församling
+  orgNumber: 857200-1413
+  comment: Gåva Mariakyrkan Hammarkullen
+  categories:
+  - religion
+  web: https://betlehemskyrkan.se/
 
 - entry: 1233632627
   orgName: Torsten Renqvist Sällskapet
@@ -71759,6 +71982,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/HarrydaIF/
 
+- entry: 1233715687
+  orgName: Skänninge Bridgeklubb
+  orgNumber: 802467-1169
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/skänninge-bk
+
 - entry: 1233715968
   orgName: Mariestads Golfklubb
   orgNumber: 866000-6332
@@ -72643,6 +72874,14 @@ entries:
   categories:
   - fritidsaktiviteter
   web: https://www.upplevonjut.se/skanevandring/
+
+- entry: 1233780251
+  orgName: Tjörns Bridgeklubb
+  orgNumber: 802506-4174
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/tjörns-bk
 
 - entry: 1233780384
   orgName: Munskänkarna
@@ -75514,6 +75753,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/hargsbk
 
+- entry: 1233918299
+  orgName: Boxningsklubben Visenten
+  orgNumber: 802430-7111
+  comment: null
+  categories:
+  - boxningsklubb
+  - idrottsförening
+  web: https://www.facebook.com/groups/126951847391669
+
 - entry: 1233918729
   orgName: Högsrums Hembygdsförening
   orgNumber: 832000-6060
@@ -75529,6 +75777,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/gryt
+
+- entry: 1233922192
+  orgName: Nyköpings Bridgesällskap
+  orgNumber: 802544-5811
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/nyköpings-bs
 
 - entry: 1233923059
   orgName: Eksta IF
@@ -76782,6 +77038,14 @@ entries:
   - religion
   web: https://www.facebook.com/profile.php?id=100066796235393
 
+- entry: 1233975638
+  orgName: Ödeshögs Bridgeklubb
+  orgNumber: 802518-9559
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/ödeshögs-bk
+
 - entry: 1233975851
   orgName: Maskinfirma Glaj AB
   orgNumber: 556652-4632
@@ -77381,6 +77645,14 @@ entries:
   - religion
   web: https://tibetanbuddhism.se/
 
+- entry: 1234014247
+  orgName: Tranås Bridgeklubb
+  orgNumber: 802494-6926
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/tranås-bk
+
 - entry: 1234015129
   orgName: Karlskrona CK - Cykel
   orgNumber: 835000-3847
@@ -77389,6 +77661,15 @@ entries:
   - cykelklubb
   - idrottsförening
   web: https://www.karlskronack.com/
+
+- entry: 1234015327
+  orgName: IFK Göteborg
+  orgNumber: 857200-8541
+  comment: Drottning Silvias barnsjukhus
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://ifkgoteborg.se/
 
 - entry: 1234016796
   orgName: Lycksele Tjejjour
@@ -81291,6 +81572,14 @@ entries:
   - innebandyklubb
   web: https://www.hagundaif.se/
 
+- entry: 1234237715
+  orgName: Åkersberga Bridgesällskap
+  orgNumber: 802446-1462
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/åkersberga-bs
+
 - entry: 1234237749
   orgName: Eventrace AB
   orgNumber: 559328-3194
@@ -81307,6 +81596,14 @@ entries:
   categories:
   - golfutrustning
   web: https://www.facebook.com/groups/golfklubbor
+
+- entry: 1234238739
+  orgName: Norrtälje Bridgesällskap
+  orgNumber: 814401-1148
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/norrtälje-bs
 
 - entry: 1234239182
   orgName: Framtid Kalmar
@@ -84380,6 +84677,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/askim
 
+- entry: 1234424495
+  orgName: Bridgeklubben Fenix i Ystad
+  orgNumber: 802433-9510
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/bk-fenix
+
 - entry: 1234424768
   orgName: Equmenia Älvsjö
   orgNumber: 802011-0592
@@ -85536,6 +85841,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
+
+- entry: 1234495511
+  orgName: Bridgeklubben Allians Halmstad
+  orgNumber: 849202-2283
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/bk-allians-halmstad
 
 - entry: 1234495552
   orgName: Team Rynkeby
@@ -89898,6 +90211,14 @@ entries:
   - kennelklubb
   web: https://www.tlkk.hundpoolen.se/
 
+- entry: 1234714457
+  orgName: Hasslövs Bridgeklubb
+  orgNumber: 802504-4994
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/hasslövs-bk
+
 - entry: 1234714548
   orgName: Segelklubben Måsungen
   orgNumber: 814000-2737
@@ -93727,6 +94048,15 @@ entries:
   - hembygdsförening
   web: https://www.backefors.com/
 
+- entry: 1234990206
+  orgName: Rögle BK
+  orgNumber: 843000-5531
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.roglebk.se/
+
 - entry: 1234990768
   orgName: Färjestad BK - Konståkning
   orgNumber: 873200-4869
@@ -95018,6 +95348,14 @@ entries:
   - karateklubb
   web: https://www.svenskalag.se/carlskronashotokan
 
+- entry: 1235065875
+  orgName: Gotlands Bridgeförbund
+  orgNumber: 802488-5611
+  comment: null
+  categories:
+  - bridgeförbund
+  web: https://www.svenskbridge.se/gotlands-bf
+
 - entry: 1235066113
   orgName: Hörselskadades Riksförbund
   orgNumber: 802413-6767
@@ -95443,6 +95781,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/kramfors/gudmundra-kyrka
+
+- entry: 1235099361
+  orgName: Bridgeklubben Björken
+  orgNumber: 894003-3973
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/bk-björken
 
 - entry: 1235099585
   orgName: Alnö IF
@@ -96380,6 +96726,14 @@ entries:
   - mental hälsa
   - stiftelse
   web: https://www.psykoterapistiftelsen.se/
+
+- entry: 1235118476
+  orgName: Åtvidabergs Bridgesällskap
+  orgNumber: 802465-4934
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/åtvidabergs-bs
 
 - entry: 1235118500
   orgName: Förebildarna / Ung Handlingskraft Göteborg
@@ -97493,6 +97847,15 @@ entries:
   categories:
   - samfällighetsförening
   web: https://jukkasjarvi-paksuniemi.se/
+
+- entry: 1235154109
+  orgName: Bågskytteklubben Danapilen
+  orgNumber: 802441-7423
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://www.danapilen.se/
 
 - entry: 1235154141
   orgName: Latorps IF
@@ -98899,6 +99262,14 @@ entries:
   categories:
   - rotaryklubb
   web: https://savsjo.rotary2380.se/
+
+- entry: 1235239512
+  orgName: Supporterklubben Kvastarna
+  orgNumber: 802469-2421
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.facebook.com/Kvastarna/
 
 - entry: 1235240221
   orgName: PRO Mo-Bergvik
@@ -103930,6 +104301,14 @@ entries:
   - bostadsrättsförening
   web: https://stockholmshus37.se/
 
+- entry: 1235499256
+  orgName: Norrköpingsbridgen
+  orgNumber: 825001-1932
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/norrköpingsbridgen
+
 - entry: 1235502059
   orgName: Kvinnojouren I Sundberg
   orgNumber: 802494-5928
@@ -107814,6 +108193,14 @@ entries:
   - utbildning
   web: https://www.paraglidingstockholm.se/
 
+- entry: 1235679386
+  orgName: Svenska Bridgeförbundet
+  orgNumber: 802000-4365
+  comment: null
+  categories:
+  - bridgeförbund
+  web: https://svenskbridge.se/
+
 - entry: 1235679394
   orgName: Arvika Motorbåtsklubb, AMBK
   orgNumber: 872000-0044
@@ -110811,11 +111198,11 @@ entries:
   web: https://www.laget.se/StorviksIF/
 
 - entry: 1235834700
-  orgName: Jämtland-Härjedalens BF
+  orgName: Jämtland-Härjedalens Bridgeförbund
   orgNumber: 893203-1340
   comment: null
   categories:
-  - bridgeklubb
+  - bridgeförbund
   web: https://www.svenskbridge.se/jämtland-härjedalens-bf
 
 - entry: 1235835558
@@ -112272,6 +112659,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-landskrona/foreningar/haljarp.html
+
+- entry: 1235922307
+  orgName: Betlehemskyrkans Församling
+  orgNumber: 857200-1413
+  comment: Gåva
+  categories:
+  - religion
+  web: https://betlehemskyrkan.se/
 
 - entry: 1235922364
   orgName: Elimförsamlingen i Örebro
@@ -116066,6 +116461,14 @@ entries:
   - hundsport
   web: https://snkinfo.wordpress.com/
 
+- entry: 1236127237
+  orgName: Trosa bridgesällskap
+  orgNumber: 802536-7262
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://svenskbridge.se/trosa-bs
+
 - entry: 1236127732
   orgName: Bankeryds Skid o Motionsklubb, BSMK
   orgNumber: 826002-0196
@@ -116815,6 +117218,15 @@ entries:
   - försäljning
   - gårdsförsäljning
   web: https://gangemad.se/
+
+- entry: 1236157648
+  orgName: Kristianstads DFF IF
+  orgNumber: 802550-3643
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://kdff.nu/
 
 - entry: 1236157879
   orgName: Ingmarsö Bygdegårdsförening
@@ -127626,6 +128038,14 @@ entries:
   - stiftelse
   web: https://www.viggofoundation.se/
 
+- entry: 1236714018
+  orgName: Filbyter Bridge
+  orgNumber: 822002-0484
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/filbyter-bridge
+
 - entry: 1236714133
   orgName: Ludvika OK
   orgNumber: 883800-3161
@@ -129220,6 +129640,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.mariestadsbk.com/
+
+- entry: 1236790463
+  orgName: Bridgeklubben ESS-Löv
+  orgNumber: 802507-1641
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/bk-ess-löv
 
 - entry: 1236790919
   orgName: Sveriges Ångbåtsförening

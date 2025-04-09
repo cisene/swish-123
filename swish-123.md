@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-09-rev-194119
+Revision: 2025-04-09-rev-235426
 
-Nummer: 15467
+Nummer: 15518
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -4854,6 +4854,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Betlehemskyrkans Församling**
+
+    123 363 25 93 - Gåva Mariakyrkan Hammarkullen
+
+    123 592 23 07 - Gåva
+
+
+
+
 **Bettna Församling**
 
     123 033 72 20
@@ -5681,16 +5690,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**BK Albrekts**
-
-    123 091 09 01
-
-
-
-
 **BK Allön**
 
     123 663 21 03
+
+
+
+
+**BK Astrio**
+
+    123 197 91 94
 
 
 
@@ -6938,6 +6947,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Borås Bouleallians**
 
     123 619 20 74
+
+
+
+
+**Borås Brukshundklubb**
+
+    123 170 29 68
 
 
 
@@ -8884,6 +8900,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Boxningsklubben Visenten**
+
+    123 391 82 99
+
+
+
+
 **Boxvike Segelsällskap, BoSS**
 
     123 638 85 65
@@ -9139,9 +9162,65 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bridgeklubben Albrekts**
+
+    123 091 09 01
+
+
+
+
+**Bridgeklubben Allians Halmstad**
+
+    123 449 55 11
+
+
+
+
+**Bridgeklubben Björken**
+
+    123 509 93 61
+
+
+
+
+**Bridgeklubben Bridgehuset**
+
+    123 300 60 04
+
+
+
+
+**Bridgeklubben ESS-Löv**
+
+    123 679 04 63
+
+
+
+
+**Bridgeklubben Fenix i Ystad**
+
+    123 442 44 95
+
+
+
+
+**Bridgeklubben Freja**
+
+    123 065 49 62
+
+
+
+
 **Bridgeklubben Pri-Bri 1936**
 
     123 140 67 27
+
+
+
+
+**Bridgeklubben S:t Erik**
+
+    123 242 29 05
 
 
 
@@ -10426,6 +10505,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bäverdalens Ishockeyklubb**
 
     123 150 35 49
+
+
+
+
+**Bågskjutningsklubben Fiskgjusen**
+
+    123 071 36 02
+
+
+
+
+**Bågskytteklubben Danapilen**
+
+    123 515 41 09
+
+
+
+
+**Bågskytteklubben Friskyttarna**
+
+    123 027 82 18
 
 
 
@@ -18406,6 +18506,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Filbyter Bridge**
+
+    123 671 40 18
+
+
+
+
 **Filipstads Församling**
 
     123 548 90 42
@@ -18962,6 +19069,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Flens Bordtennisklubb**
 
     123 230 03 82
+
+
+
+
+**Flens Brottningsklubb**
+
+    123 303 52 01
 
 
 
@@ -24365,6 +24479,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gotlands Bridgeförbund**
+
+    123 506 58 75
+
+
+
+
 **Gotlands Bro SK**
 
     123 479 81 46
@@ -24660,6 +24781,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Griparna - Nyköpings Speedway Klubb, NSK**
 
     123 668 56 48
+
+
+
+
+**Gripen Trollhättan Bandyklubb**
+
+    123 263 74 11
 
 
 
@@ -25860,6 +25988,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gävleborgs Bridgeförbund**
+
+    123 216 79 48
+
+
+
+
 **Gävleborgs Dreverklubb**
 
     123 218 09 09
@@ -26075,6 +26210,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Göteborgs Bluesförening**
 
     123 686 31 12
+
+
+
+
+**Göteborgs Bridgeförbund**
+
+    123 040 57 12
 
 
 
@@ -26657,6 +26799,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **HallåHund**
 
     123 495 39 15
+
+
+
+
+**Halmstad BK**
+
+    123 344 38 76 - Damkortet
 
 
 
@@ -27432,6 +27581,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hasslö GoIF**
 
     123 199 43 00
+
+
+
+
+**Hasslövs Bridgeklubb**
+
+    123 471 44 57
 
 
 
@@ -32472,6 +32628,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 180 11 90
 
+    123 401 53 27 - Drottning Silvias barnsjukhus
+
 
 
 
@@ -35998,7 +36156,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Jämtland-Härjedalens BF**
+**Jämtland-Härjedalens Bridgeförbund**
 
     123 583 47 00
 
@@ -40271,6 +40429,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kristianstads DFF IF**
+
+    123 615 76 48
+
+
+
+
 **Kristianstads JSK - Skyttesport**
 
     123 568 08 89
@@ -40682,6 +40847,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kullabergs Naturreservat / Länsstyrelsen Skåne**
 
     123 194 22 42
+
+
+
+
+**Kullabygdens Bridgeklubb**
+
+    123 060 29 12
 
 
 
@@ -45284,6 +45456,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ljungens Äggbod / Sandbyljung Lantbruk, Emil Stigsson**
+
+    123 090 29 99
+
+
+
+
 **Ljunghusens Golfklubb**
 
     123 184 58 82
@@ -45884,6 +46063,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ludvikabygdens Bridgeklubb**
+
+    123 104 06 82
+
+
+
+
 **LUGI Handboll**
 
     123 447 70 06
@@ -46258,6 +46444,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lunds Botaniska Förening**
 
     123 095 91 30
+
+
+
+
+**Lunds Bridgeklubb**
+
+    123 358 82 66
 
 
 
@@ -49504,6 +49697,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Motala Bridgeallians**
+
+    123 002 15 76
+
+
+
+
 **Motala Golfklubb**
 
     123 378 41 13
@@ -52479,6 +52679,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Norrköpingsbridgen**
+
+    123 549 92 56
+
+
+
+
 **Norrlands Kundaliniyoga Center / Maja Tellegård**
 
     123 005 36 60
@@ -52510,6 +52717,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Norrmjöle Tennisklubb**
 
     123 028 10 48
+
+
+
+
+**Norrorts Bridge**
+
+    123 314 95 31
 
 
 
@@ -52559,6 +52773,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Norrtälje Biljardklubb**
 
     123 174 44 73
+
+
+
+
+**Norrtälje Bridgesällskap**
+
+    123 423 87 39
 
 
 
@@ -53167,6 +53388,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nyköpings Bowlingsällskap, NBS**
 
     123 349 23 03
+
+
+
+
+**Nyköpings Bridgesällskap**
+
+    123 392 21 92
 
 
 
@@ -62172,6 +62400,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rättviks Bridgesällskap**
+
+    123 099 08 79
+
+
+
+
 **Rättviks GK**
 
     123 436 94 01 - 55+
@@ -62493,6 +62728,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rögle BK**
 
     123 124 04 98 - Team 14
+
+    123 499 02 06
 
 
 
@@ -65281,6 +65518,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skara Bridgesällskap**
+
+    123 168 70 86
+
+
+
+
 **Skara Brukshundsklubb**
 
     123 041 69 41
@@ -66387,6 +66631,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skänninge Bridgeklubb**
+
+    123 371 56 87
+
+
+
+
 **Skänninge Församling**
 
     123 005 40 15 - Kollekt
@@ -66525,7 +66776,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Skånes BF**
+**Skånes Bridgeförbund**
 
     123 255 53 73
 
@@ -71761,6 +72012,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stockholms Bridgeförbund**
+
+    123 209 86 71
+
+
+
+
 **Stockholms BSK - Baseboll och Softboll**
 
     123 115 81 38
@@ -73497,6 +73755,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Supporterklubben Kvastarna**
+
+    123 523 95 12
+
+
+
+
 **Supporterklubben Kärnan**
 
     123 576 64 49
@@ -74284,6 +74549,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Brand och Räddningstjänst Idrottsförbund, SBRIF**
 
     123 089 64 07
+
+
+
+
+**Svenska Bridgeförbundet**
+
+    123 308 70 87
+
+    123 567 93 86
 
 
 
@@ -81117,6 +81391,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tjörns Bridgeklubb**
+
+    123 378 02 51
+
+
+
+
 **Tjörns Hembygdsförening**
 
     123 346 64 14
@@ -81967,6 +82248,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tranås Bridgeklubb**
+
+    123 401 42 47
+
+
+
+
 **Tranås Kvinnojour**
 
     123 495 08 46
@@ -82289,6 +82577,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Trollsländeföreningen**
 
     123 371 74 36
+
+
+
+
+**Trosa bridgesällskap**
+
+    123 114 64 14
+
+    123 612 72 37
 
 
 
@@ -87742,6 +88039,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Värmland-Dals Bridgeförbund**
+
+    123 001 62 46
+
+
+
+
 **Värmland mot Kärnkraft**
 
     123 630 61 79
@@ -91560,6 +91864,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Åkersberga Bridgesällskap**
+
+    123 423 77 15
+
+
+
+
 **Åkersberga FC**
 
     123 648 76 31
@@ -92178,6 +92489,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Åtvidabergs Bridgesällskap**
+
+    123 511 84 76
+
+
+
+
 **Åtvidabergs Bågskytteklubb**
 
     123 031 63 15
@@ -92288,6 +92606,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 545 57 12 - Ungdomssektionen
 
     123 664 21 02
+
+
+
+
+**Ödeshögs Bridgeklubb**
+
+    123 397 56 38
 
 
 
@@ -93955,6 +94280,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Östra Ljungby Bygdegårdsförening**
 
     123 441 98 83
+
+
+
+
+**Östra Mellansvenska Bridgeförbundet**
+
+    123 355 49 79
 
 
 
