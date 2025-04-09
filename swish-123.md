@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-07-rev-210451
+Revision: 2025-04-09-rev-194119
 
-Nummer: 15466
+Nummer: 15467
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -77893,6 +77893,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Södertälje-Nykvarn Orientering**
 
     123 173 03 32
+
+
+
+
+**Södertälje Ornitologiska Förening**
+
+    123 158 30 53
 
 
 

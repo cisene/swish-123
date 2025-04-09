@@ -31646,6 +31646,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/kalmardistriktet/foreningslista/spf-seniorerna-emmaboda/
 
+- entry: 1231583053
+  orgName: Södertälje Ornitologiska Förening
+  orgNumber: 802513-6337
+  comment: null
+  categories:
+  - fågelskådning
+  - ornitologi
+  web: https://stjof.sormlandsornitologerna.se/
+
 - entry: 1231583616
   orgName: Glöte Byalag
   orgNumber: 893202-0483
@@ -65262,6 +65271,7 @@ entries:
   orgNumber: 857203-1725
   comment: null
   categories:
+  - fågelskådning
   - ornitologi
   web: https://gof.nu/
 
@@ -87998,6 +88008,7 @@ entries:
   orgNumber: 802404-8459
   comment: null
   categories:
+  - fågelskådning
   - ornitologi
   web: https://stof.nu/
 
@@ -104243,6 +104254,8 @@ entries:
   comment: null
   categories:
   - fågelklubb
+  - fågelskådning
+  - ornitologi
   web: https://nidingen.gof.nu/
 
 - entry: 1235443429

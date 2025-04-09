@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-04-07-rev-210418
+# Date: 2025-04-09-rev-194046
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3545,6 +3545,7 @@
 "1231581958","802457-2292","Segelsällskapet Slören Göteborg","https://sloren.se/","segelklubb,segelsällskap",""
 "1231581974","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Täby, Montessori Mondial Nacka"
 "1231582964","802499-0510","SPF Seniorerna Emmaboda","https://www.spfseniorerna.se/distrikt/kalmardistriktet/foreningslista/spf-seniorerna-emmaboda/","pensionärsklubb",""
+"1231583053","802513-6337","Södertälje Ornitologiska Förening","https://stjof.sormlandsornitologerna.se/","fågelskådning,ornitologi",""
 "1231583616","893202-0483","Glöte Byalag","https://www.glotebyalag.se/","byalag",""
 "1231583830","252004-0680","Hössna Församling","https://www.svenskakyrkan.se/ulricehamn","religion","Kollekt"
 "1231583871","252005-0143","Färgelanda-Högsäters Församling","https://www.svenskakyrkan.se/fargelanda-hogsater","religion",""
@@ -7287,7 +7288,7 @@
 "1233350337","252003-4287","Stora Tuna och Torsångs Pastorat","https://www.svenskakyrkan.se/borlange","religion","Kollekt Jakobs kapell"
 "1233350402","252003-4675","Voxtorps Pastorat","https://www.svenskakyrkan.se/voxtorp","religion","Kollekt Voxtorps församling"
 "1233350410","853301-2103","Stenungsunds Boxningsklubb","https://www.stdboxning.se/","boxningsklubb,idrottsförening",""
-"1233350816","857203-1725","Göteborgs Ornitologiska Förening, GOF","https://gof.nu/","ornitologi",""
+"1233350816","857203-1725","Göteborgs Ornitologiska Förening, GOF","https://gof.nu/","fågelskådning,ornitologi",""
 "1233350857","802017-2147","Ridföreningen Lunk i Kring","https://lunkikring.nu/","funktionsvariation,ridklubb",""
 "1233351145","863000-9598","Jaktskyttarna Trollhättan","https://www.svenskalag.se/jaktskyttarnatrollhattan","jaktskytteklubb,skytteklubb",""
 "1233351335","857202-4613","Öckerö Hembygdsförening","https://www.hembygd.se/ockero","hembygdsförening",""
@@ -9826,7 +9827,7 @@
 "1234577367","802537-0241","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning","Sjuhärad, Marbäcks skola"
 "1234578126","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/sociala-centret/","godkänd gåvomottagare,religion","Sociala Centret"
 "1234578233","252003-9203","Strömsunds Pastorat","https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar","religion","Fjällsjö församling"
-"1234578258","802404-8459","Stockholms Ornitologiska Förening, StOF","https://stof.nu/","ornitologi",""
+"1234578258","802404-8459","Stockholms Ornitologiska Förening, StOF","https://stof.nu/","fågelskådning,ornitologi",""
 "1234578944","817605-3893","Tierps HK","https://www.laget.se/TierpHockey/","idrottsförening,ishockeyklubb",""
 "1234579132","252002-7695","Tomelilla Församling","https://www.svenskakyrkan.se/tomelilla","religion",""
 "1234579157","252004-2389","Bro Församling","https://www.svenskakyrkan.se/broforsamling","religion","Kollekt"
@@ -11637,7 +11638,7 @@
 "1235442363","252003-4675","Voxtorps Pastorat","https://www.svenskakyrkan.se/voxtorp","religion","Kollekt Tånnö församling"
 "1235442595","559100-5680","Nordic Rehab AB","https://flexvit.se/","försäljning",""
 "1235442793","817606-4510","Uppsala Kattklubb","https://ukklubb.se/","kattklubb",""
-"1235442892","857203-1725","Nidingens Fågelstation","https://nidingen.gof.nu/","fågelklubb",""
+"1235442892","857203-1725","Nidingens Fågelstation","https://nidingen.gof.nu/","fågelklubb,fågelskådning,ornitologi",""
 "1235443429","875000-4122","Örebro Fältrittklubb","https://www.orebrofaltrittklubb.se/","fältrittklubb,hästsport,ridklubb","Tävling"
 "1235443866","252001-4438","Björketorps Församling","https://www.svenskakyrkan.se/bjorketorps-forsamling","religion","Kollekt Hindås kyrka"
 "1235444112","556761-5538","MedicRehab Team i Jönköping AB","https://medicrehab.se/","fysioterapi,rehab",""
