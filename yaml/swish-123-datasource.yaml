@@ -3205,6 +3205,7 @@ entries:
   categories:
   - bowling
   - försäljning
+  - sportutrustning
   web: https://psbowling.se/
 
 - entry: 1230186726
@@ -3546,7 +3547,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   web: https://www.akk.nu/
 
 - entry: 1230199687
@@ -3815,6 +3816,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/klintenastorp/
+
+- entry: 1230217752
+  orgName: Matteus-Pojkarnas Bowlingklubb
+  orgNumber: 802492-5045
+  comment: null
+  categories:
+  - bowlingklubb
+  - idrottsförening
+  web: https://www.mp-bowling.se/
 
 - entry: 1230218701
   orgName: Stockholms KK - Karate
@@ -9312,7 +9322,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   web: http://www.klattring.net/
 
 - entry: 1230473231
@@ -12275,6 +12285,14 @@ entries:
   - ställplats
   web: https://www.karstagk.se/
 
+- entry: 1230634345
+  orgName: Azalea Bollklubb
+  orgNumber: 857207-0319
+  comment: Café Azalea
+  categories:
+  - café
+  web: https://www.azaleabk.se/
+
 - entry: 1230634543
   orgName: Nylöse Pastorat
   orgNumber: 252004-8931
@@ -12362,6 +12380,15 @@ entries:
   categories:
   - utbildning
   web: https://demokratibygget.se/
+
+- entry: 1230637975
+  orgName: Nya Bridgeskolan / Spaderess i Stockholm AB
+  orgNumber: 556828-1082
+  comment: null
+  categories:
+  - kurser
+  - utbildning
+  web: https://nyabridgeskolan.se/
 
 - entry: 1230638783
   orgName: Västblekinges Ornitologiska Förening
@@ -19863,7 +19890,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   web: https://bohuskk.se/
 
 - entry: 1230989962
@@ -28229,6 +28256,15 @@ entries:
   - religion
   web: https://ikonverkstaden.se/
 
+- entry: 1231446992
+  orgName: Bollklubben Skansen
+  orgNumber: 802431-4984
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://bkskansen.se/
+
 - entry: 1231447168
   orgName: Glicko.me Glenn Andersson
   orgNumber: 620304-XXXX
@@ -30020,7 +30056,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   web: https://lysekilsklatterklubb.wordpress.com/
 
 - entry: 1231508365
@@ -33535,7 +33571,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   web: https://www.svenskalag.se/moraklatterklubb
 
 - entry: 1231706605
@@ -34088,6 +34124,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/morrum
 
+- entry: 1231731082
+  orgName: BK Örnen Örnsköldsvik
+  orgNumber: 889601-0710
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.bkornen.nu/
+
 - entry: 1231731280
   orgName: EFS gården Åsljunga
   orgNumber: 837601-0735
@@ -34177,7 +34222,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   - ungdomsverksamhet
   web: https://umea.kfum.se/
 
@@ -35085,7 +35130,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   web: https://harkk.klubbenonline.se/
 
 - entry: 1231777192
@@ -38001,6 +38046,15 @@ entries:
   - intresseförening
   web: http://sorunda.b.se/hemslojdvanner.htm
 
+- entry: 1231938729
+  orgName: PBK Strike
+  orgNumber: 802514-2350
+  comment: null
+  categories:
+  - bowlingklubb
+  - idrottsförening
+  web: https://pbkstrike.se/
+
 - entry: 1231938984
   orgName: Kungsbacka kvinnojour
   orgNumber: 802504-6551
@@ -39036,6 +39090,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/harnosand
+
+- entry: 1231989631
+  orgName: IFK Göteborg
+  orgNumber: 857200-8541
+  comment: Lotteri
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://ifkgoteborg.se/
 
 - entry: 1231993104
   orgName: Osby Pastorat
@@ -40198,6 +40261,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vargarda/lenaforsamling
 
+- entry: 1232057016
+  orgName: Myrvikens Skol IF
+  orgNumber: 802451-5143
+  comment: null
+  categories:
+  - idrottsförening
+  - skolidrottsförening
+  web: https://www.facebook.com/p/Myrvikens-Skol-IF-100078824835674/
+
 - entry: 1232057545
   orgName: RPG Fjällstugan Senior
   orgNumber: 802524-9536
@@ -40677,6 +40749,7 @@ entries:
   orgNumber: 878000-9687
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://angsogolfklubb.com/
 
@@ -66155,6 +66228,15 @@ entries:
   - patientförening
   web: https://goteborg.kraftenshus.se/
 
+- entry: 1233417748
+  orgName: BK Spärren
+  orgNumber: 802446-0225
+  comment: null
+  categories:
+  - bowlingklubb
+  - idrottsförening
+  web: https://www.bksparren.se/
+
 - entry: 1233419967
   orgName: Hudiksvalls Förenade Fotboll
   orgNumber: 887500-1193
@@ -67491,6 +67573,15 @@ entries:
   - cancerforskning
   - cancerförening
   web: https://www.sfmr.se/
+
+- entry: 1233479987
+  orgName: Gothenburg Film Studios
+  orgNumber: 556755-9892
+  comment: null
+  categories:
+  - evenemangsproduktioner
+  - eventarrangör
+  web: https://www.gothenburgfilmstudios.com/
 
 - entry: 1233480936
   orgName: Semente Cultural Productions
@@ -71423,7 +71514,7 @@ entries:
   - bordtennisklubb
   - dansklubb
   - innebandyklubb
-  - klätterklubb
+  - klättringsklubb
   - volleybollklubb
   web: https://kfumjonkoping.sportadmin.se/
 
@@ -72803,7 +72894,7 @@ entries:
   - cykelsport
   - friluftsliv
   - företagsevent
-  - klätterklubb
+  - klättringsklubb
   - äventyr
   web: https://kungsbygget.com/cykelpark
 
@@ -86112,7 +86203,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   web: https://www.enkopingsklatterklubb.se/
 
 - entry: 1234513719
@@ -100570,7 +100661,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   web: https://luleaklatterklubb.se/
 
 - entry: 1235295167
@@ -100695,7 +100786,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   web: https://www.enkopingsklatterklubb.se/
 
 - entry: 1235304902
@@ -101163,6 +101254,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: http://www.farstorps-bygdegaard.se/
+
+- entry: 1235332598
+  orgName: BK Avance
+  orgNumber: 876400-1916
+  comment: null
+  categories:
+  - boxningsklubb
+  - idrottsförening
+  web: https://bkavance.com/
 
 - entry: 1235332846
   orgName: Grottans blommor
@@ -112379,6 +112479,14 @@ entries:
   - trädgårdssällskap
   web: https://www.tradgardsamatorerna.se/
 
+- entry: 1235897434
+  orgName: Vilbergen Bowling AB
+  orgNumber: 556171-8213
+  comment: null
+  categories:
+  - bowlinghall
+  web: https://www.vilbergen-bowling.se/
+
 - entry: 1235897491
   orgName: Kvinnohuset Örebro
   orgNumber: 875001-2224
@@ -112847,7 +112955,7 @@ entries:
   comment: null
   categories:
   - idrottsförbund
-  - klätterklubb
+  - klättringsklubb
   web: https://stkf.se/
 
 - entry: 1235931381
@@ -115907,7 +116015,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - klätterklubb
+  - klättringsklubb
   web: https://www.orebroklatterklubb.com/
 
 - entry: 1236096416
@@ -124840,7 +124948,16 @@ entries:
   orgNumber: 895400-3185
   comment: null
   categories:
+  - basketbollklubb
+  - bordtennisklubb
+  - bowlingklubb
+  - fotbollsklubb
+  - gymnastikförening
   - idrottsförening
+  - ishockeyklubb
+  - klättringsklubb
+  - skidlöparklubb
+  - volleybollklubb
   web: https://www.storumansik.nu/
 
 - entry: 1236538045
@@ -128811,6 +128928,15 @@ entries:
   - historieförening
   - kulturförening
   web: https://www.hembygd.se/kulturhistoriskasodertalje
+
+- entry: 1236760268
+  orgName: Azalea Bollklubb
+  orgNumber: 857207-0319
+  comment: Café Azalea
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.azaleabk.se/
 
 - entry: 1236760474
   orgName: Krokoms Pastorat

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-09-rev-235426
+Revision: 2025-04-10-rev-184247
 
-Nummer: 15518
+Nummer: 15531
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3775,6 +3775,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Azalea Bollklubb**
+
+    123 063 43 45 - Café Azalea
+
+    123 676 02 68 - Café Azalea
+
+
+
+
 **Azech Oldboys BK**
 
     123 600 70 82
@@ -5711,6 +5720,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**BK Avance**
+
+    123 533 25 98
+
+
+
+
 **BK Bore**
 
     123 323 65 69
@@ -5887,6 +5903,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**BK Spärren**
+
+    123 341 77 48
+
+
+
+
 **BK Union**
 
     123 458 08 17
@@ -5904,6 +5927,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **BK Zeros**
 
     123 326 65 25
+
+
+
+
+**BK Örnen Örnsköldsvik**
+
+    123 173 10 82
 
 
 
@@ -6487,6 +6517,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bollebygds Församling**
 
     123 024 32 87 - Kollekt
+
+
+
+
+**Bollklubben Skansen**
+
+    123 144 69 92
 
 
 
@@ -24472,6 +24509,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gothenburg Film Studios**
+
+    123 347 99 87
+
+
+
+
 **Gotland Enduro Cross MS, GEC**
 
     123 126 70 12
@@ -32627,6 +32671,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **IFK Göteborg**
 
     123 180 11 90
+
+    123 198 96 31 - Lotteri
 
     123 401 53 27 - Drottning Silvias barnsjukhus
 
@@ -48410,6 +48456,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Matteus-Pojkarnas Bowlingklubb**
+
+    123 021 77 52
+
+
+
+
 **Mattias Enn - Estradör och Sångare**
 
     123 333 43 31
@@ -50461,6 +50514,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **MyRight - Empowers People with Disability**
 
     123 900 11 08
+
+
+
+
+**Myrvikens Skol IF**
+
+    123 205 70 16
 
 
 
@@ -53059,6 +53119,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nya Bridgeskolan / Spaderess i Stockholm AB**
+
+    123 063 79 75
+
+
+
+
 **Nya Dagbladet, NyD / Aeon Media AB**
 
     123 611 30 21
@@ -55504,6 +55571,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **PBC Sverige**
 
     123 682 38 50
+
+
+
+
+**PBK Strike**
+
+    123 193 87 29
 
 
 
@@ -86608,6 +86682,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vilans Nya Byggnadsförening**
 
     123 264 90 77
+
+
+
+
+**Vilbergen Bowling AB**
+
+    123 589 74 34
 
 
 
