@@ -27541,6 +27541,15 @@ entries:
   - dansundervisning
   web: https://www.danslola.com/
 
+- entry: 1231380377
+  orgName: Club Corvette Sweden
+  orgNumber: 802440-9552
+  comment: Distrikt Sydöst
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://clubcorvette.se/sydost/
+
 - entry: 1231380708
   orgName: Sörfjärdens Intresseförening
   orgNumber: 802500-9534
@@ -33192,6 +33201,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/FannaBK/
 
+- entry: 1231683366
+  orgName: Rotary Värmdö Skärgård
+  orgNumber: 802519-2686
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://varmdoskargard.se/
+
 - entry: 1231684851
   orgName: Stiftelsen Skövde Moské och Kulturhus
   orgNumber: 865501-0687
@@ -35113,6 +35130,15 @@ entries:
   - futsalklubb
   - idrottsförening
   web: https://www.svenskalag.se/sandvikensaikfk
+
+- entry: 1231776582
+  orgName: Club Corvette Sweden
+  orgNumber: 802440-9552
+  comment: Distrikt Mälardalen
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://clubcorvette.se/malardalen/
 
 - entry: 1231776665
   orgName: Sverige Runt AB
@@ -37781,6 +37807,15 @@ entries:
   - patientförening
   web: https://www.demensforbundet.se/stockholms-lan/norrtalje/
 
+- entry: 1231915651
+  orgName: Club Corvette Sweden
+  orgNumber: 802440-9552
+  comment: Distrikt Väst
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://clubcorvette.se/vast/
+
 - entry: 1231915883
   orgName: Malmö Kommunanställdas Konstförening
   orgNumber: 802418-0492
@@ -38018,6 +38053,15 @@ entries:
   - kampsportsförening
   - karateklubb
   web: https://www.samuraidojo.se/
+
+- entry: 1231935337
+  orgName: FUB Mark
+  orgNumber: 865000-7332
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-mark/
 
 - entry: 1231935352
   orgName: Hadj Omra Resor
@@ -41034,6 +41078,15 @@ entries:
   - utbildning
   web: https://www.dk9hundskola.se/
 
+- entry: 1232108116
+  orgName: FUB Östersund
+  orgNumber: 893201-0427
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-ostersund/
+
 - entry: 1232109155
   orgName: Arvika Padelsällskap
   orgNumber: 802545-0787
@@ -43247,6 +43300,24 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/blekinge-fornminnesforening
+
+- entry: 1232210258
+  orgName: FUB Kungsbacka
+  orgNumber: 802540-9643
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-kungsbacka/
+
+- entry: 1232210268
+  orgName: FUB Stockholm
+  orgNumber: 802006-1696
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fubstockholm.se/
 
 - entry: 1232210417
   orgName: Klimataktion Uppsala
@@ -46451,6 +46522,15 @@ entries:
   - friskola
   web: https://www.dalbacken.se/
 
+- entry: 1232329951
+  orgName: Skansens Ridklubb i Vänersborg
+  orgNumber: 855900-8563
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://www.skansensgard.com/
+
 - entry: 1232334639
   orgName: Skicka vidare till Ukraina
   orgNumber: 802541-6515
@@ -46589,6 +46669,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/SMAIF/
+
+- entry: 1232345684
+  orgName: Bodens IK
+  orgNumber: 802531-8760
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://bodenhockey.se/
 
 - entry: 1232346641
   orgName: Karlskrona Kommun
@@ -46825,6 +46914,15 @@ entries:
   categories:
   - golfklubb
   web: https://www.golfuppsala.se/
+
+- entry: 1232370500
+  orgName: FUB Göteborg
+  orgNumber: 857200-3922
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-goteborg/
 
 - entry: 1232370526
   orgName: Västerljungs Hembygdsförening
@@ -47527,6 +47625,14 @@ entries:
   categories:
   - religion
   web: https://elimkyrkan.com/
+
+- entry: 1232392264
+  orgName: Malgomajdalens Skoterklubb
+  orgNumber: 896100-6874
+  comment: null
+  categories:
+  - skoterklubb
+  web: https://mdsk.se/
 
 - entry: 1232394989
   orgName: Älmhults IBK
@@ -49117,6 +49223,15 @@ entries:
   - idrottsförening
   web: https://lvg.nu/
 
+- entry: 1232498939
+  orgName: FUB Norrköping
+  orgNumber: 825000-8029
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-norrkoping/
+
 - entry: 1232500726
   orgName: SFK Härvan
   orgNumber: 858501-0534
@@ -49576,6 +49691,15 @@ entries:
   - naturvård
   - viltvård
   web: https://www.kirunajaktochfiske.se/
+
+- entry: 1232539138
+  orgName: Club Corvette Sweden
+  orgNumber: 802440-9552
+  comment: Sektion Racing
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://clubcorvette.se/racing/
 
 - entry: 1232539658
   orgName: Pingstförsamlingen Skillingaryd
@@ -52234,6 +52358,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bergsbygdegard.se/
+
+- entry: 1232681898
+  orgName: FUB Trollhättan
+  orgNumber: 863000-6719
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-trollhattan/
 
 - entry: 1232681922
   orgName: Korpen Nybro
@@ -56520,6 +56653,15 @@ entries:
   - spiritualism
   web: https://willow.se/
 
+- entry: 1232884443
+  orgName: FUB Göteborg
+  orgNumber: 857200-3922
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-goteborg/
+
 - entry: 1232884559
   orgName: Stöde Församling
   orgNumber: 252002-3777
@@ -58346,6 +58488,15 @@ entries:
   - patientförening
   web: https://www.hjart-lung.se/pitea/
 
+- entry: 1232992121
+  orgName: FUB Norduppland
+  orgNumber: 817300-6167
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-norduppland/
+
 - entry: 1232992162
   orgName: Ringsjöortens Lantliga Ryttarförening
   orgNumber: 842000-4379
@@ -58436,6 +58587,15 @@ entries:
   - idrottsförening
   web: https://www.sbbk.nu/
 
+- entry: 1232994382
+  orgName: FUB Luleå
+  orgNumber: 897000-8424
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-lulea/
+
 - entry: 1232994523
   orgName: Lars och Britta Johanssons Insamlingsstiftelse
   orgNumber: 857210-0199
@@ -58452,6 +58612,15 @@ entries:
   - minnesfond
   - stiftelse
   web: https://densamiskaminnesfonden.se/
+
+- entry: 1232995181
+  orgName: FUB Vetlanda
+  orgNumber: 827500-6511
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-vetlanda/
 
 - entry: 1232996874
   orgName: Norums Bygdegårdsförening
@@ -59965,6 +60134,15 @@ entries:
   - lokaltidning
   - mediaproduktion
   web: https://www.stadsmagasinetoskarshamn.se/
+
+- entry: 1233072683
+  orgName: FUB Kristianstad
+  orgNumber: 838201-4846
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: http://www.fub.se/kristianstad
 
 - entry: 1233072873
   orgName: Judisk Enhet
@@ -61706,6 +61884,15 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.svenskalag.se/nik
+
+- entry: 1233178076
+  orgName: Club Corvette Sweden
+  orgNumber: 802440-9552
+  comment: Distrikt Syd
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://clubcorvette.se/syd/
 
 - entry: 1233178704
   orgName: Sandvikens Padel Förening
@@ -64179,6 +64366,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://torpasensbygdegard.se/
+
+- entry: 1233314341
+  orgName: Teleseniorernas Förening i Malmö
+  orgNumber: 802416-5436
+  comment: Golf Anmälningsavgift
+  categories:
+  - pensionärsklubb
+  web: https://www.tsmmx.se/
 
 - entry: 1233315470
   orgName: Gävle Församling
@@ -71657,6 +71852,15 @@ entries:
   - kampsportsförening
   web: https://www.svenskalag.se/tauruscombatcenter
 
+- entry: 1233689924
+  orgName: Club Corvette Sweden
+  orgNumber: 802440-9552
+  comment: Distrikt Great Lake District
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://clubcorvette.se/greatlakedistrict/
+
 - entry: 1233690070
   orgName: EKHO Stockholm
   orgNumber: 802515-7481
@@ -72807,6 +73011,24 @@ entries:
   - skola
   web: https://arbolskolmuseum.se/
 
+- entry: 1233764545
+  orgName: FUB Ale
+  orgNumber: 863500-4313
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-ale/
+
+- entry: 1233769387
+  orgName: FUB Sydnärke Hallsberg
+  orgNumber: 875700-8050
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-sydnarke-hallsberg/
+
 - entry: 1233770104
   orgName: Föreningen Station Linné
   orgNumber: 802441-6003
@@ -73589,6 +73811,15 @@ entries:
   - konstförening
   web: https://www.borlangekonstforening.se/
 
+- entry: 1233807450
+  orgName: FUB Ängelholm
+  orgNumber: 802006-1704
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-angelholm/
+
 - entry: 1233808318
   orgName: Örkelljunga Fotoklubb
   orgNumber: 837600-8390
@@ -74243,6 +74474,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.svenskalag.se/ringarumsif
+
+- entry: 1233844453
+  orgName: FUB Båstad
+  orgNumber: 802544-6918
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-bastad/
 
 - entry: 1233848249
   orgName: Nyhetsbyrån / Vainar Mediagroup AB
@@ -75869,6 +76109,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/gryt
 
+- entry: 1233921913
+  orgName: FUB Valdemarsvik
+  orgNumber: 802419-5391
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-valdemarsvik/
+
 - entry: 1233922192
   orgName: Nyköpings Bridgesällskap
   orgNumber: 802544-5811
@@ -76776,7 +77025,8 @@ entries:
   orgNumber: 885001-1811
   comment: null
   categories:
-  - intresseförening
+  - funktionsnedsättning
+  - funktionsvariation
   web: https://www.fub.se/lokal/fub-gavle
 
 - entry: 1233959269
@@ -77658,6 +77908,15 @@ entries:
   categories:
   - religion
   web: https://korskyrkangotene.se/
+
+- entry: 1234010591
+  orgName: FUB Ljungby-Sunnerbo
+  orgNumber: 802418-2423
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-ljungby-sunnerbo/
 
 - entry: 1234010682
   orgName: Fjordklubben
@@ -78866,6 +79125,15 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.svenskalag.se/brinkensif
+
+- entry: 1234104552
+  orgName: Jönköpings Golfklubb
+  orgNumber: 826000-1956
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://www.jonkopingsgk.se/
 
 - entry: 1234104725
   orgName: Bostadsrättsföreningen Clareberg i Göteborg
@@ -82486,6 +82754,15 @@ entries:
   - hundklubb
   - hunduppfödning
   web: http://www.schipperkeringen.se/
+
+- entry: 1234280715
+  orgName: Club Corvette Sweden
+  orgNumber: 802440-9552
+  comment: Distrikt Great Lake District
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://clubcorvette.se/greatlakedistrict/
 
 - entry: 1234281275
   orgName: SPF Seniorerna Anneberg
@@ -94565,6 +94842,15 @@ entries:
   - podcast
   web: https://shows.acast.com/femitopp
 
+- entry: 1235008206
+  orgName: FUB Örebro
+  orgNumber: 875000-8594
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-orebro/
+
 - entry: 1235009345
   orgName: CK Stabil
   orgNumber: 802507-7903
@@ -95376,6 +95662,15 @@ entries:
   categories:
   - idrottsförening
   web: http://www.drageryd.se/
+
+- entry: 1235060413
+  orgName: FUB Linköping
+  orgNumber: 822001-4388
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-linkoping/
 
 - entry: 1235061825
   orgName: SPF Seniorerna Kungsholmen St:Erik Stockholm
@@ -100813,6 +101108,14 @@ entries:
   - musikförening
   web: https://www.povelramelsallskapet.se/
 
+- entry: 1235305768
+  orgName: Teleseniorernas Förening i Malmö
+  orgNumber: 802416-5436
+  comment: Café, Lotter, Spelavgifter
+  categories:
+  - pensionärsklubb
+  web: https://www.tsmmx.se/
+
 - entry: 1235306022
   orgName: Korpen Silvbergs Fritidsförening
   orgNumber: 802534-8577
@@ -101986,6 +102289,15 @@ entries:
   - konsthall
   web: https://darkroom.one/
 
+- entry: 1235380142
+  orgName: Östergötlands Parasportförbund
+  orgNumber: 822001-3612
+  comment: null
+  categories:
+  - idrottsförbund
+  - parasport
+  web: https://parasport.se/distrikt/ostergotland
+
 - entry: 1235380258
   orgName: Hofors AIF
   orgNumber: 885500-0405
@@ -102752,6 +103064,15 @@ entries:
   - discgolfklubb
   - idrottsförening
   web: https://tjing.se/club/wexio-disc-golf/
+
+- entry: 1235403837
+  orgName: FUB Falkenberg
+  orgNumber: 849000-5751
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-falkenberg/
 
 - entry: 1235403860
   orgName: Trosa-Vagnhärad Sportklubb
@@ -104897,6 +105218,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/gislaved
 
+- entry: 1235518428
+  orgName: FUB Lidköping
+  orgNumber: 869000-3622
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-lidkoping/
+
 - entry: 1235521653
   orgName: Örebro Syrianska IF Ungdom
   orgNumber: 802489-0207
@@ -104982,6 +105312,16 @@ entries:
   - idrottsförening
   - truppgymnastik
   web: https://www.huddingegf.se/
+
+- entry: 1235526223
+  orgName: Selånger Skid- och Orienteringsklubb
+  orgNumber: 889201-8238
+  comment: Sankt Olofsrännet
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.sanktolofsrannet.se/
 
 - entry: 1235526678
   orgName: Klickerförlaget Göteborg AB
@@ -105577,6 +105917,15 @@ entries:
   - hundsport
   web: http://valbobk.se/
 
+- entry: 1235541602
+  orgName: Club Corvette Sweden
+  orgNumber: 802440-9552
+  comment: Distrikt Väst
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://clubcorvette.se/vast/
+
 - entry: 1235542444
   orgName: Sollerö Åldringsfond
   orgNumber: 884400-7354
@@ -105715,6 +106064,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/bjorna-socken
+
+- entry: 1235546833
+  orgName: FUB Umeå
+  orgNumber: 894000-3422
+  comment: Samiras fond
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-umea/
 
 - entry: 1235546890
   orgName: Trosabygdens Trädgårdssällskap
@@ -108730,6 +109088,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-sandviken/foreningar/sandviken.html
 
+- entry: 1235697230
+  orgName: FUB Umeå
+  orgNumber: 894000-3422
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-umea/
+
 - entry: 1235697768
   orgName: Marks Brukshundklubb
   orgNumber: 865000-5393
@@ -109598,6 +109965,15 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: https://www.hbif.se/
+
+- entry: 1235742937
+  orgName: Club Corvette Sweden
+  orgNumber: 802440-9552
+  comment: Sektion Racing
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://clubcorvette.se/racing/
 
 - entry: 1235743869
   orgName: Sveriges Släktforskarförbund
@@ -110487,6 +110863,14 @@ entries:
   - ölframställning
   web: https://www.mikrobryggerietviking.se/
 
+- entry: 1235783386
+  orgName: Rotary Eskilstuna Rekarne
+  orgNumber: 818001-2737
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/15597
+
 - entry: 1235785183
   orgName: Dösjöbro IF
   orgNumber: 845001-1054
@@ -110618,6 +111002,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/degeberga-everod
+
+- entry: 1235789219
+  orgName: FUB Östra Göinge
+  orgNumber: 838201-8094
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-ostra-goinge/
 
 - entry: 1235789250
   orgName: Föreningen Altunagården
@@ -115322,6 +115715,15 @@ entries:
   categories:
   - båtklubb
   web: https://www.vbbk.se/
+
+- entry: 1236066013
+  orgName: Club Corvette Sweden
+  orgNumber: 802440-9552
+  comment: Distrikt Mälardalen
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://clubcorvette.se/malardalen/
 
 - entry: 1236066732
   orgName: Wargöns IK
@@ -126238,6 +126640,15 @@ entries:
   - idrottsförening
   web: https://ka2if.sportadmin.se/
 
+- entry: 1236636906
+  orgName: FUB Katrineholm, Flen och Vingåker
+  orgNumber: 818500-6650
+  comment: null
+  categories:
+  - funktionsnedsättning
+  - funktionsvariation
+  web: https://www.fub.se/lokal/fub-katrineholm-flen-vingaker/
+
 - entry: 1236637060
   orgName: Villingsbergs Jaktskytteklubb
   orgNumber: 802459-8651
@@ -130811,6 +131222,15 @@ entries:
   - hästsport
   - ryttarsällskap
   web: https://bratteborgsrs.se/
+
+- entry: 1236839880
+  orgName: Båtklubben Bothnia
+  orgNumber: 897600-5101
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://www.bkbothnia.se/
 
 - entry: 1236840490
   orgName: Hundvis Dagis & Skola / Yvonne Fång AB

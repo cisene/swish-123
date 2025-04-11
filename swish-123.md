@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-10-rev-184247
+Revision: 2025-04-11-rev-210408
 
-Nummer: 15531
+Nummer: 15578
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -6335,6 +6335,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bodens IK**
+
+    123 234 56 84
+
+
+
+
 **Bodens Jaktskytteförening**
 
     123 492 72 99
@@ -10706,6 +10713,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Båtklubben Bothnia**
+
+    123 683 98 80
+
+
+
+
 **Båtklubben Wega**
 
     123 682 70 34
@@ -11820,6 +11834,31 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Clownronden ideell förening**
 
     123 900 27 00
+
+
+
+
+**Club Corvette Sweden**
+
+    123 138 03 77 - Distrikt Sydöst
+
+    123 177 65 82 - Distrikt Mälardalen
+
+    123 191 56 51 - Distrikt Väst
+
+    123 253 91 38 - Sektion Racing
+
+    123 317 80 76 - Distrikt Syd
+
+    123 368 99 24 - Distrikt Great Lake District
+
+    123 428 07 15 - Distrikt Great Lake District
+
+    123 554 16 02 - Distrikt Väst
+
+    123 574 29 37 - Sektion Racing
+
+    123 606 60 13 - Distrikt Mälardalen
 
 
 
@@ -20839,6 +20878,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**FUB Ale**
+
+    123 376 45 45
+
+
+
+
+**FUB Båstad**
+
+    123 384 44 53
+
+
+
+
+**FUB Falkenberg**
+
+    123 540 38 37
+
+
+
+
 **FUB Gävle**
 
     123 395 91 60
@@ -20846,9 +20906,160 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**FUB Göteborg**
+
+    123 237 05 00
+
+    123 288 44 43
+
+
+
+
+**FUB Katrineholm, Flen och Vingåker**
+
+    123 663 69 06
+
+
+
+
+**FUB Kristianstad**
+
+    123 307 26 83
+
+
+
+
+**FUB Kungsbacka**
+
+    123 221 02 58
+
+
+
+
+**FUB Lidköping**
+
+    123 551 84 28
+
+
+
+
+**FUB Linköping**
+
+    123 506 04 13
+
+
+
+
+**FUB Ljungby-Sunnerbo**
+
+    123 401 05 91
+
+
+
+
+**FUB Luleå**
+
+    123 299 43 82
+
+
+
+
+**FUB Mark**
+
+    123 193 53 37
+
+
+
+
+**FUB Norduppland**
+
+    123 299 21 21
+
+
+
+
+**FUB Norrköping**
+
+    123 249 89 39
+
+
+
+
+**FUB Stockholm**
+
+    123 221 02 68
+
+
+
+
+**FUB Sydnärke Hallsberg**
+
+    123 376 93 87
+
+
+
+
+**FUB Trollhättan**
+
+    123 268 18 98
+
+
+
+
+**FUB Umeå**
+
+    123 554 68 33 - Samiras fond
+
+    123 569 72 30
+
+
+
+
+**FUB Valdemarsvik**
+
+    123 392 19 13
+
+
+
+
+**FUB Vetlanda**
+
+    123 299 51 81
+
+
+
+
 **FUB Västerås**
 
     123 214 67 02
+
+
+
+
+**FUB Ängelholm**
+
+    123 380 74 50
+
+
+
+
+**FUB Örebro**
+
+    123 500 82 06
+
+
+
+
+**FUB Östersund**
+
+    123 210 81 16
+
+
+
+
+**FUB Östra Göinge**
+
+    123 578 92 19
 
 
 
@@ -36606,6 +36817,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jönköpings Golfklubb**
+
+    123 410 45 52
+
+
+
+
 **Jönköpings IK**
 
     123 657 17 80
@@ -47449,6 +47667,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Malexanders Sportfiskeklubb**
 
     123 592 05 90
+
+
+
+
+**Malgomajdalens Skoterklubb**
+
+    123 239 22 64
 
 
 
@@ -61116,6 +61341,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Eskilstuna Rekarne**
+
+    123 578 33 86
+
+
+
+
 **Rotary Eslöv**
 
     123 088 99 56
@@ -61699,6 +61931,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Vännäs**
 
     123 626 18 87
+
+
+
+
+**Rotary Värmdö Skärgård**
+
+    123 168 33 66
 
 
 
@@ -64458,6 +64697,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Selånger Skid- och Orienteringsklubb**
+
+    123 552 62 23 - Sankt Olofsrännet
+
+
+
+
 **Selångers Hembygdsförening**
 
     123 291 81 59
@@ -65553,6 +65799,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skandinaviska WAKF i Sverige**
 
     123 553 72 79
+
+
+
+
+**Skansens Ridklubb i Vänersborg**
+
+    123 232 99 51
 
 
 
@@ -80666,6 +80919,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Teleseniorernas Förening i Malmö**
+
+    123 331 43 41 - Golf Anmälningsavgift
+
+    123 530 57 68 - Café, Lotter, Spelavgifter
+
+
+
+
 **Televeteranerna i Umeå**
 
     123 490 09 53
@@ -93923,6 +94185,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 540 24 25
 
     123 669 25 45
+
+
+
+
+**Östergötlands Parasportförbund**
+
+    123 538 01 42
 
 
 
