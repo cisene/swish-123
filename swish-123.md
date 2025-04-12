@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-11-rev-210408
+Revision: 2025-04-12-rev-142441
 
-Nummer: 15578
+Nummer: 15601
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -6798,6 +6798,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Borgstena Allhall**
+
+    123 075 96 47
+
+
+
+
 **Borgunda IK**
 
     123 190 24 10
@@ -11536,6 +11543,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Christinehamns Idrottshistoriska Sällskap**
+
+    123 270 82 86
+
+
+
+
 **Christinehamns Idrottshistoriska Sällskap, CIS**
 
     123 270 82 61
@@ -14766,6 +14780,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**EFS Hemmingsmark**
+
+    123 223 88 14
+
+
+
+
 **EFS Hörbykrets**
 
     123 668 96 65
@@ -17307,6 +17328,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 041 24 60
 
     123 185 01 89 - F15/16
+
+
+
+
+**Essunga Hembygdsförening**
+
+    123 481 86 21
 
 
 
@@ -20885,9 +20913,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**FUB Borås**
+
+    123 107 84 50
+
+
+
+
 **FUB Båstad**
 
     123 384 44 53
+
+
+
+
+**FUB Eskilstuna**
+
+    123 649 68 55
 
 
 
@@ -20911,6 +20953,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 237 05 00
 
     123 288 44 43
+
+
+
+
+**FUB Jönköping**
+
+    123 662 15 28
 
 
 
@@ -20992,9 +21041,30 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**FUB Sunne-Torsby**
+
+    123 534 99 80
+
+
+
+
 **FUB Sydnärke Hallsberg**
 
     123 376 93 87
+
+
+
+
+**FUB Sävsjö**
+
+    123 185 68 97
+
+
+
+
+**FUB Södra Sörmland**
+
+    123 493 40 48
 
 
 
@@ -33369,6 +33439,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Iggesunds IK**
 
     123 351 43 12
+
+
+
+
+**Iggesunds Intresseförening**
+
+    123 099 26 77
 
 
 
@@ -47906,9 +47983,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malmö-Lund Science fiction- och fantasyförening, MLSF**
+
+    123 378 30 65
+
+
+
+
 **Malmö Lyftarklubb**
 
     123 355 34 35
+
+
+
+
+**Malmö Padelklubb**
+
+    123 271 70 49
 
 
 
@@ -48294,6 +48385,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Marieholms IS**
 
     123 312 54 57
+
+
+
+
+**Maries loge AB**
+
+    123 218 34 24
 
 
 
@@ -49901,6 +49999,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Morup-Stafsinge Hembygdsförening**
 
     123 027 48 45
+
+
+
+
+**Morups Tånge Fyrsällskap**
+
+    123 070 24 49
 
 
 
@@ -51873,6 +51978,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nittorps FVO**
 
     123 312 36 43
+
+
+
+
+**Nittorps FVO**
+
+    123 301 36 20
 
 
 
@@ -55849,6 +55961,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Pengmyragården AB**
+
+    123 084 21 46
+
+
+
+
 **Pensionsrättvisa**
 
     123 051 60 62
@@ -59097,6 +59216,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Provitae Östra Skånes Prostataförening**
 
     123 071 11 84
+
+
+
+
+**Präriefolket Square Dancers**
+
+    123 600 18 04
 
 
 
@@ -66204,6 +66330,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skellefteå Radioflygklubb, SRFK**
+
+    123 602 61 32
+
+
+
+
 **Skellefteå Scoutkår**
 
     123 513 67 75
@@ -67899,6 +68032,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Smålands Innebandyförbund**
 
     123 461 13 98
+
+
+
+
+**Smålands Kaninhoppare**
+
+    123 624 57 65
 
 
 
@@ -78167,6 +78307,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Söderbärke Kyrkbåtsförening**
+
+    123 261 27 60
+
+
+
+
 **Söderfors GoIF**
 
     123 563 85 23
@@ -78727,6 +78874,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 200 17 90 - Bokbord
 
     123 275 36 55 - Kollekt
+
+
+
+
+**Södra Skåningarnas Kamratförening**
+
+    123 068 77 23
 
 
 
@@ -88201,6 +88355,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 413 36 82 - Fika
 
     123 430 05 21 - Tävlingar
+
+
+
+
+**Vännäs Discgolfförening, VDGF**
+
+    123 305 61 99
 
 
 
