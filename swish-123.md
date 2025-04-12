@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-12-rev-142441
+Revision: 2025-04-12-rev-204606
 
-Nummer: 15601
+Nummer: 15615
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1931,6 +1931,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Amnesty International, Svenska sektionen**
 
     123 900 07 20
+
+
+
+
+**Amnesty International Sverige**
+
+    123 561 20 49
 
 
 
@@ -12683,6 +12690,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**De Badande Vännerna i Nynäshamn**
+
+    123 354 08 95
+
+
+
+
 **De Heliga Apostlarna Petri och Pauli Ortodoxa Församling**
 
     123 435 50 46
@@ -15241,6 +15255,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ekos Trafikskola E.D. AB**
 
     123 062 65 31
+
+
+
+
+**Ekshärad Hembygdsförening**
+
+    123 009 45 40
 
 
 
@@ -45961,6 +45982,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ljusnarsbergs Jaktskytteklubb**
+
+    123 125 24 51
+
+
+
+
 **Ljusne AIK FF**
 
     123 452 36 35
@@ -66314,6 +66342,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 213 94 83
 
+    123 589 47 20
+
     123 635 98 22 - Karting
 
 
@@ -67584,6 +67614,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Slottsstadens Konståkningsklubb**
 
     123 504 73 45
+
+
+
+
+**Slovenska Föreningen i Stockholm**
+
+    123 614 38 04
 
 
 
@@ -70961,6 +70998,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stationsparken i Tällberg Ideell Förening, STIF**
 
     123 324 45 89
+
+
+
+
+**STATO Linjeförening**
+
+    123 664 84 89
 
 
 
@@ -75821,6 +75865,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Peter Casselsällskapet**
+
+    123 088 72 81
+
+
+
+
 **Svenska Pionsällskapet**
 
     123 354 78 09
@@ -76123,6 +76174,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Röda Korset**
 
     123 557 48 19 - Vallentuna Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 408 49 68 - Djursholm
+
+    123 486 70 32 - Djursholm
 
 
 
@@ -79253,6 +79313,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sövde Triathlon / Triathlon Syd**
+
+    123 514 74 26
+
+
+
+
 **Sövdeborgs Jaktskytteklubb**
 
     123 000 99 85
@@ -79346,6 +79413,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Talktrigging / Bobbo Sundgren**
 
     123 090 59 19
+
+
+
+
+**Tallbackens Vänner**
+
+    123 216 83 91
 
 
 
@@ -93464,6 +93538,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Öndal-Skedshult Bygdegårdsförening**
+
+    123 440 74 09
+
+
+
+
 **Önneköps IF**
 
     123 350 17 23
@@ -94840,6 +94921,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 544 47 57 - Herr
 
     123 682 78 51 - Marknad
+
+
+
+
+**Östra Skånes Kaninavelsförening**
+
+    123 220 63 65
 
 
 
