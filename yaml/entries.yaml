@@ -5566,6 +5566,15 @@ entries:
   - skidlöparklubb
   web: https://ikymer.sportadmin.se/
 
+- entry: 1230297275
+  orgName: Hällefors Motorklubb
+  orgNumber: 877101-2559
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://www.hällefors-motorklubb.se/
+
 - entry: 1230297473
   orgName: BACHO Museet / J P Johansson-Sällskapet
   orgNumber: 817001-4537
@@ -17773,6 +17782,17 @@ entries:
   - släktforskning
   web: https://arosiana.se/
 
+- entry: 1230882282
+  orgName: TMT Thaiboxning & BJJ
+  orgNumber: 802451-4906
+  comment: null
+  categories:
+  - brasiliansk jiu-jitsu
+  - idrottsförening
+  - kampsportsförening
+  - muaythaiklubb
+  web: https://thaiboxningtmt.se/
+
 - entry: 1230882340
   orgName: Konst i Sörmlands hjärta
   orgNumber: 802492-0616
@@ -25470,6 +25490,15 @@ entries:
   - ridskola
   - utbildning
   web: http://www.mariaignerus.se/
+
+- entry: 1231251222
+  orgName: Västerviks Ishockey Klubb
+  orgNumber: 833600-3556
+  comment: Team 11
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://ungdom.vikhockey.se/
 
 - entry: 1231251412
   orgName: Seriesam AB
@@ -42160,6 +42189,14 @@ entries:
   - hjärnforskning
   web: https://www.team-rynkeby.se/
 
+- entry: 1232127579
+  orgName: SPF Seniorerna Älmhult
+  orgNumber: 802470-9829
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/Almhult/
+
 - entry: 1232127736
   orgName: Jennygården / Svenska Semesterhem AB
   orgNumber: 556645-4129
@@ -45228,6 +45265,7 @@ entries:
   comment: null
   categories:
   - auktioner
+  - auktionsverk
   web: https://akeauktioner.se/
 
 - entry: 1232251833
@@ -57754,6 +57792,14 @@ entries:
   - hälsa
   - intresseförening
   web: https://www.dravetssweden.se/
+
+- entry: 1232885523
+  orgName: Förslöv-Grevie Församling
+  orgNumber: 252002-7745
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/forslovgrevie
 
 - entry: 1232886042
   orgName: Åker/Strängnäs HC
@@ -88428,6 +88474,15 @@ entries:
   - donation
   web: https://www.umu.se/kontakta-oss/ge-en-gava/sa-har-gor-du/donation/
 
+- entry: 1234535043
+  orgName: Ljusdals Golfklubb
+  orgNumber: 887000-1982
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://www.golfiljusdal.nu/
+
 - entry: 1234535050
   orgName: Miljöpartiet De Gröna
   orgNumber: 802009-9811
@@ -96509,6 +96564,15 @@ entries:
   - funktionsvariation
   web: https://www.fub.se/lokal/fub-orebro/
 
+- entry: 1235008859
+  orgName: Steget Före Urskogsfonden
+  orgNumber: 898500-4632
+  comment: null
+  categories:
+  - intresseförening
+  - skogsvård
+  web: https://jokkmokk.naturskyddsforeningen.se/urskogsfonden/
+
 - entry: 1235009345
   orgName: CK Stabil
   orgNumber: 802507-7903
@@ -98748,6 +98812,14 @@ entries:
   - hästsport
   - ridklubb
   web: https://leksandsrk.org/
+
+- entry: 1235116819
+  orgName: SPF Seniorerna Mora
+  orgNumber: 884401-3329
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/mora/
 
 - entry: 1235116942
   orgName: Halmstad Discgolfklubb

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-15-rev-173054
+Revision: 2025-04-15-rev-204043
 
-Nummer: 15660
+Nummer: 15668
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -23463,6 +23463,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Förslöv-Grevie Församling**
+
+    123 288 55 23
+
+
+
+
 **Förslövs IF**
 
     123 653 78 98
@@ -30956,6 +30963,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hällefors Löparklubb**
 
     123 204 55 73
+
+
+
+
+**Hällefors Motorklubb**
+
+    123 029 72 75
 
 
 
@@ -45985,6 +45999,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 552 74 60 - Segelflyg
 
     123 599 41 24 - Motorflyg
+
+
+
+
+**Ljusdals Golfklubb**
+
+    123 453 50 43
 
 
 
@@ -69878,6 +69899,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SPF Seniorerna Mora**
+
+    123 511 68 19
+
+
+
+
 **SPF Seniorerna Moringen Nynäshamn**
 
     123 548 96 87
@@ -70527,6 +70555,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SPF Seniorerna Ystad**
 
     123 458 67 98
+
+
+
+
+**SPF Seniorerna Älmhult**
+
+    123 212 75 79
 
 
 
@@ -71187,6 +71222,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 327 57 08
 
     123 340 32 76 - Herrlaget
+
+
+
+
+**Steget Före Urskogsfonden**
+
+    123 500 88 59
 
 
 
@@ -82170,6 +82212,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**TMT Thaiboxning & BJJ**
+
+    123 088 22 82
+
+
+
+
 **TN Telgenytt / TNM Aktiebolag**
 
     123 473 66 41
@@ -89398,6 +89447,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerviks Brukshundsklubb**
 
     123 231 45 24
+
+
+
+
+**Västerviks Ishockey Klubb**
+
+    123 125 12 22 - Team 11
 
 
 
