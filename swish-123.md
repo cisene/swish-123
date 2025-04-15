@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-15-rev-164816
+Revision: 2025-04-15-rev-173054
 
-Nummer: 15630
+Nummer: 15660
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -47374,7 +47374,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Långelanda Församling**
 
-    123 084 74 75
+    123 084 74 75 - Kollekt
 
 
 
@@ -48261,6 +48261,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Mannaminnes Vänner**
 
     123 313 19 19
+
+
+
+
+**Mannen i CP-trucken - Författaren Johan Öberg**
+
+    123 286 30 74
 
 
 
@@ -50892,7 +50899,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Myckleby Församling**
 
-    123 263 96 72
+    123 263 96 72 - Kollekt
 
 
 
@@ -55322,6 +55329,67 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Orust IBK**
 
     123 602 70 80
+
+
+
+
+**Orust Pastorat**
+
+    123 034 08 02 - Bokbord Morlanda församling
+
+    123 070 80 08 - Kyrkkaffe och gemenskapsluncher Morlanda
+
+    123 070 80 32 - Bokbord Röra församling
+
+    123 070 86 10 - Insamling Långelanda församling
+
+    123 093 34 08 - Insamling Tegneby församling
+
+    123 095 72 90 - Kyrkkaffe och gemenskapsluncher Röra
+
+    123 113 92 52 - Insamling Morlanda församling
+
+    123 135 32 18 - Bokbord Stala församling
+
+    123 136 56 83 - Kyrkkaffe och gemenskapsluncher Stala
+
+    123 136 56 91 - Bokbord Tegneby församling
+
+    123 144 19 48 - Kyrkkaffe och gemenskapsluncher Tegneby
+
+    123 144 19 55 - Bokbord Torp församling
+
+    123 150 23 92 - Kyrkkaffe och gemenskapsluncher Torp
+
+    123 171 05 73 - Kollekt Flatö kyrka
+
+    123 190 95 48 - Bokbord Myckleby församling
+
+    123 190 95 55 - Kyrkkaffe och gemenskapsluncher Myckleby
+
+    123 195 80 24 - Bokbord Långelanda församling
+
+    123 275 99 42 - Kyrkkaffe och gemenskapsluncher Långelanda
+
+    123 369 00 05 - Kollekt Hälleviksstrands kyrka
+
+    123 369 00 13 - Kollekt Mollösunds kyrka
+
+    123 376 34 48 - Kollekt Gullholmens kyrka
+
+    123 376 34 71 - Kollekt Käringöns kyrka
+
+    123 385 32 15 - Insamling Torp församling
+
+    123 414 45 72 - Insamling Stala församling
+
+    123 519 81 30 - Insamling Röra församling
+
+    123 604 30 95 - Renovering Hälleviksstrands kyrka
+
+    123 607 46 78 - Insamling Myckleby församling
+
+    123 670 79 21 - Robin Hood
 
 
 
@@ -63326,7 +63394,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Röra Församling**
 
-    123 494 48 56
+    123 494 48 56 - Kollekt
 
 
 
@@ -70878,7 +70946,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Stala Församling**
 
-    123 172 10 42
+    123 172 10 42 - Kollekt
 
 
 
@@ -81156,7 +81224,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Tegneby Församling**
 
-    123 440 77 71
+    123 440 77 71 - Kollekt
 
 
 
@@ -82383,7 +82451,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Torp Församling**
 
-    123 303 43 60
+    123 303 43 60 - Kollekt
 
 
 
@@ -90544,6 +90612,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **WE ARE ONE Church**
 
     123 099 90 45
+
+    123 567 34 21
 
 
 

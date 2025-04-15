@@ -6714,6 +6714,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/engelbrekt
 
+- entry: 1230340802
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Bokbord Morlanda församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
 - entry: 1230341198
   orgName: Bostadsrättsföreningen Göteborgshus nr 34 i Västra Frölunda
   orgNumber: 757201-7510
@@ -13486,6 +13494,30 @@ entries:
   - sportskytteklubb
   web: https://www.vasteraspistolskyttar.se/
 
+- entry: 1230708008
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kyrkkaffe och gemenskapsluncher Morlanda
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
+- entry: 1230708032
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Bokbord Röra församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
+- entry: 1230708610
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Insamling Långelanda församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
 - entry: 1230711150
   orgName: Onyx Innebandy
   orgNumber: 819001-3154
@@ -16544,7 +16576,7 @@ entries:
 - entry: 1230847475
   orgName: Långelanda Församling
   orgNumber: 252001-4602
-  comment: null
+  comment: Kollekt
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust/langelanda-forsamling
@@ -18934,6 +18966,14 @@ entries:
   - insamling
   web: https://operation-change.org/
 
+- entry: 1230933408
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Insamling Tegneby församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
 - entry: 1230934208
   orgName: Kristianstads Brukshundklubb
   orgNumber: 838201-9464
@@ -19221,6 +19261,14 @@ entries:
   categories:
   - konstförening
   web: https://tjorn.konstforeningar.se/
+
+- entry: 1230957290
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kyrkkaffe och gemenskapsluncher Röra
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1230957514
   orgName: Soulroom Yoga & Workshop AB
@@ -22615,6 +22663,14 @@ entries:
   categories:
   - hjälporganisation
   web: https://barnensambassad.se/
+
+- entry: 1231139252
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Insamling Morlanda församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1231139948
   orgName: Edenhamn Terapi / Ann-Sofie Edenhamn
@@ -26964,6 +27020,14 @@ entries:
   - stiftelse
   web: https://borjesalmingstiftelse.se/
 
+- entry: 1231353218
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Bokbord Stala församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
 - entry: 1231354646
   orgName: Kalmar Motocross & Enduroklubb
   orgNumber: 802533-4676
@@ -27084,6 +27148,22 @@ entries:
   categories:
   - intresseförening
   web: https://enkopingskamraterna.se/
+
+- entry: 1231365683
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kyrkkaffe och gemenskapsluncher Stala
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
+- entry: 1231365691
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Bokbord Tegneby församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1231366038
   orgName: Svenska Rikslagen
@@ -28340,6 +28420,22 @@ entries:
   - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/ort/kalmar/emmaboda-kommun/
+
+- entry: 1231441948
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kyrkkaffe och gemenskapsluncher Tegneby
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
+- entry: 1231441955
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Bokbord Torp församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1231442532
   orgName: Ikonverkstaden på Kållandsö AB
@@ -30047,6 +30143,14 @@ entries:
   categories:
   - religion
   web: https://bizjonkoping.se/
+
+- entry: 1231502392
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kyrkkaffe och gemenskapsluncher Torp
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1231503242
   orgName: Konsthistoriska Sällskapet
@@ -33810,6 +33914,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sodravedbopastorat
 
+- entry: 1231710573
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kollekt Flatö kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
 - entry: 1231712793
   orgName: Gammelgårdens IF
   orgNumber: 898200-6242
@@ -33979,7 +34091,7 @@ entries:
 - entry: 1231721042
   orgName: Stala Församling
   orgNumber: 252001-4594
-  comment: null
+  comment: Kollekt
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust/stala-forsamling
@@ -37864,6 +37976,22 @@ entries:
   - trafikskola
   web: https://korkortscentergbg.se/
 
+- entry: 1231909548
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Bokbord Myckleby församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
+- entry: 1231909555
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kyrkkaffe och gemenskapsluncher Myckleby
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
 - entry: 1231910140
   orgName: Assistanskoll / Independent Living Institute, ILI
   orgNumber: 802017-5090
@@ -38389,6 +38517,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-kalmar/foreningar/rockneby-lackeby.html
+
+- entry: 1231958024
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Bokbord Långelanda församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1231959261
   orgName: SPF Seniorerna Linderöd-Äsphult
@@ -51571,7 +51707,7 @@ entries:
 - entry: 1232639672
   orgName: Myckleby Församling
   orgNumber: 252001-4610
-  comment: null
+  comment: Kollekt
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust/myckleby-och-torp-forsamlingar
@@ -54362,6 +54498,14 @@ entries:
   - ishockeyklubb
   web: https://www.svenskalag.se/ahc
 
+- entry: 1232759942
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kyrkkaffe och gemenskapsluncher Långelanda
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
 - entry: 1232760080
   orgName: Föreningen Norden Ätradalen
   orgNumber: 802511-5505
@@ -56481,6 +56625,14 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.vadstenahf.se/
+
+- entry: 1232863074
+  orgName: Mannen i CP-trucken - Författaren Johan Öberg
+  orgNumber: 910501-XXXX
+  comment: null
+  categories:
+  - författare
+  web: https://www.facebook.com/ManneniCPtrucken
 
 - entry: 1232863736
   orgName: Terrafem Örebro
@@ -59350,7 +59502,7 @@ entries:
 - entry: 1233034360
   orgName: Torp Församling
   orgNumber: 252001-4628
-  comment: null
+  comment: Kollekt
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust/torp-forsamling
@@ -72097,6 +72249,22 @@ entries:
   - bilsport
   web: https://clubcorvette.se/greatlakedistrict/
 
+- entry: 1233690005
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kollekt Hälleviksstrands kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
+- entry: 1233690013
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kollekt Mollösunds kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
 - entry: 1233690070
   orgName: EKHO Stockholm
   orgNumber: 802515-7481
@@ -73235,6 +73403,22 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/huddingehk
+
+- entry: 1233763448
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kollekt Gullholmens kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
+- entry: 1233763471
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Kollekt Käringöns kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1233764172
   orgName: Årbols skolmuseum
@@ -74903,6 +75087,14 @@ entries:
   - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg
+
+- entry: 1233853215
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Insamling Torp församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1233853223
   orgName: Bouleklubben Jamtboule
@@ -80267,6 +80459,14 @@ entries:
   - ukraina
   web: https://supportforukraine.se/
 
+- entry: 1234144572
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Insamling Stala församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
 - entry: 1234144721
   orgName: Bostadsrättsföreningen Flintgodset
   orgNumber: 769621-6733
@@ -84862,7 +85062,7 @@ entries:
 - entry: 1234407771
   orgName: Tegneby Församling
   orgNumber: 252001-4578
-  comment: null
+  comment: Kollekt
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust/tegneby-forsamling
@@ -93829,7 +94029,7 @@ entries:
 - entry: 1234944856
   orgName: Röra Församling
   orgNumber: 252001-4586
-  comment: null
+  comment: Kollekt
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust/rora-forsamling
@@ -99352,6 +99552,14 @@ entries:
   - försäljning
   - säkerhetsutrustning
   web: https://scandinaviansafe.se/
+
+- entry: 1235198130
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Insamling Röra församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1235198783
   orgName: FBC Karlskrona
@@ -108857,6 +109065,14 @@ entries:
   - motorcykelklubb
   web: https://www.hogsweden.se/hog-arosvikinguppsalachapter
 
+- entry: 1235673421
+  orgName: WE ARE ONE Church
+  orgNumber: 802003-3687
+  comment: null
+  categories:
+  - religion
+  web: https://www.waochurch.com/
+
 - entry: 1235673561
   orgName: Flow Kampsportsförening
   orgNumber: 802465-0981
@@ -115956,6 +116172,14 @@ entries:
   - bostadsrättsförening
   web: https://brfholmen.se/
 
+- entry: 1236043095
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Renovering Hälleviksstrands kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
+
 - entry: 1236045017
   orgName: Gammelgårdens IF
   orgNumber: 898200-6242
@@ -116319,6 +116543,14 @@ entries:
   categories:
   - religion
   web: https://www.pilgrimsvagen.se/
+
+- entry: 1236074678
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Insamling Myckleby församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1236076079
   orgName: Rommele Församling
@@ -128915,6 +129147,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/sjoboklubb69/
+
+- entry: 1236707921
+  orgName: Orust Pastorat
+  orgNumber: 252003-6399
+  comment: Robin Hood
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/orust
 
 - entry: 1236708911
   orgName: Mälarhöjdens Scoutkår
