@@ -12951,7 +12951,7 @@ entries:
   web: https://www.farstahockey.se/
 
 - entry: 1230681866
-  orgName: Ingen Människa är Illegal
+  orgName: Ingen Människa är Illegal, IMÄI
   orgNumber: 802466-5062
   comment: Umeå
   categories:
@@ -31933,6 +31933,14 @@ entries:
   - idrottsförening
   web: https://kalmarak.se/
 
+- entry: 1231610070
+  orgName: Nora Församling
+  orgNumber: 252002-1912
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/noratarnsjo
+
 - entry: 1231610286
   orgName: Brännkyrka Församling
   orgNumber: 252000-0650
@@ -36315,12 +36323,12 @@ entries:
   web: https://www.svenskalag.se/hardebergabk
 
 - entry: 1231826429
-  orgName: Kvinnojouren Öresund
+  orgName: Kvinnofrid Malmö
   orgNumber: 846501-4218
   comment: null
   categories:
   - kvinnojour
-  web: https://kvinnojourenoresund.se/
+  web: https://www.kvinnofridmalmo.se/
 
 - entry: 1231826569
   orgName: Helga Trefaldighets Församling Växjö
@@ -45896,6 +45904,14 @@ entries:
   - kvinnligt nätverk
   web: https://www.innerwheel.se/
 
+- entry: 1232303527
+  orgName: Tjejjouren Eva
+  orgNumber: 802012-5111
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://rokstjejjourer.se/jourer/tjejjouren-eva
+
 - entry: 1232303790
   orgName: Västerås Astronomi o Rymdforskning Förening, VARF
   orgNumber: 878001-4562
@@ -51717,6 +51733,14 @@ entries:
   - turistförening
   web: https://www.ramsjobadoturist.org/
 
+- entry: 1232647378
+  orgName: Tjejjouren Lotus
+  orgNumber: 802435-2083
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.unizonjourer.se/tjejjourenlotus/
+
 - entry: 1232647535
   orgName: Tingsryds Rid O KK - Ridsport
   orgNumber: 829501-3430
@@ -53454,6 +53478,15 @@ entries:
   - dykklubb
   - dykning
   web: https://jamtdykarna.com/
+
+- entry: 1232714285
+  orgName: Föreningen Hela Malmö
+  orgNumber: 802510-6223
+  comment: null
+  categories:
+  - intresseförening
+  - ungdomsverksamhet
+  web: https://helamalmo.com/
 
 - entry: 1232714715
   orgName: Uppsala Stift
@@ -56275,6 +56308,14 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://www.nardingen.se/
+
+- entry: 1232854545
+  orgName: Kvinno- och tjejjouren Vändela
+  orgNumber: 802505-1114
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.unizonjourer.se/vandela/
 
 - entry: 1232854743
   orgName: Små IF
@@ -83905,6 +83946,14 @@ entries:
   - förening
   web: https://www.turkcenazefonu.se/
 
+- entry: 1234351714
+  orgName: Skyddsjouren i Ängelholm
+  orgNumber: 839400-5626
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://www.unizonjourer.se/skyddsjouren/
+
 - entry: 1234351730
   orgName: Lilla Bandet från Färgelanda / Johan Pettersen AB
   orgNumber: 556813-0339
@@ -87071,6 +87120,14 @@ entries:
   - rinkbandyklubb
   - skridskoklubb
   web: https://www.laget.se/HagastromsSK/
+
+- entry: 1234531471
+  orgName: Tjejjouren Miriam
+  orgNumber: 802519-8659
+  comment: null
+  categories:
+  - kvinnojour
+  web: https://tjejjourenmiriam.se/
 
 - entry: 1234531869
   orgName: Gudhems Klostermuseiförening
@@ -106237,6 +106294,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/varberg
 
+- entry: 1235543053
+  orgName: Östervåla-Harbo Pastorat
+  orgNumber: 252003-1994
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/ostervala-harbo
+
 - entry: 1235543541
   orgName: Blank Spot Project AB
   orgNumber: 559002-4617
@@ -111954,6 +112019,14 @@ entries:
   - idrottsförening
   - slalomklubb
   web: https://www.saltisslalom.se/
+
+- entry: 1235833207
+  orgName: Uppsala Zontaklubb II
+  orgNumber: 817602-4415
+  comment: null
+  categories:
+  - intresseförening
+  web: https://zonta.se/club/uppsala-2/
 
 - entry: 1235833348
   orgName: GigWatch / Gigekonomiska Föreningen
@@ -118496,6 +118569,15 @@ entries:
   - orienteringsklubb
   - skidlöparklubb
   web: https://www.svenskalag.se/sarnask
+
+- entry: 1236173090
+  orgName: Riksföreningen Stoppa mäns våld mot kvinnor
+  orgNumber: 802421-8300
+  comment: null
+  categories:
+  - intresseförening
+  - kvinnofrid
+  web: https://www.rskriksforeningen.se/
 
 - entry: 1236173637
   orgName: I 2 Skytteförening

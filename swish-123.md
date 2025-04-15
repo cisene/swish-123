@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-15-rev-021458
+Revision: 2025-04-15-rev-164816
 
-Nummer: 15620
+Nummer: 15630
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -22390,6 +22390,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Hela Malmö**
+
+    123 271 42 85
+
+
+
+
 **Föreningen HEM**
 
     123 588 50 74
@@ -34127,16 +34134,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Ingen Människa är Illegal**
-
-    123 068 18 66 - Umeå
-
-
-
-
 **Ingen Människa är Illegal - Göteborg**
 
     123 395 66 20
+
+
+
+
+**Ingen Människa är Illegal, IMÄI**
+
+    123 068 18 66 - Umeå
 
 
 
@@ -41998,9 +42005,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kvinno- och tjejjouren Vändela**
+
+    123 285 45 45
+
+
+
+
 **Kvinno-& tjejjouren Måna**
 
     123 324 95 47
+
+
+
+
+**Kvinnofrid Malmö**
+
+    123 182 64 29
 
 
 
@@ -42550,13 +42571,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kvinnojouren Vändpunkten Hudiksvall-Nordanstig**
 
     123 006 85 69
-
-
-
-
-**Kvinnojouren Öresund**
-
-    123 182 64 29
 
 
 
@@ -52284,6 +52298,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nora Församling**
+
+    123 161 00 70
+
+
+
+
 **Nora Golfklubb**
 
     123 196 33 05
@@ -60705,6 +60726,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksföreningen Stoppa mäns våld mot kvinnor**
+
+    123 617 30 90
+
+
+
+
 **Riksföreningen Sveriges Stadsmissioner**
 
     123 900 17 51
@@ -67064,6 +67092,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skutskärs SK**
 
     123 355 82 28
+
+
+
+
+**Skyddsjouren i Ängelholm**
+
+    123 435 17 14
 
 
 
@@ -81876,9 +81911,30 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tjejjouren Eva**
+
+    123 230 35 27
+
+
+
+
+**Tjejjouren Lotus**
+
+    123 264 73 78
+
+
+
+
 **Tjejjouren Luleå**
 
     123 254 16 13
+
+
+
+
+**Tjejjouren Miriam**
+
+    123 453 14 71
 
 
 
@@ -85459,6 +85515,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Uppsala Universitets Internationella Stipendiefond / Uppsala Universitet**
 
     123 667 58 54
+
+
+
+
+**Uppsala Zontaklubb II**
+
+    123 583 32 07
 
 
 
@@ -94733,6 +94796,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Östervärns Express AB**
 
     123 635 98 71
+
+
+
+
+**Östervåla-Harbo Pastorat**
+
+    123 554 30 53
 
 
 
