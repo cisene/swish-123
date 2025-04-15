@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-12-rev-204606
+Revision: 2025-04-15-rev-021458
 
-Nummer: 15615
+Nummer: 15620
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -22850,6 +22850,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Panterbowlarna Umeå**
+
+    123 516 64 91
+
+
+
+
 **Föreningen Partrederiet Klara Marie**
 
     123 355 62 48
@@ -28463,6 +28470,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Helgeands Församling**
 
     123 174 71 87 - Kollekt
+
+
+
+
+**Helgenäs IF och Byalag**
+
+    123 050 95 96
 
 
 
@@ -40264,6 +40278,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Korpen Söderbärke**
 
     123 456 55 78
+
+
+
+
+**Korpen Trelleborg**
+
+    123 537 92 19
 
 
 
@@ -82731,6 +82752,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Trafikskolan Evelina AB**
 
     123 666 23 65
+
+
+
+
+**Trafikverkets Fritidsförening Skåne**
+
+    123 305 50 68
+
+
+
+
+**Trafikverkets Fritidsförening Uppsala**
+
+    123 458 06 68
 
 
 

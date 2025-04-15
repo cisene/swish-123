@@ -10316,6 +10316,16 @@ entries:
   - simsällskap
   web: https://www.s02.nu/
 
+- entry: 1230509596
+  orgName: Helgenäs IF och Byalag
+  orgNumber: 833600-4729
+  comment: null
+  categories:
+  - byalag
+  - idrottsförening
+  - korpenförening
+  web: https://www.korpen.se/helgenasbyalag
+
 - entry: 1230509752
   orgName: Mälardalens Rör & Montage AB
   orgNumber: 556784-8360
@@ -60775,6 +60785,15 @@ entries:
   - stiftelse
   web: https://insamlingsstiftelsenrespira.com/
 
+- entry: 1233055068
+  orgName: Trafikverkets Fritidsförening Skåne
+  orgNumber: 838201-8656
+  comment: null
+  categories:
+  - idrottsförening
+  - korpenförening
+  web: https://www.korpen.se/trvffskane
+
 - entry: 1233055357
   orgName: Flammor / Antikvariatet, Vetlanda / Holger Nilsson
   orgNumber: 490726-XXXX
@@ -75213,6 +75232,14 @@ entries:
   - padelklubb
   web: https://www.laget.se/LjungbyPadelforening/
 
+- entry: 1233824844
+  orgName: Fredsam
+  orgNumber: null
+  comment: null
+  categories:
+  - intresseförening
+  web: http://fredsam.se/
+
 - entry: 1233824877
   orgName: Insamlingsstiftelsen Ellas Hjältar
   orgNumber: 802481-2169
@@ -89064,6 +89091,16 @@ entries:
   - yrkeskläder
   web: https://cubik.se/
 
+- entry: 1234580668
+  orgName: Trafikverkets Fritidsförening Uppsala
+  orgNumber: 802498-1469
+  comment: null
+  categories:
+  - fritidsförening
+  - idrottsförening
+  - korpenförening
+  web: https://www.korpen.se/trvffuppsala
+
 - entry: 1234580676
   orgName: Södermöre Pastorat
   orgNumber: 252003-4956
@@ -99030,6 +99067,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
+  - korpenförening
   web: https://www.aerostepcompany.com/
 
 - entry: 1235133178
@@ -99990,6 +100028,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/roslagens-ostra-pastorat/estuna-soderbykarls-forsamling
+
+- entry: 1235166491
+  orgName: Föreningen Panterbowlarna Umeå
+  orgNumber: 802505-9067
+  comment: null
+  categories:
+  - bowlingklubb
+  - idrottsförening
+  - pensionärsklubb
+  web: https://panterbowlarnaumea.weebly.com/
 
 - entry: 1235166632
   orgName: Jämtlands Travhästägarförening
@@ -103754,6 +103802,15 @@ entries:
   - konstgalleri
   - konsthall
   web: https://darkroom.one/
+
+- entry: 1235379219
+  orgName: Korpen Trelleborg
+  orgNumber: 802435-9757
+  comment: null
+  categories:
+  - idrottsförening
+  - korpenförening
+  web: https://www.korpen.se/korpentrelleborg
 
 - entry: 1235380142
   orgName: Östergötlands Parasportförbund

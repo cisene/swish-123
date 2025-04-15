@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-04-12-rev-204532
+# Date: 2025-04-15-rev-021427
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1163,6 +1163,7 @@
 "1230509240","898800-1312","Svensby SK","https://www.laget.se/SvensbySK/","fotbollsklubb,idrottsförening",""
 "1230509448","252004-1670","S:t Franciskus Katolska Församling","https://www.sanktfranciskus.se/","religion",""
 "1230509463","802416-2664","Simklubben S02","https://www.s02.nu/","idrottsförening,simklubb,simsällskap",""
+"1230509596","833600-4729","Helgenäs IF och Byalag","https://www.korpen.se/helgenasbyalag","byalag,idrottsförening,korpenförening",""
 "1230509752","556784-8360","Mälardalens Rör & Montage AB","https://mrmab.se/","installation,reparationer,vattenvård",""
 "1230509943","874400-8015","Årjängs Golfklubb","https://arjangsgk.se/","golfklubb",""
 "1230512095","829502-3322","PRO Lenhovda","https://pro.se/distrikt/distrikt-kronoberg/samorganisationer/samorganisation-uppvidinge/foreningar/lenhovda.html","pensionärsklubb",""
@@ -6784,6 +6785,7 @@
 "1233054525","556808-1169","Falu Vildvattenpark","https://faluvildvattenpark.se/","camping,forspaddling",""
 "1233054798","012552-5790","Älmhults Konstförening","https://almhult.konstforeningar.se/","konstförening",""
 "1233055050","802481-0270","Insamlingsstiftelse Respira","https://insamlingsstiftelsenrespira.com/","stiftelse",""
+"1233055068","838201-8656","Trafikverkets Fritidsförening Skåne","https://www.korpen.se/trvffskane","idrottsförening,korpenförening",""
 "1233055357","490726-XXXX","Flammor / Antikvariatet, Vetlanda / Holger Nilsson","https://flammor.com/","lokaltidning",""
 "1233056199","802497-1056","Vännäs Discgolfförening, VDGF","https://vdgf.weebly.com/","discgolfbana,discgolfklubb,idrottsförening",""
 "1233056710","802518-3602","Prostatacancerföreningen Skaraborg","https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/prostatacancerforeningen-skaraborg/","cancer,forskning,förening,patientförening,prostatacancer",""
@@ -9942,6 +9944,7 @@
 "1234580023","814800-3794","Friluftsfrämjandet Märsta-Sigtuna","https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/marsta-sigtuna/","barnverksamhet,friluftsliv",""
 "1234580312","802461-3757","Floda IBK","https://www.svenskalag.se/flodaibk","idrottsförening,innebandyklubb",""
 "1234580502","556269-9339","Cubik Textil & Agentur AB","https://cubik.se/","agentur,textil,yrkeskläder",""
+"1234580668","802498-1469","Trafikverkets Fritidsförening Uppsala","https://www.korpen.se/trvffuppsala","fritidsförening,idrottsförening,korpenförening",""
 "1234580676","252003-4956","Södermöre Pastorat","https://sodermore.se/","religion","Kollekt Karlslunda-Mortorp"
 "1234580817","829500-7424","BK Union","https://www.laget.se/BKUnion/","fotbollsklubb,idrottsförening",""
 "1234580890","252001-4024","Träslövs Församling","https://www.svenskakyrkan.se/traslov","religion","Kollekt"
@@ -11054,7 +11057,7 @@
 "1235128715","252003-0996","Kristianstads Pastorat","https://www.svenskakyrkan.se/kristianstad","religion","Gåvor pastoratets barn- och ungdomsarbete"
 "1235128723","252003-0996","Kristianstads Pastorat","https://www.svenskakyrkan.se/kristianstad","religion","Dagens kollekt Heliga Trefaldighet"
 "1235128848","873200-8332","Hammarö Ryttarförening","https://www.hammarorf.se/","hästsport,ridsport,ryttarförening",""
-"1235128970","885501-2855","IF Aerostep Company - Korpen","https://www.aerostepcompany.com/","idrottsförening",""
+"1235128970","885501-2855","IF Aerostep Company - Korpen","https://www.aerostepcompany.com/","idrottsförening,korpenförening",""
 "1235133178","814400-9902","Freija Roslagens Företagarkvinnor","https://freija.se/","företagande",""
 "1235134002","817001-5740","Föreningen Ryafåret","https://www.ryafaret.se/","djuruppfödning,intresseförening",""
 "1235134218","802540-1103","Gävle Skateboardförening","https://www.svenskalag.se/gavleskateboardforening","skateboardklubb",""
@@ -11166,6 +11169,7 @@
 "1235166103","012389-5526","SPF Seniorerna Toarp-Dalsjöfors","https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-toarp-dalsjofors/","pensionärsklubb",""
 "1235166129","252004-9277","Österåkers Pastorat","https://www.svenskakyrkan.se/osteraker","religion","Övrigt"
 "1235166319","252004-0961","Estuna-Söderbykarls Församling","https://www.svenskakyrkan.se/roslagens-ostra-pastorat/estuna-soderbykarls-forsamling","religion",""
+"1235166491","802505-9067","Föreningen Panterbowlarna Umeå","https://panterbowlarnaumea.weebly.com/","bowlingklubb,idrottsförening,pensionärsklubb",""
 "1235166632","892001-0751","Jämtlands Travhästägarförening","https://www.ostersundstravet.com/sport-och-spel/for-aktiva/hastagareforeningen/","hästsport,travsport",""
 "1235166772","252002-9824","Nårunga Församling","https://www.svenskakyrkan.se/vargarda","religion","Kollekt"
 "1235166905","252003-7215","Eda-Köla Pastorat","https://www.svenskakyrkan.se/eda-kola","religion","Skillilngarks kyrka"
@@ -11580,6 +11584,7 @@
 "1235373964","716414-2346","Bostadsrättsföreningen Strandparken i Bredsand","https://brfstrandparkenbredsand.se/","bostadsrättsförening",""
 "1235375597","893202-8718","JämtlandFjällens SlädhundKlubb","https://www.jfshk.se/","hundklubb,hundsport",""
 "1235376231","500112-XXXX","Darkroom Konsthall Riddersvik / Virtuelli Design, Ulla Gustavsson","https://darkroom.one/","konstgalleri,konsthall",""
+"1235379219","802435-9757","Korpen Trelleborg","https://www.korpen.se/korpentrelleborg","idrottsförening,korpenförening",""
 "1235380142","822001-3612","Östergötlands Parasportförbund","https://parasport.se/distrikt/ostergotland","idrottsförbund,parasport",""
 "1235380258","885500-0405","Hofors AIF","https://www.haiffotboll.se/","fotbollsklubb,friidrottsförening,idrottsförening",""
 "1235380324","847000-8874","Holmeja IS","https://www.svenskalag.se/holmejais","fotbollsklubb,idrottsförening",""
