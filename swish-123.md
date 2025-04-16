@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-15-rev-204043
+Revision: 2025-04-16-rev-210629
 
-Nummer: 15668
+Nummer: 15683
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -15734,6 +15734,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 268 33 32
 
+    123 411 87 82
+
 
 
 
@@ -24335,6 +24337,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gislövs IF**
+
+    123 369 13 26
+
+    123 640 85 53
+
+
+
+
 **Gittan Crafoords Insamlingsstiftelse**
 
     123 528 80 14
@@ -26635,6 +26646,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Göteborgs Ju-Jutsuklubb**
 
     123 538 42 27
+
+
+
+
+**Göteborgs Konståkningsförbund**
+
+    123 275 15 92
 
 
 
@@ -35733,6 +35751,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Itrim Sverige AB**
+
+    123 232 11 64 - Västerås
+
+
+
+
 **Ivar Arpi AB**
 
     123 027 60 89
@@ -36913,6 +36938,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Jönköpings Biljardklubb**
 
     123 333 70 11
+
+
+
+
+**Jönköpings Dreverklubb**
+
+    123 248 14 06
 
 
 
@@ -38196,6 +38228,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 413 75 35 - Gåvor
 
     123 681 63 18 - Kollekt i Morgonmässan
+
+
+
+
+**Katastrofhjälp - Fåglar och Vilt, KFV Skåne Sydväst**
+
+    123 498 39 12
 
 
 
@@ -55429,6 +55468,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Orust Återbruk / Orust Kretsloppsakademi**
+
+    123 287 91 79
+
+
+
+
 **Osby Pastorat**
 
     123 055 31 98 - Kollekt Osby kyrka
@@ -61330,6 +61376,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rosendahls Antik & Retro AB**
+
+    123 318 28 96
+
+
+
+
 **Rosenfors IK**
 
     123 368 03 78
@@ -64638,6 +64691,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SCA Network**
 
     123 130 59 37
+
+
+
+
+**Scandinavian Airshow Skycats Wingwalker**
+
+    123 167 96 53
 
 
 
@@ -75028,6 +75088,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Afghanistankommittén i Göteborg**
+
+    123 290 50 32
+
+
+
+
+**Svenska Afghanistankommittén i Skövde-Skaraborg**
+
+    123 367 70 77
+
+
+
+
+**Svenska Afghanistankommittén i Stockholm**
+
+    123 042 48 38
+
+
+
+
 **Svenska Agilityklubben**
 
     123 197 97 49
@@ -75291,6 +75372,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Bullterrierklubben**
 
     123 179 10 29
+
+
+
+
+**Svenska Byggnadsarbetareförbundet**
+
+    123 658 26 47 - Byggnads internationella solidaritetsfond
 
 
 
@@ -88347,6 +88435,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **VSK Vännerna**
 
     123 655 55 02
+
+
+
+
+**Vulkanerna**
+
+    123 121 11 92
 
 
 
