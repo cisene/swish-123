@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-16-rev-210629
+Revision: 2025-04-18-rev-202811
 
 Nummer: 15683
 
