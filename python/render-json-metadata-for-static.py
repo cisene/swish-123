@@ -261,8 +261,6 @@ def getCategoriesCount():
 
   cursor.execute(query)
   records = cursor.fetchall()
-  #for row in records:
-  #  result = int(row[0])
   result = len(records)
 
   return result
@@ -276,17 +274,11 @@ def getCategoriesByCount():
   categories = {}
 
   categories['data'] = []
-  # let min = 12, max = 24
-  # for each tag
-  #   font = (items / items in biggest tag) * (max - min) + min
-
-
 
   query = "SELECT category, COUNT(*) AS cnt FROM categories GROUP BY category HAVING cnt >= 3 ORDER BY cnt DESC, category ASC;"
 
   cursor.execute(query)
   records = cursor.fetchall()
-  #print("Total rows are:  ", len(records))
 
   weights_max = 0
   weights_min = 9999
