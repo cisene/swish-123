@@ -130,8 +130,6 @@ def httpHEAD(url):
     pass
 
   finally:
-    #response['message'] = 'OK'
-    #response['status'] = r.status_code
     pass
 
 
@@ -156,7 +154,6 @@ def main():
 
     response = httpHEAD(web_url_upgraded)
 
-    #if response['status'] == 200:
     if response['status'] in [200, 401, 402, 403, 404, 410]:
       # Write back upgraded URL here - Done
 

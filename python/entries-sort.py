@@ -173,6 +173,15 @@ def main():
   for entry in entry_list:
     for vo in source_dict['entries']:
       if str(entry) == str(vo['entry']):
+
+        if(vo['orgName'] == "Team Rynkeby"):
+          if("team rynkeby" not in vo['categories']):
+            vo['categories'].append("team rynkeby")
+
+        if(vo['orgName'] == "Svenska Röda Korset"):
+          if("rödakorset" not in vo['categories']):
+            vo['categories'].append("rödakorset")
+
         dest_dict['entries'].append(cloneVO(vo))
         break
 
