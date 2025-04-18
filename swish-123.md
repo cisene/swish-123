@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-18-rev-202811
+Revision: 2025-04-18-rev-203522
 
-Nummer: 15683
+Nummer: 15688
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -26352,6 +26352,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gävle TravHästägareförening**
+
+    123 040 80 54
+
+
+
+
 **Gävle Travsällskap**
 
     123 219 30 84
@@ -30048,6 +30055,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **HPR Pensionärsförening Reimersholme**
 
     123 301 54 84
+
+
+
+
+**HRF Blekinge**
+
+    123 340 89 32
 
 
 
@@ -47505,6 +47519,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lödde Padel Club, LPC**
 
     123 625 07 73
+
+
+
+
+**Lödde Vikings Handbollsklubb**
+
+    123 664 06 35
+
+    123 694 00 01
 
 
 
@@ -80880,7 +80903,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Team Rynkeby**
 
-    123 004 12 85 - Göteborg, vallhamraskolan
+    123 004 12 85 - Göteborg, Vallhamraskolan
 
     123 031 64 55 - Göteborg, Härlandatjärnskolan
 
@@ -90298,6 +90321,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västsvenska Wadokai**
 
     123 220 80 15
+
+
+
+
+**Västsvenska Älghundklubben**
+
+    123 510 80 22
 
 
 

@@ -779,11 +779,12 @@ entries:
 - entry: 1230041285
   orgName: Team Rynkeby
   orgNumber: 802534-5938
-  comment: Göteborg, vallhamraskolan
+  comment: Göteborg, Vallhamraskolan
   categories:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230042333
@@ -821,6 +822,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230045567
@@ -1516,6 +1518,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230075127
@@ -1688,6 +1691,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230082339
@@ -1816,6 +1820,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230094268
@@ -1835,6 +1840,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230094540
@@ -3879,6 +3885,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230221184
@@ -3889,6 +3896,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230221911
@@ -3915,6 +3923,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230223420
@@ -3925,6 +3934,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230223446
@@ -3944,6 +3954,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230223743
@@ -3954,6 +3965,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230223859
@@ -4111,6 +4123,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230227520
@@ -4378,6 +4391,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230240101
@@ -4955,6 +4969,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230265488
@@ -4982,6 +4997,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230265645
@@ -4992,6 +5008,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230266320
@@ -5184,6 +5201,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230279323
@@ -5970,6 +5988,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230316315
@@ -5989,6 +6008,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230316455
@@ -5999,6 +6019,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230316463
@@ -6009,6 +6030,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230316620
@@ -7602,6 +7624,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230390492
@@ -7665,6 +7688,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230393850
@@ -7980,6 +8004,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/trollhattansif
+
+- entry: 1230408054
+  orgName: Gävle TravHästägareförening
+  orgNumber: 885002-0127
+  comment: null
+  categories:
+  - hästklubb
+  - travsport
+  web: https://www.gavletravet.se/
 
 - entry: 1230408062
   orgName: Västra Marks Församling
@@ -8698,6 +8731,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230435354
@@ -9057,6 +9091,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230455212
@@ -10694,6 +10729,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230540898
@@ -11469,6 +11505,7 @@ entries:
   - hjälporganisation
   - insamling
   - ukraina
+  - rödakorset
   web: https://www.rodakorset.se/
 
 - entry: 1230574582
@@ -11528,6 +11565,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230579458
@@ -12202,6 +12240,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230630574
@@ -12212,6 +12251,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230630582
@@ -12222,6 +12262,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230630707
@@ -12539,6 +12580,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230643221
@@ -12745,6 +12787,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230666792
@@ -13060,6 +13103,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230690164
@@ -13337,6 +13381,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230698159
@@ -13355,6 +13400,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230698423
@@ -13365,6 +13411,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230698522
@@ -13452,6 +13499,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230704312
@@ -13462,6 +13510,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230704635
@@ -13571,6 +13620,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230711390
@@ -13581,6 +13631,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230711754
@@ -14147,6 +14198,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230734970
@@ -14157,6 +14209,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230735068
@@ -14574,6 +14627,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230753046
@@ -14584,6 +14638,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230753053
@@ -14594,6 +14649,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230753061
@@ -14604,6 +14660,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230753244
@@ -14738,6 +14795,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230760769
@@ -15137,6 +15195,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230786350
@@ -15147,6 +15206,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230786368
@@ -15157,6 +15217,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230786947
@@ -15722,6 +15783,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230807149
@@ -15732,6 +15794,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230807164
@@ -15742,6 +15805,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230808287
@@ -16371,6 +16435,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230842146
@@ -17541,6 +17606,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230881094
@@ -17672,6 +17738,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230887281
@@ -17784,6 +17851,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1230893164
@@ -20698,6 +20766,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231031459
@@ -20708,6 +20777,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231031608
@@ -20754,6 +20824,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231034966
@@ -21949,6 +22020,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231089036
@@ -21959,6 +22031,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231089416
@@ -23379,6 +23452,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231162999
@@ -23389,6 +23463,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231165000
@@ -23548,6 +23623,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231171214
@@ -23558,6 +23634,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231172360
@@ -23603,6 +23680,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231174689
@@ -23621,6 +23699,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231174739
@@ -23631,6 +23710,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231175199
@@ -23898,6 +23978,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231199652
@@ -24166,6 +24247,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231210368
@@ -24668,6 +24750,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231229764
@@ -25176,6 +25259,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231251073
@@ -25186,6 +25270,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231251081
@@ -25621,6 +25706,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231279553
@@ -25631,6 +25717,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231279801
@@ -25729,6 +25816,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231287879
@@ -26647,6 +26735,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231332303
@@ -28172,6 +28261,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231421866
@@ -28182,6 +28272,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231421874
@@ -28192,6 +28283,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231421882
@@ -28202,6 +28294,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231422708
@@ -29755,6 +29848,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231487131
@@ -29765,6 +29859,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231487362
@@ -29775,6 +29870,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231487370
@@ -29785,6 +29881,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231488220
@@ -31596,6 +31693,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231581958
@@ -31615,6 +31713,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231582964
@@ -34064,6 +34163,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231718865
@@ -34074,6 +34174,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231719491
@@ -35212,6 +35313,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231765015
@@ -35442,6 +35544,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231777614
@@ -35452,6 +35555,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231777622
@@ -35462,6 +35566,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231778208
@@ -35962,6 +36067,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231808021
@@ -35972,6 +36078,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231808039
@@ -35982,6 +36089,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231808047
@@ -35992,6 +36100,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231808054
@@ -36002,6 +36111,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231808070
@@ -36012,6 +36122,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231808088
@@ -36022,6 +36133,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231808120
@@ -36042,6 +36154,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231808229
@@ -36052,6 +36165,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231808419
@@ -36591,6 +36705,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231834209
@@ -36780,6 +36895,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231845882
@@ -37000,6 +37116,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231859644
@@ -37993,6 +38110,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231906049
@@ -38003,6 +38121,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231906080
@@ -38080,6 +38199,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231914993
@@ -38144,6 +38264,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231917905
@@ -38218,6 +38339,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231925619
@@ -38228,6 +38350,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231925627
@@ -38238,6 +38361,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231925676
@@ -38248,6 +38372,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231925700
@@ -38258,6 +38383,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1231925890
@@ -40005,6 +40131,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232023042
@@ -40015,6 +40142,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232023067
@@ -40025,6 +40153,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232023208
@@ -40273,6 +40402,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232039188
@@ -40283,6 +40413,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232039451
@@ -40834,6 +40965,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232084317
@@ -40844,6 +40976,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232084366
@@ -40854,6 +40987,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232084697
@@ -41238,6 +41372,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232099042
@@ -41248,6 +41383,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232099075
@@ -41258,6 +41394,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232099281
@@ -41268,6 +41405,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232099554
@@ -41278,6 +41416,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232099745
@@ -41323,6 +41462,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232105104
@@ -41349,6 +41489,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232107670
@@ -41492,6 +41633,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232114031
@@ -41502,6 +41644,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232114049
@@ -41512,6 +41655,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232114098
@@ -41522,6 +41666,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232114981
@@ -41678,6 +41823,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232127314
@@ -41688,6 +41834,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232127322
@@ -41698,6 +41845,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232127579
@@ -42082,6 +42230,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232143279
@@ -42092,6 +42241,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232143915
@@ -42357,6 +42507,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232158020
@@ -42367,6 +42518,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232158046
@@ -42377,6 +42529,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232158053
@@ -42387,6 +42540,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232158079
@@ -42397,6 +42551,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232158087
@@ -42407,6 +42562,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232158095
@@ -42417,6 +42573,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232158418
@@ -42502,6 +42659,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232160851
@@ -42625,6 +42783,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232167583
@@ -43119,6 +43278,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232187581
@@ -43129,6 +43289,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232187623
@@ -45403,6 +45564,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232274629
@@ -45564,6 +45726,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232282234
@@ -45574,6 +45737,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232282242
@@ -45584,6 +45748,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232282259
@@ -45594,6 +45759,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232282267
@@ -45604,6 +45770,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232282275
@@ -45614,6 +45781,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232282291
@@ -45624,6 +45792,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232282382
@@ -46206,6 +46375,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232307122
@@ -46216,6 +46386,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232307130
@@ -46226,6 +46397,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232307148
@@ -46236,6 +46408,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232307270
@@ -46246,6 +46419,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232307288
@@ -46256,6 +46430,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232307601
@@ -46331,6 +46506,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232309763
@@ -46341,6 +46517,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232313039
@@ -47655,6 +47832,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232380020
@@ -47665,6 +47843,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232380061
@@ -47675,6 +47854,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232380111
@@ -47693,6 +47873,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232380228
@@ -47703,6 +47884,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232383008
@@ -48525,6 +48707,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232416964
@@ -48614,6 +48797,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232427078
@@ -48789,6 +48973,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232439297
@@ -48799,6 +48984,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232439529
@@ -48893,6 +49079,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232445617
@@ -49192,6 +49379,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232462281
@@ -49202,6 +49390,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232464113
@@ -49731,6 +49920,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232523033
@@ -50015,6 +50205,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232536886
@@ -50025,6 +50216,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232536894
@@ -50035,6 +50227,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232538577
@@ -50496,6 +50689,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232578763
@@ -50506,6 +50700,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232578839
@@ -50516,6 +50711,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232578870
@@ -50534,6 +50730,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232578987
@@ -50544,6 +50741,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232579696
@@ -51174,6 +51372,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232610350
@@ -51184,6 +51383,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232610939
@@ -52313,6 +52513,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232664332
@@ -52323,6 +52524,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232664761
@@ -52393,6 +52595,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232668143
@@ -53370,6 +53573,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232701787
@@ -53380,6 +53584,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232701852
@@ -53400,6 +53605,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232702140
@@ -53722,6 +53928,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232715225
@@ -53732,6 +53939,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232715498
@@ -53808,6 +54016,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232717635
@@ -53826,6 +54035,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232717908
@@ -53836,6 +54046,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232717916
@@ -53846,6 +54057,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232717924
@@ -53856,6 +54068,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232720316
@@ -54675,6 +54888,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232762342
@@ -55017,6 +55231,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232772473
@@ -55027,6 +55242,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232772499
@@ -55037,6 +55253,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232772507
@@ -55123,6 +55340,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232777423
@@ -57395,6 +57613,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232891752
@@ -57405,6 +57624,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232891885
@@ -57415,6 +57635,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232892651
@@ -58021,6 +58242,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232930527
@@ -58041,6 +58263,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232930568
@@ -58051,6 +58274,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232930857
@@ -58061,6 +58285,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232930998
@@ -58154,6 +58379,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232942316
@@ -58329,6 +58555,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232956365
@@ -58339,6 +58566,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232956399
@@ -58456,6 +58684,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232965283
@@ -58590,6 +58819,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1232969947
@@ -60190,6 +60420,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233052479
@@ -60200,6 +60431,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233052487
@@ -60210,6 +60442,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233052693
@@ -60233,6 +60466,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233052875
@@ -60517,6 +60751,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233063708
@@ -60572,6 +60807,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233069184
@@ -60582,6 +60818,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233069192
@@ -60592,6 +60829,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233069390
@@ -60726,6 +60964,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233077922
@@ -60775,6 +61014,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233079670
@@ -61000,6 +61240,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233099033
@@ -62089,6 +62330,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233144805
@@ -62099,6 +62341,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233145265
@@ -62434,6 +62677,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233179538
@@ -62920,6 +63164,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233204096
@@ -62930,6 +63175,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233204229
@@ -62965,6 +63211,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233206497
@@ -62985,6 +63232,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233207008
@@ -63341,6 +63589,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233222718
@@ -63351,6 +63600,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233222734
@@ -63369,6 +63619,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233223013
@@ -63414,6 +63665,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233228996
@@ -63603,6 +63855,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233237930
@@ -64531,6 +64784,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233284122
@@ -64541,6 +64795,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233284577
@@ -64997,6 +65252,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233320835
@@ -65007,6 +65263,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233322989
@@ -65229,6 +65486,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233336773
@@ -65239,6 +65497,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233337011
@@ -65960,6 +66219,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233377033
@@ -65970,6 +66230,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233377272
@@ -65980,6 +66241,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233377298
@@ -65990,6 +66252,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233377447
@@ -66419,6 +66682,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233387735
@@ -66429,6 +66693,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233387743
@@ -66439,6 +66704,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233387859
@@ -66817,6 +67083,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/mariefred
+
+- entry: 1233408932
+  orgName: HRF Blekinge
+  orgNumber: 836200-7786
+  comment: null
+  categories:
+  - hörselnedsättning
+  - hörselskadad
+  web: null
 
 - entry: 1233408960
   orgName: Barkåkra Scoutkår
@@ -67250,6 +67525,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233435641
@@ -67849,6 +68125,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233462165
@@ -67859,6 +68136,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233462173
@@ -67869,6 +68147,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233462181
@@ -67879,6 +68158,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233462231
@@ -67889,6 +68169,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233462249
@@ -67899,6 +68180,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233462256
@@ -67909,6 +68191,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233462884
@@ -68542,6 +68825,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233498664
@@ -68560,6 +68844,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233499142
@@ -68760,6 +69045,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233504669
@@ -69663,6 +69949,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233542156
@@ -69673,6 +69960,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233542164
@@ -69683,6 +69971,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233542180
@@ -70269,6 +70558,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233567344
@@ -70329,6 +70619,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233569241
@@ -70394,6 +70685,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233574902
@@ -70404,6 +70696,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233574910
@@ -70414,6 +70707,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233574944
@@ -70432,6 +70726,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233575065
@@ -70674,6 +70969,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233591104
@@ -70815,6 +71111,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233600327
@@ -70825,6 +71122,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233600376
@@ -70940,6 +71238,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233606787
@@ -71020,6 +71319,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233615697
@@ -71047,6 +71347,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233615952
@@ -71640,6 +71941,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233636057
@@ -72047,6 +72349,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233664836
@@ -72057,6 +72360,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233664885
@@ -72067,6 +72371,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233664927
@@ -72085,6 +72390,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233665635
@@ -72243,6 +72549,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233677630
@@ -72769,6 +73076,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233710704
@@ -72803,6 +73111,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233712981
@@ -72813,6 +73122,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233715604
@@ -73280,6 +73590,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233742400
@@ -73300,6 +73611,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233742624
@@ -73310,6 +73622,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233743119
@@ -74516,6 +74829,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233815024
@@ -74590,6 +74904,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233817715
@@ -74600,6 +74915,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233818002
@@ -74995,6 +75311,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233840881
@@ -75280,6 +75597,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233860483
@@ -75299,6 +75617,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233860954
@@ -75387,6 +75706,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233864048
@@ -75579,6 +75899,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233879558
@@ -75589,6 +75910,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233879715
@@ -75980,6 +76302,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233887544
@@ -75990,6 +76313,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233887718
@@ -77714,6 +78038,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233964707
@@ -77724,6 +78049,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233967551
@@ -78263,6 +78589,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233998457
@@ -78273,6 +78600,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1233998739
@@ -78671,6 +78999,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234018222
@@ -79095,6 +79424,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234048922
@@ -79121,6 +79451,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234054060
@@ -79131,6 +79462,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234054359
@@ -79836,6 +80168,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234113940
@@ -80303,6 +80636,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234129896
@@ -80313,6 +80647,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234131512
@@ -81070,6 +81405,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234177929
@@ -82847,6 +83183,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234262978
@@ -83135,6 +83472,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234274650
@@ -83385,6 +83723,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234281820
@@ -83544,6 +83883,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234295671
@@ -83747,6 +84087,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234311890
@@ -84127,6 +84468,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234343059
@@ -84237,6 +84579,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234350625
@@ -84247,6 +84590,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234350708
@@ -84257,6 +84601,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234350716
@@ -84267,6 +84612,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234350732
@@ -84277,6 +84623,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234350914
@@ -84410,6 +84757,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234356531
@@ -84738,6 +85086,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234384541
@@ -84748,6 +85097,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234384558
@@ -84758,6 +85108,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234384566
@@ -84768,6 +85119,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234384574
@@ -84778,6 +85130,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234384798
@@ -85287,6 +85640,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234410692
@@ -85317,6 +85671,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234412177
@@ -85327,6 +85682,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234412201
@@ -85337,6 +85693,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234412458
@@ -86186,6 +86543,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234468575
@@ -86196,6 +86554,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234468757
@@ -86206,6 +86565,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234469664
@@ -86262,6 +86622,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234472718
@@ -86847,6 +87208,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234495586
@@ -86857,6 +87219,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234495594
@@ -86867,6 +87230,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234495750
@@ -86877,6 +87241,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234495768
@@ -86887,6 +87252,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234495776
@@ -86897,6 +87263,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234495784
@@ -86907,6 +87274,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234496808
@@ -87785,6 +88153,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234543054
@@ -87795,6 +88164,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234543096
@@ -87832,6 +88202,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234545893
@@ -87842,6 +88213,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234547089
@@ -87994,6 +88366,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234559779
@@ -88004,6 +88377,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234559985
@@ -88014,6 +88388,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234559993
@@ -88024,6 +88399,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234560835
@@ -88034,6 +88410,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234563151
@@ -88279,6 +88656,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234578126
@@ -88359,6 +88737,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234579751
@@ -88369,6 +88748,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234579769
@@ -88379,6 +88759,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234579801
@@ -88389,6 +88770,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234579900
@@ -88907,6 +89289,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234605143
@@ -88917,6 +89300,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234605176
@@ -88927,6 +89311,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234605598
@@ -91428,6 +91813,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234721833
@@ -91438,6 +91824,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234723490
@@ -92348,6 +92735,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234804928
@@ -92625,6 +93013,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234820254
@@ -93047,6 +93436,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234844767
@@ -93057,6 +93447,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234844775
@@ -93067,6 +93458,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234844783
@@ -93077,6 +93469,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234844981
@@ -93087,6 +93480,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234849436
@@ -93284,6 +93678,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234878989
@@ -93531,6 +93926,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234898706
@@ -93541,6 +93937,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234898797
@@ -93603,6 +94000,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234902813
@@ -93613,6 +94011,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234902979
@@ -93710,6 +94109,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234914420
@@ -93720,6 +94120,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234914453
@@ -93768,6 +94169,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234921185
@@ -93778,6 +94180,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234922050
@@ -93935,6 +94338,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234934444
@@ -94003,6 +94407,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234937975
@@ -94013,6 +94418,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234937991
@@ -94023,6 +94429,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234939989
@@ -94418,6 +94825,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234950846
@@ -94686,6 +95094,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234965059
@@ -94696,6 +95105,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234965190
@@ -94706,6 +95116,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234965208
@@ -94716,6 +95127,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234966255
@@ -94901,6 +95313,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234975140
@@ -94911,6 +95324,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234975314
@@ -95078,6 +95492,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234989989
@@ -95368,6 +95783,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234999322
@@ -95378,6 +95794,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234999553
@@ -95388,6 +95805,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234999595
@@ -95398,6 +95816,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1234999884
@@ -95417,6 +95836,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235000153
@@ -95427,6 +95847,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235000492
@@ -95695,6 +96116,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235015243
@@ -95952,6 +96374,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235031299
@@ -95962,6 +96385,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235031505
@@ -96335,6 +96759,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235056502
@@ -96345,6 +96770,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235059688
@@ -96380,6 +96806,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235063557
@@ -96549,6 +96976,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235078761
@@ -96652,6 +97080,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235084868
@@ -96662,6 +97091,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235086871
@@ -97210,6 +97640,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235107727
@@ -97220,6 +97651,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235107735
@@ -97230,7 +97662,17 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1235108022
+  orgName: Västsvenska Älghundklubben
+  orgNumber: 802488-8177
+  comment: null
+  categories:
+  - hundklubb
+  - hunduppfödning
+  web: https://vastsvenska.alghundklubben.com/
 
 - entry: 1235109103
   orgName: Ölmstad Rid- & Körsällskap
@@ -99568,6 +100010,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235184841
@@ -100205,6 +100648,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235222385
@@ -100275,6 +100719,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235230552
@@ -100285,6 +100730,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235230560
@@ -100295,6 +100741,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235230669
@@ -100305,6 +100752,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235230982
@@ -100439,6 +100887,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235241146
@@ -100449,6 +100898,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235242573
@@ -100674,6 +101124,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235261219
@@ -101112,6 +101563,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235273628
@@ -101122,6 +101574,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235273644
@@ -101141,6 +101594,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235274527
@@ -101509,6 +101963,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235285176
@@ -101519,6 +101974,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235285192
@@ -101529,6 +101985,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235285416
@@ -101539,6 +101996,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235288014
@@ -101861,6 +102319,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235310297
@@ -101889,6 +102348,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235311600
@@ -101916,6 +102376,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235312087
@@ -102004,6 +102465,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235322755
@@ -102014,6 +102476,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235322789
@@ -102033,6 +102496,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235322896
@@ -102043,6 +102507,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235324132
@@ -102094,6 +102559,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235325824
@@ -102165,6 +102631,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235331129
@@ -102175,6 +102642,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235331137
@@ -102185,6 +102653,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235331210
@@ -102203,6 +102672,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235331319
@@ -102213,6 +102683,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235331335
@@ -102223,6 +102694,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235331459
@@ -102348,6 +102820,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235335336
@@ -102358,6 +102831,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235335377
@@ -103704,6 +104178,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235400932
@@ -103790,6 +104265,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235402839
@@ -103800,6 +104276,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235403480
@@ -104086,6 +104563,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235419312
@@ -104167,6 +104645,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235422399
@@ -104177,6 +104656,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235422431
@@ -104195,6 +104675,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235422514
@@ -104205,6 +104686,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235422555
@@ -105407,6 +105889,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235489687
@@ -107359,6 +107842,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235574058
@@ -107369,6 +107853,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235574124
@@ -107547,6 +108032,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235584628
@@ -107568,6 +108054,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235586177
@@ -107632,6 +108119,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235591029
@@ -107907,6 +108395,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235604111
@@ -107931,6 +108420,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235604251
@@ -107941,6 +108431,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235604269
@@ -107951,6 +108442,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235604327
@@ -108044,6 +108536,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235606991
@@ -108339,6 +108832,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235619010
@@ -108349,6 +108843,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235619028
@@ -108359,6 +108854,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235619044
@@ -109304,6 +109800,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235674239
@@ -109314,6 +109811,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235674270
@@ -109324,6 +109822,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235674403
@@ -109699,6 +110198,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235690243
@@ -109709,6 +110209,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235690276
@@ -109719,6 +110220,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235690656
@@ -110004,6 +110506,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235703145
@@ -110348,6 +110851,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235714563
@@ -110984,6 +111488,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235760095
@@ -111565,6 +112070,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235780614
@@ -111575,6 +112081,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235780630
@@ -111585,6 +112092,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235780911
@@ -112006,6 +112514,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235804349
@@ -112583,6 +113092,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235842505
@@ -112593,6 +113103,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235842695
@@ -112603,6 +113114,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235842927
@@ -112730,6 +113242,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235854039
@@ -112740,6 +113253,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235854344
@@ -112750,6 +113264,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235854369
@@ -112820,6 +113335,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235857685
@@ -112830,6 +113346,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235857800
@@ -113011,6 +113528,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235876529
@@ -113796,6 +114314,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235908850
@@ -114469,6 +114988,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235944384
@@ -115105,6 +115625,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235978218
@@ -115172,6 +115693,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235980693
@@ -115182,6 +115704,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1235981139
@@ -117427,6 +117950,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236107809
@@ -117437,6 +117961,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236107817
@@ -117447,6 +117972,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236107940
@@ -117909,6 +118435,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236133292
@@ -118071,6 +118598,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236141337
@@ -118453,6 +118981,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236152581
@@ -119312,6 +119841,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236182372
@@ -119811,6 +120341,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236212062
@@ -119838,6 +120369,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236212393
@@ -119902,6 +120434,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236214431
@@ -119912,6 +120445,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236214654
@@ -119922,6 +120456,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236214910
@@ -120320,6 +120855,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236243067
@@ -120454,6 +120990,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236246300
@@ -120464,6 +121001,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236246367
@@ -120474,6 +121012,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236246375
@@ -120484,6 +121023,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236246383
@@ -120494,6 +121034,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236246714
@@ -120512,6 +121053,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236246839
@@ -120614,6 +121156,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236250179
@@ -121057,6 +121600,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236274153
@@ -121067,6 +121611,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236274179
@@ -121077,6 +121622,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236274187
@@ -121087,6 +121633,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236274195
@@ -121097,6 +121644,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236274336
@@ -121107,6 +121655,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236274385
@@ -121117,6 +121666,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236274484
@@ -121375,6 +121925,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236284780
@@ -121385,6 +121936,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236284921
@@ -121509,6 +122061,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236292858
@@ -121519,6 +122072,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236293070
@@ -122833,6 +123387,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236365647
@@ -122972,6 +123527,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236374631
@@ -124257,6 +124813,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236451918
@@ -124267,6 +124824,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236451942
@@ -124277,6 +124835,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236454060
@@ -124321,6 +124880,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236455190
@@ -124331,6 +124891,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236455430
@@ -124450,6 +125011,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236464994
@@ -124553,6 +125115,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236470298
@@ -124563,6 +125126,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236470694
@@ -124608,6 +125172,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236475099
@@ -124618,6 +125183,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236475305
@@ -124688,6 +125254,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236480651
@@ -124698,6 +125265,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236481220
@@ -124787,6 +125355,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236486187
@@ -124797,6 +125366,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236486625
@@ -124870,6 +125440,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236490148
@@ -125011,6 +125582,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236497051
@@ -125030,6 +125602,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236497390
@@ -125088,6 +125661,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236500706
@@ -125098,6 +125672,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236500714
@@ -125108,6 +125683,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236500722
@@ -125118,6 +125694,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236500763
@@ -125128,6 +125705,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236502116
@@ -125190,6 +125768,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236506893
@@ -126485,6 +127064,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236555999
@@ -127617,6 +128197,15 @@ entries:
   - idrottsförening
   web: https://varnamocykelklubb.klubbenonline.se/
 
+- entry: 1236640635
+  orgName: Lödde Vikings Handbollsklubb
+  orgNumber: 846502-2971
+  comment: null
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/LVHK/
+
 - entry: 1236640643
   orgName: Täby Församling
   orgNumber: 252000-0460
@@ -128591,6 +129180,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236685077
@@ -129785,6 +130375,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236734768
@@ -129804,6 +130395,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236735062
@@ -130123,6 +130715,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236753230
@@ -130133,6 +130726,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236754048
@@ -130201,6 +130795,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236758023
@@ -130620,6 +131215,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236776595
@@ -130630,6 +131226,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236776637
@@ -130958,6 +131555,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236784490
@@ -130968,6 +131566,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236784573
@@ -131022,6 +131621,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236789580
@@ -131910,6 +132510,7 @@ entries:
   - cykelsport
   - friskvård
   - intresseförening
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236827802
@@ -132389,6 +132990,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236862791
@@ -132604,6 +133206,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236879829
@@ -132622,6 +133225,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236879894
@@ -132640,6 +133244,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236879993
@@ -132650,6 +133255,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236880108
@@ -132997,6 +133603,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236899017
@@ -133044,6 +133651,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236900302
@@ -133847,6 +134455,7 @@ entries:
   - cancerforskning
   - forskning
   - hjärnforskning
+  - team rynkeby
   web: https://www.team-rynkeby.se/
 
 - entry: 1236934947
@@ -133900,6 +134509,15 @@ entries:
   - fäktklubb
   - idrottsförening
   web: https://faktklubbenchapman.klubbenonline.se/
+
+- entry: 1236940001
+  orgName: Lödde Vikings Handbollsklubb
+  orgNumber: 846502-2971
+  comment: null
+  categories:
+  - handbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/LVHK/
 
 - entry: 1236940399
   orgName: Värends Scoutkår
