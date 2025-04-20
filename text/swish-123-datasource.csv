@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-04-20-rev-190043
+# Date: 2025-04-20-rev-201931
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -9691,6 +9691,7 @@
 "1234408217","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/skelleftea/","godkänd gåvomottagare,religion","Skellefteå"
 "1234408290","865500-3385","Ulricehamns IF","https://www.uif.se/","idrottsförening,skidlöparklubb","Skidsektionen"
 "1234408480","849600-1374","Träslövsläge IF","https://www.tlif.se/","idrottsförening",""
+"1234408720","878001-5205","Björksta Ungdomsskytteförening","https://www.bjorksta-uskf.se/","skytteklubb,sportskytteklubb",""
 "1234410601","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Täby, Lovisedalsskolan"
 "1234410692","802462-1099","Helsingborg Jaguars American Football Club - HJ AFC","https://www.hbgjaguars.com/","amerikansk fotbollsklubb,idrottsförening",""
 "1234410809","802525-7828","Divers Against Ghost Nets","https://diversagainstghostnets.com/","dykning,havsvård,intresseförening,naturvård",""

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-20-rev-190129
+Revision: 2025-04-20-rev-202004
 
-Nummer: 15786
+Nummer: 15787
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -5540,6 +5540,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Björknä Kennel / Arne Persson**
 
     123 019 99 92
+
+
+
+
+**Björksta Ungdomsskytteförening**
+
+    123 440 87 20
 
 
 
