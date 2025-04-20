@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-20-rev-165112
+Revision: 2025-04-20-rev-190129
 
-Nummer: 15689
+Nummer: 15786
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -80074,6 +80074,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 031 64 48 - Helsingborg, Gläntanskolan
 
+    123 031 95 58 - Helsingborg, Högastenskolan
+
     123 063 05 17 - Helsingborg, Nyvångs Skola
 
     123 071 13 58 - Helsingborg, Gantofta Skola
@@ -80081,6 +80083,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 075 30 46 - Helsingborg, The International School of Helsingborg
 
     123 076 01 81 - Helsingborg, Momentum
+
+    123 103 14 83 - Helsingborg, Snyggatorpsskolan
 
     123 148 71 15 - Helsingborg, Fridaskolan
 
@@ -80120,7 +80124,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 322 87 07 - Helsingborg, Vikenskolan
 
-    123 337 72 72 - Helsingborg, Tornlyckeskolan
+    123 337 72 72 - Helsingborg, Toftaskolan
 
     123 337 72 98 - Helsingborg, Vikens Montessoriskola
 
@@ -80130,11 +80134,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 387 95 58 - Helsingborg, Högastenskolan
 
+    123 396 45 25 - Helsingborg, Kattarps Skola
+
     123 405 16 37 - Helsingborg, Dibber International School Helsingborg
 
     123 405 40 60 - Helsingborg, Ljungbyhedskolan
-
-    123 411 37 75 - Helsingborg, Villanskolan
 
     123 434 10 46 - Helsingborg, Rydebäcksskolan
 
@@ -80148,7 +80152,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 460 51 43 - Helsingborg, Ramlösa Friskola
 
-    123 493 43 37 - Helsingborg, Laröd skola
+    123 493 43 37 - Helsingborg, Laröds Skola
 
     123 493 79 75 - Helsingborg, Södra Utmarkens Skola
 
@@ -80157,6 +80161,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 500 01 53 - Helsingborg, Bladins International school
 
     123 501 51 77 - Helsingborg, Kvidinge Skola
+
+    123 523 06 93 - Helsingborg, Söderskolan
 
     123 533 11 29 - Helsingborg, Kubikskolan Dibber
 
@@ -80188,6 +80194,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 650 07 63 - Helsingborg, Jonstorpskolan
 
+    123 678 44 33 - Helsingborg, Nanny Palmkvist Skola
+
     123 682 77 03 - Helsingborg
 
     123 687 98 60 - Helsingborg, Dibbern Fyrklöverns Skola
@@ -80201,6 +80209,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 009 44 66 - Värmland, Vikmanshyttans Skola
 
+    123 022 11 50 - Värmland, Klätten Skolan
+
     123 027 91 90 - Värmland, Ängsskolan
 
     123 117 47 21 - Värmland, Frykenskolan
@@ -80213,6 +80223,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 214 32 20 - Värmland, Kroppaskolan
 
+    123 215 80 61 - Värmland, Höglundaskolan
+
     123 228 22 91 - Värmland, Kyrkskolan Möklinta
 
     123 230 71 22 - Värmland, Skåreskolan
@@ -80220,6 +80232,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 243 92 97 - Värmland, Montessorifriskolan Stellatus
 
     123 257 89 87 - Värmland, Orrholmsskolan
+
+    123 257 89 95 - Värmland, Tuggeliteskolan
 
     123 261 03 50 - Värmland, Herrhagsskolan
 
@@ -80229,7 +80243,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 307 75 18 - Värmland, Ytterharnäs Skola
 
-    123 314 48 05 - Värmland, Östmarks skola
+    123 314 48 05 - Värmland, Östmarks Skola
 
     123 320 40 96 - Värmland, Oleby Skola
 
@@ -80241,6 +80255,10 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 361 58 20 - Värmland, Södra Råtorpskolan
 
+    123 374 25 25 - Värmland, Signebyn friskola
+
+    123 374 25 33 - Värmland, Gullstenskolan
+
     123 374 25 41 - Värmland, Fredricelundskolan
 
     123 404 80 70 - Värmland, Innovitaskolan
@@ -80250,6 +80268,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 435 58 97 - Värmland, Lillängsskolan
 
     123 438 43 43 - Värmland, Strandskolan
+
+    123 446 85 59 - Värmland, Sunnemo Skola
 
     123 449 57 84 - Värmland, Svensby Skola
 
@@ -80271,11 +80291,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 507 85 22 - Värmland, Hagaborgsskolan
 
+    123 517 38 36 - Värmland, Långseruds friskola
+
     123 522 01 73 - Värmland, Sundsta- Ällvkullegymnasiet
 
     123 528 51 92 - Värmland, Internationella Engelska Skolan
 
     123 557 40 09 - Värmland, Skäggebergsskolan
+
+    123 567 42 96 - Värmland, Nordic International School - Karlstad
 
     123 569 02 76 - Värmland, Sannerudskolan 7-9
 
@@ -80297,6 +80321,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 677 65 87 - Värmland, Fredricelundsskolan
 
+    123 689 80 01 - Värmland, Östra Skolan
+
 
 
 
@@ -80316,30 +80342,38 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 230 71 14 - Växjö, Pär Lagerkvistskolan
 
-    123 293 05 50 - Växjö, Furuby skola
+    123 293 05 50 - Växjö, Furuby Skola
 
     123 305 24 79 - Växjö, Östregårdskolan
 
+    123 493 45 76 - Växjö, Vislandaskolan
+
     123 497 51 40 - Växjö, Söraby Skola
 
-    123 560 42 69 - Växjö, Åby skola
+    123 531 19 15 - Växjö, Sandsbro Skola
 
     123 584 26 95 - Växjö, Friskolan Kronobergshed
 
-    123 585 40 39 - Jönköping, Åker Skola
+    123 585 41 79 - Växjö, Dackeskolan
 
-    123 649 70 28 - Växjö, Åryd skola
+    123 624 63 34 - Växjö, Kvarngårdens Förskola
+
+    123 648 06 02 - Växjö, Linnerydskolan
+
+    123 649 70 28 - Växjö, Åryd Skola
 
     123 675 32 14 - Växjö, Lillestadskolan
 
     123 678 44 90 - Växjö, Örtagårdens Skola
 
-    123 689 82 25 - Växjö, Högstorps skola
+    123 689 82 25 - Växjö, Högstorps Skola
 
 
 
 
 **Team Rynkeby**
+
+    123 069 84 80 - Malmö, Tångvallaskolan
 
     123 070 43 04 - Malmö, Söderslättsgymnasiet
 
@@ -80351,9 +80385,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 177 76 14 - Malmö, Hedeskoga skola
 
-    123 202 30 34 - Malmö, Backa skolan
+    123 202 30 34 - Malmö, Backaskolan
 
     123 202 30 42 - Malmö, Ur och Skur Skabersjöskolan
+
+    123 205 60 00 - Malmö, Kastanjeskolan
 
     123 211 40 23 - Malmö, Sövestad skola
 
@@ -80363,13 +80399,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 238 00 12 - Malmö, Malmö Montessoriskola
 
-    123 244 50 05 - Malmö, KLagshamnsskolan
+    123 244 50 05 - Malmö, Klagshamnsskolan
 
-    123 246 20 59 - Malmö, Ängsdals skolor
+    123 246 20 59 - Malmö, Ängdals Skolan
 
     123 253 68 78 - Malmö, Videdalsskolan
 
     123 257 87 55 - Malmö, Rörsjöskolan
+
+    123 257 87 71 - Malmö, Mellanhedsskolan
 
     123 289 18 85 - Malmö, Toftanässkolan
 
@@ -80385,7 +80423,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 346 21 73 - Lund, Rutsborgskolan
 
-    123 349 86 98 - Malmö, Emiliaskolan
+    123 349 86 98 - Lund, Emiliaskolan
 
     123 366 48 36 - Malmö, Hindby Dibber
 
@@ -80403,6 +80441,10 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 399 84 40 - Malmö, Herrestorpskolan
 
+    123 424 59 16 - Malmö, Södervångskolan
+
+    123 424 59 24 - Malmö, Ljunggrenska Skolan
+
     123 427 45 69 - Malmö
 
     123 428 14 99 - Malmö, Pusselbitens Skola
@@ -80413,13 +80455,21 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 455 99 85 - Malmö, Tunaskolan
 
+    123 457 73 75 - Malmö, Kulladalsskolan
+
     123 460 51 19 - Malmö, Skanörsskola
+
+    123 497 51 16 - Malmö, Bellevueskolan
+
+    123 498 99 43 - Malmö, Kattebäcksskolan
 
     123 503 10 00 - Malmö, Skegrie Skola
 
     123 510 77 35 - Malmö, Ljungenskolan
 
-    123 531 19 31 - Malmö, Ängdalaskolor Ab
+    123 531 19 31 - Malmö, Ängdala skolor
+
+    123 533 50 70 - Malmö, Monbijouskolan
 
     123 540 28 21 - Lund, Asmundtorpsskolan
 
@@ -80431,13 +80481,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 594 43 27 - Malmö, Titanskolan
 
-    123 624 63 00 - Malmö, Norrevångs förskola
+    123 594 43 35 - Malmö, Kungshögsskolan
+
+    123 624 63 00 - Malmö, Norrevångs Förskola
+
+    123 624 63 18 - Malmö, Skanör/Falsterbo Montessoriskola
 
     123 624 63 83 - Malmö, Pilängskolan
 
     123 627 41 79 - Malmö, Djupadalsskolan
 
+    123 629 78 16 - Malmö, Ribersborgsskolan
+
+    123 647 50 81 - Malmö, Hagalundskolan
+
+    123 649 70 36 - Malmö, Hyllie Park grundskola
+
     123 650 07 14 - Malmö, Lindeborgsskolan
+
+    123 689 82 17 - Malmö, Svanetorpsskolan
+
+    123 689 82 66 - Malmö, Västra Alstad Skola
 
 
 
@@ -80452,7 +80516,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 228 22 59 - Linköping, Norra skolan
 
+    123 252 09 55 - Linköping, Himnaskolan
+
+    123 257 87 06 - Linköping, LiU-loppet / Linköpings Studenters Idrottsförening
+
     123 257 87 63 - Linköping, Klämmestorpsskolan
+
+    123 257 88 39 - Linköping, Brokinds Skola
 
     123 357 49 02 - Linköping, Lindbladsskolan
 
@@ -80470,6 +80540,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 438 45 58 - Linköping, Adelövs Friskola
 
+    123 446 84 01 - Linköping, Tanneforsskolan
+
     123 446 87 57 - Linköping, Bergvallaskolan
 
     123 490 28 13 - Linköping, Björkviks Skola
@@ -80478,7 +80550,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 523 05 52 - Linköping, Askeby Skola
 
+    123 523 06 85 - Linköping, Lillgårdsskolan
+
     123 533 50 88 - Linköping, Vreta kloster Skola
+
+    123 541 92 96 - Linköping, Erlaskolan Södra
 
     123 558 46 44 - Linköping, Erlaskolan
 
@@ -80490,9 +80566,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 649 00 07 - Linköping, Ekängens skolor
 
+    123 649 70 44 - Linköping, Blåklintskolan
+
     123 675 79 18 - Linköping, Vallastadens Skola
 
     123 678 94 24 - Linköping
+
+    123 687 98 11 - Linköping, Ekkälleskolan
 
 
 
@@ -80517,6 +80597,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 210 73 16 - Jönköping, Norrtullskolan
 
+    123 228 28 79 - Jönköping, Hok/Svenarum
+
     123 261 03 19 - Jönköping, Månsarpsskolan
 
     123 270 19 69 - Jönköping, Torpaskolan
@@ -80537,6 +80619,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 435 06 25 - Jönköping, Örserumsskolan
 
+    123 438 44 26 - Jönköping, Prolympia
+
     123 449 55 94 - Jönköping, Bränningeskolan
 
     123 499 95 53 - Jönköping, Ingatorpsskolan
@@ -80547,15 +80631,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 524 11 20 - Jönköping, Taheskolan
 
-    123 585 40 05 - Jönköping, Hult skola
+    123 585 40 05 - Jönköping, Hult Skola
+
+    123 585 40 13 - Jönköping, Höreda Skola
+
+    123 585 40 39 - Jönköping, Åker Skola
 
     123 610 78 09 - Jönköping, Ribbaskolan
+
+    123 620 91 34 - Jönköping, Ljungarumsskolan/Strömsholm
 
     123 621 20 13 - Jönköping, Åkerskola
 
     123 621 44 31 - Jönköping, Kråkerydskolan
 
     123 648 61 61 - Jönköping, Kärda skola
+
+    123 655 59 08 - Jönköping, Talavidskolan
 
     123 668 40 70 - Jönköping, Sörgårdsskolan
 
@@ -80566,17 +80658,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 184 57 91 - Dalarna, Morkarlbyhöjdensskola 7-9
 
+    123 241 59 82 - Dalarna, Liljanskolan
+
     123 289 16 12 - Dalarna, Björkhagsskolan
 
     123 350 33 64 - Dalarna
 
     123 359 07 00 - Dalarna, Sundbornsskolan
 
+    123 411 51 84 - Dalarna, Linghedsskolan
+
     123 435 07 32 - Dalarna, Sätra Skolan
 
     123 493 79 18 - Dalarna, Noretskolan 1-9
 
     123 523 06 69 - Dalarna, Söderbaumska Skolan
+
+    123 531 15 19 - Dalarna, Djuråsskolan
 
     123 532 27 48 - Dalarna, Utmelandsskolan
 
@@ -80585,6 +80683,10 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 532 28 13 - Dalarna, Vikarbyskolan
 
     123 578 06 14 - Dalarna, Hedängsskolan
+
+    123 585 43 36 - Dalarna, Rönndalsskolan
+
+    123 585 43 44 - Dalarna, Långsele Skola
 
     123 624 67 30 - Dalarna, Danholsskolan
 
@@ -80619,13 +80721,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 277 24 73 - Lund, Tottarpsskola
 
-    123 338 77 35 - Lund, Alfredshällskolan
+    123 338 77 35 - Lund, Sandåkersskolan
 
     123 454 30 05 - Lund, Nyvångskolan
 
     123 455 99 93 - Helsingborg, Västervångskolan 5-9D
 
+    123 495 07 21 - Lund, Sallerupsskolan
+
     123 533 11 37 - Lund, Bjärehovsskolan
+
+    123 585 40 47 - Lund, Östra Strö
 
 
 
@@ -80652,6 +80758,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 346 22 49 - Skaraborg, Stenportens Grundsärskola
 
+    123 396 47 07 - Skaraborg, Alboskolan
+
     123 401 81 98 - Skaraborg
 
     123 446 85 67 - Skaraborg, Billingsdalskolan
@@ -80664,7 +80772,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 491 44 12 - Skaraborg, Tidanskolan
 
-    123 523 04 79 - Skaraborg, prästgårdsskolan
+    123 523 04 79 - Skaraborg, Prästgårdskolan
 
     123 524 11 46 - Skaraborg, Lyrestad skola
 
@@ -80673,6 +80781,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 624 96 50 - Skaraborg, Råda Skola
 
     123 648 61 87 - Skaraborg, Svärtagårdsskolan
+
+    123 673 49 58 - Skaraborg, Rydskolan
 
     123 677 65 95 - Skaraborg, Lundenskolan
 
@@ -80719,9 +80829,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 230 71 30 - Stockholm, Internationella Engelska Skolan Liljeholmen
 
+    123 246 20 67 - Stockholm, Vittra Telefonplan
+
     123 252 09 06 - Stockholm, Sågtorpsskolan
 
-    123 257 88 39 - Stockholm, Engelska skolan Norr
+    123 252 09 22 - Stockholm, Vendelsö Hage
 
     123 277 24 57 - Stockholm, Sofielundsskolan
 
@@ -80741,6 +80853,10 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 399 84 57 - Stockholm, Vittra Vallentuna
 
+    123 411 37 75 - Stockholm, Hagaskolan
+
+    123 411 51 76 - Stockholm, Internationella Engelska Skolan Älvsjö
+
     123 429 37 26 - Stockholm, Järla Skola
 
     123 435 07 08 - Stockholm, Närlundaskolan
@@ -80758,6 +80874,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 528 54 16 - Stockholm, Essingeskolan
 
     123 532 53 45 - Stockholm, Östermalmsskolan
+
+    123 532 53 52 - Stockholm, Internationella Engelska Skolan Hässelby Str
 
     123 542 23 40 - Stockholm, Saltsjöbaden
 
@@ -80800,6 +80918,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 148 73 62 - Täby, Hemmestaskolan
 
+    123 156 11 09 - Täby, Johannes Petri Skola
+
     123 158 19 74 - Täby, Montessori Mondial Nacka
 
     123 177 75 98 - Täby, Christinaskolan
@@ -80828,7 +80948,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 277 24 99 - Täby, Skarpängsskolan
 
+    123 314 47 30 - Täby, Lovisedalsskolan
+
     123 333 67 73 - Täby, Ytterbyskolan
+
+    123 338 77 68 - Täby, Långsjöskolan
 
     123 343 55 18 - Täby, Stallets Skola
 
@@ -80852,11 +80976,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 449 57 76 - Täby, Noblaskolan Nacka Strand
 
+    123 454 32 29 - Täby, Löttingelundsskolan
+
     123 460 51 76 - Täby, Hagaskolan
 
     123 484 47 67 - Täby, Castello Järla Sjö
 
     123 484 47 75 - Täby, Runbacka Skolan
+
+    123 493 45 68 - Täby, Viktor Rydbergs Samskola
 
     123 496 51 90 - Täby, Rydboskolan
 
@@ -80876,13 +81004,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 559 07 65 - Täby, Elevverket
 
-    123 560 41 03 - Täby, Gustav Vasa Skolan
+    123 560 41 03 - Täby, Gustav Vasaskolan
 
     123 561 90 10 - Täby, Rosendalsskolan
 
     123 570 30 20 - Täby
-
-    123 585 43 44 - Täby, Långsele skola
 
     123 585 76 02 - Täby, Fredrika Bremerskolan
 
@@ -80907,13 +81033,19 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 031 64 55 - Göteborg, Härlandatjärnskolan
 
+    123 039 25 71 - Göteborg, Bräckeskolan
+
     123 063 05 82 - Göteborg, Lackarebäcksskolan
+
+    123 073 47 31 - Göteborg, Österrödsskolan
 
     123 080 71 49 - Göteborg, Montessoriskolan Casa
 
     123 171 88 65 - Göteborg, Hålta skola
 
-    123 203 91 70 - Göteborg, Björkrisskolan
+    123 201 30 43 - Göteborg, Frejaskolan
+
+    123 203 91 70 - Göteborg, Björkrisskolan Kungsbacka
 
     123 203 91 88 - Göteborg, Särö skola
 
@@ -80939,15 +81071,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 337 70 33 - Göteborg, Ellen Keyskolan
 
+    123 337 72 15 - Göteborg, Skutehagens Skola
+
     123 363 60 16 - Göteborg
 
     123 371 02 82 - Göteborg, Garnvindeskolan
 
+    123 382 70 37 - Göteborg, Kärna Skola
+
     123 386 06 32 - Göteborg, Härrydaskolan
 
     123 388 75 36 - Göteborg, Brattåsskolan
-
-    123 396 47 07 - Skaraborg, Alboskolan
 
     123 438 45 66 - Göteborg, Parkskolan Göteborg
 
@@ -80991,6 +81125,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 621 46 54 - Göteborg, Bosgårdsskolan
 
+    123 622 29 13 - Göteborg, Fridaskolan Göteborg
+
     123 629 28 58 - Göteborg, Montessoriskolan Kvarnhjulet
 
     123 645 19 18 - Göteborg, Torslandaskolan f-6
@@ -80998,6 +81134,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 646 43 09 - Göteborg, Fredkullaskolan
 
     123 655 59 24 - Göteborg, Västerhedsskolan
+
+    123 684 03 42 - Göteborg, ABC All About Children
 
     123 687 97 79 - Göteborg, Montessoriskolan Skäret
 
@@ -81010,13 +81148,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 024 00 85 - Kalmar
 
-    123 031 64 63 - Kalmar län, Eskelhem Skola
+    123 031 64 63 - Kalmar, Eskelhem Skola
 
     123 117 12 14 - Kalmar län, Väskindeskola
 
-    123 128 52 53 - Kalmar län, Krungårdsskolan
+    123 128 52 53 - Kalmar, Krungårdsskolan
 
-    123 180 82 29 - Kalmar län, Vasaskolan
+    123 168 41 41 - Kalmar, Parkskolan Mönsterås
+
+    123 180 82 29 - Kalmar, Vasaskolan
 
     123 209 90 75 - Kalmar, Ramdalaskola
 
@@ -81024,19 +81164,35 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 215 80 12 - Kalmar, Stånga Skola
 
-    123 228 22 67 - Kalmar län, Solbergaskolan
+    123 228 22 67 - Kalmar, Solbergaskolan
+
+    123 230 96 98 - Kalmar, Mölstadskolan
 
     123 271 77 26 - Kalmar, Alsteråskolan
 
-    123 306 91 84 - Kalmar län, Pårydsskolan
+    123 306 91 84 - Kalmar, Pårydsskolan
 
-    123 338 77 27 - Kalmar län, Tjelvarskolan
+    123 307 97 04 - Kalmar, Waldorfskolan
+
+    123 338 77 27 - Kalmar, Tjelvarskolan
+
+    123 366 48 93 - Kalmar, Sjöängsskolan
+
+    123 387 95 33 - Kalmar, Kalmarsundsskolan
+
+    123 457 73 18 - Kalmar, Gymnasiesärskolan/Jenny Nyströmskolan
+
+    123 474 70 85 - Kalmar, Alsterbro Skola
+
+    123 495 04 16 - Kalmar, Kristvallabrunn Skola
 
     123 503 12 99 - Kalmar, Rocknebyskolan
 
     123 647 50 99 - Kalmar län, Lindsdalsskolan
 
     123 648 06 36 - Kalmar län, Lindåsskolan
+
+    123 649 00 15 - Kalmar, Tvärskogsskolan
 
 
 
@@ -81045,7 +81201,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 009 42 35 - Kristianstad, Everöds Skola
 
+    123 022 37 19 - Kristianstad, Hästveda Skola
+
     123 022 37 43 - Kristianstad, Diamantens Förskola
+
+    123 103 14 34 - Kristianstad, Jämshögs Skola
 
     123 108 90 28 - Kristianstad, Västerskolan
 
@@ -81069,13 +81229,19 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 230 72 70 - Kristianstad, Kviingeskolan
 
+    123 230 99 95 - Kristianstad, Rönnowskolan
+
     123 257 89 53 - Kristianstad, Tallbackens Förskola
 
-    123 266 77 31 - Kristianstad, Rickarums skola
+    123 266 77 31 - Kristianstad, Rickarums Skola
+
+    123 280 49 95 - Kristianstad, Snapphaneskolan
 
     123 289 17 52 - Kristianstad, Hässleholms Montessoriskola F-9
 
     123 309 90 09 - Kristianstad, Prästslättsskolan
+
+    123 314 48 13 - Kristianstad, Glimåkraskolan
 
     123 323 75 42 - Kristianstad, Läredaskolan F-9
 
@@ -81084,6 +81250,10 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 361 09 87 - Kristianstad, Linne Skolan
 
     123 381 77 15 - Kristianstad, Thorenframtid
+
+    123 385 25 48 - Kristianstad, Alvikenskolan
+
+    123 386 29 92 - Kristianstad, väskolan
 
     123 431 18 74 - Kristianstad, Parkskolan Osby
 
@@ -81099,19 +81269,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 496 50 42 - Kristianstad, Parkskolan Osby
 
+    123 499 95 46 - Kristianstad, Kristianstad Montessori förskola
+
+    123 523 04 38 - Kristianstad, Lejonskolan
+
     123 527 38 91 - Kristianstad, Fjälkinge Skola
+
+    123 528 54 24 - Kristianstad, Vittskövle Skola
 
     123 540 28 39 - Kristianstad, Mjällbyskola
 
-    123 560 42 44 - Kristianstad, Trolle Ljungby skola
+    123 560 42 44 - Kristianstad, Trolle Ljungby Skola
 
     123 560 42 51 - Kristianstad, Karlshamns Montessori
 
     123 615 24 25 - Kristianstad
 
+    123 619 23 06 - Kristianstad, T4 Montessori grundskola
+
     123 621 44 07 - Kristianstad, Västra Vrams Förskola
 
-    123 624 61 10 - Kristianstad, Hammars skola
+    123 624 61 10 - Kristianstad, Hammars Skola
 
     123 627 41 87 - Kristianstad, Degebergaskolan
 
@@ -81120,6 +81298,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 628 47 72 - Kristianstad, Prästvånggskolan
 
     123 636 49 21 - Kristianstad, Mörrums Skola
+
+    123 645 51 66 - Kristianstad, Bärnstenensförskola
 
     123 645 51 82 - Kristianstad, Österslövs Skola
 
@@ -81140,11 +81320,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 075 30 61 - Sjuhärad, Svedjeskolan
 
-    123 089 23 15 - Sjuhärad, Lundens förskola
+    123 089 23 15 - Sjuhärad, Lundens Förskola
 
     123 122 97 31 - Sjuhärad
 
     123 127 95 53 - Sjuhärad, Fjärdingskolan F-6
+
+    123 128 53 03 - Sjuhärad, Mogaskolan
 
     123 142 18 58 - Sjuhärad, Kristinebergsskolan
 
@@ -81152,7 +81334,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 192 56 76 - Sjuhärad, Förskolan LärKan
 
-    123 215 80 87 - Sjuhärad, Länghemskolan
+    123 215 80 87 - Sjuhärad, Länghemsskolan
 
     123 215 80 95 - Sjuhärad, Dalsjöskolan
 
@@ -81167,6 +81349,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 305 24 87 - Sjuhärad, Gånghesterskolan
 
     123 307 96 47 - Sjuhärad, Björkhöjdskolan 7-9
+
+    123 309 33 58 - Sjuhärad, Malmen Montessori
 
     123 320 40 70 - Sjuhärad, Hössna Skola
 
@@ -81196,6 +81380,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 457 97 69 - Sjuhärad, Bergdalskolan
 
+    123 460 51 27 - Sjuhärad, Kunskapsskolan Borås
+
     123 472 18 33 - Sjuhärad, Sjöboskolan
 
     123 493 79 91 - Sjuhärad, Kinnarummaskolan
@@ -81214,7 +81400,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 569 02 43 - Sjuhärad, Vegby Skola
 
-    123 598 06 77 - Sjuhärad, Alströmergymnasiet, Gymnasiesärskolan
+    123 598 06 77 - Sjuhärad, Alströmergymnasiet Gymnasiesärskolan
 
     123 687 99 10 - Sjuhärad, Bogesundsskolan
 
@@ -81230,6 +81416,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 103 14 00 - Halland, Sofiebergskolan
 
     123 116 29 99 - Halland, Tångaskolan
+
+    123 116 91 19 - Halland, Esperedsskolan
 
     123 117 45 49 - Halland, Hishultsskolan
 
@@ -81247,6 +81435,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 354 21 64 - Halland, Brearedsskolan
 
+    123 357 49 28 - Halland, Stenstorpsskolan
+
     123 357 49 51 - Halland, Genevadsskolan
 
     123 360 03 27 - Halland, Snöstorpsskolan
@@ -81254,6 +81444,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 388 75 44 - Halland, Valhallaskolan
 
     123 480 48 78 - Halland/Kalmar Län
+
+    123 493 43 29 - Halland, Eketångaskolan
 
     123 518 45 10 - Halland, Buaskolan
 
@@ -81265,11 +81457,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 542 25 06 - Halland, Östergårdsskolan
 
+    123 560 42 69 - Halland, Gullbrandsstorpsskolan
+
     123 561 90 28 - Halland, Strandängsskolan
 
     123 578 06 06 - Halland, Kärlekens Skola
 
-    123 584 23 07 - Halland, Haga skolan
+    123 584 23 07 - Halland, Haga Skolan
 
     123 627 41 46 - Halland, Frösakullsskolan
 

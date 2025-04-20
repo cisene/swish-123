@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-04-20-rev-165046
+# Date: 2025-04-20-rev-190058
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -445,6 +445,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230219493	896100-3541	Åsele Brukshundklubb	https://aselebhk.se/	brukshundklubb,hundsport	
 1230219642	802525-3454	Falu VK	https://www.svenskalag.se/faluvolley	idrottsförening,volleybollklubb	
 1230221036	802452-8401	Växjö Fågelklubb	https://vaxjofagelklubb.se/	fågelklubb,fågelskådning,ornitologi	
+1230221150	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Klätten Skolan
 1230221168	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Bodaskolan kommunikationsklass
 1230221184	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Linåkerskolan
 1230221911	769606-9330	Bostadsrättsföreningen Hornsgatan-Hornsbruksgatan	https://brf-hh.net/	bostadsrättsförening	
@@ -453,6 +454,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230223420	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Mörarps Skola
 1230223446	769000-3400	IK Gauthiod	https://www.laget.se/IK_Gauthiod/	fotbollsklubb,idrottsförening	Kiosk
 1230223636	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Bruksskolan
+1230223719	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Hästveda Skola
 1230223743	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Diamantens Förskola
 1230223859	252003-4337	Sala-Norrby-Möklinta Pastorat	https://www.svenskakyrkan.se/sala	religion	Svenska kyrkans unga Sala
 1230224121	843000-9160	Billesholms IK	https://www.svenskalag.se/billesholmsik	fotbollsklubb,idrottsförening	
@@ -685,7 +687,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230316315	822003-6555	Åtvidabergs Bågskytteklubb	https://www.svenskalag.se/atvidabergsbsk	bågskytteklubb,idrottsförening	
 1230316448	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Gläntanskolan
 1230316455	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Härlandatjärnskolan
-1230316463	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar län, Eskelhem Skola
+1230316463	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Eskelhem Skola
 1230316620	802511-0266	Vingåkersbygdens Konstförening	https://vingaker.konstforeningar.se/	konstförening	
 1230316760	750811-XXXX	Yoganathi / Kundaliniyoga med Nathalie Parkvall / Nathalie Parkvall	https://yoganathi.se/	meditation,yoga	
 1230317131	857207-1135	BS Gothia - Bågskytte	https://www.bsgothia.com/	bågskytteklubb,idrottsförening	
@@ -695,6 +697,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230317909	889200-5367	Korpen Sundsvall	https://www.korpen.se/korpensundsvall	idrottsförening,korpenförening	
 1230319129	812400-9682	Haninge Hembygdsgille	https://www.hembygd.se/haninge-hembygdsgille	hembygdsförening	
 1230319525	846002-2968	Lomma Tennis Förening	http://lommatf.se/	idrottsförening,tennisklubb	
+1230319558	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Högastenskolan
 1230320135	802002-8638	Försoningsgruppen	https://www.forsoningsgruppen.com/	godkänd gåvomottagare,hjälporganisation	
 1230320168	834001-8897	Föreningen Gutefåret	https://www.gutefar.se/	intresseförening	
 1230320366	826000-6328	Norra Smålands Scoutdistrikt	https://norrasmaland.scout.se/	scoutkår	
@@ -872,6 +875,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230392068	864000-3367	Equmeniakyrkan Tåstorp Rensvist Eggvena Lagmansholm	https://www.equmeniakyrkantre.se/	religion	
 1230392142	969650-4647	Yoga i Hagen / Male & Female Production HB	https://www.yogaihagen.se/	massage,yoga	
 1230392217	252004-7404	Hudiksvallsbygdens Församling	https://www.svenskakyrkan.se/hudiksvallsbygden	religion	
+1230392571	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Bräckeskolan
 1230392704	802533-7786	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Fladängsskolan
 1230393850	802527-3015	Trollhättans FF	https://www.svenskalag.se/trollhattansfotboll	fotbollsklubb,idrottsförening	
 1230393926	867800-2729	Falbygdens Häststportsförening	https://falbygdenshf.se/	hästsport,ridskola,ridsport	
@@ -1519,6 +1523,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230698159	863001-0265	PRO Trollhättans Södra	https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-trollhattan/foreningar/trollhattan-sodra.html	pensionärsklubb	
 1230698407	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Noblaskolan Solna
 1230698423	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Torparskolan
+1230698480	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Tångvallaskolan
 1230698522	802458-2622	Södermanlands Regementes Officerares Kamratförening	https://p10.se/	förening,kamratförening	
 1230699082	852000-6233	BK Häcken	https://bkhacken.se/	fotbollsklubb,idrottsförening	Rosa startelvan
 1230700906	857202-4050	Partille Scoutkår	https://partille.scout.se/	scoutkår	
@@ -1605,6 +1610,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230732842	854600-3545	Projekt Rödbergsvik	https://www.rodbergsvik.se/	intresseorganisation	
 1230732966	888000-2517	Säbrå Hembygdsförening	https://www.hembygd.se/sabra	hembygdsförening	
 1230734707	559194-3823	Optimal Hundglädje	https://www.optimalhundgladje.se/	hundsport,utbildning	
+1230734731	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Österrödsskolan
 1230734798	202100-4888	Lantmäteriet	https://www.lantmateriet.se/sv/Fastigheter/hantera-pantbrev/	myndighet,pantbrev	
 1230734962	802533-7786	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Gunnesboskolan
 1230734970	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Hällsboskolan Mälarhöjden
@@ -2016,7 +2022,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230890608	559138-0760	Almena Tours AB	https://www.almena.se/	researrangör,resebyrå	
 1230891499	802435-3537	Vallentuna IBK	https://www.svenskalag.se/vallentunaibk	idrottsförening,innebandyklubb	Övrigt
 1230892307	821106-XXXX	Branne Pavlovic	https://www.youtube.com/@BrannePavlovic	artist	
-1230892315	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Lundens förskola
+1230892315	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Lundens Förskola
 1230893164	802537-0738	Julhjälpen i Gnesta	https://www.facebook.com/julhjalpenignesta	hjälporganisation	
 1230893438	252003-8858	Norra Ölands Pastorat	https://www.svenskakyrkan.se/norraoland	godkänd gåvomottagare,religion	Diakoni
 1230893677	556730-3580	Uppsala Lägenhetshotell AB	https://uppsalalagenhetshotell.com/	logi,lokaluthyrning,lägenhetsuthyrning	
@@ -2348,7 +2354,9 @@ entry	orgNumber	orgName	web	categories	comment
 1231030758	556802-4656	Kerstins Trafikskola i Åkersberga / Kerstins Trafikskola AB	https://kerstinstrafikskola.se/	trafikskola,utbildning	
 1231031111	889200-8122	Sundsvalls Segelflygklubb	https://klubbhus.flygsport.se/sundsvalls-segelflygklubb	flygklubb,segelflyg	
 1231031400	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Sofiebergskolan
+1231031434	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Jämshögs Skola
 1231031459	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Kålgårdsskolan
+1231031483	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Snyggatorpsskolan
 1231031608	802439-9811	Українська громада у Гетеборзі - Ukrainska sällskapet i Göteborg	https://ukrainians.se/	hemlandsförening,intresseförening,ukraina	
 1231033554	559120-3483	Bierkeller AB	https://bierkeller.se/	restaurant	
 1231033836	802535-4724	Water Matters	https://watermatters.se/	hjälporganisation	
@@ -2667,6 +2675,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231168590	802499-4439	Svenska Spaniel och Retrieverklubben - Piteå sektionen	https://ssrkpitea.se/	hundklubb	
 1231168707	855100-2846	Synskadades Riksförbund Göteborg	http://www.synskadadesriksforbund.se/om-oss/distrikt-och-lokalforeningar/goteborg/	riksförbund,synskadad	
 1231169028	556910-3301	Haraldssons Auktioner AB	https://haraldssonsauktioner.se/	auktioner,auktionsverk	
+1231169119	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Esperedsskolan
 1231169630	559082-7084	Sundbergs Busstrafik AB	https://www.sundbergsbuss.se/	busstrafik	
 1231170109	881028-XXXX	AyuEmy / Emy Ekholm	https://www.ayuemy.com/	ayur veda,healing	
 1231171008	556925-2306	Tassarnas Djurklinik AB	https://tassarnasdjurklinik.se/	djurvård,veterinär	
@@ -2917,7 +2926,8 @@ entry	orgNumber	orgName	web	categories	comment
 1231282227	559097-0231	Caféboden Restaurang & Catering i Sverige AB	https://www.cafeboden.se/	catering,restaurant	
 1231283506	835000-5529	IF Trion	https://www.svenskalag.se/iftrion	fotbollsklubb,idrottsförening	
 1231285055	813200-1481	Kungsängens SK	https://www.laget.se/KSK/	handbollsklubb,idrottsförening	
-1231285253	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar län, Krungårdsskolan
+1231285253	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Krungårdsskolan
+1231285303	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Mogaskolan
 1231287879	868401-4338	Södra Dals PSF	https://www.svenskalag.se/sodradalspsf	pistolskytteklubb,skytteklubb,sportskytteklubb	
 1231288828	895400-9257	SPF Seniorerna Norrsken Lycksele	https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-norrsken-lycksele-/	pensionärsklubb	
 1231289404	802464-1956	SPF Seniorerna Vallonen Skärplinge	https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/spf-seniorerna-vallonen---skarplinge/	pensionärsklubb	
@@ -3529,6 +3539,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231557826	802419-9419	Tottenham Hotspur Supporters Sweden	https://www.tottenhamhotspur.se/	supporterklubb	
 1231560242	969764-6173	Kapasi Event	https://kapasievent.se/	catering	
 1231560507	864501-8857	PRO Målsryd-Gånghester	https://pro.se/distrikt/sodra-alvsborg/kommun/boras/pro-malsryd-ganghester	pensionärsklubb	
+1231561109	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Johannes Petri Skola
 1231561208	252004-9228	Vetlanda Pastorat	https://www.svenskakyrkan.se/vetlanda	religion	Kollekt Lannaskede församling
 1231561216	252004-9228	Vetlanda Pastorat	https://www.svenskakyrkan.se/vetlanda	religion	Kollekt Ekenässjön församling
 1231561364	802514-0453	Tibro Fotoklubb	https://tibrofotoklubb.blogspot.com/	fotoförening,fotoklubb	
@@ -3799,6 +3810,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231680727	827500-3716	Näshults Hembygdsförening	https://www.nashultsbygdegard.se/	hembygdsförening	
 1231682954	817000-6541	Fanna BK	https://www.laget.se/FannaBK/	fotbollsklubb,idrottsförening	
 1231683366	802519-2686	Rotary Värmdö Skärgård	https://varmdoskargard.se/	rotaryklubb	
+1231684141	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Parkskolan Mönsterås
 1231684851	865501-0687	Stiftelsen Skövde Moské och Kulturhus		religion,stiftelse	
 1231686997	829502-0815	Brottsofferjouren Växjö	https://www.brottsofferjouren.se/	brottsofferjour	
 1231687086	802533-4916	Skara Bridgesällskap	https://www.svenskbridge.se/skara-bs	bridgeklubb	
@@ -4090,7 +4102,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231808088	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Junkaremålsskolan
 1231808120	875000-3199	Sveriges Blåbandförbund	https://www.blabandet.se/	blåband,förbund,nykterhetsförbund	
 1231808211	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Ekets Skola
-1231808229	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar län, Vasaskolan
+1231808229	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Vasaskolan
 1231808419	252003-7488	Härnösands Pastorat	https://www.svenskakyrkan.se/harnosand	religion	Julklappar
 1231808484	252003-7488	Härnösands Pastorat	https://www.svenskakyrkan.se/harnosand	religion	Domkyrkoförsamlingen
 1231808757	802513-3664	Frusna Tassar	https://www.frusnatassar.se/	djurskydd,katthem	
@@ -4515,6 +4527,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232010445	832400-0085	Alsterbro IF	https://alsterbroif.se/	förening,idrottsförening	
 1232011104	802499-8067	Föreningen End Ecocide	https://endecocide.se/	förening,naturvård	
 1232012581	802458-8017	Svenska Kryssarklubben SXK	https://sxk.se/dackekretsen/	båtklubb,kryssarklubb,segelklubb	Dackekretsen
+1232013043	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Frejaskolan
 1232013092	556791-1572	Piraterna Speedway	https://piraterna.se/	speedwayklubb	Gåva
 1232013142	882000-2387	IFK Hedemora Orienteringsklubb	https://www.svenskalag.se/ifkhedemoraok	idrottsförening,orienteringsklubb	
 1232013365	833600-2996	Västerviksortens Ryttareförening	https://vasterviksrf.se/	ryttarförening	Café
@@ -4532,7 +4545,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232022358	802520-0752	Sala Cykelklubb	https://salacykelklubb.se/	cykelklubb,idrottsförening	
 1232022366	857200-9432	Svenska Kryssarklubben SXK	https://sxk.se/vastkustkretsen	båtklubb,kryssarklubb,segelklubb	Västkustkretsen
 1232022804	812800-2642	Sundby Ridklubb	https://www.sundbyridskola.se/	hästsport,ridklubb,ridskola	
-1232023034	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Backa skolan
+1232023034	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Backaskolan
 1232023042	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Ur och Skur Skabersjöskolan
 1232023067	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Errarp
 1232023208	202100-2973	Karolinska Institutet, Fondförvaltning	https://ki.se/samverkan/stod-karolinska-institutets-forskning	donation,institut,stiftelse	
@@ -4561,7 +4574,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232037406	802517-4056	TBN Nordic	https://www.tbnplay.se/	mediaproduktion,religion,streamingtjänst	
 1232037968	802480-8654	Hugos Stiftelse	https://hugosstiftelse.se/	aktiv fritid,barnverksamhet,funktionsnedsättning,stiftelse	
 1232039162	802474-6649	Kramfors BK	https://www.kramforsbk.se/	bowlingklubb,idrottsförening	
-1232039170	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Björkrisskolan
+1232039170	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Björkrisskolan Kungsbacka
 1232039188	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Särö skola
 1232039451	802488-7849	Hemmaodlat	https://www.hemmaodlat.se/	fritidsodling,utbildning	
 1232039477	823000-4312	Mjölby Orienteringsklubb	https://www.mjolbyok.se/	idrottsförening,orienteringsklubb	
@@ -4596,6 +4609,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232052181	252005-1208	Melleruds Församling	https://www.svenskakyrkan.se/mellerud	religion	
 1232053379	969778-1608	Björntjänst Musikkurser Kb	http://bjorntjanst.com/	kurser,musikskola,utbildning	
 1232055309	559284-9854	HairAgain Nordic AB	https://www.hairagain.se/	hårvård	
+1232056000	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Kastanjeskolan
 1232056059	556965-6894	Japhone AB	https://lagaiphone.se/	försäljning,reparationer,telefoni,utrustning	
 1232056778	252002-7091	Lena Församling	https://www.svenskakyrkan.se/vargarda/lenaforsamling	religion	
 1232057016	802451-5143	Myrvikens Skol IF	https://www.facebook.com/p/Myrvikens-Skol-IF-100078824835674/	idrottsförening,skolidrottsförening	
@@ -4798,8 +4812,9 @@ entry	orgNumber	orgName	web	categories	comment
 1232158020	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Önnegårdens Förskola
 1232158046	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Glumslövsskolan
 1232158053	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Bulltoftaskolan
+1232158061	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Höglundaskolan
 1232158079	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Grantomta Montessori
-1232158087	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Länghemskolan
+1232158087	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Länghemsskolan
 1232158095	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Dalsjöskolan
 1232158418	802481-7499	Insamlingsstiftelsen Din Gåva	https://dingava.nu/	insamling,stiftelse	
 1232158509	825002-7219	Östergötlands Stövareklubb, ÖGSK	https://www.ostgotastovare.se/	hundklubb,hundsport,stövarklubb	
@@ -5161,12 +5176,13 @@ entry	orgNumber	orgName	web	categories	comment
 1232282234	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Nåntunaskolan
 1232282242	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Kingelstad byskola
 1232282259	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Norra skolan
-1232282267	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar län, Solbergaskolan
+1232282267	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Solbergaskolan
 1232282275	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Älvsåkersskolan
 1232282291	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Kyrkskolan Möklinta
 1232282382	802454-7005	Emmaboda Pistolklubb	https://www.svenskalag.se/emmabodapistolklubb	pistolskytteklubb,sportskytteklubb	
 1232282531	893200-4537	Orrvikens IK	https://www.svenskalag.se/oik	fotbollsklubb,idrottsförening,innebandyklubb	
 1232282754	802511-3161	Björntaget	https://bjorntaget.se/	förening,travsport	
+1232282879	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Hok/Svenarum
 1232283216	630521-XXXX	Synnove Nylin Helande Dimensioner	https://www.synnovenylin.se/	healing,reiki,seans	
 1232283711	894700-1205	Rönnskär Railcare IF	https://www.laget.se/RonnskarRailcareIF/	fotbollsklubb,idrottsförening	
 1232284321	802512-4762	Swedish Arkani Rohingya Organisation	http://www.saro.one/	hjälporganisation	
@@ -5243,8 +5259,10 @@ entry	orgNumber	orgName	web	categories	comment
 1232308906	802447-9597	SPF Seniorerna Enabygden	https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/enabygden2/	pensionärsklubb	
 1232308914	978500-2719	Hembygdsföreningen Arboga Minne	https://arbogamuseum.se/	hembygdsförening,museum	Arboga Museum
 1232308930	978500-2719	Hembygdsföreningen Arboga Minne	https://arbogamuseum.se/	hembygdsförening,museum	
+1232309698	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Mölstadskolan
 1232309730	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Skalmans Förskola
 1232309763	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Bukärrängs Förskola
+1232309995	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Rönnowskolan
 1232313039	802488-7849	Hemmaodlat	https://www.hemmaodlat.se/	fritidsodling,utbildning	
 1232313310	556227-9942	Investmentbolaget LGAB Sverige AB	https://plaza.se/	tidsskrifter	Prenumeration Plaza Uomo
 1232313898	802458-5583	Bjärka-Säby Ryttarförening	https://www.svenskalag.se/bjarkasabyrf	hästsport,ridklubb,ryttarförening	
@@ -5492,6 +5510,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232412872	252002-4205	Anundsjö Församlning	https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped	religion	
 1232413342	894001-6606	Ersmarks IK	https://www.eik.se/	fotbollsklubb,idrottsförening	P12
 1232413987	802508-9403	Hallstaviks Fotoklubb, HFK	https://hallstaviksfotoklubb.wordpress.com/	fotoförening,fotoklubb	
+1232415982	802533-7778	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Dalarna, Liljanskolan
 1232415990	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Byängsskolan
 1232416964	802528-9359	Leksaksbiblioteket - Allmänna Arvsfonden	https://www.leksaksbiblioteket.se/	donation	
 1232419281	846000-3778	Pistolklubben Elbogen	https://www.pk-elbogen.se/	pistolskytteklubb,sportskytteklubb	
@@ -5534,7 +5553,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232441541	838202-3151	Östermalmskyrkans Församling	https://www.ostermalmskyrkan.nu/	religion	Café
 1232441988	802504-4614	Solbackens Bygdegårdsförening	https://www.svenskalag.se/solbackensbygdegardsforening	bygdegårdsförening	
 1232444412	802400-3405	Sällskapet Gamla Tävlingscyklister	https://www.sgtcykel.se/	intresseförening	
-1232445005	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, KLagshamnsskolan
+1232445005	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Klagshamnsskolan
 1232445617	802541-0658	Northern Light Aid	https://www.northernlightaid.se/	hjälporganisation	
 1232446433	875000-8438	Karlslunds IF FK	https://www.karlslund.nu/	fotbollsklubb,idrottsförening	P017
 1232449817	802546-0083	Icons FC Arvika	https://www.svenskalag.se/iconsfcarvika	fotbollsklubb,idrottsförening	
@@ -5568,7 +5587,8 @@ entry	orgNumber	orgName	web	categories	comment
 1232458966	822002-6390	Ellen Key-Sällskapet	https://www.ellenkeysallskapet.se/	intresseförening,kulturförening	
 1232459105	802471-1999	Cancerkompisar	https://www.cancerkompisar.se/	cancer,patientförening	
 1232459279	802512-6684	Enköping United FK	https://www.laget.se/EnkopingUnitedFK/	fotbollsklubb,idrottsförening	
-1232462059	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Ängsdals skolor
+1232462059	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Ängdals Skolan
+1232462067	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Vittra Telefonplan
 1232462281	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Dalums Skola
 1232464113	559130-2384	TM Juristbyrå AB	https://www.tmjurist.com/	juridiska tjänster,juristbyrå	
 1232465235	802458-2713	Ledningsregementets kamratförening, LedR KF	https://www.svenskalag.se/ledrkf	intresseförening,kamratförening	
@@ -5630,6 +5650,8 @@ entry	orgNumber	orgName	web	categories	comment
 1232520385	802488-4606	PRO Månkarbo-Kyrkbyn	https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samradsgrupp-tierp/foreningar/mankarbo-kyrkbyn.html	pensionärsklubb	
 1232520476	802522-6781	Limhams Shotokan Karateklubb	https://www.karateschool.se/	idrottsförening,kampsportsförening,karateklubb	
 1232520906	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Sågtorpsskolan
+1232520922	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Vendelsö Hage
+1232520955	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Himnaskolan
 1232523033	556486-5508	Hassela Ski Resort	https://hasselaski.se/	skidsportanläggning	Längdpass
 1232523140	745000-3871	Bostadsrättsföreningen Linero i Lund	https://www.hsb.se/skane/brf/linero-i-lund/	bostadsrättsförening,förening	
 1232523504	829500-8570	Synskadades Riksförbund Kronoberg	https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/kronoberg/	riksförbund,synskadad	
@@ -5716,12 +5738,15 @@ entry	orgNumber	orgName	web	categories	comment
 1232573913	829000-5886	Korpen Älmhult	https://www.korpen.se/korpenalmhult	idrottsförening,korpenförening	
 1232576189	559279-6493	Fjällbacka Båt och Bil AB	https://fjallbackabatochbil.se/	bilförsäljning,båtförsäljning	
 1232576601	802459-0963	Halmstad Karate-do Kai	https://halmstadskarateklubb.com/	idrottsförening,kampsportsförening,karateklubb	
+1232578706	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, LiU-loppet / Linköpings Studenters Idrottsförening
 1232578755	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Rörsjöskolan
 1232578763	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Klämmestorpsskolan
-1232578839	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Engelska skolan Norr
+1232578771	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Mellanhedsskolan
+1232578839	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Brokinds Skola
 1232578870	822003-4824	SPF Seniorerna Ydre Österbymo	https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/ydre-osterbymo/	pensionärsklubb	
 1232578953	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Tallbackens Förskola
 1232578987	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Orrholmsskolan
+1232578995	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Tuggeliteskolan
 1232579696	651221-XXXX	Annas Veranda / Anna Jakobsson	https://www.annasveranda.se/	hantverk,konst,yoga	
 1232579910	885500-6527	Sandvikens skyttegille	https://www.sandvikensskyttegille.se/	skytteklubb,sportskytteklubb	
 1232580041	885001-1910	Gävle JazzClub	https://www.gavlejazz.se/	jazzclub,kulturförening	
@@ -5931,7 +5956,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232666758	252002-4205	Anundsjö Församlning	https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped	religion	Ungdomsverksamhet
 1232667376	846002-4360	Malmö Burlöv Golfklubb	https://www.malmoburlovgk.com/	golfklubb	
 1232667418	878001-9124	S:t Olofs Scoutkår	https://stolof.scout.se/	scoutkår	
-1232667731	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Rickarums skola
+1232667731	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Rickarums Skola
 1232668143	817001-4180	Enköpings SK HK	https://www.laget.se/ESKHockey/	idrottsförening,ishockeyklubb	J20
 1232668309	802414-2203	Veterantraktorklubben Norrtelje	https://www.veterantraktorklubben.nu/	motorklubb,veteranfordon	
 1232668556	802420-1363	Transparency International Sverige	https://www.transparency.se/	intresseorganisation	
@@ -6304,6 +6329,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232804235	802007-3329	Kattförbundet SVERAK	https://www.sverak.se/	förbund,kattklubb,kattuppfödning	
 1232804334	202100-2874	Umeå Universitet	https://www.umu.se/kontakta-oss/ge-en-gava/sa-har-gor-du/donation/	donation	Skogsforskning
 1232804581	846001-5756	Kronprinsens Tennisklubb	https://kronprinsenstk.se/	idrottsförening,tennisklubb	banhyra, abonnemang, motionsserie
+1232804995	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Snapphaneskolan
 1232805224	878000-7681	EFS Västerås	https://efsvasteras.se/	religion	
 1232805653	837000-7794	Hässleholms Ridhusförening	https://www.hlmhastsport.se/	hästsport,ridklubb	
 1232806156	802467-5152	Mid Sweden Aid	https://www.midswedenaid.eu/	donation,hjälporganisation,välgörenhet	
@@ -6565,7 +6591,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232929941	802435-9369	PRO Bjärke	https://pro.se/distrikt/distrikt-norra-alvsborg/samorganisationer/samorganisation-alingsas/foreningar/bjarke.html	pensionärsklubb	
 1232930501	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Vätterslundsskolan
 1232930527	854600-5219	Sotenäs Biodlareförening	https://sotenas.biodlarna.se/	biodlareförening,biodling,naturbruk	
-1232930550	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Furuby skola
+1232930550	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Furuby Skola
 1232930568	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Hubertusgården
 1232930857	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Linnéskolan
 1232930998	812400-0079	Svärdsögården Bygdegårdsförening	https://bygdegardarna.se/svardsogarden/	bygdegårdsförening	
@@ -6850,7 +6876,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233068178	832401-8780	Svenska Röda Korset	https://www.rodakorset.se/ort/kalmar/kalmar-kommun/	hjälporganisation,rödakorset	Kalmarkretsen
 1233068939	802519-3924	Föreningen Kulturarv Djurhamn	https://www.djurhamn.eu/	intresseförening,kulturförening	
 1233069127	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Vita Villan Kungsgårdsskolan
-1233069184	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar län, Pårydsskolan
+1233069184	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Pårydsskolan
 1233069192	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Strandskolan Montessori
 1233069390	802008-4136	Stamningsförbundet	https://stamning.se/	förbund,stamning	
 1233069945	802467-6028	Bålsta Ridsportförening	https://www.balstaridskola.se/	hästsport,ridskola	
@@ -6874,6 +6900,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233079647	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Björkhöjdskolan 7-9
 1233079670	802456-9173	Ramsjö Skytteförening	https://ramsjoskf.se/	skytteklubb,sportskytteklubb	
 1233079696	802521-7467	Neuro Ung Med MS	https://ungmedms.com/	förening,patientförening	
+1233079704	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Waldorfskolan
 1233085826	802459-0047	Lagga Hembygds- o Fornminnesförening	https://www.hembygd.se/lagga	fornminnesförening,hembygdsförening	
 1233085859	802502-5977	Kos intresseförening	https://www.facebook.com/kosintresseforening	intresseförening	
 1233086147	816400-3132	Danderyds SK Fotbollsförening	https://www.svenskalag.se/dsk-fotboll	fotbollsklubb,idrottsförening	P08
@@ -6889,6 +6916,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233090651	863000-7477	Kvinnojouren Duvan	https://www.kvinnojourenduvan.se/	kvinnojour	
 1233091220	556644-2280	Godoymedia AB	https://godoymedia.se/	bokutgivning,förlag	
 1233093044	802422-2161	Kvinnojouren Boden	https://www.kvinnojourenboden.se/	kvinnojour	
+1233093358	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Malmen Montessori
 1233093572	832401-9705	Långasjö Hästsportklubb	https://www.svenskalag.se/langasjohsk	hästsport,ridklubb	
 1233094059	854600-5912	Lysekils Konstförening	https://www.lysekilskonstforening.se/	intresseförening,konstförening	
 1233094653	802464-7326	SKPF Pensionärerna Arvidsjaur, avd 126	https://www.skpf.se/avdelningar/distrikt-norrbottens-lan/arvidsjaur-avd-126/	pensionärsklubb	
@@ -7022,7 +7050,9 @@ entry	orgNumber	orgName	web	categories	comment
 1233143302	802497-8440	Bärens Hus	https://barenshus.se/	intresseförening	
 1233143492	802426-8701	Öxabäcks Fiskevårdsområdesförening	http://greengrove.dinstudio.se/	fiskeklubb,fiskevård,sportfiske	
 1233144508	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Bofinkenskolan
-1233144805	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Östmarks skola
+1233144730	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Lovisedalsskolan
+1233144805	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Östmarks Skola
+1233144813	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Glimåkraskolan
 1233145265	897300-3380	Kvinnojouren Kiruna	https://www.roks.se/hittaenjour?key=kiruna	kvinnojour	
 1233145703	969673-0861	S:t Afrems Kyrka / Syrianska Fastighetsbolag Handelsbolag	https://www.facebook.com/stafremskyrka/	religion	
 1233149101	802004-7208	Svenska Vattenskid- och Wakeboardförbundet	https://svwf.se/	idrottsförbund,vattensport	
@@ -7463,7 +7493,8 @@ entry	orgNumber	orgName	web	categories	comment
 1233376779	252004-9475	Nordanstigskustens Församling	https://www.svenskakyrkan.se/nordanstigskusten	religion	Kollekt Jättendal
 1233377025	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Boo Gårds Skola
 1233377033	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Ellen Keyskolan
-1233377272	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Tornlyckeskolan
+1233377215	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Skutehagens Skola
+1233377272	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Toftaskolan
 1233377298	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Vikens Montessoriskola
 1233377447	802002-7317	Svenska Psykoanalytiska Föreningen	https://www.psykoanalys.se/	mental hälsa,psykoanalys	
 1233377819	556576-5962	Speedshop i Krokom	https://www.speedshopen.se/	försäljning,reservdelar	
@@ -7512,9 +7543,10 @@ entry	orgNumber	orgName	web	categories	comment
 1233385721	849400-3513	Pingstkyrkan Kungsbacka	https://www.pingstkungsbacka.se/	religion	Församlingskassan
 1233387008	828001-0862	Historiska Sällskapet Gamla Wernamo	https://gamlawernamo.se/	historieförening,intresseförening	
 1233387503	802407-3697	Shanta Idrottsförening	https://www.korpen.se/shanta-idrottsforening	basketbollklubb,intresseförening,korpenförening	
-1233387727	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar län, Tjelvarskolan
-1233387735	802533-7786	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Alfredshällskolan
+1233387727	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Tjelvarskolan
+1233387735	802533-7786	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Sandåkersskolan
 1233387743	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Västervångskolan
+1233387768	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Långsjöskolan
 1233387859	875000-2522	Stora Mellösa Baptistförsamling	https://baptistkyrkan.com/	religion	Växa
 1233387875	769605-2161	Bostadsrättsföreningen Hemmet 17	https://www.hemmet17.se/	bostadsrättsförening	
 1233388022	845001-0775	Staffanstorp United	https://www.staffanstorpunited.se/	fotbollsklubb,idrottsförening	
@@ -7755,7 +7787,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233497070	843002-4284	SPF Seniorerna Kärnan Helsingborg	https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-karnan-helsingborg/	pensionärsklubb	
 1233498524	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Rångedalaskolan
 1233498664	802513-8143	Gnosjo Global Association	https://www.gnosjoglobal.com/	hjälporganisation	
-1233498698	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Emiliaskolan
+1233498698	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Emiliaskolan
 1233499142	252004-9236	Krokoms Pastorat	https://www.svenskakyrkan.se/krokom	religion	Kollekt Offerdal
 1233499266	869000-4109	Villa Lidköping BK	https://vlbk.se/	bandyklubb,idrottsförening	
 1233499639	817602-7863	IK Sirius Bandyklubb	https://www.siriusbandy.se/	bandyklubb,idrottsförening	
@@ -7966,6 +7998,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233574803	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Barnarpsskolan
 1233574902	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Lindbladsskolan
 1233574910	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Hällaskolan
+1233574928	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Stenstorpsskolan
 1233574944	829000-8120	Kvinnojouren Märta	https://www.kvjmarta.se/	kvinnojour	
 1233574951	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Genevadsskolan
 1233575065	866600-7805	Vristulven FVO	https://www.vristulven.se/	fiskevård,vattenvård	
@@ -8153,6 +8186,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233664828	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Fredrikssbergskolan
 1233664836	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Hindby Dibber
 1233664885	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Björnkärrsskolan
+1233664893	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Sjöängsskolan
 1233664927	857200-4904	Göteborgs Fäktklubb	https://www.goteborgsfk.se/	fäktklubb	
 1233664984	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Äppelgården Förskola
 1233665635	559123-6848	Kronogård Nord AB	https://www.kronogard.com/	camping,konferens,stuguthyrning	
@@ -8292,6 +8326,8 @@ entry	orgNumber	orgName	web	categories	comment
 1233740925	817606-6069	PRO Vaksala-Danmark	https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-uppsala/foreningar/vaksala-danmark.html	pensionärsklubb	
 1233742301	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Framtidskompassen Vellinge
 1233742400	802492-8445	Häverö Biodlareförening	https://haverobf.biodlarna.se/	biodlareförening,biodling,naturbruk	
+1233742525	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Signebyn friskola
+1233742533	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Gullstenskolan
 1233742541	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Fredricelundskolan
 1233742624	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Trollets Förskola
 1233743119	802525-2282	Vibyggerå Byalag	https://www.vibyggera.se/	byalag	
@@ -8452,6 +8488,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233825643	815600-5715	PRO Järna Vårdinge	https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-sodertalje/foreningar/jarna-vardinge.html	pensionärsklubb	
 1233826757	748000-0442	Byggnadsföreningen Å-gården i Vollsjö	https://agarden.se/	bygdegårdsförening	
 1233827029	802528-3782	Helsingborgs Tjej Och Transjour	https://www.hbgttj.se/	kvinnojour,transjour	
+1233827037	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Kärna Skola
 1233827599	868400-7191	Skara HF	https://www.laget.se/SkaraHF/	handbollsklubb,idrottsförening	F10
 1233827615	252000-6343	Urshults Församling		religion	Bokbord
 1233827987	650325-XXXX	Bondepraktikan Podcast / Per-Ola Olsson	https://bondepraktikan.eu/	podcast	
@@ -8508,6 +8545,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233852225	802502-0762	Rastplats Söder	https://www.rastplatssoder.se/	religion	
 1233852274	480409-XXXX	Härliga Hjörnered / Elver Åkesson	https://harligahjornered.se/	friluftsliv	
 1233852498	853300-6360	Kyrkesunds Byalag	https://www.kyrkesundsbyalag.se/	byalag,hembygdsförening	
+1233852548	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Alvikenskolan
 1233852597	252002-9113	Lifecenter International Church	https://lifecenter.se/	religion	Ludvika
 1233852951	889200-6159	Svenska Röda Korset	https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg	hjälporganisation,rödakorset	Skönsberg
 1233853215	252003-6399	Orust Pastorat	https://www.svenskakyrkan.se/orust	religion	Insamling Torp församling
@@ -8528,6 +8566,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233862471	769613-1502	SM i Fotografi / Svenska Porträttfotografers Förbund	https://www.smfotografi.se/	fotograf,porträttfotografi	
 1233862885	769633-9436	Bostadsrättsföreningen Strandparken 2 i Askersund	https://brf-strandparken2.se/	bostadsrättsförening	
 1233862984	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Adelövs Friskola
+1233862992	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, väskolan
 1233864048	802423-1253	Skånes Russavelsförening	https://www.skanesrussavelsforening.se/	hästavel,hästuppfödning	
 1233864220	252003-2976	Essunga Pastorat	https://www.svenskakyrkan.se/essunga	religion	Kollekt Lekåsa kyrka
 1233864311	849201-1377	Långaryds Hembygdsförening	https://www.hembygd.se/langaryd	hembygdsförening	
@@ -8550,6 +8589,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233879012	802500-8189	Hyssna Pensionärsförening	https://hyssnapensionarsforening.se/	pensionärsklubb	
 1233879061	802458-8488	Lions Club Arvika	https://www.e-clubhouse.org/sites/arvika/	lionsklubb	
 1233879509	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Fäladsskolan
+1233879533	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Kalmarsundsskolan
 1233879558	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Högastenskolan
 1233879715	898801-1386	FSK Lodjuret Älvsbyns kommuns Skoterklubb	https://www.facebook.com/groups/236620686895	skoterklubb	
 1233879731	857204-5568	Brännöföreningen	https://brannoforeningen.se/	barnverksamhet,idrottsförening	Försäljning
@@ -8791,8 +8831,9 @@ entry	orgNumber	orgName	web	categories	comment
 1233962974	916846-1243	Klimatpodden / Konvoj Produktion	https://klimatpodden.se/	podcast	
 1233963386	863000-7170	Konsumentorganisationen Elbil Sverige	https://www.elbilsverige.se/	intresseorganisation,konsumentorganisation	
 1233964384	834001-4524	Sjonhems Hembygdsförening	https://www.hembygd.se/sjonhem	hembygdsförening	
+1233964525	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Kattarps Skola
 1233964640	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Framtidskompassen Västra Ingelstad
-1233964707	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Skaraborg, Alboskolan
+1233964707	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Skaraborg, Alboskolan
 1233967551	802433-8199	Grynkorvens Vänner	https://grynkorv.se/	intresseförening	
 1233967866	556922-3588	Dalecarlian Horse Adventures AB	https://www.beridetbagskytte.se/	hästsport,ridskola	
 1233967874	849000-0299	Falkenbergs Roddklubb	https://falkenbergsroddklubb.klubbenonline.se/	idrottsförening,roddklubb	
@@ -9029,11 +9070,13 @@ entry	orgNumber	orgName	web	categories	comment
 1234109336	818000-7190	Eskilstuna Hunddressyrklubb	https://www.ehdk.se/	dressyrklubb,hundklubb	Tävling, Kurs
 1234113213	802522-0784	Nya Ronnebygymnasterna IF	https://www.svenskalag.se/nyaronnebygymnasterna	gymnastikförening,idrottsförening	
 1234113403	854600-5748	Grundsunds Båtklubb	https://grundsundsbatklubb.se/	båtklubb	
-1234113775	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Villanskolan
+1234113775	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Hagaskolan
 1234113940	802529-0274	Odd Fellow Orden	https://www.gbgoddfellow.se/seniorerna/	oddfellowklubb,ordensällskap	Seniorklubb
 1234114336	886500-2631	Ovanåkers FVOF	https://www.ovanakersfvof.se/	sportfiske,vattenvård	Fiskekort Värasen
 1234114476	857207-2455	Stiftelsen Kyrkans SOS	https://kyrkanssos.se/	religion,stiftelse	
 1234114872	721119-XXXX	Rikhälsa / Kajsa Henningsson	https://rikhalsa.se/	healing,massage,reiki,yoga	
+1234115176	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Internationella Engelska Skolan Älvsjö
+1234115184	802533-7778	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Dalarna, Linghedsskolan
 1234115630	886000-6306	Mo Bygdegårdsförening	http://www.mobygdegard.se/	bygdegårdsförening	
 1234115960	878000-4480	Skiljebo SK	https://www.skiljebosk.nu/	fotbollsklubb,idrottsförening	F-12
 1234116364	875700-7995	Aga BTK - Bordtennis	https://www.agabtk.se/	bordtennisklubb,idrottsförening	
@@ -9351,6 +9394,8 @@ entry	orgNumber	orgName	web	categories	comment
 1234244588	814401-2476	Hallstaviks Ryttarförening	https://www.hallstaviksrf.com/	hästsport,ridsport,ryttarförening	
 1234244778	802462-1495	Inner Wheel Club Arboga	https://www.innerwheel.se/	innerwheel,kvinnligt nätverk	Garissa
 1234245692	802469-4898	Kalix Konstförening	https://kalixkonst.se/	konstförening	
+1234245916	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Södervångskolan
+1234245924	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Ljunggrenska Skolan
 1234246005	802456-7912	Västra Härjedalens Brukshundsklubb	https://brukshundklubben.se/vastra-harjedalens-brukshundklubb/	brukshundklubb,hundsport	
 1234247276	817606-9766	Lunda Hembygdsförening	https://www.hembygd.se/lunda	hembygdsförening	
 1234247409	802436-2793	Råå Vattenskidklubb	https://www.vattenskidor-helsingborg.se/	idrottsförening,vattenskidklubb	
@@ -9584,6 +9629,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234383840	826001-8844	Hofslätts Hembygdsförening	https://hofslatt.se/	hembygdsförening	
 1234384137	802429-6355	Ödeshögs Lokalhistoriska Arkiv, ÖLA	https://olaarkiv.se/	historieförening,intresseförening,lokalhistoria	
 1234384343	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Strandskolan
+1234384426	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Prolympia
 1234384541	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Dansäterskolan
 1234384558	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Adelövs Friskola
 1234384566	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Parkskolan Göteborg
@@ -9746,6 +9792,8 @@ entry	orgNumber	orgName	web	categories	comment
 1234465720	556418-0270	Micke Ahlgrens Orkester Aktiebolag	https://mickeahlgrens.se/	dansband,musik,orkester	
 1234466926	822001-7696	BK Ljungsbro	https://www.svenskalag.se/bkljungsbro	fotbollsklubb,idrottsförening	F08-09
 1234467387	559263-2540	Prästgården Holmön / Holmöns Bygdebolag AB	https://www.prastgardenholmon.se/	bygdegårdsförening	
+1234468401	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Tanneforsskolan
+1234468559	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Sunnemo Skola
 1234468567	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Skaraborg, Billingsdalskolan
 1234468575	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Skaraborg, Värsås Skola
 1234468757	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Bergvallaskolan
@@ -9928,6 +9976,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234543005	802533-7786	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Nyvångskolan
 1234543054	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Centrumskolan
 1234543096	559130-7896	Palle B. AB	https://palleb.se/	fotograf,fotografering,handarbeten,hantverk	
+1234543229	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Löttingelundsskolan
 1234543609	252004-9194	Barnarp Ödestugu Församling	https://www.svenskakyrkan.se/barnarp-odestugu	religion	Kollekt
 1234543625	252002-8669	St:Paulus av Korset Katolska Församling	https://stpaulus.se/	religion	
 1234545703	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Hestra Midgårdskolan
@@ -9980,7 +10029,9 @@ entry	orgNumber	orgName	web	categories	comment
 1234572798	769616-5856	Bostadsrättsföreningen Lavetten Örnen i Sundbyberg	https://www.lavetten-ornen.se/	bostadsrättsförening	
 1234575569	802493-1720	Rotary Nordmaling	https://portal.clubrunner.ca/17217/	rotaryklubb	
 1234576435	896100-5850	Lappmarkens släkt- och bygdeforskare	https://lsbfvilhelmina.se/	genealogi,intresseförening,släktforskning	
+1234577318	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Gymnasiesärskolan/Jenny Nyströmskolan
 1234577367	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Marbäcks Skola
+1234577375	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Kulladalsskolan
 1234578126	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/sociala-centret/	godkänd gåvomottagare,religion	Sociala Centret
 1234578233	252003-9203	Strömsunds Pastorat	https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar	religion	Fjällsjö församling
 1234578258	802404-8459	Stockholms Ornitologiska Förening, StOF	https://stof.nu/	fågelskådning,ornitologi	
@@ -10053,6 +10104,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234604724	556708-1780	Ridskolepedagogik / Björkviks Ponnyridskola AB	https://ridskolepedagogik.com/	hästsport,ridskola,utbildning,utbildningsstöd	
 1234605093	802475-9311	SKPF Pensionärerna Distrikt Jämtland-Härjedalen, avd 30	https://www.skpf.se/avdelningar/distrikt-jamtlands-och-harjedalens-lan/jamtland-avd-30/	pensionärsklubb	
 1234605119	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Skanörsskola
+1234605127	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Kunskapsskolan Borås
 1234605143	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Ramlösa Friskola
 1234605176	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Hagaskolan
 1234605598	875001-9013	Internationella Kvinnoförbundet	https://www.ikfsverige.com/	förbund,intresseförening	
@@ -10373,6 +10425,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234745816	252003-9203	Strömsunds Pastorat	https://www.svenskakyrkan.se/stromsund/stromsunds-pastorat	religion	Diakonala fonden
 1234746343	802524-9932	Kulturföreningen Club UFO	https://sites.google.com/view/clubufo-skurup/	kulturförening,musikförening	
 1234746608	802435-3537	Vallentuna IBK	https://www.svenskalag.se/vallentunaibk	idrottsförening,innebandyklubb	Café
+1234747085	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Alsterbro Skola
 1234748349	895400-3607	Joeström FVO	https://www.ifiske.se/fiske-joestrom-fvo.htm	fiskekort,fiskevård	
 1234748695	716461-8469	Gimdalsprojektets Ekonomiska förening	https://gimdalen.com/	intresseförening	
 1234749925	802016-4243	Bromma Hembygdsförening	https://brommahembygd.se/	hembygdsförening	
@@ -10620,8 +10673,11 @@ entry	orgNumber	orgName	web	categories	comment
 1234933529	828000-4980	Hånger Hembygdsförening	https://www.hembygd.se/hanger	hembygdsförening	
 1234933966	873200-1345	Karlstad Golfklubb	https://www.karlstadgk.se/	golfbana,golfklubb	
 1234934048	919000-2635	FUB Södra Sörmland	https://www.fub.se/lokal/fub-sodra-sormland/	funktionsnedsättning,funktionsvariation	
-1234934337	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Laröd skola
+1234934329	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Eketångaskolan
+1234934337	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Laröds Skola
 1234934444	556702-3980	ImplementDiversity AB	https://hurardethososs.se/	konsulttjänster,trycksaker	
+1234934568	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Viktor Rydbergs Samskola
+1234934576	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Vislandaskolan
 1234935292	895400-8473	Boksjö Bygdegårdsförening	https://bygdegardarna.se/boksjon/	bygdegårdsförening	
 1234935565	252002-4114	Skorpeds Församling	https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped	religion	Barnverksamhet
 1234936407	817605-4545	Equmenia Knivsta	https://equmeniakyrkan.se/forsamlingar/equmenia-knivsta/	religion	
@@ -10675,7 +10731,9 @@ entry	orgNumber	orgName	web	categories	comment
 1234949061	846501-7740	Reservofficersföreningen i Skåne	https://www.resoffskane.se/	försvarsorganisation,intresseförening	
 1234950218	839400-8679	Magnarps Intresseförening	https://www.magnarp.com/	intresseförening,samhällsförening	
 1234950317	817601-6494	SMC Västmanland	https://www.svmc.se/distrikt/vastmanland/	motorcykelklubb	
+1234950416	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Kristvallabrunn Skola
 1234950713	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Möllebacksskolan
+1234950721	802533-7786	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Sallerupsskolan
 1234950846	826500-4047	Tranås Kvinnojour	https://www.unizonjourer.se/tranaskvinnojour/	kvinnojour	
 1234951406	802520-7732	Umeå Muay Thai	https://www.svenskalag.se/umeamuaythai	idrottsförening,kampsportsförening,kickboxningsklubb,muaythaiklubb	
 1234951950	848000-7908	PRO Ystad	https://pro.se/distrikt/skane/kommun/ystad/pro-ystad	pensionärsklubb	
@@ -10729,6 +10787,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234972600	559246-5537	Häståkeriet Djurgården AB	https://www.hastakeriet.se/	event,hästsport,konferens,turridning	
 1234974507	832401-8624	Kalmar AIK FK	https://www.laget.se/KalmarAIK/	fotbollsklubb,idrottsförening	
 1234974655	827000-7597	PRO Nässjö	https://pro.se/distrikt/distrikt-jonkopings-lan/samorganisationer/samorganisation-nassjo/foreningar/nassjo.html	pensionärsklubb	
+1234975116	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Bellevueskolan
 1234975124	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Klastorpsskolan
 1234975140	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Söraby Skola
 1234975314	802493-9566	RPG Fiskebäck Önnered	https://rpg.org.se/foreningsprogram/vastkusten/	pensionärsklubb,religion	
@@ -10749,6 +10808,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234989018	867800-4782	Falköpings Sportskytteklubb	https://www.laget.se/FalkopingsSpSK/	jaktskytteklubb,skytteklubb,sportskytteklubb	Jägarexamen, kiosk/kafeteria
 1234989075	252004-9285	Lysekils Pastorat	https://www.svenskakyrkan.se/lysekils-pastorat	religion	Musikverksamheten Skaftö
 1234989885	802414-0942	Stjärnviks Bygdeförening	https://bygdegardarna.se/stjarnvik/	bygdegårdsförening	
+1234989943	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Kattebäcksskolan
 1234989950	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Svaneholmskolan
 1234989989	802001-8266	Konserthuset Stockholm / Stockholms Konserthusstiftelse		events,konsert,kultur,musik	
 1234990008	862000-3767	Bäckefors Hembygds- & Framtidsförening	https://www.backefors.com/	hembygdsförening	
@@ -10783,6 +10843,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234999272	802521-3896	Locktorps Festplats & Kulturförening	https://locktorp.com/	event,kulturförening	
 1234999298	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Maria Parkskolan
 1234999322	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Kyrkbyskolan Ale
+1234999546	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Kristianstad Montessori förskola
 1234999553	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Ingatorpsskolan
 1234999595	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Norskolan
 1234999884	802414-1791	Föreningen Släktdata	https://www.slaktdata.org/	genealogi,släktforskning	
@@ -11238,6 +11299,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235172200	814400-5231	Rånäs Orienteringsklubb	https://www.ranasok.se/	idrottsförening,orienteringsklubb	
 1235172457	845003-3215	Makalösa Föräldrar Lund	https://makalosa.org/	föräldraskap	
 1235173364	716420-4369	Bostadsrättsföreningen Syrenen 1	https://www.syrenen1.se/	bostadsrättsförening	
+1235173836	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Långseruds friskola
 1235173851	802526-2604	Sweden UNRWA Reform	https://swedenunrwareform.org/	intresseförening	
 1235174172	802407-0206	Skarpnäcks AIK	https://skarpan.com/	idrottsförening,ishockeyklubb	
 1235174495	878000-8754	Hallstahammars Orienteringsklubb	https://hallstahammarsok.se/	idrottsförening,orienteringsklubb	
@@ -11337,10 +11399,13 @@ entry	orgNumber	orgName	web	categories	comment
 1235229513	252004-8857	Härjedalens Pastorat	https://www.svenskakyrkan.se/harjedalen	religion	
 1235229760	844000-3542	Svenska Röda Korset	https://www.rodakorset.se/ort/skane/landskrona-stad/	hjälporganisation,rödakorset	Landskrona, Beredskapsgruppen
 1235229901	812401-1274	Haninge Kvinnojour	https://www.haningekvinnojour.se/	kvinnojour	
-1235230479	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Skaraborg, prästgårdsskolan
+1235230438	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Lejonskolan
+1235230479	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Skaraborg, Prästgårdskolan
 1235230552	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Askeby Skola
 1235230560	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Hjortsjöskolan 1-6
 1235230669	802533-7778	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Dalarna, Söderbaumska Skolan
+1235230685	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Lillgårdsskolan
+1235230693	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Söderskolan
 1235230982	802527-6497	Mellisklubben	https://mellisklubben.se/	barnverksamhet,hjälporganisation,ungdomsverksamhet	
 1235231790	802530-5890	Lokala Hjälpen - Tillsammans för Västerås	https://www.lokalahjalpen.se/	donation,hjälporganisation	
 1235232822	802508-4925	Pride Lysekil	https://www.pridelysekil.se/	intresseförening	
@@ -11478,6 +11543,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235285176	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Internationella Engelska Skolan i Täby
 1235285192	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Internationella Engelska Skolan
 1235285416	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Essingeskolan
+1235285424	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Vittskövle Skola
 1235288014	802477-8519	Gittan Crafoords Insamlingsstiftelse	https://www.gittansstiftelse.se/	alkoholproblematik,behandling,beroendeproblematik,forskning,stiftelse,utbildning	
 1235288154	556748-2970	Restaurang Vällagat	https://www.vallagat.se/	catering,restaurant	
 1235288162	826000-0073	Ansgariikyrkans Församling	https://ansgariikyrkan.se/	religion	Kollekt, insamlingar
@@ -11516,9 +11582,11 @@ entry	orgNumber	orgName	web	categories	comment
 1235310297	802466-5401	Uppsala Handbollsklubb	https://www.uppsalahk.se/	handbollsklubb,idrottsförening	P2009 (A-Pojk)
 1235310974	868401-2514	Parkinsonförbundet - Skaraborg	https://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Skaraborg.html	förening,intresseförening	
 1235311501	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Skärgårdsstadsskolan
+1235311519	802533-7778	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Dalarna, Djuråsskolan
 1235311600	802416-2219	Brukarföreningen Stockholm	https://www.brukarforeningarna.se/stockholm/	donation,intresseorganisation	
 1235311626	556298-9755	Varuhuset Rönneshytta AB	http://varuhuset.se/	försäljning	
-1235311931	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Ängdalaskolor Ab
+1235311915	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Sandsbro Skola
+1235311931	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Ängdala skolor
 1235312087	802481-4298	Insamlingsstiftelsen Motus Vitae	https://motusfoundation.se/	insamling,stiftelse	
 1235312277	202100-3054	KTH Elektrosektionens Elektroniklaboratorium, ELAB	https://www.elab.kth.se/	intresseförening	
 1235317664	817300-6670	PRO Hållnäs	https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samradsgrupp-tierp/foreningar/hallnas.html	pensionärsklubb	
@@ -11538,6 +11606,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235324397	556214-7776	KG SleepOver / Industriunderhåll Kungsäter AB	https://kgsleepover.se/	bed and breakfast,bed and kitchen,logi,ställplats,vandrarhem,övernattning	
 1235325147	802433-9627	Lifbåt 416 - Skanör-Falsterbo Lifbåts Roddarelag	https://www.roddarelaget.se/	intresseförening,kulturförening,museiförening,museum	
 1235325345	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Östermalmsskolan
+1235325352	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Internationella Engelska Skolan Hässelby Str
 1235325824	556677-9244	Sjölin & Lantz AB	https://www.sjolinlantz.se/	trafikskola	
 1235326822	832800-4356	Rödsle BK	https://www.svenskalag.se/rodslebk	fotbollsklubb,idrottsförening	
 1235329719	802487-9366	SPF Seniorerna Strövelstorp Ausås	https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-strovelstorp-ausas/	pensionärsklubb	
@@ -11565,6 +11634,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235333380	872800-3552	Uddeholms JSK	https://www.svenskalag.se/uddeholmsjsk	jaktskytteklubb,skytteklubb	
 1235334818	916480-5039	Armystuff / Norrbottens Skogsteknik Handelsbolag	https://armystuff.se/	friluftsliv,kläder,utrustning	
 1235334966	252000-0924	Boo Församling	https://www.svenskakyrkan.se/boo	religion	Gåvor
+1235335070	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Monbijouskolan
 1235335088	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Vreta kloster Skola
 1235335336	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Vibyskolan
 1235335377	812400-9534	SPF Seniorerna Tyresö	https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-tyreso-/	pensionärsklubb	
@@ -11762,6 +11832,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235419122	829000-5688	Stiftelsen Skandinavisk Yoga och Meditationsskola	https://www.yoga.se/	meditation,skola,stiftelse,utbildning,yoga	Hå Kursgård
 1235419205	802454-7682	Rydaholms Frikyrka	https://www.rydaholmsfrikyrka.se/	religion	Café
 1235419262	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Slimmingeby Skola
+1235419296	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Erlaskolan Södra
 1235419312	802475-8818	Malma Intresseförening	https://www.malmaintresseforening.se/	intresseförening	
 1235419650	252000-9016	Jämshögs Församling	https://www.svenskakyrkan.se/jamshog	religion	Diakoni
 1235419791	716405-7692	Norra Tredenborgsslättens Samfällighetsförening	http://norratredenborgsslatten.dinstudio.se/	samfällighetsförening	
@@ -12189,11 +12260,11 @@ entry	orgNumber	orgName	web	categories	comment
 1235600945	857200-7600	Hönö Missionsförsamling	https://www.honomissionskyrka.se/	religion	Församlingskassan
 1235601398	819000-4930	Nyköpings Scoutkår	https://nykoping.scout.se/	scoutkår	
 1235601844	252003-4287	Stora Tuna och Torsångs Pastorat	https://www.svenskakyrkan.se/borlange	religion	Kollekt Stora Tuna kyrka
-1235604103	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Gustav Vasa Skolan
+1235604103	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Gustav Vasaskolan
 1235604111	855900-0149	Bullarens GoIF	https://www.bullarensgoif.se/	bordtennisklubb,fotbollsklubb,gymnastikförening,idrottsförening,innebandyklubb,orienteringsklubb,skidlöparklubb	Medlemsavgift
-1235604244	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Trolle Ljungby skola
+1235604244	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Trolle Ljungby Skola
 1235604251	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Karlshamns Montessori
-1235604269	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Åby skola
+1235604269	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Gullbrandsstorpsskolan
 1235604327	559145-4276	Djur i Balans i Sverige AB	https://www.djuribalans.com/	djurvård,friskvård	
 1235604491	815201-2822	Svensk Förening för Radiofysik	https://www.radiofysik.org/	förening	
 1235604533	802513-5388	Uppsala Spelmanslag	https://uppsalaspelmanslag.se/	folkmusik,spelmansgille,spelmanslag	
@@ -12349,6 +12420,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235674205	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Sundsbroskolan
 1235674239	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Krusboda Skola
 1235674270	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Vallåkra förskola/skola
+1235674296	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Nordic International School - Karlstad
 1235674403	802520-0406	Bommedal RF - Ridsport	https://www.bommedalrf.se/	hästsport,ridklubb,ryttarförening	
 1235674643	802429-9383	Amandas Hus	https://www.amandashus.se/	bygdegårdsförening	
 1235674676	875000-4882	Mullhyttans IF	https://www.laget.se/MullhyttansIF-klubben/	discgolfklubb,fotbollsklubb,gymnastikförening,idrottsförening,innebandyklubb,padelklubb,skidlöparklubb	
@@ -12712,7 +12784,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235841366	700528-XXXX	Hos Malin - Medicinsk fotvård / Malin Danielsson	https://www.hosmalin.se/	fotvård	
 1235841499	873200-9546	Gustaf Fröding-Sällskapet	https://frodingsallskapet.se/	intresseförening	
 1235841580	802415-6518	Hilti Brazilian Jiu-Jitsu Stockholm	https://www.hiltibjj.com/	idrottsförening,kampsportsförening	
-1235842307	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Haga skolan
+1235842307	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Haga Skolan
 1235842505	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Tolita Skolan
 1235842695	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Friskolan Kronobergshed
 1235842927	853300-8820	Göteborgs och Bohusläns Biodlardistrikt		biodlareförening,biodling,naturbruk	
@@ -12728,9 +12800,13 @@ entry	orgNumber	orgName	web	categories	comment
 1235849807	782600-0601	Dala-Järna IK, DJIK	https://www.djik.se/	idrottsförening	Huvudstyrelsen
 1235853072	003418-6080	Prinsessan Estelles Kulturstiftelse	https://www.preks.se/	konst,kultur,stiftelse	
 1235853338	769632-7589	Smaka på Värmdö	https://www.smakapavarmdo.se/	försäljning	
-1235854005	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Hult skola
-1235854039	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Åker Skola
-1235854344	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Långsele skola
+1235854005	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Hult Skola
+1235854013	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Höreda Skola
+1235854039	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Åker Skola
+1235854047	802533-7786	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Östra Strö
+1235854179	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Dackeskolan
+1235854336	802533-7778	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Dalarna, Rönndalsskolan
+1235854344	802533-7778	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Dalarna, Långsele Skola
 1235854369	825002-9215	Archives For the Unexplained, AFU / Stiftelsen Arkivet för det Oförklarade	https://www.afu.se/	arkiv,stiftelse	
 1235854500	857200-3104	Stiftelsen Bräcke Diakoni	https://brackediakoni.se/	religion,stiftelse	
 1235855317	802531-2656	Mantorp Hästsportförening	https://www.mantorphastsportarena.se/	hästsport,ridskola,ridsport	
@@ -12926,6 +13002,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235943246	802427-8361	Prostatacancerföreningen i Uppsala län	https://prostatacancerforbundet.se/om-oss/patientforeningar/uppsala/prostatacancerforeningen-i-uppsala-lan/	anhörigorganisation,cancerförening,patientförening,prostatacancer	
 1235943659	690618-XXXX	Anna Redin Yoga / Anna Redin		yoga	
 1235944327	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Titanskolan
+1235944335	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Kungshögsskolan
 1235944384	802499-1377	SPF Seniorerna Vessigebro	https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-vessigebro/	pensionärsklubb	
 1235945977	894002-2323	Umeå Segelsällskap, USS	https://umss.se/gasthamnen/	gästhamn,segelklubb,segelsällskap	
 1235947031	889202-8633	Sundsvalls Konståkning	https://www.svenskalag.se/sundsvallskonstakning	idrottsförening,konståkningsklubb	Restaurangchansen
@@ -13004,7 +13081,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235978598	899100-0392	Mellanströms Idrottssällskap	https://www.mellanstrom.se/foreningar/mellanstroms-idrottssallskap/	idrottsförening	
 1235978747	716415-6171	Porsöbergets Parksamfällighetsförening	https://sites.google.com/site/bergetparksam/	samfällighetsförening	
 1235979901	864500-8510	Gingri Bygdegård	https://gingribygdegard.se/	bygdegårdsförening	
-1235980677	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Alströmergymnasiet, Gymnasiesärskolan
+1235980677	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Alströmergymnasiet Gymnasiesärskolan
 1235980693	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Samskolan
 1235981139	872800-2950	Edebäcks Bygdegårdsförening	https://edeback.se/	bygdegårdsförening	
 1235981147	802535-1506	Växjö Allmänna Idrottssällskap, VAIS	https://vaxjoaisbagskytte.klubbenonline.se/	bågskytteklubb,idrottsförening	Bågskyttesektionen
@@ -13510,6 +13587,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236192074	802476-1291	Borås Bouleallians	https://www.borasbouleallians.se/	bouleklubb,idrottsförening	
 1236192124	802490-2838	New Life for You	https://www.newlife4you.se/	hjälporganisation,religion	
 1236192181	817606-7646	SPF Seniorerna Trosa	https://www.spfseniorerna.se/distrikt/sormland/foreningslista/trosa/	pensionärsklubb	
+1236192306	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, T4 Montessori grundskola
 1236196133	556986-8614	Väsby Lås & Larm AB	https://vasbylas.se/	försäljning,larmsystem,säkerhetsutrustning	
 1236196901	887501-5094	Långvinds Kapellförening	https://langvind.com/partner/langvinds-kapellforening/	religion	
 1236197834	780106-XXXX	Ikon Events, Ikon Sweden / Kamal Deep Singh Sahni	http://ikonevents.se/	eventarrangör	
@@ -13527,6 +13605,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236207088	802532-1475	Stödföreningen för Svenska Kulturstiftelsen	https://www.svenskakulturstiftelsen.se/	stiftelse	
 1236208631	892600-3909	Vemdalens Alpina	https://www.svenskalag.se/vifalpina	alpinklubb,idrottsförening	
 1236209100	817601-5892	Alsike IF	https://www.laget.se/AlsikeIF/	fotbollsklubb,futsalklubb,idrottsförening	
+1236209134	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Ljungarumsskolan/Strömsholm
 1236210173	802449-9306	Sundsvall FBC	https://www.sundsvallfbc.se/	idrottsförening,innebandyklubb	F10/11
 1236210199	827500-7931	Sävsjöortens JVF	https://www.svenskalag.se/savsjojvf	jaktskytteklubb,jaktvårdsklubb,skytteklubb	
 1236210579	802497-2773	Y:ets Framtid Intresseförening	http://www.yetsframtid.com/	intresseförening	
@@ -13570,6 +13649,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236222061	826001-1708	Bankeryds Basket	https://www.laget.se/BankerydsBasket/	basketbollklubb,idrottsförening	
 1236222376	556230-8592	Carrier Transport AB	https://carrier.se/	fordonstransport,transporttjänst	
 1236222475	802445-5761	FC Hessleholm	https://www.fchessleholm.se/	fotbollsklubb,idrottsförening	Dam
+1236222913	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Fridaskolan Göteborg
 1236222939	888400-6126	Skogs Hembygdsförening	https://www.hembygd.se/skog	hembygdsförening	
 1236222970	559245-0190	Rent-A-Wreck Sollentuna / Aksilsson AB	https://www.rent-a-wreck-scandinavia.com/location/sverige/stockholmsollentuna/	uthyrning	
 1236223697	875003-6835	Kumla Bridgesällskap	https://www.svenskbridge.se/kumla-bs	bridgeklubb	
@@ -13603,8 +13683,10 @@ entry	orgNumber	orgName	web	categories	comment
 1236245765	802527-3858	Smålands Kaninhoppare	https://smalandskh.weebly.com/	intresseförening,kaninhoppning	
 1236245815	716407-8078	Varpen Samfällighetsförening	https://varpenssamfallighet.se/	samfällighetsförening	
 1236246003	802455-5644	Degerfors OK	https://degerforsok.klubbenonline.se/	idrottsförening,orienteringsklubb	
-1236246110	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Hammars skola
-1236246300	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Norrevångs förskola
+1236246110	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Hammars Skola
+1236246300	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Norrevångs Förskola
+1236246318	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Skanör/Falsterbo Montessoriskola
+1236246334	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Kvarngårdens Förskola
 1236246367	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Blästadsskolan
 1236246375	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, S:t Jörgens Skola
 1236246383	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Pilängskolan
@@ -13732,6 +13814,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236297303	832000-4339	Borgholms Båtklubb	https://www.borgholmsbatklubb.se/	båtklubb	
 1236297543	802493-5366	Delsbo Byaråd	https://www.delsbo.org/	byalag,byaråd	
 1236297766	818501-0447	SMC Södermanland	https://www.svmc.se/distrikt/sodermanland/	motorcykelklubb	
+1236297816	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Ribersborgsskolan
 1236298079	862500-9876	Råggärds Hembygdsförening	https://www.hembygd.se/raggard	hembygdsförening	
 1236298095	802440-4512	Latinamerika i Centrum, LatiCe	https://latice.org/	hjälporganisation	
 1236298319	897001-9090	Bredåkers Skoter- & Touring Förening, BSTF	https://www.bredaker-skoter.se/	skoterklubb,touringklubb	
@@ -14040,6 +14123,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236454623	872000-4103	Arvika Flygklubb	https://arvikaflygklubb.se/	flygklubb,sportflyg	Bränsle-köp
 1236454714	897000-5149	Klöverträsk Bygdegårdsförening	https://bygdegardarna.se/hitta-bygdegard/klovertrask/	bygdegårdsförening	
 1236454763	802443-5607	RPG Habo Mullsjö	https://www.rpg-smaland-oland.se/rpg-smaland-oland/extern/habo-mullsjo.htm	pensionärsklubb,religion	
+1236455166	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Bärnstenensförskola
 1236455182	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Österslövs Skola
 1236455190	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Jutarumsskolan
 1236455430	865000-0725	Håcksviks Hembygdsförening	https://www.hembygd.se/hacksvik	hembygdsförening	
@@ -14073,6 +14157,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236471619	817601-5835	SK Vide	https://www.skvide.se/	idrottsförening,innebandyklubb	Kings
 1236471635	802468-2489	Inner Wheel Club Sandviken	https://www.innerwheel.se/	innerwheel,kvinnligt nätverk	
 1236473797	802542-8775	Västerås Pickels HC	https://www.svenskalag.se/vasteraspickelshc	idrottsförening,ishockeyklubb	
+1236475081	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Hagalundskolan
 1236475099	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar län, Lindsdalsskolan
 1236475305	873201-7382	Hammarö fågelstation	https://hammarofagel.se/	fågelskådning,ornitologi	
 1236477079	802537-2791	Hjälp Holger Nu	https://helpholgernow.se/	anhörigorganisation,patientförening	
@@ -14081,6 +14166,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236479539	802466-5401	Uppsala Handbollsklubb	https://www.uppsalahk.se/	handbollsklubb,idrottsförening	P2010
 1236479745	802480-4885	Stiftelsen Ligula Foundation	https://ligula.foundation/	stiftelse	
 1236480487	836200-5319	Olofströms Ishockeyklubb	https://oik.se/	idrottsförening,ishockeyklubb	
+1236480602	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Linnerydskolan
 1236480636	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar län, Lindåsskolan
 1236480651	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Mörarps Förskola
 1236481220	802509-6259	Vännfors Byaförening	https://www.vannfors.se/byaforening/	byaförening,byalag,samhällsförening	
@@ -14102,6 +14188,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236489959	802542-8965	Munskänkarna	https://www.munskankarna.se/sv/regioner/sydostra/olofstrom/	vinprovning	Olofström
 1236489983	875000-8958	KFUM Örebro Basket	https://www.kfumorebrobasket.se/	basketbollklubb,idrottsförening	P-14
 1236490007	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Ekängens skolor
+1236490015	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Tvärskogsskolan
 1236490148	802443-7264	Slätafly Byalag	https://www.slatafly.se/	byalag	
 1236490445	802500-8064	PRO Kultur Örnsköldsvik	https://pro.se/distrikt/distrikt-angermanland/samorganisationer/samorganisation-ornskoldsviks/foreningar/kultur-ornskoldsvik.html	pensionärsklubb	
 1236490783	802521-7863	Lidköpings Kampsport IF	https://www.lidkopingskampsport.com/	hapkidoklubb,idrottsförening,kampsportsförening,taekwondoklubb	
@@ -14117,7 +14204,9 @@ entry	orgNumber	orgName	web	categories	comment
 1236496855	818000-4643	FUB Eskilstuna	https://www.fub.se/lokal/fub-eskilstuna/	funktionsnedsättning,funktionsvariation	
 1236496962	802473-0247	Slite Pistolskytteklubb	https://www.svenskalag.se/slitepistolskytteklubb	pistolskytteklubb,skytteklubb	
 1236496988	716406-9820	Bostadsrättsföreningen Djingis Khan i Lund	https://www.djingis.se/	bostadsrättsförening	
-1236497028	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Åryd skola
+1236497028	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Åryd Skola
+1236497036	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Hyllie Park grundskola
+1236497044	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Blåklintskolan
 1236497051	857205-4875	Ålleberg Cafe och Lunchrestaurang	https://www.allebergcafeorestaurang.se/	café,restaurant	
 1236497069	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Våxtorpsskolan
 1236497390	252003-7355	Torrskogs kyrka	https://www.svenskakyrkan.se/bengtsfors	religion	
@@ -14278,6 +14367,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236554612	817605-6417	SPF Seniorerna Vaksala-Almtuna	https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/vaksala/	pensionärsklubb	
 1236555502	956940-6243	VSK Vännerna	https://vskbandy.se/vsk-vannerna/	supporterklubb	
 1236555510	802528-9714	Tjörnjazz	https://tjornjazz.se.builder.hemsida24.se/	jazzclub,kulturförening	
+1236555908	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Talavidskolan
 1236555916	802463-5164	Lunds skateboard- och konstförening	https://www.svenskalag.se/lunds-skateboard-och-konstforening	konstförening,skateboardklubb	
 1236555924	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Västerhedsskolan
 1236555999	802431-3077	Rastaborgs Ridklubb	https://www.rark.se/	hästsport,ridklubb	
@@ -14657,6 +14747,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236734693	802002-9180	Sannadals Sportklubb	https://sannadal.com/	handbollsklubb,idrottsförening	
 1236734735	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Lysviks Skola
 1236734768	817001-4198	Enköpings SK UK	https://www.laget.se/ESKFotboll/	fotbollsklubb,idrottsförening	Dam J
+1236734958	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Skaraborg, Rydskolan
 1236734990	802533-7869	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Stockholm, Danmarks Skola
 1236735062	826000-0784	Pingst Jönköping	https://pingstjonkoping.se/	religion	Singoalla
 1236736003	252004-1514	Västra Vikbolandets Församling	https://www.svenskakyrkan.se/vastravikbolandet	religion	ACT
@@ -14789,6 +14880,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236783591	802497-6717	Rotary Helsingborg-Landborgen	https://helsingborg-landborgen.rotary2395.se/	rotaryklubb	
 1236783914	847000-0988	Trelleborgs Missionsförsamling	https://www.equmeniakyrkantrelleborg.se/	religion	
 1236784110	843000-4872	Väsby FK	https://www.svenskalag.se/vasbyfk	fotbollsklubb,idrottsförening	
+1236784433	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Nanny Palmkvist Skola
 1236784441	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Bäckagårdsskolan
 1236784490	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Örtagårdens Skola
 1236784573	012385-6619	Lindesbergs Fotoklubb	https://www.lindesbergsfotoklubb.se/	fotoförening,fotoklubb	
@@ -14920,6 +15012,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236839047	802456-6690	Nybro Simklubb	https://nybrosimklubb.se/	idrottsförening,simklubb,simsällskap	
 1236839526	828001-1191	Bratteborgs Ryttarsällskap	https://bratteborgsrs.se/	hästsport,ryttarsällskap	
 1236839880	897600-5101	Båtklubben Bothnia	https://www.bkbothnia.se/	båtklubb,båtsällskap	
+1236840342	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, ABC All About Children
 1236840490	559243-8625	Hundvis Dagis & Skola / Yvonne Fång AB	https://www.hundvis.se/	hunddagis,hundskola,kurser,utbildning	
 1236840599	802495-0571	Avlidna Salakonstnärers Sällskap, ASS	https://salakonst.se/	konst,konstförening,konstsällskap	
 1236840896	829000-5688	Stiftelsen Skandinavisk Yoga och Meditationsskola	https://www.yoga.se/	meditation,skola,stiftelse,utbildning,yoga	
@@ -14973,6 +15066,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236877070	858500-7290	IK Rössö Uddevalla	https://www.laget.se/IKrosso/	fotbollsklubb,idrottsförening	Föreningen
 1236879662	816000-4167	Vallentuna MK	https://vallentunamk.klubbenonline.se/	bilsport,motorsport	
 1236879779	802534-5938	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Göteborg, Montessoriskolan Skäret
+1236879811	802533-3421	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Linköping, Ekkälleskolan
 1236879829	252002-7117	Strängnäs Domkyrkoförsamling med Aspö	https://www.svenskakyrkan.se/strangnas	religion	Stöd till barns utbildning och skolgång på landet i Egypten
 1236879860	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Dibbern Fyrklöverns Skola
 1236879894	864000-8655	Ingareds byalag	https://www.ingaredsbyalag.se/	byalag	
@@ -15016,8 +15110,11 @@ entry	orgNumber	orgName	web	categories	comment
 1236896708	802521-6279	Alltid Sedd	https://www.alltidsedd.se/	kvinnojour	
 1236896740	556509-7341	Däckgubben / Transport & Lager Eskilstuna Aktiebolag	https://www.dackgubben.net/	fordonsutrustning,försäljning,förvaring	
 1236897227	887000-0224	Järvsö IK	https://www.svenskalag.se/jarvsoik	idrottsförening,ishockeyklubb	
+1236898001	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Östra Skolan
 1236898167	802445-4566	Österlens Hästvänner	https://ohv.swb.org/	hästsport,ridklubb	
-1236898225	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Högstorps skola
+1236898217	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Svanetorpsskolan
+1236898225	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Högstorps Skola
+1236898266	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Malmö, Västra Alstad Skola
 1236899017	842000-5772	Södra Bilsportförbundet	https://www.sbf.se/distrikt/sodra-bilsportforbundet	bilsport,utbildning	
 1236899124	802440-0171	Udddevalla Sim	https://www.uddevallasim.se/	idrottsförening,simklubb,simsällskap	
 1236899306	802415-0966	Barkarö SK	https://www.laget.se/BarkaroSK	fotbollsklubb,idrottsförening,innebandyklubb	
