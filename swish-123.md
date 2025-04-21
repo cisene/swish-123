@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-20-rev-202004
+Revision: 2025-04-21-rev-171508
 
 Nummer: 15787
 
@@ -1777,7 +1777,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Alvesta Församling**
 
-    123 023 03 75 - Alvesta kyrka
+    123 023 03 75 - Alvesta Kyrka
 
     123 170 66 39 - Skogskyrkan
 
@@ -1785,9 +1785,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 275 38 46 - Diakoni
 
-    123 371 84 42 - Lekaryds kyrka
+    123 371 84 42 - Lekaryds Kyrka
 
-    123 465 71 10 - Härlövs kyrka
+    123 465 71 10 - Härlövs Kyrka
 
     123 641 66 22 - Församlingshemmet
 
@@ -2468,7 +2468,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Apelvikshöjds kyrka**
+**Apelvikshöjds Kyrka**
 
     123 355 82 10 - Kollekt
 
@@ -2677,7 +2677,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 601 09 95 - Dagens kollekt
 
-    123 671 26 40 - Svenska kyrkans internationella arbete
+    123 671 26 40 - Svenska Kyrkans internationella arbete
 
 
 
@@ -3158,11 +3158,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 356 82 19 - Kollekt Mikaelskyrkan
 
-    123 442 43 62 - Kollekt Askims kyrka
+    123 442 43 62 - Kollekt Askims Kyrka
 
     123 589 40 27 - Kollekt
 
-    123 669 55 22 - Kollekt Billdals kyrka
+    123 669 55 22 - Kollekt Billdals Kyrka
 
 
 
@@ -4682,13 +4682,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Bergsjö Församling**
 
-    123 092 49 93 - Hassela kyrka
+    123 092 49 93 - Hassela Kyrka
 
-    123 259 25 58 - Bergsjö kyrka
+    123 259 25 58 - Bergsjö Kyrka
 
     123 263 30 97
 
-    123 676 69 92 - Ilsbo kyrka
+    123 676 69 92 - Ilsbo Kyrka
 
 
 
@@ -5473,11 +5473,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Björketorps Församling**
 
-    123 226 87 20 - Kollekt Björketorps kyrka
+    123 226 87 20 - Kollekt Björketorps Kyrka
 
     123 326 16 09
 
-    123 544 38 66 - Kollekt Hindås kyrka
+    123 544 38 66 - Kollekt Hindås Kyrka
 
 
 
@@ -6436,6 +6436,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bohuslän Dals Ishockeyförbund**
 
     123 679 43 58 - P09
+
+
+
+
+**Bohuslän-Dals Pastorat**
+
+    123 678 90 36 - Stigens Kyrka
 
 
 
@@ -9824,15 +9831,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Brännkyrka Församling**
 
-    123 120 41 14 - Söndagens kollekt Brännkyrka kyrka
+    123 120 41 14 - Söndagens kollekt Brännkyrka Kyrka
 
     123 161 02 86 - Onsdagens kollekt Vårfrukyrkan
 
     123 237 10 45 - Söndagens kollekt Vårfrukyrkan
 
-    123 327 50 39 - Dopkollekt Brännkyrka kyrka
+    123 327 50 39 - Dopkollekt Brännkyrka Kyrka
 
-    123 452 22 07 - Konsertkollekt Brännkyrka kyrka
+    123 452 22 07 - Konsertkollekt Brännkyrka Kyrka
 
     123 464 35 65 - Församlingens diakoni
 
@@ -14336,7 +14343,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Dörby-Hossmo Pastorat**
 
-    123 123 75 36 - Act Svenska kyrkan
+    123 123 75 36 - Act Svenska Kyrkan
 
 
 
@@ -14543,13 +14550,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 130 40 96 - Lersjöns kapell
 
-    123 157 33 02 - Åmotfors kyrka
+    123 157 33 02 - Åmotfors Kyrka
 
-    123 221 37 91 - Järnskogs kyrka
+    123 221 37 91 - Järnskogs Kyrka
 
-    123 516 69 05 - Skillilngarks kyrka
+    123 516 69 05 - Skillilngarks Kyrka
 
-    123 644 23 96 - Köla kyrka
+    123 644 23 96 - Köla Kyrka
 
 
 
@@ -17288,7 +17295,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 069 53 20 - Sopplunch Flyinge
 
-    123 216 08 51 - Act Svenska kyrkan
+    123 216 08 51 - Act Svenska Kyrkan
 
     123 551 51 27 - Kollekt Östra Onsjö församling
 
@@ -17375,23 +17382,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 130 32 05 - Café Crossroad
 
-    123 207 40 03 - Kollekt Fåglums kyrka
+    123 207 40 03 - Kollekt Fåglums Kyrka
 
-    123 221 29 67 - Kollekt Främmestads kyrka
+    123 221 29 67 - Kollekt Främmestads Kyrka
 
-    123 232 55 12 - Kollekt Barne-Åsaka kyrka
+    123 232 55 12 - Kollekt Barne-Åsaka Kyrka
 
     123 287 05 58 - Övrigt
 
-    123 370 58 29 - Kollekt Bärebergs kyrka
+    123 370 58 29 - Kollekt Bärebergs Kyrka
 
-    123 386 42 20 - Kollekt Lekåsa kyrka
+    123 386 42 20 - Kollekt Lekåsa Kyrka
 
-    123 442 55 75 - Kollekt Kyrkås kyrka
+    123 442 55 75 - Kollekt Kyrkås Kyrka
 
     123 511 72 88 - Ungdomsgruppen
 
-    123 626 71 16 - Kollekt Nossebro kyrka
+    123 626 71 16 - Kollekt Nossebro Kyrka
 
 
 
@@ -20000,7 +20007,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Fresta Församling**
 
-    123 461 08 95 - Act Svenska kyrkan
+    123 461 08 95 - Act Svenska Kyrkan
 
     123 552 87 40 - Gåvor
 
@@ -20899,11 +20906,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 096 05 34 - Fairtrade/bokbord
 
-    123 214 84 76 - Kollekt Norderö kyrka
+    123 214 84 76 - Kollekt Norderö Kyrka
 
-    123 468 93 37 - Kollekt Frösö kyrka
+    123 468 93 37 - Kollekt Frösö Kyrka
 
-    123 693 02 75 - Kollekt Sunne kyrka
+    123 693 02 75 - Kollekt Sunne Kyrka
 
 
 
@@ -24290,49 +24297,49 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Gislaveds Pastorat**
 
-    123 030 42 04 - Kollekt Sandviks kyrka
+    123 030 42 04 - Kollekt Sandviks Kyrka
 
-    123 047 24 07 - Kollekt Smålandsstenars kyrka
+    123 047 24 07 - Kollekt Smålandsstenars Kyrka
 
     123 047 24 23 - Övrigt
 
     123 105 91 46 - Övrigt
 
-    123 149 89 06 - Kollekt Valdshults kyrka
+    123 149 89 06 - Kollekt Valdshults Kyrka
 
     123 155 44 43 - Övrigt
 
-    123 162 67 87 - Kollekt Ås kyrka
+    123 162 67 87 - Kollekt Ås Kyrka
 
-    123 232 85 16 - Kollekt Södra Hestras kyrka
+    123 232 85 16 - Kollekt Södra Hestras Kyrka
 
-    123 237 13 00 - Kollekt Båraryds kyrka
+    123 237 13 00 - Kollekt Båraryds Kyrka
 
     123 238 37 50 - Kollekt Gyllenfors kapell
 
     123 263 66 86 - Kollekt Gryteryds Kyrka
 
-    123 336 50 38 - Kollekt Kållerstads kyrka
+    123 336 50 38 - Kollekt Kållerstads Kyrka
 
-    123 370 09 52 - Kollekt Villstads kyrka
+    123 370 09 52 - Kollekt Villstads Kyrka
 
-    123 418 01 54 - Kollekt Öreryds kyrka
+    123 418 01 54 - Kollekt Öreryds Kyrka
 
     123 463 02 65 - Övrigt
 
-    123 494 65 05 - Kollekt Våthults kyrka
+    123 494 65 05 - Kollekt Våthults Kyrka
 
     123 494 65 13 - Övrigt
 
-    123 526 40 72 - Kollekt Stengårdshults kyrka
+    123 526 40 72 - Kollekt Stengårdshults Kyrka
 
     123 526 40 80 - Övrigt
 
-    123 539 33 01 - Kollekt Norra Hestra kyrka
+    123 539 33 01 - Kollekt Norra Hestra Kyrka
 
-    123 551 79 25 - Kollekt Gislaveds kyrka
+    123 551 79 25 - Kollekt Gislaveds Kyrka
 
-    123 626 23 64 - Kollekt Reftele kyrka
+    123 626 23 64 - Kollekt Reftele Kyrka
 
 
 
@@ -24959,7 +24966,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Gottsunda Församling**
 
-    123 081 07 54 - Kollekt Sunnersta kyrka
+    123 081 07 54 - Kollekt Sunnersta Kyrka
 
 
 
@@ -26248,13 +26255,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Gävle Församling**
 
-    123 044 20 46 - Strömsbro kyrka kollekt
+    123 044 20 46 - Strömsbro Kyrka kollekt
 
     123 167 02 23 - Annan plats
 
     123 217 90 75 - Böna Kapell
 
-    123 251 26 06 - Staffans kyrka kollekt
+    123 251 26 06 - Staffans Kyrka kollekt
 
     123 299 93 57 - Björsjökyrkan Kollekt
 
@@ -26264,11 +26271,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 382 01 72 - Mariakyrkan kollekt
 
-    123 407 92 65 - Hemlingby kyrka kollekt
+    123 407 92 65 - Hemlingby Kyrka kollekt
 
-    123 524 07 18 - Heliga Trefaldighets kyrka kollekt
+    123 524 07 18 - Heliga Trefaldighets Kyrka kollekt
 
-    123 659 05 66 - Bomhus kyrka kollekt
+    123 659 05 66 - Bomhus Kyrka kollekt
 
 
 
@@ -27003,7 +27010,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 643 35 02 - Gustav Adolfs Blomsterfond
 
-    123 655 45 05 - Norra Råda kyrkas blomsterfond
+    123 655 45 05 - Norra Råda Kyrkas blomsterfond
 
 
 
@@ -27295,9 +27302,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Halmstads Församling**
 
-    123 117 63 87 - Act Svenska kyrkan
+    123 117 63 87 - Act Svenska Kyrkan
 
-    123 312 34 86 - Act Svenska kyrkan
+    123 312 34 86 - Act Svenska Kyrkan
 
 
 
@@ -28754,7 +28761,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 096 01 46 - Kollekt Raus församling
 
-    123 370 08 87 - Act svenska kyrkan
+    123 370 08 87 - Act svenska Kyrkan
 
     123 378 56 07 - Projekt Hutano
 
@@ -29782,9 +29789,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Holmsunds Församling**
 
-    123 268 20 29 - Kollekt Obbola kyrka
+    123 268 20 29 - Kollekt Obbola Kyrka
 
-    123 287 03 76 - Kollekt Holmsunds kyrka
+    123 287 03 76 - Kollekt Holmsunds Kyrka
 
 
 
@@ -30685,11 +30692,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 096 10 29 - Övrigt Huskvarna församling
 
-    123 137 59 55 - Kollekt Hakarps kyrka
+    123 137 59 55 - Kollekt Hakarps Kyrka
 
     123 276 54 93 - Övrigt Hakarps församling
 
-    123 465 30 93 - Kollekt Huskvarna kyrka
+    123 465 30 93 - Kollekt Huskvarna Kyrka
 
     123 607 19 89 - Övrigt Öxnehagakyrkan
 
@@ -31242,7 +31249,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 180 84 84 - Domkyrkoförsamlingen
 
-    123 192 58 90 - Act Svenska kyrkan
+    123 192 58 90 - Act Svenska Kyrkan
 
     123 198 95 32 - Musik
 
@@ -31307,7 +31314,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Hässelby Villastads kyrka**
+**Hässelby Villastads Kyrka**
 
     123 236 19 47 - Aktiviteter
 
@@ -31534,15 +31541,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Håbo Pastorat**
 
-    123 032 12 65 - Övergrans kyrka
+    123 032 12 65 - Övergrans Kyrka
 
-    123 137 07 90 - Kalmar kyrka
+    123 137 07 90 - Kalmar Kyrka
 
-    123 218 42 16 - Skoklosters kyrka
+    123 218 42 16 - Skoklosters Kyrka
 
     123 351 40 80 - Magdalenakyrkan
 
-    123 454 90 28 - Yttergrans kyrka
+    123 454 90 28 - Yttergrans Kyrka
 
 
 
@@ -31674,7 +31681,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 120 45 77 - Kollekt
 
-    123 267 06 93 - Act Svenska kyrkan
+    123 267 06 93 - Act Svenska Kyrkan
 
     123 286 20 92 - Kollekt
 
@@ -32260,15 +32267,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 043 86 30
 
-    123 199 38 98 - Kollekt Norra Rörum kyrka
+    123 199 38 98 - Kollekt Norra Rörum Kyrka
 
-    123 467 69 46 - Kollekt Tjörnarp kyrka
+    123 467 69 46 - Kollekt Tjörnarp Kyrka
 
-    123 551 07 48 - Kollekt Munkarp kyrka
+    123 551 07 48 - Kollekt Munkarp Kyrka
 
-    123 682 65 49 - Kollekt Höörs kyrka
+    123 682 65 49 - Kollekt Höörs Kyrka
 
-    123 699 12 51 - Kollekt Hallaröd kyrka
+    123 699 12 51 - Kollekt Hallaröd Kyrka
 
 
 
@@ -35743,13 +35750,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Istorps Pastorat**
 
-    123 033 88 63 - Kollekt Öxnevalla kyrka
+    123 033 88 63 - Kollekt Öxnevalla Kyrka
 
     123 112 14 90 - Donationer & Gåvor
 
-    123 526 57 64 - Kollekt Horreds kyrka
+    123 526 57 64 - Kollekt Horreds Kyrka
 
-    123 664 46 86 - Kollekt Istorps kyrka
+    123 664 46 86 - Kollekt Istorps Kyrka
 
 
 
@@ -37759,15 +37766,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Karlsborgs Pastorat**
 
-    123 069 68 72 - Kollekt Breviks kyrka
+    123 069 68 72 - Kollekt Breviks Kyrka
 
-    123 263 10 26 - Kollekt Forsviks kyrka
+    123 263 10 26 - Kollekt Forsviks Kyrka
 
     123 331 18 42 - Kollekt Skaga stavkyrka
 
-    123 345 02 51 - Kollekt Undenäs kyrka
+    123 345 02 51 - Kollekt Undenäs Kyrka
 
-    123 483 27 88 - Kollekt Mölltorps kyrka
+    123 483 27 88 - Kollekt Mölltorps Kyrka
 
     123 515 03 13 - Kollekt Garnisonskyrkan
 
@@ -40930,7 +40937,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 465 31 76 - Gåvor pastoratets diakoniarbete
 
-    123 467 66 98 - Gåvor Act Svenska kyrkan
+    123 467 66 98 - Gåvor Act Svenska Kyrkan
 
     123 476 06 66 - Gåvor EFS internationella mission
 
@@ -40938,7 +40945,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 512 87 23 - Dagens kollekt Heliga Trefaldighet
 
-    123 699 18 63 - Gåvor Svenska kyrkan i Kristianstad
+    123 699 18 63 - Gåvor Svenska Kyrkan i Kristianstad
 
 
 
@@ -41591,7 +41598,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 199 54 55 - Kollekt Ekeby
 
-    123 595 93 33 - Act Svenska kyrkan
+    123 595 93 33 - Act Svenska Kyrkan
 
     123 695 60 15 - Kollekt Kumla
 
@@ -41609,7 +41616,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Kumla Tärna Kila Pastorat**
 
-    123 633 08 98 - Act Svenska kyrkan
+    123 633 08 98 - Act Svenska Kyrkan
 
 
 
@@ -43476,7 +43483,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Laxarby och Vårviks kyrka**
+**Laxarby och Vårviks Kyrka**
 
     123 061 03 03
 
@@ -44646,15 +44653,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Linde bergslags Församling**
 
-    123 149 79 81 - Kollekt Ramsbergs kyrka
+    123 149 79 81 - Kollekt Ramsbergs Kyrka
 
-    123 244 02 46 - Kollekt Vedevågs kyrka
+    123 244 02 46 - Kollekt Vedevågs Kyrka
 
-    123 336 44 29 - Kollekt Lindesbergs kyrka
+    123 336 44 29 - Kollekt Lindesbergs Kyrka
 
     123 366 33 17 - Sociala Stiftelsen
 
-    123 422 74 35 - Kollekt Guldsmedshyttans kyrka
+    123 422 74 35 - Kollekt Guldsmedshyttans Kyrka
 
 
 
@@ -44921,13 +44928,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Linköpings Domkyrkopastorat**
 
-    123 149 82 86 - Kollekt S:t Hans kyrka
+    123 149 82 86 - Kollekt S:t Hans Kyrka
 
     123 174 24 44 - Kollekt
 
     123 188 19 11 - Övrig gåva
 
-    123 281 66 27 - Kollekt Landeryds kyrka
+    123 281 66 27 - Kollekt Landeryds Kyrka
 
     123 325 88 52
 
@@ -44935,7 +44942,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 668 97 31 - Insamlingar
 
-    123 688 82 26 - Act Svenska kyrkan
+    123 688 82 26 - Act Svenska Kyrkan
 
 
 
@@ -46513,7 +46520,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Ludvika Församling**
 
-    123 319 87 77 - Kollekt Ulrika kyrka
+    123 319 87 77 - Kollekt Ulrika Kyrka
 
     123 527 66 47 - Kollekt Lillkyrkan
 
@@ -47212,7 +47219,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 214 15 62 - Café XP
 
-    123 262 04 17 - Act Svenska kyrkan
+    123 262 04 17 - Act Svenska Kyrkan
 
     123 498 90 75 - Musikverksamheten Skaftö
 
@@ -47580,9 +47587,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Löftadalens Pastorat**
 
-    123 651 17 78 - Landa kyrkas bokbord
+    123 651 17 78 - Landa Kyrkas bokbord
 
-    123 691 60 19 - S:t Lars kyrka
+    123 691 60 19 - S:t Lars Kyrka
 
 
 
@@ -48159,25 +48166,25 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Malmö Pastorat**
 
-    123 017 20 72 - Kollekt S:t Mikaels kyrka
+    123 017 20 72 - Kollekt S:t Mikaels Kyrka
 
-    123 067 01 17 - Kollekt Husie kyrka och församlingshem
+    123 067 01 17 - Kollekt Husie Kyrka och församlingshem
 
-    123 080 47 73 - Kollekt S:t Pauli kyrka
+    123 080 47 73 - Kollekt S:t Pauli Kyrka
 
-    123 199 59 01 - Kollekt S:t Matteus kyrka
+    123 199 59 01 - Kollekt S:t Matteus Kyrka
 
-    123 238 99 89 - Kollekt S:t Andreas kyrka
+    123 238 99 89 - Kollekt S:t Andreas Kyrka
 
-    123 271 17 29 - Kollekt Hyllie kyrka
+    123 271 17 29 - Kollekt Hyllie Kyrka
 
-    123 336 72 24 - Kollekt Västra Skrävlinge kyrka
+    123 336 72 24 - Kollekt Västra Skrävlinge Kyrka
 
-    123 377 02 03 - Kollekt Tygelsjö kyrka
+    123 377 02 03 - Kollekt Tygelsjö Kyrka
 
-    123 419 72 16 - Kollekt Oxie kyrka
+    123 419 72 16 - Kollekt Oxie Kyrka
 
-    123 466 58 24 - Kollekt Limhamns kyrka
+    123 466 58 24 - Kollekt Limhamns Kyrka
 
     123 512 69 09 - Kollekt Heliga trefaldighetskyrkan
 
@@ -48185,11 +48192,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 609 77 78 - Kollekt Bunkeflo strandkyrka
 
-    123 611 14 70 - Kollekt S:t Johannes kyrka
+    123 611 14 70 - Kollekt S:t Johannes Kyrka
 
-    123 614 35 07 - Kollekt Fosie kyrka
+    123 614 35 07 - Kollekt Fosie Kyrka
 
-    123 694 16 78 - Kollekt S:t Petri kyrka
+    123 694 16 78 - Kollekt S:t Petri Kyrka
 
 
 
@@ -48586,7 +48593,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Mariestads Församling**
 
-    123 100 88 95 - ACT Svenska kyrkan
+    123 100 88 95 - ACT Svenska Kyrkan
 
     123 105 16 97 - Kollekt
 
@@ -49292,13 +49299,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 205 21 81
 
-    123 305 29 90 - Kollekt Erikstads kyrka
+    123 305 29 90 - Kollekt Erikstads Kyrka
 
     123 478 48 07
 
-    123 612 39 47 - Kollekt Örs kyrka
+    123 612 39 47 - Kollekt Örs Kyrka
 
-    123 614 70 86 - Kollekt Skålleruds kyrka
+    123 614 70 86 - Kollekt Skålleruds Kyrka
 
     123 650 03 67 - Kollekt
 
@@ -51147,35 +51154,35 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 000 76 25 - Övrigt Arlanda kapell
 
-    123 005 40 23 - Kollekt Husby-Ärlinghundra kyrka
+    123 005 40 23 - Kollekt Husby-Ärlinghundra Kyrka
 
     123 007 83 86 - Övrigt Valsta församlingshem
 
-    123 019 08 76 - Kollekt Skepptuna kyrka
+    123 019 08 76 - Kollekt Skepptuna Kyrka
 
     123 079 56 17 - Övrigt Märsta församlingshem
 
-    123 226 79 79 - Kollekt Vidbo kyrka
+    123 226 79 79 - Kollekt Vidbo Kyrka
 
     123 259 14 69 - Övrigt Rosersbergs Församlingsgård
 
     123 269 66 98 - Övrigt Skepptuna församling
 
-    123 287 60 92 - Kollekt Norrsunda kyrka
+    123 287 60 92 - Kollekt Norrsunda Kyrka
 
     123 353 71 98 - ACT Märsta Pastorat
 
-    123 389 90 85 - Kollekt Lunda kyrka
+    123 389 90 85 - Kollekt Lunda Kyrka
 
-    123 421 10 58 - Kollekt Märsta kyrka
+    123 421 10 58 - Kollekt Märsta Kyrka
 
-    123 427 26 96 - Kollekt Skånela kyrka
+    123 427 26 96 - Kollekt Skånela Kyrka
 
-    123 653 53 30 - Kollekt Odensala kyrka
+    123 653 53 30 - Kollekt Odensala Kyrka
 
     123 691 57 14 - Kollekt Rosersbergs församlingsgård
 
-    123 694 17 10 - Kollekt Valsta kyrka
+    123 694 17 10 - Kollekt Valsta Kyrka
 
 
 
@@ -53120,11 +53127,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 222 10 67
 
-    123 229 00 21 - Act Svenska kyrkan
+    123 229 00 21 - Act Svenska Kyrkan
 
     123 336 67 62 - Kollekt
 
-    123 365 11 71 - SKUT, Svenska kyrkan i Utlandet
+    123 365 11 71 - SKUT, Svenska Kyrkan i Utlandet
 
     123 427 25 14 - Serveringsavgift
 
@@ -54046,17 +54053,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 056 05 81 - Gåva
 
-    123 063 45 43 - Kollekt Hjällbo kyrka
+    123 063 45 43 - Kollekt Hjällbo Kyrka
 
-    123 104 25 97 - Kollekt Angereds kyrka och Bergums kyrka
+    123 104 25 97 - Kollekt Angereds Kyrka och Bergums Kyrka
 
-    123 211 13 42 - Kollekt Nylöse kyrka och Utby kyrka
+    123 211 13 42 - Kollekt Nylöse Kyrka och Utby Kyrka
 
-    123 313 21 56 - Kollekt Gunnareds kyrka
+    123 313 21 56 - Kollekt Gunnareds Kyrka
 
     123 456 69 72 - Kollekt Allhelgonakyrkan i Kortedala
 
-    123 675 19 86 - Kollekt Bergsjöns kyrka
+    123 675 19 86 - Kollekt Bergsjöns Kyrka
 
 
 
@@ -55451,7 +55458,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 150 23 92 - Kyrkkaffe och gemenskapsluncher Torp
 
-    123 171 05 73 - Kollekt Flatö kyrka
+    123 171 05 73 - Kollekt Flatö Kyrka
 
     123 190 95 48 - Bokbord Myckleby församling
 
@@ -55461,13 +55468,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 275 99 42 - Kyrkkaffe och gemenskapsluncher Långelanda
 
-    123 369 00 05 - Kollekt Hälleviksstrands kyrka
+    123 369 00 05 - Kollekt Hälleviksstrands Kyrka
 
-    123 369 00 13 - Kollekt Mollösunds kyrka
+    123 369 00 13 - Kollekt Mollösunds Kyrka
 
-    123 376 34 48 - Kollekt Gullholmens kyrka
+    123 376 34 48 - Kollekt Gullholmens Kyrka
 
-    123 376 34 71 - Kollekt Käringöns kyrka
+    123 376 34 71 - Kollekt Käringöns Kyrka
 
     123 385 32 15 - Insamling Torp församling
 
@@ -55475,7 +55482,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 519 81 30 - Insamling Röra församling
 
-    123 604 30 95 - Renovering Hälleviksstrands kyrka
+    123 604 30 95 - Renovering Hälleviksstrands Kyrka
 
     123 607 46 78 - Insamling Myckleby församling
 
@@ -55507,7 +55514,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Osby Pastorat**
 
-    123 055 31 98 - Kollekt Osby kyrka
+    123 055 31 98 - Kollekt Osby Kyrka
 
     123 091 59 91 - Diakoni
 
@@ -55517,7 +55524,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 446 33 37 - Tillsammans Hjälps Vi Åt
 
-    123 477 95 18 - Kollekt Loshults kyrka
+    123 477 95 18 - Kollekt Loshults Kyrka
 
     123 481 80 35 - Kollekt Visseltofta
 
@@ -55991,9 +55998,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 422 68 74 - Barnverksamhet Partille församling
 
-    123 514 87 70 - Kollekt i Jonsereds kyrka
+    123 514 87 70 - Kollekt i Jonsereds Kyrka
 
-    123 597 82 59 - Kollekt i Partille kyrka
+    123 597 82 59 - Kollekt i Partille Kyrka
 
 
 
@@ -61309,13 +61316,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 048 47 58
 
-    123 475 75 30 - Rommele kyrka
+    123 475 75 30 - Rommele Kyrka
 
-    123 536 10 43 - Upphärads kyrka
+    123 536 10 43 - Upphärads Kyrka
 
     123 607 60 79 - Sopplunch, Bokbord, Fairtrade
 
-    123 683 41 21 - Fors kyrka
+    123 683 41 21 - Fors Kyrka
 
 
 
@@ -63730,7 +63737,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**S:t Petrus Syrisk Ortodoxa kyrkan i Sundbyberg**
+**S:t Petrus Syrisk Ortodoxa Kyrkan i Sundbyberg**
 
     123 147 35 29
 
@@ -63923,7 +63930,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Sala-Norrby-Möklinta Pastorat**
 
-    123 022 38 59 - Svenska kyrkans unga Sala
+    123 022 38 59 - Svenska Kyrkans unga Sala
 
     123 288 41 87 - Övrigt
 
@@ -66387,7 +66394,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 222 29 58 - Diakoni
 
-    123 231 45 40 - ACT Svenska kyrkan
+    123 231 45 40 - ACT Svenska Kyrkan
 
 
 
@@ -67867,7 +67874,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Släps kyrka**
+**Släps Kyrka**
 
     123 187 16 49 - Kollekt
 
@@ -68588,7 +68595,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Solbergs kyrka**
+**Solbergs Kyrka**
 
     123 211 64 73
 
@@ -68691,7 +68698,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 526 16 98 - Edsbergskyrkan
 
-    123 690 34 21 - Sollentuna kyrka
+    123 690 34 21 - Sollentuna Kyrka
 
 
 
@@ -68745,7 +68752,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Sollyckans kyrka**
+**Sollyckans Kyrka**
 
     123 576 03 43 - Kollekt
 
@@ -70888,11 +70895,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Spånga-Kista Församling**
 
-    123 036 93 89 - Kollekt Spånga kyrka
+    123 036 93 89 - Kollekt Spånga Kyrka
 
     123 467 39 68 - Övrigt, Gåvor
 
-    123 680 29 79 - Kollekt Kista kyrka
+    123 680 29 79 - Kollekt Kista Kyrka
 
 
 
@@ -72563,13 +72570,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Stigens kyrka / Bohuslän-Dals Pastorat**
-
-    123 678 90 36
-
-
-
-
 **Stigmännen - Karlshamns OK**
 
     123 678 47 63
@@ -73146,13 +73146,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Stora Tuna och Torsångs Pastorat**
 
-    123 056 42 37 - Kollekt Torsångs kyrka
+    123 056 42 37 - Kollekt Torsångs Kyrka
 
     123 074 21 71 - Kollekt Amsbergs kapell
 
     123 092 30 03 - Kollekt Hagakyrkan
 
-    123 179 29 44 - Kollekt Kvarnsvedens kyrka
+    123 179 29 44 - Kollekt Kvarnsvedens Kyrka
 
     123 245 43 04 - Internationella gruppens verksamhet
 
@@ -73162,7 +73162,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 422 88 96 - Bokbord
 
-    123 560 18 44 - Kollekt Stora Tuna kyrka
+    123 560 18 44 - Kollekt Stora Tuna Kyrka
 
     123 609 12 76 - Kollekt Väster Tuna kapell
 
@@ -73537,7 +73537,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 172 19 19 - Diakonernas hjälpkassa
 
-    123 339 63 55 - Svenska kyrkan i Utlandet
+    123 339 63 55 - Svenska Kyrkan i Utlandet
 
     123 354 76 76 - Musikverksamheten i församlingen
 
@@ -73545,7 +73545,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 511 19 27 - Dagens kollekt
 
-    123 552 70 56 - Act Svenska kyrkan
+    123 552 70 56 - Act Svenska Kyrkan
 
     123 615 11 12 - Ljusbäraren i domkyrkan
 
@@ -75841,7 +75841,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska kyrkan i Tidaholm**
+**Svenska Kyrkan i Tidaholm**
 
     123 526 27 95
 
@@ -75855,14 +75855,14 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska kyrkan Mölndal**
+**Svenska Kyrkan Mölndal**
 
     123 385 11 85 - HBE (Hopp för barn i Etiopien)
 
 
 
 
-**Svenska kyrkan på Orust**
+**Svenska Kyrkan på Orust**
 
     123 098 42 78 - Diakoni på Orust
 
@@ -75889,7 +75889,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska kyrkan Västerås**
+**Svenska Kyrkan Västerås**
 
     123 240 86 56 - Café Malin
 
@@ -78519,7 +78519,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 480 97 45 - Kollekt i Ansgarskyrkan
 
-    123 514 87 62 - Kollekt i Sävedalens kyrka
+    123 514 87 62 - Kollekt i Sävedalens Kyrka
 
 
 
@@ -78776,23 +78776,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 150 83 65 - Gåvor
 
-    123 219 30 27 - Drothems kyrka
+    123 219 30 27 - Drothems Kyrka
 
-    123 275 33 66 - Mogata kyrka
+    123 275 33 66 - Mogata Kyrka
 
-    123 321 76 27 - Skönberga kyrka
+    123 321 76 27 - Skönberga Kyrka
 
     123 343 01 39 - Diakoni
 
-    123 389 88 55 - S:t Anna stora kyrka
+    123 389 88 55 - S:t Anna stora Kyrka
 
-    123 395 59 45 - S:t Anna gamla kyrka
+    123 395 59 45 - S:t Anna gamla Kyrka
 
-    123 402 91 87 - Börrums kyrka
+    123 402 91 87 - Börrums Kyrka
 
-    123 418 11 11 - Skällviks kyrka
+    123 418 11 11 - Skällviks Kyrka
 
-    123 494 57 62 - S:t Laurentii kyrka
+    123 494 57 62 - S:t Laurentii Kyrka
 
 
 
@@ -79287,45 +79287,45 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Södra Ölands Pastorat**
 
-    123 004 10 79 - Resmo kyrka
+    123 004 10 79 - Resmo Kyrka
 
-    123 019 29 63 - Ventlinge kyrka
+    123 019 29 63 - Ventlinge Kyrka
 
-    123 019 29 71 - Glömminge kyrka
+    123 019 29 71 - Glömminge Kyrka
 
     123 031 09 04 - Barnverksamhet i Nådens kapell
 
-    123 055 00 61 - Algutsrums kyrka
+    123 055 00 61 - Algutsrums Kyrka
 
-    123 055 00 95 - Gräsgårds kyrka
+    123 055 00 95 - Gräsgårds Kyrka
 
-    123 148 52 67 - Stenåsa kyrka
+    123 148 52 67 - Stenåsa Kyrka
 
-    123 148 52 75 - Vickleby kyrka
+    123 148 52 75 - Vickleby Kyrka
 
     123 155 66 61 - Bokbordet
 
-    123 162 89 08 - Mörbylånga kyrka
+    123 162 89 08 - Mörbylånga Kyrka
 
-    123 244 01 70 - Södra Möckleby kyrka
+    123 244 01 70 - Södra Möckleby Kyrka
 
-    123 326 27 55 - Segerstads kyrka
+    123 326 27 55 - Segerstads Kyrka
 
-    123 363 14 21 - Gårdby kyrka
+    123 363 14 21 - Gårdby Kyrka
 
-    123 379 66 87 - Kastlösa kyrka
+    123 379 66 87 - Kastlösa Kyrka
 
-    123 388 52 09 - Smedby kyrka
+    123 388 52 09 - Smedby Kyrka
 
-    123 412 09 03 - Sandby kyrka
+    123 412 09 03 - Sandby Kyrka
 
-    123 420 22 06 - Torslunda kyrka
+    123 420 22 06 - Torslunda Kyrka
 
-    123 420 22 14 - Ås kyrka
+    123 420 22 14 - Ås Kyrka
 
-    123 458 45 04 - Norra Möckleby kyrka
+    123 458 45 04 - Norra Möckleby Kyrka
 
-    123 495 94 82 - Hulterstads kyrka
+    123 495 94 82 - Hulterstads Kyrka
 
 
 
@@ -80390,7 +80390,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 133 14 95 - Malmö, Svarteskolan
 
-    123 177 76 14 - Malmö, Hedeskoga skola
+    123 177 76 14 - Malmö, Hedeskoga Skola
 
     123 202 30 34 - Malmö, Backaskolan
 
@@ -80398,7 +80398,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 205 60 00 - Malmö, Kastanjeskolan
 
-    123 211 40 23 - Malmö, Sövestad skola
+    123 211 40 23 - Malmö, Sövestad Skola
 
     123 215 80 53 - Malmö, Bulltoftaskolan
 
@@ -80502,7 +80502,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 647 50 81 - Malmö, Hagalundskolan
 
-    123 649 70 36 - Malmö, Hyllie Park grundskola
+    123 649 70 36 - Malmö, Hyllie Park Grundskola
 
     123 650 07 14 - Malmö, Lindeborgsskolan
 
@@ -80521,7 +80521,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 190 60 49 - Linköping, Björkö friskola
 
-    123 228 22 59 - Linköping, Norra skolan
+    123 228 22 59 - Linköping, Norra Skolan
 
     123 252 09 55 - Linköping, Himnaskolan
 
@@ -80798,7 +80798,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Team Rynkeby**
 
-    123 045 39 28 - Stockholm, Igelsta skola
+    123 045 39 28 - Stockholm, Igelsta Skola
 
     123 066 40 94 - Stockholm, Lindbackens Skola
 
@@ -80814,19 +80814,19 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 088 07 65 - Stockholm, Solstiftesskolan
 
-    123 116 29 73 - Stockholm, Mälarhöjdens skola
+    123 116 29 73 - Stockholm, Mälarhöjdens Skola
 
     123 171 88 32 - Stockholm, Borgvallaskolan
 
     123 180 80 47 - Stockholm, Kvarnbackaskolan
 
-    123 191 77 23 - Stockholm, Fryshuset grundskola
+    123 191 77 23 - Stockholm, Fryshuset Grundskola
 
     123 192 54 52 - Stockholm, Vittra Södermalm
 
-    123 211 40 98 - Stockholm, Ektorps skola
+    123 211 40 98 - Stockholm, Ektorps Skola
 
-    123 216 65 85 - Stockholm, Stimmets skola
+    123 216 65 85 - Stockholm, Stimmets Skola
 
     123 218 75 73 - Täby, Östervåla Skola
 
@@ -80856,7 +80856,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 360 64 31 - Stockholm, Storvretsskolan
 
-    123 384 06 67 - Stockholm, Kungsholmens grundskola
+    123 384 06 67 - Stockholm, Kungsholmens Grundskola
 
     123 399 84 57 - Stockholm, Vittra Vallentuna
 
@@ -81048,13 +81048,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 080 71 49 - Göteborg, Montessoriskolan Casa
 
-    123 171 88 65 - Göteborg, Hålta skola
+    123 171 88 65 - Göteborg, Hålta Skola
 
     123 201 30 43 - Göteborg, Frejaskolan
 
     123 203 91 70 - Göteborg, Björkrisskolan Kungsbacka
 
-    123 203 91 88 - Göteborg, Särö skola
+    123 203 91 88 - Göteborg, Särö Skola
 
     123 209 92 81 - Göteborg, Kullaviksskolan
 
@@ -81167,7 +81167,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 209 90 75 - Kalmar, Ramdalaskola
 
-    123 211 40 31 - Kalmar län, Skytteanska skolan
+    123 211 40 31 - Kalmar län, Skytteanska Skolan
 
     123 215 80 12 - Kalmar, Stånga Skola
 
@@ -81292,7 +81292,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 615 24 25 - Kristianstad
 
-    123 619 23 06 - Kristianstad, T4 Montessori grundskola
+    123 619 23 06 - Kristianstad, T4 Montessori Grundskola
 
     123 621 44 07 - Kristianstad, Västra Vrams Förskola
 
@@ -81790,7 +81790,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**THE ENGLISH SCHOOL GOTHENBURG**
+**The English School Gothenburg**
 
     123 611 15 61
 
@@ -82486,19 +82486,19 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Tjörns Pastorat**
 
-    123 030 49 31 - Klädesholmens kyrka
+    123 030 49 31 - Klädesholmens Kyrka
 
-    123 047 35 61 - Stenkyrka kyrka
+    123 047 35 61 - Stenkyrka Kyrka
 
-    123 223 93 41 - Klövedals kyrka
+    123 223 93 41 - Klövedals Kyrka
 
-    123 288 63 56 - Rönnängs kyrka
+    123 288 63 56 - Rönnängs Kyrka
 
-    123 355 88 30 - Valla kyrka
+    123 355 88 30 - Valla Kyrka
 
     123 396 99 46 - Åstols missionshus
 
-    123 525 24 99 - Skärhamns kyrka
+    123 525 24 99 - Skärhamns Kyrka
 
     123 664 27 48 - Diakonikassan
 
@@ -82644,15 +82644,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Tollarps Församling**
 
-    123 019 08 92 - Kollekt Västra Vrams kyrka
+    123 019 08 92 - Kollekt Västra Vrams Kyrka
 
-    123 161 15 08 - Kollekt Östra Vrams kyrka
+    123 161 15 08 - Kollekt Östra Vrams Kyrka
 
     123 273 69 24 - Ljuständning på grav
 
-    123 304 94 42 - Kollekt Linderöds kyrka
+    123 304 94 42 - Kollekt Linderöds Kyrka
 
-    123 419 71 09 - Kollekt Äsphults kyrka
+    123 419 71 09 - Kollekt Äsphults Kyrka
 
 
 
@@ -82891,7 +82891,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Torrskogs kyrka**
+**Torrskogs Kyrka**
 
     123 649 73 90
 
@@ -82935,28 +82935,28 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Torsby Pastorat**
 
-    123 664 25 32 - Kollekt Marstrands kyrka
+    123 664 25 32 - Kollekt Marstrands Kyrka
 
 
 
 
 **Torsby Pastorat**
 
-    123 188 04 34 - Kollekt Harestads kyrka
+    123 188 04 34 - Kollekt Harestads Kyrka
 
 
 
 
 **Torsby Pastorat**
 
-    123 024 54 80 - Kollekt Torsby kyrka
+    123 024 54 80 - Kollekt Torsby Kyrka
 
 
 
 
 **Torsby Pastorat**
 
-    123 480 94 63 - Kollekt Lycke kyrka
+    123 480 94 63 - Kollekt Lycke Kyrka
 
 
 
@@ -84136,13 +84136,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Tvååkers Pastorat**
 
-    123 055 47 17 - Kollekt Dagsås kyrka
+    123 055 47 17 - Kollekt Dagsås Kyrka
 
-    123 237 50 38 - Kollekt Spannarps kyrka
+    123 237 50 38 - Kollekt Spannarps Kyrka
 
     123 336 02 29 - Kollekt Tvååkers Kyrka
 
-    123 551 03 00 - Kollekt Sibbarps kyrka
+    123 551 03 00 - Kollekt Sibbarps Kyrka
 
 
 
@@ -84261,11 +84261,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Tyresö Församling**
 
-    123 105 33 47 - Bollmoradalens kyrka
+    123 105 33 47 - Bollmoradalens Kyrka
 
-    123 283 83 32 - Tyresö kyrka
+    123 283 83 32 - Tyresö Kyrka
 
-    123 543 02 85 - Trollbäckens kyrka
+    123 543 02 85 - Trollbäckens Kyrka
 
 
 
@@ -84471,7 +84471,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 311 72 31 - Försäljning
 
-    123 355 94 65 - Kollekt S:t Olofs kyrka
+    123 355 94 65 - Kollekt S:t Olofs Kyrka
 
     123 389 23 04 - Kollekt Täby Kyrka
 
@@ -86178,7 +86178,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 105 28 28 - Klosterkyrkans gåvofond
 
-    123 122 42 52 - Svenska kyrkans internationella arbete
+    123 122 42 52 - Svenska Kyrkans internationella arbete
 
     123 179 46 68 - Diakoni
 
@@ -86372,7 +86372,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Vallda kyrka**
+**Vallda Kyrka**
 
     123 228 82 07 - Kollekt
 
@@ -86739,7 +86739,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Varbergs kyrka**
+**Varbergs Kyrka**
 
     123 304 70 32 - Kollekt
 
@@ -88154,7 +88154,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 472 99 68 - Familj till Familj
 
-    123 543 16 22 - Terra Nova kyrkan
+    123 543 16 22 - Terra Nova Kyrkan
 
     123 593 36 92 - Visborgskyrkan
 
@@ -88718,17 +88718,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Vä-Skepparslövs Församling**
 
-    123 055 32 55 - Träne kyrka
+    123 055 32 55 - Träne Kyrka
 
-    123 137 58 31 - Djurröds kyrka
+    123 137 58 31 - Djurröds Kyrka
 
     123 245 03 44 - Kollekt
 
     123 362 04 40 - Administration
 
-    123 368 11 52 - Köpinge kyrka
+    123 368 11 52 - Köpinge Kyrka
 
-    123 459 48 00 - Skepparslövs kyrka
+    123 459 48 00 - Skepparslövs Kyrka
 
 
 
@@ -89723,7 +89723,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 033 68 34 - Kollekt
 
-    123 127 83 73 - ACT Svenska kyrkans internationella arbete
+    123 127 83 73 - ACT Svenska Kyrkans internationella arbete
 
     123 264 88 89 - Västermalm hjälper
 
@@ -90820,7 +90820,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Vårgårda Pastorat**
 
-    123 056 61 33 - Act Svenska kyrkan
+    123 056 61 33 - Act Svenska Kyrkan
 
     123 203 33 97 - Kollekt Centrumkyrkan
 
@@ -92696,7 +92696,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Ärtemark och Bengtsfors kyrka**
+**Ärtemark och Bengtsfors Kyrka**
 
     123 232 49 37
 
@@ -94357,7 +94357,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 464 26 90 - Servering/försäljning Mosjö-Täby församling
 
-    123 539 80 78 - S:t Mikaels kyrkan Bastu
+    123 539 80 78 - S:t Mikaels Kyrkan Bastu
 
     123 690 72 57 - Lokalhyra
 
@@ -94562,7 +94562,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 578 62 15 - Kollekt Örgryte Nya Kyrka
 
-    123 595 34 19 - Kollekt Skårs kyrka
+    123 595 34 19 - Kollekt Skårs Kyrka
 
 
 
@@ -95623,7 +95623,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Övertorneå Församling**
 
-    123 040 46 81 - Medlemsavgift/Blomsterfond Juoksengi kyrka
+    123 040 46 81 - Medlemsavgift/Blomsterfond Juoksengi Kyrka
 
     123 158 49 45
 
