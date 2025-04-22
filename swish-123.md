@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-22-rev-195327
+Revision: 2025-04-22-rev-233817
 
-Nummer: 15798
+Nummer: 15837
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -563,6 +563,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Afasiföreningen i Malmö med omnejd**
 
     123 513 53 89
+
+
+
+
+**Afasiföreningen i Stockholms Län**
+
+    123 620 21 13
 
 
 
@@ -4791,6 +4798,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Betaniakyrkan i Malmö**
+
+    123 056 97 31
+
+
+
+
 **Betaniakyrkan Örebro**
 
     123 512 84 75
@@ -5215,6 +5229,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Biosfärområde Kristianstads Vattenrike / Kristianstads Kommun**
 
     123 197 20 66
+
+
+
+
+**Birdlife Sverige**
+
+    123 114 71 31 - Ottenby Fågelstation
 
 
 
@@ -6559,6 +6580,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bollnäs AK - Skidor**
 
     123 539 84 74
+
+
+
+
+**Bollnäs Bibelcenter**
+
+    123 539 33 43
 
 
 
@@ -9955,6 +9983,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bröstcancerföreningen Halland**
 
     123 042 90 76
+
+
+
+
+**Bröstcancerföreningen Johanna Göteborg**
+
+    123 271 15 54
 
 
 
@@ -14852,6 +14887,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**EFS Kornhill**
+
+    123 570 05 39
+
+
+
+
 **EFS Kretsförening Sandvikengården**
 
     123 362 21 07
@@ -15646,13 +15688,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Elm Falketorp**
-
-    123 594 77 75
-
-
-
-
 **ELM Vittsjö**
 
     123 527 67 53
@@ -15698,6 +15733,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Emerichfonden**
 
     123 259 34 24
+
+
+
+
+**Emilia Lindberg / Erlin Musik & Försäljning AB**
+
+    123 690 58 06
 
 
 
@@ -16549,6 +16591,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Equmeniakyrkan Eksjö**
 
     123 222 21 64
+
+
+
+
+**Equmeniakyrkan Falköping**
+
+    123 249 46 23 - Ungdomsverksamheten
+
+    123 550 28 02
 
 
 
@@ -17518,6 +17569,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Europeiska Ungdomsparlamentet Sverige, EUP**
 
     123 321 97 30
+
+
+
+
+**Evangelisk Luthersk Mission Falketorp**
+
+    123 594 77 75
 
 
 
@@ -18594,6 +18652,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Filadelfiaförsamlingen Gällivare**
 
     123 211 05 91
+
+
+
+
+**Filadelfiaförsamlingen i Bor**
+
+    123 199 35 67
+
+    123 350 08 73 - Missionskassan
 
 
 
@@ -20149,6 +20216,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Frikyrkan Insjön**
+
+    123 467 72 41
+
+    123 690 14 90 - Ungdomsverksamheten
+
+
+
+
 **Frillegården / Andreas Graba**
 
     123 208 25 01
@@ -21366,6 +21442,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fyllingarums Bygdegårdsförening**
 
     123 619 87 74
+
+
+
+
+**Fylstakyrkans Församling**
+
+    123 021 49 16 - avgifter och övrigt
+
+    123 668 97 23 - gåvor
 
 
 
@@ -34872,6 +34957,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Insamlingsstiftelsen Happy Child Foundation**
+
+    123 059 15 78
+
+
+
+
 **Insamlingsstiftelsen Help to Help**
 
     123 900 54 06
@@ -38579,6 +38671,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kattpensionat Egypten / Egypten Service AB**
 
     123 147 61 67
+
+
+
+
+**Katträddarna**
+
+    123 491 67 48
 
 
 
@@ -49600,6 +49699,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Miljöpartiet i Göteborg**
+
+    123 299 37 49
+
+
+
+
 **Millas Villa AB / CHECKINN AB**
 
     123 099 00 10
@@ -49609,7 +49715,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Millennia Animal Project**
 
-    123 620 25 92
+    123 620 25 92 - Dogs of Pegasus
 
 
 
@@ -51821,9 +51927,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nattskiftet**
+
+    123 550 36 69
+
+
+
+
 **Nattsvart Stödförening**
 
     123 473 00 99
+
+
+
+
+**Nattvandrarna Sverige**
+
+    123 402 91 20
 
 
 
@@ -55210,6 +55330,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 139 37 01
 
+    123 310 78 28
+
 
 
 
@@ -56544,6 +56666,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 476 07 73 - Församlingskassan
 
+    123 476 58 63 - Stödkassan
+
     123 667 21 74 - Missionskassan
 
     123 673 50 62 - Singoalla
@@ -56700,6 +56824,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Pingstförsamlingen i Kalix**
 
     123 292 94 21
+
+
+
+
+**Pingstförsamlingen i Kalmar**
+
+    123 197 67 78
+
+    123 481 53 20 - Loki Street Kids
 
 
 
@@ -61686,6 +61819,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotad / Insamlingsstiftelsen Reformedia**
+
+    123 263 87 81
+
+
+
+
 **Rotaract Kristianstad**
 
     123 116 26 01
@@ -63800,6 +63940,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**S:t Petrus & S:t Paulus Syrisk Ortodoxa Kyrkan i Trollhättan**
+
+    123 441 57 33
+
+
+
+
 **S:t Petrus Syrisk Ortodoxa Kyrkan i Sundbyberg**
 
     123 147 35 29
@@ -63817,6 +63964,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **S:t Sigfrids IF**
 
     123 029 48 35
+
+
+
+
+**S:t Sigfrids Kyrka**
+
+    123 674 87 50
 
 
 
@@ -67366,6 +67520,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skyddsvärnet i Göteborg**
+
+    123 553 13 22
+
+
+
+
 **Skydive Gotland - Gotlands Fallskärmsklubb**
 
     123 288 46 09
@@ -68542,6 +68703,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Socialdemokraterna Ystad**
 
     123 019 68 16
+
+
+
+
+**Socialdemokratiska Israelvänner, SIV**
+
+    123 413 08 11
 
 
 
@@ -72357,9 +72525,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen SAPU**
+
+    123 579 85 58
+
+
+
+
 **Stiftelsen SELMA, Stiftelse för Evangeliskt-Lutherskt Missionsarbete i Afrika**
 
     123 077 83 08
+
+
+
+
+**Stiftelsen Silverblänk**
+
+    123 316 47 46
 
 
 
@@ -73504,6 +73686,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Street Stars Cruisers**
 
     123 511 16 87
+
+
+
+
+**Streetlight**
+
+    123 237 06 74
 
 
 
@@ -75253,6 +75442,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Alliansmissionens Ungdom**
+
+    123 579 28 25
+
+
+
+
 **Svenska ATM podden / Feldenkrais Skolan i Solna**
 
     123 412 67 51
@@ -76082,21 +76278,21 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Naturskyddsföreningen**
 
-    123 267 02 55
+    123 267 02 55 - Insamlingar
 
-    123 901 20 14
+    123 901 20 14 - Hållbart jordbruk
 
-    123 901 20 22
+    123 901 20 22 - Hav och vatten
 
-    123 901 20 30
+    123 901 20 30 - Få bort miljögifter från vardagen
 
-    123 901 20 48
+    123 901 20 48 - Skogen
 
-    123 901 30 38
+    123 901 30 38 - Klimatarbete
 
     123 901 68 34
 
-    123 901 90 92
+    123 901 90 92 - Natur och miljö
 
 
 
@@ -86449,6 +86645,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vallbykyrkan**
+
+    123 612 12 22
+
+
+
+
 **Vallda Kyrka**
 
     123 228 82 07 - Kollekt
@@ -87460,7 +87663,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Vetlanda Missionskyrka**
 
-    123 483 75 14
+    123 483 75 14 - Ungdomsverksamheten
 
 
 
@@ -87614,6 +87817,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vifolka Församling**
 
     123 576 72 64 - Kollekt
+
+
+
+
+**ViGer / VISIR Ideell Förening**
+
+    123 688 62 61
 
 
 
@@ -88310,13 +88520,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Visions Pensionärsförening i Kalmar**
 
     123 046 79 51
-
-
-
-
-**VISIR Ideell Förening**
-
-    123 688 62 61
 
 
 
@@ -89736,6 +89939,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västergötlands Travsällskap**
 
     123 161 73 56
+
+
+
+
+**Västerkyrkans Församling**
+
+    123 274 22 94
 
 
 
@@ -92204,6 +92414,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 ## Ä
 
+**Äkta Vara Sverige**
+
+    123 657 00 30
+
+
+
+
 **Äldrekontakt**
 
     123 900 26 35
@@ -94559,6 +94776,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Örebro tjejjour**
 
     123 351 59 13
+
+
+
+
+**Örebro Universitet**
+
+    123 224 86 31 - gåvor
+
+    123 487 46 57 - forskning
+
+    123 654 33 75 - studieupplevelse
 
 
 
