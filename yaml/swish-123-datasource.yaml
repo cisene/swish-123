@@ -14435,6 +14435,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/orgryte
 
+- entry: 1230742122
+  orgName: Equmenia i Fiskebäck och Önnered
+  orgNumber: 857204-0593
+  comment: null
+  categories:
+  - religion
+  web: https://fiskeback.com/
+
 - entry: 1230742171
   orgName: Stora Tuna och Torsångs Pastorat
   orgNumber: 252003-4287
@@ -35740,6 +35748,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sodraoland
 
+- entry: 1231780402
+  orgName: Englahaket / Teen Challenge Sverige
+  orgNumber: 885500-6253
+  comment: null
+  categories:
+  - café
+  - loppis
+  - religion
+  web: https://teenchallenge.se/engla/
+
 - entry: 1231780410
   orgName: Jönköpings Fältrittklubb
   orgNumber: 826000-2285
@@ -53217,6 +53235,15 @@ entries:
   - bygdegårdsförening
   web: https://bergsbygdegard.se/
 
+- entry: 1232681864
+  orgName: Sjöbergs Förlag AB
+  orgNumber: 556710-4723
+  comment: null
+  categories:
+  - bokutgivning
+  - förlag
+  web: https://www.sjobergsforlag.se/
+
 - entry: 1232681898
   orgName: FUB Trollhättan
   orgNumber: 863000-6719
@@ -63661,6 +63688,14 @@ entries:
   - intresseorganisation
   web: https://www.finngosaravinen.se/
 
+- entry: 1233212404
+  orgName: SANE - Förbundet autoimmuna encefaliter med psykiatrisk presentation
+  orgNumber: 802470-1842
+  comment: null
+  categories:
+  - patientförening
+  web: https://sane.nu/
+
 - entry: 1233212719
   orgName: Hässleholms CK
   orgNumber: 837000-9352
@@ -67547,6 +67582,15 @@ entries:
   - ungdomsverksamhet
   - vuxenstöd
   web: https://www.guldfallen.se/
+
+- entry: 1233412517
+  orgName: Malvadal Grisfristad
+  orgNumber: 802547-8911
+  comment: null
+  categories:
+  - djurskydd
+  - intresseförening
+  web: http://malvadalgrisfristad.se/
 
 - entry: 1233417417
   orgName: PRO Brastad
@@ -77439,6 +77483,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/hargsbk
 
+- entry: 1233916798
+  orgName: PCD Sverige - Primär Ciliär Dyskinesi
+  orgNumber: 802544-7189
+  comment: null
+  categories:
+  - patientförening
+  web: https://pcdsverige.se/
+
 - entry: 1233918299
   orgName: Boxningsklubben Visenten
   orgNumber: 802430-7111
@@ -78591,6 +78643,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/norrabilling
+
+- entry: 1233969169
+  orgName: Internationella Vänner
+  orgNumber: 802471-4290
+  comment: null
+  categories:
+  - intresseförening
+  web: https://internationellavanner.se/
 
 - entry: 1233969219
   orgName: Dominicaines de Sainte Marie des Tourelles
@@ -81969,6 +82029,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/soderkoping
+
+- entry: 1234181145
+  orgName: Jöns Henrikssons Minnesförening
+  orgNumber: 842001-0921
+  comment: null
+  categories:
+  - minnesfond
+  - minnesförening
+  web: https://www.hembygd.se/jons-henriksson
 
 - entry: 1234181277
   orgName: Undersåkers Hembygdsförening
@@ -88280,6 +88349,14 @@ entries:
   - förening
   - gymnastikförening
   web: https://kopingsgymnastikforening.se/
+
+- entry: 1234525028
+  orgName: Bukobahjälpen
+  orgNumber: 802428-9103
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://bukobahjalpen.se/
 
 - entry: 1234525036
   orgName: Svenska Whippetklubben
@@ -95562,6 +95639,14 @@ entries:
   categories:
   - ordensällskap
   web: https://tempelriddareorden.se/
+
+- entry: 1234956033
+  orgName: Göteborgs Djurskyddsförening
+  orgNumber: 857200-3229
+  comment: null
+  categories:
+  - djurskydd
+  web: https://djurskydd.nu/
 
 - entry: 1234956140
   orgName: Sala-Norrby-Möklinta Pastorat
@@ -122161,6 +122246,14 @@ entries:
   - donation
   - stiftelse
   web: https://www.berasinternational.se/
+
+- entry: 1236257836
+  orgName: Bona Via
+  orgNumber: 855100-8280
+  comment: null
+  categories:
+  - anhörigorganisation
+  web: https://www.bonavia.se/
 
 - entry: 1236259873
   orgName: Lycksele Församling

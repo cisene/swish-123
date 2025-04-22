@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-21-rev-171508
+Revision: 2025-04-22-rev-195327
 
-Nummer: 15787
+Nummer: 15798
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -6670,6 +6670,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bona Via**
+
+    123 625 78 36
+
+
+
+
 **Bondepraktikan Podcast / Per-Ola Olsson**
 
     123 382 79 87
@@ -10111,6 +10118,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bujinkan Ninpo Taijutsu Göteborg**
 
     123 006 88 90
+
+
+
+
+**Bukobahjälpen**
+
+    123 452 50 28
 
 
 
@@ -15858,6 +15872,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Englahaket / Teen Challenge Sverige**
+
+    123 178 04 02
+
+
+
+
 **Engströms Artstudio AB**
 
     123 350 04 51
@@ -16313,6 +16334,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Equmenia i Asklanda-Ornunga**
 
     123 302 20 35
+
+
+
+
+**Equmenia i Fiskebäck och Önnered**
+
+    123 074 21 22
 
 
 
@@ -26620,6 +26648,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Göteborgs Djurskyddsförening**
+
+    123 495 60 33
+
+
+
+
 **Göteborgs Domkyrkoförsamling**
 
     123 379 03 91 - Musikverksamhet
@@ -35515,6 +35550,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Internationella Vänner**
+
+    123 396 91 69
+
+
+
+
 **Internationellt Vävcenter Sjuhärad**
 
     123 458 44 13
@@ -37090,6 +37132,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Jönköpingsbygdens Genealogiska Förening**
 
     123 370 53 08
+
+
+
+
+**Jöns Henrikssons Minnesförening**
+
+    123 418 11 45
 
 
 
@@ -48313,6 +48362,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malvadal Grisfristad**
+
+    123 341 25 17
+
+
+
+
 **Malå Brukshundklubb**
 
     123 677 92 50
@@ -56157,6 +56213,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **PBK Strike**
 
     123 193 87 29
+
+
+
+
+**PCD Sverige - Primär Ciliär Dyskinesi**
+
+    123 391 67 98
 
 
 
@@ -64511,6 +64574,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SANE - Förbundet autoimmuna encefaliter med psykiatrisk presentation**
+
+    123 321 24 04
+
+
+
+
 **Sankt Ansgar**
 
     123 267 05 52
@@ -65871,6 +65941,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Själglans Ideella Förening**
 
     123 098 06 23
+
+
+
+
+**Sjöbergs Förlag AB**
+
+    123 268 18 64
 
 
 
