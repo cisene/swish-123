@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-22-rev-233817
+Revision: 2025-04-24-rev-194650
 
-Nummer: 15837
+Nummer: 15838
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -44930,13 +44930,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Lindome GIF**
-
-    123 160 59 97
-
-
-
-
 **Lindome IBK**
 
     123 062 45 69
@@ -59828,6 +59821,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **QLM Media / Joachim Kåhlman**
 
     123 424 82 25
+
+
+
+
+**Qred Bank AB**
+
+    123 349 83 91
 
 
 
@@ -84895,6 +84895,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Töllsjö IF**
 
     123 520 91 76
+
+
+
+
+**Tölö IF**
+
+    123 160 59 97
 
 
 

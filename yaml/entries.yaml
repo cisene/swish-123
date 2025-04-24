@@ -20229,6 +20229,7 @@ entries:
   orgNumber: 802002-1062
   comment: null
   categories:
+  - facklig organisation
   - förbund
   - intresseförening
   web: https://www.livs.se/
@@ -32734,13 +32735,13 @@ entries:
   web: https://www.hembygd.se/hedesunda
 
 - entry: 1231605997
-  orgName: Lindome GIF
-  orgNumber: 852000-1945
+  orgName: Tölö IF
+  orgNumber: 849400-2838
   comment: null
   categories:
   - fotbollsklubb
   - idrottsförening
-  web: https://www.lindomegif.se/
+  web: https://www.toloif.se/
 
 - entry: 1231606094
   orgName: Sjöviks Missionsförsamling
@@ -42721,7 +42722,7 @@ entries:
   categories:
   - golfbana
   - golfklubb
-  web: https://dwgolfklubb.se/
+  web: https://dwgk.se/
 
 - entry: 1232136067
   orgName: Korskyrkan i Västerås / Baptistförsamlingen Filadelfia
@@ -70224,6 +70225,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-karnan-helsingborg/
 
+- entry: 1233498391
+  orgName: Qred Bank AB
+  orgNumber: 559008-9800
+  comment: null
+  categories:
+  - kredittjänster
+  web: https://www.qred.se/
+
 - entry: 1233498524
   orgName: Team Rynkeby
   orgNumber: 802537-0241
@@ -93962,6 +93971,13 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
+
+- entry: 1234739736
+  orgName: Magnolia Filipstad
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1234739983
   orgName: Lokrume Hembygdsförening

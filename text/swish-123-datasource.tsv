@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-04-22-rev-233752
+# Date: 2025-04-24-rev-194628
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2258,7 +2258,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230984054	802416-0767	Stockholm Kärsön frisbeeklubb	https://stockholmkarson.se/	discgolfbana,discgolfklubb	
 1230984278	252003-6399	Svenska Kyrkan på Orust	https://www.svenskakyrkan.se/orust	religion	Diakoni på Orust
 1230984419	838202-0926	Kristianstads DFF	https://www.kdff.nu/	fotbollsklubb,idrottsförening	
-1230984641	802002-1062	Livsmedelsarbetareförbundet	https://www.livs.se/	förbund,intresseförening	
+1230984641	802002-1062	Livsmedelsarbetareförbundet	https://www.livs.se/	facklig organisation,förbund,intresseförening	
 1230984807	854600-1200	Smögens IF	https://www.svenskalag.se/smogensif	fotbollsklubb,idrottsförening,innebandyklubb	
 1230985135	556983-1919	PippiFlax AB	https://www.pippiflax.se/	fågelklubb,tidsskrifter	
 1230985200	828001-0474	Nydala Byalag	https://nydala.com/	byalag	
@@ -3656,7 +3656,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231605567	883201-7597	Lions Club Sundborn	https://www.sundborn.com/lions-club	lionsklubb	
 1231605880	802412-6933	Utö Hembygdsförening	https://www.hembygd.se/uto	hembygdsförening	
 1231605971	885000-5367	Hedesunda Hembygdsförening	https://www.hembygd.se/hedesunda	hembygdsförening	
-1231605997	852000-1945	Lindome GIF	https://www.lindomegif.se/	fotbollsklubb,idrottsförening	
+1231605997	849400-2838	Tölö IF	https://www.toloif.se/	fotbollsklubb,idrottsförening	
 1231606094	863500-1368	Sjöviks Missionsförsamling	https://equmeniakyrkan.se/sjovik/	religion	
 1231609353	832400-6397	Kalmar Atletklubb	https://kalmarak.se/	atletklubb,idrottsförening	
 1231610070	252002-1912	Nora Församling	https://www.svenskakyrkan.se/noratarnsjo	religion	
@@ -4756,7 +4756,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232134765	802488-3434	Korskyrkan i Götene	https://korskyrkangotene.se/	religion	Församlingens verksamhet
 1232134831	802440-8117	Equmenia Riks, Ungdomsarbete	https://equmenia.se/	religion	
 1232134989	879500-3956	Sala OK	https://www.svenskalag.se/salaok	idrottsförening,orienteringsklubb	
-1232136059	838201-8813	Degeberga-Widsköfle Golfklubb	https://dwgolfklubb.se/	golfbana,golfklubb	
+1232136059	838201-8813	Degeberga-Widsköfle Golfklubb	https://dwgk.se/	golfbana,golfklubb	
 1232136067	878000-3532	Korskyrkan i Västerås / Baptistförsamlingen Filadelfia	https://www.korskyrkanvasteras.se/	religion	
 1232136216	825000-7534	Söderköpings stads hembygdsförening, S:t Ragnhilds Gille i Söderköping	https://www.stragnhildsgille.se/	hembygdsförening,museum	
 1232136265	802469-7842	IFK Trelleborg	https://www.laget.se/IFKTrelleborgFK/	fotbollsklubb,idrottsförening	
@@ -7805,6 +7805,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233494028	889201-7487	Tynderö Hembygdsförening	https://www.hembygd.se/tyndero	hembygdsförening	
 1233495926	802515-4066	Eezer Sverige Ideell Förening	https://eezer.org/	donation,hälsovård,mödravård	
 1233497070	843002-4284	SPF Seniorerna Kärnan Helsingborg	https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-karnan-helsingborg/	pensionärsklubb	
+1233498391	559008-9800	Qred Bank AB	https://www.qred.se/	kredittjänster	
 1233498524	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, Rångedalaskolan
 1233498664	802513-8143	Gnosjo Global Association	https://www.gnosjoglobal.com/	hjälporganisation	
 1233498698	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Lund, Emiliaskolan
