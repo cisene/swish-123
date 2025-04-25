@@ -11251,6 +11251,14 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/vasterlanda/
 
+- entry: 1230559005
+  orgName: Dannemora Hembygdsförening
+  orgNumber: 817300-7405
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/dannemora
+
 - entry: 1230560169
   orgName: Eda Församling
   orgNumber: 252002-0328
@@ -13156,6 +13164,15 @@ entries:
   - vapensmed
   - vapenverkstad
   web: https://actionreactionsports.se/
+
+- entry: 1230680124
+  orgName: BMK Södermalm
+  orgNumber: 802406-0629
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://bmksodermalm.se/
 
 - entry: 1230680231
   orgName: Örebro SK Ungdom
@@ -18939,6 +18956,16 @@ entries:
   - fotoförening
   - fotoklubb
   web: https://fjalkingefotoklubb.se/
+
+- entry: 1230920421
+  orgName: Elin Graf Photography
+  orgNumber: null
+  comment: null
+  categories:
+  - bröllopsfoto
+  - familjefoto
+  - fotograf
+  web: https://www.elingrafphotography.se/
 
 - entry: 1230920488
   orgName: Borås Finska Pingstförsamling
@@ -25143,6 +25170,15 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/IFKDannemoraOsterby/
 
+- entry: 1231228089
+  orgName: Maskinboden i Sörmland AB
+  orgNumber: 556861-5107
+  comment: null
+  categories:
+  - försäljning
+  - reparationer
+  web: https://maskinbodenab.se/
+
 - entry: 1231228238
   orgName: Nedre Fryksdals Konstförening, NFK
   orgNumber: 874000-0800
@@ -27014,6 +27050,15 @@ entries:
   - intresseförening
   - journalistik
   web: https://foreningenpennskaftet.wordpress.com/
+
+- entry: 1231324508
+  orgName: Örebro SK Ungdom
+  orgNumber: 875001-6894
+  comment: P-15 vit
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/OSKUFotbollP15Vit/
 
 - entry: 1231324581
   orgName: Vuono Hembygds och Kulturförening
@@ -31948,6 +31993,17 @@ entries:
   categories:
   - yoga
   web: https://www.gavleyogaskola.se/
+
+- entry: 1231569193
+  orgName: Karlsnäsgården
+  orgNumber: 556743-2801
+  comment: null
+  categories:
+  - konferens
+  - konferenslokaler
+  - logi
+  - övernattning
+  web: https://www.karlsnasgarden.se/
 
 - entry: 1231569383
   orgName: Strödetaljer AB
@@ -38478,6 +38534,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/ljungby/angelstads-forsamling
+
+- entry: 1231896851
+  orgName: Ungdomens Nykterhetsförbund, UNF
+  orgNumber: 878500-1622
+  comment: null
+  categories:
+  - nykterhetsförbund
+  web: https://www.unf.se/
 
 - entry: 1231897362
   orgName: Kristet Center Örebro
@@ -60651,6 +60715,15 @@ entries:
   - intresseförening
   web: https://www.bloomnykoping.se/
 
+- entry: 1233012622
+  orgName: Rosenborgs Gård AB
+  orgNumber: 559464-3974
+  comment: null
+  categories:
+  - jordbruk
+  - vinterförvaring
+  web: https://www.rosenborgsgard.nu/
+
 - entry: 1233013620
   orgName: Nittorps FVO
   orgNumber: 802601-3527
@@ -60676,6 +60749,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://hprreimersholme.se/
+
+- entry: 1233015534
+  orgName: Borgholms Filmstudio
+  orgNumber: 802539-1627
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://borgholm.filmstudio.se/
 
 - entry: 1233017191
   orgName: KGoIF Veteranklubb
@@ -90205,6 +90287,14 @@ entries:
   - gårdsförsäljning
   - lokalproducerat
   web: https://gideget.se/
+
+- entry: 1234556114
+  orgName: Samfundet Sverige-Finland
+  orgNumber: 802009-6312
+  comment: null
+  categories:
+  - samfund
+  web: https://samfundetsverigefinland.se/
 
 - entry: 1234557997
   orgName: Föreningen Jagaren Smålands Vänner, J19
@@ -127947,6 +128037,15 @@ entries:
   - konststudio
   web: https://malmokonststudio.konstforeningar.se/
 
+- entry: 1236463293
+  orgName: Stockholms Kooperativa Bostadsförening
+  orgNumber: 702001-1735
+  comment: Segelbåten
+  categories:
+  - bostadsbolag
+  - hyresrättsförening
+  web: https://skbsegelbaten.se/
+
 - entry: 1236463707
   orgName: Anomar Förlag AB
   orgNumber: 556404-4625
@@ -135949,6 +136048,15 @@ entries:
   - mediaproduktion
   - utbildning
   web: https://www.blåugglan.se/
+
+- entry: 1236842587
+  orgName: SM i Flipper / Rokku AB
+  orgNumber: 559237-1867
+  comment: null
+  categories:
+  - arkadspel
+  - flipperspel
+  web: https://www.flippersm.se/
 
 - entry: 1236843668
   orgName: Örkelljunga Padel

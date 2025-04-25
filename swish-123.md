@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-24-rev-194650
+Revision: 2025-04-25-rev-174509
 
-Nummer: 15838
+Nummer: 15849
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -6247,6 +6247,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**BMK Södermalm**
+
+    123 068 01 24
+
+
+
+
 **BMK Uddevalla - Motorcykel och Snöskoter**
 
     123 526 25 06
@@ -6836,6 +6843,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Borgholms Båtklubb**
 
     123 629 73 03
+
+
+
+
+**Borgholms Filmstudio**
+
+    123 301 55 34
 
 
 
@@ -12593,6 +12607,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Daniels Betting / Daniel Domeij**
 
     123 077 53 53
+
+
+
+
+**Dannemora Hembygdsförening**
+
+    123 055 90 05
 
 
 
@@ -38138,6 +38159,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Karlsnäsgården**
+
+    123 156 91 93
+
+
+
+
 **Karlsro Scoutkår**
 
     123 582 64 66
@@ -48960,6 +48988,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Masen i Mora / Bokstaven AB**
 
     123 156 57 95
+
+
+
+
+**Maskinboden i Sörmland AB**
+
+    123 122 80 89
 
 
 
@@ -61599,6 +61634,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 037 62 44 - Vinterförvaring
 
+    123 301 26 22
+
 
 
 
@@ -64389,6 +64426,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Samfundet Birgittasystrarna**
 
     123 008 97 63
+
+
+
+
+**Samfundet Sverige-Finland**
+
+    123 455 61 14
 
 
 
@@ -68194,6 +68238,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Slöseriombudsmannen, SlösO / Skattebetalarnas Förening**
 
     123 166 91 59
+
+
+
+
+**SM i Flipper / Rokku AB**
+
+    123 684 25 87
 
 
 
@@ -73167,6 +73218,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stockholms Klätterförbund**
 
     123 593 13 16
+
+
+
+
+**Stockholms Kooperativa Bostadsförening**
+
+    123 646 32 93 - Segelbåten
 
 
 
@@ -85678,6 +85736,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ungdomens Nykterhetsförbund, UNF**
+
+    123 189 68 51
+
+
+
+
 **Ungdomsbrandkåren Laholm**
 
     123 236 07 33
@@ -94714,6 +94779,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 068 02 31 - F-P2010 Svart
 
     123 114 62 81 - B-P07/08
+
+    123 132 45 08 - P-15 vit
 
     123 160 42 63 - P13 Röd
 
