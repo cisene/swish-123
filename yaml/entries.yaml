@@ -10790,6 +10790,14 @@ entries:
   - stiftelse
   web: https://fogelstadsstiftelse.se/
 
+- entry: 1230538884
+  orgName: IBIS Intresseförening
+  orgNumber: 802413-9357
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.ibisgbg.se/
+
 - entry: 1230538983
   orgName: Eskilstuna FC
   orgNumber: 802476-3693
@@ -39145,6 +39153,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/harnosand
 
+- entry: 1231926120
+  orgName: Wermlands Körsällskap
+  orgNumber: 873202-0782
+  comment: null
+  categories:
+  - hästsport
+  - körsällskap
+  web: https://www.wermlandskorsallskap.se/
+
 - entry: 1231926344
   orgName: Pingstkyrkan Degerfors
   orgNumber: 876400-0355
@@ -47486,6 +47503,15 @@ entries:
   categories:
   - religion
   web: https://soschurchvasteras.se/
+
+- entry: 1232313922
+  orgName: Deco Pottery Colour Sweden AB
+  orgNumber: 559408-4765
+  comment: null
+  categories:
+  - försäljning
+  - keramik
+  web: https://www.decopotterycolour.se/
 
 - entry: 1232314003
   orgName: Norah Kohle - Häst i Balans
@@ -78119,6 +78145,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vittinge
 
+- entry: 1233893716
+  orgName: Söderhamns Judoklubb
+  orgNumber: 802414-7533
+  comment: null
+  categories:
+  - idrottsförening
+  - judoklubb
+  - kampsportsförening
+  web: https://soderhamnsjudo.se/
+
 - entry: 1233893732
   orgName: Föreningen Åh Stiftsgårds vänner
   orgNumber: 802495-3468
@@ -97730,7 +97766,7 @@ entries:
   - konsert
   - kultur
   - musik
-  web: null
+  web: https://www.konserthuset.se/
 
 - entry: 1234990008
   orgName: Bäckefors Hembygds- & Framtidsförening

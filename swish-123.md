@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-25-rev-174509
+Revision: 2025-04-26-rev-124323
 
-Nummer: 15849
+Nummer: 15853
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -12798,6 +12798,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Deaf Refugees Welcome Sweden, DRW**
 
     123 507 74 66
+
+
+
+
+**Deco Pottery Colour Sweden AB**
+
+    123 231 39 22
 
 
 
@@ -32579,6 +32586,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 235 87 29 - H3/JAS/HJ
 
     123 561 48 13 - Damer Allsvenskan
+
+
+
+
+**IBIS Intresseförening**
+
+    123 053 88 84
 
 
 
@@ -79061,6 +79075,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Söderhamns Judoklubb**
+
+    123 389 37 16
+
+
+
+
 **Söderhamns kammarmusikförening**
 
     123 403 35 85
@@ -91443,6 +91464,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Wermland Western Riders**
 
     123 538 30 96
+
+
+
+
+**Wermlands Körsällskap**
+
+    123 192 61 20
 
 
 

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-04-25-rev-174440
+# Date: 2025-04-26-rev-124253
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1212,6 +1212,7 @@
 "1230533760","898200-6242","Gammelgårdens IF","https://www.laget.se/GammelgardensIF/","fotbollsklubb,idrottsförening","F/P-2018"
 "1230536193","895400-6485","Storumans Brukshundklubb","https://brukshundklubben.se/storumans-brukshundklubb/","brukshundklubb",""
 "1230537001","802481-2110","Insamlingsstiftelsen Fogelstad","https://fogelstadsstiftelse.se/","feminism,stiftelse",""
+"1230538884","802413-9357","IBIS Intresseförening","https://www.ibisgbg.se/","intresseförening",""
 "1230538983","802476-3693","Eskilstuna FC","https://www.svenskalag.se/efc","fotbollsklubb,idrottsförening",""
 "1230539502","870719-XXXX","Vanlife Sverige / Isabel Waite","https://www.vanlifesverige.se/","camping,livsstil",""
 "1230540005","885000-2679","Strömsbro IF","https://www.laget.se/StromsbroIF/","fotbollsklubb,idrottsförening,innebandyklubb,ishockeyklubb,padelklubb",""
@@ -4361,6 +4362,7 @@
 "1231925676","802537-0241","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Sjuhärad, Förskolan LärKan"
 "1231925700","802535-9137","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Kristianstad, Hjortakroksskolan"
 "1231925890","252003-7488","Härnösands Pastorat","https://www.svenskakyrkan.se/harnosand","religion","Act Svenska Kyrkan"
+"1231926120","873202-0782","Wermlands Körsällskap","https://www.wermlandskorsallskap.se/","hästsport,körsällskap",""
 "1231926344","876400-0355","Pingstkyrkan Degerfors","https://degerfors.pingst.se/","religion","Församlingskassan"
 "1231927813","802536-3055","Socialisterna - Välfärdspartiet","https://www.valfardspartiet.org/","politiskt parti",""
 "1231928605","530808-XXXX","Remingtons Kattlya / Christina Jansson","https://www.facebook.com/profile.php?id=100064751046612","djurskydd,katthem",""
@@ -5282,6 +5284,7 @@
 "1232313310","556227-9942","Investmentbolaget LGAB Sverige AB","https://plaza.se/","tidsskrifter","Prenumeration Plaza Uomo"
 "1232313898","802458-5583","Bjärka-Säby Ryttarförening","https://www.svenskalag.se/bjarkasabyrf","hästsport,ridklubb,ryttarförening",""
 "1232313906","802457-8356","SOS Church Västerås / New Life Västerås","https://soschurchvasteras.se/","religion",""
+"1232313922","559408-4765","Deco Pottery Colour Sweden AB","https://www.decopotterycolour.se/","försäljning,keramik",""
 "1232314003","930303-XXXX","Norah Kohle - Häst i Balans","https://www.norahkohle.se/","hästsport",""
 "1232314250","818500-9639","Katrineholms Ryttarförening","https://www.katrineholmsrf.se/","hästsport,ryttarförening","Kusen"
 "1232314342","802418-3546","Västra Sidan","https://www.vastrasidan.se/","supporterklubb",""
@@ -8683,6 +8686,7 @@
 "1233893666","843003-4622","Lerbergets Segelsällskap","https://www.lerss.se/","segelklubb,segelsällskap",""
 "1233893682","894001-6606","Ersmarks IK","https://www.eik.se/","fotbollsklubb,idrottsförening","P11"
 "1233893708","252002-1904","Vittinge Församling","https://www.svenskakyrkan.se/vittinge","religion","Kollekt"
+"1233893716","802414-7533","Söderhamns Judoklubb","https://soderhamnsjudo.se/","idrottsförening,judoklubb,kampsportsförening",""
 "1233893732","802495-3468","Föreningen Åh Stiftsgårds vänner","https://ahvanner.se/","intresseförening",""
 "1233893765","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/Strangnas/","godkänd gåvomottagare,religion","Strängnäs"
 "1233893864","802436-6349","Kattkommando Syd Kågeröd/Bjuv","https://kks.nu/","djurskydd,katthem",""
@@ -10855,7 +10859,7 @@
 "1234989885","802414-0942","Stjärnviks Bygdeförening","https://bygdegardarna.se/stjarnvik/","bygdegårdsförening",""
 "1234989943","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Malmö, Kattebäcksskolan"
 "1234989950","802537-0241","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Sjuhärad, Svaneholmskolan"
-"1234989989","802001-8266","Konserthuset Stockholm / Stockholms Konserthusstiftelse","","events,konsert,kultur,musik",""
+"1234989989","802001-8266","Konserthuset Stockholm / Stockholms Konserthusstiftelse","https://www.konserthuset.se/","events,konsert,kultur,musik",""
 "1234990008","862000-3767","Bäckefors Hembygds- & Framtidsförening","https://www.backefors.com/","hembygdsförening",""
 "1234990206","843000-5531","Rögle BK","https://www.roglebk.se/","idrottsförening,ishockeyklubb",""
 "1234990768","873200-4869","Färjestad BK - Konståkning","https://farjestadbk.sportadmin.se/","idrottsförening,konståkningsklubb",""
