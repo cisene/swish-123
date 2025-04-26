@@ -31,7 +31,6 @@ def writeYAML(filepath, contents):
     line_break='\n'
   )
   with open(filepath, "w") as f:
-    #f.write(s)
     f.write(s.replace('\n- ', '\n\n- '))
 
 def readYAML(filepath):
