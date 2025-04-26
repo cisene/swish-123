@@ -8,6 +8,15 @@ import requests
 from bs4 import BeautifulSoup
 from dateutil.parser import parse
 
+from datetime import datetime
+
+import operator
+from operator import *
+
+from operator import itemgetter
+
+YAML_SOURCE_FILE = '../yaml/masterdata-forenadebolag-varningslistan.yaml'
+
 def writeYAML(filepath, contents):
   s = yaml.safe_dump(
     contents,
@@ -24,6 +33,26 @@ def writeYAML(filepath, contents):
   with open(filepath, "w") as f:
     #f.write(s)
     f.write(s.replace('\n- ', '\n\n- '))
+
+def readYAML(filepath):
+  contents = None
+  data = None
+  if os.path.isfile(filepath):
+    fp = None
+
+    try:
+      fp = open(filepath)
+      contents = fp.read()
+      fp.close()
+
+    finally:
+      pass
+
+  if contents != None:
+    data = yaml.safe_load(contents)
+
+  return data
+
 
 def fulltrim(data):
   data = re.sub(r"^\s{1,}", "", str(data), flags=re.IGNORECASE)
@@ -63,6 +92,10 @@ def extractOrgName(data):
 
 def extractOrgNumber(data):
   data = re.sub(r"Org\x2enr\x3a\s", "", data, flags=re.IGNORECASE)
+    
+  if not re.search(r"^(\d{6})\x2d(\d{4})$", str(data), flags=re.IGNORECASE):
+    data = None
+
   return data
 
 def formatOrgNumber(data):
@@ -72,12 +105,78 @@ def formatOrgNumber(data):
 
   return data
 
+def cloneVO(thisVO):
+
+  vo =  {
+    'orgNumber': None,
+    'orgName': None,
+    'date': None,
+
+    '_SeenFirst': None,
+    '_SeenLast': None,
+  }
+
+  if thisVO != None:
+
+    if "orgNumber" in thisVO:
+      if thisVO['orgNumber'] != None:
+        vo['orgNumber'] = thisVO['orgNumber']
+
+    if "orgName" in thisVO:
+      if thisVO['orgName'] != None:
+        vo['orgName'] = thisVO['orgName']
+
+    if "date" in thisVO:
+      if thisVO['date'] != None:
+        vo['date'] = thisVO['date']
+
+    if "_SeenFirst" in thisVO:
+      if thisVO['_SeenFirst'] != None:
+        vo['_SeenFirst'] = thisVO['_SeenFirst']
+
+    if "_SeenLast" in thisVO:
+      if thisVO['_SeenLast'] != None:
+        vo['_SeenLast'] = thisVO['_SeenLast']
+
+  return vo
+
+def findVO(orgNumber):
+  global vl
+
+  obj = None
+
+  if orgNumber != None:
+
+    for o in vl['organisations']:
+      if o['orgNumber'] != None:
+
+        if o['orgNumber'] == orgNumber:
+          obj = o
+          break
+
+  return obj
+
+
+#  dest_date_date = now.strftime("%Y-%m-%d")
+
 
 def main():
+  global vl
+  source_dict = readYAML(YAML_SOURCE_FILE)
+
   url = 'https://forenadebolag.se/varningslistan-filter/'
 
-  vl = {}
-  vl["organisations"] = []
+  seen_before = []
+
+  if source_dict == None:
+    vl = {}
+  else:
+    vl = source_dict
+
+  if "organisations" not in vl:
+    vl["organisations"] = []
+
+  dest_list = []
 
   urls = []
   urls.append(url)
@@ -94,10 +193,9 @@ def main():
         if re.match(r"^https\x3a\x2f\x2fforenadebolag\x2ese\x2fvarningslistan\x2dfilter\x2f\x3fsf\x5fpaged\x3d(\d{1,})$", link_href, flags=re.IGNORECASE):
           if link_href not in urls:
             urls.append(link_href)
-            #print(link_href)
 
-    #exit(0)
     results = soup.find_all("div", class_="result-sf-filter-box")
+
 
     for chunk in results:
       objs = {}
@@ -107,9 +205,9 @@ def main():
       item_orgNumber = None
 
       li_list = chunk.find_all("li")
-      for li in li_list:
+      now = datetime.now()
 
-        #print(f"li: {li.text}")
+      for li in li_list:
 
         if re.match(r"senast\sändrad\x3a", li.text, flags=re.IGNORECASE):
           item_date = extractDate(li.text)
@@ -122,24 +220,61 @@ def main():
 
         if re.match(r"Org\x2enr\x3a", li.text, flags=re.IGNORECASE):
           item_orgNumber = extractOrgNumber(li.text)
-          #print(item_orgNumber)
           if item_orgNumber != None:
             item_orgNumber = formatOrgNumber(item_orgNumber)
-            #print(item_orgNumber)
 
-      obj = {
-        'orgNumber': item_orgNumber,
-        'orgName': item_orgName,
-        'date': item_date
-      }
+            if item_orgNumber not in seen_before:
 
-      if obj["orgNumber"] != None:
-        if re.match(r"^(\d{6})\x2d([0-9X]{4})$", obj["orgNumber"], flags=re.IGNORECASE):
-          vl["organisations"].append(obj)
-          print(f"\t{obj}")
+              thisVO = findVO(item_orgNumber)
+              if thisVO == None: 
+
+                print("\t###### Entry was not found")
+                print(li)
+                print(thisVO, item_orgNumber)
+
+                foo = input('pause')
 
 
-  writeYAML('../yaml/masterdata-forenadebolag-varningslistan.yaml', vl)
+                obj = {
+                  'orgNumber': item_orgNumber,
+                  'orgName': item_orgName,
+                  'date': item_date,
+                  '_SeenFirst': None,
+                  '_SeenLast': None
+                }
+
+              else:
+                obj = cloneVO(thisVO)
+
+              obj['_SeenLast'] = now.strftime("%Y-%m-%dT%H:%M:%S%z")
+              
+              if obj['_SeenFirst'] == None:
+                obj['_SeenFirst'] = now.strftime("%Y-%m-%dT%H:%M:%S%z")
+
+              #if obj["orgNumber"] != None:
+              #  if re.match(r"^(\d{6})\x2d(\d{4})$", obj["orgNumber"], flags=re.IGNORECASE):
+
+              if obj['orgName'] != item_orgName:
+                obj['orgName'] = item_orgName
+
+              if obj['date'] != item_date:
+                obj['date'] = item_date
+
+            else:
+              continue
+
+            dest_list.append(obj)
+            seen_before.append(item_orgNumber)
+
+  sorted_vl = sorted(dest_list, key=itemgetter('orgNumber'))
+
+  #print(sorted_vl)
+  vl['organisations'] = sorted_vl
+
+
+  writeYAML(YAML_SOURCE_FILE, vl)
+  print(f"Wrote '{YAML_SOURCE_FILE} ..")
+
 
 if __name__ == '__main__':
   main()
