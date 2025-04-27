@@ -236,6 +236,10 @@ def main():
   writeYAML(YAML_SOURCE_FILE, vl)
   print(f"Wrote '{YAML_SOURCE_FILE} ..")
 
+  # Cleanup - remove the saved CSV
+  if os.path.exists(CSV_SOURCE_FILE):
+    os.remove(CSV_SOURCE_FILE)
+
 
 if __name__ == '__main__':
   main()
