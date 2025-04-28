@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-27-rev-163137
+Revision: 2025-04-28-rev-210119
 
-Nummer: 15853
+Nummer: 15862
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -40182,6 +40182,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Konstföreningen Spiran**
+
+    123 370 52 90
+
+
+
+
 **Konstföreningen vid Svalövs Kommun**
 
     123 118 33 34
@@ -40192,6 +40199,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Konstföreningen Westmannia**
 
     123 117 86 23
+
+
+
+
+**Konsthantverkarna Karlstad**
+
+    123 388 58 45
 
 
 
@@ -40227,6 +40241,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Konstnären Sebastian Rudolph Jensen / WISRJ AB**
 
     123 533 59 06
+
+
+
+
+**Konstnärshusets Vänner**
+
+    123 288 09 79
 
 
 
@@ -49983,6 +50004,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Mjölby Konstförening**
+
+    123 201 34 98
+
+
+
+
 **Mjölby Mills BBK**
 
     123 572 85 22
@@ -52383,6 +52411,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**NJA Konstförening**
+
+    123 102 34 72
+
+
+
+
 **Njudungs Brukshundklubb**
 
     123 338 02 43
@@ -53776,7 +53811,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Not Quite Ekonomisk förening**
+**Not Quite**
 
     123 402 68 11
 
@@ -67839,6 +67874,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skånes Konstförening**
+
+    123 407 44 31
+
+
+
+
 **Skånes Ornitologiska Förening**
 
     123 900 30 13
@@ -77618,6 +77660,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sveriges Allmänna Konstförening**
+
+    123 266 77 64
+
+
+
+
 **Sveriges Bilkårers Riksförbund**
 
     123 283 89 36
@@ -79633,6 +79682,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Södra Åby Hembygdsförening**
 
     123 227 51 13
+
+
+
+
+**Södra Ölands Konstförening**
+
+    123 194 70 84
 
 
 
@@ -94697,6 +94753,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Örebro Läns FF**
 
     123 047 41 48
+
+
+
+
+**Örebro Läns Grafikgrupp, ÖLG**
+
+    123 524 97 76
 
 
 

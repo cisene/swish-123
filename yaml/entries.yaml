@@ -21019,6 +21019,14 @@ entries:
   - massage
   web: https://falumassagehalsa.se/
 
+- entry: 1231023472
+  orgName: NJA Konstförening
+  orgNumber: 802533-8768
+  comment: null
+  categories:
+  - konstförening
+  web: https://njafritid.se/
+
 - entry: 1231024900
   orgName: Bostadsrättsföreningen Sikreno Strand
   orgNumber: 716420-1969
@@ -39310,6 +39318,14 @@ entries:
   - naturvård
   web: https://www.kullabergsnatur.se/
 
+- entry: 1231947084
+  orgName: Södra Ölands Konstförening
+  orgNumber: 832000-5971
+  comment: null
+  categories:
+  - konstförening
+  web: https://sokoland.se/
+
 - entry: 1231947233
   orgName: Solfjäderstaden IBK
   orgNumber: 824000-8964
@@ -40799,6 +40815,14 @@ entries:
   categories:
   - ryttarförening
   web: https://vasterviksrf.se/
+
+- entry: 1232013498
+  orgName: Mjölby Konstförening
+  orgNumber: 823000-6184
+  comment: null
+  categories:
+  - konstförening
+  web: https://mjolbykonstforening.se/
 
 - entry: 1232013753
   orgName: IFK Nyköping
@@ -53712,6 +53736,14 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1232667764
+  orgName: Sveriges Allmänna Konstförening
+  orgNumber: 802000-1155
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.konstforeningen.se/
+
 - entry: 1232668143
   orgName: Enköpings SK HK
   orgNumber: 817001-4180
@@ -58421,6 +58453,14 @@ entries:
   - dykarklubb
   - idrottsförening
   web: https://lsdk.se/
+
+- entry: 1232880979
+  orgName: Konstnärshusets Vänner
+  orgNumber: 802010-0825
+  comment: null
+  categories:
+  - intresseförening
+  web: https://konstnarshuset.org/om-oss/konstnarshusets-vanner/
 
 - entry: 1232881068
   orgName: Klippans Karateklubb
@@ -74552,6 +74592,14 @@ entries:
   - kampsportsförening
   web: https://uppsalaaikido.sportadmin.se/
 
+- entry: 1233705290
+  orgName: Konstföreningen Spiran
+  orgNumber: 802509-9725
+  comment: null
+  categories:
+  - konstförening
+  web: https://www.foreningenspiran.se/
+
 - entry: 1233705308
   orgName: Jönköpingsbygdens Genealogiska Förening
   orgNumber: 826002-0337
@@ -77944,6 +77992,15 @@ entries:
   - idrottsförening
   web: https://udgc.se/
 
+- entry: 1233885845
+  orgName: Konsthantverkarna Karlstad
+  orgNumber: 716451-0401
+  comment: null
+  categories:
+  - intresseförening
+  - konsthantverk
+  web: https://www.konsthantverkarnakarlstad.se/
+
 - entry: 1233886231
   orgName: Öna Bygdegårdsförening
   orgNumber: 884401-4301
@@ -80844,7 +80901,7 @@ entries:
   web: https://www.orumsbyalag.se/
 
 - entry: 1234026811
-  orgName: Not Quite Ekonomisk förening
+  orgName: Not Quite
   orgNumber: 769607-9065
   comment: null
   categories:
@@ -81517,6 +81574,14 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.uppsalahk.se/
+
+- entry: 1234074431
+  orgName: Skånes Konstförening
+  orgNumber: 846000-5807
+  comment: null
+  categories:
+  - konstförening
+  web: https://skaneskonst.se/
 
 - entry: 1234074902
   orgName: Ystad Skyttegille
@@ -103327,6 +103392,14 @@ entries:
   categories:
   - intresseförening
   web: https://isaac-sverige.se/
+
+- entry: 1235249776
+  orgName: Örebro Läns Grafikgrupp, ÖLG
+  orgNumber: 875001-7116
+  comment: null
+  categories:
+  - konstnärsförening
+  web: http://www.grafikgruppen.nu/
 
 - entry: 1235250014
   orgName: Södermanlands spelmansförbund
