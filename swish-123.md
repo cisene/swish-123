@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-04-28-rev-210119
+Revision: 2025-05-01-rev-175107
 
-Nummer: 15862
+Nummer: 15876
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -10807,6 +10807,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Båtklubben Bothnia**
 
     123 683 98 80
+
+
+
+
+**Båtklubben Färingarna**
+
+    123 213 98 71
 
 
 
@@ -27313,6 +27320,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hallstahammar Kolbäcks Båtklubb**
+
+    123 346 23 89
+
+
+
+
 **Hallstahammars Orienteringsklubb**
 
     123 517 44 95
@@ -28633,6 +28647,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Heleneborgs Båtklubb**
+
+    123 204 69 02
+
+
+
+
 **Helenelund IK Bandy**
 
     123 480 88 20
@@ -29527,6 +29548,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hjortsberga Samhällsförening**
 
     123 595 24 94
+
+
+
+
+**Hjulbäck Båtklubb**
+
+    123 069 16 67
 
 
 
@@ -31669,6 +31697,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hävla Sportklubb**
 
     123 266 47 61
+
+
+
+
+**Håbo Båtsällskap**
+
+    123 481 76 72
 
 
 
@@ -34198,6 +34233,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Immelns Båtklubb**
+
+    123 481 07 19
+
+
+
+
 **Immetorp BK**
 
     123 162 95 00
@@ -36606,6 +36648,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Junis Älvsborg**
 
     123 679 62 39
+
+
+
+
+**Juniskärs Båtklubb**
+
+    123 313 74 52
 
 
 
@@ -48739,6 +48788,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Mariefreds Båtklubb**
+
+    123 290 55 45
+
+
+
+
 **Mariefreds Församling**
 
     123 340 88 61
@@ -50533,6 +50589,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Motala Vattenskidklubb**
 
     123 467 25 64
+
+
+
+
+**Motala Vätterfiskeklubb**
+
+    123 510 12 09
 
 
 
@@ -56013,6 +56076,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Oxnö Båtförening**
+
+    123 340 09 34
+
+
+
+
 **Oxyboost-O2 Sweden AB**
 
     123 014 37 92
@@ -56710,6 +56780,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Pilgrimstads IF**
 
     123 595 01 91
+
+
+
+
+**Piluddens Båtklubb**
+
+    123 199 98 53
 
 
 
@@ -63391,6 +63468,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rättviks Båtklubb**
+
+    123 611 10 25
+
+
+
+
 **Rättviks GK**
 
     123 436 94 01 - 55+
@@ -67586,6 +67670,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skurusundets Båtsällskap**
 
     123 668 56 22
+
+
+
+
+**Skutskärs Hundgårdsförening**
+
+    123 647 14 29
 
 
 
@@ -89262,6 +89353,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vägsjöfors Herrgård**
 
     123 225 50 40
+
+
+
+
+**Väjerns Båtklubb**
+
+    123 130 08 54
 
 
 
