@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-01-rev-175107
+Revision: 2025-05-03-rev-004423
 
-Nummer: 15876
+Nummer: 15915
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -5478,6 +5478,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Björboholms Motorbåtsklubb**
+
+    123 396 98 05
+
+
+
+
 **Björboholms Tennisklubb**
 
     123 203 23 40
@@ -5814,6 +5821,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **BK Flamman**
 
     123 672 25 16 - A-lag Damer
+
+
+
+
+**BK Flottaren**
+
+    123 453 60 17
 
 
 
@@ -10818,6 +10832,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Båtklubben Neptun**
+
+    123 114 70 73
+
+
+
+
 **Båtklubben Wega**
 
     123 682 70 34
@@ -11618,6 +11639,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Christianstads MotorbåtsKlubb, CMK**
+
+    123 638 71 12
+
+
+
+
 **Christianstads Skyttesällskap**
 
     123 018 47 88 - Tävlingsavgifter
@@ -11985,13 +12013,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Clubhouse Restaurant Kristianstad / Saga Mat och Event AB**
 
     123 322 40 43
-
-
-
-
-**CMK - Christianstads MotorbåtsKlubb**
-
-    123 638 71 12
 
 
 
@@ -14370,6 +14391,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dyltabruks Ryttarförening**
 
     123 026 79 22
+
+
+
+
+**Dyröns Båtklubb**
+
+    123 197 19 51
 
 
 
@@ -18933,6 +18961,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Finspångs Båtsällskap, FBS**
+
+    123 335 23 82
+
+
+
+
 **Finspångs CA**
 
     123 168 72 92
@@ -19006,6 +19041,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fiskarbo Byförening**
 
     123 486 35 85
+
+
+
+
+**Fiskebäcks Båtförening**
+
+    123 092 13 04
 
 
 
@@ -26472,6 +26514,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gävle Motorbåtsklubb**
+
+    123 626 69 69
+
+
+
+
 **Gävle Pingstförsamling**
 
     123 471 13 05
@@ -26580,6 +26629,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gåke Gunnarssons Fanclub / Berndt-Åke Gunnarsson**
 
     123 109 74 50
+
+
+
+
+**Gålö Båtklubb**
+
+    123 151 12 94
 
 
 
@@ -26708,6 +26764,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 500 95 19
 
     123 512 86 16
+
+
+
+
+**Göta Båtklubb**
+
+    123 609 54 83
 
 
 
@@ -27561,6 +27624,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Hammarbyledens Motorbåtsklubb**
 
+    123 100 81 43
+
     123 283 34 24 - Stugbokning
 
     123 393 35 79 - Klubbmästare/Kiosk
@@ -27636,6 +27701,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hamre Scoutkår**
 
     123 508 76 22
+
+
+
+
+**Hamrånge Fiskevårdsområde**
+
+    123 120 63 33
 
 
 
@@ -29538,6 +29610,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hjortnäs Båtklubb**
+
+    123 039 77 94
+
+
+
+
 **Hjortnäs-Sunnanängs Hembygdsförening**
 
     123 020 11 94
@@ -29920,6 +29999,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Holistic Traning AB**
 
     123 602 75 93
+
+
+
+
+**Holma Båtklubb**
+
+    123 323 55 20
 
 
 
@@ -31761,6 +31847,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Håcksviks Hembygdsförening**
 
     123 645 54 30
+
+
+
+
+**Hågelby 4H-gård**
+
+    123 543 17 88
 
 
 
@@ -37537,6 +37630,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kallhälls Båtklubb**
+
+    123 345 67 12
+
+
+
+
 **Kallinge Museum**
 
     123 226 77 30
@@ -39168,6 +39268,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kilsvikens Båtklubb**
+
+    123 191 78 30
+
+
+
+
 **KiM - Kvinnojouren i Mark Svenljunga & Tranemo**
 
     123 008 23 39
@@ -39442,6 +39549,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kisa Båtklubb**
 
     123 078 50 14
+
+    123 305 36 59
 
 
 
@@ -41096,6 +41205,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kristi Uppståndelses Ortodoxa Församling**
 
     123 278 80 99
+
+
+
+
+**Kristianstad City**
+
+    123 170 41 47
 
 
 
@@ -43207,6 +43323,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kåge Båtklubb**
+
+    123 609 56 16
+
+
+
+
 **Kågeröds Skyttegille**
 
     123 624 30 67
@@ -45251,6 +45374,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Linköpings Segelsällskap**
+
+    123 056 38 41 - klubbhusfika
+
+    123 566 50 05 - uthyrning av klubbåtar
+
+
+
+
 **Linköpings Senioruniversitet**
 
     123 265 66 43
@@ -46372,6 +46504,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ljusne Ala Motorbåtsklubb**
+
+    123 411 40 21
+
+
+
+
 **Ljusne Sportfiskeklubb**
 
     123 055 48 08
@@ -47291,6 +47430,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lungcancerföreningen**
 
     123 662 44 15
+
+
+
+
+**Luntertuns Båtklubb**
+
+    123 445 22 31
 
 
 
@@ -53639,6 +53785,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Norrsken Mind / Stiftelsen Osmand Foundation**
 
     123 406 64 11
+
+
+
+
+**Norrsundets Motorbåtsklubb**
+
+    123 236 07 17
 
 
 
@@ -63793,6 +63946,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Röe Sandvik Båtklubb**
+
+    123 608 67 14
+
+
+
+
 **Rögle BK**
 
     123 124 04 98 - Team 14
@@ -63893,6 +64053,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rörs Bygdegårdsförening**
 
     123 618 55 65
+
+
+
+
+**Rörstrands Båtklubb**
+
+    123 289 34 69
 
 
 
@@ -67834,6 +68001,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skärgårdsstads Samfällighetsförening**
 
     123 637 80 04
+
+
+
+
+**Skärgårdsstiftelsen**
+
+    123 661 75 00
 
 
 
@@ -75940,6 +76114,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska DF65 Förbundet**
+
+    123 603 43 75
+
+
+
+
 **Svenska Diabetesförbundet**
 
     123 900 77 41
@@ -79621,6 +79802,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Södra Hjälmarens Båtklubb, SHB**
+
+    123 479 49 54
+
+
+
+
 **Södra Härene IF**
 
     123 388 48 89
@@ -79631,6 +79819,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Södra Kalmar Biodlardistrikt**
 
     123 604 00 67
+
+
+
+
+**Södra Kinda Båtklubb**
+
+    123 311 52 43
 
 
 
@@ -82070,6 +82265,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tegelvikens Båtklubb**
+
+    123 161 52 10
+
+
+
+
 **Teglund Publishing AB**
 
     123 559 71 33
@@ -83512,6 +83714,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Torshälla Motorbåtsklubb**
+
+    123 427 01 79
+
+
+
+
 **Torshälla-Nyby IS**
 
     123 083 27 25
@@ -83843,6 +84052,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tranås Kvinnojour**
 
     123 495 08 46
+
+
+
+
+**Tranås Motorbåtsklubb**
+
+    123 392 40 99
 
 
 
@@ -84825,6 +85041,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tyresö Strands Båtklubb**
+
+    123 419 40 07
+
+
+
+
 **Tyresö Trollbäcken IBK**
 
     123 092 31 36
@@ -85272,6 +85495,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Uddevalla Konståkningsförening**
 
     123 514 99 50
+
+
+
+
+**Uddevalla Motorbåtsklubb**
+
+    123 418 18 97
 
 
 
@@ -86115,6 +86345,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Upplands Taxklubb**
 
     123 056 30 98
+
+
+
+
+**Upplands Väsby Båtsällskap**
+
+    123 219 97 01
 
 
 
@@ -89864,6 +90101,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Värnamo Modelljärnvägsförening, VMJF**
 
     123 544 07 63
+
+
+
+
+**Värnamo Motorbåtsklubb**
+
+    123 294 06 58
 
 
 
@@ -94247,6 +94491,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Åva Båtsällskap**
+
+    123 396 76 43
+
+
+
+
 
 
 ## Ö
@@ -95772,6 +96023,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Östersunds Konståkningsförening**
 
     123 489 87 97
+
+
+
+
+**Östersunds Motorbåtsklubb**
+
+    123 268 39 77
 
 
 
