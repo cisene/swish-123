@@ -2333,6 +2333,16 @@ entries:
   - politiskt parti
   web: https://partietvandpunkt.se/
 
+- entry: 1230128827
+  orgName: Sailstar / Sandstorm Produktion AB
+  orgNumber: 556759-9229
+  comment: null
+  categories:
+  - försäljning
+  - kurser
+  - utrustning
+  web: https://sailstar.se/
+
 - entry: 1230129080
   orgName: Thai Cha-da AB
   orgNumber: 559393-7781
@@ -32635,6 +32645,14 @@ entries:
   - idrottsförening
   web: https://www.h65.se/
 
+- entry: 1231590892
+  orgName: Öckerö Hamn
+  orgNumber: 757202-5562
+  comment: null
+  categories:
+  - hamnförening
+  web: https://www.ockerohamn.se/
+
 - entry: 1231591817
   orgName: Yoga & Vänner AB
   orgNumber: 559113-2559
@@ -44545,6 +44563,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/dannemorabygden
 
+- entry: 1232195519
+  orgName: Cruising Strömsund
+  orgNumber: 802456-5346
+  comment: null
+  categories:
+  - bilklubb
+  - bilsport
+  web: https://www.facebook.com/groups/1563787900530351
+
 - entry: 1232196004
   orgName: Waxholms Gymnastikförening
   orgNumber: 812000-0289
@@ -46641,6 +46668,15 @@ entries:
   - innerwheel
   - kvinnligt nätverk
   web: https://www.innerwheel.se/
+
+- entry: 1232272938
+  orgName: Sätra Varvs Intresseförening, SVI
+  orgNumber: 802453-6610
+  comment: null
+  categories:
+  - båtvarv
+  - hamnförening
+  web: https://satravarv.se/
 
 - entry: 1232272953
   orgName: Team Rynkeby
@@ -56982,6 +57018,17 @@ entries:
   - charterbuss
   web: https://www.veddigebuss.se/
 
+- entry: 1232788925
+  orgName: Runmarö Yacht Club, RYC
+  orgNumber: 802433-0006
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  - yachtklubb
+  - yachtsällskap
+  web: https://www.ryc.se/
+
 - entry: 1232789352
   orgName: H.E.F Valbo BK
   orgNumber: 854601-1886
@@ -60594,6 +60641,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/katrineholmsbygden
 
+- entry: 1232990448
+  orgName: Wisby Segelsällskap
+  orgNumber: 834000-4665
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://www.wisbysegelsallskap.se/
+
 - entry: 1232990513
   orgName: Hundar Utan Hem
   orgNumber: 802432-7630
@@ -63674,6 +63730,15 @@ entries:
   - folkets hus
   - lokaluthyrning
   web: https://jarboportalen.se/foreningar/folketshus.php
+
+- entry: 1233132990
+  orgName: HappyBoat AB
+  orgNumber: 559066-0238
+  comment: null
+  categories:
+  - havsvård
+  - vattenvård
+  web: https://www.happyboat.se/
 
 - entry: 1233133576
   orgName: Hörselskadades Riksförbund
@@ -117389,6 +117454,15 @@ entries:
   - idrottsförening
   web: https://www.eik.se/
 
+- entry: 1235897004
+  orgName: RTC Båtkontakten AB
+  orgNumber: 556877-5786
+  comment: null
+  categories:
+  - båtuthyrning
+  - båtvård
+  web: https://rtc.se/
+
 - entry: 1235897038
   orgName: IF Team Hudik
   orgNumber: 887501-3180
@@ -121758,6 +121832,15 @@ entries:
   - museum
   web: https://fyrverkerimuseet.se/
 
+- entry: 1236128771
+  orgName: Segelsällskapet Roxen
+  orgNumber: 822002-6242
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://ssroxen.se/
+
 - entry: 1236128813
   orgName: Tornedalen FC
   orgNumber: 802535-2983
@@ -124212,6 +124295,16 @@ entries:
   categories:
   - bilvård
   web: null
+
+- entry: 1236232243
+  orgName: Skebokvarns Motorbåtsklubb
+  orgNumber: 802504-9456
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  - motorbåtsklubb
+  web: https://smbk.se/
 
 - entry: 1236232763
   orgName: Vallentuna Judoklubb - Judo
@@ -133290,6 +133383,7 @@ entries:
   comment: null
   categories:
   - båtklubb
+  - båtsällskap
   web: http://www.mellerudsbatklubb.com/
 
 - entry: 1236689699
@@ -133933,6 +134027,16 @@ entries:
   - motionsklubb
   - simklubb
   web: https://sok-knallen.se/
+
+- entry: 1236715197
+  orgName: Västkustens Racing och Motorbåtsklubb, VROM
+  orgNumber: 802458-3257
+  comment: null
+  categories:
+  - eventarrangör
+  - motorbåtsklubb
+  - racerbåtklubb
+  web: https://motorsporth2o.se/
 
 - entry: 1236716773
   orgName: Gesunda Bystugeförening

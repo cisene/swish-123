@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-03-rev-004423
+Revision: 2025-05-03-rev-184745
 
-Nummer: 15915
+Nummer: 15926
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -12162,6 +12162,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 171 74 61
 
     123 617 96 83 - Skills Day Game
+
+
+
+
+**Cruising Strömsund**
+
+    123 219 55 19
 
 
 
@@ -27974,6 +27981,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Happy Picnic AB**
 
     123 104 79 84
+
+
+
+
+**HappyBoat AB**
+
+    123 313 29 90
 
 
 
@@ -63204,6 +63218,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**RTC Båtkontakten AB**
+
+    123 589 70 04
+
+
+
+
 **Ruda Revy och Teatersällskap**
 
     123 589 08 27
@@ -63298,6 +63319,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Runmarö Kapellstiftelse**
 
     123 054 34 21
+
+
+
+
+**Runmarö Yacht Club, RYC**
+
+    123 278 89 25
 
 
 
@@ -64426,6 +64454,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sailstar / Sandstorm Produktion AB**
+
+    123 012 88 27
+
+
+
+
 **Sakura Blomsterhandel AB**
 
     123 062 75 62
@@ -65550,6 +65585,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Segelsällskapet FRAM**
 
     123 132 34 35
+
+
+
+
+**Segelsällskapet Roxen**
+
+    123 612 87 71
 
 
 
@@ -67000,6 +67042,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 037 56 75
 
     123 350 13 50
+
+
+
+
+**Skebokvarns Motorbåtsklubb**
+
+    123 623 22 43
 
 
 
@@ -79055,6 +79104,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sätra Varvs Intresseförening, SVI**
+
+    123 227 29 38
+
+
+
+
 **Sätterstabygdens Hembygdsförening**
 
     123 271 11 90
@@ -91049,6 +91105,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västkustens Racing och Motorbåtsklubb, VROM**
+
+    123 671 51 97
+
+
+
+
 **Västmanlands Läns Taxklubb**
 
     123 158 56 52
@@ -92143,6 +92206,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **WIP i Borlänge AB**
 
     123 553 10 41
+
+
+
+
+**Wisby Segelsällskap**
+
+    123 299 04 48
 
 
 
@@ -94505,6 +94575,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Öbacka Jazz & Blues**
 
     123 306 75 76
+
+
+
+
+**Öckerö Hamn**
+
+    123 159 08 92
 
 
 
