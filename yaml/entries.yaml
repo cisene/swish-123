@@ -18157,6 +18157,14 @@ entries:
   - båtklubb
   web: https://www.aspabatklubb.se/
 
+- entry: 1230888396
+  orgName: Vänergaleasen Minas Vänner
+  orgNumber: 869001-1633
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.msmina.se/
+
 - entry: 1230888610
   orgName: Rådmansö Församling
   orgNumber: 252000-1237
@@ -23024,6 +23032,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
+
+- entry: 1231131200
+  orgName: Svenska Jolly-Scottförbundet
+  orgNumber: null
+  comment: null
+  categories:
+  - idrottsförbund
+  - segelsällskap
+  web: https://jollyscott.se/
 
 - entry: 1231131259
   orgName: Vickleby Hembygdsförening
@@ -42494,6 +42511,15 @@ entries:
   - lionsklubb
   web: https://taby.lions.se/
 
+- entry: 1232107167
+  orgName: Seglings Experten / Lennart Jansson Konsult i KBA AB
+  orgNumber: 556435-0188
+  comment: null
+  categories:
+  - kurser
+  - utbildning
+  web: https://seglingsexperten.se/
+
 - entry: 1232107316
   orgName: Team Rynkeby
   orgNumber: 802533-7653
@@ -55589,6 +55615,15 @@ entries:
   categories:
   - religion
   web: https://ansgarsforsamlingen.se/
+
+- entry: 1232722023
+  orgName: Oskarshamns Sjöfartsförening
+  orgNumber: 832800-1279
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://sjofartsforeningen.se/
 
 - entry: 1232722056
   orgName: Romelanda Hembygdsförening
@@ -103048,6 +103083,15 @@ entries:
   - intresseförening
   web: http://biblis.se/
 
+- entry: 1235194402
+  orgName: Fisksätra Båtklubb
+  orgNumber: 814000-3628
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://fisksatrabatklubb.se/
+
 - entry: 1235195284
   orgName: Tjärnö Hembygdsförening
   orgNumber: 802443-8437
@@ -127074,6 +127118,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1236365340
+  orgName: Ystads Segelsällskap
+  orgNumber: 848000-3378
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://www.yss.nu/
+
 - entry: 1236365647
   orgName: Svenska Kyrkan på Orust
   orgNumber: 252003-6399
@@ -139491,6 +139544,7 @@ entries:
   comment: null
   categories:
   - båtklubb
+  - båtsällskap
   - segelklubb
   - segelsällskap
   web: https://www.bbss.se/

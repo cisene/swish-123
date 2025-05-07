@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-05-03-rev-184721
+# Date: 2025-05-07-rev-192355
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2025,6 +2025,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230887463	802513-2625	Ort Till Ort, OTO	https://orttillort.org/	hyresgästförening	Stödfond
 1230887489	559161-5132	Dark Funeral Official Merchandise / Dark Funeral AB	https://www.diaboliswear.com/	försäljning,kläder	
 1230888156	875700-9678	Aspa Båtklubb	https://www.aspabatklubb.se/	båtklubb	
+1230888396	869001-1633	Vänergaleasen Minas Vänner	https://www.msmina.se/	intresseförening	
 1230888610	252000-1237	Rådmansö Församling	https://www.svenskakyrkan.se/roslagens-ostra-pastorat/radmanso-forsamling	religion	
 1230888917	556706-5262	Tillberga Kyrka	https://www.svenskakyrkan.se/vasteras/tillberga-kyrka	religion	Kollekt
 1230888966	802426-1250	Sverige för UNHCR	https://sverigeforunhcr.se/	godkänd gåvomottagare,hjälporganisation	
@@ -4731,6 +4732,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232104859	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Falkviksskolan
 1232105104	802495-2577	SPF Seniorerna Salem	https://spfsalem.se/	pensionärsklubb	
 1232106854	816000-6071	Lions Club Täby	https://taby.lions.se/	lionsklubb	
+1232107167	556435-0188	Seglings Experten / Lennart Jansson Konsult i KBA AB	https://seglingsexperten.se/	kurser,utbildning	
 1232107316	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Norrtullskolan
 1232107670	802533-0328	Rättvisa Vindar Norra Östergötland, RVNO	https://rvno.se/	intresseförening,opinionsbildning	
 1232107845	559204-4852	DK-9 Hundskola / DK-9 Säkerhetstjänst AB	https://www.dk9hundskola.se/	hundskola,hundsport,utbildning	
@@ -6184,6 +6186,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232721660	869000-0495	Pingstkyrkan Lidköping	https://www.pingstlidkoping.se/	religion	Kollekt Örslösa
 1232721694	802417-4925	Uppsala Katthem / Föreningen Samvetet	https://www.uppsalakatthem.com/	djurskydd,katthem	
 1232721744	802437-0838	Ansgarsförsamlingen i Västerås	https://ansgarsforsamlingen.se/	religion	
+1232722023	832800-1279	Oskarshamns Sjöfartsförening	https://sjofartsforeningen.se/	båtklubb,båtsällskap	
 1232722056	853300-5503	Romelanda Hembygdsförening	https://www.romelandahembygdsforening.se/	hembygdsförening	
 1232722171	819000-8683	CK Dainon	https://www.svenskalag.se/ckdainon	cykelklubb,idrottsförening,landsvägcykelklubb,mountainbikeklubb	
 1232722221	853300-5685	Stenungsunds Segelsällskap	https://www.stss.se/	segelklubb,segelsällskap	
@@ -11443,6 +11446,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235193073	866000-4188	Mariestads AIF	https://www.mariestadsaif.se/	atletklubb,badmintonklubb,friidrottsförening,handbollsklubb,idrottsförening,löparklubb	
 1235194139	559322-8371	Lost Goats AB		löpning	
 1235194303	802006-9665	Föreningen Biblis	http://biblis.se/	intresseförening	
+1235194402	814000-3628	Fisksätra Båtklubb	https://fisksatrabatklubb.se/	båtklubb,båtsällskap	
 1235195284	802443-8437	Tjärnö Hembygdsförening	https://www.hembygd.se/tj-rn-hembygdsf-rening	hembygdsförening	
 1235196308	817301-5572	Västanå HästFörening		hästklubb,ridklubb	
 1235196316	829500-6376	Nottebäcks Hembygdsförening	https://www.hembygd.se/notteback	hembygdsförening	
@@ -14083,6 +14087,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236360408	559036-7859	Gerstaberg Gård / Gerstaberg Säteri AB	https://gerstaberg.com/	köttproducent,lantbruk,mjölkproducent,närproducerat	
 1236360549	898500-4012	Jokkmokks Ridklubb	https://www.laget.se/JokkmokksRidklubb/	hästsport,ridklubb,ryttarförening	
 1236364921	802535-9137	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kristianstad, Mörrums Skola
+1236365340	848000-3378	Ystads Segelsällskap	https://www.yss.nu/	segelklubb,segelsällskap	
 1236365647	252003-6399	Svenska Kyrkan på Orust	https://www.svenskakyrkan.se/orust	religion	Pilgrim Orust
 1236365860	832000-4123	Föreningen Gräsgårds Bastu / Gräsgårds Badhus	https://sites.google.com/site/graesgaardsbastu/	badkultur,bastukultur,förening	
 1236366553	827500-6016	OK Njudung	https://www.oknjudung.se/	idrottsförening,orienteringsklubb	
@@ -15455,7 +15460,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236988554	716422-1926	Bostadsrättsföreningen Zinken	https://www.brfzinken.se/	bostadsrättsförening	
 1236988794	802406-4860	SPF Seniorerna Hedvig Eleonora	https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-hedvig-eleonora/	pensionärsklubb	
 1236988935	556869-4193	GBA Konsult i Falun AB	https://www.gruppandersson.se/	intresseorganisation,nätverksgrupp	
-1236991046	839400-3274	Båstad Båt- och Segelsällskap	https://www.bbss.se/	båtklubb,segelklubb,segelsällskap	
+1236991046	839400-3274	Båstad Båt- och Segelsällskap	https://www.bbss.se/	båtklubb,båtsällskap,segelklubb,segelsällskap	
 1236991145	556533-8257	AD-Teknik AB	https://www.adteknik.se/	fordonsutrustning	
 1236991160	826000-3614	Pingstkyrkan Kaxholmen	https://pingstkaxholmen.se/	religion	Missionskassan
 1236991228	540401-XXXX	Njut i Orsanaturen / Kristina Lillpers	https://www.njutiorsanaturen.se/	friluftsliv,guidade turer	

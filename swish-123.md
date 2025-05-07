@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-03-rev-184745
+Revision: 2025-05-07-rev-192419
 
-Nummer: 15926
+Nummer: 15931
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -19106,6 +19106,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fiskfoder.se**
 
     123 105 23 72
+
+
+
+
+**Fisksätra Båtklubb**
+
+    123 519 44 02
 
 
 
@@ -56074,6 +56081,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Oskarshamns Sjöfartsförening**
+
+    123 272 20 23
+
+
+
+
 **Oskarshamns SK**
 
     123 691 15 31
@@ -65650,6 +65664,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Segerstads Hembygsförening**
 
     123 401 12 01
+
+
+
+
+**Seglings Experten / Lennart Jansson Konsult i KBA AB**
+
+    123 210 71 67
 
 
 
@@ -89685,6 +89706,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vänergaleasen Minas Vänner**
+
+    123 088 83 96
+
+
+
+
 **Vänersborgs FK**
 
     123 040 37 09
@@ -92816,6 +92844,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ystads JVF**
 
     123 547 19 66
+
+
+
+
+**Ystads Segelsällskap**
+
+    123 636 53 40
 
 
 
