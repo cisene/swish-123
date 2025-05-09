@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-07-rev-192419
+Revision: 2025-05-09-rev-160445
 
-Nummer: 15931
+Nummer: 15955
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -7282,6 +7282,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bosjöklosters Vänner**
 
     123 332 70 46
+
+
+
+
+**Bosjöns Fiskevårdsområde**
+
+    123 563 19 73
 
 
 
@@ -20042,6 +20049,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Fotö Gymnastik och Idrottsförening**
+
+    123 263 56 05
+
+
+
+
 **Framnäs Hamnförening**
 
     123 545 80 13
@@ -23336,6 +23350,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Svenska Stridsbåtar**
+
+    123 008 25 86
+
+
+
+
 **Föreningen Svenska Tonsättare, FST**
 
     123 675 88 74
@@ -25198,6 +25219,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 403 17 95 - medlemsavgifter
 
     123 511 49 47
+
+
+
+
+**Granbergsträsk Byagård**
+
+    123 414 91 75
+
+
+
+
+**Granec Maskin AB**
+
+    123 172 57 95
 
 
 
@@ -36199,6 +36234,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jallan / Johan Stålhäll AB**
+
+    123 046 75 06
+
+
+
+
 **Jami Hundsport AB**
 
     123 131 40 95
@@ -41436,6 +41478,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Kristinehamns Orienteringsklubb**
+
+    123 081 39 15
 
     123 671 90 74
 
@@ -48976,6 +49020,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Mariefreds Marina AB**
+
+    123 120 66 14
+
+
+
+
 **Mariefreds Ridklubb**
 
     123 216 75 83
@@ -49071,6 +49122,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Marinarkeologiska Sällskapet, MAS**
 
     123 155 47 32
+
+
+
+
+**Marinexpress Brandt Båt / Lysmarine AB**
+
+    123 054 82 30
 
 
 
@@ -51014,6 +51072,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Mullsjöns Fiskevårdsområdesförening**
+
+    123 431 43 99
+
+
+
+
 **Mulvad Jakt och Hundträning AB**
 
     123 429 04 41
@@ -52360,9 +52425,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nedre Upperudsälvens FVO**
+
+    123 030 48 73
+
+
+
+
 **Nema Problema**
 
     123 291 85 22
+
+
+
+
+**Neptunkryssarförbundet**
+
+    123 207 93 74
 
 
 
@@ -54593,6 +54672,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nynäshamns Segelsällskap - Nynäshamns Yacht Club**
+
+    123 694 82 93
+
+
+
+
 **Nyox Vipers Nyköping Oxelösund Discgolfklubb**
 
     123 477 67 12
@@ -54687,6 +54773,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Näsets Budoklubb**
 
     123 487 32 61
+
+
+
+
+**Näsets Båtvarv AB**
+
+    123 157 34 68
 
 
 
@@ -83923,6 +84016,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Torsösnipans Vänner**
+
+    123 385 27 20
+
+
+
+
 **Tortuna Bygdegårdsförening**
 
     123 040 36 59
@@ -86016,6 +86116,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Umeå Motorbåtssällskap**
+
+    123 608 27 05
+
+
+
+
 **Umeå Muay Thai**
 
     123 495 14 06
@@ -86461,6 +86568,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Uppsala Akademiska Roddarsällskap**
+
+    123 567 35 95
+
+
+
+
 **Uppsala BC 90**
 
     123 397 42 27 - Lotter
@@ -86867,6 +86981,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 170 61 34 - Kollekt
 
     123 382 76 15 - Bokbord
+
+
+
+
+**Ursvikens Segelsällskap, URSS**
+
+    123 588 52 49
 
 
 
@@ -91105,6 +91226,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västerås swimrun / RMSR swimrun**
+
+    123 329 23 56
+
+
+
+
 **Västerås Taekwondoklubb**
 
     123 688 87 47
@@ -91115,6 +91243,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerås Trafikskola**
 
     123 185 42 23
+
+
+
+
+**Västerås Travklubb**
+
+    123 658 66 30
 
 
 
@@ -92449,6 +92584,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Y:ets Framtid Intresseförening**
 
     123 621 05 79
+
+
+
+
+**Yacht Klub Polonia Skandynawia**
+
+    123 608 32 65
 
 
 
@@ -94218,6 +94360,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Årstavikens Segelsällskap**
+
+    123 360 38 59
+
+
+
+
 **Årsunda IF**
 
     123 087 93 79
@@ -94414,6 +94563,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Åsgarns Bygdegårdsförening**
+
+    123 065 62 31
+
+
+
+
 **Åstols Samhällsförening**
 
     123 173 03 57
@@ -94484,6 +94640,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Åsätra MK**
 
     123 541 23 09
+
+
+
+
+**Återbruksbilen / Brad Recycling AB**
+
+    123 646 29 80
 
 
 
