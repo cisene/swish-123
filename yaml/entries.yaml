@@ -61454,6 +61454,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/kalmar-stad
 
+- entry: 1233030202
+  orgName: BUFFF Västmanlands i Västerås
+  orgNumber: 802512-9688
+  comment: null
+  categories:
+  - barnkonventionen
+  - barnrättsorganisation
+  web: https://bufff.se/vastmanland/
+
 - entry: 1233030210
   orgName: PRO Knutby
   orgNumber: 802451-6109
@@ -74396,6 +74405,15 @@ entries:
   categories:
   - scoutkår
   web: https://sandared.scout.se/
+
+- entry: 1233660362
+  orgName: Industrihistoriska Föreningen i Västerås
+  orgNumber: 802431-6880
+  comment: null
+  categories:
+  - historieförening
+  - kulturförening
+  web: https://www.hembygd.se/industristaden
 
 - entry: 1233662376
   orgName: Söderköpings Brukshundklubb
@@ -103767,6 +103785,16 @@ entries:
   - hjärnforskning
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1235221734
+  orgName: Din Trafikskola i Västerås
+  orgNumber: 559393-0307
+  comment: null
+  categories:
+  - körkort
+  - trafikskola
+  - utbildning
+  web: https://www.dintrafikskolaivasteras.se/
 
 - entry: 1235222385
   orgName: Salemförsamlingen-Korskyrkan i Mölndal

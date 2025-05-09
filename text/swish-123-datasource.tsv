@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-05-09-rev-160408
+# Date: 2025-05-09-rev-164055
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -6828,6 +6828,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233025111	802411-2909	Hammarby IF	https://hammarbyboule.se/	bouleklubb,idrottsförening	Boulesektionen
 1233026242	898801-0636	Öjebyns IBF	https://www.laget.se/OjebynsIBF/	idrottsförening,innebandyklubb	F13
 1233028131	832401-8806	Kalmar Stads Hembygdsförening	https://www.hembygd.se/kalmar-stad	hembygdsförening	
+1233030202	802512-9688	BUFFF Västmanlands i Västerås	https://bufff.se/vastmanland/	barnkonventionen,barnrättsorganisation	
 1233030210	802451-6109	PRO Knutby	https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-uppsala/foreningar/knutby.html	pensionärsklubb	
 1233031168	802428-4088	Föreningen M 20	https://minsveparen.se/	intresseförening	
 1233031697	867200-7609	Ryfors Golfklubb	https://www.ryforsgk.se/	golfklubb	Cafe
@@ -8266,6 +8267,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233657848	802426-1250	Sverige för UNHCR	https://sverigeforunhcr.se/	godkänd gåvomottagare,hjälporganisation	
 1233658614	716415-1644	Bostadsrättsföreningen Frögårdarna i Skellefteå	https://fro.ac/	bostadsrättsförening	
 1233658739	864501-1738	Sandareds Scoutkår	https://sandared.scout.se/	scoutkår	
+1233660362	802431-6880	Industrihistoriska Föreningen i Västerås	https://www.hembygd.se/industristaden	historieförening,kulturförening	
 1233662376	825003-1294	Söderköpings Brukshundklubb	https://www.soderkopingsbk.com/	brukshundklubb,hundsport	
 1233662541	882601-7074	Stiftelsen Estoniaoffren och Anhöriga, SEA	https://www.seainfo.se/	anhörigorganisation,stiftelse	
 1233662814	817000-6541	Fanna BK	https://www.laget.se/FannaBK/	fotbollsklubb,idrottsförening	P-08
@@ -11519,6 +11521,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235219787	878500-0749	Kungsörs Baptistförsamling	https://www.centrumkyrkankungsor.se/	religion	Lägerverksamhet
 1235219993	802463-4936	Råå Byalag	https://www.facebook.com/raabyalag/	byalag	
 1235220173	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Sundsta- Ällvkullegymnasiet
+1235221734	559393-0307	Din Trafikskola i Västerås	https://www.dintrafikskolaivasteras.se/	körkort,trafikskola,utbildning	
 1235222385	852000-0814	Salemförsamlingen-Korskyrkan i Mölndal	https://www.korskyrkan-molndal.se/	religion	
 1235222971	802417-5666	Södertälje Cykelklubb	https://sodertaljeck.com/	cykelklubb,idrottsförening	
 1235229190	802463-3268	Inner Wheel Sverige Distrikt 239	https://www.innerwheel.se/	innerwheel,kvinnligt nätverk	

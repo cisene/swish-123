@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-09-rev-160445
+Revision: 2025-05-09-rev-164129
 
-Nummer: 15955
+Nummer: 15958
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -10185,6 +10185,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**BUFFF Västmanlands i Västerås**
+
+    123 303 02 02
+
+
+
+
 **Bujinkan Ninpo Taijutsu Göteborg**
 
     123 006 88 90
@@ -13342,6 +13349,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Din Kiropraktor Falkenberg AB**
 
     123 605 90 59
+
+
+
+
+**Din Trafikskola i Västerås**
+
+    123 522 17 34
 
 
 
@@ -34461,6 +34475,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Indra Queer, Trans & Tjejjour**
 
     123 299 39 88
+
+
+
+
+**Industrihistoriska Föreningen i Västerås**
+
+    123 366 03 62
 
 
 
