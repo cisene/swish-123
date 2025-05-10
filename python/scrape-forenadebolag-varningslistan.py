@@ -227,13 +227,6 @@ def main():
               thisVO = findVO(item_orgNumber)
               if thisVO == None: 
 
-                print("\t###### Entry was not found")
-                print(li)
-                print(thisVO, item_orgNumber)
-
-                foo = input('pause')
-
-
                 obj = {
                   'orgNumber': item_orgNumber,
                   'orgName': item_orgName,
