@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-09-rev-164129
+Revision: 2025-05-11-rev-213125
 
-Nummer: 15958
+Nummer: 15970
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -4202,6 +4202,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 902 09 00
 
+    123 902 09 91 - Fotbollströjansdag
+
 
 
 
@@ -5446,6 +5448,29 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bjärnums Museum / Bjärnums Hembygdssförening**
 
     123 447 82 44
+
+
+
+
+**Bjärnums Pastorat**
+
+    123 063 30 16 - Vankiva kyrka
+
+    123 212 48 08 - Vankiva barnverksamhet
+
+    123 322 61 80 - Norra Åkarps kyrka
+
+    123 355 15 38 - Norra Åkarps barnversamhet
+
+    123 373 74 67 - Norra Åkarps församling
+
+    123 489 14 61 - Farstorps församling
+
+    123 577 13 16 - Farstorps barnverksamhet
+
+    123 620 20 22 - Vankiva församling
+
+    123 675 09 70 - Farstorps kyrka
 
 
 
@@ -77414,6 +77439,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
+    123 589 54 87 - Karlshamn
+
+
+
+
+**Svenska Röda Korset**
+
     123 146 46 84 - Hässleholms Rödakorskrets
 
     123 400 95 28 - Hästveda
@@ -90698,6 +90730,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerljungs Hembygdsförening**
 
     123 237 05 26
+
+    123 290 53 88
 
 
 

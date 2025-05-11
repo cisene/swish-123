@@ -12629,6 +12629,14 @@ entries:
   - hundsport
   web: https://www.sandvikensbk.hundpoolen.se/
 
+- entry: 1230633016
+  orgName: Bjärnums Pastorat
+  orgNumber: 252003-5946
+  comment: Vankiva kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bjarnumspastorat
+
 - entry: 1230633297
   orgName: PRO Liljeholmen
   orgNumber: 802497-5453
@@ -42924,6 +42932,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-havsvinden-ahus/
 
+- entry: 1232124808
+  orgName: Bjärnums Pastorat
+  orgNumber: 252003-5946
+  comment: Vankiva barnverksamhet
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bjarnumspastorat
+
 - entry: 1232126266
   orgName: Uppsala JSK - Skyttesport
   orgNumber: 817601-4846
@@ -59483,6 +59499,14 @@ entries:
   - rotaryklubb
   web: https://vaxjo-st-sigfrid.rotary2400.se/
 
+- entry: 1232905388
+  orgName: Västerljungs Hembygdsförening
+  orgNumber: 819000-6901
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/vasterljung
+
 - entry: 1232905545
   orgName: Mariefreds Båtklubb
   orgNumber: 819500-0867
@@ -65589,6 +65613,14 @@ entries:
   categories:
   - restaurant
   web: https://www.clubhouse-restaurant.se/
+
+- entry: 1233226180
+  orgName: Bjärnums Pastorat
+  orgNumber: 252003-5946
+  comment: Norra Åkarps kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bjarnumspastorat
 
 - entry: 1233228038
   orgName: Smedjebackens FK
@@ -72340,6 +72372,14 @@ entries:
   - stiftelse
   web: https://backamolagerplats.se/
 
+- entry: 1233551538
+  orgName: Bjärnums Pastorat
+  orgNumber: 252003-5946
+  comment: Norra Åkarps barnversamhet
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bjarnumspastorat
+
 - entry: 1233551595
   orgName: Nordmarks Hembygdsförening
   orgNumber: 872400-2194
@@ -75730,6 +75770,14 @@ entries:
   categories:
   - rotaryklubb
   web: https://hassleholm.rotary2400.se/
+
+- entry: 1233737467
+  orgName: Bjärnums Pastorat
+  orgNumber: 252003-5946
+  comment: Norra Åkarps församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bjarnumspastorat
 
 - entry: 1233737889
   orgName: Västerås BK - Brottning
@@ -96739,6 +96787,14 @@ entries:
   - ridsällskap
   web: https://www.laget.se/TrosaRS
 
+- entry: 1234891461
+  orgName: Bjärnums Pastorat
+  orgNumber: 252003-5946
+  comment: Farstorps församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bjarnumspastorat
+
 - entry: 1234891636
   orgName: Nässjö Järnvägsmuseum
   orgNumber: 827001-0492
@@ -115310,6 +115366,14 @@ entries:
   - motionsklubb
   web: https://www.svenskalag.se/hunnebergsport
 
+- entry: 1235771316
+  orgName: Bjärnums Pastorat
+  orgNumber: 252003-5946
+  comment: Farstorps barnverksamhet
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bjarnumspastorat
+
 - entry: 1235771704
   orgName: Floda Hembygdsförening
   orgNumber: 818500-5520
@@ -117657,6 +117721,15 @@ entries:
   categories:
   - religion
   web: https://equmeniakyrkan.se/forsamlingar/equmeniakyrkan-varo/
+
+- entry: 1235895487
+  orgName: Svenska Röda Korset
+  orgNumber: 836200-4353
+  comment: Karlshamn
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/blekinge/karlshamns-kommun/
 
 - entry: 1235895875
   orgName: Skövde Bandy
@@ -123980,6 +124053,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegardarna.se/fyllingarum/
+
+- entry: 1236202022
+  orgName: Bjärnums Pastorat
+  orgNumber: 252003-5946
+  comment: Vankiva församling
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bjarnumspastorat
 
 - entry: 1236202113
   orgName: Afasiföreningen i Stockholms Län
@@ -134934,6 +135015,14 @@ entries:
   - jaktvårdsklubb
   - skytteklubb
   web: https://www.svenskalag.se/harrydajvf
+
+- entry: 1236750970
+  orgName: Bjärnums Pastorat
+  orgNumber: 252003-5946
+  comment: Farstorps kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/bjarnumspastorat
 
 - entry: 1236751432
   orgName: Kvinnojouren Frideborg
@@ -147673,6 +147762,15 @@ entries:
   orgName: Barncancerfonden
   orgNumber: 802010-6566
   comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  web: https://www.barncancerfonden.se/
+
+- entry: 1239020991
+  orgName: Barncancerfonden
+  orgNumber: 802010-6566
+  comment: Fotbollströjansdag
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
