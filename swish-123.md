@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-11-rev-213125
+Revision: 2025-05-12-rev-181854
 
-Nummer: 15970
+Nummer: 15972
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -64755,6 +64755,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Salong Complete**
+
+    123 551 74 79
+
+
+
+
 **Salsa Sabrosa Dansskola**
 
     123 217 98 02
@@ -76798,6 +76805,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 559 85 52 - Box Landslaget
 
     123 559 85 60 - Svenska Lacrosse Ligan, SLL
+
+
+
+
+**Svenska Leonbergerklubben**
+
+    123 540 04 86
 
 
 

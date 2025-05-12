@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-05-11-rev-213040
+# Date: 2025-05-12-rev-181810
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -11927,6 +11927,7 @@
 "1235399662","802446-1348","Tjust Bandy","https://www.svenskalag.se/tjustbandy","bandyklubb,idrottsförening",""
 "1235399720","556794-8400","Crevoice AB","https://crevoice.se/","försäljning,hörselnedsättning,ljudsystem",""
 "1235400338","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Helsingborg, Sally Bauerskolan"
+"1235400486","832401-7162","Svenska Leonbergerklubben","https://slbk.com/","hundklubb,hundsport",""
 "1235400932","252004-9210","Jönköpings Församling","https://www.svenskakyrkan.se/jonkoping","religion","Diakoni"
 "1235401047","857204-5568","Brännöföreningen","https://brannoforeningen.se/","barnverksamhet,idrottsförening","Uthyrning"
 "1235401658","837000-0872","Hässleholms IF","https://www.hassleholmsif.se/","fotbollsklubb,idrottsförening","P13"
@@ -12180,6 +12181,7 @@
 "1235516943","252000-0833","Vårdinge Församling","https://www.svenskakyrkan.se/jarna-vardinge","religion","Kollekt"
 "1235517172","813600-2634","Svenska vänföreningen till Magen David Adom, SMDA","https://www.smda.se/","hjälporganisation",""
 "1235517396","252004-3783","Lunds Östra Stadsförsamling","https://www.svenskakyrkan.se/lunds-ostra-stadsforsamling","religion","Gåvor"
+"1235517479","559008-9016","Salong Complete","https://www.salongcomplete.se/","frisör,hårvård",""
 "1235517487","826000-6161","Finska Bastun / Jönköpings Finska Förening","http://finskabastun.se/","bastukultur,hemlandsförening,intresseförening",""
 "1235517511","878001-0131","Västerås Moskén / Västerås Islamiska Kulturcentrum","https://www.vasterasmosken.se/","religion",""
 "1235517792","802414-7921","Skånska Körsällskapet","https://www.svenskalag.se/skanskakorsallskapet","hästsport,körsällskap",""
