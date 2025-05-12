@@ -90305,6 +90305,15 @@ entries:
   - hembygdsförening
   web: https://www.vskedvi.se/
 
+- entry: 1234572293
+  orgName: 2change World AB
+  orgNumber: 559047-8755
+  comment: null
+  categories:
+  - innovation
+  - återvinning
+  web: https://www.2change.com/
+
 - entry: 1234572525
   orgName: Fjugesta Motorsällskap
   orgNumber: 875001-1176
@@ -105262,6 +105271,15 @@ entries:
   - godkänd gåvomottagare
   - religion
   web: https://www.fralsningsarmen.se/Mora/
+
+- entry: 1235355425
+  orgName: Insamlingsstiftelsen Remember Noah
+  orgNumber: 802480-3747
+  comment: null
+  categories:
+  - cancerforskning
+  - stiftelse
+  web: https://remembernoah.se/
 
 - entry: 1235355854
   orgName: Aspelands Pastorat
@@ -127790,6 +127808,16 @@ entries:
   categories:
   - stiftelse
   web: https://ligula.foundation/
+
+- entry: 1236480297
+  orgName: Lexina Sweden AB
+  orgNumber: 559228-5802
+  comment: null
+  categories:
+  - juridiska tjänster
+  - rådgivning
+  - stödtjänster
+  web: https://www.lexina.nu/
 
 - entry: 1236480487
   orgName: Olofströms Ishockeyklubb

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-05-12-rev-181824
+# Date: 2025-05-12-rev-210007
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -10148,6 +10148,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234571717	802459-3512	Norrala SK	https://www.svenskalag.se/norralask	idrottsförening,skidklubb,skidlöparklubb	
 1234572186	252000-1401	Sorunda Församling	http://sorundakyrka.se/	religion	
 1234572210	878500-1747	Västra Skedvi Hembygds- och Bygdegårdsförening	https://www.vskedvi.se/	bygdegårdsförening,hembygdsförening	
+1234572293	559047-8755	2change World AB	https://www.2change.com/	innovation,återvinning	
 1234572525	875001-1176	Fjugesta Motorsällskap	https://www.fjugestams.com/	motorcykel,motorsport,snöskoterklubb	
 1234572707	802000-5743	Citykyrkan i Stockholm	https://cks.se/	religion	
 1234572798	769616-5856	Bostadsrättsföreningen Lavetten Örnen i Sundbyberg	https://www.lavetten-ornen.se/	bostadsrättsförening	
@@ -11816,6 +11817,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235354675	844001-2758	FAS-Portalen / FAS-föreningen	https://www.fasportalen.se/	hälsa,neurohälsa	
 1235354758	814800-1012	Rosersbergs Jaktskytteklubb	https://www.rjsk.se/	jaktskytteklubb	
 1235354956	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/Mora/	godkänd gåvomottagare,religion	Mora
+1235355425	802480-3747	Insamlingsstiftelsen Remember Noah	https://remembernoah.se/	cancerforskning,stiftelse	
 1235355854	252004-7453	Aspelands Pastorat	https://www.svenskakyrkan.se/aspeland	religion	Kollekt Mörlunda församling
 1235355912	817300-7389	Morkarla Bygdegårdsförening	https://morkarlabygdegard.se/	bygdegårdsförening	
 1235356662	559095-0688	Roslagens Antik och Auktionsverk AB	https://roslagensauktionsverk.se/	auktioner,auktionsverk	
@@ -14338,6 +14340,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236478283	775000-1062	Bostadsrättsföreningen Tåget	https://www.hsb.se/malardalarna/brf/taget/	bostadsrättsförening	
 1236479539	802466-5401	Uppsala Handbollsklubb	https://www.uppsalahk.se/	handbollsklubb,idrottsförening	P2010
 1236479745	802480-4885	Stiftelsen Ligula Foundation	https://ligula.foundation/	stiftelse	
+1236480297	559228-5802	Lexina Sweden AB	https://www.lexina.nu/	juridiska tjänster,rådgivning,stödtjänster	
 1236480487	836200-5319	Olofströms Ishockeyklubb	https://oik.se/	idrottsförening,ishockeyklubb	
 1236480602	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Linnerydskolan
 1236480636	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar län, Lindåsskolan

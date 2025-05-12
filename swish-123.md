@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-12-rev-181854
+Revision: 2025-05-12-rev-210040
 
-Nummer: 15972
+Nummer: 15975
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -56,6 +56,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **24meter AB**
 
     123 426 34 71
+
+
+
+
+**2change World AB**
+
+    123 457 22 93
 
 
 
@@ -35539,6 +35546,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Insamlingsstiftelsen Remember Noah**
+
+    123 535 54 25
+
+
+
+
 **Insamlingsstiftelsen Rewilding Europe - Sweden**
 
     123 516 12 29
@@ -44451,6 +44465,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lex Femme**
 
     123 646 91 00
+
+
+
+
+**Lexina Sweden AB**
+
+    123 648 02 97
 
 
 
