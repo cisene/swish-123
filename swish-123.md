@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-12-rev-210040
+Revision: 2025-05-13-rev-234219
 
-Nummer: 15975
+Nummer: 15984
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2513,6 +2513,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Apollon Solna FK**
 
     123 332 68 24
+
+
+
+
+**Apologia**
+
+    123 312 51 92
 
 
 
@@ -11757,6 +11764,41 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**CISV Båstad-Bjäre**
+
+    123 233 97 52
+
+
+
+
+**CISV Göteborg**
+
+    123 339 57 20
+
+
+
+
+**CISV Jönköping**
+
+    123 354 65 95
+
+
+
+
+**CISV Malmö-Lund**
+
+    123 111 47 84
+
+
+
+
+**CISV Västerås**
+
+    123 206 98 54
+
+
+
+
 **Citrus Advokatbyrå**
 
     123 039 39 83
@@ -20098,6 +20140,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fotö Gymnastik och Idrottsförening**
 
     123 263 56 05
+
+
+
+
+**Four Horses Solution AB**
+
+    123 324 75 74
 
 
 
@@ -36563,6 +36612,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Johan Ödberg-Sällskapet**
 
     123 323 59 26
+
+
+
+
+**Johanna Karlsson Psykolog AB**
+
+    123 335 39 76
 
 
 
@@ -89134,6 +89190,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Viper Taekwondo Värnamo**
 
     123 558 03 78
+
+
+
+
+**VIPS Västerås**
+
+    123 576 56 49
 
 
 

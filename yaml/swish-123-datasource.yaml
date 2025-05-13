@@ -22645,6 +22645,15 @@ entries:
   - utbildning
   web: https://www.svenskalag.se/nikus
 
+- entry: 1231114784
+  orgName: CISV Malmö-Lund
+  orgNumber: 845002-7571
+  comment: null
+  categories:
+  - kurser
+  - utbildning
+  web: https://www.cisv.se/malmo-lund/
+
 - entry: 1231115922
   orgName: Gymnastikföreningen Svea af 1872
   orgNumber: 846000-1905
@@ -41435,6 +41444,15 @@ entries:
   - intresseförening
   web: https://www.facebook.com/tabuochkunskap
 
+- entry: 1232069854
+  orgName: CISV Västerås
+  orgNumber: 817606-2696
+  comment: null
+  categories:
+  - kurser
+  - utbildning
+  web: https://www.cisv.se/vasteras/
+
 - entry: 1232072312
   orgName: ADA-Hundar En Andra Chans
   orgNumber: 802513-6576
@@ -47822,6 +47840,15 @@ entries:
   - bageri
   - catering
   web: https://www.kopparlundensbageri.se/
+
+- entry: 1232339752
+  orgName: CISV Båstad-Bjäre
+  orgNumber: 802438-2361
+  comment: null
+  categories:
+  - kurser
+  - utbildning
+  web: https://www.cisv.se/bastad-bjare/
 
 - entry: 1232339786
   orgName: CK Örnen
@@ -62893,6 +62920,14 @@ entries:
   - yoga
   web: https://yogaskolan.org/
 
+- entry: 1233125192
+  orgName: Apologia
+  orgNumber: 802503-9283
+  comment: null
+  categories:
+  - religion
+  web: https://apologia.se/
+
 - entry: 1233125309
   orgName: H I Juristbyrå AB
   orgNumber: 559005-2600
@@ -65121,6 +65156,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/hargsbk
 
+- entry: 1233247574
+  orgName: Four Horses Solution AB
+  orgNumber: 559317-7735
+  comment: null
+  categories:
+  - förvaltning
+  - uthyrning
+  web: null
+
 - entry: 1233247780
   orgName: Biljardklubben Åtvidaberg
   orgNumber: 802533-3645
@@ -66974,6 +67018,17 @@ entries:
   - kulturförening
   web: https://www.interkultur.nu/
 
+- entry: 1233353976
+  orgName: Johanna Karlsson Psykolog AB
+  orgNumber: 559444-0884
+  comment: null
+  categories:
+  - parterapi
+  - psykologi
+  - samtalsterapi
+  - terapisamtal
+  web: https://karlssonpsykolog.se/
+
 - entry: 1233355658
   orgName: Seskarö IF Orientering
   orgNumber: 897600-2744
@@ -68013,6 +68068,15 @@ entries:
   - hästsport
   - ridklubb
   web: https://finntorp.net/
+
+- entry: 1233395720
+  orgName: CISV Göteborg
+  orgNumber: 857203-7912
+  comment: null
+  categories:
+  - kurser
+  - utbildning
+  web: https://www.cisv.se/goteborg/
 
 - entry: 1233396322
   orgName: Sundbybergs Församling
@@ -71268,6 +71332,15 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.nhrk.se/
+
+- entry: 1233546595
+  orgName: CISV Jönköping
+  orgNumber: 826002-1939
+  comment: null
+  categories:
+  - kurser
+  - utbildning
+  web: https://www.cisv.se/jonkoping/
 
 - entry: 1233546603
   orgName: Lenas katthem i Sölvesborg / Lena Kristiansson
@@ -113916,6 +113989,15 @@ entries:
   categories:
   - samfällighetsförening
   web: https://www.nashultaosterbysamfallighet.net/
+
+- entry: 1235765649
+  orgName: VIPS Västerås
+  orgNumber: 802469-5135
+  comment: null
+  categories:
+  - studentkår
+  - studentorganisation
+  web: https://vipsvasteras.webnode.se/
 
 - entry: 1235766118
   orgName: Skellefteå Kyokushin Karateklubb
