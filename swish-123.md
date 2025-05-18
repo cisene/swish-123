@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-13-rev-234219
+Revision: 2025-05-18-rev-022944
 
-Nummer: 15984
+Nummer: 15992
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -21130,6 +21130,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Fröjds Gröna / Mikael Nordlöf Fröjd**
+
+    123 644 75 36
+
+
+
+
 **Fröjereds IF**
 
     123 321 21 98
@@ -26069,6 +26076,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Guidance vägledning för kropp och själ Örnsköldsvik / Tina Olofsson**
 
     123 259 44 48
+
+
+
+
+**Guide2give**
+
+    123 160 28 95
 
 
 
@@ -57860,6 +57874,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Pinschersektionen**
+
+    123 236 37 86
+
+
+
+
 **Piperska / Lundsbrunnsfonderna**
 
     123 052 05 02
@@ -72887,6 +72908,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen Inventum**
+
+    123 092 48 37
+
+
+
+
 **Stiftelsen Jamtli**
 
     123 559 10 29
@@ -76919,6 +76947,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Lundehundsällskapet**
 
     123 156 17 03
+
+
+
+
+**Svenska lungcancerstudiegruppens Insamlingsstiftelse**
+
+    123 145 63 00
 
 
 
@@ -91062,6 +91097,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Västerås Golfklubb**
 
+    123 014 08 97 - Golfköket
+
     123 225 82 59
 
 
@@ -91094,6 +91131,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Västerås IK Ungdom**
 
+    123 189 21 08 - Team 18 (U8)
+
     123 245 40 80 - Team 08 (U14)
 
     123 409 06 19 - Team 09 (U13)
@@ -91103,6 +91142,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 510 56 55 - Team 11 (U14)
 
     123 613 97 45
+
+
+
+
+**Västerås Innebandy Förening**
+
+    123 379 77 19
 
 
 

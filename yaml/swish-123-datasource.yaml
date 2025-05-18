@@ -2520,6 +2520,15 @@ entries:
   - underhållning
   web: https://www.lillabandet.se/
 
+- entry: 1230140897
+  orgName: Västerås Golfklubb
+  orgNumber: 878000-5370
+  comment: Golfköket
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://vasterasgk.se/stodkop-en-matlada-fran-golfkoket/
+
 - entry: 1230140954
   orgName: Burs Bygdegårdsförening
   orgNumber: 734000-0277
@@ -19008,6 +19017,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vastramark
 
+- entry: 1230924837
+  orgName: Stiftelsen Inventum
+  orgNumber: 802479-9978
+  comment: null
+  categories:
+  - forskning
+  - stiftelse
+  - utbildning
+  web: https://regionvastmanland.se/om-regionen/forskning-och-innovation/stiftelsen-inventum/
+
 - entry: 1230924993
   orgName: Bergsjö Församling
   orgNumber: 252004-7396
@@ -29177,6 +29196,15 @@ entries:
   - kattklubb
   web: https://www.calmarekk.se/
 
+- entry: 1231456300
+  orgName: Svenska lungcancerstudiegruppens Insamlingsstiftelse
+  orgNumber: 802412-7964
+  comment: null
+  categories:
+  - cancerforskning
+  - stiftelse
+  web: https://slusg.org/
+
 - entry: 1231456847
   orgName: PRO Sofia
   orgNumber: 802015-2099
@@ -32496,6 +32524,14 @@ entries:
   - golfbana
   - golfklubb
   web: https://www.stjernforsgk.com/
+
+- entry: 1231602895
+  orgName: Guide2give
+  orgNumber: 769624-2374
+  comment: null
+  categories:
+  - hjälporganisation
+  web: http://www.guide2give.se/
 
 - entry: 1231604263
   orgName: Örebro SK Ungdom
@@ -38215,6 +38251,15 @@ entries:
   - cykelklubb
   - idrottsförening
   web: https://www.horbyck.se/
+
+- entry: 1231892108
+  orgName: Västerås IK Ungdom
+  orgNumber: 878000-6055
+  comment: Team 18 (U8)
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/VIKUngdom
 
 - entry: 1231892249
   orgName: Västanviks Samfällighetsförening
@@ -48182,6 +48227,15 @@ entries:
   categories:
   - förening
   web: https://plexusvanner.se/
+
+- entry: 1232363786
+  orgName: Pinschersektionen
+  orgNumber: 802495-4409
+  comment: null
+  categories:
+  - hundklubb
+  - hunduppfödning
+  web: https://www.pinschersektionen.se/
 
 - entry: 1232365054
   orgName: Kattklubben Vi Kattägare
@@ -75950,6 +76004,15 @@ entries:
   - hjälporganisation
   - utbildning
   web: https://www.johafonden.com/
+
+- entry: 1233797719
+  orgName: Västerås Innebandy Förening
+  orgNumber: 802472-2319
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.vib.se/
 
 - entry: 1233799053
   orgName: Skoterdårarnas förening
@@ -127366,6 +127429,18 @@ entries:
   categories:
   - intresseförening
   web: https://www.lundbyegnahem.org/
+
+- entry: 1236447536
+  orgName: Fröjds Gröna / Mikael Nordlöf Fröjd
+  orgNumber: 890513-XXXX
+  comment: null
+  categories:
+  - försäljning
+  - grönsaksodling
+  - gårdsbutik
+  - gårdsförsäljning
+  - lantbruk
+  web: https://frojdsgrona.se/
 
 - entry: 1236449219
   orgName: Ängelholms Ekumeniska Församling
