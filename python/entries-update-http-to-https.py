@@ -99,6 +99,11 @@ def httpHEAD(url):
       response['message'] = 'OK'
 
 
+  except requests.exceptions.TooManyRedirects:
+    response['status'] = 0
+    response['message'] = 'requests.exceptions.TooManyRedirects'
+    pass
+
   except requests.exceptions.ConnectTimeout:
     response['status'] = 0
     response['message'] = 'requests.exceptions.ConnectTimeout'
