@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-18-rev-133832
+Revision: 2025-05-22-rev-204958
 
-Nummer: 15992
+Nummer: 15998
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2294,6 +2294,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Anklams Distansryttarsällskap**
 
     123 030 29 50
+
+
+
+
+**Ankrace för Ukraina / Skicka vidare till Ukraina**
+
+    123 425 97 01
 
 
 
@@ -5928,6 +5935,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 234 03 21 - P11
 
     123 303 90 54 - F14
+
+    123 374 40 59 - F15
 
     123 446 69 26 - F08-09
 
@@ -24409,6 +24418,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Getskärs Segelsällskap**
+
+    123 647 91 09
+
+
+
+
 **GF Finnveden**
 
     123 303 71 73
@@ -27709,6 +27725,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Halvorstorps IS**
 
     123 050 31 28
+
+
+
+
+**Hammarby Damtifo**
+
+    123 195 60 93
 
 
 
@@ -64403,6 +64426,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**S:t Eriks Orkesterförening**
+
+    123 597 93 23
+
+
+
+
 **S:t Eskils Skyttar**
 
     123 326 50 71
@@ -91091,6 +91121,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerås Friidrottsklubb**
 
     123 322 81 60
+
+
+
+
+**Västerås för Ukraina / Skicka vidare till Ukraina**
+
+    123 538 99 86
 
 
 

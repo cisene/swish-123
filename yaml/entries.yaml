@@ -36804,6 +36804,7 @@ entries:
   orgNumber: 814400-3533
   comment: null
   categories:
+  - bouleklubb
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/rialagoif
@@ -39786,6 +39787,14 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.laget.se/Fjugesta_IF/
+
+- entry: 1231956093
+  orgName: Hammarby Damtifo
+  orgNumber: 802547-1924
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.hammarbyfotboll.se/spelare/dam
 
 - entry: 1231957711
   orgName: PRO Rockneby-Läckeby
@@ -76032,6 +76041,15 @@ entries:
   - bygdegårdsförening
   web: null
 
+- entry: 1233744059
+  orgName: BK Ljungsbro
+  orgNumber: 822001-7696
+  comment: F15
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/bkljungsbro
+
 - entry: 1233745551
   orgName: Svenska Hundklubben
   orgNumber: 815600-8537
@@ -85887,11 +85905,12 @@ entries:
   web: https://www.hvensbatklubb.se/
 
 - entry: 1234259701
-  orgName: null
-  orgNumber: null
-  comment: Västerås för Ukraina
-  categories: null
-  web: null
+  orgName: Ankrace för Ukraina / Skicka vidare till Ukraina
+  orgNumber: 802541-6515
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.facebook.com/SkickaVidareTillUkraina/
 
 - entry: 1234260980
   orgName: Lions Club Bålsta
@@ -107311,11 +107330,12 @@ entries:
   web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-norrtalje/foreningar/norrtalje.html
 
 - entry: 1235389986
-  orgName: Västerås för Ukraina
-  orgNumber: null
+  orgName: Västerås för Ukraina / Skicka vidare till Ukraina
+  orgNumber: 802541-6515
   comment: null
-  categories: null
-  web: null
+  categories:
+  - hjälporganisation
+  web: https://www.facebook.com/SkickaVidareTillUkraina/
 
 - entry: 1235390315
   orgName: Kulla Pastorat
@@ -119583,6 +119603,15 @@ entries:
   - samfällighetsförening
   web: https://sites.google.com/site/bergetparksam/
 
+- entry: 1235979323
+  orgName: S:t Eriks Orkesterförening
+  orgNumber: 802009-9423
+  comment: null
+  categories:
+  - orkester
+  - symfoniorkester
+  web: https://steork.se/
+
 - entry: 1235979901
   orgName: Gingri Bygdegård
   orgNumber: 864500-8510
@@ -129587,6 +129616,15 @@ entries:
   - bostadsrättsförening
   web: https://www.hsb.se/malardalarna/brf/taget/
 
+- entry: 1236479109
+  orgName: Getskärs Segelsällskap
+  orgNumber: 853300-4845
+  comment: null
+  categories:
+  - segelklubb
+  - segelsällskap
+  web: https://www.gess.info/
+
 - entry: 1236479539
   orgName: Uppsala Handbollsklubb
   orgNumber: 802466-5401
@@ -137260,6 +137298,7 @@ entries:
   orgNumber: 802423-9637
   comment: null
   categories:
+  - minnesfond
   - stiftelse
   web: https://www.annalindhsminnesfond.se/
 
