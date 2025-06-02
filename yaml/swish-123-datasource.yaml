@@ -44604,6 +44604,14 @@ entries:
   - märkesklubb
   web: https://www.maloklubben.se/
 
+- entry: 1232212561
+  orgName: Ucklums Hembygdsförening
+  orgNumber: 853300-5826
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/ucklum
+
 - entry: 1232212967
   orgName: Essunga Pastorat
   orgNumber: 252003-2976
@@ -47859,6 +47867,16 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.skansensgard.com/
+
+- entry: 1232333250
+  orgName: RefugeeHope UA & SE
+  orgNumber: 802545-9895
+  comment: null
+  categories:
+  - hjälporganisation
+  - humanitär hjälpverksamhet
+  - ukraina
+  web: https://refugeehope.eu/en/
 
 - entry: 1232334639
   orgName: Skicka vidare till Ukraina
@@ -64256,6 +64274,17 @@ entries:
   categories:
   - scoutkår
   web: https://harryda.scout.se/
+
+- entry: 1233199734
+  orgName: Studio S Entertainment / Studio Show Entertainment Sweden AB
+  orgNumber: 556870-1261
+  comment: null
+  categories:
+  - filmdistribution
+  - mediaproduktion
+  - tvprogramdistribution
+  - videodistribution
+  web: https://www.studiosentertainment.se/
 
 - entry: 1233199767
   orgName: Stiko Per Larsson
@@ -136940,6 +136969,18 @@ entries:
   - skidlöparklubb
   - volleybollklubb
   web: https://www.laget.se/LUAIK/
+
+- entry: 1236907877
+  orgName: Klaravik AB
+  orgNumber: 556881-8693
+  comment: null
+  categories:
+  - auktioner
+  - auktionsverk
+  - entreprenadmaskiner
+  - lantbruksmaskiner
+  - skogsbruksmaskiner
+  web: https://www.klaravik.se/
 
 - entry: 1236908198
   orgName: Harbo Missionsförsamling

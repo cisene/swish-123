@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-05-22-rev-204927
+# Date: 2025-06-02-rev-205705
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -5023,6 +5023,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232212033	894003-4138	Sveriges Vapenägares Förbund	https://vapenagaren.se/	förbund,intresseorganisation	
 1232212173	802545-5307	PRG Abrahamsbergskyrkans Senoirer	https://abrahamsbergskyrkan.se/abrahamsbergskyrkans-seniorer-abrasenior/	pensionärsklubb,religion	
 1232212488	802507-5683	Malöklubben	https://www.maloklubben.se/	båtklubb,märkesklubb	
+1232212561	853300-5826	Ucklums Hembygdsförening	https://www.hembygd.se/ucklum	hembygdsförening	
 1232212967	252003-2976	Essunga Pastorat	https://www.svenskakyrkan.se/essunga	religion	Kollekt Främmestads Kyrka
 1232213056	802440-7226	Björnlunda Kammarmusikförening	http://www.bjornlundakammarmusikforening.se/	kammarmusik,musikförening	
 1232213510	815201-1634	Haga-Brunnsvikens Vänner	https://haga-brunnsviken.org/	intresseförening	
@@ -5389,6 +5390,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232329647	802493-0201	Harley Owners Group, HOG	https://www.hogsweden.se/hog-jarvsochapter	motorcykelklubb	Järvsö Chapter
 1232329860	769627-3411	Dalbackens Friskola i Hemmingsmark	https://www.dalbacken.se/	friskola	
 1232329951	855900-8563	Skansens Ridklubb i Vänersborg	https://www.skansensgard.com/	hästsport,ridklubb	
+1232333250	802545-9895	RefugeeHope UA & SE	https://refugeehope.eu/en/	hjälporganisation,humanitär hjälpverksamhet,ukraina	
 1232334639	802541-6515	Skicka vidare till Ukraina	https://www.facebook.com/SkickaVidareTillUkraina	hjälporganisation,insamling,ukraina	
 1232338671	829001-5307	Berga Hembygdsförening	https://www.hembygd.se/berga	hembygdsförening	
 1232339372	832800-3242	Högsby Sockens Hembygdsförening	http://www.hembygd.hogsby.net/	hembygdsförening	
@@ -7228,6 +7230,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233199445	884401-9029	Älvdalens IF Innebandy	https://www.svenskalag.se/alvdalensifinnebandy	idrottsförening,innebandyklubb	
 1233199502	873600-2661	Hela Människan	https://helamanniskan.se/kristinehamn/	hjälporganisation,religion	Kristinehamn
 1233199544	852000-3222	Härryda Scoutkår	https://harryda.scout.se/	scoutkår	
+1233199734	556870-1261	Studio S Entertainment / Studio Show Entertainment Sweden AB	https://www.studiosentertainment.se/	filmdistribution,mediaproduktion,tvprogramdistribution,videodistribution	
 1233199767	781120-XXXX	Stiko Per Larsson	https://www.stikoperlarsson.com/	evenemangsproduktioner,eventarrangör	
 1233199924	898800-3953	Bredsels Bygdegårdsförening	https://www.bredsel.se/	bygdegårdsförening	
 1233200201	868401-0088	Vedums Scoutkårs Föräldraförening	https://vedum.scout.se/	scoutkår	
@@ -15360,6 +15363,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236907125	802011-1582	Stiftelsen Fryshuset	https://fryshuset.se/	familjestöd,stiftelse	Nationellt
 1236907257	252003-0731	Örebro Pastorat	https://www.svenskakyrkan.se/orebro	religion	Lokalhyra
 1236907588	894700-4738	Lövånger-Uttersjöbäcken AIK	https://www.laget.se/LUAIK/	fotbollsklubb,gymnastikförening,idrottsförening,ishockeyklubb,skidlöparklubb,volleybollklubb	
+1236907877	556881-8693	Klaravik AB	https://www.klaravik.se/	auktioner,auktionsverk,entreprenadmaskiner,lantbruksmaskiner,skogsbruksmaskiner	
 1236908198	879500-0184	Harbo Missionsförsamling	https://www.harbomissionskyrka.se/	religion	Församlingskassan
 1236908412	802407-6047	Curo Riksföreningen för Cancersjuka	https://curo.nu/	patientförening,riksförening	
 1236908644	717903-4512	Gåsö Samfällighetförening	https://gaso.nu/	samfällighetsförening	

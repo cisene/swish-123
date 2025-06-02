@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-05-22-rev-204958
+Revision: 2025-06-02-rev-205727
 
-Nummer: 15998
+Nummer: 16002
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -39862,6 +39862,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Klaravik AB**
+
+    123 690 78 77
+
+
+
+
 **Klartext Stockholm AB**
 
     123 250 22 19 - Alice Teodorescu Måwe
@@ -60929,6 +60936,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**RefugeeHope UA & SE**
+
+    123 233 32 50
+
+
+
+
 **Refugees Welcome Stockholm**
 
     123 280 00 01
@@ -74859,6 +74873,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Studio S Entertainment / Studio Show Entertainment Sweden AB**
+
+    123 319 97 34
+
+
+
+
 **Studio Santosha AB**
 
     123 353 89 31
@@ -85807,6 +85828,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 ## U
+
+**Ucklums Hembygdsförening**
+
+    123 221 25 61
+
+
+
 
 **Udda Toner AB**
 
