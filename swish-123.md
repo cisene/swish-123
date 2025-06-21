@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-06-21-rev-114048
+Revision: 2025-06-21-rev-211102
 
-Nummer: 16006
+Nummer: 16032
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -647,6 +647,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Agapes Vänner i Uddevalla, Munkedal, Tanum**
 
     123 669 52 41
+
+
+
+
+**Agent12 / AIK Fotboll AB**
+
+    123 507 10 63
 
 
 
@@ -4147,6 +4154,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 334 00 98
 
     123 464 84 73 - P-14
+
+    123 639 13 20 - P17
 
     123 656 13 36 - P16
 
@@ -19404,6 +19413,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**FK Karlskrona**
+
+    123 197 59 78 - Skola 25
+
+
+
+
 **FK Studenterna**
 
     123 179 10 78
@@ -19641,6 +19657,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Flora Blomsterhandel Enköping AB**
+
+    123 323 41 68
+
+
+
+
 **Floroteket AB**
 
     123 022 72 56
@@ -19672,6 +19695,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Flow Kampsportsförening**
 
     123 567 35 61
+
+
+
+
+**Flurkmarks IK**
+
+    123 580 75 57
 
 
 
@@ -24279,6 +24309,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gefle BC**
 
     123 593 49 63
+
+
+
+
+**Gefle IF Fotbollsförening**
+
+    123 535 64 49
+
+    123 588 13 62
 
 
 
@@ -30554,6 +30593,35 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **HST Sverige / Kbg hundtjänst AB**
 
     123 209 71 37
+
+
+
+
+**HTF - Hissjö-Tavelsjö-Flurkmark**
+
+    123 044 76 72 - F08-09
+
+    123 102 75 49 - P13
+
+    123 139 45 35 - P12
+
+    123 185 24 74 - P07-08-09
+
+    123 235 34 72 - F14
+
+    123 327 26 55 - F12
+
+    123 476 84 46 - F15
+
+    123 494 95 82 - P10-11
+
+    123 531 83 40 - F10-11
+
+    123 550 60 01 - F13
+
+    123 551 84 51 - P15
+
+    123 555 27 99 - P14
 
 
 
@@ -40219,6 +40287,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Knivsta IK**
+
+    123 060 31 91 - P2015
 
     123 638 76 09 - F 2012
 
@@ -57849,6 +57919,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Pingstkyrkan Mullsjö-Nyhem**
 
+    123 015 07 30 - Missionskassa
+
     123 464 12 21
 
 
@@ -68420,6 +68492,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skå IK**
+
+    123 604 12 55 - P2014
+
+
+
+
 **Skålbo, Rossla och Skridsviks Bygdegårdförening**
 
     123 670 35 65
@@ -73733,6 +73812,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stockholm Institute of International Law Arbitration and Conciliation, SILAC / Bo Theutenberg**
+
+    123 511 67 36
+
+
+
+
 **Stockholm International Peace Research Institute, SIPRI**
 
     123 083 33 76
@@ -78671,6 +78757,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svärtinge SK**
+
+    123 321 31 70
+
+
+
+
 **Swartlings Ridskola Ryttarstadion AB**
 
     123 551 09 53
@@ -79607,6 +79700,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sävedalens IF**
 
     123 317 21 03
+
+    123 377 10 29 - F14
 
 
 
@@ -82589,6 +82684,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 649 70 69 - Halland, Våxtorpsskolan
 
     123 678 44 41 - Halland, Bäckagårdsskolan
+
+
+
+
+**Team Storebror**
+
+    123 474 06 19
 
 
 

@@ -2649,6 +2649,14 @@ entries:
   - juridiska tjänster
   web: https://www.crusner.se/
 
+- entry: 1230150730
+  orgName: Pingstkyrkan Mullsjö-Nyhem
+  orgNumber: 867200-0455
+  comment: Missionskassa
+  categories:
+  - religion
+  web: https://mullsjopingst.se/
+
 - entry: 1230154583
   orgName: Kvarnsvedens IK
   orgNumber: 882600-9329
@@ -9206,6 +9214,15 @@ entries:
   - religion
   web: https://www.kyrktorget.se/ebeneser.soraker
 
+- entry: 1230447672
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: F08-09
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
+
 - entry: 1230450551
   orgName: Sparven
   orgNumber: 556706-5262
@@ -9585,6 +9602,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://hullsjon.se/
+
+- entry: 1230471672
+  orgName: Var Dags Rum / Vdr i Nyköping AB
+  orgNumber: 556980-6465
+  comment: null
+  categories:
+  - café
+  - retired
+  web: http://www.cafevardagsrum.se/
 
 - entry: 1230472167
   orgName: Ovanåkers Hembygdsförening
@@ -12148,6 +12174,15 @@ entries:
   categories:
   - bridgeklubb
   web: https://www.svenskbridge.se/kullabygdens-bk
+
+- entry: 1230603191
+  orgName: Knivsta IK
+  orgNumber: 814800-0618
+  comment: P2015
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/knivstaik
 
 - entry: 1230603472
   orgName: Kvarnby Basket
@@ -21250,6 +21285,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/norrbo
 
+- entry: 1231027549
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: P13
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
+
 - entry: 1231027572
   orgName: Jenga Women Africa / Vili Go AB
   orgNumber: 559362-2110
@@ -28773,6 +28817,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: null
+
+- entry: 1231394535
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: P12
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
 
 - entry: 1231394600
   orgName: Svenska Turistföreningen
@@ -38058,6 +38111,15 @@ entries:
   - religion
   web: https://www.baptistsundsvall.se/
 
+- entry: 1231852474
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: P07-08-09
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
+
 - entry: 1231852540
   orgName: PRO Brunflo
   orgNumber: 893202-8148
@@ -40214,6 +40276,15 @@ entries:
   - bygdegårdsförening
   - fritidsförening
   web: https://bygdegardarna.se/ingelsbo/
+
+- entry: 1231975978
+  orgName: FK Karlskrona
+  orgNumber: 835000-3367
+  comment: Skola 25
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/fkkungdom
 
 - entry: 1231976695
   orgName: Falkenbergs Pastorat
@@ -48703,6 +48774,15 @@ entries:
   - intresseförening
   - kulturförening
   web: https://www.svenskalag.se/gjuterihistoriska
+
+- entry: 1232353472
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: F14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
 
 - entry: 1232357390
   orgName: Helsigborgs IK - Idrott För Alla
@@ -65443,6 +65523,20 @@ entries:
   - softbollklubb
   web: https://www.sbslf.se/
 
+- entry: 1233213170
+  orgName: Svärtinge SK
+  orgNumber: 825001-7756
+  comment: null
+  categories:
+  - fotbollsklubb
+  - futsalklubb
+  - handbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  - motionsklubb
+  - padelklubb
+  web: https://www.svenskalag.se/ssk
+
 - entry: 1233213204
   orgName: Fageråsens Bygdegårdsförening
   orgNumber: 873200-3911
@@ -65892,6 +65986,17 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://piteaif.sportadmin.se/
+
+- entry: 1233234168
+  orgName: Flora Blomsterhandel Enköping AB
+  orgNumber: 559227-2396
+  comment: null
+  categories:
+  - blomarrangemang
+  - blomsterhandel
+  - florist
+  - interflora
+  web: https://www.facebook.com/FloraBlomsterhandel
 
 - entry: 1233234648
   orgName: Stiftelsen Womengineer
@@ -66623,6 +66728,15 @@ entries:
   categories:
   - religion
   web: https://www.vastraharg.com/
+
+- entry: 1233272655
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: F12
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
 
 - entry: 1233272796
   orgName: Borås Gymnastik och Idrottsförening
@@ -76400,6 +76514,15 @@ entries:
   - byförening
   - samhällsförening
   web: https://kladesholmen.com/
+
+- entry: 1233771029
+  orgName: Sävedalens IF
+  orgNumber: 857201-7237
+  comment: F14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/savedalensif
 
 - entry: 1233771185
   orgName: Varbergs Roddklubb
@@ -95121,6 +95244,16 @@ entries:
   - ryttarsällskap
   web: https://www.svenskalag.se/huskvarnasportryttare
 
+- entry: 1234740619
+  orgName: Team Storebror
+  orgNumber: 802546-2436
+  comment: null
+  categories:
+  - nattvandrare
+  - stödverksamhet
+  - ungdomsverksamhet
+  web: https://teamstorebror.se/
+
 - entry: 1234744611
   orgName: Konstföreningen Sjöhästens vänner
   orgNumber: 819001-6173
@@ -95462,6 +95595,15 @@ entries:
   categories:
   - religion
   web: https://pingstjonkoping.se/
+
+- entry: 1234768446
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: F15
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
 
 - entry: 1234768883
   orgName: Bajen Club Sofia Kulturförening
@@ -98029,6 +98171,15 @@ entries:
   - intresseförening
   web: https://www.resoffskane.se/
 
+- entry: 1234949582
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: P10-11
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
+
 - entry: 1234950218
   orgName: Magnarps Intresseförening
   orgNumber: 839400-8679
@@ -100264,6 +100415,15 @@ entries:
   - westernridning
   web: https://wras.horse/
 
+- entry: 1235071063
+  orgName: Agent12 / AIK Fotboll AB
+  orgNumber: 556520-1190
+  comment: null
+  categories:
+  - insamling
+  - supporterklubb
+  web: https://agent12.se/
+
 - entry: 1235074752
   orgName: Arnö IF
   orgNumber: 819001-1448
@@ -101517,6 +101677,14 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.linkopingsfaltrittklubb.se/
+
+- entry: 1235116736
+  orgName: Stockholm Institute of International Law Arbitration and Conciliation, SILAC / Bo Theutenberg
+  orgNumber: 420514-XXXX
+  comment: null
+  categories:
+  - intresseförening
+  web: https://theutenberg.org/
 
 - entry: 1235116744
   orgName: Gamla Upsala SK
@@ -105919,6 +106087,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samradsgrupp-tierp/foreningar/hallnas.html
 
+- entry: 1235318340
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: F10-11
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
+
 - entry: 1235318571
   orgName: Gråmanstorps Bygdegård
   orgNumber: 802428-3122
@@ -106766,6 +106943,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://morkarlabygdegard.se/
+
+- entry: 1235356449
+  orgName: Gefle IF Fotbollsförening
+  orgNumber: 885000-6704
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://gefleiffotboll.se/
 
 - entry: 1235356662
   orgName: Roslagens Antik och Auktionsverk AB
@@ -109718,6 +109904,15 @@ entries:
   - scoutkår
   web: https://stb.scout.se/
 
+- entry: 1235506001
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: F13
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
+
 - entry: 1235507041
   orgName: BK Häcken Ungdom
   orgNumber: 857200-7485
@@ -110098,6 +110293,15 @@ entries:
   - funktionsnedsättning
   - funktionsvariation
   web: https://www.fub.se/lokal/fub-lidkoping/
+
+- entry: 1235518451
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: P15
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
 
 - entry: 1235521653
   orgName: Örebro Syrianska IF Ungdom
@@ -111049,6 +111253,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: http://www.sodraradabygdegard.se/
+
+- entry: 1235552799
+  orgName: HTF - Hissjö-Tavelsjö-Flurkmark
+  orgNumber: 894000-6946
+  comment: P14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
 
 - entry: 1235556220
   orgName: Repbäckens Bygdegård
@@ -116357,6 +116570,15 @@ entries:
   - lionsklubb
   web: https://lionsclub-hindas.se/
 
+- entry: 1235807557
+  orgName: Flurkmarks IK
+  orgNumber: 894001-6036
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.flurkmarksik.se/
+
 - entry: 1235807565
   orgName: Nybro IF
   orgNumber: 832400-1596
@@ -117535,6 +117757,15 @@ entries:
   categories:
   - religion
   web: https://equmeniakyrkansavedalen.se/
+
+- entry: 1235881362
+  orgName: Gefle IF Fotbollsförening
+  orgNumber: 885000-6704
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://gefleiffotboll.se/
 
 - entry: 1235881644
   orgName: Smyrnakyrkan Göteborg
@@ -120861,6 +121092,15 @@ entries:
   categories:
   - intresseförening
   web: https://www.facebook.com/RickardWilsonSociety
+
+- entry: 1236041255
+  orgName: Skå IK
+  orgNumber: 815200-1155
+  comment: P2014
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/skaik
 
 - entry: 1236041586
   orgName: Neuroförbundet Arvika Västra Värmland
@@ -128116,6 +128356,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/EskilstunaCityFK/
+
+- entry: 1236391320
+  orgName: Barkarö SK
+  orgNumber: 802415-0966
+  comment: P17
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/BarkaroSK/
 
 - entry: 1236393664
   orgName: PRO Storå-Guldsmedshyttan
