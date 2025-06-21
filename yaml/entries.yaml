@@ -48116,6 +48116,15 @@ entries:
   - idrottsförening
   web: https://www.värnamobouleklubb.se/
 
+- entry: 1232317493
+  orgName: Svenska Röda Korset
+  orgNumber: 874001-5196
+  comment: Hammarö Rödakorskrets
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/varmland/hammaro-kommun/
+
 - entry: 1232317907
   orgName: Klickerklok
   orgNumber: 969743-0594
@@ -66420,6 +66429,14 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: https://www.svenskalag.se/hedesundaif
+
+- entry: 1233264652
+  orgName: MFF Support
+  orgNumber: 846501-2451
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://mffsupport.com/
 
 - entry: 1233265030
   orgName: Gerstorps Ryttarsällskap, GRS
@@ -103072,6 +103089,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/roslagens-ostra-pastorat/estuna-soderbykarls-forsamling
 
+- entry: 1235166350
+  orgName: Örebro Stadsmisson
+  orgNumber: 802498-9769
+  comment: Karlskoga
+  categories:
+  - hjälporganisation
+  web: https://orebrostadsmission.se/
+
 - entry: 1235166491
   orgName: Föreningen Panterbowlarna Umeå
   orgNumber: 802505-9067
@@ -120243,6 +120268,15 @@ entries:
   - folkets hus
   - intresseförening
   web: https://broakullafolketshus.se/
+
+- entry: 1236020101
+  orgName: Vänersborgs Rugbyklubb
+  orgNumber: 862500-8142
+  comment: null
+  categories:
+  - idrottsförening
+  - rugbyklubb
+  web: https://www.svenskalag.se/vrk
 
 - entry: 1236021216
   orgName: Luleå ju-jutsuklubb

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-06-02-rev-205705
+# Date: 2025-06-21-rev-114028
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -5349,6 +5349,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232316883	818000-2696	Torshälla Segelsällskap	https://www.torshallasegelsallskap.se/	segelklubb,segelsällskap	Gästhamn och el
 1232316925	802433-1459	Lundby IF	https://lundbyif.se/	idrottsförening	
 1232317220	012408-5507	Värnamo Bouleklubb	https://www.värnamobouleklubb.se/	bouleklubb,idrottsförening	
+1232317493	874001-5196	Svenska Röda Korset	https://www.rodakorset.se/ort/varmland/hammaro-kommun/	hjälporganisation,rödakorset	Hammarö Rödakorskrets
 1232317907	969743-0594	Klickerklok	https://www.klickerklok.se/	hundkurser,hundsport	
 1232317915	802444-0862	Borkhults Festplats Förening	https://borkhultsfestplats.se/	festival,festplatsförening,intresseförening	
 1232318210	837600-1023	Ljungbyheds IF	https://www.svenskalag.se/ljungbyhedsif	fotbollsklubb,idrottsförening	
@@ -7376,6 +7377,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233264330	802400-3322	Vänskapsförbundet Sverige-Israel Riksorganisation, VSI	https://vsi.nu/	förbund,riksorganisation	
 1233264439	802430-7442	Hofterup IBF	https://www.laget.se/HIBF/	idrottsförening,innebandyklubb	
 1233264595	885000-1440	Hedesunda IF	https://www.svenskalag.se/hedesundaif	fotbollsklubb,friidrottsförening,idrottsförening,skidlöparklubb	
+1233264652	846501-2451	MFF Support	https://mffsupport.com/	supporterklubb	
 1233265030	802473-6111	Gerstorps Ryttarsällskap, GRS	https://www.gerstorprs.se/	hästsport,ryttarsällskap	
 1233265071	802428-1266	S:t Eskils Skyttar	https://www.svenskalag.se/steskilsskyttar	skytteklubb,sportskytteklubb	
 1233265188	852000-3628	Bifrostkyrkans Församling	https://bifrostkyrkan.se/	religion	
@@ -11444,6 +11446,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235166103	012389-5526	SPF Seniorerna Toarp-Dalsjöfors	https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-toarp-dalsjofors/	pensionärsklubb	
 1235166129	252004-9277	Österåkers Pastorat	https://www.svenskakyrkan.se/osteraker	religion	Övrigt
 1235166319	252004-0961	Estuna-Söderbykarls Församling	https://www.svenskakyrkan.se/roslagens-ostra-pastorat/estuna-soderbykarls-forsamling	religion	
+1235166350	802498-9769	Örebro Stadsmisson	https://orebrostadsmission.se/	hjälporganisation	Karlskoga
 1235166491	802505-9067	Föreningen Panterbowlarna Umeå	https://panterbowlarnaumea.weebly.com/	bowlingklubb,idrottsförening,pensionärsklubb	
 1235166632	892001-0751	Jämtlands Travhästägarförening	https://www.ostersundstravet.com/sport-och-spel/for-aktiva/hastagareforeningen/	hästsport,travsport	
 1235166772	252002-9824	Nårunga Församling	https://www.svenskakyrkan.se/vargarda	religion	Kollekt
@@ -13328,6 +13331,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236015291	802008-5422	Hässelby Scoutkår	https://hasselby.scout.se/	scoutkår	
 1236015523	716417-8027	Bostadsrättsföreningen Munken i Stockholm	https://www.hsb.se/stockholm/brf/munken/	bostadsrättsförening	
 1236017875	716404-3643	Broakulla Folkets Hus	https://broakullafolketshus.se/	folkets hus,intresseförening	
+1236020101	862500-8142	Vänersborgs Rugbyklubb	https://www.svenskalag.se/vrk	idrottsförening,rugbyklubb	
 1236021216	897001-5809	Luleå ju-jutsuklubb	https://www.ljjk.net/	idrottsförening,jujutsuklubb,kampsportsförening	
 1236021299	863500-4743	Hela Människan	https://helamanniskan.se/lerum/	hjälporganisation,religion	Lerum
 1236021372	837001-2265	Röke Sockengille	https://www.hembygd.se/roke	hembygdsförening,sockenförening	

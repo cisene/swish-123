@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-06-02-rev-205727
+Revision: 2025-06-21-rev-114048
 
-Nummer: 16002
+Nummer: 16006
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -50106,6 +50106,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**MFF Support**
+
+    123 326 46 52
+
+
+
+
 **MFF Tifosi 96, MT96**
 
     123 592 31 23
@@ -77788,6 +77795,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
+    123 231 74 93 - Hammarö Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
     123 156 88 80 - Degerforskretsen
 
 
@@ -90106,6 +90120,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vänersborgs Rugbyklubb**
+
+    123 602 01 01
+
+
+
+
 **Vänersborgs Ryttarförening, Brätte Ridskola**
 
     123 344 18 13
@@ -95800,6 +95821,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Örebro Stadsmission**
 
     123 900 53 15
+
+
+
+
+**Örebro Stadsmisson**
+
+    123 516 63 50 - Karlskoga
 
 
 
