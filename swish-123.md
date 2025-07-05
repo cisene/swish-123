@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-05-rev-201514
+Revision: 2025-07-05-rev-202201
 
 Nummer: 16037
 
@@ -44076,7 +44076,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Lapplandsveckan "Lappis"**
+**Lapplandsveckan Lappis**
 
     123 607 27 97
 

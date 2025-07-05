@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-07-05-rev-201451
+# Date: 2025-07-05-rev-202139
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -13470,7 +13470,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236072474	888400-0970	Salsåker-Ullångers IF	https://www.laget.se/HogaKustenFotboll/	fotbollsklubb,idrottsförening	
 1236072698	802412-1025	Föreningen Kisumu	https://kisumu.se/	förening,intresseorganisation,utbildning	
 1236072771	864501-4799	Borås Rugby FC	https://www.svenskalag.se/borasrugby	idrottsförening,rugbyklubb	
-1236072797	894004-0028	Lapplandsveckan "Lappis"	https://lappis.se/	podcast,religion	
+1236072797	894004-0028	Lapplandsveckan Lappis	https://lappis.se/	podcast,religion	
 1236072938	818000-2696	Torshälla Segelsällskap	https://www.torshallasegelsallskap.se/	segelklubb,segelsällskap	Övrigt
 1236074363	802543-5028	Föreningen för Sankta Thoras pilgrimsled	https://www.pilgrimsvagen.se/	religion	
 1236074678	252003-6399	Orust Pastorat	https://www.svenskakyrkan.se/orust	religion	Insamling Myckleby församling
