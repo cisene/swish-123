@@ -10220,6 +10220,14 @@ entries:
   - fordonsåtervinning
   web: https://atracco.se/
 
+- entry: 1230502302
+  orgName: ITFC Sweden
+  orgNumber: 802440-7754
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://itfcsweden.com/
+
 - entry: 1230502419
   orgName: Garphyttans IF
   orgNumber: 875001-2505
@@ -28994,6 +29002,15 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://www.brf-guldringen.se/
+
+- entry: 1231439678
+  orgName: Idrottsföreningen Troja-Ljungby
+  orgNumber: 829000-0861
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://troja-ljungby.com/
 
 - entry: 1231439900
   orgName: HorseGuard Stängsel och Franska Elbandet AB
@@ -51399,6 +51416,15 @@ entries:
   categories:
   - intresseförening
   web: https://ingenjorerformiljon.se/
+
+- entry: 1232555126
+  orgName: Västernorrlands Innebandyförbund
+  orgNumber: 889601-1312
+  comment: null
+  categories:
+  - idrottsförbund
+  - innebandyklubb
+  web: https://www.innebandy.se/vasternorrland
 
 - entry: 1232555233
   orgName: Vi som gillar Fredags-Gruppen
@@ -107536,6 +107562,15 @@ entries:
   - hundsport
   web: https://www.roslagensbk.se/
 
+- entry: 1235441480
+  orgName: Sävast AIF
+  orgNumber: 898500-5175
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/savastaif
+
 - entry: 1235441498
   orgName: Autism- och Aspergerföreningen Östergötland
   orgNumber: 824000-7362
@@ -120032,7 +120067,7 @@ entries:
   web: https://www.svenskalag.se/borasrugby
 
 - entry: 1236072797
-  orgName: Lapplandsveckan
+  orgName: Lapplandsveckan "Lappis"
   orgNumber: 894004-0028
   comment: null
   categories:
@@ -129279,7 +129314,6 @@ entries:
   orgNumber: 835001-0008
   comment: null
   categories:
-  - förbund
   - idrottsförbund
   - ridsport
   web: https://ridsport.se/distrikt/blekinge
@@ -140095,6 +140129,15 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.open-doors.se/
+
+- entry: 1239003179
+  orgName: Stiftelsen Radiohjälpen
+  orgNumber: 802007-9755
+  comment: Musikhjälpen
+  categories:
+  - hjälporganisation
+  - insamlingskontroll
+  web: https://www.radiohjalpen.se/
 
 - entry: 1239003195
   orgName: Reumatikerförbundet

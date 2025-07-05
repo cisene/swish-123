@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-06-21-rev-211033
+# Date: 2025-07-05-rev-201451
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1159,6 +1159,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230500280	832400-8948	Neuroförbundet Kalmar	https://neuro.se/forening/foereningar-a-oe/kalmar/	anhörigorganisation,patientförening	
 1230500678	822000-6103	Stiftelsen Östergötlands Museum	https://ostergotlandsmuseum.se/	museum,stiftelse	
 1230502062	556798-0932	Atracco Group AB	https://atracco.se/	bildelar,fordonsåtervinning	
+1230502302	802440-7754	ITFC Sweden	https://itfcsweden.com/	supporterklubb	
 1230502419	875001-2505	Garphyttans IF	https://www.laget.se/garphyttansif/	fotbollsklubb,idrottsförening	
 1230502534	556726-5755	Pernova Hjälpmedel AB	https://www.pernova.se/	hjälpmedel,medicintekniska hjälpmedel	
 1230502906	802542-8379	Rotary Smålandsstenar	https://smalandsstenar.rotary2380.se/	rotaryklubb	
@@ -3273,6 +3274,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231437326	814000-0319	PRO Nacka	https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-nacka/foreningar/nacka.html	pensionärsklubb	
 1231438100	833600-5478	Djurskyddet Västervik	https://www.djurskyddetvastervik.se/	djurskydd,djurvård,katthem	
 1231438134	757201-7577	Bostadsrättsföreningen Guldringen	https://www.brf-guldringen.se/	bostadsrättsförening	
+1231439678	829000-0861	Idrottsföreningen Troja-Ljungby	https://troja-ljungby.com/	idrottsförening,ishockeyklubb	
 1231439900	559184-1126	HorseGuard Stängsel och Franska Elbandet AB	https://www.gilo.nu/	elstängsel,försäljning,stängsel,utrustning	
 1231441096	857203-9678	Torslanda IK	https://www.svenskalag.se/torslandaik	fotbollsklubb,idrottsförening	P2014
 1231441278	802472-4273	Svenska Röda Korset	https://www.rodakorset.se/ort/kalmar/emmaboda-kommun/	hjälporganisation,rödakorset	Emmabodakretsen
@@ -5787,6 +5789,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232549848	252003-2059	Knivsta Pastorat	https://www.svenskakyrkan.se/knivsta	religion	Kollekt Östuna församling
 1232553311	802545-3088	Tifo39	https://www.tifo39.se/	supporterklubb	
 1232554699	802018-2427	Ingenjörer för Miljön	https://ingenjorerformiljon.se/	intresseförening	
+1232555126	889601-1312	Västernorrlands Innebandyförbund	https://www.innebandy.se/vasternorrland	idrottsförbund,innebandyklubb	
 1232555233	802531-7101	Vi som gillar Fredags-Gruppen	https://www.facebook.com/groups/118244715384127/	religion	
 1232555373	846001-0583	Skånes Bridgeförbund	https://www.svenskbridge.se/skånes-bf	bridgeförbund	
 1232555803	802417-4784	Drevinge Ryttarsällskap	https://drevingeryttarsallskap.se/	hästsport,ridsport,ryttarsällskap	
@@ -12070,6 +12073,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235440763	802464-5601	Värnamo Modelljärnvägsförening, VMJF	https://vmjf.org/	intresseförening,modelljärnväg	
 1235440953	252000-6988	Lidhults Församling	https://www.svenskakyrkan.se/ljungby/lidhult-forsamling	religion	Kollekt
 1235440979	802438-5455	Roslagens Brukshundklubb	https://www.roslagensbk.se/	brukshundklubb,hundsport	
+1235441480	898500-5175	Sävast AIF	https://www.svenskalag.se/savastaif	fotbollsklubb,idrottsförening	
 1235441498	824000-7362	Autism- och Aspergerföreningen Östergötland	https://www.autism.se/ostergotland/	anhörigorganisation,föräldraförening	
 1235441605	802456-2905	Vellinge FF	https://www.laget.se/VellingeFFs/	fotbollsklubb,idrottsförening	
 1235441787	878001-8878	Dingtuna Bygdegårdsförening	https://bygdegardarna.se/dingtuna/	bygdegårdsförening	
@@ -13466,7 +13470,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236072474	888400-0970	Salsåker-Ullångers IF	https://www.laget.se/HogaKustenFotboll/	fotbollsklubb,idrottsförening	
 1236072698	802412-1025	Föreningen Kisumu	https://kisumu.se/	förening,intresseorganisation,utbildning	
 1236072771	864501-4799	Borås Rugby FC	https://www.svenskalag.se/borasrugby	idrottsförening,rugbyklubb	
-1236072797	894004-0028	Lapplandsveckan	https://lappis.se/	podcast,religion	
+1236072797	894004-0028	Lapplandsveckan "Lappis"	https://lappis.se/	podcast,religion	
 1236072938	818000-2696	Torshälla Segelsällskap	https://www.torshallasegelsallskap.se/	segelklubb,segelsällskap	Övrigt
 1236074363	802543-5028	Föreningen för Sankta Thoras pilgrimsled	https://www.pilgrimsvagen.se/	religion	
 1236074678	252003-6399	Orust Pastorat	https://www.svenskakyrkan.se/orust	religion	Insamling Myckleby församling
@@ -14498,7 +14502,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236518831	887000-2360	Järvsö Sörby Viltvårdsområde	https://www.jarvsosorbyvvo.se/	naturvård,viltvård	
 1236519300	873200-6823	Karlstads Kyrkliga Stadsmission	https://karlstadskyrkligastadsmission.se/	religion	
 1236519946	827500-2189	Vrigstads IF	https://www.vrigstad.nu/	idrottsförening	VIF Damfotboll lotteri
-1236519953	835001-0008	Blekinge Ridsportförbund	https://ridsport.se/distrikt/blekinge	förbund,idrottsförbund,ridsport	
+1236519953	835001-0008	Blekinge Ridsportförbund	https://ridsport.se/distrikt/blekinge	idrottsförbund,ridsport	
 1236520068	802442-1623	Hammarby IF Ishockeyförening	https://www.hammarbyhockey.se/	idrottsförening,ishockeyklubb	Lotterier
 1236520118	802497-4589	Dvärsätts BK	https://www.svenskalag.se/dvarsattsbk	fotbollsklubb,idrottsförening	
 1236520126	814000-2901	Föreningen Skärgårdsmuseet	https://www.skargardsmuseet.org/	intresseförening	
@@ -15711,6 +15715,7 @@ entry	orgNumber	orgName	web	categories	comment
 1239002981	875001-9807	Stiftelsen för Medicinsk forskning vid Universitetssjukhuset Örebro - Nyckelfonden	https://www.nyckelfonden.se/	godkänd gåvomottagare,insamlingskontroll,stiftelse	
 1239003013	845000-8399	Skånes Ornitologiska Förening	https://www.skof.se/	insamlingskontroll,ornitologi	
 1239003054	802439-9845	Open Doors Sverige	https://www.open-doors.se/	godkänd gåvomottagare,insamlingskontroll	
+1239003179	802007-9755	Stiftelsen Radiohjälpen	https://www.radiohjalpen.se/	hjälporganisation,insamlingskontroll	Musikhjälpen
 1239003195	802002-7838	Reumatikerförbundet	https://www.reumatiker.se/	godkänd gåvomottagare,insamlingskontroll,reumatism	
 1239003211	802477-6802	Stiftelsen Henrik Superman	https://www.henriksuperman.se/	insamlingskontroll	
 1239003237	802428-7636	Nordisk Hjälp	https://www.nordiskhjalp.com/	godkänd gåvomottagare,insamlingskontroll	

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-06-21-rev-211102
+Revision: 2025-07-05-rev-201514
 
-Nummer: 16032
+Nummer: 16037
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -33174,6 +33174,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Idrottsföreningen Troja-Ljungby**
+
+    123 143 96 78
+
+
+
+
 **Idrottsgalans Insamlingsstiftelse Fair Play**
 
     123 497 19 41
@@ -36349,6 +36356,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **IT for Children**
 
     123 900 49 46
+
+
+
+
+**ITFC Sweden**
+
+    123 050 23 02
 
 
 
@@ -44062,7 +44076,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Lapplandsveckan**
+**Lapplandsveckan "Lappis"**
 
     123 607 27 97
 
@@ -73259,6 +73273,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Stiftelsen Radiohjälpen**
 
+    123 900 31 79 - Musikhjälpen
+
     123 901 95 06
 
 
@@ -79655,6 +79671,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sävaråkyrkan**
 
     123 389 41 77
+
+
+
+
+**Sävast AIF**
+
+    123 544 14 80
 
 
 
@@ -91085,6 +91108,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västernorrlands IdrottsHistoriska Sällskap**
 
     123 591 72 08
+
+
+
+
+**Västernorrlands Innebandyförbund**
+
+    123 255 51 26
 
 
 
