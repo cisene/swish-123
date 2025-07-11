@@ -48294,6 +48294,15 @@ entries:
   - sjukgymnastik
   web: https://itrim.se/itrim-vasteras/
 
+- entry: 1232324127
+  orgName: OK Ravinen
+  orgNumber: 802434-3421
+  comment: Medlemsavgift
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.ravinen.org/
+
 - entry: 1232324341
   orgName: Arvika SG
   orgNumber: 872000-4517
@@ -69141,6 +69150,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/barkakra/
+
+- entry: 1233391315
+  orgName: OK Ravinen
+  orgNumber: 802434-3421
+  comment: Övrigt
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.ravinen.org/
 
 - entry: 1233395159
   orgName: Bröstcancerföreningen Norrbotten

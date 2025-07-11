@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-07-05-rev-202128
+# Date: 2025-07-11-rev-185510
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -5368,6 +5368,7 @@
 "1232318905","875002-4633","Örebro Hundsällskap Brukshundklubb","https://www.ohsbk.hundpoolen.nu/","brukshundklubb,hundsport,hundsällskap",""
 "1232320109","828000-2570","Värnamo Missionsförsamling","https://missionskyrkan.org/","religion",""
 "1232321164","556641-0162","Itrim Sverige AB","https://itrim.se/itrim-vasteras/","friskvård,motionsklubb,sjukgymnastik","Västerås"
+"1232324127","802434-3421","OK Ravinen","https://www.ravinen.org/","idrottsförening,orienteringsklubb","Medlemsavgift"
 "1232324341","872000-4517","Arvika SG","https://www.svenskalag.se/arvikasg","skytteklubb,sportskytteklubb",""
 "1232324861","832000-4404","Ölands Radioamatörer, SK7RN","https://www.sk7rn.se/","radioamatörer,radioklubb",""
 "1232324937","252003-7355","Ärtemark och Bengtsfors Kyrka","https://www.svenskakyrkan.se/bengtsfors","religion",""
@@ -7677,6 +7678,7 @@
 "1233389855","802494-3451","Barnets Bästa","https://www.barnetsbasta.org/","ideell förening,intresseförening",""
 "1233389863","857209-0580","Jaktspanielklubben","https://www.jaktspanielklubben.se/","jakthund,jaktklubb",""
 "1233389921","802452-0622","SPF Seniorerna Barkåkra","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/barkakra/","pensionärsklubb",""
+"1233391315","802434-3421","OK Ravinen","https://www.ravinen.org/","idrottsförening,orienteringsklubb","Övrigt"
 "1233395159","897000-9950","Bröstcancerföreningen Norrbotten","https://norrbotten.brostcancerforbundet.se/","bröstcancer,donation",""
 "1233395175","886000-3907","Söderhamnsortens Ryttarförening","https://www.soderhamnsortensrf.com/","ridklubb,ryttarförening",""
 "1233395241","898801-0636","Öjebyns IBF","https://www.laget.se/OjebynsIBF/","idrottsförening,innebandyklubb","Öjebyns IBF"
