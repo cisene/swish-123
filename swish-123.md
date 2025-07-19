@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-11-rev-185541
+Revision: 2025-07-19-rev-150451
 
-Nummer: 16039
+Nummer: 16074
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -10242,6 +10242,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bufff Södermanland**
+
+    123 023 87 90
+
+
+
+
 **BUFFF Västmanlands i Västerås**
 
     123 303 02 02
@@ -17004,6 +17011,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Equmeniakyrkan Upplands Väsby**
+
+    123 453 37 82 - Sankt Johannes av Damaskus
+
+
+
+
 **Equmeniakyrkan Vaggeryd**
 
     123 580 79 61
@@ -20867,7 +20881,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Frivilliga Automobilkåren Riksförbundet**
+**Frivilliga Automobilkåren Riksförbundet, FAK**
 
     123 472 02 72
 
@@ -25149,30 +25163,72 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Golden klubben Skaraborg-Älvsborg**
+**Golden Retrieverklubben**
 
-    123 281 15 03
-
-
-
-
-**Golden Retrieverklubben Dalarna**
-
-    123 187 97 17
+    123 187 97 17 - Dalarna
 
 
 
 
-**Golden Retrieverklubben Skåne/Blekinge**
+**Golden Retrieverklubben**
 
-    123 346 90 04
-
-
+    123 390 72 43 - Värmlandssektionen
 
 
-**Golden Retriverklubben Sektion Halland**
 
-    123 457 95 87
+
+**Golden Retrieverklubben**
+
+    123 333 00 65 - Ångermanslandssektionen
+
+
+
+
+**Golden Retrieverklubben**
+
+    123 346 90 04 - Skåne/Blekingesektionen
+
+
+
+
+**Golden Retrieverklubben**
+
+    123 281 15 03 - Skaraborg-Älvsborgsektionen
+
+
+
+
+**Golden Retrieverklubben**
+
+    123 633 73 31 - Västmanlandssektionen
+
+
+
+
+**Golden Retrieverklubben**
+
+    123 193 70 28 - Småland/Ölandssektionen
+
+
+
+
+**Golden Retrieverklubben**
+
+    123 629 71 62 - Skärholmen
+
+
+
+
+**Golden Retrieverklubbens**
+
+    123 087 61 93 - Stockholm/Gotlandssektionen
+
+
+
+
+**Golden Retriverklubben**
+
+    123 457 95 87 - Hallandssektionen
 
 
 
@@ -36294,6 +36350,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Islamska zajednica Bošnjaka u Švedskoj - Džemat Växjö**
+
+    123 058 84 59
+
+
+
+
 **Islandshästföreningen Frigg - Islandshäst**
 
     123 005 23 16
@@ -38323,6 +38386,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 237 56 57 - Dam
 
     123 276 56 18
+
+    123 321 78 25
 
     123 363 41 69
 
@@ -43771,6 +43836,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 003 36 96
 
+    123 471 82 01
+
 
 
 
@@ -47702,6 +47769,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lunds Sportklubb**
 
     123 677 99 95
+
+
+
+
+**Lunds Studentsångare**
+
+    123 527 94 35
 
 
 
@@ -61626,6 +61700,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet för Social och Mental Hälsa Riksförbund, RSMH**
+
+    123 400 23 90 - Västmanland
+
+
+
+
 **Riksförbundet för Sveriges Unga Katoliker, SUK**
 
     123 571 53 13
@@ -66751,6 +66832,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Siri Beauty & Massage / Manee Chimpradit**
 
     123 489 54 47
+
+
+
+
+**Siri Karlsson Musik**
+
+    123 680 35 55
 
 
 
@@ -77120,7 +77208,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska lungcancerstudiegruppens Insamlingsstiftelse**
+**Svenska Lungcancerstudiegruppens Insamlingsstiftelse**
 
     123 145 63 00
 
@@ -78271,6 +78359,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Volvoklubben**
+
+    123 539 84 17
+
+
+
+
 **Svenska Vorstehklubben**
 
     123 149 96 23
@@ -78278,9 +78373,37 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska Vorstehklubben Småland-Östergötland**
+**Svenska Vorstehklubben**
 
-    123 615 85 39
+    123 005 54 18 - Västerbottensektionen
+
+
+
+
+**Svenska Vorstehklubben**
+
+    123 522 79 47 - Gotlandssektionen
+
+
+
+
+**Svenska Vorstehklubben**
+
+    123 615 85 39 - Småland-Östergötlandssektionen
+
+
+
+
+**Svenska Vorstehklubben**
+
+    123 263 57 04 - Västsvenska sektionen
+
+
+
+
+**Svenska Vorstehklubben**
+
+    123 543 86 27 - Mellansvenska sektionen
 
 
 
@@ -78525,6 +78648,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sveriges Ekumeniska Kvinnoråd**
 
     123 147 29 92
+
+
+
+
+**Sveriges Energiföreningars RiksOrganisation, SERO**
+
+    123 309 33 09
 
 
 
@@ -79022,6 +79152,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 900 21 06
 
     123 900 79 15
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 145 53 10 - Uppsala-Knivstasektionen
 
 
 
@@ -83399,6 +83536,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Timmelsta honung / Ervin Wolf**
+
+    123 307 62 70
+
+
+
+
 **Timmermansorden**
 
     123 687 02 24
@@ -86717,6 +86861,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ungdomsbrandkåren Västra Sörmland**
+
+    123 500 88 26
+
+
+
+
 **Ungdomsförbundet Sveriges Flotta - Gripen**
 
     123 598 29 88
@@ -88170,6 +88321,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Varos Cruising**
+
+    123 316 27 57
+
+
+
+
 **Varpen Samfällighetsförening**
 
     123 624 58 15
@@ -88180,6 +88338,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Varpsjö Bygdegårdsförening**
 
     123 268 45 04
+
+
+
+
+**Varsam AB**
+
+    123 059 71 61
 
 
 
@@ -90005,6 +90170,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**VSK Supporterklubb**
+
+    123 119 97 51
+
+
+
+
+**VSK Tifo**
+
+    123 392 12 77
+
+
+
+
 **VSK Vännerna**
 
     123 655 55 02
@@ -90617,6 +90796,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 146 05 18
 
     123 429 63 72
+
+
+
+
+**Värna-Grebo Bygdgårdsförening**
+
+    123 073 84 68
 
 
 
@@ -91241,11 +91427,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Västerås BK - Brottning**
 
-    123 036 94 21 - Medlemsavgift
-
     123 108 95 56 - Café
-
-    123 129 49 33 - Mälarcupen
 
     123 214 10 91 - Övrigt
 
@@ -91264,6 +91446,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerås Bouleklubb**
 
     123 266 17 26
+
+
+
+
+**Västerås Brottarklubb**
+
+    123 036 94 21 - Medlemsavgift
+
+    123 129 49 33 - Mälarcupen
 
 
 
@@ -91701,6 +91892,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västmanland Upplands Energiförening, VUEF**
+
+    123 518 56 73
+
+
+
+
+**Västmanlands Kulturmiljöförening**
+
+    123 416 75 57
+
+
+
+
 **Västmanlands Läns Taxklubb**
 
     123 158 56 52
@@ -91718,6 +91923,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västmanlands Pistolskyttekrets**
 
     123 070 72 57
+
+
+
+
+**Västmanlands Ridsportförbund**
+
+    123 514 73 27
 
 
 
@@ -92427,7 +92639,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 099 90 45
 
-    123 567 34 21
+    123 236 36 87 - Malmö
+
+    123 258 96 61 - Göteborg
+
+    123 271 70 80 - Södertälje
+
+    123 368 92 47 - Uppsala
+
+    123 567 34 21 - Visby
 
 
 
