@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-19-rev-150451
+Revision: 2025-07-19-rev-205426
 
-Nummer: 16074
+Nummer: 16091
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -5461,7 +5461,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bjärnums GOIF**
+**Bjärnums GoIF**
 
     123 666 34 39
 
@@ -5950,13 +5950,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 446 69 26 - F08-09
 
     123 496 95 31 - U15-16
-
-
-
-
-**BK Loke**
-
-    123 377 33 63
 
 
 
@@ -9663,6 +9656,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Brottarklubben Loke**
+
+    123 377 33 63
+
+
+
+
 **Brottby SK**
 
     123 284 19 48
@@ -12024,7 +12024,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 099 90 11 - Deltagaravgift innebandy
 
-    123 363 43 18
+    123 363 43 18 - Fika
 
     123 551 23 06 - CIF-tipset
 
@@ -12636,6 +12636,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dalskogs Bygdegårdsförening**
 
     123 552 78 25
+
+
+
+
+**Dalslands Ballongklubb**
+
+    123 295 37 19
 
 
 
@@ -23505,6 +23512,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Svenska Rominstitutets Vänner**
+
+    123 581 53 78
+
+
+
+
 **Föreningen Svenska Stridsbåtar**
 
     123 008 25 86
@@ -27198,6 +27212,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Göteborgs Rullstolsbasketklubb, GRBK**
 
     123 121 20 75
+
+
+
+
+**Göteborgs Segelflygklubb**
+
+    123 378 43 60
 
 
 
@@ -38706,6 +38727,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Karlstad Curlingklubb**
+
+    123 690 27 53
+
+
+
+
 **Karlstad Fotboll Supporterklubb**
 
     123 685 85 26
@@ -42152,6 +42180,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kulturförening Norra Gotland, KUNO**
 
     123 135 16 75
+
+
+
+
+**Kulturföreningen Björkhagens Hjärta**
+
+    123 566 79 77
 
 
 
@@ -47439,7 +47474,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Luleå Brottarklubb - Brottning**
+**Luleå Brottarklubb**
 
     123 162 70 90
 
@@ -51658,6 +51693,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Munsö Adelsö Lokala Kennelklubb, MALKK**
 
     123 005 20 92
+
+
+
+
+**Museiföreningen Gefle-Dala Jernväg, MfGDJ**
+
+    123 549 89 28
 
 
 
@@ -61475,6 +61517,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**RFK Viggen**
+
+    123 682 54 75
+
+
+
+
 **RFSL Stockholm**
 
     123 354 83 44 - Gåva
@@ -64253,7 +64302,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Råneå BK**
+**Råneå Brottarklubb**
 
     123 000 90 50
 
@@ -68792,16 +68841,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Skönsbergs BK**
-
-    123 134 04 21
-
-
-
-
 **Skönsbergs Bouleklubb**
 
     123 160 00 71
+
+
+
+
+**Skönsbergs Brottarklubb**
+
+    123 134 04 21
 
 
 
@@ -72090,6 +72139,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Spårvägens Brasiliansk Jiu-Jitsu Förening**
+
+    123 308 55 03 - kläder, gi och övrigt
+
+    123 598 05 94 - terminsavgift
+
+
+
+
 **Spårvägens BTK**
 
     123 429 31 89
@@ -74791,6 +74849,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Strängnäs Modellflygare**
+
+    123 541 70 92
+
+
+
+
 **Strängnäs Scoutkår**
 
     123 019 93 64
@@ -76108,13 +76173,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svensk Barnfetmaförening / Svenska Barnläkarföreningen**
-
-    123 288 66 95 - Barnfetma
-
-
-
-
 **Svensk Dystoni-Förening, SDF**
 
     123 637 25 77
@@ -76139,6 +76197,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svensk Flöjt**
 
     123 640 22 67
+
+
+
+
+**Svensk Förening Barnobesitas / Svenska Barnläkarföreningen**
+
+    123 288 66 95 - Barnfetma
 
 
 
@@ -76825,9 +76890,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Fäktförbundet**
+
+    123 269 49 58
+
+
+
+
 **Svenska Föreningen för Allergologi**
 
     123 543 94 84
+
+
+
+
+**Svenska Föreningen för Historiska Värdepapper**
+
+    123 187 46 35
 
 
 
@@ -76974,6 +77053,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Jämthundklubben**
+
+    123 019 68 65
+
+
+
+
 **Svenska Karateförbundet**
 
     123 365 32 01
@@ -76991,6 +77077,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Klubben för Engelsk Bulldogg, SKEB**
 
     123 139 11 43
+
+
+
+
+**Svenska klubben för flerfärgade pudlar**
+
+    123 289 81 95
 
 
 
@@ -77167,6 +77260,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 559 85 52 - Box Landslaget
 
     123 559 85 60 - Svenska Lacrosse Ligan, SLL
+
+
+
+
+**Svenska Laikaklubben**
+
+    123 637 15 53
 
 
 
@@ -77403,6 +77503,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Peter Casselsällskapet**
 
     123 088 72 81
+
+
+
+
+**Svenska Petit Basset Griffon Vendéen Klubben**
+
+    123 227 75 31
 
 
 
@@ -78086,6 +78193,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Schnauzer-Pinscherklubben, SSPK**
 
     123 395 65 54
+
+
+
+
+**Svenska Schweisshundklubben**
+
+    123 371 55 54
 
 
 
@@ -80032,7 +80146,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Söderhamns BK**
+**Söderhamns Brottarklubb**
 
     123 161 18 96
 
@@ -91427,8 +91541,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Västerås BK - Brottning**
 
-    123 108 95 56 - Café
-
     123 214 10 91 - Övrigt
 
     123 373 78 89 - Stödmedlem/Wresfit
@@ -91453,6 +91565,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerås Brottarklubb**
 
     123 036 94 21 - Medlemsavgift
+
+    123 108 95 56 - Café
 
     123 129 49 33 - Mälarcupen
 
