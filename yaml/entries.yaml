@@ -104131,7 +104131,7 @@ entries:
   categories:
   - hästklubb
   - ridklubb
-  web: null
+  web: https://www.facebook.com/vastanahastforening/
 
 - entry: 1235196316
   orgName: Nottebäcks Hembygdsförening
@@ -139047,6 +139047,14 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.uppsalahk.se/
+
+- entry: 1236893846
+  orgName: Narkotikapolitik / Johan Svensson
+  orgNumber: null
+  comment: null
+  categories:
+  - politisk debattör
+  web: https://narkotikapolitik.online/
 
 - entry: 1236894406
   orgName: Ovansiljans Nose Work förening

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-07-19-rev-205407
+# Date: 2025-07-25-rev-002956
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -11557,7 +11557,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235194303	802006-9665	Föreningen Biblis	http://biblis.se/	intresseförening	
 1235194402	814000-3628	Fisksätra Båtklubb	https://fisksatrabatklubb.se/	båtklubb,båtsällskap	
 1235195284	802443-8437	Tjärnö Hembygdsförening	https://www.hembygd.se/tj-rn-hembygdsf-rening	hembygdsförening	
-1235196308	817301-5572	Västanå HästFörening		hästklubb,ridklubb	
+1235196308	817301-5572	Västanå HästFörening	https://www.facebook.com/vastanahastforening/	hästklubb,ridklubb	
 1235196316	829500-6376	Nottebäcks Hembygdsförening	https://www.hembygd.se/notteback	hembygdsförening	
 1235196373	559291-6455	FrihetsNytt / Marketing4Future M4F AB	https://frihetsnytt.se/	alternativa media,alternativa nyheter	
 1235196423	556617-1319	Scandinavian Safe	https://scandinaviansafe.se/	försäljning,säkerhetsutrustning	
