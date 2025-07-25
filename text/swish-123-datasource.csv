@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-07-25-rev-133128
+# Date: 2025-07-25-rev-142112
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -7641,7 +7641,7 @@
 "1233371218","849202-4503","Genevad-Veinge IF","https://www.svenskalag.se/gifvif","fotbollsklubb,idrottsförening",""
 "1233371283","887000-3715","Ljusdals Ridklubb","https://ljusdalsridklubb.se/","hästsport,ridklubb",""
 "1233371366","252000-6145","Mellby Församling","https://www.svenskakyrkan.se/sodravedbopastorat","religion","Kollekt"
-"1233371754","843000-3767","Svensk Röda Korset","https://www.rodakorset.se/ort/skane/helsingborgs-stad/","hjälporganisation,rödakorset","Helsingborg"
+"1233371754","843000-3767","Svenska Röda Korset","https://www.rodakorset.se/ort/skane/helsingborgs-stad/","hjälporganisation,rödakorset","Helsingborg"
 "1233371952","556192-2971","Josefssons Trafikskola","https://www.josefssonstrafikskola.se/","trafikskola","Kumla"
 "1233371986","252003-7041","Landvetter-Härryda Pastorat","https://www.svenskakyrkan.se/landvetterharryda","religion","Evenemang"
 "1233372075","883200-5949","Stiftelsen Berget","https://www.stiftelsenberget.com/","stiftelse",""
@@ -8920,7 +8920,7 @@
 "1233927944","885501-4521","Byrådet Åmot","https://www.amot.nu/","byförening,samhällsförening",""
 "1233928132","878500-0350","Pingstförsamlingen Kungsör","https://kungsor.pingst.se/","religion","Missionskassan"
 "1233929304","846502-6584","SPF Seniorerna Club 73 Svedala","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spfseniorerna-club-73-svedala/","pensionärsklubb",""
-"1233929734","802010-2995","Svensk - Eritreanskt Forum, S-ERI","https://www.seriforum.se/","välgörenhet",""
+"1233929734","802010-2995","Svensk Eritreanskt Forum, S-ERI","https://www.seriforum.se/","välgörenhet",""
 "1233930229","838201-7518","Wanås Konst","https://www.wanaskonst.se/","konstförening",""
 "1233930328","802454-9597","Åkersberga IBF","https://www.akersbergaibf.se/","idrottsförening,innebandyklubb",""
 "1233930344","826000-1535","IKHP Huskvarna","https://ikhp.se/","idrottsförening,skidklubb,skidlöparklubb,yoga",""

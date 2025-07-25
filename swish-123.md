@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-25-rev-133157
+Revision: 2025-07-25-rev-142141
 
 Nummer: 16124
 
@@ -76269,7 +76269,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svensk - Eritreanskt Forum, S-ERI**
+**Svensk Eritreanskt Forum, S-ERI**
 
     123 392 97 34
 
@@ -76442,13 +76442,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svensk Ortopedisk Gipstekniker Förening, SOGF**
 
     123 230 85 34
-
-
-
-
-**Svensk Röda Korset**
-
-    123 337 17 54 - Helsingborg
 
 
 
@@ -78105,6 +78098,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Röda Korset**
 
     123 141 01 74 - Höganäs Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 337 17 54 - Helsingborg
 
 
 
