@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-25-rev-004649
+Revision: 2025-07-25-rev-133157
 
-Nummer: 16091
+Nummer: 16124
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3797,6 +3797,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Axmarby Intresseförening**
 
     123 452 33 61
+
+
+
+
+**Axtorps Hundskola / Hillevi Holmgren**
+
+    123 067 81 69
 
 
 
@@ -19406,6 +19413,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**FK Bosna**
+
+    123 461 11 33
+
+
+
+
 **FK Bosna 08**
 
     123 675 49 49 - A-lag Herrar
@@ -23407,6 +23421,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Sjuksköterskornas Sommarhem, Villa Solhäll**
+
+    123 079 00 22
+
+
+
+
 **Föreningen Själ och Hjärta**
 
     123 130 07 30
@@ -23501,6 +23522,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen Svenska Finullsfår**
 
     123 044 13 03
+
+
+
+
+**Föreningen Svenska Magic**
+
+    123 634 53 00
 
 
 
@@ -25065,6 +25093,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gnosjö Hjälper**
+
+    123 586 27 84
+
+
+
+
 **Gnosjö IBK**
 
     123 311 74 88
@@ -25716,6 +25751,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Grottbyn AB**
 
     123 404 01 43
+
+
+
+
+**Grums Badmintonklubb**
+
+    123 419 76 95
 
 
 
@@ -26715,6 +26757,35 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 666 20 43 - P & P
 
     123 695 43 17 - Juniorhandling
+
+
+
+
+**Gävle Brukshundklubb**
+
+    123 019 65 19 - Kursavgift
+
+    123 022 64 31 - Rallylydnad
+
+    123 124 95 98 - Shopen
+
+    123 203 97 17 - Uthyrning
+
+    123 220 30 40 - Bruks
+
+    123 257 45 49 - Mentaltest
+
+    123 258 19 81 - NoseWork
+
+    123 323 53 48 - IGP
+
+    123 441 92 89 - Kök
+
+    123 561 72 61 - Utställning
+
+    123 577 70 73 - Inomhushallen
+
+    123 647 75 74 - Lydnad
 
 
 
@@ -32385,6 +32456,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Högestad & Christinehof Förvaltnings AB**
 
     123 511 54 80
+
+
+
+
+**Höglandet Svensk Schäferhundklubb**
+
+    123 025 21 30
 
 
 
@@ -54948,6 +55026,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nyköpings Klätterklubb**
+
+    123 148 96 57
+
+
+
+
 **Nyköpings Konstförening**
 
     123 303 77 77
@@ -65528,7 +65613,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Sandvikens Brukshundklubb**
 
-    123 063 30 08
+    123 063 30 08 - Övrigt
+
+    123 523 57 75 - Kurs
+
+    123 620 20 30 - Kök
 
 
 
@@ -76350,6 +76439,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svensk Ortopedisk Gipstekniker Förening, SOGF**
+
+    123 230 85 34
+
+
+
+
 **Svensk Röda Korset**
 
     123 337 17 54 - Helsingborg
@@ -76488,6 +76584,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Avelsorganisationen för Irish Cob och Irish Cob partbred**
 
     123 115 96 07
+
+
+
+
+**Svenska Badmintonförbundet**
+
+    123 199 83 68
 
 
 
@@ -76648,6 +76751,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Brottningsdomarförbundet**
 
     123 165 80 38
+
+
+
+
+**Svenska Brukshundklubben**
+
+    123 013 81 72 - SKK Hunddata
 
 
 
@@ -76932,6 +77042,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Griffon Fauve de Bretagne Klubben**
+
+    123 660 71 88
+
+
+
+
 **Svenska Handtryck AB**
 
     123 539 56 29
@@ -77011,6 +77128,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Hundtrickklubben**
+
+    123 598 36 97
+
+
+
+
 **Svenska Hästars Värn**
 
     123 900 44 17
@@ -77049,6 +77173,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Jägareförbundet**
 
     123 626 19 86
+
+
+
+
+**Svenska Jägareförbundet Gällivare**
+
+    123 346 76 85
 
 
 
@@ -77098,6 +77229,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Konstnärernas Förening, SKF**
 
     123 015 65 13
+
+
+
+
+**Svenska Kroppsvallarklubben, SvKV**
+
+    123 428 40 63
 
 
 
@@ -77640,6 +77778,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Räddare, Swedish Rescuers**
 
     123 380 95 22
+
+
+
+
+**Svenska Räddningshundar, SRH**
+
+    123 455 57 69
 
 
 
@@ -91296,6 +91441,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västerbottens Kennelklubb**
+
+    123 396 74 45
+
+
+
+
 **Västerbottens läns Stövarklubb, VBSK**
 
     123 098 63 72
@@ -92724,6 +92876,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 361 81 05
 
     123 633 61 35
+
+
+
+
+**Waxholms Brukshundklubb**
+
+    123 269 05 43
 
 
 
@@ -96012,6 +96171,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Öre-Långsele Fiskevårdsförening**
 
     123 471 73 44
+
+
+
+
+**Örebro Badmintonklubb**
+
+    123 299 28 24
 
 
 

@@ -2502,6 +2502,14 @@ entries:
   - personlig träning
   web: null
 
+- entry: 1230138172
+  orgName: Svenska Brukshundklubben
+  orgNumber: 802000-4605
+  comment: SKK Hunddata
+  categories:
+  - brukshundklubb
+  web: https://brukshundklubben.se/
+
 - entry: 1230138727
   orgName: Rena Mälaren Ideell Förening
   orgNumber: 802530-2970
@@ -3570,6 +3578,15 @@ entries:
   - psykoterapi
   web: https://sanktlukas.se/vasteras/
 
+- entry: 1230196519
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: Kursavgift
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
+
 - entry: 1230196550
   orgName: Mode Eva
   orgNumber: 556814-6673
@@ -4124,6 +4141,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/lysekils-pastorat/bro--brastad
+
+- entry: 1230226431
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: Rallylydnad
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
 
 - entry: 1230226514
   orgName: Dänningelanda BTK
@@ -4834,6 +4860,15 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/hifhandboll
+
+- entry: 1230252130
+  orgName: Höglandet Svensk Schäferhundklubb
+  orgNumber: 802517-9113
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://skhoglandet.se/
 
 - entry: 1230252254
   orgName: Solna Landhockeyförening Mens Sana In Corpore Sano, MESAICOS
@@ -12589,7 +12624,7 @@ entries:
 - entry: 1230633008
   orgName: Sandvikens Brukshundklubb
   orgNumber: 885500-5008
-  comment: null
+  comment: Övrigt
   categories:
   - brukshundklubb
   - hundsport
@@ -13200,6 +13235,16 @@ entries:
   categories:
   - rotaryklubb
   web: https://www.rotary2395.se/
+
+- entry: 1230678169
+  orgName: Axtorps Hundskola / Hillevi Holmgren
+  orgNumber: 480524-XXXX
+  comment: null
+  categories:
+  - hundkurser
+  - hundskola
+  - hundträning
+  web: https://www.axtorpshundskola.se/
 
 - entry: 1230678839
   orgName: Bondesonsällskapet
@@ -15598,6 +15643,15 @@ entries:
   - artist
   - musiker
   web: https://www.mattiasenn.se/
+
+- entry: 1230790022
+  orgName: Föreningen Sjuksköterskornas Sommarhem, Villa Solhäll
+  orgNumber: 873200-2467
+  comment: null
+  categories:
+  - arbetstagarorganisation
+  - intresseförening
+  web: https://www.regionvarmland.se/regionvarmland/jobb-utbildning--forskning/jobba-med-oss/vara-formaner/villa-solhall
 
 - entry: 1230792234
   orgName: Hultsfred Gymnastikklubb
@@ -25731,6 +25785,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/kramfors/gudmundra-kyrka
 
+- entry: 1231249598
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: Shopen
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
+
 - entry: 1231249606
   orgName: Råda Ridklubb
   orgNumber: 852000-3057
@@ -30513,6 +30576,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://djurahembygdsforening.se/
+
+- entry: 1231489657
+  orgName: Nyköpings Klätterklubb
+  orgNumber: 802511-5208
+  comment: null
+  categories:
+  - idrottsförening
+  - klättringsklubb
+  web: https://nykopingsklatterklubb.se/
 
 - entry: 1231489681
   orgName: SPF Seniorerna Nolaskog Örnsköldsvik
@@ -40619,6 +40691,15 @@ entries:
   - bostadsrättsförening
   web: https://gullvivan.com/
 
+- entry: 1231998368
+  orgName: Svenska Badmintonförbundet
+  orgNumber: 817601-1495
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförbund
+  web: https://badminton.nu/
+
 - entry: 1231998467
   orgName: Polhemskliniken / Fortunatus AB
   orgNumber: 556903-7921
@@ -41265,6 +41346,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.levandeonnekop.se/
+
+- entry: 1232039717
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: Uthyrning
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
 
 - entry: 1232041044
   orgName: Elektronikföreningen Admittansen
@@ -44554,6 +44644,15 @@ entries:
   - prostatacancer
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/skane/prolivskvalitet/
 
+- entry: 1232203040
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: Bruks
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
+
 - entry: 1232203214
   orgName: Hellasgården / Krasiva AB
   orgNumber: 559182-1821
@@ -47428,6 +47527,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://hejnum.se/
+
+- entry: 1232308534
+  orgName: Svensk Ortopedisk Gipstekniker Förening, SOGF
+  orgNumber: 812800-8029
+  comment: null
+  categories:
+  - arbetstagarorganisation
+  - intresseförening
+  web: https://sogf.se/
 
 - entry: 1232308898
   orgName: Arbetarnas Kulturhistoriska Sällskap, AKS
@@ -51804,6 +51912,15 @@ entries:
   - korpenförening
   web: https://www.korpen.se/korpenalmhult
 
+- entry: 1232574549
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: Mentaltest
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
+
 - entry: 1232576189
   orgName: Fjällbacka Båt och Bil AB
   orgNumber: 559279-6493
@@ -51968,6 +52085,15 @@ entries:
   - författare
   - konst
   web: https://www.andersandersson.se/
+
+- entry: 1232581981
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: NoseWork
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
 
 - entry: 1232585792
   orgName: Old English Sheepdogsällskapet, OESS
@@ -54445,6 +54571,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/askeryd
+
+- entry: 1232690543
+  orgName: Waxholms Brukshundklubb
+  orgNumber: 802432-5329
+  comment: null
+  categories:
+  - brukshundklubb
+  - hundsport
+  web: https://www.waxholmsbk.se/
 
 - entry: 1232691061
   orgName: HV 71
@@ -60599,6 +60734,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-lund/foreningar/sodra-sandby.html
 
+- entry: 1232992824
+  orgName: Örebro Badmintonklubb
+  orgNumber: 875001-2182
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://www.orebrobadminton.com/
+
 - entry: 1232992840
   orgName: Wasa Golfklubb
   orgNumber: 802471-1817
@@ -65432,6 +65576,15 @@ entries:
   - hembygdsförening
   web: https://kraklingbobf.se/
 
+- entry: 1233235348
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: IGP
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
+
 - entry: 1233235520
   orgName: Holma Båtklubb
   orgNumber: 802524-6425
@@ -70138,6 +70291,14 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.laget.se/Fjugesta_IF/
+
+- entry: 1233467685
+  orgName: Svenska Jägareförbundet Gällivare
+  orgNumber: 897900-1669
+  comment: null
+  categories:
+  - jaktvårdsklubb
+  web: https://krets.jagareforbundet.se/gallivare/
 
 - entry: 1233467727
   orgName: Askersunds IBK
@@ -80126,6 +80287,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1233967445
+  orgName: Västerbottens Kennelklubb
+  orgNumber: 894001-5624
+  comment: null
+  categories:
+  - hundklubb
+  - kennelklubb
+  web: https://www.skk.se/vbkk
+
 - entry: 1233967551
   orgName: Grynkorvens Vänner
   orgNumber: 802433-8199
@@ -84161,6 +84331,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/borlange
 
+- entry: 1234197695
+  orgName: Grums Badmintonklubb
+  orgNumber: 802457-3936
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://www.grumsbadminton.se/
+
 - entry: 1234197703
   orgName: Smårsgårdens Islandshästar HB
   orgNumber: 670326-XXXX
@@ -85997,6 +86176,15 @@ entries:
   categories:
   - samfällighetsförening
   web: https://www.tegelhagen.se/
+
+- entry: 1234284063
+  orgName: Svenska Kroppsvallarklubben, SvKV
+  orgNumber: 802455-0637
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://www.kroppsvallarna.se/
 
 - entry: 1234284071
   orgName: Bostadsrättsföreningen Krusbäret
@@ -88181,6 +88369,15 @@ entries:
   categories:
   - byalag
   web: https://www.latorpsbyalag.se/
+
+- entry: 1234419289
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: Kök
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
 
 - entry: 1234419446
   orgName: Hrvatsko kulturno sportsko društvo Helsingborg
@@ -90676,6 +90873,17 @@ entries:
   - lokalproducerat
   web: https://gideget.se/
 
+- entry: 1234555769
+  orgName: Svenska Räddningshundar, SRH
+  orgNumber: 802482-5724
+  comment: null
+  categories:
+  - hundklubb
+  - räddningshundar
+  - specialsökshundar
+  - tjänstehundar
+  web: https://www.svenskaraddningshundar.se/
+
 - entry: 1234556114
   orgName: Samfundet Sverige-Finland
   orgNumber: 802009-6312
@@ -91844,6 +92052,15 @@ entries:
   - orienteringsklubb
   - skidlöparklubb
   web: https://www.okloftan.se/
+
+- entry: 1234611133
+  orgName: FK Bosna
+  orgNumber: 802457-9362
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.fkbosna.se/
 
 - entry: 1234611182
   orgName: Skene IF
@@ -103599,6 +103816,15 @@ entries:
   - rotaryklubb
   web: https://savsjo.rotary2380.se/
 
+- entry: 1235235775
+  orgName: Sandvikens Brukshundklubb
+  orgNumber: 885500-5008
+  comment: Kurs
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.sandvikensbk.hundpoolen.se/
+
 - entry: 1235239512
   orgName: Supporterklubben Kvastarna
   orgNumber: 802469-2421
@@ -111837,6 +112063,15 @@ entries:
   - religion
   web: https://www.centrumkyrkanfinspang.se/
 
+- entry: 1235617261
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: Utställning
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
+
 - entry: 1235618715
   orgName: Barigårds Ishestar / Emma Barigård
   orgNumber: 840113-XXXX
@@ -115152,6 +115387,15 @@ entries:
   - stuguthyrning
   web: https://orlandohus.se/
 
+- entry: 1235777073
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: Inomhushallen
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
+
 - entry: 1235777586
   orgName: Aneby Pastorat
   orgNumber: 252003-8833
@@ -116597,6 +116841,14 @@ entries:
   - insamling
   - ukraina
   web: https://www.facebook.com/tjornshjalptillukraina
+
+- entry: 1235862784
+  orgName: Gnosjö Hjälper
+  orgNumber: 828000-9948
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://gnosjohjalper.se/
 
 - entry: 1235864855
   orgName: Storsjöns Vägförening
@@ -119004,6 +119256,15 @@ entries:
   - folkets hus
   - intresseförening
   web: https://fisksatrafolketshus.se/
+
+- entry: 1235983697
+  orgName: Svenska Hundtrickklubben
+  orgNumber: 802536-3717
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://shtk.se/
 
 - entry: 1235984547
   orgName: Västerås Konstförening
@@ -123568,6 +123829,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/bjarnumspastorat
 
+- entry: 1236202030
+  orgName: Sandvikens Brukshundklubb
+  orgNumber: 885500-5008
+  comment: Kök
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.sandvikensbk.hundpoolen.se/
+
 - entry: 1236202113
   orgName: Afasiföreningen i Stockholms Län
   orgNumber: 802009-2691
@@ -126345,6 +126615,15 @@ entries:
   - bygdegårdsförening
   web: https://www.frosthult.se/
 
+- entry: 1236345300
+  orgName: Föreningen Svenska Magic
+  orgNumber: 802469-3122
+  comment: null
+  categories:
+  - intresseförening
+  - rollspel
+  web: https://www.svenskamagic.com/
+
 - entry: 1236345391
   orgName: JK10 IF
   orgNumber: 802449-2442
@@ -128793,6 +129072,15 @@ entries:
   - religion
   web: https://brackediakoni.se/
 
+- entry: 1236477574
+  orgName: Gävle Brukshundklubb
+  orgNumber: 885000-3024
+  comment: Lydnad
+  categories:
+  - brukshundklubb
+  - hundklubb
+  web: https://www.gavlebk.se/
+
 - entry: 1236478283
   orgName: Bostadsrättsföreningen Tåget
   orgNumber: 775000-1062
@@ -131008,6 +131296,7 @@ entries:
   comment: null
   categories:
   - idrottsförbund
+  - ridsport
   web: https://ridsport.se/
 
 - entry: 1236578330
@@ -131296,6 +131585,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/fccitytrelleborg
+
+- entry: 1236607188
+  orgName: Svenska Griffon Fauve de Bretagne Klubben
+  orgNumber: 802531-2482
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://griffonfauve.se/
 
 - entry: 1236607618
   orgName: Stiftelsen Fryshuset
