@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-28-rev-111858
+Revision: 2025-07-28-rev-155450
 
-Nummer: 16131
+Nummer: 16149
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2385,6 +2385,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Annedals Församling**
 
     123 019 52 14
+
+
+
+
+**Annelie Helénes Massage & Hälsa / Heléne Sivertsson**
+
+    123 217 91 58
 
 
 
@@ -11640,6 +11647,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Chante Massage AB**
+
+    123 367 84 63
+
+
+
+
 **Charity Yoga / Marie Mallmin AB**
 
     123 107 97 06
@@ -16004,6 +16018,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Emmas Massage / X-Event Umeå AB**
+
+    123 149 84 35
+
+
+
+
 **Emådalens Brukshundsklubb**
 
     123 355 36 74
@@ -19369,6 +19390,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Fjällborgs Massage / Kenneth Fjällborg**
+
+    123 000 93 32
+
+
+
+
 **Fjällorna - fiskeföreningen för kvinnor**
 
     123 364 86 56
@@ -19444,6 +19472,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **FK Bosna 08**
 
     123 675 49 49 - A-lag Herrar
+
+
+
+
+**FK Bosna 92 Örebro**
+
+    123 568 20 83
 
 
 
@@ -19620,6 +19655,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Flexyoga - Yoga Dans Massage / Ingrid Andersson**
+
+    123 438 72 47
+
+
+
+
 **Flisby Östra Byalag & Bygdegårdsförening**
 
     123 029 61 94
@@ -19758,6 +19800,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Flurkmarks IK**
 
     123 580 75 57
+
+
+
+
+**Flygterapeuterna AB**
+
+    123 603 83 35
 
 
 
@@ -37405,6 +37454,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jämtland-Härjedalens Fotbollförbund**
+
+    123 236 95 02
+
+
+
+
 **Jämtland-Härjedalens Stövarklubb, JHSK**
 
     123 042 52 72
@@ -39775,6 +39831,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **KiM - Kvinnojouren i Mark Svenljunga & Tranemo**
 
     123 008 23 39
+
+
+
+
+**Kinamassage / XiaoHong Andersson**
+
+    123 531 26 32
 
 
 
@@ -44186,6 +44249,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Lammgårds SPA & Massage AB**
+
+    123 152 01 96
+
+
+
+
 **Landskrona Direkt / Zebra Media HB**
 
     123 360 46 00
@@ -44379,6 +44449,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lavad Bygdegårdsförening**
 
     123 511 41 11
+
+
+
+
+**Lavemarks massage och friskvård / Linda Lavemark**
+
+    123 399 73 43
 
 
 
@@ -51496,6 +51573,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Mullsjö Allmänna Innebandysällskap**
 
+    123 080 88 32
+
     123 312 94 00
 
 
@@ -52232,6 +52311,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Mästermansgårdens Samfällighet**
 
     123 390 14 85
+
+
+
+
+**Må Bra Massage - Åhus / Kerstin Ljungberg**
+
+    123 263 99 95
 
 
 
@@ -84806,6 +84892,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Torsåkers Idrottsförening**
+
+    123 551 22 98
+
+
+
+
 **Torsås Ryttare**
 
     123 466 48 76
@@ -87319,6 +87412,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Upplands fornminnesförening och hembygdsförbund**
 
     123 366 88 60
+
+
+
+
+**Upplands Fotbollförbund**
+
+    123 523 79 38
 
 
 
@@ -96106,6 +96206,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ölsjöns kropp och hälsa / Marie Westin**
+
+    123 275 46 38
+
+
+
+
 **Ölsta Folketshus & park**
 
     123 551 64 30
@@ -96271,6 +96378,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Örebro Enduro**
 
     123 491 86 29
+
+
+
+
+**Örebro Futsal Club**
+
+    123 153 76 38 - Herr
+
+    123 300 85 39
 
 
 
