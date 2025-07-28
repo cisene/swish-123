@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-07-25-rev-142112
+# Date: 2025-07-28-rev-111829
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -7253,6 +7253,7 @@
 "1233187515","802438-3765","Relearn Suderbyn","https://suderbyn.se/","intresseförening",""
 "1233188679","894700-5750","Missenträsk bygdegårdsförening","https://glommersbygden.se/en/byaforeningar/","bygdegårdsförening",""
 "1233188885","559320-9629","Ale Ponnyranch AB","https://aleponnyranch.com/","ridskola",""
+"1233188919","802534-4451","Göteborgs Internationella Baptistförening","https://gibk.se/","religion",""
 "1233191038","882601-1986","Vansbro Ryttarsällskap","https://www.vansbrors.se/","hästsport,ryttarsällskap",""
 "1233191178","849400-1723","Kungsbacka IF","https://www.kungsbackaif.se/","fotbollsklubb,idrottsförening",""
 "1233191491","802515-6715","Anhörigas Riksförbund","https://anhorigasriksforbund.se/pitea/","anhörigorganisation","Piteå"
@@ -7806,6 +7807,7 @@
 "1233431657","802452-7676","SK Täby Synchro","https://www.svenskalag.se/tabysynchro","idrottsförening,konstsimklubb,simklubb",""
 "1233431798","556841-3867","Royal Limousine Gbg AB","https://www.royallimo.se/","limousine,persontransport",""
 "1233432325","802531-1666","Blågula Korset","https://www.blagulakorset.se/","intresseförening",""
+"1233433539","857209-6546","Supporterklubben Getingarna","https://www.getingarna.net/","supporterklubb",""
 "1233434966","826000-1113","Huskvarna Alliansförsamling","https://www.huskvarnaallianskyrka.se/","religion",""
 "1233435518","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Täby, Stallets Skola"
 "1233435641","802409-0063","PRO Viksjö Järfälla","https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-jarfalla/foreningar/viksjo-jarfalla.html","pensionärsklubb",""
@@ -8802,7 +8804,7 @@
 "1233883238","802495-0696","Rude Food","https://rudefood.se/","catering,donation,återvinning",""
 "1233883360","897000-3839","PRO Nederluleå Södra","https://pro.se/distrikt/distrikt-norrbotten/samorganisationer/samorganisation-lulea/foreningar/nederlulea-sodra.html","pensionärsklubb",""
 "1233883469","802427-8064","Klassiskt liberala partiet","https://www.liberalapartiet.se/","politiskt parti",""
-"1233883691","857209-6546","Supporterklubben Getingarna","https://www.getingarna.net/","supporterklubb",""
+"1233883691","857209-6546","Supporterklubben Getingarna","https://www.getingarna.net/","supporterklubb","Medlemsavgift"
 "1233883790","252004-8469","Tuna-Attmars Församling","https://www.svenskakyrkan.se/tuna-attmar","religion","Diakoni"
 "1233884046","830121-XXXX","YogaJoy / Jennie Carlsson","https://yogajoy.nu/","healing,yoga",""
 "1233884070","864000-1064","IK Friscopojkarna","https://www.ikfrisco.se/","fotbollsklubb,idrottsförening","Typo?"
@@ -9011,6 +9013,7 @@
 "1233958014","857202-3904","Partille Ridklubb","https://www.partilleridklubb.se/","hästsport,ridklubb",""
 "1233958154","829502-3041","Växjö Adventistförsamling","https://vaxjo.adventkyrka.se/","religion",""
 "1233958766","817600-1009","EFS missionsförening i Lötenkyrkan","https://www.lotenkyrkan.se/","religion","Fika"
+"1233958832","879500-2933","Ransta IK","https://www.laget.se/RIKklubb","fotbollsklubb,idrottsförening",""
 "1233959160","885001-1811","FUB Gävle","https://www.fub.se/lokal/fub-gavle","funktionsnedsättning,funktionsvariation",""
 "1233959269","824000-9855","Motala Jazz- och Bluesklubb","https://motalajazzochblues.se/","kulturförening,musikförening",""
 "1233959509","839400-4231","Ängelholms Pistolskytteklubb","https://www.svenskalag.se/engelholmspk","pistolskytteklubb,sportskytteklubb",""
@@ -9903,6 +9906,7 @@
 "1234408290","865500-3385","Ulricehamns IF","https://www.uif.se/","idrottsförening,skidlöparklubb","Skidsektionen"
 "1234408480","849600-1374","Träslövsläge IF","https://www.tlif.se/","idrottsförening",""
 "1234408720","878001-5205","Björksta Ungdomsskytteförening","https://www.bjorksta-uskf.se/","skytteklubb,sportskytteklubb",""
+"1234410387","868401-0641","Västra Motorsportförbundet","https://www.svemo.se/distrikten/vastra","förbund,motorsport",""
 "1234410601","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Täby, Lovisedalsskolan"
 "1234410692","802462-1099","Helsingborg Jaguars American Football Club - HJ AFC","https://www.hbgjaguars.com/","amerikansk fotbollsklubb,idrottsförening",""
 "1234410809","802525-7828","Divers Against Ghost Nets","https://diversagainstghostnets.com/","dykning,havsvård,intresseförening,naturvård",""
@@ -10143,7 +10147,7 @@
 "1234524880","858500-0840","Hälleviksstrands Främjande","https://www.halleviksstrand.se/","samhällsförening",""
 "1234524955","817605-1939","Köpings GF","https://kopingsgymnastikforening.se/","förening,gymnastikförening",""
 "1234525028","802428-9103","Bukobahjälpen","https://bukobahjalpen.se/","hjälporganisation",""
-"1234525036","825003-7424","Svenska Whippetklubben","https://whippetklubben.se/","hundklubb",""
+"1234525036","825003-7424","Svenska Whippetklubben","https://whippetklubben.se/","hundklubb,hundsport",""
 "1234525101","898800-0660","Munksund-Skuthamn Sportklubb","https://www.laget.se/MSSK/","fotbollsklubb,idrottsförening,ishockeyklubb","P05"
 "1234525242","857204-1930","Dyslexiförbundet","https://dyslexi.org/","dolda handikapp",""
 "1234525275","802491-4494","Agera Kvinnojour","https://www.unizonjourer.se/agerakvinnojour/","kvinnojour",""
@@ -11800,6 +11804,7 @@
 "1235288527","894000-8181","Sävars Idrottsklubb","https://www.savarik.se/","fotbollsklubb,gymnastikförening,handbollsklubb,innebandyklubb,korpenförening,skidlöparklubb","Innebandy"
 "1235288600","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/Krokek/","godkänd gåvomottagare,religion","Krokek"
 "1235288725","802001-2970","Gymnastikklubben Hermes","https://www.gkhermes.se/","gymnastikförening,idrottsförening",""
+"1235289335","802438-8731","AFC Eskilstuna","https://www.afc-eskilstuna.se/","fotbollsklubb,idrottsförening",""
 "1235289822","802435-5953","Equmenia Skellefteå","https://equmeniakyrkanskelleftea.se/","religion",""
 "1235290200","832401-3799","Järnsida Stugägareförening","https://jarnsida.nu/","stugägareförening,villaägareförening",""
 "1235290945","559005-7419","Åsa Askne AB","https://asknekommunikation.se/","konsulttjänster,rådgivning",""
@@ -14326,6 +14331,7 @@
 "1236401574","885001-8170","PRO Bomhus","https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle/foreningar/bomhus.html","pensionärsklubb",""
 "1236402267","802473-8760","Svensk Flöjt","https://svenskflojt.se/","intresseförening",""
 "1236402309","863000-0902","Sollebrunns AIK","https://www.svenskalag.se/sollebrunnsaik","fotbollsklubb,gymnastikförening,idrottsförening,innebandyklubb",""
+"1236402366","864500-0863","Borås AIK, BAIK","https://baikfutsal.se/","fotbollsklubb,futsalklubb,idrottsförening",""
 "1236402655","802545-2098","Vårgårda IK","https://www.svenskalag.se/vargardaik","handbollsklubb,idrottsförening","Handbollssektionen"
 "1236402804","252002-8198","Vår Frälsares Katolska Församling","https://www.varfralsare.se/","religion",""
 "1236405096","864000-1015","Holmalunds IF","https://www.svenskalag.se/holmalundsif","fotbollsklubb,idrottsförening",""
@@ -15325,6 +15331,7 @@
 "1236828271","802438-1991","Raggarö Hembygdsförening","https://www.hembygd.se/raggaro","hembygdsförening",""
 "1236828370","802410-2504","Norrtälje Fotoklubb","https://sites.google.com/view/norrtaljefotoklubb/hem","fotoförening,fotoklubb",""
 "1236832653","839400-3985","Ängelholms Fotbollsförening","https://angelholmsff.sportadmin.se/","fotbollsklubb,idrottsförening","F15"
+"1236833990","802448-5826","Almedalens Bouleklubb","https://www.laget.se/almedalensbk","bouleklubb,idrottsförening",""
 "1236834121","252005-0721","Rommele Församling","https://www.svenskakyrkan.se/rommele","religion","Fors Kyrka"
 "1236835227","802454-6056","Ninpo Dragons Stockholm / IF Bujinkan Bushin Dojo","https://ninpodragons.se/stockholm/","idrottsförening,kampsportsförening",""
 "1236835771","876400-2229","Karlskoga SK","https://www.laget.se/karlskogask","fotbollsklubb,idrottsförening","Herrlaget"

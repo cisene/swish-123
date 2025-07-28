@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-25-rev-142141
+Revision: 2025-07-28-rev-111858
 
-Nummer: 16124
+Nummer: 16131
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -577,6 +577,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Afasiföreningen i Stockholms Län**
 
     123 620 21 13
+
+
+
+
+**AFC Eskilstuna**
+
+    123 528 93 35
 
 
 
@@ -1583,6 +1590,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Almby-Norrbyås Hembygdsförening**
 
     123 002 08 34
+
+
+
+
+**Almedalens Bouleklubb**
+
+    123 683 39 90
 
 
 
@@ -7105,6 +7119,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Borås Adventistförsamling**
 
     123 593 55 15
+
+
+
+
+**Borås AIK, BAIK**
+
+    123 640 23 66
 
 
 
@@ -27225,6 +27246,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Göteborgs Hundkapplöpningsklubb**
 
     123 024 27 92
+
+
+
+
+**Göteborgs Internationella Baptistförening**
+
+    123 318 89 19
 
 
 
@@ -61065,6 +61093,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ransta IK**
+
+    123 395 88 32
+
+
+
+
 **Ransta Nästa Bygdegårdsförening**
 
     123 304 80 97
@@ -75894,7 +75929,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Supporterklubben Getingarna**
 
-    123 388 36 91
+    123 343 35 39
+
+    123 388 36 91 - Medlemsavgift
 
 
 
@@ -92305,6 +92342,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 040 80 62
 
     123 092 47 04 - Kollekt
+
+
+
+
+**Västra Motorsportförbundet**
+
+    123 441 03 87
 
 
 

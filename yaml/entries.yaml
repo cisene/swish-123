@@ -65321,6 +65321,14 @@ entries:
   - ridskola
   web: https://aleponnyranch.com/
 
+- entry: 1233188919
+  orgName: Göteborgs Internationella Baptistförening
+  orgNumber: 802534-4451
+  comment: null
+  categories:
+  - religion
+  web: https://gibk.se/
+
 - entry: 1233191038
   orgName: Vansbro Ryttarsällskap
   orgNumber: 882601-1986
@@ -70314,6 +70322,14 @@ entries:
   categories:
   - intresseförening
   web: https://www.blagulakorset.se/
+
+- entry: 1233433539
+  orgName: Supporterklubben Getingarna
+  orgNumber: 857209-6546
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.getingarna.net/
 
 - entry: 1233434966
   orgName: Huskvarna Alliansförsamling
@@ -79263,7 +79279,7 @@ entries:
 - entry: 1233883691
   orgName: Supporterklubben Getingarna
   orgNumber: 857209-6546
-  comment: null
+  comment: Medlemsavgift
   categories:
   - supporterklubb
   web: https://www.getingarna.net/
@@ -81131,6 +81147,15 @@ entries:
   categories:
   - religion
   web: https://www.lotenkyrkan.se/
+
+- entry: 1233958832
+  orgName: Ransta IK
+  orgNumber: 879500-2933
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/RIKklubb
 
 - entry: 1233959160
   orgName: FUB Gävle
@@ -89195,6 +89220,15 @@ entries:
   - sportskytteklubb
   web: https://www.bjorksta-uskf.se/
 
+- entry: 1234410387
+  orgName: Västra Motorsportförbundet
+  orgNumber: 868401-0641
+  comment: null
+  categories:
+  - förbund
+  - motorsport
+  web: https://www.svemo.se/distrikten/vastra
+
 - entry: 1234410601
   orgName: Team Rynkeby
   orgNumber: 802534-5466
@@ -91366,6 +91400,7 @@ entries:
   comment: null
   categories:
   - hundklubb
+  - hundsport
   web: https://whippetklubben.se/
 
 - entry: 1234525101
@@ -106350,6 +106385,15 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.gkhermes.se/
+
+- entry: 1235289335
+  orgName: AFC Eskilstuna
+  orgNumber: 802438-8731
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.afc-eskilstuna.se/
 
 - entry: 1235289822
   orgName: Equmenia Skellefteå
@@ -129337,6 +129381,16 @@ entries:
   - innebandyklubb
   web: https://www.svenskalag.se/sollebrunnsaik
 
+- entry: 1236402366
+  orgName: Borås AIK, BAIK
+  orgNumber: 864500-0863
+  comment: null
+  categories:
+  - fotbollsklubb
+  - futsalklubb
+  - idrottsförening
+  web: https://baikfutsal.se/
+
 - entry: 1236402655
   orgName: Vårgårda IK
   orgNumber: 802545-2098
@@ -138360,6 +138414,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://angelholmsff.sportadmin.se/
+
+- entry: 1236833990
+  orgName: Almedalens Bouleklubb
+  orgNumber: 802448-5826
+  comment: null
+  categories:
+  - bouleklubb
+  - idrottsförening
+  web: https://www.laget.se/almedalensbk
 
 - entry: 1236834121
   orgName: Rommele Församling
