@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-07-28-rev-155421
+# Date: 2025-07-28-rev-180626
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -5931,6 +5931,7 @@
 "1232604098","802426-1250","Sverige för UNHCR","https://www.sverigeforunhcr.se/","godkänd gåvomottagare,hjälporganisation,insamling",""
 "1232604973","802531-0007","För-Festivalen / Alla ska få mat","https://forfestivalen.se/","festival,kultur,musik",""
 "1232605087","802519-1449","Vid Din Sida","https://www.viddinsida.nu/","hjälporganisation","Göteborg"
+"1232605756","893202-3685","PRO Oden","https://pro.se/distrikt/jamtland/kommun/ostersund/pro-oden","pensionärsklubb",""
 "1232607984","824000-6596","Föreningen för Kammarmusik","https://www.slottsmusik.com/","intresseförening,musikförening",""
 "1232608727","411030-XXXX","Vallens bmxhall / Kerstin Hallenheim","https://vallensbmxhall.se/","cykelsport",""
 "1232609170","892600-8650","PRO Hede-Vemdalen","https://pro.se/distrikt/jamtland/kommun/harjedalen/pro-hede-vemdalen","pensionärsklubb",""
@@ -7027,6 +7028,7 @@
 "1233069127","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Helsingborg, Vita Villan Kungsgårdsskolan"
 "1233069184","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Kalmar, Pårydsskolan"
 "1233069192","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Göteborg, Strandskolan Montessori"
+"1233069374","802408-7382","SeniorNet Tyresö","https://tyreso.seniornet.se/","pensionärsklubb",""
 "1233069390","802008-4136","Stamningsförbundet","https://stamning.se/","förbund,stamning",""
 "1233069945","802467-6028","Bålsta Ridsportförening","https://www.balstaridskola.se/","hästsport,ridskola",""
 "1233070604","802510-0911","IF Boule 14","https://www.laget.se/IFBoule14/","bouleklubb,idrottsförening",""
@@ -9503,6 +9505,7 @@
 "1234199881","892600-0061","Bergs Hembygdsförening","https://www.hembygd.se/berg","hembygdsförening",""
 "1234199956","873201-5923","Grums Båtsällskap","https://grumsbatsallskap.se/","båtklubb,båtsällskap",""
 "1234201620","882600-5491","IK Segro","https://iksegro.basna.nu/","bandyklubb,fotbollsklubb,idrottsförening,innebandyklubb,ishockeyklubb,skidlöparklubb",""
+"1234201893","802430-7160","SeniorNet Roslagen","https://roslagen.seniornet.se/","pensionärsklubb",""
 "1234202206","252003-8874","Södra Ölands Pastorat","https://www.svenskakyrkan.se/sodraoland","religion","Torslunda Kyrka"
 "1234202214","252003-8874","Södra Ölands Pastorat","https://www.svenskakyrkan.se/sodraoland","religion","Ås Kyrka"
 "1234202479","894000-6680","Vindelns Hembygdsförening","https://www.hembygd.se/vindeln","hembygdsförening",""
@@ -11382,7 +11385,7 @@
 "1235118583","802422-2849","Uppsala Shotokan Karateklubb","https://uskk.net/","idrottsförening,kampsportsförening,karateklubb",""
 "1235118831","802421-0604","Falsterbonäsets Naturvårdsförening","https://www.falsterbonaset.se/","naturskydd,naturvård",""
 "1235120100","802538-5975","Bromma Jollekappseglingssällskap","https://www.brommajolle.se/","jolleklubb,segelklubb,segelsällskap",""
-"1235120209","802476-0665","Läkare för framtiden","https://www.lakareforframtiden.se/","hjälporganisation,intresseförening",""
+"1235120209","802476-0665","Läkare för Framtiden","https://www.lakareforframtiden.se/","hjälporganisation,intresseförening",""
 "1235120456","864500-3404","HjärtLung Borås-Ulricehamn","https://www.hjart-lung.se/riksforbundet/vastragotaland/lokalforeningar2/boras/","förening,patientförening",""
 "1235121033","802534-9624","Motorcykelhistoriska Klubben Södermanland","https://mchksodermanland.weebly.com/","historieförening,motorcykelklubb,motorsport",""
 "1235121876","827000-9411","Hörselskadades Riksförbund","https://hrf.se/eksjo/","hörselnedsättning,patientförening,riksförbund","Eksjö"
@@ -13198,6 +13201,7 @@
 "1235894472","825001-5834","Lions Club Finspång","https://www.lionsfinspang.se/","lionsklubb",""
 "1235894621","843003-3160","Insamlingsstiftelsen Stödfonden för hemlösa i Helsingborg","https://www.hemlosashus.se/","godkänd gåvomottagare,stiftelse",""
 "1235894647","825000-1636","IK Sleipner","https://www.iksleipner.se/","bowlingklubb,fotbollsklubb,idrottsförening",""
+"1235894688","829502-9295","SeniorNet Växjö","https://vaxjo.seniornet.se/","pensionärsklubb",""
 "1235894720","894700-6667","Skellefteå Motorsällskap","https://www.skelleftea-ms.se/","motorklubb,motorsport,motorsällskap",""
 "1235894811","842000-5715","Korpen Hörby","https://www.korpen.se/korpenhorby","idrottsförening,korpenförening",""
 "1235895198","817605-9916","Trosa Edanö IBK","https://www.trosaedano.se/","idrottsförening,innebandyklubb",""

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-28-rev-155450
+Revision: 2025-07-28-rev-180655
 
-Nummer: 16149
+Nummer: 16153
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -48290,7 +48290,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Läkare för framtiden**
+**Läkare för Framtiden**
 
     123 512 02 09
 
@@ -59829,6 +59829,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**PRO Oden**
+
+    123 260 57 56
+
+
+
+
 **PRO Offerdal-Alsen**
 
     123 438 91 36
@@ -66478,6 +66485,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SeniorNet Göteborg**
 
     123 641 71 41
+
+
+
+
+**SeniorNet Roslagen**
+
+    123 420 18 93
+
+
+
+
+**SeniorNet Tyresö**
+
+    123 306 93 74
+
+
+
+
+**SeniorNet Växjö**
+
+    123 589 46 88
 
 
 

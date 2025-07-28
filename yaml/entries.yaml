@@ -53356,6 +53356,14 @@ entries:
   - hjälporganisation
   web: https://www.viddinsida.nu/
 
+- entry: 1232605756
+  orgName: PRO Oden
+  orgNumber: 893202-3685
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://pro.se/distrikt/jamtland/kommun/ostersund/pro-oden
+
 - entry: 1232607984
   orgName: Föreningen för Kammarmusik
   orgNumber: 824000-6596
@@ -63270,6 +63278,14 @@ entries:
   - hjärnforskning
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1233069374
+  orgName: SeniorNet Tyresö
+  orgNumber: 802408-7382
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://tyreso.seniornet.se/
 
 - entry: 1233069390
   orgName: Stamningsförbundet
@@ -85575,6 +85591,14 @@ entries:
   - skidlöparklubb
   web: https://iksegro.basna.nu/
 
+- entry: 1234201893
+  orgName: SeniorNet Roslagen
+  orgNumber: 802430-7160
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://roslagen.seniornet.se/
+
 - entry: 1234202206
   orgName: Södra Ölands Pastorat
   orgNumber: 252003-8874
@@ -102581,7 +102605,7 @@ entries:
   web: https://www.brommajolle.se/
 
 - entry: 1235120209
-  orgName: Läkare för framtiden
+  orgName: Läkare för Framtiden
   orgNumber: 802476-0665
   comment: null
   categories:
@@ -119093,6 +119117,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.iksleipner.se/
+
+- entry: 1235894688
+  orgName: SeniorNet Växjö
+  orgNumber: 829502-9295
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://vaxjo.seniornet.se/
 
 - entry: 1235894720
   orgName: Skellefteå Motorsällskap
