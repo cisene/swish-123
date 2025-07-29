@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-28-rev-180655
+Revision: 2025-07-29-rev-130117
 
-Nummer: 16153
+Nummer: 16185
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -128,6 +128,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 ## A
+
+**A & A Träning AB**
+
+    123 018 29 31
+
+
+
 
 **A Demand For Action**
 
@@ -2678,6 +2685,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Arboga Kommun**
+
+    123 181 42 50
+
+
+
+
 **Arboga Musikförening**
 
     123 456 67 58
@@ -5197,6 +5211,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 069 58 41
 
+    123 689 56 01
+
 
 
 
@@ -6723,6 +6739,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bollnäs Scoutkår**
 
     123 319 16 16
+
+
+
+
+**Bollnäs Senioruniversitet**
+
+    123 267 57 59
 
 
 
@@ -17514,6 +17537,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Eskilstuna SeniorUniversitet**
+
+    123 198 14 48
+
+
+
+
 **Eskilstuna Simklubb**
 
     123 218 22 85 - cafeteria
@@ -18348,6 +18378,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Falu Ryttarsällskap**
 
     123 074 75 35
+
+
+
+
+**Falu Senioruniversitet**
+
+    123 150 13 37
 
 
 
@@ -19444,6 +19481,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 269 49 82 - Ukraina-insamling
 
     123 427 52 51
+
+
+
+
+**Fjätervålen AB**
+
+    123 690 79 01
 
 
 
@@ -30350,6 +30394,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hofors Bangolf**
+
+    123 446 78 25
+
+
+
+
 **Hofors Brukshundklubb**
 
     123 312 72 89
@@ -33959,6 +34010,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**IFK Lidköping**
+
+    123 018 00 67
+
+
+
+
 **IFK Lindesberg**
 
     123 179 06 17
@@ -36613,6 +36671,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**ITSeniorerna i Göteborg**
+
+    123 489 11 49
+
+
+
+
 **Ivar Arpi AB**
 
     123 027 60 89
@@ -37647,6 +37712,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Järlåsa Bygdegårdsförening**
 
     123 445 25 53
+
+
+
+
+**Järlåsa IF**
+
+    123 475 48 34
 
 
 
@@ -39027,6 +39099,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Karlstads Pensionärsuniversitet**
+
+    123 379 72 55
+
+
+
+
 **Karlstads Pistol och Sportskytteklubb**
 
     123 148 02 01
@@ -39835,6 +39914,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kimstad GoIF**
+
+    123 441 63 01
+
+
+
+
 **Kinamassage / XiaoHong Andersson**
 
     123 531 26 32
@@ -40018,6 +40104,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kiruna Fjällkyrkan**
 
     123 390 86 47
+
+
+
+
+**Kiruna Golfklubb**
+
+    123 032 22 97 - Medlemsavgift
+
+    123 367 27 55 - Greenfee
 
 
 
@@ -44287,6 +44382,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Landskrona Shotokan Academy**
 
     123 000 26 34
+
+
+
+
+**Landskrona stad**
+
+    123 103 73 57
 
 
 
@@ -56408,6 +56510,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Orienteringsklubben Linné**
+
+    123 535 00 12
+
+
+
+
 **Orienteringsklubben Orinto**
 
     123 082 06 70
@@ -60656,6 +60765,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Prostatacancerföreningen Öst**
+
+    123 557 01 48
+
+
+
+
 **Prostataföreningen Betula**
 
     123 668 97 56
@@ -61597,6 +61713,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Resebranschens Seniorer, RS**
+
+    123 341 28 14 - Medlemsavgift
+
+    123 498 16 84 - Evenemang
+
+
+
+
 **Resele Hembygsförening**
 
     123 422 94 56
@@ -61684,6 +61809,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Reumatikerförening Östra Sörmland**
 
     123 441 97 84
+
+
+
+
+**Reumatikerföreningen I Jönköping**
+
+    123 027 51 80
 
 
 
@@ -66510,9 +66642,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Senioruniversitetet Gotland**
+
+    123 553 90 10
+
+
+
+
 **Senioruniversitetet Hudiksvall**
 
     123 165 63 62
+
+
+
+
+**Senioruniversitetet Motala-Vadstena**
+
+    123 319 13 92
 
 
 
@@ -67745,6 +67891,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skara Senioruniversitet**
+
+    123 690 08 56
+
+
+
+
 **Skara Tennisklubb**
 
     123 377 19 61
@@ -67802,6 +67955,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skarpnäcks Orienteringslöpare**
+
+    123 340 24 84 - Tävlingar
+
+    123 670 96 79 - Medlemsavgift
+
+
+
+
 **Skarv Sthlm / Sofia Sjöqvist**
 
     123 461 54 49
@@ -67849,6 +68011,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skedvi-Säter IF, SSIF**
 
     123 465 84 80
+
+
+
+
+**Skegrie Kattservice / Fredrik Jonsson**
+
+    123 298 40 11
 
 
 
@@ -68539,6 +68708,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 413 86 31
 
     123 413 86 81
+
+
+
+
+**SKPF Pensionärerna Piteå, avd 67**
+
+    123 208 28 65
 
 
 
@@ -70462,6 +70638,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Soul II Blue AB**
+
+    123 268 24 33
+
+
+
+
 **SoulMind / Anna Candela**
 
     123 348 62 06
@@ -72288,6 +72471,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sports Heart**
 
     123 188 09 39
+
+
+
+
+**Sportsoverdrive AB**
+
+    123 138 04 43 - Skridskoakademin
 
 
 
@@ -74249,6 +74439,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stockholm Taekwon-Do ITF**
+
+    123 023 56 97
+
+
+
+
 **Stockholm Trekkers, Star Trek fan club**
 
     123 641 85 86
@@ -74809,6 +75006,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Storumans Idrottsklubb**
 
     123 653 79 30
+
+
+
+
+**Storumans Kommun**
+
+    123 590 45 11 - Spåravgift
 
 
 
@@ -84559,7 +84763,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Torekovs Golfklubb**
 
-    123 084 54 53
+    123 084 54 53 - Greenfee
 
 
 
@@ -91152,7 +91356,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Värmlands dreverklubb**
+**Värmlands Dreverklubb**
 
     123 063 71 73
 
