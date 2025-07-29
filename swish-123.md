@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-29-rev-131810
+Revision: 2025-07-29-rev-205213
 
-Nummer: 16186
+Nummer: 16198
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -19347,6 +19347,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fisksätra Kattförening**
 
     123 109 95 48
+
+
+
+
+**Fixy AB**
+
+    123 109 30 12
 
 
 
@@ -55042,6 +55049,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nybrotoffeln AB**
+
+    123 634 87 26
+
+
+
+
 **Nyby Bygdegårdsförening**
 
     123 238 55 57
@@ -64356,7 +64370,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Rynninge IK**
 
-    123 547 23 52 - P15
+    123 001 29 63 - F-2017
+
+    123 006 58 47 - P-2011
+
+    123 048 59 20 - P-2015 Blå
+
+    123 125 39 05 - P-2018 Blå
+
+    123 161 30 33 - F-11/12
+
+    123 226 96 37 - PU 15/16
+
+    123 292 02 13 - P-2017 Vit
+
+    123 385 64 40 - P-2016
+
+    123 547 23 52 - P-2015
+
+    123 571 98 77 - FU 15/16
+
+    123 595 62 22 - P-2017 Blå
 
     123 602 27 50 - F16
 
