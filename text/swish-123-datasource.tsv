@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-07-29-rev-130057
+# Date: 2025-07-29-rev-131749
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -15437,6 +15437,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236863591	802457-0676	KFUM Kristianstad BTF	https://www.svenskalag.se/kfumkristianstadbtf	bordtennisklubb,idrottsförening	
 1236863831	802445-5761	FC Hessleholm	https://www.fchessleholm.se/	fotbollsklubb,idrottsförening	F15-16
 1236863963	835600-7677	Lions Club Jarramas Karlskrona	https://www.lionsjarramas.se/	lionsklubb	
+1236864151	802497-6493	Spelis	https://www.spelis.nu/	hörselnedsättning,spelförening,teckenspråk	
 1236866040	660522-XXXX	Rotbrunna häst och kursgård / Claes Eningsjö	https://www.rotbrunna.se/	hästgård,kursgård,reiki	
 1236866834	839400-8810	GK Engelholmsgymnasterna	https://engelholmsgymnasterna.sportadmin.se/	gymnastikförening	
 1236868103	252002-9857	Hällstads Församling	https://www.svenskakyrkan.se/ulricehamn	religion	Kollekt
