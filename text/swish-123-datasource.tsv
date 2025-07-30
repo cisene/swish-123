@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-07-29-rev-205153
+# Date: 2025-07-30-rev-173518
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -11468,7 +11468,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235128715	252003-0996	Kristianstads Pastorat	https://www.svenskakyrkan.se/kristianstad	religion	Gåvor pastoratets barn- och ungdomsarbete
 1235128723	252003-0996	Kristianstads Pastorat	https://www.svenskakyrkan.se/kristianstad	religion	Dagens kollekt Heliga Trefaldighet
 1235128848	873200-8332	Hammarö Ryttarförening	https://www.hammarorf.se/	hästsport,ridsport,ryttarförening	
-1235128970	885501-2855	IF Aerostep Company - Korpen	https://www.aerostepcompany.com/	idrottsförening,korpenförening	
+1235128970	885501-2855	IF Aerostep Company	https://www.korpen.se/ifaerostepcompany	idrottsförening,korpenförening	
 1235133178	814400-9902	Freija Roslagens Företagarkvinnor	https://freija.se/	företagande	
 1235134002	817001-5740	Föreningen Ryafåret	https://www.ryafaret.se/	djuruppfödning,intresseförening	
 1235134218	802540-1103	Gävle Skateboardförening	https://www.svenskalag.se/gavleskateboardforening	skateboardklubb	

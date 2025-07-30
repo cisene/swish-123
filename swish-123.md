@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-29-rev-205213
+Revision: 2025-07-30-rev-173537
 
 Nummer: 16198
 
@@ -33529,7 +33529,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**IF Aerostep Company - Korpen**
+**IF Aerostep Company**
 
     123 512 89 70
 
