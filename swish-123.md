@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-30-rev-173537
+Revision: 2025-07-31-rev-184033
 
-Nummer: 16198
+Nummer: 16212
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -7169,6 +7169,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Borås Atletklubb**
+
+    123 526 77 03
+
+
+
+
 **Borås Bandy**
 
     123 501 42 20
@@ -7243,6 +7250,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Borås Fältrittklubb**
+
+    123 006 91 20
+
+
+
+
 **Borås GIF**
 
     123 568 60 76
@@ -7251,6 +7265,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Borås Gymnastik och Idrottsförening**
+
+    123 088 07 24 - Kursavgifter
 
     123 327 27 96
 
@@ -38049,6 +38065,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jössefors IK**
+
+    123 239 25 79 - Kiosk
+
+    123 419 64 40
+
+
+
+
 **Jössehäringar Hjälper Barn**
 
     123 042 56 94
@@ -50374,9 +50399,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Mellanströms Fiskevårdsförening**
+
+    123 371 55 88
+
+
+
+
 **Mellanströms Idrottssällskap**
 
     123 597 85 98
+
+
+
+
+**Mellanströms Intresseförening**
+
+    123 195 02 37
 
 
 
@@ -65794,6 +65833,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sandareds Tennisklubb**
+
+    123 527 94 43
+
+
+
+
 **Sandbergs Goaltending AB**
 
     123 680 77 70
@@ -66599,6 +66645,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SEKO Teleseniorer**
+
+    123 575 55 41 - Stockholm
+
+
+
+
 **Sektion 84**
 
     123 467 76 54
@@ -66637,6 +66690,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Semente Cultural Productions**
 
     123 348 09 36
+
+
+
+
+**Seniorkommittén Landeryds Golfklubb**
+
+    123 220 67 95
 
 
 
@@ -68646,6 +68706,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SKPF Pensionärerna, avd 53 Alingsås**
+
+    123 220 25 39
+
+
+
+
 **SKPF Pensionärerna Avdelning 84 Gällivare**
 
     123 096 77 37
@@ -68791,13 +68858,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SKPF Pensionärerna Örnsköldsvik, avd 75**
 
     123 153 11 69
-
-
-
-
-**SKPF Pensionärernam, avd 53 Alingsås**
-
-    123 220 25 39
 
 
 
@@ -69736,9 +69796,18 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Smederna Speedwayförening**
+
+    123 433 02 39 - Souvenirshop
+
+    123 580 26 32 - Entré
+
+
+
+
 **Smedernas Speedwayförening**
 
-    123 593 30 72
+    123 593 30 72 - Kiosk
 
 
 
@@ -72545,6 +72614,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Spädbarnsfonden**
+
+    123 089 81 55
 
     123 900 21 22
 
@@ -77874,7 +77945,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska Morganhästföreningen SMHF**
+**Svenska Morganhästföreningen, SMHF**
 
     123 544 54 08
 
@@ -91814,7 +91885,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Västbo BSK - Bågskytte**
+**Västbo Bågskyttar**
 
     123 463 85 99
 
@@ -95549,6 +95620,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ångbåtssällskapet Polstjärnan**
 
     123 535 09 47
+
+
+
+
+**Ånge Atletklubb**
+
+    123 230 68 19
 
 
 

@@ -1430,6 +1430,15 @@ entries:
   - idrottsförening
   web: https://www.lerumscykelklubb.se/
 
+- entry: 1230069120
+  orgName: Borås Fältrittklubb
+  orgNumber: 864501-0896
+  comment: null
+  categories:
+  - fältrittklubb
+  - hästsport
+  web: https://borasridhus.se/
+
 - entry: 1230069286
   orgName: Björbo IF
   orgNumber: 882600-6754
@@ -18302,6 +18311,23 @@ entries:
   - förening
   web: https://www.du.se/sv/medarbetarwebb/din-anstallning/friskvard-och-halsa/fritidsforeningen/
 
+- entry: 1230880724
+  orgName: Borås Gymnastik och Idrottsförening
+  orgNumber: 864500-1192
+  comment: Kursavgifter
+  categories:
+  - fotbollsklubb
+  - gymnastikförening
+  - idrottsförening
+  - ishockeyklubb
+  - linedanceklubb
+  - mountainbikeklubb
+  - orienteringsklubb
+  - padelklubb
+  - skidlöparklubb
+  - skidskytteklubb
+  web: https://www.borasgif.se/
+
 - entry: 1230880765
   orgName: Team Rynkeby
   orgNumber: 802533-7869
@@ -18650,6 +18676,17 @@ entries:
   categories:
   - religion
   web: https://www.skorpedsbaptistkyrka.se/
+
+- entry: 1230898155
+  orgName: Spädbarnsfonden
+  orgNumber: 802012-1193
+  comment: null
+  categories:
+  - anhörigorganisation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  web: https://www.spadbarnsfonden.se/
 
 - entry: 1230898239
   orgName: Nyborgs SK
@@ -40118,6 +40155,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/ValboFF/
 
+- entry: 1231950237
+  orgName: Mellanströms Intresseförening
+  orgNumber: 899100-3297
+  comment: null
+  categories:
+  - intresseförening
+  web: null
+
 - entry: 1231950419
   orgName: Pingstförsamlingen i Karlstad
   orgNumber: 873200-0321
@@ -45388,7 +45433,7 @@ entries:
   web: https://www.facebook.com/vralrock
 
 - entry: 1232202539
-  orgName: SKPF Pensionärernam, avd 53 Alingsås
+  orgName: SKPF Pensionärerna, avd 53 Alingsås
   orgNumber: 864001-0578
   comment: null
   categories:
@@ -45476,6 +45521,14 @@ entries:
   categories:
   - ridskola
   web: https://elisedahl.com/
+
+- entry: 1232206795
+  orgName: Seniorkommittén Landeryds Golfklubb
+  orgNumber: 802500-3701
+  comment: null
+  categories:
+  - golfklubb
+  web: https://www.landeryd.se/28-kommitteer-golf/seniorkommitte
 
 - entry: 1232206977
   orgName: Falkenbergs Kvinnojour
@@ -48256,6 +48309,15 @@ entries:
   - strandstädning
   web: https://www.strandstadarna.se/
 
+- entry: 1232306819
+  orgName: Ånge Atletklubb
+  orgNumber: 802462-6429
+  comment: null
+  categories:
+  - atletklubb
+  - idrottsförening
+  web: https://www.facebook.com/AngeAtletklubb
+
 - entry: 1232307114
   orgName: Team Rynkeby
   orgNumber: 802532-9262
@@ -50202,6 +50264,17 @@ entries:
   categories:
   - skoterklubb
   web: https://mdsk.se/
+
+- entry: 1232392579
+  orgName: Jössefors IK
+  orgNumber: 872000-4491
+  comment: Kiosk
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - motionsklubb
+  - skidlöparklubb
+  web: https://www.josseforsik.se/
 
 - entry: 1232394989
   orgName: Älmhults IBK
@@ -76466,6 +76539,16 @@ entries:
   - hundsport
   web: https://wp.svshk.org/
 
+- entry: 1233715588
+  orgName: Mellanströms Fiskevårdsförening
+  orgNumber: 899100-2844
+  comment: null
+  categories:
+  - fiskekort
+  - fiskevårdsförening
+  - fiskevårdsområde
+  web: https://www.ifiske.se/fiske-mellanstroms.htm
+
 - entry: 1233715604
   orgName: Härryda IF
   orgNumber: 852000-0368
@@ -85682,6 +85765,17 @@ entries:
   - religion
   web: https://hogbergskyrkan.se/
 
+- entry: 1234196440
+  orgName: Jössefors IK
+  orgNumber: 872000-4491
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - motionsklubb
+  - skidlöparklubb
+  web: https://www.josseforsik.se/
+
 - entry: 1234196754
   orgName: Strängnäs Lokala Kennelklubb
   orgNumber: 819500-5106
@@ -88314,6 +88408,15 @@ entries:
   - stiftelse
   - turism
   web: https://www.stiftelsenbohusfastning.se/
+
+- entry: 1234330239
+  orgName: Smederna Speedwayförening
+  orgNumber: 817606-5459
+  comment: Souvenirshop
+  categories:
+  - motorsport
+  - speedwayklubb
+  web: https://eskilstunasmederna.se/
 
 - entry: 1234330262
   orgName: Sorunda Kampsport IF
@@ -93907,7 +94010,7 @@ entries:
   web: https://www.laget.se/EskilstunaLinden_HCU/
 
 - entry: 1234638599
-  orgName: Västbo BSK - Bågskytte
+  orgName: Västbo Bågskyttar
   orgNumber: 828500-6352
   comment: null
   categories:
@@ -95907,7 +96010,7 @@ entries:
   comment: null
   categories:
   - fiskevård
-  - förening
+  - intresseförening
   web: https://visitlycksele.se/z-langsele-fvo/
 
 - entry: 1234717443
@@ -106246,6 +106349,15 @@ entries:
   - synskadad
   web: https://www.fsbu.org/
 
+- entry: 1235267703
+  orgName: Borås Atletklubb
+  orgNumber: 864500-1051
+  comment: null
+  categories:
+  - atletklubb
+  - idrottsförening
+  web: https://www.borasatletklubb.se/
+
 - entry: 1235268974
   orgName: Rotary Ystad
   orgNumber: 848000-8062
@@ -106552,6 +106664,16 @@ entries:
   - körsång
   - sångförening
   web: https://www.studentsangarna.nu/
+
+- entry: 1235279443
+  orgName: Sandareds Tennisklubb
+  orgNumber: 864501-2918
+  comment: null
+  categories:
+  - idrottsförening
+  - padelklubb
+  - tennisklubb
+  web: https://sandaredstk.com/
 
 - entry: 1235279468
   orgName: Lulegymnasterna
@@ -110111,7 +110233,7 @@ entries:
   web: https://www.ostra.nu/
 
 - entry: 1235445408
-  orgName: Svenska Morganhästföreningen SMHF
+  orgName: Svenska Morganhästföreningen, SMHF
   orgNumber: 802418-5061
   comment: null
   categories:
@@ -116684,6 +116806,14 @@ entries:
   categories: null
   web: null
 
+- entry: 1235755541
+  orgName: SEKO Teleseniorer
+  orgNumber: 802003-4610
+  comment: Stockholm
+  categories:
+  - pensionärsklubb
+  web: https://sekoteleseniorer-stockholm.se/
+
 - entry: 1235757026
   orgName: Sledgehammers
   orgNumber: 849202-3851
@@ -117753,6 +117883,15 @@ entries:
   - trafikskola
   - utbildning
   web: https://wingstrafikskola.se/
+
+- entry: 1235802632
+  orgName: Smederna Speedwayförening
+  orgNumber: 817606-5459
+  comment: Entré
+  categories:
+  - motorsport
+  - speedwayklubb
+  web: https://eskilstunasmederna.se/
 
 - entry: 1235803937
   orgName: Bostadsrättsföreningen Mälarängen i Järfälla
@@ -120196,7 +120335,7 @@ entries:
 - entry: 1235933072
   orgName: Smedernas Speedwayförening
   orgNumber: 817606-5459
-  comment: null
+  comment: Kiosk
   categories:
   - motorsport
   - speedwayklubb
