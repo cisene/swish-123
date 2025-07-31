@@ -2335,11 +2335,12 @@ entries:
   web: https://www.laget.se/BergslagsbygdensRyttarforening/
 
 - entry: 1230126193
-  orgName: Riksförbundet HjärtLung Stockholm
+  orgName: Riksförbundet Hjärt-Lung Stockholm
   orgNumber: 802013-3099
   comment: null
   categories:
   - anhörigorganisation
+  - intresseförening
   - patientförening
   - riksförbund
   web: https://www.hjart-lung.se/riksforbundet/stockholm/lokalforeningar/stockholm/
@@ -2647,6 +2648,15 @@ entries:
   - hälsa
   - intresseförening
   web: https://www.oxyboost-o2sweden.com/
+
+- entry: 1230148510
+  orgName: Dalarnas Dövas Pensionärsklubb
+  orgNumber: 802536-7213
+  comment: null
+  categories:
+  - hörselnedsättning
+  - pensionärsklubb
+  web: https://dovtorget.se/ddp/
 
 - entry: 1230149286
   orgName: Kulturskolan, Tierps Kommun
@@ -17653,6 +17663,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/roslagensnorrapastorat
 
+- entry: 1230860700
+  orgName: Riksförbundet Hjärt-Lung Bergslagen
+  orgNumber: 877100-7617
+  comment: null
+  categories:
+  - intresseförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/orebrolan/lokalforeningar/Bergslagen/
+
 - entry: 1230862854
   orgName: Capoeira Club Cultura Brasileira
   orgNumber: 802442-2068
@@ -24481,6 +24500,15 @@ entries:
   categories:
   - betaltjänster
   web: https://www.zignsec.com/
+
+- entry: 1231183045
+  orgName: Riksförbundet HjärtLung Gävle
+  orgNumber: 885000-5524
+  comment: null
+  categories:
+  - intresseförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/gavleborg/lokalforeningar/gavle/
 
 - entry: 1231183185
   orgName: Svenska Röda Korset
@@ -31649,6 +31677,15 @@ entries:
   - försäljning
   web: https://www.motorbolaget.nu/
 
+- entry: 1231539568
+  orgName: Riksförbundet Hjärt-Lung Vilhelmina
+  orgNumber: 896100-6031
+  comment: null
+  categories:
+  - intresseförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/vasterbotten/lokalforeningar/vilhelmina/
+
 - entry: 1231542265
   orgName: Hasse & Tage-Museets Vänner
   orgNumber: 802453-9697
@@ -35456,6 +35493,16 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/morrum
 
+- entry: 1231731025
+  orgName: Riksförbundet Hjärt-Lung Örnsköldsvik
+  orgNumber: 889600-5520
+  comment: Hjälpfonden
+  categories:
+  - fond
+  - intresseförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/vasternorrland/lokalforeningar/ornskoldsvik/
+
 - entry: 1231731082
   orgName: BK Örnen Örnsköldsvik
   orgNumber: 889601-0710
@@ -36044,6 +36091,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.triangelnsik.se/
+
+- entry: 1231755495
+  orgName: AYoga Karlskoga AB
+  orgNumber: 559494-5767
+  comment: null
+  categories:
+  - yoga
+  web: https://www.ayogakga.se/
 
 - entry: 1231756063
   orgName: Fränsta IK
@@ -39544,6 +39599,15 @@ entries:
   - bowlingklubb
   - idrottsförening
   web: https://pbkstrike.se/
+
+- entry: 1231938778
+  orgName: Reumatikerföreningen Sundsvall
+  orgNumber: 889201-1290
+  comment: null
+  categories:
+  - patientförening
+  - reumatikerförening
+  web: https://sundsvall.reumatiker.se/
 
 - entry: 1231938984
   orgName: Kungsbacka kvinnojour
@@ -47312,7 +47376,9 @@ entries:
   comment: null
   categories:
   - bordtennisklubb
+  - dartklubb
   - idrottsförening
+  - tennisklubb
   web: https://ovansiljanssportklubb.klubbenonline.se/
 
 - entry: 1232288975
@@ -57520,6 +57586,14 @@ entries:
   - stiftelse
   web: https://www.skanskmtbutveckling.se/
 
+- entry: 1232799369
+  orgName: Norrahammars IK
+  orgNumber: 826000-7052
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.laget.se/norrahammarsik
+
 - entry: 1232799385
   orgName: Lövsta Gårds Ridskola AB
   orgNumber: 559013-6122
@@ -60361,6 +60435,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/EskilstunaCityFK
+
+- entry: 1232952406
+  orgName: Riksförbundet Hjärt-Lung Helsingborg
+  orgNumber: 843000-9483
+  comment: null
+  categories:
+  - intresseförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/skane/lokalforeningar/helsingborg/
 
 - entry: 1232953719
   orgName: Dalslands Ballongklubb
@@ -75120,6 +75203,14 @@ entries:
   - förbund
   web: https://neuro.se/forening/foereningar-a-oe/alingsaas/
 
+- entry: 1233682853
+  orgName: Akademiska Sjukhusets Pensionärsklubb
+  orgNumber: 802453-8855
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://aspension.se/
+
 - entry: 1233684677
   orgName: RSMH Hallstahammar
   orgNumber: 878001-3770
@@ -81466,6 +81557,14 @@ entries:
   - stödverksamhet
   web: https://rsmhvastmanland.se/
 
+- entry: 1234002747
+  orgName: SAAB Pensionärsklubb Järfälla, SPKJ
+  orgNumber: 802412-6982
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://wp.spkj.se/
+
 - entry: 1234003661
   orgName: Brännöföreningen
   orgNumber: 857204-5568
@@ -81998,6 +82097,15 @@ entries:
   - skidlöparklubb
   web: https://www.svenskalag.se/granbergsdalsif
 
+- entry: 1234031837
+  orgName: Axenrot & Lorichs Café & Deli / Axenrot Productions AB
+  orgNumber: 559226-8816
+  comment: null
+  categories:
+  - evenemangsproduktioner
+  - eventarrangör
+  web: https://www.facebook.com/HagasVintage
+
 - entry: 1234033007
   orgName: Existensis / Susanna Westman
   orgNumber: 721003-XXXX
@@ -82443,6 +82551,14 @@ entries:
   - donation
   - stiftelse
   web: https://www.norrskenmind.org/
+
+- entry: 1234067138
+  orgName: Linköpingslistan
+  orgNumber: 802533-4437
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://linkopingslistan.se/
 
 - entry: 1234067682
   orgName: Länna Sport Cykelklubb, LSCK
@@ -102807,6 +102923,15 @@ entries:
   - utbildning
   web: https://www.barkarbytrafikskola.se/
 
+- entry: 1235150818
+  orgName: Kaisho Kampsport Klubb
+  orgNumber: 843003-4994
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  web: https://www.kaisho.nu/
+
 - entry: 1235151063
   orgName: Svenska Europainkasso AB
   orgNumber: 556655-9380
@@ -108764,6 +108889,15 @@ entries:
   - hundklubb
   - hundsport
   web: https://www.vorsteh.se/lokalavdelningar/svk-mellansvenska/
+
+- entry: 1235438775
+  orgName: Riksförbundet Hjärt-Lung Kristianstad
+  orgNumber: 838201-3053
+  comment: null
+  categories:
+  - intresseförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/skane/lokalforeningar/kristianstad/
 
 - entry: 1235438817
   orgName: Våmbs IF
@@ -122215,7 +122349,7 @@ entries:
   web: https://gyttorpsridklubb.se/
 
 - entry: 1236098420
-  orgName: Lidingö AK - Styrkelyft
+  orgName: Lidingö Atletklubb
   orgNumber: 802457-0213
   comment: null
   categories:
@@ -127701,6 +127835,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/falkoping
+
+- entry: 1236356570
+  orgName: Älvdalens Atletklubb
+  orgNumber: 802465-8950
+  comment: null
+  categories:
+  - atletklubb
+  - idrottsförening
+  web: http://alvdalensatletklubb.com/
 
 - entry: 1236356620
   orgName: Boda Hembygdsförening
@@ -134493,6 +134636,15 @@ entries:
   - bostadsrättsförening
   web: https://brfpalatinen.se/
 
+- entry: 1236699672
+  orgName: Riksförbundet Hjärt-Lung Örnsköldsvik
+  orgNumber: 889600-5520
+  comment: null
+  categories:
+  - intresseförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/vasternorrland/lokalforeningar/ornskoldsvik/
+
 - entry: 1236699706
   orgName: Gårda Budoklubb - Wadoryu Karate
   orgNumber: 802476-4642
@@ -138872,6 +139024,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/orebro
 
+- entry: 1236907299
+  orgName: Norrahammars IK
+  orgNumber: 826000-7052
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.laget.se/norrahammarsik
+
 - entry: 1236907588
   orgName: Lövånger-Uttersjöbäcken AIK
   orgNumber: 894700-4738
@@ -139515,6 +139675,15 @@ entries:
   categories:
   - scoutkår
   web: https://www.nsf.scout.se/karer/varend-vaxjo-scoutkar/
+
+- entry: 1236941058
+  orgName: Dalarnas Dövas Förening
+  orgNumber: 883200-5170
+  comment: null
+  categories:
+  - hörselnedsättning
+  - intresseförening
+  web: https://dovtorget.se/
 
 - entry: 1236941678
   orgName: Malmö Pastorat

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-31-rev-184033
+Revision: 2025-07-31-rev-211516
 
-Nummer: 16212
+Nummer: 16231
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -825,6 +825,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Akademiska Roddföreningen**
 
     123 175 68 08
+
+
+
+
+**Akademiska Sjukhusets Pensionärsklubb**
+
+    123 368 28 53
 
 
 
@@ -3822,6 +3829,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Axenrot & Lorichs Café & Deli / Axenrot Productions AB**
+
+    123 403 18 37
+
+
+
+
 **Axmar Brygga Havskrog / Scandinavian Fine Food AB**
 
     123 612 21 39
@@ -3839,6 +3853,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Axtorps Hundskola / Hillevi Holmgren**
 
     123 067 81 69
+
+
+
+
+**AYoga Karlskoga AB**
+
+    123 175 54 95
 
 
 
@@ -12575,6 +12596,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dalarnas Dreverklubb**
 
     123 561 57 94
+
+
+
+
+**Dalarnas Dövas Förening**
+
+    123 694 10 58
+
+
+
+
+**Dalarnas Dövas Pensionärsklubb**
+
+    123 014 85 10
 
 
 
@@ -38152,6 +38187,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kaisho Kampsport Klubb**
+
+    123 515 08 18
+
+
+
+
 **Kaitumälvdals Skoter & Fritidsförening**
 
     123 046 13 27
@@ -45214,7 +45256,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Lidingö AK - Styrkelyft**
+**Lidingö Atletklubb**
 
     123 609 84 20
 
@@ -46135,6 +46177,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Linköpings Sportdykarklubb, LSDK**
 
     123 288 09 46
+
+
+
+
+**Linköpingslistan**
+
+    123 406 71 38
 
 
 
@@ -54282,6 +54331,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Norrahammars IK**
+
+    123 279 93 69
+
+    123 690 72 99
+
+
+
+
 **Norrahammars Jakt- och Sportskytteklubb**
 
     123 626 31 31
@@ -61894,6 +61952,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Reumatikerföreningen Sundsvall**
+
+    123 193 87 78
+
+
+
+
 **Revsuddens Sportsällskap**
 
     123 151 75 72
@@ -62175,6 +62240,50 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet Hjärt-Lung Bergslagen**
+
+    123 086 07 00
+
+
+
+
+**Riksförbundet Hjärt-Lung Helsingborg**
+
+    123 295 24 06
+
+
+
+
+**Riksförbundet Hjärt-Lung Kristianstad**
+
+    123 543 87 75
+
+
+
+
+**Riksförbundet Hjärt-Lung Stockholm**
+
+    123 012 61 93
+
+
+
+
+**Riksförbundet Hjärt-Lung Vilhelmina**
+
+    123 153 95 68
+
+
+
+
+**Riksförbundet Hjärt-Lung Örnsköldsvik**
+
+    123 173 10 25 - Hjälpfonden
+
+    123 669 96 72
+
+
+
+
 **Riksförbundet HjärtLung**
 
     123 901 01 09
@@ -62189,6 +62298,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet HjärtLung Gävle**
+
+    123 118 30 45
+
+
+
+
 **Riksförbundet HjärtLung Lycksele**
 
     123 675 21 66
@@ -62199,13 +62315,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet HjärtLung Piteå**
 
     123 299 20 22
-
-
-
-
-**Riksförbundet HjärtLung Stockholm**
-
-    123 012 61 93
 
 
 
@@ -65325,6 +65434,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **S:ta Marias Syrisk Ortodoxa Kyrka / Azech Syrianska Föreningen**
 
     123 244 10 79
+
+
+
+
+**SAAB Pensionärsklubb Järfälla, SPKJ**
+
+    123 400 27 47
 
 
 
@@ -94725,6 +94841,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ältas medicinska fotvård & ReflexRummet**
 
     123 611 97 88
+
+
+
+
+**Älvdalens Atletklubb**
+
+    123 635 65 70
 
 
 
