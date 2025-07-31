@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-31-rev-211516
+Revision: 2025-07-31-rev-212106
 
 Nummer: 16231
 
@@ -30362,13 +30362,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**HjärtLung Borås-Ulricehamn**
-
-    123 512 04 56
-
-
-
-
 **Hjärups Budoklubb**
 
     123 600 94 76
@@ -50867,13 +50860,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Minneskonto Riksförbundet Hjärtlung Ljungby**
-
-    123 143 37 47
-
-
-
-
 **Miracle Connect**
 
     123 354 94 66
@@ -62240,9 +62226,37 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet Hjärt-Lung**
+
+    123 901 01 09
+
+
+
+
+**Riksförbundet Hjärt-Lung**
+
+    123 295 52 50 - Skellefteå
+
+
+
+
 **Riksförbundet Hjärt-Lung Bergslagen**
 
     123 086 07 00
+
+
+
+
+**Riksförbundet Hjärt-Lung Borås-Ulricehamn**
+
+    123 512 04 56
+
+
+
+
+**Riksförbundet Hjärt-Lung Gävle**
+
+    123 118 30 45
 
 
 
@@ -62257,6 +62271,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet Hjärt-Lung Kristianstad**
 
     123 543 87 75
+
+
+
+
+**Riksförbundet Hjärt-Lung Ljungby**
+
+    123 143 37 47 - Minneskonto
+
+
+
+
+**Riksförbundet Hjärt-Lung Lycksele**
+
+    123 675 21 66
+
+
+
+
+**Riksförbundet Hjärt-Lung Piteå**
+
+    123 299 20 22
 
 
 
@@ -62280,41 +62315,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 173 10 25 - Hjälpfonden
 
     123 669 96 72
-
-
-
-
-**Riksförbundet HjärtLung**
-
-    123 901 01 09
-
-
-
-
-**Riksförbundet HjärtLung**
-
-    123 295 52 50 - Skellefteå
-
-
-
-
-**Riksförbundet HjärtLung Gävle**
-
-    123 118 30 45
-
-
-
-
-**Riksförbundet HjärtLung Lycksele**
-
-    123 675 21 66
-
-
-
-
-**Riksförbundet HjärtLung Piteå**
-
-    123 299 20 22
 
 
 

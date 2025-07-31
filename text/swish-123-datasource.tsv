@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-07-31-rev-211457
+# Date: 2025-07-31-rev-212046
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2763,7 +2763,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231178623	802508-4347	Konstföreningen Westmannia	https://www.westmanniakonst.se/	konstförening	
 1231179795	874001-5113	Svenska Röda Korset	https://www.rodakorset.se/ort/varmland/saffle-kommun/	hjälporganisation,rödakorset	Säfflebygden
 1231181189	559016-5261	ZignSec AB	https://www.zignsec.com/	betaltjänster	
-1231183045	885000-5524	Riksförbundet HjärtLung Gävle	https://www.hjart-lung.se/foreningar/gavleborg/lokalforeningar/gavle/	intresseförening,riksförbund	
+1231183045	885000-5524	Riksförbundet Hjärt-Lung Gävle	https://www.hjart-lung.se/foreningar/gavleborg/lokalforeningar/gavle/	intresseförening,riksförbund	
 1231183185	849200-8613	Svenska Röda Korset	https://www.rodakorset.se/ort/halland/halmstads-kommun/	hjälporganisation,rödakorset	Halmstad Rödakorskrets
 1231183334	802523-8810	Konstföreningen vid Svalövs Kommun	https://svalov.konstforeningar.se/	konstförening	
 1231183508	802505-8408	Piteå IF Fotbollsförening	https://piteaif.sportadmin.se/	fotbollsklubb,idrottsförening	F10
@@ -3299,7 +3299,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231432749	802010-4876	Hobby & Leksaksmuseum Stiftelsen	https://www.leksaksmuseet.se/	leksaker,museum,stiftelse	
 1231432814	802430-1452	Eskilstuna Friidrottsförening	https://www.eskilstunafriidrott.se/	friidrottsförening,idrottsförening	
 1231433713	802512-7294	Föreningen Vårda Södertälje	https://fvardasodertalje.se/	intresseförening	
-1231433747	829000-8740	Minneskonto Riksförbundet Hjärtlung Ljungby	https://www.hjart-lung.se/foreningar/kronoberg/lokalforeningar/ljungby/	anhörigorganisation,patientförening	
+1231433747	829000-8740	Riksförbundet Hjärt-Lung Ljungby	https://www.hjart-lung.se/foreningar/kronoberg/lokalforeningar/ljungby/	anhörigorganisation,patientförening	Minneskonto
 1231433895	556836-5448	Fogels Nya Trafikskola / Kappes Education AB	https://www.fogelstrafikskola.com/	trafikskola,utbildning	
 1231436070	897900-5603	Gällivare Malmbergets Fotoklubb	https://gemafoto.se/	fotoförening,fotoklubb	
 1231436377	802508-5112	Solshesters MCK - Motorcykel och Snöskoter	https://www.solshestersmck.se/	motorcykelklubb,snöskoterklubb	
@@ -6800,7 +6800,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232953719	802428-4948	Dalslands Ballongklubb	https://klubbhus.flygsport.se/dalslands-ballongklubb	ballongflygning,ballongklubb,flygklubb	
 1232954121	802520-2733	Luleå Fotboll Dam	https://www.laget.se/LuleaFotbollDam/	fotbollsklubb,idrottsförening	
 1232954444	864501-3361	Äspereds Hembygdsförening	https://www.hembygd.se/aspered	hembygdsförening	
-1232955250	894700-8903	Riksförbundet HjärtLung	https://www.hjart-lung.se/foreningar/vasterbotten/lokalforeningar/skelleftea/	anhörigorganisation,patientförening	Skellefteå
+1232955250	894700-8903	Riksförbundet Hjärt-Lung	https://www.hjart-lung.se/foreningar/vasterbotten/lokalforeningar/skelleftea/	anhörigorganisation,patientförening	Skellefteå
 1232955920	802470-4689	Elunds Föräldraförening	https://koping.se/barn--utbildning/grundskola-och-fritidshem/alla-skolor/elundskolan/om-oss/foraldraforening.html	föräldraförening	
 1232956316	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Jönköping, Tabergsskolan
 1232956365	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Sjuhärad, I Ur och Skur Kråkan
@@ -6874,7 +6874,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232991792	817600-8772	Tensta Bygdegårdsförening	https://www.tenstabygdegard.se/	bygdegårdsförening	
 1232991826	630222-XXXX	Maingat Yoga Västervik / Kerstin Severin	https://www.maingatyoga.se/	yoga	
 1232992006	836200-0815	PRO Karlshamn	https://pro.se/distrikt/distrikt-blekinge/samorganisationer/samorganisation-karlshamn/foreningar/karlshamn.html	pensionärsklubb	
-1232992022	898800-4746	Riksförbundet HjärtLung Piteå	https://www.hjart-lung.se/pitea/	förening,patientförening	
+1232992022	898800-4746	Riksförbundet Hjärt-Lung Piteå	https://www.hjart-lung.se/pitea/	förening,patientförening	
 1232992121	817300-6167	FUB Norduppland	https://www.fub.se/lokal/fub-norduppland/	funktionsnedsättning,funktionsvariation	
 1232992162	842000-4379	Ringsjöortens Lantliga Ryttarförening	https://www.ringsjoorten.com/	ridklubb,ridsport,ryttarförening	
 1232992378	802411-3543	Svenska Lacrosseförbundet	https://lacrosse.se/	förbund,idrottsförbund,idrottsförening,lacrosseklubb	Landslaget Field Dam
@@ -11442,7 +11442,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235118831	802421-0604	Falsterbonäsets Naturvårdsförening	https://www.falsterbonaset.se/	naturskydd,naturvård	
 1235120100	802538-5975	Bromma Jollekappseglingssällskap	https://www.brommajolle.se/	jolleklubb,segelklubb,segelsällskap	
 1235120209	802476-0665	Läkare för Framtiden	https://www.lakareforframtiden.se/	hjälporganisation,intresseförening	
-1235120456	864500-3404	HjärtLung Borås-Ulricehamn	https://www.hjart-lung.se/riksforbundet/vastragotaland/lokalforeningar2/boras/	förening,patientförening	
+1235120456	864500-3404	Riksförbundet Hjärt-Lung Borås-Ulricehamn	https://www.hjart-lung.se/riksforbundet/vastragotaland/lokalforeningar2/boras/	förening,patientförening	
 1235121033	802534-9624	Motorcykelhistoriska Klubben Södermanland	https://mchksodermanland.weebly.com/	historieförening,motorcykelklubb,motorsport	
 1235121876	827000-9411	Hörselskadades Riksförbund	https://hrf.se/eksjo/	hörselnedsättning,patientförening,riksförbund	Eksjö
 1235122056	556922-9601	19Hundra Restaurang & Cocktailbar	https://bar19hundra.se/	cocktailbar,restaurant	
@@ -15210,7 +15210,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236751796	857203-4208	Rotary Göteborg-Örgryte	https://goteborg-orgryte.rotary2360.se/	rotaryklubb	
 1236751978	826002-1814	Gränna Scoutkår	https://granna.scout.se/	scoutkår	
 1236751986	252004-8931	Nylöse Pastorat	https://www.svenskakyrkan.se/nylose	religion	Kollekt Bergsjöns Kyrka
-1236752166	895401-1824	Riksförbundet HjärtLung Lycksele	https://www.hjart-lung.se/lycksele/	patientförening	
+1236752166	895401-1824	Riksförbundet Hjärt-Lung Lycksele	https://www.hjart-lung.se/lycksele/	patientförening	
 1236752927	883200-5782	Hela Människan	https://helamanniskan.se/falun/	hjälporganisation,religion	Falun
 1236753214	802532-9262	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Växjö, Lillestadskolan
 1236753230	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Värmland, Gateskolan
@@ -16164,7 +16164,7 @@ entry	orgNumber	orgName	web	categories	comment
 1239010026	802000-8184	EFS - Evangeliska Fosterlandsstiftelsen	https://www.efs.nu/	godkänd gåvomottagare,insamlingskontroll,religion,stiftelse	
 1239010042	802016-5687	Tobias Stiftelsen	https://www.tobiasstiftelsen.com/	insamlingskontroll,stiftelse	
 1239010075	802002-3605	Neuroförbundet	https://www.neuro.se/	förbund,insamlingskontroll,välgörenhet	
-1239010109	802000-6410	Riksförbundet HjärtLung	https://www.hjart-lung.se/	insamlingskontroll,riksförbund,välgörenhet	
+1239010109	802000-6410	Riksförbundet Hjärt-Lung	https://www.hjart-lung.se/	insamlingskontroll,riksförbund,välgörenhet	
 1239010174	802004-5681	Latinamerikagrupperna	https://www.latinamerikagrupperna.se/	insamlingskontroll,mänskliga rättigheter,välgörenhet	
 1239010646	802407-2681	Barnens Hopp	https://www.barnenshopp.org/	insamlingskontroll,välgörenhet	
 1239010687	802409-1970	Terrafem	https://www.terrafem.org/	godkänd gåvomottagare,insamlingskontroll,kvinnojour	
