@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-31-rev-212106
+Revision: 2025-07-31-rev-212458
 
 Nummer: 16231
 
@@ -62233,13 +62233,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Riksförbundet Hjärt-Lung**
-
-    123 295 52 50 - Skellefteå
-
-
-
-
 **Riksförbundet Hjärt-Lung Bergslagen**
 
     123 086 07 00
@@ -62292,6 +62285,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet Hjärt-Lung Piteå**
 
     123 299 20 22
+
+
+
+
+**Riksförbundet Hjärt-Lung Skellefteå**
+
+    123 295 52 50
 
 
 
