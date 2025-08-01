@@ -405,6 +405,17 @@ entries:
   - ukraina
   web: https://www.svenskakyrkan.se/angelholm
 
+- entry: 1230014357
+  orgName: Riksförbundet Hjärt-Lung Älmhult
+  orgNumber: 829000-7551
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/kronoberg/lokalforeningar/almhult/
+
 - entry: 1230016246
   orgName: Värmland-Dals Bridgeförbund
   orgNumber: 874001-7176
@@ -26084,6 +26095,17 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://tollaremarina.se/
+
+- entry: 1231255777
+  orgName: Riksförbundet Hjärt-Lung Botkyrka-Salem
+  orgNumber: 802429-3550
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/stockholm/lokalforeningar/botkyrka-salem/
 
 - entry: 1231256999
   orgName: Östergötlands Hembygdsförbund
@@ -56939,6 +56961,17 @@ entries:
   - skidlöparklubb
   web: https://www.svenskalag.se/syask
 
+- entry: 1232769214
+  orgName: Riksförbundet Hjärt-Lung Laholm
+  orgNumber: 849202-4198
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/halland/lokalforeningar/laholm/
+
 - entry: 1232769222
   orgName: Västrums Hembygdsförening
   orgNumber: 833600-5304
@@ -59053,6 +59086,17 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/marsta
+
+- entry: 1232876100
+  orgName: Riksförbundet Hjärt-Lung Falkenberg
+  orgNumber: 849000-8797
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/halland/lokalforeningar/falkenberg/
 
 - entry: 1232877934
   orgName: PRO Kungsängen
@@ -73453,6 +73497,17 @@ entries:
   categories:
   - bridgeklubb
   web: https://www.svenskbridge.se/lunds-bk
+
+- entry: 1233590346
+  orgName: Riksförbundet Hjärt-Lung Kungsbacka
+  orgNumber: 802422-8416
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/halland/lokalforeningar/kungsbacka/
 
 - entry: 1233590528
   orgName: Stockholms Improvisationsteater AB
@@ -119313,6 +119368,17 @@ entries:
   - yoga
   web: null
 
+- entry: 1235943972
+  orgName: Riksförbundet Hjärt-Lung Alingsås
+  orgNumber: 802431-3598
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/vastragotaland/lokalforeningar2/alingsas/
+
 - entry: 1235944327
   orgName: Team Rynkeby
   orgNumber: 802532-9916
@@ -135656,7 +135722,10 @@ entries:
   orgNumber: 895401-1824
   comment: null
   categories:
+  - anhörigorganisation
+  - intresseförening
   - patientförening
+  - riksförbund
   web: https://www.hjart-lung.se/lycksele/
 
 - entry: 1236752927
@@ -137925,6 +137994,17 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/nedresopperoik
 
+- entry: 1236856652
+  orgName: Riksförbundet Hjärt-Lung Halmstad
+  orgNumber: 849202-3331
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/halland/lokalforeningar/halmstad/
+
 - entry: 1236856744
   orgName: Ukrainian Volunteer Hub Stockholm
   orgNumber: 802543-9491
@@ -138573,8 +138653,10 @@ entries:
   orgNumber: 875001-8437
   comment: Sverigelotter
   categories:
+  - anhörigorganisation
   - intresseförening
   - patientförening
+  - riksförbund
   web: https://www.hjart-lung.se/riksforbundet/orebrolan/lokalforeningar/orebro/
 
 - entry: 1236895858

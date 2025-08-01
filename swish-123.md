@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-07-31-rev-212458
+Revision: 2025-08-01-rev-182119
 
-Nummer: 16231
+Nummer: 16238
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -62233,6 +62233,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet Hjärt-Lung Alingsås**
+
+    123 594 39 72
+
+
+
+
 **Riksförbundet Hjärt-Lung Bergslagen**
 
     123 086 07 00
@@ -62247,9 +62254,30 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet Hjärt-Lung Botkyrka-Salem**
+
+    123 125 57 77
+
+
+
+
+**Riksförbundet Hjärt-Lung Falkenberg**
+
+    123 287 61 00
+
+
+
+
 **Riksförbundet Hjärt-Lung Gävle**
 
     123 118 30 45
+
+
+
+
+**Riksförbundet Hjärt-Lung Halmstad**
+
+    123 685 66 52
 
 
 
@@ -62264,6 +62292,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet Hjärt-Lung Kristianstad**
 
     123 543 87 75
+
+
+
+
+**Riksförbundet Hjärt-Lung Kungsbacka**
+
+    123 359 03 46
+
+
+
+
+**Riksförbundet Hjärt-Lung Laholm**
+
+    123 276 92 14
 
 
 
@@ -62306,6 +62348,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet Hjärt-Lung Vilhelmina**
 
     123 153 95 68
+
+
+
+
+**Riksförbundet Hjärt-Lung Älmhult**
+
+    123 001 43 57
 
 
 

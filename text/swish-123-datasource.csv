@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-07-31-rev-212430
+# Date: 2025-08-01-rev-182050
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -52,6 +52,7 @@
 "1230013367","817606-5749","Västanfors IF Fotbollsklubb","https://www.laget.se/VastanforsFotboll/","fotbollsklubb,idrottsförening",""
 "1230013979","802465-1252","Skapande Broderi Stockholm","https://www.skapandebroderi.se/","broderi,intresseförening,textil",""
 "1230014209","252004-1720","Ängelholms Församling","https://www.svenskakyrkan.se/angelholm","religion,ukraina","Ukraina, Zaporizjzja"
+"1230014357","829000-7551","Riksförbundet Hjärt-Lung Älmhult","https://www.hjart-lung.se/foreningar/kronoberg/lokalforeningar/almhult/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
 "1230016246","874001-7176","Värmland-Dals Bridgeförbund","https://www.svenskbridge.se/värmland-dals-bf","bridgeförbund",""
 "1230017087","898500-6397","Norrbottens Motorsällskap, NMS Boden","https://nmsboden.se/","motorklubb,motorsport",""
 "1230017137","802505-8408","Piteå Idrottsförening","https://piteaif.sportadmin.se/","fotbollsklubb,idrottsförening",""
@@ -2941,6 +2942,7 @@
 "1231254366","556593-7199","Konditori Janeling","https://janeling.se/","café,konditori",""
 "1231254416","889601-3631","Kvinnojouren Örnsköldsvik","https://www.unizonjourer.se/kvinnojourenornskoldsvik/","kvinnojour",""
 "1231254457","769632-1665","Bostadsrättsföreningen Tollare Marina i Saltsjö-Boo","https://tollaremarina.se/","bostadsrättsförening",""
+"1231255777","802429-3550","Riksförbundet Hjärt-Lung Botkyrka-Salem","https://www.hjart-lung.se/foreningar/stockholm/lokalforeningar/botkyrka-salem/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
 "1231256999","822002-2712","Östergötlands Hembygdsförbund","https://www.hembygd.se/ostergotland","förbund,hembygdsförening",""
 "1231258748","817000-6418","Enköpings Brukshundklubb","https://www.enkopingsbk.se/","brukshundklubb,hundsport",""
 "1231259167","802408-4991","SPF Seniorerna Boo","https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-boo/","pensionärsklubb",""
@@ -6407,6 +6409,7 @@
 "1232768349","889200-3446","Stöde IF","https://www.laget.se/StodeIF/","fotbollsklubb,idrottsförening,skidlöparklubb,tennisklubb",""
 "1232768364","802470-5892","Hässleholms SMU","https://equmeniakyrkan.se/hassleholm/","religion","Equmenia"
 "1232768661","823000-3751","Sya SK","https://www.svenskalag.se/syask","idrottsförening,skidlöparklubb",""
+"1232769214","849202-4198","Riksförbundet Hjärt-Lung Laholm","https://www.hjart-lung.se/foreningar/halland/lokalforeningar/laholm/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
 "1232769222","833600-5304","Västrums Hembygdsförening","https://vastrumhembygd.se/","hembygdsförening",""
 "1232769230","849400-1731","Särö IK","https://www.saroik.se/","bordtennisklubb,fotbollsklubb,idrottsförening",""
 "1232769701","802478-9342","Insamlingsstiftelsen Hepatica","https://sd.se/","insamling",""
@@ -6642,6 +6645,7 @@
 "1232875730","842000-3686","Eslövs Ridklubb","https://eslovsridklubb.se/","hästsport,ridklubb,ridsport",""
 "1232875839","770426-XXXX","NapraSpa Anna / Anna Didi","https://napraspa.se/","akupunktur,healing,medicinsk akupunktur,reiki",""
 "1232876092","252003-0095","Märsta Pastorat","https://www.svenskakyrkan.se/marsta","religion","Kollekt Norrsunda Kyrka"
+"1232876100","849000-8797","Riksförbundet Hjärt-Lung Falkenberg","https://www.hjart-lung.se/foreningar/halland/lokalforeningar/falkenberg/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
 "1232877934","813200-3552","PRO Kungsängen","https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-upplands-bro/foreningar/kungsangen.html","pensionärsklubb",""
 "1232879179","802467-0450","Orust Återbruk / Orust Kretsloppsakademi","https://www.orustaterbruk.se/","återbruk,återvinning",""
 "1232879625","720910-XXXX","Peggy Ödgren","https://www.peggyodgren.se/","healing,medial vägledning,medium,spiritualism",""
@@ -8256,6 +8260,7 @@
 "1233583978","897002-0379","Noaks Ark Norra Norrland","https://noaksark.org/norra-norrland/","hjälporganisation,sociala insatser",""
 "1233587094","802541-3090","Solgläntans Hemlösa katter","https://vallentunakattcenter.se/","djurskydd,katthem",""
 "1233588266","802546-7997","Lunds Bridgeklubb","https://www.svenskbridge.se/lunds-bk","bridgeklubb",""
+"1233590346","802422-8416","Riksförbundet Hjärt-Lung Kungsbacka","https://www.hjart-lung.se/foreningar/halland/lokalforeningar/kungsbacka/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
 "1233590528","556632-9495","Stockholms Improvisationsteater AB","https://www.impro.a.se/","improvisationsteater,teater",""
 "1233590700","802533-7778","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Dalarna, Sundbornsskolan"
 "1233591104","252004-3767","Sösdala Församling","https://www.svenskakyrkan.se/sosdala","religion","Kollekt Johannesgården"
@@ -13380,6 +13385,7 @@
 "1235942826","873201-9172","Hörselskadades Riksförbund","https://hrf.se/kristinehamn/","hörselnedsättning,patientförening,riksförbund","Kristinehamn"
 "1235943246","802427-8361","Prostatacancerföreningen i Uppsala län","https://prostatacancerforbundet.se/om-oss/patientforeningar/uppsala/prostatacancerforeningen-i-uppsala-lan/","anhörigorganisation,cancerförening,patientförening,prostatacancer",""
 "1235943659","690618-XXXX","Anna Redin Yoga / Anna Redin","","yoga",""
+"1235943972","802431-3598","Riksförbundet Hjärt-Lung Alingsås","https://www.hjart-lung.se/foreningar/vastragotaland/lokalforeningar2/alingsas/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
 "1235944327","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Malmö, Titanskolan"
 "1235944335","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Malmö, Kungshögsskolan"
 "1235944384","802499-1377","SPF Seniorerna Vessigebro","https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-vessigebro/","pensionärsklubb",""
@@ -15210,7 +15216,7 @@
 "1236751796","857203-4208","Rotary Göteborg-Örgryte","https://goteborg-orgryte.rotary2360.se/","rotaryklubb",""
 "1236751978","826002-1814","Gränna Scoutkår","https://granna.scout.se/","scoutkår",""
 "1236751986","252004-8931","Nylöse Pastorat","https://www.svenskakyrkan.se/nylose","religion","Kollekt Bergsjöns Kyrka"
-"1236752166","895401-1824","Riksförbundet Hjärt-Lung Lycksele","https://www.hjart-lung.se/lycksele/","patientförening",""
+"1236752166","895401-1824","Riksförbundet Hjärt-Lung Lycksele","https://www.hjart-lung.se/lycksele/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
 "1236752927","883200-5782","Hela Människan","https://helamanniskan.se/falun/","hjälporganisation,religion","Falun"
 "1236753214","802532-9262","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Växjö, Lillestadskolan"
 "1236753230","802532-8033","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Värmland, Gateskolan"
@@ -15464,6 +15470,7 @@
 "1236854319","802468-0483","Ås Hembygdsförening","https://www.hembygd.se/as","hembygdsförening",""
 "1236854798","559251-1371","Nordisk Filateli AB","https://filateli.se/","filateli,frimärkssamling",""
 "1236855852","897300-0964","Nedre Soppero IK","https://www.svenskalag.se/nedresopperoik","friidrottsförening,idrottsförening",""
+"1236856652","849202-3331","Riksförbundet Hjärt-Lung Halmstad","https://www.hjart-lung.se/foreningar/halland/lokalforeningar/halmstad/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
 "1236856744","802543-9491","Ukrainian Volunteer Hub Stockholm","https://www.facebook.com/uavhub.stockholm","hjälporganisation,insamling,ukraina",""
 "1236858021","556174-3765","Axelsson Trafikskolor / On Via TS AB","https://axts.se/","trafikskola,utbildning","Västerås"
 "1236858187","873200-7243","Nyeds Hembygdsförening","https://www.hembygd.se/nyed","hembygdsförening",""
@@ -15536,7 +15543,7 @@
 "1236892533","802466-5401","Uppsala Handbollsklubb","https://www.uppsalahk.se/","handbollsklubb,idrottsförening","F2014 Södra"
 "1236894406","802548-9116","Ovansiljans Nose Work förening","https://onwf.se/","hundsport,nosework",""
 "1236895601","866001-1571","Billinge Brukshundklubb","https://www.billingebk.se/","brukshundklubb,hundsport",""
-"1236895692","875001-8437","Hjärt-och Lungsjukas lokalförening Örebro","https://www.hjart-lung.se/riksforbundet/orebrolan/lokalforeningar/orebro/","intresseförening,patientförening","Sverigelotter"
+"1236895692","875001-8437","Hjärt-och Lungsjukas lokalförening Örebro","https://www.hjart-lung.se/riksforbundet/orebrolan/lokalforeningar/orebro/","anhörigorganisation,intresseförening,patientförening,riksförbund","Sverigelotter"
 "1236895858","812800-5942","Botkyrka Golfklubb","https://www.botkyrkagk.se/","golfklubb",""
 "1236896070","889200-0053","Alnö IF","https://www.svenskalag.se/alnoif","fotbollsklubb,idrottsförening","A-lag/Damer"
 "1236896146","854600-6993","SPF Seniorerna Sotenäs","https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/sotenas/","pensionärsklubb",""
