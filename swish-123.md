@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-01-rev-182119
+Revision: 2025-08-01-rev-182415
 
 Nummer: 16238
 
@@ -30334,13 +30334,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Hjärt-Lungfonden, Svenska Nationalföreningen mot Hjärt- och Lungsjukdomar**
-
-    123 909 19 27
-
-
-
-
 **Hjärt-och Lungsjukas Lok För Örebro**
 
     123 104 96 34
@@ -30358,6 +30351,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hjärtebarnsfonden**
 
     123 900 58 77
+
+
+
+
+**HjärtLungfonden, Svenska Nationalföreningen mot Hjärt- och Lungsjukdomar**
+
+    123 909 19 27
 
 
 
@@ -62226,140 +62226,140 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Riksförbundet Hjärt-Lung**
+**Riksförbundet HjärtLung**
 
     123 901 01 09
 
 
 
 
-**Riksförbundet Hjärt-Lung Alingsås**
+**Riksförbundet HjärtLung Alingsås**
 
     123 594 39 72
 
 
 
 
-**Riksförbundet Hjärt-Lung Bergslagen**
+**Riksförbundet HjärtLung Bergslagen**
 
     123 086 07 00
 
 
 
 
-**Riksförbundet Hjärt-Lung Borås-Ulricehamn**
+**Riksförbundet HjärtLung Borås-Ulricehamn**
 
     123 512 04 56
 
 
 
 
-**Riksförbundet Hjärt-Lung Botkyrka-Salem**
+**Riksförbundet HjärtLung Botkyrka-Salem**
 
     123 125 57 77
 
 
 
 
-**Riksförbundet Hjärt-Lung Falkenberg**
+**Riksförbundet HjärtLung Falkenberg**
 
     123 287 61 00
 
 
 
 
-**Riksförbundet Hjärt-Lung Gävle**
+**Riksförbundet HjärtLung Gävle**
 
     123 118 30 45
 
 
 
 
-**Riksförbundet Hjärt-Lung Halmstad**
+**Riksförbundet HjärtLung Halmstad**
 
     123 685 66 52
 
 
 
 
-**Riksförbundet Hjärt-Lung Helsingborg**
+**Riksförbundet HjärtLung Helsingborg**
 
     123 295 24 06
 
 
 
 
-**Riksförbundet Hjärt-Lung Kristianstad**
+**Riksförbundet HjärtLung Kristianstad**
 
     123 543 87 75
 
 
 
 
-**Riksförbundet Hjärt-Lung Kungsbacka**
+**Riksförbundet HjärtLung Kungsbacka**
 
     123 359 03 46
 
 
 
 
-**Riksförbundet Hjärt-Lung Laholm**
+**Riksförbundet HjärtLung Laholm**
 
     123 276 92 14
 
 
 
 
-**Riksförbundet Hjärt-Lung Ljungby**
+**Riksförbundet HjärtLung Ljungby**
 
     123 143 37 47 - Minneskonto
 
 
 
 
-**Riksförbundet Hjärt-Lung Lycksele**
+**Riksförbundet HjärtLung Lycksele**
 
     123 675 21 66
 
 
 
 
-**Riksförbundet Hjärt-Lung Piteå**
+**Riksförbundet HjärtLung Piteå**
 
     123 299 20 22
 
 
 
 
-**Riksförbundet Hjärt-Lung Skellefteå**
+**Riksförbundet HjärtLung Skellefteå**
 
     123 295 52 50
 
 
 
 
-**Riksförbundet Hjärt-Lung Stockholm**
+**Riksförbundet HjärtLung Stockholm**
 
     123 012 61 93
 
 
 
 
-**Riksförbundet Hjärt-Lung Vilhelmina**
+**Riksförbundet HjärtLung Vilhelmina**
 
     123 153 95 68
 
 
 
 
-**Riksförbundet Hjärt-Lung Älmhult**
+**Riksförbundet HjärtLung Älmhult**
 
     123 001 43 57
 
 
 
 
-**Riksförbundet Hjärt-Lung Örnsköldsvik**
+**Riksförbundet HjärtLung Örnsköldsvik**
 
     123 173 10 25 - Hjälpfonden
 
