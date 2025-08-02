@@ -6821,6 +6821,17 @@ entries:
   - innebandyklubb
   web: https://www.svenskalag.se/vmib
 
+- entry: 1230335232
+  orgName: Riksförbundet HjärtLung Västervik
+  orgNumber: 833600-9728
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/kalmar-lan/lokalforeningar/vastervik/
+
 - entry: 1230335745
   orgName: Stiftelsen Storholmen Norden
   orgNumber: 802401-9039
@@ -17679,7 +17690,9 @@ entries:
   orgNumber: 877100-7617
   comment: null
   categories:
+  - anhörigorganisation
   - intresseförening
+  - patientförening
   - riksförbund
   web: https://www.hjart-lung.se/foreningar/orebrolan/lokalforeningar/Bergslagen/
 
@@ -24517,7 +24530,9 @@ entries:
   orgNumber: 885000-5524
   comment: null
   categories:
+  - anhörigorganisation
   - intresseförening
+  - patientförening
   - riksförbund
   web: https://www.hjart-lung.se/foreningar/gavleborg/lokalforeningar/gavle/
 
@@ -29268,7 +29283,9 @@ entries:
   comment: Minneskonto
   categories:
   - anhörigorganisation
+  - intresseförening
   - patientförening
+  - riksförbund
   web: https://www.hjart-lung.se/foreningar/kronoberg/lokalforeningar/ljungby/
 
 - entry: 1231433895
@@ -31704,7 +31721,9 @@ entries:
   orgNumber: 896100-6031
   comment: null
   categories:
+  - anhörigorganisation
   - intresseförening
+  - patientförening
   - riksförbund
   web: https://www.hjart-lung.se/foreningar/vasterbotten/lokalforeningar/vilhelmina/
 
@@ -35520,8 +35539,9 @@ entries:
   orgNumber: 889600-5520
   comment: Hjälpfonden
   categories:
-  - fond
+  - anhörigorganisation
   - intresseförening
+  - patientförening
   - riksförbund
   web: https://www.hjart-lung.se/foreningar/vasternorrland/lokalforeningar/ornskoldsvik/
 
@@ -39603,6 +39623,15 @@ entries:
   - hundsport
   web: https://smalandgoldenklubben.se/
 
+- entry: 1231937200
+  orgName: SK Lejon
+  orgNumber: 894700-8838
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.laget.se/SKLejon_/
+
 - entry: 1231937226
   orgName: Sorunda Hemslöjdsvänner
   orgNumber: 812401-1142
@@ -42722,6 +42751,17 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-ostergotland/samorganisationer/samorganisation-mjolby/foreningar/mantorp.html
+
+- entry: 1232102333
+  orgName: Riksförbundet HjärtLung Bollnäs-Ovanåker
+  orgNumber: 886500-9776
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/gavleborg/lokalforeningar/bollnas-ovanaker/
 
 - entry: 1232102648
   orgName: Amo handbollsklubb
@@ -60462,6 +60502,17 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/ventlinge
 
+- entry: 1232951580
+  orgName: Riksförbundet HjärtLung Luleå
+  orgNumber: 802442-0765
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/norrbotten/lokalforeningar/lulea/
+
 - entry: 1232951838
   orgName: Växjö Lakers Hockeyklubb
   orgNumber: 829502-6788
@@ -60485,7 +60536,9 @@ entries:
   orgNumber: 843000-9483
   comment: null
   categories:
+  - anhörigorganisation
   - intresseförening
+  - patientförening
   - riksförbund
   web: https://www.hjart-lung.se/foreningar/skane/lokalforeningar/helsingborg/
 
@@ -60522,7 +60575,9 @@ entries:
   comment: null
   categories:
   - anhörigorganisation
+  - intresseförening
   - patientförening
+  - riksförbund
   web: https://www.hjart-lung.se/foreningar/vasterbotten/lokalforeningar/skelleftea/
 
 - entry: 1232955920
@@ -61183,9 +61238,11 @@ entries:
   orgNumber: 898800-4746
   comment: null
   categories:
-  - förening
+  - anhörigorganisation
+  - intresseförening
   - patientförening
-  web: https://www.hjart-lung.se/pitea/
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/norrbotten/lokalforeningar/pitea/
 
 - entry: 1232992121
   orgName: FUB Norduppland
@@ -73767,6 +73824,17 @@ entries:
   categories:
   - podcast
   web: https://bcbuddzlive.libsyn.com/
+
+- entry: 1233604436
+  orgName: Riksförbundet HjärtLung Hagfors-Munkfors
+  orgNumber: 874001-1997
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/varmland/lokalforeningar/hagfors-munkfors/
 
 - entry: 1233604600
   orgName: Landskrona Direkt / Zebra Media HB
@@ -87115,6 +87183,17 @@ entries:
   - religion
   web: https://lidingoforsamling.se/
 
+- entry: 1234303665
+  orgName: Riksförbundet HjärtLung Oskarshamn
+  orgNumber: 832800-6120
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/kalmar-lan/lokalforeningar/oskarshamn/
+
 - entry: 1234303954
   orgName: Kvinnohistoriska Sällskapet
   orgNumber: 802516-1244
@@ -87617,6 +87696,17 @@ entries:
   - hjärnforskning
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1234342127
+  orgName: Riksförbundet HjärtLung Tranås
+  orgNumber: 802446-1009
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/jonkoping-lan/lokalforeningar/tranas/
 
 - entry: 1234343059
   orgName: Årjängs IF
@@ -99559,6 +99649,17 @@ entries:
   - podcast
   web: https://shows.acast.com/femitopp
 
+- entry: 1235007364
+  orgName: Riksförbundet HjärtLung Östra Sörmland
+  orgNumber: 819000-8196
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/sodermanland/lokalforeningar/ostra-sormland/
+
 - entry: 1235008206
   orgName: FUB Örebro
   orgNumber: 875000-8594
@@ -101975,8 +102076,10 @@ entries:
   orgNumber: 864500-3404
   comment: null
   categories:
-  - förening
+  - anhörigorganisation
+  - intresseförening
   - patientförening
+  - riksförbund
   web: https://www.hjart-lung.se/riksforbundet/vastragotaland/lokalforeningar2/boras/
 
 - entry: 1235121033
@@ -108950,7 +109053,9 @@ entries:
   orgNumber: 838201-3053
   comment: null
   categories:
+  - anhörigorganisation
   - intresseförening
+  - patientförening
   - riksförbund
   web: https://www.hjart-lung.se/foreningar/skane/lokalforeningar/kristianstad/
 
@@ -113618,6 +113723,17 @@ entries:
   - hjälporganisation
   web: https://www.facebook.com/groups/612582809902442/
 
+- entry: 1235649074
+  orgName: Riksförbundet HjärtLung Sydöstra Småland och Öland
+  orgNumber: 832401-6271
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/kalmar-lan/lokalforeningar/kalmar/
+
 - entry: 1235650254
   orgName: Mora Fotoklubb
   orgNumber: 802498-2509
@@ -115606,6 +115722,17 @@ entries:
   categories:
   - religion
   web: http://www.skalbykyrkan.se/
+
+- entry: 1235752563
+  orgName: Riksförbundet HjärtLung Överkalix
+  orgNumber: 802429-1018
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/norrbotten/lokalforeningar/overkalix/
 
 - entry: 1235752688
   orgName: AK Stockholmsatleterna
@@ -132072,6 +132199,17 @@ entries:
   - idrottsförening
   web: https://www.laget.se/BSKP16/
 
+- entry: 1236565907
+  orgName: Riksförbundet HjärtLung Malmö
+  orgNumber: 846000-1012
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/skane/lokalforeningar/malmo/
+
 - entry: 1236568489
   orgName: Cykelklubben Bike4Life
   orgNumber: 802531-0643
@@ -134707,7 +134845,9 @@ entries:
   orgNumber: 889600-5520
   comment: null
   categories:
+  - anhörigorganisation
   - intresseförening
+  - patientförening
   - riksförbund
   web: https://www.hjart-lung.se/foreningar/vasternorrland/lokalforeningar/ornskoldsvik/
 
@@ -135726,7 +135866,7 @@ entries:
   - intresseförening
   - patientförening
   - riksförbund
-  web: https://www.hjart-lung.se/lycksele/
+  web: https://www.hjart-lung.se/foreningar/vasterbotten/lokalforeningar/lycksele/
 
 - entry: 1236752927
   orgName: Hela Människan
@@ -136719,6 +136859,17 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.mariestadsbk.com/
+
+- entry: 1236790364
+  orgName: Riksförbundet HjärtLung Karlstad
+  orgNumber: 873201-3969
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/varmland/lokalforeningar/karlstad/
 
 - entry: 1236790463
   orgName: Bridgeklubben ESS-Löv
@@ -144354,9 +144505,10 @@ entries:
   orgNumber: 802000-6410
   comment: null
   categories:
-  - insamlingskontroll
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
   - riksförbund
-  - välgörenhet
   web: https://www.hjart-lung.se/
 
 - entry: 1239010174
@@ -145047,7 +145199,10 @@ entries:
   orgNumber: 802006-0763
   comment: null
   categories:
+  - anhörigorganisation
   - godkänd gåvomottagare
   - insamlingskontroll
-  - välgörenhet
+  - intresseförening
+  - patientförening
+  - riksförbund
   web: https://www.hjart-lungfonden.se/

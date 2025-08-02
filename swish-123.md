@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-01-rev-182415
+Revision: 2025-08-02-rev-144846
 
-Nummer: 16238
+Nummer: 16250
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -62247,6 +62247,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet HjärtLung Bollnäs-Ovanåker**
+
+    123 210 23 33
+
+
+
+
 **Riksförbundet HjärtLung Borås-Ulricehamn**
 
     123 512 04 56
@@ -62275,6 +62282,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet HjärtLung Hagfors-Munkfors**
+
+    123 360 44 36
+
+
+
+
 **Riksförbundet HjärtLung Halmstad**
 
     123 685 66 52
@@ -62285,6 +62299,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet HjärtLung Helsingborg**
 
     123 295 24 06
+
+
+
+
+**Riksförbundet HjärtLung Karlstad**
+
+    123 679 03 64
 
 
 
@@ -62317,9 +62338,30 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet HjärtLung Luleå**
+
+    123 295 15 80
+
+
+
+
 **Riksförbundet HjärtLung Lycksele**
 
     123 675 21 66
+
+
+
+
+**Riksförbundet HjärtLung Malmö**
+
+    123 656 59 07
+
+
+
+
+**Riksförbundet HjärtLung Oskarshamn**
+
+    123 430 36 65
 
 
 
@@ -62345,9 +62387,30 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet HjärtLung Sydöstra Småland och Öland**
+
+    123 564 90 74
+
+
+
+
+**Riksförbundet HjärtLung Tranås**
+
+    123 434 21 27
+
+
+
+
 **Riksförbundet HjärtLung Vilhelmina**
 
     123 153 95 68
+
+
+
+
+**Riksförbundet HjärtLung Västervik**
+
+    123 033 52 32
 
 
 
@@ -62364,6 +62427,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 173 10 25 - Hjälpfonden
 
     123 669 96 72
+
+
+
+
+**Riksförbundet HjärtLung Östra Sörmland**
+
+    123 500 73 64
+
+
+
+
+**Riksförbundet HjärtLung Överkalix**
+
+    123 575 25 63
 
 
 
@@ -67879,6 +67956,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SK Iron**
 
     123 566 47 68
+
+
+
+
+**SK Lejon**
+
+    123 193 72 00
 
 
 
