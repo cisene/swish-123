@@ -15,7 +15,7 @@ import mysql.connector
 YAML_SOURCE_FILE = '../yaml/swish-123-datasource.yaml'
 
 APP_NAME = 'Yaml2MySQL'
-APP_VERSION = '0.0.1#20240106'
+APP_VERSION = '0.0.1#20250802'
 
 global conn
 global cur_channel_write
@@ -49,26 +49,18 @@ def updateDatabase(entries):
 
   line_count = 1
 
-  #category_block = [
-  #  'overifierad',
-  #  'suspended',
-  #  'terminated',
-  #  'verified',
-  #  'verifierad',
-  #  'retired',
-  #]
-
   if len(entries['entries']) > 0:
-    query = "TRUNCATE TABLE categories;"
+    #query = "TRUNCATE TABLE categories;"
+    query = "TRUNCATE TABLE tempcategories;"
     cur_channel_write.execute(query)
-    print(f"Truncating table 'categories' ..")
+    print(f"Truncating temporary table 'categories' ..")
 
-    query = "TRUNCATE TABLE swish;"
+    #query = "TRUNCATE TABLE swish;"
+    query = "TRUNCATE TABLE tempswish;"
     cur_channel_write.execute(query)
-    print(f"Truncating table 'swish' ..")
+    print(f"Truncating temporary table 'swish' ..")
 
     conn.commit()
-
 
   for VO in entries['entries']:
 
@@ -78,21 +70,6 @@ def updateDatabase(entries):
     entry = ""
     if "entry" in VO:
       entry = VO['entry']
-
-    #if categories == None:
-    #  #print(f"{entry} had no categories .. skipping")
-    #  result['blocked'] += 1
-    #  continue
-
-    #category_skip = False
-    #for category in categories:
-    #  if category in category_block:
-    #    #print(f"{entry} had '{category}' .. skipping")
-    #    category_skip = True
-
-    #if category_skip == True:
-    #  result['blocked'] += 1
-    #  continue
 
     # Print progress
     if (line_count % 500) == 0:
@@ -104,20 +81,10 @@ def updateDatabase(entries):
       if VO['orgName'] != None:
         orgName = safeSQL(VO['orgName'])
 
-    # If orgName is missing, skip it
-    #if orgName == "":
-    #  result['blocked'] += 1
-    #  continue
-
     orgNumber = ""
     if "orgNumber" in VO:
       if VO['orgNumber'] != None:
         orgNumber = safeSQL(VO['orgNumber'])
-
-    # If orgNumber is missing, skip it
-    #if orgNumber == "":
-    #  result['blocked'] += 1
-    #  continue
 
     web = ""
     if "web" in VO:
@@ -129,13 +96,15 @@ def updateDatabase(entries):
       if VO['comment'] != None:
         comment = safeSQL(VO['comment'])
 
-    query = f"INSERT INTO swish (entry, orgName, orgNumber, comment, web) VALUES({entry},'{orgName}','{orgNumber}','{comment}','{web}') ON DUPLICATE KEY UPDATE orgName = '{orgName}', orgNumber = '{orgNumber}', comment = '{comment}', web = '{web}';"
+    #query = f"INSERT INTO swish (entry, orgName, orgNumber, comment, web) VALUES({entry},'{orgName}','{orgNumber}','{comment}','{web}') ON DUPLICATE KEY UPDATE orgName = '{orgName}', orgNumber = '{orgNumber}', comment = '{comment}', web = '{web}';"
+    query = f"INSERT INTO tempswish (entry, orgName, orgNumber, comment, web) VALUES({entry},'{orgName}','{orgNumber}','{comment}','{web}') ON DUPLICATE KEY UPDATE orgName = '{orgName}', orgNumber = '{orgNumber}', comment = '{comment}', web = '{web}';"
     #print(query)
     cur_channel_write.execute(query)
 
     for category in categories:
       safe_category = safeSQL(category)
-      query = f"INSERT INTO categories (entry, category) VALUES({entry}, '{safe_category}') ON DUPLICATE KEY UPDATE category = '{safe_category}';"
+      #query = f"INSERT INTO categories (entry, category) VALUES({entry}, '{safe_category}') ON DUPLICATE KEY UPDATE category = '{safe_category}';"
+      query = f"INSERT INTO tempcategories (entry, category) VALUES({entry}, '{safe_category}') ON DUPLICATE KEY UPDATE category = '{safe_category}';"
       #print(query)
       cur_channel_write.execute(query)
 
@@ -203,7 +172,7 @@ def main():
   if "DB_PASSWORD" in os.environ:
     db_password = os.environ['DB_PASSWORD']
 
-  print(f"{db_host}:{db_port} - {db_username}:{db_password} - {db_database}")
+  #print(f"{db_host}:{db_port} - {db_username}:{db_password} - {db_database}")
 
   if(
     db_host is not None and
