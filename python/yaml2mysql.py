@@ -43,6 +43,21 @@ def loadEntries(filepath):
 
   return data
 
+def updateTablesFromTemp():
+
+  qyuery = "TRUNCATE TABLE categories;"
+  cur_channel_write.execute(query)
+
+  query = "INSERT INTO categories\nSELECT * FROM tempcategories;"
+  cur_channel_write.execute(query)
+
+  query = "TRUNCATE TABLE swish;"
+  cur_channel_write.execute(query)
+
+  query = "INSERT INTO swish\nSELECT * FROM tempswish;"
+  cur_channel_write.execute(query)
+
+
 def updateDatabase(entries):
   result = { 'all': len(entries['entries']), 'blocked': 0, 'updated': 0 }
   buffer = []
@@ -194,6 +209,9 @@ def main():
 
   stats = updateDatabase(entries)
   print(stats)
+
+  updateTablesFromTemp()
+
 
 if __name__ == '__main__':
   main()
