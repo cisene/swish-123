@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-02-rev-144846
+Revision: 2025-08-09-rev-103915
 
-Nummer: 16250
+Nummer: 16252
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -13849,6 +13849,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Djurgårdens IF Fotboll**
+
+    123 035 21 04
 
     123 084 44 07 - Lotteri
 
@@ -62355,6 +62357,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet HjärtLung Malmö**
 
     123 656 59 07
+
+
+
+
+**Riksförbundet HjärtLung Norrköping**
+
+    123 408 56 19
 
 
 

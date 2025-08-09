@@ -7221,6 +7221,15 @@ entries:
   - släktforskning
   web: https://lbsf.sksf.se/
 
+- entry: 1230352104
+  orgName: Djurgårdens IF Fotboll
+  orgNumber: 802015-5043
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.dif.se/
+
 - entry: 1230353391
   orgName: Södra Ljusterö Byggnadsförening
   orgNumber: 716400-1112
@@ -82878,6 +82887,17 @@ entries:
   - djurvård
   - katthem
   web: https://www.djurskyddet.se/kattfotenhalmstad/
+
+- entry: 1234085619
+  orgName: Riksförbundet HjärtLung Norrköping
+  orgNumber: 825001-6600
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/ostergotland/lokalforeningar/norrkoping/
 
 - entry: 1234086526
   orgName: House of Samurai IF

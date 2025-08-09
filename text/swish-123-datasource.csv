@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-08-02-rev-144816
+# Date: 2025-08-09-rev-103844
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -819,6 +819,7 @@
 "1230349407","862500-3960","Melleruds IF","https://www.svenskalag.se/mellerudsif","fotbollsklubb,idrottsförening",""
 "1230350033","802481-8802","Insamlingsstiftelsen Midnattssolens Trädgård","https://linnesamfundetpolcirkeln.se/","intresseorganisation,naturvård,stiftelse",""
 "1230351684","846004-6678","Lomma-Burlöv Släkt och Folklivsforskare","https://lbsf.sksf.se/","genealogi,släktforskning",""
+"1230352104","802015-5043","Djurgårdens IF Fotboll","https://www.dif.se/","fotbollsklubb,idrottsförening",""
 "1230353391","716400-1112","Södra Ljusterö Byggnadsförening","https://granliden-ljustero.se/","byggnadsförening,samfällighetsförening",""
 "1230354654","556884-9789","Vaksala Trafikskola AB","https://vaksalatrafikskola.se/","trafikskola,utbildning",""
 "1230354787","815600-3454","Södertälje Basketbollklubb","https://www.sbbk.se/","basketbollklubb,idrottsförening","Damlaget"
@@ -9311,6 +9312,7 @@
 "1234084760","252004-8030","Skellefteå Pastorat","https://www.svenskakyrkan.se/skelleftea","religion","Sjukhuskyrkan"
 "1234084968","816400-3140","Svenska Röda Korset","https://rodakorsetdjursholm.weebly.com/","hjälporganisation,rödakorset","Djursholm"
 "1234085163","802418-6713","Djurskyddet Kattfotens Katthem Halmstad","https://www.djurskyddet.se/kattfotenhalmstad/","djurskydd,djurvård,katthem",""
+"1234085619","825001-6600","Riksförbundet HjärtLung Norrköping","https://www.hjart-lung.se/foreningar/ostergotland/lokalforeningar/norrkoping/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
 "1234086526","802539-9950","House of Samurai IF","https://www.svenskalag.se/houseofsamurai","boxningsklubb,brasiliansk jiu-jitsu,idrottsförening,jujutsuklubb,kampsportsförening,muaythaiklubb",""
 "1234088076","822000-7978","Vreta Klosters Hembygdsförening","https://www.hembygd.se/vreta-klosters-hembygdsforening","hembygdsförening",""
 "1234088282","802016-7246","Sigvard och Marianne Bernadottes Forskningsstiftelse för Barnögonvård","https://www.bernadottestiftelsen.se/","forskning,stiftelse",""
