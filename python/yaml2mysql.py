@@ -68,12 +68,12 @@ def updateDatabase(entries):
     #query = "TRUNCATE TABLE categories;"
     query = "TRUNCATE TABLE tempcategories;"
     cur_channel_write.execute(query)
-    print(f"Truncating temporary table 'categories' ..")
+    print(f"Truncating temporary table 'tempcategories' ..")
 
     #query = "TRUNCATE TABLE swish;"
     query = "TRUNCATE TABLE tempswish;"
     cur_channel_write.execute(query)
-    print(f"Truncating temporary table 'swish' ..")
+    print(f"Truncating temporary table 'tempswish' ..")
 
     conn.commit()
 
