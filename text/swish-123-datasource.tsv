@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-08-09-rev-103854
+# Date: 2025-08-10-rev-215746
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2072,6 +2072,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230888917	556706-5262	Tillberga Kyrka	https://www.svenskakyrkan.se/vasteras/tillberga-kyrka	religion	Kollekt
 1230888966	802426-1250	Sverige för UNHCR	https://sverigeforunhcr.se/	godkänd gåvomottagare,hjälporganisation	
 1230889709	818500-8268	Vingåkers RF	https://www.vingakersrf.se/	hästsport,ridskola,ryttarförening	
+1230889766	252002-9550	Stenkvista-Ärla Församling	https://www.svenskakyrkan.se/stenkvista-arla	religion	
 1230889956	842001-2406	Rotary Eslöv	https://eslov.rotary2390.se/	rotaryklubb	
 1230890608	559138-0760	Almena Tours AB	https://www.almena.se/	researrangör,resebyrå	
 1230891499	802435-3537	Vallentuna IBK	https://www.svenskalag.se/vallentunaibk	idrottsförening,innebandyklubb	Övrigt
@@ -3913,6 +3914,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231688365	887000-2147	Ljusdals FK - Flygsport	https://www.ljusdalsflygklubb.se/	flygklubb	Modellflyg
 1231689066	559305-7937	Henrik Jönsson Media AB	https://henrikjonsson.com/	podcast	
 1231689074	802491-7448	SPF Seniorerna Östra Kind	https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-ostra-kind/	pensionärsklubb	
+1231690510	559374-5028	Kjula Pizzeria & Grill AB	https://www.kjulapizzeria.se/	pizzeria,restaurant	
 1231692144	802504-2287	Det Perfekta Kastet	https://www.detperfektakastet.se/	fiskeklubb,flugfiske	
 1231692417	802547-5396	Power Up Ukraine	https://www.powerupukraine.se/	hjälporganisation,ukraina,välgörenhet	
 1231693027	819000-5093	Nyköpings Frisksportklubb	https://frisksport.se/nykoping/	futsalklubb,idrottsförening,volleybollklubb	

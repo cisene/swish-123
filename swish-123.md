@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-09-rev-103915
+Revision: 2025-08-10-rev-220914
 
-Nummer: 16252
+Nummer: 16254
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -40335,6 +40335,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kjula Pizzeria & Grill AB**
+
+    123 169 05 10
+
+
+
+
 **KK Eleiko**
 
     123 307 47 96
@@ -73389,6 +73396,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stenkumla Bygdegårdsförening**
 
     123 563 73 27
+
+
+
+
+**Stenkvista-Ärla Församling**
+
+    123 088 97 66
 
 
 

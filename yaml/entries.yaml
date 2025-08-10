@@ -18599,6 +18599,14 @@ entries:
   - ryttarförening
   web: https://www.vingakersrf.se/
 
+- entry: 1230889766
+  orgName: Stenkvista-Ärla Församling
+  orgNumber: 252002-9550
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/stenkvista-arla
+
 - entry: 1230889956
   orgName: Rotary Eslöv
   orgNumber: 842001-2406
@@ -35108,6 +35116,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-ostra-kind/
+
+- entry: 1231690510
+  orgName: Kjula Pizzeria & Grill AB
+  orgNumber: 559374-5028
+  comment: null
+  categories:
+  - pizzeria
+  - restaurant
+  web: https://www.kjulapizzeria.se/
 
 - entry: 1231692144
   orgName: Det Perfekta Kastet
