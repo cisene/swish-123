@@ -6,16 +6,14 @@ import re
 
 import argparse
 
-
 import yaml
 import mysql.connector
 
 
-# YAML_SOURCE_FILE = '../yaml/entries.yaml'
 YAML_SOURCE_FILE = '../yaml/swish-123-datasource.yaml'
 
 APP_NAME = 'Yaml2MySQL'
-APP_VERSION = '0.0.1#20250802'
+APP_VERSION = '0.0.2#20250813'
 
 global conn
 global cur_channel_write
@@ -44,6 +42,7 @@ def loadEntries(filepath):
   return data
 
 def updateTablesFromTemp():
+  global cur_channel_write
 
   qyuery = "TRUNCATE TABLE categories;"
   cur_channel_write.execute(query)
@@ -59,7 +58,8 @@ def updateTablesFromTemp():
 
 
 def updateDatabase(entries):
-  result = { 'all': len(entries['entries']), 'blocked': 0, 'updated': 0 }
+  #result = { 'all': len(entries['entries']), 'blocked': 0, 'updated': 0 }
+  result = { 'all': len(entries['entries']) }
   buffer = []
 
   line_count = 1
@@ -126,6 +126,9 @@ def updateDatabase(entries):
     conn.commit()
     result['updated'] += 1
     line_count += 1
+
+  line_p = round(((line_count / result['all']) * 100), 2)
+  print(f"{line_p}% @ {entry}")
 
   return result
 
