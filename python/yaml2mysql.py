@@ -44,16 +44,16 @@ def loadEntries(filepath):
 def updateTablesFromTemp():
   global cur_channel_write
 
-  query = "TRUNCATE TABLE categories;"
+  query = "TRUNCATE TABLE b19_se.categories;"
   cur_channel_write.execute(query)
 
-  query = "INSERT INTO categories\nSELECT * FROM tempcategories;"
+  query = "INSERT INTO b19_se.categories\nSELECT entry, category FROM b19_se.tempcategories ORDER BY entry ASC, category ASC;"
   cur_channel_write.execute(query)
 
-  query = "TRUNCATE TABLE swish;"
+  query = "TRUNCATE TABLE b19_se.swish;"
   cur_channel_write.execute(query)
 
-  query = "INSERT INTO swish\nSELECT * FROM tempswish;"
+  query = "INSERT INTO b19_se.swish\nSELECT entry, orgName, orgNumber, comment, web FROM b19_se.tempswish ORDER BY entry ASC;"
   cur_channel_write.execute(query)
 
 
