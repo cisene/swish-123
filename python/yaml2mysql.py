@@ -44,7 +44,7 @@ def loadEntries(filepath):
 def updateTablesFromTemp():
   global cur_channel_write
 
-  qyuery = "TRUNCATE TABLE categories;"
+  query = "TRUNCATE TABLE categories;"
   cur_channel_write.execute(query)
 
   query = "INSERT INTO categories\nSELECT * FROM tempcategories;"
