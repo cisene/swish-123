@@ -59,7 +59,7 @@ def updateTablesFromTemp():
 
 def updateDatabase(entries):
   #result = { 'all': len(entries['entries']), 'blocked': 0, 'updated': 0 }
-  result = { 'all': len(entries['entries']) }
+  result = { 'all': len(entries['entries']), 'updated': 0 }
   buffer = []
 
   line_count = 1
