@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-10-rev-220914
+Revision: 2025-08-14-rev-204513
 
-Nummer: 16254
+Nummer: 16273
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -7595,6 +7595,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Bogesholm**
+
+    123 555 10 23
+
+
+
+
 **Bostadsrättsföreningen Bovieran i Växjö**
 
     123 521 01 17
@@ -14753,6 +14760,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dövas Afrika Mission, DAM**
 
     123 148 56 14
+
+
+
+
+**Dövas Förening i Örebro Län**
+
+    123 132 68 34 - Stickcafé
 
 
 
@@ -29254,6 +29268,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hela Sverige Ska Leva**
+
+    123 527 21 17
+
+
+
+
 **Helena Lyth**
 
     123 140 26 50
@@ -32213,6 +32234,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hässleholms Församling**
 
     123 313 91 44
+
+
+
+
+**Hässleholms Hundungdom**
+
+    123 230 46 16
 
 
 
@@ -36523,6 +36551,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **IOGT-NTO**
 
+    123 369 90 71 - Gåva
+
     123 671 31 35 - Medlemsavgift
 
 
@@ -36554,6 +36584,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **IOGT-NTO-rörelsen Ideell förening**
 
     123 900 51 90
+
+
+
+
+**IOGT-NTO Syd**
+
+    123 080 47 08 - Deltagaravgift
 
 
 
@@ -54398,6 +54435,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Norrbottens Ornitologiska Förening**
+
+    123 451 78 19
+
+
+
+
 **Norrby Bygdegårdsförening**
 
     123 557 24 25
@@ -56296,6 +56340,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Olofströms Finska Förening**
+
+    123 432 53 38
+
+
+
+
 **Olofströms Ishockeyklubb**
 
     123 648 04 87
@@ -57518,6 +57569,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Patientföreningen CarpaNet**
 
     123 432 63 51
+
+
+
+
+**Patientföreningen FH Sverige**
+
+    123 029 12 03
 
 
 
@@ -62300,6 +62358,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Riksförbundet HjärtLung Halmstad**
 
+    123 562 21 96
+
     123 685 66 52
 
 
@@ -62350,6 +62410,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet HjärtLung Luleå**
 
     123 295 15 80
+
+
+
+
+**Riksförbundet HjärtLung Lund**
+
+    123 264 36 33
 
 
 
@@ -62434,6 +62501,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet HjärtLung Älmhult**
 
     123 001 43 57
+
+
+
+
+**Riksförbundet HjärtLung Ängelholm**
+
+    123 301 58 23
 
 
 
@@ -65636,6 +65710,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SAgiK Hudiksvall**
+
+    123 528 80 55
+
+
+
+
 **SAgiK Växjö**
 
     123 634 71 40
@@ -67249,6 +67330,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SIF Norrtelje**
 
     123 409 02 47
+
+
+
+
+**Sifferbo By Ideella Förening**
+
+    123 412 31 47
 
 
 
@@ -71200,13 +71288,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**SPF Seniorerna 478 Tre Byar**
-
-    123 245 34 13
-
-
-
-
 **SPF Seniorerna Aktiv Arboga**
 
     123 470 01 26
@@ -71563,6 +71644,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SPF Seniorerna Färingtofta**
+
+    123 546 31 53
+
+
+
+
 **SPF Seniorerna Gamla Bjered**
 
     123 217 73 68
@@ -71657,6 +71745,10 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SPF Seniorerna Handen**
 
     123 383 16 82
+
+    123 469 15 07 - Pub-kvällar, dart, festligheter i 41:an
+
+    123 647 11 63 - Månadsmöten
 
 
 
@@ -72480,6 +72572,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SPF Seniorerna Tranemo**
 
     123 592 33 88
+
+
+
+
+**SPF Seniorerna Tre Byar**
+
+    123 245 34 13
 
 
 
@@ -90151,6 +90250,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Viking Riksföreningen för Hjärt-Lungtransplanterade**
+
+    123 467 48 59
+
+
+
+
 **Viking Support**
 
     123 512 74 85
@@ -96751,6 +96857,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ölands Kulturminnesförening**
 
     123 189 28 19
+
+
+
+
+**Ölands Litterära förening**
+
+    123 205 41 95
 
 
 

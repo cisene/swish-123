@@ -5587,6 +5587,15 @@ entries:
   - övernattning
   web: https://karl-oskarskrypin.se/
 
+- entry: 1230291203
+  orgName: Patientföreningen FH Sverige
+  orgNumber: 802441-3497
+  comment: null
+  categories:
+  - intresseförening
+  - patientförening
+  web: https://fhsverige.se/
+
 - entry: 1230291302
   orgName: Vassunda IF
   orgNumber: 817601-5819
@@ -12599,7 +12608,7 @@ entries:
   orgNumber: 882601-2703
   comment: null
   categories:
-  - förening
+  - fågelskådning
   - ornitologi
   web: https://dalafaglar.se/
 
@@ -16423,6 +16432,14 @@ entries:
   categories:
   - religion
   web: https://folkkyrkan.se/
+
+- entry: 1230804708
+  orgName: IOGT-NTO Syd
+  orgNumber: 835600-1373
+  comment: Deltagaravgift
+  categories:
+  - nykterhetsförbund
+  web: https://syd.iogt.se/
 
 - entry: 1230804740
   orgName: Arboga SK
@@ -27872,6 +27889,16 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/hifhandboll
+
+- entry: 1231326834
+  orgName: Dövas Förening i Örebro Län
+  orgNumber: 875001-0558
+  comment: Stickcafé
+  categories:
+  - hörselnedsättning
+  - intresseförening
+  - patientförening
+  web: https://dforebro.se/
 
 - entry: 1231326842
   orgName: Bergshamra Bygdegårdsförening
@@ -42524,6 +42551,15 @@ entries:
   - utbildning
   web: http://bjorntjanst.com/
 
+- entry: 1232054195
+  orgName: Ölands Litterära förening
+  orgNumber: 802547-1064
+  comment: null
+  categories:
+  - kulturförening
+  - litterärförening
+  web: https://olitt.se/
+
 - entry: 1232055309
   orgName: HairAgain Nordic AB
   orgNumber: 559284-9854
@@ -48429,6 +48465,16 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/hyltinge
 
+- entry: 1232304616
+  orgName: Hässleholms Hundungdom
+  orgNumber: 802449-8548
+  comment: null
+  categories:
+  - hundskola
+  - hundsport
+  - hundungdom
+  web: http://hassleholmhu.se/
+
 - entry: 1232304749
   orgName: Älvkarleby-Skutskärs Församling
   orgNumber: 252004-0870
@@ -49619,6 +49665,13 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.kristinehamnsinnebandyforening.se/
+
+- entry: 1232363174
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1232363422
   orgName: Plexus Vänner
@@ -51485,7 +51538,7 @@ entries:
   web: https://www.svenskalag.se/mgoisfk
 
 - entry: 1232453413
-  orgName: SPF Seniorerna 478 Tre Byar
+  orgName: SPF Seniorerna Tre Byar
   orgNumber: 802421-7088
   comment: null
   categories:
@@ -54536,6 +54589,17 @@ entries:
   - folkhögskola
   - utbildning
   web: https://hfs.se/
+
+- entry: 1232643633
+  orgName: Riksförbundet HjärtLung Lund
+  orgNumber: 845000-9397
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/skane/lokalforeningar/lund/
 
 - entry: 1232643732
   orgName: Thielska Galleriets Vänner
@@ -62393,6 +62457,17 @@ entries:
   - biograf
   - filmklubb
   web: https://borgholm.filmstudio.se/
+
+- entry: 1233015823
+  orgName: Riksförbundet HjärtLung Ängelholm
+  orgNumber: 839401-1467
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/skane/lokalforeningar/angelholm/
 
 - entry: 1233017191
   orgName: KGoIF Veteranklubb
@@ -76426,6 +76501,14 @@ entries:
   - padelklubb
   web: https://www.tvarskogsif.se/
 
+- entry: 1233699071
+  orgName: IOGT-NTO
+  orgNumber: 802001-5569
+  comment: Gåva
+  categories:
+  - nykterhetsförbund
+  web: https://www.iogt.se/
+
 - entry: 1233699089
   orgName: Betania-Risvedens frikyrkoförsamling
   orgNumber: 864000-2526
@@ -84524,6 +84607,14 @@ entries:
   - skidskytteklubb
   web: https://www.sätraif.se/
 
+- entry: 1234123147
+  orgName: Sifferbo By Ideella Förening
+  orgNumber: 882602-1308
+  comment: null
+  categories:
+  - intresseförening
+  web: https://sifferbo.com/sifferbo-by-ideella-forening/
+
 - entry: 1234123477
   orgName: Nässjö IF
   orgNumber: 827000-2036
@@ -88602,6 +88693,15 @@ entries:
   - internettjänster
   web: https://www.sundlof.se/
 
+- entry: 1234325338
+  orgName: Olofströms Finska Förening
+  orgNumber: 836200-6846
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.facebook.com/auneolavi2
+
 - entry: 1234325445
   orgName: Kristineberg Schackklubb
   orgNumber: 802499-7481
@@ -91961,6 +92061,15 @@ entries:
   categories:
   - konstförening
   web: https://www.osterhaningekonstforening.se/
+
+- entry: 1234517819
+  orgName: Norrbottens Ornitologiska Förening
+  orgNumber: 897000-9430
+  comment: null
+  categories:
+  - fågelskådning
+  - ornitologi
+  web: https://nof.nu/
 
 - entry: 1234518379
   orgName: IFK Västerås FK
@@ -95358,6 +95467,17 @@ entries:
   - trädgårdssällskap
   web: https://www.stass.se/
 
+- entry: 1234674859
+  orgName: Viking Riksföreningen för Hjärt-Lungtransplanterade
+  orgNumber: 828000-7777
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - organtransplanterade
+  - patientförening
+  web: https://vikinghjartlung.se/
+
 - entry: 1234675047
   orgName: Indo-Swedish Rheumatology Foundation, ISRF
   orgNumber: 802478-1414
@@ -95752,6 +95872,14 @@ entries:
   - patientförening
   - prostatacancer
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/sormland/nackrosbroderna/
+
+- entry: 1234691507
+  orgName: SPF Seniorerna Handen
+  orgNumber: 812401-0979
+  comment: Pub-kvällar, dart, festligheter i 41:an
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-handen/
 
 - entry: 1234692364
   orgName: Hörselskadades Riksförbund
@@ -106699,6 +106827,14 @@ entries:
   - skidlöparklubb
   web: https://www.svenskalag.se/ifkstockaryd
 
+- entry: 1235272117
+  orgName: Hela Sverige Ska Leva
+  orgNumber: 875002-7487
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.helasverige.se/
+
 - entry: 1235272141
   orgName: Täby Ju-Jutsuklubb
   orgNumber: 802446-3914
@@ -107224,6 +107360,16 @@ entries:
   - stiftelse
   - utbildning
   web: https://www.gittansstiftelse.se/
+
+- entry: 1235288055
+  orgName: SAgiK Hudiksvall
+  orgNumber: 802490-8231
+  comment: null
+  categories:
+  - agilityklubb
+  - hundsport
+  - hundträning
+  web: https://sagikhudiksvall.wordpress.com/
 
 - entry: 1235288154
   orgName: Restaurang Vällagat
@@ -111001,6 +111147,14 @@ entries:
   - scoutkår
   web: https://www.drakarna.se/
 
+- entry: 1235463153
+  orgName: SPF Seniorerna Färingtofta
+  orgNumber: 837600-8127
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-faringtofta/
+
 - entry: 1235464516
   orgName: Stockholms Scoutskeppslag
   orgNumber: 802488-9191
@@ -112901,6 +113055,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/DropzoneDiscgolfklubb/
 
+- entry: 1235551023
+  orgName: Bostadsrättsföreningen Bogesholm
+  orgNumber: 716407-0059
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.bogesholm.se/
+
 - entry: 1235551197
   orgName: Hörselskadades Riksförbund
   orgNumber: 889201-1027
@@ -114481,6 +114643,17 @@ entries:
   - hästsport
   - ridsport
   web: https://www.ridsport.se/Distrikt/dalarnasridsportforbund/
+
+- entry: 1235622196
+  orgName: Riksförbundet HjärtLung Halmstad
+  orgNumber: 849202-3331
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/halland/lokalforeningar/halmstad/
 
 - entry: 1235622410
   orgName: Valbo FF
@@ -131750,6 +131923,14 @@ entries:
   categories:
   - podcast
   web: https://dissidentpodden.substack.com/
+
+- entry: 1236471163
+  orgName: SPF Seniorerna Handen
+  orgNumber: 812401-0979
+  comment: Månadsmöten
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-handen/
 
 - entry: 1236471429
   orgName: Skutskärs Hundgårdsförening
