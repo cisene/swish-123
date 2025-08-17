@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-14-rev-204513
+Revision: 2025-08-17-rev-152219
 
-Nummer: 16273
+Nummer: 16285
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -7519,6 +7519,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen af Grubbens**
+
+    123 150 06 36
+
+
+
+
 **Bostadsrättsföreningen Agaten**
 
     123 650 49 89
@@ -7556,6 +7563,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 370 70 15
 
     123 516 16 33
+
+
+
+
+**Bostadsrättsföreningen Barometern 39 i Malmö**
+
+    123 374 69 06
 
 
 
@@ -7672,7 +7686,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bostadsrättsföreningen Drejaren i Västerås**
+**Bostadsrättsföreningen Drejaren i Göteborg**
 
     123 382 33 58
 
@@ -7724,6 +7738,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Essingeviken**
 
     123 512 68 59
+
+
+
+
+**Bostadsrättsföreningen Falunhus nr 13**
+
+    123 211 70 83
 
 
 
@@ -7912,6 +7933,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Hammarby Kaj**
+
+    123 054 76 46
+
+
+
+
+**Bostadsrättsföreningen Hamnkranen**
+
+    123 655 47 86
+
+
+
+
 **Bostadsrättsföreningen Hamnkranen i Stockholm**
 
     123 021 28 03
@@ -7957,6 +7992,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Hilleröd i Malmö**
 
     123 605 35 73
+
+
+
+
+**Bostadsrättsföreningen Hjälmaren-Sköntorp**
+
+    123 529 43 01
 
 
 
@@ -8013,6 +8055,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Höga i Bollebygd**
 
     123 440 20 87
+
+
+
+
+**Bostadsrättsföreningen Höjdpunkten i Umeå**
+
+    123 292 06 50
 
 
 
@@ -8121,7 +8170,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bostadsrättsföreningen Krusbäret**
+**Bostadsrättsföreningen Krusbäret i Lund**
 
     123 428 40 71
 
@@ -8231,6 +8280,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Linåkern i Nora**
 
     123 282 41 67
+
+
+
+
+**Bostadsrättsföreningen Ljungelden i Lund**
+
+    123 192 75 24
 
 
 
@@ -8648,9 +8704,30 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Sofieberg i Stockholm**
+
+    123 550 23 56
+
+
+
+
 **Bostadsrättsföreningen Soldaten i Västerås**
 
     123 618 91 95
+
+
+
+
+**Bostadsrättsföreningen Solgläntan 1**
+
+    123 149 73 95
+
+
+
+
+**Bostadsrättsföreningen Solängen 1 i Malmö**
+
+    123 699 65 24
 
 
 
@@ -8819,6 +8896,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Torpet**
 
     123 057 45 82
+
+
+
+
+**Bostadsrättsföreningen Tribunen 1 & 2**
+
+    123 475 36 61
 
 
 
