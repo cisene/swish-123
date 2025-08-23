@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-19-rev-212359
+Revision: 2025-08-23-rev-114439
 
-Nummer: 16312
+Nummer: 16329
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -18030,6 +18030,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Eurosuando ekonomisk förening**
+
+    123 313 26 44
+
+
+
+
 **Evangelisk Luthersk Mission Falketorp**
 
     123 594 77 75
@@ -20523,6 +20530,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Framnäs Hamnförening**
 
     123 545 80 13
+
+
+
+
+**Framtid Bredared**
+
+    123 234 25 74
 
 
 
@@ -27983,6 +27997,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hallands Botaniska Förening**
+
+    123 050 54 46
+
+
+
+
 **Hallands Fotbollförbund**
 
     123 553 70 22
@@ -30875,6 +30896,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **HOPE587 - Today for Tomorrow**
 
     123 551 20 66
+
+
+
+
+**Hope for Roman**
+
+    123 235 97 35
 
 
 
@@ -41968,6 +41996,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kosta Lodge**
 
     123 149 85 18
+
+
+
+
+**Kosters Sportklubb**
+
+    123 266 82 83
 
 
 
@@ -61106,6 +61141,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Prostatacancerföreningen Dalarna**
+
+    123 614 62 45
+
+
+
+
 **Prostatacancerföreningen i Kalmar Län**
 
     123 615 57 17
@@ -67399,6 +67441,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Setins kulturella och samhälleliga förening**
+
+    123 668 76 77
+
+
+
+
 **Settings - Normkreativa möjligheter**
 
     123 688 37 63
@@ -69532,6 +69581,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skunderns Miljö- och Fiskeförening, SMOFF**
+
+    123 463 66 43
+
+
+
+
 **Skurup Padelklubb**
 
     123 650 77 92
@@ -71337,6 +71393,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sotenäs Hundklubb**
 
     123 199 41 51
+
+
+
+
+**Sotenäs Personhistoriska Förening**
+
+    123 426 95 85
 
 
 
@@ -77566,6 +77629,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svensk Teaterteknisk Förening**
+
+    123 420 62 56
+
+
+
+
 **Svensk Webbtelevision AB**
 
     123 535 86 92 - Swebbtv
@@ -78223,6 +78293,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Hästars Värn**
 
     123 900 44 17
+
+
+
+
+**Svenska Idrottshistoriska Föreningen**
+
+    123 505 70 05
 
 
 
@@ -79992,6 +80069,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sveriges Dövas Ungdomsförbund, SDUF**
 
     123 218 14 77
+
+
+
+
+**Sveriges Egyptologiska Förening, ISIS**
+
+    123 574 55 75
 
 
 
@@ -87340,6 +87424,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tänk på Tumlarna**
+
+    123 579 62 71
+
+
+
+
 **Tärna Bygdegårdsförening**
 
     123 670 37 14
@@ -87747,6 +87838,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ullstorps Stugor AB**
 
     123 294 06 17
+
+
+
+
+**Ullvilja Ideell Förening**
+
+    123 674 14 66
 
 
 
@@ -89588,6 +89686,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Varbergs Idrottshistoriska Förening**
+
+    123 276 65 41
+
+
+
+
 **Varbergs Konståkningsklubb**
 
     123 146 49 81
@@ -90929,6 +91034,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 197 94 34
 
     123 309 90 33
+
+
+
+
+**Vinsta Grundskolas Föräldraförening, VGFF**
+
+    123 033 78 81
 
 
 
@@ -93712,7 +93824,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Växjö RK - Ridsport**
+**Växjö Ridklubb**
 
     123 452 27 36
 
@@ -98244,6 +98356,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 590 06 91
 
     123 680 82 99 - Barn- och Ungdomsverksamheten
+
+
+
+
+**Österlen Berättar**
+
+    123 115 77 34
 
 
 
