@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-08-23-rev-114412
+# Date: 2025-08-26-rev-000947
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1076,6 +1076,7 @@
 "1230458349","802541-5798","Simklubben Nereus","https://www.sknereus.se/","idrottsförening,simklubb,simsällskap",""
 "1230459222","886000-0200","Holmsvedens AIK","https://www.holmsveden.nu/holmsvedens-aik/","fotbollsklubb,idrottsförening",""
 "1230459610","817601-3293","Föreningen Verkstan RSMH Valegården","https://www.verkstanrsmh.com/","intresseförening",""
+"1230459859","802543-0045","Samarbete för Ukraina","https://www.facebook.com/groups/samarbeteforukraina/","hjälporganisation,ukraina",""
 "1230460121","833200-6207","Svenska Naturskyddsföreningen","https://emadalen.naturskyddsforeningen.se/","intresseförening,naturskydd","Emådalen"
 "1230460634","825003-8448","Ljusfallshammars Byaråd","https://ljusfallshammar.nu/","byalag,förening",""
 "1230461137","802514-2319","PRO Borås Västra","https://pro.se/distrikt/sodra-alvsborg/kommun/boras/pro-boras-vastra","pensionärsklubb",""
@@ -1594,6 +1595,7 @@
 "1230708008","252003-6399","Orust Pastorat","https://www.svenskakyrkan.se/orust","religion","Kyrkkaffe och gemenskapsluncher Morlanda"
 "1230708032","252003-6399","Orust Pastorat","https://www.svenskakyrkan.se/orust","religion","Bokbord Röra församling"
 "1230708610","252003-6399","Orust Pastorat","https://www.svenskakyrkan.se/orust","religion","Insamling Långelanda församling"
+"1230709790","802542-4758","GR Racing & Sporting Club","https://gotlandring.com/","bilsport,motorsport",""
 "1230711150","819001-3154","Onyx Innebandy","https://www.svenskalag.se/onyxinnebandy","idrottsförening,innebandyklubb","P 12"
 "1230711176","802521-2062","Föreningen 021 Grappling","https://021grappling.se/","idrottsförening,kampsportsförening",""
 "1230711184","838201-9910","Provitae Östra Skånes Prostataförening","https://prostatacancerforbundet.se/om-oss/patientforeningar/skane/provitae/","cancer,patientförening,prostatacancer",""
@@ -2202,6 +2204,7 @@
 "1230926782","802415-5833","Österlövsta FF","https://www.svenskalag.se/osterlovsta_ff","fotbollsklubb,idrottsförening",""
 "1230926840","556940-5250","Din Värmepump Service i Skåne AB","https://www.dinvp.se/","försäljning,serviceverkstad",""
 "1230926865","252004-3502","Östra Ryds Församling","https://www.svenskakyrkan.se/ostraryd","religion","Diakoni"
+"1230926873","252002-8115","Caritas i Örebro","https://www.sankteskil.com/caritas","religion",""
 "1230927020","825002-7391","Gusums Hembygdsförening","https://www.hembygd.se/gusums-hembygdsforening","hembygdsförening",""
 "1230927400","870719-XXXX","Mandorla Spa / Danijel Bajric","https://www.mandorla.se/","massage,spa",""
 "1230927442","802447-0869","Anna Rydstedt-sällskapet","https://annarydstedt.se/","intresseförening",""
@@ -5271,6 +5274,7 @@
 "1232259463","889600-6932","Mellansels IF","https://mellansel.se/","gym,idrottsförening,motionsklubb","Mellansels Gym"
 "1232259612","817301-4526","Öregrunds Bygdegårdsförening Societetshuset","https://societetshusetoregrund.se/","bygdegårdsförening",""
 "1232260412","864000-0793","Gerdsken BK","https://www.svenskalag.se/gerdskensbk","fotbollsklubb,idrottsförening",""
+"1232261030","887500-0310","Bjuråkers Hembygdsförening","https://www.hembygd.se/bjuraker","hembygdsförening",""
 "1232261121","556131-6026","MC-Kompaniet i Väring AB","https://mc-kompaniet.se/","motorcykel,motorsport",""
 "1232261253","802505-2146","Sigtuna Sportsclub","https://www.sigtunasportsclub.se/","cykelklubb,idrottsförening,löparklubb,mountainbikeklubb,simklubb,triathlonklubb",""
 "1232261261","252003-8114","Finska församlingen i Stockholm, Tukholman suomalainen seurakunta","https://www.svenskakyrkan.se/finskaforsamlingen","religion",""
@@ -7325,6 +7329,7 @@
 "1233174802","802462-9241","Sundbybergs & Spångaortens Biodlareförening","https://ssb.biodlarna.se/","biodlareförening,biodling,naturbruk",""
 "1233175783","843000-1837","Nordisk Salong / Helsingborgs Konstförening","https://nordisksalong.se/","event,galleri",""
 "1233175932","769615-7747","Bostadsrättsföreningen Rektangeln 22","https://rektangeln22.se/","bostadsrättsförening",""
+"1233176096","802535-7610","Martins Minnesfond","https://www.martinsminnesfond.org/","cancerforskning,minnesfond",""
 "1233176484","802505-8408","Piteå IF Fotbollsförening","https://piteaif.sportadmin.se/","fotbollsklubb,idrottsförening","F14"
 "1233177151","814400-5454","Norrtälje IK","https://www.svenskalag.se/nik","idrottsförening,ishockeyklubb","Team 15"
 "1233178076","802440-9552","Club Corvette Sweden","https://clubcorvette.se/syd/","bilklubb,bilsport","Distrikt Syd"
@@ -11522,6 +11527,7 @@
 "1235124003","844000-2361","Asmundtorps IF","https://www.laget.se/Asmundtorp/","bouleklubb,dartklubb,fotbollsklubb,idrottsförening",""
 "1235124037","802505-3573","Färnebo Eagles BBK","https://www.svenskalag.se/farneboeaglesbbk","basketbollklubb,idrottsförening",""
 "1235124144","802504-7617","Nog Nu - Nu får det vara nog!","https://nognu.org/","kvinnojour",""
+"1235124367","864501-6851","Sjuhäradsbygdens Hundkapplöpningssällskap","https://hundkapp.se/","hundkapplöpningssällskap,hundsport",""
 "1235125208","843001-4087","Arilds Byalag","https://arild.se/","byalag",""
 "1235125364","829500-5634","Orrefors IF","https://www.svenskalag.se/orreforsif","cykelklubb,fotbollsklubb,gymnastikförening,idrottsförening,mountainbikeklubb",""
 "1235125638","875001-0996","Adolfsbergs IK","https://www.laget.se/AdolfsbergsIK/","fotbollsklubb,idrottsförening","P2012"
@@ -12574,6 +12580,7 @@
 "1235547468","872000-4624","Föreningen Bruksgården","https://glavaglasbruk.org/","intresseförening",""
 "1235547757","837600-1510","Skånes Fagerhults IF","https://www.svenskalag.se/skanesfagerhultsif","fotbollsklubb,idrottsförening",""
 "1235549027","802436-6349","Kattkommando Syd","https://kks.nu/","djurskydd,katthem",""
+"1235549084","802489-0520","Dog Rescue Thailand","https://dogrescuethailand.com/","djurskydd",""
 "1235549233","864000-0223","Equmeniakyrkan Alingsås","https://eqal.se/","religion",""
 "1235550991","802537-5406","Dropzone Discgolfklubb","https://www.laget.se/DropzoneDiscgolfklubb/","discgolfklubb,idrottsförening",""
 "1235551023","716407-0059","Bostadsrättsföreningen Bogesholm","https://www.bogesholm.se/","bostadsrättsförening",""
@@ -14207,6 +14214,7 @@
 "1236261382","879500-4376","PRO Tärnsjö","https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-heby/foreningar/tarnsjo.html","pensionärsklubb",""
 "1236261697","838800-2068","Spjutstorps IF","https://www.svenskalag.se/spjutstorpsif","fotbollsklubb,idrottsförening",""
 "1236261804","252002-7828","Lyckå Församling","https://www.svenskakyrkan.se/lycka-forsamling","religion","Fair-Trade-varor"
+"1236261853","556756-6228","Keps-Kungen AB","https://keps-kungen.se/","försäljning",""
 "1236261887","802499-9982","Rotary Vännäs","https://portal.clubrunner.ca/16274/","rotaryklubb",""
 "1236261986","802001-6658","Svenska Jägareförbundet","https://jagareforbundet.se/","riksförbund",""
 "1236262018","802444-4187","Gällivare-Malmbergets Konstklubb","https://gällivaremalmbergetskonstklubb.se/","konstförening",""

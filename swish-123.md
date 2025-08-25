@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-23-rev-114439
+Revision: 2025-08-26-rev-001015
 
-Nummer: 16329
+Nummer: 16337
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -5464,6 +5464,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Bjuråkers Hembygdsförening**
+
+    123 226 10 30
 
     123 562 86 80
 
@@ -11437,6 +11439,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Caritas i Örebro**
+
+    123 092 68 73
+
+
+
+
 **Caritas Linköping**
 
     123 365 16 50
@@ -14413,6 +14422,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 528 31 22 - Medlemsavgift 888400-7287
 
     123 621 27 57 - 888400-7287
+
+
+
+
+**Dog Rescue Thailand**
+
+    123 554 90 84
 
 
 
@@ -25791,6 +25807,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gottsunda Församling**
 
     123 081 07 54 - Kollekt Sunnersta Kyrka
+
+
+
+
+**GR Racing & Sporting Club**
+
+    123 070 97 90
 
 
 
@@ -39869,6 +39892,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Keps-Kungen AB**
+
+    123 626 18 53
+
+
+
+
 **Keren Kajemet Sverige, KKL Israelfonden**
 
     123 683 76 78
@@ -50295,6 +50325,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Martin Koch-sällskapet**
 
     123 471 23 03
+
+
+
+
+**Martins Minnesfond**
+
+    123 317 60 96
 
 
 
@@ -66301,6 +66338,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Samarbete för Ukraina**
+
+    123 045 98 59
+
+
+
+
 **Samarbetsrådet för Judar och Kristna**
 
     123 444 98 72
@@ -68064,6 +68108,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sjuhärads Basketbollförening**
 
     123 334 04 03
+
+
+
+
+**Sjuhäradsbygdens Hundkapplöpningssällskap**
+
+    123 512 43 67
 
 
 
