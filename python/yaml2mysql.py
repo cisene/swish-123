@@ -47,13 +47,13 @@ def updateTablesFromTemp():
   query = "TRUNCATE TABLE b19_se.categories;"
   cur_channel_write.execute(query)
 
-  query = "INSERT INTO b19_se.categories\r\nSELECT entry, category FROM b19_se.tempcategories ORDER BY entry ASC, category ASC;"
+  query = "INSERT INTO b19_se.categories (entry, category)\r\nSELECT entry, category FROM b19_se.tempcategories ORDER BY entry ASC, category ASC;"
   cur_channel_write.execute(query)
 
   query = "TRUNCATE TABLE b19_se.swish;"
   cur_channel_write.execute(query)
 
-  query = "INSERT INTO b19_se.swish\r\nSELECT entry, orgName, orgNumber, comment, web FROM b19_se.tempswish ORDER BY entry ASC;"
+  query = "INSERT INTO b19_se.swish (entry, orgName, orgNumber, comment, web)\r\nSELECT entry, orgName, orgNumber, comment, web FROM b19_se.tempswish ORDER BY entry ASC;"
   cur_channel_write.execute(query)
 
 
