@@ -71745,6 +71745,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-karnan-helsingborg/
 
+- entry: 1233497278
+  orgName: Dalarnas Ornitologiska Förening
+  orgNumber: 882601-2703
+  comment: null
+  categories:
+  - fågelskådning
+  - ornitologi
+  web: https://dalafaglar.se/
+
 - entry: 1233498391
   orgName: Qred Bank AB
   orgNumber: 559008-9800
@@ -78299,6 +78308,17 @@ entries:
   - intresseförening
   - vävkonst
   web: https://www.riksvav.se/
+
+- entry: 1233830452
+  orgName: Jämlikt.nu
+  orgNumber: 802431-0511
+  comment: null
+  categories:
+  - barnverksamhet
+  - intresseförening
+  - stödverksamhet
+  - ungdomsverksamhet
+  web: https://www.jamlikt.nu/
 
 - entry: 1233831161
   orgName: Falsterbonäsets Pistolskytteklubb
@@ -106560,6 +106580,15 @@ entries:
   - idrottsförening
   web: https://www.gkhermes.se/
 
+- entry: 1235289251
+  orgName: Dalarnas Kvinnohistoriska Förening
+  orgNumber: 802416-2466
+  comment: null
+  categories:
+  - historieförening
+  - intresseförening
+  web: https://www.dalarnas-kvinnohistoriska.se/
+
 - entry: 1235289335
   orgName: AFC Eskilstuna
   orgNumber: 802438-8731
@@ -125437,6 +125466,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/OSKUFOTBOLLF12/
 
+- entry: 1236189526
+  orgName: Enebybergs Gårds Förening
+  orgNumber: 816000-5784
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.enebyberg.com/
+
 - entry: 1236189948
   orgName: Konstklubben NÄL
   orgNumber: 863000-8756
@@ -130759,6 +130797,16 @@ entries:
   categories:
   - kvinnojour
   web: https://www.lexfemme.com/
+
+- entry: 1236469423
+  orgName: Vallentuna Styrketräningsförening, VSTF
+  orgNumber: 816000-4134
+  comment: null
+  categories:
+  - atletklubb
+  - idrottsförening
+  - styrketräning
+  web: https://www.vstf.se/
 
 - entry: 1236470124
   orgName: Sankt Matteus Församling

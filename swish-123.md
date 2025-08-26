@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-26-rev-001015
+Revision: 2025-08-26-rev-180014
 
-Nummer: 16337
+Nummer: 16342
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -12744,6 +12744,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dalarnas Kvinnohistoriska Förening**
+
+    123 528 92 51
+
+
+
+
 **Dalarnas Militära och Polisiära skytteförening**
 
     123 462 21 97
@@ -12754,6 +12761,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dalarnas Ornitologiska Förening**
 
     123 062 43 20
+
+    123 349 72 78
 
 
 
@@ -16294,6 +16303,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Eneby BK**
 
     123 545 08 46
+
+
+
+
+**Enebybergs Gårds Förening**
+
+    123 618 95 26
 
 
 
@@ -37765,6 +37781,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Jämjö SPK**
 
     123 560 07 54
+
+
+
+
+**Jämlikt.nu**
+
+    123 383 04 52
 
 
 
@@ -89503,6 +89526,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 412 93 34
 
     123 687 96 62
+
+
+
+
+**Vallentuna Styrketräningsförening, VSTF**
+
+    123 646 94 23
 
 
 
