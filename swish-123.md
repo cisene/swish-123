@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-26-rev-180014
+Revision: 2025-08-26-rev-212305
 
-Nummer: 16342
+Nummer: 16393
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -5785,6 +5785,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Björna Sockens Hembygdsförening**
 
     123 554 62 88
+
+
+
+
+**Björnbergets Alpina Klubb**
+
+    123 421 34 92
 
 
 
@@ -13384,6 +13391,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Demensföreningen i Halmstad**
 
     123 423 17 26
+
+
+
+
+**Demensföreningen i Kalmar**
+
+    123 076 27 99
 
 
 
@@ -23193,6 +23207,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen Hälsobro**
 
     123 561 87 72
+
+
+
+
+**Föreningen Högaberget**
+
+    123 424 19 15
 
 
 
@@ -33424,6 +33445,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 ## I
 
+**I 21 Idrottförening**
+
+    123 275 16 34
+
+
+
+
 **I 2 Skytteförening**
 
     123 617 36 37
@@ -43499,6 +43527,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kvinnliga Läkares Förening**
+
+    123 262 64 97
+
+
+
+
 **Kvinno- och tjejjouren Borås**
 
     123 023 03 00
@@ -51946,6 +51981,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Motorcykelhistoriska Klubben, MCHK**
+
+    123 321 80 88
+
+
+
+
 **Motorcykelhistoriska Klubben Södermanland**
 
     123 512 10 33
@@ -53786,6 +53828,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nils Bastu Spa AB**
 
     123 296 54 16
+
+
+
+
+**Nilsby IK Innebandy**
+
+    123 516 13 77
 
 
 
@@ -55870,6 +55919,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Näckrosbröderna**
 
     123 469 12 00
+
+
+
+
+**Näldens Idrottsförening**
+
+    123 196 36 44
 
 
 
@@ -62312,7 +62368,37 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Reumatikerdistriktet Halland**
+
+    123 543 11 43
+
+
+
+
+**Reumatikerdistriktet Kalmar Län**
+
+    123 057 14 55
+
+
+
+
+**Reumatikerdistriktet Skaraborg**
+
+    123 026 21 05
+
+
+
+
+**Reumatikerdistriktet Värmland**
+
+    123 177 94 95
+
+
+
+
 **Reumatikerförbundet**
+
+    123 137 01 05
 
     123 900 31 95
 
@@ -62326,9 +62412,177 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Reumatikerföreningen I Jönköping**
+**Reumatikerföreningen Alingsås**
+
+    123 448 17 50
+
+
+
+
+**Reumatikerföreningen Arvika**
+
+    123 647 25 59
+
+
+
+
+**Reumatikerföreningen Borås**
+
+    123 080 93 50
+
+
+
+
+**Reumatikerföreningen Eksjö-Nässjö**
+
+    123 295 03 76
+
+
+
+
+**Reumatikerföreningen Falkenberg**
+
+    123 613 55 03
+
+
+
+
+**Reumatikerföreningen Falköping**
+
+    123 282 86 89
+
+
+
+
+**Reumatikerföreningen Gävle**
+
+    123 638 94 31
+
+
+
+
+**Reumatikerföreningen Hagfors-Ekshärad**
+
+    123 433 06 27
+
+
+
+
+**Reumatikerföreningen Helsingborg**
+
+    123 692 97 80
+
+
+
+
+**Reumatikerföreningen Hultsfred-Vimmerby**
+
+    123 088 88 83
+
+
+
+
+**Reumatikerföreningen Hylte**
+
+    123 585 90 04
+
+
+
+
+**Reumatikerföreningen Jönköping**
 
     123 027 51 80
+
+
+
+
+**Reumatikerföreningen Kalmar**
+
+    123 084 32 19
+
+
+
+
+**Reumatikerföreningen Karlstad**
+
+    123 524 47 44
+
+
+
+
+**Reumatikerföreningen Katrineholm**
+
+    123 381 66 34
+
+
+
+
+**Reumatikerföreningen Kristinehamn-Storfors**
+
+    123 287 30 16
+
+
+
+
+**Reumatikerföreningen Kungsbacka**
+
+    123 525 58 64
+
+
+
+
+**Reumatikerföreningen Kungälv**
+
+    123 055 67 87
+
+
+
+
+**Reumatikerföreningen Lidköping**
+
+    123 350 89 75
+
+
+
+
+**Reumatikerföreningen Linköping**
+
+    123 519 91 12
+
+
+
+
+**Reumatikerföreningen Ljusdal**
+
+    123 147 54 25
+
+
+
+
+**Reumatikerföreningen Luleå**
+
+    123 605 44 23
+
+
+
+
+**Reumatikerföreningen Lundabygden**
+
+    123 536 04 33
+
+
+
+
+**Reumatikerföreningen Malmö**
+
+    123 556 25 82
+
+
+
+
+**Reumatikerföreningen Mark**
+
+    123 582 05 76
 
 
 
@@ -62347,6 +62601,41 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Reumatikerföreningen Nybro-Emmaboda**
+
+    123 291 28 71
+
+
+
+
+**Reumatikerföreningen Oskarshamn**
+
+    123 251 02 53
+
+
+
+
+**Reumatikerföreningen Piteå**
+
+    123 263 85 34
+
+
+
+
+**Reumatikerföreningen Skillingaryd-Vaggeryd**
+
+    123 021 79 76
+
+
+
+
+**Reumatikerföreningen Sollentuna-Upplands Väsby-Sigtuna**
+
+    123 113 08 55
+
+
+
+
 **Reumatikerföreningen Stockholm**
 
     123 240 66 43
@@ -62354,9 +62643,44 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Reumatikerföreningen Strängnäs**
+
+    123 031 34 03
+
+
+
+
 **Reumatikerföreningen Sundsvall**
 
     123 193 87 78
+
+
+
+
+**Reumatikerföreningen Trollhättan**
+
+    123 036 26 99
+
+
+
+
+**Reumatikerföreningen Varberg**
+
+    123 205 71 49
+
+
+
+
+**Reumatikerföreningen Älmhult**
+
+    123 079 53 69
+
+
+
+
+**Reumatikerföreningen Öland**
+
+    123 208 01 17
 
 
 
@@ -73226,6 +73550,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SPF Seniorerna Östjämtland**
+
+    123 110 73 41
+
+
+
+
 **SPF Seniorerna Östra Kind**
 
     123 168 90 74
@@ -75498,6 +75829,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stockholms Ornitologiska Förening, StOF**
 
     123 457 82 58
+
+
+
+
+**Stockholms Polisens IF Judo**
+
+    123 502 09 61
 
 
 
@@ -80382,6 +80720,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svillinge IF**
 
     123 173 18 27
+
+
+
+
+**Svinninge Marina Klubb**
+
+    123 048 97 24
 
 
 
@@ -86852,7 +87197,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Tullus SG - Skidskytte**
+**Tullus Skyttegille**
 
     123 596 88 54
 
@@ -96106,7 +96451,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Ågården**
+**Ågården Ekonomisk Förening**
 
     123 268 10 13
 
@@ -96900,6 +97245,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Åsätra MK**
 
     123 541 23 09
+
+
+
+
+**Återbruket Klippen**
+
+    123 361 98 30
 
 
 
