@@ -45,18 +45,29 @@ def updateTablesFromTemp():
   global cur_channel_write
 
   query = "TRUNCATE TABLE b19_se.categories;"
+  print(f"Query: '{query}'")
   cur_channel_write.execute(query)
 
-  query = """INSERT INTO b19_se.categories (entry, category)
-  SELECT entry, category FROM b19_se.tempcategories ORDER BY entry ASC, category ASC;"""
-
+  query = """
+  INSERT INTO b19_se.categories (entry, category)
+  SELECT entry, category
+  FROM b19_se.tempcategories
+  ORDER BY entry ASC, category ASC;
+  """
   cur_channel_write.execute(query)
+  print(f"Query: '{query}'")
 
   query = "TRUNCATE TABLE b19_se.swish;"
+  print(f"Query: '{query}'")
   cur_channel_write.execute(query)
 
-  query = """INSERT INTO b19_se.swish (entry, orgName, orgNumber, comment, web)
-  SELECT entry, orgName, orgNumber, comment, web FROM b19_se.tempswish ORDER BY entry ASC;"""
+  query = """
+  INSERT INTO b19_se.swish (entry, orgName, orgNumber, comment, web)
+  SELECT entry, orgName, orgNumber, comment, web
+  FROM b19_se.tempswish
+  ORDER BY entry ASC;
+  """
+  print(f"Query: '{query}'")
   cur_channel_write.execute(query)
 
 
@@ -218,6 +229,7 @@ def main():
 
   updateTablesFromTemp()
 
+  print("Done\n")
 
 if __name__ == '__main__':
   main()
