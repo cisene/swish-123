@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-08-26-rev-212237
+# Date: 2025-08-28-rev-193351
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1811,6 +1811,7 @@
 "1230794891","252002-9576","Knista Församling","https://www.svenskakyrkan.se/knista","religion","ljus, gravljus, böcker, änglar, fika e.dyl"
 "1230795021","886500-3449","Bollnäs CK","https://bollnäsrundan.se/","cykelklubb,idrottsförening","Bollnäsrundan"
 "1230795039","802496-4143","Tillberga IK Bandy","https://www.laget.se/TBLEDARE/","bandyklubb,idrottsförening","Seniorverksamheten"
+"1230795195","556506-6783","Torebrings Grossist AB","https://www.torebrings.se/","försäljning,grossistfirma",""
 "1230795252","895400-0017","Ammarnäs Idrottsförening","https://www.kungsledenrannet.se/ammarnas-if/","idrottsförening",""
 "1230795369","829001-1397","Reumatikerföreningen Älmhult","https://almhult.reumatiker.se/","patientförening,reumatikerförening",""
 "1230795435","875001-8718","Svenska Turistföreningen","https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-narke-bergslagen/","turistförening","Närke Bergslagen Lokalavdelning"
@@ -6266,6 +6267,7 @@
 "1232695989","869000-0495","Pingstkyrkan Lidköping","https://www.pingstlidkoping.se/","donation","Missionskassan"
 "1232696367","969700-6972","Hundprylar.com / Hunderiet Östra Aros HB","https://www.hundprylar.com/","hundleksaker,hundträning,hundutrustning",""
 "1232696599","802429-4780","World Flaming Gospel Ministries International","https://wfgministries.org/","religion",""
+"1232696607","882601-3560","Svenska Laikaklubben","https://svenskalaikaklubben.myclub.se/","hundklubb,hundsport",""
 "1232696698","252003-0095","Märsta Pastorat","https://www.svenskakyrkan.se/marsta","religion","Övrigt Skepptuna församling"
 "1232696953","892000-9787","Östersund-Frösö Ridklubb","https://www.ofrk.se/","ridklubb,ridskola",""
 "1232697035","883800-9309","Smedjebackens Ridsport","https://smedjebackensryttarsallskap.klubbenonline.se/","ridsport,ryttarförening,ryttarsällskap",""
@@ -8613,6 +8615,7 @@
 "1233717675","857206-5558","Armeniska Kulturföreningen i Göteborgs Kommun","https://www.facebook.com/groups/597282013795076/","hemlandsförening",""
 "1233717683","802499-2987","Bellevue Farm / Norrmalmsodlarna","https://www.bellevuefarm.se/","ekologisk odling,trädgårdsodling",""
 "1233717865","802506-0925","Munskänkarna","https://www.munskankarna.se/sv/regioner/vastkusten/stromstad/","vinprovning","Strömstad"
+"1233718111","802400-9279","Institutet för Biomedicinsk Laboratorievetenskap, IBL","https://ibl-inst.se/","institut,yrkesförening",""
 "1233718228","846001-3447","BK Olympic","https://www.bkolympic.se/","fotbollsklubb,idrottsförening",""
 "1233718442","252004-2736","Alvesta Församling","https://www.svenskakyrkan.se/alvesta","religion","Lekaryds Kyrka"
 "1233718533","802434-6432","Munskänkarna","https://www.munskankarna.se/sv/regioner/vastkusten/steneby/","vinprovning","Steneby"
@@ -8661,6 +8664,7 @@
 "1233744018","898500-8666","Gunnarsbyns byaförening","","byalag,bygdegårdsförening",""
 "1233744059","822001-7696","BK Ljungsbro","https://www.svenskalag.se/bkljungsbro","fotbollsklubb,idrottsförening","F15"
 "1233745551","815600-8537","Svenska Hundklubben","https://svenskahundklubben.se/sodertalje/","hundklubb,hundsport","Södertälje"
+"1233746054","691119-XXXX","Studio Coach CamOn / Camilla Karlsson","https://www.coachcamon.nu/","gym,träningsstudio",""
 "1233746237","887000-5397","SPF Seniorerna Järvsö","https://www.spfseniorerna.se/distrikt/halsingedistriktet/foreningslista/spf-seniorerna-jarvso/","pensionärsklubb",""
 "1233746476","802468-4428","Rännans Vänner","https://www.svenskalag.se/rannansvanner","bowlingklubb,idrottsförening",""
 "1233746591","839400-7838","Norra Skånes Fjordhästförening","https://nsff.se/","hästsport,ridklubb",""
@@ -14363,6 +14367,7 @@
 "1236297543","802493-5366","Delsbo Byaråd","https://www.delsbo.org/","byalag,byaråd",""
 "1236297766","818501-0447","SMC Södermanland","https://www.svmc.se/distrikt/sodermanland/","motorcykelklubb",""
 "1236297816","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Malmö, Ribersborgsskolan"
+"1236297923","849000-8334","Ekomuseum Nedre Ätradalen","https://ekomuseum.com/","museum,naturvård",""
 "1236298079","862500-9876","Råggärds Hembygdsförening","https://www.hembygd.se/raggard","hembygdsförening",""
 "1236298095","802440-4512","Latinamerika i Centrum, LatiCe","https://latice.org/","hjälporganisation",""
 "1236298319","897001-9090","Bredåkers Skoter- & Touring Förening, BSTF","https://www.bredaker-skoter.se/","skoterklubb,touringklubb",""
@@ -15326,6 +15331,7 @@
 "1236731624","834001-4490","Kvinnojouren Amanda","https://www.unizonjourer.se/kvinnojourenamanda/","kvinnojour",""
 "1236732903","969793-6855","SR Modell","https://www.srmodell.se/","modelljärnväg,skalmodeller",""
 "1236733448","802533-3157","Swexitpartiet","https://www.ulfstrom.se/swexitpartiet.html","politiskt parti",""
+"1236733729","556390-4944","Visit Karlsborg AB","https://www.vastsverige.com/karlsborg/","lokalturism,turism",""
 "1236734693","802002-9180","Sannadals Sportklubb","https://sannadal.com/","handbollsklubb,idrottsförening",""
 "1236734735","802532-8033","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Värmland, Lysviks Skola"
 "1236734768","817001-4198","Enköpings SK UK","https://www.laget.se/ESKFotboll/","fotbollsklubb,idrottsförening","Dam J"

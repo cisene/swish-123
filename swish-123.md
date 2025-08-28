@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-26-rev-212305
+Revision: 2025-08-28-rev-193420
 
-Nummer: 16393
+Nummer: 16399
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -15793,6 +15793,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ekomuseum Bergslagen**
 
     123 023 44 19
+
+
+
+
+**Ekomuseum Nedre Ätradalen**
+
+    123 629 79 23
 
 
 
@@ -36637,6 +36644,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Insjöns IF OK**
 
     123 343 15 90
+
+
+
+
+**Institutet för Biomedicinsk Laboratorievetenskap, IBL**
+
+    123 371 81 11
 
 
 
@@ -76777,6 +76791,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Studio Coach CamOn / Camilla Karlsson**
+
+    123 374 60 54
+
+
+
+
 **Studio Fagerstedt - Tettes keramik**
 
     123 399 03 71
@@ -78977,6 +78998,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Svenska Laikaklubben**
+
+    123 269 66 07
 
     123 637 15 53
 
@@ -86001,6 +86024,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Torebrings Grossist AB**
+
+    123 079 51 95
+
+
+
+
 **Torekov Kallbadhus**
 
     123 116 26 68
@@ -91676,6 +91706,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Visit Blekinge**
 
     123 188 12 18
+
+
+
+
+**Visit Karlsborg AB**
+
+    123 673 37 29
 
 
 
