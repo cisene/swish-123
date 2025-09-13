@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-13-rev-174716
+Revision: 2025-09-13-rev-200002
 
-Nummer: 16407
+Nummer: 16434
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -14642,6 +14642,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dressyrtränare Pia Björk**
+
+    123 613 35 81
+
+
+
+
 **Drevinge Ryttarsällskap**
 
     123 255 58 03
@@ -27596,6 +27603,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Götaströms Fordonshistoriska Klubb**
+
+    123 288 11 91
+
+
+
+
 **Göteborgkyrkan**
 
     123 218 49 76
@@ -27664,6 +27678,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Göteborgs Gatufotoförening, GGFF**
 
     123 398 72 78
+
+
+
+
+**Göteborgs GolfKlubb**
+
+    123 189 51 19 - Insamling "Eric´s Corner"
 
 
 
@@ -30432,6 +30453,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hjo Pastorat**
 
     123 222 08 53
+
+
+
+
+**Hjobygdens Orienteringsklubb**
+
+    123 461 17 52
 
 
 
@@ -38508,6 +38536,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**KABE Klubb Syd**
+
+    123 595 39 55
+
+
+
+
 **Kaffepåsen i Göteborg**
 
     123 013 28 11
@@ -40926,9 +40961,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Klubb DÖD**
+
+    123 577 68 36
+
+
+
+
 **Klubb Energi**
 
     123 174 53 06
+
+
+
+
+**Klubb Maritim**
+
+    123 147 75 61
 
 
 
@@ -43184,6 +43233,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kungliga Örlogsmannasällskapet**
 
     123 179 75 13
+
+
+
+
+**Kungsbacka BMX-klubb**
+
+    123 086 81 41
 
 
 
@@ -49621,6 +49677,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malmoe-Copenhagen Blues Connexion**
+
+    123 097 11 01
+
+
+
+
 **Malmö Bastugille**
 
     123 261 65 71
@@ -50207,6 +50270,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Mariestads AIF**
 
     123 519 30 73
+
+
+
+
+**Mariestads Astronomiska Klubb, MAK**
+
+    123 595 35 18
 
 
 
@@ -57138,6 +57208,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Orienteringsklubben Vallonerna**
 
     123 191 66 42
+
+
+
+
+**Orienteringsklubben Vivill**
+
+    123 576 67 53
 
 
 
@@ -68128,6 +68205,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sigtuna Alpina Klubb**
+
+    123 590 30 00
+
+
+
+
 **Sigtuna Basket**
 
     123 484 94 36
@@ -70955,6 +71039,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Smedjebackens Ridsport**
 
     123 269 70 35
+
+
+
+
+**Smedjebackens Trollingklubb**
+
+    123 355 41 44
 
 
 
@@ -81815,6 +81906,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sävsjö RC Klubb**
+
+    123 382 15 92
+
+
+
+
 **Sävsjö RK**
 
     123 442 40 24
@@ -85291,6 +85389,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tidaholmsbygdens Hästklubb**
+
+    123 079 20 02
+
+
+
+
 **Tidans IF**
 
     123 100 68 08
@@ -86380,6 +86485,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 665 22 26
 
     123 695 10 08 - P12
+
+
+
+
+**Torslanda Taekwon-Do klubb**
+
+    123 454 25 93
 
 
 
@@ -90156,6 +90268,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Varberg Hockey Klubb**
+
+    123 074 75 27 - Loppmarknaden
+
+    123 213 72 63 - Publikentré
+
+    123 276 54 44 - Shop / anmälningsavgifter
+
+    123 454 84 26 - Kiosk, Veddige Ishall
+
+    123 485 38 75 - Slipning
+
+    123 520 22 54 - Bytarbod
+
+    123 593 53 09 - Torgvagn, lotteri
+
+    123 618 51 77 - Kiosk, Varbergs Ishall
+
+
+
+
 **Varbergs Basket**
 
     123 676 51 19
@@ -90229,6 +90362,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Varbergs Massage och Behandling / Nils Tennberg**
 
     123 540 74 40
+
+
+
+
+**Varbergs Moped- och Scooterklubb, VMSK**
+
+    123 653 20 06
 
 
 
@@ -91943,6 +92083,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **VIYoga AB**
 
     123 526 35 12
+
+
+
+
+**VK Lure Coursing Västra, VKLCV**
+
+    123 046 01 47
 
 
 
@@ -99478,6 +99625,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Övertorneå församlings vänner**
 
     123 194 18 63
+
+
+
+
+**Övertorneå Grappling Klubb**
+
+    123 524 39 85
 
 
 
