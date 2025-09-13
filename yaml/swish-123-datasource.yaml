@@ -2547,7 +2547,7 @@ entries:
   categories:
   - golftränare
   - personlig träning
-  web: null
+  web: https://www.facebook.com/sebastianchansson
 
 - entry: 1230138172
   orgName: Svenska Brukshundklubben
@@ -5213,7 +5213,7 @@ entries:
   categories:
   - förlag
   - utbildning
-  web: null
+  web: https://www.wadokai.se/
 
 - entry: 1230265496
   orgName: Bostadsrättsföreningen Lövsmygen 1
@@ -8494,7 +8494,7 @@ entries:
   categories:
   - djurskydd
   - katthem
-  web: null
+  web: https://raddakatten.se/
 
 - entry: 1230412460
   orgName: Essinge IK
@@ -9385,14 +9385,6 @@ entries:
   - idrottsförening
   web: https://www.flurkmarksik.se/
 
-- entry: 1230450551
-  orgName: Sparven
-  orgNumber: 556706-5262
-  comment: Köket
-  categories:
-  - religion
-  web: null
-
 - entry: 1230450809
   orgName: Pingstförsamlingen i Alingsås
   orgNumber: 864000-0371
@@ -9489,7 +9481,7 @@ entries:
   - hörselnedsättning
   - patientförening
   - riksförbund
-  web: null
+  web: https://hrf.se/skovde-tibro/
 
 - entry: 1230456194
   orgName: Timrå IK U16
@@ -9614,12 +9606,12 @@ entries:
   web: https://www.borlangebasket.se/
 
 - entry: 1230462218
-  orgName: Ny Solidaritet
+  orgName: Föreningen Ny Solidaritet
   orgNumber: 802010-4660
   comment: null
   categories:
   - intresseförening
-  web: null
+  web: https://solidaritet.angelfire.com/
 
 - entry: 1230462226
   orgName: Södra Gärdslös Kulturgrupp
@@ -10934,14 +10926,6 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/bkljungsbro
-
-- entry: 1230520379
-  orgName: Sparven
-  orgNumber: 556706-5262
-  comment: Kollekt
-  categories:
-  - religion
-  web: null
 
 - entry: 1230520502
   orgName: Piperska / Lundsbrunnsfonderna
@@ -14773,7 +14757,7 @@ entries:
   comment: null
   categories:
   - musikförening
-  web: null
+  web: https://www.foolsgold.se/
 
 - entry: 1230732842
   orgName: Projekt Rödbergsvik
@@ -18636,6 +18620,16 @@ entries:
   - rotaryklubb
   web: https://eslov.rotary2390.se/
 
+- entry: 1230890525
+  orgName: Auktionskammaren Sydost AB
+  orgNumber: 559314-6821
+  comment: null
+  categories:
+  - auktioner
+  - auktionskammare
+  - auktionsverk
+  web: https://www.auktionsydost.se/
+
 - entry: 1230890608
   orgName: Almena Tours AB
   orgNumber: 559138-0760
@@ -19684,6 +19678,15 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.vissefjardagif.com/
+
+- entry: 1230926758
+  orgName: Hagaby GoIF Örebro
+  orgNumber: 875000-1052
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.hagaby-goif.se/
 
 - entry: 1230926782
   orgName: Österlövsta FF
@@ -21849,6 +21852,14 @@ entries:
   categories:
   - bridgeklubb
   web: https://www.svenskbridge.se/ludvikabygdens-bk
+
+- entry: 1231041144
+  orgName: Nybyns Intresseförening
+  orgNumber: 898200-3926
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.facebook.com/groups/465934811945769
 
 - entry: 1231041235
   orgName: Aktiva Seniorer Skellefteå
@@ -70385,13 +70396,13 @@ entries:
   web: https://www.svenskakyrkan.se/mariefred
 
 - entry: 1233408932
-  orgName: HRF Blekinge
+  orgName: Hörselskadades Riksförbund
   orgNumber: 836200-7786
-  comment: null
+  comment: Blekinge
   categories:
   - hörselnedsättning
   - hörselskadad
-  web: null
+  web: https://hrf.se/blekinge/
 
 - entry: 1233408960
   orgName: Barkåkra Scoutkår

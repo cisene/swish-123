@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-13-rev-200002
+Revision: 2025-09-13-rev-220456
 
-Nummer: 16434
+Nummer: 16435
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3573,6 +3573,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Augustas Bed & Breakfast**
 
     123 470 47 22
+
+
+
+
+**Auktionskammaren Sydost AB**
+
+    123 089 05 25
 
 
 
@@ -23629,6 +23636,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Ny Solidaritet**
+
+    123 046 22 18
+
+
+
+
 **Föreningen Nyckelharpan**
 
     123 612 26 34
@@ -28022,6 +28036,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hagaby GoIF Örebro**
+
+    123 092 67 58
+
+
+
+
 **Hagakyrkan Habo**
 
     123 174 51 16
@@ -31219,13 +31240,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**HRF Blekinge**
-
-    123 340 89 32
-
-
-
-
 **Hrimfaxi Islandshästklubb - Islandshäst**
 
     123 181 31 38
@@ -33322,6 +33336,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hörselskadades Riksförbund**
 
     123 633 31 24 - Karlshamn
+
+
+
+
+**Hörselskadades Riksförbund**
+
+    123 340 89 32 - Blekinge
 
 
 
@@ -55520,13 +55541,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Ny Solidaritet**
-
-    123 046 22 18
-
-
-
-
 **Nya Bridgeskolan / Spaderess i Stockholm AB**
 
     123 063 79 75
@@ -55712,6 +55726,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nyby Bygdegårdsförening**
 
     123 238 55 57
+
+
+
+
+**Nybyns Intresseförening**
+
+    123 104 11 44
 
 
 
@@ -71996,15 +72017,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sparsörs AIK**
 
     123 641 55 09
-
-
-
-
-**Sparven**
-
-    123 045 05 51 - Köket
-
-    123 052 03 79 - Kollekt
 
 
 
