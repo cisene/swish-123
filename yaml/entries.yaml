@@ -22024,6 +22024,14 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1231034941
+  orgName: Fjällsjö Hembygdsförening
+  orgNumber: 893200-6938
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/fj-llsj-hembygdsf-rening
+
 - entry: 1231034966
   orgName: Slofallets Islandshästar AB
   orgNumber: 559328-6213
@@ -29620,6 +29628,14 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/SundsvallsIBF/
+
+- entry: 1231401181
+  orgName: Bodums Hembygdsförening
+  orgNumber: 892001-0322
+  comment: null
+  categories:
+  - hembygdsförening
+  web: null
 
 - entry: 1231402544
   orgName: Hildas Tassebo
@@ -44592,7 +44608,7 @@ entries:
   web: https://www.svenskakyrkan.se/kramfors/nordingra-kyrka
 
 - entry: 1232141091
-  orgName: Västerås BK - Brottning
+  orgName: Västerås Brottarklubb
   orgNumber: 878000-5321
   comment: Övrigt
   categories:
@@ -45479,6 +45495,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.tibk.nu/
+
+- entry: 1232180743
+  orgName: TV Vision Sverige
+  orgNumber: 556792-0854
+  comment: null
+  categories:
+  - lokaltelevision
+  - religion
+  web: https://visionsverige.com/
 
 - entry: 1232180909
   orgName: Gävleborgs Dreverklubb
@@ -49344,6 +49369,14 @@ entries:
   - kallbadhus
   - varmbadhus
   web: https://www.nosund.nu/varmbadhuset
+
+- entry: 1232316743
+  orgName: Utvecklingsgruppen Fjällsjö Framtid
+  orgNumber: 893202-0244
+  comment: null
+  categories:
+  - intresseförening
+  web: https://backe.nu/
 
 - entry: 1232316883
   orgName: Torshälla Segelsällskap
@@ -68135,6 +68168,15 @@ entries:
   - pensionärsklubb
   web: https://www.probara.se/
 
+- entry: 1233259165
+  orgName: Korpen Västervik
+  orgNumber: 833600-3812
+  comment: null
+  categories:
+  - idrottsförening
+  - korpenförening
+  web: https://www.korpen.se/korpenvastervik
+
 - entry: 1233260858
   orgName: Västerås Skidklubb
   orgNumber: 878001-2996
@@ -78087,7 +78129,7 @@ entries:
   web: https://www.svenskakyrkan.se/bjarnumspastorat
 
 - entry: 1233737889
-  orgName: Västerås BK - Brottning
+  orgName: Västerås Brottarklubb
   orgNumber: 878000-5321
   comment: Stödmedlem/Wresfit
   categories:
@@ -116891,6 +116933,15 @@ entries:
   - samfällighetsförening
   web: https://storumanlapland.se/forsmark/
 
+- entry: 1235677208
+  orgName: Djurgården Fotboll
+  orgNumber: 556680-5320
+  comment: Ungdomsfond
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.dif.se/
+
 - entry: 1235677604
   orgName: FC Staffanstorp
   orgNumber: 802488-7443
@@ -142463,6 +142514,14 @@ entries:
   - kulturförening
   web: https://bohuslin.se/
 
+- entry: 1236902316
+  orgName: Backe Idrottsförening
+  orgNumber: 892001-0314
+  comment: null
+  categories:
+  - idrottsförening
+  web: http://www.backeif.se/
+
 - entry: 1236902464
   orgName: Karlslunds IF skidor
   orgNumber: 875002-2884
@@ -143993,6 +144052,15 @@ entries:
   - lokalmedia
   - lokaltidning
   web: https://www.varbergstidning.se/
+
+- entry: 1236972467
+  orgName: Cigarrklubben CK Sverige AB
+  orgNumber: 559026-7687
+  comment: null
+  categories:
+  - cigarrklubb
+  - intresseförening
+  web: https://cigarrklubben.se/
 
 - entry: 1236973093
   orgName: Björna Församling

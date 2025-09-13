@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-08-28-rev-193420
+Revision: 2025-09-13-rev-174716
 
-Nummer: 16399
+Nummer: 16407
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3949,6 +3949,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Backe Idrottsförening**
+
+    123 690 23 16
+
+
+
+
 **Backia**
 
     123 653 53 14
@@ -6560,6 +6567,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bodens Trädgårdssällskap**
 
     123 320 64 97
+
+
+
+
+**Bodums Hembygdsförening**
+
+    123 140 11 81
 
 
 
@@ -12005,6 +12019,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Cigarrklubben CK Sverige AB**
+
+    123 697 24 67
+
+
+
+
 **Cigarrkungenshus**
 
     123 609 81 49
@@ -13955,6 +13976,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Djurens Vänners Riksorganisation**
 
     123 354 91 51
+
+
+
+
+**Djurgården Fotboll**
+
+    123 567 72 08 - Ungdomsfond
 
 
 
@@ -19685,6 +19713,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fjällsjö Alpina Klubb**
 
     123 312 66 46
+
+
+
+
+**Fjällsjö Hembygdsförening**
+
+    123 103 49 41
 
 
 
@@ -41882,6 +41917,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Korpen Vännäs**
 
     123 589 19 57
+
+
+
+
+**Korpen Västervik**
+
+    123 325 91 65
 
 
 
@@ -87392,6 +87434,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**TV Vision Sverige**
+
+    123 218 07 43
+
+
+
+
 **Tving GoIF**
 
     123 022 75 20 - Medlemsavgift
@@ -89485,6 +89534,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Utterlidens byastugeförening**
 
     123 611 51 25
+
+
+
+
+**Utvecklingsgruppen Fjällsjö Framtid**
+
+    123 231 67 43
 
 
 
@@ -93386,15 +93442,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Västerås BK - Brottning**
-
-    123 214 10 91 - Övrigt
-
-    123 373 78 89 - Stödmedlem/Wresfit
-
-
-
-
 **Västerås Bordtennisklubb**
 
     123 464 52 89
@@ -93416,6 +93463,10 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 108 95 56 - Café
 
     123 129 49 33 - Mälarcupen
+
+    123 214 10 91 - Övrigt
+
+    123 373 78 89 - Stödmedlem/Wresfit
 
 
 
