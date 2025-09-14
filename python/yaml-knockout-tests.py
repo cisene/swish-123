@@ -271,9 +271,9 @@ def testEntries(entries):
           if entryVO['orgName'] == entryVO['orgName'].lower():
             result['malformed-orgName-lowercase'].append(entryVO)
 
-
         # Detect malformed or missing orgNumbers
         malformed_orgNumber = False
+
 
         if entryVO['orgNumber'] != None:
           tested = testIsValidOrgNumber(entryVO['orgNumber'])
@@ -286,7 +286,6 @@ def testEntries(entries):
         else:
           result['malformed-orgNumber-missing'].append(entryVO)
 
-
         if malformed_orgNumber == True:
           result['malformed-orgNumber'].append(entryVO)
 
@@ -296,7 +295,13 @@ def testEntries(entries):
 
         # Detect malformed or missing URLs
         malformed_web_missing = False
-        if entryVO['web'] == None:
+        if (
+          entryVO['orgName'] != None
+        and
+          entryVO['orgNumber'] != None
+        and
+          entryVO['web'] == None
+        ):
           malformed_web_missing = True
 
         if malformed_web_missing == True:
