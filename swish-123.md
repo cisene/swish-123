@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-14-rev-235745
+Revision: 2025-09-15-rev-010952
 
-Nummer: 16459
+Nummer: 16472
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -7097,6 +7097,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Borlänge Flygklubb**
+
+    123 675 54 82
+
+
+
+
 **Borlänge HF**
 
     123 504 66 93
@@ -9439,6 +9446,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bratteborgs Ryttarsällskap**
 
     123 683 95 26
+
+
+
+
+**Brattforshedens Flygklubb**
+
+    123 161 76 79
 
 
 
@@ -19734,6 +19748,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fjällbacka Båt och Bil AB**
 
     123 257 61 89
+
+
+
+
+**Fjällbacka Flygklubb**
+
+    123 011 31 34
 
 
 
@@ -32601,6 +32622,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hässleholms Flygklubb**
+
+    123 278 07 65
+
+
+
+
 **Hässleholms Församling**
 
     123 313 91 44
@@ -38413,6 +38441,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jönköpings Flygklubb**
+
+    123 459 60 78
+
+
+
+
 **Jönköpings Fältrittklubb**
 
     123 105 33 62 - Anläggning – (Ridhusavgift, transporthyra m.m.)
@@ -42489,6 +42524,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kristianstad Flygklubb**
+
+    123 069 08 18
+
+
+
+
 **Kristianstad Handboll**
 
     123 103 70 68 - Biljetter/evenemang
@@ -44743,6 +44785,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Köpings Brukshundklubb**
 
     123 179 24 98
+
+
+
+
+**Köpings Flygklubb**
+
+    123 651 23 62
 
 
 
@@ -47796,7 +47845,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Ljusdals FK - Flygsport**
+**Ljusdals Flygklubb**
 
     123 072 72 06 - Huvudkassan
 
@@ -50003,7 +50052,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Malmö SFK - Flygsport**
+**Malmö Segelflygklubb**
 
     123 350 62 43
 
@@ -54928,6 +54977,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Norra Ugglarps Bygdegårdsförening**
 
     123 087 57 08
+
+
+
+
+**Norra Upplands Flygklubb**
+
+    123 336 43 61
 
 
 
@@ -67795,6 +67851,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Segelflygets Veteransällskap**
+
+    123 310 86 69
+
+
+
+
 **Segelklubben Måsungen**
 
     123 471 45 48
@@ -77599,6 +77662,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sunne Brukshundsklubb**
 
     123 539 26 59
+
+
+
+
+**Sunne Flygklubb**
+
+    123 472 80 28
 
 
 
@@ -88370,6 +88440,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Uddevalla Bluesförening**
 
     123 072 48 31
+
+
+
+
+**Uddevalla Flygklubb**
+
+    123 499 30 44
 
 
 
@@ -99331,6 +99408,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Östersunds Flygklubb**
+
+    123 633 50 87
+
+
+
+
 **Östersunds GF**
 
     123 574 98 09
@@ -99680,6 +99764,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Östra Stå**
 
     123 552 70 31
+
+
+
+
+**Östra Sörmlands Flygklubb**
+
+    123 221 42 78
 
 
 
