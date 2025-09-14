@@ -1652,6 +1652,15 @@ entries:
   - orienteringsklubb
   web: https://www.svenskalag.se/sskklubb
 
+- entry: 1230078006
+  orgName: Vargön Vänersborgs Badmintonbklubb
+  orgNumber: 802441-1707
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://vvbk.nu/
+
 - entry: 1230078097
   orgName: Kilsbergen Trailrun / AH-Event HB
   orgNumber: 969752-3711
@@ -7205,6 +7214,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/soderhamnsff
+
+- entry: 1230345710
+  orgName: Borås Brottarklubb
+  orgNumber: 864500-1135
+  comment: null
+  categories:
+  - brottningsklubb
+  - idrottsförening
+  web: https://www.laget.se/BorasBK/
 
 - entry: 1230345777
   orgName: Enhörna IF
@@ -16889,6 +16907,15 @@ entries:
   - pensionärsklubb
   - religion
   web: https://rpg.org.se/foreningsprogram/vastkusten/
+
+- entry: 1230813378
+  orgName: Helsingborgs Badmintonklubb
+  orgNumber: 843000-5952
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://hbk.nu/
 
 - entry: 1230813451
   orgName: Lions Club Svenljunga
@@ -34994,6 +35021,15 @@ entries:
   - ideell förening
   web: https://www.facebook.com/eva2helpinghands
 
+- entry: 1231656859
+  orgName: Hoby Badmintonklubb
+  orgNumber: 835001-3234
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://hobybmk.com/
+
 - entry: 1231657147
   orgName: Bostadsrättsföreningen Göteborgshus 13
   orgNumber: 757201-7262
@@ -46870,6 +46906,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/forssabk
 
+- entry: 1232226520
+  orgName: Växjö Squashklubb
+  orgNumber: 802421-6445
+  comment: null
+  categories:
+  - idrottsförening
+  - squashklubb
+  web: https://www.svenskalag.se/vaxjosquashklubb
+
 - entry: 1232226934
   orgName: Saronhuset i Uddevalla
   orgNumber: 858500-2739
@@ -52810,6 +52855,15 @@ entries:
   - intresseförening
   web: https://dumpen.se/
 
+- entry: 1232506988
+  orgName: Örebro Squashklubb
+  orgNumber: 802434-1276
+  comment: null
+  categories:
+  - idrottsförening
+  - squashklubb
+  web: https://orebrosquash.se/
+
 - entry: 1232510253
   orgName: Reumatikerföreningen Oskarshamn
   orgNumber: 832800-8522
@@ -55060,6 +55114,15 @@ entries:
   - donation
   - intresseförening
   web: https://greenforum.se/
+
+- entry: 1232637155
+  orgName: Oskarshamns Brottarklubb
+  orgNumber: 832800-2848
+  comment: null
+  categories:
+  - brottningsklubb
+  - idrottsförening
+  web: https://brottning.osket.se/
 
 - entry: 1232637387
   orgName: Cannstaff / Cilla Cannerheim
@@ -69314,6 +69377,15 @@ entries:
   - kvinnojour
   web: https://fempowerment.se/
 
+- entry: 1233311115
+  orgName: Landskrona Badmintonklubb
+  orgNumber: 844000-4540
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://landskronabadminton.se/
+
 - entry: 1233311487
   orgName: Stiftelsen Claphaminstitutet
   orgNumber: 802426-0922
@@ -78952,6 +79024,15 @@ entries:
   - futsalklubb
   - idrottsförening
   web: https://www.laget.se/SAIKFK/
+
+- entry: 1233783446
+  orgName: Uddevalla Badmintonklubb
+  orgNumber: 858500-4511
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://www.uddevallabadminton.se/
 
 - entry: 1233783487
   orgName: Katrineholms IF Basket
@@ -89348,6 +89429,15 @@ entries:
   - kennelklubb
   web: http://moklintakennelklubb.se/
 
+- entry: 1234296117
+  orgName: Wasa Squashklubb
+  orgNumber: 802415-9704
+  comment: null
+  categories:
+  - idrottsförening
+  - squashklubb
+  web: https://www.wasasquashklubb.se/
+
 - entry: 1234296372
   orgName: Värmskogs Sportklubb
   orgNumber: 873201-7770
@@ -94724,6 +94814,15 @@ entries:
   - mattor
   web: https://bjornol.se/
 
+- entry: 1234583936
+  orgName: Tierps Badmintonklubb
+  orgNumber: 817300-6563
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://www.facebook.com/tierpsbmk/
+
 - entry: 1234583951
   orgName: Föräldraföreningen i Dannike
   orgNumber: null
@@ -95353,6 +95452,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/hjvif_/
+
+- entry: 1234612156
+  orgName: Umeå Brottningsförening
+  orgNumber: 802459-0831
+  comment: null
+  categories:
+  - brottningsklubb
+  - idrottsförening
+  web: https://www.umeabrottning.se/
 
 - entry: 1234613287
   orgName: Pingstkyrkan Kungsbacka
@@ -98533,7 +98641,7 @@ entries:
   comment: null
   categories:
   - podcast
-  web: null
+  web: https://play.pod.space/brottarbroder/
 
 - entry: 1234790010
   orgName: Urbergsgruppen Klintehamn
@@ -101791,6 +101899,15 @@ entries:
   - hjälporganisation
   - rödakorset
   web: null
+
+- entry: 1234991691
+  orgName: Mörrums Badmintonklubb
+  orgNumber: 836201-0574
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://morrumbk.nu/
 
 - entry: 1234992491
   orgName: Torstorps IF
@@ -117987,6 +118104,15 @@ entries:
   - idrottsförening
   web: https://shkhandboll.sportadmin.se/
 
+- entry: 1235705827
+  orgName: Klippans Brottarklubb
+  orgNumber: 837600-0637
+  comment: null
+  categories:
+  - brottningsklubb
+  - idrottsförening
+  web: https://www.klippansbk.se/
+
 - entry: 1235705900
   orgName: Rotary Växjö
   orgNumber: 829501-3216
@@ -118383,6 +118509,15 @@ entries:
   - båtklubb
   - båtsällskap
   web: https://www.sodrastavsuddabrygga.se/
+
+- entry: 1235727623
+  orgName: Väsby Brottarklubb
+  orgNumber: 814800-6920
+  comment: null
+  categories:
+  - brottningsklubb
+  - idrottsförening
+  web: https://vasbybk.se/
 
 - entry: 1235727771
   orgName: PRO Hässleholm
@@ -123492,6 +123627,15 @@ entries:
   categories:
   - yoga
   web: https://madevalina.se/
+
+- entry: 1235982897
+  orgName: Trosa Badmintonklubb
+  orgNumber: 819001-3147
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://trosabmk.se/
 
 - entry: 1235982988
   orgName: Ungdomsförbundet Sveriges Flotta - Gripen
@@ -133390,6 +133534,15 @@ entries:
   - podcast
   web: https://amkstudios.se/
 
+- entry: 1236462220
+  orgName: Jönköpings Squashklubb
+  orgNumber: 802417-2176
+  comment: null
+  categories:
+  - idrottsförening
+  - squashklubb
+  web: https://www.jonkopingsquash.se/
+
 - entry: 1236462980
   orgName: Återbruksbilen / Brad Recycling AB
   orgNumber: 559242-2694
@@ -133798,6 +133951,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegardarna.se/bjursnas/
+
+- entry: 1236482103
+  orgName: Limhamns Brottarklubb
+  orgNumber: 846001-6895
+  comment: null
+  categories:
+  - brottningsklubb
+  - idrottsförening
+  web: https://www.limhamnsbrottarklubb.se/
 
 - entry: 1236483572
   orgName: Kristianstads Radioamatörer, SK7BQ
@@ -143337,6 +143499,15 @@ entries:
   - blog
   - podcast
   web: https://www.nickalinia.se/
+
+- entry: 1236922611
+  orgName: Brännalts Gård AB
+  orgNumber: 556286-2200
+  comment: null
+  categories:
+  - gårdsförsäljning
+  - lantbruk
+  web: null
 
 - entry: 1236924484
   orgName: Föreningen Gamla Torvalla

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-13-rev-220456
+Revision: 2025-09-14-rev-214628
 
-Nummer: 16435
+Nummer: 16454
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -7266,6 +7266,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Borås Brottarklubb**
+
+    123 034 57 10
+
+
+
+
 **Borås Brukshundklubb**
 
     123 170 29 68
@@ -10175,6 +10182,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Brämaregårdens FC**
 
     123 672 96 77
+
+
+
+
+**Brännalts Gård AB**
+
+    123 692 26 11
 
 
 
@@ -29826,6 +29840,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Helsingborgs Badmintonklubb**
+
+    123 081 33 78
+
+
+
+
 **Helsingborgs Bapistförsamling**
 
     123 623 63 43
@@ -30778,6 +30799,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 072 49 55 - Kollekt
 
     123 104 31 40 - Gåvor, vykort, böcker, dylikt
+
+
+
+
+**Hoby Badmintonklubb**
+
+    123 165 68 59
 
 
 
@@ -38460,6 +38488,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jönköpings Squashklubb**
+
+    123 646 22 20
+
+
+
+
 **Jönköpings Södra IF**
 
     123 564 75 99
@@ -40892,6 +40927,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Klinte Pastorat**
 
     123 181 36 25 - Gåvor
+
+
+
+
+**Klippans Brottarklubb**
+
+    123 570 58 27
 
 
 
@@ -44911,6 +44953,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Landskrona Badmintonklubb**
+
+    123 331 11 15
+
+
+
+
 **Landskrona Direkt / Zebra Media HB**
 
     123 360 46 00
@@ -46207,6 +46256,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Limhamns Brassband**
 
     123 412 10 18
+
+
+
+
+**Limhamns Brottarklubb**
+
+    123 648 21 03
 
 
 
@@ -53361,6 +53417,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Mörrums Badmintonklubb**
+
+    123 499 16 91
+
+
+
+
 **Mörrums Folkets Hus och Park**
 
     123 322 99 45
@@ -57549,6 +57612,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Oskarshamns Boxningsklubb**
 
     123 589 34 82
+
+
+
+
+**Oskarshamns Brottarklubb**
+
+    123 263 71 55
 
 
 
@@ -85471,6 +85541,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tierps Badmintonklubb**
+
+    123 458 39 36
+
+
+
+
 **Tierps Brukshundsklubb**
 
     123 402 98 31
@@ -87145,6 +87222,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Trosa Badmintonklubb**
+
+    123 598 28 97
+
+
+
+
 **Trosa bridgesällskap**
 
     123 114 64 14
@@ -88227,6 +88311,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Uddevalla Badmintonklubb**
+
+    123 378 34 46
+
+
+
+
 **Uddevalla Bangolfklubb**
 
     123 653 52 98
@@ -88617,6 +88708,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Umeå Biljardklubb**
 
     123 569 88 65
+
+
+
+
+**Umeå Brottningsförening**
+
+    123 461 21 56
 
 
 
@@ -90423,6 +90521,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Varelse AB**
 
     123 356 43 41
+
+
+
+
+**Vargön Vänersborgs Badmintonbklubb**
+
+    123 007 80 06
 
 
 
@@ -93150,6 +93255,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Väsby Brottarklubb**
+
+    123 572 76 23
+
+
+
+
 **Väsby Brukshundsklubb**
 
     123 361 08 13
@@ -94504,6 +94616,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Växjö Squashklubb**
+
+    123 222 65 20
+
+
+
+
 **Växjöortens Folkdanslag**
 
     123 347 43 50
@@ -94751,6 +94870,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Wasa Golfklubb**
 
     123 299 28 40
+
+
+
+
+**Wasa Squashklubb**
+
+    123 429 61 17
 
 
 
@@ -98418,6 +98544,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Örebro Sportklubb 10-årsförening**
 
     123 172 41 37
+
+
+
+
+**Örebro Squashklubb**
+
+    123 250 69 88
 
 
 
