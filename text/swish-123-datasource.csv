@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-09-14-rev-214557
+# Date: 2025-09-14-rev-235715
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -303,6 +303,7 @@
 "1230141374","849600-0236","Pingstförsamlingen i Varberg","https://www.pingstvarberg.se/","religion","Matkassen"
 "1230141960","822002-5517","LinköpingsPolisens SeniorKlubb, LPSK","https://www.lpsk.nu/","pensionärsklubb",""
 "1230142133","882600-9329","Kvarnsvedens IK","https://www.kvarnsvedensik.com/","fotbollsklubb,idrottsförening","Entré"
+"1230142232","802467-0286","Tipstjänst och Svenska Spels Veteraner","https://tipsveteranerna.se/","intresseförening,pensionärsklubb",""
 "1230142745","802528-2826","Nordisk Förening för Spädbarns Utveckling, NFSU","https://nfsu.org/","intresseförening",""
 "1230142919","857200-4094","Pingstkyrkan Västra Frölunda","https://frolunda.pingst.se/","religion","Utbyggnaden"
 "1230142927","559177-2198","MorrRingens AB","https://morrringens.se/","meditation,spiritualism",""
@@ -1771,7 +1772,7 @@
 "1230775353","790406-XXXX","Daniels Betting / Daniel Domeij","https://twitter.com/danielsbetting","betting",""
 "1230776278","882601-6332","Säters IF FK","https://www.laget.se/SatersIFFK/","fotbollsklubb,idrottsförening","F 06-08"
 "1230776682","865500-4938","Nittorps IK","https://www.svenskalag.se/nittorpsik","fotbollsklubb,idrottsförening,ishockeyklubb",""
-"1230776740","833200-4079","Tobo GK","https://www.tobogk.se/","golfbana,golfklubb",""
+"1230776740","833200-4079","Tobo Golfklubb","https://www.tobogk.se/","golfbana,golfklubb",""
 "1230776856","802530-8209","Sandhems Framtidsförening","https://sandhemsff.se/","förening,intresseförening",""
 "1230776872","802430-0074","Svenska Wheaten Terrier Klubben, SWTK","https://swtk.se/","hundklubb,hunduppfödning",""
 "1230777987","815600-4734","Södertälje BTK","https://www.svenskalag.se/sodertaljebtk","bordtennisklubb,idrottsförening",""
@@ -2022,6 +2023,7 @@
 "1230859181","878000-8432","Västerås IK Fotboll","https://www.laget.se/VIKFotboll/","fotbollsklubb,idrottsförening","Pojkar 09:1"
 "1230860065","252004-8899","Roslagens Norra Pastorat","https://www.svenskakyrkan.se/roslagensnorrapastorat","religion","Kollekt"
 "1230860700","877100-7617","Riksförbundet HjärtLung Bergslagen","https://www.hjart-lung.se/foreningar/orebrolan/lokalforeningar/Bergslagen/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
+"1230860858","866001-3163","Falbygdens Idrottshistoriska Sällskap","https://falbygdensihs.se/","idrottshistoria,intresseförening",""
 "1230862854","802442-2068","Capoeira Club Cultura Brasileira","https://www.stockholmbarnkarneval.se/","capoeiraklubb,idrottsförening","Sthlm Barnkarneval Rio"
 "1230863118","889200-1093","Hassels IF","https://www.svenskalag.se/hasselsif","bordtennisklubb,fotbollsklubb,idrottsförening",""
 "1230866160","818000-1235","Jäders IF","https://www.laget.se/JadersIF/","fotbollsklubb,idrottsförening",""
@@ -6794,6 +6796,7 @@
 "1232898195","802538-6163","Svenska klubben för flerfärgade pudlar","https://flerfargadpudel.se/","hundklubb,hundsport",""
 "1232898815","814000-5599","PRO Älta","https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-nacka/foreningar/alta.html","pensionärsklubb",""
 "1232901122","840521-XXXX","Life in motion Kämpinge / Caroline Montelius","https://www.lifeinmotionkampinge.se/","friskvård,kostrådgivning,kroppsanalys,träningsresor,träningsrådgivning,träningsweekend",""
+"1232902815","893200-7456","Ovikens Bygdegårdsförening","https://www.facebook.com/Orrgarden","bygdegårdsförening",""
 "1232903136","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/sala/","godkänd gåvomottagare,religion","Sala"
 "1232903334","802420-9218","Svenska Bostonterrierklubben, SBTK","https://bostonterrierklubben.se/","hundklubb,hundsport",""
 "1232903615","878500-6597","Köpings Kennelklubb KAK","https://kopingskennelklubbkak.se/","hunduppfödning,kennelklubb",""
@@ -7106,6 +7109,7 @@
 "1233048204","802474-6011","Allianskyrkan i Västerås","https://kyrktorget.se/allianskyrkanvasteras","religion",""
 "1233048212","802454-3517","Noaks Ark Stockholm","https://noaksark.org/stockholm/","hjälporganisation,sociala insatser",""
 "1233048469","802412-6016","Norråva Golfklubb","https://www.norravagk.se/","golfklubb",""
+"1233048477","857201-2550","Göteborgs National Dans Sällskap, GNDS","http://gnds.org/","dansförening,danssällskap",""
 "1233048550","671111-XXXX","Annelis Hundtjänst / Anneli Johansson","https://annelishundtjanst.se/","djurvård,valpkurs",""
 "1233048568","894003-5606","Umeå City IBF","https://www.laget.se/UmeaCity/","idrottsförening,innebandyklubb",""
 "1233049269","559046-5588","Dyk & Sport Gotland AB","https://dykochsportgotland.se/","dykning,försäljning,sportmaterial",""
@@ -11342,7 +11346,7 @@
 "1235015177","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Helsingborg, Kvidinge Skola"
 "1235015243","252004-2942","Häggenås-Lit-Kyrkås Församling","https://www.svenskakyrkan.se/haggenas-lit-kyrkas","religion","Kollekt"
 "1235015318","252004-9277","Österåkers Pastorat","https://www.svenskakyrkan.se/osteraker","religion","Kollekt Österåker-Östra Ryds församling"
-"1235016118","559050-8197","MeyQ Cards consultants AB","https://www.meypics.se/","fotograf","Claus Meyer"
+"1235016118","559050-8197","MeyQ Cards Consultants AB","https://www.meypics.se/","fotograf","Claus Meyer"
 "1235016159","834001-3724","Föreningen Träibatn","https://traibatn.se/","båtvård,intresseförening",""
 "1235020383","846004-6850","Sveriges Hortonomförbund","https://hortonom.se/","intresseförening",""
 "1235020789","802510-9359","KFUM Östersund Basket Ungdom","https://www.laget.se/KFUMOstersundBasketUngdom/","basketbollklubb,idrottsförening",""
@@ -13091,7 +13095,7 @@
 "1235716261","802439-0257","Åkerbygdens Alliansförsamling","https://akerafs.se/","religion",""
 "1235716402","839401-1434","Föreningen S:t Mikael","https://stmikael.se/","religion",""
 "1235716691","867800-6779","IFK Falköping Fotboll","https://www.ifkfalkopingff.se/","fotbollsklubb,idrottsförening",""
-"1235716816","817605-7506","Westerlundsällskapet","https://westerlundsallskapet.se/","intresseförening",""
+"1235716816","817605-7506","Ernst Westerlundsällskapet","https://westerlundsallskapet.se/","intresseförening",""
 "1235719380","878001-2640","Huskatten Västerås","https://www.huskatten.com/","djurskydd,katthem",""
 "1235719448","825000-7336","Studiehemmet Hemgården","https://www.hemgarden.com/","folkbildning,utbildning",""
 "1235719877","875001-2307","Rynninge IK","https://www.laget.se/RynningeIK/","fotbollsklubb,idrottsförening","FU 15/16"
@@ -14181,6 +14185,7 @@
 "1236192124","802490-2838","New Life for You","https://www.newlife4you.se/","hjälporganisation,religion",""
 "1236192181","817606-7646","SPF Seniorerna Trosa","https://www.spfseniorerna.se/distrikt/sormland/foreningslista/trosa/","pensionärsklubb",""
 "1236192306","802535-9137","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Kristianstad, T4 Montessori Grundskola"
+"1236192777","802514-9025","Solvalla Vänner och Veteraner","https://www.facebook.com/groups/214651059286138","intresseförening,pensionärsklubb",""
 "1236196133","556986-8614","Väsby Lås & Larm AB","https://vasbylas.se/","försäljning,larmsystem,säkerhetsutrustning",""
 "1236196901","887501-5094","Långvinds Kapellförening","https://langvind.com/partner/langvinds-kapellforening/","religion",""
 "1236197834","780106-XXXX","Ikon Events, Ikon Sweden / Kamal Deep Singh Sahni","http://ikonevents.se/","eventarrangör",""

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-14-rev-214628
+Revision: 2025-09-14-rev-235745
 
-Nummer: 16454
+Nummer: 16459
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -17531,6 +17531,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ernst Westerlundsällskapet**
+
+    123 571 68 16
+
+
+
+
 **Ersmarks IK**
 
     123 002 06 44 - F13
@@ -18370,6 +18377,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 039 39 26
 
     123 588 51 65
+
+
+
+
+**Falbygdens Idrottshistoriska Sällskap**
+
+    123 086 08 58
 
 
 
@@ -27762,6 +27776,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Göteborgs Magiska Klubb**
 
     123 435 49 65
+
+
+
+
+**Göteborgs National Dans Sällskap, GNDS**
+
+    123 304 84 77
 
 
 
@@ -51256,7 +51277,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**MeyQ Cards consultants AB**
+**MeyQ Cards Consultants AB**
 
     123 501 61 18 - Claus Meyer
 
@@ -57786,6 +57807,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ovesholms IF**
 
     123 240 80 11
+
+
+
+
+**Ovikens Bygdegårdsförening**
+
+    123 290 28 15
 
 
 
@@ -71852,6 +71880,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Solvalla Vänner och Veteraner**
+
+    123 619 27 77
+
+
+
+
 **Solvatten Insamlingsstiftelse**
 
     123 684 72 89
@@ -85820,6 +85855,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tipstjänst och Svenska Spels Veteraner**
+
+    123 014 22 32
+
+
+
+
 **Tisnarbro IF**
 
     123 413 82 69
@@ -86088,7 +86130,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Tobo GK**
+**Tobo Golfklubb**
 
     123 077 67 40
 
@@ -95129,13 +95171,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Westcoast Evolution Training AB**
 
     123 532 27 89
-
-
-
-
-**Westerlundsällskapet**
-
-    123 571 68 16
 
 
 
