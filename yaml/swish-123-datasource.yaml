@@ -4373,7 +4373,9 @@ entries:
   orgNumber: 802479-9994
   comment: null
   categories:
+  - djurskydd
   - intresseförening
+  - naturvård
   - stiftelse
   web: https://www.wildhood.org/
 
@@ -24325,6 +24327,15 @@ entries:
   - travsport
   web: https://www.lifeafterracing.se/
 
+- entry: 1231156824
+  orgName: Flyg- och Rymdtekniska Föreningen, FTF
+  orgNumber: 802012-8255
+  comment: null
+  categories:
+  - intresseförening
+  - teknikförening
+  web: https://ftfsweden.se/
+
 - entry: 1231157023
   orgName: PRO Pildammen
   orgNumber: 846002-4477
@@ -37402,6 +37413,16 @@ entries:
   - bildemontering
   - bilåtervinning
   web: https://atracco.se/anlaggningar/atracco-vaxsjo/
+
+- entry: 1231792019
+  orgName: Linköpings Segelflygklubb
+  orgNumber: 822001-0154
+  comment: null
+  categories:
+  - flygklubb
+  - segelflygklubb
+  - sportflyg
+  web: https://www.gliding.se/
 
 - entry: 1231792159
   orgName: Piratpartiet
@@ -70481,6 +70502,18 @@ entries:
   - orienteringsklubb
   web: https://www.skarpnacksol.se/
 
+- entry: 1233402575
+  orgName: Evas Flyg & Marin / Eva Lindahl
+  orgNumber: 620413-XXXX
+  comment: null
+  categories:
+  - dykbåt
+  - dykning
+  - flygskola
+  - flygtransport
+  - flyguthyrning
+  web: https://www.m24.nu/
+
 - entry: 1233402799
   orgName: Umeå Hockeyklubb
   orgNumber: 802541-8727
@@ -72698,6 +72731,7 @@ entries:
   categories:
   - flygklubb
   - flygsport
+  - segelflygklubb
   web: https://www.msfk.nu/
 
 - entry: 1233506292
@@ -75845,6 +75879,16 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/loharad
+
+- entry: 1233652203
+  orgName: Falcon Academy / Projektval i Sverige AB
+  orgNumber: 559059-2225
+  comment: null
+  categories:
+  - flygskola
+  - pilotutbildning
+  - utbildning
+  web: https://www.falconacademy.se/
 
 - entry: 1233652245
   orgName: Träningsforum Tollarp
@@ -102033,6 +102077,16 @@ entries:
   - supporterklubb
   web: https://agent12.se/
 
+- entry: 1235071824
+  orgName: Karlskoga Segelflygklubb
+  orgNumber: 876400-0587
+  comment: null
+  categories:
+  - flygklubb
+  - segelflygklubb
+  - sportflyg
+  web: https://karlskogasfk.se/
+
 - entry: 1235074752
   orgName: Arnö IF
   orgNumber: 819001-1448
@@ -104363,6 +104417,16 @@ entries:
   - hundskola
   - kurser
   web: https://rackarungarnashundskola.com/
+
+- entry: 1235148267
+  orgName: Karlskoga Motorflygklubb
+  orgNumber: 876400-1585
+  comment: null
+  categories:
+  - flygklubb
+  - motorflygklubb
+  - sportflyg
+  web: https://www.karlskogamfk.se/
 
 - entry: 1235148309
   orgName: Stiftelsen Autism
@@ -119142,6 +119206,16 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.svenskalag.se/bhc
+
+- entry: 1235841002
+  orgName: Luleå-Boden Flygklubb
+  orgNumber: 897000-9612
+  comment: null
+  categories:
+  - flygklubb
+  - flygsport
+  - sportflyg
+  web: null
 
 - entry: 1235841036
   orgName: PRO Norje
@@ -134416,6 +134490,15 @@ entries:
   - intresseförening
   - opinionsbildning
   web: https://shiptogaza.se/
+
+- entry: 1236581847
+  orgName: Frivilliga Flygkåren, FFK
+  orgNumber: 802013-7306
+  comment: null
+  categories:
+  - försvarsorganisation
+  - intresseförening
+  web: https://ffk.se/
 
 - entry: 1236581888
   orgName: Ödeshögs Kennelklubb

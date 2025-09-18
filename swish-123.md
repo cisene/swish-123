@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-15-rev-010952
+Revision: 2025-09-18-rev-181740
 
-Nummer: 16472
+Nummer: 16480
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -18225,6 +18225,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Evas Flyg & Marin / Eva Lindahl**
+
+    123 340 25 75
+
+
+
+
 **Eventrace AB**
 
     123 423 77 49
@@ -18398,6 +18405,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Falbygdens Idrottshistoriska Sällskap**
 
     123 086 08 58
+
+
+
+
+**Falcon Academy / Projektval i Sverige AB**
+
+    123 365 22 03
 
 
 
@@ -20187,6 +20201,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Flyg- och Rymdtekniska Föreningen, FTF**
+
+    123 115 68 24
+
+
+
+
 **Flygterapeuterna AB**
 
     123 603 83 35
@@ -21365,6 +21386,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Frivilliga Automobilkåren Riksförbundet, FAK**
 
     123 472 02 72
+
+
+
+
+**Frivilliga Flygkåren, FFK**
+
+    123 658 18 47
 
 
 
@@ -39425,9 +39453,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Karlskoga Motorflygklubb**
+
+    123 514 82 67
+
+
+
+
 **Karlskoga Ridklubb**
 
     123 405 65 45
+
+
+
+
+**Karlskoga Segelflygklubb**
+
+    123 507 18 24
 
 
 
@@ -46763,6 +46805,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Linköpings Segelflygklubb**
+
+    123 179 20 19
+
+
+
+
 **Linköpings Segelsällskap**
 
     123 056 38 41 - klubbhusfika
@@ -48455,6 +48504,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Luleå Basketbollklubb**
 
     123 086 63 50
+
+
+
+
+**Luleå-Boden Flygklubb**
+
+    123 584 10 02
 
 
 
