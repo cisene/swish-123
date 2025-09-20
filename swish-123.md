@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-20-rev-164716
+Revision: 2025-09-20-rev-194720
 
-Nummer: 16497
+Nummer: 16511
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -5332,7 +5332,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Biodlartips & Jalin Film AB**
 
-    123 416 25 90
+    123 416 25 90 - Podcast
 
 
 
@@ -6190,6 +6190,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Blasieholmens Vänner**
 
     123 157 38 31
+
+
+
+
+**Blekinge Biodlardistrikt**
+
+    123 063 50 78
 
 
 
@@ -7455,6 +7462,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Borås Yoga centrum / Kristina Andersson**
 
     123 672 04 45
+
+
+
+
+**Boråsortens Biodlarförening**
+
+    123 433 42 72
 
 
 
@@ -17809,6 +17823,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Eskilstuna Motorflygklubb, EMFK**
 
     123 181 64 95
+
+
+
+
+**Eskilstuna Naturskyddsförening**
+
+    123 342 70 44 - Rördrommen
 
 
 
@@ -42913,6 +42934,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kronobergs Läns Biodlarförbund**
+
+    123 045 26 49
+
+
+
+
 **Kronobergs Läns Hembygdsförbund**
 
     123 148 82 38
@@ -43436,6 +43464,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kungliga Örlogsmannasällskapet**
 
     123 179 75 13
+
+
+
+
+**Kungsbacka Biodlarförening**
+
+    123 010 37 54
 
 
 
@@ -50688,6 +50723,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Marks Härads Biodlarförening**
+
+    123 667 78 50
+
+
+
+
 **Marks Konstgille**
 
     123 628 80 13
@@ -53427,7 +53469,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Mölndals biodlarförening**
+**Mölndals Biodlarförening**
+
+    123 139 00 12
 
     123 374 72 43
 
@@ -54979,6 +55023,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Norra Kalmar Biodlardistrikt**
+
+    123 176 58 58
+
+
+
+
 **Norra Kållands USKF**
 
     123 105 89 65
@@ -55089,6 +55140,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Norra Älvsborgs RK**
 
     123 354 84 92
+
+
+
+
+**Norra Åsbo Biodlareförening**
+
+    123 210 35 62
 
 
 
@@ -70690,6 +70748,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skånes Biodlardistrikt**
+
+    123 086 23 75
+
+
+
+
 **Skånes Bridgeförbund**
 
     123 255 53 73
@@ -76619,6 +76684,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Storsjöbygdens Biodlarförening**
+
+    123 489 10 24
+
+
+
+
 **Storsjöbygdens Golfklubb**
 
     123 633 45 02
@@ -78708,7 +78780,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska Bin ideell förening**
+**Svenska Bin**
 
     123 083 91 34
 
@@ -83238,6 +83310,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sörgårdskyrkan i Ryd**
 
     123 527 87 59
+
+
+
+
+**Sörmlands biodlardistrikt**
+
+    123 478 10 50
 
 
 
@@ -93882,6 +93961,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västernorrlands Biodlareförbund**
+
+    123 504 72 46
+
+
+
+
 **Västernorrlands IdrottsHistoriska Sällskap**
 
     123 591 72 08
@@ -99702,6 +99788,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Österängs Bygdegårdsförening**
 
     123 440 39 37
+
+
+
+
+**Österåkers Biodlarförening**
+
+    123 574 00 06
 
 
 
