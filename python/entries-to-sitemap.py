@@ -8,11 +8,14 @@ import time
 import random
 
 import yaml
+import json
+
 from lxml import etree
 
 from datetime import datetime
 
-YAML_SOURCE_FILE = '../yaml/swish-123-datasource.yaml'
+#YAML_SOURCE_FILE = '../yaml/swish-123-datasource.yaml'
+JSON_SOURCE_FILE = '../json/swish-123-datasource.json'
 
 XML_DEST_FILE = '../xml/sitemap.xml'
 
@@ -24,6 +27,16 @@ def urlencode(data):
   data = re.sub(r"\x20", "+", str(data), flags=re.IGNORECASE)
 
   return data
+
+def readJSON(filepath):
+  contents = None
+  if os.path.isfile(filepath):
+    print(f"file exists '{filepath}")
+    with open(filepath) as json_data:
+      contents = json.load(json_data)
+      json_data.close()
+
+  return contents
 
 def readYAML(filepath):
   contents = None
@@ -45,11 +58,13 @@ def readYAML(filepath):
   return data
 
 def main():
-  print(f"Reading source YAML: {YAML_SOURCE_FILE} ..")
-  source_dict = readYAML(YAML_SOURCE_FILE)
+  print(f"Reading source JSON: {JSON_SOURCE_FILE} ..")
+  #source_dict = readYAML(YAML_SOURCE_FILE)
+  source_dict = readJSON(JSON_SOURCE_FILE)
+
 
   if source_dict == None:
-    print(f"Could not read {YAML_SOURCE_FILE}")
+    print(f"Could not read {JSON_SOURCE_FILE}")
     exit(1)
 
   # Set up destination dictionary
@@ -68,7 +83,7 @@ def main():
   # <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   urlset = etree.Element("urlset", nsmap = ns)
 
-  for entryVO in source_dict['entries']:
+  for entryVO in source_dict['data']:
     entry = entryVO['entry']
 
     if entry not in entries_list:
