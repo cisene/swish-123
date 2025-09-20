@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-18-rev-181740
+Revision: 2025-09-20-rev-164716
 
-Nummer: 16480
+Nummer: 16497
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -13833,7 +13833,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**DIS-FILBYTER, Datorhjälp i Släktforskningen**
+**DIS-Filbyter, Datorhjälp i Släktforskningen**
 
     123 483 11 29
 
@@ -24438,6 +24438,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Förslövs Bridgeklubb**
+
+    123 429 31 14
+
+
+
+
 **Förslövs IF**
 
     123 653 78 98
@@ -25949,6 +25956,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gotlands Russtrav Klubb**
 
     123 356 92 41
+
+
+
+
+**Gotlands Släktforskarförening**
+
+    123 348 28 33
 
 
 
@@ -32559,6 +32573,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Härnösands Släkforskare**
+
+    123 285 60 86
+
+
+
+
 **Härnösands VBK**
 
     123 500 46 27
@@ -38544,6 +38565,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jönköpings Läns Bridgeförbund**
+
+    123 201 94 95
+
+
+
+
 **Jönköpings OK - Orientering**
 
     123 155 63 15
@@ -39340,6 +39368,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Karlshamn OCR**
 
     123 499 76 64
+
+
+
+
+**Karlshamns Bridgeklubb**
+
+    123 020 55 18
 
 
 
@@ -66796,6 +66831,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sala Bridgesällskap**
+
+    123 692 18 86
+
+
+
+
 **Sala Brukshundklubb**
 
     123 615 86 20
@@ -70704,6 +70746,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skånes Släktforskarförbund**
+
+    123 295 76 03
+
+
+
+
 **Skånes Änglar**
 
     123 694 87 98
@@ -70954,6 +71003,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Slite Golfklubb**
 
     123 634 50 29
+
+
+
+
+**Slite Intresseförening**
+
+    123 544 56 48
 
 
 
@@ -74241,6 +74297,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stackbo Islandshästar / Carina Eklund**
 
     123 514 79 05
+
+
+
+
+**Staden på Berget**
+
+    123 436 46 59
 
 
 
@@ -80391,9 +80454,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska Spaniel och Retrieverklubben - Piteå sektionen**
+**Svenska Spaniel och Retrieverklubben**
 
-    123 116 85 90
+    123 116 85 90 - Piteå sektionen
 
 
 
@@ -81411,7 +81474,84 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Synskadades Riksförbund**
 
-    123 145 53 10 - Uppsala-Knivstasektionen
+    123 644 11 58 - Stockholm Stad
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 475 91 89 - Stockholm Gotland
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 478 05 73 - Huddinge
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 145 53 10 - Uppsala-Knivsta
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 110 06 19 - Jönköpings Län
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 252 35 04 - Kronoberg
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 366 93 48 - Nordöstra Skåne
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 130 72 14 - Ängelholm-Båstad
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 545 96 60 - Västra Skåne
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 077 80 50 - Malmö-Svedala
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 116 87 07 - Göteborg
+
+
+
+
+**Synskadades Riksförbund**
+
+    123 440 43 23 - Västerbotten
 
 
 
@@ -81426,27 +81566,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Synskadades Riksförbund Borås**
 
     123 669 25 29
-
-
-
-
-**Synskadades Riksförbund Göteborg**
-
-    123 116 87 07
-
-
-
-
-**Synskadades Riksförbund Kronoberg**
-
-    123 252 35 04
-
-
-
-
-**Synskadades Riksförbund Malmö**
-
-    123 077 80 50
 
 
 

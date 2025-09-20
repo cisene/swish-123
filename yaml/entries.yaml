@@ -432,6 +432,7 @@ entries:
   comment: null
   categories:
   - bridgeförbund
+  - bridgeklubb
   web: https://www.svenskbridge.se/värmland-dals-bf
 
 - entry: 1230017087
@@ -3224,6 +3225,7 @@ entries:
   comment: null
   categories:
   - genealogi
+  - intresseförening
   - släktforskning
   web: https://www.msff.se/
 
@@ -3870,6 +3872,14 @@ entries:
   - intresseförening
   - robotics
   web: https://arcsweden.github.io/
+
+- entry: 1230205518
+  orgName: Karlshamns Bridgeklubb
+  orgNumber: 836201-3388
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/karlshamns-bk
 
 - entry: 1230205724
   orgName: Kungsgårdens SK
@@ -12662,6 +12672,7 @@ entries:
   comment: null
   categories:
   - riksförbund
+  - synnedsättning
   - synskadad
   web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/srf-ostergotland/
 
@@ -15998,11 +16009,12 @@ entries:
   web: https://www.svenskalag.se/sodertaljebtk
 
 - entry: 1230778050
-  orgName: Synskadades Riksförbund Malmö
+  orgName: Synskadades Riksförbund
   orgNumber: 846001-9089
-  comment: null
+  comment: Malmö-Svedala
   categories:
   - riksförbund
+  - synnedsättning
   - synskadad
   web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/srf-malmo/
 
@@ -23626,6 +23638,16 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/varmlandsdistriktet/foreningslista/spf-fryksdalen-sunne/
 
+- entry: 1231100619
+  orgName: Synskadades Riksförbund
+  orgNumber: 826001-0577
+  comment: Jönköpings Län
+  categories:
+  - riksförbund
+  - synnedsättning
+  - synskadad
+  web: https://srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-jonkopings-lan/
+
 - entry: 1231100726
   orgName: Språktidningens podd / Vetenskapsmedia i Sverige AB
   orgNumber: 556950-2361
@@ -25033,9 +25055,9 @@ entries:
   web: https://angsholmen.info/
 
 - entry: 1231168590
-  orgName: Svenska Spaniel och Retrieverklubben - Piteå sektionen
+  orgName: Svenska Spaniel och Retrieverklubben
   orgNumber: 802499-4439
-  comment: null
+  comment: Piteå sektionen
   categories:
   - hundklubb
   web: https://ssrkpitea.se/
@@ -25048,11 +25070,12 @@ entries:
   web: null
 
 - entry: 1231168707
-  orgName: Synskadades Riksförbund Göteborg
+  orgName: Synskadades Riksförbund
   orgNumber: 855100-2846
-  comment: null
+  comment: Göteborg
   categories:
   - riksförbund
+  - synnedsättning
   - synskadad
   web: http://www.synskadadesriksforbund.se/om-oss/distrikt-och-lokalforeningar/goteborg/
 
@@ -27821,6 +27844,16 @@ entries:
   - kvinnojour
   web: https://kvinnojourennassjo.se/
 
+- entry: 1231307214
+  orgName: Synskadades Riksförbund
+  orgNumber: 839400-4454
+  comment: Ängelholm-Båstad
+  categories:
+  - riksförbund
+  - synnedsättning
+  - synskadad
+  web: https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-skane/srf-skanes-lokalforeningar/srf-angelholm-bastad/
+
 - entry: 1231307396
   orgName: YDRE Sportbar / Kenth Lindgren
   orgNumber: 590501-XXXX
@@ -30539,9 +30572,9 @@ entries:
 - entry: 1231455310
   orgName: Synskadades Riksförbund
   orgNumber: 817601-7526
-  comment: Uppsala-Knivstasektionen
+  comment: Uppsala-Knivsta
   categories:
-  - intresseförening
+  - riksförbund
   - synnedsättning
   - synskadad
   web: https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-uppsala-lan/
@@ -42486,6 +42519,15 @@ entries:
   - utbildning
   web: https://navigationsakademien.com/
 
+- entry: 1232019495
+  orgName: Jönköpings Läns Bridgeförbund
+  orgNumber: 826001-2011
+  comment: null
+  categories:
+  - bridgeförbund
+  - bridgeklubb
+  web: https://www.svenskbridge.se/jönköpings-läns-bf
+
 - entry: 1232020089
   orgName: Asklanda Församling
   orgNumber: 252002-9832
@@ -51690,8 +51732,8 @@ entries:
   orgNumber: 802536-6850
   comment: null
   categories:
-  - förening
   - genealogi
+  - intresseförening
   - släktforskning
   web: https://www.snbs.se/
 
@@ -53108,11 +53150,12 @@ entries:
   web: https://www.hsb.se/skane/brf/linero-i-lund/
 
 - entry: 1232523504
-  orgName: Synskadades Riksförbund Kronoberg
+  orgName: Synskadades Riksförbund
   orgNumber: 829500-8570
-  comment: null
+  comment: Kronoberg
   categories:
   - riksförbund
+  - synnedsättning
   - synskadad
   web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/kronoberg/
 
@@ -60419,6 +60462,16 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-jonkopings-lan/samorganisationer/samorganisation-nassjo/foreningar/bodafors.html
 
+- entry: 1232856086
+  orgName: Härnösands Släkforskare
+  orgNumber: 888000-5403
+  comment: null
+  categories:
+  - genealogi
+  - intresseförening
+  - släktforskning
+  web: https://www.harnoforskare.eu/
+
 - entry: 1232857357
   orgName: Näsby-Fellingsbro församlingar
   orgNumber: 252002-1797
@@ -62455,6 +62508,16 @@ entries:
   - förening
   - intresseförening
   web: https://www.stradelangan.se/
+
+- entry: 1232957603
+  orgName: Skånes Släktforskarförbund
+  orgNumber: 846003-7149
+  comment: null
+  categories:
+  - genealogi
+  - intresseförening
+  - släktforskning
+  web: https://www.sksf.se/
 
 - entry: 1232960276
   orgName: Hammarby IF Ishockeyförening
@@ -66007,6 +66070,7 @@ entries:
   comment: null
   categories:
   - riksförbund
+  - synnedsättning
   - synskadad
   web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/skane/
 
@@ -73292,6 +73356,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/krokom
 
+- entry: 1233482833
+  orgName: Gotlands Släktforskarförening
+  orgNumber: 834001-7550
+  comment: null
+  categories:
+  - genealogi
+  - intresseförening
+  - släktforskning
+  web: https://gotlandssf.se/
+
 - entry: 1233485307
   orgName: Prostatacancerföreningen Syd
   orgNumber: 802413-9654
@@ -77265,11 +77339,14 @@ entries:
   web: https://fsbb.se/
 
 - entry: 1233669348
-  orgName: null
-  orgNumber: null
-  comment: nope
-  categories: null
-  web: null
+  orgName: Synskadades Riksförbund
+  orgNumber: 838200-8996
+  comment: Nordöstra Skåne
+  categories:
+  - riksförbund
+  - synnedsättning
+  - synskadad
+  web: https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-skane/srf-skanes-lokalforeningar/srf-nordostra-skane/
 
 - entry: 1233669892
   orgName: Ärla IF
@@ -89542,6 +89619,14 @@ entries:
   - intresseförening
   web: https://nattidskriftenvasterbotten.se/
 
+- entry: 1234293114
+  orgName: Förslövs Bridgeklubb
+  orgNumber: 802501-1746
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/förslövs-bk
+
 - entry: 1234293189
   orgName: Spårvägens BTK
   orgNumber: 802016-2437
@@ -90644,7 +90729,8 @@ entries:
   orgName: Staden på Berget
   orgNumber: 865000-7076
   comment: null
-  categories: null
+  categories:
+  - religion
   web: https://stadenpaberget.se/
 
 - entry: 1234365607
@@ -91197,6 +91283,16 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://osterang.com/
+
+- entry: 1234404323
+  orgName: Synskadades Riksförbund
+  orgNumber: 894700-9695
+  comment: Västerbotten
+  categories:
+  - riksförbund
+  - synnedsättning
+  - synskadad
+  web: https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-vasterbotten/
 
 - entry: 1234404471
   orgName: null
@@ -98415,6 +98511,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/rommele
 
+- entry: 1234759189
+  orgName: Synskadades Riksförbund
+  orgNumber: 802011-3760
+  comment: Stockholm Gotland
+  categories:
+  - riksförbund
+  - synnedsättning
+  - synskadad
+  web: https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-stockholm-gotland/
+
 - entry: 1234759817
   orgName: SPF Seniorerna Kvarnen
   orgNumber: 849201-6418
@@ -98738,6 +98844,16 @@ entries:
   - hundklubb
   - hunduppfödning
   web: https://mopsorden.se/
+
+- entry: 1234780573
+  orgName: Synskadades Riksförbund
+  orgNumber: 812800-3723
+  comment: Huddinge
+  categories:
+  - riksförbund
+  - synnedsättning
+  - synskadad
+  web: https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-stockholm-gotland/lokalforeningar/srf-huddinge/
 
 - entry: 1234781571
   orgName: Kungshaga 4H
@@ -99420,11 +99536,12 @@ entries:
   web: https://www.mutomoprojekten.se/
 
 - entry: 1234831129
-  orgName: DIS-FILBYTER, Datorhjälp i Släktforskningen
+  orgName: DIS-Filbyter, Datorhjälp i Släktforskningen
   orgNumber: 802435-6209
   comment: null
   categories:
   - genealogi
+  - intresseförening
   - släktforskning
   web: https://dis-filbyter.se/
 
@@ -108419,6 +108536,7 @@ entries:
   comment: null
   categories:
   - parasport
+  - synnedsättning
   - synskadad
   web: https://www.fsbu.org/
 
@@ -112400,6 +112518,14 @@ entries:
   - hästsport
   web: https://www.morganhorse.se/
 
+- entry: 1235445648
+  orgName: Slite Intresseförening
+  orgNumber: 834001-3310
+  comment: null
+  categories:
+  - intresseförening
+  web: https://slite.nu/
+
 - entry: 1235446026
   orgName: IFK Lindesberg
   orgNumber: 877100-1032
@@ -112828,6 +112954,16 @@ entries:
   categories:
   - scoutkår
   web: https://www.drakarna.se/
+
+- entry: 1235459660
+  orgName: Synskadades Riksförbund
+  orgNumber: 843001-0119
+  comment: Västra Skåne
+  categories:
+  - riksförbund
+  - synnedsättning
+  - synskadad
+  web: https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-skane/srf-skanes-lokalforeningar/srf-vastra-skane/
 
 - entry: 1235463153
   orgName: SPF Seniorerna Färingtofta
@@ -118699,6 +118835,7 @@ entries:
   comment: null
   categories:
   - genealogi
+  - intresseförening
   - släktforskning
   web: https://anhedenslaktforskare.com/
 
@@ -133337,6 +133474,16 @@ entries:
   - båtsällskap
   web: https://www.frosundaviken.com/
 
+- entry: 1236441158
+  orgName: Synskadades Riksförbund
+  orgNumber: 802008-2700
+  comment: Stockholm Stad
+  categories:
+  - riksförbund
+  - synnedsättning
+  - synskadad
+  web: https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-stockholm-gotland/lokalforeningar/srf-stockholms-stad/
+
 - entry: 1236441182
   orgName: Vingåkers Hundklubb
   orgNumber: 802416-9438
@@ -134404,6 +134551,7 @@ entries:
   comment: null
   categories:
   - riksförbund
+  - synnedsättning
   - synskadad
   web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/bohuslan/
 
@@ -135989,8 +136137,8 @@ entries:
   orgNumber: 849202-3471
   comment: null
   categories:
-  - förening
   - genealogi
+  - intresseförening
   - släktforskning
   web: https://www.hallandsslaktforskare.se/
 
@@ -138713,6 +138861,7 @@ entries:
   comment: null
   categories:
   - riksförbund
+  - synnedsättning
   - synskadad
   web: https://www.srf.nu/om-oss/distrikt-och-lokalforeningar/boras/
 
@@ -143765,6 +143914,14 @@ entries:
   - podcast
   web: https://www.nickalinia.se/
 
+- entry: 1236921886
+  orgName: Sala Bridgesällskap
+  orgNumber: 802552-2403
+  comment: null
+  categories:
+  - bridgeklubb
+  web: https://www.svenskbridge.se/sala-bs
+
 - entry: 1236922611
   orgName: Brännalts Gård AB
   orgNumber: 556286-2200
@@ -145264,6 +145421,8 @@ entries:
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
+  - synnedsättning
+  - synskadad
   web: https://www.srf.nu/
 
 - entry: 1239000068
@@ -145848,6 +146007,8 @@ entries:
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
+  - synnedsättning
+  - synskadad
   - välgörenhet
   web: https://www.srf.nu/
 
@@ -146803,6 +146964,8 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   - riksförbund
+  - synnedsättning
+  - synskadad
   web: https://www.srf.nu/
 
 - entry: 1239002122
@@ -147723,6 +147886,8 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - synnedsättning
+  - synskadad
   web: https://www.synskadadesstiftelse.se/
 
 - entry: 1239003278
@@ -148512,6 +148677,8 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   - overifierad
+  - synnedsättning
+  - synskadad
   web: https://www.srf.nu/
 
 - entry: 1239004359
@@ -151233,6 +151400,8 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   - riksförbund
+  - synnedsättning
+  - synskadad
   web: https://www.srf.nu/
 
 - entry: 1239007923
@@ -151710,6 +151879,8 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
+  - synnedsättning
+  - synskadad
   - välgörenhet
   web: https://www.aktivasynskadade.org/
 
@@ -151824,6 +151995,8 @@ entries:
   categories:
   - funktionsnedsättning
   - insamlingskontroll
+  - synnedsättning
+  - synskadad
   web: https://www.aktivasynskadade.org/
 
 - entry: 1239009796
