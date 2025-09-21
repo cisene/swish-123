@@ -13341,6 +13341,7 @@ entries:
   categories:
   - biodlareförening
   - biodling
+  - naturbruk
   web: https://www.tomelillabiodlarforening.se/
 
 - entry: 1230642272
@@ -19277,6 +19278,16 @@ entries:
   - golfklubb
   web: https://www.oresundsgk.se/
 
+- entry: 1230904870
+  orgName: Ersboda 4H-gård
+  orgNumber: 802514-3051
+  comment: null
+  categories:
+  - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
+  web: https://www.4h.se/ersboda/
+
 - entry: 1230905307
   orgName: Kaizenkan IF
   orgNumber: 802504-2600
@@ -21471,6 +21482,16 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-umea/foreningar/teg.html
+
+- entry: 1230991745
+  orgName: Tånga Heds 4H
+  orgNumber: 855900-8514
+  comment: null
+  categories:
+  - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
+  web: https://www.4h.se/tangahed/
 
 - entry: 1230991943
   orgName: Jakobsbergs IBF
@@ -23913,6 +23934,16 @@ entries:
   - hälsa
   - idrottsförening
   web: https://www.friskissvettis.se/harnosand
+
+- entry: 1231123520
+  orgName: Karlstad 4H-gård
+  orgNumber: 873200-6724
+  comment: null
+  categories:
+  - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
+  web: https://www.4h.se/karlstad/
 
 - entry: 1231123645
   orgName: Frivilliga Insatser vid Kris och Katastrof - FIKK Sweden
@@ -29670,6 +29701,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/nattrabyhasslo
 
+- entry: 1231386507
+  orgName: Björkmuren 4H-gård / Naturhjältarnas 4H-klubb
+  orgNumber: 802471-0264
+  comment: null
+  categories:
+  - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
+  web: https://www.4h.se/naturhjaltarna/bjorkmuren/
+
 - entry: 1231388164
   orgName: Adventkyrkan i Linköping
   orgNumber: 822002-9667
@@ -31160,6 +31201,16 @@ entries:
   - patientförening
   - reumatikerförening
   web: https://ljusdal.reumatiker.se/
+
+- entry: 1231475482
+  orgName: Stora Skuggans 4H-gård
+  orgNumber: 802403-7742
+  comment: null
+  categories:
+  - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
+  web: https://storaskuggans4hgard.se/
 
 - entry: 1231475516
   orgName: Pingstförsamlingen Hedemora
@@ -32697,6 +32748,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/IFKArvidsjaurDam/
+
+- entry: 1231532258
+  orgName: Koloniträdgårdsföreningens Gubbkärret
+  orgNumber: 802452-1695
+  comment: null
+  categories:
+  - koloniträdgårdsförening
+  web: https://www.gubbkarret.se/
 
 - entry: 1231533363
   orgName: Blue Circle / NSG Sweden AB
@@ -39836,11 +39895,14 @@ entries:
   web: https://www.kvinnojourenvallentuna.se/
 
 - entry: 1231882976
-  orgName: null
-  orgNumber: null
+  orgName: Studiefrämjandet Sörmland
+  orgNumber: 819000-5366
   comment: null
-  categories: null
-  web: null
+  categories:
+  - kurser
+  - studiecirklar
+  - studieförbund
+  web: https://www.studieframjandet.se/
 
 - entry: 1231883248
   orgName: Supporterhuset
@@ -43671,6 +43733,15 @@ entries:
   - snöskoterklubb
   web: https://bmcc.klubbenonline.se/
 
+- entry: 1232086809
+  orgName: Klockars Potatis / Johan Danielsson
+  orgNumber: 800311-XXXX
+  comment: null
+  categories:
+  - gårdsförsäljning
+  - lantbruk
+  web: https://dalamat.se/bransch/potatis/
+
 - entry: 1232088169
   orgName: Lugnås-Ullervads Pastorat
   orgNumber: 252004-3080
@@ -46997,8 +47068,8 @@ entries:
   comment: null
   categories:
   - 4hklubb
-  - djurvård
-  - utbildning
+  - barnverksamhet
+  - ungdomsverksamhet
   web: https://www.4h.se/stattared/
 
 - entry: 1232222438
@@ -47626,6 +47697,16 @@ entries:
   - fotoförening
   - fotoklubb
   web: https://www.gagnefsfotoklubb.se/
+
+- entry: 1232244267
+  orgName: Malmö 4H-krets
+  orgNumber: 846004-0275
+  comment: null
+  categories:
+  - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
+  web: https://www.4h.se/almvik/
 
 - entry: 1232244465
   orgName: Åtvidabergs Hundklubb
@@ -58282,6 +58363,15 @@ entries:
   - djurvård
   web: https://www.facebook.com/groups/124214417753095
 
+- entry: 1232754059
+  orgName: Stenungsunds Biodlareförening
+  orgNumber: 853300-8812
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  web: https://stenungsundsbi.se/
+
 - entry: 1232754638
   orgName: Ölsjöns kropp och hälsa / Marie Westin
   orgNumber: 701215-XXXX
@@ -60477,6 +60567,7 @@ entries:
   categories:
   - biodlareförening
   - biodling
+  - naturbruk
   web: https://www.ribiof.com/
 
 - entry: 1232849859
@@ -63541,6 +63632,7 @@ entries:
   comment: null
   categories:
   - jordbruk
+  - lantbruk
   - vinterförvaring
   web: https://www.rosenborgsgard.nu/
 
@@ -65546,6 +65638,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/askim
+
+- entry: 1233110822
+  orgName: Rock mot Cancer i Hjo
+  orgNumber: 802507-3381
+  comment: null
+  categories:
+  - cancerforskning
+  - insamling
+  - musikförening
+  web: https://www.rmchjo.com/
 
 - entry: 1233111242
   orgName: Vita Hästen
@@ -67752,6 +67854,14 @@ entries:
   - cykelklubb
   - idrottsförening
   web: https://www.laget.se/HassleholmsCK/
+
+- entry: 1233212859
+  orgName: Hallands Länsförbund av 4H
+  orgNumber: 849600-2638
+  comment: null
+  categories:
+  - 4hklubb
+  web: https://www.4h.se/halland/
 
 - entry: 1233212925
   orgName: Svenska Baseboll-, Softboll- och Lacrosseförbundet
@@ -75233,6 +75343,17 @@ entries:
   - sportfiske
   web: https://smbtrolling.blogspot.com/
 
+- entry: 1233554433
+  orgName: Marsbäckens Friluftsgård / Stiftelsen Marsbäcken
+  orgNumber: null
+  comment: null
+  categories:
+  - friluftsliv
+  - logi
+  - stiftelse
+  - vandrarhem
+  web: https://www.marsbacken.com/
+
 - entry: 1233554763
   orgName: Bostadsrättsföreningen Nolered
   orgNumber: 757202-6008
@@ -75529,6 +75650,7 @@ entries:
   categories:
   - biodlareförening
   - biodling
+  - naturbruk
   web: https://www.hakarpsbin.se/
 
 - entry: 1233569894
@@ -79147,11 +79269,13 @@ entries:
   web: https://www.svenskalag.se/hbgkk
 
 - entry: 1233771565
-  orgName: Björkö 4H-klubb, Linköpingskretsen
+  orgName: Björkö 4H-klubb
   orgNumber: 822001-0790
-  comment: null
+  comment: Linköpingskretsen
   categories:
   - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
   web: https://www.4h.se/bjorko/
 
 - entry: 1233771656
@@ -79267,6 +79391,16 @@ entries:
   categories:
   - samfällighetsförening
   web: https://www.roslatt3.se/
+
+- entry: 1233781606
+  orgName: Almviks 4H-klubb
+  orgNumber: 846001-6960
+  comment: null
+  categories:
+  - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
+  web: https://www.4h.se/almvik/
 
 - entry: 1233781614
   orgName: Kvinnojouren Iris i Luleå
@@ -82691,6 +82825,14 @@ entries:
   - restaurant
   web: https://www.hamnkafeet.se/
 
+- entry: 1233940152
+  orgName: Västra Götalands distrikt av 4H
+  orgNumber: 864500-8304
+  comment: null
+  categories:
+  - 4hklubb
+  web: https://www.4h.se/vastragotaland/
+
 - entry: 1233940178
   orgName: Lomma Scoutkår
   orgNumber: 846001-3108
@@ -85371,6 +85513,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/staffan/hemlingby-kyrka
+
+- entry: 1234079281
+  orgName: Bellevues Ponnyridklubb
+  orgNumber: 802531-0205
+  comment: null
+  categories:
+  - ponnyklubb
+  - ridklubb
+  - ridskola
+  web: https://www.bellevuesprk.com/
 
 - entry: 1234079794
   orgName: Friluftsfrämjandet Hudiksvall
@@ -90823,6 +90975,17 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/aneby
 
+- entry: 1234362984
+  orgName: Almgrens Bigård / Jeanette Almgren
+  orgNumber: 721119-XXXX
+  comment: null
+  categories:
+  - biodling
+  - försäljning
+  - gårdsförsäljning
+  - naturbruk
+  web: https://www.almgrensbigard.se/
+
 - entry: 1234363883
   orgName: Föreningen Autisterna
   orgNumber: 802534-2125
@@ -92305,6 +92468,19 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.hammarbyhockey.se/
+
+- entry: 1234432845
+  orgName: Murboannas Ost / Mats Reyier
+  orgNumber: 671106-XXXX
+  comment: Murbogram
+  categories:
+  - café
+  - mejeri
+  - ostogram
+  - ostproduktion
+  - presentkort
+  - restaurant
+  web: https://www.murboannas.se/
 
 - entry: 1234433389
   orgName: Gullspångs Skytteförening
@@ -98977,6 +99153,8 @@ entries:
   comment: null
   categories:
   - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
   web: https://www.4h.se/kungshaga/
 
 - entry: 1234781826
@@ -110989,6 +111167,16 @@ entries:
   - renovering
   web: https://lahtigroup.se/
 
+- entry: 1235382411
+  orgName: Västerviks biodlarförening
+  orgNumber: 802444-0417
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://www.biforening.se/
+
 - entry: 1235382502
   orgName: Enkla Ting Vallåkra AB
   orgNumber: 559021-0950
@@ -112293,8 +112481,8 @@ entries:
   comment: null
   categories:
   - 4hklubb
-  - djurvård
-  - utbildning
+  - barnverksamhet
+  - ungdomsverksamhet
   web: https://www.4h.se/hagelby/
 
 - entry: 1235432190
@@ -118792,6 +118980,8 @@ entries:
   comment: null
   categories:
   - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
   web: https://www.4h.se/farsna/
 
 - entry: 1235715230
@@ -119152,6 +119342,7 @@ entries:
   categories:
   - biodlareförening
   - biodling
+  - naturbruk
   web: https://osteraker.biodlarna.se/
 
 - entry: 1235742937
@@ -122016,7 +122207,9 @@ entries:
   comment: null
   categories:
   - 4hklubb
+  - barnverksamhet
   - ridklubb
+  - ungdomsverksamhet
   web: https://www.vissmalen.se/
 
 - entry: 1235885538
@@ -122175,6 +122368,16 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: https://www.amot.nu/f%C3%B6reningar/%C3%A5mots-skidklubb
+
+- entry: 1235893433
+  orgName: Bjäre Biodlare Förening
+  orgNumber: 802525-2662
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://bjarebiodlareforening.se/
 
 - entry: 1235893482
   orgName: Oskarshamns Boxningsklubb
@@ -123472,8 +123675,8 @@ entries:
   comment: null
   categories:
   - 4hklubb
-  - djurvård
-  - utbildning
+  - barnverksamhet
+  - ungdomsverksamhet
   web: https://www.4h.se/eolshall/
 
 - entry: 1235949615
@@ -127922,6 +128125,15 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/KinnaIBK/
 
+- entry: 1236161517
+  orgName: Norregårdens Fågelfrö / Fredrik Ohlsson
+  orgNumber: 750429-XXXX
+  comment: null
+  categories:
+  - gårdsförsäljning
+  - lantbruk
+  web: https://norregarden.se/
+
 - entry: 1236161640
   orgName: Nordlund Sports AB
   orgNumber: 559015-2830
@@ -129483,6 +129695,17 @@ entries:
   - kampsportsförening
   web: https://www.vallentunajudo.se/
 
+- entry: 1236234033
+  orgName: Melipona AB
+  orgNumber: 559253-3847
+  comment: null
+  categories:
+  - konferens
+  - kurser
+  - logi
+  - retreat
+  web: https://melipona.se/
+
 - entry: 1236234447
   orgName: Shogun Shitoryu-Shukokai Karateklubb
   orgNumber: 802528-3659
@@ -130038,6 +130261,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/lycksele
+
+- entry: 1236259956
+  orgName: Morö Backe 4H-klubb
+  orgNumber: 894701-9504
+  comment: null
+  categories:
+  - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
+  web: https://www.4h.se/morobacke/
 
 - entry: 1236260525
   orgName: Nytänk I Alunda Ekonomiska förening
@@ -138388,8 +138621,8 @@ entries:
   comment: null
   categories:
   - 4hklubb
-  - djurvård
-  - utbildning
+  - barnverksamhet
+  - ungdomsverksamhet
   web: https://www.4h.se/naturhjaltarna/
 
 - entry: 1236675730
@@ -139598,6 +139831,14 @@ entries:
   - idrottsförening
   web: https://skarahk.sportadmin.se/
 
+- entry: 1236718076
+  orgName: Borns Bryggeri AB
+  orgNumber: 559061-8285
+  comment: null
+  categories:
+  - bryggeri
+  web: https://www.facebook.com/bornsbryggeri/
+
 - entry: 1236718365
   orgName: Lindesbergs Hembygdsförening
   orgNumber: 877100-1750
@@ -139913,6 +140154,7 @@ entries:
   categories:
   - biodlareförening
   - biodling
+  - naturbruk
   web: http://www.olandsbiodlarforening.se/
 
 - entry: 1236736441
@@ -142407,6 +142649,16 @@ entries:
   - mediaproduktion
   - utbildning
   web: https://www.blåugglan.se/
+
+- entry: 1236842439
+  orgName: Mölnlycke Biodlarförening
+  orgNumber: 857210-1197
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  - naturbruk
+  web: https://www.molnlyckebiodlare.se/
 
 - entry: 1236842587
   orgName: SM i Flipper / Rokku AB

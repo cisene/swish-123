@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-20-rev-194720
+Revision: 2025-09-21-rev-180346
 
-Nummer: 16511
+Nummer: 16535
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1636,6 +1636,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Almgrens Bigård / Jeanette Almgren**
+
+    123 436 29 84
+
+
+
+
 **Almo BK**
 
     123 082 08 11
@@ -1664,6 +1671,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Almunge Bygdegårdsförening HV**
 
     123 345 47 90
+
+
+
+
+**Almviks 4H-klubb**
+
+    123 378 16 06
 
 
 
@@ -4607,6 +4621,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bellevues Ponnyridklubb**
+
+    123 407 92 81
+
+
+
+
 **Bellö Samhällsförening**
 
     123 628 22 14
@@ -5514,6 +5535,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bjäre Biodlare Förening**
+
+    123 589 34 33
+
+
+
+
 **Bjäre BS**
 
     123 690 57 98
@@ -5708,6 +5736,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Björkmuren 4H-gård / Naturhjältarnas 4H-klubb**
+
+    123 138 65 07
+
+
+
+
 **Björknä Kennel / Arne Persson**
 
     123 019 99 92
@@ -5754,9 +5789,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Björkö 4H-klubb, Linköpingskretsen**
+**Björkö 4H-klubb**
 
-    123 377 15 65
+    123 377 15 65 - Linköpingskretsen
 
 
 
@@ -7179,6 +7214,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Borlänge Tunabygdens Konstförening**
 
     123 380 61 22
+
+
+
+
+**Borns Bryggeri AB**
+
+    123 671 80 76
 
 
 
@@ -17562,6 +17604,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ernst Westerlundsällskapet**
 
     123 571 68 16
+
+
+
+
+**Ersboda 4H-gård**
+
+    123 090 48 70
 
 
 
@@ -28277,6 +28326,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hallands Kennelklubb**
 
     123 114 09 38
+
+
+
+
+**Hallands Länsförbund av 4H**
+
+    123 321 28 59
 
 
 
@@ -39633,6 +39689,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Karlstad 4H-gård**
+
+    123 112 35 20
+
+
+
+
 **Karlstad Brukshundsklubb**
 
     123 240 88 54
@@ -41157,6 +41220,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Klockars Potatis / Johan Danielsson**
+
+    123 208 68 09
+
+
+
+
 **Klockestrands Båtklubb, KLBK**
 
     123 593 45 91
@@ -41514,6 +41584,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kollektivhusföreningen Södra station**
 
     123 133 38 55
+
+
+
+
+**Koloniträdgårdsföreningens Gubbkärret**
+
+    123 153 22 58
 
 
 
@@ -49957,6 +50034,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malmö 4H-krets**
+
+    123 224 42 67
+
+
+
+
 **Malmö Bastugille**
 
     123 261 65 71
@@ -51207,6 +51291,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Melipona AB**
+
+    123 623 40 33
+
+
+
+
 **Melissafonden insamlingsstiftelse**
 
     123 901 98 11
@@ -52224,6 +52315,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Morö Backe 4H-klubb**
+
+    123 625 99 56
+
+
+
+
 **Moshults Vandrarhem / Leif Berglund**
 
     123 511 26 93
@@ -52880,6 +52978,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Murboannas Ost / Mats Reyier**
+
+    123 443 28 45 - Murbogram
+
+
+
+
 **Museiföreningen Gefle-Dala Jernväg, MfGDJ**
 
     123 549 89 28
@@ -53506,6 +53611,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Mölndals Stad**
 
     123 646 84 25 - Lärcentrum
+
+
+
+
+**Mölnlycke Biodlarförening**
+
+    123 684 24 39
 
 
 
@@ -55310,6 +55422,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Norrbärke SK Alpin**
 
     123 621 60 22
+
+
+
+
+**Norregårdens Fågelfrö / Fredrik Ohlsson**
+
+    123 616 15 17
 
 
 
@@ -64068,6 +64187,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Robertsfors Skyttesportförening**
 
     123 277 82 31
+
+
+
+
+**Rock mot Cancer i Hjo**
+
+    123 311 08 22
 
 
 
@@ -74781,6 +74907,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stenungsunds Biodlareförening**
+
+    123 275 40 59
+
+
+
+
 **Stenungsunds BK**
 
     123 130 36 35
@@ -76555,6 +76688,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stora Skuggans 4H-gård**
+
+    123 147 54 82
+
+
+
+
 **Stora Tolvsbo Jaktskytteklubb**
 
     123 029 91 31
@@ -77284,6 +77424,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Studentkåren vid Johannelunds Teologiska Högskola**
 
     123 024 18 51
+
+
+
+
+**Studiefrämjandet Sörmland**
+
+    123 188 29 76
 
 
 
@@ -88554,6 +88701,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tånga Heds 4H**
+
+    123 099 17 45
+
+
+
+
 **Tåsjö IF**
 
     123 085 15 84
@@ -94010,6 +94164,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västerviks biodlarförening**
+
+    123 538 24 11
+
+
+
+
 **Västerviks Brukshundsklubb**
 
     123 231 45 24
@@ -94637,6 +94798,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 515 20 95
 
     123 682 73 15 - Konståkning
+
+
+
+
+**Västra Götalands distrikt av 4H**
+
+    123 394 01 52
 
 
 
