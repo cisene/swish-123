@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-21-rev-184244
+Revision: 2025-09-21-rev-194331
 
-Nummer: 16541
+Nummer: 16544
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -11565,6 +11565,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Caritas S:t Olof**
+
+    123 584 34 46
+
+
+
+
 **Carl Johans Pastorat**
 
     123 664 93 62 - Teckenspråkig verksamhet
@@ -20472,6 +20479,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Folkärna Ridsällskap**
 
     123 130 09 46
+
+
+
+
+**Fonden för Arjeplogs Ungdom**
+
+    123 363 10 25
 
 
 
@@ -62499,6 +62513,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Raoul Wallenberg Academy for Young Leaders Insamlingsstiftelse**
 
     123 900 47 06
+
+
+
+
+**Rapha Mission**
+
+    123 571 20 62
 
 
 

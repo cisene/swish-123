@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-09-21-rev-184214
+# Date: 2025-09-21-rev-194302
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -8496,6 +8496,7 @@
 "1233630753","559004-1835","Albion Nordic AB","https://albionnordic.com/","distribution,grossistfirma,inomhusklimat",""
 "1233630779","818001-3032","SPF Seniorerna Eskilstuna","https://www.spfseniorerna.se/distrikt/sormland/foreningslista/eskilstuna/","pensionärsklubb",""
 "1233631017","660324-XXXX","Helhetens Kraft / Katharina Johansson","https://www.helhetenskraft.com/","medium,seans,spiritualism",""
+"1233631025","899100-1168","Fonden för Arjeplogs Ungdom","","minnesfond",""
 "1233631421","252003-8874","Södra Ölands Pastorat","https://www.svenskakyrkan.se/sodraoland","religion","Gårdby Kyrka"
 "1233631512","874000-8597","MK Ratten","https://www.mkratten.se/","motorklubb,motorsport",""
 "1233631801","894702-1815","SPF Seniorerna Guldstaden Skellefteå","https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/guldstaden/","pensionärsklubb",""
@@ -13142,6 +13143,7 @@
 "1235709357","875003-1976","Rotary Lindesberg","https://lindesberg.rotary2335.se/","rotaryklubb",""
 "1235709696","559029-6447","Susedalens Hälsocenter / Susedalen Health & Consulting AB","https://www.susedalenshalsocenter.com/","friskvård,hälsa,motionsklubb",""
 "1235709902","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Göteborg, Friskolan Kvarnhjulet"
+"1235712062","867800-7694","Rapha Mission","","minnesfond",""
 "1235712708","802544-7718","Johanneshovs Fotbollsförening","https://www.johanneshovs-ff.se/","fotbollsklubb,idrottsförening",""
 "1235714563","866600-1881","Pingstkyrkan i Stöpen / Stöpen Sionförsamlingen","https://www.stopenpingst.se/","religion",""
 "1235714589","832400-8674","Kammarmusikföreningen i Kalmar","https://kammarmusikforeningenikalmar.se/","kammarmusik,kammarmusikförening,musikförening",""
@@ -13420,6 +13422,7 @@
 "1235843107","817605-3588","Övre Jumkil Bygdegårdsförening","https://bygdegardarna.se/ovre-jumkil/","bygdegårdsförening",""
 "1235843248","876400-0355","Pingstkyrkan Degerfors","https://degerfors.pingst.se/","religion","Missionskassan"
 "1235843271","837600-7095","Rotary Åstorp","https://rotary2400.se/clubinfo/astorp-13274","rotaryklubb",""
+"1235843446","889202-8120","Caritas S:t Olof","https://sanktolofsforsamling.se/caritas-st-olof/","religion",""
 "1235843750","802443-9724","Västra Husby Hembygdsförening","https://www.hembygd.se/v-stra-husby-hembygdsf-rening","hembygdsförening",""
 "1235843909","837000-8263","Sösdalaortens Lantliga Ryttarförening","https://www.svenskalag.se/sosdalaortensrf","hästsport,ridklubb,ryttarförening,ryttarsällskap",""
 "1235846050","252003-8890","Umeå Pastorat","https://www.svenskakyrkan.se/umea","religion","Diakonala arbetet"
