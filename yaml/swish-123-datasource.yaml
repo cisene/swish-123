@@ -2699,6 +2699,15 @@ entries:
   - intresseförening
   web: https://www.oxyboost-o2sweden.com/
 
+- entry: 1230146662
+  orgName: Centrum Orienteringsklubb
+  orgNumber: 802435-1507
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.centrumok.se/
+
 - entry: 1230148510
   orgName: Dalarnas Dövas Pensionärsklubb
   orgNumber: 802536-7213
@@ -3167,7 +3176,7 @@ entries:
   - hästsport
   - ponnyklubb
   - ridklubb
-  web: https://www.facebook.com/hudiksvallsridochponnyklubb/
+  web: https://www.hrpk.se/
 
 - entry: 1230182931
   orgName: A & A Träning AB
@@ -3885,6 +3894,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
+  - orienteringsklubb
   web: https://www.langhundraif.net/
 
 - entry: 1230207399
@@ -29710,6 +29720,16 @@ entries:
   - bostadsrättsförening
   web: https://www.ugnen.se/
 
+- entry: 1231426014
+  orgName: Röbäcks 4H-gård
+  orgNumber: 802506-3119
+  comment: null
+  categories:
+  - 4hklubb
+  - barnverksamhet
+  - ungdomsverksamhet
+  web: https://robacks4h.se/
+
 - entry: 1231428234
   orgName: Assoraya / Kicki Jörgensen
   orgNumber: 610812-XXXX
@@ -47477,6 +47497,15 @@ entries:
   - bygdegårdsförening
   web: https://societetshusetoregrund.se/
 
+- entry: 1232260248
+  orgName: Obygdens Orienteringsklubb
+  orgNumber: 802519-0292
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://obygdens.se/
+
 - entry: 1232260412
   orgName: Gerdsken BK
   orgNumber: 864000-0793
@@ -61885,6 +61914,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
+  - orienteringsklubb
   web: https://www.svenskalag.se/eif
 
 - entry: 1232966745
@@ -80465,6 +80495,16 @@ entries:
   - idrottsförening
   web: https://www.ikfrisco.se/
 
+- entry: 1233884129
+  orgName: Gävle Ponnyklubb
+  orgNumber: 885001-6554
+  comment: null
+  categories:
+  - hästsport
+  - ponnyklubb
+  - ridklubb
+  web: https://www.gavleponnyklubb.com/
+
 - entry: 1233884285
   orgName: Piteå IF Orienteringsklubb - Orientering
   orgNumber: 802505-5495
@@ -85057,6 +85097,15 @@ entries:
   categories:
   - religion
   web: https://www.pingstmellanbygden.se/
+
+- entry: 1234125522
+  orgName: Järla IFS Orienteringsklubb
+  orgNumber: 814000-0202
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.jarla.com/
 
 - entry: 1234125902
   orgName: Källstorps Församling
@@ -134541,6 +134590,17 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/norrala-trono
+
+- entry: 1236550727
+  orgName: Ridhusbolaget Svedens Gård
+  orgNumber: 556713-9828
+  comment: null
+  categories:
+  - hästsport
+  - ridhus
+  - ridskola
+  - ridsport
+  web: https://www.svedens.se/
 
 - entry: 1236552780
   orgName: Hallands Släktforskarförening

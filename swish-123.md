@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-21-rev-180346
+Revision: 2025-09-21-rev-184244
 
-Nummer: 16535
+Nummer: 16541
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -11766,6 +11766,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Centrum För Urbankonst, CFUK**
 
     123 404 28 91
+
+
+
+
+**Centrum Orienteringsklubb**
+
+    123 014 66 62
 
 
 
@@ -27510,6 +27517,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gävle Ponnyklubb**
+
+    123 388 41 29
+
+
+
+
 **Gävle Ryttarsällskap**
 
     123 123 75 51
@@ -37355,6 +37369,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ja Aktiv Häst / Jill Andersson**
 
     123 024 01 01
+
+
+
+
+**Järla IFS Orienteringsklubb**
+
+    123 412 55 22
 
 
 
@@ -56909,6 +56930,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Obygdens Orienteringsklubb**
+
+    123 226 02 48
+
+
+
+
 **OCD-föreningen Göteborgsregionen**
 
     123 252 53 84
@@ -63368,6 +63396,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ridhusbolaget Svedens Gård**
+
+    123 655 07 27
+
+
+
+
 **Ridklubben Norrtälje Ryttare**
 
     123 034 58 01
@@ -66422,6 +66457,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rö IK**
 
     123 230 42 44 - Herrar
+
+
+
+
+**Röbäcks 4H-gård**
+
+    123 142 60 14
 
 
 
