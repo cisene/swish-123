@@ -26202,6 +26202,14 @@ entries:
   - simsällskap
   web: https://sjoboss.se/
 
+- entry: 1231224500
+  orgName: Föreningen INTE 1 BARN TILL
+  orgNumber: 802535-3551
+  comment: null
+  categories:
+  - barnrättsorganisation
+  web: https://www.inte1barntill.se/
+
 - entry: 1231224534
   orgName: Älvkarleby Golfklubb
   orgNumber: 817301-1860
@@ -30816,11 +30824,12 @@ entries:
   web: https://kode.scout.se/
 
 - entry: 1231461680
-  orgName: null
-  orgNumber: null
+  orgName: Tofthaga Förskola
+  orgNumber: 716403-5912
   comment: null
-  categories: null
-  web: null
+  categories:
+  - förskola
+  web: http://www.tofthaga.se/
 
 - entry: 1231461714
   orgName: Norrfjärdens Församling
@@ -46031,6 +46040,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vaxholm
+
+- entry: 1232183143
+  orgName: Hagshults Missionsförsamling
+  orgNumber: 828000-0913
+  comment: Församling servering
+  categories:
+  - religion
+  web: https://www.hagshult.com/
 
 - entry: 1232183150
   orgName: Västerledskyrkans Församling
@@ -77562,6 +77579,14 @@ entries:
   - stuguthyrning
   web: https://www.kronogard.com/
 
+- entry: 1233666294
+  orgName: B.A.R.N. I Barnets Bästa Alltid
+  orgNumber: 802532-8306
+  comment: null
+  categories:
+  - barnrättsorganisation
+  web: https://www.inte1barntill.se/
+
 - entry: 1233666781
   orgName: Vuojatvägens Vägsamfällighetsförening
   orgNumber: 717920-7209
@@ -83327,6 +83352,14 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.sigtunaifinnebandy.se/
+
+- entry: 1233952249
+  orgName: Hagshults Missionsförsamling
+  orgNumber: 828000-0913
+  comment: Församling insamling
+  categories:
+  - religion
+  web: https://www.hagshult.com/
 
 - entry: 1233952272
   orgName: Gimo Ridklubb
@@ -109391,11 +109424,12 @@ entries:
   web: https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/vastra-gotalands-lan/lerum/
 
 - entry: 1235284203
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Hagshults Missionsförsamling
+  orgNumber: 828000-0913
+  comment: Barn-och ungdomsföreningen
+  categories:
+  - religion
+  web: https://www.hagshult.com/
 
 - entry: 1235284385
   orgName: Lagg & Hoj AB

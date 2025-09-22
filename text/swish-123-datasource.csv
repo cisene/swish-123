@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-09-21-rev-194302
+# Date: 2025-09-22-rev-174657
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2905,6 +2905,7 @@
 "1231224252","252003-9260","Vadstena Pastorat","https://www.svenskakyrkan.se/vadstena","religion","Svenska Kyrkans internationella arbete"
 "1231224310","862501-1047","CK Wänershof","https://www.svenskalag.se/ckw","cykelklubb,idrottsförening,mountainbikeklubb",""
 "1231224492","848000-7965","Sjöbo Simsällskap","https://sjoboss.se/","idrottsförening,simklubb,simsällskap",""
+"1231224500","802535-3551","Föreningen INTE 1 BARN TILL","https://www.inte1barntill.se/","barnrättsorganisation",""
 "1231224534","817301-1860","Älvkarleby Golfklubb","https://www.laget.se/AlvkarlebyGK/","golfklubb,idrottsförening","Grön grupp"
 "1231224567","858501-1870","Friluftsfrämjandet Ljungskile","https://www.friluftsframjandet.se/regioner/vast/lokalavdelningar/ljungskile/","friluftsliv",""
 "1231224633","935000-6525","Fridlevstad GOIF","https://fridlevstadgoif.se/","gymnastikförening,idrottsförening",""
@@ -3415,6 +3416,7 @@
 "1231461235","660614-XXXX","Makeri 14 / Stephanie Wesslau","https://makeri14.com/","hantverk,hobbymaterial",""
 "1231461631","862500-8399","Simklubben Vänersborg","https://simklubbenvanersborg.nu/","idrottsförening,simklubb,simsällskap",""
 "1231461656","853300-7194","Kode Scoutkår","https://kode.scout.se/","scoutkår",""
+"1231461680","716403-5912","Tofthaga Förskola","http://www.tofthaga.se/","förskola",""
 "1231461714","252002-5566","Norrfjärdens Församling","https://www.svenskakyrkan.se/norrfjarden","religion","Minnestelegram"
 "1231461839","865000-5138","Kinds Brukshundklubb","https://wordpress.kindbk.com/","brukshundklubb,hundsport",""
 "1231461854","802001-5361","Hässelby Missionsförsamling","https://hasselby.com/","religion",""
@@ -5096,6 +5098,7 @@
 "1232182590","824000-1035","Heliga Hjärtas Kloster / Mariadöttrarna OSB","https://heligahjartaskloster.se/","donation,kloster,religion","gåvor till klostret"
 "1232183002","874000-4570","Torsby Ridklubb","https://torsbyridklubb.se/","hästsport,ridklubb,ridsport",""
 "1232183044","252000-0973","Vaxholms Församling","https://www.svenskakyrkan.se/vaxholm","religion","Barnverksamhet"
+"1232183143","828000-0913","Hagshults Missionsförsamling","https://www.hagshult.com/","religion","Församling servering"
 "1232183150","817000-1179","Västerledskyrkans Församling","https://vasterledskyrkan.se/","religion",""
 "1232183374","828000-5128","Åsenhöga Equmenia","https://equmeniakyrkanasenhoga.se/","religion","Insamlingar"
 "1232183424","559411-3028","Maries loge AB","https://mariesloge.weebly.com/","hundsport,hundträning",""
@@ -8579,6 +8582,7 @@
 "1233664927","857200-4904","Göteborgs Fäktklubb","https://www.goteborgsfk.se/","fäktklubb",""
 "1233664984","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Lund, Äppelgården Förskola"
 "1233665635","559123-6848","Kronogård Nord AB","https://www.kronogard.com/","camping,konferens,stuguthyrning",""
+"1233666294","802532-8306","B.A.R.N. I Barnets Bästa Alltid","https://www.inte1barntill.se/","barnrättsorganisation",""
 "1233666781","717920-7209","Vuojatvägens Vägsamfällighetsförening","https://vuojatvagen.se/","samfällighetsförening,vägförening",""
 "1233667581","559323-3090","Brukbar - Cirkulär Järnhandel i Sverige AB","https://www.brukbar.nu/","järnhandel,återbruk,återvinning",""
 "1233668027","559024-5071","Herminge Ridskola AB","https://www.hermingeridskola.se/","ridskola,utbildning",""
@@ -9216,6 +9220,7 @@
 "1233952025","836200-2381","Sölvesborgs GIF","https://www.svenskalag.se/solvesborgsgif","fotbollsklubb,idrottsförening",""
 "1233952108","252000-1831","Björklinge Församling","https://www.svenskakyrkan.se/bjorklinge","religion","Kollekt"
 "1233952124","802491-5608","Sigtuna IF Innebandy","https://www.sigtunaifinnebandy.se/","idrottsförening,innebandyklubb",""
+"1233952249","828000-0913","Hagshults Missionsförsamling","https://www.hagshult.com/","religion","Församling insamling"
 "1233952272","817300-7231","Gimo Ridklubb","https://www.laget.se/GimoRK/","hästsport,ridklubb,ridskola",""
 "1233952355","846000-3844","Hyllie Park Kyrkan","https://www.hylliepark.se/","religion",""
 "1233952397","853300-8788","Kungälvs Bowlingklubb","https://www.laget.se/kungalvsbowlingklubb/","bowlingklubb,idrottsförening",""
@@ -12092,6 +12097,7 @@
 "1235283387","862501-2219","Färgelanda Brukshundklubb","https://fargelandabhk.se/","brukshundklubb,hundsport",""
 "1235283981","817606-3173","Kulturföreningen Kilbolokalen","https://bygdegardarna.se/kilbolokalen/","bygdegårdsförening","Chillbo"
 "1235284112","866601-6509","Demensföreningen i Lerum","https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/vastra-gotalands-lan/lerum/","anhörigorganisation,patientförening",""
+"1235284203","828000-0913","Hagshults Missionsförsamling","https://www.hagshult.com/","religion","Barn-och ungdomsföreningen"
 "1235284385","559113-4605","Lagg & Hoj AB","https://lagghoj.se/","cykelsport,cykelutrustning,reparationer,skidutrustning,uthyrning",""
 "1235284518","717902-4554","Hölicks Hamns Samfällighetsförening","https://www.holickshamn.se/","hamnförening,samfällighetsförening",""
 "1235284682","875002-6653","Örebro Dövas Ungdomsklubb","https://www.facebook.com/OrebroDovasUngdomsklubb","hörselnedsättning,ungdomsverksamhet",""

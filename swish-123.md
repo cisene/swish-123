@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-21-rev-194331
+Revision: 2025-09-22-rev-174726
 
-Nummer: 16544
+Nummer: 16550
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3927,6 +3927,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 ## B
+
+**B.A.R.N. I Barnets Bästa Alltid**
+
+    123 366 62 94
+
+
+
 
 **BACHO Museet / J P Johansson-Sällskapet**
 
@@ -23449,6 +23456,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen INTE 1 BARN TILL**
+
+    123 122 45 00
+
+
+
+
 **Föreningen Interkultur i Lund**
 
     123 004 34 06 - Anatolia - Turkisk sektion
@@ -28299,6 +28313,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hagge Byalag**
 
     123 441 82 16
+
+
+
+
+**Hagshults Missionsförsamling**
+
+    123 218 31 43 - Församling servering
+
+    123 395 22 49 - Församling insamling
+
+    123 528 42 03 - Barn-och ungdomsföreningen
 
 
 
@@ -86699,6 +86724,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 190 75 67
 
     123 670 63 86
+
+
+
+
+**Tofthaga Förskola**
+
+    123 146 16 80
 
 
 
