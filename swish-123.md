@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-22-rev-174726
+Revision: 2025-09-22-rev-211537
 
-Nummer: 16550
+Nummer: 16566
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -4134,6 +4134,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bankeryds Missionsförsamling**
+
+    123 459 46 51
+
+
+
+
 **Bankeryds Scoutkår**
 
     123 658 34 13
@@ -4861,6 +4868,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bergslagsbygdens Ryttarförening**
 
     123 012 56 66
+
+
+
+
+**Bergslagskattens Katthem**
+
+    123 176 48 44
 
 
 
@@ -9559,6 +9573,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Breanäs Missionsgård**
 
+    123 643 12 41
+
     123 653 79 22
 
 
@@ -12246,6 +12262,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Citykyrkan i Stockholm**
 
     123 457 27 07
+
+
+
+
+**Citykyrkans Älmhult**
+
+    123 381 76 24 - Missionsarbete
+
+    123 539 99 77
 
 
 
@@ -17247,6 +17272,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Equmeniakyrkan Floda**
+
+    123 465 35 07
+
+
+
+
 **Equmeniakyrkan Gotland, Snäckan**
 
     123 580 89 02
@@ -17551,6 +17583,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Equmeniakyrkan Östervallskog**
 
     123 006 38 59
+
+
+
+
+**Equmeniascout Gislaved**
+
+    123 598 17 09
 
 
 
@@ -23618,6 +23657,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen Kvickbadhuset Höganäs**
 
     123 344 18 39
+
+
+
+
+**Föreningen Kviinge Kyrka**
+
+    123 476 05 42
 
 
 
@@ -41068,6 +41114,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kjell Bergqvist Insamlingsstiftelse**
+
+    123 230 68 50
+
+
+
+
 **Kjula Baptistförsamling**
 
     123 603 47 55 - Sjukhuskyrkan på Mälarsjukhuset
@@ -50570,6 +50623,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Mariakyrkans Församling**
+
+    123 105 62 17
+
+
+
+
 **Mariakyrkans församling Uddevalla**
 
     123 527 81 06
@@ -51854,6 +51914,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Missionsgården Strandhem**
+
+    123 073 02 91
+
+
+
+
 **Missionskyrkan Hässleholm**
 
     123 245 05 59 - Gåvor och kollekt
@@ -53097,6 +53164,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Musik och Kultur Sågmyra**
 
     123 369 42 21
+
+
+
+
+**Musik-Pelles Fond**
+
+    123 281 94 64
 
 
 
@@ -54466,6 +54540,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **NISIU - Näringslivets Insamlingsstiftelse i Umeå**
 
     123 359 21 44
+
+
+
+
+**Nisse och Leenas Johanssons Bygdestiftelse**
+
+    123 284 74 24
 
 
 
@@ -79455,9 +79536,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska Hundskyddsföreningen - Hundstallet**
+**Svenska Hundskyddsföreningen**
 
-    123 900 55 70
+    123 900 55 70 - Hundstallet
 
 
 
@@ -80269,6 +80350,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Röda Korset**
 
     123 362 91 44 - Lidingö
+
+
+
+
+**Svenska Röda Korset**
+
+    123 406 33 50 - Roslagsbro Rödakorskrets
 
 
 
@@ -91879,6 +91967,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vidablickskyrkans Församling**
+
+    123 667 40 97
+
+
+
+
 **VidaScouter - Equmenia Vidablickskyrkan**
 
     123 628 86 33
@@ -92207,6 +92302,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vimmerby Brukshundklubb**
 
     123 695 45 98
+
+
+
+
+**Vimmerby Evangeliska Frikyrkoförsamling**
+
+    123 006 87 75
 
 
 

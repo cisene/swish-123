@@ -1405,6 +1405,14 @@ entries:
   - ishockeyklubb
   web: https://www.hockeyettan.se/halmstad-hammers/
 
+- entry: 1230068775
+  orgName: Vimmerby Evangeliska Frikyrkoförsamling
+  orgNumber: 802421-6494
+  comment: null
+  categories:
+  - religion
+  web: https://www.korskyrkanvimmerby.se/
+
 - entry: 1230068890
   orgName: Bujinkan Ninpo Taijutsu Göteborg
   orgNumber: 802469-7669
@@ -14769,6 +14777,14 @@ entries:
   - sportskytteklubb
   web: https://www.svenskalag.se/upsf
 
+- entry: 1230730291
+  orgName: Missionsgården Strandhem
+  orgNumber: 969688-0914
+  comment: null
+  categories:
+  - religion
+  web: https://www.strandhem.nu/
+
 - entry: 1230730309
   orgName: Markaryd-Strömsnäsbruks IBK
   orgNumber: 829000-9847
@@ -22431,6 +22447,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/huddinge
+
+- entry: 1231056217
+  orgName: Mariakyrkans Församling
+  orgNumber: 818500-1115
+  comment: null
+  categories:
+  - religion
+  web: http://www.mariakyrkan.nu/
 
 - entry: 1231056563
   orgName: Aspås Hembygdsförening
@@ -37050,6 +37074,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1231764844
+  orgName: Bergslagskattens Katthem
+  orgNumber: 802535-8204
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://bergslagskatten.se/
+
 - entry: 1231765015
   orgName: Halloween 2.0
   orgNumber: 802531-4348
@@ -48754,6 +48787,14 @@ entries:
   - idrottsförening
   web: https://www.facebook.com/AngeAtletklubb
 
+- entry: 1232306850
+  orgName: Kjell Bergqvist Insamlingsstiftelse
+  orgNumber: 802480-3697
+  comment: null
+  categories:
+  - stiftelse
+  web: null
+
 - entry: 1232307114
   orgName: Team Rynkeby
   orgNumber: 802532-9262
@@ -59372,6 +59413,14 @@ entries:
   - insamling
   web: https://tjernobylbarnensoas.se/
 
+- entry: 1232819464
+  orgName: Musik-Pelles Fond
+  orgNumber: 834001-6198
+  comment: null
+  categories:
+  - fond
+  web: https://gotland.se/kultur-och-fritid/kulturskola
+
 - entry: 1232819852
   orgName: Älta Kulturförening
   orgNumber: 814000-9377
@@ -59719,6 +59768,15 @@ entries:
   - idrottsförening
   - padelklubb
   web: https://streetpadelekero.se/
+
+- entry: 1232847424
+  orgName: Nisse och Leenas Johanssons Bygdestiftelse
+  orgNumber: 802481-7143
+  comment: null
+  categories:
+  - byggnadskonst
+  - stiftelse
+  web: https://järnboås.se/foreningar-och-foretag-i-bygden/nisse-och-leenas-bygdestiftelse/
 
 - entry: 1232847614
   orgName: Karlshamns Församling
@@ -79187,6 +79245,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/mgoif
 
+- entry: 1233817624
+  orgName: Citykyrkans Älmhult
+  orgNumber: 829001-1199
+  comment: Missionsarbete
+  categories:
+  - religion
+  web: https://citykyrkan.com/
+
 - entry: 1233817673
   orgName: Team Rynkeby
   orgNumber: 802532-9916
@@ -84181,6 +84247,15 @@ entries:
   categories:
   - golfklubb
   web: https://bangolfklubbenlinjen.klubbenonline.se/
+
+- entry: 1234063350
+  orgName: Svenska Röda Korset
+  orgNumber: 814400-6692
+  comment: Roslagsbro Rödakorskrets
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/stockholm/norrtalje-kommun/
 
 - entry: 1234065165
   orgName: Timrå IK
@@ -94268,6 +94343,14 @@ entries:
   - motorcykelklubb
   web: https://www.svmc.se/distrikt/orebro/
 
+- entry: 1234594651
+  orgName: Bankeryds Missionsförsamling
+  orgNumber: 826000-0198
+  comment: null
+  categories:
+  - religion
+  web: https://www.mission.se/
+
 - entry: 1234594693
   orgName: Equmeniakyrkan Sennan
   orgNumber: 849200-1600
@@ -95414,6 +95497,14 @@ entries:
   - fiskeklubb
   - sportfiskeklubb
   web: https://www.svenskalag.se/osterakerssportfiskeklubb
+
+- entry: 1234653507
+  orgName: Equmeniakyrkan Floda
+  orgNumber: 863500-0675
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkanfloda.se/
 
 - entry: 1234653796
   orgName: Råneå Församling
@@ -97520,6 +97611,14 @@ entries:
   categories:
   - religion
   web: https://www.ryttargardskyrkan.se/
+
+- entry: 1234760542
+  orgName: Föreningen Kviinge Kyrka
+  orgNumber: 802461-8673
+  comment: null
+  categories:
+  - religion
+  web: null
 
 - entry: 1234760666
   orgName: Kristianstads Pastorat
@@ -110327,6 +110426,14 @@ entries:
   - ljudsystem
   web: https://crevoice.se/
 
+- entry: 1235399977
+  orgName: Citykyrkans Älmhult
+  orgNumber: 829001-1199
+  comment: null
+  categories:
+  - religion
+  web: https://citykyrkan.com/
+
 - entry: 1235400338
   orgName: Team Rynkeby
   orgNumber: 802532-7506
@@ -117921,6 +118028,7 @@ entries:
   comment: null
   categories:
   - religion
+  - stiftelse
   web: https://www.bibelskolan.com/
 
 - entry: 1235750005
@@ -122697,6 +122805,15 @@ entries:
   categories:
   - yoga
   web: https://madevalina.se/
+
+- entry: 1235981709
+  orgName: Equmeniascout Gislaved
+  orgNumber: 828500-4258
+  comment: null
+  categories:
+  - religion
+  - scoutkår
+  web: https://www.gislavedsfrikyrkoforsamling.se/
 
 - entry: 1235982897
   orgName: Trosa Badmintonklubb
@@ -131969,6 +132086,14 @@ entries:
   - hjälporganisation
   web: https://www.setusverigefoundation.org/
 
+- entry: 1236431241
+  orgName: Breanäs Missionsgård
+  orgNumber: 838201-0273
+  comment: null
+  categories:
+  - religion
+  web: https://www.breanas.se/
+
 - entry: 1236431324
   orgName: Skepplanda BTK
   orgNumber: 863500-3802
@@ -136679,6 +136804,14 @@ entries:
   - jourhem
   - katthem
   web: https://voov.nu/
+
+- entry: 1236674097
+  orgName: Vidablickskyrkans Församling
+  orgNumber: 802447-5561
+  comment: null
+  categories:
+  - religion
+  web: https://vidablickskyrkan.se/
 
 - entry: 1236674535
   orgName: Skating & Dance Academy
@@ -145855,10 +145988,11 @@ entries:
   web: https://www.convictus.org/
 
 - entry: 1239005570
-  orgName: Svenska Hundskyddsföreningen - Hundstallet
+  orgName: Svenska Hundskyddsföreningen
   orgNumber: 802001-4968
-  comment: null
+  comment: Hundstallet
   categories:
+  - djurskydd
   - insamlingskontroll
   web: https://www.hundstallet.se/
 
@@ -145904,7 +146038,9 @@ entries:
   orgNumber: 802006-1126
   comment: null
   categories:
+  - fågelskådning
   - insamlingskontroll
+  - ornitologi
   web: https://www.birdlife.se/
 
 - entry: 1239005661
@@ -145930,8 +146066,8 @@ entries:
   orgNumber: 802456-7763
   comment: null
   categories:
+  - cancerforskning
   - insamlingskontroll
-  - välgörenhet
   web: https://www.ungcancer.se/
 
 - entry: 1239005752
