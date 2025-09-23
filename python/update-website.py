@@ -7,15 +7,26 @@ import re
 import argparse
 
 import yaml
+import json
 import mysql.connector
 
 YAML_SOURCE_FILE = '../yaml/swish-123-datasource.yaml'
+JSON_SOURCE_FILE = '../json/swish-123-datasource.json'
 
 APP_NAME = 'Update-Website'
-APP_VERSION = '0.0.1#20250913'
+APP_VERSION = '0.0.2#20250923'
 
 global conn
 global cur_channel_write
+
+def readJSON(filepath):
+  contents = None
+  if os.path.isfile(filepath):
+    with open(filepath) as json_data:
+      contents = json.load(json_data)
+      json_data.close()
+
+  return contents
 
 def safeSQL(data):
   data = re.sub(r"\x27", "''", str(data), flags=re.IGNORECASE)
@@ -184,7 +195,11 @@ def main():
     print("** No MySQL credentials found")
     exit(1)
 
-  entries = loadEntries(YAML_SOURCE_FILE)
+  #entries = loadEntries(YAML_SOURCE_FILE)
+  contents = readJSON(JSON_SOURCE_FILE)
+  entries = {}
+  entries['entries'] = []
+  entries['entries'] = contents['data']
   print(f"Loaded {len(entries['entries'])} entries from {YAML_SOURCE_FILE}")
 
   updateCategories(entries)
