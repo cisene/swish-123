@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-22-rev-211537
+Revision: 2025-09-23-rev-231004
 
-Nummer: 16566
+Nummer: 16601
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -6518,6 +6518,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Boaryds Skolas Byggnadsförening**
+
+    123 190 10 57
+
+
+
+
 **Bockara Hembygdsförening**
 
     123 399 11 14
@@ -9490,6 +9497,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Brantestad Intresseförening**
+
+    123 254 01 93
+
+
+
+
 **Branteviks IF, BIF**
 
     123 674 85 94
@@ -11400,6 +11414,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Camp Dannevall AB**
+
+    123 171 28 35
+
+
+
+
 **Camp Sweden TIFO**
 
     123 045 09 73
@@ -12057,6 +12078,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Children's Home**
 
     123 338 55 31
+
+
+
+
+**Childrens Welfare Fund**
+
+    123 214 57 87
 
 
 
@@ -13356,6 +13384,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**De Tio Öarnas Kulturskola Stödförening**
+
+    123 304 94 83
+
+
+
+
 **Deaf Refugees Welcome Sweden, DRW**
 
     123 507 74 66
@@ -14019,65 +14054,93 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Djurens Vänner Borås**
+**Djurens Vänner**
 
-    123 508 26 72
-
-
-
-
-**Djurens Vänner Götegorg**
-
-    123 225 86 89
+    123 634 76 94 - Jönköping
 
 
 
 
-**Djurens Vänner Jönköping**
+**Djurens Vänner**
 
-    123 634 76 94
-
-
-
-
-**Djurens Vänner Karlshamn**
-
-    123 116 13 30
+    123 418 33 07 - Mönsterås
 
 
 
 
-**Djurens Vänner Lidköping**
+**Djurens Vänner**
 
-    123 074 07 12
-
-
-
-
-**Djurens Vänner Mönsterås**
-
-    123 418 33 07
+    123 041 66 02 - Vetlanda
 
 
 
 
-**Djurens Vänner Nässjö**
+**Djurens Vänner**
 
-    123 545 54 07
-
-
-
-
-**Djurens Vänner Skåne**
-
-    123 303 41 96
+    123 529 29 74 - Värnamo
 
 
 
 
-**Djurens Vänner Tranås**
+**Djurens Vänner**
 
-    123 430 07 11
+    123 430 07 11 - Tranås
+
+
+
+
+**Djurens Vänner**
+
+    123 116 13 30 - Karlshamn
+
+
+
+
+**Djurens Vänner**
+
+    123 545 54 07 - Nässjö
+
+
+
+
+**Djurens Vänner**
+
+    123 097 04 75 - Växjö
+
+
+
+
+**Djurens Vänner**
+
+    123 303 41 96 - Skåne
+
+
+
+
+**Djurens Vänner**
+
+    123 225 86 89 - Göteborg
+
+
+
+
+**Djurens Vänner**
+
+    123 506 92 32 - Uddevalla
+
+
+
+
+**Djurens Vänner**
+
+    123 508 26 72 - Borås
+
+
+
+
+**Djurens Vänner**
+
+    123 074 07 12 - Lidköping
 
 
 
@@ -14085,27 +14148,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Djurens Vänner Umeå**
 
     123 472 35 24
-
-
-
-
-**Djurens Vänner Vetlanda**
-
-    123 041 66 02
-
-
-
-
-**Djurens Vänner Värnamo**
-
-    123 529 29 74
-
-
-
-
-**Djurens Vänner Växjö**
-
-    123 097 04 75
 
 
 
@@ -14194,13 +14236,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Djurgårdens Supporters Club**
 
     123 236 09 49
-
-
-
-
-**Djurhemmet Tassebo / Stiftelsen Djurhemmet I Helsingborg**
-
-    123 419 70 26
 
 
 
@@ -17384,6 +17419,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Equmeniakyrkan Kungälv**
+
+    123 615 55 50
+
+
+
+
 **Equmeniakyrkan Kvillsfors**
 
     123 131 41 60
@@ -18579,6 +18621,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Falkenbergs FF**
 
     123 551 00 11
+
+
+
+
+**Falkenbergs Frikyrkoförsamling**
+
+    123 521 83 67
+
+    123 580 32 42
 
 
 
@@ -21664,7 +21715,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 055 31 23 - Norrtälje
 
-    123 064 48 72 - Templet Stockholm socialt arbete
+    123 064 48 72 - Templet Stockholm Socialt Arbete
 
     123 073 15 54 - Söderkåren
 
@@ -23962,6 +24013,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Rumänienhjälpen i Ölmstad**
+
+    123 107 74 29
+
+
+
+
 **Föreningen Run for Mental Health i Lund**
 
     123 569 22 56
@@ -26215,6 +26273,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Granhults Hembygdsförening**
+
+    123 084 38 47 - Fiskekort Hjärtsjön
+
+    123 350 28 79 - Granhults Kyrkokassa
+
+    123 663 03 62
+
+
+
+
 **Granparkens Gård och Kafé / Dorotea Marek**
 
     123 333 45 21
@@ -26404,6 +26473,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Grisbacka EFS Missionsförening**
 
     123 081 06 89 - Gåvor
+
+
+
+
+**Grisslehamns Sportklubb**
+
+    123 234 04 38
 
 
 
@@ -28439,6 +28515,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hallands Släktforskarförening**
 
     123 655 27 80
+
+
+
+
+**Hallarumsgruppen - Kyrkans Volontärer**
+
+    123 350 18 30
 
 
 
@@ -30626,7 +30709,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Himlen TV7 (Korsets Stöd R.F.)**
+**Himlen TV7 / Himlen Media**
+
+    123 156 69 67
 
     123 677 93 00
 
@@ -34616,6 +34701,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**IFK Göteborg Fotboll**
+
+    123 461 70 15 - Akademi
+
+
+
+
 **IFK Hammarö**
 
     123 614 00 40
@@ -36194,6 +36286,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Insamlingsstiftelsen Bohusfonden mot Cancer**
+
+    123 131 48 63
+
+
+
+
 **Insamlingsstiftelsen Brandmännens Cancerfond**
 
     123 130 54 81
@@ -36892,6 +36991,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Insamlingsstiftelsen Till Minne av F.L.N.**
+
+    123 194 48 75
+
+
+
+
 **Insamlingsstiftelsen till minne av Gustav Whitefield**
 
     123 900 36 66
@@ -37044,6 +37150,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Intacts Vänner**
 
     123 479 56 13
+
+
+
+
+**Inte min Match / Erica Hellberg**
+
+    123 061 10 53
 
 
 
@@ -40019,6 +40132,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Karolinska Institutet**
 
+    123 202 32 08 - Fondförvaltning
+
     123 559 80 81 - KI SÖS fond
 
 
@@ -40027,13 +40142,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Karolinska Institutet, Centrum för Molekylär Medicin, CMM**
 
     123 245 79 76 - Myositforskningen
-
-
-
-
-**Karolinska Institutet, Fondförvaltning**
-
-    123 202 32 08
 
 
 
@@ -47648,6 +47756,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Lions Club Tyresö**
+
+    123 691 85 36
+
+
+
+
 **Lions Club Tyringe**
 
     123 538 35 91
@@ -52477,6 +52592,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Mossjöns Fiskevårdsområdesförening**
+
+    123 691 57 30
+
+
+
+
 **Mosstorps Villaägarförening**
 
     123 383 74 99
@@ -52699,6 +52821,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Move Idrottsförening**
 
     123 672 27 30
+
+
+
+
+**Movendi International**
+
+    123 254 54 81
 
 
 
@@ -53613,6 +53742,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Månsbyns Framtid**
 
     123 613 32 92
+
+
+
+
+**Månstads Hembygdsförening**
+
+    123 042 70 13
+
+
+
+
+**Månstads IF**
+
+    123 303 67 46
 
 
 
@@ -55605,7 +55748,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Norrhults BK**
+**Norrhults Bollklubb**
 
     123 336 59 39
 
@@ -58782,6 +58925,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Pekoe Ekologiskt Te**
 
     123 183 14 86
+
+
+
+
+**Pelarne Hembygdsförening**
+
+    123 671 27 23
 
 
 
@@ -63977,6 +64127,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet PensionärsGemenskap Örebro-Värmlands Läns Distrikt**
 
     123 650 92 77
+
+
+
+
+**Riksförbundet Svensk Jazz**
+
+    123 643 49 89 - Jazzfonden
 
 
 
@@ -71458,6 +71615,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Slättenkyrkan Norrahammar**
+
+    123 249 41 36
+
+
+
+
 **Slätterne Gård & Eir pyskoterapi / Slätterne Gård AB**
 
     123 678 95 80
@@ -75375,6 +75539,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen Djurhemmet I Helsingborg**
+
+    123 419 70 26 - Djurhemmet Tassebo
+
+
+
+
 **Stiftelsen Dynamis Världsevangelisation**
 
     123 417 17 99
@@ -75975,6 +76146,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen Silverblänk**
 
     123 316 47 46
+
+
+
+
+**Stiftelsen Sjuksköterskornas Kamratfond**
+
+    123 173 76 34
 
 
 
@@ -80905,7 +81083,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska Sällskapet för Medicinsk forskning**
+**Svenska Sällskapet för Medicinsk Forskning, SSMF**
 
     123 901 10 99
 
@@ -81465,9 +81643,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Sveriges Ornitologiska Förening - Birdlife Sverige**
+**Sveriges Ornitologiska Förening**
 
-    123 900 56 53
+    123 900 56 53 - Birdlife Sverige
 
 
 
@@ -81612,6 +81790,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svärdsjö Skid- och Orienteringsklubb**
 
     123 237 15 24
+
+
+
+
+**Svärdsjöfonden**
+
+    123 355 45 81
 
 
 
@@ -83392,6 +83577,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Södra Venjans Hembygdsförening**
 
     123 098 93 84
+
+
+
+
+**Södra Vi Missionsförsamling**
+
+    123 319 46 44
 
 
 
@@ -85759,6 +85951,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tegneby Hembygdsförening**
+
+    123 372 11 07
+
+
+
+
 **Tegs SK Fotboll**
 
     123 198 47 07
@@ -87445,6 +87644,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**TOUK - för Livet**
+
+    123 125 33 19
+
+
+
+
 **Towas Massage & hälsa / Towa Schedvins**
 
     123 263 05 56
@@ -88971,6 +89177,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Töreboda Scoutkår**
 
     123 050 33 00
+
+
+
+
+**Törestorps Missionsförsamling**
+
+    123 319 94 78
 
 
 
@@ -93810,6 +94023,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 018 53 48
 
     123 364 43 09 - Hjärta för barn
+
+    123 680 40 25 - Minnesgåvor
 
 
 
