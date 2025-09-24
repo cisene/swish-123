@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-23-rev-231004
+Revision: 2025-09-24-rev-234816
 
-Nummer: 16601
+Nummer: 16620
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1285,6 +1285,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 535 81 97 - Kollekt, Gåva
 
     123 674 78 85 - ACT
+
+
+
+
+**Alfta-Ösa Orienteringsklubb**
+
+    123 113 25 21
 
 
 
@@ -2590,6 +2597,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Apologia**
 
     123 312 51 92
+
+
+
+
+**Apost Luth Förstföddes Församling**
+
+    123 607 21 93
 
 
 
@@ -15506,6 +15520,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**EFS Dyröns Missionsförsamling**
+
+    123 096 17 71
+
+
+
+
 **EFS - Evangeliska Fosterlands-stiftelsen**
 
     123 155 71 56 - Afrika svälter
@@ -16290,6 +16311,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Elimförsamlingen Bjuråker**
 
     123 030 56 07
+
+
+
+
+**Elimförsamlingen i Åstol**
+
+    123 551 00 60
 
 
 
@@ -17394,6 +17422,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Equmeniakyrkan Hökerum**
 
     123 106 93 50
+
+
+
+
+**Equmeniakyrkan i Hallstahammar**
+
+    123 304 80 71
+
+
+
+
+**Equmeniakyrkan i Herrljunga**
+
+    123 626 57 22
 
 
 
@@ -23479,6 +23521,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen Hand in Hand Sweden**
 
     123 900 09 10
+
+
+
+
+**Föreningen HAPFF**
+
+    123 239 44 84
 
 
 
@@ -34621,6 +34670,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 122 77 43
 
+    123 221 10 50
+
 
 
 
@@ -35108,6 +35159,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **IFK Vaxholm**
 
     123 442 39 43
+
+
+
+
+**IFK Värnamo**
+
+    123 415 52 48
 
 
 
@@ -44952,6 +45010,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kärda Alliansförsamling**
+
+    123 225 50 81
+
+
+
+
 **Kärda Hembygdsförening**
 
     123 278 24 31
@@ -49299,6 +49364,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lurs sockens bygdeförening**
 
     123 173 38 23
+
+
+
+
+**Lutherska Församlingen i Stockholms- och Umeåområdet**
+
+    123 499 26 73
 
 
 
@@ -63854,6 +63926,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riksförbundet Hjärt-Lung Arjeplog**
+
+    123 547 47 54
+
+
+
+
 **Riksförbundet HjärtLung**
 
     123 901 01 09
@@ -67434,6 +67513,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Salemförsamlingen Mullhyttan**
 
     123 395 29 00
+
+
+
+
+**Salemförsamlingen Tibro**
+
+    123 181 28 74
 
 
 
@@ -72663,6 +72749,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sorbykyrkans Församling**
 
     123 269 52 78
+
+
+
+
+**Sorselegruppen för Barn I Världen**
+
+    123 626 57 55
 
 
 
@@ -78267,6 +78360,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sundsvalls Missionsförsamling**
+
+    123 006 15 49
+
+
+
+
 **Sundsvalls Pistolskytteklubb**
 
     123 183 49 77
@@ -80940,6 +81040,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Röda Korset**
 
     123 481 80 19 - Piteå Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 570 73 36 - Arjeplog
 
 
 
@@ -87181,6 +87288,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 423 12 70
 
     123 690 26 05
+
+
+
+
+**Torekovs Sjöfartsmuseum**
+
+    123 338 25 61
 
 
 
@@ -95221,6 +95335,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västra Götalandsregionen**
+
+    123 400 48 34 - Botaniska Trädgården
+
+
+
+
 **Västra Hargs IF**
 
     123 213 87 82
@@ -95507,6 +95628,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Växjö Fågelklubb**
 
     123 022 10 36
+
+
+
+
+**Växjö Hemlösa Katter**
+
+    123 603 37 40
 
 
 

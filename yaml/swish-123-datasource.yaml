@@ -1077,6 +1077,14 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/varmland/kommun/saffle/pro-saffle
 
+- entry: 1230061549
+  orgName: Sundsvalls Missionsförsamling
+  orgNumber: 889200-3669
+  comment: null
+  categories:
+  - religion
+  web: https://betlehemskyrkan.net/
+
 - entry: 1230061747
   orgName: The International Women's Club of Stockholm
   orgNumber: 802010-9586
@@ -20561,6 +20569,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/visby
 
+- entry: 1230961771
+  orgName: EFS Dyröns Missionsförsamling
+  orgNumber: 853300-3490
+  comment: null
+  categories:
+  - religion
+  web: null
+
 - entry: 1230961847
   orgName: Vinninga AIF
   orgNumber: 869000-5064
@@ -23735,6 +23751,15 @@ entries:
   - förlag
   - försäljning
   web: https://megilla.se/
+
+- entry: 1231132521
+  orgName: Alfta-Ösa Orienteringsklubb
+  orgNumber: 886500-6095
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://alfta-osa.se/
 
 - entry: 1231132919
   orgName: Västerås Cablepark Förening
@@ -38103,6 +38128,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/boden
 
+- entry: 1231812874
+  orgName: Salemförsamlingen Tibro
+  orgNumber: 866600-1824
+  comment: null
+  categories:
+  - religion
+  web: https://tibropingst.se/
+
 - entry: 1231813138
   orgName: Hrimfaxi Islandshästklubb - Islandshäst
   orgNumber: 875002-6380
@@ -46233,6 +46266,16 @@ entries:
   - religion
   web: https://www.kramforspingst.se/
 
+- entry: 1232211050
+  orgName: IFK Dannemora-Österby
+  orgNumber: 817300-0392
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.laget.se/IFKDannemoraOsterby/
+
 - entry: 1232212033
   orgName: Sveriges Vapenägares Förbund
   orgNumber: 894003-4138
@@ -47417,6 +47460,14 @@ entries:
   - camping
   - stuguthyrning
   web: https://vagsjofors.se/
+
+- entry: 1232255081
+  orgName: Kärda Alliansförsamling
+  orgNumber: 802428-8352
+  comment: null
+  categories:
+  - religion
+  web: https://www.kardaallians.se/
 
 - entry: 1232255115
   orgName: Laholms Ryttarförening
@@ -50891,6 +50942,14 @@ entries:
   - motionsklubb
   - skidlöparklubb
   web: https://www.josseforsik.se/
+
+- entry: 1232394484
+  orgName: Föreningen HAPFF
+  orgNumber: 802532-4933
+  comment: null
+  categories:
+  - hjälporganisation
+  web: null
 
 - entry: 1232394989
   orgName: Älmhults IBK
@@ -63790,6 +63849,14 @@ entries:
   - idrottsförening
   web: https://www.oskarshamnsaik.se/
 
+- entry: 1233048071
+  orgName: Equmeniakyrkan i Hallstahammar
+  orgNumber: 878000-0595
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkan.se/hallstahammar/
+
 - entry: 1233048097
   orgName: Ransta Nästa Bygdegårdsförening
   orgNumber: 879500-6942
@@ -70439,6 +70506,16 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://rejban.se/
+
+- entry: 1233382561
+  orgName: Torekovs Sjöfartsmuseum
+  orgNumber: 839400-2268
+  comment: null
+  categories:
+  - museiförening
+  - museum
+  - sjöfart
+  web: https://www.torekovssjofartsmuseum.se/
 
 - entry: 1233382728
   orgName: Kroppefjälls IF
@@ -83556,6 +83633,14 @@ entries:
   - skidlöparklubb
   web: https://www.svenskalag.se/bifsk
 
+- entry: 1234004834
+  orgName: Västra Götalandsregionen
+  orgNumber: 232100-0131
+  comment: Botaniska Trädgården
+  categories:
+  - botanisk trädgårdsplanering
+  web: https://www.botaniska.se/
+
 - entry: 1234005450
   orgName: Bostadsrättsföreningen Söderängen i Hörby
   orgNumber: 742000-0700
@@ -86039,6 +86124,15 @@ entries:
   - pistolskytteklubb
   - sportskytteklubb
   web: https://rpk.se/
+
+- entry: 1234155248
+  orgName: IFK Värnamo
+  orgNumber: 828000-0996
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://ifkvarnamo.se/
 
 - entry: 1234156188
   orgName: Stiftelsen Svenska Djurfonden
@@ -101487,6 +101581,14 @@ entries:
   - fotvård
   web: https://cityfotter.se/
 
+- entry: 1234992673
+  orgName: Lutherska Församlingen i Stockholms- och Umeåområdet
+  orgNumber: 814801-1482
+  comment: null
+  categories:
+  - religion
+  web: https://lutherskaforsamlingen.se/
+
 - entry: 1234992921
   orgName: FBC Karlskrona
   orgNumber: 835600-6430
@@ -112327,6 +112429,17 @@ entries:
   - kulturförening
   web: https://www.djurokultur.se/
 
+- entry: 1235474754
+  orgName: Riksförbundet Hjärt-Lung Arjeplog
+  orgNumber: 899100-4014
+  comment: null
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/norrbotten/lokalforeningar/arjeplog/
+
 - entry: 1235475389
   orgName: Oppmanna Vånga Bygdegårdsförening
   orgNumber: 838200-3351
@@ -112761,6 +112874,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/FalkenbergsFF/
+
+- entry: 1235510060
+  orgName: Elimförsamlingen i Åstol
+  orgNumber: 853300-0215
+  comment: null
+  categories:
+  - religion
+  web: https://pingströnnängåstol.se/
 
 - entry: 1235510102
   orgName: Östhjälpen
@@ -117643,6 +117764,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://hembygdsgarden.kollsberg.se/
+
+- entry: 1235707336
+  orgName: Svenska Röda Korset
+  orgNumber: 899100-4584
+  comment: Arjeplog
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/norrbotten/arjeplogs-kommun/
 
 - entry: 1235707666
   orgName: Rehns BK
@@ -124016,6 +124146,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/voxna
 
+- entry: 1236033740
+  orgName: Växjö Hemlösa Katter
+  orgNumber: 802495-5810
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.facebook.com/vaxjohemlosakatter/
+
 - entry: 1236034060
   orgName: Lions Cancerforskningsfond
   orgNumber: 894001-4007
@@ -124585,6 +124724,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/huskvarna
+
+- entry: 1236072193
+  orgName: Apost Luth Förstföddes Församling
+  orgNumber: 897900-1677
+  comment: null
+  categories:
+  - religion
+  web: null
 
 - entry: 1236072300
   orgName: Vilhelmina Brukshundklubb
@@ -129084,6 +129231,22 @@ entries:
   - curlingklubb
   - idrottsförening
   web: https://www.curlingklubben.se/
+
+- entry: 1236265722
+  orgName: Equmeniakyrkan i Herrljunga
+  orgNumber: 802509-7828
+  comment: null
+  categories:
+  - religion
+  web: https://equmeniakyrkanherrljunga.se/
+
+- entry: 1236265755
+  orgName: Sorselegruppen för Barn I Världen
+  orgNumber: 802514-3853
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://www.facebook.com/p/Sorselegruppen-f%C3%B6r-Barn-i-V%C3%A4rlden-100092198627892/
 
 - entry: 1236266183
   orgName: Svenska Boxerklubben
