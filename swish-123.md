@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-27-rev-190311
+Revision: 2025-09-28-rev-013222
 
-Nummer: 16646
+Nummer: 16673
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2140,6 +2140,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Anderstorps SS**
 
     123 114 64 97
+
+
+
+
+**Andra Chansen Mora-Orsa**
+
+    123 208 53 97
 
 
 
@@ -7413,6 +7420,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Borås Cancerfond**
+
+    123 123 61 08
+
+
+
+
 **Borås Dykförening**
 
     123 359 95 86
@@ -10263,6 +10277,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Brynjegårds Byaförening**
+
+    123 500 72 73
+
+
+
+
 **Brynäs Idrottsförening**
 
     123 216 61 97
@@ -13088,6 +13109,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dalsjö Byförening**
+
+    123 335 11 29
+
+
+
+
 **Dalsjö Golfklubb**
 
     123 041 74 36
@@ -13935,6 +13963,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dikanäs SnöSkoterklubb**
+
+    123 458 62 51
+
+
+
+
 **Din Kiropraktor Falkenberg AB**
 
     123 605 90 59
@@ -14064,6 +14099,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Djura hembygdsförening**
 
     123 148 95 82
+
+
+
+
+**Djurambulansen i Jönköping**
+
+    123 585 22 98
 
 
 
@@ -17169,6 +17211,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Equmenia Mellerud**
+
+    123 031 05 32
+
+
+
+
 **Equmenia Nord**
 
     123 461 13 07
@@ -17315,6 +17364,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Equmeniakyrkan Arvika**
 
     123 225 58 75
+
+
+
+
+**Equmeniakyrkan Betel Örebro**
+
+    123 459 64 25
 
 
 
@@ -17540,6 +17596,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Equmeniakyrkan Mellerud**
+
+    123 197 92 36
+
+
+
+
 **Equmeniakyrkan Nossebro**
 
     123 470 26 84
@@ -17606,6 +17669,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Equmeniakyrkan Vaggeryd**
 
     123 580 79 61
+
+
+
+
+**Equmeniakyrkan Vänersborg**
+
+    123 059 18 59
 
 
 
@@ -23397,6 +23467,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen för Tibetansk Buddhism i Göteborg**
 
     123 018 21 21
+
+
+
+
+**Föreningen för Transtyretinamyloidos, ATTR**
+
+    123 691 92 60
 
 
 
@@ -30967,6 +31044,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hjortnäs Kamratförening**
+
+    123 326 44 54
+
+
+
+
 **Hjortnäs-Sunnanängs Hembygdsförening**
 
     123 020 11 94
@@ -32862,6 +32946,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Härnösands Folkhögskola**
 
     123 264 35 75
+
+
+
+
+**Härnösands Handbollsförening**
+
+    123 465 84 56
 
 
 
@@ -35633,6 +35724,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**IK Vikingen**
+
+    123 196 23 49
+
+
+
+
 **IK Waxholm**
 
     123 213 67 29
@@ -36651,6 +36749,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Insamlingsstiftelsen Hjärnfonden**
 
     123 901 12 55
+
+
+
+
+**Insamlingsstiftelsen Hope For Children Tanzania**
+
+    123 053 77 38
 
 
 
@@ -38798,6 +38903,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Järveds IF**
 
     123 394 53 91
+
+
+
+
+**Järvsjö Intresseförening**
+
+    123 563 82 34
 
 
 
@@ -47154,6 +47266,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Line of Friends**
+
+    123 371 59 01
+
+
+
+
 **Linedance Helsingborg**
 
     123 695 45 80
@@ -48913,6 +49032,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ludvika Handbollsförening**
+
+    123 008 37 09 - Truls Lindström Minnesfond
+
+
+
+
 **Ludvika HF**
 
     123 006 86 68
@@ -50169,6 +50295,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Magazin24 / Earton Media AB**
 
     123 399 79 96
+
+
+
+
+**Magn-Asyl Secondhand**
+
+    123 304 95 41
 
 
 
@@ -51813,6 +51946,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Melleruds Församling**
+
+    123 097 68 94
 
     123 107 72 39
 
@@ -53923,6 +54058,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Månstads IF**
 
     123 303 67 46
+
+
+
+
+**Mårdsjöns IF**
+
+    123 127 10 97
 
 
 
@@ -70077,6 +70219,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SKARA FOTBOLLS CLUB**
+
+    123 173 39 22
+
+
+
+
 **Skara Fotoklubb**
 
     123 074 69 74
@@ -72231,6 +72380,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 288 74 04 - Församlingskassan
 
     123 513 87 06 - Missionskassan
+
+
+
+
+**Smyrnaförsamlingen i Mellerud**
+
+    123 180 79 08
 
 
 
@@ -75237,6 +75393,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stalons Skoterklubb**
+
+    123 616 10 61
+
+
+
+
 **Stamningsförbundet**
 
     123 306 93 90
@@ -75762,7 +75925,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Stiftelsen Djurhemmet I Helsingborg**
+**Stiftelsen Djurhemmet i Helsingborg**
 
     123 419 70 26 - Djurhemmet Tassebo
 
@@ -75901,6 +76064,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen för Medicinsk forskning vid Universitetssjukhuset Örebro - Nyckelfonden**
 
     123 900 29 81
+
+
+
+
+**Stiftelsen för The Faith Homes of Kenya**
+
+    123 303 84 37
 
 
 
@@ -81583,6 +81753,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Ödemförbundet**
+
+    123 132 38 64
+
+
+
+
 **Svenska Ölfrämjandet**
 
     123 041 71 62
@@ -81956,14 +82133,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Sveriges Veteranförbund, SVF**
 
-    123 181 44 82
-
-
-
-
-**Sveriges Veteranförbund (SVF)**
-
     123 070 46 35 - Gula bandet
+
+    123 181 44 82
 
 
 
@@ -98472,6 +98644,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ångslupen Munter**
 
     123 346 73 70
+
+
+
+
+**Ånimskogs Hembygdsförening**
+
+    123 230 45 17
 
 
 
