@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-24-rev-234816
+Revision: 2025-09-27-rev-190311
 
-Nummer: 16620
+Nummer: 16646
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1776,6 +1776,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Alpha & Omega School InsamlingsStiftelse**
 
     123 232 52 31
+
+
+
+
+**Alpha Sverige**
+
+    123 477 96 58
 
 
 
@@ -6535,6 +6542,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Boaryds Skolas Byggnadsförening**
 
     123 190 10 57
+
+
+
+
+**Bobygdens Framtid**
+
+    123 344 01 53
 
 
 
@@ -17307,6 +17321,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Equmeniakyrkan Bohus-Björkö**
 
+    123 561 54 89
+
     123 649 23 00
 
 
@@ -18363,6 +18379,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ett hem för alla**
 
     123 154 45 27
+
+
+
+
+**Europe For Christ**
+
+    123 224 02 65
 
 
 
@@ -26792,6 +26815,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gränna Missionsförsamling**
+
+    123 449 38 05
+
+
+
+
 **Gränna Pingst**
 
     123 131 27 76
@@ -29603,6 +29633,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Heart of Evengelism**
 
     123 693 68 19
+
+
+
+
+**Heby Aif**
+
+    123 092 15 93
 
 
 
@@ -35740,6 +35777,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Immanuelskyrkans Församling i Tidaholm**
+
+    123 592 33 39
+
+
+
+
 **Immanuelskyrkans Församling Jönköping**
 
     123 006 77 69
@@ -37636,6 +37680,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jacob Johanssons Minnesfond**
+
+    123 480 95 05
+
+
+
+
 **Jagriti Viharas Vänner**
 
     123 342 10 54
@@ -37849,6 +37900,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Jennygården / Svenska Semesterhem AB**
 
     123 212 77 36
+
+
+
+
+**Jesu Hjärtas Kapells Vänner**
+
+    123 415 06 11
+
+    123 435 44 37
 
 
 
@@ -41005,6 +41065,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kings Garden Ministries**
+
+    123 011 70 77
+
+
+
+
 **Kings Garden Ministries / Arise Living Productions AB**
 
     123 126 29 06
@@ -42932,6 +42999,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kristen Samverkan Småland-Blekinge, KSSB**
 
     123 601 35 69
+
+
+
+
+**Kristen TV i Sverige AB**
+
+    123 695 50 90
 
 
 
@@ -44908,6 +44982,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kyrkhults Församling**
+
+    123 362 66 52 - Diakonifonden
+
+
+
+
 **Kyrkhults Scoutkår**
 
     123 263 82 78
@@ -45027,6 +45108,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Käringbergets Bystugeförening**
 
     123 288 77 68
+
+
+
+
+**Käringö Hembygdsförening**
+
+    123 155 05 65
 
 
 
@@ -45366,6 +45454,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **La Vera Pizza**
 
     123 532 04 45
+
+
+
+
+**Laestadianska Församlingen i Uppsala**
+
+    123 041 54 30
 
 
 
@@ -57126,6 +57221,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nätverket mot Gynekologisk Cancer**
+
+    123 029 77 62
+
+
+
+
 **Nätverket Prosit**
 
     123 022 49 72
@@ -60444,6 +60546,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Prima Trafikskola AB**
 
     123 418 14 26
+
+
+
+
+**Primär Immunbrist Organisation, PIO**
+
+    123 024 48 48
 
 
 
@@ -69630,6 +69739,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sjömanskyrkan i Skagen**
+
+    123 501 62 66
+
+
+
+
 **Sjömarkens IF**
 
     123 013 45 10
@@ -71910,6 +72026,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Smedjan Pingstkyrkan Skärhamn**
+
+    123 336 01 53
+
+
+
+
 **Smedjan Stjärnsund / Stjärnsunds Bygdebolag**
 
     123 008 86 90
@@ -72753,7 +72876,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Sorselegruppen för Barn I Världen**
+**Sorselegruppen för Barn i Världen**
 
     123 626 57 55
 
@@ -75322,6 +75445,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stensätra IF**
 
     123 006 85 10
+
+
+
+
+**Stenugsunds IF**
+
+    123 329 34 38
 
 
 
@@ -79077,6 +79207,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svensk-Grekiska föreningen Jönköping, Ελληνο-Σουηδική κοινότητα Jönköping**
 
     123 359 13 10
+
+
+
+
+**Svensk-Indiska AGAPE Missionen**
+
+    123 338 13 99
 
 
 
@@ -90505,7 +90642,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Uppsala Katthem / Föreningen Samvetet**
+**Uppsala Katthem**
 
     123 272 16 94
 
@@ -91885,6 +92022,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vedums Scoutkår**
+
+    123 508 43 30
+
+
+
+
 **Vedums Scoutkårs Föräldraförening**
 
     123 320 02 01
@@ -92594,6 +92738,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Villfarelser / ProjektApa AB**
 
     123 262 66 61
+
+
+
+
+**Villie Församling**
+
+    123 550 34 46
 
 
 
@@ -93617,6 +93768,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Väddö Golfklubb**
 
     123 321 69 67
+
+
+
+
+**Väddö Hembygds- och Fornminnesförening**
+
+    123 340 79 70
 
 
 
@@ -94683,6 +94841,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västerportkyrkans Församling i Kalmar**
+
+    123 468 84 46
+
+
+
+
 **Västers Bordtennisklubb Motala**
 
     123 015 71 31
@@ -95238,6 +95403,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västkustens Racing och Motorbåtsklubb, VROM**
 
     123 671 51 97
+
+
+
+
+**Västkuststiftelsen**
+
+    123 107 24 95
 
 
 
