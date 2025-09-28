@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-28-rev-013222
+Revision: 2025-09-28-rev-154950
 
-Nummer: 16673
+Nummer: 16690
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1811,6 +1811,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Alsters Sockens Hembygdsförening**
 
     123 000 93 57
+
+
+
+
+**AlternaMedia AB**
+
+    123 037 97 35
 
 
 
@@ -11933,6 +11940,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Centrumkyrkans Församling i Alfta**
+
+    123 511 29 25
+
+
+
+
 **Centrumkyrkans församling i Norrköping**
 
     123 219 60 38
@@ -17512,6 +17526,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Equmeniakyrkan i Ljungby**
+
+    123 269 26 71
+
+
+
+
 **Equmeniakyrkan i Surte**
 
     123 042 80 45
@@ -19652,6 +19673,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Filadelfiaförsamlingen i Vrigstad**
+
+    123 668 92 10
+
+
+
+
 **Filadelfiaförsamlingen i Östersund**
 
     123 114 57 54
@@ -20527,6 +20555,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Flygterapeuterna AB**
 
     123 603 83 35
+
+
+
+
+**Flyktinggruppen i Falun**
+
+    123 498 71 45
 
 
 
@@ -23481,6 +23516,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen för Utvecklingsfrågor, FUF**
 
     123 481 86 13
+
+
+
+
+**Föreningen Försvara Elefanterna**
+
+    123 520 68 75
 
 
 
@@ -35284,6 +35326,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**IFK UMEÅ**
+
+    123 082 07 38
+
+
+
+
 **IFK Vaxholm**
 
     123 442 39 43
@@ -35940,6 +35989,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 362 92 19 - Kollekt Lidens församling
 
     123 662 42 58 - Kollekt Sättna församling
+
+
+
+
+**Indals Hembygdsförening**
+
+    123 633 54 18
 
 
 
@@ -39577,6 +39633,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kalvsviks Bygdegård**
 
     123 225 66 18
+
+
+
+
+**Kammarmusik i Lerum**
+
+    123 276 00 56
 
 
 
@@ -59701,7 +59764,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Pingstförsamlingen i Kalmar**
 
-    123 197 67 78
+    123 197 67 78 - Stories for Life
 
     123 481 53 20 - Loki Street Kids
 
@@ -60229,6 +60292,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Pistolklubben ENA/S1**
 
     123 486 05 16
+
+
+
+
+**Pitebygdens Forskarförening**
+
+    123 640 96 76
 
 
 
@@ -67754,6 +67824,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Salemförsamlingen i Vargön**
+
+    123 228 93 87
+
+
+
+
 **Salemförsamlingen-Korskyrkan i Mölndal**
 
     123 522 23 85
@@ -68027,6 +68104,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sammakko-Lillbergets Hembygdsförening**
 
     123 127 73 83
+
+
+
+
+**Sammilsdalkyrkan**
+
+    123 553 53 31
 
 
 
@@ -70935,6 +71019,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skogsrokyrkan i Skövde**
 
     123 551 22 72 - Gåvor
+
+
+
+
+**Skogsupproret (Forest Rebellion) / Levande Skogar**
+
+    123 279 14 73
 
 
 
@@ -76798,6 +76889,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen Örebro Moské**
+
+    123 539 04 63
+
+
+
+
 **Stiftelsen Östergötlands Museum**
 
     123 050 06 78
@@ -77262,6 +77360,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stockholms Skärgårds Tennisklubb, SSTK**
 
     123 280 16 45
+
+
+
+
+**Stockholms Stad**
+
+    123 644 19 19 - Trafikkontoret
 
 
 
@@ -81398,6 +81503,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Service- och Signalhundsförbundet, SoS**
 
     123 471 80 52
+
+
+
+
+**Svenska Shetland Sheepdogklubben**
+
+    123 332 34 90
 
 
 
@@ -93082,6 +93194,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 155 38 66 - Anläggningskort
 
     123 634 63 40 - Ungdomssektionen
+
+
+
+
+**Vindkraftsupplysningen / Madeleine Staaf Kura**
+
+    123 599 81 09
 
 
 
