@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-28-rev-154950
+Revision: 2025-09-30-rev-224737
 
-Nummer: 16690
+Nummer: 16706
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -88,6 +88,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **3vallare / Anna Larsson**
 
     123 252 75 13
+
+
+
+
+
+
+## 4
+
+**4 Kök Restaurang & Café**
+
+    123 143 98 68
 
 
 
@@ -4033,6 +4044,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bageri Vojmån / Vaajmoe AB**
+
+    123 284 38 03
+
+
+
+
 **Baggage Loppis / Daghia AB**
 
     123 220 43 94
@@ -4945,6 +4963,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Best Western Eurostop Örebro**
 
     123 089 48 99
+
+
+
+
+**Best Western Gustaf Fröding Hotell & Konferens**
+
+    123 253 24 71
 
 
 
@@ -6837,6 +6862,21 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 493 52 92
 
     123 511 07 96 - Servering
+
+
+
+
+**Bokstaven i Rättvik Aktiebolag**
+
+    123 086 72 75 - Rättviksnytt
+
+    123 156 57 95 - Masen i Mora
+
+    123 259 10 89 - Leksandsbladet
+
+    123 356 68 41 - Kråkbladet
+
+    123 477 61 42 - Säterbladet
 
 
 
@@ -21116,6 +21156,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fredrik D Anderssons Minnesfond**
 
     123 136 25 32
+
+
+
+
+**Fredrik Hansson Golf Academy**
+
+    123 608 90 49
 
 
 
@@ -45705,6 +45752,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Laholms Golfklubb**
+
+    123 042 17 76 - Veterangolfen
+
+
+
+
 **Laholms IF Träningsverket**
 
     123 197 96 24
@@ -50376,6 +50430,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Magnolia Blomsterhandel / Blomsterfest AB**
+
+    123 220 17 62
+
+
+
+
 **Magnuskök - Hälsinge Catering, fest & event**
 
     123 618 11 43
@@ -51496,13 +51557,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Masen i Mora / Bokstaven AB**
-
-    123 156 57 95
-
-
-
-
 **Maskinboden i Sörmland AB**
 
     123 122 80 89
@@ -51548,6 +51602,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Matchen Mot Cancer**
 
     123 508 74 08
+
+
+
+
+**Matcompaniet i Själevad AB**
+
+    123 440 28 14
 
 
 
@@ -51983,6 +52044,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Mellby IK**
 
     123 642 74 70
+
+
+
+
+**Mellbybagaren / Ingvar Andersson**
+
+    123 590 86 11
 
 
 
@@ -54302,6 +54370,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Mönsterås Jazz och Kammarmusik**
 
     123 304 33 79
+
+
+
+
+**Mönsterås Kommun**
+
+    123 179 74 97 - Måltid
 
 
 
@@ -59009,6 +59084,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Park bageri och konditori i Äppelviken AB**
+
+    123 472 62 79
+
+
+
+
 **Parkalompolo IK**
 
     123 175 77 64
@@ -59432,6 +59514,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 526 26 47
 
     123 900 00 68
+
+
+
+
+**Perssons Kök & Bar / Hamid Azdanlou Ghajar**
+
+    123 397 28 25
 
 
 
@@ -66932,13 +67021,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rättviks Scoutkår**
 
     123 439 14 05
-
-
-
-
-**Rättviksnytt på Internet / Bokstaven i Rättvik AB**
-
-    123 086 72 75
 
 
 
@@ -83183,6 +83265,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sätra Brunn Hälsobrunn Resort AB**
+
+    123 050 63 60
+
+
+
+
 **Sätra Båtsällskap**
 
     123 413 43 83
@@ -94917,6 +95006,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västanå Musik & Teater**
 
     123 695 24 36
+
+
+
+
+**Västberga Blommor / Rupas AB**
+
+    123 232 64 11
 
 
 

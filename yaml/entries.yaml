@@ -5323,6 +5323,14 @@ entries:
   - alternativa nyheter
   web: https://insikt24.se/
 
+- entry: 1230263863
+  orgName: Emma's bageri och grönsaker
+  orgNumber: null
+  comment: null
+  categories:
+  - bageri
+  web: null
+
 - entry: 1230264101
   orgName: IK Spring Väst
   orgNumber: 802461-2221
@@ -8375,6 +8383,14 @@ entries:
   - politisk kommentar
   web: https://www.patreon.com/user/creators?u=71624390
 
+- entry: 1230396796
+  orgName: Godmorgon!
+  orgNumber: null
+  comment: null
+  categories:
+  - podcast
+  web: https://play.pod.space/godmorgon/
+
 - entry: 1230397075
   orgName: Sveriges Centralförening för Idrottens Främjande, SCIF
   orgNumber: 802000-5560
@@ -9015,6 +9031,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/tofteryd-hagshults-hembygdsf-rening
+
+- entry: 1230421776
+  orgName: Laholms Golfklubb
+  orgNumber: 849200-9975
+  comment: Veterangolfen
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://laholmsgk.se/
 
 - entry: 1230421792
   orgName: RPG Årstakyrkan Uppsala
@@ -10930,6 +10955,19 @@ entries:
   - förbund
   - reiki
   web: https://reikiforbundet.se/
+
+- entry: 1230506360
+  orgName: Sätra Brunn Hälsobrunn Resort AB
+  orgNumber: 556805-1022
+  comment: null
+  categories:
+  - hotell
+  - konferens
+  - konferenslokaler
+  - logi
+  - restaurant
+  - övernattning
+  web: https://satrabrunn.se/
 
 - entry: 1230506675
   orgName: Carlsborgs Segelsällskap, CSS
@@ -18541,10 +18579,11 @@ entries:
   web: https://plaza.se/
 
 - entry: 1230867275
-  orgName: Rättviksnytt på Internet / Bokstaven i Rättvik AB
+  orgName: Bokstaven i Rättvik Aktiebolag
   orgNumber: 556401-0253
-  comment: null
+  comment: Rättviksnytt
   categories:
+  - annonsblad
   - lokaltidning
   web: https://rattviksnytt.se/
 
@@ -30701,6 +30740,15 @@ entries:
   - ishockeyklubb
   web: https://troja-ljungby.com/
 
+- entry: 1231439868
+  orgName: 4 Kök Restaurang & Café
+  orgNumber: 559170-6311
+  comment: null
+  categories:
+  - café
+  - restaurant
+  web: https://www.4kok.se/
+
 - entry: 1231439900
   orgName: HorseGuard Stängsel och Franska Elbandet AB
   orgNumber: 559184-1126
@@ -33649,9 +33697,9 @@ entries:
   web: https://sodertaljepingst.se/
 
 - entry: 1231565795
-  orgName: Masen i Mora / Bokstaven AB
+  orgName: Bokstaven i Rättvik Aktiebolag
   orgNumber: 556401-0253
-  comment: null
+  comment: Masen i Mora
   categories:
   - annonsblad
   - lokaltidning
@@ -38568,6 +38616,15 @@ entries:
   categories:
   - motorcykelklubb
   web: https://www.hogsweden.se/hog-helsingborgchapter
+
+- entry: 1231797497
+  orgName: Mönsterås Kommun
+  orgNumber: 212000-0720
+  comment: Måltid
+  categories:
+  - kommun
+  - restaurant
+  web: https://www.monsteras.se/
 
 - entry: 1231797505
   orgName: SPF Seniorerna Fyrklövern Vansbro
@@ -46924,6 +46981,15 @@ entries:
   - orkester
   web: https://www.facebook.com/vralrock
 
+- entry: 1232201762
+  orgName: Magnolia Blomsterhandel / Blomsterfest AB
+  orgNumber: 556811-9985
+  comment: null
+  categories:
+  - blomsterhandel
+  - florist
+  web: https://magnoliablomsterhandel.se/
+
 - entry: 1232202539
   orgName: SKPF Pensionärerna, avd 53 Alingsås
   orgNumber: 864001-0578
@@ -50545,6 +50611,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/orsa
 
+- entry: 1232326411
+  orgName: Västberga Blommor / Rupas AB
+  orgNumber: 556943-8368
+  comment: null
+  categories:
+  - blomsterhandel
+  - florist
+  web: https://vastbergablommor.se/
+
 - entry: 1232326759
   orgName: Örebro Läns Idrottshistoriska
   orgNumber: 875001-4972
@@ -54029,6 +54104,19 @@ entries:
   - juridiska tjänster
   web: https://www.advokatnodby.se/
 
+- entry: 1232532471
+  orgName: Best Western Gustaf Fröding Hotell & Konferens
+  orgNumber: 556648-9588
+  comment: null
+  categories:
+  - hotell
+  - konferens
+  - konferenslokaler
+  - logi
+  - restaurant
+  - övernattning
+  web: https://www.gustaffroding.se/
+
 - entry: 1232532562
   orgName: Eskilstuna City FK
   orgNumber: 818000-4742
@@ -55003,6 +55091,15 @@ entries:
   - förening
   - ideell förening
   web: https://www.atrium-vaxjo.org/
+
+- entry: 1232591089
+  orgName: Bokstaven i Rättvik Aktiebolag
+  orgNumber: 556401-0253
+  comment: Leksandsbladet
+  categories:
+  - annonsblad
+  - lokaltidning
+  web: https://leksandsbladet.se/
 
 - entry: 1232591469
   orgName: Märsta Pastorat
@@ -61084,6 +61181,16 @@ entries:
   categories:
   - bilförsäljning
   web: https://www.mholmsbilcenter.se/
+
+- entry: 1232843803
+  orgName: Bageri Vojmån / Vaajmoe AB
+  orgNumber: 559310-9480
+  comment: null
+  categories:
+  - bageri
+  - café
+  - kurser
+  web: https://vaajmoe.se/
 
 - entry: 1232844645
   orgName: null
@@ -71567,6 +71674,7 @@ entries:
   orgNumber: 883200-5949
   comment: null
   categories:
+  - religion
   - stiftelse
   web: https://www.stiftelsenberget.com/
 
@@ -76312,6 +76420,15 @@ entries:
   categories:
   - scoutkår
   web: https://drottningstaden.scout.se/
+
+- entry: 1233566841
+  orgName: Bokstaven i Rättvik Aktiebolag
+  orgNumber: 556401-0253
+  comment: Kråkbladet
+  categories:
+  - annonsblad
+  - lokaltidning
+  web: https://krakbladet.se/
 
 - entry: 1233566874
   orgName: Markus Holst
@@ -84703,6 +84820,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/mariamagdalena
 
+- entry: 1233972825
+  orgName: Perssons Kök & Bar / Hamid Azdanlou Ghajar
+  orgNumber: 620409-XXXX
+  comment: null
+  categories:
+  - restaurant
+  web: https://perssonskok.se/
+
 - entry: 1233973062
   orgName: Supporterhuset
   orgNumber: 802490-4784
@@ -92396,6 +92521,14 @@ entries:
   - orienteringsklubb
   web: https://www.okmilan.org/
 
+- entry: 1234402814
+  orgName: Matcompaniet i Själevad AB
+  orgNumber: 559042-1300
+  comment: null
+  categories:
+  - restaurant
+  web: https://matcompaniet.se/
+
 - entry: 1234402996
   orgName: Kultursjukhuset
   orgNumber: 802462-9365
@@ -92908,7 +93041,7 @@ entries:
   orgNumber: 802487-3468
   comment: null
   categories:
-  - förening
+  - radioamatörer
   - radioklubb
   web: http://www.fura.se/
 
@@ -99387,6 +99520,15 @@ entries:
   - ridklubb
   web: https://www.osterlensridklubb.se/
 
+- entry: 1234726279
+  orgName: Park bageri och konditori i Äppelviken AB
+  orgNumber: 556790-9360
+  comment: null
+  categories:
+  - bageri
+  - konditori
+  web: https://www.parkkonditori.se/
+
 - entry: 1234727129
   orgName: Axbergs IF
   orgNumber: 875000-7331
@@ -99996,6 +100138,15 @@ entries:
   categories:
   - lionsklubb
   web: https://www.e-clubhouse.org/sites/vaxholm/
+
+- entry: 1234776142
+  orgName: Bokstaven i Rättvik Aktiebolag
+  orgNumber: 556401-0253
+  comment: Säterbladet
+  categories:
+  - annonsblad
+  - lokaltidning
+  web: https://www.saterbladet.se/
 
 - entry: 1234776712
   orgName: Nyox Vipers Nyköping Oxelösund Discgolfklubb
@@ -123971,6 +124122,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1235908611
+  orgName: Mellbybagaren / Ingvar Andersson
+  orgNumber: 500410-XXXX
+  comment: null
+  categories:
+  - bageri
+  - konditori
+  web: https://www.mellbybagaren.se/
+
 - entry: 1235908850
   orgName: FreeZone Sweden
   orgNumber: 802470-6460
@@ -127500,6 +127660,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/RynningeIK/
+
+- entry: 1236089049
+  orgName: Fredrik Hansson Golf Academy
+  orgNumber: 710806-XXXX
+  comment: null
+  categories:
+  - golfcoach
+  - golftränare
+  web: https://www.facebook.com/p/Fredrik-Hansson-Golf-Academy-100091518073775/
 
 - entry: 1236090385
   orgName: Rynninge IK
