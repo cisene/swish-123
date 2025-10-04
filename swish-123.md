@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-09-30-rev-224737
+Revision: 2025-10-04-rev-182613
 
-Nummer: 16706
+Nummer: 16732
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -13,6 +13,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 ## 1
+
+**14-3 Örebro**
+
+    123 691 91 54 - NVC Tifo Örebro
+
+
+
 
 **19Hundra Restaurang & Cocktailbar**
 
@@ -778,6 +785,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 344 34 96
 
     123 574 81 16 - SOL INVICTUS
+
+    123 672 40 90 - "Svea"
 
 
 
@@ -16247,6 +16256,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Eksjö Skid- & Orienteringsklubb**
+
+    123 237 73 98
+
+
+
+
 **Eksjö Skyttegille**
 
     123 006 82 96
@@ -18844,7 +18860,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Falkenbergs Orienteringsklubb**
+**Falkenbergs Orienteringsklubb, FOK**
 
     123 059 35 41
 
@@ -20588,6 +20604,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Flyg- och Rymdtekniska Föreningen, FTF**
 
     123 115 68 24
+
+
+
+
+**Flygande Veteraner**
+
+    123 197 39 57
 
 
 
@@ -26602,6 +26625,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Green Machine**
 
     123 160 55 59
+
+
+
+
+**Green & White Tifo**
+
+    123 408 37 39
 
 
 
@@ -32841,6 +32871,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hällefors Orienteringsklubb**
+
+    123 566 63 00
+
+
+
+
 **Hällefors Ornitologiska Förening**
 
     123 302 10 03
@@ -33709,6 +33746,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Högsjö Församling**
 
     123 259 48 10
+
+
+
+
+**Högsjöns Fiskevårdsområde**
+
+    123 056 53 82
 
 
 
@@ -35185,6 +35229,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **IFK Munkfors**
 
     123 442 85 61
+
+
+
+
+**IFK Märsta**
+
+    123 575 03 36
 
 
 
@@ -45801,7 +45852,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Lakers Lakejers Tifo**
+**Lakers Lakejer Tifo**
 
     123 320 08 39
 
@@ -47569,6 +47620,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Linköpings Orienteringsklubb**
+
+    123 342 63 43
+
+
+
+
 **Linköpings Segelflygklubb**
 
     123 179 20 19
@@ -48688,6 +48746,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ljusdals Hembygdsförening**
 
     123 458 69 54
+
+
+
+
+**Ljusdals Orienteringsklubb**
+
+    123 067 31 94
 
 
 
@@ -56550,6 +56615,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**North Power**
+
+    123 686 27 00
+
+
+
+
 **North Power Stockholm**
 
     123 120 93 94
@@ -57806,6 +57878,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **OK Grip**
 
     123 664 76 30
+
+
+
+
+**OK Gränsen**
+
+    123 083 34 75
 
 
 
@@ -71042,6 +71121,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skogaby Golfklubb**
+
+    123 465 97 02
+
+
+
+
 **Skogakyrkan**
 
     123 249 45 65
@@ -77201,6 +77287,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stockholm Skyttesportförbund**
+
+    123 279 69 10
+
+
+
+
 **Stockholm Taekwon-Do ITF**
 
     123 023 56 97
@@ -77225,6 +77318,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stockholms Allmänna Skridskoklubb, SASK**
 
     123 338 31 71
+
+
+
+
+**Stockholms Atletklubb, SAK**
+
+    123 421 19 26
 
 
 
@@ -78850,6 +78950,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sundsvalls Missionsförsamling**
 
     123 006 15 49
+
+
+
+
+**Sundsvalls OK**
+
+    123 349 01 17
+
+    123 576 33 21
 
 
 
@@ -87206,6 +87315,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 026 17 50
 
+    123 391 87 78
+
 
 
 
@@ -87968,6 +88079,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Torsby Marknad**
 
     123 690 56 16
+
+
+
+
+**Torsby Motorveteraner**
+
+    123 207 72 53
 
 
 
@@ -89935,6 +90053,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Uddevalla Orienteringsklubb**
+
+    123 670 30 29
+
+
+
+
 **Uddevalla Pastorat**
 
     123 000 76 17 - Uddevalla fikaavgifter
@@ -90392,6 +90517,19 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Umeå Nämndemannaförening**
 
     123 332 00 33
+
+
+
+
+**Umeå Orienteringsklubb**
+
+    123 046 94 78 - Speciella projekt
+
+    123 187 20 01 - Avgift motionsorientering och veckans bana
+
+    123 273 94 15 - Avgift Umeå OK:s naturpasspaket
+
+    123 317 96 37 - Försäljning UOK-aktiviteter/arrangemang
 
 
 
@@ -92212,6 +92350,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vattan-Lövåker-Stocksbo Bygdegårdsförening**
 
     123 676 30 31
+
+
+
+
+**Vattenfalls Veteraner i Norr**
+
+    123 644 96 64
+
+
+
+
+**Vattenfalls Veteraner i Region Öst**
+
+    123 315 05 13
 
 
 

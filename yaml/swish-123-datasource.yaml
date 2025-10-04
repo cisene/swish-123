@@ -2695,7 +2695,6 @@ entries:
   orgNumber: 802467-0286
   comment: null
   categories:
-  - intresseförening
   - pensionärsklubb
   web: https://tipsveteranerna.se/
 
@@ -9842,6 +9841,15 @@ entries:
   - hembygdsförening
   web: https://www.lekvattnet.se/
 
+- entry: 1230469478
+  orgName: Umeå Orienteringsklubb
+  orgNumber: 894001-9865
+  comment: Speciella projekt
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://umeaok.se/
+
 - entry: 1230470237
   orgName: ÖresundsLimmud Sverige
   orgNumber: 802498-6906
@@ -11957,6 +11965,16 @@ entries:
   - golfklubb
   web: https://www.flemmingegolf.se/
 
+- entry: 1230565382
+  orgName: Högsjöns Fiskevårdsområde
+  orgNumber: 802536-8591
+  comment: null
+  categories:
+  - fiskeklubb
+  - fiskevård
+  - fiskevårdsområde
+  web: https://www.ifiske.se/fiske-hogsjons-fvof-med-sjoarna-hogsjon-hallesjon-och-amtasjon.htm
+
 - entry: 1230565622
   orgName: Pingstförsamlingen Bottnaryd
   orgNumber: 826000-0230
@@ -12416,7 +12434,7 @@ entries:
   web: https://teachersacrossborders.se/
 
 - entry: 1230593541
-  orgName: Falkenbergs Orienteringsklubb
+  orgName: Falkenbergs Orienteringsklubb, FOK
   orgNumber: 849000-5165
   comment: null
   categories:
@@ -13701,6 +13719,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/edsforsamling
+
+- entry: 1230673194
+  orgName: Ljusdals Orienteringsklubb
+  orgNumber: 887000-2311
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.ljusdalsok.se/
 
 - entry: 1230677740
   orgName: Rotary International District 2395
@@ -17246,6 +17273,15 @@ entries:
   - godkänd gåvomottagare
   - intresseförening
   web: https://www.sipri.org/
+
+- entry: 1230833475
+  orgName: OK Gränsen
+  orgNumber: 867200-7260
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.laget.se/OKGransen/
 
 - entry: 1230833798
   orgName: Lokalhistoriska Sällskapet i Örebro Län
@@ -39095,6 +39131,7 @@ entries:
   orgNumber: 802513-8150
   comment: null
   categories:
+  - donation
   - insamling
   - stiftelse
   web: https://www.blaljusisamverkan.se/
@@ -39446,6 +39483,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.svenskalag.se/GluggensIF
+
+- entry: 1231872001
+  orgName: Umeå Orienteringsklubb
+  orgNumber: 894001-9865
+  comment: Avgift motionsorientering och veckans bana
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://umeaok.se/
 
 - entry: 1231872696
   orgName: Nickebo IK
@@ -41362,6 +41408,15 @@ entries:
   categories:
   - friluftsliv
   web: https://www.friluftsframjandet.se/regioner/norr/lokalavdelningar/lulea/
+
+- entry: 1231973957
+  orgName: Flygande Veteraner
+  orgNumber: 802012-9378
+  comment: null
+  categories:
+  - flygklubb
+  - flygsport
+  web: https://www.flygandeveteraner.se/
 
 - entry: 1231974138
   orgName: Lunds BoIS
@@ -43393,6 +43448,15 @@ entries:
   - golfbana
   - golfklubb
   web: https://www.akgk.se/
+
+- entry: 1232077253
+  orgName: Torsby Motorveteraner
+  orgNumber: 802465-8067
+  comment: null
+  categories:
+  - motorklubb
+  - motorsällskap
+  web: https://torsbymv.se/
 
 - entry: 1232079374
   orgName: Neptunkryssarförbundet
@@ -50849,6 +50913,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/hofors
 
+- entry: 1232377398
+  orgName: Eksjö Skid- & Orienteringsklubb
+  orgNumber: 827000-5468
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.eksjosok.se/
+
 - entry: 1232377463
   orgName: Munka-Ljungby IBK
   orgNumber: 802441-1103
@@ -57811,6 +57885,15 @@ entries:
   - idrottsförening
   web: https://umea.kfum.se/
 
+- entry: 1232739415
+  orgName: Umeå Orienteringsklubb
+  orgNumber: 894001-9865
+  comment: Avgift Umeå OK:s naturpasspaket
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://umeaok.se/
+
 - entry: 1232740058
   orgName: Annebergs GIF
   orgNumber: 827000-4529
@@ -59271,6 +59354,15 @@ entries:
   - bröstcancer
   - donation
   web: https://dalsland.brostcancerforbundet.se/
+
+- entry: 1232796910
+  orgName: Stockholm Skyttesportförbund
+  orgNumber: 802001-0933
+  comment: null
+  categories:
+  - förbund
+  - sportskytteklubb
+  web: https://www.skarpstockholm.se/
 
 - entry: 1232797306
   orgName: Ukrainska Föreningen Östergötland
@@ -66542,6 +66634,14 @@ entries:
   - ukraina
   web: https://www.powerupukraine.se/
 
+- entry: 1233150513
+  orgName: Vattenfalls Veteraner i Region Öst
+  orgNumber: 802414-8903
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.veteranregost.se/
+
 - entry: 1233151008
   orgName: Fjugesta IF
   orgNumber: 875000-0773
@@ -66857,6 +66957,15 @@ entries:
   - religion
   - ukraina
   web: https://www.svenskakyrkan.se/partille/
+
+- entry: 1233179637
+  orgName: Umeå Orienteringsklubb
+  orgNumber: 894001-9865
+  comment: Försäljning UOK-aktiviteter/arrangemang
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://umeaok.se/
 
 - entry: 1233180015
   orgName: Swedish Association of Regulated Quality Assurance, SARQA
@@ -67318,7 +67427,7 @@ entries:
   web: https://www.burekyrkan.com/
 
 - entry: 1233200839
-  orgName: Lakers Lakejers Tifo
+  orgName: Lakers Lakejer Tifo
   orgNumber: 829502-4486
   comment: null
   categories:
@@ -71887,6 +71996,15 @@ entries:
   - ridklubb
   web: https://foreningenrunsten.se/
 
+- entry: 1233426343
+  orgName: Linköpings Orienteringsklubb
+  orgNumber: 822001-4529
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.lok.se/
+
 - entry: 1233427044
   orgName: Eskilstuna Naturskyddsförening
   orgNumber: 802545-8731
@@ -73351,6 +73469,15 @@ entries:
   categories:
   - stiftelse
   web: https://www.alzheimerstiftelsen.com/
+
+- entry: 1233490117
+  orgName: Sundsvalls OK
+  orgNumber: 889200-8023
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.sundsvallsok.se/
 
 - entry: 1233490166
   orgName: Ekerö Ridskola
@@ -82237,6 +82364,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/hogsrums-hembygdsforening
 
+- entry: 1233918778
+  orgName: Timrå IK Supporterklubb
+  orgNumber: 889201-7974
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://tikare.se/
+
 - entry: 1233921277
   orgName: VSK Tifo
   orgNumber: 802521-7566
@@ -85240,6 +85375,14 @@ entries:
   - restaurant
   web: https://www.golfuppsala.se/
 
+- entry: 1234083739
+  orgName: Green & White Tifo
+  orgNumber: 802544-4723
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.facebook.com/p/Green-White-Tifo-61566603158256/
+
 - entry: 1234084760
   orgName: Skellefteå Pastorat
   orgNumber: 252004-8030
@@ -87868,6 +88011,17 @@ entries:
   categories:
   - religion
   web: https://berghemsgard.se/
+
+- entry: 1234211926
+  orgName: Stockholms Atletklubb, SAK
+  orgNumber: 802011-7951
+  comment: null
+  categories:
+  - idrottsförening
+  - styrkelyftsklubb
+  - styrketräning
+  - tyngdlyftning
+  web: https://www.stockholmsak.se/
 
 - entry: 1234212197
   orgName: Stiftelsen Uppåkra Arkeologiska Center
@@ -96500,6 +96654,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.ifkskoghall.com/
+
+- entry: 1234659702
+  orgName: Skogaby Golfklubb
+  orgNumber: 849201-6657
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://www.skogabygk.se/
 
 - entry: 1234659942
   orgName: S:t Simon Borås, Syrisk Ortodoxa Kyrkan i Borås
@@ -117252,6 +117415,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-tierp/foreningar/vendel.html
 
+- entry: 1235666300
+  orgName: Hällefors Orienteringsklubb
+  orgNumber: 877101-0751
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: http://halleforsok.se/
+
 - entry: 1235666680
   orgName: The Maine Club
   orgNumber: 802428-5606
@@ -119101,6 +119273,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/gkif
 
+- entry: 1235750336
+  orgName: IFK Märsta
+  orgNumber: 814801-2910
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  web: https://www.ifkmarsta.se/
+
 - entry: 1235751193
   orgName: Fightclub Freestyle Stockholm IF
   orgNumber: 802494-5027
@@ -119376,6 +119557,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://www.mullsjo-nordmaling.nu/mullsjo-bgf/
+
+- entry: 1235763321
+  orgName: Sundsvalls OK
+  orgNumber: 889200-8023
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.sundsvallsok.se/
 
 - entry: 1235763453
   orgName: Drakbergsskolan / Kannebäcks friskoleförening
@@ -133552,6 +133742,14 @@ entries:
   - hästuppfödning
   web: https://www.angvaktartorp.se/
 
+- entry: 1236449664
+  orgName: Vattenfalls Veteraner i Norr
+  orgNumber: 802472-2459
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://vvinorr.se/
+
 - entry: 1236449896
   orgName: Lions Club Kinna-Skene
   orgNumber: 865000-5856
@@ -138967,6 +139165,15 @@ entries:
   - religion
   web: https://aysha.se/
 
+- entry: 1236703029
+  orgName: Uddevalla Orienteringsklubb
+  orgNumber: 858500-7001
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.uok.se/
+
 - entry: 1236703136
   orgName: Hillareds IF
   orgNumber: 865000-4958
@@ -139438,6 +139645,14 @@ entries:
   - idrottsförening
   - kampsportsförening
   web: https://www.moveif.se/
+
+- entry: 1236724090
+  orgName: AIK-Tifo
+  orgNumber: 802410-3072
+  comment: '"Svea"'
+  categories:
+  - supporterklubb
+  web: https://aiktifo.se/
 
 - entry: 1236728737
   orgName: Seasick AB
@@ -142307,6 +142522,14 @@ entries:
   - turistförening
   web: https://www.limhamnskortet.se/
 
+- entry: 1236862700
+  orgName: North Power
+  orgNumber: 802462-3392
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.northpower.nu/
+
 - entry: 1236862767
   orgName: Team Rynkeby
   orgNumber: 802533-7869
@@ -143696,6 +143919,14 @@ entries:
   categories:
   - lionsklubb
   web: https://e-clubhouse.org/sites/tyreso/
+
+- entry: 1236919154
+  orgName: 14-3 Örebro
+  orgNumber: 802450-2117
+  comment: NVC Tifo Örebro
+  categories:
+  - supporterklubb
+  web: https://www.fjortontre.se/
 
 - entry: 1236919179
   orgName: Korskyrkans Församling
