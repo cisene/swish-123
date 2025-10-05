@@ -1824,6 +1824,15 @@ entries:
   - hundsporthall
   web: https://tailzone.se/
 
+- entry: 1230086488
+  orgName: Idrottsföreningen Hagen
+  orgNumber: 866600-0651
+  comment: Tipspromenad
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: http://www.ifhagen.nu/
+
 - entry: 1230086561
   orgName: World Evangelical Restoration Ministries, WERM
   orgNumber: 802538-4150
@@ -5288,6 +5297,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.ikspringvast.com/
+
+- entry: 1230264556
+  orgName: OK Eken
+  orgNumber: 822002-6291
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.okeken.se/
 
 - entry: 1230265298
   orgName: Palaestra podd / Palaestra Media
@@ -9728,6 +9746,15 @@ entries:
   - förening
   web: https://ljusfallshammar.nu/
 
+- entry: 1230460766
+  orgName: Almby IK
+  orgNumber: 875000-7265
+  comment: Veteranorientering
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.almbyik.se/
+
 - entry: 1230461137
   orgName: PRO Borås Västra
   orgNumber: 802514-2319
@@ -11069,6 +11096,15 @@ entries:
   categories:
   - scoutkår
   web: https://bask.scout.se/
+
+- entry: 1230518183
+  orgName: Stora Tuna Orienteringsklubb
+  orgNumber: 802435-4642
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://storatuna.nu/
 
 - entry: 1230518381
   orgName: Vallens IF
@@ -20246,6 +20282,15 @@ entries:
   - segelklubb
   - segelsällskap
   web: https://www.svensksegling.se/
+
+- entry: 1230928812
+  orgName: Idrottsföreningen Hagen
+  orgNumber: 866600-0651
+  comment: Xrundan
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: http://www.ifhagen.nu/
 
 - entry: 1230929109
   orgName: Caporales San Simón
@@ -31201,6 +31246,15 @@ entries:
   - motorsport
   web: https://biketrollhattan.se/
 
+- entry: 1231476761
+  orgName: Täby Orienteringsklubb
+  orgNumber: 816000-3847
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.tabyok.se/
+
 - entry: 1231477074
   orgName: Kroatiska Föreningen VELEBIT
   orgNumber: 857204-0544
@@ -34544,6 +34598,17 @@ entries:
   - smycken
   web: https://tennisarmband.se/
 
+- entry: 1231620251
+  orgName: Kvillebyns Sportklubb
+  orgNumber: 855900-2814
+  comment: null
+  categories:
+  - bordtennisklubb
+  - idrottsförening
+  - motionsklubb
+  - orienteringsklubb
+  web: https://www.laget.se/KvillebynsSK
+
 - entry: 1231620657
   orgName: Hammarkinds SK
   orgNumber: 825002-6591
@@ -37719,6 +37784,18 @@ entries:
   - förlag
   - mediaproduktion
   web: https://www.pharosmedia.se/
+
+- entry: 1231779230
+  orgName: Almby IK
+  orgNumber: 875000-7265
+  comment: null
+  categories:
+  - idrottsförening
+  - löparklubb
+  - mountainbikeklubb
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.almbyik.se/
 
 - entry: 1231779495
   orgName: Reumatikerdistriktet Värmland
@@ -46786,6 +46863,15 @@ entries:
   - hjälporganisation
   - stiftelse
   web: https://www.sira.se/
+
+- entry: 1232220499
+  orgName: KFUM Örebro Orientering
+  orgNumber: 875001-9609
+  comment: Naturpasset
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.ol.kfumorebro.se/ol/
 
 - entry: 1232220564
   orgName: Kryddan i tillvaron AB
@@ -59105,6 +59191,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/grange-safsnas
 
+- entry: 1232786796
+  orgName: Utby Idrottsklubb
+  orgNumber: 857203-1113
+  comment: Friidrottssektionen
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  web: https://www.utbyik.se/
+
 - entry: 1232786812
   orgName: Kungsörs Ishockeyklubb
   orgNumber: 817606-7950
@@ -60612,6 +60707,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/bkskottfint
+
+- entry: 1232861912
+  orgName: Ulricehamns Orienteringsklubb
+  orgNumber: 865500-3328
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.ulricehamnsok.se/
 
 - entry: 1232862092
   orgName: Högalids Församling
@@ -64218,7 +64322,7 @@ entries:
   web: https://www.svenskakyrkan.se/varberg
 
 - entry: 1233047065
-  orgName: Tjällmo-Godegårds OK
+  orgName: Tjällmo-Godegårds Orienteringsklubb
   orgNumber: 824000-3437
   comment: null
   categories:
@@ -67521,6 +67625,16 @@ entries:
   - idrottsförening
   web: https://www.vambsif.org/
 
+- entry: 1233204369
+  orgName: Orien Asia / Metvibee AB
+  orgNumber: 559203-0091
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - researrangör
+  web: https://www.orien.asia/
+
 - entry: 1233205499
   orgName: Shoe4Africa Sweden
   orgNumber: 802511-3799
@@ -68970,6 +69084,16 @@ entries:
   - fotoklubb
   web: https://www.lerumsfotoklubb.se/
 
+- entry: 1233274198
+  orgName: Dummies.se i Ärla AB
+  orgNumber: 559413-7290
+  comment: null
+  categories:
+  - försäljning
+  - hundsport
+  - utrustning
+  web: https://www.dummies.se/
+
 - entry: 1233274339
   orgName: Glada svansen i Flen / Anja Skog
   orgNumber: 601222-XXXX
@@ -69043,7 +69167,7 @@ entries:
   web: https://www.svenskalag.se/stegeborgsif
 
 - entry: 1233275740
-  orgName: Finspångs SOK - Orientering
+  orgName: Finspångs SOK
   orgNumber: 825003-9479
   comment: null
   categories:
@@ -71170,6 +71294,15 @@ entries:
   - kryssarklubb
   - segelklubb
   web: https://sxk.se/bottenvikskretsen/
+
+- entry: 1233384203
+  orgName: Nybro Orienteringsklubb
+  orgNumber: 832401-0464
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.nybrook.se/
 
 - entry: 1233384286
   orgName: Föreningen Framåt Kämpersvik
@@ -76349,6 +76482,16 @@ entries:
   - återvinning
   web: https://www.aterbruketklippen.se/
 
+- entry: 1233620101
+  orgName: OK Pan Kristianstad
+  orgNumber: 838200-7667
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - parasport
+  web: https://www.pan-kristianstad.nu/
+
 - entry: 1233620440
   orgName: Vä-Skepparslövs Församling
   orgNumber: 252002-7794
@@ -81484,12 +81627,12 @@ entries:
   web: https://www.gavleponnyklubb.com/
 
 - entry: 1233884285
-  orgName: Piteå IF Orienteringsklubb - Orientering
+  orgName: Piteå IF Orienteringsklubb
   orgNumber: 802505-5495
   comment: Övrigt
   categories:
   - idrottsförening
-  - orientering
+  - orienteringsklubb
   web: https://www.piteaifok.se/
 
 - entry: 1233884293
@@ -81680,6 +81823,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/taby
+
+- entry: 1233892452
+  orgName: IFK Umeå
+  orgNumber: 894000-0634
+  comment: Orienteringssektionen
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.ifkumea.com/
 
 - entry: 1233892478
   orgName: Svenska Röda Korset
@@ -85714,6 +85866,15 @@ entries:
   - hundklubb
   web: https://www.ehdk.se/
 
+- entry: 1234113080
+  orgName: Sjövalla FK Orientering
+  orgNumber: 852000-3305
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://orientering.sjovalla.se/
+
 - entry: 1234113213
   orgName: Nya Ronnebygymnasterna IF
   orgNumber: 802522-0784
@@ -86650,6 +86811,15 @@ entries:
   - bandyklubb
   - idrottsförening
   web: https://www.svenskalag.se/mgoif
+
+- entry: 1234149456
+  orgName: Hellas Orienteringsklubb
+  orgNumber: 802452-6371
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.hellasorientering.se/
 
 - entry: 1234149464
   orgName: Rökåbygdens Byaförening
@@ -88518,6 +88688,15 @@ entries:
   categories:
   - religion
   web: https://www.facebook.com/EVfonden/
+
+- entry: 1234229647
+  orgName: Söderhamns Orienteringsklubb
+  orgNumber: 886000-3576
+  comment: Arrangemang
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://soderhamnsok.se/
 
 - entry: 1234229852
   orgName: Hammarby IF Ishockeyförening
@@ -91382,6 +91561,15 @@ entries:
   - motorsällskap
   web: https://www.svenskalag.se/finspangsms
 
+- entry: 1234405395
+  orgName: OK Hällen
+  orgNumber: 819000-2058
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://okhallen.se/
+
 - entry: 1234405445
   orgName: IFK Borås
   orgNumber: 864500-2984
@@ -92296,6 +92484,15 @@ entries:
   - diabetesvård
   - förening
   web: https://www.swenurse.se/sektionerochnatverk/svenskforeningforsjukskoterskorinomdiabetesvard.4.17badfa01722c2fa1731011e.html
+
+- entry: 1234434981
+  orgName: Utby Idrottsklubb
+  orgNumber: 857203-1113
+  comment: Orienteringssektionen
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.utbyik.se/
 
 - entry: 1234435152
   orgName: Diabetesmammorna
@@ -104931,6 +105128,18 @@ entries:
   - idrottsförening
   web: https://www.laget.se/SmedjebackensFK/
 
+- entry: 1235114087
+  orgName: Ljungskile Friluftsklubb
+  orgNumber: 858500-7761
+  comment: null
+  categories:
+  - friluftsförening
+  - friluftsklubb
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://www.ljungskilefriluftsklubb.se/
+
 - entry: 1235114111
   orgName: Lavad Bygdegårdsförening
   orgNumber: 869000-1758
@@ -106189,6 +106398,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
+
+- entry: 1235148986
+  orgName: Ärla IF
+  orgNumber: 818000-2993
+  comment: Orienteringssektionen
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.arlaif.se/orientering
 
 - entry: 1235149034
   orgName: Askersunds Småbåtshamn
@@ -109242,6 +109460,15 @@ entries:
   categories:
   - religion
   web: https://ansgariikyrkan.se/
+
+- entry: 1235288196
+  orgName: Idrottsföreningen Hagen
+  orgNumber: 866600-0651
+  comment: Orienteringssektionen
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: http://www.ifhagen.nu/
 
 - entry: 1235288303
   orgName: Tröskens Samfällighetsförening
@@ -112831,6 +113058,7 @@ entries:
   comment: Orienteringssektionen
   categories:
   - idrottsförening
+  - orienteringsklubb
   - skidklubb
   web: https://www.skidklubben.se/
 
@@ -131149,6 +131377,15 @@ entries:
   - samfällighetsförening
   web: https://vaxmora.se/
 
+- entry: 1236318398
+  orgName: Almby IK
+  orgNumber: 875000-7265
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.almbyik.se/
+
 - entry: 1236319040
   orgName: Leksands IF Ishockey
   orgNumber: 883200-2078
@@ -144783,6 +145020,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/skane/kommun/hoor/pro-hoor
+
+- entry: 1236959092
+  orgName: Söderhamns Orienteringsklubb
+  orgNumber: 886000-3576
+  comment: Övrigt
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://soderhamnsok.se/
 
 - entry: 1236959431
   orgName: Österfärnebo RS - Ridsport

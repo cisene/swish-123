@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-04-rev-182613
+Revision: 2025-10-05-rev-184751
 
-Nummer: 16732
+Nummer: 16758
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1631,6 +1631,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Almby Församling**
 
     123 148 26 94
+
+
+
+
+**Almby IK**
+
+    123 046 07 66 - Veteranorientering
+
+    123 177 92 30
+
+    123 631 83 98
 
 
 
@@ -15047,6 +15058,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dummies.se i Ärla AB**
+
+    123 327 41 98
+
+
+
+
 **Dundret MTB**
 
     123 134 04 96
@@ -19969,7 +19987,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Finspångs SOK - Orientering**
+**Finspångs SOK**
 
     123 327 57 40
 
@@ -30368,6 +30386,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hellas Orienteringsklubb**
+
+    123 414 94 56
+
+
+
+
 **Hellasgården / Krasiva AB**
 
     123 220 32 14
@@ -34556,6 +34581,17 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Idrottsföreningen Hagen**
+
+    123 008 64 88 - Tipspromenad
+
+    123 092 88 12 - Xrundan
+
+    123 528 81 96 - Orienteringssektionen
+
+
+
+
 **Idrottsföreningen Linné**
 
     123 566 32 99
@@ -35427,6 +35463,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **IFK UMEÅ**
 
     123 082 07 38
+
+    123 389 24 52 - Orienteringssektionen
 
 
 
@@ -41106,6 +41144,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**KFUM Örebro Orientering**
+
+    123 222 04 99 - Naturpasset
+
+
+
+
 **KFUM Östersund Basket**
 
     123 146 53 68
@@ -44576,6 +44621,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kville Billiard Club**
 
     123 249 09 77
+
+
+
+
+**Kvillebyns Sportklubb**
+
+    123 162 02 51
 
 
 
@@ -48624,6 +48676,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ljungsjögården Bed & Box**
 
     123 655 37 96
+
+
+
+
+**Ljungskile Friluftsklubb**
+
+    123 511 40 87
 
 
 
@@ -56906,6 +56965,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nybro Orienteringsklubb**
+
+    123 338 42 03
+
+
+
+
 **Nybro Simklubb**
 
     123 683 90 47
@@ -57861,6 +57927,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**OK Eken**
+
+    123 026 45 56
+
+
+
+
 **OK Enen**
 
     123 627 86 26
@@ -57885,6 +57958,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **OK Gränsen**
 
     123 083 34 75
+
+
+
+
+**OK Hällen**
+
+    123 440 53 95
 
 
 
@@ -57978,6 +58058,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **OK Nolaskogsarna**
 
     123 067 01 41
+
+
+
+
+**OK Pan Kristianstad**
+
+    123 362 01 01
 
 
 
@@ -58426,6 +58513,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Oreparken Ideell Förening**
 
     123 239 05 24
+
+
+
+
+**Orien Asia / Metvibee AB**
+
+    123 320 43 69
 
 
 
@@ -60564,12 +60658,12 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 236 16 99 - Tävling
 
+    123 388 42 85 - Övrigt
+
 
 
 
 **Piteå IF Orienteringsklubb - Orientering**
-
-    123 388 42 85 - Övrigt
 
     123 641 72 99 - Fika
 
@@ -70221,6 +70315,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sjövalla FK Orientering**
+
+    123 411 30 80
+
+
+
+
 **Sjövalladoktorn / Sjövalla Klint Health Care AB**
 
     123 261 85 85
@@ -77754,6 +77855,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stora Tuna Orienteringsklubb**
+
+    123 051 81 83
+
+
+
+
 **Stora Tuna Scoutkår**
 
     123 029 93 13
@@ -83794,6 +83902,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Söderhamns Orienteringsklubb**
+
+    123 422 96 47 - Arrangemang
+
+    123 695 90 92 - Övrigt
+
+
+
+
 **Söderhamns SS**
 
     123 026 87 63
@@ -87555,7 +87672,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Tjällmo-Godegårds OK**
+**Tjällmo-Godegårds Orienteringsklubb**
 
     123 304 70 65
 
@@ -89739,6 +89856,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Täby Orienteringsklubb**
+
+    123 147 67 61
+
+
+
+
 **Täby Ryttarcenter / Ryttarcenter i TÄBY AB**
 
     123 228 83 06
@@ -90299,6 +90423,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ulricehamns MK**
 
     123 593 62 40
+
+
+
+
+**Ulricehamns Orienteringsklubb**
+
+    123 286 19 12
 
 
 
@@ -91413,6 +91544,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **UtbildningsStiftelsen**
 
     123 900 82 69
+
+
+
+
+**Utby Idrottsklubb**
+
+    123 278 67 96 - Friidrottssektionen
+
+    123 443 49 81 - Orienteringssektionen
 
 
 
@@ -98480,6 +98620,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ärla IF**
 
     123 366 98 92
+
+    123 514 89 86 - Orienteringssektionen
 
 
 
