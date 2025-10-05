@@ -1406,7 +1406,7 @@ entries:
   web: https://wendela.se/
 
 - entry: 1230068668
-  orgName: Ludvika HF
+  orgName: Ludvika Handbollsförening
   orgNumber: 883800-3310
   comment: null
   categories:
@@ -3213,7 +3213,7 @@ entries:
   web: https://www.atsubgbg.nu/
 
 - entry: 1230182618
-  orgName: AIK Fotboll
+  orgName: AIK Fotboll AB
   orgNumber: 556520-1190
   comment: null
   categories:
@@ -6596,9 +6596,9 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1230320135
-  orgName: Försoningsgruppen
+  orgName: Rädda Barnens Riksförbund
   orgNumber: 802002-8638
-  comment: null
+  comment: Försoningsgruppen
   categories:
   - godkänd gåvomottagare
   - hjälporganisation
@@ -9692,9 +9692,9 @@ entries:
   web: https://www.flurkmarksik.se/
 
 - entry: 1230450551
-  orgName: Sparven
-  orgNumber: 556706-5262
-  comment: Köket
+  orgName: Västerås Pastorat
+  orgNumber: 252003-0863
+  comment: Sparven, Köket
   categories:
   - religion
   - terminated
@@ -11324,9 +11324,9 @@ entries:
   web: https://www.svenskalag.se/bkljungsbro
 
 - entry: 1230520379
-  orgName: Sparven
-  orgNumber: 556706-5262
-  comment: Kollekt
+  orgName: Västerås Pastorat
+  orgNumber: 252003-0863
+  comment: Sparven, Kollekt
   categories:
   - religion
   - terminated
@@ -66835,9 +66835,9 @@ entries:
   web: https://www.unizonjourer.se/agerakvinnojour/
 
 - entry: 1233115664
-  orgName: Rädda Barnen Uppsala
+  orgName: Rädda Barnens Riksförbund
   orgNumber: 802002-8638
-  comment: null
+  comment: Distrikt Uppsala
   categories:
   - godkänd gåvomottagare
   - hjälporganisation
@@ -67994,9 +67994,9 @@ entries:
   web: https://ssb.biodlarna.se/
 
 - entry: 1233175783
-  orgName: Nordisk Salong / Helsingborgs Konstförening
+  orgName: Helsingborgs Konstförening
   orgNumber: 843000-1837
-  comment: null
+  comment: Nordisk Salong
   categories:
   - event
   - galleri
@@ -79234,7 +79234,7 @@ entries:
   web: https://www.sthbyggnadsforening.se/
 
 - entry: 1233700416
-  orgName: Svenska Livräddningssällskapet Götegorg
+  orgName: Svenska Livräddningssällskapet Göteborg
   orgNumber: 857201-5017
   comment: null
   categories:
@@ -83687,14 +83687,14 @@ entries:
   web: https://www.svenskakyrkan.se/ulricehamn
 
 - entry: 1233912409
-  orgName: Ekwall Rullar / Bröstcancerförbundet
+  orgName: Bröstcancerförbundet
   orgNumber: 802010-4264
-  comment: Ekwall Rullar
+  comment: null
   categories:
   - cancerforskning
   - godkänd gåvomottagare
   - intresseförening
-  web: https://www.ekwallrullar.se/
+  web: https://brostcancerforbundet.se/
 
 - entry: 1233912706
   orgName: Sweden Help East, SHELPE
@@ -86914,14 +86914,14 @@ entries:
   web: https://www.konserthuset.se/
 
 - entry: 1234090072
-  orgName: Rosabandetkampanjen / Cancerfonden
+  orgName: Cancerfonden
   orgNumber: 802005-3370
-  comment: null
+  comment: Rosabandetkampanjen
   categories:
   - cancerförening
   - godkänd gåvomottagare
   - intresseförening
-  web: https://www.cancerfonden.se/rosabandet
+  web: https://www.cancerfonden.se/
 
 - entry: 1234090205
   orgName: Åsa Hagberg - Författare, föreläsare och psalmist
@@ -105493,9 +105493,9 @@ entries:
   web: https://wras.horse/
 
 - entry: 1235071063
-  orgName: Agent12 / AIK Fotboll AB
+  orgName: AIK Fotboll AB
   orgNumber: 556520-1190
-  comment: null
+  comment: Agent12
   categories:
   - insamling
   - supporterklubb
@@ -148525,7 +148525,7 @@ entries:
   web: null
 
 - entry: 1239001009
-  orgName: Rädda Barnen
+  orgName: Rädda Barnens Riksförbund
   orgNumber: 802002-8638
   comment: null
   categories:
@@ -148562,7 +148562,7 @@ entries:
   web: null
 
 - entry: 1239001058
-  orgName: Rädda Barnen
+  orgName: Rädda Barnens Riksförbund
   orgNumber: 802002-8638
   comment: null
   categories:
@@ -148601,7 +148601,7 @@ entries:
   web: https://www.myright.se/
 
 - entry: 1239001116
-  orgName: Rädda Barnen
+  orgName: Rädda Barnens Riksförbund
   orgNumber: 802002-8638
   comment: null
   categories:
@@ -148712,9 +148712,9 @@ entries:
   web: null
 
 - entry: 1239001249
-  orgName: Rädda Barnen distrikt Malmö
+  orgName: Rädda Barnens Riksförbund
   orgNumber: 846000-5294
-  comment: null
+  comment: Distrikt Malmö
   categories:
   - insamlingskontroll
   web: https://www.raddabarnen.se/medlem-och-volontar/malmo-distrikt/
@@ -150766,12 +150766,13 @@ entries:
 
 - entry: 1239003906
   orgName: RFSU Insamlingsstiftelse
-  orgNumber: null
+  orgNumber: 802002-8133
   comment: null
   categories:
   - insamlingskontroll
+  - stiftelse
   - terminated
-  web: null
+  web: https://www.rfsu.se/
 
 - entry: 1239003922
   orgName: Stiftelsen för befrämjande av cancerforskning vid Onkologiska kliniken universitetssjukhuset MAS
@@ -152343,7 +152344,7 @@ entries:
   web: https://www.dispurse.org/
 
 - entry: 1239006008
-  orgName: Rädda Barnen
+  orgName: Rädda Barnens Riksförbund
   orgNumber: 802002-8638
   comment: null
   categories:
@@ -152415,7 +152416,7 @@ entries:
   web: https://www.prostatacancerforbundet.se/
 
 - entry: 1239006099
-  orgName: RFSU, Riksförbundet för Sexuell Upplysning
+  orgName: RFSU Insamlingsstiftelse
   orgNumber: 802002-8133
   comment: null
   categories:
@@ -152496,7 +152497,8 @@ entries:
   categories:
   - insamlingskontroll
   - overifierad
-  web: https://www.rfsuinsamling.se/
+  - stiftelse
+  web: https://www.rfsu.se/
 
 - entry: 1239006206
   orgName: TV Inter Club
@@ -152514,7 +152516,7 @@ entries:
   - insamlingskontroll
   - overifierad
   - stiftelse
-  web: https://www.rfsuinsamling.se/
+  web: https://www.rfsu.se/
 
 - entry: 1239006222
   orgName: RFSU Insamlingsstiftelse
@@ -152524,7 +152526,7 @@ entries:
   - insamlingskontroll
   - overifierad
   - stiftelse
-  web: https://www.rfsuinsamling.se/
+  web: https://www.rfsu.se/
 
 - entry: 1239006248
   orgName: Loza Foundation Insamlingsstiftelse
@@ -154560,7 +154562,7 @@ entries:
   web: null
 
 - entry: 1239010257
-  orgName: Rädda Barnen
+  orgName: Rädda Barnens Riksförbund
   orgNumber: 802002-8638
   comment: null
   categories:

@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-05-rev-200803
+Revision: 2025-10-05-rev-204403
 
 Nummer: 16758
 
@@ -683,13 +683,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Agent12 / AIK Fotboll AB**
-
-    123 507 10 63
-
-
-
-
 **Agera Kvinnojour**
 
     123 311 55 57
@@ -727,16 +720,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**AIK Fotboll**
+**AIK Fotboll AB**
 
     123 018 26 18
 
-
-
-
-**AIK Fotboll AB**
-
     123 034 69 73
+
+    123 507 10 63 - Agent12
 
 
 
@@ -10488,6 +10478,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Bröstcancerförbundet**
 
+    123 391 24 09
+
     123 900 59 19
 
     123 900 82 28
@@ -11515,6 +11507,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 045 09 73
 
     123 188 47 58
+
+
+
+
+**Cancerfonden**
+
+    123 409 00 72 - Rosabandetkampanjen
 
 
 
@@ -16328,13 +16327,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ekumeniakyrkan Tibro**
 
     123 153 35 87
-
-
-
-
-**Ekwall Rullar / Bröstcancerförbundet**
-
-    123 391 24 09 - Ekwall Rullar
 
 
 
@@ -24908,13 +24900,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Försoningsgruppen**
-
-    123 032 01 35
-
-
-
-
 **Första Hjälpengruppen Alpha**
 
     123 263 04 65
@@ -30482,6 +30467,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Helsingborgs Konstförening**
+
+    123 317 57 83 - Nordisk Salong
 
     123 691 58 96
 
@@ -49201,14 +49188,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Ludvika Handbollsförening**
 
-    123 008 37 09 - Truls Lindström Minnesfond
-
-
-
-
-**Ludvika HF**
-
     123 006 86 68
+
+    123 008 37 09 - Truls Lindström Minnesfond
 
 
 
@@ -55696,13 +55678,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nordisk Naturterapi**
 
     123 234 97 77
-
-
-
-
-**Nordisk Salong / Helsingborgs Konstförening**
-
-    123 317 57 83
 
 
 
@@ -64147,7 +64122,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**RFSU, Riksförbundet för Sexuell Upplysning**
+**RFSU Insamlingsstiftelse**
 
     123 900 60 99
 
@@ -65283,13 +65258,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ropgränds Samfällighetsförening**
 
     123 205 96 16
-
-
-
-
-**Rosabandetkampanjen / Cancerfonden**
-
-    123 409 00 72
 
 
 
@@ -66947,23 +66915,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Rädda Barnen distrikt Malmö**
+**Rädda Barnens Riksförbund**
 
-    123 900 12 49
+    123 032 01 35 - Försoningsgruppen
 
+    123 311 56 64 - Distrikt Uppsala
 
-
-
-**Rädda Barnen Uppsala**
-
-    123 311 56 64
+    123 902 00 33
 
 
 
 
 **Rädda Barnens Riksförbund**
 
-    123 902 00 33
+    123 900 12 49 - Distrikt Malmö
 
 
 
@@ -80705,14 +80670,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Livräddningssällskapet Göteborg**
 
-    123 699 16 40
-
-
-
-
-**Svenska Livräddningssällskapet Götegorg**
-
     123 370 04 16
+
+    123 699 16 40
 
 
 
