@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-05-rev-184751
+Revision: 2025-10-05-rev-200803
 
 Nummer: 16758
 
@@ -4310,22 +4310,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Barkarö Bygdegårdsförening**
 
     123 006 44 69
-
-
-
-
-**Barkarö - Dingtuna - Rytterne Församling**
-
-    123 691 75 46 - Husmor
-
-
-
-
-**Barkarö Församling**
-
-    123 220 62 66 - Kollekt
-
-    123 578 98 70 - Honung
 
 
 
@@ -11080,17 +11064,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bäckby Församling**
-
-    123 121 74 13 - Kollekt
-
-    123 207 34 92 - Diverse
-
-    123 226 28 63 - Husmor
-
-
-
-
 **Bäckebo GOIF**
 
     123 320 19 77
@@ -14082,13 +14055,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dingtuna Bygdegårdsförening**
 
     123 544 17 87
-
-
-
-
-**Dingtuna Kyrka**
-
-    123 154 24 14 - Kollekt
 
 
 
@@ -25576,23 +25542,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gide Get - Getgården i Djuptjärn**
 
     123 455 32 77
-
-
-
-
-**Gideonsbergskyrkan**
-
-    123 018 32 36 - Fair Trade
-
-    123 033 70 22 - Insamlingar och aktiviteter
-
-    123 315 78 15 - Husmor
-
-    123 541 32 24 - Kollekt
-
-    123 640 59 48 - Deltagaravgift
-
-    123 674 22 09 - Barnverksamhet
 
 
 
@@ -37765,15 +37714,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Irsta Kyrka**
-
-    123 147 05 25 - Köket
-
-    123 511 78 41 - Öppna förskolan
-
-
-
-
 **ISAAC Sverige**
 
     123 524 69 54
@@ -44403,13 +44343,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kungsåra Kyrka**
-
-    123 085 55 51 - Kollekt
-
-
-
-
 **Kungsörs Baptistförsamling**
 
     123 521 97 87 - Lägerverksamhet
@@ -45275,13 +45208,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kvänums IF**
 
     123 173 35 34
-
-
-
-
-**Kyrkbacksgården**
-
-    123 668 88 65 - Serveringen
 
 
 
@@ -51273,19 +51199,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Mariagården i Skultuna**
-
-    123 087 04 44 - Husmor
-
-    123 395 65 21 - Kollekt
-
-    123 499 08 75 - Mariaboden
-
-    123 634 89 99 - ACT
-
-
-
-
 **Mariakyrkans Församling**
 
     123 105 62 17
@@ -52408,19 +52321,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Midsommarkransens Trafikskola AB**
 
     123 661 59 26
-
-
-
-
-**Mikaelikyrkan**
-
-    123 230 49 88 - Diverse
-
-    123 230 49 96 - Kollekt
-
-    123 669 88 98 - Köket
-
-    123 694 17 51 - Bokbordet
 
 
 
@@ -59167,15 +59067,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Palestinagrupperna i Sverige**
 
     123 901 15 78
-
-
-
-
-**Paletten**
-
-    123 135 90 17 - Kollekt
-
-    123 373 73 76 - Café
 
 
 
@@ -67056,13 +66947,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Rytterne Kyrka**
-
-    123 225 08 19 - Kollekt
-
-
-
-
 **Rädda Barnen distrikt Malmö**
 
     123 900 12 49
@@ -69533,11 +69417,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 319 91 14
 
-
-
-
-**Shelterbox Sverige Ideell förening**
-
     123 900 54 30
 
 
@@ -71044,13 +70923,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skepplanda Pastorat**
 
     123 263 73 95
-
-
-
-
-**Skerike Kyrka**
-
-    123 134 25 26 - Kollekt
 
 
 
@@ -80768,13 +80640,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska Kyrkan Västerås**
-
-    123 240 86 56 - Café Malin
-
-
-
-
 **Svenska Kyrkans Unga-Gröna Draken**
 
     123 520 80 04
@@ -87341,17 +87206,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Tillberga Kyrka**
-
-    123 088 89 17 - Kollekt
-
-    123 362 64 96 - Dop/Clownetterna
-
-    123 671 97 44 - Klädbytardagar, jullunch
-
-
-
-
 **Tillman Entertainment AB**
 
     123 555 77 56
@@ -87927,19 +87781,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tomarps Kungsgårds Vänner**
 
     123 292 64 18
-
-
-
-
-**Tomaskyrkan**
-
-    123 115 33 29 - Öppna förskolan
-
-    123 147 05 17 - Ungdomsverksamheten
-
-    123 379 04 74 - Köket
-
-    123 694 18 76 - Kollekt
 
 
 
@@ -93294,21 +93135,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Viksängskyrkan**
-
-    123 042 39 96 - Ungdomsverksamheten
-
-    123 263 18 36 - Köket
-
-    123 278 60 02 - Kollekt
-
-    123 336 37 69 - Öppna förskolan
-
-    123 517 11 37 - Anna K/ Ungdom Öst
-
-
-
-
 **Viktor Klemming / Viktor Klemming AB**
 
     123 145 40 16
@@ -95674,25 +95500,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Västerås Domkyrka**
-
-    123 073 70 31 - Ljusbärare
-
-    123 170 26 87 - Ny musik
-
-    123 209 69 64 - Gruppvisningar med guide
-
-    123 304 97 07 - Körverksamhet
-
-    123 343 10 79 - Musikverksamhet
-
-    123 634 68 03 - Kollekt
-
-    123 682 56 32 - Katedralbutiken
-
-
-
-
 **Västerås Friidrottsklubb**
 
     123 322 81 60
@@ -95859,6 +95666,117 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerås Musiksällskap**
 
     123 459 68 54
+
+
+
+
+**Västerås Pastorat**
+
+    123 018 32 36 - Gideonsbergskyrkan, Fair Trade
+
+    123 033 70 22 - Gideonsbergskyrkan, Insamlingar och aktiviteter
+
+    123 042 39 96 - Viksängskyrkan, Ungdomsverksamheten
+
+    123 073 70 31 - Västerås Domkyrka, Ljusbärare
+
+    123 085 55 51 - Kungsåra Kyrka, Kollekt
+
+    123 087 04 44 - Mariagården i Skultuna, Husmor
+
+    123 088 89 17 - Tillberga Kyrka, Kollekt
+
+    123 115 33 29 - Tomaskyrkan, Öppna förskolan
+
+    123 121 74 13 - Bäckby Försalmling, Kollekt
+
+    123 134 25 26 - Skerike Kyrka, Kollekt
+
+    123 135 90 17 - Paletten, Kollekt
+
+    123 147 05 17 - Tomaskyrkan, Ungdomsverksamheten
+
+    123 147 05 25 - Irsta Kyrka, Köket
+
+    123 154 24 14 - Dingtuna Kyrka, Kollekt
+
+    123 170 26 87 - Västerås Domkyrka, Ny musik
+
+    123 207 34 92 - Bäckby Församling, Diverse
+
+    123 209 69 64 - Västerås Domkyrka, Gruppvisningar med guide
+
+    123 220 62 66 - Barkarö Församling, Kollekt
+
+    123 225 08 19 - Rytterne Kyrka, Kollekt
+
+    123 226 28 63 - Bäckby Församling, Husmor
+
+    123 230 49 88 - Mikaelikyrkan, Diverse
+
+    123 230 49 96 - Mikaelikyrkan, Kollekt
+
+    123 240 86 56 - Café Malin
+
+    123 263 18 36 - Viksängskyrkan, Köket
+
+    123 278 60 02 - Viksängskyrkan, Kollekt
+
+    123 304 97 07 - Västerås Domkyrka, Körverksamhet
+
+    123 315 78 15 - Gideonsbergskyrkan, Husmor
+
+    123 336 37 69 - Viksängskyrkan, Öppna förskolan
+
+    123 338 29 59 - Önsta-Gryta Kyrka, Kollekt/Klädbytardagar
+
+    123 343 10 79 - Västerås Domkyrka, Musikverksamhet
+
+    123 362 64 96 - Tillberga Kyrka, Dop/Clownetterna
+
+    123 373 73 76 - Paletten, Café
+
+    123 379 04 74 - Tomaskyrkan, Köket
+
+    123 395 65 21 - Mariagården i Skultuna, Kollekt
+
+    123 494 76 44 - Önsta-Gryta Kyrka, Ungdomsverksamhet/ACT
+
+    123 499 08 75 - Mariagården i Skultuna, Mariaboden
+
+    123 511 78 41 - Irsta Kyrka, Öppna förskolan
+
+    123 517 11 37 - Viksängskyrkan, Anna K/ Ungdom Öst
+
+    123 541 32 24 - Gideonsbergskyrkan, Kollekt
+
+    123 578 98 70 - Barkarö Församling, Honung
+
+    123 628 40 20 - Önsta-Gryta Kyrka, Diakoni
+
+    123 634 68 03 - Västerås Domkyrka, Kollekt
+
+    123 634 89 99 - Mariagården i Skultuna, ACT
+
+    123 640 59 48 - Gideonsbergskyrkan, Deltagaravgift
+
+    123 668 88 65 - Kyrkbacksgården, Serveringen
+
+    123 669 88 98 - Mikaelikyrkan, Köket
+
+    123 671 97 44 - Tillberga Kyrka, Klädbytardagar, jullunch
+
+    123 674 22 09 - Gideonsbergskyrkan, Barnverksamhet
+
+    123 682 56 32 - Västerås Domkyrka, Katedralbutiken
+
+    123 691 75 46 - Barkarö-Dingtuna-Rytterne Församling, Husmor
+
+    123 694 17 51 - Mikaelikyrkan, Bokbordet
+
+    123 694 18 76 - Tomaskyrkan, Kollekt
+
+    123 694 20 15 - Önsta-Gryta Kyrka, Husmor
 
 
 
@@ -100142,19 +100060,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Önskestjärnan**
 
     123 110 25 08
-
-
-
-
-**Önsta-Gryta Kyrka**
-
-    123 338 29 59 - Kollekt/Klädbytardagar
-
-    123 494 76 44 - Ungdomsverksamhet/ACT
-
-    123 628 40 20 - Diakoni
-
-    123 694 20 15 - Husmor
 
 
 
