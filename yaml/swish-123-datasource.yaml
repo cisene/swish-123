@@ -5299,7 +5299,7 @@ entries:
   web: https://www.ikspringvast.com/
 
 - entry: 1230264556
-  orgName: OK Eken
+  orgName: Ok Eken Åtvidaberg
   orgNumber: 822002-6291
   comment: null
   categories:
@@ -5967,8 +5967,7 @@ entries:
   orgNumber: 012001-3396
   comment: null
   categories:
-  - förening
-  - jakt
+  - jaktskytteklubb
   - skytteklubb
   web: https://www.stolvsbojaktskytte.se/
 
@@ -6119,6 +6118,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.kvibillebk.se/
+
+- entry: 1230303909
+  orgName: Matfors Jaktskytteklubb
+  orgNumber: 889202-2941
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  web: https://matforsjsk.com/
 
 - entry: 1230304063
   orgName: Eslövs Pastorat
@@ -18236,6 +18244,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/VIKFotboll/
 
+- entry: 1230859314
+  orgName: Hammenhögs Pistolklubb
+  orgNumber: 838800-8305
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  web: https://hhpk.se/
+
 - entry: 1230860065
   orgName: Roslagens Norra Pastorat
   orgNumber: 252004-8899
@@ -24897,6 +24914,14 @@ entries:
   - patientförening
   web: https://www.diabetes.se/medlem/foreningar/lansforeningen-i-kalmar-lan/diabetesfor.-kalmar-oland-m.o/
 
+- entry: 1231160787
+  orgName: Norrköpings Pastorat
+  orgNumber: 252003-0244
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/norrkoping
+
 - entry: 1231160944
   orgName: Jesus För Dig / Stiftelsen bibelskolan.com
   orgNumber: 857209-5266
@@ -25704,6 +25729,17 @@ entries:
   categories:
   - restaurant
   web: https://denlillakrogen.se/
+
+- entry: 1231206945
+  orgName: Alingsåspolisen IF
+  orgNumber: 802503-5745
+  comment: null
+  categories:
+  - blåljus
+  - cykelklubb
+  - idrottsförening
+  - mountainbikeklubb
+  web: null
 
 - entry: 1231209295
   orgName: FK Herkules
@@ -33787,6 +33823,16 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-vittsjo/
 
+- entry: 1231584655
+  orgName: Hisingen Göteborg Jaktvårdskrets
+  orgNumber: 857209-4541
+  comment: Serieavgift Älgbana
+  categories:
+  - jaktskytteklubb
+  - jaktvårdsklubb
+  - skytteklubb
+  web: https://hgjvk.se/
+
 - entry: 1231584945
   orgName: Övertorneå Församling
   orgNumber: 252004-0607
@@ -35387,6 +35433,15 @@ entries:
   - pool
   web: https://www.facebook.com/bjarnumsbiljardklubb/
 
+- entry: 1231668284
+  orgName: Jaktskytteklubben Marks Jaktskyttar
+  orgNumber: 802493-6281
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  web: https://www.marksjaktskyttar.com/
+
 - entry: 1231668581
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
@@ -36082,6 +36137,16 @@ entries:
   categories:
   - psykisk hälsa
   web: https://teamtilia.se/
+
+- entry: 1231707223
+  orgName: Fellingsbro GoIF
+  orgNumber: 877100-0406
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.laget.se/fellingsbrogoif
 
 - entry: 1231707876
   orgName: Kristen Idrottskontakt, KRIK
@@ -40989,6 +41054,15 @@ entries:
   - hushållningssällskap
   - intresseförening
   web: https://hushallningssallskapet.se/hushallningssallskapet-stockholm-uppsala-sodermanland/
+
+- entry: 1231950146
+  orgName: Mälarhöjdens Pistolskyttar
+  orgNumber: 802406-5602
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - sportskytteklubb
+  web: https://www.mpsskytte.se/
 
 - entry: 1231950195
   orgName: Valbo FF
@@ -45921,6 +45995,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vaxholm
 
+- entry: 1232183119
+  orgName: Ramsbergs Pistol och Sportskytteklubb
+  orgNumber: 877100-2253
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - sportskytteklubb
+  web: https://ramsbergspsk.org/
+
 - entry: 1232183143
   orgName: Hagshults Missionsförsamling
   orgNumber: 828000-0913
@@ -48026,6 +48109,15 @@ entries:
   - galleri
   - konstförening
   web: https://www.flamenska.se/
+
+- entry: 1232257814
+  orgName: Dalapolisens hundförarförening
+  orgNumber: 802507-3605
+  comment: null
+  categories:
+  - blåljus
+  - hundträning
+  web: null
 
 - entry: 1232257848
   orgName: Uppsala BoIS
@@ -54149,7 +54241,7 @@ entries:
   web: https://www.annasveranda.se/
 
 - entry: 1232579910
-  orgName: Sandvikens skyttegille
+  orgName: Sandvikens Skyttegille
   orgNumber: 885500-6527
   comment: null
   categories:
@@ -60977,6 +61069,18 @@ entries:
   - folkrörelse
   web: https://folketsparkarboga.se/
 
+- entry: 1232873867
+  orgName: Karl Olsson Shooting Sports AB
+  orgNumber: 559041-3836
+  comment: null
+  categories:
+  - jaktvapen
+  - luftvapen
+  - sportskyttevapen
+  - vapensmed
+  - vapenverkstad
+  web: https://www.karlolsson.se/
+
 - entry: 1232873941
   orgName: Föreningen Gamla Carlscrona
   orgNumber: 835000-3482
@@ -66456,6 +66560,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/SolangensBK/
 
+- entry: 1233138278
+  orgName: Underbara Hemlösa Älskade Katter
+  orgNumber: 802506-3960
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.facebook.com/underbarahemlosaalskadekatter
+
 - entry: 1233138286
   orgName: Fight Center Linköping / Jonas Ivung
   orgNumber: 820806-XXXX
@@ -71852,6 +71965,16 @@ entries:
   - hembygdsförening
   web: https://www.vaddohembygdsforening.se/
 
+- entry: 1233408408
+  orgName: Västeråspolisens Idrottsförening
+  orgNumber: 878000-8184
+  comment: null
+  categories:
+  - blåljus
+  - idrottsförening
+  - innebandyklubb
+  web: null
+
 - entry: 1233408507
   orgName: Gespars Vänner
   orgNumber: 802505-9638
@@ -73175,6 +73298,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.sis.nu/
+
+- entry: 1233466943
+  orgName: Östhammars Jaktskytteklubb
+  orgNumber: 817301-1233
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  web: https://osthammar-jsk.se/
 
 - entry: 1233467172
   orgName: Västermalms Båtklubb
@@ -77211,6 +77343,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.flodaboif.se/
+
+- entry: 1233650397
+  orgName: Västerviks Jaktskytteklubb
+  orgNumber: 833600-7441
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  web: https://www.facebook.com/p/V%C3%A4sterviks-Jaktskytteklubb-100072519786080/
 
 - entry: 1233650538
   orgName: SPF Seniorerna Björka-Ödåkra
@@ -87857,7 +87998,7 @@ entries:
   web: https://www.svenskalag.se/royalcrowns
 
 - entry: 1234199550
-  orgName: Njurunda OK - Orientering
+  orgName: Njurunda Orienteringsklubb
   orgNumber: 889200-8171
   comment: null
   categories:
@@ -92684,6 +92825,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/albo-harad
 
+- entry: 1234455077
+  orgName: Göteborgspolisens Tjänstehundklubb - Region Väst, GPTK
+  orgNumber: 802462-2592
+  comment: null
+  categories:
+  - blåljus
+  - hundträning
+  web: null
+
 - entry: 1234462297
   orgName: Joakim Løvgren - Historical Riding
   orgNumber: 890612-XXXX
@@ -94727,7 +94877,7 @@ entries:
   - blåljus
   - förening
   - stiftelse
-  web: https://www.polisforbundet.se/om-oss/polisforbundets-stiftelser-och-fonder/
+  web: https://polisskadestiftelsen.se/
 
 - entry: 1234559738
   orgName: Team Rynkeby
@@ -97168,11 +97318,12 @@ entries:
   web: https://www.motalavattenskidklubb.se/
 
 - entry: 1234673182
-  orgName: eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning / eFolkets Vänner
+  orgName: eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning
   orgNumber: 802498-1287
   comment: null
   categories:
   - lokalmedia
+  - lokaltidning
   - mediaproduktion
   web: https://efolket.eu/
 
@@ -98472,6 +98623,15 @@ entries:
   - bostadsrättsförening
   web: https://skogalundsklippan.se/
 
+- entry: 1234729893
+  orgName: Sörmlandspolisens Tjänstehundklubb
+  orgNumber: 802520-3897
+  comment: null
+  categories:
+  - blåljus
+  - hundträning
+  web: null
+
 - entry: 1234729968
   orgName: Visby Domkyrkoförsamling
   orgNumber: 252000-8083
@@ -98669,6 +98829,16 @@ entries:
   - intresseförening
   - kallbadhus
   web: https://www.havsbadet.com/
+
+- entry: 1234745550
+  orgName: Polisens Hundförarförbund
+  orgNumber: 817001-2168
+  comment: null
+  categories:
+  - blåljus
+  - förbund
+  - hundträning
+  web: https://polishunden.se/
 
 - entry: 1234745568
   orgName: Team Västernorrland Innebandy
@@ -99108,6 +99278,16 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/valbo
+
+- entry: 1234779427
+  orgName: Hisingen Göteborg Jaktvårdskrets
+  orgNumber: 857209-4541
+  comment: Serieavgift Hagelbanor
+  categories:
+  - jaktskytteklubb
+  - jaktvårdsklubb
+  - skytteklubb
+  web: https://hgjvk.se/
 
 - entry: 1234779518
   orgName: Osby Pastorat
@@ -114796,6 +114976,15 @@ entries:
   - ishockeyklubb
   web: https://www.svenskalag.se/soderhamnljusnehc
 
+- entry: 1235534094
+  orgName: Genvalla Jaktskytteklubb
+  orgNumber: 893200-4297
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  web: https://genvallajsk.se/
+
 - entry: 1235534136
   orgName: Mariestads Ridklubb
   orgNumber: 866000-6308
@@ -117568,6 +117757,15 @@ entries:
   - idrottsförening
   web: https://www.iflinne.se/
 
+- entry: 1235664107
+  orgName: Stenungsunds Friidrott
+  orgNumber: 853300-9315
+  comment: null
+  categories:
+  - friidrottsförening
+  - idrottsförening
+  web: https://stenungsundfriidrott.se/
+
 - entry: 1235664628
   orgName: Uppsala Biodlareförening
   orgNumber: 817600-5307
@@ -120260,6 +120458,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/aneby
+
+- entry: 1235777842
+  orgName: Polishundförarföreningen Region Syd
+  orgNumber: 802415-1733
+  comment: null
+  categories:
+  - blåljus
+  - hundträning
+  web: null
 
 - entry: 1235780515
   orgName: Motorförarnas Helnykterhetsförbund, MHF
@@ -125611,6 +125818,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/IFKArvidsjaurF11-12/
 
+- entry: 1236057756
+  orgName: Indals Övre Skytteförening
+  orgNumber: 802530-1402
+  comment: null
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.facebook.com/indalsovreskytteforening/
+
 - entry: 1236059059
   orgName: Din Kiropraktor Falkenberg AB
   orgNumber: 559091-0260
@@ -128017,6 +128233,15 @@ entries:
   categories:
   - konstförening
   web: https://nhkf.se/
+
+- entry: 1236161004
+  orgName: Ulricehamns Sportskyttar
+  orgNumber: 802473-1930
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - sportskytteklubb
+  web: https://www.sportskyttar.se/
 
 - entry: 1236161061
   orgName: Stalons Skoterklubb
@@ -134330,6 +134555,15 @@ entries:
   - utbildning
   web: https://www.molndal.se/campus-molndal/larcentrum.html
 
+- entry: 1236468854
+  orgName: Stockholmspolisens Tjänstehundklubb
+  orgNumber: 802403-8187
+  comment: null
+  categories:
+  - blåljus
+  - hundträning
+  web: null
+
 - entry: 1236468938
   orgName: Trelleborg Padelklubb
   orgNumber: 802521-9679
@@ -134846,6 +135080,15 @@ entries:
   categories:
   - hållbar innovation
   web: https://www.2022initiative.org/
+
+- entry: 1236493712
+  orgName: Eksjö Kommun
+  orgNumber: 212000-0589
+  comment: Torghandels taxa
+  categories:
+  - kommun
+  - torghandel
+  web: https://eksjo.se/
 
 - entry: 1236493894
   orgName: Katolska Skolan av Notre Dame
@@ -136221,6 +136464,17 @@ entries:
   - hälsa
   - idrottsförening
   web: https://www.friskissvettis.se/olofstrom
+
+- entry: 1236538193
+  orgName: Jönköpingspolisens Skytte- och Idrottsförening
+  orgNumber: 826000-9835
+  comment: null
+  categories:
+  - blåljus
+  - idrottsförening
+  - padelklubb
+  - skytteklubb
+  web: null
 
 - entry: 1236538623
   orgName: Centrumkyrkan i Sundbyberg
@@ -139594,6 +139848,15 @@ entries:
   categories:
   - nykterhetsförbund
   web: https://www.iogt.se/
+
+- entry: 1236713341
+  orgName: FGI - Föreningen Gutnisk Idrott
+  orgNumber: 834000-1067
+  comment: null
+  categories:
+  - idrottsförening
+  - kulturförening
+  web: https://www.gutniskidrott.org/
 
 - entry: 1236713523
   orgName: Sandsbro AIK
@@ -143296,6 +143559,16 @@ entries:
   - taekwondoklubb
   web: https://www.vasterastaekwondo.se/
 
+- entry: 1236889273
+  orgName: Metvibee AB
+  orgNumber: 559203-0091
+  comment: null
+  categories:
+  - löpning
+  - orientering
+  - researrangör
+  web: https://www.metvibee.com/
+
 - entry: 1236889992
   orgName: BK Femtionian
   orgNumber: 837000-5384
@@ -143322,6 +143595,16 @@ entries:
   - hundsport
   - nosework
   web: https://onwf.se/
+
+- entry: 1236895437
+  orgName: Malmö Polisens Gymnastik och Idrottsförening, MPGI
+  orgNumber: 846000-4016
+  comment: null
+  categories:
+  - blåljus
+  - gymnastikförening
+  - idrottsförening
+  web: https://skanepolisen.se/
 
 - entry: 1236895601
   orgName: Billinge Brukshundklubb
@@ -145279,6 +145562,17 @@ entries:
   - friidrottsförening
   - idrottsförening
   web: https://www.svenskalag.se/brannansif
+
+- entry: 1236976213
+  orgName: Norrtäljepolisens Skytte och Idrottsklubb, NPSIK
+  orgNumber: 814400-1438
+  comment: null
+  categories:
+  - blåljus
+  - idrottsförening
+  - orienteringsklubb
+  - skytteklubb
+  web: null
 
 - entry: 1236977508
   orgName: Yoga Med Helen Ab

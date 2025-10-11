@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-05-rev-204403
+Revision: 2025-10-11-rev-210442
 
-Nummer: 16758
+Nummer: 16789
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1502,6 +1502,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Alingsåsortens Jaktskytteförening**
 
     123 281 01 33
+
+
+
+
+**Alingsåspolisen IF**
+
+    123 120 69 45
 
 
 
@@ -12967,6 +12974,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dalapolisens hundförarförening**
+
+    123 225 78 14
+
+
+
+
 **Dalarna Femund-forkörarförening**
 
     123 095 07 74
@@ -15615,7 +15629,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning / eFolkets Vänner**
+**eFolket - En Folklig, Lokal och Kosmopolistisk Eskilstuna-Tidning**
 
     123 467 31 82
 
@@ -16200,6 +16214,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Eksjö Församling**
 
     123 042 95 97 - Kollekt
+
+
+
+
+**Eksjö Kommun**
+
+    123 649 37 12 - Torghandels taxa
 
 
 
@@ -19484,6 +19505,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Fellingsbro GoIF**
+
+    123 170 72 23
+
+
+
+
 **Fem i Topp / Firma Carl Johan Östling AB**
 
     123 500 69 52
@@ -19552,6 +19580,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **FFK-Dunkroken**
 
     123 483 61 66
+
+
+
+
+**FGI - Föreningen Gutnisk Idrott**
+
+    123 671 33 41
 
 
 
@@ -25396,6 +25431,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Genvalla Jaktskytteklubb**
+
+    123 553 40 94
+
+
+
+
 **Geocentrums Vänner i Riddarhyttan**
 
     123 632 75 06
@@ -28415,6 +28457,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Göteborgspolisens Tjänstehundklubb - Region Väst, GPTK**
+
+    123 445 50 77
+
+
+
+
 **Göteborgsregionens Nämndemannaförening**
 
     123 440 36 48
@@ -29127,6 +29176,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hammenhögs IF**
 
     123 527 30 32
+
+
+
+
+**Hammenhögs Pistolklubb**
+
+    123 085 93 14
 
 
 
@@ -31027,6 +31083,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hishults Gymnastikförening**
 
     123 563 91 74
+
+
+
+
+**Hisingen Göteborg Jaktvårdskrets**
+
+    123 158 46 55 - Serieavgift Älgbana
+
+    123 477 94 27 - Serieavgift Hagelbanor
 
 
 
@@ -36086,6 +36151,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Indals Övre Skytteförening**
+
+    123 605 77 56
+
+
+
+
 **Indian Motorcycle Club Sweden**
 
     123 600 37 92
@@ -37953,6 +38025,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jaktskytteklubben Marks Jaktskyttar**
+
+    123 166 82 84
+
+
+
+
 **Jaktspanielklubben**
 
     123 338 98 63
@@ -39266,6 +39345,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jönköpingspolisens Skytte- och Idrottsförening**
+
+    123 653 81 93
+
+
+
+
 **Jöns Henrikssons Minnesförening**
 
     123 418 11 45
@@ -39948,6 +40034,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Karin Fagerblom Pilates / Karin Fagerblom**
 
     123 287 31 72
+
+
+
+
+**Karl Olsson Shooting Sports AB**
+
+    123 287 38 67
 
 
 
@@ -50939,6 +51032,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malmö Polisens Gymnastik och Idrottsförening, MPGI**
+
+    123 689 54 37
+
+
+
+
 **Malmö Pride**
 
     123 499 37 70
@@ -51643,6 +51743,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Matfors Jaktskytteklubb**
+
+    123 030 39 09
+
+
+
+
 **Matfors Konstförening**
 
     123 019 31 10
@@ -52233,6 +52340,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **metmask.com / Animal-A Alltjänst AB**
 
     123 298 17 10
+
+
+
+
+**Metvibee AB**
+
+    123 688 92 73
 
 
 
@@ -53962,6 +54076,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Mälarhöjdens Pistolskyttar**
+
+    123 195 01 46
+
+
+
+
 **Mälarhöjdens Ryttarsällskap, MRS**
 
     123 512 75 50
@@ -55219,7 +55340,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Njurunda OK - Orientering**
+**Njurunda Orienteringsklubb**
 
     123 419 95 50
 
@@ -56271,6 +56392,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Norrköpings Pastorat**
+
+    123 116 07 87
+
+
+
+
 **Norrköpings Raggarklubb**
 
     123 473 11 54
@@ -56496,6 +56624,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Norrtäljeortens Biodlarförening**
 
     123 379 50 69
+
+
+
+
+**Norrtäljepolisens Skytte och Idrottsklubb, NPSIK**
+
+    123 697 62 13
 
 
 
@@ -57802,7 +57937,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**OK Eken**
+**Ok Eken Åtvidaberg**
 
     123 026 45 56
 
@@ -60692,9 +60827,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Polisens Hundförarförbund**
+
+    123 474 55 50
+
+
+
+
 **Polisens Pensionärsklubb i Umeå**
 
     123 282 85 80
+
+
+
+
+**Polishundförarföreningen Region Syd**
+
+    123 577 78 42
 
 
 
@@ -63204,6 +63353,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ramsbergs Hembygdsförening**
 
     123 225 76 08
+
+
+
+
+**Ramsbergs Pistol och Sportskytteklubb**
+
+    123 218 31 19
 
 
 
@@ -68466,7 +68622,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Sandvikens skyttegille**
+**Sandvikens Skyttegille**
 
     123 257 99 10
 
@@ -75851,6 +76007,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stenungsunds Friidrott**
+
+    123 566 41 07
+
+
+
+
 **Stenungsunds Handbollsklubb**
 
     123 570 57 36
@@ -77554,6 +77717,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stockholmspolisens Skytteförening**
 
     123 683 88 25
+
+
+
+
+**Stockholmspolisens Tjänstehundklubb**
+
+    123 646 88 54
 
 
 
@@ -84511,6 +84681,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sörmlandspolisens Tjänstehundklubb**
+
+    123 472 98 93
+
+
+
+
 **Sörmons Hundklubb**
 
     123 000 42 34
@@ -90253,6 +90430,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ulricehamns Sportskyttar**
+
+    123 616 10 04
+
+
+
+
 **Ulricehamns Tennisklubb, UTK**
 
     123 085 57 34
@@ -90580,6 +90764,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Underbara ADHD / Psykisk Samhälsa i Norden AB**
 
     123 079 33 98
+
+
+
+
+**Underbara Hemlösa Älskade Katter**
+
+    123 313 82 78
 
 
 
@@ -95341,6 +95532,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västerviks Jaktskytteklubb**
+
+    123 365 03 97
+
+
+
+
 **Västerviks JK**
 
     123 562 40 51
@@ -95953,6 +96151,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerås Volleybollklubb**
 
     123 274 23 28
+
+
+
+
+**Västeråspolisens Idrottsförening**
+
+    123 340 84 08
 
 
 
@@ -101309,6 +101514,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Östhammar Friidrott**
 
     123 551 52 34
+
+
+
+
+**Östhammars Jaktskytteklubb**
+
+    123 346 69 43
 
 
 
