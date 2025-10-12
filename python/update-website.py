@@ -58,10 +58,10 @@ def updateEntries(entries):
   if "entries" in entries:
     for entryVO in entries['entries']:
       item = f"({safeSQL(entryVO['entry'])},'{safeSQL(entryVO['orgName'])}','{safeSQL(entryVO['orgNumber'])}','{safeSQL(entryVO['comment'])}','{safeSQL(entryVO['web'])}')"
+      item = re.sub(r"\x27None\x27", "''", str(item), flags=re.IGNORECASE)
       entries_list.append(item)
 
-
-    query = "TRUNCATE TABLE b19_se.tempswish;"
+    query = "TRUNCATE TABLE b19_se.swish;"
     cur_channel_write.execute(query)
     print(f"Truncating table 'swish' ..")
     conn.commit()
