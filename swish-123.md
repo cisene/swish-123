@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-11-rev-210442
+Revision: 2025-10-12-rev-151439
 
-Nummer: 16789
+Nummer: 16806
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3194,16 +3194,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Arvika SG**
-
-    123 232 43 41
-
-
-
-
 **Arvika Simsällskap**
 
     123 453 52 66
+
+
+
+
+**Arvika Skyttegille**
+
+    123 232 43 41
 
 
 
@@ -11359,6 +11359,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Båtklubben Wega**
 
     123 682 70 34
+
+
+
+
+**Båtsmans Bygdeförening**
+
+    123 126 61 96
 
 
 
@@ -27527,6 +27534,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gustavsbergs Pistolskytteklubb**
+
+    123 330 64 04 - GUDS
+
+    123 347 61 65 - GPK
+
+
+
+
 **Gustavsbergs RS - Ridsport**
 
     123 613 51 72
@@ -33706,6 +33722,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Högfors IF**
+
+    123 445 43 85 - Skyttesektionen
+
+
+
+
 **Höglandet Svensk Schäferhundklubb**
 
     123 025 21 30
@@ -39702,6 +39725,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kalmar Pistolklubb**
+
+    123 143 11 70
+
+
+
+
 **Kalmar RC Triathlon**
 
     123 197 91 29
@@ -43655,6 +43685,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Krokeks Skytteförening**
+
+    123 385 11 28
+
+
+
+
 **Krokom Dvärsätts IF**
 
     123 435 79 76
@@ -43926,6 +43963,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kullavägens BK**
 
     123 463 04 14
+
+
+
+
+**Kullens Pistolskytteklubb**
+
+    123 555 72 51
 
 
 
@@ -45885,6 +45929,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Laholms OK**
 
     123 611 67 19
+
+
+
+
+**Laholms Pistolskytteklubb**
+
+    123 011 20 86
 
 
 
@@ -51049,6 +51100,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Malmö Segelflygklubb**
 
     123 350 62 43
+
+
+
+
+**Malmö Skyttegille**
+
+    123 084 64 44
+
+    123 485 01 29 - Jaktskyttecenter
 
 
 
@@ -60876,6 +60936,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Porjus Skytteförening**
+
+    123 260 06 33
+
+
+
+
 **Porrfri Barndom**
 
     123 313 37 17
@@ -68066,6 +68133,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sala OK**
 
     123 213 49 89
+
+
+
+
+**Sala Pistolklubb**
+
+    123 009 69 58
 
 
 
@@ -75352,6 +75426,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sportskyttarna Ljungby**
+
+    123 648 22 93
+
+
+
+
 **Sportsoverdrive AB**
 
     123 138 04 43 - Skridskoakademin
@@ -78440,6 +78521,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Strömsholms Pistolskytteklubb, SPKL**
+
+    123 558 09 07
+
+
+
+
 **Strömsnäsbruks IF**
 
     123 237 38 43
@@ -79364,6 +79452,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Surte BK**
 
     123 527 97 24
+
+
+
+
+**Surte Bohus Sportskyttegille**
+
+    123 530 58 26
 
 
 
@@ -95309,6 +95404,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västbo Pistolklubb**
+
+    123 074 38 15
+
+
+
+
 **Väster Konsult & Etreprenad Teknik AB**
 
     123 351 12 76
@@ -101816,6 +101918,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Övertorneå Grappling Klubb**
 
     123 524 39 85
+
+
+
+
+**Överums Pistolklubb**
+
+    123 074 01 91
 
 
 

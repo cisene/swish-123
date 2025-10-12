@@ -1995,6 +1995,16 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samradsgrupp-lindesberg/foreningar/fellingsbro.html
 
+- entry: 1230096958
+  orgName: Sala Pistolklubb
+  orgNumber: 879500-2552
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.kubary.se/projekt/salapk/
+
 - entry: 1230097162
   orgName: SPF Seniorerna Karlaplan
   orgNumber: 802407-2871
@@ -2199,6 +2209,16 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.laget.se/HuddingeHockey-J20/
+
+- entry: 1230112086
+  orgName: Laholms Pistolskytteklubb
+  orgNumber: 802440-6392
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://laholmspsk.se/
 
 - entry: 1230112722
   orgName: SPF Seniorerna Billdal
@@ -15252,6 +15272,16 @@ entries:
   - byalag
   web: https://huarod.nu/
 
+- entry: 1230740191
+  orgName: Överums Pistolklubb
+  orgNumber: 802456-3051
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.facebook.com/overumspk/
+
 - entry: 1230740258
   orgName: Degerfors Volley Orion
   orgNumber: 875003-6074
@@ -15354,6 +15384,16 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/vasterbottensdistriktet/foreningslista/spf-seniorerna-umea-norra-/
+
+- entry: 1230743815
+  orgName: Västbo Pistolklubb
+  orgNumber: 802468-5268
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.vastbopk.se/
 
 - entry: 1230745398
   orgName: Nyköpings Biodlareförening
@@ -17667,6 +17707,17 @@ entries:
   - donation
   - hjälporganisation
   web: https://www.efdworld.org/
+
+- entry: 1230846444
+  orgName: Malmö Skyttegille
+  orgNumber: 846000-4412
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skyttegille
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.malmoskyttegille.se/
 
 - entry: 1230846493
   orgName: Jokkmokks Styrkelyftsklubb
@@ -27114,6 +27165,14 @@ entries:
   - hjälporganisation
   web: https://www.mtwapa.se/
 
+- entry: 1231266196
+  orgName: Båtsmans Bygdeförening
+  orgNumber: 802511-8061
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://www.facebook.com/groups/364930057275285/
+
 - entry: 1231266352
   orgName: Rotary E-Club 2410
   orgNumber: 802472-9629
@@ -30188,6 +30247,16 @@ entries:
   - kostrådgivning
   - träning
   web: https://happycoach.se/
+
+- entry: 1231431170
+  orgName: Kalmar Pistolklubb
+  orgNumber: 832400-4533
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.kalmarpk.se/
 
 - entry: 1231431220
   orgName: Skultuna Brukshundklubb
@@ -49963,7 +50032,7 @@ entries:
   web: https://www.ravinen.org/
 
 - entry: 1232324341
-  orgName: Arvika SG
+  orgName: Arvika Skyttegille
   orgNumber: 872000-4517
   comment: null
   categories:
@@ -54762,6 +54831,15 @@ entries:
   - löparklubb
   - mästerskap
   web: https://www.sverigespringer.se/
+
+- entry: 1232600633
+  orgName: Porjus Skytteförening
+  orgNumber: 898500-3014
+  comment: null
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: null
 
 - entry: 1232601128
   orgName: Kristus Konungens Institut i Sverige
@@ -69740,6 +69818,16 @@ entries:
   - bygdegårdsförening
   web: https://linsell-ransjo.com/
 
+- entry: 1233306404
+  orgName: Gustavsbergs Pistolskytteklubb
+  orgNumber: 802512-8664
+  comment: GUDS
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.gpk.nu/
+
 - entry: 1233306669
   orgName: Älvsåkers Bygdegårdsförening
   orgNumber: 749400-0990
@@ -73533,6 +73621,16 @@ entries:
   - hälsa
   - styrketräning
   web: https://powerwomanathleticclub.org/
+
+- entry: 1233476165
+  orgName: Gustavsbergs Pistolskytteklubb
+  orgNumber: 802512-8664
+  comment: GPK
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.gpk.nu/
 
 - entry: 1233476389
   orgName: Idrottsföreningen Linnéa
@@ -81007,6 +81105,15 @@ entries:
   - innebandyklubb
   web: https://www.svenskalag.se/stureforsif
 
+- entry: 1233851128
+  orgName: Krokeks Skytteförening
+  orgNumber: 825002-0818
+  comment: null
+  categories:
+  - skytteklubb
+  - sportskytteklubb
+  web: https://krokeks-skf.se/
+
 - entry: 1233851151
   orgName: Svenska Danssportförbundet
   orgNumber: 802010-0452
@@ -84842,6 +84949,7 @@ entries:
   orgNumber: 802488-7195
   comment: null
   categories:
+  - skyttegille
   - skytteklubb
   - sportskytteklubb
   web: https://www.goteneskyttegille.se/
@@ -89895,6 +90003,7 @@ entries:
   comment: null
   categories:
   - jaktskytteklubb
+  - skyttegille
   - skytteklubb
   web: https://www.svenskalag.se/gnestaskyttegille
 
@@ -92816,6 +92925,16 @@ entries:
   - intresseförening
   - religion
   web: https://amverkstaden.se/
+
+- entry: 1234454385
+  orgName: Högfors IF
+  orgNumber: 877100-3970
+  comment: Skyttesektionen
+  categories:
+  - idrottsförening
+  - skytteklubb
+  - sportskytteklubb
+  web: https://hifskytte.com/
 
 - entry: 1234454625
   orgName: Albo Härads Hembygdsförening
@@ -100421,6 +100540,16 @@ entries:
   - basketbollklubb
   - idrottsförening
   web: https://www.sigtunabasket.se/
+
+- entry: 1234850129
+  orgName: Malmö Skyttegille
+  orgNumber: 846000-4412
+  comment: Jaktskyttecenter
+  categories:
+  - jaktskytteklubb
+  - skyttegille
+  - skytteklubb
+  web: https://www.malmoskyttegille.se/
 
 - entry: 1234851085
   orgName: Hotell Oskar i Lund
@@ -109949,6 +110078,16 @@ entries:
   - pensionärsklubb
   web: https://www.tsmmx.se/
 
+- entry: 1235305826
+  orgName: Surte Bohus Sportskyttegille
+  orgNumber: 802471-7202
+  comment: null
+  categories:
+  - skyttegille
+  - skytteklubb
+  - sportskytteklubb
+  web: https://surtebohussportskyttegille.se/
+
 - entry: 1235306022
   orgName: Korpen Silvbergs Fritidsförening
   orgNumber: 802534-8577
@@ -115493,6 +115632,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/hallsberg
 
+- entry: 1235557251
+  orgName: Kullens Pistolskytteklubb
+  orgNumber: 843002-0829
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.kullenspk.se/
+
 - entry: 1235557293
   orgName: Knivsta Pastorat
   orgNumber: 252003-2059
@@ -116094,6 +116243,16 @@ entries:
   - dansförening
   - dansskola
   web: https://dknyckeln.se/
+
+- entry: 1235580907
+  orgName: Strömsholms Pistolskytteklubb, SPKL
+  orgNumber: 802507-6434
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://stromsholmspkl.se/
 
 - entry: 1235580931
   orgName: IFK Nyköping
@@ -134851,6 +135010,16 @@ entries:
   - brottningsklubb
   - idrottsförening
   web: https://www.limhamnsbrottarklubb.se/
+
+- entry: 1236482293
+  orgName: Sportskyttarna Ljungby
+  orgNumber: 802421-1909
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.spljungby.se/
 
 - entry: 1236483572
   orgName: Kristianstads Radioamatörer, SK7BQ
