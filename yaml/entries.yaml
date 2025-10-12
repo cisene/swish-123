@@ -5143,6 +5143,16 @@ entries:
   - landhockeyklubb
   web: https://mesaicos.se/
 
+- entry: 1230252551
+  orgName: Piteå Pistolklubb
+  orgNumber: 898800-4886
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.pitepistol.se/
+
 - entry: 1230252692
   orgName: Kungsåra Bygdegård
   orgNumber: 878000-5172
@@ -7826,6 +7836,7 @@ entries:
   categories:
   - pistolskytteklubb
   - skytteklubb
+  - sportskytteklubb
   web: https://www.kpkskytte.com/
 
 - entry: 1230368548
@@ -8246,6 +8257,16 @@ entries:
   categories:
   - försäljning
   web: null
+
+- entry: 1230388884
+  orgName: Hörby Pistolskytteklubb
+  orgNumber: 802452-5159
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://hörbypsk.se/
 
 - entry: 1230389544
   orgName: Strokeföreningen i Stockholms län
@@ -23160,6 +23181,16 @@ entries:
   - religion
   web: https://izb.se/
 
+- entry: 1231057033
+  orgName: Frövi-Lindesberg Pistolskyttar
+  orgNumber: 802472-3820
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://frovilindesbergpistolskyttar.klubbenonline.se/
+
 - entry: 1231057801
   orgName: Fristad GoIF
   orgNumber: 864500-2315
@@ -23188,6 +23219,16 @@ entries:
   - bygdegårdsförening
   - logdans
   web: https://grasmyrloge.se/
+
+- entry: 1231058379
+  orgName: Sunderby Jakt- och Skytteklubb
+  orgNumber: 897000-9802
+  comment: Medlemsavgift
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.sunderbyskytte.com/
 
 - entry: 1231058429
   orgName: Myckelby Bygdegårdsförening
@@ -29730,9 +29771,9 @@ entries:
   web: https://www.guif.nu/
 
 - entry: 1231371012
-  orgName: Stiftelsen Ronald McDonald Barnfond Lund
+  orgName: Stiftelsen Ronald McDonald Barnfond
   orgNumber: 846502-0140
-  comment: null
+  comment: Lund
   categories:
   - hjälporganisation
   - stiftelse
@@ -38555,9 +38596,9 @@ entries:
   web: https://www.jonkopingsfaltrittklubb.se/
 
 - entry: 1231780501
-  orgName: Stiftelsen Ronald McDonald Barnfond Göteborg
+  orgName: Stiftelsen Ronald McDonald Barnfond
   orgNumber: 857500-7698
-  comment: null
+  comment: Göteborg
   categories:
   - hjälporganisation
   - stiftelse
@@ -47799,6 +47840,16 @@ entries:
   - naturvård
   - safariturer
   web: https://kryddanitillvaron.se/
+
+- entry: 1232221646
+  orgName: Vargöns Pistolklubb
+  orgNumber: 862501-0908
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://vargonspk.se/
 
 - entry: 1232221687
   orgName: Sonstorps Missionskyrka, Hällestad Friförsamling
@@ -59727,9 +59778,9 @@ entries:
   web: https://www.svenskalag.se/vaderstadsik
 
 - entry: 1232765964
-  orgName: Stiftelsen Ronald McDonald Barnfond Linköping
+  orgName: Stiftelsen Ronald McDonald Barnfond
   orgNumber: 802425-9874
-  comment: null
+  comment: Linköping
   categories:
   - hjälporganisation
   - stiftelse
@@ -60598,6 +60649,16 @@ entries:
   - hästsport
   - ridskola
   web: https://www.lovstagardsridskola.se/
+
+- entry: 1232799690
+  orgName: Sunderby Jakt- och Skytteklubb
+  orgNumber: 897000-9802
+  comment: Serier och ammunition
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.sunderbyskytte.com/
 
 - entry: 1232799708
   orgName: Kristianstad RS - Ridsport
@@ -71581,6 +71642,7 @@ entries:
   categories:
   - pistolskytteklubb
   - skytteklubb
+  - sportskytteklubb
   web: https://eskilstuna-epk.com/
 
 - entry: 1233349966
@@ -74313,6 +74375,7 @@ entries:
   comment: null
   categories:
   - pistolskytteklubb
+  - skytteklubb
   - sportskytteklubb
   web: https://surahammarsskytteforening.se/
 
@@ -89787,6 +89850,7 @@ entries:
   categories:
   - pistolskytteklubb
   - skytteklubb
+  - sportskytteklubb
   web: https://www.laget.se/SmedsboPK/
 
 - entry: 1234213443
@@ -93679,6 +93743,16 @@ entries:
   - katthem
   web: https://www.djurskyddet.se/jamtland/
 
+- entry: 1234417804
+  orgName: IPSC Örebro
+  orgNumber: 802489-1486
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.ipsc-orebro.se/
+
 - entry: 1234417838
   orgName: Svenska Prazsky Krysarik klubben, SPKK
   orgNumber: 802434-6804
@@ -94443,6 +94517,16 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://www.prastgardenholmon.se/
+
+- entry: 1234467619
+  orgName: Borlänge Pistolklubb
+  orgNumber: 882601-5193
+  comment: Medlemsavgift
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.borlangepk.se/
 
 - entry: 1234467825
   orgName: Hofors Bangolf
@@ -99154,9 +99238,9 @@ entries:
   web: https://www.waggerydsatletklubb.se/
 
 - entry: 1234677431
-  orgName: Stiftelsen Ronald McDonald Barnfond Huddinge
+  orgName: Stiftelsen Ronald McDonald Barnfond
   orgNumber: 802015-8476
-  comment: null
+  comment: Huddinge
   categories:
   - hjälporganisation
   - stiftelse
@@ -103856,6 +103940,16 @@ entries:
   - minnesfond
   - orienteringsklubb
   web: https://www.svenskalag.se/vasbyok
+
+- entry: 1234968202
+  orgName: Österlens Pistolklubb
+  orgNumber: 838800-7240
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://osterlenspistolklubb.se/
 
 - entry: 1234969390
   orgName: Finspångs AIK
@@ -108593,9 +108687,9 @@ entries:
   web: https://cafekyrka.se/
 
 - entry: 1235158217
-  orgName: Stiftelsen Ronald McDonald Barnfond Uppsala
+  orgName: Stiftelsen Ronald McDonald Barnfond
   orgNumber: 802426-5947
-  comment: null
+  comment: Uppsala
   categories:
   - hjälporganisation
   - stiftelse

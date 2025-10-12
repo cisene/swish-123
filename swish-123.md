@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-12-rev-151439
+Revision: 2025-10-12-rev-180459
 
-Nummer: 16806
+Nummer: 16815
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -7290,6 +7290,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Borlänge Missionsförsamling**
 
     123 594 91 44
+
+
+
+
+**Borlänge Pistolklubb**
+
+    123 446 76 19 - Medlemsavgift
 
 
 
@@ -22248,6 +22255,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Frövi-Lindesberg Pistolskyttar**
+
+    123 105 70 33
+
+
+
+
 **FSK Lodjuret Älvsbyns kommuns Skoterklubb**
 
     123 387 97 15
@@ -33964,6 +33978,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hörby Pistolskytteklubb**
+
+    123 038 88 84
+
+
+
+
 **Höreda Församling**
 
     123 592 43 29 - Kollekt
@@ -37792,6 +37813,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **IPPON Karateklubb**
 
     123 562 42 67
+
+
+
+
+**IPSC Örebro**
+
+    123 441 78 04
 
 
 
@@ -60754,6 +60782,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Piteå Pistolklubb**
+
+    123 025 25 51
+
+
+
+
 **Piteå Sim**
 
     123 495 99 12
@@ -76895,42 +76930,42 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Stiftelsen Ronald McDonald Barnfond**
 
+    123 467 74 31 - Huddinge
+
+
+
+
+**Stiftelsen Ronald McDonald Barnfond**
+
     123 900 70 22
 
 
 
 
-**Stiftelsen Ronald McDonald Barnfond Göteborg**
+**Stiftelsen Ronald McDonald Barnfond**
 
-    123 178 05 01
-
-
-
-
-**Stiftelsen Ronald McDonald Barnfond Huddinge**
-
-    123 467 74 31
+    123 276 59 64 - Linköping
 
 
 
 
-**Stiftelsen Ronald McDonald Barnfond Linköping**
+**Stiftelsen Ronald McDonald Barnfond**
 
-    123 276 59 64
-
-
-
-
-**Stiftelsen Ronald McDonald Barnfond Lund**
-
-    123 137 10 12
+    123 515 82 17 - Uppsala
 
 
 
 
-**Stiftelsen Ronald McDonald Barnfond Uppsala**
+**Stiftelsen Ronald McDonald Barnfond**
 
-    123 515 82 17
+    123 137 10 12 - Lund
+
+
+
+
+**Stiftelsen Ronald McDonald Barnfond**
+
+    123 178 05 01 - Göteborg
 
 
 
@@ -78978,6 +79013,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sundbyviks Golfklubb**
 
     123 323 14 61
+
+
+
+
+**Sunderby Jakt- och Skytteklubb**
+
+    123 105 83 79 - Medlemsavgift
+
+    123 279 96 90 - Serier och ammunition
 
 
 
@@ -92451,6 +92495,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vargöns Pistolklubb**
+
+    123 222 16 46
+
+
+
+
 **Varken hora eller kuvad, VHEK**
 
     123 399 05 53
@@ -101310,6 +101361,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Österlens Konstförening BOSK**
 
     123 208 46 97
+
+
+
+
+**Österlens Pistolklubb**
+
+    123 496 82 02
 
 
 
