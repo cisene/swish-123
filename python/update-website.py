@@ -14,7 +14,7 @@ YAML_SOURCE_FILE = '../yaml/swish-123-datasource.yaml'
 JSON_SOURCE_FILE = '../json/swish-123-datasource.json'
 
 APP_NAME = 'Update-Website'
-APP_VERSION = '0.0.2#20250923'
+APP_VERSION = '0.0.2#20251012'
 
 global conn
 global cur_channel_write
