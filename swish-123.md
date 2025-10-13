@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-12-rev-180459
+Revision: 2025-10-13-rev-180004
 
-Nummer: 16815
+Nummer: 16825
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -40499,6 +40499,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Karlstads Bågskytteklubb**
+
+    123 280 06 39
+
+
+
+
 **Karlstads Dykarklubb**
 
     123 653 90 92
@@ -47528,6 +47535,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lindome Bågskytteklubb**
 
     123 124 26 01
+
+    123 393 37 51
 
 
 
@@ -71345,6 +71354,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skogens IF Korsvägen**
+
+    123 676 46 74
+
+
+
+
 **Skogs Hembygds- & Intresseförening**
 
     123 681 41 31
@@ -71732,6 +71748,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skurup Padelklubb**
 
     123 650 77 92
+
+
+
+
+**Skurups Bågskytteklubb**
+
+    123 068 52 06
 
 
 
@@ -82421,6 +82444,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sveriges Beridna Bågskyttar**
+
+    123 676 48 80
+
+
+
+
 **Sveriges Bilkårers Riksförbund**
 
     123 283 89 36
@@ -84676,6 +84706,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sölvesborgs GIF**
 
     123 395 20 25
+
+
+
+
+**Sölvesborgs Skytteförening**
+
+    123 118 42 09 - Tävlingskonto
+
+    123 489 60 98 - Medlemsavgifter
 
 
 
@@ -90227,6 +90266,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Uddevalla Bluesförening**
 
     123 072 48 31
+
+
+
+
+**Uddevalla Bågskytteklubb**
+
+    123 335 74 07
 
 
 
@@ -95797,6 +95843,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västerås Bågskytteklubb**
+
+    123 472 83 09
+
+
+
+
 **Västerås Cablepark Förening**
 
     123 113 29 19
@@ -96665,6 +96718,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Växjö Allmänna Idrottssällskap, VAIS**
 
+    123 311 02 77 - Skidsektionen, Löparsektionen
+
     123 598 11 47 - Bågskyttesektionen
 
 
@@ -96672,7 +96727,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Växjö Allmänna Idrottssällskap, VAIS**
 
-    123 395 17 04
+    123 395 17 04 - Allmänna sektionen
 
 
 

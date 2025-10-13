@@ -13962,6 +13962,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/almundsryd
 
+- entry: 1230685206
+  orgName: Skurups Bågskytteklubb
+  orgNumber: 802455-5875
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://skurupsbagskytte.se/
+
 - entry: 1230685222
   orgName: Bohuslän Dals Fjordhästförening
   orgNumber: 802520-1990
@@ -25503,6 +25512,16 @@ entries:
   categories:
   - kvinnojour
   web: https://botkyrkakvinnojour.se/
+
+- entry: 1231184209
+  orgName: Sölvesborgs Skytteförening
+  orgNumber: 836200-2399
+  comment: Tävlingskonto
+  categories:
+  - bågskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://sbgskytte.se/
 
 - entry: 1231184373
   orgName: Kanotklubben Strömstararna
@@ -59769,6 +59788,15 @@ entries:
   - hjälporganisation
   web: https://www.refugeeswelcomestockholm.se/
 
+- entry: 1232800639
+  orgName: Karlstads Bågskytteklubb
+  orgNumber: 802000-5065
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://karlstadsbk.se/
+
 - entry: 1232800670
   orgName: Ödeshögs Skidklubb
   orgNumber: 823000-3538
@@ -65794,6 +65822,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/askim
 
+- entry: 1233110277
+  orgName: Växjö Allmänna Idrottssällskap, VAIS
+  orgNumber: 802535-1506
+  comment: Skidsektionen, Löparsektionen
+  categories:
+  - idrottsförening
+  - löparklubb
+  - skidlöparklubb
+  web: https://vaxjoaisbagskytte.klubbenonline.se/
+
 - entry: 1233110822
   orgName: Rock mot Cancer i Hjo
   orgNumber: 802507-3381
@@ -70770,6 +70808,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/vsku_f14/
+
+- entry: 1233357407
+  orgName: Uddevalla Bågskytteklubb
+  orgNumber: 858500-9650
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://uddevallabågskytte.se/
 
 - entry: 1233357456
   orgName: Amnesty Sápmi
@@ -83045,6 +83092,15 @@ entries:
   - motorbåtsklubb
   web: https://www.hammarbyledensmbk.one/
 
+- entry: 1233933751
+  orgName: Lindome Bågskytteklubb
+  orgNumber: 849400-0766
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://www.lindome-bk.com/
+
 - entry: 1233936465
   orgName: PRO Hörby
   orgNumber: 802414-0843
@@ -83489,7 +83545,7 @@ entries:
 - entry: 1233951704
   orgName: Växjö Allmänna Idrottssällskap, VAIS
   orgNumber: 829500-4892
-  comment: null
+  comment: Allmänna sektionen
   categories:
   - bågskytteklubb
   - dragkampsklubb
@@ -98818,6 +98874,15 @@ entries:
   - sportflyg
   web: https://www.sunnefk.se/
 
+- entry: 1234728309
+  orgName: Västerås Bågskytteklubb
+  orgNumber: 878001-4554
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://www.vasterasbk.com/
+
 - entry: 1234728689
   orgName: Bostadsrättsföreningen Skogalundsklippan i Nacka
   orgNumber: 716418-0668
@@ -101061,6 +101126,16 @@ entries:
   - varm oljemassage
   - ögonfransförläggning
   web: https://siribeautyandmassage.se/
+
+- entry: 1234896098
+  orgName: Sölvesborgs Skytteförening
+  orgNumber: 836200-2399
+  comment: Medlemsavgifter
+  categories:
+  - bågskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://sbgskytte.se/
 
 - entry: 1234896247
   orgName: SPF Seniorerna Nyköping
@@ -141236,6 +141311,16 @@ entries:
   - reiki
   web: https://www.karmaklubben.se/
 
+- entry: 1236764674
+  orgName: Skogens IF Korsvägen
+  orgNumber: 832800-6351
+  comment: null
+  categories:
+  - bordtennisklubb
+  - bågskytteklubb
+  - idrottsförening
+  web: https://www.skogensif.se/
+
 - entry: 1236764807
   orgName: YOGA VEDA i Hamburgsund
   orgNumber: 560803-XXXX
@@ -141243,6 +141328,16 @@ entries:
   categories:
   - yoga
   web: https://yogaveda.se/
+
+- entry: 1236764880
+  orgName: Sveriges Beridna Bågskyttar
+  orgNumber: 802461-4771
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  - ridsällskap
+  web: https://mountedarchery.se/
 
 - entry: 1236765119
   orgName: Varbergs Basket
