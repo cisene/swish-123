@@ -11,6 +11,7 @@ python3 ./entries-update-gåvomottagare.py
 python3 ./entries-update-forenadebolag-varningslistan.py
 python3 ./entries-update-svenskhandel-varningslistan.py
 python3 ./entries-update-bisnis-varningslistan.py
+python3 ./entires-masterdata-lookup.py
 
 # Filter YAML
 python3 ./entries-filter.py
@@ -43,6 +44,7 @@ git add ../json/swish-123-datasource.json
 git add ../text/swish-123-datasource.csv
 git add ../text/swish-123-datasource.tsv
 git add ../xml/swish-123-datasource.xml
+git add ../yaml/masterdata-organisations.yaml
 
 git add ../swish-123.md
 git add ../swish-123.pdf
