@@ -11,7 +11,7 @@ python3 ./entries-update-gåvomottagare.py
 python3 ./entries-update-forenadebolag-varningslistan.py
 python3 ./entries-update-svenskhandel-varningslistan.py
 python3 ./entries-update-bisnis-varningslistan.py
-python3 ./entires-masterdata-lookup.py
+python3 ./entries-masterdata-lookup.py
 
 # Filter YAML
 python3 ./entries-filter.py
