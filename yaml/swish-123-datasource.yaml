@@ -406,9 +406,9 @@ entries:
   web: https://www.svenskakyrkan.se/angelholm
 
 - entry: 1230014357
-  orgName: Riksförbundet HjärtLung Älmhult
+  orgName: Riksförbundet HjärtLung
   orgNumber: 829000-7551
-  comment: null
+  comment: Älmhult
   categories:
   - anhörigorganisation
   - intresseförening
@@ -2439,9 +2439,9 @@ entries:
   web: https://www.laget.se/BergslagsbygdensRyttarforening/
 
 - entry: 1230126193
-  orgName: Riksförbundet HjärtLung Stockholm
+  orgName: Riksförbundet HjärtLung
   orgNumber: 802013-3099
-  comment: null
+  comment: Stockholm
   categories:
   - anhörigorganisation
   - intresseförening
@@ -7034,9 +7034,9 @@ entries:
   web: https://www.svenskalag.se/vmib
 
 - entry: 1230335232
-  orgName: Riksförbundet HjärtLung Västervik
+  orgName: Riksförbundet HjärtLung
   orgNumber: 833600-9728
-  comment: null
+  comment: Västervik
   categories:
   - anhörigorganisation
   - intresseförening
@@ -18343,9 +18343,9 @@ entries:
   web: https://www.svenskakyrkan.se/roslagensnorrapastorat
 
 - entry: 1230860700
-  orgName: Riksförbundet HjärtLung Bergslagen
+  orgName: Riksförbundet HjärtLung
   orgNumber: 877100-7617
-  comment: null
+  comment: Bergslagen
   categories:
   - anhörigorganisation
   - intresseförening
@@ -19358,7 +19358,9 @@ entries:
   comment: null
   categories:
   - idrottsförening
+  - jujutsuklubb
   - kampsportsförening
+  - karateklubb
   web: https://www.kaizenkan.se/
 
 - entry: 1230905331
@@ -21182,6 +21184,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/mellerud
 
+- entry: 1230978866
+  orgName: S:ta Maria Syrisk Ortodoxa Kyrkan i Göteborg
+  orgNumber: 802495-4540
+  comment: Gåvor till behövande
+  categories:
+  - religion
+  web: https://www.facebook.com/StMariaSyriskOrtodoxaKyrkanGoteborg/
+
 - entry: 1230980524
   orgName: Föreningen Lysekils Vänner
   orgNumber: 802460-3048
@@ -21538,7 +21548,7 @@ entries:
 - entry: 1230991273
   orgName: S:ta Maria Syrisk Ortodoxa Kyrkan i Göteborg
   orgNumber: 802495-4540
-  comment: null
+  comment: Kollekt
   categories:
   - religion
   web: https://www.facebook.com/StMariaSyriskOrtodoxaKyrkanGoteborg/
@@ -25460,9 +25470,9 @@ entries:
   web: https://www.zignsec.com/
 
 - entry: 1231183045
-  orgName: Riksförbundet HjärtLung Gävle
+  orgName: Riksförbundet HjärtLung
   orgNumber: 885000-5524
-  comment: null
+  comment: Gävle
   categories:
   - anhörigorganisation
   - intresseförening
@@ -27094,9 +27104,9 @@ entries:
   web: https://tollaremarina.se/
 
 - entry: 1231255777
-  orgName: Riksförbundet HjärtLung Botkyrka-Salem
+  orgName: Riksförbundet HjärtLung
   orgNumber: 802429-3550
-  comment: null
+  comment: Botkyrka-Salem
   categories:
   - anhörigorganisation
   - intresseförening
@@ -30381,9 +30391,9 @@ entries:
   web: https://fvardasodertalje.se/
 
 - entry: 1231433747
-  orgName: Riksförbundet HjärtLung Ljungby
+  orgName: Riksförbundet HjärtLung
   orgNumber: 829000-8740
-  comment: Minneskonto
+  comment: Ljungby Minneskonto
   categories:
   - anhörigorganisation
   - intresseförening
@@ -32909,9 +32919,9 @@ entries:
   web: https://www.motorbolaget.nu/
 
 - entry: 1231539568
-  orgName: Riksförbundet HjärtLung Vilhelmina
+  orgName: Riksförbundet HjärtLung
   orgNumber: 896100-6031
-  comment: null
+  comment: Vilhelmina
   categories:
   - anhörigorganisation
   - intresseförening
@@ -36825,9 +36835,9 @@ entries:
   web: https://www.hembygd.se/morrum
 
 - entry: 1231731025
-  orgName: Riksförbundet HjärtLung Örnsköldsvik
+  orgName: Riksförbundet HjärtLung
   orgNumber: 889600-5520
-  comment: Hjälpfonden
+  comment: Örnsköldsvik Hjälpfonden
   categories:
   - anhörigorganisation
   - intresseförening
@@ -39402,6 +39412,7 @@ entries:
   orgNumber: 802513-8150
   comment: null
   categories:
+  - blåljus
   - donation
   - insamling
   - stiftelse
@@ -40415,6 +40426,15 @@ entries:
   categories:
   - kvinnojour
   web: https://blaklockan.com/
+
+- entry: 1231898725
+  orgName: Höga Kustens Jaktskytteklubb
+  orgNumber: 888400-3826
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - skytteklubb
+  web: https://hkjsk.se/
 
 - entry: 1231898832
   orgName: Götene Fornminnes- och Hembygdsförening
@@ -44309,9 +44329,9 @@ entries:
   web: https://pro.se/distrikt/distrikt-ostergotland/samorganisationer/samorganisation-mjolby/foreningar/mantorp.html
 
 - entry: 1232102333
-  orgName: Riksförbundet HjärtLung Bollnäs-Ovanåker
+  orgName: Riksförbundet HjärtLung
   orgNumber: 886500-9776
-  comment: null
+  comment: Bollnäs-Ovanåker
   categories:
   - anhörigorganisation
   - intresseförening
@@ -44489,6 +44509,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/KaisMora/
+
+- entry: 1232112068
+  orgName: Sydasien, Kulturell och Politisk Tidskrift
+  orgNumber: 845001-1583
+  comment: null
+  categories:
+  - förlag
+  - tidsskrifter
+  web: https://sydasien.se/
 
 - entry: 1232112258
   orgName: Eastfield's Linedancers Club
@@ -55803,9 +55832,9 @@ entries:
   web: https://hfs.se/
 
 - entry: 1232643633
-  orgName: Riksförbundet HjärtLung Lund
+  orgName: Riksförbundet HjärtLung
   orgNumber: 845000-9397
-  comment: null
+  comment: Lund
   categories:
   - anhörigorganisation
   - intresseförening
@@ -57993,7 +58022,7 @@ entries:
   web: https://www.eksjonejdensjvf.se/
 
 - entry: 1232721397
-  orgName: Kalmar JSK - Skyttesport
+  orgName: Kalmar Jaktskytteklubb
   orgNumber: 832400-8237
   comment: null
   categories:
@@ -59042,9 +59071,9 @@ entries:
   web: https://www.svenskalag.se/syask
 
 - entry: 1232769214
-  orgName: Riksförbundet HjärtLung Laholm
+  orgName: Riksförbundet HjärtLung
   orgNumber: 849202-4198
-  comment: null
+  comment: Laholm
   categories:
   - anhörigorganisation
   - intresseförening
@@ -61200,6 +61229,15 @@ entries:
   - pilates
   web: null
 
+- entry: 1232873198
+  orgName: Svenska Röda Korset
+  orgNumber: 833600-2731
+  comment: Tjustbygdens Rödakorskrets
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/kalmar/vasterviks-kommun/
+
 - entry: 1232873214
   orgName: Train Station Brewery AB
   orgNumber: 556883-2124
@@ -61316,9 +61354,9 @@ entries:
   web: https://www.svenskakyrkan.se/marsta
 
 - entry: 1232876100
-  orgName: Riksförbundet HjärtLung Falkenberg
+  orgName: Riksförbundet HjärtLung
   orgNumber: 849000-8797
-  comment: null
+  comment: Falkenberg
   categories:
   - anhörigorganisation
   - intresseförening
@@ -62734,9 +62772,9 @@ entries:
   web: https://www.hembygd.se/ventlinge
 
 - entry: 1232951580
-  orgName: Riksförbundet HjärtLung Luleå
+  orgName: Riksförbundet HjärtLung
   orgNumber: 802442-0765
-  comment: null
+  comment: Luleå
   categories:
   - anhörigorganisation
   - intresseförening
@@ -62763,9 +62801,9 @@ entries:
   web: https://www.laget.se/EskilstunaCityFK
 
 - entry: 1232952406
-  orgName: Riksförbundet HjärtLung Helsingborg
+  orgName: Riksförbundet HjärtLung
   orgNumber: 843000-9483
-  comment: null
+  comment: Helsingborg
   categories:
   - anhörigorganisation
   - intresseförening
@@ -62801,9 +62839,9 @@ entries:
   web: https://www.hembygd.se/aspered
 
 - entry: 1232955250
-  orgName: Riksförbundet HjärtLung Skellefteå
+  orgName: Riksförbundet HjärtLung
   orgNumber: 894700-8903
-  comment: null
+  comment: Skellefteå
   categories:
   - anhörigorganisation
   - intresseförening
@@ -63477,9 +63515,9 @@ entries:
   web: https://pro.se/distrikt/distrikt-blekinge/samorganisationer/samorganisation-karlshamn/foreningar/karlshamn.html
 
 - entry: 1232992022
-  orgName: Riksförbundet HjärtLung Piteå
+  orgName: Riksförbundet HjärtLung
   orgNumber: 898800-4746
-  comment: null
+  comment: Piteå
   categories:
   - anhörigorganisation
   - intresseförening
@@ -63864,9 +63902,9 @@ entries:
   web: https://borgholm.filmstudio.se/
 
 - entry: 1233015823
-  orgName: Riksförbundet HjärtLung Ängelholm
+  orgName: Riksförbundet HjärtLung
   orgNumber: 839401-1467
-  comment: null
+  comment: Ängelholm
   categories:
   - anhörigorganisation
   - intresseförening
@@ -64814,6 +64852,16 @@ entries:
   categories:
   - politiskt parti
   web: https://socialdemokraternahaninge.se/
+
+- entry: 1233049871
+  orgName: Guldstaden Shotokan Karate Klubb, GSKK
+  orgNumber: 802413-3368
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - karateklubb
+  web: https://www.gskk.se/
 
 - entry: 1233052230
   orgName: Svenska Livräddningssällskapet
@@ -69061,8 +69109,8 @@ entries:
   orgNumber: 556650-0665
   comment: null
   categories:
+  - bostadsbolag
   - fastighetsbolag
-  - kommunalt
   web: https://sjobohem.se/
 
 - entry: 1233263712
@@ -76303,9 +76351,9 @@ entries:
   web: https://www.svenskbridge.se/lunds-bk
 
 - entry: 1233590346
-  orgName: Riksförbundet HjärtLung Kungsbacka
+  orgName: Riksförbundet HjärtLung
   orgNumber: 802422-8416
-  comment: null
+  comment: Kungsbacka
   categories:
   - anhörigorganisation
   - intresseförening
@@ -76573,9 +76621,9 @@ entries:
   web: https://bcbuddzlive.libsyn.com/
 
 - entry: 1233604436
-  orgName: Riksförbundet HjärtLung Hagfors-Munkfors
+  orgName: Riksförbundet HjärtLung
   orgNumber: 874001-1997
-  comment: null
+  comment: Hagfors-Munkfors
   categories:
   - anhörigorganisation
   - intresseförening
@@ -77456,7 +77504,7 @@ entries:
   web: https://www.borovhc.se/
 
 - entry: 1233646494
-  orgName: Huskvarna BK
+  orgName: Huskvarna Bågskytteklubb
   orgNumber: 826001-3472
   comment: null
   categories:
@@ -84357,6 +84405,15 @@ entries:
   - samhällsförening
   web: https://www.glommen.se/
 
+- entry: 1233985157
+  orgName: Växjöortens Fältrittklubb
+  orgNumber: 829500-9750
+  comment: null
+  categories:
+  - fältrittklubb
+  - hästsport
+  web: https://vaxjoortensfaltrittklubb.se/
+
 - entry: 1233985694
   orgName: Hållnäs Skytteförening
   orgNumber: 817300-4733
@@ -84417,6 +84474,14 @@ entries:
   categories:
   - rotaryklubb
   web: https://goteborg-kungsporten.rotary2360.se/
+
+- entry: 1233987633
+  orgName: Cruisers For Life
+  orgNumber: 802467-4874
+  comment: Sundsvall
+  categories:
+  - motorcykelklubb
+  web: https://cruisersforlife.se/
 
 - entry: 1233987732
   orgName: Lödöse Nygård IK
@@ -85931,9 +85996,9 @@ entries:
   web: https://www.djurskyddet.se/kattfotenhalmstad/
 
 - entry: 1234085619
-  orgName: Riksförbundet HjärtLung Norrköping
+  orgName: Riksförbundet HjärtLung
   orgNumber: 825001-6600
-  comment: null
+  comment: Norrköping
   categories:
   - anhörigorganisation
   - intresseförening
@@ -86638,9 +86703,9 @@ entries:
   web: http://www.gillet.se/
 
 - entry: 1234125308
-  orgName: Kattkommando Syd Malmö/Österlen
+  orgName: Kattkommando Syd
   orgNumber: 802436-6349
-  comment: null
+  comment: Malmö-Österlen
   categories:
   - djurskydd
   - katthem
@@ -90374,9 +90439,9 @@ entries:
   web: https://lidingoforsamling.se/
 
 - entry: 1234303665
-  orgName: Riksförbundet HjärtLung Oskarshamn
+  orgName: Riksförbundet HjärtLung
   orgNumber: 832800-6120
-  comment: null
+  comment: Oskarshamn
   categories:
   - anhörigorganisation
   - intresseförening
@@ -90916,9 +90981,9 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1234342127
-  orgName: Riksförbundet HjärtLung Tranås
+  orgName: Riksförbundet HjärtLung
   orgNumber: 802446-1009
-  comment: null
+  comment: Tranås
   categories:
   - anhörigorganisation
   - intresseförening
@@ -94007,6 +94072,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-bollebygd/
+
+- entry: 1234502829
+  orgName: Snapphanebygdens Jägares Älgskötselområde
+  orgNumber: 802426-9568
+  comment: null
+  categories:
+  - naturvård
+  - viltvård
+  web: https://snapphanebygdensasko.se/
 
 - entry: 1234503181
   orgName: Klippans Pistolklubb
@@ -103395,9 +103469,9 @@ entries:
   web: null
 
 - entry: 1235007364
-  orgName: Riksförbundet HjärtLung Östra Sörmland
+  orgName: Riksförbundet HjärtLung
   orgNumber: 819000-8196
-  comment: null
+  comment: Östra Sörmland
   categories:
   - anhörigorganisation
   - intresseförening
@@ -105910,9 +105984,9 @@ entries:
   web: https://www.lakareforframtiden.se/
 
 - entry: 1235120456
-  orgName: Riksförbundet HjärtLung Borås-Ulricehamn
+  orgName: Riksförbundet HjärtLung
   orgNumber: 864500-3404
-  comment: null
+  comment: Borås-Ulricehamn
   categories:
   - anhörigorganisation
   - intresseförening
@@ -109518,6 +109592,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/skivarp
 
+- entry: 1235276571
+  orgName: Karlstads Bågskytteklubb
+  orgNumber: 802419-1630
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://karlstadsbk.se/
+
 - entry: 1235276647
   orgName: Ludvika Församling
   orgNumber: 252002-2944
@@ -111433,6 +111516,14 @@ entries:
   - bostadsrättsförening
   web: https://brfostertull.se/
 
+- entry: 1235369533
+  orgName: Stiftelsen Västernorrlands Sjövärnskårs vänner
+  orgNumber: 802481-2102
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.svk-vanner.se/
+
 - entry: 1235369558
   orgName: Bodens Scoutkår
   orgNumber: 897001-9876
@@ -113112,9 +113203,9 @@ entries:
   web: https://www.vorsteh.se/lokalavdelningar/svk-mellansvenska/
 
 - entry: 1235438775
-  orgName: Riksförbundet HjärtLung Kristianstad
+  orgName: Riksförbundet HjärtLung
   orgNumber: 838201-3053
-  comment: null
+  comment: Kristianstad
   categories:
   - anhörigorganisation
   - intresseförening
@@ -117094,6 +117185,14 @@ entries:
   - idrottsförening
   web: https://eskilstunaboule.klubbenonline.se/
 
+- entry: 1235611868
+  orgName: Handelsbolaget Guns Tobak Tegnérgatan 7
+  orgNumber: 969705-5367
+  comment: null
+  categories:
+  - försäljning
+  web: https://www.gunstobak.se/
+
 - entry: 1235612049
   orgName: Amnesty International Sverige
   orgNumber: 802004-0401
@@ -117377,9 +117476,9 @@ entries:
   web: https://www.ridsport.se/Distrikt/dalarnasridsportforbund/
 
 - entry: 1235622196
-  orgName: Riksförbundet HjärtLung Halmstad
+  orgName: Riksförbundet HjärtLung
   orgNumber: 849202-3331
-  comment: null
+  comment: Halmstad
   categories:
   - anhörigorganisation
   - intresseförening
@@ -117961,9 +118060,9 @@ entries:
   web: https://www.facebook.com/groups/612582809902442/
 
 - entry: 1235649074
-  orgName: Riksförbundet HjärtLung Sydöstra Småland och Öland
+  orgName: Riksförbundet HjärtLung
   orgNumber: 832401-6271
-  comment: null
+  comment: Sydöstra Småland och Öland
   categories:
   - anhörigorganisation
   - intresseförening
@@ -120064,9 +120163,9 @@ entries:
   web: http://www.skalbykyrkan.se/
 
 - entry: 1235752563
-  orgName: Riksförbundet HjärtLung Överkalix
+  orgName: Riksförbundet HjärtLung
   orgNumber: 802429-1018
-  comment: null
+  comment: Överkalix
   categories:
   - anhörigorganisation
   - intresseförening
@@ -120546,6 +120645,17 @@ entries:
   - förening
   - ornitologi
   web: https://vof.birdlife.se/
+
+- entry: 1235770755
+  orgName: Skelleftebottens Dykarklubb
+  orgNumber: 802445-6983
+  comment: null
+  categories:
+  - dykarklubb
+  - dykkurser
+  - fridykning
+  - sportdykning
+  web: https://www.skelleftebottensdk.se/
 
 - entry: 1235770912
   orgName: NorrortsSporten - Peaking Media / Oliver Funke
@@ -123602,6 +123712,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sodravedbopastorat
 
+- entry: 1235927306
+  orgName: Vellinge Sharks Basketklubb
+  orgNumber: 802547-7012
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://vellingesharks.se/
+
 - entry: 1235929823
   orgName: Saras Beauty & Esthetic AB
   orgNumber: 559455-0344
@@ -123996,9 +124115,9 @@ entries:
   web: null
 
 - entry: 1235943972
-  orgName: Riksförbundet HjärtLung Alingsås
+  orgName: Riksförbundet HjärtLung
   orgNumber: 802431-3598
-  comment: null
+  comment: Alingsås
   categories:
   - anhörigorganisation
   - intresseförening
@@ -127166,6 +127285,15 @@ entries:
   - fotbollsskola
   - idrottsförening
   web: https://www.ifkfjaras.se/
+
+- entry: 1236099147
+  orgName: Falsterbokanalens Båtklubb, FBK
+  orgNumber: 846001-6127
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  web: https://falsterbokanalen.se/
 
 - entry: 1236099972
   orgName: Kalmar OK
@@ -135032,6 +135160,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1236475180
+  orgName: Sportfiske Klubben Tobis
+  orgNumber: 802420-4094
+  comment: null
+  categories:
+  - fiskeklubb
+  - sportfiskeklubb
+  web: https://www.sfktobis.se/
+
 - entry: 1236475305
   orgName: Hammarö fågelstation
   orgNumber: 873201-7382
@@ -137177,9 +137314,9 @@ entries:
   web: https://www.laget.se/BSKP16/
 
 - entry: 1236565907
-  orgName: Riksförbundet HjärtLung Malmö
+  orgName: Riksförbundet HjärtLung
   orgNumber: 846000-1012
-  comment: null
+  comment: Malmö
   categories:
   - anhörigorganisation
   - intresseförening
@@ -139872,9 +140009,9 @@ entries:
   web: https://brfpalatinen.se/
 
 - entry: 1236699672
-  orgName: Riksförbundet HjärtLung Örnsköldsvik
+  orgName: Riksförbundet HjärtLung
   orgNumber: 889600-5520
-  comment: null
+  comment: Örnsköldsvik
   categories:
   - anhörigorganisation
   - intresseförening
@@ -140950,9 +141087,9 @@ entries:
   web: https://www.svenskakyrkan.se/nylose
 
 - entry: 1236752166
-  orgName: Riksförbundet HjärtLung Lycksele
+  orgName: Riksförbundet HjärtLung
   orgNumber: 895401-1824
-  comment: null
+  comment: Lycksele
   categories:
   - anhörigorganisation
   - intresseförening
@@ -141981,9 +142118,9 @@ entries:
   web: https://www.mariestadsbk.com/
 
 - entry: 1236790364
-  orgName: Riksförbundet HjärtLung Karlstad
+  orgName: Riksförbundet HjärtLung
   orgNumber: 873201-3969
-  comment: null
+  comment: Karlstad
   categories:
   - anhörigorganisation
   - intresseförening
@@ -143292,9 +143429,9 @@ entries:
   web: https://www.svenskalag.se/nedresopperoik
 
 - entry: 1236856652
-  orgName: Riksförbundet HjärtLung Halmstad
+  orgName: Riksförbundet HjärtLung
   orgNumber: 849202-3331
-  comment: null
+  comment: Halmstad
   categories:
   - anhörigorganisation
   - intresseförening
@@ -144830,6 +144967,14 @@ entries:
   categories:
   - religion
   web: https://bkc.nu/
+
+- entry: 1236919401
+  orgName: Grönlund Golf i Almunge AB
+  orgNumber: 556898-3026
+  comment: null
+  categories:
+  - golfbana
+  web: https://www.gronlundgk.se/
 
 - entry: 1236919666
   orgName: IF Hallby SOK

@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-13-rev-180736
+Revision: 2025-10-15-rev-204718
 
-Nummer: 16825
+Nummer: 16841
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -12804,6 +12804,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Cruisers For Life**
+
+    123 398 76 33 - Sundsvall
+
+
+
+
 **Cruising Strömsund**
 
     123 219 55 19
@@ -19007,6 +19014,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Falsterbo Golfklubb**
 
     123 595 21 06
+
+
+
+
+**Falsterbokanalens Båtklubb, FBK**
+
+    123 609 91 47
 
 
 
@@ -27236,6 +27250,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Grönlund Golf i Almunge AB**
+
+    123 691 94 01
+
+
+
+
 **Grönslätts Intresseförening**
 
     123 587 65 29
@@ -27353,6 +27374,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Guldsmedshyttan-Stråssa Bollklubb, GSBK**
 
     123 161 07 24
+
+
+
+
+**Guldstaden Shotokan Karate Klubb, GSKK**
+
+    123 304 98 71
 
 
 
@@ -29311,6 +29339,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Handelsbankens Fadderbarnsfond**
 
     123 503 97 89
+
+
+
+
+**Handelsbolaget Guns Tobak Tegnérgatan 7**
+
+    123 561 18 68
 
 
 
@@ -32581,7 +32616,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Huskvarna BK**
+**Huskvarna Bågskytteklubb**
 
     123 364 64 94
 
@@ -33618,6 +33653,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Håvens Bygdegårdförening**
 
     123 147 81 89
+
+
+
+
+**Höga Kustens Jaktskytteklubb**
+
+    123 189 87 25
 
 
 
@@ -39709,7 +39751,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kalmar JSK - Skyttesport**
+**Kalmar Jaktskytteklubb**
 
     123 272 13 97
 
@@ -40506,6 +40548,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Karlstads Bågskytteklubb**
+
+    123 527 65 71
+
+
+
+
 **Karlstads Dykarklubb**
 
     123 653 90 92
@@ -40921,6 +40970,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Kattkommando Syd**
 
+    123 412 53 08 - Malmö-Österlen
+
     123 554 90 27
 
 
@@ -40943,13 +40994,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kattkommando Syd Landskrona**
 
     123 667 35 94
-
-
-
-
-**Kattkommando Syd Malmö/Österlen**
-
-    123 412 53 08
 
 
 
@@ -64656,237 +64700,237 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Riksförbundet HjärtLung Alingsås**
+**Riksförbundet HjärtLung**
 
-    123 594 39 72
+    123 012 61 93 - Stockholm
 
 
 
 
-**Riksförbundet HjärtLung Bergslagen**
+**Riksförbundet HjärtLung**
 
-    123 086 07 00
+    123 359 03 46 - Kungsbacka
 
 
 
 
-**Riksförbundet HjärtLung Bollnäs-Ovanåker**
+**Riksförbundet HjärtLung**
 
-    123 210 23 33
+    123 575 25 63 - Överkalix
 
 
 
 
-**Riksförbundet HjärtLung Borås-Ulricehamn**
+**Riksförbundet HjärtLung**
 
-    123 512 04 56
+    123 125 57 77 - Botkyrka-Salem
 
 
 
 
-**Riksförbundet HjärtLung Botkyrka-Salem**
+**Riksförbundet HjärtLung**
 
-    123 125 57 77
+    123 594 39 72 - Alingsås
 
 
 
 
-**Riksförbundet HjärtLung Falkenberg**
+**Riksförbundet HjärtLung**
 
-    123 287 61 00
+    123 295 15 80 - Luleå
 
 
 
 
-**Riksförbundet HjärtLung Gävle**
+**Riksförbundet HjärtLung**
 
-    123 118 30 45
+    123 434 21 27 - Tranås
 
 
 
 
-**Riksförbundet HjärtLung Hagfors-Munkfors**
+**Riksförbundet HjärtLung**
 
-    123 360 44 36
+    123 500 73 64 - Östra Sörmland
 
 
 
 
-**Riksförbundet HjärtLung Halmstad**
+**Riksförbundet HjärtLung**
 
-    123 562 21 96
+    123 408 56 19 - Norrköping
 
-    123 685 66 52
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Helsingborg**
+    123 001 43 57 - Älmhult
 
-    123 295 24 06
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Karlstad**
+    123 143 37 47 - Ljungby Minneskonto
 
-    123 679 03 64
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Kristianstad**
+    123 564 90 74 - Sydöstra Småland och Öland
 
-    123 543 87 75
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Kungsbacka**
+    123 430 36 65 - Oskarshamn
 
-    123 359 03 46
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Laholm**
+    123 033 52 32 - Västervik
 
-    123 276 92 14
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Ljungby**
+    123 543 87 75 - Kristianstad
 
-    123 143 37 47 - Minneskonto
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Luleå**
+    123 301 58 23 - Ängelholm
 
-    123 295 15 80
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Lund**
+    123 295 24 06 - Helsingborg
 
-    123 264 36 33
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Lycksele**
+    123 264 36 33 - Lund
 
-    123 675 21 66
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Malmö**
+    123 656 59 07 - Malmö
 
-    123 656 59 07
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Norrköping**
+    123 287 61 00 - Falkenberg
 
-    123 408 56 19
 
 
 
+**Riksförbundet HjärtLung**
 
-**Riksförbundet HjärtLung Oskarshamn**
+    123 562 21 96 - Halmstad
 
-    123 430 36 65
+    123 685 66 52 - Halmstad
 
 
 
 
-**Riksförbundet HjärtLung Piteå**
+**Riksförbundet HjärtLung**
 
-    123 299 20 22
+    123 276 92 14 - Laholm
 
 
 
 
-**Riksförbundet HjärtLung Skellefteå**
+**Riksförbundet HjärtLung**
 
-    123 295 52 50
+    123 512 04 56 - Borås-Ulricehamn
 
 
 
 
-**Riksförbundet HjärtLung Stockholm**
+**Riksförbundet HjärtLung**
 
-    123 012 61 93
+    123 679 03 64 - Karlstad
 
 
 
 
-**Riksförbundet HjärtLung Sydöstra Småland och Öland**
+**Riksförbundet HjärtLung**
 
-    123 564 90 74
+    123 360 44 36 - Hagfors-Munkfors
 
 
 
 
-**Riksförbundet HjärtLung Tranås**
+**Riksförbundet HjärtLung**
 
-    123 434 21 27
+    123 086 07 00 - Bergslagen
 
 
 
 
-**Riksförbundet HjärtLung Vilhelmina**
+**Riksförbundet HjärtLung**
 
-    123 153 95 68
+    123 118 30 45 - Gävle
 
 
 
 
-**Riksförbundet HjärtLung Västervik**
+**Riksförbundet HjärtLung**
 
-    123 033 52 32
+    123 210 23 33 - Bollnäs-Ovanåker
 
 
 
 
-**Riksförbundet HjärtLung Älmhult**
+**Riksförbundet HjärtLung**
 
-    123 001 43 57
+    123 173 10 25 - Örnsköldsvik Hjälpfonden
 
+    123 669 96 72 - Örnsköldsvik
 
 
 
-**Riksförbundet HjärtLung Ängelholm**
 
-    123 301 58 23
+**Riksförbundet HjärtLung**
 
+    123 295 52 50 - Skellefteå
 
 
 
-**Riksförbundet HjärtLung Örnsköldsvik**
 
-    123 173 10 25 - Hjälpfonden
+**Riksförbundet HjärtLung**
 
-    123 669 96 72
+    123 675 21 66 - Lycksele
 
 
 
 
-**Riksförbundet HjärtLung Östra Sörmland**
+**Riksförbundet HjärtLung**
 
-    123 500 73 64
+    123 153 95 68 - Vilhelmina
 
 
 
 
-**Riksförbundet HjärtLung Överkalix**
+**Riksförbundet HjärtLung**
 
-    123 575 25 63
+    123 299 20 22 - Piteå
 
 
 
@@ -67995,7 +68039,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **S:ta Maria Syrisk Ortodoxa Kyrkan i Göteborg**
 
-    123 099 12 73
+    123 097 88 66 - Gåvor till behövande
+
+    123 099 12 73 - Kollekt
 
 
 
@@ -70915,6 +70961,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skelleftebottens Dykarklubb**
+
+    123 577 07 55
+
+
+
+
 **Skelleftebygdens Jujutsuklubb**
 
     123 176 39 60
@@ -72988,6 +73041,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Snabb Grus Sverige AB**
 
     123 652 16 37
+
+
+
+
+**Snapphanebygdens Jägares Älgskötselområde**
+
+    123 450 28 29
 
 
 
@@ -75442,6 +75502,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sportfiske Klubben Tobis**
+
+    123 647 51 80
+
+
+
+
 **Sportfiskebolaget / Sportfiske & VVS Bolaget i Hässleholm AB**
 
     123 075 14 87
@@ -77244,6 +77311,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 901 97 12
 
     123 901 97 46
+
+
+
+
+**Stiftelsen Västernorrlands Sjövärnskårs vänner**
+
+    123 536 95 33
 
 
 
@@ -81644,6 +81718,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
+    123 287 31 98 - Tjustbygdens Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
     123 371 64 12 - Karlskrona Rödakorskrets
 
 
@@ -82977,6 +83058,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sya SK**
 
     123 276 86 61
+
+
+
+
+**Sydasien, Kulturell och Politisk Tidskrift**
+
+    123 211 20 68
 
 
 
@@ -92927,6 +93015,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vellinge Sharks Basketklubb**
+
+    123 592 73 06
+
+
+
+
 **Vellinge Södra Tanzania**
 
     123 110 34 72
@@ -96856,6 +96951,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Växjöortens Folkdanslag**
 
     123 347 43 50
+
+
+
+
+**Växjöortens Fältrittklubb**
+
+    123 398 51 57
 
 
 
