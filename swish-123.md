@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-15-rev-204718
+Revision: 2025-10-15-rev-232431
 
-Nummer: 16841
+Nummer: 16861
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1600,6 +1600,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Allmänna Försvarsföreningen**
 
     123 465 66 41
+
+
+
+
+**Allmänna GrapplingSällskapet**
+
+    123 540 40 03
 
 
 
@@ -6078,13 +6085,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**BK Flagg**
-
-    123 211 85 11
-
-
-
-
 **BK Flamman**
 
     123 672 25 16 - A-lag Damer
@@ -6899,6 +6899,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bollebygds Församling**
 
     123 024 32 87 - Kollekt
+
+
+
+
+**Bollklubben Flagg**
+
+    123 211 85 11
 
 
 
@@ -7774,7 +7781,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bostadsrättsföreningen Akallahöjden**
+**Bostadsrättsföreningen Akallahöjden i Stockholm**
 
     123 561 90 44
 
@@ -10606,16 +10613,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**BS Gothia - Bågskytte**
-
-    123 031 71 31
-
-
-
-
 **BS Nordboulen**
 
     123 541 73 57
+
+
+
+
+**BSK Edsbyn**
+
+    123 416 08 42
 
 
 
@@ -10627,7 +10634,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**BSK Sturarna - Bågskytte**
+**BSK Sturarna**
 
     123 230 38 40
 
@@ -11199,6 +11206,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bågskytteklubben Friskyttarna**
 
     123 027 82 18
+
+
+
+
+**Bågskyttesällskapet Gothia**
+
+    123 031 71 31
 
 
 
@@ -18059,6 +18073,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Eskilstuna Bågskyttesällskap**
+
+    123 540 14 01
+
+
+
+
 **Eskilstuna City FK**
 
     123 253 25 62 - P14
@@ -19952,7 +19973,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Finspångs BSK**
+**Finspångs Bågskytteklubb**
 
     123 466 79 78
 
@@ -30650,6 +30671,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hemavan Alpint AB**
+
+    123 179 34 13 - ledbevis skoterleder
+
+
+
+
 **Hembygdsföreningen Arboga Minne**
 
     123 230 89 14 - Arboga Museum
@@ -31867,6 +31895,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Horseback Archery Sydskyttarna**
+
+    123 296 57 96
+
+
+
+
 **HorseGuard Stängsel och Franska Elbandet AB**
 
     123 143 99 00
@@ -32060,6 +32095,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hubbestads Alliansförsamling**
 
     123 084 62 38
+
+
+
+
+**Huddinge Bågskytteklubb, HBSK**
+
+    123 206 83 69
 
 
 
@@ -39728,6 +39770,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kalmar Bågskytte**
+
+    123 056 39 73
+
+
+
+
 **Kalmar Båtklubb**
 
     123 026 28 08
@@ -40224,6 +40273,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Karlshamns Bågskyteklubb**
+
+    123 068 02 49
+
+
+
+
 **Karlshamns Församling**
 
     123 078 77 96 - Kollekt Karlshamn
@@ -40380,6 +40436,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Karlskrona Boxningsklubb**
 
     123 420 32 46
+
+
+
+
+**Karlskrona Bågskyttar, KBSK**
+
+    123 131 92 19
 
 
 
@@ -51264,6 +51327,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malungs Mellersta Viltvårdsområdesförening**
+
+    123 148 01 51
+
+
+
+
 **Malungs SLK**
 
     123 390 61 95
@@ -52793,6 +52863,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Mjölby AI FF**
 
     123 602 58 86
+
+
+
+
+**Mjölby Bågskyttesällskap**
+
+    123 271 15 05
 
 
 
@@ -55865,7 +55942,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Nordic Reel Icons / Nordic Legions**
+**Nordic Legions**
 
     123 018 06 95
 
@@ -69884,6 +69961,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sigtuna Myntklubb**
+
+    123 647 74 18
+
+
+
+
 **Sigtuna Orienteringsklubb**
 
     123 467 41 15
@@ -70204,6 +70288,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Situation Stockholm**
 
     123 276 11 04
+
+
+
+
+**Sixgun AB**
+
+    123 686 67 68
 
 
 
@@ -71808,6 +71899,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skurups Bågskytteklubb**
 
     123 068 52 06
+
+    123 234 15 35
 
 
 
@@ -77671,6 +77764,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stockholms Bågskjutningsklubb**
+
+    123 385 09 97
+
+
+
+
 **Stockholms Cykelförbund**
 
     123 594 86 33
@@ -77800,6 +77900,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stockholms Köpmansklubb**
 
     123 591 04 43
+
+
+
+
+**Stockholms Luftvärnsförenings Skytteklubb**
+
+    123 001 84 81
 
 
 
@@ -87665,6 +87772,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Timrå AIF**
+
+    123 079 31 41 - Bågskyttesektionen
+
+
+
+
 **Timrå Discgolf**
 
     123 201 38 45
@@ -90810,7 +90924,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Umeå bågskytteklubb**
+**Umeå Bågskytteklubb**
 
     123 692 69 19
 
@@ -91336,6 +91450,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Upplands Taxklubb**
 
     123 056 30 98
+
+
+
+
+**Upplands Väsby Bågskytteklubb**
+
+    123 400 74 49
 
 
 
@@ -96783,6 +96904,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Västsveriges Beridna Bågskyttar, VSBB**
+
+    123 109 97 12
+
+
+
+
 **Västsveriges Journalistseniorer**
 
     123 070 19 12
@@ -97559,6 +97687,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Widelius Dans / Viktoria Widelius**
 
     123 452 27 44
+
+
+
+
+**Wij Bågskyttar Ockelbo**
+
+    123 292 19 97
 
 
 
