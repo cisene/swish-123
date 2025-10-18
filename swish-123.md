@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-18-rev-172007
+Revision: 2025-10-18-rev-211229
 
-Nummer: 16886
+Nummer: 16912
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -13088,6 +13088,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dalarnas Guideförening**
+
+    123 054 05 59
+
+
+
+
 **Dalarnas Kennelklubb**
 
     123 668 57 13
@@ -23963,6 +23970,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Kalmar Nyckel**
+
+    123 401 02 60
+
+
+
+
 **Föreningen Kampi Ya Moto:s Barn**
 
     123 900 11 81
@@ -24015,6 +24029,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen Klimatriksdagen**
 
     123 336 34 39
+
+
+
+
+**Föreningen Klingstagården**
+
+    123 526 38 76
 
 
 
@@ -24607,6 +24628,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Strandvågen**
+
+    123 560 08 04
+
+
+
+
 **Föreningen Supermiljöbloggen**
 
     123 136 87 03
@@ -24754,6 +24782,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen Turf Västmanland**
 
     123 499 72 43
+
+
+
+
+**Föreningen UmeNaturist, FUN**
+
+    123 017 36 25
 
 
 
@@ -26067,6 +26102,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Glommersträsk Hembygdsförening**
 
     123 671 50 23
+
+
+
+
+**Glommersträsk-Lappträsk IF**
+
+    123 512 52 40
 
 
 
@@ -27842,6 +27884,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gällivare Skytteförening**
 
     123 617 43 12
+
+
+
+
+**Gällnö Natur och Kulturstig**
+
+    123 567 74 14
 
 
 
@@ -31612,6 +31661,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hoby Esport**
+
+    123 524 29 87
+
+
+
+
 **Hofors AIF**
 
     123 538 02 58
@@ -32340,6 +32396,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hulterstads AIK**
 
     123 288 74 46
+
+    123 677 85 18
 
 
 
@@ -38561,6 +38619,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Johannishus Samhällsförening**
+
+    123 497 24 36
+
+
+
+
 **Johannishus SK**
 
     123 652 65 94
@@ -42046,6 +42111,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Klimpfjälls Stugägareförening**
+
+    123 115 90 29
+
+
+
+
 **Klingsbergs Förlag AB**
 
     123 484 07 24
@@ -44765,6 +44837,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kurravaara Hembygdsförening**
+
+    123 421 49 04
+
+
+
+
 **Kustens Pensionärsklubb**
 
     123 397 32 86
@@ -45513,6 +45592,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kvinnor & Företag Lidingö**
+
+    123 362 63 06
+
+
+
+
 **KvinnorKan**
 
     123 227 76 55
@@ -45958,6 +46044,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 003 36 96
 
     123 471 82 01
+
+
+
+
+**Köpings IS**
+
+    123 213 83 37
 
 
 
@@ -50103,6 +50196,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Luröskärgårdens Natur och Kulturförening**
+
+    123 354 84 68
+
+
+
+
 **Lutherska Församlingen i Stockholms- och Umeåområdet**
 
     123 499 26 73
@@ -53387,6 +53487,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **MorrRingens AB**
 
     123 014 29 27
+
+
+
+
+**Mortorps Hembygdsförening**
+
+    123 412 90 94
 
 
 
@@ -57870,6 +57977,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Näsvikens Bygdegårdsförening**
+
+    123 378 01 03
+
+
+
+
 **Näsvikens IK**
 
     123 023 94 83
@@ -57910,6 +58024,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 064 00 60
 
     123 486 90 79
+
+
+
+
+**Nätra Hembygdsförening**
+
+    123 228 53 28
 
 
 
@@ -64245,6 +64366,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Restaurang Vällagat**
 
     123 528 81 54
+
+
+
+
+**Retcon**
+
+    123 028 76 98
 
 
 
@@ -72625,6 +72753,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sleipner Travklubben**
+
+    123 087 95 77
+
+
+
+
 **Sliceit Golf Aktiebolag**
 
     123 024 09 52
@@ -72768,6 +72903,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Slättmissionens Hjälpande Hand**
 
     123 282 44 64
+
+
+
+
+**Slättåkra Bygdeförening**
+
+    123 037 65 41
 
 
 
@@ -73913,6 +74055,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sotenäs Hundklubb**
 
     123 199 41 51
+
+
+
+
+**Sotenäs Maritimt Center**
+
+    123 407 26 17
 
 
 
@@ -80768,6 +80917,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Dexterföreningen**
+
+    123 330 83 01
+
+
+
+
 **Svenska DF65 Förbundet**
 
     123 603 43 75
@@ -81365,6 +81521,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Marte Meo-föreningen**
+
+    123 393 66 89
+
+
+
+
 **Svenska med Baby**
 
     123 071 22 08
@@ -81501,6 +81664,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska OMEP**
+
+    123 017 80 79
+
+
+
+
 **Svenska Omnibusföreningen**
 
     123 468 27 12
@@ -81511,13 +81681,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Optimistjolleförbundet, SOF**
 
     123 652 43 00
-
-
-
-
-**Svenska Organisation Mondiale pour l’Éducation Préscolaire, OMEP**
-
-    123 017 80 79
 
 
 
@@ -84800,6 +84963,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Södra Hjälmarens Båtklubb, SHB**
 
     123 479 49 54
+
+
+
+
+**Södra Hälsinglands Travsällskap**
+
+    123 644 75 10
 
 
 
@@ -91148,6 +91318,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Umeå Kallbad / Massvis Förening**
 
     123 463 40 77
+
+
+
+
+**Umeå Kampcenter**
+
+    123 646 85 81
 
 
 
