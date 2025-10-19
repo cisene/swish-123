@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-18-rev-211229
+Revision: 2025-10-19-rev-182741
 
-Nummer: 16912
+Nummer: 16928
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1379,6 +1379,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Alingsås Hembygdsförening**
+
+    123 344 31 32
+
+
+
+
 **Alingsås HK**
 
     123 152 80 90
@@ -1818,6 +1825,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Alpha Sverige**
 
     123 477 96 58
+
+
+
+
+**Alseda Bygdegårdsförening**
+
+    123 463 64 86
+
+
+
+
+**Alseda Hembygdsförening**
+
+    123 699 40 65
 
 
 
@@ -13393,6 +13414,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dannemorabygdens Förenings- och Hembygdsarkiv**
+
+    123 318 33 16
+
+
+
+
 **Dannemorabygdens Församling**
 
     123 219 53 78
@@ -14194,6 +14222,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Diö Amatörfiskeklubb**
 
     123 275 36 89
+
+
+
+
+**DJ Uthyrning Sverige / Tonie Strömberg**
+
+    123 287 42 53
 
 
 
@@ -22981,6 +23016,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fårö Förskola Fritids**
 
     123 144 14 50
+
+
+
+
+**Fårö Hembygdsförening**
+
+    123 170 24 22
 
 
 
@@ -32214,6 +32256,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Huddinge Gymnastikförening**
 
     123 552 62 15
+
+
+
+
+**Huddinge Hembygdsförening**
+
+    123 293 34 48
 
 
 
@@ -46287,6 +46336,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Landsbygdspartiet - Oberoende**
+
+    123 414 94 72
+
+
+
+
 **Landskrona Badmintonklubb**
 
     123 331 11 15
@@ -49421,6 +49477,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lommabuktens Seglarklubb LBS**
 
     123 059 46 55
+
+
+
+
+**Lommeland-Näsinge Hembygdsförening**
+
+    123 009 45 08
 
 
 
@@ -56080,6 +56143,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 613 28 64 - Kollekt Strömsbruk
 
     123 644 64 21 - Kollekt Harmånger
+
+
+
+
+**Nordanås Hembygdsförening**
+
+    123 033 54 97
+
+
+
+
+**Nordanås Jaktlag**
+
+    123 536 42 03
 
 
 
@@ -65713,6 +65790,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rolda Sverige**
 
     123 412 63 48
+
+
+
+
+**Rolfstorps Hembygdsförening**
+
+    123 252 62 34
 
 
 
@@ -79965,6 +80049,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Surahammars Hembygdsförening**
+
+    123 505 23 03
+
+
+
+
 **Surahammars IF**
 
     123 590 46 77
@@ -92860,6 +92951,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vansbro Hembygdsförening**
+
+    123 083 59 67
+
+
+
+
 **Vansbro Jakt & Sportskytteklubb**
 
     123 226 80 35
@@ -100241,6 +100339,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Åsa Löfströms terapi, handledning och konsultation AB**
 
     123 614 66 82
+
+
+
+
+**Åsarna Bygdegårdsförening**
+
+    123 150 30 02
+
+
+
+
+**Åsarna IK**
+
+    123 140 53 15
 
 
 
