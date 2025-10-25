@@ -2833,13 +2833,13 @@ entries:
   web: https://www.kvarnsvedensik.com/
 
 - entry: 1230154724
-  orgName: Silyns Massage o Fotvård
+  orgName: Silyns Medicinsk Fotvård i Hallstahammar
   orgNumber: 820114-XXXX
   comment: null
   categories:
   - fotvård
-  - massage
-  web: https://www.bokadirekt.se/places/silyns-fotklinik-47427
+  - medicinsk fotvård
+  web: https://silyns.se/
 
 - entry: 1230154864
   orgName: FC Hessleholm
@@ -22979,7 +22979,8 @@ entries:
   orgNumber: 863001-0984
   comment: null
   categories:
-  - hembygdsförening
+  - hemlandsförening
+  - kulturförening
   - religion
   web: https://izb.se/
 

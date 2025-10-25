@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-10-19-rev-182711
+# Date: 2025-10-25-rev-150538
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -325,7 +325,7 @@
 "1230149328","556612-7659","Crusner Advokatbyrå AB","https://www.crusner.se/","advokatbyrå,juridiska tjänster",""
 "1230150730","867200-0455","Pingstkyrkan Mullsjö-Nyhem","https://mullsjopingst.se/","religion","Missionskassa"
 "1230154583","882600-9329","Kvarnsvedens IK","https://www.kvarnsvedensik.com/","fotbollsklubb,idrottsförening","Kiosk"
-"1230154724","820114-XXXX","Silyns Massage o Fotvård","https://www.bokadirekt.se/places/silyns-fotklinik-47427","fotvård,massage",""
+"1230154724","820114-XXXX","Silyns Medicinsk Fotvård i Hallstahammar","https://silyns.se/","fotvård,medicinsk fotvård",""
 "1230154864","802445-5761","FC Hessleholm","https://www.fchessleholm.se/","fotbollsklubb,idrottsförening","DF17"
 "1230156174","802421-8169","Nyköpings Curlingklubb","https://www.svenskalag.se/nykopingsck","curlingklubb,idrottsförening",""
 "1230156513","702001-1545","Svenska Konstnärernas Förening, SKF","https://konstnarshuset.org/","konstnärsförening",""
@@ -2587,7 +2587,7 @@
 "1231056217","818500-1115","Mariakyrkans Församling","http://www.mariakyrkan.nu/","religion",""
 "1231056563","893201-4502","Aspås Hembygdsförening","https://www.hembygd.se/aspas","hembygdsförening",""
 "1231056571","818000-1029","Eskilstuna GUIF IF","https://www.guif.nu/","handbollsklubb,idrottsförening","Lotterier"
-"1231056902","863001-0984","Džemat Trollhättan / Bosniakiska Kultur - Islamiska Församlingen","https://izb.se/","hembygdsförening,religion",""
+"1231056902","863001-0984","Džemat Trollhättan / Bosniakiska Kultur - Islamiska Församlingen","https://izb.se/","hemlandsförening,kulturförening,religion",""
 "1231057033","802472-3820","Frövi-Lindesberg Pistolskyttar","https://frovilindesbergpistolskyttar.klubbenonline.se/","pistolskytteklubb,skytteklubb,sportskytteklubb",""
 "1231057801","864500-2315","Fristad GoIF","https://www.fristadgoif.se/","fotbollsklubb,idrottsförening,innebandyklubb",""
 "1231058015","869000-6997","Lidköpings Atletsällskap","https://www.las.nu/","atletklubb,bilbingo,idrottsförening","Vinninga Drive-in Bingo"

@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-19-rev-182741
+Revision: 2025-10-25-rev-150608
 
 Nummer: 16928
 
@@ -70455,7 +70455,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Silyns Massage o Fotvård**
+**Silyns Medicinsk Fotvård i Hallstahammar**
 
     123 015 47 24
 
