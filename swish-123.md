@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-25-rev-150608
+Revision: 2025-10-25-rev-173827
 
-Nummer: 16928
+Nummer: 16949
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1980,6 +1980,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 071 43 78
 
     123 662 64 85 - Servering
+
+
+
+
+**Alviks IK**
+
+    123 286 29 10
 
 
 
@@ -4874,6 +4881,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bergkvara Scoutkår**
 
     123 677 78 74
+
+
+
+
+**Bergnäsets AIK**
+
+    123 252 31 08
 
 
 
@@ -11045,6 +11059,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bygdemuseet Ornö Sockenstuga**
 
     123 147 18 79
+
+
+
+
+**Bygdeå Hembygdsförening**
+
+    123 447 93 74
 
 
 
@@ -20663,6 +20684,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Floda Hembygdsförening**
 
+    123 351 95 92
+
     123 452 02 43
 
 
@@ -28305,6 +28328,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gårdby Buss**
 
     123 682 35 53
+
+
+
+
+**Gåsborns Hembygdsförening**
+
+    123 544 78 67
 
 
 
@@ -36533,6 +36563,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 107 10 18 - P-10/11
 
+
+
+
+**Ingelstad Innebandyklubb**
+
     123 607 13 10
 
 
@@ -38923,6 +38958,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Julita Hembygdsförening**
 
     123 412 05 23
+
+
+
+
+**Jungs Bygdegårdsförening**
+
+    123 223 83 19
 
 
 
@@ -54259,6 +54301,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Museet på Karlsfors**
+
+    123 150 37 62
+
+
+
+
 **Museiföreningen Gefle-Dala Jernväg, MfGDJ**
 
     123 549 89 28
@@ -55174,7 +55223,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Nacka IBK**
+**Nacka Innebandyklubb**
 
     123 699 25 07
 
@@ -72478,6 +72527,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skålans Bygdegårdsförening**
+
+    123 452 42 29
+
+
+
+
 **Skålbo, Rossla och Skridsviks Bygdegårdförening**
 
     123 670 35 65
@@ -85993,7 +86049,34 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 465 74 74 - F-08/09
 
-    123 624 68 62
+
+
+
+**Team Kalix Innebandyklubb**
+
+    123 013 72 08 - P15/16
+
+    123 122 86 91 - P18/19
+
+    123 168 40 26 - P12/13
+
+    123 230 26 10 - Herr div 2
+
+    123 240 77 40 - Medlemsavgifter
+
+    123 318 02 39 - F09/10/11/12
+
+    123 377 33 48 - P17
+
+    123 456 81 01 - P14
+
+    123 483 64 17 - F16/17/18
+
+    123 589 23 36 - Dam div 1
+
+    123 624 68 62 - F13/14/15
+
+    123 663 78 96 - P10/11
 
 
 
@@ -93202,7 +93285,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Varla IBK**
+**Varla Innebandyklubb**
 
     123 311 12 75
 
@@ -96279,6 +96362,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerlösa Bygdegårsförening**
 
     123 181 75 50
+
+
+
+
+**Västerlövsta Hembygdsförening**
+
+    123 006 27 11
 
 
 
@@ -99502,6 +99592,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Änglakatten**
 
     123 552 76 19
+
+
+
+
+**Ängoms Bygdegård**
+
+    123 017 61 23
 
 
 
