@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-25-rev-173827
+Revision: 2025-10-25-rev-200011
 
-Nummer: 16949
+Nummer: 16968
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3508,6 +3508,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Assyriska Fotbollsföreningen**
+
+    123 222 28 00
+
+
+
+
 **Assyriska IK**
 
     123 539 87 71
@@ -6151,6 +6158,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **BK Forward**
 
     123 184 06 51 - U15
+
+
+
+
+**BK Frisk**
+
+    123 116 63 54
 
 
 
@@ -20466,6 +20480,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**FK Sydfiskarna**
+
+    123 342 61 60
+
+
+
+
 **FK Älmeboda-Linneryd**
 
     123 230 13 72
@@ -22808,6 +22829,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 021 49 16 - avgifter och övrigt
 
     123 668 97 23 - gåvor
+
+
+
+
+**Fyrishof Bowlingklubb**
+
+    123 331 73 02
 
 
 
@@ -25475,6 +25503,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 604 50 17
 
+    123 609 64 08
+
 
 
 
@@ -25532,6 +25562,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gata Upp Gata Ner**
 
     123 443 39 59
+
+
+
+
+**Gatans Vänner**
+
+    123 339 64 88
 
 
 
@@ -25872,6 +25909,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gimonäs Båtklubb**
 
     123 677 67 77
+
+
+
+
+**Gimonäs Umeå IF**
+
+    123 100 80 02
 
 
 
@@ -26386,6 +26430,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Godegårds Skidklubb**
 
     123 422 85 99
+
+
+
+
+**Godmorgon! / Tapper med H AB**
+
+    123 039 67 96
 
 
 
@@ -29289,6 +29340,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Halvorstorps IS**
 
     123 050 31 28
+
+
+
+
+**Hammarby Bandy**
+
+    123 209 63 37
 
 
 
@@ -33445,6 +33503,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Härnösands Pistolskytteklubb, HPSK**
 
     123 061 36 20
+
+
+
+
+**Härnösands Racketklubb**
+
+    123 668 99 70
 
 
 
@@ -39851,7 +39916,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Kalix Bandy**
 
-    123 440 78 54
+    123 225 24 19 - Arrangemang
+
+    123 286 10 37 - Lotterier
+
+    123 440 78 54 - Kansli
 
 
 
@@ -54813,6 +54882,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Månsarps Innebandyklubb**
+
+    123 555 82 42
+
+
+
+
 **Månsbyns Framtid**
 
     123 613 32 92
@@ -62349,6 +62425,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**PRO Kävlinge**
+
+    123 042 28 40
+
+
+
+
 **PRO Köla**
 
     123 605 59 70
@@ -63081,6 +63164,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **PRO Vinslöv**
 
     123 644 62 49
+
+
+
+
+**PRO Vinslöv**
+
+    123 513 48 12
 
 
 
@@ -65801,6 +65891,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Roddklubben Galären, Brännö**
+
+    123 142 60 30
+
+
+
+
 **Rodenkyrkan Norrtälje**
 
     123 237 52 93
@@ -66130,6 +66227,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Roslagens Träningsverk**
 
     123 666 11 51
+
+
+
+
+**Roslags-Länna IF**
+
+    123 170 67 12
 
 
 
@@ -79052,6 +79156,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Strängnäs Pensionärers Bowlingklubb**
+
+    123 000 83 75
+
+
+
+
 **Strängnäs Scoutkår**
 
     123 019 93 64
@@ -79659,7 +79770,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Sunderby SK**
+**Sunderby Sportklubb**
 
     123 267 07 27
 
@@ -101529,6 +101640,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 181 41 10 - Minipoolspelet
 
     123 228 95 77 - I-P 2012
+
+    123 286 20 01 - Bandysektionen P18
 
     123 311 25 47
 
