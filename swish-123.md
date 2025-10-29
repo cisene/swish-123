@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-25-rev-200011
+Revision: 2025-10-30-rev-000607
 
-Nummer: 16968
+Nummer: 16982
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -22013,6 +22013,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Frivilligcentralen Eskilstuna**
+
+    123 193 19 55
+
+
+
+
 **Frizonen**
 
     123 640 70 68
@@ -41039,6 +41046,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Karolinska Institutet**
 
+    123 066 26 84 - Institutionen för Kvinnor och barns hälsa
+
     123 202 32 08 - Fondförvaltning
 
     123 559 80 81 - KI SÖS fond
@@ -45850,6 +45859,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kyrktornets Stiftelse**
+
+    123 060 17 73
+
+
+
+
 **Källa Hembygdsförening**
 
     123 520 57 11
@@ -49050,6 +49066,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Livsval**
 
     123 184 33 90
+
+
+
+
+**Lizas Britzellis Stiftelse**
+
+    123 119 67 08
 
 
 
@@ -55826,6 +55849,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nina Fox Stark**
 
     123 398 38 89
+
+
+
+
+**Nina Sturesson**
+
+    123 171 06 23
 
 
 
@@ -69544,6 +69574,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sara Danius Stiftelse**
+
+    123 052 98 83
+
+
+
+
 **Sara Lidman-sällskapet**
 
     123 240 75 42
@@ -72355,6 +72392,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skulpturpark Vadstena Folkets Park Krogaränga**
 
     123 327 61 44
+
+
+
+
+**Skultagårdens Ryttarförening**
+
+    123 652 57 37
 
 
 
@@ -76957,6 +77001,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen Allmänna Barnhuset**
+
+    123 343 63 42
+
+
+
+
 **Stiftelsen Amref Nordic**
 
     123 900 24 29
@@ -77260,6 +77311,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen för Njursjuka**
+
+    123 640 14 34
+
+
+
+
 **Stiftelsen för The Faith Homes of Kenya**
 
     123 303 84 37
@@ -77412,6 +77470,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen Jamtli**
 
     123 559 10 29
+
+
+
+
+**Stiftelsen Jesper Lindholms minne**
+
+    123 442 16 81
 
 
 
@@ -78178,6 +78243,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stockholm Buddhist Vihara**
+
+    123 419 74 22
+
+
+
+
 **Stockholm Bulgarienturkarnas Kulturförening**
 
     123 226 20 46
@@ -78501,6 +78573,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Stockholms Stad**
+
+    123 552 37 41 - Östberga Kulturhus
 
     123 644 19 19 - Trafikkontoret
 
@@ -82115,6 +82189,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 000 46 55
 
     123 000 46 63
+
+    123 002 92 98 - Klimatkatastrofer
 
     123 041 69 58 - Vattenprojekt
 
@@ -88789,7 +88865,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Tobiasregistret**
+**Tobiasregistret AB**
 
     123 454 19 67
 
@@ -89454,6 +89530,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tosäters Byhistoriska Förening**
 
     123 055 01 11
+
+
+
+
+**Totalförsvarsstiftelsen**
+
+    123 237 02 94
 
 
 
@@ -101725,11 +101808,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Örebro Universitet**
 
-    123 224 86 31 - gåvor
+    123 224 86 31 - Gåvor
 
-    123 487 46 57 - forskning
+    123 487 46 57 - Forskning
 
-    123 654 33 75 - studieupplevelse
+    123 654 33 75 - Studieupplevelse
 
 
 

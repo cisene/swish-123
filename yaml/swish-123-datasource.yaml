@@ -658,6 +658,17 @@ entries:
   - rotaryklubb
   web: https://www.rotary2405.se/clubInfo/%C3%A5tvidaberg
 
+- entry: 1230029298
+  orgName: Svenska Röda Korset
+  orgNumber: 802002-8711
+  comment: Klimatkatastrofer
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/
+
 - entry: 1230033696
   orgName: Köpings Golfklubb
   orgNumber: 878500-3594
@@ -11394,6 +11405,16 @@ entries:
   - filmproduktion
   web: https://laikafilm.se/
 
+- entry: 1230529883
+  orgName: Sara Danius Stiftelse
+  orgNumber: 802481-8455
+  comment: null
+  categories:
+  - donation
+  - minnesfond
+  - stiftelse
+  web: https://saradaniusstiftelse.se/
+
 - entry: 1230530006
   orgName: Hifhistoria
   orgNumber: 802001-3382
@@ -12808,6 +12829,16 @@ entries:
   - samfällighetsförening
   web: https://holsljungafiber.se/
 
+- entry: 1230601773
+  orgName: Kyrktornets Stiftelse
+  orgNumber: 802478-1323
+  comment: null
+  categories:
+  - donation
+  - religion
+  - stiftelse
+  web: https://kyrktornetsstiftelse.se/
+
 - entry: 1230601922
   orgName: SKPF Pensionärerna Halmstad, avd 21
   orgNumber: 802468-6928
@@ -13778,6 +13809,16 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.skpf.se/avdelningar/distrikt-vasternorrland/solleftea-avd-113/
+
+- entry: 1230662684
+  orgName: Karolinska Institutet
+  orgNumber: 202100-2973
+  comment: Institutionen för Kvinnor och barns hälsa
+  categories:
+  - donation
+  - forskning
+  - hälsa
+  web: https://ki.se/
 
 - entry: 1230663401
   orgName: Johannelunds Teologiska Högskola
@@ -25832,6 +25873,15 @@ entries:
   - vapenvård
   web: https://asonjakt.se/
 
+- entry: 1231196708
+  orgName: Lizas Britzellis Stiftelse
+  orgNumber: 802529-9259
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://www.lizasstiftelse.se/
+
 - entry: 1231197367
   orgName: Spånga/Bromstens Bandyklubb, SBBK
   orgNumber: 802407-5809
@@ -36721,6 +36771,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/orust
 
+- entry: 1231710623
+  orgName: Nina Sturesson
+  orgNumber: 720517-XXXX
+  comment: null
+  categories:
+  - ridlektioner
+  web: null
+
 - entry: 1231712793
   orgName: Gammelgårdens IF
   orgNumber: 898200-6242
@@ -41365,6 +41423,15 @@ entries:
   - golfklubb
   - ungdomsverksamhet
   web: https://www.svenskalag.se/alegk
+
+- entry: 1231931955
+  orgName: Frivilligcentralen Eskilstuna
+  orgNumber: 802456-8175
+  comment: null
+  categories:
+  - donation
+  - volontärsuppdrag
+  web: https://www.fcetuna.se/
 
 - entry: 1231933027
   orgName: Pingst Umeå
@@ -46344,6 +46411,7 @@ entries:
   orgNumber: 802481-3167
   comment: null
   categories:
+  - donation
   - minnesfond
   - stiftelse
   web: https://om21.se/
@@ -48372,7 +48440,7 @@ entries:
 - entry: 1232248631
   orgName: Örebro Universitet
   orgNumber: 202100-2924
-  comment: gåvor
+  comment: Gåvor
   categories:
   - forskning
   - universitet
@@ -51344,6 +51412,15 @@ entries:
   categories:
   - golfklubb
   web: https://www.golfuppsala.se/
+
+- entry: 1232370294
+  orgName: Totalförsvarsstiftelsen
+  orgNumber: 802479-9309
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://totalforsvar.org/
 
 - entry: 1232370500
   orgName: FUB Göteborg
@@ -62683,6 +62760,7 @@ entries:
   comment: null
   categories:
   - barnsjukvård
+  - donation
   - stiftelse
   web: https://www.astrid-barn.se/
 
@@ -62691,6 +62769,7 @@ entries:
   orgNumber: 802478-3436
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - stiftelse
   web: https://1000mojligheter.se/
@@ -67803,6 +67882,7 @@ entries:
   orgNumber: 802482-5880
   comment: null
   categories:
+  - donation
   - funktionsnedsättning
   - funktionsvariation
   - segelklubb
@@ -73386,6 +73466,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-jarfalla/foreningar/viksjo-jarfalla.html
 
+- entry: 1233436342
+  orgName: Stiftelsen Allmänna Barnhuset
+  orgNumber: 802000-1072
+  comment: null
+  categories:
+  - stiftelse
+  - stödverksamhet
+  web: https://allmannabarnhuset.se/
+
 - entry: 1233440047
   orgName: Domnarvets GoIF
   orgNumber: 882600-5236
@@ -78469,6 +78558,7 @@ entries:
   comment: null
   categories:
   - anhörigorganisation
+  - donation
   - stiftelse
   web: https://www.seainfo.se/
 
@@ -89032,6 +89122,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/malmo
 
+- entry: 1234197422
+  orgName: Stockholm Buddhist Vihara
+  orgNumber: 802016-3831
+  comment: null
+  categories:
+  - religion
+  web: https://www.buddhistviharastockholm.org/
+
 - entry: 1234197430
   orgName: Stora Tuna och Torsångs Pastorat
   orgNumber: 252003-4287
@@ -93435,6 +93533,16 @@ entries:
   - yoga
   web: https://gravidbolaget.se/
 
+- entry: 1234421681
+  orgName: Stiftelsen Jesper Lindholms minne
+  orgNumber: 802425-6797
+  comment: null
+  categories:
+  - donation
+  - minnesfond
+  - stiftelse
+  web: https://www.jespersminne.se/
+
 - entry: 1234423943
   orgName: IFK Vaxholm
   orgNumber: 816400-3348
@@ -95736,7 +95844,7 @@ entries:
   web: https://piteamuseum.nu/
 
 - entry: 1234541967
-  orgName: Tobiasregistret
+  orgName: Tobiasregistret AB
   orgNumber: 556253-1869
   comment: null
   categories:
@@ -101828,7 +101936,7 @@ entries:
 - entry: 1234874657
   orgName: Örebro Universitet
   orgNumber: 202100-2924
-  comment: forskning
+  comment: Forskning
   categories:
   - forskning
   - universitet
@@ -115895,6 +116003,16 @@ entries:
   categories:
   - tips
   web: https://tipsxtra.se/
+
+- entry: 1235523741
+  orgName: Stockholms Stad
+  orgNumber: 212000-0142
+  comment: Östberga Kulturhus
+  categories:
+  - donation
+  - kommun
+  - kulturhus
+  web: https://ostbergakulturhus.stockholm.se/
 
 - entry: 1235524483
   orgName: Husby Allmänna IK
@@ -134751,6 +134869,15 @@ entries:
   - kiropraktik
   web: https://eastwoodskiropraktik.se/
 
+- entry: 1236401434
+  orgName: Stiftelsen för Njursjuka
+  orgNumber: 802425-9171
+  comment: null
+  categories:
+  - patientförening
+  - stiftelse
+  web: https://njurstiftelsen.se/
+
 - entry: 1236401574
   orgName: PRO Bomhus
   orgNumber: 885001-8170
@@ -137560,6 +137687,16 @@ entries:
   - golfklubb
   web: https://aregolfklubb.com/
 
+- entry: 1236525737
+  orgName: Skultagårdens Ryttarförening
+  orgNumber: 849600-7991
+  comment: null
+  categories:
+  - ridskola
+  - ridsällskap
+  - ryttarförening
+  web: https://skultagardensryttarforening.se/
+
 - entry: 1236525778
   orgName: Sjulnäs Byaförening
   orgNumber: 898801-2368
@@ -138116,7 +138253,7 @@ entries:
 - entry: 1236543375
   orgName: Örebro Universitet
   orgNumber: 202100-2924
-  comment: studieupplevelse
+  comment: Studieupplevelse
   categories:
   - forskning
   - universitet
@@ -148111,7 +148248,9 @@ entries:
   orgNumber: 802425-4131
   comment: null
   categories:
+  - donation
   - insamlingskontroll
+  - stiftelse
   web: https://www.msfonden.se/
 
 - entry: 1239001397
@@ -150190,7 +150329,10 @@ entries:
   orgNumber: 802013-5953
   comment: null
   categories:
+  - donation
+  - forskning
   - insamlingskontroll
+  - stiftelse
   web: https://www.aidsfond.se/
 
 - entry: 1239006974
