@@ -4735,6 +4735,8 @@ entries:
   orgNumber: 846002-3305
   comment: null
   categories:
+  - donation
+  - forskning
   - intresseförening
   web: https://sfor.se/
 
@@ -11473,6 +11475,7 @@ entries:
   orgNumber: 802481-2110
   comment: null
   categories:
+  - donation
   - feminism
   - stiftelse
   web: https://fogelstadsstiftelse.se/
@@ -27027,6 +27030,7 @@ entries:
   orgNumber: 829502-1748
   comment: null
   categories:
+  - donation
   - forskning
   - godkänd gåvomottagare
   - stiftelse
@@ -29325,6 +29329,7 @@ entries:
   orgNumber: 802482-1921
   comment: null
   categories:
+  - donation
   - stiftelse
   web: https://borjesalmingstiftelse.se/
 
@@ -37509,8 +37514,10 @@ entries:
   orgNumber: 802008-8244
   comment: null
   categories:
+  - donation
   - fond
   - stiftelse
+  - yrkesförening
   web: https://swenurse.se/fonder-och-stipendier/hjalpfonder/stiftelsen-sjukskoterskornas-kamratfond
 
 - entry: 1231738236
@@ -38503,6 +38510,7 @@ entries:
   orgNumber: 802482-0808
   comment: null
   categories:
+  - donation
   - naturvård
   - stiftelse
   web: https://www.naturstiftelsen.se/
@@ -40454,6 +40462,16 @@ entries:
   - idrottssällskap
   web: https://donsois.com/
 
+- entry: 1231883610
+  orgName: Svensk Sjuksköterskeförening
+  orgNumber: 802002-9842
+  comment: Girl Child Education Fund
+  categories:
+  - donantionsfond
+  - donation
+  - stiftelse
+  web: https://swenurse.se/
+
 - entry: 1231883677
   orgName: Ödskölt Fiber
   orgNumber: 769624-4305
@@ -42018,6 +42036,15 @@ entries:
   - scoutkår
   web: https://www.hindasscout.se/
 
+- entry: 1231971647
+  orgName: Jan och Erlands Stiftelse
+  orgNumber: 802480-0321
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://amokabel.com/jan-och-erlands-stiftelse
+
 - entry: 1231971951
   orgName: Dyröns Båtklubb
   orgNumber: 802413-9290
@@ -42439,6 +42466,7 @@ entries:
   orgNumber: 817301-5234
   comment: null
   categories:
+  - donation
   - institut
   - musikkultur
   - stiftelse
@@ -46139,6 +46167,14 @@ entries:
   - religion
   web: https://stsimon.se/
 
+- entry: 1232163947
+  orgName: OM21 Stiftelsen
+  orgNumber: 802481-3167
+  comment: null
+  categories:
+  - donation
+  web: https://om21.se/
+
 - entry: 1232164168
   orgName: Pensionärer i Gröna Västar
   orgNumber: 802527-1514
@@ -49836,6 +49872,16 @@ entries:
   categories:
   - supporterklubb
   web: https://www.siriusfotboll.se/
+
+- entry: 1232298669
+  orgName: Stiftelsen till minne av Pia Zandelin
+  orgNumber: 802479-9242
+  comment: null
+  categories:
+  - donation
+  - minnesfond
+  - stiftelse
+  web: https://piazandelin.se/
 
 - entry: 1232299170
   orgName: Haparanda FF
@@ -53620,6 +53666,15 @@ entries:
   - hunduppfödning
   web: https://jonkopingsdk.se/
 
+- entry: 1232486777
+  orgName: Stiftelsen Barnforskingen
+  orgNumber: 802402-1894
+  comment: null
+  categories:
+  - forskning
+  - stiftelse
+  web: https://barnforskningen.se/
+
 - entry: 1232487122
   orgName: Klippans Pistolklubb
   orgNumber: 837600-7301
@@ -57052,6 +57107,7 @@ entries:
   comment: null
   categories:
   - cancer
+  - donation
   - forskning
   - stiftelse
   web: https://transplantationsstiftelsen.se/
@@ -60615,6 +60671,7 @@ entries:
   orgNumber: 802002-9818
   comment: null
   categories:
+  - donation
   - stiftelse
   web: https://www.stockholmssjukhem.se/
 
@@ -63891,6 +63948,15 @@ entries:
   - fiskeklubb
   - sportfiskeklubb
   web: https://ksfk.nu/
+
+- entry: 1232980423
+  orgName: Bergslagsmuseum Pershyttan
+  orgNumber: 802538-7476
+  comment: null
+  categories:
+  - kulturförening
+  - museum
+  web: https://www.njov.se/
 
 - entry: 1232980456
   orgName: Skepplanda BTK
@@ -71489,6 +71555,16 @@ entries:
   - yoga
   web: https://www.mindfultraining.se/
 
+- entry: 1233352770
+  orgName: Linderdahlska Stiftelsen
+  orgNumber: 883201-3299
+  comment: null
+  categories:
+  - donation
+  - kulturhistoria
+  - stiftelse
+  web: https://linderdahlskastiftelsen.se/
+
 - entry: 1233352945
   orgName: Sällskapet Ångbåten
   orgNumber: 857204-0254
@@ -75786,6 +75862,17 @@ entries:
   - musikförening
   web: https://vanforeningen.se/
 
+- entry: 1233526076
+  orgName: Stiftelsen Nora Järnvägsmuseum och Veteranjärnväg, NJOV
+  orgNumber: 877100-8474
+  comment: null
+  categories:
+  - kulturförening
+  - museum
+  - stiftelse
+  - veteranjärnväg
+  web: https://www.njov.se/
+
 - entry: 1233526423
   orgName: Mönsterås Scoutkår
   orgNumber: 832800-4687
@@ -78394,6 +78481,16 @@ entries:
   - anhörigorganisation
   - patientförening
   web: https://www.cavernostangiomsverige.org/
+
+- entry: 1233650777
+  orgName: Nora Bergslags Veteran-Jernväg, NBVJ
+  orgNumber: 877100-8870
+  comment: null
+  categories:
+  - kulturförening
+  - museum
+  - veteranjärnväg
+  web: https://www.nbvj.se/
 
 - entry: 1233650785
   orgName: PRO Rättvik
@@ -82253,6 +82350,15 @@ entries:
   - ornitologi
   web: http://www.varmdofagelklubb.se/
 
+- entry: 1233860491
+  orgName: Stiftelsen för Ekonomisk Forskning i Umeå-Handelshögskolan
+  orgNumber: 894003-1597
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://www.umu.se/handelshogskolan/
+
 - entry: 1233860632
   orgName: Team Rynkeby
   orgNumber: 802534-5938
@@ -84326,6 +84432,17 @@ entries:
   categories:
   - golfklubb
   web: https://www.ramkvillagolf.com/
+
+- entry: 1233947363
+  orgName: Ing-Marie Wieselgrens Stiftelse
+  orgNumber: 802482-2473
+  comment: null
+  categories:
+  - donation
+  - minnesfond
+  - psykisk hälsa
+  - stiftelse
+  web: https://www.stiftelsenimwieselgren.se/
 
 - entry: 1233947421
   orgName: Naprapaterna Falkenberg
@@ -87213,6 +87330,7 @@ entries:
   orgNumber: 857207-2455
   comment: null
   categories:
+  - donation
   - religion
   - stiftelse
   web: https://kyrkanssos.se/
@@ -88013,6 +88131,7 @@ entries:
   orgNumber: 802482-4131
   comment: null
   categories:
+  - donation
   - hjälporganisation
   - insamling
   - stiftelse
@@ -90109,6 +90228,17 @@ entries:
   categories:
   - rotaryklubb
   web: https://portal.clubrunner.ca/15701/
+
+- entry: 1234234795
+  orgName: Stiftelsen Vasa Rediviva
+  orgNumber: 802005-9781
+  comment: Projektet Stötta Vasa
+  categories:
+  - donation
+  - kulturhistoria
+  - museum
+  - stiftelse
+  web: https://www.vasamuseet.se/
 
 - entry: 1234236196
   orgName: Enskede Scoutkår
@@ -94060,6 +94190,15 @@ entries:
   - hundträning
   web: null
 
+- entry: 1234457180
+  orgName: Frivilliga Insatser vid Kris och Katastrof, FIKK
+  orgNumber: 802549-0981
+  comment: null
+  categories:
+  - intresseförening
+  - volontärsuppdrag
+  web: https://www.fikk.se/
+
 - entry: 1234462297
   orgName: Joakim Løvgren - Historical Riding
   orgNumber: 890612-XXXX
@@ -97272,6 +97411,15 @@ entries:
   - båtsällskap
   web: https://www.bmbk.se/
 
+- entry: 1234610861
+  orgName: Stiftelsen Svenska Folkbibeln
+  orgNumber: 812400-7041
+  comment: null
+  categories:
+  - religion
+  - stiftelse
+  web: https://folkbibeln.org/
+
 - entry: 1234610895
   orgName: Fresta Församling
   orgNumber: 252000-0031
@@ -98441,6 +98589,17 @@ entries:
   categories:
   - bageri
   web: https://fredagskassen.storedo.com/
+
+- entry: 1234665089
+  orgName: Hockeyproffsens Stiftelse för Barn och Ungdomar
+  orgNumber: 889601-5560
+  comment: null
+  categories:
+  - barnverksamhet
+  - donation
+  - stiftelse
+  - ungdomsverksamhet
+  web: https://www.hockeyproffsensstiftelse.se/
 
 - entry: 1234665154
   orgName: Församlingen Liv i Överflöd
@@ -99855,6 +100014,15 @@ entries:
   categories:
   - djurskydd
   web: https://www.djurensvanner.se/umea
+
+- entry: 1234724001
+  orgName: Stiftelsen Hospice Östergötland
+  orgNumber: 802482-2077
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://hospiceostergotland.se/
 
 - entry: 1234724894
   orgName: Rejmyre Bågskytteklubb
@@ -104217,6 +104385,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.skpf.se/nyheter/local-category/avd-58-skelleftea/
+
+- entry: 1234997631
+  orgName: Gålöstiftelsen
+  orgNumber: 802002-7119
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://www.galostiftelsen.se/
 
 - entry: 1234997664
   orgName: Karlshamn OCR
@@ -122446,6 +122623,7 @@ entries:
   orgNumber: 802400-8727
   comment: null
   categories:
+  - donation
   - psykoterapi
   - stiftelse
   - stipendium
@@ -130884,6 +131062,9 @@ entries:
   comment: null
   categories:
   - afasiförening
+  - anhörigorganisation
+  - donation
+  - patientförening
   web: https://afasicenter.se/
 
 - entry: 1236202592
@@ -132007,6 +132188,14 @@ entries:
   categories:
   - anhörigorganisation
   web: https://www.bonavia.se/
+
+- entry: 1236258602
+  orgName: Hällegrim Productions
+  orgNumber: 810619-XXXX
+  comment: Södra Dalarne TV
+  categories:
+  - lokaltelevision
+  web: https://www.youtube.com/c/SödraDalarneTV
 
 - entry: 1236259873
   orgName: Lycksele Församling
@@ -137794,16 +137983,19 @@ entries:
   orgNumber: 802401-2737
   comment: null
   categories:
+  - donation
   - naturvård
   - stiftelse
   - vattenvård
   web: https://vatmarksfonden.se/
 
 - entry: 1236530638
-  orgName: K.A. Almgren sidenväveri & museum / K.A. Almgren Museum Förening
+  orgName: K.A. Almgren Sidenväveri & Museum
   orgNumber: 802516-6011
   comment: null
   categories:
+  - donation
+  - museiförening
   - museum
   web: https://www.kasiden.se/
 
@@ -138562,6 +138754,17 @@ entries:
   - patientförening
   - riksförbund
   web: https://www.hjart-lung.se/foreningar/skane/lokalforeningar/malmo/
+
+- entry: 1236566467
+  orgName: Ludvika Insamlingsstiftelse Psykisk Hälsa
+  orgNumber: 802482-5393
+  comment: null
+  categories:
+  - donation
+  - insamling
+  - psykisk hälsa
+  - stiftelse
+  web: https://ludvikainsamlingsstiftelse.se/
 
 - entry: 1236568489
   orgName: Cykelklubben Bike4Life
@@ -150126,6 +150329,7 @@ entries:
   comment: null
   categories:
   - djurskydd
+  - donation
   - insamlingskontroll
   - stiftelse
   web: https://www.chickasminnesfond.se/
@@ -150887,6 +151091,16 @@ entries:
   - kvinnojour
   web: https://www.tjejjourenvast.se/
 
+- entry: 1239008194
+  orgName: Stiftelsen Hospice Östergötland
+  orgNumber: 802482-2077
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  web: https://www.hospiceostergotland.se/
+
 - entry: 1239008228
   orgName: Bröstcancerförbundet
   orgNumber: 802010-4264
@@ -151071,6 +151285,16 @@ entries:
   - insamlingskontroll
   - stiftelse
   web: https://www.rahfo.se/
+
+- entry: 1239008897
+  orgName: Stiftelsen Station Linné
+  orgNumber: 802426-3744
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  web: https://www.stationlinne.se/
 
 - entry: 1239008913
   orgName: MAF-Sweden

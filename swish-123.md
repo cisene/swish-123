@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-10-30-rev-000607
+Revision: 2025-11-02-rev-172238
 
-Nummer: 16982
+Nummer: 17003
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -4985,6 +4985,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bergslagskattens Katthem**
 
     123 176 48 44
+
+
+
+
+**Bergslagsmuseum Pershyttan**
+
+    123 298 04 23
 
 
 
@@ -21999,6 +22006,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Frivilliga Insatser vid Kris och Katastrof, FIKK**
+
+    123 445 71 80
+
+
+
+
 **Frivilliga Insatser vid Kris och Katastrof - FIKK Sweden**
 
     123 112 36 45
@@ -28348,6 +28362,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gålöstiftelsen**
+
+    123 499 76 31
+
+
+
+
 **Gångemad Fårgård**
 
     123 615 76 06
@@ -31805,6 +31826,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hockeyproffsens Stiftelse för Barn och Ungdomar**
+
+    123 466 50 89
+
+
+
+
 **Hofors AIF**
 
     123 538 02 58
@@ -33286,6 +33314,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hälleforsnäs IF**
 
     123 464 44 64
+
+
+
+
+**Hällegrim Productions**
+
+    123 625 86 02 - Södra Dalarne TV
 
 
 
@@ -36589,6 +36624,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ing-Marie Wieselgrens Stiftelse**
+
+    123 394 73 63
+
+
+
+
 **Ingareds byalag**
 
     123 687 98 94
@@ -38465,6 +38507,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jan och Erlands Stiftelse**
+
+    123 197 16 47
+
+
+
+
 **Jan-Olof Sundbergs Åkeri AB**
 
     123 175 63 94
@@ -39819,7 +39868,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**K.A. Almgren sidenväveri & museum / K.A. Almgren Museum Förening**
+**K.A. Almgren Sidenväveri & Museum**
 
     123 653 06 38
 
@@ -47906,6 +47955,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Linderdahlska Stiftelsen**
+
+    123 335 27 70
+
+
+
+
 **Lindesberg Golf & Hotell**
 
     123 269 95 36 - Padelverksamheten
@@ -49839,6 +49895,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 006 86 68
 
     123 008 37 09 - Truls Lindström Minnesfond
+
+
+
+
+**Ludvika Insamlingsstiftelse Psykisk Hälsa**
+
+    123 656 64 67
 
 
 
@@ -56120,6 +56183,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nora Bergslags Veteran-Jernväg, NBVJ**
+
+    123 365 07 77
+
+
+
+
 **Nora Biologiska Förening**
 
     123 200 69 63
@@ -58942,6 +59012,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Olympia Kampsportcenter**
 
     123 055 54 82 - Ukraina
+
+
+
+
+**OM21 Stiftelsen**
+
+    123 216 39 47
 
 
 
@@ -77059,6 +77136,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen Barnforskingen**
+
+    123 248 67 77
+
+
+
+
 **Stiftelsen Barnhjälp Soluppgång**
 
     123 263 82 29
@@ -77304,6 +77388,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen för Ekonomisk Forskning i Umeå-Handelshögskolan**
+
+    123 386 04 91
+
+
+
+
 **Stiftelsen för Medicinsk forskning vid Universitetssjukhuset Örebro - Nyckelfonden**
 
     123 900 29 81
@@ -77435,6 +77526,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen Hjelmseryds Prästgård**
 
     123 323 67 26
+
+
+
+
+**Stiftelsen Hospice Östergötland**
+
+    123 472 40 01
+
+    123 900 81 94
 
 
 
@@ -77631,6 +77731,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen New Life Mission**
 
     123 900 46 98
+
+
+
+
+**Stiftelsen Nora Järnvägsmuseum och Veteranjärnväg, NJOV**
+
+    123 352 60 76
 
 
 
@@ -77869,6 +77976,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 635 94 00
 
+    123 900 88 97
+
 
 
 
@@ -77916,6 +78025,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen Svenska Folkbibeln**
+
+    123 461 08 61
+
+
+
+
 **Stiftelsen Svenska Hjärtan - till minne av Ebba Stefansdotter Åkerlund**
 
     123 662 48 94
@@ -77958,6 +78074,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen till minne av Pia Zandelin**
+
+    123 229 86 69
+
+
+
+
 **Stiftelsen Tim Bergling Foundation**
 
     123 065 67 44 - Avicii-fonden
@@ -77993,6 +78116,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 294 52 10 - Vendelstidsdagarna
 
     123 421 21 97 - Gåvor och insamlingar
+
+
+
+
+**Stiftelsen Vasa Rediviva**
+
+    123 423 47 95 - Projektet Stötta Vasa
 
 
 
@@ -80831,6 +80961,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svensk Sjuksköterskeförening**
 
     123 283 03 47
+
+
+
+
+**Svensk Sjuksköterskeförening**
+
+    123 188 36 10 - Girl Child Education Fund
 
 
 
