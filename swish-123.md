@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-02-rev-172238
+Revision: 2025-11-04-rev-211613
 
-Nummer: 17003
+Nummer: 17018
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -12212,6 +12212,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Charity by Friendship Stiftelse**
+
+    123 418 28 04
+
+
+
+
 **Charity Yoga / Marie Mallmin AB**
 
     123 107 97 06
@@ -16713,6 +16720,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Emerichfonden**
 
     123 259 34 24
+
+
+
+
+**Emigrantinstitutets Vänner**
+
+    123 408 76 72
 
 
 
@@ -23855,6 +23869,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Gamla Lundsbergare**
+
+    123 326 18 15
+
+
+
+
 **Föreningen Gamla SSK:are**
 
     123 145 41 72
@@ -25629,6 +25650,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ge Effektivt**
+
+    123 380 60 15
+
+
+
+
 **Gefle BC**
 
     123 593 49 63
@@ -26086,6 +26114,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Giving People**
 
     123 137 65 24
+
+
+
+
+**Giving People Barnstiftelse**
+
+    123 694 21 97
 
 
 
@@ -26826,6 +26861,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Granöbygdens Golfklubb**
 
     123 658 37 69
+
+
+
+
+**Gratia Dei-stiftelsen**
+
+    123 112 65 49
 
 
 
@@ -27772,6 +27814,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gustaf Fröding-Sällskapet**
 
     123 584 14 99
+
+
+
+
+**Gustaf Ulfsparres Stiftelse**
+
+    123 351 50 20
 
 
 
@@ -32126,6 +32175,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hoppets Stjärna Insamlingsstiftelse**
 
     123 900 25 36
+
+
+
+
+**Hopptimistens Insamlingsstiftelse**
+
+    123 605 14 37
 
 
 
@@ -37031,6 +37087,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Insamlingsstiftelse EVO**
+
+    123 148 57 05
+
+
+
+
 **Insamlingsstiftelse Respira**
 
     123 305 50 50
@@ -37344,6 +37407,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Insamlingsstiftelsen Hand i Hand**
+
+    123 320 03 18
+
+
+
+
 **Insamlingsstiftelsen Happy Child Foundation**
 
     123 059 15 78
@@ -37545,6 +37615,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Insamlingsstiftelsen Magnoliabarnen**
 
     123 558 43 39
+
+
+
+
+**Insamlingsstiftelsen Mando**
+
+    123 054 80 65
 
 
 
@@ -37813,6 +37890,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Insamlingsstiftelsen Teach for Sweden**
 
     123 900 48 39
+
+
+
+
+**Insamlingsstiftelsen The Braveheart**
+
+    123 388 86 66
 
 
 
@@ -77336,6 +77420,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen Fanny Hirsch Minne**
+
+    123 499 78 96
+
+
+
+
 **Stiftelsen Fistulasjukhuset**
 
     123 900 29 65
@@ -80749,6 +80840,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svensk Andungeklubb**
 
     123 143 15 84
+
+
+
+
+**Svensk Anestesiologisk Förening**
+
+    123 390 53 04
 
 
 
@@ -95856,6 +95954,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vänföreningen Nilssons El & Teknikmuseum**
 
     123 577 43 93
+
+
+
+
+**Vänföreningen till Stiftelsen Torgny Segerstedts Minne**
+
+    123 220 74 70
 
 
 

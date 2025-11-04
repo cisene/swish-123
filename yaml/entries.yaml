@@ -6500,6 +6500,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sodraoland
 
+- entry: 1230311803
+  orgName: Insamlingsstiftelsen Halmstad Live
+  orgNumber: null
+  comment: null
+  categories:
+  - retired
+  web: http://stiftelsenhalmstadlive.se/
+
 - entry: 1230313403
   orgName: Reumatikerföreningen Strängnäs
   orgNumber: 819500-3663
@@ -11858,6 +11866,17 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://www.hammarbykaj.se/
+
+- entry: 1230548065
+  orgName: Insamlingsstiftelsen Mando
+  orgNumber: 802482-5161
+  comment: null
+  categories:
+  - donation
+  - forskning
+  - stiftelse
+  - ätstörning
+  web: https://mandostiftelsen.se/
 
 - entry: 1230548230
   orgName: Marinexpress Brandt Båt / Lysmarine AB
@@ -24650,6 +24669,15 @@ entries:
   - hjälporganisation
   web: https://fikk.se/
 
+- entry: 1231126549
+  orgName: Gratia Dei-stiftelsen
+  orgNumber: 838200-1280
+  comment: null
+  categories:
+  - religion
+  - stiftelse
+  web: http://www.gratiadei.se/
+
 - entry: 1231127876
   orgName: Barnens Ambassad
   orgNumber: 802427-8585
@@ -32709,6 +32737,15 @@ entries:
   - religion
   web: https://dovasafrikamission.se/
 
+- entry: 1231485705
+  orgName: Insamlingsstiftelse EVO
+  orgNumber: 802480-1014
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://issevo.se/
+
 - entry: 1231486158
   orgName: Kvinnojouren Viljan
   orgNumber: 802453-3807
@@ -40084,6 +40121,7 @@ entries:
   comment: null
   categories:
   - djurskydd
+  - donation
   - katthem
   - stiftelse
   web: https://kattjouren.nu/
@@ -47989,6 +48027,16 @@ entries:
   - mountainbikeklubb
   web: https://www.laget.se/BraasGoIF/
 
+- entry: 1232207470
+  orgName: Vänföreningen till Stiftelsen Torgny Segerstedts Minne
+  orgNumber: 857209-2388
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  - vänförening
+  web: https://www.torgnysegerstedt.se/
+
 - entry: 1232207975
   orgName: Kärringbloggen / Helene Bergman Media / Helene Bergman
   orgNumber: 460219-XXXX
@@ -53846,6 +53894,8 @@ entries:
   orgNumber: 802481-3381
   comment: null
   categories:
+  - donation
+  - forskning
   - stiftelse
   web: https://motbarncancer.se/
 
@@ -54492,6 +54542,7 @@ entries:
   orgNumber: 802402-1894
   comment: null
   categories:
+  - donation
   - forskning
   - stiftelse
   web: https://barnforskningen.se/
@@ -60201,6 +60252,7 @@ entries:
   orgNumber: 894701-6674
   comment: null
   categories:
+  - donation
   - forskning
   - intresseorganisation
   web: https://www.famy.se/
@@ -69631,6 +69683,15 @@ entries:
   - restaurant
   web: https://vardnas.se/
 
+- entry: 1233200318
+  orgName: Insamlingsstiftelsen Hand i Hand
+  orgNumber: 857209-7874
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: http://www.handihand.org/
+
 - entry: 1233200714
   orgName: SOS Barnbyar Sverige
   orgNumber: 802405-7815
@@ -70823,6 +70884,14 @@ entries:
   categories:
   - lionsklubb
   web: https://e-clubhouse.org/sites/skelleftea/
+
+- entry: 1233261815
+  orgName: Föreningen Gamla Lundsbergare
+  orgNumber: 802001-1733
+  comment: null
+  categories:
+  - studentorganisation
+  web: https://www.lundsbergsskola.se/
 
 - entry: 1233261856
   orgName: Vikers Hembygdsförening
@@ -76714,6 +76783,15 @@ entries:
   - rotaryklubb
   web: https://saltsjobaden.rotary2405.se/
 
+- entry: 1233515020
+  orgName: Gustaf Ulfsparres Stiftelse
+  orgNumber: 832800-7706
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://gustiftelse.se/
+
 - entry: 1233515277
   orgName: Timrå IK
   orgNumber: 889200-5870
@@ -82551,6 +82629,16 @@ entries:
   - rotaryklubb
   web: https://portal.clubrunner.ca/15696/
 
+- entry: 1233806015
+  orgName: Ge Effektivt
+  orgNumber: 802536-0739
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamling
+  web: https://geeffektivt.se/
+
 - entry: 1233806122
   orgName: Borlänge Tunabygdens Konstförening
   orgNumber: 882601-0335
@@ -84365,6 +84453,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/bjursas
 
+- entry: 1233888666
+  orgName: Insamlingsstiftelsen The Braveheart
+  orgNumber: 802480-2707
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://www.hammarbyhockey.se/braveheart-by-ziegler/
+
 - entry: 1233892122
   orgName: HS Häst
   orgNumber: 559030-3425
@@ -84795,6 +84892,16 @@ entries:
   categories:
   - kattklubb
   web: https://absolutkattklubb.se/
+
+- entry: 1233905304
+  orgName: Svensk Anestesiologisk Förening
+  orgNumber: 816400-3066
+  comment: null
+  categories:
+  - donation
+  - insamling
+  - yrkesförening
+  web: https://operationsochintensivvardsfonden.se/
 
 - entry: 1233906195
   orgName: Malungs SLK
@@ -88297,6 +88404,14 @@ entries:
   - muaythaiklubb
   web: https://www.svenskalag.se/houseofsamurai
 
+- entry: 1234087672
+  orgName: Emigrantinstitutets Vänner
+  orgNumber: 829501-5666
+  comment: null
+  categories:
+  - vänförening
+  web: https://www.emivan.se/
+
 - entry: 1234088076
   orgName: Vreta Klosters Hembygdsförening
   orgNumber: 822000-7978
@@ -90199,6 +90314,15 @@ entries:
   categories:
   - religion
   web: https://www.chabadstockholm.com/
+
+- entry: 1234182804
+  orgName: Charity by Friendship Stiftelse
+  orgNumber: 802477-4575
+  comment: null
+  categories:
+  - donation
+  - stiftelse
+  web: https://charitybyfriendship.org/
 
 - entry: 1234183190
   orgName: Odensjö Församling
@@ -105950,6 +106074,17 @@ entries:
   - yoga
   web: https://www.sansochbalans.se/
 
+- entry: 1234997896
+  orgName: Stiftelsen Fanny Hirsch Minne
+  orgNumber: 802006-2231
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - psykisk hälsa
+  - stiftelse
+  web: https://www.fannyhirsch.se/
+
 - entry: 1234999199
   orgName: Stiftelsen Hästforskning
   orgNumber: 802424-3472
@@ -112820,6 +112955,7 @@ entries:
   - alkoholproblematik
   - behandling
   - beroendeproblematik
+  - donation
   - forskning
   - stiftelse
   - utbildning
@@ -113984,6 +114120,8 @@ entries:
   orgNumber: 802481-5626
   comment: null
   categories:
+  - donation
+  - insamling
   - stiftelse
   web: https://hallbarutvecklingkrisochberedskap.se/
 
@@ -129350,6 +129488,17 @@ entries:
   - idrottsförening
   web: https://www.laget.se/GammelgardensIF/
 
+- entry: 1236051437
+  orgName: Hopptimistens Insamlingsstiftelse
+  orgNumber: 802478-1828
+  comment: null
+  categories:
+  - donation
+  - funktionsnedsättning
+  - funktionsvariation
+  - stiftelse
+  web: https://www.hopptimiststiftelsen.com/
+
 - entry: 1236053516
   orgName: Uppsala BC 90
   orgNumber: 802415-0750
@@ -132476,6 +132625,7 @@ entries:
   orgNumber: 802513-8150
   comment: null
   categories:
+  - donation
   - insamling
   - stiftelse
   web: https://blaljusisamverkan.se/
@@ -149011,6 +149161,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/onsta-gryta-kyrka
 
+- entry: 1236942197
+  orgName: Giving People Barnstiftelse
+  orgNumber: 802480-1030
+  comment: null
+  categories:
+  - barnverksamhet
+  - donation
+  - stiftelse
+  web: https://givingpeoplebarnstiftelse.se/
+
 - entry: 1236942676
   orgName: Kung Karls Bygdegårdsförening
   orgNumber: 878500-5755
@@ -151262,6 +151422,7 @@ entries:
   orgNumber: 802008-1348
   comment: null
   categories:
+  - donation
   - förbund
   - insamlingskontroll
   web: https://www.autism.se/
@@ -152350,6 +152511,7 @@ entries:
   orgNumber: 802009-2261
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   web: https://www.barncancerfonden.se/lokala-foreningar/stockholm-gotland
 
@@ -154463,6 +154625,7 @@ entries:
   orgNumber: 802426-3306
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - stiftelse
   web: https://www.stiftelsenchoice.se/
@@ -155008,7 +155171,7 @@ entries:
   categories:
   - insamlingskontroll
   - retired
-  web: null
+  web: http://www.stiftelsenivf.se/
 
 - entry: 1239006446
   orgName: Ideella Föreningen Östpendeln
@@ -157357,6 +157520,7 @@ entries:
   orgNumber: 875002-7800
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   - välgörenhet
