@@ -150647,7 +150647,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - overifierad
+  - retired
   web: https://www.diabetes.se/
 
 - entry: 1239000316
@@ -151052,7 +151052,16 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - retired
   web: https://www.alliansmissionen-90konto.se/
+
+- entry: 1239000852
+  orgName: Föreningen Barnens Värld
+  orgNumber: null
+  comment: null
+  categories:
+  - retired
+  web: null
 
 - entry: 1239000860
   orgName: Stödföreningen för Gatubarn i Manila
@@ -151352,6 +151361,7 @@ entries:
   comment: Distrikt Malmö
   categories:
   - insamlingskontroll
+  - retired
   web: https://www.raddabarnen.se/medlem-och-volontar/malmo-distrikt/
 
 - entry: 1239001264
@@ -151630,6 +151640,14 @@ entries:
   - stiftelse
   - välgörenhet
   web: https://www.sverigeforunhcr.se/
+
+- entry: 1239001652
+  orgName: Rädda Barnen Distrikt på Gotland
+  orgNumber: null
+  comment: null
+  categories:
+  - retired
+  web: null
 
 - entry: 1239001660
   orgName: Stiftelsen Livets Ord
@@ -152207,6 +152225,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - retired
   - välgörenhet
   web: https://www.involvaid.com/
 
@@ -152766,6 +152785,7 @@ entries:
   categories:
   - insamlingskontroll
   - ornitologi
+  - retired
   web: https://www.skof.se/
 
 - entry: 1239003021
@@ -153610,6 +153630,7 @@ entries:
   - donation
   - insamling
   - insamlingskontroll
+  - retired
   - stiftelse
   web: https://www.insamlingsstiftelsen.se/
 
@@ -153621,6 +153642,7 @@ entries:
   - donation
   - godkänd gåvomottagare
   - insamlingskontroll
+  - retired
   - stiftelse
   web: https://www.jlof.net/
 
@@ -153640,8 +153662,8 @@ entries:
   categories:
   - donation
   - insamlingskontroll
-  - overifierad
   - stiftelse
+  - terminated
   web: https://www.stiftelsengatubarn.se/
 
 - entry: 1239004136
@@ -153650,6 +153672,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - retired
   web: https://www.fvbu.se/
 
 - entry: 1239004144
@@ -153835,6 +153858,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - retired
   - välgörenhet
   web: https://www.cancerhjalpen.se/
 
@@ -154372,6 +154396,15 @@ entries:
   - välgörenhet
   web: https://www.sjoraddning.se/
 
+- entry: 1239005018
+  orgName: Internationella Stiftelsen Barnens Ark
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  - terminated
+  web: null
+
 - entry: 1239005026
   orgName: Föreningen Greenpeace Norden
   orgNumber: 857204-4280
@@ -154515,6 +154548,15 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.iogtntororelsen.se/
+
+- entry: 1239005208
+  orgName: Project Playground
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  - terminated
+  web: null
 
 - entry: 1239005216
   orgName: Insamlingsstiftelsen Hudfonden
@@ -154888,6 +154930,7 @@ entries:
   categories:
   - insamlingskontroll
   - stiftelse
+  - terminated
   web: https://www.espersenfoundation.se/
 
 - entry: 1239005729
@@ -154937,6 +154980,7 @@ entries:
   - donation
   - godkänd gåvomottagare
   - insamlingskontroll
+  - retired
   - stiftelse
   web: https://www.perusvanner.se/
 
@@ -155139,6 +155183,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - retired
   web: https://www.gnosjohjalper.se/
 
 - entry: 1239006065
@@ -155507,7 +155552,7 @@ entries:
   categories:
   - donation
   - insamlingskontroll
-  - overifierad
+  - retired
   - stiftelse
   web: https://www.linkopingmoske.se/
 
@@ -155754,7 +155799,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
-  - overifierad
+  - retired
   web: https://www.nemaproblema.se/
 
 - entry: 1239006826
@@ -155765,6 +155810,7 @@ entries:
   - donation
   - insamlingskontroll
   - intresseförening
+  - retired
   web: https://www.westpride.se/
 
 - entry: 1239006834
@@ -155833,6 +155879,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - retired
   web: https://www.medvetenkonsumtion.se/
 
 - entry: 1239006909
@@ -156037,6 +156084,7 @@ entries:
   - brottsofferjour
   - insamlingskontroll
   - kvinnojour
+  - retired
   web: https://www.freezonen.se/
 
 - entry: 1239007139
@@ -156079,6 +156127,15 @@ entries:
   web: https://www.kungsljuset.nu/
 
 - entry: 1239007170
+  orgName: Stiftelsen Noaks Ark
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  - terminated
+  web: null
+
+- entry: 1239007188
   orgName: Stiftelsen Noaks Ark
   orgNumber: null
   comment: null
@@ -156795,7 +156852,7 @@ entries:
   categories:
   - donation
   - insamlingskontroll
-  - overifierad
+  - retired
   - stiftelse
   web: https://www.stiftelsenisb.se/
 
@@ -157078,6 +157135,14 @@ entries:
   - insamlingskontroll
   web: https://www.alliansmissionen.se/
 
+- entry: 1239008608
+  orgName: Ekologiska Lantbrukarna i Sverige
+  orgNumber: 832800-7839
+  comment: null
+  categories:
+  - retired
+  web: null
+
 - entry: 1239008616
   orgName: World Children Need
   orgNumber: 802472-8910
@@ -157170,6 +157235,7 @@ entries:
   categories:
   - donation
   - insamlingskontroll
+  - retired
   - stiftelse
   - välgörenhet
   web: https://www.diabetesfonden.se/
@@ -157231,6 +157297,7 @@ entries:
   - bistånd
   - hjälporganisation
   - insamlingskontroll
+  - retired
   web: https://www.bharat-bistand.org/
 
 - entry: 1239009283
@@ -157687,6 +157754,15 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.kalmarstadsmission.se/
+
+- entry: 1239011404
+  orgName: Kristen Samverkan Småland-Blekinge
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  - terminated
+  web: null
 
 - entry: 1239011412
   orgName: Kristen Samverkan Småland-Blekinge

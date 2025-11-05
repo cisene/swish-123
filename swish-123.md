@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-05-rev-205422
+Revision: 2025-11-05-rev-230137
 
-Nummer: 17034
+Nummer: 17018
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -5213,13 +5213,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **BGK VK-78 - Bangolf**
 
     123 161 65 98
-
-
-
-
-**Bharat Indien-Bistånd**
-
-    123 900 91 92
 
 
 
@@ -11682,13 +11675,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Cancergalan / Karin Wöyer Amcoff**
 
     123 653 23 86 - Cancergalan
-
-
-
-
-**Cancerhjälpen**
-
-    123 900 43 75
 
 
 
@@ -21469,13 +21455,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Freezonen, Kvinno-,Tjej- och Brottsofferjour**
-
-    123 900 71 21
-
-
-
-
 **Freija Roslagens Företagarkvinnor**
 
     123 389 38 80
@@ -22855,13 +22834,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Future with Hope - For children in EastAfrica**
 
     123 199 37 16
-
-
-
-
-**FVBU, Föreningen för Värdefulla Barn och Ungdomar**
-
-    123 900 41 36
 
 
 
@@ -24336,13 +24308,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Föreningen Medveten Konsumtion Sverige**
-
-    123 900 68 91
-
-
-
-
 **Föreningen Mot Bättre Vetande**
 
     123 563 63 52
@@ -25092,13 +25057,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen Örtagården**
 
     123 311 38 75
-
-
-
-
-**Föreningsalliansen Gnosjö Hjälper**
-
-    123 900 60 57
 
 
 
@@ -37542,13 +37500,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Insamlingsstiftelsen JLOF (Jeremiah Lucas Opira Foundation) Sweden**
-
-    123 900 41 02
-
-
-
-
 **Insamlingsstiftelsen Jämtlands läns Cancer- och Omvårdnadsfond**
 
     123 902 00 25
@@ -37745,13 +37696,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Insamlingsstiftelsen Perus Vänner**
-
-    123 900 57 60
-
-
-
-
 **Insamlingsstiftelsen Power Woman Foundation**
 
     123 416 11 88
@@ -37783,13 +37727,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Insamlingsstiftelsen Rewilding Europe - Sweden**
 
     123 516 12 29
-
-
-
-
-**Insamlingsstiftelsen RFSL**
-
-    123 900 40 86
 
 
 
@@ -38247,13 +38184,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Invisible Friend**
 
     123 346 63 98
-
-
-
-
-**Involvaid**
-
-    123 900 23 20
 
 
 
@@ -68045,13 +67975,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Rädda Barnens Riksförbund**
-
-    123 900 12 49 - Distrikt Malmö
-
-
-
-
 **Rädda Djuren**
 
     123 516 60 95
@@ -69250,13 +69173,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **SAM-hjälp**
 
     123 900 34 19
-
-
-
-
-**SAM:s Insamlingsstiftelse**
-
-    123 900 08 45
 
 
 
@@ -73021,13 +72937,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skånes Konstförening**
 
     123 407 44 31
-
-
-
-
-**Skånes Ornitologiska Förening**
-
-    123 900 30 13
 
 
 
@@ -78193,13 +78102,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Stiftelsen Svenska Diabetesförbundets Forskningsfond - Diabetesfonden**
-
-    123 900 90 10
-
-
-
-
 **Stiftelsen Svenska Djurfonden**
 
     123 415 61 88
@@ -78238,13 +78140,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen Team Mission**
 
     123 901 32 02
-
-
-
-
-**Stiftelsen the Espersen Foundation**
-
-    123 900 57 03
 
 
 
@@ -98623,13 +98518,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **West Coast Pole & Dance Studio AB**
 
     123 072 92 85
-
-
-
-
-**West Pride**
-
-    123 900 68 26
 
 
 

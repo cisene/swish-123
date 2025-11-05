@@ -148577,14 +148577,6 @@ entries:
   - insamlingskontroll
   web: https://www.actionaid.se/
 
-- entry: 1239000845
-  orgName: SAM:s Insamlingsstiftelse
-  orgNumber: 802424-9305
-  comment: null
-  categories:
-  - insamlingskontroll
-  web: https://www.alliansmissionen-90konto.se/
-
 - entry: 1239000878
   orgName: Frisk & Fri - Riksföreningen mot ätstörningar
   orgNumber: 802012-8925
@@ -148716,14 +148708,6 @@ entries:
   - insamlingskontroll
   - välgörenhet
   web: https://www.svenskakyrkan.se/
-
-- entry: 1239001249
-  orgName: Rädda Barnens Riksförbund
-  orgNumber: 846000-5294
-  comment: Distrikt Malmö
-  categories:
-  - insamlingskontroll
-  web: https://www.raddabarnen.se/medlem-och-volontar/malmo-distrikt/
 
 - entry: 1239001264
   orgName: Insamlingsstiftelsen Caminul Felix
@@ -149127,15 +149111,6 @@ entries:
   - välgörenhet
   web: https://www.sos-barnbyar.se/
 
-- entry: 1239002320
-  orgName: Involvaid
-  orgNumber: 802431-9470
-  comment: null
-  categories:
-  - insamlingskontroll
-  - välgörenhet
-  web: https://www.involvaid.com/
-
 - entry: 1239002353
   orgName: Stiftelsen Reach for Change
   orgNumber: 802426-5590
@@ -149380,15 +149355,6 @@ entries:
   - insamlingskontroll
   - stiftelse
   web: https://www.nyckelfonden.se/
-
-- entry: 1239003013
-  orgName: Skånes Ornitologiska Förening
-  orgNumber: 845000-8399
-  comment: null
-  categories:
-  - insamlingskontroll
-  - ornitologi
-  web: https://www.skof.se/
 
 - entry: 1239003054
   orgName: Open Doors Sverige
@@ -149736,36 +149702,6 @@ entries:
   - insamlingskontroll
   web: https://www.efk.se/
 
-- entry: 1239004086
-  orgName: Insamlingsstiftelsen RFSL
-  orgNumber: 802477-8196
-  comment: null
-  categories:
-  - donation
-  - insamling
-  - insamlingskontroll
-  - stiftelse
-  web: https://www.insamlingsstiftelsen.se/
-
-- entry: 1239004102
-  orgName: Insamlingsstiftelsen JLOF (Jeremiah Lucas Opira Foundation) Sweden
-  orgNumber: 802477-3643
-  comment: null
-  categories:
-  - donation
-  - godkänd gåvomottagare
-  - insamlingskontroll
-  - stiftelse
-  web: https://www.jlof.net/
-
-- entry: 1239004136
-  orgName: FVBU, Föreningen för Värdefulla Barn och Ungdomar
-  orgNumber: 825000-6197
-  comment: null
-  categories:
-  - insamlingskontroll
-  web: https://www.fvbu.se/
-
 - entry: 1239004144
   orgName: Insamlingsfonden Bissen Brainwalk
   orgNumber: 802487-7824
@@ -149855,15 +149791,6 @@ entries:
   - insamlingskontroll
   - stiftelse
   web: https://www.igf.nu/
-
-- entry: 1239004375
-  orgName: Cancerhjälpen
-  orgNumber: 816000-5958
-  comment: null
-  categories:
-  - insamlingskontroll
-  - välgörenhet
-  web: https://www.cancerhjalpen.se/
 
 - entry: 1239004409
   orgName: Stödföreningen för Martaskolan i Uganda
@@ -150432,15 +150359,6 @@ entries:
   - stiftelse
   web: https://www.stiftelsenchoice.se/
 
-- entry: 1239005703
-  orgName: Stiftelsen the Espersen Foundation
-  orgNumber: 802477-9608
-  comment: null
-  categories:
-  - insamlingskontroll
-  - stiftelse
-  web: https://www.espersenfoundation.se/
-
 - entry: 1239005745
   orgName: Ung Cancer
   orgNumber: 802456-7763
@@ -150461,17 +150379,6 @@ entries:
   - insamlingskontroll
   - stiftelse
   web: https://www.barninod.com/
-
-- entry: 1239005760
-  orgName: Insamlingsstiftelsen Perus Vänner
-  orgNumber: 802477-5267
-  comment: null
-  categories:
-  - donation
-  - godkänd gåvomottagare
-  - insamlingskontroll
-  - stiftelse
-  web: https://www.perusvanner.se/
 
 - entry: 1239005794
   orgName: Asylrättscentrum
@@ -150607,14 +150514,6 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.lakareutangranser.se/
-
-- entry: 1239006057
-  orgName: Föreningsalliansen Gnosjö Hjälper
-  orgNumber: 828000-9948
-  comment: null
-  categories:
-  - insamlingskontroll
-  web: https://www.gnosjohjalper.se/
 
 - entry: 1239006065
   orgName: Riksförbundet Noaks Ark
@@ -150855,16 +150754,6 @@ entries:
   - insamlingskontroll
   web: https://www.barnrattsbyran.se/
 
-- entry: 1239006826
-  orgName: West Pride
-  orgNumber: 802442-0641
-  comment: null
-  categories:
-  - donation
-  - insamlingskontroll
-  - intresseförening
-  web: https://www.westpride.se/
-
 - entry: 1239006842
   orgName: Ingenjörer utan Gränser
   orgNumber: 802416-4280
@@ -150894,14 +150783,6 @@ entries:
   - insamlingskontroll
   - stiftelse
   web: https://zbfoundation.se/
-
-- entry: 1239006891
-  orgName: Föreningen Medveten Konsumtion Sverige
-  orgNumber: 802440-6186
-  comment: null
-  categories:
-  - insamlingskontroll
-  web: https://www.medvetenkonsumtion.se/
 
 - entry: 1239006909
   orgName: Cancerföreningen i Stockholm, Radiumhemmets Forskningsfonder
@@ -151008,16 +150889,6 @@ entries:
   categories:
   - insamlingskontroll
   web: https://www.kompissverige.se/
-
-- entry: 1239007121
-  orgName: Freezonen, Kvinno-,Tjej- och Brottsofferjour
-  orgNumber: 848001-1843
-  comment: null
-  categories:
-  - brottsofferjour
-  - insamlingskontroll
-  - kvinnojour
-  web: https://www.freezonen.se/
 
 - entry: 1239007139
   orgName: Insamlingsstiftelsen Project Playground
@@ -151747,17 +151618,6 @@ entries:
   - insamlingskontroll
   web: https://www.maf.se/
 
-- entry: 1239009010
-  orgName: Stiftelsen Svenska Diabetesförbundets Forskningsfond - Diabetesfonden
-  orgNumber: 802007-6520
-  comment: null
-  categories:
-  - donation
-  - insamlingskontroll
-  - stiftelse
-  - välgörenhet
-  web: https://www.diabetesfonden.se/
-
 - entry: 1239009069
   orgName: Astma- och Allergiförbundet
   orgNumber: 802005-7512
@@ -151794,16 +151654,6 @@ entries:
   - riksförbund
   - riksförening
   web: https://www.denoppnadorren.se/
-
-- entry: 1239009192
-  orgName: Bharat Indien-Bistånd
-  orgNumber: 898800-8341
-  comment: null
-  categories:
-  - bistånd
-  - hjälporganisation
-  - insamlingskontroll
-  web: https://www.bharat-bistand.org/
 
 - entry: 1239009283
   orgName: Insamlingsstiftelsen Erikshjälpen, Farbror Eriks barn- och hjälpverksamhet

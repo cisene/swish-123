@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-11-05-rev-205400
+# Date: 2025-11-05-rev-230117
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -16621,7 +16621,6 @@ entry	orgNumber	orgName	web	categories	comment
 1239000779	857202-7483	Stiftelsen Svenskt Internationellt Hjälparbete, SIRA	https://www.sira.se/	insamlingskontroll	
 1239000811	802425-0642	Konung Carl XVI Gustavs insamlingsstiftelse Ungt Ledarskap	https://www.ungtledarskap.se/	insamlingskontroll	
 1239000837	802431-3044	Action Aid International Sweden	https://www.actionaid.se/	godkänd gåvomottagare,insamlingskontroll	
-1239000845	802424-9305	SAM:s Insamlingsstiftelse	https://www.alliansmissionen-90konto.se/	insamlingskontroll	
 1239000878	802012-8925	Frisk & Fri - Riksföreningen mot ätstörningar	https://www.friskfri.se/	insamlingskontroll	
 1239000902	802007-3436	Synskadades Riksförbund	https://www.srf.nu/	godkänd gåvomottagare,insamlingskontroll,synnedsättning,synskadad,välgörenhet	
 1239000910	814000-8643	Föreningen Hand in Hand Sweden	https://www.handinhandsweden.se/	godkänd gåvomottagare,hjälporganisation,insamlingskontroll	
@@ -16636,7 +16635,6 @@ entry	orgNumber	orgName	web	categories	comment
 1239001181	802435-8619	Föreningen Kampi Ya Moto:s Barn	https://www.kampiyamotosbarn.se/	godkänd gåvomottagare,insamlingskontroll	
 1239001215	802436-5481	Assyrier utan Gränser	https://www.assyrierutangranser.se/	donation,insamlingskontroll	
 1239001223	252002-6135	Trossamfundet Svenska Kyrkan	https://www.svenskakyrkan.se/	godkänd gåvomottagare,insamlingskontroll,välgörenhet	
-1239001249	846000-5294	Rädda Barnens Riksförbund	https://www.raddabarnen.se/medlem-och-volontar/malmo-distrikt/	insamlingskontroll	Distrikt Malmö
 1239001264	826500-5556	Insamlingsstiftelsen Caminul Felix	https://www.caminulfelix.se/	godkänd gåvomottagare,insamlingskontroll	
 1239001298	802011-1442	Civil Rights Defenders	https://www.crd.org/	insamlingskontroll,välgörenhet	
 1239001389	802425-4131	Insamlingsstiftelsen European MS Foundation, EMSF	https://www.msfonden.se/	donation,insamlingskontroll,stiftelse	
@@ -16680,7 +16678,6 @@ entry	orgNumber	orgName	web	categories	comment
 1239002247	802411-6066	Föreningen Kattstallet	https://www.kattstallet.se/	insamlingskontroll	
 1239002262	802004-9683	Svenska Livräddningssällskapet	https://www.svenskalivraddningssallskapet.se/	insamlingskontroll,välgörenhet	
 1239002296	802405-7815	SOS-Barnbyar Sverige	https://www.sos-barnbyar.se/	godkänd gåvomottagare,insamlingskontroll,välgörenhet	
-1239002320	802431-9470	Involvaid	https://www.involvaid.com/	insamlingskontroll,välgörenhet	
 1239002353	802426-5590	Stiftelsen Reach for Change	https://www.reachforchange.org/	insamlingskontroll	
 1239002361	822002-5780	Lions Forskningsfond mot Folksjukdomar	https://www.lionsforskningsfond.se/	insamlingskontroll	
 1239002387	867200-7393	Gambiagrupperna	https://www.gambiagrupperna.org/	godkänd gåvomottagare,insamlingskontroll	
@@ -16707,7 +16704,6 @@ entry	orgNumber	orgName	web	categories	comment
 1239002965	802016-3153	Stiftelsen Fistulasjukhuset	https://www.fistulasjukhuset.org/	insamlingskontroll,stiftelse	
 1239002973	802425-6086	Insamlingsstiftelsen Rotary Hjälper	https://www.rotaryhjalper.se/	donation,hjälporganisation,insamling,insamlingskontroll,rotaryklubb,stiftelse	
 1239002981	875001-9807	Stiftelsen för Medicinsk forskning vid Universitetssjukhuset Örebro - Nyckelfonden	https://www.nyckelfonden.se/	donation,godkänd gåvomottagare,insamlingskontroll,stiftelse	
-1239003013	845000-8399	Skånes Ornitologiska Förening	https://www.skof.se/	insamlingskontroll,ornitologi	
 1239003054	802439-9845	Open Doors Sverige	https://www.open-doors.se/	godkänd gåvomottagare,insamlingskontroll	
 1239003179	802007-9755	Stiftelsen Radiohjälpen	https://www.radiohjalpen.se/	donation,hjälporganisation,insamlingskontroll,stiftelse	Musikhjälpen
 1239003195	802002-7838	Reumatikerförbundet	https://www.reumatiker.se/	förbund,godkänd gåvomottagare,insamlingskontroll,reumatism	
@@ -16743,9 +16739,6 @@ entry	orgNumber	orgName	web	categories	comment
 1239003997	802425-9189	Fibromyalgiförbundets Forskningsstiftelse	https://www.fibromyalgi.se/	donation,fibromyalgi,insamlingskontroll,stiftelse	
 1239004029	802445-3675	Föreningen Skolprojekt Sudan, Anitha Academy	https://www.anithaacademy.org/	godkänd gåvomottagare,insamlingskontroll	
 1239004037	875002-7271	Evangeliska Frikyrkan	https://www.efk.se/	godkänd gåvomottagare,insamlingskontroll	
-1239004086	802477-8196	Insamlingsstiftelsen RFSL	https://www.insamlingsstiftelsen.se/	donation,insamling,insamlingskontroll,stiftelse	
-1239004102	802477-3643	Insamlingsstiftelsen JLOF (Jeremiah Lucas Opira Foundation) Sweden	https://www.jlof.net/	donation,godkänd gåvomottagare,insamlingskontroll,stiftelse	
-1239004136	825000-6197	FVBU, Föreningen för Värdefulla Barn och Ungdomar	https://www.fvbu.se/	insamlingskontroll	
 1239004144	802487-7824	Insamlingsfonden Bissen Brainwalk	https://www.bissenbrainwalk.se/	donation,insamlingskontroll	
 1239004185	802477-8238	Human Bridge Stiftelse	https://www.humanbridge.se/	donation,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet	
 1239004201	802401-2844	Stiftelsen Brödet	https://www.stiftelsenbrodet.se/	donation,insamlingskontroll,stiftelse	
@@ -16755,7 +16748,6 @@ entry	orgNumber	orgName	web	categories	comment
 1239004284	802016-0100	BLLF Sweden	https://www.bllf.se/	insamlingskontroll	
 1239004300	802478-1281	EFI Fadder Insamlingsstiftelse	https://www.efifadder.se/	donation,insamlingskontroll,stiftelse,välgörenhet	
 1239004367	802411-1166	Insamlingsstiftelsen Good Foundation	https://www.igf.nu/	donation,insamlingskontroll,stiftelse	
-1239004375	816000-5958	Cancerhjälpen	https://www.cancerhjalpen.se/	insamlingskontroll,välgörenhet	
 1239004409	802411-0333	Stödföreningen för Martaskolan i Uganda	https://www.martaskolan.com/	förening,insamlingskontroll	
 1239004417	872800-5151	Svenska Hästars Värn	https://www.shv.org/	insamlingskontroll,välgörenhet	
 1239004433	802449-5726	Ro för Livet	https://www.roforlivet.se/	insamlingskontroll	
@@ -16814,10 +16806,8 @@ entry	orgNumber	orgName	web	categories	comment
 1239005638	802000-9232	Svenska FN-förbundet	https://www.fn.se/	förbund,insamlingskontroll	
 1239005653	802006-1126	Sveriges Ornitologiska Förening	https://www.birdlife.se/	fågelskådning,insamlingskontroll,ornitologi	Birdlife Sverige
 1239005661	802426-3306	Insamlingsstiftelsen Choice	https://www.stiftelsenchoice.se/	donation,insamlingskontroll,stiftelse	
-1239005703	802477-9608	Stiftelsen the Espersen Foundation	https://www.espersenfoundation.se/	insamlingskontroll,stiftelse	
 1239005745	802456-7763	Ung Cancer	https://www.ungcancer.se/	cancerforskning,insamlingskontroll	
 1239005752	852000-5995	Barn i Nöd - Insamlingsstiftelsen Svensk Internationell Barnhjälp	https://www.barninod.com/	donation,godkänd gåvomottagare,hjälporganisation,insamlingskontroll,stiftelse	
-1239005760	802477-5267	Insamlingsstiftelsen Perus Vänner	https://www.perusvanner.se/	donation,godkänd gåvomottagare,insamlingskontroll,stiftelse	
 1239005794	802401-8213	Asylrättscentrum	https://www.sweref.org/	insamlingskontroll,juridiska tjänster	
 1239005802	802501-4732	Unite 2 Learn	https://www.unite2learn.org/	donation,insamlingskontroll,välgörenhet	
 1239005810	802480-0172	Insamlingsstiftelsen NRC Flyktinghjälpen Sverige	https://www.nrc.se/	donation,insamlingskontroll,stiftelse	
@@ -16832,7 +16822,6 @@ entry	orgNumber	orgName	web	categories	comment
 1239005992	863500-7340	Stiftelsen Dispurse	https://www.dispurse.org/	donation,insamlingskontroll,stiftelse	
 1239006016	802002-6806	Riksförbundet Svensk Trädgård	https://www.tradgard.org/	förbund,insamlingskontroll	
 1239006032	802017-2360	Läkare utan Gränser	https://www.lakareutangranser.se/	donation,godkänd gåvomottagare,insamlingskontroll	
-1239006057	828000-9948	Föreningsalliansen Gnosjö Hjälper	https://www.gnosjohjalper.se/	insamlingskontroll	
 1239006065	802452-1786	Riksförbundet Noaks Ark	https://www.noaksark.org/	förbund,insamlingskontroll	
 1239006073	802409-7639	Stödföreningen för Barbro Johanssons fond för utbildning av flickor i Tanzania, JOHAfonden	https://www.johafonden.com/	insamlingskontroll	
 1239006081	857209-1422	Prostatacancerförbundet	https://www.prostatacancerforbundet.se/	godkänd gåvomottagare,insamlingskontroll	
@@ -16858,11 +16847,9 @@ entry	orgNumber	orgName	web	categories	comment
 1239006784	802481-2359	Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-Örebro	https://www.lcfm.se/	donation,godkänd gåvomottagare,insamlingskontroll,stiftelse	
 1239006792	802465-2169	Föreningen Storasyster	https://www.storasyster.org/	godkänd gåvomottagare,insamlingskontroll,kvinnojour,välgörenhet	
 1239006800	802490-6771	Barnrättsbyrån Sverige	https://www.barnrattsbyran.se/	insamlingskontroll	
-1239006826	802442-0641	West Pride	https://www.westpride.se/	donation,insamlingskontroll,intresseförening	
 1239006842	802416-4280	Ingenjörer utan Gränser	https://sv.ewb-swe.org/	donation,godkänd gåvomottagare,insamlingskontroll	
 1239006859	802437-8310	Wikimedia Sverige	https://www.wikimedia.se/	donation,insamlingskontroll	
 1239006883	802477-8832	Insamlingsstiftelsen Zelmerlöw & Björkman Foundation	https://zbfoundation.se/	donation,hjälporganisation,insamlingskontroll,stiftelse	
-1239006891	802440-6186	Föreningen Medveten Konsumtion Sverige	https://www.medvetenkonsumtion.se/	insamlingskontroll	
 1239006909	815200-2583	Cancerföreningen i Stockholm, Radiumhemmets Forskningsfonder	https://www.rahfo.se/	forskning,godkänd gåvomottagare,insamlingskontroll	
 1239006933	857206-6812	Reningsborg	https://www.reningsborg.se/	godkänd gåvomottagare,insamling,insamlingskontroll	
 1239006958	802013-5953	Stiftelsen Läkare mot AIDs Forskningsfond	https://www.aidsfond.se/	donation,forskning,insamlingskontroll,stiftelse	
@@ -16874,7 +16861,6 @@ entry	orgNumber	orgName	web	categories	comment
 1239007063	845000-0768	IM Individuell Människohjälp/Swedish Development Partner	https://www.imsweden.org/	godkänd gåvomottagare,hjälporganisation,insamlingskontroll,välgörenhet	
 1239007071	822003-7827	Barncancerfonden Östra	https://www.barncancerfonden.se/ostra	insamlingskontroll	
 1239007113	802473-9701	Kompis Sverige	https://www.kompissverige.se/	insamlingskontroll	
-1239007121	848001-1843	Freezonen, Kvinno-,Tjej- och Brottsofferjour	https://www.freezonen.se/	brottsofferjour,insamlingskontroll,kvinnojour	
 1239007139	802461-3092	Insamlingsstiftelsen Project Playground	https://www.project-playground.org/	donation,insamlingskontroll,stiftelse	
 1239007204	822001-9072	Stiftelsen Barndiabetesfonden	https://www.barndiabetesfonden.se/	donation,insamlingskontroll,stiftelse	
 1239007212	802539-4035	ADRA Sverige, Adventist Development and Relief Agency	https://www.adra.se/	insamlingskontroll,religion	
@@ -16950,12 +16936,10 @@ entry	orgNumber	orgName	web	categories	comment
 1239008806	802005-0947	Stiftelsen Konung Gustaf V:s Jubileumsfond, Radiumhemmets Forskningsfonder	https://www.rahfo.se/	donation,godkänd gåvomottagare,insamlingskontroll,stiftelse	
 1239008897	802426-3744	Stiftelsen Station Linné	https://www.stationlinne.se/	donation,insamlingskontroll,stiftelse	
 1239008913	822001-7506	MAF-Sweden	https://www.maf.se/	godkänd gåvomottagare,insamlingskontroll	
-1239009010	802007-6520	Stiftelsen Svenska Diabetesförbundets Forskningsfond - Diabetesfonden	https://www.diabetesfonden.se/	donation,insamlingskontroll,stiftelse,välgörenhet	
 1239009069	802005-7512	Astma- och Allergiförbundet	https://www.astmaoallergiforbundet.se/	förbund,godkänd gåvomottagare,insamlingskontroll	
 1239009085	802002-7762	Goda Nyheter - för livet	https://www.godanyheter.org/	insamlingskontroll,välgörenhet	
 1239009127	802003-3083	Svalorna Latinamerika	https://www.svalorna.se/	insamlingskontroll	
 1239009150	802005-8619	Riksföreningen Den Öppna Dörren	https://www.denoppnadorren.se/	insamlingskontroll,riksförbund,riksförening	
-1239009192	898800-8341	Bharat Indien-Bistånd	https://www.bharat-bistand.org/	bistånd,hjälporganisation,insamlingskontroll	
 1239009283	827500-4789	Insamlingsstiftelsen Erikshjälpen, Farbror Eriks barn- och hjälpverksamhet	https://www.erikshjalpen.se/	donation,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet	
 1239009325	802005-7512	Astma- och Allergiförbundet	https://www.astmaoallergiforbundet.se/	godkänd gåvomottagare,insamlingskontroll	Blomsterfonden
 1239009697	802005-7926	Riksföreningen Aktiva Synskadade	https://www.aktivasynskadade.org/	funktionsnedsättning,insamlingskontroll,synnedsättning,synskadad	
