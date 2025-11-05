@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-04-rev-211613
+Revision: 2025-11-05-rev-205422
 
-Nummer: 17018
+Nummer: 17034
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -117,6 +117,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **#CanWeTalkAboutIt / Strålsäkerhetsföreningen**
 
     123 251 23 74
+
+
+
+
+**#INTEDINHORA**
+
+    123 066 42 68
 
 
 
@@ -10049,6 +10056,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Broholmsskolans Föräldraförening**
+
+    123 115 97 63
+
+
+
+
 **Brokinds IF**
 
     123 653 57 44
@@ -10419,6 +10433,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Brynäs Idrottsförening**
 
     123 216 61 97
+
+
+
+
+**Brynäs IF**
+
+    123 350 06 75 - Fansens värvning
 
 
 
@@ -11644,7 +11665,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Cancerföreningen i Stockholm, Radiumhemmets forskningsfonder**
+**Cancerföreningen i Stockholm, Radiumhemmets Forskningsfonder**
 
     123 900 69 09
 
@@ -19780,7 +19801,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Fibromyalgiförbundets forskningsstiftelse**
+**Fibromyalgiförbundets Forskningsstiftelse**
 
     123 900 39 97
 
@@ -24364,7 +24385,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Föreningen Nennngesund**
+**Föreningen Nenningesund**
 
     123 641 93 94
 
@@ -25818,6 +25839,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Getskärs Segelsällskap**
 
     123 647 91 09
+
+
+
+
+**GetSwish AB**
+
+    123 627 38 09 - Test Företagsappen
 
 
 
@@ -37563,6 +37591,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Insamlingsstiftelsen Lena Marias Vänner**
+
+    123 085 52 70
+
+
+
+
 **Insamlingsstiftelsen Life After Racing**
 
     123 115 59 85
@@ -39112,6 +39147,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Judiska Församlingen Stockholm**
 
     123 001 85 49
+
+
+
+
+**Judiska Kvinnoklubben**
+
+    123 561 10 09
 
 
 
@@ -48308,6 +48350,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Linköpings Fria Musikklasser**
+
+    123 507 32 91
+
+
+
+
 **Linköpings Fältrittklubb**
 
     123 511 66 60
@@ -52815,7 +52864,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Melissafonden insamlingsstiftelse**
+**Melissafonden Insamlingsstiftelse**
 
     123 901 98 11
 
@@ -54620,6 +54669,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Musikföreningen Lilith Eve**
 
     123 270 90 79
+
+
+
+
+**Musikskolan Lilla Akademien AB**
+
+    123 279 05 33
 
 
 
@@ -57232,6 +57288,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Norrlands Kundaliniyoga Center / Maja Tellegård**
 
     123 005 36 60
+
+
+
+
+**Norrlands Nation i Uppsala**
+
+    123 313 64 54
 
 
 
@@ -64068,6 +64131,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Radiumhemmets Forskningsfond**
+
+    123 900 79 80
+
+
+
+
 **Raftötångens Samfällighetsförening**
 
     123 487 97 97
@@ -67385,6 +67455,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rottne Scoutkår**
 
     123 441 30 35
+
+
+
+
+**Royal Eskilstuna**
+
+    123 552 95 65 - Rio
 
 
 
@@ -77148,7 +77225,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Stiftelsen Akademiska Sjukhusets utvecklingsfond**
+**Stiftelsen Akademiska Sjukhusets Utvecklingsfond**
 
     123 900 29 24
 
@@ -77339,6 +77416,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen Djurhemmet i Helsingborg**
 
     123 419 70 26 - Djurhemmet Tassebo
+
+
+
+
+**Stiftelsen Djursholms Kapell**
+
+    123 186 59 71
 
 
 
@@ -77672,7 +77756,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Stiftelsen Jubileumsklinikens forskningsfond mot cancer**
+**Stiftelsen Jubileumsklinikens Forskningsfond mot cancer**
 
     123 900 97 96
 
@@ -77794,6 +77878,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stiftelsen Mannaminne**
 
     123 651 27 92
+
+
+
+
+**Stiftelsen Maria Röhls Minne**
+
+    123 093 19 98
 
 
 
@@ -84029,6 +84120,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Swedish Talent Award for Rally, STAR**
+
+    123 041 10 74
+
+
+
+
 **Swerock AB**
 
     123 640 83 22
@@ -84264,6 +84362,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Syrisk Ortodoxa Kyrkan i Sverige**
 
     123 426 22 18
+
+
+
+
+**Syrisk Ortodoxa Kyrkan i Tensta**
+
+    123 208 68 74
 
 
 
@@ -92140,6 +92245,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ung Pirat**
+
+    123 595 90 02
+
+
+
+
 **Unga Klaras Vänner**
 
     123 330 61 72
@@ -92230,7 +92342,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 900 03 99
 
-    123 902 00 17
+    123 902 00 17 - Katastrofer
 
     123 902 50 16
 
