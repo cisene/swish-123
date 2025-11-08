@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-05-rev-230137
+Revision: 2025-11-08-rev-163500
 
-Nummer: 17018
+Nummer: 17022
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -31050,6 +31050,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hemlösa katter i Sölvesborg**
+
+    123 228 81 65
+
+
+
+
 **Hemlösa Katter Kalmar**
 
     123 176 62 11
@@ -37124,6 +37131,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Insamlingsstiftelsen Anderssons Innovation**
+
+    123 273 19 58
+
+
+
+
 **Insamlingsstiftelsen Ankaret**
 
     123 901 40 10
@@ -41780,6 +41794,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kids Future**
 
     123 900 05 14
+
+
+
+
+**Kids of Uganda**
+
+    123 326 81 90
 
 
 
@@ -82891,6 +82912,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Röda Korset**
 
     123 156 88 80 - Degerforskretsen
+
+
+
+
+**Svenska Röda Korset**
+
+    123 298 00 50 - Hallsbergskretsen
 
 
 

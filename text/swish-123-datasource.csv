@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-11-05-rev-230108
+# Date: 2025-11-08-rev-163431
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -5592,6 +5592,7 @@
 "1232287688","252003-4956","Södermöre Pastorat","https://sodermore.se/","religion","Kollekt Arby-Hagby"
 "1232288009","802437-2263","Visby BBK - Basket","https://www.visbybbk.se/","basketbollklubb,idrottsförening",""
 "1232288017","252000-0908","Nacka Församling","https://www.svenskakyrkan.se/nacka","religion","Guds Hus"
+"1232288165","802436-6349","Hemlösa katter i Sölvesborg","https://kks.nu/","djurskydd,katthem",""
 "1232288207","252001-4297","Vallda Kyrka","https://www.svenskakyrkan.se/saro/vallda-kyrka","religion","Kollekt"
 "1232288280","826001-3019","Jönköpings Adventkyrka","https://jonkoping.adventkyrka.se/","religion",""
 "1232288306","556621-3475","Täby Ryttarcenter / Ryttarcenter i TÄBY AB","https://www.tabyryttarcenter.se/","hästsport,ridskola",""
@@ -6616,6 +6617,7 @@
 "1232725547","252002-7133","Åker-Länna Församling","https://www.svenskakyrkan.se/aker-lanna","religion",""
 "1232729069","833200-3725","Rumskulla Hembygdsförening","https://www.rumskulla.se/","hembygdsförening",""
 "1232730711","559367-3907","Din Trafikskola Partille AB","https://dintrafikskolapartille.se/","trafikskola,utbildning",""
+"1232731958","802482-5567","Insamlingsstiftelsen Anderssons Innovation","https://www.anderssonmpn.org/","innovation,stiftelse",""
 "1232736619","802521-9489","Extinction Rebellion (XR) / Föreningen för Hållbar Framtid","https://extinctionrebellion.se/","donation,intresseförening",""
 "1232736924","252005-0283","Tollarps Församling","https://www.svenskakyrkan.se/tollarp","religion","Ljuständning på grav"
 "1232738854","894000-0691","KFUM Umeå","https://umea.kfum.se/","basketbollklubb,idrottsförening","Basket"
@@ -7182,6 +7184,7 @@
 "1232979110","802526-5110","Beroendevårdens Framtid","https://www.beroendevardensframtid.se/","beroendeproblematik",""
 "1232979789","802527-0771","Näsby Sportryttare","https://www.svenskalag.se/nasby-sportryttare","hästsport,ridsport,ryttarförening",""
 "1232980035","814000-0798","Saltsjöbadens Båtklubb","https://saltsjobadensbatklubb.se/","båtklubb,båtsällskap",""
+"1232980050","875700-8795","Svenska Röda Korset","https://www.rodakorset.se/ort/orebro/hallsbergs-kommun/","hjälporganisation,rödakorset","Hallsbergskretsen"
 "1232980191","559054-5553","Formenca AB","","pilates",""
 "1232980340","813200-2174","Kungsängens Sportfiskeklubb","https://ksfk.nu/","fiskeklubb,sportfiskeklubb",""
 "1232980423","802538-7476","Bergslagsmuseum Pershyttan","https://www.njov.se/","kulturförening,museum",""
@@ -7870,6 +7873,7 @@
 "1233266624","556412-9053","Stefan Sauk / Aktiebolaget Zenskräck","https://www.sauk.se/","artist,skådespel",""
 "1233266673","872400-0271","Filipstads SF","https://www.svenskalag.se/filipstadssf","idrottsförening,skidlöparklubb",""
 "1233266756","802468-3149","Svenska Newfoundlandshundklubben","https://snkinfo.wordpress.com/","hundklubb,hundsport","Södra"
+"1233268190","802465-2987","Kids of Uganda","https://kidsofuganda.com/","välgörenhet",""
 "1233268257","556911-0322","Finspångs Solvärme AB","https://www.finspangssolvarme.se/","solceller,solfångare,solpaneler",""
 "1233268299","898800-9836","Piteå KK","https://www.svenskalag.se/piteakk","idrottsförening,konståkningsklubb",""
 "1233268828","252002-9337","Morlanda Församling","https://www.svenskakyrkan.se/orust/morlanda-forsamling","religion",""
@@ -15789,7 +15793,7 @@
 "1236682702","898500-8948","Vaikijaur Bygdegårdsförening","https://bygdegardarna.se/vaikijaurgarden/","bygdegårdsförening",""
 "1236682801","650802-XXXX","Vita Raeda / Iris Krüger","https://www.vitaraeda.com/","healing,massage,reiki,yoga",""
 "1236682900","802419-0236","Vaken.se / Exoteriska Fonden","https://exoteriska.se/","donantionsfond,förening",""
-"1236683445","817602-9117","Gamla Upsala Hembygdsförening","https://www.hembygd.se/gamla-upsala","förening,hembygdsförening",""
+"1236683445","817602-9117","Gamla Upsala Hembygdsförening","https://www.hembygd.se/gamla-upsala","hembygdsförening",""
 "1236683619","875000-0070","Adolfsbergs Baptistförsamling","https://www.korskyrkanorebro.se/","religion",""
 "1236683726","864501-6562","Föreningen för Olympisk Kortdistansskjutning FOK Borås","https://www.fokboras.se/","pistolskytteklubb,skytteklubb","Ammo"
 "1236684070","802533-7653","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Jönköping, Sörgårdsskolan"
@@ -16985,7 +16989,7 @@
 "1239013038","802002-4280","Svenska Naturskyddsföreningen","https://www.naturskyddsforeningen.se/","insamlingskontroll","Klimatarbete"
 "1239013202","837000-7240","Stiftelsen Team Mission","https://www.teammission.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse",""
 "1239014010","875002-7800","Insamlingsstiftelsen Ankaret","https://www.ankarstiftelsen.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet",""
-"1239014077","885001-7404","Cancerföreningen Gävleborg","https://www.cancerforeningen.se/","förening,insamlingskontroll",""
+"1239014077","885001-7404","Cancerföreningen Gävleborg","https://www.cancerforeningen.se/","insamlingskontroll",""
 "1239015041","802013-3420","BRIS - Barnens Rätt i Samhället","https://www.bris.se/","insamlingskontroll,riksförbund",""
 "1239015504","802013-1671","Föreningen för den Beridna Högvakten","https://www.beridnahogvakten.se/","insamlingskontroll",""
 "1239016031","252002-6135","Trossamfundet Svenska Kyrkan","https://www.svenskakyrkan.se/","godkänd gåvomottagare,insamlingskontroll,religion",""

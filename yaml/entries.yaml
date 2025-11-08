@@ -50546,7 +50546,7 @@ entries:
 
 - entry: 1232288165
   orgName: Hemlösa katter i Sölvesborg
-  orgNumber: null
+  orgNumber: 802436-6349
   comment: null
   categories:
   - djurskydd
@@ -59822,6 +59822,15 @@ entries:
   - utbildning
   web: https://dintrafikskolapartille.se/
 
+- entry: 1232731958
+  orgName: Insamlingsstiftelsen Anderssons Innovation
+  orgNumber: 802482-5567
+  comment: null
+  categories:
+  - innovation
+  - stiftelse
+  web: https://www.anderssonmpn.org/
+
 - entry: 1232736619
   orgName: Extinction Rebellion (XR) / Föreningen för Hållbar Framtid
   orgNumber: 802521-9489
@@ -65021,6 +65030,15 @@ entries:
   - båtklubb
   - båtsällskap
   web: https://saltsjobadensbatklubb.se/
+
+- entry: 1232980050
+  orgName: Svenska Röda Korset
+  orgNumber: 875700-8795
+  comment: Hallsbergskretsen
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/orebro/hallsbergs-kommun/
 
 - entry: 1232980191
   orgName: Formenca AB
@@ -71286,6 +71304,14 @@ entries:
   - hundklubb
   - hundsport
   web: https://snkinfo.wordpress.com/
+
+- entry: 1233268190
+  orgName: Kids of Uganda
+  orgNumber: 802465-2987
+  comment: null
+  categories:
+  - välgörenhet
+  web: https://kidsofuganda.com/
 
 - entry: 1233268257
   orgName: Finspångs Solvärme AB
@@ -143236,7 +143262,6 @@ entries:
   orgNumber: 817602-9117
   comment: null
   categories:
-  - förening
   - hembygdsförening
   web: https://www.hembygd.se/gamla-upsala
 
@@ -150552,10 +150577,10 @@ entries:
 - entry: 1239000142
   orgName: Stiftelsen Barnforskningen vid Astrid Lindgrens Barnsjukhus
   orgNumber: 802402-1894
-  comment: Terminated 2023-01-31
+  comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.barnforskningen.se/
 
 - entry: 1239000159
@@ -150737,7 +150762,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239000464
@@ -150983,7 +151008,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239000761
@@ -151008,7 +151033,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239000795
@@ -152316,7 +152341,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.swedenmutomo.com/
 
 - entry: 1239002460
@@ -152362,7 +152387,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002536
@@ -152599,7 +152624,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002817
@@ -152626,7 +152651,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.givewatts.org/
 
 - entry: 1239002858
@@ -152775,7 +152800,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003013
@@ -152812,7 +152837,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003054
@@ -153049,7 +153074,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003336
@@ -153226,7 +153251,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003567
@@ -153469,8 +153494,8 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - retired
   - stiftelse
-  - terminated
   web: https://www.rfsu.se/
 
 - entry: 1239003922
@@ -153498,7 +153523,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003948
@@ -153572,8 +153597,8 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - retired
   - stiftelse
-  - terminated
   - välgörenhet
   web: https://www.stiftelsengatubarn.se/
 
@@ -153662,8 +153687,8 @@ entries:
   categories:
   - donation
   - insamlingskontroll
+  - retired
   - stiftelse
-  - terminated
   web: https://www.stiftelsengatubarn.se/
 
 - entry: 1239004136
@@ -154006,7 +154031,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.ftms.se/
 
 - entry: 1239004607
@@ -154077,7 +154102,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239004680
@@ -154137,7 +154162,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239004748
@@ -154176,7 +154201,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.muslimaid.se/
 
 - entry: 1239004789
@@ -154255,16 +154280,16 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239004854
   orgName: White Ribbon Alliance for Safe Motherhood Sweden
   orgNumber: 802447-9415
-  comment: Terminated 3 juni, 2021
+  comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.wrasweden.se/
 
 - entry: 1239004862
@@ -154384,7 +154409,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.maj-lis.org/
 
 - entry: 1239005000
@@ -154491,7 +154516,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.stiftelsenhjartat.se/
 
 - entry: 1239005133
@@ -154528,7 +154553,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239005182
@@ -154555,7 +154580,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239005216
@@ -154641,7 +154666,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.nrhtrauma.se/
 
 - entry: 1239005331
@@ -154668,7 +154693,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239005364
@@ -154706,7 +154731,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239005422
@@ -154753,8 +154778,8 @@ entries:
   categories:
   - forskning
   - insamlingskontroll
+  - retired
   - stiftelse
-  - terminated
   web: https://www.bernadottestiftelsen.se/
 
 - entry: 1239005489
@@ -154763,7 +154788,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239005497
@@ -154772,7 +154797,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239005505
@@ -154804,7 +154829,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239005547
@@ -154854,15 +154879,6 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.efk.se/
-
-- entry: 1239005596
-  orgName: Sjundedags Adventistsamfundet
-  orgNumber: null
-  comment: null
-  categories:
-  - insamlingskontroll
-  - terminated
-  web: null
 
 - entry: 1239005604
   orgName: Stiftelsen Sällsyntafonden
@@ -154929,8 +154945,8 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
+  - retired
   - stiftelse
-  - terminated
   web: https://www.espersenfoundation.se/
 
 - entry: 1239005729
@@ -155060,7 +155076,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239005877
@@ -155164,7 +155180,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239006032
@@ -155248,7 +155264,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239006149
@@ -155267,7 +155283,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239006172
@@ -155385,7 +155401,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.raddaregnskog.se/
 
 - entry: 1239006313
@@ -155394,7 +155410,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239006321
@@ -155443,7 +155459,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.fyrbaksexpressen.se/
 
 - entry: 1239006396
@@ -155473,6 +155489,15 @@ entries:
   categories:
   - insamlingskontroll
   - terminated
+  web: null
+
+- entry: 1239006420
+  orgName: Insamlingsstiftelsen Bräcke diakoni
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  - retired
   web: null
 
 - entry: 1239006438
@@ -155636,7 +155661,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239006669
@@ -155741,7 +155766,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239006768
@@ -155859,7 +155884,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.dogoodnowglobal.com/
 
 - entry: 1239006883
@@ -156123,7 +156148,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.kungsljuset.nu/
 
 - entry: 1239007170
@@ -156132,7 +156157,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239007188
@@ -156141,7 +156166,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239007196
@@ -156321,7 +156346,7 @@ entries:
   categories:
   - donation
   - insamlingskontroll
-  - overifierad
+  - retired
   - stiftelse
   web: https://www.shifo.org/
 
@@ -156415,8 +156440,8 @@ entries:
   categories:
   - donation
   - insamlingskontroll
+  - retired
   - stiftelse
-  - terminated
   web: https://www.stiftelseninventum.se/
 
 - entry: 1239007543
@@ -156485,7 +156510,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239007634
@@ -156514,8 +156539,8 @@ entries:
   categories:
   - donation
   - insamlingskontroll
+  - retired
   - stiftelse
-  - terminated
   web: https://www.amalgamskadefonden.se/
 
 - entry: 1239007667
@@ -156546,7 +156571,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.100trappsteg.se/
 
 - entry: 1239007725
@@ -156857,12 +156882,12 @@ entries:
   web: https://www.stiftelsenisb.se/
 
 - entry: 1239008111
-  orgName: Svenska Djurskyddsföreningen
+  orgName: Sjundedags Adventistsamfundet
   orgNumber: null
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239008137
@@ -157346,7 +157371,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239009473
@@ -157520,7 +157545,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239010455
@@ -157704,7 +157729,7 @@ entries:
   categories:
   - idrottsförbund
   - insamlingskontroll
-  - terminated
+  - retired
   web: https://www.skolidrott.se/
 
 - entry: 1239011297
@@ -157997,11 +158022,11 @@ entries:
 
 - entry: 1239014071
   orgName: Cancerföreningen Gävleborg
-  orgNumber: null
+  orgNumber: 885001-7404
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239014077
@@ -158009,7 +158034,6 @@ entries:
   orgNumber: 885001-7404
   comment: null
   categories:
-  - förening
   - insamlingskontroll
   web: https://www.cancerforeningen.se/
 

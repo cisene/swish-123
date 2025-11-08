@@ -49805,6 +49805,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/nacka
 
+- entry: 1232288165
+  orgName: Hemlösa katter i Sölvesborg
+  orgNumber: 802436-6349
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://kks.nu/
+
 - entry: 1232288207
   orgName: Vallda Kyrka
   orgNumber: 252001-4297
@@ -58951,6 +58960,15 @@ entries:
   - utbildning
   web: https://dintrafikskolapartille.se/
 
+- entry: 1232731958
+  orgName: Insamlingsstiftelsen Anderssons Innovation
+  orgNumber: 802482-5567
+  comment: null
+  categories:
+  - innovation
+  - stiftelse
+  web: https://www.anderssonmpn.org/
+
 - entry: 1232736619
   orgName: Extinction Rebellion (XR) / Föreningen för Hållbar Framtid
   orgNumber: 802521-9489
@@ -64054,6 +64072,15 @@ entries:
   - båtklubb
   - båtsällskap
   web: https://saltsjobadensbatklubb.se/
+
+- entry: 1232980050
+  orgName: Svenska Röda Korset
+  orgNumber: 875700-8795
+  comment: Hallsbergskretsen
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/orebro/hallsbergs-kommun/
 
 - entry: 1232980191
   orgName: Formenca AB
@@ -70195,6 +70222,14 @@ entries:
   - hundklubb
   - hundsport
   web: https://snkinfo.wordpress.com/
+
+- entry: 1233268190
+  orgName: Kids of Uganda
+  orgNumber: 802465-2987
+  comment: null
+  categories:
+  - välgörenhet
+  web: https://kidsofuganda.com/
 
 - entry: 1233268257
   orgName: Finspångs Solvärme AB
@@ -141147,7 +141182,6 @@ entries:
   orgNumber: 817602-9117
   comment: null
   categories:
-  - förening
   - hembygdsförening
   web: https://www.hembygd.se/gamla-upsala
 
@@ -152118,7 +152152,6 @@ entries:
   orgNumber: 885001-7404
   comment: null
   categories:
-  - förening
   - insamlingskontroll
   web: https://www.cancerforeningen.se/
 
