@@ -150663,7 +150663,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239000290
@@ -150708,7 +150708,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239000399
@@ -150852,7 +150852,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239000563
@@ -151504,7 +151504,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239001462
@@ -151671,6 +151671,7 @@ entries:
   orgNumber: null
   comment: null
   categories:
+  - insamlingskontroll
   - retired
   web: null
 
@@ -151746,7 +151747,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239001744
@@ -151806,7 +151807,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239001819
@@ -151856,7 +151857,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239001868
@@ -151980,7 +151981,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239001991
@@ -151989,7 +151990,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002007
@@ -152007,7 +152008,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002023
@@ -152035,7 +152036,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002056
@@ -152158,7 +152159,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002205
@@ -152306,6 +152307,15 @@ entries:
   - terminated
   web: null
 
+- entry: 1239002411
+  orgName: Insamlingsstiftelsen Polstjärna
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  - retired
+  web: null
+
 - entry: 1239002429
   orgName: Stiftelsen Amref Nordic
   orgNumber: 802009-6627
@@ -152331,7 +152341,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002452
@@ -152452,7 +152462,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002619
@@ -152489,7 +152499,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002668
@@ -152717,7 +152727,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002924
@@ -152758,7 +152768,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239002965
@@ -152819,7 +152829,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003039
@@ -152909,7 +152919,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003146
@@ -152927,7 +152937,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003161
@@ -152967,7 +152977,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003211
@@ -152986,7 +152996,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003237
@@ -153039,7 +153049,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003286
@@ -153057,7 +153067,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003302
@@ -153141,7 +153151,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003401
@@ -153370,7 +153380,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003708
@@ -153542,7 +153552,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003965
@@ -153551,7 +153561,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239003971
@@ -153864,7 +153874,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239004367
@@ -153893,7 +153903,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239004391
@@ -154081,7 +154091,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239004656
@@ -154639,7 +154649,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239005307
@@ -154702,7 +154712,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239005372
@@ -155515,7 +155525,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239006453
@@ -156271,7 +156281,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239007311
@@ -156356,7 +156366,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239007436
@@ -156588,7 +156598,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239007741
@@ -157536,7 +157546,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239010364
@@ -157878,7 +157888,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239012204
@@ -158017,7 +158027,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239014071
@@ -158061,7 +158071,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239015306
@@ -158117,8 +158127,8 @@ entries:
   - donation
   - godkänd gåvomottagare
   - insamlingskontroll
+  - retired
   - stiftelse
-  - terminated
   - välgörenhet
   web: https://www.lp-verksamheten.se/
 
@@ -158159,7 +158169,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239018003
@@ -158261,7 +158271,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239019308
@@ -158352,7 +158362,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - terminated
+  - retired
   web: null
 
 - entry: 1239019795
