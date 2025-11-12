@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-12-rev-220710
+Revision: 2025-11-12-rev-230515
 
-Nummer: 17022
+Nummer: 17032
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -23607,6 +23607,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Folkmusikhuset i Stockholm**
+
+    123 307 37 49
+
+
+
+
 **Föreningen Folkrörelsearkiv för Uppsala Län**
 
     123 483 69 20
@@ -32825,6 +32832,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hundlekplats Gotland**
+
+    123 696 73 19
+
+
+
+
 **Hundomplaceringsverksamheten**
 
     123 588 32 69
@@ -39391,6 +39405,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Jämtlands Gille Ordenssällskapet**
 
     123 265 63 04
+
+
+
+
+**Jämtlands-Härjedalens Gille i Uppsala**
+
+    123 094 13 02
 
 
 
@@ -46789,6 +46810,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 515 41 41 - Senior
 
     123 587 00 27 - Ungdom
+
+
+
+
+**Laurentii Gille i Eksjö**
+
+    123 039 21 91
 
 
 
@@ -74630,6 +74658,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Spelberoendegruppen**
+
+    123 363 67 92
+
+
+
+
 **Spelberoendes Förening Göteborg**
 
     123 496 63 39
@@ -78988,6 +79023,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stora Tolvsbo Jaktskytteklubb**
 
     123 029 91 31
+
+
+
+
+**Stora Tuna Folkdansgille**
+
+    123 145 07 33
 
 
 
@@ -83504,6 +83546,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sverigedemokraterna Kalmar**
+
+    123 677 52 08
+
+
+
+
 **Sverigeide**
 
     123 008 65 79
@@ -83521,6 +83570,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sveriges Allmänna Konstförening**
 
     123 266 77 64
+
+
+
+
+**Sveriges Bartenders Gille, SBG**
+
+    123 228 30 59
 
 
 
@@ -93981,6 +94037,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Veberöds Kulturförening**
+
+    123 552 36 42
+
+
+
+
 **Veberöds Scoutkår**
 
     123 174 54 70
@@ -100559,6 +100622,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Åmbergs Allaktivitetshus**
 
     123 580 14 93
+
+
+
+
+**Åminne Gille Samhällsförening**
+
+    123 042 98 78
 
 
 
