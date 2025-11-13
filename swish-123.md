@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-12-rev-230515
+Revision: 2025-11-13-rev-201258
 
-Nummer: 17032
+Nummer: 17056
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -6391,6 +6391,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Blekinge Fornminnesförening**
 
     123 220 90 21
+
+
+
+
+**Blekinge Gille i Stockholm**
+
+    123 286 49 99
 
 
 
@@ -17460,6 +17467,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Equmenia Nävlinge**
+
+    123 271 12 99 - Träffpunkt Nävlinge
+
+    123 480 41 18
+
+
+
+
 **Equmenia på Smögen**
 
     123 240 81 44
@@ -17848,6 +17864,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Equmeniakyrkan Nossebro**
 
     123 470 26 84
+
+
+
+
+**Equmeniakyrkan Nävlinge-Rickarum**
+
+    123 096 14 66
 
 
 
@@ -22428,6 +22451,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Frötuna Församling**
 
     123 133 57 85
+
+
+
+
+**Frötuna Hembygdsförening S:t Olof Gille**
+
+    123 335 28 53
 
 
 
@@ -47798,6 +47828,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 529 64 88
 
+    123 900 82 02
+
 
 
 
@@ -55935,6 +55967,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**NHR Karlstad**
+
+    123 534 50 95
+
+
+
+
 **Nianette, Hela Din Kropp och Själ / Anette Sanding**
 
     123 157 27 34
@@ -56052,6 +56091,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nippon & Frezon Catering AB**
 
     123 264 89 39
+
+
+
+
+**Nipstadens Skoterklubb**
+
+    123 624 20 77
 
 
 
@@ -58531,6 +58577,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nävertjäls Bygdegårdsförening**
 
     123 339 83 02
+
+
+
+
+**Nävlinge Missionskyrkas Byggnadsförening**
+
+    123 114 89 98
 
 
 
@@ -65229,6 +65282,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rickarums Missionskyrkas Byggnadsförening**
+
+    123 570 36 24
+
+
+
+
 **Rid och Musik Föreningen Lindebolarna**
 
     123 596 41 84
@@ -66686,6 +66746,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Enköping**
+
+    123 262 42 03
+
+
+
+
+**Rotary Enköping Vårfru**
+
+    123 550 39 17
+
+
+
+
 **Rotary Eskilstuna Rekarne**
 
     123 578 33 86
@@ -66710,6 +66784,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Falsterbo-Skytts**
 
     123 610 82 86
+
+
+
+
+**Rotary Falsterbo-Vellinge**
+
+    123 520 10 41
 
 
 
@@ -66781,6 +66862,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Rotary Helsingborg Kärnan**
 
+    123 067 30 38
+
     123 377 22 25
 
 
@@ -66824,6 +66907,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary International District 2395**
 
     123 067 77 40
+
+
+
+
+**Rotary International Distrikt 2355**
+
+    123 536 56 55
+
+
+
+
+**Rotary Järfälla-Kvarnen**
+
+    123 393 29 69
 
 
 
@@ -67041,6 +67138,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Norrtälje**
+
+    123 117 73 10
+
+
+
+
 **Rotary Nybro Glasriket**
 
     123 033 79 07
@@ -67129,6 +67233,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Rotary Stockholm-Humlegården**
+
+    123 558 69 20
+
+
+
+
 **Rotary Stockholm Strand**
 
     123 049 90 20
@@ -67197,6 +67308,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Trosa**
 
     123 176 67 16
+
+
+
+
+**Rotary Täby**
+
+    123 501 43 86
 
 
 
@@ -67334,6 +67452,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Ystad**
 
     123 526 89 74
+
+
+
+
+**Rotary Ystad S:t Petri**
+
+    123 552 13 23
 
 
 
@@ -71676,6 +71801,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skaraborgs Godman och Förvaltarförening**
 
     123 442 57 08
+
+
+
+
+**Skaraborgs Läns Hästavelförening**
+
+    123 348 16 29
 
 
 
@@ -80414,7 +80546,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Sunne Pastorat**
 
-    123 420 40 61
+    123 420 40 61 - Blomsterfonden
 
 
 
@@ -81985,6 +82117,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Kuvaszklubben, SVKK**
 
     123 157 31 38
+
+
+
+
+**Svenska Kyrkan**
+
+    123 677 87 24 - Gran Canaria
 
 
 
@@ -102245,6 +102384,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Örjansklubben**
+
+    123 596 45 15
+
+
+
+
 **Örkelljunga Brukshundklubb**
 
     123 345 55 08
@@ -102507,6 +102653,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Öråkers Kulturcentrum**
 
     123 126 81 01
+
+
+
+
+**Ösbybadets Vänner**
+
+    123 031 38 66
 
 
 
