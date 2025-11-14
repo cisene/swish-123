@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-13-rev-201258
+Revision: 2025-11-14-rev-201338
 
-Nummer: 17056
+Nummer: 17068
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -12191,6 +12191,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Chalmersska Ingenjörsföreningen**
+
+    123 628 31 47 - Skåne-Örestad
+
+
+
+
 **Chalmersska Ingenjörsföreningen - Göteborg**
 
     123 218 38 87
@@ -13529,6 +13536,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Danscenter / Westlund Englund AB**
 
     123 276 65 17
+
+
+
+
+**Dansklubben DanZvett**
+
+    123 259 03 96
 
 
 
@@ -23962,6 +23976,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Guldkant, Norra Sandsjö**
+
+    123 507 87 12
+
+
+
+
 **Föreningen Gutefåret**
 
     123 032 01 68
@@ -27930,6 +27951,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Guövikens Båtklubb**
 
     123 658 12 50
+
+
+
+
+**Gycklargruppen Hyckel / Hanna Bylund**
+
+    123 346 69 84
+
+
+
+
+**Gycklargruppen Narrarna / Marcel Lindström**
+
+    123 529 72 96
 
 
 
@@ -32897,6 +32932,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hunehals Borg**
+
+    123 199 40 60
+
+
+
+
 **Hunneberg Sport och Motionsklubb**
 
     123 577 10 84
@@ -36696,6 +36738,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Industrihistoriska Föreningen i Västerås**
 
     123 366 03 62
+
+
+
+
+**Infensus Medeltidsförening**
+
+    123 207 62 22
 
 
 
@@ -44857,6 +44906,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kumla Tärna Kila Pastorat**
 
     123 633 08 98 - Act Svenska Kyrkan
+
+
+
+
+**Kung Blackes Gycklare**
+
+    123 612 14 95
 
 
 
@@ -65310,6 +65366,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Riddarsällskapet Celeres Nordica**
+
+    123 323 66 01
+
+
+
+
 **RideAlong MTB**
 
     123 497 21 39
@@ -67401,6 +67464,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Värmdö Skärgård**
 
     123 168 33 66
+
+
+
+
+**Rotary Väsby**
+
+    123 596 38 97
 
 
 
@@ -74263,6 +74333,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Soldathemmet / Stiftelsen Sällskapet Hälsinge regemente**
 
     123 477 86 50
+
+
+
+
+**Solfamiljen**
+
+    123 396 44 67
 
 
 
@@ -96949,6 +97026,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Västerbottens läns Stövarklubb, VBSK**
 
     123 098 63 72
+
+
+
+
+**Västerfärnebo-Fläckebo Församling**
+
+    123 335 00 14 - Blomstergåvan
 
 
 
