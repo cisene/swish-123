@@ -197,15 +197,21 @@ def testEntries(entries):
   result = {
     'malformed-vo': [],
     'malformed-entry': [],
-    'malformed-orgName': [],
+    
+    'malformed-orgName-empty': [],
     'malformed-orgName-uppercase': [],
     'malformed-orgName-lowercase': [],
-    'malformed-orgNumber': [],
+    'malformed-orgName-toolong': [],
+    
+    'malformed-orgNumber-empty': [],
+    'malformed-orgNumber-type': [],
     'malformed-orgNumber-missing': [],
-    'malformed-orgNumberUnmasked': [],
+    'malformed-orgNumber-unmasked': [],
 
     'malformed-categories-empty': [],
+    'malformed-categories-tolong': [],
 
+    'malformed-web-empty': [],
     'malformed-web-http': [],
     'malformed-web-missing': [],
   }
@@ -214,107 +220,212 @@ def testEntries(entries):
     if "entries" in entries:
       for entryVO in entries['entries']:
 
-        # skip out early - invalid entry
-        if testIsValidEntry(entryVO['entry']) == False:
-          result['malformed-entry'].append(entryVO)
-          #print(f"Logged '{entryVO['entry']}'")
-          continue
-
-        # Skip out early - invalid entry
-        if testIsEntryNumber(entryVO['entry']) == False:
-          result['malformed-vo'].append(entryVO)
-          continue
-
-        # Detect categorization the disqualifies 
-        skip_tests = False
-        if "categories" in entryVO:
-          if entryVO['categories'] != None:
-            for category in entryVO['categories']:
-              if category in ['overifierad', 'retired', 'suspended', 'terminated', 'unverified']:
-                skip_tests = True
-                # continue
-                break
-          else:
-            result['malformed-categories-empty'].append(entryVO)
-
-        if skip_tests == True:
-          continue
-
+        malformed_vo = False
+        malformed_vo_filtered = False
+        malformed_entry = False
+        malformed_orgName = False
+        malformed_orgName_empty = False
+        malformed_orgName_toolong = False
+        malformed_orgName_lowercase = False
+        malformed_orgName_uppercase = False
+        malformed_orgNumber = False
+        malformed_orgNumber_empty = False
+        malformed_orgNumber_toolong = False
+        malformed_orgNumber_type = False
+        malformed_orgNumber_unmasked = False
+        malformed_categories = False
+        malformed_categories_empty = False
+        malformed_categories_toolong = False
+        malformed_web = False
 
         # Detect malformed ValueObjects, missing properties
-        malformed_vo = False
         for VOproperty in ['entry', 'orgName', 'orgNumber', 'comment', 'categories', 'web']:
           if not VOproperty in entryVO:
             malformed_vo = True
 
-        # Save them to a list
+        # skip out early - invalid entry
+        if testIsValidEntry(entryVO['entry']) == False:
+          malformed_entry = True
+
+        # Skip out early - invalid entry
+        if testIsEntryNumber(entryVO['entry']) == False:
+          malformed_vo = True
+
+        if (
+          malformed_vo == False
+          and
+          malformed_entry == False
+        ):
+
+          # Detect malformed or missing orgNames
+          if entryVO['orgName'] != None:
+
+            # orgName minimal length
+            if len(entryVO['orgName']) < 1:
+              malformed_orgName_empty = True
+            
+            # orgName maximal length
+            if len(entryVO['orgName']) > 100:
+              malformed_orgName_toolong = True
+
+            # orgName - All uppercase test
+            if entryVO['orgName'] == entryVO['orgName'].upper():
+              malformed_orgName_uppercase = True
+
+            # orgName - All lowercase test
+            if entryVO['orgName'] == entryVO['orgName'].lower():
+              malformed_orgName_lowercase = True
+
+          else:
+            malformed_orgName_empty = True
+
+          # Detect malformed or missing orgNumbers
+          if entryVO['orgNumber'] != None:
+            if len(entryVO['orgNumber']) < 1:
+              malformed_orgNumber_empty = True
+
+            if len(entryVO['orgNumber']) > 11:
+              malformed_orgNumber_toolong = True
+
+            if (
+              malformed_orgNumber_empty == False
+              and
+              malformed_orgNumber_toolong == False
+            ):
+              tested = testIsValidOrgNumber(entryVO['orgNumber'])
+              if tested['type'] == None:
+                malformed_orgNumber_type = True
+
+              if (
+                tested['type'] == 'person'
+                and
+                not re.search(r"^\d{6}\x2dXXXX$", str(entryVO['orgNumber']), flags=re.IGNORECASE)
+              ):
+                malformed_orgNumber_unmasked = True
+
+          else:
+            malformed_orgNumber_empty = True
+
+
+          # Detect malformed or missing categories
+          if entryVO['categories'] != None:
+            if len(entryVO['categories']) < 1:
+              malformed_categories_empty = True
+
+            if len(entryVO['categories']) > 25:
+              malformed_categories_toolong = True
+
+          else:
+            malformed_categories_empty = True
+
+
+          # Detect categorization the disqualifies
+          if malformed_categories == False:
+            if "categories" in entryVO:
+              if entryVO['categories'] != None:
+                for category in entryVO['categories']:
+                  if category in ['overifierad', 'retired', 'suspended', 'terminated', 'unverified']:
+                    malformed_vo_filtered = True
+                    break
+              else:
+                malformed_categories_empty = True
+
+          # Detect malformed or missing web
+          if entryVO['web'] != None:
+            if len(entryVO['web']) < 1:
+              malformed_web = True
+              malformed_web_missing = True
+
+            if not re.search(r"^http(s)?\x3a\x2f\x2f", str(entryVO['web']), flags=re.IGNORECASE):
+              malformed_web = True
+
+            else:
+              if re.search(r"^http\x3a\x2f\x2f", str(entryVO['web']), flags=re.IGNORECASE):
+                malformed_web_http = True
+
+          else:
+            malformed_web = True
+
+
+
+          #if len(entryVO['orgName']) >
+
+
+
+
+
+
+
+
+
+
+
+          # Detect malformed or missing URLs
+          malformed_web_http = False
+          malformed_web_missing = False
+          if (
+            entryVO['orgName'] != None
+          and
+            entryVO['orgNumber'] != None
+          and
+            entryVO['web'] == None
+          ):
+            malformed_web_missing = True
+
+          if malformed_web_missing == True:
+            result['malformed-web-missing'].append(entryVO)
+
+          # Detect malformed or http URLs
+          malformed_web_http = False
+          if entryVO['web'] != None:
+            if re.search(r"^http\x3a\x2f", entryVO['web'], flags=re.IGNORECASE):
+              malformed_web_http = True
+
+          if malformed_web_http == True:
+            result['malformed-web-http'].append(entryVO)
+
+
+
+
+
+        if malformed_vo_filtered == True:
+          continue
+
         if malformed_vo == True:
           result['malformed-vo'].append(entryVO)
 
-
-
-        # Detect malformed or missing orgNames
-        malformed_orgName = False
-        if entryVO['orgName'] == None:
-          malformed_orgName = True
+        if malformed_entry == True:
+          result['malformed-entry'].append(entryVO)
 
         if malformed_orgName == True:
-          result['malformed-orgName'].append(entryVO)
+          result['malformed-orgName-empty'].append(entryVO)
 
-        # orgName - All uppercase test
-        if entryVO['orgName'] != None:
-          if entryVO['orgName'] == entryVO['orgName'].upper():
-            result['malformed-orgName-uppercase'].append(entryVO)
+        if malformed_orgName_lowercase == True:
+          result['malformed-orgName-lowercase'].append(entryVO)
 
-        # orgName - All lowercase test
-        if entryVO['orgName'] != None:
-          if entryVO['orgName'] == entryVO['orgName'].lower():
-            result['malformed-orgName-lowercase'].append(entryVO)
-
-        # Detect malformed or missing orgNumbers
-        malformed_orgNumber = False
+        if malformed_orgName_uppercase == True:
+          result['malformed-orgName-uppercase'].append(entryVO)
 
 
-        if entryVO['orgNumber'] != None:
-          tested = testIsValidOrgNumber(entryVO['orgNumber'])
-          if tested['type'] == None:
-            malformed_orgNumber = True
-
-          if tested['type'] not in ['organisation', 'person']:
-            malformed_orgNumber = True
-
-        else:
-          result['malformed-orgNumber-missing'].append(entryVO)
-
-        if malformed_orgNumber == True:
-          result['malformed-orgNumber'].append(entryVO)
-
-        # Detect malformed or unmasked orgNumbers
+        if malformed_orgName_toolong == True:
+          result['malformed-orgName-toolong'].append(entryVO)
 
 
+        if malformed_orgNumber_empty == True:
+          result['malformed-orgNumber-empty'].append(entryVO)
 
-        # Detect malformed or missing URLs
-        malformed_web_missing = False
-        if (
-          entryVO['orgName'] != None
-        and
-          entryVO['orgNumber'] != None
-        and
-          entryVO['web'] == None
-        ):
-          malformed_web_missing = True
+        if malformed_orgNumber_toolong == True:
+          result['malformed-orgNumber-toolong'].append(entryVO)
 
-        if malformed_web_missing == True:
-          result['malformed-web-missing'].append(entryVO)
+        if malformed_orgNumber_type == True:
+          result['malformed-orgNumber-type'].append(entryVO)
 
-        # Detect malformed or http URLs
-        malformed_web_http = False
-        if entryVO['web'] != None:
-          if re.search(r"^http\x3a\x2f", entryVO['web'], flags=re.IGNORECASE):
-            malformed_web_http = True
+        if malformed_orgNumber_unmasked == True:
+          result['malformed-orgNumber-unmasked'].append(entryVO)
 
-        if malformed_web_http == True:
-          result['malformed-web-http'].append(entryVO)
+
+        if malformed_categories_empty == True:
+          result['malformed-categories-empty'].append(entryVO)
 
 
   return result
