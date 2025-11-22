@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-14-rev-204640
+Revision: 2025-11-22-rev-204821
 
-Nummer: 17068
+Nummer: 17071
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -13571,6 +13571,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dansstationen Mariestad**
 
     123 466 86 38
+
+
+
+
+**Dansverket Trollhättan**
+
+    123 132 66 10
 
 
 
@@ -61104,6 +61111,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Pingstförsamlingen i Nässjö**
+
+    123 139 13 25
+
+
+
+
 **Pingstförsamlingen i Sala**
 
     123 223 83 84
@@ -93835,6 +93849,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vara IBK**
 
     123 592 24 48
+
+
+
+
+**Vara Konserthus Vänner**
+
+    123 090 42 01
 
 
 

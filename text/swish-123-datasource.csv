@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-11-14-rev-204611
+# Date: 2025-11-22-rev-204752
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2207,6 +2207,7 @@
 "1230899419","894701-1626","Bergsbyns Sportklubb","https://www.laget.se/BergsbynsSK/","cykelklubb,fotbollsklubb,gymnastikförening,idrottsförening",""
 "1230902999","870328-XXXX","Ljungens Äggbod / Sandbyljung Lantbruk, Emil Stigsson","https://www.facebook.com/people/Ljungens-%C3%A4ggbod/100076268053660/","försäljning,lantbruk",""
 "1230903534","825004-0162","Rosenborgs Koloniförening","https://www.rosenborgskoloni.com/","intresseförening,koloniträdgårdsförening",""
+"1230904201","802527-6208","Vara Konserthus Vänner","https://varakonserthusvanner.se/","musikförening,vänförening",""
 "1230904508","559237-1883","Öresunds Golf / Nya Öresundsgolf i Häljarp AB","https://www.oresundsgk.se/","golfklubb",""
 "1230904870","802514-3051","Ersboda 4H-gård","https://www.4h.se/ersboda/","4hklubb,barnverksamhet,ungdomsverksamhet",""
 "1230905307","802504-2600","Kaizenkan IF","https://www.kaizenkan.se/","idrottsförening,jujutsuklubb,kampsportsförening,karateklubb",""
@@ -2753,7 +2754,7 @@
 "1231131119","802439-8474","Föreningen Sesam","https://foreningensesam.se/","fritidsodling,intresseförening,trädgårdsförening",""
 "1231131135","252003-6399","Svenska Kyrkan på Orust","https://www.svenskakyrkan.se/orust","religion","Kyrkkaffe och gemenskapsluncher"
 "1231131259","832000-5096","Vickleby Hembygdsförening","https://www.hembygd.se/vickleby-hembygdsforening","hembygdsförening",""
-"1231132323","521008-2458","Megilla-förlaget","https://megilla.se/","bokutgivning,förlag,försäljning",""
+"1231132323","521008-XXXX","Megilla-förlaget","https://megilla.se/","bokutgivning,förlag,försäljning",""
 "1231132521","886500-6095","Alfta-Ösa Orienteringsklubb","https://alfta-osa.se/","idrottsförening,orienteringsklubb",""
 "1231132919","802472-0735","Västerås Cablepark Förening","https://www.vasteraswakepark.se/","sup,vattensport,wakeboard",""
 "1231133107","802451-9145","Lymf- och lipödemföreningen Stockholms län","https://lymfs.se/","egenvårdsaktiviteter,föreläsningar,förening,intresseförening,patientförening,påverkansarbete",""
@@ -3258,6 +3259,7 @@
 "1231326347","252002-9642","Dunker-Lilla Malma Församling","https://www.svenskakyrkan.se/dunker-lillamalma","religion",""
 "1231326388","887501-0483","Gällsta IK","https://www.gallstaik.se/","idrottsförening,ishockeyklubb",""
 "1231326453","883200-6319","Svedens Ponnyklubb","https://www.svedens.se/","hästsport,ponnyklubb,ridsport",""
+"1231326610","854601-0060","Dansverket Trollhättan","http://www.dansverket.se/","dansförening,danskurser,dansundervisning,motionsdans",""
 "1231326701","864000-4266","Sävens BK","https://www.svenskalag.se/savensbk","dansförening,fotbollsklubb,idrottsförening,innebandyklubb",""
 "1231326735","802407-2814","Hammarby Handboll","https://www.svenskalag.se/hifhandboll","handbollsklubb,idrottsförening","Försäljning Lotter"
 "1231326834","875001-0558","Dövas Förening i Örebro Län","https://dforebro.se/","hörselnedsättning,intresseförening,patientförening","Stickcafé"
@@ -3406,6 +3408,7 @@
 "1231390012","802533-9063","Mölndals Biodlarförening","https://molndal.biodlarna.se/","biodlareförening,biodling,naturbruk",""
 "1231390723","559320-2343","Fjällstallet / Sälenfjällets Ridklubb","https://www.fjallstallet.se/","hästsport,ridklubb",""
 "1231391143","802436-3833","Svenska Klubben för Engelsk Bulldogg, SKEB","https://www.skeb.se/","hundklubb,hunduppfödning",""
+"1231391325","827000-0741","Pingstförsamlingen i Nässjö","https://pingstnässjö.se/","religion",""
 "1231391812","864501-7362","Club Jazz in time","https://clubjazzintime.se/","jazzclub,kulturförening",""
 "1231391960","642331-6345","Borgehage Byalag","https://www.borgehage.se/","byalag",""
 "1231392059","556478-1317","Åkerlunds Busstrafik AB","https://www.akerlundsbuss.se/","busstrafik,charterbuss",""
@@ -4436,7 +4439,7 @@
 "1231816313","819000-8949","Kvinnojouren Mira","https://www.jourmira.se/","kvinnojour","Tjejjouren"
 "1231816495","818000-5798","Eskilstuna Motorflygklubb, EMFK","https://www.emfk.se/","förening,intresseförening,motorflygklubb,sportflyg",""
 "1231816552","866600-2301","Elimkyrkan Skövde Baptistförsamling","https://www.elimkyrkanskovde.se/","religion",""
-"1231816677","550604-6209","C:nas Triss","https://www.cnastriss.se/","hundkurser,hundsport,nosework",""
+"1231816677","550604-XXXX","C:nas Triss","https://www.cnastriss.se/","hundkurser,hundsport,nosework",""
 "1231817329","802501-2751","Enhörna Båtklubb","https://enhornabatklubb.se/","båtklubb,båtsällskap",""
 "1231817550","822002-9154","Västerlösa Bygdegårsförening","https://bygdegardarna.se/vasterlosa/","bygdegårdsförening",""
 "1231817584","817602-8093","Sveriges Nya Raskattförening, SNRF","https://www.snrf.org/","kattklubb,raskattklubb",""
@@ -10436,7 +10439,7 @@
 "1234379541","875003-5118","Patientföreningen T-Pro","https://prostatacancerforbundet.se/om-oss/patientforeningar/orebro-lan/t-pro/","cancerförening,patientförening",""
 "1234382024","877100-6171","Nya Kopparbergsbergslags Hembygdsförening","https://nkbh.se/","hembygdsförening",""
 "1234382271","802435-2505","IOGT-NTO Medmänniska","https://bakfickanumea.se/","hjälporganisation",""
-"1234382990","651219-2847","Hundens Hus Skåne","https://skane.hundenshus.se/","hundkurser,hundskola,kurser",""
+"1234382990","651219-XXXX","Hundens Hus Skåne","https://skane.hundenshus.se/","hundkurser,hundskola,kurser",""
 "1234383212","864501-0557","Simklubben 1970, SK70","https://www.sk70.se/","idrottsförening,simklubb,simsällskap",""
 "1234383840","826001-8844","Hofslätts Hembygdsförening","https://hofslatt.se/","hembygdsförening",""
 "1234384137","802429-6355","Ödeshögs Lokalhistoriska Arkiv, ÖLA","https://olaarkiv.se/","historieförening,intresseförening,lokalhistoria",""
@@ -13621,7 +13624,7 @@
 "1235721733","559079-0860","Handbollskanalen / Creative Media Nordic Group AB","https://handbollskanalen.se/","mediaproduktion",""
 "1235724059","802463-7186","Lions Club Löddeköpinge","https://www.lionslodde.se/","lionsklubb",""
 "1235725312","802463-4225","Tyresö Handboll","https://www.tyresohandboll.se/","handbollsklubb,idrottsförening",""
-"1235726682","710904-3591","Anheden Släktforskning","https://anhedenslaktforskare.com/","genealogi,intresseförening,släktforskning",""
+"1235726682","710904-XXXX","Anheden Släktforskning","https://anhedenslaktforskare.com/","genealogi,intresseförening,släktforskning",""
 "1235726906","802443-4261","Södra Stavsudda Båtbryggeförening","https://www.sodrastavsuddabrygga.se/","bryggförening,båtklubb,båtsällskap",""
 "1235727623","814800-6920","Väsby Brottarklubb","https://vasbybk.se/","brottningsklubb,idrottsförening",""
 "1235727771","837000-9501","PRO Hässleholm","https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-hassleholm/foreningar/hassleholm.html","pensionärsklubb",""

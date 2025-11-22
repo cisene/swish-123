@@ -9817,6 +9817,13 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/anderslov
 
+- entry: 1230439943
+  orgName: Markus Allard
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230439968
   orgName: Mustasch AB
   orgNumber: 556626-3793
@@ -20047,6 +20054,15 @@ entries:
   - koloniträdgårdsförening
   web: https://www.rosenborgskoloni.com/
 
+- entry: 1230904201
+  orgName: Vara Konserthus Vänner
+  orgNumber: 802527-6208
+  comment: null
+  categories:
+  - musikförening
+  - vänförening
+  web: https://varakonserthusvanner.se/
+
 - entry: 1230904508
   orgName: Öresunds Golf / Nya Öresundsgolf i Häljarp AB
   orgNumber: 559237-1883
@@ -29590,6 +29606,17 @@ entries:
   - ridsport
   web: https://www.svedens.se/
 
+- entry: 1231326610
+  orgName: Dansverket Trollhättan
+  orgNumber: 854601-0060
+  comment: null
+  categories:
+  - dansförening
+  - danskurser
+  - dansundervisning
+  - motionsdans
+  web: http://www.dansverket.se/
+
 - entry: 1231326701
   orgName: Sävens BK
   orgNumber: 864000-4266
@@ -30943,6 +30970,14 @@ entries:
   - hundklubb
   - hunduppfödning
   web: https://www.skeb.se/
+
+- entry: 1231391325
+  orgName: Pingstförsamlingen i Nässjö
+  orgNumber: 827000-0741
+  comment: null
+  categories:
+  - religion
+  web: https://pingstnässjö.se/
 
 - entry: 1231391812
   orgName: Club Jazz in time
