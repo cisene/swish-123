@@ -6820,6 +6820,17 @@ entries:
   - orienteringsklubb
   web: https://msok.se/
 
+- entry: 1230323105
+  orgName: Nacka Teamåkningsklubb
+  orgNumber: 802422-8325
+  comment: null
+  categories:
+  - idrottsförening
+  - isdans
+  - konståkningsklubb
+  - teamåkning
+  web: https://nackatk.se/
+
 - entry: 1230323147
   orgName: Pingstförsamlingen i Alingsås
   orgNumber: 864000-0371
@@ -9368,6 +9379,15 @@ entries:
   - kvinnojour
   - transjour
   web: https://stjarnjouren.nu/
+
+- entry: 1230427476
+  orgName: Huvvebry / Hampus Öhman-Frölund
+  orgNumber: 860731-XXXX
+  comment: null
+  categories:
+  - musikevenemang
+  - orkester
+  web: https://www.hampusohf.com/
 
 - entry: 1230427757
   orgName: Friskis & Svettis Markaryd
@@ -32971,6 +32991,15 @@ entries:
   - religion
   web: https://equmenia.se/
 
+- entry: 1231506344
+  orgName: Jämtlands Tidning
+  orgNumber: 556644-6323
+  comment: null
+  categories:
+  - lokalmedia
+  - lokaltidning
+  web: https://www.jamtlandstidning.se/
+
 - entry: 1231506567
   orgName: Västerås Kattklubb
   orgNumber: 878001-0511
@@ -37306,6 +37335,14 @@ entries:
   - försäljning
   web: https://www.granec.se/
 
+- entry: 1231726439
+  orgName: Carl-Johans Pastorat
+  orgNumber: 252004-8980
+  comment: null
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/carl-johans-pastorat
+
 - entry: 1231726637
   orgName: PRO Skarpnäck
   orgNumber: 802406-5453
@@ -40808,6 +40845,14 @@ entries:
   - utbildning
   web: https://www.efs.nu/
 
+- entry: 1231888205
+  orgName: MED Event Solutions AB
+  orgNumber: 559540-3162
+  comment: null
+  categories:
+  - musikevenemang
+  web: https://medeventsolutionsab.com/
+
 - entry: 1231891035
   orgName: Harley Owners Group, HOG
   orgNumber: 802421-9951
@@ -44084,6 +44129,16 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.kristinehamnsinnebandyforening.se/
+
+- entry: 1232049039
+  orgName: Skåningarna / Joel Andreasson
+  orgNumber: 980610-XXXX
+  comment: null
+  categories:
+  - dansband
+  - musikevenemang
+  - orkester
+  web: https://www.facebook.com/p/Sk%C3%A5ningarna-100063608316391/
 
 - entry: 1232049302
   orgName: Föreningen för Cultural Planning i Sverige
@@ -54113,6 +54168,7 @@ entries:
   categories:
   - dansförening
   - danskurser
+  - dansundervisning
   - motionsdans
   web: https://obrk.se/
 
@@ -66573,6 +66629,16 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1233084829
+  orgName: Karmha Hud Hälsa Skönhet AB
+  orgNumber: 556393-3075
+  comment: null
+  categories:
+  - hudvård
+  - hälsa
+  - skönhetsvård
+  web: https://karmhahudvard.se/
+
 - entry: 1233085503
   orgName: Spårvägens Brasiliansk Jiu-Jitsu Förening
   orgNumber: 802533-2217
@@ -76813,6 +76879,17 @@ entries:
   - riksorganisation
   web: https://djurensvanner.se/
 
+- entry: 1233549334
+  orgName: Teatervännerna i Skaraborg
+  orgNumber: 863001-1974
+  comment: null
+  categories:
+  - musik
+  - scenkonst
+  - teater
+  - vänförening
+  web: https://teatervannerna.se/
+
 - entry: 1233549466
   orgName: Miracle Connect
   orgNumber: 802500-0566
@@ -80694,6 +80771,14 @@ entries:
   - biodling
   web: https://molndal.biodlarna.se/
 
+- entry: 1233747524
+  orgName: Kulturföreningen Kretsen
+  orgNumber: 802416-8075
+  comment: null
+  categories:
+  - kulturförening
+  web: https://kretsen.org/
+
 - entry: 1233747573
   orgName: S:t Johannes Församling
   orgNumber: 252000-0528
@@ -80733,6 +80818,7 @@ entries:
   comment: null
   categories:
   - kulturförening
+  - scenkonst
   - teater
   web: https://www.victoria.se/
 
@@ -107293,6 +107379,7 @@ entries:
   categories:
   - danskurser
   - dansundervisning
+  - religion
   web: https://godmoves.se/
 
 - entry: 1235112693
@@ -109807,6 +109894,17 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://alvsbygymnasterna.sportadmin.se/
+
+- entry: 1235201975
+  orgName: Alingsås Dansklubb
+  orgNumber: 864001-0164
+  comment: null
+  categories:
+  - dansförening
+  - dansklubb
+  - danskurser
+  - dansundervisning
+  web: https://alingsasdansklubb.se/
 
 - entry: 1235202254
   orgName: Varberg Hockey Klubb
@@ -115534,6 +115632,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://taxingebygdegard.se/
+
+- entry: 1235456272
+  orgName: Fröskogs Kulturförening
+  orgNumber: 862000-6349
+  comment: null
+  categories:
+  - kulturförening
+  web: https://froskogskulturforening.blogspot.com/
 
 - entry: 1235456629
   orgName: Degeberga-Everöds Församling
@@ -130784,6 +130890,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/skanorfalsterbo
 
+- entry: 1236161335
+  orgName: Dansstudion i Karlstad
+  orgNumber: 556504-0903
+  comment: null
+  categories:
+  - danskurser
+  - dansstudio
+  - dansundervisning
+  web: https://www.dansstudion.nu/
+
 - entry: 1236161467
   orgName: Kinna IBK
   orgNumber: 802418-0773
@@ -134018,6 +134134,15 @@ entries:
   - opinionsbildning
   web: https://varmlandmotkarnkraft.se/
 
+- entry: 1236307714
+  orgName: Salsa Sundsvall / Sara van Hamburg
+  orgNumber: 020919-XXXX
+  comment: null
+  categories:
+  - dansstudio
+  - dansundervisning
+  web: https://salsasundsvall.se/
+
 - entry: 1236308001
   orgName: S Pigga Motionärer IF
   orgNumber: 802542-9682
@@ -134653,7 +134778,6 @@ entries:
   categories:
   - anhörigorganisation
   - funktionsvariation
-  - förening
   - intresseförening
   - patientförening
   web: https://www.svenskadownforeningen.se/
@@ -137309,6 +137433,14 @@ entries:
   - myntklubb
   - myntsamlare
   web: https://sigtuna.myntklubb.se/
+
+- entry: 1236477467
+  orgName: SWEA Göteborg
+  orgNumber: 857205-4594
+  comment: null
+  categories:
+  - kvinnligt nätverk
+  web: https://goteborg.swea.org/
 
 - entry: 1236477475
   orgName: Stiftelsen Bräcke Diakoni
@@ -147270,6 +147402,15 @@ entries:
   - bågskytteklubb
   - idrottsförening
   web: https://umeabk.com/
+
+- entry: 1236929269
+  orgName: Bagarmossens Folkets Hus
+  orgNumber: 802015-9227
+  comment: null
+  categories:
+  - folkets hus
+  - folkrörelse
+  web: https://bagisfh.se/
 
 - entry: 1236929285
   orgName: Vadstena Riksteaterförening

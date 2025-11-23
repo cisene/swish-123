@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-22-rev-204821
+Revision: 2025-11-23-rev-181550
 
-Nummer: 17071
+Nummer: 17086
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1353,6 +1353,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Alingsås CF**
 
     123 089 90 96
+
+
+
+
+**Alingsås Dansklubb**
+
+    123 520 19 75
 
 
 
@@ -4113,6 +4120,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Badmintonklubben Kruset Höganäs**
 
     123 339 96 80
+
+
+
+
+**Bagarmossens Folkets Hus**
+
+    123 692 92 69
 
 
 
@@ -11830,7 +11844,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Carl Johans Pastorat**
+**Carl-Johans Pastorat**
+
+    123 172 64 39
 
     123 664 93 62 - Teckenspråkig verksamhet
 
@@ -13571,6 +13587,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dansstationen Mariestad**
 
     123 466 86 38
+
+
+
+
+**Dansstudion i Karlstad**
+
+    123 616 13 35
 
 
 
@@ -22406,6 +22429,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Frölunda Hockey Club**
 
     123 403 41 20
+
+
+
+
+**Fröskogs Kulturförening**
+
+    123 545 62 72
 
 
 
@@ -33143,6 +33173,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Huvvebry / Hampus Öhman-Frölund**
+
+    123 042 74 76
+
+
+
+
 **HV 71**
 
     123 269 10 61 - U13
@@ -39516,6 +39553,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Jämtlands Tidning**
+
+    123 150 63 44
+
+
+
+
 **Jämtlands Travhästägarförening**
 
     123 516 66 32
@@ -41259,6 +41303,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Karmeliterna, Samfundet Karmelitsystrarna**
 
     123 676 10 27
+
+
+
+
+**Karmha Hud Hälsa Skönhet AB**
+
+    123 308 48 29
 
 
 
@@ -44735,6 +44786,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 528 39 81 - Chillbo
 
     123 588 45 15
+
+
+
+
+**Kulturföreningen Kretsen**
+
+    123 374 75 24
 
 
 
@@ -52794,6 +52852,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**MED Event Solutions AB**
+
+    123 188 82 05
+
+
+
+
 **Med Israel för fred, MIFF Sverige**
 
     123 331 82 19
@@ -55616,6 +55681,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nacka Taekwondo IF**
 
     123 293 12 10
+
+
+
+
+**Nacka Teamåkningsklubb**
+
+    123 032 31 05
 
 
 
@@ -69337,6 +69409,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Salsa Sundsvall / Sara van Hamburg**
+
+    123 630 77 14
+
+
+
+
 **Salsakurs.se, Firma Rocio / Guillermo Gutierrez Relé**
 
     123 356 35 74
@@ -73223,6 +73302,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Skånes Änglar**
 
     123 694 87 98
+
+
+
+
+**Skåningarna / Joel Andreasson**
+
+    123 204 90 39
 
 
 
@@ -84187,6 +84273,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SWEA Göteborg**
+
+    123 647 74 67
+
+
+
+
 **SwebbTube / Svensk Webbtelevision AB**
 
     123 431 01 08
@@ -88343,6 +88436,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Teaterkören**
 
     123 462 72 38
+
+
+
+
+**Teatervännerna i Skaraborg**
+
+    123 354 93 34
 
 
 
