@@ -304,8 +304,7 @@ def testEntries(entries):
                 malformed_orgNumber_unmasked = True
 
           else:
-            malformed_orgNumber_empty = True
-
+            malformed_orgNumber_empty == True
 
           # Detect malformed or missing categories
           if entryVO['categories'] != None:
@@ -372,8 +371,6 @@ def testEntries(entries):
           ):
             malformed_web_missing = True
 
-          if malformed_web_missing == True:
-            result['malformed-web-missing'].append(entryVO)
 
           # Detect malformed or http URLs
           malformed_web_http = False
@@ -381,8 +378,6 @@ def testEntries(entries):
             if re.search(r"^http\x3a\x2f", entryVO['web'], flags=re.IGNORECASE):
               malformed_web_http = True
 
-          if malformed_web_http == True:
-            result['malformed-web-http'].append(entryVO)
 
 
 
@@ -406,7 +401,6 @@ def testEntries(entries):
         if malformed_orgName_uppercase == True:
           result['malformed-orgName-uppercase'].append(entryVO)
 
-
         if malformed_orgName_toolong == True:
           result['malformed-orgName-toolong'].append(entryVO)
 
@@ -426,6 +420,12 @@ def testEntries(entries):
 
         if malformed_categories_empty == True:
           result['malformed-categories-empty'].append(entryVO)
+
+        if malformed_web_missing == True:
+          result['malformed-web-missing'].append(entryVO)
+
+        if malformed_web_http == True:
+          result['malformed-web-http'].append(entryVO)
 
 
   return result
