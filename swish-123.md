@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-23-rev-181550
+Revision: 2025-11-23-rev-220818
 
-Nummer: 17086
+Nummer: 17128
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -121,7 +121,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**#INTEDINHORA**
+**#InteDinHora**
 
     123 066 42 68
 
@@ -6486,9 +6486,44 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Blodcancerförbundet**
+
+    123 186 09 07 - Sociala- och påverkansarbete
+
+
+
+
 **Blodcancerförbundet KBS**
 
     123 213 27 28
+
+
+
+
+**Blodcancerföreningen i Stockholm**
+
+    123 308 46 62
+
+
+
+
+**Blodcancerföreningen i Uppsala Sjukvårdsregion**
+
+    123 574 54 01
+
+
+
+
+**Blodcancerföreningen Värmland**
+
+    123 691 06 24
+
+
+
+
+**Blodsjukas förening i Södra Sjukvårdsregionen**
+
+    123 430 31 52
 
 
 
@@ -10706,6 +10741,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Bröstcancerföreningen Värmland**
 
+    123 120 33 63
+
     123 224 34 83
 
 
@@ -12009,6 +12046,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Celiakiföreningen Gotland**
+
+    123 674 47 26
+
+
+
+
+**Celiakiföreningen i Göteborg med omnejd**
+
+    123 163 22 07
+
+
+
+
 **Celiakiföreningen i Kronobergs län**
 
     123 632 64 41
@@ -12016,9 +12067,37 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Celiakiföreningen i Skaraborg**
+
+    123 335 76 88
+
+
+
+
 **Celiakiföreningen i Stockholms län**
 
     123 209 52 30
+
+
+
+
+**Celiakiföreningen i Södermanlands Län**
+
+    123 314 97 88
+
+
+
+
+**Celiakiföreningen i Västmanlands län**
+
+    123 177 08 33
+
+
+
+
+**Celiakiföreningen i Örebro län**
+
+    123 116 29 65
 
 
 
@@ -16230,6 +16309,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ekerö IK**
 
     123 123 59 85
+
+
+
+
+**Ekerö Kommun**
+
+    123 293 99 24
 
 
 
@@ -25775,6 +25861,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gemzell Musik / Emelie Gemzell**
+
+    123 491 70 01
+
+
+
+
 **Genealogiska Föreningen**
 
     123 511 42 85
@@ -27251,6 +27344,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Grunden Sydöstra Skåne**
+
+    123 064 24 96
+
+
+
+
 **Grundfors Byaförening**
 
     123 413 34 84
@@ -28090,16 +28190,37 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**GynCancerförbundet**
+**Gyncacerföreningen Stockholm-Uppsala**
+
+    123 344 82 71
+
+
+
+
+**Gyncancerförbundet**
 
     123 075 23 29
 
 
 
 
-**GynCancerförbundet Gävleborg**
+**Gyncancerföreningen Gävleborg**
 
     123 036 93 06
+
+
+
+
+**Gyncancerföreningen i Örebro**
+
+    123 512 79 64
+
+
+
+
+**Gyncancerföreningen Västerbotten**
+
+    123 464 34 17
 
 
 
@@ -31180,9 +31301,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Hemlösas Julbord / Homeless Foundation**
+**Hemlösas Julbord**
 
-    123 633 97 41
+    123 146 36 03 - Hemlösas Julbord 2025
 
 
 
@@ -32227,7 +32348,11 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Homeless Foundation**
 
+    123 002 30 51 - Hemlösas Julbord
+
     123 173 29 32
+
+    123 633 97 41 - Hemlösas Julbord
 
 
 
@@ -36061,7 +36186,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**IFK UMEÅ**
+**IFK Umeå**
 
     123 082 07 38
 
@@ -36583,6 +36708,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **IKTYOS föreningen**
 
     123 668 73 05
+
+
+
+
+**ILCO Tarm- uro- och stomiförbundet**
+
+    123 408 22 69
 
 
 
@@ -45366,6 +45498,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kvarteret Igor / Stadsrum Fastigheter Igor AB**
+
+    123 396 51 00 - Insamlingen Hjärtkassen
+
+
+
+
 **Kvibergskatterna**
 
     123 091 08 77
@@ -49377,6 +49516,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Livsgnistan Örebro**
+
+    123 216 83 18
+
+
+
+
 **Livsmedelsarbetareförbundet**
 
     123 098 46 41
@@ -51420,6 +51566,27 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **MAF-Sweden**
 
     123 900 89 13
+
+
+
+
+**Mag- och Tarmförbundet**
+
+    123 354 73 04
+
+
+
+
+**Mag- och Tarmföreningen i Skåne**
+
+    123 032 74 11
+
+
+
+
+**Mag- och Tarmföreningen i Stockholm**
+
+    123 089 91 38
 
 
 
@@ -58086,6 +58253,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nygårds Värdshus AB**
+
+    123 366 66 74
+
+
+
+
 **Nyhetsbyrån / Vainar Mediagroup AB**
 
     123 384 82 49
@@ -60325,16 +60499,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Parkinsonförbundet**
+
+    123 531 09 74 - Skaraborg
+
+
+
+
 **Parkinsonförbundet - Norrbotten**
 
     123 015 96 99
-
-
-
-
-**Parkinsonförbundet - Skaraborg**
-
-    123 531 09 74
 
 
 
@@ -64052,8 +64226,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Psoriasisförbundet**
 
-    123 389 99 52
-
     123 900 06 62
 
 
@@ -66431,7 +66603,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Romeleåsens GK**
+**Romeleåsens Golfklubb**
 
     123 640 85 61
 
@@ -75065,6 +75237,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SPF Seniorerna Ale**
+
+    123 516 47 28
+
+
+
+
 **SPF Seniorerna Almunge-Knutby**
 
     123 157 65 60
@@ -78530,6 +78709,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stiftelsen Tjolöholm**
+
+    123 378 06 81
+
+
+
+
 **Stiftelsen Torghuset**
 
     123 677 74 94
@@ -81809,6 +81995,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Celiakiförbundet**
 
+    123 313 93 34
+
     123 900 24 60
 
 
@@ -82676,6 +82864,55 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Prazsky Krysarik klubben, SPKK**
 
     123 441 78 38
+
+
+
+
+**Svenska Psoriasisförbundet**
+
+    123 389 99 52 - Medlemsavgift
+
+
+
+
+**Svenska Psoriasisförbundet**
+
+    123 336 73 72 - Norrköping
+
+
+
+
+**Svenska Psoriasisförbundet**
+
+    123 060 63 01 - Umeå
+
+
+
+
+**Svenska Psoriasisförbundet**
+
+    123 252 79 68 - Jönköpings Län
+
+
+
+
+**Svenska Psoriasisförbundet**
+
+    123 022 32 30 - Skånes Län
+
+
+
+
+**Svenska Psoriasisförbundet**
+
+    123 211 18 54 - Nordvästra Skåne
+
+
+
+
+**Svenska Psoriasisförbundet**
+
+    123 071 93 02 - Malmö-Vellinge Lokalavdelning
 
 
 
@@ -86583,6 +86820,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tallåskyrkan i Brunskog**
 
     123 311 75 04 - Kollekt
+
+
+
+
+**Tammsvik Konferens och Herrgård AB**
+
+    123 613 58 18
 
 
 
@@ -92561,6 +92805,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Unga Funkisar**
+
+    123 124 96 71 - Halland
+
+
+
+
 **Unga Klaras Vänner**
 
     123 330 61 72
@@ -92658,7 +92909,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**UNIK BK**
+**UNIK Bollklubb**
 
     123 075 39 62
 
@@ -92798,6 +93049,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Upplands Nation**
+
+    123 054 18 70 - Julbord
 
     123 147 50 37
 
@@ -93065,6 +93318,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Uppsala Lägenhetshotell AB**
 
     123 089 36 77
+
+
+
+
+**Uppsala Läns Dövas Förening**
+
+    123 025 29 99
 
 
 
@@ -100956,6 +101216,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ålgrändens Ost & Deli**
+
+    123 399 81 50
+
+
+
+
 **Ålleberg Cafe och Lunchrestaurang**
 
     123 649 70 51
@@ -101621,6 +101888,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Åtvidabergs Hundklubb**
 
     123 224 44 65
+
+
+
+
+**Åtvidabergs Kenyaförening**
+
+    123 198 38 40
 
 
 

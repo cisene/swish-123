@@ -650,6 +650,16 @@ entries:
   - bridgeklubb
   web: https://www.svenskbridge.se/motala-bridgeallians
 
+- entry: 1230023051
+  orgName: Homeless Foundation
+  orgNumber: 802488-2873
+  comment: Hemlösas Julbord
+  categories:
+  - donation
+  - hjälporganisation
+  - välgörenhet
+  web: https://hemlosasjulbord.se/
+
 - entry: 1230027326
   orgName: Hälsinglands Sportklubb
   orgNumber: 802543-4948
@@ -4363,6 +4373,14 @@ entries:
   - hästsport
   web: https://www.staam.com/
 
+- entry: 1230223230
+  orgName: Svenska Psoriasisförbundet
+  orgNumber: 838202-0322
+  comment: Skånes Län
+  categories:
+  - psoriasisförening
+  web: https://www.psoriasisforbundet.se/skane/
+
 - entry: 1230223404
   orgName: Team Rynkeby
   orgNumber: 802532-7506
@@ -5283,6 +5301,15 @@ entries:
   - idrottsförening
   - skridskoklubb
   web: https://www.vask.se/
+
+- entry: 1230252999
+  orgName: Uppsala Läns Dövas Förening
+  orgNumber: 817000-6731
+  comment: null
+  categories:
+  - döv
+  - hörselnedsättning
+  web: https://uldf.se/
 
 - entry: 1230253419
   orgName: Åsa Carlström Workshop Aktiebolag
@@ -7060,6 +7087,15 @@ entries:
   - religion
   web: https://www.icej.se/
 
+- entry: 1230327411
+  orgName: Mag- och Tarmföreningen i Skåne
+  orgNumber: 843001-1950
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://magotarm.se/skane-lansforening/
+
 - entry: 1230328385
   orgName: Frösö Sunne Norderö Församling
   orgNumber: 252004-7982
@@ -8073,10 +8109,11 @@ entries:
   web: https://www.svenskalag.se/hallsbergpk
 
 - entry: 1230369306
-  orgName: GynCancerförbundet Gävleborg
+  orgName: Gyncancerföreningen Gävleborg
   orgNumber: 802496-0331
   comment: null
   categories:
+  - anhörigorganisation
   - cancerförening
   - gynekologisk cancer
   - patientförening
@@ -11936,6 +11973,15 @@ entries:
   - utbildning
   web: https://www.riksff.se/
 
+- entry: 1230541870
+  orgName: Upplands Nation
+  orgNumber: 262000-0691
+  comment: Julbord
+  categories:
+  - studentnation
+  - studentorganisation
+  web: https://uplandsnation.se/
+
 - entry: 1230541912
   orgName: Bostadsrättsföreningen Ringlåset 1 i Bandhagen
   orgNumber: 716417-5627
@@ -12944,6 +12990,7 @@ entries:
   orgNumber: 802425-1889
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - hjälporganisation
   - stiftelse
@@ -13238,6 +13285,14 @@ entries:
   - fotograf
   - mediaproduktion
   web: https://enkelp.se/
+
+- entry: 1230606301
+  orgName: Svenska Psoriasisförbundet
+  orgNumber: 802542-5359
+  comment: Umeå
+  categories:
+  - psoriasisförening
+  web: https://www.psoriasisforbundet.se/umea/
 
 - entry: 1230609917
   orgName: Pingstförsamlingen i Karlskrona
@@ -13967,6 +14022,15 @@ entries:
   - musikförening
   web: https://www.gavlefolk.se/
 
+- entry: 1230642496
+  orgName: Grunden Sydöstra Skåne
+  orgNumber: 802451-5366
+  comment: null
+  categories:
+  - aktivitetsförening
+  - funktionsvariation
+  web: https://www.grundensosk.se/
+
 - entry: 1230642900
   orgName: Norrby Hembygdsförening
   orgNumber: 879500-0671
@@ -14227,7 +14291,7 @@ entries:
   web: https://www.team-rynkeby.se/
 
 - entry: 1230664268
-  orgName: '#INTEDINHORA'
+  orgName: '#InteDinHora'
   orgNumber: 802524-6532
   comment: null
   categories:
@@ -15436,6 +15500,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/angelholmsgymnastikforening
 
+- entry: 1230719302
+  orgName: Svenska Psoriasisförbundet
+  orgNumber: 846002-2141
+  comment: Malmö-Vellinge Lokalavdelning
+  categories:
+  - psoriasisförening
+  web: https://www.psoriasisforbundet.se/malmo-vellinge/
+
 - entry: 1230719856
   orgName: SPF Seniorerna Humleaxet Tierp
   orgNumber: 817301-2975
@@ -16238,10 +16310,11 @@ entries:
   web: https://www.sanktnikolai.se/
 
 - entry: 1230752329
-  orgName: GynCancerförbundet
+  orgName: Gyncancerförbundet
   orgNumber: 837001-3008
   comment: null
   categories:
+  - anhörigorganisation
   - cancerförening
   - gynekologisk cancer
   - patientförening
@@ -16342,7 +16415,7 @@ entries:
   web: https://www.roslagensbokhandel.se/
 
 - entry: 1230753962
-  orgName: UNIK BK
+  orgName: UNIK Bollklubb
   orgNumber: 817606-6267
   comment: null
   categories:
@@ -17810,7 +17883,7 @@ entries:
   web: https://orinto.klubbenonline.se/
 
 - entry: 1230820738
-  orgName: IFK UMEÅ
+  orgName: IFK Umeå
   orgNumber: 894000-0634
   comment: null
   categories:
@@ -20025,6 +20098,15 @@ entries:
   - crossfitklubb
   - idrottsförening
   web: https://www.svenskalag.se/alingsascf
+
+- entry: 1230899138
+  orgName: Mag- och Tarmföreningen i Stockholm
+  orgNumber: 802012-8305
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://magotarm.se/stockholms-lansforening/
 
 - entry: 1230899302
   orgName: Sandviks IK
@@ -26063,6 +26145,14 @@ entries:
   - kallbadhus
   web: https://www.torekov.se/hem/byinformation-och-byar%C3%A5d/projekt-torekov-havsbadhus/
 
+- entry: 1231162965
+  orgName: Celiakiföreningen i Örebro län
+  orgNumber: 876400-5834
+  comment: null
+  categories:
+  - celiakiförening
+  web: https://www.celiaki.se/foreningar/orebro-lan/
+
 - entry: 1231162973
   orgName: Team Rynkeby
   orgNumber: 802533-7869
@@ -26716,6 +26806,16 @@ entries:
   - sjösport
   - utbildning
   web: https://www.sjosportskolan.se/
+
+- entry: 1231203363
+  orgName: Bröstcancerföreningen Värmland
+  orgNumber: 873201-7168
+  comment: null
+  categories:
+  - anhörigorganisation
+  - bröstcancer
+  - patientförening
+  web: https://varmland.brostcancerforbundet.se/
 
 - entry: 1231203454
   orgName: Stora Mellösa Baptistförsamling
@@ -28045,6 +28145,14 @@ entries:
   - försäljning
   - konfektion
   web: https://tordyvel.com/
+
+- entry: 1231249671
+  orgName: Unga Funkisar
+  orgNumber: 802513-2278
+  comment: Halland
+  categories:
+  - funktionsvariation
+  web: https://www.ungafunkisar.se/halland-2/
 
 - entry: 1231249721
   orgName: Medeltidsföreningen Reengarda
@@ -32155,6 +32263,16 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/stratosenkopingbtk
 
+- entry: 1231463603
+  orgName: Hemlösas Julbord
+  orgNumber: 802552-1942
+  comment: Hemlösas Julbord 2025
+  categories:
+  - donation
+  - hjälporganisation
+  - välgörenhet
+  web: https://hemlosasjulbord.se/
+
 - entry: 1231464528
   orgName: OK Skogsfalken, OKS
   orgNumber: 836200-1722
@@ -32486,6 +32604,7 @@ entries:
   orgNumber: 262000-0691
   comment: null
   categories:
+  - studentnation
   - studentorganisation
   web: https://uplandsnation.se/
 
@@ -36469,6 +36588,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/AvestaDBBK
 
+- entry: 1231632207
+  orgName: Celiakiföreningen i Göteborg med omnejd
+  orgNumber: 857210-0793
+  comment: null
+  categories:
+  - celiakiförening
+  web: https://www.celiaki.se/foreningar/goteborg/
+
 - entry: 1231632298
   orgName: Munskänkarna
   orgNumber: 802452-6827
@@ -39290,6 +39417,14 @@ entries:
   - konstförening
   web: https://konstepidemin.se/
 
+- entry: 1231770833
+  orgName: Celiakiföreningen i Västmanlands län
+  orgNumber: 802441-6714
+  comment: null
+  categories:
+  - celiakiförening
+  web: https://www.celiaki.se/foreningar/vastmanlands-lan/
+
 - entry: 1231772185
   orgName: Hornskrokens IF
   orgNumber: 898500-2164
@@ -41147,6 +41282,16 @@ entries:
   - judoklubb
   - kampsportsförening
   web: https://www.judoöa.se/
+
+- entry: 1231860907
+  orgName: Blodcancerförbundet
+  orgNumber: 815200-9125
+  comment: Sociala- och påverkansarbete
+  categories:
+  - anhörigorganisation
+  - cancerförening
+  - patientförening
+  web: https://www.blodcancerforbundet.se/
 
 - entry: 1231861467
   orgName: Eivor Fox Stiftelse
@@ -43674,6 +43819,15 @@ entries:
   - yoga
   web: https://www.yogakallan.se/
 
+- entry: 1231983840
+  orgName: Åtvidabergs Kenyaförening
+  orgNumber: 822003-9187
+  comment: null
+  categories:
+  - hjälporganisation
+  - välgörenhet
+  web: https://www.kenyaforeningen.se/
+
 - entry: 1231983873
   orgName: Gnosjö Missionsförsamling
   orgNumber: 828000-0756
@@ -45835,7 +45989,7 @@ entries:
   orgNumber: 802016-4003
   comment: null
   categories:
-  - patientförening
+  - celiakiförening
   web: https://www.celiaki.se/foreningar/stockholms-lan/
 
 - entry: 1232095313
@@ -46223,6 +46377,14 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/KaisMora/
+
+- entry: 1232111854
+  orgName: Svenska Psoriasisförbundet
+  orgNumber: 843001-0234
+  comment: Nordvästra Skåne
+  categories:
+  - psoriasisförening
+  web: https://www.psoriasisforbundet.se/nordvastra-skane/
 
 - entry: 1232112068
   orgName: Sydasien, Kulturell och Politisk Tidskrift
@@ -47539,6 +47701,15 @@ entries:
   categories:
   - bridgeförbund
   web: https://www.svenskbridge.se/gävleborgs-bf
+
+- entry: 1232168318
+  orgName: Livsgnistan Örebro
+  orgNumber: 802518-7769
+  comment: null
+  categories:
+  - cancerförening
+  - stödverksamhet
+  web: https://livsgnistanorebro.se/
 
 - entry: 1232168391
   orgName: Tallbackens Vänner
@@ -55618,7 +55789,7 @@ entries:
   orgNumber: 857209-3030
   comment: null
   categories:
-  - intresseförening
+  - anhörigorganisation
   - patientförening
   web: https://goteborg.ocdforbundet.se/
 
@@ -55705,6 +55876,14 @@ entries:
   categories:
   - kvinnojour
   web: https://www.unizonjourer.se/kraftbyran/
+
+- entry: 1232527968
+  orgName: Svenska Psoriasisförbundet
+  orgNumber: 826000-8456
+  comment: Jönköpings Län
+  categories:
+  - psoriasisförening
+  web: https://www.psoriasisforbundet.se/jonkoping/
 
 - entry: 1232529758
   orgName: Väster Silfbergs Vänner
@@ -57150,6 +57329,7 @@ entries:
   - festival
   - kultur
   - musik
+  - välgörenhet
   web: https://forfestivalen.se/
 
 - entry: 1232605087
@@ -65035,6 +65215,14 @@ entries:
   - workshop
   web: https://www.petitplaisir.se/
 
+- entry: 1232939924
+  orgName: Ekerö Kommun
+  orgNumber: 212000-0050
+  comment: null
+  categories:
+  - kommun
+  web: https://www.ekero.se/
+
 - entry: 1232940567
   orgName: Långhalmens FVO
   orgNumber: 802601-1786
@@ -67735,7 +67923,7 @@ entries:
   web: https://www.svenskakyrkan.se/ulricehamn
 
 - entry: 1233061751
-  orgName: UNIK BK
+  orgName: UNIK Bollklubb
   orgNumber: 817606-6267
   comment: null
   categories:
@@ -68104,6 +68292,16 @@ entries:
   categories: null
   web: null
 
+- entry: 1233084662
+  orgName: Blodcancerföreningen i Stockholm
+  orgNumber: 802401-4824
+  comment: null
+  categories:
+  - anhörigorganisation
+  - cancerförening
+  - patientförening
+  web: https://www.blodcancerforbundet.se/stockholm/
+
 - entry: 1233084829
   orgName: Karmha Hud Hälsa Skönhet AB
   orgNumber: 556393-3075
@@ -68174,6 +68372,8 @@ entries:
   comment: null
   categories:
   - anhörigorganisation
+  - cancerforskning
+  - cancerförening
   - patientförening
   web: https://www.blodcancerforbundet.se/nus/
 
@@ -69492,6 +69692,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/hassleholm
 
+- entry: 1233139334
+  orgName: Svenska Celiakiförbundet
+  orgNumber: 802010-4504
+  comment: null
+  categories:
+  - celiakiförening
+  web: https://www.celiaki.se/
+
 - entry: 1233139581
   orgName: Gremo Maskinservice AB
   orgNumber: 556459-4280
@@ -69669,6 +69877,14 @@ entries:
   categories:
   - bridgeklubb
   web: https://www.svenskbridge.se/norrorts-bridge
+
+- entry: 1233149788
+  orgName: Celiakiföreningen i Södermanlands Län
+  orgNumber: 819001-2826
+  comment: null
+  categories:
+  - celiakiförening
+  web: https://www.celiaki.se/foreningar/sodermanlands-lan/
 
 - entry: 1233150505
   orgName: PowerUpUkraine / EFS Missionsförening i Kalmar
@@ -73685,6 +73901,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/linkopingsgif
 
+- entry: 1233357688
+  orgName: Celiakiföreningen i Skaraborg
+  orgNumber: 866601-0304
+  comment: null
+  categories:
+  - celiakiförening
+  web: https://www.celiaki.se/foreningar/skaraborg/
+
 - entry: 1233358462
   orgName: Stadsbudskåren i Göteborg
   orgNumber: null
@@ -73921,6 +74145,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/malmo
+
+- entry: 1233367372
+  orgName: Svenska Psoriasisförbundet
+  orgNumber: 802438-5885
+  comment: Norrköping
+  categories:
+  - psoriasisförening
+  web: https://www.psoriasisforbundet.se/norrkoping/
 
 - entry: 1233371044
   orgName: Team LeWa Sport
@@ -75871,6 +76103,17 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/bosnafc
+
+- entry: 1233448271
+  orgName: Gyncacerföreningen Stockholm-Uppsala
+  orgNumber: 802543-8055
+  comment: null
+  categories:
+  - anhörigorganisation
+  - cancerförening
+  - gynekologisk cancer
+  - patientförening
+  web: https://gyncancerforbundet.se/gcf-stockholm-uppsala/
 
 - entry: 1233449014
   orgName: Stiftelsen Edvard Selanders Minnesfond
@@ -78382,6 +78625,16 @@ entries:
   - brukshundklubb
   - hundsport
   web: https://brukshundklubben.se/danderyd-taby-brukshundklubb/
+
+- entry: 1233547304
+  orgName: Mag- och Tarmförbundet
+  orgNumber: 857204-3522
+  comment: null
+  categories:
+  - anhörigorganisation
+  - förbund
+  - patientförening
+  web: https://magotarm.se/
 
 - entry: 1233547585
   orgName: Kvinnojouren Maria & Tjejjouren Mila
@@ -80997,6 +81250,17 @@ entries:
   - barnrättsorganisation
   web: https://www.inte1barntill.se/
 
+- entry: 1233666674
+  orgName: Nygårds Värdshus AB
+  orgNumber: 559209-4279
+  comment: null
+  categories:
+  - konferenslokaler
+  - lokaluthyrning
+  - restaurant
+  - värdshus
+  web: https://www.nygardsvardshus.se/
+
 - entry: 1233666781
   orgName: Vuojatvägens Vägsamfällighetsförening
   orgNumber: 717920-7209
@@ -82942,6 +83206,16 @@ entries:
   - ridsport
   - ryttarsällskap
   web: https://www.knoppelasensryttarsallskap.com/
+
+- entry: 1233780681
+  orgName: Stiftelsen Tjolöholm
+  orgNumber: 849400-4578
+  comment: null
+  categories:
+  - konferenslokaler
+  - restaurant
+  - stiftelse
+  web: https://www.tjoloholm.se/
 
 - entry: 1233781200
   orgName: null
@@ -85846,9 +86120,9 @@ entries:
   web: https://www.hembygd.se/moja
 
 - entry: 1233899952
-  orgName: Psoriasisförbundet
+  orgName: Svenska Psoriasisförbundet
   orgNumber: 802002-7283
-  comment: null
+  comment: Medlemsavgift
   categories:
   - intresseförening
   - patientförening
@@ -87373,6 +87647,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1233965100
+  orgName: Kvarteret Igor / Stadsrum Fastigheter Igor AB
+  orgNumber: 559028-9632
+  comment: Insamlingen Hjärtkassen
+  categories:
+  - donation
+  - välgörenhet
+  web: https://kvarteretigor.se/pa-gang/hjartkassen/
+
 - entry: 1233967445
   orgName: Västerbottens Kennelklubb
   orgNumber: 894001-5624
@@ -87977,6 +88260,17 @@ entries:
   - lokaltidning
   - tidsskrifter
   web: https://magazin24.se/
+
+- entry: 1233998150
+  orgName: Ålgrändens Ost & Deli
+  orgNumber: 556284-3846
+  comment: null
+  categories:
+  - butikshandel
+  - delikatess
+  - försäljning
+  - ostproduktion
+  web: https://algrandensost.se/
 
 - entry: 1233998358
   orgName: Tjejjouren Rut
@@ -89349,6 +89643,14 @@ entries:
   - friluftsliv
   - friskvård
   web: https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/hudiksvall/
+
+- entry: 1234082269
+  orgName: ILCO Tarm- uro- och stomiförbundet
+  orgNumber: 838200-9648
+  comment: null
+  categories:
+  - patientförening
+  web: https://www.ilco.nu/
 
 - entry: 1234082343
   orgName: Fjugesta IF
@@ -94049,6 +94351,16 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/Villstad/
+
+- entry: 1234303152
+  orgName: Blodsjukas förening i Södra Sjukvårdsregionen
+  orgNumber: 838800-6366
+  comment: null
+  categories:
+  - anhörigorganisation
+  - cancerförening
+  - patientförening
+  web: https://www.blodcancerforbundet.se/sodra/
 
 - entry: 1234303160
   orgName: Lidingö Församling
@@ -100733,6 +101045,17 @@ entries:
   - supporterklubb
   web: https://mjölkkossan.se/
 
+- entry: 1234643417
+  orgName: Gyncancerföreningen Västerbotten
+  orgNumber: 802498-4414
+  comment: null
+  categories:
+  - anhörigorganisation
+  - cancerförening
+  - gynekologisk cancer
+  - patientförening
+  web: https://gyncancerforbundet.se/gcf-vasterbotten/
+
 - entry: 1234643565
   orgName: Brännkyrka Församling
   orgNumber: 252000-0650
@@ -105373,6 +105696,15 @@ entries:
   - katthem
   web: https://www.kattraddarna.com/
 
+- entry: 1234917001
+  orgName: Gemzell Musik / Emelie Gemzell
+  orgNumber: 671224-XXXX
+  comment: null
+  categories:
+  - artist
+  - musik
+  web: https://www.gemzellmusik.se/
+
 - entry: 1234917019
   orgName: In Balance fot-& friskvård / Partnia AB
   orgNumber: 559164-3746
@@ -107557,7 +107889,7 @@ entries:
   orgNumber: 884401-7221
   comment: null
   categories:
-  - förening
+  - sockenförening
   web: https://www.solleron.se/
 
 - entry: 1235013917
@@ -110398,6 +110730,17 @@ entries:
   - kulturförening
   web: https://nyaahusparken.se/
 
+- entry: 1235127964
+  orgName: Gyncancerföreningen i Örebro
+  orgNumber: 802441-6755
+  comment: null
+  categories:
+  - anhörigorganisation
+  - cancerförening
+  - gynekologisk cancer
+  - patientförening
+  web: https://gyncancerforbundet.se/gcf-orebro/
+
 - entry: 1235127972
   orgName: Konga Folkets Hus
   orgNumber: 729500-1213
@@ -111482,6 +111825,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegardarna.se/siggaruds/
+
+- entry: 1235164728
+  orgName: SPF Seniorerna Ale
+  orgNumber: 802421-5462
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/norraalvsborg/foreningslista/ale/
 
 - entry: 1235164751
   orgName: Skärshults Fiskevårdsområdesförening
@@ -114597,12 +114948,13 @@ entries:
   web: https://www.uppsalahk.se/
 
 - entry: 1235310974
-  orgName: Parkinsonförbundet - Skaraborg
+  orgName: Parkinsonförbundet
   orgNumber: 868401-2514
-  comment: null
+  comment: Skaraborg
   categories:
-  - förening
+  - anhörigorganisation
   - intresseförening
+  - patientförening
   web: https://www.parkinsonforbundet.se/meny2/L%E4nsf%F6reningar/Skaraborg.html
 
 - entry: 1235311501
@@ -124581,6 +124933,16 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/vaxjocityfc
 
+- entry: 1235745401
+  orgName: Blodcancerföreningen i Uppsala Sjukvårdsregion
+  orgNumber: 817603-5775
+  comment: null
+  categories:
+  - anhörigorganisation
+  - cancerförening
+  - patientförening
+  web: https://www.blodcancerforbundet.se/uppsala/
+
 - entry: 1235745575
   orgName: Sveriges Egyptologiska Förening, ISIS
   orgNumber: 843002-0399
@@ -132806,6 +133168,16 @@ entries:
   - segelsällskap
   web: https://suss.y.se/
 
+- entry: 1236135818
+  orgName: Tammsvik Konferens och Herrgård AB
+  orgNumber: 556616-2243
+  comment: null
+  categories:
+  - hotell
+  - konferensanläggning
+  - konferenslokaler
+  web: https://www.happytammsvik.se/
+
 - entry: 1236138036
   orgName: SWB Örebro
   orgNumber: 802495-9143
@@ -137144,7 +137516,7 @@ entries:
   orgNumber: 829501-8793
   comment: null
   categories:
-  - patientförening
+  - celiakiförening
   web: https://www.celiaki.se/foreningar/kronobergs-lan/
 
 - entry: 1236327506
@@ -137356,11 +137728,11 @@ entries:
   orgNumber: 802417-7282
   comment: null
   categories:
-  - cancer
+  - anhörigorganisation
+  - cancerförening
   - gynekologisk cancer
-  - intresseförening
   - patientförening
-  web: https://www.gcfmariarosen.se/
+  web: https://gyncancerforbundet.se/gcf-vastmanland/
 
 - entry: 1236335830
   orgName: Sverige-Nepalföreningen, The Sweden Nepal Society
@@ -137498,11 +137870,12 @@ entries:
   web: https://www.svenskalag.se/iksturehov
 
 - entry: 1236339741
-  orgName: Hemlösas Julbord / Homeless Foundation
+  orgName: Homeless Foundation
   orgNumber: 802488-2873
-  comment: null
+  comment: Hemlösas Julbord
   categories:
-  - intresseförening
+  - hjälporganisation
+  - välgörenhet
   web: https://hemlosa.se/julbord/
 
 - entry: 1236340376
@@ -138970,7 +139343,7 @@ entries:
   web: https://www.svenskalag.se/gislovsif
 
 - entry: 1236408561
-  orgName: Romeleåsens GK
+  orgName: Romeleåsens Golfklubb
   orgNumber: 845002-2218
   comment: null
   categories:
@@ -139718,7 +140091,7 @@ entries:
   categories:
   - intresseförening
   - travsällskap
-  web: null
+  web: https://www.bollnastravet.com/
 
 - entry: 1236447536
   orgName: Fröjds Gröna / Mikael Nordlöf Fröjd
@@ -146247,6 +146620,14 @@ entries:
   - dykskola
   web: http://www.isbjornarna.com/
 
+- entry: 1236744726
+  orgName: Celiakiföreningen Gotland
+  orgNumber: 802526-4139
+  comment: null
+  categories:
+  - celiakiförening
+  web: https://www.celiaki.se/foreningar/gotlands-lan/
+
 - entry: 1236744999
   orgName: Bankeryds SK
   orgNumber: 826000-0180
@@ -150112,6 +150493,16 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.malmabygden.se/
+
+- entry: 1236910624
+  orgName: Blodcancerföreningen Värmland
+  orgNumber: 802539-2757
+  comment: null
+  categories:
+  - anhörigorganisation
+  - cancerförening
+  - patientförening
+  web: https://www.blodcancerforbundet.se/varmland/
 
 - entry: 1236910939
   orgName: PRO Örkelljunga
@@ -155280,7 +155671,7 @@ entries:
   web: https://www.blodcancerforbundet.se/blodcancerfonden
 
 - entry: 1239004235
-  orgName: Livslustfonden Cancer. För dig som har eller har haft cancer
+  orgName: Livslustfonden Cancer
   orgNumber: null
   comment: null
   categories:
