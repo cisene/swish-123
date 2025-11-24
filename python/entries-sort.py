@@ -141,6 +141,34 @@ def cloneVO(valueObject):
   return vo
 
 
+def addCategories(valueObject, categoriesList):
+  if "categories" not in valueObject:
+    valueObject['categories'] = []
+
+  categories_list = []
+
+  if valueObject['categories'] != None:
+    if len(valueObject['categories']) > 0:
+
+      # Iterate through list
+      for cat in valueObject['categories']:
+        cat_value = fulltrim(cat)
+        cat_value = cat_value.lower()
+        if cat_value not in categories_list:
+          categories_list.append(cat_value)
+
+      # Iterate through new list
+      for catli in categories_list:
+        cat_value = fulltrim(catli)
+        cat_value = cat_value.lower()
+        if cat_value not in categories_list:
+          categories_list.append(cat_value)
+
+  categories_list.sort()
+  valueObject['categories'] = categories_list
+
+  return valueObject
+
 def main():
   print(f"Reading source YAML: {YAML_SOURCE_FILE} ..")
   source_dict = readYAML(YAML_SOURCE_FILE)
@@ -181,6 +209,10 @@ def main():
         if(vo['orgName'] == "Svenska Röda Korset"):
           if("rödakorset" not in vo['categories']):
             vo['categories'].append("rödakorset")
+
+        if(re.search(r"^Prostatacancerföreningen", str(vo['orgName']), flags=re.IGNORECASE)):
+          categories = ['donation','patientförening','prostatacancer','prostatacancerförening']
+          vo = addCategories(vo, categories)
 
         dest_dict['entries'].append(cloneVO(vo))
         break
