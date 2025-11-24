@@ -210,13 +210,15 @@ def main():
           if("rödakorset" not in vo['categories']):
             vo['categories'].append("rödakorset")
 
-        if("kvinnojour" in vo['categories']):
-          categories = ['donation','kvinnojour']
-          vo = addCategories(vo, categories)
+        if(vo['categories'] != None):
 
-        if("transjour" in vo['categories']):
-          categories = ['donation','transjour']
-          vo = addCategories(vo, categories)
+          if("kvinnojour" in vo['categories']):
+            categories = ['donation','kvinnojour']
+            vo = addCategories(vo, categories)
+
+          if("transjour" in vo['categories']):
+            categories = ['donation','transjour']
+            vo = addCategories(vo, categories)
 
         if(re.search(r"^Prostatacancerföreningen", str(vo['orgName']), flags=re.IGNORECASE)):
           categories = ['donation','patientförening','prostatacancer','prostatacancerförening']
