@@ -116,7 +116,7 @@ def main():
       lo_orgName = dest_dict['organisations'][orgNumber]
 
       if str(lo_orgName) != str(entryVO['orgName']):
-        print(f"'{lo_orgName}' isn't equal to '{entryVO['orgName']}'")
+        print(f"{orgNumber}: '{lo_orgName}' isn't equal to '{entryVO['orgName']}'")
 
 
   #sorted(dest_dict)
