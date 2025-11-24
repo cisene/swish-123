@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-24-rev-233117
+Revision: 2025-11-24-rev-234551
 
-Nummer: 17155
+Nummer: 17156
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -81212,6 +81212,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Supporterklubben Röda Bollen**
 
     123 466 95 37
+
+
+
+
+**Supporterklubben Älgarna**
+
+    123 241 68 81 - Barncancerfonden
 
 
 

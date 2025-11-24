@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-11-24-rev-233057
+# Date: 2025-11-24-rev-234530
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4553,7 +4553,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231859495	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Silverdalsskolan
 1231859644	802438-2064	Luleå Skatepark / Luleå Extremsportförening	https://www.luleaskatepark.com/	extremsport,skateboard,skatepark	
 1231859867	802528-7155	Östra Aros Judoklubb	https://www.judoöa.se/	idrottsförening,judoklubb,kampsportsförening	
-1231860907	815200-9125	Blodcancerförbundet	https://www.blodcancerforbundet.se/	anhörigorganisation,cancerförening,patientförening	Sociala- och påverkansarbete
+1231860907	815200-9125	Blodcancerförbundet	https://www.blodcancerforbundet.se/	blodcancer,blodcancerförening,donation,patientförening	Sociala- och påverkansarbete
 1231864727	802540-0295	Smoke Rings Jazzklubb Mariestad	https://smokeringsjazzklubb.se/	jazzclub,kulturförening	
 1231864982	559380-8586	Hund och jakt i Dala-Järna AB	https://www.facebook.com/p/Hund-o-jakt-i-Dala-j%C3%A4rna-AB-100083047643176/	hundkurser,hundsport,nosework	
 1231865120	866000-3925	Töreboda Pistolskytteklubb	https://www.svenskalag.se/torebodapsk	pistolskytteklubb,skytteklubb,sportskytteklubb	
@@ -5147,7 +5147,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232129070	846003-5291	Rotary Malmö Södra	https://malmo-sodra.rotary2390.se/	rotaryklubb	
 1232131985	802512-2998	Rotary Lerum	https://lerum.rotary2360.se/	rotaryklubb	
 1232132256	849600-6514	Brottsofferjouren Varberg	https://www.brottsofferjouren.se/	brottsofferjour	
-1232132728	802503-2478	Blodcancerförbundet KBS	https://blodsjukdom.se/	patientförening	
+1232132728	802503-2478	Blodcancerförbundet KBS	https://blodsjukdom.se/	blodcancer,blodcancerförening,donation,patientförening	
 1232133437	802465-8455	Bifrostföreningen 34 Linneus Växjö	https://www.linneus.org/	förening,ordensällskap	
 1232134625	817605-3141	IK Sirius IBK	https://www.siriusinnebandy.se/	idrottsförening,innebandyklubb	
 1232134658	825000-8862	Dagsbergs IF	https://www.svenskalag.se/dagsbergsif	bordtennisklubb,fotbollsklubb,idrottsförening,motionsklubb	
@@ -5992,6 +5992,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232413987	802508-9403	Hallstaviks Fotoklubb, HFK	https://hallstaviksfotoklubb.wordpress.com/	fotoförening,fotoklubb	
 1232415982	802533-7778	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Dalarna, Liljanskolan
 1232415990	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Täby, Byängsskolan
+1232416881	802490-8496	Supporterklubben Älgarna	https://www.algarna.se/	supporterklubb	Barncancerfonden
 1232416964	802528-9359	Leksaksbiblioteket - Allmänna Arvsfonden	https://www.leksaksbiblioteket.se/	donation	
 1232419281	846000-3778	Pistolklubben Elbogen	https://www.pk-elbogen.se/	pistolskytteklubb,sportskytteklubb	
 1232419596	769604-7765	Galleri Hantverket	https://gallerihantverket.se/	konstförening,konstgalleri	
@@ -7507,7 +7508,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233079670	802456-9173	Ramsjö Skytteförening	https://ramsjoskf.se/	skytteklubb,sportskytteklubb	
 1233079696	802521-7467	Neuro Ung Med MS	https://ungmedms.com/	förening,patientförening	
 1233079704	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Kalmar, Waldorfskolan
-1233084662	802401-4824	Blodcancerföreningen i Stockholm	https://www.blodcancerforbundet.se/stockholm/	anhörigorganisation,cancerförening,patientförening	
+1233084662	802401-4824	Blodcancerföreningen i Stockholm	https://www.blodcancerforbundet.se/stockholm/	blodcancer,blodcancerförening,donation,patientförening	
 1233084829	556393-3075	Karmha Hud Hälsa Skönhet AB	https://karmhahudvard.se/	hudvård,hälsa,skönhetsvård	
 1233085503	802533-2217	Spårvägens Brasiliansk Jiu-Jitsu Förening	http://sparvagensbjj.se/	bjj,brasiliansk jiu-jitsu,idrottsförening,kampsportsförening	kläder, gi och övrigt
 1233085826	802459-0047	Lagga Hembygds- o Fornminnesförening	https://www.hembygd.se/lagga	fornminnesförening,hembygdsförening	
@@ -7515,7 +7516,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233086147	816400-3132	Danderyds SK Fotbollsförening	https://www.svenskalag.se/dsk-fotboll	fotbollsklubb,idrottsförening	P08
 1233086170	814800-7647	Sigtunabygdens Ryttarförening	https://www.sigtunaridskola.com/	ridklubb,ryttarförening	Medlemsavgift
 1233086543	802532-8397	Kvinnojouren i Ulricehamn	https://www.kvinnojourenulricehamn.se/	donation,kvinnojour	
-1233086550	894003-6711	Blodsjukas förening vid NUS, Umeå	https://www.blodcancerforbundet.se/nus/	anhörigorganisation,cancerforskning,cancerförening,patientförening	
+1233086550	894003-6711	Blodsjukas förening vid NUS, Umeå	https://www.blodcancerforbundet.se/nus/	blodcancer,blodcancerförening,donation,patientförening	
 1233087087	802000-4365	Svenska Bridgeförbundet	https://www.svenskbridge.se/	bridgeförbund,förbund	
 1233087145	716404-2751	Ytterby Samfällighetsförening 1	https://www.ytterby.info/	samfällighetsförening	
 1233088317	802429-2735	Borrelia och TBE föreningen	https://www.borrelia-tbe.se/	intresseförening	
@@ -9870,7 +9871,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234088076	822000-7978	Vreta Klosters Hembygdsförening	https://www.hembygd.se/vreta-klosters-hembygdsforening	hembygdsförening	
 1234088282	802016-7246	Sigvard och Marianne Bernadottes Forskningsstiftelse för Barnögonvård	https://www.bernadottestiftelsen.se/	forskning,stiftelse	
 1234088563	802001-8266	Konserthuset Stockholm / Stockholms Konserthusstiftelse	https://www.konserthuset.se/	kultur,musik,stiftelse	
-1234090072	802005-3370	Cancerfonden	https://www.cancerfonden.se/	cancerförening,godkänd gåvomottagare,intresseförening	Rosabandetkampanjen
+1234090072	802005-3370	Cancerfonden	https://www.cancerfonden.se/	cancerförening,donation,godkänd gåvomottagare,intresseförening	Rosabandetkampanjen
 1234090205	630309-XXXX	Åsa Hagberg - Författare, föreläsare och psalmist	https://www.asahagberg.se/	bokutgivning,författare	
 1234090247	814401-0520	SIF Norrtelje	https://www.svenskalag.se/SIFNorrtelje	bandyklubb,fotbollsklubb,friskvård,idrottsförening	
 1234090346	844000-2429	Svalövs BK	https://www.laget.se/SvalovBK/	fotbollsklubb,idrottsförening	
@@ -10373,7 +10374,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234300711	802529-9739	Djurens Vänner	https://www.djurensvanner.se/tranas/	djurskydd	Tranås
 1234302345	802402-5986	Stadsbrudskåren	https://stadsbrudskaren.se/	donation,välgörenhet	
 1234302600	802469-8378	SPF Seniorerna Villstad	https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/Villstad/	pensionärsklubb	
-1234303152	838800-6366	Blodsjukas förening i Södra Sjukvårdsregionen	https://www.blodcancerforbundet.se/sodra/	anhörigorganisation,cancerförening,patientförening	
+1234303152	838800-6366	Blodsjukas förening i Södra Sjukvårdsregionen	https://www.blodcancerforbundet.se/sodra/	blodcancer,blodcancerförening,donation,patientförening	
 1234303160	252000-0965	Lidingö Församling	https://lidingoforsamling.se/	religion	ACT
 1234303665	832800-6120	Riksförbundet HjärtLung	https://www.hjart-lung.se/foreningar/kalmar-lan/lokalforeningar/oskarshamn/	anhörigorganisation,intresseförening,patientförening,riksförbund	Oskarshamn
 1234303954	802516-1244	Kvinnohistoriska Sällskapet	https://www.kvinnohistoriska.se/	historiesällskap,intresseförening	
@@ -13722,7 +13723,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235742937	802440-9552	Club Corvette Sweden	https://clubcorvette.se/racing/	bilklubb,bilsport	Sektion Racing
 1235743869	802012-8297	Sveriges Släktforskarförbund	https://www.rotter.se/	genealogi,släktforskning	
 1235743984	802541-1045	Växjö City FC	https://www.svenskalag.se/vaxjocityfc	fotbollsklubb,idrottsförening	
-1235745401	817603-5775	Blodcancerföreningen i Uppsala Sjukvårdsregion	https://www.blodcancerforbundet.se/uppsala/	anhörigorganisation,cancerförening,patientförening	
+1235745401	817603-5775	Blodcancerföreningen i Uppsala Sjukvårdsregion	https://www.blodcancerforbundet.se/uppsala/	blodcancer,blodcancerförening,donation,patientförening	
 1235745575	843002-0399	Sveriges Egyptologiska Förening, ISIS	https://isishelsingborg.se/	historieförening,kulturförening	
 1235748116	802410-3072	AIK-Tifo	https://aiktifo.se/	supporterklubb	SOL INVICTUS
 1235748421	802417-3828	Samverkarna i Östernärke	https://samverkarna.se/	intresseorganisation	

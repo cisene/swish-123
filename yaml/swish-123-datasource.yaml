@@ -40547,8 +40547,9 @@ entries:
   orgNumber: 815200-9125
   comment: Sociala- och påverkansarbete
   categories:
-  - anhörigorganisation
-  - cancerförening
+  - blodcancer
+  - blodcancerförening
+  - donation
   - patientförening
   web: https://www.blodcancerforbundet.se/
 
@@ -45932,6 +45933,9 @@ entries:
   orgNumber: 802503-2478
   comment: null
   categories:
+  - blodcancer
+  - blodcancerförening
+  - donation
   - patientförening
   web: https://blodsjukdom.se/
 
@@ -53463,6 +53467,14 @@ entries:
   - hjärnforskning
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1232416881
+  orgName: Supporterklubben Älgarna
+  orgNumber: 802490-8496
+  comment: Barncancerfonden
+  categories:
+  - supporterklubb
+  web: https://www.algarna.se/
 
 - entry: 1232416964
   orgName: Leksaksbiblioteket - Allmänna Arvsfonden
@@ -67084,8 +67096,9 @@ entries:
   orgNumber: 802401-4824
   comment: null
   categories:
-  - anhörigorganisation
-  - cancerförening
+  - blodcancer
+  - blodcancerförening
+  - donation
   - patientförening
   web: https://www.blodcancerforbundet.se/stockholm/
 
@@ -67159,9 +67172,9 @@ entries:
   orgNumber: 894003-6711
   comment: null
   categories:
-  - anhörigorganisation
-  - cancerforskning
-  - cancerförening
+  - blodcancer
+  - blodcancerförening
+  - donation
   - patientförening
   web: https://www.blodcancerforbundet.se/nus/
 
@@ -88202,6 +88215,7 @@ entries:
   comment: Rosabandetkampanjen
   categories:
   - cancerförening
+  - donation
   - godkänd gåvomottagare
   - intresseförening
   web: https://www.cancerfonden.se/
@@ -92678,8 +92692,9 @@ entries:
   orgNumber: 838800-6366
   comment: null
   categories:
-  - anhörigorganisation
-  - cancerförening
+  - blodcancer
+  - blodcancerförening
+  - donation
   - patientförening
   web: https://www.blodcancerforbundet.se/sodra/
 
@@ -122841,8 +122856,9 @@ entries:
   orgNumber: 817603-5775
   comment: null
   categories:
-  - anhörigorganisation
-  - cancerförening
+  - blodcancer
+  - blodcancerförening
+  - donation
   - patientförening
   web: https://www.blodcancerforbundet.se/uppsala/
 
