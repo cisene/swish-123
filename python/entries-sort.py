@@ -221,9 +221,14 @@ def main():
             categories = ['donation','transjour']
             vo = addCategories(vo, categories)
 
-        if(re.search(r"^Prostatacancerföreningen", str(vo['orgName']), flags=re.IGNORECASE)):
+        if(re.search(r"^Prostatacancerförening", str(vo['orgName']), flags=re.IGNORECASE)):
           categories = ['donation','patientförening','prostatacancer','prostatacancerförening']
           vo = addCategories(vo, categories)
+
+        if(re.search(r"^Bröstcancerförening", str(vo['orgName']), flags=re.IGNORECASE)):
+          categories = ['bröstcancer','bröstcancerförening','donation','patientförening']
+          vo = addCategories(vo, categories)
+
 
         dest_dict['entries'].append(cloneVO(vo))
         break
