@@ -198,17 +198,18 @@ def main():
   entry_list.sort()
   print("... sorted")
 
+  print("Adding categories ...")
   for entry in entry_list:
     for vo in source_dict['entries']:
       if str(entry) == str(vo['entry']):
 
-        if(vo['orgName'] == "Team Rynkeby"):
-          if("team rynkeby" not in vo['categories']):
-            vo['categories'].append("team rynkeby")
+        #if(vo['orgName'] == "Team Rynkeby"):
+        #  if("team rynkeby" not in vo['categories']):
+        #    vo['categories'].append("team rynkeby")
 
-        if(vo['orgName'] == "Svenska Röda Korset"):
-          if("rödakorset" not in vo['categories']):
-            vo['categories'].append("rödakorset")
+        #if(vo['orgName'] == "Svenska Röda Korset"):
+        #  if("rödakorset" not in vo['categories']):
+        #    vo['categories'].append("rödakorset")
 
         if(vo['categories'] != None):
 
@@ -226,6 +227,8 @@ def main():
 
         dest_dict['entries'].append(cloneVO(vo))
         break
+
+  print("... added")
 
   # Count entries
   dest_dict_count = len(dest_dict['entries'])
