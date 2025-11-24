@@ -4379,6 +4379,17 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sala
 
+- entry: 1230224022
+  orgName: Prostatacancerföreningen Jämtgubben
+  orgNumber: 802414-8374
+  comment: null
+  categories:
+  - donation
+  - patientförening
+  - prostatacancer
+  - prostatacancerförening
+  web: https://prostatacancerforbundet.se/om-oss/patientforeningar/jamtland-harjedalen/jamtgubben/
+
 - entry: 1230224121
   orgName: Billesholms IK
   orgNumber: 843000-9160
@@ -13038,6 +13049,17 @@ entries:
   - religion
   web: https://pingstkyrkankarlskrona.se/
 
+- entry: 1230610030
+  orgName: Prostatacancerföreningen Guldgubben
+  orgNumber: 894702-2052
+  comment: null
+  categories:
+  - donation
+  - patientförening
+  - prostatacancer
+  - prostatacancerförening
+  web: https://prostatacancerforbundet.se/guldgubben/
+
 - entry: 1230610303
   orgName: Laxarby och Vårviks Kyrka
   orgNumber: 252003-7355
@@ -14918,13 +14940,14 @@ entries:
   web: https://021grappling.se/
 
 - entry: 1230711184
-  orgName: Provitae Östra Skånes Prostataförening
+  orgName: Prostatacancerföreningen Provitae Östra Skåne
   orgNumber: 838201-9910
   comment: null
   categories:
-  - cancer
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/skane/provitae/
 
 - entry: 1230711358
@@ -20488,14 +20511,14 @@ entries:
   web: https://www.svenskakyrkan.se/hoks-pastorat
 
 - entry: 1230924555
-  orgName: Prostataföreningen Gävleborg
+  orgName: Prostatacancerföreningen Gävleborg
   orgNumber: 802435-9955
   comment: null
   categories:
-  - anhörigorganisation
-  - cancerförening
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/prostataf-gavleborg/
 
 - entry: 1230924571
@@ -20511,6 +20534,8 @@ entries:
   orgNumber: 802470-3269
   comment: null
   categories:
+  - barnsjukvård
+  - barnverksamhet
   - donation
   web: https://clownclubben.se/
 
@@ -47712,13 +47737,14 @@ entries:
   web: https://skpf53.se/
 
 - entry: 1232202869
-  orgName: ProLivskvalitet
+  orgName: Prostatacancerföreningen ProLivskvalitet
   orgNumber: 843003-3004
   comment: null
   categories:
-  - cancer
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/skane/prolivskvalitet/
 
 - entry: 1232203040
@@ -54371,6 +54397,17 @@ entries:
   categories:
   - religion
   web: https://www.slattenkyrkan.se/
+
+- entry: 1232494169
+  orgName: Prostatacancerföreningen ProLiv Jönköping
+  orgNumber: 802429-5662
+  comment: null
+  categories:
+  - donation
+  - patientförening
+  - prostatacancer
+  - prostatacancerförening
+  web: https://prostatacancerforbundet.se/om-oss/patientforeningar/jonkopings-lan/proliv-jonkoping
 
 - entry: 1232494177
   orgName: Bostadsrättsföreningen Äppelträdet
@@ -65989,6 +66026,7 @@ entries:
   orgNumber: 894000-0543
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.umgk.se/
 
@@ -66488,11 +66526,10 @@ entries:
   orgNumber: 802518-3602
   comment: null
   categories:
-  - cancer
-  - forskning
-  - förening
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/prostatacancerforeningen-skaraborg/
 
 - entry: 1233057684
@@ -75111,9 +75148,10 @@ entries:
   orgNumber: 802436-8485
   comment: null
   categories:
-  - anhörigorganisation
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/viktor/
 
 - entry: 1233464013
@@ -75607,9 +75645,10 @@ entries:
   orgNumber: 802413-9654
   comment: null
   categories:
-  - anhörigorganisation
-  - intresseförening
+  - donation
   - patientförening
+  - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancer.appsite.se/om-oss/patientforeningar/skane/prostatacancerforeningen-syd/
 
 - entry: 1233485315
@@ -80743,8 +80782,10 @@ entries:
   orgNumber: 802435-8346
   comment: null
   categories:
-  - intresseförening
+  - donation
   - patientförening
+  - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/norrbotten/prostatacancerforeningen-norrsken/
 
 - entry: 1233718905
@@ -88230,8 +88271,10 @@ entries:
   orgNumber: 802428-4526
   comment: null
   categories:
-  - anhörigorganisation
+  - donation
+  - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/kalmar-lan/prostatacancerforeningen-more/
 
 - entry: 1234105128
@@ -90548,9 +90591,10 @@ entries:
   orgNumber: 802420-3948
   comment: null
   categories:
-  - cancer
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/varmland/prostatacancerforeningen-varmland/
 
 - entry: 1234205332
@@ -93660,12 +93704,14 @@ entries:
   web: https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/spf-seniorerna-askimhovas/
 
 - entry: 1234379541
-  orgName: Patientföreningen T-Pro
+  orgName: Prostatacancerföreningen T-Pro
   orgNumber: 875003-5118
   comment: null
   categories:
-  - cancerförening
+  - donation
   - patientförening
+  - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/orebro-lan/t-pro/
 
 - entry: 1234382024
@@ -100369,12 +100415,14 @@ entries:
   web: https://www.svenskakyrkan.se/Frustuna
 
 - entry: 1234691200
-  orgName: Näckrosbröderna
+  orgName: Prostatacancerföreningen Näckrosbröderna
   orgNumber: 802433-5161
   comment: null
   categories:
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/sormland/nackrosbroderna/
 
 - entry: 1234691507
@@ -102345,14 +102393,14 @@ entries:
   web: https://www.immelnsbatklubb.se/
 
 - entry: 1234813051
-  orgName: Prostatabröderna, Stockholm
+  orgName: Prostatacancerföreningen Prostatabröderna Stockholm
   orgNumber: 802400-4890
   comment: null
   categories:
-  - anhörigorganisation
-  - cancerförening
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/prostatabroderna/
 
 - entry: 1234814000
@@ -103902,6 +103950,17 @@ entries:
   categories:
   - spelförening
   web: https://kodachikai.se/
+
+- entry: 1234933107
+  orgName: Prostatacancerföreningen Gotland
+  orgNumber: 802418-1110
+  comment: null
+  categories:
+  - donation
+  - patientförening
+  - prostatacancer
+  - prostatacancerförening
+  web: https://prostatacancerforbundet.se/om-oss/patientforeningar/gotland/gotlands-prostatacancerforening/
 
 - entry: 1234933529
   orgName: Hånger Hembygdsförening
@@ -109413,9 +109472,10 @@ entries:
   orgNumber: 855100-0683
   comment: null
   categories:
-  - cancer
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/proliv-vast/
 
 - entry: 1235151642
@@ -113774,6 +113834,17 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://morkarlabygdegard.se/
+
+- entry: 1235356258
+  orgName: Prostatacancerföreningen Arosgubben
+  orgNumber: 817607-0913
+  comment: null
+  categories:
+  - donation
+  - patientförening
+  - prostatacancer
+  - prostatacancerförening
+  web: https://prostatacancerforbundet.se/om-oss/patientforeningar/vastmanland/arosgubben/
 
 - entry: 1235356449
   orgName: Gefle IF Fotbollsförening
@@ -118806,8 +118877,10 @@ entries:
   orgNumber: 824001-1315
   comment: null
   categories:
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/ostergotland/pcf-ost/
 
 - entry: 1235570643
@@ -126756,10 +126829,10 @@ entries:
   orgNumber: 802427-8361
   comment: null
   categories:
-  - anhörigorganisation
-  - cancerförening
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/uppsala/prostatacancerforeningen-i-uppsala-lan/
 
 - entry: 1235943659
@@ -130689,6 +130762,14 @@ entries:
   - ridklubb
   web: https://www.swborebro.com/
 
+- entry: 1236138390
+  orgName: Restaurang Umeå Golfklubb / O'Learys Umeå AB
+  orgNumber: 556776-8006
+  comment: null
+  categories:
+  - restaurant
+  web: https://umgk.se/golfrestaurang-umea-golfklubb/
+
 - entry: 1236139745
   orgName: Västerås IK Ungdom
   orgNumber: 878000-6055
@@ -130921,9 +131002,10 @@ entries:
   orgNumber: 802428-6968
   comment: null
   categories:
-  - anhörigorganisation
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/dalarna/
 
 - entry: 1236146328
@@ -131203,8 +131285,10 @@ entries:
   orgNumber: 802429-9276
   comment: null
   categories:
-  - cancerförening
+  - donation
   - patientförening
+  - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/pcfikalmarlan/
 
 - entry: 1236155949
@@ -132697,8 +132781,10 @@ entries:
   orgNumber: 889203-0886
   comment: null
   categories:
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/om-oss/patientforeningar/vasternorrland/prostatacancerforeningen-trapatronerna/
 
 - entry: 1236213680
@@ -142684,14 +142770,14 @@ entries:
   web: https://www.svenskakyrkan.se/linkoping
 
 - entry: 1236689756
-  orgName: Prostataföreningen Betula
+  orgName: Prostatacancerföreningen Betula
   orgNumber: 802429-7478
   comment: null
   categories:
-  - anhörigorganisation
-  - cancerförening
+  - donation
   - patientförening
   - prostatacancer
+  - prostatacancerförening
   web: https://prostatacancerforbundet.se/umea/
 
 - entry: 1236689962
@@ -149837,11 +149923,11 @@ entries:
 - entry: 1239001017
   orgName: Prostatacancerförbundet
   orgNumber: 857209-1422
-  comment: null
+  comment: Mustaschkampen
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
-  web: https://www.prostatacancerforbundet.se/
+  web: https://www.mustaschkampen.se/
 
 - entry: 1239001066
   orgName: Djurskyddet Sverige
@@ -151757,6 +151843,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
+  - prostatacancer
   web: https://www.prostatacancerforbundet.se/
 
 - entry: 1239006099

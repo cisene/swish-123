@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-24-rev-210319
+Revision: 2025-11-24-rev-223301
 
-Nummer: 17149
+Nummer: 17155
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -58642,13 +58642,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Näckrosbröderna**
-
-    123 469 12 00
-
-
-
-
 **Näldens Idrottsförening**
 
     123 196 36 44
@@ -60803,13 +60796,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Patientföreningen Lymf**
 
     123 540 25 08
-
-
-
-
-**Patientföreningen T-Pro**
-
-    123 437 95 41
 
 
 
@@ -64131,23 +64117,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**ProLivskvalitet**
-
-    123 220 28 69
-
-
-
-
-**Prostatabröderna, Stockholm**
-
-    123 481 30 51
-
-
-
-
 **Prostatacancerförbundet**
 
-    123 900 10 17
+    123 900 10 17 - Mustaschkampen
 
     123 900 60 81
 
@@ -64156,9 +64128,44 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Prostatacancerföreningen Arosgubben**
+
+    123 535 62 58
+
+
+
+
+**Prostatacancerföreningen Betula**
+
+    123 668 97 56
+
+
+
+
 **Prostatacancerföreningen Dalarna**
 
     123 614 62 45
+
+
+
+
+**Prostatacancerföreningen Gotland**
+
+    123 493 31 07
+
+
+
+
+**Prostatacancerföreningen Guldgubben**
+
+    123 061 00 30
+
+
+
+
+**Prostatacancerföreningen Gävleborg**
+
+    123 092 45 55
 
 
 
@@ -64177,6 +64184,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Prostatacancerföreningen Jämtgubben**
+
+    123 022 40 22
+
+
+
+
 **Prostatacancerföreningen Möre**
 
     123 410 50 37
@@ -64191,9 +64205,44 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Prostatacancerföreningen Näckrosbröderna**
+
+    123 469 12 00
+
+
+
+
+**Prostatacancerföreningen ProLiv Jönköping**
+
+    123 249 41 69
+
+
+
+
 **Prostatacancerföreningen ProLiv Väst**
 
     123 515 13 11
+
+
+
+
+**Prostatacancerföreningen ProLivskvalitet**
+
+    123 220 28 69
+
+
+
+
+**Prostatacancerföreningen Prostatabröderna Stockholm**
+
+    123 481 30 51
+
+
+
+
+**Prostatacancerföreningen Provitae Östra Skåne**
+
+    123 071 11 84
 
 
 
@@ -64208,6 +64257,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Prostatacancerföreningen Syd**
 
     123 348 53 07
+
+
+
+
+**Prostatacancerföreningen T-Pro**
+
+    123 437 95 41
 
 
 
@@ -64240,30 +64296,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Prostataföreningen Betula**
-
-    123 668 97 56
-
-
-
-
-**Prostataföreningen Gävleborg**
-
-    123 092 45 55
-
-
-
-
 **Protect Our Winters Sweden**
 
     123 079 57 73
-
-
-
-
-**Provitae Östra Skånes Prostataförening**
-
-    123 071 11 84
 
 
 
@@ -65289,6 +65324,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Restaurang Thai Corner AB**
 
     123 141 02 57
+
+
+
+
+**Restaurang Umeå Golfklubb / O'Learys Umeå AB**
+
+    123 613 83 90
 
 
 
