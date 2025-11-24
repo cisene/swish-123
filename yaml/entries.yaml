@@ -5730,6 +5730,15 @@ entries:
   - triathlonklubb
   web: https://www.svenskalag.se/trifitif
 
+- entry: 1230277137
+  orgName: Strokeföreningen Värend
+  orgNumber: 802450-2679
+  comment: null
+  categories:
+  - patientförening
+  - strokeförening
+  web: https://strokeforbundet.se/varend/
+
 - entry: 1230277210
   orgName: Enköpings Fotoklubb, EFK
   orgNumber: 802515-1336
@@ -7691,7 +7700,7 @@ entries:
   web: https://www.svenskakyrkan.se/leksandspastorat
 
 - entry: 1230346775
-  orgName: Söråkers Folkets Hus Förening
+  orgName: Söråkers Folkets Hus
   orgNumber: 789200-4826
   comment: null
   categories:
@@ -8494,13 +8503,13 @@ entries:
   web: https://hörbypsk.se/
 
 - entry: 1230389544
-  orgName: Strokeföreningen i Stockholms län
+  orgName: Strokeföreningen Stockholms län
   orgNumber: 802438-4912
   comment: null
   categories:
-  - anhörigorganisation
   - patientorganisation
-  web: https://stockholmlan.strokeforbundet.se/
+  - strokeförening
+  web: https://strokeforbundet.se/stockholms-lan/
 
 - entry: 1230389932
   orgName: Team Rynkeby
@@ -9663,7 +9672,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
+  - bröstcancerförening
   - donation
+  - patientförening
   web: https://halland.brostcancerforbundet.se/
 
 - entry: 1230429324
@@ -9777,8 +9788,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
-  - cancer
-  - förening
+  - bröstcancerförening
+  - donation
+  - patientförening
   web: https://uppsala.brostcancerforbundet.se/
 
 - entry: 1230438143
@@ -10639,10 +10651,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
-  - cancer
-  - förbund
-  - förening
-  - intresseförening
+  - bröstcancerförening
+  - donation
+  - patientförening
   web: https://helsingborg.brostcancerforbundet.se/
 
 - entry: 1230483651
@@ -10661,7 +10672,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
+  - bröstcancerförening
   - donation
+  - patientförening
   web: https://alingsas.brostcancerforbundet.se/
 
 - entry: 1230483909
@@ -15620,13 +15633,13 @@ entries:
   web: https://tagelfashion.weebly.com/
 
 - entry: 1230726349
-  orgName: Stroke - Länsföreningen Jämtland och Härjedalen
+  orgName: Strokeföreningen Jämtland Härjedalen
   orgNumber: 802449-5072
   comment: null
   categories:
-  - förening
   - patientförening
-  web: http://www.strokez.se/
+  - strokeförening
+  web: https://strokeforbundet.se/jamtland-harjedalen/
 
 - entry: 1230726422
   orgName: Hossmo Sockens Hembygdsförening
@@ -18045,6 +18058,17 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/stenungsund
 
+- entry: 1230826636
+  orgName: Bröstcancerföreningen Kronoberg
+  orgNumber: 829501-9023
+  comment: null
+  categories:
+  - bröstcancer
+  - bröstcancerförening
+  - donation
+  - patientförening
+  web: https://kronoberg.brostcancerforbundet.se/
+
 - entry: 1230832709
   orgName: Tvååkers IF
   orgNumber: 849600-2562
@@ -18186,6 +18210,17 @@ entries:
   - idrottsförening
   - simklubb
   web: https://www.sktriton.se/
+
+- entry: 1230835082
+  orgName: Bröstcancerföreningen Olivia Medelpad
+  orgNumber: 889201-2678
+  comment: null
+  categories:
+  - bröstcancer
+  - bröstcancerförening
+  - donation
+  - patientförening
+  web: https://medelpad.brostcancerforbundet.se/
 
 - entry: 1230835181
   orgName: BIK Karlskoga Ungdom
@@ -25272,6 +25307,17 @@ entries:
   - intresseförening
   web: https://hejframling.se/
 
+- entry: 1231135201
+  orgName: Bröstcancerföreningen Västmanland
+  orgNumber: 802474-4339
+  comment: null
+  categories:
+  - bröstcancer
+  - bröstcancerförening
+  - donation
+  - patientförening
+  web: https://vastmanland.brostcancerforbundet.se/
+
 - entry: 1231135508
   orgName: Stäkets Idrottsförening
   orgNumber: 802412-3450
@@ -26812,8 +26858,9 @@ entries:
   orgNumber: 873201-7168
   comment: null
   categories:
-  - anhörigorganisation
   - bröstcancer
+  - bröstcancerförening
+  - donation
   - patientförening
   web: https://varmland.brostcancerforbundet.se/
 
@@ -34138,6 +34185,17 @@ entries:
   - bostadsrättsförening
   web: https://brfhagaterrassen1.bostadsratterna.se/
 
+- entry: 1231522077
+  orgName: Bröstcancerföreningen Blåkulla Oskarshamn
+  orgNumber: 802432-5527
+  comment: null
+  categories:
+  - bröstcancer
+  - bröstcancerförening
+  - donation
+  - patientförening
+  web: https://oskarshamn.brostcancerforbundet.se/
+
 - entry: 1231522085
   orgName: Frösö Hästgård AB
   orgNumber: 559168-1480
@@ -36656,6 +36714,15 @@ entries:
   - simklubb
   - simsällskap
   web: https://www.jarfallasim.org/
+
+- entry: 1231643618
+  orgName: F 17 Kamratförening
+  orgNumber: 835600-1266
+  comment: null
+  categories:
+  - försvarsorganisation
+  - kamratförening
+  web: https://www.f17kamratforening.se/
 
 - entry: 1231644673
   orgName: Sörbygdens Buss AB
@@ -39924,6 +39991,17 @@ entries:
   - skidsportanläggning
   - skoterledbevis
   web: https://hemavan.nu/skoter/
+
+- entry: 1231794346
+  orgName: Bröstcancerföreningen Viktoria Ängelholm
+  orgNumber: 802459-9691
+  comment: null
+  categories:
+  - bröstcancer
+  - bröstcancerförening
+  - donation
+  - patientförening
+  web: https://angelholm.brostcancerforbundet.se/
 
 - entry: 1231794601
   orgName: Söderköpings Gästabud Ekonomisk Förening
@@ -44092,7 +44170,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
+  - bröstcancerförening
   - donation
+  - patientförening
   web: https://skaraborg.brostcancerforbundet.se/
 
 - entry: 1231993716
@@ -45575,6 +45655,17 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegarden.sturefors.se/
+
+- entry: 1232075521
+  orgName: Bröstcancerföreningen Ådalen
+  orgNumber: 888800-5454
+  comment: null
+  categories:
+  - bröstcancer
+  - bröstcancerförening
+  - donation
+  - patientförening
+  web: https://adalen.brostcancerforbundet.se/
 
 - entry: 1232076222
   orgName: Infensus Medeltidsförening
@@ -48414,6 +48505,17 @@ entries:
   - religion
   web: https://www.linkopingmoske.se/
 
+- entry: 1232193902
+  orgName: Bröstcancerföreningen Aurora Sörmland
+  orgNumber: 818001-1739
+  comment: null
+  categories:
+  - bröstcancer
+  - bröstcancerförening
+  - donation
+  - patientförening
+  web: https://sormland.brostcancerforbundet.se/
+
 - entry: 1232193951
   orgName: Sandåkerns Sportklubb
   orgNumber: 894000-1566
@@ -51172,6 +51274,15 @@ entries:
   - religion
   web: https://lifecenter.se/
 
+- entry: 1232287241
+  orgName: F 17 Kamratförening
+  orgNumber: 835600-1266
+  comment: Medlemsavgift
+  categories:
+  - försvarsorganisation
+  - kamratförening
+  web: https://www.f17kamratforening.se/
+
 - entry: 1232287456
   orgName: Binnebergs Tingshus Stiftelsen
   orgNumber: 866600-4810
@@ -52528,6 +52639,15 @@ entries:
   - humanitär hjälpverksamhet
   - ukraina
   web: https://refugeehope.eu/en/
+
+- entry: 1232333649
+  orgName: Strokeföreningen Värmlands län
+  orgNumber: 802547-6709
+  comment: null
+  categories:
+  - patientförening
+  - strokeförening
+  web: https://strokeforbundet.se/varmlandslan/
 
 - entry: 1232334639
   orgName: Skicka vidare till Ukraina
@@ -58479,6 +58599,15 @@ entries:
   - religion
   web: https://www.strandhem.nu/
 
+- entry: 1232655926
+  orgName: Strokeföreningen Enköping
+  orgNumber: 802428-7495
+  comment: null
+  categories:
+  - patientförening
+  - strokeförening
+  web: https://strokeforbundet.se/enkoping/
+
 - entry: 1232656189
   orgName: Fridens Hälsa AB
   orgNumber: 559100-1952
@@ -60119,8 +60248,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
-  - cancerforskning
-  - cancerförening
+  - bröstcancerförening
+  - donation
+  - patientförening
   web: https://goteborg.brostcancerforbundet.se/
 
 - entry: 1232711612
@@ -62201,7 +62331,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
+  - bröstcancerförening
   - donation
+  - patientförening
   web: https://dalsland.brostcancerforbundet.se/
 
 - entry: 1232796910
@@ -63871,6 +64003,14 @@ entries:
   - stuguthyrning
   web: https://www.norrskenlodge.com/
 
+- entry: 1232874592
+  orgName: Insamlingsstiftelsen Strokeforskningen Norrland
+  orgNumber: 894003-3577
+  comment: Strokeforskning
+  categories:
+  - strokeforskning
+  web: https://www.strokeforskningnorrland.se/
+
 - entry: 1232875557
   orgName: Hällaryds IF
   orgNumber: 836200-0633
@@ -64925,6 +65065,15 @@ entries:
   - folkmusik
   - spelmansgille
   web: https://folkdansringen.se/kullagillet/
+
+- entry: 1232918951
+  orgName: Strokeföreningen Umeå
+  orgNumber: 802471-0249
+  comment: null
+  categories:
+  - patientförening
+  - strokeförening
+  web: https://strokeforbundet.se/umea/
 
 - entry: 1232919280
   orgName: Uppåkra Församling
@@ -74275,6 +74424,16 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/tychobraheljungbyhed/
 
+- entry: 1233375078
+  orgName: Renates Bageri & Restaurang AB
+  orgNumber: 556969-4655
+  comment: null
+  categories:
+  - bageri
+  - konditori
+  - restaurant
+  web: https://www.renatesbageri.se/
+
 - entry: 1233375359
   orgName: Rasklubben för Gos D'atura Catalá
   orgNumber: 802436-5853
@@ -74960,7 +75119,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
+  - bröstcancerförening
   - donation
+  - patientförening
   web: https://norrbotten.brostcancerforbundet.se/
 
 - entry: 1233395175
@@ -81067,6 +81228,17 @@ entries:
   - hjälporganisation
   web: https://sverigeforunhcr.se/
 
+- entry: 1233658192
+  orgName: Bröstcancerföreningen Malmöhus
+  orgNumber: 846003-8907
+  comment: null
+  categories:
+  - bröstcancer
+  - bröstcancerförening
+  - donation
+  - patientförening
+  web: https://malmohus.brostcancerforbundet.se/
+
 - entry: 1233658614
   orgName: Bostadsrättsföreningen Frögårdarna i Skellefteå
   orgNumber: 716415-1644
@@ -86068,7 +86240,9 @@ entries:
   orgNumber: 802422-6634
   comment: null
   categories:
-  - cancerförening
+  - bröstcancer
+  - bröstcancerförening
+  - donation
   - patientförening
   web: https://ornskoldsvik.brostcancerforbundet.se/
 
@@ -91871,7 +92045,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
+  - bröstcancerförening
   - donation
+  - patientförening
   web: https://blekinge.brostcancerforbundet.se/
 
 - entry: 1234194197
@@ -96072,6 +96248,16 @@ entries:
   categories:
   - hjälporganisation
   web: https://acting4change.org/
+
+- entry: 1234407136
+  orgName: Hjortsbergagården
+  orgNumber: 802473-0403
+  comment: null
+  categories:
+  - konferenslokaler
+  - logi
+  - religion
+  web: https://www.hjortsbergagarden.se/
 
 - entry: 1234407367
   orgName: DK Rocksulan - Danssport
@@ -109260,11 +109446,12 @@ entries:
   web: https://www.aaislandshast.com/
 
 - entry: 1235094263
-  orgName: null
-  orgNumber: null
+  orgName: Sotnosen AB
+  orgNumber: 556936-0794
   comment: null
-  categories: null
-  web: null
+  categories:
+  - terminated
+  web: http://www.sotnosenskorvar.se/
 
 - entry: 1235094669
   orgName: SK Lejon Skellefteå
@@ -111117,7 +111304,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
+  - bröstcancerförening
   - donation
+  - patientförening
   web: https://stockholm.brostcancerforbundet.se/
 
 - entry: 1235142054
@@ -114330,8 +114519,9 @@ entries:
   orgNumber: 885001-3197
   comment: null
   categories:
-  - anhörigorganisation
   - bröstcancer
+  - bröstcancerförening
+  - donation
   - patientförening
   web: https://gavleborg.brostcancerforbundet.se/
 
@@ -114926,6 +115116,15 @@ entries:
   comment: null
   categories: null
   web: null
+
+- entry: 1235306568
+  orgName: MSPS Skytteklubb
+  orgNumber: 802527-4583
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  web: http://www.msipsc.se/
 
 - entry: 1235306725
   orgName: Team Rynkeby
@@ -118602,6 +118801,15 @@ entries:
   - synskadad
   web: https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-skane/srf-skanes-lokalforeningar/srf-vastra-skane/
 
+- entry: 1235460852
+  orgName: Strokeföreningen Ystad med omnejd
+  orgNumber: 848000-9912
+  comment: null
+  categories:
+  - patientförening
+  - strokeförening
+  web: https://strokeforbundet.se/ystad/
+
 - entry: 1235463153
   orgName: SPF Seniorerna Färingtofta
   orgNumber: 837600-8127
@@ -121280,6 +121488,17 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/borssk
 
+- entry: 1235578737
+  orgName: Bröstcancerföreningen Moa-Lina Östergötland
+  orgNumber: 802421-7104
+  comment: null
+  categories:
+  - bröstcancer
+  - bröstcancerförening
+  - donation
+  - patientförening
+  web: https://ostergotland.brostcancerforbundet.se/
+
 - entry: 1235578752
   orgName: Rotary Örkelljunga
   orgNumber: 802527-7032
@@ -122779,8 +122998,8 @@ entries:
   orgNumber: 846003-5184
   comment: null
   categories:
-  - anhörigorganisation
   - patientorganisation
+  - strokeförening
   web: https://strokeforbundet.se/malmo/
 
 - entry: 1235638523
@@ -125521,6 +125740,17 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://lonsbodainnebandy.sportadmin.se/
+
+- entry: 1235767223
+  orgName: Bröstcancerföreningen Hilda Örebro län
+  orgNumber: 875001-5359
+  comment: null
+  categories:
+  - bröstcancer
+  - bröstcancerförening
+  - donation
+  - patientförening
+  web: https://orebro.brostcancerforbundet.se/
 
 - entry: 1235767264
   orgName: Vifolka Församling
@@ -128866,7 +129096,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
+  - bröstcancerförening
   - donation
+  - patientförening
   web: https://jonkoping.brostcancerforbundet.se/
 
 - entry: 1235931670
@@ -139442,7 +139674,9 @@ entries:
   comment: null
   categories:
   - bröstcancer
+  - bröstcancerförening
   - donation
+  - patientförening
   web: https://trollhattan.brostcancerforbundet.se/
 
 - entry: 1236410823
@@ -145611,10 +145845,9 @@ entries:
   orgNumber: 802429-5878
   comment: null
   categories:
-  - förening
-  - hälsa
-  - stroke
-  web: https://strokeforeningentranas.n.nu/
+  - patientförening
+  - strokeförening
+  web: https://strokeforbundet.se/tranas/
 
 - entry: 1236695522
   orgName: Askims Församling
@@ -150499,8 +150732,9 @@ entries:
   orgNumber: 802539-2757
   comment: null
   categories:
-  - anhörigorganisation
-  - cancerförening
+  - blodcancer
+  - blodcancerförening
+  - donation
   - patientförening
   web: https://www.blodcancerforbundet.se/varmland/
 

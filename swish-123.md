@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-23-rev-220818
+Revision: 2025-11-24-rev-210319
 
-Nummer: 17128
+Nummer: 17149
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -10662,9 +10662,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bröstcancerföreningen Aurora Sörmland**
+
+    123 219 39 02
+
+
+
+
 **Bröstcancerföreningen Blekinge**
 
     123 419 41 63
+
+
+
+
+**Bröstcancerföreningen Blåkulla Oskarshamn**
+
+    123 152 20 77
 
 
 
@@ -10679,6 +10693,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bröstcancerföreningen Halland**
 
     123 042 90 76
+
+
+
+
+**Bröstcancerföreningen Hilda Örebro län**
+
+    123 576 72 23
 
 
 
@@ -10704,6 +10725,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bröstcancerföreningen Kronoberg**
+
+    123 082 66 36
+
+
+
+
+**Bröstcancerföreningen Malmöhus**
+
+    123 365 81 92
+
+
+
+
 **Bröstcancerföreningen Maria Gävleborg**
 
     123 527 99 06
@@ -10711,9 +10746,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bröstcancerföreningen Moa-Lina Östergötland**
+
+    123 557 87 37
+
+
+
+
 **Bröstcancerföreningen Norrbotten**
 
     123 339 51 59
+
+
+
+
+**Bröstcancerföreningen Olivia Medelpad**
+
+    123 083 50 82
 
 
 
@@ -10739,11 +10788,32 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bröstcancerföreningen Viktoria Ängelholm**
+
+    123 179 43 46
+
+
+
+
 **Bröstcancerföreningen Värmland**
 
     123 120 33 63
 
     123 224 34 83
+
+
+
+
+**Bröstcancerföreningen Västmanland**
+
+    123 113 52 01
+
+
+
+
+**Bröstcancerföreningen Ådalen**
+
+    123 207 55 21
 
 
 
@@ -19004,6 +19074,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **F16 Pistolklubb**
 
     123 133 93 08
+
+
+
+
+**F 17 Kamratförening**
+
+    123 164 36 18
+
+    123 228 72 41 - Medlemsavgift
 
 
 
@@ -31831,6 +31910,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Hjortsbergagården**
+
+    123 440 71 36
+
+
+
+
 **Hjulbäck Båtklubb**
 
     123 069 16 67
@@ -38087,6 +38173,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Insamlingsstiftelsen Soul Tool**
 
     123 394 85 69
+
+
+
+
+**Insamlingsstiftelsen Strokeforskningen Norrland**
+
+    123 287 45 92 - Strokeforskning
 
 
 
@@ -54514,6 +54607,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**MSPS Skytteklubb**
+
+    123 530 65 68
+
+
+
+
 **MT96, MFF Tifosi 96**
 
     123 442 56 82
@@ -65022,6 +65122,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rena Mälaren Ideell Förening**
 
     123 013 87 27
+
+
+
+
+**Renates Bageri & Restaurang AB**
+
+    123 337 50 78
 
 
 
@@ -79858,16 +79965,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Stroke - Länsföreningen Jämtland och Härjedalen**
-
-    123 072 63 49
-
-
-
-
 **Strokeförbundet**
 
     123 900 53 07
+
+
+
+
+**Strokeföreningen Enköping**
+
+    123 265 59 26
 
 
 
@@ -79879,9 +79986,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Strokeföreningen i Stockholms län**
+**Strokeföreningen Jämtland Härjedalen**
 
-    123 038 95 44
+    123 072 63 49
 
 
 
@@ -79893,9 +80000,44 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Strokeföreningen Stockholms län**
+
+    123 038 95 44
+
+
+
+
 **Strokeföreningen Tranås**
 
     123 669 53 57
+
+
+
+
+**Strokeföreningen Umeå**
+
+    123 291 89 51
+
+
+
+
+**Strokeföreningen Värend**
+
+    123 027 71 37
+
+
+
+
+**Strokeföreningen Värmlands län**
+
+    123 233 36 49
+
+
+
+
+**Strokeföreningen Ystad med omnejd**
+
+    123 546 08 52
 
 
 
@@ -86649,7 +86791,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Söråkers Folkets Hus Förening**
+**Söråkers Folkets Hus**
 
     123 034 67 75
 
