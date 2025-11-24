@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-24-rev-223301
+Revision: 2025-11-24-rev-230607
 
 Nummer: 17155
 
@@ -78193,7 +78193,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Stiftelsen för transplantations- och cancerforskning**
+**Stiftelsen för Transplantations- och Cancerforskning**
 
     123 267 08 18
 

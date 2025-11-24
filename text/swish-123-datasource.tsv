@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-11-24-rev-223240
+# Date: 2025-11-24-rev-230547
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -6481,7 +6481,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232670594	873600-0798	Equmeniakyrkan Ölme	https://www.equmeniakyrkanolme.se/equmeniakyrkanolme/	religion	
 1232670693	252000-0601	Högalids Församling	https://www.svenskakyrkan.se/hogalid	religion	Act Svenska Kyrkan
 1232670727	897000-1833	Sunderby Sportklubb	https://www.sunderbysk.se/	basketbollklubb,idrottsförening,innebandyklubb,ishockeyklubb	
-1232670818	802477-6158	Stiftelsen för transplantations- och cancerforskning	https://transplantationsstiftelsen.se/	cancer,donation,forskning,stiftelse	
+1232670818	802477-6158	Stiftelsen för Transplantations- och Cancerforskning	https://transplantationsstiftelsen.se/	cancer,donation,forskning,stiftelse	
 1232670909	802432-7887	Halmstads Allmänna Idrottssällskap	https://www.haisbox.se/	boxningsklubb,idrottsförening	
 1232671063	892000-4523	Ås Idrottsförening	https://asif.sportadmin.se/	bordtennisklubb,idrottsförening	
 1232671410	849201-5329	Haverdals Golfklubb	https://www.haverdalsgk.se/	golfklubb	
