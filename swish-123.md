@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-24-rev-234551
+Revision: 2025-11-29-rev-152019
 
-Nummer: 17156
+Nummer: 17165
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1193,7 +1193,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Ale-Jennylunds RK - Ridsport**
+**Ale-Jennylunds Ridklubb**
+
+    123 085 50 72
 
     123 198 17 60
 
@@ -16851,6 +16853,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 175 86 89
 
+    123 224 84 41 - Ge bort jul
+
 
 
 
@@ -21655,6 +21659,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Fredrikshofs IF**
 
     123 561 97 62
+
+
+
+
+**Fredsbaskrarna Stockholm**
+
+    123 126 16 43
 
 
 
@@ -31120,6 +31131,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Helpfulness Foundation**
 
     123 431 63 45
+
+
+
+
+**Helping Hand-World Aid & Mission**
+
+    123 326 66 24
 
 
 
@@ -46972,6 +46990,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Lakers Lakejer**
+
+    123 571 81 01
+
+
+
+
 **Lakers Lakejer Tifo**
 
     123 320 08 39
@@ -51975,6 +52000,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malmö Barn- och Kvinnojour**
+
+    123 690 20 92
+
+
+
+
 **Malmö Bastugille**
 
     123 261 65 71
@@ -52099,13 +52131,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Malmö Konståkningsklubb**
 
     123 506 81 76
-
-
-
-
-**Malmö Kvinnojour**
-
-    123 690 20 92
 
 
 
@@ -58151,6 +58176,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nya Ronnebygymnasterna IF**
 
     123 411 32 13
+
+
+
+
+**Nya Rågsveds Folketshus Förening**
+
+    123 345 78 43
 
 
 
@@ -64249,6 +64281,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Prostatacancerföreningen Skaraborg**
 
+    123 270 24 39
+
     123 305 67 10
 
 
@@ -66389,7 +66423,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Riksorganisationen för kvinnojourer och tjejjourer i Sverige, ROKS**
+**Riksorganisationen för Kvinnojourer och Tjejjourer i Sverige, ROKS**
 
     123 001 78 22
 
@@ -74629,8 +74663,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 278 32 72 - Internationalen veckotidning
 
-    123 539 30 53
-
 
 
 
@@ -76511,6 +76543,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**SPF Seniorerna Strömmen Strömstad**
+
+    123 686 91 68
+
+
+
+
 **SPF Seniorerna Strövelstorp Ausås**
 
     123 532 97 19
@@ -77556,13 +77595,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Stefan Paulssons Cancerstiftelse**
 
     123 440 59 40
-
-
-
-
-**Stefan Sauk / Aktiebolaget Zenskräck**
-
-    123 326 66 24
 
 
 
@@ -84690,6 +84722,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Swartlings Ridskola Ryttarstadion AB**
 
     123 551 09 53
+
+
+
+
+**SWB Norra Skåne**
+
+    123 605 80 10
 
 
 
@@ -94856,6 +94895,15 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Veckobladet / Textåbild i Hagfors AB**
 
     123 048 96 90
+
+
+
+
+**Veckotidningen Internationalen**
+
+    123 052 49 34
+
+    123 539 30 53
 
 
 

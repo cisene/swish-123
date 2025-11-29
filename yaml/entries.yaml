@@ -490,7 +490,7 @@ entries:
   web: https://www.hembygd.se/rogsta
 
 - entry: 1230017822
-  orgName: Riksorganisationen för kvinnojourer och tjejjourer i Sverige, ROKS
+  orgName: Riksorganisationen för Kvinnojourer och Tjejjourer i Sverige, ROKS
   orgNumber: 802012-5111
   comment: null
   categories:
@@ -11740,6 +11740,15 @@ entries:
   categories: null
   web: null
 
+- entry: 1230524934
+  orgName: Veckotidningen Internationalen
+  orgNumber: 802006-9434
+  comment: null
+  categories:
+  - lokaltidning
+  - tidsskrifter
+  web: https://internationalen.se/
+
 - entry: 1230526103
   orgName: Hundklubben Hässle
   orgNumber: 837001-3586
@@ -12259,7 +12268,10 @@ entries:
   orgNumber: 556517-4231
   comment: Söderby Golf - Greenfee, Shop, Inomhushall, Lodge, City Butiken
   categories:
+  - försäljning
+  - golfbana
   - golfklubb
+  - sportmaterial
   web: https://www.golfuppsala.se/
 
 - entry: 1230554196
@@ -15174,6 +15186,7 @@ entries:
   comment: Gula bandet
   categories:
   - förbund
+  - försvarsorganisation
   - godkänd gåvomottagare
   web: https://sverigesveteranforbund.se/gula-bandet/
 
@@ -18919,6 +18932,16 @@ entries:
   categories:
   - rotaryklubb
   web: https://hoganas-kullen.rotary2390.se/
+
+- entry: 1230855072
+  orgName: Ale-Jennylunds Ridklubb
+  orgNumber: 863500-2580
+  comment: null
+  categories:
+  - hästsport
+  - ridskola
+  - ridsport
+  web: https://www.ajrk.se/
 
 - entry: 1230855254
   orgName: FBC Bollnäs
@@ -26250,6 +26273,7 @@ entries:
   comment: null
   categories:
   - celiakiförening
+  - patientförening
   web: https://www.celiaki.se/foreningar/orebro-lan/
 
 - entry: 1231162973
@@ -28465,6 +28489,14 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.malaroarnasridklubb.se/
+
+- entry: 1231261643
+  orgName: Fredsbaskrarna Stockholm
+  orgNumber: 802466-7340
+  comment: null
+  categories:
+  - intresseförening
+  web: https://sverigesveteranforbund.se/forening/fredsbaskrarna-stockholm/
 
 - entry: 1231262393
   orgName: Leufstabruk Bryggeri AB
@@ -36720,6 +36752,7 @@ entries:
   comment: null
   categories:
   - celiakiförening
+  - patientförening
   web: https://www.celiaki.se/foreningar/goteborg/
 
 - entry: 1231632298
@@ -39560,6 +39593,7 @@ entries:
   comment: null
   categories:
   - celiakiförening
+  - patientförening
   web: https://www.celiaki.se/foreningar/vastmanlands-lan/
 
 - entry: 1231772185
@@ -43907,7 +43941,7 @@ entries:
   web: https://www.sharemusic.se/
 
 - entry: 1231981760
-  orgName: Ale-Jennylunds RK - Ridsport
+  orgName: Ale-Jennylunds Ridklubb
   orgNumber: 863500-2580
   comment: null
   categories:
@@ -46163,6 +46197,7 @@ entries:
   comment: null
   categories:
   - celiakiförening
+  - patientförening
   web: https://www.celiaki.se/foreningar/stockholms-lan/
 
 - entry: 1232095313
@@ -50148,6 +50183,14 @@ entries:
   categories: null
   web: null
 
+- entry: 1232248441
+  orgName: Elimkyrkans Baptistförsamling
+  orgNumber: 818000-0401
+  comment: Ge bort jul
+  categories:
+  - religion
+  web: https://elimkyrkan.com/
+
 - entry: 1232248631
   orgName: Örebro Universitet
   orgNumber: 202100-2924
@@ -53231,6 +53274,7 @@ entries:
   orgNumber: 556517-4231
   comment: Edenhof Golf - Greenfee, Shop
   categories:
+  - golfbana
   - golfklubb
   web: https://www.golfuppsala.se/
 
@@ -60087,6 +60131,17 @@ entries:
   categories:
   - religion
   web: https://www.fiskebackskyrkan.se/
+
+- entry: 1232702439
+  orgName: Prostatacancerföreningen Skaraborg
+  orgNumber: 802518-3602
+  comment: null
+  categories:
+  - donation
+  - patientförening
+  - prostatacancer
+  - prostatacancerförening
+  web: https://prostatacancerforbundet.se/om-oss/patientforeningar/vastra-gotaland/prostatacancerforeningen-skaraborg/
 
 - entry: 1232703049
   orgName: Torslunda Hembygdsförening
@@ -69981,6 +70036,7 @@ entries:
   comment: null
   categories:
   - celiakiförening
+  - patientförening
   web: https://www.celiaki.se/
 
 - entry: 1233139581
@@ -70168,6 +70224,7 @@ entries:
   comment: null
   categories:
   - celiakiförening
+  - patientförening
   web: https://www.celiaki.se/foreningar/sodermanlands-lan/
 
 - entry: 1233150505
@@ -72495,13 +72552,13 @@ entries:
   web: https://www.svenskalag.se/bkzeros
 
 - entry: 1233266624
-  orgName: Stefan Sauk / Aktiebolaget Zenskräck
-  orgNumber: 556412-9053
+  orgName: Helping Hand-World Aid & Mission
+  orgNumber: 802429-7783
   comment: null
   categories:
-  - artist
-  - skådespel
-  web: https://www.sauk.se/
+  - hjälporganisation
+  - välgörenhet
+  web: https://helpinghand.nu/
 
 - entry: 1233266673
   orgName: Filipstads SF
@@ -74196,6 +74253,7 @@ entries:
   comment: null
   categories:
   - celiakiförening
+  - patientförening
   web: https://www.celiaki.se/foreningar/skaraborg/
 
 - entry: 1233358462
@@ -76731,6 +76789,15 @@ entries:
   - försäljning
   - tillverkning
   web: https://dekalbolaget.se/
+
+- entry: 1233457843
+  orgName: Nya Rågsveds Folketshus Förening
+  orgNumber: 802435-7355
+  comment: null
+  categories:
+  - folkets hus
+  - folkrörelse
+  web: https://nyaragsvedsfolketshus.se/
 
 - entry: 1233457918
   orgName: Onyx Innebandy
@@ -117145,12 +117212,13 @@ entries:
   web: https://www.ausasbygdegard.se/
 
 - entry: 1235393053
-  orgName: Socialistisk Politik
+  orgName: Veckotidningen Internationalen
   orgNumber: 802006-9434
   comment: null
   categories:
-  - intresseförening
-  web: https://socialistiskpolitik.se/
+  - lokaltidning
+  - tidsskrifter
+  web: https://internationalen.se/
 
 - entry: 1235393061
   orgName: Eslövs Cykelklubb
@@ -125105,6 +125173,14 @@ entries:
   - intresseförening
   web: https://westerlundsallskapet.se/
 
+- entry: 1235718101
+  orgName: Lakers Lakejer
+  orgNumber: 829502-4486
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://lakerslakejer.se/
+
 - entry: 1235719380
   orgName: Huskatten Västerås
   orgNumber: 878001-2640
@@ -131898,6 +131974,15 @@ entries:
   - sportskytteklubb
   web: https://www.facebook.com/indalsovreskytteforening/
 
+- entry: 1236058010
+  orgName: SWB Norra Skåne
+  orgNumber: 838201-4499
+  comment: null
+  categories:
+  - hästavel
+  - hästuppfödning
+  web: https://nsk.swb.org/
+
 - entry: 1236059059
   orgName: Din Kiropraktor Falkenberg AB
   orgNumber: 559091-0260
@@ -138003,6 +138088,7 @@ entries:
   comment: null
   categories:
   - celiakiförening
+  - patientförening
   web: https://www.celiaki.se/foreningar/kronobergs-lan/
 
 - entry: 1236327506
@@ -145668,6 +145754,7 @@ entries:
   comment: Söderby Golf - Kiosk, Restaurant
   categories:
   - golfklubb
+  - restaurant
   web: https://www.golfuppsala.se/
 
 - entry: 1236686232
@@ -147122,6 +147209,7 @@ entries:
   comment: null
   categories:
   - celiakiförening
+  - patientförening
   web: https://www.celiaki.se/foreningar/gotlands-lan/
 
 - entry: 1236744999
@@ -149890,6 +149978,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/ulricehamn
 
+- entry: 1236869168
+  orgName: SPF Seniorerna Strömmen Strömstad
+  orgNumber: 802445-6462
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/strommen/
+
 - entry: 1236869705
   orgName: Rotary Haninge-Tyresö
   orgNumber: 802487-4953
@@ -150683,10 +150779,11 @@ entries:
   web: https://alfta-edsbyn-gk.se/
 
 - entry: 1236902092
-  orgName: Malmö Kvinnojour
+  orgName: Malmö Barn- och Kvinnojour
   orgNumber: 846003-4013
   comment: null
   categories:
+  - barnjour
   - donation
   - kvinnojour
   web: https://www.malmokvinnojour.se/
@@ -160876,6 +160973,7 @@ entries:
   comment: Fotbollströjansdag
   categories:
   - cancerforskning
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.barncancerfonden.se/
@@ -160885,6 +160983,7 @@ entries:
   orgNumber: 802401-4386
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.unicef.se/
@@ -160913,6 +161012,7 @@ entries:
   comment: null
   categories:
   - cancerforskning
+  - donation
   - insamlingskontroll
   web: https://www.barncancerfonden.se/norra
 
