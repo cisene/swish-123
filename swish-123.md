@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-29-rev-152019
+Revision: 2025-11-30-rev-200433
 
-Nummer: 17165
+Nummer: 17169
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -692,9 +692,14 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Agera Kvinnojour**
 
-    123 311 55 57
-
     123 452 52 75
+
+
+
+
+**Agera Kvinnojour i Sundbyberg - Solna**
+
+    123 311 55 57
 
 
 
@@ -16595,6 +16600,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Eksjö Kvinnojour**
+
+    123 426 34 48
+
+
+
+
 **Eksjö Pingstförsamling**
 
     123 592 32 14
@@ -19571,7 +19583,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Familjefridsjouren**
+**Familjefridsjouren i Höganäs**
 
     123 281 37 56
 
@@ -40617,6 +40629,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kalmar Musikradioförening**
+
+    123 698 33 24
+
+
+
+
 **Kalmar OK**
 
     123 609 99 72
@@ -44272,6 +44291,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Kreativa Feminister Uppsala**
+
+    123 585 32 13
+
+
+
+
 **KRIF Hockey**
 
     123 338 47 65
@@ -45718,21 +45744,21 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kvinno- och Tjejjouren Miranda**
+**Kvinno- och Tjejjouren Miranda i Katrineholm**
 
     123 378 58 54
 
 
 
 
-**Kvinno- och tjejjouren Pax**
+**Kvinno- och tjejjouren Pax i Nynäshamn**
 
     123 435 70 00
 
 
 
 
-**Kvinno- och tjejjouren Vändela**
+**Kvinno- och tjejjouren Vändela i Västervik**
 
     123 285 45 45
 
@@ -45790,7 +45816,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kvinnojouren Ada**
+**Kvinnojouren Ada i Göteborg**
 
     123 677 72 70
 
@@ -45825,7 +45851,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kvinnojouren Blenda**
+**Kvinnojouren Blenda i Växjö**
 
     123 313 87 81
 
@@ -45904,7 +45930,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kvinnojouren Frideborg**
+**Kvinnojouren Frideborg i Mölndal / Härryda**
 
     123 675 14 32
 
@@ -46030,7 +46056,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kvinnojouren Kaprifolen**
+**Kvinnojouren Kaprifolen i Uddevalla**
 
     123 607 75 80
 
@@ -46060,14 +46086,14 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kvinnojouren Kullan**
+**Kvinnojouren Kullan i Falun**
 
     123 319 21 68
 
 
 
 
-**Kvinnojouren Liljan**
+**Kvinnojouren Liljan i Tierp - Älvkarleby**
 
     123 118 80 51
 
@@ -46084,13 +46110,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kvinnojouren Linneorna**
 
     123 479 63 89
-
-
-
-
-**Kvinnojouren Linneorna i Eksjö**
-
-    123 426 34 48
 
 
 
@@ -46116,9 +46135,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kvinnojouren Mira**
+**Kvinnojouren Mira i Nyköping**
 
-    123 181 63 13 - Tjejjouren
+    123 181 63 13 - Tjejjouren, Din Ungdomsjour
 
     123 602 22 89
 
@@ -46211,7 +46230,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kvinnojouren Runan**
+**Kvinnojouren Runan i Tanum**
 
     123 348 12 72
 
@@ -46253,7 +46272,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kvinnojouren Söderslätt**
+**Kvinnojouren Söderslätt i Trelleborg**
 
     123 052 84 22
 
@@ -46288,7 +46307,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kvinnojouren Viljan**
+**Kvinnojouren Viljan i Ljusdal**
 
     123 148 61 58
 
@@ -47724,6 +47743,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Lex Femme**
 
     123 646 91 00
+
+
+
+
+**Lex Tintin**
+
+    123 425 86 53
 
 
 
@@ -58087,7 +58113,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Novahuset**
+**Novahuset i Linköping**
 
     123 514 68 40
 
@@ -66395,7 +66421,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Riksföreningen Stoppa mäns våld mot kvinnor**
+**Riksföreningen Stoppa Mäns Våld Mot Kvinnor**
 
     123 617 30 90
 
@@ -67798,6 +67824,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rotary Torsås-Bergkvara**
 
     123 501 45 68
+
+
+
+
+**Rotary Triangeln Malmö**
+
+    123 310 53 43
 
 
 
@@ -74975,7 +75008,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Solrosen Kvinnojour**
+**Solrosen Kvinnojour i Östervåla**
 
     123 467 17 72
 
@@ -89790,7 +89823,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Tjejjouren Rut**
+**Tjejjouren Rut i Ronneby**
 
     123 399 83 58
 

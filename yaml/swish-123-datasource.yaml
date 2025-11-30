@@ -8235,6 +8235,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://kvinnojourenkarlshamn.se/
 
 - entry: 1230378513
@@ -11524,12 +11525,13 @@ entries:
   web: https://www.hkhassle.se/
 
 - entry: 1230528422
-  orgName: Kvinnojouren Söderslätt
+  orgName: Kvinnojouren Söderslätt i Trelleborg
   orgNumber: 802465-9222
   comment: null
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/kvinnojourensoderslatt/
 
 - entry: 1230528729
@@ -18089,6 +18091,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/eksjotjejjour/
 
 - entry: 1230844910
@@ -20123,6 +20126,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://kvinnorsratt.se/
 
 - entry: 1230912444
@@ -24266,6 +24270,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://kvinnojouren-stenungsund.se/
 
 - entry: 1231095900
@@ -26219,7 +26224,7 @@ entries:
   web: https://www.bbk-bastad.se/
 
 - entry: 1231188051
-  orgName: Kvinnojouren Liljan
+  orgName: Kvinnojouren Liljan i Tierp - Älvkarleby
   orgNumber: 817301-4633
   comment: null
   categories:
@@ -32664,12 +32669,13 @@ entries:
   web: https://issevo.se/
 
 - entry: 1231486158
-  orgName: Kvinnojouren Viljan
+  orgName: Kvinnojouren Viljan i Ljusdal
   orgNumber: 802453-3807
   comment: null
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/kvinnojourenviljan/
 
 - entry: 1231486166
@@ -33029,8 +33035,10 @@ entries:
   orgNumber: 873201-2706
   comment: null
   categories:
+  - barnjour
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.karlstadskvinnojour.se/
 
 - entry: 1231498286
@@ -36011,6 +36019,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/vasbytjejjour/
 
 - entry: 1231639996
@@ -39779,12 +39788,13 @@ entries:
   web: https://www.rimboif.com/
 
 - entry: 1231816313
-  orgName: Kvinnojouren Mira
+  orgName: Kvinnojouren Mira i Nyköping
   orgNumber: 819000-8949
-  comment: Tjejjouren
+  comment: Tjejjouren, Din Ungdomsjour
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.jourmira.se/
 
 - entry: 1231816495
@@ -43615,6 +43625,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/kristianstadkvinnojour/
 
 - entry: 1231999051
@@ -61646,7 +61657,7 @@ entries:
   web: https://www.hembygd.se/bjorkvik
 
 - entry: 1232813756
-  orgName: Familjefridsjouren
+  orgName: Familjefridsjouren i Höganäs
   orgNumber: 802422-8242
   comment: null
   categories:
@@ -62330,12 +62341,13 @@ entries:
   web: https://www.nardingen.se/
 
 - entry: 1232854545
-  orgName: Kvinno- och tjejjouren Vändela
+  orgName: Kvinno- och tjejjouren Vändela i Västervik
   orgNumber: 802505-1114
   comment: null
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/vandela/
 
 - entry: 1232854743
@@ -66627,6 +66639,8 @@ entries:
   comment: null
   categories:
   - konstförening
+  - konstnärsförening
+  - krokiteckning
   web: https://almhult.konstforeningar.se/
 
 - entry: 1233055050
@@ -67320,6 +67334,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.kvinnojourenboden.se/
 
 - entry: 1233093309
@@ -67463,6 +67478,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://dovtorget.se/
+
+- entry: 1233105343
+  orgName: Rotary Triangeln Malmö
+  orgNumber: 802505-0884
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://malmo-triangeln.rotary2395.se/
 
 - entry: 1233107828
   orgName: OperationAid
@@ -67771,7 +67794,7 @@ entries:
   web: https://www.svenskalag.se/bdff
 
 - entry: 1233115557
-  orgName: Agera Kvinnojour
+  orgName: Agera Kvinnojour i Sundbyberg - Solna
   orgNumber: 802491-4494
   comment: null
   categories:
@@ -68496,7 +68519,7 @@ entries:
   web: https://www.laget.se/TYRFF/
 
 - entry: 1233138781
-  orgName: Kvinnojouren Blenda
+  orgName: Kvinnojouren Blenda i Växjö
   orgNumber: 829501-7050
   comment: null
   categories:
@@ -69276,12 +69299,13 @@ entries:
   web: https://www.laget.se/IFKSkoghallDam/
 
 - entry: 1233192168
-  orgName: Kvinnojouren Kullan
+  orgName: Kvinnojouren Kullan i Falun
   orgNumber: 802461-0639
   comment: null
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/kvinnojourenkullan/
 
 - entry: 1233194313
@@ -75742,12 +75766,13 @@ entries:
   web: https://portal.clubrunner.ca/16002/
 
 - entry: 1233481272
-  orgName: Kvinnojouren Runan
+  orgName: Kvinnojouren Runan i Tanum
   orgNumber: 868401-3348
   comment: null
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/kvinnojourenrunan/
 
 - entry: 1233481629
@@ -80150,6 +80175,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.existera.org/
 
 - entry: 1233680378
@@ -82112,12 +82138,13 @@ entries:
   web: https://www.svenskakyrkan.se/helsingborg
 
 - entry: 1233785854
-  orgName: Kvinno- och Tjejjouren Miranda
+  orgName: Kvinno- och Tjejjouren Miranda i Katrineholm
   orgNumber: 818501-2385
   comment: null
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://jourmiranda.se/
 
 - entry: 1233785896
@@ -83713,6 +83740,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://kvinnojourennike.se/
 
 - entry: 1233864469
@@ -86816,7 +86844,7 @@ entries:
   web: https://algrandensost.se/
 
 - entry: 1233998358
-  orgName: Tjejjouren Rut
+  orgName: Tjejjouren Rut i Ronneby
   orgNumber: 802469-8899
   comment: null
   categories:
@@ -90472,6 +90500,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.kvinnohuset-vasteras.org/
 
 - entry: 1234196887
@@ -91851,6 +91880,16 @@ entries:
   - båtsällskap
   web: https://www.hvensbatklubb.se/
 
+- entry: 1234258653
+  orgName: Lex Tintin
+  orgNumber: 802543-9558
+  comment: null
+  categories:
+  - barnjour
+  - barnkonventionen
+  - barnrättsorganisation
+  web: https://lextintin.se/
+
 - entry: 1234259701
   orgName: Ankrace för Ukraina / Skicka vidare till Ukraina
   orgNumber: 802541-6515
@@ -91939,13 +91978,13 @@ entries:
   web: https://www.mjolbygk.se/
 
 - entry: 1234263448
-  orgName: Kvinnojouren Linneorna i Eksjö
+  orgName: Eksjö Kvinnojour
   orgNumber: 827000-9957
   comment: null
   categories:
   - donation
   - kvinnojour
-  web: https://kvinnojourenlinneorna.se/
+  web: https://eksjokvinnojour.se/
 
 - entry: 1234263471
   orgName: 24meter AB
@@ -93022,6 +93061,9 @@ entries:
   comment: null
   categories:
   - konstnärsförening
+  - krokiteckning
+  - studiebesök
+  - utställningar
   web: https://www.jarnakonstnarsforening.se/
 
 - entry: 1234317525
@@ -93507,6 +93549,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/skyddsjouren/
 
 - entry: 1234351730
@@ -93651,12 +93694,13 @@ entries:
   web: https://www.svenskakyrkan.se/luleastift
 
 - entry: 1234357000
-  orgName: Kvinno- och tjejjouren Pax
+  orgName: Kvinno- och tjejjouren Pax i Nynäshamn
   orgNumber: 802495-9655
   comment: null
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/pax/
 
 - entry: 1234357422
@@ -100073,7 +100117,7 @@ entries:
   web: https://rawart.se/
 
 - entry: 1234671772
-  orgName: Solrosen Kvinnojour
+  orgName: Solrosen Kvinnojour i Östervåla
   orgNumber: 802465-8836
   comment: null
   categories:
@@ -105438,6 +105482,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.unizonjourer.se/kvinnojourenkalmar/
 
 - entry: 1234989018
@@ -109425,7 +109470,7 @@ entries:
   web: https://www.svenskalag.se/craftstadensibk
 
 - entry: 1235146840
-  orgName: Novahuset
+  orgName: Novahuset i Linköping
   orgNumber: 802443-9203
   comment: null
   categories:
@@ -115188,7 +115233,7 @@ entries:
   categories:
   - donation
   - kvinnojour
-  web: https://www.unizonjourer.se/fria/
+  web: https://www.ungdomsjourenfria.se/
 
 - entry: 1235402425
   orgName: Östergötlands Ishockeyförbund
@@ -121256,6 +121301,8 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
+  - transjour
   web: https://www.bellis.nu/
 
 - entry: 1235672829
@@ -125143,6 +125190,19 @@ entries:
   - stiftelse
   web: https://www.preks.se/
 
+- entry: 1235853213
+  orgName: Kreativa Feminister Uppsala
+  orgNumber: 802519-4260
+  comment: null
+  categories:
+  - konstnärsförening
+  - kulturevenemang
+  - marknader
+  - studiecirklar
+  - utställningar
+  - workshops
+  web: https://www.kreativafeminister.se/
+
 - entry: 1235853338
   orgName: Smaka på Värmdö
   orgNumber: 769632-7589
@@ -125277,8 +125337,10 @@ entries:
   orgNumber: 886000-5696
   comment: null
   categories:
+  - barnjour
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.kvinnojourenstottan.se/
 
 - entry: 1235857081
@@ -128592,12 +128654,13 @@ entries:
   web: https://hpn.se/
 
 - entry: 1236022289
-  orgName: Kvinnojouren Mira
+  orgName: Kvinnojouren Mira i Nyköping
   orgNumber: 819000-8949
   comment: null
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.jourmira.se/
 
 - entry: 1236022370
@@ -129632,7 +129695,7 @@ entries:
   web: https://blagulabilen.se/
 
 - entry: 1236077580
-  orgName: Kvinnojouren Kaprifolen
+  orgName: Kvinnojouren Kaprifolen i Uddevalla
   orgNumber: 858501-0104
   comment: null
   categories:
@@ -132067,10 +132130,11 @@ entries:
   web: https://www.svenskalag.se/sarnask
 
 - entry: 1236173090
-  orgName: Riksföreningen Stoppa mäns våld mot kvinnor
+  orgName: Riksföreningen Stoppa Mäns Våld Mot Kvinnor
   orgNumber: 802421-8300
   comment: null
   categories:
+  - donation
   - intresseförening
   - kvinnofrid
   web: https://www.rskriksforeningen.se/
@@ -144335,7 +144399,7 @@ entries:
   web: https://www.svenskakyrkan.se/bjarnumspastorat
 
 - entry: 1236751432
-  orgName: Kvinnojouren Frideborg
+  orgName: Kvinnojouren Frideborg i Mölndal / Härryda
   orgNumber: 852000-4998
   comment: null
   categories:
@@ -144976,7 +145040,7 @@ entries:
   web: https://www.hembygd.se/kindgillet/kindstugans-syforening
 
 - entry: 1236777270
-  orgName: Kvinnojouren Ada
+  orgName: Kvinnojouren Ada i Göteborg
   orgNumber: 857205-9403
   comment: null
   categories:
@@ -147489,6 +147553,7 @@ entries:
   categories:
   - donation
   - kvinnojour
+  - tjejjour
   web: https://www.alltidsedd.se/
 
 - entry: 1236896740
@@ -149518,6 +149583,14 @@ entries:
   - pensionärsklubb
   - religion
   web: https://abrahamsbergskyrkan.se/abrahamsbergskyrkans-seniorer-abrasenior/
+
+- entry: 1236983324
+  orgName: Kalmar Musikradioförening
+  orgNumber: 832401-9853
+  comment: null
+  categories:
+  - lokalradio
+  web: https://www.kanonfm.com/
 
 - entry: 1236985543
   orgName: Lymf Sverige
@@ -152331,7 +152404,7 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   - kvinnojour
-  - välgörenhet
+  - tjejjour
   web: https://www.storasyster.org/
 
 - entry: 1239006800
