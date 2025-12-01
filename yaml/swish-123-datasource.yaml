@@ -1947,9 +1947,9 @@ entries:
   web: https://www.hembygd.se/buttle
 
 - entry: 1230093104
-  orgName: Svenska Kyrkan Torrevieja
+  orgName: Svenska Kyrkan
   orgNumber: 252002-6135
-  comment: null
+  comment: Torrevieja
   categories:
   - godkänd gåvomottagare
   - religion
@@ -2100,9 +2100,9 @@ entries:
   web: https://sites.google.com/site/dskkhemsida/
 
 - entry: 1230099283
-  orgName: Svenska Kyrkan Mallorca / Svenska Kyrkan i Utlandet
+  orgName: Svenska Kyrkan
   orgNumber: 252002-6135
-  comment: Gåvor
+  comment: Mallorca, Gåvor
   categories:
   - godkänd gåvomottagare
   - religion
@@ -3173,7 +3173,7 @@ entries:
   web: https://henrikberggren.bandcamp.com/music
 
 - entry: 1230178079
-  orgName: Svenska OMEP
+  orgName: Svenska Organisation Mondiale pour l’Éducation Préscolaire, OMEP
   orgNumber: 812000-4687
   comment: null
   categories:
@@ -3207,7 +3207,7 @@ entries:
   web: https://www.hembygd.se/munkedals-hembygdsf-rening
 
 - entry: 1230180695
-  orgName: Nordic Legions
+  orgName: Nordic Reel Icons / Nordic Legions
   orgNumber: 802541-6721
   comment: null
   categories:
@@ -3946,7 +3946,7 @@ entries:
   web: https://www.facebook.com/groups/389338467909355/
 
 - entry: 1230200832
-  orgName: Dalarna hjälper / För Falun I Falun
+  orgName: För Falun I Falun
   orgNumber: 802494-8856
   comment: null
   categories:
@@ -5457,7 +5457,7 @@ entries:
   web: https://www.ikspringvast.com/
 
 - entry: 1230264556
-  orgName: Ok Eken Åtvidaberg
+  orgName: OK Eken
   orgNumber: 822002-6291
   comment: null
   categories:
@@ -12308,7 +12308,7 @@ entries:
   web: https://www.svenskalag.se/kalmarbagskytte
 
 - entry: 1230564120
-  orgName: Eslövs kommun
+  orgName: Eslövs Kommun
   orgNumber: 212000-1173
   comment: Marieholmsbadet
   categories:
@@ -12857,7 +12857,7 @@ entries:
   web: https://teachersacrossborders.se/
 
 - entry: 1230593541
-  orgName: Falkenbergs Orienteringsklubb, FOK
+  orgName: Falkenbergs Orienteringsklubb
   orgNumber: 849000-5165
   comment: null
   categories:
@@ -14012,7 +14012,7 @@ entries:
   web: https://www.skpf.se/avdelningar/distrikt-vasternorrland/solleftea-avd-113/
 
 - entry: 1230662684
-  orgName: Karolinska Institutet
+  orgName: Karolinska Institutet, Fondförvaltning
   orgNumber: 202100-2973
   comment: Institutionen för Kvinnor och barns hälsa
   categories:
@@ -14604,6 +14604,15 @@ entries:
   categories:
   - 4hklubb
   web: https://www.4h.se/kallhall/
+
+- entry: 1230692673
+  orgName: Rinns AIK
+  orgNumber: 874000-0867
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/RinnsAIK/
 
 - entry: 1230692715
   orgName: Per-Ols IBF
@@ -16029,7 +16038,7 @@ entries:
   web: https://www.sanktnikolai.se/
 
 - entry: 1230752329
-  orgName: Gyncancerförbundet
+  orgName: GynCancerförbundet
   orgNumber: 837001-3008
   comment: null
   categories:
@@ -18877,6 +18886,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/hasselsif
+
+- entry: 1230863555
+  orgName: Ljusglimten
+  orgNumber: 802519-9152
+  comment: Julglimten
+  categories:
+  - hjälporganisation
+  - välgörenhet
+  web: https://julglimten.se/
 
 - entry: 1230866160
   orgName: Jäders IF
@@ -40927,6 +40945,15 @@ entries:
   - ridklubb
   - ryttarförening
   web: https://ekbacken.one/
+
+- entry: 1231881713
+  orgName: Håbols IF
+  orgNumber: 862000-2587
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: null
 
 - entry: 1231881838
   orgName: Eskilstuna Ponnytravsällskap
@@ -107251,9 +107278,9 @@ entries:
   web: https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/eklandet/
 
 - entry: 1235080304
-  orgName: Svenska Kyrkan Teneriffa
+  orgName: Svenska Kyrkan
   orgNumber: 252002-6135
-  comment: null
+  comment: Teneriffa
   categories:
   - godkänd gåvomottagare
   - religion

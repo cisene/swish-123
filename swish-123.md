@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-01-rev-182823
+Revision: 2025-12-01-rev-201702
 
-Nummer: 17169
+Nummer: 17172
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -13307,13 +13307,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Dalarna hjälper / För Falun I Falun**
-
-    123 020 08 32
-
-
-
-
 **Dalarnas Andlig Healingcenter / Anna-Karin Berg**
 
     123 226 69 22
@@ -18734,7 +18727,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Eslövs kommun**
+**Eslövs Kommun**
 
     123 056 41 20 - Marieholmsbadet
 
@@ -19280,7 +19273,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Falkenbergs Orienteringsklubb, FOK**
+**Falkenbergs Orienteringsklubb**
 
     123 059 35 41
 
@@ -23385,6 +23378,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **För Falun I Falun**
 
     123 020 08 31
+
+    123 020 08 32
 
 
 
@@ -28299,7 +28294,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Gyncancerförbundet**
+**GynCancerförbundet**
 
     123 075 23 29
 
@@ -34303,6 +34298,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Håbo Scoutkår**
 
     123 036 29 70
+
+
+
+
+**Håbols IF**
+
+    123 188 17 13
 
 
 
@@ -41585,8 +41587,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Karolinska Institutet**
 
-    123 066 26 84 - Institutionen för Kvinnor och barns hälsa
-
     123 202 32 08 - Fondförvaltning
 
     123 559 80 81 - KI SÖS fond
@@ -41597,6 +41597,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Karolinska Institutet, Centrum för Molekylär Medicin, CMM**
 
     123 245 79 76 - Myositforskningen
+
+
+
+
+**Karolinska Institutet, Fondförvaltning**
+
+    123 066 26 84 - Institutionen för Kvinnor och barns hälsa
 
 
 
@@ -49995,6 +50002,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ljusglimten**
+
+    123 086 35 55 - Julglimten
+
+
+
+
 **Ljusnarsbergs Jaktskytteklubb**
 
     123 125 24 51
@@ -57039,7 +57053,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Nordic Legions**
+**Nordic Reel Icons / Nordic Legions**
 
     123 018 06 95
 
@@ -59294,7 +59308,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Ok Eken Åtvidaberg**
+**OK Eken**
 
     123 026 45 56
 
@@ -66610,6 +66624,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Rinkeby Internationella Församling**
 
     123 603 50 83
+
+
+
+
+**Rinns AIK**
+
+    123 069 26 73
 
 
 
@@ -82737,6 +82758,12 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Kyrkan**
 
+    123 009 31 04 - Torrevieja
+
+    123 009 92 83 - Mallorca, Gåvor
+
+    123 508 03 04 - Teneriffa
+
     123 677 87 24 - Gran Canaria
 
 
@@ -82745,13 +82772,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Kyrkan i Tidaholm**
 
     123 526 27 95
-
-
-
-
-**Svenska Kyrkan Mallorca / Svenska Kyrkan i Utlandet**
-
-    123 009 92 83 - Gåvor
 
 
 
@@ -82776,16 +82796,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Kyrkan Teneriffa**
 
-    123 508 03 04
-
     123 609 19 20 - Gåvor
-
-
-
-
-**Svenska Kyrkan Torrevieja**
-
-    123 009 31 04
 
 
 
@@ -83033,13 +83044,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Svenska OMEP**
-
-    123 017 80 79
-
-
-
-
 **Svenska Omnibusföreningen**
 
     123 468 27 12
@@ -83050,6 +83054,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Optimistjolleförbundet, SOF**
 
     123 652 43 00
+
+
+
+
+**Svenska Organisation Mondiale pour l’Éducation Préscolaire, OMEP**
+
+    123 017 80 79
 
 
 
