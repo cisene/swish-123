@@ -16,7 +16,7 @@ from collections import defaultdict
 from datetime import datetime
 
 YAML_SOURCE_FILE = '../yaml/entries.yaml'
-
+YAML_DEST_FILE = '../yaml/knockout-entries.yaml'
 YAML_MASTERDATA_ORGS = '../yaml/masterdata-organisations.yaml'
 
 
@@ -85,22 +85,39 @@ def main():
     print(f"Could not read {YAML_SOURCE_FILE}")
     exit(1)
 
-  #if "organisations" in dest_dict:
-  #  dest_dict['organisations'] = {}
 
+  dest_entries = {}
+  dest_entries['entries'] = []
 
   line_count = 0
   for entryVO in source_dict['entries']:
+
+    cloneVO = entryVO
+
+    if entryVO['orgName'] == None and entryVO['orgNumber'] == None:
+      dest_entries['entries'].append(cloneVO)
+      continue
+
     orgNumber = None
     orgName = None
     lo_orgName = None
+
     if "orgNumber" in entryVO:
       if entryVO['orgNumber'] != None:
         orgNumber = entryVO['orgNumber']
         orgName = None
 
+      # Sniff and clone
+      if entryVO['orgName'] != None:
+        if entryVO['orgNumber'] in dest_dict['organisations']:
+          cloneVO['orgName'] = dest_dict['organisations'][orgNumber]
+          #dest_entries['entries'].append(cloneVO)
+
       if re.search(r"\x2dXXXX$", str(orgNumber), flags=re.IGNORECASE):
+        dest_entries['entries'].append(cloneVO)
         continue
+
+    dest_entries['entries'].append(cloneVO)
 
     if "orgName" in entryVO:
       if entryVO['orgName'] != None:
@@ -112,6 +129,7 @@ def main():
         dest_dict['organisations'][orgNumber] = orgName
         line_count += 1
 
+    lo_orgName = orgName
     if orgNumber in dest_dict['organisations']:
       lo_orgName = dest_dict['organisations'][orgNumber]
 
@@ -119,11 +137,10 @@ def main():
         print(f"{orgNumber}: '{lo_orgName}' isn't equal to '{entryVO['orgName']}'")
 
 
-  #sorted(dest_dict)
-  #dest_dict_sorted = collections.OrderedDict(sorted(dest_dict['organisations'].items()))
   dest_dict_sorted = {}
   dest_dict_sorted['organisations'] = dict(sorted(dest_dict['organisations'].items()))
 
+  writeYAML(YAML_DEST_FILE, dest_entries)
 
   writeYAML(YAML_MASTERDATA_ORGS, dest_dict_sorted)
   print(f"\tWrote {line_count} YAML entries")
