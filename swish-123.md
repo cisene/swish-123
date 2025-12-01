@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-11-30-rev-200433
+Revision: 2025-12-01-rev-182823
 
 Nummer: 17169
 
@@ -2291,16 +2291,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Aneby Bibliotek / Aneby Kommun**
-
-    123 001 95 21
-
-
-
-
 **Aneby Jazzklubb**
 
     123 525 06 34
+
+
+
+
+**Aneby Kommun**
+
+    123 001 95 21 - Aneby Bibliotek
 
 
 
@@ -45155,13 +45155,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kultursjukhuset**
 
     123 440 29 96
-
-
-
-
-**Kulturskolan, Tierps Kommun**
-
-    123 014 92 86
 
 
 
@@ -89504,6 +89497,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
     123 098 82 95
 
     123 405 64 95
+
+
+
+
+**Tierps Kommun**
+
+    123 014 92 86 - Kulturskolan
 
 
 

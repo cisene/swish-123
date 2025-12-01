@@ -588,11 +588,12 @@ entries:
   web: https://www.fhb.nu/
 
 - entry: 1230019521
-  orgName: Aneby Bibliotek / Aneby Kommun
+  orgName: Aneby Kommun
   orgNumber: 212000-0498
-  comment: null
+  comment: Aneby Bibliotek
   categories:
   - bibliotek
+  - kommun
   - kultur
   web: https://www.aneby.se/sidor/kultur-fritid-och-turism/biblioteket.html
 
@@ -2848,11 +2849,12 @@ entries:
   web: https://dovtorget.se/ddp/
 
 - entry: 1230149286
-  orgName: Kulturskolan, Tierps Kommun
+  orgName: Tierps Kommun
   orgNumber: 212000-0266
-  comment: null
+  comment: Kulturskolan
   categories:
   - dans
+  - kulturskola
   - musik
   - teater
   web: https://www.tierp.se/tierp.se/kultur-fritid-och-friluftsliv/kulturskolan.html
