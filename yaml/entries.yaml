@@ -14361,6 +14361,7 @@ entries:
   orgNumber: 802524-6532
   comment: null
   categories:
+  - donation
   - intresseförening
   web: https://intedinhora.se/
 
@@ -26344,7 +26345,7 @@ entries:
 - entry: 1231166354
   orgName: BK Frisk
   orgNumber: 817607-2836
-  comment: nulls
+  comment: null
   categories:
   - bowlingklubb
   - idrottsförening
@@ -70485,6 +70486,14 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/balinge/
 
+- entry: 1233171485
+  orgName: Hela Sverige Ska Leva
+  orgNumber: 802439-0422
+  comment: Göteborgsregionen
+  categories:
+  - intresseförening
+  web: https://www.helasverige.se/
+
 - entry: 1233172103
   orgName: Sävedalens IF
   orgNumber: 857201-7237
@@ -93493,6 +93502,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-angelholm/
 
+- entry: 1234230157
+  orgName: Bolmenbygdens Friskola
+  orgNumber: 769643-2819
+  comment: null
+  categories:
+  - friskola
+  web: https://bolmenbygdensfriskola.se/
+
 - entry: 1234231270
   orgName: Torekovs IK
   orgNumber: 839400-1583
@@ -114509,7 +114526,7 @@ entries:
 - entry: 1235272117
   orgName: Hela Sverige Ska Leva
   orgNumber: 875002-7487
-  comment: null
+  comment: Örebro län
   categories:
   - intresseförening
   web: https://www.helasverige.se/
@@ -119428,9 +119445,9 @@ entries:
   web: https://orkelljungajka.se/
 
 - entry: 1235480231
-  orgName: Filmbyn Småland i Marinnelund / Snickerboa Mariannelund AB
+  orgName: Snickerboa Mariannelund AB
   orgNumber: 556936-7617
-  comment: null
+  comment: Filmbyn Småland i Marinnelund
   categories:
   - intresseförening
   - kulturförening
@@ -144284,6 +144301,14 @@ entries:
   - religion
   web: https://www.klovertraskpingst.com/
 
+- entry: 1236617245
+  orgName: Hela Sverige Ska Leva
+  orgNumber: 882601-9955
+  comment: Dalarna
+  categories:
+  - intresseförening
+  web: https://www.helasverige.se/
+
 - entry: 1236617500
   orgName: Skärgårdsstiftelsen I Stockholms Län
   orgNumber: 802405-0216
@@ -155937,8 +155962,10 @@ entries:
   orgNumber: 802455-9794
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
+  - välgörenhet
   web: https://www.gatubarnnepal.net/
 
 - entry: 1239003666

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-12-02-rev-214036
+# Date: 2025-12-07-rev-131336
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1583,7 +1583,7 @@
 "1230663443","802538-7120","Återställ Våtmarker / Våtmarkernas Stödförening","https://återställvåtmarker.se/","donation,intresseförening",""
 "1230663666","769622-9132","Karlshamns Handel & Service Ekonomisk Förening","https://www.karlshamnshandel.se/","försäljning",""
 "1230664094","802533-7869","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Stockholm, Lindbackens Skola"
-"1230664268","802524-6532","#InteDinHora","https://intedinhora.se/","intresseförening",""
+"1230664268","802524-6532","#InteDinHora","https://intedinhora.se/","donation,intresseförening",""
 "1230666792","889601-1882","Friska Viljor FC","https://www.svenskalag.se/friskaviljor","fotbollsklubb,idrottsförening","Akademi"
 "1230669085","559282-5094","Värnamohonung / Dahlbäck Bisyssla AB","https://varnamohonung.se/","biodling,försäljning",""
 "1230669978","863000-6859","Lödöse Nygård IK","https://www.laget.se/LNIK/","badmintonklubb,fotbollsklubb,idrottsförening",""
@@ -2894,7 +2894,7 @@
 "1231162999","802539-3649","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Halland, Tångaskolan"
 "1231165000","818000-1235","Jäders IF","https://www.laget.se/JadersIF/","fotbollsklubb,idrottsförening","Damjunior"
 "1231165182","802515-8901","FBC Moröbacke","https://www.laget.se/FBCMorobacke/","idrottsförening,innebandyklubb",""
-"1231166354","817607-2836","BK Frisk","https://www.bkfrisk.se/","bowlingklubb,idrottsförening","nulls"
+"1231166354","817607-2836","BK Frisk","https://www.bkfrisk.se/","bowlingklubb,idrottsförening",""
 "1231166453","802416-5154","Köping Basket","https://www.kopingstars.se/","basketbollklubb,idrottsförening",""
 "1231166909","814400-3020","Öregrunds Idrottsklubb","https://oregrundik.se/","bordtennisklubb,gymnastikförening,idrottsförening,kampsportsförening,vintersport",""
 "1231166966","878001-4687","Svenska OCD-förbundet","https://ocdforbundet.se/","anhörigorganisation,intresseförening,patientförening",""
@@ -7716,6 +7716,7 @@
 "1233164746","802482-5880","Stiftelsen Silverblänk","https://silverblänk.se/","donation,funktionsnedsättning,funktionsvariation,segelklubb,segelsällskap,stiftelse",""
 "1233170289","877100-8219","Hembygdsföreningen Noraskog","https://www.hembygd.se/hembygdsforeningen-noraskog","hembygdsförening",""
 "1233170503","817606-5962","Bälinge Bygdegårdsförening","https://bygdegardarna.se/balinge/","bygdegårdsförening",""
+"1233171485","802439-0422","Hela Sverige Ska Leva","https://www.helasverige.se/","intresseförening","Göteborgsregionen"
 "1233172103","857201-7237","Sävedalens IF","https://www.svenskalag.se/savedalensif","fotbollsklubb,idrottsförening",""
 "1233173507","802535-2587","Kungsbacka Tillsammansodling","https://www.kungsbackatillsammansodling.se/","ideell förening,trädgårdsodling",""
 "1233174273","802538-1339","Östra Ämtervik LRF","https://www.lrf.se/regioner/varmland/","intresseförening",""
@@ -10238,6 +10239,7 @@
 "1234229647","886000-3576","Söderhamns Orienteringsklubb","https://soderhamnsok.se/","idrottsförening,orienteringsklubb","Arrangemang"
 "1234229852","802442-1623","Hammarby IF Ishockeyförening","https://www.hammarbyhockey.se/","idrottsförening,ishockeyklubb","Ungdom"
 "1234229969","802432-2565","SPF Seniorerna Ängelholm","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-angelholm/","pensionärsklubb",""
+"1234230157","769643-2819","Bolmenbygdens Friskola","https://bolmenbygdensfriskola.se/","friskola",""
 "1234231270","839400-1583","Torekovs IK","https://www.svenskalag.se/torekovsik","agilityklubb,idrottsförening",""
 "1234231726","802524-4438","Demensföreningen i Halmstad","https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/hallands-lan/halmstad/","anhörigorganisation,patientförening",""
 "1234232658","898801-2822","Wibax IBF Piteå","https://www.svenskalag.se/wibaxibf","idrottsförening,innebandyklubb",""
@@ -12537,7 +12539,7 @@
 "1235267703","864500-1051","Borås Atletklubb","https://www.borasatletklubb.se/","atletklubb,idrottsförening",""
 "1235268974","848000-8062","Rotary Ystad","https://ystad.rotary2390.se/","rotaryklubb",""
 "1235269469","827500-3831","IFK Stockaryd","https://www.svenskalag.se/ifkstockaryd","fotbollsklubb,idrottsförening,motionsklubb,orienteringsklubb,skidlöparklubb",""
-"1235272117","875002-7487","Hela Sverige Ska Leva","https://www.helasverige.se/","intresseförening",""
+"1235272117","875002-7487","Hela Sverige Ska Leva","https://www.helasverige.se/","intresseförening","Örebro län"
 "1235272141","802446-3914","Täby Ju-Jutsuklubb","https://tabyjujutsu.se/","idrottsförening,jujutsuklubb,kampsportsförening",""
 "1235272521","802017-5090","Disabled Refugees Welcome / Stiftelse Institutet för Independent Living","https://disabledrefugeeswelcome.se/","donation,hjälporganisation,rörelsehindrad,stiftelse,välgörenhet",""
 "1235273032","838800-0781","Hammenhögs IF","https://www.svenskalag.se/hammenhogsif","fotbollsklubb,idrottsförening",""
@@ -13064,7 +13066,7 @@
 "1235476700","969787-4049","WRP Sweden","https://www.wrpshop.se/","fordonsutrustning,försäljning",""
 "1235477047","802407-9074","Riksförbundet Balans","https://balansriks.se/","anhörigorganisation,patientförening,riksförbund",""
 "1235479001","802458-7589","Örkelljunga Karateklubb","https://orkelljungajka.se/","idrottsförening,kampsportsförening,karateklubb",""
-"1235480231","556936-7617","Filmbyn Småland i Marinnelund / Snickerboa Mariannelund AB","https://filmbyn.se/","intresseförening,kulturförening",""
+"1235480231","556936-7617","Snickerboa Mariannelund AB","https://filmbyn.se/","intresseförening,kulturförening","Filmbyn Småland i Marinnelund"
 "1235482138","559297-0619","Låke 109 AB","","massage",""
 "1235482344","875000-0641","IF Eker Örebro","https://www.laget.se/IFEker/","fotbollsklubb,idrottsförening",""
 "1235484118","802014-1928","PRO Vällingby-Spånga","https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-stockholm/foreningar/vallingby-spanga.html","pensionärsklubb",""
@@ -15774,6 +15776,7 @@
 "1236616189","857202-3656","Askims bastu","https://www.askimsbastu.se/","bastu,intresseförening",""
 "1236616775","802525-4262","Vänge-Guldrupe Bygdegårdsförening","https://bygdegardarna.se/vange/","bygdegårdsförening",""
 "1236616858","897000-2195","Pingstförsamlingen i Klöverträsk","https://www.klovertraskpingst.com/","religion","Ignite Sverige"
+"1236617245","882601-9955","Hela Sverige Ska Leva","https://www.helasverige.se/","intresseförening","Dalarna"
 "1236617500","802405-0216","Skärgårdsstiftelsen I Stockholms Län","https://skargardsstiftelsen.se/","havsvård,naturskydd,naturvård,stiftelse",""
 "1236619282","878001-0768","Västerås Sjöscoutkår","https://vassjo.scout.se/","scoutkår",""
 "1236619340","802420-4383","Stallarholmens Nätverk","https://www.stallarholmen.info/","ideell förening",""
@@ -16876,7 +16879,7 @@
 "1239003625","802003-0972","Ljus i Öster","https://www.ljusioster.se/","insamlingskontroll",""
 "1239003633","802477-8188","Insamlingsstiftelsen Sightsavers International, Sverige","https://www.sightsavers.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse",""
 "1239003641","802467-9956","Compassion Sverige","https://www.compassion.se/","godkänd gåvomottagare,insamlingskontroll",""
-"1239003658","802455-9794","Föreningen för gatubarn i Nepal","https://www.gatubarnnepal.net/","godkänd gåvomottagare,insamlingskontroll",""
+"1239003658","802455-9794","Föreningen för gatubarn i Nepal","https://www.gatubarnnepal.net/","donation,godkänd gåvomottagare,insamlingskontroll,välgörenhet",""
 "1239003666","802477-7495","Insamlingsstiftelsen till minne av Gustav Whitefield","https://www.gustavwhitefield.com/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet",""
 "1239003674","802477-9202","Insamlingsstiftelsen Njurfonden","https://www.njurfonden.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet",""
 "1239003724","802477-9269","Insamlingsstiftelsen Oxfam Sverige","https://www.oxfam.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse",""

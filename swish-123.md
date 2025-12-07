@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-02-rev-214105
+Revision: 2025-12-07-rev-131406
 
-Nummer: 17172
+Nummer: 17175
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -6170,7 +6170,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **BK Frisk**
 
-    123 116 63 54 - nulls
+    123 116 63 54
 
 
 
@@ -7108,6 +7108,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bollstanäs SK**
 
     123 188 42 20
+
+
+
+
+**Bolmenbygdens Friskola**
+
+    123 423 01 57
 
 
 
@@ -20174,13 +20181,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Filmbyn Småland i Marinnelund / Snickerboa Mariannelund AB**
-
-    123 548 02 31
-
-
-
-
 **Filmis Uddevalla filmstudio**
 
     123 345 41 47
@@ -30856,7 +30856,21 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Hela Sverige Ska Leva**
 
-    123 527 21 17
+    123 317 14 85 - Göteborgsregionen
+
+
+
+
+**Hela Sverige Ska Leva**
+
+    123 527 21 17 - Örebro län
+
+
+
+
+**Hela Sverige Ska Leva**
+
+    123 661 72 45 - Dalarna
 
 
 
@@ -74450,6 +74464,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Snatra Sportstugeförening**
 
     123 214 56 21
+
+
+
+
+**Snickerboa Mariannelund AB**
+
+    123 548 02 31 - Filmbyn Småland i Marinnelund
 
 
 
