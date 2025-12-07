@@ -5785,6 +5785,14 @@ entries:
   - politiskt parti
   web: https://www.socialisterna.org/
 
+- entry: 1230283473
+  orgName: Djurens Vänner
+  orgNumber: 802007-0572
+  comment: Stockholm
+  categories:
+  - djurskydd
+  web: https://www.djurensvanner.se/stockholm
+
 - entry: 1230286500
   orgName: SPF Seniorerna Rengen Linköping
   orgNumber: 802440-2458
@@ -26101,6 +26109,14 @@ entries:
   categories:
   - rotaryklubb
   web: https://norrtalje.rotary2355.se/
+
+- entry: 1231177443
+  orgName: Hammenhögsbygdens Byalag
+  orgNumber: 802542-5797
+  comment: null
+  categories:
+  - byalag
+  web: https://hammenhog.se/
 
 - entry: 1231177693
   orgName: Sundbybergs Hockeysällskap
@@ -47096,6 +47112,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/ornskoldsvikssodra/anundsjo--skorped
+
+- entry: 1232175776
+  orgName: Belöningsbaserad Hästträning
+  orgNumber: 802530-7789
+  comment: null
+  categories:
+  - hästsport
+  - hästträning
+  web: https://bhis.se/
 
 - entry: 1232175933
   orgName: Sjulsmarks Skoter Och Fiskevårdsförening
@@ -68741,8 +68766,8 @@ entries:
   web: https://www.roks.se/hittaenjour?key=kiruna
 
 - entry: 1233145703
-  orgName: S:t Afrems Kyrka / Syrianska Fastighetsbolag Handelsbolag
-  orgNumber: 969673-0861
+  orgName: Syrisk Ortodoxa Kyrkans Församling
+  orgNumber: 815600-5152
   comment: null
   categories:
   - religion
@@ -74900,6 +74925,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/bosnafc
+
+- entry: 1233448263
+  orgName: Gatans Förband
+  orgNumber: 802543-2546
+  comment: null
+  categories:
+  - sjukvård
+  web: https://preppatillsammans.se/gatansforband/index.html
 
 - entry: 1233448271
   orgName: Gyncacerföreningen Stockholm-Uppsala
@@ -93171,6 +93204,7 @@ entries:
   orgNumber: 802420-6875
   comment: null
   categories:
+  - djursjukvård
   - djurskydd
   web: https://hundhjalpen.se/
 
@@ -101436,9 +101470,9 @@ entries:
   web: https://www.laget.se/OjebynsIBF/
 
 - entry: 1234723524
-  orgName: Djurens Vänner Umeå
+  orgName: Djurens Vänner
   orgNumber: 802540-3166
-  comment: null
+  comment: Umeå
   categories:
   - djurskydd
   web: https://www.djurensvanner.se/umea
@@ -102667,6 +102701,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
+
+- entry: 1234809885
+  orgName: Dagens Arena
+  orgNumber: 556581-0875
+  comment: null
+  categories:
+  - e-tidskrift
+  - lokaltidning
+  - tidsskrifter
+  web: https://www.dagensarena.se/
 
 - entry: 1234809984
   orgName: Tidningen Arbetaren
@@ -115538,6 +115582,7 @@ entries:
   orgNumber: 825000-8177
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.finspangsgk.se/
 
@@ -125957,6 +126002,14 @@ entries:
   - massage
   - yoga
   web: https://www.matildasprofylax.se/
+
+- entry: 1235890496
+  orgName: Gotlands Guideförening
+  orgNumber: 802502-1182
+  comment: null
+  categories:
+  - yrkesförening
+  web: https://gotlandsguideforening.se/
 
 - entry: 1235890827
   orgName: Ruda Revy och Teatersällskap

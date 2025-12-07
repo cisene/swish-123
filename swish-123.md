@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-07-rev-131406
+Revision: 2025-12-07-rev-162013
 
-Nummer: 17175
+Nummer: 17181
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -4766,6 +4766,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Belt and Road Institute in Sweden, BRIX**
 
     123 241 24 43
+
+
+
+
+**Belöningsbaserad Hästträning**
+
+    123 217 57 76
 
 
 
@@ -13195,6 +13202,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dagens Arena**
+
+    123 480 98 85
+
+
+
+
 **Dagens ETC AB**
 
     123 401 87 68
@@ -14503,6 +14517,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Djurens Vänner**
 
+    123 028 34 73 - Stockholm
+
+
+
+
+**Djurens Vänner**
+
     123 634 76 94 - Jönköping
 
 
@@ -14539,6 +14560,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Djurens Vänner**
 
     123 116 13 30 - Karlshamn
+
+
+
+
+**Djurens Vänner**
+
+    123 472 35 24 - Umeå
 
 
 
@@ -14588,13 +14616,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Djurens Vänner**
 
     123 074 07 12 - Lidköping
-
-
-
-
-**Djurens Vänner Umeå**
-
-    123 472 35 24
 
 
 
@@ -25798,6 +25819,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gatans Förband**
+
+    123 344 82 63
+
+
+
+
 **Gatans Vänner**
 
     123 339 64 88
@@ -26899,6 +26927,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Gotlands Fiskerimuseum Kovik**
 
     123 345 30 32
+
+
+
+
+**Gotlands Guideförening**
+
+    123 589 04 96
 
 
 
@@ -29813,6 +29848,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Hammenhögs Pistolklubb**
 
     123 085 93 14
+
+
+
+
+**Hammenhögsbygdens Byalag**
+
+    123 117 74 43
 
 
 
@@ -69138,13 +69180,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**S:t Afrems Kyrka / Syrianska Fastighetsbolag Handelsbolag**
-
-    123 314 57 03
-
-
-
-
 **S:t Eriks Orkesterförening**
 
     123 597 93 23
@@ -85014,6 +85049,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Syrisk Ortodoxa Kyrkan i Tensta**
 
     123 208 68 74
+
+
+
+
+**Syrisk Ortodoxa Kyrkans Församling**
+
+    123 314 57 03
 
 
 
