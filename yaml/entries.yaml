@@ -9032,6 +9032,14 @@ entries:
   - politiskt parti
   web: https://www.vansterpartiet.se/
 
+- entry: 1230410233
+  orgName: Bostadsrättsföreningen Silo III
+  orgNumber: 769622-5403
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.brfsilo.se/
+
 - entry: 1230410290
   orgName: Capella Ecumenica
   orgNumber: 825001-4753
@@ -28116,6 +28124,17 @@ entries:
   - yrkesutbildning
   web: https://mastarregistret.se/
 
+- entry: 1231239870
+  orgName: Animals H.O.P.E.
+  orgNumber: 802458-3240
+  comment: Fågelcentralen
+  categories:
+  - djursjukvård
+  - djurskydd
+  - fågelskådning
+  - ornitologi
+  web: https://fagelcentralen.se/
+
 - entry: 1231239979
   orgName: Karlstads Fågelhundklubb
   orgNumber: 802487-6198
@@ -33013,6 +33032,16 @@ entries:
   categories:
   - religion
   web: https://www.pingstlidkoping.se/
+
+- entry: 1231477942
+  orgName: OK Kolmården
+  orgNumber: 825003-0015
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://okkolmarden.com/
 
 - entry: 1231478189
   orgName: Håvens Bygdegårdförening
@@ -42654,6 +42683,23 @@ entries:
   - båtsällskap
   web: http://www.edenrydsbatklubb.se/
 
+- entry: 1231906494
+  orgName: Ellinors Kök & Bar
+  orgNumber: 559303-9489
+  comment: Julgåva
+  categories:
+  - bar
+  - restaurant
+  web: https://ellinorsbar.se/
+
+- entry: 1231906676
+  orgName: Bostadsrättsföreningen Eolshäll
+  orgNumber: 769613-1130
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.eolshallbrf.se/
+
 - entry: 1231907567
   orgName: Tofteryd-Hagshults Hembygdsförening
   orgNumber: 828000-7017
@@ -45557,6 +45603,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/mellerud
+
+- entry: 1232053197
+  orgName: SPF Seniorerna Skövde
+  orgNumber: 866601-0254
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/skovde/
 
 - entry: 1232053379
   orgName: Björntjänst Musikkurser Kb
@@ -48491,6 +48545,14 @@ entries:
   categories:
   - religion
   web: https://equmeniakyrkan.se/flataskyrkan/
+
+- entry: 1232184968
+  orgName: Nerikes Kattklubb
+  orgNumber: 875001-0640
+  comment: null
+  categories:
+  - kattklubb
+  web: https://www.nerk.se/
 
 - entry: 1232184976
   orgName: Göteborgkyrkan
@@ -56905,6 +56967,14 @@ entries:
   - stiftelse
   web: https://doku.nu/
 
+- entry: 1232570935
+  orgName: Bostadsrättsföreningen Sjöstadsviken
+  orgNumber: 769614-0834
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://hemsida.sbc.se/brf-sjostadsviken
+
 - entry: 1232571552
   orgName: Jönköping Qom Ut
   orgNumber: 802468-7934
@@ -64010,6 +64080,16 @@ entries:
   - vänskapsförening
   web: https://www.blekinge-gille-stockholm.se/
 
+- entry: 1232865400
+  orgName: Nätverket Kvinnor inom Räddningstjänsten
+  orgNumber: 802458-4560
+  comment: null
+  categories:
+  - blåljus
+  - intresseförening
+  - kvinnligt nätverk
+  web: https://www.kirtj.se/
+
 - entry: 1232866028
   orgName: Svensk Förening för Sexologi
   orgNumber: 802488-8623
@@ -66476,6 +66556,14 @@ entries:
   - släktforskning
   web: https://uf.konkordia.se/
 
+- entry: 1232989036
+  orgName: Bostadsrättsföreningen Kvarnbergsplan i Huddinge
+  orgNumber: 769616-6409
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.brfkvarnbergsplan.se/
+
 - entry: 1232990281
   orgName: Näsby IF
   orgNumber: 838200-3245
@@ -66517,6 +66605,7 @@ entries:
   comment: Adoptionsavgift
   categories:
   - djurskydd
+  - hundhem
   web: https://hundarutanhem.se/
 
 - entry: 1232990604
@@ -67200,6 +67289,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/kalmar-stad
 
+- entry: 1233029857
+  orgName: Bostadsrättsföreningen Skidstaven 1 i Umeå
+  orgNumber: 794000-1873
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://skidstaven.ac.se/
+
 - entry: 1233030202
   orgName: BUFFF Västmanlands i Västerås
   orgNumber: 802512-9688
@@ -67544,6 +67641,14 @@ entries:
   categories:
   - konstförening
   web: https://www.nykopingskonstforening.nu/
+
+- entry: 1233037900
+  orgName: Norrskenskatten
+  orgNumber: 802433-1418
+  comment: null
+  categories:
+  - kattklubb
+  web: https://www.norrskenskatten.se/
 
 - entry: 1233038239
   orgName: Gåxsjö Bygdegårdsförening
@@ -76303,6 +76408,14 @@ entries:
   - stödverksamhet
   web: https://allmannabarnhuset.se/
 
+- entry: 1233437704
+  orgName: Bostadsrättsföreningen Örnen i Malmö
+  orgNumber: 716407-0406
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://ornen.nu/
+
 - entry: 1233440047
   orgName: Domnarvets GoIF
   orgNumber: 882600-5236
@@ -82057,6 +82170,14 @@ entries:
   - social hälsa
   - stödförening
   web: https://www.rsmhhallstahammar.se/
+
+- entry: 1233684784
+  orgName: Bostadsrättsföreningen Gamla Bryggeriet i Norrköping
+  orgNumber: 716402-5558
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://brfgb.hemsida24.se/
 
 - entry: 1233687480
   orgName: Orresta IF
@@ -91987,6 +92108,14 @@ entries:
   - veteranförening
   web: https://www.laget.se/soha/
 
+- entry: 1234175899
+  orgName: Bostadsrättsföreningen Fagotten i Lund
+  orgNumber: 716406-8129
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.fagotten.org/
+
 - entry: 1234177051
   orgName: SPF Seniorerna Sällskapet Armeria Skanör-Falsterbo
   orgNumber: 802437-4384
@@ -92210,6 +92339,15 @@ entries:
   categories:
   - religion
   web: https://www.chabadstockholm.com/
+
+- entry: 1234182754
+  orgName: Höllvikens Boxningsklubb
+  orgNumber: 847000-4337
+  comment: null
+  categories:
+  - boxningsklubb
+  - idrottsförening
+  web: https://www.hollvikenboxning.se/
 
 - entry: 1234182804
   orgName: Charity by Friendship Stiftelse
@@ -97477,6 +97615,14 @@ entries:
   - diabetesvård
   - förening
   web: https://www.swenurse.se/sektionerochnatverk/svenskforeningforsjukskoterskorinomdiabetesvard.4.17badfa01722c2fa1731011e.html
+
+- entry: 1234434718
+  orgName: Bostadsrättsföreningen Lokatten i Göteborg
+  orgNumber: 716408-9083
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.brflokatten.se/
 
 - entry: 1234434981
   orgName: Utby Idrottsklubb
@@ -103771,6 +103917,14 @@ entries:
   - dansförening
   web: https://svenopias.se/dansen/
 
+- entry: 1234734240
+  orgName: Alfakatten
+  orgNumber: 802401-3933
+  comment: null
+  categories:
+  - kattklubb
+  web: https://www.alfakatten.se/
+
 - entry: 1234734331
   orgName: Insamlingsstiftelsen Nanne Network
   orgNumber: 802477-9673
@@ -104036,6 +104190,17 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/rommele
+
+- entry: 1234759155
+  orgName: Riksförbundet HjärtLung
+  orgNumber: 814400-9886
+  comment: Norrtälje
+  categories:
+  - anhörigorganisation
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/foreningar/stockholm/lokalforeningar/norrtalje/
 
 - entry: 1234759189
   orgName: Synskadades Riksförbund
@@ -110814,7 +110979,7 @@ entries:
   web: https://www.gusk.nu/
 
 - entry: 1235116793
-  orgName: Föreningen Ädelkatten
+  orgName: Ädelkatten
   orgNumber: 857203-8662
   comment: null
   categories:
@@ -111543,6 +111708,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/skollersta
+
+- entry: 1235136981
+  orgName: Bostadsrättsföreningen Finnberget
+  orgNumber: 769606-5841
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.finnberget.se/
 
 - entry: 1235137104
   orgName: Åkerby Suzukiförening
@@ -117483,6 +117656,14 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/mellby/
 
+- entry: 1235395033
+  orgName: Östkatten
+  orgNumber: 825001-8770
+  comment: null
+  categories:
+  - kattklubb
+  web: https://www.ostkatten.com/
+
 - entry: 1235395538
   orgName: Örebro SK Ungdom
   orgNumber: 875001-6894
@@ -117932,6 +118113,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/floby
+
+- entry: 1235410287
+  orgName: Demokratiresan i Sotenäs
+  orgNumber: 802535-9301
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://demokratiresan.se/
 
 - entry: 1235411327
   orgName: Alega Software AB
@@ -121235,6 +121424,14 @@ entries:
   categories:
   - byalag
   web: https://www.ryggesbohomnabobyalag.se/
+
+- entry: 1235547211
+  orgName: Dalälvskatten
+  orgNumber: 882602-1241
+  comment: null
+  categories:
+  - kattklubb
+  web: https://dalalvskatten.se/
 
 - entry: 1235547468
   orgName: Föreningen Bruksgården
@@ -126354,6 +126551,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/floda-hembygdsforening
+
+- entry: 1235773023
+  orgName: Kattklubben SVISS
+  orgNumber: 845003-1532
+  comment: null
+  categories:
+  - katthem
+  - kattklubb
+  web: https://www.sviss.se/
 
 - entry: 1235773296
   orgName: Ödeshögs TK
@@ -141510,6 +141716,13 @@ entries:
   categories: null
   web: https://www.triofrottola.com/
 
+- entry: 1236479943
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1236480297
   orgName: Lexina Sweden AB
   orgNumber: 559228-5802
@@ -141598,6 +141811,14 @@ entries:
   - skytteklubb
   - sportskytteklubb
   web: https://www.spljungby.se/
+
+- entry: 1236482384
+  orgName: Dackekatten
+  orgNumber: 826001-6897
+  comment: null
+  categories:
+  - kattklubb
+  web: https://www.dackekatten.se/
 
 - entry: 1236483572
   orgName: Kristianstads Radioamatörer, SK7BQ
@@ -152549,6 +152770,14 @@ entries:
   - donation
   - kvinnojour
   web: https://kvinnojourensater.se/
+
+- entry: 1236967236
+  orgName: Bostadsrättsföreningen Mårtensberg i Vendelsö
+  orgNumber: 716419-4693
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.martensberg.se/
 
 - entry: 1236967319
   orgName: Hundlekplats Gotland

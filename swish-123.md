@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-07-rev-162013
+Revision: 2025-12-08-rev-222230
 
-Nummer: 17181
+Nummer: 17207
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -1263,6 +1263,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Alfakatten**
+
+    123 473 42 40
+
+
+
+
 **Alfazulu Group / Andreas Zetterlund Social Enterprise Group**
 
     123 322 03 73
@@ -2455,6 +2462,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Animals H.O.P.E.**
+
+    123 123 98 70 - Fågelcentralen
 
     123 253 59 12 - Fågelcentralen
 
@@ -8090,6 +8099,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Eolshäll**
+
+    123 190 66 76
+
+
+
+
 **Bostadsrättsföreningen Essinge Mälarstrand**
 
     123 461 62 56
@@ -8111,9 +8127,23 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Fagotten i Lund**
+
+    123 417 58 99
+
+
+
+
 **Bostadsrättsföreningen Falunhus nr 13**
 
     123 211 70 83
+
+
+
+
+**Bostadsrättsföreningen Finnberget**
+
+    123 513 69 81
 
 
 
@@ -8170,6 +8200,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Fågelsången i Helsingborg**
 
     123 291 81 18
+
+
+
+
+**Bostadsrättsföreningen Gamla Bryggeriet i Norrköping**
+
+    123 368 47 84
 
 
 
@@ -8562,6 +8599,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Kvarnbergsplan i Huddinge**
+
+    123 298 90 36
+
+
+
+
 **Bostadsrättsföreningen Kvarnhjulet i Bromma**
 
     123 324 42 58
@@ -8658,6 +8702,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Ljuset**
 
     123 336 66 06
+
+
+
+
+**Bostadsrättsföreningen Lokatten i Göteborg**
+
+    123 443 47 18
 
 
 
@@ -8763,6 +8814,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Mården på Rävpasset i Gävle**
 
     123 427 02 94
+
+
+
+
+**Bostadsrättsföreningen Mårtensberg i Vendelsö**
+
+    123 696 72 36
 
 
 
@@ -8998,6 +9056,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Silo III**
+
+    123 041 02 33
+
+
+
+
 **Bostadsrättsföreningen Silversmeden i Malmö**
 
     123 649 56 75
@@ -9012,6 +9077,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Sjöstadsviken**
+
+    123 257 09 35
+
+
+
+
 **Bostadsrättsföreningen Sjövikskajen**
 
     123 380 30 38
@@ -9022,6 +9094,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Skarpöhöjden i Nacka**
 
     123 258 80 93
+
+
+
+
+**Bostadsrättsföreningen Skidstaven 1 i Umeå**
+
+    123 302 98 57
 
 
 
@@ -9442,6 +9521,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Önneredsterrassen i Västra Frölunda**
 
     123 072 82 79
+
+
+
+
+**Bostadsrättsföreningen Örnen i Malmö**
+
+    123 343 77 04
 
 
 
@@ -13188,6 +13274,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dackekatten**
+
+    123 648 23 84
+
+
+
+
 **Dagen Gry AB**
 
     123 489 68 74
@@ -13536,6 +13629,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dalstorps SKF**
 
     123 049 73 88
+
+
+
+
+**Dalälvskatten**
+
+    123 554 72 11
 
 
 
@@ -14155,6 +14255,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Demokratipiloterna**
 
     123 225 64 44
+
+
+
+
+**Demokratiresan i Sotenäs**
+
+    123 541 02 87
 
 
 
@@ -16880,6 +16987,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ellen Keys Stiftelse Strand**
 
     123 378 00 79
+
+
+
+
+**Ellinors Kök & Bar**
+
+    123 190 64 94 - Julgåva
 
 
 
@@ -25268,13 +25382,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen Zendokai Karate**
 
     123 483 85 12
-
-
-
-
-**Föreningen Ädelkatten**
-
-    123 511 67 93
 
 
 
@@ -34679,6 +34786,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Höllvikens Boxningsklubb**
+
+    123 418 27 54
+
+
+
+
 **Höllvikens Församling**
 
     123 591 50 53 - Kollekt
@@ -41820,6 +41934,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kattklubben Ryssfolket**
 
     123 424 00 16
+
+
+
+
+**Kattklubben SVISS**
+
+    123 577 30 23
 
 
 
@@ -56217,6 +56338,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nerikes Kattklubb**
+
+    123 218 49 68
+
+
+
+
 **Neuro Ung Med MS**
 
     123 307 96 96
@@ -57767,6 +57895,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Norrskenskatten**
+
+    123 303 79 00
+
+
+
+
 **Norrsundets Motorbåtsklubb**
 
     123 236 07 17
@@ -58926,6 +59061,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nätverket Kvinnor inom Räddningstjänsten**
+
+    123 286 54 00
+
+
+
+
 **Nätverket mot Gynekologisk Cancer**
 
     123 029 77 62
@@ -59266,6 +59408,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **OK Järnbärarna**
 
     123 573 08 33
+
+
+
+
+**OK Kolmården**
+
+    123 147 79 42
 
 
 
@@ -65998,6 +66147,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Riksförbundet HjärtLung**
 
     123 434 21 27 - Tranås
+
+
+
+
+**Riksförbundet HjärtLung**
+
+    123 475 91 55 - Norrtälje
 
 
 
@@ -76437,6 +76593,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **SPF Seniorerna Skövde**
+
+    123 205 31 97
 
     123 290 64 36
 
@@ -100375,6 +100533,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 ## Ä
 
+**Ädelkatten**
+
+    123 511 67 93
+
+
+
+
 **Äkta Vara Sverige**
 
     123 657 00 30
@@ -103844,6 +104009,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Östhjälpen**
 
     123 551 01 02
+
+
+
+
+**Östkatten**
+
+    123 539 50 33
 
 
 
