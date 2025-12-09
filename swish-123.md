@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-08-rev-222230
+Revision: 2025-12-10-rev-005038
 
-Nummer: 17207
+Nummer: 17227
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -7920,6 +7920,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Anden i Enköping**
+
+    123 051 46 79
+
+
+
+
 **Bostadsrättsföreningen Argus 3 i Växjö**
 
     123 341 13 29
@@ -7976,6 +7983,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Björkpyrolan**
 
     123 386 44 69
+
+
+
+
+**Bostadsrättsföreningen Björksätra i Växjö**
+
+    123 607 71 84
 
 
 
@@ -8078,6 +8092,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Duvan i Uppsala**
+
+    123 622 46 87
+
+
+
+
 **Bostadsrättsföreningen Dykärret 23**
 
     123 109 84 17
@@ -8141,6 +8162,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Fegen 2 i Årsta**
+
+    123 284 11 38
+
+
+
+
 **Bostadsrättsföreningen Finnberget**
 
     123 513 69 81
@@ -8151,6 +8179,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Finnboda Port i Nacka**
 
     123 261 62 66
+
+
+
+
+**Bostadsrättsföreningen Fjällvattnet**
+
+    123 481 86 05
 
 
 
@@ -8193,6 +8228,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Furan i Sandviken**
 
     123 305 98 21
+
+
+
+
+**Bostadsrättsföreningen Fyrhöjden**
+
+    123 376 25 49
+
+
+
+
+**Bostadsrättsföreningen Fältspaten i Göteborg**
+
+    123 625 71 41
 
 
 
@@ -8446,7 +8495,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bostadsrättsföreningen Hästängen**
+**Bostadsrättsföreningen Hästängen i Vänersborg**
 
     123 037 42 98
 
@@ -8484,6 +8533,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Ingenjören i Karlstad**
 
     123 071 17 54
+
+
+
+
+**Bostadsrättsföreningen Islandet Adolf**
+
+    123 383 09 57
 
 
 
@@ -8825,6 +8881,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Måsen i Lund**
+
+    123 510 92 36
+
+
+
+
 **Bostadsrättsföreningen Mörby 15 i Nynäshamn**
 
     123 648 57 18
@@ -8902,6 +8965,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Passaren i Örebro**
+
+    123 281 67 26
+
+
+
+
 **Bostadsrättsföreningen Paulus i Malmö**
 
     123 490 32 17
@@ -8916,7 +8986,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Bostadsrättsföreningen Pinneberget**
+**Bostadsrättsföreningen Pinneberget i Fiskebäckskil**
 
     123 637 46 31
 
@@ -9217,6 +9287,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Stormen i Kristianstad**
+
+    123 201 44 39
+
+
+
+
 **Bostadsrättsföreningen Strandparken 2 i Askersund**
 
     123 386 28 85
@@ -9392,6 +9469,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Ulvsättra**
+
+    123 201 00 80
+
+
+
+
+**Bostadsrättsföreningen Utsikten 1-35 i Nacka**
+
+    123 233 52 14
+
+
+
+
 **Bostadsrättsföreningen Valhall nr 218 i Haninge**
 
     123 140 32 78
@@ -9430,6 +9521,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Voxnan i Bagarmossen**
 
     123 401 85 52
+
+
+
+
+**Bostadsrättsföreningen Västerbris i Nacka**
+
+    123 068 84 32
 
 
 
@@ -15443,6 +15541,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Dropzone Discgolfklubb**
 
     123 555 09 91
+
+
+
+
+**Drott24 Städ & Flytt AB**
+
+    123 138 22 17
 
 
 
@@ -38646,6 +38751,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Intresseföreningen Varvseken**
+
+    123 611 49 46
+
+
+
+
 **Intressegruppen för Assistansberättigade, IfA**
 
     123 558 96 35
@@ -40994,6 +41106,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kappi Islandshästförening**
 
     123 038 37 78
+
+
+
+
+**Karabro AB**
+
+    123 539 09 27
 
 
 
@@ -58019,6 +58138,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Norrtäljehjälpen Ideell Förening**
+
+    123 017 69 09
+
+
+
+
 **Norrtäljeortens Biodlarförening**
 
     123 379 50 69
@@ -65168,6 +65294,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Regna Hembygdsförening**
 
     123 123 29 33
+
+
+
+
+**Regnets Samfällighetsförening**
+
+    123 586 26 93
 
 
 
@@ -96938,6 +97071,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Vänföreningen Nilssons El & Teknikmuseum**
 
     123 577 43 93
+
+
+
+
+**Vänföreningen S/S Norrtelje**
+
+    123 548 12 39
 
 
 
