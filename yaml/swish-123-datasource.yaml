@@ -1119,6 +1119,14 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/varmland/kommun/saffle/pro-saffle
 
+- entry: 1230059949
+  orgName: Bostadsrättsföreningen Huggaren i Malmö
+  orgNumber: 746000-5601
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/malmo/brf/huggaren/
+
 - entry: 1230061549
   orgName: Sundsvalls Missionsförsamling
   orgNumber: 889200-3669
@@ -2316,6 +2324,15 @@ entries:
   - musikförening
   web: https://www.divertimento.se/
 
+- entry: 1230114702
+  orgName: UnderSammaTak
+  orgNumber: 802448-3995
+  comment: null
+  categories:
+  - hyresrättsförening
+  - kollektivhus
+  web: https://www.undersammatak.org/
+
 - entry: 1230114801
   orgName: Thoralf Alfsson
   orgNumber: 571013-XXXX
@@ -2524,6 +2541,14 @@ entries:
   categories:
   - politiskt parti
   web: https://partietvandpunkt.se/
+
+- entry: 1230128348
+  orgName: Oscarshemmet Föreningen
+  orgNumber: 802002-5782
+  comment: null
+  categories:
+  - seniorboende
+  web: https://oscarshemmet.se/
 
 - entry: 1230128827
   orgName: Sailstar / Sandstorm Produktion AB
@@ -6858,6 +6883,14 @@ entries:
   - idrottsförening
   web: https://ngoif.com/
 
+- entry: 1230322388
+  orgName: Ägnö Sjöscoutkår
+  orgNumber: 802433-6847
+  comment: null
+  categories:
+  - scoutkår
+  web: https://agno.se/
+
 - entry: 1230322719
   orgName: Håtö Seglarsällskap
   orgNumber: 815201-2780
@@ -9999,6 +10032,15 @@ entries:
   - samfällighetsförening
   web: https://www.marotornet.se/
 
+- entry: 1230455501
+  orgName: Ljungdalens Framtid
+  orgNumber: 769609-5483
+  comment: null
+  categories:
+  - intresseförening
+  - samhällsförening
+  web: https://ljungdalsfjallen.se/foreningar/ljungdalens-framtid-ekonomisk-forening/
+
 - entry: 1230455758
   orgName: Hörselskadades Riksförbund
   orgNumber: 866600-9546
@@ -10663,6 +10705,14 @@ entries:
   - stiftelse
   - yoga
   web: https://livsuniversitetet.se/
+
+- entry: 1230486761
+  orgName: Bostadsrättsföreningen Humlet i Göteborg
+  orgNumber: 716443-9577
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://www.hsb.se/goteborg/brf/humlet/
 
 - entry: 1230486928
   orgName: Carina Holgersson
@@ -12233,9 +12283,9 @@ entries:
   web: https://www.citytrafikskola.nu/
 
 - entry: 1230561621
-  orgName: Pantbanken Trollhättan
+  orgName: Pantbanken
   orgNumber: 556548-0406
-  comment: null
+  comment: Trollhättan
   categories:
   - pantbank
   web: https://panta.nu/
@@ -18775,6 +18825,16 @@ entries:
   - idrottsförening
   web: https://www.laget.se/BarkaroSK/
 
+- entry: 1230858043
+  orgName: Fristadbostäder AB
+  orgNumber: 556516-3119
+  comment: null
+  categories:
+  - bostadsbolag
+  - bostadskö
+  - hyreslägenheter
+  web: https://fribo.nu/
+
 - entry: 1230858183
   orgName: Ljusterö Idrottssällskap
   orgNumber: 802406-9539
@@ -21693,6 +21753,17 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/skon
 
+- entry: 1230973578
+  orgName: Jemwas AB
+  orgNumber: 556829-8151
+  comment: Åmsele Camping
+  categories:
+  - camping
+  - logi
+  - stuguthyrning
+  - övernattning
+  web: https://amselecamping.se/
+
 - entry: 1230973644
   orgName: Svenska Röda Korset
   orgNumber: 802002-8711
@@ -22151,6 +22222,14 @@ entries:
   categories:
   - bridgeklubb
   web: https://svenskbridge.se/rättviks-bs
+
+- entry: 1230991158
+  orgName: Arenagruppens Vänner
+  orgNumber: 802449-1808
+  comment: null
+  categories:
+  - vänförening
+  web: https://arenagruppen.se/om-oss/arenagruppens-vanner/
 
 - entry: 1230991273
   orgName: S:ta Maria Syrisk Ortodoxa Kyrkan i Göteborg
@@ -25089,6 +25168,16 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/BarkaroSK/
+
+- entry: 1231142835
+  orgName: Örnatorpet Ullared / Viktoria Fridskog
+  orgNumber: 910216-XXXX
+  comment: null
+  categories:
+  - logi
+  - stugby
+  - stuguthyrning
+  web: https://ornatorpet.com/
 
 - entry: 1231143726
   orgName: PRO Domsjö
@@ -47461,6 +47550,14 @@ entries:
   - religion
   web: https://heligahjartaskloster.se/
 
+- entry: 1232182723
+  orgName: Svenska Jerusalemsföreningen
+  orgNumber: 802007-1877
+  comment: null
+  categories:
+  - religion
+  web: https://www.jerusalemsforeningen.se/
+
 - entry: 1232183002
   orgName: Torsby Ridklubb
   orgNumber: 874000-4570
@@ -52092,6 +52189,16 @@ entries:
   - kommun
   web: https://www.karlskrona.se/
 
+- entry: 1232347458
+  orgName: Sparreholms Bygderåd
+  orgNumber: 817607-2059
+  comment: null
+  categories:
+  - byaråd
+  - bygdegårdsförening
+  - bygderåd
+  web: https://sparreholm.eu/
+
 - entry: 1232348985
   orgName: Växjö Fotoklubb
   orgNumber: 829501-4123
@@ -55667,6 +55774,8 @@ entries:
   orgNumber: 802481-4702
   comment: null
   categories:
+  - forskning
+  - leukemiforskning
   - stiftelse
   web: https://www.ellenbachrachsminnesfond.se/
 
@@ -61023,6 +61132,14 @@ entries:
   - segelsällskap
   web: https://www.sbsk.se/
 
+- entry: 1232780310
+  orgName: Föreningen för Arbets- och Miljömedicin, ARM
+  orgNumber: 802006-0375
+  comment: null
+  categories:
+  - intresseförening
+  web: https://arm-arbetsochmiljomedicin.com/
+
 - entry: 1232780765
   orgName: Hässleholms Flygklubb
   orgNumber: 837000-6283
@@ -64521,6 +64638,14 @@ entries:
   categories:
   - veterinär
   web: https://www.nolbergavet.se/
+
+- entry: 1232947927
+  orgName: Tankesmedjan Environment and Public Health Institute, EPHI
+  orgNumber: 802535-2322
+  comment: null
+  categories:
+  - tankesmedja
+  web: https://ephi.se/
 
 - entry: 1232948909
   orgName: Förbundet för Ekoparken
@@ -71114,6 +71239,7 @@ entries:
   categories:
   - bostadsbolag
   - fastighetsbolag
+  - hyreslägenheter
   web: https://sjobohem.se/
 
 - entry: 1233263712
@@ -76482,6 +76608,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/OnnekopsIF/
 
+- entry: 1233501749
+  orgName: Föreningen Malenbo
+  orgNumber: 957093-3433
+  comment: null
+  categories:
+  - intresseförening
+  - villaägareförening
+  web: https://www.malenbo.se/
+
 - entry: 1233501798
   orgName: Furudals Bruks Golfklubb
   orgNumber: 883201-8470
@@ -78307,6 +78442,14 @@ entries:
   - idrottsförening
   - vattenskidklubb
   web: https://www.svsk.se/
+
+- entry: 1233570454
+  orgName: Bostadsrättsföreningen Vetterslund i Västerås
+  orgNumber: 778000-3385
+  comment: null
+  categories:
+  - bostadsrättsförening
+  web: https://vetterslund.se/
 
 - entry: 1233571023
   orgName: Aktiva Seniorer Gävle
@@ -95589,6 +95732,15 @@ entries:
   categories:
   - rotaryklubb
   web: https://rotary2390.se/
+
+- entry: 1234432142
+  orgName: Bruksvallarna Event AB
+  orgNumber: 556792-1597
+  comment: Spårkort
+  categories:
+  - eventarrangör
+  - vintersport
+  web: https://www.bruksvallarna.se/
 
 - entry: 1234432159
   orgName: Uppsala Handbollsklubb
@@ -129109,6 +129261,14 @@ entries:
   - patientförening
   web: https://hpn.se/
 
+- entry: 1236022065
+  orgName: Baren & Baren Rest i Uppsala AB
+  orgNumber: 556515-6741
+  comment: null
+  categories:
+  - restaurant
+  web: null
+
 - entry: 1236022289
   orgName: Kvinnojouren Mira i Nyköping
   orgNumber: 819000-8949
@@ -135752,6 +135912,14 @@ entries:
   - samfällighetsförening
   web: https://vaxmora.se/
 
+- entry: 1236316426
+  orgName: Hem För Gamla i Örebro Stiftelsen
+  orgNumber: 875000-8636
+  comment: null
+  categories:
+  - seniorboende
+  web: https://shgseniorboende.se/
+
 - entry: 1236318398
   orgName: Almby IK
   orgNumber: 875000-7265
@@ -136228,6 +136396,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/solberga
+
+- entry: 1236344089
+  orgName: Refugees Welcome Sverige
+  orgNumber: 802497-2658
+  comment: null
+  categories:
+  - intresseförening
+  web: null
 
 - entry: 1236344204
   orgName: Ronneby HK
@@ -138162,6 +138338,7 @@ entries:
   comment: null
   categories:
   - bostadsbolag
+  - hyreslägenheter
   web: https://www.haningebostader.se/
 
 - entry: 1236441653
@@ -149745,6 +149922,14 @@ entries:
   - idrottsförening
   - orienteringsklubb
   web: https://soderhamnsok.se/
+
+- entry: 1236959183
+  orgName: Gävle Stadstrafiks Personalklubb, GSP
+  orgNumber: 885000-0640
+  comment: null
+  categories:
+  - personalklubb
+  web: https://gavlesp.se/
 
 - entry: 1236959431
   orgName: Österfärnebo RS - Ridsport

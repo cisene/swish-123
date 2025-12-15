@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-14-rev-135853
+Revision: 2025-12-15-rev-210943
 
-Nummer: 17228
+Nummer: 17249
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -2890,6 +2890,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Arenagruppens Vänner**
+
+    123 099 11 58
+
+
+
+
 **Arentorp Helås FK**
 
     123 001 86 71
@@ -4286,6 +4293,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Barbalander AB**
 
     123 694 75 43
+
+
+
+
+**Baren & Baren Rest i Uppsala AB**
+
+    123 602 20 65
 
 
 
@@ -8362,6 +8376,20 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Bostadsrättsföreningen Huggaren i Malmö**
+
+    123 005 99 49
+
+
+
+
+**Bostadsrättsföreningen Humlet i Göteborg**
+
+    123 048 67 61
+
+
+
+
 **Bostadsrättsföreningen Hyveln i Vänersborg**
 
     123 658 89 74
@@ -9395,6 +9423,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Bostadsrättsföreningen Vesslan Örebro**
 
     123 091 22 79
+
+
+
+
+**Bostadsrättsföreningen Vetterslund i Västerås**
+
+    123 357 04 54
 
 
 
@@ -10458,6 +10493,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Brukshundservice Sverige AB**
 
     123 583 88 18
+
+
+
+
+**Bruksvallarna Event AB**
+
+    123 443 21 42 - Spårkort
 
 
 
@@ -22180,6 +22222,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Fristadbostäder AB**
+
+    123 085 80 43
+
+
+
+
 **Fritsla Hockeyklubb**
 
     123 219 94 46
@@ -23843,6 +23892,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen för Arbets- och Miljömedicin, ARM**
+
+    123 278 03 10
+
+
+
+
 **Föreningen för Cultural Planning i Sverige**
 
     123 204 93 02
@@ -24490,6 +24546,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Föreningen M 20**
 
     123 303 11 68
+
+
+
+
+**Föreningen Malenbo**
+
+    123 350 17 49
 
 
 
@@ -28550,6 +28613,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Gävle Stadstrafiks Personalklubb, GSP**
+
+    123 695 91 83
+
+
+
+
 **Gävle TravHästägareförening**
 
     123 040 80 54
@@ -31164,6 +31234,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **HelsingPadel**
 
     123 498 02 07
+
+
+
+
+**Hem För Gamla i Örebro Stiftelsen**
+
+    123 631 64 26
 
 
 
@@ -38893,6 +38970,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **JB CNC & Linear Components AB**
 
     123 239 61 58
+
+
+
+
+**Jemwas AB**
+
+    123 097 35 78 - Åmsele Camping
 
 
 
@@ -49479,6 +49563,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ljungdalens Framtid**
+
+    123 045 55 01
+
+
+
+
 **Ljungdalens Friluftsförening Turist- & Informations Byrå**
 
     123 032 89 22
@@ -59869,6 +59960,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Oscarshemmet Föreningen**
+
+    123 012 83 48
+
+
+
+
 **Oskarshamns AIK**
 
     123 304 80 14
@@ -60216,14 +60314,14 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Pantbanken**
 
+    123 056 16 21 - Trollhättan
+
     123 510 01 28 - Skövde
 
 
 
 
 **Pantbanken Trollhättan**
-
-    123 056 16 21
 
     123 389 45 08
 
@@ -64653,6 +64751,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Refugees Welcome Stockholm**
 
     123 280 00 01
+
+
+
+
+**Refugees Welcome Sverige**
+
+    123 634 40 89
 
 
 
@@ -74811,6 +74916,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Sparreholms Bygderåd**
+
+    123 234 74 58
+
+
+
+
 **Sparrens Natur- och Vattenvårdsförening**
 
     123 502 67 94
@@ -82095,6 +82207,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Svenska Jerusalemsföreningen**
+
+    123 218 27 23
+
+
+
+
 **Svenska Journalistförbundets Insamlingsfond**
 
     123 673 01 70
@@ -86634,6 +86753,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Tankesmedjan Balans**
 
     123 063 57 14
+
+
+
+
+**Tankesmedjan Environment and Public Health Institute, EPHI**
+
+    123 294 79 27
 
 
 
@@ -92384,6 +92510,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Underbara Hemlösa Älskade Katter**
 
     123 313 82 78
+
+
+
+
+**UnderSammaTak**
+
+    123 011 47 02
 
 
 
@@ -99816,6 +99949,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 ## Ä
 
+**Ägnö Sjöscoutkår**
+
+    123 032 23 88
+
+
+
+
 **Äkta Vara Sverige**
 
     123 657 00 30
@@ -102470,6 +102610,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Örkelljunga Volleybollklubb**
 
     123 625 39 18
+
+
+
+
+**Örnatorpet Ullared / Viktoria Fridskog**
+
+    123 114 28 35
 
 
 
