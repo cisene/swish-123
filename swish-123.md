@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-15-rev-210943
+Revision: 2025-12-15-rev-212351
 
 Nummer: 17249
 
@@ -60316,14 +60316,9 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 056 16 21 - Trollhättan
 
+    123 389 45 08 - Trollhättan
+
     123 510 01 28 - Skövde
-
-
-
-
-**Pantbanken Trollhättan**
-
-    123 389 45 08
 
 
 

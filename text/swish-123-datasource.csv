@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-12-15-rev-210912
+# Date: 2025-12-15-rev-212322
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -9508,7 +9508,7 @@
 "1233894177","894000-0360","Sävaråkyrkan","https://www.savarakyrkan.se/","religion",""
 "1233894276","822001-7571","White Lions","https://www.whitelions.se/","supporterklubb",""
 "1233894409","826000-5155","Korskyrkans Församling","https://www.korskyrkan-jkpg.se/","religion","Ungdomskassa"
-"1233894508","556548-0406","Pantbanken Trollhättan","https://panta.nu/","pantbank",""
+"1233894508","556548-0406","Pantbanken","https://panta.nu/","pantbank","Trollhättan"
 "1233894573","826000-0719","Pingstförsamlingen Huskvarna","https://www.huskvarna.pingst.se/","religion",""
 "1233894755","252002-9113","Lifecenter International Church","https://lifecenter.se/","religion","Västerås"
 "1233894813","802459-5889","Önskeambulansen","https://önskeambulansen.se/","barnsjukvård,barnverksamhet,ideell förening",""
