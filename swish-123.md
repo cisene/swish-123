@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-15-rev-212351
+Revision: 2025-12-22-rev-145313
 
-Nummer: 17249
+Nummer: 17260
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -3928,6 +3928,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Axel Konståkningsklubb**
 
     123 061 18 06
+
+
+
+
+**Axema Access Control AB**
+
+    123 286 72 81
 
 
 
@@ -25156,6 +25163,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Föreningen Turf Västerbotten**
+
+    123 242 91 40
+
+
+
+
 **Föreningen Turf Västmanland**
 
     123 499 72 43
@@ -43121,7 +43135,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Kollektivhusföreningen Södra station**
+**Kollektivhusföreningen Södra Station**
 
     123 133 38 55
 
@@ -51875,6 +51889,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Malmö Fäktförening Gripen**
+
+    123 113 72 64
+
+
+
+
 **Malmö Helps**
 
     123 688 04 13
@@ -55834,6 +55855,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nationell Kvinnojour och Stöd på Teckenspråk**
+
+    123 298 97 70
+
+
+
+
 **Nationell kvinnojour och stöd på teckenspråk, NKJT**
 
     123 500 58 97
@@ -58758,6 +58786,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Nätverket Skona Göteborg**
 
     123 562 51 24
+
+
+
+
+**Nätverket Trädplan Göteborg**
+
+    123 681 93 20
 
 
 
@@ -64511,6 +64546,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Ramsjö Hamnförening**
+
+    123 170 47 17
+
+
+
+
 **Ramsjö Skytteförening**
 
     123 307 96 70
@@ -70017,6 +70059,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Sankt Peters klosters Församling**
 
     123 269 79 36
+
+
+
+
+**Sankt Romfars Förening**
+
+    123 182 72 03
 
 
 
@@ -80208,6 +80257,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Stuxbergsgatans Fritidspark - Stuxis**
+
+    123 207 31 87
+
+
+
+
 **Styrsjöbo Byförening**
 
     123 615 69 88
@@ -80225,6 +80281,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Styrsö Sockens Hembygdsförening**
 
     123 423 33 34
+
+
+
+
+**Städgiganten AB**
+
+    123 535 71 81
 
 
 
@@ -93605,6 +93668,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Vall-Hogrän-Mästerby Fiber Ekonomisk Förening**
+
+    123 519 68 37
+
+
+
+
 **Valla Idrottsförening**
 
     123 232 87 55
@@ -96596,6 +96666,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Värmdö Bygdegårdsförening**
 
     123 424 04 38
+
+
+
+
+**Värmdö Freestyle Mogul Club**
+
+    123 011 21 77
 
 
 

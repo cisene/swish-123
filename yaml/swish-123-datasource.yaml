@@ -2288,6 +2288,15 @@ entries:
   - sportskytteklubb
   web: https://laholmspsk.se/
 
+- entry: 1230112177
+  orgName: Värmdö Freestyle Mogul Club
+  orgNumber: 802520-7443
+  comment: null
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://varmdofreestyle.se/
+
 - entry: 1230112722
   orgName: SPF Seniorerna Billdal
   orgNumber: 802416-9222
@@ -25030,6 +25039,15 @@ entries:
   - golfklubb
   web: https://www.eskilstunagk.se/
 
+- entry: 1231137264
+  orgName: Malmö Fäktförening Gripen
+  orgNumber: 802489-3896
+  comment: null
+  categories:
+  - fäktklubb
+  - idrottsförening
+  web: https://www.mffgripen.se/
+
 - entry: 1231137488
   orgName: Växjö Pastorat
   orgNumber: 252004-7701
@@ -29534,7 +29552,7 @@ entries:
   web: https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/spf-seniorerna-orgryte/
 
 - entry: 1231333855
-  orgName: Kollektivhusföreningen Södra station
+  orgName: Kollektivhusföreningen Södra Station
   orgNumber: 802013-3768
   comment: null
   categories:
@@ -37277,6 +37295,17 @@ entries:
   - logi
   web: https://ekuddenscamping.com/
 
+- entry: 1231704717
+  orgName: Ramsjö Hamnförening
+  orgNumber: 739400-0983
+  comment: null
+  categories:
+  - båtklubb
+  - båtsällskap
+  - hamnförening
+  - marina
+  web: http://www.rammsjostrandshamn.se/
+
 - entry: 1231705516
   orgName: Berts Värld, Bert Karlsson / Jokarjo AB
   orgNumber: 556064-4501
@@ -40256,6 +40285,14 @@ entries:
   - jujutsuklubb
   - kampsportsförening
   web: https://ujjk.se/
+
+- entry: 1231827203
+  orgName: Sankt Romfars Förening
+  orgNumber: 802494-0994
+  comment: null
+  categories:
+  - religion
+  web: https://ewtn.se/
 
 - entry: 1231827211
   orgName: Heliga Familjens Katolska Församling
@@ -45007,6 +45044,15 @@ entries:
   - djurskydd
   - hundhem
   web: https://ada.enandrachans.org/
+
+- entry: 1232073187
+  orgName: Stuxbergsgatans Fritidspark - Stuxis
+  orgNumber: 802468-5375
+  comment: null
+  categories:
+  - barnverksamhet
+  - intresseförening
+  web: https://stuxis.se/
 
 - entry: 1232073310
   orgName: Kvinnojouren Olivia
@@ -53978,6 +54024,14 @@ entries:
   - hjälporganisation
   web: https://www.facebook.com/groups/534012990118633/
 
+- entry: 1232429140
+  orgName: Föreningen Turf Västerbotten
+  orgNumber: 802524-0477
+  comment: null
+  categories:
+  - intresseförening
+  web: https://turfvasterbotten.se/
+
 - entry: 1232429983
   orgName: Aktiva Seniorer Nora
   orgNumber: 802525-8131
@@ -62936,6 +62990,17 @@ entries:
   - intresseförening
   web: https://www.svensksexologi.se/
 
+- entry: 1232867281
+  orgName: Axema Access Control AB
+  orgNumber: 556446-1472
+  comment: null
+  categories:
+  - passersystem
+  - skalskydd
+  - säkerhet
+  - säkerhetsutrustning
+  web: https://axema.se/
+
 - entry: 1232870137
   orgName: Kvinnojouren Ellinor och Tjejjouren Beata
   orgNumber: 822003-8007
@@ -65353,6 +65418,18 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://www.brfkvarnbergsplan.se/
+
+- entry: 1232989770
+  orgName: Nationell Kvinnojour och Stöd på Teckenspråk
+  orgNumber: 802529-0662
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - kvinnojour
+  - teckenspråk
+  - tjejjour
+  web: https://nkjt.se/
 
 - entry: 1232990281
   orgName: Näsby IF
@@ -111167,6 +111244,15 @@ entries:
   - säkerhetsutrustning
   web: https://scandinaviansafe.se/
 
+- entry: 1235196837
+  orgName: Vall-Hogrän-Mästerby Fiber Ekonomisk Förening
+  orgNumber: 769621-3961
+  comment: null
+  categories:
+  - fiberförening
+  - fibernät
+  web: https://www.vallfiber.se/
+
 - entry: 1235198130
   orgName: Orust Pastorat
   orgNumber: 252003-6399
@@ -114670,6 +114756,16 @@ entries:
   categories:
   - intresseförening
   web: https://www.flundra.com/
+
+- entry: 1235357181
+  orgName: Städgiganten AB
+  orgNumber: 559181-7472
+  comment: null
+  categories:
+  - flyttstädning
+  - kontorsstädning
+  - städfirma
+  web: https://www.stadgiganten.se/
 
 - entry: 1235358007
   orgName: PRO Tomelilla
@@ -146780,6 +146876,14 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orsa
+
+- entry: 1236819320
+  orgName: Nätverket Trädplan Göteborg
+  orgNumber: 802469-6950
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.tradplangoteborg.se/
 
 - entry: 1236819494
   orgName: Sundsvall Demolition Rollers
