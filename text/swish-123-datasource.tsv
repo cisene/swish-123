@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-12-22-rev-145255
+# Date: 2025-12-23-rev-032913
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4291,7 +4291,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231733781	883201-3240	Leksands Slalomklubb	https://www.svenskalag.se/leksandsslk	idrottsförening,slalomklubb	
 1231733807	826000-2293	Jönköpings Roddsällskap	https://www.roddarnas.se/	idrottsförening,roddklubb	
 1231733823	802448-2302	Lurs sockens bygdeförening	https://bygdegardarna.se/lur/	bygdegårdsförening	
-1231733922	868401-1201	SKARA FOTBOLLS CLUB	https://www.laget.se/SKARAFC	fotbollsklubb,idrottsförening	
+1231733922	868401-1201	Skara Fotbolls Club	https://www.laget.se/SKARAFC	fotbollsklubb,idrottsförening	
 1231734037	889200-2786	Hagakyrkan Sundsvall / Haga Baptistförsamling	http://www.hagakyrkan.nu/	religion	
 1231736354	817606-9923	PRO Svartbäcken	https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-uppsala/foreningar/svartbacken.html	pensionärsklubb	
 1231736388	802491-5509	Kazuki Shotokan Klubb	https://kazuki.se/	idrottsförening,kampsportsförening,karateklubb	

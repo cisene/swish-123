@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-22-rev-145313
+Revision: 2025-12-23-rev-032933
 
 Nummer: 17260
 
@@ -71912,7 +71912,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**SKARA FOTBOLLS CLUB**
+**Skara Fotbolls Club**
 
     123 173 39 22
 
