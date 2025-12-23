@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-23-rev-162753
+Revision: 2025-12-23-rev-215334
 
-Nummer: 17266
+Nummer: 17287
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -99,6 +99,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **4 Kök Restaurang & Café**
 
     123 143 98 68
+
+
+
+
+**4EverybodyAB**
+
+    123 498 51 64
 
 
 
@@ -2735,6 +2742,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Aqvakul Aktiv Ungdom**
 
     123 694 87 72
+
+
+
+
+**Araby Wärdshus**
+
+    123 603 29 65
 
 
 
@@ -25373,6 +25387,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Företagarna Bengtsfors**
+
+    123 185 54 36
+
+
+
+
 **Företagarna Svenljunga & Tranemo**
 
     123 447 97 54
@@ -37179,6 +37200,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Inner Wheel Club Alingsås-Lerum-Vårgårda**
+
+    123 320 60 75
+
+
+
+
 **Inner Wheel Club Alvesta**
 
     123 230 31 05
@@ -37382,6 +37410,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Inner Wheel Sverige Distrikt 239**
 
     123 522 91 90
+
+
+
+
+**Innergaze AB**
+
+    123 054 96 00
 
 
 
@@ -46967,6 +47002,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Lanna Bokcafé / Lanna Bokhandel AB**
+
+    123 050 41 75
+
+
+
+
 **Lanna Golfklubb**
 
     123 262 59 86
@@ -54684,6 +54726,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Munkskänkarna Norrköping**
+
+    123 001 14 86
+
+
+
+
 **Munksund-Skuthamn Sportklubb**
 
     123 452 51 01 - P05
@@ -54693,149 +54742,240 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**Munskänkarna**
+**Munskänkarna Arvika**
 
-    123 126 09 00 - Saltsjöbaden
+    123 199 71 47
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Emmaboda**
 
-    123 044 66 74 - Trosa
+    123 251 48 34
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Gislaved**
 
-    123 109 35 90 - Skaftö
+    123 230 94 25
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Haparanda**
 
-    123 378 03 84 - Nyköping
+    123 544 03 18
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Hjo**
 
-    123 371 85 33 - Steneby
+    123 350 09 23
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Kalix**
 
-    123 467 33 64 - Tranås
+    123 527 68 60
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Kisa**
 
-    123 549 35 49 - Kisa
+    123 549 35 49
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Kullabygden**
 
-    123 163 22 98 - Örebro
+    123 109 37 31
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Kunsholmen**
 
-    123 018 27 74 - Lysekil
+    123 418 32 08
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Lidköping**
 
-    123 401 80 65 - Skövde
+    123 056 91 29
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Luleå**
 
-    123 251 48 34 - Emmaboda
+    123 671 95 87
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Luleå Stålstaden**
 
-    123 350 09 23 - Hjo
+    123 049 53 90
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Lund**
 
-    123 418 32 08 - Kunsholmen
+    123 544 73 47
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Lysekil**
 
-    123 371 78 65 - Strömstad
+    123 018 27 74
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Norrtälje**
 
-    123 049 53 90 - Luleå Stålstaden
+    123 536 10 01
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Nyköping**
 
-    123 648 99 59 - Olofström
+    123 378 03 84
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Olofström**
 
-    123 536 10 01 - Norrtälje
+    123 648 99 59
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Saltsjöbaden**
 
-    123 351 54 00 - Ulricehamn
+    123 126 09 00
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Skaftö**
 
-    123 404 46 99 - Sotenäs
+    123 109 35 90
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Skara**
 
-    123 368 12 69 - Skara
+    123 368 12 69
 
 
 
 
-**Munskänkarna**
+**Munskänkarna Skövde**
 
-    123 544 03 18 - Haparanda
+    123 401 80 65
+
+
+
+
+**Munskänkarna Sotenäs**
+
+    123 404 46 99
+
+
+
+
+**Munskänkarna Steneby**
+
+    123 371 85 33
+
+
+
+
+**Munskänkarna Strömstad**
+
+    123 371 78 65
+
+
+
+
+**Munskänkarna Sunne**
+
+    123 584 08 06
+
+
+
+
+**Munskänkarna Södertälje**
+
+    123 306 97 54
+
+
+
+
+**Munskänkarna Torekov**
+
+    123 095 25 15
+
+
+
+
+**Munskänkarna Tranås**
+
+    123 467 33 64
+
+
+
+
+**Munskänkarna Trosa**
+
+    123 044 66 74
+
+
+
+
+**Munskänkarna Ulricehamn**
+
+    123 351 54 00
+
+
+
+
+**Munskänkarna Ystad**
+
+    123 618 13 33
+
+
+
+
+**Munskänkarna Åkersberga**
+
+    123 393 53 50
+
+
+
+
+**Munskänkarna Örebro**
+
+    123 163 22 98
+
+
+
+
+**Munskänkarna Överkalix**
+
+    123 670 42 33
 
 
 
@@ -54934,6 +55074,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Musikföreningen Lilith Eve**
 
     123 270 90 79
+
+
+
+
+**Musikföreningen Rockfickan**
+
+    123 236 71 34
 
 
 
@@ -62989,7 +63136,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
-**PRO Lindeborg-Tygelsjö**
+**PRO Lindeborg-Tygelsjö, Malmö**
 
     123 439 44 41
 
@@ -88947,6 +89094,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**The Players Inn**
+
+    123 085 68 23
+
+
+
+
 **The Swedish Surfing Association**
 
     123 419 08 80
@@ -99566,13 +99720,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Yoga By Atma, Studio Atma / Atma Nilsson**
 
     123 357 90 34
-
-
-
-
-**Yoga by Inner Gaze / Innergaze AB**
-
-    123 054 96 00
 
 
 
