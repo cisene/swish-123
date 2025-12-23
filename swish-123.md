@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-23-rev-032933
+Revision: 2025-12-23-rev-162753
 
-Nummer: 17260
+Nummer: 17266
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -13342,6 +13342,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Dala Gymnasistförening**
+
+    123 691 89 99
+
+
+
+
 **Dala-Järna IK, DJIK**
 
     123 091 02 16 - Skidsektionen
@@ -17050,6 +17057,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Emmaboda Visförening**
+
+    123 270 12 66
+
+
+
+
 **Emmas Massage / X-Event Umeå AB**
 
     123 149 84 35
@@ -19040,6 +19054,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Eventrace AB**
 
     123 423 77 49
+
+
+
+
+**Everypaw / Malin Mauritz**
+
+    123 358 70 52
 
 
 
@@ -22316,6 +22337,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Frontier Muay Thai**
 
     123 590 66 07
+
+
+
+
+**Frontside Kammarmusikförening**
+
+    123 356 63 95
 
 
 
@@ -58867,6 +58895,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Nöjes- och Kulturbolaget i Malmö AB**
+
+    123 126 85 80
+
+
+
+
 **Nössemarks Hembygdsförening**
 
     123 338 97 80
@@ -81085,6 +81120,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svalövs Brukshundklubb**
 
     123 593 13 81
+
+
+
+
+**Svalövs Riksteaterförening**
+
+    123 133 91 26
 
 
 

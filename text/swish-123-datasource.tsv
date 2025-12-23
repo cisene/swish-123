@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-12-23-rev-032913
+# Date: 2025-12-23-rev-162735
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3167,6 +3167,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231268101	802451-2264	Öråkers Kulturcentrum	https://www.ladanoraker.se/	kulturförening,kulturhus	
 1231268283	780302-XXXX	Elins Glashus / Sensibelle	https://elinorebrand.se/elins-glashus/	musik,sång	
 1231268564	969750-5767	Transnational Records / Transnational Music Group HB	https://www.transnationalrecords.com/	musikförlag	
+1231268580	556471-7899	Nöjes- och Kulturbolaget i Malmö AB	https://kulturbolaget.se/	konsertarrangör,musikkultur	
 1231269240	826001-2078	Gränna-Bygdens OK	https://www.laget.se/GBOK/	idrottsförening,orienteringsklubb	
 1231269414	802529-6149	Nyköpings AIK	https://www.svenskalag.se/nykopingsaik	fotbollsklubb,idrottsförening	
 1231270339	802521-1676	Grönby Akademi	https://gronbyakademi.se/	intresseförening,lokalturism	
@@ -3325,6 +3326,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231335785	252000-1245	Frötuna Församling	https://www.svenskakyrkan.se/roslagens-ostra-pastorat/frotunafors	religion	
 1231336692	556965-8551	Hundhemmet Black Dog / TigerLind Creative AB	https://the-black-dog.se/	djurskydd,donation,hundhem	
 1231336841	812800-1396	Botkyrka Hembygdsgille	https://www.hembygd.se/botkyrka	hembygdsförening,hembygdsgille	
+1231339126	802517-6028	Svalövs Riksteaterförening	https://www.riksteatern.se/svalov	teatergrupp,teatersällskap	
 1231339308	802473-6343	F16 Pistolklubb	https://www.svenskalag.se/f16skytteklubb	pistolskytteklubb,skytteklubb,sportskytteklubb	
 1231339381	802012-4338	Ayshamoskén / Skandinaviska Islamiska Organisationen	https://aysha.se/	religion	Zakat, sadaqah al-fitr, fidya
 1231339795	832400-4426	IFK Påryd	https://www.svenskalag.se/IFKParyd	fotbollsklubb,idrottsförening	
@@ -6628,6 +6630,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232700441	802507-8695	Riksföreningen Metabol Hälsa	https://www.metabolhalsa.se/	metabolhälsa,riksförening	
 1232700524	802414-0843	PRO Hörby	https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-horby/foreningar/horby.html	pensionärsklubb	
 1232700631	845001-6624	Alzheimer Sverige	https://www.alzheimersverige.se/	alzheimer,anhörigorganisation,intresseförening,patientorganisation	
+1232701266	802466-8405	Emmaboda Visförening	https://www.facebook.com/EmmabodaVIsforening/	musikevenemang,musikförening,musikkultur,visförening	
 1232701308	252002-3702	Hemsö Församling	https://www.svenskakyrkan.se/harnosand/hemso-kyrka	religion	
 1232701316	969785-8745	DanceWithUSoul	https://www.dancewithusoul.com/	dansförening,danskurser	
 1232701779	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Halland, Haverdals Byskola
@@ -8771,6 +8774,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233564135	813200-4303	Viksjö Båtklubb, VBK	https://wp.viksjobatklubb.se/	båtklubb	
 1233564341	559159-5870	Varelse AB	https://www.varelse.se/	e-handel,försäljning,kläder,konfektion,näthandel	
 1233566289	845000-6906	Drottningstadens Scoutkår	https://drottningstaden.scout.se/	scoutkår	
+1233566395	802515-3993	Frontside Kammarmusikförening	https://www.facebook.com/frontsidefestival	kammarmusikförening,musikförening	
 1233566841	556401-0253	Bokstaven i Rättvik AB	https://krakbladet.se/	annonsblad,lokaltidning	Kråkbladet
 1233566874	600908-XXXX	Markus Holst	https://markusholst.com/	hästsport,utbildning	
 1233566973	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,forskning,hjärnforskning,team rynkeby	Helsingborg, Rebbelberga Skola
@@ -8817,6 +8821,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233583358	556174-3765	On Via TS AB	https://axts.se/	trafikskola,utbildning	Köping
 1233583879	802538-1008	Falu Padelklubb	https://www.svenskalag.se/falupadelklubb	idrottsförening,padelklubb	
 1233583978	897002-0379	Noaks Ark Norra Norrland	https://noaksark.org/norra-norrland/	hjälporganisation,sociala insatser	
+1233587052	881102-XXXX	Everypaw / Malin Mauritz	https://www.everypaw.se/	hundutrustning	
 1233587094	802541-3090	Solgläntans Hemlösa katter	https://vallentunakattcenter.se/	djurskydd,katthem	
 1233588266	802546-7997	Lunds Bridgeklubb	https://www.svenskbridge.se/lunds-bk	bridgeklubb	
 1233590346	802422-8416	Riksförbundet HjärtLung	https://www.hjart-lung.se/foreningar/halland/lokalforeningar/kungsbacka/	anhörigorganisation,intresseförening,patientförening,riksförbund	Kungsbacka
@@ -16648,6 +16653,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236918064	252000-6293	Almundsryds Församling	https://www.svenskakyrkan.se/tingsryd/almundsryd	religion	Kollekt
 1236918437	802505-5495	Piteå IF Orienteringsklubb	https://www.piteaifok.se/	idrottsförening,orientering	Träning
 1236918536	802498-2798	Lions Club Tyresö	https://e-clubhouse.org/sites/tyreso/	lionsklubb	
+1236918999	883201-6979	Dala Gymnasistförening	https://dalagymnasistforening.se/	studentorganisation	
 1236919154	802450-2117	14-3 Örebro	https://www.fjortontre.se/	supporterklubb	NVC Tifo Örebro
 1236919179	826000-5155	Korskyrkans Församling	https://www.korskyrkan-jkpg.se/	religion	
 1236919260	898801-3895	Föreningen för Transtyretinamyloidos, ATTR	https://famynorrbotten.se/	anhörigorganisation,patientförening	

@@ -28224,6 +28224,15 @@ entries:
   - musikförlag
   web: https://www.transnationalrecords.com/
 
+- entry: 1231268580
+  orgName: Nöjes- och Kulturbolaget i Malmö AB
+  orgNumber: 556471-7899
+  comment: null
+  categories:
+  - konsertarrangör
+  - musikkultur
+  web: https://kulturbolaget.se/
+
 - entry: 1231269240
   orgName: Gränna-Bygdens OK
   orgNumber: 826001-2078
@@ -29628,6 +29637,15 @@ entries:
   - hembygdsförening
   - hembygdsgille
   web: https://www.hembygd.se/botkyrka
+
+- entry: 1231339126
+  orgName: Svalövs Riksteaterförening
+  orgNumber: 802517-6028
+  comment: null
+  categories:
+  - teatergrupp
+  - teatersällskap
+  web: https://www.riksteatern.se/svalov
 
 - entry: 1231339308
   orgName: F16 Pistolklubb
@@ -59179,6 +59197,17 @@ entries:
   - patientorganisation
   web: https://www.alzheimersverige.se/
 
+- entry: 1232701266
+  orgName: Emmaboda Visförening
+  orgNumber: 802466-8405
+  comment: null
+  categories:
+  - musikevenemang
+  - musikförening
+  - musikkultur
+  - visförening
+  web: https://www.facebook.com/EmmabodaVIsforening/
+
 - entry: 1232701308
   orgName: Hemsö Församling
   orgNumber: 252002-3702
@@ -78400,6 +78429,15 @@ entries:
   - scoutkår
   web: https://drottningstaden.scout.se/
 
+- entry: 1233566395
+  orgName: Frontside Kammarmusikförening
+  orgNumber: 802515-3993
+  comment: null
+  categories:
+  - kammarmusikförening
+  - musikförening
+  web: https://www.facebook.com/frontsidefestival
+
 - entry: 1233566841
   orgName: Bokstaven i Rättvik AB
   orgNumber: 556401-0253
@@ -78823,6 +78861,14 @@ entries:
   - hjälporganisation
   - sociala insatser
   web: https://noaksark.org/norra-norrland/
+
+- entry: 1233587052
+  orgName: Everypaw / Malin Mauritz
+  orgNumber: 881102-XXXX
+  comment: null
+  categories:
+  - hundutrustning
+  web: https://www.everypaw.se/
 
 - entry: 1233587094
   orgName: Solgläntans Hemlösa katter
@@ -149125,6 +149171,14 @@ entries:
   categories:
   - lionsklubb
   web: https://e-clubhouse.org/sites/tyreso/
+
+- entry: 1236918999
+  orgName: Dala Gymnasistförening
+  orgNumber: 883201-6979
+  comment: null
+  categories:
+  - studentorganisation
+  web: https://dalagymnasistforening.se/
 
 - entry: 1236919154
   orgName: 14-3 Örebro
