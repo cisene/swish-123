@@ -2,9 +2,9 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-23-rev-215334
+Revision: 2025-12-25-rev-224712
 
-Nummer: 17287
+Nummer: 17306
 
 PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalogen/swish-123.pdf)
 
@@ -22434,6 +22434,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Fryshuset Basket**
+
+    123 226 62 37
+
+
+
+
 **Frälsningsarmén**
 
     123 004 08 99 - Musikkåren Norrköping
@@ -42028,6 +42035,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**KFUM Kristianstad Basket**
+
+    123 316 93 07
+
+
+
+
 **KFUM Kristianstad BTF**
 
     123 686 35 91
@@ -42058,7 +42072,7 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **KFUM Umeå**
 
-    123 173 27 00
+    123 173 27 00 - Föreningsgemensamt + Klättring
 
     123 242 49 68 - Norrland YMCA Hostel
 
@@ -42345,6 +42359,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Kinesiska Riksförbundet i Sverige**
 
     123 397 81 45
+
+
+
+
+**Kingfishers Idrottsförening**
+
+    123 140 40 03
 
 
 
@@ -50467,6 +50488,21 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Luleå City Basketbollklubb**
+
+    123 080 10 19 - Pojkar/Flickor 08/09
+
+    123 315 87 48 - Flickor 06/07
+
+    123 351 21 67 - Pojkar 05/06
+
+    123 452 03 18 - Pojkar/Flickor 10/11
+
+    123 557 99 17
+
+
+
+
 **Luleå Discgolfförening**
 
     123 651 18 69
@@ -53608,6 +53644,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Mindful Training i Värnamo / Maria Modeé**
 
     123 335 26 22
+
+
+
+
+**Minerva IF Basket**
+
+    123 624 30 59
 
 
 
@@ -73181,6 +73224,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Skuru IK Basket**
+
+    123 228 81 99
+
+
+
+
 **Skurup Padelklubb**
 
     123 650 77 92
@@ -74353,6 +74403,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Smådjurschansen**
 
     123 470 52 65
+
+
+
+
+**Småland-Blekinge Basketdistriktförbund**
+
+    123 576 52 01
 
 
 
@@ -80028,6 +80085,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Strängnäs Basketklubb**
+
+    123 004 98 41
+
+
+
+
 **Strängnäs BSK**
 
     123 617 19 38
@@ -83225,6 +83289,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
+    123 235 40 82 - Alnö Röda Korsgrupp
+
+
+
+
+**Svenska Röda Korset**
+
     123 648 51 89 - Tranemobygden
 
 
@@ -83233,6 +83304,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Svenska Röda Korset**
 
     123 152 76 39 - Staffanstorps Rödakorskrets
+
+
+
+
+**Svenska Röda Korset**
+
+    123 630 99 67 - Sundsvalls centrum Röda Korsgrupp
 
 
 
@@ -83651,6 +83729,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 **Svenska Röda Korset**
 
+    123 163 64 55 - Skönsbergs Röda Korsgrupp
+
     123 385 29 51 - Skönsberg
 
 
@@ -83660,12 +83740,16 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
     123 456 56 59 - Matfors Stöde Fränsta Röda Korskrets
 
+    123 630 99 83 - Matfors Stöde Fränsta Röda Korsgrupp
+
 
 
 
 **Svenska Röda Korset**
 
     123 041 11 81 - Njurunda
+
+    123 065 09 11 - Njurunda Röda Korsgrupp
 
 
 
@@ -91508,6 +91592,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 
+**Tyresö Basket**
+
+    123 696 57 19
+
+
+
+
 **Tyresö Bridgeklubb**
 
     123 338 82 04
@@ -94255,6 +94346,8 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 
 
 **Varbergs Basket**
+
+    123 335 69 12 - Gåvor, Stöd
 
     123 676 51 19
 

@@ -927,6 +927,15 @@ entries:
   - rotaryklubb
   web: https://portal.clubrunner.ca/16422/
 
+- entry: 1230049841
+  orgName: Strängnäs Basketklubb
+  orgNumber: 802543-7370
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/strangnasbasket
+
 - entry: 1230052092
   orgName: Munsö Adelsö Lokala Kennelklubb, MALKK
   orgNumber: 802445-5530
@@ -14041,6 +14050,15 @@ entries:
   - säkerhetsutrustning
   web: https://www.svenskaalarm.se/
 
+- entry: 1230650911
+  orgName: Svenska Röda Korset
+  orgNumber: 889202-7619
+  comment: Njurunda Röda Korsgrupp
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/
+
 - entry: 1230654962
   orgName: Bridgeklubben Freja
   orgNumber: 802496-1065
@@ -17209,6 +17227,15 @@ entries:
   categories:
   - religion
   web: https://equmeniakyrkan.se/vargardabygden/
+
+- entry: 1230801019
+  orgName: Luleå City Basketbollklubb
+  orgNumber: 897001-9900
+  comment: Pojkar/Flickor 08/09
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.luleacitybasket.se/
 
 - entry: 1230801225
   orgName: Autoklar Trafikskola
@@ -31020,6 +31047,15 @@ entries:
   - tennisklubb
   web: https://www.facebook.com/olofstromstennisklubb
 
+- entry: 1231404003
+  orgName: Kingfishers Idrottsförening
+  orgNumber: 802524-9643
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.kingfishers.se/
+
 - entry: 1231404516
   orgName: Kronans FK
   orgNumber: 872000-8435
@@ -36289,6 +36325,15 @@ entries:
   - religion
   web: https://www.fralsningsarmen.se/templet-stockholm/
 
+- entry: 1231636455
+  orgName: Svenska Röda Korset
+  orgNumber: 889200-6159
+  comment: Skönsbergs Röda Korsgrupp
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/
+
 - entry: 1231639905
   orgName: Löfstadkyrkans Församling
   orgNumber: 802439-5231
@@ -38155,7 +38200,7 @@ entries:
 - entry: 1231732700
   orgName: KFUM Umeå
   orgNumber: 894000-0691
-  comment: null
+  comment: Föreningsgemensamt + Klättring
   categories:
   - idrottsförening
   - klättringsklubb
@@ -50168,6 +50213,15 @@ entries:
   - simsällskap
   web: https://www.salass.nu/
 
+- entry: 1232266237
+  orgName: Fryshuset Basket
+  orgNumber: 802402-3825
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.fryshusetbasket.se/
+
 - entry: 1232266583
   orgName: Gestriklands Fotbollsförbund
   orgNumber: 885500-3649
@@ -50826,6 +50880,15 @@ entries:
   - djurskydd
   - katthem
   web: https://kks.nu/
+
+- entry: 1232288199
+  orgName: Skuru IK Basket
+  orgNumber: 814000-3297
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.skurubasket.se/
 
 - entry: 1232288207
   orgName: Vallda Kyrka
@@ -52386,6 +52449,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.flurkmarksik.se/
+
+- entry: 1232354082
+  orgName: Svenska Röda Korset
+  orgNumber: 802494-7957
+  comment: Alnö Röda Korsgrupp
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/
 
 - entry: 1232357390
   orgName: Helsigborgs IK
@@ -61029,8 +61101,10 @@ entries:
   orgNumber: 802478-9342
   comment: null
   categories:
+  - donation
   - insamling
-  web: https://sd.se/
+  - ukraina
+  web: https://www.hepatica.se/
 
 - entry: 1232769834
   orgName: Vargöns Musikkår och Vargöns drill- & flaggflickor
@@ -69461,6 +69535,15 @@ entries:
   - segelklubb
   web: https://sxk.se/eggegrundskretsen/
 
+- entry: 1233158748
+  orgName: Luleå City Basketbollklubb
+  orgNumber: 897001-9900
+  comment: Flickor 06/07
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.luleacitybasket.se/
+
 - entry: 1233158904
   orgName: Skorpeds Bygdegårdsförening
   orgNumber: 889600-9100
@@ -69507,6 +69590,15 @@ entries:
   - segelsällskap
   - stiftelse
   web: https://silverblänk.se/
+
+- entry: 1233169307
+  orgName: KFUM Kristianstad Basket
+  orgNumber: 802458-9890
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.kfumc4basket.se/
 
 - entry: 1233170289
   orgName: Hembygdsföreningen Noraskog
@@ -73247,6 +73339,15 @@ entries:
   - massage
   - yoga
   web: https://ashtangayogagavle.se/
+
+- entry: 1233356912
+  orgName: Varbergs Basket
+  orgNumber: 849600-4550
+  comment: Gåvor, Stöd
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.varbergsbasket.se/
 
 - entry: 1233357183
   orgName: Västerås SK Fotbollsklubb, VSK
@@ -77188,6 +77289,15 @@ entries:
   - konsertförening
   - kulturförening
   web: https://www.arvikakonsertforening.se/
+
+- entry: 1233512167
+  orgName: Luleå City Basketbollklubb
+  orgNumber: 897001-9900
+  comment: Pojkar 05/06
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.luleacitybasket.se/
 
 - entry: 1233513132
   orgName: Riksförbundet Cystisk Fibros
@@ -97449,6 +97559,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.flodahembygd.se/
+
+- entry: 1234520318
+  orgName: Luleå City Basketbollklubb
+  orgNumber: 897001-9900
+  comment: Pojkar/Flickor 10/11
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.luleacitybasket.se/
 
 - entry: 1234520557
   orgName: Hedemora Simsällskap
@@ -120256,6 +120375,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/hudiksvallsbygden
 
+- entry: 1235579917
+  orgName: Luleå City Basketbollklubb
+  orgNumber: 897001-9900
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.luleacitybasket.se/
+
 - entry: 1235580378
   orgName: Viper Taekwondo Värnamo
   orgNumber: 802492-9047
@@ -124334,6 +124462,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/sjosas
+
+- entry: 1235765201
+  orgName: Småland-Blekinge Basketdistriktförbund
+  orgNumber: 827000-5898
+  comment: null
+  categories:
+  - idrottsförbund
+  web: https://www.basket.se/smaland-blekinge/
 
 - entry: 1235765359
   orgName: Näshulta-Österby Samfällighetsförening
@@ -134538,6 +134674,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1236243059
+  orgName: Minerva IF Basket
+  orgNumber: 894003-9061
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.minervaifbasket.se/
+
 - entry: 1236243067
   orgName: Kågeröds Skyttegille
   orgNumber: 844000-7774
@@ -136111,6 +136256,24 @@ entries:
   - idrottsförening
   - padelklubb
   web: https://www.facebook.com/s.pigga.motionarer.if
+
+- entry: 1236309967
+  orgName: Svenska Röda Korset
+  orgNumber: 802551-7213
+  comment: Sundsvalls centrum Röda Korsgrupp
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/
+
+- entry: 1236309983
+  orgName: Svenska Röda Korset
+  orgNumber: 889202-7593
+  comment: Matfors Stöde Fränsta Röda Korsgrupp
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/
 
 - entry: 1236310494
   orgName: SjälaGott / Kajsa Sjögren
@@ -150357,6 +150520,15 @@ entries:
   - donation
   - kvinnojour
   web: https://kvinnojourensater.se/
+
+- entry: 1236965719
+  orgName: Tyresö Basket
+  orgNumber: 802402-2538
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.tyresobasket.se/
 
 - entry: 1236967236
   orgName: Bostadsrättsföreningen Mårtensberg i Vendelsö
