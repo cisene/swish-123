@@ -2,7 +2,7 @@
 
 Source: [swish-123](https://github.com/cisene/swish-123/swish-123.md)
 
-Revision: 2025-12-25-rev-224712
+Revision: 2025-12-26-rev-170416
 
 Nummer: 17306
 
@@ -135,17 +135,6 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Širi Dobro - Sverige**
 
     123 601 43 36
-
-
-
-
-
-
-## У
-
-**Українська громада у Гетеборзі - Ukrainska sällskapet i Göteborg**
-
-    123 103 16 08
 
 
 
@@ -92356,6 +92345,13 @@ PDF: [https://b19.se/swish-katalogen/swish-123.pdf](https://b19.se/swish-katalog
 **Ukrainska Instituetet i Sverige**
 
     123 098 82 12
+
+
+
+
+**Ukrainska sällskapet i Göteborg**
+
+    123 103 16 08
 
 
 
