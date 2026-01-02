@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2025-12-26-rev-170346
+# Date: 2026-01-02-rev-123357
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -5744,7 +5744,7 @@
 "1232303105","802541-3512","Inner Wheel Club Alvesta","https://www.innerwheel.se/","innerwheel,kvinnligt nätverk",""
 "1232303527","802012-5111","Riksorganisationen för Kvinnojourer och Tjejjourer i Sverige, ROKS","https://rokstjejjourer.se/jourer/tjejjouren-eva","donation,kvinnojour","Tjejjouren Eva"
 "1232303790","878001-4562","Västerås Astronomi o Rymdforskning Förening, VARF","https://www.varf.se/","astronomi,intresseförening",""
-"1232303840","817601-5249","BSK Sturarna","https://www.sturarna.se/","bågskytteklubb,idrottsförening",""
+"1232303840","817601-5249","Bågskytteklubben Sturarna","https://www.sturarna.se/","bågskytteklubb,idrottsförening",""
 "1232303956","817001-4198","Enköpings SK UK","https://www.laget.se/ESKFOTBOLL/","fotbollsklubb,idrottsförening",""
 "1232304244","814400-1784","Rö IK","https://www.laget.se/RoIdrottsklubb/","fotbollsklubb,idrottsförening","Herrar"
 "1232304418","556872-9999","Ringens Bilskola AB","https://www.ringensbilskola.se/","bilskola,körkort,trafikskola",""
@@ -5843,6 +5843,7 @@
 "1232329290","252000-3076","Torshälla Församling","https://www.svenskakyrkan.se/torshalla","religion","Fairtrade"
 "1232329647","802493-0201","Harley Owners Group, HOG","https://www.hogsweden.se/hog-jarvsochapter","motorcykelklubb","Järvsö Chapter"
 "1232329860","769627-3411","Dalbackens Friskola i Hemmingsmark","https://www.dalbacken.se/","friskola",""
+"1232329886","857200-1413","Betlehemskyrkans Församling","https://betlehemskyrkan.se/","religion","Ungdomsverksamhet"
 "1232329951","855900-8563","Skansens Ridklubb i Vänersborg","https://www.skansensgard.com/","hästsport,ridklubb",""
 "1232333250","802545-9895","RefugeeHope UA & SE","https://refugeehope.eu/en/","hjälporganisation,humanitär hjälpverksamhet,ukraina",""
 "1232333649","802547-6709","Strokeföreningen Värmlands län","https://strokeforbundet.se/varmlandslan/","patientförening,strokeförening",""
@@ -15216,6 +15217,7 @@
 "1236306179","802462-2980","Värmland mot Kärnkraft","https://varmlandmotkarnkraft.se/","intresseförening,opinionsbildning",""
 "1236307714","020919-XXXX","Salsa Sundsvall / Sara van Hamburg","https://salsasundsvall.se/","dansstudio,dansundervisning",""
 "1236308001","802542-9682","S Pigga Motionärer IF","https://www.facebook.com/s.pigga.motionarer.if","bordtennisklubb,bouleklubb,idrottsförening,padelklubb",""
+"1236308878","559462-9890","Swedish Speedway Academy AB","http://swedishspeedwayacademy.se/","motorsport",""
 "1236309967","802551-7213","Svenska Röda Korset","https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/","hjälporganisation,rödakorset","Sundsvalls centrum Röda Korsgrupp"
 "1236309983","889202-7593","Svenska Röda Korset","https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/","hjälporganisation,rödakorset","Matfors Stöde Fränsta Röda Korsgrupp"
 "1236310494","760309-XXXX","SjälaGott / Kajsa Sjögren","https://www.sjalagott.com/","healing,yoga",""
@@ -15738,6 +15740,7 @@
 "1236527014","817601-0299","Rasbo IK","https://www.rasboik.com/","badmintonklubb,fotbollsklubb,idrottsförening,innebandyklubb,orienteringsklubb","P10/P11 IB"
 "1236527063","893202-8650","Östersunds Bandysällskap","https://ostersundbandy.se/","bandyklubb,idrottsförening",""
 "1236527428","846502-8812","Real Fighter","https://realfighter.se/","kampsportsförening",""
+"1236530299","845001-2755","Bågskytteklubben Pantern Lund","https://bkpantern.se/","bågskytteklubb,idrottsförening",""
 "1236530364","802401-2737","Stiftelsen Svensk Våtmarksfond","https://vatmarksfonden.se/","donation,naturvård,stiftelse,vattenvård",""
 "1236530638","802516-6011","K.A. Almgren Sidenväveri & Museum","https://www.kasiden.se/","donation,museiförening,museum",""
 "1236530737","838800-8362","Jakten Hoppet av Brantevik","https://www.jaktenhoppet.com/","båtklubb,intresseförening,segelklubb,segelsällskap",""

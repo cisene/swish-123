@@ -51268,7 +51268,7 @@ entries:
   web: https://www.varf.se/
 
 - entry: 1232303840
-  orgName: BSK Sturarna
+  orgName: Bågskytteklubben Sturarna
   orgNumber: 817601-5249
   comment: null
   categories:
@@ -52158,6 +52158,14 @@ entries:
   categories:
   - friskola
   web: https://www.dalbacken.se/
+
+- entry: 1232329886
+  orgName: Betlehemskyrkans Församling
+  orgNumber: 857200-1413
+  comment: Ungdomsverksamhet
+  categories:
+  - religion
+  web: https://betlehemskyrkan.se/
 
 - entry: 1232329951
   orgName: Skansens Ridklubb i Vänersborg
@@ -136257,6 +136265,14 @@ entries:
   - padelklubb
   web: https://www.facebook.com/s.pigga.motionarer.if
 
+- entry: 1236308878
+  orgName: Swedish Speedway Academy AB
+  orgNumber: 559462-9890
+  comment: null
+  categories:
+  - motorsport
+  web: http://swedishspeedwayacademy.se/
+
 - entry: 1236309967
   orgName: Svenska Röda Korset
   orgNumber: 802551-7213
@@ -140976,6 +140992,15 @@ entries:
   categories:
   - kampsportsförening
   web: https://realfighter.se/
+
+- entry: 1236530299
+  orgName: Bågskytteklubben Pantern Lund
+  orgNumber: 845001-2755
+  comment: null
+  categories:
+  - bågskytteklubb
+  - idrottsförening
+  web: https://bkpantern.se/
 
 - entry: 1236530364
   orgName: Stiftelsen Svensk Våtmarksfond
