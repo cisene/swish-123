@@ -3045,6 +3045,15 @@ entries:
   - scoutkår
   web: https://svenljunga.scout.se/
 
+- entry: 1230164566
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Cheerleading
+  categories:
+  - cheerleadingklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
+
 - entry: 1230164889
   orgName: Bostadsrättsföreningen Nya Rio
   orgNumber: 769602-0218
@@ -8695,6 +8704,15 @@ entries:
   - dansförening
   - squaredance
   web: https://www.crazyflutters.com/
+
+- entry: 1230399519
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Boxning
+  categories:
+  - boxningsklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
 
 - entry: 1230399717
   orgName: Faktum Skåne AB
@@ -15918,6 +15936,15 @@ entries:
   categories:
   - djurskydd
   web: https://www.djurensvanner.se/lidkoping/
+
+- entry: 1230741033
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Styrkelyft
+  categories:
+  - idrottsförening
+  - styrkelyftsklubb
+  web: https://malmbergetsaif.com/
 
 - entry: 1230741454
   orgName: Kamratföreningen Bodenartilleristen
@@ -27219,7 +27246,7 @@ entries:
   web: https://www.friluftsframjandet.se/regioner/vast/lokalavdelningar/ljungskile/
 
 - entry: 1231224633
-  orgName: Fridlevstad GOIF
+  orgName: Fridlevstad GoIF
   orgNumber: 935000-6525
   comment: null
   categories:
@@ -28710,6 +28737,15 @@ entries:
   - folkrörelse
   web: https://hebyfh.se/
 
+- entry: 1231294214
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Fotboll P07/08
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
+
 - entry: 1231294610
   orgName: Drängsereds Hembygdsförening
   orgNumber: 802512-9209
@@ -29949,6 +29985,20 @@ entries:
   - idrottsförening
   - kampsportsförening
   web: https://kungsbackamma.se/
+
+- entry: 1231346261
+  orgName: Skruvs IF
+  orgNumber: 829500-3407
+  comment: null
+  categories:
+  - fotbollsklubb
+  - friidrottsförening
+  - gymnastikförening
+  - idrottsförening
+  - padelklubb
+  - styrkelyftsklubb
+  - tennisklubb
+  web: https://skruv.net/skruvs-if/
 
 - entry: 1231346436
   orgName: Stadranejdens Byalag
@@ -34806,6 +34856,15 @@ entries:
   - catering
   web: https://rentachef.com/
 
+- entry: 1231572635
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Konståkning
+  categories:
+  - idrottsförening
+  - konståkningsklubb
+  web: https://malmbergetsaif.com/
+
 - entry: 1231572643
   orgName: Alingsås Biodlarförening
   orgNumber: 802513-4373
@@ -39182,6 +39241,15 @@ entries:
   - kvinnligt nätverk
   web: https://www.innerwheel.se/
 
+- entry: 1231774355
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Skidskytte
+  categories:
+  - idrottsförening
+  - skidskytteklubb
+  web: https://malmbergetsaif.com/
+
 - entry: 1231775204
   orgName: Skorpeds Församling
   orgNumber: 252002-4114
@@ -43554,8 +43622,11 @@ entries:
   orgNumber: 826000-9363
   comment: null
   categories:
+  - fotbollsklubb
+  - gymnastikförening
   - idrottsförening
   - motionsklubb
+  - skidlöparklubb
   web: https://www.orserumsik.se/
 
 - entry: 1231984707
@@ -45790,6 +45861,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka
+
+- entry: 1232097046
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Ishockey D-Team
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://malmbergetsaif.com/
 
 - entry: 1232097137
   orgName: HST Sverige / Kbg hundtjänst AB
@@ -49663,6 +49743,17 @@ entries:
   - hårvård
   web: https://hairofswedenco.se/
 
+- entry: 1232248052
+  orgName: Lidingö Gymnastikskola
+  orgNumber: 556897-1484
+  comment: Kursavgift
+  categories:
+  - dykskola
+  - gymnastikskola
+  - kurser
+  - utbildning
+  web: https://www.lidingogymnastikskola.se/
+
 - entry: 1232248441
   orgName: Elimkyrkans Baptistförsamling
   orgNumber: 818000-0401
@@ -51906,6 +51997,15 @@ entries:
   - hundsällskap
   web: https://www.ohsbk.hundpoolen.nu/
 
+- entry: 1232319176
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Fotboll F07/08
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
+
 - entry: 1232320109
   orgName: Värnamo Missionsförsamling
   orgNumber: 828000-2570
@@ -52436,7 +52536,7 @@ entries:
   web: https://muslimaid.se/
 
 - entry: 1232344299
-  orgName: Små IF
+  orgName: Stora Mellösa-Åsbyvikens IF
   orgNumber: 875001-3354
   comment: null
   categories:
@@ -60240,6 +60340,15 @@ entries:
   - simsällskap
   web: https://www.gssweb.se/
 
+- entry: 1232723583
+  orgName: Tyresögymnastiken
+  orgNumber: 812400-4279
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.tyresogymnastiken.se/
+
 - entry: 1232723585
   orgName: Tyresögymnastiken
   orgNumber: 812400-4279
@@ -63020,6 +63129,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-jonkopings-lan/samorganisationer/samorganisation-nassjo/foreningar/bodafors.html
+
+- entry: 1232855591
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Curling
+  categories:
+  - curlingklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
 
 - entry: 1232856086
   orgName: Härnösands Släkforskare
@@ -67272,6 +67390,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1233052834
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Ishockey C-Team
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://malmbergetsaif.com/
+
 - entry: 1233052875
   orgName: Bowlingklubben Granen Hedemora
   orgNumber: 802459-8693
@@ -67280,6 +67407,15 @@ entries:
   - bowlingklubb
   - idrottsförening
   web: https://bkgranen.klubbenonline.se/
+
+- entry: 1233052883
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Fotboll P00/01
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
 
 - entry: 1233052933
   orgName: Säbrå Församling
@@ -76885,6 +77021,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1233498920
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Ishockey A-Lag
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://malmbergetsaif.com/
+
 - entry: 1233499142
   orgName: Krokoms Pastorat
   orgNumber: 252004-9236
@@ -77592,6 +77737,18 @@ entries:
   categories:
   - religion
   web: https://www.youngsters.se/
+
+- entry: 1233516218
+  orgName: Ätrans IF
+  orgNumber: 849000-1552
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  - orienteringsklubb
+  - skidlöparklubb
+  - skidskytteklubb
+  web: https://atransif.se/
 
 - entry: 1233516341
   orgName: S:t Gabriel Västra Frölunda, Syrisk Ortodoxa Kyrkan i Västra Frölunda
@@ -83290,6 +83447,15 @@ entries:
   - förening
   - melanom
   web: https://melanomforeningen.se/
+
+- entry: 1233800307
+  orgName: Hvetlanda Gymnastikförening
+  orgNumber: 827500-7048
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.hvetlandagymnastikforening.se/
 
 - entry: 1233800745
   orgName: Vintrosa IS
@@ -95167,6 +95333,15 @@ entries:
   - utbildning
   web: https://elsaberggren.se/
 
+- entry: 1234400180
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Fotboll F04/06
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
+
 - entry: 1234400248
   orgName: Hörselskadades Riksförbund
   orgNumber: 866000-4923
@@ -99996,6 +100171,15 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.forshagahandboll.se/
+
+- entry: 1234626362
+  orgName: Hällevikslägret
+  orgNumber: 836200-4817
+  comment: Skönabäcks GF
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.hallevikslagret.se/
 
 - entry: 1234627238
   orgName: Teaterkören
@@ -107919,6 +108103,15 @@ entries:
   - kvinnojour
   web: https://terrafem.org/om-oss/lokalforeningar/goteborg/
 
+- entry: 1235054051
+  orgName: Diving Beyond Depth / Michael Wolhardt
+  orgNumber: 630726-XXXX
+  comment: null
+  categories:
+  - dykning
+  - författare
+  web: https://www.facebook.com/divingbeyonddepth/
+
 - entry: 1235054945
   orgName: Klubb Maritim - Göteborg
   orgNumber: 857205-1400
@@ -108455,6 +108648,15 @@ entries:
   - trafikskola
   - utbildning
   web: https://www.trollbackenstrafikskola.se/
+
+- entry: 1235090345
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Ishockey Damer
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://malmbergetsaif.com/
 
 - entry: 1235090527
   orgName: PRO Traryd
@@ -113615,7 +113817,7 @@ entries:
   web: https://bygdegardarna.se/ramhall/
 
 - entry: 1235283122
-  orgName: Docksta Bordtennisklubb (DBTK)
+  orgName: Docksta Bordtennisklubb, DBTK
   orgNumber: 888400-3172
   comment: Medlemsavgift 888400-7287
   categories:
@@ -116756,16 +116958,32 @@ entries:
   - skidlöparklubb
   web: https://www.eksjosok.se/
 
-- entry: 1235422266
-  orgName: Malmbergets AIF
+- entry: 1235422258
+  orgName: Malmbergets Allmänna Idrottsförening
   orgNumber: 897900-0646
-  comment: null
+  comment: Fotboll F Junior-Utvecklingslag
   categories:
   - fotbollsklubb
   - idrottsförening
-  - innebandyklubb
+  web: https://malmbergetsaif.com/
+
+- entry: 1235422266
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Ishockey E-Team
+  categories:
+  - idrottsförening
   - ishockeyklubb
-  web: https://www.laget.se/MalmbergetsAIF/
+  web: https://malmbergetsaif.com/
+
+- entry: 1235422274
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Tyngdlyftning
+  categories:
+  - idrottsförening
+  - tyngdlyftarklubb
+  web: https://malmbergetsaif.com/
 
 - entry: 1235422340
   orgName: Team Rynkeby
@@ -126005,6 +126223,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sudrets-pastorat
 
+- entry: 1235830609
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Fotboll
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
+
 - entry: 1235831904
   orgName: Stöttepelaren - Stödförening för Ensamkommande Barn och Ungdomar
   orgNumber: 802511-3047
@@ -130177,6 +130404,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/voxna
 
+- entry: 1236033716
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Kansli
+  categories:
+  - idrottsförening
+  web: https://malmbergetsaif.com/
+
 - entry: 1236033740
   orgName: Växjö Hemlösa Katter
   orgNumber: 802495-5810
@@ -133654,6 +133889,24 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/karlsborg
 
+- entry: 1236180418
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Ishockey B-Team
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://malmbergetsaif.com/
+
+- entry: 1236180483
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Isborgen
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://malmbergetsaif.com/
+
 - entry: 1236180715
   orgName: Ridleder Tiveden
   orgNumber: 802432-8695
@@ -134151,6 +134404,15 @@ entries:
   - kurser
   - utbildning
   web: https://www.stepbystepdansskola.com/
+
+- entry: 1236202782
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Skidor
+  categories:
+  - idrottsförening
+  - skidlöparklubb
+  web: https://malmbergetsaif.com/
 
 - entry: 1236202899
   orgName: Bostadsrättsföreningen Britta-Lena i Kungsbacka
@@ -136230,6 +136492,15 @@ entries:
   categories:
   - religion
   web: https://missionsforsamlingen.se/
+
+- entry: 1236295828
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Gymnastik
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  web: https://malmbergetsaif.com/
 
 - entry: 1236297147
   orgName: Equmeniakyrkan Söderhamn
@@ -139045,6 +139316,15 @@ entries:
   - bostadsrättsförening
   web: https://hemsida.sbc.se/svenska-folkbyggens-brf-nr-2-i-goteborg
 
+- entry: 1236443014
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Fotboll Damer
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
+
 - entry: 1236443394
   orgName: VingåkersVeterinärerna AB
   orgNumber: 556956-1367
@@ -140321,6 +140601,15 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://brfsorbyangen.se/
+
+- entry: 1236500243
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Innebandy
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://malmbergetsaif.com/
 
 - entry: 1236500367
   orgName: Melleruds Församling
@@ -142814,14 +143103,32 @@ entries:
   - volleybollklubb
   web: https://avestavolley.klubbenonline.se/
 
-- entry: 1236625354
-  orgName: Malmbergets AIF
+- entry: 1236625313
+  orgName: Malmbergets Allmänna Idrottsförening
   orgNumber: 897900-0646
-  comment: null
+  comment: Fotboll P09/10
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
+
+- entry: 1236625321
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Fotboll F09/10
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
+
+- entry: 1236625354
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Ishockey Hockeyskolan
   categories:
   - idrottsförening
   - ishockeyklubb
-  web: https://www.laget.se/MalmbergetsAIF/
+  web: https://malmbergetsaif.com/
 
 - entry: 1236625438
   orgName: Hammarby Tifo
@@ -147519,6 +147826,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-vasterbottens-lan/samorganisationer/samorganisation-umea/foreningar/teg.html
 
+- entry: 1236822332
+  orgName: Nykvarns Gymnastikförening
+  orgNumber: 815600-3512
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.nykvarnsgf.se/
+
 - entry: 1236822712
   orgName: Finska församlingen i Stockholm
   orgNumber: 252003-8114
@@ -148713,6 +149029,15 @@ entries:
   categories:
   - humanitär hjälpverksamhet
   web: https://tierpsmatcentral.se/
+
+- entry: 1236884852
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Bordtennis
+  categories:
+  - bordtennisklubb
+  - idrottsförening
+  web: https://malmbergetsaif.com/
 
 - entry: 1236885453
   orgName: Americars i Höör
@@ -150383,6 +150708,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/torslandaik
+
+- entry: 1236951560
+  orgName: Malmbergets Allmänna Idrottsförening
+  orgNumber: 897900-0646
+  comment: Ishockey Veteraner
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://malmbergetsaif.com/
 
 - entry: 1236951685
   orgName: Raketens Samfällighetsförening NR 2
