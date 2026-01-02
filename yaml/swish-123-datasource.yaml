@@ -10668,6 +10668,7 @@ entries:
   comment: null
   categories:
   - dykarklubb
+  - dykning
   web: https://tumlaren.org/
 
 - entry: 1230485573
@@ -29033,6 +29034,14 @@ entries:
   - yoga
   web: https://joydame.se/
 
+- entry: 1231309590
+  orgName: Rospiggarna Speedwayklubb
+  orgNumber: 802451-2157
+  comment: null
+  categories:
+  - speedwayklubb
+  web: https://rospiggarna.nu/
+
 - entry: 1231310309
   orgName: Sala-Heby Fotboll
   orgNumber: 802508-3356
@@ -30094,6 +30103,16 @@ entries:
   categories:
   - podcast
   web: https://deassimilerade.com/
+
+- entry: 1231356310
+  orgName: Teckomatorps Pistolskytteklubb
+  orgNumber: 802499-3464
+  comment: null
+  categories:
+  - pistolskytteklubb
+  - skytteklubb
+  - sportskytteklubb
+  web: https://www.teckomatorppk.se/
 
 - entry: 1231357201
   orgName: Aktivt närvarande / Heléne Hellman
@@ -35586,6 +35605,15 @@ entries:
   - religion
   web: https://www.brannkyrka.org/
 
+- entry: 1231610419
+  orgName: Södra Inlands Biodlarförening
+  orgNumber: 853300-8960
+  comment: null
+  categories:
+  - biodlareförening
+  - biodling
+  web: https://sodrainlands.biodlarna.se/
+
 - entry: 1231610500
   orgName: Hörselskadades Riksförbund
   orgNumber: 894701-2798
@@ -37174,6 +37202,15 @@ entries:
   - idrottsförening
   - volleybollklubb
   web: https://frisksport.se/nykoping/
+
+- entry: 1231694769
+  orgName: Dykarklubben Kleven
+  orgNumber: 802551-5969
+  comment: null
+  categories:
+  - dykarklubb
+  - dykning
+  web: https://www.facebook.com/p/Dykarklubben-Kleven-61579127782092/
 
 - entry: 1231697291
   orgName: Katalys - Institut för facklig idéutveckling
@@ -44986,6 +45023,14 @@ entries:
   - litterärförening
   web: https://olitt.se/
 
+- entry: 1232054864
+  orgName: Westbay Skippers
+  orgNumber: 802421-6502
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://vastervikspeedway.se/westbay-skippers-supporterklubb/
+
 - entry: 1232055309
   orgName: HairAgain Nordic AB
   orgNumber: 559284-9854
@@ -48393,6 +48438,14 @@ entries:
   - donation
   - kvinnojour
   web: https://www.unizonjourer.se/falkenbergskvinnojour/
+
+- entry: 1232207009
+  orgName: Vargarna Speedwayförening
+  orgNumber: 825000-5447
+  comment: null
+  categories:
+  - speedwayklubb
+  web: https://vargarnaspeedway.se/
 
 - entry: 1232207157
   orgName: Vartorps Kvarnförening
@@ -51948,6 +52001,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/essunga
+
+- entry: 1232325587
+  orgName: Alvesta Dykklubb
+  orgNumber: 829502-4767
+  comment: null
+  categories:
+  - dykarklubb
+  - dykning
+  web: https://www.alvestadk.se/
 
 - entry: 1232325611
   orgName: Jonas Vildmark Bushcraftcenter - Lienshyttans Herrgård AB
@@ -57106,6 +57168,15 @@ entries:
   - intresseförening
   web: https://bastugillet.se/
 
+- entry: 1232616803
+  orgName: Dykarklubben Kalmarsund
+  orgNumber: 832400-8609
+  comment: null
+  categories:
+  - dykarklubb
+  - dykning
+  web: https://www.dkk.se/
+
 - entry: 1232617025
   orgName: SPF Seniorerna Sundet Helsingborg
   orgNumber: 802529-7899
@@ -57737,6 +57808,16 @@ entries:
   - idrottsmassage
   - massage
   web: https://www.mabramassage.com/
+
+- entry: 1232641033
+  orgName: Värmdö Ridklubb
+  orgNumber: 814000-4998
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarklubb
+  web: https://www.varmdoridklubb.nu/
 
 - entry: 1232642890
   orgName: Vrångö IF
@@ -59765,7 +59846,7 @@ entries:
   orgNumber: 893201-8131
   comment: null
   categories:
-  - dykklubb
+  - dykarklubb
   - dykning
   web: https://jamtdykarna.com/
 
@@ -68125,6 +68206,15 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/gavlehandboll
+
+- entry: 1233103124
+  orgName: Oskarshamns Sportdykarklubb Calypso
+  orgNumber: 802452-8344
+  comment: null
+  categories:
+  - dykarklubb
+  - dykning
+  web: https://osdkcalypso.se/
 
 - entry: 1233103629
   orgName: Dalarnas Dövas Pensionärsklubb
@@ -78615,6 +78705,16 @@ entries:
   - hembygdsförening
   web: https://runstenoland.se/runstens-hembygdsforening/
 
+- entry: 1233563103
+  orgName: Bi Kompaniet i Göteborg AB
+  orgNumber: 559175-7108
+  comment: Apiarium
+  categories:
+  - biodling
+  - utbildning
+  - utrustning
+  web: https://www.apiarium.se/#Opening-Hours
+
 - entry: 1233563574
   orgName: Salsakurs.se, Firma Rocio / Guillermo Gutierrez Relé
   orgNumber: 670718-XXXX
@@ -79414,7 +79514,7 @@ entries:
   comment: null
   categories:
   - dykning
-  - sportdykning
+  - sportdykarklubb
   - utbildning
   web: https://vsdk-mollusca.org/
 
@@ -83114,8 +83214,8 @@ entries:
   orgNumber: 846001-7166
   comment: null
   categories:
-  - dykklubb
-  - sportdykning
+  - dykarklubb
+  - sportdykarklubb
   web: https://www.msdk.se/
 
 - entry: 1233795390
@@ -85884,6 +85984,16 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/gryt
 
+- entry: 1233921756
+  orgName: Strömstads Sportdykarklubb
+  orgNumber: 855900-4018
+  comment: null
+  categories:
+  - dykarklubb
+  - dykning
+  - sportdykarklubb
+  web: https://www.stromstadssportdykarklubb.se/
+
 - entry: 1233921913
   orgName: FUB Valdemarsvik
   orgNumber: 802419-5391
@@ -87772,6 +87882,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://wp.spkj.se/
+
+- entry: 1234002796
+  orgName: Dackarna Speedway
+  orgNumber: 556793-6157
+  comment: null
+  categories:
+  - speedwayklubb
+  web: https://dackarna.nu/
 
 - entry: 1234003661
   orgName: Brännöföreningen
@@ -102509,6 +102627,14 @@ entries:
   - stiftelse
   web: https://stiftelseforsberg.se/
 
+- entry: 1234745212
+  orgName: Nässjö Speedwayklubb
+  orgNumber: 827000-5914
+  comment: null
+  categories:
+  - speedwayklubb
+  web: https://www.nassjospeedway.nu/
+
 - entry: 1234745303
   orgName: Gardenize AB
   orgNumber: 559022-3672
@@ -116396,6 +116522,14 @@ entries:
   - mjukvaruutveckling
   web: https://alegasoftware.se/
 
+- entry: 1235411384
+  orgName: Indianerna Speedway
+  orgNumber: 875700-1360
+  comment: null
+  categories:
+  - speedwayklubb
+  web: https://indianerna.nu/
+
 - entry: 1235411921
   orgName: Korpen Vattenfalls IF Trollhättan
   orgNumber: 802456-7102
@@ -120741,6 +120875,14 @@ entries:
   - innebandyklubb
   web: https://www.svenskalag.se/onyxinnebandy
 
+- entry: 1235599089
+  orgName: Örnarna Speedway
+  orgNumber: 866000-1713
+  comment: null
+  categories:
+  - speedwayklubb
+  web: https://www.ornarnaspeedway.se/
+
 - entry: 1235599410
   orgName: Ecodive Stockholm
   orgNumber: 556737-5653
@@ -124649,7 +124791,7 @@ entries:
   - dykarklubb
   - dykkurser
   - fridykning
-  - sportdykning
+  - sportdykarklubb
   web: https://www.skelleftebottensdk.se/
 
 - entry: 1235770771
@@ -126855,6 +126997,16 @@ entries:
   - ridskola
   - ridsport
   web: https://falbygdenshf.se/
+
+- entry: 1235885215
+  orgName: Kiruna Sportdykarklubb
+  orgNumber: 897300-4222
+  comment: null
+  categories:
+  - dykarklubb
+  - dykning
+  - sportdykarklubb
+  web: https://www.kirunasdk.se/
 
 - entry: 1235885249
   orgName: Ursvikens Segelsällskap, URSS
@@ -132485,6 +132637,14 @@ entries:
   - danssport
   web: https://www.snesteg.se/
 
+- entry: 1236148639
+  orgName: Västervik Speedway
+  orgNumber: 556797-7466
+  comment: null
+  categories:
+  - speedwayklubb
+  web: https://vastervikspeedway.se/
+
 - entry: 1236148746
   orgName: Åsele Hembygdsförening
   orgNumber: 896100-4358
@@ -133098,6 +133258,15 @@ entries:
   - naturbruk
   web: https://ingelstad.nu/
 
+- entry: 1236171540
+  orgName: Alingsås Dykarklubb
+  orgNumber: 864000-7905
+  comment: null
+  categories:
+  - dykarklubb
+  - dykning
+  web: https://www.alingsasdk.se/
+
 - entry: 1236171938
   orgName: Strängnäs BSK
   orgNumber: 802456-5445
@@ -133382,6 +133551,15 @@ entries:
   - hjälporganisation
   - humanitär hjälpverksamhet
   web: https://sweduga.se/
+
+- entry: 1236178404
+  orgName: Lindome Sportdykarklubb
+  orgNumber: 852000-6324
+  comment: null
+  categories:
+  - dykarklubb
+  - sportdykarklubb
+  web: https://www.lindomesdk.nu/
 
 - entry: 1236178701
   orgName: Mörsil SKF
@@ -141447,7 +141625,7 @@ entries:
   comment: null
   categories:
   - dykarklubb
-  - sportdykning
+  - sportdykarklubb
   web: https://www.karlstadsdk.com/
 
 - entry: 1236539290
@@ -145457,7 +145635,6 @@ entries:
   comment: null
   categories:
   - dykarklubb
-  - dykklubb
   - dykskola
   web: http://www.isbjornarna.com/
 
