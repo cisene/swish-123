@@ -11,7 +11,7 @@ from datetime import datetime
 import yaml
 
 YAML_ENTRIES_FILE = '../yaml/entries.yaml'
-YAML_MASTERDATA_FILE = '../yaml/masterdata-svenskhandel-varningslistan.yaml'
+YAML_MASTERDATA_FILE = '../yaml/masterdata-varningslistan.yaml'
 
 CATEGORY_TAG = "varningslistan"
 

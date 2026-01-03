@@ -15,7 +15,7 @@ from operator import *
 
 from operator import itemgetter
 
-YAML_SOURCE_FILE = '../yaml/masterdata-forenadebolag-varningslistan.yaml'
+YAML_SOURCE_FILE = '../yaml/masterdata-varningslistan.yaml'
 
 def writeYAML(filepath, contents):
   s = yaml.safe_dump(
@@ -229,7 +229,7 @@ def main():
 
                 obj = {
                   'orgNumber': item_orgNumber,
-                  'orgName': item_orgName,
+                  'orgName': [item_orgName],
                   'date': item_date,
                   '_SeenFirst': None,
                   '_SeenLast': None
@@ -242,9 +242,6 @@ def main():
               
               if obj['_SeenFirst'] == None:
                 obj['_SeenFirst'] = now.strftime("%Y-%m-%dT%H:%M:%S%z")
-
-              #if obj["orgNumber"] != None:
-              #  if re.match(r"^(\d{6})\x2d(\d{4})$", obj["orgNumber"], flags=re.IGNORECASE):
 
               if obj['orgName'] != item_orgName:
                 obj['orgName'] = item_orgName
