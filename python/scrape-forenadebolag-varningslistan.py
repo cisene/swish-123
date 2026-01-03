@@ -195,7 +195,7 @@ def main():
 
     results = soup.find_all("div", class_="result-sf-filter-box")
 
-
+    print(f"\tFound {len(results)} entries ...")
     for chunk in results:
       objs = {}
 
@@ -226,7 +226,7 @@ def main():
 
               thisVO = findVO(item_orgNumber)
               if thisVO == None: 
-
+                print(f"Object lookup missed")
                 obj = {
                   'orgNumber': item_orgNumber,
                   'orgName': [item_orgName],
@@ -244,7 +244,8 @@ def main():
                 obj['_SeenFirst'] = now.strftime("%Y-%m-%dT%H:%M:%S%z")
 
               if obj['orgName'] != item_orgName:
-                obj['orgName'] = item_orgName
+                if item_orgName not in obj['orgName']:
+                  obj['orgName'].append(item_orgName)
 
               if obj['date'] != item_date:
                 obj['date'] = item_date
@@ -254,6 +255,11 @@ def main():
 
             dest_list.append(obj)
             seen_before.append(item_orgNumber)
+
+  for vo in source_dict['organisations']:
+    if vo['orgNumber'] not in seen_before:
+      dest_list.append(vo)
+      print(f"\t{vo['orgNumber']} wasn't seen, copying from source")
 
   sorted_vl = sorted(dest_list, key=itemgetter('orgNumber'))
 
