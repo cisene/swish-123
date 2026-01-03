@@ -83,13 +83,13 @@ def main():
   themes = [
     {
       'title': 'Godkända Gåvomottagare',
-      'slug': 'swishkatalogen-godkända-gåvomottagare',
+      'slug': 'swishkatalogen-godkanda-gavomottagare',
       'categories': [
         'godkänd gåvomottagare',
       ]
     },
     {
-      'title': 'kvinnojourer',
+      'title': 'Kvinnojourer, Tjejjourer och Transjourer',
       'slug': 'swishkatalogen-kvinnojourer',
       'categories': [
         'kvinnojour',
