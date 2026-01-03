@@ -8,9 +8,7 @@ python3 ./entries-sort.py
 python3 ./entries-update-gåvomottagare.py
 
 # Update varningslistan from Masterdata
-python3 ./entries-update-forenadebolag-varningslistan.py
-python3 ./entries-update-svenskhandel-varningslistan.py
-python3 ./entries-update-bisnis-varningslistan.py
+python3 ./entries-update-varningslistan.py
 python3 ./entries-masterdata-lookup.py
 
 # Filter YAML
