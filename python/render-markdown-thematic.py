@@ -73,7 +73,7 @@ def flattenName(name):
 def prettyprintSwish(data):
   if re.search(r"^\d{10}$", str(data), flags=re.IGNORECASE):
     data = re.sub(r"^(\d{3})(\d{3})(\d{2})(\d{2})$", "\\1 \\2 \\3 \\4", str(data), flags=re.IGNORECASE)
-    data = re.sub(r"\x20", "\xa0", str(data), flags=re.IGNORECASE)
+    #data = re.sub(r"\x20", "\xa0", str(data), flags=re.IGNORECASE)
 
   return data
 
