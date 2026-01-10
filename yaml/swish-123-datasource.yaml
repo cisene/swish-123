@@ -4870,7 +4870,7 @@ entries:
   orgNumber: 719000-1797
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - folkrörelse
   web: https://www.vrenafolketshus.se/
 
@@ -5837,6 +5837,7 @@ entries:
   orgNumber: 782000-1357
   comment: null
   categories:
+  - folketshus
   - lokaluthyrning
   web: https://www.langshyttansfolketshus.com/
 
@@ -6819,6 +6820,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - hjälporganisation
+  - räddabarnen
   web: https://www.forsoningsgruppen.com/
 
 - entry: 1230320168
@@ -7682,7 +7684,7 @@ entries:
   orgNumber: 789200-4826
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - intresseförening
   web: https://sorakersfolketshus.se/
 
@@ -17217,7 +17219,7 @@ entries:
   orgNumber: 898800-5040
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - kulturförening
   web: https://www.pitefolketshus.se/
 
@@ -23927,6 +23929,15 @@ entries:
   - religion
   web: https://www.pingstkyrkan.com/
 
+- entry: 1231066455
+  orgName: Rädda Barnen
+  orgNumber: 814000-5136
+  comment: Nacka
+  categories:
+  - hjälporganisation
+  - räddabarnen
+  web: https://www.raddabarnen.se/medlem-och-volontar/lokalforening/ost/stockholms-lan/nacka/
+
 - entry: 1231067677
   orgName: Helsingborg BBK
   orgNumber: 802446-8400
@@ -25005,6 +25016,15 @@ entries:
   - förlag
   - försäljning
   web: https://megilla.se/
+
+- entry: 1231132489
+  orgName: Honest Als Barbershop AB
+  orgNumber: 556759-3594
+  comment: null
+  categories:
+  - barbershop
+  - hårvård
+  web: https://honestals.se/
 
 - entry: 1231132521
   orgName: Alfta-Ösa Orienteringsklubb
@@ -28782,8 +28802,8 @@ entries:
   orgNumber: 779500-0392
   comment: null
   categories:
-  - folkets hus
   - folkets park
+  - folketshus
   - folkrörelse
   web: https://hebyfh.se/
 
@@ -35780,7 +35800,7 @@ entries:
   comment: null
   categories:
   - aktivitetshus
-  - folkets hus
+  - folketshus
   web: https://ramviksfolketshus.se/
 
 - entry: 1231611268
@@ -38783,7 +38803,7 @@ entries:
   orgNumber: 814000-6613
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - förening
   web: https://www.boofolketshus.se/
 
@@ -47756,6 +47776,7 @@ entries:
   orgNumber: 802531-7176
   comment: null
   categories:
+  - covid19
   - intresseförening
   - patientförening
   web: https://covidforeningen.se/
@@ -66570,6 +66591,14 @@ entries:
   - intresseförening
   web: https://www.dvargschnauzer.se/
 
+- entry: 1233023801
+  orgName: Bajen Fans
+  orgNumber: 802018-2674
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.bajenfans.se/
+
 - entry: 1233023967
   orgName: Eastside Basketklubb
   orgNumber: 802503-4300
@@ -68835,6 +68864,7 @@ entries:
   categories:
   - godkänd gåvomottagare
   - hjälporganisation
+  - räddabarnen
   web: https://www.raddabarnen-uppsala.se/
 
 - entry: 1233115730
@@ -69363,7 +69393,7 @@ entries:
   orgNumber: 785500-1009
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - lokaluthyrning
   web: https://jarboportalen.se/foreningar/folketshus.php
 
@@ -71354,8 +71384,8 @@ entries:
   orgNumber: 736200-1617
   comment: null
   categories:
-  - folkets hus
   - folkets park
+  - folketshus
   - folkrörelse
   web: https://morrumsfolketspark.se/
 
@@ -76359,7 +76389,7 @@ entries:
   orgNumber: 802435-7355
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - folkrörelse
   web: https://nyaragsvedsfolketshus.se/
 
@@ -97149,6 +97179,15 @@ entries:
   - trädgårdsodling
   web: https://uppsalats.blogspot.com/
 
+- entry: 1234471850
+  orgName: Folkets Hus Boliden
+  orgNumber: 794700-0209
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://folketshusboliden.se/
+
 - entry: 1234471959
   orgName: Alingsås Karateklubb
   orgNumber: 802454-6429
@@ -97536,6 +97575,7 @@ entries:
   orgNumber: 772000-0483
   comment: null
   categories:
+  - folketshus
   - intresseförening
   web: https://www.fhamotfors.se/
 
@@ -101018,7 +101058,7 @@ entries:
   comment: null
   categories:
   - aktivitetshus
-  - folkets hus
+  - folketshus
   web: https://bioseplus.se/webb/kallhall/
 
 - entry: 1234652160
@@ -110537,7 +110577,7 @@ entries:
   orgNumber: 729500-1213
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - intresseförening
   web: https://www.kongafolketshus.se/
 
@@ -110907,7 +110947,7 @@ entries:
   orgNumber: 717300-1392
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - intresseförening
   web: http://folketshussoderfors.se/
 
@@ -119288,8 +119328,8 @@ entries:
   orgNumber: 715200-0431
   comment: null
   categories:
-  - folkets hus
   - folkets park
+  - folketshus
   - folkrörelse
   web: https://olstafolkpark.se/
 
@@ -121148,6 +121188,15 @@ entries:
   - båtklubb
   - båtsällskap
   web: https://rixobk.se/
+
+- entry: 1235581137
+  orgName: WeFightCovid.org
+  orgNumber: 802481-4991
+  comment: null
+  categories:
+  - covid19
+  - intresseförening
+  web: https://wefightcovid.org/
 
 - entry: 1235582663
   orgName: Bolmsö Tannåkers Räddningsvärn
@@ -129832,7 +129881,7 @@ entries:
   orgNumber: 802413-7419
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - intresseförening
   web: https://fisksatrafolketshus.se/
 
@@ -130373,7 +130422,7 @@ entries:
   orgNumber: 716404-3643
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - intresseförening
   web: https://broakullafolketshus.se/
 
@@ -138761,6 +138810,15 @@ entries:
   - idrottsförening
   web: https://www.laget.se/BarkaroSK/
 
+- entry: 1236392708
+  orgName: Folkets skafferi
+  orgNumber: 802535-5531
+  comment: null
+  categories:
+  - matutdelning
+  - välgörenhet
+  web: https://www.folketsskafferi.se/
+
 - entry: 1236393664
   orgName: PRO Storå-Guldsmedshyttan
   orgNumber: 877100-4812
@@ -139237,6 +139295,15 @@ entries:
   - idrottsförening
   - mountainbikeklubb
   web: https://www.svenskalag.se/orkelljungaoutdoor
+
+- entry: 1236415475
+  orgName: Helgebodafors Folketshusförening
+  orgNumber: 772000-0509
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.folketshusochparker.se/arrangor/haljeboda-folkets-hus/
 
 - entry: 1236415509
   orgName: Sparsörs AIK
@@ -142476,8 +142543,8 @@ entries:
   orgNumber: 802527-5432
   comment: null
   categories:
-  - folkets hus
   - folkets park
+  - folketshus
   web: https://kalmarparken.se/
 
 - entry: 1236554422
@@ -142664,6 +142731,15 @@ entries:
   - psykisk hälsa
   - stiftelse
   web: https://ludvikainsamlingsstiftelse.se/
+
+- entry: 1236568406
+  orgName: Vetenskapsforum COVID19
+  orgNumber: 802531-3639
+  comment: null
+  categories:
+  - covid19
+  - intresseförening
+  web: https://vetcov19.se/
 
 - entry: 1236568489
   orgName: Cykelklubben Bike4Life
@@ -150582,7 +150658,7 @@ entries:
   orgNumber: 802015-9227
   comment: null
   categories:
-  - folkets hus
+  - folketshus
   - folkrörelse
   web: https://bagisfh.se/
 
@@ -156188,6 +156264,7 @@ entries:
   - donation
   - godkänd gåvomottagare
   - insamlingskontroll
+  - räddabarnen
   - välgörenhet
   web: https://www.raddabarnen.se/
 
