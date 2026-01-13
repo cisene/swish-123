@@ -275,6 +275,14 @@ entries:
   - motorklubb
   web: https://kak.se/
 
+- entry: 1230008888
+  orgName: Blomstermåla Idrottsklubb
+  orgNumber: 832800-0099
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://www.laget.se/blomstermalaik_/
+
 - entry: 1230008912
   orgName: Väse Framtid
   orgNumber: 802418-8313
@@ -3465,6 +3473,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/skippet
 
+- entry: 1230183798
+  orgName: Åfors Folkets Hus
+  orgNumber: 729500-1239
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.aforsfolketshus.se/
+
 - entry: 1230183822
   orgName: Pingstförsamlingen i Kumla
   orgNumber: 875700-0818
@@ -4872,6 +4889,7 @@ entries:
   categories:
   - folketshus
   - folkrörelse
+  - intresseförening
   web: https://www.vrenafolketshus.se/
 
 - entry: 1230237990
@@ -6511,6 +6529,16 @@ entries:
   categories:
   - intresseförening
   web: https://bes.barnlakarforeningen.se/
+
+- entry: 1230307736
+  orgName: Pålsboda Folkets Hus och Parkförening
+  orgNumber: 875700-5122
+  comment: null
+  categories:
+  - folkets park
+  - folketshus
+  - intresseförening
+  web: https://palsbodafolketshus.se/
 
 - entry: 1230308379
   orgName: SPF Seniorerna Boken Sölvesborg
@@ -9515,6 +9543,15 @@ entries:
   - sportfiske
   web: https://www.mariannelundsfiskeklubb.se/
 
+- entry: 1230426148
+  orgName: Långshyttans Folkets Hus
+  orgNumber: 782000-1357
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.folketshusochparker.se/arrangor/langshyttans-folkets-hus/
+
 - entry: 1230426346
   orgName: Terapeut Jinder / AB ÅSA JINDER
   orgNumber: 556510-9344
@@ -10577,6 +10614,15 @@ entries:
   categories:
   - religion
   web: https://www.kristuskonungen.se/
+
+- entry: 1230481242
+  orgName: Årjängs Kulturskolas Elevförening
+  orgNumber: 802470-3897
+  comment: null
+  categories:
+  - elevförening
+  - kulturskola
+  web: https://www.arjang.se/kommunalservice/startsida/utbildningochbarnomsorg/kulturskolan/arjangskulturskolaselevforening.3409.html
 
 - entry: 1230481309
   orgName: Rotary Ängelholm-Bjäre
@@ -12665,6 +12711,15 @@ entries:
   - intresseförening
   web: https://malsaker.nu/
 
+- entry: 1230566869
+  orgName: Skelleftehamns Folkets Hus
+  orgNumber: 794700-2387
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://skelleftehamnfolketshus.se/
+
 - entry: 1230567214
   orgName: IFK Mariefred
   orgNumber: 819500-2715
@@ -14332,6 +14387,14 @@ entries:
   - skidorienteringsklubb
   - skidskytteklubb
   web: https://www.svenskalag.se/oknolaskogsarna
+
+- entry: 1230670414
+  orgName: Kammarmusikens Vänner
+  orgNumber: 802429-5803
+  comment: null
+  categories:
+  - kammarmusikförening
+  web: https://k-v.se/
 
 - entry: 1230670679
   orgName: Örkelljunga Församling
@@ -16418,6 +16481,15 @@ entries:
   - kampsportsförening
   web: https://och.nu/yoi/info.html
 
+- entry: 1230758409
+  orgName: Hallgrens Gym & Fitness AB
+  orgNumber: 559163-6468
+  comment: null
+  categories:
+  - fitness
+  - gym
+  web: https://folketshusgym.se/
+
 - entry: 1230758706
   orgName: Folkkulturcentrum
   orgNumber: 802011-1889
@@ -17220,6 +17292,7 @@ entries:
   comment: null
   categories:
   - folketshus
+  - intresseförening
   - kulturförening
   web: https://www.pitefolketshus.se/
 
@@ -25058,6 +25131,15 @@ entries:
   - påverkansarbete
   web: https://lymfs.se/
 
+- entry: 1231133248
+  orgName: Ljusne Flugfiskeklubb
+  orgNumber: 802454-2147
+  comment: Fiskekort Gullgruva
+  categories:
+  - fiskeklubb
+  - flugfiske
+  web: https://ljusneflugfiskeklubb.se/
+
 - entry: 1231133552
   orgName: Visby IF Gute Handboll
   orgNumber: 834001-7378
@@ -27078,6 +27160,15 @@ entries:
   - friidrottsförening
   - idrottsförening
   web: https://www.iksisu.se/
+
+- entry: 1231216530
+  orgName: Hörby-Frosta Gammeldansförening
+  orgNumber: 842000-4890
+  comment: null
+  categories:
+  - dansförening
+  - gammeldansförening
+  web: https://www.horbyfrostagdf.se/
 
 - entry: 1231217082
   orgName: Luleå Karateklubb
@@ -29228,6 +29319,15 @@ entries:
   categories:
   - religion
   web: https://www.enhornamissionshus.nu/
+
+- entry: 1231313717
+  orgName: Folkets Hus Skogshyddan Högboda
+  orgNumber: 773200-0927
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://hogbodafolketshus.se/
 
 - entry: 1231313915
   orgName: Lerums BK
@@ -31440,6 +31540,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/haggenas-lit-kyrkas
+
+- entry: 1231422757
+  orgName: Söderbärke Aktivitets Grupp
+  orgNumber: 802511-7972
+  comment: null
+  categories:
+  - aktivitetsförening
+  - intresseförening
+  web: https://www.facebook.com/people/S%C3%B6derb%C3%A4rke-Aktivitets-Grupp/100064931460762/
 
 - entry: 1231424050
   orgName: SPF Seniorerna Syrenen Sandviken
@@ -35554,6 +35663,15 @@ entries:
   - tennisklubb
   web: https://sstk.nu/
 
+- entry: 1231600766
+  orgName: Hotings Föreningshus
+  orgNumber: 769636-4723
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.facebook.com/people/Hotings-F%C3%B6reningshus/100057209419130/
+
 - entry: 1231601145
   orgName: Lerums BK
   orgNumber: 863500-4503
@@ -35801,6 +35919,7 @@ entries:
   categories:
   - aktivitetshus
   - folketshus
+  - intresseförening
   web: https://ramviksfolketshus.se/
 
 - entry: 1231611268
@@ -38164,6 +38283,15 @@ entries:
   - försäljning
   web: https://www.granec.se/
 
+- entry: 1231726405
+  orgName: Rinkeby Folkets Hus
+  orgNumber: 802011-8942
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: null
+
 - entry: 1231726439
   orgName: Carl-Johans Pastorat
   orgNumber: 252004-8980
@@ -38804,7 +38932,7 @@ entries:
   comment: null
   categories:
   - folketshus
-  - förening
+  - intresseförening
   web: https://www.boofolketshus.se/
 
 - entry: 1231747146
@@ -38812,8 +38940,8 @@ entries:
   orgNumber: 802452-7254
   comment: null
   categories:
-  - förening
   - hälsa
+  - intresseförening
   - medicin
   web: https://www.sefr.se/
 
@@ -46088,6 +46216,15 @@ entries:
   - sportskytteklubb
   web: https://www.svenskalag.se/vasteraspistolskyttar
 
+- entry: 1232099927
+  orgName: Floda Folketshusförening
+  orgNumber: 718500-0895
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://flodafolketshus.se/
+
 - entry: 1232101681
   orgName: PRO Mantorp
   orgNumber: 823000-8784
@@ -46971,7 +47108,7 @@ entries:
 - entry: 1232142321
   orgName: Strömsunds Pastorat
   orgNumber: 252003-9203
-  comment: Hammerdals församling
+  comment: Hammerdals Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/stromsund/gaxsjo/hammerdal-forsamlingar
@@ -50418,6 +50555,15 @@ entries:
   - hundhem
   web: https://voovstockholm.se/
 
+- entry: 1232263945
+  orgName: Hissmofors Folketshusförening
+  orgNumber: 792000-0556
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://hissmoforsfolketshus.se/
+
 - entry: 1232265627
   orgName: Wisseltofta Idrottsförening
   orgNumber: 837000-2944
@@ -52903,6 +53049,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.kristinehamnsinnebandyforening.se/
+
+- entry: 1232363174
+  orgName: Norrtälje Trädgårdsförening
+  orgNumber: 802465-1302
+  comment: null
+  categories:
+  - trädgårdsförening
+  - trädgårdsodling
+  web: https://www.norrtaljetradgardsforening.org/
 
 - entry: 1232363422
   orgName: Plexus Vänner
@@ -57869,6 +58024,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.fch.nu/
+
+- entry: 1232637866
+  orgName: Degerfors Folkets Hus
+  orgNumber: 776400-0522
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://folketshus-degerfors.org/
 
 - entry: 1232637890
   orgName: Swedish Oldtimers Hockey Association, SOHA
@@ -64003,6 +64167,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/lerumsis
 
+- entry: 1232885119
+  orgName: Havstenssunds Folketshusförening
+  orgNumber: 755900-0323
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://havstenssund.se/folkets-hus/
+
 - entry: 1232885184
   orgName: IFK Motala Bandy
   orgNumber: 802419-3370
@@ -67386,6 +67559,15 @@ entries:
   - danssällskap
   web: http://gnds.org/
 
+- entry: 1233048535
+  orgName: Kvidinge Folketshusförening
+  orgNumber: 737600-1397
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://kvidinge-folketshus.se/
+
 - entry: 1233048550
   orgName: Annelis Hundtjänst / Anneli Johansson
   orgNumber: 671111-XXXX
@@ -69394,6 +69576,7 @@ entries:
   comment: null
   categories:
   - folketshus
+  - intresseförening
   - lokaluthyrning
   web: https://jarboportalen.se/foreningar/folketshus.php
 
@@ -70705,6 +70888,15 @@ entries:
   categories:
   - supporterklubb
   web: https://lakerslakejer.se/
+
+- entry: 1233200904
+  orgName: Folkets Hus i Kungshamn
+  orgNumber: 754600-0253
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.folketshuskungshamn.se/
 
 - entry: 1233201506
   orgName: Hallstaviks Ryttarförening
@@ -76391,6 +76583,7 @@ entries:
   categories:
   - folketshus
   - folkrörelse
+  - intresseförening
   web: https://nyaragsvedsfolketshus.se/
 
 - entry: 1233457918
@@ -76418,6 +76611,15 @@ entries:
   categories:
   - donation
   web: https://www.umu.se/kontakta-oss/ge-en-gava/sa-har-gor-du/donation/
+
+- entry: 1233460961
+  orgName: Ljusne Flugfiskeklubb
+  orgNumber: 802454-2147
+  comment: Fiskekort Skärjån
+  categories:
+  - fiskeklubb
+  - flugfiske
+  web: https://ljusneflugfiskeklubb.se/
 
 - entry: 1233461100
   orgName: Pingstkyrkan Lidköping
@@ -77075,6 +77277,14 @@ entries:
   - föreläsningar
   - utbildningar
   web: https://soulmind.se/
+
+- entry: 1233486685
+  orgName: Ovanmons Samhällsförening
+  orgNumber: 888400-4675
+  comment: null
+  categories:
+  - samhällsförening
+  web: https://ovanmons.se/
 
 - entry: 1233486800
   orgName: RC-Janne i Vallda / Vallda Teknik & Ekonomi HB
@@ -78880,6 +79090,15 @@ entries:
   - sportklubb
   web: https://www.malmolyftarklubb.se/
 
+- entry: 1233553518
+  orgName: Skärblacka Folkets Hus
+  orgNumber: 725000-3923
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.blackafh.se/
+
 - entry: 1233553617
   orgName: Edsbyns Skidklubb
   orgNumber: 886500-6483
@@ -78994,6 +79213,15 @@ entries:
   - motorbåtsklubb
   - segelsällskap
   web: https://kmsnordon.se/
+
+- entry: 1233555836
+  orgName: Flygfors Folkets Hus
+  orgNumber: 732400-0293
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://flygsforsfh.se/
 
 - entry: 1233556024
   orgName: Norra Billings Hembygdsförening
@@ -88869,6 +89097,15 @@ entries:
   - brukshundklubb
   - hundsport
   web: https://tierpsbk.se/
+
+- entry: 1234029880
+  orgName: Rute Folkets Hus
+  orgNumber: 734000-2760
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://rutefolketshus.se/
 
 - entry: 1234030086
   orgName: Boule von Platen
@@ -99902,7 +100139,7 @@ entries:
 - entry: 1234594693
   orgName: Equmeniakyrkan Sennan
   orgNumber: 849200-1600
-  comment: null
+  comment: Gåvor
   categories:
   - religion
   web: https://equmeniakyrkan.se/sennan/
@@ -101059,6 +101296,7 @@ entries:
   categories:
   - aktivitetshus
   - folketshus
+  - intresseförening
   web: https://bioseplus.se/webb/kallhall/
 
 - entry: 1234652160
@@ -106089,6 +106327,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/saro
 
+- entry: 1234945200
+  orgName: Grängesbergs Folkets Park
+  orgNumber: 783800-0367
+  comment: null
+  categories:
+  - folkets park
+  - intresseförening
+  web: https://grangesparken.se/
+
 - entry: 1234945481
   orgName: Lidköpings VSK
   orgNumber: 869000-4240
@@ -110410,6 +110657,15 @@ entries:
   - yoga
   web: https://www.narautveckling.se/
 
+- entry: 1235126784
+  orgName: Lidköpings Konsertförening
+  orgNumber: 868401-2332
+  comment: null
+  categories:
+  - konsertförening
+  - musikevenemang
+  web: https://lidkopingskonsertforening.se/
+
 - entry: 1235126859
   orgName: Bostadsrättsföreningen Essingeviken
   orgNumber: 716422-7089
@@ -113843,6 +114099,15 @@ entries:
   - hundsport
   web: https://sodradalarnasdraghundsklubb.klubbenonline.se/
 
+- entry: 1235273800
+  orgName: Riksorganisationen Folkets Hus och Parker
+  orgNumber: 802000-9356
+  comment: null
+  categories:
+  - folketshus
+  - riksorganisation
+  web: https://www.folketshusochparker.se/
+
 - entry: 1235273891
   orgName: Team Rynkeby
   orgNumber: 802535-9137
@@ -114226,6 +114491,15 @@ entries:
   categories:
   - religion
   web: https://www.hagshult.com/
+
+- entry: 1235284211
+  orgName: Folketshus Älandsbro
+  orgNumber: 888000-3432
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.facebook.com/folketshusalandsbro/
 
 - entry: 1235284385
   orgName: Lagg & Hoj AB
@@ -117631,7 +117905,7 @@ entries:
 - entry: 1235437553
   orgName: Strömsunds Pastorat
   orgNumber: 252003-9203
-  comment: Ström-Alanäs församling
+  comment: Ström-Alanäs Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/stromsund/strom---alanas
@@ -119324,13 +119598,13 @@ entries:
   web: null
 
 - entry: 1235516430
-  orgName: Ölsta Folketshus & park
+  orgName: Ölsta Folketshus & Park
   orgNumber: 715200-0431
   comment: null
   categories:
   - folkets park
   - folketshus
-  - folkrörelse
+  - intresseförening
   web: https://olstafolkpark.se/
 
 - entry: 1235516943
@@ -126471,6 +126745,15 @@ entries:
   - humanitär hjälpverksamhet
   web: http://burundihjalpen.se/
 
+- entry: 1235820212
+  orgName: Folkets Hus i Sundbyberg
+  orgNumber: 715200-0449
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.folketshussundbyberg.com/
+
 - entry: 1235820576
   orgName: Reumatikerföreningen Mark
   orgNumber: 868401-3934
@@ -129366,6 +129649,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/RynningeIK/
+
+- entry: 1235956271
+  orgName: Birkagården Folkets Hus
+  orgNumber: 802517-7828
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.birkagårdenfolketshus.se/
 
 - entry: 1235956339
   orgName: Sankta Elisabets Folkhögskola
@@ -135442,6 +135734,16 @@ entries:
   - bilvård
   web: null
 
+- entry: 1236230734
+  orgName: Mölnbo Folkets Hus
+  orgNumber: 715600-0189
+  comment: null
+  categories:
+  - folkets park
+  - folketshus
+  - intresseförening
+  web: https://fhpmolnbo.se/
+
 - entry: 1236232243
   orgName: Skebokvarns Motorbåtsklubb
   orgNumber: 802504-9456
@@ -138980,6 +139282,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle/foreningar/bomhus.html
+
+- entry: 1236401616
+  orgName: Folkets Hus i Bredsjö
+  orgNumber: 777100-0713
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://bredsjofolketshus.se/
 
 - entry: 1236402267
   orgName: Svensk Flöjt
@@ -143106,6 +143417,15 @@ entries:
   categories:
   - scoutkår
   web: https://bankeryd.scout.se/
+
+- entry: 1236583637
+  orgName: Ekshärads Folkets Hus
+  orgNumber: 802419-1234
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.facebook.com/people/Eksh%C3%A4rads-Folkets-Hus/61556693638166/
 
 - entry: 1236583769
   orgName: Granöbygdens Golfklubb
@@ -150401,6 +150721,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/flobyif
 
+- entry: 1236915862
+  orgName: Malmöns Folkets Hus
+  orgNumber: 754600-0220
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://malmonfolketshus.se/
+
 - entry: 1236915896
   orgName: Helsingborgs Konstförening
   orgNumber: 843000-1837
@@ -150660,6 +150989,7 @@ entries:
   categories:
   - folketshus
   - folkrörelse
+  - intresseförening
   web: https://bagisfh.se/
 
 - entry: 1236929285
