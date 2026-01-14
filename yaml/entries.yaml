@@ -1190,7 +1190,7 @@ entries:
 - entry: 1230061945
   orgName: Norra Gotlands Pastorat
   orgNumber: 252003-7926
-  comment: Othem-Boge församling
+  comment: Othem-Boge Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/norragotland
@@ -3978,7 +3978,7 @@ entries:
 - entry: 1230193920
   orgName: Indalens Pastorat
   orgNumber: 252002-7943
-  comment: Kollekt Holms församling
+  comment: Kollekt Holms Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/indalenspastorat
@@ -5096,7 +5096,7 @@ entries:
 - entry: 1230241497
   orgName: Leksands Pastorat
   orgNumber: 252003-4253
-  comment: Gåvor Siljansnäs församling
+  comment: Gåvor Siljansnäs Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/leksandspastorat
@@ -5280,7 +5280,7 @@ entries:
 - entry: 1230244897
   orgName: Långaryds Församling
   orgNumber: 252001-3430
-  comment: Kollekt Långaryds församling
+  comment: Kollekt Långaryds Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/Hyltebruks%20pastorat/langaryd
@@ -6520,7 +6520,7 @@ entries:
 - entry: 1230304063
   orgName: Eslövs Pastorat
   orgNumber: 252003-0962
-  comment: Kollekt Marieholms församling
+  comment: Kollekt Marieholms Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/eslov
@@ -7679,7 +7679,7 @@ entries:
 - entry: 1230340802
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Bokbord Morlanda församling
+  comment: Bokbord Morlanda Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -7843,7 +7843,7 @@ entries:
 - entry: 1230346536
   orgName: Leksands Pastorat
   orgNumber: 252003-4253
-  comment: Gåvor Djura församling
+  comment: Gåvor Djura Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/leksandspastorat
@@ -10353,6 +10353,13 @@ entries:
   - simsällskap
   web: https://www.sknereus.se/
 
+- entry: 1230458612
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230459222
   orgName: Holmsvedens AIK
   orgNumber: 886000-0200
@@ -10609,7 +10616,7 @@ entries:
 - entry: 1230471169
   orgName: Voxtorps Pastorat
   orgNumber: 252003-4675
-  comment: Kollekt Gällaryds församling
+  comment: Kollekt Gällaryds Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/voxtorp
@@ -14666,7 +14673,7 @@ entries:
 - entry: 1230670067
   orgName: Norra Ölands Pastorat
   orgNumber: 252003-8858
-  comment: Kollekt Räpplinge-Högsrums församling
+  comment: Kollekt Räpplinge-Högsrums Församling
   categories:
   - godkänd gåvomottagare
   - religion
@@ -15553,7 +15560,7 @@ entries:
 - entry: 1230708032
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Bokbord Röra församling
+  comment: Bokbord Röra Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -15561,7 +15568,7 @@ entries:
 - entry: 1230708610
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Insamling Långelanda församling
+  comment: Insamling Långelanda Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -17515,7 +17522,7 @@ entries:
 - entry: 1230794578
   orgName: Norra Gotlands Pastorat
   orgNumber: 252003-7926
-  comment: Bunge-Rute-Fleringe församling
+  comment: Bunge-Rute-Fleringe Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/norragotland
@@ -18392,7 +18399,7 @@ entries:
   web: https://www.svenskalag.se/ebk
 
 - entry: 1230822544
-  orgName: Theleborgs RS - Ridsport
+  orgName: Theleborgs Ridsport
   orgNumber: 829502-2472
   comment: null
   categories:
@@ -19847,7 +19854,7 @@ entries:
 - entry: 1230872945
   orgName: Norra Ölands Pastorat
   orgNumber: 252003-8858
-  comment: Kollekt Nordölands församling
+  comment: Kollekt Nordölands Församling
   categories:
   - godkänd gåvomottagare
   - religion
@@ -21745,7 +21752,7 @@ entries:
 - entry: 1230933408
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Insamling Tegneby församling
+  comment: Insamling Tegneby Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -22109,7 +22116,7 @@ entries:
 - entry: 1230960146
   orgName: Helsingborgs Pastorat
   orgNumber: 252003-0970
-  comment: Kollekt Raus församling
+  comment: Kollekt Raus Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/helsingborg
@@ -22171,7 +22178,7 @@ entries:
 - entry: 1230961029
   orgName: Huskvarna Pastorat
   orgNumber: 252003-0897
-  comment: Övrigt Huskvarna församling
+  comment: Övrigt Huskvarna Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/huskvarna
@@ -22195,7 +22202,7 @@ entries:
 - entry: 1230961342
   orgName: Örebro Pastorat
   orgNumber: 252003-0731
-  comment: Café/Servering Olaus Petri församling
+  comment: Café/Servering Olaus Petri Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orebro
@@ -22497,7 +22504,7 @@ entries:
 - entry: 1230973776
   orgName: Örebro Pastorat
   orgNumber: 252003-0731
-  comment: Kollekt Olaus Petri församling
+  comment: Kollekt Olaus Petri Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orebro
@@ -24134,7 +24141,7 @@ entries:
 - entry: 1231052935
   orgName: Örebro Pastorat
   orgNumber: 252003-0731
-  comment: Gåvor/ljus Olaus Petri församling
+  comment: Gåvor/ljus Olaus Petri Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orebro
@@ -24532,7 +24539,7 @@ entries:
 - entry: 1231067941
   orgName: Örebro Pastorat
   orgNumber: 252003-0731
-  comment: Kollekt Mikaels församling
+  comment: Kollekt Mikaels Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orebro
@@ -24829,7 +24836,7 @@ entries:
 - entry: 1231078989
   orgName: Knivsta Pastorat
   orgNumber: 252003-2059
-  comment: Kollekt Lagga församling
+  comment: Kollekt Lagga Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/knivsta
@@ -25957,7 +25964,7 @@ entries:
 - entry: 1231139252
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Insamling Morlanda församling
+  comment: Insamling Morlanda Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -26247,7 +26254,7 @@ entries:
 - entry: 1231148873
   orgName: Norra Gotlands Pastorat
   orgNumber: 252003-7926
-  comment: Fårö församling
+  comment: Fårö Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/norragotland
@@ -29940,7 +29947,7 @@ entries:
 - entry: 1231313196
   orgName: Leksands Pastorat
   orgNumber: 252003-4253
-  comment: Gåvor Leksands församling
+  comment: Gåvor Leksands Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/leksandspastorat
@@ -30945,7 +30952,7 @@ entries:
 - entry: 1231353218
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Bokbord Stala församling
+  comment: Bokbord Stala Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -31092,7 +31099,7 @@ entries:
 - entry: 1231365691
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Bokbord Tegneby församling
+  comment: Bokbord Tegneby Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -32176,7 +32183,7 @@ entries:
 - entry: 1231421742
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
-  comment: Kollekt Bäckseda församling
+  comment: Kollekt Bäckseda Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
@@ -32573,7 +32580,7 @@ entries:
 - entry: 1231441955
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Bokbord Torp församling
+  comment: Bokbord Torp Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -34248,7 +34255,7 @@ entries:
 - entry: 1231493816
   orgName: Balingsta Pastorat
   orgNumber: 252003-1911
-  comment: Kollekt Västeråkers församling
+  comment: Kollekt Västeråkers Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/balingsta
@@ -35575,7 +35582,7 @@ entries:
 - entry: 1231561208
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
-  comment: Kollekt Lannaskede församling
+  comment: Kollekt Lannaskede Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
@@ -35583,7 +35590,7 @@ entries:
 - entry: 1231561216
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
-  comment: Kollekt Ekenässjön församling
+  comment: Kollekt Ekenässjön Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
@@ -37795,7 +37802,7 @@ entries:
 - entry: 1231664770
   orgName: Norra Ölands Pastorat
   orgNumber: 252003-8858
-  comment: Kollekt Föra-Alböke-Löts församling
+  comment: Kollekt Föra-Alböke-Löts Församling
   categories:
   - godkänd gåvomottagare
   - religion
@@ -37919,7 +37926,7 @@ entries:
 - entry: 1231668581
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
-  comment: Kollekt Näsby församling
+  comment: Kollekt Näsby Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
@@ -37953,7 +37960,7 @@ entries:
 - entry: 1231669241
   orgName: Aspelands Pastorat
   orgNumber: 252004-7453
-  comment: Kollekt Målilla församling
+  comment: Kollekt Målilla Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/aspeland
@@ -39161,7 +39168,7 @@ entries:
 - entry: 1231726728
   orgName: Partille Församling
   orgNumber: 252001-4453
-  comment: Fika i Partille församling
+  comment: Fika i Partille Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
@@ -39705,6 +39712,15 @@ entries:
   - gymnastikförening
   - idrottsförening
   web: https://www.facebook.com/KlubbEnergi/
+
+- entry: 1231745348
+  orgName: Sibbhults Folketshus Förening
+  orgNumber: 738200-4286
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://sibbhultsfh.se/
 
 - entry: 1231745470
   orgName: Veberöds Scoutkår
@@ -41488,7 +41504,7 @@ entries:
 - entry: 1231822899
   orgName: Strömsunds Pastorat
   orgNumber: 252003-9203
-  comment: Frostvikens församling
+  comment: Frostvikens Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/stromsund/frostvikens-forsamling
@@ -43375,7 +43391,7 @@ entries:
 - entry: 1231909548
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Bokbord Myckleby församling
+  comment: Bokbord Myckleby Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -44035,7 +44051,7 @@ entries:
 - entry: 1231958024
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Bokbord Långelanda församling
+  comment: Bokbord Långelanda Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -44334,7 +44350,7 @@ entries:
   web: https://www.dosjobroif.com/
 
 - entry: 1231972884
-  orgName: S:t Lars katolska församling Uppsala
+  orgName: S:t Lars katolska Församling Uppsala
   orgNumber: 252002-8552
   comment: null
   categories:
@@ -44938,7 +44954,7 @@ entries:
 - entry: 1231988054
   orgName: Indalens Pastorat
   orgNumber: 252002-7943
-  comment: Kollekt Indals församling
+  comment: Kollekt Indals Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/indalenspastorat
@@ -45607,7 +45623,7 @@ entries:
 - entry: 1232020584
   orgName: Aspelands Pastorat
   orgNumber: 252004-7453
-  comment: Kollekt Vena församling
+  comment: Kollekt Vena Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/aspeland
@@ -47662,7 +47678,7 @@ entries:
 - entry: 1232126274
   orgName: Strömsunds Pastorat
   orgNumber: 252003-9203
-  comment: Tåsjö församling
+  comment: Tåsjö Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/stromsund/tasjo-forsamling
@@ -48304,7 +48320,7 @@ entries:
 - entry: 1232148617
   orgName: Balingsta Pastorat
   orgNumber: 252003-1911
-  comment: Kollekt Hagby församling
+  comment: Kollekt Hagby Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/balingsta
@@ -49581,7 +49597,7 @@ entries:
   web: https://www.wgf.nu/
 
 - entry: 1232196038
-  orgName: Centrumkyrkans församling i Norrköping
+  orgName: Centrumkyrkans Församling i Norrköping
   orgNumber: 825001-2294
   comment: null
   categories:
@@ -49677,7 +49693,7 @@ entries:
 - entry: 1232201648
   orgName: Aspelands Pastorat
   orgNumber: 252004-7453
-  comment: Kollekt Hultsfred församling
+  comment: Kollekt Hultsfred Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/aspeland
@@ -50575,7 +50591,7 @@ entries:
 - entry: 1232232304
   orgName: Färgaryds Församling
   orgNumber: 252001-3448
-  comment: Kollekt Färgaryds församling
+  comment: Kollekt Färgaryds Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/Hyltebruks%20pastorat/fargaryd
@@ -54430,7 +54446,7 @@ entries:
 - entry: 1232372613
   orgName: Örebro Pastorat
   orgNumber: 252003-0731
-  comment: Kollekt/Gåvor Edsbergs församling
+  comment: Kollekt/Gåvor Edsbergs Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orebro
@@ -55273,7 +55289,7 @@ entries:
 - entry: 1232403939
   orgName: Norra Ölands Pastorat
   orgNumber: 252003-8858
-  comment: Kollekt Borgholms församling
+  comment: Kollekt Borgholms Församling
   categories:
   - godkänd gåvomottagare
   - religion
@@ -57093,7 +57109,7 @@ entries:
 - entry: 1232526671
   orgName: Sävedalens Församling
   orgNumber: 252001-4446
-  comment: Fika i Sävedalens församling
+  comment: Fika i Sävedalens Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
@@ -57551,7 +57567,7 @@ entries:
 - entry: 1232549848
   orgName: Knivsta Pastorat
   orgNumber: 252003-2059
-  comment: Kollekt Östuna församling
+  comment: Kollekt Östuna Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/knivsta
@@ -58108,7 +58124,7 @@ entries:
 - entry: 1232587244
   orgName: Strömsunds Pastorat
   orgNumber: 252003-9203
-  comment: Gåxsjö församling
+  comment: Gåxsjö Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/stromsund/gaxsjo/hammerdal-forsamlingar
@@ -58445,7 +58461,7 @@ entries:
 - entry: 1232595296
   orgName: Strömsunds Pastorat
   orgNumber: 252003-9203
-  comment: Bodums församling
+  comment: Bodums Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar
@@ -58849,7 +58865,7 @@ entries:
 - entry: 1232620276
   orgName: Österåkers Pastorat
   orgNumber: 252004-9277
-  comment: Kollekt Ljusterö-Kulla församling
+  comment: Kollekt Ljusterö-Kulla Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/osteraker
@@ -60937,7 +60953,7 @@ entries:
 - entry: 1232696698
   orgName: Märsta Pastorat
   orgNumber: 252003-0095
-  comment: Övrigt Skepptuna församling
+  comment: Övrigt Skepptuna Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/marsta
@@ -61314,7 +61330,7 @@ entries:
 - entry: 1232710069
   orgName: Falköpings Pastorat
   orgNumber: 252003-9179
-  comment: Slöta-Karleby församling
+  comment: Slöta-Karleby Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/falkoping
@@ -62699,7 +62715,7 @@ entries:
 - entry: 1232765493
   orgName: Huskvarna Pastorat
   orgNumber: 252003-0897
-  comment: Övrigt Hakarps församling
+  comment: Övrigt Hakarps Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/huskvarna
@@ -64200,7 +64216,7 @@ entries:
 - entry: 1232817013
   orgName: Örebro Pastorat
   orgNumber: 252003-0731
-  comment: Diakoni Mikaels församling
+  comment: Diakoni Mikaels Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orebro
@@ -65715,7 +65731,7 @@ entries:
 - entry: 1232887024
   orgName: Norra Gotlands Pastorat
   orgNumber: 252003-7926
-  comment: Stenkyrka församling
+  comment: Stenkyrka Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/norragotland
@@ -66357,7 +66373,7 @@ entries:
 - entry: 1232917482
   orgName: Sävedalens Församling
   orgNumber: 252001-4446
-  comment: Ungdomsverksamhet Sävedalens församling
+  comment: Ungdomsverksamhet Sävedalens Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
@@ -68057,6 +68073,13 @@ entries:
   - idrottsförening
   web: https://www.laget.se/OrebroFutsalClub/
 
+- entry: 1233009529
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1233010212
   orgName: Svenska Avdelningen av Internationella Juristkommissionen, ICJ-Sweden
   orgNumber: 802016-8624
@@ -68491,7 +68514,7 @@ entries:
 - entry: 1233034329
   orgName: Nacka Församling
   orgNumber: 252000-0908
-  comment: Diakonin i Nacka församling
+  comment: Diakonin i Nacka Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/nacka
@@ -71042,7 +71065,7 @@ entries:
 - entry: 1233131653
   orgName: Knivsta Pastorat
   orgNumber: 252003-2059
-  comment: Kollekt Vassunda församling
+  comment: Kollekt Vassunda Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/knivsta
@@ -71229,7 +71252,7 @@ entries:
 - entry: 1233137569
   orgName: Örebro Pastorat
   orgNumber: 252003-0731
-  comment: Bokbord Olaus Petri församling
+  comment: Bokbord Olaus Petri Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orebro
@@ -73749,7 +73772,7 @@ entries:
 - entry: 1233263647
   orgName: Norra Gotlands Pastorat
   orgNumber: 252003-7926
-  comment: Väskinde församling
+  comment: Väskinde Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/norragotland
@@ -75409,7 +75432,7 @@ entries:
 - entry: 1233350402
   orgName: Voxtorps Pastorat
   orgNumber: 252003-4675
-  comment: Kollekt Voxtorps församling
+  comment: Kollekt Voxtorps Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/voxtorp
@@ -76425,7 +76448,7 @@ entries:
 - entry: 1233383916
   orgName: Balingsta Pastorat
   orgNumber: 252003-1911
-  comment: Kollekt Balingsta församling
+  comment: Kollekt Balingsta Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/balingsta
@@ -76916,7 +76939,7 @@ entries:
 - entry: 1233398583
   orgName: Femsjö Församling
   orgNumber: 252001-3455
-  comment: Kollekt Femsjö församling
+  comment: Kollekt Femsjö Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/Hyltebruks%20pastorat/femsjo
@@ -77488,7 +77511,7 @@ entries:
 - entry: 1233431244
   orgName: Örebro Pastorat
   orgNumber: 252003-0731
-  comment: Servering/försäljning Edsbergs församling
+  comment: Servering/försäljning Edsbergs Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orebro
@@ -77496,7 +77519,7 @@ entries:
 - entry: 1233431251
   orgName: Örebro Pastorat
   orgNumber: 252003-0731
-  comment: Kollekt/Gåvor Mosjö-Täby församling
+  comment: Kollekt/Gåvor Mosjö-Täby Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orebro
@@ -79850,7 +79873,7 @@ entries:
 - entry: 1233515657
   orgName: Balingsta Pastorat
   orgNumber: 252003-1911
-  comment: Kollekt Ramsta församling
+  comment: Kollekt Ramsta Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/balingsta
@@ -80484,6 +80507,15 @@ entries:
   - djurskydd
   - katthem
   web: https://kks.nu/
+
+- entry: 1233546660
+  orgName: Folketshus i Norrfjärden
+  orgNumber: 802496-8136
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.norrfjarden.se/
 
 - entry: 1233546678
   orgName: Ljungby Församling
@@ -82325,7 +82357,7 @@ entries:
 - entry: 1233629219
   orgName: Indalens Pastorat
   orgNumber: 252002-7943
-  comment: Kollekt Lidens församling
+  comment: Kollekt Lidens Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/indalenspastorat
@@ -82462,7 +82494,7 @@ entries:
 - entry: 1233632551
   orgName: Partille Församling
   orgNumber: 252001-4453
-  comment: Ungdomsverksamhet Partille församling
+  comment: Ungdomsverksamhet Partille Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
@@ -84520,7 +84552,7 @@ entries:
 - entry: 1233737467
   orgName: Bjärnums Pastorat
   orgNumber: 252003-5946
-  comment: Norra Åkarps församling
+  comment: Norra Åkarps Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/bjarnumspastorat
@@ -86760,7 +86792,7 @@ entries:
 - entry: 1233850732
   orgName: Furulunds Församling
   orgNumber: 252004-8220
-  comment: Ungdomsverksamhet Furulunds församling
+  comment: Ungdomsverksamhet Furulunds Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
@@ -86920,7 +86952,7 @@ entries:
 - entry: 1233853215
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Insamling Torp församling
+  comment: Insamling Torp Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -92376,6 +92408,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/julita
 
+- entry: 1234120580
+  orgName: Sturkö Samhällsförening
+  orgNumber: 835000-6501
+  comment: null
+  categories:
+  - samhällsförening
+  web: https://www.facebook.com/groups/982435265176326
+
 - entry: 1234120762
   orgName: Järvsö Församling
   orgNumber: 252002-3173
@@ -92909,7 +92949,7 @@ entries:
 - entry: 1234137550
   orgName: Falköpings Pastorat
   orgNumber: 252003-9179
-  comment: Falköping och Yllestads församling
+  comment: Falköping och Yllestads Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/falkoping
@@ -93070,7 +93110,7 @@ entries:
 - entry: 1234144572
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Insamling Stala församling
+  comment: Insamling Stala Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -94409,7 +94449,7 @@ entries:
 - entry: 1234203352
   orgName: Sävedalens Församling
   orgNumber: 252001-4446
-  comment: Barnverksamhet Sävedalens församling
+  comment: Barnverksamhet Sävedalens Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
@@ -94920,7 +94960,7 @@ entries:
 - entry: 1234226874
   orgName: Partille Församling
   orgNumber: 252001-4453
-  comment: Barnverksamhet Partille församling
+  comment: Barnverksamhet Partille Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
@@ -98529,7 +98569,7 @@ entries:
 - entry: 1234412656
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
-  comment: Kollekt Nävelsjö församling
+  comment: Kollekt Nävelsjö Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
@@ -98870,7 +98910,7 @@ entries:
 - entry: 1234424289
   orgName: Furulunds Församling
   orgNumber: 252004-8220
-  comment: Fika i Furulunds församling
+  comment: Fika i Furulunds Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
@@ -99848,7 +99888,7 @@ entries:
 - entry: 1234482584
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
-  comment: Kollekt Alseda församling
+  comment: Kollekt Alseda Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
@@ -99856,7 +99896,7 @@ entries:
 - entry: 1234482592
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
-  comment: Kollekt Vetlanda församling
+  comment: Kollekt Vetlanda Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
@@ -99872,7 +99912,7 @@ entries:
 - entry: 1234486270
   orgName: Norra Ölands Pastorat
   orgNumber: 252003-8858
-  comment: Kollekt Gärdslösa-Långlöt-Runstens församling
+  comment: Kollekt Gärdslösa-Långlöt-Runstens Församling
   categories:
   - godkänd gåvomottagare
   - religion
@@ -100113,7 +100153,7 @@ entries:
 - entry: 1234492559
   orgName: Furulunds Församling
   orgNumber: 252004-8220
-  comment: Barnverksamhet Furulunds församling
+  comment: Barnverksamhet Furulunds Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/partille
@@ -100247,7 +100287,7 @@ entries:
 - entry: 1234495404
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
-  comment: Kollekt Björkö församling
+  comment: Kollekt Björkö Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
@@ -100527,7 +100567,7 @@ entries:
 - entry: 1234513610
   orgName: Balingsta Pastorat
   orgNumber: 252003-1911
-  comment: Kollekt Uppsala Näs församling
+  comment: Kollekt Uppsala Näs Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/balingsta
@@ -100567,6 +100607,16 @@ entries:
   categories:
   - konstförening
   web: https://www.osterhaningekonstforening.se/
+
+- entry: 1234516100
+  orgName: Insamlingsstiftelsen JLOF Sweden
+  orgNumber: 802477-3643
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - hjälporganisation
+  - stiftelse
+  web: https://www.jlof.net/
 
 - entry: 1234517819
   orgName: Norrbottens Ornitologiska Förening
@@ -101897,7 +101947,7 @@ entries:
 - entry: 1234578233
   orgName: Strömsunds Pastorat
   orgNumber: 252003-9203
-  comment: Fjällsjö församling
+  comment: Fjällsjö Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar
@@ -102312,7 +102362,7 @@ entries:
 - entry: 1234594115
   orgName: Falköpings Pastorat
   orgNumber: 252003-9179
-  comment: Åslebygdens församling
+  comment: Åslebygdens Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/falkoping
@@ -102899,7 +102949,7 @@ entries:
 - entry: 1234618070
   orgName: Knivsta Pastorat
   orgNumber: 252003-2059
-  comment: Kollekt Husby-Långhundra församling
+  comment: Kollekt Husby-Långhundra Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/knivsta
@@ -103308,7 +103358,7 @@ entries:
 - entry: 1234642690
   orgName: Örebro Pastorat
   orgNumber: 252003-0731
-  comment: Servering/försäljning Mosjö-Täby församling
+  comment: Servering/försäljning Mosjö-Täby Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orebro
@@ -104564,7 +104614,7 @@ entries:
 - entry: 1234689501
   orgName: Balingsta Pastorat
   orgNumber: 252003-1911
-  comment: Kollekt Dalby församling
+  comment: Kollekt Dalby Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/balingsta
@@ -105570,7 +105620,7 @@ entries:
 - entry: 1234739611
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
-  comment: Kollekt Korsberga församling
+  comment: Kollekt Korsberga Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
@@ -107725,7 +107775,7 @@ entries:
 - entry: 1234891461
   orgName: Bjärnums Pastorat
   orgNumber: 252003-5946
-  comment: Farstorps församling
+  comment: Farstorps Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/bjarnumspastorat
@@ -110378,7 +110428,7 @@ entries:
 - entry: 1235015318
   orgName: Österåkers Pastorat
   orgNumber: 252004-9277
-  comment: Kollekt Österåker-Östra Ryds församling
+  comment: Kollekt Österåker-Östra Ryds Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/osteraker
@@ -112738,7 +112788,7 @@ entries:
 - entry: 1235117908
   orgName: Domkyrkopastoratet Göteborg
   orgNumber: 252004-8972
-  comment: Johannebergs församling
+  comment: Johannebergs Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/johanneberg
@@ -113633,7 +113683,7 @@ entries:
 - entry: 1235144274
   orgName: Norra Gotlands Pastorat
   orgNumber: 252003-7926
-  comment: Forsa församling
+  comment: Forsa Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/norragotland
@@ -114891,7 +114941,7 @@ entries:
 - entry: 1235198130
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Insamling Röra församling
+  comment: Insamling Röra Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -115312,7 +115362,7 @@ entries:
   web: https://www.laget.se/IndalsIF/
 
 - entry: 1235217690
-  orgName: Sackeuskyrkan / Evangelisk luthersk församling Umeå
+  orgName: Sackeuskyrkan / Evangelisk luthersk Församling Umeå
   orgNumber: 802487-7568
   comment: null
   categories:
@@ -116681,7 +116731,7 @@ entries:
   web: https://husbykyrkan.com/
 
 - entry: 1235278106
-  orgName: Mariakyrkans församling Uddevalla
+  orgName: Mariakyrkans Församling Uddevalla
   orgNumber: 869001-2318
   comment: null
   categories:
@@ -116960,10 +117010,19 @@ entries:
 - entry: 1235284773
   orgName: Knivsta Pastorat
   orgNumber: 252003-2059
-  comment: Kollekt Alsike församling
+  comment: Kollekt Alsike Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/knivsta
+
+- entry: 1235284963
+  orgName: Folketshus Sikfors
+  orgNumber: 798800-0670
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: http://www.folketshus.sikfors.com/
 
 - entry: 1235285069
   orgName: null
@@ -118462,7 +118521,7 @@ entries:
 - entry: 1235355854
   orgName: Aspelands Pastorat
   orgNumber: 252004-7453
-  comment: Kollekt Mörlunda församling
+  comment: Kollekt Mörlunda Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/aspeland
@@ -120636,7 +120695,7 @@ entries:
 - entry: 1235442363
   orgName: Voxtorps Pastorat
   orgNumber: 252003-4675
-  comment: Kollekt Tånnö församling
+  comment: Kollekt Tånnö Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/voxtorp
@@ -121088,7 +121147,7 @@ entries:
 - entry: 1235457262
   orgName: Unnaryds Församling
   orgNumber: 252004-1803
-  comment: Kollekt Unnaryds församling
+  comment: Kollekt Unnaryds Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/Hyltebruks%20pastorat/unnaryd
@@ -122102,7 +122161,7 @@ entries:
 - entry: 1235515127
   orgName: Eslövs Pastorat
   orgNumber: 252003-0962
-  comment: Kollekt Östra Onsjö församling
+  comment: Kollekt Östra Onsjö Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/eslov
@@ -122704,7 +122763,7 @@ entries:
 - entry: 1235531736
   orgName: Norra Gotlands Pastorat
   orgNumber: 252003-7926
-  comment: Gothem församling
+  comment: Gothem Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/norragotland
@@ -123366,7 +123425,7 @@ entries:
 - entry: 1235557293
   orgName: Knivsta Pastorat
   orgNumber: 252003-2059
-  comment: Kollekt Knivsta församling
+  comment: Kollekt Knivsta Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/knivsta
@@ -124409,7 +124468,7 @@ entries:
 - entry: 1235600630
   orgName: Eslövs Pastorat
   orgNumber: 252003-0962
-  comment: Kollekt Eslövs församling
+  comment: Kollekt Eslövs Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/eslov
@@ -131793,7 +131852,7 @@ entries:
 - entry: 1235933460
   orgName: Helsingborgs Pastorat
   orgNumber: 252003-0970
-  comment: Kollekt Gustav Adolfs församling
+  comment: Kollekt Gustav Adolfs Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/helsingborg
@@ -132294,6 +132353,16 @@ entries:
   categories:
   - religion
   web: https://pingstkyrkan.almhult.com/
+
+- entry: 1235950381
+  orgName: Harmoni Yoga / Karin Ek Christiansen
+  orgNumber: 710513-XXXX
+  comment: null
+  categories:
+  - massage
+  - reiki
+  - yoga
+  web: https://www.yogaharmoni.se/
 
 - entry: 1235952098
   orgName: Bollsta fiskevårdsförening
@@ -134648,7 +134717,7 @@ entries:
 - entry: 1236074678
   orgName: Orust Pastorat
   orgNumber: 252003-6399
-  comment: Insamling Myckleby församling
+  comment: Insamling Myckleby Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
@@ -135318,7 +135387,7 @@ entries:
 - entry: 1236098099
   orgName: Helsingborgs Pastorat
   orgNumber: 252003-0970
-  comment: Kollekt Maria församling
+  comment: Kollekt Maria Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/helsingborg
@@ -137705,7 +137774,7 @@ entries:
 - entry: 1236185581
   orgName: Norra Ölands Pastorat
   orgNumber: 252003-8858
-  comment: Kollekt Köpingsviks församling
+  comment: Kollekt Köpingsviks Församling
   categories:
   - godkänd gåvomottagare
   - religion
@@ -137975,7 +138044,7 @@ entries:
 - entry: 1236202022
   orgName: Bjärnums Pastorat
   orgNumber: 252003-5946
-  comment: Vankiva församling
+  comment: Vankiva Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/bjarnumspastorat
@@ -141449,7 +141518,7 @@ entries:
 - entry: 1236356141
   orgName: Falköpings Pastorat
   orgNumber: 252003-9179
-  comment: Mössebergs församling
+  comment: Mössebergs Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/falkoping
@@ -141706,6 +141775,13 @@ entries:
   - bastukultur
   - förening
   web: https://sites.google.com/site/graesgaardsbastu/
+
+- entry: 1236366306
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1236366553
   orgName: OK Njudung
@@ -143354,7 +143430,7 @@ entries:
 - entry: 1236454060
   orgName: Aspelands Pastorat
   orgNumber: 252004-7453
-  comment: Kollekt Lönneberga församling
+  comment: Kollekt Lönneberga Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/aspeland
@@ -145831,7 +145907,7 @@ entries:
 - entry: 1236547061
   orgName: Aspelands Pastorat
   orgNumber: 252004-7453
-  comment: Kollekt Virserum församling
+  comment: Kollekt Virserum Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/aspeland
@@ -146927,7 +147003,7 @@ entries:
 - entry: 1236624258
   orgName: Indalens Pastorat
   orgNumber: 252002-7943
-  comment: Kollekt Sättna församling
+  comment: Kollekt Sättna Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/indalenspastorat
@@ -150229,7 +150305,7 @@ entries:
 - entry: 1236760979
   orgName: Aspelands Pastorat
   orgNumber: 252004-7453
-  comment: Kollekt Järeda församling
+  comment: Kollekt Järeda Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/aspeland
@@ -150581,7 +150657,7 @@ entries:
 - entry: 1236776249
   orgName: Vetlanda Pastorat
   orgNumber: 252004-9228
-  comment: Kollekt Nye-Näshult-Stenberga församling
+  comment: Kollekt Nye-Näshult-Stenberga Församling
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
