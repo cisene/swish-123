@@ -164,7 +164,7 @@ def main():
   global vl
   source_dict = readYAML(YAML_SOURCE_FILE)
 
-  url = 'https://forenadebolag.se/varningslistan-filter/'
+  url = 'https://forenadebolag.se/varningslistan-arkiverade/'
 
   seen_before = []
 
@@ -190,7 +190,7 @@ def main():
     for link in links:
       link_href = link["href"]
       if link_href != None:
-        if re.match(r"^https\x3a\x2f\x2fforenadebolag\x2ese\x2fvarningslistan\x2dfilter\x2f\x3fsf\x5fpaged\x3d(\d{1,})$", link_href, flags=re.IGNORECASE):
+        if re.match(r"^https\x3a\x2f\x2fforenadebolag\x2ese\x2fvarningslistan\x2darkiverade\x2f\x3fsf\x5fpaged\x3d(\d{1,})$", link_href, flags=re.IGNORECASE):
           if link_href not in urls:
             urls.append(link_href)
 
@@ -227,7 +227,7 @@ def main():
 
               thisVO = findVO(item_orgNumber)
               if thisVO == None: 
-                print(f"Object lookup missed")
+                print(f"Object lookup missed: {item_orgNumber}")
                 obj = {
                   'orgNumber': item_orgNumber,
                   'orgName': [item_orgName],

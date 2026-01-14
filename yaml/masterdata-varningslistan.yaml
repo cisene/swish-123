@@ -1,5 +1,28 @@
 organisations:
 
+- orgNumber: 009199-6843
+  orgName:
+  - Lysgrossisten
+  - LYSGROSSISTEN
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
+
+- orgNumber: 009212-7885
+  orgName:
+  - Våga prata
+  - MSP TRADING
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
+
+- orgNumber: 009212-8230
+  orgName:
+  - Adsnord OÜ
+  date: '2013-11-08'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
 - orgNumber: 502091-7521
   orgName:
   - Svenska företagsprofiler
@@ -7,40 +30,117 @@ organisations:
   _SeenFirst: '2025-04-27T16:21:58'
   _SeenLast: '2025-12-15T21:00:39'
 
+- orgNumber: 516405-3141
+  orgName:
+  - Direktbolag Småland Ltd. UK Filial
+  - Montenor Communications AB
+  date: '2010-09-15'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 516405-5294
+  orgName:
+  - P & D Marketing LTD, UK filial
+  date: '2011-11-01'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 516407-6316
+  orgName:
+  - Blessad LTD
+  date: '2012-04-18'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
 - orgNumber: 516408-7552
   orgName:
   - Varumärkesbyrån i Sverige filial
   date: '2014-10-23'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 520415-3513
+  orgName:
+  - Företagskonsulten i Sydsverige
+  - Företagsservice
+  date: '2012-04-12'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 550401-0223
+  orgName:
+  - Safe Call
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 550610-0196
+  orgName:
+  - VågaTala
+  - PJ Finans
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
 
 - orgNumber: 550623-8979
   orgName:
+  - one
   - One Webbregistrering
   date: '2016-10-26'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556081-0946
+  orgName:
+  - FöretagsGuiden
+  - Netgroup Media AB
+  - NetGroup Media AB
+  date: '2013-01-22'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556123-4203
+  orgName:
+  - Nordisk Handelsreklam AB
+  - Marknadskonsulterna Solna AB
+  date: '2010-11-12'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556142-4341
+  orgName:
+  - Lokal Marknadsföring Scandinavian AB
+  date: '2011-10-02'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 556155-9005
   orgName:
   - Haninge Ekonomi & Konsult AB
   date: '2017-07-19'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556256-2768
   orgName:
   - Svensk Avtalsjuridik AB
   date: '2014-08-20'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 556270-8924
   orgName:
   - Global Chemical Group Sweden AB
   date: '2015-08-10'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556285-0510
+  orgName:
+  - Ahead Advisory AB
+  date: '2011-07-11'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556385-6375
   orgName:
@@ -49,26 +149,130 @@ organisations:
   _SeenFirst: '2025-04-27T16:21:58'
   _SeenLast: '2025-12-15T21:00:39'
 
+- orgNumber: 556446-3171
+  orgName:
+  - RMC Kommunikation AB
+  date: '2023-07-14'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556457-0249
+  orgName:
+  - Södra BG AB
+  date: '2017-03-29'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556467-9974
+  orgName:
+  - Registreringstjänster i Sverige AB
+  date: '2013-04-18'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556469-2605
+  orgName:
+  - Marcinvest Sverige AB
+  date: '2013-01-04'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556478-8999
+  orgName:
+  - Teledelen
+  - Företagens tele-del i Sverige AB
+  date: '2011-05-27'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556480-8318
+  orgName:
+  - Sapientia Media AB
+  date: '2011-10-19'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556494-1044
+  orgName:
+  - Qluriga Lösningar Stockholm AB
+  date: '2014-07-14'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556518-2523
+  orgName:
+  - Svensk Sjötransport AB
+  date: '2013-05-14'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
 - orgNumber: 556520-1984
   orgName:
   - Ballou Internet Services AB
   date: '1970-01-01'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
+
+- orgNumber: 556534-4792
+  orgName:
+  - D.L. Förlag AB
+  date: '2011-08-03'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556552-1894
+  orgName:
+  - HR Vision AB
+  - Marknadskonsulterna Solna AB
+  date: '2011-12-30'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 556555-1743
   orgName:
   - Insolventia AB
-  date: '2018-10-12'
+  - Insolmiko AB
+  date: '2023-05-25'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556558-9222
+  orgName:
+  - One To One AB
+  date: '2013-04-19'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556568-4932
+  orgName:
+  - Webinfo.nu
+  - Öresund Webinfo Solutions AB
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
 
 - orgNumber: 556571-4796
   orgName:
   - Bokningsverket
+  - Bokningsverket AB
+  - Rabattel AB
   date: '2016-06-03'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556572-4704
+  orgName:
+  - Securo Finans & Inkasso AB
+  date: '2010-07-28'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556597-7468
+  orgName:
+  - Montenor Communications AB
+  date: '2013-05-15'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556607-0735
   orgName:
@@ -76,301 +280,1086 @@ organisations:
   - SGP Online Publishing AB
   date: '2011-09-24'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556616-9446
+  orgName:
+  - DilipKim Consulting & Trade AB
+  date: '2013-07-22'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556623-2582
   orgName:
   - Lanant AB
   date: '1970-01-01'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556623-9553
+  orgName:
+  - Premium Card
+  date: '2011-04-12'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 556631-9025
   orgName:
   - Webfinder AB
   date: '2011-10-13'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556641-6219
+  orgName:
+  - Royal Chemical Industries AB
+  date: '2013-09-20'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556648-6782
+  orgName:
+  - PEC Västervik AB
+  date: '2012-11-02'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556651-5879
+  orgName:
+  - Millennium Computer Systems AB
+  date: '2014-12-30'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 556660-2131
   orgName:
   - Apoplex AB
   date: '1970-01-01'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 556661-2346
   orgName:
   - Genlite Search AB
   date: '2016-03-04'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556666-9619
+  orgName:
+  - Sthlm Reklamhantverk & Produktion AB
+  - Sthlm Reklamhantverk & Produktion
+  date: '2013-05-13'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556667-7307
+  orgName:
+  - Kekkon Express
+  - Sthlm Reklamhantverk & Produktion
+  date: '2012-10-09'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556668-4212
+  orgName:
+  - E-trading / FH INV i Skåne AB
+  date: '2010-08-14'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556671-2401
   orgName:
   - Zone Company Stockholm AB
   date: '2016-02-19'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556674-7043
+  orgName:
+  - 4 One
+  - 4 One Group AB
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
 
 - orgNumber: 556675-7620
   orgName:
   - Centuri Sales & Marketing AB
+  - SNSK Gruppen AB
   date: '2016-01-14'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556681-6988
+  orgName:
+  - Universal Solutions Sweden AB
+  - UNIVERSAL Solutions
+  - Universal Solutions Sweden AB
+  date: '2015-03-30'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556684-6514
+  orgName:
+  - Sincerus AB
+  date: '2012-08-02'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556685-6455
   orgName:
   - larssonlindhe AB
   date: '2018-04-11'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 556689-5883
+  orgName:
+  - Tradepool Nordic AB
+  date: '2013-09-25'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556694-3683
+  orgName:
+  - WDG Media
+  - Annonsstället
+  - WDG Media AB
+  date: '2012-07-17'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556701-2181
+  orgName:
+  - Comvexo AB
+  date: '2013-08-20'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556701-4732
+  orgName:
+  - LD International
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556711-9200
+  orgName:
+  - Samviq Aktiebolag
+  date: '2012-03-26'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556716-3539
+  orgName:
+  - JE Internet Marketing AB
+  date: '2011-07-19'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556716-8983
   orgName:
   - Propulsion webmedia Sweden AB
   date: '2016-05-25'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556717-4874
+  orgName:
+  - Svensk Webbmedia AB
+  date: '2011-10-28'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556718-2034
+  orgName:
+  - Access 2 Telecom Sverige AB
+  - Länsdelen Norden AB
+  - WDG Media AB
+  date: '2011-08-28'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 556723-4363
   orgName:
+  - Söka Bolag
   - Gourmetor AB
   date: '2017-03-03'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 556725-2597
+  orgName:
+  - Svensk Sökmotorregistrering i Stockholm AB
+  date: '2011-11-16'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556731-9917
+  orgName:
+  - Annonskonsulterna Skandinavia AB
+  date: '2011-07-01'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556745-5261
+  orgName:
+  - Svenska Förlagsvärlden AB
+  date: '2011-11-14'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556746-9605
+  orgName:
+  - Lokaldelen AB (Falskt)
+  - European Business Group Center AB
+  date: '2011-04-02'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556748-3176
+  orgName:
+  - Light-Ink AB
+  date: '2011-08-01'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556749-1484
+  orgName:
+  - Hittafirma Reklam & Marknadsföring AB
+  date: '2011-02-18'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 556754-7467
   orgName:
   - Auto Fix it Stockholm AB
   date: '2018-12-21'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556755-3507
   orgName:
   - Dala Uppköp AB
   date: '2017-06-05'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 556755-4026
+  orgName:
+  - Tevne Media AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556758-1375
+  orgName:
+  - NKY Promedia Kontor & Data AB
+  date: '2011-07-31'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556763-1451
   orgName:
   - Interpoly Chemicals AB
   date: '2016-05-27'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 556763-4398
   orgName:
   - Vectrum
   date: '2016-04-26'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556770-2971
+  orgName:
+  - Nordic Media Sweden AB
+  date: '2011-08-13'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556771-1014
+  orgName:
+  - Fregatten PRK AB
+  - Bisnode Kredit AB
+  - Tengmart Produktions AB
+  date: '2014-01-02'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556773-4529
+  orgName:
+  - European Tenders AB / Svensk affärsförmedling
+  date: '2011-04-04'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 556775-7637
   orgName:
   - Stockholm Marketing Group AB
-  date: '2016-07-31'
+  - SMG
+  date: '2013-08-09'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556778-2031
   orgName:
   - All Business Online Sweden AB
   date: '2014-10-22'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 556779-3566
   orgName:
   - Direkt Annonshantering AB
   date: '2017-08-10'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 556780-4256
+  orgName:
+  - Dupont Media Corporation AB
+  - DuPont Media Corporation AB
+  date: '2014-09-12'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556783-4535
   orgName:
   - Akaccia Konsult AB
   date: '2024-06-17'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
+
+- orgNumber: 556785-2446
+  orgName:
+  - Marknadskonsulterna Solna AB
+  date: '2011-05-30'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556786-9119
+  orgName:
+  - Class Media
+  date: '2011-09-03'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556788-1320
+  orgName:
+  - Dalancia Com AB
+  date: '2013-02-04'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556788-4100
+  orgName:
+  - Face A Net AB
+  date: '2012-10-23'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556790-0161
+  orgName:
+  - Hualan Media & Info AB
+  date: '2010-04-19'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556790-0179
+  orgName:
+  - M.B.K Mediainnovatörerna / Juuti finans
+  date: '2010-11-17'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556792-8857
+  orgName:
+  - Ecotrade Solutions Norden AB
+  date: '2014-06-09'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556798-4629
+  orgName:
+  - Vontex marketing AB
+  - Marknadskonsulterna Solna AB
+  date: '2011-05-02'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556798-9701
   orgName:
   - ASMK Marketing AB
   date: '2020-01-16'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556800-2447
+  orgName:
+  - Kvalitetsfakta
+  - MKI Miljö & Kvalitetsindex
+  - Solvalla Biltorg
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
 
 - orgNumber: 556800-3973
   orgName:
+  - ettjobb
   - Partners of Carpenters AB
   date: '2016-10-13'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556801-7817
+  orgName:
+  - MNT online marketing
+  - MNT Online Marketing AB
+  date: '2015-08-28'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556802-3237
+  orgName:
+  - OHE Gruppen AB
+  date: '2011-09-12'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 556803-7682
   orgName:
   - Scandinavia Career AB
   date: '2015-10-13'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556806-5584
+  orgName:
+  - Live Tech Solutions AB
+  date: '2012-04-25'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556807-0295
+  orgName:
+  - CC My Media Group Sweden
+  - Sthlm Reklamhantverk & Produktion AB
+  date: '2013-02-28'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556808-2928
+  orgName:
+  - AQ1 Sweden AB
+  date: '2010-12-09'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556809-1499
+  orgName:
+  - HS. Info Media AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556810-1207
+  orgName:
+  - Givelo AB
+  date: '2013-07-09'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556810-3989
   orgName:
+  - Klimatmagasinet
   - Lagrias AB
   date: '2017-10-30'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 556812-6188
+  orgName:
+  - Svenska Lokaldelen
+  - Svenska Industritorget
+  date: '2012-10-25'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556812-9455
   orgName:
   - Swecube AB
   date: '2016-04-07'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556814-6178
+  orgName:
+  - European Business Group Center AB
+  date: '2011-08-10'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556818-9277
+  orgName:
+  - Marketing Sales Nord AB
+  date: '2011-10-01'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556819-1992
+  orgName:
+  - Teloteket AB
+  date: '2018-08-14'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556821-7276
+  orgName:
+  - Alfa fakturaservice
+  - Montenor Communications AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556822-3563
+  orgName:
+  - Addictive Sales AB
+  date: '2012-09-19'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556825-0582
+  orgName:
+  - Svenskt Branschindex AB
+  - WDG Media AB
+  date: '2012-06-05'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556827-7247
+  orgName:
+  - Boyle Business Consulting AB
+  date: '2014-09-08'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556830-7325
   orgName:
   - Regionsdelen Sverige AB
   date: '2025-05-09'
   _SeenFirst: '2025-05-10T09:13:50'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
+
+- orgNumber: 556838-4860
+  orgName:
+  - Soriba AB
+  date: '2011-10-06'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556841-9864
+  orgName:
+  - Newsroom Finland
+  - Nordiska Näringslivsguider AB
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
+
+- orgNumber: 556845-1305
+  orgName:
+  - Sveriges Företagsinspektion
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556846-2732
   orgName:
   - Loop Webbhotell
   date: '2017-04-05'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 556847-9546
+  orgName:
+  - Länsdelen Norden AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556849-2564
+  orgName:
+  - Mediahanterarna
+  - Dupont Media Corporation AB
+  - Sthlm Reklamhantverk & Produktion AB
+  date: '2012-02-21'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556849-6557
+  orgName:
+  - Online Branding Sweden AB
+  date: '2011-10-10'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556851-2445
+  orgName:
+  - Svenska Jurist & Mediagruppen
+  date: '2012-04-03'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556852-6361
+  orgName:
+  - Ecentera AB
+  date: '2013-09-11'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556853-7889
+  orgName:
+  - Tengmart Produktions AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556854-6658
+  orgName:
+  - Safepoints Development AB
+  date: '2014-09-25'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556854-6823
   orgName:
   - Skandinavisk Företagsoptimering AB
-  date: '2015-04-01'
+  date: '2015-07-06'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556855-3548
+  orgName:
+  - Nordisk Sökmedia AB
+  date: '2011-09-06'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556856-1624
+  orgName:
+  - Svensk Företagare i Stockholm
+  date: '2011-12-29'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556857-4064
+  orgName:
+  - Länsdelen AB
+  date: '2016-04-30'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556858-7207
+  orgName:
+  - Svenska Brottsfiltret AB
+  - MNT Online Marketing AB
+  date: '2015-02-28'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556859-3064
+  orgName:
+  - NeMedia AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556859-4591
+  orgName:
+  - Kastofon Media AB
+  - GMTM Mobile AB
+  date: '2012-03-03'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556859-4724
+  orgName:
+  - Skand-Gruppen Finans AB
+  date: '2013-06-03'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556860-0372
+  orgName:
+  - Worldwide Media Öresund AB
+  date: '2011-09-23'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556860-5637
+  orgName:
+  - Saguro Konsult AB
+  date: '2011-09-02'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 556861-1064
   orgName:
   - Framkapellet AB
   date: '2025-11-21'
   _SeenFirst: '2025-12-10T00:52:23'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 556861-1882
   orgName:
+  - Personalkraften
   - Urfa AB
   date: '2017-04-26'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556862-0958
   orgName:
   - Inkasso Och Indrivningsavdelningen
-  date: '2017-06-09'
+  - 118 108 Media Solutions
+  - 118 108
+  - 118108 Media Solutions AB
+  date: '2011-09-27'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556863-9180
+  orgName:
+  - Alla Branscher Sverige AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 556865-2647
+  orgName:
+  - Mellanhand Media AB
+  - Mellanhand Media
+  date: '2012-06-29'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556868-8088
   orgName:
   - Sebastian Nedermangruppen AB
   date: '2015-05-13'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556872-3323
+  orgName:
+  - företags katalogen
+  - S.E.O Marketing & Develop AB
+  date: '2012-11-12'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556873-0278
   orgName:
   - Tajo Service AB
   date: '2019-02-14'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 556876-2610
+  orgName:
+  - Företagshandel i Sverige AB
+  date: '2017-01-29'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556876-5704
+  orgName:
+  - Grind Finans
+  - Dalancia Com AB
+  date: '2012-12-07'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556878-6908
+  orgName:
+  - Allasvenskasajter.se
+  - Dinlokaldel.se
+  - Svensk Profil utformning AB
+  - Svensk Profilutformning AB
+  date: '2014-02-12'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556879-9901
+  orgName:
+  - GMTM Mobile AB
+  date: '2012-05-23'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 556880-3240
   orgName:
   - Emle AB
   date: '2019-11-02'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556881-1219
+  orgName:
+  - Easy Connect Group
+  date: '2012-04-23'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 556882-5011
   orgName:
   - Customers Solutions LLC
   date: '2019-06-26'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556882-5755
+  orgName:
+  - AFK Network AB
+  date: '2012-07-18'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556882-9641
   orgName:
   - Infodirekt Norden AB
   date: '2016-08-31'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556886-2287
+  orgName:
+  - M85 Gruppen
+  date: '2013-04-25'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556887-0744
+  orgName:
+  - FREG AB
+  date: '2014-09-09'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556887-5958
+  orgName:
+  - ASIP AB
+  date: '2014-07-18'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556889-8265
+  orgName:
+  - Bolagsbasen
+  - Svenska Bolagsbasen AB
+  date: '2013-09-30'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556889-9438
+  orgName:
+  - Scandinavian Sales Group AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556893-6370
   orgName:
   - BrngMe AB
+  - Brngme Applications AB
   date: '2018-05-09'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 556896-9934
+  orgName:
+  - Bolagssidan
+  - Business Finder i Sverige AB
+  date: '2012-09-06'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556898-1368
   orgName:
   - Onlinekatalogen Sverige AB
   date: '2013-03-04'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556898-6235
+  orgName:
+  - Carlstedt & Lindh Media AB
+  date: '2014-11-11'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 556900-6181
   orgName:
   - NJB AB - Nino Juice Bar AB
   date: '2023-03-07'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
+
+- orgNumber: 556904-1287
+  orgName:
+  - Min Säkerhet i Sverige AB
+  date: '2015-03-19'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556904-3549
+  orgName:
+  - Bizzno AB
+  - Sthlm Reklamhantverk & Produktion AB
+  date: '2013-03-19'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 556906-8611
+  orgName:
+  - Tekniktjänster Skandinavien AB
+  date: '2013-10-23'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556906-9759
+  orgName:
+  - REKRYTERINGS GRUPPEN
+  - Par-Vis Consulting AB
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
+
+- orgNumber: 556907-7984
+  orgName:
+  - Offertpro i Sverige AB
+  - DuPont Media Corporation AB
+  date: '2013-01-02'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 556908-6449
   orgName:
   - Koala AB
   date: '2017-04-25'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 556909-6711
+  orgName:
+  - Contrôleur Judiciaire
+  - DB
+  - LDB FINANS AB
+  - LDB Finans AB
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
+
+- orgNumber: 556911-9091
+  orgName:
+  - Express Group Communication EB AB
+  date: '2022-06-08'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556916-3990
+  orgName:
+  - Creative XJ AB
+  date: '2013-10-04'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556916-5094
   orgName:
   - Svenska Personalliggare AB
   date: '2018-04-19'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556919-6701
   orgName:
   - Hamilton Care AB
   date: '1970-01-01'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556920-9710
   orgName:
   - Nordisk Mediahantering AB
-  date: '2014-05-22'
+  - Sv Bransch Reg AB
+  date: '2013-09-13'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556921-9669
+  orgName:
+  - Aktiva Work AB
+  - Tenders Daily AB
+  - Upphandlingsgruppen i Sverige AB
+  - Upphandlingsgruppen Sverige AB
+  - Upphandlingsgruppen/Tenders Daily
+  date: '2014-05-07'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556922-0980
   orgName:
   - SGG C. AB
-  date: '2016-07-04'
+  - Företagsdelen (företag A-Ö)
+  date: '2016-07-31'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556927-8251
+  orgName:
+  - EDG Distribution AB
+  date: '2014-08-13'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556928-5538
+  orgName:
+  - Protectia AB
+  date: '2014-12-01'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556928-8243
+  orgName:
+  - B2B Media Stockholm AB
+  - b2b Media Stockholm AB
+  date: '2013-10-18'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556928-9670
+  orgName:
+  - MPW Scandinavia AB
+  date: '2013-10-24'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556931-2572
   orgName:
   - Skh Allservice AB
   date: '2019-11-12'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556932-3743
+  orgName:
+  - Stay Visible AB
+  date: '2013-10-25'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556932-6696
   orgName:
@@ -378,28 +1367,96 @@ organisations:
   - Redrent AB
   date: '2023-09-11'
   _SeenFirst: '2025-04-27T16:21:58'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
+
+- orgNumber: 556935-2197
+  orgName:
+  - TRYGGA FÖRETAG
+  - Trygga Företag Sverige AB
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
 
 - orgNumber: 556937-3235
   orgName:
   - Menig AB
   date: '2016-08-19'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 556937-7335
   orgName:
   - BMS Norden AB
   date: '2020-04-24'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556938-8613
+  orgName:
+  - Quaveo Media AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556939-3415
+  orgName:
+  - Scandinavian Online Trading AB
+  date: '2016-01-26'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556941-7883
+  orgName:
+  - One webhotell.com
+  - Linkster Consulting AB
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
+
+- orgNumber: 556942-3717
+  orgName:
+  - Nordic One Sales AB
+  - Aktiva Work AB
+  date: '2014-08-06'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556942-9664
+  orgName:
+  - One Webhotell
+  date: '2017-04-12'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556943-6578
+  orgName:
+  - Time Solution Media AB
+  date: '2014-01-23'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556946-1402
+  orgName:
+  - IT-Merchandise Solutions AB
+  - Klimatbladet
+  date: '2014-10-29'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 556948-9858
+  orgName:
+  - Certifieringsdelen
+  - HGVS Sverige AB
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
 
 - orgNumber: 556951-6924
   orgName:
   - Divatra Service
   date: '2015-11-16'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 556952-8002
   orgName:
@@ -413,238 +1470,313 @@ organisations:
   - Prosale Marketing AB
   date: '2016-04-01'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
+
+- orgNumber: 556956-4593
+  orgName:
+  - IT Net Europe AB
+  date: '2014-02-25'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
 
 - orgNumber: 556958-4310
   orgName:
   - Företagsupplysningen Sverige AB
   date: '2014-06-25'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 556958-6778
   orgName:
   - Zander Solutions AB
   date: '2016-09-19'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556958-9343
+  orgName:
+  - Juridexo AB
+  date: '2014-12-03'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 556962-4744
   orgName:
   - Svenska Webexponeringar AB
   date: '2015-12-14'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 556967-8724
   orgName:
   - Ardnit Investment AB
   date: '2017-09-12'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556968-5752
   orgName:
   - Campaign Solutions Stockholm AB
   date: '2016-11-30'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556969-0182
   orgName:
   - Clevertec AB
   date: '2021-03-10'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 556970-2318
   orgName:
   - Centuri Sales & Marketing
   date: '2018-02-28'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556974-1670
   orgName:
   - Spenca AB
   date: '2016-10-27'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 556975-7478
   orgName:
   - Sverige Spärr Säkerhet AB
   date: '2015-06-25'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 556975-7650
   orgName:
   - Workservice Sverige AB
   date: '2016-08-29'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 556976-7162
+  orgName:
+  - General Marketing & Finans Sweden AB
+  - DINKOMMUNDEL
+  date: '2014-11-04'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 556977-0950
+  orgName:
+  - Ad Business Nordic AB
+  - Vingebäck Mediakonsult KB
+  date: '2014-11-20'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 556984-7659
   orgName:
   - Webbhotellet AB
   date: '2016-05-02'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 556987-2657
   orgName:
   - JAS Gruppen AB
   date: '2017-05-15'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556987-7466
   orgName:
   - Pant Group AB
   date: '2018-10-23'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556988-8224
   orgName:
   - Svenska Konceptutveckling AB
+  - Svenska Koncept Utveckling AB
   date: '2019-01-04'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556989-1038
   orgName:
   - Sverige Advertising & Marketing AB
   date: '2016-11-21'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556991-5498
   orgName:
   - Wama Taxim Web AB
   date: '2016-12-01'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 556996-9198
   orgName:
   - N-Kraft Företagsoptimering AB
   date: '2019-02-08'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 556996-9214
+  orgName:
+  - Företagsinfo
+  - Conversia Sweden AB
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
 
 - orgNumber: 556996-9693
   orgName:
   - Arventa AB
-  date: '2018-02-19'
+  - Arventa Consulting
+  - Swebiz Solutions AB
+  - Swebiz Solution AB
+  date: '2017-07-31'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 556996-9719
   orgName:
   - Företagsregistret Sverige AB
+  - Bolagsregistret Skandinavien AB
+  - Svenska Företagsupplysningen AB
   date: '2021-01-29'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 558876-1278
   orgName:
   - Loop
   date: '2019-09-24'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 559000-0435
   orgName:
   - Nordic Specialty Chemicals AB
   date: '2015-04-27'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 559000-3397
   orgName:
   - Sagena AB
   date: '1970-01-01'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559001-4337
   orgName:
   - One Web
   date: '2017-03-06'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 559005-9886
+  orgName:
+  - CF City Marketing AB
+  - CF City Marketing Sverige AB
+  date: '2023-04-28'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 559006-7137
   orgName:
   - Smarta Samarbeten Sverige AB
   date: '2025-12-22'
   _SeenFirst: '2026-01-03T17:08:39'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
+
+- orgNumber: 559009-2184
+  orgName:
+  - Vecentus Förlag AB
+  date: '2013-01-11'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 559016-5469
   orgName:
   - SEFK AB
   date: '1970-01-01'
   _SeenFirst: '2025-05-10T09:13:56'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559022-0942
   orgName:
   - BR Allservice AB
   date: '2020-05-26'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 559025-6805
   orgName:
   - Mobilkonsulterna Skåne AB
   date: '2017-11-08'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 559026-7620
+  orgName:
+  - Nettcom Nordic AB
+  date: '2023-07-10'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 559028-3510
   orgName:
   - Clarrot Group AB
   date: '2018-04-09'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 559034-1870
+  orgName:
+  - Hanuri AB
+  - JOBBAKADEMIN
+  - HANURI AB
+  date: '2021-11-19'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 559034-2944
   orgName:
-  - 'Allinfo Sverige AB '
+  - Allinfo Sverige AB
   date: '2022-10-20'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559034-4148
   orgName:
   - Vimbo AB
   date: '2020-12-21'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 559037-8120
   orgName:
   - Parkeringsinkasso Svenska AB
   date: '2016-09-30'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 559045-3733
   orgName:
   - Svensk Webbreklam i Sverige AB
   date: '2017-09-22'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 559045-8427
   orgName:
   - ID Skydd i Sverige AB
   date: '2017-03-07'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 559046-2494
   orgName:
@@ -656,9 +1788,26 @@ organisations:
 - orgNumber: 559050-4345
   orgName:
   - Webhost Norden AB
+  - Nordisk Webhantering AB
   date: '2017-12-15'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 559050-6951
+  orgName:
+  - SBU Svenska Bolags Unite
+  - SBU Svenska Bolags Unite AB
+  - SFR Svenska Företagsregistret
+  date: '2016-05-03'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 559053-1199
+  orgName:
+  - Delius i Örebro AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 559054-2311
   orgName:
@@ -672,84 +1821,106 @@ organisations:
   - Net Com Media Sverige AB
   date: '2018-01-03'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 559063-5958
   orgName:
   - Consultica Förlag AB
   date: '2016-11-22'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 559064-8464
   orgName:
   - Mediasupporten Göteborg AB
   date: '2016-10-14'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 559068-0756
   orgName:
   - Strand Finans AB
   date: '2017-04-20'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 559075-8974
   orgName:
   - Mysore one AB (u.ä)
   date: '2019-11-01'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 559077-7271
+  orgName:
+  - Ebricon Media AB
+  - Ebricon Media
+  date: '2021-11-18'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 559079-1686
   orgName:
   - Media & Dataförmedlingsgruppen Sverige
   date: '2017-05-24'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 559095-1611
+  orgName:
+  - Corporate Supplies Sweden AB
+  date: '2024-08-29'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 559097-2864
   orgName:
   - Daffson AB
   date: '2019-06-14'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 559099-0189
   orgName:
   - BLUshop AB
   date: '2024-10-14'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559101-9145
   orgName:
   - Mediahuset Östermalm AB
   date: '2018-09-21'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 559109-8073
   orgName:
   - Hälsoinformatörerna i Sverige AB
   date: '1970-01-01'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 559110-0556
   orgName:
   - Superial Consulting AB
   date: '2025-03-14'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
+
+- orgNumber: 559111-2296
+  orgName:
+  - GM Trading och Service AB
+  date: '2021-10-22'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 559111-8368
   orgName:
   - Svensk Operatörtjänst AB
   date: '2019-05-21'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 559113-0207
   orgName:
@@ -770,7 +1941,7 @@ organisations:
   - Egena AB
   date: '1970-01-01'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559125-8677
   orgName:
@@ -784,21 +1955,30 @@ organisations:
   - Finansera AB
   date: '2018-07-11'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 559136-8096
   orgName:
   - Svenska Multimedial Byrån AB
   date: '2018-02-14'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 559142-9971
   orgName:
   - Konsult Hjälpen
+  - Avtals Förmedlarna
+  - BMC AB (Be My Customer)
   date: '2019-03-15'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 559146-2998
+  orgName:
+  - lönnerberg entreprenad ab
+  date: '2022-12-01'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 559157-7654
   orgName:
@@ -812,56 +1992,64 @@ organisations:
   - FS Data AB
   date: '2024-08-30'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559165-4271
   orgName:
   - Cj Selection AB
   date: '2022-04-11'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559166-4056
   orgName:
   - Standby Bemanning 24
   date: '2018-11-15'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 559166-9162
+  orgName:
+  - Eworki Plattforms AB
+  date: '2023-12-29'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 559169-8674
   orgName:
   - Gothia Business Support AB
   date: '2022-07-12'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559170-8580
   orgName:
   - Avtalsrådgivarna Sweden AB
   date: '2022-05-31'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559185-8971
   orgName:
   - Netweb Scandinavian Media AB
+  - Netweb Media AB
   date: '2021-11-26'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559187-6965
   orgName:
   - Stern Young & Partner
   date: '2019-03-28'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 559205-8142
   orgName:
   - Telson Sweden AB
   date: '2025-10-30'
   _SeenFirst: '2025-11-12T22:37:22'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559210-6974
   orgName:
@@ -883,7 +2071,7 @@ organisations:
   - It partner i väst AB
   date: '2025-10-29'
   _SeenFirst: '2025-11-12T22:37:22'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559221-4414
   orgName:
@@ -911,14 +2099,14 @@ organisations:
   - TeOnga AB
   date: '1970-01-01'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559239-3960
   orgName:
   - EMMANUEL GWU AB
   date: '2022-04-04'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559241-1770
   orgName:
@@ -932,35 +2120,35 @@ organisations:
   - Vibe IT AB
   date: '2025-11-06'
   _SeenFirst: '2025-11-12T22:37:22'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559252-8433
   orgName:
   - Bolagsinspektionen Sverige AB
   date: '2023-10-23'
   _SeenFirst: '2025-04-26T17:45:09'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559257-2860
   orgName:
   - VPA ANSVAR AB
   date: '2025-05-27'
   _SeenFirst: '2025-05-22T19:23:02'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559259-8493
   orgName:
   - valid8Now AB
   date: '2023-05-08'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559260-4481
   orgName:
   - Företagsannonser i Norden AB
   date: '2023-01-30'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559263-5436
   orgName:
@@ -968,7 +2156,7 @@ organisations:
   - Levin Nyman & Parterns
   date: '2020-09-03'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 559274-2265
   orgName:
@@ -982,7 +2170,7 @@ organisations:
   - Sejfer AB
   date: '2025-09-26'
   _SeenFirst: '2025-04-26T17:45:09'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559295-7632
   orgName:
@@ -991,26 +2179,33 @@ organisations:
   _SeenFirst: '2025-04-27T16:21:58'
   _SeenLast: '2025-12-15T21:00:39'
 
+- orgNumber: 559303-1007
+  orgName:
+  - SBP Sweden AB
+  date: '2023-07-05'
+  _SeenFirst: '2026-01-14T10:46:04'
+  _SeenLast: '2026-01-14T13:15:42'
+
 - orgNumber: 559306-8660
   orgName:
   - Lindell & Co Varumärkestjänst AB
   date: '2023-12-11'
   _SeenFirst: '2025-04-26T17:45:09'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559309-3387
   orgName:
   - Navamimo Enterprises AB
   date: '2025-12-19'
   _SeenFirst: '2025-07-05T20:10:44'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559317-4773
   orgName:
   - Promota Media Group Scandinavia AB
   date: '2025-05-08'
   _SeenFirst: '2025-04-26T17:45:09'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559318-7627
   orgName:
@@ -1018,7 +2213,7 @@ organisations:
   - Network Hosting AB
   date: '2025-02-17'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559322-1574
   orgName:
@@ -1032,14 +2227,14 @@ organisations:
   - Ednova AB
   date: '2022-11-29'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559338-8480
   orgName:
   - Svea Group AB
   date: '2025-01-13'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559338-9678
   orgName:
@@ -1053,7 +2248,7 @@ organisations:
   - Leijon Telekom AB
   date: '2025-10-27'
   _SeenFirst: '2025-11-12T22:37:22'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559340-4485
   orgName:
@@ -1067,21 +2262,21 @@ organisations:
   - Web Hosting Solutions 24 AB
   date: '2024-02-09'
   _SeenFirst: '2025-04-26T17:45:09'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559351-2725
   orgName:
   - Medier Arfvidsson Blomgren AB
   date: '2025-05-06'
   _SeenFirst: '2025-04-26T17:45:09'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559359-3162
   orgName:
   - O&M Consulting AB
   date: '2025-10-17'
   _SeenFirst: '2025-09-13T17:49:14'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559365-5169
   orgName:
@@ -1095,14 +2290,14 @@ organisations:
   - Fifu AB
   date: '2022-11-21'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559409-4533
   orgName:
   - Cloud Software 365 AB
   date: '2025-11-17'
   _SeenFirst: '2025-10-08T17:52:54'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559420-6970
   orgName:
@@ -1110,14 +2305,14 @@ organisations:
   - Sabina AI AB
   date: '2024-08-07'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559425-0002
   orgName:
   - Sierra Analytics AB
   date: '2023-11-01'
   _SeenFirst: '2025-04-26T17:45:09'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559433-6983
   orgName:
@@ -1125,7 +2320,7 @@ organisations:
   - Bygglovsupplysningen
   date: '2024-08-26'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559435-0596
   orgName:
@@ -1133,7 +2328,7 @@ organisations:
   - MENTIGO ADVERTISING AB
   date: '2023-08-14'
   _SeenFirst: '2025-04-26T17:45:09'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 559448-9725
   orgName:
@@ -1147,7 +2342,7 @@ organisations:
   - OK Agency AB
   date: '2025-06-10'
   _SeenFirst: '2025-06-21T21:12:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559462-3059
   orgName:
@@ -1161,14 +2356,14 @@ organisations:
   - Edenkraft AB
   date: '2025-08-20'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559466-5852
   orgName:
   - Bolagssidorna i Sverige AB
   date: '2025-09-04'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559468-9217
   orgName:
@@ -1183,21 +2378,45 @@ organisations:
   - Gruppen Ai
   date: '2025-05-30'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559491-3393
   orgName:
   - Keep connections Sverige AB
   date: '2025-08-08'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:00'
 
 - orgNumber: 559492-2709
   orgName:
   - Nyalamedia AB
   date: '2025-04-03'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
+
+- orgNumber: 665361-8000
+  orgName:
+  - Vistashop
+  - VISTA SHOP
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
+
+- orgNumber: 669251-9281
+  orgName:
+  - EPTR
+  - European Patent and Trademark Register
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
+
+- orgNumber: 769630-9504
+  orgName:
+  - RF Företagarnas Förbund För Energi & Försäkringar Ekonomiska Förening
+  - Riksförbundet Företagarnas Förbund För Energi & Försäkringar Ekonomiska Förening
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
 
 - orgNumber: 769642-5037
   orgName:
@@ -1205,91 +2424,315 @@ organisations:
   - KonVest
   date: '2025-03-04'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
+
+- orgNumber: 969616-1133
+  orgName:
+  - NäringslivsFakta
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
 
 - orgNumber: 969706-2462
   orgName:
   - Sondera Företagsutveckling HB
   date: '2016-09-26'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 969712-1425
   orgName:
   - Academic Positions Kommanditbolag
   date: '2020-10-12'
   _SeenFirst: '2025-04-26T17:45:10'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:02'
+
+- orgNumber: 969718-7814
+  orgName:
+  - LKL Newsgroup KB
+  date: '2011-10-13'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 969720-5061
+  orgName:
+  - Kalenderhuset Malmö KB
+  - Annonsstället
+  date: '2009-09-28'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 969724-3559
+  orgName:
+  - Ounum Tech
+  date: '2012-12-11'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 969728-4918
+  orgName:
+  - Applikoni KB
+  date: '2014-06-02'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 969728-6392
+  orgName:
+  - Svenska Förlagsvärlden
+  date: '2011-01-03'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 969738-8396
+  orgName:
+  - Lutlai Media & Information KB
+  date: '2011-12-12'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 969739-9971
+  orgName:
+  - Your Name KB
+  date: '2009-11-26'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 969742-2120
   orgName:
   - Deductor Media Handelsbolag
   date: '2016-11-04'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 969742-7574
+  orgName:
+  - Certocito invest
+  - Zosa Networks HB
+  - Zosa Networks HB/Certocito invest
+  date: '2011-02-03'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 969743-0495
+  orgName:
+  - Box 829
+  date: '2010-12-30'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 969743-2277
+  orgName:
+  - ISD KB
+  date: '2012-09-10'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 969743-8399
+  orgName:
+  - JJ Solution KB
+  - Montenor Communications AB
+  date: '2011-07-08'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 969744-5063
+  orgName:
+  - Callblock HB
+  date: '2009-11-24'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 969751-9263
+  orgName:
+  - HB Nummerupplysning / KEJF HB
+  - Företagens tele-del i Sverige AB
+  date: '2011-05-16'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 969753-0351
+  orgName:
+  - Aretius Sverige KB
+  date: '2011-02-10'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
 
 - orgNumber: 969753-5996
   orgName:
   - SGG Media
-  date: '2016-05-17'
+  - Bediana Kommanditbolag
+  date: '2013-10-30'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 969754-4857
+  orgName:
+  - Elviro Sverige HB
+  - Montenor Communications AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 969755-6420
+  orgName:
+  - Nordens Företagslansering HB
+  date: '2011-07-18'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 969756-7585
+  orgName:
+  - RXH Konsulting & Försäljning
+  - Mellanhand Media
+  date: '2012-02-22'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 969758-0208
+  orgName:
+  - Nordic Support Finans KB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 969758-1214
+  orgName:
+  - Camesa Gruppen KB
+  date: '2012-05-04'
+  _SeenFirst: '2026-01-14T10:48:51'
+  _SeenLast: '2026-01-14T13:15:45'
+
+- orgNumber: 969758-2964
+  orgName:
+  - IT-Kompaniet i Sverige
+  date: '2013-10-11'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 969758-6338
+  orgName:
+  - Qvarsebo Consulting
+  date: '2012-08-27'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 969760-3737
+  orgName:
+  - DLN Ditt Lokala Nätverk KB
+  - Svensk Profilutformning AB
+  date: '2013-08-22'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 969762-3404
+  orgName:
+  - Theo Marketing KB
+  date: '2013-04-02'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
+
+- orgNumber: 969762-7157
+  orgName:
+  - Standardtjänst i Stockholm
+  date: '2013-01-16'
+  _SeenFirst: '2026-01-14T10:48:50'
+  _SeenLast: '2026-01-14T13:15:44'
 
 - orgNumber: 969763-3429
   orgName:
   - Upplands Admin Konsult
   date: '2019-01-17'
   _SeenFirst: '2025-04-26T17:45:11'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:03'
+
+- orgNumber: 969763-6679
+  orgName:
+  - Vingebäck Media Online KB
+  - EDG Distribution AB
+  - b2b Media Stockholm AB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:49'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 969763-6687
+  orgName:
+  - Vingebäck Mediakonsult KB
+  date: '1970-01-01'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 969764-5837
   orgName:
   - Stockholm Reklam
-  date: '2015-04-09'
+  - Stockholm Reklam & Bygg KB
+  date: '1970-01-01'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T13:15:42'
+
+- orgNumber: 969766-3939
+  orgName:
+  - KM Solutions KB
+  date: '2015-02-02'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 969767-0421
   orgName:
   - NSG Media KB
-  date: '2013-11-08'
+  date: '2014-03-04'
   _SeenFirst: '2025-04-26T17:45:16'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T13:15:43'
+
+- orgNumber: 969768-7698
+  orgName:
+  - Ditt Näringsliv
+  - DT Utgivningar KB
+  date: '2017-03-06'
+  _SeenFirst: '2017-03-06T00:00:00'
+  _SeenLast: '2017-03-06T00:00:00'
+
+- orgNumber: 969771-3890
+  orgName:
+  - Excellent Sales Sweden HB
+  date: '2015-04-30'
+  _SeenFirst: '2026-01-14T10:48:48'
+  _SeenLast: '2026-01-14T13:15:42'
 
 - orgNumber: 969771-8980
   orgName:
   - Elektrosafe HB
   date: '2015-12-09'
   _SeenFirst: '2025-04-26T17:45:12'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 969775-2575
   orgName:
   - Sec Info Sverige KB
   date: '2015-08-12'
   _SeenFirst: '2025-04-26T17:45:15'
-  _SeenLast: '2026-01-03T17:13:36'
+  _SeenLast: '2026-01-14T12:39:04'
 
 - orgNumber: 969776-5437
   orgName:
   - B & B Sverige KB
   date: '2016-08-16'
   _SeenFirst: '2025-04-26T17:45:14'
-  _SeenLast: '2026-01-03T17:13:34'
+  _SeenLast: '2026-01-14T12:39:02'
 
 - orgNumber: 969778-3182
   orgName:
   - Internhelp
   date: '1970-01-01'
   _SeenFirst: '2025-04-26T17:45:09'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 969778-4610
   orgName:
   - Brunnsvikens Företagsinfo
+  - Norfast Ekonomi
   date: '2018-02-06'
   _SeenFirst: '2025-04-26T17:45:13'
-  _SeenLast: '2026-01-03T17:13:35'
+  _SeenLast: '2026-01-14T12:39:03'
 
 - orgNumber: 969799-0449
   orgName:
@@ -1304,11 +2747,11 @@ organisations:
   - Jobbscout/Kuverta KB
   date: '2024-11-27'
   _SeenFirst: '2025-04-26T17:45:08'
-  _SeenLast: '2026-01-03T17:13:32'
+  _SeenLast: '2026-01-14T12:39:01'
 
 - orgNumber: 969799-3419
   orgName:
   - B2B-Connect Stockholm KB
   date: '2023-11-07'
   _SeenFirst: '2025-04-26T17:45:09'
-  _SeenLast: '2026-01-03T17:13:33'
+  _SeenLast: '2026-01-14T12:39:01'
