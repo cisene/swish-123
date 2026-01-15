@@ -89,6 +89,13 @@ def main():
       ]
     },
     {
+      'title': 'Insamlingskontroll',
+      'slug': 'swishkatalogen-insamlingskontroll',
+      'categories': [
+        'insamlingskontroll'
+      ]
+    },
+    {
       'title': 'Kvinnojourer, Tjejjourer och Transjourer',
       'slug': 'swishkatalogen-kvinnojourer',
       'categories': [
