@@ -19120,6 +19120,14 @@ entries:
   - idrottsförening
   web: https://www.kvibillebk.se/
 
+- entry: 1230858464
+  orgName: Calmare Kattklubb
+  orgNumber: 832401-9986
+  comment: null
+  categories:
+  - kattklubb
+  web: https://calmarekk.se/
+
 - entry: 1230858506
   orgName: Stavnäs Hembygdsförening
   orgNumber: 872000-4616
@@ -24879,6 +24887,16 @@ entries:
   - släktforskning
   web: https://kfvslakt.se/
 
+- entry: 1231105832
+  orgName: Rinkeby Bokfestival
+  orgNumber: 802543-8063
+  comment: null
+  categories:
+  - bibliotek
+  - bokfestival
+  - festival
+  web: https://www.rinkebyfolketshus.se/ge-en-gava-bokfestivalen/
+
 - entry: 1231107341
   orgName: SPF Seniorerna Östjämtland
   orgNumber: 802516-8934
@@ -28118,6 +28136,15 @@ entries:
   - religion
   web: https://stjohanneskyrka.se/
 
+- entry: 1231247634
+  orgName: Mustadsfors Folketshusförening
+  orgNumber: 762000-0450
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://aminawinkler.wixsite.com/minsida
+
 - entry: 1231247683
   orgName: Skövde Drill
   orgNumber: 802455-7731
@@ -30375,6 +30402,7 @@ entries:
   orgNumber: 750812-XXXX
   comment: null
   categories:
+  - blogg
   - podcast
   web: https://deassimilerade.com/
 
@@ -32458,6 +32486,20 @@ entries:
   - innebandyklubb
   web: https://www.laget.se/SundsvallsIBF/
 
+- entry: 1231470053
+  orgName: Viksjö Idrottsförening
+  orgNumber: 888000-2046
+  comment: null
+  categories:
+  - bordtennisklubb
+  - bouleklubb
+  - fotbollsklubb
+  - idrottsförening
+  - ishockeyklubb
+  - skridskoklubb
+  - tennisklubb
+  web: https://www.viksjoif.se/
+
 - entry: 1231470400
   orgName: Lohärads Församling
   orgNumber: 252000-1187
@@ -33084,7 +33126,7 @@ entries:
 - entry: 1231482355
   orgName: Lions Club Piteå-Öjebyn
   orgNumber: 802415-8498
-  comment: null
+  comment: Barnfonden Hjärtat
   categories:
   - hjälporganisation
   - lionsklubb
@@ -39994,6 +40036,15 @@ entries:
   - skoterledbevis
   web: https://hemavan.nu/skoter/
 
+- entry: 1231793975
+  orgName: Saltsjöbadens Idrottsförening
+  orgNumber: 814000-3867
+  comment: Saltsjöbladet
+  categories:
+  - annonsblad
+  - lokaltidning
+  web: https://saltsjobladet.se/
+
 - entry: 1231794346
   orgName: Bröstcancerföreningen Viktoria Ängelholm
   orgNumber: 802459-9691
@@ -40865,6 +40916,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-blekinge/samorganisationer/samorganisation-solvesborg/foreningar/solvesborg.html
+
+- entry: 1231831403
+  orgName: Ställbergs Byalag
+  orgNumber: 875002-9293
+  comment: null
+  categories:
+  - byalag
+  web: https://stallbergsbyalag.se/
 
 - entry: 1231831486
   orgName: Pekoe Ekologiskt Te
@@ -47428,6 +47487,15 @@ entries:
   - pensionärsklubb
   web: https://pro.se/distrikt/skane/kommun/landskrona/pro-harslov
 
+- entry: 1232153674
+  orgName: Hallunda Folkets Hus
+  orgNumber: 812800-4960
+  comment: null
+  categories:
+  - folketshus
+  - intresseförening
+  web: https://www.hallundafolketshus.se/
+
 - entry: 1232155505
   orgName: Ulricehamns IHS
   orgNumber: 802520-1628
@@ -48641,6 +48709,14 @@ entries:
   - fordonhistoria
   - supporterklubb
   web: https://www.saabturboclub.com/
+
+- entry: 1232199420
+  orgName: Utby Vestens Byalag
+  orgNumber: 855900-8084
+  comment: null
+  categories:
+  - byalag
+  web: https://utbyvesten.se/
 
 - entry: 1232199446
   orgName: Fritsla Hockeyklubb
@@ -88771,6 +88847,14 @@ entries:
   - musik
   web: https://melodifestivalklubben.se/
 
+- entry: 1234010179
+  orgName: MediaLike (Dacc Systems Aktiebolag)
+  orgNumber: 556604-2478
+  comment: Frihetsnytt
+  categories:
+  - alternativa media
+  web: https://frihetsnytt.se/
+
 - entry: 1234010187
   orgName: Korskyrkan i Götene
   orgNumber: 802488-3434
@@ -103924,6 +104008,14 @@ entries:
   - konstförening
   web: https://www.konstochbruksglasforeningen.se/
 
+- entry: 1234769782
+  orgName: Emmauskyrkan i Åkersberga
+  orgNumber: 802496-1891
+  comment: null
+  categories:
+  - religion
+  web: https://www.emmauskyrkan.se/
+
 - entry: 1234774378
   orgName: Lions Club Vaxholm
   orgNumber: 802532-0840
@@ -116462,6 +116554,7 @@ entries:
   categories:
   - hundklubb
   - hundsport
+  - slädhundklubb
   web: https://www.jfshk.se/
 
 - entry: 1235376231
@@ -137710,6 +137803,9 @@ entries:
   categories:
   - förening
   - intresseförening
+  - stödverksamhet
+  - utbildning
+  - utbildningsstöd
   web: https://www.mammaunited.se/
 
 - entry: 1236314314
@@ -139593,6 +139689,7 @@ entries:
   comment: null
   categories:
   - byggnadskonst
+  - elektronik
   - renovering
   web: https://www.byggoteknik.se/
 
@@ -143702,6 +143799,14 @@ entries:
   - djurvård
   - katthem
   web: https://www.djurskyddet.se/bollnasovanaker/
+
+- entry: 1236605919
+  orgName: Kultur och Guidegruppen i Karlholm
+  orgNumber: 802423-1568
+  comment: null
+  categories:
+  - kulturförening
+  web: https://www.karlholm.nu/
 
 - entry: 1236606818
   orgName: FC City Trelleborg
