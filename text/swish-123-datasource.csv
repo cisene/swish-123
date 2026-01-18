@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-01-18-rev-020141
+# Date: 2026-01-18-rev-163837
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1394,7 +1394,7 @@
 "1230555508","802011-0386","Rise - Riksföreningen mot incest och andra sexuella övergrepp i barndomen","https://rise-sverige.se/","donation,kvinnojour",""
 "1230555565","882600-0567","Korskyrkan Borlänge","https://korskyrkan.be/","religion",""
 "1230556308","559356-8651","Tyresö Yogacenter AB","https://www.tyresoyogacenter.se/","spiritualism,yoga",""
-"1230556431","802546-0711","Rotary Distrikt 2365","https://portal.clubrunner.ca/50353/","rotaryklubb",""
+"1230556431","802546-0711","Rotary Distrikt 2365","https://portal.clubrunner.ca/50353/","rotaryklubb","Årliga Fonden"
 "1230556654","758500-2004","Västerlanda Bygdegård","https://bygdegardarna.se/vasterlanda/","bygdegårdsförening",""
 "1230556787","853300-4852","Reumatikerföreningen Kungälv","https://kungalv.reumatiker.se/","patientförening,reumatikerförening",""
 "1230559005","817300-7405","Dannemora Hembygdsförening","https://www.hembygd.se/dannemora","hembygdsförening",""
@@ -2814,6 +2814,7 @@
 "1231122670","888000-8241","Friskis & Svettis Härnösand","https://www.friskissvettis.se/harnosand","friskvård,hälsa,idrottsförening",""
 "1231123520","873200-6724","Karlstad 4H-gård","https://www.4h.se/karlstad/","4hklubb,barnverksamhet,ungdomsverksamhet",""
 "1231123645","802534-3800","Frivilliga Insatser vid Kris och Katastrof - FIKK Sweden","https://fikk.se/","hjälporganisation",""
+"1231123785","590607-XXXX","Grovare Evenemang & Kafé / Marie Arturén Persson","https://www.grovare.se/","café,eventarrangör",""
 "1231126549","838200-1280","Gratia Dei-stiftelsen","http://www.gratiadei.se/","religion,stiftelse",""
 "1231127876","802427-8585","Barnens Ambassad","https://barnensambassad.se/","hjälporganisation",""
 "1231129097","898801-0636","Öjebyns IBF","https://www.laget.se/OjebynsIBF/","idrottsförening,innebandyklubb","F10"
@@ -4866,6 +4867,7 @@
 "1231962943","252003-0293","Kumla Pastorat","https://www.svenskakyrkan.se/kumla","religion","Kollekt Hardemo"
 "1231963016","882601-1671","Borlänge Konståkningsklubb","https://fbskonstakning.se/","idrottsförening,konståkningsklubb",""
 "1231963024","802465-6913","Imam Ali Islamic Center","https://www.imamalicenter.se/","religion",""
+"1231963081","872000-4442","SMK Eda","https://smkeda.se/","motorsport,motorsällskap",""
 "1231963305","877101-3045","Nora Golfklubb","https://www.noragolfklubb.se/","golfklubb",""
 "1231963438","857202-3599","Styrsö Missionsförsamling","https://styrsomissionskyrka.se/","religion",""
 "1231963503","837600-6683","Örkelljunga VK","https://www.svenskalag.se/orkelljungavk","beachvolleyballklubb,idrottsförening,motionsklubb,volleybollklubb",""
@@ -11634,6 +11636,7 @@
 "1234763918","252003-9260","Vadstena Pastorat","https://www.svenskakyrkan.se/vadstena","religion","Gåvokistan"
 "1234763983","802477-9715","Insamlingsstiftelsen Emma & Therese Children’s Project","https://www.etcpuganda.se/","donation,stiftelse",""
 "1234764486","814000-2596","Hjälmö Brygga Samfällighet","https://hjalmobrygga.se/","samfällighetsförening",""
+"1234765673","802546-0711","Rotary Distrikt 2365","https://rotary2365.se/","rotaryklubb","Gåva "End Polio Now""
 "1234765863","826000-0784","Pingst Jönköping","https://pingstjonkoping.se/","religion","Stödkassan"
 "1234768446","894000-6946","HTF - Hissjö-Tavelsjö-Flurkmark","https://www.flurkmarksik.se/","fotbollsklubb,idrottsförening","F15"
 "1234768883","802538-7906","Bajen Club Sofia Kulturförening","https://bajenclubsofia.com/","supporterklubb",""
@@ -12291,7 +12294,7 @@
 "1235105762","802511-2213","Det Fria Sverige / Svegot-DFS","https://detfriasverige.se/","intresseförening",""
 "1235105978","802511-9002","GGG Gemenskap, Glädje och Guldkant","https://www.gggforseniorer.se/","pensionärsklubb",""
 "1235106349","802473-4959","Föreningen Björndammens Masugn","https://bjorndammensmasugn.se/","intresseförening,kulturförening",""
-"1235106471","882000-2510","Stjärnsunds AIF, SAIF","https://www.stjernsund.com/","idrottsförening",""
+"1235106471","882000-2510","Stjärnsunds AIF, SAIF","https://www.stjernsund.com/","fotbollsklubb,idrottsförening,innebandyklubb,skidlöparklubb,skridskoklubb",""
 "1235106851","817600-1579","IK Fyris Uppsala","https://www.fyriscurling.se/","curlingklubb,idrottsförening","Curling"
 "1235106976","894003-7107","Patholmvikens Båtklubb","https://www.pvbk.net/","båtklubb,båtsällskap",""
 "1235107206","853300-0421","IK Kongahälla","https://www.laget.se/IKKongahalla/","fotbollsklubb,idrottsförening",""

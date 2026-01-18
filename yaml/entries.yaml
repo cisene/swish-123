@@ -12650,7 +12650,7 @@ entries:
 - entry: 1230556431
   orgName: Rotary Distrikt 2365
   orgNumber: 802546-0711
-  comment: null
+  comment: Årliga Fonden
   categories:
   - rotaryklubb
   web: https://portal.clubrunner.ca/50353/
@@ -25623,6 +25623,15 @@ entries:
   categories:
   - hjälporganisation
   web: https://fikk.se/
+
+- entry: 1231123785
+  orgName: Grovare Evenemang & Kafé / Marie Arturén Persson
+  orgNumber: 590607-XXXX
+  comment: null
+  categories:
+  - café
+  - eventarrangör
+  web: https://www.grovare.se/
 
 - entry: 1231126549
   orgName: Gratia Dei-stiftelsen
@@ -44400,6 +44409,15 @@ entries:
   categories:
   - religion
   web: https://www.imamalicenter.se/
+
+- entry: 1231963081
+  orgName: SMK Eda
+  orgNumber: 872000-4442
+  comment: null
+  categories:
+  - motorsport
+  - motorsällskap
+  web: https://smkeda.se/
 
 - entry: 1231963305
   orgName: Nora Golfklubb
@@ -106382,6 +106400,14 @@ entries:
   - samfällighetsförening
   web: https://hjalmobrygga.se/
 
+- entry: 1234765673
+  orgName: Rotary Distrikt 2365
+  orgNumber: 802546-0711
+  comment: Gåva "End Polio Now"
+  categories:
+  - rotaryklubb
+  web: https://rotary2365.se/
+
 - entry: 1234765863
   orgName: Pingst Jönköping
   orgNumber: 826000-0784
@@ -112447,7 +112473,11 @@ entries:
   orgNumber: 882000-2510
   comment: null
   categories:
+  - fotbollsklubb
   - idrottsförening
+  - innebandyklubb
+  - skidlöparklubb
+  - skridskoklubb
   web: https://www.stjernsund.com/
 
 - entry: 1235106851
