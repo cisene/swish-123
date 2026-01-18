@@ -6444,6 +6444,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/sollentuna/kummelby-kyrka1
 
+- entry: 1230300947
+  orgName: Rotary Falkenberg
+  orgNumber: 849000-6965
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://falkenberg.rotary2395.se/
+
 - entry: 1230301960
   orgName: Rotary Vadstena Kloster
   orgNumber: 802418-1524
@@ -8565,6 +8573,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/karlstadspastorat
+
+- entry: 1230379602
+  orgName: Kim Kultur & Nöje AB
+  orgNumber: 559076-4659
+  comment: null
+  categories:
+  - musiker
+  - terminated
+  web: https://www.kimkultur.se/
 
 - entry: 1230379735
   orgName: AlternaMedia AB
@@ -17245,7 +17262,7 @@ entries:
   orgNumber: 802527-6646
   comment: null
   categories:
-  - förening
+  - kamratförening
   web: https://flottansman.se/lysekil/
 
 - entry: 1230778688
@@ -18807,6 +18824,16 @@ entries:
   categories:
   - hembygdsförening
   web: http://www.granhultskyrka.org/
+
+- entry: 1230844340
+  orgName: Highland Grand Dancers
+  orgNumber: 827501-1164
+  comment: null
+  categories:
+  - dansförening
+  - linedanceklubb
+  - squaredanceklubb
+  web: https://www.hgd.se/
 
 - entry: 1230844407
   orgName: Djurgårdens IF Fotboll
@@ -27033,6 +27060,14 @@ entries:
   - hundsport
   web: https://trelleborgshundarena.se/
 
+- entry: 1231173863
+  orgName: Kamratföreningen Flottans Män i Norrköping
+  orgNumber: 825003-1849
+  comment: null
+  categories:
+  - kamratförening
+  web: https://marinkamraterna.se/norrkoping/
+
 - entry: 1231173939
   orgName: Engsö Hembygds- och Intresseförening
   orgNumber: 878001-6278
@@ -28371,7 +28406,7 @@ entries:
   orgNumber: 802458-7324
   comment: null
   categories:
-  - intresseförening
+  - kamratförening
   web: https://flottansman.se/jonkoping/
 
 - entry: 1231235035
@@ -35237,6 +35272,14 @@ entries:
   - riksförbund
   web: https://www.hjart-lung.se/foreningar/vasterbotten/lokalforeningar/vilhelmina/
 
+- entry: 1231542000
+  orgName: The Beatles Information Center
+  orgNumber: 802410-1472
+  comment: null
+  categories:
+  - musikförening
+  web: https://beatlesnytt.se/
+
 - entry: 1231542265
   orgName: Hasse & Tage-Museets Vänner
   orgNumber: 802453-9697
@@ -35754,12 +35797,16 @@ entries:
   web: https://www.facebook.com/soskoren/
 
 - entry: 1231566009
-  orgName: Vem tar hand om Doktorn? / AB Själ och kropp AB
+  orgName: Jill Taube AB
   orgNumber: 556962-4363
   comment: null
   categories:
+  - dansinstruktör
   - friskvård
-  web: https://vemtarhandomdoktorn.se/
+  - föreläsare
+  - författare
+  - yoga
+  web: https://jilltaube.se/
 
 - entry: 1231566140
   orgName: Centrumkyrkan i Staffanstorp
@@ -37563,6 +37610,15 @@ entries:
   - simklubb
   - simsällskap
   web: https://www.jarfallasim.org/
+
+- entry: 1231643220
+  orgName: Klaverens Hus
+  orgNumber: 886000-8591
+  comment: null
+  categories:
+  - kulturförening
+  - musikförening
+  web: https://www.klaverenshus.se/
 
 - entry: 1231643618
   orgName: F 17 Kamratförening
@@ -42088,6 +42144,14 @@ entries:
   - bageri
   - livsmedel
   web: https://pagen.se/
+
+- entry: 1231847151
+  orgName: Kamratföreningen Flottans Män i Göteborg
+  orgNumber: 857200-4284
+  comment: null
+  categories:
+  - kamratförening
+  web: https://marinkamraterna.se/goteborg/
 
 - entry: 1231847698
   orgName: Byalaget på Kivik
@@ -57245,6 +57309,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/rolfstorp
 
+- entry: 1232526655
+  orgName: Kamratföreningen Flottans Män i Varberg
+  orgNumber: 849600-8080
+  comment: null
+  categories:
+  - kamratförening
+  web: https://marinkamraterna.se/varberg/
+
 - entry: 1232526671
   orgName: Sävedalens Församling
   orgNumber: 252001-4446
@@ -58175,6 +58247,7 @@ entries:
   categories:
   - jazzclub
   - kulturförening
+  - musikförening
   web: https://www.gavlejazz.se/
 
 - entry: 1232580819
@@ -66700,7 +66773,6 @@ entries:
   orgNumber: 802542-5011
   comment: null
   categories:
-  - intresseförening
   - kamratförening
   web: https://flottansman.se/vaxjo/
 
@@ -67128,6 +67200,15 @@ entries:
   - intresseförening
   web: https://koping.se/barn--utbildning/grundskola-och-fritidshem/alla-skolor/elundskolan/om-oss/foraldraforening.html
 
+- entry: 1232956258
+  orgName: Dansa i Rad
+  orgNumber: 802414-5859
+  comment: null
+  categories:
+  - dansförening
+  - linedanceklubb
+  web: http://www.dansairad.nu/
+
 - entry: 1232956290
   orgName: Fightgym Borås
   orgNumber: null
@@ -67550,6 +67631,15 @@ entries:
   - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/ort/orebro/hallsbergs-kommun/
+
+- entry: 1232980183
+  orgName: Virsbo Konsthall
+  orgNumber: 802471-4589
+  comment: null
+  categories:
+  - konstförening
+  - konsthall
+  web: https://www.virsbokonsthall.com/
 
 - entry: 1232980191
   orgName: Formenca AB
@@ -70376,6 +70466,15 @@ entries:
   - innerwheel
   - kvinnligt nätverk
   web: https://www.innerwheel.se/
+
+- entry: 1233102654
+  orgName: SAAB Veteranfören Trollhättan
+  orgNumber: 802469-2264
+  comment: null
+  categories:
+  - veteranförening
+  - yrkesförening
+  web: https://wiki.saabveteranernatrollhattan.com/
 
 - entry: 1233102738
   orgName: Börringe Bygdeförening
@@ -88146,6 +88245,7 @@ entries:
   comment: null
   categories:
   - företagande
+  - kvinnligt nätverk
   web: https://freija.se/
 
 - entry: 1233894177
@@ -91578,6 +91678,14 @@ entries:
   - hjärnforskning
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1234054334
+  orgName: Rotary Helsingborg Sofiero
+  orgNumber: 802507-8018
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://helsingborg-sofiero.rotary2395.se/
 
 - entry: 1234054359
   orgName: AjaBajaCancer
@@ -100326,9 +100434,7 @@ entries:
   orgNumber: 802018-3094
   comment: null
   categories:
-  - förening
-  - försvarsorganisation
-  - riksförbund
+  - kamratförening
   web: https://flottansman.se/stockholm/
 
 - entry: 1234492559
@@ -104231,6 +104337,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/malmo
 
+- entry: 1234667895
+  orgName: Kamratföreningen Flottans Män i Trelleborg
+  orgNumber: 846502-6535
+  comment: null
+  categories:
+  - kamratförening
+  web: https://marinkamraterna.se/trelleborg/
+
 - entry: 1234667978
   orgName: Finspångs Bågskytteklubb
   orgNumber: 825003-0536
@@ -105860,6 +105974,14 @@ entries:
   - kampsportsförening
   web: https://www.dokandojo.com/
 
+- entry: 1234744454
+  orgName: Kamratföreningen Flottans Män i Karlstad-Värmland
+  orgNumber: 802498-3911
+  comment: null
+  categories:
+  - kamratförening
+  web: https://marinkamraterna.se/karlstad/
+
 - entry: 1234744611
   orgName: Konstföreningen Sjöhästens vänner
   orgNumber: 819001-6173
@@ -107440,6 +107562,14 @@ entries:
   - bokutgivning
   - förlag
   web: https://www.klingsbergsforlag.se/
+
+- entry: 1234840880
+  orgName: Kamratföreningen Flottans Män i Karlskrona
+  orgNumber: 835000-8846
+  comment: null
+  categories:
+  - kamratförening
+  web: https://marinkamraterna.se/karlskrona/
 
 - entry: 1234841805
   orgName: Svenska Dartmoorsällskapet
@@ -115040,11 +115170,11 @@ entries:
   web: https://movebreathepause.se/
 
 - entry: 1235192885
-  orgName: Föreningen Flottans Män i Västerås
+  orgName: Marinkamraterna i Västerås (tidigare Flottans Män)
   orgNumber: 878000-0496
   comment: null
   categories:
-  - intresseförening
+  - kamratförening
   web: https://flottansman.se/vasteras/
 
 - entry: 1235193073
@@ -116733,6 +116863,15 @@ entries:
   - välgörenhet
   web: https://disabledrefugeeswelcome.se/
 
+- entry: 1235273024
+  orgName: Morgongåva Heby Trädgårdsförening
+  orgNumber: 802460-1802
+  comment: null
+  categories:
+  - trädgårdsförening
+  - trädgårdsodling
+  web: https://www.morgongavahebytradgardsforening.se/
+
 - entry: 1235273032
   orgName: Hammenhögs IF
   orgNumber: 838800-0781
@@ -117438,6 +117577,15 @@ entries:
   - konsulttjänster
   - rådgivning
   web: https://asknekommunikation.se/
+
+- entry: 1235291307
+  orgName: Göteborgs Folkdansvänner, GFV
+  orgNumber: 857204-0049
+  comment: null
+  categories:
+  - dansförening
+  - folkdans
+  web: https://gfv.se/
 
 - entry: 1235292131
   orgName: Ängsö Röda Korskrets
@@ -127321,6 +127469,14 @@ entries:
   categories:
   - rotaryklubb
   web: https://vaxjo.rotary2400.se/
+
+- entry: 1235705990
+  orgName: Rotary Växjö S:t Sigfrid
+  orgNumber: 829502-1243
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://vaxjo-st-sigfrid.rotary2395.se/
 
 - entry: 1235706429
   orgName: FC Trelleborg
@@ -143322,6 +143478,16 @@ entries:
   - riksförbund
   web: https://svenskjazz.se/
 
+- entry: 1236436281
+  orgName: Föreningen Byggnadskultur i Umeå
+  orgNumber: 894002-7934
+  comment: null
+  categories:
+  - byggnadskonst
+  - byggnadskultur
+  - historieförening
+  web: https://byggnadskulturumea.se/
+
 - entry: 1236441158
   orgName: Synskadades Riksförbund
   orgNumber: 802008-2700
@@ -152426,6 +152592,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/rommele
 
+- entry: 1236834501
+  orgName: Landskronabygdens Släktforskare
+  orgNumber: 844001-2766
+  comment: null
+  categories:
+  - genealogi
+  - släktforskning
+  web: https://landskrona.sksf.se/
+
 - entry: 1236835227
   orgName: Ninpo Dragons Stockholm / IF Bujinkan Bushin Dojo
   orgNumber: 802454-6056
@@ -154042,6 +154217,15 @@ entries:
   - friluftsliv
   - vintersport
   web: https://fjatervalen.se/
+
+- entry: 1236907943
+  orgName: Orsa Operasällskap
+  orgNumber: 802473-5808
+  comment: null
+  categories:
+  - musikförening
+  - operasällskap
+  web: https://www.facebook.com/orsaopera/
 
 - entry: 1236908198
   orgName: Harbo Missionsförsamling
