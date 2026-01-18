@@ -33371,12 +33371,21 @@ entries:
   web: https://maria-rosengard.se/
 
 - entry: 1231472661
-  orgName: Ältagården
-  orgNumber: null
+  orgName: Ältagården / Erik Szabad Mattsson
+  orgNumber: 640729-XXXX
   comment: null
   categories:
+  - björkved
+  - honung
   - jordbruk
-  web: null
+  - lammkött
+  - närproducerat
+  - rekoproducerat
+  - skinn
+  - ull
+  - viltkött
+  - ägg
+  web: https://www.altagarden.se/
 
 - entry: 1231472687
   orgName: Hanebo-Segersta Församling
@@ -37953,11 +37962,16 @@ entries:
   web: https://www.swejs.se/
 
 - entry: 1231664127
-  orgName: Martins mat och catering
-  orgNumber: null
+  orgName: Martins Mat & Catering / Martin Herdin
+  orgNumber: 800502-XXXX
   comment: null
-  categories: null
-  web: null
+  categories:
+  - catering
+  - charkuteri
+  - närproducerat
+  - rekoproducerat
+  - viltkött
+  web: https://martinsmat.se/
 
 - entry: 1231664770
   orgName: Norra Ölands Pastorat
@@ -42840,12 +42854,14 @@ entries:
   web: https://www.kvinnojourenvallentuna.se/
 
 - entry: 1231882802
-  orgName: Herrängs Biodling
-  orgNumber: null
+  orgName: Herrängs Biodling / Stephen Hope
+  orgNumber: 741017-XXXX
   comment: null
   categories:
   - biodling
-  web: null
+  - närproducerat
+  - rekoproducerat
+  web: https://herrangsbiodling.com/
 
 - entry: 1231882976
   orgName: Studiefrämjandet Sörmland
@@ -67856,13 +67872,16 @@ entries:
   web: https://www.brfkvarnbergsplan.se/
 
 - entry: 1232989762
-  orgName: Pullans Hönseri
-  orgNumber: null
+  orgName: Pullans Hönseri / Isabella Söderberg
+  orgNumber: 920128-XXXX
   comment: null
   categories:
   - hönseri
   - jordbruk
-  web: null
+  - närproducerat
+  - rekoproducerat
+  - ägg
+  web: https://www.facebook.com/p/Pullans-h%C3%B6nseri-100066445215922/
 
 - entry: 1232989770
   orgName: Nationell Kvinnojour och Stöd på Teckenspråk
@@ -70277,6 +70296,17 @@ entries:
   - donation
   - patientförening
   web: https://www.blodcancerforbundet.se/nus/
+
+- entry: 1233086584
+  orgName: Söderåsens Ekoägg / Roland Ivarsson
+  orgNumber: 720809-XXXX
+  comment: null
+  categories:
+  - hönseri
+  - närproducerat
+  - rekoproducerat
+  - ägg
+  web: https://www.facebook.com/soderasensekoagg/
 
 - entry: 1233087087
   orgName: Svenska Bridgeförbundet
@@ -84984,11 +85014,18 @@ entries:
   web: null
 
 - entry: 1233744539
-  orgName: null
-  orgNumber: null
+  orgName: Urbans Skafferi / Urban Zakrisson
+  orgNumber: 720915-XXXX
   comment: null
-  categories: null
-  web: null
+  categories:
+  - marmelad
+  - mos
+  - must
+  - närproducerat
+  - rekoproducerat
+  - sirap
+  - sylt
+  web: http://www.urbansskafferi.se/
 
 - entry: 1233745551
   orgName: Svenska Hundklubben
@@ -86663,11 +86700,18 @@ entries:
   web: https://bondepraktikan.eu/
 
 - entry: 1233828217
-  orgName: Syltkrukan
-  orgNumber: null
+  orgName: Syltkrukan AB
+  orgNumber: 556978-0587
   comment: null
-  categories: null
-  web: null
+  categories:
+  - gelé
+  - marmelad
+  - närproducerat
+  - rekoproducerat
+  - restaurant
+  - saft
+  - sylt
+  web: https://www.syltkrukan.se/
 
 - entry: 1233828779
   orgName: Grycksbo IF OK
@@ -88974,11 +89018,13 @@ entries:
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spfseniorerna-club-73-svedala/
 
 - entry: 1233929726
-  orgName: null
-  orgNumber: null
+  orgName: Slinkom Gård - Ett kök på landet / Tess Knight
+  orgNumber: 900125-XXXX
   comment: null
-  categories: null
-  web: null
+  categories:
+  - butikshandel
+  - gårdsförsäljning
+  web: https://www.instagram.com/slinkomgard/
 
 - entry: 1233929734
   orgName: Svensk Eritreanskt Forum, S-ERI
@@ -91572,9 +91618,13 @@ entries:
 
 - entry: 1234043428
   orgName: Wild at Nature Experiences AB
-  orgNumber: null
+  orgNumber: 559244-7741
   comment: null
-  categories: null
+  categories:
+  - butikshandel
+  - närproducerat
+  - rekoproducerat
+  - viltkött
   web: https://wildatnature.se/
 
 - entry: 1234043436
@@ -98277,11 +98327,13 @@ entries:
   web: https://www.vasatorp.golf/
 
 - entry: 1234392049
-  orgName: Resta Gård
-  orgNumber: null
+  orgName: Resta Gård / Fredrik Hane
+  orgNumber: 720728-XXXX
   comment: null
   categories:
   - jordbruk
+  - närproducerat
+  - rekoproducerat
   web: https://www.restagard.se/
 
 - entry: 1234394219
@@ -108260,6 +108312,16 @@ entries:
   - idrottsförening
   - konståkningsklubb
   web: https://www.svenskalag.se/ostersundskonstakningsforening
+
+- entry: 1234899001
+  orgName: Gålö Ostkakeri / Eva Thoreson
+  orgNumber: 590122-XXXX
+  comment: null
+  categories:
+  - närproducerat
+  - ostkakeri
+  - rekoproducerat
+  web: https://www.facebook.com/galogardsmejeri/
 
 - entry: 1234899936
   orgName: FC Möjligheten
@@ -133794,6 +133856,16 @@ entries:
   - hästsport
   - jaktvårdsklubb
   web: https://ovedsjfk.se/
+
+- entry: 1236010649
+  orgName: Samstorps Gård AB
+  orgNumber: 556417-3069
+  comment: null
+  categories:
+  - gårdsbutik
+  - närproducerat
+  - rekoproducerat
+  web: https://www.samstorp.se/
 
 - entry: 1236010995
   orgName: Arbogabygdens Församling
