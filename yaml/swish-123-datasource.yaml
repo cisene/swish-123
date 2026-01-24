@@ -5734,6 +5734,16 @@ entries:
   - musik
   web: https://www.youtube.com/@livemusikuf5054
 
+- entry: 1230272849
+  orgName: Tångagård / Ivar Nilsson
+  orgNumber: 891012-XXXX
+  comment: null
+  categories:
+  - gårdsbutik
+  - närproducerat
+  - rekoproducerat
+  web: https://www.tangagard.se/
+
 - entry: 1230273011
   orgName: Jonstorps Byalag
   orgNumber: 802451-5408
@@ -24651,11 +24661,12 @@ entries:
   web: https://www.grfdans.se/document/grf/foreningar/oresund/
 
 - entry: 1231093574
-  orgName: Hundar längtar hem
+  orgName: Hundar Längtar Hem
   orgNumber: 802535-3825
   comment: Rumänska gatuhundar
   categories:
   - djurskydd
+  - hundadoption
   web: https://hundarlangtarhem.se/
 
 - entry: 1231093590
@@ -28664,6 +28675,15 @@ entries:
   - bygdegårdsförening
   web: https://www.grangsbo.com/
 
+- entry: 1231273085
+  orgName: Pryl 1900 / Mikael Söderlind
+  orgNumber: 760105-XXXX
+  comment: null
+  categories:
+  - antikaffär
+  - dödsbon
+  web: https://pryl1900.se/
+
 - entry: 1231273465
   orgName: Sjöpensionärernas klubb i Göteborg
   orgNumber: 802452-2743
@@ -29058,6 +29078,14 @@ entries:
   categories:
   - religion
   web: https://www.posk.se/motala/
+
+- entry: 1231296789
+  orgName: Rotary Västerås
+  orgNumber: 817606-7158
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://vasteras.rotary2335.se/
 
 - entry: 1231297688
   orgName: Ljudtekniska Sällskapet
@@ -32641,7 +32669,7 @@ entries:
   - skinn
   - ull
   - viltkött
-  - ägg
+  - äggpruducent
   web: https://www.altagarden.se/
 
 - entry: 1231472687
@@ -36450,6 +36478,14 @@ entries:
   - religion
   web: https://psalto.se/
 
+- entry: 1231623727
+  orgName: Uppsala Kommun
+  orgNumber: 212000-3005
+  comment: Boland Snickeri
+  categories:
+  - snickeri
+  web: https://uppsala.se/
+
 - entry: 1231624154
   orgName: Adventisterna i Lund
   orgNumber: 802529-6289
@@ -37192,6 +37228,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/nybrodrill
 
+- entry: 1231666528
+  orgName: Utveckla Örbyhus Tobo och Vendel
+  orgNumber: 802492-4956
+  comment: null
+  categories:
+  - samhällsförening
+  web: https://utvotv.se/
+
 - entry: 1231666635
   orgName: Håknäs Bygdegårdsförening
   orgNumber: 894002-3511
@@ -37336,6 +37380,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/gavle
+
+- entry: 1231670272
+  orgName: JM Kulturer För Hälsa AB
+  orgNumber: 559256-8827
+  comment: null
+  categories:
+  - mejeri
+  - närproducerat
+  - rekoproducerat
+  web: https://sveakefir.se/
 
 - entry: 1231670330
   orgName: Sigge Cykelklubb
@@ -40224,6 +40278,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://ifkgoteborg.se/
+
+- entry: 1231801224
+  orgName: Klövsjö Frivilliga Räddningsvärn
+  orgNumber: 802516-1764
+  comment: null
+  categories:
+  - räddningsvärn
+  web: https://www.facebook.com/p/Kl%C3%B6vsj%C3%B6-R%C3%A4ddningsv%C3%A4rn-100064299867039/
 
 - entry: 1231801935
   orgName: Islamic Centers Församling
@@ -48691,6 +48753,15 @@ entries:
   - religion
   web: https://www.linkopingmoske.se/
 
+- entry: 1232193845
+  orgName: Monicas Bod / Monica Rundgren Svenberg
+  orgNumber: 570207-XXXX
+  comment: null
+  categories:
+  - närproducerat
+  - rekoproducerat
+  web: https://monicasbod.se/
+
 - entry: 1232193902
   orgName: Bröstcancerföreningen Aurora Sörmland
   orgNumber: 818001-1739
@@ -51347,6 +51418,16 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.svenskalag.se/oik
+
+- entry: 1232282598
+  orgName: KornKultur / Lovisa Andersson
+  orgNumber: 770821-XXXX
+  comment: null
+  categories:
+  - bageri
+  - närproducerat
+  - rekoproducerat
+  web: https://www.kornkultur.se/
 
 - entry: 1232282754
   orgName: Björntaget
@@ -56695,6 +56776,17 @@ entries:
   - stiftelse
   web: https://www.ellenbachrachsminnesfond.se/
 
+- entry: 1232559441
+  orgName: Marias Broderier
+  orgNumber: 969786-4370
+  comment: null
+  categories:
+  - brodyr
+  - butikshandel
+  - försäljning
+  - handarbeten
+  web: https://www.mariasbroderier.com/
+
 - entry: 1232559672
   orgName: Viking HC
   orgNumber: 802419-0335
@@ -59287,7 +59379,7 @@ entries:
 - entry: 1232677763
   orgName: Vår Bästa Vän AB
   orgNumber: 559021-7161
-  comment: null
+  comment: Hundpodden
   categories:
   - media production
   - podcast
@@ -60077,6 +60169,15 @@ entries:
   - intresseförening
   - patientorganisation
   web: https://www.alzheimersverige.se/
+
+- entry: 1232701233
+  orgName: Föreningen Supermiljöbloggen
+  orgNumber: 802475-9089
+  comment: null
+  categories:
+  - alternativa media
+  - intresseförening
+  web: https://supermiljobloggen.se/
 
 - entry: 1232701266
   orgName: Emmaboda Visförening
@@ -61067,6 +61168,16 @@ entries:
   - ridsport
   - ryttarsällskap
   web: https://landvetterrs.se/
+
+- entry: 1232743730
+  orgName: Öster Grytinge Gård AB
+  orgNumber: 559555-4964
+  comment: null
+  categories:
+  - lantbruk
+  - närproducerat
+  - rekoproducerat
+  web: https://www.facebook.com/ostergrytinge/
 
 - entry: 1232745016
   orgName: ÖIS Supporterklubb Balders Hage
@@ -63362,6 +63473,15 @@ entries:
   - skidlöparklubb
   web: https://www.laget.se/HebyAIF/
 
+- entry: 1232828333
+  orgName: Bygdsam Gideälvdal
+  orgNumber: 769634-6555
+  comment: null
+  categories:
+  - bygdegårdsförening
+  - samhällsförening
+  web: https://www.bygdsamgidealvdal.se/
+
 - entry: 1232828580
   orgName: Polisens Pensionärsklubb i Umeå
   orgNumber: 802453-3500
@@ -65386,6 +65506,14 @@ entries:
   - kamratförening
   web: https://flottansman.se/vaxjo/
 
+- entry: 1232928059
+  orgName: Reko Trafikskola Sverige AB
+  orgNumber: 559252-8607
+  comment: null
+  categories:
+  - trafikskola
+  web: https://rekotrafikskola.se/
+
 - entry: 1232929164
   orgName: Filipstads Simklubb
   orgNumber: 872400-2418
@@ -66416,7 +66544,7 @@ entries:
   - jordbruk
   - närproducerat
   - rekoproducerat
-  - ägg
+  - äggpruducent
   web: https://www.facebook.com/p/Pullans-h%C3%B6nseri-100066445215922/
 
 - entry: 1232989770
@@ -66880,6 +67008,17 @@ entries:
   - intresseorganisation
   - juridik
   web: https://www.icj-sweden.org/
+
+- entry: 1233010717
+  orgName: Innegårds Hjortfarm / Anette Bergsman
+  orgNumber: 630812-XXXX
+  comment: null
+  categories:
+  - gårdsförsäljning
+  - köttproducent
+  - lantbruk
+  - viltkött
+  web: https://innegardshjortfarm.n.nu/
 
 - entry: 1233010972
   orgName: Lysekils HK
@@ -71031,6 +71170,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/ludvika
 
+- entry: 1233199015
+  orgName: Green & Grejerna / Gunilla Green
+  orgNumber: 481108-XXXX
+  comment: null
+  categories:
+  - fairtrade
+  web: https://www.greenochgrejerna.com/
+
 - entry: 1233199114
   orgName: Shelterbox Sverige
   orgNumber: 802477-0987
@@ -73324,6 +73471,14 @@ entries:
   - naturvård
   web: https://www.skymining.com/
 
+- entry: 1233303799
+  orgName: Rotary Karlskoga-Nobel
+  orgNumber: 876400-2955
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://karlskoga-nobel.rotary2335.se/
+
 - entry: 1233304060
   orgName: Sandhems IF
   orgNumber: 867200-1586
@@ -74023,6 +74178,17 @@ entries:
   categories:
   - rotaryklubb
   web: https://simrishamn.rotary2395.se/
+
+- entry: 1233347234
+  orgName: Stenbäcks Vardagsrum AB
+  orgNumber: 559500-6551
+  comment: Mackan i Lenhovda
+  categories:
+  - bageri
+  - catering
+  - närproducerat
+  - rekoproducerat
+  web: https://www.facebook.com/p/Mackan-i-Lenhovda-61571537740083/
 
 - entry: 1233348109
   orgName: Trosabygdens Konstförening
@@ -75503,6 +75669,14 @@ entries:
   - snöskoterklubb
   web: https://www.rck.se/
 
+- entry: 1233397403
+  orgName: Rotary Kristinehamn Bro
+  orgNumber: 802505-7061
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://kristinehamn-bro.rotary2335.se/
+
 - entry: 1233397437
   orgName: Avesta BK
   orgNumber: 982000-1668
@@ -76604,6 +76778,14 @@ entries:
   - golfklubb
   web: https://www.glumslovgolf.com/
 
+- entry: 1233451804
+  orgName: VI Konsumenter
+  orgNumber: 802428-0680
+  comment: null
+  categories:
+  - konsumentorganisation
+  web: https://www.vikonsumenter.org/
+
 - entry: 1233451978
   orgName: Anderssons Begravningsbyrå
   orgNumber: 556197-2141
@@ -76834,6 +77016,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.eik.se/
+
+- entry: 1233457009
+  orgName: Rotary Bollnäs
+  orgNumber: 886500-7788
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://bollnas.rotary2335.se/
 
 - entry: 1233457116
   orgName: Anhörigförening Göteborg
@@ -84253,6 +84443,16 @@ entries:
   - innebandyklubb
   web: https://www.vib.se/
 
+- entry: 1233799012
+  orgName: Berga Husby-Oppunda AB
+  orgNumber: 556759-9179
+  comment: null
+  categories:
+  - köttproducent
+  - närproducerat
+  - rekoproducerat
+  web: https://bergahusby.se/
+
 - entry: 1233799053
   orgName: Skoterdårarnas förening
   orgNumber: 510807-XXXX
@@ -85151,6 +85351,17 @@ entries:
   - hundsport
   - kennelklubb
   web: https://www.odeshogskennelklubb.se/
+
+- entry: 1233842226
+  orgName: Morsgården / Zuzanna Hedlund
+  orgNumber: 960324-XXXX
+  comment: null
+  categories:
+  - lantbruk
+  - närproducerat
+  - rekoproducerat
+  - äggpruducent
+  web: https://www.morsgarden.se/
 
 - entry: 1233844271
   orgName: Ringarums IF
@@ -91989,6 +92200,17 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1234177887
+  orgName: Lilla jorden / Flipdock AB
+  orgNumber: 559286-1651
+  comment: null
+  categories:
+  - lantbruk
+  - närproducerat
+  - rekoproducerat
+  - äggpruducent
+  web: https://www.lillajorden.se/
+
 - entry: 1234177929
   orgName: Onyx Innebandy
   orgNumber: 819001-3154
@@ -97658,6 +97880,16 @@ entries:
   - volontärsuppdrag
   web: https://www.fikk.se/
 
+- entry: 1234459897
+  orgName: Lindbacken Gård / Sanna Lindvall
+  orgNumber: 970813-XXXX
+  comment: null
+  categories:
+  - lantbruk
+  - närproducerat
+  - rekoproducerat
+  web: https://lindbackengard.se/
+
 - entry: 1234462297
   orgName: Joakim Løvgren - Historical Riding
   orgNumber: 890612-XXXX
@@ -101139,7 +101371,10 @@ entries:
   comment: null
   categories:
   - gårdsförsäljning
+  - lantbruk
   - lokalproducerat
+  - närproducerat
+  - rekoproducerat
   web: https://www.rospiggorna.se/
 
 - entry: 1234622635
@@ -101323,6 +101558,14 @@ entries:
   - donation
   - kvinnojour
   web: https://www.unizonjourer.se/kvinnojourenhalmstad/
+
+- entry: 1234639845
+  orgName: Hjälshammar-Nöbbele Bygdegårdsförening
+  orgNumber: 802434-1755
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://www.hjalshammarbygdegard.se/
 
 - entry: 1234640686
   orgName: Romfartuna Ved AB
@@ -104597,6 +104840,17 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/brosk
+
+- entry: 1234798153
+  orgName: Jönssons Närprodukter / Anders Jönsson
+  orgNumber: 610113-XXXX
+  comment: null
+  categories:
+  - lantbruk
+  - närproducerat
+  - potatisproducent
+  - rekoproducerat
+  web: https://www.facebook.com/jonssonsnarprodukter/
 
 - entry: 1234803029
   orgName: Billdal Taekwon-Do
@@ -114816,6 +115070,14 @@ entries:
   - ishockeyklubb
   web: https://www.laget.se/PHChockeyskola/
 
+- entry: 1235278676
+  orgName: Rotary Falun-Lugnet
+  orgNumber: 883202-5566
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://falun-lugnet.rotary2335.se/
+
 - entry: 1235278759
   orgName: Sörgårdskyrkan i Ryd
   orgNumber: 826000-2913
@@ -116952,6 +117214,16 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/torpabygdegard/
 
+- entry: 1235381892
+  orgName: Svenska Russavelsföreningen
+  orgNumber: 834001-4771
+  comment: null
+  categories:
+  - hästavel
+  - hästsport
+  - hästuppfödning
+  web: https://www.gotlandsruss.se/
+
 - entry: 1235381991
   orgName: Araslövs Församling
   orgNumber: 252002-8818
@@ -116977,6 +117249,14 @@ entries:
   - byggnation
   - renovering
   web: https://lahtigroup.se/
+
+- entry: 1235382353
+  orgName: Klövsjö Nya Bygdegårdsförening
+  orgNumber: 892600-1085
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://www.facebook.com/p/Kl%C3%B6vsj%C3%B6-Bygdeg%C3%A5rd-100064500763539/
 
 - entry: 1235382411
   orgName: Västerviks biodlarförening
@@ -125780,6 +126060,16 @@ entries:
   - rotaryklubb
   web: https://eslov-sallerup.rotary2390.se/
 
+- entry: 1235753058
+  orgName: Archipelago Coffee
+  orgNumber: 559093-9962
+  comment: null
+  categories:
+  - kafferosteri
+  - närproducerat
+  - rekoproducerat
+  web: https://archipelago.coffee/
+
 - entry: 1235753645
   orgName: Yoga by Sandra Adrian / Sandra Adrian
   orgNumber: 751206-XXXX
@@ -128990,6 +129280,16 @@ entries:
   - idrottsförening
   web: https://www.tvaakersif.se/
 
+- entry: 1235902986
+  orgName: Franzéns Charkuterier / Kristofer Franzén
+  orgNumber: 650419-XXXX
+  comment: null
+  categories:
+  - charkuteri
+  - närproducerat
+  - rekoproducerat
+  web: https://franzenscharkuterier.se/
+
 - entry: 1235903000
   orgName: Sigtuna Alpina Klubb
   orgNumber: 802470-0190
@@ -129421,6 +129721,15 @@ entries:
   - estetisk tandkirurgi
   - tandläkare
   web: https://bandhagendental.se/
+
+- entry: 1235930110
+  orgName: Pizzeria Mona Lisa i Jonstorp / Sulaiman Khairi
+  orgNumber: 810101-XXXX
+  comment: null
+  categories:
+  - pizzeria
+  - restaurant
+  web: https://monalisajonstorp.se/
 
 - entry: 1235930169
   orgName: PRO Munka Ljungby
@@ -133919,6 +134228,14 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1236141097
+  orgName: Rotary Ludvika
+  orgNumber: 802487-5729
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://ludvika.rotary2335.se/
+
 - entry: 1236141337
   orgName: Uddevalla Golfklubb
   orgNumber: 858500-9684
@@ -134433,6 +134750,8 @@ entries:
   - djuruppfödning
   - försäljning
   - gårdsförsäljning
+  - lantbruk
+  - närproducerat
   web: https://gangemad.se/
 
 - entry: 1236157648
@@ -140823,6 +141142,14 @@ entries:
   - lantbruk
   web: https://frojdsgrona.se/
 
+- entry: 1236449029
+  orgName: Rotary Sandviken
+  orgNumber: 802416-6061
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://sandviken.rotary2335.se/
+
 - entry: 1236449219
   orgName: Ängelholms Ekumeniska Församling
   orgNumber: 839400-6590
@@ -141129,6 +141456,18 @@ entries:
   categories:
   - förlag
   web: https://www.anomar-forlag.se/
+
+- entry: 1236463731
+  orgName: Äggboden / Daniel Swartling
+  orgNumber: 700312-XXXX
+  comment: null
+  categories:
+  - gårdsförsäljning
+  - lantbruk
+  - närproducerat
+  - rekoproducerat
+  - äggpruducent
+  web: https://www.facebook.com/p/%C3%84ggboden-100063793113309/
 
 - entry: 1236464309
   orgName: Team Rynkeby
@@ -144127,6 +144466,15 @@ entries:
   - katthem
   web: https://www.djurskyddet.se/bollnasovanaker/
 
+- entry: 1236605547
+  orgName: Svampverket / Mycotopia AB
+  orgNumber: 559385-3012
+  comment: null
+  categories:
+  - närproducerat
+  - rekoproducerat
+  web: https://svampverket.se/
+
 - entry: 1236605919
   orgName: Kultur och Guidegruppen i Karlholm
   orgNumber: 802423-1568
@@ -144194,6 +144542,15 @@ entries:
   categories:
   - föräldraförening
   web: https://www.facebook.com/smygeff
+
+- entry: 1236609630
+  orgName: Lödöse Musteri AB
+  orgNumber: 559216-6267
+  comment: null
+  categories:
+  - musteri
+  - närproducerat
+  web: https://lodosemusteri.se/
 
 - entry: 1236611958
   orgName: Alingsås Padel Club
@@ -144396,6 +144753,14 @@ entries:
   - byalag
   - bygdegårdsförening
   web: https://smedstorp.se/
+
+- entry: 1236623599
+  orgName: Rotary Falun-Kopparvågen
+  orgNumber: 802446-1561
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://falun-kopparvagen.rotary2335.se/
 
 - entry: 1236623839
   orgName: Guldtassens Trim & Hund Spa / Anette Hissing
@@ -149216,6 +149581,7 @@ entries:
   - keramik
   - konst
   - konsthantverk
+  - närproducerat
   web: https://www.ospreysweden.se/
 
 - entry: 1236821482
@@ -150797,6 +151163,19 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/snostorp
+
+- entry: 1236900575
+  orgName: Carlsson & Co AB
+  orgNumber: 556477-2340
+  comment: null
+  categories:
+  - butikshandel
+  - försäljning
+  - maskinverkstad
+  - skogsbruksmaskiner
+  - skogsmaskiner
+  - släpvagnar
+  web: https://www.carlsson-co.se/
 
 - entry: 1236900856
   orgName: Skara Senioruniversitet
@@ -152766,6 +153145,14 @@ entries:
   categories:
   - lokalradio
   web: https://www.kanonfm.com/
+
+- entry: 1236984231
+  orgName: Rotary Järvsö
+  orgNumber: 802525-2829
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://jarvso.rotary2335.se/
 
 - entry: 1236985543
   orgName: Lymf Sverige
