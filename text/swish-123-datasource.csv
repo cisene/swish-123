@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-01-26-rev-202851
+# Date: 2026-01-31-rev-121600
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -7609,7 +7609,7 @@
 "1233048162","761218-XXXX","Fröken Nilssons Hälsa / Annica Nilsson","https://frokennilssonshalsa.se/","andningsteknik,massage",""
 "1233048204","802474-6011","Allianskyrkan i Västerås","https://kyrktorget.se/allianskyrkanvasteras","religion",""
 "1233048212","802454-3517","Noaks Ark Stockholm","https://noaksark.org/stockholm/","hjälporganisation,sociala insatser",""
-"1233048469","802412-6016","Norråva Golfklubb","https://www.norravagk.se/","golfklubb",""
+"1233048469","802412-6016","Norråva Golfklubb","https://www.norravagk.se/","golfbana,golfklubb",""
 "1233048477","857201-2550","Göteborgs National Dans Sällskap, GNDS","http://gnds.org/","dansförening,danssällskap",""
 "1233048535","737600-1397","Kvidinge Folketshusförening","https://kvidinge-folketshus.se/","folketshus,intresseförening",""
 "1233048550","671111-XXXX","Annelis Hundtjänst / Anneli Johansson","https://annelishundtjanst.se/","djurvård,valpkurs",""
@@ -9242,6 +9242,7 @@
 "1233703493","836201-1853","Sölvesborgs Trädgårdsförening","http://solvesborgstradgardsforening.se/","förening,trädgårdsförening",""
 "1233703568","702001-9209","Bostadsrättsföreningen Siljan i Stockholm","https://www.brfsiljan.se/","bostadsrättsförening",""
 "1233703691","802499-0213","Hindås station Bygdegårdsförening","https://www.hindasstation.se/","bygdegårdsförening",""
+"1233704053","802421-3954","Katedralens Vänner","http://www.katedralensvänner.se/","gymnasieskola,skola",""
 "1233704830","898801-0636","Öjebyns IBF","https://www.laget.se/OjebynsIBF/","idrottsförening,innebandyklubb","Herrsektionen"
 "1233704897","864501-4245","Borås Bågskyttesällskap","https://www.borasbs.se/","bågskytteklubb,idrottsförening",""
 "1233705175","802469-2280","KFUK-KFUM Uppsala Aikidoklubb","https://uppsalaaikido.sportadmin.se/","aikidoklubb,idrottsförening,kampsportsförening",""

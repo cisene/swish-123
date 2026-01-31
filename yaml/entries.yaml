@@ -69746,6 +69746,7 @@ entries:
   orgNumber: 802412-6016
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.norravagk.se/
 
@@ -84660,6 +84661,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://www.hindasstation.se/
+
+- entry: 1233704053
+  orgName: Katedralens Vänner
+  orgNumber: 802421-3954
+  comment: null
+  categories:
+  - gymnasieskola
+  - skola
+  web: http://www.katedralensvänner.se/
 
 - entry: 1233704830
   orgName: Öjebyns IBF
