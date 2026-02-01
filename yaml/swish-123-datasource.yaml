@@ -92585,6 +92585,15 @@ entries:
   - stiftelse
   web: https://charitybyfriendship.org/
 
+- entry: 1234182937
+  orgName: Svenska Röda Korset
+  orgNumber: 812800-3335
+  comment: Botkyrk Rödakorskrets
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/stockholm/botkyrka-kommun/
+
 - entry: 1234183190
   orgName: Odensjö Församling
   orgNumber: 252000-6996
@@ -106672,6 +106681,15 @@ entries:
   categories:
   - förskola
   web: https://www.juvelernashus.se/
+
+- entry: 1234907218
+  orgName: AIK Fotboll
+  orgNumber: 556520-1190
+  comment: Svartgula Fonden
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.aikfotboll.se/
 
 - entry: 1234910147
   orgName: Leksands Konstsällskap

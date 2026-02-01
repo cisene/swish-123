@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-01-31-rev-121610
+# Date: 2026-02-01-rev-184338
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -10344,6 +10344,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234182648	802411-1786	Chabad Lubavitch Stockholm	https://www.chabadstockholm.com/	religion	
 1234182754	847000-4337	Höllvikens Boxningsklubb	https://www.hollvikenboxning.se/	boxningsklubb,idrottsförening	
 1234182804	802477-4575	Charity by Friendship Stiftelse	https://charitybyfriendship.org/	donation,stiftelse	
+1234182937	812800-3335	Svenska Röda Korset	https://www.rodakorset.se/ort/stockholm/botkyrka-kommun/	hjälporganisation,rödakorset	Botkyrk Rödakorskrets
 1234183190	252000-6996	Odensjö Församling	https://www.svenskakyrkan.se/ljungby/odensjo-forsamling	religion	Kollekt
 1234183208	802496-1636	Munskänkarna Kunsholmen	https://www.munskankarna.se/sv/regioner/stor-stockholm-sodra/kungsholmen/	vinprovning	
 1234183224	802001-5668	Immanuelskyrkans Församling	https://www.immanuel.se/	religion	Svenska verksamheten
@@ -11912,6 +11913,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234904512	898801-0636	Öjebyns IBF	https://www.laget.se/OjebynsIBF/	idrottsförening,innebandyklubb	F11/F12
 1234905329	802007-4301	GojuKai KarateDo Stockholm	https://stockholm.gojukai.se/	idrottsförening,kampsportsförening,karateklubb	
 1234905725	559131-6731	Juvelernas Hus AB	https://www.juvelernashus.se/	förskola	
+1234907218	556520-1190	AIK Fotboll	https://www.aikfotboll.se/	fotbollsklubb,idrottsförening	Svartgula Fonden
 1234910147	883201-7688	Leksands Konstsällskap	https://leksandskonstsallskap.se/	konstförening	
 1234910691	802523-8836	Tokarp Gräshagens IF	https://www.svenskalag.se/tokarpgrashagensif	fotbollsklubb,idrottsförening,motionsklubb,pickleballklubb	
 1234911582	802536-6405	Svenska Vägtekniska Föreningen	https://www.svtf.net/	intresseförening	
