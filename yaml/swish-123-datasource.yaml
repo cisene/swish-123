@@ -11357,6 +11357,7 @@ entries:
   - butikshandel
   - catering
   - restaurant
+  - vinprovning
   web: https://lannabokcafe.se/
 
 - entry: 1230504761
@@ -39402,6 +39403,16 @@ entries:
   - sportklubb
   web: https://www.laget.se/LSKHandboll/
 
+- entry: 1231756485
+  orgName: Rockdale Natur- och Kulturupplevelser
+  orgNumber: 769627-1167
+  comment: null
+  categories:
+  - guidade turer
+  - kulturupplevelser
+  - naturupplevelser
+  web: https://www.rockdale.se/
+
 - entry: 1231756717
   orgName: S:t Lukas Uppsala
   orgNumber: 817600-9309
@@ -44383,6 +44394,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/IlsboSK1/
+
+- entry: 1231988765
+  orgName: Svenskt Forum för Medling och konflikthantering
+  orgNumber: 857208-9624
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.s-f-m.se/
 
 - entry: 1231988807
   orgName: Lidköpings Biodlareförening
@@ -63659,6 +63678,15 @@ entries:
   - motorbåtsklubb
   web: https://www.hammarbyledensmbk.one/
 
+- entry: 1232834034
+  orgName: Jurist Stöd 1.6180 AB
+  orgNumber: 559517-6859
+  comment: null
+  categories:
+  - juridisk rådgivning
+  - juristbyrå
+  web: https://www.juriststod.com/
+
 - entry: 1232834745
   orgName: Smiling Dog Kungsholmen
   orgNumber: 559475-7832
@@ -73822,7 +73850,7 @@ entries:
   web: https://www.facebook.com/groups/2135239593221333
 
 - entry: 1233318219
-  orgName: Med Israel för fred, MIFF Sverige
+  orgName: Med Israel För Fred, MIFF Sverige
   orgNumber: 502086-8955
   comment: null
   categories:
@@ -84622,6 +84650,16 @@ entries:
   - idrottsförening
   web: https://www.hvetlandagymnastikforening.se/
 
+- entry: 1233800679
+  orgName: Marina Drozdova Juristbyrå AB
+  orgNumber: 559242-3098
+  comment: null
+  categories:
+  - advokatbyrå
+  - juridiska tjänster
+  - juristbyrå
+  web: https://www.drozdova.se/
+
 - entry: 1233800745
   orgName: Vintrosa IS
   orgNumber: 875001-7983
@@ -92405,6 +92443,15 @@ entries:
   - rullskidklubb
   - skidlöparklubb
   web: https://www.instagram.com/finnskogarnassk/
+
+- entry: 1234179461
+  orgName: Advokat Matilda Wetterlöf AB
+  orgNumber: 559405-2358
+  comment: null
+  categories:
+  - advokatbyrå
+  - juridiska tjänster
+  web: https://www.advokatmw.se/
 
 - entry: 1234180139
   orgName: Bosebo Församling
@@ -105886,6 +105933,15 @@ entries:
   categories:
   - kamratförening
   web: https://marinkamraterna.se/karlskrona/
+
+- entry: 1234841797
+  orgName: Danderyds SK Fotbollsförening
+  orgNumber: 816400-3132
+  comment: P14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/dsk-fotboll
 
 - entry: 1234841805
   orgName: Svenska Dartmoorsällskapet
@@ -133073,6 +133129,15 @@ entries:
   - kvinnojour
   web: https://www.unizonjourer.se/kvinnojourenkaprifolen/
 
+- entry: 1236079511
+  orgName: Trattoria Da Moni AB
+  orgNumber: 559444-2039
+  comment: null
+  categories:
+  - restaurant
+  - vinprovning
+  web: https://www.trattoriadamoni.com/
+
 - entry: 1236082408
   orgName: Wikmans Buss AB
   orgNumber: 556395-1614
@@ -148007,6 +148072,16 @@ entries:
   - utbildning
   web: https://www.kangosskola.se/
 
+- entry: 1236742829
+  orgName: Advokatkontoret i Övik AB
+  orgNumber: 559172-1146
+  comment: null
+  categories:
+  - advokatbyrå
+  - juridiska tjänster
+  - notarius publicus
+  web: https://advokatkontoret.se/
+
 - entry: 1236743017
   orgName: EFS Missionsförening i Luleå
   orgNumber: 897000-2138
@@ -148306,6 +148381,15 @@ entries:
   - flygsport
   - sportflyg
   web: https://www.bfk.nu/
+
+- entry: 1236755730
+  orgName: Eisen Rights Advokatbyrå
+  orgNumber: 559160-9150
+  comment: null
+  categories:
+  - advokatbyrå
+  - juridiska tjänster
+  web: https://www.eisenrights.se/
 
 - entry: 1236757918
   orgName: Team Rynkeby
