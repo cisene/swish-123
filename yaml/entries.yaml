@@ -3143,6 +3143,16 @@ entries:
   - scoutkår
   web: https://svenljunga.scout.se/
 
+- entry: 1230161950
+  orgName: Föreningen Bernadotte-Musei Vänner
+  orgNumber: 813600-0075
+  comment: null
+  categories:
+  - intresseförening
+  - museum
+  - vänförening
+  web: https://www.bernadottemuseivanner.se/
+
 - entry: 1230164566
   orgName: Malmbergets Allmänna Idrottsförening
   orgNumber: 897900-0646
@@ -3429,6 +3439,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/krakshults
+
+- entry: 1230181586
+  orgName: Lesbisk Makt
+  orgNumber: 802475-5921
+  comment: null
+  categories:
+  - intresseförening
+  web: https://lesbiskmakt.nu/
 
 - entry: 1230181917
   orgName: Olsängsgården
@@ -10854,6 +10872,16 @@ entries:
   - ridklubb
   web: https://stall-annika.se/
 
+- entry: 1230474387
+  orgName: Din Jurist Järfälla AB
+  orgNumber: 556979-4778
+  comment: null
+  categories:
+  - juridiska tjänster
+  - juristbyrå
+  - notarius publicus
+  web: https://www.juristjarfalla.se/
+
 - entry: 1230474437
   orgName: Djurskyddet Skellefteå
   orgNumber: 802453-1793
@@ -12753,6 +12781,14 @@ entries:
   categories:
   - pantbank
   web: https://panta.nu/
+
+- entry: 1230562074
+  orgName: Rotary Wisborg
+  orgNumber: 834001-1249
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/15610/
 
 - entry: 1230562280
   orgName: Föreningen Albatrossmuseet
@@ -23438,6 +23474,7 @@ entries:
   comment: null
   categories:
   - juridiska tjänster
+  - notarius publicus
   web: https://www.visumpartner.se/
 
 - entry: 1231007855
@@ -27513,6 +27550,16 @@ entries:
   - jaktutrustning
   - vapenvård
   web: https://asonjakt.se/
+
+- entry: 1231193002
+  orgName: Insamlingsstiftelsen Isaak & Isaak
+  orgNumber: 802482-6987
+  comment: null
+  categories:
+  - donation
+  - intresseförening
+  - stiftelse
+  web: https://isaakisaak.com/
 
 - entry: 1231196708
   orgName: Lizas Britzellis Stiftelse
@@ -35236,9 +35283,9 @@ entries:
   web: https://www.westiesyd.se/
 
 - entry: 1231524958
-  orgName: Ingen Människa är Illegal - Stockholm
+  orgName: Ingen Människa är Illegal
   orgNumber: 802432-2292
-  comment: null
+  comment: Stockholm
   categories:
   - intresseförening
   web: https://www.ingenillegal.org/stockholm/
@@ -35633,7 +35680,7 @@ entries:
   web: https://www.christchurchumea.com/
 
 - entry: 1231552967
-  orgName: Uppsala tjej- och transjour
+  orgName: Uppsala Tjej- och Transjour
   orgNumber: 802430-8283
   comment: null
   categories:
@@ -35737,6 +35784,7 @@ entries:
   categories:
   - advokatbyrå
   - juridiska tjänster
+  - notarius publicus
   web: https://www.centrumadvokaterna.se/
 
 - entry: 1231555705
@@ -37294,6 +37342,14 @@ entries:
   - donation
   web: https://hundarutanhem.se/
 
+- entry: 1231616432
+  orgName: Landskrona Stad
+  orgNumber: 212000-1140
+  comment: Borgerlig vigsel
+  categories:
+  - kommun
+  web: https://www.landskrona.se/
+
 - entry: 1231616572
   orgName: Dyröns Samhällsförening
   orgNumber: 857209-4061
@@ -38595,6 +38651,15 @@ entries:
   - religion
   - stiftelse
   web: null
+
+- entry: 1231686104
+  orgName: Vävra Musik o Kulturförening
+  orgNumber: 802507-5642
+  comment: null
+  categories:
+  - kulturförening
+  - musikförening
+  web: https://www.vavra-mok.se/
 
 - entry: 1231686997
   orgName: Brottsofferjouren Växjö
@@ -54089,6 +54154,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/HKEskil/
 
+- entry: 1232326254
+  orgName: Rotary Nyköping
+  orgNumber: 817605-6474
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/15675/
+
 - entry: 1232326395
   orgName: Orsa Församling
   orgNumber: 252002-2613
@@ -61376,6 +61449,15 @@ entries:
   - ishockeyklubb
   web: https://www.svenskalag.se/hv71
 
+- entry: 1232691434
+  orgName: Riddarhuset
+  orgNumber: 802002-8018
+  comment: Palatsfonden
+  categories:
+  - genealogi
+  - intresseförening
+  web: https://www.riddarhuset.se/
+
 - entry: 1232692598
   orgName: Ulricehamns IF
   orgNumber: 865500-3385
@@ -67244,6 +67326,14 @@ entries:
   - simsällskap
   web: https://www.filipstadsk.com/
 
+- entry: 1232929412
+  orgName: Upplands-Bro Kommun
+  orgNumber: 212000-0100
+  comment: Allmänna handlingar
+  categories:
+  - kommun
+  web: https://www.upplands-bro.se/
+
 - entry: 1232929421
   orgName: Pingstförsamlingen i Kalix
   orgNumber: 898200-0120
@@ -70639,6 +70729,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1233081197
+  orgName: Springlidens Byaförening
+  orgNumber: 894701-5833
+  comment: null
+  categories:
+  - byaförening
+  - byalag
+  web: https://springliden.se/
+
 - entry: 1233081866
   orgName: null
   orgNumber: null
@@ -71908,6 +72007,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/Sandby/
 
+- entry: 1233133972
+  orgName: Elsa Karlstad
+  orgNumber: 802519-7396
+  comment: null
+  categories:
+  - studentkår
+  - studentorganisation
+  web: https://karlstad.elsasweden.org/
+
 - entry: 1233134053
   orgName: null
   orgNumber: null
@@ -72462,6 +72570,14 @@ entries:
   - dansband
   - orkester
   web: https://www.facebook.com/Orientorkester/
+
+- entry: 1233160959
+  orgName: Dals-Eds Kommun
+  orgNumber: 212000-1413
+  comment: null
+  categories:
+  - kommun
+  web: https://www.dalsed.se/
 
 - entry: 1233162088
   orgName: Gävle Församling
@@ -80414,6 +80530,14 @@ entries:
   - reumatikerförening
   web: https://lidkoping.reumatiker.se/
 
+- entry: 1233510162
+  orgName: Vimmerby Kommun
+  orgNumber: 212000-0787
+  comment: null
+  categories:
+  - kommun
+  web: https://www.vimmerby.se/
+
 - entry: 1233510351
   orgName: Konsertföreningen Tingsryd
   orgNumber: 829501-9676
@@ -84270,6 +84394,15 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://brfarken.bostadsratterna.se/
+
+- entry: 1233678117
+  orgName: Flow Girl
+  orgNumber: 802533-5533
+  comment: null
+  categories:
+  - hjälporganisation
+  - intresseförening
+  web: https://www.flowgirl.se/
 
 - entry: 1233678463
   orgName: Chante Massage AB
@@ -90796,6 +90929,16 @@ entries:
   - byalag
   - bygdegårdsförening
   web: https://bygdegardarna.se/barkhyttan/
+
+- entry: 1233969367
+  orgName: Transammans
+  orgNumber: 802498-3085
+  comment: null
+  categories:
+  - intresseförening
+  - nätverk
+  - transsexualitet
+  web: https://transammans.se/
 
 - entry: 1233969383
   orgName: Mjölby CK
@@ -118753,6 +118896,15 @@ entries:
   categories: null
   web: null
 
+- entry: 1235306519
+  orgName: Advokatfirman Mathias Wiberg AB
+  orgNumber: 559015-4497
+  comment: null
+  categories:
+  - advokatbyrå
+  - notarius publicus
+  web: null
+
 - entry: 1235306568
   orgName: MSPS Skytteklubb
   orgNumber: 802527-4583
@@ -131685,6 +131837,15 @@ entries:
   - insamling
   - ukraina
   web: https://www.facebook.com/tjornshjalptillukraina
+
+- entry: 1235860416
+  orgName: Notarium Sverige AB
+  orgNumber: 559394-5172
+  comment: null
+  categories:
+  - juridiska tjänster
+  - notarius publicus
+  web: https://notarium.se/
 
 - entry: 1235861257
   orgName: Kyriotetespodden
