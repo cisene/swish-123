@@ -378,10 +378,11 @@ entries:
   web: https://www.svenskalag.se/sovdeborgsjsk
 
 - entry: 1230011486
-  orgName: Munkskänkarna Norrköping
+  orgName: Munskänkarna
   orgNumber: 825003-9198
-  comment: null
+  comment: Norrköping
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/ostra/norrkoping/
 
@@ -3440,6 +3441,7 @@ entries:
   orgNumber: 802454-0513
   comment: Lysekil
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/vastkusten/lysekil/
 
@@ -10094,6 +10096,7 @@ entries:
   orgNumber: 802417-5674
   comment: Trosa
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/ostra/trosa/
 
@@ -11100,6 +11103,7 @@ entries:
   orgNumber: 802514-4976
   comment: Luleå Stålstaden
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/norrbotten/lulea-stalstaden/
 
@@ -12893,10 +12897,11 @@ entries:
   web: https://www.fjallstugan.se/
 
 - entry: 1230569129
-  orgName: Munskänkarna Lidköping
+  orgName: Munskänkarna
   orgNumber: 802506-0370
-  comment: null
+  comment: Lidköping
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/skaraborg/lidkoping/
 
@@ -21729,10 +21734,11 @@ entries:
   web: https://stadahem.nu/
 
 - entry: 1230952515
-  orgName: Munskänkarna Torekov
+  orgName: Munskänkarna
   orgNumber: 839401-1350
-  comment: null
+  comment: Torekov
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/skane/torekov/
 
@@ -24790,14 +24796,16 @@ entries:
   orgNumber: 802423-2871
   comment: Skaftö
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/vastkusten/skafto/
 
 - entry: 1231093731
-  orgName: Munskänkarna Kullabygden
+  orgName: Munskänkarna
   orgNumber: 802494-2602
-  comment: null
+  comment: Kullabygden
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/skane/kullabygden/
 
@@ -28609,6 +28617,7 @@ entries:
   orgNumber: 802411-1299
   comment: Saltsjöbaden
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/stor-stockholm-sodra/saltsjobaden/
 
@@ -36967,6 +36976,7 @@ entries:
   orgNumber: 802452-6827
   comment: Örebro
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/malardalen/orebro/
 
@@ -44800,10 +44810,11 @@ entries:
   web: https://www.svenskalag.se/VankivaIF
 
 - entry: 1231997147
-  orgName: Munskänkarna Arvika
+  orgName: Munskänkarna
   orgNumber: 802431-1881
-  comment: null
+  comment: Arvika
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/varmland/arvika/
 
@@ -52498,10 +52509,11 @@ entries:
   web: https://arbogamuseum.se/
 
 - entry: 1232309425
-  orgName: Munskänkarna Gislaved
+  orgName: Munskänkarna
   orgNumber: 828500-5792
-  comment: null
+  comment: Gislaved
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/sydvastra/gislaved/
 
@@ -56302,6 +56314,7 @@ entries:
   orgNumber: 802492-0509
   comment: Emmaboda
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/sydostra/emmaboda/
 
@@ -68901,10 +68914,11 @@ entries:
   web: https://stamning.se/
 
 - entry: 1233069754
-  orgName: Munskänkarna Södertälje
+  orgName: Munskänkarna
   orgNumber: 802459-6531
-  comment: null
+  comment: Södertälje
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/stor-stockholm-sodra/sodertalje/
 
@@ -78464,6 +78478,7 @@ entries:
   orgNumber: 802492-4774
   comment: Hjo
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/skaraborg/hjo/
 
@@ -79022,6 +79037,7 @@ entries:
   orgNumber: 862000-9350
   comment: Ulricehamn
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/sydvastra/ulricehamn/
 
@@ -82679,6 +82695,7 @@ entries:
   orgNumber: 868401-0880
   comment: Skara
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/skaraborg/skara/
 
@@ -83396,6 +83413,7 @@ entries:
   orgNumber: 802506-0925
   comment: Strömstad
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/vastkusten/stromstad/
 
@@ -83430,6 +83448,7 @@ entries:
   orgNumber: 802434-6432
   comment: Steneby
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/vastkusten/steneby/
 
@@ -84336,6 +84355,7 @@ entries:
   orgNumber: 802431-8365
   comment: Nyköping
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/ostra/nykoping/
 
@@ -87896,10 +87916,11 @@ entries:
   web: https://www.lindome-bk.com/
 
 - entry: 1233935350
-  orgName: Munskänkarna Åkersberga
+  orgName: Munskänkarna
   orgNumber: 802549-1864
-  comment: null
+  comment: Åkersberga
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/stor-stockholm-norra/akersberga/
 
@@ -89949,6 +89970,7 @@ entries:
   orgNumber: 802467-7430
   comment: Skövde
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/skaraborg/skovde/
 
@@ -90376,6 +90398,7 @@ entries:
   orgNumber: 862501-3266
   comment: Sotenäs
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/vastkusten/sotenas/
 
@@ -92949,6 +92972,7 @@ entries:
   orgNumber: 802496-1636
   comment: Kunsholmen
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/stor-stockholm-sodra/kungsholmen/
 
@@ -103142,6 +103166,7 @@ entries:
   orgNumber: 802439-0703
   comment: Tranås
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/ostra/tranas/
 
@@ -115644,10 +115669,11 @@ entries:
   web: https://elmvittsjo.se/
 
 - entry: 1235276860
-  orgName: Munskänkarna Kalix
+  orgName: Munskänkarna
   orgNumber: 802446-8509
-  comment: null
+  comment: Kalix
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/norrbotten/kalix/
 
@@ -117623,6 +117649,7 @@ entries:
   orgNumber: 814401-1403
   comment: Norrtälje
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/stor-stockholm-norra/norrtalje/
 
@@ -119554,6 +119581,7 @@ entries:
   orgNumber: 895401-3457
   comment: Haparanda
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/norrbotten/haparanda/
 
@@ -119771,10 +119799,11 @@ entries:
   web: https://www.airswing.se/
 
 - entry: 1235447347
-  orgName: Munskänkarna Lund
+  orgName: Munskänkarna
   orgNumber: 845002-4628
-  comment: null
+  comment: Lund
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/skane/lund/
 
@@ -120614,6 +120643,7 @@ entries:
   orgNumber: 802442-6804
   comment: Kisa
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/ostra/kisa/
 
@@ -128668,10 +128698,11 @@ entries:
   web: https://www.svenskalag.se/bhc
 
 - entry: 1235840806
-  orgName: Munskänkarna Sunne
+  orgName: Munskänkarna
   orgNumber: 802521-3870
-  comment: null
+  comment: Sunne
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/varmland/munskankarna-i-sunne/
 
@@ -136338,10 +136369,11 @@ entries:
   web: https://magnuskök.se/
 
 - entry: 1236181333
-  orgName: Munskänkarna Ystad
+  orgName: Munskänkarna
   orgNumber: 848000-9490
-  comment: null
+  comment: Ystad
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/skane/ystad/
 
@@ -142823,6 +142855,7 @@ entries:
   orgNumber: 802542-8965
   comment: Olofström
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/sydostra/olofstrom/
 
@@ -147730,10 +147763,11 @@ entries:
   web: https://www.svenskalag.se/kalvsundsif
 
 - entry: 1236704233
-  orgName: Munskänkarna Överkalix
+  orgName: Munskänkarna
   orgNumber: 802457-6822
-  comment: null
+  comment: Överkalix
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/norrbotten/overkalix/
 
@@ -148072,10 +148106,11 @@ entries:
   web: https://www.svenskalag.se/tif
 
 - entry: 1236719587
-  orgName: Munskänkarna Luleå
+  orgName: Munskänkarna
   orgNumber: 897001-7342
-  comment: null
+  comment: Luleå
   categories:
+  - munskänkarna
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/norrbotten/lulea/
 
