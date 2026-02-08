@@ -8451,6 +8451,15 @@ entries:
   - idrottsförening
   web: https://kavlingebsk.klubbenonline.se/
 
+- entry: 1230378893
+  orgName: Odd Fellow Orden
+  orgNumber: 855900-1626
+  comment: Brödraloge 63 - Viking
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b63
+
 - entry: 1230379271
   orgName: Överjärna Församling
   orgNumber: 252000-0841
@@ -15094,6 +15103,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/alvdalen
 
+- entry: 1230696724
+  orgName: Odd Fellow Orden
+  orgNumber: 849600-0798
+  comment: Brödraloge 83 - Vågbrytaren
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b83
+
 - entry: 1230696872
   orgName: Karlsborgs Pastorat
   orgNumber: 252002-6986
@@ -18494,6 +18512,15 @@ entries:
   - patientförening
   - reumatikerförening
   web: https://kalmar.reumatiker.se/
+
+- entry: 1230843284
+  orgName: Odd Fellow Orden
+  orgNumber: 826500-0656
+  comment: Brödraloge 82 - Holaveden
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b82
 
 - entry: 1230843847
   orgName: Granhults Hembygdsförening
@@ -24102,6 +24129,15 @@ entries:
   - kvinnojour
   web: https://www.unizonjourer.se/lidingokvinnojour/
 
+- entry: 1231064583
+  orgName: Bifrostorden
+  orgNumber: 332407-6342
+  comment: null
+  categories:
+  - bifrostorden
+  - ordensällskap
+  web: https://www.bifrostorden.se/
+
 - entry: 1231064997
   orgName: Södra Vätterbygdens konstrunda
   orgNumber: 802500-2166
@@ -26502,6 +26538,15 @@ entries:
   - healing
   web: https://www.ayuemy.com/
 
+- entry: 1231170844
+  orgName: Odd Fellow Orden
+  orgNumber: 802440-1641
+  comment: Brödraloge 162 - Ohnbacken
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b162
+
 - entry: 1231171008
   orgName: Tassarnas Djurklinik AB
   orgNumber: 556925-2306
@@ -27454,6 +27499,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-varmland/samorganisationer/samorganisation-karlstad/foreningar/valberg.html
+
+- entry: 1231220185
+  orgName: Odd Fellow Orden
+  orgNumber: 826000-3242
+  comment: Brödraloge 111 - Vapensmeden
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b111
 
 - entry: 1231220508
   orgName: Säters Jaktskytteklubb
@@ -34307,6 +34361,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-seniorerna-gruvan-/
 
+- entry: 1231513407
+  orgName: Uppsalaretromarket
+  orgNumber: 802550-1951
+  comment: null
+  categories:
+  - marknader
+  - retro
+  web: https://www.facebook.com/UppsalaRetromarket
+
 - entry: 1231513498
   orgName: Stiftelsen Havsbris
   orgNumber: 843002-1033
@@ -40513,10 +40576,11 @@ entries:
   web: https://www.skpf.se/avdelningar/distrikt-stockholms-lan/stockholm-avd-28/
 
 - entry: 1231807379
-  orgName: Bifrostorden Logen 28 Gondler
+  orgName: Bifrostorden
   orgNumber: 332407-6342
-  comment: null
+  comment: Logen 28 Gondler
   categories:
+  - bifrostorden
   - ordensällskap
   web: https://www.bifrostorden.se/
 
@@ -45575,10 +45639,11 @@ entries:
   web: https://www.norrbyif.se/
 
 - entry: 1232044204
-  orgName: Bifrostorden Logen nr 12 Nicopia
+  orgName: Bifrostorden
   orgNumber: 819001-0697
-  comment: null
+  comment: Logen nr 12 Nicopia
   categories:
+  - bifrostorden
   - ordensällskap
   web: https://www.bifrostorden.se/
 
@@ -56742,6 +56807,15 @@ entries:
   - intresseförening
   web: https://brantestad.eu/
 
+- entry: 1232540409
+  orgName: Odd Fellow Orden
+  orgNumber: 839400-1237
+  comment: Brödraloge 85 - Luntertun
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b85
+
 - entry: 1232540649
   orgName: Föreningen Seniorverkstan
   orgNumber: 802411-6488
@@ -63815,7 +63889,7 @@ entries:
 - entry: 1232838605
   orgName: Odd Fellow Orden
   orgNumber: 883200-7606
-  comment: Brödraloge 122 Siljansbygd
+  comment: Brödraloge 122 - Siljansbygd
   categories:
   - oddfellowklubb
   - ordensällskap
@@ -67995,6 +68069,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/dals-ed
 
+- entry: 1233043825
+  orgName: Rebeckaloge 47 - Sofia
+  orgNumber: 843001-3295
+  comment: null
+  categories:
+  - ordensällskap
+  - rebeckaloge
+  web: https://oddfellow.se/hitta/institution/?inst=r47
+
 - entry: 1233044419
   orgName: Föreningen Rogs bystuga
   orgNumber: 883201-5419
@@ -68915,6 +68998,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/handol
+
+- entry: 1233075322
+  orgName: Hundsjö FVO, Mjösjöarna
+  orgNumber: 802600-7610
+  comment: null
+  categories:
+  - fiskevårdsområde
+  web: https://naturguiden.ornskoldsvik.se/aktivitetssidor/hundsjofvo.4.7e6e27ac17a56e44c494548.html
 
 - entry: 1233075538
   orgName: Bostadsrättsföreningen Paviljongen i Limhamn
@@ -75801,6 +75892,15 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/barkakra/
 
+- entry: 1233389954
+  orgName: Rebeckaloge 48 - Aftonstjärnan
+  orgNumber: 889201-4914
+  comment: null
+  categories:
+  - ordensällskap
+  - rebeckaloge
+  web: https://oddfellow.se/hitta/institution/?inst=r48
+
 - entry: 1233391315
   orgName: OK Ravinen
   orgNumber: 802434-3421
@@ -77703,6 +77803,15 @@ entries:
   categories:
   - folkets park
   web: https://gemlafolkpark.se/
+
+- entry: 1233468493
+  orgName: Odd Fellow Orden
+  orgNumber: 845000-1808
+  comment: Brödraloge 30 - Saxo
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b30
 
 - entry: 1233469004
   orgName: Golden Retrieverklubben
@@ -79743,6 +79852,15 @@ entries:
   categories:
   - religion
   web: https://www.grindtorpskyrkan.se/
+
+- entry: 1233549078
+  orgName: Bifrostorden
+  orgNumber: 842000-8966
+  comment: Logen 18 Mjölner
+  categories:
+  - bifrostorden
+  - ordensällskap
+  web: https://www.bifrostorden.se/
 
 - entry: 1233549110
   orgName: LL Dance Studio / Lina Larsson
@@ -82030,12 +82148,12 @@ entries:
   web: https://traningsforumtollarp.com/
 
 - entry: 1233652534
-  orgName: Odd Fellow Orden
+  orgName: Rebeckaloge 29
   orgNumber: 834001-0381
-  comment: Rebeckaloge 29
+  comment: Litorina
   categories:
-  - oddfellowklubb
   - ordensällskap
+  - rebeckaloge
   web: https://oddfellow.se/hitta/institution/?inst=r29
 
 - entry: 1233653201
@@ -86060,6 +86178,15 @@ entries:
   - hjälporganisation
   - religion
   web: https://helamanniskan.se/oskarshamn/
+
+- entry: 1233861572
+  orgName: Odd Fellow Orden
+  orgNumber: 802430-6774
+  comment: Brödraläger 23 - Prins Bertil
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=bl23
 
 - entry: 1233862125
   orgName: Järfälla Kommun
@@ -98510,6 +98637,15 @@ entries:
   - hjärnforskning
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1234472692
+  orgName: Odd Fellow Orden
+  orgNumber: 818500-2105
+  comment: Brödraloge 45 - Karl Knutsson Bonde
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b45
 
 - entry: 1234472718
   orgName: PRO Frötuna-Rådmansö
@@ -116278,6 +116414,15 @@ entries:
   - musikförening
   web: https://www.povelramelsallskapet.se/
 
+- entry: 1235305461
+  orgName: Odd Fellow Orden
+  orgNumber: 822000-3399
+  comment: Brödraläger 5 - Österled
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution?inst=bl5
+
 - entry: 1235305768
   orgName: Teleseniorernas Förening i Malmö
   orgNumber: 802416-5436
@@ -117265,6 +117410,15 @@ entries:
   - trafikskola
   - utbildning
   web: http://www.drivecool.se/
+
+- entry: 1235354089
+  orgName: Rebeckaloge 11 - Ingrid
+  orgNumber: 837000-6911
+  comment: null
+  categories:
+  - ordensällskap
+  - rebeckaloge
+  web: https://oddfellow.se/hitta/institution?inst=r11
 
 - entry: 1235354238
   orgName: Söderala Pastorat
@@ -120093,6 +120247,15 @@ entries:
   categories:
   - samfällighetsförening
   web: https://svanvik.com/
+
+- entry: 1235467014
+  orgName: Odd Fellow Logen nr 12
+  orgNumber: 886000-0655
+  comment: Helsingia
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b12
 
 - entry: 1235467162
   orgName: Brottarklubben Athén
@@ -144243,6 +144406,15 @@ entries:
   - skoterklubb
   web: https://jarvsoskoterklubb.se/
 
+- entry: 1236540041
+  orgName: Odd Fellow Orden
+  orgNumber: 802002-5238
+  comment: Brödraläger 13 - Mälarborgen
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution?inst=bl13
+
 - entry: 1236541874
   orgName: Slottsbrons Båtsällskap
   orgNumber: 874001-6582
@@ -148230,6 +148402,15 @@ entries:
   - överviktskirurgi
   web: https://kirurgicentrum.se/
 
+- entry: 1236737472
+  orgName: Odd Fellow Orden
+  orgNumber: 849600-0798
+  comment: Brödraloge 83 - Vågbrytaren
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b83
+
 - entry: 1236737779
   orgName: Idbyns Vi Unga Klubb
   orgNumber: 802414-7566
@@ -148326,6 +148507,15 @@ entries:
   categories:
   - religion
   web: https://www.efslulea.se/
+
+- entry: 1236743249
+  orgName: Odd Fellow Orden
+  orgNumber: 857201-3046
+  comment: Brödraloge 9 - Gustaf II Adolf
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b9
 
 - entry: 1236743264
   orgName: Torsby Samfällighetsförening på Värmdö
@@ -151156,6 +151346,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/ulricehamn
+
+- entry: 1236868913
+  orgName: Odd Fellow Orden
+  orgNumber: 825000-3855
+  comment: Brödraloge 117 - Gustaf V
+  categories:
+  - oddfellowklubb
+  - ordensällskap
+  web: https://oddfellow.se/hitta/institution/?inst=b117
 
 - entry: 1236869168
   orgName: SPF Seniorerna Strömmen Strömstad
