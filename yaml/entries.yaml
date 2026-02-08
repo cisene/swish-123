@@ -39006,6 +39006,14 @@ entries:
   - hundsport
   web: https://kaskagility.se/
 
+- entry: 1231704477
+  orgName: Sankta Birgitta Katolska Församling
+  orgNumber: 252002-8461
+  comment: null
+  categories:
+  - religion
+  web: https://sanktabirgitta.se/
+
 - entry: 1231704600
   orgName: Ekuddens Camping / Kungsör Camping AB
   orgNumber: 556796-9257
@@ -86445,6 +86453,14 @@ entries:
   - yoga
   web: https://www.ik-vavd.se/
 
+- entry: 1233785268
+  orgName: Kristdala Samhällsförening
+  orgNumber: 832800-9942
+  comment: null
+  categories:
+  - samhällsförening
+  web: https://www.kristdalabygden.se/
+
 - entry: 1233785375
   orgName: Korpen Borås
   orgNumber: 864500-1390
@@ -91501,6 +91517,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://piteaif.sportadmin.se/
+
+- entry: 1234000568
+  orgName: Kalmar Flyghistoriska Sällskap, KFS
+  orgNumber: 832401-9572
+  comment: null
+  categories:
+  - historieförening
+  - intresseförening
+  web: https://www.flygfantast.nu/
 
 - entry: 1234002051
   orgName: Hörselskadades Riksförbund
@@ -96611,6 +96636,15 @@ entries:
   - brukshundklubb
   - hundsport
   web: https://brukshundklubben.se/vastra-harjedalens-brukshundklubb/
+
+- entry: 1234246716
+  orgName: The Lighthouse Escape Room AB
+  orgNumber: 559241-0186
+  comment: null
+  categories:
+  - escaperoom
+  - nöjesverksamhet
+  web: https://www.lighthouseescape.se/
 
 - entry: 1234247276
   orgName: Lunda Hembygdsförening
@@ -107214,6 +107248,7 @@ entries:
   orgNumber: 829502-1565
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.glasriketsgk.se/
 
@@ -107315,6 +107350,18 @@ entries:
   categories:
   - religion
   web: https://pingstjonkoping.se/
+
+- entry: 1234767331
+  orgName: Trelleborgs Grappling Sällskap
+  orgNumber: 802545-9390
+  comment: null
+  categories:
+  - brasiliansk jiu-jitsu
+  - grapplingklubb
+  - idrottsförening
+  - kampsportsförening
+  - submission wrestling
+  web: https://trelleborggrappling.se/
 
 - entry: 1234768446
   orgName: HTF - Hissjö-Tavelsjö-Flurkmark
@@ -115271,6 +115318,14 @@ entries:
   - båtsällskap
   web: https://mockelnforeningarna.se/kbmk/
 
+- entry: 1235149463
+  orgName: Dannemora JUF Bygdegårdsförening
+  orgNumber: 817300-0038
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://bygdegardarna.se/dannemora/
+
 - entry: 1235149794
   orgName: Långasjö Bygdegårdsförening
   orgNumber: 729500-0199
@@ -118697,6 +118752,17 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/vasbyff
 
+- entry: 1235295407
+  orgName: Furulid Café & Camping AB
+  orgNumber: 559201-6421
+  comment: null
+  categories:
+  - café
+  - camping
+  - religion
+  - ställplats
+  web: https://www.furulid.se/
+
 - entry: 1235295605
   orgName: Åbyggeby Byförening
   orgNumber: 802464-3713
@@ -121374,6 +121440,15 @@ entries:
   categories:
   - politiskt parti
   web: https://demokratiresan.se/
+
+- entry: 1235410634
+  orgName: Restaurang Siluett AB
+  orgNumber: 559286-2956
+  comment: null
+  categories:
+  - catering
+  - restaurant
+  web: https://www.restaurangsiluett.se/
 
 - entry: 1235411327
   orgName: Alega Software AB
@@ -135417,6 +135492,7 @@ entries:
   orgNumber: 802437-3311
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.hasselabygdensgk.com/
 
@@ -149331,7 +149407,7 @@ entries:
 - entry: 1236649198
   orgName: Karlstads Kommun
   orgNumber: 212000-1850
-  comment: ansökan om serveringstillstånd
+  comment: Ansökan om serveringstillstånd
   categories:
   - ansökningsavgift
   - kommun
@@ -152658,7 +152734,7 @@ entries:
 - entry: 1236779912
   orgName: Västerås Kommun
   orgNumber: 212000-2080
-  comment: dagkort och säsongskort skidåkning
+  comment: Dagkort och säsongskort skidåkning
   categories:
   - kommun
   - myndighet
@@ -154290,6 +154366,16 @@ entries:
   - filateli
   - frimärkssamling
   web: https://filateli.se/
+
+- entry: 1236854814
+  orgName: Camp Mayfly AB
+  orgNumber: 559185-7866
+  comment: Camp Mayfly - Ulvereds Hjorthägn
+  categories:
+  - gårdsbutik
+  - konferens
+  - konferenslokaler
+  web: https://ulvereds.se/
 
 - entry: 1236855852
   orgName: Nedre Soppero IK
@@ -156889,6 +156975,15 @@ entries:
   categories:
   - personalklubb
   web: https://gavlesp.se/
+
+- entry: 1236959316
+  orgName: Föreningen Ljugarn
+  orgNumber: 834000-9284
+  comment: Ljugarns Strandbastu
+  categories:
+  - bastuförening
+  - bastukultur
+  web: https://bastun.foreningenljugarn.se/
 
 - entry: 1236959431
   orgName: Österfärnebo RS - Ridsport
