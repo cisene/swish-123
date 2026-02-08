@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 
 
+# Update varningslistan
+python3 ./scrape-forenadebolag-varningslistan.py
+
 # Sort entries
 python3 ./entries-sort.py
 
@@ -35,6 +38,7 @@ git add ../text/swish-123-datasource.csv
 git add ../text/swish-123-datasource.tsv
 git add ../xml/swish-123-datasource.xml
 git add ../yaml/masterdata-organisations.yaml
+git add ../yaml/masterdata-varningslistan.yaml
 
 #git add ../swish-123.md
 #git add ../swish-123.pdf
