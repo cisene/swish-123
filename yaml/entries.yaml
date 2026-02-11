@@ -23986,6 +23986,15 @@ entries:
   - influencer
   web: https://ceciliatolone.com/
 
+- entry: 1231036466
+  orgName: Sollentuna Släktforskare
+  orgNumber: 802441-8322
+  comment: null
+  categories:
+  - genealogi
+  - släktforskning
+  web: https://www.sollentunaslaktforskare.se/
+
 - entry: 1231037068
   orgName: Kristianstad Handboll
   orgNumber: 838202-2559
@@ -37684,6 +37693,14 @@ entries:
   - brottningsklubb
   - idrottsförening
   web: https://www.lulebrottarklubb.se/
+
+- entry: 1231627421
+  orgName: Svenska Druid-Orden
+  orgNumber: 846001-3454
+  comment: null
+  categories:
+  - ordensällskap
+  web: https://www.stella-polaris.se/
 
 - entry: 1231627652
   orgName: Lions Club Färjestaden
@@ -54783,7 +54800,8 @@ entries:
   comment: null
   categories:
   - byggnadskonst
-  - förening
+  - historieförening
+  - intresseförening
   web: https://bebyggelsehistoriska.se/
 
 - entry: 1232359685
@@ -69514,6 +69532,15 @@ entries:
   - idrottsförening
   web: https://flensbk.se/
 
+- entry: 1233035946
+  orgName: Skara Stiftshistoriska Sällskap
+  orgNumber: 868401-1045
+  comment: null
+  categories:
+  - historieförening
+  - religion
+  web: https://skarastiftshistoriska.nu/
+
 - entry: 1233036266
   orgName: Svenska Rottweilerklubben
   orgNumber: 862501-2276
@@ -71666,6 +71693,14 @@ entries:
   - konståkningsklubb
   web: https://www.ulricehamnskk.com/
 
+- entry: 1233120383
+  orgName: Storfors Frikyrkoförsamling
+  orgNumber: 802514-3390
+  comment: null
+  categories:
+  - religion
+  web: https://www.kyrktorget.se/storfors.frikyrkoforsamling
+
 - entry: 1233120540
   orgName: Krokoms Pastorat
   orgNumber: 252004-9236
@@ -72562,6 +72597,15 @@ entries:
   categories:
   - supporterklubb
   web: https://www.instagram.com/rawahel00/
+
+- entry: 1233152527
+  orgName: Bifrostorden
+  orgNumber: 802000-3326
+  comment: Örebro
+  categories:
+  - bifrostorden
+  - ordensällskap
+  web: https://www.bifrostorden.se/
 
 - entry: 1233155991
   orgName: Frivilliga Automobilkåren Jönköpings län, FAK
@@ -91851,6 +91895,14 @@ entries:
   - idrottsförening
   web: https://www.kalixbasket.se/
 
+- entry: 1234006839
+  orgName: Enhörna Hembygdsförening
+  orgNumber: 802507-4215
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/enhorna-hembygdsforening
+
 - entry: 1234007449
   orgName: Upplands Väsby Bågskytteklubb
   orgNumber: 802455-5842
@@ -101964,6 +102016,14 @@ entries:
   categories:
   - konstförening
   web: https://www.osterhaningekonstforening.se/
+
+- entry: 1234516019
+  orgName: Rotary Orust
+  orgNumber: 802530-9363
+  comment: null
+  categories:
+  - rotaryklubb
+  web: https://portal.clubrunner.ca/16283/
 
 - entry: 1234516100
   orgName: Insamlingsstiftelsen JLOF (Jeremiah Lucas Opira Foundation) Sweden
@@ -118005,6 +118065,14 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://singobygdegard.se/
+
+- entry: 1235266309
+  orgName: Förbundet Tillsammansskapet
+  orgNumber: 802505-3417
+  comment: null
+  categories:
+  - intresseförening
+  web: https://tillsammansskapet.se/
 
 - entry: 1235266390
   orgName: Autism- och Aspergerföreningen Västerbotten
@@ -154858,7 +154926,6 @@ entries:
   orgNumber: 802012-9089
   comment: null
   categories:
-  - insamling
   - ordensällskap
   - religion
   - stiftelse
