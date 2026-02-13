@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-02-11-rev-201429
+# Date: 2026-02-13-rev-182954
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2571,6 +2571,7 @@
 "1231002252","559242-6810","Hundfeeling / Norrköpings Hundsporthall AB","https://www.hund-feeling.se/","hundkurser,kurser,utbildning",""
 "1231003532","556947-8968","Enskilda Högskolan Stockholm / Teologiska Högskolan Stockholm AB","https://ehs.se/","religion,utbildning",""
 "1231006527","769600-1739","Bostadsrättsföreningen Charlottenburg","https://brfcharlottenburg.se/","bostadsrättsförening",""
+"1231006691","884401-2586","IOGT-NTO Orsa","https://orsabio.se/iogt-nto","nykterhetsförbund,nykterhetsrörelse",""
 "1231006808","866600-6625","Tidans IF","https://www.laget.se/TidansIF/","fotbollsklubb,idrottsförening",""
 "1231006923","836201-3297","Sillastrybarna","https://www.sillastrybarna.com/","supporterklubb",""
 "1231007764","559015-4521","Visumpartner i Stockholm AB","https://www.visumpartner.se/","juridiska tjänster,notarius publicus",""
@@ -10320,6 +10321,7 @@
 "1234151155","802417-0352","Aktiva Seniorer Arboga","https://arboga.aktivaseniorer.com/","pensionärsklubb",""
 "1234152690","556977-3277","Blackout Family AB","https://www.svenskalag.se/blackoutfamilyab","dansförening,dansklubb,danskurser,danssport,dansstudio",""
 "1234153003","802511-7113","Rosersberg Pistolskytteklubb, RPK","https://rpk.se/","pistolskytteklubb,sportskytteklubb","Tävling"
+"1234154431","895400-9091","Sorsele Folkmusik- och Dansförening","https://www.carinas-ord-ton.se/","dansförening,folkmusik",""
 "1234155248","828000-0996","IFK Värnamo","https://ifkvarnamo.se/","fotbollsklubb,idrottsförening",""
 "1234156188","802482-4313","Stiftelsen Svenska Djurfonden","https://www.svenskadjurfonden.se/","djurskydd,stiftelse",""
 "1234156675","802453-4722","Kung Karl BK","https://www.svenskalag.se/kungkarlbk","fotbollsklubb,idrottsförening",""
@@ -11080,6 +11082,7 @@
 "1234492682","556001-2238","Strömsholms Kanalaktiebolag","https://www.stromsholmskanal.se/","intresseorganisation,slussning",""
 "1234492807","899100-1531","Arvidsjaurs Hembygdsförening","https://www.hembygdarvidsjaur.se/","hembygdsförening,museum",""
 "1234492997","842001-2646","Svenska Bassetklubben Syd","https://www.bassetsyd.se/","hundklubb,hundsport",""
+"1234493110","827500-4300","Sävsjö Hembygdsförening","https://www.hembygd.se/savsjo","hembygdsförening",""
 "1234493334","894000-2671","Vindelns Idrottsförening","https://vindelnsif.sportadmin.se/","alpinklubb,idrottsförening,slalomklubb","Alpina sektionen"
 "1234493458","802504-3517","Fiskevårdsföreningen Öringen Väja","https://www.svenskalag.se/Fvforingen","fiskeklubb",""
 "1234493789","883202-5178","Rättvik Butchers","https://www.svenskalag.se/rattvikbutchers","baseballklubb,idrottsförening,softbollklubb",""
@@ -12569,6 +12572,7 @@
 "1235139266","252002-2993","Ockelbo Församling","https://www.svenskakyrkan.se/ockelbo","religion",""
 "1235139332","894701-1519","Skellefteå AIK Hockey","https://www.skellefteaaik.se/","idrottsförening,ishockeyklubb",""
 "1235139365","802469-4831","Fohle Hembygdsförening","https://www.hembygd.se/fohle","hembygdsförening",""
+"1235139738","252000-2854","Oxelösunds Församling","https://www.svenskakyrkan.se/oxelosund","religion,välgörenhet","Räddningsplankan"
 "1235139746","814000-2059","Djurö-Vindö IF","https://www.dvif.se/","idrottsförening",""
 "1235140033","844000-4151","IK Wormo","https://www.laget.se/IKWormo/","idrottsförening",""
 "1235140702","843001-1356","Friluftsfrämjandet Söderåsen","https://www.friluftsframjandet.se/soderasen","friluftsliv",""
@@ -13629,7 +13633,7 @@
 "1235543541","559002-4617","Blank Spot Project AB","https://blankspot.se/","alternativa media,alternativa nyheter,journalistik",""
 "1235543707","252003-8973","Uppvidinge Pastorat","https://www.svenskakyrkan.se/uppvidinge","religion","Kollekt"
 "1235543806","720222-XXXX","Your Wise Soul by Camilla / Camilla Nilsson","https://www.yourwisesoul.com/","aurateckning,healing,massage,meditation,medium",""
-"1235544168","802013-4642","Cornelis Vreeswijksällskapet","https://www.cornelis.se/","intresseförening,kultur,musik",""
+"1235544168","802013-4642","Cornelis Vreeswijksällskapet","https://www.cornelis.se/","intresseförening,kulturförening,musikförening",""
 "1235544341","252001-7266","Kinnarumma Församling","https://www.svenskakyrkan.se/kinnarumma","religion","Kollekt"
 "1235544523","817606-7695","Vaksala SK","https://www.svenskalag.se/vaksalask","fotbollsklubb,idrottsförening,innebandyklubb",""
 "1235544838","849200-6948","Livräddarna Tylösand","https://tylosand.net/","livräddning",""
@@ -14101,6 +14105,7 @@
 "1235719877","875001-2307","Rynninge IK","https://www.laget.se/RynningeIK/","fotbollsklubb,idrottsförening","FU 15/16"
 "1235719919","825002-4604","Ringarums Hembygdsförening","https://ringarum.net/","hembygdsförening",""
 "1235721733","559079-0860","Handbollskanalen / Creative Media Nordic Group AB","https://handbollskanalen.se/","mediaproduktion",""
+"1235722657","866000-5185","Korsvägens Bygdegårdsförening","https://www.facebook.com/p/Korsv%C3%A4gens-bygdeg%C3%A5rdsf%C3%B6rening-100064420370569/","bygdegårdsförening",""
 "1235724059","802463-7186","Lions Club Löddeköpinge","https://www.lionslodde.se/","lionsklubb",""
 "1235725312","802463-4225","Tyresö Handboll","https://www.tyresohandboll.se/","handbollsklubb,idrottsförening",""
 "1235726682","710904-XXXX","Anheden Släktforskning","https://anhedenslaktforskare.com/","genealogi,intresseförening,släktforskning",""
@@ -14649,6 +14654,7 @@
 "1235956222","875001-2307","Rynninge IK","https://www.laget.se/RynningeIK/","fotbollsklubb,idrottsförening","P-2017 Blå"
 "1235956271","802517-7828","Birkagården Folkets Hus","https://www.birkagårdenfolketshus.se/","folketshus,intresseförening",""
 "1235956339","802013-6951","Sankta Elisabets Folkhögskola","https://elisabet.se/","folkhögskola,religion",""
+"1235956479","561121-XXXX","Fotvårdskliniken i Fristad / Eija Augustsson","https://sverigesfotterapeuter.com/klinik/fotvardskliniken-i-fristad/","fotvård",""
 "1235956552","802447-2469","Anhörigas Riksförbund","https://anhorigasriksforbund.se/anhorigforeningen-i-vaxjo-med-omnejd/","anhörigorganisation","Växjö"
 "1235958236","855900-7169","Astma- och Allergiföreningen i Västra Götaland","https://astmaoallergiforbundet.se/","allergiförening,astmaförening,patientförening",""
 "1235959002","802437-3956","Ung Pirat","https://ungpirat.se/","donation,politiskt ungdomsförbund",""
@@ -15902,6 +15908,7 @@
 "1236475099","802535-4211","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Kalmar län, Lindsdalsskolan"
 "1236475180","802420-4094","Sportfiske Klubben Tobis","https://www.sfktobis.se/","fiskeklubb,sportfiskeklubb",""
 "1236475305","873201-7382","Hammarö fågelstation","https://hammarofagel.se/","fågelskådning,ornitologi",""
+"1236475594","802534-2844","Strömstadoperan","https://www.stromstadoperan.se/","operasällskap",""
 "1236477079","802537-2791","Hjälp Holger Nu","https://helpholgernow.se/","anhörigorganisation,patientförening",""
 "1236477418","814800-6284","Sigtuna Myntklubb","https://sigtuna.myntklubb.se/","myntklubb,myntsamlare",""
 "1236477467","857205-4594","SWEA Göteborg","https://goteborg.swea.org/","kvinnligt nätverk",""

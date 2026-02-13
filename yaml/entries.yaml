@@ -23484,6 +23484,15 @@ entries:
   - bostadsrättsförening
   web: https://brfcharlottenburg.se/
 
+- entry: 1231006691
+  orgName: IOGT-NTO Orsa
+  orgNumber: 884401-2586
+  comment: null
+  categories:
+  - nykterhetsförbund
+  - nykterhetsrörelse
+  web: https://orsabio.se/iogt-nto
+
 - entry: 1231006808
   orgName: Tidans IF
   orgNumber: 866600-6625
@@ -94636,6 +94645,15 @@ entries:
   categories: null
   web: null
 
+- entry: 1234154431
+  orgName: Sorsele Folkmusik- och Dansförening
+  orgNumber: 895400-9091
+  comment: null
+  categories:
+  - dansförening
+  - folkmusik
+  web: https://www.carinas-ord-ton.se/
+
 - entry: 1234155248
   orgName: IFK Värnamo
   orgNumber: 828000-0996
@@ -101602,6 +101620,14 @@ entries:
   - hundklubb
   - hundsport
   web: https://www.bassetsyd.se/
+
+- entry: 1234493110
+  orgName: Sävsjö Hembygdsförening
+  orgNumber: 827500-4300
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/savsjo
 
 - entry: 1234493334
   orgName: Vindelns Idrottsförening
@@ -115188,6 +115214,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/fohle
 
+- entry: 1235139738
+  orgName: Oxelösunds Församling
+  orgNumber: 252000-2854
+  comment: Räddningsplankan
+  categories:
+  - religion
+  - välgörenhet
+  web: https://www.svenskakyrkan.se/oxelosund
+
 - entry: 1235139746
   orgName: Djurö-Vindö IF
   orgNumber: 814000-2059
@@ -124988,8 +125023,8 @@ entries:
   comment: null
   categories:
   - intresseförening
-  - kultur
-  - musik
+  - kulturförening
+  - musikförening
   web: https://www.cornelis.se/
 
 - entry: 1235544341
@@ -129317,6 +129352,14 @@ entries:
   categories:
   - mediaproduktion
   web: https://handbollskanalen.se/
+
+- entry: 1235722657
+  orgName: Korsvägens Bygdegårdsförening
+  orgNumber: 866000-5185
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://www.facebook.com/p/Korsv%C3%A4gens-bygdeg%C3%A5rdsf%C3%B6rening-100064420370569/
 
 - entry: 1235724059
   orgName: Lions Club Löddeköpinge
@@ -134399,6 +134442,14 @@ entries:
   - folkhögskola
   - religion
   web: https://elisabet.se/
+
+- entry: 1235956479
+  orgName: Fotvårdskliniken i Fristad / Eija Augustsson
+  orgNumber: 561121-XXXX
+  comment: null
+  categories:
+  - fotvård
+  web: https://sverigesfotterapeuter.com/klinik/fotvardskliniken-i-fristad/
 
 - entry: 1235956552
   orgName: Anhörigas Riksförbund
@@ -145888,6 +145939,14 @@ entries:
   - fågelskådning
   - ornitologi
   web: https://hammarofagel.se/
+
+- entry: 1236475594
+  orgName: Strömstadoperan
+  orgNumber: 802534-2844
+  comment: null
+  categories:
+  - operasällskap
+  web: https://www.stromstadoperan.se/
 
 - entry: 1236477079
   orgName: Hjälp Holger Nu
