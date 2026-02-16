@@ -1,3 +1,4 @@
+.gitignore
 yaml/knockout-*
 yaml/teamrynkeby-*
 
@@ -5,3 +6,6 @@ pdf/**
 
 work/
 work/**
+
+
+python/entries-team-rynkeby-sort.py
