@@ -8566,6 +8566,15 @@ entries:
   - religion
   web: https://kafalla.se/
 
+- entry: 1230388165
+  orgName: Hälsinglands Idrottshistoriska Sällskap
+  orgNumber: 802436-8105
+  comment: null
+  categories:
+  - idrottshistoria
+  - intresseförening
+  web: https://hihs.se/
+
 - entry: 1230388884
   orgName: Hörby Pistolskytteklubb
   orgNumber: 802452-5159
@@ -24273,6 +24282,14 @@ entries:
   categories:
   - kulturförening
   web: https://glasetshuslimmared.se/medlem-kultur-1740/
+
+- entry: 1231068998
+  orgName: Sävehof IK
+  orgNumber: 857202-3912
+  comment: null
+  categories:
+  - idrottsförening
+  web: https://savehof.se/
 
 - entry: 1231069350
   orgName: Equmeniakyrkan Hökerum
@@ -150675,6 +150692,14 @@ entries:
   - hörselnedsättning
   - hörselskadad
   web: https://gdf.nu/
+
+- entry: 1236825277
+  orgName: Järvsö Hembygdsförening
+  orgNumber: 887000-1131
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/jarvso
 
 - entry: 1236825376
   orgName: Bovallstrands Hembygdsförening

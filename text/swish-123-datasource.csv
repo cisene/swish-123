@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-02-13-rev-182954
+# Date: 2026-02-17-rev-001934
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -966,6 +966,7 @@
 "1230387001","556516-2418","The English Bookshop","https://bookshop.se/ukraina-vivat","bokhandel,försäljning,insamling,ukraina","Vivat"
 "1230388066","846002-1085","Lomma Ridklubb","https://lommaridklubb.se/","hästsport,ridklubb",""
 "1230388108","556543-3538","Kåfalla Herrgård / Bejfab - Berthil Jansson Fastigheter","https://kafalla.se/","religion",""
+"1230388165","802436-8105","Hälsinglands Idrottshistoriska Sällskap","https://hihs.se/","idrottshistoria,intresseförening",""
 "1230388884","802452-5159","Hörby Pistolskytteklubb","https://hörbypsk.se/","pistolskytteklubb,skytteklubb,sportskytteklubb",""
 "1230389544","802438-4912","Strokeföreningen Stockholms län","https://strokeforbundet.se/stockholms-lan/","patientorganisation,strokeförening",""
 "1230389932","802533-7794","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,forskning,hjärnforskning,team rynkeby","Skaraborg, Billingskolan"
@@ -2723,6 +2724,7 @@
 "1231068097","802443-0202","Aros Basket","https://www.arosbasket.se/","basketbollklubb,idrottsförening",""
 "1231068741","886501-3224","Alfta GIF Handboll","https://www.alftahandboll.se/","handbollsklubb,idrottsförening",""
 "1231068774","802458-0121","Kultur 1740","https://glasetshuslimmared.se/medlem-kultur-1740/","kulturförening",""
+"1231068998","857202-3912","Sävehof IK","https://savehof.se/","idrottsförening",""
 "1231069350","865500-4490","Equmeniakyrkan Hökerum","https://www.equmeniakyrkanhokerum.se/","religion",""
 "1231069558","769617-5103","Nordic Area","https://www.nordicarea.se/","naturvård",""
 "1231069772","857200-5224","GAIS Supporterklubb Makrillarna","https://makrillarna.org/","supporterklubb",""
@@ -16803,6 +16805,7 @@
 "1236823850","802504-5868","PBC Sverige","https://www.pbcsverige.se/","intresseförening,patientförening",""
 "1236824114","898800-9992","Piteå Bouleklubb","https://www.svenskalag.se/piteabouleklubb","bouleklubb,idrottsförening",""
 "1236824619","857200-2916","Göteborgs Dövas Förening","https://gdf.nu/","döv,förening,hörselnedsättning,hörselskadad",""
+"1236825277","887000-1131","Järvsö Hembygdsförening","https://www.hembygd.se/jarvso","hembygdsförening",""
 "1236825376","854600-5615","Bovallstrands Hembygdsförening","https://bovallstrand.com/","hembygdsförening",""
 "1236825475","802429-7338","RFK Viggen","https://klubbhus.flygsport.se/rfk-viggen/","flygsport,modellflygklubb",""
 "1236825632","252003-0863","Västerås Pastorat","https://www.svenskakyrkan.se/vasteras/vasteras-domkyrka","religion","Västerås Domkyrka, Katedralbutiken"
