@@ -6336,6 +6336,15 @@ entries:
   - ridklubb
   web: http://www.enskederidsallskap.se/
 
+- entry: 1230295295
+  orgName: Blodomloppet
+  orgNumber: 802420-6909
+  comment: Örebro
+  categories:
+  - blodomloppet
+  - friskvård
+  web: https://blodomloppet.se/vara-lopp/orebro/
+
 - entry: 1230295394
   orgName: Hägglunds Ski Team SK
   orgNumber: 802473-0486
@@ -31077,6 +31086,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/torshalla
+
+- entry: 1231326180
+  orgName: Blodomloppet
+  orgNumber: 802420-6909
+  comment: Örebro 2018
+  categories:
+  - blodomloppet
+  - friskvård
+  web: https://blodomloppet.se/vara-lopp/orebro/
 
 - entry: 1231326347
   orgName: Dunker-Lilla Malma Församling
@@ -84298,6 +84316,7 @@ entries:
   orgNumber: 838200-7667
   comment: null
   categories:
+  - blodomloppet
   - idrottsförening
   - orienteringsklubb
   - parasport
@@ -103414,6 +103433,7 @@ entries:
   orgNumber: 893200-3737
   comment: Tävling
   categories:
+  - blodomloppet
   - idrottsförening
   - skidlöparklubb
   web: https://www.ostersundssk.se/
@@ -106578,6 +106598,15 @@ entries:
   - religion
   web: https://www.pingstvarberg.se/
 
+- entry: 1234656120
+  orgName: Blodomloppet
+  orgNumber: 802420-6909
+  comment: Uppsala
+  categories:
+  - blodomloppet
+  - friskvård
+  web: https://blodomloppet.se/vara-lopp/uppsala/
+
 - entry: 1234656641
   orgName: Allmänna Försvarsföreningen
   orgNumber: 802000-1106
@@ -106800,6 +106829,15 @@ entries:
   - folkmusik
   - musikförening
   web: https://www.malmofolk.se/
+
+- entry: 1234664462
+  orgName: Blodomloppet
+  orgNumber: 802420-6909
+  comment: Malmö
+  categories:
+  - blodomloppet
+  - friskvård
+  web: https://blodomloppet.se/vara-lopp/malmo/
 
 - entry: 1234664496
   orgName: Västerås CK
@@ -128543,6 +128581,15 @@ entries:
   - ishockeyklubb
   web: https://www.svenskalag.se/SollefteaHockey
 
+- entry: 1235615323
+  orgName: Blodomloppet
+  orgNumber: 802420-6909
+  comment: Jönköping
+  categories:
+  - blodomloppet
+  - friskvård
+  web: https://blodomloppet.se/vara-lopp/jonkoping/
+
 - entry: 1235615489
   orgName: Equmeniakyrkan Bohus-Björkö
   orgNumber: 857200-1496
@@ -131635,6 +131682,16 @@ entries:
   - närproducerat
   - rekoproducerat
   web: https://archipelago.coffee/
+
+- entry: 1235753348
+  orgName: Östersunds Skidlöpareklubb
+  orgNumber: 893200-3737
+  comment: Blodomloppet, Event
+  categories:
+  - blodomloppet
+  - idrottsförening
+  - skidlöparklubb
+  web: https://www.ostersundssk.se/
 
 - entry: 1235753645
   orgName: Yoga by Sandra Adrian / Sandra Adrian

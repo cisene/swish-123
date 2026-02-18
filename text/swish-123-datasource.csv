@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-02-18-rev-223428
+# Date: 2026-02-18-rev-232620
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -690,6 +690,7 @@
 "1230295105","875001-6282","Örebro Läns Kennelklubb","https://www.skk.se/sv/OLKK/","hundsport,kennelklubb",""
 "1230295113","898500-8898","Sävast Ski Team IF","https://www.svenskalag.se/savastskiteamif","alpinklubb,idrottsförening",""
 "1230295196","802003-3869","Enskede Ridsällskap","http://www.enskederidsallskap.se/","hästsport,ridklubb","Tävlingar"
+"1230295295","802420-6909","Blodomloppet","https://blodomloppet.se/vara-lopp/orebro/","blodomloppet,friskvård","Örebro"
 "1230295394","802473-0486","Hägglunds Ski Team SK","https://www.hagglundsskiteam.se/","idrottsförening,skidlöparklubb","Kläder"
 "1230295469","857202-2849","Västsvenska Simförbundet VSSF","https://vssf.nu/","idrottsförbund,simklubb,simsällskap",""
 "1230295717","828000-7272","Hångers IF","https://www.svenskalag.se/hangerif","fotbollsklubb,idrottsförening,skidlöparklubb",""
@@ -3344,6 +3345,7 @@
 "1231325844","887500-2902","Delsbo IF","https://www.delsboif.com/","idrottsförening",""
 "1231325984","849600-2554","Lilla Träslövs FF","https://www.svenskalag.se/lillatraslovsff","fotbollsklubb,idrottsförening",""
 "1231326131","252000-3076","Torshälla Församling","https://www.svenskakyrkan.se/torshalla","religion","Diakoni"
+"1231326180","802420-6909","Blodomloppet","https://blodomloppet.se/vara-lopp/orebro/","blodomloppet,friskvård","Örebro 2018"
 "1231326347","252002-9642","Dunker-Lilla Malma Församling","https://www.svenskakyrkan.se/dunker-lillamalma","religion",""
 "1231326388","887501-0483","Gällsta IK","https://www.gallstaik.se/","idrottsförening,ishockeyklubb",""
 "1231326453","883200-6319","Svedens Ponnyklubb","https://www.svedens.se/","hästsport,ponnyklubb,ridsport",""
@@ -8986,7 +8988,7 @@
 "1233618865","802476-5417","Piano Visions","https://www.pianovisions.se/","musikförening,musikkultur",""
 "1233619004","252004-9970","Karlshamns Församling","https://www.svenskakyrkan.se/karlshamn","religion","Kollekt Åryd"
 "1233619830","802530-7474","Återbruket Klippen","https://www.aterbruketklippen.se/","second hand,återbruk,återvinning",""
-"1233620101","838200-7667","OK Pan Kristianstad","https://www.pan-kristianstad.nu/","idrottsförening,orienteringsklubb,parasport",""
+"1233620101","838200-7667","OK Pan Kristianstad","https://www.pan-kristianstad.nu/","blodomloppet,idrottsförening,orienteringsklubb,parasport",""
 "1233620440","252002-7794","Vä-Skepparslövs Församling","https://www.svenskakyrkan.se/va-skepparslov","religion","Administration"
 "1233620457","802409-2143","Katthemmet i Vaxholm / Föreningen Djurhjälpen","https://katthem.nu/","djurskydd,katthem",""
 "1233620598","838200-2221","Christianstads Skyttesällskap","https://www.svenskalag.se/christianstadsskyttesallskap","skytteklubb,sportskytteklubb","Medlemsavgift"
@@ -11009,7 +11011,7 @@
 "1234520557","882000-5547","Hedemora Simsällskap","https://www.hedemorasim.se/","idrottsförening,simklubb,simsällskap",""
 "1234520649","883200-5741","Leksands Ridklubb","https://leksandsrk.org/","hästsport,ridklubb","Hippodromen, Engångsridning"
 "1234521027","802492-4030","Flatcoated retrieverklubben Norr","https://frknorr.nu/","hundklubb,hundträning",""
-"1234521639","893200-3737","Östersunds Skidlöpareklubb","https://www.ostersundssk.se/","idrottsförening,skidlöparklubb","Tävling"
+"1234521639","893200-3737","Östersunds Skidlöpareklubb","https://www.ostersundssk.se/","blodomloppet,idrottsförening,skidlöparklubb","Tävling"
 "1234522207","252000-0650","Brännkyrka Församling","https://www.brannkyrka.org/","religion","Konsertkollekt Brännkyrka Kyrka"
 "1234522348","892000-5439","Rödöns SK","https://www.svenskalag.se/rodonssk","fotbollsklubb,idrottsförening,innebandyklubb,taekwondoklubb",""
 "1234522736","829501-0832","Växjö Ridklubb","https://www.vaxjoridklubb.se/","ridklubb,ridsport",""
@@ -11339,6 +11341,7 @@
 "1234653903","853300-0421","IK Kongahälla","https://www.laget.se/IKKongahalla/","fotbollsklubb,idrottsförening","Idrottens Second Hand"
 "1234653994","837600-2096","Klippans Gymnastikkrets","https://klippansgymnastikkrets.sportadmin.se/","gymnastikförening,idrottsförening","Trupp Lila"
 "1234654158","849600-0236","Pingstförsamlingen i Varberg","https://www.pingstvarberg.se/","religion","Församlingskassan"
+"1234656120","802420-6909","Blodomloppet","https://blodomloppet.se/vara-lopp/uppsala/","blodomloppet,friskvård","Uppsala"
 "1234656641","802000-1106","Allmänna Försvarsföreningen","https://aff.a.se/","intresseförening",""
 "1234656864","969652-3514","Stockholm Kiteboardcenter SKBC","https://kiteboardcenter.se/","kiteboard,vattensport",""
 "1234657011","845002-4297","Lugi Judoklubb","https://www.lugijudo.se/","idrottsförening,judoklubb,kampsportsförening",""
@@ -11364,6 +11367,7 @@
 "1234662896","847000-5656","Kämpinge vattensportklubb, KVSK","https://www.kvsk.se/","idrottsförening,kajakklubb,segelklubb,vattensport",""
 "1234664108","864000-3805","Equmeniakyrkan Lagmansholm","https://www.equmeniakyrkantre.se/","religion",""
 "1234664363","846004-1349","Malmö Folk / Malmö Folkmusikförening","https://www.malmofolk.se/","folkmusik,musikförening",""
+"1234664462","802420-6909","Blodomloppet","https://blodomloppet.se/vara-lopp/malmo/","blodomloppet,friskvård","Malmö"
 "1234664496","878000-4472","Västerås CK","https://www.svenskalag.se/vasterasck","cykelklubb,cykelsport,idrottsförening",""
 "1234664769","252003-9088","Ovansjö-Järbo Pastorat","https://www.svenskakyrkan.se/ovansjojarbo","religion","Gåvor"
 "1234664876","832401-1397","Torsås Ryttare","https://torsasryttare.se/","hästsport,ridsport,ryttarförening",""
@@ -13664,6 +13668,7 @@
 "1235615026","834000-0655","Ethelhelms Idrottsförening","https://www.etelhem.nu/idrottsf%C3%B6rening-37749329","idrottsförening",""
 "1235615133","817300-0178","Nordupplandskyrkan","https://nordupplandskyrkan.se/","religion",""
 "1235615216","888800-4606","Sollefteå HK","https://www.svenskalag.se/SollefteaHockey","idrottsförening,ishockeyklubb",""
+"1235615323","802420-6909","Blodomloppet","https://blodomloppet.se/vara-lopp/jonkoping/","blodomloppet,friskvård","Jönköping"
 "1235615489","857200-1496","Equmeniakyrkan Bohus-Björkö","https://equmeniakyrkanbjorko.se/","religion",""
 "1235615588","846501-6510","Videdals GIF","https://www.videdalsgif.se/","gymnastikförening,idrottsförening",""
 "1235615737","817000-9263","Enköpings Rugbyklubb","https://www.svenskalag.se/erkungdom","idrottsförening,rugbyklubb",""
@@ -13991,6 +13996,7 @@
 "1235752878","873200-0917","IF Nyedshov","https://www.nyedshov.se/","fotbollsklubb,idrottsförening",""
 "1235752936","802506-9736","Rotary Eslöv-Sallerup","https://eslov-sallerup.rotary2390.se/","rotaryklubb",""
 "1235753058","559093-9962","Archipelago Coffee","https://archipelago.coffee/","kafferosteri,närproducerat,rekoproducerat",""
+"1235753348","893200-3737","Östersunds Skidlöpareklubb","https://www.ostersundssk.se/","blodomloppet,idrottsförening,skidlöparklubb","Blodomloppet, Event"
 "1235753645","751206-XXXX","Yoga by Sandra Adrian / Sandra Adrian","https://www.yogabysandraadrian.se/","meditation,yoga",""
 "1235753991","630329-XXXX","Hundfantasten Uppland / Mari Landelius","https://www.hundfantasten.se/","hundinstruktörer,hundkurser,hundpsykologer",""
 "1235755541","802003-4610","SEKO Teleseniorer","https://sekoteleseniorer-stockholm.se/","pensionärsklubb","Stockholm"
