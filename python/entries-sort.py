@@ -213,6 +213,12 @@ def main():
 
         if(vo['categories'] != None):
 
+          if("team rynkeby" in vo['categories']):
+            categories = vo['categories']
+            categories.append("skolloppet")
+            categories.append("donation")
+            vo = addCategories(vo, categories)
+
           if("kvinnojour" in vo['categories']):
             categories = ['donation','kvinnojour']
             vo = addCategories(vo, categories)
