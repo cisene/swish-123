@@ -7,5 +7,9 @@ pdf/**
 work/
 work/**
 
+yaml/**-curren.yaml
+yaml/**-previous.yaml
+yaml/**-2026.yaml
+
 
 python/entries-team-rynkeby-sort.py
