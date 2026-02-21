@@ -71,8 +71,12 @@ def getActiveSTA(source_dict):
       # When date_expires is not NULL/None, they have an expiry set
       else:
         date_today_date = datetime.today().date()
-        date_issued_date = datetime.strptime(date_issued, "%Y-%m-%d").date()
-        date_expires_date = datetime.strptime(date_expires, "%Y-%m-%d").date()
+
+        if date_issued != None:
+          date_issued_date = datetime.strptime(str(date_issued), "%Y-%m-%d").date()
+
+        if date_expires != None:          
+          date_expires_date = datetime.strptime(str(date_expires), "%Y-%m-%d").date()
 
         # Check if todays date are within range
         if(
