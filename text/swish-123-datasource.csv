@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-02-23-rev-192447
+# Date: 2026-02-23-rev-211544
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2714,6 +2714,7 @@
 "1231070192","802447-0208","Helsingborgs Film- & Fotoklubb","https://www.helsingborgsfotoklubb.se/","filmklubb,fotoförening,fotoklubb",""
 "1231071018","829502-4825","Ingelstad Innebandyklubb","https://www.laget.se/Ingelstad/","idrottsförening,innebandyklubb","P-10/11"
 "1231071406","857209-0275","Biodlingsföretagarna","https://biodlingsforetagarna.se/","biodling,intresseorganisation",""
+"1231071992","802530-1501","Kämpamössans Förening","https://www.kampamossan.se/","barnverksamhet,cancerforskning,välgörenhet",""
 "1231072495","857201-9076","Västkuststiftelsen","https://vastkuststiftelsen.se/","naturvård,stiftelse",""
 "1231072578","802513-5164","Team KBK Bikes Cykelklubb & Triathlon","https://kbkbikes.se/team-kbk-bikes/team-kbk-bikes-cykel-triathlon-30465179","cykelklubb,idrottsförening,triathlonklubb",""
 "1231072891","893202-2505","Storsjö Bygdegård","https://storsjo-byalag.bokamera.se/","bygdegårdsförening",""
