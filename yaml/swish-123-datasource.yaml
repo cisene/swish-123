@@ -33612,6 +33612,14 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/nolaskogs/
 
+- entry: 1231490184
+  orgName: Norden 7:14
+  orgNumber: 817605-2655
+  comment: null
+  categories:
+  - religion
+  web: https://www.norden714.com/
+
 - entry: 1231492370
   orgName: Solna Yogaskola / Siddha Vidya Harlin
   orgNumber: 830308-XXXX
@@ -61547,9 +61555,9 @@ entries:
   web: https://kammarmusikilerum.se/
 
 - entry: 1232760080
-  orgName: Föreningen Norden Ätradalen
+  orgName: Föreningen Norden
   orgNumber: 802511-5505
-  comment: null
+  comment: Ätradalen
   categories:
   - intresseförening
   web: https://norden.se/atradalen/
@@ -73883,11 +73891,11 @@ entries:
 
 - entry: 1233336435
   orgName: Föreningen Norden
-  orgNumber: 802002-4546
-  comment: null
+  orgNumber: 935000-3332
+  comment: Karlskrona-Ronneby
   categories:
-  - ideell förening
-  web: https://norden.se/
+  - intresseförening
+  web: https://norden.se/karlskrona-ronneby/
 
 - entry: 1233336583
   orgName: Älvkarleby Fiskevårdsområdesförening
@@ -88737,6 +88745,14 @@ entries:
   - gravidmassage
   - massage
   web: https://lavemarksmassage.se/
+
+- entry: 1233997608
+  orgName: Föreningen Norden
+  orgNumber: 836200-7232
+  comment: Karlshamn-Sölvesborg
+  categories:
+  - intresseförening
+  web: https://norden.se/karlshamn-solvesborg/
 
 - entry: 1233997632
   orgName: Vänsterpartiet Partille
@@ -132904,9 +132920,9 @@ entries:
   web: https://www.friakonstnärersgille.se/
 
 - entry: 1236090518
-  orgName: Föreningen Norden Arvika
+  orgName: Föreningen Norden
   orgNumber: 802516-6631
-  comment: null
+  comment: Arvika
   categories:
   - intresseförening
   web: https://norden.se/arvika/
@@ -137789,6 +137805,8 @@ entries:
   orgNumber: 556664-1279
   comment: null
   categories:
+  - busstrafik
+  - charterbuss
   - researrangör
   - resebyrå
   web: https://www.columbusresor.se/
@@ -149785,6 +149803,14 @@ entries:
   - simsällskap
   web: https://nybrosimklubb.se/
 
+- entry: 1236839252
+  orgName: Föreningen Norden
+  orgNumber: 844000-9150
+  comment: Landskrona
+  categories:
+  - intresseförening
+  web: https://norden.se/landskrona/
+
 - entry: 1236839526
   orgName: Bratteborgs Ryttarsällskap
   orgNumber: 828001-1191
@@ -157027,8 +157053,8 @@ entries:
   orgNumber: 857204-4280
   comment: null
   categories:
-  - förening
   - insamlingskontroll
+  - intresseförening
   web: https://www.greenpeace.se/
 
 - entry: 1239013020
