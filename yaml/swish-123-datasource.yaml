@@ -9195,6 +9195,15 @@ entries:
   - sportklubb
   web: https://www.slattask.se/
 
+- entry: 1230416560
+  orgName: Lysekils Filmstudio
+  orgNumber: 854600-7421
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://lysekil.filmstudio.se/
+
 - entry: 1230416602
   orgName: Djurens Vänner
   orgNumber: 802468-9179
@@ -13498,6 +13507,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/MatforsIF/
+
+- entry: 1230614545
+  orgName: Götene Fotoklubb
+  orgNumber: 802548-8845
+  comment: null
+  categories:
+  - fotoförening
+  - fotoklubb
+  web: https://www.facebook.com/groups/666865853374880
 
 - entry: 1230617712
   orgName: Karlskoga Discgolfklubb
@@ -38853,6 +38871,15 @@ entries:
   - orienteringsklubb
   web: https://www.sno.nu/
 
+- entry: 1231730340
+  orgName: Falköpings Filmstudio
+  orgNumber: 802437-9854
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://falkoping.filmstudio.se/
+
 - entry: 1231730357
   orgName: Åstols Samhällsförening
   orgNumber: 853300-7145
@@ -41997,6 +42024,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/GammelgardensIF/
+
+- entry: 1231879931
+  orgName: Härjedalsföreningen i Stockholm
+  orgNumber: 802404-9467
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.facebook.com/harjedalsforeningen
 
 - entry: 1231880152
   orgName: Essinge Båtsällskap
@@ -55022,6 +55057,15 @@ entries:
   - konstgalleri
   web: https://gallerihantverket.se/
 
+- entry: 1232420073
+  orgName: Ystads Filmstudio Q
+  orgNumber: 802515-0643
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://ystad.filmstudio.se/
+
 - entry: 1232420297
   orgName: IK Rössö Uddevalla
   orgNumber: 858500-7290
@@ -58952,6 +58996,14 @@ entries:
   - båtklubb
   - båtsällskap
   web: https://www.facebook.com/groups/717076298695657/
+
+- entry: 1232650836
+  orgName: Förening Livsådra
+  orgNumber: 802533-6788
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.facebook.com/Livsadra/
 
 - entry: 1232652782
   orgName: Kalmar Soroptimistklubb
@@ -65009,6 +65061,15 @@ entries:
   - rugbyklubb
   web: https://www.svenskalag.se/ekf
 
+- entry: 1232893360
+  orgName: Helsingborgs Filmstudio
+  orgNumber: 802520-5991
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://helsingborg.filmstudio.se/
+
 - entry: 1232893469
   orgName: Rörstrands Båtklubb
   orgNumber: 802002-8786
@@ -70641,6 +70702,15 @@ entries:
   - ordensällskap
   web: https://www.bifrostorden.se/
 
+- entry: 1233154242
+  orgName: Katrineholms Filmstudio
+  orgNumber: 802545-2171
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://katrineholm.filmstudio.se/
+
 - entry: 1233155991
   orgName: Frivilliga Automobilkåren Jönköpings län, FAK
   orgNumber: 826000-9793
@@ -71653,6 +71723,15 @@ entries:
   - skolloppet
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1233206976
+  orgName: Hemse Filmstudio
+  orgNumber: 802488-1818
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://hemse.filmstudio.se/
 
 - entry: 1233207008
   orgName: SPF Seniorerna Flensbygden
@@ -76912,10 +76991,11 @@ entries:
   web: https://blog.kulturgaraget.se/
 
 - entry: 1233454147
-  orgName: Filmis Uddevalla filmstudio
+  orgName: Filmis Uddevalla Filmstudio
   orgNumber: 802464-5361
   comment: null
   categories:
+  - biograf
   - filmklubb
   web: https://uddevalla.filmstudio.se/
 
@@ -83155,6 +83235,15 @@ entries:
   categories:
   - restaurant
   web: https://limone.se/
+
+- entry: 1233727815
+  orgName: Flens Filmstudio
+  orgNumber: 802453-8061
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://flen.filmstudio.se/
 
 - entry: 1233728698
   orgName: Gällared Bygdegård
@@ -100117,9 +100206,8 @@ entries:
   orgNumber: 802527-4559
   comment: null
   categories:
-  - filmproduktion
-  - filmstudio
-  - mediaproduktion
+  - biograf
+  - filmklubb
   web: https://torslanda.filmstudio.se/
 
 - entry: 1234559597
@@ -112452,6 +112540,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://langasjo.builder.hemsida24.se/l%C3%A5ngasj%C3%B6-bygdeg%C3%A5rd/l%C3%A5ngasj%C3%B6-bygdeg%C3%A5rd
+
+- entry: 1235149927
+  orgName: Bodens Filmstudio
+  orgNumber: 802414-2526
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://boden.filmstudio.se/
 
 - entry: 1235149950
   orgName: Uddevalla Konståkningsförening
@@ -131271,6 +131368,15 @@ entries:
   - bygdegårdsförening
   web: https://bygdegardarna.se/vika-mora/
 
+- entry: 1235992771
+  orgName: Lidingö Filmstudio
+  orgNumber: 802433-5617
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://lidingo.filmstudio.se/
+
 - entry: 1235993258
   orgName: Västerviks Orienteringsklubb
   orgNumber: 833600-2590
@@ -134465,6 +134571,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://bygdegardarna.se/vaskinde/
+
+- entry: 1236141972
+  orgName: Flora Filmstudio Sjöbo
+  orgNumber: 802488-7880
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://flora.filmstudio.se/
 
 - entry: 1236142301
   orgName: Hammarby IF Ishockeyförening
@@ -138448,6 +138563,15 @@ entries:
   - musikkultur
   web: https://frim-stockholm.se/
 
+- entry: 1236302533
+  orgName: Nyköpings Filmstudio Dag
+  orgNumber: 817606-6218
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://nykoping-dag.filmstudio.se/
+
 - entry: 1236303937
   orgName: Vadsbro-Blacksta Scoutkår
   orgNumber: 802540-9684
@@ -141358,6 +141482,15 @@ entries:
   - danskurser
   - dansskola
   web: https://ackesdansskola.se/
+
+- entry: 1236450142
+  orgName: Åmals Filmstudio, Saga Bioförening Åmål
+  orgNumber: 802533-5970
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://amal.filmstudio.se/
 
 - entry: 1236451587
   orgName: Skällinge SKF
@@ -147349,6 +147482,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/tif
 
+- entry: 1236719330
+  orgName: Bergsjö IF
+  orgNumber: 887500-0104
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/BergsjoIF/
+
 - entry: 1236719587
   orgName: Munskänkarna
   orgNumber: 897001-7342
@@ -147464,6 +147606,15 @@ entries:
   categories:
   - supporterklubb
   web: https://aiktifo.se/
+
+- entry: 1236724231
+  orgName: AmbulanceByWahlander / Johan Wåhlander
+  orgNumber: 670613-XXXX
+  comment: null
+  categories:
+  - hjälporganisation
+  - ukraina
+  web: https://www.gofundme.com/f/ambulancebywahlander
 
 - entry: 1236728737
   orgName: Seasick AB
@@ -150594,6 +150745,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.rikkarlskoga.se/
+
+- entry: 1236862882
+  orgName: Sotenäs filmstudio
+  orgNumber: 802525-1581
+  comment: null
+  categories:
+  - biograf
+  - filmklubb
+  web: https://sotenas.filmstudio.se/
 
 - entry: 1236862973
   orgName: SPF Seniorerna Hult-Höreda
