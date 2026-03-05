@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-03-05-rev-190512
+# Date: 2026-03-05-rev-191003
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3614,7 +3614,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231441450	769621-2393	Fårö Förskola Fritids	https://faroforskolafritids.se/	barnomsorg,barnverksamhet,förskola	
 1231441948	252003-6399	Orust Pastorat	https://www.svenskakyrkan.se/orust	religion	Kyrkkaffe och gemenskapsluncher Tegneby
 1231441955	252003-6399	Orust Pastorat	https://www.svenskakyrkan.se/orust	religion	Bokbord Torp Församling
-1231442102	8370013305	Byalaget Västra Torup	https://vastratorup.se/	byalag	
+1231442102	837001-3305	Byalaget Västra Torup	https://vastratorup.se/	byalag	
 1231442532	559450-8797	Ikonverkstaden på Kållandsö AB	https://ikonverkstaden.se/	konstmåleri,religion	
 1231446992	802431-4984	Bollklubben Skansen	https://bkskansen.se/	fotbollsklubb,idrottsförening	
 1231447168	620304-XXXX	Glicko.me Glenn Andersson	https://glicko.me/	lokalmedia	
