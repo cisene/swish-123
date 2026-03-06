@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-03-05-rev-190953
+# Date: 2026-03-06-rev-180652
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3762,6 +3762,7 @@
 "1231483783","802503-4060","Z-Bataljonen","https://www.sverigesveteranforbund.se/z-bataljonen","intresseorganisation",""
 "1231483908","556236-8539","Mosquito / Thomas Gylling / Tropicopop","https://www.facebook.com/mosquito","artist,eventarrangör,musikkultur",""
 "1231484211","822003-0129","Kisa Scoutkår","https://kisa.scout.se/","scoutkår",""
+"1231484328","832000-2689","Persnäs Hembygdsförening","https://www.hembygd.se/persnas","hembygdsförening",""
 "1231484450","893202-8890","Åre Konstförening","https://are.konstforeningar.se/","konstförening",""
 "1231484542","883201-1046","Svenska Polarhundklubben, SPHK","https://sphk.se/","hundklubb,hundsport",""
 "1231484724","556878-5009","Blåvittquiz / Restaurang Olivedal","","supporterklubb",""
@@ -9128,6 +9129,7 @@
 "1233645272","802478-3865","Insamlingsstiftelsen Bygdens Fond","https://bygdensfond.se/","intresseförening,stiftelse",""
 "1233645363","252004-9236","Krokoms Pastorat","https://www.svenskakyrkan.se/krokom","religion","Kollekt Näskott"
 "1233646155","889201-6984","Njurunda Hembygdsförening","https://www.hembygd.se/njurunda","hembygdsförening",""
+"1233646254","823000-3934","Högby Hembygdsförening","https://www.hembygd.se/hogby2","hembygdsförening",""
 "1233646262","556982-6711","HepCat AB","https://www.hepcat.se/","försäljning,kläder,profilkläder",""
 "1233646445","827500-4961","Boro Vetlanda HC","https://www.borovhc.se/","idrottsförening,ishockeyklubb",""
 "1233646494","826001-3472","Huskvarna Bågskytteklubb","https://www.svenskalag.se/huskvarnabk","bågskytteklubb,idrottsförening",""
@@ -10418,6 +10420,7 @@
 "1234204061","252003-7173","Sunne Pastorat","https://www.svenskakyrkan.se/sunne","religion","Blomsterfonden"
 "1234204178","815200-5891","Mälarö Skid- och Orienteringsklubb","https://malarosok.se/","idrottsförening,orienteringsklubb,skidlöparklubb",""
 "1234204285","893201-9022","Klövsjö-Vemdalens Golfklubb","https://www.kvgk.se/","golfbana,golfklubb",""
+"1234205217","827000-4578","Barkeryds Hembygdsförening","https://www.hembygd.se/barkeryds-hembygdsforening","hembygdsförening",""
 "1234205258","802420-3948","Prostatacancerföreningen Värmland","https://prostatacancerforbundet.se/om-oss/patientforeningar/varmland/prostatacancerforeningen-varmland/","donation,patientförening,prostatacancer,prostatacancerförening",""
 "1234205332","252002-7828","Lyckå Församling","https://www.svenskakyrkan.se/lycka-forsamling","religion","Kollekt"
 "1234205365","814800-7068","Vetenskap och Folkbildning, VoF","https://www.vof.se/","folkbildning,ideell förening,utbildning",""
@@ -12613,6 +12616,7 @@
 "1235164728","802421-5462","SPF Seniorerna Ale","https://www.spfseniorerna.se/distrikt/norraalvsborg/foreningslista/ale/","pensionärsklubb",""
 "1235164751","802600-4591","Skärshults Fiskevårdsområdesförening","","fiskekort,fiskevård,sportfiske",""
 "1235164983","843002-6214","Brottsofferjouren Helsingborg","https://helsingborg.boj.se/","brottsofferjour",""
+"1235165162","802015-7965","Enskede-Årsta Hembygdsförening","https://eahf.se/","hembygdsförening",""
 "1235166095","802449-4372","Rädda Djuren","https://raddadjuren.org/","djurskydd",""
 "1235166103","012389-5526","SPF Seniorerna Toarp-Dalsjöfors","https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-toarp-dalsjofors/","pensionärsklubb",""
 "1235166129","252004-9277","Österåkers Pastorat","https://www.svenskakyrkan.se/osteraker","religion","Övrigt"
@@ -13945,6 +13949,7 @@
 "1235690656","875002-5697","Tysslinge Skytteklubb","http://wp.tysslinge-skytteklubb.nu/","skytteklubb,sportskytteklubb",""
 "1235690748","802509-6267","Stallebrottet Kulturproduktion","https://stallebrottet.se/","ideell förening,kulturförening","Stallebrottet Kulturproduktion"
 "1235690854","802433-8553","Hillsong Church Sweden","https://hillsong.com/sweden/","religion","Örebro"
+"1235690912","802434-1284","Slöta Natur och Hembygdsförening","https://www.slotanatur.se/","hembygdsförening,naturförening",""
 "1235691118","857204-5568","Brännöföreningen","https://brannoforeningen.se/","barnverksamhet,idrottsförening","Brännöloppet och HLR"
 "1235691365","802410-2405","Radio Haninge Direkt!","https://www.radiohaninge.se/","lokalradio,närradiostation",""
 "1235692256","802509-3736","Föreningen Run for Mental Health i Lund","https://www.runformentalhealth.se/","förening,idrottsförening,löparklubb",""
@@ -14985,6 +14990,7 @@
 "1236133003","802532-7506","Team Rynkeby Helsingborg","https://www.team-rynkeby.se/","cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby","Förslöv, Förslövs skola"
 "1236133292","898200-7000","Månsbyns Framtid","https://mansbyn.se/","intresseförening,samhällsförening",""
 "1236133359","802515-6046","Borås Aikidoklubb","https://www.borasaikido.se/","aikidoklubb,idrottsförening,kampsportsförening",""
+"1236133417","897001-2855","Luleå Hembygdsförening","https://luleahembygdsforening.n.nu/","hembygdsförening",""
 "1236133581","611113-XXXX","Dressyrtränare Pia Björk","https://www.piabjoerk.com/","dressyrträning,ridlektioner",""
 "1236133680","252004-1969","Storfors Församling","https://www.svenskakyrkan.se/storfors","bastukultur","Bastuflotten"
 "1236133748","845002-6466","Föreningen Skånska Gårdar","https://www.skanskagardar.se/","historieförening,kulturförening",""
