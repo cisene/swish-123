@@ -830,6 +830,14 @@ entries:
   - padelklubb
   web: https://www.svenskalag.se/enkopingspadelteam
 
+- entry: 1230039727
+  orgName: Vesene Byalag
+  orgNumber: 802462-0968
+  comment: null
+  categories:
+  - byalag
+  web: https://vesenebyalag.se/
+
 - entry: 1230039933
   orgName: Norra Gotlands Brukshundsklubb
   orgNumber: 802474-8074
@@ -5154,6 +5162,14 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/halleberga
+
+- entry: 1230236828
+  orgName: Gamla Sofielunds Byalag
+  orgNumber: 846002-7249
+  comment: null
+  categories:
+  - byalag
+  web: https://gamlasofielundsbyalag.se/
 
 - entry: 1230237206
   orgName: Lidingö Vävstuga
@@ -12753,6 +12769,13 @@ entries:
   - fotoförening
   - fotoklubb
   web: https://www.fkpan.se/
+
+- entry: 1230547612
+  orgName: Ingrid Ekström
+  orgNumber: null
+  comment: null
+  categories: null
+  web: https://www.skogssocken.se/
 
 - entry: 1230547646
   orgName: Bostadsrättsföreningen Hammarby Kaj
@@ -20691,7 +20714,7 @@ entries:
   comment: null
   categories:
   - byalag
-  web: https://laknas.se/
+  web: https://laknas.se/bylaget/
 
 - entry: 1230877464
   orgName: Risbäcks Hembygdsförening
@@ -23744,7 +23767,7 @@ entries:
 - entry: 1230990630
   orgName: Bengtsforstraktens Hembygdsförening
   orgNumber: 862000-0169
-  comment: Gammelgårdens friluftsmuseum
+  comment: Gammelgårdens Friluftsmuseum
   categories:
   - friluftsmuseum
   - hembygdsförening
@@ -24269,6 +24292,14 @@ entries:
   categories:
   - religion
   web: https://www.ortodoxakyrkan.se/
+
+- entry: 1231018456
+  orgName: Gammelbo Byalag
+  orgNumber: 802462-7005
+  comment: null
+  categories:
+  - byalag
+  web: https://gammelbobyalag.se/
 
 - entry: 1231021773
   orgName: HC Dalen
@@ -28439,6 +28470,15 @@ entries:
   - sjösport
   - utbildning
   web: https://www.sjosportskolan.se/
+
+- entry: 1231203207
+  orgName: Seglora Byalag och Bygdegårdsförening
+  orgNumber: 864501-8576
+  comment: null
+  categories:
+  - byalag
+  - bygdegårdsförening
+  web: https://seglora.se/
 
 - entry: 1231203363
   orgName: Bröstcancerföreningen Värmland
@@ -35157,6 +35197,14 @@ entries:
   - ryttarförening
   web: https://gbrf.se/
 
+- entry: 1231483239
+  orgName: Utveckling Gräsmark
+  orgNumber: 802471-4043
+  comment: null
+  categories:
+  - byalag
+  web: https://grasmark.com/foreningar/utveckling-grasmark/
+
 - entry: 1231483783
   orgName: Z-Bataljonen
   orgNumber: 802503-4060
@@ -36034,6 +36082,15 @@ entries:
   categories:
   - idrottsförbund
   web: https://www.skyttesport.se/
+
+- entry: 1231508936
+  orgName: Sollidens Skoterklubb
+  orgNumber: 895401-0180
+  comment: null
+  categories:
+  - skoterklubb
+  - snöskoterklubb
+  web: https://langvattnet.se/sollidens-skoterklubb/
 
 - entry: 1231509090
   orgName: Lövslättens Hästklubb
@@ -38551,6 +38608,14 @@ entries:
   - idrottsförening
   - jympaklubb
   web: https://www.svenskalag.se/hammarkindssk
+
+- entry: 1231620749
+  orgName: Gillberga Byalag
+  orgNumber: 802502-9037
+  comment: null
+  categories:
+  - byalag
+  web: https://gillberga-byalag.nu/
 
 - entry: 1231620897
   orgName: Föreningen Kivik Tång
@@ -41249,6 +41314,14 @@ entries:
   categories:
   - religion
   web: https://immanuelskyrkan.nu/
+
+- entry: 1231743491
+  orgName: Röåns Byalag
+  orgNumber: 888800-7765
+  comment: null
+  categories:
+  - byalag
+  web: https://roan.junselebyar.se/
 
 - entry: 1231744036
   orgName: Rydöbruks Samhällsförening
@@ -46161,6 +46234,17 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/sormland/foreningslista/bjorkvik/
+
+- entry: 1231971175
+  orgName: Nygrânnôn Roddarklubb, NRK
+  orgNumber: 802456-8472
+  comment: null
+  categories:
+  - idrottsförening
+  - roddarklubb
+  - roddarsällskap
+  - roddklubb
+  web: https://laknas.se/nygrannon-roddarklubb/
 
 - entry: 1231971431
   orgName: Svenska Röda Korset
@@ -56780,7 +56864,7 @@ entries:
   categories:
   - homeopati
   - resonansbehandling
-  - zoneterapi
+  - zonterapi
   web: http://www.corazone.se/
 
 - entry: 1232374502
@@ -58553,6 +58637,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.laget.se/BrunfloFK/
+
+- entry: 1232455335
+  orgName: Sillebotten Byalag
+  orgNumber: 874001-6848
+  comment: null
+  categories:
+  - byalag
+  web: https://www.sillebotten.se/
 
 - entry: 1232455392
   orgName: Mora Församling
@@ -76174,6 +76266,14 @@ entries:
   - idrottsförening
   web: https://www.vasterasfriidrott.se/
 
+- entry: 1233228665
+  orgName: Västra Nöbbelövs Byalag
+  orgNumber: 848000-7684
+  comment: null
+  categories:
+  - byalag
+  web: https://vnobbelov.se/
+
 - entry: 1233228707
   orgName: Team Rynkeby Helsingborg
   orgNumber: 802532-7506
@@ -78186,6 +78286,13 @@ entries:
   - intresseförening
   web: https://www.friendsofmio.com/
 
+- entry: 1233332624
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1233332814
   orgName: Billingens Skidallians
   orgNumber: 802537-2601
@@ -78921,6 +79028,14 @@ entries:
   - fotoförening
   - fotoklubb
   web: https://www.traktorensfotoklubb.se/
+
+- entry: 1233365020
+  orgName: Långvattnets Byalag
+  orgNumber: 802497-3870
+  comment: null
+  categories:
+  - byalag
+  web: https://langvattnet.se/foreningar/byamannen/
 
 - entry: 1233365038
   orgName: Gislaveds Pastorat
@@ -88345,6 +88460,14 @@ entries:
   - sylt
   web: http://www.urbansskafferi.se/
 
+- entry: 1233744547
+  orgName: Gantofta Byalag
+  orgNumber: 843003-4572
+  comment: null
+  categories:
+  - byalag
+  web: https://gantofta.nu/
+
 - entry: 1233745551
   orgName: Svenska Hundklubben
   orgNumber: 815600-8537
@@ -90124,6 +90247,14 @@ entries:
   - ungdomsverksamhet
   web: https://www.jamlikt.nu/
 
+- entry: 1233830569
+  orgName: Malmkajen AB
+  orgNumber: 559481-7511
+  comment: null
+  categories:
+  - restaurant
+  web: https://langvind.com/se/langvind/kolhuset/
+
 - entry: 1233830957
   orgName: Bostadsrättsföreningen Islandet Adolf
   orgNumber: 769605-0389
@@ -91214,8 +91345,7 @@ entries:
   orgNumber: 893203-0938
   comment: null
   categories:
-  - förening
-  - hembygdsförening
+  - byalag
   web: https://www.flykalen.se/
 
 - entry: 1233881455
@@ -99659,6 +99789,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/svardsjoenviken/
+
+- entry: 1234250437
+  orgName: Nydala Byalag
+  orgNumber: 828001-0474
+  comment: null
+  categories:
+  - byalag
+  web: https://nydala.com/
 
 - entry: 1234255246
   orgName: Linköpings Konstmuseums Vänner, LKV
@@ -116133,6 +116271,15 @@ entries:
   - intresseförening
   web: https://svenskaidrottshistoriska.se/
 
+- entry: 1235059084
+  orgName: Hotagens Sportclub
+  orgNumber: 802516-8926
+  comment: null
+  categories:
+  - idrottsförening
+  - rullskidklubb
+  web: https://hotagensc.se/
+
 - entry: 1235059688
   orgName: IF Åsen
   orgNumber: 832800-9090
@@ -119639,7 +119786,6 @@ entries:
   comment: null
   categories:
   - byalag
-  - förening
   web: https://gronby.se/
 
 - entry: 1235175930
@@ -119929,6 +120075,14 @@ entries:
   - idrottsförening
   - löparklubb
   web: https://www.mariestadsaif.se/
+
+- entry: 1235193123
+  orgName: Tollereds Byalag
+  orgNumber: 802419-4345
+  comment: null
+  categories:
+  - byalag
+  web: https://tolleredsbyalag.se/
 
 - entry: 1235194139
   orgName: Lost Goats AB
@@ -120950,6 +121104,15 @@ entries:
   - esport
   - intresseförening
   web: https://hobyesport.com/
+
+- entry: 1235243571
+  orgName: Porsi Byalag
+  orgNumber: 717921-9089
+  comment: Fiskekort
+  categories:
+  - fiskekort
+  - fiskevårdsområde
+  web: http://www.porsisjoarna.se/fiskekort/
 
 - entry: 1235243985
   orgName: Övertorneå Grappling Klubb
@@ -124044,6 +124207,17 @@ entries:
   - intresseförening
   - musikförening
   web: https://taubesallskapet.se/
+
+- entry: 1235365143
+  orgName: Glöte Dusch & Bastuförening
+  orgNumber: 802487-4482
+  comment: null
+  categories:
+  - badförening
+  - bastuförening
+  - bastukultur
+  - duschförening
+  web: http://www.gloteduschobastu.se/
 
 - entry: 1235365408
   orgName: Saltsjöbadens Hembygdsförening
@@ -128187,6 +128361,14 @@ entries:
   - hästsport
   - körsällskap
   web: https://www.svenskalag.se/blekingeks
+
+- entry: 1235530720
+  orgName: Mallbackens Byalag
+  orgNumber: 874000-7169
+  comment: null
+  categories:
+  - byalag
+  web: https://www.facebook.com/MallbackensByalag/
 
 - entry: 1235530753
   orgName: Uddevalla Varvs- och Industrihistoriska förening
@@ -134199,6 +134381,14 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/bjarnumspastorat
 
+- entry: 1235771381
+  orgName: Vy Västerrottna
+  orgNumber: 802487-9291
+  comment: null
+  categories:
+  - byalag
+  web: https://grasmark.com/foreningar/vy-vasterrottna/
+
 - entry: 1235771704
   orgName: Floda Hembygdsförening
   orgNumber: 818500-5520
@@ -134534,6 +134724,14 @@ entries:
   categories:
   - rotaryklubb
   web: https://portal.clubrunner.ca/15597
+
+- entry: 1235785068
+  orgName: Gärdala Byalag
+  orgNumber: 802445-0028
+  comment: null
+  categories:
+  - byalag
+  web: https://www.gardala.se/
 
 - entry: 1235785183
   orgName: Dösjöbro IF
@@ -148725,6 +148923,14 @@ entries:
   - religion
   web: https://umea.pingst.se/
 
+- entry: 1236406227
+  orgName: Gräsmarks Hembygdsförening
+  orgNumber: 874000-0354
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://grasmark.com/foreningar/grasmarks-hembygdsforening/
+
 - entry: 1236406425
   orgName: Stiftelsen Alfons Åbergs Kulturhus
   orgNumber: 802477-3759
@@ -152070,6 +152276,14 @@ entries:
   - hästsport
   - ridklubb
   web: https://www.haboridklubb.se/
+
+- entry: 1236536973
+  orgName: Öland kust till kust
+  orgNumber: 802451-4542
+  comment: null
+  categories:
+  - intresseförening
+  web: https://kust-kust.se/
 
 - entry: 1236537120
   orgName: Budoklubben Shindo
@@ -160332,6 +160546,14 @@ entries:
   - skolloppet
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1236898944
+  orgName: Grangärdebygdens Intresseförening, GBI
+  orgNumber: 883800-7881
+  comment: null
+  categories:
+  - intresseförening
+  web: https://grangardebygden.se/
 
 - entry: 1236899017
   orgName: Södra Bilsportförbundet
