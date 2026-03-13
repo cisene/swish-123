@@ -334,12 +334,12 @@ def sitemapIndex(filelist):
     elem_lastmod.text = f"{dest_date_date}T{dest_date_time}+01:00"
 
     # <changefreq>weekly</changefreq>
-    elem_changefreq = etree.Element("changefreq")
-    elem_changefreq.text = str("weekly")
+    #elem_changefreq = etree.Element("changefreq")
+    #elem_changefreq.text = str("weekly")
 
     elem_sitemap.append(elem_loc)
     elem_sitemap.append(elem_lastmod)
-    elem_sitemap.append(elem_changefreq)
+    #elem_sitemap.append(elem_changefreq)
 
     urlset.append(elem_sitemap)
     line_count += 1
