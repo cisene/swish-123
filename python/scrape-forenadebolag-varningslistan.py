@@ -124,7 +124,7 @@ def cloneVO(thisVO):
 
     if "orgName" in thisVO:
       if thisVO['orgName'] != None:
-        vo['orgName'] = thisVO['orgName']
+        vo['orgName'] = sorted(thisVO['orgName'])
 
     if "date" in thisVO:
       if thisVO['date'] != None:
@@ -247,6 +247,7 @@ def main():
               if obj['orgName'] != item_orgName:
                 if item_orgName not in obj['orgName']:
                   obj['orgName'].append(item_orgName)
+                  sort(obj['orgName'])
 
               if obj['date'] != item_date:
                 obj['date'] = item_date
