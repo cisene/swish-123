@@ -81,6 +81,7 @@ def prettyprintSwish(data):
 def main():
 
   themes = [
+
     {
       'title': 'Godkända Gåvomottagare',
       'slug': 'swishkatalogen-godkanda-gavomottagare',
@@ -88,6 +89,7 @@ def main():
         'godkänd gåvomottagare',
       ]
     },
+
     {
       'title': 'Insamlingskontroll',
       'slug': 'swishkatalogen-insamlingskontroll',
@@ -95,6 +97,7 @@ def main():
         'insamlingskontroll'
       ]
     },
+
     {
       'title': 'Kvinnojourer, Tjejjourer och Transjourer',
       'slug': 'swishkatalogen-kvinnojourer',
@@ -103,7 +106,18 @@ def main():
         'tjejjour',
         'transjour',
       ]
-    }
+    },
+
+    {
+      'title': 'Team Rynkeby - Skolloppet',
+      'slug': 'swishkatalogen-team-rynkeby-skolloppet',
+      'categories': [
+        'team rynkeby',
+        'skolloppet'
+      ]
+    },
+
+
   ]
 
   print(f"Reading source JSON: {JSON_SOURCE_FILE} ..")
