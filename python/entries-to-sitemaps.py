@@ -96,12 +96,12 @@ def sitemapMisc(filelist):
       elem_lastmod = etree.Element("lastmod")
       elem_lastmod.text = f"{dest_date_date}T{dest_date_time}+01:00"
 
-      elem_changefreq = etree.Element("changefreq")
-      elem_changefreq.text = str("weekly")
+      #elem_changefreq = etree.Element("changefreq")
+      #elem_changefreq.text = str("weekly")
 
       elem_url.append(elem_loc)
       elem_url.append(elem_lastmod)
-      elem_url.append(elem_changefreq)
+      #elem_url.append(elem_changefreq)
 
       urlset.append(elem_url)
       line_count += 1
@@ -158,12 +158,12 @@ def sitemapOrganizations(organisationList):
       elem_lastmod = etree.Element("lastmod")
       elem_lastmod.text = f"{dest_date_date}T{dest_date_time}+01:00"
 
-      elem_changefreq = etree.Element("changefreq")
-      elem_changefreq.text = str("weekly")
+      #elem_changefreq = etree.Element("changefreq")
+      #elem_changefreq.text = str("weekly")
 
       elem_url.append(elem_loc)
       elem_url.append(elem_lastmod)
-      elem_url.append(elem_changefreq)
+      #elem_url.append(elem_changefreq)
 
       urlset.append(elem_url)
       line_count += 1
@@ -220,12 +220,12 @@ def sitemapCategories(categoriesList):
       elem_lastmod = etree.Element("lastmod")
       elem_lastmod.text = f"{dest_date_date}T{dest_date_time}+01:00"
 
-      elem_changefreq = etree.Element("changefreq")
-      elem_changefreq.text = str("weekly")
+      #elem_changefreq = etree.Element("changefreq")
+      #elem_changefreq.text = str("weekly")
 
       elem_url.append(elem_loc)
       elem_url.append(elem_lastmod)
-      elem_url.append(elem_changefreq)
+      #elem_url.append(elem_changefreq)
 
       urlset.append(elem_url)
       line_count += 1
@@ -282,12 +282,12 @@ def sitemapNumbers(numbersList):
       elem_lastmod.text = f"{dest_date_date}T{dest_date_time}+01:00"
 
       # <changefreq>weekly</changefreq>
-      elem_changefreq = etree.Element("changefreq")
-      elem_changefreq.text = str("weekly")
+      #elem_changefreq = etree.Element("changefreq")
+      #elem_changefreq.text = str("weekly")
 
       elem_url.append(elem_loc)
       elem_url.append(elem_lastmod)
-      elem_url.append(elem_changefreq)
+      #elem_url.append(elem_changefreq)
 
       urlset.append(elem_url)
       line_count += 1
