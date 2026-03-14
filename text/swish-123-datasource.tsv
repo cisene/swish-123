@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-03-14-rev-171845
+# Date: 2026-03-14-rev-174414
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1144,6 +1144,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230438937	802472-6393	Rotary Bromölla	https://portal.clubrunner.ca/15817/	rotaryklubb	
 1230439190	852000-2950	IK Uven	https://www.svenskalag.se/ikuven	idrottsförening,orienteringsklubb	
 1230439844	252004-2660	Anderslövs Församling	https://www.svenskakyrkan.se/anderslov	religion	Kollekt
+1230439943	559424-8360	Markus Allard AB	https://x.com/Markus_Allard	kommunikation,opinionsbildning	
 1230439968	556626-3793	Mustasch AB	https://www.mustasch.net/	musik,orkester	
 1230440164	827000-2036	Nässjö IF	https://www.svenskalag.se/nassjoif	bandyklubb,idrottsförening,skridskoklubb	
 1230440586	802536-0457	Sigges Paradis	https://www.facebook.com/groups/2135239593221333	djurskydd,katthem	Josefin
@@ -3110,6 +3111,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231215417	827000-6953	IK Sisu - Friidrott	https://www.iksisu.se/	friidrottsförening,idrottsförening	
 1231215607	783800-0292	Nyhammars Folkets Hus	https://www.nyhammarsfolketshus.se/	folketshus,intresseförening	
 1231216530	842000-4890	Hörby-Frosta Gammeldansförening	https://www.horbyfrostagdf.se/	dansförening,gammeldansförening	
+1231217017	878001-0909	Badelunda Hembygdsförening	https://www.hembygd.se/badelunda	hembygdsförening	
 1231217082	897001-2186	Luleå Karateklubb	https://www.svenskalag.se/luleakk	idrottsförening,konståkningsklubb	
 1231217330	802448-4357	Ratans Byaförening	https://www.ratan.se/	byaförening,byalag	
 1231217413	252003-0863	Västerås Pastorat	https://www.svenskakyrkan.se/vasteras/backbykyrkan	religion	Bäckby Försalmling, Kollekt
@@ -4036,6 +4038,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231573468	556312-5417	Näsets Båtvarv AB	https://www.yourvismawebsite.com/nasets-motorverkstad-ab	båtvarv,marina	
 1231573831	802511-1561	Blasieholmens Vänner	https://blasieholmensvanner.se/	intresseförening	
 1231574227	802418-0773	Kinna IBK	https://www.laget.se/KinnaIBK/	idrottsförening,innebandyklubb	Medlemsavgifter
+1231574268	802476-4881	Skarpa Kvinns	https://www.skarpakvinns.se/	kvinnligt nätverk,stödverksamhet	
 1231574342	897600-5150	Mattila Byagårdsförening	https://bygdegardarna.se/mattila/	bygdegårdsförening	
 1231574698	802533-7794	Team Rynkeby Skaraborg	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Mariestad, Ullervads skola
 1231575273	252002-9634	Ösmo Torö Församling	https://osmotoro.se/	religion	Kollekt
@@ -6160,6 +6163,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232389997	802422-8747	Den Goda Jorden	https://dengodajorden.se/	intresseförening	
 1232390524	802453-4532	Oreparken	https://www.hembygd.se/ore	hembygdsförening	
 1232391027	802474-1376	Brynäs Kyokushin Karate	https://www.svenskalag.se/brynaskarate	idrottsförening,kampsportsförening,karateklubb	
+1232391183	914000-1802	Friluftsfrämjandet - Värmdö Lokalavdelning	https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/varmdo/	barnverksamhet,friluftsförening,ungdomsverksamhet	
 1232391217	802481-7580	Insamlingsstiftelsen för Resurssmart	https://www.stiftelsen-resurssmart-utveckling.se/	stiftelse	
 1232391654	885000-8320	Valbo FF	https://www.laget.se/ValboFF/	fotbollsklubb,idrottsförening	F-2012
 1232392249	818001-1994	Equmenia Elimkyrkan Eskilstuna	https://elimkyrkan.com/	religion	

@@ -10121,6 +10121,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/anderslov
 
+- entry: 1230439943
+  orgName: Markus Allard AB
+  orgNumber: 559424-8360
+  comment: null
+  categories:
+  - kommunikation
+  - opinionsbildning
+  web: https://x.com/Markus_Allard
+
 - entry: 1230439968
   orgName: Mustasch AB
   orgNumber: 556626-3793
@@ -27791,6 +27800,14 @@ entries:
   - gammeldansförening
   web: https://www.horbyfrostagdf.se/
 
+- entry: 1231217017
+  orgName: Badelunda Hembygdsförening
+  orgNumber: 878001-0909
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/badelunda
+
 - entry: 1231217082
   orgName: Luleå Karateklubb
   orgNumber: 897001-2186
@@ -36055,6 +36072,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/KinnaIBK/
+
+- entry: 1231574268
+  orgName: Skarpa Kvinns
+  orgNumber: 802476-4881
+  comment: null
+  categories:
+  - kvinnligt nätverk
+  - stödverksamhet
+  web: https://www.skarpakvinns.se/
 
 - entry: 1231574342
   orgName: Mattila Byagårdsförening
@@ -55163,6 +55189,16 @@ entries:
   - kampsportsförening
   - karateklubb
   web: https://www.svenskalag.se/brynaskarate
+
+- entry: 1232391183
+  orgName: Friluftsfrämjandet - Värmdö Lokalavdelning
+  orgNumber: 914000-1802
+  comment: null
+  categories:
+  - barnverksamhet
+  - friluftsförening
+  - ungdomsverksamhet
+  web: https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/varmdo/
 
 - entry: 1232391217
   orgName: Insamlingsstiftelsen för Resurssmart

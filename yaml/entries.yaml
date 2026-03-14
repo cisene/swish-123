@@ -10527,11 +10527,13 @@ entries:
   web: https://www.svenskakyrkan.se/anderslov
 
 - entry: 1230439943
-  orgName: Markus Allard
-  orgNumber: null
+  orgName: Markus Allard AB
+  orgNumber: 559424-8360
   comment: null
-  categories: null
-  web: null
+  categories:
+  - kommunikation
+  - opinionsbildning
+  web: https://x.com/Markus_Allard
 
 - entry: 1230439968
   orgName: Mustasch AB
@@ -21191,7 +21193,8 @@ entries:
   orgName: Frihet och Hälsa / Nuidag.se
   orgNumber: 802463-6543
   comment: Mitt arbete
-  categories: null
+  categories:
+  - retired
   web: https://frihetochhalsa.se/
 
 - entry: 1230892307
@@ -28903,7 +28906,8 @@ entries:
   orgName: Badelunda Hembygdsförening
   orgNumber: 878001-0909
   comment: null
-  categories: null
+  categories:
+  - hembygdsförening
   web: https://www.hembygd.se/badelunda
 
 - entry: 1231217082
@@ -37444,7 +37448,9 @@ entries:
   orgName: Skarpa Kvinns
   orgNumber: 802476-4881
   comment: null
-  categories: null
+  categories:
+  - kvinnligt nätverk
+  - stödverksamhet
   web: https://www.skarpakvinns.se/
 
 - entry: 1231574342
@@ -57401,7 +57407,10 @@ entries:
   orgName: Friluftsfrämjandet - Värmdö Lokalavdelning
   orgNumber: 914000-1802
   comment: null
-  categories: null
+  categories:
+  - barnverksamhet
+  - friluftsförening
+  - ungdomsverksamhet
   web: https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/varmdo/
 
 - entry: 1232391217
