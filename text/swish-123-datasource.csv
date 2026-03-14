@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-03-13-rev-191858
+# Date: 2026-03-14-rev-171835
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -389,7 +389,7 @@
 "1230175885","970208-XXXX","I Min Smak / Petter Ljunggren","https://iminsmak.se/","bageri,mathantverk,praliner",""
 "1230176123","889200-0897","Ängoms Bygdegård","https://www.facebook.com/groups/201373182513465","bygdegårdsförening",""
 "1230176453","741111-XXXX","HDB Musik Produktion / Henrik Berggren","https://henrikberggren.bandcamp.com/music","artist,musiker",""
-"1230176909","802545-4805","Norrtäljehjälpen Ideell Förening","","hjälporganisation",""
+"1230176909","802545-4805","Norrtäljehjälpen Ideell Förening","https://www.facebook.com/groups/371412031531458","donation,hjälporganisation,ukraina",""
 "1230178079","812000-4687","Svenska Organisation Mondiale pour l’Éducation Préscolaire, OMEP","https://omep.org.se/","intresseförening,utbildning",""
 "1230178897","883200-1351","Hedby Byalag","https://www.hedby.se/","byalag",""
 "1230180067","869000-8159","IFK Lidköping","https://www.laget.se/IFKLidkoping/","fotbollsklubb,idrottsförening",""
@@ -902,6 +902,7 @@
 "1230353391","716400-1112","Södra Ljusterö Byggnadsförening","https://granliden-ljustero.se/","byggnadsförening,samfällighetsförening",""
 "1230354654","556884-9789","Vaksala Trafikskola AB","https://vaksalatrafikskola.se/","trafikskola,utbildning",""
 "1230354787","815600-3454","Södertälje Basketbollklubb","https://www.sbbk.se/","basketbollklubb,idrottsförening","Damlaget"
+"1230358580","802551-2891","Folkets Tält","https://folketstalt.se/","musik,religion,sång",""
 "1230362046","813600-4085","Millesgårdens Vänner","https://millesgardensvanner.se/","förening,intresseförening",""
 "1230362459","252004-1142","Nora-Skogs Församling","https://www.svenskakyrkan.se/kramfors/nora-kyrka","religion",""
 "1230362699","863000-4599","Reumatikerföreningen Trollhättan","https://trollhattan.reumatiker.se/","patientförening,reumatikerförening",""
@@ -6236,6 +6237,7 @@
 "1232421287","802539-7665","RPG Jönköping Öst","https://www.rpg-smaland-oland.se/rpg-smaland-oland/extern/jonkoping-ost.htm","pensionärsklubb,religion",""
 "1232422905","802003-3927","Bridgeklubben S:t Erik","https://www.sterik.se/","bridgeklubb",""
 "1232423374","802534-5243","Makalösa Föräldrar","https://makalosa.org/","föräldraskap","Halmstad"
+"1232423705","556730-0214","Kolafabriken i Sverige AB","https://www.kolafabriken.se/","konfekttillverkare,livsmedelsproducent,tillverkning",""
 "1232424968","894000-0691","KFUM Umeå","https://umea.kfum.se/","logi,ungdomsverksamhet,övernattning","Norrland YMCA Hostel"
 "1232426773","802531-7374","Tjalve Friidrott","https://www.svenskalag.se/tjalvefriidrott","friidrottsförening,idrottsförening",""
 "1232426864","802534-5466","Team Rynkeby Täby","https://www.team-rynkeby.se/","cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby","Saltsjö-Boo, Noblaskolan Saltsjö-Boo"
@@ -7066,6 +7068,7 @@
 "1232781755","826001-4769","SKPF Pensionärerna Jönköping, avd 11","https://www.skpf.se/avdelningar/distrikt-jonkopings-lan/jonkoping-avd-11/","pensionärsklubb",""
 "1232781847","802489-3599","Askeröd Bylalag","https://askerodgarden.se/","byalag",""
 "1232782159","802544-3915","Caps and Candles for Ukraine - insamling till Ukraina","https://www.facebook.com/groups/473972251456247","insamling,ukraina",""
+"1232782324","897001-7755","Svenska Röda Korset","https://www.rodakorset.se/ort/norrbotten/bodens-kommun/","donation,hjälporganisation,rödakorset","Bodenkretsen"
 "1232782431","828000-4758","Kärda Hembygdsförening","https://www.hembygd.se/karda","hembygdsförening",""
 "1232783272","802006-9434","Socialistisk Politik","https://socialistiskpolitik.se/","intresseförening","Internationalen veckotidning"
 "1232784445","802468-3867","Karlskoga Humanistiska Förening","https://mockelnforeningarna.se/kgahum/","intresseförening",""

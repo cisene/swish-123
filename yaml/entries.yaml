@@ -3496,8 +3496,10 @@ entries:
   orgNumber: 802545-4805
   comment: null
   categories:
+  - donation
   - hjälporganisation
-  web: null
+  - ukraina
+  web: https://www.facebook.com/groups/371412031531458
 
 - entry: 1230178079
   orgName: Svenska Organisation Mondiale pour l’Éducation Préscolaire, OMEP
@@ -8308,6 +8310,16 @@ entries:
   - basketbollklubb
   - idrottsförening
   web: https://www.sbbk.se/
+
+- entry: 1230358580
+  orgName: Folkets Tält
+  orgNumber: 802551-2891
+  comment: null
+  categories:
+  - musik
+  - religion
+  - sång
+  web: https://folketstalt.se/
 
 - entry: 1230362046
   orgName: Millesgårdens Vänner
@@ -58115,6 +58127,16 @@ entries:
   - föräldraskap
   web: https://makalosa.org/
 
+- entry: 1232423705
+  orgName: Kolafabriken i Sverige AB
+  orgNumber: 556730-0214
+  comment: null
+  categories:
+  - konfekttillverkare
+  - livsmedelsproducent
+  - tillverkning
+  web: https://www.kolafabriken.se/
+
 - entry: 1232424968
   orgName: KFUM Umeå
   orgNumber: 894000-0691
@@ -65986,6 +66008,16 @@ entries:
   - insamling
   - ukraina
   web: https://www.facebook.com/groups/473972251456247
+
+- entry: 1232782324
+  orgName: Svenska Röda Korset
+  orgNumber: 897001-7755
+  comment: Bodenkretsen
+  categories:
+  - donation
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/norrbotten/bodens-kommun/
 
 - entry: 1232782431
   orgName: Kärda Hembygdsförening
