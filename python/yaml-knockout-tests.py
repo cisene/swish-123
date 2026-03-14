@@ -307,27 +307,41 @@ def testEntries(entries):
             malformed_orgNumber_empty == True
 
           # Detect malformed or missing categories
-          if entryVO['categories'] != None:
-            if len(entryVO['categories']) < 1:
+          # but only if they have valid orgName and orgNumber
+          if (
+            (
+              malformed_orgName_empty == False
+              and
+              malformed_orgName_toolong == False
+            )
+            and
+            (
+              malformed_orgNumber_empty == False
+              and
+              malformed_orgNumber_toolong == False
+            )
+          ):
+            if entryVO['categories'] != None:
+              if len(entryVO['categories']) < 1:
+                malformed_categories_empty = True
+
+              if len(entryVO['categories']) > 25:
+                malformed_categories_toolong = True
+
+            else:
               malformed_categories_empty = True
 
-            if len(entryVO['categories']) > 25:
-              malformed_categories_toolong = True
 
-          else:
-            malformed_categories_empty = True
-
-
-          # Detect categorization the disqualifies
-          if malformed_categories == False:
-            if "categories" in entryVO:
-              if entryVO['categories'] != None:
-                for category in entryVO['categories']:
-                  if category in ['overifierad', 'retired', 'suspended', 'terminated', 'unverified']:
-                    malformed_vo_filtered = True
-                    break
-              else:
-                malformed_categories_empty = True
+            # Detect categorization the disqualifies
+            if malformed_categories == False:
+              if "categories" in entryVO:
+                if entryVO['categories'] != None:
+                  for category in entryVO['categories']:
+                    if category in ['overifierad', 'retired', 'suspended', 'terminated', 'unverified']:
+                      malformed_vo_filtered = True
+                      break
+                else:
+                  malformed_categories_empty = True
 
           # Detect malformed or missing web
           if entryVO['web'] != None:
