@@ -214,6 +214,8 @@ def testEntries(entries):
     'malformed-web-empty': [],
     'malformed-web-http': [],
     'malformed-web-missing': [],
+
+    'malformed-all-null': [],
   }
 
   if entries != None:
@@ -237,6 +239,8 @@ def testEntries(entries):
         malformed_categories_empty = False
         malformed_categories_toolong = False
         malformed_web = False
+        malformed_web_empty = False
+        malformed_web_http = False
 
         # Detect malformed ValueObjects, missing properties
         for VOproperty in ['entry', 'orgName', 'orgNumber', 'comment', 'categories', 'web']:
@@ -251,6 +255,7 @@ def testEntries(entries):
         if testIsEntryNumber(entryVO['entry']) == False:
           malformed_vo = True
 
+        # Somewhat deeper tests
         if (
           malformed_vo == False
           and
@@ -322,26 +327,24 @@ def testEntries(entries):
             )
           ):
             if entryVO['categories'] != None:
+              # Too short?
               if len(entryVO['categories']) < 1:
                 malformed_categories_empty = True
 
+              # Too long?
               if len(entryVO['categories']) > 25:
                 malformed_categories_toolong = True
+
+              # Detect categorization the disqualifies
+              for category in entryVO['categories']:
+                if category in ['overifierad', 'retired', 'suspended', 'terminated', 'unverified']:
+                  malformed_vo_filtered = True
+                  break
 
             else:
               malformed_categories_empty = True
 
 
-            # Detect categorization the disqualifies
-            if malformed_categories == False:
-              if "categories" in entryVO:
-                if entryVO['categories'] != None:
-                  for category in entryVO['categories']:
-                    if category in ['overifierad', 'retired', 'suspended', 'terminated', 'unverified']:
-                      malformed_vo_filtered = True
-                      break
-                else:
-                  malformed_categories_empty = True
 
           # Detect malformed or missing web
           if entryVO['web'] != None:
@@ -357,7 +360,7 @@ def testEntries(entries):
                 malformed_web_http = True
 
           else:
-            malformed_web = True
+            malformed_web_empty = True
 
 
 
@@ -440,6 +443,24 @@ def testEntries(entries):
 
         if malformed_web_http == True:
           result['malformed-web-http'].append(entryVO)
+
+
+        # Catch all empty placeholders
+        if (
+          malformed_orgName_empty == True
+          and
+          malformed_orgNumber_empty == True
+        ):
+          result['malformed-all-null'].append(entryVO)
+
+          print(entryVO)
+
+          print(f"name-empty: {malformed_orgName_empty}")
+          print(f"number-empty: {malformed_orgNumber_empty}")
+          print(f"categories-empty: {malformed_categories_empty}")
+          print(f"web-empty: {malformed_web_empty}")
+
+          time.sleep(5)
 
 
   return result
