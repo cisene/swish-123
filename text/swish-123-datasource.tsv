@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-03-14-rev-204313
+# Date: 2026-03-16-rev-175158
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4230,6 +4230,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231646785	802490-5484	Olofsbo Stugägarförening	https://www.olofsbo.com/	fastighetsägarförening	
 1231649706	864000-5339	Stora Mellby Sportklubb	https://www.storamellbysk.se/	fotbollsklubb,gymnastikförening,idrottsförening,sportklubb	
 1231649870	802407-6526	Svenska Hovawartklubben	https://www.hovawartklubben.se/	hundklubb,hundsport	
+1231649995	717901-9224	Össjödalens Samfällighetsförening	https://www.ossjodalens.se/	samfällighetsförening	
 1231650035	829500-5204	Älghults Sockens Hembygdsförening	https://www.hembygd.se/alghult	hembygdsförening	
 1231650142	802520-1966	SK4KO - Siljanbygdens Sändareamatörer - 7S4VL	https://www.sk4ko.com/	radioklubb,sändareamatörer	
 1231652403	802445-2537	OCD-föreningen Stockholm	https://ocdstockholm.se/	intresseförening,patientförening	
@@ -11720,6 +11721,8 @@ entry	orgNumber	orgName	web	categories	comment
 1234706008	885002-0309	PRO Gävle Ettan	https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle/foreningar/gavle-ettan.html	pensionärsklubb	
 1234706487	671202-XXXX	Ashtanga Yoga Center / Anita Westlund	https://ashtanga-yoga.se/	yoga	
 1234709598	559165-9437	Naitisport AB	https://www.naitisport.se/	kosttillskott,styrketräning	
+1234709779	802500-7744	Fritidsklubben Edsala-Kalkudden	https://kalkudden.org/	fritidsförening,fritidsklubb	
+1234709879	802500-7744	Fritidsklubben Edsala-Kalkudden	https://kalkudden.org/	fritidsförening,fritidsklubb	
 1234711198	556701-6711	Öijared Resort	https://www.oijared.se/	golfbana,hotell,konferens,restaurant	
 1234711297	818501-3557	Flens Jaktskytteklubb	https://www.svenskalag.se/flensjsk	jaktskytteklubb	
 1234711305	885000-0251	Gävle Pingstförsamling	https://hedvigslundskyrkan.se/	religion	
@@ -16231,6 +16234,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236539290	887000-6965	Järvsö skoterklubb	https://jarvsoskoterklubb.se/	skoterklubb	
 1236540041	802002-5238	Odd Fellow Orden	https://oddfellow.se/hitta/institution?inst=bl13	oddfellowklubb,ordensällskap	Brödraläger 13 - Mälarborgen
 1236541874	874001-6582	Slottsbrons Båtsällskap	https://www.slottsbronsbatsallskap.se/	båtklubb,båtsällskap	
+1236543078	717922-7298	Tyresö Dyviksudds Samfällighetsförening	https://www.dyviksudd.se/	samfällighetsförening	
 1236543375	202100-2924	Örebro Universitet	https://www.oru.se/	forskning,universitet,utbildning	Studieupplevelse
 1236543508	858500-7290	IK Rössö Uddevalla	https://www.laget.se/IKrosso/	fotbollsklubb,idrottsförening	F16
 1236543573	559457-4666	Takstolar i Stockholm AB	https://www.stockholmstakstolsfabrik.se/	husbyggnation,träprodukter	

@@ -39226,6 +39226,14 @@ entries:
   - hundsport
   web: https://www.hovawartklubben.se/
 
+- entry: 1231649995
+  orgName: Össjödalens Samfällighetsförening
+  orgNumber: 717901-9224
+  comment: null
+  categories:
+  - samfällighetsförening
+  web: https://www.ossjodalens.se/
+
 - entry: 1231650035
   orgName: Älghults Sockens Hembygdsförening
   orgNumber: 829500-5204
@@ -110030,6 +110038,24 @@ entries:
   - styrketräning
   web: https://www.naitisport.se/
 
+- entry: 1234709779
+  orgName: Fritidsklubben Edsala-Kalkudden
+  orgNumber: 802500-7744
+  comment: null
+  categories:
+  - fritidsförening
+  - fritidsklubb
+  web: https://kalkudden.org/
+
+- entry: 1234709879
+  orgName: Fritidsklubben Edsala-Kalkudden
+  orgNumber: 802500-7744
+  comment: null
+  categories:
+  - fritidsförening
+  - fritidsklubb
+  web: https://kalkudden.org/
+
 - entry: 1234711198
   orgName: Öijared Resort
   orgNumber: 556701-6711
@@ -152893,6 +152919,14 @@ entries:
   - båtklubb
   - båtsällskap
   web: https://www.slottsbronsbatsallskap.se/
+
+- entry: 1236543078
+  orgName: Tyresö Dyviksudds Samfällighetsförening
+  orgNumber: 717922-7298
+  comment: null
+  categories:
+  - samfällighetsförening
+  web: https://www.dyviksudd.se/
 
 - entry: 1236543375
   orgName: Örebro Universitet
