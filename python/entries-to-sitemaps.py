@@ -106,7 +106,7 @@ def sitemapMisc(filelist):
       urlset.append(elem_url)
       line_count += 1
 
-      if line_count >= 50000:
+      if line_count >= 10000:
         xml_contents = etree.tostring(urlset, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
         filename = f"sitemap-misc-{file_split_counter}.xml"
         filepath = f"../{filename}"
