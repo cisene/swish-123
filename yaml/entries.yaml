@@ -3074,6 +3074,14 @@ entries:
   - orienteringsklubb
   web: https://www.centrumok.se/
 
+- entry: 1230146985
+  orgName: Sällskapet Heimdall
+  orgNumber: 802463-6428
+  comment: null
+  categories:
+  - intresseförening
+  web: https://sallskapetheimdall.org/
+
 - entry: 1230148510
   orgName: Dalarnas Dövas Pensionärsklubb
   orgNumber: 802536-7213
@@ -7858,6 +7866,14 @@ entries:
   categories:
   - historieförening
   web: https://www.storholmen.org/
+
+- entry: 1230335810
+  orgName: Föreningen Tegelsmorasjön
+  orgNumber: 817301-5325
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.facebook.com/groups/691549874221083/
 
 - entry: 1230336073
   orgName: Equmeniakyrkan Götene
@@ -42172,6 +42188,14 @@ entries:
   - rörelsehindrad
   web: https://www.skrh.se/
 
+- entry: 1231773720
+  orgName: Brottsofferjouren i Södra Stockholm
+  orgNumber: 802476-1044
+  comment: null
+  categories:
+  - brottsofferjour
+  web: https://sodrastockholm.boj.se/
+
 - entry: 1231773761
   orgName: Inner Wheel Club Höganäs
   orgNumber: 802541-9048
@@ -63116,7 +63140,7 @@ entries:
   orgNumber: 559021-7161
   comment: Hundpodden
   categories:
-  - media production
+  - media produktion
   - podcast
   web: https://gurgin.libsyn.com/
 
@@ -73100,6 +73124,16 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://www.bygdeforeningentararpnotabrane.se/
+
+- entry: 1233079183
+  orgName: Bengalföreningen
+  orgNumber: 802519-0607
+  comment: null
+  categories:
+  - kattklubb
+  - kattuppfödning
+  - raskattklubb
+  web: https://www.bengalforeningen.se/
 
 - entry: 1233079316
   orgName: Ketsui Karate Do Ludvika Shotokan IF
@@ -83356,6 +83390,15 @@ entries:
   - musikkultur
   web: https://www.konsertforeningen.se/
 
+- entry: 1233510518
+  orgName: Gagnefs Orienteringsklubb
+  orgNumber: 882600-8263
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.gagnefsok.se/
+
 - entry: 1233510575
   orgName: Lions Club Mölndal
   orgNumber: 802506-3697
@@ -85003,8 +85046,8 @@ entries:
   orgNumber: 802406-8184
   comment: null
   categories:
-  - förening
   - kattklubb
+  - raskattklubb
   web: https://burmaklubben.com/
 
 - entry: 1233567724
@@ -88876,6 +88919,14 @@ entries:
   categories:
   - lokaltidning
   web: https://fagerstanyheter.com/
+
+- entry: 1233748670
+  orgName: Träkumla Hembygdsförening
+  orgNumber: 802509-2753
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/trakumla
 
 - entry: 1233748886
   orgName: Skeldervikens Byalag
@@ -99281,6 +99332,15 @@ entries:
   - ridklubb
   web: https://abyridcenter.se/
 
+- entry: 1234214649
+  orgName: Försvarsutbildarna
+  orgNumber: 802000-5453
+  comment: null
+  categories:
+  - intresseförening
+  - utbildning
+  web: https://www.forsvarsutbildarna.se/
+
 - entry: 1234214904
   orgName: Kurravaara Hembygdsförening
   orgNumber: 897300-3364
@@ -107647,6 +107707,15 @@ entries:
   categories:
   - supporterklubb
   web: https://anglarna.se/anglahjalpen/
+
+- entry: 1234606695
+  orgName: Härnösands Viltvårdsförening
+  orgNumber: 802418-2191
+  comment: null
+  categories:
+  - jaktskytteklubb
+  - viltvård
+  web: https://stigsjojaktskyttebana.se/
 
 - entry: 1234606919
   orgName: Avesta JSK
@@ -116683,6 +116752,15 @@ entries:
   - funktionsvariation
   web: https://www.fub.se/lokal/fub-linkoping/
 
+- entry: 1235061627
+  orgName: Hermelinska Släktföreningen
+  orgNumber: 802001-4265
+  comment: null
+  categories:
+  - genealogi
+  - släktforskning
+  web: https://www.hermelin.net/
+
 - entry: 1235061825
   orgName: SPF Seniorerna Kungsholmen St:Erik Stockholm
   orgNumber: 802406-8424
@@ -123759,6 +123837,14 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1235331111
+  orgName: Swedish Iranian Medical Association, SIMA
+  orgNumber: 802421-0133
+  comment: null
+  categories:
+  - yrkesförening
+  web: https://www.simagroup.org/
+
 - entry: 1235331129
   orgName: Team Rynkeby Helsingborg
   orgNumber: 802532-7506
@@ -129888,6 +129974,16 @@ entries:
   - idrottsförening
   - kanotklubb
   web: https://www.fridhemskanotisterna.se/
+
+- entry: 1235568183
+  orgName: Holafors Ryttarförening
+  orgNumber: 888800-4200
+  comment: null
+  categories:
+  - ridklubb
+  - ryttarförening
+  - ryttarsällskap
+  web: https://holafors-ryttarforening.webnode.se/
 
 - entry: 1235568951
   orgName: SKPF Pensionärerna Boden, avd 220
