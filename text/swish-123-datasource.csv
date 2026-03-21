@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-03-21-rev-181425
+# Date: 2026-03-21-rev-185812
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -17246,7 +17246,6 @@
 "1236916449","874001-8141","Grums IBK","https://www.svenskalag.se/grumsibk","idrottsförening,innebandyklubb",""
 "1236916530","802488-7443","FC Staffanstorp","https://www.svenskalag.se/fcstaffanstorp","fotbollsklubb,idrottsförening",""
 "1236916738","556560-9509","Lötsjö Trafikskola","https://lotsjotrafikskola.se/","trafikskola",""
-"1236917017","802428-0953","Prästakullens Koloniförening","https://prastakullen.com/","förening,intresseförening,koloniträdgårdsförening,trädgårdsförening",""
 "1236917033","818000-7570","Eskilstunaortens Jägarklubb, EOJK","https://www.svenskalag.se/eojk","jakt",""
 "1236917041","876400-2906","Karlskoga Konsertförening","http://www.karlskogakonsertforening.se/","musikförening,orkester",""
 "1236917090","802450-9922","Örsås Byalag","https://www.orsas.se/byalaget/","byalag",""
@@ -17798,7 +17797,6 @@
 "1239009150","802005-8619","Riksföreningen Den Öppna Dörren","https://www.denoppnadorren.se/","insamlingskontroll,riksförbund,riksförening",""
 "1239009283","827500-4789","Insamlingsstiftelsen Erikshjälpen, Farbror Eriks barn- och hjälpverksamhet","https://www.erikshjalpen.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet",""
 "1239009325","802005-7512","Astma- och Allergiförbundet","https://www.astmaoallergiforbundet.se/","godkänd gåvomottagare,insamlingskontroll","Blomsterfonden"
-"1239009697","802005-7926","Riksföreningen Aktiva Synskadade","https://www.aktivasynskadade.org/","funktionsnedsättning,insamlingskontroll,synnedsättning,synskadad",""
 "1239009796","857200-8244","Stiftelsen Jubileumsklinikens Forskningsfond Mot Cancer","https://www.jubileumsklinikenscancerfond.se/","donation,forskning,insamlingskontroll,stiftelse",""
 "1239009895","802406-2559","Föräldralösa barn, Insamlingsstiftelse","https://www.foraldralosabarn.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse",""
 "1239009903","802000-8184","EFS - Evangeliska Fosterlandsstiftelsen","https://www.efs.nu/","donation,godkänd gåvomottagare,insamlingskontroll,religion,stiftelse,välgörenhet",""
@@ -17822,7 +17820,6 @@
 "1239011172","802424-1393","Insamlingsstiftelsen Naturarvet","https://www.naturarvet.se/","donation,insamlingskontroll,naturvård,stiftelse",""
 "1239011198","845001-8844","Insamlingsstiftelsen Alzheimerfonden","https://www.alzheimerfonden.se/","donation,forskning,godkänd gåvomottagare,insamlingskontroll,stiftelse",""
 "1239011206","857206-8701","Droginformation för alla","https://www.droginformation.nu/","insamlingskontroll",""
-"1239011255","802017-8664","Insamlingsstiftelsen Hjärnfonden","https://www.hjarnfonden.se/","donation,forskning,godkänd gåvomottagare,insamlingskontroll,välgörenhet",""
 "1239011305","862000-4344","Insamlingsstiftelsen BarnSamariten","https://www.barnsamariten.se/","donation,insamlingskontroll,stiftelse,välgörenhet",""
 "1239011388","832401-8376","Kalmar Stadsmission","https://www.kalmarstadsmission.se/","godkänd gåvomottagare,insamlingskontroll",""
 "1239011545","802403-3857","Mission Possible Sweden","https://www.mp.org/","insamlingskontroll,välgörenhet",""
@@ -17853,8 +17850,6 @@
 "1239019076","857200-5083","Majblommans Riksförbund","https://www.majblomman.se/","insamlingskontroll,riksförbund,välgörenhet",""
 "1239019092","802002-4280","Svenska Naturskyddsföreningen","https://www.naturskyddsforeningen.se/","insamlingskontroll,naturskydd","Natur och miljö"
 "1239019480","802405-0406","Insamlingsstiftelsen Sveriges Lions Hjälpfond","https://www.hjalpfonden.lions.se/","donation,insamlingskontroll,lionsklubb,stiftelse",""
-"1239019506","802007-9755","Stiftelsen Radiohjälpen","https://www.radiohjalpen.se/","donation,insamlingskontroll,stiftelse,välgörenhet",""
-"1239019514","802005-3370","Cancerfonden","https://www.cancerfonden.se/","donation,forskning,godkänd gåvomottagare,insamlingskontroll",""
 "1239019555","802009-9688","Förbundet Blödarsjuka i Sverige, FBIS","https://www.fbis.se/","anhörigorganisation,förbund,insamlingskontroll,patientförening","Aroseniusfonden"
 "1239019712","802005-9823","Stiftelsen Världsnaturfonden WWF","https://www.wwf.se/","donation,insamlingskontroll,stiftelse",""
 "1239019746","802005-9823","Stiftelsen Världsnaturfonden WWF","https://www.wwf.se/","donation,insamlingskontroll,stiftelse",""
@@ -17880,4 +17875,3 @@
 "1239070905","802004-1441","Stiftelsen Forska utan djurförsök","https://www.forskautandjurforsok.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse",""
 "1239090036","802407-5346","Stiftelsen World Childhood Foundation","https://www.childhood.se/","donation,insamlingskontroll,stiftelse,välgörenhet",""
 "1239091109","857209-4152","Ågrenska Vänskapsföreningen","https://www.agrenska.se/","insamlingskontroll,välgörenhet",""
-"1239091927","802006-0763","HjärtLungfonden, Svenska Nationalföreningen mot Hjärt- och Lungsjukdomar","https://www.hjart-lungfonden.se/","anhörigorganisation,godkänd gåvomottagare,insamlingskontroll,intresseförening,patientförening,riksförbund",""

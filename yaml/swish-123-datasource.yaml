@@ -154960,17 +154960,6 @@ entries:
   - trafikskola
   web: https://lotsjotrafikskola.se/
 
-- entry: 1236917017
-  orgName: Prästakullens Koloniförening
-  orgNumber: 802428-0953
-  comment: null
-  categories:
-  - förening
-  - intresseförening
-  - koloniträdgårdsförening
-  - trädgårdsförening
-  web: https://prastakullen.com/
-
 - entry: 1236917033
   orgName: Eskilstunaortens Jägarklubb, EOJK
   orgNumber: 818000-7570
@@ -160110,17 +160099,6 @@ entries:
   - insamlingskontroll
   web: https://www.astmaoallergiforbundet.se/
 
-- entry: 1239009697
-  orgName: Riksföreningen Aktiva Synskadade
-  orgNumber: 802005-7926
-  comment: null
-  categories:
-  - funktionsnedsättning
-  - insamlingskontroll
-  - synnedsättning
-  - synskadad
-  web: https://www.aktivasynskadade.org/
-
 - entry: 1239009796
   orgName: Stiftelsen Jubileumsklinikens Forskningsfond Mot Cancer
   orgNumber: 857200-8244
@@ -160361,18 +160339,6 @@ entries:
   categories:
   - insamlingskontroll
   web: https://www.droginformation.nu/
-
-- entry: 1239011255
-  orgName: Insamlingsstiftelsen Hjärnfonden
-  orgNumber: 802017-8664
-  comment: null
-  categories:
-  - donation
-  - forskning
-  - godkänd gåvomottagare
-  - insamlingskontroll
-  - välgörenhet
-  web: https://www.hjarnfonden.se/
 
 - entry: 1239011305
   orgName: Insamlingsstiftelsen BarnSamariten
@@ -160658,28 +160624,6 @@ entries:
   - stiftelse
   web: https://www.hjalpfonden.lions.se/
 
-- entry: 1239019506
-  orgName: Stiftelsen Radiohjälpen
-  orgNumber: 802007-9755
-  comment: null
-  categories:
-  - donation
-  - insamlingskontroll
-  - stiftelse
-  - välgörenhet
-  web: https://www.radiohjalpen.se/
-
-- entry: 1239019514
-  orgName: Cancerfonden
-  orgNumber: 802005-3370
-  comment: null
-  categories:
-  - donation
-  - forskning
-  - godkänd gåvomottagare
-  - insamlingskontroll
-  web: https://www.cancerfonden.se/
-
 - entry: 1239019555
   orgName: Förbundet Blödarsjuka i Sverige, FBIS
   orgNumber: 802009-9688
@@ -160933,16 +160877,3 @@ entries:
   - insamlingskontroll
   - välgörenhet
   web: https://www.agrenska.se/
-
-- entry: 1239091927
-  orgName: HjärtLungfonden, Svenska Nationalföreningen mot Hjärt- och Lungsjukdomar
-  orgNumber: 802006-0763
-  comment: null
-  categories:
-  - anhörigorganisation
-  - godkänd gåvomottagare
-  - insamlingskontroll
-  - intresseförening
-  - patientförening
-  - riksförbund
-  web: https://www.hjart-lungfonden.se/
