@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-03-28-rev-171954
+# Date: 2026-03-28-rev-163756
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -17750,6 +17750,7 @@
 "1239003385","802471-1635","Den Helige Savas Barnfond i Skandinavien","https://www.savasbarnfond.com/","godkänd gåvomottagare,insamlingskontroll",""
 "1239003419","826002-2630","SAM-hjälp","https://www.samhjalp.se/","hjälporganisation,insamling,insamlingskontroll,välgörenhet",""
 "1239003443","815600-8784","Brottsofferjouren Sverige","https://www.brottsofferjouren.se/","insamlingskontroll,välgörenhet",""
+"1239003518","802003-1954","Stockholms Stadsmission","https://www.stadsmissionen.se/","godkänd gåvomottagare,insamlingskontroll,välgörenhet",""
 "1239003526","843003-3160","Insamlingsstiftelsen Stödfonden för hemlösa i Helsingborg","https://www.stodfondenhemlosa.se/","donation,insamlingskontroll,stiftelse",""
 "1239003609","802407-4125","Insamlingsstiftelsen Cancer- och Allergifonden","https://www.cancerochallergifonden.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet",""
 "1239003625","802003-0972","Ljus i Öster","https://www.ljusioster.se/","insamlingskontroll",""
