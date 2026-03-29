@@ -26822,10 +26822,11 @@ entries:
   web: https://www.svenskalag.se/nikus
 
 - entry: 1231111111
-  orgName: null
+  orgName: Swish Merchant Test
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - terminated
   web: null
 
 - entry: 1231114784
@@ -107968,6 +107969,14 @@ entries:
   - intresseförening
   web: https://www.knutbyfolketspark.com/
 
+- entry: 1234567839
+  orgName: Swish Merchant Test
+  orgNumber: null
+  comment: null
+  categories:
+  - terminated
+  web: null
+
 - entry: 1234567848
   orgName: Lions Club Lomma
   orgNumber: 846002-1101
@@ -110890,6 +110899,14 @@ entries:
   - handbollsklubb
   - idrottsförening
   web: https://www.lugihandboll.se/
+
+- entry: 1234679304
+  orgName: Swish Merchant Test
+  orgNumber: null
+  comment: null
+  categories:
+  - terminated
+  web: null
 
 - entry: 1234680815
   orgName: Till Sängs / Samanda Ekman
