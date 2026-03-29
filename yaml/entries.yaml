@@ -640,6 +640,14 @@ entries:
   - innebandyklubb
   web: https://www.ibfhorsby.se/
 
+- entry: 1230018887
+  orgName: Lajksjö Intresseförening
+  orgNumber: 896100-2451
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.facebook.com/lajksjointresseforening
+
 - entry: 1230019299
   orgName: Amnehärads Hembygdsförening
   orgNumber: 866000-9393
@@ -1024,6 +1032,7 @@ entries:
   orgNumber: 802504-6486
   comment: null
   categories:
+  - hästsport
   - islandshäst
   - ridklubb
   web: https://www.frigg.se/
@@ -9109,6 +9118,7 @@ entries:
   categories:
   - hästsport
   - islandshäst
+  - ridklubb
   web: https://www.kappi-islandshastforening.se/
 
 - entry: 1230385161
@@ -23089,6 +23099,7 @@ entries:
   comment: null
   categories:
   - hästsport
+  - islandshäst
   - ridläger
   - ridskola
   - turridning
@@ -23258,6 +23269,14 @@ entries:
   - bowlingklubb
   - idrottsförening
   web: https://www.svenskalag.se/bkprime
+
+- entry: 1230954792
+  orgName: Cleas-Göran Bjerdings Minnesfond
+  orgNumber: 802535-7289
+  comment: null
+  categories:
+  - minnesfond
+  web: null
 
 - entry: 1230955971
   orgName: Tjörns Konstförening
@@ -25020,6 +25039,8 @@ entries:
   orgNumber: 559328-6213
   comment: null
   categories:
+  - hästsport
+  - islandshäst
   - ridskola
   web: https://www.slofalletsislandshastar.se/
 
@@ -27571,6 +27592,8 @@ entries:
   comment: null
   categories:
   - hästsport
+  - islandshäst
+  - ridsport
   - ryttarförening
   web: https://www.glaumur.se/
 
@@ -30376,7 +30399,10 @@ entries:
   orgNumber: 960520-XXXX
   comment: null
   categories:
+  - hästsport
+  - islandshäst
   - ridskola
+  - ridsport
   - utbildning
   web: http://www.mariaignerus.se/
 
@@ -38209,7 +38235,9 @@ entries:
   comment: null
   categories:
   - hästsport
+  - islandshäst
   - ridklubb
+  - ridsport
   web: https://lenningeponnystall.se/
 
 - entry: 1231579986
@@ -42026,6 +42054,7 @@ entries:
   categories:
   - hästklubb
   - hästsport
+  - islandshäst
   web: https://www.bifrost-norrbotten.se/
 
 - entry: 1231745116
@@ -47574,6 +47603,7 @@ entries:
   comment: null
   categories:
   - hästsport
+  - islandshäst
   - ridklubb
   web: https://www.svenskalag.se/dyggurislandshastforening
 
@@ -66207,6 +66237,7 @@ entries:
   comment: null
   categories:
   - hästsport
+  - islandshäst
   - ridskola
   web: https://kullabergsislandshastar.com/
 
@@ -94953,6 +94984,7 @@ entries:
   categories:
   - hästsport
   - islandshäst
+  - ridsport
   web: https://www.oddur.se/
 
 - entry: 1233956521
@@ -100064,6 +100096,7 @@ entries:
   comment: null
   categories:
   - hästsport
+  - islandshäst
   - ridskola
   web: https://smarsgarden.se/
 
@@ -116349,6 +116382,17 @@ entries:
   - religion
   web: https://rpg.org.se/foreningsprogram/vastkusten/
 
+- entry: 1234976031
+  orgName: Gneisti Islandshästförening
+  orgNumber: 802418-3413
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - islandshäst
+  - ridsport
+  web: https://www.gneisti.nu/
+
 - entry: 1234977526
   orgName: PRO Strömstad
   orgNumber: 855900-2509
@@ -117720,6 +117764,7 @@ entries:
   orgNumber: 802489-3185
   comment: null
   categories:
+  - hästsport
   - islandshäst
   - ridklubb
   web: https://www.sigur.se/
@@ -120905,6 +120950,7 @@ entries:
   comment: null
   categories:
   - hästsport
+  - islandshäst
   - ridskola
   web: https://www.stackboislandshastar.se/
 
@@ -127528,6 +127574,7 @@ entries:
   comment: null
   categories:
   - hästsport
+  - islandshäst
   - ridsport
   web: https://gandur.se/
 
@@ -130842,6 +130889,15 @@ entries:
   - idrottsförening
   web: https://gfspansthestra.klubbenonline.se/
 
+- entry: 1235538988
+  orgName: SWEA (Swedish Women’s Educational Association) Helsingborg
+  orgNumber: 839400-9784
+  comment: null
+  categories:
+  - intresseförening
+  - kvinnligt nätverk
+  web: https://helsingborg.swea.org/
+
 - entry: 1235539010
   orgName: Senioruniversitetet Gotland
   orgNumber: 802505-9810
@@ -132125,6 +132181,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/sormland/foreningslista/oppeby-harg/
+
+- entry: 1235595004
+  orgName: Ställ om Sverige Söderhamnsinitiativet, SOS
+  orgNumber: 802521-9075
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://sosstallomsverige.se/
 
 - entry: 1235595038
   orgName: Älvlea Badförening
@@ -135473,6 +135537,7 @@ entries:
   comment: null
   categories:
   - hästsport
+  - islandshäst
   - ridklubb
   web: http://www.odinn.se/
 
@@ -137924,6 +137989,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://malmbergetsaif.com/
+
+- entry: 1235831706
+  orgName: Bajen Fans
+  orgNumber: 802018-2674
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://www.bajenfans.se/
 
 - entry: 1235831904
   orgName: Stöttepelaren - Stödförening för Ensamkommande Barn och Ungdomar
@@ -158159,6 +158232,7 @@ entries:
   orgNumber: 556894-9266
   comment: null
   categories:
+  - islandshäst
   - ridläger
   - stuguthyrning
   - yoga
@@ -164490,6 +164564,7 @@ entries:
   comment: null
   categories:
   - hästsport
+  - islandshäst
   - ridskola
   web: https://agersta.com/
 
