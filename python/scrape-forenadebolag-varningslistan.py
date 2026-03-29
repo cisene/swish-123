@@ -182,7 +182,7 @@ def main():
   urls.append(url)
 
   for url in urls:
-    print(f"Requested URL: {url}")
+    #print(f"Requested URL: {url}")
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
 
@@ -196,7 +196,7 @@ def main():
 
     results = soup.find_all("div", class_="result-sf-filter-box")
 
-    print(f"\tFound {len(results)} entries ...")
+    print(f"\tFound {len(results)} entries in {url} ..")
     for chunk in results:
       objs = {}
 
@@ -276,13 +276,11 @@ def main():
   for vo in source_dict['organisations']:
     if vo['orgNumber'] not in seen_before:
       dest_list.append(vo)
-      #print(f"\t{vo['orgNumber']} wasn't seen, copying from source")
 
   sorted_vl = sorted(dest_list, key=itemgetter('orgNumber'))
 
-  #print(sorted_vl)
   vl['organisations'] = sorted_vl
-
+  print(f"{len(sorted_vl)} entries")
 
   writeYAML(YAML_SOURCE_FILE, vl)
   print(f"Wrote '{YAML_SOURCE_FILE} ..")
