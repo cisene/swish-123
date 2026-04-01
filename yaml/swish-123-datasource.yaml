@@ -96,7 +96,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.svenskalag.se/leksandsjujutsuklubb
 
@@ -7413,7 +7413,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.vetlandajujutsu.se/
 
@@ -7747,7 +7747,7 @@ entries:
   web: https://www.eksjorck.se/
 
 - entry: 1230337071
-  orgName: SMK Söderhamn
+  orgName: Svenska Motorklubben Söderhamn
   orgNumber: 886000-5944
   comment: null
   categories:
@@ -9083,7 +9083,7 @@ entries:
   comment: null
   categories:
   - dansförening
-  - squaredance
+  - squaredanceklubb
   web: https://www.crazyflutters.com/
 
 - entry: 1230399519
@@ -9541,7 +9541,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://hudikju-jutsu.se/
 
@@ -13008,6 +13008,7 @@ entries:
   orgNumber: 878002-0338
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://surahammarsgk.se/
 
@@ -15267,7 +15268,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://hogdalensbudoklubb.se/
 
@@ -15885,7 +15886,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.svenskalag.se/hoganasjujutsuklubb
 
@@ -17045,8 +17046,8 @@ entries:
   comment: null
   categories:
   - idrottsförening
+  - jiujitsuklubb
   - judoklubb
-  - jujutsuklubb
   - kampsportsförening
   web: https://och.nu/yoi/info.html
 
@@ -18858,6 +18859,15 @@ entries:
   - ishockeyklubb
   web: https://www.bikkarlskogaungdom.se/
 
+- entry: 1230835348
+  orgName: Tjalve Orienteringsklubb
+  orgNumber: 825000-1289
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://tjalveok.se/
+
 - entry: 1230835884
   orgName: Al-Anon Familjegrupper i Sverige
   orgNumber: 802013-9286
@@ -19958,7 +19968,7 @@ entries:
   - brasiliansk jiu-jitsu
   - grapplingklubb
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://samurai.se/
 
@@ -20932,7 +20942,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   - karateklubb
   web: https://www.kaizenkan.se/
@@ -22310,7 +22320,7 @@ entries:
   web: https://www.vaxjorc.se/
 
 - entry: 1230948992
-  orgName: SMK Hörby
+  orgName: Svenska Motorklubben Hörby
   orgNumber: 842000-5038
   comment: Medlemsavgift
   categories:
@@ -24817,7 +24827,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.ojc.se/
 
@@ -27038,7 +27048,7 @@ entries:
   orgNumber: 817606-2167
   comment: null
   categories:
-  - hästavel
+  - avelsförening
   - hästuppfödning
   web: https://www.irishcobsociety.se/
 
@@ -28016,7 +28026,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.alingsasju-jutsu.se/
 
@@ -29951,7 +29961,7 @@ entries:
   orgNumber: 802453-7394
   comment: null
   categories:
-  - hästavel
+  - avelsförening
   - hästsport
   - hästuppfödning
   web: https://www.aphc.se/
@@ -33172,6 +33182,15 @@ entries:
   categories:
   - yoga
   web: https://soulroom.se/
+
+- entry: 1231450071
+  orgName: Upplands Ardennerklubb
+  orgNumber: 802442-0997
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  web: https://www.upplands-ardennerklubb.se/
 
 - entry: 1231450485
   orgName: Kolbäck Hyzers DGK
@@ -38926,6 +38945,14 @@ entries:
   - sportskytteklubb
   web: https://www.facebook.com/Orkelljungaskytte/
 
+- entry: 1231677319
+  orgName: Dala-Floda Intresseförening
+  orgNumber: 882601-7900
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.dala-floda.se/
+
 - entry: 1231677418
   orgName: Grännaortens Biodlarförening
   orgNumber: 802459-8263
@@ -39894,7 +39921,7 @@ entries:
   web: https://hundhjalpen.se/
 
 - entry: 1231721471
-  orgName: SMK Hälsinge
+  orgName: Svenska Motorklubben Hälsinge
   orgNumber: 887501-2232
   comment: null
   categories:
@@ -41000,7 +41027,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: http://skelleftebygdensjujutsuklubb.se/
 
@@ -42487,7 +42514,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://ujjk.se/
 
@@ -45133,7 +45160,7 @@ entries:
   web: https://www.imamalicenter.se/
 
 - entry: 1231963081
-  orgName: SMK Eda
+  orgName: Svenska Motorklubben Eda
   orgNumber: 872000-4442
   comment: null
   categories:
@@ -45471,6 +45498,17 @@ entries:
   - religion
   web: https://lorensbergskyrkan.se/
 
+- entry: 1231976919
+  orgName: Kungsörs Sportklubb
+  orgNumber: 878500-4840
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  - löparklubb
+  - triathlonklubb
+  web: https://kungsorssk.se/
+
 - entry: 1231977180
   orgName: Sällskapet för Djuranestesi, Vetventilen
   orgNumber: 802420-7287
@@ -45479,6 +45517,16 @@ entries:
   - djursjukvård
   - djurvård
   web: https://www.vetventilen.se/
+
+- entry: 1231978501
+  orgName: Åkersberga FrisbeeKlubb
+  orgNumber: 802435-5243
+  comment: null
+  categories:
+  - discgolfbana
+  - discgolfklubb
+  - idrottsförening
+  web: https://www.akersbergafk.com/
 
 - entry: 1231978626
   orgName: Västanfors IF Bandyklubb
@@ -45886,7 +45934,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https
 
@@ -46804,7 +46852,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.romelejujutsu.se/
 
@@ -50814,8 +50862,8 @@ entries:
   orgNumber: 802516-7084
   comment: null
   categories:
+  - avelsförening
   - intresseförening
-  - kaninavelförening
   web: https://ostraskaneskaf.weebly.com/
 
 - entry: 1232206779
@@ -58188,7 +58236,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.sundsvallsbudoklubb.com/
 
@@ -58749,6 +58797,15 @@ entries:
   - innerwheel
   - kvinnligt nätverk
   web: https://www.innerwheel.se/
+
+- entry: 1232564177
+  orgName: Borgholms Tennisklubb
+  orgNumber: 832000-3679
+  comment: null
+  categories:
+  - idrottsförening
+  - tennisklubb
+  web: https://www.borgholmstk.se/
 
 - entry: 1232565687
   orgName: S:t Lukas Bromma
@@ -59929,8 +59986,8 @@ entries:
   orgNumber: 802004-2126
   comment: null
   categories:
-  - förbund
   - intresseförening
+  - riksförbund
   web: https://domareforbundet.se/
 
 - entry: 1232628725
@@ -60739,7 +60796,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.gakeryu.se/
 
@@ -63754,7 +63811,7 @@ entries:
   web: https://www.umu.se/kontakta-oss/ge-en-gava/sa-har-gor-du/donation/
 
 - entry: 1232764025
-  orgName: Föräldraföreningen mot narkotika, FMN
+  orgName: Föräldraföreningen Mot Narkotika, FMN
   orgNumber: 894001-9337
   comment: Umeå
   categories:
@@ -64904,7 +64961,7 @@ entries:
   web: https://www.jarbomk.se/
 
 - entry: 1232801900
-  orgName: SMK Trollhättan
+  orgName: Svenska Motorklubben Trollhättan
   orgNumber: 863000-6222
   comment: null
   categories:
@@ -75078,7 +75135,7 @@ entries:
   web: https://vkks.se/
 
 - entry: 1233266012
-  orgName: SMK Örebro
+  orgName: Svenska Motorklubben Örebro
   orgNumber: 875000-3009
   comment: null
   categories:
@@ -75584,6 +75641,15 @@ entries:
   - intresseförening
   web: https://www.facebook.com/groups/258626777900862/
 
+- entry: 1233289485
+  orgName: Svenska Chinchilla Avels Föreningen, SCAF
+  orgNumber: 849202-4768
+  comment: null
+  categories:
+  - avelsförening
+  - djuruppfödning
+  web: https://www.chinchilla.se/
+
 - entry: 1233289840
   orgName: Tuve Scoutkår
   orgNumber: 802439-1610
@@ -76073,7 +76139,7 @@ entries:
   web: https://www.facebook.com/landaforssk
 
 - entry: 1233319993
-  orgName: SMK Sundsvall
+  orgName: Svenska Motorklubben Sundsvall
   orgNumber: 697010-8608
   comment: null
   categories:
@@ -76172,7 +76238,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.sandby-jujitsu.se/
 
@@ -76765,6 +76831,15 @@ entries:
   - samtalsterapi
   - terapisamtal
   web: https://karlssonpsykolog.se/
+
+- entry: 1233355526
+  orgName: Hedevikens Idrottsförening
+  orgNumber: 892600-6605
+  comment: null
+  categories:
+  - idrottsförening
+  - löparklubb
+  web: https://hedevikensif.se/
 
 - entry: 1233355658
   orgName: Seskarö IF Orientering
@@ -79161,6 +79236,16 @@ entries:
   - begravningsbyrå
   web: https://www.anderssonsbegravningsbyra.se/
 
+- entry: 1233452216
+  orgName: Ängelholms Jiujitsuklubb
+  orgNumber: 839400-6525
+  comment: null
+  categories:
+  - idrottsförening
+  - jiujitsuklubb
+  - kampsportsförening
+  web: https://www.ejjk.com/
+
 - entry: 1233452877
   orgName: Friluftsfrämjandet Ängelholm-Båstad
   orgNumber: 839400-8018
@@ -80051,7 +80136,8 @@ entries:
   orgNumber: 802415-1253
   comment: null
   categories:
-  - hästavel
+  - avelsförening
+  - hästsport
   - hästuppfödning
   web: https://skaraborgshastavel.wordpress.com/
 
@@ -81370,7 +81456,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   - kungfuklubb
   web: https://budohoor.se/
@@ -87031,6 +87117,15 @@ entries:
   - katthem
   web: https://www.fiahemmet.se/
 
+- entry: 1233795424
+  orgName: Råda BMK
+  orgNumber: 857208-9426
+  comment: null
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://www.radabmk.se/
+
 - entry: 1233796042
   orgName: Oxelösunds Församling
   orgNumber: 252000-2854
@@ -87523,8 +87618,7 @@ entries:
   orgNumber: 802000-2369
   comment: null
   categories:
-  - avel
-  - hästavel
+  - avelsförening
   - hästuppfödning
   web: https://www.ardennerforeningen.nu/
 
@@ -88453,7 +88547,7 @@ entries:
   orgNumber: 802423-1253
   comment: null
   categories:
-  - hästavel
+  - avelsförening
   - hästuppfödning
   web: https://www.skanesrussavelsforening.se/
 
@@ -88967,6 +89061,14 @@ entries:
   - hundsport
   web: https://orebrobk.nu/
 
+- entry: 1233884343
+  orgName: Destination Ammarnäs
+  orgNumber: 769604-2659
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.visitammarnas.se/
+
 - entry: 1233884707
   orgName: Åhus Simsällskap
   orgNumber: 838200-7253
@@ -89415,7 +89517,7 @@ entries:
   web: https://www.svenskalag.se/ljungbyhedspistolklubb
 
 - entry: 1233896974
-  orgName: SMK Hörby
+  orgName: Svenska Motorklubben Hörby
   orgNumber: 842000-5038
   comment: null
   categories:
@@ -89825,6 +89927,14 @@ entries:
   categories:
   - yoga
   web: https://www.carinosyoga.se/
+
+- entry: 1233914702
+  orgName: Munga-Hamra Intresse- och Sakägarförening
+  orgNumber: 802543-1993
+  comment: null
+  categories:
+  - intresseförening
+  web: https://munga-hamra.se/
 
 - entry: 1233915634
   orgName: Täby IS Innebandy
@@ -91528,7 +91638,7 @@ entries:
   orgNumber: 802419-2307
   comment: null
   categories:
-  - förening
+  - intresseförening
   - samhällsförening
   web: https://www.glommen.se/
 
@@ -92565,6 +92675,16 @@ entries:
   - eventarrangör
   web: https://www.facebook.com/HagasVintage
 
+- entry: 1234031852
+  orgName: Grevagårdens Ryttarförening
+  orgNumber: 866600-8530
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://grevagardensrf.com/
+
 - entry: 1234033007
   orgName: Existensis / Susanna Westman
   orgNumber: 721003-XXXX
@@ -93090,7 +93210,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.svenskalag.se/lommajujutsuif
 
@@ -93275,7 +93395,7 @@ entries:
   - boxningsklubb
   - brasiliansk jiu-jitsu
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   - muaythaiklubb
   web: https://www.svenskalag.se/houseofsamurai
@@ -94351,7 +94471,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   - taekwondoklubb
   web: https://www.svenskalag.se/grastorpskampsportsforening
@@ -107302,7 +107422,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.dokandojo.com/
 
@@ -108976,7 +109096,7 @@ entries:
   orgNumber: 814400-8755
   comment: null
   categories:
-  - hästavel
+  - avelsförening
   - hästuppfödning
   - intresseförening
   web: https://dartmoorsallskapet.wordpress.com/
@@ -110028,7 +110148,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://bromollajujutsu.se/
 
@@ -110540,7 +110660,7 @@ entries:
   orgNumber: 721223-XXXX
   comment: null
   categories:
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: null
 
@@ -111640,6 +111760,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/pitea
 
+- entry: 1234996773
+  orgName: Sollentuna Square Dancers
+  orgNumber: 802465-2060
+  comment: null
+  categories:
+  - dansförening
+  - squaredanceklubb
+  web: https://sollentunasqd.se/
+
 - entry: 1234997243
   orgName: Föreningen Turf Västmanland
   orgNumber: 802509-4148
@@ -112005,7 +112134,7 @@ entries:
   web: https://www.ascout.se/
 
 - entry: 1235010814
-  orgName: SMK Uppsala
+  orgName: Svenska Motorklubben Uppsala
   orgNumber: 817600-8806
   comment: null
   categories:
@@ -112275,6 +112404,14 @@ entries:
   categories:
   - religion
   web: https://equmeniakyrkan.se/vargarda/
+
+- entry: 1235023189
+  orgName: Konstmodellernas Yrkesorganisation, KYO
+  orgNumber: 802015-6389
+  comment: null
+  categories:
+  - yrkesförening
+  web: https://kyo.se/
 
 - entry: 1235024278
   orgName: Ljungskile Sportklubb
@@ -113384,7 +113521,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: null
 
@@ -117110,6 +117247,15 @@ entries:
   - politiskt parti
   web: https://folklistan.se/
 
+- entry: 1235214200
+  orgName: Rexklubben
+  orgNumber: 802542-6233
+  comment: null
+  categories:
+  - avelsförening
+  - intresseförening
+  web: http://www.rexklubben.se/
+
 - entry: 1235215215
   orgName: Elimförsamlingen i Örebro
   orgNumber: 875000-0674
@@ -118325,7 +118471,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://tabyjujutsu.se/
 
@@ -118560,7 +118706,7 @@ entries:
   web: https://www.swedmarket.se/
 
 - entry: 1235277249
-  orgName: SMK Vingåker
+  orgName: Svenska Motorklubben Vingåker
   orgNumber: 818500-2642
   comment: null
   categories:
@@ -120869,7 +121015,7 @@ entries:
   orgNumber: 834001-4771
   comment: null
   categories:
-  - hästavel
+  - avelsförening
   - hästsport
   - hästuppfödning
   web: https://www.gotlandsruss.se/
@@ -121104,7 +121250,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://gjjk.se/
 
@@ -122414,6 +122560,15 @@ entries:
   - förening
   - villaägareförening
   web: https://www.osmovilla.se/
+
+- entry: 1235432570
+  orgName: Svenska Motorklubben Helsingborg
+  orgNumber: 843000-7131
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://smkhelsingborg.se/
 
 - entry: 1235432885
   orgName: Motorrad Nordic AB
@@ -124120,7 +124275,7 @@ entries:
   orgNumber: 802450-4832
   comment: null
   categories:
-  - hästavel
+  - avelsförening
   - hästsport
   - hästuppfödning
   web: https://www.shavf.se/
@@ -124514,9 +124669,9 @@ entries:
   web: https://www.ljusdalsflygklubb.se/
 
 - entry: 1235527577
-  orgName: SMK Motala Bil
+  orgName: Svenska Motorklubben Motala
   orgNumber: 802422-5404
-  comment: null
+  comment: Bil
   categories:
   - bilsport
   - motorklubb
@@ -124642,7 +124797,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   - karateklubb
   - mmaklubb
@@ -125908,7 +126063,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://musubi-dojo.se/
 
@@ -128577,7 +128732,7 @@ entries:
   web: https://bygdegardarna.se/moklinta/
 
 - entry: 1235684790
-  orgName: SMK Ljungby
+  orgName: Svenska Motorklubben Ljungby
   orgNumber: 829001-5380
   comment: null
   categories:
@@ -131739,7 +131894,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.ljjk.net/
 
@@ -135398,7 +135553,7 @@ entries:
   comment: null
   categories:
   - dansförening
-  - squaredance
+  - squaredanceklubb
   web: https://prariefolket.weebly.com/
 
 - entry: 1236002349
@@ -135817,7 +135972,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.ljjk.net/
 
@@ -136660,7 +136815,7 @@ entries:
   orgNumber: 838201-4499
   comment: null
   categories:
-  - hästavel
+  - avelsförening
   - hästuppfödning
   web: https://nsk.swb.org/
 
@@ -139837,7 +139992,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   - taekwondoklubb
   web: https://www.facebook.com/gavlejutsu/
@@ -141482,6 +141637,14 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: https://www.svenskalag.se/tynderoik
+
+- entry: 1236250583
+  orgName: Harplinge Hembygdsförening
+  orgNumber: 849200-1675
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://harplingehembygd.se/
 
 - entry: 1236250773
   orgName: Lödde Padel Club, LPC
@@ -143148,7 +143311,7 @@ entries:
   - fotbollsklubb
   - idrottsförening
   - ishockeyklubb
-  - jujutsuklubb
+  - jiujitsuklubb
   - skidlöparklubb
   web: https://www.svenskalag.se/ramseleik
 
@@ -143855,6 +144018,15 @@ entries:
   - bilklubb
   web: https://www.facebook.com/groups/ycc2013/
 
+- entry: 1236357818
+  orgName: Gränna Motorklubb
+  orgNumber: 826001-9842
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://www.grannamk.se/
+
 - entry: 1236357925
   orgName: Svenska Blå Stjärnan Riksorganisationen
   orgNumber: 802005-7967
@@ -144408,7 +144580,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.tyresojujutsu.com/
 
@@ -145652,7 +145824,7 @@ entries:
   orgNumber: 810530-XXXX
   comment: null
   categories:
-  - hästavel
+  - avelsförening
   - hästsport
   - hästuppfödning
   web: https://www.angvaktartorp.se/
@@ -146029,7 +146201,7 @@ entries:
   - barnträning
   - brasiliansk jiu-jitsu
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   - självförsvar
   web: https://www.umeakampcenter.se/
@@ -147256,7 +147428,7 @@ entries:
   orgNumber: 934001-6709
   comment: null
   categories:
-  - hästavel
+  - avelsförening
   - hästgård
   - hästklubb
   - hästsport
@@ -147518,6 +147690,14 @@ entries:
   categories:
   - konstförening
   web: https://www.jlk-konstforeningen.se/
+
+- entry: 1236525224
+  orgName: Sundsby Vänförening
+  orgNumber: 802423-0743
+  comment: null
+  categories:
+  - vänförening
+  web: https://sundsbyvanforening.se/
 
 - entry: 1236525570
   orgName: Åre Golfklubb
@@ -148173,6 +148353,15 @@ entries:
   - intresseförening
   - musikförening
   web: https://olleadolphsonsallskapet.se/
+
+- entry: 1236545933
+  orgName: Torstorps Hästsportklubb
+  orgNumber: 802541-2852
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  web: https://www.torstorpshastsportklubb.se/
 
 - entry: 1236546519
   orgName: Let's Skyrocket / Skyrocket Podden / Carola Von Ahn
@@ -149455,7 +149644,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.ojjk.se/
 
@@ -152153,6 +152342,15 @@ entries:
   - rekoproducerat
   web: https://www.facebook.com/familjegarden
 
+- entry: 1236732457
+  orgName: Radioklubben Östra, SK5LF
+  orgNumber: 802511-9895
+  comment: null
+  categories:
+  - radioamatörer
+  - sändareamatörer
+  web: https://www.sk5lf.se/
+
 - entry: 1236732903
   orgName: SR Modell
   orgNumber: 969793-6855
@@ -153835,7 +154033,7 @@ entries:
   comment: null
   categories:
   - idrottsförening
-  - jujutsuklubb
+  - jiujitsuklubb
   - kampsportsförening
   web: https://www.svenskalag.se/seiki-kai
 
@@ -158151,7 +158349,7 @@ entries:
   orgNumber: 802538-4234
   comment: null
   categories:
-  - hästavel
+  - avelsförening
   - hästklubb
   - hästuppfödning
   web: https://www.ardennerklubben.se/
