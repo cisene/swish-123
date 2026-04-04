@@ -14277,6 +14277,15 @@ entries:
   - politiskt parti
   web: https://arbetarpartiet.se/
 
+- entry: 1230595645
+  orgName: Bergsåkers Badmintonklubb
+  orgNumber: 889201-4161
+  comment: Övrigt
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://www.bbmk.se/
+
 - entry: 1230595744
   orgName: Mösjöhults Nya Bygdegårdsförening
   orgNumber: 802452-0507
@@ -41603,6 +41612,15 @@ entries:
   - båtvarv
   web: https://www.pampas.se/
 
+- entry: 1231727510
+  orgName: Mera Lera MTB
+  orgNumber: 822004-9418
+  comment: null
+  categories:
+  - idrottsförening
+  - mountainbikeklubb
+  web: https://www.meraleramtb.com/
+
 - entry: 1231727627
   orgName: Levád Fysiotherapi AB
   orgNumber: 556599-7318
@@ -63593,6 +63611,18 @@ entries:
   categories: null
   web: null
 
+- entry: 1232657054
+  orgName: Ajtte Museivänner
+  orgNumber: 802471-3920
+  comment: null
+  categories:
+  - historieförening
+  - intresseförening
+  - kulturförening
+  - museiförening
+  - vänförening
+  web: https://www.ajttemuseivanner.se/
+
 - entry: 1232657138
   orgName: Borlänge Jazzklubb
   orgNumber: 882601-0723
@@ -67115,6 +67145,15 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://www.hsb.se/stockholm/brf/hjalmo/
+
+- entry: 1232780161
+  orgName: Borgviks Skola och Fritids
+  orgNumber: 769601-3486
+  comment: null
+  categories:
+  - föräldrakooperativ
+  - skola
+  web: https://borgviksskola.se/
 
 - entry: 1232780278
   orgName: Smygehuks Båt & Segelklubb, SBSK
@@ -70871,6 +70910,14 @@ entries:
   categories:
   - kommun
   web: https://www.ekero.se/
+
+- entry: 1232940534
+  orgName: AIK Dartförening
+  orgNumber: 802442-1565
+  comment: null
+  categories:
+  - dartklubb
+  web: https://aik.se/dart/
 
 - entry: 1232940567
   orgName: Långhalmens FVO
@@ -93644,6 +93691,15 @@ entries:
   - konstförening
   web: https://www.lidkopingskonstforening.se/
 
+- entry: 1233895034
+  orgName: Cadillac Automobile Club
+  orgNumber: 802542-1556
+  comment: null
+  categories:
+  - bilklubb
+  - motorsport
+  web: https://cadillacautomobileclub.com/
+
 - entry: 1233896289
   orgName: LuleåFans
   orgNumber: 897001-7029
@@ -106654,6 +106710,16 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1234495602
+  orgName: Söderåsens Friluftsklubb
+  orgNumber: 802448-5198
+  comment: null
+  categories:
+  - friluftsklubb
+  - idrottsförening
+  - löparklubb
+  web: https://www.soderasen.org/
+
 - entry: 1234495750
   orgName: Team Rynkeby Sjuhärad
   orgNumber: 802537-0241
@@ -113174,6 +113240,15 @@ entries:
   - bandyklubb
   - idrottsförening
   web: https://www.sbbk.nu/
+
+- entry: 1234792784
+  orgName: Södra Råda Akademien
+  orgNumber: 802460-7692
+  comment: null
+  categories:
+  - historieförening
+  - intresseförening
+  web: https://sodrarada.se/
 
 - entry: 1234794434
   orgName: Filipstads Simklubb
@@ -120836,6 +120911,16 @@ entries:
   - rotaryklubb
   web: https://portal.clubrunner.ca/16772/
 
+- entry: 1235138557
+  orgName: Folkdanslaget Värendsgillet
+  orgNumber: 829501-4164
+  comment: null
+  categories:
+  - dansförening
+  - folkdans
+  - folkdansgille
+  web: https://www.varendsgillet.se/
+
 - entry: 1235138573
   orgName: Pingstförsamlingen Hallstahammar
   orgNumber: 878000-0421
@@ -125679,6 +125764,14 @@ entries:
   - tennisklubb
   web: https://kronprinsenstk.se/
 
+- entry: 1235331590
+  orgName: Glava Bygdekontor
+  orgNumber: 874001-4801
+  comment: null
+  categories:
+  - bygdegårdsförening
+  web: https://www.glavabygdekontor.se/
+
 - entry: 1235331699
   orgName: Hörselskadades Riksförbund
   orgNumber: 802535-5036
@@ -129267,6 +129360,14 @@ entries:
   - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/ort/ostergotland/finspangs-kommun/
+
+- entry: 1235465141
+  orgName: Falkenbergs Intresseförening för Montessoripedagogik, FIM
+  orgNumber: 802508-6318
+  comment: null
+  categories:
+  - montessoriskola
+  web: https://montessorifalkenberg.se/fim/
 
 - entry: 1235465190
   orgName: Konstföreningen Akvatinten
@@ -135930,6 +136031,15 @@ entries:
   - båtklubb
   - båtsällskap
   web: https://www.sodrastavsuddabrygga.se/
+
+- entry: 1235727060
+  orgName: Bergsåkers Badmintonklubb
+  orgNumber: 889201-4161
+  comment: Avgifter
+  categories:
+  - badmintonklubb
+  - idrottsförening
+  web: https://www.bbmk.se/
 
 - entry: 1235727623
   orgName: Väsby Brottarklubb
@@ -148614,6 +148724,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/gislaved
 
+- entry: 1236262729
+  orgName: Rosendahls Ryttarförening
+  orgNumber: 875002-9962
+  comment: null
+  categories:
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://www.rosendahlsrf.se/
+
 - entry: 1236263057
   orgName: Katrineholms Scoutkår
   orgNumber: 818500-4895
@@ -151455,6 +151575,14 @@ entries:
   - välgörenhet
   web: https://www.folketsskafferi.se/
 
+- entry: 1236392849
+  orgName: Lindshammar Samhällsförening
+  orgNumber: 802541-5137
+  comment: null
+  categories:
+  - samhällsförening
+  web: https://lindshammar.se/
+
 - entry: 1236393664
   orgName: PRO Storå-Guldsmedshyttan
   orgNumber: 877100-4812
@@ -153191,6 +153319,14 @@ entries:
   - skolloppet
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1236470314
+  orgName: Oberoende Polska Scoutkåren "LS-Kaszuby"
+  orgNumber: 813200-4618
+  comment: null
+  categories:
+  - scoutkår
+  web: https://www.nhhp.se/
 
 - entry: 1236470694
   orgName: Dissidentpodden / Håkan Julander
@@ -157468,6 +157604,15 @@ entries:
   - hjälporganisation
   - rödakorset
   web: https://www.rodakorset.se/
+
+- entry: 1236654305
+  orgName: PON-Unionen, Rasklubben för Polski Owczarek Nizinny
+  orgNumber: 802523-9131
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://ponunionen.se/
 
 - entry: 1236654354
   orgName: SPF Seniorerna Åseda-Nottebäck
