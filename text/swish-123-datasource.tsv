@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-04-04-rev-105648
+# Date: 2026-04-04-rev-110751
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -8398,7 +8398,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233269594	802451-9368	Helgarö Bygdegård	https://bygdegardarna.se/helgaro/	bygdegårdsförening	
 1233269677	719000-3769	Stavsjö Föreningshus	https://bygdegardarna.se/stavsjo/	bygdegårdsförening,samhällsförening	
 1233270998	823000-1482	Västra Hargs Missionsförsamling	https://www.vastraharg.com/	religion	
-1233271178	892600-2554	Ragundadalens Konstsällskap	https://ragundadalen.konstforeningar.se/	konstförening	
+1233271178	802460-4905	Ragundadalens Konstsällskap	https://ragundadalen.konstforeningar.se/	konstförening	
 1233272655	894000-6946	Tavelsjö AIK TAIK	https://www.flurkmarksik.se/	fotbollsklubb,idrottsförening	F12
 1233272796	864500-1192	Borås Gymnastik och Idrottsförening	https://www.borasgif.se/	fotbollsklubb,gymnastikförening,idrottsförening,ishockeyklubb,linedanceklubb,mountainbikeklubb,orienteringsklubb,padelklubb,skidlöparklubb,skidskytteklubb	
 1233273182	802432-4645	SPF Seniorerna Fjärås	https://www.spfseniorerna.se/distrikt/hallandsdistriktet/foreningslista/spf-seniorerna-fjaras/	pensionärsklubb	
@@ -11230,7 +11230,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234428363	802401-9039	Stiftelsen Storholmen Norden	https://www.storholmen.org/	friluftsmuseum,kulturförening,museiförening,museum,stiftelse	
 1234428561	874000-0420	IFK Munkfors	https://www.laget.se/IFKMunkforsHockey/	idrottsförening,ishockeyklubb	
 1234430740	802525-8313	Kristdemokraterna	https://wp.kristdemokraterna.se/koping/	politiskt parti	Köping
-1234431201	842000-8776	Rotary Distrikt 2390	https://rotary2390.se/	rotaryklubb	
+1234431201	842000-8776	Rotary Distrikt 2395	https://rotary2395.se/	rotaryklubb	
 1234432142	556792-1597	Bruksvallarna Event AB	https://www.bruksvallarna.se/	eventarrangör,vintersport	Spårkort
 1234432159	802466-5401	Uppsala Handbollsklubb	https://www.uppsalahk.se/	handbollsklubb,idrottsförening	P2012
 1234432548	802442-1623	Hammarby IF Ishockeyförening	https://www.hammarbyhockey.se/	idrottsförening,ishockeyklubb	Junior
@@ -15669,7 +15669,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236204861	889600-6858	KB65 Hockey	https://www.svenskalag.se/kb65-hockey	idrottsförening,ishockeyklubb	
 1236205603	832401-4110	PRO Trekanten	https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-kalmar/foreningar/trekanten.html	pensionärsklubb	
 1236207088	802532-1475	Stödföreningen för Svenska Kulturstiftelsen	https://www.svenskakulturstiftelsen.se/	stiftelse	
-1236208631	892600-3909	Vemdalens Alpina	https://www.svenskalag.se/vifalpina	alpinklubb,idrottsförening	
+1236208631	892600-3909	Vemdalens Idrottsförening	https://www.svenskalag.se/vifalpina	alpinklubb,idrottsförening	
 1236209100	817601-5892	Alsike IF	https://www.laget.se/AlsikeIF/	fotbollsklubb,futsalklubb,idrottsförening	
 1236209134	802533-7653	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Jönköping, Ljungarumsskolan F-6
 1236210173	802449-9306	Sundsvall FBC	https://www.sundsvallfbc.se/	idrottsförening,innebandyklubb	F10/11
