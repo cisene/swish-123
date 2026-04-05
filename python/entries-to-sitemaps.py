@@ -106,7 +106,7 @@ def sitemapMisc(filelist):
       urlset.append(elem_url)
       line_count += 1
 
-      if line_count >= 5000:
+      if line_count >= 50000:
         xml_contents = etree.tostring(urlset, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
         filename = f"sitemap-misc-{file_split_counter}.xml"
         filepath = f"../{filename}"
@@ -168,7 +168,7 @@ def sitemapOrganizations(organisationList):
       urlset.append(elem_url)
       line_count += 1
 
-      if line_count >= 5000:
+      if line_count >= 50000:
         xml_contents = etree.tostring(urlset, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
         filename = f"sitemap-organisations-{file_split_counter}.xml"
         filepath = f"../{filename}"
@@ -230,7 +230,7 @@ def sitemapCategories(categoriesList):
       urlset.append(elem_url)
       line_count += 1
 
-      if line_count >= 5000:
+      if line_count >= 50000:
         xml_contents = etree.tostring(urlset, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
         filename = f"sitemap-categories-{file_split_counter}.xml"
         filepath = f"../{filename}"
@@ -292,7 +292,7 @@ def sitemapNumbers(numbersList):
       urlset.append(elem_url)
       line_count += 1
 
-      if line_count >= 5000:
+      if line_count >= 50000:
         xml_contents = etree.tostring(urlset, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
         filename = f"sitemap-numbers-{file_split_counter}.xml"
         filepath = f"../{filename}"
@@ -333,13 +333,8 @@ def sitemapIndex(filelist):
     elem_lastmod = etree.Element("lastmod")
     elem_lastmod.text = f"{dest_date_date}T{dest_date_time}+01:00"
 
-    # <changefreq>weekly</changefreq>
-    #elem_changefreq = etree.Element("changefreq")
-    #elem_changefreq.text = str("weekly")
-
     elem_sitemap.append(elem_loc)
     elem_sitemap.append(elem_lastmod)
-    #elem_sitemap.append(elem_changefreq)
 
     urlset.append(elem_sitemap)
     line_count += 1
