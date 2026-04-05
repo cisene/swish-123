@@ -117,6 +117,13 @@ def main():
   buffer.append("")
   buffer.append("")
 
+  buffer.append("Snälla, skriv INTE ut detta dokument, tänk på naturen! Dokumentet uppdateras nästan dagligen.")
+
+  buffer.append("")
+  buffer.append("")
+
+
+
   old_letter = None
 
   for di in dest_dict_keys:
