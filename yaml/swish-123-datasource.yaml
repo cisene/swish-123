@@ -20932,7 +20932,6 @@ entries:
   categories:
   - anhörigorganisation
   - godkänd gåvomottagare
-  - insamlingskontroll
   - stiftelse
   web: https://www.spadbarnsfonden.se/
 
@@ -36444,7 +36443,6 @@ entries:
   comment: Afrika svälter
   categories:
   - godkänd gåvomottagare
-  - insamlingskontroll
   - religion
   - stiftelse
   - välgörenhet
@@ -41712,7 +41710,6 @@ entries:
   comment: null
   categories:
   - förbund
-  - insamlingskontroll
   - välgörenhet
   web: https://www.neuro.se/
 
@@ -130002,7 +129999,6 @@ entries:
   comment: Sverigemission
   categories:
   - godkänd gåvomottagare
-  - insamlingskontroll
   - religion
   - stiftelse
   - välgörenhet
@@ -162910,6 +162906,7 @@ entries:
   - donation
   - forskning
   - godkänd gåvomottagare
+  - insamlingskontroll
   web: https://rahfo.se/
 
 - entry: 1239008004
@@ -163383,6 +163380,7 @@ entries:
   comment: null
   categories:
   - anhörigorganisation
+  - insamlingskontroll
   - intresseförening
   - patientförening
   - riksförbund

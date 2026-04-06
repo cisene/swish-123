@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-04-06-rev-175614
+# Date: 2026-04-06-rev-185818
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2339,7 +2339,7 @@
 "1230897454","556443-1988","Stora Ekeby Kött & Korvmakeri / Stora Ekeby Säteri i Västerås AB","https://storaekeby.se/","catering,försäljning,köttproducent",""
 "1230898049","836200-3058","Hembygdsföreningen Facklan","https://hallevik.se/","hembygdsförening",""
 "1230898114","889600-3814","Skorpeds Baptistförsamling","https://www.skorpedsbaptistkyrka.se/","religion",""
-"1230898155","802012-1193","Spädbarnsfonden","https://www.spadbarnsfonden.se/","anhörigorganisation,godkänd gåvomottagare,insamlingskontroll,stiftelse",""
+"1230898155","802012-1193","Spädbarnsfonden","https://www.spadbarnsfonden.se/","anhörigorganisation,godkänd gåvomottagare,stiftelse",""
 "1230898239","898200-1854","Nyborgs SK","https://www.svenskalag.se/nyborgssk","idrottsförening,sportklubb",""
 "1230898338","802442-4395","ABCD Budokai Sverige","https://sites.google.com/abcdbudokai.se/abcdbudokaisverige","funktionsvariation,idrottsförening,kampsportsförening",""
 "1230898585","889601-2484","Husums IF Skidklubb","https://husumskidor.klubbenonline.se/","idrottsförening,skidklubb,skidlöparklubb",""
@@ -4074,7 +4074,7 @@
 "1231556828","813600-1685","Friluftsfrämjandet Lidingö","https://www.friluftsframjandet.se/regioner/malardalen/lokalavdelningar/lidingo/","friluftsklubb,friluftsliv","Vandring"
 "1231556851","889600-4846","Anundsjö IF","https://www.svenskalag.se/anundsjoif","fotbollsklubb,idrottsförening",""
 "1231556935","826001-6020","Ödestugu Sockenråd","https://odestugu.se/","sockenförening,sockenråd",""
-"1231557156","802000-8184","EFS - Evangeliska Fosterlandsstiftelsen","https://afrikasvalter.nu/","godkänd gåvomottagare,insamlingskontroll,religion,stiftelse,välgörenhet","Afrika svälter"
+"1231557156","802000-8184","EFS - Evangeliska Fosterlandsstiftelsen","https://afrikasvalter.nu/","godkänd gåvomottagare,religion,stiftelse,välgörenhet","Afrika svälter"
 "1231557263","845001-1054","Dösjöbro IF","https://www.dosjobroif.com/","fotbollsklubb,idrottsförening","F01/F02"
 "1231557362","889201-6570","Matfors Skidklubb","https://www.svenskalag.se/matforssk","idrottsförening,skidlöparklubb",""
 "1231557545","916472-0220","Fjellfotografen Tomas Johansson HB","http://www.fjellfotografen.se/","fotograf",""
@@ -4667,7 +4667,7 @@
 "1231780691","885000-3305","Valbo AIF","https://www.valboaif.se/","friidrottsförening,idrottsförening",""
 "1231780709","802530-2236","Frösö IF","https://frosoif.se/","cykelklubb,fotbollsklubb,idrottsförening,orienteringsklubb",""
 "1231780873","827500-1413","Stensjöns IF","https://www.svenskalag.se/stensjonsif","fotbollsklubb,friidrottsförening,idrottsförening",""
-"1231780907","802002-3605","Neuroförbundet","https://www.neuro.se/","förbund,insamlingskontroll,välgörenhet",""
+"1231780907","802002-3605","Neuroförbundet","https://www.neuro.se/","förbund,välgörenhet",""
 "1231781608","882000-4771","Grytnäs GF","https://www.svenskalag.se/grytnasgf","gymnastikförening,idrottsförening",""
 "1231782531","802482-0808","Insamlingsstiftelsen Naturstiftelsen","https://www.naturstiftelsen.se/","donation,naturvård,stiftelse",""
 "1231783331","802544-8260","Katrineholms Padelklubb","https://www.svenskalag.se/katrineholmspadelklubb","idrottsförening,padelklubb",""
@@ -14456,7 +14456,7 @@
 "1235700067","827001-1565","Centrumförsamlingen i Forserum","https://centrumforsamlingen.se/","religion",""
 "1235700141","816000-1940","Centrumkyrkan Vallentuna","https://www.ckvallentuna.se/","religion",""
 "1235700158","802466-8314","Children's Equal Rights","https://childrensequal.se/","donation,hjälporganisation",""
-"1235700174","802000-8184","EFS - Evangeliska Fosterlandsstiftelsen","https://www.efs.nu/","godkänd gåvomottagare,insamlingskontroll,religion,stiftelse,välgörenhet","Sverigemission"
+"1235700174","802000-8184","EFS - Evangeliska Fosterlandsstiftelsen","https://www.efs.nu/","godkänd gåvomottagare,religion,stiftelse,välgörenhet","Sverigemission"
 "1235700273","864000-0439","Annelunds IF","https://www.annelundsif.com/","idrottsförening","Ungdomssektion"
 "1235700380","839400-1864","Ängelholms Brottarklubb","https://angelholmsbrottarklubb.sportadmin.se/","brottningsklubb,idrottsförening",""
 "1235700539","849201-5428","EFS Kornhill","https://www.kornhill.se/","religion",""
@@ -18102,7 +18102,7 @@
 "1239007915","802007-3436","Synskadades Riksförbund","https://www.srf.nu/","godkänd gåvomottagare,insamlingskontroll,riksförbund,synnedsättning,synskadad",""
 "1239007931","817602-0025","Insamlingsstiftelsen Födelsefonden","https://www.fodelsefonden.se/","donation,insamlingskontroll,stiftelse",""
 "1239007949","855101-4874","Stiftelsen ParkinsonFörbundets Forskningsfond","https://www.parkinsonfonden.se/","donation,forskning,insamlingskontroll,stiftelse,välgörenhet",""
-"1239007980","815200-2583","Cancerföreningen i Stockholm","https://rahfo.se/","cancerforskning,donation,forskning,godkänd gåvomottagare","Radiumhemmets Forskningsfond"
+"1239007980","815200-2583","Cancerföreningen i Stockholm","https://rahfo.se/","cancerforskning,donation,forskning,godkänd gåvomottagare,insamlingskontroll","Radiumhemmets Forskningsfond"
 "1239008004","802002-8711","Svenska Röda Korset","https://www.rodakorset.se/","godkänd gåvomottagare,hjälporganisation,insamlingskontroll,rödakorset","Röda Korsets arbete i Katastrofer"
 "1239008012","802002-8711","Svenska Röda Korset","https://www.rodakorset.se/","godkänd gåvomottagare,hjälporganisation,insamlingskontroll,rödakorset",""
 "1239008038","802006-1704","Riksförbundet FUB","https://www.fub.se/","insamlingskontroll",""
@@ -18150,7 +18150,7 @@
 "1239010026","802000-8184","EFS - Evangeliska Fosterlandsstiftelsen","https://www.efs.nu/","donation,godkänd gåvomottagare,insamlingskontroll,religion,stiftelse",""
 "1239010042","802016-5687","Tobias Stiftelsen","https://www.tobiasstiftelsen.com/","donation,insamlingskontroll,stiftelse",""
 "1239010075","802002-3605","Neuroförbundet","https://www.neuro.se/","förbund,insamlingskontroll,välgörenhet",""
-"1239010109","802000-6410","Riksförbundet HjärtLung","https://www.hjart-lung.se/","anhörigorganisation,intresseförening,patientförening,riksförbund",""
+"1239010109","802000-6410","Riksförbundet HjärtLung","https://www.hjart-lung.se/","anhörigorganisation,insamlingskontroll,intresseförening,patientförening,riksförbund",""
 "1239010174","802004-5681","Latinamerikagrupperna","https://www.latinamerikagrupperna.se/","insamlingskontroll,mänskliga rättigheter,välgörenhet",""
 "1239010646","802407-2681","Barnens Hopp","https://www.barnenshopp.org/","insamlingskontroll,välgörenhet",""
 "1239010687","802409-1970","Terrafem","https://www.terrafem.org/","donation,godkänd gåvomottagare,insamlingskontroll,kvinnojour",""

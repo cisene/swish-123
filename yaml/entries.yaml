@@ -21812,7 +21812,6 @@ entries:
   categories:
   - anhörigorganisation
   - godkänd gåvomottagare
-  - insamlingskontroll
   - stiftelse
   web: https://www.spadbarnsfonden.se/
 
@@ -37879,7 +37878,6 @@ entries:
   comment: Afrika svälter
   categories:
   - godkänd gåvomottagare
-  - insamlingskontroll
   - religion
   - stiftelse
   - välgörenhet
@@ -43302,7 +43300,6 @@ entries:
   comment: null
   categories:
   - förbund
-  - insamlingskontroll
   - välgörenhet
   web: https://www.neuro.se/
 
@@ -136044,7 +136041,6 @@ entries:
   comment: Sverigemission
   categories:
   - godkänd gåvomottagare
-  - insamlingskontroll
   - religion
   - stiftelse
   - välgörenhet
@@ -171562,7 +171558,8 @@ entries:
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - insamlingskontroll
   web: null
 
 - entry: 1239005356
@@ -173699,6 +173696,7 @@ entries:
   - donation
   - forskning
   - godkänd gåvomottagare
+  - insamlingskontroll
   web: https://rahfo.se/
 
 - entry: 1239008004
@@ -174052,6 +174050,7 @@ entries:
   orgNumber: 832800-7839
   comment: null
   categories:
+  - insamlingskontroll
   - retired
   web: null
 
@@ -174273,7 +174272,8 @@ entries:
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - insamlingskontroll
   web: null
 
 - entry: 1239009796
@@ -174378,6 +174378,7 @@ entries:
   comment: null
   categories:
   - anhörigorganisation
+  - insamlingskontroll
   - intresseförening
   - patientförening
   - riksförbund
@@ -174597,7 +174598,8 @@ entries:
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - insamlingskontroll
   web: null
 
 - entry: 1239011263
@@ -175165,14 +175167,16 @@ entries:
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - insamlingskontroll
   web: null
 
 - entry: 1239019514
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - insamlingskontroll
   web: null
 
 - entry: 1239019555
@@ -175482,7 +175486,8 @@ entries:
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - insamlingskontroll
   web: null
 
 - entry: 1239856195
