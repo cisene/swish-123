@@ -54,15 +54,15 @@ def readYAML(filepath):
 
 def main():
 
+  tag_set = 0
+  tag_rem = 0
+
   # Get list of entries
   entries_dict = readYAML(YAML_ENTRIES_FILE)
 
   for entryVO in entries_dict['entries']:
-    orgNumber = entryVO['orgNumber']
+    entry = str(entryVO['entry'])
     categories_list = entryVO['categories']
-
-    #if orgNumber == None:
-    #  continue
 
     # Only process entries with categories
     if categories_list != None:
@@ -70,20 +70,24 @@ def main():
       # If desired category tag if found, remove it
       if CATEGORY_TAG in categories_list:
         categories_list.remove(CATEGORY_TAG)
+        tag_rem += 1
+        #print(f"Remove: {entry}")
 
-        if len(categories_list) == 0:
-          categories_list = None
+      if len(categories_list) == 0:
+        categories_list = None
 
-    if re.search(r"^12390(\d{5})$", str(entryVO['entry']), flags=re.IGNORECASE):
+    if re.search(r"^12390(\d{5})$", entry, flags=re.IGNORECASE):
       if categories_list == None:
         categories_list = []
 
       categories_list.append(CATEGORY_TAG)
       categories_list.sort()
       entryVO['categories'] = categories_list
-      continue
+      tag_set += 1
+      #print(f"Append: {entry}")
 
   writeYAML(YAML_ENTRIES_FILE, entries_dict)
+  print(f"insamlingskontroll: {tag_rem}/{tag_set}")
 
 
 
