@@ -7,11 +7,16 @@ python3 ./scrape-forenadebolag-varningslistan.py
 # Sort entries
 python3 ./entries-sort.py
 
+# Update insamlingskontroll
+python3 ./entries-update-insamlingskontroll.py
+
 # Update gåvomottagare from Masterdata
 python3 ./entries-update-gåvomottagare.py
 
 # Update varningslistan from Masterdata
 python3 ./entries-update-varningslistan.py
+
+# Masterdata lookup
 python3 ./entries-masterdata-lookup.py
 
 # Filter YAML
