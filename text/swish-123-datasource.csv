@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-04-12-rev-210946
+# Date: 2026-04-13-rev-191104
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1629,6 +1629,7 @@
 "1230633297","802497-5453","PRO Liljeholmen","https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-stockholm/foreningar/liljeholmen.html","pensionärsklubb",""
 "1230633370","802435-1689","Kulturens Bildningsverksamhet","https://www.kulturens.se/","kultur,utbildning",""
 "1230633503","875002-2736","Kårsta Golfklubb","https://www.karstagk.se/","golfbana,golfklubb,ställplats","Ställplats"
+"1230633537","802426-0492","Stiftelsen Lifewatch - Niclas Öberg Foundation","https://www.lifewatch.se/","godkänd gåvomottagare,stiftelse","gåvor till autismområdet"
 "1230634345","857207-0319","Azalea Bollklubb","https://www.azaleabk.se/","café","Café Azalea"
 "1230634543","252004-8931","Nylöse Pastorat","https://www.svenskakyrkan.se/nylose","religion","Kollekt Hjällbo Kyrka"
 "1230634626","556727-1522","Horns Skärgårdscamping / NFS Marin AB","https://www.hornscamping.se/","camping,logi,stuguthyrning",""
@@ -2777,7 +2778,7 @@
 "1231053420","864000-0371","Pingstförsamlingen i Alingsås","https://www.pingstkyrkan.com/","religion","En gåva till stan"
 "1231053479","899100-2828","K4 Idrottsförening","https://www.svenskalag.se/k4if","idrottsförening,innebandyklubb,skidskytteklubb",""
 "1231053677","802462-3061","Pannkakskyrkan / Reach","https://pannkakskyrkan.se/","religion",""
-"1231053727","802441-2952","Nossan Ljusfestival / Grästorps framtidsförening","https://www.facebook.com/nossanljusfestival/","kulturförening",""
+"1231053727","802441-2952","Nossan Ljusfestival / Grästorps Framtidsförening","https://www.facebook.com/nossanljusfestival/","kulturförening",""
 "1231053917","874400-2455","Equmeniayrkan Holmedal & Blomskog","https://equmeniakyrkan.se/holmedalblomskog/","religion",""
 "1231055888","849201-2938","Slättåkragården Förening","https://slattakra.com/","bygdegårdsförening,hembygdsförening",""
 "1231056167","802005-9542","Svenska Röda Korset","https://www.rodakorset.se/ort/stockholm/stockholms-stad/","hjälporganisation,rödakorset","Stockholm Sydost"
@@ -2975,6 +2976,7 @@
 "1231137645","828000-0814","Gnosjö IF","https://www.gnosjoif.com/","fotbollsklubb,idrottsförening","P-12/13"
 "1231137876","802427-8585","Barnens Ambassad","https://barnensambassad.se/","hjälporganisation",""
 "1231139252","252003-6399","Orust Pastorat","https://www.svenskakyrkan.se/orust","religion","Insamling Morlanda Församling"
+"1231139450","802478-3410","New Life Missions","https://newlifemission.se/lifebag/","godkänd gåvomottagare,hjälporganisation,religion","#carryalifebagsweden"
 "1231139948","690316-XXXX","Edenhamn Terapi / Ann-Sofie Edenhamn","https://edenhamnterapi.se/","samtalsterapi,terapisamtal",""
 "1231140839","769632-0196","Bostadsrättsföreningen Tröinge Park C i Falkenberg","https://troingeparkc.bostadsratterna.se/","bostadsrättsförening",""
 "1231140938","849000-5322","Hallands Kennelklubb","https://www.skk.se/sv/HKK/","hundsport,kennelklubb",""
@@ -4308,6 +4310,7 @@
 "1231632207","857210-0793","Celiakiföreningen i Göteborg med omnejd","https://www.celiaki.se/foreningar/goteborg/","celiakiförening,patientförening",""
 "1231632298","802452-6827","Munskänkarna","https://www.munskankarna.se/sv/regioner/malardalen/orebro/","munskänkarna,vinprovning","Örebro"
 "1231632546","883201-5096","Leksands IF Fotboll","https://www.svenskalag.se/leksandsfotboll","fotbollsklubb,idrottsförening",""
+"1231632611","802464-6922","East Front Tifo","https://staglaberget.wordpress.com/","supporterklubb",""
 "1231635655","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/templet-stockholm/","godkänd gåvomottagare,historieförening,religion","Historiska Sällskapet"
 "1231636455","889200-6159","Svenska Röda Korset","https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/","hjälporganisation,rödakorset","Skönsbergs Röda Korsgrupp"
 "1231639905","802439-5231","Löfstadkyrkans Församling","https://lofstadkyrkan.se/","religion",""
@@ -7188,6 +7191,7 @@
 "1232766608","802475-0971","Kulturföreningen PUSH","https://www.pushfestival.se/","kulturförening",""
 "1232766897","802494-5340","Pakistanhjälpen","https://pakistanhjälpen.se/","hjälporganisation",""
 "1232766939","802417-7001","Håsta IBK","https://www.svenskalag.se/hastaibk","idrottsförening,innebandyklubb",""
+"1232767077","802517-4809","Heart Of Evangelism","https://www.detracker.nu/","religion","Det Räcker"
 "1232768075","827500-2080","Vetlanda Missionskyrka","https://vetlandamissionskyrka.se/","religion",""
 "1232768182","889600-0653","Filadelfia Överhörnäs","https://pingstoverhornas.se/","religion",""
 "1232768349","889200-3446","Stöde IF","https://www.laget.se/StodeIF/","fotbollsklubb,idrottsförening,skidlöparklubb,tennisklubb",""
@@ -10730,6 +10734,7 @@
 "1234183828","818500-5694","Svenska Röda Korset","https://www.rodakorset.se/ort/sodermanland/katrineholms-kommun/","hjälporganisation,rödakorset","Katrineholm"
 "1234185096","827500-2171","Vrigstad Missionsförsamling","https://vrigstadmissionskyrka.se/","religion",""
 "1234187928","716462-0937","Hälsorum Offerdal Jämtland","https://halsorumz.se/","friskvård,företagshälsa,primärvård",""
+"1234189197","802517-4809","Heart Of Evangelism","https://www.detracker.nu/","religion","Det Räcker"
 "1234189916","802545-8475","Direct Help For Ukraine","","hjälporganisation,insamling,ukraina",""
 "1234190088","802015-5860","Sällskapet Blomstervännerna","https://sallskapetblomstervannerna.se/","blommor,intresseförening",""
 "1234190880","802501-2850","The Swedish Surfing Association","https://www.surfforbundet.se/","förbund,idrottsförbund,riksförbund,surfing",""
@@ -11599,7 +11604,7 @@
 "1234565578","802468-1994","Korpen Söderbärke","https://www.korpen.se/korpensoderbarke","idrottsförening,korpenförening",""
 "1234565659","889202-7593","Svenska Röda Korset","https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/","hjälporganisation,rödakorset","Matfors Stöde Fränsta Röda Korskrets"
 "1234566055","802466-5401","Uppsala Handbollsklubb","https://www.uppsalahk.se/","handbollsklubb,idrottsförening","Beach"
-"1234566089","556549-2690","Vasapodden / Lager 157 AB","https://www.podomatic.com/podcasts/vasapodden","podcast",""
+"1234566089","556549-2690","Lager 157 AB","https://www.podomatic.com/podcasts/vasapodden","idrottsförening,podcast",""
 "1234566105","885500-8945","Sällskapet Släktforskarna Sandviken","https://sallskapetslaktforskarna.se/","genealogi,släktforskning",""
 "1234566758","878500-6720","Arboga Musikförening","https://www.arboga-musikforening.se/","musikförening",""
 "1234566972","252004-8931","Nylöse Pastorat","https://www.svenskakyrkan.se/nylose","religion","Kollekt Allhelgonakyrkan i Kortedala"
@@ -12108,6 +12113,7 @@
 "1234763553","823000-4759","Mjölby Ungdomsmusikkår","https://www.svenskalag.se/mumk","musikförening,musikkår",""
 "1234763561","816400-2944","Åkersberga Judoklubb, ÅJK","https://budoalliansen.se/index.php/akersbergajudo-se/","idrottsförening,judoklubb,kampsportsförening",""
 "1234763686","832400-3139","Långasjö-Emmaboda Pingstförsamling","https://www.kyrktorget.se/pingstkyrkan.emmaboda","religion",""
+"1234763801","894003-6778","Stöcke TS Järnet","https://www.stocketriathlon.se/","idrottsförening,triathlonklubb",""
 "1234763918","252003-9260","Vadstena Pastorat","https://www.svenskakyrkan.se/vadstena","religion","Gåvokistan"
 "1234763983","802477-9715","Insamlingsstiftelsen Emma & Therese Children’s Project","https://www.etcpuganda.se/","donation,stiftelse",""
 "1234764486","814000-2596","Hjälmö Brygga Samfällighet","https://hjalmobrygga.se/","samfällighetsförening",""
@@ -16931,6 +16937,7 @@
 "1236677850","865000-7688","Marks Härads Biodlarförening","https://www.marksbiodlare.se/","biodlareförening,biodling,naturbruk",""
 "1236677868","829000-8450","Lions Club Älmhult","https://lionsclubalmhult.blogspot.com/","lionsklubb",""
 "1236678262","802432-2078","American Akita Klubb Sverige","https://americanakitaklubbsverige.se/","hundklubb",""
+"1236680060","802426-0492","Stiftelsen Lifewatch - Niclas Öberg Foundation","https://www.lifewatch.se/","godkänd gåvomottagare,stiftelse","gåvor till cancerområdet"
 "1236680243","802453-0704","RPG Västerbotten","https://www.rpg.org.se/foreningsprogram/vasterbotten/","pensionärsklubb,religion",""
 "1236680615","878500-7512","Klöver Dam Västra Mälardalen","https://www.kloverdamvm.se/","företagande,företagarförening,professionellt nätverk",""
 "1236682025","839400-4686","Sällskapet Hallands Väderös Natur","https://shvn.se/","intresseförening",""

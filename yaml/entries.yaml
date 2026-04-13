@@ -15117,6 +15117,15 @@ entries:
   - ställplats
   web: https://www.karstagk.se/
 
+- entry: 1230633537
+  orgName: Stiftelsen Lifewatch - Niclas Öberg Foundation
+  orgNumber: 802426-0492
+  comment: gåvor till autismområdet
+  categories:
+  - godkänd gåvomottagare
+  - stiftelse
+  web: https://www.lifewatch.se/
+
 - entry: 1230634345
   orgName: Azalea Bollklubb
   orgNumber: 857207-0319
@@ -25780,7 +25789,7 @@ entries:
   web: https://pannkakskyrkan.se/
 
 - entry: 1231053727
-  orgName: Nossan Ljusfestival / Grästorps framtidsförening
+  orgName: Nossan Ljusfestival / Grästorps Framtidsförening
   orgNumber: 802441-2952
   comment: null
   categories:
@@ -27684,6 +27693,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/orust
+
+- entry: 1231139450
+  orgName: New Life Missions
+  orgNumber: 802478-3410
+  comment: '#carryalifebagsweden'
+  categories:
+  - godkänd gåvomottagare
+  - hjälporganisation
+  - religion
+  web: https://newlifemission.se/lifebag/
 
 - entry: 1231139948
   orgName: Edenhamn Terapi / Ann-Sofie Edenhamn
@@ -39962,6 +39981,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/leksandsfotboll
+
+- entry: 1231632611
+  orgName: East Front Tifo
+  orgNumber: 802464-6922
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://staglaberget.wordpress.com/
 
 - entry: 1231635655
   orgName: Frälsningsarmén
@@ -67200,6 +67227,14 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.svenskalag.se/hastaibk
+
+- entry: 1232767077
+  orgName: Heart Of Evangelism
+  orgNumber: 802517-4809
+  comment: Det Räcker
+  categories:
+  - religion
+  web: https://www.detracker.nu/
 
 - entry: 1232768075
   orgName: Vetlanda Missionskyrka
@@ -100719,6 +100754,14 @@ entries:
   - primärvård
   web: https://halsorumz.se/
 
+- entry: 1234189197
+  orgName: Heart Of Evangelism
+  orgNumber: 802517-4809
+  comment: Det Räcker
+  categories:
+  - religion
+  web: https://www.detracker.nu/
+
 - entry: 1234189916
   orgName: Direct Help For Ukraine
   orgNumber: 802545-8475
@@ -108999,10 +109042,11 @@ entries:
   web: https://www.uppsalahk.se/
 
 - entry: 1234566089
-  orgName: Vasapodden / Lager 157 AB
+  orgName: Lager 157 AB
   orgNumber: 556549-2690
   comment: null
   categories:
+  - idrottsförening
   - podcast
   web: https://www.podomatic.com/podcasts/vasapodden
 
@@ -113710,6 +113754,15 @@ entries:
   categories:
   - religion
   web: https://www.kyrktorget.se/pingstkyrkan.emmaboda
+
+- entry: 1234763801
+  orgName: Stöcke TS Järnet
+  orgNumber: 894003-6778
+  comment: null
+  categories:
+  - idrottsförening
+  - triathlonklubb
+  web: https://www.stocketriathlon.se/
 
 - entry: 1234763918
   orgName: Vadstena Pastorat
@@ -159415,6 +159468,15 @@ entries:
   categories:
   - hundklubb
   web: https://americanakitaklubbsverige.se/
+
+- entry: 1236680060
+  orgName: Stiftelsen Lifewatch - Niclas Öberg Foundation
+  orgNumber: 802426-0492
+  comment: gåvor till cancerområdet
+  categories:
+  - godkänd gåvomottagare
+  - stiftelse
+  web: https://www.lifewatch.se/
 
 - entry: 1236680243
   orgName: RPG Västerbotten
