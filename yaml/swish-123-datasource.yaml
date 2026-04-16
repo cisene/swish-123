@@ -40049,6 +40049,14 @@ entries:
   - patientförening
   web: https://eslov.parkinsonskane.se/
 
+- entry: 1231713494
+  orgName: Muslimska Trossamfundet i Kalmar
+  orgNumber: 802534-2570
+  comment: null
+  categories:
+  - religion
+  web: https://www.kalmarmoske.nu/
+
 - entry: 1231717115
   orgName: Specialklubben Rhodesian Ridgeback Sverige, SRRS
   orgNumber: 802401-4576
@@ -43320,6 +43328,15 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/afrosportsklubbmalmo
+
+- entry: 1231853431
+  orgName: Karolinas Animal Rescue
+  orgNumber: 802539-6584
+  comment: null
+  categories:
+  - djursjukvård
+  - djurskydd
+  web: null
 
 - entry: 1231853993
   orgName: KAIS Mora
@@ -87784,6 +87801,14 @@ entries:
   - skytteklubb
   web: https://www.facebook.com/profile.php?id=100064499749574
 
+- entry: 1233794120
+  orgName: Stenhags Dawa Kulturell Förening
+  orgNumber: 802420-4979
+  comment: null
+  categories:
+  - religion
+  web: https://stenhagenmoske.se/
+
 - entry: 1233794237
   orgName: Karlskrona Hockeyklubb
   orgNumber: 835001-2327
@@ -102921,6 +102946,16 @@ entries:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/svalan/
 
+- entry: 1234511291
+  orgName: CP Sverige
+  orgNumber: 802532-5559
+  comment: null
+  categories:
+  - anhörigorganisation
+  - cerebral pares
+  - patientförening
+  web: https://www.cpsverige.se/
+
 - entry: 1234512091
   orgName: Stockholms Studentsångare
   orgNumber: 802003-2861
@@ -112920,6 +112955,14 @@ entries:
   categories:
   - religion
   web: https://www.lovebyforce.se/
+
+- entry: 1235000559
+  orgName: Alsalam Center i Helsingborg
+  orgNumber: 802513-6808
+  comment: null
+  categories:
+  - religion
+  web: https://alsalamcenter.se/
 
 - entry: 1235000625
   orgName: Akhuwat Sweden
@@ -153008,6 +153051,14 @@ entries:
   - rotaryklubb
   web: https://portal.clubrunner.ca/16422/
 
+- entry: 1236699128
+  orgName: Stiftelsen Vaxjo Muslimer
+  orgNumber: 802424-3811
+  comment: null
+  categories:
+  - religion
+  web: null
+
 - entry: 1236699318
   orgName: Innebandyföreningen Säter
   orgNumber: 802436-9079
@@ -158732,6 +158783,14 @@ entries:
   categories:
   - religion
   web: https://sodermore.se/
+
+- entry: 1236930804
+  orgName: Unga Muslimska Förebilder
+  orgNumber: 802449-5833
+  comment: null
+  categories:
+  - religion
+  web: https://umfs.weebly.com/
 
 - entry: 1236931075
   orgName: Föreningen Angarns Ryttare

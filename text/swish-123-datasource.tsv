@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-04-13-rev-191114
+# Date: 2026-04-16-rev-170747
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4481,6 +4481,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231712835	916590-0821	Camp Dannevall AB	https://dannevall.outby.se/	logi,stugby,stuguthyrning,övernattning	
 1231712868	802415-6138	Vattenfalls Veteraner i Stockholm	https://vf-veteraneristhlm.se/	pensionärsklubb	
 1231713114	802414-9398	Parkinsonföreningen Eslöv	https://eslov.parkinsonskane.se/	anhörigorganisation,patientförening	
+1231713494	802534-2570	Muslimska Trossamfundet i Kalmar	https://www.kalmarmoske.nu/	religion	
 1231717115	802401-4576	Specialklubben Rhodesian Ridgeback Sverige, SRRS	https://www.srrs.org/	hundklubb,hunduppfödning	Central
 1231717206	857209-8500	SPF Seniorerna Älvsborg Göteborg	https://www.spfseniorerna.se/distrikt/goteborgsdistriktet/foreningslista/alvsborg/	pensionärsklubb	
 1231717446	802600-9681	Klippens FVO	https://friluftsguidelycksele.se/klippens-fvo/	fiskekort,fiskevård	
@@ -4845,6 +4846,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231852474	894000-6946	Tavelsjö AIK TAIK	https://www.flurkmarksik.se/	fotbollsklubb,idrottsförening	P07-08-09
 1231852540	893202-8148	PRO Brunflo	https://pro.se/distrikt/jamtland/kommun/ostersund/pro-brunflo	pensionärsklubb	
 1231853167	802541-9170	Afro Sports Klubb Malmö	https://www.svenskalag.se/afrosportsklubbmalmo	afrodanceklubb,basketbollklubb,fotbollsklubb,idrottsförening	
+1231853431	802539-6584	Karolinas Animal Rescue		djursjukvård,djurskydd	
 1231853993	884401-5126	KAIS Mora	https://www.laget.se/KaisMora/	idrottsförening,innebandyklubb	
 1231854223	559304-3002	Västerås Trafikskola	https://vasterastrafikskola.se/	trafikskola	
 1231855436	855900-9041	Företagarna Bengtsfors	https://www.foretagarna.se/foreningar/bengtsfors/	intresseförening	
@@ -9784,6 +9786,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233791712	829501-1475	Lessebo Scoutkår	https://lessebo.scout.se/	scoutkår	
 1233791936	818000-1029	Eskilstuna GUIF IF	https://www.guif.nu/	handbollsklubb,idrottsförening	Entré
 1233793205	893201-6150	Norråkers Jaktskytteklubb	https://www.facebook.com/profile.php?id=100064499749574	jaktskytteklubb,skytteklubb	
+1233794120	802420-4979	Stenhags Dawa Kulturell Förening	https://stenhagenmoske.se/	religion	
 1233794237	835001-2327	Karlskrona Hockeyklubb	https://www.khk.se/	idrottsförening,ishockeyklubb	
 1233794393	802545-9549	Kalmarbygdens biodlarförening	https://kalmarbygdensbiodlare.biodlarna.se/	biodlareförening,biodling,naturbruk	
 1233794732	802013-0251	Svensk-Sudanska Föreningen	https://swedishsudanese.org/	hemlandsförening	
@@ -11465,6 +11468,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234506432	559282-7892	BikeTrace AB	https://www.biketrace.se/	cykelutrustning,försäljning,stöldskydd	
 1234506960	802441-5807	SPF Seniorerna Vetlanda	https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/spf-seniorerna-vetlanda/	pensionärsklubb	
 1234509691	802440-9701	SPF Seniorerna Svalan Partille	https://www.spfseniorerna.se/distrikt/bohusdistriktet/foreningslista/svalan/	pensionärsklubb	
+1234511291	802532-5559	CP Sverige	https://www.cpsverige.se/	anhörigorganisation,cerebral pares,patientförening	
 1234512091	802003-2861	Stockholms Studentsångare	https://studentsangarna.se/	körsång,sångförening	
 1234512166	827500-0480	Pingstförsamlingen Vetlanda	https://vetlanda.pingst.se/	religion	
 1234512208	872800-5110	Hembygdsföreningen i Ransäter	https://www.ransater.com/	hembygdsförening	Medlemsavgift
@@ -12569,6 +12573,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235000153	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Helsingborg, Bladins International school
 1235000492	916842-8952	Däckcenter Stora Höga	https://www.dackcenterstorahoga.se/	däckverkstad	
 1235000526	802520-3954	Love by Force International	https://www.lovebyforce.se/	religion	
+1235000559	802513-6808	Alsalam Center i Helsingborg	https://alsalamcenter.se/	religion	
 1235000625	802517-4247	Akhuwat Sweden	https://www.akhuwat.se/	hjälporganisation,utbildningsstöd	
 1235001755	838201-8797	Åhus Handboll	https://www.ahushandboll.com/	handbollsklubb,idrottsförening	
 1235002944	559157-4461	Prolingus AB	https://prolingus.se/	logoped,utbildning	
@@ -17020,6 +17025,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236696843	802515-3142	Vårddemokraterna	https://varddemokraterna.se/	politiskt parti	
 1236698898	252003-0863	Västerås Pastorat	https://www.svenskakyrkan.se/vasteras/mikaelikyrkan	religion	Mikaelikyrkan, Köket
 1236698922	802547-5628	Rotary Vänersborg	https://portal.clubrunner.ca/16422/	rotaryklubb	
+1236699128	802424-3811	Stiftelsen Vaxjo Muslimer		religion	
 1236699318	802436-9079	Innebandyföreningen Säter	https://www.ibfsater.se/	idrottsförening,innebandyklubb	
 1236699417	769617-6317	Bostadsrättsföreningen Palatinen i Nacka	https://brfpalatinen.se/	bostadsrättsförening	
 1236699672	889600-5520	Riksförbundet HjärtLung	https://www.hjart-lung.se/foreningar/vasternorrland/lokalforeningar/ornskoldsvik/	anhörigorganisation,intresseförening,patientförening,riksförbund	Örnsköldsvik
@@ -17656,6 +17662,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236930416	252003-1911	Balingsta Pastorat	https://www.svenskakyrkan.se/balingsta	religion	Vuxenverksamhet
 1236930580	802419-0376	Hallsberg Kumla Simklubb	https://www.hksim.se/	idrottsförening,simklubb,simsällskap	
 1236930606	252003-4956	Södermöre Pastorat	https://sodermore.se/	religion	Kollekt Ljungby
+1236930804	802449-5833	Unga Muslimska Förebilder	https://umfs.weebly.com/	religion	
 1236931075	802457-6178	Föreningen Angarns Ryttare	https://angarnsryttare.com/	hästsport,ridklubb,ryttarförening	
 1236931091	814400-5033	BKV Norrtälje	https://www.laget.se/BKVNorrtalje/	fotbollsklubb,idrottsförening	
 1236931372	883200-6871	Karlsbyhedens IK	https://www.svenskalag.se/karlsbyhedensik	bandyklubb,idrottsförening	
