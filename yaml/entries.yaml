@@ -4661,6 +4661,13 @@ entries:
   - idrottsförening
   web: https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/hudiksvall/discgolf/
 
+- entry: 1230216929
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230216945
   orgName: Rydals Byalag
   orgNumber: 865000-8652
@@ -12725,7 +12732,7 @@ entries:
   categories:
   - religion
   - terminated
-  web: null
+  web: https://www.svenskakyrkan.se/vasteras
 
 - entry: 1230520502
   orgName: Piperska / Lundsbrunnsfonderna
@@ -44492,6 +44499,13 @@ entries:
   - scoutkår
   web: https://eslovsscoutkar.se/foraldraforeningen/
 
+- entry: 1231824218
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1231824267
   orgName: Immanuelskyrkans Församling Jönköping
   orgNumber: 826000-5510
@@ -53318,6 +53332,13 @@ entries:
   - pensionärsklubb
   web: https://skpf53.se/
 
+- entry: 1232202844
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1232202869
   orgName: Prostatacancerföreningen ProLivskvalitet
   orgNumber: 843003-3004
@@ -57581,6 +57602,13 @@ entries:
   - catering
   web: https://www.kopparlundensbageri.se/
 
+- entry: 1232339703
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1232339752
   orgName: CISV Båstad-Bjäre
   orgNumber: 802438-2361
@@ -60832,6 +60860,13 @@ entries:
   web: https://www.yallanykoping.se/
 
 - entry: 1232502938
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
+- entry: 1232504330
   orgName: null
   orgNumber: null
   comment: null
@@ -66907,11 +66942,13 @@ entries:
   web: https://fryshuset.se/
 
 - entry: 1232758720
-  orgName: null
-  orgNumber: null
+  orgName: Sollentuna Hockey Club
+  orgNumber: 814800-7399
   comment: null
-  categories: null
-  web: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: http://www.sollentunahockey.com/
 
 - entry: 1232759272
   orgName: Lunds Konståkningsklubb
@@ -67376,11 +67413,13 @@ entries:
   web: https://www.svenskalag.se/mellerudshk
 
 - entry: 1232770436
-  orgName: null
-  orgNumber: null
+  orgName: Jämshög Saints Hockeyclub
+  orgNumber: 802509-8032
   comment: null
-  categories: null
-  web: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/saints
 
 - entry: 1232770816
   orgName: Bjurtjärns Hembygdsförening
@@ -70832,6 +70871,13 @@ entries:
   - konstförening
   - konstgalleri
   web: https://vadstenakonstgalleri.se/
+
+- entry: 1232906139
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1232906246
   orgName: Mediaverkstan
@@ -96112,6 +96158,13 @@ entries:
   - religion
   web: https://www.lotenkyrkan.se/
 
+- entry: 1233958790
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1233958832
   orgName: Ransta IK
   orgNumber: 879500-2933
@@ -113802,6 +113855,13 @@ entries:
   - golfklubb
   web: https://www.glasriketsgk.se/
 
+- entry: 1234763173
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1234763249
   orgName: Ekarnas Golfklubb
   orgNumber: 869000-7177
@@ -115557,6 +115617,13 @@ entries:
   categories:
   - byalag
   web: http://www.vemhån.com/
+
+- entry: 1234871414
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1234872818
   orgName: Sköns Hembygdsförening
@@ -118385,6 +118452,13 @@ entries:
   - idrottsförening
   web: https://www.ahushandboll.com/
 
+- entry: 1235002159
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1235002944
   orgName: Prolingus AB
   orgNumber: 559157-4461
@@ -118724,6 +118798,13 @@ entries:
   web: https://sjomanskyrkanskagen.org/
 
 - entry: 1235016407
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
+- entry: 1235017868
   orgName: null
   orgNumber: null
   comment: null
@@ -124744,6 +124825,13 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1235259338
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1235261219
   orgName: Brokyrkans Församling
   orgNumber: 876400-0819
@@ -124802,6 +124890,14 @@ entries:
   - hjälporganisation
   - religion
   web: https://helamanniskan-hbs.se/
+
+- entry: 1235262092
+  orgName: Svenska Röda Korset
+  orgNumber: null
+  comment: null
+  categories:
+  - rödakorset
+  web: null
 
 - entry: 1235262175
   orgName: Luleå Roller Derby Förening
@@ -148272,6 +148368,13 @@ entries:
   - scoutkår
   web: https://borlangescoutkar.se/
 
+- entry: 1236185870
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1236185979
   orgName: Equmenia Fjällstugan
   orgNumber: 826002-2499
@@ -157602,6 +157705,13 @@ entries:
   - skytteklubb
   - sportskytteklubb
   web: https://www.svenskalag.se/kvidingeskytteforening
+
+- entry: 1236578512
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1236579338
   orgName: Södra Delsbos Byalag

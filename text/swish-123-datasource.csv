@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-04-16-rev-170737
+# Date: 2026-04-18-rev-000933
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -7153,6 +7153,7 @@
 "1232758183","849200-6351","Skottorps IF","https://www.svenskalag.se/skottorpsif","fotbollsklubb,idrottsförening,innebandyklubb",""
 "1232758233","802490-1772","TrafficSec","https://www.trafficsec.org/","förening,ideell förening,trafiksäkerhet",""
 "1232758621","802011-1582","Stiftelsen Fryshuset","https://fryshuset.se/","familjestöd,stiftelse","Stockholm"
+"1232758720","814800-7399","Sollentuna Hockey Club","http://www.sollentunahockey.com/","idrottsförening,ishockeyklubb",""
 "1232759272","845000-5841","Lunds Konståkningsklubb","https://www.lundskk.se/","idrottsförening,konståkningsklubb,skridskoklubb",""
 "1232759322","802429-2453","Valdemarsviks Brukshundsklubb","https://valdemarsvikbrukshundklubb.se/","brukshundklubb,hundsport",""
 "1232759405","894701-6674","FAMY Västerbotten","https://www.famy.se/","donation,forskning,intresseorganisation",""
@@ -7205,6 +7206,7 @@
 "1232769701","802478-9342","Insamlingsstiftelsen Hepatica","https://www.hepatica.se/","donation,insamling,ukraina",""
 "1232769834","862500-6336","Vargöns Musikkår och Vargöns drill- & flaggflickor","https://www.vargonsmusikkar.se/","drillklubb,musikkår",""
 "1232770287","802509-5905","Melleruds HK","https://www.svenskalag.se/mellerudshk","handbollsklubb,idrottsförening",""
+"1232770436","802509-8032","Jämshög Saints Hockeyclub","https://www.svenskalag.se/saints","idrottsförening,ishockeyklubb",""
 "1232770816","872400-3176","Bjurtjärns Hembygdsförening","https://www.hembygd.se/bjurtjarn","hembygdsförening",""
 "1232770915","897900-5140","Nattavaara Hembygdsförening","http://www.nattavaara.net/","hembygdsförening",""
 "1232771087","862000-4658","Konstbild 82","https://www.konstbild82.com/","konstförening",""
