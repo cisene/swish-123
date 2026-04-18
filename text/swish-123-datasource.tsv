@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-04-18-rev-000943
+# Date: 2026-04-18-rev-173807
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -167,6 +167,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230064337	885501-4083	Skandinaviska Turistkyrkan	https://www.turistkyrkan.org/	religion	
 1230064469	878001-8944	Barkarö Bygdegårdsförening	https://bygdegardarna.se/barkaro/	bygdegårdsförening	
 1230065425	802458-7027	Arnäs Trädgårdsförening	https://arnastradgardsforening.com/	trädgårdsförening,trädgårdsplanering	
+1230065474	857201-2600	Naturskyddsföreningen i Göteborg	https://goteborg.naturskyddsforeningen.se/	naturskydd,naturvård	
 1230065672	802509-2001	Integrationssegling	https://integrationssegling.se/	båtklubb,båtsällskap,segelsällskap	
 1230065847	875001-2307	Rynninge IK	https://www.laget.se/RynningeIK/	fotbollsklubb,idrottsförening	P-2011
 1230065862	846001-1771	Limhamns Motorklubb	https://www.limhamnsmk.se/	motorcykelklubb,motorklubb,motorsport	
@@ -291,7 +292,9 @@ entry	orgNumber	orgName	web	categories	comment
 1230116020	252002-1722	Karlskoga Församling	https://www.svenskakyrkan.se/sodrabergslagen	religion	Stödfond
 1230117077	802544-9862	Kings Garden Ministries	https://kingsgarden.tv/se/	religion	
 1230119248	822001-7696	BK Ljungsbro	https://www.svenskalag.se/bkljungsbro	fotbollsklubb,idrottsförening	Försäljning
+1230119396	802538-7864	Thunderbolts Car Club	https://www.facebook.com/thunderboltsccsweden/	motorklubb,motorsport	
 1230119701	835600-2124	Saxemara Samhällsförening	https://www.facebook.com/p/Saxemara-samh%C3%A4llsf%C3%B6rening-100064659613265/	samhällsförening	
+1230120246	556158-1041	Avarda Bank AB / TF Bank AB	https://avarda.com/	betaltjänster,ekonomi	
 1230120618	802413-1461	Sigtuna Skridskoklubb	https://www.svenskalag.se/sigtunask	idrottsförening,konståkningsklubb	
 1230121483	802421-8474	SPF Seniorerna Kamraterna Örebro	https://www.spfseniorerna.se/distrikt/orebrodistriktet/foreningslista/kamraterna/	pensionärsklubb	
 1230121640	556459-0510	Persköps Ställplats / Wnk Skogsgallring AB	https://www.perskopsstallplats.com/	ställplats	
@@ -307,6 +310,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230124610	802526-8544	Team Kalmarsund Cykel	https://www.svenskalag.se/teamkalmarsund	cykelklubb,idrottsförening	
 1230125302	864500-0962	Borås Sportfiskeklubb	https://www.laget.se/BorasSFK/	sportfiske,sportfiskeklubb	
 1230125666	802451-3080	Bergslagsbygdens Ryttarförening	https://www.laget.se/BergslagsbygdensRyttarforening/	hästsport,ridklubb,ryttarförening	
+1230125831	430622-XXXX	Hans-E:s Kök / Hans Erik Englundh	https://hanseskok.weebly.com/	catering,företagsevent,matlagningskurser	
 1230126193	802013-3099	Riksförbundet HjärtLung	https://www.hjart-lung.se/riksforbundet/stockholm/lokalforeningar/stockholm/	anhörigorganisation,intresseförening,patientförening,riksförbund	Stockholm
 1230126540	878001-6575	PRO Kolbäck	https://pro.se/distrikt/vastmanland/kommun/hallstahammar/pro-kolback	pensionärsklubb	
 1230127076	802521-4621	Partiet Vändpunkt	https://partietvandpunkt.se/	politiskt parti	
@@ -360,6 +364,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230154724	820114-XXXX	Silyns Medicinsk Fotvård i Hallstahammar	https://silyns.se/	fotvård,medicinsk fotvård	
 1230154864	802445-5761	FC Hessleholm	https://www.fchessleholm.se/	fotbollsklubb,idrottsförening	DF17
 1230155846	829000-4772	Odensjö Hembygdsförening	https://odensjo.nu/	hembygdsförening	
+1230155960	840103-XXXX	Tumba Blomstercity / Rim Ablahad	https://tumbablomstercity.com/	blomarrangemang,blomsterhandel	
 1230156174	802421-8169	Nyköpings Curlingklubb	https://www.svenskalag.se/nykopingsck	curlingklubb,idrottsförening	
 1230156513	702001-1545	Svenska Konstnärernas Förening, SKF	https://konstnarshuset.org/	konstnärsförening	
 1230157024	802451-0391	Diabetesorganisationen i Sverige, DIOS	https://diabetesorg.se/	diabetes,hälsovård,patientförening	
@@ -399,6 +404,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230176453	741111-XXXX	HDB Musik Produktion / Henrik Berggren	https://henrikberggren.bandcamp.com/music	artist,musiker	
 1230176909	802545-4805	Norrtäljehjälpen Ideell Förening	https://www.facebook.com/groups/371412031531458	donation,hjälporganisation,ukraina	
 1230178079	812000-4687	Svenska Organisation Mondiale pour l’Éducation Préscolaire, OMEP	https://omep.org.se/	intresseförening,utbildning	
+1230178418	556491-9537	Toyota Material Handling Europe AB	https://toyota-forklifts.eu/	försäljning,gaffeltruckar,tillverkning	
 1230178616	842000-5772	Södra Bilsportförbundet	https://www.sbf.se/distrikt/sodra-bilsportforbundet	bilsport,förbund	
 1230178897	883200-1351	Hedby Byalag	https://www.hedby.se/	byalag	
 1230180067	869000-8159	IFK Lidköping	https://www.laget.se/IFKLidkoping/	fotbollsklubb,idrottsförening	
@@ -519,6 +525,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230215061	872000-7817	Sällskapet Wermlänningarne	https://www.warmlanningarna.org/	intresseförening	
 1230215947	873202-3075	Karlstads Allmänna Schacksällskap	https://karlstad.schack.se/	schackklubb,schacksällskap	
 1230216382	887500-2431	Friluftsfrämjandet Hudiksvall	https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/hudiksvall/discgolf/	discgolfklubb,friluftsklubb,friluftsliv,idrottsförening	Discgolf
+1230216929	802537-6495	Vi Finns För Dig i Örebro	https://www.facebook.com/p/Vi-finns-f%C3%B6r-dig-i-%C3%96rebro-100076440935734/	välgörenhet	
 1230216945	865000-8652	Rydals Byalag	https://rydalsbyalag.se/	byalag	
 1230217687	817601-5835	SK Vide	https://www.skvide.se/	idrottsförening,innebandyklubb	
 1230217729	802468-2547	SPF Seniorerna Klinten Åstorp	https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/klintenastorp/	pensionärsklubb	
@@ -664,6 +671,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230263343	760815-XXXX	Yogafarmen / Linnéa El-Solh	https://www.yogafarmen.se/	yoga	
 1230263574	857202-3813	Hönö Hembygdsföreningen	https://www.hembygd.se/hono	hembygdsförening	
 1230263723	559247-5718	Insikt24 / Exakt24 / Svensk nätmedia AB	https://insikt24.se/	alternativa media,alternativa nyheter	
+1230263863	900701-XXXX	Emma's bageri och grönsaker / Emma Mohlin	https://www.facebook.com/p/Emmas-bageri-och-gr%C3%B6nsaker-100076840210891/	bageri	
 1230264101	802461-2221	IK Spring Väst	https://www.ikspringvast.com/	idrottsförening	
 1230264556	822002-6291	OK Eken	https://www.okeken.se/	idrottsförening,orienteringsklubb	
 1230265298	556819-4277	Palaestra podd / Palaestra Media	https://palaestramedia.com/	podcast	
@@ -702,6 +710,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230282095	252002-9808	Degerfors-Nysunds Församling	https://www.svenskakyrkan.se/sodrabergslagen	religion	Bokbord och ljuskassa
 1230283432	802404-0308	Socialistiskt Alternativ	https://www.socialisterna.org/	politiskt parti	Insamling
 1230283473	802007-0572	Djurens Vänner	https://www.djurensvanner.se/stockholm	djurskydd	Stockholm
+1230285916	556592-3546	Extrude Interactive Aktiebolag	https://extrude.se/	webhosting,webutveckling	Donation Johan No. 1
 1230286500	802440-2458	SPF Seniorerna Rengen Linköping	https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/rengen/	pensionärsklubb	
 1230287698	802524-2846	Retcon	https://retcon.se/	intresseförening	
 1230287706	822001-7696	BK Ljungsbro	https://www.svenskalag.se/bkljungsbro	fotbollsklubb,idrottsförening	P12
@@ -715,6 +724,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230291492	888800-3061	Västra Ångermanlands Travsällskap	https://hotingtravet.com/	travsällskap	
 1230291518	802444-4971	Nifelfang	https://www.facebook.com/groups/nifelfang/	spelförening	
 1230292987	857200-7162	Hisingsbacka FC	https://www.svenskalag.se/hbfc	fotbollsklubb,idrottsförening	
+1230293308	802462-9076	Hackås Föreningshus	https://www.hackasforeningshus.se/	föreningshus,samlingsplats	
 1230294033	802474-8561	Spanska Akademins Fotbollsförening	https://www.spanskaakademin.se/	fotbollsklubb,futsalklubb,idrottsförening	
 1230294140	814800-0345	Filadelfiaförsamlingen i Sollentuna	https://sollentunapingst.se/	religion	
 1230294207	836200-2738	Hörvikens IF	https://www.svenskalag.se/gronavallen	fotbollsklubb,idrottsförening	
@@ -735,6 +745,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230295816	802431-6732	Team Gotland Volleybollklubb	https://www.svenskalag.se/teamgotlandvbk	idrottsförening,volleybollklubb	
 1230295873	814400-5454	Norrtälje IK	https://www.svenskalag.se/nik	idrottsförening,ishockeyklubb	
 1230296194	827001-0419	Flisby Östra Byalag & Bygdegårdsförening	https://www.byalaget.se/	byalag,bygdegårdsförening	
+1230296343	556871-9206	Andra Sätt - Patrik Andersson / Hello Brother AB	http://www.downshift.se/andrasatt	blogg,podcast	
 1230296749	556707-6889	Vallentuna Golfklubb	https://www.vallentunagk.se/	golfbana,golfklubb	
 1230296798	864500-3024	Idrottsklubben Ymer	https://ikymer.sportadmin.se/	idrottsförening,skidlöparklubb	
 1230297275	877101-2559	Hällefors Motorklubb	https://www.hällefors-motorklubb.se/	motorklubb,motorsport	
@@ -12474,6 +12485,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234959102	894000-2671	Vindelns Idrottsförening	https://vindelnsif.sportadmin.se/	fotbollsklubb,idrottsförening	Fotbollssektionen
 1234959482	252003-8874	Södra Ölands Pastorat	https://www.svenskakyrkan.se/sodraoland	religion	Hulterstads Kyrka
 1234959516	802438-3435	Sanningsökarna Enköping	https://www.spiritualisternaenkoping.se/	spiritualism	
+1234959680	681113-XXXX	Drömmen om Målajord / Maria Estling Vannestål	https://drommenommalajord.se/	blogg,podcast	
 1234959912	898800-3946	Piteå Sim	https://www.svenskalag.se/piteasim	idrottsförening,simklubb,simsällskap	
 1234960613	817603-0610	Frötuna IBF	https://www.laget.se/FrotunaIBF/	idrottsförening,innebandyklubb	
 1234960928	817301-5267	Ullforsgruppen	https://ullfors-gruppen.se/	historieförening,intresseförening	
