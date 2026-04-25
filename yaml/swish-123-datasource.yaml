@@ -32386,6 +32386,15 @@ entries:
   - skytteklubb
   web: https://rimforsajsk.se/
 
+- entry: 1231375344
+  orgName: Nautic - Eskilstuna Sportdykarklubb
+  orgNumber: 818000-9519
+  comment: null
+  categories:
+  - sportdykarklubb
+  - sportdykning
+  web: https://www.esdk-nautic.se/
+
 - entry: 1231375468
   orgName: Sällskapet S/S Trafiks Vänner
   orgNumber: 867200-6015
@@ -49715,7 +49724,7 @@ entries:
   web: https://www.vastrahargsif.se/
 
 - entry: 1232138808
-  orgName: Bollnäs jaktskytteklubb
+  orgName: Bollnäs Jaktskytteklubb
   orgNumber: 886500-8083
   comment: null
   categories:
@@ -51707,6 +51716,14 @@ entries:
   - intresseorganisation
   web: https://vapenagaren.se/
 
+- entry: 1232212041
+  orgName: St:a Maria Syrisk Ortodoxa Församlingen i Tumba
+  orgNumber: 812800-7385
+  comment: null
+  categories:
+  - religion
+  web: https://www.facebook.com/p/Sta-Maria-Syrisk-Ortodoxa-kyrkan-i-Tumba-100064891501615/
+
 - entry: 1232212124
   orgName: Goodtown Cruisers
   orgNumber: 802437-5100
@@ -52354,6 +52371,14 @@ entries:
   - innebandyklubb
   - skidskytteklubb
   web: https://www.svenskalag.se/ornasidrottsklubb
+
+- entry: 1232233229
+  orgName: Skaftö Hembygdsförening och Gille
+  orgNumber: 854600-3693
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://www.hembygd.se/skaft-hembygdsf-rening
 
 - entry: 1232233492
   orgName: Fredrik Zillén Löpteknikspecialist, Spring Snabbare AB
@@ -57411,6 +57436,15 @@ entries:
   - pensionärsklubb
   - religion
   web: https://www.rpg-smaland-oland.se/rpg-smaland-oland/extern/jonkoping-ost.htm
+
+- entry: 1232421584
+  orgName: Mjölby Hockeyclub
+  orgNumber: 823000-7315
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.svenskalag.se/mhc
 
 - entry: 1232422905
   orgName: Bridgeklubben S:t Erik
@@ -87291,6 +87325,15 @@ entries:
   - lokaltidning
   web: https://fagerstanyheter.com/
 
+- entry: 1233748209
+  orgName: Forserums Sportfiskeklubb
+  orgNumber: 802528-9722
+  comment: null
+  categories:
+  - sportfiske
+  - sportfiskeklubb
+  web: https://forserumssfk.se/
+
 - entry: 1233748670
   orgName: Träkumla Hembygdsförening
   orgNumber: 802509-2753
@@ -94087,6 +94130,14 @@ entries:
   - hembygdsförbund
   web: https://www.hembygd.se/bohuslan
 
+- entry: 1234049276
+  orgName: Föreningen 3juveler
+  orgNumber: 802420-1371
+  comment: null
+  categories:
+  - intresseförening
+  web: https://3juveler.nu/
+
 - entry: 1234051397
   orgName: Kammi Rosenskjöld / Kammi Production AB
   orgNumber: 559117-2480
@@ -99722,6 +99773,14 @@ entries:
   - fågelskådning
   - ornitologi
   web: https://falsterbofagelstation.se/
+
+- entry: 1234321691
+  orgName: SF Anytime AB
+  orgNumber: 556748-2616
+  comment: null
+  categories:
+  - streamingtjänst
+  web: https://www.sfanytime.com/
 
 - entry: 1234322376
   orgName: Gammelgårdens IF
@@ -137079,6 +137138,15 @@ entries:
   - bågskytteklubb
   - idrottsförening
   web: https://vaxjoaisbagskytte.klubbenonline.se/
+
+- entry: 1235981162
+  orgName: Hundklubben Kopplet
+  orgNumber: 802534-6365
+  comment: null
+  categories:
+  - hundklubb
+  - hundsport
+  web: https://hundklubbenkopplet.com/
 
 - entry: 1235981436
   orgName: Ma Deva Lina / Lina Ahlqvist
