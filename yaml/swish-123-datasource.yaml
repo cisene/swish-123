@@ -5553,6 +5553,15 @@ entries:
   - ryttarförening
   web: https://www.svenskalag.se/vsrk
 
+- entry: 1230244384
+  orgName: Brittsällskapet, BrS
+  orgNumber: 802470-7203
+  comment: null
+  categories:
+  - kattklubb
+  - kattuppfödning
+  web: https://www.brittsallskapet.se/
+
 - entry: 1230244426
   orgName: Afrogarden
   orgNumber: 802476-4543
@@ -10564,7 +10573,7 @@ entries:
   comment: null
   categories:
   - pensionärsklubb
-  web: https://aktivseniorgotland.webber.se/
+  web: https://gotland.aktivaseniorer.com/
 
 - entry: 1230442046
   orgName: Gävle Församling
@@ -26764,13 +26773,14 @@ entries:
   web: https://www.svenskakyrkan.se/orust
 
 - entry: 1231139450
-  orgName: New Life Missions
+  orgName: Stiftelsen New Life Mission
   orgNumber: 802478-3410
   comment: '#carryalifebagsweden'
   categories:
   - godkänd gåvomottagare
   - hjälporganisation
   - religion
+  - stiftelse
   web: https://newlifemission.se/lifebag/
 
 - entry: 1231139948
@@ -38727,7 +38737,7 @@ entries:
   web: https://www.svenskalag.se/leksandsfotboll
 
 - entry: 1231632611
-  orgName: East Front Tifo
+  orgName: East Front, Östers IF
   orgNumber: 802464-6922
   comment: null
   categories:
@@ -103586,7 +103596,7 @@ entries:
   web: https://www.osterhaningekonstforening.se/
 
 - entry: 1234515508
-  orgName: Guldsmedshyttan-Stråssa Bollklubb
+  orgName: Guldsmedshyttan-Stråssa Bollklubb, GSBK
   orgNumber: 877101-3151
   comment: null
   categories:
@@ -104740,7 +104750,7 @@ entries:
   web: https://www.uppsalahk.se/
 
 - entry: 1234566089
-  orgName: Lager 157 AB
+  orgName: Vasapodden / Lager 157 AB
   orgNumber: 556549-2690
   comment: null
   categories:
@@ -147456,7 +147466,7 @@ entries:
   web: https://www.friskissvettis.se/borlange
 
 - entry: 1236430029
-  orgName: BMW Club
+  orgName: BMW Club Schweden Motorsport
   orgNumber: 838201-9738
   comment: CSM Utbildning
   categories:
@@ -152635,7 +152645,7 @@ entries:
   web: https://www.laget.se/HemseBK/
 
 - entry: 1236670657
-  orgName: Kvinnojouren MOA
+  orgName: Kvinnojouren Moa
   orgNumber: 818000-8008
   comment: null
   categories:
