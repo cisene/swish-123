@@ -7871,6 +7871,15 @@ entries:
   - friluftsliv
   web: https://www.friluftsframjandet.se/regioner/vast/lokalavdelningar/lerum/
 
+- entry: 1230335976
+  orgName: Skara Motorklubb
+  orgNumber: 868400-2069
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://www.skaramk.se/
+
 - entry: 1230336073
   orgName: Equmeniakyrkan Götene
   orgNumber: 869000-0834
@@ -36022,6 +36031,16 @@ entries:
   - hästsport
   - stallplats
   web: http://www.frosohastgard.se/
+
+- entry: 1231522739
+  orgName: Ramsjöstrands Segelsällskap
+  orgNumber: 802437-7874
+  comment: null
+  categories:
+  - båtklubb
+  - segelklubb
+  - segelsällskap
+  web: https://www.sailarena.com/sv/se/club/rasss/
 
 - entry: 1231522796
   orgName: Kerstin Hesselgren-Sällskapet
@@ -64615,6 +64634,15 @@ entries:
   categories:
   - intresseförening
   web: https://msherkules.se/
+
+- entry: 1232762383
+  orgName: IBK Sala
+  orgNumber: 802452-7619
+  comment: null
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.svenskalag.se/ibksala
 
 - entry: 1232762912
   orgName: Umeå Universitet

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-04-25-rev-190421
+# Date: 2026-04-26-rev-125140
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -888,6 +888,7 @@
 "1230335745","802401-9039","Stiftelsen Storholmen Norden","https://www.storholmen.org/","historieförening",""
 "1230335810","817301-5325","Föreningen Tegelsmorasjön","https://www.facebook.com/groups/691549874221083/","intresseförening",""
 "1230335919","863500-3596","Friluftsfrämjandet Lerum","https://www.friluftsframjandet.se/regioner/vast/lokalavdelningar/lerum/","friluftsklubb,friluftsliv",""
+"1230335976","868400-2069","Skara Motorklubb","https://www.skaramk.se/","motorklubb,motorsport",""
 "1230336073","869000-0834","Equmeniakyrkan Götene","https://www.equmeniakyrkangotene.se/","religion",""
 "1230336172","556836-9465","Spånga Friskvård Hälsocenter AB","https://spangafriskvard.se/","fotvård,friskvård,massage",""
 "1230336289","802439-0984","Föreningen Förvildade Katter, FFK","https://forvildadekatter.se/","djurskydd,katthem",""
@@ -4025,6 +4026,7 @@
 "1231520964","769631-5055","Bostadsrättsföreningen Hagaterrassen 1 i Stockholm","https://brfhagaterrassen1.bostadsratterna.se/","bostadsrättsförening",""
 "1231522077","802432-5527","Bröstcancerföreningen Blåkulla Oskarshamn","https://oskarshamn.brostcancerforbundet.se/","bröstcancer,bröstcancerförening,donation,patientförening",""
 "1231522085","559168-1480","Frösö Hästgård AB","http://www.frosohastgard.se/","hästsport,stallplats",""
+"1231522739","802437-7874","Ramsjöstrands Segelsällskap","https://www.sailarena.com/sv/se/club/rasss/","båtklubb,segelklubb,segelsällskap",""
 "1231522796","802434-5996","Kerstin Hesselgren-Sällskapet","https://www.hembygd.se/hofors","intresseförening",""
 "1231524065","802534-2414","Stillingsön & Kårekile Sportklubb, SKSK","https://sksk2020.se/","idrottsförening,sportklubb",""
 "1231524297","802533-5137","Westie i Syd","https://www.westiesyd.se/","hundklubb",""
@@ -7207,6 +7209,7 @@
 "1232761526","866601-5824","Bosnien och Hercegovinas Kvinnoriksförbund i Sverige","http://www.bhkrf.se/","förbund,intresseförening",""
 "1232762086","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby","Saltsjö-Boo, Noblaskolan Lännersta"
 "1232762342","857209-0440","Föreningen Bogserbåten Herkules","https://msherkules.se/","intresseförening",""
+"1232762383","802452-7619","IBK Sala","https://www.svenskalag.se/ibksala","idrottsförening,innebandyklubb",""
 "1232762912","202100-2874","Umeå Universitet","https://www.umu.se/kontakta-oss/ge-en-gava/sa-har-gor-du/donation/","donation","Klimatforskning"
 "1232764025","894001-9337","Föräldraföreningen Mot Narkotika, FMN","https://fmn-umea.se/","intresseförening","Umeå"
 "1232764173","556891-4575","DYKNING.NET Sverige AB","https://www.dykning.net/","dykning,dykutrustning,försäljning",""
