@@ -23353,6 +23353,15 @@ entries:
   - konstförening
   web: https://mjolbykonstforening.se/
 
+- entry: 1230937763
+  orgName: TV Vision Sverige
+  orgNumber: 102035-8733
+  comment: null
+  categories:
+  - lokaltelevision
+  - religion
+  web: https://visionsverige.com/sve/
+
 - entry: 1230938324
   orgName: Pingstförsamlingen Tenhult
   orgNumber: 826000-0743
@@ -33242,6 +33251,15 @@ entries:
   - konstförening
   web: https://rosenlofsvanner.se/
 
+- entry: 1231360544
+  orgName: ÖIS Fotboll
+  orgNumber: 802493-7834
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://oisfotboll.se/
+
 - entry: 1231362532
   orgName: Fredrik D Anderssons Minnesfond
   orgNumber: 802540-0584
@@ -38167,7 +38185,7 @@ entries:
   web: https://araskvarn.se/
 
 - entry: 1231557651
-  orgName: Torstorps IF
+  orgName: Torstorps Idrottsförening
   orgNumber: 825000-7153
   comment: Kiosk
   categories:
@@ -41915,6 +41933,14 @@ entries:
   - idrottsförening
   web: https://www.rimbohk.com/
 
+- entry: 1231721000
+  orgName: Hede Skoterklubb
+  orgNumber: 893202-5698
+  comment: null
+  categories:
+  - skoterklubb
+  web: https://hedeskoterklubb.se/
+
 - entry: 1231721042
   orgName: Stala Församling
   orgNumber: 252001-4594
@@ -42877,6 +42903,14 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.triangelnsik.se/
+
+- entry: 1231752088
+  orgName: Holmbygdens Utveckling och Idrott, HBU
+  orgNumber: 889202-3634
+  comment: null
+  categories:
+  - samhällsförening
+  web: https://www.holmbygden.se/
 
 - entry: 1231753219
   orgName: null
@@ -49684,7 +49718,7 @@ entries:
   web: https://www.svenskalag.se/halleforslk
 
 - entry: 1232045680
-  orgName: Mjölby HC
+  orgName: Mjölby Hockeyclub
   orgNumber: 823000-7315
   comment: null
   categories:
@@ -51620,6 +51654,16 @@ entries:
   - idrottsförening
   web: https://www.hasselaif.se/
 
+- entry: 1232137958
+  orgName: Hudiksvalls Motorcykelklubb
+  orgNumber: 887500-6077
+  comment: null
+  categories:
+  - motorcykelklubb
+  - motorklubb
+  - motorsport
+  web: https://hmck.se/
+
 - entry: 1232138303
   orgName: Hairfor2 / Starbrands AB
   orgNumber: 556553-8054
@@ -52746,12 +52790,12 @@ entries:
 
 - entry: 1232180743
   orgName: TV Vision Sverige
-  orgNumber: 556792-0854
+  orgNumber: 102035-8733
   comment: null
   categories:
   - lokaltelevision
   - religion
-  web: https://visionsverige.com/
+  web: https://visionsverige.com/sve/
 
 - entry: 1232180909
   orgName: Gävleborgs Dreverklubb
@@ -58914,7 +58958,7 @@ entries:
   web: https://djurgardenshembygdsforening.se/
 
 - entry: 1232384246
-  orgName: Torstorps IF
+  orgName: Torstorps Idrottsförening
   orgNumber: 825000-7153
   comment: Lotteri, Julkalender, Vibergalotteri
   categories:
@@ -60777,6 +60821,15 @@ entries:
   categories:
   - utbildning
   web: https://atbart.org/
+
+- entry: 1232477750
+  orgName: Botkyrka Motorklubb
+  orgNumber: 812800-2220
+  comment: Medlemsavgifter
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://botkyrkamk.se/
 
 - entry: 1232478337
   orgName: RPG Vetlanda
@@ -63426,6 +63479,15 @@ entries:
   categories:
   - turistförening
   web: https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-boras/
+
+- entry: 1232627958
+  orgName: Night Cruisers Färnäs
+  orgNumber: 884401-3188
+  comment: null
+  categories:
+  - cruising
+  - motorsport
+  web: https://ncfmf.se/
 
 - entry: 1232627966
   orgName: Sveriges Domareförbund
@@ -66936,7 +66998,7 @@ entries:
   web: https://www.eksjorck.se/
 
 - entry: 1232752079
-  orgName: Vimmerby MS
+  orgName: Vimmerby Motorsällskap
   orgNumber: 833200-1364
   comment: null
   categories:
@@ -67000,7 +67062,7 @@ entries:
   web: https://www.svenskalag.se/westcoastkickboxing
 
 - entry: 1232753192
-  orgName: I kärlekens tecken
+  orgName: I Kärlekens Tecken
   orgNumber: 012655-4625
   comment: null
   categories:
@@ -68626,7 +68688,7 @@ entries:
   web: https://www.pingstvarberg.se/
 
 - entry: 1232801637
-  orgName: Katrineholms MK
+  orgName: Katrineholms Motorklubb
   orgNumber: 818500-5074
   comment: null
   categories:
@@ -72149,6 +72211,17 @@ entries:
   - intresseförening
   - släktforskning
   web: https://www.sksf.se/
+
+- entry: 1232958999
+  orgName: Borgagården / Gästgivaregården Borgafjäll AB
+  orgNumber: 556659-7109
+  comment: null
+  categories:
+  - hotell
+  - konferens
+  - logi
+  - restaurant
+  web: https://borgagarden.se/
 
 - entry: 1232960276
   orgName: Hammarby IF Ishockeyförening
@@ -78639,6 +78712,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/bjarnumspastorat
 
+- entry: 1233226362
+  orgName: Yngsjö Havsbads Villaförening
+  orgNumber: 802435-3156
+  comment: null
+  categories:
+  - samhällsförening
+  - villaägareförening
+  web: https://yngsjohvf.se/
+
 - entry: 1233228038
   orgName: Smedjebackens FK
   orgNumber: 883800-4565
@@ -80129,7 +80211,7 @@ entries:
   web: https://www.skitenkelt.com/
 
 - entry: 1233292356
-  orgName: Västerås swimrun / RMSR swimrun
+  orgName: Västerås Swimrun / RMSR Swimrun
   orgNumber: 969797-5192
   comment: null
   categories:
@@ -97754,7 +97836,7 @@ entries:
   web: https://zeijersborger.se/
 
 - entry: 1234012134
-  orgName: Torstorps IF
+  orgName: Torstorps Idrottsförening
   orgNumber: 825000-7153
   comment: Folkspel, Bingolotto, Sverigelotten
   categories:
@@ -100559,6 +100641,16 @@ entries:
   - jaktskytteklubb
   - skytteklubb
   web: https://www.hbgjsk.se/
+
+- entry: 1234159943
+  orgName: SHRA Luleå
+  orgNumber: 897000-5974
+  comment: null
+  categories:
+  - dragracing
+  - drifting
+  - motorsport
+  web: https://www.shralulea.se/
 
 - entry: 1234160842
   orgName: Bågskytteklubben Edsbyn
@@ -105206,6 +105298,16 @@ entries:
   - pedagogik
   - religion
   web: https://www.kyrkopedagogik.se/
+
+- entry: 1234368486
+  orgName: Motorcykelhistoriska Klubben Gotland
+  orgNumber: 802493-2389
+  comment: null
+  categories:
+  - motorcykelklubb
+  - motorklubb
+  - motorsport
+  web: https://www.mchkgotland.org/
 
 - entry: 1234369401
   orgName: Rättviks Golfklubb
@@ -110977,7 +111079,7 @@ entries:
   web: null
 
 - entry: 1234616250
-  orgName: De litterära sällskapen i Sverige, DELS
+  orgName: De Litterära Sällskapen i Sverige, DELS
   orgNumber: 802400-4106
   comment: null
   categories:
@@ -118502,7 +118604,7 @@ entries:
   web: https://morrumbk.nu/
 
 - entry: 1234992491
-  orgName: Torstorps IF
+  orgName: Torstorps Idrottsförening
   orgNumber: 825000-7153
   comment: Entré, Halva potten
   categories:
@@ -125429,7 +125531,7 @@ entries:
   web: https://www.svenskalag.se/sgif
 
 - entry: 1235262506
-  orgName: BMK Uddevalla
+  orgName: Bohusläns Motorklubb Uddevalla
   orgNumber: 858500-6375
   comment: null
   categories:
@@ -125570,7 +125672,7 @@ entries:
   web: https://varnamo.aktivaseniorer.com/
 
 - entry: 1235264635
-  orgName: Mjölby HC
+  orgName: Mjölby Hockeyclub
   orgNumber: 823000-7315
   comment: null
   categories:
@@ -127784,7 +127886,7 @@ entries:
   web: https://www.siriusfotboll.se/vannerna-uppsala/
 
 - entry: 1235348487
-  orgName: Jättendals IF
+  orgName: Jättendals Idrottsförening
   orgNumber: 887500-4247
   comment: null
   categories:
@@ -128954,6 +129056,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://www.ausasbygdegard.se/
+
+- entry: 1235392972
+  orgName: SMF Sollefteå
+  orgNumber: 888800-8623
+  comment: null
+  categories:
+  - cruising
+  - motorklubb
+  web: https://www.smf-solleftea.se/
 
 - entry: 1235393053
   orgName: Socialistisk Politik
@@ -130738,6 +130849,16 @@ entries:
   categories:
   - utbildning
   web: https://dfs.se/
+
+- entry: 1235455332
+  orgName: Nynäshamns MCK
+  orgNumber: 802413-9233
+  comment: null
+  categories:
+  - motorcykelklubb
+  - motorklubb
+  - motorsport
+  web: https://nynashamnsmck.se/
 
 - entry: 1235455407
   orgName: Djurens Vänner
@@ -135406,6 +135527,15 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/tvaaker
 
+- entry: 1235627591
+  orgName: Botkyrka Motorklubb
+  orgNumber: 812800-2220
+  comment: null
+  categories:
+  - motorklubb
+  - motorsport
+  web: https://botkyrkamk.se/
+
 - entry: 1235627708
   orgName: Lillpite Idrottsförening
   orgNumber: 898800-4191
@@ -136892,6 +137022,15 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://gbghus38.se/
+
+- entry: 1235695069
+  orgName: Svenska Livräddningssällskapet Gotland
+  orgNumber: 834002-0174
+  comment: null
+  categories:
+  - förbund
+  - livräddning
+  web: https://www.slsgotland.se/
 
 - entry: 1235695531
   orgName: Sätila Bygdegårdsförening
@@ -141708,6 +141847,14 @@ entries:
   - intresseförening
   web: https://tgvs.se/
 
+- entry: 1235896279
+  orgName: Risbäcks Skoterklubb
+  orgNumber: 896100-7211
+  comment: null
+  categories:
+  - skoterklubb
+  web: https://rsk.n.nu/
+
 - entry: 1235896436
   orgName: Lions Club Ulricehamn
   orgNumber: 802497-5024
@@ -142813,7 +142960,7 @@ entries:
 - entry: 1235947163
   orgName: SHRA Luleå
   orgNumber: 897000-5974
-  comment: null
+  comment: Medlemsavgifter
   categories:
   - dragracing
   - drifting
@@ -151898,7 +152045,7 @@ entries:
   web: https://www.hsb.se/sodra-norrland/brf/stenkumlet/
 
 - entry: 1236313829
-  orgName: Heart of Evengelism
+  orgName: Heart Of Evangelism
   orgNumber: 802517-4809
   comment: null
   categories:
@@ -153445,6 +153592,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/valbohedesunda
+
+- entry: 1236384093
+  orgName: Tärendö Skoter & Fritid
+  orgNumber: 802499-6905
+  comment: null
+  categories:
+  - fritidsklubb
+  - skoterklubb
+  web: https://tarendo.se/foreningar/skoterklubben/
 
 - entry: 1236384564
   orgName: Ljungskile Padelklubb
@@ -161651,7 +161807,7 @@ entries:
   web: https://www.kristinehamnsok.nu/
 
 - entry: 1236719207
-  orgName: Torstorps IF
+  orgName: Torstorps Idrottsförening
   orgNumber: 825000-7153
   comment: Supporterprodukter
   categories:
@@ -167159,7 +167315,7 @@ entries:
   web: https://www.svenskalag.se/saltsjobadenck
 
 - entry: 1236936819
-  orgName: Heart of Evengelism
+  orgName: Heart Of Evangelism
   orgNumber: 802517-4809
   comment: null
   categories:
