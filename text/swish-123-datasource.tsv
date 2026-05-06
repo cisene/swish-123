@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-05-05-rev-194112
+# Date: 2026-05-07-rev-003638
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -542,6 +542,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230221713	845001-1666	Konstföreningen Sesam	https://artworks.se/sesam	konstförening	
 1230221911	769606-9330	Bostadsrättsföreningen Hornsgatan-Hornsbruksgatan	https://brf-hh.net/	bostadsrättsförening	
 1230222166	901020-XXXX	Stall Krabbängen / Amanda Staam	https://www.staam.com/	hästsport	
+1230222703	802518-9393	EquiEthics	https://equiethics.se/	hästklubb,hästsport,ridklubb	
 1230223230	838202-0322	Svenska Psoriasisförbundet	https://www.psoriasisforbundet.se/skane/	psoriasisförening	Skånes Län
 1230223404	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Helsingborg, Vittra Landborgen
 1230223420	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Mörarp, Mörarps skola
@@ -7628,6 +7629,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232909851	802416-4355	Landvetter Fotboll	https://www.laget.se/LandvetterFotboll/	fotbollsklubb,idrottsförening	
 1232909976	816000-4076	Vallentuna Konståkningsklubb	https://www.vallentunakk.se/	idrottsförening,konståkningsklubb	
 1232912145	833200-6009	Hultsfred Vimmerby Kvinnojour	https://www.roks.se/hittaenjour?key=Hultsfred	donation,kvinnojour	
+1232912335	883201-8306	The Twin Club	https://www.thetwinclub.se/	motorcykelklubb,motorsport	
 1232912558	872400-2418	Filipstads Simklubb	https://www.filipstadsk.com/	idrottsförening,simklubb,simsällskap	Simverksamhet Storfors
 1232912871	832400-9748	Reumatikerföreningen Nybro-Emmaboda	https://ne.reumatiker.se/	patientförening,reumatikerförening	
 1232913267	819000-0680	IK Tun	https://www.laget.se/IKTun/	fotbollsklubb,idrottsförening	P-12/13
@@ -9486,6 +9488,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233634318	894700-5958	Clemensnäs IF	https://www.laget.se/CIF/	idrottsförening,innebandyklubb	Fika
 1233634607	872000-7122	Eda Golfklubb	https://www.edagk.com/	golfbana,golfklubb	
 1233634656	872000-7635	Charlottenbergs HC	https://www.svenskalag.se/chc	idrottsförening,ishockeyklubb	
+1233634847	838202-1924	Östra Göinge Golfklubb, ÖGG	https://www.oggk.se/	golfbana,golfklubb	Greenfee
 1233635000	814400-9027	Häverö Brukshundsklubb	https://haverobk.se/	brukshundklubb,hundsport	
 1233635018	802451-7529	Muskö IF	https://muskoif.se/	idrottsförening	
 1233635067	873201-3753	Kils Golfklubb	https://www.kilsgk.se/	golfklubb	
@@ -16183,6 +16186,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236335087	893200-4511	Östersunds Flygklubb	https://flygklubben.se/	flygklubb,flygsport,sportflyg	
 1236335418	889201-0169	Indals Hembygdsförening	https://www.hembygd.se/indal	hembygdsförening	
 1236335426	802417-7282	Gyncancerföreningen Västmanland	https://gyncancerforbundet.se/gcf-vastmanland/	anhörigorganisation,cancerförening,gynekologisk cancer,patientförening	
+1236335525	802448-7913	Väderstad Hästsportklubb	http://www.vaderstadhsk.se/	hästklubb,hästsport,ridklubb	
 1236335830	822002-7489	Sverige-Nepalföreningen, The Sweden Nepal Society	https://www.sverigenepal.se/	hjälporganisation,intresseförening	
 1236335889	863500-2481	Equmenia Lerum	https://www.equmeniakyrkanlerum.se/	religion	
 1236335988	252003-4758	Bredaryds Pastorat	https://www.svenskakyrkan.se/bredaryd	religion	Kollekt Kulltorp
@@ -17167,6 +17171,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236713903	802478-3816	Viggo Foundation - Insamlingsstiftelse	https://www.viggofoundation.se/	npf-diagnoser,stiftelse	
 1236714018	822002-0484	Filbyter Bridge	https://www.svenskbridge.se/filbyter-bridge	bridgeklubb	
 1236714133	883800-3161	Ludvika Orienteringsklubb	https://www.ludvikaok.se/	idrottsförening,orienteringsklubb	
+1236714265	802405-2725	Siggesta Ryttare	https://www.siggestaryttare.se/	hästklubb,hästsport,ridklubb,ryttarförening	
 1236714661	802001-2483	Grimsta Båtsällskap	http://gbs.nu/	båtklubb,båtsällskap	
 1236714877	754600-0204	Hällevadsholm Folkets Hus	https://bygdegardarna.se/hallevadsholm/	folketshus,intresseförening	
 1236715023	899100-0111	Glommersträsk Hembygdsförening	https://glommerlia.se/	hembygdsförening	

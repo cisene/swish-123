@@ -4855,6 +4855,16 @@ entries:
   - hästsport
   web: https://www.staam.com/
 
+- entry: 1230222703
+  orgName: EquiEthics
+  orgNumber: 802518-9393
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://equiethics.se/
+
 - entry: 1230223230
   orgName: Svenska Psoriasisförbundet
   orgNumber: 838202-0322
@@ -71349,6 +71359,15 @@ entries:
   - kvinnojour
   web: https://www.roks.se/hittaenjour?key=Hultsfred
 
+- entry: 1232912335
+  orgName: The Twin Club
+  orgNumber: 883201-8306
+  comment: null
+  categories:
+  - motorcykelklubb
+  - motorsport
+  web: https://www.thetwinclub.se/
+
 - entry: 1232912558
   orgName: Filipstads Simklubb
   orgNumber: 872400-2418
@@ -88959,6 +88978,15 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.svenskalag.se/chc
+
+- entry: 1233634847
+  orgName: Östra Göinge Golfklubb, ÖGG
+  orgNumber: 838202-1924
+  comment: Greenfee
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://www.oggk.se/
 
 - entry: 1233635000
   orgName: Häverö Brukshundsklubb
@@ -152423,6 +152451,16 @@ entries:
   - patientförening
   web: https://gyncancerforbundet.se/gcf-vastmanland/
 
+- entry: 1236335525
+  orgName: Väderstad Hästsportklubb
+  orgNumber: 802448-7913
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: http://www.vaderstadhsk.se/
+
 - entry: 1236335830
   orgName: Sverige-Nepalföreningen, The Sweden Nepal Society
   orgNumber: 822002-7489
@@ -161687,6 +161725,17 @@ entries:
   - idrottsförening
   - orienteringsklubb
   web: https://www.ludvikaok.se/
+
+- entry: 1236714265
+  orgName: Siggesta Ryttare
+  orgNumber: 802405-2725
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://www.siggestaryttare.se/
 
 - entry: 1236714661
   orgName: Grimsta Båtsällskap
