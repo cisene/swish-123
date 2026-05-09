@@ -2217,6 +2217,17 @@ entries:
   - ishockeyklubb
   web: https://www.borashockey.se/
 
+- entry: 1230096446
+  orgName: Kolböra Ryttarförening
+  orgNumber: 802522-9538
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://kolbora.se/
+
 - entry: 1230096479
   orgName: PRO Fellingsbro
   orgNumber: 877101-0470
@@ -6860,7 +6871,7 @@ entries:
   web: https://www.fsitservice.se/
 
 - entry: 1230302505
-  orgName: Iskalla Ryttares förening
+  orgName: Iskalla Ryttares Förening
   orgNumber: 802442-9105
   comment: null
   categories:
@@ -9915,7 +9926,7 @@ entries:
 - entry: 1230417832
   orgName: Enskede Ridsällskap
   orgNumber: 802003-3869
-  comment: null
+  comment: Klubben
   categories:
   - hästsport
   - ridklubb
@@ -11144,6 +11155,16 @@ entries:
   - orienteringsklubb
   - skidlöparklubb
   web: https://www.bullarensgoif.se/
+
+- entry: 1230471599
+  orgName: Kvibille Ridklubb
+  orgNumber: 849201-1989
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://kvibilleridklubb.se/
 
 - entry: 1230471631
   orgName: Hullsjöns Bygdegårdsförening
@@ -15915,6 +15936,17 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/karlsborg
+
+- entry: 1230696948
+  orgName: Skanör-Falsterbo Ridklubb
+  orgNumber: 846005-1645
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  - ridskola
+  web: https://www.sfrk.se/
 
 - entry: 1230697680
   orgName: Nordanstigskustens Församling
@@ -21431,6 +21463,16 @@ entries:
   - speedway
   web: https://speedwayfans.se/
 
+- entry: 1230908822
+  orgName: Dals-Eds Ridklubb
+  orgNumber: 802535-7248
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://www.dalsedsridklubb.se/
+
 - entry: 1230908954
   orgName: PRO Målilla
   orgNumber: 833200-5068
@@ -21665,6 +21707,16 @@ entries:
   - golfklubb
   - idrottsförening
   web: https://www.laget.se/GanghesterSK/
+
+- entry: 1230915447
+  orgName: Länghems Ridklubb
+  orgNumber: 865500-9598
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://langhemsrk.se/
 
 - entry: 1230915587
   orgName: Calexico Design AB
@@ -22380,6 +22432,17 @@ entries:
   categories:
   - idrottsförening
   web: https://limmaredsif.sportadmin.se/
+
+- entry: 1230928325
+  orgName: Rid & Körsällskapet Sporren
+  orgNumber: 802419-1648
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - körsällskap
+  - ridsällskap
+  web: https://www.roksporren.se/
 
 - entry: 1230928366
   orgName: Ragunda Skoterklubb
@@ -27163,12 +27226,16 @@ entries:
   web: https://www.navlinge-rickarum.se/
 
 - entry: 1231149020
-  orgName: Djurgårdens Ridskola AB
-  orgNumber: 556035-3376
+  orgName: Djurgårdens Ryttarklubb
+  orgNumber: 802008-3583
   comment: null
   categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
   - ridskola
-  web: https://www.djrs.se/
+  - ryttarklubb
+  web: https://www.djrk.se/
 
 - entry: 1231149392
   orgName: Ullareds Brukshundklubb
@@ -49995,6 +50062,28 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1232143469
+  orgName: Kronobergs Varmblodsförening
+  orgNumber: 829502-5624
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://swb.org/
+
+- entry: 1232143782
+  orgName: Stall Siggesta AB
+  orgNumber: 559049-0081
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - inackorderingsstall
+  - ridklubb
+  - ridskola
+  web: https://stallsiggesta.se/
+
 - entry: 1232143915
   orgName: Idrottsföreningen Troja-Ljungby
   orgNumber: 829000-0861
@@ -51053,6 +51142,16 @@ entries:
   - bygdegårdsförening
   - parkförening
   web: https://rabbalshede.se/
+
+- entry: 1232183705
+  orgName: Storvik Ovansjö Ridklubb
+  orgNumber: 885500-6204
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://www.storkrid.nu/
 
 - entry: 1232183887
   orgName: Chalmersska Ingenjörsföreningen
@@ -70934,6 +71033,16 @@ entries:
   - idrottsförening
   web: https://flensbk.se/
 
+- entry: 1233035508
+  orgName: Ystad Ridklubb
+  orgNumber: 848000-9052
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://www.ystadridklubb.com/
+
 - entry: 1233035946
   orgName: Skara Stiftshistoriska Sällskap
   orgNumber: 868401-1045
@@ -71268,6 +71377,17 @@ entries:
   - sportflyg
   - utbildning
   web: https://hasslo.org/
+
+- entry: 1233045978
+  orgName: Österhaninge Ridsällskap
+  orgNumber: 812401-0813
+  comment: Cafe Futten
+  categories:
+  - café
+  - hästklubb
+  - hästsport
+  - ridsällskap
+  web: https://www.osterhaningeridsallskap.se/
 
 - entry: 1233047032
   orgName: Varbergs Församling
@@ -80304,6 +80424,17 @@ entries:
   - idrottsförening
   web: https://www.laget.se/OIK/
 
+- entry: 1233442209
+  orgName: Skövde Ryttarförening
+  orgNumber: 866600-5189
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://skovderf.se/
+
 - entry: 1233443124
   orgName: Södra Bunns Byalag
   orgNumber: 826001-3183
@@ -82401,7 +82532,7 @@ entries:
   web: https://www.wilhelmsberg.org/
 
 - entry: 1233513595
-  orgName: Lillhagens RK
+  orgName: Lillhagens Ridklubb
   orgNumber: 846002-2356
   comment: null
   categories:
@@ -101949,6 +102080,16 @@ entries:
   - radioklubb
   web: http://www.fura.se/
 
+- entry: 1234416889
+  orgName: Norra Gotlands Ridklubb
+  orgNumber: 834001-6412
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://norragotlandsridklubb.se/
+
 - entry: 1234417036
   orgName: Selma Lagerlöf-sällskapet
   orgNumber: 874000-4877
@@ -107640,6 +107781,17 @@ entries:
   - scoutkår
   web: https://drottningstaden.scout.se/
 
+- entry: 1234672358
+  orgName: Surahammars Ryttarförening
+  orgNumber: 878000-5289
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://surarf.nu/
+
 - entry: 1234672564
   orgName: Motala Vattenskidklubb
   orgNumber: 824000-3312
@@ -112877,6 +113029,17 @@ entries:
   categories:
   - spiritualism
   web: https://www.spiritualisternaenkoping.se/
+
+- entry: 1234959672
+  orgName: Mölnlycke Ryttarsällskap
+  orgNumber: 802437-6298
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  - ryttarsällskap
+  web: https://www.annasridcenter.se/
 
 - entry: 1234959680
   orgName: Drömmen om Målajord / Maria Estling Vannestål
@@ -125980,6 +126143,16 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/skarekyrkan/
 
+- entry: 1235502893
+  orgName: Timrå Hästsportförening
+  orgNumber: 889201-9327
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://www.timrahastsportforening.se/
+
 - entry: 1235502950
   orgName: Idrottsklubben Ymer
   orgNumber: 864500-3024
@@ -126127,6 +126300,7 @@ entries:
   orgNumber: 849201-2185
   comment: null
   categories:
+  - hästklubb
   - hästsport
   - ridklubb
   web: https://www.harplingeridklubb.se/
@@ -126896,10 +127070,11 @@ entries:
   web: https://www.combatacademy.se/
 
 - entry: 1235529730
-  orgName: Norrahammar - Tabergs Ridklubb
+  orgName: Norrahammar-Tabergs Ridklubb
   orgNumber: 826001-9750
   comment: null
   categories:
+  - hästklubb
   - hästsport
   - ridklubb
   web: https://www.ntrk.se/
@@ -129096,6 +129271,16 @@ entries:
   - ishockeyklubb
   web: https://www.hedemorask.se/
 
+- entry: 1235610282
+  orgName: Ranarps Ridklubb
+  orgNumber: 839401-1632
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://www.facebook.com/p/Ranarps-Ridklubb-100066416992510/
+
 - entry: 1235610464
   orgName: Mjönäs Bygdegårdsförening
   orgNumber: 872800-0756
@@ -131193,6 +131378,17 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/distrikt-dalarna/samorganisationer/samradsgrupp-falun/foreningar/svardsjo.html
+
+- entry: 1235696455
+  orgName: Tibro Ryttarförening
+  orgNumber: 866601-2276
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  - ryttarförening
+  web: https://www.tibrorf.se/
 
 - entry: 1235696653
   orgName: Munkedals Brukhundsklubb
@@ -137160,6 +137356,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/kumla
 
+- entry: 1235959531
+  orgName: Vendelsö Ridskola
+  orgNumber: 556423-6668
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridskola
+  web: https://www.vendelsoridskola.se/
+
 - entry: 1235959721
   orgName: Gränna AIS
   orgNumber: 826000-8969
@@ -140230,6 +140436,7 @@ entries:
   orgNumber: 877100-6304
   comment: null
   categories:
+  - hästklubb
   - hästsport
   - ridklubb
   web: https://gyttorpsridklubb.se/
@@ -140952,7 +141159,7 @@ entries:
   web: https://www.hembygd.se/nykil
 
 - entry: 1236135172
-  orgName: Gustavsbergs RS
+  orgName: Gustavsbergs Ryttarsällskap
   orgNumber: 802410-5515
   comment: null
   categories:
@@ -144132,6 +144339,16 @@ entries:
   - volleybollklubb
   web: https://www.svenskalag.se/orkelljungavk
 
+- entry: 1236254098
+  orgName: Kolsbro Hästklubb
+  orgNumber: 802515-9263
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://www.kolsbro.cybersite.se/
+
 - entry: 1236256275
   orgName: Gislaveds Konstförening
   orgNumber: 802416-5840
@@ -144454,6 +144671,17 @@ entries:
   categories:
   - religion
   web: https://www.stpetrusopaulus.se/
+
+- entry: 1236267835
+  orgName: Fagersta Ryttarklubb
+  orgNumber: 879000-1773
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  - ryttarklubb
+  web: https://www.fagerstaryttarklubb.se/
 
 - entry: 1236268494
   orgName: Gräsgårds Hembygdsförening
@@ -155735,6 +155963,16 @@ entries:
   - pickleballklubb
   - volleybollklubb
   web: https://www.korpen.se/korpenmalmo
+
+- entry: 1236761241
+  orgName: Anebyortens Ridklubb
+  orgNumber: 826500-2884
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://anebyortensridklubb.se/
 
 - entry: 1236761324
   orgName: Konstföreningen Fröja i Östhammar
