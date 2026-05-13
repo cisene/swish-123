@@ -16,8 +16,6 @@ python3 ./entries-update-gåvomottagare.py
 # Update varningslistan from Masterdata
 python3 ./entries-update-varningslistan.py
 
-# Masterdata lookup
-python3 ./entries-masterdata-lookup.py
 
 # Filter YAML
 python3 ./entries-filter.py
@@ -34,8 +32,7 @@ python3 ./entries-to-tsv.py
 # Render XML
 python3 ./entries-to-xml.py
 
-
-# Add to git
+# Add to commit
 git add ../yaml/entries.yaml
 git add ../yaml/swish-123-datasource.yaml
 git add ../json/swish-123-datasource.json
@@ -45,11 +42,15 @@ git add ../xml/swish-123-datasource.xml
 git add ../yaml/masterdata-organisations.yaml
 git add ../yaml/masterdata-varningslistan.yaml
 
-#git add ../swish-123.md
-#git add ../swish-123.pdf
 
+# Commit changes with message
 git commit -m "Automated commit"
 
+# Push to remote repo
 git push
 
+# Knock-out tests
 python3 yaml-knockout-tests.py
+
+# Masterdata lookup
+python3 ./entries-masterdata-lookup.py
