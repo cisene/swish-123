@@ -16,6 +16,8 @@ python3 ./entries-update-gåvomottagare.py
 # Update varningslistan from Masterdata
 python3 ./entries-update-varningslistan.py
 
+# Masterdata lookup
+python3 ./entries-masterdata-lookup.py
 
 # Filter YAML
 python3 ./entries-filter.py
@@ -31,6 +33,7 @@ python3 ./entries-to-tsv.py
 
 # Render XML
 python3 ./entries-to-xml.py
+
 
 # Add to commit
 git add ../yaml/entries.yaml
