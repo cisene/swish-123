@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-05-21-rev-210424
+# Date: 2026-05-23-rev-203322
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -6469,6 +6469,7 @@
 "1232422905","802003-3927","Bridgeklubben S:t Erik","https://www.sterik.se/","bridgeklubb",""
 "1232423374","802534-5243","Makalösa Föräldrar","https://makalosa.org/","föräldraskap","Halmstad"
 "1232423705","556730-0214","Kolafabriken i Sverige AB","https://www.kolafabriken.se/","konfekttillverkare,livsmedelsproducent,tillverkning",""
+"1232424414","832800-7037","SPF Seniorerna Oskarshamn","https://www.spfseniorerna.se/distrikt/kalmardistriktet/foreningslista/spf-seniorerna-oskarshamn/","pensionärsklubb",""
 "1232424968","894000-0691","KFUM Umeå","https://umea.kfum.se/","logi,ungdomsverksamhet,övernattning","Norrland YMCA Hostel"
 "1232426773","802531-7374","Tjalve Friidrott","https://www.svenskalag.se/tjalvefriidrott","friidrottsförening,idrottsförening",""
 "1232426864","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby","Saltsjö-Boo, Noblaskolan Saltsjö-Boo"
@@ -9210,6 +9211,7 @@
 "1233504776","252004-2215","Nättraby-Hasslö Församling","https://www.svenskakyrkan.se/nattrabyhasslo","religion",""
 "1233505278","802422-8424","Föreningen Femörefortet","https://femorefortet.se/","intresseförening,museum",""
 "1233505310","802446-9457","Lidköpingsbygdens Släktforskarförening","https://lidkopingsanor.se/","genealogi,släktforskning",""
+"1233505385","817606-4635","SPF Seniorerna Mariefred-Åker","https://www.spfseniorerna.se/distrikt/sormland/foreningslista/mariefred/","pensionärsklubb",""
 "1233505443","875001-8015","PRO Asker Lännäs","https://pro.se/distrikt/distrikt-orebro-lan/samorganisationer/samorganisation-orebro/foreningar/asker-lannas.html","pensionärsklubb",""
 "1233505518","834000-8179","Endre IF","https://www.laget.se/EndreIF/","idrottsförening,innebandyklubb",""
 "1233505591","877100-5991","Hällefors IK","https://www.halleforsik.se/","idrottsförening,ishockeyklubb",""
@@ -10070,6 +10072,7 @@
 "1233855643","815600-5715","PRO Järna Vårdinge","https://pro.se/distrikt/stockholm/kommun/sydvastra/pro-jarna-vardinge","pensionärsklubb",""
 "1233856085","815601-1101","Oaxen Bygdegårdsförening","https://bygdegardarna.se/oaxen/","bygdegårdsförening",""
 "1233856440","875001-2307","Rynninge IK","https://www.laget.se/RynningeIK/","fotbollsklubb,idrottsförening","P-2016"
+"1233858040","817605-6326","SPF Seniorerna Idun Uppsala","https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/spf-seniorerna-idun-uppsala/","pensionärsklubb",""
 "1233860368","802004-2688","ArkDes Vänner","https://arkitekturensvanner.se/","intresseförening,vänförening",""
 "1233860483","802448-3409","Värmdö Fågelklubb / Wermdö Ornitologer","http://www.varmdofagelklubb.se/","fågelklubb,ornitologi",""
 "1233860491","894003-1597","Stiftelsen för Ekonomisk Forskning i Umeå-Handelshögskolan","https://www.umu.se/handelshogskolan/","donation,stiftelse",""
@@ -11294,6 +11297,7 @@
 "1234356846","252010-0112","Stiftshistoriska sällskapet, Luleå stift","https://www.svenskakyrkan.se/luleastift","religion",""
 "1234357000","802495-9655","Kvinno- och tjejjouren Pax i Nynäshamn","https://www.unizonjourer.se/pax/","donation,kvinnojour,tjejjour",""
 "1234357422","845002-6995","Veberöds Brukshundklubb","https://vbkhund.se/","brukshundklubb,hundsport","Tävlingar"
+"1234357703","802512-6197","SPF Seniorerna Nissafors","https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/nissafors/","pensionärsklubb",""
 "1234357976","892000-6585","Krokom Dvärsätts IF","https://www.svenskalag.se/kd55","fotbollsklubb,idrottsförening,parasport",""
 "1234359402","879500-0226","Huddunge hembygdsförening","https://huddunge.se/hembygdsforeningen/","hembygdsförening",""
 "1234360525","252004-7537","Toarps Församling","https://www.svenskakyrkan.se/toarp","religion","Diakonala Gåvokontot"
@@ -11340,6 +11344,7 @@
 "1234387205","867800-4766","Falköpings VK","https://www.svenskalag.se/falkopingsvk","beachvolleyballklubb,idrottsförening,volleybollklubb",""
 "1234387247","520523-XXXX","Flexyoga - Yoga Dans Massage / Ingrid Andersson","https://flexyoga.se/","dans,massage,yoga",""
 "1234389136","802510-6256","PRO Offerdal-Alsen","https://pro.se/distrikt/jamtland/kommun/krokom/pro-offerdal-alsen","pensionärsklubb",""
+"1234389466","802530-9389","SPF Seniorerna Björken Hindås","https://www.spfseniorerna.se/distrikt/vgvastradistriktet/foreningslista/spf-seniorerna-bjorken-hindas/","pensionärsklubb",""
 "1234389995","802536-8898","Föreningen Isbjörnarna","https://www.isbjornarnabromma.se/","bastu,intresseförening",""
 "1234391405","883200-6822","Rättviks Scoutkår","https://rattvik.scout.se/","scoutkår",""
 "1234391983","843000-7990","Vasatorps Golfklubb","https://www.vasatorp.golf/","golfklubb","Restaurang/Kiosk"
@@ -11794,6 +11799,7 @@
 "1234572814","826001-6814","North Bank Supporters","https://northbanks.se/","supporterklubb",""
 "1234575569","802493-1720","Rotary Nordmaling","https://portal.clubrunner.ca/17217/","rotaryklubb",""
 "1234576435","896100-5850","Lappmarkens släkt- och bygdeforskare","https://lsbfvilhelmina.se/","genealogi,intresseförening,släktforskning",""
+"1234576856","835001-2442","SPF Seniorerna Ronneby","https://www.spfseniorerna.se/distrikt/blekingedistriktet/foreningslista/ronneby/","pensionärsklubb",""
 "1234577367","802537-0241","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby","Marbäck, Marbäck skola"
 "1234578126","802006-1688","Frälsningsarmén","https://www.fralsningsarmen.se/sociala-centret/","godkänd gåvomottagare,religion","Sociala Centret"
 "1234578233","252003-9203","Strömsunds Pastorat","https://www.svenskakyrkan.se/stromsund/bodum/fjallsjo-forsamlingar","religion","Fjällsjö Församling"
@@ -11816,6 +11822,7 @@
 "1234580817","829500-7424","BK Union","https://www.laget.se/BKUnion/","fotbollsklubb,idrottsförening",""
 "1234580890","252001-4024","Träslövs Församling","https://www.svenskakyrkan.se/traslov","religion","Kollekt"
 "1234580965","928500-5485","Lions Club Smålandsstenar","https://lionsclubsmalandsstenar.se/","lionsklubb",""
+"1234582037","802491-7448","SPF Seniorerna Östra Kind","https://www.spfseniorerna.se/distrikt/sodra-alvsborgsdistriktet/foreningslista/spf-seniorerna-ostra-kind/","pensionärsklubb",""
 "1234582466","802462-3392","Supporterföreningen North Power","https://www.northpower.nu/","supporterklubb",""
 "1234582664","889200-8510","Sundsvalls Simsällskap","https://www.sundsvalls-ss.se/","idrottsförening,simklubb,simsällskap",""
 "1234582953","857202-1403","Equmeniakyrkan Lerkil","https://equmeniakyrkan.se/lerkil/","religion",""
@@ -14519,6 +14526,7 @@
 "1235628680","887500-0310","Bjuråkers Hembygdsförening","https://www.hembygd.se/bjuraker","hembygdsförening",""
 "1235628714","894000-2606","EFS Missionsförening i Umeå","https://www.vasakyrkan.com/","religion",""
 "1235628748","866001-2009","Nossebro Gymmix","https://www.nossebrogymmix.com/","danssport,friskvård,gym,träning",""
+"1235629555","252002-6531","Romersk-Katolska Kyrkan","https://www.katolskakyrkan.se/","religion","Heliga Familjens kapellförsamling i Tensta"
 "1235631973","802512-5942","Bosjöns Fiskevårdsområde","https://www.bosjonsfvo.se/","fiskeklubb,fiskekort,fiskevårdsområde",""
 "1235633979","864001-1568","Falköpings Schacksällskap","https://falkopingschack.se/","schackklubb,schacksällskap",""
 "1235634530","802405-8615","SKPF Pensionärerna Stockholm, avd 28","https://www.skpf.se/avdelningar/distrikt-stockholms-lan/821-2/","pensionärsklubb",""
@@ -16748,6 +16756,7 @@
 "1236507362","832401-1165","Friluftsfrämjandet Kalmar-Öland","https://www.friluftsframjandet.se/regioner/ost/lokalavdelningar/kalmar-oland/","friluftsklubb,friluftsliv",""
 "1236507420","893203-0607","Hotagens Hembygdsförening","https://www.hembygd.se/hotagens-hembygdsf-rening","hembygdsförening",""
 "1236507511","827500-2189","Vrigstads IF","https://www.vrigstad.nu/","idrottsförening","Såll-lotteri"
+"1236507529","868401-1011","SPF Seniorerna Skara","https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/skara/","pensionärsklubb",""
 "1236507578","556542-6847","Escape Outdoors / Solid Skills AB","https://escapeoutdoors.se/","friluftsliv,kayak,utbildning",""
 "1236507792","802519-9533","Skurup Padelklubb","https://www.skuruppadelklubb.se/","idrottsförening,padelklubb",""
 "1236508881","878002-0544","Partipolitiskt Obundna i Svenska Kyrkan, POSK","https://www.posk.se/","religion","Linköping"
