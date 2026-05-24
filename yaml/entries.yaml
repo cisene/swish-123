@@ -17760,6 +17760,14 @@ entries:
   categories: null
   web: null
 
+- entry: 1230738765
+  orgName: Norra Läktaren Malmö
+  orgNumber: 802508-6763
+  comment: null
+  categories:
+  - supporterklubb
+  web: https://shop.norralaktaren.se/
+
 - entry: 1230740068
   orgName: Huaröds Byalag
   orgNumber: 838202-3466
@@ -30021,11 +30029,13 @@ entries:
   web: https://www.horbyfrostagdf.se/
 
 - entry: 1231216845
-  orgName: Given Förening i Lund
-  orgNumber: null
+  orgName: Lundagiven
+  orgNumber: 802539-2336
   comment: null
-  categories: null
-  web: null
+  categories:
+  - hjälporganisation
+  - välgörenhet
+  web: https://julgiven.se/
 
 - entry: 1231217017
   orgName: Badelunda Hembygdsförening
@@ -34423,6 +34433,16 @@ entries:
   - idrottsförening
   - pensionärsklubb
   web: https://www.svenskalag.se/fagerstapensionarsbowling
+
+- entry: 1231393172
+  orgName: Örebro Bordtennis Seniorer
+  orgNumber: 802498-0842
+  comment: null
+  categories:
+  - bordtennisklubb
+  - idrottsförening
+  - seniorsport
+  web: https://orebrobts.wixsite.com/pingis
 
 - entry: 1231393412
   orgName: Stockholms Skyttesportförbund
@@ -40157,7 +40177,7 @@ entries:
 - entry: 1231620731
   orgName: null
   orgNumber: null
-  comment: null
+  comment: Östersunds Moske
   categories: null
   web: null
 
@@ -51828,6 +51848,14 @@ entries:
   - rotaryklubb
   web: https://lerum.rotary2360.se/
 
+- entry: 1232132058
+  orgName: Dark Horse Dart Connection, DHDC
+  orgNumber: 802456-3630
+  comment: null
+  categories:
+  - dartklubb
+  web: https://www.facebook.com/groups/567531977696680
+
 - entry: 1232132256
   orgName: Brottsofferjouren Varberg
   orgNumber: 849600-6514
@@ -52141,6 +52169,15 @@ entries:
   - motorklubb
   - motorsällskap
   web: https://www.svenskalag.se/skellefteamotorsallskaps
+
+- entry: 1232139665
+  orgName: Saxnäs Golfklubb
+  orgNumber: 832000-5948
+  comment: null
+  categories:
+  - golfbana
+  - golfklubb
+  web: https://saxnasgolf.se/
 
 - entry: 1232139681
   orgName: Vita Hästen
@@ -54787,6 +54824,14 @@ entries:
   - idrottsförening
   - squashklubb
   web: https://www.svenskalag.se/vaxjosquashklubb
+
+- entry: 1232226926
+  orgName: Islamiska Stiftelse i Skärholmen
+  orgNumber: 802477-4732
+  comment: Stockholm Mevlana Moské & Utbildningscenter
+  categories:
+  - religion
+  web: https://www.smmu.se/
 
 - entry: 1232226934
   orgName: Saronhuset i Uddevalla
@@ -57892,6 +57937,13 @@ entries:
   - motionsklubb
   - sjukgymnastik
   web: https://itrim.se/itrim-vasteras/
+
+- entry: 1232321586
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1232322584
   orgName: null
@@ -65177,6 +65229,15 @@ entries:
   - bostadsrättsförening
   web: https://www.brfekbacken.se/
 
+- entry: 1232665859
+  orgName: Melleruds Kommun
+  orgNumber: 212000-1488
+  comment: RÅMEO
+  categories:
+  - kommun
+  - personalförening
+  web: https://www.facebook.com/groups/1851189825107705
+
 - entry: 1232665958
   orgName: Fruktansvärld
   orgNumber: null
@@ -69507,6 +69568,7 @@ entries:
   orgNumber: 813600-0414
   comment: null
   categories:
+  - golfbana
   - golfklubb
   web: https://www.lidingogk.se/
 
@@ -88655,11 +88717,13 @@ entries:
   web: https://www.svenskbridge.se/lunds-bk
 
 - entry: 1233588779
-  orgName: null
-  orgNumber: null
+  orgName: Medium Camilla / Camilla Engström
+  orgNumber: 810824-XXXX
   comment: null
-  categories: null
-  web: null
+  categories:
+  - medium
+  - seans
+  web: https://mediumcamilla.se/
 
 - entry: 1233590346
   orgName: Riksförbundet HjärtLung
@@ -108083,6 +108147,15 @@ entries:
   - båtsällskap
   web: https://luntertunsbåtklubb.se/
 
+- entry: 1234452504
+  orgName: BK Häcken
+  orgNumber: 852000-6233
+  comment: Swisha en glass
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://bkhacken.se/nyhet/bk-hacken-lanserar-swisha-en-glass-infor-sommarlovsmatchen
+
 - entry: 1234452553
   orgName: Järlåsa Bygdegårdsförening
   orgNumber: 817601-3996
@@ -110988,6 +111061,17 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1234577607
+  orgName: Nexus Stockholm
+  orgNumber: 556645-3444
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - mmaklubb
+  - muaythaiklubb
+  web: https://nexusstockholm.se/
+
 - entry: 1234578126
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -112257,7 +112341,7 @@ entries:
 
 - entry: 1234629390
   orgName: Aktiva Seniorer Nyköping & Oxelösund
-  orgNumber: 003113-7995
+  orgNumber: 802520-2535
   comment: null
   categories:
   - pensionärsklubb
@@ -118888,6 +118972,7 @@ entries:
   orgNumber: 802000-3276
   comment: null
   categories:
+  - godkänd gåvomottagare
   - religion
   web: https://www.elmbv.se/
 
@@ -121370,6 +121455,15 @@ entries:
   categories:
   - bygdegårdsförening
   web: https://skenshyttansbygdegard.se/
+
+- entry: 1235067731
+  orgName: Lundagiven
+  orgNumber: 802539-2336
+  comment: null
+  categories:
+  - hjälporganisation
+  - välgörenhet
+  web: https://julgiven.se/
 
 - entry: 1235068176
   orgName: Malmö Konståkningsklubb
@@ -135003,6 +135097,13 @@ entries:
   categories:
   - religion
   web: https://www.posk.se/
+
+- entry: 1235567722
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1235568092
   orgName: Upsala Petanque
@@ -149777,6 +149878,15 @@ entries:
   - hästsport
   web: https://nsff.se/
 
+- entry: 1236168710
+  orgName: Hope Studios AB
+  orgNumber: 559406-7729
+  comment: Kristen Förälder Idag
+  categories:
+  - podcast
+  - religion
+  web: https://hopechannel.se/lyssna/kristen-foralder-idag
+
 - entry: 1236169114
   orgName: Björkö Enduroklubb
   orgNumber: 802444-9798
@@ -156276,6 +156386,15 @@ entries:
   - historieförening
   web: https://byggnadskulturumea.se/
 
+- entry: 1236436851
+  orgName: Stockholms Dövas Pensionärsförening
+  orgNumber: 802011-7142
+  comment: null
+  categories:
+  - hörselnedsättning
+  - pensionärsklubb
+  web: https://sdp1966.se/
+
 - entry: 1236441158
   orgName: Synskadades Riksförbund
   orgNumber: 802008-2700
@@ -162156,6 +162275,15 @@ entries:
   - skytteklubb
   web: https://www.fokboras.se/
 
+- entry: 1236683841
+  orgName: Träna och Utvecklas i Sverige AB
+  orgNumber: 559137-1348
+  comment: null
+  categories:
+  - träningsrådgivning
+  - träningsstudio
+  web: https://traningiarkelstorp.se/
+
 - entry: 1236684062
   orgName: Sölvesborgs Konstförening
   orgNumber: 836200-9576
@@ -162806,7 +162934,7 @@ entries:
   comment: null
   categories:
   - religion
-  web: null
+  web: https://www.vaxjomuslimer.se/
 
 - entry: 1236699318
   orgName: Innebandyföreningen Säter
@@ -169081,6 +169209,13 @@ entries:
   - lionsklubb
   web: https://e-clubhouse.org/sites/marstaarlanda/
 
+- entry: 1236945067
+  orgName: null
+  orgNumber: null
+  comment: Gabriel Odenhammar
+  categories: null
+  web: null
+
 - entry: 1236946032
   orgName: Trosa Flygklubb
   orgNumber: 819001-5175
@@ -169511,6 +169646,13 @@ entries:
   - fotbollsklubb
   - idrottsförening
   web: https://www.svenskalag.se/selangersk
+
+- entry: 1236957914
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1236958375
   orgName: Furulunds Församling
@@ -171266,6 +171408,7 @@ entries:
   orgNumber: 802401-6134
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   - overifierad
   web: https://www.kvinnatillkvinna.se/
@@ -176511,6 +176654,7 @@ entries:
   orgNumber: 802400-7620
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.forumciv.org/
 
@@ -177296,6 +177440,16 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://issu.se/
+
+- entry: 1239009226
+  orgName: Insamlingsstiftelsen Havsmiljöfonden
+  orgNumber: 802482-5344
+  comment: null
+  categories:
+  - havsvård
+  - insamlingskontroll
+  - naturskydd
+  web: https://havsmiljofonden.se/
 
 - entry: 1239009283
   orgName: Insamlingsstiftelsen Erikshjälpen, Farbror Eriks barn- och hjälpverksamhet
@@ -178147,6 +178301,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   - välgörenhet
@@ -178411,6 +178566,7 @@ entries:
   orgNumber: 826001-5279
   comment: null
   categories:
+  - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.mercy.se/
 
@@ -178572,6 +178728,7 @@ entries:
   comment: null
   categories:
   - donation
+  - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
   - välgörenhet
