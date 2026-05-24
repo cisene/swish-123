@@ -19369,6 +19369,16 @@ entries:
   - patientförening
   web: https://medelpad.brostcancerforbundet.se/
 
+- entry: 1230835132
+  orgName: Ukna Busstrafik AB
+  orgNumber: 556351-1186
+  comment: null
+  categories:
+  - busstrafik
+  - charterbuss
+  - persontransport
+  web: https://www.uknabusstrafik.se/
+
 - entry: 1230835181
   orgName: BIK Karlskoga Ungdom
   orgNumber: 875003-1604
@@ -39625,6 +39635,14 @@ entries:
   - fiskevårdsområde
   web: https://www.facebook.com/Storasjon
 
+- entry: 1231666866
+  orgName: SeniorNet Södermalm
+  orgNumber: 802408-4801
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://snso.se/
+
 - entry: 1231667211
   orgName: Stockholms AIF Boxning
   orgNumber: 802008-4276
@@ -57372,6 +57390,14 @@ entries:
   - metallbearbetning
   - reservdelar
   web: https://www.jbcnc.se/
+
+- entry: 1232396414
+  orgName: SPF Seniorerna Kristianstad
+  orgNumber: 838202-2062
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/kristianstad2/
 
 - entry: 1232396505
   orgName: Rönö Bygdeförening
@@ -80707,6 +80733,16 @@ entries:
   - intresseförening
   web: https://www.blagulakorset.se/
 
+- entry: 1233432754
+  orgName: Kalmar Senioruniversitet
+  orgNumber: 832401-8269
+  comment: null
+  categories:
+  - seniorutbildning
+  - seniorverksamhet
+  - utbildning
+  web: https://kalmarsu.se/
+
 - entry: 1233433539
   orgName: Supporterklubben Getingarna
   orgNumber: 857209-6546
@@ -100781,6 +100817,14 @@ entries:
   - djurskydd
   web: https://hundhjalpen.se/
 
+- entry: 1234324802
+  orgName: SPF Seniorerna Tidaholmsbygden
+  orgNumber: 802417-0931
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/skaraborg/foreningslista/tidaholm/
+
 - entry: 1234324976
   orgName: Pingstförsamlingen i Alingsås
   orgNumber: 864000-0371
@@ -105717,6 +105761,14 @@ entries:
   - skolloppet
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1234560694
+  orgName: SPF Seniorerna Club Skoga Nora
+  orgNumber: 877101-2864
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/orebrodistriktet/foreningslista/spf-seniorerna-club-skoga-nora/
 
 - entry: 1234560835
   orgName: Team Rynkeby
@@ -114238,6 +114290,7 @@ entries:
   categories:
   - idrottsförening
   - motionsklubb
+  - seniorsport
   web: https://farjestadensmotionsif.klubbenonline.se/
 
 - entry: 1234991386
@@ -118841,7 +118894,9 @@ entries:
   orgNumber: 849000-0315
   comment: Tävlingsavgift
   categories:
+  - golfbana
   - golfklubb
+  - seniorsport
   web: https://www.falkenbergsgolfklubb.se/
 
 - entry: 1235157821
@@ -120746,6 +120801,15 @@ entries:
   - skytteklubb
   - sportskytteklubb
   web: https://www.olofstromspk.se/
+
+- entry: 1235254552
+  orgName: Staffanstorps Kommun
+  orgNumber: 212000-1017
+  comment: Fixartjänst
+  categories:
+  - kommun
+  - seniorverksamhet
+  web: https://staffanstorp.se/
 
 - entry: 1235254966
   orgName: Småskärsuddens Samfällighetsförening
@@ -135370,6 +135434,15 @@ entries:
   - registerhållning
   web: https://brukshundklubben.se/om-oss/forbundskansli/brukshundservice-sverige-ab/
 
+- entry: 1235839055
+  orgName: Södermalms Stadsdelsförvaltning
+  orgNumber: 212000-0142
+  comment: Seniorlunch Eriksdalsskolan
+  categories:
+  - seniorverksamhet
+  - stadsdelsförvaltning
+  web: https://senior.stockholm/seniorrabatt-pa-sodermalm/
+
 - entry: 1235839402
   orgName: Järnvägarnas Konstförening i Göteborg
   orgNumber: 802460-6090
@@ -138444,6 +138517,14 @@ entries:
   - försäljning
   - ljudsystem
   web: https://www.malpoza.com/
+
+- entry: 1235975107
+  orgName: SPF Seniorerna Ludvika
+  orgNumber: 883800-6909
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/daladistriktet/foreningslista/spf-seniorerna-ludvika/
 
 - entry: 1235975826
   orgName: Pensionärernas Badmintonklubb
@@ -145238,6 +145319,14 @@ entries:
   - ungdomsverksamhet
   web: https://www.4h.se/morobacke/
 
+- entry: 1236260020
+  orgName: SPF Seniorerna 485 Björken
+  orgNumber: 817605-4891
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/485_bjorken/
+
 - entry: 1236260525
   orgName: Nytänk I Alunda Ekonomiska förening
   orgNumber: 769632-9585
@@ -149883,6 +149972,15 @@ entries:
   - scoutkår
   web: https://www.nhhp.se/
 
+- entry: 1236470389
+  orgName: Tyresö Golfseniorer
+  orgNumber: 802538-4473
+  comment: null
+  categories:
+  - golfklubb
+  - seniorverksamhet
+  web: https://tygosenior.se/
+
 - entry: 1236470694
   orgName: Dissidentpodden / Håkan Julander
   orgNumber: 650802-XXXX
@@ -150285,6 +150383,14 @@ entries:
   - sportmaterial
   - återförsäljare
   web: https://danscykeloskid.com/
+
+- entry: 1236489256
+  orgName: Aktiva Seniorer Västerås
+  orgNumber: 878001-7839
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://vasteras.aktivaseniorer.com/
 
 - entry: 1236489496
   orgName: Yoga Nu Stockholm AB
@@ -152949,6 +153055,14 @@ entries:
   categories:
   - pensionärsklubb
   web: https://pro.se/distrikt/jamtland/kommun/ostersund/pro-ostersund-city
+
+- entry: 1236608913
+  orgName: SPF Seniorerna Växjö
+  orgNumber: 829501-5864
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/spf-seniorerna-vaxjo/
 
 - entry: 1236609002
   orgName: Strövelstorps Församling
@@ -162639,8 +162753,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - välgörenhet
-  web: https://www.rtp.se/
+  web: https://rtp.se/
 
 - entry: 1239000100
   orgName: Barncancerfonden Mellansverige
@@ -162675,8 +162788,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - välgörenhet
-  web: https://www.clownerutangranser.se/
+  web: https://clownerutangranser.se/
 
 - entry: 1239000217
   orgName: Läkarmissionen - Stiftelse För Filantropisk Verksamhet
@@ -162801,8 +162913,7 @@ entries:
   categories:
   - insamlingskontroll
   - stiftelse
-  - välgörenhet
-  web: https://www.barndiabetesfonden.se/
+  web: https://barndiabetesfonden.se/
 
 - entry: 1239000654
   orgName: Insamlingsstiftelsen Världsinfektionsfonden
@@ -162814,7 +162925,7 @@ entries:
   web: https://www.vif.se/
 
 - entry: 1239000662
-  orgName: Svenska Psoriasisförbundet
+  orgName: Psoriasisförbundet
   orgNumber: 802002-7283
   comment: null
   categories:
@@ -162857,8 +162968,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - välgörenhet
-  web: https://www.amnesty.se/
+  web: https://amnesty.se/
 
 - entry: 1239000738
   orgName: Hörselskadades Riksförbund
@@ -162955,7 +163065,6 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - välgörenhet
   web: https://www.djurskyddet.se/
 
 - entry: 1239001090
@@ -163015,7 +163124,7 @@ entries:
   web: https://www.kampiyamotosbarn.se/
 
 - entry: 1239001215
-  orgName: Assyrier utan Gränser
+  orgName: Assyrier Utan Gränser
   orgNumber: 802436-5481
   comment: null
   categories:
@@ -163112,7 +163221,6 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  - välgörenhet
   web: https://www.sallsyntadiagnoser.se/
 
 - entry: 1239001579
@@ -163140,7 +163248,7 @@ entries:
   categories:
   - donation
   - insamlingskontroll
-  web: https://www.vasterasstadsmission.se/
+  web: https://vasterasstadsmission.se/
 
 - entry: 1239001611
   orgName: Star for Life Insamlingsstiftelse
@@ -163312,7 +163420,7 @@ entries:
   web: https://wwww.nordensark.se/
 
 - entry: 1239002007
-  orgName: Insamlingsstiftelsen för MS Forskning
+  orgName: Insamlingsstiftelsen för MS-forskning
   orgNumber: 802426-2654
   comment: null
   categories:
@@ -163468,7 +163576,7 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
-  web: https://www.amref.se/
+  web: https://amref.se/
 
 - entry: 1239002437
   orgName: Yennenga Progress
@@ -163551,6 +163659,7 @@ entries:
   orgNumber: 846501-8755
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   web: https://www.clownronden.se/
 
@@ -163807,6 +163916,7 @@ entries:
   orgNumber: 815600-8784
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - välgörenhet
   web: https://www.brottsofferjouren.se/
@@ -164120,6 +164230,15 @@ entries:
   - insamlingskontroll
   - stiftelse
   web: https://www.igf.nu/
+
+- entry: 1239004375
+  orgName: Cancerhjälpen
+  orgNumber: 816000-5958
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.cancerhjalpen.se/
 
 - entry: 1239004409
   orgName: Stödföreningen för Martaskolan i Uganda
@@ -165060,15 +165179,14 @@ entries:
   web: https://www.helpathand.se/
 
 - entry: 1239006784
-  orgName: Insamlingsstiftelsen Lions Cancerforskningsfond Mellansverige Uppsala-Örebro
+  orgName: Lions Cancerforskningsfond Mellansverige Uppsala-Örebro
   orgNumber: 802481-2359
   comment: null
   categories:
   - donation
   - godkänd gåvomottagare
   - insamlingskontroll
-  - stiftelse
-  web: https://www.lcfm.se/
+  web: https://lcfm.se/
 
 - entry: 1239006792
   orgName: Föreningen Storasyster
@@ -165080,7 +165198,7 @@ entries:
   - insamlingskontroll
   - kvinnojour
   - tjejjour
-  web: https://www.storasyster.org/
+  web: https://storasyster.org/
 
 - entry: 1239006800
   orgName: Barnrättsbyrån Sverige
@@ -165107,7 +165225,7 @@ entries:
   categories:
   - donation
   - insamlingskontroll
-  web: https://www.wikimedia.se/
+  web: https://wikimedia.se/
 
 - entry: 1239006883
   orgName: Insamlingsstiftelsen Zelmerlöw & Björkman Foundation
@@ -165460,7 +165578,7 @@ entries:
   web: https://www.leanonme.nu/
 
 - entry: 1239007667
-  orgName: SPES - Riksförbundet för SuicidPrevention och EfterlevandeStöd
+  orgName: SPES - Riksförbundet för Suicid Prevention och Efterlevandestöd
   orgNumber: 802014-9483
   comment: null
   categories:
@@ -165468,7 +165586,7 @@ entries:
   - insamlingskontroll
   - riksförbund
   - välgörenhet
-  web: https://www.spes.se/
+  web: https://spes.se/
 
 - entry: 1239007683
   orgName: Insamlingsstiftelsen 1000 Möjligheter
@@ -165593,7 +165711,7 @@ entries:
   - insamlingskontroll
   - stiftelse
   - välgörenhet
-  web: https://www.solvatten.org/
+  web: https://solvatten.org/
 
 - entry: 1239007873
   orgName: Lena Wäpplings Stiftelse
@@ -165818,6 +165936,7 @@ entries:
   orgNumber: 802407-8332
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   web: https://www.clownmedicin.se/
 
@@ -165876,7 +165995,7 @@ entries:
   comment: null
   categories:
   - insamlingskontroll
-  web: https://www.hundarutanhem.se/
+  web: https://hundarutanhem.se/
 
 - entry: 1239008533
   orgName: Mind (Föreningen psykisk hälsa)
@@ -165886,7 +166005,7 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   - psykisk hälsa
-  web: https://www.mind.se/
+  web: https://mind.se/
 
 - entry: 1239008582
   orgName: Stiftelsen Demensfonden
@@ -165927,6 +166046,14 @@ entries:
   - insamlingskontroll
   web: https://www.barnombudet.se/
 
+- entry: 1239008632
+  orgName: Riksförbundet för Social och Mental Hälsa
+  orgNumber: 802005-6985
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.rsmh.se/
+
 - entry: 1239008657
   orgName: Svenska med Baby
   orgNumber: 802502-7627
@@ -165934,6 +166061,23 @@ entries:
   categories:
   - insamlingskontroll
   web: https://www.lionsborensberg.se/
+
+- entry: 1239008699
+  orgName: Fonden för mänskliga rättigheter
+  orgNumber: 802016-0654
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://mrfonden.se/
+
+- entry: 1239008723
+  orgName: Riksförbundet Attention
+  orgNumber: 833600-9686
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  web: https://attention.se/
 
 - entry: 1239008780
   orgName: Östergötlands Stadsmission
@@ -165943,6 +166087,14 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.stadsmissionenost.se/
+
+- entry: 1239008798
+  orgName: HOPE
+  orgNumber: 802443-0673
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://hopeattlevavidare.se/
 
 - entry: 1239008806
   orgName: Stiftelsen Konung Gustaf V:s Jubileumsfond, Radiumhemmets Forskningsfonder
@@ -165955,6 +166107,14 @@ entries:
   - stiftelse
   web: https://www.rahfo.se/
 
+- entry: 1239008830
+  orgName: KulturSjukhuset
+  orgNumber: 802462-9365
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.kultursjukhuset.se/
+
 - entry: 1239008897
   orgName: Stiftelsen Station Linné
   orgNumber: 802426-3744
@@ -165964,6 +166124,16 @@ entries:
   - insamlingskontroll
   - stiftelse
   web: https://www.stationlinne.se/
+
+- entry: 1239008905
+  orgName: A Demand for Action, ADFA
+  orgNumber: 802490-9650
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  web: https://www.ademandforaction.com/
 
 - entry: 1239008913
   orgName: MAF Sweden
@@ -166011,6 +166181,15 @@ entries:
   - riksförening
   web: https://www.denoppnadorren.se/
 
+- entry: 1239009218
+  orgName: Insamlingsstiftelsen Sverige-Ukraina, ISSU
+  orgNumber: 802482-2572
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  web: https://issu.se/
+
 - entry: 1239009283
   orgName: Insamlingsstiftelsen Erikshjälpen, Farbror Eriks barn- och hjälpverksamhet
   orgNumber: 827500-4789
@@ -166031,6 +166210,22 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.astmaoallergiforbundet.se/
+
+- entry: 1239009697
+  orgName: Riksföreningen Aktiva Synskadade
+  orgNumber: 802005-7926
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.aktivasynskadade.org/
+
+- entry: 1239009754
+  orgName: Insamlingsstiftelsen Matchen mot cancer
+  orgNumber: 802480-6807
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://matchenmotcancer.se/
 
 - entry: 1239009796
   orgName: Stiftelsen Jubileumsklinikens Forskningsfond Mot Cancer
@@ -166274,6 +166469,15 @@ entries:
   categories:
   - insamlingskontroll
   web: https://www.droginformation.nu/
+
+- entry: 1239011255
+  orgName: Hjärnfonden
+  orgNumber: 802017-8664
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  web: https://www.hjarnfonden.se/
 
 - entry: 1239011305
   orgName: Insamlingsstiftelsen BarnSamariten
@@ -166562,6 +166766,23 @@ entries:
   - stiftelse
   web: https://www.hjalpfonden.lions.se/
 
+- entry: 1239019506
+  orgName: Stiftelsen Radiohjälpen
+  orgNumber: 802007-9755
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.radiohjalpen.se/
+
+- entry: 1239019514
+  orgName: Cancerfonden
+  orgNumber: 802005-3370
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  web: https://www.cancerfonden.se/
+
 - entry: 1239019555
   orgName: Förbundet Blödarsjuka i Sverige, FBIS
   orgNumber: 802009-9688
@@ -166818,3 +167039,12 @@ entries:
   - insamlingskontroll
   - välgörenhet
   web: https://www.agrenska.se/
+
+- entry: 1239091927
+  orgName: Hjärt-Lungfonden
+  orgNumber: 802006-0763
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  web: https://www.hjart-lungfonden.se/
