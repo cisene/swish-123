@@ -36,11 +36,23 @@ organisations:
   expires: null
   location: Stockholm
 
+- orgNumber: 252004-7131
+  orgName: Equmeniakyrkan
+  issued: '2019-09-19'
+  expires: '2025-12-31'
+  location: None
+
 - orgNumber: 502084-7967
   orgName: Movember Europe
   issued: '2024-10-22'
   expires: null
   location: London, Storbritannien
+
+- orgNumber: 502084-7967
+  orgName: Movember Europe
+  issued: '2020-11-09'
+  expires: '2023-12-31'
+  location: None
 
 - orgNumber: 502085-3775
   orgName: Against Malaria Foundation
@@ -54,10 +66,16 @@ organisations:
   expires: null
   location: Kolkata, Indien
 
+- orgNumber: 502101-7255
+  orgName: BCC Tönsberg
+  issued: '2026-05-12'
+  expires: null
+  location: Sem, Norge
+
 - orgNumber: 802000-3276
   orgName: Evangelisk Luthersk Mission Bibeltrogna Vänner
-  issued: '2019-11-15'
-  expires: '2025-12-31'
+  issued: '2026-05-21'
+  expires: null
   location: Stockholm
 
 - orgNumber: 802000-6394
@@ -111,6 +129,12 @@ organisations:
 - orgNumber: 802003-1178
   orgName: Sociala Missionen
   issued: '2021-02-25'
+  expires: null
+  location: Stockholm
+
+- orgNumber: 802003-1392
+  orgName: Svenska soldathemsförbundet
+  issued: '2026-05-19'
   expires: null
   location: Stockholm
 
@@ -188,7 +212,7 @@ organisations:
 
 - orgNumber: 802006-0763
   orgName: Hjärt-Lungfonden
-  issued: '2026-02-03'
+  issued: '2026-01-01'
   expires: null
   location: Stockholm
 
@@ -197,6 +221,12 @@ organisations:
   issued: '2026-02-06'
   expires: null
   location: Stockholm
+
+- orgNumber: 802006-1688
+  orgName: Frälsningsarmén
+  issued: '2019-08-15'
+  expires: '2025-12-31'
+  location: None
 
 - orgNumber: 802006-2231
   orgName: Stiftelsen Fanny Hirsch minne
@@ -396,9 +426,21 @@ organisations:
   expires: null
   location: Stockholm
 
+- orgNumber: 802400-7620
+  orgName: ForumCiv
+  issued: '2026-05-20'
+  expires: null
+  location: Stockholm
+
 - orgNumber: 802401-4386
   orgName: UNICEF Sverige
   issued: '2026-02-19'
+  expires: null
+  location: Stockholm
+
+- orgNumber: 802401-6134
+  orgName: Insamlingsstiftelsen kvinna till kvinna
+  issued: '2026-05-19'
   expires: null
   location: Stockholm
 
@@ -459,6 +501,12 @@ organisations:
 - orgNumber: 802407-4125
   orgName: Insamlingsstiftelsen Cancer-Allergifonden
   issued: '2021-06-18'
+  expires: null
+  location: Stockholm
+
+- orgNumber: 802407-5346
+  orgName: Stiftelsen World Childhood Foundation
+  issued: '2026-05-21'
   expires: null
   location: Stockholm
 
@@ -792,12 +840,6 @@ organisations:
   expires: null
   location: Stockholm
 
-- orgNumber: 802477-8188
-  orgName: Insamlingsstiftelsen Sightsavers International Sverige
-  issued: '2019-08-20'
-  expires: '2025-12-31'
-  location: Stockholm
-
 - orgNumber: 802477-8238
   orgName: Human Bridge Stiftelse
   issued: '2026-02-23'
@@ -984,6 +1026,12 @@ organisations:
   expires: null
   location: Stockholm
 
+- orgNumber: 802482-2713
+  orgName: Malmö universitets jubileumsstiftelse
+  issued: '2026-05-18'
+  expires: null
+  location: Malmö
+
 - orgNumber: 802482-4271
   orgName: Insamlingsstiftelsen Tappra barn Sverige
   issued: '2026-04-08'
@@ -1037,12 +1085,6 @@ organisations:
   issued: '2026-04-13'
   expires: null
   location: Vellinge
-
-- orgNumber: 802502-3220
-  orgName: Help at Hand
-  issued: '2020-01-01'
-  expires: '2025-12-31'
-  location: None
 
 - orgNumber: 802505-4464
   orgName: Springaid International Development (SAID) Sweden
@@ -1158,6 +1200,12 @@ organisations:
   expires: null
   location: Göteborg
 
+- orgNumber: 802545-5471
+  orgName: The Aweil Dream
+  issued: '2026-05-11'
+  expires: null
+  location: Växjö
+
 - orgNumber: 814000-8643
   orgName: Föreningen Hand in Hand Sweden
   issued: '2026-03-04'
@@ -1254,11 +1302,23 @@ organisations:
   expires: null
   location: Jönköping
 
+- orgNumber: 826001-5279
+  orgName: Operation Mercy
+  issued: '2026-05-21'
+  expires: null
+  location: Örebro
+
 - orgNumber: 826002-2630
   orgName: Sam-Hjälp
   issued: '2026-03-05'
   expires: null
   location: Jönköping
+
+- orgNumber: 826002-2630
+  orgName: Sam-Hjälp
+  issued: '2019-07-31'
+  expires: '2025-12-31'
+  location: None
 
 - orgNumber: 826500-5010
   orgName: Insamlingsstiftelsen Svenska Barnhjälpen (ISB)
