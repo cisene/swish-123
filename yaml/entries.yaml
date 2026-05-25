@@ -766,6 +766,13 @@ entries:
   - rödakorset
   web: https://www.rodakorset.se/
 
+- entry: 1230032169
+  orgName: Naturgården i väst AB
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1230033696
   orgName: Köpings Golfklubb
   orgNumber: 878500-3594
@@ -3227,6 +3234,14 @@ entries:
   categories:
   - byalag
   web: https://hobybyalag.se/
+
+- entry: 1230150573
+  orgName: Samson Organic Coffee AB
+  orgNumber: 559522-5235
+  comment: null
+  categories:
+  - kafferosteri
+  web: https://samsonorganiccoffee.se/
 
 - entry: 1230150730
   orgName: Pingstkyrkan Mullsjö-Nyhem
@@ -10391,6 +10406,13 @@ entries:
   - pensionärsklubb
   - religion
   web: https://rpg.org.se/foreningsprogram/norra-svealand-rpg-aktiviteter/
+
+- entry: 1230422675
+  orgName: Furulund's Gård
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
 
 - entry: 1230422709
   orgName: Sjökaptensgården Bed & Breakfast / Marie Johansson
@@ -48905,6 +48927,13 @@ entries:
   - religion
   web: https://www.equmeniakyrkantoarp.se/
 
+- entry: 1231989409
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1231989532
   orgName: Härnösands Pastorat
   orgNumber: 252003-7488
@@ -78527,6 +78556,13 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/hassleholm/
 
+- entry: 1233197365
+  orgName: Karl-Annikas Odlingsmästeri
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1233198322
   orgName: Fortuna Fotbollsförening
   orgNumber: 843000-9509
@@ -88909,7 +88945,8 @@ entries:
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - terminated
   web: null
 
 - entry: 1233600061
@@ -88961,6 +88998,7 @@ entries:
   comment: null
   categories:
   - patientförening
+  - retired
   web: https://sipples.wordpress.com/
 
 - entry: 1233600822
@@ -90289,7 +90327,7 @@ entries:
   web: https://www.svenskalag.se/falerumsif
 
 - entry: 1233656584
-  orgName: null
+  orgName: Beauty Time / Ahmad El Said
   orgNumber: null
   comment: null
   categories: null
@@ -90351,7 +90389,7 @@ entries:
   web: https://www.hembygd.se/industristaden
 
 - entry: 1233660388
-  orgName: null
+  orgName: T. Anttonen - Träning & kostrådgivning
   orgNumber: null
   comment: null
   categories: null
@@ -92126,7 +92164,7 @@ entries:
   web: https://www.vibyggera.se/
 
 - entry: 1233743838
-  orgName: null
+  orgName: Amilcare Astone AB (Fiordilatte)
   orgNumber: null
   comment: null
   categories: null
@@ -92163,7 +92201,8 @@ entries:
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - terminated
   web: null
 
 - entry: 1233744539
@@ -92263,7 +92302,8 @@ entries:
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - terminated
   web: null
 
 - entry: 1233747524
@@ -92361,7 +92401,7 @@ entries:
   web: https://mediumforbundet.se/
 
 - entry: 1233754835
-  orgName: null
+  orgName: Saldo Bank UAB
   orgNumber: null
   comment: null
   categories: null
@@ -92516,7 +92556,7 @@ entries:
   web: https://www.facebook.com/VRK.tigrarna/
 
 - entry: 1233766805
-  orgName: null
+  orgName: Lantz Järn & Metall Fragmentering
   orgNumber: null
   comment: null
   categories: null
@@ -92764,11 +92804,19 @@ entries:
   web: https://www.tjoloholm.se/
 
 - entry: 1233781200
-  orgName: null
+  orgName: Payex Sverige AB
   orgNumber: null
   comment: null
   categories: null
   web: null
+
+- entry: 1233781374
+  orgName: SPF Seniorerna Saltsjöbaden
+  orgNumber: 802411-2156
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/saltsjobaden/
 
 - entry: 1233781457
   orgName: Roslätt3:s Samfällighetsförening
@@ -93323,7 +93371,7 @@ entries:
   web: https://www.johafonden.com/
 
 - entry: 1233797099
-  orgName: null
+  orgName: Markaryd Hjärtlung
   orgNumber: null
   comment: null
   categories: null
@@ -93523,7 +93571,7 @@ entries:
   web: https://www.spfseniorerna.se/distrikt/Kronobergsdistriktet/foreningslista/spf-seniorerna-mellersta-kinnevald/
 
 - entry: 1233805595
-  orgName: null
+  orgName: PRO Söder Gävle
   orgNumber: null
   comment: null
   categories: null
@@ -93574,7 +93622,7 @@ entries:
   web: https://www.facebook.com/groups/878783594250793
 
 - entry: 1233808771
-  orgName: null
+  orgName: Evelina Nordlén
   orgNumber: null
   comment: Evelina
   categories: null
@@ -93783,7 +93831,7 @@ entries:
   web: https://www.svenskalag.se/mgoif
 
 - entry: 1233817426
-  orgName: null
+  orgName: Optimera Vara
   orgNumber: null
   comment: null
   categories: null
@@ -93877,7 +93925,7 @@ entries:
   web: https://samiskauppsala.se/
 
 - entry: 1233821097
-  orgName: null
+  orgName: Parkit Sweden AB
   orgNumber: null
   comment: null
   categories: null
@@ -94147,9 +94195,9 @@ entries:
   web: https://www.svenskalag.se/ckvansbromtb
 
 - entry: 1233832938
-  orgName: null
+  orgName: Olga Öhgren
   orgNumber: null
-  comment: null
+  comment: Olga Mdivani Fasth
   categories: null
   web: null
 
@@ -94911,7 +94959,7 @@ entries:
   web: https://www.alfvengarden.se/
 
 - entry: 1233869450
-  orgName: null
+  orgName: Amorosa Hudvård - Amorosa AB
   orgNumber: null
   comment: null
   categories: null
@@ -97457,7 +97505,7 @@ entries:
   web: https://vaxjo.adventkyrka.se/
 
 - entry: 1233958618
-  orgName: null
+  orgName: Insamlingsstiftelsen Islamiska Kulturcentrum
   orgNumber: null
   comment: Järva Moske
   categories: null
@@ -97472,7 +97520,7 @@ entries:
   web: https://www.lotenkyrkan.se/
 
 - entry: 1233958790
-  orgName: null
+  orgName: Degerhamns Idrottsförening
   orgNumber: null
   comment: null
   categories: null
@@ -97534,9 +97582,9 @@ entries:
   web: https://swedishirish.com/
 
 - entry: 1233959590
-  orgName: null
+  orgName: Natha Yoga Center
   orgNumber: null
-  comment: null
+  comment: Föreningen Natha
   categories: null
   web: https://malmo.natha.se/
 
@@ -97719,10 +97767,11 @@ entries:
   web: https://www.avabatsallskap.se/
 
 - entry: 1233967841
-  orgName: null
+  orgName: Habo Pastorat
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - religion
   web: null
 
 - entry: 1233967866
@@ -99211,7 +99260,7 @@ entries:
   web: https://www.frolundahockey.com/
 
 - entry: 1234037271
-  orgName: null
+  orgName: Northmill Bank AB
   orgNumber: null
   comment: null
   categories: null
@@ -99221,7 +99270,8 @@ entries:
   orgName: null
   orgNumber: null
   comment: null
-  categories: null
+  categories:
+  - terminated
   web: null
 
 - entry: 1234040143
@@ -99387,6 +99437,13 @@ entries:
   - vinprovning
   web: https://www.munskankarna.se/sv/regioner/vastkusten/sotenas/
 
+- entry: 1234044905
+  orgName: Fristorps Gård, Marianne Järpedal
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1234044996
   orgName: Margit Friberg-sällskapet
   orgNumber: 802500-0400
@@ -99518,7 +99575,7 @@ entries:
   web: https://www.ajabajacancer.se/
 
 - entry: 1234055240
-  orgName: null
+  orgName: Systrarna Lindqvist Café - Kakbageriet i Karlskrona AB
   orgNumber: null
   comment: null
   categories: null
@@ -99772,7 +99829,7 @@ entries:
   web: https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-eslov/foreningar/marieholm.html
 
 - entry: 1234070751
-  orgName: null
+  orgName: Trafikförsäkringsföreningen
   orgNumber: null
   comment: null
   categories: null
@@ -99943,7 +100000,7 @@ entries:
   web: https://www.facebook.com/p/Green-White-Tifo-61566603158256/
 
 - entry: 1234084232
-  orgName: null
+  orgName: Capway Collect AB
   orgNumber: null
   comment: null
   categories: null
@@ -99958,7 +100015,7 @@ entries:
   web: https://www.svenskakyrkan.se/skelleftea
 
 - entry: 1234084943
-  orgName: null
+  orgName: NetOnNet Online - NetOnNet AB
   orgNumber: null
   comment: null
   categories: null
@@ -100127,7 +100184,7 @@ entries:
   web: https://www.svenskalag.se/deromebk
 
 - entry: 1234093407
-  orgName: null
+  orgName: Mats Olsén
   orgNumber: null
   comment: null
   categories: null
@@ -100181,7 +100238,7 @@ entries:
   web: https://vannasbhk.weebly.com/
 
 - entry: 1234101648
-  orgName: null
+  orgName: Emma Johansson
   orgNumber: null
   comment: null
   categories: null
@@ -100359,14 +100416,14 @@ entries:
   web: https://www.classicchevy.se/
 
 - entry: 1234111431
-  orgName: null
+  orgName: Firma MHL - Marie-Helene Lindqvist
   orgNumber: null
   comment: null
   categories: null
   web: null
 
 - entry: 1234112462
-  orgName: null
+  orgName: Notteroy Bilservice - Dureid Sami Melhem
   orgNumber: null
   comment: null
   categories: null
@@ -168295,6 +168352,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.laget.se/norrahammarsik
+
+- entry: 1236907430
+  orgName: City Trafikskola i Sundbyberg AB
+  orgNumber: 556813-3804
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://trafikcity.se/
 
 - entry: 1236907588
   orgName: Lövånger-Uttersjöbäcken AIK

@@ -3182,6 +3182,14 @@ entries:
   - byalag
   web: https://hobybyalag.se/
 
+- entry: 1230150573
+  orgName: Samson Organic Coffee AB
+  orgNumber: 559522-5235
+  comment: null
+  categories:
+  - kafferosteri
+  web: https://samsonorganiccoffee.se/
+
 - entry: 1230150730
   orgName: Pingstkyrkan Mullsjö-Nyhem
   orgNumber: 867200-0455
@@ -85159,14 +85167,6 @@ entries:
   - bostadsrättsförening
   web: https://www.hsb.se/stockholm/brf/rodstjarten/
 
-- entry: 1233600699
-  orgName: Sipples Patientförening - Patienter med MEN 2A
-  orgNumber: 012696-2349
-  comment: null
-  categories:
-  - patientförening
-  web: https://sipples.wordpress.com/
-
 - entry: 1233600822
   orgName: Hästtjärns Fiske Handelsbolag
   orgNumber: 969710-1500
@@ -88747,6 +88747,14 @@ entries:
   - restaurant
   - stiftelse
   web: https://www.tjoloholm.se/
+
+- entry: 1233781374
+  orgName: SPF Seniorerna Saltsjöbaden
+  orgNumber: 802411-2156
+  comment: null
+  categories:
+  - pensionärsklubb
+  web: https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/saltsjobaden/
 
 - entry: 1233781457
   orgName: Roslätt3:s Samfällighetsförening
@@ -160746,6 +160754,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.laget.se/norrahammarsik
+
+- entry: 1236907430
+  orgName: City Trafikskola i Sundbyberg AB
+  orgNumber: 556813-3804
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://trafikcity.se/
 
 - entry: 1236907588
   orgName: Lövånger-Uttersjöbäcken AIK

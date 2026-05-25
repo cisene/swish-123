@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-05-24-rev-193739
+# Date: 2026-05-25-rev-192710
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -363,6 +363,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230149286	212000-0266	Tierps Kommun	https://www.tierp.se/tierp.se/kultur-fritid-och-friluftsliv/kulturskolan.html	dans,kulturskola,musik,teater	Kulturskolan
 1230149328	556612-7659	Crusner Advokatbyrå AB	https://www.crusner.se/	advokatbyrå,juridiska tjänster	
 1230149815	802422-8804	Östra Hoby Byalag	https://hobybyalag.se/	byalag	
+1230150573	559522-5235	Samson Organic Coffee AB	https://samsonorganiccoffee.se/	kafferosteri	
 1230150730	867200-0455	Pingstkyrkan Mullsjö-Nyhem	https://mullsjopingst.se/	religion	Missionskassa
 1230152215	559454-2309	Sverigekanalen AB	https://www.sverigekanalen.se/	lokaltelevision,religion	
 1230154583	882600-9329	Kvarnsvedens IK	https://www.kvarnsvedensik.com/	fotbollsklubb,idrottsförening	Kiosk
@@ -9485,7 +9486,6 @@ entry	orgNumber	orgName	web	categories	comment
 1233600319	802534-5466	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Täby, Drakskeppsskolan
 1233600327	802539-3649	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Halmstad, Snöstorpsskolan
 1233600376	702001-8540	Bostadsrättsföreningen Rödstjärten i Stockholm	https://www.hsb.se/stockholm/brf/rodstjarten/	bostadsrättsförening	
-1233600699	012696-2349	Sipples Patientförening - Patienter med MEN 2A	https://sipples.wordpress.com/	patientförening	
 1233600822	969710-1500	Hästtjärns Fiske Handelsbolag	https://hasttjarn.se/	fiskekort,sportfiske	
 1233600988	802441-1103	Munka-Ljungby Innebandyklubb	https://mibk.sportadmin.se/	idrottsförening,innebandyklubb	
 1233602679	817605-2515	Djurskyddet i Nyköping	https://www.djurskyddet.se/nykoping/	djurskydd,katthem	
@@ -9886,6 +9886,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233780384	802431-8365	Munskänkarna	https://www.munskankarna.se/sv/regioner/ostra/nykoping/	munskänkarna,vinprovning	Nyköping
 1233780525	802454-8672	Knöppelåsens Ryttarsällskap	https://www.knoppelasensryttarsallskap.com/	hästsport,ridsport,ryttarsällskap	
 1233780681	849400-4578	Stiftelsen Tjolöholm	https://www.tjoloholm.se/	konferenslokaler,restaurant,stiftelse	
+1233781374	802411-2156	SPF Seniorerna Saltsjöbaden	https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/saltsjobaden/	pensionärsklubb	
 1233781457	717907-4468	Roslätt3:s Samfällighetsförening	https://www.roslatt3.se/	samfällighetsförening	
 1233781606	846001-6960	Almviks 4H-klubb	https://www.4h.se/almvik/	4hklubb,barnverksamhet,ungdomsverksamhet	
 1233781614	897000-8473	Kvinnojouren Iris i Luleå	https://www.kvinnojoureniris.se/	donation,kvinnojour	
@@ -17871,6 +17872,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236907125	802011-1582	Stiftelsen Fryshuset	https://fryshuset.se/	familjestöd,stiftelse	Nationellt
 1236907257	252003-0731	Örebro Pastorat	https://www.svenskakyrkan.se/orebro	religion	Lokalhyra
 1236907299	826000-7052	Norrahammars IK	https://www.laget.se/norrahammarsik	idrottsförening	
+1236907430	556813-3804	City Trafikskola i Sundbyberg AB	https://trafikcity.se/	trafikskola,utbildning	
 1236907588	894700-4738	Lövånger-Uttersjöbäcken AIK	https://www.laget.se/LUAIK/	fotbollsklubb,gymnastikförening,idrottsförening,ishockeyklubb,skidlöparklubb,volleybollklubb	
 1236907877	556881-8693	Klaravik AB	https://www.klaravik.se/	auktioner,auktionsverk,entreprenadmaskiner,lantbruksmaskiner,skogsbruksmaskiner	
 1236907901	556223-3527	Fjätervålen AB	https://fjatervalen.se/	friluftsliv,vintersport	
