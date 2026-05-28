@@ -5637,6 +5637,15 @@ entries:
   - studentkår
   web: https://www.johannelund.nu/student/
 
+- entry: 1230241984
+  orgName: Tabergs Sportklubb
+  orgNumber: 826000-4489
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/TABERGSSPORTKLUBB
+
 - entry: 1230242032
   orgName: Spårvägen Simförening
   orgNumber: 802016-1280
@@ -42765,6 +42774,14 @@ entries:
   - ungdomsverksamhet
   web: https://umea.kfum.se/
 
+- entry: 1231732742
+  orgName: Forshedabygdens Församling
+  orgNumber: 252004-3759
+  comment: Kärda kyrka
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/forsheda/karda-kyrka
+
 - entry: 1231732767
   orgName: Slaka-Nykils Pastorat
   orgNumber: 252004-7495
@@ -49372,6 +49389,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/tingsryd
 
+- entry: 1232002046
+  orgName: Melanomföreningen
+  orgNumber: 802467-4122
+  comment: null
+  categories:
+  - anhörigorganisation
+  - patientförening
+  web: https://melanomforeningen.se/
+
 - entry: 1232003804
   orgName: null
   orgNumber: null
@@ -55809,6 +55835,14 @@ entries:
   - idrottsförening
   - skidlöparklubb
   web: https://www.ostersundssk.se/
+
+- entry: 1232257400
+  orgName: Ammer Byförening
+  orgNumber: 802419-6324
+  comment: null
+  categories:
+  - byförening
+  web: http://ammer.nu/
 
 - entry: 1232257525
   orgName: Västeråsen's Gård / Marina Lönn
@@ -83001,7 +83035,7 @@ entries:
   web: https://www.actionpics.se/
 
 - entry: 1233381282
-  orgName: Klevshults SK
+  orgName: Klevshults Sportklubb
   orgNumber: 828000-3123
   comment: null
   categories:
@@ -131951,6 +131985,14 @@ entries:
   - patientförening
   web: https://www.obesitasforskning.nu/
 
+- entry: 1235446786
+  orgName: Pingstförsamlingen i Örnsköldsvik
+  orgNumber: 889600-0562
+  comment: null
+  categories:
+  - religion
+  web: https://www.pingst-ovik.se/
+
 - entry: 1235446893
   orgName: Örtoftabygdens Byalag
   orgNumber: 802488-1693
@@ -133059,6 +133101,15 @@ entries:
   categories:
   - religion
   web: https://www.ekho.se/
+
+- entry: 1235503347
+  orgName: Varma Tassar - Jönköping
+  orgNumber: 802475-6721
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://varmatassar.se/
 
 - entry: 1235503446
   orgName: Villie Församling
@@ -168304,6 +168355,15 @@ entries:
   categories:
   - byalag
   web: https://karbole.se/
+
+- entry: 1236906234
+  orgName: Klubb Maritim Oxelösund
+  orgNumber: 817606-1532
+  comment: null
+  categories:
+  - historieförening
+  - kulturförening
+  web: https://klubbmaritimoxelosund.n.nu/
 
 - entry: 1236906556
   orgName: Sportjouren AB

@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-05-28-rev-223855
+# Date: 2026-05-28-rev-234759
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -622,6 +622,7 @@
 "1230241570","817001-4388","MDD Merhamet Sverige","https://www.merhamet.se/","godkänd gåvomottagare,religion,välgörenhet",""
 "1230241604","832401-3146","Örsjö Idrottsförening","https://www.svenskalag.se/orsjoif","fotbollsklubb,friidrottsförening,idrottsförening",""
 "1230241851","802473-9982","Studentkåren vid Johannelunds Teologiska Högskola","https://www.johannelund.nu/student/","religion,studentkår",""
+"1230241984","826000-4489","Tabergs Sportklubb","https://www.laget.se/TABERGSSPORTKLUBB","fotbollsklubb,idrottsförening",""
 "1230242032","802016-1280","Spårvägen Simförening","https://www.sparvagensim.se/","idrottsförening,simklubb,simsällskap",""
 "1230242271","895401-0818","Oltokkens Intresseförening","https://bygdegardarna.se/oltokken/","bygdegårdsförening",""
 "1230242735","802491-4304","Falkenbergs Sändaramatörer, SK6JX","https://www.sk6jx.org/","sändareamatörer",""
@@ -4614,6 +4615,7 @@
 "1231732049","858501-1946","Bohusläns Ornitologiska Förening","https://bohof.com/","fågelskådning,ornitologi",""
 "1231732122","898800-1072","Sjulsmarks SK","https://www.svenskalag.se/sjulsmarkssk","fotbollsklubb,idrottsförening,skidlöparklubb",""
 "1231732700","894000-0691","KFUM Umeå","https://umea.kfum.se/","idrottsförening,klättringsklubb,ungdomsverksamhet","Föreningsgemensamt + Klättring"
+"1231732742","252004-3759","Forshedabygdens Församling","https://www.svenskakyrkan.se/forsheda/karda-kyrka","religion","Kärda kyrka"
 "1231732767","252004-7495","Slaka-Nykils Pastorat","https://www.svenskakyrkan.se/slaka-nykil","religion","Kyrkläger"
 "1231732932","802488-2873","Homeless Foundation","https://hemlosa.se/","hjälporganisation,ideell förening",""
 "1231733070","819001-3154","Onyx Innebandy","https://www.svenskalag.se/onyxinnebandy","idrottsförening,innebandyklubb","P15 Nyköping"
@@ -5308,6 +5310,7 @@
 "1232001519","817601-4838","Lagga Långhundra BK","https://www.laget.se/LaggaLanghundraBK/","fotbollsklubb,idrottsförening",""
 "1232001782","252000-6319","Linneryds Församling","https://www.svenskakyrkan.se/tingsryd/linneryd","religion","Bokbord"
 "1232001790","252000-6327","Södra Sandsjös Församling","https://www.svenskakyrkan.se/tingsryd","religion","Bokbord"
+"1232002046","802467-4122","Melanomföreningen","https://melanomforeningen.se/","anhörigorganisation,patientförening",""
 "1232006963","877101-1056","Nora Biologiska Förening","https://www.norabf.se/","intresseförening,naturskydd,naturvård",""
 "1232007201","556105-5798","Nässjö Trafikskola AB","https://www.nassjotrafikskola.se/","trafikskola",""
 "1232007516","559374-3783","Advokatbyrå Prima AB","https://primalaw.se/","advokatbyrå,juridiska tjänster",""
@@ -5989,6 +5992,7 @@
 "1232257160","252001-4453","Partille Församling","https://www.svenskakyrkan.se/partille","religion","Fairtrade Partille"
 "1232257186","822001-9734","Ydrefors Samhällsförening","https://bygdegardarna.se/ydrefors/","bygdegårdsförening,samhällsförening",""
 "1232257210","893200-3737","Östersunds Skidlöpareklubb","https://www.ostersundssk.se/","idrottsförening,skidlöparklubb",""
+"1232257400","802419-6324","Ammer Byförening","http://ammer.nu/","byförening",""
 "1232257525","720502-XXXX","Västeråsen's Gård / Marina Lönn","https://www.facebook.com/p/V%C3%A4ster%C3%A5sens-G%C3%A5rd-100063596059712/","lantbruk,närproducerat,rekoproducerat",""
 "1232257608","877101-1510","Ramsbergs Hembygdsförening","https://www.ramsberg.se/","hembygdsförening",""
 "1232257632","864500-1283","Borås och Sjuhäradsbygdens konstförening, Flaménska galleriet","https://www.flamenska.se/","galleri,konstförening",""
@@ -8851,7 +8855,7 @@
 "1233381134","802502-0408","Malen Gym","https://malengym.se/","atletklubb,gym",""
 "1233381191","857201-0448","Fiskebäckskyrkan","https://www.fiskebackskyrkan.se/","religion","Barn- och ungdomsverksamhet"
 "1233381241","559000-1284","Lenoa AB","https://www.actionpics.se/","bildarkiv,fotograf,motorsport",""
-"1233381282","828000-3123","Klevshults SK","https://www.svenskalag.se/klevshultssk","fotbollsklubb,idrottsförening",""
+"1233381282","828000-3123","Klevshults Sportklubb","https://www.svenskalag.se/klevshultssk","fotbollsklubb,idrottsförening",""
 "1233381399","828001-0573","Svensk-Indiska AGAPE Missionen","https://www.svensk-indiskaagape-missionen.se/","religion",""
 "1233381969","982000-3268","Avesta Golfklubb","https://www.avestagk.se/","golfklubb",""
 "1233382124","802009-9688","Förbundet Blödarsjuka i Sverige, FBIS","https://www.fbis.se/","anhörigorganisation,patientförening",""
@@ -14004,6 +14008,7 @@
 "1235445648","834001-3310","Slite Intresseförening","https://slite.nu/","intresseförening",""
 "1235446026","877100-1032","IFK Lindesberg","https://www.laget.se/IFKLindesberg/","fotbollsklubb,futsalklubb,idrottsförening","Lotter"
 "1235446422","802512-1412","Svensk Förening för Obesitasforskning, SFO","https://www.obesitasforskning.nu/","anhörigorganisation,forskning,patientförening",""
+"1235446786","889600-0562","Pingstförsamlingen i Örnsköldsvik","https://www.pingst-ovik.se/","religion",""
 "1235446893","802488-1693","Örtoftabygdens Byalag","https://ortoftabygden.se/","byaförening,byalag,byaråd",""
 "1235447131","802515-5436","Linköping Air Swing","https://www.airswing.se/","dansförening,sportdansklubb",""
 "1235447347","845002-4628","Munskänkarna","https://www.munskankarna.se/sv/regioner/skane/lund/","munskänkarna,vinprovning","Lund"
@@ -14122,6 +14127,7 @@
 "1235503222","829502-0625","Åseda Ryttarförening","https://www.asedaryttarforening.se/","ridklubb,ridsport,ryttarförening",""
 "1235503297","817300-3891","Gimo SS","https://www.svenskalag.se/gimoss","idrottsförening,simklubb,simsällskap",""
 "1235503339","802515-7481","EKHO Stockholm","https://www.ekho.se/","religion",""
+"1235503347","802475-6721","Varma Tassar - Jönköping","https://varmatassar.se/","djurskydd,katthem",""
 "1235503446","252002-7471","Villie Församling","https://www.svenskakyrkan.se/villie","religion",""
 "1235503537","802460-1877","Hjortbergets Skidklubb","https://hjortberget.se/","idrottsförening,skidklubb,skidlöparklubb",""
 "1235503669","802491-6499","Nattskiftet","https://www.nattskiftet.org/","nattvandrare,ungdomsverksamhet",""
@@ -17867,6 +17873,7 @@
 "1236905806","556998-6564","Emilia Lindberg / Erlin Musik & Försäljning AB","https://www.facebook.com/lindbergemilia/","artist",""
 "1236905921","882600-8727","Borlänge Musikteater","https://www.facebook.com/borlangemusikteater/","musikteater,teaterförening",""
 "1236905947","887000-4986","Kårböle Byalag","https://karbole.se/","byalag",""
+"1236906234","817606-1532","Klubb Maritim Oxelösund","https://klubbmaritimoxelosund.n.nu/","historieförening,kulturförening",""
 "1236906556","556829-5637","Sportjouren AB","https://www.sportjouren.se/","försäljning,sportmaterial",""
 "1236906853","892000-3905","Ströms Hembygdsförening","https://www.hembygd.se/strom","hembygdsförening",""
 "1236906895","884401-0150","Fridhemskyrkans Församling","https://equmeniakyrkan.se/fridhemskyrkan/","religion",""
