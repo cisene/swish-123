@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-05-25-rev-192710
+# Date: 2026-05-28-rev-223906
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4055,6 +4055,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231510841	864501-3999	S:t Örjans Scoutkår	https://storjan.se/	scoutkår	
 1231511294	812400-3750	Gålö Båtklubb	https://www.gbk70.se/	båtklubb,båtsällskap	
 1231513209	802445-8468	SPF Seniorerna Gruvan Hällestad	https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-seniorerna-gruvan-/	pensionärsklubb	
+1231513274	559062-2097	Idun Skönhet i Östersund AB	https://www.instagram.com/idun.salong/	hudvård,skönhetsvård	
 1231513407	802550-1951	Uppsalaretromarket	https://www.facebook.com/UppsalaRetromarket	marknader,retro	
 1231513498	843002-1033	Stiftelsen Havsbris	https://domsten.nu/stiftelse-havsbris/	intresseförening,stiftelse	
 1231517572	802533-7828	Revsuddens Sportsällskap	https://revsuddensportsallskap.se/	idrottsförening,löparklubb	

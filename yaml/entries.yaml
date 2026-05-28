@@ -37686,8 +37686,10 @@ entries:
   orgName: Idun Skönhet i Östersund AB
   orgNumber: 559062-2097
   comment: null
-  categories: null
-  web: null
+  categories:
+  - hudvård
+  - skönhetsvård
+  web: https://www.instagram.com/idun.salong/
 
 - entry: 1231513407
   orgName: Uppsalaretromarket
@@ -170565,6 +170567,22 @@ entries:
   - overifierad
   web: https://www.insamlingskontroll.se/
 
+- entry: 1239000019
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239000027
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
 - entry: 1239000035
   orgName: Children Need Help
   orgNumber: 802416-7192
@@ -170585,6 +170603,14 @@ entries:
   - synskadad
   web: https://www.srf.nu/
 
+- entry: 1239000050
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
 - entry: 1239000068
   orgName: Personskadeförbundet RTP
   orgNumber: 815200-4134
@@ -170592,6 +170618,14 @@ entries:
   categories:
   - insamlingskontroll
   web: https://rtp.se/
+
+- entry: 1239000076
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
 
 - entry: 1239000084
   orgName: Stiftelsen Institutet för Independent Living
@@ -170618,6 +170652,14 @@ entries:
   categories:
   - insamlingskontroll
   web: https://www.barncancerfonden.se/mellansverige
+
+- entry: 1239000118
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
 
 - entry: 1239000126
   orgName: Föreningen Omsorgsjul-Hemlösa i Norrköping
@@ -170656,6 +170698,22 @@ entries:
   - religion
   web: https://helamanniskan.se/falun/
 
+- entry: 1239000167
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239000175
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
 - entry: 1239000183
   orgName: Stödföreningen för Olof Palmes barnsjukhus i Hanoi
   orgNumber: 802012-5384
@@ -170663,6 +170721,14 @@ entries:
   categories:
   - insamlingskontroll
   - terminated
+  web: null
+
+- entry: 1239000191
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
   web: null
 
 - entry: 1239000209
@@ -170683,6 +170749,14 @@ entries:
   - välgörenhet
   web: https://www.lakarmissionen.se/
 
+- entry: 1239000225
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
 - entry: 1239000233
   orgName: Föreningen Mobilforskningsfonden
   orgNumber: null
@@ -170699,6 +170773,14 @@ entries:
   categories:
   - insamlingskontroll
   web: https://www.sdr.org/
+
+- entry: 1239000258
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
 
 - entry: 1239000266
   orgName: Insamlingsstiftelsen Hjälp Margit Hjälpa
@@ -170736,6 +170818,14 @@ entries:
   - retired
   web: https://www.diabetes.se/
 
+- entry: 1239000308
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
 - entry: 1239000316
   orgName: Kristna Fredsrörelsen
   orgNumber: 826000-8696
@@ -170754,6 +170844,14 @@ entries:
   - terminated
   web: https://www.yari.nu/
 
+- entry: 1239000332
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
 - entry: 1239000340
   orgName: Rolf Lufts Stiftelse för Diabetesforskning
   orgNumber: null
@@ -170761,6 +170859,30 @@ entries:
   categories:
   - insamlingskontroll
   - terminated
+  web: null
+
+- entry: 1239000357
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239000365
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239000373
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
   web: null
 
 - entry: 1239000381
@@ -170788,6 +170910,14 @@ entries:
   categories:
   - insamlingskontroll
   - retired
+  web: null
+
+- entry: 1239000415
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
   web: null
 
 - entry: 1239000423
@@ -170951,6 +171081,22 @@ entries:
   - stiftelse
   web: https://barndiabetesfonden.se/
 
+- entry: 1239000605
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239000613
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
 - entry: 1239000621
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
@@ -171069,6 +171215,14 @@ entries:
   - retired
   web: null
 
+- entry: 1239000753
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
 - entry: 1239000761
   orgName: IBRA Radio Federation
   orgNumber: 802006-7131
@@ -171120,6 +171274,14 @@ entries:
   - insamlingskontroll
   web: https://www.ungtledarskap.se/
 
+- entry: 1239000829
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
 - entry: 1239000837
   orgName: ActionAid International Sweden
   orgNumber: 802431-3044
@@ -171163,6 +171325,22 @@ entries:
   categories:
   - insamlingskontroll
   web: https://www.friskfri.se/
+
+- entry: 1239000886
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239000894
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
 
 - entry: 1239000902
   orgName: Synskadades Riksförbund
@@ -171224,6 +171402,14 @@ entries:
   - overifierad
   web: https://www.hjarnfonden.se/
 
+- entry: 1239000969
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
 - entry: 1239000977
   orgName: Diakonistiftelsen Samariterhemmet
   orgNumber: null
@@ -171279,6 +171465,14 @@ entries:
   categories:
   - insamlingskontroll
   - retired
+  web: null
+
+- entry: 1239001033
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
   web: null
 
 - entry: 1239001041
@@ -178817,6 +179011,6462 @@ entries:
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.hjart-lungfonden.se/
+
+- entry: 1239091935
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239091943
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239091950
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239091968
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239091976
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239091984
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239091992
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092008
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092016
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092024
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092032
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092040
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092057
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092065
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092073
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092081
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092099
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092107
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092115
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092123
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092131
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092149
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092156
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092164
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092172
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092180
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092198
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092206
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092214
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092222
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092230
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092248
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092255
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092263
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092271
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092289
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092297
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092305
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092313
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092321
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092339
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092347
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092354
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092362
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092370
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092388
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092396
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092404
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092412
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092420
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092438
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092446
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092453
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092461
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092479
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092487
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092495
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092503
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092511
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092529
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092537
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092545
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092552
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092560
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092578
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092586
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092594
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092602
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092610
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092628
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092636
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092644
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092651
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092669
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092677
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092685
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092693
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092701
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092719
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092727
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092735
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092743
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092750
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092768
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092776
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092784
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092792
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092800
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092818
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092826
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092834
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092842
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092859
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092867
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092875
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092883
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092891
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092909
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092917
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092925
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092933
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092941
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092958
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092966
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092974
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092982
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239092990
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093006
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093014
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093022
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093030
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093048
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093055
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093063
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093071
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093089
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093097
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093105
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093113
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093121
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093139
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093147
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093154
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093162
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093170
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093188
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093196
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093204
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093212
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093220
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093238
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093246
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093253
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093261
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093279
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093287
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093295
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093303
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093311
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093329
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093337
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093345
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093352
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093360
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093378
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093386
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093394
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093402
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093410
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093428
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093436
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093444
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093451
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093469
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093477
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093485
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093493
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093501
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093519
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093527
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093535
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093543
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093550
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093568
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093576
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093584
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093592
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093600
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093618
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093626
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093634
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093642
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093659
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093667
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093675
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093683
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093691
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093709
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093717
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093725
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093733
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093741
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093758
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093766
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093774
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093782
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093790
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093808
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093816
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093824
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093832
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093840
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093857
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093865
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093873
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093881
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093899
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093907
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093915
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093923
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093931
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093949
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093956
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093964
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093972
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093980
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239093998
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094004
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094012
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094020
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094038
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094046
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094053
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094061
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094079
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094087
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094095
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094103
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094111
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094129
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094137
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094145
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094152
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094160
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094178
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094186
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094194
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094202
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094210
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094228
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094236
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094244
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094251
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094269
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094277
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094285
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094293
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094301
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094319
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094327
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094335
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094343
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094350
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094368
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094376
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094384
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094392
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094400
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094418
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094426
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094434
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094442
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094459
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094467
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094475
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094483
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094491
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094509
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094517
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094525
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094533
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094541
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094558
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094566
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094574
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094582
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094590
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094608
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094616
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094624
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094632
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094640
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094657
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094665
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094673
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094681
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094699
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094707
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094715
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094723
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094731
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094749
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094756
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094764
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094772
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094780
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094798
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094806
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094814
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094822
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094830
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094848
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094855
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094863
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094871
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094889
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094897
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094905
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094913
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094921
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094939
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094947
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094954
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094962
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094970
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094988
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239094996
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095001
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095019
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095027
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095035
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095043
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095050
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095068
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095076
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095084
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095092
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095100
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095118
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095126
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095134
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095142
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095159
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095167
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095175
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095183
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095191
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095209
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095217
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095225
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095233
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095241
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095258
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095266
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095274
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095282
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095290
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095308
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095316
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095324
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095332
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095340
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095357
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095365
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095373
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095381
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095399
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095407
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095415
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095423
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095431
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095449
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095456
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095464
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095472
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095480
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095498
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095506
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095514
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095522
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095530
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095548
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095555
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095563
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095571
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095589
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095597
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095605
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095613
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095621
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095639
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095647
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095654
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095662
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095670
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095688
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095696
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095704
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095712
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095720
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095738
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095746
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095753
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095761
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095779
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095787
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095795
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095803
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095811
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095829
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095837
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095845
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095852
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095860
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095878
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095886
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095894
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095902
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095910
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095928
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095936
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095944
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095951
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095969
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095977
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095985
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239095993
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096009
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096017
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096025
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096033
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096041
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096058
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096066
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096074
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096082
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096090
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096108
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096116
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096124
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096132
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096140
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096157
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096165
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096173
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096181
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096199
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096207
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096215
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096223
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096231
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096249
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096256
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096264
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096272
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096280
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096298
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096306
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096314
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096322
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096330
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096348
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096355
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096363
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096371
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096389
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096397
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096405
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096413
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096421
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096439
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096447
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096454
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096462
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096470
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096488
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096496
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096504
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096512
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096520
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096538
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096546
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096553
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096561
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096579
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096587
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096595
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096603
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096611
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096629
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096637
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096645
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096652
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096660
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096678
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096686
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096694
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096702
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096710
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096728
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096736
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096744
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096751
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096769
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096777
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096785
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096793
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096801
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096819
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096827
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096835
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096843
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096850
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096868
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096876
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096884
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096892
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096900
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096918
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096926
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096934
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096942
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096959
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096967
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096975
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096983
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239096991
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097007
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097015
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097023
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097031
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097049
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097056
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097064
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097072
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097080
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097098
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097106
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097114
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097122
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097130
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097148
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097155
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097163
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097171
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097189
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097197
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097205
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097213
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097221
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097239
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097247
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097254
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097262
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097270
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097288
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097296
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097304
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097312
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097320
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097338
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097346
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097353
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097361
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097379
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097387
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097395
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097403
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097411
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097429
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097437
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097445
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097452
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097460
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097478
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097486
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097494
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097502
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097510
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097528
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097536
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097544
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097551
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097569
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097577
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097585
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097593
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097601
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097619
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097627
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097635
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097643
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097650
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097668
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097676
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097684
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097692
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097700
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097718
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097726
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097734
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097742
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097759
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097767
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097775
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097783
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097791
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097809
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097817
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097825
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097833
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097841
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097858
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097866
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097874
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097882
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097890
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097908
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097916
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097924
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097932
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097940
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097957
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097965
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097973
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097981
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239097999
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098005
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098013
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098021
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098039
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098047
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098054
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098062
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098070
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098088
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098096
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098104
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098112
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098120
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098138
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098146
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098153
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098161
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098179
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098187
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098195
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098203
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098211
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098229
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098237
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098245
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098252
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098260
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098278
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098286
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098294
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098302
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098310
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098328
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098336
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098344
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098351
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098369
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098377
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098385
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098393
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098401
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098419
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098427
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098435
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098443
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098450
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098468
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098476
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098484
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098492
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098500
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098518
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098526
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098534
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098542
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098559
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098567
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098575
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098583
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098591
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098609
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098617
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098625
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098633
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098641
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098658
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098666
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098674
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098682
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098690
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098708
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098716
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098724
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098732
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098740
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098757
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098765
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098773
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098781
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098799
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098807
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098815
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098823
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098831
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098849
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098856
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098864
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098872
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098880
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098898
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098906
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098914
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098922
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098930
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098948
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098955
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098963
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098971
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098989
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239098997
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099003
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099011
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099029
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099037
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099045
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099052
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099060
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099078
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099086
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099094
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099102
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099110
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099128
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099136
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099144
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099151
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099169
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099177
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099185
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099193
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099201
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099219
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099227
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099235
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099243
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099250
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099268
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099276
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099284
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099292
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099300
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099318
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099326
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099334
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099342
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099359
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099367
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099375
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099383
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099391
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099409
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099417
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099425
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099433
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099441
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099458
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099466
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099474
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099482
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099490
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099508
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099516
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099524
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099532
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099540
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099557
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099565
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099573
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099581
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099599
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099607
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099615
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099623
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099631
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099649
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099656
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099664
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099672
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099680
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099698
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099706
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099714
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099722
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099730
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099748
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099755
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099763
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099771
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099789
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099797
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099805
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099813
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099821
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099839
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099847
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099854
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099862
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099870
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099888
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099896
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099904
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099912
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099920
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099938
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099946
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099953
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099961
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099979
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099987
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
+
+- entry: 1239099995
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: null
 
 - entry: 1239856195
   orgName: Rotary Lomma Bjärred
