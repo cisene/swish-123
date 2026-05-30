@@ -55,6 +55,32 @@ def readYAML(filepath):
 
   return data
 
+def luhn10CalculateCheckDigit(data):
+  result = None
+
+  numbers = str(data)
+  numbers_list = list(numbers)
+  numbers_list.reverse()
+
+  weights = [2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2]
+
+  checkSum = 0
+  for pos in range(0,len(numbers)):
+    sums = 0
+
+    sums = (int(weights[pos]) * int(numbers_list[pos]))
+    if sums >= 10:
+      digits = list(str(sums))
+      dSum = int(digits[0]) + int(digits[1])
+      checkSum += int(dSum)
+    else:
+      checkSum += int(sums)
+
+  # c = (10 − (s mod 10 ) ) mod 10 .
+  result = (10 - (checkSum % 10)) % 10
+  return result
+
+
 def flattenList(data):
   return ",".join(data)
 
@@ -74,9 +100,52 @@ def validateEntryStrict(data):
 
   return result
 
+def validateEntryNumerical(data):
+  result = False
+  data = int(data)
+  if (
+    ((data >= 1230000000) and (data <= 1236999999))
+    or
+    ((data >= 1239000000) and (data <= 1239099999))
+  ):
+    result = True
+
+  return result
+
+def getNumericalRange(data):
+  result = None
+  data = int(data)
+  if (
+    ((data >= 1230000000) and (data <= 1236999999))
+  ):
+    result = 'default'
+
+  if (
+    ((data >= 1239000000) and (data <= 1239099999))
+  ):
+    result = 'strict'
+
+  return result
+
+def validateEntryLunh10(data):
+  result = False
+  luhnableNumber = re.sub(r"^123(\d{6})(\d{1})$", "\\1", str(data), flags=re.IGNORECASE)
+  luhnableNumberCheck = re.sub(r"^(\d{9})(\d{1})$", "\\2", str(data), flags=re.IGNORECASE)
+  #print(f"\t{data} -> {luhnableNumber} as {luhnableNumberCheck}")
+
+  val = luhn10CalculateCheckDigit(luhnableNumber)
+  if int(val) == int(luhnableNumberCheck):
+    result = True
+
+  return result
+
+
 def main():
   print(f"Reading source YAML: {YAML_SOURCE_FILE} ..")
   source_dict = readYAML(YAML_SOURCE_FILE)
+
+  source_dict_count = len(source_dict['entries'])
+  print(f"\tRead {source_dict_count} raw entries")
 
   # Set up destination dictionary
   dest_dict = {}
@@ -95,19 +164,35 @@ def main():
     print(f"Could not read {YAML_SOURCE_FILE}")
     exit(1)
 
+  print(f"Iterating {len(source_dict['entries'])} items ..")
+
   line_count = 0
   for entryVO in source_dict['entries']:
 
+    # Entry number
+    entryNumber = entryVO['entry']
+
+    # Collect categories
+    cats = entryVO['categories']
+
     # Check format - simple
     if validateEntry(entryVO['entry']) == False:
+      print(f"\t{entryVO['entry']} failed simple format check -- skipped")
       continue
 
     # Validate ranges - complex
     if validateEntryStrict(entryVO['entry']) == False:
+      print(f"\t{entryVO['entry']} failed complex format check -- skipped")
       continue
 
-    # Collect categories
-    cats = entryVO['categories']
+    if validateEntryNumerical(entryVO['entry']) == False:
+      print(f"\t{entryVO['entry']} failed numrical format check -- skipped")
+      continue
+
+    # Validate Luhn-10
+    if validateEntryLunh10(entryNumber) == False:
+      print(f"\t{entryNumber} failed Luhn-10 format check -- skipped")
+      continue
 
     # Filter categories
     skip_cats = False
@@ -132,9 +217,6 @@ def main():
       dest_dict['entries'].append(entryVO)
       line_count += 1
 
-  source_dict_count = len(source_dict['entries'])
-
-  print(f"\tRead {source_dict_count} raw entries")
 
   writeYAML(YAML_DEST_DATASOURCE, dest_dict)
   print(f"\tWrote {line_count} YAML entries")
