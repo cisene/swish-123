@@ -5132,6 +5132,15 @@ entries:
   - kvinnojour
   web: https://ktjboras.se/
 
+- entry: 1230230359
+  orgName: Gamla Upsala Sportklubb
+  orgNumber: 817601-0711
+  comment: Herr-laget
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.gusk.nu/
+
 - entry: 1230230375
   orgName: Alvesta Församling
   orgNumber: 252004-2736
@@ -10878,7 +10887,7 @@ entries:
   web: https://www.amigosmios.se/
 
 - entry: 1230452391
-  orgName: Skiljebo SK
+  orgName: Skiljebo Sportklubb
   orgNumber: 878000-4480
   comment: F-13
   categories:
@@ -27294,6 +27303,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/arboga
+
+- entry: 1231146992
+  orgName: Bollklubben Skansen
+  orgNumber: 802431-4984
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://bkskansen.se/
 
 - entry: 1231147065
   orgName: Carlstad Crusaders
@@ -46404,12 +46422,13 @@ entries:
   web: https://www.dyron.se/
 
 - entry: 1231971993
-  orgName: Skiljebo SK
+  orgName: Skiljebo Sportklubb
   orgNumber: 878000-4480
   comment: null
   categories:
   - fotbollsklubb
   - idrottsförening
+  - innebandyklubb
   web: https://www.skiljebosk.nu/
 
 - entry: 1231972066
@@ -57420,6 +57439,14 @@ entries:
   - healing
   - reiki
   web: https://secourong.com/
+
+- entry: 1232395630
+  orgName: Föreningen Yari
+  orgNumber: 817605-2507
+  comment: null
+  categories:
+  - utbildning
+  web: https://www.yari.nu/
 
 - entry: 1232396018
   orgName: Gessie Villastads Samfällighetsförening
@@ -75234,6 +75261,15 @@ entries:
   - religion
   web: https://equmeniakyrkan.se/hassleholm/
 
+- entry: 1233196847
+  orgName: Skiljebo Sportklubb
+  orgNumber: 878000-4480
+  comment: P-13
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.skiljebosk.nu/
+
 - entry: 1233198322
   orgName: Fortuna Fotbollsförening
   orgNumber: 843000-9509
@@ -89337,9 +89373,9 @@ entries:
   web: https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/hostsoltimra/
 
 - entry: 1233803707
-  orgName: Skiljebo SK
+  orgName: Skiljebo Sportklubb
   orgNumber: 878000-4480
-  comment: P-12
+  comment: P-12 Fotboll
   categories:
   - fotbollsklubb
   - idrottsförening
@@ -94798,6 +94834,15 @@ entries:
   categories:
   - religion
   web: null
+
+- entry: 1234031761
+  orgName: Skiljebo Sportklubb
+  orgNumber: 878000-4480
+  comment: P-14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.skiljebosk.nu/
 
 - entry: 1234031795
   orgName: Granbergsdals IF
@@ -102420,6 +102465,15 @@ entries:
   - sportskytteklubb
   web: https://www.bjorksta-uskf.se/
 
+- entry: 1234409751
+  orgName: Gideonsbergs IF
+  orgNumber: 878000-5115
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.gideonsbergsif.se/
+
 - entry: 1234410387
   orgName: Västra Motorsportförbundet
   orgNumber: 868401-0641
@@ -102825,6 +102879,15 @@ entries:
   - friidrottsförening
   - idrottsförening
   web: https://www.svenskalag.se/aikfriidrott
+
+- entry: 1234420220
+  orgName: Skiljebo Sportklubb
+  orgNumber: 878000-4480
+  comment: P17
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.skiljebosk.nu/
 
 - entry: 1234421095
   orgName: Museiföreningen Östra Södermanlands Järnväg
@@ -104393,6 +104456,15 @@ entries:
   - idrottsförening
   - padelklubb
   web: https://www.laget.se/WAPOrebro/
+
+- entry: 1234502225
+  orgName: Karlslunds IF FK
+  orgNumber: 875000-8438
+  comment: P17
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.karlslund.nu/
 
 - entry: 1234502399
   orgName: Pink Programming
@@ -117273,7 +117345,7 @@ entries:
   web: https://theutenberg.org/
 
 - entry: 1235116744
-  orgName: Gamla Upsala SK
+  orgName: Gamla Upsala Sportklubb
   orgNumber: 817601-0711
   comment: null
   categories:
@@ -117502,7 +117574,7 @@ entries:
   web: https://www.klockarejorden.se/
 
 - entry: 1235123575
-  orgName: IFK Västerås FK
+  orgName: IFK Västerås Fotbollsklubb
   orgNumber: 878001-2962
   comment: null
   categories:
@@ -151330,6 +151402,14 @@ entries:
   - idrottsförening
   web: https://www.borasbasket.se/
 
+- entry: 1236526404
+  orgName: Dalarnas Kennelklubb
+  orgNumber: 883201-1772
+  comment: null
+  categories:
+  - kennelklubb
+  web: https://www.skk.se/dkk/
+
 - entry: 1236526594
   orgName: Johannishus SK
   orgNumber: 835600-3676
@@ -152101,6 +152181,15 @@ entries:
   categories:
   - bostadsrättsförening
   web: https://www.hamnkranen.se/
+
+- entry: 1236555296
+  orgName: Skiljebo Sportklubb
+  orgNumber: 878000-4480
+  comment: P 12/13 innebandy
+  categories:
+  - idrottsförening
+  - innebandyklubb
+  web: https://www.skiljebosk.nu/
 
 - entry: 1236555502
   orgName: VSK Vännerna
