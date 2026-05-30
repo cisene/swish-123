@@ -31,21 +31,42 @@ Användning av [Swish 123](https://github.com/cisene/swish-123) data kan skådas
 
 ## Vad är ett Swish 123-nummer?
 
-Swish 123-nummer är 10-ställiga nummer som har begynnelsesiffror "123". Detta ger en nummer-rymd om 9999999, nära 10 miljoner nummer. Bland dessa nummer finns serier allokerade för specifika ändamål. 
+Swish 123-nummer är 10-ställiga nummer som har begynnelsesiffror "123".
+Detta ger en nummer-rymd om 9999999, nära 10 miljoner nummer, men det är dock inte helt sant, den sista positionen i ett swish-nummer är en checksiffra. 
+Bland dessa nummer finns serier allokerade för specifika ändamål.
 
-Listan innehåller Swish 123-nummer som samlats och kunnat knytas till en organisation med organisationsnummer - i de fall 123-nummret innehas av enskild företagare to utelämnas detta eftersom det då skulle utgöra problem med GDPR på grund av företagarens personnummer.
+| Serie | Förklaring |
+| ------ | ------- |
+| 000 - 699 | Vanliga swish-nummer |
+| 900 - 909 | Insamlingskontrollen swish-nummer |
 
 
 
-## Swish 1239XX
+### Insamlingskontroll
 
-Speciella serier av 1239XX (900-909) är allokerade till organisationer med så kallade 90-konton genom [Insammlingskontroll](https://www.insamlingskontroll.se/90-konto-organisationer/). För tillfället är 445 organisationer under kontroll.
+Alla Swish 123-nummer har kontrollsiffror. De swish-nummer som hör till Insamlingskontrollens 90-konton är även de kontroll siffror.
+
+| Plusgiro   | Swish-Prefix | Nummer | Kontrollsiffra | Fullständigt  |
+| ---------- | ------------ | ------ | -------------- | ------------- |
+| 90 19 50-6 | 123          | 901950 | 6              | 123 901 95 06 |
+
+
+
+### Vanliga 123 swish-nummer
+
+Examplet nedan visar att 4 är kontrollsiffran som är resultatet från en Luhn-10 kalkyl.
+
+| Swish-Prefix | Nummer | Kontrollsiffra | Fullständigt  |
+| ------------ | ------ | -------------- | ------------- |
+| 123          | 015472 | 4              | 123 015 47 24 |
+
+
 
 Några populära exempel:
 
-* Radio Hjälpen, pg 90 1950-6, med Swish nummer **[1239019506](https://b19.se/swish-katalogen/1239019506)** ibland uttryckt som 901 95 06
-* Läkare Utan Gränser, pg 90 0603-2, med Swish nummer **[1239006032](https://b19.se/swish-katalogen/1239006032)** ibland uttryckt som 900 60 32
-* Human Rights Watch Scandinavia, pg 90 0454-0, med Swish nummer **[1239004540](https://b19.se/swish-katalogen/1239004540)** ibland uttryckt som 900 45 40
+* Radio Hjälpen, pg 90 1950-6, med Swish nummer **[123 901 95 06](https://b19.se/swish-katalogen/1239019506)** ibland uttryckt som 901 95 06
+* Läkare Utan Gränser, pg 90 0603-2, med Swish nummer **[123 900 60 32](https://b19.se/swish-katalogen/1239006032)** ibland uttryckt som 900 60 32
+* Human Rights Watch Scandinavia, pg 90 0454-0, med Swish nummer **[123 900 45 40](https://b19.se/swish-katalogen/1239004540)** ibland uttryckt som 900 45 40
 
 Dessa kan även hittas i Swish-Katalogen under kategorin [insamlingskontroll](https://b19.se/swish-katalogen/k/insamlingskontroll).
 
@@ -71,3 +92,12 @@ Några som bidragit är:
 * Maria B
 * David H
 
+
+
+
+
+Listan innehåller Swish 123-nummer som samlats och kunnat knytas till en organisation med organisationsnummer - i de fall 123-nummret innehas av enskild näringsidkare/företagare utelämnas detta eftersom det då skulle utgöra problem med GDPR på grund av företagarens personnummer.
+
+
+
+## 
