@@ -164,7 +164,7 @@ def main():
     print(f"Could not read {YAML_SOURCE_FILE}")
     exit(1)
 
-  print(f"Iterating {len(source_dict['entries'])} items ..")
+  print(f"\tIterating {len(source_dict['entries'])} items ..")
 
   line_count = 0
   for entryVO in source_dict['entries']:
