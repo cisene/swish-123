@@ -22312,6 +22312,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/hoks-pastorat
 
+- entry: 1230924399
+  orgName: IFK Aspudden-Tellus
+  orgNumber: 802011-4511
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.ifkaspudden-tellus.se/
+
 - entry: 1230924555
   orgName: Prostatacancerföreningen Gävleborg
   orgNumber: 802435-9955
@@ -27239,6 +27248,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://skaraibk.sportadmin.se/
+
+- entry: 1231145903
+  orgName: Bräcke Sportklubb
+  orgNumber: 892600-7736
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://brackesportklubb.se/
 
 - entry: 1231146190
   orgName: Väddö IF
@@ -52782,6 +52800,14 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/forssabk
 
+- entry: 1232225670
+  orgName: Töreboda LRF
+  orgNumber: 802421-5488
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.lrf.se/regioner/vastra-gotaland/kommunavdelningar/toreboda/
+
 - entry: 1232226520
   orgName: Växjö Squashklubb
   orgNumber: 802421-6445
@@ -75716,6 +75742,14 @@ entries:
   categories:
   - förening
   web: https://linkoping.nmrf.se/
+
+- entry: 1233208725
+  orgName: Nordiska Lutherhjälpen
+  orgNumber: 802463-5271
+  comment: null
+  categories:
+  - hjälporganisation
+  web: https://nordiclutheraid.org/
 
 - entry: 1233210986
   orgName: Rotary Kristianstad-Hammarshus
@@ -137965,6 +137999,15 @@ entries:
   - styrketräning
   web: https://skinnsbergsak.se/
 
+- entry: 1235953302
+  orgName: Härnösands Alpina Klubb
+  orgNumber: 802460-5803
+  comment: null
+  categories:
+  - alpinklubb
+  - idrottsförening
+  web: https://harnosandsalpina.se/
+
 - entry: 1235953419
   orgName: Örgryte Pastorat
   orgNumber: 252004-8774
@@ -143611,6 +143654,15 @@ entries:
   - intresseförening
   web: https://www.astronomiskungdom.se/
 
+- entry: 1236184543
+  orgName: Grekiska Gatuhundar
+  orgNumber: 802515-3266
+  comment: null
+  categories:
+  - djurskydd
+  - hundhem
+  web: https://grekiskagatuhundar.com/
+
 - entry: 1236184766
   orgName: Bodenalternativet
   orgNumber: 802516-6565
@@ -147258,6 +147310,15 @@ entries:
   - ungdomsverksamhet
   web: https://www.tyreso.se/
 
+- entry: 1236346936
+  orgName: Medelpads Dövas Förening
+  orgNumber: 889201-1142
+  comment: null
+  categories:
+  - hörselnedsättning
+  - intresseförening
+  web: https://www.mdfkotte.se/
+
 - entry: 1236347124
   orgName: Unity Line Ltd. Filial Sverige
   orgNumber: 516409-8757
@@ -149973,6 +150034,15 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.svenskalag.se/vasteraspickelshc
+
+- entry: 1236473839
+  orgName: Degerfors IF
+  orgNumber: 876400-0199
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://degerforsif.se/
 
 - entry: 1236475081
   orgName: Team Rynkeby
@@ -166177,6 +166247,16 @@ entries:
   - insamlingskontroll
   - stiftelse
   web: https://www.jubileumsklinikenscancerfond.se/
+
+- entry: 1239009853
+  orgName: Svenska Glaukomförbundet
+  orgNumber: 802408-7325
+  comment: null
+  categories:
+  - anhörigorganisation
+  - insamlingskontroll
+  - patientförening
+  web: https://glaukomforbundet.se/
 
 - entry: 1239009895
   orgName: Föräldralösa barn, Insamlingsstiftelse

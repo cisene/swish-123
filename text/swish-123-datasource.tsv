@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-05-30-rev-203119
+# Date: 2026-05-30-rev-220515
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2492,6 +2492,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230923334	802006-1688	Frälsningsarmén	https://www.fralsningsarmen.se/skillingaryd/	donation,godkänd gåvomottagare,religion	Skillingaryd
 1230923631	750221-XXXX	Modiga Människor	https://modigamanniskor.se/	podcast	
 1230924118	252003-7009	Höks Pastorat	https://www.svenskakyrkan.se/hoks-pastorat	religion	
+1230924399	802011-4511	IFK Aspudden-Tellus	https://www.ifkaspudden-tellus.se/	fotbollsklubb,idrottsförening	
 1230924555	802435-9955	Prostatacancerföreningen Gävleborg	https://prostatacancerforbundet.se/prostataf-gavleborg/	donation,patientförening,prostatacancer,prostatacancerförening	
 1230924571	802445-5795	PRO Forsbacka	https://pro.se/distrikt/distrikt-gavleborg/samorganisationer/samorganisation-gavle/foreningar/forsbacka.html	pensionärsklubb	
 1230924647	802470-3269	Clownclubben	https://clownclubben.se/	barnsjukvård,barnverksamhet,donation	
@@ -3045,6 +3046,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231145663	844000-5463	PRO Samorganisation Landskrona	https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-landskrona.html	pensionärsklubb	
 1231145754	893200-0154	Filadelfiaförsamlingen i Östersund	https://www.pingstosd.se/	religion	
 1231145887	868400-9510	Skara Innebandyklubb	https://skaraibk.sportadmin.se/	idrottsförening,innebandyklubb	
+1231145903	892600-7736	Bräcke Sportklubb	https://brackesportklubb.se/	fotbollsklubb,idrottsförening	
 1231146190	814400-2899	Väddö IF	https://www.vaddoif.se/	fotbollsklubb,idrottsförening	P/F-1516
 1231146281	875001-6894	Örebro SK Ungdom	https://www.oskungdom.se/	bandyklubb,idrottsförening	B-P07/08
 1231146414	802536-7262	Trosa bridgesällskap	https://svenskbridge.se/trosa-bs	bridgeklubb	
@@ -5883,6 +5885,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232223212	857202-3607	Elimförsamlingen Styrsö	https://www.styrsopingst.se/	religion	
 1232223535	631122-XXXX	Gongiversum Sadhana Yoga & meditationsskola i Motala / Ildiko Kasza	https://www.gongiversum.com/	meditation,yoga	
 1232223766	882600-4569	Forssa BK	https://www.svenskalag.se/forssabk	fotbollsklubb,idrottsförening	
+1232225670	802421-5488	Töreboda LRF	https://www.lrf.se/regioner/vastra-gotaland/kommunavdelningar/toreboda/	intresseförening	
 1232226520	802421-6445	Växjö Squashklubb	https://www.svenskalag.se/vaxjosquashklubb	idrottsförening,squashklubb	
 1232226926	802477-4732	Islamiska Stiftelse i Skärholmen	https://www.smmu.se/	religion	Stockholm Mevlana Moské & Utbildningscenter
 1232226934	858500-2739	Saronhuset i Uddevalla	https://www.saronhuset.se/	hjälporganisation,religion	
@@ -8431,6 +8434,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233208055	556844-1439	Farsta Ridskola AB	https://farstaridskola.myclub.se/	hästsport,ridskola	
 1233208063	802521-8309	BK-Öster Katrineholm	https://www.svenskalag.se/bkoster	boxningsklubb,idrottsförening	
 1233208220	802447-6874	Linköpnings Nämndemannaförening	https://linkoping.nmrf.se/	förening	
+1233208725	802463-5271	Nordiska Lutherhjälpen	https://nordiclutheraid.org/	hjälporganisation	
 1233210986	838201-8268	Rotary Kristianstad-Hammarshus	https://kristianstad-hammarshus.rotary2395.se/	rotaryklubb	
 1233211232	889200-5870	Timrå IK	https://www.timraik.se/	idrottsförening,ishockeyklubb	
 1233212198	867200-4119	Fröjereds IF	https://www.frojeredsif.se/	idrottsförening	
@@ -15333,6 +15337,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235952585	802404-8707	Fasterna Hembygdsförening	https://www.hembygd.se/fasterna	hembygdsförening	
 1235952635	556821-3770	Tomelilla Golf	https://www.tomelillagolf.se/	golfklubb	
 1235953088	817607-1135	Skinnsbergs Atletklubb	https://skinnsbergsak.se/	friskvård,gym,idrottsförening,styrketräning	
+1235953302	802460-5803	Härnösands Alpina Klubb	https://harnosandsalpina.se/	alpinklubb,idrottsförening	
 1235953419	252004-8774	Örgryte Pastorat	https://www.svenskakyrkan.se/orgryte	religion	Kollekt Skårs Kyrka
 1235953492	817605-6144	PRO Bälinge	https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-uppsala/foreningar/balinge.html	pensionärsklubb	
 1235953518	866000-6662	Mariestads Astronomiska Klubb, MAK	https://www.makastro.se/	astronomi,intresseförening	
@@ -15964,6 +15969,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236182745	556582-6756	Rammakarna på Östermalm AB	https://www.skenor.se/	försäljning,galleri	
 1236184329	898800-5214	Svenska Brukshundklubben Övre Norrlands Distikt	https://brukshundklubben.se/sbk-ovre-norrlands-distrikt/	brukshundklubb,hundsport	
 1236184360	802467-7182	Astronomisk Ungdom, AU	https://www.astronomiskungdom.se/	astronomi,intresseförening	
+1236184543	802515-3266	Grekiska Gatuhundar	https://grekiskagatuhundar.com/	djurskydd,hundhem	
 1236184766	802516-6565	Bodenalternativet	https://bodenalternativet.se/	politiskt parti	
 1236185011	886500-5758	Edsbyns Gymnastikförening	https://www.facebook.com/edsbygympan	gymnastikförening,idrottsförening	
 1236185045	825001-6733	Orienteringsklubben Denseln	https://denseln.kanslietonline.se/	idrottsförening,orienteringsklubb	
@@ -16369,6 +16375,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236346811	814400-9282	Sättraby Bygdegårdsförening	https://bygdegardarna.se/sattraby/	bygdegårdsförening	
 1236346860	817601-5587	Uppsala PonnyKlubb, UPK	https://www.uppsalaponnyklubb.se/	hästsport,ridsport	Strölektioner, trailerhyra, barnridning, ridbanehyra
 1236346886	212000-0092	Tyresö Kommun	https://www.tyreso.se/	barnverksamhet,parkour,ungdomsverksamhet	Tyresö fritidsgårdars parkour
+1236346936	889201-1142	Medelpads Dövas Förening	https://www.mdfkotte.se/	hörselnedsättning,intresseförening	
 1236347124	516409-8757	Unity Line Ltd. Filial Sverige	https://www.unityline.se/	färjetrafik,passagerar transport	
 1236347140	802490-8231	Svenska Agilityklubben	https://vaxjoagility.wordpress.com/	agilityklubb,hundsport	Växjö
 1236347397	556607-4406	MTM Stockholms Möbeltransport AB	https://www.mtmab.se/	flyttfirma,transporttjänst	
@@ -16671,6 +16678,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236471817	212000-2023	Skinnskattebergs Kommun	https://www.skinnskatteberg.se/	kommun	Lokalhyra
 1236472559	872000-7270	Reumatikerföreningen Arvika	https://arvika.reumatiker.se/	patientförening,reumatikerförening	
 1236473797	802542-8775	Västerås Pickels HC	https://www.svenskalag.se/vasteraspickelshc	idrottsförening,ishockeyklubb	
+1236473839	876400-0199	Degerfors IF	https://degerforsif.se/	fotbollsklubb,idrottsförening	
 1236475081	802532-9916	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Lund, Hagalundskolan
 1236475099	802535-4211	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Kalmar län, Lindsdalsskolan
 1236475180	802420-4094	Sportfiske Klubben Tobis	https://www.sfktobis.se/	fiskeklubb,sportfiskeklubb	
@@ -18449,6 +18457,7 @@ entry	orgNumber	orgName	web	categories	comment
 1239009697	802005-7926	Riksföreningen Aktiva Synskadade	https://www.aktivasynskadade.org/	insamlingskontroll	
 1239009754	802480-6807	Insamlingsstiftelsen Matchen mot cancer	https://matchenmotcancer.se/	insamlingskontroll	
 1239009796	857200-8244	Stiftelsen Jubileumsklinikens Forskningsfond Mot Cancer	https://www.jubileumsklinikenscancerfond.se/	donation,forskning,insamlingskontroll,stiftelse	
+1239009853	802408-7325	Svenska Glaukomförbundet	https://glaukomforbundet.se/	anhörigorganisation,insamlingskontroll,patientförening	
 1239009895	802406-2559	Föräldralösa barn, Insamlingsstiftelse	https://www.foraldralosabarn.se/	donation,godkänd gåvomottagare,insamlingskontroll,stiftelse	
 1239009903	802000-8184	EFS - Evangeliska Fosterlandsstiftelsen	https://www.efs.nu/	donation,godkänd gåvomottagare,insamlingskontroll,religion,stiftelse,välgörenhet	
 1239010000	802010-4462	Riksförbundet Föräldraföreningen mot Narkotika, FMN Riks	https://www.fmn.se/	insamlingskontroll,riksförbund	
