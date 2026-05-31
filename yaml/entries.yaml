@@ -16329,6 +16329,14 @@ entries:
   - samfällighetsförening
   web: https://holsljungafiber.se/
 
+- entry: 1230600858
+  orgName: Överhogdals Hembygdsförening
+  orgNumber: 893201-5137
+  comment: null
+  categories:
+  - hembygdsförening
+  web: https://hogdalsbygden.se/overhogdals-hembygdsforening/
+
 - entry: 1230601773
   orgName: Kyrktornets Stiftelse
   orgNumber: 802478-1323
@@ -24065,6 +24073,14 @@ entries:
   - förlag
   - försäljning
   web: https://www.dibbforlag.se/
+
+- entry: 1230869974
+  orgName: Föreningen Lärare i Samhällskunskap, FLS
+  orgNumber: 846502-0124
+  comment: null
+  categories:
+  - yrkesförening
+  web: https://flsriks.wordpress.com/
 
 - entry: 1230870444
   orgName: Västerås Pastorat
@@ -36944,6 +36960,14 @@ entries:
   categories:
   - religion
   web: https://holsbyfrikyrka.se/
+
+- entry: 1231388909
+  orgName: Uppsala Skolschacksällskap
+  orgNumber: 802428-0938
+  comment: null
+  categories:
+  - schackklubb
+  web: https://usss.se/
 
 - entry: 1231388982
   orgName: Svenska Alliansmissionen
@@ -76588,6 +76612,15 @@ entries:
   - orienteringsklubb
   web: https://www.svenskalag.se/kgoif-veteraner
 
+- entry: 1233018041
+  orgName: Sörby Idrottsklubb
+  orgNumber: 872800-2356
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.facebook.com/groups/436857789732904/
+
 - entry: 1233018439
   orgName: Insamlingsstiftelsen Sverige-Ukraina
   orgNumber: 802482-2572
@@ -81874,6 +81907,14 @@ entries:
   - idrottsförening
   - löparklubb
   web: https://gallivareendurance.se/
+
+- entry: 1233220142
+  orgName: Ärteråsens Kulturförening
+  orgNumber: 802468-7918
+  comment: null
+  categories:
+  - kulturförening
+  web: https://www.arterasen.se/
 
 - entry: 1233220282
   orgName: Brattby-Gubböle IF
@@ -88159,6 +88200,14 @@ entries:
   - idrottsförening
   web: https://www.iflinnea.se/
 
+- entry: 1233476819
+  orgName: Omställning Hudiksvall
+  orgNumber: 802469-1498
+  comment: null
+  categories:
+  - kulturförening
+  web: https://maps.transitionnetwork.org/sv/group/omstallning-hudiksvall/
+
 - entry: 1233477015
   orgName: Löderups Byalag
   orgNumber: 802418-8446
@@ -94270,6 +94319,15 @@ entries:
   categories:
   - restaurant
   web: https://limone.se/
+
+- entry: 1233724937
+  orgName: Ulum Dalska
+  orgNumber: 802438-7287
+  comment: null
+  categories:
+  - intresseförening
+  - kulturförening
+  web: https://www.ulumdalska.se/
 
 - entry: 1233727815
   orgName: Flens Filmstudio
@@ -101890,6 +101948,15 @@ entries:
   - sång
   web: https://www.lidija.se/
 
+- entry: 1234046470
+  orgName: Mr Mattias English School Kambodja
+  orgNumber: 802537-7949
+  comment: null
+  categories:
+  - utbildning
+  - välgörenhet
+  web: https://english4free.weebly.com/svenska.html
+
 - entry: 1234047205
   orgName: Ulricehamns Församling
   orgNumber: 252001-7274
@@ -102029,6 +102096,15 @@ entries:
   - discgolfklubb
   - idrottsförening
   web: https://www.svenskalag.se/varnamofrisbeeclub
+
+- entry: 1234055919
+  orgName: Jonstorps Tennisklubb
+  orgNumber: 802472-5874
+  comment: null
+  categories:
+  - idrottsförening
+  - tennisklubb
+  web: https://www.jonstorptennis.se/
 
 - entry: 1234055950
   orgName: Bohuslän-Dals Stövarklubb, BDSK
@@ -122619,6 +122695,15 @@ entries:
   - konstförening
   web: https://lindesberg.konstforeningar.se/
 
+- entry: 1235004940
+  orgName: Turteatern
+  orgNumber: 16417-6443
+  comment: null
+  categories:
+  - kulturförening
+  - teater
+  web: https://turteatern.se/
+
 - entry: 1235005137
   orgName: Kristus Konungens Institut i Sverige
   orgNumber: 252004-9863
@@ -137063,6 +137148,16 @@ entries:
   - idrottsförening
   web: https://www.flurkmarksik.se/
 
+- entry: 1235553508
+  orgName: Lilla Hjärtat Vänförening
+  orgNumber: 802529-9713
+  comment: Medlemsavgift
+  categories:
+  - hjälporganisation
+  - sociala insatser
+  - vänförening
+  web: https://www.lillahjartat.com/
+
 - entry: 1235556220
   orgName: Repbäckens Bygdegård
   orgNumber: 882602-0011
@@ -138706,7 +138801,7 @@ entries:
   web: https://nordupplandskyrkan.se/
 
 - entry: 1235615216
-  orgName: Sollefteå HK
+  orgName: Sollefteå Hockeyklubb
   orgNumber: 888800-4606
   comment: null
   categories:
@@ -153164,6 +153259,15 @@ entries:
   - säkerhetsutrustning
   web: https://vasbylas.se/
 
+- entry: 1236196505
+  orgName: Rasklubben för Belgiska Vallhundar
+  orgNumber: 802410-0318
+  comment: null
+  categories:
+  - hundklubb
+  - rashundsklubb
+  web: https://afbv.se/
+
 - entry: 1236196901
   orgName: Långvinds Kapellförening
   orgNumber: 887501-5094
@@ -166403,6 +166507,15 @@ entries:
   - patientförening
   web: https://www.celiaki.se/foreningar/gotlands-lan/
 
+- entry: 1236744858
+  orgName: Gällivare Kommun
+  orgNumber: 212000-2726
+  comment: Kultur
+  categories:
+  - kommun
+  - kultur
+  web: https://gallivare.se/
+
 - entry: 1236744999
   orgName: Bankeryds SK
   orgNumber: 826000-0180
@@ -168526,6 +168639,17 @@ entries:
   - bouleklubb
   - idrottsförening
   web: https://www.svenskalag.se/piteabouleklubb
+
+- entry: 1236824569
+  orgName: IF Silverstadens Kampsportscenter
+  orgNumber: 802453-1520
+  comment: null
+  categories:
+  - idrottsförening
+  - kampsportsförening
+  - muaythaiklubb
+  - thaiboxningsklubb
+  web: https://ifskc.se/
 
 - entry: 1236824619
   orgName: Göteborgs Dövas Förening
