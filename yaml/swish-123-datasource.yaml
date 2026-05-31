@@ -8563,6 +8563,18 @@ entries:
   - opinionsbildning
   web: https://mrrs.se/
 
+- entry: 1230365007
+  orgName: Kättinge IF
+  orgNumber: 825000-2246
+  comment: null
+  categories:
+  - bordtennisklubb
+  - fotbollsklubb
+  - idrottsförening
+  - innebandyklubb
+  - motionsklubb
+  web: https://www.svenskalag.se/kattingeif
+
 - entry: 1230365189
   orgName: Rabiat Motor
   orgNumber: 802413-7724
@@ -23809,6 +23821,18 @@ entries:
   - religion
   web: https://equmeniakyrkanvase.se/
 
+- entry: 1230985432
+  orgName: Emmaboda Verda Orienteringsklubb
+  orgNumber: 832400-0820
+  comment: null
+  categories:
+  - cykelklubb
+  - idrottsförening
+  - löparklubb
+  - orienteringsklubb
+  - skidlöparklubb
+  web: https://evok.se/
+
 - entry: 1230985549
   orgName: Gällivare SK
   orgNumber: 897900-0109
@@ -31485,6 +31509,15 @@ entries:
   - hembygdsförbund
   web: https://www.hembygd.se/roma
 
+- entry: 1231322775
+  orgName: Höglands Hembygdsförening Byalaget
+  orgNumber: 896100-4812
+  comment: null
+  categories:
+  - byalag
+  - hembygdsförening
+  web: https://www.facebook.com/groups/987653764589412/
+
 - entry: 1231323047
   orgName: Svedjeholmen IF
   orgNumber: 889600-7575
@@ -33324,6 +33357,15 @@ entries:
   categories:
   - pensionärsklubb
   web: https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-seniorerna-tinnerbacken-linkoping/
+
+- entry: 1231397306
+  orgName: Träningsbubblan IK
+  orgNumber: 802543-7123
+  comment: null
+  categories:
+  - idrottsförening
+  - träning
+  web: https://www.traningsbubblan.nu/
 
 - entry: 1231397702
   orgName: Öjebyns IBF
@@ -48664,6 +48706,15 @@ entries:
   - bouleklubb
   - idrottsförening
   web: https://www.svenskalag.se/sorbyangensbk
+
+- entry: 1232064251
+  orgName: Töcksfors IF
+  orgNumber: 874400-2893
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.laget.se/tocksforsif1
 
 - entry: 1232064962
   orgName: Dellenbygdens Pastorat
@@ -89312,6 +89363,16 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/oxelosund
 
+- entry: 1233796547
+  orgName: Jälla Hästsportförening
+  orgNumber: 817605-9361
+  comment: null
+  categories:
+  - hästklubb
+  - hästsport
+  - ridklubb
+  web: https://www.facebook.com/jalla.hastsportforening/
+
 - entry: 1233796687
   orgName: Södra Ölands Pastorat
   orgNumber: 252003-8874
@@ -114804,7 +114865,7 @@ entries:
 
 - entry: 1235004940
   orgName: Turteatern
-  orgNumber: 16417-6443
+  orgNumber: 716417-6443
   comment: null
   categories:
   - kulturförening
@@ -116684,6 +116745,14 @@ entries:
   - motionsklubb
   - tennisklubb
   web: https://www.fristadgoif.se/
+
+- entry: 1235102017
+  orgName: Banafjäls Intresseförening
+  orgNumber: 889600-9688
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.facebook.com/banafjalsintresseforening/
 
 - entry: 1235102181
   orgName: Barva IF
@@ -157416,6 +157485,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/vetlanda
+
+- entry: 1236776272
+  orgName: KFUM Heby
+  orgNumber: 802514-4471
+  comment: null
+  categories:
+  - religion
+  - ungdomsverksamhet
+  web: https://kfumheby.se/
 
 - entry: 1236776280
   orgName: ÖGK Kultur & Fritid
