@@ -78,9 +78,16 @@ Initiativet startades medan huvudet var fullt med snor och lätt febrig, 2021-12
 
 
 
-### TODO:
+### Tester
 
-* Skapa script för QA-kontroller av information (saknade eller felaktigt formatterade uppgifter)
+Våra listor innehåller strax över 18000 swish-nummer, för att verifiera dessa kan vi göra en rad kontroller för att säkra så långt vi kan att det är giltiga nummer:
+
+* 10 siffror
+* de första 3 är '123'
+* att de 3 efter prefixet är inom intervallen '000' till '699' samt '900' till '909'
+* kontrollräkna genom Luhn-10 metoden - samma som används för Plusgiro.
+
+
 
 
 
