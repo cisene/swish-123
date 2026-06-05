@@ -44,6 +44,7 @@ git add ../text/swish-123-datasource.tsv
 git add ../xml/swish-123-datasource.xml
 git add ../yaml/masterdata-organisations.yaml
 git add ../yaml/masterdata-varningslistan.yaml
+git add ../yaml/masterdata-skatteverket-godkända-gåvomottagare.yaml
 
 
 # Commit changes with message
