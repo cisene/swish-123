@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-06-03-rev-213222
+# Date: 2026-06-05-rev-225056
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -142,7 +142,7 @@
 "1230054254","802421-7195","Robertsfors Golfklubb","https://www.robertsforsgk.se/","golfbana,golfklubb",""
 "1230054718","879000-2060","Fagersta Södra IK","https://www.laget.se/FSIK/","fotbollsklubb,idrottsförening","P08"
 "1230054932","252002-6531","Romersk-Katolska Kyrkan","https://kpn.se/","religion",""
-"1230055160","802426-0229","Familjen Einhorns Stiftelse","https://einhornfoundation.wordpress.com/","stiftelse",""
+"1230055160","802426-0229","Familjen Einhorns Stiftelse","https://einhornfoundation.wordpress.com/","godkänd gåvomottagare,stiftelse",""
 "1230055194","802444-9905","Alingsås Krav Maga IF","https://www.kravmagavast.se/","idrottsförening,kampsportsförening,krav maga",""
 "1230055418","802444-8295","Svenska Vorstehklubben","https://www.vorsteh.se/lokalavdelningar/svk-vasterbotten/","hundklubb,hundsport","Västerbottensektionen"
 "1230056184","802544-9607","Malmö Pickleball Klubb","https://malmopickleball.com/","idrottsförening,pickleballklubb",""
@@ -472,7 +472,7 @@
 "1230190702","849400-9528","Aktiva Seniorer Kungsbacka","https://kungsbacka.aktivaseniorer.com/","pensionärsklubb",""
 "1230190876","252003-0095","Märsta Pastorat","https://www.svenskakyrkan.se/marsta","religion","Kollekt Skepptuna Kyrka"
 "1230190892","252005-0283","Tollarps Församling","https://www.svenskakyrkan.se/tollarp","religion","Kollekt Västra Vrams Kyrka"
-"1230191023","802508-0469","Bara vanlig hälsa","https://baravanlig.se/","friskvård,funktionsnedsättning,funktionsvariation",""
+"1230191023","802508-0469","Bara vanlig hälsa","https://baravanlig.se/","friskvård,funktionsnedsättning,funktionsvariation,godkänd gåvomottagare",""
 "1230191742","897000-3623","Lions Club Luleå","https://e-clubhouse.org/sites/lulea/","lionsklubb",""
 "1230191858","719500-1230","Stallarholmens Båtklubb","https://www.stallarholmensbatklubb.se/","båtklubb,båtsällskap",""
 "1230191981","814800-7738","Runby IF","https://www.svenskalag.se/runbyif","fotbollsklubb,idrottsförening",""
@@ -12956,7 +12956,7 @@
 "1235084637","802534-5938","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby","Nödinge, Nödingeskolan"
 "1235084868","802533-7653","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby","Jönköping, Österängsskolan"
 "1235086871","898500-4269","Bodens Diakonifond","https://www.svenskakyrkan.se/boden","religion",""
-"1235087408","802480-6807","Matchen Mot Cancer","https://www.matchenmotcancer.se/","cancer,forskning,förening",""
+"1235087408","802480-6807","Matchen Mot Cancer","https://www.matchenmotcancer.se/","cancer,forskning,förening,godkänd gåvomottagare",""
 "1235087549","559042-9352","Dagens ETC AB","https://www.etc.se/","mediaproduktion",""
 "1235087622","878002-1112","Hamre Scoutkår","https://www.hamre.se/","scoutkår",""
 "1235087713","814800-3596","Upplands Väsby JK","https://www.svenskalag.se/upplandsvasbyjk","idrottsförening,judoklubb,kampsportsförening",""
@@ -18368,7 +18368,7 @@
 "1239006073","802409-7639","Stödföreningen för Barbro Johanssons fond för utbildning av flickor i Tanzania, JOHAfonden","https://www.johafonden.com/","insamlingskontroll",""
 "1239006081","857209-1422","Prostatacancerförbundet","https://www.prostatacancerforbundet.se/","godkänd gåvomottagare,insamlingskontroll,prostatacancer",""
 "1239006099","802002-8133","RFSU Insamlingsstiftelse","https://www.rfsu.se/","donation,insamlingskontroll,stiftelse,välgörenhet",""
-"1239006149","802426-0229","Familjen Einhorns Stiftelse","https://www.einhornfoundation.se/","donation,insamlingskontroll,stiftelse",""
+"1239006149","802426-0229","Familjen Einhorns Stiftelse","https://www.einhornfoundation.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse",""
 "1239006206","802012-9386","TV Inter Club","https://www.tvinter.se/","insamlingskontroll",""
 "1239006248","802480-2558","Loza Foundation Insamlingsstiftelse","https://www.lozafoundation.org/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse",""
 "1239006263","802000-3292","Svenska Bibelsällskapet","https://www.bibelsallskapet.se/","insamlingskontroll,religion",""
@@ -18451,7 +18451,7 @@
 "1239008038","802006-1704","Riksförbundet FUB","https://www.fub.se/","insamlingskontroll",""
 "1239008079","802002-8711","Svenska Röda Korsets Centralstyrelse","https://www.rodakorset.se/","godkänd gåvomottagare,hjälporganisation,insamlingskontroll,rödakorset,ukraina","Röda Korsets arbete i Ukraina"
 "1239008095","802002-8711","Svenska Röda Korsets Centralstyrelse","https://www.rodakorset.se/","godkänd gåvomottagare,hjälporganisation,insamlingskontroll,rödakorset",""
-"1239008137","802481-8935","Insamlingsstiftelsen Human Practice Foundation Sweden","https://www.humanpractice.org/country-se/","donation,insamlingskontroll,stiftelse",""
+"1239008137","802481-8935","Insamlingsstiftelsen Human Practice Foundation Sweden","https://www.humanpractice.org/country-se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse",""
 "1239008160","802491-8990","Nya Kompisbyrån","https://www.nyakompisbyran.se/","insamlingskontroll",""
 "1239008178","802460-9284","TjejJouren Väst","https://www.tjejjourenvast.se/","donation,godkänd gåvomottagare,insamlingskontroll,kvinnojour",""
 "1239008194","802482-2077","Stiftelsen Hospice Östergötland","https://www.hospiceostergotland.se/","donation,insamlingskontroll,stiftelse",""
@@ -18494,7 +18494,7 @@
 "1239009283","827500-4789","Insamlingsstiftelsen Erikshjälpen, Farbror Eriks barn- och hjälpverksamhet","https://www.erikshjalpen.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse,välgörenhet",""
 "1239009325","802005-7512","Astma- och Allergiförbundet","https://www.astmaoallergiforbundet.se/","godkänd gåvomottagare,insamlingskontroll","Blomsterfonden"
 "1239009697","802005-7926","Riksföreningen Aktiva Synskadade","https://www.aktivasynskadade.org/","insamlingskontroll",""
-"1239009754","802480-6807","Insamlingsstiftelsen Matchen mot cancer","https://matchenmotcancer.se/","insamlingskontroll",""
+"1239009754","802480-6807","Insamlingsstiftelsen Matchen mot cancer","https://matchenmotcancer.se/","godkänd gåvomottagare,insamlingskontroll",""
 "1239009796","857200-8244","Stiftelsen Jubileumsklinikens Forskningsfond Mot Cancer","https://www.jubileumsklinikenscancerfond.se/","donation,forskning,insamlingskontroll,stiftelse",""
 "1239009853","802408-7325","Svenska Glaukomförbundet","https://glaukomforbundet.se/","anhörigorganisation,insamlingskontroll,patientförening",""
 "1239009895","802406-2559","Föräldralösa barn, Insamlingsstiftelse","https://www.foraldralosabarn.se/","donation,godkänd gåvomottagare,insamlingskontroll,stiftelse",""
