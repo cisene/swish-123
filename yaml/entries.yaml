@@ -486,6 +486,14 @@ entries:
   - riksförbund
   web: https://www.hjart-lung.se/foreningar/kronoberg/lokalforeningar/almhult/
 
+- entry: 1230014779
+  orgName: Krigshistoriepodden / Krigsdimma produktion AB
+  orgNumber: 559302-8763
+  comment: null
+  categories:
+  - podcast
+  web: https://www.krigshistoriepodden.com/
+
 - entry: 1230016246
   orgName: Värmland-Dals Bridgeförbund
   orgNumber: 874001-7176
@@ -9610,6 +9618,15 @@ entries:
   - skolloppet
   - team rynkeby
   web: https://www.team-rynkeby.se/
+
+- entry: 1230393793
+  orgName: Olivia Pizzeria / Norhan Handelsbolag
+  orgNumber: 969754-4485
+  comment: null
+  categories:
+  - pizzeria
+  - restaurant
+  web: https://www.oliviapizzeria.se/
 
 - entry: 1230393850
   orgName: Trollhättans FF
@@ -52058,6 +52075,15 @@ entries:
   - juridiska tjänster
   web: https://primalaw.se/
 
+- entry: 1232007995
+  orgName: Alwaras / Kolgrillen i Västerås AB
+  orgNumber: 559337-6972
+  comment: null
+  categories:
+  - kolgrill
+  - restaurant
+  web: null
+
 - entry: 1232010080
   orgName: Bostadsrättsföreningen Ulvsättra
   orgNumber: 713200-0964
@@ -75815,6 +75841,15 @@ entries:
   comment: null
   categories: null
   web: null
+
+- entry: 1232975050
+  orgName: Degerfors Idrottsförening
+  orgNumber: 876400-0199
+  comment: Tord Grip Academy Fund
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://degerforsif.se/
 
 - entry: 1232975373
   orgName: Njurunda Slöjdförening och Vävstugan
@@ -125001,6 +125036,15 @@ entries:
   - idrottsförening
   web: https://www.fyriscurling.se/
 
+- entry: 1235106950
+  orgName: Mockfjärds Bollklubb
+  orgNumber: 882600-6903
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/mockfjardsbk
+
 - entry: 1235106976
   orgName: Patholmvikens Båtklubb
   orgNumber: 894003-7107
@@ -164699,6 +164743,14 @@ entries:
   - barnverksamhet
   - ungdomsverksamhet
   web: https://www.4h.se/naturhjaltarna/
+
+- entry: 1236675516
+  orgName: Fässbergs Församling
+  orgNumber: 252002-5707
+  comment: ACT
+  categories:
+  - religion
+  web: https://www.svenskakyrkan.se/molndal/fassberg
 
 - entry: 1236675730
   orgName: Onsala Församling

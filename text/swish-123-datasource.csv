@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-06-05-rev-225545
+# Date: 2026-06-14-rev-210937
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -61,6 +61,7 @@
 "1230013979","802465-1252","Skapande Broderi Stockholm","https://www.skapandebroderi.se/","broderi,intresseförening,textil",""
 "1230014209","252004-1720","Ängelholms Församling","https://www.svenskakyrkan.se/angelholm","religion,ukraina","Ukraina, Zaporizjzja"
 "1230014357","829000-7551","Riksförbundet HjärtLung","https://www.hjart-lung.se/foreningar/kronoberg/lokalforeningar/almhult/","anhörigorganisation,intresseförening,patientförening,riksförbund","Älmhult"
+"1230014779","559302-8763","Krigshistoriepodden / Krigsdimma produktion AB","https://www.krigshistoriepodden.com/","podcast",""
 "1230016246","874001-7176","Värmland-Dals Bridgeförbund","https://www.svenskbridge.se/värmland-dals-bf","bridgeförbund,bridgeklubb",""
 "1230017087","898500-6397","Norrbottens Motorsällskap, NMS Boden","https://nmsboden.se/","motorklubb,motorsport",""
 "1230017137","802505-8408","Piteå Idrottsförening","https://piteaif.sportadmin.se/","fotbollsklubb,idrottsförening",""
@@ -1047,6 +1048,7 @@
 "1230392142","969650-4647","Yoga i Hagen / Male & Female Production HB","https://www.yogaihagen.se/","massage,yoga",""
 "1230392191","802476-4840","Laurentii Gille i Eksjö","https://laurentiigille.se/","historieförening,intresseförening",""
 "1230392217","252004-7404","Hudiksvallsbygdens Församling","https://www.svenskakyrkan.se/hudiksvallsbygden","religion",""
+"1230393793","969754-4485","Olivia Pizzeria / Norhan Handelsbolag","https://www.oliviapizzeria.se/","pizzeria,restaurant",""
 "1230393850","802527-3015","Trollhättans FF","https://www.svenskalag.se/trollhattansfotboll","fotbollsklubb,idrottsförening",""
 "1230393926","867800-2729","Falbygdens Häststportsförening","https://falbygdenshf.se/","hästsport,ridskola,ridsport",""
 "1230393983","530111-XXXX","Citrus Advokatbyrå","https://cadvokat.se/","advokatbyrå,juridiska tjänster",""
@@ -5325,6 +5327,7 @@
 "1232006963","877101-1056","Nora Biologiska Förening","https://www.norabf.se/","intresseförening,naturskydd,naturvård",""
 "1232007201","556105-5798","Nässjö Trafikskola AB","https://www.nassjotrafikskola.se/","trafikskola",""
 "1232007516","559374-3783","Advokatbyrå Prima AB","https://primalaw.se/","advokatbyrå,juridiska tjänster",""
+"1232007995","559337-6972","Alwaras / Kolgrillen i Västerås AB","","kolgrill,restaurant",""
 "1232010080","713200-0964","Bostadsrättsföreningen Ulvsättra","https://brfulvsattra.bostadsratterna.se/","bostadsrättsförening",""
 "1232010445","832400-0085","Alsterbro IF","https://alsterbroif.se/","förening,idrottsförening",""
 "1232011104","802499-8067","Föreningen End Ecocide","https://endecocide.se/","förening,naturvård",""
@@ -7834,6 +7837,7 @@
 "1232969343","884401-7098","Norra Venjans Hembygdsförening","https://venjan.se/medlemsavgifter-foreningar-2026/","hembygdsförening",""
 "1232969426","802532-7506","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby","Ängelholm, Söndrebalg skola"
 "1232969947","769638-2931","Fembyarna förening","https://www.fembyarna.se/","intresseförening",""
+"1232975050","876400-0199","Degerfors Idrottsförening","https://degerforsif.se/","fotbollsklubb,idrottsförening","Tord Grip Academy Fund"
 "1232975373","889201-5374","Njurunda Slöjdförening och Vävstugan","https://www.vavstugannjurunda.se/","intresseförening,slöjdförening",""
 "1232975449","802003-3224","Svensk-Norska Föreningen, SNF","https://www.svensknorska.se/","intresseförening",""
 "1232975555","894701-6518","Demensföreningen i Skellefteå","https://www.demensforbundet.se/vart-uppdrag/ideellt-arbete/lokala-demensforeningar/vasterbottens-lan/skelleftea/","anhörigorganisation,patientförening",""
@@ -13019,6 +13023,7 @@
 "1235106349","802473-4959","Föreningen Björndammens Masugn","https://bjorndammensmasugn.se/","intresseförening,kulturförening",""
 "1235106471","882000-2510","Stjärnsunds AIF, SAIF","https://www.stjernsund.com/","fotbollsklubb,idrottsförening,innebandyklubb,skidlöparklubb,skridskoklubb",""
 "1235106851","817600-1579","IK Fyris Uppsala","https://www.fyriscurling.se/","curlingklubb,idrottsförening","Curling"
+"1235106950","882600-6903","Mockfjärds Bollklubb","https://www.svenskalag.se/mockfjardsbk","fotbollsklubb,idrottsförening",""
 "1235106976","894003-7107","Patholmvikens Båtklubb","https://www.pvbk.net/","båtklubb,båtsällskap",""
 "1235107206","853300-0421","IK Kongahälla","https://www.laget.se/IKKongahalla/","fotbollsklubb,idrottsförening",""
 "1235107362","802524-6748","Löparnas Vänner IF","https://loparnasvanner.se/","idrottsförening,löparklubb",""
@@ -17219,6 +17224,7 @@
 "1236675276","802525-9261","Rotary Trollhättan","https://www.trollhattanrk.se/","rotaryklubb",""
 "1236675409","887501-1408","Hassela Jakt & Sportskytteklubb","https://www.svenskalag.se/hasselajsk","jaktskytteklubb,skytteklubb,sportskytteklubb",""
 "1236675474","802471-0264","Björkmuren 4H-gård / Naturhjältarnas 4H-klubb","https://www.4h.se/naturhjaltarna/","4hklubb,barnverksamhet,ungdomsverksamhet",""
+"1236675516","252002-5707","Fässbergs Församling","https://www.svenskakyrkan.se/molndal/fassberg","religion","ACT"
 "1236675730","252001-4396","Onsala Församling","https://www.svenskakyrkan.se/onsala","religion","Kollekt"
 "1236675854","202100-2932","Uppsala Universitet","https://www.uu.se/","stipendium,utbildning","Internationella Stipendiefond"
 "1236676316","813200-1788","Järfälla Basket","https://www.laget.se/JBBK/","basketbollklubb,idrottsförening",""
