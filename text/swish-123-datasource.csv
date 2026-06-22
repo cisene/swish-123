@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-06-14-rev-210937
+# Date: 2026-06-22-rev-220719
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -1307,7 +1307,7 @@
 "1230484170","862500-7706","Korpen Vänersborg","https://www.korpen.se/korpenvanersborg","idrottsförening,korpenförening",""
 "1230484501","858500-6425","Orust Ridklubb","https://www.orustridklubb.nu/","hästsport,ridklubb",""
 "1230484758","252005-0721","Rommele Församling","https://www.svenskakyrkan.se/rommele","religion",""
-"1230484881","802004-6044","Föräldraföreningen Mot Narkotika Storstockholm, FMN","https://fmn-sthlm.se/","föräldraförening",""
+"1230484881","802004-6044","Föräldraföreningen Mot Narkotika Storstockholm, FMN","https://fmn-sthlm.se/","föräldraförening,godkänd gåvomottagare",""
 "1230484923","802452-8237","Djurskyddet Bill & Bull i Söderhamn","https://www.djurskyddet.se/billochbull/","djurskydd,intresseförening",""
 "1230485136","817601-4184","Uppsala Dykarklubb Tumlaren, UDKT","https://tumlaren.org/","dykarklubb,dykning",""
 "1230485573","848000-8575","Ystads Frivillige Bergnings-Corps, Ystads FBC","https://www.ystadsfbc.se/","intresseförening",""
@@ -1960,6 +1960,7 @@
 "1230751123","813200-4923","Viksjö Scoutkår","https://viksjo.scout.se/","scoutkår",""
 "1230751420","802533-3124","Markstridsskolans Kamratförening, MSS","https://www.facebook.com/groups/5488122044593057/","kamratförening",""
 "1230751487","556778-2882","Sportfiskebolaget / Sportfiske & VVS Bolaget i Hässleholm AB","https://www.sportfiskebolaget.se/","försäljning,sportfiske,utrustning",""
+"1230751842","815200-5123","Socialmedicinsk Tidskrift, SMT","https://socialmedicinsktidskrift.se/","stiftelse,tidsskrifter",""
 "1230752303","252002-8685","S:t Nikolai Katolska Församling","https://www.sanktnikolai.se/","religion","Kollekt"
 "1230752329","837001-3008","GynCancerförbundet","https://gyncancerforbundet.se/","anhörigorganisation,cancerförening,gynekologisk cancer,patientförening",""
 "1230752436","845000-6617","Lundabygdens Dövas Förening","https://www.facebook.com/LundabygdensDF/","döv,hörselnedsättning",""
@@ -6264,6 +6265,7 @@
 "1232328714","802013-8858","Adopterade Koreaners Förening Stockholm, AKF","https://akf.nu/","intresseförening",""
 "1232328755","818500-3202","Valla Idrottsförening","https://vallaidrottsforening.se/","bouleklubb,fotbollsklubb,idrottsförening,volleybollklubb",""
 "1232329027","849200-1576","Immanuelskyrkan Halmstad","https://immanuelskyrkan.org/","religion",""
+"1232329167","556758-1086","Access Rehab","https://www.accessrehab.se/","fysioterapeut,idrottsmassage,kiropraktor,naprapat,rehabilitering,sjukgymnast",""
 "1232329290","252000-3076","Torshälla Församling","https://www.svenskakyrkan.se/torshalla","religion","Fairtrade"
 "1232329647","802493-0201","Harley Owners Group, HOG","https://www.hogsweden.se/hog-jarvsochapter","motorcykelklubb","Järvsö Chapter"
 "1232329860","769627-3411","Dalbackens Friskola i Hemmingsmark","https://www.dalbacken.se/","friskola",""
@@ -9286,6 +9288,7 @@
 "1233514536","849600-2331","Väröbacka GIF","https://varobackagif.se/","fotbollsklubb,idrottsförening",""
 "1233514684","802452-3493","Rotary Saltsjöbaden","https://saltsjobaden.rotary2405.se/","rotaryklubb",""
 "1233515020","832800-7706","Gustaf Ulfsparres Stiftelse","https://gustiftelse.se/","donation,stiftelse",""
+"1233515152","817601-9928","Liberalerna","https://uppsalalan.liberalerna.se/","politiskt parti","Uppsala Län"
 "1233515277","889200-5870","Timrå IK","https://www.timraik.se/","idrottsförening,ishockeyklubb",""
 "1233515392","849200-5494","Alets IK","https://www.laget.se/AletsIK/","fotbollsklubb,idrottsförening",""
 "1233515400","862000-9350","Munskänkarna","https://www.munskankarna.se/sv/regioner/sydvastra/ulricehamn/","munskänkarna,vinprovning","Ulricehamn"

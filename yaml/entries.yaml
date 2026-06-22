@@ -12775,6 +12775,7 @@ entries:
   comment: null
   categories:
   - föräldraförening
+  - godkänd gåvomottagare
   web: https://fmn-sthlm.se/
 
 - entry: 1230484923
@@ -20788,6 +20789,15 @@ entries:
   - sportfiske
   - utrustning
   web: https://www.sportfiskebolaget.se/
+
+- entry: 1230751842
+  orgName: Socialmedicinsk Tidskrift, SMT
+  orgNumber: 815200-5123
+  comment: null
+  categories:
+  - stiftelse
+  - tidsskrifter
+  web: https://socialmedicinsktidskrift.se/
 
 - entry: 1230752303
   orgName: S:t Nikolai Katolska Församling
@@ -60968,6 +60978,19 @@ entries:
   - religion
   web: https://immanuelskyrkan.org/
 
+- entry: 1232329167
+  orgName: Access Rehab
+  orgNumber: 556758-1086
+  comment: null
+  categories:
+  - fysioterapeut
+  - idrottsmassage
+  - kiropraktor
+  - naprapat
+  - rehabilitering
+  - sjukgymnast
+  web: https://www.accessrehab.se/
+
 - entry: 1232329290
   orgName: Torshälla Församling
   orgNumber: 252000-3076
@@ -89498,6 +89521,14 @@ entries:
   - donation
   - stiftelse
   web: https://gustiftelse.se/
+
+- entry: 1233515152
+  orgName: Liberalerna
+  orgNumber: 817601-9928
+  comment: Uppsala Län
+  categories:
+  - politiskt parti
+  web: https://uppsalalan.liberalerna.se/
 
 - entry: 1233515277
   orgName: Timrå IK
