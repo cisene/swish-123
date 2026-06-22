@@ -85,7 +85,7 @@ organisations:
   location: Uppsala
 
 - orgNumber: 802002-7291
-  orgName: Mind (Föreningen psykisk hälsa)
+  orgName: Mind (Föreningen Psykisk Hälsa)
   issued: '2025-03-26'
   expires: null
   location: Stockholm
@@ -164,8 +164,8 @@ organisations:
 
 - orgNumber: 802004-6044
   orgName: FMN, Föräldraföreningen Mot Narkotika
-  issued: '2019-10-11'
-  expires: '2025-12-31'
+  issued: '2026-05-26'
+  expires: null
   location: Stockholm
 
 - orgNumber: 802005-0947
