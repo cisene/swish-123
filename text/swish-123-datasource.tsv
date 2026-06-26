@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-06-22-rev-220729
+# Date: 2026-06-26-rev-210116
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -10816,6 +10816,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234138897	897000-6758	Luleå Brukshundklubb	https://lulebk.nu/	brukshundklubb,hundsport	
 1234138905	875000-0773	Fjugesta IF	https://www.laget.se/Fjugesta_IF/	basketbollklubb,discgolfklubb,fotbollsklubb,friidrottsförening,gymnastikförening,idrottsförening	Friidrott
 1234138954	802472-0297	RPG Skåne-Blekinge Distriktet	https://rpg.org.se/foreningsprogram/skane-blekinge/	pensionärsklubb,religion	
+1234140174	810125-XXXX	Eastern Livs Indian & Pakistani grocery / Mazhar Syed	https://www.facebook.com/YourDesiShop/	försäljning,livsmedel	
 1234142253	802012-9725	PRO Solberga-Brännkyrka	https://pro.se/distrikt/stockholm/kommun/stockholm/pro-solberga-brannkyrka	pensionärsklubb	
 1234142709	802449-5585	Östhammars Shotokan Karateklubb	https://oskk.se/	idrottsförening,kampsportsförening,karateklubb	
 1234143764	802488-7799	Bowlingklubben Milan	https://liljeholm.net/bkmmobil/	bowlingklubb,idrottsförening	
