@@ -45929,6 +45929,15 @@ entries:
   - idrottsförening
   web: https://www.goteborgsstigcyklister.com/
 
+- entry: 1231745942
+  orgName: Anonyma Alkoholister, AA
+  orgNumber: 802012-6614
+  comment: null
+  categories:
+  - intresseförening
+  - patientförening
+  web: https://www.aa.se/
+
 - entry: 1231746296
   orgName: Uppsala PonnyKlubb, UPK
   orgNumber: 817601-5587
@@ -144451,6 +144460,15 @@ entries:
   - ukraina
   web: https://beetroot.co/aid-for-ukraine/
 
+- entry: 1235813647
+  orgName: Wä Idrottsförening
+  orgNumber: 838200-4342
+  comment: P10
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/waif
+
 - entry: 1235814918
   orgName: IFK Nyköping
   orgNumber: 819000-0672
@@ -171480,6 +171498,15 @@ entries:
   categories:
   - idrottsförening
   web: https://www.laget.se/norrahammarsik
+
+- entry: 1236907406
+  orgName: dBAkuten / Elofssons Försäljnings AB
+  orgNumber: 556693-0524
+  comment: null
+  categories:
+  - försäljning
+  - ljudsystem
+  web: https://dbakuten.se/
 
 - entry: 1236907430
   orgName: City Trafikskola i Sundbyberg AB

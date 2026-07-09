@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-06-29-rev-223438
+# Date: 2026-07-10-rev-013241
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -4675,6 +4675,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231745744	802439-9027	PRO Tyringe	https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-hassleholm/foreningar/tyringe.html	pensionärsklubb	
 1231745868	822001-4065	Cykelklubben Hymer	https://www.svenskalag.se/ckhymer	cykelklubb,idrottsförening	
 1231745918	802476-0509	Göteborgs Stigcyklister	https://www.goteborgsstigcyklister.com/	cykelklubb,idrottsförening	
+1231745942	802012-6614	Anonyma Alkoholister, AA	https://www.aa.se/	intresseförening,patientförening	
 1231746296	817601-5587	Uppsala PonnyKlubb, UPK	https://www.uppsalaponnyklubb.se/	hästsport,ridsport	Startavgifter Paj, PaR, PaWe, klubbtävling, cafeteria
 1231746437	928000-3220	Rydaholms SK	https://www.svenskalag.se/rydaholmssk	idrottsförening,ishockeyklubb	
 1231746510	845002-1939	Helsingkrona Nation, Helsingkrona Gilles Stödförening	https://helsingkrona.se/	intresseförening,studentorganisation	
@@ -15041,6 +15042,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235809983	875003-4392	IF Nerike	https://www.ifnerike.se/	bangolfklubb,discgolfklubb,fotbollsklubb,futsalklubb,golfklubb,idrottsförening,innebandyklubb,ishockeyklubb	
 1235812169	889200-0053	Alnö Idrottsförening	https://www.svenskalag.se/alnoif	fotbollsklubb,idrottsförening	F14
 1235812268	802480-7797	IOCA ARMA NOSTRA Insamlingsstiftelse	https://beetroot.co/aid-for-ukraine/	hjälporganisation,humanitär hjälpverksamhet,insamling,ukraina	Aid for Ukraine
+1235813647	838200-4342	Wä Idrottsförening	https://www.svenskalag.se/waif	fotbollsklubb,idrottsförening	P10
 1235814918	819000-0672	IFK Nyköping	https://www.svenskalag.se/ifknykoping	fotbollsklubb,idrottsförening	P16
 1235815188	882000-7089	Johan-Olov Sällskapet	https://www.johanolovsallskapet.se/	kulturhistoria	
 1235815352	846003-5358	FN-förening	https://www.supportforukraine.org/	hjälporganisation,humanitär hjälpverksamhet,insamling,ukraina	Support For Ukraine / Malmö
@@ -17903,6 +17905,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236907125	802011-1582	Stiftelsen Fryshuset	https://fryshuset.se/	familjestöd,stiftelse	Nationellt
 1236907257	252003-0731	Örebro Pastorat	https://www.svenskakyrkan.se/orebro	religion	Lokalhyra
 1236907299	826000-7052	Norrahammars IK	https://www.laget.se/norrahammarsik	idrottsförening	
+1236907406	556693-0524	dBAkuten / Elofssons Försäljnings AB	https://dbakuten.se/	försäljning,ljudsystem	
 1236907430	556813-3804	City Trafikskola i Sundbyberg AB	https://trafikcity.se/	trafikskola,utbildning	
 1236907588	894700-4738	Lövånger-Uttersjöbäcken AIK	https://www.laget.se/LUAIK/	fotbollsklubb,gymnastikförening,idrottsförening,ishockeyklubb,skidlöparklubb,volleybollklubb	
 1236907877	556881-8693	Klaravik AB	https://www.klaravik.se/	auktioner,auktionsverk,entreprenadmaskiner,lantbruksmaskiner,skogsbruksmaskiner	
