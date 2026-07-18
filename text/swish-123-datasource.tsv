@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-07-10-rev-013241
+# Date: 2026-07-18-rev-194521
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -2731,6 +2731,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231006691	884401-2586	IOGT-NTO Orsa	https://orsabio.se/iogt-nto	nykterhetsförbund,nykterhetsrörelse	
 1231006808	866600-6625	Tidans Idrottsförening	https://www.laget.se/TidansIF/	fotbollsklubb,idrottsförening	
 1231006923	836201-3297	Sillastrybarna	https://www.sillastrybarna.com/	supporterklubb	
+1231007418	894000-2739	Vännäs Missionsförsamling	https://missionskyrkanvannas.se/	religion	
 1231007764	559015-4521	Visumpartner i Stockholm AB	https://www.visumpartner.se/	juridiska tjänster,notarius publicus	
 1231007855	889200-9716	Sundsvalls Brukshundklubb	https://sundsvallsbhk.se/	brukshundklubb,hundsport	
 1231007897	819000-0326	Församlingen Betel	https://www.betelvhd.se/	religion	
@@ -4216,6 +4217,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231574268	802476-4881	Skarpa Kvinns	https://www.skarpakvinns.se/	kvinnligt nätverk,stödverksamhet	
 1231574342	897600-5150	Mattila Byagårdsförening	https://bygdegardarna.se/mattila/	bygdegårdsförening	
 1231574698	802533-7794	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Mariestad, Ullervads skola
+1231574938	836200-8339	Mörrum Hockey	https://www.hockeyettan.se/morrum-hockey/	idrottsförening,ishockeyklubb	
 1231575273	252002-9634	Ösmo Torö Församling	https://osmotoro.se/	religion	Kollekt
 1231575331	802415-5825	Fiskeklubben Aspen	https://www.svenskalag.se/fkaspen	fiskeklubb	
 1231575737	812401-0755	SPF Seniorerna Vendelsö-Brandbergen	https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-vendelso-brandbergen/	pensionärsklubb	
@@ -4644,6 +4646,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231733823	802448-2302	Lurs sockens bygdeförening	https://bygdegardarna.se/lur/	bygdegårdsförening	
 1231733922	868401-1201	Skara Fotbolls Club	https://www.laget.se/SKARAFC	fotbollsklubb,idrottsförening	
 1231734037	889200-2786	Hagakyrkan Sundsvall / Haga Baptistförsamling	http://www.hagakyrkan.nu/	religion	
+1231734854	802482-8256	Stiftelsen Fragile Hope	https://www.fragilehope.com/pinnevik-under-ytan	intresseförening,vattenvård	Pinnevik
 1231736354	817606-9923	PRO Svartbäcken	https://pro.se/distrikt/distrikt-uppsala-lan/samorganisationer/samorganisation-uppsala/foreningar/svartbacken.html	pensionärsklubb	
 1231736388	802491-5509	Kazuki Shotokan Klubb	https://kazuki.se/	idrottsförening,kampsportsförening,karateklubb	
 1231737212	802500-4808	To be continued	https://tobecontinued.nu/	religion	
@@ -14713,6 +14716,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235691456	802461-8368	OPCA Sweden	https://www.opcanordic.se/	intresseförening	
 1235691746	556380-0845	Esperssons Åkeri AB	https://www.facebook.com/groups/671576742867097/	transporttjänst,välgörenhet	Åkarhjälpen
 1235692256	802509-3736	Föreningen Run for Mental Health i Lund	https://www.runformentalhealth.se/	förening,idrottsförening,löparklubb	
+1235693726	559074-2184	Svensk Webbtelevision AB	https://www.instagram.com/studio3.se/	alternativa media	Studio 3
 1235694385	252003-0152	Ryssby-Åby Pastorat	https://www.svenskakyrkan.se/ryssby-aby	religion	Åby Församling
 1235694617	837000-6135	Västra Torups Bygdegårdsförening	https://vastratorupsbygdegard.se/	bygdegårdsförening	
 1235694872	802440-8117	Equmenia Bromma	https://equmenia.se/	religion	Idrottsskolorna

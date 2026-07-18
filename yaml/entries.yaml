@@ -27947,6 +27947,14 @@ entries:
   - supporterklubb
   web: https://www.sillastrybarna.com/
 
+- entry: 1231007418
+  orgName: Vännäs Missionsförsamling
+  orgNumber: 894000-2739
+  comment: null
+  categories:
+  - religion
+  web: https://missionskyrkanvannas.se/
+
 - entry: 1231007764
   orgName: Visumpartner i Stockholm AB
   orgNumber: 559015-4521
@@ -41762,6 +41770,15 @@ entries:
   - team rynkeby
   web: https://www.team-rynkeby.se/
 
+- entry: 1231574938
+  orgName: Mörrum Hockey
+  orgNumber: 836200-8339
+  comment: null
+  categories:
+  - idrottsförening
+  - ishockeyklubb
+  web: https://www.hockeyettan.se/morrum-hockey/
+
 - entry: 1231575273
   orgName: Ösmo Torö Församling
   orgNumber: 252002-9634
@@ -45660,6 +45677,15 @@ entries:
   categories:
   - religion
   web: http://www.hagakyrkan.nu/
+
+- entry: 1231734854
+  orgName: Stiftelsen Fragile Hope
+  orgNumber: 802482-8256
+  comment: Pinnevik
+  categories:
+  - intresseförening
+  - vattenvård
+  web: https://www.fragilehope.com/pinnevik-under-ytan
 
 - entry: 1231736354
   orgName: PRO Svartbäcken
@@ -141395,6 +141421,14 @@ entries:
   - idrottsförening
   - löparklubb
   web: https://www.runformentalhealth.se/
+
+- entry: 1235693726
+  orgName: Svensk Webbtelevision AB
+  orgNumber: 559074-2184
+  comment: Studio 3
+  categories:
+  - alternativa media
+  web: https://www.instagram.com/studio3.se/
 
 - entry: 1235694385
   orgName: Ryssby-Åby Pastorat
