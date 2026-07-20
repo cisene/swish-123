@@ -80577,6 +80577,7 @@ entries:
   orgNumber: 874001-5865
   comment: null
   categories:
+  - donation
   - hjälporganisation
   - humanitär hjälpverksamhet
   web: https://zasp.se/
@@ -149380,6 +149381,17 @@ entries:
   - kallbadhus
   web: https://gottskarskallbadhus.se/
 
+- entry: 1236420830
+  orgName: Insamlingsstiftelsen Pluggoteket
+  orgNumber: 802482-4818
+  comment: null
+  categories:
+  - donation
+  - insamling
+  - utbildning
+  - utbildningsstöd
+  web: https://insamlingsstiftelsen-pluggoteket.se/
+
 - entry: 1236425037
   orgName: Bandieras Tifo / Kvillestreamen
   orgNumber: 802535-4955
@@ -152851,6 +152863,15 @@ entries:
   - psykisk hälsa
   - stiftelse
   web: https://ludvikainsamlingsstiftelse.se/
+
+- entry: 1236566871
+  orgName: Insamlingsstiftelsen Solidaritetfonden
+  orgNumber: 802482-2465
+  comment: Stockholm Prides solidaritetsfond
+  categories:
+  - donantionsfond
+  - festival
+  web: https://www.stockholmpride.org/
 
 - entry: 1236568406
   orgName: Vetenskapsforum COVID19
@@ -163550,6 +163571,7 @@ entries:
   orgNumber: 802424-9396
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.mercyships.se/
@@ -163615,6 +163637,7 @@ entries:
   orgNumber: 802425-2218
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   web: https://www.diabeteswellness.se/
 
@@ -163649,7 +163672,7 @@ entries:
 - entry: 1239001264
   orgName: Insamlingsstiftelsen Caminul Felix
   orgNumber: 826500-5556
-  comment: null
+  comment: Thailand Insamling
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
@@ -163707,6 +163730,7 @@ entries:
   orgNumber: 802412-1215
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - stiftelse
   web: https://www.centrumforrattvisa.se/
@@ -163716,6 +163740,7 @@ entries:
   orgNumber: 802425-9981
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   web: https://www.lillabarnet.se/
 
@@ -163724,6 +163749,7 @@ entries:
   orgNumber: 802408-4934
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   web: https://www.sallsyntadiagnoser.se/
 
@@ -163742,6 +163768,7 @@ entries:
   orgNumber: 802445-2248
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   web: https://www.peaceparks.se/
 
@@ -163752,6 +163779,7 @@ entries:
   categories:
   - donation
   - insamlingskontroll
+  - välgörenhet
   web: https://vasterasstadsmission.se/
 
 - entry: 1239001611
@@ -163928,6 +163956,7 @@ entries:
   orgNumber: 802426-2654
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - stiftelse
   web: https://www.msforskningsfonden.se/
@@ -164015,6 +164044,7 @@ entries:
   orgNumber: 802426-4734
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   - stiftelse
@@ -164069,7 +164099,9 @@ entries:
   orgNumber: 867200-7393
   comment: null
   categories:
+  - donation
   - insamlingskontroll
+  - välgörenhet
   web: https://www.gambiagrupperna.org/
 
 - entry: 1239002429
@@ -164087,6 +164119,7 @@ entries:
   orgNumber: 802445-9987
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - välgörenhet
   web: https://www.yennengaprogress.se/
@@ -164096,6 +164129,7 @@ entries:
   orgNumber: 802010-4504
   comment: null
   categories:
+  - donation
   - insamling
   - insamlingskontroll
   web: https://www.celiaki.se/
@@ -164135,6 +164169,7 @@ entries:
   orgNumber: 802443-2364
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.aldrekontakt.se/
@@ -164197,6 +164232,7 @@ entries:
   orgNumber: 802477-4195
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - stiftelse
   web: https://www.humanisthjalpen.se/
@@ -165272,6 +165308,7 @@ entries:
   orgNumber: 802479-8202
   comment: null
   categories:
+  - donation
   - insamling
   - insamlingskontroll
   - stiftelse
@@ -165282,6 +165319,7 @@ entries:
   orgNumber: 802463-5867
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - välgörenhet
   web: https://www.missingpeople.se/
@@ -165291,6 +165329,7 @@ entries:
   orgNumber: 802000-9232
   comment: null
   categories:
+  - donation
   - förbund
   - insamlingskontroll
   web: https://www.fn.se/
@@ -165602,7 +165641,7 @@ entries:
 - entry: 1239006495
   orgName: Insamlingsstiftelsen Caminul Felix
   orgNumber: 826500-5556
-  comment: null
+  comment: Rumänien Insamling
   categories:
   - donation
   - godkänd gåvomottagare
@@ -166728,6 +166767,16 @@ entries:
   - insamlingskontroll
   web: https://www.astmaoallergiforbundet.se/
 
+- entry: 1239009523
+  orgName: Insamlingsstiftelsen för Operations- och Intensivvård
+  orgNumber: 802482-6110
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  web: https://operationsochintensivvardsfonden.se/
+
 - entry: 1239009697
   orgName: Riksföreningen Aktiva Synskadade
   orgNumber: 802005-7926
@@ -166795,6 +166844,7 @@ entries:
   orgNumber: 802010-4462
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - riksförbund
   web: https://www.fmn.se/
@@ -166804,6 +166854,7 @@ entries:
   orgNumber: 802004-1524
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - hjälporganisation
   - insamlingskontroll
@@ -166863,6 +166914,16 @@ entries:
   - mänskliga rättigheter
   - välgörenhet
   web: https://www.latinamerikagrupperna.se/
+
+- entry: 1239010455
+  orgName: Insamlingsstiftelsen Lille Hans
+  orgNumber: 802402-3742
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  web: https://www.lillehans.se/
 
 - entry: 1239010646
   orgName: Barnens Hopp
@@ -167003,6 +167064,7 @@ entries:
   orgNumber: 802017-8664
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.hjarnfonden.se/
@@ -167558,6 +167620,7 @@ entries:
   orgNumber: 857209-4152
   comment: null
   categories:
+  - donation
   - insamlingskontroll
   - välgörenhet
   web: https://www.agrenska.se/
@@ -167567,6 +167630,7 @@ entries:
   orgNumber: 802006-0763
   comment: null
   categories:
+  - donation
   - godkänd gåvomottagare
   - insamlingskontroll
   web: https://www.hjart-lungfonden.se/
