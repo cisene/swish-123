@@ -163277,7 +163277,9 @@ entries:
   orgNumber: 815200-4134
   comment: null
   categories:
+  - förbund
   - insamlingskontroll
+  - intresseförening
   web: https://rtp.se/
 
 - entry: 1239000100
@@ -166982,7 +166984,7 @@ entries:
   web: https://www.svenskafreds.se/
 
 - entry: 1239010877
-  orgName: Djurens Rätt
+  orgName: Förbundet Djurens Rätt
   orgNumber: 802002-4496
   comment: null
   categories:
@@ -167044,7 +167046,7 @@ entries:
   web: https://www.gavlecancerfond.com/
 
 - entry: 1239011172
-  orgName: Insamlingsstiftelsen Naturarvet
+  orgName: Naturarvet
   orgNumber: 802424-1393
   comment: null
   categories:
@@ -167075,7 +167077,7 @@ entries:
   web: https://www.droginformation.nu/
 
 - entry: 1239011255
-  orgName: Insamlingsstiftelsen Hjärnfonden
+  orgName: Hjärnfonden
   orgNumber: 802017-8664
   comment: null
   categories:
@@ -167124,7 +167126,7 @@ entries:
   web: https://www.palestinagrupperna.se/
 
 - entry: 1239011883
-  orgName: Stiftelsen New Hope Reseindustrins Barnfond
+  orgName: New Hope
   orgNumber: 802014-8550
   comment: null
   categories:
@@ -167133,7 +167135,7 @@ entries:
   - insamling
   - insamlingskontroll
   - stiftelse
-  web: https://www.newhope.se/
+  web: https://newhope.se/
 
 - entry: 1239011917
   orgName: Föreningen Palmeras Vänner
@@ -167247,7 +167249,7 @@ entries:
   web: https://www.teammission.se/
 
 - entry: 1239014010
-  orgName: Insamlingsstiftelsen Ankaret
+  orgName: Ankarstiftelsen
   orgNumber: 875002-7800
   comment: null
   categories:
@@ -167295,7 +167297,7 @@ entries:
   web: https://www.svenskakyrkan.se/
 
 - entry: 1239017047
-  orgName: Riksorganisationen Unga Reumatiker
+  orgName: Unga Reumatiker
   orgNumber: 802401-0251
   comment: null
   categories:
@@ -167305,7 +167307,7 @@ entries:
   web: https://www.ungareumatiker.se/
 
 - entry: 1239018003
-  orgName: Insamlingsstiftelsen Kvinna till Kvinna
+  orgName: Kvinna till Kvinna
   orgNumber: 802401-6134
   comment: null
   categories:
@@ -167325,7 +167327,7 @@ entries:
   web: https://www.liberiadujar.org/
 
 - entry: 1239018557
-  orgName: KFUK - KFUM Sverige
+  orgName: KFUM
   orgNumber: 802004-2290
   comment: null
   categories:
@@ -167344,7 +167346,7 @@ entries:
   web: https://www.majblomman.se/
 
 - entry: 1239019092
-  orgName: Svenska Naturskyddsföreningen
+  orgName: Naturskyddsföreningen
   orgNumber: 802002-4280
   comment: Natur och miljö
   categories:
@@ -167364,7 +167366,7 @@ entries:
   web: https://www.hjalpfonden.lions.se/
 
 - entry: 1239019506
-  orgName: Stiftelsen Radiohjälpen
+  orgName: Radiohjälpen
   orgNumber: 802007-9755
   comment: null
   categories:
@@ -167372,7 +167374,7 @@ entries:
   web: https://www.radiohjalpen.se/
 
 - entry: 1239019514
-  orgName: Cancerfonden - Riksföreningen Mot Cancer
+  orgName: Cancerfonden
   orgNumber: 802005-3370
   comment: null
   categories:
@@ -167431,7 +167433,7 @@ entries:
   web: https://www.melissafonden.org/
 
 - entry: 1239019977
-  orgName: Stiftelsen The Hunger Project Sverige
+  orgName: The Hunger Project
   orgNumber: 802010-8315
   comment: null
   categories:
@@ -167477,7 +167479,7 @@ entries:
   web: https://www.jamtlandscancerfond.se/
 
 - entry: 1239020033
-  orgName: Rädda Barnens Riksförbund
+  orgName: Rädda Barnen
   orgNumber: 802002-8638
   comment: null
   categories:
@@ -167586,7 +167588,7 @@ entries:
   web: https://www.diakonia.se/
 
 - entry: 1239034349
-  orgName: ECPAT Sverige
+  orgName: ECPAT
   orgNumber: 802402-5499
   comment: null
   categories:
@@ -167596,7 +167598,7 @@ entries:
   web: https://www.ecpat.se/
 
 - entry: 1239040452
-  orgName: Insamlingsstiftelsen för Abrigo Rainha Silvia
+  orgName: Abrigo Rainha Silvia
   orgNumber: 855100-5161
   comment: null
   categories:
@@ -167619,7 +167621,7 @@ entries:
   web: https://www.forskautandjurforsok.se/
 
 - entry: 1239090036
-  orgName: Stiftelsen World Childhood Foundation
+  orgName: World Childhood Foundation
   orgNumber: 802407-5346
   comment: null
   categories:
@@ -167628,7 +167630,7 @@ entries:
   - insamlingskontroll
   - stiftelse
   - välgörenhet
-  web: https://www.childhood.se/
+  web: https://childhood.se/
 
 - entry: 1239091109
   orgName: Ågrenska Vänskapsföreningen
@@ -167641,7 +167643,7 @@ entries:
   web: https://www.agrenska.se/
 
 - entry: 1239091927
-  orgName: HjärtLungfonden, Svenska Nationalföreningen mot Hjärt- och Lungsjukdomar
+  orgName: Hjärt-Lungfonden
   orgNumber: 802006-0763
   comment: null
   categories:
