@@ -3,118 +3,284 @@ entries:
 - entry: 1234795613
   orgName: Intacts Vänner
   orgNumber: 875003-0846
+  comment: null
+  categories:
+  - intresseförening
+  web: https://www.intactsvanner.com/
 
 - entry: 1239000068
   orgName: Personskadeförbundet RTP
   orgNumber: 815200-4134
+  comment: null
+  categories:
+  - förbund
+  - intresseförening
+  web: https://rtp.se/
 
 - entry: 1239000209
   orgName: Clowner utan Gränser
   orgNumber: 802402-6521
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://clownerutangranser.se/
 
 - entry: 1239000217
-  orgName: Läkarmissionen - stiftelse för filantropisk verksamhet
+  orgName: Läkarmissionen - Stiftelse För Filantropisk Verksamhet
   orgNumber: 802005-9989
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.lakarmissionen.se/
 
 - entry: 1239000316
   orgName: Kristna Fredsrörelsen
   orgNumber: 826000-8696
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.krf.se/
 
 - entry: 1239000506
-  orgName: Pingst - Fria församlingar i samverkan
+  orgName: PMU
   orgNumber: 802004-0575
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://pmu.se/
 
 - entry: 1239000548
-  orgName: Ersta Diakonisällskap
+  orgName: Ersta Diakoni
   orgNumber: 802000-6717
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.erstadiakoni.se/
 
 - entry: 1239000597
   orgName: Stiftelsen Barndiabetesfonden
   orgNumber: 822001-9072
+  comment: null
+  categories:
+  - insamlingskontroll
+  - stiftelse
+  web: https://barndiabetesfonden.se/
 
 - entry: 1239000670
-  orgName: Insamlingsstiftelsen Akademiska sjukhusets barnfond
+  orgName: Insamlingsstiftelsen Akademiska Sjukhusets Barnfond
   orgNumber: 802424-9289
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.akademiskasbarnfond.se/
 
 - entry: 1239000720
-  orgName: Amnesty International, Svenska sektionen
+  orgName: Amnesty International
   orgNumber: 802004-0401
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://amnesty.se/
 
 - entry: 1239000902
   orgName: Synskadades Riksförbund
   orgNumber: 802007-3436
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - synnedsättning
+  - synskadad
+  - välgörenhet
+  web: https://www.srf.nu/
 
 - entry: 1239001066
   orgName: Djurskyddet Sverige
   orgNumber: 802000-6832
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.djurskyddet.se/
 
 - entry: 1239001090
-  orgName: MdM Sverige/Läkare i Världen
+  orgName: Läkare i Världen
   orgNumber: 802016-1306
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.lakareivarlden.se/
 
 - entry: 1239001223
-  orgName: Trossamfundet Svenska Kyrkan
+  orgName: Act Svenska kyrkan
   orgNumber: 252002-6135
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.svenskakyrkan.se/
 
 - entry: 1239001298
   orgName: Civil Rights Defenders
   orgNumber: 802011-1442
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.crd.org/
 
 - entry: 1239001421
   orgName: Save the Orangutan
   orgNumber: 802435-6613
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: http://savetheorangutan.se/
 
 - entry: 1239001561
-  orgName: Riksförbundet Sällsynta diagnoser
+  orgName: Sällsynta Diagnoser
   orgNumber: 802408-4934
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  web: https://www.sallsyntadiagnoser.se/
 
 - entry: 1239001629
   orgName: Insamlingsstiftelsen WaterAid Sverige
   orgNumber: 802426-1268
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - hjälporganisation
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.wateraid.org/se/
 
 - entry: 1239001645
-  orgName: Sverige för UNHCR Insamlingsstiftelse
+  orgName: Sverige för UNHCR
   orgNumber: 802426-1250
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamling
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://sverigeforunhcr.se/
 
 - entry: 1239001702
-  orgName: Stiftelsen Göteborgs Kyrkliga Stadsmission
+  orgName: Göteborgs Stadsmission
   orgNumber: 802426-0195
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.stadsmissionen.org/
 
 - entry: 1239001744
   orgName: World Animal Protection Sverige
   orgNumber: 802447-4481
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.worldanimalprotection.se/
 
 - entry: 1239001819
-  orgName: Islamic Relief Sverige
+  orgName: Islamic Relief
   orgNumber: 802017-3251
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://islamic-relief.se/
 
 - entry: 1239002171
-  orgName: ALEF, Adult Learning and Empowerment Faciliators
+  orgName: ALEF, Adult Learning & Empowerment Fund
   orgNumber: 802452-4681
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - skola
+  - utbildning
+  - välgörenhet
+  web: https://www.alef.org/
 
 - entry: 1239002189
-  orgName: Föreningen Framtidsjorden
+  orgName: Framtidsjorden
   orgNumber: 802400-5046
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.framtidsjorden.se/
 
 - entry: 1239002262
   orgName: Svenska Livräddningssällskapet
   orgNumber: 802004-9683
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://svenskalivraddningssallskapet.se/
 
 - entry: 1239002296
   orgName: SOS Barnbyar
   orgNumber: 802405-7815
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: http://www.sosbarnbyar.se/
 
 - entry: 1239002320
   orgName: Involvaid
   orgNumber: 802431-9470
+  comment: null
+  categories:
+  - insamlingskontroll
+  - retired
+  - välgörenhet
+  web: https://involvaid.com/
 
 - entry: 1239002437
   orgName: Yennenga Progress
   orgNumber: 802445-9987
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.yennengaprogress.se/
 
 - entry: 1239002494
   orgName: Right Livelihood-stiftelsen
   orgNumber: 802015-5670
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - välgörenhet
+  web: https://rightlivelihoodaward.org/
 
 - entry: 1239002536
   orgName: Hoppets Stjärna Insamlingsstiftelse
@@ -123,163 +289,427 @@ entries:
 - entry: 1239002932
   orgName: UN Women Sverige
   orgNumber: 802012-8628
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.unwomen.se/
 
 - entry: 1239003377
   orgName: Afrikagrupperna
   orgNumber: 802007-2446
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.afrikagrupperna.se/
 
 - entry: 1239003419
   orgName: Sam-Hjälp
   orgNumber: 826002-2630
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - hjälporganisation
+  - insamling
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.samhjalp.se/
 
 - entry: 1239003443
   orgName: Brottsofferjouren
   orgNumber: 815600-8784
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.brottsofferjouren.se/
 
 - entry: 1239003518
   orgName: Stockholms Stadsmission
   orgNumber: 802003-1954
 
 - entry: 1239003609
-  orgName: Insamlingsstiftelsen Cancer- och Allergifonden
+  orgName: Cancer- och Allergifonden
   orgNumber: 802407-4125
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.cancerochallergifonden.se/
 
 - entry: 1239003666
-  orgName: Insamlingsstiftelsen till minne av Gustav Whitefield
+  orgName: Insamlingsstiftelsen till Minne av Gustav Whitefield
   orgNumber: 802477-7495
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.gustavwhitefield.com/
 
 - entry: 1239003674
   orgName: Njurfonden
   orgNumber: 802477-9202
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.njurfonden.se/
 
 
 - entry: 1239003831
-  orgName: Insamlingsstiftelsen Skiers Left - Mikaelas minne
+  orgName: Insamlingsstiftelsen Skiers Left - Mikaelas Minne
   orgNumber: 802477-8352
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.skiersleft.com/
 
 - entry: 1239003989
   orgName: Suicide Zero
   orgNumber: 802472-0891
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.suicidezero.se/
 
 - entry: 1239004011
   orgName: Insamlingsstiftelsen Gatubarn
   orgNumber: 855100-2002
+  comment: null
+  categories:
+  - insamlingskontroll
+  - retired
+  - stiftelse
+  - välgörenhet
+  web: https://www.stiftelsengatubarn.se/
 
 - entry: 1239004185
   orgName: Human Bridge Stiftelse
   orgNumber: 802477-8238
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.humanbridge.se/
 
 - entry: 1239004300
   orgName: EFI Fadder Insamlingsstiftelse
   orgNumber: 802478-1281
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://efifadder.se/
 
 - entry: 1239004375
   orgName: Cancerhjälpen
   orgNumber: 816000-5958
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.cancerhjalpen.se/
 
 - entry: 1239004417
   orgName: Svenska Hästars Värn
   orgNumber: 872800-5151
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.shv.org/
 
 - entry: 1239004441
   orgName: Föreningen Göteborgs Räddningsmission
   orgNumber: 857202-5974
+  comment: null
+  categories:
+  - förening
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.raddningsmissionen.se/
 
 - entry: 1239004540
   orgName: Human Rights Watch Scandinavia Insamlingsstiftelsen
   orgNumber: 802478-1885
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.hrw.org/sv/about/get-local/sweden
 
 - entry: 1239004656
-  orgName: Help Kurdistan insamlingsstiftelse
+  orgName: Help Kurdistan Insamlingsstiftelse
   orgNumber: 802478-2842
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.helpkurdistan.se/
 
 - entry: 1239004805
   orgName: Frälsningsarmén
   orgNumber: 802006-1688
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.fralsningsarmen.se/
 
 - entry: 1239004870
   orgName: Jontefondens Insamlingsstiftelse
   orgNumber: 802478-1950
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.jontefonden.se/
 
 - entry: 1239004979
   orgName: Min Stora Dag
   orgNumber: 802409-8264
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - overifierad
+  - välgörenhet
+  web: https://www.minstoradag.org/
 
 - entry: 1239005000
   orgName: Svenska Sjöräddningssällskapet SSRS
   orgNumber: 857201-7179
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.sjoraddning.se/
 
 - entry: 1239005083
   orgName: Insamlingsstiftelsen Vi planterar träd - Vi-Skogen
   orgNumber: 802012-8081
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.viskogen.se/
 
 - entry: 1239005406
-  orgName: Insamlingsstiftelsen Help to Help
+  orgName: Help to Help
   orgNumber: 802478-3725
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.helptohelp.se/
 
 - entry: 1239005547
   orgName: Insamlingsstiftelsen War Child
   orgNumber: 802479-5828
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.warchild.se/
 
 - entry: 1239005620
   orgName: Missing People Sweden
   orgNumber: 802463-5867
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.missingpeople.se/
 
 - entry: 1239005745
   orgName: Ung Cancer
   orgNumber: 802456-7763
+  comment: null
+  categories:
+  - cancerforskning
+  - insamlingskontroll
+  web: https://www.ungcancer.se/
 
 - entry: 1239005802
   orgName: Unite 2 Learn
   orgNumber: 802501-4732
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.unite2learn.org/
 
 - entry: 1239005919
   orgName: Bröstcancerförbundet
   orgNumber: 802010-4264
+  comment: null
+  categories:
+  - donation
+  - förbund
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.brostcancerforbundet.se/
 
 - entry: 1239005984
   orgName: Talita
   orgNumber: 802417-1987
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.talita.se/
 
 - entry: 1239006099
   orgName: RFSU Insamlingsstiftelse
   orgNumber: 802002-8133
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.rfsu.se/
 
 - entry: 1239006453
   orgName: Anhörigas Riksförbund
   orgNumber: 802402-4831
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - riksförbund
+  - välgörenhet
+  web: https://www.anhorigasriksforbund.se/
 
 - entry: 1239006602
   orgName: Barncancerfonden Västra
   orgNumber: 857204-1369
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.barncancerfonden.se/vastra
 
 - entry: 1239006628
   orgName: Umeå Stadsmission
   orgNumber: 894001-0237
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.umeastadsmission.se/
 
 - entry: 1239006792
   orgName: Föreningen Storasyster
   orgNumber: 802465-2169
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - kvinnojour
+  - tjejjour
+  web: https://storasyster.org/
 
 - entry: 1239007063
-  orgName: IM Individuell Människohjälp/Swedish Development Partner
+  orgName: Individuell Människohjälp
   orgNumber: 845000-0768
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - hjälporganisation
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.imsweden.org/
 
 - entry: 1239007311
   orgName: Plan International Sverige Insamlingsstiftelse
   orgNumber: 802404-9150
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.plansverige.org/
 
 - entry: 1239007493
   orgName: Givande Hand
   orgNumber: 802526-3420
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.givandehand.se/
 
 - entry: 1239007667
   orgName: Riksförbundet för SuicidPrevention och Efterlevandes Stöd - SPES
   orgNumber: 802014-9483
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - riksförbund
+  - välgörenhet
+  web: https://spes.se/
 
 - entry: 1239007774
-  orgName: Internationella Kvinnoförbundet för Fred och Frihet, IKFF
+  orgName: Internationella Kvinnoförbundet för Fred och Frihet
   orgNumber: 802001-6047
+  comment: null
+  categories:
+  - förbund
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.ikff.se/
 
 - entry: 1239007782
   orgName: Clownkliniken
@@ -288,184 +718,487 @@ entries:
 - entry: 1239007808
   orgName: Svenska Afghanistankommittén
   orgNumber: 802010-4850
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.sak.se/
 
 - entry: 1239007865
   orgName: Solvatten Insamlingsstiftelse
   orgNumber: 802477-9293
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - hjälporganisation
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://solvatten.org/
 
 - entry: 1239007949
-  orgName: Stiftelsen ParkinsonFörbundets Forskningsfond
+  orgName: Parkinsonfonden - Stiftelsen Parkinsonförbundets Forskningsfond
   orgNumber: 855101-4874
+  comment: null
+  categories:
+  - donation
+  - forskning
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.parkinsonfonden.se/
 
 - entry: 1239008004
   orgName: Svenska Röda Korset
   orgNumber: 802002-8711
+  comment: Röda Korsets arbete i Katastrofer
+  categories:
+  - godkänd gåvomottagare
+  - hjälporganisation
+  - insamlingskontroll
+  - rödakorset
+  web: https://www.rodakorset.se/
 
 - entry: 1239009010
   orgName: Diabetesfonden
   orgNumber: 802007-6520
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - retired
+  - stiftelse
+  - välgörenhet
+  web: https://www.diabetesfonden.se/
 
 - entry: 1239009028
   orgName: Riksföreningen Aktiva Synskadade
   orgNumber: 802005-7926
-
-- entry: 1239009283
-  orgName: Insamlingsstiftelsen Erikshjälpen, Farbror Eriks barn- och hjälpverksamhet
-  orgNumber: 827500-4789
-
-- entry: 1239009796
-  orgName: Stiftelsen Jubileumsklinikens forskningsfond mot cancer
-  orgNumber: 857200-8244
-
-- entry: 1239009903
-  orgName: EFS - Evangeliska Fosterlandsstiftelsen
-  orgNumber: 802000-8184
-
-- entry: 1239010018
-  orgName: We Effect
-  orgNumber: 802004-1524
-
-- entry: 1239010646
-  orgName: Barnens Hopp
-  orgNumber: 802407-2681
-
-- entry: 1239010877
-  orgName: Förbundet Djurens Rätt
-  orgNumber: 802002-4496
-
-- entry: 1239011115
-  orgName: Stiftelsen Barnens RäddningsArk
-  orgNumber: 897001-2392
-
-- entry: 1239011198
-  orgName: Insamlingsstiftelsen Alzheimerfonden
-  orgNumber: 845001-8844
-
-- entry: 1239011255
-  orgName: Hjärnfonden
-  orgNumber: 802017-8664
-
-- entry: 1239013012
-  orgName: Barnfondens Insamlingsstiftelse
-  orgNumber: 846003-9020
-
-- entry: 1239014010
-  orgName: Insamlingsstiftelsen Ankaret
-  orgNumber: 875002-7800
-
-- entry: 1239032160
-  orgName: Hela Människan
-  orgNumber: 802000-6394
-
-- entry: 1239040452
-  orgName: Insamlingsstiftelsen För Abrigo Rainha Silvia
-  orgNumber: 855100-5161
-
-- entry: 1239019514
-  orgName: Cancerfonden - Riksföreningen mot cancer
-  orgNumber: 802005-3370
-
-- entry: 1239034349
-  orgName: ECPAT Sverige
-  orgNumber: 802402-5499
+  comment: null
+  categories:
+  - insamlingskontroll
+  - overifierad
+  - synnedsättning
+  - synskadad
+  - välgörenhet
+  web: https://www.aktivasynskadade.org/
 
 - entry: 1239009085
   orgName: Goda Nyheter - för livet
   orgNumber: 802002-7762
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.godanyheter.org/
 
-- entry: 12390058
-  orgName: Hjärtebarnsfonden
 
-- entry: 1239011305
-  orgName: Insamlingsstiftelsen BarnSamariten
-  orgNumber: 862000-4344
+- entry: 1239009283
+  orgName: Insamlingsstiftelsen Erikshjälpen, Farbror Eriks barn- och hjälpverksamhet
+  orgNumber: 827500-4789
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.erikshjalpen.se/
 
-- entry: 1239018557
-  orgName: KFUK - KFUM Sverige
-  orgNumber: 802004-2290
+- entry: 1239009796
+  orgName: Stiftelsen Jubileumsklinikens Forskningsfond Mot Cancer
+  orgNumber: 857200-8244
+  comment: null
+  categories:
+  - donation
+  - forskning
+  - insamlingskontroll
+  - stiftelse
+  web: https://www.jubileumsklinikenscancerfond.se/
 
-- entry: 1239018003
-  orgName: Insamlingsstiftelsen Kvinna till Kvinna
-  orgNumber: 802401-6134
+- entry: 1239009903
+  orgName: EFS - Evangeliska Fosterlandsstiftelsen
+  orgNumber: 802000-8184
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - religion
+  - stiftelse
+  - välgörenhet
+  web: https://www.efs.nu/
 
-- entry: 1239010174
-  orgName: Latinamerikagrupperna
-  orgNumber: 802004-5681
-
-- entry: 1239016965
-  orgName: LP-Verksamhetens Ideella Riksförening
-  orgNumber: 802404-3716
-
-- entry: 1239019076
-  orgName: Majblommans Riksförbund
-  orgNumber: 857200-5083
-
-- entry: 1239011545
-  orgName: Mission Possible Sweden
-  orgNumber: 802403-3857
-
-- entry: 1239011172
-  orgName: Insamlingsstiftelsen Naturarvet
-  orgNumber: 802424-1393
-
-- entry: 1239019092
-  orgName: Svenska Naturskyddsföreningen
-  orgNumber: 802002-4280
+- entry: 1239010018
+  orgName: We Effect
+  orgNumber: 802004-1524
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - hjälporganisation
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.weeffect.se/
 
 - entry: 1239010075
   orgName: Neuroförbundet
   orgNumber: 802002-3605
-
-- entry: 1239011883
-  orgName: Stiftelsen New Hope Reseindustrins Barnfond
-  orgNumber: 802014-8550
-
-- entry: 1239020033
-  orgName: Rädda Barnen
-  orgNumber: 802002-8638
-
-- entry: 1239019506
-  orgName: Stiftelsen Radiohjälpen
-  orgNumber: 802007-9755
+  comment: null
+  categories:
+  - förbund
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.neuro.se/
 
 - entry: 1239010109
   orgName: Riksförbundet HjärtLung
   orgNumber: 802000-6410
+  comment: null
+  categories:
+  - anhörigorganisation
+  - insamlingskontroll
+  - intresseförening
+  - patientförening
+  - riksförbund
+  web: https://www.hjart-lung.se/
+
+- entry: 1239010174
+  orgName: Latinamerikagrupperna
+  orgNumber: 802004-5681
+  comment: null
+  categories:
+  - insamlingskontroll
+  - mänskliga rättigheter
+  - välgörenhet
+  web: https://www.latinamerikagrupperna.se/
+
+- entry: 1239010646
+  orgName: Barnens Hopp
+  orgNumber: 802407-2681
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.barnenshopp.org/
 
 - entry: 1239010851
   orgName: Svenska Freds- och Skiljedomsföreningen
   orgNumber: 802001-0602
+  comment: null
+  categories:
+  - förening
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.svenskafreds.se/
+
+- entry: 1239010877
+  orgName: Förbundet Djurens Rätt
+  orgNumber: 802002-4496
+  comment: null
+  categories:
+  - förbund
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.djurensratt.se/
 
 - entry: 1239010901
   orgName: Svenska Läkare mot Kärnvapen
   orgNumber: 812000-2202
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.slmk.org/
 
-- entry: 1239019977
-  orgName: Stiftelsen The Hunger Project Sverige
-  orgNumber: 802010-8315
+- entry: 1239011115
+  orgName: Stiftelsen Barnens RäddningsArk
+  orgNumber: 897001-2392
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.barnensraddningsark.com/
+
+- entry: 1239011172
+  orgName: Naturarvet
+  orgNumber: 802424-1393
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - naturvård
+  - stiftelse
+  web: https://www.naturarvet.se/
+
+- entry: 1239011198
+  orgName: Insamlingsstiftelsen Alzheimerfonden
+  orgNumber: 845001-8844
+  comment: null
+  categories:
+  - donation
+  - forskning
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  web: https://www.alzheimerfonden.se/
+
+- entry: 1239011255
+  orgName: Hjärnfonden
+  orgNumber: 802017-8664
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  web: https://www.hjarnfonden.se/
+
+- entry: 1239011305
+  orgName: Insamlingsstiftelsen BarnSamariten
+  orgNumber: 862000-4344
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.barnsamariten.se/
+
+- entry: 1239011545
+  orgName: Mission Possible Sweden
+  orgNumber: 802403-3857
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.mp.org/
+
+- entry: 1239011883
+  orgName: New Hope
+  orgNumber: 802014-8550
+  comment: null
+  categories: null
+  web: https://newhope.se/
+
+- entry: 1239013012
+  orgName: Barnfondens Insamlingsstiftelse
+  orgNumber: 846003-9020
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - overifierad
+  - stiftelse
+  - välgörenhet
+  web: https://www.barnfonden.se/
+
+- entry: 1239014010
+  orgName: Ankarstiftelsen
+  orgNumber: 875002-7800
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.ankarstiftelsen.se/
+
+- entry: 1239016965
+  orgName: LP-Verksamhetens Insamlingsstiftelse
+  orgNumber: 802404-3716
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - retired
+  - stiftelse
+  - välgörenhet
+  web: https://www.lp-verksamheten.se/
 
 - entry: 1239017047
-  orgName: Riksorganisationen Unga Reumatiker
+  orgName: Unga Reumatiker
   orgNumber: 802401-0251
+  comment: null
+  categories:
+  - insamlingskontroll
+  - reumatism
+  - välgörenhet
+  web: https://www.ungareumatiker.se/
+
+
+- entry: 1239018003
+  orgName: Kvinna till Kvinna
+  orgNumber: 802401-6134
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.kvinnatillkvinna.se/
+
+- entry: 1239018557
+  orgName: KFUM
+  orgNumber: 802004-2290
+  comment: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.kfum.se/
+
+- entry: 1239019076
+  orgName: Majblommans Riksförbund
+  orgNumber: 857200-5083
+  comment: null
+  categories:
+  - insamlingskontroll
+  - riksförbund
+  - välgörenhet
+  web: https://www.majblomman.se/
+
+- entry: 1239019092
+  orgName: Naturskyddsföreningen
+  orgNumber: 802002-4280
+  comment: Natur och miljö
+  categories:
+  - insamlingskontroll
+  - naturskydd
+  web: https://www.naturskyddsforeningen.se/
+
+- entry: 1239019506
+  orgName: Radiohjälpen
+  orgNumber: 802007-9755
+  comment: null
+  categories:
+  - insamlingskontroll
+  web: https://www.radiohjalpen.se/
+
+- entry: 1239019514
+  orgName: Cancerfonden
+  orgNumber: 802005-3370
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  web: https://www.cancerfonden.se/
 
 - entry: 1239019712
   orgName: Stiftelsen Världsnaturfonden WWF
   orgNumber: 802005-9823
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - stiftelse
+  web: https://www.wwf.se/
+
+- entry: 1239019977
+  orgName: The Hunger Project
+  orgNumber: 802010-8315
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://thehungerproject.se/
 
 - entry: 1239020017
   orgName: UNICEF Sverige
   orgNumber: 802401-4386
+  comment: Katastrofer
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamling
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.unicef.se/
+
+- entry: 1239020033
+  orgName: Rädda Barnen
+  orgNumber: 802002-8638
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - räddabarnen
+  - välgörenhet
+  web: https://www.raddabarnen.se/
+
+- entry: 1239032160
+  orgName: Hela Människan
+  orgNumber: 802000-6394
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - hjälporganisation
+  - insamlingskontroll
+  - religion
+  web: https://www.helamanniskan.se/
+
+- entry: 1239034349
+  orgName: ECPAT
+  orgNumber: 802402-5499
+  comment: null
+  categories:
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.ecpat.se/
+
+- entry: 1239040452
+  orgName: Abrigo Rainha Silvia
+  orgNumber: 855100-5161
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://www.abrigo.se/
 
 - entry: 1239090036
-  orgName: Stiftelsen World Childhood Foundation
+  orgName: World Childhood Foundation
   orgNumber: 802407-5346
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  - stiftelse
+  - välgörenhet
+  web: https://childhood.se/
 
 - entry: 1239091109
-  orgName: Ågrenska vänskapsföreningen
+  orgName: Ågrenska Vänskapsföreningen
   orgNumber: 857209-4152
+  comment: null
+  categories:
+  - donation
+  - insamlingskontroll
+  - välgörenhet
+  web: https://www.agrenska.se/
 
 - entry: 1239091927
-  orgName: Hjärt-Lungfonden, Svenska Nationalföreningen mot Hjärt- och Lungsjukdomar
+  orgName: Hjärt-Lungfonden
   orgNumber: 802006-0763
-
-
+  comment: null
+  categories:
+  - donation
+  - godkänd gåvomottagare
+  - insamlingskontroll
+  web: https://www.hjart-lungfonden.se/
