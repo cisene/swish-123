@@ -119046,7 +119046,7 @@ entries:
   orgNumber: 875003-0846
   comment: null
   categories:
-  - förening
+  - intresseförening
   web: https://www.intactsvanner.com/
 
 - entry: 1234795688
@@ -174188,13 +174188,13 @@ entries:
   web: https://www.ullacarinstiftelse.se/
 
 - entry: 1239000506
-  orgName: Pingst Fria Församlingar i Samverkan
+  orgName: PMU
   orgNumber: 802004-0575
   comment: null
   categories:
   - insamlingskontroll
   - välgörenhet
-  web: https://www.pingst.se/
+  web: https://pmu.se/
 
 - entry: 1239000514
   orgName: Kids Future
@@ -174223,7 +174223,7 @@ entries:
   web: https://www.uppsalacancerfond.se/
 
 - entry: 1239000548
-  orgName: Ersta Diakonisällskap
+  orgName: Ersta Diakoni
   orgNumber: 802000-6717
   comment: null
   categories:
@@ -174387,7 +174387,7 @@ entries:
   web: https://www.rbu.se/
 
 - entry: 1239000720
-  orgName: Amnesty International Sverige
+  orgName: Amnesty International
   orgNumber: 802004-0401
   comment: null
   categories:
@@ -174693,7 +174693,7 @@ entries:
   web: https://www.raddabarnen.se/
 
 - entry: 1239001066
-  orgName: Djurskyddet
+  orgName: Djurskyddet Sverige
   orgNumber: 802000-6832
   comment: null
   categories:
@@ -174701,9 +174701,9 @@ entries:
   web: https://www.djurskyddet.se/
 
 - entry: 1239001090
-  orgName: MdM Sverige Läkare i Världen
+  orgName: Läkare i Världen
   orgNumber: 802016-1306
-  comment: MdM Sverige
+  comment: null
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
@@ -174806,7 +174806,7 @@ entries:
   web: https://www.assyrierutangranser.se/
 
 - entry: 1239001223
-  orgName: Trossamfundet Svenska Kyrkan
+  orgName: Act Svenska kyrkan
   orgNumber: 252002-6135
   comment: null
   categories:
@@ -174933,7 +174933,7 @@ entries:
   categories:
   - insamlingskontroll
   - välgörenhet
-  web: https://www.savetheorangutan.se/
+  web: http://savetheorangutan.se/
 
 - entry: 1239001447
   orgName: Forum Syd
@@ -175028,7 +175028,7 @@ entries:
   web: https://www.lillabarnet.se/
 
 - entry: 1239001561
-  orgName: Riksförbundet Sällsynta diagnoser
+  orgName: Sällsynta Diagnoser
   orgNumber: 802408-4934
   comment: null
   categories:
@@ -175093,10 +175093,10 @@ entries:
   - insamlingskontroll
   - stiftelse
   - välgörenhet
-  web: https://www.wateraid.se/
+  web: https://www.wateraid.org/se/
 
 - entry: 1239001645
-  orgName: Sverige för UNHCR Insamlingsstiftelse
+  orgName: Sverige för UNHCR
   orgNumber: 802426-1250
   comment: null
   categories:
@@ -175105,7 +175105,7 @@ entries:
   - insamlingskontroll
   - stiftelse
   - välgörenhet
-  web: https://www.sverigeforunhcr.se/
+  web: https://sverigeforunhcr.se/
 
 - entry: 1239001652
   orgName: Rädda Barnen Distrikt på Gotland
@@ -175155,7 +175155,7 @@ entries:
   web: https://www.stadsmissionen.org/
 
 - entry: 1239001702
-  orgName: Stiftelsen Göteborgs Kyrkliga Stadsmission
+  orgName: Göteborgs Stadsmission
   orgNumber: 802426-0195
   comment: null
   categories:
@@ -175253,14 +175253,14 @@ entries:
   web: null
 
 - entry: 1239001819
-  orgName: Islamic Relief Sverige
+  orgName: Islamic Relief
   orgNumber: 802017-3251
   comment: null
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
   - välgörenhet
-  web: https://www.islamic-relief.se/
+  web: https://islamic-relief.se/
 
 - entry: 1239001827
   orgName: Plan International Sverige Insamlingsstiftelse
@@ -175576,7 +175576,7 @@ entries:
   web: https://gunduafoundation.org/
 
 - entry: 1239002171
-  orgName: ALEF, Adult Learning and Empowerment Facilitators
+  orgName: ALEF, Adult Learning & Empowerment Fund
   orgNumber: 802452-4681
   comment: null
   categories:
@@ -175588,7 +175588,7 @@ entries:
   web: https://www.alef.org/
 
 - entry: 1239002189
-  orgName: Föreningen Framtidsjorden
+  orgName: Framtidsjorden
   orgNumber: 802400-5046
   comment: null
   categories:
@@ -175667,7 +175667,7 @@ entries:
   categories:
   - insamlingskontroll
   - välgörenhet
-  web: https://www.svenskalivraddningssallskapet.se/
+  web: https://svenskalivraddningssallskapet.se/
 
 - entry: 1239002270
   orgName: Internationella Juristkommissionen – Svenska Avdelningen
@@ -175690,14 +175690,14 @@ entries:
   web: https://www.rfcf.se/
 
 - entry: 1239002296
-  orgName: SOS-Barnbyar Sverige
+  orgName: SOS Barnbyar
   orgNumber: 802405-7815
   comment: null
   categories:
   - godkänd gåvomottagare
   - insamlingskontroll
   - välgörenhet
-  web: https://www.sos-barnbyar.se/
+  web: http://www.sosbarnbyar.se/
 
 - entry: 1239002320
   orgName: Involvaid
@@ -175707,7 +175707,7 @@ entries:
   - insamlingskontroll
   - retired
   - välgörenhet
-  web: https://www.involvaid.com/
+  web: https://involvaid.com/
 
 - entry: 1239002346
   orgName: Demokrati och Mänskliga Rättigheters Förbund
@@ -175831,14 +175831,14 @@ entries:
   web: null
 
 - entry: 1239002494
-  orgName: Right Livelihood Award Stiftelsen
+  orgName: Right Livelihood-stiftelsen
   orgNumber: 802015-5670
   comment: null
   categories:
   - donation
   - insamlingskontroll
   - välgörenhet
-  web: https://www.rightlivelihood.org/
+  web: https://rightlivelihoodaward.org/
 
 - entry: 1239002502
   orgName: Insamlingsstiftelsen DSS Djurskydsstiftelsen
@@ -176203,7 +176203,7 @@ entries:
   web: https://www.akademiska.se/om-oss/om-akademiska-sjukhuset/fonder-och-stiftelser/
 
 - entry: 1239002932
-  orgName: UN Women Nationell Kommitté Sverige
+  orgName: UN Women Sverige
   orgNumber: 802012-8628
   comment: null
   categories:
@@ -176663,7 +176663,7 @@ entries:
   web: https://www.sjomanskyrkan.se/
 
 - entry: 1239003443
-  orgName: Brottsofferjouren Sverige
+  orgName: Brottsofferjouren
   orgNumber: 815600-8784
   comment: null
   categories:
@@ -176757,7 +176757,7 @@ entries:
   web: https://www.emmausakvarn.se/
 
 - entry: 1239003609
-  orgName: Insamlingsstiftelsen Cancer- och Allergifonden
+  orgName: Cancer- och Allergifonden
   orgNumber: 802407-4125
   comment: null
   categories:
@@ -176820,7 +176820,7 @@ entries:
   web: https://www.gustavwhitefield.com/
 
 - entry: 1239003674
-  orgName: Insamlingsstiftelsen Njurfonden
+  orgName: Njurfonden
   orgNumber: 802477-9202
   comment: null
   categories:
@@ -177303,7 +177303,7 @@ entries:
   - insamlingskontroll
   - stiftelse
   - välgörenhet
-  web: https://www.efifadder.se/
+  web: https://efifadder.se/
 
 - entry: 1239004342
   orgName: Synskadades Riksförbund
@@ -177393,7 +177393,7 @@ entries:
   web: https://www.roforlivet.se/
 
 - entry: 1239004441
-  orgName: Göteborgs Räddningsmission
+  orgName: Föreningen Göteborgs Räddningsmission
   orgNumber: 857202-5974
   comment: null
   categories:
@@ -177837,7 +177837,7 @@ entries:
   web: https://www.amref.se/
 
 - entry: 1239004979
-  orgName: Stiftelsen Min Stora Dag
+  orgName: Min Stora Dag
   orgNumber: 802409-8264
   comment: null
   categories:
@@ -178171,7 +178171,7 @@ entries:
   web: null
 
 - entry: 1239005406
-  orgName: Insamlingsstiftelsen Help to Help
+  orgName: Help to Help
   orgNumber: 802478-3725
   comment: null
   categories:
@@ -178983,7 +178983,7 @@ entries:
   web: null
 
 - entry: 1239006453
-  orgName: Anhörigas Riksförbund, AHR
+  orgName: Anhörigas Riksförbund
   orgNumber: 802402-4831
   comment: null
   categories:
@@ -179513,7 +179513,7 @@ entries:
   web: https://www.reportrarutangranser.se/
 
 - entry: 1239007063
-  orgName: IM Individuell Människohjälp
+  orgName: Individuell Människohjälp
   orgNumber: 845000-0768
   comment: null
   categories:
@@ -180024,7 +180024,7 @@ entries:
   web: https://www.amalgamskadefonden.se/
 
 - entry: 1239007667
-  orgName: SPES - Riksförbundet för SuicidPrevention och EfterlevandeStöd
+  orgName: Riksförbundet för SuicidPrevention och Efterlevandes Stöd - SPES
   orgNumber: 802014-9483
   comment: null
   categories:
@@ -180092,7 +180092,7 @@ entries:
   web: https://www.forumciv.org/
 
 - entry: 1239007774
-  orgName: Internationella Kvinnoförbundet för Fred och Frihet, IKFF
+  orgName: Internationella Kvinnoförbundet för Fred och Frihet
   orgNumber: 802001-6047
   comment: null
   categories:
@@ -180248,7 +180248,7 @@ entries:
   web: https://www.fodelsefonden.se/
 
 - entry: 1239007949
-  orgName: Stiftelsen ParkinsonFörbundets Forskningsfond
+  orgName: Parkinsonfonden - Stiftelsen Parkinsonförbundets Forskningsfond
   orgNumber: 855101-4874
   comment: null
   categories:
@@ -180302,7 +180302,7 @@ entries:
   web: https://rahfo.se/
 
 - entry: 1239008004
-  orgName: Svenska Röda Korsets Centralstyrelse
+  orgName: Svenska Röda Korset
   orgNumber: 802002-8711
   comment: Röda Korsets arbete i Katastrofer
   categories:
