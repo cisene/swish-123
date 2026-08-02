@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-07-24-rev-175114
+# Date: 2026-08-02-rev-221132
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -9204,6 +9204,7 @@
 "1233491537","802600-4641","Gråbergets ÄJO","https://www.laget.se/GrabergetsAJO/","jaktskytteklubb,jaktvårdsklubb",""
 "1233492303","802454-6262","Nyköpings Bowlingsällskap, NBS","https://www.svenskalag.se/nykopingsbs","bowlingklubb,idrottsförening,parasport",""
 "1233494028","889201-7487","Tynderö Hembygdsförening","https://www.hembygd.se/tyndero","hembygdsförening",""
+"1233495090","828000-5680","Värnamo Kristna Samarbetsråd, VKS","","religion","Bibel Marathon"
 "1233495926","802515-4066","Eezer Sverige","https://eezer.org/","donation,hälsovård,mödravård",""
 "1233497070","843002-4284","SPF Seniorerna Kärnan Helsingborg","https://www.spfseniorerna.se/distrikt/skanedistriktet/foreningslista/spf-seniorerna-karnan-helsingborg/","pensionärsklubb",""
 "1233497278","882601-2703","Dalarnas Ornitologiska Förening","https://dalafaglar.se/","fågelskådning,ornitologi",""
@@ -13535,6 +13536,7 @@
 "1235267703","864500-1051","Borås Atletklubb","https://www.borasatletklubb.se/","atletklubb,idrottsförening",""
 "1235268974","848000-8062","Rotary Ystad","https://ystad.rotary2390.se/","rotaryklubb",""
 "1235269469","827500-3831","IFK Stockaryd","https://www.svenskalag.se/ifkstockaryd","fotbollsklubb,idrottsförening,motionsklubb,orienteringsklubb,skidlöparklubb",""
+"1235270053","828000-5680","Värnamo Kristna Samarbetsråd, VKS","","religion,ukraina","Ukraina insamling"
 "1235272117","875002-7487","Hela Sverige Ska Leva","https://www.helasverige.se/","intresseförening","Örebro län"
 "1235272141","802446-3914","Täby Ju-Jutsuklubb","https://tabyjujutsu.se/","idrottsförening,jiujitsuklubb,kampsportsförening",""
 "1235272521","802017-5090","Stiftelse Institutet för Independent Living","https://disabledrefugeeswelcome.se/","donation,hjälporganisation,rörelsehindrad,stiftelse,välgörenhet",""

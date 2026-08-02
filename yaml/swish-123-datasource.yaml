@@ -82636,6 +82636,14 @@ entries:
   - hembygdsförening
   web: https://www.hembygd.se/tyndero
 
+- entry: 1233495090
+  orgName: Värnamo Kristna Samarbetsråd, VKS
+  orgNumber: 828000-5680
+  comment: Bibel Marathon
+  categories:
+  - religion
+  web: null
+
 - entry: 1233495926
   orgName: Eezer Sverige
   orgNumber: 802515-4066
@@ -121689,6 +121697,15 @@ entries:
   - orienteringsklubb
   - skidlöparklubb
   web: https://www.svenskalag.se/ifkstockaryd
+
+- entry: 1235270053
+  orgName: Värnamo Kristna Samarbetsråd, VKS
+  orgNumber: 828000-5680
+  comment: Ukraina insamling
+  categories:
+  - religion
+  - ukraina
+  web: null
 
 - entry: 1235272117
   orgName: Hela Sverige Ska Leva
