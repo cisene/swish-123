@@ -22815,6 +22815,7 @@ entries:
   orgNumber: 556059-8434
   comment: null
   categories:
+  - ekonomi
   - företagande
   web: https://www.standardbolag.se/
 
@@ -42864,6 +42865,16 @@ entries:
   - förening
   - skoterklubb
   web: https://www.savarskoterklubb.se/
+
+- entry: 1231616036
+  orgName: B2 Impact AB
+  orgNumber: 556878-6403
+  comment: Kundnummer S
+  categories:
+  - ekonomi
+  - inkasso
+  - kredittjänster
+  web: https://www.b2-impact.se/
 
 - entry: 1231616051
   orgName: Göta Traneberg
@@ -83000,6 +83011,15 @@ entries:
   - biljardklubb
   web: https://biljardklubben.nu/
 
+- entry: 1233248234
+  orgName: Durgés Trafikskola AB
+  orgNumber: 556053-5907
+  comment: null
+  categories:
+  - trafikskola
+  - utbildning
+  web: https://www.durges.se/
+
 - entry: 1233248317
   orgName: Mo Församling
   orgNumber: 252002-4155
@@ -85425,6 +85445,17 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/uppvidinge
+
+- entry: 1233361110
+  orgName: Eventbagaget AB
+  orgNumber: 559028-2603
+  comment: null
+  categories:
+  - bagageloppis
+  - bakluckeloppis
+  - loppis
+  - loppmarknad
+  web: https://www.bagageloppis.se/
 
 - entry: 1233363272
   orgName: Hand med Hund AB
@@ -119340,6 +119371,15 @@ entries:
   - religion
   web: https://www.hagakyrkan.se/
 
+- entry: 1234803730
+  orgName: Visborgs Orienteringsklubb
+  orgNumber: 834000-4442
+  comment: Startavgifter
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.visborgsok.se/
+
 - entry: 1234803987
   orgName: Veterinärer Utan Gränser - Sverige
   orgNumber: 802458-7308
@@ -124857,6 +124897,15 @@ entries:
   categories:
   - event
   web: https://stubbaraceosterlen.se/
+
+- entry: 1235077110
+  orgName: Visborgs Orienteringsklubb
+  orgNumber: 834000-4442
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://www.visborgsok.se/
 
 - entry: 1235077318
   orgName: Team Rynkeby
@@ -149676,8 +149725,8 @@ entries:
   orgNumber: 802490-0865
   comment: null
   categories:
-  - förening
   - hundklubb
+  - intresseförening
   web: https://labbehjartat.se/
 
 - entry: 1236025647
@@ -157448,6 +157497,16 @@ entries:
   - sportflyg
   web: https://flygklubben.se/
 
+- entry: 1236335111
+  orgName: Sälshögs Charken AB
+  orgNumber: 559067-9279
+  comment: null
+  categories:
+  - charkuteri
+  - försäljning
+  - gårdsförsäljning
+  web: https://sälshögscharken.se/
+
 - entry: 1236335418
   orgName: Indals Hembygdsförening
   orgNumber: 889201-0169
@@ -163799,6 +163858,16 @@ entries:
   - intresseförening
   web: https://www.facebook.com/people/Eksh%C3%A4rads-Folkets-Hus/61556693638166/
 
+- entry: 1236583736
+  orgName: B2 Impact AB
+  orgNumber: 556878-6403
+  comment: Kundnummer L
+  categories:
+  - ekonomi
+  - inkasso
+  - kredittjänster
+  web: https://www.b2-impact.se/
+
 - entry: 1236583769
   orgName: Granöbygdens Golfklubb
   orgNumber: 802418-3785
@@ -164927,6 +164996,15 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/istorps-pastorat
+
+- entry: 1236644793
+  orgName: Trosabygdens Orienteringsklubb
+  orgNumber: 819000-9954
+  comment: null
+  categories:
+  - idrottsförening
+  - orienteringsklubb
+  web: https://tbok.se/
 
 - entry: 1236644801
   orgName: Motala Simsällskap
