@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-08-13-rev-203548
+# Date: 2026-08-15-rev-191111
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -458,6 +458,7 @@ entry	orgNumber	orgName	web	categories	comment
 1230185363	826000-8613	Barnarps Idrottsförening	https://www.svenskalag.se/barnarpsif	fotbollsklubb,gymnastikförening,idrottsförening,innebandyklubb	
 1230185603	854601-1787	Djurhemmet Tigerharen Vegan Sanctuary	https://tigerharen.org/	djurhem,djurvård	
 1230186015	849201-1435	Gullbrannakyrkan	https://www.gullbrannakyrkan.se/	religion	
+1230186361	559426-6909	Al Dente Holding AB	https://aldente.se/	eventarrangör	Grill-SM
 1230186429	895400-5651	Korpen Lycksele	https://www.korpenlycksele.se/	idrottsförening,korpenförening	
 1230186593	829500-7374	Alvesta SK	https://www.svenskalag.se/alvestask	idrottsförening,ishockeyklubb,skridskoklubb	
 1230186684	556712-8805	Peter o Susanne Bowling AB	https://psbowling.se/	bowling,försäljning,sportutrustning	
@@ -3738,6 +3739,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231394535	894000-6946	Tavelsjö AIK TAIK	https://www.flurkmarksik.se/	fotbollsklubb,idrottsförening	P12
 1231394600	814401-0447	Svenska Turistföreningen	https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-roslagens-lokalavdelning/	turistförening	Roslagens Lokalavdelning
 1231394949	559186-7675	Köpings Nya Trafikskola AB	https://kopingsnya.se/	trafikskola,utbildning	
+1231395292	802540-4263	Slättens Katthjälp	https://www.slattenskatthjalp.se/	djurskydd,katthem	
 1231396860	822002-8305	SPF Seniorerna Tinnerbäcken Linköping	https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-seniorerna-tinnerbacken-linkoping/	pensionärsklubb	
 1231397306	802543-7123	Träningsbubblan IK	https://www.traningsbubblan.nu/	idrottsförening,träning	
 1231397702	898801-0636	Öjebyns IBF	https://www.laget.se/OjebynsIBF/	idrottsförening,innebandyklubb	F08/F09
@@ -6752,6 +6754,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232561785	802535-5549	Föreningen Children with love	https://childrenwithlove.com/	intresseförening	
 1232563344	818000-0815	Pingstförsamlingen i Eskilstuna	https://pingsteskilstunaweb.se/	religion	
 1232563617	802533-8560	Inner Wheel Club Karlstad	https://www.innerwheel.se/	innerwheel,kvinnligt nätverk	
+1232564086	802523-4108	Hallands Motor Entusiaster	https://hmeihalland.se/	bilklubb,motorsport	
 1232564177	832000-3679	Borgholms Tennisklubb	https://www.borgholmstk.se/	idrottsförening,tennisklubb	
 1232565687	816000-5727	S:t Lukas Bromma	https://sanktlukas.se/bromma/	handledning,organisationsutveckling,psykoterapi	
 1232565737	802528-9425	Renoveringsraseriet	https://renoveringsraseriet.se/	byggnadsvård,intresseförening	

@@ -4073,6 +4073,14 @@ entries:
   - religion
   web: https://www.gullbrannakyrkan.se/
 
+- entry: 1230186361
+  orgName: Al Dente Holding AB
+  orgNumber: 559426-6909
+  comment: Grill-SM
+  categories:
+  - eventarrangör
+  web: https://aldente.se/
+
 - entry: 1230186429
   orgName: Korpen Lycksele
   orgNumber: 895400-5651
@@ -37376,6 +37384,15 @@ entries:
   - utbildning
   web: https://kopingsnya.se/
 
+- entry: 1231395292
+  orgName: Slättens Katthjälp
+  orgNumber: 802540-4263
+  comment: null
+  categories:
+  - djurskydd
+  - katthem
+  web: https://www.slattenskatthjalp.se/
+
 - entry: 1231396860
   orgName: SPF Seniorerna Tinnerbäcken Linköping
   orgNumber: 822002-8305
@@ -65861,6 +65878,15 @@ entries:
   - innerwheel
   - kvinnligt nätverk
   web: https://www.innerwheel.se/
+
+- entry: 1232564086
+  orgName: Hallands Motor Entusiaster
+  orgNumber: 802523-4108
+  comment: null
+  categories:
+  - bilklubb
+  - motorsport
+  web: https://hmeihalland.se/
 
 - entry: 1232564177
   orgName: Borgholms Tennisklubb
