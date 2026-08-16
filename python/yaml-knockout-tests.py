@@ -197,6 +197,7 @@ def testEntries(entries):
   result = {
     'malformed-vo': [],
     'malformed-entry': [],
+    'malformed-object-emtpy': [],
     
     'malformed-orgName-empty': [],
     'malformed-orgName-uppercase': [],
@@ -224,6 +225,7 @@ def testEntries(entries):
 
         malformed_vo = False
         malformed_vo_filtered = False
+        malformed_object_emtpy = False
         malformed_entry = False
         malformed_orgName = False
         malformed_orgName_empty = False
@@ -241,6 +243,7 @@ def testEntries(entries):
         malformed_web = False
         malformed_web_empty = False
         malformed_web_http = False
+        malformed_web_missing = False
 
         # Detect malformed ValueObjects, missing properties
         for VOproperty in ['entry', 'orgName', 'orgNumber', 'comment', 'categories', 'web']:
@@ -280,7 +283,6 @@ def testEntries(entries):
             # orgName - All lowercase test
             if entryVO['orgName'] == entryVO['orgName'].lower():
               malformed_orgName_lowercase = True
-
           else:
             malformed_orgName_empty = True
 
@@ -307,7 +309,6 @@ def testEntries(entries):
                 not re.search(r"^\d{6}\x2dXXXX$", str(entryVO['orgNumber']), flags=re.IGNORECASE)
               ):
                 malformed_orgNumber_unmasked = True
-
           else:
             malformed_orgNumber_empty == True
 
@@ -340,11 +341,8 @@ def testEntries(entries):
                 if category in ['overifierad', 'retired', 'suspended', 'terminated', 'unverified']:
                   malformed_vo_filtered = True
                   break
-
             else:
               malformed_categories_empty = True
-
-
 
           # Detect malformed or missing web
           if entryVO['web'] != None:
@@ -358,15 +356,22 @@ def testEntries(entries):
             else:
               if re.search(r"^http\x3a\x2f\x2f", str(entryVO['web']), flags=re.IGNORECASE):
                 malformed_web_http = True
-
           else:
             malformed_web_empty = True
 
 
 
-          #if len(entryVO['orgName']) >
-
-
+          # Detect completely empty object
+          if(
+            entryVO['orgName'] == None
+            and
+            entryVO['orgNumber'] == None
+            and
+            entryVO['categories'] == None
+            and
+            entryVO['web'] == None
+          ):
+            malformed_object_emtpy = True
 
 
 
@@ -377,8 +382,8 @@ def testEntries(entries):
 
 
           # Detect malformed or missing URLs
-          malformed_web_http = False
-          malformed_web_missing = False
+          #malformed_web_http = False
+          #malformed_web_missing = False
           if (
             entryVO['orgName'] != None
           and
@@ -390,7 +395,7 @@ def testEntries(entries):
 
 
           # Detect malformed or http URLs
-          malformed_web_http = False
+          #malformed_web_http = False
           if entryVO['web'] != None:
             if re.search(r"^http\x3a\x2f", entryVO['web'], flags=re.IGNORECASE):
               malformed_web_http = True
@@ -408,6 +413,10 @@ def testEntries(entries):
 
         if malformed_entry == True:
           result['malformed-entry'].append(entryVO)
+
+        if malformed_object_emtpy == True:
+          result['malformed-object-emtpy'].append(entryVO)
+          result['malformed-all-null'].append(entryVO)
 
         if malformed_orgName == True:
           result['malformed-orgName-empty'].append(entryVO)
