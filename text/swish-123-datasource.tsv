@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-08-15-rev-191111
+# Date: 2026-08-16-rev-150516
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3334,6 +3334,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231236876	802453-8756	Brooklyn Tigers HF	https://www.laget.se/BrooklynTigersHF/	idrottsförening,ishockeyklubb	
 1231237155	813200-1069	Jakobsbergskyrkans Församling	https://jakobsbergskyrkan.se/	religion	
 1231237403	826000-3580	Equmeniakyrkan Kaxholmen	https://equmeniakyrkankaxholmen.se/	religion	barn och ungdomsarbete
+1231237411	802532-0022	Axevalla Ponnytravklubb	https://www.axponny.se/	hästsport,ponnyklubb,travklubb	
 1231237452	844000-4326	PRO Fridhill Landskrona	https://pro.se/distrikt/distrikt-skane/samorganisationer/samorganisation-landskrona/foreningar/fridhill-landskrona.html	pensionärsklubb	
 1231237528	863000-1777	Trollhättans BOIS	https://www.svenskalag.se/tbis	fotbollsklubb,idrottsförening	
 1231237536	252003-4923	Dörby-Hossmo Pastorat	https://www.svenskakyrkan.se/dorby-hossmo	religion	Act Svenska Kyrkan
@@ -3941,6 +3942,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231478999	893201-6358	Frostviken-Hotagens Sameförening	https://ankarede.com/	intresseförening	
 1231479070	898500-4020	Storklintens Alpina Klubb	https://www.skalp.se/	alpinklubb,idrottsförening	
 1231479328	885000-6373	Hela Människan	https://helamanniskan.se/gavle/	hjälporganisation,religion	Gävle
+1231479377	826000-3648	Kungsportskyrkan Församling	https://www.kungsporten.com/	religion	Församlingskassan
 1231479765	872000-0416	Pingstförsamlingen Arvika	http://arvika.pingst.se/	religion	
 1231479815	818000-4189	Korpen Eskilstuna	https://www.korpen.se/korpeneskilstuna	idrottsförening,korpenförening	
 1231480151	802427-2125	Malungs Mellersta Viltvårdsområdesförening	https://malungsmellersta.se/	viltvård,viltvårdsområde	
@@ -9478,6 +9480,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233569167	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Årjäng, Nordmarkens Skola Högstadiet
 1233569241	802413-3525	Gotlands Russtrav Klubb	https://www.gotlandsrusstravklubb.com/	ponnyklubb,ponnytrav,russ,travsport	
 1233569696	835600-6653	Bräkne Härads Biodlareförening	https://www.hakarpsbin.se/	biodlareförening,biodling,naturbruk	
+1233569787	601014-XXXX	Ateljé Stillagatan / Klas Parknäs	https://klasparknas.se/	atelje,konstgalleri,konstnär	
 1233569894	879500-5050	Silvköparens Vattenskidklubb	https://www.svsk.se/	idrottsförening,vattenskidklubb	
 1233570454	778000-3385	Bostadsrättsföreningen Vetterslund i Västerås	https://vetterslund.se/	bostadsrättsförening	
 1233571023	885002-2362	Aktiva Seniorer Gävle	https://gavle.aktivaseniorer.com/	pensionärsklubb	
@@ -14987,6 +14990,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235774393	802502-1125	Vänföreningen Nilssons El & Teknikmuseum	https://www.nilssonsmuseum.se/	intresseförening,museiförening,vänförening	
 1235774450	875700-4752	Sköllersta Idrottsförening	https://skollerstaif.sportadmin.se/	idrottsförening,motionsgymnastik	
 1235775051	252002-7158	Stigtomta-Vrena Församling	https://www.svenskakyrkan.se/stigtomta-vrena	religion	
+1235775176	802488-5314	Gneisti Islandshästar	https://www.facebook.com/people/Gneisti-Islandsh%C3%A4star/61589360541829/	hästsport,islandshäst	
 1235775184	845001-1054	Dösjöbro Idrottsförening	https://www.dosjobroif.com/	fotbollsklubb,idrottsförening	Seniorlag Damer
 1235775283	802456-9371	Partille Taekwon-do	https://partilletaekwondo.sportadmin.se/	idrottsförening,kampsportsförening,taekwondoklubb	
 1235775416	883202-0302	Falu Jazzklubb	https://www.falujazz.se/	jazzclub,kulturförening	
@@ -17038,6 +17042,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236571038	802413-3400	Östersunds Ishockeyklubb	https://www.svenskalag.se/ostersundik	idrottsförening,ishockeyklubb	
 1236571079	802475-3470	Västsvenska Roller Derby-Sällskapet	https://vsrds.se/	idrottsförbund	
 1236571111	827000-6078	Föreningen Nässjö SKI	https://www.nassjoski.se/	idrottsförening,skidskytteklubb	
+1236571236	857203-4869	EFS i Furulund och Öjersjö Församling	https://efsfurulund.nu/ojersjokyrkan/	religion	
 1236571251	863500-2911	Orienteringsklubben Alehof	https://www.svenskalag.se/okalehof	idrottsförening,orienteringsklubb	
 1236571301	252000-1807	Tensta Församling	https://www.svenskakyrkan.se/vattholma/tensta	religion	Kollekt
 1236571343	872000-2743	Arvika Golfklubb	https://www.arvikagk.com/	golfklubb	

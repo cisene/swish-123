@@ -29861,6 +29861,16 @@ entries:
   - religion
   web: https://equmeniakyrkankaxholmen.se/
 
+- entry: 1231237411
+  orgName: Axevalla Ponnytravklubb
+  orgNumber: 802532-0022
+  comment: null
+  categories:
+  - hästsport
+  - ponnyklubb
+  - travklubb
+  web: https://www.axponny.se/
+
 - entry: 1231237452
   orgName: PRO Fridhill Landskrona
   orgNumber: 844000-4326
@@ -35311,6 +35321,14 @@ entries:
   - hjälporganisation
   - religion
   web: https://helamanniskan.se/gavle/
+
+- entry: 1231479377
+  orgName: Kungsportskyrkan Församling
+  orgNumber: 826000-3648
+  comment: Församlingskassan
+  categories:
+  - religion
+  web: https://www.kungsporten.com/
 
 - entry: 1231479765
   orgName: Pingstförsamlingen Arvika
@@ -85111,6 +85129,16 @@ entries:
   - naturbruk
   web: https://www.hakarpsbin.se/
 
+- entry: 1233569787
+  orgName: Ateljé Stillagatan / Klas Parknäs
+  orgNumber: 601014-XXXX
+  comment: null
+  categories:
+  - atelje
+  - konstgalleri
+  - konstnär
+  web: https://klasparknas.se/
+
 - entry: 1233569894
   orgName: Silvköparens Vattenskidklubb
   orgNumber: 879500-5050
@@ -134859,6 +134887,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/stigtomta-vrena
 
+- entry: 1235775176
+  orgName: Gneisti Islandshästar
+  orgNumber: 802488-5314
+  comment: null
+  categories:
+  - hästsport
+  - islandshäst
+  web: https://www.facebook.com/people/Gneisti-Islandsh%C3%A4star/61589360541829/
+
 - entry: 1235775184
   orgName: Dösjöbro Idrottsförening
   orgNumber: 845001-1054
@@ -153322,6 +153359,14 @@ entries:
   - idrottsförening
   - skidskytteklubb
   web: https://www.nassjoski.se/
+
+- entry: 1236571236
+  orgName: EFS i Furulund och Öjersjö Församling
+  orgNumber: 857203-4869
+  comment: null
+  categories:
+  - religion
+  web: https://efsfurulund.nu/ojersjokyrkan/
 
 - entry: 1236571251
   orgName: Orienteringsklubben Alehof
