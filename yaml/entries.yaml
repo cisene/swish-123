@@ -26,11 +26,13 @@ entries:
   web: https://svartvikskulturarv.se/
 
 - entry: 1230002261
-  orgName: null
-  orgNumber: null
+  orgName: MD Studio AB
+  orgNumber: 559451-1643
   comment: null
-  categories: null
-  web: null
+  categories:
+  - danskurser
+  - dansundervisning
+  web: https://www.mdance.se/
 
 - entry: 1230002634
   orgName: Landskrona Shotokan Academy
@@ -3424,11 +3426,13 @@ entries:
   web: https://www.bernadottemuseivanner.se/
 
 - entry: 1230162529
-  orgName: null
-  orgNumber: null
+  orgName: Paws of Peace
+  orgNumber: 802545-0886
   comment: null
-  categories: null
-  web: null
+  categories:
+  - djurskydd
+  - ukraina
+  web: https://pawsofpeace.se/sv/
 
 - entry: 1230164566
   orgName: Malmbergets Allmänna Idrottsförening
@@ -6618,7 +6622,7 @@ entries:
   web: https://www.djurensvanner.se/stockholm
 
 - entry: 1230284687
-  orgName: null
+  orgName: Anteco Systems S.L.
   orgNumber: null
   comment: null
   categories: null
@@ -7750,11 +7754,13 @@ entries:
   web: https://www.kvinnohuset-vasteras.org/
 
 - entry: 1230320713
-  orgName: null
-  orgNumber: null
+  orgName: Alvik Basketbollklubb
+  orgNumber: 802005-6720
   comment: null
-  categories: null
-  web: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.alvikbasket.nu/
 
 - entry: 1230320796
   orgName: Roslagsbro Idrottsförening
@@ -8415,11 +8421,14 @@ entries:
   web: https://wp.ejdern.org/
 
 - entry: 1230338806
-  orgName: null
-  orgNumber: null
-  comment: null
-  categories: null
-  web: null
+  orgName: Sveriges Lantbruksuniversitet
+  orgNumber: 202100-2817
+  comment: SLU 251 Vilt, Fisk och Miljö
+  categories:
+  - jordbruk
+  - naturbruk
+  - naturvård
+  web: https://www.slu.se/
 
 - entry: 1230338863
   orgName: Istorps Pastorat
@@ -9159,11 +9168,12 @@ entries:
   web: https://www.vgf.nu/
 
 - entry: 1230370320
-  orgName: null
-  orgNumber: null
-  comment: Schack
-  categories: null
-  web: null
+  orgName: Västerås Schackklubb
+  orgNumber: 878001-2582
+  comment: null
+  categories:
+  - schackklubb
+  web: https://www.vasterasschack.se/
 
 - entry: 1230370577
   orgName: Ödåkra Tennisklubb
@@ -9266,11 +9276,13 @@ entries:
   web: https://www.hembygd.se/sorbygdenshembygdsforening
 
 - entry: 1230375345
-  orgName: null
-  orgNumber: null
+  orgName: Kungs Pizzeria / Siber Handelsbolag
+  orgNumber: 969757-5703
   comment: null
-  categories: null
-  web: null
+  categories:
+  - pizzeria
+  - restaurant
+  web: https://kungspizzeria.se/
 
 - entry: 1230375493
   orgName: Riala Församling
@@ -9885,11 +9897,13 @@ entries:
   web: https://tannakerpingst.se/
 
 - entry: 1230400572
-  orgName: null
-  orgNumber: null
+  orgName: Tjustbygdens Järnvägsförening
+  orgNumber: 833600-5999
   comment: null
-  categories: null
-  web: null
+  categories:
+  - järnvägsförening
+  - museum
+  web: https://www.hwj.nu/
 
 - entry: 1230400952
   orgName: Hofors Ridsällskap
@@ -11403,11 +11417,12 @@ entries:
   web: https://www.sknereus.se/
 
 - entry: 1230458612
-  orgName: null
-  orgNumber: null
+  orgName: Destination Hässleholm
+  orgNumber: 837001-2968
   comment: null
-  categories: null
-  web: null
+  categories:
+  - turism
+  web: https://www.destinationhassleholm.se/
 
 - entry: 1230458620
   orgName: null

@@ -25,6 +25,15 @@ entries:
   - intresseförening
   web: https://svartvikskulturarv.se/
 
+- entry: 1230002261
+  orgName: MD Studio AB
+  orgNumber: 559451-1643
+  comment: null
+  categories:
+  - danskurser
+  - dansundervisning
+  web: https://www.mdance.se/
+
 - entry: 1230002634
   orgName: Landskrona Shotokan Academy
   orgNumber: 844001-1370
@@ -3371,6 +3380,15 @@ entries:
   - museum
   - vänförening
   web: https://www.bernadottemuseivanner.se/
+
+- entry: 1230162529
+  orgName: Paws of Peace
+  orgNumber: 802545-0886
+  comment: null
+  categories:
+  - djurskydd
+  - ukraina
+  web: https://pawsofpeace.se/sv/
 
 - entry: 1230164566
   orgName: Malmbergets Allmänna Idrottsförening
@@ -7507,6 +7525,15 @@ entries:
   - kvinnojour
   web: https://www.kvinnohuset-vasteras.org/
 
+- entry: 1230320713
+  orgName: Alvik Basketbollklubb
+  orgNumber: 802005-6720
+  comment: null
+  categories:
+  - basketbollklubb
+  - idrottsförening
+  web: https://www.alvikbasket.nu/
+
 - entry: 1230320796
   orgName: Roslagsbro Idrottsförening
   orgNumber: 814400-5223
@@ -8164,6 +8191,16 @@ entries:
   - intresseförening
   - museum
   web: https://wp.ejdern.org/
+
+- entry: 1230338806
+  orgName: Sveriges Lantbruksuniversitet
+  orgNumber: 202100-2817
+  comment: SLU 251 Vilt, Fisk och Miljö
+  categories:
+  - jordbruk
+  - naturbruk
+  - naturvård
+  web: https://www.slu.se/
 
 - entry: 1230338863
   orgName: Istorps Pastorat
@@ -8895,6 +8932,14 @@ entries:
   - idrottsförening
   web: https://www.vgf.nu/
 
+- entry: 1230370320
+  orgName: Västerås Schackklubb
+  orgNumber: 878001-2582
+  comment: null
+  categories:
+  - schackklubb
+  web: https://www.vasterasschack.se/
+
 - entry: 1230370577
   orgName: Ödåkra Tennisklubb
   orgNumber: 843003-3947
@@ -8986,6 +9031,15 @@ entries:
   categories:
   - hembygdsförening
   web: https://www.hembygd.se/sorbygdenshembygdsforening
+
+- entry: 1230375345
+  orgName: Kungs Pizzeria / Siber Handelsbolag
+  orgNumber: 969757-5703
+  comment: null
+  categories:
+  - pizzeria
+  - restaurant
+  web: https://kungspizzeria.se/
 
 - entry: 1230375493
   orgName: Riala Församling
@@ -9545,6 +9599,15 @@ entries:
   categories:
   - religion
   web: https://tannakerpingst.se/
+
+- entry: 1230400572
+  orgName: Tjustbygdens Järnvägsförening
+  orgNumber: 833600-5999
+  comment: null
+  categories:
+  - järnvägsförening
+  - museum
+  web: https://www.hwj.nu/
 
 - entry: 1230400952
   orgName: Hofors Ridsällskap
@@ -11026,6 +11089,14 @@ entries:
   - simklubb
   - simsällskap
   web: https://www.sknereus.se/
+
+- entry: 1230458612
+  orgName: Destination Hässleholm
+  orgNumber: 837001-2968
+  comment: null
+  categories:
+  - turism
+  web: https://www.destinationhassleholm.se/
 
 - entry: 1230459222
   orgName: Holmsvedens AIK
