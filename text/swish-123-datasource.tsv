@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-08-26-rev-182825
+# Date: 2026-08-31-rev-212418
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -7615,6 +7615,7 @@ entry	orgNumber	orgName	web	categories	comment
 1232863074	910501-XXXX	Mannen i CP-trucken - Författaren Johan Öberg	https://www.facebook.com/ManneniCPtrucken	författare	
 1232863736	802537-3351	Terrafem Örebro	https://terrafem.org/om-oss/lokalforeningar/orebro/	donation,kvinnojour	
 1232864320	898800-4001	Infjärdens SK	https://www.laget.se/ISK/	fotbollsklubb,idrottsförening	P15
+1232864577	556709-3926	Rättvik Event AB	https://www.dalhalla.se/	eventarrangör	Dahalla Parkering
 1232864999	802015-7478	Blekinge Gille i Stockholm	https://www.blekinge-gille-stockholm.se/	vänförening,vänskapsförening	
 1232865400	802458-4560	Nätverket Kvinnor inom Räddningstjänsten	https://www.kirtj.se/	blåljus,intresseförening,kvinnligt nätverk	
 1232866028	802488-8623	Svensk Förening för Sexologi	https://www.svensksexologi.se/	intresseförening	
@@ -7958,6 +7959,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233008232	802401-4576	Specialklubben Rhodesian Ridgeback Sverige, SRRS	https://www.srrs.org/	hundklubb,hunduppfödning	Västra
 1233008463	802403-5241	Sveriges Kvinnolobby	https://sverigeskvinnoorganisationer.se/	intresseförening	
 1233008539	802459-0583	Örebro Futsal Club	https://www.laget.se/OrebroFutsalClub/	futsalklubb,idrottsförening	
+1233009008	802505-8390	Svensk Förening för Narrativ Medicin	https://narrativmedicin.se/	intresseförening	
 1233010212	802016-8624	Svenska Avdelningen av Internationella Juristkommissionen, ICJ-Sweden	https://www.icj-sweden.org/	intresseorganisation,juridik	
 1233010717	630812-XXXX	Innegårds Hjortfarm / Anette Bergsman	https://innegardshjortfarm.n.nu/	gårdsförsäljning,köttproducent,lantbruk,viltkött	
 1233010972	854600-4469	Lysekils HK	https://www.laget.se/LysekilHK/	handbollsklubb,idrottsförening	
@@ -10201,6 +10203,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233880762	802422-0215	S606K Stockholms 606-klubb	http://www.s606k.se/	segelklubb,segelsällskap,segling	
 1233880820	897300-0089	GK Norra Norden	https://gknorranorden.sportadmin.se/	gymnastikförening,idrottsförening	
 1233881109	878001-5197	Tortuna Golfklubb	https://www.tortunagk.se/	golfklubb	
+1233881141	802007-2362	Socialistiskt Alternativ Luleå	https://www.socialisterna.org/socialistiskt-alternativ/lulea/	politiskt parti	
 1233881190	802430-4399	Korpförening Haparanda	https://www.korpenhaparanda.se/	idrottsförening	
 1233881448	893203-0938	Flykälens Byalag	https://www.flykalen.se/	byalag	
 1233881455	862501-0759	Skålleruds Fornminnes och Hembygdsförening	https://www.kanalmuseet.se/	fornminnesförening,hembygdsförening,museum	Kanalmuseet

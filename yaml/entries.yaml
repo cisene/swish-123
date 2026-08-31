@@ -73911,6 +73911,14 @@ entries:
   - idrottsförening
   web: https://www.laget.se/ISK/
 
+- entry: 1232864577
+  orgName: Rättvik Event AB
+  orgNumber: 556709-3926
+  comment: Dahalla Parkering
+  categories:
+  - eventarrangör
+  web: https://www.dalhalla.se/
+
 - entry: 1232864999
   orgName: Blekinge Gille i Stockholm
   orgNumber: 802015-7478
@@ -77196,6 +77204,14 @@ entries:
   - futsalklubb
   - idrottsförening
   web: https://www.laget.se/OrebroFutsalClub/
+
+- entry: 1233009008
+  orgName: Svensk Förening för Narrativ Medicin
+  orgNumber: 802505-8390
+  comment: null
+  categories:
+  - intresseförening
+  web: https://narrativmedicin.se/
 
 - entry: 1233009529
   orgName: null
@@ -98606,6 +98622,14 @@ entries:
   categories:
   - golfklubb
   web: https://www.tortunagk.se/
+
+- entry: 1233881141
+  orgName: Socialistiskt Alternativ Luleå
+  orgNumber: 802007-2362
+  comment: null
+  categories:
+  - politiskt parti
+  web: https://www.socialisterna.org/socialistiskt-alternativ/lulea/
 
 - entry: 1233881190
   orgName: Korpförening Haparanda

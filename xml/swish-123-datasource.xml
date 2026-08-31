@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2026-08-26-rev-182835
+Date: 2026-08-31-rev-212429
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -7615,6 +7615,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1232863074"><organization><number>910501-XXXX</number><name>Mannen i CP-trucken - Författaren Johan Öberg</name></organization><comment/><categories><category type="författare"/></categories><web>https://www.facebook.com/ManneniCPtrucken</web></entry>
     <entry number="1232863736"><organization><number>802537-3351</number><name>Terrafem Örebro</name></organization><comment/><categories><category type="donation"/><category type="kvinnojour"/></categories><web>https://terrafem.org/om-oss/lokalforeningar/orebro/</web></entry>
     <entry number="1232864320"><organization><number>898800-4001</number><name>Infjärdens SK</name></organization><comment>P15</comment><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.laget.se/ISK/</web></entry>
+    <entry number="1232864577"><organization><number>556709-3926</number><name>Rättvik Event AB</name></organization><comment>Dahalla Parkering</comment><categories><category type="eventarrangör"/></categories><web>https://www.dalhalla.se/</web></entry>
     <entry number="1232864999"><organization><number>802015-7478</number><name>Blekinge Gille i Stockholm</name></organization><comment/><categories><category type="vänförening"/><category type="vänskapsförening"/></categories><web>https://www.blekinge-gille-stockholm.se/</web></entry>
     <entry number="1232865400"><organization><number>802458-4560</number><name>Nätverket Kvinnor inom Räddningstjänsten</name></organization><comment/><categories><category type="blåljus"/><category type="intresseförening"/><category type="kvinnligt nätverk"/></categories><web>https://www.kirtj.se/</web></entry>
     <entry number="1232866028"><organization><number>802488-8623</number><name>Svensk Förening för Sexologi</name></organization><comment/><categories><category type="intresseförening"/></categories><web>https://www.svensksexologi.se/</web></entry>
@@ -7958,6 +7959,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1233008232"><organization><number>802401-4576</number><name>Specialklubben Rhodesian Ridgeback Sverige, SRRS</name></organization><comment>Västra</comment><categories><category type="hundklubb"/><category type="hunduppfödning"/></categories><web>https://www.srrs.org/</web></entry>
     <entry number="1233008463"><organization><number>802403-5241</number><name>Sveriges Kvinnolobby</name></organization><comment/><categories><category type="intresseförening"/></categories><web>https://sverigeskvinnoorganisationer.se/</web></entry>
     <entry number="1233008539"><organization><number>802459-0583</number><name>Örebro Futsal Club</name></organization><comment/><categories><category type="futsalklubb"/><category type="idrottsförening"/></categories><web>https://www.laget.se/OrebroFutsalClub/</web></entry>
+    <entry number="1233009008"><organization><number>802505-8390</number><name>Svensk Förening för Narrativ Medicin</name></organization><comment/><categories><category type="intresseförening"/></categories><web>https://narrativmedicin.se/</web></entry>
     <entry number="1233010212"><organization><number>802016-8624</number><name>Svenska Avdelningen av Internationella Juristkommissionen, ICJ-Sweden</name></organization><comment/><categories><category type="intresseorganisation"/><category type="juridik"/></categories><web>https://www.icj-sweden.org/</web></entry>
     <entry number="1233010717"><organization><number>630812-XXXX</number><name>Innegårds Hjortfarm / Anette Bergsman</name></organization><comment/><categories><category type="gårdsförsäljning"/><category type="köttproducent"/><category type="lantbruk"/><category type="viltkött"/></categories><web>https://innegardshjortfarm.n.nu/</web></entry>
     <entry number="1233010972"><organization><number>854600-4469</number><name>Lysekils HK</name></organization><comment/><categories><category type="handbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.laget.se/LysekilHK/</web></entry>
@@ -10201,6 +10203,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1233880762"><organization><number>802422-0215</number><name>S606K Stockholms 606-klubb</name></organization><comment/><categories><category type="segelklubb"/><category type="segelsällskap"/><category type="segling"/></categories><web>http://www.s606k.se/</web></entry>
     <entry number="1233880820"><organization><number>897300-0089</number><name>GK Norra Norden</name></organization><comment/><categories><category type="gymnastikförening"/><category type="idrottsförening"/></categories><web>https://gknorranorden.sportadmin.se/</web></entry>
     <entry number="1233881109"><organization><number>878001-5197</number><name>Tortuna Golfklubb</name></organization><comment/><categories><category type="golfklubb"/></categories><web>https://www.tortunagk.se/</web></entry>
+    <entry number="1233881141"><organization><number>802007-2362</number><name>Socialistiskt Alternativ Luleå</name></organization><comment/><categories><category type="politiskt parti"/></categories><web>https://www.socialisterna.org/socialistiskt-alternativ/lulea/</web></entry>
     <entry number="1233881190"><organization><number>802430-4399</number><name>Korpförening Haparanda</name></organization><comment/><categories><category type="idrottsförening"/></categories><web>https://www.korpenhaparanda.se/</web></entry>
     <entry number="1233881448"><organization><number>893203-0938</number><name>Flykälens Byalag</name></organization><comment/><categories><category type="byalag"/></categories><web>https://www.flykalen.se/</web></entry>
     <entry number="1233881455"><organization><number>862501-0759</number><name>Skålleruds Fornminnes och Hembygdsförening</name></organization><comment>Kanalmuseet</comment><categories><category type="fornminnesförening"/><category type="hembygdsförening"/><category type="museum"/></categories><web>https://www.kanalmuseet.se/</web></entry>

@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2026-08-26-rev-182803",
+    "date": "2026-08-31-rev-212356",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -83556,6 +83556,16 @@
       "web": "https://www.laget.se/ISK/"
     },
     {
+      "entry": 1232864577,
+      "orgName": "R\u00e4ttvik Event AB",
+      "orgNumber": "556709-3926",
+      "comment": "Dahalla Parkering",
+      "categories": [
+        "eventarrang\u00f6r"
+      ],
+      "web": "https://www.dalhalla.se/"
+    },
+    {
       "entry": 1232864999,
       "orgName": "Blekinge Gille i Stockholm",
       "orgNumber": "802015-7478",
@@ -87348,6 +87358,16 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.laget.se/OrebroFutsalClub/"
+    },
+    {
+      "entry": 1233009008,
+      "orgName": "Svensk F\u00f6rening f\u00f6r Narrativ Medicin",
+      "orgNumber": "802505-8390",
+      "comment": null,
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://narrativmedicin.se/"
     },
     {
       "entry": 1233010212,
@@ -112010,6 +112030,16 @@
         "golfklubb"
       ],
       "web": "https://www.tortunagk.se/"
+    },
+    {
+      "entry": 1233881141,
+      "orgName": "Socialistiskt Alternativ Lule\u00e5",
+      "orgNumber": "802007-2362",
+      "comment": null,
+      "categories": [
+        "politiskt parti"
+      ],
+      "web": "https://www.socialisterna.org/socialistiskt-alternativ/lulea/"
     },
     {
       "entry": 1233881190,
