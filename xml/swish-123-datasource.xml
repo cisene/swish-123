@@ -2,7 +2,7 @@
 <!--
 Title: Swish 123 Nummer
 Author: Christopher Isene <christopher.isene@gmail.com>
-Date: 2026-08-31-rev-212429
+Date: 2026-09-30-rev-201425
 Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
 -->
 <root>
@@ -3749,6 +3749,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1231394600"><organization><number>814401-0447</number><name>Svenska Turistföreningen</name></organization><comment>Roslagens Lokalavdelning</comment><categories><category type="turistförening"/></categories><web>https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-roslagens-lokalavdelning/</web></entry>
     <entry number="1231394949"><organization><number>559186-7675</number><name>Köpings Nya Trafikskola AB</name></organization><comment/><categories><category type="trafikskola"/><category type="utbildning"/></categories><web>https://kopingsnya.se/</web></entry>
     <entry number="1231395292"><organization><number>802540-4263</number><name>Slättens Katthjälp</name></organization><comment/><categories><category type="djurskydd"/><category type="katthem"/></categories><web>https://www.slattenskatthjalp.se/</web></entry>
+    <entry number="1231396233"><organization><number>819000-0623</number><name>Hargs BK</name></organization><comment>F 16/17</comment><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.svenskalag.se/hargsbk</web></entry>
     <entry number="1231396860"><organization><number>822002-8305</number><name>SPF Seniorerna Tinnerbäcken Linköping</name></organization><comment/><categories><category type="pensionärsklubb"/></categories><web>https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-seniorerna-tinnerbacken-linkoping/</web></entry>
     <entry number="1231397306"><organization><number>802543-7123</number><name>Träningsbubblan IK</name></organization><comment/><categories><category type="idrottsförening"/><category type="träning"/></categories><web>https://www.traningsbubblan.nu/</web></entry>
     <entry number="1231397702"><organization><number>898801-0636</number><name>Öjebyns IBF</name></organization><comment>F08/F09</comment><categories><category type="idrottsförening"/><category type="innebandyklubb"/></categories><web>https://www.laget.se/OjebynsIBF/</web></entry>
@@ -8120,6 +8121,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1233057858"><organization><number>817602-4746</number><name>Upplands Ornitologiska Förening</name></organization><comment/><categories><category type="fågelklubb"/><category type="fågelskådning"/><category type="ornitologi"/></categories><web>https://uppland.birdlife.se/</web></entry>
     <entry number="1233057882"><organization><number>802516-2150</number><name>Mellösa Bygderåd</name></organization><comment/><categories><category type="byalag"/><category type="bygdegårdsförening"/></categories><web>https://www.mellosa.nu/</web></entry>
     <entry number="1233057908"><organization><number>814000-0467</number><name>Ingarö Golfklubb</name></organization><comment/><categories><category type="golfklubb"/></categories><web>https://www.igk.se/</web></entry>
+    <entry number="1233058203"><organization><number>780411-XXXX</number><name>Den Sista Fotografen / Fredrik Streiffert</name></organization><comment/><categories><category type="fotograf"/></categories><web>https://www.fredrikstreiffert.se/</web></entry>
     <entry number="1233059060"><organization><number>802417-4503</number><name>Östergötlands Sjukhusclowner</name></organization><comment/><categories><category type="underhållning"/></categories><web>https://www.ostergotlandssjukhusclowner.se/</web></entry>
     <entry number="1233059078"><organization><number>853300-9281</number><name>Stenungsunds Innebandyklubb</name></organization><comment/><categories><category type="idrottsförening"/><category type="innebandyklubb"/></categories><web>https://www.laget.se/89ers/</web></entry>
     <entry number="1233059102"><organization><number>802407-5908</number><name>FK Bromma</name></organization><comment/><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.fkbromma.se/</web></entry>
@@ -10148,6 +10150,7 @@ Source: https://github.com/cisene/swish-123/xml/swish-123-datasource.xml
     <entry number="1233852951"><organization><number>889200-6159</number><name>Svenska Röda Korset</name></organization><comment>Skönsberg</comment><categories><category type="hjälporganisation"/><category type="rödakorset"/></categories><web>https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg</web></entry>
     <entry number="1233853215"><organization><number>252003-6399</number><name>Orust Pastorat</name></organization><comment>Insamling Torp Församling</comment><categories><category type="religion"/></categories><web>https://www.svenskakyrkan.se/orust</web></entry>
     <entry number="1233853223"><organization><number>802494-7023</number><name>Bouleklubben Jamtboule</name></organization><comment/><categories><category type="bouleklubb"/><category type="idrottsförening"/></categories><web>https://bkjamtboule.klubbenonline.se/</web></entry>
+    <entry number="1233855731"><organization><number>819000-0623</number><name>Hargs BK</name></organization><comment>P 15</comment><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.svenskalag.se/hargsbk</web></entry>
     <entry number="1233856085"><organization><number>815601-1101</number><name>Oaxen Bygdegårdsförening</name></organization><comment/><categories><category type="bygdegårdsförening"/></categories><web>https://bygdegardarna.se/oaxen/</web></entry>
     <entry number="1233856440"><organization><number>875001-2307</number><name>Rynninge IK</name></organization><comment>P-2016</comment><categories><category type="fotbollsklubb"/><category type="idrottsförening"/></categories><web>https://www.laget.se/RynningeIK/</web></entry>
     <entry number="1233858040"><organization><number>817605-6326</number><name>SPF Seniorerna Idun Uppsala</name></organization><comment/><categories><category type="pensionärsklubb"/></categories><web>https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/spf-seniorerna-idun-uppsala/</web></entry>

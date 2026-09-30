@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2026-08-31-rev-212356",
+    "date": "2026-09-30-rev-201350",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -41055,6 +41055,17 @@
         "katthem"
       ],
       "web": "https://www.slattenskatthjalp.se/"
+    },
+    {
+      "entry": 1231396233,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "F 16/17",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
     },
     {
       "entry": 1231396860,
@@ -89147,6 +89158,16 @@
       "web": "https://www.igk.se/"
     },
     {
+      "entry": 1233058203,
+      "orgName": "Den Sista Fotografen / Fredrik Streiffert",
+      "orgNumber": "780411-XXXX",
+      "comment": null,
+      "categories": [
+        "fotograf"
+      ],
+      "web": "https://www.fredrikstreiffert.se/"
+    },
+    {
       "entry": 1233059060,
       "orgName": "\u00d6sterg\u00f6tlands Sjukhusclowner",
       "orgNumber": "802417-4503",
@@ -111425,6 +111446,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://bkjamtboule.klubbenonline.se/"
+    },
+    {
+      "entry": 1233855731,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "P 15",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
     },
     {
       "entry": 1233856085,

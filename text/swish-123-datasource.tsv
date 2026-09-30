@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-08-31-rev-212418
+# Date: 2026-09-30-rev-201413
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3749,6 +3749,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231394600	814401-0447	Svenska Turistföreningen	https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-roslagens-lokalavdelning/	turistförening	Roslagens Lokalavdelning
 1231394949	559186-7675	Köpings Nya Trafikskola AB	https://kopingsnya.se/	trafikskola,utbildning	
 1231395292	802540-4263	Slättens Katthjälp	https://www.slattenskatthjalp.se/	djurskydd,katthem	
+1231396233	819000-0623	Hargs BK	https://www.svenskalag.se/hargsbk	fotbollsklubb,idrottsförening	F 16/17
 1231396860	822002-8305	SPF Seniorerna Tinnerbäcken Linköping	https://www.spfseniorerna.se/distrikt/ostgotadistriktet/foreningslista/spf-seniorerna-tinnerbacken-linkoping/	pensionärsklubb	
 1231397306	802543-7123	Träningsbubblan IK	https://www.traningsbubblan.nu/	idrottsförening,träning	
 1231397702	898801-0636	Öjebyns IBF	https://www.laget.se/OjebynsIBF/	idrottsförening,innebandyklubb	F08/F09
@@ -8120,6 +8121,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233057858	817602-4746	Upplands Ornitologiska Förening	https://uppland.birdlife.se/	fågelklubb,fågelskådning,ornitologi	
 1233057882	802516-2150	Mellösa Bygderåd	https://www.mellosa.nu/	byalag,bygdegårdsförening	
 1233057908	814000-0467	Ingarö Golfklubb	https://www.igk.se/	golfklubb	
+1233058203	780411-XXXX	Den Sista Fotografen / Fredrik Streiffert	https://www.fredrikstreiffert.se/	fotograf	
 1233059060	802417-4503	Östergötlands Sjukhusclowner	https://www.ostergotlandssjukhusclowner.se/	underhållning	
 1233059078	853300-9281	Stenungsunds Innebandyklubb	https://www.laget.se/89ers/	idrottsförening,innebandyklubb	
 1233059102	802407-5908	FK Bromma	https://www.fkbromma.se/	fotbollsklubb,idrottsförening	
@@ -10148,6 +10150,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233852951	889200-6159	Svenska Röda Korset	https://www.rodakorset.se/ort/vasternorrland/sundsvalls-kommun/verksamheter/insamlingsverksamhet-skonsberg	hjälporganisation,rödakorset	Skönsberg
 1233853215	252003-6399	Orust Pastorat	https://www.svenskakyrkan.se/orust	religion	Insamling Torp Församling
 1233853223	802494-7023	Bouleklubben Jamtboule	https://bkjamtboule.klubbenonline.se/	bouleklubb,idrottsförening	
+1233855731	819000-0623	Hargs BK	https://www.svenskalag.se/hargsbk	fotbollsklubb,idrottsförening	P 15
 1233856085	815601-1101	Oaxen Bygdegårdsförening	https://bygdegardarna.se/oaxen/	bygdegårdsförening	
 1233856440	875001-2307	Rynninge IK	https://www.laget.se/RynningeIK/	fotbollsklubb,idrottsförening	P-2016
 1233858040	817605-6326	SPF Seniorerna Idun Uppsala	https://www.spfseniorerna.se/distrikt/uppsaladistriktet/foreningslista/spf-seniorerna-idun-uppsala/	pensionärsklubb	
