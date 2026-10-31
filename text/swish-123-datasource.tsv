@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-09-30-rev-201413
+# Date: 2026-10-31-rev-230503
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -3218,6 +3218,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231199751	802518-2984	VSK Supporterklubb	https://www.vsk.nu/	supporterklubb	
 1231199975	802514-5767	Riksföreningen Äldres Hälsa	https://aldreshalsa.com/	hälsa,riksförening	
 1231201755	802444-1076	Konstens Vänner i Svedala, KVIS	https://gallerikvis.se/	konstförening,konstgalleri	
+1231203108	802500-5987	Helsingborgs Brassband	https://hbgbrass.se/	orkester	
 1231203132	556802-4235	Sjösportskolan Swedish Maritime Academy AB	https://www.sjosportskolan.se/	segling,sjösport,utbildning	
 1231203207	864501-8576	Seglora Byalag och Bygdegårdsförening	https://seglora.se/	byalag,bygdegårdsförening	
 1231203363	873201-7168	Bröstcancerföreningen Värmland	https://varmland.brostcancerforbundet.se/	bröstcancer,bröstcancerförening,donation,patientförening	
@@ -3278,6 +3279,7 @@ entry	orgNumber	orgName	web	categories	comment
 1231220045	873201-6731	PRO Vålberg	https://pro.se/distrikt/distrikt-varmland/samorganisationer/samorganisation-karlstad/foreningar/valberg.html	pensionärsklubb	
 1231220185	826000-3242	Odd Fellow Orden	https://oddfellow.se/hitta/institution/?inst=b111	oddfellowklubb,ordensällskap	Brödraloge 111 - Vapensmeden
 1231220508	802467-1011	Säters Jaktskytteklubb	http://www.satersjaktskytte.se/	jaktskytteklubb,skytteklubb	
+1231222298	884401-4962	Digers BK	https://www.svenskalag.se/digersbk	idrottsförening,innebandyklubb	
 1231222496	802496-4655	Sveriges Kaninvälfärdsförening	https://skvf.se/	djurvård,husdjur	
 1231222504	857203-4810	Skärgårdens SK	https://www.skargardenssk.se/	idrottsförening,konståkningsklubb	T3
 1231222579	885001-9582	Innebandyklubben Runsten	https://www.svenskalag.se/ibkrunsten	idrottsförening,innebandyklubb	
@@ -12532,6 +12534,7 @@ entry	orgNumber	orgName	web	categories	comment
 1234842662	874400-5367	Säffle Segelklubb	https://www.safflesegelklubb.se/	båtklubb,segelklubb,segelsällskap	
 1234843298	829000-3907	Älmhults Pistolklubb	https://www.svenskalag.se/almhultspk	pistolskytteklubb,skytteklubb	
 1234844031	802446-6511	Hembygdsföreningen Ydregården	https://www.hembygd.se/ydregarden	hembygdsförening	
+1234844189	817001-2408	Rotary Håbo	https://habo.rotary2355.se/sv/	rotaryklubb	
 1234844197	802448-0959	SPF Seniorerna Kung Karl Kungsör	https://www.spfseniorerna.se/distrikt/vastmanland/foreningslista/kungkarl/	pensionärsklubb	
 1234844205	889200-0137	Attmars Hembygdsförening	https://www.hembygd.se/attmar	hembygdsförening	
 1234844254	802439-0505	Värmskog Bygdegårdsförening	https://bygdegardarna.se/varmskog/	bygdegårdsförening	
@@ -16067,8 +16070,8 @@ entry	orgNumber	orgName	web	categories	comment
 1236182026	802435-8973	SPF Seniorerna Eksjö	https://www.spfseniorerna.se/distrikt/jonkopingdistriktet/foreningslista/eksjo/	pensionärsklubb	
 1236182174	802532-7506	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Helsingborg, TRGM School Run Sweden General Swish
 1236182372	202100-2874	Umeå Universitet	https://www.umu.se/kontakta-oss/ge-en-gava/sa-har-gor-du/donation/	donation	Demokratiforskning
-1236182463	894003-1977	Insamlingsstiftelsen för medicinsk forskning vid Umeå universitet	https://stodforskning.umu.se/	forskning,stiftelse	Infektionsforskning
-1236182521	894003-1977	Insamlingsstiftelsen för medicinsk forskning vid Umeå universitet	https://stodforskning.umu.se/	forskning,stiftelse	Medicinsk forskning
+1236182463	894003-1977	Insamlingsstiftelsen för medicinsk forskning vid Umeå universitet	https://stodforskning.umu.se/	donation,forskning,stiftelse	Infektionsforskning
+1236182521	894003-1977	Insamlingsstiftelsen för medicinsk forskning vid Umeå universitet	https://stodforskning.umu.se/	donation,forskning,stiftelse	Medicinsk forskning
 1236182745	556582-6756	Rammakarna på Östermalm AB	https://www.skenor.se/	försäljning,galleri	
 1236184329	898800-5214	Svenska Brukshundklubben Övre Norrlands Distikt	https://brukshundklubben.se/sbk-ovre-norrlands-distrikt/	brukshundklubb,hundsport	
 1236184360	802467-7182	Astronomisk Ungdom, AU	https://www.astronomiskungdom.se/	astronomi,intresseförening	
@@ -17180,6 +17183,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236630321	812800-6726	Svenska Bågjägareförbundet	https://bagjakt.org/	förbund,jaktskytteklubb,jaktvårdsklubb	
 1236630362	802451-5770	Granhults Hembygdsförening	http://www.granhultskyrka.org/	hembygdsförening	
 1236630396	802402-2553	Jazzmusikens Vänner i Norrtelje	https://norrteljejazz.se/	jazzclub,kulturförening	Norrtelje Jazzclub
+1236630909	838200-4342	Wä IF	https://www.svenskalag.se/waif	fotbollsklubb,idrottsförening	
 1236631287	826000-2673	Lekeryds Missionsförsamling	https://www.lekerydsmissionskyrka.com/	religion	Ungdomssektionen
 1236631303	894700-8838	SK Lejon	https://www.laget.se/SKLejon_-J202324/	idrottsförening,ishockeyklubb	J20
 1236631329	802510-8351	To All Mission	https://www.toallmission.se/	religion	

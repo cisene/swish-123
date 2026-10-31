@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2026-09-30-rev-201350",
+    "date": "2026-10-31-rev-230443",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -35249,6 +35249,16 @@
       "web": "https://gallerikvis.se/"
     },
     {
+      "entry": 1231203108,
+      "orgName": "Helsingborgs Brassband",
+      "orgNumber": "802500-5987",
+      "comment": null,
+      "categories": [
+        "orkester"
+      ],
+      "web": "https://hbgbrass.se/"
+    },
+    {
       "entry": 1231203132,
       "orgName": "Sj\u00f6sportskolan Swedish Maritime Academy AB",
       "orgNumber": "556802-4235",
@@ -35908,6 +35918,17 @@
         "skytteklubb"
       ],
       "web": "http://www.satersjaktskytte.se/"
+    },
+    {
+      "entry": 1231222298,
+      "orgName": "Digers BK",
+      "orgNumber": "884401-4962",
+      "comment": null,
+      "categories": [
+        "idrottsf\u00f6rening",
+        "innebandyklubb"
+      ],
+      "web": "https://www.svenskalag.se/digersbk"
     },
     {
       "entry": 1231222496,
@@ -137636,6 +137657,16 @@
       "web": "https://www.hembygd.se/ydregarden"
     },
     {
+      "entry": 1234844189,
+      "orgName": "Rotary H\u00e5bo",
+      "orgNumber": "817001-2408",
+      "comment": null,
+      "categories": [
+        "rotaryklubb"
+      ],
+      "web": "https://habo.rotary2355.se/sv/"
+    },
+    {
       "entry": 1234844197,
       "orgName": "SPF Seniorerna Kung Karl Kungs\u00f6r",
       "orgNumber": "802448-0959",
@@ -176663,6 +176694,7 @@
       "orgNumber": "894003-1977",
       "comment": "Infektionsforskning",
       "categories": [
+        "donation",
         "forskning",
         "stiftelse"
       ],
@@ -176674,6 +176706,7 @@
       "orgNumber": "894003-1977",
       "comment": "Medicinsk forskning",
       "categories": [
+        "donation",
         "forskning",
         "stiftelse"
       ],
@@ -188913,6 +188946,17 @@
         "kulturf\u00f6rening"
       ],
       "web": "https://norrteljejazz.se/"
+    },
+    {
+      "entry": 1236630909,
+      "orgName": "W\u00e4 IF",
+      "orgNumber": "838200-4342",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/waif"
     },
     {
       "entry": 1236631287,
