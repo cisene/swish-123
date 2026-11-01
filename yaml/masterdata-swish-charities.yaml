@@ -983,7 +983,9 @@ entries:
   orgName: New Hope
   orgNumber: 802014-8550
   comment: null
-  categories: null
+  categories:
+  - insamlingskontroll
+  - välgörenhet
   web: https://newhope.se/
 
 - entry: 1239013012
