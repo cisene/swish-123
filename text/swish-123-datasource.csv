@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-10-31-rev-230453
+# Date: 2026-11-01-rev-163950
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.csv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -581,6 +581,7 @@
 "1230227256","559239-7490","Floroteket AB","https://www.floroteket.se/","handelsträdgård",""
 "1230227330","559140-5914","Café Cuvée Stockholm AB","https://www.cafecuvee.se/","café",""
 "1230227520","835000-3037","Tving GoIF","https://www.svenskalag.se/tvinggoif","fotbollsklubb,gymnastikförening,idrottsförening","Medlemsavgift"
+"1230227827","894003-3130","Brattby-Gubböle Idrottsförening","https://www.svenskalag.se/brattbygubboleif","gymnastikförening,idrottsförening",""
 "1230229823","894001-6606","Ersmarks IK","https://www.eik.se/","fotbollsklubb,idrottsförening","F11"
 "1230230078","802479-9994","Insamlingsstiftelsen Wildhood Foundation","https://www.wildhood.org/","djurskydd,intresseförening,naturvård,stiftelse",""
 "1230230151","889200-6092","Sättna Baptistförsamling / Betania Kovland","https://betaniakovland.com/","religion",""
@@ -2656,6 +2657,7 @@
 "1230973818","882600-0989","Idrottsklubben Brage","https://ikbrage.se/","idrottsförening","Kiosk"
 "1230973826","829000-7395","Ljungby Brukshundsklubb","https://www.ljungbybrukshundklubb.se/","brukshundklubb,hundsport",""
 "1230973974","854600-8684","Föreningen Kallbadhusets Vänner","https://lysekilkallbadhus.se/","intresseförening,kallbadhus",""
+"1230974261","825000-1131","Grytgöls IK","https://www.svenskalag.se/grytgolsik","bordtennisklubb,fotbollsklubb,idrottsförening","Arrangemang"
 "1230974741","875700-0685","Ekeby Baptistförsamling","https://navesta.se/","religion","Nävesta"
 "1230974873","556859-8048","Seven Star AB","https://7star.se/","webhosting",""
 "1230974964","817301-4229","Furuhöjdskyrkans Församling Alunda","https://www.furuhojdskyrkan.se/","religion",""
@@ -3017,6 +3019,7 @@
 "1231123785","590607-XXXX","Grovare Evenemang & Kafé / Marie Arturén Persson","https://www.grovare.se/","café,eventarrangör",""
 "1231126549","838200-1280","Gratia Dei-stiftelsen","http://www.gratiadei.se/","religion,stiftelse",""
 "1231129097","898801-0636","Öjebyns IBF","https://www.laget.se/OjebynsIBF/","idrottsförening,innebandyklubb","F10"
+"1231129790","819000-0623","Hargs BK","https://www.svenskalag.se/hargsbk","fotbollsklubb,idrottsförening","P18"
 "1231130806","802510-9359","KFUM Östersund Basket Ungdom","https://www.laget.se/KFUMOstersundBasketUngdom/","basketbollklubb,idrottsförening",""
 "1231130855","814801-0963","Reumatikerföreningen Sollentuna-Upplands Väsby-Sigtuna","https://sus.reumatiker.se/","patientförening,reumatikerförening",""
 "1231131119","802439-8474","Föreningen Sesam","https://foreningensesam.se/","fritidsodling,intresseförening,trädgårdsförening",""
@@ -3497,6 +3500,7 @@
 "1231303361","889202-7460","Hullsjöns Bygdegårdsförening","https://hullsjon.se/","bygdegårdsförening",""
 "1231303635","853301-0164","Stenungsunds Basketbollklubb","https://www.svenskalag.se/stenungsundsbbk","basketbollklubb,idrottsförening",""
 "1231304096","252003-7215","Eda-Köla Pastorat","https://www.svenskakyrkan.se/eda-kola","religion","Lersjöns kapell"
+"1231304187","802440-9537","Svenska Röda Korset","https://www.rodakorset.se/ort/skane/malmo-stad/","hjälporganisation,rödakorset","Malmös Rödakorskrets"
 "1231304443","252004-8220","Furulunds Församling","https://www.svenskakyrkan.se/partille","religion","Fairtrade Furulund"
 "1231304500","252004-9285","Lysekils Pastorat","https://www.svenskakyrkan.se/lysekils-pastorat","religion",""
 "1231305333","556473-7822","Radio Viking - Radio och TV Reklam AB","https://www.radioviking.se/","lokalradio,lokaltelevision,mediaproduktion",""
@@ -3582,6 +3586,7 @@
 "1231328178","802555-1139","PK Old Boys & Girls","https://pkoldboys.se/","bowlingklubb,idrottsförening",""
 "1231329515","875700-0339","Betesdaförsamling Hällabrottet","https://betesda.se/","religion",""
 "1231330596","867200-6015","Sällskapet S/S Trafiks Vänner","https://sstrafik.se/","intresseförening,vänförening",""
+"1231330695","819000-0623","Hargs BK","https://www.svenskalag.se/hargsbk","fotbollsklubb,idrottsförening","F12/13"
 "1231331081","848000-7346","Abbekås Båtklubb","https://abbekasbatklubb.se/","båtklubb,båtsällskap",""
 "1231331495","802532-9916","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby","Ystad, Svarteskolan"
 "1231332303","817301-4906","Föreningen Vendelsjön","https://www.vendelsjon.se/","naturskydd,naturvård",""
@@ -9382,6 +9387,7 @@
 "1233528718","815600-6119","Södertälje Brukshundklubb","https://www.sodertaljebk.se/","brukshundklubb,hundsport",""
 "1233529799","889600-1057","KB65 Fotboll","https://www.svenskalag.se/KB65FF","fotbollsklubb,idrottsförening",""
 "1233531829","814000-4725","Hörselskadades Riksförbund","https://hrf.se/nacka-varmdo/","hörselnedsättning,patientförening,riksförbund","Nacka-Värmdö"
+"1233533098","819000-0623","Hargs BK","https://www.svenskalag.se/hargsbk","fotbollsklubb,idrottsförening","PF 2020"
 "1233534286","875002-7933","Örebro Läns Strokeförening, ÖLS","https://orebrolansstrokeforening.org/","intresseförening,patientförening,strokeforskning",""
 "1233534336","817605-9932","Aktiva Seniorer Eskilstuna","https://eskilstuna.aktivaseniorer.com/","pensionärsklubb",""
 "1233535010","802503-0860","Carlsberg Pripps Pensionärsförening","https://caprpewp.hemsidadirekt.se/","pensionärsklubb",""
@@ -15403,6 +15409,7 @@
 "1235936844","802476-2026","Hilti BJJ Västerås","https://hiltivästerås.se/","brasiliansk jiu-jitsu,idrottsförening,kampsportsförening",""
 "1235936869","829000-6702","Ljungby Konstförening","https://ljungby.konstforeningar.se/","konstförening",""
 "1235936901","849201-3514","Lions Club Laholm","https://lionslaholm.se/","lionsklubb",""
+"1235939319","819000-0623","Hargs BK","https://www.svenskalag.se/hargsbk","fotbollsklubb,idrottsförening","P17"
 "1235942826","873201-9172","Hörselskadades Riksförbund","https://hrf.se/kristinehamn/","hörselnedsättning,patientförening,riksförbund","Kristinehamn"
 "1235943246","802427-8361","Prostatacancerföreningen i Uppsala län","https://prostatacancerforbundet.se/om-oss/patientforeningar/uppsala/prostatacancerforeningen-i-uppsala-lan/","donation,patientförening,prostatacancer,prostatacancerförening",""
 "1235943659","690618-XXXX","Anna Redin Yoga / Anna Redin","","yoga",""
@@ -15699,6 +15706,8 @@
 "1236066013","802440-9552","Club Corvette Sweden","https://clubcorvette.se/malardalen/","bilklubb,bilsport","Distrikt Mälardalen"
 "1236066732","862500-4794","Wargöns IK","https://www.svenskalag.se/wargonsik","fotbollsklubb,idrottsförening",""
 "1236067508","819000-0623","Hargs BK","https://www.svenskalag.se/hargsbk","fotbollsklubb,idrottsförening","P09"
+"1236067912","819000-0623","Hargs BK","https://www.svenskalag.se/hargsbk","fotbollsklubb,idrottsförening","P13"
+"1236068589","802448-7038","Ljungbykanalen","https://ljungbykanalen.se/","lokalmedia,lokalradio,lokaltelevision",""
 "1236069421","802493-1498","Storsjöns Kallbadhus","https://www.storsjonskallbadhus.se/","intresseförening,kallbadhus",""
 "1236070320","857201-9738","Nimbuskyrkan","https://nimbuskyrkan.se/","religion","Nimbus Ungs verksamhet"
 "1236071245","873600-2364","Kristinehamns Samkristna Råd, KSR","https://www.equmeniakyrkanolme.se/equmeniakyrkanolme/extern/samverkan.htm","religion",""
@@ -15836,6 +15845,7 @@
 "1236112767","556705-3524","Chalmers Golfklubb","https://www.chgk.se/","golfklubb,restaurant","Restaurant"
 "1236112825","865000-8207","Svenljunga Ridklubb","https://svenljungaridklubb.se/","hästklubb,hästsport,ridklubb",""
 "1236113021","559287-6063","Nya Dagbladet, NyD / Aeon Media AB","https://nyadagbladet.se/","dagstidning,media",""
+"1236113062","819000-0623","Hargs BK","https://www.svenskalag.se/hargsbk","fotbollsklubb,idrottsförening","P19"
 "1236114946","802445-8369","Intresseföreningen Varvseken","https://www.varvseken.se/","intresseförening",""
 "1236114987","802537-4508","RPG Norrmalmskyrkan","https://www.norrmalmskyrkan.se/senior/","pensionärsklubb,religion",""
 "1236115125","802536-6025","Utterlidens byastugeförening","https://glommersbygden.se/en/byaforeningar/","bygdegårdsförening,bystuga",""
@@ -16731,6 +16741,7 @@
 "1236449664","802472-2459","Vattenfalls Veteraner i Norr","https://vvinorr.se/","pensionärsklubb",""
 "1236449896","865000-5856","Lions Club Kinna-Skene","https://www.lionsclubkinnaskene.se/","lionsklubb",""
 "1236449987","556875-9616","Ackes Dansskola AB","https://ackesdansskola.se/","danskurser,dansskola",""
+"1236450050","819000-0623","Hargs BK","https://www.svenskalag.se/hargsbk","fotbollsklubb,idrottsförening","F18/19"
 "1236450142","802533-5970","Åmals Filmstudio, Saga Bioförening Åmål","https://amal.filmstudio.se/","biograf,filmklubb",""
 "1236451587","802429-5423","Skällinge Skytteförening","https://www.svenskalag.se/skallingeskytteforening","skytteklubb,sportskytteklubb","Ammunition och serieavgifter"
 "1236451884","802534-5466","Team Rynkeby","https://www.team-rynkeby.se/","cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby","Helsingborg, Långvinkelns Montessori"
@@ -18157,6 +18168,7 @@
 "1236973093","252002-4189","Björna Församling","https://www.svenskakyrkan.se/ornskoldsvikssodra/bjornaforsamling","religion",""
 "1236973663","969778-6482","Mother Mercy","https://www.facebook.com/MotherMersy/","orkester",""
 "1236973879","845003-0500","Lunds Universitetshistoriska Sällskap, LUHS","https://www.luhs.se/","historieförening",""
+"1236973986","819000-0623","Hargs BK","https://www.svenskalag.se/hargsbk","fotbollsklubb,idrottsförening","P14"
 "1236974034","802455-0207","Vasaskolans Skol Idrottsförening","https://www.svenskalag.se/vasaskolansifhedemora","basketbollklubb,dansförening,discgolfklubb,fotbollsklubb,idrottsförening,innebandyklubb,ishockeyklubb",""
 "1236975015","802536-9458","Terrafem Uppsala","https://terrafem.org/om-oss/lokalforeningar/uppsala/","donation,kvinnojour",""
 "1236975783","888000-0024","Brännans Idrottsförening","https://www.svenskalag.se/brannansif","friidrottsförening,idrottsförening",""

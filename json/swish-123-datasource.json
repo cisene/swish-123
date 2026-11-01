@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2026-10-31-rev-230443",
+    "date": "2026-11-01-rev-163940",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -6284,6 +6284,17 @@
         "idrottsf\u00f6rening"
       ],
       "web": "https://www.svenskalag.se/tvinggoif"
+    },
+    {
+      "entry": 1230227827,
+      "orgName": "Brattby-Gubb\u00f6le Idrottsf\u00f6rening",
+      "orgNumber": "894003-3130",
+      "comment": null,
+      "categories": [
+        "gymnastikf\u00f6rening",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/brattbygubboleif"
     },
     {
       "entry": 1230229823,
@@ -29080,6 +29091,18 @@
       "web": "https://lysekilkallbadhus.se/"
     },
     {
+      "entry": 1230974261,
+      "orgName": "Grytg\u00f6ls IK",
+      "orgNumber": "825000-1131",
+      "comment": "Arrangemang",
+      "categories": [
+        "bordtennisklubb",
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/grytgolsik"
+    },
+    {
       "entry": 1230974741,
       "orgName": "Ekeby Baptistf\u00f6rsamling",
       "orgNumber": "875700-0685",
@@ -33017,6 +33040,17 @@
         "innebandyklubb"
       ],
       "web": "https://www.laget.se/OjebynsIBF/"
+    },
+    {
+      "entry": 1231129790,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "P18",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
     },
     {
       "entry": 1231130806,
@@ -38312,6 +38346,17 @@
       "web": "https://www.svenskakyrkan.se/eda-kola"
     },
     {
+      "entry": 1231304187,
+      "orgName": "Svenska R\u00f6da Korset",
+      "orgNumber": "802440-9537",
+      "comment": "Malm\u00f6s R\u00f6dakorskrets",
+      "categories": [
+        "hj\u00e4lporganisation",
+        "r\u00f6dakorset"
+      ],
+      "web": "https://www.rodakorset.se/ort/skane/malmo-stad/"
+    },
+    {
       "entry": 1231304443,
       "orgName": "Furulunds F\u00f6rsamling",
       "orgNumber": "252004-8220",
@@ -39239,6 +39284,17 @@
         "v\u00e4nf\u00f6rening"
       ],
       "web": "https://sstrafik.se/"
+    },
+    {
+      "entry": 1231330695,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "F12/13",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
     },
     {
       "entry": 1231331081,
@@ -102992,6 +103048,17 @@
         "riksf\u00f6rbund"
       ],
       "web": "https://hrf.se/nacka-varmdo/"
+    },
+    {
+      "entry": 1233533098,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "PF 2020",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
     },
     {
       "entry": 1233534286,
@@ -169381,6 +169448,17 @@
       "web": "https://lionslaholm.se/"
     },
     {
+      "entry": 1235939319,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "P17",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
+    },
+    {
       "entry": 1235942826,
       "orgName": "H\u00f6rselskadades Riksf\u00f6rbund",
       "orgNumber": "873201-9172",
@@ -172632,6 +172710,29 @@
       "web": "https://www.svenskalag.se/hargsbk"
     },
     {
+      "entry": 1236067912,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "P13",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
+    },
+    {
+      "entry": 1236068589,
+      "orgName": "Ljungbykanalen",
+      "orgNumber": "802448-7038",
+      "comment": null,
+      "categories": [
+        "lokalmedia",
+        "lokalradio",
+        "lokaltelevision"
+      ],
+      "web": "https://ljungbykanalen.se/"
+    },
+    {
       "entry": 1236069421,
       "orgName": "Storsj\u00f6ns Kallbadhus",
       "orgNumber": "802493-1498",
@@ -174128,6 +174229,17 @@
         "media"
       ],
       "web": "https://nyadagbladet.se/"
+    },
+    {
+      "entry": 1236113062,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "P19",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
     },
     {
       "entry": 1236114946,
@@ -183954,6 +184066,17 @@
         "dansskola"
       ],
       "web": "https://ackesdansskola.se/"
+    },
+    {
+      "entry": 1236450050,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "F18/19",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
     },
     {
       "entry": 1236450142,
@@ -199631,6 +199754,17 @@
         "historief\u00f6rening"
       ],
       "web": "https://www.luhs.se/"
+    },
+    {
+      "entry": 1236973986,
+      "orgName": "Hargs BK",
+      "orgNumber": "819000-0623",
+      "comment": "P14",
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/hargsbk"
     },
     {
       "entry": 1236974034,

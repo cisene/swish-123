@@ -5131,6 +5131,15 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/tvinggoif
 
+- entry: 1230227827
+  orgName: Brattby-Gubböle Idrottsförening
+  orgNumber: 894003-3130
+  comment: null
+  categories:
+  - gymnastikförening
+  - idrottsförening
+  web: https://www.svenskalag.se/brattbygubboleif
+
 - entry: 1230229823
   orgName: Ersmarks IK
   orgNumber: 894001-6606
@@ -23775,6 +23784,16 @@ entries:
   - kallbadhus
   web: https://lysekilkallbadhus.se/
 
+- entry: 1230974261
+  orgName: Grytgöls IK
+  orgNumber: 825000-1131
+  comment: Arrangemang
+  categories:
+  - bordtennisklubb
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/grytgolsik
+
 - entry: 1230974741
   orgName: Ekeby Baptistförsamling
   orgNumber: 875700-0685
@@ -26991,6 +27010,15 @@ entries:
   - idrottsförening
   - innebandyklubb
   web: https://www.laget.se/OjebynsIBF/
+
+- entry: 1231129790
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: P18
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
 
 - entry: 1231130806
   orgName: KFUM Östersund Basket Ungdom
@@ -31325,6 +31353,15 @@ entries:
   - religion
   web: https://www.svenskakyrkan.se/eda-kola
 
+- entry: 1231304187
+  orgName: Svenska Röda Korset
+  orgNumber: 802440-9537
+  comment: Malmös Rödakorskrets
+  categories:
+  - hjälporganisation
+  - rödakorset
+  web: https://www.rodakorset.se/ort/skane/malmo-stad/
+
 - entry: 1231304443
   orgName: Furulunds Församling
   orgNumber: 252004-8220
@@ -32083,6 +32120,15 @@ entries:
   - intresseförening
   - vänförening
   web: https://sstrafik.se/
+
+- entry: 1231330695
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: F12/13
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
 
 - entry: 1231331081
   orgName: Abbekås Båtklubb
@@ -84236,6 +84282,15 @@ entries:
   - patientförening
   - riksförbund
   web: https://hrf.se/nacka-varmdo/
+
+- entry: 1233533098
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: PF 2020
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
 
 - entry: 1233534286
   orgName: Örebro Läns Strokeförening, ÖLS
@@ -138582,6 +138637,15 @@ entries:
   - lionsklubb
   web: https://lionslaholm.se/
 
+- entry: 1235939319
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: P17
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
+
 - entry: 1235942826
   orgName: Hörselskadades Riksförbund
   orgNumber: 873201-9172
@@ -141241,6 +141305,25 @@ entries:
   - idrottsförening
   web: https://www.svenskalag.se/hargsbk
 
+- entry: 1236067912
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: P13
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
+
+- entry: 1236068589
+  orgName: Ljungbykanalen
+  orgNumber: 802448-7038
+  comment: null
+  categories:
+  - lokalmedia
+  - lokalradio
+  - lokaltelevision
+  web: https://ljungbykanalen.se/
+
 - entry: 1236069421
   orgName: Storsjöns Kallbadhus
   orgNumber: 802493-1498
@@ -142464,6 +142547,15 @@ entries:
   - dagstidning
   - media
   web: https://nyadagbladet.se/
+
+- entry: 1236113062
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: P19
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
 
 - entry: 1236114946
   orgName: Intresseföreningen Varvseken
@@ -150500,6 +150592,15 @@ entries:
   - danskurser
   - dansskola
   web: https://ackesdansskola.se/
+
+- entry: 1236450050
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: F18/19
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
 
 - entry: 1236450142
   orgName: Åmals Filmstudio, Saga Bioförening Åmål
@@ -163325,6 +163426,15 @@ entries:
   categories:
   - historieförening
   web: https://www.luhs.se/
+
+- entry: 1236973986
+  orgName: Hargs BK
+  orgNumber: 819000-0623
+  comment: P14
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/hargsbk
 
 - entry: 1236974034
   orgName: Vasaskolans Skol Idrottsförening
