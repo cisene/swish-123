@@ -203,6 +203,11 @@ def main():
           break
     else:
       skip_cats = True
+      print(f"\t{entryNumber} is blocked -- skipped")
+      continue
+
+    if skip_cats == True:
+      print(f"\t{entryNumber} is blocked -- skipped")
       continue
 
     if(
