@@ -2,7 +2,7 @@
   "#meta": {
     "title": "Swish 123 Nummer",
     "author": "Christopher Isene <christopher.isene@gmail.com>",
-    "date": "2026-11-01-rev-163940",
+    "date": "2026-11-08-rev-151729",
     "source": "https://github.com/cisene/swish-123/json/swish-123-datasource.json"
   },
   "data": [
@@ -110666,6 +110666,16 @@
       "web": "https://www.laget.se/LjungbyPadelforening/"
     },
     {
+      "entry": 1233824844,
+      "orgName": "Svenska freds och Skiljedomsf\u00f6reningen",
+      "orgNumber": "857203-5676",
+      "comment": "Folkfest f\u00f6r Fred & Klimat",
+      "categories": [
+        "intressef\u00f6rening"
+      ],
+      "web": "https://folkfestfredklimat.se/"
+    },
+    {
       "entry": 1233824877,
       "orgName": "Insamlingsstiftelsen Ellas Hj\u00e4ltar",
       "orgNumber": "802481-2169",
@@ -162351,6 +162361,18 @@
       "web": "https://www.svenskakyrkan.se/katrineholmsbygden"
     },
     {
+      "entry": 1235687017,
+      "orgName": "Ukrainahj\u00e4lp och Transport",
+      "orgNumber": "802554-9570",
+      "comment": null,
+      "categories": [
+        "donation",
+        "humanit\u00e4r hj\u00e4lpverksamhet",
+        "ukraina"
+      ],
+      "web": "https://ukrainahjalp.se/"
+    },
+    {
       "entry": 1235689898,
       "orgName": "F\u00f6reningen Traskatterna",
       "orgNumber": "802547-8291",
@@ -170221,6 +170243,19 @@
       "web": "https://www.svegsryttarforening.se/"
     },
     {
+      "entry": 1235965165,
+      "orgName": "Sexdrega Idrottsf\u00f6rening",
+      "orgNumber": "865000-3786",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "idrottsf\u00f6rening",
+        "l\u00f6parklubb",
+        "motionsdans"
+      ],
+      "web": "https://www.svenskalag.se/sexdregaif"
+    },
+    {
       "entry": 1235965330,
       "orgName": "Svenska R\u00f6da Korset",
       "orgNumber": "877100-4036",
@@ -177442,6 +177477,18 @@
         "ishockeyklubb"
       ],
       "web": "https://www.svenskalag.se/kb65-hockey"
+    },
+    {
+      "entry": 1236205330,
+      "orgName": "Albanska KF Liria",
+      "orgNumber": "826002-2218",
+      "comment": null,
+      "categories": [
+        "fotbollsklubb",
+        "futsalklubb",
+        "idrottsf\u00f6rening"
+      ],
+      "web": "https://www.svenskalag.se/albanskakfliria"
     },
     {
       "entry": 1236205603,

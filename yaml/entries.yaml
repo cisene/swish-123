@@ -58018,6 +58018,13 @@ entries:
   categories: null
   web: null
 
+- entry: 1232226397
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1232226520
   orgName: Växjö Squashklubb
   orgNumber: 802421-6445
@@ -97440,12 +97447,12 @@ entries:
   web: https://www.laget.se/LjungbyPadelforening/
 
 - entry: 1233824844
-  orgName: Fredsam
-  orgNumber: null
-  comment: null
+  orgName: Svenska freds och Skiljedomsföreningen
+  orgNumber: 857203-5676
+  comment: Folkfest för Fred & Klimat
   categories:
   - intresseförening
-  web: http://fredsam.se/
+  web: https://folkfestfredklimat.se/
 
 - entry: 1233824877
   orgName: Insamlingsstiftelsen Ellas Hjältar
@@ -140371,6 +140378,13 @@ entries:
   - ridsport
   web: https://www.ridsport.se/Distrikt/dalarnasridsportforbund/
 
+- entry: 1235622162
+  orgName: null
+  orgNumber: null
+  comment: null
+  categories: null
+  web: null
+
 - entry: 1235622196
   orgName: Riksförbundet HjärtLung
   orgNumber: 849202-3331
@@ -142030,6 +142044,16 @@ entries:
   categories:
   - religion
   web: https://www.svenskakyrkan.se/katrineholmsbygden
+
+- entry: 1235687017
+  orgName: Ukrainahjälp och Transport
+  orgNumber: 802554-9570
+  comment: null
+  categories:
+  - donation
+  - humanitär hjälpverksamhet
+  - ukraina
+  web: https://ukrainahjalp.se/
 
 - entry: 1235689898
   orgName: Föreningen Traskatterna
@@ -148885,6 +148909,17 @@ entries:
   - ridklubb
   web: https://www.svegsryttarforening.se/
 
+- entry: 1235965165
+  orgName: Sexdrega Idrottsförening
+  orgNumber: 865000-3786
+  comment: null
+  categories:
+  - fotbollsklubb
+  - idrottsförening
+  - löparklubb
+  - motionsdans
+  web: https://www.svenskalag.se/sexdregaif
+
 - entry: 1235965330
   orgName: Svenska Röda Korset
   orgNumber: 877100-4036
@@ -155000,6 +155035,16 @@ entries:
   - idrottsförening
   - ishockeyklubb
   web: https://www.svenskalag.se/kb65-hockey
+
+- entry: 1236205330
+  orgName: Albanska KF Liria
+  orgNumber: 826002-2218
+  comment: null
+  categories:
+  - fotbollsklubb
+  - futsalklubb
+  - idrottsförening
+  web: https://www.svenskalag.se/albanskakfliria
 
 - entry: 1236205603
   orgName: PRO Trekanten

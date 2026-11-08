@@ -1,7 +1,7 @@
 #
 # Title: Swish 123 Nummer
 # Author: Christopher Isene <christopher.isene@gmail.com>
-# Date: 2026-11-01-rev-164001
+# Date: 2026-11-08-rev-151751
 # Source: https://github.com/cisene/swish-123/text/swish-123-datasource.tsv
 #
 # Legend: Swish-nummer, OrgNr, OrgNamn, Länk, Kategorier, Kommentar
@@ -10080,6 +10080,7 @@ entry	orgNumber	orgName	web	categories	comment
 1233821592	802538-4945	Sävsjö RC Klubb	https://savsjorck.se/	rc-racing,rcklubb	
 1233823358	769621-6725	Bostadsrättsföreningen Drejaren i Göteborg	http://www.drejaren.se/	bostadsrättsförening	
 1233824240	802526-0210	Ljungby Padelförening	https://www.laget.se/LjungbyPadelforening/	idrottsförening,padelklubb	
+1233824844	857203-5676	Svenska freds och Skiljedomsföreningen	https://folkfestfredklimat.se/	intresseförening	Folkfest för Fred & Klimat
 1233824877	802481-2169	Insamlingsstiftelsen Ellas Hjältar	https://www.ellashjaltar.se/	hjälporganisation,stiftelse	
 1233824901	875000-8438	Karlslunds IF FK	https://www.karlslund.nu/	fotbollsklubb,idrottsförening	P13
 1233825643	815600-5715	PRO Järna Vårdinge	https://pro.se/distrikt/distrikt-stockholms-lan/samorganisationer/samorganisation-sodertalje/foreningar/jarna-vardinge.html	pensionärsklubb	
@@ -14762,6 +14763,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235686811	802405-0216	Skärgårdsstiftelsen I Stockholms Län	https://skargardsstiftelsen.se/	bastu,stiftelse	Nämdö Bastu
 1235686878	827500-9986	Skirö AIK	https://www.skiroaik.se/	idrottsförening	
 1235686969	252004-2074	Katrineholmsbygdens Församling	https://www.svenskakyrkan.se/katrineholmsbygden	religion	Kollekt/Gåvor Östra Vingåker
+1235687017	802554-9570	Ukrainahjälp och Transport	https://ukrainahjalp.se/	donation,humanitär hjälpverksamhet,ukraina	
 1235689898	802547-8291	Föreningen Traskatterna	https://www.traskatterna.se/	djurskydd,katthem	
 1235690243	802537-0241	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Vegby, Vegby skola
 1235690276	802532-8033	Team Rynkeby	https://www.team-rynkeby.se/	cancerforskning,donation,forskning,hjärnforskning,skolloppet,team rynkeby	Kil, Sannerudsskolan
@@ -15479,6 +15481,7 @@ entry	orgNumber	orgName	web	categories	comment
 1235964515	827500-6941	Örjansklubben	https://ramkvilla.com/foreningarna/orjansklubben/	bordtennisklubb,fotbollsklubb,idrottsförening,motionsklubb,skidlöparklubb	
 1235964580	849202-3174	Bosnjakiska Islamska Församlingen Halmstad	https://izbhalmstad.se/	religion	
 1235964937	893202-5045	Svegs Ryttarförening	https://www.svegsryttarforening.se/	hästklubb,hästsport,ridklubb	
+1235965165	865000-3786	Sexdrega Idrottsförening	https://www.svenskalag.se/sexdregaif	fotbollsklubb,idrottsförening,löparklubb,motionsdans	
 1235965330	877100-4036	Svenska Röda Korset	https://www.rodakorset.se/ort/orebro/nora-kommun/	hjälporganisation,rödakorset	Nora Rödakorskrets
 1235965397	885501-0503	Ockelbo Brukshundklubb	https://brukshundklubben.se/ockelbo-brukshundklubb/	brukshundklubb,hundsport	
 1235965413	854600-4667	Skaftö Ridklubb	https://skaftoridklubb.se/	hästsport,ridklubb	
@@ -16139,6 +16142,7 @@ entry	orgNumber	orgName	web	categories	comment
 1236204325	740321-XXXX	Lila shala / Kim Mariancila	https://www.lilashala.se/	yoga	
 1236204846	832800-1436	Skid & Orienteringsklubben Viljan	https://www.sokviljan.se/	idrottsförening,orienteringsklubb,skidlöparklubb	Tipspromenad
 1236204861	889600-6858	KB65 Hockey	https://www.svenskalag.se/kb65-hockey	idrottsförening,ishockeyklubb	
+1236205330	826002-2218	Albanska KF Liria	https://www.svenskalag.se/albanskakfliria	fotbollsklubb,futsalklubb,idrottsförening	
 1236205603	832401-4110	PRO Trekanten	https://pro.se/distrikt/distrikt-kalmar-lan/samorganisationer/samorganisation-kalmar/foreningar/trekanten.html	pensionärsklubb	
 1236207088	802532-1475	Stödföreningen för Svenska Kulturstiftelsen	https://www.svenskakulturstiftelsen.se/	stiftelse	
 1236208631	892600-3909	Vemdalens Idrottsförening	https://www.svenskalag.se/vifalpina	alpinklubb,idrottsförening	
